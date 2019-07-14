@@ -51853,6 +51853,65 @@ lucerno	lucerna	subst:sg:voc:f	nazwa pospolita
 lucernom	lucerna	subst:pl:dat:f	nazwa pospolita	
 lucerny	lucerna	subst:pl:nom.acc.voc:f	nazwa pospolita	
 lucerny	lucerna	subst:sg:gen:f	nazwa pospolita	
+lucerneńscy	lucerneński	adj:pl:nom.voc:m1:pos		
+lucerneńska	lucerneński	adj:sg:nom.voc:f:pos		
+lucerneńską	lucerneński	adj:sg:acc:f:pos		
+lucerneńską	lucerneński	adj:sg:inst:f:pos		
+lucerneńskich	lucerneński	adj:pl:acc:m1:pos		
+lucerneńskich	lucerneński	adj:pl:gen:m1.m2.m3.f.n:pos		
+lucerneńskich	lucerneński	adj:pl:loc:m1.m2.m3.f.n:pos		
+lucerneńskiego	lucerneński	adj:sg:acc:m1.m2:pos		
+lucerneńskiego	lucerneński	adj:sg:gen:m1.m2.m3.n:pos		
+lucerneńskiej	lucerneński	adj:sg:dat:f:pos		
+lucerneńskiej	lucerneński	adj:sg:gen:f:pos		
+lucerneńskiej	lucerneński	adj:sg:loc:f:pos		
+lucerneńskie	lucerneński	adj:pl:acc:m2.m3.f.n:pos		
+lucerneńskie	lucerneński	adj:pl:nom.voc:m2.m3.f.n:pos		
+lucerneńskie	lucerneński	adj:sg:acc:n:pos		
+lucerneńskie	lucerneński	adj:sg:nom.voc:n:pos		
+lucerneńskiemu	lucerneński	adj:sg:dat:m1.m2.m3.n:pos		
+lucerneński	lucerneński	adj:sg:acc:m3:pos		
+lucerneński	lucerneński	adj:sg:nom.voc:m1.m2.m3:pos		
+lucerneńskimi	lucerneński	adj:pl:inst:m1.m2.m3.f.n:pos		
+lucerneńskim	lucerneński	adj:pl:dat:m1.m2.m3.f.n:pos		
+lucerneńskim	lucerneński	adj:sg:inst:m1.m2.m3.n:pos		
+lucerneńskim	lucerneński	adj:sg:loc:m1.m2.m3.n:pos		
+lucerneńsko	lucerneński	adja		
+lucerneńsku	lucerneński	adjp:dat		
+lucerneńskościach	lucerneńskość	subst:pl:loc:f		
+lucerneńskościami	lucerneńskość	subst:pl:inst:f		
+lucerneńskością	lucerneńskość	subst:sg:inst:f		
+lucerneńskości	lucerneńskość	subst:pl:gen:f		
+lucerneńskości	lucerneńskość	subst:pl:nom.acc.voc:f		
+lucerneńskości	lucerneńskość	subst:sg:dat.loc:f		
+lucerneńskości	lucerneńskość	subst:sg:gen:f		
+lucerneńskości	lucerneńskość	subst:sg:voc:f		
+lucerneńskościom	lucerneńskość	subst:pl:dat:f		
+lucerneńskość	lucerneńskość	subst:sg:acc:f		
+lucerneńskość	lucerneńskość	subst:sg:nom:f		
+lucernianach	lucernianin	subst:pl:loc:m1	nazwa pospolita	
+lucernianami	lucernianin	subst:pl:inst:m1	nazwa pospolita	
+lucernianie	lucernianin	subst:pl:nom.voc:m1	nazwa pospolita	
+lucernianina	lucernianin	subst:sg:gen.acc:m1	nazwa pospolita	
+lucernianinem	lucernianin	subst:sg:inst:m1	nazwa pospolita	
+lucernianinie	lucernianin	subst:sg:loc:m1	nazwa pospolita	
+lucernianinie	lucernianin	subst:sg:voc:m1	nazwa pospolita	
+lucernianin	lucernianin	subst:sg:nom:m1	nazwa pospolita	
+lucernianinowi	lucernianin	subst:sg:dat:m1	nazwa pospolita	
+lucernian	lucernianin	subst:pl:gen.acc:m1	nazwa pospolita	
+lucernianom	lucernianin	subst:pl:dat:m1	nazwa pospolita	
+lucerniany	lucernianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+lucerniance	lucernianka	subst:sg:dat.loc:f	nazwa pospolita	
+lucernianek	lucernianka	subst:pl:gen:f	nazwa pospolita	
+lucerniankach	lucernianka	subst:pl:loc:f	nazwa pospolita	
+lucernianka	lucernianka	subst:sg:nom:f	nazwa pospolita	
+lucerniankami	lucernianka	subst:pl:inst:f	nazwa pospolita	
+lucernianką	lucernianka	subst:sg:inst:f	nazwa pospolita	
+lucerniankę	lucernianka	subst:sg:acc:f	nazwa pospolita	
+lucernianki	lucernianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+lucernianki	lucernianka	subst:sg:gen:f	nazwa pospolita	
+lucernianko	lucernianka	subst:sg:voc:f	nazwa pospolita	
+lucerniankom	lucernianka	subst:pl:dat:f	nazwa pospolita	
 lucernianościach	lucernianość	subst:pl:loc:f	nazwa pospolita	
 lucernianościami	lucernianość	subst:pl:inst:f	nazwa pospolita	
 lucernianością	lucernianość	subst:sg:inst:f	nazwa pospolita	

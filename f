@@ -32345,16 +32345,27 @@ flagsztokowi	flagsztok	subst:sg:dat:m3	nazwa pospolita	żegl.
 flagsztoków	flagsztok	subst:pl:gen:m3	nazwa pospolita	żegl.
 flagsztoku	flagsztok	subst:sg:loc:m3	nazwa pospolita	żegl.
 flagsztoku	flagsztok	subst:sg:voc:m3	nazwa pospolita	żegl.
+flakach	flak	subst:pl:loc:m2	nazwa pospolita	pot.
 flakach	flak	subst:pl:loc:m3	nazwa pospolita	
+flaka	flak	subst:sg:gen.acc:m2	nazwa pospolita	pot.
 flaka	flak	subst:sg:gen:m3	nazwa pospolita	
+flakami	flak	subst:pl:inst:m2	nazwa pospolita	pot.
 flakami	flak	subst:pl:inst:m3	nazwa pospolita	
 flak	flak	subst:sg:nom.acc:m3	nazwa pospolita	
+flak	flak	subst:sg:nom:m2	nazwa pospolita	pot.
+flakiem	flak	subst:sg:inst:m2	nazwa pospolita	pot.
 flakiem	flak	subst:sg:inst:m3	nazwa pospolita	
+flaki	flak	subst:pl:nom.acc.voc:m2	nazwa pospolita	pot.
 flaki	flak	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+flakom	flak	subst:pl:dat:m2	nazwa pospolita	pot.
 flakom	flak	subst:pl:dat:m3	nazwa pospolita	
+flakowi	flak	subst:sg:dat:m2	nazwa pospolita	pot.
 flakowi	flak	subst:sg:dat:m3	nazwa pospolita	
+flaków	flak	subst:pl:gen:m2	nazwa pospolita	pot.
 flaków	flak	subst:pl:gen:m3	nazwa pospolita	
+flaku	flak	subst:sg:loc:m2	nazwa pospolita	pot.
 flaku	flak	subst:sg:loc:m3	nazwa pospolita	
+flaku	flak	subst:sg:voc:m2	nazwa pospolita	pot.
 flaku	flak	subst:sg:voc:m3	nazwa pospolita	
 flakach	flaki	subst:pl:loc:n:pt	nazwa pospolita	kulin.
 flakami	flaki	subst:pl:inst:n:pt	nazwa pospolita	kulin.
