@@ -15255,6 +15255,7 @@ jedźmy	jechać:v1	impt:pl:pri:imperf
 jechać	jechać:v2	inf:imperf		
 jechałoby	jechać:v2	cond:sg:n1.n2:imperf		
 jechało	jechać:v2	praet:sg:n1.n2:imperf		
+jechało	jechać:v2	praet:sg:n1.n2:ter:imperf		
 jedzie	jechać:v2	fin:sg:ter:imperf		
 jechaniach	jechanie	subst:pl:loc:n2	pospolita	
 jechania	jechanie	subst:pl:acc:n2	pospolita	
