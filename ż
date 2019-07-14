@@ -4287,6 +4287,7 @@
 żaróweczki	żaróweczka	subst:sg:gen:f	nazwa pospolita	
 żaróweczkom	żaróweczka	subst:pl:dat:f	nazwa pospolita	
 żaróweczko	żaróweczka	subst:sg:voc:f	nazwa pospolita	
+żarówiasto	żarówiasto	adv:pos		
 żarówiastościach	żarówiastość	subst:pl:loc:f	nazwa pospolita	
 żarówiastościami	żarówiastość	subst:pl:inst:f	nazwa pospolita	
 żarówiastością	żarówiastość	subst:sg:inst:f	nazwa pospolita	
@@ -4301,7 +4302,6 @@
 żarówiastości	żarówiastość	subst:sg:voc:f	nazwa pospolita	
 żarówiastość	żarówiastość	subst:sg:acc:f	nazwa pospolita	
 żarówiastość	żarówiastość	subst:sg:nom:f	nazwa pospolita	
-żarówiasci	żarówiasty	adj:pl:nom.voc:m1.p1:pos		
 żarówiasta	żarówiasty	adj:sg:nom.voc:f:pos		
 żarówiastą	żarówiasty	adj:sg:acc:f:pos		
 żarówiastą	żarówiasty	adj:sg:inst:f:pos		
@@ -4325,6 +4325,7 @@
 żarówiastym	żarówiasty	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 żarówiasty	żarówiasty	adj:sg:acc:m3:pos		
 żarówiasty	żarówiasty	adj:sg:nom.voc:m1.m2.m3:pos		
+żarówiaści	żarówiasty	adj:pl:nom.voc:m1.p1:pos		
 żarówce	żarówka	subst:sg:dat:f	nazwa pospolita	
 żarówce	żarówka	subst:sg:loc:f	nazwa pospolita	
 żarówek	żarówka	subst:pl:gen:f	nazwa pospolita	

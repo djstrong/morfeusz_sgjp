@@ -3072,6 +3072,21 @@ Eulogiuszów	Eulogiusz	subst:pl:acc:m1	imię
 Eulogiuszów	Eulogiusz	subst:pl:gen:m1	imię	
 Eulogiuszu	Eulogiusz	subst:sg:loc:m1	imię	
 Eulogiuszu	Eulogiusz	subst:sg:voc:m1	imię	
+Eupatoriach	Eupatoria	subst:pl:loc:f	nazwa geograficzna	
+Eupatoria	Eupatoria	subst:sg:nom:f	nazwa geograficzna	
+Eupatoriami	Eupatoria	subst:pl:inst:f	nazwa geograficzna	
+Eupatorią	Eupatoria	subst:sg:inst:f	nazwa geograficzna	
+Eupatorie	Eupatoria	subst:pl:acc:f	nazwa geograficzna	
+Eupatorie	Eupatoria	subst:pl:nom:f	nazwa geograficzna	
+Eupatorie	Eupatoria	subst:pl:voc:f	nazwa geograficzna	
+Eupatorię	Eupatoria	subst:sg:acc:f	nazwa geograficzna	
+Eupatorii	Eupatoria	subst:pl:gen:f	nazwa geograficzna	hom.
+Eupatorii	Eupatoria	subst:sg:dat:f	nazwa geograficzna	
+Eupatorii	Eupatoria	subst:sg:gen:f	nazwa geograficzna	
+Eupatorii	Eupatoria	subst:sg:loc:f	nazwa geograficzna	
+Eupatorio	Eupatoria	subst:sg:voc:f	nazwa geograficzna	
+Eupatoriom	Eupatoria	subst:pl:dat:f	nazwa geograficzna	
+Eupatoryj	Eupatoria	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Eurazjach	Eurazja	subst:pl:loc:f	nazwa geograficzna	
 Eurazja	Eurazja	subst:sg:nom:f	nazwa geograficzna	
 Eurazjami	Eurazja	subst:pl:inst:f	nazwa geograficzna	

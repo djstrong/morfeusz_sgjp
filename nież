@@ -1861,6 +1861,7 @@ nieżarowytrzymałym	nieżarowytrzymały	adj:sg:inst:m1.m2.m3.n1.n2:pos
 nieżarowytrzymałym	nieżarowytrzymały	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 nieżarowytrzymały	nieżarowytrzymały	adj:sg:acc:m3:pos		
 nieżarowytrzymały	nieżarowytrzymały	adj:sg:nom.voc:m1.m2.m3:pos		
+nieżarówiasto	nieżarówiasto	adv:pos		
 nieżarówiastościach	nieżarówiastość	subst:pl:loc:f	nazwa pospolita	
 nieżarówiastościami	nieżarówiastość	subst:pl:inst:f	nazwa pospolita	
 nieżarówiastością	nieżarówiastość	subst:sg:inst:f	nazwa pospolita	
@@ -1875,7 +1876,6 @@ nieżarówiastości	nieżarówiastość	subst:sg:voc:f	nazwa pospolita
 nieżarówiastościom	nieżarówiastość	subst:pl:dat:f	nazwa pospolita	
 nieżarówiastość	nieżarówiastość	subst:sg:acc:f	nazwa pospolita	
 nieżarówiastość	nieżarówiastość	subst:sg:nom:f	nazwa pospolita	
-nieżarówiasci	nieżarówiasty	adj:pl:nom.voc:m1.p1:pos		
 nieżarówiasta	nieżarówiasty	adj:sg:nom.voc:f:pos		
 nieżarówiastą	nieżarówiasty	adj:sg:acc:f:pos		
 nieżarówiastą	nieżarówiasty	adj:sg:inst:f:pos		
@@ -1898,6 +1898,7 @@ nieżarówiastym	nieżarówiasty	adj:sg:inst:m1.m2.m3.n1.n2:pos
 nieżarówiastym	nieżarówiasty	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 nieżarówiasty	nieżarówiasty	adj:sg:acc:m3:pos		
 nieżarówiasty	nieżarówiasty	adj:sg:nom.voc:m1.m2.m3:pos		
+nieżarówiaści	nieżarówiasty	adj:pl:nom.voc:m1.p1:pos		
 nieżarówkowościach	nieżarówkowość	subst:pl:loc:f	nazwa pospolita	
 nieżarówkowościami	nieżarówkowość	subst:pl:inst:f	nazwa pospolita	
 nieżarówkowością	nieżarówkowość	subst:sg:inst:f	nazwa pospolita	

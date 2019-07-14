@@ -5691,7 +5691,7 @@ ilomakolwiek	ilekolwiek:n1	num:pl:inst:m1.m2.m3.f.n1.n2.p1.p2:congr		rzad.
 ilukolwiek	ilekolwiek:n1	num:pl:acc:m1:rec		
 ilukolwiek	ilekolwiek:n1	num:pl:gen.dat.inst.loc:m1.m2.m3.f.n1.n2.p1.p2:congr		
 ilukolwiek	ilekolwiek:n1	num:pl:nom.voc:m1:rec		
-ilekolwiek	ilekolwiek:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+ilekolwiek	ilekolwiek:n2	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		rzad.
 ilekroć	ilekroć	adv		przest.
 ilekrotnie	ilekrotnie	adv:pos		daw.
 ilekrotnościach	ilekrotność	subst:pl:loc:f	nazwa pospolita	daw.
@@ -5739,13 +5739,13 @@ ilu	ile:n1	num:comp
 ilu	ile:n1	num:pl:acc:m1:rec		
 ilu	ile:n1	num:pl:gen.dat.inst.loc:m1.m2.m3.f.n1.n2.p1.p2:congr		
 ilu	ile:n1	num:pl:nom.voc:m1:rec		
-ile	ile:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+ile	ile:n2	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		rzad.
 ileś	ileś:n1	num:pl:nom.acc.voc:m2.m3.f.n1.n2.p1.p2:rec		
 ilomaś	ileś:n1	num:pl:inst:m1.m2.m3.f.n1.n2.p1.p2:congr		rzad.
 iluś	ileś:n1	num:pl:acc:m1:rec		
 iluś	ileś:n1	num:pl:gen.dat.inst.loc:m1.m2.m3.f.n1.n2.p1.p2:congr		
 iluś	ileś:n1	num:pl:nom.voc:m1:rec		
-ileś	ileś:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+ileś	ileś:n2	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		rzad.
 ileusach	ileus	subst:pl:loc:m3	nazwa pospolita	
 ileusa	ileus	subst:sg:gen:m3	nazwa pospolita	
 ileusami	ileus	subst:pl:inst:m3	nazwa pospolita	
@@ -5765,7 +5765,7 @@ ilomaż	ileż:n1	num:pl:inst:m1.m2.m3.f.n1.n2.p1.p2:congr		rzad.
 iluż	ileż:n1	num:pl:acc:m1:rec		
 iluż	ileż:n1	num:pl:gen.dat.inst.loc:m1.m2.m3.f.n1.n2.p1.p2:congr		
 iluż	ileż:n1	num:pl:nom.voc:m1:rec		
-ileż	ileż:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+ileż	ileż:n2	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		rzad.
 iliryjscy	iliryjski	adj:pl:nom.voc:m1.p1:pos		
 iliryjska	iliryjski	adj:sg:nom.voc:f:pos		
 iliryjską	iliryjski	adj:sg:acc:f:pos		
@@ -39814,6 +39814,34 @@ ipadzie	ipad	subst:sg:loc:m2	nazwa pospolita
 ipadzie	ipad	subst:sg:loc:m3	nazwa pospolita	
 ipadzie	ipad	subst:sg:voc:m2	nazwa pospolita	
 ipadzie	ipad	subst:sg:voc:m3	nazwa pospolita	
+iPadach	iPad	subst:pl:loc:m2	nazwa pospolita	
+iPadach	iPad	subst:pl:loc:m3	nazwa pospolita	
+iPada	iPad	subst:sg:acc:m2	nazwa pospolita	
+iPada	iPad	subst:sg:gen:m2	nazwa pospolita	
+iPada	iPad	subst:sg:gen:m3	nazwa pospolita	
+iPadami	iPad	subst:pl:inst:m2	nazwa pospolita	
+iPadami	iPad	subst:pl:inst:m3	nazwa pospolita	
+iPadem	iPad	subst:sg:inst:m2	nazwa pospolita	
+iPadem	iPad	subst:sg:inst:m3	nazwa pospolita	
+iPad	iPad	subst:sg:acc:m3	nazwa pospolita	
+iPad	iPad	subst:sg:nom:m2	nazwa pospolita	
+iPad	iPad	subst:sg:nom:m3	nazwa pospolita	
+iPadom	iPad	subst:pl:dat:m2	nazwa pospolita	
+iPadom	iPad	subst:pl:dat:m3	nazwa pospolita	
+iPadowi	iPad	subst:sg:dat:m2	nazwa pospolita	
+iPadowi	iPad	subst:sg:dat:m3	nazwa pospolita	
+iPadów	iPad	subst:pl:gen:m2	nazwa pospolita	
+iPadów	iPad	subst:pl:gen:m3	nazwa pospolita	
+iPady	iPad	subst:pl:acc:m2	nazwa pospolita	
+iPady	iPad	subst:pl:acc:m3	nazwa pospolita	
+iPady	iPad	subst:pl:nom:m2	nazwa pospolita	
+iPady	iPad	subst:pl:nom:m3	nazwa pospolita	
+iPady	iPad	subst:pl:voc:m2	nazwa pospolita	
+iPady	iPad	subst:pl:voc:m3	nazwa pospolita	
+iPadzie	iPad	subst:sg:loc:m2	nazwa pospolita	
+iPadzie	iPad	subst:sg:loc:m3	nazwa pospolita	
+iPadzie	iPad	subst:sg:voc:m2	nazwa pospolita	
+iPadzie	iPad	subst:sg:voc:m3	nazwa pospolita	
 ipeenowcach	ipeenowiec	subst:pl:loc:m1	nazwa pospolita	
 ipeenowca	ipeenowiec	subst:sg:acc:m1	nazwa pospolita	
 ipeenowca	ipeenowiec	subst:sg:gen:m1	nazwa pospolita	
@@ -39965,6 +39993,34 @@ iphonie	iphone	subst:sg:loc:m2	nazwa pospolita
 iphonie	iphone	subst:sg:loc:m3	nazwa pospolita	
 iphonie	iphone	subst:sg:voc:m2	nazwa pospolita	
 iphonie	iphone	subst:sg:voc:m3	nazwa pospolita	
+iPhone’ach	iPhone	subst:pl:loc:m2	nazwa pospolita	
+iPhone’ach	iPhone	subst:pl:loc:m3	nazwa pospolita	
+iPhone’a	iPhone	subst:sg:acc:m2	nazwa pospolita	
+iPhone’a	iPhone	subst:sg:gen:m2	nazwa pospolita	
+iPhone’a	iPhone	subst:sg:gen:m3	nazwa pospolita	
+iPhone’ami	iPhone	subst:pl:inst:m2	nazwa pospolita	
+iPhone’ami	iPhone	subst:pl:inst:m3	nazwa pospolita	
+iPhone’em	iPhone	subst:sg:inst:m2	nazwa pospolita	
+iPhone’em	iPhone	subst:sg:inst:m3	nazwa pospolita	
+iPhone	iPhone	subst:sg:acc:m3	nazwa pospolita	
+iPhone	iPhone	subst:sg:nom:m2	nazwa pospolita	
+iPhone	iPhone	subst:sg:nom:m3	nazwa pospolita	
+iPhone’om	iPhone	subst:pl:dat:m2	nazwa pospolita	
+iPhone’om	iPhone	subst:pl:dat:m3	nazwa pospolita	
+iPhone’owi	iPhone	subst:sg:dat:m2	nazwa pospolita	
+iPhone’owi	iPhone	subst:sg:dat:m3	nazwa pospolita	
+iPhone’ów	iPhone	subst:pl:gen:m2	nazwa pospolita	
+iPhone’ów	iPhone	subst:pl:gen:m3	nazwa pospolita	
+iPhone’y	iPhone	subst:pl:acc:m2	nazwa pospolita	
+iPhone’y	iPhone	subst:pl:acc:m3	nazwa pospolita	
+iPhone’y	iPhone	subst:pl:nom:m2	nazwa pospolita	
+iPhone’y	iPhone	subst:pl:nom:m3	nazwa pospolita	
+iPhone’y	iPhone	subst:pl:voc:m2	nazwa pospolita	
+iPhone’y	iPhone	subst:pl:voc:m3	nazwa pospolita	
+iPhonie	iPhone	subst:sg:loc:m2	nazwa pospolita	
+iPhonie	iPhone	subst:sg:loc:m3	nazwa pospolita	
+iPhonie	iPhone	subst:sg:voc:m2	nazwa pospolita	
+iPhonie	iPhone	subst:sg:voc:m3	nazwa pospolita	
 ipodach	ipod	subst:pl:loc:m2	nazwa pospolita	
 ipodach	ipod	subst:pl:loc:m3	nazwa pospolita	
 ipoda	ipod	subst:sg:acc:m2	nazwa pospolita	
@@ -39993,6 +40049,34 @@ ipodzie	ipod	subst:sg:loc:m2	nazwa pospolita
 ipodzie	ipod	subst:sg:loc:m3	nazwa pospolita	
 ipodzie	ipod	subst:sg:voc:m2	nazwa pospolita	
 ipodzie	ipod	subst:sg:voc:m3	nazwa pospolita	
+iPodach	iPod	subst:pl:loc:m2	nazwa pospolita	
+iPodach	iPod	subst:pl:loc:m3	nazwa pospolita	
+iPoda	iPod	subst:sg:acc:m2	nazwa pospolita	
+iPoda	iPod	subst:sg:gen:m2	nazwa pospolita	
+iPoda	iPod	subst:sg:gen:m3	nazwa pospolita	
+iPodami	iPod	subst:pl:inst:m2	nazwa pospolita	
+iPodami	iPod	subst:pl:inst:m3	nazwa pospolita	
+iPodem	iPod	subst:sg:inst:m2	nazwa pospolita	
+iPodem	iPod	subst:sg:inst:m3	nazwa pospolita	
+iPod	iPod	subst:sg:acc:m3	nazwa pospolita	
+iPod	iPod	subst:sg:nom:m2	nazwa pospolita	
+iPod	iPod	subst:sg:nom:m3	nazwa pospolita	
+iPodom	iPod	subst:pl:dat:m2	nazwa pospolita	
+iPodom	iPod	subst:pl:dat:m3	nazwa pospolita	
+iPodowi	iPod	subst:sg:dat:m2	nazwa pospolita	
+iPodowi	iPod	subst:sg:dat:m3	nazwa pospolita	
+iPodów	iPod	subst:pl:gen:m2	nazwa pospolita	
+iPodów	iPod	subst:pl:gen:m3	nazwa pospolita	
+iPody	iPod	subst:pl:acc:m2	nazwa pospolita	
+iPody	iPod	subst:pl:acc:m3	nazwa pospolita	
+iPody	iPod	subst:pl:nom:m2	nazwa pospolita	
+iPody	iPod	subst:pl:nom:m3	nazwa pospolita	
+iPody	iPod	subst:pl:voc:m2	nazwa pospolita	
+iPody	iPod	subst:pl:voc:m3	nazwa pospolita	
+iPodzie	iPod	subst:sg:loc:m2	nazwa pospolita	
+iPodzie	iPod	subst:sg:loc:m3	nazwa pospolita	
+iPodzie	iPod	subst:sg:voc:m2	nazwa pospolita	
+iPodzie	iPod	subst:sg:voc:m3	nazwa pospolita	
 ipomeach	ipomea	subst:pl:loc:f	nazwa pospolita	
 ipomea	ipomea	subst:sg:nom:f	nazwa pospolita	
 ipomeami	ipomea	subst:pl:inst:f	nazwa pospolita	
