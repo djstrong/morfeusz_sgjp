@@ -290,38 +290,34 @@ Abercjuszów	Abercjusz	subst:pl:acc:m1	imię
 Abercjuszów	Abercjusz	subst:pl:gen:m1	imię	
 Abercjuszu	Abercjusz	subst:sg:loc:m1	imię	
 Abercjuszu	Abercjusz	subst:sg:voc:m1	imię	
-Abigail	Abigail	subst:pl:acc:f	imię	
-Abigail	Abigail	subst:pl:dat:f	imię	
-Abigail	Abigail	subst:pl:gen:f	imię	
-Abigail	Abigail	subst:pl:inst:f	imię	
-Abigail	Abigail	subst:pl:loc:f	imię	
-Abigail	Abigail	subst:pl:nom:f	imię	
-Abigail	Abigail	subst:pl:voc:f	imię	
-Abigail	Abigail	subst:sg:acc:f	imię	
-Abigail	Abigail	subst:sg:dat:f	imię	
-Abigail	Abigail	subst:sg:gen:f	imię	
-Abigail	Abigail	subst:sg:inst:f	imię	
-Abigail	Abigail	subst:sg:loc:f	imię	
-Abigail	Abigail	subst:sg:nom:f	imię	
-Abigail	Abigail	subst:sg:voc:f	imię	
-Abisadzy	Abisag	subst:pl:nom:m1	imię	
-Abisadzy	Abisag	subst:pl:voc:m1	imię	
-Abisaga	Abisag	subst:sg:acc:m1	imię	
-Abisaga	Abisag	subst:sg:gen:m1	imię	
-Abisag	Abisag	subst:sg:nom:m1	imię	
-Abisagach	Abisag	subst:pl:loc:m1	imię	
-Abisagami	Abisag	subst:pl:inst:m1	imię	
-Abisagi	Abisag	depr:pl:nom:m2	imię	
-Abisagi	Abisag	depr:pl:voc:m2	imię	
-Abisagiem	Abisag	subst:sg:inst:m1	imię	
-Abisagom	Abisag	subst:pl:dat:m1	imię	
-Abisagowi	Abisag	subst:sg:dat:m1	imię	
-Abisagowie	Abisag	subst:pl:nom:m1	imię	
-Abisagowie	Abisag	subst:pl:voc:m1	imię	
-Abisagów	Abisag	subst:pl:acc:m1	imię	
-Abisagów	Abisag	subst:pl:gen:m1	imię	
-Abisagu	Abisag	subst:sg:loc:m1	imię	
-Abisagu	Abisag	subst:sg:voc:m1	imię	
+Abigail	Abigail	subst:pl:acc:f	imię	bibl.
+Abigail	Abigail	subst:pl:dat:f	imię	bibl.
+Abigail	Abigail	subst:pl:gen:f	imię	bibl.
+Abigail	Abigail	subst:pl:inst:f	imię	bibl.
+Abigail	Abigail	subst:pl:loc:f	imię	bibl.
+Abigail	Abigail	subst:pl:nom:f	imię	bibl.
+Abigail	Abigail	subst:pl:voc:f	imię	bibl.
+Abigail	Abigail	subst:sg:acc:f	imię	bibl.
+Abigail	Abigail	subst:sg:dat:f	imię	bibl.
+Abigail	Abigail	subst:sg:gen:f	imię	bibl.
+Abigail	Abigail	subst:sg:inst:f	imię	bibl.
+Abigail	Abigail	subst:sg:loc:f	imię	bibl.
+Abigail	Abigail	subst:sg:nom:f	imię	bibl.
+Abigail	Abigail	subst:sg:voc:f	imię	bibl.
+Abisag	Abisag	subst:pl:acc:f	imię	bibl.
+Abisag	Abisag	subst:pl:dat:f	imię	bibl.
+Abisag	Abisag	subst:pl:gen:f	imię	bibl.
+Abisag	Abisag	subst:pl:inst:f	imię	bibl.
+Abisag	Abisag	subst:pl:loc:f	imię	bibl.
+Abisag	Abisag	subst:pl:nom:f	imię	bibl.
+Abisag	Abisag	subst:pl:voc:f	imię	bibl.
+Abisag	Abisag	subst:sg:acc:f	imię	bibl.
+Abisag	Abisag	subst:sg:dat:f	imię	bibl.
+Abisag	Abisag	subst:sg:gen:f	imię	bibl.
+Abisag	Abisag	subst:sg:inst:f	imię	bibl.
+Abisag	Abisag	subst:sg:loc:f	imię	bibl.
+Abisag	Abisag	subst:sg:nom:f	imię	bibl.
+Abisag	Abisag	subst:sg:voc:f	imię	bibl.
 Abisynia	Abisynia	subst:sg:nom:f	nazwa geograficzna	
 Abisyniach	Abisynia	subst:pl:loc:f	nazwa geograficzna	
 Abisyniami	Abisynia	subst:pl:inst:f	nazwa geograficzna	
@@ -367,6 +363,20 @@ Abisyńczyków	Abisyńczyk	subst:pl:acc:m1	nazwa pospolita	etn.
 Abisyńczyków	Abisyńczyk	subst:pl:gen:m1	nazwa pospolita	etn.
 Abisyńczyku	Abisyńczyk	subst:sg:loc:m1	nazwa pospolita	etn.
 Abisyńczyku	Abisyńczyk	subst:sg:voc:m1	nazwa pospolita	etn.
+Abiszag	Abiszag	subst:pl:acc:f	imię	bibl.
+Abiszag	Abiszag	subst:pl:dat:f	imię	bibl.
+Abiszag	Abiszag	subst:pl:gen:f	imię	bibl.
+Abiszag	Abiszag	subst:pl:inst:f	imię	bibl.
+Abiszag	Abiszag	subst:pl:loc:f	imię	bibl.
+Abiszag	Abiszag	subst:pl:nom:f	imię	bibl.
+Abiszag	Abiszag	subst:pl:voc:f	imię	bibl.
+Abiszag	Abiszag	subst:sg:acc:f	imię	bibl.
+Abiszag	Abiszag	subst:sg:dat:f	imię	bibl.
+Abiszag	Abiszag	subst:sg:gen:f	imię	bibl.
+Abiszag	Abiszag	subst:sg:inst:f	imię	bibl.
+Abiszag	Abiszag	subst:sg:loc:f	imię	bibl.
+Abiszag	Abiszag	subst:sg:nom:f	imię	bibl.
+Abiszag	Abiszag	subst:sg:voc:f	imię	bibl.
 Abnera	Abner	subst:sg:acc:m1	imię	
 Abnera	Abner	subst:sg:gen:m1	imię	
 Abner	Abner	subst:sg:nom:m1	imię	

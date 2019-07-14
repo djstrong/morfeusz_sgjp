@@ -3294,6 +3294,20 @@ lakowymi	lakowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 lakowym	lakowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 lakowym	lakowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 lakowym	lakowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+lakówce	lakówka	subst:sg:dat:f	nazwa pospolita	
+lakówce	lakówka	subst:sg:loc:f	nazwa pospolita	
+lakówek	lakówka	subst:pl:gen:f	nazwa pospolita	
+lakówkach	lakówka	subst:pl:loc:f	nazwa pospolita	
+lakówka	lakówka	subst:sg:nom:f	nazwa pospolita	
+lakówkami	lakówka	subst:pl:inst:f	nazwa pospolita	
+lakówką	lakówka	subst:sg:inst:f	nazwa pospolita	
+lakówkę	lakówka	subst:sg:acc:f	nazwa pospolita	
+lakówki	lakówka	subst:pl:acc:f	nazwa pospolita	
+lakówki	lakówka	subst:pl:nom:f	nazwa pospolita	
+lakówki	lakówka	subst:pl:voc:f	nazwa pospolita	
+lakówki	lakówka	subst:sg:gen:f	nazwa pospolita	
+lakówko	lakówka	subst:sg:voc:f	nazwa pospolita	
+lakówkom	lakówka	subst:pl:dat:f	nazwa pospolita	
 lakrymatorach	lakrymator	subst:pl:loc:m3	nazwa pospolita	
 lakrymatora	lakrymator	subst:sg:gen:m3	nazwa pospolita	
 lakrymatorami	lakrymator	subst:pl:inst:m3	nazwa pospolita	

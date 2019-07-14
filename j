@@ -28004,24 +28004,39 @@ jenisejskości	jenisejskość	subst:sg:voc:f	nazwa pospolita
 jenisejskościom	jenisejskość	subst:pl:dat:f	nazwa pospolita	
 jenisejskość	jenisejskość	subst:sg:acc:f	nazwa pospolita	
 jenisejskość	jenisejskość	subst:sg:nom:f	nazwa pospolita	
-jeniuszach	jeniusz	subst:pl:loc:m1	nazwa pospolita	przest.
-jeniusza	jeniusz	subst:sg:acc:m1	nazwa pospolita	przest.
-jeniusza	jeniusz	subst:sg:gen:m1	nazwa pospolita	przest.
-jeniuszami	jeniusz	subst:pl:inst:m1	nazwa pospolita	przest.
-jeniusze	jeniusz	depr:pl:nom:m2	nazwa pospolita	przest.
-jeniusze	jeniusz	depr:pl:voc:m2	nazwa pospolita	przest.
-jeniusze	jeniusz	subst:pl:nom:m1	nazwa pospolita	przest.
-jeniusze	jeniusz	subst:pl:voc:m1	nazwa pospolita	przest.
-jeniuszem	jeniusz	subst:sg:inst:m1	nazwa pospolita	przest.
-jeniusz	jeniusz	subst:sg:nom:m1	nazwa pospolita	przest.
-jeniuszom	jeniusz	subst:pl:dat:m1	nazwa pospolita	przest.
-jeniuszowi	jeniusz	subst:sg:dat:m1	nazwa pospolita	przest.
-jeniuszów	jeniusz	subst:pl:acc:m1	nazwa pospolita	przest.
-jeniuszów	jeniusz	subst:pl:gen:m1	nazwa pospolita	przest.
-jeniuszu	jeniusz	subst:sg:loc:m1	nazwa pospolita	przest.
-jeniuszu	jeniusz	subst:sg:voc:m1	nazwa pospolita	przest.
-jeniuszy	jeniusz	subst:pl:acc:m1	nazwa pospolita	przest.
-jeniuszy	jeniusz	subst:pl:gen:m1	nazwa pospolita	przest.
+jeniuszach	jeniusz:s1	subst:pl:loc:m1	nazwa pospolita	przest.
+jeniusza	jeniusz:s1	subst:sg:acc:m1	nazwa pospolita	przest.
+jeniusza	jeniusz:s1	subst:sg:gen:m1	nazwa pospolita	przest.
+jeniuszami	jeniusz:s1	subst:pl:inst:m1	nazwa pospolita	przest.
+jeniusze	jeniusz:s1	depr:pl:nom:m2	nazwa pospolita	przest.
+jeniusze	jeniusz:s1	depr:pl:voc:m2	nazwa pospolita	przest.
+jeniusze	jeniusz:s1	subst:pl:nom:m1	nazwa pospolita	przest.
+jeniusze	jeniusz:s1	subst:pl:voc:m1	nazwa pospolita	przest.
+jeniuszem	jeniusz:s1	subst:sg:inst:m1	nazwa pospolita	przest.
+jeniusz	jeniusz:s1	subst:sg:nom:m1	nazwa pospolita	przest.
+jeniuszom	jeniusz:s1	subst:pl:dat:m1	nazwa pospolita	przest.
+jeniuszowi	jeniusz:s1	subst:sg:dat:m1	nazwa pospolita	przest.
+jeniuszów	jeniusz:s1	subst:pl:acc:m1	nazwa pospolita	przest.
+jeniuszów	jeniusz:s1	subst:pl:gen:m1	nazwa pospolita	przest.
+jeniuszu	jeniusz:s1	subst:sg:loc:m1	nazwa pospolita	przest.
+jeniuszu	jeniusz:s1	subst:sg:voc:m1	nazwa pospolita	przest.
+jeniuszy	jeniusz:s1	subst:pl:acc:m1	nazwa pospolita	przest.
+jeniuszy	jeniusz:s1	subst:pl:gen:m1	nazwa pospolita	przest.
+jeniuszach	jeniusz:s2	subst:pl:loc:m3	nazwa pospolita	przest.
+jeniuszami	jeniusz:s2	subst:pl:inst:m3	nazwa pospolita	przest.
+jeniusze	jeniusz:s2	subst:pl:acc:m3	nazwa pospolita	przest.
+jeniusze	jeniusz:s2	subst:pl:nom:m3	nazwa pospolita	przest.
+jeniusze	jeniusz:s2	subst:pl:voc:m3	nazwa pospolita	przest.
+jeniuszem	jeniusz:s2	subst:sg:inst:m3	nazwa pospolita	przest.
+jeniusz	jeniusz:s2	subst:sg:acc:m3	nazwa pospolita	przest.
+jeniusz	jeniusz:s2	subst:sg:nom:m3	nazwa pospolita	przest.
+jeniuszom	jeniusz:s2	subst:pl:dat:m3	nazwa pospolita	przest.
+jeniuszowi	jeniusz:s2	subst:sg:dat:m3	nazwa pospolita	przest.
+jeniuszów	jeniusz:s2	subst:pl:gen:m3	nazwa pospolita	przest.
+jeniuszu	jeniusz:s2	subst:sg:gen:m3	nazwa pospolita	przest.
+jeniuszu	jeniusz:s2	subst:sg:loc:m3	nazwa pospolita	przest.
+jeniuszu	jeniusz:s2	subst:sg:voc:m3	nazwa pospolita	przest.
+jeniuszy	jeniusz:s2	subst:pl:gen:m3	nazwa pospolita	przest.
 jeno	jeno	qub		książk.
 jenocie	jenot	subst:sg:loc:m2	nazwa pospolita	zool.
 jenocie	jenot	subst:sg:voc:m2	nazwa pospolita	zool.
