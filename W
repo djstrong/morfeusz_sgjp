@@ -4039,6 +4039,10 @@ Wielkienoce	Wielkanoc	subst:pl:nom:f	święto	przest.
 Wielkienoce	Wielkanoc	subst:pl:voc:f	święto	przest.
 Wielkiminocami	Wielkanoc	subst:pl:inst:f	święto	przest.
 Wielkimnocom	Wielkanoc	subst:pl:dat:f	święto	przest.
+Wlk	Wielki	brev:pun
+WXL	Wielkie Księstwo Litewskie	brev:npun
+WXLit	Wielkie Księstwo Litewskie	brev:npun
+W.Ks.Lit	Wielkie Księstwo Litewskie	brev:pun
 Wielkopolanach	Wielkopolanin	subst:pl:loc:m1	pospolita	
 Wielkopolanami	Wielkopolanin	subst:pl:inst:m1	pospolita	
 Wielkopolanie	Wielkopolanin	subst:pl:nom:m1	pospolita	
@@ -4085,6 +4089,7 @@ Wielkorusów	Wielkorus	subst:pl:gen:m1	pospolita
 Wielkorus	Wielkorus	subst:sg:nom:m1	pospolita	
 Wielkorusy	Wielkorus	depr:pl:nom:m2	pospolita	
 Wielkorusy	Wielkorus	depr:pl:voc:m2	pospolita	
+W	Wielmożny	brev:pun
 Wieluniach	Wieluń	subst:pl:loc:m3	geograficzna	
 Wieluniami	Wieluń	subst:pl:inst:m3	geograficzna	
 Wielunia	Wieluń	subst:sg:gen:m3	geograficzna	

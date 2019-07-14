@@ -3101,6 +3101,7 @@ Eureki	Eureka	subst:pl:voc:f	geograficzna
 Eureki	Eureka	subst:sg:gen:f	geograficzna	
 Eureko	Eureka	subst:sg:voc:f	geograficzna	
 Eurekom	Eureka	subst:pl:dat:f	geograficzna	
+EUR	euro	brev:npun
 Europach	Europa	subst:pl:loc:f	geograficzna	
 Europa	Europa	subst:sg:nom:f	geograficzna	
 Europami	Europa	subst:pl:inst:f	geograficzna	

@@ -367,6 +367,7 @@ verso	verso	subst:sg:inst:n2	pospolita
 verso	verso	subst:sg:loc:n2	pospolita	
 verso	verso	subst:sg:nom:n2	pospolita	
 verso	verso	subst:sg:voc:n2	pospolita	
+v	versus	brev:pun
 verticalach	vertical	subst:pl:loc:m3	pospolita	
 verticalami	vertical	subst:pl:inst:m3	pospolita	
 verticalem	vertical	subst:sg:inst:m3	pospolita	

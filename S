@@ -10583,6 +10583,7 @@ Starze	Starr	subst:sg:loc:m1	nazwisko
 Starze	Starr	subst:sg:loc:m1	pseudonim	
 Starze	Starr	subst:sg:voc:m1	nazwisko	
 Starze	Starr	subst:sg:voc:m1	pseudonim	
+ST	Stary Testament	brev:npun
 Starzyńska	Starzyńska	subst:sg:nom:f	nazwisko	
 Starzyńska	Starzyńska	subst:sg:voc:f	nazwisko	
 Starzyńską	Starzyńska	subst:sg:acc:f	nazwisko	
@@ -14838,6 +14839,7 @@ Szaniawskim	Szaniawski	subst:sg:inst:m1	nazwisko
 Szaniawskim	Szaniawski	subst:sg:loc:m1	nazwisko	
 Szaniawski	Szaniawski	subst:sg:nom:m1	nazwisko	
 Szaniawski	Szaniawski	subst:sg:voc:m1	nazwisko	
+Sz	Szanowny	brev:pun
 Szapołowscy	Szapołowski	subst:pl:nom:m1	nazwisko	
 Szapołowscy	Szapołowski	subst:pl:voc:m1	nazwisko	
 Szapołowskich	Szapołowski	subst:pl:acc:m1	nazwisko	
@@ -15953,6 +15955,7 @@ Szkocji	Szkocja	subst:sg:loc:f	geograficzna
 Szkocjom	Szkocja	subst:pl:dat:f	geograficzna	
 Szkocjo	Szkocja	subst:sg:voc:f	geograficzna	
 Szkocyj	Szkocja	subst:pl:gen:f	geograficzna	arch.|char.
+SP	Szkoła Podstawowa	brev:npun
 Szkocie	Szkot	subst:sg:loc:m1	pospolita	
 Szkocie	Szkot	subst:sg:voc:m1	pospolita	
 Szkoci	Szkot	subst:pl:nom:m1	pospolita	

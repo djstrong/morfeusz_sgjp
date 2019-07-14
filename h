@@ -8882,6 +8882,7 @@ harcmistrzów	harcmistrz	subst:pl:acc:m1	pospolita
 harcmistrzów	harcmistrz	subst:pl:gen:m1	pospolita	
 harcmistrzu	harcmistrz	subst:sg:loc:m1	pospolita	
 harcmistrzu	harcmistrz	subst:sg:voc:m1	pospolita	
+hm	harcmistrz	brev:pun
 harcmistrzyniach	harcmistrzyni	subst:pl:loc:f	pospolita	
 harcmistrzyniami	harcmistrzyni	subst:pl:inst:f	pospolita	
 harcmistrzynią	harcmistrzyni	subst:sg:inst:f	pospolita	
@@ -8896,6 +8897,7 @@ harcmistrzyni	harcmistrzyni	subst:sg:nom:f	pospolita
 harcmistrzyni	harcmistrzyni	subst:sg:voc:f	pospolita	
 harcmistrzyniom	harcmistrzyni	subst:pl:dat:f	pospolita	
 harcmistrzyń	harcmistrzyni	subst:pl:gen:f	pospolita	
+hm	harcmistrzyni	brev:pun
 harcopach	harcop	subst:pl:loc:m3	pospolita	daw.
 harcopami	harcop	subst:pl:inst:m3	pospolita	daw.
 harcopem	harcop	subst:sg:inst:m3	pospolita	daw.
@@ -15165,6 +15167,7 @@ hektary	hektar	subst:pl:nom:m3	pospolita
 hektary	hektar	subst:pl:voc:m3	pospolita	
 hektarze	hektar	subst:sg:loc:m3	pospolita	
 hektarze	hektar	subst:sg:voc:m3	pospolita	
+ha	hektar	brev:npun
 hektarowościach	hektarowość	subst:pl:loc:f		
 hektarowościami	hektarowość	subst:pl:inst:f		
 hektarowością	hektarowość	subst:sg:inst:f		
@@ -15387,6 +15390,7 @@ hektolitry	hektolitr	subst:pl:nom:m3	pospolita
 hektolitry	hektolitr	subst:pl:voc:m3	pospolita	
 hektolitrze	hektolitr	subst:sg:loc:m3	pospolita	
 hektolitrze	hektolitr	subst:sg:voc:m3	pospolita	
+hl	hektolitr	brev:npun
 hektolitrowościach	hektolitrowość	subst:pl:loc:f		
 hektolitrowościami	hektolitrowość	subst:pl:inst:f		
 hektolitrowością	hektolitrowość	subst:sg:inst:f		

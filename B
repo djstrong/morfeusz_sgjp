@@ -670,6 +670,7 @@ Bajramu	Bajram	subst:sg:gen:m3	święto
 Bajramy	Bajram	subst:pl:acc:m3	święto	
 Bajramy	Bajram	subst:pl:nom:m3	święto	
 Bajramy	Bajram	subst:pl:voc:m3	święto	
+B	bajt	brev:npun
 Bakałarzewa	Bakałarzewo	subst:pl:acc:n2	geograficzna	
 Bakałarzewa	Bakałarzewo	subst:pl:nom:n2	geograficzna	
 Bakałarzewa	Bakałarzewo	subst:pl:voc:n2	geograficzna	

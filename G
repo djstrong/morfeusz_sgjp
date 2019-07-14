@@ -1637,6 +1637,7 @@ Gayów	Gay	subst:pl:acc:m1	nazwisko
 Gayów	Gay	subst:pl:gen:m1	nazwisko	
 Gayu	Gay	subst:sg:loc:m1	nazwisko	
 Gayu	Gay	subst:sg:voc:m1	nazwisko	
+GW	Gazeta Wyborcza	brev:npun
 Gąsienicach	Gąsienica	subst:pl:loc:m1	nazwisko	
 Gąsienica	Gąsienica	subst:sg:nom:m1	nazwisko	
 Gąsienicami	Gąsienica	subst:pl:inst:m1	nazwisko	
@@ -2890,6 +2891,7 @@ Gieysztory	Gieysztor	depr:pl:nom:m2	nazwisko
 Gieysztory	Gieysztor	depr:pl:voc:m2	nazwisko	
 Gieysztorze	Gieysztor	subst:sg:loc:m1	nazwisko	
 Gieysztorze	Gieysztor	subst:sg:voc:m1	nazwisko	
+GB	gigabajt	brev:npun
 Gilach	Gil	subst:pl:loc:m1	nazwisko	
 Gila	Gil	subst:sg:acc:m1	nazwisko	
 Gila	Gil	subst:sg:gen:m1	nazwisko	

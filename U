@@ -1110,6 +1110,7 @@ Unisławiu	Unisław:s2	subst:sg:loc:m3	geograficzna
 Unisławiu	Unisław:s2	subst:sg:voc:m3	geograficzna	
 Unisław	Unisław:s2	subst:sg:acc:m3	geograficzna	
 Unisław	Unisław:s2	subst:sg:nom:m3	geograficzna	
+USD	United States Dollar	brev:npun
 Universalach	Universal	subst:pl:loc:m3	firma	
 Universalami	Universal	subst:pl:inst:m3	firma	
 Universalem	Universal	subst:sg:inst:m3	firma	
@@ -2037,6 +2038,7 @@ US-u	US:s2	subst:sg:gen:m3	instytucja
 US-y	US:s2	subst:pl:acc:m3	instytucja	
 US-y	US:s2	subst:pl:nom:m3	instytucja	
 US-y	US:s2	subst:pl:voc:m3	instytucja	
+U	ustawa	brev:pun
 Ustce	Ustka	subst:sg:dat:f	geograficzna	
 Ustce	Ustka	subst:sg:loc:f	geograficzna	
 Ustek	Ustka	subst:pl:gen:f	geograficzna	

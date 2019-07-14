@@ -597,6 +597,7 @@ Madalińskimi	Madaliński	subst:pl:inst:m1	nazwisko
 Madalińskim	Madaliński	subst:pl:dat:m1	nazwisko	
 Madalińskim	Madaliński	subst:sg:inst:m1	nazwisko	
 Madalińskim	Madaliński	subst:sg:loc:m1	nazwisko	
+M-me	Madame	brev:npun
 Madejach	Madej	subst:pl:loc:m1	nazwisko	
 Madeja	Madej	subst:sg:acc:m1	nazwisko	
 Madeja	Madej	subst:sg:gen:m1	nazwisko	
@@ -5276,6 +5277,7 @@ Matisse’y	Matisse	depr:pl:nom:m2	nazwisko
 Matisse’y	Matisse	depr:pl:voc:m2	nazwisko	
 Matissie	Matisse	subst:sg:loc:m1	nazwisko	
 Matissie	Matisse	subst:sg:voc:m1	nazwisko	
+MB	Matka Boska	brev:npun
 Matkowska	Matkowska	subst:sg:nom:f	nazwisko	
 Matkowska	Matkowska	subst:sg:voc:f	nazwisko	
 Matkowską	Matkowska	subst:sg:acc:f	nazwisko	
@@ -6315,6 +6317,8 @@ Mefistofelesów	Mefistofeles	subst:pl:acc:m1	imię
 Mefistofelesów	Mefistofeles	subst:pl:gen:m1	imię	
 Mefistofelesy	Mefistofeles	depr:pl:nom:m2	imię	
 Mefistofelesy	Mefistofeles	depr:pl:voc:m2	imię	
+MB	megabajt	brev:npun
+MHz	Megahertz	brev:npun
 Mehofferach	Mehoffer	subst:pl:loc:m1	nazwisko	
 Mehoffera	Mehoffer	subst:sg:acc:m1	nazwisko	
 Mehoffera	Mehoffer	subst:sg:gen:m1	nazwisko	
@@ -10225,6 +10229,8 @@ Misteków	Mistek	subst:pl:acc:m1	pospolita
 Misteków	Mistek	subst:pl:gen:m1	pospolita	
 Misteku	Mistek	subst:sg:loc:m1	pospolita	
 Misteku	Mistek	subst:sg:voc:m1	pospolita	
+Mr	Mister	brev:npun
+Mrs	Mistress	brev:npun
 Miszach	Misza	subst:pl:loc:m1	imię	
 Miszami	Misza	subst:pl:inst:m1	imię	
 Misza	Misza	subst:sg:nom:m1	imię	

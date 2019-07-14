@@ -396,6 +396,7 @@ Nairobi	Nairobi	subst:sg:inst:n2	geograficzna
 Nairobi	Nairobi	subst:sg:loc:n2	geograficzna	
 Nairobi	Nairobi	subst:sg:nom:n2	geograficzna	
 Nairobi	Nairobi	subst:sg:voc:n2	geograficzna	
+NMP	Najświętsza Maryja Panna	brev:npun
 Nakieł	Nakło	subst:pl:gen:n2	geograficzna	
 Nakle	Nakło	subst:sg:loc:n2	geograficzna	
 Nakłach	Nakło	subst:pl:loc:n2	geograficzna	
@@ -4547,6 +4548,7 @@ Nowozelandki	Nowozelandka	subst:pl:voc:f	pospolita
 Nowozelandki	Nowozelandka	subst:sg:gen:f	pospolita	
 Nowozelandkom	Nowozelandka	subst:pl:dat:f	pospolita	
 Nowozelandko	Nowozelandka	subst:sg:voc:f	pospolita	
+NT	Nowy Testament	brev:npun
 NPD	NPD	subst:pl:acc:f	organizacja	
 NPD	NPD	subst:pl:acc:n2	organizacja	
 NPD	NPD	subst:pl:dat:f	organizacja	

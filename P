@@ -1,3 +1,4 @@
+PLN	nowy polski złoty	brev:npun
 PA	PA	subst:pl:acc:f	instytucja	
 PA	PA	subst:pl:acc:n2	instytucja	
 PA	PA	subst:pl:dat:f	instytucja	
@@ -7618,6 +7619,7 @@ Poczobuttów	Poczobutt	subst:pl:gen:m1	nazwisko
 Poczobutt	Poczobutt	subst:sg:nom:m1	nazwisko	
 Poczobutty	Poczobutt	depr:pl:nom:m2	nazwisko	
 Poczobutty	Poczobutt	depr:pl:voc:m2	nazwisko	
+PP	Poczta Polska	brev:npun
 Podbeskidziach	Podbeskidzie	subst:pl:loc:n2	geograficzna	
 Podbeskidziach	Podbeskidzie	subst:pl:loc:n2	organizacja	
 Podbeskidziami	Podbeskidzie	subst:pl:inst:n2	geograficzna	

@@ -2391,6 +2391,7 @@ Herthy	Hertha	subst:pl:acc:f	imię
 Herthy	Hertha	subst:pl:nom:f	imię	
 Herthy	Hertha	subst:pl:voc:f	imię	
 Herthy	Hertha	subst:sg:gen:f	imię	
+Hz	hertz	brev:npun
 Hertzach	Hertz	subst:pl:loc:m1	nazwisko	
 Hertza	Hertz	subst:sg:acc:m1	nazwisko	
 Hertza	Hertz	subst:sg:gen:m1	nazwisko	

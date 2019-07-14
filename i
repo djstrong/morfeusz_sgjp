@@ -1,3 +1,4 @@
+itp	i tym podobne	brev:pun
 iberoamerykańscy	iberoamerykański	adj:pl:nom.voc:m1.p1:pos		
 iberoamerykańska	iberoamerykański	adj:sg:nom.voc:f:pos		
 iberoamerykańską	iberoamerykański	adj:sg:acc:f:pos		
@@ -14514,6 +14515,7 @@ in	in	subst:sg:inst:n2	pospolita
 in	in	subst:sg:loc:n2	pospolita	
 in	in	subst:sg:nom:n2	pospolita	
 in	in	subst:sg:voc:n2	pospolita	
+in	inaczej	brev:pun
 inaczej	inaczej:d	adv		
 inaczej	inaczej:j	conj		
 inacząca	inaczyć	pact:sg:nom.voc:f:imperf:aff		
@@ -16281,6 +16283,7 @@ indoeuropejskim	indoeuropejski	adj:sg:inst:m1.m2.m3.n1.n2:pos
 indoeuropejskim	indoeuropejski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 indoeuropejsko	indoeuropejski	adja		
 indoeuropejsku	indoeuropejski	adjp		
+ie	indoeuropejski	brev:pun
 indoeuropejsko	indoeuropejsko	adv:pos		
 indoeuropejskościach	indoeuropejskość	subst:pl:loc:f		
 indoeuropejskościami	indoeuropejskość	subst:pl:inst:f		
@@ -24684,6 +24687,7 @@ innsbruckości	innsbruckość	subst:sg:voc:f
 innsbruckościom	innsbruckość	subst:pl:dat:f		
 innsbruckość	innsbruckość	subst:sg:acc:f		
 innsbruckość	innsbruckość	subst:sg:nom:f		
+in	inny	brev:pun
 inna	inny:a	adj:sg:nom.voc:f:pos		
 inną	inny:a	adj:sg:acc:f:pos		
 inną	inny:a	adj:sg:inst:f:pos		

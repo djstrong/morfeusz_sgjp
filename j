@@ -37455,6 +37455,8 @@ juniorze	junior	subst:sg:loc:m1	pospolita
 juniorze	junior	subst:sg:voc:m1	pospolita	
 juniorzy	junior	subst:pl:nom:m1	pospolita	
 juniorzy	junior	subst:pl:voc:m1	pospolita	
+jr	junior	brev:pun
+jun	junior	brev:pun
 juniorek	juniorek	subst:sg:acc:m3	pospolita	
 juniorek	juniorek	subst:sg:nom:m2	pospolita	
 juniorek	juniorek	subst:sg:nom:m3	pospolita	

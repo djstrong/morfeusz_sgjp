@@ -3199,6 +3199,8 @@ Jaślisk	Jaśliska	subst:pl:gen:p2	geograficzna
 Jaślisk	Jaśliska	subst:pl:gen:p3	geograficzna	
 Jaśliskom	Jaśliska	subst:pl:dat:p2	geograficzna	
 Jaśliskom	Jaśliska	subst:pl:dat:p3	geograficzna	
+JWP	Jaśnie Wielmożny Pan	brev:npun
+JWP	Jaśnie Wielmożna Pani	brev:npun
 Javach	Java	subst:pl:loc:f	język_programowania	komp.
 Java	Java	subst:pl:acc:f	język_programowania	komp.
 Java	Java	subst:pl:dat:f	język_programowania	komp.
@@ -4053,6 +4055,7 @@ Jeziorny	Jeziorna	subst:pl:acc:f	geograficzna
 Jeziorny	Jeziorna	subst:pl:nom:f	geograficzna	
 Jeziorny	Jeziorna	subst:pl:voc:f	geograficzna	
 Jeziorny	Jeziorna	subst:sg:gen:f	geograficzna	
+J	jezioro	brev:pun
 Jeziorska	Jeziorska	subst:sg:nom:f	nazwisko	
 Jeziorska	Jeziorska	subst:sg:voc:f	nazwisko	
 Jeziorską	Jeziorska	subst:sg:acc:f	nazwisko	

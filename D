@@ -2175,6 +2175,7 @@ Detroit	Detroit	subst:sg:inst:n2	geograficzna
 Detroit	Detroit	subst:sg:loc:n2	geograficzna	
 Detroit	Detroit	subst:sg:nom:n2	geograficzna	
 Detroit	Detroit	subst:sg:voc:n2	geograficzna	
+DEM	Deutsche Mark	brev:npun
 Dewajtisach	Dewajtis	subst:pl:loc:m3	imię	
 Dewajtisa	Dewajtis	subst:sg:gen:m3	imię	
 Dewajtisami	Dewajtis	subst:pl:inst:m3	imię	
@@ -6626,6 +6627,7 @@ Dziedziców	Dziedzic	subst:pl:acc:m1	nazwisko
 Dziedziców	Dziedzic	subst:pl:gen:m1	nazwisko	
 Dziedzicu	Dziedzic	subst:sg:loc:m1	nazwisko	
 Dziedzicu	Dziedzic	subst:sg:voc:m1	nazwisko	
+Dz.U	Dziennik Ustaw	brev:pun
 Dziersławach	Dziersław	subst:pl:loc:m1	imię	
 Dziersława	Dziersław	subst:sg:acc:m1	imię	
 Dziersława	Dziersław	subst:sg:gen:m1	imię	
