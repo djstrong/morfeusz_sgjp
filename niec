@@ -3128,6 +3128,47 @@ niechlorowcujący	chlorowcować	pact:sg:nom.voc:m1.m2.m3:imperf:neg
 niechlorowcującym	chlorowcować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
 niechlorowcującym	chlorowcować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
 niechlorowcującymi	chlorowcować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+niechlorząca	chlorzyć	pact:sg:nom.voc:f:imperf:neg		pot.
+niechlorzącą	chlorzyć	pact:sg:acc.inst:f:imperf:neg		pot.
+niechlorzące	chlorzyć	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		pot.
+niechlorzące	chlorzyć	pact:sg:nom.acc.voc:n:imperf:neg		pot.
+niechlorzącego	chlorzyć	pact:sg:acc:m1.m2:imperf:neg		pot.
+niechlorzącego	chlorzyć	pact:sg:gen:m1.m2.m3.n:imperf:neg		pot.
+niechlorzącej	chlorzyć	pact:sg:gen.dat.loc:f:imperf:neg		pot.
+niechlorzącemu	chlorzyć	pact:sg:dat:m1.m2.m3.n:imperf:neg		pot.
+niechlorzących	chlorzyć	pact:pl:acc:m1:imperf:neg		pot.
+niechlorzących	chlorzyć	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
+niechlorzący	chlorzyć	pact:pl:nom.voc:m1:imperf:neg		pot.
+niechlorzący	chlorzyć	pact:sg:acc:m3:imperf:neg		pot.
+niechlorzący	chlorzyć	pact:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
+niechlorzącym	chlorzyć	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		pot.
+niechlorzącym	chlorzyć	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		pot.
+niechlorzącymi	chlorzyć	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		pot.
+niechlorzeniach	chlorzyć	ger:pl:loc:n:imperf:neg		pot.
+niechlorzenia	chlorzyć	ger:pl:nom.acc:n:imperf:neg		pot.
+niechlorzenia	chlorzyć	ger:sg:gen:n:imperf:neg		pot.
+niechlorzeniami	chlorzyć	ger:pl:inst:n:imperf:neg		pot.
+niechlorzeni	chlorzyć	ppas:pl:nom.voc:m1:imperf:neg		pot.
+niechlorzenie	chlorzyć	ger:sg:nom.acc:n:imperf:neg		pot.
+niechlorzeniem	chlorzyć	ger:sg:inst:n:imperf:neg		pot.
+niechlorzeniom	chlorzyć	ger:pl:dat:n:imperf:neg		pot.
+niechlorzeniu	chlorzyć	ger:sg:dat.loc:n:imperf:neg		pot.
+niechlorzeń	chlorzyć	ger:pl:gen:n:imperf:neg		pot.
+niechlorzona	chlorzyć	ppas:sg:nom.voc:f:imperf:neg		pot.
+niechlorzoną	chlorzyć	ppas:sg:acc.inst:f:imperf:neg		pot.
+niechlorzone	chlorzyć	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		pot.
+niechlorzone	chlorzyć	ppas:sg:nom.acc.voc:n:imperf:neg		pot.
+niechlorzonego	chlorzyć	ppas:sg:acc:m1.m2:imperf:neg		pot.
+niechlorzonego	chlorzyć	ppas:sg:gen:m1.m2.m3.n:imperf:neg		pot.
+niechlorzonej	chlorzyć	ppas:sg:gen.dat.loc:f:imperf:neg		pot.
+niechlorzonemu	chlorzyć	ppas:sg:dat:m1.m2.m3.n:imperf:neg		pot.
+niechlorzonych	chlorzyć	ppas:pl:acc:m1:imperf:neg		pot.
+niechlorzonych	chlorzyć	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
+niechlorzony	chlorzyć	ppas:sg:acc:m3:imperf:neg		pot.
+niechlorzony	chlorzyć	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
+niechlorzonym	chlorzyć	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		pot.
+niechlorzonym	chlorzyć	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		pot.
+niechlorzonymi	chlorzyć	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		pot.
 niechlubiąca	chlubić	pact:sg:nom.voc:f:imperf:neg		
 niechlubiącą	chlubić	pact:sg:acc.inst:f:imperf:neg		
 niechlubiące	chlubić	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
