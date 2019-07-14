@@ -129,6 +129,7 @@ Vega	Vega	subst:sg:nom:m1	człon nazwiska
 Vegą	Vega	subst:sg:inst:m1	człon nazwiska	
 Vegę	Vega	subst:sg:acc:m1	człon nazwiska	
 Vegi	Vega	depr:pl:nom.acc.voc:m2	człon nazwiska	
+Vegi	Vega	subst:sg:gen:m1	człon nazwiska	
 Vegom	Vega	subst:pl:dat:m1	człon nazwiska	
 Vego	Vega	subst:sg:voc:m1	człon nazwiska	
 Vegowie	Vega	subst:pl:nom.voc:m1	człon nazwiska	
@@ -157,6 +158,7 @@ Venclovo	Venclova	subst:sg:voc:m1	nazwisko
 Venclovowie	Venclova	subst:pl:nom.voc:m1	nazwisko	
 Venclovów	Venclova	subst:pl:gen.acc:m1	nazwisko	
 Venclovy	Venclova	depr:pl:nom.acc.voc:m2	nazwisko	
+Venclovy	Venclova	subst:sg:gen:m1	nazwisko	
 Ventzislavach	Ventzislav	subst:pl:loc:m1	imię	
 Ventzislavami	Ventzislav	subst:pl:inst:m1	imię	
 Ventzislava	Ventzislav	subst:sg:gen.acc:m1	imię	
@@ -479,6 +481,7 @@ Volto	Volta	subst:sg:voc:m1	nazwisko
 Voltowie	Volta	subst:pl:nom.voc:m1	nazwisko	
 Voltów	Volta	subst:pl:gen.acc:m1	nazwisko	
 Volty	Volta	depr:pl:nom.acc.voc:m2	nazwisko	
+Volty	Volta	subst:sg:gen:m1	nazwisko	
 V-pociskach	V-pocisk	subst:pl:loc:m3	nazwa pospolita	
 V-pociskami	V-pocisk	subst:pl:inst:m3	nazwa pospolita	
 V-pociskiem	V-pocisk	subst:sg:inst:m3	nazwa pospolita	

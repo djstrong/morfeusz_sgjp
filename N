@@ -343,6 +343,7 @@ Naj	Naja:s1	subst:pl:gen:f	nazwisko	char.
 Najom	Naja:s1	subst:pl:dat:f	nazwisko	
 Najo	Naja:s1	subst:sg:voc:f	nazwisko	
 Nai	Naja:s2	subst:sg:dat.loc:m1	nazwisko	
+Nai	Naja:s2	subst:sg:gen:m1	nazwisko	
 Najach	Naja:s2	subst:pl:loc:m1	nazwisko	
 Najami	Naja:s2	subst:pl:inst:m1	nazwisko	
 Naja	Naja:s2	subst:sg:nom:m1	nazwisko	
@@ -610,6 +611,7 @@ Napoleonidom	Napoleonida	subst:pl:dat:m1	nazwa pospolita
 Napoleonido	Napoleonida	subst:sg:voc:m1	nazwa pospolita	
 Napoleonidów	Napoleonida	subst:pl:gen.acc:m1	nazwa pospolita	
 Napoleonidy	Napoleonida	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Napoleonidy	Napoleonida	subst:sg:gen:m1	nazwa pospolita	
 Napoleonidzie	Napoleonida	subst:sg:dat.loc:m1	nazwa pospolita	
 Napoleonidzi	Napoleonida	subst:pl:nom.voc:m1	nazwa pospolita	
 Narbucie	Narbutt	subst:sg:loc:m1	nazwisko	
@@ -801,6 +803,7 @@ Nato	Nata	subst:sg:voc:m1	imię
 Natowie	Nata	subst:pl:nom.voc:m1	imię	
 Natów	Nata	subst:pl:gen.acc:m1	imię	
 Naty	Nata	depr:pl:nom.acc.voc:m2	imię	
+Naty	Nata	subst:sg:gen:m1	imię	
 Nataliach	Natalia	subst:pl:loc:f	imię	
 Nataliami	Natalia	subst:pl:inst:f	imię	
 Natalia	Natalia	subst:sg:nom:f	imię	
@@ -1349,6 +1352,7 @@ Nerudo	Neruda	subst:sg:voc:m1	nazwisko
 Nerudowie	Neruda	subst:pl:nom.voc:m1	nazwisko	
 Nerudów	Neruda	subst:pl:gen.acc:m1	nazwisko	
 Nerudy	Neruda	depr:pl:nom.acc.voc:m2	nazwisko	
+Nerudy	Neruda	subst:sg:gen:m1	nazwisko	
 Nerudzie	Neruda	subst:sg:dat.loc:m1	nazwisko	
 Nestorach	Nestor	subst:pl:loc:m1	imię	
 Nestorami	Nestor	subst:pl:inst:m1	imię	
@@ -1446,6 +1450,7 @@ Nędzo	Nędza	subst:sg:voc:m1	nazwisko
 Nędzowie	Nędza	subst:pl:nom.voc:m1	nazwisko	
 Nędzów	Nędza	subst:pl:gen.acc:m1	nazwisko	
 Nędzy	Nędza	subst:sg:dat.loc:m1	nazwisko	
+Nędzy	Nędza	subst:sg:gen:m1	nazwisko	
 NFI	NFI	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa organizacji	
 NFI	NFI	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji	pot.
 Ngwane	Ngwane	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
@@ -1770,6 +1775,7 @@ Niemczuro	Niemczura	subst:sg:voc:m1	nazwisko
 Niemczurowie	Niemczura	subst:pl:nom.voc:m1	nazwisko	
 Niemczurów	Niemczura	subst:pl:gen.acc:m1	nazwisko	
 Niemczury	Niemczura	depr:pl:nom.acc.voc:m2	nazwisko	
+Niemczury	Niemczura	subst:sg:gen:m1	nazwisko	
 Niemczurze	Niemczura	subst:sg:dat.loc:m1	nazwisko	
 Niemczykach	Niemczyk	subst:pl:loc:m1	nazwisko	
 Niemczykami	Niemczyk	subst:pl:inst:m1	nazwisko	
@@ -1790,6 +1796,7 @@ Niemczyskami	Niemczysko	subst:pl:inst:n:ncol	nazwa pospolita
 Niemczyska	Niemczysko	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
 Niemczyska	Niemczysko	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
 Niemczyska	Niemczysko	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
+Niemczyska	Niemczysko	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
 Niemczyska	Niemczysko	subst:sg:gen:n:ncol	nazwa pospolita	
 Niemczyskiem	Niemczysko	subst:sg:inst:m1	nazwa pospolita	rzad.
 Niemczyskiem	Niemczysko	subst:sg:inst:n:ncol	nazwa pospolita	
@@ -2259,6 +2266,7 @@ Nikito	Nikita	subst:sg:voc:m1	imię
 Nikitowie	Nikita	subst:pl:nom.voc:m1	imię	
 Nikitów	Nikita	subst:pl:gen.acc:m1	imię	
 Nikity	Nikita	depr:pl:nom.acc.voc:m2	imię	
+Nikity	Nikita	subst:sg:gen:m1	imię	
 Nikodemach	Nikodem	subst:pl:loc:m1	imię	
 Nikodemami	Nikodem	subst:pl:inst:m1	imię	
 Nikodema	Nikodem	subst:sg:gen.acc:m1	imię	
@@ -3075,6 +3083,7 @@ Nowino	Nowina	subst:sg:voc:m1	nazwisko
 Nowinowie	Nowina	subst:pl:nom.voc:m1	nazwisko	
 Nowinów	Nowina	subst:pl:gen.acc:m1	nazwisko	
 Nowiny	Nowina	depr:pl:nom.acc.voc:m2	nazwisko	
+Nowiny	Nowina	subst:sg:gen:m1	nazwisko	
 Nowince	Nowinka	subst:sg:dat.loc:f	nazwa geograficzna	
 Nowinek	Nowinka	subst:pl:gen:f	nazwa geograficzna	
 Nowinkach	Nowinka	subst:pl:loc:f	nazwa geograficzna	
@@ -3239,6 +3248,7 @@ Nowotka	Nowotka	subst:sg:nom:m1	nazwisko
 Nowotką	Nowotka	subst:sg:inst:m1	nazwisko	
 Nowotkę	Nowotka	subst:sg:acc:m1	nazwisko	
 Nowotki	Nowotka	depr:pl:nom.acc.voc:m2	nazwisko	
+Nowotki	Nowotka	subst:sg:gen:m1	nazwisko	
 Nowotkom	Nowotka	subst:pl:dat:m1	nazwisko	
 Nowotko	Nowotka	subst:sg:voc:m1	nazwisko	
 Nowotkowie	Nowotka	subst:pl:nom.voc:m1	nazwisko	
@@ -3249,6 +3259,7 @@ Nowotkami	Nowotko	subst:pl:inst:m1	nazwisko
 Nowotką	Nowotko	subst:sg:inst:m1	nazwisko	
 Nowotkę	Nowotko	subst:sg:acc:m1	nazwisko	
 Nowotki	Nowotko	depr:pl:nom.acc.voc:m2	nazwisko	
+Nowotki	Nowotko	subst:sg:gen:m1	nazwisko	
 Nowotkom	Nowotko	subst:pl:dat:m1	nazwisko	
 Nowotko	Nowotko	subst:sg:nom:m1	nazwisko	
 Nowotko	Nowotko	subst:sg:voc:m1	nazwisko	

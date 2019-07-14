@@ -419,6 +419,7 @@ Pakuło	Pakuła	subst:sg:voc:m1	nazwisko
 Pakułowie	Pakuła	subst:pl:nom.voc:m1	nazwisko	
 Pakułów	Pakuła	subst:pl:gen.acc:m1	nazwisko	
 Pakuły	Pakuła	depr:pl:nom.acc.voc:m2	nazwisko	
+Pakuły	Pakuła	subst:sg:gen:m1	nazwisko	
 PAL-ach	PAL	subst:pl:loc:m3	nazwa pospolita	
 PAL-ami	PAL	subst:pl:inst:m3	nazwa pospolita	
 PAL-em	PAL	subst:sg:inst:m3	nazwa pospolita	
@@ -557,6 +558,7 @@ Palmo	Palma	subst:sg:voc:m1	nazwisko
 Palmowie	Palma	subst:pl:nom.voc:m1	nazwisko	
 Palmów	Palma	subst:pl:gen.acc:m1	nazwisko	
 Palmy	Palma	depr:pl:nom.acc.voc:m2	nazwisko	
+Palmy	Palma	subst:sg:gen:m1	nazwisko	
 Palmach	Palme	subst:pl:loc:m1	nazwisko	
 Palmami	Palme	subst:pl:inst:m1	nazwisko	
 Palmego	Palme	subst:sg:gen.acc:m1	nazwisko	
@@ -598,6 +600,7 @@ Pałka	Pałka	subst:sg:nom:m1	nazwisko
 Pałką	Pałka	subst:sg:inst:m1	nazwisko	
 Pałkę	Pałka	subst:sg:acc:m1	nazwisko	
 Pałki	Pałka	depr:pl:nom.acc.voc:m2	nazwisko	
+Pałki	Pałka	subst:sg:gen:m1	nazwisko	
 Pałkom	Pałka	subst:pl:dat:m1	nazwisko	
 Pałko	Pałka	subst:sg:voc:m1	nazwisko	
 Pałkowie	Pałka	subst:pl:nom.voc:m1	nazwisko	
@@ -1218,11 +1221,13 @@ Pardua	Pardua:s2	subst:sg:nom:m1	nazwisko
 Parduą	Pardua:s2	subst:sg:inst:m1	nazwisko	
 Parduę	Pardua:s2	subst:sg:acc:m1	nazwisko	
 Pardui	Pardua:s2	subst:sg:dat.loc:m1	nazwisko	
+Pardui	Pardua:s2	subst:sg:gen:m1	nazwisko	
 Parduom	Pardua:s2	subst:pl:dat:m1	nazwisko	
 Parduo	Pardua:s2	subst:sg:voc:m1	nazwisko	
 Parduowie	Pardua:s2	subst:pl:nom.voc:m1	nazwisko	
 Parduów	Pardua:s2	subst:pl:gen.acc:m1	nazwisko	
 Parduy	Pardua:s2	depr:pl:nom.acc.voc:m2	nazwisko	
+Parduy	Pardua:s2	subst:sg:gen:m1	nazwisko	
 Pardubicach	Pardubice	subst:pl:loc:n:pt	nazwa geograficzna	
 Pardubicach	Pardubice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Pardubicami	Pardubice	subst:pl:inst:n:pt	nazwa geograficzna	
@@ -1380,6 +1385,7 @@ Partyka	Partyka	subst:sg:nom:m1	nazwisko
 Partyką	Partyka	subst:sg:inst:m1	nazwisko	
 Partykę	Partyka	subst:sg:acc:m1	nazwisko	
 Partyki	Partyka	depr:pl:nom.acc.voc:m2	nazwisko	
+Partyki	Partyka	subst:sg:gen:m1	nazwisko	
 Partykom	Partyka	subst:pl:dat:m1	nazwisko	
 Partyko	Partyka	subst:sg:voc:m1	nazwisko	
 Partykowie	Partyka	subst:pl:nom.voc:m1	nazwisko	
@@ -2208,6 +2214,7 @@ Pazuro	Pazura	subst:sg:voc:m1	nazwisko
 Pazurowie	Pazura	subst:pl:nom.voc:m1	nazwisko	
 Pazurów	Pazura	subst:pl:gen.acc:m1	nazwisko	
 Pazury	Pazura	depr:pl:nom.acc.voc:m2	nazwisko	
+Pazury	Pazura	subst:sg:gen:m1	nazwisko	
 Pazurze	Pazura	subst:sg:dat.loc:m1	nazwisko	
 Pątnowach	Pątnów	subst:pl:loc:m3	nazwa geograficzna	
 Pątnowami	Pątnów	subst:pl:inst:m3	nazwa geograficzna	
@@ -3034,6 +3041,7 @@ Petluro	Petlura	subst:sg:voc:m1	nazwisko
 Petlurowie	Petlura	subst:pl:nom.voc:m1	nazwisko	
 Petlurów	Petlura	subst:pl:gen.acc:m1	nazwisko	
 Petlury	Petlura	depr:pl:nom.acc.voc:m2	nazwisko	
+Petlury	Petlura	subst:sg:gen:m1	nazwisko	
 Petlurze	Petlura	subst:sg:dat.loc:m1	nazwisko	
 Petőfich	Petőfi	subst:pl:gen.acc:m1	nazwisko	
 Petőfich	Petőfi	subst:pl:loc:m1	nazwisko	
@@ -3055,6 +3063,7 @@ Petrarka	Petrarka	subst:sg:nom:m1	nazwisko
 Petrarką	Petrarka	subst:sg:inst:m1	nazwisko	
 Petrarkę	Petrarka	subst:sg:acc:m1	nazwisko	
 Petrarki	Petrarka	depr:pl:nom.acc.voc:m2	nazwisko	
+Petrarki	Petrarka	subst:sg:gen:m1	nazwisko	
 Petrarkom	Petrarka	subst:pl:dat:m1	nazwisko	
 Petrarko	Petrarka	subst:sg:voc:m1	nazwisko	
 Petrarkowie	Petrarka	subst:pl:nom.voc:m1	nazwisko	
@@ -4678,6 +4687,7 @@ Piwonią	Piwonia	subst:sg:inst:m1	nazwisko
 Piwonie	Piwonia	depr:pl:nom.acc.voc:m2	nazwisko	
 Piwonię	Piwonia	subst:sg:acc:m1	nazwisko	
 Piwonii	Piwonia	subst:sg:dat.loc:m1	nazwisko	
+Piwonii	Piwonia	subst:sg:gen:m1	nazwisko	
 Piwoniom	Piwonia	subst:pl:dat:m1	nazwisko	
 Piwonio	Piwonia	subst:sg:voc:m1	nazwisko	
 Piwoniowie	Piwonia	subst:pl:nom.voc:m1	nazwisko	
@@ -4965,6 +4975,7 @@ Plawgami	Plawgo	subst:pl:inst:m1	nazwisko
 Plawgą	Plawgo	subst:sg:inst:m1	nazwisko	
 Plawgę	Plawgo	subst:sg:acc:m1	nazwisko	
 Plawgi	Plawgo	depr:pl:nom.acc.voc:m2	nazwisko	
+Plawgi	Plawgo	subst:sg:gen:m1	nazwisko	
 Plawgom	Plawgo	subst:pl:dat:m1	nazwisko	
 Plawgo	Plawgo	subst:sg:nom:m1	nazwisko	
 Plawgo	Plawgo	subst:sg:voc:m1	nazwisko	
@@ -5054,6 +5065,7 @@ Pluto	Pluta	subst:sg:voc:m1	nazwisko
 Plutowie	Pluta	subst:pl:nom.voc:m1	nazwisko	
 Plutów	Pluta	subst:pl:gen.acc:m1	nazwisko	
 Pluty	Pluta	depr:pl:nom.acc.voc:m2	nazwisko	
+Pluty	Pluta	subst:sg:gen:m1	nazwisko	
 Plutarchach	Plutarch	subst:pl:loc:m1	imię	
 Plutarchami	Plutarch	subst:pl:inst:m1	imię	
 Plutarcha	Plutarch	subst:sg:gen.acc:m1	imię	
@@ -5287,6 +5299,7 @@ Podbipięto	Podbipięta	subst:sg:voc:m1	przydomek
 Podbipiętowie	Podbipięta	subst:pl:nom.voc:m1	przydomek	
 Podbipiętów	Podbipięta	subst:pl:gen.acc:m1	przydomek	
 Podbipięty	Podbipięta	depr:pl:nom.acc.voc:m2	przydomek	
+Podbipięty	Podbipięta	subst:sg:gen:m1	przydomek	
 Poddębicach	Poddębice	subst:pl:loc:n:pt	nazwa geograficzna	
 Poddębicach	Poddębice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Poddębicami	Poddębice	subst:pl:inst:n:pt	nazwa geograficzna	
@@ -6514,6 +6527,7 @@ Popiełuszkami	Popiełuszko	subst:pl:inst:m1	nazwisko
 Popiełuszką	Popiełuszko	subst:sg:inst:m1	nazwisko	
 Popiełuszkę	Popiełuszko	subst:sg:acc:m1	nazwisko	
 Popiełuszki	Popiełuszko	depr:pl:nom.acc.voc:m2	nazwisko	
+Popiełuszki	Popiełuszko	subst:sg:gen:m1	nazwisko	
 Popiełuszkom	Popiełuszko	subst:pl:dat:m1	nazwisko	
 Popiełuszko	Popiełuszko	subst:sg:nom:m1	nazwisko	
 Popiełuszko	Popiełuszko	subst:sg:voc:m1	nazwisko	
@@ -6705,6 +6719,7 @@ Porosło	Porosło	subst:sg:voc:m1	nazwisko
 Porosłowie	Porosło	subst:pl:nom.voc:m1	nazwisko	
 Porosłów	Porosło	subst:pl:gen.acc:m1	nazwisko	
 Porosły	Porosło	depr:pl:nom.acc.voc:m2	nazwisko	
+Porosły	Porosło	subst:sg:gen:m1	nazwisko	
 Porośle	Porosło	subst:sg:dat.loc:m1	nazwisko	
 Porcie	Porta	subst:sg:dat.loc:f	nazwa własna budowli|nazwa geograficzna	hist.
 Portach	Porta	subst:pl:loc:f	nazwa własna budowli|nazwa geograficzna	hist.
@@ -6882,6 +6897,7 @@ Potebnio	Potebnia	subst:sg:voc:m1	nazwisko
 Potebniowie	Potebnia	subst:pl:nom.voc:m1	nazwisko	
 Potebniów	Potebnia	subst:pl:gen.acc:m1	nazwisko	
 Potebni	Potebnia	subst:sg:dat.loc:m1	nazwisko	
+Potebni	Potebnia	subst:sg:gen:m1	nazwisko	
 Potęgowach	Potęgowo	subst:pl:loc:n:ncol	nazwa geograficzna	
 Potęgowami	Potęgowo	subst:pl:inst:n:ncol	nazwa geograficzna	
 Potęgowa	Potęgowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
@@ -7488,6 +7504,7 @@ Pronaszkami	Pronaszko	subst:pl:inst:m1	nazwisko
 Pronaszką	Pronaszko	subst:sg:inst:m1	nazwisko	
 Pronaszkę	Pronaszko	subst:sg:acc:m1	nazwisko	
 Pronaszki	Pronaszko	depr:pl:nom.acc.voc:m2	nazwisko	
+Pronaszki	Pronaszko	subst:sg:gen:m1	nazwisko	
 Pronaszkom	Pronaszko	subst:pl:dat:m1	nazwisko	
 Pronaszko	Pronaszko	subst:sg:nom:m1	nazwisko	
 Pronaszko	Pronaszko	subst:sg:voc:m1	nazwisko	
@@ -8224,6 +8241,7 @@ Przemyślido	Przemyślida	subst:sg:voc:m1	nazwa członka rodu
 Przemyślidowie	Przemyślida	subst:pl:nom.voc:m1	nazwa członka rodu	
 Przemyślidów	Przemyślida	subst:pl:gen.acc:m1	nazwa członka rodu	
 Przemyślidy	Przemyślida	depr:pl:nom.acc.voc:m2	nazwa członka rodu	
+Przemyślidy	Przemyślida	subst:sg:gen:m1	nazwa członka rodu	
 Przemyślidzie	Przemyślida	subst:sg:dat.loc:m1	nazwa członka rodu	
 Przemyślidzi	Przemyślida	subst:pl:nom.voc:m1	nazwa członka rodu	
 Przerwach	Przerwa	subst:pl:loc:m1	nazwisko	
@@ -8237,6 +8255,7 @@ Przerwo	Przerwa	subst:sg:voc:m1	nazwisko
 Przerwowie	Przerwa	subst:pl:nom.voc:m1	nazwisko	
 Przerwów	Przerwa	subst:pl:gen.acc:m1	nazwisko	
 Przerwy	Przerwa	depr:pl:nom.acc.voc:m2	nazwisko	
+Przerwy	Przerwa	subst:sg:gen:m1	nazwisko	
 Przesiece	Przesieka	subst:sg:dat.loc:f	nazwa geograficzna	
 Przesiekach	Przesieka	subst:pl:loc:f	nazwa geograficzna	
 Przesiekami	Przesieka	subst:pl:inst:f	nazwa geograficzna	
@@ -8282,6 +8301,7 @@ Przeszło	Przeszło	subst:sg:voc:m1	nazwisko
 Przeszłowie	Przeszło	subst:pl:nom.voc:m1	nazwisko	
 Przeszłów	Przeszło	subst:pl:gen.acc:m1	nazwisko	
 Przeszły	Przeszło	depr:pl:nom.acc.voc:m2	nazwisko	
+Przeszły	Przeszło	subst:sg:gen:m1	nazwisko	
 Przewalska	Przewalska	subst:sg:nom:f	nazwisko	
 Przewalska	Przewalska	subst:sg:voc:f	nazwisko	
 Przewalską	Przewalska	subst:sg:acc:f	nazwisko	
@@ -8349,6 +8369,7 @@ Przyboro	Przybora	subst:sg:voc:m1	nazwisko
 Przyborowie	Przybora	subst:pl:nom.voc:m1	nazwisko	
 Przyborów	Przybora	subst:pl:gen.acc:m1	nazwisko	
 Przybory	Przybora	depr:pl:nom.acc.voc:m2	nazwisko	
+Przybory	Przybora	subst:sg:gen:m1	nazwisko	
 Przyborze	Przybora	subst:sg:dat.loc:m1	nazwisko	
 Przyborowska	Przyborowska	subst:sg:nom:f	nazwisko	
 Przyborowska	Przyborowska	subst:sg:voc:f	nazwisko	
@@ -8444,6 +8465,7 @@ Przybyło	Przybyła	subst:sg:voc:m1	nazwisko
 Przybyłowie	Przybyła	subst:pl:nom.voc:m1	nazwisko	
 Przybyłów	Przybyła	subst:pl:gen.acc:m1	nazwisko	
 Przybyły	Przybyła	depr:pl:nom.acc.voc:m2	nazwisko	
+Przybyły	Przybyła	subst:sg:gen:m1	nazwisko	
 Przybymirach	Przybymir	subst:pl:loc:m1	imię	
 Przybymirami	Przybymir	subst:pl:inst:m1	imię	
 Przybymira	Przybymir	subst:sg:gen.acc:m1	imię	
@@ -9108,6 +9130,7 @@ Pupka	Pupka	subst:sg:nom:m1	nazwisko
 Pupką	Pupka	subst:sg:inst:m1	nazwisko	
 Pupkę	Pupka	subst:sg:acc:m1	nazwisko	
 Pupki	Pupka	depr:pl:nom.acc.voc:m2	nazwisko	
+Pupki	Pupka	subst:sg:gen:m1	nazwisko	
 Pupkom	Pupka	subst:pl:dat:m1	nazwisko	
 Pupko	Pupka	subst:sg:voc:m1	nazwisko	
 Pupkowie	Pupka	subst:pl:nom.voc:m1	nazwisko	
@@ -9268,6 +9291,7 @@ Puziowie	Puzio	subst:pl:nom.voc:m1	nazwisko
 Puziowi	Puzio	subst:sg:dat:m1	nazwisko	
 Puziów	Puzio	subst:pl:gen.acc:m1	nazwisko	
 Puzi	Puzio	subst:sg:dat.loc:m1	nazwisko	
+Puzi	Puzio	subst:sg:gen:m1	nazwisko	
 Puziu	Puzio	subst:sg:loc:m1	nazwisko	
 Puziu	Puzio	subst:sg:voc:m1	nazwisko	
 Puzynach	Puzyna	subst:pl:loc:m1	nazwisko	
@@ -9281,6 +9305,7 @@ Puzyno	Puzyna	subst:sg:voc:m1	nazwisko
 Puzynowie	Puzyna	subst:pl:nom.voc:m1	nazwisko	
 Puzynów	Puzyna	subst:pl:gen.acc:m1	nazwisko	
 Puzyny	Puzyna	depr:pl:nom.acc.voc:m2	nazwisko	
+Puzyny	Puzyna	subst:sg:gen:m1	nazwisko	
 Puzyninach	Puzynina	subst:pl:loc:f	nazwisko	
 Puzyninami	Puzynina	subst:pl:inst:f	nazwisko	
 Puzynina	Puzynina	subst:sg:nom:f	nazwisko	

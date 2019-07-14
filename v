@@ -76,6 +76,7 @@ varsavianistom	varsavianista	subst:pl:dat:m1	nazwa pospolita
 varsavianisto	varsavianista	subst:sg:voc:m1	nazwa pospolita	
 varsavianistów	varsavianista	subst:pl:gen.acc:m1	nazwa pospolita	
 varsavianisty	varsavianista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+varsavianisty	varsavianista	subst:sg:gen:m1	nazwa pospolita	
 varsavianiście	varsavianista	subst:sg:dat.loc:m1	nazwa pospolita	
 varsavianiści	varsavianista	subst:pl:nom.voc:m1	nazwa pospolita	
 varsavianistce	varsavianistka	subst:sg:dat.loc:f	nazwa pospolita	

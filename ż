@@ -1033,6 +1033,7 @@
 żagarysto	żagarysta	subst:sg:voc:m1	nazwa pospolita	
 żagarystów	żagarysta	subst:pl:gen.acc:m1	nazwa pospolita	
 żagarysty	żagarysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+żagarysty	żagarysta	subst:sg:gen:m1	nazwa pospolita	
 żagaryście	żagarysta	subst:sg:dat.loc:m1	nazwa pospolita	
 żagaryści	żagarysta	subst:pl:nom.voc:m1	nazwa pospolita	
 żagiel	żagiel	subst:sg:nom.acc:m3	nazwa pospolita	
@@ -5410,6 +5411,7 @@
 żebraczyno	żebraczyna	subst:sg:voc:m1	nazwa pospolita	
 żebraczynów	żebraczyna	subst:pl:gen.acc:m1	nazwa pospolita	
 żebraczyny	żebraczyna	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+żebraczyny	żebraczyna	subst:sg:gen:m1	nazwa pospolita	
 żebracie	żebrać	fin:pl:sec:imperf		niezal.
 żebrać	żebrać	inf:imperf		
 żebrać	żebrać	inf:imperf		niezal.
@@ -9206,6 +9208,7 @@
 żerców	żerca	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 żercy	żerca	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 żercy	żerca	subst:sg:dat.loc:m1	nazwa pospolita	daw.
+żercy	żerca	subst:sg:gen:m1	nazwa pospolita	daw.
 żerdce	żerdka	subst:sg:dat.loc:f	nazwa pospolita	
 żerdek	żerdka	subst:pl:gen:f	nazwa pospolita	
 żerdkach	żerdka	subst:pl:loc:f	nazwa pospolita	
@@ -12330,6 +12333,7 @@
 żołnieraką	żołnieraka	subst:sg:inst:m1	nazwa pospolita	daw.|rzad.
 żołnierakę	żołnieraka	subst:sg:acc:m1	nazwa pospolita	daw.|rzad.
 żołnieraki	żołnieraka	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.|rzad.
+żołnieraki	żołnieraka	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
 żołnierakom	żołnieraka	subst:pl:dat:m1	nazwa pospolita	daw.|rzad.
 żołnierako	żołnieraka	subst:sg:voc:m1	nazwa pospolita	daw.|rzad.
 żołnieraków	żołnieraka	subst:pl:gen.acc:m1	nazwa pospolita	daw.|rzad.
@@ -12445,6 +12449,7 @@
 żołnierzyska	żołnierzysko	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
 żołnierzyska	żołnierzysko	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
 żołnierzyska	żołnierzysko	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
+żołnierzyska	żołnierzysko	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
 żołnierzyska	żołnierzysko	subst:sg:gen:n:ncol	nazwa pospolita	
 żołnierzyskiem	żołnierzysko	subst:sg:inst:m1	nazwa pospolita	rzad.
 żołnierzyskiem	żołnierzysko	subst:sg:inst:n:ncol	nazwa pospolita	
@@ -12856,6 +12861,7 @@
 żonobójców	żonobójca	subst:pl:gen.acc:m1	nazwa pospolita	
 żonobójcy	żonobójca	subst:pl:nom.voc:m1	nazwa pospolita	
 żonobójcy	żonobójca	subst:sg:dat.loc:m1	nazwa pospolita	
+żonobójcy	żonobójca	subst:sg:gen:m1	nazwa pospolita	
 żonobójstwach	żonobójstwo	subst:pl:loc:n:ncol	nazwa pospolita	
 żonobójstwami	żonobójstwo	subst:pl:inst:n:ncol	nazwa pospolita	
 żonobójstwa	żonobójstwo	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
@@ -17445,6 +17451,7 @@
 żurnalisto	żurnalista	subst:sg:voc:m1	nazwa pospolita	książk.
 żurnalistów	żurnalista	subst:pl:gen.acc:m1	nazwa pospolita	książk.
 żurnalisty	żurnalista	depr:pl:nom.acc.voc:m2	nazwa pospolita	książk.
+żurnalisty	żurnalista	subst:sg:gen:m1	nazwa pospolita	książk.
 żurnaliście	żurnalista	subst:sg:dat.loc:m1	nazwa pospolita	książk.
 żurnaliści	żurnalista	subst:pl:nom.voc:m1	nazwa pospolita	książk.
 żurnalistce	żurnalistka	subst:sg:dat.loc:f	nazwa pospolita	książk.
@@ -18746,6 +18753,7 @@
 życiodawców	życiodawca	subst:pl:gen.acc:m1	nazwa pospolita	
 życiodawcy	życiodawca	subst:pl:nom.voc:m1	nazwa pospolita	
 życiodawcy	życiodawca	subst:sg:dat.loc:m1	nazwa pospolita	
+życiodawcy	życiodawca	subst:sg:gen:m1	nazwa pospolita	
 życiodawczościach	życiodawczość	subst:pl:loc:f	nazwa pospolita	przest.
 życiodawczościami	życiodawczość	subst:pl:inst:f	nazwa pospolita	przest.
 życiodawczością	życiodawczość	subst:sg:inst:f	nazwa pospolita	przest.
@@ -19537,6 +19545,7 @@
 żydożerców	żydożerca	subst:pl:gen.acc:m1	nazwa pospolita	
 żydożercy	żydożerca	subst:pl:nom.voc:m1	nazwa pospolita	
 żydożercy	żydożerca	subst:sg:dat.loc:m1	nazwa pospolita	
+żydożercy	żydożerca	subst:sg:gen:m1	nazwa pospolita	
 żydożerczościach	żydożerczość	subst:pl:loc:f	nazwa pospolita	
 żydożerczościami	żydożerczość	subst:pl:inst:f	nazwa pospolita	
 żydożerczością	żydożerczość	subst:sg:inst:f	nazwa pospolita	
@@ -20746,6 +20755,7 @@
 żyrondysto	żyrondysta	subst:sg:voc:m1	nazwa pospolita	
 żyrondystów	żyrondysta	subst:pl:gen.acc:m1	nazwa pospolita	
 żyrondysty	żyrondysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+żyrondysty	żyrondysta	subst:sg:gen:m1	nazwa pospolita	
 żyrondyście	żyrondysta	subst:sg:dat.loc:m1	nazwa pospolita	
 żyrondyści	żyrondysta	subst:pl:nom.voc:m1	nazwa pospolita	
 żyropilocie	żyropilot	subst:sg:loc:m3	nazwa pospolita	

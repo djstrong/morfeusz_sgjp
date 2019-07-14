@@ -215,6 +215,7 @@ Dakoto	Dakota:s2	subst:sg:voc:m1	nazwa pospolita
 Dakotom	Dakota:s2	subst:pl:dat:m1	nazwa pospolita	
 Dakotów	Dakota:s2	subst:pl:gen.acc:m1	nazwa pospolita	
 Dakoty	Dakota:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Dakoty	Dakota:s2	subst:sg:gen:m1	nazwa pospolita	
 Daleborach	Dalebor	subst:pl:loc:m1	imię	
 Dalebora	Dalebor	subst:sg:gen.acc:m1	imię	
 Daleborami	Dalebor	subst:pl:inst:m1	imię	
@@ -1050,6 +1051,7 @@ Dederkami	Dederko	subst:pl:inst:m1	nazwisko
 Dederką	Dederko	subst:sg:inst:m1	nazwisko	
 Dederkę	Dederko	subst:sg:acc:m1	nazwisko	
 Dederki	Dederko	depr:pl:nom.acc.voc:m2	nazwisko	
+Dederki	Dederko	subst:sg:gen:m1	nazwisko	
 Dederko	Dederko	subst:sg:nom:m1	nazwisko	
 Dederko	Dederko	subst:sg:voc:m1	nazwisko	
 Dederkom	Dederko	subst:pl:dat:m1	nazwisko	
@@ -1101,6 +1103,7 @@ Dejnakami	Dejnaka	subst:pl:inst:m1	nazwisko
 Dejnaką	Dejnaka	subst:sg:inst:m1	nazwisko	
 Dejnakę	Dejnaka	subst:sg:acc:m1	nazwisko	
 Dejnaki	Dejnaka	depr:pl:nom.acc.voc:m2	nazwisko	
+Dejnaki	Dejnaka	subst:sg:gen:m1	nazwisko	
 Dejnako	Dejnaka	subst:sg:voc:m1	nazwisko	
 Dejnakom	Dejnaka	subst:pl:dat:m1	nazwisko	
 Dejnakowie	Dejnaka	subst:pl:nom.voc:m1	nazwisko	
@@ -1386,6 +1389,7 @@ Derridom	Derrida	subst:pl:dat:m1	nazwisko
 Derridowie	Derrida	subst:pl:nom.voc:m1	nazwisko	
 Derridów	Derrida	subst:pl:gen.acc:m1	nazwisko	
 Derridy	Derrida	depr:pl:nom.acc.voc:m2	nazwisko	
+Derridy	Derrida	subst:sg:gen:m1	nazwisko	
 Derridzie	Derrida	subst:sg:dat.loc:m1	nazwisko	
 Dersławach	Dersław	subst:pl:loc:m1	imię	
 Dersława	Dersław	subst:sg:gen.acc:m1	imię	
@@ -1868,6 +1872,7 @@ Dixom	Dixa	subst:pl:dat:m1	nazwisko
 Dixowie	Dixa	subst:pl:nom.voc:m1	nazwisko	
 Dixów	Dixa	subst:pl:gen.acc:m1	nazwisko	
 Dixy	Dixa	depr:pl:nom.acc.voc:m2	nazwisko	
+Dixy	Dixa	subst:sg:gen:m1	nazwisko	
 DJ-ach	DJ	subst:pl:loc:m1	nazwa pospolita	
 DJ-a	DJ	subst:sg:gen.acc:m1	nazwa pospolita	
 DJ-ami	DJ	subst:pl:inst:m1	nazwa pospolita	
@@ -2520,6 +2525,7 @@ Dolabellą	Dolabella	subst:sg:inst:m1	nazwisko
 Dolabelle	Dolabella	depr:pl:nom.acc.voc:m2	nazwisko	
 Dolabellę	Dolabella	subst:sg:acc:m1	nazwisko	
 Dolabelli	Dolabella	subst:sg:dat.loc:m1	nazwisko	
+Dolabelli	Dolabella	subst:sg:gen:m1	nazwisko	
 Dolabello	Dolabella	subst:sg:voc:m1	nazwisko	
 Dolabellom	Dolabella	subst:pl:dat:m1	nazwisko	
 Dolabellowie	Dolabella	subst:pl:nom.voc:m1	nazwisko	
@@ -2602,6 +2608,7 @@ Dołęgami	Dołęga	subst:pl:inst:m1	nazwisko
 Dołęgą	Dołęga	subst:sg:inst:m1	nazwisko	
 Dołęgę	Dołęga	subst:sg:acc:m1	nazwisko	
 Dołęgi	Dołęga	depr:pl:nom.acc.voc:m2	nazwisko	
+Dołęgi	Dołęga	subst:sg:gen:m1	nazwisko	
 Dołęgo	Dołęga	subst:sg:voc:m1	nazwisko	
 Dołęgom	Dołęga	subst:pl:dat:m1	nazwisko	
 Dołęgowie	Dołęga	subst:pl:nom.voc:m1	nazwisko	
@@ -2652,6 +2659,7 @@ Domagałom	Domagała	subst:pl:dat:m1	nazwisko
 Domagałowie	Domagała	subst:pl:nom.voc:m1	nazwisko	
 Domagałów	Domagała	subst:pl:gen.acc:m1	nazwisko	
 Domagały	Domagała	depr:pl:nom.acc.voc:m2	nazwisko	
+Domagały	Domagała	subst:sg:gen:m1	nazwisko	
 Domamirach	Domamir	subst:pl:loc:m1	imię	
 Domamira	Domamir	subst:sg:gen.acc:m1	imię	
 Domamirami	Domamir	subst:pl:inst:m1	imię	
@@ -2824,6 +2832,7 @@ Domeykami	Domeyko	subst:pl:inst:m1	nazwisko
 Domeyką	Domeyko	subst:sg:inst:m1	nazwisko	
 Domeykę	Domeyko	subst:sg:acc:m1	nazwisko	
 Domeyki	Domeyko	depr:pl:nom.acc.voc:m2	nazwisko	
+Domeyki	Domeyko	subst:sg:gen:m1	nazwisko	
 Domeyko	Domeyko	subst:sg:nom:m1	nazwisko	
 Domeyko	Domeyko	subst:sg:voc:m1	nazwisko	
 Domeykom	Domeyko	subst:pl:dat:m1	nazwisko	
@@ -3204,6 +3213,7 @@ Doroszeńkami	Doroszeńko	subst:pl:inst:m1	nazwisko
 Doroszeńką	Doroszeńko	subst:sg:inst:m1	nazwisko	
 Doroszeńkę	Doroszeńko	subst:sg:acc:m1	nazwisko	
 Doroszeńki	Doroszeńko	depr:pl:nom.acc.voc:m2	nazwisko	
+Doroszeńki	Doroszeńko	subst:sg:gen:m1	nazwisko	
 Doroszeńko	Doroszeńko	subst:sg:nom:m1	nazwisko	
 Doroszeńko	Doroszeńko	subst:sg:voc:m1	nazwisko	
 Doroszeńkom	Doroszeńko	subst:pl:dat:m1	nazwisko	
@@ -3402,6 +3412,7 @@ Dowżenkami	Dowżenko	subst:pl:inst:m1	nazwisko
 Dowżenką	Dowżenko	subst:sg:inst:m1	nazwisko	
 Dowżenkę	Dowżenko	subst:sg:acc:m1	nazwisko	
 Dowżenki	Dowżenko	depr:pl:nom.acc.voc:m2	nazwisko	
+Dowżenki	Dowżenko	subst:sg:gen:m1	nazwisko	
 Dowżenko	Dowżenko	subst:sg:nom:m1	nazwisko	
 Dowżenko	Dowżenko	subst:sg:voc:m1	nazwisko	
 Dowżenkom	Dowżenko	subst:pl:dat:m1	nazwisko	
@@ -3452,6 +3463,7 @@ Drakulą	Drakula	subst:sg:inst:m1	nazwisko
 Drakule	Drakula	depr:pl:nom.acc.voc:m2	nazwisko	
 Drakulę	Drakula	subst:sg:acc:m1	nazwisko	
 Drakuli	Drakula	subst:sg:dat.loc:m1	nazwisko	
+Drakuli	Drakula	subst:sg:gen:m1	nazwisko	
 Drakulo	Drakula	subst:sg:voc:m1	nazwisko	
 Drakulom	Drakula	subst:pl:dat:m1	nazwisko	
 Drakulowie	Drakula	subst:pl:nom.voc:m1	nazwisko	
@@ -3788,6 +3800,7 @@ Drzymałom	Drzymała	subst:pl:dat:m1	nazwisko
 Drzymałowie	Drzymała	subst:pl:nom.voc:m1	nazwisko	
 Drzymałów	Drzymała	subst:pl:gen.acc:m1	nazwisko	
 Drzymały	Drzymała	depr:pl:nom.acc.voc:m2	nazwisko	
+Drzymały	Drzymała	subst:sg:gen:m1	nazwisko	
 DS-ach	DS	subst:pl:loc:m3	nazwa pospolita	
 DS-ami	DS	subst:pl:inst:m3	nazwa pospolita	
 DS	DS	subst:sg:nom.acc:m3	nazwa pospolita	
@@ -3894,6 +3907,7 @@ Dudom	Duda	subst:pl:dat:m1	nazwisko
 Dudowie	Duda	subst:pl:nom.voc:m1	nazwisko	
 Dudów	Duda	subst:pl:gen.acc:m1	nazwisko	
 Dudy	Duda	depr:pl:nom.acc.voc:m2	nazwisko	
+Dudy	Duda	subst:sg:gen:m1	nazwisko	
 Dudzie	Duda	subst:sg:dat.loc:m1	nazwisko	
 Dudajewach	Dudajew	subst:pl:loc:m1	nazwisko	
 Dudajewa	Dudajew	subst:sg:gen.acc:m1	nazwisko	
@@ -4563,6 +4577,7 @@ Dymszom	Dymsza	subst:pl:dat:m1	nazwisko
 Dymszowie	Dymsza	subst:pl:nom.voc:m1	nazwisko	
 Dymszów	Dymsza	subst:pl:gen.acc:m1	nazwisko	
 Dymszy	Dymsza	subst:sg:dat.loc:m1	nazwisko	
+Dymszy	Dymsza	subst:sg:gen:m1	nazwisko	
 Dynowach	Dynów	subst:pl:loc:m3	nazwa geograficzna	
 Dynowa	Dynów	subst:sg:gen:m3	nazwa geograficzna	
 Dynowami	Dynów	subst:pl:inst:m3	nazwa geograficzna	
@@ -4610,6 +4625,7 @@ Dyzmom	Dyzma	subst:pl:dat:m1	imię
 Dyzmowie	Dyzma	subst:pl:nom.voc:m1	imię	
 Dyzmów	Dyzma	subst:pl:gen.acc:m1	imię	
 Dyzmy	Dyzma	depr:pl:nom.acc.voc:m2	imię	
+Dyzmy	Dyzma	subst:sg:gen:m1	imię	
 Dyziach	Dyź	subst:pl:loc:m1	imię	
 Dyzia	Dyź	subst:sg:gen.acc:m1	imię	
 Dyziami	Dyź	subst:pl:inst:m1	imię	
@@ -5018,6 +5034,7 @@ Dziubom	Dziuba	subst:pl:dat:m1	nazwisko
 Dziubowie	Dziuba	subst:pl:nom.voc:m1	nazwisko	
 Dziubów	Dziuba	subst:pl:gen.acc:m1	nazwisko	
 Dziuby	Dziuba	depr:pl:nom.acc.voc:m2	nazwisko	
+Dziuby	Dziuba	subst:sg:gen:m1	nazwisko	
 Dziubanie	Dziubanii	depr:pl:nom.acc.voc:m2	nazwisko	
 Dziubaniego	Dziubanii	subst:sg:gen.acc:m1	nazwisko	
 Dziubaniemu	Dziubanii	subst:sg:dat:m1	nazwisko	

@@ -56,6 +56,7 @@ Sabało	Sabała	subst:sg:voc:m1	przydomek
 Sabałowie	Sabała	subst:pl:nom.voc:m1	przydomek	
 Sabałów	Sabała	subst:pl:gen.acc:m1	przydomek	
 Sabały	Sabała	depr:pl:nom.acc.voc:m2	przydomek	
+Sabały	Sabała	subst:sg:gen:m1	przydomek	
 Sabaudiach	Sabaudia	subst:pl:loc:f	nazwa geograficzna	
 Sabaudiami	Sabaudia	subst:pl:inst:f	nazwa geograficzna	
 Sabaudia	Sabaudia	subst:sg:nom:f	nazwa geograficzna	
@@ -490,6 +491,7 @@ Saldanho	Saldanha	subst:sg:voc:m1	nazwisko
 Saldanhowie	Saldanha	subst:pl:nom.voc:m1	nazwisko	
 Saldanhów	Saldanha	subst:pl:gen.acc:m1	nazwisko	
 Saldanhy	Saldanha	depr:pl:nom.acc.voc:m2	nazwisko	
+Saldanhy	Saldanha	subst:sg:gen:m1	nazwisko	
 Saldanie	Saldanha	subst:sg:dat.loc:m1	nazwisko	
 Salezego	Salezy	subst:sg:gen.acc:m1	imię	
 Salezemu	Salezy	subst:sg:dat:m1	imię	
@@ -1066,6 +1068,7 @@ Sanguszkami	Sanguszko	subst:pl:inst:m1	nazwisko
 Sanguszką	Sanguszko	subst:sg:inst:m1	nazwisko	
 Sanguszkę	Sanguszko	subst:sg:acc:m1	nazwisko	
 Sanguszki	Sanguszko	depr:pl:nom.acc.voc:m2	nazwisko	
+Sanguszki	Sanguszko	subst:sg:gen:m1	nazwisko	
 Sanguszkom	Sanguszko	subst:pl:dat:m1	nazwisko	
 Sanguszko	Sanguszko	subst:sg:nom:m1	nazwisko	
 Sanguszko	Sanguszko	subst:sg:voc:m1	nazwisko	
@@ -1189,6 +1192,7 @@ Sapieho	Sapieha	subst:sg:voc:m1	nazwisko
 Sapiehowie	Sapieha	subst:pl:nom.voc:m1	nazwisko	
 Sapiehów	Sapieha	subst:pl:gen.acc:m1	nazwisko	
 Sapiehy	Sapieha	depr:pl:nom.acc.voc:m2	nazwisko	
+Sapiehy	Sapieha	subst:sg:gen:m1	nazwisko	
 Sapieże	Sapieha	subst:sg:dat.loc:m1	nazwisko	
 Sapieżance	Sapieżanka	subst:sg:dat.loc:f	nazwisko	
 Sapieżanek	Sapieżanka	subst:pl:gen:f	nazwisko	
@@ -1388,6 +1392,7 @@ Sarmatom	Sarmata	subst:pl:dat:m1	nazwa pospolita
 Sarmato	Sarmata	subst:sg:voc:m1	nazwa pospolita	
 Sarmatów	Sarmata	subst:pl:gen.acc:m1	nazwa pospolita	
 Sarmaty	Sarmata	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Sarmaty	Sarmata	subst:sg:gen:m1	nazwa pospolita	
 Sarnowska	Sarnowska	subst:sg:nom:f	nazwisko	
 Sarnowska	Sarnowska	subst:sg:voc:f	nazwisko	
 Sarnowską	Sarnowska	subst:sg:acc:f	nazwisko	
@@ -1481,6 +1486,7 @@ Saszo	Sasza	subst:sg:voc:m1	imię
 Saszowie	Sasza	subst:pl:nom.voc:m1	imię	
 Saszów	Sasza	subst:pl:gen.acc:m1	imię	
 Saszy	Sasza	subst:sg:dat.loc:m1	imię	
+Saszy	Sasza	subst:sg:gen:m1	imię	
 Saturninach	Saturnin	subst:pl:loc:m1	imię	
 Saturninami	Saturnin	subst:pl:inst:m1	imię	
 Saturnina	Saturnin	subst:sg:gen.acc:m1	imię	
@@ -1563,6 +1569,7 @@ Sauro	Saura	subst:sg:voc:m1	nazwisko
 Saurowie	Saura	subst:pl:nom.voc:m1	nazwisko	
 Saurów	Saura	subst:pl:gen.acc:m1	nazwisko	
 Saury	Saura	depr:pl:nom.acc.voc:m2	nazwisko	
+Saury	Saura	subst:sg:gen:m1	nazwisko	
 Saurze	Saura	subst:sg:dat.loc:m1	nazwisko	
 Saussure’ach	Saussure	subst:pl:loc:m1	nazwisko	
 Saussure’ami	Saussure	subst:pl:inst:m1	nazwisko	
@@ -1583,6 +1590,7 @@ Savonarolą	Savonarola	subst:sg:inst:m1	nazwisko
 Savonarole	Savonarola	depr:pl:nom.acc.voc:m2	nazwisko	
 Savonarolę	Savonarola	subst:sg:acc:m1	nazwisko	
 Savonaroli	Savonarola	subst:sg:dat.loc:m1	nazwisko	
+Savonaroli	Savonarola	subst:sg:gen:m1	nazwisko	
 Savonarolom	Savonarola	subst:pl:dat:m1	nazwisko	
 Savonarolo	Savonarola	subst:sg:voc:m1	nazwisko	
 Savonarolowie	Savonarola	subst:pl:nom.voc:m1	nazwisko	
@@ -1645,6 +1653,7 @@ Sawuło	Sawuła	subst:sg:voc:m1	nazwisko
 Sawułowie	Sawuła	subst:pl:nom.voc:m1	nazwisko	
 Sawułów	Sawuła	subst:pl:gen.acc:m1	nazwisko	
 Sawuły	Sawuła	depr:pl:nom.acc.voc:m2	nazwisko	
+Sawuły	Sawuła	subst:sg:gen:m1	nazwisko	
 Sączach	Sącz	subst:pl:loc:m3	człon nazwy geograficznej	
 Sączami	Sącz	subst:pl:inst:m3	człon nazwy geograficznej	
 Sącza	Sącz	subst:sg:gen:m3	człon nazwy geograficznej	
@@ -2033,6 +2042,7 @@ Scyto	Scyta	subst:sg:voc:m1	nazwa pospolita
 Scytowie	Scyta	subst:pl:nom.voc:m1	nazwa pospolita	
 Scytów	Scyta	subst:pl:gen.acc:m1	nazwa pospolita	
 Scyty	Scyta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Scyty	Scyta	subst:sg:gen:m1	nazwa pospolita	
 Scytiach	Scytia	subst:pl:loc:f	nazwa geograficzna	
 Scytiami	Scytia	subst:pl:inst:f	nazwa geograficzna	
 Scytia	Scytia	subst:sg:nom:f	nazwa geograficzna	
@@ -2202,6 +2212,7 @@ Sekuło	Sekuła	subst:sg:voc:m1	nazwisko
 Sekułowie	Sekuła	subst:pl:nom.voc:m1	nazwisko	
 Sekułów	Sekuła	subst:pl:gen.acc:m1	nazwisko	
 Sekuły	Sekuła	depr:pl:nom.acc.voc:m2	nazwisko	
+Sekuły	Sekuła	subst:sg:gen:m1	nazwisko	
 Sekwanach	Sekwana	subst:pl:loc:f	nazwa geograficzna	
 Sekwanami	Sekwana	subst:pl:inst:f	nazwa geograficzna	
 Sekwana	Sekwana	subst:sg:nom:f	nazwa geograficzna	
@@ -2293,6 +2304,7 @@ Semitom	Semita	subst:pl:dat:m1	nazwa pospolita
 Semito	Semita	subst:sg:voc:m1	nazwa pospolita	
 Semitów	Semita	subst:pl:gen.acc:m1	nazwa pospolita	
 Semity	Semita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Semity	Semita	subst:sg:gen:m1	nazwa pospolita	
 Senach	Sen	subst:pl:loc:m1	imię|nazwisko	
 Senami	Sen	subst:pl:inst:m1	imię|nazwisko	
 Sena	Sen	subst:sg:gen.acc:m1	imię|nazwisko	
@@ -2347,6 +2359,7 @@ Seneka	Seneka	subst:sg:nom:m1	nazwisko
 Seneką	Seneka	subst:sg:inst:m1	nazwisko	
 Senekę	Seneka	subst:sg:acc:m1	nazwisko	
 Seneki	Seneka	depr:pl:nom.acc.voc:m2	nazwisko	
+Seneki	Seneka	subst:sg:gen:m1	nazwisko	
 Senekom	Seneka	subst:pl:dat:m1	nazwisko	
 Seneko	Seneka	subst:sg:voc:m1	nazwisko	
 Senekowie	Seneka	subst:pl:nom.voc:m1	nazwisko	
@@ -2764,6 +2777,7 @@ Sforzo	Sforza	subst:sg:voc:m1	nazwisko
 Sforzowie	Sforza	subst:pl:nom.voc:m1	nazwisko	
 Sforzów	Sforza	subst:pl:gen.acc:m1	nazwisko	
 Sforzy	Sforza	subst:sg:dat.loc:m1	nazwisko	
+Sforzy	Sforza	subst:sg:gen:m1	nazwisko	
 SG	SG	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa firmy|nazwa instytucji	
 SG	SG	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa firmy|nazwa instytucji	
 SGGW	SGGW	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa instytucji	
@@ -2926,6 +2940,7 @@ Sico	Sica	subst:sg:voc:m1	nazwisko
 Sicowie	Sica	subst:pl:nom.voc:m1	nazwisko	
 Siców	Sica	subst:pl:gen.acc:m1	nazwisko	
 Siki	Sica	depr:pl:nom.acc.voc:m2	nazwisko	
+Siki	Sica	subst:sg:gen:m1	nazwisko	
 Sidle	Sidło	subst:sg:dat.loc:m1	nazwisko	
 Sidłach	Sidło	subst:pl:loc:m1	nazwisko	
 Sidłami	Sidło	subst:pl:inst:m1	nazwisko	
@@ -2937,6 +2952,7 @@ Sidło	Sidło	subst:sg:voc:m1	nazwisko
 Sidłowie	Sidło	subst:pl:nom.voc:m1	nazwisko	
 Sidłów	Sidło	subst:pl:gen.acc:m1	nazwisko	
 Sidły	Sidło	depr:pl:nom.acc.voc:m2	nazwisko	
+Sidły	Sidło	subst:sg:gen:m1	nazwisko	
 Sieciechach	Sieciech	subst:pl:loc:m1	imię	
 Sieciechami	Sieciech	subst:pl:inst:m1	imię	
 Sieciecha	Sieciech	subst:sg:gen.acc:m1	imię	
@@ -3088,6 +3104,7 @@ Siemaszkami	Siemaszko	subst:pl:inst:m1	nazwisko
 Siemaszką	Siemaszko	subst:sg:inst:m1	nazwisko	
 Siemaszkę	Siemaszko	subst:sg:acc:m1	nazwisko	
 Siemaszki	Siemaszko	depr:pl:nom.acc.voc:m2	nazwisko	
+Siemaszki	Siemaszko	subst:sg:gen:m1	nazwisko	
 Siemaszkom	Siemaszko	subst:pl:dat:m1	nazwisko	
 Siemaszko	Siemaszko	subst:sg:nom:m1	nazwisko	
 Siemaszko	Siemaszko	subst:sg:voc:m1	nazwisko	
@@ -3591,6 +3608,7 @@ Sikoro	Sikora	subst:sg:voc:m1	nazwisko
 Sikorowie	Sikora	subst:pl:nom.voc:m1	nazwisko	
 Sikorów	Sikora	subst:pl:gen.acc:m1	nazwisko	
 Sikory	Sikora	depr:pl:nom.acc.voc:m2	nazwisko	
+Sikory	Sikora	subst:sg:gen:m1	nazwisko	
 Sikorze	Sikora	subst:sg:dat.loc:m1	nazwisko	
 Sikorska	Sikorska	subst:sg:nom:f	nazwisko	
 Sikorska	Sikorska	subst:sg:voc:f	nazwisko	
@@ -3719,6 +3737,7 @@ Sinatro	Sinatra	subst:sg:voc:m1	nazwisko
 Sinatrowie	Sinatra	subst:pl:nom.voc:m1	nazwisko	
 Sinatrów	Sinatra	subst:pl:gen.acc:m1	nazwisko	
 Sinatry	Sinatra	depr:pl:nom.acc.voc:m2	nazwisko	
+Sinatry	Sinatra	subst:sg:gen:m1	nazwisko	
 Sinatrze	Sinatra	subst:sg:dat.loc:m1	nazwisko	
 Singapurach	Singapur	subst:pl:loc:m3	nazwa geograficzna	
 Singapurami	Singapur	subst:pl:inst:m3	nazwa geograficzna	
@@ -3957,6 +3976,7 @@ Skarga	Skarga	subst:sg:nom:m1	nazwisko
 Skargą	Skarga	subst:sg:inst:m1	nazwisko	
 Skargę	Skarga	subst:sg:acc:m1	nazwisko	
 Skargi	Skarga	depr:pl:nom.acc.voc:m2	nazwisko	
+Skargi	Skarga	subst:sg:gen:m1	nazwisko	
 Skargom	Skarga	subst:pl:dat:m1	nazwisko	
 Skargo	Skarga	subst:sg:voc:m1	nazwisko	
 Skargowie	Skarga	subst:pl:nom.voc:m1	nazwisko	
@@ -4036,6 +4056,7 @@ Skibo	Skiba	subst:sg:voc:m1	nazwisko
 Skibowie	Skiba	subst:pl:nom.voc:m1	nazwisko	
 Skibów	Skiba	subst:pl:gen.acc:m1	nazwisko	
 Skiby	Skiba	depr:pl:nom.acc.voc:m2	nazwisko	
+Skiby	Skiba	subst:sg:gen:m1	nazwisko	
 Skibińska	Skibińska	subst:sg:nom:f	nazwisko	
 Skibińska	Skibińska	subst:sg:voc:f	nazwisko	
 Skibińską	Skibińska	subst:sg:acc:f	nazwisko	
@@ -5362,6 +5383,7 @@ Smetano	Smetana	subst:sg:voc:m1	nazwisko
 Smetanowie	Smetana	subst:pl:nom.voc:m1	nazwisko	
 Smetanów	Smetana	subst:pl:gen.acc:m1	nazwisko	
 Smetany	Smetana	depr:pl:nom.acc.voc:m2	nazwisko	
+Smetany	Smetana	subst:sg:gen:m1	nazwisko	
 Smętowach	Smętowo	subst:pl:loc:n:ncol	nazwa geograficzna	
 Smętowami	Smętowo	subst:pl:inst:n:ncol	nazwa geograficzna	
 Smętowa	Smętowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
@@ -5621,6 +5643,7 @@ Sobesto	Sobesto	subst:sg:voc:m1	nazwisko
 Sobestowie	Sobesto	subst:pl:nom.voc:m1	nazwisko	
 Sobestów	Sobesto	subst:pl:gen.acc:m1	nazwisko	
 Sobesty	Sobesto	depr:pl:nom.acc.voc:m2	nazwisko	
+Sobesty	Sobesto	subst:sg:gen:m1	nazwisko	
 Sobeście	Sobesto	subst:sg:dat.loc:m1	nazwisko	
 Sobiborach	Sobibór	subst:pl:loc:m3	nazwa geograficzna	
 Sobiborami	Sobibór	subst:pl:inst:m3	nazwa geograficzna	
@@ -5819,6 +5842,7 @@ Socho	Socha	subst:sg:voc:m1	nazwisko
 Sochowie	Socha	subst:pl:nom.voc:m1	nazwisko	
 Sochów	Socha	subst:pl:gen.acc:m1	nazwisko	
 Sochy	Socha	depr:pl:nom.acc.voc:m2	nazwisko	
+Sochy	Socha	subst:sg:gen:m1	nazwisko	
 Sosze	Socha	subst:sg:dat.loc:m1	nazwisko	
 Sochacka	Sochacka	subst:sg:nom:f	nazwisko	
 Sochacka	Sochacka	subst:sg:voc:f	nazwisko	
@@ -6274,12 +6298,14 @@ Soplico	Soplica	subst:sg:voc:m1	nazwisko	lit.
 Soplicowie	Soplica	subst:pl:nom.voc:m1	nazwisko	lit.
 Sopliców	Soplica	subst:pl:gen.acc:m1	nazwisko	lit.
 Soplicy	Soplica	subst:sg:dat.loc:m1	nazwisko	lit.
+Soplicy	Soplica	subst:sg:gen:m1	nazwisko	lit.
 Sopoćce	Sopoćko	subst:sg:dat.loc:m1	nazwisko	
 Sopoćkach	Sopoćko	subst:pl:loc:m1	nazwisko	
 Sopoćkami	Sopoćko	subst:pl:inst:m1	nazwisko	
 Sopoćką	Sopoćko	subst:sg:inst:m1	nazwisko	
 Sopoćkę	Sopoćko	subst:sg:acc:m1	nazwisko	
 Sopoćki	Sopoćko	depr:pl:nom.acc.voc:m2	nazwisko	
+Sopoćki	Sopoćko	subst:sg:gen:m1	nazwisko	
 Sopoćkom	Sopoćko	subst:pl:dat:m1	nazwisko	
 Sopoćko	Sopoćko	subst:sg:nom:m1	nazwisko	
 Sopoćko	Sopoćko	subst:sg:voc:m1	nazwisko	
@@ -6459,6 +6485,7 @@ Sowo	Sowa	subst:sg:voc:m1	nazwisko
 Sowowie	Sowa	subst:pl:nom.voc:m1	nazwisko	
 Sowów	Sowa	subst:pl:gen.acc:m1	nazwisko	
 Sowy	Sowa	depr:pl:nom.acc.voc:m2	nazwisko	
+Sowy	Sowa	subst:sg:gen:m1	nazwisko	
 Sowiecie	Sowiet	subst:sg:loc:m1	nazwa pospolita	
 Sowiecie	Sowiet	subst:sg:voc:m1	nazwa pospolita	
 Sowieci	Sowiet	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -6662,6 +6689,7 @@ Spinozo	Spinoza	subst:sg:voc:m1	nazwisko
 Spinozowie	Spinoza	subst:pl:nom.voc:m1	nazwisko	
 Spinozów	Spinoza	subst:pl:gen.acc:m1	nazwisko	
 Spinozy	Spinoza	depr:pl:nom.acc.voc:m2	nazwisko	
+Spinozy	Spinoza	subst:sg:gen:m1	nazwisko	
 Spirydionach	Spirydion	subst:pl:loc:m1	imię	
 Spirydionami	Spirydion	subst:pl:inst:m1	imię	
 Spirydiona	Spirydion	subst:sg:gen.acc:m1	imię	
@@ -6861,6 +6889,7 @@ Sroka	Sroka	subst:sg:nom:m1	nazwisko
 Sroką	Sroka	subst:sg:inst:m1	nazwisko	
 Srokę	Sroka	subst:sg:acc:m1	nazwisko	
 Sroki	Sroka	depr:pl:nom.acc.voc:m2	nazwisko	
+Sroki	Sroka	subst:sg:gen:m1	nazwisko	
 Srokom	Sroka	subst:pl:dat:m1	nazwisko	
 Sroko	Sroka	subst:sg:voc:m1	nazwisko	
 Srokowie	Sroka	subst:pl:nom.voc:m1	nazwisko	
@@ -6985,6 +7014,7 @@ Stachuro	Stachura	subst:sg:voc:m1	nazwisko
 Stachurowie	Stachura	subst:pl:nom.voc:m1	nazwisko	
 Stachurów	Stachura	subst:pl:gen.acc:m1	nazwisko	
 Stachury	Stachura	depr:pl:nom.acc.voc:m2	nazwisko	
+Stachury	Stachura	subst:sg:gen:m1	nazwisko	
 Stachurze	Stachura	subst:sg:dat.loc:m1	nazwisko	
 Stachurska	Stachurska	subst:sg:nom:f	nazwisko	
 Stachurska	Stachurska	subst:sg:voc:f	nazwisko	
@@ -7247,6 +7277,7 @@ Stańców	Stańco	subst:pl:gen.acc:m1	nazwisko
 Stańcu	Stańco	subst:sg:loc:m1	nazwisko	
 Stańcu	Stańco	subst:sg:voc:m1	nazwisko	
 Stańcy	Stańco	subst:sg:dat.loc:m1	nazwisko	
+Stańcy	Stańco	subst:sg:gen:m1	nazwisko	
 Stańczakach	Stańczak	subst:pl:loc:m1	nazwisko	
 Stańczakami	Stańczak	subst:pl:inst:m1	nazwisko	
 Stańczaka	Stańczak	subst:sg:gen.acc:m1	nazwisko	
@@ -8375,6 +8406,7 @@ Stommo	Stomma	subst:sg:voc:m1	nazwisko
 Stommowie	Stomma	subst:pl:nom.voc:m1	nazwisko	
 Stommów	Stomma	subst:pl:gen.acc:m1	nazwisko	
 Stommy	Stomma	depr:pl:nom.acc.voc:m2	nazwisko	
+Stommy	Stomma	subst:sg:gen:m1	nazwisko	
 Stone’ach	Stone	subst:pl:loc:m1	nazwisko	
 Stone’ami	Stone	subst:pl:inst:m1	nazwisko	
 Stone’a	Stone	subst:sg:gen.acc:m1	nazwisko	
@@ -10191,6 +10223,7 @@ Symcho	Symcha:s1	subst:sg:voc:m1	imię
 Symchowie	Symcha:s1	subst:pl:nom.voc:m1	imię	
 Symchów	Symcha:s1	subst:pl:gen.acc:m1	imię	
 Symchy	Symcha:s1	depr:pl:nom.acc.voc:m2	imię	
+Symchy	Symcha:s1	subst:sg:gen:m1	imię	
 Symsze	Symcha:s1	subst:sg:dat.loc:m1	imię	
 Symchach	Symcha:s2	subst:pl:loc:f	imię	rzad.
 Symchami	Symcha:s2	subst:pl:inst:f	imię	rzad.
@@ -10353,6 +10386,7 @@ Syrokomlą	Syrokomla	subst:sg:inst:m1	nazwisko
 Syrokomle	Syrokomla	depr:pl:nom.acc.voc:m2	nazwisko	
 Syrokomlę	Syrokomla	subst:sg:acc:m1	nazwisko	
 Syrokomli	Syrokomla	subst:sg:dat.loc:m1	nazwisko	
+Syrokomli	Syrokomla	subst:sg:gen:m1	nazwisko	
 Syrokomlom	Syrokomla	subst:pl:dat:m1	nazwisko	
 Syrokomlo	Syrokomla	subst:sg:voc:m1	nazwisko	
 Syrokomlowie	Syrokomla	subst:pl:nom.voc:m1	nazwisko	
@@ -10540,6 +10574,7 @@ Szajnocho	Szajnocha	subst:sg:voc:m1	nazwisko
 Szajnochowie	Szajnocha	subst:pl:nom.voc:m1	nazwisko	
 Szajnochów	Szajnocha	subst:pl:gen.acc:m1	nazwisko	
 Szajnochy	Szajnocha	depr:pl:nom.acc.voc:m2	nazwisko	
+Szajnochy	Szajnocha	subst:sg:gen:m1	nazwisko	
 Szajnosze	Szajnocha	subst:sg:dat.loc:m1	nazwisko	
 Szalapinach	Szalapin	subst:pl:loc:m1	nazwisko	
 Szalapinami	Szalapin	subst:pl:inst:m1	nazwisko	
@@ -11320,6 +11355,7 @@ Szelą	Szela	subst:sg:inst:m1	nazwisko
 Szele	Szela	depr:pl:nom.acc.voc:m2	nazwisko	
 Szelę	Szela	subst:sg:acc:m1	nazwisko	
 Szeli	Szela	subst:sg:dat.loc:m1	nazwisko	
+Szeli	Szela	subst:sg:gen:m1	nazwisko	
 Szelom	Szela	subst:pl:dat:m1	nazwisko	
 Szelo	Szela	subst:sg:voc:m1	nazwisko	
 Szelowie	Szela	subst:pl:nom.voc:m1	nazwisko	
@@ -11354,6 +11390,7 @@ Szeliga	Szeliga:s1	subst:sg:nom:m1	nazwisko
 Szeligą	Szeliga:s1	subst:sg:inst:m1	nazwisko	
 Szeligę	Szeliga:s1	subst:sg:acc:m1	nazwisko	
 Szeligi	Szeliga:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Szeligi	Szeliga:s1	subst:sg:gen:m1	nazwisko	
 Szeligom	Szeliga:s1	subst:pl:dat:m1	nazwisko	
 Szeligo	Szeliga:s1	subst:sg:voc:m1	nazwisko	
 Szeligowie	Szeliga:s1	subst:pl:nom.voc:m1	nazwisko	
@@ -11491,6 +11528,7 @@ Szewczenkami	Szewczenko	subst:pl:inst:m1	nazwisko
 Szewczenką	Szewczenko	subst:sg:inst:m1	nazwisko	
 Szewczenkę	Szewczenko	subst:sg:acc:m1	nazwisko	
 Szewczenki	Szewczenko	depr:pl:nom.acc.voc:m2	nazwisko	
+Szewczenki	Szewczenko	subst:sg:gen:m1	nazwisko	
 Szewczenkom	Szewczenko	subst:pl:dat:m1	nazwisko	
 Szewczenko	Szewczenko	subst:sg:nom:m1	nazwisko	
 Szewczenko	Szewczenko	subst:sg:voc:m1	nazwisko	
@@ -11531,6 +11569,7 @@ Sziwo	Sziwa	subst:sg:voc:m1	imię	rel.
 Sziwowie	Sziwa	subst:pl:nom.voc:m1	imię	rel.
 Sziwów	Sziwa	subst:pl:gen.acc:m1	imię	rel.
 Sziwy	Sziwa	depr:pl:nom.acc.voc:m2	imię	rel.
+Sziwy	Sziwa	subst:sg:gen:m1	imię	rel.
 Szkocjach	Szkocja	subst:pl:loc:f	nazwa geograficzna	
 Szkocjami	Szkocja	subst:pl:inst:f	nazwa geograficzna	
 Szkocja	Szkocja	subst:sg:nom:f	nazwa geograficzna	
@@ -11603,6 +11642,7 @@ Szmaciak	Szmaciak	subst:sg:nom:m1	nazwisko	lit.
 Szmaciaku	Szmaciak	subst:sg:loc:m1	nazwisko	lit.
 Szmaciaku	Szmaciak	subst:sg:voc:m1	nazwisko	lit.
 Szmai	Szmaja	subst:sg:dat.loc:m1	imię|nazwisko	
+Szmai	Szmaja	subst:sg:gen:m1	imię|nazwisko	
 Szmajach	Szmaja	subst:pl:loc:m1	imię|nazwisko	
 Szmajami	Szmaja	subst:pl:inst:m1	imię|nazwisko	
 Szmaja	Szmaja	subst:sg:nom:m1	imię|nazwisko	
@@ -12069,6 +12109,7 @@ Szwedziskami	Szwedzisko	subst:pl:inst:n:ncol	nazwa pospolita
 Szwedziska	Szwedzisko	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
 Szwedziska	Szwedzisko	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
 Szwedziska	Szwedzisko	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
+Szwedziska	Szwedzisko	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
 Szwedziska	Szwedzisko	subst:sg:gen:n:ncol	nazwa pospolita	
 Szwedziskiem	Szwedzisko	subst:sg:inst:m1	nazwa pospolita	rzad.
 Szwedziskiem	Szwedzisko	subst:sg:inst:n:ncol	nazwa pospolita	
@@ -12164,6 +12205,7 @@ Szymo	Szyma	subst:sg:voc:m1	nazwisko
 Szymowie	Szyma	subst:pl:nom.voc:m1	nazwisko	
 Szymów	Szyma	subst:pl:gen.acc:m1	nazwisko	
 Szymy	Szyma	depr:pl:nom.acc.voc:m2	nazwisko	
+Szymy	Szyma	subst:sg:gen:m1	nazwisko	
 Szymaniakach	Szymaniak	subst:pl:loc:m1	nazwisko	
 Szymaniakami	Szymaniak	subst:pl:inst:m1	nazwisko	
 Szymaniaka	Szymaniak	subst:sg:gen.acc:m1	nazwisko	
@@ -12371,6 +12413,7 @@ Szyszkami	Szyszko	subst:pl:inst:m1	nazwisko
 Szyszką	Szyszko	subst:sg:inst:m1	nazwisko	
 Szyszkę	Szyszko	subst:sg:acc:m1	nazwisko	
 Szyszki	Szyszko	depr:pl:nom.acc.voc:m2	nazwisko	
+Szyszki	Szyszko	subst:sg:gen:m1	nazwisko	
 Szyszkom	Szyszko	subst:pl:dat:m1	nazwisko	
 Szyszko	Szyszko	subst:sg:nom:m1	nazwisko	
 Szyszko	Szyszko	subst:sg:voc:m1	nazwisko	

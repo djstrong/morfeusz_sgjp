@@ -183,6 +183,7 @@ Taho	Taha	subst:sg:voc:m1	nazwisko
 Tahowie	Taha	subst:pl:nom.voc:m1	nazwisko	
 Tahów	Taha	subst:pl:gen.acc:m1	nazwisko	
 Tahy	Taha	depr:pl:nom.acc.voc:m2	nazwisko	
+Tahy	Taha	subst:sg:gen:m1	nazwisko	
 Tasze	Taha	subst:sg:dat.loc:m1	nazwisko	
 Taże	Taha	subst:sg:dat.loc:m1	nazwisko	
 Tahiti	Tahiti	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
@@ -686,6 +687,7 @@ Tarło	Tarło	subst:sg:voc:m1	nazwisko
 Tarłowie	Tarło	subst:pl:nom.voc:m1	nazwisko	
 Tarłów	Tarło	subst:pl:gen.acc:m1	nazwisko	
 Tarły	Tarło	depr:pl:nom.acc.voc:m2	nazwisko	
+Tarły	Tarło	subst:sg:gen:m1	nazwisko	
 Tarłowach	Tarłów	subst:pl:loc:m3	nazwa geograficzna	
 Tarłowami	Tarłów	subst:pl:inst:m3	nazwa geograficzna	
 Tarłowa	Tarłów	subst:sg:gen:m3	nazwa geograficzna	
@@ -1682,6 +1684,7 @@ Tezcatlipoco	Tezcatlipoca	subst:sg:voc:m1	imię	mit.
 Tezcatlipocowie	Tezcatlipoca	subst:pl:nom.voc:m1	imię	mit.
 Tezcatlipoców	Tezcatlipoca	subst:pl:gen.acc:m1	imię	mit.
 Tezcatlipoki	Tezcatlipoca	depr:pl:nom.acc.voc:m2	imię	mit.
+Tezcatlipoki	Tezcatlipoca	subst:sg:gen:m1	imię	mit.
 Tezeuszach	Tezeusz	subst:pl:loc:m1	imię	
 Tezeuszami	Tezeusz	subst:pl:inst:m1	imię	
 Tezeusza	Tezeusz	subst:sg:gen.acc:m1	imię	
@@ -1985,6 +1988,7 @@ Titowie	Tito	subst:pl:nom.voc:m1	nazwisko
 Titowi	Tito	subst:sg:dat:m1	nazwisko	
 Titów	Tito	subst:pl:gen.acc:m1	nazwisko	
 Tity	Tito	depr:pl:nom.acc.voc:m2	nazwisko	
+Tity	Tito	subst:sg:gen:m1	nazwisko	
 TK	TK	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa organizacji	
 Tkaczykach	Tkaczyk	subst:pl:loc:m1	nazwisko	
 Tkaczykami	Tkaczyk	subst:pl:inst:m1	nazwisko	
@@ -2976,6 +2980,7 @@ Trapszów	Trapszo	subst:pl:gen.acc:m1	nazwisko
 Trapszu	Trapszo	subst:sg:loc:m1	nazwisko	
 Trapszu	Trapszo	subst:sg:voc:m1	nazwisko	
 Trapszy	Trapszo	subst:sg:dat.loc:m1	nazwisko	
+Trapszy	Trapszo	subst:sg:gen:m1	nazwisko	
 Traugucie	Traugutt	subst:sg:loc:m1	nazwisko	
 Traugucie	Traugutt	subst:sg:voc:m1	nazwisko	
 Trauguttach	Traugutt	subst:pl:loc:m1	nazwisko	
@@ -2999,6 +3004,7 @@ Travolto	Travolta	subst:sg:voc:m1	nazwisko
 Travoltowie	Travolta	subst:pl:nom.voc:m1	nazwisko	
 Travoltów	Travolta	subst:pl:gen.acc:m1	nazwisko	
 Travolty	Travolta	depr:pl:nom.acc.voc:m2	nazwisko	
+Travolty	Travolta	subst:sg:gen:m1	nazwisko	
 Trawińska	Trawińska	subst:sg:nom:f	nazwisko	
 Trawińska	Trawińska	subst:sg:voc:f	nazwisko	
 Trawińską	Trawińska	subst:sg:acc:f	nazwisko	

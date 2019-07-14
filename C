@@ -97,6 +97,7 @@ Caligulą	Caligula	subst:sg:inst:m1	imię
 Caligule	Caligula	depr:pl:nom.acc.voc:m2	imię	
 Caligulę	Caligula	subst:sg:acc:m1	imię	
 Caliguli	Caligula	subst:sg:dat.loc:m1	imię	
+Caliguli	Caligula	subst:sg:gen:m1	imię	
 Caligulo	Caligula	subst:sg:voc:m1	imię	
 Caligulom	Caligula	subst:pl:dat:m1	imię	
 Caligulowie	Caligula	subst:pl:nom.voc:m1	imię	
@@ -379,6 +380,7 @@ Carrom	Carra	subst:pl:dat:m1	nazwisko
 Carrowie	Carra	subst:pl:nom.voc:m1	nazwisko	
 Carrów	Carra	subst:pl:gen.acc:m1	nazwisko	
 Carry	Carra	depr:pl:nom.acc.voc:m2	nazwisko	
+Carry	Carra	subst:sg:gen:m1	nazwisko	
 Carze	Carra	subst:sg:dat.loc:m1	nazwisko	
 Carracci	Carracci	subst:pl:nom.voc:m1	nazwisko	
 Carracci	Carracci	subst:sg:nom:m1	nazwisko	
@@ -454,6 +456,7 @@ Casanovom	Casanova	subst:pl:dat:m1	nazwisko
 Casanovowie	Casanova	subst:pl:nom.voc:m1	nazwisko	
 Casanovów	Casanova	subst:pl:gen.acc:m1	nazwisko	
 Casanovy	Casanova	depr:pl:nom.acc.voc:m2	nazwisko	
+Casanovy	Casanova	subst:sg:gen:m1	nazwisko	
 Casarole	Casaroli	depr:pl:nom.acc.voc:m2	nazwisko	
 Casarolego	Casaroli	subst:sg:gen.acc:m1	nazwisko	
 Casarolemu	Casaroli	subst:sg:dat:m1	nazwisko	
@@ -991,6 +994,7 @@ Cerhom	Cerha	subst:pl:dat:m1	nazwisko
 Cerhowie	Cerha	subst:pl:nom.voc:m1	nazwisko	
 Cerhów	Cerha	subst:pl:gen.acc:m1	nazwisko	
 Cerhy	Cerha	depr:pl:nom.acc.voc:m2	nazwisko	
+Cerhy	Cerha	subst:sg:gen:m1	nazwisko	
 Cerze	Cerha	subst:sg:dat.loc:m1	nazwisko	
 Cerkwica	Cerkwica	subst:sg:nom:f	nazwa geograficzna	
 Cerkwicach	Cerkwica	subst:pl:loc:f	nazwa geograficzna	
@@ -1964,6 +1968,7 @@ Chodźkami	Chodźko	subst:pl:inst:m1	nazwisko
 Chodźką	Chodźko	subst:sg:inst:m1	nazwisko	
 Chodźkę	Chodźko	subst:sg:acc:m1	nazwisko	
 Chodźki	Chodźko	depr:pl:nom.acc.voc:m2	nazwisko	
+Chodźki	Chodźko	subst:sg:gen:m1	nazwisko	
 Chodźko	Chodźko	subst:sg:nom:m1	nazwisko	
 Chodźko	Chodźko	subst:sg:voc:m1	nazwisko	
 Chodźkom	Chodźko	subst:pl:dat:m1	nazwisko	
@@ -2549,6 +2554,7 @@ Churriguerom	Churriguera	subst:pl:dat:m1	nazwisko
 Churriguerowie	Churriguera	subst:pl:nom.voc:m1	nazwisko	
 Churriguerów	Churriguera	subst:pl:gen.acc:m1	nazwisko	
 Churriguery	Churriguera	depr:pl:nom.acc.voc:m2	nazwisko	
+Churriguery	Churriguera	subst:sg:gen:m1	nazwisko	
 Churriguerze	Churriguera	subst:sg:dat.loc:m1	nazwisko	
 Chwalibogach	Chwalibóg	subst:pl:loc:m1	imię	
 Chwaliboga	Chwalibóg	subst:sg:gen.acc:m1	imię	
@@ -3099,6 +3105,7 @@ Cieślą	Cieśla	subst:sg:inst:m1	nazwisko
 Cieśle	Cieśla	depr:pl:nom.acc.voc:m2	nazwisko	
 Cieślę	Cieśla	subst:sg:acc:m1	nazwisko	
 Cieśli	Cieśla	subst:sg:dat.loc:m1	nazwisko	
+Cieśli	Cieśla	subst:sg:gen:m1	nazwisko	
 Cieślo	Cieśla	subst:sg:voc:m1	nazwisko	
 Cieślom	Cieśla	subst:pl:dat:m1	nazwisko	
 Cieślowie	Cieśla	subst:pl:nom.voc:m1	nazwisko	
@@ -3490,6 +3497,7 @@ Coppolą	Coppola	subst:sg:inst:m1	nazwisko
 Coppole	Coppola	depr:pl:nom.acc.voc:m2	nazwisko	
 Coppolę	Coppola	subst:sg:acc:m1	nazwisko	
 Coppoli	Coppola	subst:sg:dat.loc:m1	nazwisko	
+Coppoli	Coppola	subst:sg:gen:m1	nazwisko	
 Coppolo	Coppola	subst:sg:voc:m1	nazwisko	
 Coppolom	Coppola	subst:pl:dat:m1	nazwisko	
 Coppolowie	Coppola	subst:pl:nom.voc:m1	nazwisko	
@@ -4347,6 +4355,7 @@ Czadcom	Czadca	subst:pl:dat:f	nazwa geograficzna
 Czadcy	Czadca	subst:sg:dat.loc:f	nazwa geograficzna	
 Czadcy	Czadca	subst:sg:gen:f	nazwa geograficzna	
 Czai	Czaja	subst:sg:dat.loc:m1	nazwisko	
+Czai	Czaja	subst:sg:gen:m1	nazwisko	
 Czajach	Czaja	subst:pl:loc:m1	nazwisko	
 Czaja	Czaja	subst:sg:nom:m1	nazwisko	
 Czajami	Czaja	subst:pl:inst:m1	nazwisko	
@@ -4364,6 +4373,7 @@ Czajkami	Czajka	subst:pl:inst:m1	nazwisko
 Czajką	Czajka	subst:sg:inst:m1	nazwisko	
 Czajkę	Czajka	subst:sg:acc:m1	nazwisko	
 Czajki	Czajka	depr:pl:nom.acc.voc:m2	nazwisko	
+Czajki	Czajka	subst:sg:gen:m1	nazwisko	
 Czajko	Czajka	subst:sg:voc:m1	nazwisko	
 Czajkom	Czajka	subst:pl:dat:m1	nazwisko	
 Czajkowie	Czajka	subst:pl:nom.voc:m1	nazwisko	
@@ -4967,6 +4977,7 @@ Czeczłom	Czeczło	subst:pl:dat:m1	nazwisko
 Czeczłowie	Czeczło	subst:pl:nom.voc:m1	nazwisko	
 Czeczłów	Czeczło	subst:pl:gen.acc:m1	nazwisko	
 Czeczły	Czeczło	depr:pl:nom.acc.voc:m2	nazwisko	
+Czeczły	Czeczło	subst:sg:gen:m1	nazwisko	
 Czeczocie	Czeczott	subst:sg:loc:m1	nazwisko	
 Czeczocie	Czeczott	subst:sg:voc:m1	nazwisko	
 Czeczottach	Czeczott	subst:pl:loc:m1	nazwisko	
@@ -5478,6 +5489,7 @@ Czukczom	Czukcza	subst:pl:dat:m1	nazwa pospolita	etn.
 Czukczowie	Czukcza	subst:pl:nom.voc:m1	nazwa pospolita	etn.
 Czukczów	Czukcza	subst:pl:gen.acc:m1	nazwa pospolita	etn.
 Czukczy	Czukcza	subst:sg:dat.loc:m1	nazwa pospolita	etn.
+Czukczy	Czukcza	subst:sg:gen:m1	nazwa pospolita	etn.
 Czukczyjce	Czukczyjka	subst:sg:dat.loc:f	nazwa pospolita	etn.
 Czukczyjek	Czukczyjka	subst:pl:gen:f	nazwa pospolita	etn.
 Czukczyjkach	Czukczyjka	subst:pl:loc:f	nazwa pospolita	etn.

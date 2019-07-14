@@ -137,6 +137,7 @@ Machalicom	Machalica	subst:pl:dat:m1	nazwisko
 Machalicowie	Machalica	subst:pl:nom.voc:m1	nazwisko	
 Machaliców	Machalica	subst:pl:gen.acc:m1	nazwisko	
 Machalicy	Machalica	subst:sg:dat.loc:m1	nazwisko	
+Machalicy	Machalica	subst:sg:gen:m1	nazwisko	
 Macharscy	Macharski	subst:pl:nom.voc:m1	nazwisko	
 Macharskich	Macharski	subst:pl:gen.acc:m1	nazwisko	
 Macharskich	Macharski	subst:pl:loc:m1	nazwisko	
@@ -847,6 +848,7 @@ Majo	Maja:s1	subst:sg:voc:f	imię
 Majom	Maja:s1	subst:pl:dat:f	imię	
 Maju	Maja:s1	subst:sg:voc:f	imię	
 Mai	Maja:s2	subst:sg:dat.loc:m1	nazwa pospolita	
+Mai	Maja:s2	subst:sg:gen:m1	nazwa pospolita	
 Majach	Maja:s2	subst:pl:loc:m1	nazwa pospolita	
 Maja	Maja:s2	subst:sg:nom:m1	nazwa pospolita	
 Majami	Maja:s2	subst:pl:inst:m1	nazwa pospolita	
@@ -977,6 +979,7 @@ Makarenkami	Makarenko	subst:pl:inst:m1	nazwisko
 Makarenką	Makarenko	subst:sg:inst:m1	nazwisko	
 Makarenkę	Makarenko	subst:sg:acc:m1	nazwisko	
 Makarenki	Makarenko	depr:pl:nom.acc.voc:m2	nazwisko	
+Makarenki	Makarenko	subst:sg:gen:m1	nazwisko	
 Makarenko	Makarenko	subst:sg:nom:m1	nazwisko	
 Makarenko	Makarenko	subst:sg:voc:m1	nazwisko	
 Makarenkom	Makarenko	subst:pl:dat:m1	nazwisko	
@@ -1167,6 +1170,7 @@ Makulą	Makula	subst:sg:inst:m1	nazwisko
 Makule	Makula	depr:pl:nom.acc.voc:m2	nazwisko	
 Makulę	Makula	subst:sg:acc:m1	nazwisko	
 Makuli	Makula	subst:sg:dat.loc:m1	nazwisko	
+Makuli	Makula	subst:sg:gen:m1	nazwisko	
 Makulo	Makula	subst:sg:voc:m1	nazwisko	
 Makulom	Makula	subst:pl:dat:m1	nazwisko	
 Makulowie	Makula	subst:pl:nom.voc:m1	nazwisko	
@@ -2039,6 +2043,7 @@ Mandelą	Mandela	subst:sg:inst:m1	nazwisko
 Mandele	Mandela	depr:pl:nom.acc.voc:m2	nazwisko	
 Mandelę	Mandela	subst:sg:acc:m1	nazwisko	
 Mandeli	Mandela	subst:sg:dat.loc:m1	nazwisko	
+Mandeli	Mandela	subst:sg:gen:m1	nazwisko	
 Mandelo	Mandela	subst:sg:voc:m1	nazwisko	
 Mandelom	Mandela	subst:pl:dat:m1	nazwisko	
 Mandelowie	Mandela	subst:pl:nom.voc:m1	nazwisko	
@@ -2231,6 +2236,7 @@ Mantegną	Mantegna	subst:sg:inst:m1	nazwisko
 Mantegne	Mantegna	depr:pl:nom.acc.voc:m2	nazwisko	
 Mantegnę	Mantegna	subst:sg:acc:m1	nazwisko	
 Mantegni	Mantegna	subst:sg:dat.loc:m1	nazwisko	
+Mantegni	Mantegna	subst:sg:gen:m1	nazwisko	
 Mantegno	Mantegna	subst:sg:voc:m1	nazwisko	
 Mantegnom	Mantegna	subst:pl:dat:m1	nazwisko	
 Mantegnowie	Mantegna	subst:pl:nom.voc:m1	nazwisko	
@@ -3080,6 +3086,7 @@ Maronito	Maronita	subst:sg:voc:m1	nazwa pospolita
 Maronitom	Maronita	subst:pl:dat:m1	nazwa pospolita	
 Maronitów	Maronita	subst:pl:gen.acc:m1	nazwa pospolita	
 Maronity	Maronita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Maronity	Maronita	subst:sg:gen:m1	nazwa pospolita	
 Marquezach	Marquez	subst:pl:loc:m1	nazwisko	
 Marqueza	Marquez	subst:sg:gen.acc:m1	nazwisko	
 Marquezami	Marquez	subst:pl:inst:m1	nazwisko	
@@ -3676,6 +3683,7 @@ Masinom	Masina	subst:pl:dat:m1	nazwisko
 Masinowie	Masina	subst:pl:nom.voc:m1	nazwisko	
 Masinów	Masina	subst:pl:gen.acc:m1	nazwisko	
 Masiny	Masina	depr:pl:nom.acc.voc:m2	nazwisko	
+Masiny	Masina	subst:sg:gen:m1	nazwisko	
 Masławach	Masław	subst:pl:loc:m1	imię	
 Masława	Masław	subst:sg:gen.acc:m1	imię	
 Masławami	Masław	subst:pl:inst:m1	imię	
@@ -3794,6 +3802,7 @@ Maszewo	Maszewo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna
 Maszewom	Maszewo	subst:pl:dat:n:ncol	nazwa geograficzna	
 Maszewu	Maszewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Matei	Mateja	subst:sg:dat.loc:m1	nazwisko	
+Matei	Mateja	subst:sg:gen:m1	nazwisko	
 Matejach	Mateja	subst:pl:loc:m1	nazwisko	
 Mateja	Mateja	subst:sg:nom:m1	nazwisko	
 Matejami	Mateja	subst:pl:inst:m1	nazwisko	
@@ -3810,6 +3819,7 @@ Matejkami	Matejko	subst:pl:inst:m1	nazwisko
 Matejką	Matejko	subst:sg:inst:m1	nazwisko	
 Matejkę	Matejko	subst:sg:acc:m1	nazwisko	
 Matejki	Matejko	depr:pl:nom.acc.voc:m2	nazwisko	
+Matejki	Matejko	subst:sg:gen:m1	nazwisko	
 Matejko	Matejko	subst:sg:nom:m1	nazwisko	
 Matejko	Matejko	subst:sg:voc:m1	nazwisko	
 Matejkom	Matejko	subst:pl:dat:m1	nazwisko	
@@ -3822,6 +3832,7 @@ Mateńkami	Mateńka	subst:pl:inst:m1	nazwisko
 Mateńką	Mateńka	subst:sg:inst:m1	nazwisko	
 Mateńkę	Mateńka	subst:sg:acc:m1	nazwisko	
 Mateńki	Mateńka	depr:pl:nom.acc.voc:m2	nazwisko	
+Mateńki	Mateńka	subst:sg:gen:m1	nazwisko	
 Mateńko	Mateńka	subst:sg:voc:m1	nazwisko	
 Mateńkom	Mateńka	subst:pl:dat:m1	nazwisko	
 Mateńkowie	Mateńka	subst:pl:nom.voc:m1	nazwisko	
@@ -3848,6 +3859,7 @@ Maternom	Materna:s2	subst:pl:dat:m1	nazwisko
 Maternowie	Materna:s2	subst:pl:nom.voc:m1	nazwisko	
 Maternów	Materna:s2	subst:pl:gen.acc:m1	nazwisko	
 Materny	Materna:s2	depr:pl:nom.acc.voc:m2	nazwisko	
+Materny	Materna:s2	subst:sg:gen:m1	nazwisko	
 Mateuszach	Mateusz	subst:pl:loc:m1	imię	
 Mateusza	Mateusz	subst:sg:gen.acc:m1	imię	
 Mateuszami	Mateusz	subst:pl:inst:m1	imię	
@@ -3892,6 +3904,7 @@ Matheą	Mathea	subst:sg:inst:m1	nazwisko
 Mathee	Mathea	depr:pl:nom.acc.voc:m2	nazwisko	
 Matheę	Mathea	subst:sg:acc:m1	nazwisko	
 Mathei	Mathea	subst:sg:dat.loc:m1	nazwisko	
+Mathei	Mathea	subst:sg:gen:m1	nazwisko	
 Matheo	Mathea	subst:sg:voc:m1	nazwisko	
 Matheom	Mathea	subst:pl:dat:m1	nazwisko	
 Matheowie	Mathea	subst:pl:nom.voc:m1	nazwisko	
@@ -4292,6 +4305,7 @@ Mazepom	Mazepa	subst:pl:dat:m1	nazwisko
 Mazepowie	Mazepa	subst:pl:nom.voc:m1	nazwisko	
 Mazepów	Mazepa	subst:pl:gen.acc:m1	nazwisko	
 Mazepy	Mazepa	depr:pl:nom.acc.voc:m2	nazwisko	
+Mazepy	Mazepa	subst:sg:gen:m1	nazwisko	
 Maziarska	Maziarska	subst:sg:nom:f	nazwisko	
 Maziarska	Maziarska	subst:sg:voc:f	nazwisko	
 Maziarską	Maziarska	subst:sg:acc:f	nazwisko	
@@ -4715,6 +4729,7 @@ Mehtom	Mehta	subst:pl:dat:m1	nazwisko
 Mehtowie	Mehta	subst:pl:nom.voc:m1	nazwisko	
 Mehtów	Mehta	subst:pl:gen.acc:m1	nazwisko	
 Mehty	Mehta	depr:pl:nom.acc.voc:m2	nazwisko	
+Mehty	Mehta	subst:sg:gen:m1	nazwisko	
 Meirach	Meir	subst:pl:loc:m1	imię	
 Meira	Meir	subst:sg:gen.acc:m1	imię	
 Meirami	Meir	subst:pl:inst:m1	imię	
@@ -4992,6 +5007,7 @@ Menassom	Menassa	subst:pl:dat:m1	imię
 Menassowie	Menassa	subst:pl:nom.voc:m1	imię	
 Menassów	Menassa	subst:pl:gen.acc:m1	imię	
 Menassy	Menassa	depr:pl:nom.acc.voc:m2	imię	
+Menassy	Menassa	subst:sg:gen:m1	imię	
 Mendel	Mendel	subst:sg:nom:m1	imię|nazwisko	
 Mendlach	Mendel	subst:pl:loc:m1	imię|nazwisko	
 Mendla	Mendel	subst:sg:gen.acc:m1	imię|nazwisko	
@@ -5343,6 +5359,7 @@ Mężydłom	Mężydło	subst:pl:dat:m1	nazwisko
 Mężydłowie	Mężydło	subst:pl:nom.voc:m1	nazwisko	
 Mężydłów	Mężydło	subst:pl:gen.acc:m1	nazwisko	
 Mężydły	Mężydło	depr:pl:nom.acc.voc:m2	nazwisko	
+Mężydły	Mężydło	subst:sg:gen:m1	nazwisko	
 MF-ach	MF	subst:pl:loc:m3	nazwa instytucji	
 MF-ami	MF	subst:pl:inst:m3	nazwa instytucji	
 MF-em	MF	subst:sg:inst:m3	nazwa instytucji	
@@ -5428,6 +5445,7 @@ Michom	Micha	subst:pl:dat:m1	imię
 Michowie	Micha	subst:pl:nom.voc:m1	imię	
 Michów	Micha	subst:pl:gen.acc:m1	imię	
 Michy	Micha	depr:pl:nom.acc.voc:m2	imię	
+Michy	Micha	subst:sg:gen:m1	imię	
 Misze	Micha	subst:sg:dat.loc:m1	imię	
 Michaelach	Michael	subst:pl:loc:m1	imię	
 Michaela	Michael	subst:sg:gen.acc:m1	imię	
@@ -5713,6 +5731,7 @@ Michnom	Michno	subst:pl:dat:m1	nazwisko
 Michnowie	Michno	subst:pl:nom.voc:m1	nazwisko	
 Michnów	Michno	subst:pl:gen.acc:m1	nazwisko	
 Michny	Michno	depr:pl:nom.acc.voc:m2	nazwisko	
+Michny	Michno	subst:sg:gen:m1	nazwisko	
 Michowach	Michów	subst:pl:loc:m3	nazwa geograficzna	
 Michowa	Michów	subst:sg:gen:m3	nazwa geograficzna	
 Michowami	Michów	subst:pl:inst:m3	nazwa geograficzna	
@@ -5755,6 +5774,7 @@ Mickami	Micka	subst:pl:inst:m1	imię
 Micką	Micka	subst:sg:inst:m1	imię	
 Mickę	Micka	subst:sg:acc:m1	imię	
 Micki	Micka	depr:pl:nom.acc.voc:m2	imię	
+Micki	Micka	subst:sg:gen:m1	imię	
 Micko	Micka	subst:sg:voc:m1	imię	
 Mickom	Micka	subst:pl:dat:m1	imię	
 Mickowie	Micka	subst:pl:nom.voc:m1	imię	
@@ -5802,6 +5822,7 @@ Mićkami	Mićka	subst:pl:inst:m1	imię
 Mićką	Mićka	subst:sg:inst:m1	imię	
 Mićkę	Mićka	subst:sg:acc:m1	imię	
 Mićki	Mićka	depr:pl:nom.acc.voc:m2	imię	
+Mićki	Mićka	subst:sg:gen:m1	imię	
 Mićko	Mićka	subst:sg:voc:m1	imię	
 Mićkom	Mićka	subst:pl:dat:m1	imię	
 Mićkowie	Mićka	subst:pl:nom.voc:m1	imię	
@@ -6403,6 +6424,7 @@ Mikłuchom	Mikłucho	subst:pl:dat:m1	nazwisko
 Mikłuchowie	Mikłucho	subst:pl:nom.voc:m1	nazwisko	
 Mikłuchów	Mikłucho	subst:pl:gen.acc:m1	nazwisko	
 Mikłuchy	Mikłucho	depr:pl:nom.acc.voc:m2	nazwisko	
+Mikłuchy	Mikłucho	subst:sg:gen:m1	nazwisko	
 Mikłusze	Mikłucho	subst:sg:dat.loc:m1	nazwisko	
 Mikołajach	Mikołaj	subst:pl:loc:m1	imię	
 Mikołaja	Mikołaj	subst:sg:gen.acc:m1	imię	
@@ -7540,6 +7562,7 @@ Miszom	Misza	subst:pl:dat:m1	imię
 Miszowie	Misza	subst:pl:nom.voc:m1	imię	
 Miszów	Misza	subst:pl:gen.acc:m1	imię	
 Miszy	Misza	subst:sg:dat.loc:m1	imię	
+Miszy	Misza	subst:sg:gen:m1	imię	
 Miszkolcach	Miszkolc	subst:pl:loc:m3	nazwa geograficzna	
 Miszkolcami	Miszkolc	subst:pl:inst:m3	nazwa geograficzna	
 Miszkolca	Miszkolc	subst:sg:gen:m3	nazwa geograficzna	
@@ -8324,6 +8347,7 @@ Molendo	Molenda:s1	subst:sg:voc:m1	nazwisko
 Molendowie	Molenda:s1	subst:pl:nom.voc:m1	nazwisko	
 Molendów	Molenda:s1	subst:pl:gen.acc:m1	nazwisko	
 Molendy	Molenda:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Molendy	Molenda:s1	subst:sg:gen:m1	nazwisko	
 Molendzie	Molenda:s1	subst:sg:dat.loc:m1	nazwisko	
 Molendach	Molenda:s2	subst:pl:loc:f	nazwisko	
 Molendami	Molenda:s2	subst:pl:inst:f	nazwisko	
@@ -8645,6 +8669,7 @@ Moniuszkami	Moniuszko	subst:pl:inst:m1	nazwisko
 Moniuszką	Moniuszko	subst:sg:inst:m1	nazwisko	
 Moniuszkę	Moniuszko	subst:sg:acc:m1	nazwisko	
 Moniuszki	Moniuszko	depr:pl:nom.acc.voc:m2	nazwisko	
+Moniuszki	Moniuszko	subst:sg:gen:m1	nazwisko	
 Moniuszkom	Moniuszko	subst:pl:dat:m1	nazwisko	
 Moniuszko	Moniuszko	subst:sg:nom:m1	nazwisko	
 Moniuszko	Moniuszko	subst:sg:voc:m1	nazwisko	
@@ -8844,6 +8869,7 @@ Moravią	Moravia	subst:sg:inst:m1	nazwisko|pseudonim
 Moravie	Moravia	depr:pl:nom.acc.voc:m2	nazwisko|pseudonim	
 Moravię	Moravia	subst:sg:acc:m1	nazwisko|pseudonim	
 Moravii	Moravia	subst:sg:dat.loc:m1	nazwisko|pseudonim	
+Moravii	Moravia	subst:sg:gen:m1	nazwisko|pseudonim	
 Moraviom	Moravia	subst:pl:dat:m1	nazwisko|pseudonim	
 Moravio	Moravia	subst:sg:voc:m1	nazwisko|pseudonim	
 Moraviowie	Moravia	subst:pl:nom.voc:m1	nazwisko|pseudonim	
@@ -9093,6 +9119,7 @@ Moskaliskami	Moskalisko	subst:pl:inst:n:ncol	nazwa pospolita
 Moskaliska	Moskalisko	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
 Moskaliska	Moskalisko	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
 Moskaliska	Moskalisko	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
+Moskaliska	Moskalisko	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
 Moskaliska	Moskalisko	subst:sg:gen:n:ncol	nazwa pospolita	
 Moskaliskiem	Moskalisko	subst:sg:inst:m1	nazwa pospolita	rzad.
 Moskaliskiem	Moskalisko	subst:sg:inst:n:ncol	nazwa pospolita	
@@ -9771,6 +9798,7 @@ Mucho	Mucha	subst:sg:voc:m1	nazwisko
 Muchowie	Mucha	subst:pl:nom.voc:m1	nazwisko	
 Muchów	Mucha	subst:pl:gen.acc:m1	nazwisko	
 Muchy	Mucha	depr:pl:nom.acc.voc:m2	nazwisko	
+Muchy	Mucha	subst:sg:gen:m1	nazwisko	
 Musze	Mucha	subst:sg:dat.loc:m1	nazwisko	
 Mukaczewach	Mukaczewo	subst:pl:loc:n:ncol	nazwa geograficzna	
 Mukaczewami	Mukaczewo	subst:pl:inst:n:ncol	nazwa geograficzna	
@@ -10057,6 +10085,7 @@ Murzyniskami	Murzynisko	subst:pl:inst:n:ncol	nazwa pospolita
 Murzyniska	Murzynisko	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
 Murzyniska	Murzynisko	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
 Murzyniska	Murzynisko	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
+Murzyniska	Murzynisko	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
 Murzyniska	Murzynisko	subst:sg:gen:n:ncol	nazwa pospolita	
 Murzyniskiem	Murzynisko	subst:sg:inst:m1	nazwa pospolita	rzad.
 Murzyniskiem	Murzynisko	subst:sg:inst:n:ncol	nazwa pospolita	

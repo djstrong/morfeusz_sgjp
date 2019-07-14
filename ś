@@ -3025,6 +3025,7 @@
 ścierciałowie	ścierciała	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
 ścierciałów	ścierciała	subst:pl:gen.acc:m1	nazwa pospolita	rzad.
 ścierciały	ścierciała	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
+ścierciały	ścierciała	subst:sg:gen:m1	nazwa pospolita	rzad.
 ścierciałce	ścierciałka	subst:sg:dat.loc:m1	nazwa pospolita	daw.
 ścierciałek	ścierciałka	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 ścierciałkach	ścierciałka	subst:pl:loc:m1	nazwa pospolita	daw.
@@ -3033,6 +3034,7 @@
 ścierciałką	ścierciałka	subst:sg:inst:m1	nazwa pospolita	daw.
 ścierciałkę	ścierciałka	subst:sg:acc:m1	nazwa pospolita	daw.
 ścierciałki	ścierciałka	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
+ścierciałki	ścierciałka	subst:sg:gen:m1	nazwa pospolita	daw.
 ścierciałkom	ścierciałka	subst:pl:dat:m1	nazwa pospolita	daw.
 ścierciałko	ścierciałka	subst:sg:voc:m1	nazwa pospolita	daw.
 ścierciałkowie	ścierciałka	subst:pl:nom.voc:m1	nazwa pospolita	daw.
@@ -6396,6 +6398,7 @@
 ślamazaro	ślamazara:s2	subst:sg:voc:m1	nazwa pospolita	
 ślamazarów	ślamazara:s2	subst:pl:gen.acc:m1	nazwa pospolita	
 ślamazary	ślamazara:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+ślamazary	ślamazara:s2	subst:sg:gen:m1	nazwa pospolita	
 ślamazarze	ślamazara:s2	subst:sg:dat.loc:m1	nazwa pospolita	
 ślamazarzy	ślamazara:s2	subst:pl:nom.voc:m1	nazwa pospolita	
 ślamazarniej	ślamazarnie	adv:com		
@@ -11354,6 +11357,7 @@
 śmierciożerców	śmierciożerca	subst:pl:gen.acc:m1	nazwa pospolita	
 śmierciożercy	śmierciożerca	subst:pl:nom.voc:m1	nazwa pospolita	
 śmierciożercy	śmierciożerca	subst:sg:dat.loc:m1	nazwa pospolita	
+śmierciożercy	śmierciożerca	subst:sg:gen:m1	nazwa pospolita	
 śmierciach	śmierć	subst:pl:loc:f	nazwa pospolita	
 śmierciami	śmierć	subst:pl:inst:f	nazwa pospolita	
 śmiercią	śmierć	subst:sg:inst:f	nazwa pospolita	
@@ -19488,6 +19492,7 @@
 śudrowie	śudra	subst:pl:nom.voc:m1	nazwa pospolita	
 śudrów	śudra	subst:pl:gen.acc:m1	nazwa pospolita	
 śudry	śudra	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+śudry	śudra	subst:sg:gen:m1	nazwa pospolita	
 śudrze	śudra	subst:sg:dat.loc:m1	nazwa pospolita	
 śwarnie	śwarnie	adv:pos		gwar.
 śwarnościach	śwarność	subst:pl:loc:f	nazwa pospolita	gwar.
@@ -19546,6 +19551,7 @@
 świadczeniobiorców	świadczeniobiorca	subst:pl:gen.acc:m1	nazwa pospolita	
 świadczeniobiorcy	świadczeniobiorca	subst:pl:nom.voc:m1	nazwa pospolita	
 świadczeniobiorcy	świadczeniobiorca	subst:sg:dat.loc:m1	nazwa pospolita	
+świadczeniobiorcy	świadczeniobiorca	subst:sg:gen:m1	nazwa pospolita	
 świadczeniodawcach	świadczeniodawca	subst:pl:loc:m1	nazwa pospolita	
 świadczeniodawcami	świadczeniodawca	subst:pl:inst:m1	nazwa pospolita	
 świadczeniodawca	świadczeniodawca	subst:sg:nom:m1	nazwa pospolita	
@@ -19557,6 +19563,7 @@
 świadczeniodawców	świadczeniodawca	subst:pl:gen.acc:m1	nazwa pospolita	
 świadczeniodawcy	świadczeniodawca	subst:pl:nom.voc:m1	nazwa pospolita	
 świadczeniodawcy	świadczeniodawca	subst:sg:dat.loc:m1	nazwa pospolita	
+świadczeniodawcy	świadczeniodawca	subst:sg:gen:m1	nazwa pospolita	
 świadcząca	świadczyć	pact:sg:nom.voc:f:imperf:aff		
 świadczącą	świadczyć	pact:sg:acc.inst:f:imperf:aff		
 świadczącego	świadczyć	pact:sg:acc:m1.m2:imperf:aff		
@@ -20562,6 +20569,7 @@
 światoburców	światoburca	subst:pl:gen.acc:m1	nazwa pospolita	
 światoburcy	światoburca	subst:pl:nom.voc:m1	nazwa pospolita	
 światoburcy	światoburca	subst:sg:dat.loc:m1	nazwa pospolita	
+światoburcy	światoburca	subst:sg:gen:m1	nazwa pospolita	
 światoburczo	światoburczo	adv:pos		rzad.
 światoburczościach	światoburczość	subst:pl:loc:f	nazwa pospolita	
 światoburczościami	światoburczość	subst:pl:inst:f	nazwa pospolita	
@@ -22235,6 +22243,7 @@
 świecibaką	świecibaka:s2	subst:sg:inst:m1	nazwa pospolita	daw.
 świecibakę	świecibaka:s2	subst:sg:acc:m1	nazwa pospolita	daw.
 świecibaki	świecibaka:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
+świecibaki	świecibaka:s2	subst:sg:gen:m1	nazwa pospolita	daw.
 świecibakom	świecibaka:s2	subst:pl:dat:m1	nazwa pospolita	daw.
 świecibako	świecibaka:s2	subst:sg:voc:m1	nazwa pospolita	daw.
 świecibaków	świecibaka:s2	subst:pl:gen.acc:m1	nazwa pospolita	daw.
@@ -23119,6 +23128,7 @@
 świerczałowie	świerczała	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 świerczałów	świerczała	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 świerczały	świerczała	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
+świerczały	świerczała	subst:sg:gen:m1	nazwa pospolita	daw.
 świerczałce	świerczałka	subst:sg:dat.loc:m1	nazwa pospolita	daw.
 świerczałek	świerczałka	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 świerczałkach	świerczałka	subst:pl:loc:m1	nazwa pospolita	daw.
@@ -23127,6 +23137,7 @@
 świerczałką	świerczałka	subst:sg:inst:m1	nazwa pospolita	daw.
 świerczałkę	świerczałka	subst:sg:acc:m1	nazwa pospolita	daw.
 świerczałki	świerczałka	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
+świerczałki	świerczałka	subst:sg:gen:m1	nazwa pospolita	daw.
 świerczałkom	świerczałka	subst:pl:dat:m1	nazwa pospolita	daw.
 świerczałko	świerczałka	subst:sg:voc:m1	nazwa pospolita	daw.
 świerczałkowie	świerczałka	subst:pl:nom.voc:m1	nazwa pospolita	daw.
@@ -25987,6 +25998,7 @@
 świętobójców	świętobójca	subst:pl:gen.acc:m1	nazwa pospolita	przest.
 świętobójcy	świętobójca	subst:pl:nom.voc:m1	nazwa pospolita	przest.
 świętobójcy	świętobójca	subst:sg:dat.loc:m1	nazwa pospolita	przest.
+świętobójcy	świętobójca	subst:sg:gen:m1	nazwa pospolita	przest.
 świętochłowiccy	świętochłowicki	adj:pl:nom.voc:m1:pos		
 świętochłowicka	świętochłowicki	adj:sg:nom.voc:f:pos		
 świętochłowicką	świętochłowicki	adj:sg:acc:f:pos		
@@ -26095,6 +26107,7 @@
 świętojurców	świętojurca	subst:pl:gen.acc:m1	nazwa pospolita	
 świętojurcy	świętojurca	subst:pl:nom.voc:m1	nazwa pospolita	
 świętojurcy	świętojurca	subst:sg:dat.loc:m1	nazwa pospolita	
+świętojurcy	świętojurca	subst:sg:gen:m1	nazwa pospolita	
 świętokatarzyńscy	świętokatarzyński	adj:pl:nom.voc:m1:pos		
 świętokatarzyńska	świętokatarzyński	adj:sg:nom.voc:f:pos		
 świętokatarzyńską	świętokatarzyński	adj:sg:acc:f:pos		
@@ -26143,6 +26156,7 @@
 świętokradców	świętokradca	subst:pl:gen.acc:m1	nazwa pospolita	
 świętokradcy	świętokradca	subst:pl:nom.voc:m1	nazwa pospolita	
 świętokradcy	świętokradca	subst:sg:dat.loc:m1	nazwa pospolita	
+świętokradcy	świętokradca	subst:sg:gen:m1	nazwa pospolita	
 świętokradczo	świętokradczo	adv:pos		
 świętokradczościach	świętokradczość	subst:pl:loc:f	nazwa pospolita	
 świętokradczościami	świętokradczość	subst:pl:inst:f	nazwa pospolita	
@@ -26296,6 +26310,7 @@
 świętokupców	świętokupca	subst:pl:gen.acc:m1	nazwa pospolita	
 świętokupcy	świętokupca	subst:pl:nom.voc:m1	nazwa pospolita	
 świętokupcy	świętokupca	subst:sg:dat.loc:m1	nazwa pospolita	
+świętokupcy	świętokupca	subst:sg:gen:m1	nazwa pospolita	
 świętokupstwach	świętokupstwo	subst:pl:loc:n:ncol	nazwa pospolita	
 świętokupstwami	świętokupstwo	subst:pl:inst:n:ncol	nazwa pospolita	
 świętokupstwa	świętokupstwo	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
@@ -26944,6 +26959,7 @@
 świniobójców	świniobójca	subst:pl:gen.acc:m1	nazwa pospolita	
 świniobójcy	świniobójca	subst:pl:nom.voc:m1	nazwa pospolita	
 świniobójcy	świniobójca	subst:sg:dat.loc:m1	nazwa pospolita	
+świniobójcy	świniobójca	subst:sg:gen:m1	nazwa pospolita	
 świniokształtne	świniokształtne	subst:pl:nom.acc.voc:n:pt	nazwa pospolita	zool.
 świniokształtnych	świniokształtne	subst:pl:gen:n:pt	nazwa pospolita	zool.
 świniokształtnych	świniokształtne	subst:pl:loc:n:pt	nazwa pospolita	zool.
@@ -27425,6 +27441,7 @@
 śwircałką	śwircałka	subst:sg:inst:m1	nazwa pospolita	daw.
 śwircałkę	śwircałka	subst:sg:acc:m1	nazwa pospolita	daw.
 śwircałki	śwircałka	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
+śwircałki	śwircałka	subst:sg:gen:m1	nazwa pospolita	daw.
 śwircałkom	śwircałka	subst:pl:dat:m1	nazwa pospolita	daw.
 śwircałko	śwircałka	subst:sg:voc:m1	nazwa pospolita	daw.
 śwircałkowie	śwircałka	subst:pl:nom.voc:m1	nazwa pospolita	daw.
@@ -28257,6 +28274,7 @@
 świszczypałowie	świszczypała:s3	subst:pl:nom.voc:m1	nazwa pospolita	rzad.|żart.
 świszczypałów	świszczypała:s3	subst:pl:gen.acc:m1	nazwa pospolita	rzad.|żart.
 świszczypały	świszczypała:s3	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.|żart.
+świszczypały	świszczypała:s3	subst:sg:gen:m1	nazwa pospolita	rzad.|żart.
 świszczypałce	świszczypałka	subst:sg:dat.loc:m1	nazwa pospolita	daw.
 świszczypałek	świszczypałka	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 świszczypałkach	świszczypałka	subst:pl:loc:m1	nazwa pospolita	daw.
@@ -28265,6 +28283,7 @@
 świszczypałką	świszczypałka	subst:sg:inst:m1	nazwa pospolita	daw.
 świszczypałkę	świszczypałka	subst:sg:acc:m1	nazwa pospolita	daw.
 świszczypałki	świszczypałka	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
+świszczypałki	świszczypałka	subst:sg:gen:m1	nazwa pospolita	daw.
 świszczypałkom	świszczypałka	subst:pl:dat:m1	nazwa pospolita	daw.
 świszczypałko	świszczypałka	subst:sg:voc:m1	nazwa pospolita	daw.
 świszczypałkowie	świszczypałka	subst:pl:nom.voc:m1	nazwa pospolita	daw.

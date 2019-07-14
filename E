@@ -334,6 +334,7 @@ Efraimito	Efraimita	subst:sg:voc:m1	nazwa pospolita
 Efraimitom	Efraimita	subst:pl:dat:m1	nazwa pospolita	
 Efraimitów	Efraimita	subst:pl:gen.acc:m1	nazwa pospolita	
 Efraimity	Efraimita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Efraimity	Efraimita	subst:sg:gen:m1	nazwa pospolita	
 Efracie	Efrata	subst:sg:dat.loc:f	imię	
 Efratach	Efrata	subst:pl:loc:f	imię	
 Efrata	Efrata	subst:sg:nom:f	imię	
@@ -618,6 +619,7 @@ Elamito	Elamita	subst:sg:voc:m1	nazwa pospolita
 Elamitom	Elamita	subst:pl:dat:m1	nazwa pospolita	
 Elamitów	Elamita	subst:pl:gen.acc:m1	nazwa pospolita	
 Elamity	Elamita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Elamity	Elamita	subst:sg:gen:m1	nazwa pospolita	
 Elbach	Elba	subst:pl:loc:f	nazwa geograficzna	
 Elba	Elba	subst:sg:nom:f	nazwa geograficzna	
 Elbami	Elba	subst:pl:inst:f	nazwa geograficzna	
@@ -908,6 +910,7 @@ Elkanom	Elkana	subst:pl:dat:m1	imię
 Elkanowie	Elkana	subst:pl:nom.voc:m1	imię	
 Elkanów	Elkana	subst:pl:gen.acc:m1	imię	
 Elkany	Elkana	depr:pl:nom.acc.voc:m2	imię	
+Elkany	Elkana	subst:sg:gen:m1	imię	
 Ellach	Ella	subst:pl:loc:f	imię	
 Ella	Ella	subst:sg:nom:f	imię	
 Ellami	Ella	subst:pl:inst:f	imię	

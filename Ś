@@ -80,6 +80,7 @@
 Śiwowie	Śiwa	subst:pl:nom.voc:m1	imię	
 Śiwów	Śiwa	subst:pl:gen.acc:m1	imię	
 Śiwy	Śiwa	depr:pl:nom.acc.voc:m2	imię	
+Śiwy	Śiwa	subst:sg:gen:m1	imię	
 Śląskach	Śląsk	subst:pl:loc:m3	nazwa geograficzna	
 Śląskami	Śląsk	subst:pl:inst:m3	nazwa geograficzna	
 Śląska	Śląsk	subst:sg:gen:m3	nazwa geograficzna	
@@ -171,6 +172,7 @@
 Śliwowie	Śliwa	subst:pl:nom.voc:m1	nazwisko	
 Śliwów	Śliwa	subst:pl:gen.acc:m1	nazwisko	
 Śliwy	Śliwa	depr:pl:nom.acc.voc:m2	nazwisko	
+Śliwy	Śliwa	subst:sg:gen:m1	nazwisko	
 Śliwicach	Śliwice	subst:pl:loc:n:pt	nazwa geograficzna	
 Śliwicach	Śliwice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Śliwicami	Śliwice	subst:pl:inst:n:pt	nazwa geograficzna	
@@ -526,6 +528,7 @@
 Świdrygiełłowie	Świdrygiełło	subst:pl:nom.voc:m1	nazwisko	
 Świdrygiełłów	Świdrygiełło	subst:pl:gen.acc:m1	nazwisko	
 Świdrygiełły	Świdrygiełło	depr:pl:nom.acc.voc:m2	nazwisko	
+Świdrygiełły	Świdrygiełło	subst:sg:gen:m1	nazwisko	
 Świdzińska	Świdzińska	subst:sg:nom:f	nazwisko	
 Świdzińska	Świdzińska	subst:sg:voc:f	nazwisko	
 Świdzińską	Świdzińska	subst:sg:acc:f	nazwisko	

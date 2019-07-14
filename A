@@ -1299,6 +1299,7 @@ Aghami	Agha	subst:pl:inst:m1	imię
 Aghą	Agha	subst:sg:inst:m1	imię	
 Aghę	Agha	subst:sg:acc:m1	imię	
 Aghi	Agha	depr:pl:nom.acc.voc:m2	imię	
+Aghi	Agha	subst:sg:gen:m1	imię	
 Agho	Agha	subst:sg:voc:m1	imię	
 Aghom	Agha	subst:pl:dat:m1	imię	
 Aghowie	Agha	subst:pl:nom.voc:m1	imię	
@@ -1349,6 +1350,7 @@ Agryppom	Agryppa	subst:pl:dat:m1	imię
 Agryppowie	Agryppa	subst:pl:nom.voc:m1	imię	
 Agryppów	Agryppa	subst:pl:gen.acc:m1	imię	
 Agryppy	Agryppa	depr:pl:nom.acc.voc:m2	imię	
+Agryppy	Agryppa	subst:sg:gen:m1	imię	
 Agunia	Agunia	subst:sg:nom:f	imię	
 Aguniach	Agunia	subst:pl:loc:f	imię	
 Aguni	Agunia	subst:pl:gen:f	imię	hom.|rzad.
@@ -2498,6 +2500,7 @@ Aloszom	Alosza	subst:pl:dat:m1	imię
 Aloszowie	Alosza	subst:pl:nom.voc:m1	imię	
 Aloszów	Alosza	subst:pl:gen.acc:m1	imię	
 Aloszy	Alosza	subst:sg:dat.loc:m1	imię	
+Aloszy	Alosza	subst:sg:gen:m1	imię	
 AL-owca	AL-owiec	subst:sg:gen.acc:m1	nazwa pospolita	
 AL-owcach	AL-owiec	subst:pl:loc:m1	nazwa pospolita	
 AL-owcami	AL-owiec	subst:pl:inst:m1	nazwa pospolita	
@@ -4836,6 +4839,7 @@ Arią	Aria	subst:sg:inst:m1	nazwa pospolita	etn.
 Arie	Aria	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
 Arię	Aria	subst:sg:acc:m1	nazwa pospolita	etn.
 Arii	Aria	subst:sg:dat.loc:m1	nazwa pospolita	etn.
+Arii	Aria	subst:sg:gen:m1	nazwa pospolita	etn.
 Ario	Aria	subst:sg:voc:m1	nazwa pospolita	etn.
 Ariom	Aria	subst:pl:dat:m1	nazwa pospolita	etn.
 Ariowie	Aria	subst:pl:nom.voc:m1	nazwa pospolita	etn.
@@ -6291,6 +6295,7 @@ Azom	Aza	subst:pl:dat:m1	imię
 Azowie	Aza	subst:pl:nom.voc:m1	imię	
 Azów	Aza	subst:pl:gen.acc:m1	imię	
 Azy	Aza	depr:pl:nom.acc.voc:m2	imię	
+Azy	Aza	subst:sg:gen:m1	imię	
 Azera	Azer	subst:sg:gen.acc:m1	nazwa pospolita	
 Azerach	Azer	subst:pl:loc:m1	nazwa pospolita	
 Azerami	Azer	subst:pl:inst:m1	nazwa pospolita	
@@ -6372,6 +6377,7 @@ Azjato	Azjata	subst:sg:voc:m1	nazwa pospolita
 Azjatom	Azjata	subst:pl:dat:m1	nazwa pospolita	
 Azjatów	Azjata	subst:pl:gen.acc:m1	nazwa pospolita	
 Azjaty	Azjata	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Azjaty	Azjata	subst:sg:gen:m1	nazwa pospolita	
 Azjatce	Azjatka	subst:sg:dat.loc:f	nazwa pospolita	
 Azjatek	Azjatka	subst:pl:gen:f	nazwa pospolita	
 Azjatka	Azjatka	subst:sg:nom:f	nazwa pospolita	

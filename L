@@ -24,6 +24,7 @@ Labudom	Labuda	subst:pl:dat:m1	nazwisko
 Labudowie	Labuda	subst:pl:nom.voc:m1	nazwisko	
 Labudów	Labuda	subst:pl:gen.acc:m1	nazwisko	
 Labudy	Labuda	depr:pl:nom.acc.voc:m2	nazwisko	
+Labudy	Labuda	subst:sg:gen:m1	nazwisko	
 Labudzie	Labuda	subst:sg:dat.loc:m1	nazwisko	
 Lachach	Lach	subst:pl:loc:m1	nazwa pospolita	daw.
 Lacha	Lach	subst:sg:gen.acc:m1	nazwa pospolita	daw.
@@ -157,6 +158,7 @@ Lampedusom	Lampedusa	subst:pl:dat:m1	nazwisko
 Lampedusowie	Lampedusa	subst:pl:nom.voc:m1	nazwisko	
 Lampedusów	Lampedusa	subst:pl:gen.acc:m1	nazwisko	
 Lampedusy	Lampedusa	depr:pl:nom.acc.voc:m2	nazwisko	
+Lampedusy	Lampedusa	subst:sg:gen:m1	nazwisko	
 LAN-ach	LAN	subst:pl:loc:m3	nazwa pospolita	komp.
 LAN-ami	LAN	subst:pl:inst:m3	nazwa pospolita	komp.
 LAN-em	LAN	subst:sg:inst:m3	nazwa pospolita	komp.
@@ -451,6 +453,7 @@ Lasotom	Lasota:s2	subst:pl:dat:m1	imię|nazwisko
 Lasotowie	Lasota:s2	subst:pl:nom.voc:m1	imię|nazwisko	
 Lasotów	Lasota:s2	subst:pl:gen.acc:m1	imię|nazwisko	
 Lasoty	Lasota:s2	depr:pl:nom.acc.voc:m2	imię|nazwisko	
+Lasoty	Lasota:s2	subst:sg:gen:m1	imię|nazwisko	
 Laszczce	Laszczka	subst:sg:dat.loc:m1	nazwisko	
 Laszczkach	Laszczka	subst:pl:loc:m1	nazwisko	
 Laszczka	Laszczka	subst:sg:nom:m1	nazwisko	
@@ -458,6 +461,7 @@ Laszczkami	Laszczka	subst:pl:inst:m1	nazwisko
 Laszczką	Laszczka	subst:sg:inst:m1	nazwisko	
 Laszczkę	Laszczka	subst:sg:acc:m1	nazwisko	
 Laszczki	Laszczka	depr:pl:nom.acc.voc:m2	nazwisko	
+Laszczki	Laszczka	subst:sg:gen:m1	nazwisko	
 Laszczko	Laszczka	subst:sg:voc:m1	nazwisko	
 Laszczkom	Laszczka	subst:pl:dat:m1	nazwisko	
 Laszczkowie	Laszczka	subst:pl:nom.voc:m1	nazwisko	
@@ -506,6 +510,7 @@ Latom	Lato	subst:pl:dat:m1	nazwisko
 Latowie	Lato	subst:pl:nom.voc:m1	nazwisko	
 Latów	Lato	subst:pl:gen.acc:m1	nazwisko	
 Laty	Lato	depr:pl:nom.acc.voc:m2	nazwisko	
+Laty	Lato	subst:sg:gen:m1	nazwisko	
 Latynosach	Latynos	subst:pl:loc:m1	nazwa pospolita	
 Latynosa	Latynos	subst:sg:gen.acc:m1	nazwa pospolita	
 Latynosami	Latynos	subst:pl:inst:m1	nazwa pospolita	
@@ -649,6 +654,7 @@ Laxom	Laxa	subst:pl:dat:m1	nazwisko
 Laxowie	Laxa	subst:pl:nom.voc:m1	nazwisko	
 Laxów	Laxa	subst:pl:gen.acc:m1	nazwisko	
 Laxy	Laxa	depr:pl:nom.acc.voc:m2	nazwisko	
+Laxy	Laxa	subst:sg:gen:m1	nazwisko	
 Lądek	Lądek	subst:sg:nom.acc:m3	nazwa geograficzna	
 Lądkach	Lądek	subst:pl:loc:m3	nazwa geograficzna	
 Lądka	Lądek	subst:sg:gen:m3	nazwa geograficzna	
@@ -784,6 +790,7 @@ Lechito	Lechita	subst:sg:voc:m1	nazwa pospolita
 Lechitom	Lechita	subst:pl:dat:m1	nazwa pospolita	
 Lechitów	Lechita	subst:pl:gen.acc:m1	nazwa pospolita	
 Lechity	Lechita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Lechity	Lechita	subst:sg:gen:m1	nazwa pospolita	
 Lechitce	Lechitka	subst:sg:dat.loc:f	nazwa pospolita	daw.
 Lechitek	Lechitka	subst:pl:gen:f	nazwa pospolita	daw.
 Lechitkach	Lechitka	subst:pl:loc:f	nazwa pospolita	daw.
@@ -1115,6 +1122,7 @@ Lenicom	Lenica	subst:pl:dat:m1	nazwisko
 Lenicowie	Lenica	subst:pl:nom.voc:m1	nazwisko	
 Leniców	Lenica	subst:pl:gen.acc:m1	nazwisko	
 Lenicy	Lenica	subst:sg:dat.loc:m1	nazwisko	
+Lenicy	Lenica	subst:sg:gen:m1	nazwisko	
 Leniek	Leniek	subst:sg:nom:m1	nazwisko	
 Leńkach	Leniek	subst:pl:loc:m1	nazwisko	
 Leńka	Leniek	subst:sg:gen.acc:m1	nazwisko	
@@ -1957,6 +1965,7 @@ Liberom	Libera	subst:pl:dat:m1	nazwisko
 Liberowie	Libera	subst:pl:nom.voc:m1	nazwisko	
 Liberów	Libera	subst:pl:gen.acc:m1	nazwisko	
 Libery	Libera	depr:pl:nom.acc.voc:m2	nazwisko	
+Libery	Libera	subst:sg:gen:m1	nazwisko	
 Liberze	Libera	subst:sg:dat.loc:m1	nazwisko	
 Liberacie	Liberat	subst:sg:loc:m1	imię	
 Liberacie	Liberat	subst:sg:voc:m1	imię	
@@ -2204,6 +2213,7 @@ Ligęzom	Ligęza	subst:pl:dat:m1	nazwisko
 Ligęzowie	Ligęza	subst:pl:nom.voc:m1	nazwisko	
 Ligęzów	Ligęza	subst:pl:gen.acc:m1	nazwisko	
 Ligęzy	Ligęza	depr:pl:nom.acc.voc:m2	nazwisko	
+Ligęzy	Ligęza	subst:sg:gen:m1	nazwisko	
 Ligiach	Ligia	subst:pl:loc:f	imię	
 Ligia	Ligia	subst:sg:nom:f	imię	
 Ligiami	Ligia	subst:pl:inst:f	imię	
@@ -2391,6 +2401,7 @@ Lindom	Linda	subst:pl:dat:m1	nazwisko
 Lindowie	Linda	subst:pl:nom.voc:m1	nazwisko	
 Lindów	Linda	subst:pl:gen.acc:m1	nazwisko	
 Lindy	Linda	depr:pl:nom.acc.voc:m2	nazwisko	
+Lindy	Linda	subst:sg:gen:m1	nazwisko	
 Lindzie	Linda	subst:sg:dat.loc:m1	nazwisko	
 Lindach	Linde	subst:pl:loc:m1	nazwisko	
 Lindami	Linde	subst:pl:inst:m1	nazwisko	
@@ -2872,6 +2883,7 @@ Llosom	Llosa	subst:pl:dat:m1	nazwisko
 Llosowie	Llosa	subst:pl:nom.voc:m1	nazwisko	
 Llosów	Llosa	subst:pl:gen.acc:m1	nazwisko	
 Llosy	Llosa	depr:pl:nom.acc.voc:m2	nazwisko	
+Llosy	Llosa	subst:sg:gen:m1	nazwisko	
 Lloydach	Lloyd	subst:pl:loc:m1	nazwisko	
 Lloyda	Lloyd	subst:sg:gen.acc:m1	nazwisko	
 Lloydami	Lloyd	subst:pl:inst:m1	nazwisko	
@@ -3218,6 +3230,7 @@ Lorcom	Lorca	subst:pl:dat:m1	nazwisko
 Lorcowie	Lorca	subst:pl:nom.voc:m1	nazwisko	
 Lorców	Lorca	subst:pl:gen.acc:m1	nazwisko	
 Lorki	Lorca	depr:pl:nom.acc.voc:m2	nazwisko	
+Lorki	Lorca	subst:sg:gen:m1	nazwisko	
 Loren	Loren:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	pseudonim	
 Lorenach	Loren:s2	subst:pl:loc:m1	nazwisko	
 Lorena	Loren:s2	subst:sg:gen.acc:m1	nazwisko	
@@ -3528,6 +3541,7 @@ Luberom	Lubera	subst:pl:dat:m1	nazwisko
 Luberowie	Lubera	subst:pl:nom.voc:m1	nazwisko	
 Luberów	Lubera	subst:pl:gen.acc:m1	nazwisko	
 Lubery	Lubera	depr:pl:nom.acc.voc:m2	nazwisko	
+Lubery	Lubera	subst:sg:gen:m1	nazwisko	
 Luberze	Lubera	subst:sg:dat.loc:m1	nazwisko	
 Lubiążach	Lubiąż	subst:pl:loc:m3	nazwa geograficzna	
 Lubiąża	Lubiąż	subst:sg:gen:m3	nazwa geograficzna	
@@ -3782,6 +3796,7 @@ Luboszom	Lubosza	subst:pl:dat:m1	imię
 Luboszowie	Lubosza	subst:pl:nom.voc:m1	imię	
 Luboszów	Lubosza	subst:pl:gen.acc:m1	imię	
 Luboszy	Lubosza	subst:sg:dat.loc:m1	imię	
+Luboszy	Lubosza	subst:sg:gen:m1	imię	
 Lubotyniach	Lubotyń	subst:pl:loc:m3	nazwa geograficzna	
 Lubotynia	Lubotyń	subst:sg:gen:m3	nazwa geograficzna	
 Lubotyniami	Lubotyń	subst:pl:inst:m3	nazwa geograficzna	

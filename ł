@@ -270,6 +270,7 @@
 łabudowie	łabuda	subst:pl:nom.voc:m1	nazwa pospolita	
 łabudów	łabuda	subst:pl:gen.acc:m1	nazwa pospolita	
 łabudy	łabuda	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+łabudy	łabuda	subst:sg:gen:m1	nazwa pospolita	
 łabudzie	łabuda	subst:sg:dat.loc:m1	nazwa pospolita	
 łabudacie	łabudać	fin:pl:sec:imperf		
 łabudać	łabudać	inf:imperf		
@@ -513,6 +514,7 @@
 łachadojdowie	łachadojda	subst:pl:nom.voc:m1	nazwa pospolita	
 łachadojdów	łachadojda	subst:pl:gen.acc:m1	nazwa pospolita	
 łachadojdy	łachadojda	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+łachadojdy	łachadojda	subst:sg:gen:m1	nazwa pospolita	
 łachadojdzie	łachadojda	subst:sg:dat.loc:m1	nazwa pospolita	
 łachciach	łacheć	subst:pl:loc:m3	nazwa pospolita	
 łachcia	łacheć	subst:sg:gen:m3	nazwa pospolita	
@@ -799,6 +801,7 @@
 łachmytom	łachmyta:s2	subst:pl:dat:m1	nazwa pospolita	
 łachmytów	łachmyta:s2	subst:pl:gen.acc:m1	nazwa pospolita	
 łachmyty	łachmyta:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+łachmyty	łachmyta:s2	subst:sg:gen:m1	nazwa pospolita	
 łachocąca	łachotać	pact:sg:nom.voc:f:imperf:aff		
 łachocącą	łachotać	pact:sg:acc.inst:f:imperf:aff		
 łachocącego	łachotać	pact:sg:acc:m1.m2:imperf:aff		
@@ -984,6 +987,7 @@
 łachudrom	łachudra:s2	subst:pl:dat:m1	nazwa pospolita	pogard.|pot.
 łachudrów	łachudra:s2	subst:pl:gen.acc:m1	nazwa pospolita	pogard.|pot.
 łachudry	łachudra:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	pogard.|pot.
+łachudry	łachudra:s2	subst:sg:gen:m1	nazwa pospolita	pogard.|pot.
 łachudrze	łachudra:s2	subst:sg:dat.loc:m1	nazwa pospolita	pogard.|pot.
 łachudrzy	łachudra:s2	subst:pl:nom.voc:m1	nazwa pospolita	pogard.|pot.
 łachudrowato	łachudrowato	adv:pos		
@@ -3371,6 +3375,7 @@
 łajdaczynom	łajdaczyna	subst:pl:dat:m1	nazwa pospolita	pot.
 łajdaczynów	łajdaczyna	subst:pl:gen.acc:m1	nazwa pospolita	pot.
 łajdaczyny	łajdaczyna	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+łajdaczyny	łajdaczyna	subst:sg:gen:m1	nazwa pospolita	pot.
 łajdacy	łajdak	subst:pl:nom.voc:m1	nazwa pospolita	pot.
 łajdakach	łajdak	subst:pl:loc:m1	nazwa pospolita	pot.
 łajdaka	łajdak	subst:sg:gen.acc:m1	nazwa pospolita	pot.
@@ -3538,6 +3543,7 @@
 łajzowie	łajza:s2	subst:pl:nom.voc:m1	nazwa pospolita	
 łajzów	łajza:s2	subst:pl:gen.acc:m1	nazwa pospolita	
 łajzy	łajza:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+łajzy	łajza:s2	subst:sg:gen:m1	nazwa pospolita	
 łaknąca	łaknąć	pact:sg:nom.voc:f:imperf:aff		
 łaknącą	łaknąć	pact:sg:acc.inst:f:imperf:aff		
 łaknącego	łaknąć	pact:sg:acc:m1.m2:imperf:aff		
@@ -3699,6 +3705,7 @@
 łakomców	łakomca	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 łakomcy	łakomca	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 łakomcy	łakomca	subst:sg:dat.loc:m1	nazwa pospolita	daw.
+łakomcy	łakomca	subst:sg:gen:m1	nazwa pospolita	daw.
 łakomczuchach	łakomczuch	subst:pl:loc:m1	nazwa pospolita	
 łakomczuchach	łakomczuch	subst:pl:loc:m2	nazwa pospolita	
 łakomczucha	łakomczuch	subst:sg:gen.acc:m1	nazwa pospolita	
@@ -4235,6 +4242,7 @@
 łamagą	łamaga:s2	subst:sg:inst:m1	nazwa pospolita	pot.|lekcew.
 łamagę	łamaga:s2	subst:sg:acc:m1	nazwa pospolita	pot.|lekcew.
 łamagi	łamaga:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.|lekcew.
+łamagi	łamaga:s2	subst:sg:gen:m1	nazwa pospolita	pot.|lekcew.
 łamago	łamaga:s2	subst:sg:voc:m1	nazwa pospolita	pot.|lekcew.
 łamagom	łamaga:s2	subst:pl:dat:m1	nazwa pospolita	pot.|lekcew.
 łamagów	łamaga:s2	subst:pl:gen.acc:m1	nazwa pospolita	pot.|lekcew.
@@ -5496,6 +5504,7 @@
 łapikurowie	łapikura	subst:pl:nom.voc:m1	nazwa pospolita	
 łapikurów	łapikura	subst:pl:gen.acc:m1	nazwa pospolita	
 łapikury	łapikura	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+łapikury	łapikura	subst:sg:gen:m1	nazwa pospolita	
 łapikurze	łapikura	subst:sg:dat.loc:m1	nazwa pospolita	
 łapinach	łapina	subst:pl:loc:f	nazwa pospolita	
 łapina	łapina	subst:sg:nom:f	nazwa pospolita	
@@ -6285,6 +6294,7 @@
 łaskawców	łaskawca	subst:pl:gen.acc:m1	nazwa pospolita	przest.|żart.
 łaskawcy	łaskawca	subst:pl:nom.voc:m1	nazwa pospolita	przest.|żart.
 łaskawcy	łaskawca	subst:sg:dat.loc:m1	nazwa pospolita	przest.|żart.
+łaskawcy	łaskawca	subst:sg:gen:m1	nazwa pospolita	przest.|żart.
 łaskawczyniach	łaskawczyni	subst:pl:loc:f	nazwa pospolita	
 łaskawczyniami	łaskawczyni	subst:pl:inst:f	nazwa pospolita	
 łaskawczynią	łaskawczyni	subst:sg:inst:f	nazwa pospolita	
@@ -6405,6 +6415,7 @@
 łaskodawców	łaskodawca	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 łaskodawcy	łaskodawca	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 łaskodawcy	łaskodawca	subst:sg:dat.loc:m1	nazwa pospolita	daw.
+łaskodawcy	łaskodawca	subst:sg:gen:m1	nazwa pospolita	daw.
 łaskodawczościach	łaskodawczość	subst:pl:loc:f	nazwa pospolita	daw.
 łaskodawczościami	łaskodawczość	subst:pl:inst:f	nazwa pospolita	daw.
 łaskodawczością	łaskodawczość	subst:sg:inst:f	nazwa pospolita	daw.
@@ -8346,6 +8357,7 @@
 łazęgą	łazęga:s2	subst:sg:inst:m1	nazwa pospolita	
 łazęgę	łazęga:s2	subst:sg:acc:m1	nazwa pospolita	
 łazęgi	łazęga:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+łazęgi	łazęga:s2	subst:sg:gen:m1	nazwa pospolita	
 łazęgo	łazęga:s2	subst:sg:voc:m1	nazwa pospolita	
 łazęgom	łazęga:s2	subst:pl:dat:m1	nazwa pospolita	
 łazęgów	łazęga:s2	subst:pl:gen.acc:m1	nazwa pospolita	
@@ -11962,6 +11974,7 @@
 łobuzinom	łobuzina	subst:pl:dat:m1	nazwa pospolita	pot.
 łobuzinów	łobuzina	subst:pl:gen.acc:m1	nazwa pospolita	pot.
 łobuziny	łobuzina	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+łobuziny	łobuzina	subst:sg:gen:m1	nazwa pospolita	pot.
 łobuziościach	łobuziość	subst:pl:loc:f	nazwa pospolita	
 łobuziościami	łobuziość	subst:pl:inst:f	nazwa pospolita	
 łobuziością	łobuziość	subst:sg:inst:f	nazwa pospolita	
@@ -15791,6 +15804,7 @@
 łowców	łowca	subst:pl:gen.acc:m1	nazwa pospolita	
 łowcy	łowca	subst:pl:nom.voc:m1	nazwa pospolita	
 łowcy	łowca	subst:sg:dat.loc:m1	nazwa pospolita	
+łowcy	łowca	subst:sg:gen:m1	nazwa pospolita	
 łowczance	łowczanka	subst:sg:dat.loc:f	nazwa pospolita	
 łowczanek	łowczanka	subst:pl:gen:f	nazwa pospolita	
 łowczankach	łowczanka	subst:pl:loc:f	nazwa pospolita	
@@ -18940,6 +18954,7 @@
 łupieżców	łupieżca	subst:pl:gen.acc:m1	nazwa pospolita	przest._dziś_książk.
 łupieżcy	łupieżca	subst:pl:nom.voc:m1	nazwa pospolita	przest._dziś_książk.
 łupieżcy	łupieżca	subst:sg:dat.loc:m1	nazwa pospolita	przest._dziś_książk.
+łupieżcy	łupieżca	subst:sg:gen:m1	nazwa pospolita	przest._dziś_książk.
 łupieżczościach	łupieżczość	subst:pl:loc:f	nazwa pospolita	
 łupieżczościami	łupieżczość	subst:pl:inst:f	nazwa pospolita	
 łupieżczością	łupieżczość	subst:sg:inst:f	nazwa pospolita	
@@ -19220,6 +19235,7 @@
 łupiskórowie	łupiskóra	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 łupiskórów	łupiskóra	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 łupiskóry	łupiskóra	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
+łupiskóry	łupiskóra	subst:sg:gen:m1	nazwa pospolita	daw.
 łupiskórze	łupiskóra	subst:sg:dat.loc:m1	nazwa pospolita	daw.
 łupce	łupka	subst:sg:dat.loc:f	nazwa pospolita	
 łupek	łupka	subst:pl:gen:f	nazwa pospolita	

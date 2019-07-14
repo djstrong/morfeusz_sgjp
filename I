@@ -389,6 +389,7 @@ Ilią	Ilia:s1	subst:sg:inst:m1	imię
 Ilie	Ilia:s1	depr:pl:nom.acc.voc:m2	imię	
 Ilię	Ilia:s1	subst:sg:acc:m1	imię	
 Ilii	Ilia:s1	subst:sg:dat.loc:m1	imię	
+Ilii	Ilia:s1	subst:sg:gen:m1	imię	
 Ilio	Ilia:s1	subst:sg:voc:m1	imię	
 Iliom	Ilia:s1	subst:pl:dat:m1	imię	
 Iliowie	Ilia:s1	subst:pl:nom.voc:m1	imię	
@@ -449,6 +450,7 @@ Ilje	Ilja	depr:pl:nom.acc.voc:m2	imię
 Ilje	Ilja	subst:pl:nom.voc:m1	imię	
 Ilję	Ilja	subst:sg:acc:m1	imię	
 Ilji	Ilja	subst:sg:dat.loc:m1	imię	
+Ilji	Ilja	subst:sg:gen:m1	imię	
 Iljo	Ilja	subst:sg:voc:m1	imię	
 Iljom	Ilja	subst:pl:dat:m1	imię	
 Iljów	Ilja	subst:pl:gen.acc:m1	imię	
@@ -742,6 +744,7 @@ Indrom	Indra	subst:pl:dat:m1	imię	rel.
 Indrowie	Indra	subst:pl:nom.voc:m1	imię	rel.
 Indrów	Indra	subst:pl:gen.acc:m1	imię	rel.
 Indry	Indra	depr:pl:nom.acc.voc:m2	imię	rel.
+Indry	Indra	subst:sg:gen:m1	imię	rel.
 Indrze	Indra	subst:sg:dat.loc:m1	imię	rel.
 Indusach	Indus:s1	subst:pl:loc:m1	nazwa pospolita	
 Indusa	Indus:s1	subst:sg:gen.acc:m1	nazwa pospolita	
@@ -854,6 +857,7 @@ Inkami	Inka	subst:pl:inst:m1	imię
 Inką	Inka	subst:sg:inst:m1	imię	
 Inkę	Inka	subst:sg:acc:m1	imię	
 Inki	Inka	depr:pl:nom.acc.voc:m2	imię	
+Inki	Inka	subst:sg:gen:m1	imię	
 Inko	Inka	subst:sg:voc:m1	imię	
 Inkom	Inka	subst:pl:dat:m1	imię	
 Inkowie	Inka	subst:pl:nom.voc:m1	imię	
@@ -1012,6 +1016,7 @@ Inuito	Inuita	subst:sg:voc:m1	nazwa pospolita
 Inuitom	Inuita	subst:pl:dat:m1	nazwa pospolita	
 Inuitów	Inuita	subst:pl:gen.acc:m1	nazwa pospolita	
 Inuity	Inuita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Inuity	Inuita	subst:sg:gen:m1	nazwa pospolita	
 Inuitce	Inuitka	subst:sg:dat.loc:f	nazwa pospolita	
 Inuitek	Inuitka	subst:pl:gen:f	nazwa pospolita	
 Inuitkach	Inuitka	subst:pl:loc:f	nazwa pospolita	
@@ -1500,6 +1505,7 @@ Iskariotom	Iskariota	subst:pl:dat:m1	przydomek	bibl.
 Iskariotowie	Iskariota	subst:pl:nom.voc:m1	przydomek	bibl.
 Iskariotów	Iskariota	subst:pl:gen.acc:m1	przydomek	bibl.
 Iskarioty	Iskariota	depr:pl:nom.acc.voc:m2	przydomek	bibl.
+Iskarioty	Iskariota	subst:sg:gen:m1	przydomek	bibl.
 Islamabadach	Islamabad	subst:pl:loc:m3	nazwa geograficzna	
 Islamabadami	Islamabad	subst:pl:inst:m3	nazwa geograficzna	
 Islamabadem	Islamabad	subst:sg:inst:m3	nazwa geograficzna	

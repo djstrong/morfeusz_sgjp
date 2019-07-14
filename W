@@ -212,6 +212,7 @@ Wajdo	Wajda	subst:sg:voc:m1	nazwisko
 Wajdowie	Wajda	subst:pl:nom.voc:m1	nazwisko	
 Wajdów	Wajda	subst:pl:gen.acc:m1	nazwisko	
 Wajdy	Wajda	depr:pl:nom.acc.voc:m2	nazwisko	
+Wajdy	Wajda	subst:sg:gen:m1	nazwisko	
 Wajdzie	Wajda	subst:sg:dat.loc:m1	nazwisko	
 Walach	Wala	subst:pl:loc:f	imię	
 Walami	Wala	subst:pl:inst:f	imię	
@@ -833,6 +834,7 @@ Wałęso	Wałęsa	subst:sg:voc:m1	nazwisko
 Wałęsowie	Wałęsa	subst:pl:nom.voc:m1	nazwisko	
 Wałęsów	Wałęsa	subst:pl:gen.acc:m1	nazwisko	
 Wałęsy	Wałęsa	depr:pl:nom.acc.voc:m2	nazwisko	
+Wałęsy	Wałęsa	subst:sg:gen:m1	nazwisko	
 WAN-ach	WAN	subst:pl:loc:m3	nazwa pospolita	
 WAN-ami	WAN	subst:pl:inst:m3	nazwa pospolita	
 WAN-em	WAN	subst:sg:inst:m3	nazwa pospolita	
@@ -1615,6 +1617,7 @@ Wazo	Waza	subst:sg:voc:m1	nazwisko
 Wazowie	Waza	subst:pl:nom.voc:m1	nazwisko	
 Wazów	Waza	subst:pl:gen.acc:m1	nazwisko	
 Wazy	Waza	depr:pl:nom.acc.voc:m2	nazwisko	
+Wazy	Waza	subst:sg:gen:m1	nazwisko	
 Ważykach	Ważyk	subst:pl:loc:m1	nazwisko	
 Ważykami	Ważyk	subst:pl:inst:m1	nazwisko	
 Ważyka	Ważyk	subst:sg:gen.acc:m1	nazwisko	
@@ -1738,6 +1741,7 @@ Wcisło	Wcisło	subst:sg:voc:m1	nazwisko
 Wcisłowie	Wcisło	subst:pl:nom.voc:m1	nazwisko	
 Wcisłów	Wcisło	subst:pl:gen.acc:m1	nazwisko	
 Wcisły	Wcisło	depr:pl:nom.acc.voc:m2	nazwisko	
+Wcisły	Wcisło	subst:sg:gen:m1	nazwisko	
 Wciśle	Wcisło	subst:sg:dat.loc:m1	nazwisko	
 Wdach	Wda	subst:pl:loc:f	nazwa geograficzna	
 Wdami	Wda	subst:pl:inst:f	nazwa geograficzna	
@@ -2234,6 +2238,7 @@ Wernyhoro	Wernyhora	subst:sg:voc:m1	nazwisko
 Wernyhorowie	Wernyhora	subst:pl:nom.voc:m1	nazwisko	
 Wernyhorów	Wernyhora	subst:pl:gen.acc:m1	nazwisko	
 Wernyhory	Wernyhora	depr:pl:nom.acc.voc:m2	nazwisko	
+Wernyhory	Wernyhora	subst:sg:gen:m1	nazwisko	
 Wernyhorze	Wernyhora	subst:sg:dat.loc:m1	nazwisko	
 Weronach	Werona	subst:pl:loc:f	nazwa geograficzna	
 Weronami	Werona	subst:pl:inst:f	nazwa geograficzna	
@@ -3014,6 +3019,7 @@ Wieniawo	Wieniawa	subst:sg:voc:m1	nazwisko
 Wieniawowie	Wieniawa	subst:pl:nom.voc:m1	nazwisko	
 Wieniawów	Wieniawa	subst:pl:gen.acc:m1	nazwisko	
 Wieniawy	Wieniawa	depr:pl:nom.acc.voc:m2	nazwisko	
+Wieniawy	Wieniawa	subst:sg:gen:m1	nazwisko	
 Wieniawscy	Wieniawski	subst:pl:nom.voc:m1	nazwisko	
 Wieniawskich	Wieniawski	subst:pl:gen.acc:m1	nazwisko	
 Wieniawskich	Wieniawski	subst:pl:loc:m1	nazwisko	
@@ -3627,6 +3633,7 @@ Wigurowie	Wigura	subst:pl:nom.voc:m1	nazwisko
 Wiguro	Wigura	subst:sg:voc:m1	nazwisko	
 Wigurów	Wigura	subst:pl:gen.acc:m1	nazwisko	
 Wigury	Wigura	depr:pl:nom.acc.voc:m2	nazwisko	
+Wigury	Wigura	subst:sg:gen:m1	nazwisko	
 Wigurze	Wigura	subst:sg:dat.loc:m1	nazwisko	
 Wice	Wika	subst:sg:dat.loc:f	imię	
 Wikach	Wika	subst:pl:loc:f	imię	
@@ -4480,6 +4487,7 @@ Wirpszowie	Wirpsza	subst:pl:nom.voc:m1	nazwisko
 Wirpszo	Wirpsza	subst:sg:voc:m1	nazwisko	
 Wirpszów	Wirpsza	subst:pl:gen.acc:m1	nazwisko	
 Wirpszy	Wirpsza	subst:sg:dat.loc:m1	nazwisko	
+Wirpszy	Wirpsza	subst:sg:gen:m1	nazwisko	
 Wirtembergiach	Wirtembergia	subst:pl:loc:f	nazwa geograficzna	
 Wirtembergiami	Wirtembergia	subst:pl:inst:f	nazwa geograficzna	
 Wirtembergia	Wirtembergia	subst:sg:nom:f	nazwa geograficzna	
@@ -5106,6 +5114,7 @@ Wlazło	Wlazło	subst:sg:nom:m1	nazwisko
 Wlazło	Wlazło	subst:sg:voc:m1	nazwisko	
 Wlazłów	Wlazło	subst:pl:gen.acc:m1	nazwisko	
 Wlazły	Wlazło	depr:pl:nom.acc.voc:m2	nazwisko	
+Wlazły	Wlazło	subst:sg:gen:m1	nazwisko	
 Wlaźle	Wlazło	subst:sg:dat.loc:m1	nazwisko	
 Wlazłego	Wlazły	subst:sg:gen.acc:m1	nazwisko	
 Wlazłemu	Wlazły	subst:sg:dat:m1	nazwisko	
@@ -5579,6 +5588,7 @@ Włoszyskami	Włoszysko	subst:pl:inst:n:ncol	nazwa pospolita
 Włoszyska	Włoszysko	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
 Włoszyska	Włoszysko	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
 Włoszyska	Włoszysko	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
+Włoszyska	Włoszysko	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
 Włoszyska	Włoszysko	subst:sg:gen:n:ncol	nazwa pospolita	
 Włoszyskiem	Włoszysko	subst:sg:inst:m1	nazwa pospolita	rzad.
 Włoszyskiem	Włoszysko	subst:sg:inst:n:ncol	nazwa pospolita	
@@ -5888,6 +5898,7 @@ Wojdowie	Wojda:s2	subst:pl:nom.voc:m1	nazwisko
 Wojdo	Wojda:s2	subst:sg:voc:m1	nazwisko	
 Wojdów	Wojda:s2	subst:pl:gen.acc:m1	nazwisko	
 Wojdy	Wojda:s2	depr:pl:nom.acc.voc:m2	nazwisko	
+Wojdy	Wojda:s2	subst:sg:gen:m1	nazwisko	
 Wojdzie	Wojda:s2	subst:sg:dat.loc:m1	nazwisko	
 Wojmirach	Wojmir	subst:pl:loc:m1	imię	
 Wojmirami	Wojmir	subst:pl:inst:m1	imię	
@@ -6151,6 +6162,7 @@ Wojtyłowie	Wojtyła	subst:pl:nom.voc:m1	nazwisko
 Wojtyło	Wojtyła	subst:sg:voc:m1	nazwisko	
 Wojtyłów	Wojtyła	subst:pl:gen.acc:m1	nazwisko	
 Wojtyły	Wojtyła	depr:pl:nom.acc.voc:m2	nazwisko	
+Wojtyły	Wojtyła	subst:sg:gen:m1	nazwisko	
 Wokulska	Wokulska	subst:sg:nom:f	nazwisko	
 Wokulska	Wokulska	subst:sg:voc:f	nazwisko	
 Wokulską	Wokulska	subst:sg:acc:f	nazwisko	
@@ -6429,6 +6441,7 @@ Wołłejkami	Wołłejko	subst:pl:inst:m1	nazwisko
 Wołłejką	Wołłejko	subst:sg:inst:m1	nazwisko	
 Wołłejkę	Wołłejko	subst:sg:acc:m1	nazwisko	
 Wołłejki	Wołłejko	depr:pl:nom.acc.voc:m2	nazwisko	
+Wołłejki	Wołłejko	subst:sg:gen:m1	nazwisko	
 Wołłejkom	Wołłejko	subst:pl:dat:m1	nazwisko	
 Wołłejkowie	Wołłejko	subst:pl:nom.voc:m1	nazwisko	
 Wołłejko	Wołłejko	subst:sg:nom:m1	nazwisko	
@@ -7066,6 +7079,7 @@ Wronowie	Wrona	subst:pl:nom.voc:m1	nazwisko
 Wrono	Wrona	subst:sg:voc:m1	nazwisko	
 Wronów	Wrona	subst:pl:gen.acc:m1	nazwisko	
 Wrony	Wrona	depr:pl:nom.acc.voc:m2	nazwisko	
+Wrony	Wrona	subst:sg:gen:m1	nazwisko	
 Wronek	Wronki	subst:pl:gen:n:pt	nazwa geograficzna	
 Wronek	Wronki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Wronkach	Wronki	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -7415,6 +7429,7 @@ Wszołowie	Wszoła	subst:pl:nom.voc:m1	nazwisko
 Wszoło	Wszoła	subst:sg:voc:m1	nazwisko	
 Wszołów	Wszoła	subst:pl:gen.acc:m1	nazwisko	
 Wszoły	Wszoła	depr:pl:nom.acc.voc:m2	nazwisko	
+Wszoły	Wszoła	subst:sg:gen:m1	nazwisko	
 WTC	WTC	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa własna budowli	
 WTO	WTO	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa organizacji	
 WTO	WTO	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji	

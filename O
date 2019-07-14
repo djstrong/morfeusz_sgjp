@@ -46,6 +46,7 @@ Obaro	Obara	subst:sg:voc:m1	nazwisko
 Obarowie	Obara	subst:pl:nom.voc:m1	nazwisko	
 Obarów	Obara	subst:pl:gen.acc:m1	nazwisko	
 Obary	Obara	depr:pl:nom.acc.voc:m2	nazwisko	
+Obary	Obara	subst:sg:gen:m1	nazwisko	
 Obarze	Obara	subst:sg:dat.loc:m1	nazwisko	
 Obiale	Obiała	subst:sg:dat.loc:m1	nazwisko	
 Obiałach	Obiała	subst:pl:loc:m1	nazwisko	
@@ -58,6 +59,7 @@ Obiało	Obiała	subst:sg:voc:m1	nazwisko
 Obiałowie	Obiała	subst:pl:nom.voc:m1	nazwisko	
 Obiałów	Obiała	subst:pl:gen.acc:m1	nazwisko	
 Obiały	Obiała	depr:pl:nom.acc.voc:m2	nazwisko	
+Obiały	Obiała	subst:sg:gen:m1	nazwisko	
 Obj	Objawienie_świętego_Jana	brev:pun		
 Oblęgorek	Oblęgorek	subst:sg:nom.acc:m3	nazwa geograficzna	
 Oblęgorkach	Oblęgorek	subst:pl:loc:m3	nazwa geograficzna	
@@ -285,6 +287,7 @@ Ociepka	Ociepka	subst:sg:nom:m1	nazwisko
 Ociepką	Ociepka	subst:sg:inst:m1	nazwisko	
 Ociepkę	Ociepka	subst:sg:acc:m1	nazwisko	
 Ociepki	Ociepka	depr:pl:nom.acc.voc:m2	nazwisko	
+Ociepki	Ociepka	subst:sg:gen:m1	nazwisko	
 Ociepkom	Ociepka	subst:pl:dat:m1	nazwisko	
 Ociepko	Ociepka	subst:sg:voc:m1	nazwisko	
 Ociepkowie	Ociepka	subst:pl:nom.voc:m1	nazwisko	
@@ -787,6 +790,7 @@ Okońskim	Okoński	subst:sg:loc:m1	nazwisko
 Okoński	Okoński	subst:sg:nom:m1	nazwisko	
 Okoński	Okoński	subst:sg:voc:m1	nazwisko	
 Okrzei	Okrzeja	subst:sg:dat.loc:m1	nazwisko	
+Okrzei	Okrzeja	subst:sg:gen:m1	nazwisko	
 Okrzejach	Okrzeja	subst:pl:loc:m1	nazwisko	
 Okrzejami	Okrzeja	subst:pl:inst:m1	nazwisko	
 Okrzeja	Okrzeja	subst:sg:nom:m1	nazwisko	
@@ -890,6 +894,7 @@ Okudżawo	Okudżawa	subst:sg:voc:m1	nazwisko
 Okudżawowie	Okudżawa	subst:pl:nom.voc:m1	nazwisko	
 Okudżawów	Okudżawa	subst:pl:gen.acc:m1	nazwisko	
 Okudżawy	Okudżawa	depr:pl:nom.acc.voc:m2	nazwisko	
+Okudżawy	Okudżawa	subst:sg:gen:m1	nazwisko	
 Okuliccy	Okulicki	subst:pl:nom.voc:m1	nazwisko	
 Okulickich	Okulicki	subst:pl:gen.acc:m1	nazwisko	
 Okulickich	Okulicki	subst:pl:loc:m1	nazwisko	
@@ -1148,6 +1153,7 @@ Oleszo	Olesza	subst:sg:voc:m1	nazwisko
 Oleszowie	Olesza	subst:pl:nom.voc:m1	nazwisko	
 Oleszów	Olesza	subst:pl:gen.acc:m1	nazwisko	
 Oleszy	Olesza	subst:sg:dat.loc:m1	nazwisko	
+Oleszy	Olesza	subst:sg:gen:m1	nazwisko	
 Oleszycach	Oleszyce	subst:pl:loc:n:pt	nazwa geograficzna	
 Oleszycach	Oleszyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Oleszycami	Oleszyce	subst:pl:inst:n:pt	nazwa geograficzna	
@@ -2717,6 +2723,7 @@ Osóbka	Osóbka	subst:sg:nom:m1	nazwisko
 Osóbką	Osóbka	subst:sg:inst:m1	nazwisko	
 Osóbkę	Osóbka	subst:sg:acc:m1	nazwisko	
 Osóbki	Osóbka	depr:pl:nom.acc.voc:m2	nazwisko	
+Osóbki	Osóbka	subst:sg:gen:m1	nazwisko	
 Osóbkom	Osóbka	subst:pl:dat:m1	nazwisko	
 Osóbko	Osóbka	subst:sg:voc:m1	nazwisko	
 Osóbkowie	Osóbka	subst:pl:nom.voc:m1	nazwisko	
@@ -2847,6 +2854,7 @@ Osterwo	Osterwa	subst:sg:voc:m1	nazwisko
 Osterwowie	Osterwa	subst:pl:nom.voc:m1	nazwisko	
 Osterwów	Osterwa	subst:pl:gen.acc:m1	nazwisko	
 Osterwy	Osterwa	depr:pl:nom.acc.voc:m2	nazwisko	
+Osterwy	Osterwa	subst:sg:gen:m1	nazwisko	
 Osterwinach	Osterwina	subst:pl:loc:f	nazwisko	
 Osterwinami	Osterwina	subst:pl:inst:f	nazwisko	
 Osterwina	Osterwina	subst:sg:nom:f	nazwisko	
@@ -3061,6 +3069,7 @@ Oślizło	Oślizło	subst:sg:voc:m1	nazwisko
 Oślizłowie	Oślizło	subst:pl:nom.voc:m1	nazwisko	
 Oślizłów	Oślizło	subst:pl:gen.acc:m1	nazwisko	
 Oślizły	Oślizło	depr:pl:nom.acc.voc:m2	nazwisko	
+Oślizły	Oślizło	subst:sg:gen:m1	nazwisko	
 Ośliźle	Oślizło	subst:sg:dat.loc:m1	nazwisko	
 Oświeceniach	Oświecenie	subst:pl:loc:n:ncol	nazwa pospolita	
 Oświeceniami	Oświecenie	subst:pl:inst:n:ncol	nazwa pospolita	

@@ -42,6 +42,7 @@ yakuzowie	yakuza:s2	subst:pl:nom.voc:m1	nazwa pospolita
 yakuzo	yakuza:s2	subst:sg:voc:m1	nazwa pospolita	
 yakuzów	yakuza:s2	subst:pl:gen.acc:m1	nazwa pospolita	
 yakuzy	yakuza:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+yakuzy	yakuza:s2	subst:sg:gen:m1	nazwa pospolita	
 yale	yale	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
 yamahach	yamaha	subst:pl:loc:f	nazwa pospolita	
 yamahami	yamaha	subst:pl:inst:f	nazwa pospolita	

@@ -81,6 +81,7 @@ iberysto	iberysta	subst:sg:voc:m1	nazwa pospolita
 iberystom	iberysta	subst:pl:dat:m1	nazwa pospolita	
 iberystów	iberysta	subst:pl:gen.acc:m1	nazwa pospolita	
 iberysty	iberysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+iberysty	iberysta	subst:sg:gen:m1	nazwa pospolita	
 iberyście	iberysta	subst:sg:dat.loc:m1	nazwa pospolita	
 iberyści	iberysta	subst:pl:nom.voc:m1	nazwa pospolita	
 iberystce	iberystka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -707,6 +708,7 @@ idealisto	idealista	subst:sg:voc:m1	nazwa pospolita
 idealistom	idealista	subst:pl:dat:m1	nazwa pospolita	
 idealistów	idealista	subst:pl:gen.acc:m1	nazwa pospolita	
 idealisty	idealista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+idealisty	idealista	subst:sg:gen:m1	nazwa pospolita	
 idealiście	idealista	subst:sg:dat.loc:m1	nazwa pospolita	
 idealiści	idealista	subst:pl:nom.voc:m1	nazwa pospolita	
 idealistce	idealistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -1324,6 +1326,7 @@ identytarysto	identytarysta	subst:sg:voc:m1	nazwa pospolita
 identytarystom	identytarysta	subst:pl:dat:m1	nazwa pospolita	
 identytarystów	identytarysta	subst:pl:gen.acc:m1	nazwa pospolita	
 identytarysty	identytarysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+identytarysty	identytarysta	subst:sg:gen:m1	nazwa pospolita	
 identytaryście	identytarysta	subst:sg:dat.loc:m1	nazwa pospolita	
 identytaryści	identytarysta	subst:pl:nom.voc:m1	nazwa pospolita	
 identytarystycznie	identytarystycznie	adv:pos		
@@ -2317,6 +2320,7 @@ idioto	idiota	subst:sg:voc:m1	nazwa pospolita	pogard.|pot.
 idiotom	idiota	subst:pl:dat:m1	nazwa pospolita	pogard.|pot.
 idiotów	idiota	subst:pl:gen.acc:m1	nazwa pospolita	pogard.|pot.
 idioty	idiota	depr:pl:nom.acc.voc:m2	nazwa pospolita	pogard.|pot.
+idioty	idiota	subst:sg:gen:m1	nazwa pospolita	pogard.|pot.
 idioteczce	idioteczka	subst:sg:dat.loc:f	nazwa pospolita	
 idioteczek	idioteczka	subst:pl:gen:f	nazwa pospolita	
 idioteczkach	idioteczka	subst:pl:loc:f	nazwa pospolita	
@@ -2715,6 +2719,7 @@ idyllisto	idyllista	subst:sg:voc:m1	nazwa pospolita
 idyllistom	idyllista	subst:pl:dat:m1	nazwa pospolita	
 idyllistów	idyllista	subst:pl:gen.acc:m1	nazwa pospolita	
 idyllisty	idyllista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+idyllisty	idyllista	subst:sg:gen:m1	nazwa pospolita	
 idylliście	idyllista	subst:sg:dat.loc:m1	nazwa pospolita	
 idylliści	idyllista	subst:pl:nom.voc:m1	nazwa pospolita	
 idyllizmach	idyllizm	subst:pl:loc:m3	nazwa pospolita	
@@ -3969,6 +3974,7 @@ igrcom	igrca	subst:pl:dat:m1	nazwa pospolita	daw.
 igrców	igrca	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 igrcy	igrca	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 igrcy	igrca	subst:sg:dat.loc:m1	nazwa pospolita	daw.
+igrcy	igrca	subst:sg:gen:m1	nazwa pospolita	daw.
 igrcach	igrce	subst:pl:loc:n:pt	nazwa pospolita	daw.
 igrcami	igrce	subst:pl:inst:n:pt	nazwa pospolita	daw.
 igrce	igrce	subst:pl:nom.acc.voc:n:pt	nazwa pospolita	daw.
@@ -4328,6 +4334,7 @@ ikonoburcom	ikonoburca	subst:pl:dat:m1	nazwa pospolita
 ikonoburców	ikonoburca	subst:pl:gen.acc:m1	nazwa pospolita	
 ikonoburcy	ikonoburca	subst:pl:nom.voc:m1	nazwa pospolita	
 ikonoburcy	ikonoburca	subst:sg:dat.loc:m1	nazwa pospolita	
+ikonoburcy	ikonoburca	subst:sg:gen:m1	nazwa pospolita	
 ikonoduliach	ikonodulia	subst:pl:loc:f	nazwa pospolita	
 ikonodulia	ikonodulia	subst:sg:nom:f	nazwa pospolita	
 ikonoduliami	ikonodulia	subst:pl:inst:f	nazwa pospolita	
@@ -4396,6 +4403,7 @@ ikonoklasto	ikonoklasta	subst:sg:voc:m1	nazwa pospolita
 ikonoklastom	ikonoklasta	subst:pl:dat:m1	nazwa pospolita	
 ikonoklastów	ikonoklasta	subst:pl:gen.acc:m1	nazwa pospolita	
 ikonoklasty	ikonoklasta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+ikonoklasty	ikonoklasta	subst:sg:gen:m1	nazwa pospolita	
 ikonoklaście	ikonoklasta	subst:sg:dat.loc:m1	nazwa pospolita	
 ikonoklaści	ikonoklasta	subst:pl:nom.voc:m1	nazwa pospolita	
 ikonoklazmach	ikonoklazm	subst:pl:loc:m3	nazwa pospolita	
@@ -5581,6 +5589,7 @@ iloto	ilota	subst:sg:voc:m1	nazwa pospolita	daw.
 ilotom	ilota	subst:pl:dat:m1	nazwa pospolita	daw.
 ilotów	ilota	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 iloty	ilota	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
+iloty	ilota	subst:sg:gen:m1	nazwa pospolita	daw.
 ilotyzmach	ilotyzm	subst:pl:loc:m3	nazwa pospolita	daw.
 ilotyzmami	ilotyzm	subst:pl:inst:m3	nazwa pospolita	daw.
 ilotyzmem	ilotyzm	subst:sg:inst:m3	nazwa pospolita	daw.
@@ -6316,6 +6325,7 @@ iluzjonisto	iluzjonista	subst:sg:voc:m1	nazwa pospolita
 iluzjonistom	iluzjonista	subst:pl:dat:m1	nazwa pospolita	
 iluzjonistów	iluzjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 iluzjonisty	iluzjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+iluzjonisty	iluzjonista	subst:sg:gen:m1	nazwa pospolita	
 iluzjoniście	iluzjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 iluzjoniści	iluzjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 iluzjonistce	iluzjonistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -7149,6 +7159,7 @@ imaginisto	imaginista	subst:sg:voc:m1	nazwa pospolita
 imaginistom	imaginista	subst:pl:dat:m1	nazwa pospolita	
 imaginistów	imaginista	subst:pl:gen.acc:m1	nazwa pospolita	
 imaginisty	imaginista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+imaginisty	imaginista	subst:sg:gen:m1	nazwa pospolita	
 imaginiście	imaginista	subst:sg:dat.loc:m1	nazwa pospolita	
 imaginiści	imaginista	subst:pl:nom.voc:m1	nazwa pospolita	
 imaginistycznościach	imaginistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -7295,6 +7306,7 @@ imagisto	imagista	subst:sg:voc:m1	nazwa pospolita
 imagistom	imagista	subst:pl:dat:m1	nazwa pospolita	
 imagistów	imagista	subst:pl:gen.acc:m1	nazwa pospolita	
 imagisty	imagista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+imagisty	imagista	subst:sg:gen:m1	nazwa pospolita	
 imagiście	imagista	subst:sg:dat.loc:m1	nazwa pospolita	
 imagiści	imagista	subst:pl:nom.voc:m1	nazwa pospolita	
 imagizmach	imagizm	subst:pl:loc:m3	nazwa pospolita	
@@ -7441,6 +7453,7 @@ imamito	imamita	subst:sg:voc:m1	nazwa pospolita
 imamitom	imamita	subst:pl:dat:m1	nazwa pospolita	
 imamitów	imamita	subst:pl:gen.acc:m1	nazwa pospolita	
 imamity	imamita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+imamity	imamita	subst:sg:gen:m1	nazwa pospolita	
 imamizmach	imamizm	subst:pl:loc:m3	nazwa pospolita	
 imamizmami	imamizm	subst:pl:inst:m3	nazwa pospolita	
 imamizmem	imamizm	subst:sg:inst:m3	nazwa pospolita	
@@ -7472,6 +7485,7 @@ imażynisto	imażynista	subst:sg:voc:m1	nazwa pospolita
 imażynistom	imażynista	subst:pl:dat:m1	nazwa pospolita	
 imażynistów	imażynista	subst:pl:gen.acc:m1	nazwa pospolita	
 imażynisty	imażynista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+imażynisty	imażynista	subst:sg:gen:m1	nazwa pospolita	
 imażyniście	imażynista	subst:sg:dat.loc:m1	nazwa pospolita	
 imażyniści	imażynista	subst:pl:nom.voc:m1	nazwa pospolita	
 imażynistycznościach	imażynistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -7776,6 +7790,7 @@ imcie	imć:s1	subst:pl:nom.voc:m1	nazwa pospolita
 imci	imć:s1	subst:pl:gen.acc:m1	nazwa pospolita	
 imci	imć:s1	subst:sg:acc:m1	nazwa pospolita	
 imci	imć:s1	subst:sg:dat.loc:m1	nazwa pospolita	
+imci	imć:s1	subst:sg:gen:m1	nazwa pospolita	
 imci	imć:s1	subst:sg:voc:m1	nazwa pospolita	
 imciom	imć:s1	subst:pl:dat:m1	nazwa pospolita	
 imć	imć:s1	subst:sg:nom:m1	nazwa pospolita	
@@ -9126,6 +9141,7 @@ immoralisto	immoralista	subst:sg:voc:m1	nazwa pospolita
 immoralistom	immoralista	subst:pl:dat:m1	nazwa pospolita	
 immoralistów	immoralista	subst:pl:gen.acc:m1	nazwa pospolita	
 immoralisty	immoralista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+immoralisty	immoralista	subst:sg:gen:m1	nazwa pospolita	
 immoraliście	immoralista	subst:sg:dat.loc:m1	nazwa pospolita	
 immoraliści	immoralista	subst:pl:nom.voc:m1	nazwa pospolita	
 immoralizmach	immoralizm	subst:pl:loc:m3	nazwa pospolita	
@@ -10332,6 +10348,7 @@ imperialisto	imperialista	subst:sg:voc:m1	nazwa pospolita
 imperialistom	imperialista	subst:pl:dat:m1	nazwa pospolita	
 imperialistów	imperialista	subst:pl:gen.acc:m1	nazwa pospolita	
 imperialisty	imperialista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+imperialisty	imperialista	subst:sg:gen:m1	nazwa pospolita	
 imperialiście	imperialista	subst:sg:dat.loc:m1	nazwa pospolita	
 imperialiści	imperialista	subst:pl:nom.voc:m1	nazwa pospolita	
 imperialistycznie	imperialistycznie	adv:pos		
@@ -12025,6 +12042,7 @@ impresjonisto	impresjonista	subst:sg:voc:m1	nazwa pospolita
 impresjonistom	impresjonista	subst:pl:dat:m1	nazwa pospolita	
 impresjonistów	impresjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 impresjonisty	impresjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+impresjonisty	impresjonista	subst:sg:gen:m1	nazwa pospolita	
 impresjoniście	impresjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 impresjoniści	impresjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 impresjonistce	impresjonistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -12273,6 +12291,7 @@ imprezisto	imprezista	subst:sg:voc:m1	nazwa pospolita	daw.
 imprezistom	imprezista	subst:pl:dat:m1	nazwa pospolita	daw.
 imprezistów	imprezista	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 imprezisty	imprezista	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
+imprezisty	imprezista	subst:sg:gen:m1	nazwa pospolita	daw.
 impreziście	imprezista	subst:sg:dat.loc:m1	nazwa pospolita	daw.
 impreziści	imprezista	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 imprezce	imprezka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -14264,6 +14283,7 @@ indeterministo	indeterminista	subst:sg:voc:m1	nazwa pospolita
 indeterministom	indeterminista	subst:pl:dat:m1	nazwa pospolita	
 indeterministów	indeterminista	subst:pl:gen.acc:m1	nazwa pospolita	
 indeterministy	indeterminista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+indeterministy	indeterminista	subst:sg:gen:m1	nazwa pospolita	
 indeterminiście	indeterminista	subst:sg:dat.loc:m1	nazwa pospolita	
 indeterminiści	indeterminista	subst:pl:nom.voc:m1	nazwa pospolita	
 indeterministycznościach	indeterministyczność	subst:pl:loc:f	nazwa pospolita	
@@ -14321,6 +14341,7 @@ indianisto	indianista	subst:sg:voc:m1	nazwa pospolita
 indianistom	indianista	subst:pl:dat:m1	nazwa pospolita	
 indianistów	indianista	subst:pl:gen.acc:m1	nazwa pospolita	
 indianisty	indianista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+indianisty	indianista	subst:sg:gen:m1	nazwa pospolita	
 indianiście	indianista	subst:sg:dat.loc:m1	nazwa pospolita	
 indianiści	indianista	subst:pl:nom.voc:m1	nazwa pospolita	
 indianistce	indianistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -14511,6 +14532,7 @@ indoeuropeisto	indoeuropeista	subst:sg:voc:m1	nazwa pospolita
 indoeuropeistom	indoeuropeista	subst:pl:dat:m1	nazwa pospolita	
 indoeuropeistów	indoeuropeista	subst:pl:gen.acc:m1	nazwa pospolita	
 indoeuropeisty	indoeuropeista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+indoeuropeisty	indoeuropeista	subst:sg:gen:m1	nazwa pospolita	
 indoeuropeiście	indoeuropeista	subst:sg:dat.loc:m1	nazwa pospolita	
 indoeuropeiści	indoeuropeista	subst:pl:nom.voc:m1	nazwa pospolita	
 indoeuropeistycznościach	indoeuropeistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -15941,6 +15963,7 @@ indyferentysto	indyferentysta	subst:sg:voc:m1	nazwa pospolita	przest.
 indyferentystom	indyferentysta	subst:pl:dat:m1	nazwa pospolita	przest.
 indyferentystów	indyferentysta	subst:pl:gen.acc:m1	nazwa pospolita	przest.
 indyferentysty	indyferentysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
+indyferentysty	indyferentysta	subst:sg:gen:m1	nazwa pospolita	przest.
 indyferentyście	indyferentysta	subst:sg:dat.loc:m1	nazwa pospolita	przest.
 indyferentyści	indyferentysta	subst:pl:nom.voc:m1	nazwa pospolita	przest.
 indyferentyzmach	indyferentyzm	subst:pl:loc:m3	nazwa pospolita	
@@ -15965,6 +15988,7 @@ indygeno	indygena	subst:sg:voc:m1	nazwa pospolita
 indygenom	indygena	subst:pl:dat:m1	nazwa pospolita	
 indygenów	indygena	subst:pl:gen.acc:m1	nazwa pospolita	
 indygeny	indygena	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+indygeny	indygena	subst:sg:gen:m1	nazwa pospolita	
 indygenacie	indygenat	subst:sg:loc:m3	nazwa pospolita	
 indygenacie	indygenat	subst:sg:voc:m3	nazwa pospolita	
 indygenatach	indygenat	subst:pl:loc:m3	nazwa pospolita	
@@ -16342,6 +16366,7 @@ indywidualisto	indywidualista	subst:sg:voc:m1	nazwa pospolita
 indywidualistom	indywidualista	subst:pl:dat:m1	nazwa pospolita	
 indywidualistów	indywidualista	subst:pl:gen.acc:m1	nazwa pospolita	
 indywidualisty	indywidualista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+indywidualisty	indywidualista	subst:sg:gen:m1	nazwa pospolita	
 indywidualiście	indywidualista	subst:sg:dat.loc:m1	nazwa pospolita	
 indywidualiści	indywidualista	subst:pl:nom.voc:m1	nazwa pospolita	
 indywidualistce	indywidualistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -16875,6 +16900,7 @@ infanterzysto	infanterzysta	subst:sg:voc:m1	nazwa pospolita	daw.
 infanterzystom	infanterzysta	subst:pl:dat:m1	nazwa pospolita	daw.
 infanterzystów	infanterzysta	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 infanterzysty	infanterzysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
+infanterzysty	infanterzysta	subst:sg:gen:m1	nazwa pospolita	daw.
 infanterzyście	infanterzysta	subst:sg:dat.loc:m1	nazwa pospolita	daw.
 infanterzyści	infanterzysta	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 infantce	infantka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -17596,6 +17622,7 @@ infimisto	infimista	subst:sg:voc:m1	nazwa pospolita	daw.
 infimistom	infimista	subst:pl:dat:m1	nazwa pospolita	daw.
 infimistów	infimista	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 infimisty	infimista	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
+infimisty	infimista	subst:sg:gen:m1	nazwa pospolita	daw.
 infimiście	infimista	subst:sg:dat.loc:m1	nazwa pospolita	daw.
 infimiści	infimista	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 infimusach	infimus	subst:pl:loc:m1	nazwa pospolita	daw.
@@ -22142,6 +22169,7 @@ innowiercom	innowierca	subst:pl:dat:m1	nazwa pospolita
 innowierców	innowierca	subst:pl:gen.acc:m1	nazwa pospolita	
 innowiercy	innowierca	subst:pl:nom.voc:m1	nazwa pospolita	
 innowiercy	innowierca	subst:sg:dat.loc:m1	nazwa pospolita	
+innowiercy	innowierca	subst:sg:gen:m1	nazwa pospolita	
 innowierczościach	innowierczość	subst:pl:loc:f	nazwa pospolita	
 innowierczościami	innowierczość	subst:pl:inst:f	nazwa pospolita	
 innowierczością	innowierczość	subst:sg:inst:f	nazwa pospolita	
@@ -24572,6 +24600,7 @@ instrumentalisto	instrumentalista	subst:sg:voc:m1	nazwa pospolita
 instrumentalistom	instrumentalista	subst:pl:dat:m1	nazwa pospolita	
 instrumentalistów	instrumentalista	subst:pl:gen.acc:m1	nazwa pospolita	
 instrumentalisty	instrumentalista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+instrumentalisty	instrumentalista	subst:sg:gen:m1	nazwa pospolita	
 instrumentaliście	instrumentalista	subst:sg:dat.loc:m1	nazwa pospolita	
 instrumentaliści	instrumentalista	subst:pl:nom.voc:m1	nazwa pospolita	
 instrumentalistce	instrumentalistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -26464,6 +26493,7 @@ integracjonisto	integracjonista	subst:sg:voc:m1	nazwa pospolita
 integracjonistom	integracjonista	subst:pl:dat:m1	nazwa pospolita	
 integracjonistów	integracjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 integracjonisty	integracjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+integracjonisty	integracjonista	subst:sg:gen:m1	nazwa pospolita	
 integracjoniście	integracjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 integracjoniści	integracjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 integracyjnościach	integracyjność	subst:pl:loc:f	nazwa pospolita	
@@ -26737,6 +26767,7 @@ integrysto	integrysta	subst:sg:voc:m1	nazwa pospolita
 integrystom	integrysta	subst:pl:dat:m1	nazwa pospolita	
 integrystów	integrysta	subst:pl:gen.acc:m1	nazwa pospolita	
 integrysty	integrysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+integrysty	integrysta	subst:sg:gen:m1	nazwa pospolita	
 integryście	integrysta	subst:sg:dat.loc:m1	nazwa pospolita	
 integryści	integrysta	subst:pl:nom.voc:m1	nazwa pospolita	
 integrystycznościach	integrystyczność	subst:pl:loc:f	nazwa pospolita	
@@ -26805,6 +26836,7 @@ intelektualisto	intelektualista	subst:sg:voc:m1	nazwa pospolita
 intelektualistom	intelektualista	subst:pl:dat:m1	nazwa pospolita	
 intelektualistów	intelektualista	subst:pl:gen.acc:m1	nazwa pospolita	
 intelektualisty	intelektualista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+intelektualisty	intelektualista	subst:sg:gen:m1	nazwa pospolita	
 intelektualiście	intelektualista	subst:sg:dat.loc:m1	nazwa pospolita	
 intelektualiści	intelektualista	subst:pl:nom.voc:m1	nazwa pospolita	
 intelektualistce	intelektualistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -27709,6 +27741,7 @@ interakcjonisto	interakcjonista	subst:sg:voc:m1	nazwa pospolita
 interakcjonistom	interakcjonista	subst:pl:dat:m1	nazwa pospolita	
 interakcjonistów	interakcjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 interakcjonisty	interakcjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+interakcjonisty	interakcjonista	subst:sg:gen:m1	nazwa pospolita	
 interakcjoniście	interakcjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 interakcjoniści	interakcjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 interakcjonizmach	interakcjonizm	subst:pl:loc:m3	nazwa pospolita	
@@ -29473,6 +29506,7 @@ internacjonalisto	internacjonalista	subst:sg:voc:m1	nazwa pospolita
 internacjonalistom	internacjonalista	subst:pl:dat:m1	nazwa pospolita	
 internacjonalistów	internacjonalista	subst:pl:gen.acc:m1	nazwa pospolita	
 internacjonalisty	internacjonalista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+internacjonalisty	internacjonalista	subst:sg:gen:m1	nazwa pospolita	
 internacjonaliście	internacjonalista	subst:sg:dat.loc:m1	nazwa pospolita	
 internacjonaliści	internacjonalista	subst:pl:nom.voc:m1	nazwa pospolita	
 internacjonalistycznościach	internacjonalistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -29888,6 +29922,7 @@ internauto	internauta	subst:sg:voc:m1	nazwa pospolita
 internautom	internauta	subst:pl:dat:m1	nazwa pospolita	
 internautów	internauta	subst:pl:gen.acc:m1	nazwa pospolita	
 internauty	internauta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+internauty	internauta	subst:sg:gen:m1	nazwa pospolita	
 internautce	internautka	subst:sg:dat.loc:f	nazwa pospolita	
 internautek	internautka	subst:pl:gen:f	nazwa pospolita	
 internautkach	internautka	subst:pl:loc:f	nazwa pospolita	
@@ -29967,6 +30002,7 @@ internisto	internista	subst:sg:voc:m1	nazwa pospolita
 internistom	internista	subst:pl:dat:m1	nazwa pospolita	
 internistów	internista	subst:pl:gen.acc:m1	nazwa pospolita	
 internisty	internista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+internisty	internista	subst:sg:gen:m1	nazwa pospolita	
 interniście	internista	subst:sg:dat.loc:m1	nazwa pospolita	
 interniści	internista	subst:pl:nom.voc:m1	nazwa pospolita	
 internistce	internistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -30877,6 +30913,7 @@ interseksualisto	interseksualista	subst:sg:voc:m1	nazwa pospolita
 interseksualistom	interseksualista	subst:pl:dat:m1	nazwa pospolita	
 interseksualistów	interseksualista	subst:pl:gen.acc:m1	nazwa pospolita	
 interseksualisty	interseksualista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+interseksualisty	interseksualista	subst:sg:gen:m1	nazwa pospolita	
 interseksualiście	interseksualista	subst:sg:dat.loc:m1	nazwa pospolita	
 interseksualiści	interseksualista	subst:pl:nom.voc:m1	nazwa pospolita	
 interseksualizmach	interseksualizm	subst:pl:loc:m3	nazwa pospolita	
@@ -31166,6 +31203,7 @@ interwencjonisto	interwencjonista	subst:sg:voc:m1	nazwa pospolita
 interwencjonistom	interwencjonista	subst:pl:dat:m1	nazwa pospolita	
 interwencjonistów	interwencjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 interwencjonisty	interwencjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+interwencjonisty	interwencjonista	subst:sg:gen:m1	nazwa pospolita	
 interwencjoniście	interwencjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 interwencjoniści	interwencjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 interwencjonistycznościach	interwencjonistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -32551,6 +32589,7 @@ introspekcjonisto	introspekcjonista	subst:sg:voc:m1	nazwa pospolita
 introspekcjonistom	introspekcjonista	subst:pl:dat:m1	nazwa pospolita	
 introspekcjonistów	introspekcjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 introspekcjonisty	introspekcjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+introspekcjonisty	introspekcjonista	subst:sg:gen:m1	nazwa pospolita	
 introspekcjoniście	introspekcjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 introspekcjoniści	introspekcjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 introspekcjonizmach	introspekcjonizm	subst:pl:loc:m3	nazwa pospolita	
@@ -33261,6 +33300,7 @@ intuicjonisto	intuicjonista	subst:sg:voc:m1	nazwa pospolita
 intuicjonistom	intuicjonista	subst:pl:dat:m1	nazwa pospolita	
 intuicjonistów	intuicjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 intuicjonisty	intuicjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+intuicjonisty	intuicjonista	subst:sg:gen:m1	nazwa pospolita	
 intuicjoniście	intuicjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 intuicjoniści	intuicjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 intuicjonistce	intuicjonistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -33507,6 +33547,7 @@ inwalido	inwalida	subst:sg:voc:m1	nazwa pospolita
 inwalidom	inwalida	subst:pl:dat:m1	nazwa pospolita	
 inwalidów	inwalida	subst:pl:gen.acc:m1	nazwa pospolita	
 inwalidy	inwalida	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+inwalidy	inwalida	subst:sg:gen:m1	nazwa pospolita	
 inwalidzie	inwalida	subst:sg:dat.loc:m1	nazwa pospolita	
 inwalidzi	inwalida	subst:pl:nom.voc:m1	nazwa pospolita	
 inwalidce	inwalidka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -35892,6 +35933,7 @@ iranisto	iranista	subst:sg:voc:m1	nazwa pospolita
 iranistom	iranista	subst:pl:dat:m1	nazwa pospolita	
 iranistów	iranista	subst:pl:gen.acc:m1	nazwa pospolita	
 iranisty	iranista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+iranisty	iranista	subst:sg:gen:m1	nazwa pospolita	
 iraniście	iranista	subst:sg:dat.loc:m1	nazwa pospolita	
 iraniści	iranista	subst:pl:nom.voc:m1	nazwa pospolita	
 iranistce	iranistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -36079,6 +36121,7 @@ irenisto	irenista	subst:sg:voc:m1	nazwa pospolita
 irenistom	irenista	subst:pl:dat:m1	nazwa pospolita	
 irenistów	irenista	subst:pl:gen.acc:m1	nazwa pospolita	
 irenisty	irenista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+irenisty	irenista	subst:sg:gen:m1	nazwa pospolita	
 ireniście	irenista	subst:sg:dat.loc:m1	nazwa pospolita	
 ireniści	irenista	subst:pl:nom.voc:m1	nazwa pospolita	
 irenizmach	irenizm	subst:pl:loc:m3	nazwa pospolita	
@@ -36339,6 +36382,7 @@ ironisto	ironista	subst:sg:voc:m1	nazwa pospolita
 ironistom	ironista	subst:pl:dat:m1	nazwa pospolita	
 ironistów	ironista	subst:pl:gen.acc:m1	nazwa pospolita	
 ironisty	ironista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+ironisty	ironista	subst:sg:gen:m1	nazwa pospolita	
 ironiście	ironista	subst:sg:dat.loc:m1	nazwa pospolita	
 ironiści	ironista	subst:pl:nom.voc:m1	nazwa pospolita	
 ironistce	ironistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -36586,6 +36630,7 @@ irredentysto	irredentysta	subst:sg:voc:m1	nazwa pospolita
 irredentystom	irredentysta	subst:pl:dat:m1	nazwa pospolita	
 irredentystów	irredentysta	subst:pl:gen.acc:m1	nazwa pospolita	
 irredentysty	irredentysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+irredentysty	irredentysta	subst:sg:gen:m1	nazwa pospolita	
 irredentyście	irredentysta	subst:sg:dat.loc:m1	nazwa pospolita	
 irredentyści	irredentysta	subst:pl:nom.voc:m1	nazwa pospolita	
 irredentystycznościach	irredentystyczność	subst:pl:loc:f	nazwa pospolita	
@@ -38159,6 +38204,7 @@ islamisto	islamista	subst:sg:voc:m1	nazwa pospolita
 islamistom	islamista	subst:pl:dat:m1	nazwa pospolita	
 islamistów	islamista	subst:pl:gen.acc:m1	nazwa pospolita	
 islamisty	islamista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+islamisty	islamista	subst:sg:gen:m1	nazwa pospolita	
 islamiście	islamista	subst:sg:dat.loc:m1	nazwa pospolita	
 islamiści	islamista	subst:pl:nom.voc:m1	nazwa pospolita	
 islamistce	islamistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -38511,6 +38557,7 @@ ismailito	ismailita	subst:sg:voc:m1	nazwa pospolita
 ismailitom	ismailita	subst:pl:dat:m1	nazwa pospolita	
 ismailitów	ismailita	subst:pl:gen.acc:m1	nazwa pospolita	
 ismaility	ismailita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+ismaility	ismailita	subst:sg:gen:m1	nazwa pospolita	
 ismailizmach	ismailizm	subst:pl:loc:m3	nazwa pospolita	
 ismailizmami	ismailizm	subst:pl:inst:m3	nazwa pospolita	
 ismailizmem	ismailizm	subst:sg:inst:m3	nazwa pospolita	
@@ -39314,6 +39361,7 @@ italianisto	italianista	subst:sg:voc:m1	nazwa pospolita
 italianistom	italianista	subst:pl:dat:m1	nazwa pospolita	
 italianistów	italianista	subst:pl:gen.acc:m1	nazwa pospolita	
 italianisty	italianista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+italianisty	italianista	subst:sg:gen:m1	nazwa pospolita	
 italianiście	italianista	subst:sg:dat.loc:m1	nazwa pospolita	
 italianiści	italianista	subst:pl:nom.voc:m1	nazwa pospolita	
 italianistce	italianistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -40564,6 +40612,7 @@ izmailito	izmailita	subst:sg:voc:m1	nazwa pospolita
 izmailitom	izmailita	subst:pl:dat:m1	nazwa pospolita	
 izmailitów	izmailita	subst:pl:gen.acc:m1	nazwa pospolita	
 izmaility	izmailita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+izmaility	izmailita	subst:sg:gen:m1	nazwa pospolita	
 izmailizmach	izmailizm	subst:pl:loc:m3	nazwa pospolita	
 izmailizmami	izmailizm	subst:pl:inst:m3	nazwa pospolita	
 izmailizmem	izmailizm	subst:sg:inst:m3	nazwa pospolita	
@@ -41189,6 +41238,7 @@ izolacjonisto	izolacjonista	subst:sg:voc:m1	nazwa pospolita
 izolacjonistom	izolacjonista	subst:pl:dat:m1	nazwa pospolita	
 izolacjonistów	izolacjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 izolacjonisty	izolacjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+izolacjonisty	izolacjonista	subst:sg:gen:m1	nazwa pospolita	
 izolacjoniście	izolacjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 izolacjoniści	izolacjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 izolacjonistycznościach	izolacjonistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -42168,6 +42218,7 @@ izraelito	izraelita	subst:sg:voc:m1	nazwa pospolita
 izraelitom	izraelita	subst:pl:dat:m1	nazwa pospolita	
 izraelitów	izraelita	subst:pl:gen.acc:m1	nazwa pospolita	
 izraelity	izraelita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+izraelity	izraelita	subst:sg:gen:m1	nazwa pospolita	
 izraelitce	izraelitka	subst:sg:dat.loc:f	nazwa pospolita	
 izraelitek	izraelitka	subst:pl:gen:f	nazwa pospolita	
 izraelitkach	izraelitka	subst:pl:loc:f	nazwa pospolita	

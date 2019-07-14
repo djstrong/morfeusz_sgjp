@@ -1264,6 +1264,7 @@ Ramo	Rama	subst:sg:voc:m1	imię	rel.
 Ramowie	Rama	subst:pl:nom.voc:m1	imię	rel.
 Ramów	Rama	subst:pl:gen.acc:m1	imię	rel.
 Ramy	Rama	depr:pl:nom.acc.voc:m2	imię	rel.
+Ramy	Rama	subst:sg:gen:m1	imię	rel.
 Ramajanach	Ramajana	subst:pl:loc:f	tytuł	
 Ramajanami	Ramajana	subst:pl:inst:f	tytuł	
 Ramajana	Ramajana	subst:sg:nom:f	tytuł	
@@ -1286,6 +1287,7 @@ Ramakrishno	Ramakrishna	subst:sg:voc:m1	imię
 Ramakrishnowie	Ramakrishna	subst:pl:nom.voc:m1	imię	
 Ramakrishnów	Ramakrishna	subst:pl:gen.acc:m1	imię	
 Ramakrishny	Ramakrishna	depr:pl:nom.acc.voc:m2	imię	
+Ramakrishny	Ramakrishna	subst:sg:gen:m1	imię	
 Rambach	Rambo	subst:pl:loc:m1	nazwisko	
 Rambami	Rambo	subst:pl:inst:m1	nazwisko	
 Ramba	Rambo	subst:sg:gen.acc:m1	nazwisko	
@@ -1833,6 +1835,7 @@ Religa	Religa	subst:sg:nom:m1	nazwisko
 Religą	Religa	subst:sg:inst:m1	nazwisko	
 Religę	Religa	subst:sg:acc:m1	nazwisko	
 Religi	Religa	depr:pl:nom.acc.voc:m2	nazwisko	
+Religi	Religa	subst:sg:gen:m1	nazwisko	
 Religom	Religa	subst:pl:dat:m1	nazwisko	
 Religo	Religa	subst:sg:voc:m1	nazwisko	
 Religowie	Religa	subst:pl:nom.voc:m1	nazwisko	
@@ -3025,6 +3028,7 @@ Rokito	Rokita	subst:sg:voc:m1	nazwisko
 Rokitowie	Rokita	subst:pl:nom.voc:m1	nazwisko	
 Rokitów	Rokita	subst:pl:gen.acc:m1	nazwisko	
 Rokity	Rokita	depr:pl:nom.acc.voc:m2	nazwisko	
+Rokity	Rokita	subst:sg:gen:m1	nazwisko	
 Rokitek	Rokitki	subst:pl:gen:n:pt	nazwa geograficzna	
 Rokitek	Rokitki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Rokitkach	Rokitki	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -3054,6 +3058,7 @@ Rolą	Rola	subst:sg:inst:m1	nazwisko
 Role	Rola	depr:pl:nom.acc.voc:m2	nazwisko	
 Rolę	Rola	subst:sg:acc:m1	nazwisko	
 Roli	Rola	subst:sg:dat.loc:m1	nazwisko	
+Roli	Rola	subst:sg:gen:m1	nazwisko	
 Rolom	Rola	subst:pl:dat:m1	nazwisko	
 Rolo	Rola	subst:sg:voc:m1	nazwisko	
 Rolowie	Rola	subst:pl:nom.voc:m1	nazwisko	
@@ -5420,6 +5425,7 @@ Rymszo	Rymsza	subst:sg:voc:m1	nazwisko
 Rymszowie	Rymsza	subst:pl:nom.voc:m1	nazwisko	
 Rymszów	Rymsza	subst:pl:gen.acc:m1	nazwisko	
 Rymszy	Rymsza	subst:sg:dat.loc:m1	nazwisko	
+Rymszy	Rymsza	subst:sg:gen:m1	nazwisko	
 Rymucie	Rymut	subst:sg:loc:m1	nazwisko	
 Rymucie	Rymut	subst:sg:voc:m1	nazwisko	
 Rymutach	Rymut	subst:pl:loc:m1	nazwisko	

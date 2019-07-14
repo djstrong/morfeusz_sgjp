@@ -331,6 +331,7 @@
 Żegoto	Żegota	subst:sg:voc:m1	imię	
 Żegotów	Żegota	subst:pl:gen.acc:m1	imię	
 Żegoty	Żegota	depr:pl:nom.acc.voc:m2	imię	
+Żegoty	Żegota	subst:sg:gen:m1	imię	
 Żelazkowach	Żelazków	subst:pl:loc:m3	nazwa geograficzna	
 Żelazkowami	Żelazków	subst:pl:inst:m3	nazwa geograficzna	
 Żelazkowa	Żelazków	subst:sg:gen:m3	nazwa geograficzna	
@@ -564,6 +565,7 @@
 Żiżką	Żiżka	subst:sg:inst:m1	nazwisko	
 Żiżkę	Żiżka	subst:sg:acc:m1	nazwisko	
 Żiżki	Żiżka	depr:pl:nom.acc.voc:m2	nazwisko	
+Żiżki	Żiżka	subst:sg:gen:m1	nazwisko	
 Żiżkom	Żiżka	subst:pl:dat:m1	nazwisko	
 Żiżkowie	Żiżka	subst:pl:nom.voc:m1	nazwisko	
 Żiżko	Żiżka	subst:sg:voc:m1	nazwisko	
@@ -655,6 +657,7 @@
 Żmurką	Żmurko	subst:sg:inst:m1	nazwisko	
 Żmurkę	Żmurko	subst:sg:acc:m1	nazwisko	
 Żmurki	Żmurko	depr:pl:nom.acc.voc:m2	nazwisko	
+Żmurki	Żmurko	subst:sg:gen:m1	nazwisko	
 Żmurkom	Żmurko	subst:pl:dat:m1	nazwisko	
 Żmurkowie	Żmurko	subst:pl:nom.voc:m1	nazwisko	
 Żmurko	Żmurko	subst:sg:nom:m1	nazwisko	
@@ -986,6 +989,7 @@
 Żwirką	Żwirko	subst:sg:inst:m1	nazwisko	
 Żwirkę	Żwirko	subst:sg:acc:m1	nazwisko	
 Żwirki	Żwirko	depr:pl:nom.acc.voc:m2	nazwisko	
+Żwirki	Żwirko	subst:sg:gen:m1	nazwisko	
 Żwirkom	Żwirko	subst:pl:dat:m1	nazwisko	
 Żwirkowie	Żwirko	subst:pl:nom.voc:m1	nazwisko	
 Żwirko	Żwirko	subst:sg:nom:m1	nazwisko	
@@ -1163,6 +1167,7 @@
 Żydzino	Żydzina	subst:sg:voc:m1	nazwa pospolita	pogard.
 Żydzinów	Żydzina	subst:pl:gen.acc:m1	nazwa pospolita	pogard.
 Żydziny	Żydzina	depr:pl:nom.acc.voc:m2	nazwa pospolita	pogard.
+Żydziny	Żydzina	subst:sg:gen:m1	nazwa pospolita	pogard.
 Żydziskach	Żydzisko	subst:pl:loc:m1	nazwa pospolita	rzad.
 Żydziskach	Żydzisko	subst:pl:loc:n:ncol	nazwa pospolita	
 Żydziskami	Żydzisko	subst:pl:inst:m1	nazwa pospolita	rzad.
@@ -1170,6 +1175,7 @@
 Żydziska	Żydzisko	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
 Żydziska	Żydzisko	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
 Żydziska	Żydzisko	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
+Żydziska	Żydzisko	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
 Żydziska	Żydzisko	subst:sg:gen:n:ncol	nazwa pospolita	
 Żydziskiem	Żydzisko	subst:sg:inst:m1	nazwa pospolita	rzad.
 Żydziskiem	Żydzisko	subst:sg:inst:n:ncol	nazwa pospolita	

@@ -372,6 +372,7 @@ Kafkami	Kafka	subst:pl:inst:m1	nazwisko
 Kafką	Kafka	subst:sg:inst:m1	nazwisko	
 Kafkę	Kafka	subst:sg:acc:m1	nazwisko	
 Kafki	Kafka	depr:pl:nom.acc.voc:m2	nazwisko	
+Kafki	Kafka	subst:sg:gen:m1	nazwisko	
 Kafko	Kafka	subst:sg:voc:m1	nazwisko	
 Kafkom	Kafka	subst:pl:dat:m1	nazwisko	
 Kafkowie	Kafka	subst:pl:nom.voc:m1	nazwisko	
@@ -468,6 +469,7 @@ Kajkami	Kajka:s1	subst:pl:inst:m1	nazwisko
 Kajką	Kajka:s1	subst:sg:inst:m1	nazwisko	
 Kajkę	Kajka:s1	subst:sg:acc:m1	nazwisko	
 Kajki	Kajka:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Kajki	Kajka:s1	subst:sg:gen:m1	nazwisko	
 Kajko	Kajka:s1	subst:sg:voc:m1	nazwisko	
 Kajkom	Kajka:s1	subst:pl:dat:m1	nazwisko	
 Kajkowie	Kajka:s1	subst:pl:nom.voc:m1	nazwisko	
@@ -669,6 +671,7 @@ Kaligulą	Kaligula	subst:sg:inst:m1	imię
 Kaligule	Kaligula	depr:pl:nom.acc.voc:m2	imię	
 Kaligulę	Kaligula	subst:sg:acc:m1	imię	
 Kaliguli	Kaligula	subst:sg:dat.loc:m1	imię	
+Kaliguli	Kaligula	subst:sg:gen:m1	imię	
 Kaligulo	Kaligula	subst:sg:voc:m1	imię	
 Kaligulom	Kaligula	subst:pl:dat:m1	imię	
 Kaligulowie	Kaligula	subst:pl:nom.voc:m1	imię	
@@ -1359,6 +1362,7 @@ Kanią	Kania	subst:sg:inst:m1	nazwisko
 Kanie	Kania	depr:pl:nom.acc.voc:m2	nazwisko	
 Kanię	Kania	subst:sg:acc:m1	nazwisko	
 Kani	Kania	subst:sg:dat.loc:m1	nazwisko	
+Kani	Kania	subst:sg:gen:m1	nazwisko	
 Kanio	Kania	subst:sg:voc:m1	nazwisko	
 Kaniom	Kania	subst:pl:dat:m1	nazwisko	
 Kaniowie	Kania	subst:pl:nom.voc:m1	nazwisko	
@@ -1663,6 +1667,7 @@ Karaito	Karaita	subst:sg:voc:m1	nazwa pospolita
 Karaitom	Karaita	subst:pl:dat:m1	nazwa pospolita	
 Karaitów	Karaita	subst:pl:gen.acc:m1	nazwa pospolita	
 Karaity	Karaita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Karaity	Karaita	subst:sg:gen:m1	nazwa pospolita	
 Karajanach	Karajan	subst:pl:loc:m1	nazwisko	
 Karajana	Karajan	subst:sg:gen.acc:m1	nazwisko	
 Karajanami	Karajan	subst:pl:inst:m1	nazwisko	
@@ -2236,6 +2241,7 @@ Kasicom	Kasica	subst:pl:dat:m1	nazwisko
 Kasicowie	Kasica	subst:pl:nom.voc:m1	nazwisko	
 Kasiców	Kasica	subst:pl:gen.acc:m1	nazwisko	
 Kasicy	Kasica	subst:sg:dat.loc:m1	nazwisko	
+Kasicy	Kasica	subst:sg:gen:m1	nazwisko	
 Kasieniek	Kasieńka	subst:pl:gen:f	imię	
 Kasieńce	Kasieńka	subst:sg:dat.loc:f	imię	
 Kasieńkach	Kasieńka	subst:pl:loc:f	imię	
@@ -2475,6 +2481,7 @@ Kaszubo	Kaszuba	subst:sg:voc:m1	nazwa pospolita
 Kaszubom	Kaszuba	subst:pl:dat:m1	nazwa pospolita	
 Kaszubów	Kaszuba	subst:pl:gen.acc:m1	nazwa pospolita	
 Kaszuby	Kaszuba	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Kaszuby	Kaszuba	subst:sg:gen:m1	nazwa pospolita	
 Kaszubce	Kaszubka	subst:sg:dat.loc:f	nazwa pospolita	
 Kaszubek	Kaszubka	subst:pl:gen:f	nazwa pospolita	
 Kaszubkach	Kaszubka	subst:pl:loc:f	nazwa pospolita	
@@ -3480,6 +3487,7 @@ Kępom	Kępa:s2	subst:pl:dat:m1	nazwisko
 Kępowie	Kępa:s2	subst:pl:nom.voc:m1	nazwisko	
 Kępów	Kępa:s2	subst:pl:gen.acc:m1	nazwisko	
 Kępy	Kępa:s2	depr:pl:nom.acc.voc:m2	nazwisko	
+Kępy	Kępa:s2	subst:sg:gen:m1	nazwisko	
 Kępczyńska	Kępczyńska	subst:sg:nom:f	nazwisko	
 Kępczyńska	Kępczyńska	subst:sg:voc:f	nazwisko	
 Kępczyńską	Kępczyńska	subst:sg:acc:f	nazwisko	
@@ -3607,6 +3615,7 @@ KGB-isto	KGB-ista	subst:sg:voc:m1	nazwa pospolita
 KGB-istom	KGB-ista	subst:pl:dat:m1	nazwa pospolita	
 KGB-istów	KGB-ista	subst:pl:gen.acc:m1	nazwa pospolita	
 KGB-isty	KGB-ista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+KGB-isty	KGB-ista	subst:sg:gen:m1	nazwa pospolita	
 KGB-iście	KGB-ista	subst:sg:dat.loc:m1	nazwa pospolita	
 KGB-iści	KGB-ista	subst:pl:nom.voc:m1	nazwa pospolita	
 KGHM	KGHM	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa firmy	
@@ -3680,6 +3689,7 @@ Kidawom	Kidawa	subst:pl:dat:m1	nazwisko
 Kidawowie	Kidawa	subst:pl:nom.voc:m1	nazwisko	
 Kidawów	Kidawa	subst:pl:gen.acc:m1	nazwisko	
 Kidawy	Kidawa	depr:pl:nom.acc.voc:m2	nazwisko	
+Kidawy	Kidawa	subst:sg:gen:m1	nazwisko	
 Kiejkutach	Kiejkuty	subst:pl:loc:n:pt	nazwa geograficzna	
 Kiejkutach	Kiejkuty	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Kiejkutami	Kiejkuty	subst:pl:inst:n:pt	nazwa geograficzna	
@@ -3757,6 +3767,7 @@ Kiełbasom	Kiełbasa	subst:pl:dat:m1	nazwisko
 Kiełbasowie	Kiełbasa	subst:pl:nom.voc:m1	nazwisko	
 Kiełbasów	Kiełbasa	subst:pl:gen.acc:m1	nazwisko	
 Kiełbasy	Kiełbasa	depr:pl:nom.acc.voc:m2	nazwisko	
+Kiełbasy	Kiełbasa	subst:sg:gen:m1	nazwisko	
 Kiełczewska	Kiełczewska	subst:sg:nom:f	nazwisko	
 Kiełczewska	Kiełczewska	subst:sg:voc:f	nazwisko	
 Kiełczewską	Kiełczewska	subst:sg:acc:f	nazwisko	
@@ -3802,6 +3813,7 @@ Kiepurom	Kiepura	subst:pl:dat:m1	nazwisko
 Kiepurowie	Kiepura	subst:pl:nom.voc:m1	nazwisko	
 Kiepurów	Kiepura	subst:pl:gen.acc:m1	nazwisko	
 Kiepury	Kiepura	depr:pl:nom.acc.voc:m2	nazwisko	
+Kiepury	Kiepura	subst:sg:gen:m1	nazwisko	
 Kiepurze	Kiepura	subst:sg:dat.loc:m1	nazwisko	
 Kierbedziach	Kierbedź	subst:pl:loc:m1	nazwisko	
 Kierbedzia	Kierbedź	subst:sg:gen.acc:m1	nazwisko	
@@ -4410,6 +4422,7 @@ Kiszłom	Kiszło	subst:pl:dat:m1	nazwisko
 Kiszłowie	Kiszło	subst:pl:nom.voc:m1	nazwisko	
 Kiszłów	Kiszło	subst:pl:gen.acc:m1	nazwisko	
 Kiszły	Kiszło	depr:pl:nom.acc.voc:m2	nazwisko	
+Kiszły	Kiszło	subst:sg:gen:m1	nazwisko	
 Kiszyniowach	Kiszyniów	subst:pl:loc:m3	nazwa geograficzna	
 Kiszyniowa	Kiszyniów	subst:sg:gen:m3	nazwa geograficzna	
 Kiszyniowami	Kiszyniów	subst:pl:inst:m3	nazwa geograficzna	
@@ -4445,6 +4458,7 @@ Klaczkami	Klaczko	subst:pl:inst:m1	nazwisko
 Klaczką	Klaczko	subst:sg:inst:m1	nazwisko	
 Klaczkę	Klaczko	subst:sg:acc:m1	nazwisko	
 Klaczki	Klaczko	depr:pl:nom.acc.voc:m2	nazwisko	
+Klaczki	Klaczko	subst:sg:gen:m1	nazwisko	
 Klaczko	Klaczko	subst:sg:nom:m1	nazwisko	
 Klaczko	Klaczko	subst:sg:voc:m1	nazwisko	
 Klaczkom	Klaczko	subst:pl:dat:m1	nazwisko	
@@ -5894,6 +5908,7 @@ Kołodkami	Kołodko	subst:pl:inst:m1	nazwisko
 Kołodką	Kołodko	subst:sg:inst:m1	nazwisko	
 Kołodkę	Kołodko	subst:sg:acc:m1	nazwisko	
 Kołodki	Kołodko	depr:pl:nom.acc.voc:m2	nazwisko	
+Kołodki	Kołodko	subst:sg:gen:m1	nazwisko	
 Kołodko	Kołodko	subst:sg:nom:m1	nazwisko	
 Kołodko	Kołodko	subst:sg:voc:m1	nazwisko	
 Kołodkom	Kołodko	subst:pl:dat:m1	nazwisko	
@@ -6377,6 +6392,7 @@ Konopkami	Konopka	subst:pl:inst:m1	nazwisko
 Konopką	Konopka	subst:sg:inst:m1	nazwisko	
 Konopkę	Konopka	subst:sg:acc:m1	nazwisko	
 Konopki	Konopka	depr:pl:nom.acc.voc:m2	nazwisko	
+Konopki	Konopka	subst:sg:gen:m1	nazwisko	
 Konopko	Konopka	subst:sg:voc:m1	nazwisko	
 Konopkom	Konopka	subst:pl:dat:m1	nazwisko	
 Konopkowie	Konopka	subst:pl:nom.voc:m1	nazwisko	
@@ -6387,6 +6403,7 @@ Konopkami	Konopko	subst:pl:inst:m1	nazwisko
 Konopką	Konopko	subst:sg:inst:m1	nazwisko	
 Konopkę	Konopko	subst:sg:acc:m1	nazwisko	
 Konopki	Konopko	depr:pl:nom.acc.voc:m2	nazwisko	
+Konopki	Konopko	subst:sg:gen:m1	nazwisko	
 Konopko	Konopko	subst:sg:nom:m1	nazwisko	
 Konopko	Konopko	subst:sg:voc:m1	nazwisko	
 Konopkom	Konopko	subst:pl:dat:m1	nazwisko	
@@ -7553,6 +7570,7 @@ Kosmom	Kosma	subst:pl:dat:m1	imię
 Kosmowie	Kosma	subst:pl:nom.voc:m1	imię	
 Kosmów	Kosma	subst:pl:gen.acc:m1	imię	
 Kosmy	Kosma	depr:pl:nom.acc.voc:m2	imię	
+Kosmy	Kosma	subst:sg:gen:m1	imię	
 Kosowianach	Kosowianin	subst:pl:loc:m1	nazwa pospolita	
 Kosowianami	Kosowianin	subst:pl:inst:m1	nazwa pospolita	
 Kosowianie	Kosowianin	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -7746,6 +7764,7 @@ Kostkami	Kostka:s2	subst:pl:inst:m1	nazwisko
 Kostką	Kostka:s2	subst:sg:inst:m1	nazwisko	
 Kostkę	Kostka:s2	subst:sg:acc:m1	nazwisko	
 Kostki	Kostka:s2	depr:pl:nom.acc.voc:m2	nazwisko	
+Kostki	Kostka:s2	subst:sg:gen:m1	nazwisko	
 Kostko	Kostka:s2	subst:sg:voc:m1	nazwisko	
 Kostkom	Kostka:s2	subst:pl:dat:m1	nazwisko	
 Kostkowie	Kostka:s2	subst:pl:nom.voc:m1	nazwisko	
@@ -7761,6 +7780,7 @@ Kostrzewom	Kostrzewa:s1	subst:pl:dat:m1	nazwisko
 Kostrzewowie	Kostrzewa:s1	subst:pl:nom.voc:m1	nazwisko	
 Kostrzewów	Kostrzewa:s1	subst:pl:gen.acc:m1	nazwisko	
 Kostrzewy	Kostrzewa:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Kostrzewy	Kostrzewa:s1	subst:sg:gen:m1	nazwisko	
 Kostrzewach	Kostrzewa:s2	subst:pl:loc:f	nazwisko	
 Kostrzewa	Kostrzewa:s2	subst:sg:nom:f	nazwisko	
 Kostrzewami	Kostrzewa:s2	subst:pl:inst:f	nazwisko	
@@ -7880,6 +7900,7 @@ Kością	Kościa	subst:sg:inst:m1	nazwisko
 Koście	Kościa	depr:pl:nom.acc.voc:m2	nazwisko	
 Kościę	Kościa	subst:sg:acc:m1	nazwisko	
 Kości	Kościa	subst:sg:dat.loc:m1	nazwisko	
+Kości	Kościa	subst:sg:gen:m1	nazwisko	
 Kościom	Kościa	subst:pl:dat:m1	nazwisko	
 Kościowie	Kościa	subst:pl:nom.voc:m1	nazwisko	
 Kościów	Kościa	subst:pl:gen.acc:m1	nazwisko	
@@ -7934,6 +7955,7 @@ Kościuszkami	Kościuszko	subst:pl:inst:m1	nazwisko
 Kościuszką	Kościuszko	subst:sg:inst:m1	nazwisko	
 Kościuszkę	Kościuszko	subst:sg:acc:m1	nazwisko	
 Kościuszki	Kościuszko	depr:pl:nom.acc.voc:m2	nazwisko	
+Kościuszki	Kościuszko	subst:sg:gen:m1	nazwisko	
 Kościuszko	Kościuszko	subst:sg:nom:m1	nazwisko	
 Kościuszko	Kościuszko	subst:sg:voc:m1	nazwisko	
 Kościuszkom	Kościuszko	subst:pl:dat:m1	nazwisko	
@@ -8074,6 +8096,7 @@ Kotulą	Kotula	subst:sg:inst:m1	nazwisko
 Kotule	Kotula	depr:pl:nom.acc.voc:m2	nazwisko	
 Kotulę	Kotula	subst:sg:acc:m1	nazwisko	
 Kotuli	Kotula	subst:sg:dat.loc:m1	nazwisko	
+Kotuli	Kotula	subst:sg:gen:m1	nazwisko	
 Kotulo	Kotula	subst:sg:voc:m1	nazwisko	
 Kotulom	Kotula	subst:pl:dat:m1	nazwisko	
 Kotulowie	Kotula	subst:pl:nom.voc:m1	nazwisko	
@@ -9083,6 +9106,7 @@ Krawcu	Krawiec	subst:sg:loc:m1	nazwisko
 Krawcu	Krawiec	subst:sg:voc:m1	nazwisko	
 Krawiec	Krawiec	subst:sg:nom:m1	nazwisko	
 Krei	Kreja	subst:sg:dat.loc:m1	nazwisko	
+Krei	Kreja	subst:sg:gen:m1	nazwisko	
 Krejach	Kreja	subst:pl:loc:m1	nazwisko	
 Kreja	Kreja	subst:sg:nom:m1	nazwisko	
 Krejami	Kreja	subst:pl:inst:m1	nazwisko	
@@ -9213,6 +9237,7 @@ Krisznom	Kriszna	subst:pl:dat:m1	imię
 Krisznowie	Kriszna	subst:pl:nom.voc:m1	imię	
 Krisznów	Kriszna	subst:pl:gen.acc:m1	imię	
 Kriszny	Kriszna	depr:pl:nom.acc.voc:m2	imię	
+Kriszny	Kriszna	subst:sg:gen:m1	imię	
 KRLD	KRLD	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa geograficzna	
 KRLD	KRLD	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
 Krleżach	Krleża	subst:pl:loc:m1	nazwisko	
@@ -9226,6 +9251,7 @@ Krleżom	Krleża	subst:pl:dat:m1	nazwisko
 Krleżowie	Krleża	subst:pl:nom.voc:m1	nazwisko	
 Krleżów	Krleża	subst:pl:gen.acc:m1	nazwisko	
 Krleży	Krleża	subst:sg:dat.loc:m1	nazwisko	
+Krleży	Krleża	subst:sg:gen:m1	nazwisko	
 KRN-ach	KRN	subst:pl:loc:m3	nazwa organizacji	
 KRN-ami	KRN	subst:pl:inst:m3	nazwa organizacji	
 KRN-em	KRN	subst:sg:inst:m3	nazwa organizacji	
@@ -9526,6 +9552,7 @@ Krupom	Krupa	subst:pl:dat:m1	nazwisko
 Krupowie	Krupa	subst:pl:nom.voc:m1	nazwisko	
 Krupów	Krupa	subst:pl:gen.acc:m1	nazwisko	
 Krupy	Krupa	depr:pl:nom.acc.voc:m2	nazwisko	
+Krupy	Krupa	subst:sg:gen:m1	nazwisko	
 Krupego	Krupe	subst:sg:gen:n:ncol	nazwa geograficzna	
 Krupe	Krupe	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
 Krupe	Krupe	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
@@ -10620,6 +10647,7 @@ Kubalą	Kubala	subst:sg:inst:m1	nazwisko
 Kubale	Kubala	depr:pl:nom.acc.voc:m2	nazwisko	
 Kubalę	Kubala	subst:sg:acc:m1	nazwisko	
 Kubali	Kubala	subst:sg:dat.loc:m1	nazwisko	
+Kubali	Kubala	subst:sg:gen:m1	nazwisko	
 Kubalo	Kubala	subst:sg:voc:m1	nazwisko	
 Kubalom	Kubala	subst:pl:dat:m1	nazwisko	
 Kubalowie	Kubala	subst:pl:nom.voc:m1	nazwisko	
@@ -10704,6 +10732,7 @@ Kubom	Kuba:s2	subst:pl:dat:m1	imię
 Kubowie	Kuba:s2	subst:pl:nom.voc:m1	imię	
 Kubów	Kuba:s2	subst:pl:gen.acc:m1	imię	
 Kuby	Kuba:s2	depr:pl:nom.acc.voc:m2	imię	
+Kuby	Kuba:s2	subst:sg:gen:m1	imię	
 Kubiakach	Kubiak	subst:pl:loc:m1	nazwisko	
 Kubiaka	Kubiak	subst:sg:gen.acc:m1	nazwisko	
 Kubiakami	Kubiak	subst:pl:inst:m1	nazwisko	
@@ -10727,6 +10756,7 @@ Kubicom	Kubica	subst:pl:dat:m1	nazwisko
 Kubicowie	Kubica	subst:pl:nom.voc:m1	nazwisko	
 Kubiców	Kubica	subst:pl:gen.acc:m1	nazwisko	
 Kubicy	Kubica	subst:sg:dat.loc:m1	nazwisko	
+Kubicy	Kubica	subst:sg:gen:m1	nazwisko	
 Kubicka	Kubicka	subst:sg:nom:f	nazwisko	
 Kubicka	Kubicka	subst:sg:voc:f	nazwisko	
 Kubicką	Kubicka	subst:sg:acc:f	nazwisko	
@@ -10861,6 +10891,7 @@ Kuczmom	Kuczma	subst:pl:dat:m1	nazwisko
 Kuczmowie	Kuczma	subst:pl:nom.voc:m1	nazwisko	
 Kuczmów	Kuczma	subst:pl:gen.acc:m1	nazwisko	
 Kuczmy	Kuczma	depr:pl:nom.acc.voc:m2	nazwisko	
+Kuczmy	Kuczma	subst:sg:gen:m1	nazwisko	
 Kuczyńska	Kuczyńska	subst:sg:nom:f	nazwisko	
 Kuczyńska	Kuczyńska	subst:sg:voc:f	nazwisko	
 Kuczyńską	Kuczyńska	subst:sg:acc:f	nazwisko	
@@ -10930,6 +10961,7 @@ Kujawom	Kujawa	subst:pl:dat:m1	nazwisko
 Kujawowie	Kujawa	subst:pl:nom.voc:m1	nazwisko	
 Kujawów	Kujawa	subst:pl:gen.acc:m1	nazwisko	
 Kujawy	Kujawa	depr:pl:nom.acc.voc:m2	nazwisko	
+Kujawy	Kujawa	subst:sg:gen:m1	nazwisko	
 Kujawiaczek	Kujawiaczek	subst:sg:nom:m1	nazwa pospolita	
 Kujawiaczkach	Kujawiaczek	subst:pl:loc:m1	nazwa pospolita	
 Kujawiaczka	Kujawiaczek	subst:sg:gen.acc:m1	nazwa pospolita	
@@ -11063,6 +11095,7 @@ Kulą	Kula	subst:sg:inst:m1	nazwisko
 Kule	Kula	depr:pl:nom.acc.voc:m2	nazwisko	
 Kulę	Kula	subst:sg:acc:m1	nazwisko	
 Kuli	Kula	subst:sg:dat.loc:m1	nazwisko	
+Kuli	Kula	subst:sg:gen:m1	nazwisko	
 Kulo	Kula	subst:sg:voc:m1	nazwisko	
 Kulom	Kula	subst:pl:dat:m1	nazwisko	
 Kulowie	Kula	subst:pl:nom.voc:m1	nazwisko	
@@ -11101,6 +11134,7 @@ Kuleszom	Kulesza	subst:pl:dat:m1	nazwisko
 Kuleszowie	Kulesza	subst:pl:nom.voc:m1	nazwisko	
 Kuleszów	Kulesza	subst:pl:gen.acc:m1	nazwisko	
 Kuleszy	Kulesza	subst:sg:dat.loc:m1	nazwisko	
+Kuleszy	Kulesza	subst:sg:gen:m1	nazwisko	
 Kuligowska	Kuligowska	subst:sg:nom:f	nazwisko	
 Kuligowska	Kuligowska	subst:sg:voc:f	nazwisko	
 Kuligowską	Kuligowska	subst:sg:acc:f	nazwisko	
@@ -11320,6 +11354,7 @@ Kunderom	Kundera	subst:pl:dat:m1	nazwisko
 Kunderowie	Kundera	subst:pl:nom.voc:m1	nazwisko	
 Kunderów	Kundera	subst:pl:gen.acc:m1	nazwisko	
 Kundery	Kundera	depr:pl:nom.acc.voc:m2	nazwisko	
+Kundery	Kundera	subst:sg:gen:m1	nazwisko	
 Kunderze	Kundera	subst:sg:dat.loc:m1	nazwisko	
 Kundziach	Kundzia	subst:pl:loc:f	imię	
 Kundzia	Kundzia	subst:sg:nom:f	imię	
@@ -11585,6 +11620,7 @@ Kuropieskami	Kuropieska	subst:pl:inst:m1	nazwisko
 Kuropieską	Kuropieska	subst:sg:inst:m1	nazwisko	
 Kuropieskę	Kuropieska	subst:sg:acc:m1	nazwisko	
 Kuropieski	Kuropieska	depr:pl:nom.acc.voc:m2	nazwisko	
+Kuropieski	Kuropieska	subst:sg:gen:m1	nazwisko	
 Kuropiesko	Kuropieska	subst:sg:voc:m1	nazwisko	
 Kuropieskom	Kuropieska	subst:pl:dat:m1	nazwisko	
 Kuropieskowie	Kuropieska	subst:pl:nom.voc:m1	nazwisko	
@@ -11600,6 +11636,7 @@ Kurosawom	Kurosawa	subst:pl:dat:m1	nazwisko
 Kurosawowie	Kurosawa	subst:pl:nom.voc:m1	nazwisko	
 Kurosawów	Kurosawa	subst:pl:gen.acc:m1	nazwisko	
 Kurosawy	Kurosawa	depr:pl:nom.acc.voc:m2	nazwisko	
+Kurosawy	Kurosawa	subst:sg:gen:m1	nazwisko	
 Kurowach	Kurowo	subst:pl:loc:n:ncol	nazwa geograficzna	
 Kurowa	Kurowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
 Kurowa	Kurowo	subst:sg:gen:n:ncol	nazwa geograficzna	
@@ -11740,6 +11777,7 @@ Kustom	Kusto	subst:pl:dat:m1	nazwisko
 Kustowie	Kusto	subst:pl:nom.voc:m1	nazwisko	
 Kustów	Kusto	subst:pl:gen.acc:m1	nazwisko	
 Kusty	Kusto	depr:pl:nom.acc.voc:m2	nazwisko	
+Kusty	Kusto	subst:sg:gen:m1	nazwisko	
 Kuście	Kusto	subst:sg:dat.loc:m1	nazwisko	
 Kusznierewiczach	Kusznierewicz	subst:pl:loc:m1	nazwisko	
 Kusznierewicza	Kusznierewicz	subst:sg:gen.acc:m1	nazwisko	
@@ -11823,6 +11861,7 @@ Kutrzebom	Kutrzeba	subst:pl:dat:m1	nazwisko
 Kutrzebowie	Kutrzeba	subst:pl:nom.voc:m1	nazwisko	
 Kutrzebów	Kutrzeba	subst:pl:gen.acc:m1	nazwisko	
 Kutrzeby	Kutrzeba	depr:pl:nom.acc.voc:m2	nazwisko	
+Kutrzeby	Kutrzeba	subst:sg:gen:m1	nazwisko	
 Kutuzowach	Kutuzow	subst:pl:loc:m1	nazwisko	
 Kutuzowa	Kutuzow	subst:sg:gen.acc:m1	nazwisko	
 Kutuzowami	Kutuzow	subst:pl:inst:m1	nazwisko	

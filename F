@@ -364,6 +364,7 @@ Fatygami	Fatyga	subst:pl:inst:m1	nazwisko
 Fatygą	Fatyga	subst:sg:inst:m1	nazwisko	
 Fatygę	Fatyga	subst:sg:acc:m1	nazwisko	
 Fatygi	Fatyga	depr:pl:nom.acc.voc:m2	nazwisko	
+Fatygi	Fatyga	subst:sg:gen:m1	nazwisko	
 Fatygo	Fatyga	subst:sg:voc:m1	nazwisko	
 Fatygom	Fatyga	subst:pl:dat:m1	nazwisko	
 Fatygowie	Fatyga	subst:pl:nom.voc:m1	nazwisko	
@@ -490,6 +491,7 @@ Fedorkami	Fedorko	subst:pl:inst:m1	nazwisko
 Fedorką	Fedorko	subst:sg:inst:m1	nazwisko	
 Fedorkę	Fedorko	subst:sg:acc:m1	nazwisko	
 Fedorki	Fedorko	depr:pl:nom.acc.voc:m2	nazwisko	
+Fedorki	Fedorko	subst:sg:gen:m1	nazwisko	
 Fedorko	Fedorko	subst:sg:nom:m1	nazwisko	
 Fedorko	Fedorko	subst:sg:voc:m1	nazwisko	
 Fedorkom	Fedorko	subst:pl:dat:m1	nazwisko	
@@ -561,6 +563,7 @@ Feleszkami	Feleszko	subst:pl:inst:m1	nazwisko
 Feleszką	Feleszko	subst:sg:inst:m1	nazwisko	
 Feleszkę	Feleszko	subst:sg:acc:m1	nazwisko	
 Feleszki	Feleszko	depr:pl:nom.acc.voc:m2	nazwisko	
+Feleszki	Feleszko	subst:sg:gen:m1	nazwisko	
 Feleszko	Feleszko	subst:sg:nom:m1	nazwisko	
 Feleszko	Feleszko	subst:sg:voc:m1	nazwisko	
 Feleszkom	Feleszko	subst:pl:dat:m1	nazwisko	
@@ -789,6 +792,7 @@ Ferreirom	Ferreira	subst:pl:dat:m1	nazwisko
 Ferreirowie	Ferreira	subst:pl:nom.voc:m1	nazwisko	
 Ferreirów	Ferreira	subst:pl:gen.acc:m1	nazwisko	
 Ferreiry	Ferreira	depr:pl:nom.acc.voc:m2	nazwisko	
+Ferreiry	Ferreira	subst:sg:gen:m1	nazwisko	
 Ferreirze	Ferreira	subst:sg:dat.loc:m1	nazwisko	
 Festusach	Festus	subst:pl:loc:m1	imię	
 Festusa	Festus	subst:sg:gen.acc:m1	imię	
@@ -962,6 +966,7 @@ Fignom	Figna	subst:pl:dat:m1	nazwisko
 Fignowie	Figna	subst:pl:nom.voc:m1	nazwisko	
 Fignów	Figna	subst:pl:gen.acc:m1	nazwisko	
 Figny	Figna	depr:pl:nom.acc.voc:m2	nazwisko	
+Figny	Figna	subst:sg:gen:m1	nazwisko	
 Figurach	Figura	subst:pl:loc:m1	nazwisko	
 Figura	Figura	subst:sg:nom:m1	nazwisko	
 Figurami	Figura	subst:pl:inst:m1	nazwisko	
@@ -972,6 +977,7 @@ Figurom	Figura	subst:pl:dat:m1	nazwisko
 Figurowie	Figura	subst:pl:nom.voc:m1	nazwisko	
 Figurów	Figura	subst:pl:gen.acc:m1	nazwisko	
 Figury	Figura	depr:pl:nom.acc.voc:m2	nazwisko	
+Figury	Figura	subst:sg:gen:m1	nazwisko	
 Figurze	Figura	subst:sg:dat.loc:m1	nazwisko	
 Figurska	Figurska	subst:sg:nom:f	nazwisko	
 Figurska	Figurska	subst:sg:voc:f	nazwisko	
@@ -1324,6 +1330,7 @@ Firkami	Firko	subst:pl:inst:m1	nazwisko
 Firką	Firko	subst:sg:inst:m1	nazwisko	
 Firkę	Firko	subst:sg:acc:m1	nazwisko	
 Firki	Firko	depr:pl:nom.acc.voc:m2	nazwisko	
+Firki	Firko	subst:sg:gen:m1	nazwisko	
 Firko	Firko	subst:sg:nom:m1	nazwisko	
 Firko	Firko	subst:sg:voc:m1	nazwisko	
 Firkom	Firko	subst:pl:dat:m1	nazwisko	
@@ -1784,6 +1791,7 @@ Fondom	Fonda	subst:pl:dat:m1	nazwisko
 Fondowie	Fonda	subst:pl:nom.voc:m1	nazwisko	
 Fondów	Fonda	subst:pl:gen.acc:m1	nazwisko	
 Fondy	Fonda	depr:pl:nom.acc.voc:m2	nazwisko	
+Fondy	Fonda	subst:sg:gen:m1	nazwisko	
 Fondzie	Fonda	subst:sg:dat.loc:m1	nazwisko	
 Fonsecach	Fonseca	subst:pl:loc:m1	nazwisko	
 Fonseca	Fonseca	subst:sg:nom:m1	nazwisko	
@@ -1796,6 +1804,7 @@ Fonsecom	Fonseca	subst:pl:dat:m1	nazwisko
 Fonsecowie	Fonseca	subst:pl:nom.voc:m1	nazwisko	
 Fonseców	Fonseca	subst:pl:gen.acc:m1	nazwisko	
 Fonseki	Fonseca	depr:pl:nom.acc.voc:m2	nazwisko	
+Fonseki	Fonseca	subst:sg:gen:m1	nazwisko	
 Fonsikach	Fonsik	subst:pl:loc:m1	imię	
 Fonsika	Fonsik	subst:sg:gen.acc:m1	imię	
 Fonsikami	Fonsik	subst:pl:inst:m1	imię	
@@ -2414,6 +2423,7 @@ Fredrom	Fredro	subst:pl:dat:m1	nazwisko
 Fredrowie	Fredro	subst:pl:nom.voc:m1	nazwisko	
 Fredrów	Fredro	subst:pl:gen.acc:m1	nazwisko	
 Fredry	Fredro	depr:pl:nom.acc.voc:m2	nazwisko	
+Fredry	Fredro	subst:sg:gen:m1	nazwisko	
 Fredrze	Fredro	subst:sg:dat.loc:m1	nazwisko	
 Fredziach	Fredzio	subst:pl:loc:m1	imię	
 Fredzia	Fredzio	subst:sg:gen.acc:m1	imię	
@@ -2511,6 +2521,7 @@ Fritzom	Fritza	subst:pl:dat:m1	nazwisko
 Fritzowie	Fritza	subst:pl:nom.voc:m1	nazwisko	
 Fritzów	Fritza	subst:pl:gen.acc:m1	nazwisko	
 Fritzy	Fritza	subst:sg:dat.loc:m1	nazwisko	
+Fritzy	Fritza	subst:sg:gen:m1	nazwisko	
 Froelichach	Froelich	subst:pl:loc:m1	nazwisko	
 Froelicha	Froelich	subst:sg:gen.acc:m1	nazwisko	
 Froelichami	Froelich	subst:pl:inst:m1	nazwisko	

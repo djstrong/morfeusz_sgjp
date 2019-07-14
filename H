@@ -70,6 +70,7 @@ Hadynom	Hadyna	subst:pl:dat:m1	nazwisko
 Hadynowie	Hadyna	subst:pl:nom.voc:m1	nazwisko	
 Hadynów	Hadyna	subst:pl:gen.acc:m1	nazwisko	
 Hadyny	Hadyna	depr:pl:nom.acc.voc:m2	nazwisko	
+Hadyny	Hadyna	subst:sg:gen:m1	nazwisko	
 Hadziaczach	Hadziacz	subst:pl:loc:m3	nazwa geograficzna	
 Hadziacza	Hadziacz	subst:sg:gen:m3	nazwa geograficzna	
 Hadziaczami	Hadziacz	subst:pl:inst:m3	nazwa geograficzna	
@@ -512,6 +513,7 @@ Hańczom	Hańcza:s2	subst:pl:dat:m1	nazwisko
 Hańczowie	Hańcza:s2	subst:pl:nom.voc:m1	nazwisko	
 Hańczów	Hańcza:s2	subst:pl:gen.acc:m1	nazwisko	
 Hańczy	Hańcza:s2	subst:sg:dat.loc:m1	nazwisko	
+Hańczy	Hańcza:s2	subst:sg:gen:m1	nazwisko	
 Hańscy	Hański	subst:pl:nom.voc:m1	nazwisko	
 Hańskich	Hański	subst:pl:gen.acc:m1	nazwisko	
 Hańskich	Hański	subst:pl:loc:m1	nazwisko	
@@ -1401,6 +1403,7 @@ Heraklido	Heraklida	subst:sg:voc:m1	nazwa członka rodu
 Heraklidom	Heraklida	subst:pl:dat:m1	nazwa członka rodu	
 Heraklidów	Heraklida	subst:pl:gen.acc:m1	nazwa członka rodu	
 Heraklidy	Heraklida	depr:pl:nom.acc.voc:m2	nazwa członka rodu	
+Heraklidy	Heraklida	subst:sg:gen:m1	nazwa członka rodu	
 Heraklidzie	Heraklida	subst:sg:dat.loc:m1	nazwa członka rodu	
 Heraklidzi	Heraklida	subst:pl:nom.voc:m1	nazwa członka rodu	
 Herakliuszach	Herakliusz	subst:pl:loc:m1	imię	
@@ -1740,6 +1743,7 @@ Hetyto	Hetyta	subst:sg:voc:m1	nazwa pospolita	etn.
 Hetytom	Hetyta	subst:pl:dat:m1	nazwa pospolita	etn.
 Hetytów	Hetyta	subst:pl:gen.acc:m1	nazwa pospolita	etn.
 Hetyty	Hetyta	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+Hetyty	Hetyta	subst:sg:gen:m1	nazwa pospolita	etn.
 Heweliuszach	Heweliusz	subst:pl:loc:m1	nazwisko	
 Heweliusza	Heweliusz	subst:sg:gen.acc:m1	nazwisko	
 Heweliuszami	Heweliusz	subst:pl:inst:m1	nazwisko	
@@ -2236,6 +2240,7 @@ Hłaskami	Hłasko	subst:pl:inst:m1	nazwisko
 Hłaską	Hłasko	subst:sg:inst:m1	nazwisko	
 Hłaskę	Hłasko	subst:sg:acc:m1	nazwisko	
 Hłaski	Hłasko	depr:pl:nom.acc.voc:m2	nazwisko	
+Hłaski	Hłasko	subst:sg:gen:m1	nazwisko	
 Hłasko	Hłasko	subst:sg:nom:m1	nazwisko	
 Hłasko	Hłasko	subst:sg:voc:m1	nazwisko	
 Hłaskom	Hłasko	subst:pl:dat:m1	nazwisko	
@@ -2857,6 +2862,7 @@ Horzycom	Horzyca	subst:pl:dat:m1	nazwisko
 Horzycowie	Horzyca	subst:pl:nom.voc:m1	nazwisko	
 Horzyców	Horzyca	subst:pl:gen.acc:m1	nazwisko	
 Horzycy	Horzyca	subst:sg:dat.loc:m1	nazwisko	
+Horzycy	Horzyca	subst:sg:gen:m1	nazwisko	
 Hotentocie	Hotentot	subst:sg:loc:m1	nazwa pospolita	
 Hotentocie	Hotentot	subst:sg:voc:m1	nazwa pospolita	
 Hotentoci	Hotentot	subst:pl:nom.voc:m1	nazwa pospolita	
