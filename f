@@ -60392,18 +60392,18 @@ furunkułowi	furunkuł	subst:sg:dat:m3	nazwa pospolita
 furunkułów	furunkuł	subst:pl:gen:m3	nazwa pospolita	
 furunkułu	furunkuł	subst:sg:gen:m3	nazwa pospolita	
 furunkuły	furunkuł	subst:pl:nom.acc.voc:m3	nazwa pospolita	
-fusach	fus	subst:pl:loc:m3	nazwa pospolita	przest.
-fusa	fus	subst:sg:gen:m3	nazwa pospolita	przest.
-fusami	fus	subst:pl:inst:m3	nazwa pospolita	przest.
-fusem	fus	subst:sg:inst:m3	nazwa pospolita	przest.
-fus	fus	subst:sg:nom.acc:m3	nazwa pospolita	przest.
-fusie	fus	subst:sg:loc:m3	nazwa pospolita	przest.
-fusie	fus	subst:sg:voc:m3	nazwa pospolita	przest.
-fusom	fus	subst:pl:dat:m3	nazwa pospolita	przest.
-fusowi	fus	subst:sg:dat:m3	nazwa pospolita	przest.
-fusów	fus	subst:pl:gen:m3	nazwa pospolita	przest.
-fusu	fus	subst:sg:gen:m3	nazwa pospolita	przest.
-fusy	fus	subst:pl:nom.acc.voc:m3	nazwa pospolita	przest.
+fusach	fus	subst:pl:loc:m3	nazwa pospolita	daw.
+fusa	fus	subst:sg:gen:m3	nazwa pospolita	daw.
+fusami	fus	subst:pl:inst:m3	nazwa pospolita	daw.
+fusem	fus	subst:sg:inst:m3	nazwa pospolita	daw.
+fus	fus	subst:sg:nom.acc:m3	nazwa pospolita	daw.
+fusie	fus	subst:sg:loc:m3	nazwa pospolita	daw.
+fusie	fus	subst:sg:voc:m3	nazwa pospolita	daw.
+fusom	fus	subst:pl:dat:m3	nazwa pospolita	daw.
+fusowi	fus	subst:sg:dat:m3	nazwa pospolita	daw.
+fusów	fus	subst:pl:gen:m3	nazwa pospolita	daw.
+fusu	fus	subst:sg:gen:m3	nazwa pospolita	daw.
+fusy	fus	subst:pl:nom.acc.voc:m3	nazwa pospolita	daw.
 fusion	fusion	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 fusknechcie	fusknecht	subst:sg:loc:m1	nazwa pospolita	
 fusknechcie	fusknecht	subst:sg:voc:m1	nazwa pospolita	
