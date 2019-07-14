@@ -3110,6 +3110,7 @@ jako	jaka	subst:sg:voc:f	nazwa pospolita	gwar.
 jakom	jaka	subst:pl:dat:f	nazwa pospolita	gwar.
 jakby	jakby:c	comp		
 jakby	jakby:q	qub		
+jak	jak:c	comp		
 jak	jak:d	adv:pos		
 jacy	jaki	adj:pl:nom.voc:m1:pos		
 jaka	jaki	adj:sg:nom.voc:f:pos		
