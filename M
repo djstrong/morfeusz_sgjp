@@ -1,5 +1,6 @@
 Mk	Ewangelia_świętego_Marka	brev:npun		
 Mt	Ewangelia_świętego_Mateusza	brev:npun		
+Mch	Księga_Machabejska	brev:npun		
 Ml	Księga_Malachiasza	brev:npun		
 Mal	Księga_Malachiasza	brev:npun		
 Mdr	Księga_Mądrości	brev:npun		

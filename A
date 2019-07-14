@@ -6225,6 +6225,8 @@ Apii	Apia	subst:sg:loc:f	nazwa geograficzna
 Apij	Apia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Apio	Apia	subst:sg:voc:f	nazwa geograficzna	
 Apiom	Apia	subst:pl:dat:f	nazwa geograficzna	
+Apok	Apokalipsa_świętego_Jana	brev:pun		
+Ap	Apokalipsa_świętego_Jana	brev:npun		
 Apolinariusza	Apolinariusz	subst:sg:acc:m1	imię	
 Apolinariusza	Apolinariusz	subst:sg:gen:m1	imię	
 Apolinariuszach	Apolinariusz	subst:pl:loc:m1	imię	

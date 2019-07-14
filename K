@@ -14606,9 +14606,12 @@ Książków	Książek	subst:pl:gen:m1	nazwisko
 Książku	Książek	subst:sg:loc:m1	nazwisko	
 Książku	Książek	subst:sg:voc:m1	nazwisko	
 Kpł	Księga_Kapłańska	brev:npun		
-Kazn	Księga_Kaznodziei_(Koheleta)	brev:pun		
-Koh	Księga_Koheleta_(Kaznodziei)	brev:npun		
+Kazn	Księga_Kaznodziei	brev:pun		
+Koh	Księga_Koheleta	brev:npun		
+Kron	Księga_Kronik	brev:pun		
 Krn	Księga_Kronik	brev:npun		
+Krl	Księga_Królów	brev:npun		
+Kl	Księga_Królów	brev:npun		
 Księżakach	Księżak:s1	subst:pl:loc:m1	nazwisko	
 Księżaka	Księżak:s1	subst:sg:acc:m1	nazwisko	
 Księżaka	Księżak:s1	subst:sg:gen:m1	nazwisko	
@@ -16870,3 +16873,5 @@ Kyzył-Kumy	Kyzył-Kum	subst:pl:acc:m3	nazwa geograficzna
 Kyzył-Kumy	Kyzył-Kum	subst:pl:nom:m3	nazwa geograficzna	
 Kyzył-Kumy	Kyzył-Kum	subst:pl:voc:m3	nazwa geograficzna	
 Kol	List_do_Kolosan	brev:npun		
+Kor	List_do_Koryntian	brev:npun		
+Ko	List_do_Koryntian	brev:npun		

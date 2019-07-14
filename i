@@ -20921,6 +20921,7 @@ infrastruktury	infrastruktura	subst:pl:voc:f	nazwa pospolita
 infrastruktury	infrastruktura	subst:sg:gen:f	nazwa pospolita	
 infrastrukturze	infrastruktura	subst:sg:dat:f	nazwa pospolita	
 infrastrukturze	infrastruktura	subst:sg:loc:f	nazwa pospolita	
+infrastrukturalnie	infrastrukturalnie	adv:pos		
 infrastrukturalnościach	infrastrukturalność	subst:pl:loc:f	nazwa pospolita	
 infrastrukturalnościami	infrastrukturalność	subst:pl:inst:f	nazwa pospolita	
 infrastrukturalnością	infrastrukturalność	subst:sg:inst:f	nazwa pospolita	

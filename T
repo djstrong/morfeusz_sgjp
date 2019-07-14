@@ -1,5 +1,7 @@
 THIS SOFTWARE IS PROVIDED BY COPYRIGHT HOLDERS “AS IS” AND ANY EXPRESS
 THE POSSIBILITY OF SUCH DAMAGE.
+Tes	List_do_Tesaloniczan	brev:npun		
+Tm	List_do_Tymoteusza	brev:npun		
 Tt	List_do_Tytusa	brev:npun		
 TAB-ach	TAB	subst:pl:loc:m3	nazwa pospolita	
 TAB-ami	TAB	subst:pl:inst:m3	nazwa pospolita	

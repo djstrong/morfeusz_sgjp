@@ -1,4 +1,3 @@
-h.c	(doktorat)_honoris_causa	brev:pun		
 habanerach	habanera	subst:pl:loc:f	nazwa pospolita	chor.
 habanera	habanera	subst:sg:nom:f	nazwa pospolita	chor.
 habanerami	habanera	subst:pl:inst:f	nazwa pospolita	chor.
@@ -38646,6 +38645,7 @@ honoraryjnym	honoraryjny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 honoraryjnym	honoraryjny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 honoraryjnym	honoraryjny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 honoraryjnymi	honoraryjny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+h.c	honoris_causa	brev:pun		
 honornie	honornie	adv:pos		gwar.
 honornościach	honorność	subst:pl:loc:f	nazwa pospolita	gwar.
 honornościami	honorność	subst:pl:inst:f	nazwa pospolita	gwar.

@@ -6758,7 +6758,7 @@ Dziedziców	Dziedzic	subst:pl:acc:m1	nazwisko
 Dziedziców	Dziedzic	subst:pl:gen:m1	nazwisko	
 Dziedzicu	Dziedzic	subst:sg:loc:m1	nazwisko	
 Dziedzicu	Dziedzic	subst:sg:voc:m1	nazwisko	
-Dz	Dzieje_(Apostolskie)	brev:npun		
+Dz	Dzieje	brev:npun		
 Dz.U	Dziennik_Ustaw	brev:pun		
 Dziersławach	Dziersław	subst:pl:loc:m1	imię	
 Dziersława	Dziersław	subst:sg:acc:m1	imię	

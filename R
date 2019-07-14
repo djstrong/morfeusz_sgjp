@@ -4234,6 +4234,22 @@ Rokietnic	Rokietnica	subst:pl:gen:f	nazwa geograficzna
 Rokietnicy	Rokietnica	subst:sg:dat:f	nazwa geograficzna	
 Rokietnicy	Rokietnica	subst:sg:gen:f	nazwa geograficzna	
 Rokietnicy	Rokietnica	subst:sg:loc:f	nazwa geograficzna	
+Rokicie	Rokita	subst:sg:dat:m1	nazwisko	
+Rokicie	Rokita	subst:sg:loc:m1	nazwisko	
+Rokitach	Rokita	subst:pl:loc:m1	nazwisko	
+Rokitami	Rokita	subst:pl:inst:m1	nazwisko	
+Rokita	Rokita	subst:sg:nom:m1	nazwisko	
+Rokitą	Rokita	subst:sg:inst:m1	nazwisko	
+Rokitę	Rokita	subst:sg:acc:m1	nazwisko	
+Rokitom	Rokita	subst:pl:dat:m1	nazwisko	
+Rokito	Rokita	subst:sg:voc:m1	nazwisko	
+Rokitowie	Rokita	subst:pl:nom:m1	nazwisko	
+Rokitowie	Rokita	subst:pl:voc:m1	nazwisko	
+Rokitów	Rokita	subst:pl:acc:m1	nazwisko	
+Rokitów	Rokita	subst:pl:gen:m1	nazwisko	
+Rokity	Rokita	depr:pl:nom:m2	nazwisko	
+Rokity	Rokita	depr:pl:voc:m2	nazwisko	
+Rokity	Rokita	subst:sg:gen:m1	nazwisko	
 Rokitek	Rokitki	subst:pl:gen:p2	nazwa geograficzna	rzad.
 Rokitek	Rokitki	subst:pl:gen:p3	nazwa geograficzna	
 Rokitkach	Rokitki	subst:pl:loc:p2	nazwa geograficzna	rzad.
@@ -7354,6 +7370,22 @@ Rydzów	Rydz	subst:pl:gen:m1	nazwisko
 Rydz	Rydz	subst:sg:nom:m1	nazwisko	
 Rydzu	Rydz	subst:sg:loc:m1	nazwisko	
 Rydzu	Rydz	subst:sg:voc:m1	nazwisko	
+Rydzykach	Rydzyk	subst:pl:loc:m1	nazwisko	
+Rydzykami	Rydzyk	subst:pl:inst:m1	nazwisko	
+Rydzyka	Rydzyk	subst:sg:acc:m1	nazwisko	
+Rydzyka	Rydzyk	subst:sg:gen:m1	nazwisko	
+Rydzykiem	Rydzyk	subst:sg:inst:m1	nazwisko	
+Rydzyki	Rydzyk	depr:pl:nom:m2	nazwisko	
+Rydzyki	Rydzyk	depr:pl:voc:m2	nazwisko	
+Rydzykom	Rydzyk	subst:pl:dat:m1	nazwisko	
+Rydzykowie	Rydzyk	subst:pl:nom:m1	nazwisko	
+Rydzykowie	Rydzyk	subst:pl:voc:m1	nazwisko	
+Rydzykowi	Rydzyk	subst:sg:dat:m1	nazwisko	
+Rydzyków	Rydzyk	subst:pl:acc:m1	nazwisko	
+Rydzyków	Rydzyk	subst:pl:gen:m1	nazwisko	
+Rydzyk	Rydzyk	subst:sg:nom:m1	nazwisko	
+Rydzyku	Rydzyk	subst:sg:loc:m1	nazwisko	
+Rydzyku	Rydzyk	subst:sg:voc:m1	nazwisko	
 Ryfce	Ryfka	subst:sg:dat:f	imię	
 Ryfce	Ryfka	subst:sg:loc:f	imię	
 Ryfek	Ryfka	subst:pl:gen:f	imię	

@@ -1,7 +1,9 @@
 Pwt	Księga_Powtórzonego_Prawa	brev:npun		
-Pr	Księga_Przysłów_(Przypowieści_Salomona)	brev:pun		
-Prz	Księga_Przysłów_(Przypowieści_Salomona)	brev:npun		
+Pr	Księga_Przysłów	brev:pun		
+Prz	Księga_Przysłów	brev:npun		
 Ps	Księga_Psalmów	brev:npun		
+P	List_świętego_Piotra	brev:npun		
+Pt	List_świętego_Piotra	brev:npun		
 PLN	nowy_polski_złoty	brev:npun		
 PA	PA	subst:pl:acc:f	nazwa instytucji	
 PA	PA	subst:pl:acc:n2	nazwa instytucji	
