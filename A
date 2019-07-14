@@ -9014,8 +9014,22 @@ Awiwy	Awiw	subst:pl:nom:m3	człon nazwy geograficznej
 Awiwy	Awiw	subst:pl:voc:m3	człon nazwy geograficznej	
 AWS-ach	AWS	subst:pl:loc:m3	nazwa organizacji	
 AWS-ami	AWS	subst:pl:inst:m3	nazwa organizacji	
+AWS	AWS	subst:pl:acc:f	nazwa organizacji	
+AWS	AWS	subst:pl:dat:f	nazwa organizacji	
+AWS	AWS	subst:pl:gen:f	nazwa organizacji	
+AWS	AWS	subst:pl:inst:f	nazwa organizacji	
+AWS	AWS	subst:pl:loc:f	nazwa organizacji	
+AWS	AWS	subst:pl:nom:f	nazwa organizacji	
+AWS	AWS	subst:pl:voc:f	nazwa organizacji	
+AWS	AWS	subst:sg:acc:f	nazwa organizacji	
 AWS	AWS	subst:sg:acc:m3	nazwa organizacji	
+AWS	AWS	subst:sg:dat:f	nazwa organizacji	
+AWS	AWS	subst:sg:gen:f	nazwa organizacji	
+AWS	AWS	subst:sg:inst:f	nazwa organizacji	
+AWS	AWS	subst:sg:loc:f	nazwa organizacji	
+AWS	AWS	subst:sg:nom:f	nazwa organizacji	
 AWS	AWS	subst:sg:nom:m3	nazwa organizacji	
+AWS	AWS	subst:sg:voc:f	nazwa organizacji	
 AWS-em	AWS	subst:sg:inst:m3	nazwa organizacji	
 AWS-ie	AWS	subst:sg:loc:m3	nazwa organizacji	
 AWS-ie	AWS	subst:sg:voc:m3	nazwa organizacji	
