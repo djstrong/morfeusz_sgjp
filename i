@@ -11836,6 +11836,7 @@ imperialiście	imperialista	subst:sg:dat:m1	nazwa pospolita
 imperialiście	imperialista	subst:sg:loc:m1	nazwa pospolita	
 imperialiści	imperialista	subst:pl:nom:m1	nazwa pospolita	
 imperialiści	imperialista	subst:pl:voc:m1	nazwa pospolita	
+imperialistycznie	imperialistycznie	adv:pos		
 imperialistycznościach	imperialistyczność	subst:pl:loc:f	nazwa pospolita	
 imperialistycznościami	imperialistyczność	subst:pl:inst:f	nazwa pospolita	
 imperialistycznością	imperialistyczność	subst:sg:inst:f	nazwa pospolita	
@@ -36715,6 +36716,7 @@ introwertyczki	introwertyczka	subst:pl:voc:f	nazwa pospolita
 introwertyczki	introwertyczka	subst:sg:gen:f	nazwa pospolita	
 introwertyczko	introwertyczka	subst:sg:voc:f	nazwa pospolita	
 introwertyczkom	introwertyczka	subst:pl:dat:f	nazwa pospolita	
+introwertycznie	introwertycznie	adv:pos		
 introwertycznościach	introwertyczność	subst:pl:loc:f	nazwa pospolita	
 introwertycznościami	introwertyczność	subst:pl:inst:f	nazwa pospolita	
 introwertycznością	introwertyczność	subst:sg:inst:f	nazwa pospolita	
@@ -47446,5 +47448,5 @@ iż	iż	comp
 iżby	iżby	comp		
 iże	iże	comp		przest.
 ich	on:o	ppron3:pl:acc:m1:ter:akc.nakc:npraep		
-ich	on:o	ppron3:pl:gen:_:ter:akc.nakc:npraep		
-im	on:o	ppron3:pl:dat:_:ter:akc.nakc:npraep		
+ich	on:o	ppron3:pl:gen:m1.m2.m3.f.n:ter:akc.nakc:npraep		
+im	on:o	ppron3:pl:dat:m1.m2.m3.f.n:ter:akc.nakc:npraep		
