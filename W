@@ -19431,16 +19431,28 @@ Węgrowów	Węgrów	subst:pl:gen:m3	nazwa geograficzna
 Węgrowu	Węgrów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
 Węgrowy	Węgrów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Węgrów	Węgrów	subst:sg:nom.acc:m3	nazwa geograficzna	
-Węgier	Węgry	subst:pl:gen:n:pt	nazwa geograficzna	
-Węgier	Węgry	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
-Węgrami	Węgry	subst:pl:inst:n:pt	nazwa geograficzna	
-Węgrami	Węgry	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Węgrom	Węgry	subst:pl:dat:n:pt	nazwa geograficzna	
-Węgrom	Węgry	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
-Węgry	Węgry	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
-Węgry	Węgry	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
-Węgrzech	Węgry	subst:pl:loc:n:pt	nazwa geograficzna	
-Węgrzech	Węgry	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Węgier	Węgry:s1	subst:pl:gen:n:pt	nazwa geograficzna	
+Węgier	Węgry:s1	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Węgrami	Węgry:s1	subst:pl:inst:n:pt	nazwa geograficzna	
+Węgrami	Węgry:s1	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Węgrom	Węgry:s1	subst:pl:dat:n:pt	nazwa geograficzna	
+Węgrom	Węgry:s1	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Węgry	Węgry:s1	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Węgry	Węgry:s1	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Węgrzech	Węgry:s1	subst:pl:loc:n:pt	nazwa geograficzna	
+Węgrzech	Węgry:s1	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Węgier	Węgry:s2	subst:pl:gen:n:pt	nazwa geograficzna	
+Węgier	Węgry:s2	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Węgrach	Węgry:s2	subst:pl:loc:n:pt	nazwa geograficzna	
+Węgrach	Węgry:s2	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Węgrami	Węgry:s2	subst:pl:inst:n:pt	nazwa geograficzna	
+Węgrami	Węgry:s2	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Węgrom	Węgry:s2	subst:pl:dat:n:pt	nazwa geograficzna	
+Węgrom	Węgry:s2	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Węgrów	Węgry:s2	subst:pl:gen:n:pt	nazwa geograficzna	
+Węgrów	Węgry:s2	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Węgry	Węgry:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Węgry	Węgry:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Węgrzcach	Węgrzce	subst:pl:loc:n:pt	nazwa geograficzna	
 Węgrzcach	Węgrzce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Węgrzcami	Węgrzce	subst:pl:inst:n:pt	nazwa geograficzna	
@@ -44084,6 +44096,8 @@ Woźniki	Woźniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna
 Woźniki	Woźniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Woźnikom	Woźniki	subst:pl:dat:n:pt	nazwa geograficzna	
 Woźnikom	Woźniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Woźników	Woźniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Woźników	Woźniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Woźnik	Woźniki	subst:pl:gen:n:pt	nazwa geograficzna	
 Woźnik	Woźniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Woźnikowska	Woźnikowska	subst:sg:nom:f	nazwisko	
@@ -50613,16 +50627,26 @@ Wysoglądy	Wysogląd:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Wysoglądzie	Wysogląd:s1	subst:sg:loc:m1	nazwisko	
 Wysoglądzie	Wysogląd:s1	subst:sg:voc:m1	nazwisko	
 Wysogląd	Wysogląd:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Wysokich	Wysokie	subst:pl:gen:n:ncol	nazwa geograficzna	
-Wysokich	Wysokie	subst:pl:loc:n:ncol	nazwa geograficzna	
-Wysokiego	Wysokie	subst:sg:gen:n:ncol	nazwa geograficzna	
-Wysokiemu	Wysokie	subst:sg:dat:n:ncol	nazwa geograficzna	
-Wysokiem	Wysokie	subst:sg:inst:n:ncol	nazwa geograficzna	
-Wysokiem	Wysokie	subst:sg:loc:n:ncol	nazwa geograficzna	
-Wysokie	Wysokie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
-Wysokie	Wysokie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
-Wysokimi	Wysokie	subst:pl:inst:n:ncol	nazwa geograficzna	
-Wysokim	Wysokie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Wysokich	Wysokie:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+Wysokich	Wysokie:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wysokiego	Wysokie:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wysokiemu	Wysokie:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wysokiem	Wysokie:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wysokiem	Wysokie:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wysokie	Wysokie:s1	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Wysokie	Wysokie:s1	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Wysokimi	Wysokie:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wysokim	Wysokie:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+Wysokich	Wysokie:s2	subst:pl:gen:n:pt	nazwa geograficzna	
+Wysokich	Wysokie:s2	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Wysokich	Wysokie:s2	subst:pl:loc:n:pt	nazwa geograficzna	
+Wysokich	Wysokie:s2	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wysokie	Wysokie:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Wysokie	Wysokie:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Wysokimi	Wysokie:s2	subst:pl:inst:n:pt	nazwa geograficzna	
+Wysokimi	Wysokie:s2	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wysokim	Wysokie:s2	subst:pl:dat:n:pt	nazwa geograficzna	
+Wysokim	Wysokie:s2	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Wysokińska	Wysokińska	subst:sg:nom:f	nazwisko	
 Wysokińska	Wysokińska	subst:sg:voc:f	nazwisko	
 Wysokińską	Wysokińska	subst:sg:acc:f	nazwisko	

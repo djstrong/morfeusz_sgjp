@@ -65142,13 +65142,13 @@ Przasnyski	Przasnyski	subst:sg:nom:m1	nazwisko
 Przasnyski	Przasnyski	subst:sg:voc:m1	nazwisko	
 Przasnyszach	Przasnysz	subst:pl:loc:m3	nazwa geograficzna	
 Przasnyszami	Przasnysz	subst:pl:inst:m3	nazwa geograficzna	
+Przasnysza	Przasnysz	subst:sg:gen:m3	nazwa geograficzna	
 Przasnyszem	Przasnysz	subst:sg:inst:m3	nazwa geograficzna	
 Przasnysze	Przasnysz	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Przasnyszom	Przasnysz	subst:pl:dat:m3	nazwa geograficzna	
 Przasnyszowi	Przasnysz	subst:sg:dat:m3	nazwa geograficzna	
 Przasnyszów	Przasnysz	subst:pl:gen:m3	nazwa geograficzna	
 Przasnysz	Przasnysz	subst:sg:nom.acc:m3	nazwa geograficzna	
-Przasnyszu	Przasnysz	subst:sg:gen:m3	nazwa geograficzna	
 Przasnyszu	Przasnysz	subst:sg:loc:m3	nazwa geograficzna	
 Przasnyszu	Przasnysz	subst:sg:voc:m3	nazwa geograficzna	
 Przasnyszy	Przasnysz	subst:pl:gen:m3	nazwa geograficzna	

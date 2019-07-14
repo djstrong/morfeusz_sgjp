@@ -24011,8 +24011,10 @@ Głuchołazach	Głuchołazy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Głuchołazami	Głuchołazy	subst:pl:inst:n:pt	nazwa geograficzna	
 Głuchołazami	Głuchołazy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
 Głuchołaz	Głuchołazy	subst:pl:gen:n:pt	nazwa geograficzna	
+Głuchołaz	Głuchołazy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Głuchołazom	Głuchołazy	subst:pl:dat:n:pt	nazwa geograficzna	
 Głuchołazom	Głuchołazy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Głuchołazów	Głuchołazy	subst:pl:gen:n:pt	nazwa geograficzna	
 Głuchołazów	Głuchołazy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Głuchołazy	Głuchołazy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
 Głuchołazy	Głuchołazy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.

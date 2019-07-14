@@ -27536,16 +27536,26 @@ Bielskim	Bielski	subst:pl:dat:m1	nazwisko
 Bielskim	Bielski	subst:sg:inst:m1	nazwisko	
 Bielskim	Bielski	subst:sg:loc:m1	nazwisko	
 Bielskimi	Bielski	subst:pl:inst:m1	nazwisko	
-Bielskich	Bielskie	subst:pl:gen:n:ncol	nazwa geograficzna	
-Bielskich	Bielskie	subst:pl:loc:n:ncol	nazwa geograficzna	
-Bielskie	Bielskie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
-Bielskie	Bielskie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
-Bielskiego	Bielskie	subst:sg:gen:n:ncol	nazwa geograficzna	
-Bielskiem	Bielskie	subst:sg:inst:n:ncol	nazwa geograficzna	
-Bielskiem	Bielskie	subst:sg:loc:n:ncol	nazwa geograficzna	
-Bielskiemu	Bielskie	subst:sg:dat:n:ncol	nazwa geograficzna	
-Bielskim	Bielskie	subst:pl:dat:n:ncol	nazwa geograficzna	
-Bielskimi	Bielskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bielskich	Bielskie:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bielskich	Bielskie:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bielskie	Bielskie:s1	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Bielskie	Bielskie:s1	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Bielskiego	Bielskie:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bielskiem	Bielskie:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bielskiem	Bielskie:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bielskiemu	Bielskie:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bielskim	Bielskie:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bielskimi	Bielskie:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bielskich	Bielskie:s2	subst:pl:gen:n:pt	nazwa geograficzna	
+Bielskich	Bielskie:s2	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bielskich	Bielskie:s2	subst:pl:loc:n:pt	nazwa geograficzna	
+Bielskich	Bielskie:s2	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bielskie	Bielskie:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Bielskie	Bielskie:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Bielskim	Bielskie:s2	subst:pl:dat:n:pt	nazwa geograficzna	
+Bielskim	Bielskie:s2	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Bielskimi	Bielskie:s2	subst:pl:inst:n:pt	nazwa geograficzna	
+Bielskimi	Bielskie:s2	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
 Bielska	Bielsko	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
 Bielska	Bielsko	subst:sg:gen:n:ncol	nazwa geograficzna	
 Bielskach	Bielsko	subst:pl:loc:n:ncol	nazwa geograficzna	
@@ -36401,6 +36411,8 @@ Bobrowniki	Bobrowniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna
 Bobrowniki	Bobrowniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Bobrownikom	Bobrowniki	subst:pl:dat:n:pt	nazwa geograficzna	
 Bobrownikom	Bobrowniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Bobrowników	Bobrowniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Bobrowników	Bobrowniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Bobrowa	Bobrowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
 Bobrowa	Bobrowo	subst:sg:gen:n:ncol	nazwa geograficzna	
 Bobrowach	Bobrowo	subst:pl:loc:n:ncol	nazwa geograficzna	

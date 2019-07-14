@@ -13167,6 +13167,8 @@ Zdunami	Zduny	subst:pl:inst:n:pt	nazwa geograficzna
 Zdunami	Zduny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
 Zdunom	Zduny	subst:pl:dat:n:pt	nazwa geograficzna	
 Zdunom	Zduny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Zdunów	Zduny	subst:pl:gen:n:pt	nazwa geograficzna	
+Zdunów	Zduny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Zduny	Zduny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
 Zduny	Zduny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Zdun	Zduny	subst:pl:gen:n:pt	nazwa geograficzna	
@@ -21425,6 +21427,8 @@ Złotniki	Złotniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna
 Złotniki	Złotniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Złotnikom	Złotniki	subst:pl:dat:n:pt	nazwa geograficzna	
 Złotnikom	Złotniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Złotników	Złotniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Złotników	Złotniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Złotnik	Złotniki	subst:pl:gen:n:pt	nazwa geograficzna	
 Złotnik	Złotniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Złotnikach	Złotnik:s4	subst:pl:loc:m1	nazwisko	

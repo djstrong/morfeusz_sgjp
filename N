@@ -18980,7 +18980,6 @@ Nur	Nur	subst:sg:nom.acc:m3	nazwa geograficzna
 Nurom	Nur	subst:pl:dat:m3	nazwa geograficzna	
 Nurowi	Nur	subst:sg:dat:m3	nazwa geograficzna	
 Nurów	Nur	subst:pl:gen:m3	nazwa geograficzna	
-Nuru	Nur	subst:sg:gen:m3	nazwa geograficzna	
 Nury	Nur	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Nurze	Nur	subst:sg:loc:m3	nazwa geograficzna	
 Nurze	Nur	subst:sg:voc:m3	nazwa geograficzna	

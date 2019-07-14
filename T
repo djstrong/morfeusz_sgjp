@@ -451,16 +451,27 @@ Taborowskim	Taborowski	subst:sg:loc:m1	nazwisko
 Taborowski	Taborowski	subst:sg:nom:m1	nazwisko	
 Taborowski	Taborowski	subst:sg:voc:m1	nazwisko	
 Taborach	Tabor:s1	subst:pl:loc:m3	nazwa geograficzna	
+Taborach	Tabor:s1	subst:pl:loc:m3	nazwa geograficzna	rzad.
 Taborami	Tabor:s1	subst:pl:inst:m3	nazwa geograficzna	
+Taborami	Tabor:s1	subst:pl:inst:m3	nazwa geograficzna	rzad.
+Tabora	Tabor:s1	subst:sg:gen:m3	nazwa geograficzna	rzad.
 Taborem	Tabor:s1	subst:sg:inst:m3	nazwa geograficzna	
+Taborem	Tabor:s1	subst:sg:inst:m3	nazwa geograficzna	rzad.
 Taborom	Tabor:s1	subst:pl:dat:m3	nazwa geograficzna	
+Taborom	Tabor:s1	subst:pl:dat:m3	nazwa geograficzna	rzad.
 Taborowi	Tabor:s1	subst:sg:dat:m3	nazwa geograficzna	
+Taborowi	Tabor:s1	subst:sg:dat:m3	nazwa geograficzna	rzad.
 Taborów	Tabor:s1	subst:pl:gen:m3	nazwa geograficzna	
+Taborów	Tabor:s1	subst:pl:gen:m3	nazwa geograficzna	rzad.
 Tabor	Tabor:s1	subst:sg:nom.acc:m3	nazwa geograficzna	
+Tabor	Tabor:s1	subst:sg:nom.acc:m3	nazwa geograficzna	rzad.
 Taboru	Tabor:s1	subst:sg:gen:m3	nazwa geograficzna	
 Tabory	Tabor:s1	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Tabory	Tabor:s1	subst:pl:nom.acc.voc:m3	nazwa geograficzna	rzad.
 Taborze	Tabor:s1	subst:sg:loc:m3	nazwa geograficzna	
+Taborze	Tabor:s1	subst:sg:loc:m3	nazwa geograficzna	rzad.
 Taborze	Tabor:s1	subst:sg:voc:m3	nazwa geograficzna	
+Taborze	Tabor:s1	subst:sg:voc:m3	nazwa geograficzna	rzad.
 Taborach	Tabor:s3	subst:pl:loc:m1	nazwisko	
 Taborami	Tabor:s3	subst:pl:inst:m1	nazwisko	
 Tabora	Tabor:s3	subst:sg:gen.acc:m1	nazwisko	
@@ -4209,17 +4220,27 @@ Tarnickim	Tarnicki	subst:sg:loc:m1	nazwisko
 Tarnicki	Tarnicki	subst:sg:nom:m1	nazwisko	
 Tarnicki	Tarnicki	subst:sg:voc:m1	nazwisko	
 Tarnobrzegach	Tarnobrzeg	subst:pl:loc:m3	nazwa geograficzna	
+Tarnobrzegach	Tarnobrzeg	subst:pl:loc:m3	nazwa geograficzna	rzad.
 Tarnobrzegami	Tarnobrzeg	subst:pl:inst:m3	nazwa geograficzna	
-Tarnobrzega	Tarnobrzeg	subst:sg:gen:m3	nazwa geograficzna	
+Tarnobrzegami	Tarnobrzeg	subst:pl:inst:m3	nazwa geograficzna	rzad.
+Tarnobrzega	Tarnobrzeg	subst:sg:gen:m3	nazwa geograficzna	rzad.
 Tarnobrzegiem	Tarnobrzeg	subst:sg:inst:m3	nazwa geograficzna	
+Tarnobrzegiem	Tarnobrzeg	subst:sg:inst:m3	nazwa geograficzna	rzad.
 Tarnobrzegi	Tarnobrzeg	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Tarnobrzegi	Tarnobrzeg	subst:pl:nom.acc.voc:m3	nazwa geograficzna	rzad.
 Tarnobrzegom	Tarnobrzeg	subst:pl:dat:m3	nazwa geograficzna	
+Tarnobrzegom	Tarnobrzeg	subst:pl:dat:m3	nazwa geograficzna	rzad.
 Tarnobrzegowi	Tarnobrzeg	subst:sg:dat:m3	nazwa geograficzna	
+Tarnobrzegowi	Tarnobrzeg	subst:sg:dat:m3	nazwa geograficzna	rzad.
 Tarnobrzegów	Tarnobrzeg	subst:pl:gen:m3	nazwa geograficzna	
+Tarnobrzegów	Tarnobrzeg	subst:pl:gen:m3	nazwa geograficzna	rzad.
 Tarnobrzeg	Tarnobrzeg	subst:sg:nom.acc:m3	nazwa geograficzna	
+Tarnobrzeg	Tarnobrzeg	subst:sg:nom.acc:m3	nazwa geograficzna	rzad.
 Tarnobrzegu	Tarnobrzeg	subst:sg:gen:m3	nazwa geograficzna	
 Tarnobrzegu	Tarnobrzeg	subst:sg:loc:m3	nazwa geograficzna	
+Tarnobrzegu	Tarnobrzeg	subst:sg:loc:m3	nazwa geograficzna	rzad.
 Tarnobrzegu	Tarnobrzeg	subst:sg:voc:m3	nazwa geograficzna	
+Tarnobrzegu	Tarnobrzeg	subst:sg:voc:m3	nazwa geograficzna	rzad.
 Tarnobrzeskich	Tarnobrzeskie	subst:pl:gen:n:ncol	nazwa geograficzna	
 Tarnobrzeskich	Tarnobrzeskie	subst:pl:loc:n:ncol	nazwa geograficzna	
 Tarnobrzeskiego	Tarnobrzeskie	subst:sg:gen:n:ncol	nazwa geograficzna	
@@ -26747,14 +26768,24 @@ Tychowskim	Tychowski	subst:sg:loc:m1	nazwisko
 Tychowski	Tychowski	subst:sg:nom:m1	nazwisko	
 Tychowski	Tychowski	subst:sg:voc:m1	nazwisko	
 Tychach	Tychy	subst:pl:loc:n:pt	nazwa geograficzna	
+Tychach	Tychy	subst:pl:loc:n:pt	nazwa geograficzna	
+Tychach	Tychy	subst:pl:loc:n:pt	nazwa geograficzna	reg.
 Tychach	Tychy	subst:pl:loc:n:pt	nazwa geograficzna	reg.
 Tychami	Tychy	subst:pl:inst:n:pt	nazwa geograficzna	
+Tychami	Tychy	subst:pl:inst:n:pt	nazwa geograficzna	
+Tychami	Tychy	subst:pl:inst:n:pt	nazwa geograficzna	reg.
 Tychami	Tychy	subst:pl:inst:n:pt	nazwa geograficzna	reg.
 Tychom	Tychy	subst:pl:dat:n:pt	nazwa geograficzna	
+Tychom	Tychy	subst:pl:dat:n:pt	nazwa geograficzna	
+Tychom	Tychy	subst:pl:dat:n:pt	nazwa geograficzna	reg.
 Tychom	Tychy	subst:pl:dat:n:pt	nazwa geograficzna	reg.
 Tychów	Tychy	subst:pl:gen:n:pt	nazwa geograficzna	reg.
+Tychów	Tychy	subst:pl:gen:n:pt	nazwa geograficzna	reg.
+Tych	Tychy	subst:pl:gen:n:pt	nazwa geograficzna	
 Tych	Tychy	subst:pl:gen:n:pt	nazwa geograficzna	
 Tychy	Tychy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Tychy	Tychy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Tychy	Tychy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	reg.
 Tychy	Tychy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	reg.
 Tycjanach	Tycjan	subst:pl:loc:m1	imię	
 Tycjanami	Tycjan	subst:pl:inst:m1	imię	

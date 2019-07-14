@@ -6144,16 +6144,27 @@ Majdaku	Majdak:s2	subst:sg:loc:m1	nazwisko
 Majdaku	Majdak:s2	subst:sg:voc:m1	nazwisko	
 Majdak	Majdak:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Majdanek	Majdanek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Majdanek	Majdanek	subst:sg:nom.acc:m3	nazwa geograficzna	rzad.
 Majdankach	Majdanek	subst:pl:loc:m3	nazwa geograficzna	
+Majdankach	Majdanek	subst:pl:loc:m3	nazwa geograficzna	rzad.
 Majdanka	Majdanek	subst:sg:gen:m3	nazwa geograficzna	
 Majdankami	Majdanek	subst:pl:inst:m3	nazwa geograficzna	
+Majdankami	Majdanek	subst:pl:inst:m3	nazwa geograficzna	rzad.
 Majdankiem	Majdanek	subst:sg:inst:m3	nazwa geograficzna	
+Majdankiem	Majdanek	subst:sg:inst:m3	nazwa geograficzna	rzad.
 Majdanki	Majdanek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Majdanki	Majdanek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	rzad.
 Majdankom	Majdanek	subst:pl:dat:m3	nazwa geograficzna	
+Majdankom	Majdanek	subst:pl:dat:m3	nazwa geograficzna	rzad.
 Majdankowi	Majdanek	subst:sg:dat:m3	nazwa geograficzna	
+Majdankowi	Majdanek	subst:sg:dat:m3	nazwa geograficzna	rzad.
 Majdanków	Majdanek	subst:pl:gen:m3	nazwa geograficzna	
+Majdanków	Majdanek	subst:pl:gen:m3	nazwa geograficzna	rzad.
+Majdanku	Majdanek	subst:sg:gen:m3	nazwa geograficzna	rzad.
 Majdanku	Majdanek	subst:sg:loc:m3	nazwa geograficzna	
+Majdanku	Majdanek	subst:sg:loc:m3	nazwa geograficzna	rzad.
 Majdanku	Majdanek	subst:sg:voc:m3	nazwa geograficzna	
+Majdanku	Majdanek	subst:sg:voc:m3	nazwa geograficzna	rzad.
 Majdanikach	Majdanik:s1	subst:pl:loc:m1	nazwisko	
 Majdanika	Majdanik:s1	subst:sg:gen.acc:m1	nazwisko	
 Majdanikami	Majdanik:s1	subst:pl:inst:m1	nazwisko	
@@ -27462,6 +27473,8 @@ Mazur	Mazury	subst:pl:gen:n:pt	nazwa geograficzna
 Mazur	Mazury	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Mazurom	Mazury	subst:pl:dat:n:pt	nazwa geograficzna	
 Mazurom	Mazury	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Mazurów	Mazury	subst:pl:gen:n:pt	nazwa geograficzna	
+Mazurów	Mazury	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Mazury	Mazury	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
 Mazury	Mazury	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Mazurykach	Mazuryk:s1	subst:pl:loc:m1	nazwisko	
@@ -42946,13 +42959,22 @@ Miłosław	Miłosław:s2	subst:sg:nom.acc:m3	nazwa geograficzna
 Miłosen	Miłosna	subst:pl:gen:f	nazwa geograficzna	
 Miłosnach	Miłosna	subst:pl:loc:f	nazwa geograficzna	
 Miłosna	Miłosna	subst:sg:nom:f	nazwa geograficzna	
+Miłosna	Miłosna	subst:sg:voc:f	nazwa geograficzna	
 Miłosnami	Miłosna	subst:pl:inst:f	nazwa geograficzna	
+Miłosną	Miłosna	subst:sg:acc:f	nazwa geograficzna	
 Miłosną	Miłosna	subst:sg:inst:f	nazwa geograficzna	
+Miłosnej	Miłosna	subst:sg:dat.loc:f	nazwa geograficzna	
+Miłosnej	Miłosna	subst:sg:gen:f	nazwa geograficzna	
+Miłosne	Miłosna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Miłosnę	Miłosna	subst:sg:acc:f	nazwa geograficzna	
 Miłosno	Miłosna	subst:sg:voc:f	nazwa geograficzna	
 Miłosnom	Miłosna	subst:pl:dat:f	nazwa geograficzna	
+Miłosnych	Miłosna	subst:pl:gen:f	nazwa geograficzna	
+Miłosnych	Miłosna	subst:pl:loc:f	nazwa geograficzna	
 Miłosny	Miłosna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Miłosny	Miłosna	subst:sg:gen:f	nazwa geograficzna	
+Miłosnymi	Miłosna	subst:pl:inst:f	nazwa geograficzna	
+Miłosnym	Miłosna	subst:pl:dat:f	nazwa geograficzna	
 Miłośnie	Miłosna	subst:sg:dat.loc:f	nazwa geograficzna	
 Miłoszewska	Miłoszewska	subst:sg:nom:f	nazwisko	
 Miłoszewska	Miłoszewska	subst:sg:voc:f	nazwisko	
@@ -49164,6 +49186,18 @@ Mnichu	Mnich:s2	subst:sg:loc:m1	nazwisko
 Mnichu	Mnich:s2	subst:sg:voc:m1	nazwisko	
 Mnichy	Mnich:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Mnich	Mnich:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Mnichach	Mnich:s4	subst:pl:loc:m3	nazwa geograficzna	
+Mnichami	Mnich:s4	subst:pl:inst:m3	nazwa geograficzna	
+Mnicha	Mnich:s4	subst:sg:gen:m3	nazwa geograficzna	
+Mnichem	Mnich:s4	subst:sg:inst:m3	nazwa geograficzna	
+Mnich	Mnich:s4	subst:sg:nom.acc:m3	nazwa geograficzna	
+Mnichom	Mnich:s4	subst:pl:dat:m3	nazwa geograficzna	
+Mnichowi	Mnich:s4	subst:sg:dat:m3	nazwa geograficzna	
+Mnichów	Mnich:s4	subst:pl:gen:m3	nazwa geograficzna	
+Mnichu	Mnich:s4	subst:sg:gen:m3	nazwa geograficzna	
+Mnichu	Mnich:s4	subst:sg:loc:m3	nazwa geograficzna	
+Mnichu	Mnich:s4	subst:sg:voc:m3	nazwa geograficzna	
+Mnichy	Mnich:s4	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Mniowach	Mniów	subst:pl:loc:m3	nazwa geograficzna	
 Mniowami	Mniów	subst:pl:inst:m3	nazwa geograficzna	
 Mniowa	Mniów	subst:sg:gen:m3	nazwa geograficzna	

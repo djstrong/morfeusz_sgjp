@@ -26576,6 +26576,8 @@ Rudniki	Rudniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna
 Rudniki	Rudniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Rudnikom	Rudniki	subst:pl:dat:n:pt	nazwa geograficzna	
 Rudnikom	Rudniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Rudników	Rudniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Rudników	Rudniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Rudnik	Rudniki	subst:pl:gen:n:pt	nazwa geograficzna	
 Rudnik	Rudniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Rudnikach	Rudnik:s4	subst:pl:loc:m1	nazwisko	

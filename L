@@ -4759,16 +4759,27 @@ Lazurze	Lazur:s1	subst:sg:loc:m1	nazwisko
 Lazurze	Lazur:s1	subst:sg:voc:m1	nazwisko	
 Lazur	Lazur:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Lądek	Lądek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Lądek	Lądek	subst:sg:nom.acc:m3	nazwa geograficzna	rzad.
 Lądkach	Lądek	subst:pl:loc:m3	nazwa geograficzna	
+Lądkach	Lądek	subst:pl:loc:m3	nazwa geograficzna	rzad.
 Lądka	Lądek	subst:sg:gen:m3	nazwa geograficzna	
 Lądkami	Lądek	subst:pl:inst:m3	nazwa geograficzna	
+Lądkami	Lądek	subst:pl:inst:m3	nazwa geograficzna	rzad.
 Lądkiem	Lądek	subst:sg:inst:m3	nazwa geograficzna	
+Lądkiem	Lądek	subst:sg:inst:m3	nazwa geograficzna	rzad.
 Lądki	Lądek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Lądki	Lądek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	rzad.
 Lądkom	Lądek	subst:pl:dat:m3	nazwa geograficzna	
+Lądkom	Lądek	subst:pl:dat:m3	nazwa geograficzna	rzad.
 Lądkowi	Lądek	subst:sg:dat:m3	nazwa geograficzna	
+Lądkowi	Lądek	subst:sg:dat:m3	nazwa geograficzna	rzad.
 Lądków	Lądek	subst:pl:gen:m3	nazwa geograficzna	
+Lądków	Lądek	subst:pl:gen:m3	nazwa geograficzna	rzad.
+Lądku	Lądek	subst:sg:gen:m3	nazwa geograficzna	rzad.
 Lądku	Lądek	subst:sg:loc:m3	nazwa geograficzna	
+Lądku	Lądek	subst:sg:loc:m3	nazwa geograficzna	rzad.
 Lądku	Lądek	subst:sg:voc:m3	nazwa geograficzna	
+Lądku	Lądek	subst:sg:voc:m3	nazwa geograficzna	rzad.
 Lądach	Ląd:s2	subst:pl:loc:m1	nazwisko	
 Ląda	Ląd:s2	subst:sg:gen.acc:m1	nazwisko	
 Lądami	Ląd:s2	subst:pl:inst:m1	nazwisko	
@@ -13845,16 +13856,27 @@ Lidwinów	Lidwin:s2	subst:pl:gen.acc:m1	nazwisko
 Lidwiny	Lidwin:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Lidwin	Lidwin:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Lidzbarkach	Lidzbark	subst:pl:loc:m3	nazwa geograficzna	
+Lidzbarkach	Lidzbark	subst:pl:loc:m3	nazwa geograficzna	rzad.
 Lidzbarka	Lidzbark	subst:sg:gen:m3	nazwa geograficzna	
 Lidzbarkami	Lidzbark	subst:pl:inst:m3	nazwa geograficzna	
+Lidzbarkami	Lidzbark	subst:pl:inst:m3	nazwa geograficzna	rzad.
 Lidzbarkiem	Lidzbark	subst:sg:inst:m3	nazwa geograficzna	
+Lidzbarkiem	Lidzbark	subst:sg:inst:m3	nazwa geograficzna	rzad.
 Lidzbarki	Lidzbark	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Lidzbarki	Lidzbark	subst:pl:nom.acc.voc:m3	nazwa geograficzna	rzad.
 Lidzbark	Lidzbark	subst:sg:nom.acc:m3	nazwa geograficzna	
+Lidzbark	Lidzbark	subst:sg:nom.acc:m3	nazwa geograficzna	rzad.
 Lidzbarkom	Lidzbark	subst:pl:dat:m3	nazwa geograficzna	
+Lidzbarkom	Lidzbark	subst:pl:dat:m3	nazwa geograficzna	rzad.
 Lidzbarkowi	Lidzbark	subst:sg:dat:m3	nazwa geograficzna	
+Lidzbarkowi	Lidzbark	subst:sg:dat:m3	nazwa geograficzna	rzad.
 Lidzbarków	Lidzbark	subst:pl:gen:m3	nazwa geograficzna	
+Lidzbarków	Lidzbark	subst:pl:gen:m3	nazwa geograficzna	rzad.
+Lidzbarku	Lidzbark	subst:sg:gen:m3	nazwa geograficzna	rzad.
 Lidzbarku	Lidzbark	subst:sg:loc:m3	nazwa geograficzna	
+Lidzbarku	Lidzbark	subst:sg:loc:m3	nazwa geograficzna	rzad.
 Lidzbarku	Lidzbark	subst:sg:voc:m3	nazwa geograficzna	
+Lidzbarku	Lidzbark	subst:sg:voc:m3	nazwa geograficzna	rzad.
 Lidzbarska	Lidzbarska	subst:sg:nom:f	nazwisko	
 Lidzbarska	Lidzbarska	subst:sg:voc:f	nazwisko	
 Lidzbarską	Lidzbarska	subst:sg:acc:f	nazwisko	

@@ -4870,16 +4870,26 @@ Dąbków	Dąbek:s2	subst:pl:gen.acc:m1	nazwisko
 Dąbku	Dąbek:s2	subst:sg:loc:m1	nazwisko	
 Dąbku	Dąbek:s2	subst:sg:voc:m1	nazwisko	
 Dąbek	Dąbek:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Dąbiach	Dąbie	subst:pl:loc:n:ncol	nazwa geograficzna	
-Dąbia	Dąbie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
-Dąbia	Dąbie	subst:sg:gen:n:ncol	nazwa geograficzna	
-Dąbiami	Dąbie	subst:pl:inst:n:ncol	nazwa geograficzna	
-Dąbi	Dąbie	subst:pl:gen:n:ncol	nazwa geograficzna	
-Dąbie	Dąbie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
-Dąbiem	Dąbie	subst:sg:inst:n:ncol	nazwa geograficzna	
-Dąbiom	Dąbie	subst:pl:dat:n:ncol	nazwa geograficzna	
-Dąbiu	Dąbie	subst:sg:dat:n:ncol	nazwa geograficzna	
-Dąbiu	Dąbie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Dąbiach	Dąbie:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+Dąbia	Dąbie:s1	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Dąbia	Dąbie:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+Dąbiami	Dąbie:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+Dąbi	Dąbie:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dąbie	Dąbie:s1	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Dąbiem	Dąbie:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+Dąbiom	Dąbie:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+Dąbiu	Dąbie:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+Dąbiu	Dąbie:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+Dąbiach	Dąbie:s2	subst:pl:loc:n:pt	nazwa geograficzna	
+Dąbiach	Dąbie:s2	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Dąbiami	Dąbie:s2	subst:pl:inst:n:pt	nazwa geograficzna	
+Dąbiami	Dąbie:s2	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Dąbi	Dąbie:s2	subst:pl:gen:n:pt	nazwa geograficzna	
+Dąbi	Dąbie:s2	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Dąbie	Dąbie:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Dąbie	Dąbie:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Dąbiom	Dąbie:s2	subst:pl:dat:n:pt	nazwa geograficzna	
+Dąbiom	Dąbie:s2	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Dąbkiewiczach	Dąbkiewicz:s2	subst:pl:loc:m1	nazwisko	
 Dąbkiewicza	Dąbkiewicz:s2	subst:sg:gen.acc:m1	nazwisko	
 Dąbkiewiczami	Dąbkiewicz:s2	subst:pl:inst:m1	nazwisko	

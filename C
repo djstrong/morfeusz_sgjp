@@ -7901,6 +7901,7 @@ Chełmie	Chełm	subst:sg:voc:m3	nazwa geograficzna
 Chełmom	Chełm	subst:pl:dat:m3	nazwa geograficzna	
 Chełmowi	Chełm	subst:sg:dat:m3	nazwa geograficzna	
 Chełmów	Chełm	subst:pl:gen:m3	nazwa geograficzna	
+Chełmu	Chełm	subst:sg:gen:m3	nazwa geograficzna	
 Chełmy	Chełm	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Chełmecka	Chełmecka	subst:sg:nom:f	nazwisko	
 Chełmecka	Chełmecka	subst:sg:voc:f	nazwisko	

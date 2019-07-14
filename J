@@ -264,15 +264,24 @@ Jabłonkowy	Jabłonków	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Jabłonków	Jabłonków	subst:sg:nom.acc:m3	nazwa geograficzna	
 Jabłonnach	Jabłonna	subst:pl:loc:f	nazwa geograficzna	
 Jabłonna	Jabłonna	subst:sg:nom:f	nazwa geograficzna	
+Jabłonna	Jabłonna	subst:sg:voc:f	nazwa geograficzna	
 Jabłonnami	Jabłonna	subst:pl:inst:f	nazwa geograficzna	
+Jabłonną	Jabłonna	subst:sg:acc:f	nazwa geograficzna	
 Jabłonną	Jabłonna	subst:sg:inst:f	nazwa geograficzna	
+Jabłonne	Jabłonna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Jabłonnej	Jabłonna	subst:sg:dat.loc:f	nazwa geograficzna	
+Jabłonnej	Jabłonna	subst:sg:gen:f	nazwa geograficzna	
 Jabłonnę	Jabłonna	subst:sg:acc:f	nazwa geograficzna	
 Jabłonnie	Jabłonna	subst:sg:dat.loc:f	nazwa geograficzna	
 Jabłonn	Jabłonna	subst:pl:gen:f	nazwa geograficzna	
 Jabłonno	Jabłonna	subst:sg:voc:f	nazwa geograficzna	
 Jabłonnom	Jabłonna	subst:pl:dat:f	nazwa geograficzna	
+Jabłonnych	Jabłonna	subst:pl:gen:f	nazwa geograficzna	
+Jabłonnych	Jabłonna	subst:pl:loc:f	nazwa geograficzna	
 Jabłonny	Jabłonna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Jabłonny	Jabłonna	subst:sg:gen:f	nazwa geograficzna	
+Jabłonnymi	Jabłonna	subst:pl:inst:f	nazwa geograficzna	
+Jabłonnym	Jabłonna	subst:pl:dat:f	nazwa geograficzna	
 Jabłonowach	Jabłonowo	subst:pl:loc:n:ncol	nazwa geograficzna	
 Jabłonowa	Jabłonowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
 Jabłonowa	Jabłonowo	subst:sg:gen:n:ncol	nazwa geograficzna	
@@ -308,17 +317,28 @@ Jabłonowskimi	Jabłonowski	subst:pl:inst:m1	nazwisko
 Jabłonowskim	Jabłonowski	subst:pl:dat:m1	nazwisko	
 Jabłonowskim	Jabłonowski	subst:sg:inst:m1	nazwisko	
 Jabłonowskim	Jabłonowski	subst:sg:loc:m1	nazwisko	
-Jabłoniach	Jabłoń	subst:pl:loc:f	nazwa geograficzna	
-Jabłoniami	Jabłoń	subst:pl:inst:f	nazwa geograficzna	
-Jabłonią	Jabłoń	subst:sg:inst:f	nazwa geograficzna	
-Jabłonie	Jabłoń	subst:pl:nom.acc.voc:f	nazwa geograficzna	
-Jabłoni	Jabłoń	subst:pl:gen:f	nazwa geograficzna	
-Jabłoni	Jabłoń	subst:sg:dat.loc:f	nazwa geograficzna	
-Jabłoni	Jabłoń	subst:sg:gen:f	nazwa geograficzna	
-Jabłoni	Jabłoń	subst:sg:voc:f	nazwa geograficzna	
-Jabłoniom	Jabłoń	subst:pl:dat:f	nazwa geograficzna	
-Jabłoń	Jabłoń	subst:sg:acc:f	nazwa geograficzna	
-Jabłoń	Jabłoń	subst:sg:nom:f	nazwa geograficzna	
+Jabłoniach	Jabłoń:s1	subst:pl:loc:f	nazwa geograficzna	
+Jabłoniami	Jabłoń:s1	subst:pl:inst:f	nazwa geograficzna	
+Jabłonią	Jabłoń:s1	subst:sg:inst:f	nazwa geograficzna	
+Jabłonie	Jabłoń:s1	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Jabłoni	Jabłoń:s1	subst:pl:gen:f	nazwa geograficzna	
+Jabłoni	Jabłoń:s1	subst:sg:dat.loc:f	nazwa geograficzna	
+Jabłoni	Jabłoń:s1	subst:sg:gen:f	nazwa geograficzna	
+Jabłoni	Jabłoń:s1	subst:sg:voc:f	nazwa geograficzna	
+Jabłoniom	Jabłoń:s1	subst:pl:dat:f	nazwa geograficzna	
+Jabłoń	Jabłoń:s1	subst:sg:acc:f	nazwa geograficzna	
+Jabłoń	Jabłoń:s1	subst:sg:nom:f	nazwa geograficzna	
+Jabłoniach	Jabłoń:s2	subst:pl:loc:m3	nazwa geograficzna	
+Jabłonia	Jabłoń:s2	subst:sg:gen:m3	nazwa geograficzna	
+Jabłoniami	Jabłoń:s2	subst:pl:inst:m3	nazwa geograficzna	
+Jabłonie	Jabłoń:s2	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Jabłoniem	Jabłoń:s2	subst:sg:inst:m3	nazwa geograficzna	
+Jabłoni	Jabłoń:s2	subst:pl:gen:m3	nazwa geograficzna	
+Jabłoniom	Jabłoń:s2	subst:pl:dat:m3	nazwa geograficzna	
+Jabłoniowi	Jabłoń:s2	subst:sg:dat:m3	nazwa geograficzna	
+Jabłoniu	Jabłoń:s2	subst:sg:loc:m3	nazwa geograficzna	
+Jabłoniu	Jabłoń:s2	subst:sg:voc:m3	nazwa geograficzna	
+Jabłoń	Jabłoń:s2	subst:sg:nom.acc:m3	nazwa geograficzna	
 Jabłońska	Jabłońska	subst:sg:nom:f	nazwisko	
 Jabłońska	Jabłońska	subst:sg:voc:f	nazwisko	
 Jabłońską	Jabłońska	subst:sg:acc:f	nazwisko	
@@ -13100,16 +13120,26 @@ Jastrzemskimi	Jastrzemski	subst:pl:inst:m1	nazwisko
 Jastrzemskim	Jastrzemski	subst:pl:dat:m1	nazwisko	
 Jastrzemskim	Jastrzemski	subst:sg:inst:m1	nazwisko	
 Jastrzemskim	Jastrzemski	subst:sg:loc:m1	nazwisko	
-Jastrzębiach	Jastrzębie	subst:pl:loc:n:ncol	człon nazwy geograficznej	
-Jastrzębia	Jastrzębie	subst:pl:nom.acc.voc:n:ncol	człon nazwy geograficznej	
-Jastrzębia	Jastrzębie	subst:sg:gen:n:ncol	człon nazwy geograficznej	
-Jastrzębiami	Jastrzębie	subst:pl:inst:n:ncol	człon nazwy geograficznej	
-Jastrzębie	Jastrzębie	subst:sg:nom.acc.voc:n:ncol	człon nazwy geograficznej	
-Jastrzębiem	Jastrzębie	subst:sg:inst:n:ncol	człon nazwy geograficznej	
-Jastrzębi	Jastrzębie	subst:pl:gen:n:ncol	człon nazwy geograficznej	
-Jastrzębiom	Jastrzębie	subst:pl:dat:n:ncol	człon nazwy geograficznej	
-Jastrzębiu	Jastrzębie	subst:sg:dat:n:ncol	człon nazwy geograficznej	
-Jastrzębiu	Jastrzębie	subst:sg:loc:n:ncol	człon nazwy geograficznej	
+Jastrzębiach	Jastrzębie:s1	subst:pl:loc:n:ncol	człon nazwy geograficznej	
+Jastrzębia	Jastrzębie:s1	subst:pl:nom.acc.voc:n:ncol	człon nazwy geograficznej	
+Jastrzębia	Jastrzębie:s1	subst:sg:gen:n:ncol	człon nazwy geograficznej	
+Jastrzębiami	Jastrzębie:s1	subst:pl:inst:n:ncol	człon nazwy geograficznej	
+Jastrzębie	Jastrzębie:s1	subst:sg:nom.acc.voc:n:ncol	człon nazwy geograficznej	
+Jastrzębiem	Jastrzębie:s1	subst:sg:inst:n:ncol	człon nazwy geograficznej	
+Jastrzębi	Jastrzębie:s1	subst:pl:gen:n:ncol	człon nazwy geograficznej	
+Jastrzębiom	Jastrzębie:s1	subst:pl:dat:n:ncol	człon nazwy geograficznej	
+Jastrzębiu	Jastrzębie:s1	subst:sg:dat:n:ncol	człon nazwy geograficznej	
+Jastrzębiu	Jastrzębie:s1	subst:sg:loc:n:ncol	człon nazwy geograficznej	
+Jastrzębiach	Jastrzębie:s3	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Jastrzębiach	Jastrzębie:s3	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Jastrzębiami	Jastrzębie:s3	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Jastrzębiami	Jastrzębie:s3	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Jastrzębie	Jastrzębie:s3	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Jastrzębie	Jastrzębie:s3	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
+Jastrzębi	Jastrzębie:s3	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Jastrzębi	Jastrzębie:s3	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Jastrzębiom	Jastrzębie:s3	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Jastrzębiom	Jastrzębie:s3	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
 Jastrzębowska	Jastrzębowska	subst:sg:nom:f	nazwisko	
 Jastrzębowska	Jastrzębowska	subst:sg:voc:f	nazwisko	
 Jastrzębowską	Jastrzębowska	subst:sg:acc:f	nazwisko	
@@ -14260,13 +14290,13 @@ Jaworowu	Jaworów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
 Jaworowy	Jaworów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Jaworów	Jaworów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Jaworach	Jawor:s1	subst:pl:loc:m3	nazwa geograficzna	
+Jawora	Jawor:s1	subst:sg:gen:m3	nazwa geograficzna	
 Jaworami	Jawor:s1	subst:pl:inst:m3	nazwa geograficzna	
 Jaworem	Jawor:s1	subst:sg:inst:m3	nazwa geograficzna	
 Jawor	Jawor:s1	subst:sg:nom.acc:m3	nazwa geograficzna	
 Jaworom	Jawor:s1	subst:pl:dat:m3	nazwa geograficzna	
 Jaworowi	Jawor:s1	subst:sg:dat:m3	nazwa geograficzna	
 Jaworów	Jawor:s1	subst:pl:gen:m3	nazwa geograficzna	
-Jaworu	Jawor:s1	subst:sg:gen:m3	nazwa geograficzna	
 Jawory	Jawor:s1	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Jaworze	Jawor:s1	subst:sg:loc:m3	nazwa geograficzna	
 Jaworze	Jawor:s1	subst:sg:voc:m3	nazwa geograficzna	
