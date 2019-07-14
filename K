@@ -15864,22 +15864,36 @@ Kuratowskimi	Kuratowski	subst:pl:inst:m1	nazwisko
 Kuratowskim	Kuratowski	subst:pl:dat:m1	nazwisko	
 Kuratowskim	Kuratowski	subst:sg:inst:m1	nazwisko	
 Kuratowskim	Kuratowski	subst:sg:loc:m1	nazwisko	
-Kurdach	Kurd	subst:pl:loc:m1	nazwa pospolita	
-Kurda	Kurd	subst:sg:acc:m1	nazwa pospolita	
-Kurda	Kurd	subst:sg:gen:m1	nazwa pospolita	
-Kurdami	Kurd	subst:pl:inst:m1	nazwa pospolita	
-Kurdem	Kurd	subst:sg:inst:m1	nazwa pospolita	
-Kurd	Kurd	subst:sg:nom:m1	nazwa pospolita	
-Kurdom	Kurd	subst:pl:dat:m1	nazwa pospolita	
-Kurdowie	Kurd	subst:pl:nom:m1	nazwa pospolita	
-Kurdowie	Kurd	subst:pl:voc:m1	nazwa pospolita	
-Kurdowi	Kurd	subst:sg:dat:m1	nazwa pospolita	
-Kurdów	Kurd	subst:pl:acc:m1	nazwa pospolita	
-Kurdów	Kurd	subst:pl:gen:m1	nazwa pospolita	
-Kurdy	Kurd	depr:pl:nom:m2	nazwa pospolita	
-Kurdy	Kurd	depr:pl:voc:m2	nazwa pospolita	
-Kurdzie	Kurd	subst:sg:loc:m1	nazwa pospolita	
-Kurdzie	Kurd	subst:sg:voc:m1	nazwa pospolita	
+Kurdach	Kurd	subst:pl:loc:m1	nazwa pospolita	etn.
+Kurda	Kurd	subst:sg:acc:m1	nazwa pospolita	etn.
+Kurda	Kurd	subst:sg:gen:m1	nazwa pospolita	etn.
+Kurdami	Kurd	subst:pl:inst:m1	nazwa pospolita	etn.
+Kurdem	Kurd	subst:sg:inst:m1	nazwa pospolita	etn.
+Kurd	Kurd	subst:sg:nom:m1	nazwa pospolita	etn.
+Kurdom	Kurd	subst:pl:dat:m1	nazwa pospolita	etn.
+Kurdowie	Kurd	subst:pl:nom:m1	nazwa pospolita	etn.
+Kurdowie	Kurd	subst:pl:voc:m1	nazwa pospolita	etn.
+Kurdowi	Kurd	subst:sg:dat:m1	nazwa pospolita	etn.
+Kurdów	Kurd	subst:pl:acc:m1	nazwa pospolita	etn.
+Kurdów	Kurd	subst:pl:gen:m1	nazwa pospolita	etn.
+Kurdy	Kurd	depr:pl:nom:m2	nazwa pospolita	etn.
+Kurdy	Kurd	depr:pl:voc:m2	nazwa pospolita	etn.
+Kurdzie	Kurd	subst:sg:loc:m1	nazwa pospolita	etn.
+Kurdzie	Kurd	subst:sg:voc:m1	nazwa pospolita	etn.
+Kurdyjce	Kurdyjka	subst:sg:dat:f	nazwa pospolita	etn.
+Kurdyjce	Kurdyjka	subst:sg:loc:f	nazwa pospolita	etn.
+Kurdyjek	Kurdyjka	subst:pl:gen:f	nazwa pospolita	etn.
+Kurdyjkach	Kurdyjka	subst:pl:loc:f	nazwa pospolita	etn.
+Kurdyjka	Kurdyjka	subst:sg:nom:f	nazwa pospolita	etn.
+Kurdyjkami	Kurdyjka	subst:pl:inst:f	nazwa pospolita	etn.
+Kurdyjką	Kurdyjka	subst:sg:inst:f	nazwa pospolita	etn.
+Kurdyjkę	Kurdyjka	subst:sg:acc:f	nazwa pospolita	etn.
+Kurdyjki	Kurdyjka	subst:pl:acc:f	nazwa pospolita	etn.
+Kurdyjki	Kurdyjka	subst:pl:nom:f	nazwa pospolita	etn.
+Kurdyjki	Kurdyjka	subst:pl:voc:f	nazwa pospolita	etn.
+Kurdyjki	Kurdyjka	subst:sg:gen:f	nazwa pospolita	etn.
+Kurdyjko	Kurdyjka	subst:sg:voc:f	nazwa pospolita	etn.
+Kurdyjkom	Kurdyjka	subst:pl:dat:f	nazwa pospolita	etn.
 Kurdystanach	Kurdystan	subst:pl:loc:m3	nazwa geograficzna	
 Kurdystanami	Kurdystan	subst:pl:inst:m3	nazwa geograficzna	
 Kurdystanem	Kurdystan	subst:sg:inst:m3	nazwa geograficzna	

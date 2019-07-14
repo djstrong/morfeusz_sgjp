@@ -13911,6 +13911,61 @@ jazowymi	jazowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jazowym	jazowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jazowym	jazowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jazowym	jazowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+jazydach	jazyda	subst:pl:loc:m1	nazwa pospolita	rel.
+jazyda	jazyda	subst:sg:nom:m1	nazwa pospolita	rel.
+jazydami	jazyda	subst:pl:inst:m1	nazwa pospolita	rel.
+jazydą	jazyda	subst:sg:inst:m1	nazwa pospolita	rel.
+jazydę	jazyda	subst:sg:acc:m1	nazwa pospolita	rel.
+jazydo	jazyda	subst:sg:voc:m1	nazwa pospolita	rel.
+jazydom	jazyda	subst:pl:dat:m1	nazwa pospolita	rel.
+jazydów	jazyda	subst:pl:acc:m1	nazwa pospolita	rel.
+jazydów	jazyda	subst:pl:gen:m1	nazwa pospolita	rel.
+jazydy	jazyda	depr:pl:nom:m2	nazwa pospolita	rel.
+jazydy	jazyda	depr:pl:voc:m2	nazwa pospolita	rel.
+jazydy	jazyda	subst:sg:gen:m1	nazwa pospolita	rel.
+jazydzie	jazyda	subst:sg:dat:m1	nazwa pospolita	rel.
+jazydzie	jazyda	subst:sg:loc:m1	nazwa pospolita	rel.
+jazydzi	jazyda	subst:pl:nom:m1	nazwa pospolita	rel.
+jazydzi	jazyda	subst:pl:voc:m1	nazwa pospolita	rel.
+jazydyzmach	jazydyzm	subst:pl:loc:m3	nazwa pospolita	rel.
+jazydyzmami	jazydyzm	subst:pl:inst:m3	nazwa pospolita	rel.
+jazydyzmem	jazydyzm	subst:sg:inst:m3	nazwa pospolita	rel.
+jazydyzmie	jazydyzm	subst:sg:loc:m3	nazwa pospolita	rel.
+jazydyzmie	jazydyzm	subst:sg:voc:m3	nazwa pospolita	rel.
+jazydyzm	jazydyzm	subst:sg:acc:m3	nazwa pospolita	rel.
+jazydyzm	jazydyzm	subst:sg:nom:m3	nazwa pospolita	rel.
+jazydyzmom	jazydyzm	subst:pl:dat:m3	nazwa pospolita	rel.
+jazydyzmowi	jazydyzm	subst:sg:dat:m3	nazwa pospolita	rel.
+jazydyzmów	jazydyzm	subst:pl:gen:m3	nazwa pospolita	rel.
+jazydyzmu	jazydyzm	subst:sg:gen:m3	nazwa pospolita	rel.
+jazydyzmy	jazydyzm	subst:pl:acc:m3	nazwa pospolita	rel.
+jazydyzmy	jazydyzm	subst:pl:nom:m3	nazwa pospolita	rel.
+jazydyzmy	jazydyzm	subst:pl:voc:m3	nazwa pospolita	rel.
+jazydzcy	jazydzki	adj:pl:nom.voc:m1.p1:pos		rel.
+jazydzka	jazydzki	adj:sg:nom.voc:f:pos		rel.
+jazydzką	jazydzki	adj:sg:acc:f:pos		rel.
+jazydzką	jazydzki	adj:sg:inst:f:pos		rel.
+jazydzkich	jazydzki	adj:pl:acc:m1.p1:pos		rel.
+jazydzkich	jazydzki	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		rel.
+jazydzkich	jazydzki	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		rel.
+jazydzkiego	jazydzki	adj:sg:acc:m1.m2:pos		rel.
+jazydzkiego	jazydzki	adj:sg:gen:m1.m2.m3.n1.n2:pos		rel.
+jazydzkie	jazydzki	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		rel.
+jazydzkie	jazydzki	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		rel.
+jazydzkie	jazydzki	adj:sg:acc:n1.n2:pos		rel.
+jazydzkie	jazydzki	adj:sg:nom.voc:n1.n2:pos		rel.
+jazydzkiej	jazydzki	adj:sg:dat:f:pos		rel.
+jazydzkiej	jazydzki	adj:sg:gen:f:pos		rel.
+jazydzkiej	jazydzki	adj:sg:loc:f:pos		rel.
+jazydzkiemu	jazydzki	adj:sg:dat:m1.m2.m3.n1.n2:pos		rel.
+jazydzki	jazydzki	adj:sg:acc:m3:pos		rel.
+jazydzki	jazydzki	adj:sg:nom.voc:m1.m2.m3:pos		rel.
+jazydzkimi	jazydzki	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		rel.
+jazydzkim	jazydzki	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		rel.
+jazydzkim	jazydzki	adj:sg:inst:m1.m2.m3.n1.n2:pos		rel.
+jazydzkim	jazydzki	adj:sg:loc:m1.m2.m3.n1.n2:pos		rel.
+jazydzko	jazydzki	adja		rel.
+jazydzku	jazydzki	adjp		rel.
 jazzach	jazz	subst:pl:loc:m3	nazwa pospolita	
 jazzami	jazz	subst:pl:inst:m3	nazwa pospolita	
 jazzem	jazz	subst:sg:inst:m3	nazwa pospolita	

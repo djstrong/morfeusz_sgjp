@@ -4546,6 +4546,13 @@ igrcy	igrca	subst:pl:voc:m1	nazwa pospolita	daw.
 igrcy	igrca	subst:sg:dat:m1	nazwa pospolita	daw.
 igrcy	igrca	subst:sg:gen:m1	nazwa pospolita	daw.
 igrcy	igrca	subst:sg:loc:m1	nazwa pospolita	daw.
+igrcach	igrce	subst:pl:loc:p3	nazwa pospolita	daw.
+igrcami	igrce	subst:pl:inst:p3	nazwa pospolita	daw.
+igrce	igrce	subst:pl:acc:p3	nazwa pospolita	daw.
+igrce	igrce	subst:pl:nom:p3	nazwa pospolita	daw.
+igrce	igrce	subst:pl:voc:p3	nazwa pospolita	daw.
+igrcom	igrce	subst:pl:dat:p3	nazwa pospolita	daw.
+igrców	igrce	subst:pl:gen:p3	nazwa pospolita	daw.
 igrekach	igrek:s1	subst:pl:loc:m3	nazwa pospolita	
 igreka	igrek:s1	subst:sg:gen:m3	nazwa pospolita	
 igrekami	igrek:s1	subst:pl:inst:m3	nazwa pospolita	
