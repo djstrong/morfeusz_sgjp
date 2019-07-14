@@ -34886,6 +34886,18 @@ inwigilacyjnymi	inwigilacyjny	adj:pl:inst:m1.m2.m3.f.n:pos
 inwigilacyjnym	inwigilacyjny	adj:pl:dat:m1.m2.m3.f.n:pos		
 inwigilacyjnym	inwigilacyjny	adj:sg:inst:m1.m2.m3.n:pos		
 inwigilacyjnym	inwigilacyjny	adj:sg:loc:m1.m2.m3.n:pos		
+inwigilatorach	inwigilator	subst:pl:loc:m1	nazwa pospolita	
+inwigilatora	inwigilator	subst:sg:gen.acc:m1	nazwa pospolita	
+inwigilatorami	inwigilator	subst:pl:inst:m1	nazwa pospolita	
+inwigilatorem	inwigilator	subst:sg:inst:m1	nazwa pospolita	
+inwigilator	inwigilator	subst:sg:nom:m1	nazwa pospolita	
+inwigilatorom	inwigilator	subst:pl:dat:m1	nazwa pospolita	
+inwigilatorowi	inwigilator	subst:sg:dat:m1	nazwa pospolita	
+inwigilatorów	inwigilator	subst:pl:gen.acc:m1	nazwa pospolita	
+inwigilatory	inwigilator	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+inwigilatorze	inwigilator	subst:sg:loc:m1	nazwa pospolita	
+inwigilatorze	inwigilator	subst:sg:voc:m1	nazwa pospolita	
+inwigilatorzy	inwigilator	subst:pl:nom.voc:m1	nazwa pospolita	
 inwigilować	inwigilować	inf:imperf		
 inwigilowaliby	inwigilować	cond:pl:m1:ter:imperf		
 inwigilowalibyście	inwigilować	cond:pl:m1:sec:imperf		

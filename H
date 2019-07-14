@@ -3052,6 +3052,17 @@ Hucułom	Hucuł	subst:pl:dat:m1	nazwa pospolita
 Hucułowi	Hucuł	subst:sg:dat:m1	nazwa pospolita	
 Hucułów	Hucuł	subst:pl:gen.acc:m1	nazwa pospolita	
 Hucuły	Hucuł	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Hucułce	Hucułka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+Hucułek	Hucułka	subst:pl:gen:f	nazwa pospolita	etn.
+Hucułkach	Hucułka	subst:pl:loc:f	nazwa pospolita	etn.
+Hucułka	Hucułka	subst:sg:nom:f	nazwa pospolita	etn.
+Hucułkami	Hucułka	subst:pl:inst:f	nazwa pospolita	etn.
+Hucułką	Hucułka	subst:sg:inst:f	nazwa pospolita	etn.
+Hucułkę	Hucułka	subst:sg:acc:f	nazwa pospolita	etn.
+Hucułki	Hucułka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+Hucułki	Hucułka	subst:sg:gen:f	nazwa pospolita	etn.
+Hucułko	Hucułka	subst:sg:voc:f	nazwa pospolita	etn.
+Hucułkom	Hucułka	subst:pl:dat:f	nazwa pospolita	etn.
 Huda	Huda	subst:sg:nom:f	nazwisko	
 Huda	Huda	subst:sg:voc:f	nazwisko	
 Hudą	Huda	subst:sg:acc:f	nazwisko	

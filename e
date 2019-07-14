@@ -12629,31 +12629,15 @@ ekstazjowały	ekstazjować	praet:pl:m2.m3.f.n:imperf		daw.
 ekstazjowały	ekstazjować	praet:pl:m2.m3.f.n:ter:imperf		daw.
 ekstazjowałyście	ekstazjować	praet:pl:m2.m3.f.n:sec:imperf		daw.
 ekstazjowałyśmy	ekstazjować	praet:pl:m2.m3.f.n:pri:imperf		daw.
-ekstazjowana	ekstazjować	ppas:sg:nom.voc:f:imperf:aff		
-ekstazjowaną	ekstazjować	ppas:sg:acc.inst:f:imperf:aff		
-ekstazjowane	ekstazjować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
-ekstazjowane	ekstazjować	ppas:sg:nom.acc.voc:n:imperf:aff		
-ekstazjowanego	ekstazjować	ppas:sg:acc:m1.m2:imperf:aff		
-ekstazjowanego	ekstazjować	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
-ekstazjowanej	ekstazjować	ppas:sg:gen.dat.loc:f:imperf:aff		
-ekstazjowanemu	ekstazjować	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
 ekstazjowaniach	ekstazjować	ger:pl:loc:n:imperf:aff		
 ekstazjowania	ekstazjować	ger:pl:nom.acc:n:imperf:aff		
 ekstazjowania	ekstazjować	ger:sg:gen:n:imperf:aff		
 ekstazjowaniami	ekstazjować	ger:pl:inst:n:imperf:aff		
 ekstazjowanie	ekstazjować	ger:sg:nom.acc:n:imperf:aff		
-ekstazjowani	ekstazjować	ppas:pl:nom.voc:m1:imperf:aff		
 ekstazjowaniem	ekstazjować	ger:sg:inst:n:imperf:aff		
 ekstazjowaniom	ekstazjować	ger:pl:dat:n:imperf:aff		
 ekstazjowaniu	ekstazjować	ger:sg:dat.loc:n:imperf:aff		
 ekstazjowano	ekstazjować	imps:imperf		daw.
-ekstazjowanych	ekstazjować	ppas:pl:acc:m1:imperf:aff		
-ekstazjowanych	ekstazjować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
-ekstazjowany	ekstazjować	ppas:sg:acc:m3:imperf:aff		
-ekstazjowany	ekstazjować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-ekstazjowanym	ekstazjować	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
-ekstazjowanym	ekstazjować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
-ekstazjowanymi	ekstazjować	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
 ekstazjowań	ekstazjować	ger:pl:gen:n:imperf:aff		
 ekstazjująca	ekstazjować	pact:sg:nom.voc:f:imperf:aff		
 ekstazjującą	ekstazjować	pact:sg:acc.inst:f:imperf:aff		
