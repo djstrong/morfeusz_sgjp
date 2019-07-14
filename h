@@ -12070,17 +12070,6 @@ head-huntery	head-hunter	depr:pl:nom.acc.voc:m2	nazwa pospolita
 head-hunterze	head-hunter	subst:sg:loc:m1	nazwa pospolita	
 head-hunterze	head-hunter	subst:sg:voc:m1	nazwa pospolita	
 head-hunterzy	head-hunter	subst:pl:nom.voc:m1	nazwa pospolita	
-heavymetalach	heavymetal	subst:pl:loc:m3	nazwa pospolita	
-heavymetalami	heavymetal	subst:pl:inst:m3	nazwa pospolita	
-heavymetale	heavymetal	subst:pl:nom.acc.voc:m3	nazwa pospolita	
-heavymetalem	heavymetal	subst:sg:inst:m3	nazwa pospolita	
-heavymetal	heavymetal	subst:sg:nom.acc:m3	nazwa pospolita	
-heavymetali	heavymetal	subst:pl:gen:m3	nazwa pospolita	
-heavymetalom	heavymetal	subst:pl:dat:m3	nazwa pospolita	
-heavymetalowi	heavymetal	subst:sg:dat:m3	nazwa pospolita	
-heavymetalu	heavymetal	subst:sg:gen:m3	nazwa pospolita	
-heavymetalu	heavymetal	subst:sg:loc:m3	nazwa pospolita	
-heavymetalu	heavymetal	subst:sg:voc:m3	nazwa pospolita	
 heavymetalowcach	heavymetalowiec	subst:pl:loc:m1	nazwa pospolita	
 heavymetalowca	heavymetalowiec	subst:sg:gen.acc:m1	nazwa pospolita	
 heavymetalowcami	heavymetalowiec	subst:pl:inst:m1	nazwa pospolita	

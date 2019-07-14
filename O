@@ -492,6 +492,30 @@ Odrowążowi	Odrowąż	subst:sg:dat:m1	nazwisko
 Odrowążów	Odrowąż	subst:pl:gen.acc:m1	nazwisko	
 Odrowążu	Odrowąż	subst:sg:loc:m1	nazwisko	
 Odrowążu	Odrowąż	subst:sg:voc:m1	nazwisko	
+Odyach	Odya:s1	subst:pl:loc:f	nazwisko	
+Odyami	Odya:s1	subst:pl:inst:f	nazwisko	
+Odya	Odya:s1	subst:sg:nom:f	nazwisko	
+Odyą	Odya:s1	subst:sg:inst:f	nazwisko	
+Odye	Odya:s1	subst:pl:nom.acc.voc:f	nazwisko	
+Odyę	Odya:s1	subst:sg:acc:f	nazwisko	
+Odyi	Odya:s1	subst:pl:gen:f	nazwisko	hom.
+Odyi	Odya:s1	subst:sg:dat.loc:f	nazwisko	
+Odyi	Odya:s1	subst:sg:gen:f	nazwisko	
+Odyj	Odya:s1	subst:pl:gen:f	nazwisko	arch.|char.
+Odyom	Odya:s1	subst:pl:dat:f	nazwisko	
+Odyo	Odya:s1	subst:sg:voc:f	nazwisko	
+Odyach	Odya:s2	subst:pl:loc:m1	nazwisko	
+Odyami	Odya:s2	subst:pl:inst:m1	nazwisko	
+Odya	Odya:s2	subst:sg:nom:m1	nazwisko	
+Odyą	Odya:s2	subst:sg:inst:m1	nazwisko	
+Odye	Odya:s2	depr:pl:nom.acc.voc:m2	nazwisko	
+Odyę	Odya:s2	subst:sg:acc:m1	nazwisko	
+Odyi	Odya:s2	subst:sg:dat.loc:m1	nazwisko	
+Odyi	Odya:s2	subst:sg:gen:m1	nazwisko	
+Odyom	Odya:s2	subst:pl:dat:m1	nazwisko	
+Odyo	Odya:s2	subst:sg:voc:m1	nazwisko	
+Odyowie	Odya:s2	subst:pl:nom.voc:m1	nazwisko	
+Odyów	Odya:s2	subst:pl:gen.acc:m1	nazwisko	
 Odynach	Odyn	subst:pl:loc:m1	imię	mit.
 Odynami	Odyn	subst:pl:inst:m1	imię	mit.
 Odyna	Odyn	subst:sg:gen.acc:m1	imię	mit.

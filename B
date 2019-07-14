@@ -4627,18 +4627,18 @@ Blaupunktowi	Blaupunkt	subst:sg:dat:m3	nazwa firmy
 Blaupunktów	Blaupunkt	subst:pl:gen:m3	nazwa firmy	
 Blaupunktu	Blaupunkt	subst:sg:gen:m3	nazwa firmy	
 Blaupunkty	Blaupunkt	subst:pl:nom.acc.voc:m3	nazwa firmy	
-Bleriocie	Bleriot	subst:sg:loc:m1	nazwisko	
-Bleriocie	Bleriot	subst:sg:voc:m1	nazwisko	
-Bleriota	Bleriot	subst:sg:gen.acc:m1	nazwisko	
-Bleriotach	Bleriot	subst:pl:loc:m1	nazwisko	
-Bleriotami	Bleriot	subst:pl:inst:m1	nazwisko	
-Bleriot	Bleriot	subst:sg:nom:m1	nazwisko	
-Bleriotem	Bleriot	subst:sg:inst:m1	nazwisko	
-Bleriotom	Bleriot	subst:pl:dat:m1	nazwisko	
-Bleriotowi	Bleriot	subst:sg:dat:m1	nazwisko	
-Bleriotowie	Bleriot	subst:pl:nom.voc:m1	nazwisko	
-Bleriotów	Bleriot	subst:pl:gen.acc:m1	nazwisko	
-Blerioty	Bleriot	depr:pl:nom.acc.voc:m2	nazwisko	
+Blériocie	Blériot	subst:sg:loc:m1	nazwisko	
+Blériocie	Blériot	subst:sg:voc:m1	nazwisko	
+Blériota	Blériot	subst:sg:gen.acc:m1	nazwisko	
+Blériotach	Blériot	subst:pl:loc:m1	nazwisko	
+Blériotami	Blériot	subst:pl:inst:m1	nazwisko	
+Blériot	Blériot	subst:sg:nom:m1	nazwisko	
+Blériotem	Blériot	subst:sg:inst:m1	nazwisko	
+Blériotom	Blériot	subst:pl:dat:m1	nazwisko	
+Blériotowi	Blériot	subst:sg:dat:m1	nazwisko	
+Blériotowie	Blériot	subst:pl:nom.voc:m1	nazwisko	
+Blériotów	Blériot	subst:pl:gen.acc:m1	nazwisko	
+Blérioty	Blériot	depr:pl:nom.acc.voc:m2	nazwisko	
 Bliklach	Blikle	subst:pl:loc:m1	nazwisko	
 Bliklami	Blikle	subst:pl:inst:m1	nazwisko	
 Blikle	Blikle	depr:pl:nom.acc.voc:m2	nazwisko	

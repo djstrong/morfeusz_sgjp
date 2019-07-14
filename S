@@ -5812,10 +5812,10 @@ Sobolami	Soból	subst:pl:inst:m1	nazwisko
 Sobola	Soból	subst:sg:gen.acc:m1	nazwisko	
 Sobolem	Soból	subst:sg:inst:m1	nazwisko	
 Sobole	Soból	depr:pl:nom.acc.voc:m2	nazwisko	
-Soboli	Soból	subst:pl:gen.acc:m1	nazwisko	
 Sobolom	Soból	subst:pl:dat:m1	nazwisko	
 Sobolowie	Soból	subst:pl:nom.voc:m1	nazwisko	
 Sobolowi	Soból	subst:sg:dat:m1	nazwisko	
+Sobolów	Soból	subst:pl:gen.acc:m1	nazwisko	
 Sobolu	Soból	subst:sg:loc:m1	nazwisko	
 Sobolu	Soból	subst:sg:voc:m1	nazwisko	
 Soból	Soból	subst:sg:nom:m1	nazwisko	
@@ -6382,6 +6382,18 @@ Sosińskim	Sosiński	subst:sg:inst:m1	nazwisko
 Sosińskim	Sosiński	subst:sg:loc:m1	nazwisko	
 Sosiński	Sosiński	subst:sg:nom:m1	nazwisko	
 Sosiński	Sosiński	subst:sg:voc:m1	nazwisko	
+Sosnach	Sosna	subst:pl:loc:m1	nazwisko	
+Sosnami	Sosna	subst:pl:inst:m1	nazwisko	
+Sosna	Sosna	subst:sg:nom:m1	nazwisko	
+Sosną	Sosna	subst:sg:inst:m1	nazwisko	
+Sosnę	Sosna	subst:sg:acc:m1	nazwisko	
+Sosnom	Sosna	subst:pl:dat:m1	nazwisko	
+Sosno	Sosna	subst:sg:voc:m1	nazwisko	
+Sosnowie	Sosna	subst:pl:nom.voc:m1	nazwisko	
+Sosnów	Sosna	subst:pl:gen.acc:m1	nazwisko	
+Sosny	Sosna	depr:pl:nom.acc.voc:m2	nazwisko	
+Sosny	Sosna	subst:sg:gen:m1	nazwisko	
+Sośnie	Sosna	subst:sg:dat.loc:m1	nazwisko	
 Sosnkowscy	Sosnkowski	subst:pl:nom.voc:m1	nazwisko	
 Sosnkowskich	Sosnkowski	subst:pl:gen.acc:m1	nazwisko	
 Sosnkowskich	Sosnkowski	subst:pl:loc:m1	nazwisko	
@@ -6772,6 +6784,18 @@ Spocków	Spock	subst:pl:gen.acc:m1	nazwisko
 Spock	Spock	subst:sg:nom:m1	nazwisko	
 Spocku	Spock	subst:sg:loc:m1	nazwisko	
 Spocku	Spock	subst:sg:voc:m1	nazwisko	
+Sposobach	Sposób	subst:pl:loc:m1	nazwisko	
+Sposobami	Sposób	subst:pl:inst:m1	nazwisko	
+Sposoba	Sposób	subst:sg:gen.acc:m1	nazwisko	
+Sposobem	Sposób	subst:sg:inst:m1	nazwisko	
+Sposobie	Sposób	subst:sg:loc:m1	nazwisko	
+Sposobie	Sposób	subst:sg:voc:m1	nazwisko	
+Sposobom	Sposób	subst:pl:dat:m1	nazwisko	
+Sposobowie	Sposób	subst:pl:nom.voc:m1	nazwisko	
+Sposobowi	Sposób	subst:sg:dat:m1	nazwisko	
+Sposobów	Sposób	subst:pl:gen.acc:m1	nazwisko	
+Sposoby	Sposób	depr:pl:nom.acc.voc:m2	nazwisko	
+Sposób	Sposób	subst:sg:nom:m1	nazwisko	
 SPP	SPP:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji	
 SPP	SPP:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	tytuł	
 Springerach	Springer	subst:pl:loc:m1	nazwisko	
@@ -12113,6 +12137,18 @@ Szwedki	Szwedka	subst:pl:nom.acc.voc:f	nazwa pospolita
 Szwedki	Szwedka	subst:sg:gen:f	nazwa pospolita	
 Szwedkom	Szwedka	subst:pl:dat:f	nazwa pospolita	
 Szwedko	Szwedka	subst:sg:voc:f	nazwa pospolita	
+Szwedach	Szwedo	subst:pl:loc:m1	nazwisko	
+Szwedami	Szwedo	subst:pl:inst:m1	nazwisko	
+Szwedą	Szwedo	subst:sg:inst:m1	nazwisko	
+Szwedę	Szwedo	subst:sg:acc:m1	nazwisko	
+Szwedom	Szwedo	subst:pl:dat:m1	nazwisko	
+Szwedo	Szwedo	subst:sg:nom:m1	nazwisko	
+Szwedo	Szwedo	subst:sg:voc:m1	nazwisko	
+Szwedowie	Szwedo	subst:pl:nom.voc:m1	nazwisko	
+Szwedów	Szwedo	subst:pl:gen.acc:m1	nazwisko	
+Szwedy	Szwedo	depr:pl:nom.acc.voc:m2	nazwisko	
+Szwedy	Szwedo	subst:sg:gen:m1	nazwisko	
+Szwedzie	Szwedo	subst:sg:dat.loc:m1	nazwisko	
 Szwedziskach	Szwedzisko	subst:pl:loc:m1	nazwa pospolita	rzad.
 Szwedziskach	Szwedzisko	subst:pl:loc:n:ncol	nazwa pospolita	
 Szwedziskami	Szwedzisko	subst:pl:inst:m1	nazwa pospolita	rzad.

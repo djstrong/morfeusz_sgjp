@@ -3491,6 +3491,30 @@ Trytonowi	Tryton	subst:sg:dat:m1	nazwa własna	mit.
 Trytonów	Tryton	subst:pl:gen.acc:m1	nazwa własna	mit.
 Tryton	Tryton	subst:sg:nom:m1	nazwa własna	mit.
 Trytony	Tryton	depr:pl:nom.acc.voc:m2	nazwa własna	mit.
+Tryznach	Tryzna	subst:pl:loc:m1	nazwisko	
+Tryznami	Tryzna	subst:pl:inst:m1	nazwisko	
+Tryzna	Tryzna	subst:sg:nom:m1	nazwisko	
+Tryzną	Tryzna	subst:sg:inst:m1	nazwisko	
+Tryznę	Tryzna	subst:sg:acc:m1	nazwisko	
+Tryznom	Tryzna	subst:pl:dat:m1	nazwisko	
+Tryzno	Tryzna	subst:sg:voc:m1	nazwisko	
+Tryznów	Tryzna	subst:pl:gen.acc:m1	nazwisko	
+Tryzny	Tryzna	depr:pl:nom.acc.voc:m2	nazwisko	
+Tryzny	Tryzna	subst:sg:gen:m1	nazwisko	
+Tryźnie	Tryzna	subst:sg:dat.loc:m1	nazwisko	
+Tryźnowie	Tryzna	subst:pl:nom.voc:m1	nazwisko	
+Tryznach	Tryzno	subst:pl:loc:m1	nazwisko	
+Tryznami	Tryzno	subst:pl:inst:m1	nazwisko	
+Tryzną	Tryzno	subst:sg:inst:m1	nazwisko	
+Tryznę	Tryzno	subst:sg:acc:m1	nazwisko	
+Tryznom	Tryzno	subst:pl:dat:m1	nazwisko	
+Tryzno	Tryzno	subst:sg:nom:m1	nazwisko	
+Tryzno	Tryzno	subst:sg:voc:m1	nazwisko	
+Tryznowie	Tryzno	subst:pl:nom.voc:m1	nazwisko	
+Tryznów	Tryzno	subst:pl:gen.acc:m1	nazwisko	
+Tryzny	Tryzno	depr:pl:nom.acc.voc:m2	nazwisko	
+Tryzny	Tryzno	subst:sg:gen:m1	nazwisko	
+Tryźnie	Tryzno	subst:sg:dat.loc:m1	nazwisko	
 Trzaskowska	Trzaskowska	subst:sg:nom:f	nazwisko	
 Trzaskowska	Trzaskowska	subst:sg:voc:f	nazwisko	
 Trzaskowską	Trzaskowska	subst:sg:acc:f	nazwisko	
@@ -3891,6 +3915,29 @@ Tukidydesowi	Tukidydes	subst:sg:dat:m1	imię
 Tukidydesów	Tukidydes	subst:pl:gen.acc:m1	imię	
 Tukidydes	Tukidydes	subst:sg:nom:m1	imię	
 Tukidydesy	Tukidydes	depr:pl:nom.acc.voc:m2	imię	
+Tulei	Tuleya:s1	subst:pl:gen:f	nazwisko	
+Tulei	Tuleya:s1	subst:sg:dat.loc:f	nazwisko	
+Tulei	Tuleya:s1	subst:sg:gen:f	nazwisko	
+Tuleyach	Tuleya:s1	subst:pl:loc:f	nazwisko	
+Tuleyami	Tuleya:s1	subst:pl:inst:f	nazwisko	
+Tuleya	Tuleya:s1	subst:sg:nom:f	nazwisko	
+Tuleyą	Tuleya:s1	subst:sg:inst:f	nazwisko	
+Tuleye	Tuleya:s1	subst:pl:nom.acc.voc:f	nazwisko	
+Tuleyę	Tuleya:s1	subst:sg:acc:f	nazwisko	
+Tuleyom	Tuleya:s1	subst:pl:dat:f	nazwisko	
+Tuleyo	Tuleya:s1	subst:sg:voc:f	nazwisko	
+Tulei	Tuleya:s3	subst:sg:dat.loc:m1	nazwisko	
+Tulei	Tuleya:s3	subst:sg:gen:m1	nazwisko	
+Tuleyach	Tuleya:s3	subst:pl:loc:m1	nazwisko	
+Tuleyami	Tuleya:s3	subst:pl:inst:m1	nazwisko	
+Tuleya	Tuleya:s3	subst:sg:nom:m1	nazwisko	
+Tuleyą	Tuleya:s3	subst:sg:inst:m1	nazwisko	
+Tuleye	Tuleya:s3	depr:pl:nom.acc.voc:m2	nazwisko	
+Tuleyę	Tuleya:s3	subst:sg:acc:m1	nazwisko	
+Tuleyom	Tuleya:s3	subst:pl:dat:m1	nazwisko	
+Tuleyo	Tuleya:s3	subst:sg:voc:m1	nazwisko	
+Tuleyowie	Tuleya:s3	subst:pl:nom.voc:m1	nazwisko	
+Tuleyów	Tuleya:s3	subst:pl:gen.acc:m1	nazwisko	
 Tuliszkowach	Tuliszków	subst:pl:loc:m3	nazwa geograficzna	
 Tuliszkowami	Tuliszków	subst:pl:inst:m3	nazwa geograficzna	
 Tuliszkowa	Tuliszków	subst:sg:gen:m3	nazwa geograficzna	

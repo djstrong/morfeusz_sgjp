@@ -2308,6 +2308,19 @@ Werter	Werter	subst:sg:nom:m1	imię	lit.
 Wertery	Werter	depr:pl:nom.acc.voc:m2	imię	lit.
 Werterze	Werter	subst:sg:loc:m1	imię	lit.
 Werterze	Werter	subst:sg:voc:m1	imię	lit.
+Weryhach	Weryho	subst:pl:loc:m1	nazwisko	
+Weryhami	Weryho	subst:pl:inst:m1	nazwisko	
+Weryhą	Weryho	subst:sg:inst:m1	nazwisko	
+Weryhę	Weryho	subst:sg:acc:m1	nazwisko	
+Weryhom	Weryho	subst:pl:dat:m1	nazwisko	
+Weryho	Weryho	subst:sg:nom:m1	nazwisko	
+Weryho	Weryho	subst:sg:voc:m1	nazwisko	
+Weryhowie	Weryho	subst:pl:nom.voc:m1	nazwisko	
+Weryhów	Weryho	subst:pl:gen.acc:m1	nazwisko	
+Weryhy	Weryho	depr:pl:nom.acc.voc:m2	nazwisko	
+Weryhy	Weryho	subst:sg:gen:m1	nazwisko	
+Werysze	Weryho	subst:sg:dat.loc:m1	nazwisko	
+Weryże	Weryho	subst:sg:dat.loc:m1	nazwisko	
 Wesołowska	Wesołowska	subst:sg:nom:f	nazwisko	
 Wesołowska	Wesołowska	subst:sg:voc:f	nazwisko	
 Wesołowską	Wesołowska	subst:sg:acc:f	nazwisko	
@@ -5056,6 +5069,18 @@ Witwickim	Witwicki	subst:sg:inst:m1	nazwisko
 Witwickim	Witwicki	subst:sg:loc:m1	nazwisko	
 Witwicki	Witwicki	subst:sg:nom:m1	nazwisko	
 Witwicki	Witwicki	subst:sg:voc:m1	nazwisko	
+Wizłach	Wizła	subst:pl:loc:m1	nazwisko	
+Wizłami	Wizła	subst:pl:inst:m1	nazwisko	
+Wizła	Wizła	subst:sg:nom:m1	nazwisko	
+Wizłą	Wizła	subst:sg:inst:m1	nazwisko	
+Wizłę	Wizła	subst:sg:acc:m1	nazwisko	
+Wizłom	Wizła	subst:pl:dat:m1	nazwisko	
+Wizłowie	Wizła	subst:pl:nom.voc:m1	nazwisko	
+Wizło	Wizła	subst:sg:voc:m1	nazwisko	
+Wizłów	Wizła	subst:pl:gen.acc:m1	nazwisko	
+Wizły	Wizła	depr:pl:nom.acc.voc:m2	nazwisko	
+Wizły	Wizła	subst:sg:gen:m1	nazwisko	
+Wiźle	Wizła	subst:sg:dat.loc:m1	nazwisko	
 Wizygocie	Wizygot	subst:sg:loc:m1	nazwa pospolita	
 Wizygocie	Wizygot	subst:sg:voc:m1	nazwa pospolita	
 Wizygoci	Wizygot	subst:pl:nom.voc:m1	nazwa pospolita	

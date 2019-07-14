@@ -9425,6 +9425,18 @@ Możdżyńskim	Możdżyński	subst:sg:inst:m1	nazwisko
 Możdżyńskim	Możdżyński	subst:sg:loc:m1	nazwisko	
 Możdżyński	Możdżyński	subst:sg:nom:m1	nazwisko	
 Możdżyński	Możdżyński	subst:sg:voc:m1	nazwisko	
+Molach	Mól	subst:pl:loc:m1	nazwisko	
+Molami	Mól	subst:pl:inst:m1	nazwisko	
+Mola	Mól	subst:sg:gen.acc:m1	nazwisko	
+Molem	Mól	subst:sg:inst:m1	nazwisko	
+Mole	Mól	depr:pl:nom.acc.voc:m2	nazwisko	
+Molom	Mól	subst:pl:dat:m1	nazwisko	
+Molowie	Mól	subst:pl:nom.voc:m1	nazwisko	
+Molowi	Mól	subst:sg:dat:m1	nazwisko	
+Molów	Mól	subst:pl:gen.acc:m1	nazwisko	
+Molu	Mól	subst:sg:loc:m1	nazwisko	
+Molu	Mól	subst:sg:voc:m1	nazwisko	
+Mól	Mól	subst:sg:nom:m1	nazwisko	
 MPiK-ach	MPiK	subst:pl:loc:m3	nazwa instytucji	
 MPiK-ami	MPiK	subst:pl:inst:m3	nazwa instytucji	
 MPiK-iem	MPiK	subst:sg:inst:m3	nazwa instytucji	

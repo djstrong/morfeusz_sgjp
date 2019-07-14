@@ -6224,19 +6224,19 @@ Kondom	Konda	subst:pl:dat:f	imię
 Kondy	Konda	subst:pl:nom.acc.voc:f	imię	
 Kondy	Konda	subst:sg:gen:f	imię	
 Kondzie	Konda	subst:sg:dat.loc:f	imię	
-Kondracie	Kondrat	subst:sg:loc:m1	imię	
-Kondracie	Kondrat	subst:sg:voc:m1	imię	
-Kondraci	Kondrat	subst:pl:nom.voc:m1	imię	
-Kondratach	Kondrat	subst:pl:loc:m1	imię	
-Kondrata	Kondrat	subst:sg:gen.acc:m1	imię	
-Kondratami	Kondrat	subst:pl:inst:m1	imię	
-Kondratem	Kondrat	subst:sg:inst:m1	imię	
-Kondrat	Kondrat	subst:sg:nom:m1	imię	
-Kondratom	Kondrat	subst:pl:dat:m1	imię	
-Kondratowie	Kondrat	subst:pl:nom.voc:m1	imię	
-Kondratowi	Kondrat	subst:sg:dat:m1	imię	
-Kondratów	Kondrat	subst:pl:gen.acc:m1	imię	
-Kondraty	Kondrat	depr:pl:nom.acc.voc:m2	imię	
+Kondracie	Kondrat	subst:sg:loc:m1	imię|nazwisko	
+Kondracie	Kondrat	subst:sg:voc:m1	imię|nazwisko	
+Kondraci	Kondrat	subst:pl:nom.voc:m1	imię|nazwisko	
+Kondratach	Kondrat	subst:pl:loc:m1	imię|nazwisko	
+Kondrata	Kondrat	subst:sg:gen.acc:m1	imię|nazwisko	
+Kondratami	Kondrat	subst:pl:inst:m1	imię|nazwisko	
+Kondratem	Kondrat	subst:sg:inst:m1	imię|nazwisko	
+Kondrat	Kondrat	subst:sg:nom:m1	imię|nazwisko	
+Kondratom	Kondrat	subst:pl:dat:m1	imię|nazwisko	
+Kondratowie	Kondrat	subst:pl:nom.voc:m1	imię|nazwisko	
+Kondratowi	Kondrat	subst:sg:dat:m1	imię|nazwisko	
+Kondratów	Kondrat	subst:pl:gen.acc:m1	imię|nazwisko	
+Kondraty	Kondrat	depr:pl:nom.acc.voc:m2	imię|nazwisko	
 Kondratiukach	Kondratiuk	subst:pl:loc:m1	nazwisko	
 Kondratiuka	Kondratiuk	subst:sg:gen.acc:m1	nazwisko	
 Kondratiukami	Kondratiuk	subst:pl:inst:m1	nazwisko	
@@ -7595,6 +7595,18 @@ Kosmowie	Kosma	subst:pl:nom.voc:m1	imię
 Kosmów	Kosma	subst:pl:gen.acc:m1	imię	
 Kosmy	Kosma	depr:pl:nom.acc.voc:m2	imię	
 Kosmy	Kosma	subst:sg:gen:m1	imię	
+Kosnach	Kosno	subst:pl:loc:m1	nazwisko	
+Kosnami	Kosno	subst:pl:inst:m1	nazwisko	
+Kosną	Kosno	subst:sg:inst:m1	nazwisko	
+Kosnę	Kosno	subst:sg:acc:m1	nazwisko	
+Kosno	Kosno	subst:sg:nom:m1	nazwisko	
+Kosno	Kosno	subst:sg:voc:m1	nazwisko	
+Kosnom	Kosno	subst:pl:dat:m1	nazwisko	
+Kosnowie	Kosno	subst:pl:nom.voc:m1	nazwisko	
+Kosnów	Kosno	subst:pl:gen.acc:m1	nazwisko	
+Kosny	Kosno	depr:pl:nom.acc.voc:m2	nazwisko	
+Kosny	Kosno	subst:sg:gen:m1	nazwisko	
+Kośnie	Kosno	subst:sg:dat.loc:m1	nazwisko	
 Kosowianach	Kosowianin	subst:pl:loc:m1	nazwa pospolita	
 Kosowianami	Kosowianin	subst:pl:inst:m1	nazwa pospolita	
 Kosowianie	Kosowianin	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -8393,6 +8405,18 @@ Koziarskimi	Koziarski	subst:pl:inst:m1	nazwisko
 Koziarskim	Koziarski	subst:pl:dat:m1	nazwisko	
 Koziarskim	Koziarski	subst:sg:inst:m1	nazwisko	
 Koziarskim	Koziarski	subst:sg:loc:m1	nazwisko	
+Koziec	Koziec	subst:sg:nom:m1	nazwisko	
+Koźcach	Koziec	subst:pl:loc:m1	nazwisko	
+Koźca	Koziec	subst:sg:gen.acc:m1	nazwisko	
+Koźcami	Koziec	subst:pl:inst:m1	nazwisko	
+Koźce	Koziec	depr:pl:nom.acc.voc:m2	nazwisko	
+Koźcem	Koziec	subst:sg:inst:m1	nazwisko	
+Koźcom	Koziec	subst:pl:dat:m1	nazwisko	
+Koźcowie	Koziec	subst:pl:nom.voc:m1	nazwisko	
+Koźcowi	Koziec	subst:sg:dat:m1	nazwisko	
+Koźców	Koziec	subst:pl:gen.acc:m1	nazwisko	
+Koźcu	Koziec	subst:sg:loc:m1	nazwisko	
+Koźcu	Koziec	subst:sg:voc:m1	nazwisko	
 Kozielicach	Kozielice	subst:pl:loc:n:pt	nazwa geograficzna	
 Kozielicach	Kozielice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Kozielicami	Kozielice	subst:pl:inst:n:pt	nazwa geograficzna	
