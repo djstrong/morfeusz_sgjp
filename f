@@ -50148,24 +50148,24 @@ fortragowanym	fortragować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf.perf:aff
 fortragowanymi	fortragować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
 fortragowań	fortragować	ger:pl:gen:n2:imperf.perf:aff		
 fortragowawszy	fortragować	pant:perf		daw.
-fortragująca	fortragować	pact:sg:nom.voc:f:imperf.perf:aff		
-fortragującą	fortragować	pact:sg:acc.inst:f:imperf.perf:aff		
-fortragujące	fortragować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff		
-fortragujące	fortragować	pact:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
-fortragującego	fortragować	pact:sg:acc:m1.m2:imperf.perf:aff		
-fortragującego	fortragować	pact:sg:gen:m1.m2.m3.n1.n2:imperf.perf:aff		
-fortragującej	fortragować	pact:sg:gen.dat.loc:f:imperf.perf:aff		
-fortragującemu	fortragować	pact:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+fortragująca	fortragować	pact:sg:nom.voc:f:imperf:aff		
+fortragującą	fortragować	pact:sg:acc.inst:f:imperf:aff		
+fortragujące	fortragować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fortragujące	fortragować	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+fortragującego	fortragować	pact:sg:acc:m1.m2:imperf:aff		
+fortragującego	fortragować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fortragującej	fortragować	pact:sg:gen.dat.loc:f:imperf:aff		
+fortragującemu	fortragować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 fortragując	fortragować	pcon:imperf		daw.
 fortragująco	fortragować	pacta		
-fortragujących	fortragować	pact:pl:acc:m1.p1:imperf.perf:aff		
-fortragujących	fortragować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-fortragujący	fortragować	pact:pl:nom.voc:m1.p1:imperf.perf:aff		
-fortragujący	fortragować	pact:sg:acc:m3:imperf.perf:aff		
-fortragujący	fortragować	pact:sg:nom.voc:m1.m2.m3:imperf.perf:aff		
-fortragującym	fortragować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-fortragującym	fortragować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf.perf:aff		
-fortragującymi	fortragować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
+fortragujących	fortragować	pact:pl:acc:m1.p1:imperf:aff		
+fortragujących	fortragować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fortragujący	fortragować	pact:pl:nom.voc:m1.p1:imperf:aff		
+fortragujący	fortragować	pact:sg:acc:m3:imperf:aff		
+fortragujący	fortragować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+fortragującym	fortragować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fortragującym	fortragować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fortragującymi	fortragować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fortragują	fortragować	fin:pl:ter:imperf.perf		daw.
 fortragujcie	fortragować	impt:pl:sec:imperf.perf		daw.
 fortragujecie	fortragować	fin:pl:sec:imperf.perf		daw.

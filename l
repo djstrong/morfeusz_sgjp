@@ -30731,24 +30731,24 @@ licencjonowanym	licencjonować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf
 licencjonowanym	licencjonować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf.perf:aff		
 licencjonowań	licencjonować	ger:pl:gen:n2:imperf.perf:aff		
 licencjonowawszy	licencjonować	pant:perf		
-licencjonująca	licencjonować	pact:sg:nom.voc:f:imperf.perf:aff		
-licencjonującą	licencjonować	pact:sg:acc.inst:f:imperf.perf:aff		
-licencjonującego	licencjonować	pact:sg:acc:m1.m2:imperf.perf:aff		
-licencjonującego	licencjonować	pact:sg:gen:m1.m2.m3.n1.n2:imperf.perf:aff		
-licencjonującej	licencjonować	pact:sg:gen.dat.loc:f:imperf.perf:aff		
-licencjonujące	licencjonować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff		
-licencjonujące	licencjonować	pact:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
-licencjonującemu	licencjonować	pact:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+licencjonująca	licencjonować	pact:sg:nom.voc:f:imperf:aff		
+licencjonującą	licencjonować	pact:sg:acc.inst:f:imperf:aff		
+licencjonującego	licencjonować	pact:sg:acc:m1.m2:imperf:aff		
+licencjonującego	licencjonować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+licencjonującej	licencjonować	pact:sg:gen.dat.loc:f:imperf:aff		
+licencjonujące	licencjonować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+licencjonujące	licencjonować	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+licencjonującemu	licencjonować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 licencjonując	licencjonować	pcon:imperf		
 licencjonująco	licencjonować	pacta		
-licencjonujących	licencjonować	pact:pl:acc:m1.p1:imperf.perf:aff		
-licencjonujących	licencjonować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-licencjonujący	licencjonować	pact:pl:nom.voc:m1.p1:imperf.perf:aff		
-licencjonujący	licencjonować	pact:sg:acc:m3:imperf.perf:aff		
-licencjonujący	licencjonować	pact:sg:nom.voc:m1.m2.m3:imperf.perf:aff		
-licencjonującymi	licencjonować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-licencjonującym	licencjonować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-licencjonującym	licencjonować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf.perf:aff		
+licencjonujących	licencjonować	pact:pl:acc:m1.p1:imperf:aff		
+licencjonujących	licencjonować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+licencjonujący	licencjonować	pact:pl:nom.voc:m1.p1:imperf:aff		
+licencjonujący	licencjonować	pact:sg:acc:m3:imperf:aff		
+licencjonujący	licencjonować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+licencjonującymi	licencjonować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+licencjonującym	licencjonować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+licencjonującym	licencjonować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 licencjonują	licencjonować	fin:pl:ter:imperf.perf		
 licencjonujcie	licencjonować	impt:pl:sec:imperf.perf		
 licencjonujecie	licencjonować	fin:pl:sec:imperf.perf		
@@ -51592,24 +51592,24 @@ lombardowanym	lombardować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff
 lombardowanym	lombardować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf.perf:aff		
 lombardowań	lombardować	ger:pl:gen:n2:imperf.perf:aff		
 lombardowawszy	lombardować	pant:perf		daw.
-lombardująca	lombardować	pact:sg:nom.voc:f:imperf.perf:aff		
-lombardującą	lombardować	pact:sg:acc.inst:f:imperf.perf:aff		
-lombardującego	lombardować	pact:sg:acc:m1.m2:imperf.perf:aff		
-lombardującego	lombardować	pact:sg:gen:m1.m2.m3.n1.n2:imperf.perf:aff		
-lombardującej	lombardować	pact:sg:gen.dat.loc:f:imperf.perf:aff		
-lombardujące	lombardować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff		
-lombardujące	lombardować	pact:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
-lombardującemu	lombardować	pact:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+lombardująca	lombardować	pact:sg:nom.voc:f:imperf:aff		
+lombardującą	lombardować	pact:sg:acc.inst:f:imperf:aff		
+lombardującego	lombardować	pact:sg:acc:m1.m2:imperf:aff		
+lombardującego	lombardować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+lombardującej	lombardować	pact:sg:gen.dat.loc:f:imperf:aff		
+lombardujące	lombardować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+lombardujące	lombardować	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+lombardującemu	lombardować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 lombardując	lombardować	pcon:imperf		daw.
 lombardująco	lombardować	pacta		
-lombardujących	lombardować	pact:pl:acc:m1.p1:imperf.perf:aff		
-lombardujących	lombardować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lombardujący	lombardować	pact:pl:nom.voc:m1.p1:imperf.perf:aff		
-lombardujący	lombardować	pact:sg:acc:m3:imperf.perf:aff		
-lombardujący	lombardować	pact:sg:nom.voc:m1.m2.m3:imperf.perf:aff		
-lombardującymi	lombardować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lombardującym	lombardować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lombardującym	lombardować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf.perf:aff		
+lombardujących	lombardować	pact:pl:acc:m1.p1:imperf:aff		
+lombardujących	lombardować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lombardujący	lombardować	pact:pl:nom.voc:m1.p1:imperf:aff		
+lombardujący	lombardować	pact:sg:acc:m3:imperf:aff		
+lombardujący	lombardować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+lombardującymi	lombardować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lombardującym	lombardować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lombardującym	lombardować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 lombardują	lombardować	fin:pl:ter:imperf.perf		daw.
 lombardujcie	lombardować	impt:pl:sec:imperf.perf		daw.
 lombardujecie	lombardować	fin:pl:sec:imperf.perf		daw.
@@ -54129,24 +54129,24 @@ lóżki	lóżka	subst:pl:voc:f	nazwa pospolita
 lóżki	lóżka	subst:sg:gen:f	nazwa pospolita	
 lóżko	lóżka	subst:sg:voc:f	nazwa pospolita	
 lóżkom	lóżka	subst:pl:dat:f	nazwa pospolita	
-lsknąca	lsknąć	pact:sg:nom.voc:f:imperf.perf:aff		
-lsknącą	lsknąć	pact:sg:acc.inst:f:imperf.perf:aff		
-lsknącego	lsknąć	pact:sg:acc:m1.m2:imperf.perf:aff		
-lsknącego	lsknąć	pact:sg:gen:m1.m2.m3.n1.n2:imperf.perf:aff		
-lsknącej	lsknąć	pact:sg:gen.dat.loc:f:imperf.perf:aff		
-lsknące	lsknąć	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff		
-lsknące	lsknąć	pact:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
-lsknącemu	lsknąć	pact:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+lsknąca	lsknąć	pact:sg:nom.voc:f:imperf:aff		
+lsknącą	lsknąć	pact:sg:acc.inst:f:imperf:aff		
+lsknącego	lsknąć	pact:sg:acc:m1.m2:imperf:aff		
+lsknącego	lsknąć	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+lsknącej	lsknąć	pact:sg:gen.dat.loc:f:imperf:aff		
+lsknące	lsknąć	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+lsknące	lsknąć	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+lsknącemu	lsknąć	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 lsknąc	lsknąć	pcon:imperf		daw.
 lsknąco	lsknąć	pacta		
-lsknących	lsknąć	pact:pl:acc:m1.p1:imperf.perf:aff		
-lsknących	lsknąć	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lsknący	lsknąć	pact:pl:nom.voc:m1.p1:imperf.perf:aff		
-lsknący	lsknąć	pact:sg:acc:m3:imperf.perf:aff		
-lsknący	lsknąć	pact:sg:nom.voc:m1.m2.m3:imperf.perf:aff		
-lsknącymi	lsknąć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lsknącym	lsknąć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lsknącym	lsknąć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf.perf:aff		
+lsknących	lsknąć	pact:pl:acc:m1.p1:imperf:aff		
+lsknących	lsknąć	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lsknący	lsknąć	pact:pl:nom.voc:m1.p1:imperf:aff		
+lsknący	lsknąć	pact:sg:acc:m3:imperf:aff		
+lsknący	lsknąć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+lsknącymi	lsknąć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lsknącym	lsknąć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lsknącym	lsknąć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 lsknąć	lsknąć	inf:imperf.perf		daw.
 lskną	lsknąć	fin:pl:ter:imperf.perf		daw.
 lsknąłby	lsknąć	cond:sg:m1.m2.m3:ter:imperf.perf		daw.
@@ -54276,24 +54276,24 @@ lskniłyśmy	lsknić	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
 lsknimy	lsknić	fin:pl:pri:imperf		daw.
 lskniono	lsknić	imps:imperf		daw.
 lsknisz	lsknić	fin:sg:sec:imperf		daw.
-lsnąca	lsnąć	pact:sg:nom.voc:f:imperf.perf:aff		
-lsnącą	lsnąć	pact:sg:acc.inst:f:imperf.perf:aff		
-lsnącego	lsnąć	pact:sg:acc:m1.m2:imperf.perf:aff		
-lsnącego	lsnąć	pact:sg:gen:m1.m2.m3.n1.n2:imperf.perf:aff		
-lsnącej	lsnąć	pact:sg:gen.dat.loc:f:imperf.perf:aff		
-lsnące	lsnąć	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff		
-lsnące	lsnąć	pact:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
-lsnącemu	lsnąć	pact:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+lsnąca	lsnąć	pact:sg:nom.voc:f:imperf:aff		
+lsnącą	lsnąć	pact:sg:acc.inst:f:imperf:aff		
+lsnącego	lsnąć	pact:sg:acc:m1.m2:imperf:aff		
+lsnącego	lsnąć	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+lsnącej	lsnąć	pact:sg:gen.dat.loc:f:imperf:aff		
+lsnące	lsnąć	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+lsnące	lsnąć	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+lsnącemu	lsnąć	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 lsnąc	lsnąć	pcon:imperf		daw.
 lsnąco	lsnąć	pacta		
-lsnących	lsnąć	pact:pl:acc:m1.p1:imperf.perf:aff		
-lsnących	lsnąć	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lsnący	lsnąć	pact:pl:nom.voc:m1.p1:imperf.perf:aff		
-lsnący	lsnąć	pact:sg:acc:m3:imperf.perf:aff		
-lsnący	lsnąć	pact:sg:nom.voc:m1.m2.m3:imperf.perf:aff		
-lsnącymi	lsnąć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lsnącym	lsnąć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lsnącym	lsnąć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf.perf:aff		
+lsnących	lsnąć	pact:pl:acc:m1.p1:imperf:aff		
+lsnących	lsnąć	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lsnący	lsnąć	pact:pl:nom.voc:m1.p1:imperf:aff		
+lsnący	lsnąć	pact:sg:acc:m3:imperf:aff		
+lsnący	lsnąć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+lsnącymi	lsnąć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lsnącym	lsnąć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lsnącym	lsnąć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 lsnąć	lsnąć	inf:imperf.perf		daw.
 lsną	lsnąć	fin:pl:ter:imperf.perf		daw.
 lsnąłby	lsnąć	cond:sg:m1.m2.m3:ter:imperf.perf		daw.
@@ -54423,24 +54423,24 @@ lśknięto	lśknąć:v1	imps:imperf		daw.
 lśknijcie	lśknąć:v1	impt:pl:sec:imperf		daw.
 lśknij	lśknąć:v1	impt:sg:sec:imperf		daw.
 lśknijmy	lśknąć:v1	impt:pl:pri:imperf		daw.
-lśknąca	lśknąć:v2	pact:sg:nom.voc:f:imperf.perf:aff		
-lśknącą	lśknąć:v2	pact:sg:acc.inst:f:imperf.perf:aff		
-lśknącego	lśknąć:v2	pact:sg:acc:m1.m2:imperf.perf:aff		
-lśknącego	lśknąć:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf.perf:aff		
-lśknącej	lśknąć:v2	pact:sg:gen.dat.loc:f:imperf.perf:aff		
-lśknące	lśknąć:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff		
-lśknące	lśknąć:v2	pact:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
-lśknącemu	lśknąć:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+lśknąca	lśknąć:v2	pact:sg:nom.voc:f:imperf:aff		
+lśknącą	lśknąć:v2	pact:sg:acc.inst:f:imperf:aff		
+lśknącego	lśknąć:v2	pact:sg:acc:m1.m2:imperf:aff		
+lśknącego	lśknąć:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+lśknącej	lśknąć:v2	pact:sg:gen.dat.loc:f:imperf:aff		
+lśknące	lśknąć:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+lśknące	lśknąć:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+lśknącemu	lśknąć:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 lśknąc	lśknąć:v2	pcon:imperf		daw.
 lśknąco	lśknąć:v2	pacta		
-lśknących	lśknąć:v2	pact:pl:acc:m1.p1:imperf.perf:aff		
-lśknących	lśknąć:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lśknący	lśknąć:v2	pact:pl:nom.voc:m1.p1:imperf.perf:aff		
-lśknący	lśknąć:v2	pact:sg:acc:m3:imperf.perf:aff		
-lśknący	lśknąć:v2	pact:sg:nom.voc:m1.m2.m3:imperf.perf:aff		
-lśknącymi	lśknąć:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lśknącym	lśknąć:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lśknącym	lśknąć:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf.perf:aff		
+lśknących	lśknąć:v2	pact:pl:acc:m1.p1:imperf:aff		
+lśknących	lśknąć:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lśknący	lśknąć:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
+lśknący	lśknąć:v2	pact:sg:acc:m3:imperf:aff		
+lśknący	lśknąć:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+lśknącymi	lśknąć:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lśknącym	lśknąć:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lśknącym	lśknąć:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 lśknąć	lśknąć:v2	inf:imperf.perf		daw.
 lśkną	lśknąć:v2	fin:pl:ter:imperf.perf		daw.
 lśknąłby	lśknąć:v2	cond:sg:m1.m2.m3:ter:imperf.perf		daw.

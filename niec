@@ -18623,24 +18623,24 @@ niechaciany	niechaciany	adj:sg:acc:m3:pos
 niechaciany	niechaciany	adj:sg:nom.voc:m1.m2.m3:pos		
 niechacie	niechać	fin:pl:sec:imperf.perf		daw.
 niechać	niechać	inf:imperf.perf		daw.
-niechająca	niechać	pact:sg:nom.voc:f:imperf.perf:aff		
-niechającą	niechać	pact:sg:acc.inst:f:imperf.perf:aff		
-niechającego	niechać	pact:sg:acc:m1.m2:imperf.perf:aff		
-niechającego	niechać	pact:sg:gen:m1.m2.m3.n1.n2:imperf.perf:aff		
-niechającej	niechać	pact:sg:gen.dat.loc:f:imperf.perf:aff		
-niechającemu	niechać	pact:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
-niechające	niechać	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff		
-niechające	niechać	pact:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
+niechająca	niechać	pact:sg:nom.voc:f:imperf:aff		
+niechającą	niechać	pact:sg:acc.inst:f:imperf:aff		
+niechającego	niechać	pact:sg:acc:m1.m2:imperf:aff		
+niechającego	niechać	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+niechającej	niechać	pact:sg:gen.dat.loc:f:imperf:aff		
+niechającemu	niechać	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+niechające	niechać	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+niechające	niechać	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
 niechając	niechać	pcon:imperf		daw.
 niechająco	niechać	pacta		
-niechających	niechać	pact:pl:acc:m1.p1:imperf.perf:aff		
-niechających	niechać	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-niechającymi	niechać	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-niechającym	niechać	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-niechającym	niechać	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf.perf:aff		
-niechający	niechać	pact:pl:nom.voc:m1.p1:imperf.perf:aff		
-niechający	niechać	pact:sg:acc:m3:imperf.perf:aff		
-niechający	niechać	pact:sg:nom.voc:m1.m2.m3:imperf.perf:aff		
+niechających	niechać	pact:pl:acc:m1.p1:imperf:aff		
+niechających	niechać	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+niechającymi	niechać	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+niechającym	niechać	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+niechającym	niechać	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+niechający	niechać	pact:pl:nom.voc:m1.p1:imperf:aff		
+niechający	niechać	pact:sg:acc:m3:imperf:aff		
+niechający	niechać	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 niechają	niechać	fin:pl:ter:imperf.perf		daw.
 niechajcie	niechać	impt:pl:sec:imperf.perf		daw.
 niechajmy	niechać	impt:pl:pri:imperf.perf		daw.
