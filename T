@@ -199,6 +199,29 @@ Taine	Taine	subst:sg:nom:m1	nazwisko
 Taine’y	Taine	depr:pl:nom.acc.voc:m2	nazwisko	
 Tainie	Taine	subst:sg:loc:m1	nazwisko	
 Tainie	Taine	subst:sg:voc:m1	nazwisko	
+Tajach	Taj	subst:pl:loc:m1	nazwa pospolita	etn.
+Tajami	Taj	subst:pl:inst:m1	nazwa pospolita	etn.
+Taja	Taj	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Tajem	Taj	subst:sg:inst:m1	nazwa pospolita	etn.
+Taje	Taj	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+Tajom	Taj	subst:pl:dat:m1	nazwa pospolita	etn.
+Tajowie	Taj	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Tajowi	Taj	subst:sg:dat:m1	nazwa pospolita	etn.
+Tajów	Taj	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Taj	Taj	subst:sg:nom:m1	nazwa pospolita	etn.
+Taju	Taj	subst:sg:loc:m1	nazwa pospolita	etn.
+Taju	Taj	subst:sg:voc:m1	nazwa pospolita	etn.
+Tajce	Tajka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+Tajek	Tajka	subst:pl:gen:f	nazwa pospolita	etn.
+Tajkach	Tajka	subst:pl:loc:f	nazwa pospolita	etn.
+Tajkami	Tajka	subst:pl:inst:f	nazwa pospolita	etn.
+Tajka	Tajka	subst:sg:nom:f	nazwa pospolita	etn.
+Tajką	Tajka	subst:sg:inst:f	nazwa pospolita	etn.
+Tajkę	Tajka	subst:sg:acc:f	nazwa pospolita	etn.
+Tajki	Tajka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+Tajki	Tajka	subst:sg:gen:f	nazwa pospolita	etn.
+Tajkom	Tajka	subst:pl:dat:f	nazwa pospolita	etn.
+Tajko	Tajka	subst:sg:voc:f	nazwa pospolita	etn.
 Tajlandczycy	Tajlandczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Tajlandczykach	Tajlandczyk	subst:pl:loc:m1	nazwa pospolita	
 Tajlandczykami	Tajlandczyk	subst:pl:inst:m1	nazwa pospolita	

@@ -5262,6 +5262,17 @@ Słucków	Słuck	subst:pl:gen:m3	nazwa geograficzna
 Słuck	Słuck	subst:sg:nom.acc:m3	nazwa geograficzna	
 Słucku	Słuck	subst:sg:loc:m3	nazwa geograficzna	
 Słucku	Słuck	subst:sg:voc:m3	nazwa geograficzna	
+Słupcach	Słupca	subst:pl:loc:f	nazwa geograficzna	
+Słupcami	Słupca	subst:pl:inst:f	nazwa geograficzna	
+Słupca	Słupca	subst:sg:nom:f	nazwa geograficzna	
+Słupcą	Słupca	subst:sg:inst:f	nazwa geograficzna	
+Słupce	Słupca	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Słupcę	Słupca	subst:sg:acc:f	nazwa geograficzna	
+Słupcom	Słupca	subst:pl:dat:f	nazwa geograficzna	
+Słupco	Słupca	subst:sg:voc:f	nazwa geograficzna	
+Słupc	Słupca	subst:pl:gen:f	nazwa geograficzna	
+Słupcy	Słupca	subst:sg:dat.loc:f	nazwa geograficzna	
+Słupcy	Słupca	subst:sg:gen:f	nazwa geograficzna	
 Słupiach	Słupia	subst:pl:loc:f	nazwa geograficzna	
 Słupiami	Słupia	subst:pl:inst:f	nazwa geograficzna	
 Słupia	Słupia	subst:sg:nom:f	nazwa geograficzna	

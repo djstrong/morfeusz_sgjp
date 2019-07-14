@@ -3646,19 +3646,19 @@ Marzenno	Marzenna	subst:sg:voc:f	imię
 Marzennom	Marzenna	subst:pl:dat:f	imię	
 Marzenny	Marzenna	subst:pl:nom.acc.voc:f	imię	
 Marzenny	Marzenna	subst:sg:gen:f	imię	
-Masajach	Masaj	subst:pl:loc:m1	nazwa pospolita	
-Masaja	Masaj	subst:sg:gen.acc:m1	nazwa pospolita	
-Masajami	Masaj	subst:pl:inst:m1	nazwa pospolita	
-Masaje	Masaj	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-Masaje	Masaj	subst:pl:nom.voc:m1	nazwa pospolita	
-Masajem	Masaj	subst:sg:inst:m1	nazwa pospolita	
-Masaj	Masaj	subst:sg:nom:m1	nazwa pospolita	
-Masajom	Masaj	subst:pl:dat:m1	nazwa pospolita	
-Masajowie	Masaj	subst:pl:nom.voc:m1	nazwa pospolita	
-Masajowi	Masaj	subst:sg:dat:m1	nazwa pospolita	
-Masajów	Masaj	subst:pl:gen.acc:m1	nazwa pospolita	
-Masaju	Masaj	subst:sg:loc:m1	nazwa pospolita	
-Masaju	Masaj	subst:sg:voc:m1	nazwa pospolita	
+Masajach	Masaj	subst:pl:loc:m1	nazwa pospolita	etn.
+Masaja	Masaj	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Masajami	Masaj	subst:pl:inst:m1	nazwa pospolita	etn.
+Masaje	Masaj	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+Masaje	Masaj	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Masajem	Masaj	subst:sg:inst:m1	nazwa pospolita	etn.
+Masaj	Masaj	subst:sg:nom:m1	nazwa pospolita	etn.
+Masajom	Masaj	subst:pl:dat:m1	nazwa pospolita	etn.
+Masajowie	Masaj	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Masajowi	Masaj	subst:sg:dat:m1	nazwa pospolita	etn.
+Masajów	Masaj	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Masaju	Masaj	subst:sg:loc:m1	nazwa pospolita	etn.
+Masaju	Masaj	subst:sg:voc:m1	nazwa pospolita	etn.
 Masarykach	Masaryk	subst:pl:loc:m1	nazwisko	
 Masaryka	Masaryk	subst:sg:gen.acc:m1	nazwisko	
 Masarykami	Masaryk	subst:pl:inst:m1	nazwisko	
