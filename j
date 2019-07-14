@@ -3746,7 +3746,8 @@ jakimżekolwiek	jakiżkolwiek	adj:sg:loc:m1.m2.m3.n1.n2:pos		rzad.
 jakiżkolwiek	jakiżkolwiek	adj:sg:acc:m3:pos		rzad.
 jakiżkolwiek	jakiżkolwiek	adj:sg:nom.voc:m1.m2.m3:pos		rzad.
 jak	jak:j	conj		
-jakkolwiek	jakkolwiek	comp		
+jakkolwiek	jakkolwiek:c	comp		
+jakkolwiek	jakkolwiek:d	adv:pos		
 jaklach	jakla	subst:pl:loc:f	pospolita	
 jakla	jakla	subst:sg:nom:f	pospolita	
 jaklami	jakla	subst:pl:inst:f	pospolita	
@@ -40113,13 +40114,13 @@ jużyny	jużyna	subst:pl:acc:f	pospolita	daw.
 jużyny	jużyna	subst:pl:nom:f	pospolita	daw.
 jużyny	jużyna	subst:pl:voc:f	pospolita	daw.
 jużyny	jużyna	subst:sg:gen:f	pospolita	daw.
-ją	on:o	ppron3:sg:acc:f:ter:_:npraep		
+ją	on:o	ppron3:sg:acc:f:ter:akc.nakc:npraep		
 jego	on:o	ppron3:sg:acc:m1.m2.m3:ter:akc:npraep		
 jego	on:o	ppron3:sg:gen:m1.m2.m3:ter:akc:npraep		
 jego	on:o	ppron3:sg:gen:n1.n2:ter:akc:npraep		
-jej	on:o	ppron3:sg:dat:f:ter:_:npraep		
-jej	on:o	ppron3:sg:gen:f:ter:_:npraep		
+jej	on:o	ppron3:sg:dat:f:ter:akc.nakc:npraep		
+jej	on:o	ppron3:sg:gen:f:ter:akc.nakc:npraep		
 jemu	on:o	ppron3:sg:dat:m1.m2.m3:ter:akc:npraep		
 jemu	on:o	ppron3:sg:dat:n1.n2:ter:akc:npraep		
-je	on:o	ppron3:pl:acc:m2.m3.f.n1.n2.p2.p3:ter:_:npraep		
-je	on:o	ppron3:sg:acc:n1.n2:ter:_:npraep		
+je	on:o	ppron3:pl:acc:m2.m3.f.n1.n2.p2.p3:ter:akc.nakc:npraep		
+je	on:o	ppron3:sg:acc:n1.n2:ter:akc.nakc:npraep		

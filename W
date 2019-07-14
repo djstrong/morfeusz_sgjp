@@ -3363,6 +3363,8 @@ Węgrowy	Węgrów	subst:pl:nom:m3	geograficzna
 Węgrowy	Węgrów	subst:pl:voc:m3	geograficzna	
 Węgrów	Węgrów	subst:sg:acc:m3	geograficzna	
 Węgrów	Węgrów	subst:sg:nom:m3	geograficzna	
+Węgier	Węgry	subst:pl:gen:p2	geograficzna	rzad.
+Węgier	Węgry	subst:pl:gen:p3	geograficzna	
 Węgrami	Węgry	subst:pl:inst:p2	geograficzna	rzad.
 Węgrami	Węgry	subst:pl:inst:p3	geograficzna	
 Węgrom	Węgry	subst:pl:dat:p2	geograficzna	rzad.
@@ -3387,6 +3389,8 @@ Węgrzce	Węgrzce	subst:pl:voc:p2	geograficzna	rzad.
 Węgrzce	Węgrzce	subst:pl:voc:p3	geograficzna	
 Węgrzcom	Węgrzce	subst:pl:dat:p2	geograficzna	rzad.
 Węgrzcom	Węgrzce	subst:pl:dat:p3	geograficzna	
+Węgrzec	Węgrzce	subst:pl:gen:p2	geograficzna	rzad.
+Węgrzec	Węgrzce	subst:pl:gen:p3	geograficzna	
 Węgrzynowska	Węgrzynowska	subst:sg:nom:f	nazwisko	
 Węgrzynowska	Węgrzynowska	subst:sg:voc:f	nazwisko	
 Węgrzynowską	Węgrzynowska	subst:sg:acc:f	nazwisko	
@@ -6891,11 +6895,11 @@ Władowie	Wład	subst:pl:voc:m1	imię
 Władowi	Wład	subst:sg:dat:m1	imię	
 Władów	Wład	subst:pl:acc:m1	imię	
 Władów	Wład	subst:pl:gen:m1	imię	
-Władu	Wład	subst:sg:loc:m1	imię	
-Władu	Wład	subst:sg:voc:m1	imię	
 Wład	Wład	subst:sg:nom:m1	imię	
 Włady	Wład	depr:pl:nom:m2	imię	
 Włady	Wład	depr:pl:voc:m2	imię	
+Władzie	Wład	subst:sg:loc:m1	imię	
+Władzie	Wład	subst:sg:voc:m1	imię	
 Władach	Włada	subst:pl:loc:f	imię	
 Władami	Włada	subst:pl:inst:f	imię	
 Włada	Włada	subst:sg:nom:f	imię	
@@ -7116,6 +7120,8 @@ Włochami	Włochy:s1	subst:pl:inst:p2	geograficzna	rzad.
 Włochami	Włochy:s1	subst:pl:inst:p3	geograficzna	
 Włochom	Włochy:s1	subst:pl:dat:p2	geograficzna	rzad.
 Włochom	Włochy:s1	subst:pl:dat:p3	geograficzna	
+Włoch	Włochy:s1	subst:pl:gen:p2	geograficzna	rzad.
+Włoch	Włochy:s1	subst:pl:gen:p3	geograficzna	
 Włochy	Włochy:s1	subst:pl:acc:p2	geograficzna	rzad.
 Włochy	Włochy:s1	subst:pl:acc:p3	geograficzna	
 Włochy	Włochy:s1	subst:pl:nom:p2	geograficzna	rzad.

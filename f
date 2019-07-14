@@ -42291,6 +42291,7 @@ fluorescencji	fluorescencja	subst:sg:loc:f	pospolita
 fluorescencjo	fluorescencja	subst:sg:voc:f	pospolita	
 fluorescencjom	fluorescencja	subst:pl:dat:f	pospolita	
 fluorescencyj	fluorescencja	subst:pl:gen:f	pospolita	arch.|char.
+fluorescencyjnie	fluorescencyjnie	adv:pos		
 fluorescencyjnościach	fluorescencyjność	subst:pl:loc:f		
 fluorescencyjnościami	fluorescencyjność	subst:pl:inst:f		
 fluorescencyjnością	fluorescencyjność	subst:sg:inst:f		

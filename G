@@ -214,10 +214,10 @@ Gadowie	Gad	subst:pl:voc:m1	imię|nazwisko	bibl.
 Gadowi	Gad	subst:sg:dat:m1	imię|nazwisko	bibl.
 Gadów	Gad	subst:pl:acc:m1	imię|nazwisko	bibl.
 Gadów	Gad	subst:pl:gen:m1	imię|nazwisko	bibl.
-Gadu	Gad	subst:sg:loc:m1	imię|nazwisko	bibl.
-Gadu	Gad	subst:sg:voc:m1	imię|nazwisko	bibl.
 Gady	Gad	depr:pl:nom:m2	imię|nazwisko	bibl.
 Gady	Gad	depr:pl:voc:m2	imię|nazwisko	bibl.
+Gadzie	Gad	subst:sg:loc:m1	imię|nazwisko	bibl.
+Gadzie	Gad	subst:sg:voc:m1	imię|nazwisko	bibl.
 Gadomska	Gadomska	subst:sg:nom:f	nazwisko	
 Gadomska	Gadomska	subst:sg:voc:f	nazwisko	
 Gadomską	Gadomska	subst:sg:acc:f	nazwisko	
@@ -295,6 +295,7 @@ Gaję	Gaja	subst:sg:acc:f	imię	mit.
 Gaj	Gaja	subst:pl:gen:f	imię	char.|mit.
 Gajo	Gaja	subst:sg:voc:f	imię	mit.
 Gajom	Gaja	subst:pl:dat:f	imię	mit.
+Gaju	Gaja	subst:sg:voc:f	imię	mit.
 Gajce	Gajcy	depr:pl:nom:m2	nazwisko	
 Gajce	Gajcy	depr:pl:voc:m2	nazwisko	
 Gajcego	Gajcy	subst:sg:acc:m1	nazwisko	

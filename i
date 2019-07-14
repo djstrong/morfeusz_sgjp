@@ -47251,6 +47251,6 @@ izydyj	izydia	subst:pl:gen:f	pospolita	arch.|char.
 iż	iż	comp		
 iżby	iżby	comp		
 iże	iże	comp		przest.
-ich	on:o	ppron3:pl:acc:m1.p1:ter:_:npraep		
-ich	on:o	ppron3:pl:gen:_:ter:_:npraep		
-im	on:o	ppron3:pl:dat:_:ter:_:npraep		
+ich	on:o	ppron3:pl:acc:m1.p1:ter:akc.nakc:npraep		
+ich	on:o	ppron3:pl:gen:_:ter:akc.nakc:npraep		
+im	on:o	ppron3:pl:dat:_:ter:akc.nakc:npraep		

@@ -18533,6 +18533,7 @@ elegicznym	elegiczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest.
 elegicznym	elegiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		przest.
 elegicznym	elegiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		przest.
 elegicznymi	elegiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest.
+elegijnie	elegijnie	adv:pos		
 elegijnościach	elegijność	subst:pl:loc:f		
 elegijnościami	elegijność	subst:pl:inst:f		
 elegijnością	elegijność	subst:sg:inst:f		

@@ -3855,10 +3855,12 @@ Mariole	Mariola	subst:pl:acc:f	imię
 Mariole	Mariola	subst:pl:nom:f	imię	
 Mariole	Mariola	subst:pl:voc:f	imię	
 Mariolę	Mariola	subst:sg:acc:f	imię	
+Marioli	Mariola	subst:pl:gen:f	imię	hom.
 Marioli	Mariola	subst:sg:dat:f	imię	
 Marioli	Mariola	subst:sg:gen:f	imię	
 Marioli	Mariola	subst:sg:loc:f	imię	
-Mariol	Mariola	subst:pl:gen:f	imię	
+Mariol	Mariola	subst:pl:gen:f	imię	char.
+Mariolo	Mariola	subst:sg:voc:f	imię	
 Mariolom	Mariola	subst:pl:dat:f	imię	
 Mariolu	Mariola	subst:sg:voc:f	imię	
 Mariolciach	Mariolcia	subst:pl:loc:f	imię	
@@ -4644,10 +4646,12 @@ Maryle	Maryla	subst:pl:acc:f	imię
 Maryle	Maryla	subst:pl:nom:f	imię	
 Maryle	Maryla	subst:pl:voc:f	imię	
 Marylę	Maryla	subst:sg:acc:f	imię	
+Maryli	Maryla	subst:pl:gen:f	imię	hom.
 Maryli	Maryla	subst:sg:dat:f	imię	
 Maryli	Maryla	subst:sg:gen:f	imię	
 Maryli	Maryla	subst:sg:loc:f	imię	
-Maryl	Maryla	subst:pl:gen:f	imię	
+Maryl	Maryla	subst:pl:gen:f	imię	char.
+Marylo	Maryla	subst:sg:voc:f	imię	
 Marylom	Maryla	subst:pl:dat:f	imię	
 Marylu	Maryla	subst:sg:voc:f	imię	
 Marylandach	Maryland	subst:pl:loc:m3	geograficzna	
@@ -6239,10 +6243,7 @@ Medyny	Medyna	subst:pl:acc:f	geograficzna
 Medyny	Medyna	subst:pl:nom:f	geograficzna	
 Medyny	Medyna	subst:pl:voc:f	geograficzna	
 Medyny	Medyna	subst:sg:gen:f	geograficzna	
-Mefiscie	Mefisto	subst:sg:loc:m1	imię	
 Mefistach	Mefisto	subst:pl:loc:m1	imię	
-Mefista	Mefisto	depr:pl:nom:m2	imię	
-Mefista	Mefisto	depr:pl:voc:m2	imię	
 Mefista	Mefisto	subst:sg:acc:m1	imię	
 Mefista	Mefisto	subst:sg:gen:m1	imię	
 Mefistami	Mefisto	subst:pl:inst:m1	imię	
@@ -6255,6 +6256,9 @@ Mefistowie	Mefisto	subst:pl:voc:m1	imię
 Mefistowi	Mefisto	subst:sg:dat:m1	imię	
 Mefistów	Mefisto	subst:pl:acc:m1	imię	
 Mefistów	Mefisto	subst:pl:gen:m1	imię	
+Mefisty	Mefisto	depr:pl:nom:m2	imię	
+Mefisty	Mefisto	depr:pl:voc:m2	imię	
+Mefiście	Mefisto	subst:sg:loc:m1	imię	
 Mefistofelesach	Mefistofeles	subst:pl:loc:m1	imię	
 Mefistofelesa	Mefistofeles	subst:sg:acc:m1	imię	
 Mefistofelesa	Mefistofeles	subst:sg:gen:m1	imię	

@@ -4296,6 +4296,7 @@ niejakimś	niejakiś	adj:sg:inst:m1.m2.m3.n1.n2:pos
 niejakimś	niejakiś	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 niejakiś	niejakiś	adj:sg:acc:m3:pos		
 niejakiś	niejakiś	adj:sg:nom.voc:m1.m2.m3:pos		
+niejakkolwiek	niejakkolwiek	adv:pos		
 niejako	niejako	qub		
 niejakobiccy	niejakobicki	adj:pl:nom.voc:m1.p1:pos		
 niejakobicka	niejakobicki	adj:sg:nom.voc:f:pos		
@@ -24397,6 +24398,6 @@ niejuwenilnym	niejuwenilny	adj:sg:inst:m1.m2.m3.n1.n2:pos
 niejuwenilnym	niejuwenilny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 niejuwenilny	niejuwenilny	adj:sg:acc:m3:pos		
 niejuwenilny	niejuwenilny	adj:sg:nom.voc:m1.m2.m3:pos		
-niej	on:o	ppron3:sg:dat:f:ter:_:praep		
-niej	on:o	ppron3:sg:gen:f:ter:_:praep		
-niej	on:o	ppron3:sg:loc:f:ter:_:_		
+niej	on:o	ppron3:sg:dat:f:ter:akc.nakc:praep		
+niej	on:o	ppron3:sg:gen:f:ter:akc.nakc:praep		
+niej	on:o	ppron3:sg:loc:f:ter:akc.nakc:praep.npraep		

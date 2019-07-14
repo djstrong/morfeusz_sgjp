@@ -39,7 +39,9 @@ Xenie	Xenia	subst:pl:nom:f	imię
 Xenie	Xenia	subst:pl:voc:f	imię	
 Xenię	Xenia	subst:sg:acc:f	imię	
 Xeniom	Xenia	subst:pl:dat:f	imię	
+Xenio	Xenia	subst:sg:voc:f	imię	
 Xeniu	Xenia	subst:sg:voc:f	imię	
+Xeni	Xenia	subst:pl:gen:f	imię	hom.
 Xeni	Xenia	subst:pl:gen:f	imię	hom.|rzad.
 Xeni	Xenia	subst:sg:dat:f	imię	
 Xeni	Xenia	subst:sg:gen:f	imię	

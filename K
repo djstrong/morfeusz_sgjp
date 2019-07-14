@@ -582,6 +582,7 @@ Kaję	Kaja	subst:sg:acc:f	imię
 Kaj	Kaja	subst:pl:gen:f	imię	char.
 Kajo	Kaja	subst:sg:voc:f	imię	
 Kajom	Kaja	subst:pl:dat:f	imię	
+Kaju	Kaja	subst:sg:voc:f	imię	
 Kajetanach	Kajetan	subst:pl:loc:m1	imię	
 Kajetana	Kajetan	subst:sg:acc:m1	imię	
 Kajetana	Kajetan	subst:sg:gen:m1	imię	
@@ -14034,10 +14035,12 @@ Ksenie	Ksenia	subst:pl:acc:f	imię
 Ksenie	Ksenia	subst:pl:nom:f	imię	
 Ksenie	Ksenia	subst:pl:voc:f	imię	
 Ksenię	Ksenia	subst:sg:acc:f	imię	
+Kseni	Ksenia	subst:pl:gen:f	imię	hom.
 Kseni	Ksenia	subst:pl:gen:f	imię	hom.|rzad.
 Kseni	Ksenia	subst:sg:dat:f	imię	
 Kseni	Ksenia	subst:sg:gen:f	imię	
 Kseni	Ksenia	subst:sg:loc:f	imię	
+Ksenio	Ksenia	subst:sg:voc:f	imię	
 Kseniom	Ksenia	subst:pl:dat:f	imię	
 Kseniu	Ksenia	subst:sg:voc:f	imię	
 Kseń	Ksenia	subst:pl:gen:f	imię	char.

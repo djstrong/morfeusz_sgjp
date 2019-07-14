@@ -1931,6 +1931,7 @@ Chaje	Chaja	subst:pl:voc:f	imię
 Chaję	Chaja	subst:sg:acc:f	imię	
 Chajo	Chaja	subst:sg:voc:f	imię	
 Chajom	Chaja	subst:pl:dat:f	imię	
+Chaju	Chaja	subst:sg:voc:f	imię	
 Chakasja	Chakasja	subst:sg:nom:f	geograficzna	
 Chakasjach	Chakasja	subst:pl:loc:f	geograficzna	
 Chakasjami	Chakasja	subst:pl:inst:f	geograficzna	
@@ -3998,7 +3999,7 @@ Chyloniach	Chylonia	subst:pl:loc:f	geograficzna
 Chylonia	Chylonia	subst:sg:nom:f	geograficzna	
 Chyloniami	Chylonia	subst:pl:inst:f	geograficzna	
 Chylonią	Chylonia	subst:sg:inst:f	geograficzna	
-Chyloni	Chylonia	subst:pl:gen:f	geograficzna	hom.|rzad.
+Chyloni	Chylonia	subst:pl:gen:f	geograficzna	hom.
 Chyloni	Chylonia	subst:sg:dat:f	geograficzna	
 Chyloni	Chylonia	subst:sg:gen:f	geograficzna	
 Chyloni	Chylonia	subst:sg:loc:f	geograficzna	
@@ -4006,8 +4007,8 @@ Chylonie	Chylonia	subst:pl:acc:f	geograficzna
 Chylonie	Chylonia	subst:pl:nom:f	geograficzna	
 Chylonie	Chylonia	subst:pl:voc:f	geograficzna	
 Chylonię	Chylonia	subst:sg:acc:f	geograficzna	
+Chylonio	Chylonia	subst:sg:voc:f	geograficzna	
 Chyloniom	Chylonia	subst:pl:dat:f	geograficzna	
-Chyloniu	Chylonia	subst:sg:voc:f	geograficzna	
 Chyloń	Chylonia	subst:pl:gen:f	geograficzna	char.
 Chynowach	Chynów	subst:pl:loc:m3	geograficzna	
 Chynowa	Chynów	subst:sg:gen:m3	geograficzna	
@@ -6219,6 +6220,7 @@ Cyli	Cyla	subst:sg:gen:f	imię
 Cyli	Cyla	subst:sg:loc:f	imię	
 Cylo	Cyla	subst:sg:voc:f	imię	
 Cylom	Cyla	subst:pl:dat:f	imię	
+Cylu	Cyla	subst:sg:voc:f	imię	
 Cylicjach	Cylicja	subst:pl:loc:f	geograficzna	
 Cylicja	Cylicja	subst:sg:nom:f	geograficzna	
 Cylicjami	Cylicja	subst:pl:inst:f	geograficzna	

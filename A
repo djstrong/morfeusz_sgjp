@@ -1022,16 +1022,18 @@ Addarzy	Addar	subst:pl:voc:m1	imię
 Addis	Addis	burk		
 Adela	Adela	subst:sg:nom:f	imię	
 Adelach	Adela	subst:pl:loc:f	imię	
-Adel	Adela	subst:pl:gen:f	imię	
+Adel	Adela	subst:pl:gen:f	imię	char.
 Adelami	Adela	subst:pl:inst:f	imię	
 Adelą	Adela	subst:sg:inst:f	imię	
 Adele	Adela	subst:pl:acc:f	imię	
 Adele	Adela	subst:pl:nom:f	imię	
 Adele	Adela	subst:pl:voc:f	imię	
 Adelę	Adela	subst:sg:acc:f	imię	
+Adeli	Adela	subst:pl:gen:f	imię	hom.
 Adeli	Adela	subst:sg:dat:f	imię	
 Adeli	Adela	subst:sg:gen:f	imię	
 Adeli	Adela	subst:sg:loc:f	imię	
+Adelo	Adela	subst:sg:voc:f	imię	
 Adelom	Adela	subst:pl:dat:f	imię	
 Adelu	Adela	subst:sg:voc:f	imię	
 Adelaida	Adelaida	subst:sg:nom:f	imię	
@@ -4023,12 +4025,14 @@ Amaltei	Amaltea	subst:sg:gen:f	imię	mit.
 Amaltei	Amaltea	subst:sg:loc:f	imię	mit.
 Amalteo	Amaltea	subst:sg:voc:f	imię	mit.
 Amalteom	Amaltea	subst:pl:dat:f	imię	mit.
+Amaltei	Amalteja	subst:pl:gen:f	imię	hom.|mit.
 Amaltei	Amalteja	subst:pl:gen:f	imię	mit.
 Amaltei	Amalteja	subst:sg:dat:f	imię	mit.
 Amaltei	Amalteja	subst:sg:gen:f	imię	mit.
 Amaltei	Amalteja	subst:sg:loc:f	imię	mit.
 Amalteja	Amalteja	subst:sg:nom:f	imię	mit.
 Amaltejach	Amalteja	subst:pl:loc:f	imię	mit.
+Amaltej	Amalteja	subst:pl:gen:f	imię	char.|mit.
 Amaltejami	Amalteja	subst:pl:inst:f	imię	mit.
 Amalteją	Amalteja	subst:sg:inst:f	imię	mit.
 Amalteje	Amalteja	subst:pl:acc:f	imię	mit.
@@ -4037,6 +4041,7 @@ Amalteje	Amalteja	subst:pl:voc:f	imię	mit.
 Amalteję	Amalteja	subst:sg:acc:f	imię	mit.
 Amaltejo	Amalteja	subst:sg:voc:f	imię	mit.
 Amaltejom	Amalteja	subst:pl:dat:f	imię	mit.
+Amalteju	Amalteja	subst:sg:voc:f	imię	mit.
 Amanda	Amanda	subst:sg:nom:f	imię	
 Amandach	Amanda	subst:pl:loc:f	imię	
 Amand	Amanda	subst:pl:gen:f	imię	
@@ -7187,6 +7192,20 @@ Armenii	Armenia	subst:sg:loc:f	geograficzna
 Armenij	Armenia	subst:pl:gen:f	geograficzna	arch.|char.
 Armenio	Armenia	subst:sg:voc:f	geograficzna	
 Armeniom	Armenia	subst:pl:dat:f	geograficzna	
+Armence	Armenka	subst:sg:dat:f	pospolita	
+Armence	Armenka	subst:sg:loc:f	pospolita	
+Armenek	Armenka	subst:pl:gen:f	pospolita	
+Armenka	Armenka	subst:sg:nom:f	pospolita	
+Armenkach	Armenka	subst:pl:loc:f	pospolita	
+Armenkami	Armenka	subst:pl:inst:f	pospolita	
+Armenką	Armenka	subst:sg:inst:f	pospolita	
+Armenkę	Armenka	subst:sg:acc:f	pospolita	
+Armenki	Armenka	subst:pl:acc:f	pospolita	
+Armenki	Armenka	subst:pl:nom:f	pospolita	
+Armenki	Armenka	subst:pl:voc:f	pospolita	
+Armenki	Armenka	subst:sg:gen:f	pospolita	
+Armenko	Armenka	subst:sg:voc:f	pospolita	
+Armenkom	Armenka	subst:pl:dat:f	pospolita	
 Armeńczycy	Armeńczyk	subst:pl:nom:m1	pospolita	
 Armeńczycy	Armeńczyk	subst:pl:voc:m1	pospolita	
 Armeńczyka	Armeńczyk	subst:sg:acc:m1	pospolita	
@@ -8772,6 +8791,8 @@ Austriaków	Austriak	subst:pl:acc:m1	pospolita
 Austriaków	Austriak	subst:pl:gen:m1	pospolita	
 Austriaku	Austriak	subst:sg:loc:m1	pospolita	
 Austriaku	Austriak	subst:sg:voc:m1	pospolita	
+Austro-Węgier	Austro-Węgry	subst:pl:gen:p2	geograficzna	rzad.|hist.
+Austro-Węgier	Austro-Węgry	subst:pl:gen:p3	geograficzna	hist.
 Austro-Węgrami	Austro-Węgry	subst:pl:inst:p2	geograficzna	rzad.|hist.
 Austro-Węgrami	Austro-Węgry	subst:pl:inst:p3	geograficzna	hist.
 Austro-Węgrom	Austro-Węgry	subst:pl:dat:p2	geograficzna	rzad.|hist.
