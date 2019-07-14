@@ -4403,12 +4403,12 @@ Julami	Julo	subst:pl:inst:m1	imię
 Jule	Julo	depr:pl:nom.acc.voc:m2	imię	
 Julem	Julo	subst:sg:inst:m1	imię	
 Julo	Julo	subst:sg:nom:m1	imię	
-Julo	Julo	subst:sg:voc:m1	imię	
 Julom	Julo	subst:pl:dat:m1	imię	
 Julowie	Julo	subst:pl:nom.voc:m1	imię	
 Julowi	Julo	subst:sg:dat:m1	imię	
 Julów	Julo	subst:pl:gen.acc:m1	imię	
 Julu	Julo	subst:sg:loc:m1	imię	
+Julu	Julo	subst:sg:voc:m1	imię	
 Jundzille	Jundziłł	subst:sg:loc:m1	nazwisko	
 Jundzille	Jundziłł	subst:sg:voc:m1	nazwisko	
 Jundziłłach	Jundziłł	subst:pl:loc:m1	nazwisko	

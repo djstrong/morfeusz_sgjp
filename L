@@ -346,6 +346,18 @@ Laosowi	Laos	subst:sg:dat:m3	nazwa geograficzna
 Laosów	Laos	subst:pl:gen:m3	nazwa geograficzna	
 Laosu	Laos	subst:sg:gen:m3	nazwa geograficzna	
 Laosy	Laos	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Laplace’ach	Laplace	subst:pl:loc:m1	nazwisko	
+Laplace’a	Laplace	subst:sg:gen.acc:m1	nazwisko	
+Laplace’ami	Laplace	subst:pl:inst:m1	nazwisko	
+Laplace’em	Laplace	subst:sg:inst:m1	nazwisko	
+Laplace	Laplace	subst:sg:nom:m1	nazwisko	
+Laplace’om	Laplace	subst:pl:dat:m1	nazwisko	
+Laplace’owie	Laplace	subst:pl:nom.voc:m1	nazwisko	
+Laplace’owi	Laplace	subst:sg:dat:m1	nazwisko	
+Laplace’ów	Laplace	subst:pl:gen.acc:m1	nazwisko	
+Laplace’y	Laplace	depr:pl:nom.acc.voc:m2	nazwisko	
+Laplasie	Laplace	subst:sg:loc:m1	nazwisko	
+Laplasie	Laplace	subst:sg:voc:m1	nazwisko	
 Laponiach	Laponia	subst:pl:loc:f	nazwa geograficzna	
 Laponia	Laponia	subst:sg:nom:f	nazwa geograficzna	
 Laponiami	Laponia	subst:pl:inst:f	nazwa geograficzna	

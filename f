@@ -31591,17 +31591,17 @@ flaczeniem	flaczeć	ger:sg:inst:n:imperf:aff
 flaczeniom	flaczeć	ger:pl:dat:n:imperf:aff		
 flaczeniu	flaczeć	ger:sg:dat.loc:n:imperf:aff		
 flaczeń	flaczeć	ger:pl:gen:n:imperf:aff		
-flaczek	flaczek	subst:sg:nom.acc:m3	nazwa pospolita	
-flaczkach	flaczek	subst:pl:loc:m3	nazwa pospolita	
-flaczka	flaczek	subst:sg:gen:m3	nazwa pospolita	
-flaczkami	flaczek	subst:pl:inst:m3	nazwa pospolita	
-flaczkiem	flaczek	subst:sg:inst:m3	nazwa pospolita	
-flaczki	flaczek	subst:pl:nom.acc.voc:m3	nazwa pospolita	
-flaczkom	flaczek	subst:pl:dat:m3	nazwa pospolita	
-flaczkowi	flaczek	subst:sg:dat:m3	nazwa pospolita	
-flaczków	flaczek	subst:pl:gen:m3	nazwa pospolita	
-flaczku	flaczek	subst:sg:loc:m3	nazwa pospolita	
-flaczku	flaczek	subst:sg:voc:m3	nazwa pospolita	
+flaczek	flaczek	subst:sg:nom:m2	nazwa pospolita	pot.
+flaczkach	flaczek	subst:pl:loc:m2	nazwa pospolita	pot.
+flaczka	flaczek	subst:sg:gen.acc:m2	nazwa pospolita	pot.
+flaczkami	flaczek	subst:pl:inst:m2	nazwa pospolita	pot.
+flaczkiem	flaczek	subst:sg:inst:m2	nazwa pospolita	pot.
+flaczki	flaczek	subst:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+flaczkom	flaczek	subst:pl:dat:m2	nazwa pospolita	pot.
+flaczkowi	flaczek	subst:sg:dat:m2	nazwa pospolita	pot.
+flaczków	flaczek	subst:pl:gen:m2	nazwa pospolita	pot.
+flaczku	flaczek	subst:sg:loc:m2	nazwa pospolita	pot.
+flaczku	flaczek	subst:sg:voc:m2	nazwa pospolita	pot.
 flaczkach	flaczki	subst:pl:loc:n:pt	nazwa pospolita	kulin.
 flaczkami	flaczki	subst:pl:inst:n:pt	nazwa pospolita	kulin.
 flaczki	flaczki	subst:pl:nom.acc.voc:n:pt	nazwa pospolita	kulin.
