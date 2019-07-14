@@ -28,12 +28,14 @@ QAL	QAL	subst:sg:nom:m3	nazwa firmy
 QAL	QAL	subst:sg:voc:m3	nazwa firmy	
 Quasimodach	Quasimodo	subst:pl:loc:m1	nazwisko	
 Quasimodami	Quasimodo	subst:pl:inst:m1	nazwisko	
+Quasimoda	Quasimodo	depr:pl:acc:m2	nazwisko	
 Quasimoda	Quasimodo	depr:pl:nom:m2	nazwisko	
 Quasimoda	Quasimodo	depr:pl:voc:m2	nazwisko	
 Quasimoda	Quasimodo	subst:sg:acc:m1	nazwisko	
 Quasimoda	Quasimodo	subst:sg:gen:m1	nazwisko	
 Quasimodem	Quasimodo	subst:sg:inst:m1	nazwisko	
 Quasimodom	Quasimodo	subst:pl:dat:m1	nazwisko	
+Quasimodo	Quasimodo	depr:pl:acc:m2	nazwisko	
 Quasimodo	Quasimodo	depr:pl:nom:m2	nazwisko	
 Quasimodo	Quasimodo	depr:pl:voc:m2	nazwisko	
 Quasimodo	Quasimodo	subst:pl:acc:m1	nazwisko	
@@ -84,6 +86,7 @@ Quinnowi	Quinn	subst:sg:dat:m1	nazwisko
 Quinnów	Quinn	subst:pl:acc:m1	nazwisko	
 Quinnów	Quinn	subst:pl:gen:m1	nazwisko	
 Quinn	Quinn	subst:sg:nom:m1	nazwisko	
+Quinny	Quinn	depr:pl:acc:m2	nazwisko	
 Quinny	Quinn	depr:pl:nom:m2	nazwisko	
 Quinny	Quinn	depr:pl:voc:m2	nazwisko	
 Quislingach	Quisling	subst:pl:loc:m1	nazwisko	
@@ -91,6 +94,7 @@ Quislingami	Quisling	subst:pl:inst:m1	nazwisko
 Quislinga	Quisling	subst:sg:acc:m1	nazwisko	
 Quislinga	Quisling	subst:sg:gen:m1	nazwisko	
 Quislingiem	Quisling	subst:sg:inst:m1	nazwisko	
+Quislingi	Quisling	depr:pl:acc:m2	nazwisko	
 Quislingi	Quisling	depr:pl:nom:m2	nazwisko	
 Quislingi	Quisling	depr:pl:voc:m2	nazwisko	
 Quislingom	Quisling	subst:pl:dat:m1	nazwisko	

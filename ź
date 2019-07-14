@@ -93,6 +93,8 @@
 ździeblarza	ździeblarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 ździeblarzem	ździeblarz	subst:sg:inst:m1	nazwa pospolita	
 ździeblarzem	ździeblarz	subst:sg:inst:m1	nazwa pospolita	rzad.
+ździeblarze	ździeblarz	depr:pl:acc:m2	nazwa pospolita	
+ździeblarze	ździeblarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 ździeblarze	ździeblarz	depr:pl:nom:m2	nazwa pospolita	
 ździeblarze	ździeblarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 ździeblarze	ździeblarz	depr:pl:voc:m2	nazwa pospolita	
@@ -185,6 +187,7 @@
 ździercami	ździerca	subst:pl:inst:m1	nazwa pospolita	przest.
 ździerca	ździerca	subst:sg:nom:m1	nazwa pospolita	przest.
 ździercą	ździerca	subst:sg:inst:m1	nazwa pospolita	przest.
+ździerce	ździerca	depr:pl:acc:m2	nazwa pospolita	przest.
 ździerce	ździerca	depr:pl:nom:m2	nazwa pospolita	przest.
 ździerce	ździerca	depr:pl:voc:m2	nazwa pospolita	przest.
 ździercę	ździerca	subst:sg:acc:m1	nazwa pospolita	przest.
@@ -603,6 +606,7 @@
 źrebiarka	źrebiarek	subst:sg:acc:m1	nazwa pospolita	daw.
 źrebiarka	źrebiarek	subst:sg:gen:m1	nazwa pospolita	daw.
 źrebiarkiem	źrebiarek	subst:sg:inst:m1	nazwa pospolita	daw.
+źrebiarki	źrebiarek	depr:pl:acc:m2	nazwa pospolita	daw.
 źrebiarki	źrebiarek	depr:pl:nom:m2	nazwa pospolita	daw.
 źrebiarki	źrebiarek	depr:pl:voc:m2	nazwa pospolita	daw.
 źrebiarkom	źrebiarek	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -1345,6 +1349,8 @@
 źródłopisarza	źródłopisarz	subst:sg:gen:m1	nazwa pospolita	indyw.|rzad.
 źródłopisarzem	źródłopisarz	subst:sg:inst:m1	nazwa pospolita	indyw.
 źródłopisarzem	źródłopisarz	subst:sg:inst:m1	nazwa pospolita	indyw.|rzad.
+źródłopisarze	źródłopisarz	depr:pl:acc:m2	nazwa pospolita	indyw.
+źródłopisarze	źródłopisarz	depr:pl:acc:m2	nazwa pospolita	indyw.|rzad.
 źródłopisarze	źródłopisarz	depr:pl:nom:m2	nazwa pospolita	indyw.
 źródłopisarze	źródłopisarz	depr:pl:nom:m2	nazwa pospolita	indyw.|rzad.
 źródłopisarze	źródłopisarz	depr:pl:voc:m2	nazwa pospolita	indyw.

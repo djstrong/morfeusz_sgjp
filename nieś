@@ -2596,6 +2596,7 @@ nieśmiałkami	nieśmiałek	subst:pl:inst:m1	nazwa pospolita	rzad.
 nieśmiałka	nieśmiałek	subst:sg:acc:m1	nazwa pospolita	rzad.
 nieśmiałka	nieśmiałek	subst:sg:gen:m1	nazwa pospolita	rzad.
 nieśmiałkiem	nieśmiałek	subst:sg:inst:m1	nazwa pospolita	rzad.
+nieśmiałki	nieśmiałek	depr:pl:acc:m2	nazwa pospolita	rzad.
 nieśmiałki	nieśmiałek	depr:pl:nom:m2	nazwa pospolita	rzad.
 nieśmiałki	nieśmiałek	depr:pl:voc:m2	nazwa pospolita	rzad.
 nieśmiałkom	nieśmiałek	subst:pl:dat:m1	nazwa pospolita	rzad.
@@ -3180,6 +3181,7 @@ nieśmiertelny	nieśmiertelny:a	adj:sg:nom.voc:m1.m2.m3:pos
 nieśmiertelnego	nieśmiertelny:s	subst:sg:acc:m1	nazwa pospolita	
 nieśmiertelnego	nieśmiertelny:s	subst:sg:gen:m1	nazwa pospolita	
 nieśmiertelnemu	nieśmiertelny:s	subst:sg:dat:m1	nazwa pospolita	
+nieśmiertelne	nieśmiertelny:s	depr:pl:acc:m2	nazwa pospolita	
 nieśmiertelne	nieśmiertelny:s	depr:pl:nom:m2	nazwa pospolita	
 nieśmiertelne	nieśmiertelny:s	depr:pl:voc:m2	nazwa pospolita	
 nieśmiertelni	nieśmiertelny:s	subst:pl:nom:m1	nazwa pospolita	
@@ -7758,6 +7760,7 @@ nieświadomy	nieświadomy:a	adj:sg:nom.voc:m1.m2.m3:pos
 nieświadomego	nieświadomy:s	subst:sg:acc:m1	nazwa pospolita	
 nieświadomego	nieświadomy:s	subst:sg:gen:m1	nazwa pospolita	
 nieświadomemu	nieświadomy:s	subst:sg:dat:m1	nazwa pospolita	
+nieświadome	nieświadomy:s	depr:pl:acc:m2	nazwa pospolita	
 nieświadome	nieświadomy:s	depr:pl:nom:m2	nazwa pospolita	
 nieświadome	nieświadomy:s	depr:pl:voc:m2	nazwa pospolita	
 nieświadomi	nieświadomy:s	subst:pl:nom:m1	nazwa pospolita	

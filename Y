@@ -26,6 +26,7 @@ Yeatsowi	Yeats	subst:sg:dat:m1	nazwisko
 Yeatsów	Yeats	subst:pl:acc:m1	nazwisko	
 Yeatsów	Yeats	subst:pl:gen:m1	nazwisko	
 Yeats	Yeats	subst:sg:nom:m1	nazwisko	
+Yeatsy	Yeats	depr:pl:acc:m2	nazwisko	
 Yeatsy	Yeats	depr:pl:nom:m2	nazwisko	
 Yeatsy	Yeats	depr:pl:voc:m2	nazwisko	
 YMCA	YMCA	subst:pl:acc:f	nazwa organizacji	
@@ -75,6 +76,7 @@ Youngami	Young	subst:pl:inst:m1	nazwisko
 Younga	Young	subst:sg:acc:m1	nazwisko	
 Younga	Young	subst:sg:gen:m1	nazwisko	
 Youngiem	Young	subst:sg:inst:m1	nazwisko	
+Youngi	Young	depr:pl:acc:m2	nazwisko	
 Youngi	Young	depr:pl:nom:m2	nazwisko	
 Youngi	Young	depr:pl:voc:m2	nazwisko	
 Youngom	Young	subst:pl:dat:m1	nazwisko	

@@ -16199,6 +16199,7 @@ nietolerantom	nietolerant	subst:pl:dat:m1	nazwa pospolita	przest.
 nietolerantowi	nietolerant	subst:sg:dat:m1	nazwa pospolita	przest.
 nietolerantów	nietolerant	subst:pl:acc:m1	nazwa pospolita	przest.
 nietolerantów	nietolerant	subst:pl:gen:m1	nazwa pospolita	przest.
+nietoleranty	nietolerant	depr:pl:acc:m2	nazwa pospolita	przest.
 nietoleranty	nietolerant	depr:pl:nom:m2	nazwa pospolita	przest.
 nietoleranty	nietolerant	depr:pl:voc:m2	nazwa pospolita	przest.
 nietolkienowscy	nietolkienowski	adj:pl:nom.voc:m1:pos		
@@ -43247,6 +43248,7 @@ nietzscheanistom	nietzscheanista	subst:pl:dat:m1	nazwa pospolita
 nietzscheanisto	nietzscheanista	subst:sg:voc:m1	nazwa pospolita	
 nietzscheanistów	nietzscheanista	subst:pl:acc:m1	nazwa pospolita	
 nietzscheanistów	nietzscheanista	subst:pl:gen:m1	nazwa pospolita	
+nietzscheanisty	nietzscheanista	depr:pl:acc:m2	nazwa pospolita	
 nietzscheanisty	nietzscheanista	depr:pl:nom:m2	nazwa pospolita	
 nietzscheanisty	nietzscheanista	depr:pl:voc:m2	nazwa pospolita	
 nietzscheanisty	nietzscheanista	subst:sg:gen:m1	nazwa pospolita	

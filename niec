@@ -23381,6 +23381,7 @@ niechlujami	niechluj	subst:pl:inst:m1	nazwa pospolita	pot.
 niechluja	niechluj	subst:sg:acc:m1	nazwa pospolita	pot.
 niechluja	niechluj	subst:sg:gen:m1	nazwa pospolita	pot.
 niechlujem	niechluj	subst:sg:inst:m1	nazwa pospolita	pot.
+niechluje	niechluj	depr:pl:acc:m2	nazwa pospolita	pot.
 niechluje	niechluj	depr:pl:nom:m2	nazwa pospolita	pot.
 niechluje	niechluj	depr:pl:voc:m2	nazwa pospolita	pot.
 niechluje	niechluj	subst:pl:nom:m1	nazwa pospolita	pot.
@@ -29548,6 +29549,7 @@ niechrześcijaninowi	niechrześcijanin	subst:sg:dat:m1	nazwa pospolita
 niechrześcijan	niechrześcijanin	subst:pl:acc:m1	nazwa pospolita	
 niechrześcijan	niechrześcijanin	subst:pl:gen:m1	nazwa pospolita	
 niechrześcijanom	niechrześcijanin	subst:pl:dat:m1	nazwa pospolita	
+niechrześcijany	niechrześcijanin	depr:pl:acc:m2	nazwa pospolita	
 niechrześcijany	niechrześcijanin	depr:pl:nom:m2	nazwa pospolita	
 niechrześcijany	niechrześcijanin	depr:pl:voc:m2	nazwa pospolita	
 niechrześcijańscy	niechrześcijański	adj:pl:nom.voc:m1:pos		
@@ -37474,6 +37476,7 @@ niecierpliwcami	niecierpliwiec	subst:pl:inst:m1	nazwa pospolita
 niecierpliwca	niecierpliwiec	subst:sg:acc:m1	nazwa pospolita	
 niecierpliwca	niecierpliwiec	subst:sg:gen:m1	nazwa pospolita	
 niecierpliwcem	niecierpliwiec	subst:sg:inst:m1	nazwa pospolita	
+niecierpliwce	niecierpliwiec	depr:pl:acc:m2	nazwa pospolita	
 niecierpliwce	niecierpliwiec	depr:pl:nom:m2	nazwa pospolita	
 niecierpliwce	niecierpliwiec	depr:pl:voc:m2	nazwa pospolita	
 niecierpliwcom	niecierpliwiec	subst:pl:dat:m1	nazwa pospolita	
@@ -39475,6 +39478,7 @@ niecnotom	niecnota:s2	subst:pl:dat:m1	nazwa pospolita	przest.
 niecnoto	niecnota:s2	subst:sg:voc:m1	nazwa pospolita	przest.
 niecnotów	niecnota:s2	subst:pl:acc:m1	nazwa pospolita	przest.
 niecnotów	niecnota:s2	subst:pl:gen:m1	nazwa pospolita	przest.
+niecnoty	niecnota:s2	depr:pl:acc:m2	nazwa pospolita	przest.
 niecnoty	niecnota:s2	depr:pl:nom:m2	nazwa pospolita	przest.
 niecnoty	niecnota:s2	depr:pl:voc:m2	nazwa pospolita	przest.
 niecnoty	niecnota:s2	subst:sg:gen:m1	nazwa pospolita	przest.
@@ -39523,6 +39527,7 @@ niecnotnikami	niecnotnik	subst:pl:inst:m1	nazwa pospolita	daw.
 niecnotnika	niecnotnik	subst:sg:acc:m1	nazwa pospolita	daw.
 niecnotnika	niecnotnik	subst:sg:gen:m1	nazwa pospolita	daw.
 niecnotnikiem	niecnotnik	subst:sg:inst:m1	nazwa pospolita	daw.
+niecnotniki	niecnotnik	depr:pl:acc:m2	nazwa pospolita	daw.
 niecnotniki	niecnotnik	depr:pl:nom:m2	nazwa pospolita	daw.
 niecnotniki	niecnotnik	depr:pl:voc:m2	nazwa pospolita	daw.
 niecnotnik	niecnotnik	subst:sg:nom:m1	nazwa pospolita	daw.

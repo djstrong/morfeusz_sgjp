@@ -31,6 +31,7 @@ quadowcami	quadowiec	subst:pl:inst:m1	nazwa pospolita
 quadowca	quadowiec	subst:sg:acc:m1	nazwa pospolita	
 quadowca	quadowiec	subst:sg:gen:m1	nazwa pospolita	
 quadowcem	quadowiec	subst:sg:inst:m1	nazwa pospolita	
+quadowce	quadowiec	depr:pl:acc:m2	nazwa pospolita	
 quadowce	quadowiec	depr:pl:nom:m2	nazwa pospolita	
 quadowce	quadowiec	depr:pl:voc:m2	nazwa pospolita	
 quadowcom	quadowiec	subst:pl:dat:m1	nazwa pospolita	
@@ -111,6 +112,7 @@ quantum	quantum	subst:sg:nom:n:ncol	nazwa pospolita
 quantum	quantum	subst:sg:voc:n:ncol	nazwa pospolita	
 quasimodach	quasimodo	subst:pl:loc:m1	nazwa pospolita	
 quasimodami	quasimodo	subst:pl:inst:m1	nazwa pospolita	
+quasimoda	quasimodo	depr:pl:acc:m2	nazwa pospolita	
 quasimoda	quasimodo	depr:pl:nom:m2	nazwa pospolita	
 quasimoda	quasimodo	depr:pl:voc:m2	nazwa pospolita	
 quasimoda	quasimodo	subst:sg:acc:m1	nazwa pospolita	

@@ -122,6 +122,7 @@ habilitantom	habilitant	subst:pl:dat:m1	nazwa pospolita
 habilitantowi	habilitant	subst:sg:dat:m1	nazwa pospolita	
 habilitantów	habilitant	subst:pl:acc:m1	nazwa pospolita	
 habilitantów	habilitant	subst:pl:gen:m1	nazwa pospolita	
+habilitanty	habilitant	depr:pl:acc:m2	nazwa pospolita	
 habilitanty	habilitant	depr:pl:nom:m2	nazwa pospolita	
 habilitanty	habilitant	depr:pl:voc:m2	nazwa pospolita	
 habilitantce	habilitantka	subst:sg:dat:f	nazwa pospolita	
@@ -405,6 +406,7 @@ hackerom	hacker	subst:pl:dat:m1	nazwa pospolita	środ.
 hackerowi	hacker	subst:sg:dat:m1	nazwa pospolita	środ.
 hackerów	hacker	subst:pl:acc:m1	nazwa pospolita	środ.
 hackerów	hacker	subst:pl:gen:m1	nazwa pospolita	środ.
+hackery	hacker	depr:pl:acc:m2	nazwa pospolita	środ.
 hackery	hacker	depr:pl:nom:m2	nazwa pospolita	środ.
 hackery	hacker	depr:pl:voc:m2	nazwa pospolita	środ.
 hackerze	hacker	subst:sg:loc:m1	nazwa pospolita	środ.
@@ -863,6 +865,7 @@ hadżdżich	hadżdżi	subst:pl:gen:m1	nazwa pospolita
 hadżdżich	hadżdżi	subst:pl:loc:m1	nazwa pospolita	
 hadżdżiego	hadżdżi	subst:sg:acc:m1	nazwa pospolita	
 hadżdżiego	hadżdżi	subst:sg:gen:m1	nazwa pospolita	
+hadżdżie	hadżdżi	depr:pl:acc:m2	nazwa pospolita	
 hadżdżie	hadżdżi	depr:pl:nom:m2	nazwa pospolita	
 hadżdżie	hadżdżi	depr:pl:voc:m2	nazwa pospolita	
 hadżdżiemu	hadżdżi	subst:sg:dat:m1	nazwa pospolita	
@@ -879,6 +882,7 @@ hadżich	hadżi	subst:pl:gen:m1	nazwa pospolita	rel.
 hadżich	hadżi	subst:pl:loc:m1	nazwa pospolita	rel.
 hadżiego	hadżi	subst:sg:acc:m1	nazwa pospolita	rel.
 hadżiego	hadżi	subst:sg:gen:m1	nazwa pospolita	rel.
+hadżie	hadżi	depr:pl:acc:m2	nazwa pospolita	rel.
 hadżie	hadżi	depr:pl:nom:m2	nazwa pospolita	rel.
 hadżie	hadżi	depr:pl:voc:m2	nazwa pospolita	rel.
 hadżiemu	hadżi	subst:sg:dat:m1	nazwa pospolita	rel.
@@ -995,6 +999,8 @@ hafciarza	hafciarz	subst:sg:gen:m1	nazwa pospolita
 hafciarza	hafciarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 hafciarzami	hafciarz	subst:pl:inst:m1	nazwa pospolita	
 hafciarzami	hafciarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+hafciarze	hafciarz	depr:pl:acc:m2	nazwa pospolita	
+hafciarze	hafciarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 hafciarze	hafciarz	depr:pl:nom:m2	nazwa pospolita	
 hafciarze	hafciarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 hafciarze	hafciarz	depr:pl:voc:m2	nazwa pospolita	
@@ -1047,6 +1053,7 @@ hafisowie	hafis	subst:pl:voc:m1	nazwa pospolita
 hafisowi	hafis	subst:sg:dat:m1	nazwa pospolita	
 hafisów	hafis	subst:pl:acc:m1	nazwa pospolita	
 hafisów	hafis	subst:pl:gen:m1	nazwa pospolita	
+hafisy	hafis	depr:pl:acc:m2	nazwa pospolita	
 hafisy	hafis	depr:pl:nom:m2	nazwa pospolita	
 hafisy	hafis	depr:pl:voc:m2	nazwa pospolita	
 hafizach	hafiz	subst:pl:loc:m1	nazwa pospolita	
@@ -1063,6 +1070,7 @@ hafizowie	hafiz	subst:pl:voc:m1	nazwa pospolita
 hafizowi	hafiz	subst:sg:dat:m1	nazwa pospolita	
 hafizów	hafiz	subst:pl:acc:m1	nazwa pospolita	
 hafizów	hafiz	subst:pl:gen:m1	nazwa pospolita	
+hafizy	hafiz	depr:pl:acc:m2	nazwa pospolita	
 hafizy	hafiz	depr:pl:nom:m2	nazwa pospolita	
 hafizy	hafiz	depr:pl:voc:m2	nazwa pospolita	
 hafnach	hafn	subst:pl:loc:m3	nazwa pospolita	
@@ -1158,6 +1166,8 @@ haftarza	haftarz	subst:sg:gen:m1	nazwa pospolita	daw.
 haftarza	haftarz	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
 haftarzami	haftarz	subst:pl:inst:m1	nazwa pospolita	daw.
 haftarzami	haftarz	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
+haftarze	haftarz	depr:pl:acc:m2	nazwa pospolita	daw.
+haftarze	haftarz	depr:pl:acc:m2	nazwa pospolita	daw.|rzad.
 haftarze	haftarz	depr:pl:nom:m2	nazwa pospolita	daw.
 haftarze	haftarz	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
 haftarze	haftarz	depr:pl:voc:m2	nazwa pospolita	daw.
@@ -1218,6 +1228,8 @@ haftkarza	haftkarz	subst:sg:gen:m1	nazwa pospolita	daw.
 haftkarza	haftkarz	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
 haftkarzami	haftkarz	subst:pl:inst:m1	nazwa pospolita	daw.
 haftkarzami	haftkarz	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
+haftkarze	haftkarz	depr:pl:acc:m2	nazwa pospolita	daw.
+haftkarze	haftkarz	depr:pl:acc:m2	nazwa pospolita	daw.|rzad.
 haftkarze	haftkarz	depr:pl:nom:m2	nazwa pospolita	daw.
 haftkarze	haftkarz	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
 haftkarze	haftkarz	depr:pl:voc:m2	nazwa pospolita	daw.
@@ -1415,6 +1427,7 @@ hagiografowie	hagiograf	subst:pl:voc:m1	nazwa pospolita
 hagiografowi	hagiograf	subst:sg:dat:m1	nazwa pospolita	
 hagiografów	hagiograf	subst:pl:acc:m1	nazwa pospolita	
 hagiografów	hagiograf	subst:pl:gen:m1	nazwa pospolita	
+hagiografy	hagiograf	depr:pl:acc:m2	nazwa pospolita	
 hagiografy	hagiograf	depr:pl:nom:m2	nazwa pospolita	
 hagiografy	hagiograf	depr:pl:voc:m2	nazwa pospolita	
 hagiografiach	hagiografia	subst:pl:loc:f	nazwa pospolita	
@@ -1647,6 +1660,7 @@ hajdajach	hajdaj	subst:pl:loc:m1	nazwa pospolita	daw.
 hajdaja	hajdaj	subst:sg:acc:m1	nazwa pospolita	daw.
 hajdaja	hajdaj	subst:sg:gen:m1	nazwa pospolita	daw.
 hajdajami	hajdaj	subst:pl:inst:m1	nazwa pospolita	daw.
+hajdaje	hajdaj	depr:pl:acc:m2	nazwa pospolita	daw.
 hajdaje	hajdaj	depr:pl:nom:m2	nazwa pospolita	daw.
 hajdaje	hajdaj	depr:pl:voc:m2	nazwa pospolita	daw.
 hajdaje	hajdaj	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -1874,6 +1888,7 @@ hajdamaka	hajdamak	subst:sg:gen:m1	nazwa pospolita
 hajdamakami	hajdamak	subst:pl:inst:m1	nazwa pospolita	
 hajdamak	hajdamak	subst:sg:nom:m1	nazwa pospolita	
 hajdamakiem	hajdamak	subst:sg:inst:m1	nazwa pospolita	
+hajdamaki	hajdamak	depr:pl:acc:m2	nazwa pospolita	
 hajdamaki	hajdamak	depr:pl:nom:m2	nazwa pospolita	
 hajdamaki	hajdamak	depr:pl:voc:m2	nazwa pospolita	
 hajdamakom	hajdamak	subst:pl:dat:m1	nazwa pospolita	
@@ -1891,6 +1906,7 @@ hajdamaka	hajdamaka	subst:sg:nom:m1	nazwa pospolita
 hajdamakami	hajdamaka	subst:pl:inst:m1	nazwa pospolita	
 hajdamaką	hajdamaka	subst:sg:inst:m1	nazwa pospolita	
 hajdamakę	hajdamaka	subst:sg:acc:m1	nazwa pospolita	
+hajdamaki	hajdamaka	depr:pl:acc:m2	nazwa pospolita	
 hajdamaki	hajdamaka	depr:pl:nom:m2	nazwa pospolita	
 hajdamaki	hajdamaka	depr:pl:voc:m2	nazwa pospolita	
 hajdamaki	hajdamaka	subst:sg:gen:m1	nazwa pospolita	
@@ -1972,6 +1988,7 @@ hajduczka	hajduczek	subst:sg:acc:m1	nazwa pospolita
 hajduczka	hajduczek	subst:sg:gen:m1	nazwa pospolita	
 hajduczkami	hajduczek	subst:pl:inst:m1	nazwa pospolita	
 hajduczkiem	hajduczek	subst:sg:inst:m1	nazwa pospolita	
+hajduczki	hajduczek	depr:pl:acc:m2	nazwa pospolita	
 hajduczki	hajduczek	depr:pl:nom:m2	nazwa pospolita	
 hajduczki	hajduczek	depr:pl:voc:m2	nazwa pospolita	
 hajduczkom	hajduczek	subst:pl:dat:m1	nazwa pospolita	
@@ -2095,6 +2112,7 @@ hajduczymy	hajduczyć	fin:pl:pri:imperf		daw.
 hajduczysz	hajduczyć	fin:sg:sec:imperf		daw.
 hajduczyskach	hajduczysko	subst:pl:loc:m1	nazwa pospolita	rzad.
 hajduczyskach	hajduczysko	subst:pl:loc:n:ncol	nazwa pospolita	
+hajduczyska	hajduczysko	depr:pl:acc:m2	nazwa pospolita	rzad.
 hajduczyska	hajduczysko	depr:pl:nom:m2	nazwa pospolita	rzad.
 hajduczyska	hajduczysko	depr:pl:voc:m2	nazwa pospolita	rzad.
 hajduczyska	hajduczysko	subst:pl:acc:n:ncol	nazwa pospolita	
@@ -2131,6 +2149,7 @@ hajduka	hajduk:s1	subst:sg:gen:m1	nazwa pospolita
 hajdukami	hajduk:s1	subst:pl:inst:m1	nazwa pospolita	
 hajduk	hajduk:s1	subst:sg:nom:m1	nazwa pospolita	
 hajdukiem	hajduk:s1	subst:sg:inst:m1	nazwa pospolita	
+hajduki	hajduk:s1	depr:pl:acc:m2	nazwa pospolita	
 hajduki	hajduk:s1	depr:pl:nom:m2	nazwa pospolita	
 hajduki	hajduk:s1	depr:pl:voc:m2	nazwa pospolita	
 hajdukom	hajduk:s1	subst:pl:dat:m1	nazwa pospolita	
@@ -2564,6 +2583,7 @@ hakatysto	hakatysta	subst:sg:voc:m1	nazwa pospolita
 hakatystom	hakatysta	subst:pl:dat:m1	nazwa pospolita	
 hakatystów	hakatysta	subst:pl:acc:m1	nazwa pospolita	
 hakatystów	hakatysta	subst:pl:gen:m1	nazwa pospolita	
+hakatysty	hakatysta	depr:pl:acc:m2	nazwa pospolita	
 hakatysty	hakatysta	depr:pl:nom:m2	nazwa pospolita	
 hakatysty	hakatysta	depr:pl:voc:m2	nazwa pospolita	
 hakatysty	hakatysta	subst:sg:gen:m1	nazwa pospolita	
@@ -2633,6 +2653,7 @@ hakerom	haker	subst:pl:dat:m1	nazwa pospolita	środ.
 hakerowi	haker	subst:sg:dat:m1	nazwa pospolita	środ.
 hakerów	haker	subst:pl:acc:m1	nazwa pospolita	środ.
 hakerów	haker	subst:pl:gen:m1	nazwa pospolita	środ.
+hakery	haker	depr:pl:acc:m2	nazwa pospolita	środ.
 hakery	haker	depr:pl:nom:m2	nazwa pospolita	środ.
 hakery	haker	depr:pl:voc:m2	nazwa pospolita	środ.
 hakerze	haker	subst:sg:loc:m1	nazwa pospolita	środ.
@@ -2948,6 +2969,7 @@ halabardnika	halabardnik	subst:sg:gen:m1	nazwa pospolita	daw.
 halabardnikami	halabardnik	subst:pl:inst:m1	nazwa pospolita	daw.
 halabardnik	halabardnik	subst:sg:nom:m1	nazwa pospolita	daw.
 halabardnikiem	halabardnik	subst:sg:inst:m1	nazwa pospolita	daw.
+halabardniki	halabardnik	depr:pl:acc:m2	nazwa pospolita	daw.
 halabardniki	halabardnik	depr:pl:nom:m2	nazwa pospolita	daw.
 halabardniki	halabardnik	depr:pl:voc:m2	nazwa pospolita	daw.
 halabardnikom	halabardnik	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -2965,6 +2987,7 @@ halabardzisto	halabardzista	subst:sg:voc:m1	nazwa pospolita
 halabardzistom	halabardzista	subst:pl:dat:m1	nazwa pospolita	
 halabardzistów	halabardzista	subst:pl:acc:m1	nazwa pospolita	
 halabardzistów	halabardzista	subst:pl:gen:m1	nazwa pospolita	
+halabardzisty	halabardzista	depr:pl:acc:m2	nazwa pospolita	
 halabardzisty	halabardzista	depr:pl:nom:m2	nazwa pospolita	
 halabardzisty	halabardzista	depr:pl:voc:m2	nazwa pospolita	
 halabardzisty	halabardzista	subst:sg:gen:m1	nazwa pospolita	
@@ -3166,6 +3189,7 @@ halebardnika	halebardnik	subst:sg:gen:m1	nazwa pospolita	daw.
 halebardnikami	halebardnik	subst:pl:inst:m1	nazwa pospolita	daw.
 halebardnik	halebardnik	subst:sg:nom:m1	nazwa pospolita	daw.
 halebardnikiem	halebardnik	subst:sg:inst:m1	nazwa pospolita	daw.
+halebardniki	halebardnik	depr:pl:acc:m2	nazwa pospolita	daw.
 halebardniki	halebardnik	depr:pl:nom:m2	nazwa pospolita	daw.
 halebardniki	halebardnik	depr:pl:voc:m2	nazwa pospolita	daw.
 halebardnikom	halebardnik	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -3196,6 +3220,7 @@ halerczyka	halerczyk	subst:sg:gen:m1	nazwa pospolita
 halerczykami	halerczyk	subst:pl:inst:m1	nazwa pospolita	
 halerczyk	halerczyk	subst:sg:nom:m1	nazwa pospolita	
 halerczykiem	halerczyk	subst:sg:inst:m1	nazwa pospolita	
+halerczyki	halerczyk	depr:pl:acc:m2	nazwa pospolita	
 halerczyki	halerczyk	depr:pl:nom:m2	nazwa pospolita	
 halerczyki	halerczyk	depr:pl:voc:m2	nazwa pospolita	
 halerczykom	halerczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -3517,6 +3542,7 @@ hallerczyka	hallerczyk	subst:sg:gen:m1	nazwa pospolita
 hallerczykami	hallerczyk	subst:pl:inst:m1	nazwa pospolita	
 hallerczyk	hallerczyk	subst:sg:nom:m1	nazwa pospolita	
 hallerczykiem	hallerczyk	subst:sg:inst:m1	nazwa pospolita	
+hallerczyki	hallerczyk	depr:pl:acc:m2	nazwa pospolita	
 hallerczyki	hallerczyk	depr:pl:nom:m2	nazwa pospolita	
 hallerczyki	hallerczyk	depr:pl:voc:m2	nazwa pospolita	
 hallerczykom	hallerczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -4394,6 +4420,7 @@ halucynatyka	halucynatyk	subst:sg:gen:m1	nazwa pospolita
 halucynatykami	halucynatyk	subst:pl:inst:m1	nazwa pospolita	
 halucynatyk	halucynatyk	subst:sg:nom:m1	nazwa pospolita	
 halucynatykiem	halucynatyk	subst:sg:inst:m1	nazwa pospolita	
+halucynatyki	halucynatyk	depr:pl:acc:m2	nazwa pospolita	
 halucynatyki	halucynatyk	depr:pl:nom:m2	nazwa pospolita	
 halucynatyki	halucynatyk	depr:pl:voc:m2	nazwa pospolita	
 halucynatykom	halucynatyk	subst:pl:dat:m1	nazwa pospolita	
@@ -4609,6 +4636,7 @@ hałaburdowie	hałaburda:s2	subst:pl:nom:m1	nazwa pospolita	daw.
 hałaburdowie	hałaburda:s2	subst:pl:voc:m1	nazwa pospolita	daw.
 hałaburdów	hałaburda:s2	subst:pl:acc:m1	nazwa pospolita	daw.
 hałaburdów	hałaburda:s2	subst:pl:gen:m1	nazwa pospolita	daw.
+hałaburdy	hałaburda:s2	depr:pl:acc:m2	nazwa pospolita	daw.
 hałaburdy	hałaburda:s2	depr:pl:nom:m2	nazwa pospolita	daw.
 hałaburdy	hałaburda:s2	depr:pl:voc:m2	nazwa pospolita	daw.
 hałaburdy	hałaburda:s2	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -4942,6 +4970,7 @@ hałasownika	hałasownik	subst:sg:gen:m1	nazwa pospolita	daw.
 hałasownikami	hałasownik	subst:pl:inst:m1	nazwa pospolita	daw.
 hałasownik	hałasownik	subst:sg:nom:m1	nazwa pospolita	daw.
 hałasownikiem	hałasownik	subst:sg:inst:m1	nazwa pospolita	daw.
+hałasowniki	hałasownik	depr:pl:acc:m2	nazwa pospolita	daw.
 hałasowniki	hałasownik	depr:pl:nom:m2	nazwa pospolita	daw.
 hałasowniki	hałasownik	depr:pl:voc:m2	nazwa pospolita	daw.
 hałasownikom	hałasownik	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -5090,6 +5119,7 @@ hałaśnika	hałaśnik	subst:sg:gen:m1	nazwa pospolita	daw.
 hałaśnikami	hałaśnik	subst:pl:inst:m1	nazwa pospolita	daw.
 hałaśnik	hałaśnik	subst:sg:nom:m1	nazwa pospolita	daw.
 hałaśnikiem	hałaśnik	subst:sg:inst:m1	nazwa pospolita	daw.
+hałaśniki	hałaśnik	depr:pl:acc:m2	nazwa pospolita	daw.
 hałaśniki	hałaśnik	depr:pl:nom:m2	nazwa pospolita	daw.
 hałaśniki	hałaśnik	depr:pl:voc:m2	nazwa pospolita	daw.
 hałaśnikom	hałaśnik	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -5299,6 +5329,8 @@ hałdziarza	hałdziarz	subst:sg:gen:m1	nazwa pospolita
 hałdziarza	hałdziarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 hałdziarzami	hałdziarz	subst:pl:inst:m1	nazwa pospolita	
 hałdziarzami	hałdziarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+hałdziarze	hałdziarz	depr:pl:acc:m2	nazwa pospolita	
+hałdziarze	hałdziarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 hałdziarze	hałdziarz	depr:pl:nom:m2	nazwa pospolita	
 hałdziarze	hałdziarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 hałdziarze	hałdziarz	depr:pl:voc:m2	nazwa pospolita	
@@ -5569,6 +5601,7 @@ hamasowcach	hamasowiec	subst:pl:loc:m1	nazwa pospolita
 hamasowca	hamasowiec	subst:sg:acc:m1	nazwa pospolita	
 hamasowca	hamasowiec	subst:sg:gen:m1	nazwa pospolita	
 hamasowcami	hamasowiec	subst:pl:inst:m1	nazwa pospolita	
+hamasowce	hamasowiec	depr:pl:acc:m2	nazwa pospolita	
 hamasowce	hamasowiec	depr:pl:nom:m2	nazwa pospolita	
 hamasowce	hamasowiec	depr:pl:voc:m2	nazwa pospolita	
 hamasowcem	hamasowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -5590,6 +5623,7 @@ hamburczyka	hamburczyk	subst:sg:gen:m1	nazwa pospolita
 hamburczykami	hamburczyk	subst:pl:inst:m1	nazwa pospolita	
 hamburczyk	hamburczyk	subst:sg:nom:m1	nazwa pospolita	
 hamburczykiem	hamburczyk	subst:sg:inst:m1	nazwa pospolita	
+hamburczyki	hamburczyk	depr:pl:acc:m2	nazwa pospolita	
 hamburczyki	hamburczyk	depr:pl:nom:m2	nazwa pospolita	
 hamburczyki	hamburczyk	depr:pl:voc:m2	nazwa pospolita	
 hamburczykom	hamburczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -5824,6 +5858,7 @@ hamernika	hamernik	subst:sg:gen:m1	nazwa pospolita	przest.
 hamernikami	hamernik	subst:pl:inst:m1	nazwa pospolita	przest.
 hamernik	hamernik	subst:sg:nom:m1	nazwa pospolita	przest.
 hamernikiem	hamernik	subst:sg:inst:m1	nazwa pospolita	przest.
+hamerniki	hamernik	depr:pl:acc:m2	nazwa pospolita	przest.
 hamerniki	hamernik	depr:pl:nom:m2	nazwa pospolita	przest.
 hamerniki	hamernik	depr:pl:voc:m2	nazwa pospolita	przest.
 hamernikom	hamernik	subst:pl:dat:m1	nazwa pospolita	przest.
@@ -5900,6 +5935,7 @@ hamletom	hamlet	subst:pl:dat:m1	nazwa pospolita
 hamletowi	hamlet	subst:sg:dat:m1	nazwa pospolita	
 hamletów	hamlet	subst:pl:acc:m1	nazwa pospolita	
 hamletów	hamlet	subst:pl:gen:m1	nazwa pospolita	
+hamlety	hamlet	depr:pl:acc:m2	nazwa pospolita	
 hamlety	hamlet	depr:pl:nom:m2	nazwa pospolita	
 hamlety	hamlet	depr:pl:voc:m2	nazwa pospolita	
 hamletować	hamletować	inf:imperf		daw.
@@ -6061,6 +6097,7 @@ hamletyka	hamletyk	subst:sg:gen:m1	nazwa pospolita
 hamletykami	hamletyk	subst:pl:inst:m1	nazwa pospolita	
 hamletyk	hamletyk	subst:sg:nom:m1	nazwa pospolita	
 hamletykiem	hamletyk	subst:sg:inst:m1	nazwa pospolita	
+hamletyki	hamletyk	depr:pl:acc:m2	nazwa pospolita	
 hamletyki	hamletyk	depr:pl:nom:m2	nazwa pospolita	
 hamletyki	hamletyk	depr:pl:voc:m2	nazwa pospolita	
 hamletykom	hamletyk	subst:pl:dat:m1	nazwa pospolita	
@@ -6174,6 +6211,7 @@ hamowaczach	hamowacz	subst:pl:loc:m1	nazwa pospolita
 hamowacza	hamowacz	subst:sg:acc:m1	nazwa pospolita	
 hamowacza	hamowacz	subst:sg:gen:m1	nazwa pospolita	
 hamowaczami	hamowacz	subst:pl:inst:m1	nazwa pospolita	
+hamowacze	hamowacz	depr:pl:acc:m2	nazwa pospolita	
 hamowacze	hamowacz	depr:pl:nom:m2	nazwa pospolita	
 hamowacze	hamowacz	depr:pl:voc:m2	nazwa pospolita	
 hamowacze	hamowacz	subst:pl:nom:m1	nazwa pospolita	
@@ -6337,6 +6375,7 @@ hamownika	hamownik	subst:sg:gen:m1	nazwa pospolita	daw.
 hamownikami	hamownik	subst:pl:inst:m1	nazwa pospolita	daw.
 hamownik	hamownik	subst:sg:nom:m1	nazwa pospolita	daw.
 hamownikiem	hamownik	subst:sg:inst:m1	nazwa pospolita	daw.
+hamowniki	hamownik	depr:pl:acc:m2	nazwa pospolita	daw.
 hamowniki	hamownik	depr:pl:nom:m2	nazwa pospolita	daw.
 hamowniki	hamownik	depr:pl:voc:m2	nazwa pospolita	daw.
 hamownikom	hamownik	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -6474,6 +6513,7 @@ hanowie	han	subst:pl:voc:m1	nazwa pospolita	daw.
 hanowi	han	subst:sg:dat:m1	nazwa pospolita	daw.
 hanów	han	subst:pl:acc:m1	nazwa pospolita	daw.
 hanów	han	subst:pl:gen:m1	nazwa pospolita	daw.
+hany	han	depr:pl:acc:m2	nazwa pospolita	daw.
 hany	han	depr:pl:nom:m2	nazwa pospolita	daw.
 hany	han	depr:pl:voc:m2	nazwa pospolita	daw.
 handel	handel	subst:sg:acc:m3	nazwa pospolita	
@@ -6727,6 +6767,8 @@ handlarza	handlarz	subst:sg:gen:m1	nazwa pospolita
 handlarza	handlarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 handlarzami	handlarz	subst:pl:inst:m1	nazwa pospolita	
 handlarzami	handlarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+handlarze	handlarz	depr:pl:acc:m2	nazwa pospolita	
+handlarze	handlarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 handlarze	handlarz	depr:pl:nom:m2	nazwa pospolita	
 handlarze	handlarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 handlarze	handlarz	depr:pl:voc:m2	nazwa pospolita	
@@ -6844,6 +6886,7 @@ handlowcach	handlowiec:s1	subst:pl:loc:m1	nazwa pospolita
 handlowca	handlowiec:s1	subst:sg:acc:m1	nazwa pospolita	
 handlowca	handlowiec:s1	subst:sg:gen:m1	nazwa pospolita	
 handlowcami	handlowiec:s1	subst:pl:inst:m1	nazwa pospolita	
+handlowce	handlowiec:s1	depr:pl:acc:m2	nazwa pospolita	
 handlowce	handlowiec:s1	depr:pl:nom:m2	nazwa pospolita	
 handlowce	handlowiec:s1	depr:pl:voc:m2	nazwa pospolita	
 handlowcem	handlowiec:s1	subst:sg:inst:m1	nazwa pospolita	
@@ -7360,6 +7403,7 @@ hanowerczyka	hanowerczyk	subst:sg:gen:m1	nazwa pospolita
 hanowerczykami	hanowerczyk	subst:pl:inst:m1	nazwa pospolita	
 hanowerczyk	hanowerczyk	subst:sg:nom:m1	nazwa pospolita	
 hanowerczykiem	hanowerczyk	subst:sg:inst:m1	nazwa pospolita	
+hanowerczyki	hanowerczyk	depr:pl:acc:m2	nazwa pospolita	
 hanowerczyki	hanowerczyk	depr:pl:nom:m2	nazwa pospolita	
 hanowerczyki	hanowerczyk	depr:pl:voc:m2	nazwa pospolita	
 hanowerczykom	hanowerczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -7516,6 +7560,7 @@ hanysom	hanys	subst:pl:dat:m1	nazwa pospolita
 hanysowi	hanys	subst:sg:dat:m1	nazwa pospolita	
 hanysów	hanys	subst:pl:acc:m1	nazwa pospolita	
 hanysów	hanys	subst:pl:gen:m1	nazwa pospolita	
+hanysy	hanys	depr:pl:acc:m2	nazwa pospolita	
 hanysy	hanys	depr:pl:nom:m2	nazwa pospolita	
 hanysy	hanys	depr:pl:voc:m2	nazwa pospolita	
 hanysce	hanyska	subst:sg:dat:f	nazwa pospolita	
@@ -7559,6 +7604,7 @@ hanzeato	hanzeata	subst:sg:voc:m1	nazwa pospolita	przest.|hist.
 hanzeatom	hanzeata	subst:pl:dat:m1	nazwa pospolita	przest.|hist.
 hanzeatów	hanzeata	subst:pl:acc:m1	nazwa pospolita	przest.|hist.
 hanzeatów	hanzeata	subst:pl:gen:m1	nazwa pospolita	przest.|hist.
+hanzeaty	hanzeata	depr:pl:acc:m2	nazwa pospolita	przest.|hist.
 hanzeaty	hanzeata	depr:pl:nom:m2	nazwa pospolita	przest.|hist.
 hanzeaty	hanzeata	depr:pl:voc:m2	nazwa pospolita	przest.|hist.
 hanzeaty	hanzeata	subst:sg:gen:m1	nazwa pospolita	przest.|hist.
@@ -7660,6 +7706,7 @@ hańbicielach	hańbiciel	subst:pl:loc:m1	nazwa pospolita	przest.
 hańbiciela	hańbiciel	subst:sg:acc:m1	nazwa pospolita	przest.
 hańbiciela	hańbiciel	subst:sg:gen:m1	nazwa pospolita	przest.
 hańbicielami	hańbiciel	subst:pl:inst:m1	nazwa pospolita	przest.
+hańbiciele	hańbiciel	depr:pl:acc:m2	nazwa pospolita	przest.
 hańbiciele	hańbiciel	depr:pl:nom:m2	nazwa pospolita	przest.
 hańbiciele	hańbiciel	depr:pl:voc:m2	nazwa pospolita	przest.
 hańbiciele	hańbiciel	subst:pl:nom:m1	nazwa pospolita	przest.
@@ -7912,6 +7959,7 @@ happenerom	happener	subst:pl:dat:m1	nazwa pospolita
 happenerowi	happener	subst:sg:dat:m1	nazwa pospolita	
 happenerów	happener	subst:pl:acc:m1	nazwa pospolita	
 happenerów	happener	subst:pl:gen:m1	nazwa pospolita	
+happenery	happener	depr:pl:acc:m2	nazwa pospolita	
 happenery	happener	depr:pl:nom:m2	nazwa pospolita	
 happenery	happener	depr:pl:voc:m2	nazwa pospolita	
 happenerze	happener	subst:sg:loc:m1	nazwa pospolita	
@@ -8078,6 +8126,7 @@ haraburdowie	haraburda:s2	subst:pl:nom:m1	nazwa pospolita	daw.
 haraburdowie	haraburda:s2	subst:pl:voc:m1	nazwa pospolita	daw.
 haraburdów	haraburda:s2	subst:pl:acc:m1	nazwa pospolita	daw.
 haraburdów	haraburda:s2	subst:pl:gen:m1	nazwa pospolita	daw.
+haraburdy	haraburda:s2	depr:pl:acc:m2	nazwa pospolita	daw.
 haraburdy	haraburda:s2	depr:pl:nom:m2	nazwa pospolita	daw.
 haraburdy	haraburda:s2	depr:pl:voc:m2	nazwa pospolita	daw.
 haraburdy	haraburda:s2	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -8217,6 +8266,7 @@ harambaszach	harambasza	subst:pl:loc:m1	nazwa pospolita	przest.
 harambasza	harambasza	subst:sg:nom:m1	nazwa pospolita	przest.
 harambaszami	harambasza	subst:pl:inst:m1	nazwa pospolita	przest.
 harambaszą	harambasza	subst:sg:inst:m1	nazwa pospolita	przest.
+harambasze	harambasza	depr:pl:acc:m2	nazwa pospolita	przest.
 harambasze	harambasza	depr:pl:nom:m2	nazwa pospolita	przest.
 harambasze	harambasza	depr:pl:voc:m2	nazwa pospolita	przest.
 harambaszę	harambasza	subst:sg:acc:m1	nazwa pospolita	przest.
@@ -9030,6 +9080,8 @@ harcerza	harcerz	subst:sg:gen:m1	nazwa pospolita
 harcerza	harcerz	subst:sg:gen:m1	nazwa pospolita	rzad.
 harcerzami	harcerz	subst:pl:inst:m1	nazwa pospolita	
 harcerzami	harcerz	subst:pl:inst:m1	nazwa pospolita	rzad.
+harcerze	harcerz	depr:pl:acc:m2	nazwa pospolita	
+harcerze	harcerz	depr:pl:acc:m2	nazwa pospolita	rzad.
 harcerze	harcerz	depr:pl:nom:m2	nazwa pospolita	
 harcerze	harcerz	depr:pl:nom:m2	nazwa pospolita	rzad.
 harcerze	harcerz	depr:pl:voc:m2	nazwa pospolita	
@@ -9133,6 +9185,7 @@ harcerzyka	harcerzyk	subst:sg:gen:m1	nazwa pospolita
 harcerzykami	harcerzyk	subst:pl:inst:m1	nazwa pospolita	
 harcerzyk	harcerzyk	subst:sg:nom:m1	nazwa pospolita	
 harcerzykiem	harcerzyk	subst:sg:inst:m1	nazwa pospolita	
+harcerzyki	harcerzyk	depr:pl:acc:m2	nazwa pospolita	
 harcerzyki	harcerzyk	depr:pl:nom:m2	nazwa pospolita	
 harcerzyki	harcerzyk	depr:pl:voc:m2	nazwa pospolita	
 harcerzykom	harcerzyk	subst:pl:dat:m1	nazwa pospolita	
@@ -9147,6 +9200,7 @@ harcmistrzach	harcmistrz	subst:pl:loc:m1	nazwa pospolita
 harcmistrza	harcmistrz	subst:sg:acc:m1	nazwa pospolita	
 harcmistrza	harcmistrz	subst:sg:gen:m1	nazwa pospolita	
 harcmistrzami	harcmistrz	subst:pl:inst:m1	nazwa pospolita	
+harcmistrze	harcmistrz	depr:pl:acc:m2	nazwa pospolita	
 harcmistrze	harcmistrz	depr:pl:nom:m2	nazwa pospolita	
 harcmistrze	harcmistrz	depr:pl:voc:m2	nazwa pospolita	
 harcmistrze	harcmistrz	subst:pl:nom:m1	nazwa pospolita	
@@ -9324,6 +9378,7 @@ harcownika	harcownik	subst:sg:gen:m1	nazwa pospolita
 harcownikami	harcownik	subst:pl:inst:m1	nazwa pospolita	
 harcownik	harcownik	subst:sg:nom:m1	nazwa pospolita	
 harcownikiem	harcownik	subst:sg:inst:m1	nazwa pospolita	
+harcowniki	harcownik	depr:pl:acc:m2	nazwa pospolita	
 harcowniki	harcownik	depr:pl:nom:m2	nazwa pospolita	
 harcowniki	harcownik	depr:pl:voc:m2	nazwa pospolita	
 harcownikom	harcownik	subst:pl:dat:m1	nazwa pospolita	
@@ -9445,6 +9500,7 @@ hardopyszka	hardopyszek	subst:sg:acc:m1	nazwa pospolita	daw.
 hardopyszka	hardopyszek	subst:sg:gen:m1	nazwa pospolita	daw.
 hardopyszkami	hardopyszek	subst:pl:inst:m1	nazwa pospolita	daw.
 hardopyszkiem	hardopyszek	subst:sg:inst:m1	nazwa pospolita	daw.
+hardopyszki	hardopyszek	depr:pl:acc:m2	nazwa pospolita	daw.
 hardopyszki	hardopyszek	depr:pl:nom:m2	nazwa pospolita	daw.
 hardopyszki	hardopyszek	depr:pl:voc:m2	nazwa pospolita	daw.
 hardopyszkom	hardopyszek	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -9459,6 +9515,7 @@ hardoszach	hardosz	subst:pl:loc:m1	nazwa pospolita	daw.
 hardosza	hardosz	subst:sg:acc:m1	nazwa pospolita	daw.
 hardosza	hardosz	subst:sg:gen:m1	nazwa pospolita	daw.
 hardoszami	hardosz	subst:pl:inst:m1	nazwa pospolita	daw.
+hardosze	hardosz	depr:pl:acc:m2	nazwa pospolita	daw.
 hardosze	hardosz	depr:pl:nom:m2	nazwa pospolita	daw.
 hardosze	hardosz	depr:pl:voc:m2	nazwa pospolita	daw.
 hardosze	hardosz	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -9519,6 +9576,7 @@ hardrockowcach	hardrockowiec	subst:pl:loc:m1	nazwa pospolita
 hardrockowca	hardrockowiec	subst:sg:acc:m1	nazwa pospolita	
 hardrockowca	hardrockowiec	subst:sg:gen:m1	nazwa pospolita	
 hardrockowcami	hardrockowiec	subst:pl:inst:m1	nazwa pospolita	
+hardrockowce	hardrockowiec	depr:pl:acc:m2	nazwa pospolita	
 hardrockowce	hardrockowiec	depr:pl:nom:m2	nazwa pospolita	
 hardrockowce	hardrockowiec	depr:pl:voc:m2	nazwa pospolita	
 hardrockowcem	hardrockowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -9938,6 +9996,8 @@ harfiarza	harfiarz	subst:sg:gen:m1	nazwa pospolita
 harfiarza	harfiarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 harfiarzami	harfiarz	subst:pl:inst:m1	nazwa pospolita	
 harfiarzami	harfiarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+harfiarze	harfiarz	depr:pl:acc:m2	nazwa pospolita	
+harfiarze	harfiarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 harfiarze	harfiarz	depr:pl:nom:m2	nazwa pospolita	
 harfiarze	harfiarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 harfiarze	harfiarz	depr:pl:voc:m2	nazwa pospolita	
@@ -9985,6 +10045,7 @@ harfisto	harfista	subst:sg:voc:m1	nazwa pospolita
 harfistom	harfista	subst:pl:dat:m1	nazwa pospolita	
 harfistów	harfista	subst:pl:acc:m1	nazwa pospolita	
 harfistów	harfista	subst:pl:gen:m1	nazwa pospolita	
+harfisty	harfista	depr:pl:acc:m2	nazwa pospolita	
 harfisty	harfista	depr:pl:nom:m2	nazwa pospolita	
 harfisty	harfista	depr:pl:voc:m2	nazwa pospolita	
 harfisty	harfista	subst:sg:gen:m1	nazwa pospolita	
@@ -10194,6 +10255,7 @@ harharo	harhara:s2	subst:sg:voc:m1	nazwa pospolita
 harharom	harhara:s2	subst:pl:dat:m1	nazwa pospolita	
 harharów	harhara:s2	subst:pl:acc:m1	nazwa pospolita	
 harharów	harhara:s2	subst:pl:gen:m1	nazwa pospolita	
+harhary	harhara:s2	depr:pl:acc:m2	nazwa pospolita	
 harhary	harhara:s2	depr:pl:nom:m2	nazwa pospolita	
 harhary	harhara:s2	depr:pl:voc:m2	nazwa pospolita	
 harhary	harhara:s2	subst:sg:gen:m1	nazwa pospolita	
@@ -10261,6 +10323,7 @@ harlejowcach	harlejowiec	subst:pl:loc:m1	nazwa pospolita
 harlejowca	harlejowiec	subst:sg:acc:m1	nazwa pospolita	
 harlejowca	harlejowiec	subst:sg:gen:m1	nazwa pospolita	
 harlejowcami	harlejowiec	subst:pl:inst:m1	nazwa pospolita	
+harlejowce	harlejowiec	depr:pl:acc:m2	nazwa pospolita	
 harlejowce	harlejowiec	depr:pl:nom:m2	nazwa pospolita	
 harlejowce	harlejowiec	depr:pl:voc:m2	nazwa pospolita	
 harlejowcem	harlejowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -10320,6 +10383,7 @@ harleyowcach	harleyowiec	subst:pl:loc:m1	nazwa pospolita
 harleyowca	harleyowiec	subst:sg:acc:m1	nazwa pospolita	
 harleyowca	harleyowiec	subst:sg:gen:m1	nazwa pospolita	
 harleyowcami	harleyowiec	subst:pl:inst:m1	nazwa pospolita	
+harleyowce	harleyowiec	depr:pl:acc:m2	nazwa pospolita	
 harleyowce	harleyowiec	depr:pl:nom:m2	nazwa pospolita	
 harleyowce	harleyowiec	depr:pl:voc:m2	nazwa pospolita	
 harleyowcem	harleyowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -10733,6 +10797,7 @@ harmonisto	harmonista	subst:sg:voc:m1	nazwa pospolita
 harmonistom	harmonista	subst:pl:dat:m1	nazwa pospolita	
 harmonistów	harmonista	subst:pl:acc:m1	nazwa pospolita	
 harmonistów	harmonista	subst:pl:gen:m1	nazwa pospolita	
+harmonisty	harmonista	depr:pl:acc:m2	nazwa pospolita	
 harmonisty	harmonista	depr:pl:nom:m2	nazwa pospolita	
 harmonisty	harmonista	depr:pl:voc:m2	nazwa pospolita	
 harmonisty	harmonista	subst:sg:gen:m1	nazwa pospolita	
@@ -10748,6 +10813,7 @@ harmonistyka	harmonistyk	subst:sg:gen:m1	nazwa pospolita	daw.
 harmonistykami	harmonistyk	subst:pl:inst:m1	nazwa pospolita	daw.
 harmonistyk	harmonistyk	subst:sg:nom:m1	nazwa pospolita	daw.
 harmonistykiem	harmonistyk	subst:sg:inst:m1	nazwa pospolita	daw.
+harmonistyki	harmonistyk	depr:pl:acc:m2	nazwa pospolita	daw.
 harmonistyki	harmonistyk	depr:pl:nom:m2	nazwa pospolita	daw.
 harmonistyki	harmonistyk	depr:pl:voc:m2	nazwa pospolita	daw.
 harmonistykom	harmonistyk	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -11138,6 +11204,7 @@ harnasiach	harnaś	subst:pl:loc:m1	nazwa pospolita
 harnasia	harnaś	subst:sg:acc:m1	nazwa pospolita	
 harnasia	harnaś	subst:sg:gen:m1	nazwa pospolita	
 harnasiami	harnaś	subst:pl:inst:m1	nazwa pospolita	
+harnasie	harnaś	depr:pl:acc:m2	nazwa pospolita	
 harnasie	harnaś	depr:pl:nom:m2	nazwa pospolita	
 harnasie	harnaś	depr:pl:voc:m2	nazwa pospolita	
 harnasie	harnaś	subst:pl:nom:m1	nazwa pospolita	
@@ -11160,6 +11227,7 @@ harnika	harnik	subst:sg:gen:m1	nazwa pospolita	daw.
 harnikami	harnik	subst:pl:inst:m1	nazwa pospolita	daw.
 harnik	harnik	subst:sg:nom:m1	nazwa pospolita	daw.
 harnikiem	harnik	subst:sg:inst:m1	nazwa pospolita	daw.
+harniki	harnik	depr:pl:acc:m2	nazwa pospolita	daw.
 harniki	harnik	depr:pl:nom:m2	nazwa pospolita	daw.
 harniki	harnik	depr:pl:voc:m2	nazwa pospolita	daw.
 harnikom	harnik	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -11323,6 +11391,7 @@ harpagonom	harpagon	subst:pl:dat:m1	nazwa pospolita	książk.
 harpagonowi	harpagon	subst:sg:dat:m1	nazwa pospolita	książk.
 harpagonów	harpagon	subst:pl:acc:m1	nazwa pospolita	książk.
 harpagonów	harpagon	subst:pl:gen:m1	nazwa pospolita	książk.
+harpagony	harpagon	depr:pl:acc:m2	nazwa pospolita	książk.
 harpagony	harpagon	depr:pl:nom:m2	nazwa pospolita	książk.
 harpagony	harpagon	depr:pl:voc:m2	nazwa pospolita	książk.
 harpagonce	harpagonka	subst:sg:dat:f	nazwa pospolita	
@@ -11416,6 +11485,8 @@ harpuniarza	harpuniarz	subst:sg:gen:m1	nazwa pospolita
 harpuniarza	harpuniarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 harpuniarzami	harpuniarz	subst:pl:inst:m1	nazwa pospolita	
 harpuniarzami	harpuniarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+harpuniarze	harpuniarz	depr:pl:acc:m2	nazwa pospolita	
+harpuniarze	harpuniarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 harpuniarze	harpuniarz	depr:pl:nom:m2	nazwa pospolita	
 harpuniarze	harpuniarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 harpuniarze	harpuniarz	depr:pl:voc:m2	nazwa pospolita	
@@ -11486,6 +11557,7 @@ harpunnika	harpunnik	subst:sg:gen:m1	nazwa pospolita
 harpunnikami	harpunnik	subst:pl:inst:m1	nazwa pospolita	
 harpunnik	harpunnik	subst:sg:nom:m1	nazwa pospolita	
 harpunnikiem	harpunnik	subst:sg:inst:m1	nazwa pospolita	
+harpunniki	harpunnik	depr:pl:acc:m2	nazwa pospolita	
 harpunniki	harpunnik	depr:pl:nom:m2	nazwa pospolita	
 harpunniki	harpunnik	depr:pl:voc:m2	nazwa pospolita	
 harpunnikom	harpunnik	subst:pl:dat:m1	nazwa pospolita	
@@ -11678,6 +11750,7 @@ hartowaczach	hartowacz	subst:pl:loc:m1	nazwa pospolita
 hartowacza	hartowacz	subst:sg:acc:m1	nazwa pospolita	
 hartowacza	hartowacz	subst:sg:gen:m1	nazwa pospolita	
 hartowaczami	hartowacz	subst:pl:inst:m1	nazwa pospolita	
+hartowacze	hartowacz	depr:pl:acc:m2	nazwa pospolita	
 hartowacze	hartowacz	depr:pl:nom:m2	nazwa pospolita	
 hartowacze	hartowacz	depr:pl:voc:m2	nazwa pospolita	
 hartowacze	hartowacz	subst:pl:nom:m1	nazwa pospolita	
@@ -11842,6 +11915,7 @@ hartownika	hartownik	subst:sg:gen:m1	nazwa pospolita
 hartownikami	hartownik	subst:pl:inst:m1	nazwa pospolita	
 hartownik	hartownik	subst:sg:nom:m1	nazwa pospolita	
 hartownikiem	hartownik	subst:sg:inst:m1	nazwa pospolita	
+hartowniki	hartownik	depr:pl:acc:m2	nazwa pospolita	
 hartowniki	hartownik	depr:pl:nom:m2	nazwa pospolita	
 hartowniki	hartownik	depr:pl:voc:m2	nazwa pospolita	
 hartownikom	hartownik	subst:pl:dat:m1	nazwa pospolita	
@@ -11970,6 +12044,7 @@ haruspika	haruspik	subst:sg:gen:m1	nazwa pospolita
 haruspikami	haruspik	subst:pl:inst:m1	nazwa pospolita	
 haruspik	haruspik	subst:sg:nom:m1	nazwa pospolita	
 haruspikiem	haruspik	subst:sg:inst:m1	nazwa pospolita	
+haruspiki	haruspik	depr:pl:acc:m2	nazwa pospolita	
 haruspiki	haruspik	depr:pl:nom:m2	nazwa pospolita	
 haruspiki	haruspik	depr:pl:voc:m2	nazwa pospolita	
 haruspikom	haruspik	subst:pl:dat:m1	nazwa pospolita	
@@ -12911,6 +12986,8 @@ hawerza	hawerz	subst:sg:gen:m1	nazwa pospolita	daw.
 hawerza	hawerz	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
 hawerzami	hawerz	subst:pl:inst:m1	nazwa pospolita	daw.
 hawerzami	hawerz	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
+hawerze	hawerz	depr:pl:acc:m2	nazwa pospolita	daw.
+hawerze	hawerz	depr:pl:acc:m2	nazwa pospolita	daw.|rzad.
 hawerze	hawerz	depr:pl:nom:m2	nazwa pospolita	daw.
 hawerze	hawerz	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
 hawerze	hawerz	depr:pl:voc:m2	nazwa pospolita	daw.
@@ -12983,6 +13060,8 @@ hawiarza	hawiarz	subst:sg:gen:m1	nazwa pospolita	daw.
 hawiarza	hawiarz	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
 hawiarzami	hawiarz	subst:pl:inst:m1	nazwa pospolita	daw.
 hawiarzami	hawiarz	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
+hawiarze	hawiarz	depr:pl:acc:m2	nazwa pospolita	daw.
+hawiarze	hawiarz	depr:pl:acc:m2	nazwa pospolita	daw.|rzad.
 hawiarze	hawiarz	depr:pl:nom:m2	nazwa pospolita	daw.
 hawiarze	hawiarz	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
 hawiarze	hawiarz	depr:pl:voc:m2	nazwa pospolita	daw.
@@ -13030,6 +13109,8 @@ hawierza	hawierz	subst:sg:gen:m1	nazwa pospolita	daw.
 hawierza	hawierz	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
 hawierzami	hawierz	subst:pl:inst:m1	nazwa pospolita	daw.
 hawierzami	hawierz	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
+hawierze	hawierz	depr:pl:acc:m2	nazwa pospolita	daw.
+hawierze	hawierz	depr:pl:acc:m2	nazwa pospolita	daw.|rzad.
 hawierze	hawierz	depr:pl:nom:m2	nazwa pospolita	daw.
 hawierze	hawierz	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
 hawierze	hawierz	depr:pl:voc:m2	nazwa pospolita	daw.
@@ -13167,6 +13248,7 @@ hazardownika	hazardownik	subst:sg:gen:m1	nazwa pospolita	przest.
 hazardownikami	hazardownik	subst:pl:inst:m1	nazwa pospolita	przest.
 hazardownik	hazardownik	subst:sg:nom:m1	nazwa pospolita	przest.
 hazardownikiem	hazardownik	subst:sg:inst:m1	nazwa pospolita	przest.
+hazardowniki	hazardownik	depr:pl:acc:m2	nazwa pospolita	przest.
 hazardowniki	hazardownik	depr:pl:nom:m2	nazwa pospolita	przest.
 hazardowniki	hazardownik	depr:pl:voc:m2	nazwa pospolita	przest.
 hazardownikom	hazardownik	subst:pl:dat:m1	nazwa pospolita	przest.
@@ -13260,6 +13342,8 @@ hazardziarza	hazardziarz	subst:sg:gen:m1	nazwa pospolita
 hazardziarza	hazardziarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 hazardziarzami	hazardziarz	subst:pl:inst:m1	nazwa pospolita	
 hazardziarzami	hazardziarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+hazardziarze	hazardziarz	depr:pl:acc:m2	nazwa pospolita	
+hazardziarze	hazardziarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 hazardziarze	hazardziarz	depr:pl:nom:m2	nazwa pospolita	
 hazardziarze	hazardziarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 hazardziarze	hazardziarz	depr:pl:voc:m2	nazwa pospolita	
@@ -13307,6 +13391,7 @@ hazardzisto	hazardzista	subst:sg:voc:m1	nazwa pospolita
 hazardzistom	hazardzista	subst:pl:dat:m1	nazwa pospolita	
 hazardzistów	hazardzista	subst:pl:acc:m1	nazwa pospolita	
 hazardzistów	hazardzista	subst:pl:gen:m1	nazwa pospolita	
+hazardzisty	hazardzista	depr:pl:acc:m2	nazwa pospolita	
 hazardzisty	hazardzista	depr:pl:nom:m2	nazwa pospolita	
 hazardzisty	hazardzista	depr:pl:voc:m2	nazwa pospolita	
 hazardzisty	hazardzista	subst:sg:gen:m1	nazwa pospolita	
@@ -13408,6 +13493,7 @@ headhunterom	headhunter	subst:pl:dat:m1	nazwa pospolita
 headhunterowi	headhunter	subst:sg:dat:m1	nazwa pospolita	
 headhunterów	headhunter	subst:pl:acc:m1	nazwa pospolita	
 headhunterów	headhunter	subst:pl:gen:m1	nazwa pospolita	
+headhuntery	headhunter	depr:pl:acc:m2	nazwa pospolita	
 headhuntery	headhunter	depr:pl:nom:m2	nazwa pospolita	
 headhuntery	headhunter	depr:pl:voc:m2	nazwa pospolita	
 headhunterze	headhunter	subst:sg:loc:m1	nazwa pospolita	
@@ -13424,6 +13510,7 @@ head-hunterom	head-hunter	subst:pl:dat:m1	nazwa pospolita
 head-hunterowi	head-hunter	subst:sg:dat:m1	nazwa pospolita	
 head-hunterów	head-hunter	subst:pl:acc:m1	nazwa pospolita	
 head-hunterów	head-hunter	subst:pl:gen:m1	nazwa pospolita	
+head-huntery	head-hunter	depr:pl:acc:m2	nazwa pospolita	
 head-huntery	head-hunter	depr:pl:nom:m2	nazwa pospolita	
 head-huntery	head-hunter	depr:pl:voc:m2	nazwa pospolita	
 head-hunterze	head-hunter	subst:sg:loc:m1	nazwa pospolita	
@@ -13448,6 +13535,7 @@ heavymetalowcach	heavymetalowiec	subst:pl:loc:m1	nazwa pospolita
 heavymetalowca	heavymetalowiec	subst:sg:acc:m1	nazwa pospolita	
 heavymetalowca	heavymetalowiec	subst:sg:gen:m1	nazwa pospolita	
 heavymetalowcami	heavymetalowiec	subst:pl:inst:m1	nazwa pospolita	
+heavymetalowce	heavymetalowiec	depr:pl:acc:m2	nazwa pospolita	
 heavymetalowce	heavymetalowiec	depr:pl:nom:m2	nazwa pospolita	
 heavymetalowce	heavymetalowiec	depr:pl:voc:m2	nazwa pospolita	
 heavymetalowcem	heavymetalowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -13523,6 +13611,7 @@ hebanisto	hebanista	subst:sg:voc:m1	nazwa pospolita	przest.
 hebanistom	hebanista	subst:pl:dat:m1	nazwa pospolita	przest.
 hebanistów	hebanista	subst:pl:acc:m1	nazwa pospolita	przest.
 hebanistów	hebanista	subst:pl:gen:m1	nazwa pospolita	przest.
+hebanisty	hebanista	depr:pl:acc:m2	nazwa pospolita	przest.
 hebanisty	hebanista	depr:pl:nom:m2	nazwa pospolita	przest.
 hebanisty	hebanista	depr:pl:voc:m2	nazwa pospolita	przest.
 hebanisty	hebanista	subst:sg:gen:m1	nazwa pospolita	przest.
@@ -13789,6 +13878,7 @@ hebesom	hebes	subst:pl:dat:m1	nazwa pospolita	przest.
 hebesowi	hebes	subst:sg:dat:m1	nazwa pospolita	przest.
 hebesów	hebes	subst:pl:acc:m1	nazwa pospolita	przest.
 hebesów	hebes	subst:pl:gen:m1	nazwa pospolita	przest.
+hebesy	hebes	depr:pl:acc:m2	nazwa pospolita	przest.
 hebesy	hebes	depr:pl:nom:m2	nazwa pospolita	przest.
 hebesy	hebes	depr:pl:voc:m2	nazwa pospolita	przest.
 heblarce	heblarka	subst:sg:dat:f	nazwa pospolita	
@@ -13991,6 +14081,7 @@ hebraisto	hebraista	subst:sg:voc:m1	nazwa pospolita
 hebraistom	hebraista	subst:pl:dat:m1	nazwa pospolita	
 hebraistów	hebraista	subst:pl:acc:m1	nazwa pospolita	
 hebraistów	hebraista	subst:pl:gen:m1	nazwa pospolita	
+hebraisty	hebraista	depr:pl:acc:m2	nazwa pospolita	
 hebraisty	hebraista	depr:pl:nom:m2	nazwa pospolita	
 hebraisty	hebraista	depr:pl:voc:m2	nazwa pospolita	
 hebraisty	hebraista	subst:sg:gen:m1	nazwa pospolita	
@@ -14048,6 +14139,7 @@ hebrajczyka	hebrajczyk	subst:sg:gen:m1	nazwa pospolita	daw.
 hebrajczykami	hebrajczyk	subst:pl:inst:m1	nazwa pospolita	daw.
 hebrajczyk	hebrajczyk	subst:sg:nom:m1	nazwa pospolita	daw.
 hebrajczykiem	hebrajczyk	subst:sg:inst:m1	nazwa pospolita	daw.
+hebrajczyki	hebrajczyk	depr:pl:acc:m2	nazwa pospolita	daw.
 hebrajczyki	hebrajczyk	depr:pl:nom:m2	nazwa pospolita	daw.
 hebrajczyki	hebrajczyk	depr:pl:voc:m2	nazwa pospolita	daw.
 hebrajczykom	hebrajczyk	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -14279,6 +14371,8 @@ hecarza	hecarz	subst:sg:gen:m1	nazwa pospolita
 hecarza	hecarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 hecarzami	hecarz	subst:pl:inst:m1	nazwa pospolita	
 hecarzami	hecarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+hecarze	hecarz	depr:pl:acc:m2	nazwa pospolita	
+hecarze	hecarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 hecarze	hecarz	depr:pl:nom:m2	nazwa pospolita	
 hecarze	hecarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 hecarze	hecarz	depr:pl:voc:m2	nazwa pospolita	
@@ -14321,6 +14415,7 @@ hecmistrzach	hecmistrz	subst:pl:loc:m1	nazwa pospolita	daw.
 hecmistrza	hecmistrz	subst:sg:acc:m1	nazwa pospolita	daw.
 hecmistrza	hecmistrz	subst:sg:gen:m1	nazwa pospolita	daw.
 hecmistrzami	hecmistrz	subst:pl:inst:m1	nazwa pospolita	daw.
+hecmistrze	hecmistrz	depr:pl:acc:m2	nazwa pospolita	daw.
 hecmistrze	hecmistrz	depr:pl:nom:m2	nazwa pospolita	daw.
 hecmistrze	hecmistrz	depr:pl:voc:m2	nazwa pospolita	daw.
 hecmistrze	hecmistrz	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -14544,6 +14639,7 @@ hecownika	hecownik	subst:sg:gen:m1	nazwa pospolita
 hecownikami	hecownik	subst:pl:inst:m1	nazwa pospolita	
 hecownik	hecownik	subst:sg:nom:m1	nazwa pospolita	
 hecownikiem	hecownik	subst:sg:inst:m1	nazwa pospolita	
+hecowniki	hecownik	depr:pl:acc:m2	nazwa pospolita	
 hecowniki	hecownik	depr:pl:nom:m2	nazwa pospolita	
 hecowniki	hecownik	depr:pl:voc:m2	nazwa pospolita	
 hecownikom	hecownik	subst:pl:dat:m1	nazwa pospolita	
@@ -14698,6 +14794,7 @@ hedonisto	hedonista	subst:sg:voc:m1	nazwa pospolita
 hedonistom	hedonista	subst:pl:dat:m1	nazwa pospolita	
 hedonistów	hedonista	subst:pl:acc:m1	nazwa pospolita	
 hedonistów	hedonista	subst:pl:gen:m1	nazwa pospolita	
+hedonisty	hedonista	depr:pl:acc:m2	nazwa pospolita	
 hedonisty	hedonista	depr:pl:nom:m2	nazwa pospolita	
 hedonisty	hedonista	depr:pl:voc:m2	nazwa pospolita	
 hedonisty	hedonista	subst:sg:gen:m1	nazwa pospolita	
@@ -14903,6 +15000,7 @@ hegemonowie	hegemon	subst:pl:voc:m1	nazwa pospolita
 hegemonowi	hegemon	subst:sg:dat:m1	nazwa pospolita	
 hegemonów	hegemon	subst:pl:acc:m1	nazwa pospolita	
 hegemonów	hegemon	subst:pl:gen:m1	nazwa pospolita	
+hegemony	hegemon	depr:pl:acc:m2	nazwa pospolita	
 hegemony	hegemon	depr:pl:nom:m2	nazwa pospolita	
 hegemony	hegemon	depr:pl:voc:m2	nazwa pospolita	
 hegemoniach	hegemonia	subst:pl:loc:f	nazwa pospolita	
@@ -15034,6 +15132,7 @@ heglisto	heglista	subst:sg:voc:m1	nazwa pospolita
 heglistom	heglista	subst:pl:dat:m1	nazwa pospolita	
 heglistów	heglista	subst:pl:acc:m1	nazwa pospolita	
 heglistów	heglista	subst:pl:gen:m1	nazwa pospolita	
+heglisty	heglista	depr:pl:acc:m2	nazwa pospolita	
 heglisty	heglista	depr:pl:nom:m2	nazwa pospolita	
 heglisty	heglista	depr:pl:voc:m2	nazwa pospolita	
 heglisty	heglista	subst:sg:gen:m1	nazwa pospolita	
@@ -15200,6 +15299,7 @@ hejnalisto	hejnalista	subst:sg:voc:m1	nazwa pospolita
 hejnalistom	hejnalista	subst:pl:dat:m1	nazwa pospolita	
 hejnalistów	hejnalista	subst:pl:acc:m1	nazwa pospolita	
 hejnalistów	hejnalista	subst:pl:gen:m1	nazwa pospolita	
+hejnalisty	hejnalista	depr:pl:acc:m2	nazwa pospolita	
 hejnalisty	hejnalista	depr:pl:nom:m2	nazwa pospolita	
 hejnalisty	hejnalista	depr:pl:voc:m2	nazwa pospolita	
 hejnalisty	hejnalista	subst:sg:gen:m1	nazwa pospolita	
@@ -15271,6 +15371,7 @@ hejterom	hejter	subst:pl:dat:m1	nazwa pospolita	pot.
 hejterowi	hejter	subst:sg:dat:m1	nazwa pospolita	pot.
 hejterów	hejter	subst:pl:acc:m1	nazwa pospolita	pot.
 hejterów	hejter	subst:pl:gen:m1	nazwa pospolita	pot.
+hejtery	hejter	depr:pl:acc:m2	nazwa pospolita	pot.
 hejtery	hejter	depr:pl:nom:m2	nazwa pospolita	pot.
 hejtery	hejter	depr:pl:voc:m2	nazwa pospolita	pot.
 hejterze	hejter	subst:sg:loc:m1	nazwa pospolita	pot.
@@ -16527,6 +16628,7 @@ heliocentrysto	heliocentrysta	subst:sg:voc:m1	nazwa pospolita
 heliocentrystom	heliocentrysta	subst:pl:dat:m1	nazwa pospolita	
 heliocentrystów	heliocentrysta	subst:pl:acc:m1	nazwa pospolita	
 heliocentrystów	heliocentrysta	subst:pl:gen:m1	nazwa pospolita	
+heliocentrysty	heliocentrysta	depr:pl:acc:m2	nazwa pospolita	
 heliocentrysty	heliocentrysta	depr:pl:nom:m2	nazwa pospolita	
 heliocentrysty	heliocentrysta	depr:pl:voc:m2	nazwa pospolita	
 heliocentrysty	heliocentrysta	subst:sg:gen:m1	nazwa pospolita	
@@ -17211,6 +17313,7 @@ hellenisto	hellenista	subst:sg:voc:m1	nazwa pospolita
 hellenistom	hellenista	subst:pl:dat:m1	nazwa pospolita	
 hellenistów	hellenista	subst:pl:acc:m1	nazwa pospolita	
 hellenistów	hellenista	subst:pl:gen:m1	nazwa pospolita	
+hellenisty	hellenista	depr:pl:acc:m2	nazwa pospolita	
 hellenisty	hellenista	depr:pl:nom:m2	nazwa pospolita	
 hellenisty	hellenista	depr:pl:voc:m2	nazwa pospolita	
 hellenisty	hellenista	subst:sg:gen:m1	nazwa pospolita	
@@ -17410,6 +17513,8 @@ hellenofila	hellenofil	subst:sg:gen:m1	nazwa pospolita
 hellenofila	hellenofil	subst:sg:gen:m1	nazwa pospolita	rzad.
 hellenofilami	hellenofil	subst:pl:inst:m1	nazwa pospolita	
 hellenofilami	hellenofil	subst:pl:inst:m1	nazwa pospolita	rzad.
+hellenofile	hellenofil	depr:pl:acc:m2	nazwa pospolita	
+hellenofile	hellenofil	depr:pl:acc:m2	nazwa pospolita	rzad.
 hellenofile	hellenofil	depr:pl:nom:m2	nazwa pospolita	
 hellenofile	hellenofil	depr:pl:nom:m2	nazwa pospolita	rzad.
 hellenofile	hellenofil	depr:pl:voc:m2	nazwa pospolita	
@@ -17497,6 +17602,7 @@ helmintologa	helmintolog	subst:sg:gen:m1	nazwa pospolita
 helmintologami	helmintolog	subst:pl:inst:m1	nazwa pospolita	
 helmintolog	helmintolog	subst:sg:nom:m1	nazwa pospolita	
 helmintologiem	helmintolog	subst:sg:inst:m1	nazwa pospolita	
+helmintologi	helmintolog	depr:pl:acc:m2	nazwa pospolita	
 helmintologi	helmintolog	depr:pl:nom:m2	nazwa pospolita	
 helmintologi	helmintolog	depr:pl:voc:m2	nazwa pospolita	
 helmintologom	helmintolog	subst:pl:dat:m1	nazwa pospolita	
@@ -17688,6 +17794,7 @@ heloto	helota	subst:sg:voc:m1	nazwa pospolita
 helotom	helota	subst:pl:dat:m1	nazwa pospolita	
 helotów	helota	subst:pl:acc:m1	nazwa pospolita	
 helotów	helota	subst:pl:gen:m1	nazwa pospolita	
+heloty	helota	depr:pl:acc:m2	nazwa pospolita	
 heloty	helota	depr:pl:nom:m2	nazwa pospolita	
 heloty	helota	depr:pl:voc:m2	nazwa pospolita	
 heloty	helota	subst:sg:gen:m1	nazwa pospolita	
@@ -17890,6 +17997,7 @@ helweto	helweta	subst:sg:voc:m1	nazwa pospolita	przest.
 helwetom	helweta	subst:pl:dat:m1	nazwa pospolita	przest.
 helwetów	helweta	subst:pl:acc:m1	nazwa pospolita	przest.
 helwetów	helweta	subst:pl:gen:m1	nazwa pospolita	przest.
+helwety	helweta	depr:pl:acc:m2	nazwa pospolita	przest.
 helwety	helweta	depr:pl:nom:m2	nazwa pospolita	przest.
 helwety	helweta	depr:pl:voc:m2	nazwa pospolita	przest.
 helwety	helweta	subst:sg:gen:m1	nazwa pospolita	przest.
@@ -18132,6 +18240,7 @@ hematologa	hematolog	subst:sg:gen:m1	nazwa pospolita
 hematologami	hematolog	subst:pl:inst:m1	nazwa pospolita	
 hematolog	hematolog	subst:sg:nom:m1	nazwa pospolita	
 hematologiem	hematolog	subst:sg:inst:m1	nazwa pospolita	
+hematologi	hematolog	depr:pl:acc:m2	nazwa pospolita	
 hematologi	hematolog	depr:pl:nom:m2	nazwa pospolita	
 hematologi	hematolog	depr:pl:voc:m2	nazwa pospolita	
 hematologom	hematolog	subst:pl:dat:m1	nazwa pospolita	
@@ -18752,6 +18861,7 @@ hemofilika	hemofilik	subst:sg:gen:m1	nazwa pospolita
 hemofilikami	hemofilik	subst:pl:inst:m1	nazwa pospolita	
 hemofilik	hemofilik	subst:sg:nom:m1	nazwa pospolita	
 hemofilikiem	hemofilik	subst:sg:inst:m1	nazwa pospolita	
+hemofiliki	hemofilik	depr:pl:acc:m2	nazwa pospolita	
 hemofiliki	hemofilik	depr:pl:nom:m2	nazwa pospolita	
 hemofiliki	hemofilik	depr:pl:voc:m2	nazwa pospolita	
 hemofilikom	hemofilik	subst:pl:dat:m1	nazwa pospolita	
@@ -18768,6 +18878,7 @@ hemofilityka	hemofilityk	subst:sg:gen:m1	nazwa pospolita
 hemofilitykami	hemofilityk	subst:pl:inst:m1	nazwa pospolita	
 hemofilityk	hemofilityk	subst:sg:nom:m1	nazwa pospolita	
 hemofilitykiem	hemofilityk	subst:sg:inst:m1	nazwa pospolita	
+hemofilityki	hemofilityk	depr:pl:acc:m2	nazwa pospolita	
 hemofilityki	hemofilityk	depr:pl:nom:m2	nazwa pospolita	
 hemofilityki	hemofilityk	depr:pl:voc:m2	nazwa pospolita	
 hemofilitykom	hemofilityk	subst:pl:dat:m1	nazwa pospolita	
@@ -20070,6 +20181,7 @@ heraldyka	heraldyk	subst:sg:gen:m1	nazwa pospolita
 heraldykami	heraldyk	subst:pl:inst:m1	nazwa pospolita	
 heraldyk	heraldyk	subst:sg:nom:m1	nazwa pospolita	
 heraldykiem	heraldyk	subst:sg:inst:m1	nazwa pospolita	
+heraldyki	heraldyk	depr:pl:acc:m2	nazwa pospolita	
 heraldyki	heraldyk	depr:pl:nom:m2	nazwa pospolita	
 heraldyki	heraldyk	depr:pl:voc:m2	nazwa pospolita	
 heraldykom	heraldyk	subst:pl:dat:m1	nazwa pospolita	
@@ -20359,6 +20471,7 @@ herbatnika	herbatnik:s2	subst:sg:gen:m1	nazwa pospolita
 herbatnikami	herbatnik:s2	subst:pl:inst:m1	nazwa pospolita	
 herbatnik	herbatnik:s2	subst:sg:nom:m1	nazwa pospolita	
 herbatnikiem	herbatnik:s2	subst:sg:inst:m1	nazwa pospolita	
+herbatniki	herbatnik:s2	depr:pl:acc:m2	nazwa pospolita	
 herbatniki	herbatnik:s2	depr:pl:nom:m2	nazwa pospolita	
 herbatniki	herbatnik:s2	depr:pl:voc:m2	nazwa pospolita	
 herbatnikom	herbatnik:s2	subst:pl:dat:m1	nazwa pospolita	
@@ -20539,6 +20652,7 @@ herbopisowie	herbopis	subst:pl:voc:m1	nazwa pospolita	daw.
 herbopisowi	herbopis	subst:sg:dat:m1	nazwa pospolita	daw.
 herbopisów	herbopis	subst:pl:acc:m1	nazwa pospolita	daw.
 herbopisów	herbopis	subst:pl:gen:m1	nazwa pospolita	daw.
+herbopisy	herbopis	depr:pl:acc:m2	nazwa pospolita	daw.
 herbopisy	herbopis	depr:pl:nom:m2	nazwa pospolita	daw.
 herbopisy	herbopis	depr:pl:voc:m2	nazwa pospolita	daw.
 herbopisarzach	herbopisarz	subst:pl:loc:m1	nazwa pospolita	daw.
@@ -20549,6 +20663,8 @@ herbopisarza	herbopisarz	subst:sg:gen:m1	nazwa pospolita	daw.
 herbopisarza	herbopisarz	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
 herbopisarzami	herbopisarz	subst:pl:inst:m1	nazwa pospolita	daw.
 herbopisarzami	herbopisarz	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
+herbopisarze	herbopisarz	depr:pl:acc:m2	nazwa pospolita	daw.
+herbopisarze	herbopisarz	depr:pl:acc:m2	nazwa pospolita	daw.|rzad.
 herbopisarze	herbopisarz	depr:pl:nom:m2	nazwa pospolita	daw.
 herbopisarze	herbopisarz	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
 herbopisarze	herbopisarz	depr:pl:voc:m2	nazwa pospolita	daw.
@@ -20598,6 +20714,7 @@ herboryzatorom	herboryzator	subst:pl:dat:m1	nazwa pospolita	przest.
 herboryzatorowi	herboryzator	subst:sg:dat:m1	nazwa pospolita	przest.
 herboryzatorów	herboryzator	subst:pl:acc:m1	nazwa pospolita	przest.
 herboryzatorów	herboryzator	subst:pl:gen:m1	nazwa pospolita	przest.
+herboryzatory	herboryzator	depr:pl:acc:m2	nazwa pospolita	przest.
 herboryzatory	herboryzator	depr:pl:nom:m2	nazwa pospolita	przest.
 herboryzatory	herboryzator	depr:pl:voc:m2	nazwa pospolita	przest.
 herboryzatorze	herboryzator	subst:sg:loc:m1	nazwa pospolita	przest.
@@ -20784,6 +20901,7 @@ herbowcach	herbowiec	subst:pl:loc:m1	nazwa pospolita	przest.
 herbowca	herbowiec	subst:sg:acc:m1	nazwa pospolita	przest.
 herbowca	herbowiec	subst:sg:gen:m1	nazwa pospolita	przest.
 herbowcami	herbowiec	subst:pl:inst:m1	nazwa pospolita	przest.
+herbowce	herbowiec	depr:pl:acc:m2	nazwa pospolita	przest.
 herbowce	herbowiec	depr:pl:nom:m2	nazwa pospolita	przest.
 herbowce	herbowiec	depr:pl:voc:m2	nazwa pospolita	przest.
 herbowcem	herbowiec	subst:sg:inst:m1	nazwa pospolita	przest.
@@ -20805,6 +20923,7 @@ herbownika	herbownik	subst:sg:gen:m1	nazwa pospolita	daw.
 herbownikami	herbownik	subst:pl:inst:m1	nazwa pospolita	daw.
 herbownik	herbownik	subst:sg:nom:m1	nazwa pospolita	daw.
 herbownikiem	herbownik	subst:sg:inst:m1	nazwa pospolita	daw.
+herbowniki	herbownik	depr:pl:acc:m2	nazwa pospolita	daw.
 herbowniki	herbownik	depr:pl:nom:m2	nazwa pospolita	daw.
 herbowniki	herbownik	depr:pl:voc:m2	nazwa pospolita	daw.
 herbownikom	herbownik	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -21217,6 +21336,7 @@ heretyka	heretyk	subst:sg:gen:m1	nazwa pospolita
 heretykami	heretyk	subst:pl:inst:m1	nazwa pospolita	
 heretyk	heretyk	subst:sg:nom:m1	nazwa pospolita	
 heretykiem	heretyk	subst:sg:inst:m1	nazwa pospolita	
+heretyki	heretyk	depr:pl:acc:m2	nazwa pospolita	
 heretyki	heretyk	depr:pl:nom:m2	nazwa pospolita	
 heretyki	heretyk	depr:pl:voc:m2	nazwa pospolita	
 heretykom	heretyk	subst:pl:dat:m1	nazwa pospolita	
@@ -21251,6 +21371,7 @@ herezjarchowie	herezjarcha	subst:pl:nom:m1	nazwa pospolita
 herezjarchowie	herezjarcha	subst:pl:voc:m1	nazwa pospolita	
 herezjarchów	herezjarcha	subst:pl:acc:m1	nazwa pospolita	
 herezjarchów	herezjarcha	subst:pl:gen:m1	nazwa pospolita	
+herezjarchy	herezjarcha	depr:pl:acc:m2	nazwa pospolita	
 herezjarchy	herezjarcha	depr:pl:nom:m2	nazwa pospolita	
 herezjarchy	herezjarcha	depr:pl:voc:m2	nazwa pospolita	
 herezjarchy	herezjarcha	subst:sg:gen:m1	nazwa pospolita	
@@ -21316,6 +21437,7 @@ herkulesom	herkules:s1	subst:pl:dat:m1	nazwa pospolita
 herkulesowi	herkules:s1	subst:sg:dat:m1	nazwa pospolita	
 herkulesów	herkules:s1	subst:pl:acc:m1	nazwa pospolita	
 herkulesów	herkules:s1	subst:pl:gen:m1	nazwa pospolita	
+herkulesy	herkules:s1	depr:pl:acc:m2	nazwa pospolita	
 herkulesy	herkules:s1	depr:pl:nom:m2	nazwa pospolita	
 herkulesy	herkules:s1	depr:pl:voc:m2	nazwa pospolita	
 herkulesach	herkules:s2	subst:pl:loc:m2	nazwa pospolita	zool.
@@ -21426,6 +21548,7 @@ hermafrodyto	hermafrodyta:s2	subst:sg:voc:m1	nazwa pospolita
 hermafrodytom	hermafrodyta:s2	subst:pl:dat:m1	nazwa pospolita	
 hermafrodytów	hermafrodyta:s2	subst:pl:acc:m1	nazwa pospolita	
 hermafrodytów	hermafrodyta:s2	subst:pl:gen:m1	nazwa pospolita	
+hermafrodyty	hermafrodyta:s2	depr:pl:acc:m2	nazwa pospolita	
 hermafrodyty	hermafrodyta:s2	depr:pl:nom:m2	nazwa pospolita	
 hermafrodyty	hermafrodyta:s2	depr:pl:voc:m2	nazwa pospolita	
 hermafrodyty	hermafrodyta:s2	subst:sg:gen:m1	nazwa pospolita	
@@ -21580,6 +21703,7 @@ hermetyka	hermetyk	subst:sg:gen:m1	nazwa pospolita
 hermetykami	hermetyk	subst:pl:inst:m1	nazwa pospolita	
 hermetyk	hermetyk	subst:sg:nom:m1	nazwa pospolita	
 hermetykiem	hermetyk	subst:sg:inst:m1	nazwa pospolita	
+hermetyki	hermetyk	depr:pl:acc:m2	nazwa pospolita	
 hermetyki	hermetyk	depr:pl:nom:m2	nazwa pospolita	
 hermetyki	hermetyk	depr:pl:voc:m2	nazwa pospolita	
 hermetykom	hermetyk	subst:pl:dat:m1	nazwa pospolita	
@@ -21756,6 +21880,7 @@ herodowie	herod	subst:pl:voc:m1	nazwa pospolita
 herodowi	herod	subst:sg:dat:m1	nazwa pospolita	
 herodów	herod	subst:pl:acc:m1	nazwa pospolita	
 herodów	herod	subst:pl:gen:m1	nazwa pospolita	
+herody	herod	depr:pl:acc:m2	nazwa pospolita	
 herody	herod	depr:pl:nom:m2	nazwa pospolita	
 herody	herod	depr:pl:voc:m2	nazwa pospolita	
 herodzie	herod	subst:sg:loc:m1	nazwa pospolita	
@@ -21961,6 +22086,7 @@ heroinisto	heroinista	subst:sg:voc:m1	nazwa pospolita
 heroinistom	heroinista	subst:pl:dat:m1	nazwa pospolita	
 heroinistów	heroinista	subst:pl:acc:m1	nazwa pospolita	
 heroinistów	heroinista	subst:pl:gen:m1	nazwa pospolita	
+heroinisty	heroinista	depr:pl:acc:m2	nazwa pospolita	
 heroinisty	heroinista	depr:pl:nom:m2	nazwa pospolita	
 heroinisty	heroinista	depr:pl:voc:m2	nazwa pospolita	
 heroinisty	heroinista	subst:sg:gen:m1	nazwa pospolita	
@@ -22217,6 +22343,7 @@ heroldowie	herold	subst:pl:voc:m1	nazwa pospolita
 heroldowi	herold	subst:sg:dat:m1	nazwa pospolita	
 heroldów	herold	subst:pl:acc:m1	nazwa pospolita	
 heroldów	herold	subst:pl:gen:m1	nazwa pospolita	
+heroldy	herold	depr:pl:acc:m2	nazwa pospolita	
 heroldy	herold	depr:pl:nom:m2	nazwa pospolita	
 heroldy	herold	depr:pl:voc:m2	nazwa pospolita	
 heroldzie	herold	subst:sg:loc:m1	nazwa pospolita	
@@ -22294,6 +22421,7 @@ herosowie	heros	subst:pl:voc:m1	nazwa pospolita
 herosowi	heros	subst:sg:dat:m1	nazwa pospolita	
 herosów	heros	subst:pl:acc:m1	nazwa pospolita	
 herosów	heros	subst:pl:gen:m1	nazwa pospolita	
+herosy	heros	depr:pl:acc:m2	nazwa pospolita	
 herosy	heros	depr:pl:nom:m2	nazwa pospolita	
 herosy	heros	depr:pl:voc:m2	nazwa pospolita	
 herostratesowo	herostratesowo	adv:pos		
@@ -22395,6 +22523,7 @@ herpetologa	herpetolog	subst:sg:gen:m1	nazwa pospolita
 herpetologami	herpetolog	subst:pl:inst:m1	nazwa pospolita	
 herpetolog	herpetolog	subst:sg:nom:m1	nazwa pospolita	
 herpetologiem	herpetolog	subst:sg:inst:m1	nazwa pospolita	
+herpetologi	herpetolog	depr:pl:acc:m2	nazwa pospolita	
 herpetologi	herpetolog	depr:pl:nom:m2	nazwa pospolita	
 herpetologi	herpetolog	depr:pl:voc:m2	nazwa pospolita	
 herpetologom	herpetolog	subst:pl:dat:m1	nazwa pospolita	
@@ -22474,6 +22603,7 @@ hersztowie	herszt	subst:pl:voc:m1	nazwa pospolita
 hersztowi	herszt	subst:sg:dat:m1	nazwa pospolita	
 hersztów	herszt	subst:pl:acc:m1	nazwa pospolita	
 hersztów	herszt	subst:pl:gen:m1	nazwa pospolita	
+herszty	herszt	depr:pl:acc:m2	nazwa pospolita	
 herszty	herszt	depr:pl:nom:m2	nazwa pospolita	
 herszty	herszt	depr:pl:voc:m2	nazwa pospolita	
 hersztować	hersztować	inf:imperf		rzad.
@@ -22753,6 +22883,7 @@ heterki	heterka	subst:pl:voc:f	nazwa pospolita
 heterki	heterka	subst:sg:gen:f	nazwa pospolita	
 heterko	heterka	subst:sg:voc:f	nazwa pospolita	
 heterkom	heterka	subst:pl:dat:f	nazwa pospolita	
+hetero	hetero	depr:pl:acc:m2	nazwa pospolita	
 hetero	hetero	depr:pl:nom:m2	nazwa pospolita	
 hetero	hetero	depr:pl:voc:m2	nazwa pospolita	
 hetero	hetero	subst:pl:acc:m1	nazwa pospolita	
@@ -23443,6 +23574,7 @@ heteroseksualisto	heteroseksualista	subst:sg:voc:m1	nazwa pospolita
 heteroseksualistom	heteroseksualista	subst:pl:dat:m1	nazwa pospolita	
 heteroseksualistów	heteroseksualista	subst:pl:acc:m1	nazwa pospolita	
 heteroseksualistów	heteroseksualista	subst:pl:gen:m1	nazwa pospolita	
+heteroseksualisty	heteroseksualista	depr:pl:acc:m2	nazwa pospolita	
 heteroseksualisty	heteroseksualista	depr:pl:nom:m2	nazwa pospolita	
 heteroseksualisty	heteroseksualista	depr:pl:voc:m2	nazwa pospolita	
 heteroseksualisty	heteroseksualista	subst:sg:gen:m1	nazwa pospolita	
@@ -23950,6 +24082,7 @@ heteryka	heteryk	subst:sg:gen:m1	nazwa pospolita	pot.
 heterykami	heteryk	subst:pl:inst:m1	nazwa pospolita	pot.
 heteryk	heteryk	subst:sg:nom:m1	nazwa pospolita	pot.
 heterykiem	heteryk	subst:sg:inst:m1	nazwa pospolita	pot.
+heteryki	heteryk	depr:pl:acc:m2	nazwa pospolita	pot.
 heteryki	heteryk	depr:pl:nom:m2	nazwa pospolita	pot.
 heteryki	heteryk	depr:pl:voc:m2	nazwa pospolita	pot.
 heterykom	heteryk	subst:pl:dat:m1	nazwa pospolita	pot.
@@ -24004,6 +24137,7 @@ hetmanicach	hetmanic	subst:pl:loc:m1	nazwa pospolita	daw.
 hetmanica	hetmanic	subst:sg:acc:m1	nazwa pospolita	daw.
 hetmanica	hetmanic	subst:sg:gen:m1	nazwa pospolita	daw.
 hetmanicami	hetmanic	subst:pl:inst:m1	nazwa pospolita	daw.
+hetmanice	hetmanic	depr:pl:acc:m2	nazwa pospolita	daw.
 hetmanice	hetmanic	depr:pl:nom:m2	nazwa pospolita	daw.
 hetmanice	hetmanic	depr:pl:voc:m2	nazwa pospolita	daw.
 hetmanice	hetmanic	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -24121,6 +24255,7 @@ hetmanowiczach	hetmanowicz	subst:pl:loc:m1	nazwa pospolita	daw.
 hetmanowicza	hetmanowicz	subst:sg:acc:m1	nazwa pospolita	daw.
 hetmanowicza	hetmanowicz	subst:sg:gen:m1	nazwa pospolita	daw.
 hetmanowiczami	hetmanowicz	subst:pl:inst:m1	nazwa pospolita	daw.
+hetmanowicze	hetmanowicz	depr:pl:acc:m2	nazwa pospolita	daw.
 hetmanowicze	hetmanowicz	depr:pl:nom:m2	nazwa pospolita	daw.
 hetmanowicze	hetmanowicz	depr:pl:voc:m2	nazwa pospolita	daw.
 hetmanowicze	hetmanowicz	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -24215,6 +24350,7 @@ hetmanowie	hetman:s2	subst:pl:voc:m1	nazwa pospolita	wojsk.|hist.
 hetmanowi	hetman:s2	subst:sg:dat:m1	nazwa pospolita	wojsk.|hist.
 hetmanów	hetman:s2	subst:pl:acc:m1	nazwa pospolita	wojsk.|hist.
 hetmanów	hetman:s2	subst:pl:gen:m1	nazwa pospolita	wojsk.|hist.
+hetmany	hetman:s2	depr:pl:acc:m2	nazwa pospolita	wojsk.|hist.
 hetmany	hetman:s2	depr:pl:nom:m2	nazwa pospolita	wojsk.|hist.
 hetmany	hetman:s2	depr:pl:voc:m2	nazwa pospolita	wojsk.|hist.
 hetmańczukach	hetmańczuk	subst:pl:loc:m1	nazwa pospolita	daw.
@@ -24223,6 +24359,7 @@ hetmańczuka	hetmańczuk	subst:sg:gen:m1	nazwa pospolita	daw.
 hetmańczukami	hetmańczuk	subst:pl:inst:m1	nazwa pospolita	daw.
 hetmańczuk	hetmańczuk	subst:sg:nom:m1	nazwa pospolita	daw.
 hetmańczukiem	hetmańczuk	subst:sg:inst:m1	nazwa pospolita	daw.
+hetmańczuki	hetmańczuk	depr:pl:acc:m2	nazwa pospolita	daw.
 hetmańczuki	hetmańczuk	depr:pl:nom:m2	nazwa pospolita	daw.
 hetmańczuki	hetmańczuk	depr:pl:voc:m2	nazwa pospolita	daw.
 hetmańczukom	hetmańczuk	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -24350,6 +24487,7 @@ hetytologa	hetytolog	subst:sg:gen:m1	nazwa pospolita
 hetytologami	hetytolog	subst:pl:inst:m1	nazwa pospolita	
 hetytolog	hetytolog	subst:sg:nom:m1	nazwa pospolita	
 hetytologiem	hetytolog	subst:sg:inst:m1	nazwa pospolita	
+hetytologi	hetytolog	depr:pl:acc:m2	nazwa pospolita	
 hetytologi	hetytolog	depr:pl:nom:m2	nazwa pospolita	
 hetytologi	hetytolog	depr:pl:voc:m2	nazwa pospolita	
 hetytologom	hetytolog	subst:pl:dat:m1	nazwa pospolita	
@@ -24509,6 +24647,7 @@ hezychasto	hezychasta	subst:sg:voc:m1	nazwa pospolita
 hezychastom	hezychasta	subst:pl:dat:m1	nazwa pospolita	
 hezychastów	hezychasta	subst:pl:acc:m1	nazwa pospolita	
 hezychastów	hezychasta	subst:pl:gen:m1	nazwa pospolita	
+hezychasty	hezychasta	depr:pl:acc:m2	nazwa pospolita	
 hezychasty	hezychasta	depr:pl:nom:m2	nazwa pospolita	
 hezychasty	hezychasta	depr:pl:voc:m2	nazwa pospolita	
 hezychasty	hezychasta	subst:sg:gen:m1	nazwa pospolita	
@@ -24986,6 +25125,7 @@ hidalga	hidalgo	subst:sg:acc:m1	nazwa pospolita	hist.
 hidalga	hidalgo	subst:sg:gen:m1	nazwa pospolita	hist.
 hidalgami	hidalgo	subst:pl:inst:m1	nazwa pospolita	hist.
 hidalgiem	hidalgo	subst:sg:inst:m1	nazwa pospolita	hist.
+hidalgi	hidalgo	depr:pl:acc:m2	nazwa pospolita	hist.
 hidalgi	hidalgo	depr:pl:nom:m2	nazwa pospolita	hist.
 hidalgi	hidalgo	depr:pl:voc:m2	nazwa pospolita	hist.
 hidalgo	hidalgo	subst:sg:nom:m1	nazwa pospolita	hist.
@@ -25206,6 +25346,7 @@ hierarchowie	hierarcha	subst:pl:nom:m1	nazwa pospolita
 hierarchowie	hierarcha	subst:pl:voc:m1	nazwa pospolita	
 hierarchów	hierarcha	subst:pl:acc:m1	nazwa pospolita	
 hierarchów	hierarcha	subst:pl:gen:m1	nazwa pospolita	
+hierarchy	hierarcha	depr:pl:acc:m2	nazwa pospolita	
 hierarchy	hierarcha	depr:pl:nom:m2	nazwa pospolita	
 hierarchy	hierarcha	depr:pl:voc:m2	nazwa pospolita	
 hierarchy	hierarcha	subst:sg:gen:m1	nazwa pospolita	
@@ -25431,6 +25572,7 @@ hieratysto	hieratysta	subst:sg:voc:m1	nazwa pospolita
 hieratystom	hieratysta	subst:pl:dat:m1	nazwa pospolita	
 hieratystów	hieratysta	subst:pl:acc:m1	nazwa pospolita	
 hieratystów	hieratysta	subst:pl:gen:m1	nazwa pospolita	
+hieratysty	hieratysta	depr:pl:acc:m2	nazwa pospolita	
 hieratysty	hieratysta	depr:pl:nom:m2	nazwa pospolita	
 hieratysty	hieratysta	depr:pl:voc:m2	nazwa pospolita	
 hieratysty	hieratysta	subst:sg:gen:m1	nazwa pospolita	
@@ -25570,6 +25712,7 @@ hierofantom	hierofant	subst:pl:dat:m1	nazwa pospolita
 hierofantowi	hierofant	subst:sg:dat:m1	nazwa pospolita	
 hierofantów	hierofant	subst:pl:acc:m1	nazwa pospolita	
 hierofantów	hierofant	subst:pl:gen:m1	nazwa pospolita	
+hierofanty	hierofant	depr:pl:acc:m2	nazwa pospolita	
 hierofanty	hierofant	depr:pl:nom:m2	nazwa pospolita	
 hierofanty	hierofant	depr:pl:voc:m2	nazwa pospolita	
 hierofantycznościach	hierofantyczność	subst:pl:loc:f	nazwa pospolita	przest.
@@ -25925,6 +26068,7 @@ hifowcach	hifowiec	subst:pl:loc:m1	nazwa pospolita
 hifowca	hifowiec	subst:sg:acc:m1	nazwa pospolita	
 hifowca	hifowiec	subst:sg:gen:m1	nazwa pospolita	
 hifowcami	hifowiec	subst:pl:inst:m1	nazwa pospolita	
+hifowce	hifowiec	depr:pl:acc:m2	nazwa pospolita	
 hifowce	hifowiec	depr:pl:nom:m2	nazwa pospolita	
 hifowce	hifowiec	depr:pl:voc:m2	nazwa pospolita	
 hifowcem	hifowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -26029,6 +26173,7 @@ higienisto	higienista	subst:sg:voc:m1	nazwa pospolita
 higienistom	higienista	subst:pl:dat:m1	nazwa pospolita	
 higienistów	higienista	subst:pl:acc:m1	nazwa pospolita	
 higienistów	higienista	subst:pl:gen:m1	nazwa pospolita	
+higienisty	higienista	depr:pl:acc:m2	nazwa pospolita	
 higienisty	higienista	depr:pl:nom:m2	nazwa pospolita	
 higienisty	higienista	depr:pl:voc:m2	nazwa pospolita	
 higienisty	higienista	subst:sg:gen:m1	nazwa pospolita	
@@ -26706,6 +26851,7 @@ himalaisto	himalaista	subst:sg:voc:m1	nazwa pospolita
 himalaistom	himalaista	subst:pl:dat:m1	nazwa pospolita	
 himalaistów	himalaista	subst:pl:acc:m1	nazwa pospolita	
 himalaistów	himalaista	subst:pl:gen:m1	nazwa pospolita	
+himalaisty	himalaista	depr:pl:acc:m2	nazwa pospolita	
 himalaisty	himalaista	depr:pl:nom:m2	nazwa pospolita	
 himalaisty	himalaista	depr:pl:voc:m2	nazwa pospolita	
 himalaisty	himalaista	subst:sg:gen:m1	nazwa pospolita	
@@ -26924,6 +27070,7 @@ hinduisto	hinduista	subst:sg:voc:m1	nazwa pospolita
 hinduistom	hinduista	subst:pl:dat:m1	nazwa pospolita	
 hinduistów	hinduista	subst:pl:acc:m1	nazwa pospolita	
 hinduistów	hinduista	subst:pl:gen:m1	nazwa pospolita	
+hinduisty	hinduista	depr:pl:acc:m2	nazwa pospolita	
 hinduisty	hinduista	depr:pl:nom:m2	nazwa pospolita	
 hinduisty	hinduista	depr:pl:voc:m2	nazwa pospolita	
 hinduisty	hinduista	subst:sg:gen:m1	nazwa pospolita	
@@ -27025,6 +27172,7 @@ hindusom	hindus	subst:pl:dat:m1	nazwa pospolita
 hindusowi	hindus	subst:sg:dat:m1	nazwa pospolita	
 hindusów	hindus	subst:pl:acc:m1	nazwa pospolita	
 hindusów	hindus	subst:pl:gen:m1	nazwa pospolita	
+hindusy	hindus	depr:pl:acc:m2	nazwa pospolita	
 hindusy	hindus	depr:pl:nom:m2	nazwa pospolita	
 hindusy	hindus	depr:pl:voc:m2	nazwa pospolita	
 hindusce	hinduska	subst:sg:dat:f	nazwa pospolita	
@@ -27503,6 +27651,7 @@ hiperborejczyka	hiperborejczyk	subst:sg:gen:m1	nazwa pospolita	przest.
 hiperborejczykami	hiperborejczyk	subst:pl:inst:m1	nazwa pospolita	przest.
 hiperborejczyk	hiperborejczyk	subst:sg:nom:m1	nazwa pospolita	przest.
 hiperborejczykiem	hiperborejczyk	subst:sg:inst:m1	nazwa pospolita	przest.
+hiperborejczyki	hiperborejczyk	depr:pl:acc:m2	nazwa pospolita	przest.
 hiperborejczyki	hiperborejczyk	depr:pl:nom:m2	nazwa pospolita	przest.
 hiperborejczyki	hiperborejczyk	depr:pl:voc:m2	nazwa pospolita	przest.
 hiperborejczykom	hiperborejczyk	subst:pl:dat:m1	nazwa pospolita	przest.
@@ -27608,6 +27757,7 @@ hiperesteto	hiperesteta	subst:sg:voc:m1	nazwa pospolita
 hiperestetom	hiperesteta	subst:pl:dat:m1	nazwa pospolita	
 hiperestetów	hiperesteta	subst:pl:acc:m1	nazwa pospolita	
 hiperestetów	hiperesteta	subst:pl:gen:m1	nazwa pospolita	
+hiperestety	hiperesteta	depr:pl:acc:m2	nazwa pospolita	
 hiperestety	hiperesteta	depr:pl:nom:m2	nazwa pospolita	
 hiperestety	hiperesteta	depr:pl:voc:m2	nazwa pospolita	
 hiperestety	hiperesteta	subst:sg:gen:m1	nazwa pospolita	
@@ -28318,6 +28468,7 @@ hiperrealisto	hiperrealista	subst:sg:voc:m1	nazwa pospolita
 hiperrealistom	hiperrealista	subst:pl:dat:m1	nazwa pospolita	
 hiperrealistów	hiperrealista	subst:pl:acc:m1	nazwa pospolita	
 hiperrealistów	hiperrealista	subst:pl:gen:m1	nazwa pospolita	
+hiperrealisty	hiperrealista	depr:pl:acc:m2	nazwa pospolita	
 hiperrealisty	hiperrealista	depr:pl:nom:m2	nazwa pospolita	
 hiperrealisty	hiperrealista	depr:pl:voc:m2	nazwa pospolita	
 hiperrealisty	hiperrealista	subst:sg:gen:m1	nazwa pospolita	
@@ -28823,6 +28974,7 @@ hiphopowcach	hiphopowiec	subst:pl:loc:m1	nazwa pospolita
 hiphopowca	hiphopowiec	subst:sg:acc:m1	nazwa pospolita	
 hiphopowca	hiphopowiec	subst:sg:gen:m1	nazwa pospolita	
 hiphopowcami	hiphopowiec	subst:pl:inst:m1	nazwa pospolita	
+hiphopowce	hiphopowiec	depr:pl:acc:m2	nazwa pospolita	
 hiphopowce	hiphopowiec	depr:pl:nom:m2	nazwa pospolita	
 hiphopowce	hiphopowiec	depr:pl:voc:m2	nazwa pospolita	
 hiphopowcem	hiphopowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -28839,6 +28991,7 @@ hip-hopowcach	hip-hopowiec	subst:pl:loc:m1	nazwa pospolita
 hip-hopowca	hip-hopowiec	subst:sg:acc:m1	nazwa pospolita	
 hip-hopowca	hip-hopowiec	subst:sg:gen:m1	nazwa pospolita	
 hip-hopowcami	hip-hopowiec	subst:pl:inst:m1	nazwa pospolita	
+hip-hopowce	hip-hopowiec	depr:pl:acc:m2	nazwa pospolita	
 hip-hopowce	hip-hopowiec	depr:pl:nom:m2	nazwa pospolita	
 hip-hopowce	hip-hopowiec	depr:pl:voc:m2	nazwa pospolita	
 hip-hopowcem	hip-hopowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -28994,6 +29147,7 @@ hipisom	hipis	subst:pl:dat:m1	nazwa pospolita
 hipisowi	hipis	subst:sg:dat:m1	nazwa pospolita	
 hipisów	hipis	subst:pl:acc:m1	nazwa pospolita	
 hipisów	hipis	subst:pl:gen:m1	nazwa pospolita	
+hipisy	hipis	depr:pl:acc:m2	nazwa pospolita	
 hipisy	hipis	depr:pl:nom:m2	nazwa pospolita	
 hipisy	hipis	depr:pl:voc:m2	nazwa pospolita	
 hipisce	hipiska	subst:sg:dat:f	nazwa pospolita	
@@ -29058,6 +29212,7 @@ hipnologa	hipnolog	subst:sg:gen:m1	nazwa pospolita
 hipnologami	hipnolog	subst:pl:inst:m1	nazwa pospolita	
 hipnolog	hipnolog	subst:sg:nom:m1	nazwa pospolita	
 hipnologiem	hipnolog	subst:sg:inst:m1	nazwa pospolita	
+hipnologi	hipnolog	depr:pl:acc:m2	nazwa pospolita	
 hipnologi	hipnolog	depr:pl:nom:m2	nazwa pospolita	
 hipnologi	hipnolog	depr:pl:voc:m2	nazwa pospolita	
 hipnologom	hipnolog	subst:pl:dat:m1	nazwa pospolita	
@@ -29187,6 +29342,7 @@ hipnoterapeuto	hipnoterapeuta	subst:sg:voc:m1	nazwa pospolita
 hipnoterapeutom	hipnoterapeuta	subst:pl:dat:m1	nazwa pospolita	
 hipnoterapeutów	hipnoterapeuta	subst:pl:acc:m1	nazwa pospolita	
 hipnoterapeutów	hipnoterapeuta	subst:pl:gen:m1	nazwa pospolita	
+hipnoterapeuty	hipnoterapeuta	depr:pl:acc:m2	nazwa pospolita	
 hipnoterapeuty	hipnoterapeuta	depr:pl:nom:m2	nazwa pospolita	
 hipnoterapeuty	hipnoterapeuta	depr:pl:voc:m2	nazwa pospolita	
 hipnoterapeuty	hipnoterapeuta	subst:sg:gen:m1	nazwa pospolita	
@@ -29266,6 +29422,7 @@ hipnotyka	hipnotyk	subst:sg:gen:m1	nazwa pospolita	przest.
 hipnotykami	hipnotyk	subst:pl:inst:m1	nazwa pospolita	przest.
 hipnotyk	hipnotyk	subst:sg:nom:m1	nazwa pospolita	przest.
 hipnotykiem	hipnotyk	subst:sg:inst:m1	nazwa pospolita	przest.
+hipnotyki	hipnotyk	depr:pl:acc:m2	nazwa pospolita	przest.
 hipnotyki	hipnotyk	depr:pl:nom:m2	nazwa pospolita	przest.
 hipnotyki	hipnotyk	depr:pl:voc:m2	nazwa pospolita	przest.
 hipnotykom	hipnotyk	subst:pl:dat:m1	nazwa pospolita	przest.
@@ -29299,6 +29456,7 @@ hipnotyzerom	hipnotyzer	subst:pl:dat:m1	nazwa pospolita
 hipnotyzerowi	hipnotyzer	subst:sg:dat:m1	nazwa pospolita	
 hipnotyzerów	hipnotyzer	subst:pl:acc:m1	nazwa pospolita	
 hipnotyzerów	hipnotyzer	subst:pl:gen:m1	nazwa pospolita	
+hipnotyzery	hipnotyzer	depr:pl:acc:m2	nazwa pospolita	
 hipnotyzery	hipnotyzer	depr:pl:nom:m2	nazwa pospolita	
 hipnotyzery	hipnotyzer	depr:pl:voc:m2	nazwa pospolita	
 hipnotyzerze	hipnotyzer	subst:sg:loc:m1	nazwa pospolita	
@@ -29671,6 +29829,7 @@ hipochondryka	hipochondryk	subst:sg:gen:m1	nazwa pospolita
 hipochondrykami	hipochondryk	subst:pl:inst:m1	nazwa pospolita	
 hipochondryk	hipochondryk	subst:sg:nom:m1	nazwa pospolita	
 hipochondrykiem	hipochondryk	subst:sg:inst:m1	nazwa pospolita	
+hipochondryki	hipochondryk	depr:pl:acc:m2	nazwa pospolita	
 hipochondryki	hipochondryk	depr:pl:nom:m2	nazwa pospolita	
 hipochondryki	hipochondryk	depr:pl:voc:m2	nazwa pospolita	
 hipochondrykom	hipochondryk	subst:pl:dat:m1	nazwa pospolita	
@@ -30034,6 +30193,7 @@ hipokondryka	hipokondryk	subst:sg:gen:m1	nazwa pospolita	przest.
 hipokondrykami	hipokondryk	subst:pl:inst:m1	nazwa pospolita	przest.
 hipokondryk	hipokondryk	subst:sg:nom:m1	nazwa pospolita	przest.
 hipokondrykiem	hipokondryk	subst:sg:inst:m1	nazwa pospolita	przest.
+hipokondryki	hipokondryk	depr:pl:acc:m2	nazwa pospolita	przest.
 hipokondryki	hipokondryk	depr:pl:nom:m2	nazwa pospolita	przest.
 hipokondryki	hipokondryk	depr:pl:voc:m2	nazwa pospolita	przest.
 hipokondrykom	hipokondryk	subst:pl:dat:m1	nazwa pospolita	przest.
@@ -30213,6 +30373,7 @@ hipokryto	hipokryta	subst:sg:voc:m1	nazwa pospolita
 hipokrytom	hipokryta	subst:pl:dat:m1	nazwa pospolita	
 hipokrytów	hipokryta	subst:pl:acc:m1	nazwa pospolita	
 hipokrytów	hipokryta	subst:pl:gen:m1	nazwa pospolita	
+hipokryty	hipokryta	depr:pl:acc:m2	nazwa pospolita	
 hipokryty	hipokryta	depr:pl:nom:m2	nazwa pospolita	
 hipokryty	hipokryta	depr:pl:voc:m2	nazwa pospolita	
 hipokryty	hipokryta	subst:sg:gen:m1	nazwa pospolita	
@@ -30374,6 +30535,7 @@ hipologa	hipolog	subst:sg:gen:m1	nazwa pospolita
 hipologami	hipolog	subst:pl:inst:m1	nazwa pospolita	
 hipolog	hipolog	subst:sg:nom:m1	nazwa pospolita	
 hipologiem	hipolog	subst:sg:inst:m1	nazwa pospolita	
+hipologi	hipolog	depr:pl:acc:m2	nazwa pospolita	
 hipologi	hipolog	depr:pl:nom:m2	nazwa pospolita	
 hipologi	hipolog	depr:pl:voc:m2	nazwa pospolita	
 hipologom	hipolog	subst:pl:dat:m1	nazwa pospolita	
@@ -30894,6 +31056,7 @@ hipotekariuszach	hipotekariusz	subst:pl:loc:m1	nazwa pospolita	daw.
 hipotekariusza	hipotekariusz	subst:sg:acc:m1	nazwa pospolita	daw.
 hipotekariusza	hipotekariusz	subst:sg:gen:m1	nazwa pospolita	daw.
 hipotekariuszami	hipotekariusz	subst:pl:inst:m1	nazwa pospolita	daw.
+hipotekariusze	hipotekariusz	depr:pl:acc:m2	nazwa pospolita	daw.
 hipotekariusze	hipotekariusz	depr:pl:nom:m2	nazwa pospolita	daw.
 hipotekariusze	hipotekariusz	depr:pl:voc:m2	nazwa pospolita	daw.
 hipotekariusze	hipotekariusz	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -31077,6 +31240,7 @@ hipoterapeuto	hipoterapeuta	subst:sg:voc:m1	nazwa pospolita
 hipoterapeutom	hipoterapeuta	subst:pl:dat:m1	nazwa pospolita	
 hipoterapeutów	hipoterapeuta	subst:pl:acc:m1	nazwa pospolita	
 hipoterapeutów	hipoterapeuta	subst:pl:gen:m1	nazwa pospolita	
+hipoterapeuty	hipoterapeuta	depr:pl:acc:m2	nazwa pospolita	
 hipoterapeuty	hipoterapeuta	depr:pl:nom:m2	nazwa pospolita	
 hipoterapeuty	hipoterapeuta	depr:pl:voc:m2	nazwa pospolita	
 hipoterapeuty	hipoterapeuta	subst:sg:gen:m1	nazwa pospolita	
@@ -31301,6 +31465,7 @@ hipotonika	hipotonik	subst:sg:gen:m1	nazwa pospolita
 hipotonikami	hipotonik	subst:pl:inst:m1	nazwa pospolita	
 hipotonik	hipotonik	subst:sg:nom:m1	nazwa pospolita	
 hipotonikiem	hipotonik	subst:sg:inst:m1	nazwa pospolita	
+hipotoniki	hipotonik	depr:pl:acc:m2	nazwa pospolita	
 hipotoniki	hipotonik	depr:pl:nom:m2	nazwa pospolita	
 hipotoniki	hipotonik	depr:pl:voc:m2	nazwa pospolita	
 hipotonikom	hipotonik	subst:pl:dat:m1	nazwa pospolita	
@@ -31409,6 +31574,7 @@ hippiech	hippie	subst:pl:gen:m1	nazwa pospolita
 hippiech	hippie	subst:pl:loc:m1	nazwa pospolita	
 hippiego	hippie	subst:sg:acc:m1	nazwa pospolita	
 hippiego	hippie	subst:sg:gen:m1	nazwa pospolita	
+hippie	hippie	depr:pl:acc:m2	nazwa pospolita	
 hippie	hippie	depr:pl:nom:m2	nazwa pospolita	
 hippie	hippie	depr:pl:voc:m2	nazwa pospolita	
 hippie	hippie	subst:pl:acc:m1	nazwa pospolita	
@@ -31430,6 +31596,7 @@ hippiem	hippie	subst:sg:inst:m1	nazwa pospolita
 hippiem	hippie	subst:sg:loc:m1	nazwa pospolita	
 hippiemi	hippie	subst:pl:inst:m1	nazwa pospolita	
 hippiemu	hippie	subst:sg:dat:m1	nazwa pospolita	
+hippies	hippie	depr:pl:acc:m2	nazwa pospolita	
 hippies	hippie	depr:pl:nom:m2	nazwa pospolita	
 hippies	hippie	depr:pl:voc:m2	nazwa pospolita	
 hippies	hippie	subst:pl:nom:m1	nazwa pospolita	
@@ -31502,6 +31669,7 @@ hippisom	hippis	subst:pl:dat:m1	nazwa pospolita
 hippisowi	hippis	subst:sg:dat:m1	nazwa pospolita	
 hippisów	hippis	subst:pl:acc:m1	nazwa pospolita	
 hippisów	hippis	subst:pl:gen:m1	nazwa pospolita	
+hippisy	hippis	depr:pl:acc:m2	nazwa pospolita	
 hippisy	hippis	depr:pl:nom:m2	nazwa pospolita	
 hippisy	hippis	depr:pl:voc:m2	nazwa pospolita	
 hippisowscy	hippisowski	adj:pl:nom.voc:m1:pos		
@@ -31673,6 +31841,7 @@ hipsterom	hipster	subst:pl:dat:m1	nazwa pospolita
 hipsterowi	hipster	subst:sg:dat:m1	nazwa pospolita	
 hipsterów	hipster	subst:pl:acc:m1	nazwa pospolita	
 hipsterów	hipster	subst:pl:gen:m1	nazwa pospolita	
+hipstery	hipster	depr:pl:acc:m2	nazwa pospolita	
 hipstery	hipster	depr:pl:nom:m2	nazwa pospolita	
 hipstery	hipster	depr:pl:voc:m2	nazwa pospolita	
 hipsterze	hipster	subst:sg:loc:m1	nazwa pospolita	
@@ -31994,6 +32163,7 @@ hispanisto	hispanista	subst:sg:voc:m1	nazwa pospolita
 hispanistom	hispanista	subst:pl:dat:m1	nazwa pospolita	
 hispanistów	hispanista	subst:pl:acc:m1	nazwa pospolita	
 hispanistów	hispanista	subst:pl:gen:m1	nazwa pospolita	
+hispanisty	hispanista	depr:pl:acc:m2	nazwa pospolita	
 hispanisty	hispanista	depr:pl:nom:m2	nazwa pospolita	
 hispanisty	hispanista	depr:pl:voc:m2	nazwa pospolita	
 hispanisty	hispanista	subst:sg:gen:m1	nazwa pospolita	
@@ -32270,6 +32440,7 @@ histeryka	histeryk	subst:sg:gen:m1	nazwa pospolita
 histerykami	histeryk	subst:pl:inst:m1	nazwa pospolita	
 histeryk	histeryk	subst:sg:nom:m1	nazwa pospolita	
 histerykiem	histeryk	subst:sg:inst:m1	nazwa pospolita	
+histeryki	histeryk	depr:pl:acc:m2	nazwa pospolita	
 histeryki	histeryk	depr:pl:nom:m2	nazwa pospolita	
 histeryki	histeryk	depr:pl:voc:m2	nazwa pospolita	
 histerykom	histeryk	subst:pl:dat:m1	nazwa pospolita	
@@ -32482,6 +32653,7 @@ histologa	histolog	subst:sg:gen:m1	nazwa pospolita
 histologami	histolog	subst:pl:inst:m1	nazwa pospolita	
 histolog	histolog	subst:sg:nom:m1	nazwa pospolita	
 histologiem	histolog	subst:sg:inst:m1	nazwa pospolita	
+histologi	histolog	depr:pl:acc:m2	nazwa pospolita	
 histologi	histolog	depr:pl:nom:m2	nazwa pospolita	
 histologi	histolog	depr:pl:voc:m2	nazwa pospolita	
 histologom	histolog	subst:pl:dat:m1	nazwa pospolita	
@@ -32582,6 +32754,7 @@ histopatologa	histopatolog	subst:sg:gen:m1	nazwa pospolita
 histopatologami	histopatolog	subst:pl:inst:m1	nazwa pospolita	
 histopatolog	histopatolog	subst:sg:nom:m1	nazwa pospolita	
 histopatologiem	histopatolog	subst:sg:inst:m1	nazwa pospolita	
+histopatologi	histopatolog	depr:pl:acc:m2	nazwa pospolita	
 histopatologi	histopatolog	depr:pl:nom:m2	nazwa pospolita	
 histopatologi	histopatolog	depr:pl:voc:m2	nazwa pospolita	
 histopatologom	histopatolog	subst:pl:dat:m1	nazwa pospolita	
@@ -32688,6 +32861,7 @@ historiografowie	historiograf	subst:pl:voc:m1	nazwa pospolita
 historiografowi	historiograf	subst:sg:dat:m1	nazwa pospolita	
 historiografów	historiograf	subst:pl:acc:m1	nazwa pospolita	
 historiografów	historiograf	subst:pl:gen:m1	nazwa pospolita	
+historiografy	historiograf	depr:pl:acc:m2	nazwa pospolita	
 historiografy	historiograf	depr:pl:nom:m2	nazwa pospolita	
 historiografy	historiograf	depr:pl:voc:m2	nazwa pospolita	
 historiografiach	historiografia	subst:pl:loc:f	nazwa pospolita	
@@ -32795,6 +32969,7 @@ historiozofowie	historiozof	subst:pl:voc:m1	nazwa pospolita
 historiozofowi	historiozof	subst:sg:dat:m1	nazwa pospolita	
 historiozofów	historiozof	subst:pl:acc:m1	nazwa pospolita	
 historiozofów	historiozof	subst:pl:gen:m1	nazwa pospolita	
+historiozofy	historiozof	depr:pl:acc:m2	nazwa pospolita	
 historiozofy	historiozof	depr:pl:nom:m2	nazwa pospolita	
 historiozofy	historiozof	depr:pl:voc:m2	nazwa pospolita	
 historiozofiach	historiozofia	subst:pl:loc:f	nazwa pospolita	
@@ -33018,6 +33193,7 @@ historyka	historyk	subst:sg:gen:m1	nazwa pospolita
 historykami	historyk	subst:pl:inst:m1	nazwa pospolita	
 historyk	historyk	subst:sg:nom:m1	nazwa pospolita	
 historykiem	historyk	subst:sg:inst:m1	nazwa pospolita	
+historyki	historyk	depr:pl:acc:m2	nazwa pospolita	
 historyki	historyk	depr:pl:nom:m2	nazwa pospolita	
 historyki	historyk	depr:pl:voc:m2	nazwa pospolita	
 historykom	historyk	subst:pl:dat:m1	nazwa pospolita	
@@ -33143,6 +33319,7 @@ histrionowie	histrion	subst:pl:voc:m1	nazwa pospolita
 histrionowi	histrion	subst:sg:dat:m1	nazwa pospolita	
 histrionów	histrion	subst:pl:acc:m1	nazwa pospolita	
 histrionów	histrion	subst:pl:gen:m1	nazwa pospolita	
+histriony	histrion	depr:pl:acc:m2	nazwa pospolita	
 histriony	histrion	depr:pl:nom:m2	nazwa pospolita	
 histriony	histrion	depr:pl:voc:m2	nazwa pospolita	
 histydynach	histydyna	subst:pl:loc:f	nazwa pospolita	
@@ -33297,6 +33474,7 @@ hitlerowcach	hitlerowiec	subst:pl:loc:m1	nazwa pospolita
 hitlerowca	hitlerowiec	subst:sg:acc:m1	nazwa pospolita	
 hitlerowca	hitlerowiec	subst:sg:gen:m1	nazwa pospolita	
 hitlerowcami	hitlerowiec	subst:pl:inst:m1	nazwa pospolita	
+hitlerowce	hitlerowiec	depr:pl:acc:m2	nazwa pospolita	
 hitlerowce	hitlerowiec	depr:pl:nom:m2	nazwa pospolita	
 hitlerowce	hitlerowiec	depr:pl:voc:m2	nazwa pospolita	
 hitlerowcem	hitlerowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -33629,6 +33807,7 @@ hobbisto	hobbista	subst:sg:voc:m1	nazwa pospolita
 hobbistom	hobbista	subst:pl:dat:m1	nazwa pospolita	
 hobbistów	hobbista	subst:pl:acc:m1	nazwa pospolita	
 hobbistów	hobbista	subst:pl:gen:m1	nazwa pospolita	
+hobbisty	hobbista	depr:pl:acc:m2	nazwa pospolita	
 hobbisty	hobbista	depr:pl:nom:m2	nazwa pospolita	
 hobbisty	hobbista	depr:pl:voc:m2	nazwa pospolita	
 hobbisty	hobbista	subst:sg:gen:m1	nazwa pospolita	
@@ -33743,6 +33922,7 @@ hobbitom	hobbit	subst:pl:dat:m1	nazwa pospolita
 hobbitowi	hobbit	subst:sg:dat:m1	nazwa pospolita	
 hobbitów	hobbit	subst:pl:acc:m1	nazwa pospolita	
 hobbitów	hobbit	subst:pl:gen:m1	nazwa pospolita	
+hobbity	hobbit	depr:pl:acc:m2	nazwa pospolita	
 hobbity	hobbit	depr:pl:nom:m2	nazwa pospolita	
 hobbity	hobbit	depr:pl:voc:m2	nazwa pospolita	
 hobby	hobby	subst:pl:acc:n:ncol	nazwa pospolita	
@@ -33768,6 +33948,7 @@ hobbysto	hobbysta	subst:sg:voc:m1	nazwa pospolita
 hobbystom	hobbysta	subst:pl:dat:m1	nazwa pospolita	
 hobbystów	hobbysta	subst:pl:acc:m1	nazwa pospolita	
 hobbystów	hobbysta	subst:pl:gen:m1	nazwa pospolita	
+hobbysty	hobbysta	depr:pl:acc:m2	nazwa pospolita	
 hobbysty	hobbysta	depr:pl:nom:m2	nazwa pospolita	
 hobbysty	hobbysta	depr:pl:voc:m2	nazwa pospolita	
 hobbysty	hobbysta	subst:sg:gen:m1	nazwa pospolita	
@@ -33879,6 +34060,7 @@ hochsztaplerom	hochsztapler	subst:pl:dat:m1	nazwa pospolita
 hochsztaplerowi	hochsztapler	subst:sg:dat:m1	nazwa pospolita	
 hochsztaplerów	hochsztapler	subst:pl:acc:m1	nazwa pospolita	
 hochsztaplerów	hochsztapler	subst:pl:gen:m1	nazwa pospolita	
+hochsztaplery	hochsztapler	depr:pl:acc:m2	nazwa pospolita	
 hochsztaplery	hochsztapler	depr:pl:nom:m2	nazwa pospolita	
 hochsztaplery	hochsztapler	depr:pl:voc:m2	nazwa pospolita	
 hochsztaplerze	hochsztapler	subst:sg:loc:m1	nazwa pospolita	
@@ -34124,6 +34306,7 @@ hodowcach	hodowca	subst:pl:loc:m1	nazwa pospolita
 hodowca	hodowca	subst:sg:nom:m1	nazwa pospolita	
 hodowcami	hodowca	subst:pl:inst:m1	nazwa pospolita	
 hodowcą	hodowca	subst:sg:inst:m1	nazwa pospolita	
+hodowce	hodowca	depr:pl:acc:m2	nazwa pospolita	
 hodowce	hodowca	depr:pl:nom:m2	nazwa pospolita	
 hodowce	hodowca	depr:pl:voc:m2	nazwa pospolita	
 hodowcę	hodowca	subst:sg:acc:m1	nazwa pospolita	
@@ -34220,6 +34403,7 @@ hodżach	hodża	subst:pl:loc:m1	nazwa pospolita
 hodża	hodża	subst:sg:nom:m1	nazwa pospolita	
 hodżami	hodża	subst:pl:inst:m1	nazwa pospolita	
 hodżą	hodża	subst:sg:inst:m1	nazwa pospolita	
+hodże	hodża	depr:pl:acc:m2	nazwa pospolita	
 hodże	hodża	depr:pl:nom:m2	nazwa pospolita	
 hodże	hodża	depr:pl:voc:m2	nazwa pospolita	
 hodżę	hodża	subst:sg:acc:m1	nazwa pospolita	
@@ -34246,6 +34430,7 @@ hofratom	hofrat	subst:pl:dat:m1	nazwa pospolita	daw.
 hofratowi	hofrat	subst:sg:dat:m1	nazwa pospolita	daw.
 hofratów	hofrat	subst:pl:acc:m1	nazwa pospolita	daw.
 hofratów	hofrat	subst:pl:gen:m1	nazwa pospolita	daw.
+hofraty	hofrat	depr:pl:acc:m2	nazwa pospolita	daw.
 hofraty	hofrat	depr:pl:nom:m2	nazwa pospolita	daw.
 hofraty	hofrat	depr:pl:voc:m2	nazwa pospolita	daw.
 hoi	hoja	subst:pl:gen:f	nazwa pospolita	bot.|hom.
@@ -34467,6 +34652,7 @@ hokeisto	hokeista	subst:sg:voc:m1	nazwa pospolita
 hokeistom	hokeista	subst:pl:dat:m1	nazwa pospolita	
 hokeistów	hokeista	subst:pl:acc:m1	nazwa pospolita	
 hokeistów	hokeista	subst:pl:gen:m1	nazwa pospolita	
+hokeisty	hokeista	depr:pl:acc:m2	nazwa pospolita	
 hokeisty	hokeista	depr:pl:nom:m2	nazwa pospolita	
 hokeisty	hokeista	depr:pl:voc:m2	nazwa pospolita	
 hokeisty	hokeista	subst:sg:gen:m1	nazwa pospolita	
@@ -35836,6 +36022,7 @@ hołdownika	hołdownik	subst:sg:gen:m1	nazwa pospolita
 hołdownikami	hołdownik	subst:pl:inst:m1	nazwa pospolita	
 hołdownik	hołdownik	subst:sg:nom:m1	nazwa pospolita	
 hołdownikiem	hołdownik	subst:sg:inst:m1	nazwa pospolita	
+hołdowniki	hołdownik	depr:pl:acc:m2	nazwa pospolita	
 hołdowniki	hołdownik	depr:pl:nom:m2	nazwa pospolita	
 hołdowniki	hołdownik	depr:pl:voc:m2	nazwa pospolita	
 hołdownikom	hołdownik	subst:pl:dat:m1	nazwa pospolita	
@@ -35986,6 +36173,7 @@ hołociuchów	hołociuch	subst:pl:acc:m1	nazwa pospolita
 hołociuchów	hołociuch	subst:pl:gen:m1	nazwa pospolita	
 hołociuchu	hołociuch	subst:sg:loc:m1	nazwa pospolita	
 hołociuchu	hołociuch	subst:sg:voc:m1	nazwa pospolita	
+hołociuchy	hołociuch	depr:pl:acc:m2	nazwa pospolita	
 hołociuchy	hołociuch	depr:pl:nom:m2	nazwa pospolita	
 hołociuchy	hołociuch	depr:pl:voc:m2	nazwa pospolita	
 hołodrydze	hołodryga:s1	subst:sg:dat:f	nazwa pospolita	reg.|pot.
@@ -36011,6 +36199,7 @@ hołodryga	hołodryga:s2	subst:sg:nom:m1	nazwa pospolita	reg.|pot.
 hołodrygami	hołodryga:s2	subst:pl:inst:m1	nazwa pospolita	reg.|pot.
 hołodrygą	hołodryga:s2	subst:sg:inst:m1	nazwa pospolita	reg.|pot.
 hołodrygę	hołodryga:s2	subst:sg:acc:m1	nazwa pospolita	reg.|pot.
+hołodrygi	hołodryga:s2	depr:pl:acc:m2	nazwa pospolita	reg.|pot.
 hołodrygi	hołodryga:s2	depr:pl:nom:m2	nazwa pospolita	reg.|pot.
 hołodrygi	hołodryga:s2	depr:pl:voc:m2	nazwa pospolita	reg.|pot.
 hołodrygi	hołodryga:s2	subst:sg:gen:m1	nazwa pospolita	reg.|pot.
@@ -36205,6 +36394,7 @@ hołyszach	hołysz	subst:pl:loc:m1	nazwa pospolita
 hołysza	hołysz	subst:sg:acc:m1	nazwa pospolita	
 hołysza	hołysz	subst:sg:gen:m1	nazwa pospolita	
 hołyszami	hołysz	subst:pl:inst:m1	nazwa pospolita	
+hołysze	hołysz	depr:pl:acc:m2	nazwa pospolita	
 hołysze	hołysz	depr:pl:nom:m2	nazwa pospolita	
 hołysze	hołysz	depr:pl:voc:m2	nazwa pospolita	
 hołysze	hołysz	subst:pl:nom:m1	nazwa pospolita	
@@ -36448,6 +36638,7 @@ homeopato	homeopata	subst:sg:voc:m1	nazwa pospolita
 homeopatom	homeopata	subst:pl:dat:m1	nazwa pospolita	
 homeopatów	homeopata	subst:pl:acc:m1	nazwa pospolita	
 homeopatów	homeopata	subst:pl:gen:m1	nazwa pospolita	
+homeopaty	homeopata	depr:pl:acc:m2	nazwa pospolita	
 homeopaty	homeopata	depr:pl:nom:m2	nazwa pospolita	
 homeopaty	homeopata	depr:pl:voc:m2	nazwa pospolita	
 homeopaty	homeopata	subst:sg:gen:m1	nazwa pospolita	
@@ -36828,6 +37019,7 @@ homerydo	homeryda	subst:sg:voc:m1	nazwa pospolita
 homerydom	homeryda	subst:pl:dat:m1	nazwa pospolita	
 homerydów	homeryda	subst:pl:acc:m1	nazwa pospolita	
 homerydów	homeryda	subst:pl:gen:m1	nazwa pospolita	
+homerydy	homeryda	depr:pl:acc:m2	nazwa pospolita	
 homerydy	homeryda	depr:pl:nom:m2	nazwa pospolita	
 homerydy	homeryda	depr:pl:voc:m2	nazwa pospolita	
 homerydy	homeryda	subst:sg:gen:m1	nazwa pospolita	
@@ -36954,6 +37146,7 @@ homiletyka	homiletyk	subst:sg:gen:m1	nazwa pospolita
 homiletykami	homiletyk	subst:pl:inst:m1	nazwa pospolita	
 homiletyk	homiletyk	subst:sg:nom:m1	nazwa pospolita	
 homiletykiem	homiletyk	subst:sg:inst:m1	nazwa pospolita	
+homiletyki	homiletyk	depr:pl:acc:m2	nazwa pospolita	
 homiletyki	homiletyk	depr:pl:nom:m2	nazwa pospolita	
 homiletyki	homiletyk	depr:pl:voc:m2	nazwa pospolita	
 homiletykom	homiletyk	subst:pl:dat:m1	nazwa pospolita	
@@ -37076,6 +37269,7 @@ hominidowi	hominid	subst:sg:dat:m2	nazwa pospolita
 hominidów	hominid	subst:pl:acc:m1	nazwa pospolita	
 hominidów	hominid	subst:pl:gen:m1	nazwa pospolita	
 hominidów	hominid	subst:pl:gen:m2	nazwa pospolita	
+hominidy	hominid	depr:pl:acc:m2	nazwa pospolita	
 hominidy	hominid	depr:pl:nom:m2	nazwa pospolita	
 hominidy	hominid	depr:pl:voc:m2	nazwa pospolita	
 hominidy	hominid	subst:pl:acc:m2	nazwa pospolita	
@@ -37087,6 +37281,7 @@ hominidzie	hominid	subst:sg:voc:m1	nazwa pospolita
 hominidzie	hominid	subst:sg:voc:m2	nazwa pospolita	
 hominidzi	hominid	subst:pl:nom:m1	nazwa pospolita	
 hominidzi	hominid	subst:pl:voc:m1	nazwa pospolita	
+homo	homo	depr:pl:acc:m2	nazwa pospolita	
 homo	homo	depr:pl:nom:m2	nazwa pospolita	
 homo	homo	depr:pl:voc:m2	nazwa pospolita	
 homo	homo	subst:pl:acc:m1	nazwa pospolita	
@@ -37247,6 +37442,7 @@ homofobowie	homofob	subst:pl:voc:m1	nazwa pospolita
 homofobowi	homofob	subst:sg:dat:m1	nazwa pospolita	
 homofobów	homofob	subst:pl:acc:m1	nazwa pospolita	
 homofobów	homofob	subst:pl:gen:m1	nazwa pospolita	
+homofoby	homofob	depr:pl:acc:m2	nazwa pospolita	
 homofoby	homofob	depr:pl:nom:m2	nazwa pospolita	
 homofoby	homofob	depr:pl:voc:m2	nazwa pospolita	
 homofobiach	homofobia	subst:pl:loc:f	nazwa pospolita	
@@ -38161,6 +38357,7 @@ homoseksualisto	homoseksualista	subst:sg:voc:m1	nazwa pospolita
 homoseksualistom	homoseksualista	subst:pl:dat:m1	nazwa pospolita	
 homoseksualistów	homoseksualista	subst:pl:acc:m1	nazwa pospolita	
 homoseksualistów	homoseksualista	subst:pl:gen:m1	nazwa pospolita	
+homoseksualisty	homoseksualista	depr:pl:acc:m2	nazwa pospolita	
 homoseksualisty	homoseksualista	depr:pl:nom:m2	nazwa pospolita	
 homoseksualisty	homoseksualista	depr:pl:voc:m2	nazwa pospolita	
 homoseksualisty	homoseksualista	subst:sg:gen:m1	nazwa pospolita	
@@ -38661,6 +38858,7 @@ honoracjorowie	honoracjor	subst:pl:voc:m1	nazwa pospolita	przest.
 honoracjorowi	honoracjor	subst:sg:dat:m1	nazwa pospolita	przest.
 honoracjorów	honoracjor	subst:pl:acc:m1	nazwa pospolita	przest.
 honoracjorów	honoracjor	subst:pl:gen:m1	nazwa pospolita	przest.
+honoracjory	honoracjor	depr:pl:acc:m2	nazwa pospolita	przest.
 honoracjory	honoracjor	depr:pl:nom:m2	nazwa pospolita	przest.
 honoracjory	honoracjor	depr:pl:voc:m2	nazwa pospolita	przest.
 honoracjorze	honoracjor	subst:sg:loc:m1	nazwa pospolita	przest.
@@ -39032,6 +39230,7 @@ honwedom	honwed	subst:pl:dat:m1	nazwa pospolita	daw.
 honwedowi	honwed	subst:sg:dat:m1	nazwa pospolita	daw.
 honwedów	honwed	subst:pl:acc:m1	nazwa pospolita	daw.
 honwedów	honwed	subst:pl:gen:m1	nazwa pospolita	daw.
+honwedy	honwed	depr:pl:acc:m2	nazwa pospolita	daw.
 honwedy	honwed	depr:pl:nom:m2	nazwa pospolita	daw.
 honwedy	honwed	depr:pl:voc:m2	nazwa pospolita	daw.
 honwedzie	honwed	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -39249,6 +39448,7 @@ hoplito	hoplita	subst:sg:voc:m1	nazwa pospolita
 hoplitom	hoplita	subst:pl:dat:m1	nazwa pospolita	
 hoplitów	hoplita	subst:pl:acc:m1	nazwa pospolita	
 hoplitów	hoplita	subst:pl:gen:m1	nazwa pospolita	
+hoplity	hoplita	depr:pl:acc:m2	nazwa pospolita	
 hoplity	hoplita	depr:pl:nom:m2	nazwa pospolita	
 hoplity	hoplita	depr:pl:voc:m2	nazwa pospolita	
 hoplity	hoplita	subst:sg:gen:m1	nazwa pospolita	
@@ -39464,6 +39664,7 @@ horacjaninie	horacjanin	subst:sg:loc:m1	nazwa pospolita
 horacjaninie	horacjanin	subst:sg:voc:m1	nazwa pospolita	
 horacjaninowi	horacjanin	subst:sg:dat:m1	nazwa pospolita	
 horacjanom	horacjanin	subst:pl:dat:m1	nazwa pospolita	
+horacjany	horacjanin	depr:pl:acc:m2	nazwa pospolita	
 horacjany	horacjanin	depr:pl:nom:m2	nazwa pospolita	
 horacjany	horacjanin	depr:pl:voc:m2	nazwa pospolita	
 horacjanizować	horacjanizować	inf:imperf		
@@ -40103,6 +40304,7 @@ horodniczym	horodniczy:a	adj:sg:loc:m1.m2.m3.n:pos		daw.|reg.
 horodniczymi	horodniczy:a	adj:pl:inst:m1.m2.m3.f.n:pos		daw.|reg.
 horodniczego	horodniczy:s	subst:sg:acc:m1	nazwa pospolita	daw.
 horodniczego	horodniczy:s	subst:sg:gen:m1	nazwa pospolita	daw.
+horodnicze	horodniczy:s	depr:pl:acc:m2	nazwa pospolita	daw.
 horodnicze	horodniczy:s	depr:pl:nom:m2	nazwa pospolita	daw.
 horodnicze	horodniczy:s	depr:pl:voc:m2	nazwa pospolita	daw.
 horodniczemu	horodniczy:s	subst:sg:dat:m1	nazwa pospolita	daw.
@@ -40750,6 +40952,7 @@ hospitantom	hospitant	subst:pl:dat:m1	nazwa pospolita
 hospitantowi	hospitant	subst:sg:dat:m1	nazwa pospolita	
 hospitantów	hospitant	subst:pl:acc:m1	nazwa pospolita	
 hospitantów	hospitant	subst:pl:gen:m1	nazwa pospolita	
+hospitanty	hospitant	depr:pl:acc:m2	nazwa pospolita	
 hospitanty	hospitant	depr:pl:nom:m2	nazwa pospolita	
 hospitanty	hospitant	depr:pl:voc:m2	nazwa pospolita	
 hospitantce	hospitantka	subst:sg:dat:f	nazwa pospolita	
@@ -40868,6 +41071,7 @@ hospodarowie	hospodar	subst:pl:voc:m1	nazwa pospolita
 hospodarowi	hospodar	subst:sg:dat:m1	nazwa pospolita	
 hospodarów	hospodar	subst:pl:acc:m1	nazwa pospolita	
 hospodarów	hospodar	subst:pl:gen:m1	nazwa pospolita	
+hospodary	hospodar	depr:pl:acc:m2	nazwa pospolita	
 hospodary	hospodar	depr:pl:nom:m2	nazwa pospolita	
 hospodary	hospodar	depr:pl:voc:m2	nazwa pospolita	
 hospodarze	hospodar	subst:sg:loc:m1	nazwa pospolita	
@@ -40878,6 +41082,7 @@ hospodarczyka	hospodarczyk	subst:sg:gen:m1	nazwa pospolita	daw.
 hospodarczykami	hospodarczyk	subst:pl:inst:m1	nazwa pospolita	daw.
 hospodarczyk	hospodarczyk	subst:sg:nom:m1	nazwa pospolita	daw.
 hospodarczykiem	hospodarczyk	subst:sg:inst:m1	nazwa pospolita	daw.
+hospodarczyki	hospodarczyk	depr:pl:acc:m2	nazwa pospolita	daw.
 hospodarczyki	hospodarczyk	depr:pl:nom:m2	nazwa pospolita	daw.
 hospodarczyki	hospodarczyk	depr:pl:voc:m2	nazwa pospolita	daw.
 hospodarczykom	hospodarczyk	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -41045,6 +41250,7 @@ hospodynowie	hospodyn	subst:pl:voc:m1	nazwa pospolita	daw.
 hospodynowi	hospodyn	subst:sg:dat:m1	nazwa pospolita	daw.
 hospodynów	hospodyn	subst:pl:acc:m1	nazwa pospolita	daw.
 hospodynów	hospodyn	subst:pl:gen:m1	nazwa pospolita	daw.
+hospodyny	hospodyn	depr:pl:acc:m2	nazwa pospolita	daw.
 hospodyny	hospodyn	depr:pl:nom:m2	nazwa pospolita	daw.
 hospodyny	hospodyn	depr:pl:voc:m2	nazwa pospolita	daw.
 hospodyńscy	hospodyński	adj:pl:nom.voc:m1:pos		daw.
@@ -41330,6 +41536,8 @@ hotelarza	hotelarz	subst:sg:gen:m1	nazwa pospolita
 hotelarza	hotelarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 hotelarzami	hotelarz	subst:pl:inst:m1	nazwa pospolita	
 hotelarzami	hotelarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+hotelarze	hotelarz	depr:pl:acc:m2	nazwa pospolita	
+hotelarze	hotelarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 hotelarze	hotelarz	depr:pl:nom:m2	nazwa pospolita	
 hotelarze	hotelarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 hotelarze	hotelarz	depr:pl:voc:m2	nazwa pospolita	
@@ -41419,6 +41627,7 @@ hotelisto	hotelista	subst:sg:voc:m1	nazwa pospolita	przest.
 hotelistom	hotelista	subst:pl:dat:m1	nazwa pospolita	przest.
 hotelistów	hotelista	subst:pl:acc:m1	nazwa pospolita	przest.
 hotelistów	hotelista	subst:pl:gen:m1	nazwa pospolita	przest.
+hotelisty	hotelista	depr:pl:acc:m2	nazwa pospolita	przest.
 hotelisty	hotelista	depr:pl:nom:m2	nazwa pospolita	przest.
 hotelisty	hotelista	depr:pl:voc:m2	nazwa pospolita	przest.
 hotelisty	hotelista	subst:sg:gen:m1	nazwa pospolita	przest.
@@ -41434,6 +41643,7 @@ hotelnika	hotelnik	subst:sg:gen:m1	nazwa pospolita	przest.
 hotelnikami	hotelnik	subst:pl:inst:m1	nazwa pospolita	przest.
 hotelnik	hotelnik	subst:sg:nom:m1	nazwa pospolita	przest.
 hotelnikiem	hotelnik	subst:sg:inst:m1	nazwa pospolita	przest.
+hotelniki	hotelnik	depr:pl:acc:m2	nazwa pospolita	przest.
 hotelniki	hotelnik	depr:pl:nom:m2	nazwa pospolita	przest.
 hotelniki	hotelnik	depr:pl:voc:m2	nazwa pospolita	przest.
 hotelnikom	hotelnik	subst:pl:dat:m1	nazwa pospolita	przest.
@@ -41510,6 +41720,7 @@ hotelowym	hotelowy:a	adj:sg:loc:m1.m2.m3.n:pos
 hotelowymi	hotelowy:a	adj:pl:inst:m1.m2.m3.f.n:pos		
 hotelowego	hotelowy:s	subst:sg:acc:m1	nazwa pospolita	
 hotelowego	hotelowy:s	subst:sg:gen:m1	nazwa pospolita	
+hotelowe	hotelowy:s	depr:pl:acc:m2	nazwa pospolita	
 hotelowe	hotelowy:s	depr:pl:nom:m2	nazwa pospolita	
 hotelowe	hotelowy:s	depr:pl:voc:m2	nazwa pospolita	
 hotelowemu	hotelowy:s	subst:sg:dat:m1	nazwa pospolita	
@@ -41623,6 +41834,7 @@ hrabczuka	hrabczuk	subst:sg:gen:m1	nazwa pospolita	daw.
 hrabczukami	hrabczuk	subst:pl:inst:m1	nazwa pospolita	daw.
 hrabczuk	hrabczuk	subst:sg:nom:m1	nazwa pospolita	daw.
 hrabczukiem	hrabczuk	subst:sg:inst:m1	nazwa pospolita	daw.
+hrabczuki	hrabczuk	depr:pl:acc:m2	nazwa pospolita	daw.
 hrabczuki	hrabczuk	depr:pl:nom:m2	nazwa pospolita	daw.
 hrabczuki	hrabczuk	depr:pl:voc:m2	nazwa pospolita	daw.
 hrabczukom	hrabczuk	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -41639,6 +41851,7 @@ hrabiami	hrabia	subst:pl:inst:m1	nazwa pospolita
 hrabią	hrabia	subst:sg:inst:m1	nazwa pospolita	
 hrabiego	hrabia	subst:sg:acc:m1	nazwa pospolita	
 hrabiego	hrabia	subst:sg:gen:m1	nazwa pospolita	
+hrabie	hrabia	depr:pl:acc:m2	nazwa pospolita	
 hrabie	hrabia	depr:pl:nom:m2	nazwa pospolita	
 hrabie	hrabia	depr:pl:voc:m2	nazwa pospolita	
 hrabiemu	hrabia	subst:sg:dat:m1	nazwa pospolita	
@@ -41700,6 +41913,7 @@ hrabiczach	hrabicz	subst:pl:loc:m1	nazwa pospolita	przest.
 hrabicza	hrabicz	subst:sg:acc:m1	nazwa pospolita	przest.
 hrabicza	hrabicz	subst:sg:gen:m1	nazwa pospolita	przest.
 hrabiczami	hrabicz	subst:pl:inst:m1	nazwa pospolita	przest.
+hrabicze	hrabicz	depr:pl:acc:m2	nazwa pospolita	przest.
 hrabicze	hrabicz	depr:pl:nom:m2	nazwa pospolita	przest.
 hrabicze	hrabicz	depr:pl:voc:m2	nazwa pospolita	przest.
 hrabicze	hrabicz	subst:pl:nom:m1	nazwa pospolita	przest.
@@ -41732,6 +41946,7 @@ hrabika	hrabik	subst:sg:gen:m1	nazwa pospolita	daw.
 hrabikami	hrabik	subst:pl:inst:m1	nazwa pospolita	daw.
 hrabik	hrabik	subst:sg:nom:m1	nazwa pospolita	daw.
 hrabikiem	hrabik	subst:sg:inst:m1	nazwa pospolita	daw.
+hrabiki	hrabik	depr:pl:acc:m2	nazwa pospolita	daw.
 hrabiki	hrabik	depr:pl:nom:m2	nazwa pospolita	daw.
 hrabiki	hrabik	depr:pl:voc:m2	nazwa pospolita	daw.
 hrabikom	hrabik	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -42002,6 +42217,7 @@ hreczkosiejach	hreczkosiej	subst:pl:loc:m1	nazwa pospolita
 hreczkosieja	hreczkosiej	subst:sg:acc:m1	nazwa pospolita	
 hreczkosieja	hreczkosiej	subst:sg:gen:m1	nazwa pospolita	
 hreczkosiejami	hreczkosiej	subst:pl:inst:m1	nazwa pospolita	
+hreczkosieje	hreczkosiej	depr:pl:acc:m2	nazwa pospolita	
 hreczkosieje	hreczkosiej	depr:pl:nom:m2	nazwa pospolita	
 hreczkosieje	hreczkosiej	depr:pl:voc:m2	nazwa pospolita	
 hreczkosieje	hreczkosiej	subst:pl:nom:m1	nazwa pospolita	
@@ -42242,6 +42458,7 @@ hubalczyka	hubalczyk	subst:sg:gen:m1	nazwa pospolita
 hubalczykami	hubalczyk	subst:pl:inst:m1	nazwa pospolita	
 hubalczyk	hubalczyk	subst:sg:nom:m1	nazwa pospolita	
 hubalczykiem	hubalczyk	subst:sg:inst:m1	nazwa pospolita	
+hubalczyki	hubalczyk	depr:pl:acc:m2	nazwa pospolita	
 hubalczyki	hubalczyk	depr:pl:nom:m2	nazwa pospolita	
 hubalczyki	hubalczyk	depr:pl:voc:m2	nazwa pospolita	
 hubalczykom	hubalczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -42492,6 +42709,8 @@ hucpiarza	hucpiarz	subst:sg:gen:m1	nazwa pospolita
 hucpiarza	hucpiarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 hucpiarzami	hucpiarz	subst:pl:inst:m1	nazwa pospolita	
 hucpiarzami	hucpiarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+hucpiarze	hucpiarz	depr:pl:acc:m2	nazwa pospolita	
+hucpiarze	hucpiarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 hucpiarze	hucpiarz	depr:pl:nom:m2	nazwa pospolita	
 hucpiarze	hucpiarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 hucpiarze	hucpiarz	depr:pl:voc:m2	nazwa pospolita	
@@ -42677,6 +42896,7 @@ huczka	huczek:s1	subst:sg:acc:m1	nazwa pospolita	daw.|łow.
 huczka	huczek:s1	subst:sg:gen:m1	nazwa pospolita	daw.|łow.
 huczkami	huczek:s1	subst:pl:inst:m1	nazwa pospolita	daw.|łow.
 huczkiem	huczek:s1	subst:sg:inst:m1	nazwa pospolita	daw.|łow.
+huczki	huczek:s1	depr:pl:acc:m2	nazwa pospolita	daw.|łow.
 huczki	huczek:s1	depr:pl:nom:m2	nazwa pospolita	daw.|łow.
 huczki	huczek:s1	depr:pl:voc:m2	nazwa pospolita	daw.|łow.
 huczkom	huczek:s1	subst:pl:dat:m1	nazwa pospolita	daw.|łow.
@@ -42968,6 +43188,7 @@ hufcowym	hufcowy:a	adj:sg:loc:m1.m2.m3.n:pos
 hufcowymi	hufcowy:a	adj:pl:inst:m1.m2.m3.f.n:pos		
 hufcowego	hufcowy:s	subst:sg:acc:m1	nazwa pospolita	
 hufcowego	hufcowy:s	subst:sg:gen:m1	nazwa pospolita	
+hufcowe	hufcowy:s	depr:pl:acc:m2	nazwa pospolita	
 hufcowe	hufcowy:s	depr:pl:nom:m2	nazwa pospolita	
 hufcowe	hufcowy:s	depr:pl:voc:m2	nazwa pospolita	
 hufcowemu	hufcowy:s	subst:sg:dat:m1	nazwa pospolita	
@@ -43092,6 +43313,7 @@ hugenotom	hugenot	subst:pl:dat:m1	nazwa pospolita	hist.
 hugenotowi	hugenot	subst:sg:dat:m1	nazwa pospolita	hist.
 hugenotów	hugenot	subst:pl:acc:m1	nazwa pospolita	hist.
 hugenotów	hugenot	subst:pl:gen:m1	nazwa pospolita	hist.
+hugenoty	hugenot	depr:pl:acc:m2	nazwa pospolita	hist.
 hugenoty	hugenot	depr:pl:nom:m2	nazwa pospolita	hist.
 hugenoty	hugenot	depr:pl:voc:m2	nazwa pospolita	hist.
 hugonoccy	hugonocki	adj:pl:nom.voc:m1:pos		
@@ -43148,6 +43370,7 @@ hugonotom	hugonot	subst:pl:dat:m1	nazwa pospolita	hist.
 hugonotowi	hugonot	subst:sg:dat:m1	nazwa pospolita	hist.
 hugonotów	hugonot	subst:pl:acc:m1	nazwa pospolita	hist.
 hugonotów	hugonot	subst:pl:gen:m1	nazwa pospolita	hist.
+hugonoty	hugonot	depr:pl:acc:m2	nazwa pospolita	hist.
 hugonoty	hugonot	depr:pl:nom:m2	nazwa pospolita	hist.
 hugonoty	hugonot	depr:pl:voc:m2	nazwa pospolita	hist.
 hu-ha	hu-ha	interj		
@@ -43169,6 +43392,7 @@ hujach	huj:s2	subst:pl:loc:m1	nazwa pospolita	wulg.
 huja	huj:s2	subst:sg:acc:m1	nazwa pospolita	wulg.
 huja	huj:s2	subst:sg:gen:m1	nazwa pospolita	wulg.
 hujami	huj:s2	subst:pl:inst:m1	nazwa pospolita	wulg.
+huje	huj:s2	depr:pl:acc:m2	nazwa pospolita	wulg.
 huje	huj:s2	depr:pl:nom:m2	nazwa pospolita	wulg.
 huje	huj:s2	depr:pl:voc:m2	nazwa pospolita	wulg.
 huje	huj:s2	subst:pl:nom:m1	nazwa pospolita	wulg.
@@ -43561,6 +43785,7 @@ hulaczach	hulacz	subst:pl:loc:m1	nazwa pospolita	daw.
 hulacza	hulacz	subst:sg:acc:m1	nazwa pospolita	daw.
 hulacza	hulacz	subst:sg:gen:m1	nazwa pospolita	daw.
 hulaczami	hulacz	subst:pl:inst:m1	nazwa pospolita	daw.
+hulacze	hulacz	depr:pl:acc:m2	nazwa pospolita	daw.
 hulacze	hulacz	depr:pl:nom:m2	nazwa pospolita	daw.
 hulacze	hulacz	depr:pl:voc:m2	nazwa pospolita	daw.
 hulacze	hulacz	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -43680,6 +43905,7 @@ hulajduszach	hulajdusza:s1	subst:pl:loc:m1	nazwa pospolita	przest.
 hulajdusza	hulajdusza:s1	subst:sg:nom:m1	nazwa pospolita	przest.
 hulajduszami	hulajdusza:s1	subst:pl:inst:m1	nazwa pospolita	przest.
 hulajduszą	hulajdusza:s1	subst:sg:inst:m1	nazwa pospolita	przest.
+hulajdusze	hulajdusza:s1	depr:pl:acc:m2	nazwa pospolita	przest.
 hulajdusze	hulajdusza:s1	depr:pl:nom:m2	nazwa pospolita	przest.
 hulajdusze	hulajdusza:s1	depr:pl:voc:m2	nazwa pospolita	przest.
 hulajdusze	hulajdusza:s1	subst:pl:nom:m1	nazwa pospolita	przest.
@@ -43766,6 +43992,7 @@ hulaką	hulaka	subst:sg:inst:m1	nazwa pospolita	przest.|pot.
 hulakę	hulaka	subst:sg:acc:f	nazwa pospolita	przest.|pot.
 hulakę	hulaka	subst:sg:acc:m1	nazwa pospolita	przest.|pot.
 hulak	hulaka	subst:pl:gen:f	nazwa pospolita	przest.|pot.
+hulaki	hulaka	depr:pl:acc:m2	nazwa pospolita	przest.|pot.
 hulaki	hulaka	depr:pl:nom:m2	nazwa pospolita	przest.|pot.
 hulaki	hulaka	depr:pl:voc:m2	nazwa pospolita	przest.|pot.
 hulaki	hulaka	subst:pl:acc:f	nazwa pospolita	przest.|pot.
@@ -44071,6 +44298,8 @@ hultaja	hultaj	subst:sg:gen:m1	nazwa pospolita	przest.
 hultaja	hultaj	subst:sg:gen:m1	nazwa pospolita	przest.|rzad.
 hultajami	hultaj	subst:pl:inst:m1	nazwa pospolita	przest.
 hultajami	hultaj	subst:pl:inst:m1	nazwa pospolita	przest.|rzad.
+hultaje	hultaj	depr:pl:acc:m2	nazwa pospolita	przest.
+hultaje	hultaj	depr:pl:acc:m2	nazwa pospolita	przest.|rzad.
 hultaje	hultaj	depr:pl:nom:m2	nazwa pospolita	przest.
 hultaje	hultaj	depr:pl:nom:m2	nazwa pospolita	przest.|rzad.
 hultaje	hultaj	depr:pl:voc:m2	nazwa pospolita	przest.
@@ -44175,6 +44404,7 @@ hułanom	hułan	subst:pl:dat:m1	nazwa pospolita	daw.
 hułanowi	hułan	subst:sg:dat:m1	nazwa pospolita	daw.
 hułanów	hułan	subst:pl:acc:m1	nazwa pospolita	daw.
 hułanów	hułan	subst:pl:gen:m1	nazwa pospolita	daw.
+hułany	hułan	depr:pl:acc:m2	nazwa pospolita	daw.
 hułany	hułan	depr:pl:nom:m2	nazwa pospolita	daw.
 hułany	hułan	depr:pl:voc:m2	nazwa pospolita	daw.
 hum	hum	interj		
@@ -44194,6 +44424,7 @@ humanisto	humanista	subst:sg:voc:m1	nazwa pospolita
 humanistom	humanista	subst:pl:dat:m1	nazwa pospolita	
 humanistów	humanista	subst:pl:acc:m1	nazwa pospolita	
 humanistów	humanista	subst:pl:gen:m1	nazwa pospolita	
+humanisty	humanista	depr:pl:acc:m2	nazwa pospolita	
 humanisty	humanista	depr:pl:nom:m2	nazwa pospolita	
 humanisty	humanista	depr:pl:voc:m2	nazwa pospolita	
 humanisty	humanista	subst:sg:gen:m1	nazwa pospolita	
@@ -44340,6 +44571,7 @@ humanitarysto	humanitarysta	subst:sg:voc:m1	nazwa pospolita
 humanitarystom	humanitarysta	subst:pl:dat:m1	nazwa pospolita	
 humanitarystów	humanitarysta	subst:pl:acc:m1	nazwa pospolita	
 humanitarystów	humanitarysta	subst:pl:gen:m1	nazwa pospolita	
+humanitarysty	humanitarysta	depr:pl:acc:m2	nazwa pospolita	
 humanitarysty	humanitarysta	depr:pl:nom:m2	nazwa pospolita	
 humanitarysty	humanitarysta	depr:pl:voc:m2	nazwa pospolita	
 humanitarysty	humanitarysta	subst:sg:gen:m1	nazwa pospolita	
@@ -44439,6 +44671,7 @@ humanizatorom	humanizator	subst:pl:dat:m1	nazwa pospolita
 humanizatorowi	humanizator	subst:sg:dat:m1	nazwa pospolita	
 humanizatorów	humanizator	subst:pl:acc:m1	nazwa pospolita	
 humanizatorów	humanizator	subst:pl:gen:m1	nazwa pospolita	
+humanizatory	humanizator	depr:pl:acc:m2	nazwa pospolita	
 humanizatory	humanizator	depr:pl:nom:m2	nazwa pospolita	
 humanizatory	humanizator	depr:pl:voc:m2	nazwa pospolita	
 humanizatorze	humanizator	subst:sg:loc:m1	nazwa pospolita	
@@ -44677,6 +44910,7 @@ humbugisto	humbugista	subst:sg:voc:m1	nazwa pospolita
 humbugistom	humbugista	subst:pl:dat:m1	nazwa pospolita	
 humbugistów	humbugista	subst:pl:acc:m1	nazwa pospolita	
 humbugistów	humbugista	subst:pl:gen:m1	nazwa pospolita	
+humbugisty	humbugista	depr:pl:acc:m2	nazwa pospolita	
 humbugisty	humbugista	depr:pl:nom:m2	nazwa pospolita	
 humbugisty	humbugista	depr:pl:voc:m2	nazwa pospolita	
 humbugisty	humbugista	subst:sg:gen:m1	nazwa pospolita	
@@ -45036,6 +45270,7 @@ humorysto	humorysta	subst:sg:voc:m1	nazwa pospolita
 humorystom	humorysta	subst:pl:dat:m1	nazwa pospolita	
 humorystów	humorysta	subst:pl:acc:m1	nazwa pospolita	
 humorystów	humorysta	subst:pl:gen:m1	nazwa pospolita	
+humorysty	humorysta	depr:pl:acc:m2	nazwa pospolita	
 humorysty	humorysta	depr:pl:nom:m2	nazwa pospolita	
 humorysty	humorysta	depr:pl:voc:m2	nazwa pospolita	
 humorysty	humorysta	subst:sg:gen:m1	nazwa pospolita	
@@ -45104,6 +45339,7 @@ humorystyka	humorystyk	subst:sg:gen:m1	nazwa pospolita	daw.
 humorystykami	humorystyk	subst:pl:inst:m1	nazwa pospolita	daw.
 humorystyk	humorystyk	subst:sg:nom:m1	nazwa pospolita	daw.
 humorystykiem	humorystyk	subst:sg:inst:m1	nazwa pospolita	daw.
+humorystyki	humorystyk	depr:pl:acc:m2	nazwa pospolita	daw.
 humorystyki	humorystyk	depr:pl:nom:m2	nazwa pospolita	daw.
 humorystyki	humorystyk	depr:pl:voc:m2	nazwa pospolita	daw.
 humorystykom	humorystyk	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -45187,6 +45423,7 @@ humorzysto	humorzysta	subst:sg:voc:m1	nazwa pospolita	przest.
 humorzystom	humorzysta	subst:pl:dat:m1	nazwa pospolita	przest.
 humorzystów	humorzysta	subst:pl:acc:m1	nazwa pospolita	przest.
 humorzystów	humorzysta	subst:pl:gen:m1	nazwa pospolita	przest.
+humorzysty	humorzysta	depr:pl:acc:m2	nazwa pospolita	przest.
 humorzysty	humorzysta	depr:pl:nom:m2	nazwa pospolita	przest.
 humorzysty	humorzysta	depr:pl:voc:m2	nazwa pospolita	przest.
 humorzysty	humorzysta	subst:sg:gen:m1	nazwa pospolita	przest.
@@ -45328,6 +45565,7 @@ huncwotom	huncwot	subst:pl:dat:m1	nazwa pospolita	żart.|książk.
 huncwotowi	huncwot	subst:sg:dat:m1	nazwa pospolita	żart.|książk.
 huncwotów	huncwot	subst:pl:acc:m1	nazwa pospolita	żart.|książk.
 huncwotów	huncwot	subst:pl:gen:m1	nazwa pospolita	żart.|książk.
+huncwoty	huncwot	depr:pl:acc:m2	nazwa pospolita	żart.|książk.
 huncwoty	huncwot	depr:pl:nom:m2	nazwa pospolita	żart.|książk.
 huncwoty	huncwot	depr:pl:voc:m2	nazwa pospolita	żart.|książk.
 hungarolodzy	hungarolog	subst:pl:nom:m1	nazwa pospolita	
@@ -45338,6 +45576,7 @@ hungarologa	hungarolog	subst:sg:gen:m1	nazwa pospolita
 hungarologami	hungarolog	subst:pl:inst:m1	nazwa pospolita	
 hungarolog	hungarolog	subst:sg:nom:m1	nazwa pospolita	
 hungarologiem	hungarolog	subst:sg:inst:m1	nazwa pospolita	
+hungarologi	hungarolog	depr:pl:acc:m2	nazwa pospolita	
 hungarologi	hungarolog	depr:pl:nom:m2	nazwa pospolita	
 hungarologi	hungarolog	depr:pl:voc:m2	nazwa pospolita	
 hungarologom	hungarolog	subst:pl:dat:m1	nazwa pospolita	
@@ -45372,6 +45611,7 @@ hungarysto	hungarysta	subst:sg:voc:m1	nazwa pospolita
 hungarystom	hungarysta	subst:pl:dat:m1	nazwa pospolita	
 hungarystów	hungarysta	subst:pl:acc:m1	nazwa pospolita	
 hungarystów	hungarysta	subst:pl:gen:m1	nazwa pospolita	
+hungarysty	hungarysta	depr:pl:acc:m2	nazwa pospolita	
 hungarysty	hungarysta	depr:pl:nom:m2	nazwa pospolita	
 hungarysty	hungarysta	depr:pl:voc:m2	nazwa pospolita	
 hungarysty	hungarysta	subst:sg:gen:m1	nazwa pospolita	
@@ -45473,6 +45713,7 @@ hunhuzom	hunhuz	subst:pl:dat:m1	nazwa pospolita
 hunhuzowi	hunhuz	subst:sg:dat:m1	nazwa pospolita	
 hunhuzów	hunhuz	subst:pl:acc:m1	nazwa pospolita	
 hunhuzów	hunhuz	subst:pl:gen:m1	nazwa pospolita	
+hunhuzy	hunhuz	depr:pl:acc:m2	nazwa pospolita	
 hunhuzy	hunhuz	depr:pl:nom:m2	nazwa pospolita	
 hunhuzy	hunhuz	depr:pl:voc:m2	nazwa pospolita	
 hunterach	hunter	subst:pl:loc:m2	nazwa pospolita	
@@ -45505,6 +45746,7 @@ hunwejbinowie	hunwejbin	subst:pl:voc:m1	nazwa pospolita
 hunwejbinowi	hunwejbin	subst:sg:dat:m1	nazwa pospolita	
 hunwejbinów	hunwejbin	subst:pl:acc:m1	nazwa pospolita	
 hunwejbinów	hunwejbin	subst:pl:gen:m1	nazwa pospolita	
+hunwejbiny	hunwejbin	depr:pl:acc:m2	nazwa pospolita	
 hunwejbiny	hunwejbin	depr:pl:nom:m2	nazwa pospolita	
 hunwejbiny	hunwejbin	depr:pl:voc:m2	nazwa pospolita	
 huńscy	huński	adj:pl:nom.voc:m1:pos		
@@ -45668,6 +45910,7 @@ hurapatrioto	hurapatriota	subst:sg:voc:m1	nazwa pospolita
 hurapatriotom	hurapatriota	subst:pl:dat:m1	nazwa pospolita	
 hurapatriotów	hurapatriota	subst:pl:acc:m1	nazwa pospolita	
 hurapatriotów	hurapatriota	subst:pl:gen:m1	nazwa pospolita	
+hurapatrioty	hurapatriota	depr:pl:acc:m2	nazwa pospolita	
 hurapatrioty	hurapatriota	depr:pl:nom:m2	nazwa pospolita	
 hurapatrioty	hurapatriota	depr:pl:voc:m2	nazwa pospolita	
 hurapatrioty	hurapatriota	subst:sg:gen:m1	nazwa pospolita	
@@ -46145,6 +46388,7 @@ hurraoptymisto	hurraoptymista	subst:sg:voc:m1	nazwa pospolita
 hurraoptymistom	hurraoptymista	subst:pl:dat:m1	nazwa pospolita	
 hurraoptymistów	hurraoptymista	subst:pl:acc:m1	nazwa pospolita	
 hurraoptymistów	hurraoptymista	subst:pl:gen:m1	nazwa pospolita	
+hurraoptymisty	hurraoptymista	depr:pl:acc:m2	nazwa pospolita	
 hurraoptymisty	hurraoptymista	depr:pl:nom:m2	nazwa pospolita	
 hurraoptymisty	hurraoptymista	depr:pl:voc:m2	nazwa pospolita	
 hurraoptymisty	hurraoptymista	subst:sg:gen:m1	nazwa pospolita	
@@ -46218,6 +46462,7 @@ hurrapatrioto	hurrapatriota	subst:sg:voc:m1	nazwa pospolita
 hurrapatriotom	hurrapatriota	subst:pl:dat:m1	nazwa pospolita	
 hurrapatriotów	hurrapatriota	subst:pl:acc:m1	nazwa pospolita	
 hurrapatriotów	hurrapatriota	subst:pl:gen:m1	nazwa pospolita	
+hurrapatrioty	hurrapatriota	depr:pl:acc:m2	nazwa pospolita	
 hurrapatrioty	hurrapatriota	depr:pl:nom:m2	nazwa pospolita	
 hurrapatrioty	hurrapatriota	depr:pl:voc:m2	nazwa pospolita	
 hurrapatrioty	hurrapatriota	subst:sg:gen:m1	nazwa pospolita	
@@ -46385,6 +46630,7 @@ hurtownika	hurtownik	subst:sg:gen:m1	nazwa pospolita
 hurtownikami	hurtownik	subst:pl:inst:m1	nazwa pospolita	
 hurtownik	hurtownik	subst:sg:nom:m1	nazwa pospolita	
 hurtownikiem	hurtownik	subst:sg:inst:m1	nazwa pospolita	
+hurtowniki	hurtownik	depr:pl:acc:m2	nazwa pospolita	
 hurtowniki	hurtownik	depr:pl:nom:m2	nazwa pospolita	
 hurtowniki	hurtownik	depr:pl:voc:m2	nazwa pospolita	
 hurtownikom	hurtownik	subst:pl:dat:m1	nazwa pospolita	
@@ -46509,6 +46755,7 @@ husarom	husar	subst:pl:dat:m1	nazwa pospolita	hist.
 husarowi	husar	subst:sg:dat:m1	nazwa pospolita	hist.
 husarów	husar	subst:pl:acc:m1	nazwa pospolita	hist.
 husarów	husar	subst:pl:gen:m1	nazwa pospolita	hist.
+husary	husar	depr:pl:acc:m2	nazwa pospolita	hist.
 husary	husar	depr:pl:nom:m2	nazwa pospolita	hist.
 husary	husar	depr:pl:voc:m2	nazwa pospolita	hist.
 husarze	husar	subst:sg:loc:m1	nazwa pospolita	hist.
@@ -46592,6 +46839,8 @@ husarza	husarz	subst:sg:gen:m1	nazwa pospolita
 husarza	husarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 husarzami	husarz	subst:pl:inst:m1	nazwa pospolita	
 husarzami	husarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+husarze	husarz	depr:pl:acc:m2	nazwa pospolita	
+husarze	husarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 husarze	husarz	depr:pl:nom:m2	nazwa pospolita	
 husarze	husarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 husarze	husarz	depr:pl:voc:m2	nazwa pospolita	
@@ -46683,6 +46932,7 @@ husyto	husyta	subst:sg:voc:m1	nazwa pospolita
 husytom	husyta	subst:pl:dat:m1	nazwa pospolita	
 husytów	husyta	subst:pl:acc:m1	nazwa pospolita	
 husytów	husyta	subst:pl:gen:m1	nazwa pospolita	
+husyty	husyta	depr:pl:acc:m2	nazwa pospolita	
 husyty	husyta	depr:pl:nom:m2	nazwa pospolita	
 husyty	husyta	depr:pl:voc:m2	nazwa pospolita	
 husyty	husyta	subst:sg:gen:m1	nazwa pospolita	
@@ -46937,12 +47187,14 @@ hutmanom	hutman	subst:pl:dat:m1	nazwa pospolita	daw.
 hutmanowi	hutman	subst:sg:dat:m1	nazwa pospolita	daw.
 hutmanów	hutman	subst:pl:acc:m1	nazwa pospolita	daw.
 hutmanów	hutman	subst:pl:gen:m1	nazwa pospolita	daw.
+hutmany	hutman	depr:pl:acc:m2	nazwa pospolita	daw.
 hutmany	hutman	depr:pl:nom:m2	nazwa pospolita	daw.
 hutmany	hutman	depr:pl:voc:m2	nazwa pospolita	daw.
 hutmistrzach	hutmistrz	subst:pl:loc:m1	nazwa pospolita	
 hutmistrza	hutmistrz	subst:sg:acc:m1	nazwa pospolita	
 hutmistrza	hutmistrz	subst:sg:gen:m1	nazwa pospolita	
 hutmistrzami	hutmistrz	subst:pl:inst:m1	nazwa pospolita	
+hutmistrze	hutmistrz	depr:pl:acc:m2	nazwa pospolita	
 hutmistrze	hutmistrz	depr:pl:nom:m2	nazwa pospolita	
 hutmistrze	hutmistrz	depr:pl:voc:m2	nazwa pospolita	
 hutmistrze	hutmistrz	subst:pl:nom:m1	nazwa pospolita	
@@ -47071,6 +47323,7 @@ hutnika	hutnik	subst:sg:gen:m1	nazwa pospolita
 hutnikami	hutnik	subst:pl:inst:m1	nazwa pospolita	
 hutnik	hutnik	subst:sg:nom:m1	nazwa pospolita	
 hutnikiem	hutnik	subst:sg:inst:m1	nazwa pospolita	
+hutniki	hutnik	depr:pl:acc:m2	nazwa pospolita	
 hutniki	hutnik	depr:pl:nom:m2	nazwa pospolita	
 hutniki	hutnik	depr:pl:voc:m2	nazwa pospolita	
 hutnikom	hutnik	subst:pl:dat:m1	nazwa pospolita	
@@ -47089,6 +47342,7 @@ huzarom	huzar	subst:pl:dat:m1	nazwa pospolita
 huzarowi	huzar	subst:sg:dat:m1	nazwa pospolita	
 huzarów	huzar	subst:pl:acc:m1	nazwa pospolita	
 huzarów	huzar	subst:pl:gen:m1	nazwa pospolita	
+huzary	huzar	depr:pl:acc:m2	nazwa pospolita	
 huzary	huzar	depr:pl:nom:m2	nazwa pospolita	
 huzary	huzar	depr:pl:voc:m2	nazwa pospolita	
 huzarze	huzar	subst:sg:loc:m1	nazwa pospolita	
@@ -47599,6 +47853,7 @@ hyclach	hycel	subst:pl:loc:m1	nazwa pospolita
 hycla	hycel	subst:sg:acc:m1	nazwa pospolita	
 hycla	hycel	subst:sg:gen:m1	nazwa pospolita	
 hyclami	hycel	subst:pl:inst:m1	nazwa pospolita	
+hycle	hycel	depr:pl:acc:m2	nazwa pospolita	
 hycle	hycel	depr:pl:nom:m2	nazwa pospolita	
 hycle	hycel	depr:pl:voc:m2	nazwa pospolita	
 hycle	hycel	subst:pl:nom:m1	nazwa pospolita	
@@ -48161,6 +48416,7 @@ hydraulika	hydraulik	subst:sg:gen:m1	nazwa pospolita
 hydraulikami	hydraulik	subst:pl:inst:m1	nazwa pospolita	
 hydraulik	hydraulik	subst:sg:nom:m1	nazwa pospolita	
 hydraulikiem	hydraulik	subst:sg:inst:m1	nazwa pospolita	
+hydrauliki	hydraulik	depr:pl:acc:m2	nazwa pospolita	
 hydrauliki	hydraulik	depr:pl:nom:m2	nazwa pospolita	
 hydrauliki	hydraulik	depr:pl:voc:m2	nazwa pospolita	
 hydraulikom	hydraulik	subst:pl:dat:m1	nazwa pospolita	
@@ -48273,6 +48529,7 @@ hydroakustyka	hydroakustyk	subst:sg:gen:m1	nazwa pospolita
 hydroakustykami	hydroakustyk	subst:pl:inst:m1	nazwa pospolita	
 hydroakustyk	hydroakustyk	subst:sg:nom:m1	nazwa pospolita	
 hydroakustykiem	hydroakustyk	subst:sg:inst:m1	nazwa pospolita	
+hydroakustyki	hydroakustyk	depr:pl:acc:m2	nazwa pospolita	
 hydroakustyki	hydroakustyk	depr:pl:nom:m2	nazwa pospolita	
 hydroakustyki	hydroakustyk	depr:pl:voc:m2	nazwa pospolita	
 hydroakustykom	hydroakustyk	subst:pl:dat:m1	nazwa pospolita	
@@ -48303,6 +48560,7 @@ hydrobiologa	hydrobiolog	subst:sg:gen:m1	nazwa pospolita
 hydrobiologami	hydrobiolog	subst:pl:inst:m1	nazwa pospolita	
 hydrobiolog	hydrobiolog	subst:sg:nom:m1	nazwa pospolita	
 hydrobiologiem	hydrobiolog	subst:sg:inst:m1	nazwa pospolita	
+hydrobiologi	hydrobiolog	depr:pl:acc:m2	nazwa pospolita	
 hydrobiologi	hydrobiolog	depr:pl:nom:m2	nazwa pospolita	
 hydrobiologi	hydrobiolog	depr:pl:voc:m2	nazwa pospolita	
 hydrobiologom	hydrobiolog	subst:pl:dat:m1	nazwa pospolita	
@@ -48736,6 +48994,7 @@ hydroenergetyka	hydroenergetyk	subst:sg:gen:m1	nazwa pospolita
 hydroenergetykami	hydroenergetyk	subst:pl:inst:m1	nazwa pospolita	
 hydroenergetyk	hydroenergetyk	subst:sg:nom:m1	nazwa pospolita	
 hydroenergetykiem	hydroenergetyk	subst:sg:inst:m1	nazwa pospolita	
+hydroenergetyki	hydroenergetyk	depr:pl:acc:m2	nazwa pospolita	
 hydroenergetyki	hydroenergetyk	depr:pl:nom:m2	nazwa pospolita	
 hydroenergetyki	hydroenergetyk	depr:pl:voc:m2	nazwa pospolita	
 hydroenergetykom	hydroenergetyk	subst:pl:dat:m1	nazwa pospolita	
@@ -48992,6 +49251,7 @@ hydrofobowie	hydrofob:s1	subst:pl:voc:m1	nazwa pospolita	med.
 hydrofobowi	hydrofob:s1	subst:sg:dat:m1	nazwa pospolita	med.
 hydrofobów	hydrofob:s1	subst:pl:acc:m1	nazwa pospolita	med.
 hydrofobów	hydrofob:s1	subst:pl:gen:m1	nazwa pospolita	med.
+hydrofoby	hydrofob:s1	depr:pl:acc:m2	nazwa pospolita	med.
 hydrofoby	hydrofob:s1	depr:pl:nom:m2	nazwa pospolita	med.
 hydrofoby	hydrofob:s1	depr:pl:voc:m2	nazwa pospolita	med.
 hydrofobach	hydrofob:s2	subst:pl:loc:m3	nazwa pospolita	chem.
@@ -49216,6 +49476,7 @@ hydrogeologa	hydrogeolog	subst:sg:gen:m1	nazwa pospolita
 hydrogeologami	hydrogeolog	subst:pl:inst:m1	nazwa pospolita	
 hydrogeolog	hydrogeolog	subst:sg:nom:m1	nazwa pospolita	
 hydrogeologiem	hydrogeolog	subst:sg:inst:m1	nazwa pospolita	
+hydrogeologi	hydrogeolog	depr:pl:acc:m2	nazwa pospolita	
 hydrogeologi	hydrogeolog	depr:pl:nom:m2	nazwa pospolita	
 hydrogeologi	hydrogeolog	depr:pl:voc:m2	nazwa pospolita	
 hydrogeologom	hydrogeolog	subst:pl:dat:m1	nazwa pospolita	
@@ -49356,6 +49617,7 @@ hydrografika	hydrografik	subst:sg:gen:m1	nazwa pospolita
 hydrografikami	hydrografik	subst:pl:inst:m1	nazwa pospolita	
 hydrografik	hydrografik	subst:sg:nom:m1	nazwa pospolita	
 hydrografikiem	hydrografik	subst:sg:inst:m1	nazwa pospolita	
+hydrografiki	hydrografik	depr:pl:acc:m2	nazwa pospolita	
 hydrografiki	hydrografik	depr:pl:nom:m2	nazwa pospolita	
 hydrografiki	hydrografik	depr:pl:voc:m2	nazwa pospolita	
 hydrografikom	hydrografik	subst:pl:dat:m1	nazwa pospolita	
@@ -49378,6 +49640,7 @@ hydrografowie	hydrograf:s1	subst:pl:voc:m1	nazwa pospolita
 hydrografowi	hydrograf:s1	subst:sg:dat:m1	nazwa pospolita	
 hydrografów	hydrograf:s1	subst:pl:acc:m1	nazwa pospolita	
 hydrografów	hydrograf:s1	subst:pl:gen:m1	nazwa pospolita	
+hydrografy	hydrograf:s1	depr:pl:acc:m2	nazwa pospolita	
 hydrografy	hydrograf:s1	depr:pl:nom:m2	nazwa pospolita	
 hydrografy	hydrograf:s1	depr:pl:voc:m2	nazwa pospolita	
 hydrografach	hydrograf:s2	subst:pl:loc:m3	nazwa pospolita	
@@ -49922,6 +50185,7 @@ hydrologa	hydrolog	subst:sg:gen:m1	nazwa pospolita
 hydrologami	hydrolog	subst:pl:inst:m1	nazwa pospolita	
 hydrolog	hydrolog	subst:sg:nom:m1	nazwa pospolita	
 hydrologiem	hydrolog	subst:sg:inst:m1	nazwa pospolita	
+hydrologi	hydrolog	depr:pl:acc:m2	nazwa pospolita	
 hydrologi	hydrolog	depr:pl:nom:m2	nazwa pospolita	
 hydrologi	hydrolog	depr:pl:voc:m2	nazwa pospolita	
 hydrologom	hydrolog	subst:pl:dat:m1	nazwa pospolita	
@@ -50089,6 +50353,7 @@ hydromechanika	hydromechanik	subst:sg:gen:m1	nazwa pospolita
 hydromechanikami	hydromechanik	subst:pl:inst:m1	nazwa pospolita	
 hydromechanik	hydromechanik	subst:sg:nom:m1	nazwa pospolita	
 hydromechanikiem	hydromechanik	subst:sg:inst:m1	nazwa pospolita	
+hydromechaniki	hydromechanik	depr:pl:acc:m2	nazwa pospolita	
 hydromechaniki	hydromechanik	depr:pl:nom:m2	nazwa pospolita	
 hydromechaniki	hydromechanik	depr:pl:voc:m2	nazwa pospolita	
 hydromechanikom	hydromechanik	subst:pl:dat:m1	nazwa pospolita	
@@ -50409,6 +50674,7 @@ hydronimika	hydronimik	subst:sg:gen:m1	nazwa pospolita	jęz.
 hydronimikami	hydronimik	subst:pl:inst:m1	nazwa pospolita	jęz.
 hydronimik	hydronimik	subst:sg:nom:m1	nazwa pospolita	jęz.
 hydronimikiem	hydronimik	subst:sg:inst:m1	nazwa pospolita	jęz.
+hydronimiki	hydronimik	depr:pl:acc:m2	nazwa pospolita	jęz.
 hydronimiki	hydronimik	depr:pl:nom:m2	nazwa pospolita	jęz.
 hydronimiki	hydronimik	depr:pl:voc:m2	nazwa pospolita	jęz.
 hydronimikom	hydronimik	subst:pl:dat:m1	nazwa pospolita	jęz.
@@ -50445,6 +50711,7 @@ hydropato	hydropata	subst:sg:voc:m1	nazwa pospolita
 hydropatom	hydropata	subst:pl:dat:m1	nazwa pospolita	
 hydropatów	hydropata	subst:pl:acc:m1	nazwa pospolita	
 hydropatów	hydropata	subst:pl:gen:m1	nazwa pospolita	
+hydropaty	hydropata	depr:pl:acc:m2	nazwa pospolita	
 hydropaty	hydropata	depr:pl:nom:m2	nazwa pospolita	
 hydropaty	hydropata	depr:pl:voc:m2	nazwa pospolita	
 hydropaty	hydropata	subst:sg:gen:m1	nazwa pospolita	
@@ -50802,6 +51069,7 @@ hydrotechnika	hydrotechnik	subst:sg:gen:m1	nazwa pospolita
 hydrotechnikami	hydrotechnik	subst:pl:inst:m1	nazwa pospolita	
 hydrotechnik	hydrotechnik	subst:sg:nom:m1	nazwa pospolita	
 hydrotechnikiem	hydrotechnik	subst:sg:inst:m1	nazwa pospolita	
+hydrotechniki	hydrotechnik	depr:pl:acc:m2	nazwa pospolita	
 hydrotechniki	hydrotechnik	depr:pl:nom:m2	nazwa pospolita	
 hydrotechniki	hydrotechnik	depr:pl:voc:m2	nazwa pospolita	
 hydrotechnikom	hydrotechnik	subst:pl:dat:m1	nazwa pospolita	
@@ -51435,6 +51703,7 @@ hymnologa	hymnolog	subst:sg:gen:m1	nazwa pospolita
 hymnologami	hymnolog	subst:pl:inst:m1	nazwa pospolita	
 hymnolog	hymnolog	subst:sg:nom:m1	nazwa pospolita	
 hymnologiem	hymnolog	subst:sg:inst:m1	nazwa pospolita	
+hymnologi	hymnolog	depr:pl:acc:m2	nazwa pospolita	
 hymnologi	hymnolog	depr:pl:nom:m2	nazwa pospolita	
 hymnologi	hymnolog	depr:pl:voc:m2	nazwa pospolita	
 hymnologom	hymnolog	subst:pl:dat:m1	nazwa pospolita	

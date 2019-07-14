@@ -1,6 +1,7 @@
 Xawerego	Xawery	subst:sg:acc:m1	imię	
 Xawerego	Xawery	subst:sg:gen:m1	imię	
 Xaweremu	Xawery	subst:sg:dat:m1	imię	
+Xawere	Xawery	depr:pl:acc:m2	imię	
 Xawere	Xawery	depr:pl:nom:m2	imię	
 Xawere	Xawery	depr:pl:voc:m2	imię	
 Xawerowie	Xawery	subst:pl:nom:m1	imię	
@@ -14,6 +15,7 @@ Xawerym	Xawery	subst:sg:inst:m1	imię
 Xawerym	Xawery	subst:sg:loc:m1	imię	
 Xawery	Xawery	subst:sg:nom:m1	imię	
 Xawery	Xawery	subst:sg:voc:m1	imię	
+XBW	XBW	depr:pl:acc:m2	pseudonim|tytuł	
 XBW	XBW	depr:pl:nom:m2	pseudonim|tytuł	
 XBW	XBW	depr:pl:voc:m2	pseudonim|tytuł	
 XBW	XBW	subst:pl:acc:m1	pseudonim|tytuł	

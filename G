@@ -42,12 +42,14 @@ Gabinowie	Gabin	subst:pl:voc:m1	imię|nazwisko
 Gabinowi	Gabin	subst:sg:dat:m1	imię|nazwisko	
 Gabinów	Gabin	subst:pl:acc:m1	imię|nazwisko	
 Gabinów	Gabin	subst:pl:gen:m1	imię|nazwisko	
+Gabiny	Gabin	depr:pl:acc:m2	imię|nazwisko	
 Gabiny	Gabin	depr:pl:nom:m2	imię|nazwisko	
 Gabiny	Gabin	depr:pl:voc:m2	imię|nazwisko	
 Gable’ach	Gable	subst:pl:loc:m1	nazwisko	
 Gable’a	Gable	subst:sg:acc:m1	nazwisko	
 Gable’a	Gable	subst:sg:gen:m1	nazwisko	
 Gable’ami	Gable	subst:pl:inst:m1	nazwisko	
+Gable’e	Gable	depr:pl:acc:m2	nazwisko	
 Gable’e	Gable	depr:pl:nom:m2	nazwisko	
 Gable’e	Gable	depr:pl:voc:m2	nazwisko	
 Gable’em	Gable	subst:sg:inst:m1	nazwisko	
@@ -86,6 +88,7 @@ Gaborowie	Gabor	subst:pl:voc:m1	imię
 Gaborowi	Gabor	subst:sg:dat:m1	imię	
 Gaborów	Gabor	subst:pl:acc:m1	imię	
 Gaborów	Gabor	subst:pl:gen:m1	imię	
+Gabory	Gabor	depr:pl:acc:m2	imię	
 Gabory	Gabor	depr:pl:nom:m2	imię	
 Gabory	Gabor	depr:pl:voc:m2	imię	
 Gaborze	Gabor	subst:sg:loc:m1	imię	
@@ -96,6 +99,7 @@ Gabrielach	Gabriel	subst:pl:loc:m1	imię
 Gabriela	Gabriel	subst:sg:acc:m1	imię	
 Gabriela	Gabriel	subst:sg:gen:m1	imię	
 Gabrielami	Gabriel	subst:pl:inst:m1	imię	
+Gabriele	Gabriel	depr:pl:acc:m2	imię	
 Gabriele	Gabriel	depr:pl:nom:m2	imię	
 Gabriele	Gabriel	depr:pl:voc:m2	imię	
 Gabriele	Gabriel	subst:pl:nom:m1	imię	
@@ -174,6 +178,7 @@ Gabrysiach	Gabryś	subst:pl:loc:m1	imię
 Gabrysia	Gabryś	subst:sg:acc:m1	imię	
 Gabrysia	Gabryś	subst:sg:gen:m1	imię	
 Gabrysiami	Gabryś	subst:pl:inst:m1	imię	
+Gabrysie	Gabryś	depr:pl:acc:m2	imię	
 Gabrysie	Gabryś	depr:pl:nom:m2	imię	
 Gabrysie	Gabryś	depr:pl:voc:m2	imię	
 Gabrysie	Gabryś	subst:pl:nom:m1	imię	
@@ -214,6 +219,7 @@ Gadowie	Gad	subst:pl:voc:m1	imię|nazwisko	bibl.
 Gadowi	Gad	subst:sg:dat:m1	imię|nazwisko	bibl.
 Gadów	Gad	subst:pl:acc:m1	imię|nazwisko	bibl.
 Gadów	Gad	subst:pl:gen:m1	imię|nazwisko	bibl.
+Gady	Gad	depr:pl:acc:m2	imię|nazwisko	bibl.
 Gady	Gad	depr:pl:nom:m2	imię|nazwisko	bibl.
 Gady	Gad	depr:pl:voc:m2	imię|nazwisko	bibl.
 Gadzie	Gad	subst:sg:loc:m1	imię|nazwisko	bibl.
@@ -237,6 +243,7 @@ Gadomscy	Gadomski	subst:pl:voc:m1	nazwisko
 Gadomskich	Gadomski	subst:pl:acc:m1	nazwisko	
 Gadomskich	Gadomski	subst:pl:gen:m1	nazwisko	
 Gadomskich	Gadomski	subst:pl:loc:m1	nazwisko	
+Gadomskie	Gadomski	depr:pl:acc:m2	nazwisko	
 Gadomskie	Gadomski	depr:pl:nom:m2	nazwisko	
 Gadomskie	Gadomski	depr:pl:voc:m2	nazwisko	
 Gadomskiego	Gadomski	subst:sg:acc:m1	nazwisko	
@@ -262,8 +269,10 @@ Gagarinowie	Gagarin	subst:pl:voc:m1	nazwisko
 Gagarinowi	Gagarin	subst:sg:dat:m1	nazwisko	
 Gagarinów	Gagarin	subst:pl:acc:m1	nazwisko	
 Gagarinów	Gagarin	subst:pl:gen:m1	nazwisko	
+Gagariny	Gagarin	depr:pl:acc:m2	nazwisko	
 Gagariny	Gagarin	depr:pl:nom:m2	nazwisko	
 Gagariny	Gagarin	depr:pl:voc:m2	nazwisko	
+Gainsborough	Gainsborough	depr:pl:acc:m2	nazwisko	
 Gainsborough	Gainsborough	depr:pl:nom:m2	nazwisko	
 Gainsborough	Gainsborough	depr:pl:voc:m2	nazwisko	
 Gainsborough	Gainsborough	subst:pl:acc:m1	nazwisko	
@@ -296,6 +305,7 @@ Gaj	Gaja	subst:pl:gen:f	imię	char.|mit.
 Gajo	Gaja	subst:sg:voc:f	imię	mit.
 Gajom	Gaja	subst:pl:dat:f	imię	mit.
 Gaju	Gaja	subst:sg:voc:f	imię	mit.
+Gajce	Gajcy	depr:pl:acc:m2	nazwisko	
 Gajce	Gajcy	depr:pl:nom:m2	nazwisko	
 Gajce	Gajcy	depr:pl:voc:m2	nazwisko	
 Gajcego	Gajcy	subst:sg:acc:m1	nazwisko	
@@ -325,6 +335,7 @@ Gajdowie	Gajda	subst:pl:nom:m1	nazwisko
 Gajdowie	Gajda	subst:pl:voc:m1	nazwisko	
 Gajdów	Gajda	subst:pl:acc:m1	nazwisko	
 Gajdów	Gajda	subst:pl:gen:m1	nazwisko	
+Gajdy	Gajda	depr:pl:acc:m2	nazwisko	
 Gajdy	Gajda	depr:pl:nom:m2	nazwisko	
 Gajdy	Gajda	depr:pl:voc:m2	nazwisko	
 Gajdy	Gajda	subst:sg:gen:m1	nazwisko	
@@ -342,6 +353,7 @@ Gajdarowie	Gajdar	subst:pl:voc:m1	nazwisko
 Gajdarowi	Gajdar	subst:sg:dat:m1	nazwisko	
 Gajdarów	Gajdar	subst:pl:acc:m1	nazwisko	
 Gajdarów	Gajdar	subst:pl:gen:m1	nazwisko	
+Gajdary	Gajdar	depr:pl:acc:m2	nazwisko	
 Gajdary	Gajdar	depr:pl:nom:m2	nazwisko	
 Gajdary	Gajdar	depr:pl:voc:m2	nazwisko	
 Gajdarze	Gajdar	subst:sg:loc:m1	nazwisko	
@@ -365,6 +377,7 @@ Gajewscy	Gajewski	subst:pl:voc:m1	nazwisko
 Gajewskich	Gajewski	subst:pl:acc:m1	nazwisko	
 Gajewskich	Gajewski	subst:pl:gen:m1	nazwisko	
 Gajewskich	Gajewski	subst:pl:loc:m1	nazwisko	
+Gajewskie	Gajewski	depr:pl:acc:m2	nazwisko	
 Gajewskie	Gajewski	depr:pl:nom:m2	nazwisko	
 Gajewskie	Gajewski	depr:pl:voc:m2	nazwisko	
 Gajewskiego	Gajewski	subst:sg:acc:m1	nazwisko	
@@ -380,6 +393,7 @@ Gajuszach	Gajusz	subst:pl:loc:m1	imię
 Gajusza	Gajusz	subst:sg:acc:m1	imię	
 Gajusza	Gajusz	subst:sg:gen:m1	imię	
 Gajuszami	Gajusz	subst:pl:inst:m1	imię	
+Gajusze	Gajusz	depr:pl:acc:m2	imię	
 Gajusze	Gajusz	depr:pl:nom:m2	imię	
 Gajusze	Gajusz	depr:pl:voc:m2	imię	
 Gajusze	Gajusz	subst:pl:nom:m1	imię	
@@ -422,6 +436,7 @@ Galatowie	Galata:s1	subst:pl:nom:m1	nazwisko
 Galatowie	Galata:s1	subst:pl:voc:m1	nazwisko	
 Galatów	Galata:s1	subst:pl:acc:m1	nazwisko	
 Galatów	Galata:s1	subst:pl:gen:m1	nazwisko	
+Galaty	Galata:s1	depr:pl:acc:m2	nazwisko	
 Galaty	Galata:s1	depr:pl:nom:m2	nazwisko	
 Galaty	Galata:s1	depr:pl:voc:m2	nazwisko	
 Galaty	Galata:s1	subst:sg:gen:m1	nazwisko	
@@ -438,6 +453,7 @@ Galato	Galata:s2	subst:sg:voc:m1	nazwa pospolita
 Galatom	Galata:s2	subst:pl:dat:m1	nazwa pospolita	
 Galatów	Galata:s2	subst:pl:acc:m1	nazwa pospolita	
 Galatów	Galata:s2	subst:pl:gen:m1	nazwa pospolita	
+Galaty	Galata:s2	depr:pl:acc:m2	nazwa pospolita	
 Galaty	Galata:s2	depr:pl:nom:m2	nazwa pospolita	
 Galaty	Galata:s2	depr:pl:voc:m2	nazwa pospolita	
 Galaty	Galata:s2	subst:sg:gen:m1	nazwa pospolita	
@@ -471,6 +487,7 @@ Galbraithowie	Galbraith	subst:pl:voc:m1	nazwisko
 Galbraithowi	Galbraith	subst:sg:dat:m1	nazwisko	
 Galbraithów	Galbraith	subst:pl:acc:m1	nazwisko	
 Galbraithów	Galbraith	subst:pl:gen:m1	nazwisko	
+Galbraithy	Galbraith	depr:pl:acc:m2	nazwisko	
 Galbraithy	Galbraith	depr:pl:nom:m2	nazwisko	
 Galbraithy	Galbraith	depr:pl:voc:m2	nazwisko	
 Galewicach	Galewice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -487,6 +504,7 @@ Galewic	Galewice	subst:pl:gen:n:pt	nazwa geograficzna
 Galewic	Galewice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Galewicom	Galewice	subst:pl:dat:n:pt	nazwa geograficzna	
 Galewicom	Galewice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Galeze	Galezy	depr:pl:acc:m2	imię	
 Galeze	Galezy	depr:pl:nom:m2	imię	
 Galeze	Galezy	depr:pl:voc:m2	imię	
 Galezego	Galezy	subst:sg:acc:m1	imię	
@@ -547,6 +565,7 @@ Galicjaninie	Galicjanin	subst:sg:loc:m1	nazwa pospolita
 Galicjaninie	Galicjanin	subst:sg:voc:m1	nazwa pospolita	
 Galicjaninowi	Galicjanin	subst:sg:dat:m1	nazwa pospolita	
 Galicjanom	Galicjanin	subst:pl:dat:m1	nazwa pospolita	
+Galicjany	Galicjanin	depr:pl:acc:m2	nazwa pospolita	
 Galicjany	Galicjanin	depr:pl:nom:m2	nazwa pospolita	
 Galicjany	Galicjanin	depr:pl:voc:m2	nazwa pospolita	
 Galileach	Galilea	subst:pl:loc:f	nazwa geograficzna	
@@ -571,6 +590,7 @@ Galilejczyka	Galilejczyk	subst:sg:gen:m1	nazwa pospolita
 Galilejczykami	Galilejczyk	subst:pl:inst:m1	nazwa pospolita	
 Galilejczyk	Galilejczyk	subst:sg:nom:m1	nazwa pospolita	
 Galilejczykiem	Galilejczyk	subst:sg:inst:m1	nazwa pospolita	
+Galilejczyki	Galilejczyk	depr:pl:acc:m2	nazwa pospolita	
 Galilejczyki	Galilejczyk	depr:pl:nom:m2	nazwa pospolita	
 Galilejczyki	Galilejczyk	depr:pl:voc:m2	nazwa pospolita	
 Galilejczykom	Galilejczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -583,6 +603,7 @@ Galileuszach	Galileusz	subst:pl:loc:m1	nazwisko
 Galileusza	Galileusz	subst:sg:acc:m1	nazwisko	
 Galileusza	Galileusz	subst:sg:gen:m1	nazwisko	
 Galileuszami	Galileusz	subst:pl:inst:m1	nazwisko	
+Galileusze	Galileusz	depr:pl:acc:m2	nazwisko	
 Galileusze	Galileusz	depr:pl:nom:m2	nazwisko	
 Galileusze	Galileusz	depr:pl:voc:m2	nazwisko	
 Galileuszem	Galileusz	subst:sg:inst:m1	nazwisko	
@@ -614,6 +635,7 @@ Galińscy	Galiński	subst:pl:voc:m1	nazwisko
 Galińskich	Galiński	subst:pl:acc:m1	nazwisko	
 Galińskich	Galiński	subst:pl:gen:m1	nazwisko	
 Galińskich	Galiński	subst:pl:loc:m1	nazwisko	
+Galińskie	Galiński	depr:pl:acc:m2	nazwisko	
 Galińskie	Galiński	depr:pl:nom:m2	nazwisko	
 Galińskie	Galiński	depr:pl:voc:m2	nazwisko	
 Galińskiego	Galiński	subst:sg:acc:m1	nazwisko	
@@ -629,6 +651,7 @@ Gallach	Gall	subst:pl:loc:m1	nazwa pospolita
 Galla	Gall	subst:sg:acc:m1	nazwa pospolita	
 Galla	Gall	subst:sg:gen:m1	nazwa pospolita	
 Gallami	Gall	subst:pl:inst:m1	nazwa pospolita	
+Galle	Gall	depr:pl:acc:m2	nazwa pospolita	
 Galle	Gall	depr:pl:nom:m2	nazwa pospolita	
 Galle	Gall	depr:pl:voc:m2	nazwa pospolita	
 Galle	Gall	subst:pl:nom:m1	nazwa pospolita	
@@ -689,6 +712,7 @@ Galluksowie	Galluks	subst:pl:voc:m1	nazwa firmy
 Galluksowi	Galluks	subst:sg:dat:m1	nazwa firmy	
 Galluksów	Galluks	subst:pl:acc:m1	nazwa firmy	
 Galluksów	Galluks	subst:pl:gen:m1	nazwa firmy	
+Galluksy	Galluks	depr:pl:acc:m2	nazwa firmy	
 Galluksy	Galluks	depr:pl:nom:m2	nazwa firmy	
 Galluksy	Galluks	depr:pl:voc:m2	nazwa firmy	
 Gallupach	Gallup	subst:pl:loc:m1	nazwisko	
@@ -705,6 +729,7 @@ Gallupowie	Gallup	subst:pl:voc:m1	nazwisko
 Gallupowi	Gallup	subst:sg:dat:m1	nazwisko	
 Gallupów	Gallup	subst:pl:acc:m1	nazwisko	
 Gallupów	Gallup	subst:pl:gen:m1	nazwisko	
+Gallupy	Gallup	depr:pl:acc:m2	nazwisko	
 Gallupy	Gallup	depr:pl:nom:m2	nazwisko	
 Gallupy	Gallup	depr:pl:voc:m2	nazwisko	
 Galluksach	Gallux	subst:pl:loc:m3	nazwa firmy	
@@ -724,6 +749,7 @@ Gallux	Gallux	subst:sg:nom:m3	nazwa firmy
 Galsworthych	Galsworthy	subst:pl:acc:m1	nazwisko	
 Galsworthych	Galsworthy	subst:pl:gen:m1	nazwisko	
 Galsworthych	Galsworthy	subst:pl:loc:m1	nazwisko	
+Galsworthy’e	Galsworthy	depr:pl:acc:m2	nazwisko	
 Galsworthy’e	Galsworthy	depr:pl:nom:m2	nazwisko	
 Galsworthy’e	Galsworthy	depr:pl:voc:m2	nazwisko	
 Galsworthy’ego	Galsworthy	subst:sg:acc:m1	nazwisko	
@@ -740,6 +766,7 @@ Galsworthymi	Galsworthy	subst:pl:inst:m1	nazwisko
 Galvanich	Galvani	subst:pl:acc:m1	nazwisko	
 Galvanich	Galvani	subst:pl:gen:m1	nazwisko	
 Galvanich	Galvani	subst:pl:loc:m1	nazwisko	
+Galvanie	Galvani	depr:pl:acc:m2	nazwisko	
 Galvanie	Galvani	depr:pl:nom:m2	nazwisko	
 Galvanie	Galvani	depr:pl:voc:m2	nazwisko	
 Galvaniego	Galvani	subst:sg:acc:m1	nazwisko	
@@ -774,6 +801,7 @@ Gałczyńscy	Gałczyński	subst:pl:voc:m1	nazwisko
 Gałczyńskich	Gałczyński	subst:pl:acc:m1	nazwisko	
 Gałczyńskich	Gałczyński	subst:pl:gen:m1	nazwisko	
 Gałczyńskich	Gałczyński	subst:pl:loc:m1	nazwisko	
+Gałczyńskie	Gałczyński	depr:pl:acc:m2	nazwisko	
 Gałczyńskie	Gałczyński	depr:pl:nom:m2	nazwisko	
 Gałczyńskie	Gałczyński	depr:pl:voc:m2	nazwisko	
 Gałczyńskiego	Gałczyński	subst:sg:acc:m1	nazwisko	
@@ -804,6 +832,7 @@ Gałeccy	Gałecki	subst:pl:voc:m1	nazwisko
 Gałeckich	Gałecki	subst:pl:acc:m1	nazwisko	
 Gałeckich	Gałecki	subst:pl:gen:m1	nazwisko	
 Gałeckich	Gałecki	subst:pl:loc:m1	nazwisko	
+Gałeckie	Gałecki	depr:pl:acc:m2	nazwisko	
 Gałeckie	Gałecki	depr:pl:nom:m2	nazwisko	
 Gałeckie	Gałecki	depr:pl:voc:m2	nazwisko	
 Gałeckiego	Gałecki	subst:sg:acc:m1	nazwisko	
@@ -834,6 +863,7 @@ Gałęzcy	Gałęzki	subst:pl:voc:m1	nazwisko
 Gałęzkich	Gałęzki	subst:pl:acc:m1	nazwisko	
 Gałęzkich	Gałęzki	subst:pl:gen:m1	nazwisko	
 Gałęzkich	Gałęzki	subst:pl:loc:m1	nazwisko	
+Gałęzkie	Gałęzki	depr:pl:acc:m2	nazwisko	
 Gałęzkie	Gałęzki	depr:pl:nom:m2	nazwisko	
 Gałęzkie	Gałęzki	depr:pl:voc:m2	nazwisko	
 Gałęzkiego	Gałęzki	subst:sg:acc:m1	nazwisko	
@@ -864,6 +894,7 @@ Gałkowscy	Gałkowski	subst:pl:voc:m1	nazwisko
 Gałkowskich	Gałkowski	subst:pl:acc:m1	nazwisko	
 Gałkowskich	Gałkowski	subst:pl:gen:m1	nazwisko	
 Gałkowskich	Gałkowski	subst:pl:loc:m1	nazwisko	
+Gałkowskie	Gałkowski	depr:pl:acc:m2	nazwisko	
 Gałkowskie	Gałkowski	depr:pl:nom:m2	nazwisko	
 Gałkowskie	Gałkowski	depr:pl:voc:m2	nazwisko	
 Gałkowskiego	Gałkowski	subst:sg:acc:m1	nazwisko	
@@ -888,6 +919,7 @@ Gamowie	Gama	subst:pl:nom:m1	nazwisko
 Gamowie	Gama	subst:pl:voc:m1	nazwisko	
 Gamów	Gama	subst:pl:acc:m1	nazwisko	
 Gamów	Gama	subst:pl:gen:m1	nazwisko	
+Gamy	Gama	depr:pl:acc:m2	nazwisko	
 Gamy	Gama	depr:pl:nom:m2	nazwisko	
 Gamy	Gama	depr:pl:voc:m2	nazwisko	
 Gamy	Gama	subst:sg:gen:m1	nazwisko	
@@ -895,6 +927,7 @@ Gamalielach	Gamaliel	subst:pl:loc:m1	imię
 Gamaliela	Gamaliel	subst:sg:acc:m1	imię	
 Gamaliela	Gamaliel	subst:sg:gen:m1	imię	
 Gamalielami	Gamaliel	subst:pl:inst:m1	imię	
+Gamaliele	Gamaliel	depr:pl:acc:m2	imię	
 Gamaliele	Gamaliel	depr:pl:nom:m2	imię	
 Gamaliele	Gamaliel	depr:pl:voc:m2	imię	
 Gamaliele	Gamaliel	subst:pl:nom:m1	imię	
@@ -941,6 +974,7 @@ Gandawy	Gandawa	subst:sg:gen:f	nazwa geograficzna
 Gandhich	Gandhi	subst:pl:acc:m1	nazwisko	
 Gandhich	Gandhi	subst:pl:gen:m1	nazwisko	
 Gandhich	Gandhi	subst:pl:loc:m1	nazwisko	
+Gandhie	Gandhi	depr:pl:acc:m2	nazwisko	
 Gandhie	Gandhi	depr:pl:nom:m2	nazwisko	
 Gandhie	Gandhi	depr:pl:voc:m2	nazwisko	
 Gandhiego	Gandhi	subst:sg:acc:m1	nazwisko	
@@ -981,6 +1015,7 @@ Garowie	Gara	subst:pl:nom:m1	nazwisko
 Garowie	Gara	subst:pl:voc:m1	nazwisko	
 Garów	Gara	subst:pl:acc:m1	nazwisko	
 Garów	Gara	subst:pl:gen:m1	nazwisko	
+Gary	Gara	depr:pl:acc:m2	nazwisko	
 Gary	Gara	depr:pl:nom:m2	nazwisko	
 Gary	Gara	depr:pl:voc:m2	nazwisko	
 Gary	Gara	subst:sg:gen:m1	nazwisko	
@@ -1047,6 +1082,7 @@ Garciach	Garcia	subst:pl:loc:m1	imię|nazwisko
 Garcia	Garcia	subst:sg:nom:m1	imię|nazwisko	
 Garciami	Garcia	subst:pl:inst:m1	imię|nazwisko	
 Garcią	Garcia	subst:sg:inst:m1	imię|nazwisko	
+Garcie	Garcia	depr:pl:acc:m2	imię|nazwisko	
 Garcie	Garcia	depr:pl:nom:m2	imię|nazwisko	
 Garcie	Garcia	depr:pl:voc:m2	imię|nazwisko	
 Garcię	Garcia	subst:sg:acc:m1	imię|nazwisko	
@@ -1064,6 +1100,7 @@ Garczyńscy	Garczyński	subst:pl:voc:m1	nazwisko
 Garczyńskich	Garczyński	subst:pl:acc:m1	nazwisko	
 Garczyńskich	Garczyński	subst:pl:gen:m1	nazwisko	
 Garczyńskich	Garczyński	subst:pl:loc:m1	nazwisko	
+Garczyńskie	Garczyński	depr:pl:acc:m2	nazwisko	
 Garczyńskie	Garczyński	depr:pl:nom:m2	nazwisko	
 Garczyńskie	Garczyński	depr:pl:voc:m2	nazwisko	
 Garczyńskiego	Garczyński	subst:sg:acc:m1	nazwisko	
@@ -1080,6 +1117,7 @@ Garda	Gard	subst:sg:acc:m1	nazwisko
 Garda	Gard	subst:sg:gen:m1	nazwisko	
 Gardami	Gard	subst:pl:inst:m1	nazwisko	
 Gardem	Gard	subst:sg:inst:m1	nazwisko	
+Gard	Gard	depr:pl:acc:m2	nazwisko	
 Gard	Gard	depr:pl:nom:m2	nazwisko	
 Gard	Gard	depr:pl:voc:m2	nazwisko	
 Gard	Gard	subst:pl:acc:m1	nazwisko	
@@ -1102,6 +1140,7 @@ Gardowie	Gard	subst:pl:voc:m1	nazwisko
 Gardowi	Gard	subst:sg:dat:m1	nazwisko	
 Gardów	Gard	subst:pl:acc:m1	nazwisko	
 Gardów	Gard	subst:pl:gen:m1	nazwisko	
+Gardy	Gard	depr:pl:acc:m2	nazwisko	
 Gardy	Gard	depr:pl:nom:m2	nazwisko	
 Gardy	Gard	depr:pl:voc:m2	nazwisko	
 Gardzie	Gard	subst:sg:loc:m1	nazwisko	
@@ -1134,12 +1173,14 @@ Gargantuowie	Gargantua	subst:pl:nom:m1	imię	lit.
 Gargantuowie	Gargantua	subst:pl:voc:m1	imię	lit.
 Gargantuów	Gargantua	subst:pl:acc:m1	imię	lit.
 Gargantuów	Gargantua	subst:pl:gen:m1	imię	lit.
+Gargantuy	Gargantua	depr:pl:acc:m2	imię	lit.
 Gargantuy	Gargantua	depr:pl:nom:m2	imię	lit.
 Gargantuy	Gargantua	depr:pl:voc:m2	imię	lit.
 Gargantuy	Gargantua	subst:sg:gen:m1	imię	lit.
 Garibaldich	Garibaldi	subst:pl:acc:m1	nazwisko	
 Garibaldich	Garibaldi	subst:pl:gen:m1	nazwisko	
 Garibaldich	Garibaldi	subst:pl:loc:m1	nazwisko	
+Garibaldie	Garibaldi	depr:pl:acc:m2	nazwisko	
 Garibaldie	Garibaldi	depr:pl:nom:m2	nazwisko	
 Garibaldie	Garibaldi	depr:pl:voc:m2	nazwisko	
 Garibaldiego	Garibaldi	subst:sg:acc:m1	nazwisko	
@@ -1212,6 +1253,7 @@ Garrosowie	Garros	subst:pl:voc:m1	nazwisko
 Garrosowi	Garros	subst:sg:dat:m1	nazwisko	
 Garrosów	Garros	subst:pl:acc:m1	nazwisko	
 Garrosów	Garros	subst:pl:gen:m1	nazwisko	
+Garrosy	Garros	depr:pl:acc:m2	nazwisko	
 Garrosy	Garros	depr:pl:nom:m2	nazwisko	
 Garrosy	Garros	depr:pl:voc:m2	nazwisko	
 Gaskoniach	Gaskonia	subst:pl:loc:f	nazwa geograficzna	
@@ -1241,6 +1283,7 @@ Gasparowie	Gaspar	subst:pl:voc:m1	imię
 Gasparowi	Gaspar	subst:sg:dat:m1	imię	
 Gasparów	Gaspar	subst:pl:acc:m1	imię	
 Gasparów	Gaspar	subst:pl:gen:m1	imię	
+Gaspary	Gaspar	depr:pl:acc:m2	imię	
 Gaspary	Gaspar	depr:pl:nom:m2	imię	
 Gaspary	Gaspar	depr:pl:voc:m2	imię	
 Gasparze	Gaspar	subst:sg:loc:m1	imię	
@@ -1275,6 +1318,7 @@ Gatesowie	Gates	subst:pl:voc:m1	nazwisko
 Gatesowi	Gates	subst:sg:dat:m1	nazwisko	
 Gatesów	Gates	subst:pl:acc:m1	nazwisko	
 Gatesów	Gates	subst:pl:gen:m1	nazwisko	
+Gatesy	Gates	depr:pl:acc:m2	nazwisko	
 Gatesy	Gates	depr:pl:nom:m2	nazwisko	
 Gatesy	Gates	depr:pl:voc:m2	nazwisko	
 GAT-cie	GATT	subst:sg:loc:m3	nazwa pospolita	
@@ -1324,6 +1368,7 @@ Gaudencjuszach	Gaudencjusz	subst:pl:loc:m1	imię
 Gaudencjusza	Gaudencjusz	subst:sg:acc:m1	imię	
 Gaudencjusza	Gaudencjusz	subst:sg:gen:m1	imię	
 Gaudencjuszami	Gaudencjusz	subst:pl:inst:m1	imię	
+Gaudencjusze	Gaudencjusz	depr:pl:acc:m2	imię	
 Gaudencjusze	Gaudencjusz	depr:pl:nom:m2	imię	
 Gaudencjusze	Gaudencjusz	depr:pl:voc:m2	imię	
 Gaudencjusze	Gaudencjusz	subst:pl:nom:m1	imię	
@@ -1338,6 +1383,7 @@ Gaudencjuszów	Gaudencjusz	subst:pl:acc:m1	imię
 Gaudencjuszów	Gaudencjusz	subst:pl:gen:m1	imię	
 Gaudencjuszu	Gaudencjusz	subst:sg:loc:m1	imię	
 Gaudencjuszu	Gaudencjusz	subst:sg:voc:m1	imię	
+Gaudente	Gaudenty	depr:pl:acc:m2	imię	
 Gaudente	Gaudenty	depr:pl:nom:m2	imię	
 Gaudente	Gaudenty	depr:pl:voc:m2	imię	
 Gaudentego	Gaudenty	subst:sg:acc:m1	imię	
@@ -1357,6 +1403,7 @@ Gaudentymi	Gaudenty	subst:pl:inst:m1	imię
 Gaudích	Gaudí	subst:pl:acc:m1	nazwisko	
 Gaudích	Gaudí	subst:pl:gen:m1	nazwisko	
 Gaudích	Gaudí	subst:pl:loc:m1	nazwisko	
+Gaudíe	Gaudí	depr:pl:acc:m2	nazwisko	
 Gaudíe	Gaudí	depr:pl:nom:m2	nazwisko	
 Gaudíe	Gaudí	depr:pl:voc:m2	nazwisko	
 Gaudíego	Gaudí	subst:sg:acc:m1	nazwisko	
@@ -1386,12 +1433,14 @@ Gauguinowie	Gauguin	subst:pl:voc:m1	nazwisko
 Gauguinowi	Gauguin	subst:sg:dat:m1	nazwisko	
 Gauguinów	Gauguin	subst:pl:acc:m1	nazwisko	
 Gauguinów	Gauguin	subst:pl:gen:m1	nazwisko	
+Gauguiny	Gauguin	depr:pl:acc:m2	nazwisko	
 Gauguiny	Gauguin	depr:pl:nom:m2	nazwisko	
 Gauguiny	Gauguin	depr:pl:voc:m2	nazwisko	
 Gaulle’ach	Gaulle	subst:pl:loc:m1	nazwisko	
 Gaulle’a	Gaulle	subst:sg:acc:m1	nazwisko	
 Gaulle’a	Gaulle	subst:sg:gen:m1	nazwisko	
 Gaulle’ami	Gaulle	subst:pl:inst:m1	nazwisko	
+Gaulle’e	Gaulle	depr:pl:acc:m2	nazwisko	
 Gaulle’e	Gaulle	depr:pl:nom:m2	nazwisko	
 Gaulle’e	Gaulle	depr:pl:voc:m2	nazwisko	
 Gaulle’em	Gaulle	subst:sg:inst:m1	nazwisko	
@@ -1418,6 +1467,7 @@ Gaussowie	Gauss	subst:pl:voc:m1	nazwisko
 Gaussowi	Gauss	subst:sg:dat:m1	nazwisko	
 Gaussów	Gauss	subst:pl:acc:m1	nazwisko	
 Gaussów	Gauss	subst:pl:gen:m1	nazwisko	
+Gaussy	Gauss	depr:pl:acc:m2	nazwisko	
 Gaussy	Gauss	depr:pl:nom:m2	nazwisko	
 Gaussy	Gauss	depr:pl:voc:m2	nazwisko	
 Gautierach	Gautier	subst:pl:loc:m1	nazwisko	
@@ -1432,6 +1482,7 @@ Gautierowie	Gautier	subst:pl:voc:m1	nazwisko
 Gautierowi	Gautier	subst:sg:dat:m1	nazwisko	
 Gautierów	Gautier	subst:pl:acc:m1	nazwisko	
 Gautierów	Gautier	subst:pl:gen:m1	nazwisko	
+Gautiery	Gautier	depr:pl:acc:m2	nazwisko	
 Gautiery	Gautier	depr:pl:nom:m2	nazwisko	
 Gautiery	Gautier	depr:pl:voc:m2	nazwisko	
 Gautierze	Gautier	subst:sg:loc:m1	nazwisko	
@@ -1450,10 +1501,12 @@ Gawłowie	Gaweł	subst:pl:voc:m1	imię
 Gawłowi	Gaweł	subst:sg:dat:m1	imię	
 Gawłów	Gaweł	subst:pl:acc:m1	imię	
 Gawłów	Gaweł	subst:pl:gen:m1	imię	
+Gawły	Gaweł	depr:pl:acc:m2	imię	
 Gawły	Gaweł	depr:pl:nom:m2	imię	
 Gawły	Gaweł	depr:pl:voc:m2	imię	
 Gawlach	Gawle	subst:pl:loc:m1	nazwisko	
 Gawlami	Gawle	subst:pl:inst:m1	nazwisko	
+Gawle	Gawle	depr:pl:acc:m2	nazwisko	
 Gawle	Gawle	depr:pl:nom:m2	nazwisko	
 Gawle	Gawle	depr:pl:voc:m2	nazwisko	
 Gawle	Gawle	subst:sg:nom:m1	nazwisko	
@@ -1474,6 +1527,7 @@ Gawlika	Gawlik	subst:sg:gen:m1	nazwisko
 Gawlikami	Gawlik	subst:pl:inst:m1	nazwisko	
 Gawlik	Gawlik	subst:sg:nom:m1	nazwisko	
 Gawlikiem	Gawlik	subst:sg:inst:m1	nazwisko	
+Gawliki	Gawlik	depr:pl:acc:m2	nazwisko	
 Gawliki	Gawlik	depr:pl:nom:m2	nazwisko	
 Gawliki	Gawlik	depr:pl:voc:m2	nazwisko	
 Gawlikom	Gawlik	subst:pl:dat:m1	nazwisko	
@@ -1517,6 +1571,7 @@ Gawłowscy	Gawłowski	subst:pl:voc:m1	nazwisko
 Gawłowskich	Gawłowski	subst:pl:acc:m1	nazwisko	
 Gawłowskich	Gawłowski	subst:pl:gen:m1	nazwisko	
 Gawłowskich	Gawłowski	subst:pl:loc:m1	nazwisko	
+Gawłowskie	Gawłowski	depr:pl:acc:m2	nazwisko	
 Gawłowskie	Gawłowski	depr:pl:nom:m2	nazwisko	
 Gawłowskie	Gawłowski	depr:pl:voc:m2	nazwisko	
 Gawłowskiego	Gawłowski	subst:sg:acc:m1	nazwisko	
@@ -1556,6 +1611,7 @@ Gawronowie	Gawron	subst:pl:voc:m1	nazwisko
 Gawronowi	Gawron	subst:sg:dat:m1	nazwisko	
 Gawronów	Gawron	subst:pl:acc:m1	nazwisko	
 Gawronów	Gawron	subst:pl:gen:m1	nazwisko	
+Gawrony	Gawron	depr:pl:acc:m2	nazwisko	
 Gawrony	Gawron	depr:pl:nom:m2	nazwisko	
 Gawrony	Gawron	depr:pl:voc:m2	nazwisko	
 Gawrońska	Gawrońska	subst:sg:nom:f	nazwisko	
@@ -1577,6 +1633,7 @@ Gawrońscy	Gawroński	subst:pl:voc:m1	nazwisko
 Gawrońskich	Gawroński	subst:pl:acc:m1	nazwisko	
 Gawrońskich	Gawroński	subst:pl:gen:m1	nazwisko	
 Gawrońskich	Gawroński	subst:pl:loc:m1	nazwisko	
+Gawrońskie	Gawroński	depr:pl:acc:m2	nazwisko	
 Gawrońskie	Gawroński	depr:pl:nom:m2	nazwisko	
 Gawrońskie	Gawroński	depr:pl:voc:m2	nazwisko	
 Gawrońskiego	Gawroński	subst:sg:acc:m1	nazwisko	
@@ -1606,6 +1663,7 @@ Gayach	Gay	subst:pl:loc:m1	nazwisko
 Gaya	Gay	subst:sg:acc:m1	nazwisko	
 Gaya	Gay	subst:sg:gen:m1	nazwisko	
 Gayami	Gay	subst:pl:inst:m1	nazwisko	
+Gaye	Gay	depr:pl:acc:m2	nazwisko	
 Gaye	Gay	depr:pl:nom:m2	nazwisko	
 Gaye	Gay	depr:pl:voc:m2	nazwisko	
 Gayem	Gay	subst:sg:inst:m1	nazwisko	
@@ -1623,6 +1681,7 @@ Gąsienicach	Gąsienica	subst:pl:loc:m1	nazwisko
 Gąsienica	Gąsienica	subst:sg:nom:m1	nazwisko	
 Gąsienicami	Gąsienica	subst:pl:inst:m1	nazwisko	
 Gąsienicą	Gąsienica	subst:sg:inst:m1	nazwisko	
+Gąsienice	Gąsienica	depr:pl:acc:m2	nazwisko	
 Gąsienice	Gąsienica	depr:pl:nom:m2	nazwisko	
 Gąsienice	Gąsienica	depr:pl:voc:m2	nazwisko	
 Gąsienicę	Gąsienica	subst:sg:acc:m1	nazwisko	
@@ -1654,6 +1713,7 @@ Gąsiorowscy	Gąsiorowski	subst:pl:voc:m1	nazwisko
 Gąsiorowskich	Gąsiorowski	subst:pl:acc:m1	nazwisko	
 Gąsiorowskich	Gąsiorowski	subst:pl:gen:m1	nazwisko	
 Gąsiorowskich	Gąsiorowski	subst:pl:loc:m1	nazwisko	
+Gąsiorowskie	Gąsiorowski	depr:pl:acc:m2	nazwisko	
 Gąsiorowskie	Gąsiorowski	depr:pl:nom:m2	nazwisko	
 Gąsiorowskie	Gąsiorowski	depr:pl:voc:m2	nazwisko	
 Gąsiorowskiego	Gąsiorowski	subst:sg:acc:m1	nazwisko	
@@ -1684,6 +1744,7 @@ Gąsowscy	Gąsowski	subst:pl:voc:m1	nazwisko
 Gąsowskich	Gąsowski	subst:pl:acc:m1	nazwisko	
 Gąsowskich	Gąsowski	subst:pl:gen:m1	nazwisko	
 Gąsowskich	Gąsowski	subst:pl:loc:m1	nazwisko	
+Gąsowskie	Gąsowski	depr:pl:acc:m2	nazwisko	
 Gąsowskie	Gąsowski	depr:pl:nom:m2	nazwisko	
 Gąsowskie	Gąsowski	depr:pl:voc:m2	nazwisko	
 Gąsowskiego	Gąsowski	subst:sg:acc:m1	nazwisko	
@@ -1821,6 +1882,7 @@ Gebethnerowie	Gebethner	subst:pl:voc:m1	nazwisko
 Gebethnerowi	Gebethner	subst:sg:dat:m1	nazwisko	
 Gebethnerów	Gebethner	subst:pl:acc:m1	nazwisko	
 Gebethnerów	Gebethner	subst:pl:gen:m1	nazwisko	
+Gebethnery	Gebethner	depr:pl:acc:m2	nazwisko	
 Gebethnery	Gebethner	depr:pl:nom:m2	nazwisko	
 Gebethnery	Gebethner	depr:pl:voc:m2	nazwisko	
 Gebethnerze	Gebethner	subst:sg:loc:m1	nazwisko	
@@ -1837,6 +1899,7 @@ Gebhardowie	Gebhard	subst:pl:voc:m1	imię
 Gebhardowi	Gebhard	subst:sg:dat:m1	imię	
 Gebhardów	Gebhard	subst:pl:acc:m1	imię	
 Gebhardów	Gebhard	subst:pl:gen:m1	imię	
+Gebhardy	Gebhard	depr:pl:acc:m2	imię	
 Gebhardy	Gebhard	depr:pl:nom:m2	imię	
 Gebhardy	Gebhard	depr:pl:voc:m2	imię	
 Gebhardzie	Gebhard	subst:sg:loc:m1	imię	
@@ -1870,6 +1933,7 @@ Gedeonowie	Gedeon	subst:pl:voc:m1	imię
 Gedeonowi	Gedeon	subst:sg:dat:m1	imię	
 Gedeonów	Gedeon	subst:pl:acc:m1	imię	
 Gedeonów	Gedeon	subst:pl:gen:m1	imię	
+Gedeony	Gedeon	depr:pl:acc:m2	imię	
 Gedeony	Gedeon	depr:pl:nom:m2	imię	
 Gedeony	Gedeon	depr:pl:voc:m2	imię	
 Geigerach	Geiger	subst:pl:loc:m1	nazwisko	
@@ -1884,6 +1948,7 @@ Geigerowie	Geiger	subst:pl:voc:m1	nazwisko
 Geigerowi	Geiger	subst:sg:dat:m1	nazwisko	
 Geigerów	Geiger	subst:pl:acc:m1	nazwisko	
 Geigerów	Geiger	subst:pl:gen:m1	nazwisko	
+Geigery	Geiger	depr:pl:acc:m2	nazwisko	
 Geigery	Geiger	depr:pl:nom:m2	nazwisko	
 Geigery	Geiger	depr:pl:voc:m2	nazwisko	
 Geigerze	Geiger	subst:sg:loc:m1	nazwisko	
@@ -1894,6 +1959,7 @@ Genka	Genek	subst:sg:acc:m1	imię
 Genka	Genek	subst:sg:gen:m1	imię	
 Genkami	Genek	subst:pl:inst:m1	imię	
 Genkiem	Genek	subst:sg:inst:m1	imię	
+Genki	Genek	depr:pl:acc:m2	imię	
 Genki	Genek	depr:pl:nom:m2	imię	
 Genki	Genek	depr:pl:voc:m2	imię	
 Genkom	Genek	subst:pl:dat:m1	imię	
@@ -1933,6 +1999,7 @@ Genetowie	Genet	subst:pl:voc:m1	nazwisko
 Genetowi	Genet	subst:sg:dat:m1	nazwisko	
 Genetów	Genet	subst:pl:acc:m1	nazwisko	
 Genetów	Genet	subst:pl:gen:m1	nazwisko	
+Genety	Genet	depr:pl:acc:m2	nazwisko	
 Genety	Genet	depr:pl:nom:m2	nazwisko	
 Genety	Genet	depr:pl:voc:m2	nazwisko	
 G	genetivus	brev:pun		jęz.
@@ -1983,6 +2050,7 @@ Geniach	Genio	subst:pl:loc:m1	imię
 Genia	Genio	subst:sg:acc:m1	imię	
 Genia	Genio	subst:sg:gen:m1	imię	
 Geniami	Genio	subst:pl:inst:m1	imię	
+Genie	Genio	depr:pl:acc:m2	imię	
 Genie	Genio	depr:pl:nom:m2	imię	
 Genie	Genio	depr:pl:voc:m2	imię	
 Geniem	Genio	subst:sg:inst:m1	imię	
@@ -2007,6 +2075,7 @@ Gennes’owie	Gennes	subst:pl:voc:m1	nazwisko
 Gennes’owi	Gennes	subst:sg:dat:m1	nazwisko	
 Gennes’ów	Gennes	subst:pl:acc:m1	nazwisko	
 Gennes’ów	Gennes	subst:pl:gen:m1	nazwisko	
+Gennes’y	Gennes	depr:pl:acc:m2	nazwisko	
 Gennes’y	Gennes	depr:pl:nom:m2	nazwisko	
 Gennes’y	Gennes	depr:pl:voc:m2	nazwisko	
 Gennie	Gennes	subst:sg:loc:m1	nazwisko	
@@ -2044,6 +2113,7 @@ Georges’ach	Georges	subst:pl:loc:m1	imię
 Georges’a	Georges	subst:sg:acc:m1	imię	
 Georges’a	Georges	subst:sg:gen:m1	imię	
 Georges’ami	Georges	subst:pl:inst:m1	imię	
+Georges’e	Georges	depr:pl:acc:m2	imię	
 Georges’e	Georges	depr:pl:nom:m2	imię	
 Georges’e	Georges	depr:pl:voc:m2	imię	
 Georges’em	Georges	subst:sg:inst:m1	imię	
@@ -2060,6 +2130,7 @@ George’ach	George:s1	subst:pl:loc:m1	imię|nazwisko
 George’a	George:s1	subst:sg:acc:m1	imię|nazwisko	
 George’a	George:s1	subst:sg:gen:m1	imię|nazwisko	
 George’ami	George:s1	subst:pl:inst:m1	imię|nazwisko	
+George’e	George:s1	depr:pl:acc:m2	imię|nazwisko	
 George’e	George:s1	depr:pl:nom:m2	imię|nazwisko	
 George’e	George:s1	depr:pl:voc:m2	imię|nazwisko	
 George’em	George:s1	subst:sg:inst:m1	imię|nazwisko	
@@ -2105,6 +2176,7 @@ Georgijach	Georgij	subst:pl:loc:m1	imię
 Georgija	Georgij	subst:sg:acc:m1	imię	
 Georgija	Georgij	subst:sg:gen:m1	imię	
 Georgijami	Georgij	subst:pl:inst:m1	imię	
+Georgije	Georgij	depr:pl:acc:m2	imię	
 Georgije	Georgij	depr:pl:nom:m2	imię	
 Georgije	Georgij	depr:pl:voc:m2	imię	
 Georgije	Georgij	subst:pl:nom:m1	imię	
@@ -2145,6 +2217,7 @@ Geraldowie	Gerald	subst:pl:voc:m1	imię
 Geraldowi	Gerald	subst:sg:dat:m1	imię	
 Geraldów	Gerald	subst:pl:acc:m1	imię	
 Geraldów	Gerald	subst:pl:gen:m1	imię	
+Geraldy	Gerald	depr:pl:acc:m2	imię	
 Geraldy	Gerald	depr:pl:nom:m2	imię	
 Geraldy	Gerald	depr:pl:voc:m2	imię	
 Geraldzie	Gerald	subst:sg:loc:m1	imię	
@@ -2175,6 +2248,7 @@ Gerardowie	Gerard	subst:pl:voc:m1	imię
 Gerardowi	Gerard	subst:sg:dat:m1	imię	
 Gerardów	Gerard	subst:pl:acc:m1	imię	
 Gerardów	Gerard	subst:pl:gen:m1	imię	
+Gerardy	Gerard	depr:pl:acc:m2	imię	
 Gerardy	Gerard	depr:pl:nom:m2	imię	
 Gerardy	Gerard	depr:pl:voc:m2	imię	
 Gerardzie	Gerard	subst:sg:loc:m1	imię	
@@ -2209,6 +2283,7 @@ Gerazymowie	Gerazym	subst:pl:voc:m1	imię
 Gerazymowi	Gerazym	subst:sg:dat:m1	imię	
 Gerazymów	Gerazym	subst:pl:acc:m1	imię	
 Gerazymów	Gerazym	subst:pl:gen:m1	imię	
+Gerazymy	Gerazym	depr:pl:acc:m2	imię	
 Gerazymy	Gerazym	depr:pl:nom:m2	imię	
 Gerazymy	Gerazym	depr:pl:voc:m2	imię	
 Geremek	Geremek	subst:sg:nom:m1	nazwisko	
@@ -2217,6 +2292,7 @@ Geremka	Geremek	subst:sg:acc:m1	nazwisko
 Geremka	Geremek	subst:sg:gen:m1	nazwisko	
 Geremkami	Geremek	subst:pl:inst:m1	nazwisko	
 Geremkiem	Geremek	subst:sg:inst:m1	nazwisko	
+Geremki	Geremek	depr:pl:acc:m2	nazwisko	
 Geremki	Geremek	depr:pl:nom:m2	nazwisko	
 Geremki	Geremek	depr:pl:voc:m2	nazwisko	
 Geremkom	Geremek	subst:pl:dat:m1	nazwisko	
@@ -2239,6 +2315,7 @@ Gerhardowie	Gerhard	subst:pl:voc:m1	imię
 Gerhardowi	Gerhard	subst:sg:dat:m1	imię	
 Gerhardów	Gerhard	subst:pl:acc:m1	imię	
 Gerhardów	Gerhard	subst:pl:gen:m1	imię	
+Gerhardy	Gerhard	depr:pl:acc:m2	imię	
 Gerhardy	Gerhard	depr:pl:nom:m2	imię	
 Gerhardy	Gerhard	depr:pl:voc:m2	imię	
 Gerhardzie	Gerhard	subst:sg:loc:m1	imię	
@@ -2274,6 +2351,7 @@ Germanowie	German	subst:pl:voc:m1	imię
 Germanowi	German	subst:sg:dat:m1	imię	
 Germanów	German	subst:pl:acc:m1	imię	
 Germanów	German	subst:pl:gen:m1	imię	
+Germany	German	depr:pl:acc:m2	imię	
 Germany	German	depr:pl:nom:m2	imię	
 Germany	German	depr:pl:voc:m2	imię	
 Germaniach	Germania	subst:pl:loc:f	nazwa geograficzna	hist.
@@ -2297,6 +2375,7 @@ Germanika	Germanik	subst:sg:gen:m1	imię
 Germanikami	Germanik	subst:pl:inst:m1	imię	
 Germanik	Germanik	subst:sg:nom:m1	imię	
 Germanikiem	Germanik	subst:sg:inst:m1	imię	
+Germaniki	Germanik	depr:pl:acc:m2	imię	
 Germaniki	Germanik	depr:pl:nom:m2	imię	
 Germaniki	Germanik	depr:pl:voc:m2	imię	
 Germanikom	Germanik	subst:pl:dat:m1	imię	
@@ -2323,6 +2402,7 @@ Germanowie	Germanin	subst:pl:nom:m1	nazwa pospolita
 Germanowie	Germanin	subst:pl:voc:m1	nazwa pospolita	
 Germanów	Germanin	subst:pl:acc:m1	nazwa pospolita	
 Germanów	Germanin	subst:pl:gen:m1	nazwa pospolita	
+Germany	Germanin	depr:pl:acc:m2	nazwa pospolita	
 Germany	Germanin	depr:pl:nom:m2	nazwa pospolita	
 Germany	Germanin	depr:pl:voc:m2	nazwa pospolita	
 Gershwinach	Gershwin	subst:pl:loc:m1	nazwisko	
@@ -2339,6 +2419,7 @@ Gershwinowie	Gershwin	subst:pl:voc:m1	nazwisko
 Gershwinowi	Gershwin	subst:sg:dat:m1	nazwisko	
 Gershwinów	Gershwin	subst:pl:acc:m1	nazwisko	
 Gershwinów	Gershwin	subst:pl:gen:m1	nazwisko	
+Gershwiny	Gershwin	depr:pl:acc:m2	nazwisko	
 Gershwiny	Gershwin	depr:pl:nom:m2	nazwisko	
 Gershwiny	Gershwin	depr:pl:voc:m2	nazwisko	
 Gersonach	Gerson	subst:pl:loc:m1	imię|nazwisko	
@@ -2357,6 +2438,7 @@ Gersonowie	Gerson	subst:pl:voc:m1	imię|nazwisko
 Gersonowi	Gerson	subst:sg:dat:m1	imię|nazwisko	
 Gersonów	Gerson	subst:pl:acc:m1	imię|nazwisko	
 Gersonów	Gerson	subst:pl:gen:m1	imię|nazwisko	
+Gersony	Gerson	depr:pl:acc:m2	imię|nazwisko	
 Gersony	Gerson	depr:pl:nom:m2	imię|nazwisko	
 Gersony	Gerson	depr:pl:voc:m2	imię|nazwisko	
 Gercie	Gerta	subst:sg:dat:f	imię	
@@ -2387,6 +2469,7 @@ Gertrudy	Gertruda	subst:pl:voc:f	imię
 Gertrudy	Gertruda	subst:sg:gen:f	imię	
 Gertrudzie	Gertruda	subst:sg:dat:f	imię	
 Gertrudzie	Gertruda	subst:sg:loc:f	imię	
+Gerwaze	Gerwazy	depr:pl:acc:m2	imię	
 Gerwaze	Gerwazy	depr:pl:nom:m2	imię	
 Gerwaze	Gerwazy	depr:pl:voc:m2	imię	
 Gerwazego	Gerwazy	subst:sg:acc:m1	imię	
@@ -2421,6 +2504,7 @@ Gębalach	Gębala	subst:pl:loc:m1	nazwisko
 Gębala	Gębala	subst:sg:nom:m1	nazwisko	
 Gębalami	Gębala	subst:pl:inst:m1	nazwisko	
 Gębalą	Gębala	subst:sg:inst:m1	nazwisko	
+Gębale	Gębala	depr:pl:acc:m2	nazwisko	
 Gębale	Gębala	depr:pl:nom:m2	nazwisko	
 Gębale	Gębala	depr:pl:voc:m2	nazwisko	
 Gębalę	Gębala	subst:sg:acc:m1	nazwisko	
@@ -2453,6 +2537,7 @@ Gębika	Gębik	subst:sg:gen:m1	nazwisko
 Gębikami	Gębik	subst:pl:inst:m1	nazwisko	
 Gębik	Gębik	subst:sg:nom:m1	nazwisko	
 Gębikiem	Gębik	subst:sg:inst:m1	nazwisko	
+Gębiki	Gębik	depr:pl:acc:m2	nazwisko	
 Gębiki	Gębik	depr:pl:nom:m2	nazwisko	
 Gębiki	Gębik	depr:pl:voc:m2	nazwisko	
 Gębikom	Gębik	subst:pl:dat:m1	nazwisko	
@@ -2463,6 +2548,7 @@ Gębików	Gębik	subst:pl:acc:m1	nazwisko
 Gębików	Gębik	subst:pl:gen:m1	nazwisko	
 Gębiku	Gębik	subst:sg:loc:m1	nazwisko	
 Gębiku	Gębik	subst:sg:voc:m1	nazwisko	
+Ghale	Ghali	depr:pl:acc:m2	nazwisko	
 Ghale	Ghali	depr:pl:nom:m2	nazwisko	
 Ghale	Ghali	depr:pl:voc:m2	nazwisko	
 Ghalego	Ghali	subst:sg:acc:m1	nazwisko	
@@ -2505,6 +2591,7 @@ Ghelderode’owie	Ghelderode	subst:pl:voc:m1	nazwisko
 Ghelderode’owi	Ghelderode	subst:sg:dat:m1	nazwisko	
 Ghelderode’ów	Ghelderode	subst:pl:acc:m1	nazwisko	
 Ghelderode’ów	Ghelderode	subst:pl:gen:m1	nazwisko	
+Ghelderode’y	Ghelderode	depr:pl:acc:m2	nazwisko	
 Ghelderode’y	Ghelderode	depr:pl:nom:m2	nazwisko	
 Ghelderode’y	Ghelderode	depr:pl:voc:m2	nazwisko	
 Ghelderodzie	Ghelderode	subst:sg:loc:m1	nazwisko	
@@ -2549,6 +2636,7 @@ Gide’owie	Gide	subst:pl:voc:m1	nazwisko
 Gide’owi	Gide	subst:sg:dat:m1	nazwisko	
 Gide’ów	Gide	subst:pl:acc:m1	nazwisko	
 Gide’ów	Gide	subst:pl:gen:m1	nazwisko	
+Gide’y	Gide	depr:pl:acc:m2	nazwisko	
 Gide’y	Gide	depr:pl:nom:m2	nazwisko	
 Gide’y	Gide	depr:pl:voc:m2	nazwisko	
 Gidzie	Gide	subst:sg:loc:m1	nazwisko	
@@ -2558,6 +2646,7 @@ Giedroyciach	Giedroyc	subst:pl:loc:m1	nazwisko
 Giedroycia	Giedroyc	subst:sg:acc:m1	nazwisko	
 Giedroycia	Giedroyc	subst:sg:gen:m1	nazwisko	
 Giedroyciami	Giedroyc	subst:pl:inst:m1	nazwisko	
+Giedroycie	Giedroyc	depr:pl:acc:m2	nazwisko	
 Giedroycie	Giedroyc	depr:pl:nom:m2	nazwisko	
 Giedroycie	Giedroyc	depr:pl:voc:m2	nazwisko	
 Giedroyciem	Giedroyc	subst:sg:inst:m1	nazwisko	
@@ -2573,6 +2662,7 @@ Giedroyciach	Giedroyć	subst:pl:loc:m1	nazwisko
 Giedroycia	Giedroyć	subst:sg:acc:m1	nazwisko	
 Giedroycia	Giedroyć	subst:sg:gen:m1	nazwisko	
 Giedroyciami	Giedroyć	subst:pl:inst:m1	nazwisko	
+Giedroycie	Giedroyć	depr:pl:acc:m2	nazwisko	
 Giedroycie	Giedroyć	depr:pl:nom:m2	nazwisko	
 Giedroycie	Giedroyć	depr:pl:voc:m2	nazwisko	
 Giedroyciem	Giedroyć	subst:sg:inst:m1	nazwisko	
@@ -2599,6 +2689,7 @@ Giedyminowie	Giedymin	subst:pl:voc:m1	imię
 Giedyminowi	Giedymin	subst:sg:dat:m1	imię	
 Giedyminów	Giedymin	subst:pl:acc:m1	imię	
 Giedyminów	Giedymin	subst:pl:gen:m1	imię	
+Giedyminy	Giedymin	depr:pl:acc:m2	imię	
 Giedyminy	Giedymin	depr:pl:nom:m2	imię	
 Giedyminy	Giedymin	depr:pl:voc:m2	imię	
 Gielgudach	Gielgud	subst:pl:loc:m1	nazwisko	
@@ -2613,6 +2704,7 @@ Gielgudowie	Gielgud	subst:pl:voc:m1	nazwisko
 Gielgudowi	Gielgud	subst:sg:dat:m1	nazwisko	
 Gielgudów	Gielgud	subst:pl:acc:m1	nazwisko	
 Gielgudów	Gielgud	subst:pl:gen:m1	nazwisko	
+Gielgudy	Gielgud	depr:pl:acc:m2	nazwisko	
 Gielgudy	Gielgud	depr:pl:nom:m2	nazwisko	
 Gielgudy	Gielgud	depr:pl:voc:m2	nazwisko	
 Gielgudzie	Gielgud	subst:sg:loc:m1	nazwisko	
@@ -2638,6 +2730,7 @@ Gienka	Gienek	subst:sg:acc:m1	imię
 Gienka	Gienek	subst:sg:gen:m1	imię	
 Gienkami	Gienek	subst:pl:inst:m1	imię	
 Gienkiem	Gienek	subst:sg:inst:m1	imię	
+Gienki	Gienek	depr:pl:acc:m2	imię	
 Gienki	Gienek	depr:pl:nom:m2	imię	
 Gienki	Gienek	depr:pl:voc:m2	imię	
 Gienkom	Gienek	subst:pl:dat:m1	imię	
@@ -2667,6 +2760,7 @@ Gieniach	Gienio	subst:pl:loc:m1	imię
 Gienia	Gienio	subst:sg:acc:m1	imię	
 Gienia	Gienio	subst:sg:gen:m1	imię	
 Gieniami	Gienio	subst:pl:inst:m1	imię	
+Gienie	Gienio	depr:pl:acc:m2	imię	
 Gienie	Gienio	depr:pl:nom:m2	imię	
 Gienie	Gienio	depr:pl:voc:m2	imię	
 Gieniem	Gienio	subst:sg:inst:m1	imię	
@@ -2741,6 +2835,7 @@ Gierka	Gierek	subst:sg:acc:m1	nazwisko
 Gierka	Gierek	subst:sg:gen:m1	nazwisko	
 Gierkami	Gierek	subst:pl:inst:m1	nazwisko	
 Gierkiem	Gierek	subst:sg:inst:m1	nazwisko	
+Gierki	Gierek	depr:pl:acc:m2	nazwisko	
 Gierki	Gierek	depr:pl:nom:m2	nazwisko	
 Gierki	Gierek	depr:pl:voc:m2	nazwisko	
 Gierkom	Gierek	subst:pl:dat:m1	nazwisko	
@@ -2794,6 +2889,7 @@ Giertychów	Giertych	subst:pl:acc:m1	nazwisko
 Giertychów	Giertych	subst:pl:gen:m1	nazwisko	
 Giertychu	Giertych	subst:sg:loc:m1	nazwisko	
 Giertychu	Giertych	subst:sg:voc:m1	nazwisko	
+Giertychy	Giertych	depr:pl:acc:m2	nazwisko	
 Giertychy	Giertych	depr:pl:nom:m2	nazwisko	
 Giertychy	Giertych	depr:pl:voc:m2	nazwisko	
 Gierymscy	Gierymski	subst:pl:nom:m1	nazwisko	
@@ -2801,6 +2897,7 @@ Gierymscy	Gierymski	subst:pl:voc:m1	nazwisko
 Gierymskich	Gierymski	subst:pl:acc:m1	nazwisko	
 Gierymskich	Gierymski	subst:pl:gen:m1	nazwisko	
 Gierymskich	Gierymski	subst:pl:loc:m1	nazwisko	
+Gierymskie	Gierymski	depr:pl:acc:m2	nazwisko	
 Gierymskie	Gierymski	depr:pl:nom:m2	nazwisko	
 Gierymskie	Gierymski	depr:pl:voc:m2	nazwisko	
 Gierymskiego	Gierymski	subst:sg:acc:m1	nazwisko	
@@ -2838,6 +2935,7 @@ Gieysztorowie	Gieysztor	subst:pl:voc:m1	nazwisko
 Gieysztorowi	Gieysztor	subst:sg:dat:m1	nazwisko	
 Gieysztorów	Gieysztor	subst:pl:acc:m1	nazwisko	
 Gieysztorów	Gieysztor	subst:pl:gen:m1	nazwisko	
+Gieysztory	Gieysztor	depr:pl:acc:m2	nazwisko	
 Gieysztory	Gieysztor	depr:pl:nom:m2	nazwisko	
 Gieysztory	Gieysztor	depr:pl:voc:m2	nazwisko	
 Gieysztorze	Gieysztor	subst:sg:loc:m1	nazwisko	
@@ -2848,6 +2946,7 @@ Gilach	Gil	subst:pl:loc:m1	nazwisko
 Gila	Gil	subst:sg:acc:m1	nazwisko	
 Gila	Gil	subst:sg:gen:m1	nazwisko	
 Gilami	Gil	subst:pl:inst:m1	nazwisko	
+Gile	Gil	depr:pl:acc:m2	nazwisko	
 Gile	Gil	depr:pl:nom:m2	nazwisko	
 Gile	Gil	depr:pl:voc:m2	nazwisko	
 Gilem	Gil	subst:sg:inst:m1	nazwisko	
@@ -2876,6 +2975,7 @@ Gilbertowie	Gilbert	subst:pl:voc:m1	imię
 Gilbertowi	Gilbert	subst:sg:dat:m1	imię	
 Gilbertów	Gilbert	subst:pl:acc:m1	imię	
 Gilbertów	Gilbert	subst:pl:gen:m1	imię	
+Gilberty	Gilbert	depr:pl:acc:m2	imię	
 Gilberty	Gilbert	depr:pl:nom:m2	imię	
 Gilberty	Gilbert	depr:pl:voc:m2	imię	
 Gildach	Gilda	subst:pl:loc:f	imię	
@@ -2895,6 +2995,7 @@ Gildzie	Gilda	subst:sg:loc:f	imię
 Gillespiech	Gillespie	subst:pl:acc:m1	nazwisko	
 Gillespiech	Gillespie	subst:pl:gen:m1	nazwisko	
 Gillespiech	Gillespie	subst:pl:loc:m1	nazwisko	
+Gillespie	Gillespie	depr:pl:acc:m2	nazwisko	
 Gillespie	Gillespie	depr:pl:nom:m2	nazwisko	
 Gillespie	Gillespie	depr:pl:voc:m2	nazwisko	
 Gillespie	Gillespie	subst:pl:nom:m1	nazwisko	
@@ -2928,6 +3029,7 @@ Ginsberga	Ginsberg	subst:sg:gen:m1	nazwisko
 Ginsbergami	Ginsberg	subst:pl:inst:m1	nazwisko	
 Ginsberg	Ginsberg	subst:sg:nom:m1	nazwisko	
 Ginsbergiem	Ginsberg	subst:sg:inst:m1	nazwisko	
+Ginsbergi	Ginsberg	depr:pl:acc:m2	nazwisko	
 Ginsbergi	Ginsberg	depr:pl:nom:m2	nazwisko	
 Ginsbergi	Ginsberg	depr:pl:voc:m2	nazwisko	
 Ginsbergom	Ginsberg	subst:pl:dat:m1	nazwisko	
@@ -2950,6 +3052,7 @@ Ginterowie	Ginter	subst:pl:voc:m1	imię
 Ginterowi	Ginter	subst:sg:dat:m1	imię	
 Ginterów	Ginter	subst:pl:acc:m1	imię	
 Ginterów	Ginter	subst:pl:gen:m1	imię	
+Gintery	Ginter	depr:pl:acc:m2	imię	
 Gintery	Ginter	depr:pl:nom:m2	imię	
 Gintery	Ginter	depr:pl:voc:m2	imię	
 Ginterze	Ginter	subst:sg:loc:m1	imię	
@@ -2998,10 +3101,12 @@ Giordanowie	Giordano	subst:pl:voc:m1	imię
 Giordanowi	Giordano	subst:sg:dat:m1	imię	
 Giordanów	Giordano	subst:pl:acc:m1	imię	
 Giordanów	Giordano	subst:pl:gen:m1	imię	
+Giordany	Giordano	depr:pl:acc:m2	imię	
 Giordany	Giordano	depr:pl:nom:m2	imię	
 Giordany	Giordano	depr:pl:voc:m2	imię	
 Giorgionach	Giorgione	subst:pl:loc:m1	nazwisko	
 Giorgionami	Giorgione	subst:pl:inst:m1	nazwisko	
+Giorgione	Giorgione	depr:pl:acc:m2	nazwisko	
 Giorgione	Giorgione	depr:pl:nom:m2	nazwisko	
 Giorgione	Giorgione	depr:pl:voc:m2	nazwisko	
 Giorgione	Giorgione	subst:sg:nom:m1	nazwisko	
@@ -3018,6 +3123,7 @@ Giorgionów	Giorgione	subst:pl:acc:m1	nazwisko
 Giorgionów	Giorgione	subst:pl:gen:m1	nazwisko	
 Giotcie	Giotto	subst:sg:loc:m1	nazwisko	
 Giottach	Giotto	subst:pl:loc:m1	nazwisko	
+Giotta	Giotto	depr:pl:acc:m2	nazwisko	
 Giotta	Giotto	depr:pl:nom:m2	nazwisko	
 Giotta	Giotto	depr:pl:voc:m2	nazwisko	
 Giotta	Giotto	subst:sg:acc:m1	nazwisko	
@@ -3032,6 +3138,7 @@ Giottowie	Giotto	subst:pl:voc:m1	nazwisko
 Giottowi	Giotto	subst:sg:dat:m1	nazwisko	
 Giottów	Giotto	subst:pl:acc:m1	nazwisko	
 Giottów	Giotto	subst:pl:gen:m1	nazwisko	
+Giraudoux	Giraudoux	depr:pl:acc:m2	nazwisko	
 Giraudoux	Giraudoux	depr:pl:nom:m2	nazwisko	
 Giraudoux	Giraudoux	depr:pl:voc:m2	nazwisko	
 Giraudoux	Giraudoux	subst:pl:acc:m1	nazwisko	
@@ -3060,10 +3167,12 @@ Giscardowie	Giscard	subst:pl:voc:m1	nazwisko
 Giscardowi	Giscard	subst:sg:dat:m1	nazwisko	
 Giscardów	Giscard	subst:pl:acc:m1	nazwisko	
 Giscardów	Giscard	subst:pl:gen:m1	nazwisko	
+Giscardy	Giscard	depr:pl:acc:m2	nazwisko	
 Giscardy	Giscard	depr:pl:nom:m2	nazwisko	
 Giscardy	Giscard	depr:pl:voc:m2	nazwisko	
 Giscardzie	Giscard	subst:sg:loc:m1	nazwisko	
 Giscardzie	Giscard	subst:sg:voc:m1	nazwisko	
+Giuseppe	Giuseppe	depr:pl:acc:m2	imię	
 Giuseppe	Giuseppe	depr:pl:nom:m2	imię	
 Giuseppe	Giuseppe	depr:pl:voc:m2	imię	
 Giuseppe	Giuseppe	subst:pl:acc:m1	imię	
@@ -3115,6 +3224,7 @@ Gizińscy	Giziński	subst:pl:voc:m1	nazwisko
 Gizińskich	Giziński	subst:pl:acc:m1	nazwisko	
 Gizińskich	Giziński	subst:pl:gen:m1	nazwisko	
 Gizińskich	Giziński	subst:pl:loc:m1	nazwisko	
+Gizińskie	Giziński	depr:pl:acc:m2	nazwisko	
 Gizińskie	Giziński	depr:pl:nom:m2	nazwisko	
 Gizińskie	Giziński	depr:pl:voc:m2	nazwisko	
 Gizińskiego	Giziński	subst:sg:acc:m1	nazwisko	
@@ -3201,6 +3311,7 @@ Glapińscy	Glapiński	subst:pl:voc:m1	nazwisko
 Glapińskich	Glapiński	subst:pl:acc:m1	nazwisko	
 Glapińskich	Glapiński	subst:pl:gen:m1	nazwisko	
 Glapińskich	Glapiński	subst:pl:loc:m1	nazwisko	
+Glapińskie	Glapiński	depr:pl:acc:m2	nazwisko	
 Glapińskie	Glapiński	depr:pl:nom:m2	nazwisko	
 Glapińskie	Glapiński	depr:pl:voc:m2	nazwisko	
 Glapińskiego	Glapiński	subst:sg:acc:m1	nazwisko	
@@ -3240,6 +3351,7 @@ Glebowie	Gleb	subst:pl:voc:m1	imię
 Glebowi	Gleb	subst:sg:dat:m1	imię	
 Glebów	Gleb	subst:pl:acc:m1	imię	
 Glebów	Gleb	subst:pl:gen:m1	imię	
+Gleby	Gleb	depr:pl:acc:m2	imię	
 Gleby	Gleb	depr:pl:nom:m2	imię	
 Gleby	Gleb	depr:pl:voc:m2	imię	
 Glempach	Glemp	subst:pl:loc:m1	nazwisko	
@@ -3256,6 +3368,7 @@ Glempowie	Glemp	subst:pl:voc:m1	nazwisko
 Glempowi	Glemp	subst:sg:dat:m1	nazwisko	
 Glempów	Glemp	subst:pl:acc:m1	nazwisko	
 Glempów	Glemp	subst:pl:gen:m1	nazwisko	
+Glempy	Glemp	depr:pl:acc:m2	nazwisko	
 Glempy	Glemp	depr:pl:nom:m2	nazwisko	
 Glempy	Glemp	depr:pl:voc:m2	nazwisko	
 Glińska	Glińska	subst:sg:nom:f	nazwisko	
@@ -3277,6 +3390,7 @@ Glińscy	Gliński	subst:pl:voc:m1	nazwisko
 Glińskich	Gliński	subst:pl:acc:m1	nazwisko	
 Glińskich	Gliński	subst:pl:gen:m1	nazwisko	
 Glińskich	Gliński	subst:pl:loc:m1	nazwisko	
+Glińskie	Gliński	depr:pl:acc:m2	nazwisko	
 Glińskie	Gliński	depr:pl:nom:m2	nazwisko	
 Glińskie	Gliński	depr:pl:voc:m2	nazwisko	
 Glińskiego	Gliński	subst:sg:acc:m1	nazwisko	
@@ -3314,6 +3428,7 @@ Glogerowie	Gloger	subst:pl:voc:m1	nazwisko
 Glogerowi	Gloger	subst:sg:dat:m1	nazwisko	
 Glogerów	Gloger	subst:pl:acc:m1	nazwisko	
 Glogerów	Gloger	subst:pl:gen:m1	nazwisko	
+Glogery	Gloger	depr:pl:acc:m2	nazwisko	
 Glogery	Gloger	depr:pl:nom:m2	nazwisko	
 Glogery	Gloger	depr:pl:voc:m2	nazwisko	
 Glogerze	Gloger	subst:sg:loc:m1	nazwisko	
@@ -3337,6 +3452,7 @@ Glotzach	Glotz	subst:pl:loc:m1	nazwisko
 Glotza	Glotz	subst:sg:acc:m1	nazwisko	
 Glotza	Glotz	subst:sg:gen:m1	nazwisko	
 Glotzami	Glotz	subst:pl:inst:m1	nazwisko	
+Glotze	Glotz	depr:pl:acc:m2	nazwisko	
 Glotze	Glotz	depr:pl:nom:m2	nazwisko	
 Glotze	Glotz	depr:pl:voc:m2	nazwisko	
 Glotze	Glotz	subst:pl:nom:m1	nazwisko	
@@ -3357,6 +3473,7 @@ Glucka	Gluck	subst:sg:gen:m1	nazwisko
 Gluckami	Gluck	subst:pl:inst:m1	nazwisko	
 Gluck	Gluck	subst:sg:nom:m1	nazwisko	
 Gluckiem	Gluck	subst:sg:inst:m1	nazwisko	
+Glucki	Gluck	depr:pl:acc:m2	nazwisko	
 Glucki	Gluck	depr:pl:nom:m2	nazwisko	
 Glucki	Gluck	depr:pl:voc:m2	nazwisko	
 Gluckom	Gluck	subst:pl:dat:m1	nazwisko	
@@ -3430,6 +3547,7 @@ Głowaccy	Głowacki	subst:pl:voc:m1	nazwisko
 Głowackich	Głowacki	subst:pl:acc:m1	nazwisko	
 Głowackich	Głowacki	subst:pl:gen:m1	nazwisko	
 Głowackich	Głowacki	subst:pl:loc:m1	nazwisko	
+Głowackie	Głowacki	depr:pl:acc:m2	nazwisko	
 Głowackie	Głowacki	depr:pl:nom:m2	nazwisko	
 Głowackie	Głowacki	depr:pl:voc:m2	nazwisko	
 Głowackiego	Głowacki	subst:sg:acc:m1	nazwisko	
@@ -3475,6 +3593,7 @@ Głowińscy	Głowiński	subst:pl:voc:m1	nazwisko
 Głowińskich	Głowiński	subst:pl:acc:m1	nazwisko	
 Głowińskich	Głowiński	subst:pl:gen:m1	nazwisko	
 Głowińskich	Głowiński	subst:pl:loc:m1	nazwisko	
+Głowińskie	Głowiński	depr:pl:acc:m2	nazwisko	
 Głowińskie	Głowiński	depr:pl:nom:m2	nazwisko	
 Głowińskie	Głowiński	depr:pl:voc:m2	nazwisko	
 Głowińskiego	Głowiński	subst:sg:acc:m1	nazwisko	
@@ -3613,6 +3732,7 @@ Gneisenauowie	Gneisenau	subst:pl:voc:m1	nazwisko
 Gneisenauowi	Gneisenau	subst:sg:dat:m1	nazwisko	
 Gneisenauów	Gneisenau	subst:pl:acc:m1	nazwisko	
 Gneisenauów	Gneisenau	subst:pl:gen:m1	nazwisko	
+Gneisenauy	Gneisenau	depr:pl:acc:m2	nazwisko	
 Gneisenauy	Gneisenau	depr:pl:nom:m2	nazwisko	
 Gneisenauy	Gneisenau	depr:pl:voc:m2	nazwisko	
 Gniewkowach	Gniewkowo	subst:pl:loc:n:ncol	nazwa geograficzna	
@@ -3643,6 +3763,7 @@ Gniewomirowie	Gniewomir	subst:pl:voc:m1	imię
 Gniewomirowi	Gniewomir	subst:sg:dat:m1	imię	
 Gniewomirów	Gniewomir	subst:pl:acc:m1	imię	
 Gniewomirów	Gniewomir	subst:pl:gen:m1	imię	
+Gniewomiry	Gniewomir	depr:pl:acc:m2	imię	
 Gniewomiry	Gniewomir	depr:pl:nom:m2	imię	
 Gniewomiry	Gniewomir	depr:pl:voc:m2	imię	
 Gniewomirze	Gniewomir	subst:sg:loc:m1	imię	
@@ -3653,6 +3774,7 @@ Gniewoszach	Gniewosz	subst:pl:loc:m1	imię
 Gniewosza	Gniewosz	subst:sg:acc:m1	imię	
 Gniewosza	Gniewosz	subst:sg:gen:m1	imię	
 Gniewoszami	Gniewosz	subst:pl:inst:m1	imię	
+Gniewosze	Gniewosz	depr:pl:acc:m2	imię	
 Gniewosze	Gniewosz	depr:pl:nom:m2	imię	
 Gniewosze	Gniewosz	depr:pl:voc:m2	imię	
 Gniewosze	Gniewosz	subst:pl:nom:m1	imię	
@@ -3708,6 +3830,7 @@ Goarowie	Goar	subst:pl:voc:m1	imię
 Goarowi	Goar	subst:sg:dat:m1	imię	
 Goarów	Goar	subst:pl:acc:m1	imię	
 Goarów	Goar	subst:pl:gen:m1	imię	
+Goary	Goar	depr:pl:acc:m2	imię	
 Goary	Goar	depr:pl:nom:m2	imię	
 Goary	Goar	depr:pl:voc:m2	imię	
 Goarze	Goar	subst:sg:loc:m1	imię	
@@ -3758,6 +3881,7 @@ Gocisławowie	Gocisław	subst:pl:voc:m1	imię
 Gocisławowi	Gocisław	subst:sg:dat:m1	imię	
 Gocisławów	Gocisław	subst:pl:acc:m1	imię	
 Gocisławów	Gocisław	subst:pl:gen:m1	imię	
+Gocisławy	Gocisław	depr:pl:acc:m2	imię	
 Gocisławy	Gocisław	depr:pl:nom:m2	imię	
 Gocisławy	Gocisław	depr:pl:voc:m2	imię	
 Gocłowska	Gocłowska	subst:sg:nom:f	nazwisko	
@@ -3779,6 +3903,7 @@ Gocłowscy	Gocłowski	subst:pl:voc:m1	nazwisko
 Gocłowskich	Gocłowski	subst:pl:acc:m1	nazwisko	
 Gocłowskich	Gocłowski	subst:pl:gen:m1	nazwisko	
 Gocłowskich	Gocłowski	subst:pl:loc:m1	nazwisko	
+Gocłowskie	Gocłowski	depr:pl:acc:m2	nazwisko	
 Gocłowskie	Gocłowski	depr:pl:nom:m2	nazwisko	
 Gocłowskie	Gocłowski	depr:pl:voc:m2	nazwisko	
 Gocłowskiego	Gocłowski	subst:sg:acc:m1	nazwisko	
@@ -3823,6 +3948,7 @@ Godebscy	Godebski	subst:pl:voc:m1	nazwisko
 Godebskich	Godebski	subst:pl:acc:m1	nazwisko	
 Godebskich	Godebski	subst:pl:gen:m1	nazwisko	
 Godebskich	Godebski	subst:pl:loc:m1	nazwisko	
+Godebskie	Godebski	depr:pl:acc:m2	nazwisko	
 Godebskie	Godebski	depr:pl:nom:m2	nazwisko	
 Godebskie	Godebski	depr:pl:voc:m2	nazwisko	
 Godebskiego	Godebski	subst:sg:acc:m1	nazwisko	
@@ -3846,6 +3972,7 @@ Godfrydowie	Godfryd	subst:pl:voc:m1	imię
 Godfrydowi	Godfryd	subst:sg:dat:m1	imię	
 Godfrydów	Godfryd	subst:pl:acc:m1	imię	
 Godfrydów	Godfryd	subst:pl:gen:m1	imię	
+Godfrydy	Godfryd	depr:pl:acc:m2	imię	
 Godfrydy	Godfryd	depr:pl:nom:m2	imię	
 Godfrydy	Godfryd	depr:pl:voc:m2	imię	
 Godfrydzie	Godfryd	subst:sg:loc:m1	imię	
@@ -3887,6 +4014,7 @@ Godlewscy	Godlewski	subst:pl:voc:m1	nazwisko
 Godlewskich	Godlewski	subst:pl:acc:m1	nazwisko	
 Godlewskich	Godlewski	subst:pl:gen:m1	nazwisko	
 Godlewskich	Godlewski	subst:pl:loc:m1	nazwisko	
+Godlewskie	Godlewski	depr:pl:acc:m2	nazwisko	
 Godlewskie	Godlewski	depr:pl:nom:m2	nazwisko	
 Godlewskie	Godlewski	depr:pl:voc:m2	nazwisko	
 Godlewskiego	Godlewski	subst:sg:acc:m1	nazwisko	
@@ -3912,6 +4040,7 @@ Godotowie	Godot	subst:pl:voc:m1	nazwa własna osoby
 Godotowi	Godot	subst:sg:dat:m1	nazwa własna osoby	
 Godotów	Godot	subst:pl:acc:m1	nazwa własna osoby	
 Godotów	Godot	subst:pl:gen:m1	nazwa własna osoby	
+Godoty	Godot	depr:pl:acc:m2	nazwa własna osoby	
 Godoty	Godot	depr:pl:nom:m2	nazwa własna osoby	
 Godoty	Godot	depr:pl:voc:m2	nazwa własna osoby	
 Godowach	Godów	subst:pl:loc:m3	nazwa geograficzna	
@@ -3943,6 +4072,7 @@ Godunowowie	Godunow	subst:pl:voc:m1	nazwisko
 Godunowowi	Godunow	subst:sg:dat:m1	nazwisko	
 Godunowów	Godunow	subst:pl:acc:m1	nazwisko	
 Godunowów	Godunow	subst:pl:gen:m1	nazwisko	
+Godunowy	Godunow	depr:pl:acc:m2	nazwisko	
 Godunowy	Godunow	depr:pl:nom:m2	nazwisko	
 Godunowy	Godunow	depr:pl:voc:m2	nazwisko	
 Godzianowach	Godzianów	subst:pl:loc:m3	nazwa geograficzna	
@@ -3966,6 +4096,7 @@ Godźka	Godziek	subst:sg:acc:m1	nazwisko
 Godźka	Godziek	subst:sg:gen:m1	nazwisko	
 Godźkami	Godziek	subst:pl:inst:m1	nazwisko	
 Godźkiem	Godziek	subst:sg:inst:m1	nazwisko	
+Godźki	Godziek	depr:pl:acc:m2	nazwisko	
 Godźki	Godziek	depr:pl:nom:m2	nazwisko	
 Godźki	Godziek	depr:pl:voc:m2	nazwisko	
 Godźkom	Godziek	subst:pl:dat:m1	nazwisko	
@@ -3988,6 +4119,7 @@ Godzimirowie	Godzimir	subst:pl:voc:m1	imię
 Godzimirowi	Godzimir	subst:sg:dat:m1	imię	
 Godzimirów	Godzimir	subst:pl:acc:m1	imię	
 Godzimirów	Godzimir	subst:pl:gen:m1	imię	
+Godzimiry	Godzimir	depr:pl:acc:m2	imię	
 Godzimiry	Godzimir	depr:pl:nom:m2	imię	
 Godzimiry	Godzimir	depr:pl:voc:m2	imię	
 Godzimirze	Godzimir	subst:sg:loc:m1	imię	
@@ -4010,6 +4142,7 @@ Godzisławowie	Godzisław	subst:pl:voc:m1	imię
 Godzisławowi	Godzisław	subst:sg:dat:m1	imię	
 Godzisławów	Godzisław	subst:pl:acc:m1	imię	
 Godzisławów	Godzisław	subst:pl:gen:m1	imię	
+Godzisławy	Godzisław	depr:pl:acc:m2	imię	
 Godzisławy	Godzisław	depr:pl:nom:m2	imię	
 Godzisławy	Godzisław	depr:pl:voc:m2	imię	
 Godzisławach	Godzisława	subst:pl:loc:f	imię	
@@ -4030,6 +4163,7 @@ Godziszach	Godzisz	subst:pl:loc:m1	imię
 Godzisza	Godzisz	subst:sg:acc:m1	imię	
 Godzisza	Godzisz	subst:sg:gen:m1	imię	
 Godziszami	Godzisz	subst:pl:inst:m1	imię	
+Godzisze	Godzisz	depr:pl:acc:m2	imię	
 Godzisze	Godzisz	depr:pl:nom:m2	imię	
 Godzisze	Godzisz	depr:pl:voc:m2	imię	
 Godzisze	Godzisz	subst:pl:nom:m1	imię	
@@ -4073,6 +4207,7 @@ Goebbelsowie	Goebbels	subst:pl:voc:m1	nazwisko
 Goebbelsowi	Goebbels	subst:sg:dat:m1	nazwisko	
 Goebbelsów	Goebbels	subst:pl:acc:m1	nazwisko	
 Goebbelsów	Goebbels	subst:pl:gen:m1	nazwisko	
+Goebbelsy	Goebbels	depr:pl:acc:m2	nazwisko	
 Goebbelsy	Goebbels	depr:pl:nom:m2	nazwisko	
 Goebbelsy	Goebbels	depr:pl:voc:m2	nazwisko	
 Goetel	Goetel	subst:sg:nom:m1	nazwisko	
@@ -4080,6 +4215,7 @@ Goetlach	Goetel	subst:pl:loc:m1	nazwisko
 Goetla	Goetel	subst:sg:acc:m1	nazwisko	
 Goetla	Goetel	subst:sg:gen:m1	nazwisko	
 Goetlami	Goetel	subst:pl:inst:m1	nazwisko	
+Goetle	Goetel	depr:pl:acc:m2	nazwisko	
 Goetle	Goetel	depr:pl:nom:m2	nazwisko	
 Goetle	Goetel	depr:pl:voc:m2	nazwisko	
 Goetlem	Goetel	subst:sg:inst:m1	nazwisko	
@@ -4093,6 +4229,7 @@ Goetlu	Goetel	subst:sg:loc:m1	nazwisko
 Goetlu	Goetel	subst:sg:voc:m1	nazwisko	
 Goethach	Goethe	subst:pl:loc:m1	nazwisko	
 Goethami	Goethe	subst:pl:inst:m1	nazwisko	
+Goethe	Goethe	depr:pl:acc:m2	nazwisko	
 Goethe	Goethe	depr:pl:nom:m2	nazwisko	
 Goethe	Goethe	depr:pl:voc:m2	nazwisko	
 Goethe	Goethe	subst:sg:nom:m1	nazwisko	
@@ -4113,6 +4250,7 @@ Gogha	Gogh	subst:sg:gen:m1	nazwisko
 Goghami	Gogh	subst:pl:inst:m1	nazwisko	
 Gogh	Gogh	subst:sg:nom:m1	nazwisko	
 Goghiem	Gogh	subst:sg:inst:m1	nazwisko	
+Goghi	Gogh	depr:pl:acc:m2	nazwisko	
 Goghi	Gogh	depr:pl:nom:m2	nazwisko	
 Goghi	Gogh	depr:pl:voc:m2	nazwisko	
 Goghom	Gogh	subst:pl:dat:m1	nazwisko	
@@ -4127,6 +4265,7 @@ Gogolach	Gogol	subst:pl:loc:m1	nazwisko
 Gogola	Gogol	subst:sg:acc:m1	nazwisko	
 Gogola	Gogol	subst:sg:gen:m1	nazwisko	
 Gogolami	Gogol	subst:pl:inst:m1	nazwisko	
+Gogole	Gogol	depr:pl:acc:m2	nazwisko	
 Gogole	Gogol	depr:pl:nom:m2	nazwisko	
 Gogole	Gogol	depr:pl:voc:m2	nazwisko	
 Gogolem	Gogol	subst:sg:inst:m1	nazwisko	
@@ -4160,6 +4299,7 @@ Gojawiczyńskich	Gojawiczyński	subst:pl:gen:m1	nazwisko
 Gojawiczyńskich	Gojawiczyński	subst:pl:loc:m1	nazwisko	
 Gojawiczyńskiego	Gojawiczyński	subst:sg:acc:m1	nazwisko	
 Gojawiczyńskiego	Gojawiczyński	subst:sg:gen:m1	nazwisko	
+Gojawiczyńskie	Gojawiczyński	depr:pl:acc:m2	nazwisko	
 Gojawiczyńskie	Gojawiczyński	depr:pl:nom:m2	nazwisko	
 Gojawiczyńskie	Gojawiczyński	depr:pl:voc:m2	nazwisko	
 Gojawiczyńskiemu	Gojawiczyński	subst:sg:dat:m1	nazwisko	
@@ -4190,6 +4330,7 @@ Golańskich	Golański	subst:pl:gen:m1	nazwisko
 Golańskich	Golański	subst:pl:loc:m1	nazwisko	
 Golańskiego	Golański	subst:sg:acc:m1	nazwisko	
 Golańskiego	Golański	subst:sg:gen:m1	nazwisko	
+Golańskie	Golański	depr:pl:acc:m2	nazwisko	
 Golańskie	Golański	depr:pl:nom:m2	nazwisko	
 Golańskie	Golański	depr:pl:voc:m2	nazwisko	
 Golańskiemu	Golański	subst:sg:dat:m1	nazwisko	
@@ -4232,6 +4373,7 @@ Goldonich	Goldoni	subst:pl:gen:m1	nazwisko
 Goldonich	Goldoni	subst:pl:loc:m1	nazwisko	
 Goldoniego	Goldoni	subst:sg:acc:m1	nazwisko	
 Goldoniego	Goldoni	subst:sg:gen:m1	nazwisko	
+Goldonie	Goldoni	depr:pl:acc:m2	nazwisko	
 Goldonie	Goldoni	depr:pl:nom:m2	nazwisko	
 Goldonie	Goldoni	depr:pl:voc:m2	nazwisko	
 Goldoniemu	Goldoni	subst:sg:dat:m1	nazwisko	
@@ -4249,6 +4391,7 @@ Golcach	Golec	subst:pl:loc:m1	nazwisko
 Golca	Golec	subst:sg:acc:m1	nazwisko	
 Golca	Golec	subst:sg:gen:m1	nazwisko	
 Golcami	Golec	subst:pl:inst:m1	nazwisko	
+Golce	Golec	depr:pl:acc:m2	nazwisko	
 Golce	Golec	depr:pl:nom:m2	nazwisko	
 Golce	Golec	depr:pl:voc:m2	nazwisko	
 Golcem	Golec	subst:sg:inst:m1	nazwisko	
@@ -4282,6 +4425,7 @@ Goleckich	Golecki	subst:pl:gen:m1	nazwisko
 Goleckich	Golecki	subst:pl:loc:m1	nazwisko	
 Goleckiego	Golecki	subst:sg:acc:m1	nazwisko	
 Goleckiego	Golecki	subst:sg:gen:m1	nazwisko	
+Goleckie	Golecki	depr:pl:acc:m2	nazwisko	
 Goleckie	Golecki	depr:pl:nom:m2	nazwisko	
 Goleckie	Golecki	depr:pl:voc:m2	nazwisko	
 Goleckiemu	Golecki	subst:sg:dat:m1	nazwisko	
@@ -4305,6 +4449,7 @@ Golemowie	Golem	subst:pl:voc:m1	imię
 Golemowi	Golem	subst:sg:dat:m1	imię	
 Golemów	Golem	subst:pl:acc:m1	imię	
 Golemów	Golem	subst:pl:gen:m1	imię	
+Golemy	Golem	depr:pl:acc:m2	imię	
 Golemy	Golem	depr:pl:nom:m2	imię	
 Golemy	Golem	depr:pl:voc:m2	imię	
 Goleniowach	Goleniów	subst:pl:loc:m3	nazwa geograficzna	
@@ -4341,6 +4486,7 @@ Golęszycach	Golęszyc	subst:pl:loc:m1	nazwa pospolita
 Golęszyca	Golęszyc	subst:sg:acc:m1	nazwa pospolita	
 Golęszyca	Golęszyc	subst:sg:gen:m1	nazwa pospolita	
 Golęszycami	Golęszyc	subst:pl:inst:m1	nazwa pospolita	
+Golęszyce	Golęszyc	depr:pl:acc:m2	nazwa pospolita	
 Golęszyce	Golęszyc	depr:pl:nom:m2	nazwa pospolita	
 Golęszyce	Golęszyc	depr:pl:voc:m2	nazwa pospolita	
 Golęszyce	Golęszyc	subst:pl:nom:m1	nazwa pospolita	
@@ -4395,6 +4541,7 @@ Gollobowie	Gollob	subst:pl:voc:m1	nazwisko
 Gollobowi	Gollob	subst:sg:dat:m1	nazwisko	
 Gollobów	Gollob	subst:pl:acc:m1	nazwisko	
 Gollobów	Gollob	subst:pl:gen:m1	nazwisko	
+Golloby	Gollob	depr:pl:acc:m2	nazwisko	
 Golloby	Gollob	depr:pl:nom:m2	nazwisko	
 Golloby	Gollob	depr:pl:voc:m2	nazwisko	
 Golub	Golub	subst:sg:acc:m3	człon nazwy geograficznej	
@@ -4426,6 +4573,7 @@ Goluchów	Goluch	subst:pl:acc:m1	nazwisko
 Goluchów	Goluch	subst:pl:gen:m1	nazwisko	
 Goluchu	Goluch	subst:sg:loc:m1	nazwisko	
 Goluchu	Goluch	subst:sg:voc:m1	nazwisko	
+Goluchy	Goluch	depr:pl:acc:m2	nazwisko	
 Goluchy	Goluch	depr:pl:nom:m2	nazwisko	
 Goluchy	Goluch	depr:pl:voc:m2	nazwisko	
 Gołaszewska	Gołaszewska	subst:sg:nom:f	nazwisko	
@@ -4449,6 +4597,7 @@ Gołaszewskich	Gołaszewski	subst:pl:gen:m1	nazwisko
 Gołaszewskich	Gołaszewski	subst:pl:loc:m1	nazwisko	
 Gołaszewskiego	Gołaszewski	subst:sg:acc:m1	nazwisko	
 Gołaszewskiego	Gołaszewski	subst:sg:gen:m1	nazwisko	
+Gołaszewskie	Gołaszewski	depr:pl:acc:m2	nazwisko	
 Gołaszewskie	Gołaszewski	depr:pl:nom:m2	nazwisko	
 Gołaszewskie	Gołaszewski	depr:pl:voc:m2	nazwisko	
 Gołaszewskiemu	Gołaszewski	subst:sg:dat:m1	nazwisko	
@@ -4486,12 +4635,14 @@ Gołąbowie	Gołąb:s2	subst:pl:voc:m1	nazwisko
 Gołąbowi	Gołąb:s2	subst:sg:dat:m1	nazwisko	
 Gołąbów	Gołąb:s2	subst:pl:acc:m1	nazwisko	
 Gołąbów	Gołąb:s2	subst:pl:gen:m1	nazwisko	
+Gołąby	Gołąb:s2	depr:pl:acc:m2	nazwisko	
 Gołąby	Gołąb:s2	depr:pl:nom:m2	nazwisko	
 Gołąby	Gołąb:s2	depr:pl:voc:m2	nazwisko	
 Gołębiach	Gołąb:s2	subst:pl:loc:m1	nazwisko	
 Gołębia	Gołąb:s2	subst:sg:acc:m1	nazwisko	
 Gołębia	Gołąb:s2	subst:sg:gen:m1	nazwisko	
 Gołębiami	Gołąb:s2	subst:pl:inst:m1	nazwisko	
+Gołębie	Gołąb:s2	depr:pl:acc:m2	nazwisko	
 Gołębie	Gołąb:s2	depr:pl:nom:m2	nazwisko	
 Gołębie	Gołąb:s2	depr:pl:voc:m2	nazwisko	
 Gołębiem	Gołąb:s2	subst:sg:inst:m1	nazwisko	
@@ -4535,6 +4686,7 @@ Gołdyniach	Gołdynia	subst:pl:loc:m1	nazwisko
 Gołdynia	Gołdynia	subst:sg:nom:m1	nazwisko	
 Gołdyniami	Gołdynia	subst:pl:inst:m1	nazwisko	
 Gołdynią	Gołdynia	subst:sg:inst:m1	nazwisko	
+Gołdynie	Gołdynia	depr:pl:acc:m2	nazwisko	
 Gołdynie	Gołdynia	depr:pl:nom:m2	nazwisko	
 Gołdynie	Gołdynia	depr:pl:voc:m2	nazwisko	
 Gołdynię	Gołdynia	subst:sg:acc:m1	nazwisko	
@@ -4551,6 +4703,7 @@ Gołdyniach	Gołdyń	subst:pl:loc:m1	nazwisko
 Gołdynia	Gołdyń	subst:sg:acc:m1	nazwisko	
 Gołdynia	Gołdyń	subst:sg:gen:m1	nazwisko	
 Gołdyniami	Gołdyń	subst:pl:inst:m1	nazwisko	
+Gołdynie	Gołdyń	depr:pl:acc:m2	nazwisko	
 Gołdynie	Gołdyń	depr:pl:nom:m2	nazwisko	
 Gołdynie	Gołdyń	depr:pl:voc:m2	nazwisko	
 Gołdyniem	Gołdyń	subst:sg:inst:m1	nazwisko	
@@ -4584,6 +4737,7 @@ Gołębiewskich	Gołębiewski	subst:pl:gen:m1	nazwisko
 Gołębiewskich	Gołębiewski	subst:pl:loc:m1	nazwisko	
 Gołębiewskiego	Gołębiewski	subst:sg:acc:m1	nazwisko	
 Gołębiewskiego	Gołębiewski	subst:sg:gen:m1	nazwisko	
+Gołębiewskie	Gołębiewski	depr:pl:acc:m2	nazwisko	
 Gołębiewskie	Gołębiewski	depr:pl:nom:m2	nazwisko	
 Gołębiewskie	Gołębiewski	depr:pl:voc:m2	nazwisko	
 Gołębiewskiemu	Gołębiewski	subst:sg:dat:m1	nazwisko	
@@ -4614,6 +4768,7 @@ Gołębiowskich	Gołębiowski	subst:pl:gen:m1	nazwisko
 Gołębiowskich	Gołębiowski	subst:pl:loc:m1	nazwisko	
 Gołębiowskiego	Gołębiowski	subst:sg:acc:m1	nazwisko	
 Gołębiowskiego	Gołębiowski	subst:sg:gen:m1	nazwisko	
+Gołębiowskie	Gołębiowski	depr:pl:acc:m2	nazwisko	
 Gołębiowskie	Gołębiowski	depr:pl:nom:m2	nazwisko	
 Gołębiowskie	Gołębiowski	depr:pl:voc:m2	nazwisko	
 Gołębiowskiemu	Gołębiowski	subst:sg:dat:m1	nazwisko	
@@ -4636,6 +4791,7 @@ Gołotowie	Gołota	subst:pl:nom:m1	nazwisko
 Gołotowie	Gołota	subst:pl:voc:m1	nazwisko	
 Gołotów	Gołota	subst:pl:acc:m1	nazwisko	
 Gołotów	Gołota	subst:pl:gen:m1	nazwisko	
+Gołoty	Gołota	depr:pl:acc:m2	nazwisko	
 Gołoty	Gołota	depr:pl:nom:m2	nazwisko	
 Gołoty	Gołota	depr:pl:voc:m2	nazwisko	
 Gołoty	Gołota	subst:sg:gen:m1	nazwisko	
@@ -4653,6 +4809,7 @@ Gołubiewowie	Gołubiew	subst:pl:voc:m1	nazwisko
 Gołubiewowi	Gołubiew	subst:sg:dat:m1	nazwisko	
 Gołubiewów	Gołubiew	subst:pl:acc:m1	nazwisko	
 Gołubiewów	Gołubiew	subst:pl:gen:m1	nazwisko	
+Gołubiewy	Gołubiew	depr:pl:acc:m2	nazwisko	
 Gołubiewy	Gołubiew	depr:pl:nom:m2	nazwisko	
 Gołubiewy	Gołubiew	depr:pl:voc:m2	nazwisko	
 Gołuchowach	Gołuchów	subst:pl:loc:m3	nazwa geograficzna	
@@ -4674,6 +4831,7 @@ Gombrowiczach	Gombrowicz	subst:pl:loc:m1	nazwisko
 Gombrowicza	Gombrowicz	subst:sg:acc:m1	nazwisko	
 Gombrowicza	Gombrowicz	subst:sg:gen:m1	nazwisko	
 Gombrowiczami	Gombrowicz	subst:pl:inst:m1	nazwisko	
+Gombrowicze	Gombrowicz	depr:pl:acc:m2	nazwisko	
 Gombrowicze	Gombrowicz	depr:pl:nom:m2	nazwisko	
 Gombrowicze	Gombrowicz	depr:pl:voc:m2	nazwisko	
 Gombrowicze	Gombrowicz	subst:pl:nom:m1	nazwisko	
@@ -4695,6 +4853,7 @@ Gomółka	Gomółka	subst:sg:nom:m1	nazwisko
 Gomółkami	Gomółka	subst:pl:inst:m1	nazwisko	
 Gomółką	Gomółka	subst:sg:inst:m1	nazwisko	
 Gomółkę	Gomółka	subst:sg:acc:m1	nazwisko	
+Gomółki	Gomółka	depr:pl:acc:m2	nazwisko	
 Gomółki	Gomółka	depr:pl:nom:m2	nazwisko	
 Gomółki	Gomółka	depr:pl:voc:m2	nazwisko	
 Gomółki	Gomółka	subst:sg:gen:m1	nazwisko	
@@ -4711,6 +4870,7 @@ Gomułka	Gomułka	subst:sg:nom:m1	nazwisko
 Gomułkami	Gomułka	subst:pl:inst:m1	nazwisko	
 Gomułką	Gomułka	subst:sg:inst:m1	nazwisko	
 Gomułkę	Gomułka	subst:sg:acc:m1	nazwisko	
+Gomułki	Gomułka	depr:pl:acc:m2	nazwisko	
 Gomułki	Gomułka	depr:pl:nom:m2	nazwisko	
 Gomułki	Gomułka	depr:pl:voc:m2	nazwisko	
 Gomułki	Gomułka	subst:sg:gen:m1	nazwisko	
@@ -4748,6 +4908,7 @@ Goncourtowie	Goncourt	subst:pl:voc:m1	nazwisko
 Goncourtowi	Goncourt	subst:sg:dat:m1	nazwisko	
 Goncourtów	Goncourt	subst:pl:acc:m1	nazwisko	
 Goncourtów	Goncourt	subst:pl:gen:m1	nazwisko	
+Goncourty	Goncourt	depr:pl:acc:m2	nazwisko	
 Goncourty	Goncourt	depr:pl:nom:m2	nazwisko	
 Goncourty	Goncourt	depr:pl:voc:m2	nazwisko	
 Gontarska	Gontarska	subst:sg:nom:f	nazwisko	
@@ -4771,6 +4932,7 @@ Gontarskich	Gontarski	subst:pl:gen:m1	nazwisko
 Gontarskich	Gontarski	subst:pl:loc:m1	nazwisko	
 Gontarskiego	Gontarski	subst:sg:acc:m1	nazwisko	
 Gontarskiego	Gontarski	subst:sg:gen:m1	nazwisko	
+Gontarskie	Gontarski	depr:pl:acc:m2	nazwisko	
 Gontarskie	Gontarski	depr:pl:nom:m2	nazwisko	
 Gontarskie	Gontarski	depr:pl:voc:m2	nazwisko	
 Gontarskiemu	Gontarski	subst:sg:dat:m1	nazwisko	
@@ -4815,6 +4977,7 @@ Goplaninie	Goplanin	subst:sg:loc:m1	nazwa pospolita
 Goplaninie	Goplanin	subst:sg:voc:m1	nazwa pospolita	
 Goplaninowi	Goplanin	subst:sg:dat:m1	nazwa pospolita	
 Goplanom	Goplanin	subst:pl:dat:m1	nazwa pospolita	
+Goplany	Goplanin	depr:pl:acc:m2	nazwa pospolita	
 Goplany	Goplanin	depr:pl:nom:m2	nazwa pospolita	
 Goplany	Goplanin	depr:pl:voc:m2	nazwa pospolita	
 Gopeł	Gopło	subst:pl:gen:n:ncol	nazwa geograficzna	
@@ -4857,6 +5020,7 @@ Gorazdowie	Gorazd	subst:pl:voc:m1	imię
 Gorazdowi	Gorazd	subst:sg:dat:m1	imię	
 Gorazdów	Gorazd	subst:pl:acc:m1	imię	
 Gorazdów	Gorazd	subst:pl:gen:m1	imię	
+Gorazdy	Gorazd	depr:pl:acc:m2	imię	
 Gorazdy	Gorazd	depr:pl:nom:m2	imię	
 Gorazdy	Gorazd	depr:pl:voc:m2	imię	
 Goraździe	Gorazd	subst:sg:loc:m1	imię	
@@ -4875,6 +5039,7 @@ Gorbaczowowie	Gorbaczow	subst:pl:voc:m1	nazwisko
 Gorbaczowowi	Gorbaczow	subst:sg:dat:m1	nazwisko	
 Gorbaczowów	Gorbaczow	subst:pl:acc:m1	nazwisko	
 Gorbaczowów	Gorbaczow	subst:pl:gen:m1	nazwisko	
+Gorbaczowy	Gorbaczow	depr:pl:acc:m2	nazwisko	
 Gorbaczowy	Gorbaczow	depr:pl:nom:m2	nazwisko	
 Gorbaczowy	Gorbaczow	depr:pl:voc:m2	nazwisko	
 Gorcach	Gorce	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -4895,6 +5060,7 @@ Gorgoncjuszach	Gorgoncjusz	subst:pl:loc:m1	imię
 Gorgoncjusza	Gorgoncjusz	subst:sg:acc:m1	imię	
 Gorgoncjusza	Gorgoncjusz	subst:sg:gen:m1	imię	
 Gorgoncjuszami	Gorgoncjusz	subst:pl:inst:m1	imię	
+Gorgoncjusze	Gorgoncjusz	depr:pl:acc:m2	imię	
 Gorgoncjusze	Gorgoncjusz	depr:pl:nom:m2	imię	
 Gorgoncjusze	Gorgoncjusz	depr:pl:voc:m2	imię	
 Gorgoncjusze	Gorgoncjusz	subst:pl:nom:m1	imię	
@@ -4914,6 +5080,7 @@ Gorkich	Gorki	subst:pl:gen:m1	nazwisko
 Gorkich	Gorki	subst:pl:loc:m1	nazwisko	
 Gorkiego	Gorki	subst:sg:acc:m1	nazwisko	
 Gorkiego	Gorki	subst:sg:gen:m1	nazwisko	
+Gorkie	Gorki	depr:pl:acc:m2	nazwisko	
 Gorkie	Gorki	depr:pl:nom:m2	nazwisko	
 Gorkie	Gorki	depr:pl:voc:m2	nazwisko	
 Gorkiemu	Gorki	subst:sg:dat:m1	nazwisko	
@@ -4960,6 +5127,7 @@ Goryszewskich	Goryszewski	subst:pl:gen:m1	nazwisko
 Goryszewskich	Goryszewski	subst:pl:loc:m1	nazwisko	
 Goryszewskiego	Goryszewski	subst:sg:acc:m1	nazwisko	
 Goryszewskiego	Goryszewski	subst:sg:gen:m1	nazwisko	
+Goryszewskie	Goryszewski	depr:pl:acc:m2	nazwisko	
 Goryszewskie	Goryszewski	depr:pl:nom:m2	nazwisko	
 Goryszewskie	Goryszewski	depr:pl:voc:m2	nazwisko	
 Goryszewskiemu	Goryszewski	subst:sg:dat:m1	nazwisko	
@@ -5071,6 +5239,7 @@ Gorzysławowie	Gorzysław	subst:pl:voc:m1	imię
 Gorzysławowi	Gorzysław	subst:sg:dat:m1	imię	
 Gorzysławów	Gorzysław	subst:pl:acc:m1	imię	
 Gorzysławów	Gorzysław	subst:pl:gen:m1	imię	
+Gorzysławy	Gorzysław	depr:pl:acc:m2	imię	
 Gorzysławy	Gorzysław	depr:pl:nom:m2	imię	
 Gorzysławy	Gorzysław	depr:pl:voc:m2	imię	
 Gosiach	Gosia	subst:pl:loc:f	imię	
@@ -5118,6 +5287,7 @@ Gosławowie	Gosław	subst:pl:voc:m1	imię
 Gosławowi	Gosław	subst:sg:dat:m1	imię	
 Gosławów	Gosław	subst:pl:acc:m1	imię	
 Gosławów	Gosław	subst:pl:gen:m1	imię	
+Gosławy	Gosław	depr:pl:acc:m2	imię	
 Gosławy	Gosław	depr:pl:nom:m2	imię	
 Gosławy	Gosław	depr:pl:voc:m2	imię	
 Gosławska	Gosławska	subst:sg:nom:f	nazwisko	
@@ -5141,6 +5311,7 @@ Gosławskich	Gosławski	subst:pl:gen:m1	nazwisko
 Gosławskich	Gosławski	subst:pl:loc:m1	nazwisko	
 Gosławskiego	Gosławski	subst:sg:acc:m1	nazwisko	
 Gosławskiego	Gosławski	subst:sg:gen:m1	nazwisko	
+Gosławskie	Gosławski	depr:pl:acc:m2	nazwisko	
 Gosławskie	Gosławski	depr:pl:nom:m2	nazwisko	
 Gosławskie	Gosławski	depr:pl:voc:m2	nazwisko	
 Gosławskiemu	Gosławski	subst:sg:dat:m1	nazwisko	
@@ -5253,6 +5424,7 @@ Gościmiłowie	Gościmił	subst:pl:voc:m1	imię
 Gościmiłowi	Gościmił	subst:sg:dat:m1	imię	
 Gościmiłów	Gościmił	subst:pl:acc:m1	imię	
 Gościmiłów	Gościmił	subst:pl:gen:m1	imię	
+Gościmiły	Gościmił	depr:pl:acc:m2	imię	
 Gościmiły	Gościmił	depr:pl:nom:m2	imię	
 Gościmiły	Gościmił	depr:pl:voc:m2	imię	
 Gościmirach	Gościmir	subst:pl:loc:m1	imię	
@@ -5267,6 +5439,7 @@ Gościmirowie	Gościmir	subst:pl:voc:m1	imię
 Gościmirowi	Gościmir	subst:sg:dat:m1	imię	
 Gościmirów	Gościmir	subst:pl:acc:m1	imię	
 Gościmirów	Gościmir	subst:pl:gen:m1	imię	
+Gościmiry	Gościmir	depr:pl:acc:m2	imię	
 Gościmiry	Gościmir	depr:pl:nom:m2	imię	
 Gościmiry	Gościmir	depr:pl:voc:m2	imię	
 Gościmirze	Gościmir	subst:sg:loc:m1	imię	
@@ -5285,6 +5458,7 @@ Gościradowie	Gościrad	subst:pl:voc:m1	imię
 Gościradowi	Gościrad	subst:sg:dat:m1	imię	
 Gościradów	Gościrad	subst:pl:acc:m1	imię	
 Gościradów	Gościrad	subst:pl:gen:m1	imię	
+Gościrady	Gościrad	depr:pl:acc:m2	imię	
 Gościrady	Gościrad	depr:pl:nom:m2	imię	
 Gościrady	Gościrad	depr:pl:voc:m2	imię	
 Gościradzie	Gościrad	subst:sg:loc:m1	imię	
@@ -5307,6 +5481,7 @@ Gościsławowie	Gościsław	subst:pl:voc:m1	imię
 Gościsławowi	Gościsław	subst:sg:dat:m1	imię	
 Gościsławów	Gościsław	subst:pl:acc:m1	imię	
 Gościsławów	Gościsław	subst:pl:gen:m1	imię	
+Gościsławy	Gościsław	depr:pl:acc:m2	imię	
 Gościsławy	Gościsław	depr:pl:nom:m2	imię	
 Gościsławy	Gościsław	depr:pl:voc:m2	imię	
 Gościsławach	Gościsława	subst:pl:loc:f	imię	
@@ -5339,6 +5514,7 @@ Gościwitowie	Gościwit	subst:pl:voc:m1	imię
 Gościwitowi	Gościwit	subst:sg:dat:m1	imię	
 Gościwitów	Gościwit	subst:pl:acc:m1	imię	
 Gościwitów	Gościwit	subst:pl:gen:m1	imię	
+Gościwity	Gościwit	depr:pl:acc:m2	imię	
 Gościwity	Gościwit	depr:pl:nom:m2	imię	
 Gościwity	Gościwit	depr:pl:voc:m2	imię	
 Gosiek	Gośka	subst:pl:gen:f	imię	
@@ -5367,6 +5543,7 @@ Gotardowie	Gotard	subst:pl:voc:m1	imię
 Gotardowi	Gotard	subst:sg:dat:m1	imię	
 Gotardów	Gotard	subst:pl:acc:m1	imię	
 Gotardów	Gotard	subst:pl:gen:m1	imię	
+Gotardy	Gotard	depr:pl:acc:m2	imię	
 Gotardy	Gotard	depr:pl:nom:m2	imię	
 Gotardy	Gotard	depr:pl:voc:m2	imię	
 Gotardzie	Gotard	subst:sg:loc:m1	imię	
@@ -5399,6 +5576,7 @@ Gotfrydowie	Gotfryd	subst:pl:voc:m1	imię
 Gotfrydowi	Gotfryd	subst:sg:dat:m1	imię	
 Gotfrydów	Gotfryd	subst:pl:acc:m1	imię	
 Gotfrydów	Gotfryd	subst:pl:gen:m1	imię	
+Gotfrydy	Gotfryd	depr:pl:acc:m2	imię	
 Gotfrydy	Gotfryd	depr:pl:nom:m2	imię	
 Gotfrydy	Gotfryd	depr:pl:voc:m2	imię	
 Gotfrydzie	Gotfryd	subst:sg:loc:m1	imię	
@@ -5417,6 +5595,7 @@ Gothowie	Goth	subst:pl:voc:m1	nazwisko
 Gothowi	Goth	subst:sg:dat:m1	nazwisko	
 Gothów	Goth	subst:pl:acc:m1	nazwisko	
 Gothów	Goth	subst:pl:gen:m1	nazwisko	
+Gothy	Goth	depr:pl:acc:m2	nazwisko	
 Gothy	Goth	depr:pl:nom:m2	nazwisko	
 Gothy	Goth	depr:pl:voc:m2	nazwisko	
 Gotha	Gotha	subst:pl:acc:f	nazwa geograficzna	
@@ -5462,6 +5641,7 @@ Gotowie	Got:s1	subst:pl:voc:m1	nazwisko
 Gotowi	Got:s1	subst:sg:dat:m1	nazwisko	
 Gotów	Got:s1	subst:pl:acc:m1	nazwisko	
 Gotów	Got:s1	subst:pl:gen:m1	nazwisko	
+Goty	Got:s1	depr:pl:acc:m2	nazwisko	
 Goty	Got:s1	depr:pl:nom:m2	nazwisko	
 Goty	Got:s1	depr:pl:voc:m2	nazwisko	
 Gocie	Got:s2	subst:sg:loc:m1	nazwa pospolita	
@@ -5478,6 +5658,7 @@ Gotom	Got:s2	subst:pl:dat:m1	nazwa pospolita
 Gotowi	Got:s2	subst:sg:dat:m1	nazwa pospolita	
 Gotów	Got:s2	subst:pl:acc:m1	nazwa pospolita	
 Gotów	Got:s2	subst:pl:gen:m1	nazwa pospolita	
+Goty	Got:s2	depr:pl:acc:m2	nazwa pospolita	
 Goty	Got:s2	depr:pl:nom:m2	nazwa pospolita	
 Goty	Got:s2	depr:pl:voc:m2	nazwa pospolita	
 Gottwaldach	Gottwald	subst:pl:loc:m1	nazwisko	
@@ -5492,6 +5673,7 @@ Gottwaldowie	Gottwald	subst:pl:voc:m1	nazwisko
 Gottwaldowi	Gottwald	subst:sg:dat:m1	nazwisko	
 Gottwaldów	Gottwald	subst:pl:acc:m1	nazwisko	
 Gottwaldów	Gottwald	subst:pl:gen:m1	nazwisko	
+Gottwaldy	Gottwald	depr:pl:acc:m2	nazwisko	
 Gottwaldy	Gottwald	depr:pl:nom:m2	nazwisko	
 Gottwaldy	Gottwald	depr:pl:voc:m2	nazwisko	
 Gottwaldzie	Gottwald	subst:sg:loc:m1	nazwisko	
@@ -5508,6 +5690,7 @@ Gounodowie	Gounod	subst:pl:voc:m1	nazwisko
 Gounodowi	Gounod	subst:sg:dat:m1	nazwisko	
 Gounodów	Gounod	subst:pl:acc:m1	nazwisko	
 Gounodów	Gounod	subst:pl:gen:m1	nazwisko	
+Gounody	Gounod	depr:pl:acc:m2	nazwisko	
 Gounody	Gounod	depr:pl:nom:m2	nazwisko	
 Gounody	Gounod	depr:pl:voc:m2	nazwisko	
 Gounodzie	Gounod	subst:sg:loc:m1	nazwisko	
@@ -5550,6 +5733,7 @@ Goyach	Goya	subst:pl:loc:m1	nazwisko
 Goya	Goya	subst:sg:nom:m1	nazwisko	
 Goyami	Goya	subst:pl:inst:m1	nazwisko	
 Goyą	Goya	subst:sg:inst:m1	nazwisko	
+Goye	Goya	depr:pl:acc:m2	nazwisko	
 Goye	Goya	depr:pl:nom:m2	nazwisko	
 Goye	Goya	depr:pl:voc:m2	nazwisko	
 Goyę	Goya	subst:sg:acc:m1	nazwisko	
@@ -5600,6 +5784,7 @@ Górowie	Góra	subst:pl:nom:m1	nazwisko
 Górowie	Góra	subst:pl:voc:m1	nazwisko	
 Górów	Góra	subst:pl:acc:m1	nazwisko	
 Górów	Góra	subst:pl:gen:m1	nazwisko	
+Góry	Góra	depr:pl:acc:m2	nazwisko	
 Góry	Góra	depr:pl:nom:m2	nazwisko	
 Góry	Góra	depr:pl:voc:m2	nazwisko	
 Góry	Góra	subst:sg:gen:m1	nazwisko	
@@ -5626,6 +5811,7 @@ Górczyńskich	Górczyński	subst:pl:gen:m1	nazwisko
 Górczyńskich	Górczyński	subst:pl:loc:m1	nazwisko	
 Górczyńskiego	Górczyński	subst:sg:acc:m1	nazwisko	
 Górczyńskiego	Górczyński	subst:sg:gen:m1	nazwisko	
+Górczyńskie	Górczyński	depr:pl:acc:m2	nazwisko	
 Górczyńskie	Górczyński	depr:pl:nom:m2	nazwisko	
 Górczyńskie	Górczyński	depr:pl:voc:m2	nazwisko	
 Górczyńskiemu	Górczyński	subst:sg:dat:m1	nazwisko	
@@ -5656,6 +5842,7 @@ Góreckich	Górecki	subst:pl:gen:m1	nazwisko
 Góreckich	Górecki	subst:pl:loc:m1	nazwisko	
 Góreckiego	Górecki	subst:sg:acc:m1	nazwisko	
 Góreckiego	Górecki	subst:sg:gen:m1	nazwisko	
+Góreckie	Górecki	depr:pl:acc:m2	nazwisko	
 Góreckie	Górecki	depr:pl:nom:m2	nazwisko	
 Góreckie	Górecki	depr:pl:voc:m2	nazwisko	
 Góreckiemu	Górecki	subst:sg:dat:m1	nazwisko	
@@ -5681,6 +5868,7 @@ Górecznym	Góreczna	subst:pl:dat:f	nazwisko
 Górecznymi	Góreczna	subst:pl:inst:f	nazwisko	
 Górecznego	Góreczny	subst:sg:acc:m1	nazwisko	
 Górecznego	Góreczny	subst:sg:gen:m1	nazwisko	
+Góreczne	Góreczny	depr:pl:acc:m2	nazwisko	
 Góreczne	Góreczny	depr:pl:nom:m2	nazwisko	
 Góreczne	Góreczny	depr:pl:voc:m2	nazwisko	
 Górecznemu	Góreczny	subst:sg:dat:m1	nazwisko	
@@ -5702,6 +5890,7 @@ Górka	Górka:s1	subst:sg:nom:m1	nazwisko
 Górkami	Górka:s1	subst:pl:inst:m1	nazwisko	
 Górką	Górka:s1	subst:sg:inst:m1	nazwisko	
 Górkę	Górka:s1	subst:sg:acc:m1	nazwisko	
+Górki	Górka:s1	depr:pl:acc:m2	nazwisko	
 Górki	Górka:s1	depr:pl:nom:m2	nazwisko	
 Górki	Górka:s1	depr:pl:voc:m2	nazwisko	
 Górki	Górka:s1	subst:sg:gen:m1	nazwisko	
@@ -5731,6 +5920,7 @@ Górniaka	Górniak	subst:sg:gen:m1	nazwisko
 Górniakami	Górniak	subst:pl:inst:m1	nazwisko	
 Górniak	Górniak	subst:sg:nom:m1	nazwisko	
 Górniakiem	Górniak	subst:sg:inst:m1	nazwisko	
+Górniaki	Górniak	depr:pl:acc:m2	nazwisko	
 Górniaki	Górniak	depr:pl:nom:m2	nazwisko	
 Górniaki	Górniak	depr:pl:voc:m2	nazwisko	
 Górniakom	Górniak	subst:pl:dat:m1	nazwisko	
@@ -5743,6 +5933,7 @@ Górniaku	Górniak	subst:sg:loc:m1	nazwisko
 Górniaku	Górniak	subst:sg:voc:m1	nazwisko	
 Górnego	Górny	subst:sg:acc:m1	nazwisko	
 Górnego	Górny	subst:sg:gen:m1	nazwisko	
+Górne	Górny	depr:pl:acc:m2	nazwisko	
 Górne	Górny	depr:pl:nom:m2	nazwisko	
 Górne	Górny	depr:pl:voc:m2	nazwisko	
 Górnemu	Górny	subst:sg:dat:m1	nazwisko	
@@ -5782,6 +5973,7 @@ Górskich	Górski	subst:pl:gen:m1	nazwisko
 Górskich	Górski	subst:pl:loc:m1	nazwisko	
 Górskiego	Górski	subst:sg:acc:m1	nazwisko	
 Górskiego	Górski	subst:sg:gen:m1	nazwisko	
+Górskie	Górski	depr:pl:acc:m2	nazwisko	
 Górskie	Górski	depr:pl:nom:m2	nazwisko	
 Górskie	Górski	depr:pl:voc:m2	nazwisko	
 Górskiemu	Górski	subst:sg:dat:m1	nazwisko	
@@ -5807,6 +5999,7 @@ Górznym	Górzna	subst:pl:dat:f	nazwisko
 Górznymi	Górzna	subst:pl:inst:f	nazwisko	
 Górznego	Górzny	subst:sg:acc:m1	nazwisko	
 Górznego	Górzny	subst:sg:gen:m1	nazwisko	
+Górzne	Górzny	depr:pl:acc:m2	nazwisko	
 Górzne	Górzny	depr:pl:nom:m2	nazwisko	
 Górzne	Górzny	depr:pl:voc:m2	nazwisko	
 Górznemu	Górzny	subst:sg:dat:m1	nazwisko	
@@ -5856,6 +6049,7 @@ Górzyńskich	Górzyński	subst:pl:gen:m1	nazwisko
 Górzyńskich	Górzyński	subst:pl:loc:m1	nazwisko	
 Górzyńskiego	Górzyński	subst:sg:acc:m1	nazwisko	
 Górzyńskiego	Górzyński	subst:sg:gen:m1	nazwisko	
+Górzyńskie	Górzyński	depr:pl:acc:m2	nazwisko	
 Górzyńskie	Górzyński	depr:pl:nom:m2	nazwisko	
 Górzyńskie	Górzyński	depr:pl:voc:m2	nazwisko	
 Górzyńskiemu	Górzyński	subst:sg:dat:m1	nazwisko	
@@ -5939,6 +6133,7 @@ Grabarczyka	Grabarczyk	subst:sg:gen:m1	nazwisko
 Grabarczykami	Grabarczyk	subst:pl:inst:m1	nazwisko	
 Grabarczyk	Grabarczyk	subst:sg:nom:m1	nazwisko	
 Grabarczykiem	Grabarczyk	subst:sg:inst:m1	nazwisko	
+Grabarczyki	Grabarczyk	depr:pl:acc:m2	nazwisko	
 Grabarczyki	Grabarczyk	depr:pl:nom:m2	nazwisko	
 Grabarczyki	Grabarczyk	depr:pl:voc:m2	nazwisko	
 Grabarczykom	Grabarczyk	subst:pl:dat:m1	nazwisko	
@@ -5970,6 +6165,7 @@ Grabińskich	Grabiński	subst:pl:gen:m1	nazwisko
 Grabińskich	Grabiński	subst:pl:loc:m1	nazwisko	
 Grabińskiego	Grabiński	subst:sg:acc:m1	nazwisko	
 Grabińskiego	Grabiński	subst:sg:gen:m1	nazwisko	
+Grabińskie	Grabiński	depr:pl:acc:m2	nazwisko	
 Grabińskie	Grabiński	depr:pl:nom:m2	nazwisko	
 Grabińskie	Grabiński	depr:pl:voc:m2	nazwisko	
 Grabińskiemu	Grabiński	subst:sg:dat:m1	nazwisko	
@@ -6009,6 +6205,7 @@ Grabnicy	Grabnica	subst:sg:gen:f	nazwa geograficzna
 Grabnicy	Grabnica	subst:sg:loc:f	nazwa geograficzna	
 Grabnego	Grabny	subst:sg:acc:m1	nazwisko	
 Grabnego	Grabny	subst:sg:gen:m1	nazwisko	
+Grabne	Grabny	depr:pl:acc:m2	nazwisko	
 Grabne	Grabny	depr:pl:nom:m2	nazwisko	
 Grabne	Grabny	depr:pl:voc:m2	nazwisko	
 Grabnemu	Grabny	subst:sg:dat:m1	nazwisko	
@@ -6060,6 +6257,7 @@ Grabowskich	Grabowski	subst:pl:gen:m1	nazwisko
 Grabowskich	Grabowski	subst:pl:loc:m1	nazwisko	
 Grabowskiego	Grabowski	subst:sg:acc:m1	nazwisko	
 Grabowskiego	Grabowski	subst:sg:gen:m1	nazwisko	
+Grabowskie	Grabowski	depr:pl:acc:m2	nazwisko	
 Grabowskie	Grabowski	depr:pl:nom:m2	nazwisko	
 Grabowskie	Grabowski	depr:pl:voc:m2	nazwisko	
 Grabowskiemu	Grabowski	subst:sg:dat:m1	nazwisko	
@@ -6105,6 +6303,7 @@ Grabskich	Grabski	subst:pl:gen:m1	nazwisko
 Grabskich	Grabski	subst:pl:loc:m1	nazwisko	
 Grabskiego	Grabski	subst:sg:acc:m1	nazwisko	
 Grabskiego	Grabski	subst:sg:gen:m1	nazwisko	
+Grabskie	Grabski	depr:pl:acc:m2	nazwisko	
 Grabskie	Grabski	depr:pl:nom:m2	nazwisko	
 Grabskie	Grabski	depr:pl:voc:m2	nazwisko	
 Grabskiemu	Grabski	subst:sg:dat:m1	nazwisko	
@@ -6143,6 +6342,7 @@ Gracjanowie	Gracjan	subst:pl:voc:m1	imię
 Gracjanowi	Gracjan	subst:sg:dat:m1	imię	
 Gracjanów	Gracjan	subst:pl:acc:m1	imię	
 Gracjanów	Gracjan	subst:pl:gen:m1	imię	
+Gracjany	Gracjan	depr:pl:acc:m2	imię	
 Gracjany	Gracjan	depr:pl:nom:m2	imię	
 Gracjany	Gracjan	depr:pl:voc:m2	imię	
 Gracjanach	Gracjana	subst:pl:loc:f	imię	
@@ -6173,12 +6373,14 @@ Gracqów	Gracq	subst:pl:gen:m1	nazwisko
 Gracqu	Gracq	subst:sg:loc:m1	nazwisko	
 Gracqu	Gracq	subst:sg:voc:m1	nazwisko	
 Grakiem	Gracq	subst:sg:inst:m1	nazwisko	
+Graki	Gracq	depr:pl:acc:m2	nazwisko	
 Graki	Gracq	depr:pl:nom:m2	nazwisko	
 Graki	Gracq	depr:pl:voc:m2	nazwisko	
 Graczach	Gracz	subst:pl:loc:m1	nazwisko	
 Gracza	Gracz	subst:sg:acc:m1	nazwisko	
 Gracza	Gracz	subst:sg:gen:m1	nazwisko	
 Graczami	Gracz	subst:pl:inst:m1	nazwisko	
+Gracze	Gracz	depr:pl:acc:m2	nazwisko	
 Gracze	Gracz	depr:pl:nom:m2	nazwisko	
 Gracze	Gracz	depr:pl:voc:m2	nazwisko	
 Graczem	Gracz	subst:sg:inst:m1	nazwisko	
@@ -6205,6 +6407,7 @@ Graczowowie	Graczow	subst:pl:voc:m1	nazwisko
 Graczowowi	Graczow	subst:sg:dat:m1	nazwisko	
 Graczowów	Graczow	subst:pl:acc:m1	nazwisko	
 Graczowów	Graczow	subst:pl:gen:m1	nazwisko	
+Graczowy	Graczow	depr:pl:acc:m2	nazwisko	
 Graczowy	Graczow	depr:pl:nom:m2	nazwisko	
 Graczowy	Graczow	depr:pl:voc:m2	nazwisko	
 Graczykach	Graczyk	subst:pl:loc:m1	nazwisko	
@@ -6213,6 +6416,7 @@ Graczyka	Graczyk	subst:sg:gen:m1	nazwisko
 Graczykami	Graczyk	subst:pl:inst:m1	nazwisko	
 Graczyk	Graczyk	subst:sg:nom:m1	nazwisko	
 Graczykiem	Graczyk	subst:sg:inst:m1	nazwisko	
+Graczyki	Graczyk	depr:pl:acc:m2	nazwisko	
 Graczyki	Graczyk	depr:pl:nom:m2	nazwisko	
 Graczyki	Graczyk	depr:pl:voc:m2	nazwisko	
 Graczykom	Graczyk	subst:pl:dat:m1	nazwisko	
@@ -6237,6 +6441,7 @@ Grahamowie	Graham	subst:pl:voc:m1	nazwisko
 Grahamowi	Graham	subst:sg:dat:m1	nazwisko	
 Grahamów	Graham	subst:pl:acc:m1	nazwisko	
 Grahamów	Graham	subst:pl:gen:m1	nazwisko	
+Grahamy	Graham	depr:pl:acc:m2	nazwisko	
 Grahamy	Graham	depr:pl:nom:m2	nazwisko	
 Grahamy	Graham	depr:pl:voc:m2	nazwisko	
 Grajewach	Grajewo	subst:pl:loc:n:ncol	nazwa geograficzna	
@@ -6257,6 +6462,7 @@ Gralcach	Gralec	subst:pl:loc:m1	nazwisko
 Gralca	Gralec	subst:sg:acc:m1	nazwisko	
 Gralca	Gralec	subst:sg:gen:m1	nazwisko	
 Gralcami	Gralec	subst:pl:inst:m1	nazwisko	
+Gralce	Gralec	depr:pl:acc:m2	nazwisko	
 Gralce	Gralec	depr:pl:nom:m2	nazwisko	
 Gralce	Gralec	depr:pl:voc:m2	nazwisko	
 Gralcem	Gralec	subst:sg:inst:m1	nazwisko	
@@ -6274,6 +6480,7 @@ Gramscich	Gramsci	subst:pl:gen:m1	nazwisko
 Gramscich	Gramsci	subst:pl:loc:m1	nazwisko	
 Gramsciego	Gramsci	subst:sg:acc:m1	nazwisko	
 Gramsciego	Gramsci	subst:sg:gen:m1	nazwisko	
+Gramscie	Gramsci	depr:pl:acc:m2	nazwisko	
 Gramscie	Gramsci	depr:pl:nom:m2	nazwisko	
 Gramscie	Gramsci	depr:pl:voc:m2	nazwisko	
 Gramsciemu	Gramsci	subst:sg:dat:m1	nazwisko	
@@ -6317,6 +6524,7 @@ Grantowie	Grant	subst:pl:voc:m1	nazwisko
 Grantowi	Grant	subst:sg:dat:m1	nazwisko	
 Grantów	Grant	subst:pl:acc:m1	nazwisko	
 Grantów	Grant	subst:pl:gen:m1	nazwisko	
+Granty	Grant	depr:pl:acc:m2	nazwisko	
 Granty	Grant	depr:pl:nom:m2	nazwisko	
 Granty	Grant	depr:pl:voc:m2	nazwisko	
 Grappinach	Grappin	subst:pl:loc:m1	nazwisko	
@@ -6333,6 +6541,7 @@ Grappinowie	Grappin	subst:pl:voc:m1	nazwisko
 Grappinowi	Grappin	subst:sg:dat:m1	nazwisko	
 Grappinów	Grappin	subst:pl:acc:m1	nazwisko	
 Grappinów	Grappin	subst:pl:gen:m1	nazwisko	
+Grappiny	Grappin	depr:pl:acc:m2	nazwisko	
 Grappiny	Grappin	depr:pl:nom:m2	nazwisko	
 Grappiny	Grappin	depr:pl:voc:m2	nazwisko	
 Grassach	Grass	subst:pl:loc:m1	nazwisko	
@@ -6349,6 +6558,7 @@ Grassowie	Grass	subst:pl:voc:m1	nazwisko
 Grassowi	Grass	subst:sg:dat:m1	nazwisko	
 Grassów	Grass	subst:pl:acc:m1	nazwisko	
 Grassów	Grass	subst:pl:gen:m1	nazwisko	
+Grassy	Grass	depr:pl:acc:m2	nazwisko	
 Grassy	Grass	depr:pl:nom:m2	nazwisko	
 Grassy	Grass	depr:pl:voc:m2	nazwisko	
 Gravesach	Graves	subst:pl:loc:m1	nazwisko	
@@ -6365,6 +6575,7 @@ Gravesowie	Graves	subst:pl:voc:m1	nazwisko
 Gravesowi	Graves	subst:sg:dat:m1	nazwisko	
 Gravesów	Graves	subst:pl:acc:m1	nazwisko	
 Gravesów	Graves	subst:pl:gen:m1	nazwisko	
+Gravesy	Graves	depr:pl:acc:m2	nazwisko	
 Gravesy	Graves	depr:pl:nom:m2	nazwisko	
 Gravesy	Graves	depr:pl:voc:m2	nazwisko	
 Grażynach	Grażyna	subst:pl:loc:f	imię	
@@ -6394,6 +6605,7 @@ Grechutowie	Grechuta	subst:pl:nom:m1	nazwisko
 Grechutowie	Grechuta	subst:pl:voc:m1	nazwisko	
 Grechutów	Grechuta	subst:pl:acc:m1	nazwisko	
 Grechutów	Grechuta	subst:pl:gen:m1	nazwisko	
+Grechuty	Grechuta	depr:pl:acc:m2	nazwisko	
 Grechuty	Grechuta	depr:pl:nom:m2	nazwisko	
 Grechuty	Grechuta	depr:pl:voc:m2	nazwisko	
 Grechuty	Grechuta	subst:sg:gen:m1	nazwisko	
@@ -6426,6 +6638,7 @@ Greców	Greco	subst:pl:acc:m1	nazwisko
 Greców	Greco	subst:pl:gen:m1	nazwisko	
 Grecu	Greco	subst:sg:loc:m1	nazwisko	
 Grekiem	Greco	subst:sg:inst:m1	nazwisko	
+Greki	Greco	depr:pl:acc:m2	nazwisko	
 Greki	Greco	depr:pl:nom:m2	nazwisko	
 Greki	Greco	depr:pl:voc:m2	nazwisko	
 Greczynach	Greczyn	subst:pl:loc:m1	nazwa pospolita	daw.
@@ -6442,6 +6655,7 @@ Greczynom	Greczyn	subst:pl:dat:m1	nazwa pospolita	daw.
 Greczynowi	Greczyn	subst:sg:dat:m1	nazwa pospolita	daw.
 Greczynów	Greczyn	subst:pl:acc:m1	nazwa pospolita	daw.
 Greczynów	Greczyn	subst:pl:gen:m1	nazwa pospolita	daw.
+Greczyny	Greczyn	depr:pl:acc:m2	nazwa pospolita	daw.
 Greczyny	Greczyn	depr:pl:nom:m2	nazwa pospolita	daw.
 Greczyny	Greczyn	depr:pl:voc:m2	nazwa pospolita	daw.
 Greczynce	Greczynka	subst:sg:dat:f	nazwa pospolita	
@@ -6508,6 +6722,7 @@ Greka	Grek	subst:sg:gen:m1	nazwa pospolita
 Grekami	Grek	subst:pl:inst:m1	nazwa pospolita	
 Grek	Grek	subst:sg:nom:m1	nazwa pospolita	
 Grekiem	Grek	subst:sg:inst:m1	nazwa pospolita	
+Greki	Grek	depr:pl:acc:m2	nazwa pospolita	
 Greki	Grek	depr:pl:nom:m2	nazwa pospolita	
 Greki	Grek	depr:pl:voc:m2	nazwa pospolita	
 Grekom	Grek	subst:pl:dat:m1	nazwa pospolita	
@@ -6538,6 +6753,7 @@ Grenlandczyka	Grenlandczyk	subst:sg:gen:m1	nazwa pospolita
 Grenlandczykami	Grenlandczyk	subst:pl:inst:m1	nazwa pospolita	
 Grenlandczyk	Grenlandczyk	subst:sg:nom:m1	nazwa pospolita	
 Grenlandczykiem	Grenlandczyk	subst:sg:inst:m1	nazwa pospolita	
+Grenlandczyki	Grenlandczyk	depr:pl:acc:m2	nazwa pospolita	
 Grenlandczyki	Grenlandczyk	depr:pl:nom:m2	nazwa pospolita	
 Grenlandczyki	Grenlandczyk	depr:pl:voc:m2	nazwa pospolita	
 Grenlandczykom	Grenlandczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -6603,6 +6819,7 @@ Greshamowie	Gresham	subst:pl:voc:m1	nazwisko
 Greshamowi	Gresham	subst:sg:dat:m1	nazwisko	
 Greshamów	Gresham	subst:pl:acc:m1	nazwisko	
 Greshamów	Gresham	subst:pl:gen:m1	nazwisko	
+Greshamy	Gresham	depr:pl:acc:m2	nazwisko	
 Greshamy	Gresham	depr:pl:nom:m2	nazwisko	
 Greshamy	Gresham	depr:pl:voc:m2	nazwisko	
 Grecie	Greta	subst:sg:dat:f	imię	
@@ -6692,6 +6909,7 @@ Gribojedowowie	Gribojedow	subst:pl:voc:m1	nazwisko
 Gribojedowowi	Gribojedow	subst:sg:dat:m1	nazwisko	
 Gribojedowów	Gribojedow	subst:pl:acc:m1	nazwisko	
 Gribojedowów	Gribojedow	subst:pl:gen:m1	nazwisko	
+Gribojedowy	Gribojedow	depr:pl:acc:m2	nazwisko	
 Gribojedowy	Gribojedow	depr:pl:nom:m2	nazwisko	
 Gribojedowy	Gribojedow	depr:pl:voc:m2	nazwisko	
 Griegach	Grieg	subst:pl:loc:m1	nazwisko	
@@ -6700,6 +6918,7 @@ Griega	Grieg	subst:sg:gen:m1	nazwisko
 Griegami	Grieg	subst:pl:inst:m1	nazwisko	
 Grieg	Grieg	subst:sg:nom:m1	nazwisko	
 Griegiem	Grieg	subst:sg:inst:m1	nazwisko	
+Griegi	Grieg	depr:pl:acc:m2	nazwisko	
 Griegi	Grieg	depr:pl:nom:m2	nazwisko	
 Griegi	Grieg	depr:pl:voc:m2	nazwisko	
 Griegom	Grieg	subst:pl:dat:m1	nazwisko	
@@ -6726,12 +6945,14 @@ Griffithowie	Griffith	subst:pl:voc:m1	nazwisko
 Griffithowi	Griffith	subst:sg:dat:m1	nazwisko	
 Griffithów	Griffith	subst:pl:acc:m1	nazwisko	
 Griffithów	Griffith	subst:pl:gen:m1	nazwisko	
+Griffithy	Griffith	depr:pl:acc:m2	nazwisko	
 Griffithy	Griffith	depr:pl:nom:m2	nazwisko	
 Griffithy	Griffith	depr:pl:voc:m2	nazwisko	
 Grigorijach	Grigorij	subst:pl:loc:m1	imię	
 Grigorija	Grigorij	subst:sg:acc:m1	imię	
 Grigorija	Grigorij	subst:sg:gen:m1	imię	
 Grigorijami	Grigorij	subst:pl:inst:m1	imię	
+Grigorije	Grigorij	depr:pl:acc:m2	imię	
 Grigorije	Grigorij	depr:pl:nom:m2	imię	
 Grigorije	Grigorij	depr:pl:voc:m2	imię	
 Grigorije	Grigorij	subst:pl:nom:m1	imię	
@@ -6760,12 +6981,14 @@ Grimmowie	Grimm	subst:pl:voc:m1	nazwisko
 Grimmowi	Grimm	subst:sg:dat:m1	nazwisko	
 Grimmów	Grimm	subst:pl:acc:m1	nazwisko	
 Grimmów	Grimm	subst:pl:gen:m1	nazwisko	
+Grimmy	Grimm	depr:pl:acc:m2	nazwisko	
 Grimmy	Grimm	depr:pl:nom:m2	nazwisko	
 Grimmy	Grimm	depr:pl:voc:m2	nazwisko	
 Griszach	Grisza	subst:pl:loc:m1	imię	
 Grisza	Grisza	subst:sg:nom:m1	imię	
 Griszami	Grisza	subst:pl:inst:m1	imię	
 Griszą	Grisza	subst:sg:inst:m1	imię	
+Grisze	Grisza	depr:pl:acc:m2	imię	
 Grisze	Grisza	depr:pl:nom:m2	imię	
 Grisze	Grisza	depr:pl:voc:m2	imię	
 Griszę	Grisza	subst:sg:acc:m1	imię	
@@ -6794,6 +7017,7 @@ Grobelnym	Grobelna	subst:pl:dat:f	nazwisko
 Grobelnymi	Grobelna	subst:pl:inst:f	nazwisko	
 Grobelnego	Grobelny	subst:sg:acc:m1	nazwisko	
 Grobelnego	Grobelny	subst:sg:gen:m1	nazwisko	
+Grobelne	Grobelny	depr:pl:acc:m2	nazwisko	
 Grobelne	Grobelny	depr:pl:nom:m2	nazwisko	
 Grobelne	Grobelny	depr:pl:voc:m2	nazwisko	
 Grobelnemu	Grobelny	subst:sg:dat:m1	nazwisko	
@@ -6812,6 +7036,7 @@ Grobliczach	Groblicz	subst:pl:loc:m1	nazwisko
 Groblicza	Groblicz	subst:sg:acc:m1	nazwisko	
 Groblicza	Groblicz	subst:sg:gen:m1	nazwisko	
 Grobliczami	Groblicz	subst:pl:inst:m1	nazwisko	
+Groblicze	Groblicz	depr:pl:acc:m2	nazwisko	
 Groblicze	Groblicz	depr:pl:nom:m2	nazwisko	
 Groblicze	Groblicz	depr:pl:voc:m2	nazwisko	
 Groblicze	Groblicz	subst:pl:nom:m1	nazwisko	
@@ -6830,6 +7055,7 @@ Grocholach	Grochola	subst:pl:loc:m1	nazwisko
 Grochola	Grochola	subst:sg:nom:m1	nazwisko	
 Grocholami	Grochola	subst:pl:inst:m1	nazwisko	
 Grocholą	Grochola	subst:sg:inst:m1	nazwisko	
+Grochole	Grochola	depr:pl:acc:m2	nazwisko	
 Grochole	Grochola	depr:pl:nom:m2	nazwisko	
 Grochole	Grochola	depr:pl:voc:m2	nazwisko	
 Grocholę	Grochola	subst:sg:acc:m1	nazwisko	
@@ -6848,6 +7074,7 @@ Grochowiaka	Grochowiak	subst:sg:gen:m1	nazwisko
 Grochowiakami	Grochowiak	subst:pl:inst:m1	nazwisko	
 Grochowiak	Grochowiak	subst:sg:nom:m1	nazwisko	
 Grochowiakiem	Grochowiak	subst:sg:inst:m1	nazwisko	
+Grochowiaki	Grochowiak	depr:pl:acc:m2	nazwisko	
 Grochowiaki	Grochowiak	depr:pl:nom:m2	nazwisko	
 Grochowiaki	Grochowiak	depr:pl:voc:m2	nazwisko	
 Grochowiakom	Grochowiak	subst:pl:dat:m1	nazwisko	
@@ -6879,6 +7106,7 @@ Grochowskich	Grochowski	subst:pl:gen:m1	nazwisko
 Grochowskich	Grochowski	subst:pl:loc:m1	nazwisko	
 Grochowskiego	Grochowski	subst:sg:acc:m1	nazwisko	
 Grochowskiego	Grochowski	subst:sg:gen:m1	nazwisko	
+Grochowskie	Grochowski	depr:pl:acc:m2	nazwisko	
 Grochowskie	Grochowski	depr:pl:nom:m2	nazwisko	
 Grochowskie	Grochowski	depr:pl:voc:m2	nazwisko	
 Grochowskiemu	Grochowski	subst:sg:dat:m1	nazwisko	
@@ -6909,6 +7137,7 @@ Groddecka	Groddeck	subst:sg:gen:m1	nazwisko
 Groddeckami	Groddeck	subst:pl:inst:m1	nazwisko	
 Groddeck	Groddeck	subst:sg:nom:m1	nazwisko	
 Groddeckiem	Groddeck	subst:sg:inst:m1	nazwisko	
+Groddecki	Groddeck	depr:pl:acc:m2	nazwisko	
 Groddecki	Groddeck	depr:pl:nom:m2	nazwisko	
 Groddecki	Groddeck	depr:pl:voc:m2	nazwisko	
 Groddeckom	Groddeck	subst:pl:dat:m1	nazwisko	
@@ -6940,6 +7169,7 @@ Grodeckich	Grodecki	subst:pl:gen:m1	nazwisko
 Grodeckich	Grodecki	subst:pl:loc:m1	nazwisko	
 Grodeckiego	Grodecki	subst:sg:acc:m1	nazwisko	
 Grodeckiego	Grodecki	subst:sg:gen:m1	nazwisko	
+Grodeckie	Grodecki	depr:pl:acc:m2	nazwisko	
 Grodeckie	Grodecki	depr:pl:nom:m2	nazwisko	
 Grodeckie	Grodecki	depr:pl:voc:m2	nazwisko	
 Grodeckiemu	Grodecki	subst:sg:dat:m1	nazwisko	
@@ -7022,6 +7252,7 @@ Grodzisławowie	Grodzisław	subst:pl:voc:m1	imię
 Grodzisławowi	Grodzisław	subst:sg:dat:m1	imię	
 Grodzisławów	Grodzisław	subst:pl:acc:m1	imię	
 Grodzisławów	Grodzisław	subst:pl:gen:m1	imię	
+Grodzisławy	Grodzisław	depr:pl:acc:m2	imię	
 Grodzisławy	Grodzisław	depr:pl:nom:m2	imię	
 Grodzisławy	Grodzisław	depr:pl:voc:m2	imię	
 Gromadce	Gromadka	subst:sg:dat:f	nazwa geograficzna	
@@ -7054,6 +7285,7 @@ Gromosławowie	Gromosław	subst:pl:voc:m1	imię
 Gromosławowi	Gromosław	subst:sg:dat:m1	imię	
 Gromosławów	Gromosław	subst:pl:acc:m1	imię	
 Gromosławów	Gromosław	subst:pl:gen:m1	imię	
+Gromosławy	Gromosław	depr:pl:acc:m2	imię	
 Gromosławy	Gromosław	depr:pl:nom:m2	imię	
 Gromosławy	Gromosław	depr:pl:voc:m2	imię	
 Gromyce	Gromyko	subst:sg:dat:m1	nazwisko	
@@ -7062,6 +7294,7 @@ Gromykach	Gromyko	subst:pl:loc:m1	nazwisko
 Gromykami	Gromyko	subst:pl:inst:m1	nazwisko	
 Gromyką	Gromyko	subst:sg:inst:m1	nazwisko	
 Gromykę	Gromyko	subst:sg:acc:m1	nazwisko	
+Gromyki	Gromyko	depr:pl:acc:m2	nazwisko	
 Gromyki	Gromyko	depr:pl:nom:m2	nazwisko	
 Gromyki	Gromyko	depr:pl:voc:m2	nazwisko	
 Gromyki	Gromyko	subst:sg:gen:m1	nazwisko	
@@ -7090,6 +7323,7 @@ Gronkiewiczach	Gronkiewicz	subst:pl:loc:m1	nazwisko
 Gronkiewicza	Gronkiewicz	subst:sg:acc:m1	nazwisko	
 Gronkiewicza	Gronkiewicz	subst:sg:gen:m1	nazwisko	
 Gronkiewiczami	Gronkiewicz	subst:pl:inst:m1	nazwisko	
+Gronkiewicze	Gronkiewicz	depr:pl:acc:m2	nazwisko	
 Gronkiewicze	Gronkiewicz	depr:pl:nom:m2	nazwisko	
 Gronkiewicze	Gronkiewicz	depr:pl:voc:m2	nazwisko	
 Gronkiewicze	Gronkiewicz	subst:pl:nom:m1	nazwisko	
@@ -7134,6 +7368,7 @@ Gropiusowie	Gropius	subst:pl:voc:m1	nazwisko
 Gropiusowi	Gropius	subst:sg:dat:m1	nazwisko	
 Gropiusów	Gropius	subst:pl:acc:m1	nazwisko	
 Gropiusów	Gropius	subst:pl:gen:m1	nazwisko	
+Gropiusy	Gropius	depr:pl:acc:m2	nazwisko	
 Gropiusy	Gropius	depr:pl:nom:m2	nazwisko	
 Gropiusy	Gropius	depr:pl:voc:m2	nazwisko	
 Grossach	Gross	subst:pl:loc:m1	nazwisko	
@@ -7150,6 +7385,7 @@ Grossowie	Gross	subst:pl:voc:m1	nazwisko
 Grossowi	Gross	subst:sg:dat:m1	nazwisko	
 Grossów	Gross	subst:pl:acc:m1	nazwisko	
 Grossów	Gross	subst:pl:gen:m1	nazwisko	
+Grossy	Gross	depr:pl:acc:m2	nazwisko	
 Grossy	Gross	depr:pl:nom:m2	nazwisko	
 Grossy	Gross	depr:pl:voc:m2	nazwisko	
 Gross-Rosen	Gross-Rosen	subst:pl:acc:n:ncol	nazwa geograficzna	
@@ -7180,6 +7416,7 @@ Grotowie	Grot	subst:pl:voc:m1	nazwisko
 Grotowi	Grot	subst:sg:dat:m1	nazwisko	
 Grotów	Grot	subst:pl:acc:m1	nazwisko	
 Grotów	Grot	subst:pl:gen:m1	nazwisko	
+Groty	Grot	depr:pl:acc:m2	nazwisko	
 Groty	Grot	depr:pl:nom:m2	nazwisko	
 Groty	Grot	depr:pl:voc:m2	nazwisko	
 Grotowska	Grotowska	subst:sg:nom:f	nazwisko	
@@ -7203,6 +7440,7 @@ Grotowskich	Grotowski	subst:pl:gen:m1	nazwisko
 Grotowskich	Grotowski	subst:pl:loc:m1	nazwisko	
 Grotowskiego	Grotowski	subst:sg:acc:m1	nazwisko	
 Grotowskiego	Grotowski	subst:sg:gen:m1	nazwisko	
+Grotowskie	Grotowski	depr:pl:acc:m2	nazwisko	
 Grotowskie	Grotowski	depr:pl:nom:m2	nazwisko	
 Grotowskie	Grotowski	depr:pl:voc:m2	nazwisko	
 Grotowskiemu	Grotowski	subst:sg:dat:m1	nazwisko	
@@ -7224,6 +7462,7 @@ Grottgerowie	Grottger	subst:pl:voc:m1	nazwisko
 Grottgerowi	Grottger	subst:sg:dat:m1	nazwisko	
 Grottgerów	Grottger	subst:pl:acc:m1	nazwisko	
 Grottgerów	Grottger	subst:pl:gen:m1	nazwisko	
+Grottgery	Grottger	depr:pl:acc:m2	nazwisko	
 Grottgery	Grottger	depr:pl:nom:m2	nazwisko	
 Grottgery	Grottger	depr:pl:voc:m2	nazwisko	
 Grottgerze	Grottger	subst:sg:loc:m1	nazwisko	
@@ -7260,6 +7499,7 @@ Grucach	Gruca	subst:pl:loc:m1	nazwisko
 Gruca	Gruca	subst:sg:nom:m1	nazwisko	
 Grucami	Gruca	subst:pl:inst:m1	nazwisko	
 Grucą	Gruca	subst:sg:inst:m1	nazwisko	
+Gruce	Gruca	depr:pl:acc:m2	nazwisko	
 Gruce	Gruca	depr:pl:nom:m2	nazwisko	
 Gruce	Gruca	depr:pl:voc:m2	nazwisko	
 Grucę	Gruca	subst:sg:acc:m1	nazwisko	
@@ -7291,6 +7531,7 @@ Grudniach	Grudzień	subst:pl:loc:m1	nazwisko
 Grudnia	Grudzień	subst:sg:acc:m1	nazwisko	
 Grudnia	Grudzień	subst:sg:gen:m1	nazwisko	
 Grudniami	Grudzień	subst:pl:inst:m1	nazwisko	
+Grudnie	Grudzień	depr:pl:acc:m2	nazwisko	
 Grudnie	Grudzień	depr:pl:nom:m2	nazwisko	
 Grudnie	Grudzień	depr:pl:voc:m2	nazwisko	
 Grudniem	Grudzień	subst:sg:inst:m1	nazwisko	
@@ -7324,6 +7565,7 @@ Grudzińskich	Grudziński	subst:pl:gen:m1	nazwisko
 Grudzińskich	Grudziński	subst:pl:loc:m1	nazwisko	
 Grudzińskiego	Grudziński	subst:sg:acc:m1	nazwisko	
 Grudzińskiego	Grudziński	subst:sg:gen:m1	nazwisko	
+Grudzińskie	Grudziński	depr:pl:acc:m2	nazwisko	
 Grudzińskie	Grudziński	depr:pl:nom:m2	nazwisko	
 Grudzińskie	Grudziński	depr:pl:voc:m2	nazwisko	
 Grudzińskiemu	Grudziński	subst:sg:dat:m1	nazwisko	
@@ -7351,6 +7593,7 @@ Gruszach	Grusza	subst:pl:loc:m1	nazwisko
 Grusza	Grusza	subst:sg:nom:m1	nazwisko	
 Gruszami	Grusza	subst:pl:inst:m1	nazwisko	
 Gruszą	Grusza	subst:sg:inst:m1	nazwisko	
+Grusze	Grusza	depr:pl:acc:m2	nazwisko	
 Grusze	Grusza	depr:pl:nom:m2	nazwisko	
 Grusze	Grusza	depr:pl:voc:m2	nazwisko	
 Gruszę	Grusza	subst:sg:acc:m1	nazwisko	
@@ -7384,6 +7627,7 @@ Gruszczyńskich	Gruszczyński	subst:pl:gen:m1	nazwisko
 Gruszczyńskich	Gruszczyński	subst:pl:loc:m1	nazwisko	
 Gruszczyńskiego	Gruszczyński	subst:sg:acc:m1	nazwisko	
 Gruszczyńskiego	Gruszczyński	subst:sg:gen:m1	nazwisko	
+Gruszczyńskie	Gruszczyński	depr:pl:acc:m2	nazwisko	
 Gruszczyńskie	Gruszczyński	depr:pl:nom:m2	nazwisko	
 Gruszczyńskie	Gruszczyński	depr:pl:voc:m2	nazwisko	
 Gruszczyńskiemu	Gruszczyński	subst:sg:dat:m1	nazwisko	
@@ -7414,6 +7658,7 @@ Gruszeckich	Gruszecki	subst:pl:gen:m1	nazwisko
 Gruszeckich	Gruszecki	subst:pl:loc:m1	nazwisko	
 Gruszeckiego	Gruszecki	subst:sg:acc:m1	nazwisko	
 Gruszeckiego	Gruszecki	subst:sg:gen:m1	nazwisko	
+Gruszeckie	Gruszecki	depr:pl:acc:m2	nazwisko	
 Gruszeckie	Gruszecki	depr:pl:nom:m2	nazwisko	
 Gruszeckie	Gruszecki	depr:pl:voc:m2	nazwisko	
 Gruszeckiemu	Gruszecki	subst:sg:dat:m1	nazwisko	
@@ -7430,6 +7675,7 @@ Gruszka	Gruszka	subst:sg:nom:m1	nazwisko
 Gruszkami	Gruszka	subst:pl:inst:m1	nazwisko	
 Gruszką	Gruszka	subst:sg:inst:m1	nazwisko	
 Gruszkę	Gruszka	subst:sg:acc:m1	nazwisko	
+Gruszki	Gruszka	depr:pl:acc:m2	nazwisko	
 Gruszki	Gruszka	depr:pl:nom:m2	nazwisko	
 Gruszki	Gruszka	depr:pl:voc:m2	nazwisko	
 Gruszki	Gruszka	subst:sg:gen:m1	nazwisko	
@@ -7451,6 +7697,7 @@ Gruzłowie	Gruzeł	subst:pl:voc:m1	pseudonim
 Gruzłowi	Gruzeł	subst:sg:dat:m1	pseudonim	
 Gruzłów	Gruzeł	subst:pl:acc:m1	pseudonim	
 Gruzłów	Gruzeł	subst:pl:gen:m1	pseudonim	
+Gruzły	Gruzeł	depr:pl:acc:m2	pseudonim	
 Gruzły	Gruzeł	depr:pl:nom:m2	pseudonim	
 Gruzły	Gruzeł	depr:pl:voc:m2	pseudonim	
 Gruźle	Gruzeł	subst:sg:loc:m1	pseudonim	
@@ -7469,6 +7716,7 @@ Gruzinom	Gruzin	subst:pl:dat:m1	nazwa pospolita
 Gruzinowi	Gruzin	subst:sg:dat:m1	nazwa pospolita	
 Gruzinów	Gruzin	subst:pl:acc:m1	nazwa pospolita	
 Gruzinów	Gruzin	subst:pl:gen:m1	nazwa pospolita	
+Gruziny	Gruzin	depr:pl:acc:m2	nazwa pospolita	
 Gruziny	Gruzin	depr:pl:nom:m2	nazwa pospolita	
 Gruziny	Gruzin	depr:pl:voc:m2	nazwa pospolita	
 Gruzince	Gruzinka	subst:sg:dat:f	nazwa pospolita	
@@ -7569,6 +7817,7 @@ Gryzłowie	Gryzło	subst:pl:nom:m1	nazwisko
 Gryzłowie	Gryzło	subst:pl:voc:m1	nazwisko	
 Gryzłów	Gryzło	subst:pl:acc:m1	nazwisko	
 Gryzłów	Gryzło	subst:pl:gen:m1	nazwisko	
+Gryzły	Gryzło	depr:pl:acc:m2	nazwisko	
 Gryzły	Gryzło	depr:pl:nom:m2	nazwisko	
 Gryzły	Gryzło	depr:pl:voc:m2	nazwisko	
 Gryzły	Gryzło	subst:sg:gen:m1	nazwisko	
@@ -7588,6 +7837,7 @@ Grzechów	Grzech	subst:pl:acc:m1	imię
 Grzechów	Grzech	subst:pl:gen:m1	imię	
 Grzechu	Grzech	subst:sg:loc:m1	imię	
 Grzechu	Grzech	subst:sg:voc:m1	imię	
+Grzechy	Grzech	depr:pl:acc:m2	imię	
 Grzechy	Grzech	depr:pl:nom:m2	imię	
 Grzechy	Grzech	depr:pl:voc:m2	imię	
 Grzegorczykach	Grzegorczyk	subst:pl:loc:m1	nazwisko	
@@ -7596,6 +7846,7 @@ Grzegorczyka	Grzegorczyk	subst:sg:gen:m1	nazwisko
 Grzegorczykami	Grzegorczyk	subst:pl:inst:m1	nazwisko	
 Grzegorczyk	Grzegorczyk	subst:sg:nom:m1	nazwisko	
 Grzegorczykiem	Grzegorczyk	subst:sg:inst:m1	nazwisko	
+Grzegorczyki	Grzegorczyk	depr:pl:acc:m2	nazwisko	
 Grzegorczyki	Grzegorczyk	depr:pl:nom:m2	nazwisko	
 Grzegorczyki	Grzegorczyk	depr:pl:voc:m2	nazwisko	
 Grzegorczykom	Grzegorczyk	subst:pl:dat:m1	nazwisko	
@@ -7624,6 +7875,7 @@ Grzegorzach	Grzegorz	subst:pl:loc:m1	imię
 Grzegorza	Grzegorz	subst:sg:acc:m1	imię	
 Grzegorza	Grzegorz	subst:sg:gen:m1	imię	
 Grzegorzami	Grzegorz	subst:pl:inst:m1	imię	
+Grzegorze	Grzegorz	depr:pl:acc:m2	imię	
 Grzegorze	Grzegorz	depr:pl:nom:m2	imię	
 Grzegorze	Grzegorz	depr:pl:voc:m2	imię	
 Grzegorze	Grzegorz	subst:pl:nom:m1	imię	
@@ -7644,6 +7896,7 @@ Grzelaka	Grzelak	subst:sg:gen:m1	nazwisko
 Grzelakami	Grzelak	subst:pl:inst:m1	nazwisko	
 Grzelak	Grzelak	subst:sg:nom:m1	nazwisko	
 Grzelakiem	Grzelak	subst:sg:inst:m1	nazwisko	
+Grzelaki	Grzelak	depr:pl:acc:m2	nazwisko	
 Grzelaki	Grzelak	depr:pl:nom:m2	nazwisko	
 Grzelaki	Grzelak	depr:pl:voc:m2	nazwisko	
 Grzelakom	Grzelak	subst:pl:dat:m1	nazwisko	
@@ -7660,6 +7913,7 @@ Grzesiaka	Grzesiak	subst:sg:gen:m1	nazwisko
 Grzesiakami	Grzesiak	subst:pl:inst:m1	nazwisko	
 Grzesiak	Grzesiak	subst:sg:nom:m1	nazwisko	
 Grzesiakiem	Grzesiak	subst:sg:inst:m1	nazwisko	
+Grzesiaki	Grzesiak	depr:pl:acc:m2	nazwisko	
 Grzesiaki	Grzesiak	depr:pl:nom:m2	nazwisko	
 Grzesiaki	Grzesiak	depr:pl:voc:m2	nazwisko	
 Grzesiakom	Grzesiak	subst:pl:dat:m1	nazwisko	
@@ -7676,6 +7930,7 @@ Grześka	Grzesiek	subst:sg:acc:m1	imię
 Grześka	Grzesiek	subst:sg:gen:m1	imię	
 Grześkami	Grzesiek	subst:pl:inst:m1	imię	
 Grześkiem	Grzesiek	subst:sg:inst:m1	imię	
+Grześki	Grzesiek	depr:pl:acc:m2	imię	
 Grześki	Grzesiek	depr:pl:nom:m2	imię	
 Grześki	Grzesiek	depr:pl:voc:m2	imię	
 Grześkom	Grzesiek	subst:pl:dat:m1	imię	
@@ -7690,6 +7945,7 @@ Grzesiach	Grzesio	subst:pl:loc:m1	imię
 Grzesia	Grzesio	subst:sg:acc:m1	imię	
 Grzesia	Grzesio	subst:sg:gen:m1	imię	
 Grzesiami	Grzesio	subst:pl:inst:m1	imię	
+Grzesie	Grzesio	depr:pl:acc:m2	imię	
 Grzesie	Grzesio	depr:pl:nom:m2	imię	
 Grzesie	Grzesio	depr:pl:voc:m2	imię	
 Grzesiem	Grzesio	subst:sg:inst:m1	imię	
@@ -7706,6 +7962,7 @@ Grzesiach	Grześ	subst:pl:loc:m1	imię
 Grzesia	Grześ	subst:sg:acc:m1	imię	
 Grzesia	Grześ	subst:sg:gen:m1	imię	
 Grzesiami	Grześ	subst:pl:inst:m1	imię	
+Grzesie	Grześ	depr:pl:acc:m2	imię	
 Grzesie	Grześ	depr:pl:nom:m2	imię	
 Grzesie	Grześ	depr:pl:voc:m2	imię	
 Grzesie	Grześ	subst:pl:nom:m1	imię	
@@ -7726,6 +7983,7 @@ Grześkowiaka	Grześkowiak	subst:sg:gen:m1	nazwisko
 Grześkowiakami	Grześkowiak	subst:pl:inst:m1	nazwisko	
 Grześkowiak	Grześkowiak	subst:sg:nom:m1	nazwisko	
 Grześkowiakiem	Grześkowiak	subst:sg:inst:m1	nazwisko	
+Grześkowiaki	Grześkowiak	depr:pl:acc:m2	nazwisko	
 Grześkowiaki	Grześkowiak	depr:pl:nom:m2	nazwisko	
 Grześkowiaki	Grześkowiak	depr:pl:voc:m2	nazwisko	
 Grześkowiakom	Grześkowiak	subst:pl:dat:m1	nazwisko	
@@ -7764,6 +8022,7 @@ Grzybowie	Grzyb	subst:pl:voc:m1	nazwisko
 Grzybowi	Grzyb	subst:sg:dat:m1	nazwisko	
 Grzybów	Grzyb	subst:pl:acc:m1	nazwisko	
 Grzybów	Grzyb	subst:pl:gen:m1	nazwisko	
+Grzyby	Grzyb	depr:pl:acc:m2	nazwisko	
 Grzyby	Grzyb	depr:pl:nom:m2	nazwisko	
 Grzyby	Grzyb	depr:pl:voc:m2	nazwisko	
 Grzybowska	Grzybowska	subst:sg:nom:f	nazwisko	
@@ -7787,6 +8046,7 @@ Grzybowskich	Grzybowski	subst:pl:gen:m1	nazwisko
 Grzybowskich	Grzybowski	subst:pl:loc:m1	nazwisko	
 Grzybowskiego	Grzybowski	subst:sg:acc:m1	nazwisko	
 Grzybowskiego	Grzybowski	subst:sg:gen:m1	nazwisko	
+Grzybowskie	Grzybowski	depr:pl:acc:m2	nazwisko	
 Grzybowskie	Grzybowski	depr:pl:nom:m2	nazwisko	
 Grzybowskie	Grzybowski	depr:pl:voc:m2	nazwisko	
 Grzybowskiemu	Grzybowski	subst:sg:dat:m1	nazwisko	
@@ -7824,6 +8084,7 @@ Grzymałowie	Grzymała	subst:pl:nom:m1	nazwisko
 Grzymałowie	Grzymała	subst:pl:voc:m1	nazwisko	
 Grzymałów	Grzymała	subst:pl:acc:m1	nazwisko	
 Grzymałów	Grzymała	subst:pl:gen:m1	nazwisko	
+Grzymały	Grzymała	depr:pl:acc:m2	nazwisko	
 Grzymały	Grzymała	depr:pl:nom:m2	nazwisko	
 Grzymały	Grzymała	depr:pl:voc:m2	nazwisko	
 Grzymały	Grzymała	subst:sg:gen:m1	nazwisko	
@@ -7843,6 +8104,7 @@ Grzymisławowie	Grzymisław	subst:pl:voc:m1	imię
 Grzymisławowi	Grzymisław	subst:sg:dat:m1	imię	
 Grzymisławów	Grzymisław	subst:pl:acc:m1	imię	
 Grzymisławów	Grzymisław	subst:pl:gen:m1	imię	
+Grzymisławy	Grzymisław	depr:pl:acc:m2	imię	
 Grzymisławy	Grzymisław	depr:pl:nom:m2	imię	
 Grzymisławy	Grzymisław	depr:pl:voc:m2	imię	
 Grzymisławach	Grzymisława	subst:pl:loc:f	imię	
@@ -7892,6 +8154,7 @@ Guarnerich	Guarneri	subst:pl:gen:m1	nazwisko
 Guarnerich	Guarneri	subst:pl:loc:m1	nazwisko	
 Guarneriego	Guarneri	subst:sg:acc:m1	nazwisko	
 Guarneriego	Guarneri	subst:sg:gen:m1	nazwisko	
+Guarnerie	Guarneri	depr:pl:acc:m2	nazwisko	
 Guarnerie	Guarneri	depr:pl:nom:m2	nazwisko	
 Guarnerie	Guarneri	depr:pl:voc:m2	nazwisko	
 Guarneriemu	Guarneri	subst:sg:dat:m1	nazwisko	
@@ -7952,6 +8215,7 @@ Guccich	Gucci	subst:pl:gen:m1	nazwisko
 Guccich	Gucci	subst:pl:loc:m1	nazwisko	
 Gucciego	Gucci	subst:sg:acc:m1	nazwisko	
 Gucciego	Gucci	subst:sg:gen:m1	nazwisko	
+Guccie	Gucci	depr:pl:acc:m2	nazwisko	
 Guccie	Gucci	depr:pl:nom:m2	nazwisko	
 Guccie	Gucci	depr:pl:voc:m2	nazwisko	
 Gucciemu	Gucci	subst:sg:dat:m1	nazwisko	
@@ -7969,6 +8233,7 @@ Guciach	Gucio	subst:pl:loc:m1	imię
 Gucia	Gucio	subst:sg:acc:m1	imię	
 Gucia	Gucio	subst:sg:gen:m1	imię	
 Guciami	Gucio	subst:pl:inst:m1	imię	
+Gucie	Gucio	depr:pl:acc:m2	imię	
 Gucie	Gucio	depr:pl:nom:m2	imię	
 Gucie	Gucio	depr:pl:voc:m2	imię	
 Guciem	Gucio	subst:sg:inst:m1	imię	
@@ -7988,6 +8253,7 @@ Gucwińskich	Gucwiński	subst:pl:gen:m1	nazwisko
 Gucwińskich	Gucwiński	subst:pl:loc:m1	nazwisko	
 Gucwińskiego	Gucwiński	subst:sg:acc:m1	nazwisko	
 Gucwińskiego	Gucwiński	subst:sg:gen:m1	nazwisko	
+Gucwińskie	Gucwiński	depr:pl:acc:m2	nazwisko	
 Gucwińskie	Gucwiński	depr:pl:nom:m2	nazwisko	
 Gucwińskie	Gucwiński	depr:pl:voc:m2	nazwisko	
 Gucwińskiemu	Gucwiński	subst:sg:dat:m1	nazwisko	
@@ -8004,6 +8270,7 @@ Gudeckich	Gudecki	subst:pl:gen:m1	nazwisko
 Gudeckich	Gudecki	subst:pl:loc:m1	nazwisko	
 Gudeckiego	Gudecki	subst:sg:acc:m1	nazwisko	
 Gudeckiego	Gudecki	subst:sg:gen:m1	nazwisko	
+Gudeckie	Gudecki	depr:pl:acc:m2	nazwisko	
 Gudeckie	Gudecki	depr:pl:nom:m2	nazwisko	
 Gudeckie	Gudecki	depr:pl:voc:m2	nazwisko	
 Gudeckiemu	Gudecki	subst:sg:dat:m1	nazwisko	
@@ -8025,6 +8292,7 @@ Guenterowie	Guenter	subst:pl:voc:m1	imię
 Guenterowi	Guenter	subst:sg:dat:m1	imię	
 Guenterów	Guenter	subst:pl:acc:m1	imię	
 Guenterów	Guenter	subst:pl:gen:m1	imię	
+Guentery	Guenter	depr:pl:acc:m2	imię	
 Guentery	Guenter	depr:pl:nom:m2	imię	
 Guentery	Guenter	depr:pl:voc:m2	imię	
 Guenterze	Guenter	subst:sg:loc:m1	imię	
@@ -8040,6 +8308,7 @@ Guevarowie	Guevara	subst:pl:nom:m1	nazwisko
 Guevarowie	Guevara	subst:pl:voc:m1	nazwisko	
 Guevarów	Guevara	subst:pl:acc:m1	nazwisko	
 Guevarów	Guevara	subst:pl:gen:m1	nazwisko	
+Guevary	Guevara	depr:pl:acc:m2	nazwisko	
 Guevary	Guevara	depr:pl:nom:m2	nazwisko	
 Guevary	Guevara	depr:pl:voc:m2	nazwisko	
 Guevary	Guevara	subst:sg:gen:m1	nazwisko	
@@ -8059,6 +8328,7 @@ Guinnessowie	Guinness	subst:pl:voc:m1	nazwa firmy
 Guinnessowi	Guinness	subst:sg:dat:m1	nazwa firmy	
 Guinnessów	Guinness	subst:pl:acc:m1	nazwa firmy	
 Guinnessów	Guinness	subst:pl:gen:m1	nazwa firmy	
+Guinnessy	Guinness	depr:pl:acc:m2	nazwa firmy	
 Guinnessy	Guinness	depr:pl:nom:m2	nazwa firmy	
 Guinnessy	Guinness	depr:pl:voc:m2	nazwa firmy	
 Gujanach	Gujana	subst:pl:loc:f	nazwa geograficzna	
@@ -8087,6 +8357,7 @@ Guliwerowie	Guliwer	subst:pl:voc:m1	imię	lit.
 Guliwerowi	Guliwer	subst:sg:dat:m1	imię	lit.
 Guliwerów	Guliwer	subst:pl:acc:m1	imię	lit.
 Guliwerów	Guliwer	subst:pl:gen:m1	imię	lit.
+Guliwery	Guliwer	depr:pl:acc:m2	imię	lit.
 Guliwery	Guliwer	depr:pl:nom:m2	imię	lit.
 Guliwery	Guliwer	depr:pl:voc:m2	imię	lit.
 Guliwerze	Guliwer	subst:sg:loc:m1	imię	lit.
@@ -8121,6 +8392,7 @@ Gumnym	Gumna	subst:pl:dat:f	nazwisko
 Gumnymi	Gumna	subst:pl:inst:f	nazwisko	
 Gumnego	Gumny	subst:sg:acc:m1	nazwisko	
 Gumnego	Gumny	subst:sg:gen:m1	nazwisko	
+Gumne	Gumny	depr:pl:acc:m2	nazwisko	
 Gumne	Gumny	depr:pl:nom:m2	nazwisko	
 Gumne	Gumny	depr:pl:voc:m2	nazwisko	
 Gumnemu	Gumny	subst:sg:dat:m1	nazwisko	
@@ -8147,10 +8419,28 @@ Günterowie	Günter	subst:pl:voc:m1	imię
 Günterowi	Günter	subst:sg:dat:m1	imię	
 Günterów	Günter	subst:pl:acc:m1	imię	
 Günterów	Günter	subst:pl:gen:m1	imię	
+Güntery	Günter	depr:pl:acc:m2	imię	
 Güntery	Günter	depr:pl:nom:m2	imię	
 Güntery	Günter	depr:pl:voc:m2	imię	
 Günterze	Günter	subst:sg:loc:m1	imię	
 Günterze	Günter	subst:sg:voc:m1	imię	
+Gurce	Gurkha	subst:sg:dat:m1	nazwa pospolita	
+Gurce	Gurkha	subst:sg:loc:m1	nazwa pospolita	
+Gurkhach	Gurkha	subst:pl:loc:m1	nazwa pospolita	
+Gurkha	Gurkha	subst:sg:nom:m1	nazwa pospolita	
+Gurkhami	Gurkha	subst:pl:inst:m1	nazwa pospolita	
+Gurkhą	Gurkha	subst:sg:inst:m1	nazwa pospolita	
+Gurkhę	Gurkha	subst:sg:acc:m1	nazwa pospolita	
+Gurkhi	Gurkha	depr:pl:acc:m2	nazwa pospolita	
+Gurkhi	Gurkha	depr:pl:nom:m2	nazwa pospolita	
+Gurkhi	Gurkha	depr:pl:voc:m2	nazwa pospolita	
+Gurkhi	Gurkha	subst:sg:gen:m1	nazwa pospolita	
+Gurkho	Gurkha	subst:sg:voc:m1	nazwa pospolita	
+Gurkhom	Gurkha	subst:pl:dat:m1	nazwa pospolita	
+Gurkhowie	Gurkha	subst:pl:nom:m1	nazwa pospolita	
+Gurkhowie	Gurkha	subst:pl:voc:m1	nazwa pospolita	
+Gurkhów	Gurkha	subst:pl:acc:m1	nazwa pospolita	
+Gurkhów	Gurkha	subst:pl:gen:m1	nazwa pospolita	
 GUS-ach	GUS	subst:pl:loc:m3	nazwa instytucji	
 GUS-ami	GUS	subst:pl:inst:m3	nazwa instytucji	
 GUS-em	GUS	subst:sg:inst:m3	nazwa instytucji	
@@ -8205,6 +8495,7 @@ Gustawowie	Gustaw	subst:pl:voc:m1	imię
 Gustawowi	Gustaw	subst:sg:dat:m1	imię	
 Gustawów	Gustaw	subst:pl:acc:m1	imię	
 Gustawów	Gustaw	subst:pl:gen:m1	imię	
+Gustawy	Gustaw	depr:pl:acc:m2	imię	
 Gustawy	Gustaw	depr:pl:nom:m2	imię	
 Gustawy	Gustaw	depr:pl:voc:m2	imię	
 Gustawach	Gustawa	subst:pl:loc:f	imię	
@@ -8227,6 +8518,7 @@ Gustawka	Gustawek	subst:sg:acc:m1	imię
 Gustawka	Gustawek	subst:sg:gen:m1	imię	
 Gustawkami	Gustawek	subst:pl:inst:m1	imię	
 Gustawkiem	Gustawek	subst:sg:inst:m1	imię	
+Gustawki	Gustawek	depr:pl:acc:m2	imię	
 Gustawki	Gustawek	depr:pl:nom:m2	imię	
 Gustawki	Gustawek	depr:pl:voc:m2	imię	
 Gustawkom	Gustawek	subst:pl:dat:m1	imię	
@@ -8243,6 +8535,7 @@ Gustka	Gustek	subst:sg:acc:m1	imię
 Gustka	Gustek	subst:sg:gen:m1	imię	
 Gustkami	Gustek	subst:pl:inst:m1	imię	
 Gustkiem	Gustek	subst:sg:inst:m1	imię	
+Gustki	Gustek	depr:pl:acc:m2	imię	
 Gustki	Gustek	depr:pl:nom:m2	imię	
 Gustki	Gustek	depr:pl:voc:m2	imię	
 Gustkom	Gustek	subst:pl:dat:m1	imię	
@@ -8273,6 +8566,7 @@ Gutka	Gutek	subst:sg:acc:m1	imię
 Gutka	Gutek	subst:sg:gen:m1	imię	
 Gutkami	Gutek	subst:pl:inst:m1	imię	
 Gutkiem	Gutek	subst:sg:inst:m1	imię	
+Gutki	Gutek	depr:pl:acc:m2	imię	
 Gutki	Gutek	depr:pl:nom:m2	imię	
 Gutki	Gutek	depr:pl:voc:m2	imię	
 Gutkom	Gutek	subst:pl:dat:m1	imię	
@@ -8289,6 +8583,7 @@ Gutenberga	Gutenberg	subst:sg:gen:m1	nazwisko
 Gutenbergami	Gutenberg	subst:pl:inst:m1	nazwisko	
 Gutenberg	Gutenberg	subst:sg:nom:m1	nazwisko	
 Gutenbergiem	Gutenberg	subst:sg:inst:m1	nazwisko	
+Gutenbergi	Gutenberg	depr:pl:acc:m2	nazwisko	
 Gutenbergi	Gutenberg	depr:pl:nom:m2	nazwisko	
 Gutenbergi	Gutenberg	depr:pl:voc:m2	nazwisko	
 Gutenbergom	Gutenberg	subst:pl:dat:m1	nazwisko	
@@ -8311,6 +8606,7 @@ Gutkindowie	Gutkind	subst:pl:voc:m1	imię
 Gutkindowi	Gutkind	subst:sg:dat:m1	imię	
 Gutkindów	Gutkind	subst:pl:acc:m1	imię	
 Gutkindów	Gutkind	subst:pl:gen:m1	imię	
+Gutkindy	Gutkind	depr:pl:acc:m2	imię	
 Gutkindy	Gutkind	depr:pl:nom:m2	imię	
 Gutkindy	Gutkind	depr:pl:voc:m2	imię	
 Gutkindzie	Gutkind	subst:sg:loc:m1	imię	
@@ -8336,6 +8632,7 @@ Gutkowskich	Gutkowski	subst:pl:gen:m1	nazwisko
 Gutkowskich	Gutkowski	subst:pl:loc:m1	nazwisko	
 Gutkowskiego	Gutkowski	subst:sg:acc:m1	nazwisko	
 Gutkowskiego	Gutkowski	subst:sg:gen:m1	nazwisko	
+Gutkowskie	Gutkowski	depr:pl:acc:m2	nazwisko	
 Gutkowskie	Gutkowski	depr:pl:nom:m2	nazwisko	
 Gutkowskie	Gutkowski	depr:pl:voc:m2	nazwisko	
 Gutkowskiemu	Gutkowski	subst:sg:dat:m1	nazwisko	
@@ -8361,6 +8658,7 @@ Gutmanowie	Gutman	subst:pl:voc:m1	imię
 Gutmanowi	Gutman	subst:sg:dat:m1	imię	
 Gutmanów	Gutman	subst:pl:acc:m1	imię	
 Gutmanów	Gutman	subst:pl:gen:m1	imię	
+Gutmany	Gutman	depr:pl:acc:m2	imię	
 Gutmany	Gutman	depr:pl:nom:m2	imię	
 Gutmany	Gutman	depr:pl:voc:m2	imię	
 Gutowska	Gutowska	subst:sg:nom:f	nazwisko	
@@ -8384,6 +8682,7 @@ Gutowskich	Gutowski	subst:pl:gen:m1	nazwisko
 Gutowskich	Gutowski	subst:pl:loc:m1	nazwisko	
 Gutowskiego	Gutowski	subst:sg:acc:m1	nazwisko	
 Gutowskiego	Gutowski	subst:sg:gen:m1	nazwisko	
+Gutowskie	Gutowski	depr:pl:acc:m2	nazwisko	
 Gutowskie	Gutowski	depr:pl:nom:m2	nazwisko	
 Gutowskie	Gutowski	depr:pl:voc:m2	nazwisko	
 Gutowskiemu	Gutowski	subst:sg:dat:m1	nazwisko	
@@ -8414,6 +8713,7 @@ Guzowskich	Guzowski	subst:pl:gen:m1	nazwisko
 Guzowskich	Guzowski	subst:pl:loc:m1	nazwisko	
 Guzowskiego	Guzowski	subst:sg:acc:m1	nazwisko	
 Guzowskiego	Guzowski	subst:sg:gen:m1	nazwisko	
+Guzowskie	Guzowski	depr:pl:acc:m2	nazwisko	
 Guzowskie	Guzowski	depr:pl:nom:m2	nazwisko	
 Guzowskie	Guzowski	depr:pl:voc:m2	nazwisko	
 Guzowskiemu	Guzowski	subst:sg:dat:m1	nazwisko	
@@ -8453,6 +8753,7 @@ Gwalbertowie	Gwalbert	subst:pl:voc:m1	imię
 Gwalbertowi	Gwalbert	subst:sg:dat:m1	imię	
 Gwalbertów	Gwalbert	subst:pl:acc:m1	imię	
 Gwalbertów	Gwalbert	subst:pl:gen:m1	imię	
+Gwalberty	Gwalbert	depr:pl:acc:m2	imię	
 Gwalberty	Gwalbert	depr:pl:nom:m2	imię	
 Gwalberty	Gwalbert	depr:pl:voc:m2	imię	
 Gwatemalach	Gwatemala	subst:pl:loc:f	nazwa geograficzna	
@@ -8478,6 +8779,7 @@ Gwatemalczyka	Gwatemalczyk	subst:sg:gen:m1	nazwa pospolita
 Gwatemalczykami	Gwatemalczyk	subst:pl:inst:m1	nazwa pospolita	
 Gwatemalczyk	Gwatemalczyk	subst:sg:nom:m1	nazwa pospolita	
 Gwatemalczykiem	Gwatemalczyk	subst:sg:inst:m1	nazwa pospolita	
+Gwatemalczyki	Gwatemalczyk	depr:pl:acc:m2	nazwa pospolita	
 Gwatemalczyki	Gwatemalczyk	depr:pl:nom:m2	nazwa pospolita	
 Gwatemalczyki	Gwatemalczyk	depr:pl:voc:m2	nazwa pospolita	
 Gwatemalczykom	Gwatemalczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -8511,6 +8813,7 @@ Gwiazdowie	Gwiazda	subst:pl:nom:m1	nazwisko
 Gwiazdowie	Gwiazda	subst:pl:voc:m1	nazwisko	
 Gwiazdów	Gwiazda	subst:pl:acc:m1	nazwisko	
 Gwiazdów	Gwiazda	subst:pl:gen:m1	nazwisko	
+Gwiazdy	Gwiazda	depr:pl:acc:m2	nazwisko	
 Gwiazdy	Gwiazda	depr:pl:nom:m2	nazwisko	
 Gwiazdy	Gwiazda	depr:pl:voc:m2	nazwisko	
 Gwiazdy	Gwiazda	subst:sg:gen:m1	nazwisko	
@@ -8533,6 +8836,7 @@ Gwidonowie	Gwido	subst:pl:voc:m1	imię
 Gwidonowi	Gwido	subst:sg:dat:m1	imię	
 Gwidonów	Gwido	subst:pl:acc:m1	imię	
 Gwidonów	Gwido	subst:pl:gen:m1	imię	
+Gwidony	Gwido	depr:pl:acc:m2	imię	
 Gwidony	Gwido	depr:pl:nom:m2	imię	
 Gwidony	Gwido	depr:pl:voc:m2	imię	
 Gwidonach	Gwidon	subst:pl:loc:m1	imię	
@@ -8549,6 +8853,7 @@ Gwidonowie	Gwidon	subst:pl:voc:m1	imię
 Gwidonowi	Gwidon	subst:sg:dat:m1	imię	
 Gwidonów	Gwidon	subst:pl:acc:m1	imię	
 Gwidonów	Gwidon	subst:pl:gen:m1	imię	
+Gwidony	Gwidon	depr:pl:acc:m2	imię	
 Gwidony	Gwidon	depr:pl:nom:m2	imię	
 Gwidony	Gwidon	depr:pl:voc:m2	imię	
 Gwineach	Gwinea	subst:pl:loc:f	nazwa geograficzna	

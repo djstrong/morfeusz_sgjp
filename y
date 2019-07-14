@@ -53,6 +53,7 @@ yakuzowie	yakuza:s2	subst:pl:voc:m1	nazwa pospolita
 yakuzo	yakuza:s2	subst:sg:voc:m1	nazwa pospolita	
 yakuzów	yakuza:s2	subst:pl:acc:m1	nazwa pospolita	
 yakuzów	yakuza:s2	subst:pl:gen:m1	nazwa pospolita	
+yakuzy	yakuza:s2	depr:pl:acc:m2	nazwa pospolita	
 yakuzy	yakuza:s2	depr:pl:nom:m2	nazwa pospolita	
 yakuzy	yakuza:s2	depr:pl:voc:m2	nazwa pospolita	
 yakuzy	yakuza:s2	subst:sg:gen:m1	nazwa pospolita	
@@ -233,6 +234,7 @@ yuppich	yuppi	subst:pl:loc:m1	nazwa pospolita
 yuppiego	yuppi	subst:sg:acc:m1	nazwa pospolita	
 yuppiego	yuppi	subst:sg:gen:m1	nazwa pospolita	
 yuppiemu	yuppi	subst:sg:dat:m1	nazwa pospolita	
+yuppies	yuppi	depr:pl:acc:m2	nazwa pospolita	
 yuppies	yuppi	depr:pl:nom:m2	nazwa pospolita	
 yuppies	yuppi	depr:pl:voc:m2	nazwa pospolita	
 yuppies	yuppi	subst:pl:nom:m1	nazwa pospolita	
@@ -241,6 +243,7 @@ yuppimi	yuppi	subst:pl:inst:m1	nazwa pospolita
 yuppim	yuppi	subst:pl:dat:m1	nazwa pospolita	
 yuppim	yuppi	subst:sg:inst:m1	nazwa pospolita	
 yuppim	yuppi	subst:sg:loc:m1	nazwa pospolita	
+yuppi	yuppi	depr:pl:acc:m2	nazwa pospolita	
 yuppi	yuppi	depr:pl:nom:m2	nazwa pospolita	
 yuppi	yuppi	depr:pl:voc:m2	nazwa pospolita	
 yuppi	yuppi	subst:pl:acc:m1	nazwa pospolita	
@@ -267,10 +270,12 @@ yuppiemu	yuppie	subst:sg:dat:m1	nazwa pospolita
 yuppiem	yuppie	subst:pl:dat:m1	nazwa pospolita	
 yuppiem	yuppie	subst:sg:inst:m1	nazwa pospolita	
 yuppiem	yuppie	subst:sg:loc:m1	nazwa pospolita	
+yuppies	yuppie	depr:pl:acc:m2	nazwa pospolita	
 yuppies	yuppie	depr:pl:nom:m2	nazwa pospolita	
 yuppies	yuppie	depr:pl:voc:m2	nazwa pospolita	
 yuppies	yuppie	subst:pl:nom:m1	nazwa pospolita	
 yuppies	yuppie	subst:pl:voc:m1	nazwa pospolita	
+yuppie	yuppie	depr:pl:acc:m2	nazwa pospolita	
 yuppie	yuppie	depr:pl:nom:m2	nazwa pospolita	
 yuppie	yuppie	depr:pl:voc:m2	nazwa pospolita	
 yuppie	yuppie	subst:pl:acc:m1	nazwa pospolita	

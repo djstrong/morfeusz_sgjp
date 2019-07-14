@@ -134,6 +134,7 @@ varsavianistom	varsavianista	subst:pl:dat:m1	nazwa pospolita
 varsavianisto	varsavianista	subst:sg:voc:m1	nazwa pospolita	
 varsavianistów	varsavianista	subst:pl:acc:m1	nazwa pospolita	
 varsavianistów	varsavianista	subst:pl:gen:m1	nazwa pospolita	
+varsavianisty	varsavianista	depr:pl:acc:m2	nazwa pospolita	
 varsavianisty	varsavianista	depr:pl:nom:m2	nazwa pospolita	
 varsavianisty	varsavianista	depr:pl:voc:m2	nazwa pospolita	
 varsavianisty	varsavianista	subst:sg:gen:m1	nazwa pospolita	
@@ -188,6 +189,7 @@ vatowcami	vatowiec	subst:pl:inst:m1	nazwa pospolita
 vatowca	vatowiec	subst:sg:acc:m1	nazwa pospolita	
 vatowca	vatowiec	subst:sg:gen:m1	nazwa pospolita	
 vatowcem	vatowiec	subst:sg:inst:m1	nazwa pospolita	
+vatowce	vatowiec	depr:pl:acc:m2	nazwa pospolita	
 vatowce	vatowiec	depr:pl:nom:m2	nazwa pospolita	
 vatowce	vatowiec	depr:pl:voc:m2	nazwa pospolita	
 vatowcom	vatowiec	subst:pl:dat:m1	nazwa pospolita	
@@ -733,6 +735,7 @@ vivantowi	vivant	subst:sg:dat:m1	nazwa pospolita
 vivantów	vivant	subst:pl:acc:m1	nazwa pospolita	
 vivantów	vivant	subst:pl:gen:m1	nazwa pospolita	
 vivant	vivant	subst:sg:nom:m1	nazwa pospolita	
+vivanty	vivant	depr:pl:acc:m2	nazwa pospolita	
 vivanty	vivant	depr:pl:nom:m2	nazwa pospolita	
 vivanty	vivant	depr:pl:voc:m2	nazwa pospolita	
 vivariach	vivarium	subst:pl:loc:n:ncol	nazwa pospolita	
@@ -762,6 +765,7 @@ viveurowi	viveur	subst:sg:dat:m1	nazwa pospolita
 viveurów	viveur	subst:pl:acc:m1	nazwa pospolita	
 viveurów	viveur	subst:pl:gen:m1	nazwa pospolita	
 viveur	viveur	subst:sg:nom:m1	nazwa pospolita	
+viveury	viveur	depr:pl:acc:m2	nazwa pospolita	
 viveury	viveur	depr:pl:nom:m2	nazwa pospolita	
 viveury	viveur	depr:pl:voc:m2	nazwa pospolita	
 viveurze	viveur	subst:sg:loc:m1	nazwa pospolita	
@@ -829,6 +833,7 @@ volksdeutschami	volksdeutsch	subst:pl:inst:m1	nazwa pospolita
 volksdeutscha	volksdeutsch	subst:sg:acc:m1	nazwa pospolita	
 volksdeutscha	volksdeutsch	subst:sg:gen:m1	nazwa pospolita	
 volksdeutschem	volksdeutsch	subst:sg:inst:m1	nazwa pospolita	
+volksdeutsche	volksdeutsch	depr:pl:acc:m2	nazwa pospolita	
 volksdeutsche	volksdeutsch	depr:pl:nom:m2	nazwa pospolita	
 volksdeutsche	volksdeutsch	depr:pl:voc:m2	nazwa pospolita	
 volksdeutsche	volksdeutsch	subst:pl:nom:m1	nazwa pospolita	

@@ -176,6 +176,7 @@
 ścianowca	ścianowiec	subst:sg:acc:m1	nazwa pospolita	
 ścianowca	ścianowiec	subst:sg:gen:m1	nazwa pospolita	
 ścianowcem	ścianowiec	subst:sg:inst:m1	nazwa pospolita	
+ścianowce	ścianowiec	depr:pl:acc:m2	nazwa pospolita	
 ścianowce	ścianowiec	depr:pl:nom:m2	nazwa pospolita	
 ścianowce	ścianowiec	depr:pl:voc:m2	nazwa pospolita	
 ścianowcom	ścianowiec	subst:pl:dat:m1	nazwa pospolita	
@@ -1135,6 +1136,7 @@
 ścichapęka	ścichapęk:s	subst:sg:acc:m1	nazwa pospolita	
 ścichapęka	ścichapęk:s	subst:sg:gen:m1	nazwa pospolita	
 ścichapękiem	ścichapęk:s	subst:sg:inst:m1	nazwa pospolita	
+ścichapęki	ścichapęk:s	depr:pl:acc:m2	nazwa pospolita	
 ścichapęki	ścichapęk:s	depr:pl:nom:m2	nazwa pospolita	
 ścichapęki	ścichapęk:s	depr:pl:voc:m2	nazwa pospolita	
 ścichapękom	ścichapęk:s	subst:pl:dat:m1	nazwa pospolita	
@@ -1968,6 +1970,7 @@
 ściemniacza	ściemniacz:s2	subst:sg:acc:m1	nazwa pospolita	pot.
 ściemniacza	ściemniacz:s2	subst:sg:gen:m1	nazwa pospolita	pot.
 ściemniaczem	ściemniacz:s2	subst:sg:inst:m1	nazwa pospolita	pot.
+ściemniacze	ściemniacz:s2	depr:pl:acc:m2	nazwa pospolita	pot.
 ściemniacze	ściemniacz:s2	depr:pl:nom:m2	nazwa pospolita	pot.
 ściemniacze	ściemniacz:s2	depr:pl:voc:m2	nazwa pospolita	pot.
 ściemniacze	ściemniacz:s2	subst:pl:nom:m1	nazwa pospolita	pot.
@@ -3156,6 +3159,7 @@
 ścierciałowie	ścierciała	subst:pl:voc:m1	nazwa pospolita	rzad.
 ścierciałów	ścierciała	subst:pl:acc:m1	nazwa pospolita	rzad.
 ścierciałów	ścierciała	subst:pl:gen:m1	nazwa pospolita	rzad.
+ścierciały	ścierciała	depr:pl:acc:m2	nazwa pospolita	rzad.
 ścierciały	ścierciała	depr:pl:nom:m2	nazwa pospolita	rzad.
 ścierciały	ścierciała	depr:pl:voc:m2	nazwa pospolita	rzad.
 ścierciały	ścierciała	subst:sg:gen:m1	nazwa pospolita	rzad.
@@ -3168,6 +3172,7 @@
 ścierciałka	ścierciałka	subst:sg:nom:m1	nazwa pospolita	daw.
 ścierciałką	ścierciałka	subst:sg:inst:m1	nazwa pospolita	daw.
 ścierciałkę	ścierciałka	subst:sg:acc:m1	nazwa pospolita	daw.
+ścierciałki	ścierciałka	depr:pl:acc:m2	nazwa pospolita	daw.
 ścierciałki	ścierciałka	depr:pl:nom:m2	nazwa pospolita	daw.
 ścierciałki	ścierciałka	depr:pl:voc:m2	nazwa pospolita	daw.
 ścierciałki	ścierciałka	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -3711,6 +3716,8 @@
 ścierwiarza	ścierwiarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 ścierwiarzem	ścierwiarz	subst:sg:inst:m1	nazwa pospolita	
 ścierwiarzem	ścierwiarz	subst:sg:inst:m1	nazwa pospolita	rzad.
+ścierwiarze	ścierwiarz	depr:pl:acc:m2	nazwa pospolita	
+ścierwiarze	ścierwiarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 ścierwiarze	ścierwiarz	depr:pl:nom:m2	nazwa pospolita	
 ścierwiarze	ścierwiarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 ścierwiarze	ścierwiarz	depr:pl:voc:m2	nazwa pospolita	
@@ -5461,6 +5468,7 @@
 ścisłowca	ścisłowiec	subst:sg:acc:m1	nazwa pospolita	
 ścisłowca	ścisłowiec	subst:sg:gen:m1	nazwa pospolita	
 ścisłowcem	ścisłowiec	subst:sg:inst:m1	nazwa pospolita	
+ścisłowce	ścisłowiec	depr:pl:acc:m2	nazwa pospolita	
 ścisłowce	ścisłowiec	depr:pl:nom:m2	nazwa pospolita	
 ścisłowce	ścisłowiec	depr:pl:voc:m2	nazwa pospolita	
 ścisłowcom	ścisłowiec	subst:pl:dat:m1	nazwa pospolita	
@@ -6536,6 +6544,7 @@
 ślachcica	ślachcic	subst:sg:acc:m1	nazwa pospolita	daw.
 ślachcica	ślachcic	subst:sg:gen:m1	nazwa pospolita	daw.
 ślachcicem	ślachcic	subst:sg:inst:m1	nazwa pospolita	daw.
+ślachcice	ślachcic	depr:pl:acc:m2	nazwa pospolita	daw.
 ślachcice	ślachcic	depr:pl:nom:m2	nazwa pospolita	daw.
 ślachcice	ślachcic	depr:pl:voc:m2	nazwa pospolita	daw.
 ślachcice	ślachcic	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -6724,6 +6733,7 @@
 ślakownika	ślakownik	subst:sg:acc:m1	nazwa pospolita	indyw.
 ślakownika	ślakownik	subst:sg:gen:m1	nazwa pospolita	indyw.
 ślakownikiem	ślakownik	subst:sg:inst:m1	nazwa pospolita	indyw.
+ślakowniki	ślakownik	depr:pl:acc:m2	nazwa pospolita	indyw.
 ślakowniki	ślakownik	depr:pl:nom:m2	nazwa pospolita	indyw.
 ślakowniki	ślakownik	depr:pl:voc:m2	nazwa pospolita	indyw.
 ślakownikom	ślakownik	subst:pl:dat:m1	nazwa pospolita	indyw.
@@ -6756,6 +6766,7 @@
 ślamazaro	ślamazara:s2	subst:sg:voc:m1	nazwa pospolita	
 ślamazarów	ślamazara:s2	subst:pl:acc:m1	nazwa pospolita	
 ślamazarów	ślamazara:s2	subst:pl:gen:m1	nazwa pospolita	
+ślamazary	ślamazara:s2	depr:pl:acc:m2	nazwa pospolita	
 ślamazary	ślamazara:s2	depr:pl:nom:m2	nazwa pospolita	
 ślamazary	ślamazara:s2	depr:pl:voc:m2	nazwa pospolita	
 ślamazary	ślamazara:s2	subst:sg:gen:m1	nazwa pospolita	
@@ -6772,6 +6783,7 @@
 ślamazarnika	ślamazarnik	subst:sg:acc:m1	nazwa pospolita	przest.
 ślamazarnika	ślamazarnik	subst:sg:gen:m1	nazwa pospolita	przest.
 ślamazarnikiem	ślamazarnik	subst:sg:inst:m1	nazwa pospolita	przest.
+ślamazarniki	ślamazarnik	depr:pl:acc:m2	nazwa pospolita	przest.
 ślamazarniki	ślamazarnik	depr:pl:nom:m2	nazwa pospolita	przest.
 ślamazarniki	ślamazarnik	depr:pl:voc:m2	nazwa pospolita	przest.
 ślamazarnikom	ślamazarnik	subst:pl:dat:m1	nazwa pospolita	przest.
@@ -7126,6 +7138,7 @@
 śledczego	śledczy:s	subst:sg:acc:m1	nazwa pospolita	
 śledczego	śledczy:s	subst:sg:gen:m1	nazwa pospolita	
 śledczemu	śledczy:s	subst:sg:dat:m1	nazwa pospolita	
+śledcze	śledczy:s	depr:pl:acc:m2	nazwa pospolita	
 śledcze	śledczy:s	depr:pl:nom:m2	nazwa pospolita	
 śledcze	śledczy:s	depr:pl:voc:m2	nazwa pospolita	
 śledczych	śledczy:s	subst:pl:acc:m1	nazwa pospolita	
@@ -7144,6 +7157,7 @@
 śledziciela	śledziciel	subst:sg:acc:m1	nazwa pospolita	daw.
 śledziciela	śledziciel	subst:sg:gen:m1	nazwa pospolita	daw.
 śledzicielem	śledziciel	subst:sg:inst:m1	nazwa pospolita	daw.
+śledziciele	śledziciel	depr:pl:acc:m2	nazwa pospolita	daw.
 śledziciele	śledziciel	depr:pl:nom:m2	nazwa pospolita	daw.
 śledziciele	śledziciel	depr:pl:voc:m2	nazwa pospolita	daw.
 śledziciele	śledziciel	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -7280,6 +7294,7 @@
 śledziennika	śledziennik	subst:sg:acc:m1	nazwa pospolita	przest.
 śledziennika	śledziennik	subst:sg:gen:m1	nazwa pospolita	przest.
 śledziennikiem	śledziennik	subst:sg:inst:m1	nazwa pospolita	przest.
+śledzienniki	śledziennik	depr:pl:acc:m2	nazwa pospolita	przest.
 śledzienniki	śledziennik	depr:pl:nom:m2	nazwa pospolita	przest.
 śledzienniki	śledziennik	depr:pl:voc:m2	nazwa pospolita	przest.
 śledziennikom	śledziennik	subst:pl:dat:m1	nazwa pospolita	przest.
@@ -7613,6 +7628,7 @@
 ślepaka	ślepak:s1	subst:sg:acc:m1	nazwa pospolita	pogard.|pot.
 ślepaka	ślepak:s1	subst:sg:gen:m1	nazwa pospolita	pogard.|pot.
 ślepakiem	ślepak:s1	subst:sg:inst:m1	nazwa pospolita	pogard.|pot.
+ślepaki	ślepak:s1	depr:pl:acc:m2	nazwa pospolita	pogard.|pot.
 ślepaki	ślepak:s1	depr:pl:nom:m2	nazwa pospolita	pogard.|pot.
 ślepaki	ślepak:s1	depr:pl:voc:m2	nazwa pospolita	pogard.|pot.
 ślepakom	ślepak:s1	subst:pl:dat:m1	nazwa pospolita	pogard.|pot.
@@ -7926,6 +7942,7 @@
 ślepca	ślepiec:s1	subst:sg:acc:m1	nazwa pospolita	
 ślepca	ślepiec:s1	subst:sg:gen:m1	nazwa pospolita	
 ślepcem	ślepiec:s1	subst:sg:inst:m1	nazwa pospolita	
+ślepce	ślepiec:s1	depr:pl:acc:m2	nazwa pospolita	
 ślepce	ślepiec:s1	depr:pl:nom:m2	nazwa pospolita	
 ślepce	ślepiec:s1	depr:pl:voc:m2	nazwa pospolita	
 ślepcom	ślepiec:s1	subst:pl:dat:m1	nazwa pospolita	
@@ -8259,6 +8276,7 @@
 ślepowidza	ślepowidz	subst:sg:acc:m1	nazwa pospolita	
 ślepowidza	ślepowidz	subst:sg:gen:m1	nazwa pospolita	
 ślepowidzem	ślepowidz	subst:sg:inst:m1	nazwa pospolita	
+ślepowidze	ślepowidz	depr:pl:acc:m2	nazwa pospolita	
 ślepowidze	ślepowidz	depr:pl:nom:m2	nazwa pospolita	
 ślepowidze	ślepowidz	depr:pl:voc:m2	nazwa pospolita	
 ślepowidze	ślepowidz	subst:pl:nom:m1	nazwa pospolita	
@@ -8353,6 +8371,7 @@
 ślepego	ślepy:s	subst:sg:acc:m1	nazwa pospolita	
 ślepego	ślepy:s	subst:sg:gen:m1	nazwa pospolita	
 ślepemu	ślepy:s	subst:sg:dat:m1	nazwa pospolita	
+ślepe	ślepy:s	depr:pl:acc:m2	nazwa pospolita	
 ślepe	ślepy:s	depr:pl:nom:m2	nazwa pospolita	
 ślepe	ślepy:s	depr:pl:voc:m2	nazwa pospolita	
 ślepi	ślepy:s	subst:pl:nom:m1	nazwa pospolita	
@@ -10482,6 +10501,7 @@
 ślubnego	ślubny:s	subst:sg:acc:m1	nazwa pospolita	
 ślubnego	ślubny:s	subst:sg:gen:m1	nazwa pospolita	
 ślubnemu	ślubny:s	subst:sg:dat:m1	nazwa pospolita	
+ślubne	ślubny:s	depr:pl:acc:m2	nazwa pospolita	
 ślubne	ślubny:s	depr:pl:nom:m2	nazwa pospolita	
 ślubne	ślubny:s	depr:pl:voc:m2	nazwa pospolita	
 ślubni	ślubny:s	subst:pl:nom:m1	nazwa pospolita	
@@ -10611,6 +10631,7 @@
 ślusarczyka	ślusarczyk	subst:sg:acc:m1	nazwa pospolita	
 ślusarczyka	ślusarczyk	subst:sg:gen:m1	nazwa pospolita	
 ślusarczykiem	ślusarczyk	subst:sg:inst:m1	nazwa pospolita	
+ślusarczyki	ślusarczyk	depr:pl:acc:m2	nazwa pospolita	
 ślusarczyki	ślusarczyk	depr:pl:nom:m2	nazwa pospolita	
 ślusarczyki	ślusarczyk	depr:pl:voc:m2	nazwa pospolita	
 ślusarczykom	ślusarczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -10729,6 +10750,8 @@
 ślusarza	ślusarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 ślusarzem	ślusarz	subst:sg:inst:m1	nazwa pospolita	
 ślusarzem	ślusarz	subst:sg:inst:m1	nazwa pospolita	rzad.
+ślusarze	ślusarz	depr:pl:acc:m2	nazwa pospolita	
+ślusarze	ślusarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 ślusarze	ślusarz	depr:pl:nom:m2	nazwa pospolita	
 ślusarze	ślusarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 ślusarze	ślusarz	depr:pl:voc:m2	nazwa pospolita	
@@ -11170,6 +11193,7 @@
 śluzowego	śluzowy:s	subst:sg:acc:m1	nazwa pospolita	
 śluzowego	śluzowy:s	subst:sg:gen:m1	nazwa pospolita	
 śluzowemu	śluzowy:s	subst:sg:dat:m1	nazwa pospolita	
+śluzowe	śluzowy:s	depr:pl:acc:m2	nazwa pospolita	
 śluzowe	śluzowy:s	depr:pl:nom:m2	nazwa pospolita	
 śluzowe	śluzowy:s	depr:pl:voc:m2	nazwa pospolita	
 śluzowi	śluzowy:s	subst:pl:nom:m1	nazwa pospolita	
@@ -11297,6 +11321,7 @@
 śmiałka	śmiałek	subst:sg:acc:m1	nazwa pospolita	
 śmiałka	śmiałek	subst:sg:gen:m1	nazwa pospolita	
 śmiałkiem	śmiałek	subst:sg:inst:m1	nazwa pospolita	
+śmiałki	śmiałek	depr:pl:acc:m2	nazwa pospolita	
 śmiałki	śmiałek	depr:pl:nom:m2	nazwa pospolita	
 śmiałki	śmiałek	depr:pl:voc:m2	nazwa pospolita	
 śmiałkom	śmiałek	subst:pl:dat:m1	nazwa pospolita	
@@ -11546,6 +11571,7 @@
 śmiechulskiego	śmiechulski:s	subst:sg:acc:m1	nazwa pospolita	gwar.
 śmiechulskiego	śmiechulski:s	subst:sg:gen:m1	nazwa pospolita	gwar.
 śmiechulskiemu	śmiechulski:s	subst:sg:dat:m1	nazwa pospolita	gwar.
+śmiechulskie	śmiechulski:s	depr:pl:acc:m2	nazwa pospolita	gwar.
 śmiechulskie	śmiechulski:s	depr:pl:nom:m2	nazwa pospolita	gwar.
 śmiechulskie	śmiechulski:s	depr:pl:voc:m2	nazwa pospolita	gwar.
 śmiechulskimi	śmiechulski:s	subst:pl:inst:m1	nazwa pospolita	gwar.
@@ -11634,6 +11660,8 @@
 śmieciarza	śmieciarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 śmieciarzem	śmieciarz	subst:sg:inst:m1	nazwa pospolita	
 śmieciarzem	śmieciarz	subst:sg:inst:m1	nazwa pospolita	rzad.
+śmieciarze	śmieciarz	depr:pl:acc:m2	nazwa pospolita	
+śmieciarze	śmieciarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 śmieciarze	śmieciarz	depr:pl:nom:m2	nazwa pospolita	
 śmieciarze	śmieciarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 śmieciarze	śmieciarz	depr:pl:voc:m2	nazwa pospolita	
@@ -11996,6 +12024,7 @@
 śmiecia	śmieć:s2	subst:sg:gen:m2	nazwa pospolita	pogard.
 śmieciem	śmieć:s2	subst:sg:inst:m1	nazwa pospolita	pogard.
 śmieciem	śmieć:s2	subst:sg:inst:m2	nazwa pospolita	pogard.
+śmiecie	śmieć:s2	depr:pl:acc:m2	nazwa pospolita	pogard.
 śmiecie	śmieć:s2	depr:pl:nom:m2	nazwa pospolita	pogard.
 śmiecie	śmieć:s2	depr:pl:voc:m2	nazwa pospolita	pogard.
 śmiecie	śmieć:s2	subst:pl:acc:m2	nazwa pospolita	pogard.
@@ -12305,6 +12334,7 @@
 śmierciożercami	śmierciożerca	subst:pl:inst:m1	nazwa pospolita	
 śmierciożerca	śmierciożerca	subst:sg:nom:m1	nazwa pospolita	
 śmierciożercą	śmierciożerca	subst:sg:inst:m1	nazwa pospolita	
+śmierciożerce	śmierciożerca	depr:pl:acc:m2	nazwa pospolita	
 śmierciożerce	śmierciożerca	depr:pl:nom:m2	nazwa pospolita	
 śmierciożerce	śmierciożerca	depr:pl:voc:m2	nazwa pospolita	
 śmierciożercę	śmierciożerca	subst:sg:acc:m1	nazwa pospolita	
@@ -12594,6 +12624,7 @@
 śmierdziela	śmierdziel:s1	subst:sg:acc:m1	nazwa pospolita	
 śmierdziela	śmierdziel:s1	subst:sg:gen:m1	nazwa pospolita	
 śmierdzielem	śmierdziel:s1	subst:sg:inst:m1	nazwa pospolita	
+śmierdziele	śmierdziel:s1	depr:pl:acc:m2	nazwa pospolita	
 śmierdziele	śmierdziel:s1	depr:pl:nom:m2	nazwa pospolita	
 śmierdziele	śmierdziel:s1	depr:pl:voc:m2	nazwa pospolita	
 śmierdziele	śmierdziel:s1	subst:pl:nom:m1	nazwa pospolita	
@@ -12636,6 +12667,7 @@
 śmierdziuch	śmierdziuch	subst:sg:nom:m1	nazwa pospolita	
 śmierdziuchu	śmierdziuch	subst:sg:loc:m1	nazwa pospolita	
 śmierdziuchu	śmierdziuch	subst:sg:voc:m1	nazwa pospolita	
+śmierdziuchy	śmierdziuch	depr:pl:acc:m2	nazwa pospolita	
 śmierdziuchy	śmierdziuch	depr:pl:nom:m2	nazwa pospolita	
 śmierdziuchy	śmierdziuch	depr:pl:voc:m2	nazwa pospolita	
 śmierdziuchach	śmierdziucha	subst:pl:loc:f	nazwa pospolita	
@@ -12703,6 +12735,7 @@
 śmiertelnika	śmiertelnik	subst:sg:acc:m1	nazwa pospolita	
 śmiertelnika	śmiertelnik	subst:sg:gen:m1	nazwa pospolita	
 śmiertelnikiem	śmiertelnik	subst:sg:inst:m1	nazwa pospolita	
+śmiertelniki	śmiertelnik	depr:pl:acc:m2	nazwa pospolita	
 śmiertelniki	śmiertelnik	depr:pl:nom:m2	nazwa pospolita	
 śmiertelniki	śmiertelnik	depr:pl:voc:m2	nazwa pospolita	
 śmiertelnikom	śmiertelnik	subst:pl:dat:m1	nazwa pospolita	
@@ -12776,6 +12809,7 @@
 śmiertelnego	śmiertelny:s	subst:sg:acc:m1	nazwa pospolita	
 śmiertelnego	śmiertelny:s	subst:sg:gen:m1	nazwa pospolita	
 śmiertelnemu	śmiertelny:s	subst:sg:dat:m1	nazwa pospolita	
+śmiertelne	śmiertelny:s	depr:pl:acc:m2	nazwa pospolita	
 śmiertelne	śmiertelny:s	depr:pl:nom:m2	nazwa pospolita	
 śmiertelne	śmiertelny:s	depr:pl:voc:m2	nazwa pospolita	
 śmiertelni	śmiertelny:s	subst:pl:nom:m1	nazwa pospolita	
@@ -12884,6 +12918,7 @@
 śmieszka	śmieszek:s1	subst:sg:acc:m1	nazwa pospolita	
 śmieszka	śmieszek:s1	subst:sg:gen:m1	nazwa pospolita	
 śmieszkiem	śmieszek:s1	subst:sg:inst:m1	nazwa pospolita	
+śmieszki	śmieszek:s1	depr:pl:acc:m2	nazwa pospolita	
 śmieszki	śmieszek:s1	depr:pl:nom:m2	nazwa pospolita	
 śmieszki	śmieszek:s1	depr:pl:voc:m2	nazwa pospolita	
 śmieszkom	śmieszek:s1	subst:pl:dat:m1	nazwa pospolita	
@@ -13893,6 +13928,7 @@
 śmirusów	śmirus	subst:pl:acc:m1	nazwa pospolita	
 śmirusów	śmirus	subst:pl:gen:m1	nazwa pospolita	
 śmirus	śmirus	subst:sg:nom:m1	nazwa pospolita	
+śmirusy	śmirus	depr:pl:acc:m2	nazwa pospolita	
 śmirusy	śmirus	depr:pl:nom:m2	nazwa pospolita	
 śmirusy	śmirus	depr:pl:voc:m2	nazwa pospolita	
 śmo	śmo	subst:sg:nom:n:ncol		
@@ -14460,6 +14496,8 @@
 śnicerza	śnicerz	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
 śnicerzem	śnicerz	subst:sg:inst:m1	nazwa pospolita	daw.
 śnicerzem	śnicerz	subst:sg:inst:m1	nazwa pospolita	daw.|rzad.
+śnicerze	śnicerz	depr:pl:acc:m2	nazwa pospolita	daw.
+śnicerze	śnicerz	depr:pl:acc:m2	nazwa pospolita	daw.|rzad.
 śnicerze	śnicerz	depr:pl:nom:m2	nazwa pospolita	daw.
 śnicerze	śnicerz	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
 śnicerze	śnicerz	depr:pl:voc:m2	nazwa pospolita	daw.
@@ -16382,6 +16420,7 @@
 śpiewaka	śpiewak:s1	subst:sg:acc:m1	nazwa pospolita	
 śpiewaka	śpiewak:s1	subst:sg:gen:m1	nazwa pospolita	
 śpiewakiem	śpiewak:s1	subst:sg:inst:m1	nazwa pospolita	
+śpiewaki	śpiewak:s1	depr:pl:acc:m2	nazwa pospolita	
 śpiewaki	śpiewak:s1	depr:pl:nom:m2	nazwa pospolita	
 śpiewaki	śpiewak:s1	depr:pl:voc:m2	nazwa pospolita	
 śpiewakom	śpiewak:s1	subst:pl:dat:m1	nazwa pospolita	
@@ -16724,6 +16763,7 @@
 śpioch	śpioch	subst:sg:nom:m1	nazwa pospolita	
 śpiochu	śpioch	subst:sg:loc:m1	nazwa pospolita	
 śpiochu	śpioch	subst:sg:voc:m1	nazwa pospolita	
+śpiochy	śpioch	depr:pl:acc:m2	nazwa pospolita	
 śpiochy	śpioch	depr:pl:nom:m2	nazwa pospolita	
 śpiochy	śpioch	depr:pl:voc:m2	nazwa pospolita	
 śpiochach	śpiocha	subst:pl:loc:f	nazwa pospolita	
@@ -16753,6 +16793,7 @@
 śpioszka	śpioszek	subst:sg:acc:m1	nazwa pospolita	
 śpioszka	śpioszek	subst:sg:gen:m1	nazwa pospolita	
 śpioszkiem	śpioszek	subst:sg:inst:m1	nazwa pospolita	
+śpioszki	śpioszek	depr:pl:acc:m2	nazwa pospolita	
 śpioszki	śpioszek	depr:pl:nom:m2	nazwa pospolita	
 śpioszki	śpioszek	depr:pl:voc:m2	nazwa pospolita	
 śpioszkom	śpioszek	subst:pl:dat:m1	nazwa pospolita	
@@ -17055,6 +17096,7 @@
 średniaka	średniak:s1	subst:sg:acc:m1	nazwa pospolita	
 średniaka	średniak:s1	subst:sg:gen:m1	nazwa pospolita	
 średniakiem	średniak:s1	subst:sg:inst:m1	nazwa pospolita	
+średniaki	średniak:s1	depr:pl:acc:m2	nazwa pospolita	
 średniaki	średniak:s1	depr:pl:nom:m2	nazwa pospolita	
 średniaki	średniak:s1	depr:pl:voc:m2	nazwa pospolita	
 średniakom	średniak:s1	subst:pl:dat:m1	nazwa pospolita	
@@ -17282,6 +17324,7 @@
 średniodystansowca	średniodystansowiec	subst:sg:acc:m1	nazwa pospolita	
 średniodystansowca	średniodystansowiec	subst:sg:gen:m1	nazwa pospolita	
 średniodystansowcem	średniodystansowiec	subst:sg:inst:m1	nazwa pospolita	
+średniodystansowce	średniodystansowiec	depr:pl:acc:m2	nazwa pospolita	
 średniodystansowce	średniodystansowiec	depr:pl:nom:m2	nazwa pospolita	
 średniodystansowce	średniodystansowiec	depr:pl:voc:m2	nazwa pospolita	
 średniodystansowcom	średniodystansowiec	subst:pl:dat:m1	nazwa pospolita	
@@ -17813,6 +17856,7 @@
 średniorolnego	średniorolny:s	subst:sg:acc:m1	nazwa pospolita	
 średniorolnego	średniorolny:s	subst:sg:gen:m1	nazwa pospolita	
 średniorolnemu	średniorolny:s	subst:sg:dat:m1	nazwa pospolita	
+średniorolne	średniorolny:s	depr:pl:acc:m2	nazwa pospolita	
 średniorolne	średniorolny:s	depr:pl:nom:m2	nazwa pospolita	
 średniorolne	średniorolny:s	depr:pl:voc:m2	nazwa pospolita	
 średniorolni	średniorolny:s	subst:pl:nom:m1	nazwa pospolita	
@@ -21116,6 +21160,7 @@
 śrutowca	śrutowiec	subst:sg:acc:m1	nazwa pospolita	
 śrutowca	śrutowiec	subst:sg:gen:m1	nazwa pospolita	
 śrutowcem	śrutowiec	subst:sg:inst:m1	nazwa pospolita	
+śrutowce	śrutowiec	depr:pl:acc:m2	nazwa pospolita	
 śrutowce	śrutowiec	depr:pl:nom:m2	nazwa pospolita	
 śrutowce	śrutowiec	depr:pl:voc:m2	nazwa pospolita	
 śrutowcom	śrutowiec	subst:pl:dat:m1	nazwa pospolita	
@@ -21453,6 +21498,7 @@
 śudrowie	śudra	subst:pl:voc:m1	nazwa pospolita	
 śudrów	śudra	subst:pl:acc:m1	nazwa pospolita	
 śudrów	śudra	subst:pl:gen:m1	nazwa pospolita	
+śudry	śudra	depr:pl:acc:m2	nazwa pospolita	
 śudry	śudra	depr:pl:nom:m2	nazwa pospolita	
 śudry	śudra	depr:pl:voc:m2	nazwa pospolita	
 śudry	śudra	subst:sg:gen:m1	nazwa pospolita	
@@ -21515,6 +21561,7 @@
 świadczeniobiorcami	świadczeniobiorca	subst:pl:inst:m1	nazwa pospolita	
 świadczeniobiorca	świadczeniobiorca	subst:sg:nom:m1	nazwa pospolita	
 świadczeniobiorcą	świadczeniobiorca	subst:sg:inst:m1	nazwa pospolita	
+świadczeniobiorce	świadczeniobiorca	depr:pl:acc:m2	nazwa pospolita	
 świadczeniobiorce	świadczeniobiorca	depr:pl:nom:m2	nazwa pospolita	
 świadczeniobiorce	świadczeniobiorca	depr:pl:voc:m2	nazwa pospolita	
 świadczeniobiorcę	świadczeniobiorca	subst:sg:acc:m1	nazwa pospolita	
@@ -21531,6 +21578,7 @@
 świadczeniodawcami	świadczeniodawca	subst:pl:inst:m1	nazwa pospolita	
 świadczeniodawca	świadczeniodawca	subst:sg:nom:m1	nazwa pospolita	
 świadczeniodawcą	świadczeniodawca	subst:sg:inst:m1	nazwa pospolita	
+świadczeniodawce	świadczeniodawca	depr:pl:acc:m2	nazwa pospolita	
 świadczeniodawce	świadczeniodawca	depr:pl:nom:m2	nazwa pospolita	
 świadczeniodawce	świadczeniodawca	depr:pl:voc:m2	nazwa pospolita	
 świadczeniodawcę	świadczeniodawca	subst:sg:acc:m1	nazwa pospolita	
@@ -21690,6 +21738,7 @@
 świadka	świadek	subst:sg:acc:m1	nazwa pospolita	
 świadka	świadek	subst:sg:gen:m1	nazwa pospolita	
 świadkiem	świadek	subst:sg:inst:m1	nazwa pospolita	
+świadki	świadek	depr:pl:acc:m2	nazwa pospolita	
 świadki	świadek	depr:pl:nom:m2	nazwa pospolita	
 świadki	świadek	depr:pl:voc:m2	nazwa pospolita	
 świadkom	świadek	subst:pl:dat:m1	nazwa pospolita	
@@ -22652,6 +22701,7 @@
 światoburcami	światoburca	subst:pl:inst:m1	nazwa pospolita	
 światoburca	światoburca	subst:sg:nom:m1	nazwa pospolita	
 światoburcą	światoburca	subst:sg:inst:m1	nazwa pospolita	
+światoburce	światoburca	depr:pl:acc:m2	nazwa pospolita	
 światoburce	światoburca	depr:pl:nom:m2	nazwa pospolita	
 światoburce	światoburca	depr:pl:voc:m2	nazwa pospolita	
 światoburcę	światoburca	subst:sg:acc:m1	nazwa pospolita	
@@ -22838,6 +22888,7 @@
 światowca	światowiec	subst:sg:acc:m1	nazwa pospolita	
 światowca	światowiec	subst:sg:gen:m1	nazwa pospolita	
 światowcem	światowiec	subst:sg:inst:m1	nazwa pospolita	
+światowce	światowiec	depr:pl:acc:m2	nazwa pospolita	
 światowce	światowiec	depr:pl:nom:m2	nazwa pospolita	
 światowce	światowiec	depr:pl:voc:m2	nazwa pospolita	
 światowcom	światowiec	subst:pl:dat:m1	nazwa pospolita	
@@ -23042,6 +23093,7 @@
 świątecznika	świątecznik	subst:sg:acc:m1	nazwa pospolita	daw.
 świątecznika	świątecznik	subst:sg:gen:m1	nazwa pospolita	daw.
 świątecznikiem	świątecznik	subst:sg:inst:m1	nazwa pospolita	daw.
+świąteczniki	świątecznik	depr:pl:acc:m2	nazwa pospolita	daw.
 świąteczniki	świątecznik	depr:pl:nom:m2	nazwa pospolita	daw.
 świąteczniki	świątecznik	depr:pl:voc:m2	nazwa pospolita	daw.
 świątecznikom	świątecznik	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -23142,6 +23194,8 @@
 świątkarza	świątkarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 świątkarzem	świątkarz	subst:sg:inst:m1	nazwa pospolita	
 świątkarzem	świątkarz	subst:sg:inst:m1	nazwa pospolita	rzad.
+świątkarze	świątkarz	depr:pl:acc:m2	nazwa pospolita	
+świątkarze	świątkarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 świątkarze	świątkarz	depr:pl:nom:m2	nazwa pospolita	
 świątkarze	świątkarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 świątkarze	świątkarz	depr:pl:voc:m2	nazwa pospolita	
@@ -23336,6 +23390,7 @@
 świątnika	świątnik	subst:sg:acc:m1	nazwa pospolita	daw.
 świątnika	świątnik	subst:sg:gen:m1	nazwa pospolita	daw.
 świątnikiem	świątnik	subst:sg:inst:m1	nazwa pospolita	daw.
+świątniki	świątnik	depr:pl:acc:m2	nazwa pospolita	daw.
 świątniki	świątnik	depr:pl:nom:m2	nazwa pospolita	daw.
 świątniki	świątnik	depr:pl:voc:m2	nazwa pospolita	daw.
 świątnikom	świątnik	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -23352,6 +23407,7 @@
 świątobliwca	świątobliwiec	subst:sg:acc:m1	nazwa pospolita	indyw.
 świątobliwca	świątobliwiec	subst:sg:gen:m1	nazwa pospolita	indyw.
 świątobliwcem	świątobliwiec	subst:sg:inst:m1	nazwa pospolita	indyw.
+świątobliwce	świątobliwiec	depr:pl:acc:m2	nazwa pospolita	indyw.
 świątobliwce	świątobliwiec	depr:pl:nom:m2	nazwa pospolita	indyw.
 świątobliwce	świątobliwiec	depr:pl:voc:m2	nazwa pospolita	indyw.
 świątobliwcom	świątobliwiec	subst:pl:dat:m1	nazwa pospolita	indyw.
@@ -24266,6 +24322,8 @@
 świecarza	świecarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 świecarzem	świecarz	subst:sg:inst:m1	nazwa pospolita	
 świecarzem	świecarz	subst:sg:inst:m1	nazwa pospolita	rzad.
+świecarze	świecarz	depr:pl:acc:m2	nazwa pospolita	
+świecarze	świecarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 świecarze	świecarz	depr:pl:nom:m2	nazwa pospolita	
 świecarze	świecarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 świecarze	świecarz	depr:pl:voc:m2	nazwa pospolita	
@@ -24512,6 +24570,7 @@
 świecibaka	świecibaka:s2	subst:sg:nom:m1	nazwa pospolita	daw.
 świecibaką	świecibaka:s2	subst:sg:inst:m1	nazwa pospolita	daw.
 świecibakę	świecibaka:s2	subst:sg:acc:m1	nazwa pospolita	daw.
+świecibaki	świecibaka:s2	depr:pl:acc:m2	nazwa pospolita	daw.
 świecibaki	świecibaka:s2	depr:pl:nom:m2	nazwa pospolita	daw.
 świecibaki	świecibaka:s2	depr:pl:voc:m2	nazwa pospolita	daw.
 świecibaki	świecibaka:s2	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -24729,6 +24788,7 @@
 świeckiego	świecki:s	subst:sg:acc:m1	nazwa pospolita	
 świeckiego	świecki:s	subst:sg:gen:m1	nazwa pospolita	
 świeckiemu	świecki:s	subst:sg:dat:m1	nazwa pospolita	
+świeckie	świecki:s	depr:pl:acc:m2	nazwa pospolita	
 świeckie	świecki:s	depr:pl:nom:m2	nazwa pospolita	
 świeckie	świecki:s	depr:pl:voc:m2	nazwa pospolita	
 świeckimi	świecki:s	subst:pl:inst:m1	nazwa pospolita	
@@ -25331,6 +25391,7 @@
 świekrowi	świekier	subst:sg:dat:m1	nazwa pospolita	przest.
 świekrów	świekier	subst:pl:acc:m1	nazwa pospolita	przest.
 świekrów	świekier	subst:pl:gen:m1	nazwa pospolita	przest.
+świekry	świekier	depr:pl:acc:m2	nazwa pospolita	przest.
 świekry	świekier	depr:pl:nom:m2	nazwa pospolita	przest.
 świekry	świekier	depr:pl:voc:m2	nazwa pospolita	przest.
 świekrze	świekier	subst:sg:loc:m1	nazwa pospolita	przest.
@@ -25482,6 +25543,7 @@
 świerczałowie	świerczała	subst:pl:voc:m1	nazwa pospolita	daw.
 świerczałów	świerczała	subst:pl:acc:m1	nazwa pospolita	daw.
 świerczałów	świerczała	subst:pl:gen:m1	nazwa pospolita	daw.
+świerczały	świerczała	depr:pl:acc:m2	nazwa pospolita	daw.
 świerczały	świerczała	depr:pl:nom:m2	nazwa pospolita	daw.
 świerczały	świerczała	depr:pl:voc:m2	nazwa pospolita	daw.
 świerczały	świerczała	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -25494,6 +25556,7 @@
 świerczałka	świerczałka	subst:sg:nom:m1	nazwa pospolita	daw.
 świerczałką	świerczałka	subst:sg:inst:m1	nazwa pospolita	daw.
 świerczałkę	świerczałka	subst:sg:acc:m1	nazwa pospolita	daw.
+świerczałki	świerczałka	depr:pl:acc:m2	nazwa pospolita	daw.
 świerczałki	świerczałka	depr:pl:nom:m2	nazwa pospolita	daw.
 świerczałki	świerczałka	depr:pl:voc:m2	nazwa pospolita	daw.
 świerczałki	świerczałka	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -27046,6 +27109,7 @@
 świetlicowca	świetlicowiec	subst:sg:acc:m1	nazwa pospolita	
 świetlicowca	świetlicowiec	subst:sg:gen:m1	nazwa pospolita	
 świetlicowcem	świetlicowiec	subst:sg:inst:m1	nazwa pospolita	
+świetlicowce	świetlicowiec	depr:pl:acc:m2	nazwa pospolita	
 świetlicowce	świetlicowiec	depr:pl:nom:m2	nazwa pospolita	
 świetlicowce	świetlicowiec	depr:pl:voc:m2	nazwa pospolita	
 świetlicowcom	świetlicowiec	subst:pl:dat:m1	nazwa pospolita	
@@ -27110,6 +27174,7 @@
 świetliczanom	świetliczanin	subst:pl:dat:m1	nazwa pospolita	
 świetliczan	świetliczanin	subst:pl:acc:m1	nazwa pospolita	
 świetliczan	świetliczanin	subst:pl:gen:m1	nazwa pospolita	
+świetliczany	świetliczanin	depr:pl:acc:m2	nazwa pospolita	
 świetliczany	świetliczanin	depr:pl:nom:m2	nazwa pospolita	
 świetliczany	świetliczanin	depr:pl:voc:m2	nazwa pospolita	
 świetliczance	świetliczanka	subst:sg:dat:f	nazwa pospolita	
@@ -28458,6 +28523,7 @@
 świętka	świętek	subst:sg:acc:m1	nazwa pospolita	indyw.
 świętka	świętek	subst:sg:gen:m1	nazwa pospolita	indyw.
 świętkiem	świętek	subst:sg:inst:m1	nazwa pospolita	indyw.
+świętki	świętek	depr:pl:acc:m2	nazwa pospolita	indyw.
 świętki	świętek	depr:pl:nom:m2	nazwa pospolita	indyw.
 świętki	świętek	depr:pl:voc:m2	nazwa pospolita	indyw.
 świętkom	świętek	subst:pl:dat:m1	nazwa pospolita	indyw.
@@ -28588,6 +28654,7 @@
 świętobójcami	świętobójca	subst:pl:inst:m1	nazwa pospolita	przest.
 świętobójca	świętobójca	subst:sg:nom:m1	nazwa pospolita	przest.
 świętobójcą	świętobójca	subst:sg:inst:m1	nazwa pospolita	przest.
+świętobójce	świętobójca	depr:pl:acc:m2	nazwa pospolita	przest.
 świętobójce	świętobójca	depr:pl:nom:m2	nazwa pospolita	przest.
 świętobójce	świętobójca	depr:pl:voc:m2	nazwa pospolita	przest.
 świętobójcę	świętobójca	subst:sg:acc:m1	nazwa pospolita	przest.
@@ -28713,6 +28780,7 @@
 świętojurcami	świętojurca	subst:pl:inst:m1	nazwa pospolita	
 świętojurca	świętojurca	subst:sg:nom:m1	nazwa pospolita	
 świętojurcą	świętojurca	subst:sg:inst:m1	nazwa pospolita	
+świętojurce	świętojurca	depr:pl:acc:m2	nazwa pospolita	
 świętojurce	świętojurca	depr:pl:nom:m2	nazwa pospolita	
 świętojurce	świętojurca	depr:pl:voc:m2	nazwa pospolita	
 świętojurcę	świętojurca	subst:sg:acc:m1	nazwa pospolita	
@@ -28769,6 +28837,7 @@
 świętokradcami	świętokradca	subst:pl:inst:m1	nazwa pospolita	
 świętokradca	świętokradca	subst:sg:nom:m1	nazwa pospolita	
 świętokradcą	świętokradca	subst:sg:inst:m1	nazwa pospolita	
+świętokradce	świętokradca	depr:pl:acc:m2	nazwa pospolita	
 świętokradce	świętokradca	depr:pl:nom:m2	nazwa pospolita	
 świętokradce	świętokradca	depr:pl:voc:m2	nazwa pospolita	
 świętokradcę	świętokradca	subst:sg:acc:m1	nazwa pospolita	
@@ -28946,6 +29015,7 @@
 świętokupcami	świętokupca	subst:pl:inst:m1	nazwa pospolita	
 świętokupca	świętokupca	subst:sg:nom:m1	nazwa pospolita	
 świętokupcą	świętokupca	subst:sg:inst:m1	nazwa pospolita	
+świętokupce	świętokupca	depr:pl:acc:m2	nazwa pospolita	
 świętokupce	świętokupca	depr:pl:nom:m2	nazwa pospolita	
 świętokupce	świętokupca	depr:pl:voc:m2	nazwa pospolita	
 świętokupcę	świętokupca	subst:sg:acc:m1	nazwa pospolita	
@@ -29006,6 +29076,7 @@
 świętoszka	świętoszek	subst:sg:acc:m1	nazwa pospolita	
 świętoszka	świętoszek	subst:sg:gen:m1	nazwa pospolita	
 świętoszkiem	świętoszek	subst:sg:inst:m1	nazwa pospolita	
+świętoszki	świętoszek	depr:pl:acc:m2	nazwa pospolita	
 świętoszki	świętoszek	depr:pl:nom:m2	nazwa pospolita	
 świętoszki	świętoszek	depr:pl:voc:m2	nazwa pospolita	
 świętoszkom	świętoszek	subst:pl:dat:m1	nazwa pospolita	
@@ -29293,6 +29364,7 @@
 świętego	święty:s	subst:sg:acc:m1	nazwa pospolita	
 świętego	święty:s	subst:sg:gen:m1	nazwa pospolita	
 świętemu	święty:s	subst:sg:dat:m1	nazwa pospolita	
+święte	święty:s	depr:pl:acc:m2	nazwa pospolita	
 święte	święty:s	depr:pl:nom:m2	nazwa pospolita	
 święte	święty:s	depr:pl:voc:m2	nazwa pospolita	
 świętych	święty:s	subst:pl:acc:m1	nazwa pospolita	
@@ -29376,6 +29448,7 @@
 świniareczka	świniareczek	subst:sg:acc:m1	nazwa pospolita	gwar.
 świniareczka	świniareczek	subst:sg:gen:m1	nazwa pospolita	gwar.
 świniareczkiem	świniareczek	subst:sg:inst:m1	nazwa pospolita	gwar.
+świniareczki	świniareczek	depr:pl:acc:m2	nazwa pospolita	gwar.
 świniareczki	świniareczek	depr:pl:nom:m2	nazwa pospolita	gwar.
 świniareczki	świniareczek	depr:pl:voc:m2	nazwa pospolita	gwar.
 świniareczkom	świniareczek	subst:pl:dat:m1	nazwa pospolita	gwar.
@@ -29392,6 +29465,7 @@
 świniarka	świniarek	subst:sg:acc:m1	nazwa pospolita	
 świniarka	świniarek	subst:sg:gen:m1	nazwa pospolita	
 świniarkiem	świniarek	subst:sg:inst:m1	nazwa pospolita	
+świniarki	świniarek	depr:pl:acc:m2	nazwa pospolita	
 świniarki	świniarek	depr:pl:nom:m2	nazwa pospolita	
 świniarki	świniarek	depr:pl:voc:m2	nazwa pospolita	
 świniarkom	świniarek	subst:pl:dat:m1	nazwa pospolita	
@@ -29426,6 +29500,8 @@
 świniarza	świniarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 świniarzem	świniarz	subst:sg:inst:m1	nazwa pospolita	
 świniarzem	świniarz	subst:sg:inst:m1	nazwa pospolita	rzad.
+świniarze	świniarz	depr:pl:acc:m2	nazwa pospolita	
+świniarze	świniarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 świniarze	świniarz	depr:pl:nom:m2	nazwa pospolita	
 świniarze	świniarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 świniarze	świniarz	depr:pl:voc:m2	nazwa pospolita	
@@ -29647,6 +29723,7 @@
 świniobójcami	świniobójca	subst:pl:inst:m1	nazwa pospolita	
 świniobójca	świniobójca	subst:sg:nom:m1	nazwa pospolita	
 świniobójcą	świniobójca	subst:sg:inst:m1	nazwa pospolita	
+świniobójce	świniobójca	depr:pl:acc:m2	nazwa pospolita	
 świniobójce	świniobójca	depr:pl:nom:m2	nazwa pospolita	
 świniobójce	świniobójca	depr:pl:voc:m2	nazwa pospolita	
 świniobójcę	świniobójca	subst:sg:acc:m1	nazwa pospolita	
@@ -29718,6 +29795,7 @@
 świniopasów	świniopas	subst:pl:acc:m1	nazwa pospolita	
 świniopasów	świniopas	subst:pl:gen:m1	nazwa pospolita	
 świniopas	świniopas	subst:sg:nom:m1	nazwa pospolita	
+świniopasy	świniopas	depr:pl:acc:m2	nazwa pospolita	
 świniopasy	świniopas	depr:pl:nom:m2	nazwa pospolita	
 świniopasy	świniopas	depr:pl:voc:m2	nazwa pospolita	
 świniościach	świniość	subst:pl:loc:f	nazwa pospolita	daw.
@@ -29800,6 +29878,7 @@
 świnopasów	świnopas	subst:pl:acc:m1	nazwa pospolita	
 świnopasów	świnopas	subst:pl:gen:m1	nazwa pospolita	
 świnopas	świnopas	subst:sg:nom:m1	nazwa pospolita	
+świnopasy	świnopas	depr:pl:acc:m2	nazwa pospolita	
 świnopasy	świnopas	depr:pl:nom:m2	nazwa pospolita	
 świnopasy	świnopas	depr:pl:voc:m2	nazwa pospolita	
 świnoujscy	świnoujski	adj:pl:nom.voc:m1:pos		
@@ -29856,6 +29935,7 @@
 świnoujścianom	świnoujścianin	subst:pl:dat:m1	nazwa pospolita	
 świnoujścian	świnoujścianin	subst:pl:acc:m1	nazwa pospolita	
 świnoujścian	świnoujścianin	subst:pl:gen:m1	nazwa pospolita	
+świnoujściany	świnoujścianin	depr:pl:acc:m2	nazwa pospolita	
 świnoujściany	świnoujścianin	depr:pl:nom:m2	nazwa pospolita	
 świnoujściany	świnoujścianin	depr:pl:voc:m2	nazwa pospolita	
 świntuchach	świntuch	subst:pl:loc:m1	nazwa pospolita	
@@ -29872,6 +29952,7 @@
 świntuch	świntuch	subst:sg:nom:m1	nazwa pospolita	
 świntuchu	świntuch	subst:sg:loc:m1	nazwa pospolita	
 świntuchu	świntuch	subst:sg:voc:m1	nazwa pospolita	
+świntuchy	świntuch	depr:pl:acc:m2	nazwa pospolita	
 świntuchy	świntuch	depr:pl:nom:m2	nazwa pospolita	
 świntuchy	świntuch	depr:pl:voc:m2	nazwa pospolita	
 świntuchach	świntucha	subst:pl:loc:f	nazwa pospolita	
@@ -29894,6 +29975,7 @@
 świntuszka	świntuszek	subst:sg:acc:m1	nazwa pospolita	
 świntuszka	świntuszek	subst:sg:gen:m1	nazwa pospolita	
 świntuszkiem	świntuszek	subst:sg:inst:m1	nazwa pospolita	
+świntuszki	świntuszek	depr:pl:acc:m2	nazwa pospolita	
 świntuszki	świntuszek	depr:pl:nom:m2	nazwa pospolita	
 świntuszki	świntuszek	depr:pl:voc:m2	nazwa pospolita	
 świntuszkom	świntuszek	subst:pl:dat:m1	nazwa pospolita	
@@ -30089,6 +30171,7 @@
 świńtuch	świńtuch	subst:sg:nom:m1	nazwa pospolita	rzad.
 świńtuchu	świńtuch	subst:sg:loc:m1	nazwa pospolita	rzad.
 świńtuchu	świńtuch	subst:sg:voc:m1	nazwa pospolita	rzad.
+świńtuchy	świńtuch	depr:pl:acc:m2	nazwa pospolita	rzad.
 świńtuchy	świńtuch	depr:pl:nom:m2	nazwa pospolita	rzad.
 świńtuchy	świńtuch	depr:pl:voc:m2	nazwa pospolita	rzad.
 świńtusząca	świńtuszyć	pact:sg:nom.voc:f:imperf:aff		
@@ -30203,6 +30286,7 @@
 śwircałka	śwircałka	subst:sg:nom:m1	nazwa pospolita	daw.
 śwircałką	śwircałka	subst:sg:inst:m1	nazwa pospolita	daw.
 śwircałkę	śwircałka	subst:sg:acc:m1	nazwa pospolita	daw.
+śwircałki	śwircałka	depr:pl:acc:m2	nazwa pospolita	daw.
 śwircałki	śwircałka	depr:pl:nom:m2	nazwa pospolita	daw.
 śwircałki	śwircałka	depr:pl:voc:m2	nazwa pospolita	daw.
 śwircałki	śwircałka	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -30455,6 +30539,7 @@
 świrów	świr:s1	subst:pl:acc:m1	nazwa pospolita	pot.
 świrów	świr:s1	subst:pl:gen:m1	nazwa pospolita	pot.
 świr	świr:s1	subst:sg:nom:m1	nazwa pospolita	pot.
+świry	świr:s1	depr:pl:acc:m2	nazwa pospolita	pot.
 świry	świr:s1	depr:pl:nom:m2	nazwa pospolita	pot.
 świry	świr:s1	depr:pl:voc:m2	nazwa pospolita	pot.
 świrze	świr:s1	subst:sg:loc:m1	nazwa pospolita	pot.
@@ -30503,6 +30588,7 @@
 świrusów	świrus	subst:pl:acc:m1	nazwa pospolita	pot.
 świrusów	świrus	subst:pl:gen:m1	nazwa pospolita	pot.
 świrus	świrus	subst:sg:nom:m1	nazwa pospolita	pot.
+świrusy	świrus	depr:pl:acc:m2	nazwa pospolita	pot.
 świrusy	świrus	depr:pl:nom:m2	nazwa pospolita	pot.
 świrusy	świrus	depr:pl:voc:m2	nazwa pospolita	pot.
 świrzepach	świrzepa	subst:pl:loc:f	nazwa pospolita	
@@ -30961,6 +31047,7 @@
 świstunów	świstun:s2	subst:pl:acc:m1	nazwa pospolita	daw.
 świstunów	świstun:s2	subst:pl:gen:m1	nazwa pospolita	daw.
 świstun	świstun:s2	subst:sg:nom:m1	nazwa pospolita	daw.
+świstuny	świstun:s2	depr:pl:acc:m2	nazwa pospolita	daw.
 świstuny	świstun:s2	depr:pl:nom:m2	nazwa pospolita	daw.
 świstuny	świstun:s2	depr:pl:voc:m2	nazwa pospolita	daw.
 świszczach	świszcz	subst:pl:loc:m2	nazwa pospolita	przest.
@@ -31107,6 +31194,7 @@
 świszczypałów	świszczypał	subst:pl:acc:m1	nazwa pospolita	gwar.
 świszczypałów	świszczypał	subst:pl:gen:m1	nazwa pospolita	gwar.
 świszczypał	świszczypał	subst:sg:nom:m1	nazwa pospolita	gwar.
+świszczypały	świszczypał	depr:pl:acc:m2	nazwa pospolita	gwar.
 świszczypały	świszczypał	depr:pl:nom:m2	nazwa pospolita	gwar.
 świszczypały	świszczypał	depr:pl:voc:m2	nazwa pospolita	gwar.
 świszczypale	świszczypała:s1	subst:sg:dat:f	nazwa pospolita	rzad.|żart.
@@ -31136,6 +31224,7 @@
 świszczypałowie	świszczypała:s3	subst:pl:voc:m1	nazwa pospolita	rzad.|żart.
 świszczypałów	świszczypała:s3	subst:pl:acc:m1	nazwa pospolita	rzad.|żart.
 świszczypałów	świszczypała:s3	subst:pl:gen:m1	nazwa pospolita	rzad.|żart.
+świszczypały	świszczypała:s3	depr:pl:acc:m2	nazwa pospolita	rzad.|żart.
 świszczypały	świszczypała:s3	depr:pl:nom:m2	nazwa pospolita	rzad.|żart.
 świszczypały	świszczypała:s3	depr:pl:voc:m2	nazwa pospolita	rzad.|żart.
 świszczypały	świszczypała:s3	subst:sg:gen:m1	nazwa pospolita	rzad.|żart.
@@ -31148,6 +31237,7 @@
 świszczypałka	świszczypałka	subst:sg:nom:m1	nazwa pospolita	daw.
 świszczypałką	świszczypałka	subst:sg:inst:m1	nazwa pospolita	daw.
 świszczypałkę	świszczypałka	subst:sg:acc:m1	nazwa pospolita	daw.
+świszczypałki	świszczypałka	depr:pl:acc:m2	nazwa pospolita	daw.
 świszczypałki	świszczypałka	depr:pl:nom:m2	nazwa pospolita	daw.
 świszczypałki	świszczypałka	depr:pl:voc:m2	nazwa pospolita	daw.
 świszczypałki	świszczypałka	subst:sg:gen:m1	nazwa pospolita	daw.

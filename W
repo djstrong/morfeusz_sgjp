@@ -7,6 +7,7 @@ Wackami	Wacek	subst:pl:inst:m1	imię
 Wacka	Wacek	subst:sg:acc:m1	imię	
 Wacka	Wacek	subst:sg:gen:m1	imię	
 Wackiem	Wacek	subst:sg:inst:m1	imię	
+Wacki	Wacek	depr:pl:acc:m2	imię	
 Wacki	Wacek	depr:pl:nom:m2	imię	
 Wacki	Wacek	depr:pl:voc:m2	imię	
 Wackom	Wacek	subst:pl:dat:m1	imię	
@@ -22,6 +23,7 @@ Wachholzami	Wachholz	subst:pl:inst:m1	nazwisko
 Wachholza	Wachholz	subst:sg:acc:m1	nazwisko	
 Wachholza	Wachholz	subst:sg:gen:m1	nazwisko	
 Wachholzem	Wachholz	subst:sg:inst:m1	nazwisko	
+Wachholze	Wachholz	depr:pl:acc:m2	nazwisko	
 Wachholze	Wachholz	depr:pl:nom:m2	nazwisko	
 Wachholze	Wachholz	depr:pl:voc:m2	nazwisko	
 Wachholzom	Wachholz	subst:pl:dat:m1	nazwisko	
@@ -38,6 +40,7 @@ Wachowiakami	Wachowiak	subst:pl:inst:m1	nazwisko
 Wachowiaka	Wachowiak	subst:sg:acc:m1	nazwisko	
 Wachowiaka	Wachowiak	subst:sg:gen:m1	nazwisko	
 Wachowiakiem	Wachowiak	subst:sg:inst:m1	nazwisko	
+Wachowiaki	Wachowiak	depr:pl:acc:m2	nazwisko	
 Wachowiaki	Wachowiak	depr:pl:nom:m2	nazwisko	
 Wachowiaki	Wachowiak	depr:pl:voc:m2	nazwisko	
 Wachowiakom	Wachowiak	subst:pl:dat:m1	nazwisko	
@@ -54,6 +57,7 @@ Wachowiczami	Wachowicz	subst:pl:inst:m1	nazwisko
 Wachowicza	Wachowicz	subst:sg:acc:m1	nazwisko	
 Wachowicza	Wachowicz	subst:sg:gen:m1	nazwisko	
 Wachowiczem	Wachowicz	subst:sg:inst:m1	nazwisko	
+Wachowicze	Wachowicz	depr:pl:acc:m2	nazwisko	
 Wachowicze	Wachowicz	depr:pl:nom:m2	nazwisko	
 Wachowicze	Wachowicz	depr:pl:voc:m2	nazwisko	
 Wachowicze	Wachowicz	subst:pl:nom:m1	nazwisko	
@@ -89,6 +93,7 @@ Wachowskich	Wachowski	subst:pl:loc:m1	nazwisko
 Wachowskiego	Wachowski	subst:sg:acc:m1	nazwisko	
 Wachowskiego	Wachowski	subst:sg:gen:m1	nazwisko	
 Wachowskiemu	Wachowski	subst:sg:dat:m1	nazwisko	
+Wachowskie	Wachowski	depr:pl:acc:m2	nazwisko	
 Wachowskie	Wachowski	depr:pl:nom:m2	nazwisko	
 Wachowskie	Wachowski	depr:pl:voc:m2	nazwisko	
 Wachowskimi	Wachowski	subst:pl:inst:m1	nazwisko	
@@ -102,6 +107,7 @@ Waciami	Wacio	subst:pl:inst:m1	imię
 Wacia	Wacio	subst:sg:acc:m1	imię	
 Wacia	Wacio	subst:sg:gen:m1	imię	
 Waciem	Wacio	subst:sg:inst:m1	imię	
+Wacie	Wacio	depr:pl:acc:m2	imię	
 Wacie	Wacio	depr:pl:nom:m2	imię	
 Wacie	Wacio	depr:pl:voc:m2	imię	
 Waciom	Wacio	subst:pl:dat:m1	imię	
@@ -127,6 +133,7 @@ Wacławowi	Wacław	subst:sg:dat:m1	imię
 Wacławów	Wacław	subst:pl:acc:m1	imię	
 Wacławów	Wacław	subst:pl:gen:m1	imię	
 Wacław	Wacław	subst:sg:nom:m1	imię	
+Wacławy	Wacław	depr:pl:acc:m2	imię	
 Wacławy	Wacław	depr:pl:nom:m2	imię	
 Wacławy	Wacław	depr:pl:voc:m2	imię	
 Wacławach	Wacława	subst:pl:loc:f	imię	
@@ -149,6 +156,7 @@ Wacławkami	Wacławek	subst:pl:inst:m1	imię
 Wacławka	Wacławek	subst:sg:acc:m1	imię	
 Wacławka	Wacławek	subst:sg:gen:m1	imię	
 Wacławkiem	Wacławek	subst:sg:inst:m1	imię	
+Wacławki	Wacławek	depr:pl:acc:m2	imię	
 Wacławki	Wacławek	depr:pl:nom:m2	imię	
 Wacławki	Wacławek	depr:pl:voc:m2	imię	
 Wacławkom	Wacławek	subst:pl:dat:m1	imię	
@@ -164,6 +172,7 @@ Wacuniami	Wacunio	subst:pl:inst:m1	imię
 Wacunia	Wacunio	subst:sg:acc:m1	imię	
 Wacunia	Wacunio	subst:sg:gen:m1	imię	
 Wacuniem	Wacunio	subst:sg:inst:m1	imię	
+Wacunie	Wacunio	depr:pl:acc:m2	imię	
 Wacunie	Wacunio	depr:pl:nom:m2	imię	
 Wacunie	Wacunio	depr:pl:voc:m2	imię	
 Wacuniom	Wacunio	subst:pl:dat:m1	imię	
@@ -180,6 +189,7 @@ Wacusiami	Wacuś	subst:pl:inst:m1	imię
 Wacusia	Wacuś	subst:sg:acc:m1	imię	
 Wacusia	Wacuś	subst:sg:gen:m1	imię	
 Wacusiem	Wacuś	subst:sg:inst:m1	imię	
+Wacusie	Wacuś	depr:pl:acc:m2	imię	
 Wacusie	Wacuś	depr:pl:nom:m2	imię	
 Wacusie	Wacuś	depr:pl:voc:m2	imię	
 Wacusie	Wacuś	subst:pl:nom:m1	imię	
@@ -207,6 +217,7 @@ Wadimowi	Wadim	subst:sg:dat:m1	imię
 Wadimów	Wadim	subst:pl:acc:m1	imię	
 Wadimów	Wadim	subst:pl:gen:m1	imię	
 Wadim	Wadim	subst:sg:nom:m1	imię	
+Wadimy	Wadim	depr:pl:acc:m2	imię	
 Wadimy	Wadim	depr:pl:nom:m2	imię	
 Wadimy	Wadim	depr:pl:voc:m2	imię	
 Wadowicach	Wadowice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -264,6 +275,7 @@ Wagnerowi	Wagner	subst:sg:dat:m1	nazwisko
 Wagnerów	Wagner	subst:pl:acc:m1	nazwisko	
 Wagnerów	Wagner	subst:pl:gen:m1	nazwisko	
 Wagner	Wagner	subst:sg:nom:m1	nazwisko	
+Wagnery	Wagner	depr:pl:acc:m2	nazwisko	
 Wagnery	Wagner	depr:pl:nom:m2	nazwisko	
 Wagnery	Wagner	depr:pl:voc:m2	nazwisko	
 Wagnerze	Wagner	subst:sg:loc:m1	nazwisko	
@@ -279,6 +291,7 @@ Wajdowie	Wajda	subst:pl:nom:m1	nazwisko
 Wajdowie	Wajda	subst:pl:voc:m1	nazwisko	
 Wajdów	Wajda	subst:pl:acc:m1	nazwisko	
 Wajdów	Wajda	subst:pl:gen:m1	nazwisko	
+Wajdy	Wajda	depr:pl:acc:m2	nazwisko	
 Wajdy	Wajda	depr:pl:nom:m2	nazwisko	
 Wajdy	Wajda	depr:pl:voc:m2	nazwisko	
 Wajdy	Wajda	subst:sg:gen:m1	nazwisko	
@@ -303,6 +316,7 @@ Walczakami	Walczak	subst:pl:inst:m1	nazwisko
 Walczaka	Walczak	subst:sg:acc:m1	nazwisko	
 Walczaka	Walczak	subst:sg:gen:m1	nazwisko	
 Walczakiem	Walczak	subst:sg:inst:m1	nazwisko	
+Walczaki	Walczak	depr:pl:acc:m2	nazwisko	
 Walczaki	Walczak	depr:pl:nom:m2	nazwisko	
 Walczaki	Walczak	depr:pl:voc:m2	nazwisko	
 Walczakom	Walczak	subst:pl:dat:m1	nazwisko	
@@ -336,6 +350,7 @@ Walczyńskich	Walczyński	subst:pl:loc:m1	nazwisko
 Walczyńskiego	Walczyński	subst:sg:acc:m1	nazwisko	
 Walczyńskiego	Walczyński	subst:sg:gen:m1	nazwisko	
 Walczyńskiemu	Walczyński	subst:sg:dat:m1	nazwisko	
+Walczyńskie	Walczyński	depr:pl:acc:m2	nazwisko	
 Walczyńskie	Walczyński	depr:pl:nom:m2	nazwisko	
 Walczyńskie	Walczyński	depr:pl:voc:m2	nazwisko	
 Walczyńskimi	Walczyński	subst:pl:inst:m1	nazwisko	
@@ -350,6 +365,7 @@ Waldeczkami	Waldeczek	subst:pl:inst:m1	imię
 Waldeczka	Waldeczek	subst:sg:acc:m1	imię	
 Waldeczka	Waldeczek	subst:sg:gen:m1	imię	
 Waldeczkiem	Waldeczek	subst:sg:inst:m1	imię	
+Waldeczki	Waldeczek	depr:pl:acc:m2	imię	
 Waldeczki	Waldeczek	depr:pl:nom:m2	imię	
 Waldeczki	Waldeczek	depr:pl:voc:m2	imię	
 Waldeczkom	Waldeczek	subst:pl:dat:m1	imię	
@@ -366,6 +382,7 @@ Waldkami	Waldek	subst:pl:inst:m1	imię
 Waldka	Waldek	subst:sg:acc:m1	imię	
 Waldka	Waldek	subst:sg:gen:m1	imię	
 Waldkiem	Waldek	subst:sg:inst:m1	imię	
+Waldki	Waldek	depr:pl:acc:m2	imię	
 Waldki	Waldek	depr:pl:nom:m2	imię	
 Waldki	Waldek	depr:pl:voc:m2	imię	
 Waldkom	Waldek	subst:pl:dat:m1	imię	
@@ -388,6 +405,7 @@ Waldemarowi	Waldemar	subst:sg:dat:m1	imię
 Waldemarów	Waldemar	subst:pl:acc:m1	imię	
 Waldemarów	Waldemar	subst:pl:gen:m1	imię	
 Waldemar	Waldemar	subst:sg:nom:m1	imię	
+Waldemary	Waldemar	depr:pl:acc:m2	imię	
 Waldemary	Waldemar	depr:pl:nom:m2	imię	
 Waldemary	Waldemar	depr:pl:voc:m2	imię	
 Waldemarze	Waldemar	subst:sg:loc:m1	imię	
@@ -406,6 +424,7 @@ Waldheimowi	Waldheim	subst:sg:dat:m1	nazwisko
 Waldheimów	Waldheim	subst:pl:acc:m1	nazwisko	
 Waldheimów	Waldheim	subst:pl:gen:m1	nazwisko	
 Waldheim	Waldheim	subst:sg:nom:m1	nazwisko	
+Waldheimy	Waldheim	depr:pl:acc:m2	nazwisko	
 Waldheimy	Waldheim	depr:pl:nom:m2	nazwisko	
 Waldheimy	Waldheim	depr:pl:voc:m2	nazwisko	
 Waldorffach	Waldorff	subst:pl:loc:m1	nazwisko	
@@ -422,6 +441,7 @@ Waldorffowi	Waldorff	subst:sg:dat:m1	nazwisko
 Waldorffów	Waldorff	subst:pl:acc:m1	nazwisko	
 Waldorffów	Waldorff	subst:pl:gen:m1	nazwisko	
 Waldorff	Waldorff	subst:sg:nom:m1	nazwisko	
+Waldorffy	Waldorff	depr:pl:acc:m2	nazwisko	
 Waldorffy	Waldorff	depr:pl:nom:m2	nazwisko	
 Waldorffy	Waldorff	depr:pl:voc:m2	nazwisko	
 Waldusiach	Walduś	subst:pl:loc:m1	imię	
@@ -429,6 +449,7 @@ Waldusiami	Walduś	subst:pl:inst:m1	imię
 Waldusia	Walduś	subst:sg:acc:m1	imię	
 Waldusia	Walduś	subst:sg:gen:m1	imię	
 Waldusiem	Walduś	subst:sg:inst:m1	imię	
+Waldusie	Walduś	depr:pl:acc:m2	imię	
 Waldusie	Walduś	depr:pl:nom:m2	imię	
 Waldusie	Walduś	depr:pl:voc:m2	imię	
 Waldusie	Walduś	subst:pl:nom:m1	imię	
@@ -447,6 +468,7 @@ Waldziami	Waldzio	subst:pl:inst:m1	imię
 Waldzia	Waldzio	subst:sg:acc:m1	imię	
 Waldzia	Waldzio	subst:sg:gen:m1	imię	
 Waldziem	Waldzio	subst:sg:inst:m1	imię	
+Waldzie	Waldzio	depr:pl:acc:m2	imię	
 Waldzie	Waldzio	depr:pl:nom:m2	imię	
 Waldzie	Waldzio	depr:pl:voc:m2	imię	
 Waldziom	Waldzio	subst:pl:dat:m1	imię	
@@ -464,6 +486,7 @@ Walkami	Walek	subst:pl:inst:m1	imię
 Walka	Walek	subst:sg:acc:m1	imię	
 Walka	Walek	subst:sg:gen:m1	imię	
 Walkiem	Walek	subst:sg:inst:m1	imię	
+Walki	Walek	depr:pl:acc:m2	imię	
 Walki	Walek	depr:pl:nom:m2	imię	
 Walki	Walek	depr:pl:voc:m2	imię	
 Walkom	Walek	subst:pl:dat:m1	imię	
@@ -494,6 +517,7 @@ Walendziakami	Walendziak	subst:pl:inst:m1	nazwisko
 Walendziaka	Walendziak	subst:sg:acc:m1	nazwisko	
 Walendziaka	Walendziak	subst:sg:gen:m1	nazwisko	
 Walendziakiem	Walendziak	subst:sg:inst:m1	nazwisko	
+Walendziaki	Walendziak	depr:pl:acc:m2	nazwisko	
 Walendziaki	Walendziak	depr:pl:nom:m2	nazwisko	
 Walendziaki	Walendziak	depr:pl:voc:m2	nazwisko	
 Walendziakom	Walendziak	subst:pl:dat:m1	nazwisko	
@@ -508,6 +532,7 @@ Walendziak	Walendziak	subst:sg:nom:m1	nazwisko
 Walentego	Walenty	subst:sg:acc:m1	imię	
 Walentego	Walenty	subst:sg:gen:m1	imię	
 Walentemu	Walenty	subst:sg:dat:m1	imię	
+Walente	Walenty	depr:pl:acc:m2	imię	
 Walente	Walenty	depr:pl:nom:m2	imię	
 Walente	Walenty	depr:pl:voc:m2	imię	
 Walentowie	Walenty	subst:pl:nom:m1	imię	
@@ -537,6 +562,7 @@ Walentynowi	Walentyn	subst:sg:dat:m1	imię
 Walentynów	Walentyn	subst:pl:acc:m1	imię	
 Walentynów	Walentyn	subst:pl:gen:m1	imię	
 Walentyn	Walentyn	subst:sg:nom:m1	imię	
+Walentyny	Walentyn	depr:pl:acc:m2	imię	
 Walentyny	Walentyn	depr:pl:nom:m2	imię	
 Walentyny	Walentyn	depr:pl:voc:m2	imię	
 Walentynach	Walentyna	subst:pl:loc:f	imię	
@@ -558,6 +584,7 @@ Walentynowiczami	Walentynowicz	subst:pl:inst:m1	nazwisko
 Walentynowicza	Walentynowicz	subst:sg:acc:m1	nazwisko	
 Walentynowicza	Walentynowicz	subst:sg:gen:m1	nazwisko	
 Walentynowiczem	Walentynowicz	subst:sg:inst:m1	nazwisko	
+Walentynowicze	Walentynowicz	depr:pl:acc:m2	nazwisko	
 Walentynowicze	Walentynowicz	depr:pl:nom:m2	nazwisko	
 Walentynowicze	Walentynowicz	depr:pl:voc:m2	nazwisko	
 Walentynowicze	Walentynowicz	subst:pl:nom:m1	nazwisko	
@@ -592,6 +619,7 @@ Walerkami	Walerek	subst:pl:inst:m1	imię
 Walerka	Walerek	subst:sg:acc:m1	imię	
 Walerka	Walerek	subst:sg:gen:m1	imię	
 Walerkiem	Walerek	subst:sg:inst:m1	imię	
+Walerki	Walerek	depr:pl:acc:m2	imię	
 Walerki	Walerek	depr:pl:nom:m2	imię	
 Walerki	Walerek	depr:pl:voc:m2	imię	
 Walerkom	Walerek	subst:pl:dat:m1	imię	
@@ -633,6 +661,7 @@ Walerianowi	Walerian	subst:sg:dat:m1	imię
 Walerianów	Walerian	subst:pl:acc:m1	imię	
 Walerianów	Walerian	subst:pl:gen:m1	imię	
 Walerian	Walerian	subst:sg:nom:m1	imię	
+Waleriany	Walerian	depr:pl:acc:m2	imię	
 Waleriany	Walerian	depr:pl:nom:m2	imię	
 Waleriany	Walerian	depr:pl:voc:m2	imię	
 Walerianach	Waleriana	subst:pl:loc:f	imię	
@@ -654,6 +683,7 @@ Waleriuszami	Waleriusz	subst:pl:inst:m1	imię
 Waleriusza	Waleriusz	subst:sg:acc:m1	imię	
 Waleriusza	Waleriusz	subst:sg:gen:m1	imię	
 Waleriuszem	Waleriusz	subst:sg:inst:m1	imię	
+Waleriusze	Waleriusz	depr:pl:acc:m2	imię	
 Waleriusze	Waleriusz	depr:pl:nom:m2	imię	
 Waleriusze	Waleriusz	depr:pl:voc:m2	imię	
 Waleriusze	Waleriusz	subst:pl:nom:m1	imię	
@@ -684,6 +714,7 @@ Walerko	Walerka	subst:sg:voc:f	imię
 Walerego	Walery	subst:sg:acc:m1	imię	
 Walerego	Walery	subst:sg:gen:m1	imię	
 Waleremu	Walery	subst:sg:dat:m1	imię	
+Walere	Walery	depr:pl:acc:m2	imię	
 Walere	Walery	depr:pl:nom:m2	imię	
 Walere	Walery	depr:pl:voc:m2	imię	
 Walerowie	Walery	subst:pl:nom:m1	imię	
@@ -719,6 +750,7 @@ Walewskich	Walewski	subst:pl:loc:m1	nazwisko
 Walewskiego	Walewski	subst:sg:acc:m1	nazwisko	
 Walewskiego	Walewski	subst:sg:gen:m1	nazwisko	
 Walewskiemu	Walewski	subst:sg:dat:m1	nazwisko	
+Walewskie	Walewski	depr:pl:acc:m2	nazwisko	
 Walewskie	Walewski	depr:pl:nom:m2	nazwisko	
 Walewskie	Walewski	depr:pl:voc:m2	nazwisko	
 Walewskimi	Walewski	subst:pl:inst:m1	nazwisko	
@@ -732,6 +764,7 @@ Walezjuszami	Walezjusz	subst:pl:inst:m1	nazwa członka rodu
 Walezjusza	Walezjusz	subst:sg:acc:m1	nazwa członka rodu	
 Walezjusza	Walezjusz	subst:sg:gen:m1	nazwa członka rodu	
 Walezjuszem	Walezjusz	subst:sg:inst:m1	nazwa członka rodu	
+Walezjusze	Walezjusz	depr:pl:acc:m2	nazwa członka rodu	
 Walezjusze	Walezjusz	depr:pl:nom:m2	nazwa członka rodu	
 Walezjusze	Walezjusz	depr:pl:voc:m2	nazwa członka rodu	
 Walezjusze	Walezjusz	subst:pl:nom:m1	nazwa członka rodu	
@@ -748,6 +781,7 @@ Walezjusz	Walezjusz	subst:sg:nom:m1	nazwa członka rodu
 Walezego	Walezy	subst:sg:acc:m1	nazwisko	
 Walezego	Walezy	subst:sg:gen:m1	nazwisko	
 Walezemu	Walezy	subst:sg:dat:m1	nazwisko	
+Waleze	Walezy	depr:pl:acc:m2	nazwisko	
 Waleze	Walezy	depr:pl:nom:m2	nazwisko	
 Waleze	Walezy	depr:pl:voc:m2	nazwisko	
 Walezowie	Walezy	subst:pl:nom:m1	nazwisko	
@@ -783,6 +817,7 @@ Walijczykami	Walijczyk	subst:pl:inst:m1	nazwa pospolita
 Walijczyka	Walijczyk	subst:sg:acc:m1	nazwa pospolita	
 Walijczyka	Walijczyk	subst:sg:gen:m1	nazwa pospolita	
 Walijczykiem	Walijczyk	subst:sg:inst:m1	nazwa pospolita	
+Walijczyki	Walijczyk	depr:pl:acc:m2	nazwa pospolita	
 Walijczyki	Walijczyk	depr:pl:nom:m2	nazwa pospolita	
 Walijczyki	Walijczyk	depr:pl:voc:m2	nazwa pospolita	
 Walijczykom	Walijczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -843,6 +878,7 @@ Waliszewskich	Waliszewski	subst:pl:loc:m1	nazwisko
 Waliszewskiego	Waliszewski	subst:sg:acc:m1	nazwisko	
 Waliszewskiego	Waliszewski	subst:sg:gen:m1	nazwisko	
 Waliszewskiemu	Waliszewski	subst:sg:dat:m1	nazwisko	
+Waliszewskie	Waliszewski	depr:pl:acc:m2	nazwisko	
 Waliszewskie	Waliszewski	depr:pl:nom:m2	nazwisko	
 Waliszewskie	Waliszewski	depr:pl:voc:m2	nazwisko	
 Waliszewskimi	Waliszewski	subst:pl:inst:m1	nazwisko	
@@ -856,6 +892,7 @@ Walkowiakami	Walkowiak	subst:pl:inst:m1	nazwisko
 Walkowiaka	Walkowiak	subst:sg:acc:m1	nazwisko	
 Walkowiaka	Walkowiak	subst:sg:gen:m1	nazwisko	
 Walkowiakiem	Walkowiak	subst:sg:inst:m1	nazwisko	
+Walkowiaki	Walkowiak	depr:pl:acc:m2	nazwisko	
 Walkowiaki	Walkowiak	depr:pl:nom:m2	nazwisko	
 Walkowiaki	Walkowiak	depr:pl:voc:m2	nazwisko	
 Walkowiakom	Walkowiak	subst:pl:dat:m1	nazwisko	
@@ -880,6 +917,7 @@ Wallace’owi	Wallace	subst:sg:dat:m1	nazwisko
 Wallace’ów	Wallace	subst:pl:acc:m1	nazwisko	
 Wallace’ów	Wallace	subst:pl:gen:m1	nazwisko	
 Wallace	Wallace	subst:sg:nom:m1	nazwisko	
+Wallace’y	Wallace	depr:pl:acc:m2	nazwisko	
 Wallace’y	Wallace	depr:pl:nom:m2	nazwisko	
 Wallace’y	Wallace	depr:pl:voc:m2	nazwisko	
 Wallasie	Wallace	subst:sg:loc:m1	nazwisko	
@@ -889,6 +927,7 @@ Wallekami	Wallek	subst:pl:inst:m1	nazwisko
 Walleka	Wallek	subst:sg:acc:m1	nazwisko	
 Walleka	Wallek	subst:sg:gen:m1	nazwisko	
 Wallekiem	Wallek	subst:sg:inst:m1	nazwisko	
+Walleki	Wallek	depr:pl:acc:m2	nazwisko	
 Walleki	Wallek	depr:pl:nom:m2	nazwisko	
 Walleki	Wallek	depr:pl:voc:m2	nazwisko	
 Wallekom	Wallek	subst:pl:dat:m1	nazwisko	
@@ -912,6 +951,7 @@ Wallenrodowi	Wallenrod	subst:sg:dat:m1	nazwisko	lit.
 Wallenrodów	Wallenrod	subst:pl:acc:m1	nazwisko	lit.
 Wallenrodów	Wallenrod	subst:pl:gen:m1	nazwisko	lit.
 Wallenrod	Wallenrod	subst:sg:nom:m1	nazwisko	lit.
+Wallenrody	Wallenrod	depr:pl:acc:m2	nazwisko	lit.
 Wallenrody	Wallenrod	depr:pl:nom:m2	nazwisko	lit.
 Wallenrody	Wallenrod	depr:pl:voc:m2	nazwisko	lit.
 Wallenrodzie	Wallenrod	subst:sg:loc:m1	nazwisko	lit.
@@ -938,6 +978,7 @@ Walończykami	Walończyk	subst:pl:inst:m1	nazwa pospolita
 Walończyka	Walończyk	subst:sg:acc:m1	nazwa pospolita	
 Walończyka	Walończyk	subst:sg:gen:m1	nazwa pospolita	
 Walończykiem	Walończyk	subst:sg:inst:m1	nazwa pospolita	
+Walończyki	Walończyk	depr:pl:acc:m2	nazwa pospolita	
 Walończyki	Walończyk	depr:pl:nom:m2	nazwa pospolita	
 Walończyki	Walończyk	depr:pl:voc:m2	nazwa pospolita	
 Walończykom	Walończyk	subst:pl:dat:m1	nazwa pospolita	
@@ -988,6 +1029,7 @@ Walterowi	Walter	subst:sg:dat:m1	imię|nazwisko
 Walterów	Walter	subst:pl:acc:m1	imię|nazwisko	
 Walterów	Walter	subst:pl:gen:m1	imię|nazwisko	
 Walter	Walter	subst:sg:nom:m1	imię|nazwisko	
+Waltery	Walter	depr:pl:acc:m2	imię|nazwisko	
 Waltery	Walter	depr:pl:nom:m2	imię|nazwisko	
 Waltery	Walter	depr:pl:voc:m2	imię|nazwisko	
 Walterze	Walter	subst:sg:loc:m1	imię|nazwisko	
@@ -997,6 +1039,7 @@ Waltzami	Waltz	subst:pl:inst:m1	nazwisko
 Waltza	Waltz	subst:sg:acc:m1	nazwisko	
 Waltza	Waltz	subst:sg:gen:m1	nazwisko	
 Waltzem	Waltz	subst:sg:inst:m1	nazwisko	
+Waltze	Waltz	depr:pl:acc:m2	nazwisko	
 Waltze	Waltz	depr:pl:nom:m2	nazwisko	
 Waltze	Waltz	depr:pl:voc:m2	nazwisko	
 Waltze	Waltz	subst:pl:nom:m1	nazwisko	
@@ -1030,6 +1073,7 @@ Walusiami	Waluś	subst:pl:inst:m1	imię
 Walusia	Waluś	subst:sg:acc:m1	imię	
 Walusia	Waluś	subst:sg:gen:m1	imię	
 Walusiem	Waluś	subst:sg:inst:m1	imię	
+Walusie	Waluś	depr:pl:acc:m2	imię	
 Walusie	Waluś	depr:pl:nom:m2	imię	
 Walusie	Waluś	depr:pl:voc:m2	imię	
 Walusie	Waluś	subst:pl:nom:m1	imię	
@@ -1099,6 +1143,7 @@ Wałęsowie	Wałęsa	subst:pl:nom:m1	nazwisko
 Wałęsowie	Wałęsa	subst:pl:voc:m1	nazwisko	
 Wałęsów	Wałęsa	subst:pl:acc:m1	nazwisko	
 Wałęsów	Wałęsa	subst:pl:gen:m1	nazwisko	
+Wałęsy	Wałęsa	depr:pl:acc:m2	nazwisko	
 Wałęsy	Wałęsa	depr:pl:nom:m2	nazwisko	
 Wałęsy	Wałęsa	depr:pl:voc:m2	nazwisko	
 Wałęsy	Wałęsa	subst:sg:gen:m1	nazwisko	
@@ -1135,6 +1180,7 @@ Wandalami	Wandal	subst:pl:inst:m1	nazwa pospolita
 Wandala	Wandal	subst:sg:acc:m1	nazwa pospolita	
 Wandala	Wandal	subst:sg:gen:m1	nazwa pospolita	
 Wandalem	Wandal	subst:sg:inst:m1	nazwa pospolita	
+Wandale	Wandal	depr:pl:acc:m2	nazwa pospolita	
 Wandale	Wandal	depr:pl:nom:m2	nazwa pospolita	
 Wandale	Wandal	depr:pl:voc:m2	nazwa pospolita	
 Wandale	Wandal	subst:pl:nom:m1	nazwa pospolita	
@@ -1211,6 +1257,7 @@ Wańkowiczami	Wańkowicz	subst:pl:inst:m1	nazwisko
 Wańkowicza	Wańkowicz	subst:sg:acc:m1	nazwisko	
 Wańkowicza	Wańkowicz	subst:sg:gen:m1	nazwisko	
 Wańkowiczem	Wańkowicz	subst:sg:inst:m1	nazwisko	
+Wańkowicze	Wańkowicz	depr:pl:acc:m2	nazwisko	
 Wańkowicze	Wańkowicz	depr:pl:nom:m2	nazwisko	
 Wańkowicze	Wańkowicz	depr:pl:voc:m2	nazwisko	
 Wańkowicze	Wańkowicz	subst:pl:nom:m1	nazwisko	
@@ -1264,6 +1311,7 @@ Warchołowi	Warchoł	subst:sg:dat:m1	nazwisko
 Warchołów	Warchoł	subst:pl:acc:m1	nazwisko	
 Warchołów	Warchoł	subst:pl:gen:m1	nazwisko	
 Warchoł	Warchoł	subst:sg:nom:m1	nazwisko	
+Warchoły	Warchoł	depr:pl:acc:m2	nazwisko	
 Warchoły	Warchoł	depr:pl:nom:m2	nazwisko	
 Warchoły	Warchoł	depr:pl:voc:m2	nazwisko	
 Warcisławach	Warcisław	subst:pl:loc:m1	imię	
@@ -1282,6 +1330,7 @@ Warcisławowi	Warcisław	subst:sg:dat:m1	imię
 Warcisławów	Warcisław	subst:pl:acc:m1	imię	
 Warcisławów	Warcisław	subst:pl:gen:m1	imię	
 Warcisław	Warcisław	subst:sg:nom:m1	imię	
+Warcisławy	Warcisław	depr:pl:acc:m2	imię	
 Warcisławy	Warcisław	depr:pl:nom:m2	imię	
 Warcisławy	Warcisław	depr:pl:voc:m2	imię	
 Wardzyńska	Wardzyńska	subst:sg:nom:f	nazwisko	
@@ -1306,6 +1355,7 @@ Wardzyńskich	Wardzyński	subst:pl:loc:m1	nazwisko
 Wardzyńskiego	Wardzyński	subst:sg:acc:m1	nazwisko	
 Wardzyńskiego	Wardzyński	subst:sg:gen:m1	nazwisko	
 Wardzyńskiemu	Wardzyński	subst:sg:dat:m1	nazwisko	
+Wardzyńskie	Wardzyński	depr:pl:acc:m2	nazwisko	
 Wardzyńskie	Wardzyński	depr:pl:nom:m2	nazwisko	
 Wardzyńskie	Wardzyński	depr:pl:voc:m2	nazwisko	
 Wardzyńskimi	Wardzyński	subst:pl:inst:m1	nazwisko	
@@ -1319,6 +1369,7 @@ Waregami	Wareg	subst:pl:inst:m1	nazwa pospolita	etn.
 Warega	Wareg	subst:sg:acc:m1	nazwa pospolita	etn.
 Warega	Wareg	subst:sg:gen:m1	nazwa pospolita	etn.
 Waregiem	Wareg	subst:sg:inst:m1	nazwa pospolita	etn.
+Waregi	Wareg	depr:pl:acc:m2	nazwa pospolita	etn.
 Waregi	Wareg	depr:pl:nom:m2	nazwa pospolita	etn.
 Waregi	Wareg	depr:pl:voc:m2	nazwa pospolita	etn.
 Waregom	Wareg	subst:pl:dat:m1	nazwa pospolita	etn.
@@ -1335,6 +1386,7 @@ Warholami	Warhol	subst:pl:inst:m1	nazwisko
 Warhola	Warhol	subst:sg:acc:m1	nazwisko	
 Warhola	Warhol	subst:sg:gen:m1	nazwisko	
 Warholem	Warhol	subst:sg:inst:m1	nazwisko	
+Warhole	Warhol	depr:pl:acc:m2	nazwisko	
 Warhole	Warhol	depr:pl:nom:m2	nazwisko	
 Warhole	Warhol	depr:pl:voc:m2	nazwisko	
 Warholom	Warhol	subst:pl:dat:m1	nazwisko	
@@ -1374,6 +1426,7 @@ Warłamowi	Warłam	subst:sg:dat:m1	imię
 Warłamów	Warłam	subst:pl:acc:m1	imię	
 Warłamów	Warłam	subst:pl:gen:m1	imię	
 Warłam	Warłam	subst:sg:nom:m1	imię	
+Warłamy	Warłam	depr:pl:acc:m2	imię	
 Warłamy	Warłam	depr:pl:nom:m2	imię	
 Warłamy	Warłam	depr:pl:voc:m2	imię	
 Warmiach	Warmia	subst:pl:loc:f	nazwa geograficzna	
@@ -1410,6 +1463,7 @@ Warneńczykami	Warneńczyk	subst:pl:inst:m1	przydomek
 Warneńczyka	Warneńczyk	subst:sg:acc:m1	przydomek	
 Warneńczyka	Warneńczyk	subst:sg:gen:m1	przydomek	
 Warneńczykiem	Warneńczyk	subst:sg:inst:m1	przydomek	
+Warneńczyki	Warneńczyk	depr:pl:acc:m2	przydomek	
 Warneńczyki	Warneńczyk	depr:pl:nom:m2	przydomek	
 Warneńczyki	Warneńczyk	depr:pl:voc:m2	przydomek	
 Warneńczykom	Warneńczyk	subst:pl:dat:m1	przydomek	
@@ -1433,6 +1487,7 @@ Warnerowi	Warner	subst:sg:dat:m1	nazwisko
 Warnerów	Warner	subst:pl:acc:m1	nazwisko	
 Warnerów	Warner	subst:pl:gen:m1	nazwisko	
 Warner	Warner	subst:sg:nom:m1	nazwisko	
+Warnery	Warner	depr:pl:acc:m2	nazwisko	
 Warnery	Warner	depr:pl:nom:m2	nazwisko	
 Warnery	Warner	depr:pl:voc:m2	nazwisko	
 Warnerze	Warner	subst:sg:loc:m1	nazwisko	
@@ -1465,6 +1520,7 @@ Warrenowi	Warren	subst:sg:dat:m1	nazwisko
 Warrenów	Warren	subst:pl:acc:m1	nazwisko	
 Warrenów	Warren	subst:pl:gen:m1	nazwisko	
 Warren	Warren	subst:sg:nom:m1	nazwisko	
+Warreny	Warren	depr:pl:acc:m2	nazwisko	
 Warreny	Warren	depr:pl:nom:m2	nazwisko	
 Warreny	Warren	depr:pl:voc:m2	nazwisko	
 Warska	Warska	subst:sg:nom:f	nazwisko	
@@ -1489,6 +1545,7 @@ Warskich	Warski	subst:pl:loc:m1	nazwisko
 Warskiego	Warski	subst:sg:acc:m1	nazwisko	
 Warskiego	Warski	subst:sg:gen:m1	nazwisko	
 Warskiemu	Warski	subst:sg:dat:m1	nazwisko	
+Warskie	Warski	depr:pl:acc:m2	nazwisko	
 Warskie	Warski	depr:pl:nom:m2	nazwisko	
 Warskie	Warski	depr:pl:voc:m2	nazwisko	
 Warskimi	Warski	subst:pl:inst:m1	nazwisko	
@@ -1603,6 +1660,7 @@ Waryńskich	Waryński	subst:pl:loc:m1	nazwisko
 Waryńskiego	Waryński	subst:sg:acc:m1	nazwisko	
 Waryńskiego	Waryński	subst:sg:gen:m1	nazwisko	
 Waryńskiemu	Waryński	subst:sg:dat:m1	nazwisko	
+Waryńskie	Waryński	depr:pl:acc:m2	nazwisko	
 Waryńskie	Waryński	depr:pl:nom:m2	nazwisko	
 Waryńskie	Waryński	depr:pl:voc:m2	nazwisko	
 Waryńskimi	Waryński	subst:pl:inst:m1	nazwisko	
@@ -1625,6 +1683,7 @@ Washingtonowi	Washington:s1	subst:sg:dat:m1	nazwisko
 Washingtonów	Washington:s1	subst:pl:acc:m1	nazwisko	
 Washingtonów	Washington:s1	subst:pl:gen:m1	nazwisko	
 Washington	Washington:s1	subst:sg:nom:m1	nazwisko	
+Washingtony	Washington:s1	depr:pl:acc:m2	nazwisko	
 Washingtony	Washington:s1	depr:pl:nom:m2	nazwisko	
 Washingtony	Washington:s1	depr:pl:voc:m2	nazwisko	
 Washingtonach	Washington:s2	subst:pl:loc:m3	nazwa geograficzna	
@@ -1646,6 +1705,7 @@ Wasiakami	Wasiak	subst:pl:inst:m1	nazwisko
 Wasiaka	Wasiak	subst:sg:acc:m1	nazwisko	
 Wasiaka	Wasiak	subst:sg:gen:m1	nazwisko	
 Wasiakiem	Wasiak	subst:sg:inst:m1	nazwisko	
+Wasiaki	Wasiak	depr:pl:acc:m2	nazwisko	
 Wasiaki	Wasiak	depr:pl:nom:m2	nazwisko	
 Wasiaki	Wasiak	depr:pl:voc:m2	nazwisko	
 Wasiakom	Wasiak	subst:pl:dat:m1	nazwisko	
@@ -1679,6 +1739,7 @@ Wasielewskich	Wasielewski	subst:pl:loc:m1	nazwisko
 Wasielewskiego	Wasielewski	subst:sg:acc:m1	nazwisko	
 Wasielewskiego	Wasielewski	subst:sg:gen:m1	nazwisko	
 Wasielewskiemu	Wasielewski	subst:sg:dat:m1	nazwisko	
+Wasielewskie	Wasielewski	depr:pl:acc:m2	nazwisko	
 Wasielewskie	Wasielewski	depr:pl:nom:m2	nazwisko	
 Wasielewskie	Wasielewski	depr:pl:voc:m2	nazwisko	
 Wasielewskimi	Wasielewski	subst:pl:inst:m1	nazwisko	
@@ -1709,6 +1770,7 @@ Wasilewskich	Wasilewski	subst:pl:loc:m1	nazwisko
 Wasilewskiego	Wasilewski	subst:sg:acc:m1	nazwisko	
 Wasilewskiego	Wasilewski	subst:sg:gen:m1	nazwisko	
 Wasilewskiemu	Wasilewski	subst:sg:dat:m1	nazwisko	
+Wasilewskie	Wasilewski	depr:pl:acc:m2	nazwisko	
 Wasilewskie	Wasilewski	depr:pl:nom:m2	nazwisko	
 Wasilewskie	Wasilewski	depr:pl:voc:m2	nazwisko	
 Wasilewskimi	Wasilewski	subst:pl:inst:m1	nazwisko	
@@ -1746,6 +1808,7 @@ Wassermannowi	Wassermann	subst:sg:dat:m1	nazwisko
 Wassermannów	Wassermann	subst:pl:acc:m1	nazwisko	
 Wassermannów	Wassermann	subst:pl:gen:m1	nazwisko	
 Wassermann	Wassermann	subst:sg:nom:m1	nazwisko	
+Wassermanny	Wassermann	depr:pl:acc:m2	nazwisko	
 Wassermanny	Wassermann	depr:pl:nom:m2	nazwisko	
 Wassermanny	Wassermann	depr:pl:voc:m2	nazwisko	
 Wasylach	Wasyl	subst:pl:loc:m1	imię	
@@ -1753,6 +1816,7 @@ Wasylami	Wasyl	subst:pl:inst:m1	imię
 Wasyla	Wasyl	subst:sg:acc:m1	imię	
 Wasyla	Wasyl	subst:sg:gen:m1	imię	
 Wasylem	Wasyl	subst:sg:inst:m1	imię	
+Wasyle	Wasyl	depr:pl:acc:m2	imię	
 Wasyle	Wasyl	depr:pl:nom:m2	imię	
 Wasyle	Wasyl	depr:pl:voc:m2	imię	
 Wasyle	Wasyl	subst:pl:nom:m1	imię	
@@ -1769,6 +1833,7 @@ Wasyl	Wasyl	subst:sg:nom:m1	imię
 Wasylego	Wasyli	subst:sg:acc:m1	imię	
 Wasylego	Wasyli	subst:sg:gen:m1	imię	
 Wasylemu	Wasyli	subst:sg:dat:m1	imię	
+Wasyle	Wasyli	depr:pl:acc:m2	imię	
 Wasyle	Wasyli	depr:pl:nom:m2	imię	
 Wasyle	Wasyli	depr:pl:voc:m2	imię	
 Wasylich	Wasyli	subst:pl:acc:m1	imię	
@@ -1787,6 +1852,7 @@ Waszkiewiczami	Waszkiewicz	subst:pl:inst:m1	nazwisko
 Waszkiewicza	Waszkiewicz	subst:sg:acc:m1	nazwisko	
 Waszkiewicza	Waszkiewicz	subst:sg:gen:m1	nazwisko	
 Waszkiewiczem	Waszkiewicz	subst:sg:inst:m1	nazwisko	
+Waszkiewicze	Waszkiewicz	depr:pl:acc:m2	nazwisko	
 Waszkiewicze	Waszkiewicz	depr:pl:nom:m2	nazwisko	
 Waszkiewicze	Waszkiewicz	depr:pl:voc:m2	nazwisko	
 Waszkiewicze	Waszkiewicz	subst:pl:nom:m1	nazwisko	
@@ -1828,6 +1894,7 @@ Waszyngtonowi	Waszyngton:s2	subst:sg:dat:m1	nazwisko
 Waszyngtonów	Waszyngton:s2	subst:pl:acc:m1	nazwisko	
 Waszyngtonów	Waszyngton:s2	subst:pl:gen:m1	nazwisko	
 Waszyngton	Waszyngton:s2	subst:sg:nom:m1	nazwisko	
+Waszyngtony	Waszyngton:s2	depr:pl:acc:m2	nazwisko	
 Waszyngtony	Waszyngton:s2	depr:pl:nom:m2	nazwisko	
 Waszyngtony	Waszyngton:s2	depr:pl:voc:m2	nazwisko	
 Waśniewska	Waśniewska	subst:sg:nom:f	nazwisko	
@@ -1852,6 +1919,7 @@ Waśniewskich	Waśniewski	subst:pl:loc:m1	nazwisko
 Waśniewskiego	Waśniewski	subst:sg:acc:m1	nazwisko	
 Waśniewskiego	Waśniewski	subst:sg:gen:m1	nazwisko	
 Waśniewskiemu	Waśniewski	subst:sg:dat:m1	nazwisko	
+Waśniewskie	Waśniewski	depr:pl:acc:m2	nazwisko	
 Waśniewskie	Waśniewski	depr:pl:nom:m2	nazwisko	
 Waśniewskie	Waśniewski	depr:pl:voc:m2	nazwisko	
 Waśniewskimi	Waśniewski	subst:pl:inst:m1	nazwisko	
@@ -1889,6 +1957,7 @@ Watowi	Wat	subst:sg:dat:m1	nazwisko
 Watów	Wat	subst:pl:acc:m1	nazwisko	
 Watów	Wat	subst:pl:gen:m1	nazwisko	
 Wat	Wat	subst:sg:nom:m1	nazwisko	
+Waty	Wat	depr:pl:acc:m2	nazwisko	
 Waty	Wat	depr:pl:nom:m2	nazwisko	
 Waty	Wat	depr:pl:voc:m2	nazwisko	
 Wacie	WAT	subst:sg:loc:m3	nazwa instytucji	
@@ -2015,8 +2084,10 @@ Wattowi	Watt	subst:sg:dat:m1	nazwisko
 Wattów	Watt	subst:pl:acc:m1	nazwisko	
 Wattów	Watt	subst:pl:gen:m1	nazwisko	
 Watt	Watt	subst:sg:nom:m1	nazwisko	
+Watty	Watt	depr:pl:acc:m2	nazwisko	
 Watty	Watt	depr:pl:nom:m2	nazwisko	
 Watty	Watt	depr:pl:voc:m2	nazwisko	
+Watteau	Watteau	depr:pl:acc:m2	nazwisko	
 Watteau	Watteau	depr:pl:nom:m2	nazwisko	
 Watteau	Watteau	depr:pl:voc:m2	nazwisko	
 Watteau	Watteau	subst:pl:acc:m1	nazwisko	
@@ -2033,6 +2104,7 @@ Watteau	Watteau	subst:sg:inst:m1	nazwisko
 Watteau	Watteau	subst:sg:loc:m1	nazwisko	
 Watteau	Watteau	subst:sg:nom:m1	nazwisko	
 Watteau	Watteau	subst:sg:voc:m1	nazwisko	
+Watussi	Watussi	depr:pl:acc:m2	nazwa pospolita	
 Watussi	Watussi	depr:pl:nom:m2	nazwa pospolita	
 Watussi	Watussi	depr:pl:voc:m2	nazwa pospolita	
 Watussi	Watussi	subst:pl:acc:m1	nazwa pospolita	
@@ -2098,6 +2170,7 @@ Wawrzkami	Wawrzek	subst:pl:inst:m1	imię
 Wawrzka	Wawrzek	subst:sg:acc:m1	imię	
 Wawrzka	Wawrzek	subst:sg:gen:m1	imię	
 Wawrzkiem	Wawrzek	subst:sg:inst:m1	imię	
+Wawrzki	Wawrzek	depr:pl:acc:m2	imię	
 Wawrzki	Wawrzek	depr:pl:nom:m2	imię	
 Wawrzki	Wawrzek	depr:pl:voc:m2	imię	
 Wawrzkom	Wawrzek	subst:pl:dat:m1	imię	
@@ -2113,6 +2186,7 @@ Wawrzusiami	Wawrzuś	subst:pl:inst:m1	imię
 Wawrzusia	Wawrzuś	subst:sg:acc:m1	imię	
 Wawrzusia	Wawrzuś	subst:sg:gen:m1	imię	
 Wawrzusiem	Wawrzuś	subst:sg:inst:m1	imię	
+Wawrzusie	Wawrzuś	depr:pl:acc:m2	imię	
 Wawrzusie	Wawrzuś	depr:pl:nom:m2	imię	
 Wawrzusie	Wawrzuś	depr:pl:voc:m2	imię	
 Wawrzusie	Wawrzuś	subst:pl:nom:m1	imię	
@@ -2131,6 +2205,7 @@ Wawrzyniakami	Wawrzyniak	subst:pl:inst:m1	nazwisko
 Wawrzyniaka	Wawrzyniak	subst:sg:acc:m1	nazwisko	
 Wawrzyniaka	Wawrzyniak	subst:sg:gen:m1	nazwisko	
 Wawrzyniakiem	Wawrzyniak	subst:sg:inst:m1	nazwisko	
+Wawrzyniaki	Wawrzyniak	depr:pl:acc:m2	nazwisko	
 Wawrzyniaki	Wawrzyniak	depr:pl:nom:m2	nazwisko	
 Wawrzyniaki	Wawrzyniak	depr:pl:voc:m2	nazwisko	
 Wawrzyniakom	Wawrzyniak	subst:pl:dat:m1	nazwisko	
@@ -2148,6 +2223,7 @@ Wawrzyńcami	Wawrzyniec	subst:pl:inst:m1	imię
 Wawrzyńca	Wawrzyniec	subst:sg:acc:m1	imię	
 Wawrzyńca	Wawrzyniec	subst:sg:gen:m1	imię	
 Wawrzyńcem	Wawrzyniec	subst:sg:inst:m1	imię	
+Wawrzyńce	Wawrzyniec	depr:pl:acc:m2	imię	
 Wawrzyńce	Wawrzyniec	depr:pl:nom:m2	imię	
 Wawrzyńce	Wawrzyniec	depr:pl:voc:m2	imię	
 Wawrzyńcom	Wawrzyniec	subst:pl:dat:m1	imię	
@@ -2164,6 +2240,7 @@ Wawrzyńczykami	Wawrzyńczyk	subst:pl:inst:m1	nazwisko
 Wawrzyńczyka	Wawrzyńczyk	subst:sg:acc:m1	nazwisko	
 Wawrzyńczyka	Wawrzyńczyk	subst:sg:gen:m1	nazwisko	
 Wawrzyńczykiem	Wawrzyńczyk	subst:sg:inst:m1	nazwisko	
+Wawrzyńczyki	Wawrzyńczyk	depr:pl:acc:m2	nazwisko	
 Wawrzyńczyki	Wawrzyńczyk	depr:pl:nom:m2	nazwisko	
 Wawrzyńczyki	Wawrzyńczyk	depr:pl:voc:m2	nazwisko	
 Wawrzyńczykom	Wawrzyńczyk	subst:pl:dat:m1	nazwisko	
@@ -2187,6 +2264,7 @@ Wayne’owi	Wayne	subst:sg:dat:m1	nazwisko
 Wayne’ów	Wayne	subst:pl:acc:m1	nazwisko	
 Wayne’ów	Wayne	subst:pl:gen:m1	nazwisko	
 Wayne	Wayne	subst:sg:nom:m1	nazwisko	
+Wayne’y	Wayne	depr:pl:acc:m2	nazwisko	
 Wayne’y	Wayne	depr:pl:nom:m2	nazwisko	
 Wayne’y	Wayne	depr:pl:voc:m2	nazwisko	
 Waynie	Wayne	subst:sg:loc:m1	nazwisko	
@@ -2204,6 +2282,7 @@ Wazowie	Waza	subst:pl:nom:m1	nazwisko
 Wazowie	Waza	subst:pl:voc:m1	nazwisko	
 Wazów	Waza	subst:pl:acc:m1	nazwisko	
 Wazów	Waza	subst:pl:gen:m1	nazwisko	
+Wazy	Waza	depr:pl:acc:m2	nazwisko	
 Wazy	Waza	depr:pl:nom:m2	nazwisko	
 Wazy	Waza	depr:pl:voc:m2	nazwisko	
 Wazy	Waza	subst:sg:gen:m1	nazwisko	
@@ -2212,6 +2291,7 @@ Ważykami	Ważyk	subst:pl:inst:m1	nazwisko
 Ważyka	Ważyk	subst:sg:acc:m1	nazwisko	
 Ważyka	Ważyk	subst:sg:gen:m1	nazwisko	
 Ważykiem	Ważyk	subst:sg:inst:m1	nazwisko	
+Ważyki	Ważyk	depr:pl:acc:m2	nazwisko	
 Ważyki	Ważyk	depr:pl:nom:m2	nazwisko	
 Ważyki	Ważyk	depr:pl:voc:m2	nazwisko	
 Ważykom	Ważyk	subst:pl:dat:m1	nazwisko	
@@ -2270,6 +2350,7 @@ Wąsowiczami	Wąsowicz	subst:pl:inst:m1	nazwisko
 Wąsowicza	Wąsowicz	subst:sg:acc:m1	nazwisko	
 Wąsowicza	Wąsowicz	subst:sg:gen:m1	nazwisko	
 Wąsowiczem	Wąsowicz	subst:sg:inst:m1	nazwisko	
+Wąsowicze	Wąsowicz	depr:pl:acc:m2	nazwisko	
 Wąsowicze	Wąsowicz	depr:pl:nom:m2	nazwisko	
 Wąsowicze	Wąsowicz	depr:pl:voc:m2	nazwisko	
 Wąsowicze	Wąsowicz	subst:pl:nom:m1	nazwisko	
@@ -2305,6 +2386,7 @@ Wąsowskich	Wąsowski	subst:pl:loc:m1	nazwisko
 Wąsowskiego	Wąsowski	subst:sg:acc:m1	nazwisko	
 Wąsowskiego	Wąsowski	subst:sg:gen:m1	nazwisko	
 Wąsowskiemu	Wąsowski	subst:sg:dat:m1	nazwisko	
+Wąsowskie	Wąsowski	depr:pl:acc:m2	nazwisko	
 Wąsowskie	Wąsowski	depr:pl:nom:m2	nazwisko	
 Wąsowskie	Wąsowski	depr:pl:voc:m2	nazwisko	
 Wąsowskimi	Wąsowski	subst:pl:inst:m1	nazwisko	
@@ -2404,6 +2486,7 @@ Wcisłowie	Wcisło	subst:pl:nom:m1	nazwisko
 Wcisłowie	Wcisło	subst:pl:voc:m1	nazwisko	
 Wcisłów	Wcisło	subst:pl:acc:m1	nazwisko	
 Wcisłów	Wcisło	subst:pl:gen:m1	nazwisko	
+Wcisły	Wcisło	depr:pl:acc:m2	nazwisko	
 Wcisły	Wcisło	depr:pl:nom:m2	nazwisko	
 Wcisły	Wcisło	depr:pl:voc:m2	nazwisko	
 Wcisły	Wcisło	subst:sg:gen:m1	nazwisko	
@@ -2428,6 +2511,7 @@ Wdowiakami	Wdowiak	subst:pl:inst:m1	nazwisko
 Wdowiaka	Wdowiak	subst:sg:acc:m1	nazwisko	
 Wdowiaka	Wdowiak	subst:sg:gen:m1	nazwisko	
 Wdowiakiem	Wdowiak	subst:sg:inst:m1	nazwisko	
+Wdowiaki	Wdowiak	depr:pl:acc:m2	nazwisko	
 Wdowiaki	Wdowiak	depr:pl:nom:m2	nazwisko	
 Wdowiaki	Wdowiak	depr:pl:voc:m2	nazwisko	
 Wdowiakom	Wdowiak	subst:pl:dat:m1	nazwisko	
@@ -2465,6 +2549,7 @@ Weberowi	Weber	subst:sg:dat:m1	nazwisko
 Weberów	Weber	subst:pl:acc:m1	nazwisko	
 Weberów	Weber	subst:pl:gen:m1	nazwisko	
 Weber	Weber	subst:sg:nom:m1	nazwisko	
+Webery	Weber	depr:pl:acc:m2	nazwisko	
 Webery	Weber	depr:pl:nom:m2	nazwisko	
 Webery	Weber	depr:pl:voc:m2	nazwisko	
 Weberze	Weber	subst:sg:loc:m1	nazwisko	
@@ -2481,6 +2566,7 @@ Websterowi	Webster	subst:sg:dat:m1	nazwisko
 Websterów	Webster	subst:pl:acc:m1	nazwisko	
 Websterów	Webster	subst:pl:gen:m1	nazwisko	
 Webster	Webster	subst:sg:nom:m1	nazwisko	
+Webstery	Webster	depr:pl:acc:m2	nazwisko	
 Webstery	Webster	depr:pl:nom:m2	nazwisko	
 Webstery	Webster	depr:pl:voc:m2	nazwisko	
 Websterze	Webster	subst:sg:loc:m1	nazwisko	
@@ -2505,6 +2591,7 @@ Wedlami	Wedel	subst:pl:inst:m1	nazwisko
 Wedla	Wedel	subst:sg:acc:m1	nazwisko	
 Wedla	Wedel	subst:sg:gen:m1	nazwisko	
 Wedlem	Wedel	subst:sg:inst:m1	nazwisko	
+Wedle	Wedel	depr:pl:acc:m2	nazwisko	
 Wedle	Wedel	depr:pl:nom:m2	nazwisko	
 Wedle	Wedel	depr:pl:voc:m2	nazwisko	
 Wedlom	Wedel	subst:pl:dat:m1	nazwisko	
@@ -2549,6 +2636,7 @@ Weiglami	Weigel	subst:pl:inst:m1	nazwisko
 Weigla	Weigel	subst:sg:acc:m1	nazwisko	
 Weigla	Weigel	subst:sg:gen:m1	nazwisko	
 Weiglem	Weigel	subst:sg:inst:m1	nazwisko	
+Weigle	Weigel	depr:pl:acc:m2	nazwisko	
 Weigle	Weigel	depr:pl:nom:m2	nazwisko	
 Weigle	Weigel	depr:pl:voc:m2	nazwisko	
 Weiglom	Weigel	subst:pl:dat:m1	nazwisko	
@@ -2564,6 +2652,7 @@ Weillami	Weill	subst:pl:inst:m1	nazwisko
 Weilla	Weill	subst:sg:acc:m1	nazwisko	
 Weilla	Weill	subst:sg:gen:m1	nazwisko	
 Weillem	Weill	subst:sg:inst:m1	nazwisko	
+Weille	Weill	depr:pl:acc:m2	nazwisko	
 Weille	Weill	depr:pl:nom:m2	nazwisko	
 Weille	Weill	depr:pl:voc:m2	nazwisko	
 Weillom	Weill	subst:pl:dat:m1	nazwisko	
@@ -2580,6 +2669,7 @@ Weinsbergami	Weinsberg	subst:pl:inst:m1	nazwisko
 Weinsberga	Weinsberg	subst:sg:acc:m1	nazwisko	
 Weinsberga	Weinsberg	subst:sg:gen:m1	nazwisko	
 Weinsbergiem	Weinsberg	subst:sg:inst:m1	nazwisko	
+Weinsbergi	Weinsberg	depr:pl:acc:m2	nazwisko	
 Weinsbergi	Weinsberg	depr:pl:nom:m2	nazwisko	
 Weinsbergi	Weinsberg	depr:pl:voc:m2	nazwisko	
 Weinsbergom	Weinsberg	subst:pl:dat:m1	nazwisko	
@@ -2605,6 +2695,7 @@ Weissowi	Weiss	subst:sg:dat:m1	nazwisko
 Weissów	Weiss	subst:pl:acc:m1	nazwisko	
 Weissów	Weiss	subst:pl:gen:m1	nazwisko	
 Weiss	Weiss	subst:sg:nom:m1	nazwisko	
+Weissy	Weiss	depr:pl:acc:m2	nazwisko	
 Weissy	Weiss	depr:pl:nom:m2	nazwisko	
 Weissy	Weiss	depr:pl:voc:m2	nazwisko	
 Weizsaeckerach	Weizsaecker	subst:pl:loc:m1	nazwisko	
@@ -2619,6 +2710,7 @@ Weizsaeckerowi	Weizsaecker	subst:sg:dat:m1	nazwisko
 Weizsaeckerów	Weizsaecker	subst:pl:acc:m1	nazwisko	
 Weizsaeckerów	Weizsaecker	subst:pl:gen:m1	nazwisko	
 Weizsaecker	Weizsaecker	subst:sg:nom:m1	nazwisko	
+Weizsaeckery	Weizsaecker	depr:pl:acc:m2	nazwisko	
 Weizsaeckery	Weizsaecker	depr:pl:nom:m2	nazwisko	
 Weizsaeckery	Weizsaecker	depr:pl:voc:m2	nazwisko	
 Weizsaeckerze	Weizsaecker	subst:sg:loc:m1	nazwisko	
@@ -2698,6 +2790,7 @@ Wellesowi	Welles	subst:sg:dat:m1	nazwisko
 Wellesów	Welles	subst:pl:acc:m1	nazwisko	
 Wellesów	Welles	subst:pl:gen:m1	nazwisko	
 Welles	Welles	subst:sg:nom:m1	nazwisko	
+Wellesy	Welles	depr:pl:acc:m2	nazwisko	
 Wellesy	Welles	depr:pl:nom:m2	nazwisko	
 Wellesy	Welles	depr:pl:voc:m2	nazwisko	
 Wellingtonach	Wellington	subst:pl:loc:m1	nazwisko	
@@ -2714,6 +2807,7 @@ Wellingtonowi	Wellington	subst:sg:dat:m1	nazwisko
 Wellingtonów	Wellington	subst:pl:acc:m1	nazwisko	
 Wellingtonów	Wellington	subst:pl:gen:m1	nazwisko	
 Wellington	Wellington	subst:sg:nom:m1	nazwisko	
+Wellingtony	Wellington	depr:pl:acc:m2	nazwisko	
 Wellingtony	Wellington	depr:pl:nom:m2	nazwisko	
 Wellingtony	Wellington	depr:pl:voc:m2	nazwisko	
 Wellsach	Wells	subst:pl:loc:m1	nazwisko	
@@ -2730,6 +2824,7 @@ Wellsowi	Wells	subst:sg:dat:m1	nazwisko
 Wellsów	Wells	subst:pl:acc:m1	nazwisko	
 Wellsów	Wells	subst:pl:gen:m1	nazwisko	
 Wells	Wells	subst:sg:nom:m1	nazwisko	
+Wellsy	Wells	depr:pl:acc:m2	nazwisko	
 Wellsy	Wells	depr:pl:nom:m2	nazwisko	
 Wellsy	Wells	depr:pl:voc:m2	nazwisko	
 Wełtawach	Wełtawa	subst:pl:loc:f	nazwa geograficzna	
@@ -2765,6 +2860,7 @@ Wenancjuszami	Wenancjusz	subst:pl:inst:m1	imię
 Wenancjusza	Wenancjusz	subst:sg:acc:m1	imię	
 Wenancjusza	Wenancjusz	subst:sg:gen:m1	imię	
 Wenancjuszem	Wenancjusz	subst:sg:inst:m1	imię	
+Wenancjusze	Wenancjusz	depr:pl:acc:m2	imię	
 Wenancjusze	Wenancjusz	depr:pl:nom:m2	imię	
 Wenancjusze	Wenancjusz	depr:pl:voc:m2	imię	
 Wenancjusze	Wenancjusz	subst:pl:nom:m1	imię	
@@ -2781,6 +2877,7 @@ Wenancjusz	Wenancjusz	subst:sg:nom:m1	imię
 Wenantego	Wenanty	subst:sg:acc:m1	imię	
 Wenantego	Wenanty	subst:sg:gen:m1	imię	
 Wenantemu	Wenanty	subst:sg:dat:m1	imię	
+Wenante	Wenanty	depr:pl:acc:m2	imię	
 Wenante	Wenanty	depr:pl:nom:m2	imię	
 Wenante	Wenanty	depr:pl:voc:m2	imię	
 Wenantowie	Wenanty	subst:pl:nom:m1	imię	
@@ -2801,6 +2898,7 @@ Wendego	Wende	subst:sg:gen:m1	nazwisko
 Wendemu	Wende	subst:sg:dat:m1	nazwisko	
 Wendem	Wende	subst:sg:inst:m1	nazwisko	
 Wendem	Wende	subst:sg:loc:m1	nazwisko	
+Wende	Wende	depr:pl:acc:m2	nazwisko	
 Wende	Wende	depr:pl:nom:m2	nazwisko	
 Wende	Wende	depr:pl:voc:m2	nazwisko	
 Wende	Wende	subst:pl:acc:m1	nazwisko	
@@ -2838,6 +2936,7 @@ Wendelinowi	Wendelin	subst:sg:dat:m1	imię
 Wendelinów	Wendelin	subst:pl:acc:m1	imię	
 Wendelinów	Wendelin	subst:pl:gen:m1	imię	
 Wendelin	Wendelin	subst:sg:nom:m1	imię	
+Wendeliny	Wendelin	depr:pl:acc:m2	imię	
 Wendeliny	Wendelin	depr:pl:nom:m2	imię	
 Wendeliny	Wendelin	depr:pl:voc:m2	imię	
 Wenecjach	Wenecja	subst:pl:loc:f	nazwa geograficzna	
@@ -2869,6 +2968,7 @@ Wenecjanin	Wenecjanin	subst:sg:nom:m1	nazwa pospolita
 Wenecjanom	Wenecjanin	subst:pl:dat:m1	nazwa pospolita	
 Wenecjan	Wenecjanin	subst:pl:acc:m1	nazwa pospolita	
 Wenecjan	Wenecjanin	subst:pl:gen:m1	nazwa pospolita	
+Wenecjany	Wenecjanin	depr:pl:acc:m2	nazwa pospolita	
 Wenecjany	Wenecjanin	depr:pl:nom:m2	nazwa pospolita	
 Wenecjany	Wenecjanin	depr:pl:voc:m2	nazwa pospolita	
 Wenerach	Wenera	subst:pl:loc:f	imię	mit.
@@ -2907,6 +3007,7 @@ Wenezuelczykami	Wenezuelczyk	subst:pl:inst:m1	nazwa pospolita
 Wenezuelczyka	Wenezuelczyk	subst:sg:acc:m1	nazwa pospolita	
 Wenezuelczyka	Wenezuelczyk	subst:sg:gen:m1	nazwa pospolita	
 Wenezuelczykiem	Wenezuelczyk	subst:sg:inst:m1	nazwa pospolita	
+Wenezuelczyki	Wenezuelczyk	depr:pl:acc:m2	nazwa pospolita	
 Wenezuelczyki	Wenezuelczyk	depr:pl:nom:m2	nazwa pospolita	
 Wenezuelczyki	Wenezuelczyk	depr:pl:voc:m2	nazwa pospolita	
 Wenezuelczykom	Wenezuelczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -2944,6 +3045,7 @@ Wenusjanin	Wenusjanin	subst:sg:nom:m1	nazwa pospolita
 Wenusjanom	Wenusjanin	subst:pl:dat:m1	nazwa pospolita	
 Wenusjan	Wenusjanin	subst:pl:acc:m1	nazwa pospolita	
 Wenusjan	Wenusjanin	subst:pl:gen:m1	nazwa pospolita	
+Wenusjany	Wenusjanin	depr:pl:acc:m2	nazwa pospolita	
 Wenusjany	Wenusjanin	depr:pl:nom:m2	nazwa pospolita	
 Wenusjany	Wenusjanin	depr:pl:voc:m2	nazwa pospolita	
 Wenzel	Wenzel	subst:sg:nom:m1	nazwisko	
@@ -2952,6 +3054,7 @@ Wenzlami	Wenzel	subst:pl:inst:m1	nazwisko
 Wenzla	Wenzel	subst:sg:acc:m1	nazwisko	
 Wenzla	Wenzel	subst:sg:gen:m1	nazwisko	
 Wenzlem	Wenzel	subst:sg:inst:m1	nazwisko	
+Wenzle	Wenzel	depr:pl:acc:m2	nazwisko	
 Wenzle	Wenzel	depr:pl:nom:m2	nazwisko	
 Wenzle	Wenzel	depr:pl:voc:m2	nazwisko	
 Wenzlom	Wenzel	subst:pl:dat:m1	nazwisko	
@@ -3036,6 +3139,7 @@ Wereszczakówny	Wereszczakówna	subst:sg:gen:f	nazwisko
 Wergilego	Wergili	subst:sg:acc:m1	imię	
 Wergilego	Wergili	subst:sg:gen:m1	imię	
 Wergilemu	Wergili	subst:sg:dat:m1	imię	
+Wergile	Wergili	depr:pl:acc:m2	imię	
 Wergile	Wergili	depr:pl:nom:m2	imię	
 Wergile	Wergili	depr:pl:voc:m2	imię	
 Wergilich	Wergili	subst:pl:acc:m1	imię	
@@ -3054,6 +3158,7 @@ Wergiliuszami	Wergiliusz	subst:pl:inst:m1	imię
 Wergiliusza	Wergiliusz	subst:sg:acc:m1	imię	
 Wergiliusza	Wergiliusz	subst:sg:gen:m1	imię	
 Wergiliuszem	Wergiliusz	subst:sg:inst:m1	imię	
+Wergiliusze	Wergiliusz	depr:pl:acc:m2	imię	
 Wergiliusze	Wergiliusz	depr:pl:nom:m2	imię	
 Wergiliusze	Wergiliusz	depr:pl:voc:m2	imię	
 Wergiliusze	Wergiliusz	subst:pl:nom:m1	imię	
@@ -3093,6 +3198,7 @@ Wernerowi	Werner	subst:sg:dat:m1	imię|nazwisko
 Wernerów	Werner	subst:pl:acc:m1	imię|nazwisko	
 Wernerów	Werner	subst:pl:gen:m1	imię|nazwisko	
 Werner	Werner	subst:sg:nom:m1	imię|nazwisko	
+Wernery	Werner	depr:pl:acc:m2	imię|nazwisko	
 Wernery	Werner	depr:pl:nom:m2	imię|nazwisko	
 Wernery	Werner	depr:pl:voc:m2	imię|nazwisko	
 Wernerze	Werner	subst:sg:loc:m1	imię|nazwisko	
@@ -3108,6 +3214,7 @@ Wernyhorowie	Wernyhora	subst:pl:nom:m1	nazwisko
 Wernyhorowie	Wernyhora	subst:pl:voc:m1	nazwisko	
 Wernyhorów	Wernyhora	subst:pl:acc:m1	nazwisko	
 Wernyhorów	Wernyhora	subst:pl:gen:m1	nazwisko	
+Wernyhory	Wernyhora	depr:pl:acc:m2	nazwisko	
 Wernyhory	Wernyhora	depr:pl:nom:m2	nazwisko	
 Wernyhory	Wernyhora	depr:pl:voc:m2	nazwisko	
 Wernyhory	Wernyhora	subst:sg:gen:m1	nazwisko	
@@ -3196,6 +3303,7 @@ Werterowi	Werter	subst:sg:dat:m1	imię	lit.
 Werterów	Werter	subst:pl:acc:m1	imię	lit.
 Werterów	Werter	subst:pl:gen:m1	imię	lit.
 Werter	Werter	subst:sg:nom:m1	imię	lit.
+Wertery	Werter	depr:pl:acc:m2	imię	lit.
 Wertery	Werter	depr:pl:nom:m2	imię	lit.
 Wertery	Werter	depr:pl:voc:m2	imię	lit.
 Werterze	Werter	subst:sg:loc:m1	imię	lit.
@@ -3222,6 +3330,7 @@ Wesołowskich	Wesołowski	subst:pl:loc:m1	nazwisko
 Wesołowskiego	Wesołowski	subst:sg:acc:m1	nazwisko	
 Wesołowskiego	Wesołowski	subst:sg:gen:m1	nazwisko	
 Wesołowskiemu	Wesołowski	subst:sg:dat:m1	nazwisko	
+Wesołowskie	Wesołowski	depr:pl:acc:m2	nazwisko	
 Wesołowskie	Wesołowski	depr:pl:nom:m2	nazwisko	
 Wesołowskie	Wesołowski	depr:pl:voc:m2	nazwisko	
 Wesołowskimi	Wesołowski	subst:pl:inst:m1	nazwisko	
@@ -3244,6 +3353,7 @@ Wespazjanowi	Wespazjan	subst:sg:dat:m1	imię
 Wespazjanów	Wespazjan	subst:pl:acc:m1	imię	
 Wespazjanów	Wespazjan	subst:pl:gen:m1	imię	
 Wespazjan	Wespazjan	subst:sg:nom:m1	imię	
+Wespazjany	Wespazjan	depr:pl:acc:m2	imię	
 Wespazjany	Wespazjan	depr:pl:nom:m2	imię	
 Wespazjany	Wespazjan	depr:pl:voc:m2	imię	
 Westerplatte	Westerplatte	subst:pl:acc:n:ncol	nazwa geograficzna	
@@ -3315,6 +3425,7 @@ Weyssenhoffowi	Weyssenhoff	subst:sg:dat:m1	nazwisko
 Weyssenhoffów	Weyssenhoff	subst:pl:acc:m1	nazwisko	
 Weyssenhoffów	Weyssenhoff	subst:pl:gen:m1	nazwisko	
 Weyssenhoff	Weyssenhoff	subst:sg:nom:m1	nazwisko	
+Weyssenhoffy	Weyssenhoff	depr:pl:acc:m2	nazwisko	
 Weyssenhoffy	Weyssenhoff	depr:pl:nom:m2	nazwisko	
 Weyssenhoffy	Weyssenhoff	depr:pl:voc:m2	nazwisko	
 Wezuwiuszach	Wezuwiusz	subst:pl:loc:m2	nazwa geograficzna	
@@ -3351,6 +3462,7 @@ Węglami	Węgiel:s2	subst:pl:inst:m1	nazwisko|pseudonim
 Węgla	Węgiel:s2	subst:sg:acc:m1	nazwisko|pseudonim	
 Węgla	Węgiel:s2	subst:sg:gen:m1	nazwisko|pseudonim	
 Węglem	Węgiel:s2	subst:sg:inst:m1	nazwisko|pseudonim	
+Węgle	Węgiel:s2	depr:pl:acc:m2	nazwisko|pseudonim	
 Węgle	Węgiel:s2	depr:pl:nom:m2	nazwisko|pseudonim	
 Węgle	Węgiel:s2	depr:pl:voc:m2	nazwisko|pseudonim	
 Węglom	Węgiel:s2	subst:pl:dat:m1	nazwisko|pseudonim	
@@ -3371,6 +3483,7 @@ Węgrom	Węgier	subst:pl:dat:m1	nazwa pospolita
 Węgrowi	Węgier	subst:sg:dat:m1	nazwa pospolita	
 Węgrów	Węgier	subst:pl:acc:m1	nazwa pospolita	
 Węgrów	Węgier	subst:pl:gen:m1	nazwa pospolita	
+Węgry	Węgier	depr:pl:acc:m2	nazwa pospolita	
 Węgry	Węgier	depr:pl:nom:m2	nazwa pospolita	
 Węgry	Węgier	depr:pl:voc:m2	nazwa pospolita	
 Węgrze	Węgier	subst:sg:loc:m1	nazwa pospolita	
@@ -3470,6 +3583,7 @@ Węgrzynowskich	Węgrzynowski	subst:pl:loc:m1	nazwisko
 Węgrzynowskiego	Węgrzynowski	subst:sg:acc:m1	nazwisko	
 Węgrzynowskiego	Węgrzynowski	subst:sg:gen:m1	nazwisko	
 Węgrzynowskiemu	Węgrzynowski	subst:sg:dat:m1	nazwisko	
+Węgrzynowskie	Węgrzynowski	depr:pl:acc:m2	nazwisko	
 Węgrzynowskie	Węgrzynowski	depr:pl:nom:m2	nazwisko	
 Węgrzynowskie	Węgrzynowski	depr:pl:voc:m2	nazwisko	
 Węgrzynowskimi	Węgrzynowski	subst:pl:inst:m1	nazwisko	
@@ -3500,6 +3614,7 @@ Węsławskich	Węsławski	subst:pl:loc:m1	nazwisko
 Węsławskiego	Węsławski	subst:sg:acc:m1	nazwisko	
 Węsławskiego	Węsławski	subst:sg:gen:m1	nazwisko	
 Węsławskiemu	Węsławski	subst:sg:dat:m1	nazwisko	
+Węsławskie	Węsławski	depr:pl:acc:m2	nazwisko	
 Węsławskie	Węsławski	depr:pl:nom:m2	nazwisko	
 Węsławskie	Węsławski	depr:pl:voc:m2	nazwisko	
 Węsławskimi	Węsławski	subst:pl:inst:m1	nazwisko	
@@ -3534,6 +3649,7 @@ Węzłowie	Węzeł:s2	subst:pl:voc:m1	nazwisko
 Węzłowi	Węzeł:s2	subst:sg:dat:m1	nazwisko	
 Węzłów	Węzeł:s2	subst:pl:acc:m1	nazwisko	
 Węzłów	Węzeł:s2	subst:pl:gen:m1	nazwisko	
+Węzły	Węzeł:s2	depr:pl:acc:m2	nazwisko	
 Węzły	Węzeł:s2	depr:pl:nom:m2	nazwisko	
 Węzły	Węzeł:s2	depr:pl:voc:m2	nazwisko	
 Węźle	Węzeł:s2	subst:sg:loc:m1	nazwisko	
@@ -3594,6 +3710,7 @@ Whartonowi	Wharton	subst:sg:dat:m1	nazwisko
 Whartonów	Wharton	subst:pl:acc:m1	nazwisko	
 Whartonów	Wharton	subst:pl:gen:m1	nazwisko	
 Wharton	Wharton	subst:sg:nom:m1	nazwisko	
+Whartony	Wharton	depr:pl:acc:m2	nazwisko	
 Whartony	Wharton	depr:pl:nom:m2	nazwisko	
 Whartony	Wharton	depr:pl:voc:m2	nazwisko	
 Whicie	White	subst:sg:loc:m1	nazwisko	
@@ -3610,6 +3727,7 @@ White’owi	White	subst:sg:dat:m1	nazwisko
 White’ów	White	subst:pl:acc:m1	nazwisko	
 White’ów	White	subst:pl:gen:m1	nazwisko	
 White	White	subst:sg:nom:m1	nazwisko	
+White’y	White	depr:pl:acc:m2	nazwisko	
 White’y	White	depr:pl:nom:m2	nazwisko	
 White’y	White	depr:pl:voc:m2	nazwisko	
 Whitmanach	Whitman	subst:pl:loc:m1	nazwisko	
@@ -3626,6 +3744,7 @@ Whitmanowi	Whitman	subst:sg:dat:m1	nazwisko
 Whitmanów	Whitman	subst:pl:acc:m1	nazwisko	
 Whitmanów	Whitman	subst:pl:gen:m1	nazwisko	
 Whitman	Whitman	subst:sg:nom:m1	nazwisko	
+Whitmany	Whitman	depr:pl:acc:m2	nazwisko	
 Whitmany	Whitman	depr:pl:nom:m2	nazwisko	
 Whitmany	Whitman	depr:pl:voc:m2	nazwisko	
 Whitmannach	Whitmann	subst:pl:loc:m1	nazwisko	
@@ -3642,6 +3761,7 @@ Whitmannowi	Whitmann	subst:sg:dat:m1	nazwisko
 Whitmannów	Whitmann	subst:pl:acc:m1	nazwisko	
 Whitmannów	Whitmann	subst:pl:gen:m1	nazwisko	
 Whitmann	Whitmann	subst:sg:nom:m1	nazwisko	
+Whitmanny	Whitmann	depr:pl:acc:m2	nazwisko	
 Whitmanny	Whitmann	depr:pl:nom:m2	nazwisko	
 Whitmanny	Whitmann	depr:pl:voc:m2	nazwisko	
 WHO	WHO	subst:pl:acc:n:ncol	nazwa organizacji	
@@ -3672,6 +3792,7 @@ Wiaczesławowi	Wiaczesław	subst:sg:dat:m1	imię
 Wiaczesławów	Wiaczesław	subst:pl:acc:m1	imię	
 Wiaczesławów	Wiaczesław	subst:pl:gen:m1	imię	
 Wiaczesław	Wiaczesław	subst:sg:nom:m1	imię	
+Wiaczesławy	Wiaczesław	depr:pl:acc:m2	imię	
 Wiaczesławy	Wiaczesław	depr:pl:nom:m2	imię	
 Wiaczesławy	Wiaczesław	depr:pl:voc:m2	imię	
 Wiaderna	Wiaderna	subst:sg:nom:f	nazwisko	
@@ -3691,6 +3812,7 @@ Wiadernym	Wiaderna	subst:pl:dat:f	nazwisko
 Wiadernego	Wiaderny	subst:sg:acc:m1	nazwisko	
 Wiadernego	Wiaderny	subst:sg:gen:m1	nazwisko	
 Wiadernemu	Wiaderny	subst:sg:dat:m1	nazwisko	
+Wiaderne	Wiaderny	depr:pl:acc:m2	nazwisko	
 Wiaderne	Wiaderny	depr:pl:nom:m2	nazwisko	
 Wiaderne	Wiaderny	depr:pl:voc:m2	nazwisko	
 Wiaderni	Wiaderny	subst:pl:nom:m1	nazwisko	
@@ -3739,6 +3861,7 @@ Wickami	Wicek	subst:pl:inst:m1	imię
 Wicka	Wicek	subst:sg:acc:m1	imię	
 Wicka	Wicek	subst:sg:gen:m1	imię	
 Wickiem	Wicek	subst:sg:inst:m1	imię	
+Wicki	Wicek	depr:pl:acc:m2	imię	
 Wicki	Wicek	depr:pl:nom:m2	imię	
 Wicki	Wicek	depr:pl:voc:m2	imię	
 Wickom	Wicek	subst:pl:dat:m1	imię	
@@ -3761,6 +3884,7 @@ Wichrowie	Wicher	subst:pl:voc:m1	nazwisko
 Wichrowi	Wicher	subst:sg:dat:m1	nazwisko	
 Wichrów	Wicher	subst:pl:acc:m1	nazwisko	
 Wichrów	Wicher	subst:pl:gen:m1	nazwisko	
+Wichry	Wicher	depr:pl:acc:m2	nazwisko	
 Wichry	Wicher	depr:pl:nom:m2	nazwisko	
 Wichry	Wicher	depr:pl:voc:m2	nazwisko	
 Wichrze	Wicher	subst:sg:loc:m1	nazwisko	
@@ -3787,6 +3911,7 @@ Wichrowskich	Wichrowski	subst:pl:loc:m1	nazwisko
 Wichrowskiego	Wichrowski	subst:sg:acc:m1	nazwisko	
 Wichrowskiego	Wichrowski	subst:sg:gen:m1	nazwisko	
 Wichrowskiemu	Wichrowski	subst:sg:dat:m1	nazwisko	
+Wichrowskie	Wichrowski	depr:pl:acc:m2	nazwisko	
 Wichrowskie	Wichrowski	depr:pl:nom:m2	nazwisko	
 Wichrowskie	Wichrowski	depr:pl:voc:m2	nazwisko	
 Wichrowskimi	Wichrowski	subst:pl:inst:m1	nazwisko	
@@ -3800,6 +3925,7 @@ Wiciami	Wicio	subst:pl:inst:m1	imię
 Wicia	Wicio	subst:sg:acc:m1	imię	
 Wicia	Wicio	subst:sg:gen:m1	imię	
 Wiciem	Wicio	subst:sg:inst:m1	imię	
+Wicie	Wicio	depr:pl:acc:m2	imię	
 Wicie	Wicio	depr:pl:nom:m2	imię	
 Wicie	Wicio	depr:pl:voc:m2	imię	
 Wiciom	Wicio	subst:pl:dat:m1	imię	
@@ -3816,6 +3942,7 @@ Wicusiami	Wicuś	subst:pl:inst:m1	imię
 Wicusia	Wicuś	subst:sg:acc:m1	imię	
 Wicusia	Wicuś	subst:sg:gen:m1	imię	
 Wicusiem	Wicuś	subst:sg:inst:m1	imię	
+Wicusie	Wicuś	depr:pl:acc:m2	imię	
 Wicusie	Wicuś	depr:pl:nom:m2	imię	
 Wicusie	Wicuś	depr:pl:voc:m2	imię	
 Wicusie	Wicuś	subst:pl:nom:m1	imię	
@@ -3863,6 +3990,7 @@ Wieczorkami	Wieczorek	subst:pl:inst:m1	nazwisko
 Wieczorka	Wieczorek	subst:sg:acc:m1	nazwisko	
 Wieczorka	Wieczorek	subst:sg:gen:m1	nazwisko	
 Wieczorkiem	Wieczorek	subst:sg:inst:m1	nazwisko	
+Wieczorki	Wieczorek	depr:pl:acc:m2	nazwisko	
 Wieczorki	Wieczorek	depr:pl:nom:m2	nazwisko	
 Wieczorki	Wieczorek	depr:pl:voc:m2	nazwisko	
 Wieczorkom	Wieczorek	subst:pl:dat:m1	nazwisko	
@@ -3895,6 +4023,7 @@ Wieczorkowskich	Wieczorkowski	subst:pl:loc:m1	nazwisko
 Wieczorkowskiego	Wieczorkowski	subst:sg:acc:m1	nazwisko	
 Wieczorkowskiego	Wieczorkowski	subst:sg:gen:m1	nazwisko	
 Wieczorkowskiemu	Wieczorkowski	subst:sg:dat:m1	nazwisko	
+Wieczorkowskie	Wieczorkowski	depr:pl:acc:m2	nazwisko	
 Wieczorkowskie	Wieczorkowski	depr:pl:nom:m2	nazwisko	
 Wieczorkowskie	Wieczorkowski	depr:pl:voc:m2	nazwisko	
 Wieczorkowskimi	Wieczorkowski	subst:pl:inst:m1	nazwisko	
@@ -4035,6 +4164,7 @@ Wielisławowi	Wielisław	subst:sg:dat:m1	imię
 Wielisławów	Wielisław	subst:pl:acc:m1	imię	
 Wielisławów	Wielisław	subst:pl:gen:m1	imię	
 Wielisław	Wielisław	subst:sg:nom:m1	imię	
+Wielisławy	Wielisław	depr:pl:acc:m2	imię	
 Wielisławy	Wielisław	depr:pl:nom:m2	imię	
 Wielisławy	Wielisław	depr:pl:voc:m2	imię	
 Wielisławach	Wielisława	subst:pl:loc:f	imię	
@@ -4097,6 +4227,7 @@ Wielkopolanin	Wielkopolanin	subst:sg:nom:m1	nazwa pospolita
 Wielkopolanom	Wielkopolanin	subst:pl:dat:m1	nazwa pospolita	
 Wielkopolan	Wielkopolanin	subst:pl:acc:m1	nazwa pospolita	
 Wielkopolan	Wielkopolanin	subst:pl:gen:m1	nazwa pospolita	
+Wielkopolany	Wielkopolanin	depr:pl:acc:m2	nazwa pospolita	
 Wielkopolany	Wielkopolanin	depr:pl:nom:m2	nazwa pospolita	
 Wielkopolany	Wielkopolanin	depr:pl:voc:m2	nazwa pospolita	
 Wielkopolsce	Wielkopolska	subst:sg:dat:f	nazwa geograficzna	
@@ -4127,6 +4258,7 @@ Wielkorusowi	Wielkorus	subst:sg:dat:m1	nazwa pospolita
 Wielkorusów	Wielkorus	subst:pl:acc:m1	nazwa pospolita	
 Wielkorusów	Wielkorus	subst:pl:gen:m1	nazwa pospolita	
 Wielkorus	Wielkorus	subst:sg:nom:m1	nazwa pospolita	
+Wielkorusy	Wielkorus	depr:pl:acc:m2	nazwa pospolita	
 Wielkorusy	Wielkorus	depr:pl:nom:m2	nazwa pospolita	
 Wielkorusy	Wielkorus	depr:pl:voc:m2	nazwa pospolita	
 W	Wielmożny	brev:pun		
@@ -4159,6 +4291,7 @@ Wieluńczanin	Wieluńczanin	subst:sg:nom:m1	nazwa pospolita
 Wieluńczanom	Wieluńczanin	subst:pl:dat:m1	nazwa pospolita	
 Wieluńczan	Wieluńczanin	subst:pl:acc:m1	nazwa pospolita	
 Wieluńczan	Wieluńczanin	subst:pl:gen:m1	nazwa pospolita	
+Wieluńczany	Wieluńczanin	depr:pl:acc:m2	nazwa pospolita	
 Wieluńczany	Wieluńczanin	depr:pl:nom:m2	nazwa pospolita	
 Wieluńczany	Wieluńczanin	depr:pl:voc:m2	nazwa pospolita	
 Wienerach	Wiener	subst:pl:loc:m1	nazwisko	
@@ -4173,6 +4306,7 @@ Wienerowi	Wiener	subst:sg:dat:m1	nazwisko
 Wienerów	Wiener	subst:pl:acc:m1	nazwisko	
 Wienerów	Wiener	subst:pl:gen:m1	nazwisko	
 Wiener	Wiener	subst:sg:nom:m1	nazwisko	
+Wienery	Wiener	depr:pl:acc:m2	nazwisko	
 Wienery	Wiener	depr:pl:nom:m2	nazwisko	
 Wienery	Wiener	depr:pl:voc:m2	nazwisko	
 Wienerze	Wiener	subst:sg:loc:m1	nazwisko	
@@ -4190,6 +4324,7 @@ Wieniawowie	Wieniawa	subst:pl:nom:m1	nazwisko
 Wieniawowie	Wieniawa	subst:pl:voc:m1	nazwisko	
 Wieniawów	Wieniawa	subst:pl:acc:m1	nazwisko	
 Wieniawów	Wieniawa	subst:pl:gen:m1	nazwisko	
+Wieniawy	Wieniawa	depr:pl:acc:m2	nazwisko	
 Wieniawy	Wieniawa	depr:pl:nom:m2	nazwisko	
 Wieniawy	Wieniawa	depr:pl:voc:m2	nazwisko	
 Wieniawy	Wieniawa	subst:sg:gen:m1	nazwisko	
@@ -4201,6 +4336,7 @@ Wieniawskich	Wieniawski	subst:pl:loc:m1	nazwisko
 Wieniawskiego	Wieniawski	subst:sg:acc:m1	nazwisko	
 Wieniawskiego	Wieniawski	subst:sg:gen:m1	nazwisko	
 Wieniawskiemu	Wieniawski	subst:sg:dat:m1	nazwisko	
+Wieniawskie	Wieniawski	depr:pl:acc:m2	nazwisko	
 Wieniawskie	Wieniawski	depr:pl:nom:m2	nazwisko	
 Wieniawskie	Wieniawski	depr:pl:voc:m2	nazwisko	
 Wieniawskimi	Wieniawski	subst:pl:inst:m1	nazwisko	
@@ -4223,6 +4359,7 @@ Wieńczysławowi	Wieńczysław	subst:sg:dat:m1	imię
 Wieńczysławów	Wieńczysław	subst:pl:acc:m1	imię	
 Wieńczysławów	Wieńczysław	subst:pl:gen:m1	imię	
 Wieńczysław	Wieńczysław	subst:sg:nom:m1	imię	
+Wieńczysławy	Wieńczysław	depr:pl:acc:m2	imię	
 Wieńczysławy	Wieńczysław	depr:pl:nom:m2	imię	
 Wieńczysławy	Wieńczysław	depr:pl:voc:m2	imię	
 Wieprzach	Wieprz	subst:pl:loc:m3	nazwa geograficzna	
@@ -4276,6 +4413,7 @@ Wiercińskich	Wierciński	subst:pl:loc:m1	nazwisko
 Wiercińskiego	Wierciński	subst:sg:acc:m1	nazwisko	
 Wiercińskiego	Wierciński	subst:sg:gen:m1	nazwisko	
 Wiercińskiemu	Wierciński	subst:sg:dat:m1	nazwisko	
+Wiercińskie	Wierciński	depr:pl:acc:m2	nazwisko	
 Wiercińskie	Wierciński	depr:pl:nom:m2	nazwisko	
 Wiercińskie	Wierciński	depr:pl:voc:m2	nazwisko	
 Wiercińskimi	Wierciński	subst:pl:inst:m1	nazwisko	
@@ -4289,6 +4427,7 @@ Wieruszami	Wierusz	subst:pl:inst:m1	nazwisko|człon nazwiska (herb)
 Wierusza	Wierusz	subst:sg:acc:m1	nazwisko|człon nazwiska (herb)	
 Wierusza	Wierusz	subst:sg:gen:m1	nazwisko|człon nazwiska (herb)	
 Wieruszem	Wierusz	subst:sg:inst:m1	nazwisko|człon nazwiska (herb)	
+Wierusze	Wierusz	depr:pl:acc:m2	nazwisko|człon nazwiska (herb)	
 Wierusze	Wierusz	depr:pl:nom:m2	nazwisko|człon nazwiska (herb)	
 Wierusze	Wierusz	depr:pl:voc:m2	nazwisko|człon nazwiska (herb)	
 Wieruszom	Wierusz	subst:pl:dat:m1	nazwisko|człon nazwiska (herb)	
@@ -4299,6 +4438,7 @@ Wieruszów	Wierusz	subst:pl:acc:m1	nazwisko|człon nazwiska (herb)
 Wieruszów	Wierusz	subst:pl:gen:m1	nazwisko|człon nazwiska (herb)	
 Wieruszu	Wierusz	subst:sg:loc:m1	nazwisko|człon nazwiska (herb)	
 Wieruszu	Wierusz	subst:sg:voc:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	depr:pl:acc:m2	nazwisko|człon nazwiska (herb)	
 Wierusz	Wierusz	depr:pl:nom:m2	nazwisko|człon nazwiska (herb)	
 Wierusz	Wierusz	depr:pl:voc:m2	nazwisko|człon nazwiska (herb)	
 Wierusz	Wierusz	subst:pl:acc:m1	nazwisko|człon nazwiska (herb)	
@@ -4366,6 +4506,7 @@ Wierzbickich	Wierzbicki	subst:pl:loc:m1	nazwisko
 Wierzbickiego	Wierzbicki	subst:sg:acc:m1	nazwisko	
 Wierzbickiego	Wierzbicki	subst:sg:gen:m1	nazwisko	
 Wierzbickiemu	Wierzbicki	subst:sg:dat:m1	nazwisko	
+Wierzbickie	Wierzbicki	depr:pl:acc:m2	nazwisko	
 Wierzbickie	Wierzbicki	depr:pl:nom:m2	nazwisko	
 Wierzbickie	Wierzbicki	depr:pl:voc:m2	nazwisko	
 Wierzbickimi	Wierzbicki	subst:pl:inst:m1	nazwisko	
@@ -4410,6 +4551,7 @@ Wierzbowskich	Wierzbowski	subst:pl:loc:m1	nazwisko
 Wierzbowskiego	Wierzbowski	subst:sg:acc:m1	nazwisko	
 Wierzbowskiego	Wierzbowski	subst:sg:gen:m1	nazwisko	
 Wierzbowskiemu	Wierzbowski	subst:sg:dat:m1	nazwisko	
+Wierzbowskie	Wierzbowski	depr:pl:acc:m2	nazwisko	
 Wierzbowskie	Wierzbowski	depr:pl:nom:m2	nazwisko	
 Wierzbowskie	Wierzbowski	depr:pl:voc:m2	nazwisko	
 Wierzbowskimi	Wierzbowski	subst:pl:inst:m1	nazwisko	
@@ -4437,6 +4579,7 @@ Wierzchoniami	Wierzchoń	subst:pl:inst:m1	nazwisko
 Wierzchonia	Wierzchoń	subst:sg:acc:m1	nazwisko	
 Wierzchonia	Wierzchoń	subst:sg:gen:m1	nazwisko	
 Wierzchoniem	Wierzchoń	subst:sg:inst:m1	nazwisko	
+Wierzchonie	Wierzchoń	depr:pl:acc:m2	nazwisko	
 Wierzchonie	Wierzchoń	depr:pl:nom:m2	nazwisko	
 Wierzchonie	Wierzchoń	depr:pl:voc:m2	nazwisko	
 Wierzchoniom	Wierzchoń	subst:pl:dat:m1	nazwisko	
@@ -4464,6 +4607,7 @@ Wierzchosławowi	Wierzchosław	subst:sg:dat:m1	imię
 Wierzchosławów	Wierzchosław	subst:pl:acc:m1	imię	
 Wierzchosławów	Wierzchosław	subst:pl:gen:m1	imię	
 Wierzchosław	Wierzchosław	subst:sg:nom:m1	imię	
+Wierzchosławy	Wierzchosław	depr:pl:acc:m2	imię	
 Wierzchosławy	Wierzchosław	depr:pl:nom:m2	imię	
 Wierzchosławy	Wierzchosław	depr:pl:voc:m2	imię	
 Wierzchosławach	Wierzchosława	subst:pl:loc:f	imię	
@@ -4516,6 +4660,7 @@ Wierzchowskich	Wierzchowski	subst:pl:loc:m1	nazwisko
 Wierzchowskiego	Wierzchowski	subst:sg:acc:m1	nazwisko	
 Wierzchowskiego	Wierzchowski	subst:sg:gen:m1	nazwisko	
 Wierzchowskiemu	Wierzchowski	subst:sg:dat:m1	nazwisko	
+Wierzchowskie	Wierzchowski	depr:pl:acc:m2	nazwisko	
 Wierzchowskie	Wierzchowski	depr:pl:nom:m2	nazwisko	
 Wierzchowskie	Wierzchowski	depr:pl:voc:m2	nazwisko	
 Wierzchowskimi	Wierzchowski	subst:pl:inst:m1	nazwisko	
@@ -4546,6 +4691,7 @@ Wierzejskich	Wierzejski	subst:pl:loc:m1	nazwisko
 Wierzejskiego	Wierzejski	subst:sg:acc:m1	nazwisko	
 Wierzejskiego	Wierzejski	subst:sg:gen:m1	nazwisko	
 Wierzejskiemu	Wierzejski	subst:sg:dat:m1	nazwisko	
+Wierzejskie	Wierzejski	depr:pl:acc:m2	nazwisko	
 Wierzejskie	Wierzejski	depr:pl:nom:m2	nazwisko	
 Wierzejskie	Wierzejski	depr:pl:voc:m2	nazwisko	
 Wierzejskimi	Wierzejski	subst:pl:inst:m1	nazwisko	
@@ -4574,6 +4720,7 @@ Wierzynkami	Wierzynek	subst:pl:inst:m1	nazwisko
 Wierzynka	Wierzynek	subst:sg:acc:m1	nazwisko	
 Wierzynka	Wierzynek	subst:sg:gen:m1	nazwisko	
 Wierzynkiem	Wierzynek	subst:sg:inst:m1	nazwisko	
+Wierzynki	Wierzynek	depr:pl:acc:m2	nazwisko	
 Wierzynki	Wierzynek	depr:pl:nom:m2	nazwisko	
 Wierzynki	Wierzynek	depr:pl:voc:m2	nazwisko	
 Wierzynkom	Wierzynek	subst:pl:dat:m1	nazwisko	
@@ -4606,6 +4753,7 @@ Wierzyńskich	Wierzyński	subst:pl:loc:m1	nazwisko
 Wierzyńskiego	Wierzyński	subst:sg:acc:m1	nazwisko	
 Wierzyńskiego	Wierzyński	subst:sg:gen:m1	nazwisko	
 Wierzyńskiemu	Wierzyński	subst:sg:dat:m1	nazwisko	
+Wierzyńskie	Wierzyński	depr:pl:acc:m2	nazwisko	
 Wierzyńskie	Wierzyński	depr:pl:nom:m2	nazwisko	
 Wierzyńskie	Wierzyński	depr:pl:voc:m2	nazwisko	
 Wierzyńskimi	Wierzyński	subst:pl:inst:m1	nazwisko	
@@ -4633,6 +4781,7 @@ Wieselami	Wiesel	subst:pl:inst:m1	nazwisko
 Wiesela	Wiesel	subst:sg:acc:m1	nazwisko	
 Wiesela	Wiesel	subst:sg:gen:m1	nazwisko	
 Wieselem	Wiesel	subst:sg:inst:m1	nazwisko	
+Wiesele	Wiesel	depr:pl:acc:m2	nazwisko	
 Wiesele	Wiesel	depr:pl:nom:m2	nazwisko	
 Wiesele	Wiesel	depr:pl:voc:m2	nazwisko	
 Wieselom	Wiesel	subst:pl:dat:m1	nazwisko	
@@ -4649,6 +4798,7 @@ Wiesenthalami	Wiesenthal	subst:pl:inst:m1	nazwisko
 Wiesenthala	Wiesenthal	subst:sg:acc:m1	nazwisko	
 Wiesenthala	Wiesenthal	subst:sg:gen:m1	nazwisko	
 Wiesenthalem	Wiesenthal	subst:sg:inst:m1	nazwisko	
+Wiesenthale	Wiesenthal	depr:pl:acc:m2	nazwisko	
 Wiesenthale	Wiesenthal	depr:pl:nom:m2	nazwisko	
 Wiesenthale	Wiesenthal	depr:pl:voc:m2	nazwisko	
 Wiesenthalom	Wiesenthal	subst:pl:dat:m1	nazwisko	
@@ -4681,6 +4831,7 @@ Wieśkami	Wiesiek	subst:pl:inst:m1	imię
 Wieśka	Wiesiek	subst:sg:acc:m1	imię	
 Wieśka	Wiesiek	subst:sg:gen:m1	imię	
 Wieśkiem	Wiesiek	subst:sg:inst:m1	imię	
+Wieśki	Wiesiek	depr:pl:acc:m2	imię	
 Wieśki	Wiesiek	depr:pl:nom:m2	imię	
 Wieśki	Wiesiek	depr:pl:voc:m2	imię	
 Wieśkom	Wiesiek	subst:pl:dat:m1	imię	
@@ -4696,6 +4847,7 @@ Wiesiami	Wiesio	subst:pl:inst:m1	imię
 Wiesia	Wiesio	subst:sg:acc:m1	imię	
 Wiesia	Wiesio	subst:sg:gen:m1	imię	
 Wiesiem	Wiesio	subst:sg:inst:m1	imię	
+Wiesie	Wiesio	depr:pl:acc:m2	imię	
 Wiesie	Wiesio	depr:pl:nom:m2	imię	
 Wiesie	Wiesio	depr:pl:voc:m2	imię	
 Wiesiom	Wiesio	subst:pl:dat:m1	imię	
@@ -4721,6 +4873,7 @@ Wiesławowi	Wiesław	subst:sg:dat:m1	imię
 Wiesławów	Wiesław	subst:pl:acc:m1	imię	
 Wiesławów	Wiesław	subst:pl:gen:m1	imię	
 Wiesław	Wiesław	subst:sg:nom:m1	imię	
+Wiesławy	Wiesław	depr:pl:acc:m2	imię	
 Wiesławy	Wiesław	depr:pl:nom:m2	imię	
 Wiesławy	Wiesław	depr:pl:voc:m2	imię	
 Wiesławach	Wiesława	subst:pl:loc:f	imię	
@@ -4772,6 +4925,7 @@ Wietnamczykami	Wietnamczyk	subst:pl:inst:m1	nazwa pospolita
 Wietnamczyka	Wietnamczyk	subst:sg:acc:m1	nazwa pospolita	
 Wietnamczyka	Wietnamczyk	subst:sg:gen:m1	nazwa pospolita	
 Wietnamczykiem	Wietnamczyk	subst:sg:inst:m1	nazwa pospolita	
+Wietnamczyki	Wietnamczyk	depr:pl:acc:m2	nazwa pospolita	
 Wietnamczyki	Wietnamczyk	depr:pl:nom:m2	nazwa pospolita	
 Wietnamczyki	Wietnamczyk	depr:pl:voc:m2	nazwa pospolita	
 Wietnamczykom	Wietnamczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -4823,6 +4977,7 @@ Więcemiłowi	Więcemił	subst:sg:dat:m1	imię
 Więcemiłów	Więcemił	subst:pl:acc:m1	imię	
 Więcemiłów	Więcemił	subst:pl:gen:m1	imię	
 Więcemił	Więcemił	subst:sg:nom:m1	imię	
+Więcemiły	Więcemił	depr:pl:acc:m2	imię	
 Więcemiły	Więcemił	depr:pl:nom:m2	imię	
 Więcemiły	Więcemił	depr:pl:voc:m2	imię	
 Więcemile	Więcemiła	subst:sg:dat:f	imię	
@@ -4851,6 +5006,7 @@ Więcemirowi	Więcemir	subst:sg:dat:m1	imię
 Więcemirów	Więcemir	subst:pl:acc:m1	imię	
 Więcemirów	Więcemir	subst:pl:gen:m1	imię	
 Więcemir	Więcemir	subst:sg:nom:m1	imię	
+Więcemiry	Więcemir	depr:pl:acc:m2	imię	
 Więcemiry	Więcemir	depr:pl:nom:m2	imię	
 Więcemiry	Więcemir	depr:pl:voc:m2	imię	
 Więcemirze	Więcemir	subst:sg:loc:m1	imię	
@@ -4869,6 +5025,7 @@ Więceradowi	Więcerad	subst:sg:dat:m1	imię
 Więceradów	Więcerad	subst:pl:acc:m1	imię	
 Więceradów	Więcerad	subst:pl:gen:m1	imię	
 Więcerad	Więcerad	subst:sg:nom:m1	imię	
+Więcerady	Więcerad	depr:pl:acc:m2	imię	
 Więcerady	Więcerad	depr:pl:nom:m2	imię	
 Więcerady	Więcerad	depr:pl:voc:m2	imię	
 Więceradzie	Więcerad	subst:sg:loc:m1	imię	
@@ -4891,6 +5048,7 @@ Więcesławowi	Więcesław	subst:sg:dat:m1	imię
 Więcesławów	Więcesław	subst:pl:acc:m1	imię	
 Więcesławów	Więcesław	subst:pl:gen:m1	imię	
 Więcesław	Więcesław	subst:sg:nom:m1	imię	
+Więcesławy	Więcesław	depr:pl:acc:m2	imię	
 Więcesławy	Więcesław	depr:pl:nom:m2	imię	
 Więcesławy	Więcesław	depr:pl:voc:m2	imię	
 Więcesławach	Więcesława	subst:pl:loc:f	imię	
@@ -4929,6 +5087,7 @@ Więckowskich	Więckowski	subst:pl:loc:m1	nazwisko
 Więckowskiego	Więckowski	subst:sg:acc:m1	nazwisko	
 Więckowskiego	Więckowski	subst:sg:gen:m1	nazwisko	
 Więckowskiemu	Więckowski	subst:sg:dat:m1	nazwisko	
+Więckowskie	Więckowski	depr:pl:acc:m2	nazwisko	
 Więckowskie	Więckowski	depr:pl:nom:m2	nazwisko	
 Więckowskie	Więckowski	depr:pl:voc:m2	nazwisko	
 Więckowskimi	Więckowski	subst:pl:inst:m1	nazwisko	
@@ -4959,6 +5118,7 @@ Więcławskich	Więcławski	subst:pl:loc:m1	nazwisko
 Więcławskiego	Więcławski	subst:sg:acc:m1	nazwisko	
 Więcławskiego	Więcławski	subst:sg:gen:m1	nazwisko	
 Więcławskiemu	Więcławski	subst:sg:dat:m1	nazwisko	
+Więcławskie	Więcławski	depr:pl:acc:m2	nazwisko	
 Więcławskie	Więcławski	depr:pl:nom:m2	nazwisko	
 Więcławskie	Więcławski	depr:pl:voc:m2	nazwisko	
 Więcławskimi	Więcławski	subst:pl:inst:m1	nazwisko	
@@ -5020,6 +5180,7 @@ Wigurowie	Wigura	subst:pl:voc:m1	nazwisko
 Wiguro	Wigura	subst:sg:voc:m1	nazwisko	
 Wigurów	Wigura	subst:pl:acc:m1	nazwisko	
 Wigurów	Wigura	subst:pl:gen:m1	nazwisko	
+Wigury	Wigura	depr:pl:acc:m2	nazwisko	
 Wigury	Wigura	depr:pl:nom:m2	nazwisko	
 Wigury	Wigura	depr:pl:voc:m2	nazwisko	
 Wigury	Wigura	subst:sg:gen:m1	nazwisko	
@@ -5095,6 +5256,7 @@ Wiktorowi	Wiktor	subst:sg:dat:m1	imię
 Wiktorów	Wiktor	subst:pl:acc:m1	imię	
 Wiktorów	Wiktor	subst:pl:gen:m1	imię	
 Wiktor	Wiktor	subst:sg:nom:m1	imię	
+Wiktory	Wiktor	depr:pl:acc:m2	imię	
 Wiktory	Wiktor	depr:pl:nom:m2	imię	
 Wiktory	Wiktor	depr:pl:voc:m2	imię	
 Wiktorze	Wiktor	subst:sg:loc:m1	imię	
@@ -5130,6 +5292,7 @@ Wiktorianowi	Wiktorian	subst:sg:dat:m1	imię
 Wiktorianów	Wiktorian	subst:pl:acc:m1	imię	
 Wiktorianów	Wiktorian	subst:pl:gen:m1	imię	
 Wiktorian	Wiktorian	subst:sg:nom:m1	imię	
+Wiktoriany	Wiktorian	depr:pl:acc:m2	imię	
 Wiktoriany	Wiktorian	depr:pl:nom:m2	imię	
 Wiktoriany	Wiktorian	depr:pl:voc:m2	imię	
 Wiktoriuszach	Wiktoriusz	subst:pl:loc:m1	imię	
@@ -5137,6 +5300,7 @@ Wiktoriuszami	Wiktoriusz	subst:pl:inst:m1	imię
 Wiktoriusza	Wiktoriusz	subst:sg:acc:m1	imię	
 Wiktoriusza	Wiktoriusz	subst:sg:gen:m1	imię	
 Wiktoriuszem	Wiktoriusz	subst:sg:inst:m1	imię	
+Wiktoriusze	Wiktoriusz	depr:pl:acc:m2	imię	
 Wiktoriusze	Wiktoriusz	depr:pl:nom:m2	imię	
 Wiktoriusze	Wiktoriusz	depr:pl:voc:m2	imię	
 Wiktoriusze	Wiktoriusz	subst:pl:nom:m1	imię	
@@ -5172,6 +5336,7 @@ Wiktorowskich	Wiktorowski	subst:pl:loc:m1	nazwisko
 Wiktorowskiego	Wiktorowski	subst:sg:acc:m1	nazwisko	
 Wiktorowskiego	Wiktorowski	subst:sg:gen:m1	nazwisko	
 Wiktorowskiemu	Wiktorowski	subst:sg:dat:m1	nazwisko	
+Wiktorowskie	Wiktorowski	depr:pl:acc:m2	nazwisko	
 Wiktorowskie	Wiktorowski	depr:pl:nom:m2	nazwisko	
 Wiktorowskie	Wiktorowski	depr:pl:voc:m2	nazwisko	
 Wiktorowskimi	Wiktorowski	subst:pl:inst:m1	nazwisko	
@@ -5196,6 +5361,7 @@ Wiktorynowi	Wiktoryn	subst:sg:dat:m1	imię
 Wiktorynów	Wiktoryn	subst:pl:acc:m1	imię	
 Wiktorynów	Wiktoryn	subst:pl:gen:m1	imię	
 Wiktoryn	Wiktoryn	subst:sg:nom:m1	imię	
+Wiktoryny	Wiktoryn	depr:pl:acc:m2	imię	
 Wiktoryny	Wiktoryn	depr:pl:nom:m2	imię	
 Wiktoryny	Wiktoryn	depr:pl:voc:m2	imię	
 Wiktorynach	Wiktoryna	subst:pl:loc:f	imię	
@@ -5262,6 +5428,7 @@ Wilczkami	Wilczek	subst:pl:inst:m1	nazwisko
 Wilczka	Wilczek	subst:sg:acc:m1	nazwisko	
 Wilczka	Wilczek	subst:sg:gen:m1	nazwisko	
 Wilczkiem	Wilczek	subst:sg:inst:m1	nazwisko	
+Wilczki	Wilczek	depr:pl:acc:m2	nazwisko	
 Wilczki	Wilczek	depr:pl:nom:m2	nazwisko	
 Wilczki	Wilczek	depr:pl:voc:m2	nazwisko	
 Wilczkom	Wilczek	subst:pl:dat:m1	nazwisko	
@@ -5294,6 +5461,7 @@ Wilczewskich	Wilczewski	subst:pl:loc:m1	nazwisko
 Wilczewskiego	Wilczewski	subst:sg:acc:m1	nazwisko	
 Wilczewskiego	Wilczewski	subst:sg:gen:m1	nazwisko	
 Wilczewskiemu	Wilczewski	subst:sg:dat:m1	nazwisko	
+Wilczewskie	Wilczewski	depr:pl:acc:m2	nazwisko	
 Wilczewskie	Wilczewski	depr:pl:nom:m2	nazwisko	
 Wilczewskie	Wilczewski	depr:pl:voc:m2	nazwisko	
 Wilczewskimi	Wilczewski	subst:pl:inst:m1	nazwisko	
@@ -5328,6 +5496,7 @@ Wilderowi	Wilder	subst:sg:dat:m1	nazwisko
 Wilderów	Wilder	subst:pl:acc:m1	nazwisko	
 Wilderów	Wilder	subst:pl:gen:m1	nazwisko	
 Wilder	Wilder	subst:sg:nom:m1	nazwisko	
+Wildery	Wilder	depr:pl:acc:m2	nazwisko	
 Wildery	Wilder	depr:pl:nom:m2	nazwisko	
 Wildery	Wilder	depr:pl:voc:m2	nazwisko	
 Wilderze	Wilder	subst:sg:loc:m1	nazwisko	
@@ -5344,6 +5513,7 @@ Wilde’owi	Wilde:s1	subst:sg:dat:m1	nazwisko
 Wilde’ów	Wilde:s1	subst:pl:acc:m1	nazwisko	
 Wilde’ów	Wilde:s1	subst:pl:gen:m1	nazwisko	
 Wilde	Wilde:s1	subst:sg:nom:m1	nazwisko	
+Wilde’y	Wilde:s1	depr:pl:acc:m2	nazwisko	
 Wilde’y	Wilde:s1	depr:pl:nom:m2	nazwisko	
 Wilde’y	Wilde:s1	depr:pl:voc:m2	nazwisko	
 Wildzie	Wilde:s1	subst:sg:loc:m1	nazwisko	
@@ -5355,6 +5525,7 @@ Wildego	Wilde:s2	subst:sg:gen:m1	nazwisko
 Wildemu	Wilde:s2	subst:sg:dat:m1	nazwisko	
 Wildem	Wilde:s2	subst:sg:inst:m1	nazwisko	
 Wildem	Wilde:s2	subst:sg:loc:m1	nazwisko	
+Wilde	Wilde:s2	depr:pl:acc:m2	nazwisko	
 Wilde	Wilde:s2	depr:pl:nom:m2	nazwisko	
 Wilde	Wilde:s2	depr:pl:voc:m2	nazwisko	
 Wilde	Wilde:s2	subst:sg:nom:m1	nazwisko	
@@ -5384,6 +5555,7 @@ Wilkami	Wilek	subst:pl:inst:m1	imię
 Wilka	Wilek	subst:sg:acc:m1	imię	
 Wilka	Wilek	subst:sg:gen:m1	imię	
 Wilkiem	Wilek	subst:sg:inst:m1	imię	
+Wilki	Wilek	depr:pl:acc:m2	imię	
 Wilki	Wilek	depr:pl:nom:m2	imię	
 Wilki	Wilek	depr:pl:voc:m2	imię	
 Wilkom	Wilek	subst:pl:dat:m1	imię	
@@ -5434,6 +5606,7 @@ Wilfriedowi	Wilfried	subst:sg:dat:m1	imię
 Wilfriedów	Wilfried	subst:pl:acc:m1	imię	
 Wilfriedów	Wilfried	subst:pl:gen:m1	imię	
 Wilfried	Wilfried	subst:sg:nom:m1	imię	
+Wilfriedy	Wilfried	depr:pl:acc:m2	imię	
 Wilfriedy	Wilfried	depr:pl:nom:m2	imię	
 Wilfriedy	Wilfried	depr:pl:voc:m2	imię	
 Wilfriedzie	Wilfried	subst:sg:loc:m1	imię	
@@ -5466,6 +5639,7 @@ Wilhelmowi	Wilhelm	subst:sg:dat:m1	imię
 Wilhelmów	Wilhelm	subst:pl:acc:m1	imię	
 Wilhelmów	Wilhelm	subst:pl:gen:m1	imię	
 Wilhelm	Wilhelm	subst:sg:nom:m1	imię	
+Wilhelmy	Wilhelm	depr:pl:acc:m2	imię	
 Wilhelmy	Wilhelm	depr:pl:nom:m2	imię	
 Wilhelmy	Wilhelm	depr:pl:voc:m2	imię	
 Wilhelmich	Wilhelmi	subst:pl:acc:m1	nazwisko	
@@ -5474,6 +5648,7 @@ Wilhelmich	Wilhelmi	subst:pl:loc:m1	nazwisko
 Wilhelmiego	Wilhelmi	subst:sg:acc:m1	nazwisko	
 Wilhelmiego	Wilhelmi	subst:sg:gen:m1	nazwisko	
 Wilhelmiemu	Wilhelmi	subst:sg:dat:m1	nazwisko	
+Wilhelmie	Wilhelmi	depr:pl:acc:m2	nazwisko	
 Wilhelmie	Wilhelmi	depr:pl:nom:m2	nazwisko	
 Wilhelmie	Wilhelmi	depr:pl:voc:m2	nazwisko	
 Wilhelmimi	Wilhelmi	subst:pl:inst:m1	nazwisko	
@@ -5514,6 +5689,7 @@ Wiliamowi	Wiliam	subst:sg:dat:m1	imię
 Wiliamów	Wiliam	subst:pl:acc:m1	imię	
 Wiliamów	Wiliam	subst:pl:gen:m1	imię	
 Wiliam	Wiliam	subst:sg:nom:m1	imię	
+Wiliamy	Wiliam	depr:pl:acc:m2	imię	
 Wiliamy	Wiliam	depr:pl:nom:m2	imię	
 Wiliamy	Wiliam	depr:pl:voc:m2	imię	
 Wilibaldach	Wilibald	subst:pl:loc:m1	imię	
@@ -5528,6 +5704,7 @@ Wilibaldowi	Wilibald	subst:sg:dat:m1	imię
 Wilibaldów	Wilibald	subst:pl:acc:m1	imię	
 Wilibaldów	Wilibald	subst:pl:gen:m1	imię	
 Wilibald	Wilibald	subst:sg:nom:m1	imię	
+Wilibaldy	Wilibald	depr:pl:acc:m2	imię	
 Wilibaldy	Wilibald	depr:pl:nom:m2	imię	
 Wilibaldy	Wilibald	depr:pl:voc:m2	imię	
 Wilibaldzie	Wilibald	subst:sg:loc:m1	imię	
@@ -5554,6 +5731,7 @@ Wilińskich	Wiliński	subst:pl:loc:m1	nazwisko
 Wilińskiego	Wiliński	subst:sg:acc:m1	nazwisko	
 Wilińskiego	Wiliński	subst:sg:gen:m1	nazwisko	
 Wilińskiemu	Wiliński	subst:sg:dat:m1	nazwisko	
+Wilińskie	Wiliński	depr:pl:acc:m2	nazwisko	
 Wilińskie	Wiliński	depr:pl:nom:m2	nazwisko	
 Wilińskie	Wiliński	depr:pl:voc:m2	nazwisko	
 Wilińskimi	Wiliński	subst:pl:inst:m1	nazwisko	
@@ -5567,6 +5745,7 @@ Wilkami	Wilk	subst:pl:inst:m1	nazwisko
 Wilka	Wilk	subst:sg:acc:m1	nazwisko	
 Wilka	Wilk	subst:sg:gen:m1	nazwisko	
 Wilkiem	Wilk	subst:sg:inst:m1	nazwisko	
+Wilki	Wilk	depr:pl:acc:m2	nazwisko	
 Wilki	Wilk	depr:pl:nom:m2	nazwisko	
 Wilki	Wilk	depr:pl:voc:m2	nazwisko	
 Wilkom	Wilk	subst:pl:dat:m1	nazwisko	
@@ -5628,6 +5807,7 @@ Wilkołazkich	Wilkołazki	subst:pl:loc:m1	nazwisko
 Wilkołazkiego	Wilkołazki	subst:sg:acc:m1	nazwisko	
 Wilkołazkiego	Wilkołazki	subst:sg:gen:m1	nazwisko	
 Wilkołazkiemu	Wilkołazki	subst:sg:dat:m1	nazwisko	
+Wilkołazkie	Wilkołazki	depr:pl:acc:m2	nazwisko	
 Wilkołazkie	Wilkołazki	depr:pl:nom:m2	nazwisko	
 Wilkołazkie	Wilkołazki	depr:pl:voc:m2	nazwisko	
 Wilkołazkimi	Wilkołazki	subst:pl:inst:m1	nazwisko	
@@ -5679,6 +5859,7 @@ Williamowi	William	subst:sg:dat:m1	imię
 Williamów	William	subst:pl:acc:m1	imię	
 Williamów	William	subst:pl:gen:m1	imię	
 William	William	subst:sg:nom:m1	imię	
+Williamy	William	depr:pl:acc:m2	imię	
 Williamy	William	depr:pl:nom:m2	imię	
 Williamy	William	depr:pl:voc:m2	imię	
 Williamsach	Williams	subst:pl:loc:m1	nazwisko	
@@ -5695,6 +5876,7 @@ Williamsowi	Williams	subst:sg:dat:m1	nazwisko
 Williamsów	Williams	subst:pl:acc:m1	nazwisko	
 Williamsów	Williams	subst:pl:gen:m1	nazwisko	
 Williams	Williams	subst:sg:nom:m1	nazwisko	
+Williamsy	Williams	depr:pl:acc:m2	nazwisko	
 Williamsy	Williams	depr:pl:nom:m2	nazwisko	
 Williamsy	Williams	depr:pl:voc:m2	nazwisko	
 Willych	Willy	subst:pl:acc:m1	imię	
@@ -5703,6 +5885,7 @@ Willych	Willy	subst:pl:loc:m1	imię
 Willy’ego	Willy	subst:sg:acc:m1	imię	
 Willy’ego	Willy	subst:sg:gen:m1	imię	
 Willy’emu	Willy	subst:sg:dat:m1	imię	
+Willy’e	Willy	depr:pl:acc:m2	imię	
 Willy’e	Willy	depr:pl:nom:m2	imię	
 Willy’e	Willy	depr:pl:voc:m2	imię	
 Willymi	Willy	subst:pl:inst:m1	imię	
@@ -5727,6 +5910,7 @@ Willysowi	Willys	subst:sg:dat:m1	nazwisko
 Willysów	Willys	subst:pl:acc:m1	nazwisko	
 Willysów	Willys	subst:pl:gen:m1	nazwisko	
 Willys	Willys	subst:sg:nom:m1	nazwisko	
+Willysy	Willys	depr:pl:acc:m2	nazwisko	
 Willysy	Willys	depr:pl:nom:m2	nazwisko	
 Willysy	Willys	depr:pl:voc:m2	nazwisko	
 Wilnach	Wilno	subst:pl:loc:n:ncol	nazwa geograficzna	
@@ -5757,6 +5941,7 @@ Wilsonowi	Wilson	subst:sg:dat:m1	nazwisko
 Wilsonów	Wilson	subst:pl:acc:m1	nazwisko	
 Wilsonów	Wilson	subst:pl:gen:m1	nazwisko	
 Wilson	Wilson	subst:sg:nom:m1	nazwisko	
+Wilsony	Wilson	depr:pl:acc:m2	nazwisko	
 Wilsony	Wilson	depr:pl:nom:m2	nazwisko	
 Wilsony	Wilson	depr:pl:voc:m2	nazwisko	
 Wilusiach	Wiluś	subst:pl:loc:m1	imię	
@@ -5764,6 +5949,7 @@ Wilusiami	Wiluś	subst:pl:inst:m1	imię
 Wilusia	Wiluś	subst:sg:acc:m1	imię	
 Wilusia	Wiluś	subst:sg:gen:m1	imię	
 Wilusiem	Wiluś	subst:sg:inst:m1	imię	
+Wilusie	Wiluś	depr:pl:acc:m2	imię	
 Wilusie	Wiluś	depr:pl:nom:m2	imię	
 Wilusie	Wiluś	depr:pl:voc:m2	imię	
 Wilusie	Wiluś	subst:pl:nom:m1	imię	
@@ -5785,6 +5971,7 @@ Wiłkomirskich	Wiłkomirski	subst:pl:loc:m1	nazwisko
 Wiłkomirskiego	Wiłkomirski	subst:sg:acc:m1	nazwisko	
 Wiłkomirskiego	Wiłkomirski	subst:sg:gen:m1	nazwisko	
 Wiłkomirskiemu	Wiłkomirski	subst:sg:dat:m1	nazwisko	
+Wiłkomirskie	Wiłkomirski	depr:pl:acc:m2	nazwisko	
 Wiłkomirskie	Wiłkomirski	depr:pl:nom:m2	nazwisko	
 Wiłkomirskie	Wiłkomirski	depr:pl:voc:m2	nazwisko	
 Wiłkomirskimi	Wiłkomirski	subst:pl:inst:m1	nazwisko	
@@ -5827,6 +6014,7 @@ Winckami	Wincek	subst:pl:inst:m1	imię
 Wincka	Wincek	subst:sg:acc:m1	imię	
 Wincka	Wincek	subst:sg:gen:m1	imię	
 Winckiem	Wincek	subst:sg:inst:m1	imię	
+Wincki	Wincek	depr:pl:acc:m2	imię	
 Wincki	Wincek	depr:pl:nom:m2	imię	
 Wincki	Wincek	depr:pl:voc:m2	imię	
 Winckom	Wincek	subst:pl:dat:m1	imię	
@@ -5854,6 +6042,7 @@ Wincenty	Wincenta	subst:sg:gen:f	imię
 Wincentego	Wincenty	subst:sg:acc:m1	imię	
 Wincentego	Wincenty	subst:sg:gen:m1	imię	
 Wincentemu	Wincenty	subst:sg:dat:m1	imię	
+Wincente	Wincenty	depr:pl:acc:m2	imię	
 Wincente	Wincenty	depr:pl:nom:m2	imię	
 Wincente	Wincenty	depr:pl:voc:m2	imię	
 Wincentowie	Wincenty	subst:pl:nom:m1	imię	
@@ -5898,6 +6087,7 @@ Winfreyami	Winfrey	subst:pl:inst:m1	nazwisko
 Winfreya	Winfrey	subst:sg:acc:m1	nazwisko	
 Winfreya	Winfrey	subst:sg:gen:m1	nazwisko	
 Winfreyem	Winfrey	subst:sg:inst:m1	nazwisko	
+Winfreye	Winfrey	depr:pl:acc:m2	nazwisko	
 Winfreye	Winfrey	depr:pl:nom:m2	nazwisko	
 Winfreye	Winfrey	depr:pl:voc:m2	nazwisko	
 Winfreyom	Winfrey	subst:pl:dat:m1	nazwisko	
@@ -5921,6 +6111,7 @@ Winfriedowi	Winfried	subst:sg:dat:m1	imię
 Winfriedów	Winfried	subst:pl:acc:m1	imię	
 Winfriedów	Winfried	subst:pl:gen:m1	imię	
 Winfried	Winfried	subst:sg:nom:m1	imię	
+Winfriedy	Winfried	depr:pl:acc:m2	imię	
 Winfriedy	Winfried	depr:pl:nom:m2	imię	
 Winfriedy	Winfried	depr:pl:voc:m2	imię	
 Winfriedzie	Winfried	subst:sg:loc:m1	imię	
@@ -5933,6 +6124,7 @@ Winiarskich	Winiarski	subst:pl:loc:m1	nazwisko
 Winiarskiego	Winiarski	subst:sg:acc:m1	nazwisko	
 Winiarskiego	Winiarski	subst:sg:gen:m1	nazwisko	
 Winiarskiemu	Winiarski	subst:sg:dat:m1	nazwisko	
+Winiarskie	Winiarski	depr:pl:acc:m2	nazwisko	
 Winiarskie	Winiarski	depr:pl:nom:m2	nazwisko	
 Winiarskie	Winiarski	depr:pl:voc:m2	nazwisko	
 Winiarskimi	Winiarski	subst:pl:inst:m1	nazwisko	
@@ -5960,6 +6152,7 @@ Winicjuszami	Winicjusz	subst:pl:inst:m1	imię
 Winicjusza	Winicjusz	subst:sg:acc:m1	imię	
 Winicjusza	Winicjusz	subst:sg:gen:m1	imię	
 Winicjuszem	Winicjusz	subst:sg:inst:m1	imię	
+Winicjusze	Winicjusz	depr:pl:acc:m2	imię	
 Winicjusze	Winicjusz	depr:pl:nom:m2	imię	
 Winicjusze	Winicjusz	depr:pl:voc:m2	imię	
 Winicjusze	Winicjusz	subst:pl:nom:m1	imię	
@@ -5973,6 +6166,7 @@ Winicjuszów	Winicjusz	subst:pl:gen:m1	imię
 Winicjuszu	Winicjusz	subst:sg:loc:m1	imię	
 Winicjuszu	Winicjusz	subst:sg:voc:m1	imię	
 Winicjusz	Winicjusz	subst:sg:nom:m1	imię	
+Winnetou	Winnetou	depr:pl:acc:m2	imię	lit.
 Winnetou	Winnetou	depr:pl:nom:m2	imię	lit.
 Winnetou	Winnetou	depr:pl:voc:m2	imię	lit.
 Winnetou	Winnetou	subst:pl:acc:m1	imię	lit.
@@ -6025,6 +6219,7 @@ Winnickich	Winnicki	subst:pl:loc:m1	nazwisko
 Winnickiego	Winnicki	subst:sg:acc:m1	nazwisko	
 Winnickiego	Winnicki	subst:sg:gen:m1	nazwisko	
 Winnickiemu	Winnicki	subst:sg:dat:m1	nazwisko	
+Winnickie	Winnicki	depr:pl:acc:m2	nazwisko	
 Winnickie	Winnicki	depr:pl:nom:m2	nazwisko	
 Winnickie	Winnicki	depr:pl:voc:m2	nazwisko	
 Winnickimi	Winnicki	subst:pl:inst:m1	nazwisko	
@@ -6121,6 +6316,7 @@ Wirgiliuszami	Wirgiliusz	subst:pl:inst:m1	imię
 Wirgiliusza	Wirgiliusz	subst:sg:acc:m1	imię	
 Wirgiliusza	Wirgiliusz	subst:sg:gen:m1	imię	
 Wirgiliuszem	Wirgiliusz	subst:sg:inst:m1	imię	
+Wirgiliusze	Wirgiliusz	depr:pl:acc:m2	imię	
 Wirgiliusze	Wirgiliusz	depr:pl:nom:m2	imię	
 Wirgiliusze	Wirgiliusz	depr:pl:voc:m2	imię	
 Wirgiliusze	Wirgiliusz	subst:pl:nom:m1	imię	
@@ -6154,6 +6350,7 @@ Wirginiuszami	Wirginiusz	subst:pl:inst:m1	imię
 Wirginiusza	Wirginiusz	subst:sg:acc:m1	imię	
 Wirginiusza	Wirginiusz	subst:sg:gen:m1	imię	
 Wirginiuszem	Wirginiusz	subst:sg:inst:m1	imię	
+Wirginiusze	Wirginiusz	depr:pl:acc:m2	imię	
 Wirginiusze	Wirginiusz	depr:pl:nom:m2	imię	
 Wirginiusze	Wirginiusz	depr:pl:voc:m2	imię	
 Wirginiusze	Wirginiusz	subst:pl:nom:m1	imię	
@@ -6171,6 +6368,7 @@ Wirpszach	Wirpsza	subst:pl:loc:m1	nazwisko
 Wirpszami	Wirpsza	subst:pl:inst:m1	nazwisko	
 Wirpsza	Wirpsza	subst:sg:nom:m1	nazwisko	
 Wirpszą	Wirpsza	subst:sg:inst:m1	nazwisko	
+Wirpsze	Wirpsza	depr:pl:acc:m2	nazwisko	
 Wirpsze	Wirpsza	depr:pl:nom:m2	nazwisko	
 Wirpsze	Wirpsza	depr:pl:voc:m2	nazwisko	
 Wirpszę	Wirpsza	subst:sg:acc:m1	nazwisko	
@@ -6256,6 +6454,7 @@ Wisławowi	Wisław	subst:sg:dat:m1	imię
 Wisławów	Wisław	subst:pl:acc:m1	imię	
 Wisławów	Wisław	subst:pl:gen:m1	imię	
 Wisław	Wisław	subst:sg:nom:m1	imię	
+Wisławy	Wisław	depr:pl:acc:m2	imię	
 Wisławy	Wisław	depr:pl:nom:m2	imię	
 Wisławy	Wisław	depr:pl:voc:m2	imię	
 Wisławach	Wisława	subst:pl:loc:f	imię	
@@ -6305,6 +6504,7 @@ Wissarionowiczami	Wissarionowicz	subst:pl:inst:m1	patronimicum
 Wissarionowicza	Wissarionowicz	subst:sg:acc:m1	patronimicum	
 Wissarionowicza	Wissarionowicz	subst:sg:gen:m1	patronimicum	
 Wissarionowiczem	Wissarionowicz	subst:sg:inst:m1	patronimicum	
+Wissarionowicze	Wissarionowicz	depr:pl:acc:m2	patronimicum	
 Wissarionowicze	Wissarionowicz	depr:pl:nom:m2	patronimicum	
 Wissarionowicze	Wissarionowicz	depr:pl:voc:m2	patronimicum	
 Wissarionowicze	Wissarionowicz	subst:pl:nom:m1	patronimicum	
@@ -6369,6 +6569,7 @@ Wiszniewskich	Wiszniewski	subst:pl:loc:m1	nazwisko
 Wiszniewskiego	Wiszniewski	subst:sg:acc:m1	nazwisko	
 Wiszniewskiego	Wiszniewski	subst:sg:gen:m1	nazwisko	
 Wiszniewskiemu	Wiszniewski	subst:sg:dat:m1	nazwisko	
+Wiszniewskie	Wiszniewski	depr:pl:acc:m2	nazwisko	
 Wiszniewskie	Wiszniewski	depr:pl:nom:m2	nazwisko	
 Wiszniewskie	Wiszniewski	depr:pl:voc:m2	nazwisko	
 Wiszniewskimi	Wiszniewski	subst:pl:inst:m1	nazwisko	
@@ -6377,6 +6578,7 @@ Wiszniewskim	Wiszniewski	subst:sg:inst:m1	nazwisko
 Wiszniewskim	Wiszniewski	subst:sg:loc:m1	nazwisko	
 Wiszniewski	Wiszniewski	subst:sg:nom:m1	nazwisko	
 Wiszniewski	Wiszniewski	subst:sg:voc:m1	nazwisko	
+Wisznu	Wisznu	depr:pl:acc:m2	imię	rel.
 Wisznu	Wisznu	depr:pl:nom:m2	imię	rel.
 Wisznu	Wisznu	depr:pl:voc:m2	imię	rel.
 Wisznu	Wisznu	subst:pl:acc:m1	imię	rel.
@@ -6412,6 +6614,7 @@ Wiszowaci	Wiszowaty	subst:pl:voc:m1	nazwisko
 Wiszowatego	Wiszowaty	subst:sg:acc:m1	nazwisko	
 Wiszowatego	Wiszowaty	subst:sg:gen:m1	nazwisko	
 Wiszowatemu	Wiszowaty	subst:sg:dat:m1	nazwisko	
+Wiszowate	Wiszowaty	depr:pl:acc:m2	nazwisko	
 Wiszowate	Wiszowaty	depr:pl:nom:m2	nazwisko	
 Wiszowate	Wiszowaty	depr:pl:voc:m2	nazwisko	
 Wiszowatych	Wiszowaty	subst:pl:acc:m1	nazwisko	
@@ -6437,6 +6640,7 @@ Wiślanin	Wiślanin	subst:sg:nom:m1	nazwa pospolita
 Wiślanom	Wiślanin	subst:pl:dat:m1	nazwa pospolita	
 Wiślan	Wiślanin	subst:pl:acc:m1	nazwa pospolita	
 Wiślan	Wiślanin	subst:pl:gen:m1	nazwa pospolita	
+Wiślany	Wiślanin	depr:pl:acc:m2	nazwa pospolita	
 Wiślany	Wiślanin	depr:pl:nom:m2	nazwa pospolita	
 Wiślany	Wiślanin	depr:pl:voc:m2	nazwa pospolita	
 Wiślicach	Wiślica	subst:pl:loc:f	nazwa geograficzna	
@@ -6489,6 +6693,7 @@ Wiśniewskich	Wiśniewski	subst:pl:loc:m1	nazwisko
 Wiśniewskiego	Wiśniewski	subst:sg:acc:m1	nazwisko	
 Wiśniewskiego	Wiśniewski	subst:sg:gen:m1	nazwisko	
 Wiśniewskiemu	Wiśniewski	subst:sg:dat:m1	nazwisko	
+Wiśniewskie	Wiśniewski	depr:pl:acc:m2	nazwisko	
 Wiśniewskie	Wiśniewski	depr:pl:nom:m2	nazwisko	
 Wiśniewskie	Wiśniewski	depr:pl:voc:m2	nazwisko	
 Wiśniewskimi	Wiśniewski	subst:pl:inst:m1	nazwisko	
@@ -6505,6 +6710,7 @@ Wiśniowieckich	Wiśniowiecki	subst:pl:loc:m1	nazwisko
 Wiśniowieckiego	Wiśniowiecki	subst:sg:acc:m1	nazwisko	
 Wiśniowieckiego	Wiśniowiecki	subst:sg:gen:m1	nazwisko	
 Wiśniowieckiemu	Wiśniowiecki	subst:sg:dat:m1	nazwisko	
+Wiśniowieckie	Wiśniowiecki	depr:pl:acc:m2	nazwisko	
 Wiśniowieckie	Wiśniowiecki	depr:pl:nom:m2	nazwisko	
 Wiśniowieckie	Wiśniowiecki	depr:pl:voc:m2	nazwisko	
 Wiśniowieckimi	Wiśniowiecki	subst:pl:inst:m1	nazwisko	
@@ -6527,6 +6733,7 @@ Witowi	Wit	subst:sg:dat:m1	imię
 Witów	Wit	subst:pl:acc:m1	imię	
 Witów	Wit	subst:pl:gen:m1	imię	
 Wit	Wit	subst:sg:nom:m1	imię	
+Wity	Wit	depr:pl:acc:m2	imię	
 Wity	Wit	depr:pl:nom:m2	imię	
 Wity	Wit	depr:pl:voc:m2	imię	
 Wicie	Wita	subst:sg:dat:f	imię	
@@ -6559,6 +6766,7 @@ Witalisowi	Witalis	subst:sg:dat:m1	imię
 Witalisów	Witalis	subst:pl:acc:m1	imię	
 Witalisów	Witalis	subst:pl:gen:m1	imię	
 Witalis	Witalis	subst:sg:nom:m1	imię	
+Witalisy	Witalis	depr:pl:acc:m2	imię	
 Witalisy	Witalis	depr:pl:nom:m2	imię	
 Witalisy	Witalis	depr:pl:voc:m2	imię	
 Witczakach	Witczak	subst:pl:loc:m1	nazwisko	
@@ -6566,6 +6774,7 @@ Witczakami	Witczak	subst:pl:inst:m1	nazwisko
 Witczaka	Witczak	subst:sg:acc:m1	nazwisko	
 Witczaka	Witczak	subst:sg:gen:m1	nazwisko	
 Witczakiem	Witczak	subst:sg:inst:m1	nazwisko	
+Witczaki	Witczak	depr:pl:acc:m2	nazwisko	
 Witczaki	Witczak	depr:pl:nom:m2	nazwisko	
 Witczaki	Witczak	depr:pl:voc:m2	nazwisko	
 Witczakom	Witczak	subst:pl:dat:m1	nazwisko	
@@ -6597,6 +6806,7 @@ Witkami	Witek	subst:pl:inst:m1	imię
 Witka	Witek	subst:sg:acc:m1	imię	
 Witka	Witek	subst:sg:gen:m1	imię	
 Witkiem	Witek	subst:sg:inst:m1	imię	
+Witki	Witek	depr:pl:acc:m2	imię	
 Witki	Witek	depr:pl:nom:m2	imię	
 Witki	Witek	depr:pl:voc:m2	imię	
 Witkom	Witek	subst:pl:dat:m1	imię	
@@ -6612,6 +6822,7 @@ Witeliuszami	Witeliusz	subst:pl:inst:m1	imię
 Witeliusza	Witeliusz	subst:sg:acc:m1	imię	
 Witeliusza	Witeliusz	subst:sg:gen:m1	imię	
 Witeliuszem	Witeliusz	subst:sg:inst:m1	imię	
+Witeliusze	Witeliusz	depr:pl:acc:m2	imię	
 Witeliusze	Witeliusz	depr:pl:nom:m2	imię	
 Witeliusze	Witeliusz	depr:pl:voc:m2	imię	
 Witeliusze	Witeliusz	subst:pl:nom:m1	imię	
@@ -6628,6 +6839,7 @@ Witeliusz	Witeliusz	subst:sg:nom:m1	imię
 Witkacego	Witkacy	subst:sg:acc:m1	pseudonim	
 Witkacego	Witkacy	subst:sg:gen:m1	pseudonim	
 Witkacemu	Witkacy	subst:sg:dat:m1	pseudonim	
+Witkace	Witkacy	depr:pl:acc:m2	pseudonim	
 Witkace	Witkacy	depr:pl:nom:m2	pseudonim	
 Witkace	Witkacy	depr:pl:voc:m2	pseudonim	
 Witkacowie	Witkacy	subst:pl:nom:m1	pseudonim	
@@ -6646,6 +6858,7 @@ Witkiewiczami	Witkiewicz	subst:pl:inst:m1	nazwisko
 Witkiewicza	Witkiewicz	subst:sg:acc:m1	nazwisko	
 Witkiewicza	Witkiewicz	subst:sg:gen:m1	nazwisko	
 Witkiewiczem	Witkiewicz	subst:sg:inst:m1	nazwisko	
+Witkiewicze	Witkiewicz	depr:pl:acc:m2	nazwisko	
 Witkiewicze	Witkiewicz	depr:pl:nom:m2	nazwisko	
 Witkiewicze	Witkiewicz	depr:pl:voc:m2	nazwisko	
 Witkiewicze	Witkiewicz	subst:pl:nom:m1	nazwisko	
@@ -6697,6 +6910,7 @@ Witkowskich	Witkowski	subst:pl:loc:m1	nazwisko
 Witkowskiego	Witkowski	subst:sg:acc:m1	nazwisko	
 Witkowskiego	Witkowski	subst:sg:gen:m1	nazwisko	
 Witkowskiemu	Witkowski	subst:sg:dat:m1	nazwisko	
+Witkowskie	Witkowski	depr:pl:acc:m2	nazwisko	
 Witkowskie	Witkowski	depr:pl:nom:m2	nazwisko	
 Witkowskie	Witkowski	depr:pl:voc:m2	nazwisko	
 Witkowskimi	Witkowski	subst:pl:inst:m1	nazwisko	
@@ -6731,6 +6945,7 @@ Witoldowi	Witold	subst:sg:dat:m1	imię
 Witoldów	Witold	subst:pl:acc:m1	imię	
 Witoldów	Witold	subst:pl:gen:m1	imię	
 Witold	Witold	subst:sg:nom:m1	imię	
+Witoldy	Witold	depr:pl:acc:m2	imię	
 Witoldy	Witold	depr:pl:nom:m2	imię	
 Witoldy	Witold	depr:pl:voc:m2	imię	
 Witoldzie	Witold	subst:sg:loc:m1	imię	
@@ -6761,6 +6976,7 @@ Witołdowi	Witołd	subst:sg:dat:m1	imię
 Witołdów	Witołd	subst:pl:acc:m1	imię	
 Witołdów	Witołd	subst:pl:gen:m1	imię	
 Witołd	Witołd	subst:sg:nom:m1	imię	
+Witołdy	Witołd	depr:pl:acc:m2	imię	
 Witołdy	Witołd	depr:pl:nom:m2	imię	
 Witołdy	Witołd	depr:pl:voc:m2	imię	
 Witołdzie	Witołd	subst:sg:loc:m1	imię	
@@ -6791,6 +7007,7 @@ Witomirowi	Witomir	subst:sg:dat:m1	imię
 Witomirów	Witomir	subst:pl:acc:m1	imię	
 Witomirów	Witomir	subst:pl:gen:m1	imię	
 Witomir	Witomir	subst:sg:nom:m1	imię	
+Witomiry	Witomir	depr:pl:acc:m2	imię	
 Witomiry	Witomir	depr:pl:nom:m2	imię	
 Witomiry	Witomir	depr:pl:voc:m2	imię	
 Witomirze	Witomir	subst:sg:loc:m1	imię	
@@ -6809,6 +7026,7 @@ Witomysłowi	Witomysł	subst:sg:dat:m1	imię
 Witomysłów	Witomysł	subst:pl:acc:m1	imię	
 Witomysłów	Witomysł	subst:pl:gen:m1	imię	
 Witomysł	Witomysł	subst:sg:nom:m1	imię	
+Witomysły	Witomysł	depr:pl:acc:m2	imię	
 Witomysły	Witomysł	depr:pl:nom:m2	imię	
 Witomysły	Witomysł	depr:pl:voc:m2	imię	
 Witomyśle	Witomysł	subst:sg:loc:m1	imię	
@@ -6842,6 +7060,7 @@ Witosowi	Witos	subst:sg:dat:m1	nazwisko
 Witosów	Witos	subst:pl:acc:m1	nazwisko	
 Witosów	Witos	subst:pl:gen:m1	nazwisko	
 Witos	Witos	subst:sg:nom:m1	nazwisko	
+Witosy	Witos	depr:pl:acc:m2	nazwisko	
 Witosy	Witos	depr:pl:nom:m2	nazwisko	
 Witosy	Witos	depr:pl:voc:m2	nazwisko	
 Witosławach	Witosław	subst:pl:loc:m1	imię	
@@ -6860,6 +7079,7 @@ Witosławowi	Witosław	subst:sg:dat:m1	imię
 Witosławów	Witosław	subst:pl:acc:m1	imię	
 Witosławów	Witosław	subst:pl:gen:m1	imię	
 Witosław	Witosław	subst:sg:nom:m1	imię	
+Witosławy	Witosław	depr:pl:acc:m2	imię	
 Witosławy	Witosław	depr:pl:nom:m2	imię	
 Witosławy	Witosław	depr:pl:voc:m2	imię	
 Witosławach	Witosława	subst:pl:loc:f	imię	
@@ -6881,6 +7101,7 @@ Witoszami	Witosz	subst:pl:inst:m1	imię
 Witosza	Witosz	subst:sg:acc:m1	imię	
 Witosza	Witosz	subst:sg:gen:m1	imię	
 Witoszem	Witosz	subst:sg:inst:m1	imię	
+Witosze	Witosz	depr:pl:acc:m2	imię	
 Witosze	Witosz	depr:pl:nom:m2	imię	
 Witosze	Witosz	depr:pl:voc:m2	imię	
 Witosze	Witosz	subst:pl:nom:m1	imię	
@@ -6922,6 +7143,7 @@ Wittgensteinowi	Wittgenstein	subst:sg:dat:m1	nazwisko
 Wittgensteinów	Wittgenstein	subst:pl:acc:m1	nazwisko	
 Wittgensteinów	Wittgenstein	subst:pl:gen:m1	nazwisko	
 Wittgenstein	Wittgenstein	subst:sg:nom:m1	nazwisko	
+Wittgensteiny	Wittgenstein	depr:pl:acc:m2	nazwisko	
 Wittgensteiny	Wittgenstein	depr:pl:nom:m2	nazwisko	
 Wittgensteiny	Wittgenstein	depr:pl:voc:m2	nazwisko	
 Witusiach	Wituś	subst:pl:loc:m1	imię	
@@ -6929,6 +7151,7 @@ Witusiami	Wituś	subst:pl:inst:m1	imię
 Witusia	Wituś	subst:sg:acc:m1	imię	
 Witusia	Wituś	subst:sg:gen:m1	imię	
 Witusiem	Wituś	subst:sg:inst:m1	imię	
+Witusie	Wituś	depr:pl:acc:m2	imię	
 Witusie	Wituś	depr:pl:nom:m2	imię	
 Witusie	Wituś	depr:pl:voc:m2	imię	
 Witusie	Wituś	subst:pl:nom:m1	imię	
@@ -6964,6 +7187,7 @@ Witwickich	Witwicki	subst:pl:loc:m1	nazwisko
 Witwickiego	Witwicki	subst:sg:acc:m1	nazwisko	
 Witwickiego	Witwicki	subst:sg:gen:m1	nazwisko	
 Witwickiemu	Witwicki	subst:sg:dat:m1	nazwisko	
+Witwickie	Witwicki	depr:pl:acc:m2	nazwisko	
 Witwickie	Witwicki	depr:pl:nom:m2	nazwisko	
 Witwickie	Witwicki	depr:pl:voc:m2	nazwisko	
 Witwickimi	Witwicki	subst:pl:inst:m1	nazwisko	
@@ -6986,6 +7210,7 @@ Wizygotowi	Wizygot	subst:sg:dat:m1	nazwa pospolita
 Wizygotów	Wizygot	subst:pl:acc:m1	nazwa pospolita	
 Wizygotów	Wizygot	subst:pl:gen:m1	nazwa pospolita	
 Wizygot	Wizygot	subst:sg:nom:m1	nazwa pospolita	
+Wizygoty	Wizygot	depr:pl:acc:m2	nazwa pospolita	
 Wizygoty	Wizygot	depr:pl:nom:m2	nazwa pospolita	
 Wizygoty	Wizygot	depr:pl:voc:m2	nazwa pospolita	
 WKD	WKD	subst:pl:acc:n:ncol	nazwa firmy	
@@ -7083,6 +7308,7 @@ Wlazło	Wlazło	subst:sg:nom:m1	nazwisko
 Wlazło	Wlazło	subst:sg:voc:m1	nazwisko	
 Wlazłów	Wlazło	subst:pl:acc:m1	nazwisko	
 Wlazłów	Wlazło	subst:pl:gen:m1	nazwisko	
+Wlazły	Wlazło	depr:pl:acc:m2	nazwisko	
 Wlazły	Wlazło	depr:pl:nom:m2	nazwisko	
 Wlazły	Wlazło	depr:pl:voc:m2	nazwisko	
 Wlazły	Wlazło	subst:sg:gen:m1	nazwisko	
@@ -7091,6 +7317,7 @@ Wlaźle	Wlazło	subst:sg:loc:m1	nazwisko
 Wlazłego	Wlazły	subst:sg:acc:m1	nazwisko	
 Wlazłego	Wlazły	subst:sg:gen:m1	nazwisko	
 Wlazłemu	Wlazły	subst:sg:dat:m1	nazwisko	
+Wlazłe	Wlazły	depr:pl:acc:m2	nazwisko	
 Wlazłe	Wlazły	depr:pl:nom:m2	nazwisko	
 Wlazłe	Wlazły	depr:pl:voc:m2	nazwisko	
 Wlazłowie	Wlazły	subst:pl:nom:m1	nazwisko	
@@ -7125,6 +7352,7 @@ Wlekli	Wlekły	subst:pl:voc:m1	nazwisko
 Wlekłego	Wlekły	subst:sg:acc:m1	nazwisko	
 Wlekłego	Wlekły	subst:sg:gen:m1	nazwisko	
 Wlekłemu	Wlekły	subst:sg:dat:m1	nazwisko	
+Wlekłe	Wlekły	depr:pl:acc:m2	nazwisko	
 Wlekłe	Wlekły	depr:pl:nom:m2	nazwisko	
 Wlekłe	Wlekły	depr:pl:voc:m2	nazwisko	
 Wlekłych	Wlekły	subst:pl:acc:m1	nazwisko	
@@ -7148,6 +7376,7 @@ Władowi	Wład	subst:sg:dat:m1	imię
 Władów	Wład	subst:pl:acc:m1	imię	
 Władów	Wład	subst:pl:gen:m1	imię	
 Wład	Wład	subst:sg:nom:m1	imię	
+Włady	Wład	depr:pl:acc:m2	imię	
 Włady	Wład	depr:pl:nom:m2	imię	
 Włady	Wład	depr:pl:voc:m2	imię	
 Władzie	Wład	subst:sg:loc:m1	imię	
@@ -7172,6 +7401,7 @@ Władeczkami	Władeczek	subst:pl:inst:m1	imię
 Władeczka	Władeczek	subst:sg:acc:m1	imię	
 Władeczka	Władeczek	subst:sg:gen:m1	imię	
 Władeczkiem	Władeczek	subst:sg:inst:m1	imię	
+Władeczki	Władeczek	depr:pl:acc:m2	imię	
 Władeczki	Władeczek	depr:pl:nom:m2	imię	
 Władeczki	Władeczek	depr:pl:voc:m2	imię	
 Władeczkom	Władeczek	subst:pl:dat:m1	imię	
@@ -7188,6 +7418,7 @@ Władkami	Władek	subst:pl:inst:m1	imię
 Władka	Władek	subst:sg:acc:m1	imię	
 Władka	Władek	subst:sg:gen:m1	imię	
 Władkiem	Władek	subst:sg:inst:m1	imię	
+Władki	Władek	depr:pl:acc:m2	imię	
 Władki	Władek	depr:pl:nom:m2	imię	
 Władki	Władek	depr:pl:voc:m2	imię	
 Władkom	Władek	subst:pl:dat:m1	imię	
@@ -7210,6 +7441,7 @@ Władimirowi	Władimir	subst:sg:dat:m1	imię
 Władimirów	Władimir	subst:pl:acc:m1	imię	
 Władimirów	Władimir	subst:pl:gen:m1	imię	
 Władimir	Władimir	subst:sg:nom:m1	imię	
+Władimiry	Władimir	depr:pl:acc:m2	imię	
 Władimiry	Władimir	depr:pl:nom:m2	imię	
 Władimiry	Władimir	depr:pl:voc:m2	imię	
 Władimirze	Władimir	subst:sg:loc:m1	imię	
@@ -7242,6 +7474,7 @@ Władysławowi	Władysław	subst:sg:dat:m1	imię
 Władysławów	Władysław	subst:pl:acc:m1	imię	
 Władysławów	Władysław	subst:pl:gen:m1	imię	
 Władysław	Władysław	subst:sg:nom:m1	imię	
+Władysławy	Władysław	depr:pl:acc:m2	imię	
 Władysławy	Władysław	depr:pl:nom:m2	imię	
 Władysławy	Władysław	depr:pl:voc:m2	imię	
 Władysławach	Władysława	subst:pl:loc:f	imię	
@@ -7294,6 +7527,7 @@ Władysiami	Władyś	subst:pl:inst:m1	nazwisko
 Władysia	Władyś	subst:sg:acc:m1	nazwisko	
 Władysia	Władyś	subst:sg:gen:m1	nazwisko	
 Władysiem	Władyś	subst:sg:inst:m1	nazwisko	
+Władysie	Władyś	depr:pl:acc:m2	nazwisko	
 Władysie	Władyś	depr:pl:nom:m2	nazwisko	
 Władysie	Władyś	depr:pl:voc:m2	nazwisko	
 Władysie	Władyś	subst:pl:nom:m1	nazwisko	
@@ -7341,6 +7575,7 @@ Władziami	Władzio	subst:pl:inst:m1	imię
 Władzia	Władzio	subst:sg:acc:m1	imię	
 Władzia	Władzio	subst:sg:gen:m1	imię	
 Władziem	Władzio	subst:sg:inst:m1	imię	
+Władzie	Władzio	depr:pl:acc:m2	imię	
 Władzie	Władzio	depr:pl:nom:m2	imię	
 Władzie	Władzio	depr:pl:voc:m2	imię	
 Władziom	Władzio	subst:pl:dat:m1	imię	
@@ -7364,6 +7599,7 @@ Włochów	Włoch	subst:pl:gen:m1	nazwa pospolita
 Włochu	Włoch	subst:sg:loc:m1	nazwa pospolita	
 Włochu	Włoch	subst:sg:voc:m1	nazwa pospolita	
 Włoch	Włoch	subst:sg:nom:m1	nazwa pospolita	
+Włochy	Włoch	depr:pl:acc:m2	nazwa pospolita	
 Włochy	Włoch	depr:pl:nom:m2	nazwa pospolita	
 Włochy	Włoch	depr:pl:voc:m2	nazwa pospolita	
 Włosi	Włoch	subst:pl:nom:m1	nazwa pospolita	
@@ -7429,6 +7665,7 @@ Włodarczykami	Włodarczyk	subst:pl:inst:m1	nazwisko
 Włodarczyka	Włodarczyk	subst:sg:acc:m1	nazwisko	
 Włodarczyka	Włodarczyk	subst:sg:gen:m1	nazwisko	
 Włodarczykiem	Włodarczyk	subst:sg:inst:m1	nazwisko	
+Włodarczyki	Włodarczyk	depr:pl:acc:m2	nazwisko	
 Włodarczyki	Włodarczyk	depr:pl:nom:m2	nazwisko	
 Włodarczyki	Włodarczyk	depr:pl:voc:m2	nazwisko	
 Włodarczykom	Włodarczyk	subst:pl:dat:m1	nazwisko	
@@ -7462,6 +7699,7 @@ Włodarskich	Włodarski	subst:pl:loc:m1	nazwisko
 Włodarskiego	Włodarski	subst:sg:acc:m1	nazwisko	
 Włodarskiego	Włodarski	subst:sg:gen:m1	nazwisko	
 Włodarskiemu	Włodarski	subst:sg:dat:m1	nazwisko	
+Włodarskie	Włodarski	depr:pl:acc:m2	nazwisko	
 Włodarskie	Włodarski	depr:pl:nom:m2	nazwisko	
 Włodarskie	Włodarski	depr:pl:voc:m2	nazwisko	
 Włodarskimi	Włodarski	subst:pl:inst:m1	nazwisko	
@@ -7476,6 +7714,7 @@ Włodeczkami	Włodeczek	subst:pl:inst:m1	imię
 Włodeczka	Włodeczek	subst:sg:acc:m1	imię	
 Włodeczka	Włodeczek	subst:sg:gen:m1	imię	
 Włodeczkiem	Włodeczek	subst:sg:inst:m1	imię	
+Włodeczki	Włodeczek	depr:pl:acc:m2	imię	
 Włodeczki	Włodeczek	depr:pl:nom:m2	imię	
 Włodeczki	Włodeczek	depr:pl:voc:m2	imię	
 Włodeczkom	Włodeczek	subst:pl:dat:m1	imię	
@@ -7492,6 +7731,7 @@ Włodkami	Włodek	subst:pl:inst:m1	imię|nazwisko
 Włodka	Włodek	subst:sg:acc:m1	imię|nazwisko	
 Włodka	Włodek	subst:sg:gen:m1	imię|nazwisko	
 Włodkiem	Włodek	subst:sg:inst:m1	imię|nazwisko	
+Włodki	Włodek	depr:pl:acc:m2	imię|nazwisko	
 Włodki	Włodek	depr:pl:nom:m2	imię|nazwisko	
 Włodki	Włodek	depr:pl:voc:m2	imię|nazwisko	
 Włodkom	Włodek	subst:pl:dat:m1	imię|nazwisko	
@@ -7507,6 +7747,7 @@ Włodkowicami	Włodkowic	subst:pl:inst:m1	nazwisko
 Włodkowica	Włodkowic	subst:sg:acc:m1	nazwisko	
 Włodkowica	Włodkowic	subst:sg:gen:m1	nazwisko	
 Włodkowicem	Włodkowic	subst:sg:inst:m1	nazwisko	
+Włodkowice	Włodkowic	depr:pl:acc:m2	nazwisko	
 Włodkowice	Włodkowic	depr:pl:nom:m2	nazwisko	
 Włodkowice	Włodkowic	depr:pl:voc:m2	nazwisko	
 Włodkowice	Włodkowic	subst:pl:nom:m1	nazwisko	
@@ -7542,6 +7783,7 @@ Włodkowskich	Włodkowski	subst:pl:loc:m1	nazwisko
 Włodkowskiego	Włodkowski	subst:sg:acc:m1	nazwisko	
 Włodkowskiego	Włodkowski	subst:sg:gen:m1	nazwisko	
 Włodkowskiemu	Włodkowski	subst:sg:dat:m1	nazwisko	
+Włodkowskie	Włodkowski	depr:pl:acc:m2	nazwisko	
 Włodkowskie	Włodkowski	depr:pl:nom:m2	nazwisko	
 Włodkowskie	Włodkowski	depr:pl:voc:m2	nazwisko	
 Włodkowskimi	Włodkowski	subst:pl:inst:m1	nazwisko	
@@ -7569,6 +7811,7 @@ Włodzimierzami	Włodzimierz:s1	subst:pl:inst:m1	imię
 Włodzimierza	Włodzimierz:s1	subst:sg:acc:m1	imię	
 Włodzimierza	Włodzimierz:s1	subst:sg:gen:m1	imię	
 Włodzimierzem	Włodzimierz:s1	subst:sg:inst:m1	imię	
+Włodzimierze	Włodzimierz:s1	depr:pl:acc:m2	imię	
 Włodzimierze	Włodzimierz:s1	depr:pl:nom:m2	imię	
 Włodzimierze	Włodzimierz:s1	depr:pl:voc:m2	imię	
 Włodzimierze	Włodzimierz:s1	subst:pl:nom:m1	imię	
@@ -7602,6 +7845,7 @@ Włodziami	Włodzio	subst:pl:inst:m1	imię
 Włodzia	Włodzio	subst:sg:acc:m1	imię	
 Włodzia	Włodzio	subst:sg:gen:m1	imię	
 Włodziem	Włodzio	subst:sg:inst:m1	imię	
+Włodzie	Włodzio	depr:pl:acc:m2	imię	
 Włodzie	Włodzio	depr:pl:nom:m2	imię	
 Włodzie	Włodzio	depr:pl:voc:m2	imię	
 Włodziom	Włodzio	subst:pl:dat:m1	imię	
@@ -7629,6 +7873,7 @@ Włodzisławowi	Włodzisław	subst:sg:dat:m1	imię
 Włodzisławów	Włodzisław	subst:pl:acc:m1	imię	
 Włodzisławów	Włodzisław	subst:pl:gen:m1	imię	
 Włodzisław	Włodzisław	subst:sg:nom:m1	imię	
+Włodzisławy	Włodzisław	depr:pl:acc:m2	imię	
 Włodzisławy	Włodzisław	depr:pl:nom:m2	imię	
 Włodzisławy	Włodzisław	depr:pl:voc:m2	imię	
 Włodzisławach	Włodzisława	subst:pl:loc:f	imię	
@@ -7650,6 +7895,7 @@ Włodziwojami	Włodziwoj	subst:pl:inst:m1	imię
 Włodziwoja	Włodziwoj	subst:sg:acc:m1	imię	
 Włodziwoja	Włodziwoj	subst:sg:gen:m1	imię	
 Włodziwojem	Włodziwoj	subst:sg:inst:m1	imię	
+Włodziwoje	Włodziwoj	depr:pl:acc:m2	imię	
 Włodziwoje	Włodziwoj	depr:pl:nom:m2	imię	
 Włodziwoje	Włodziwoj	depr:pl:voc:m2	imię	
 Włodziwoje	Włodziwoj	subst:pl:nom:m1	imię	
@@ -7709,6 +7955,7 @@ Włoszyskach	Włoszysko	subst:pl:loc:m1	nazwa pospolita	rzad.
 Włoszyskach	Włoszysko	subst:pl:loc:n:ncol	nazwa pospolita	
 Włoszyskami	Włoszysko	subst:pl:inst:m1	nazwa pospolita	rzad.
 Włoszyskami	Włoszysko	subst:pl:inst:n:ncol	nazwa pospolita	
+Włoszyska	Włoszysko	depr:pl:acc:m2	nazwa pospolita	rzad.
 Włoszyska	Włoszysko	depr:pl:nom:m2	nazwa pospolita	rzad.
 Włoszyska	Włoszysko	depr:pl:voc:m2	nazwa pospolita	rzad.
 Włoszyska	Włoszysko	subst:pl:acc:n:ncol	nazwa pospolita	
@@ -7747,6 +7994,7 @@ Włościborowi	Włościbor	subst:sg:dat:m1	imię
 Włościborów	Włościbor	subst:pl:acc:m1	imię	
 Włościborów	Włościbor	subst:pl:gen:m1	imię	
 Włościbor	Włościbor	subst:sg:nom:m1	imię	
+Włościbory	Włościbor	depr:pl:acc:m2	imię	
 Włościbory	Włościbor	depr:pl:nom:m2	imię	
 Włościbory	Włościbor	depr:pl:voc:m2	imię	
 Włościborze	Włościbor	subst:sg:loc:m1	imię	
@@ -7769,6 +8017,7 @@ Włościsławowi	Włościsław	subst:sg:dat:m1	imię
 Włościsławów	Włościsław	subst:pl:acc:m1	imię	
 Włościsławów	Włościsław	subst:pl:gen:m1	imię	
 Włościsław	Włościsław	subst:sg:nom:m1	imię	
+Włościsławy	Włościsław	depr:pl:acc:m2	imię	
 Włościsławy	Włościsław	depr:pl:nom:m2	imię	
 Włościsławy	Włościsław	depr:pl:voc:m2	imię	
 Włościsławach	Włościsława	subst:pl:loc:f	imię	
@@ -7848,6 +8097,7 @@ Wodnikami	Wodnik:s1	subst:pl:inst:m1	nazwa pospolita
 Wodnika	Wodnik:s1	subst:sg:acc:m1	nazwa pospolita	
 Wodnika	Wodnik:s1	subst:sg:gen:m1	nazwa pospolita	
 Wodnikiem	Wodnik:s1	subst:sg:inst:m1	nazwa pospolita	
+Wodniki	Wodnik:s1	depr:pl:acc:m2	nazwa pospolita	
 Wodniki	Wodnik:s1	depr:pl:nom:m2	nazwa pospolita	
 Wodniki	Wodnik:s1	depr:pl:voc:m2	nazwa pospolita	
 Wodnikom	Wodnik:s1	subst:pl:dat:m1	nazwa pospolita	
@@ -7895,6 +8145,7 @@ Wodzińskich	Wodziński	subst:pl:loc:m1	nazwisko
 Wodzińskiego	Wodziński	subst:sg:acc:m1	nazwisko	
 Wodzińskiego	Wodziński	subst:sg:gen:m1	nazwisko	
 Wodzińskiemu	Wodziński	subst:sg:dat:m1	nazwisko	
+Wodzińskie	Wodziński	depr:pl:acc:m2	nazwisko	
 Wodzińskie	Wodziński	depr:pl:nom:m2	nazwisko	
 Wodzińskie	Wodziński	depr:pl:voc:m2	nazwisko	
 Wodzińskimi	Wodziński	subst:pl:inst:m1	nazwisko	
@@ -7917,6 +8168,7 @@ Wodzisławowi	Wodzisław:s1	subst:sg:dat:m1	imię
 Wodzisławów	Wodzisław:s1	subst:pl:acc:m1	imię	
 Wodzisławów	Wodzisław:s1	subst:pl:gen:m1	imię	
 Wodzisław	Wodzisław:s1	subst:sg:nom:m1	imię	
+Wodzisławy	Wodzisław:s1	depr:pl:acc:m2	imię	
 Wodzisławy	Wodzisław:s1	depr:pl:nom:m2	imię	
 Wodzisławy	Wodzisław:s1	depr:pl:voc:m2	imię	
 Wodzisławiach	Wodzisław:s2	subst:pl:loc:m3	nazwa geograficzna	
@@ -7956,6 +8208,7 @@ Wodzyńskich	Wodzyński	subst:pl:loc:m1	nazwisko
 Wodzyńskiego	Wodzyński	subst:sg:acc:m1	nazwisko	
 Wodzyńskiego	Wodzyński	subst:sg:gen:m1	nazwisko	
 Wodzyńskiemu	Wodzyński	subst:sg:dat:m1	nazwisko	
+Wodzyńskie	Wodzyński	depr:pl:acc:m2	nazwisko	
 Wodzyńskie	Wodzyński	depr:pl:nom:m2	nazwisko	
 Wodzyńskie	Wodzyński	depr:pl:voc:m2	nazwisko	
 Wodzyńskimi	Wodzyński	subst:pl:inst:m1	nazwisko	
@@ -7970,6 +8223,7 @@ Wojaczkami	Wojaczek	subst:pl:inst:m1	nazwisko
 Wojaczka	Wojaczek	subst:sg:acc:m1	nazwisko	
 Wojaczka	Wojaczek	subst:sg:gen:m1	nazwisko	
 Wojaczkiem	Wojaczek	subst:sg:inst:m1	nazwisko	
+Wojaczki	Wojaczek	depr:pl:acc:m2	nazwisko	
 Wojaczki	Wojaczek	depr:pl:nom:m2	nazwisko	
 Wojaczki	Wojaczek	depr:pl:voc:m2	nazwisko	
 Wojaczkom	Wojaczek	subst:pl:dat:m1	nazwisko	
@@ -7992,6 +8246,7 @@ Wojborowi	Wojbor	subst:sg:dat:m1	imię
 Wojborów	Wojbor	subst:pl:acc:m1	imię	
 Wojborów	Wojbor	subst:pl:gen:m1	imię	
 Wojbor	Wojbor	subst:sg:nom:m1	imię	
+Wojbory	Wojbor	depr:pl:acc:m2	imię	
 Wojbory	Wojbor	depr:pl:nom:m2	imię	
 Wojbory	Wojbor	depr:pl:voc:m2	imię	
 Wojborze	Wojbor	subst:sg:loc:m1	imię	
@@ -8012,6 +8267,7 @@ Wojciechów	Wojciech	subst:pl:gen:m1	imię
 Wojciechu	Wojciech	subst:sg:loc:m1	imię	
 Wojciechu	Wojciech	subst:sg:voc:m1	imię	
 Wojciech	Wojciech	subst:sg:nom:m1	imię	
+Wojciechy	Wojciech	depr:pl:acc:m2	imię	
 Wojciechy	Wojciech	depr:pl:nom:m2	imię	
 Wojciechy	Wojciech	depr:pl:voc:m2	imię	
 Wojciechach	Wojciecha	subst:pl:loc:f	imię	
@@ -8064,6 +8320,7 @@ Wojciechowskich	Wojciechowski	subst:pl:loc:m1	nazwisko
 Wojciechowskiego	Wojciechowski	subst:sg:acc:m1	nazwisko	
 Wojciechowskiego	Wojciechowski	subst:sg:gen:m1	nazwisko	
 Wojciechowskiemu	Wojciechowski	subst:sg:dat:m1	nazwisko	
+Wojciechowskie	Wojciechowski	depr:pl:acc:m2	nazwisko	
 Wojciechowskie	Wojciechowski	depr:pl:nom:m2	nazwisko	
 Wojciechowskie	Wojciechowski	depr:pl:voc:m2	nazwisko	
 Wojciechowskimi	Wojciechowski	subst:pl:inst:m1	nazwisko	
@@ -8139,6 +8396,7 @@ Wojdalskich	Wojdalski	subst:pl:loc:m1	nazwisko
 Wojdalskiego	Wojdalski	subst:sg:acc:m1	nazwisko	
 Wojdalskiego	Wojdalski	subst:sg:gen:m1	nazwisko	
 Wojdalskiemu	Wojdalski	subst:sg:dat:m1	nazwisko	
+Wojdalskie	Wojdalski	depr:pl:acc:m2	nazwisko	
 Wojdalskie	Wojdalski	depr:pl:nom:m2	nazwisko	
 Wojdalskie	Wojdalski	depr:pl:voc:m2	nazwisko	
 Wojdalskimi	Wojdalski	subst:pl:inst:m1	nazwisko	
@@ -8172,6 +8430,7 @@ Wojdowie	Wojda:s2	subst:pl:voc:m1	nazwisko
 Wojdo	Wojda:s2	subst:sg:voc:m1	nazwisko	
 Wojdów	Wojda:s2	subst:pl:acc:m1	nazwisko	
 Wojdów	Wojda:s2	subst:pl:gen:m1	nazwisko	
+Wojdy	Wojda:s2	depr:pl:acc:m2	nazwisko	
 Wojdy	Wojda:s2	depr:pl:nom:m2	nazwisko	
 Wojdy	Wojda:s2	depr:pl:voc:m2	nazwisko	
 Wojdy	Wojda:s2	subst:sg:gen:m1	nazwisko	
@@ -8189,6 +8448,7 @@ Wojmirowi	Wojmir	subst:sg:dat:m1	imię
 Wojmirów	Wojmir	subst:pl:acc:m1	imię	
 Wojmirów	Wojmir	subst:pl:gen:m1	imię	
 Wojmir	Wojmir	subst:sg:nom:m1	imię	
+Wojmiry	Wojmir	depr:pl:acc:m2	imię	
 Wojmiry	Wojmir	depr:pl:nom:m2	imię	
 Wojmiry	Wojmir	depr:pl:voc:m2	imię	
 Wojmirze	Wojmir	subst:sg:loc:m1	imię	
@@ -8217,6 +8477,7 @@ Wojnarowskich	Wojnarowski	subst:pl:loc:m1	nazwisko
 Wojnarowskiego	Wojnarowski	subst:sg:acc:m1	nazwisko	
 Wojnarowskiego	Wojnarowski	subst:sg:gen:m1	nazwisko	
 Wojnarowskiemu	Wojnarowski	subst:sg:dat:m1	nazwisko	
+Wojnarowskie	Wojnarowski	depr:pl:acc:m2	nazwisko	
 Wojnarowskie	Wojnarowski	depr:pl:nom:m2	nazwisko	
 Wojnarowskie	Wojnarowski	depr:pl:voc:m2	nazwisko	
 Wojnarowskimi	Wojnarowski	subst:pl:inst:m1	nazwisko	
@@ -8247,6 +8508,7 @@ Wojnowskich	Wojnowski	subst:pl:loc:m1	nazwisko
 Wojnowskiego	Wojnowski	subst:sg:acc:m1	nazwisko	
 Wojnowskiego	Wojnowski	subst:sg:gen:m1	nazwisko	
 Wojnowskiemu	Wojnowski	subst:sg:dat:m1	nazwisko	
+Wojnowskie	Wojnowski	depr:pl:acc:m2	nazwisko	
 Wojnowskie	Wojnowski	depr:pl:nom:m2	nazwisko	
 Wojnowskie	Wojnowski	depr:pl:voc:m2	nazwisko	
 Wojnowskimi	Wojnowski	subst:pl:inst:m1	nazwisko	
@@ -8267,6 +8529,7 @@ Wojomirowi	Wojomir	subst:sg:dat:m1	imię
 Wojomirów	Wojomir	subst:pl:acc:m1	imię	
 Wojomirów	Wojomir	subst:pl:gen:m1	imię	
 Wojomir	Wojomir	subst:sg:nom:m1	imię	
+Wojomiry	Wojomir	depr:pl:acc:m2	imię	
 Wojomiry	Wojomir	depr:pl:nom:m2	imię	
 Wojomiry	Wojomir	depr:pl:voc:m2	imię	
 Wojomirze	Wojomir	subst:sg:loc:m1	imię	
@@ -8289,6 +8552,7 @@ Wojsławowi	Wojsław	subst:sg:dat:m1	imię
 Wojsławów	Wojsław	subst:pl:acc:m1	imię	
 Wojsławów	Wojsław	subst:pl:gen:m1	imię	
 Wojsław	Wojsław	subst:sg:nom:m1	imię	
+Wojsławy	Wojsław	depr:pl:acc:m2	imię	
 Wojsławy	Wojsław	depr:pl:nom:m2	imię	
 Wojsławy	Wojsław	depr:pl:voc:m2	imię	
 Wojsławach	Wojsława	subst:pl:loc:f	imię	
@@ -8341,6 +8605,7 @@ Wojtasińskich	Wojtasiński	subst:pl:loc:m1	nazwisko
 Wojtasińskiego	Wojtasiński	subst:sg:acc:m1	nazwisko	
 Wojtasińskiego	Wojtasiński	subst:sg:gen:m1	nazwisko	
 Wojtasińskiemu	Wojtasiński	subst:sg:dat:m1	nazwisko	
+Wojtasińskie	Wojtasiński	depr:pl:acc:m2	nazwisko	
 Wojtasińskie	Wojtasiński	depr:pl:nom:m2	nazwisko	
 Wojtasińskie	Wojtasiński	depr:pl:voc:m2	nazwisko	
 Wojtasińskimi	Wojtasiński	subst:pl:inst:m1	nazwisko	
@@ -8354,6 +8619,7 @@ Wojtczakami	Wojtczak	subst:pl:inst:m1	nazwisko
 Wojtczaka	Wojtczak	subst:sg:acc:m1	nazwisko	
 Wojtczaka	Wojtczak	subst:sg:gen:m1	nazwisko	
 Wojtczakiem	Wojtczak	subst:sg:inst:m1	nazwisko	
+Wojtczaki	Wojtczak	depr:pl:acc:m2	nazwisko	
 Wojtczaki	Wojtczak	depr:pl:nom:m2	nazwisko	
 Wojtczaki	Wojtczak	depr:pl:voc:m2	nazwisko	
 Wojtczakom	Wojtczak	subst:pl:dat:m1	nazwisko	
@@ -8371,6 +8637,7 @@ Wojteczkami	Wojteczek	subst:pl:inst:m1	imię
 Wojteczka	Wojteczek	subst:sg:acc:m1	imię	
 Wojteczka	Wojteczek	subst:sg:gen:m1	imię	
 Wojteczkiem	Wojteczek	subst:sg:inst:m1	imię	
+Wojteczki	Wojteczek	depr:pl:acc:m2	imię	
 Wojteczki	Wojteczek	depr:pl:nom:m2	imię	
 Wojteczki	Wojteczek	depr:pl:voc:m2	imię	
 Wojteczkom	Wojteczek	subst:pl:dat:m1	imię	
@@ -8387,6 +8654,7 @@ Wojtkami	Wojtek	subst:pl:inst:m1	imię
 Wojtka	Wojtek	subst:sg:acc:m1	imię	
 Wojtka	Wojtek	subst:sg:gen:m1	imię	
 Wojtkiem	Wojtek	subst:sg:inst:m1	imię	
+Wojtki	Wojtek	depr:pl:acc:m2	imię	
 Wojtki	Wojtek	depr:pl:nom:m2	imię	
 Wojtki	Wojtek	depr:pl:voc:m2	imię	
 Wojtkom	Wojtek	subst:pl:dat:m1	imię	
@@ -8402,6 +8670,7 @@ Wojtkowiakami	Wojtkowiak	subst:pl:inst:m1	nazwisko
 Wojtkowiaka	Wojtkowiak	subst:sg:acc:m1	nazwisko	
 Wojtkowiaka	Wojtkowiak	subst:sg:gen:m1	nazwisko	
 Wojtkowiakiem	Wojtkowiak	subst:sg:inst:m1	nazwisko	
+Wojtkowiaki	Wojtkowiak	depr:pl:acc:m2	nazwisko	
 Wojtkowiaki	Wojtkowiak	depr:pl:nom:m2	nazwisko	
 Wojtkowiaki	Wojtkowiak	depr:pl:voc:m2	nazwisko	
 Wojtkowiakom	Wojtkowiak	subst:pl:dat:m1	nazwisko	
@@ -8435,6 +8704,7 @@ Wojtkowskich	Wojtkowski	subst:pl:loc:m1	nazwisko
 Wojtkowskiego	Wojtkowski	subst:sg:acc:m1	nazwisko	
 Wojtkowskiego	Wojtkowski	subst:sg:gen:m1	nazwisko	
 Wojtkowskiemu	Wojtkowski	subst:sg:dat:m1	nazwisko	
+Wojtkowskie	Wojtkowski	depr:pl:acc:m2	nazwisko	
 Wojtkowskie	Wojtkowski	depr:pl:nom:m2	nazwisko	
 Wojtkowskie	Wojtkowski	depr:pl:voc:m2	nazwisko	
 Wojtkowskimi	Wojtkowski	subst:pl:inst:m1	nazwisko	
@@ -8448,6 +8718,7 @@ Wojtowiczami	Wojtowicz	subst:pl:inst:m1	nazwisko
 Wojtowicza	Wojtowicz	subst:sg:acc:m1	nazwisko	
 Wojtowicza	Wojtowicz	subst:sg:gen:m1	nazwisko	
 Wojtowiczem	Wojtowicz	subst:sg:inst:m1	nazwisko	
+Wojtowicze	Wojtowicz	depr:pl:acc:m2	nazwisko	
 Wojtowicze	Wojtowicz	depr:pl:nom:m2	nazwisko	
 Wojtowicze	Wojtowicz	depr:pl:voc:m2	nazwisko	
 Wojtowicze	Wojtowicz	subst:pl:nom:m1	nazwisko	
@@ -8466,6 +8737,7 @@ Wojtulami	Wojtul	subst:pl:inst:m1	imię
 Wojtula	Wojtul	subst:sg:acc:m1	imię	
 Wojtula	Wojtul	subst:sg:gen:m1	imię	
 Wojtulem	Wojtul	subst:sg:inst:m1	imię	
+Wojtule	Wojtul	depr:pl:acc:m2	imię	
 Wojtule	Wojtul	depr:pl:nom:m2	imię	
 Wojtule	Wojtul	depr:pl:voc:m2	imię	
 Wojtule	Wojtul	subst:pl:nom:m1	imię	
@@ -8484,6 +8756,7 @@ Wojtuniami	Wojtunio	subst:pl:inst:m1	imię
 Wojtunia	Wojtunio	subst:sg:acc:m1	imię	
 Wojtunia	Wojtunio	subst:sg:gen:m1	imię	
 Wojtuniem	Wojtunio	subst:sg:inst:m1	imię	
+Wojtunie	Wojtunio	depr:pl:acc:m2	imię	
 Wojtunie	Wojtunio	depr:pl:nom:m2	imię	
 Wojtunie	Wojtunio	depr:pl:voc:m2	imię	
 Wojtuniom	Wojtunio	subst:pl:dat:m1	imię	
@@ -8500,6 +8773,7 @@ Wojtusiami	Wojtuś	subst:pl:inst:m1	imię
 Wojtusia	Wojtuś	subst:sg:acc:m1	imię	
 Wojtusia	Wojtuś	subst:sg:gen:m1	imię	
 Wojtusiem	Wojtuś	subst:sg:inst:m1	imię	
+Wojtusie	Wojtuś	depr:pl:acc:m2	imię	
 Wojtusie	Wojtuś	depr:pl:nom:m2	imię	
 Wojtusie	Wojtuś	depr:pl:voc:m2	imię	
 Wojtusie	Wojtuś	subst:pl:nom:m1	imię	
@@ -8526,6 +8800,7 @@ Wojtyłowie	Wojtyła	subst:pl:voc:m1	nazwisko
 Wojtyło	Wojtyła	subst:sg:voc:m1	nazwisko	
 Wojtyłów	Wojtyła	subst:pl:acc:m1	nazwisko	
 Wojtyłów	Wojtyła	subst:pl:gen:m1	nazwisko	
+Wojtyły	Wojtyła	depr:pl:acc:m2	nazwisko	
 Wojtyły	Wojtyła	depr:pl:nom:m2	nazwisko	
 Wojtyły	Wojtyła	depr:pl:voc:m2	nazwisko	
 Wojtyły	Wojtyła	subst:sg:gen:m1	nazwisko	
@@ -8551,6 +8826,7 @@ Wokulskich	Wokulski	subst:pl:loc:m1	nazwisko
 Wokulskiego	Wokulski	subst:sg:acc:m1	nazwisko	
 Wokulskiego	Wokulski	subst:sg:gen:m1	nazwisko	
 Wokulskiemu	Wokulski	subst:sg:dat:m1	nazwisko	
+Wokulskie	Wokulski	depr:pl:acc:m2	nazwisko	
 Wokulskie	Wokulski	depr:pl:nom:m2	nazwisko	
 Wokulskie	Wokulski	depr:pl:voc:m2	nazwisko	
 Wokulskimi	Wokulski	subst:pl:inst:m1	nazwisko	
@@ -8573,6 +8849,7 @@ Wolaninowi	Wolanin	subst:sg:dat:m1	nazwisko
 Wolaninów	Wolanin	subst:pl:acc:m1	nazwisko	
 Wolaninów	Wolanin	subst:pl:gen:m1	nazwisko	
 Wolanin	Wolanin	subst:sg:nom:m1	nazwisko	
+Wolaniny	Wolanin	depr:pl:acc:m2	nazwisko	
 Wolaniny	Wolanin	depr:pl:nom:m2	nazwisko	
 Wolaniny	Wolanin	depr:pl:voc:m2	nazwisko	
 Wolanowach	Wolanów	subst:pl:loc:m3	nazwa geograficzna	
@@ -8612,6 +8889,7 @@ Wolańskich	Wolański	subst:pl:loc:m1	nazwisko
 Wolańskiego	Wolański	subst:sg:acc:m1	nazwisko	
 Wolańskiego	Wolański	subst:sg:gen:m1	nazwisko	
 Wolańskiemu	Wolański	subst:sg:dat:m1	nazwisko	
+Wolańskie	Wolański	depr:pl:acc:m2	nazwisko	
 Wolańskie	Wolański	depr:pl:nom:m2	nazwisko	
 Wolańskie	Wolański	depr:pl:voc:m2	nazwisko	
 Wolańskimi	Wolański	subst:pl:inst:m1	nazwisko	
@@ -8651,6 +8929,7 @@ Wolfowi	Wolf	subst:sg:dat:m1	imię|nazwisko
 Wolfów	Wolf	subst:pl:acc:m1	imię|nazwisko	
 Wolfów	Wolf	subst:pl:gen:m1	imię|nazwisko	
 Wolf	Wolf	subst:sg:nom:m1	imię|nazwisko	
+Wolfy	Wolf	depr:pl:acc:m2	imię|nazwisko	
 Wolfy	Wolf	depr:pl:nom:m2	imię|nazwisko	
 Wolfy	Wolf	depr:pl:voc:m2	imię|nazwisko	
 Wolfgangach	Wolfgang	subst:pl:loc:m1	imię	
@@ -8658,6 +8937,7 @@ Wolfgangami	Wolfgang	subst:pl:inst:m1	imię
 Wolfganga	Wolfgang	subst:sg:acc:m1	imię	
 Wolfganga	Wolfgang	subst:sg:gen:m1	imię	
 Wolfgangiem	Wolfgang	subst:sg:inst:m1	imię	
+Wolfgangi	Wolfgang	depr:pl:acc:m2	imię	
 Wolfgangi	Wolfgang	depr:pl:nom:m2	imię	
 Wolfgangi	Wolfgang	depr:pl:voc:m2	imię	
 Wolfgangom	Wolfgang	subst:pl:dat:m1	imię	
@@ -8681,6 +8961,7 @@ Wolimirowi	Wolimir	subst:sg:dat:m1	imię
 Wolimirów	Wolimir	subst:pl:acc:m1	imię	
 Wolimirów	Wolimir	subst:pl:gen:m1	imię	
 Wolimir	Wolimir	subst:sg:nom:m1	imię	
+Wolimiry	Wolimir	depr:pl:acc:m2	imię	
 Wolimiry	Wolimir	depr:pl:nom:m2	imię	
 Wolimiry	Wolimir	depr:pl:voc:m2	imię	
 Wolimirze	Wolimir	subst:sg:loc:m1	imię	
@@ -8715,6 +8996,7 @@ Wolinianin	Wolinianin	subst:sg:nom:m1	nazwa pospolita
 Wolinianom	Wolinianin	subst:pl:dat:m1	nazwa pospolita	
 Wolinian	Wolinianin	subst:pl:acc:m1	nazwa pospolita	
 Wolinian	Wolinianin	subst:pl:gen:m1	nazwa pospolita	
+Woliniany	Wolinianin	depr:pl:acc:m2	nazwa pospolita	
 Woliniany	Wolinianin	depr:pl:nom:m2	nazwa pospolita	
 Woliniany	Wolinianin	depr:pl:voc:m2	nazwa pospolita	
 Wolińska	Wolińska	subst:sg:nom:f	nazwisko	
@@ -8739,6 +9021,7 @@ Wolińskich	Woliński	subst:pl:loc:m1	nazwisko
 Wolińskiego	Woliński	subst:sg:acc:m1	nazwisko	
 Wolińskiego	Woliński	subst:sg:gen:m1	nazwisko	
 Wolińskiemu	Woliński	subst:sg:dat:m1	nazwisko	
+Wolińskie	Woliński	depr:pl:acc:m2	nazwisko	
 Wolińskie	Woliński	depr:pl:nom:m2	nazwisko	
 Wolińskie	Woliński	depr:pl:voc:m2	nazwisko	
 Wolińskimi	Woliński	subst:pl:inst:m1	nazwisko	
@@ -8759,6 +9042,7 @@ Wolmarowi	Wolmar	subst:sg:dat:m1	imię
 Wolmarów	Wolmar	subst:pl:acc:m1	imię	
 Wolmarów	Wolmar	subst:pl:gen:m1	imię	
 Wolmar	Wolmar	subst:sg:nom:m1	imię	
+Wolmary	Wolmar	depr:pl:acc:m2	imię	
 Wolmary	Wolmar	depr:pl:nom:m2	imię	
 Wolmary	Wolmar	depr:pl:voc:m2	imię	
 Wolmarze	Wolmar	subst:sg:loc:m1	imię	
@@ -8768,6 +9052,7 @@ Wolmarzy	Wolmar	subst:pl:voc:m1	imię
 Wolnego	Wolny	subst:sg:acc:m1	nazwisko	
 Wolnego	Wolny	subst:sg:gen:m1	nazwisko	
 Wolnemu	Wolny	subst:sg:dat:m1	nazwisko	
+Wolne	Wolny	depr:pl:acc:m2	nazwisko	
 Wolne	Wolny	depr:pl:nom:m2	nazwisko	
 Wolne	Wolny	depr:pl:voc:m2	nazwisko	
 Wolni	Wolny	subst:pl:nom:m1	nazwisko	
@@ -8805,6 +9090,7 @@ Wolskich	Wolski	subst:pl:loc:m1	nazwisko
 Wolskiego	Wolski	subst:sg:acc:m1	nazwisko	
 Wolskiego	Wolski	subst:sg:gen:m1	nazwisko	
 Wolskiemu	Wolski	subst:sg:dat:m1	nazwisko	
+Wolskie	Wolski	depr:pl:acc:m2	nazwisko	
 Wolskie	Wolski	depr:pl:nom:m2	nazwisko	
 Wolskie	Wolski	depr:pl:voc:m2	nazwisko	
 Wolskimi	Wolski	subst:pl:inst:m1	nazwisko	
@@ -8827,6 +9113,7 @@ Wolszczanowi	Wolszczan	subst:sg:dat:m1	nazwisko
 Wolszczanów	Wolszczan	subst:pl:acc:m1	nazwisko	
 Wolszczanów	Wolszczan	subst:pl:gen:m1	nazwisko	
 Wolszczan	Wolszczan	subst:sg:nom:m1	nazwisko	
+Wolszczany	Wolszczan	depr:pl:acc:m2	nazwisko	
 Wolszczany	Wolszczan	depr:pl:nom:m2	nazwisko	
 Wolszczany	Wolszczan	depr:pl:voc:m2	nazwisko	
 Wolsztynach	Wolsztyn	subst:pl:loc:m3	nazwa geograficzna	
@@ -8892,6 +9179,7 @@ Wołłejkach	Wołłejko	subst:pl:loc:m1	nazwisko
 Wołłejkami	Wołłejko	subst:pl:inst:m1	nazwisko	
 Wołłejką	Wołłejko	subst:sg:inst:m1	nazwisko	
 Wołłejkę	Wołłejko	subst:sg:acc:m1	nazwisko	
+Wołłejki	Wołłejko	depr:pl:acc:m2	nazwisko	
 Wołłejki	Wołłejko	depr:pl:nom:m2	nazwisko	
 Wołłejki	Wołłejko	depr:pl:voc:m2	nazwisko	
 Wołłejki	Wołłejko	subst:sg:gen:m1	nazwisko	
@@ -8916,6 +9204,7 @@ Wołochów	Wołoch	subst:pl:gen:m1	nazwa pospolita
 Wołochu	Wołoch	subst:sg:loc:m1	nazwa pospolita	
 Wołochu	Wołoch	subst:sg:voc:m1	nazwa pospolita	
 Wołoch	Wołoch	subst:sg:nom:m1	nazwa pospolita	
+Wołochy	Wołoch	depr:pl:acc:m2	nazwa pospolita	
 Wołochy	Wołoch	depr:pl:nom:m2	nazwa pospolita	
 Wołochy	Wołoch	depr:pl:voc:m2	nazwa pospolita	
 Wołosi	Wołoch	subst:pl:nom:m1	nazwa pospolita	
@@ -8942,6 +9231,7 @@ Wołodyjowskich	Wołodyjowski	subst:pl:loc:m1	nazwisko
 Wołodyjowskiego	Wołodyjowski	subst:sg:acc:m1	nazwisko	
 Wołodyjowskiego	Wołodyjowski	subst:sg:gen:m1	nazwisko	
 Wołodyjowskiemu	Wołodyjowski	subst:sg:dat:m1	nazwisko	
+Wołodyjowskie	Wołodyjowski	depr:pl:acc:m2	nazwisko	
 Wołodyjowskie	Wołodyjowski	depr:pl:nom:m2	nazwisko	
 Wołodyjowskie	Wołodyjowski	depr:pl:voc:m2	nazwisko	
 Wołodyjowskimi	Wołodyjowski	subst:pl:inst:m1	nazwisko	
@@ -8969,6 +9259,7 @@ Wołoszami	Wołosz	subst:pl:inst:m1	nazwisko
 Wołosza	Wołosz	subst:sg:acc:m1	nazwisko	
 Wołosza	Wołosz	subst:sg:gen:m1	nazwisko	
 Wołoszem	Wołosz	subst:sg:inst:m1	nazwisko	
+Wołosze	Wołosz	depr:pl:acc:m2	nazwisko	
 Wołosze	Wołosz	depr:pl:nom:m2	nazwisko	
 Wołosze	Wołosz	depr:pl:voc:m2	nazwisko	
 Wołosze	Wołosz	subst:pl:nom:m1	nazwisko	
@@ -9024,6 +9315,7 @@ Wołoszynowi	Wołoszyn:s2	subst:sg:dat:m1	nazwisko
 Wołoszynów	Wołoszyn:s2	subst:pl:acc:m1	nazwisko	
 Wołoszynów	Wołoszyn:s2	subst:pl:gen:m1	nazwisko	
 Wołoszyn	Wołoszyn:s2	subst:sg:nom:m1	nazwisko	
+Wołoszyny	Wołoszyn:s2	depr:pl:acc:m2	nazwisko	
 Wołoszyny	Wołoszyn:s2	depr:pl:nom:m2	nazwisko	
 Wołoszyny	Wołoszyn:s2	depr:pl:voc:m2	nazwisko	
 Wołowach	Wołów	subst:pl:loc:m3	nazwa geograficzna	
@@ -9096,6 +9388,7 @@ Wonderowi	Wonder	subst:sg:dat:m1	nazwisko
 Wonderów	Wonder	subst:pl:acc:m1	nazwisko	
 Wonderów	Wonder	subst:pl:gen:m1	nazwisko	
 Wonder	Wonder	subst:sg:nom:m1	nazwisko	
+Wondery	Wonder	depr:pl:acc:m2	nazwisko	
 Wondery	Wonder	depr:pl:nom:m2	nazwisko	
 Wondery	Wonder	depr:pl:voc:m2	nazwisko	
 Wonderze	Wonder	subst:sg:loc:m1	nazwisko	
@@ -9140,6 +9433,7 @@ Woolfowi	Woolf	subst:sg:dat:m1	nazwisko
 Woolfów	Woolf	subst:pl:acc:m1	nazwisko	
 Woolfów	Woolf	subst:pl:gen:m1	nazwisko	
 Woolf	Woolf	subst:sg:nom:m1	nazwisko	
+Woolfy	Woolf	depr:pl:acc:m2	nazwisko	
 Woolfy	Woolf	depr:pl:nom:m2	nazwisko	
 Woolfy	Woolf	depr:pl:voc:m2	nazwisko	
 WOP-ach	WOP	subst:pl:loc:m3	nazwa organizacji	
@@ -9175,6 +9469,7 @@ Worcellami	Worcell	subst:pl:inst:m1	nazwisko
 Worcella	Worcell	subst:sg:acc:m1	nazwisko	
 Worcella	Worcell	subst:sg:gen:m1	nazwisko	
 Worcellem	Worcell	subst:sg:inst:m1	nazwisko	
+Worcelle	Worcell	depr:pl:acc:m2	nazwisko	
 Worcelle	Worcell	depr:pl:nom:m2	nazwisko	
 Worcelle	Worcell	depr:pl:voc:m2	nazwisko	
 Worcellom	Worcell	subst:pl:dat:m1	nazwisko	
@@ -9234,6 +9529,7 @@ Woronczakami	Woronczak	subst:pl:inst:m1	nazwisko
 Woronczaka	Woronczak	subst:sg:acc:m1	nazwisko	
 Woronczaka	Woronczak	subst:sg:gen:m1	nazwisko	
 Woronczakiem	Woronczak	subst:sg:inst:m1	nazwisko	
+Woronczaki	Woronczak	depr:pl:acc:m2	nazwisko	
 Woronczaki	Woronczak	depr:pl:nom:m2	nazwisko	
 Woronczaki	Woronczak	depr:pl:voc:m2	nazwisko	
 Woronczakom	Woronczak	subst:pl:dat:m1	nazwisko	
@@ -9250,6 +9546,7 @@ Woroniczami	Woronicz	subst:pl:inst:m1	nazwisko
 Woronicza	Woronicz	subst:sg:acc:m1	nazwisko	
 Woronicza	Woronicz	subst:sg:gen:m1	nazwisko	
 Woroniczem	Woronicz	subst:sg:inst:m1	nazwisko	
+Woronicze	Woronicz	depr:pl:acc:m2	nazwisko	
 Woronicze	Woronicz	depr:pl:nom:m2	nazwisko	
 Woronicze	Woronicz	depr:pl:voc:m2	nazwisko	
 Woronicze	Woronicz	subst:pl:nom:m1	nazwisko	
@@ -9285,6 +9582,7 @@ Woroszylskich	Woroszylski	subst:pl:loc:m1	nazwisko
 Woroszylskiego	Woroszylski	subst:sg:acc:m1	nazwisko	
 Woroszylskiego	Woroszylski	subst:sg:gen:m1	nazwisko	
 Woroszylskiemu	Woroszylski	subst:sg:dat:m1	nazwisko	
+Woroszylskie	Woroszylski	depr:pl:acc:m2	nazwisko	
 Woroszylskie	Woroszylski	depr:pl:nom:m2	nazwisko	
 Woroszylskie	Woroszylski	depr:pl:voc:m2	nazwisko	
 Woroszylskimi	Woroszylski	subst:pl:inst:m1	nazwisko	
@@ -9315,6 +9613,7 @@ Woszczyńskich	Woszczyński	subst:pl:loc:m1	nazwisko
 Woszczyńskiego	Woszczyński	subst:sg:acc:m1	nazwisko	
 Woszczyńskiego	Woszczyński	subst:sg:gen:m1	nazwisko	
 Woszczyńskiemu	Woszczyński	subst:sg:dat:m1	nazwisko	
+Woszczyńskie	Woszczyński	depr:pl:acc:m2	nazwisko	
 Woszczyńskie	Woszczyński	depr:pl:nom:m2	nazwisko	
 Woszczyńskie	Woszczyński	depr:pl:voc:m2	nazwisko	
 Woszczyńskimi	Woszczyński	subst:pl:inst:m1	nazwisko	
@@ -9328,6 +9627,7 @@ Wosiami	Woś	subst:pl:inst:m1	nazwisko
 Wosia	Woś	subst:sg:acc:m1	nazwisko	
 Wosia	Woś	subst:sg:gen:m1	nazwisko	
 Wosiem	Woś	subst:sg:inst:m1	nazwisko	
+Wosie	Woś	depr:pl:acc:m2	nazwisko	
 Wosie	Woś	depr:pl:nom:m2	nazwisko	
 Wosie	Woś	depr:pl:voc:m2	nazwisko	
 Wosie	Woś	subst:pl:nom:m1	nazwisko	
@@ -9388,6 +9688,7 @@ Woźniakami	Woźniak	subst:pl:inst:m1	nazwisko
 Woźniaka	Woźniak	subst:sg:acc:m1	nazwisko	
 Woźniaka	Woźniak	subst:sg:gen:m1	nazwisko	
 Woźniakiem	Woźniak	subst:sg:inst:m1	nazwisko	
+Woźniaki	Woźniak	depr:pl:acc:m2	nazwisko	
 Woźniaki	Woźniak	depr:pl:nom:m2	nazwisko	
 Woźniaki	Woźniak	depr:pl:voc:m2	nazwisko	
 Woźniakom	Woźniak	subst:pl:dat:m1	nazwisko	
@@ -9421,6 +9722,7 @@ Woźniakowskich	Woźniakowski	subst:pl:loc:m1	nazwisko
 Woźniakowskiego	Woźniakowski	subst:sg:acc:m1	nazwisko	
 Woźniakowskiego	Woźniakowski	subst:sg:gen:m1	nazwisko	
 Woźniakowskiemu	Woźniakowski	subst:sg:dat:m1	nazwisko	
+Woźniakowskie	Woźniakowski	depr:pl:acc:m2	nazwisko	
 Woźniakowskie	Woźniakowski	depr:pl:nom:m2	nazwisko	
 Woźniakowskie	Woźniakowski	depr:pl:voc:m2	nazwisko	
 Woźniakowskimi	Woźniakowski	subst:pl:inst:m1	nazwisko	
@@ -9451,6 +9753,7 @@ Woźnickich	Woźnicki	subst:pl:loc:m1	nazwisko
 Woźnickiego	Woźnicki	subst:sg:acc:m1	nazwisko	
 Woźnickiego	Woźnicki	subst:sg:gen:m1	nazwisko	
 Woźnickiemu	Woźnicki	subst:sg:dat:m1	nazwisko	
+Woźnickie	Woźnicki	depr:pl:acc:m2	nazwisko	
 Woźnickie	Woźnicki	depr:pl:nom:m2	nazwisko	
 Woźnickie	Woźnicki	depr:pl:voc:m2	nazwisko	
 Woźnickimi	Woźnicki	subst:pl:inst:m1	nazwisko	
@@ -9476,6 +9779,7 @@ Woźnik	Woźniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Woźnego	Woźny	subst:sg:acc:m1	nazwisko	
 Woźnego	Woźny	subst:sg:gen:m1	nazwisko	
 Woźnemu	Woźny	subst:sg:dat:m1	nazwisko	
+Woźne	Woźny	depr:pl:acc:m2	nazwisko	
 Woźne	Woźny	depr:pl:nom:m2	nazwisko	
 Woźne	Woźny	depr:pl:voc:m2	nazwisko	
 Woźni	Woźny	subst:pl:nom:m1	nazwisko	
@@ -9494,6 +9798,7 @@ Wójciakami	Wójciak	subst:pl:inst:m1	nazwisko
 Wójciaka	Wójciak	subst:sg:acc:m1	nazwisko	
 Wójciaka	Wójciak	subst:sg:gen:m1	nazwisko	
 Wójciakiem	Wójciak	subst:sg:inst:m1	nazwisko	
+Wójciaki	Wójciak	depr:pl:acc:m2	nazwisko	
 Wójciaki	Wójciak	depr:pl:nom:m2	nazwisko	
 Wójciaki	Wójciak	depr:pl:voc:m2	nazwisko	
 Wójciakom	Wójciak	subst:pl:dat:m1	nazwisko	
@@ -9527,6 +9832,7 @@ Wójcickich	Wójcicki	subst:pl:loc:m1	nazwisko
 Wójcickiego	Wójcicki	subst:sg:acc:m1	nazwisko	
 Wójcickiego	Wójcicki	subst:sg:gen:m1	nazwisko	
 Wójcickiemu	Wójcicki	subst:sg:dat:m1	nazwisko	
+Wójcickie	Wójcicki	depr:pl:acc:m2	nazwisko	
 Wójcickie	Wójcicki	depr:pl:nom:m2	nazwisko	
 Wójcickie	Wójcicki	depr:pl:voc:m2	nazwisko	
 Wójcickimi	Wójcicki	subst:pl:inst:m1	nazwisko	
@@ -9540,6 +9846,7 @@ Wójcikami	Wójcik	subst:pl:inst:m1	nazwisko
 Wójcika	Wójcik	subst:sg:acc:m1	nazwisko	
 Wójcika	Wójcik	subst:sg:gen:m1	nazwisko	
 Wójcikiem	Wójcik	subst:sg:inst:m1	nazwisko	
+Wójciki	Wójcik	depr:pl:acc:m2	nazwisko	
 Wójciki	Wójcik	depr:pl:nom:m2	nazwisko	
 Wójciki	Wójcik	depr:pl:voc:m2	nazwisko	
 Wójcikom	Wójcik	subst:pl:dat:m1	nazwisko	
@@ -9573,6 +9880,7 @@ Wójcikowskich	Wójcikowski	subst:pl:loc:m1	nazwisko
 Wójcikowskiego	Wójcikowski	subst:sg:acc:m1	nazwisko	
 Wójcikowskiego	Wójcikowski	subst:sg:gen:m1	nazwisko	
 Wójcikowskiemu	Wójcikowski	subst:sg:dat:m1	nazwisko	
+Wójcikowskie	Wójcikowski	depr:pl:acc:m2	nazwisko	
 Wójcikowskie	Wójcikowski	depr:pl:nom:m2	nazwisko	
 Wójcikowskie	Wójcikowski	depr:pl:voc:m2	nazwisko	
 Wójcikowskimi	Wójcikowski	subst:pl:inst:m1	nazwisko	
@@ -9586,6 +9894,7 @@ Wójtowiczami	Wójtowicz	subst:pl:inst:m1	nazwisko
 Wójtowicza	Wójtowicz	subst:sg:acc:m1	nazwisko	
 Wójtowicza	Wójtowicz	subst:sg:gen:m1	nazwisko	
 Wójtowiczem	Wójtowicz	subst:sg:inst:m1	nazwisko	
+Wójtowicze	Wójtowicz	depr:pl:acc:m2	nazwisko	
 Wójtowicze	Wójtowicz	depr:pl:nom:m2	nazwisko	
 Wójtowicze	Wójtowicz	depr:pl:voc:m2	nazwisko	
 Wójtowicze	Wójtowicz	subst:pl:nom:m1	nazwisko	
@@ -9633,6 +9942,7 @@ Wranglami	Wrangel	subst:pl:inst:m1	nazwisko
 Wrangla	Wrangel	subst:sg:acc:m1	nazwisko	
 Wrangla	Wrangel	subst:sg:gen:m1	nazwisko	
 Wranglem	Wrangel	subst:sg:inst:m1	nazwisko	
+Wrangle	Wrangel	depr:pl:acc:m2	nazwisko	
 Wrangle	Wrangel	depr:pl:nom:m2	nazwisko	
 Wrangle	Wrangel	depr:pl:voc:m2	nazwisko	
 Wranglom	Wrangel	subst:pl:dat:m1	nazwisko	
@@ -9671,6 +9981,7 @@ Wrightowi	Wright	subst:sg:dat:m1	nazwisko
 Wrightów	Wright	subst:pl:acc:m1	nazwisko	
 Wrightów	Wright	subst:pl:gen:m1	nazwisko	
 Wright	Wright	subst:sg:nom:m1	nazwisko	
+Wrighty	Wright	depr:pl:acc:m2	nazwisko	
 Wrighty	Wright	depr:pl:nom:m2	nazwisko	
 Wrighty	Wright	depr:pl:voc:m2	nazwisko	
 WRN-ach	WRN:s1	subst:pl:loc:m3	nazwa organizacji	
@@ -9745,6 +10056,7 @@ Wrocisławowi	Wrocisław	subst:sg:dat:m1	imię
 Wrocisławów	Wrocisław	subst:pl:acc:m1	imię	
 Wrocisławów	Wrocisław	subst:pl:gen:m1	imię	
 Wrocisław	Wrocisław	subst:sg:nom:m1	imię	
+Wrocisławy	Wrocisław	depr:pl:acc:m2	imię	
 Wrocisławy	Wrocisław	depr:pl:nom:m2	imię	
 Wrocisławy	Wrocisław	depr:pl:voc:m2	imię	
 Wrocławiach	Wrocław	subst:pl:loc:m3	nazwa geograficzna	
@@ -9817,6 +10129,7 @@ Wronowie	Wrona	subst:pl:voc:m1	nazwisko
 Wrono	Wrona	subst:sg:voc:m1	nazwisko	
 Wronów	Wrona	subst:pl:acc:m1	nazwisko	
 Wronów	Wrona	subst:pl:gen:m1	nazwisko	
+Wrony	Wrona	depr:pl:acc:m2	nazwisko	
 Wrony	Wrona	depr:pl:nom:m2	nazwisko	
 Wrony	Wrona	depr:pl:voc:m2	nazwisko	
 Wrony	Wrona	subst:sg:gen:m1	nazwisko	
@@ -9856,6 +10169,7 @@ Wrońskich	Wroński	subst:pl:loc:m1	nazwisko
 Wrońskiego	Wroński	subst:sg:acc:m1	nazwisko	
 Wrońskiego	Wroński	subst:sg:gen:m1	nazwisko	
 Wrońskiemu	Wroński	subst:sg:dat:m1	nazwisko	
+Wrońskie	Wroński	depr:pl:acc:m2	nazwisko	
 Wrońskie	Wroński	depr:pl:nom:m2	nazwisko	
 Wrońskie	Wroński	depr:pl:voc:m2	nazwisko	
 Wrońskimi	Wroński	subst:pl:inst:m1	nazwisko	
@@ -9870,6 +10184,7 @@ Wróblami	Wróbel	subst:pl:inst:m1	nazwisko
 Wróbla	Wróbel	subst:sg:acc:m1	nazwisko	
 Wróbla	Wróbel	subst:sg:gen:m1	nazwisko	
 Wróblem	Wróbel	subst:sg:inst:m1	nazwisko	
+Wróble	Wróbel	depr:pl:acc:m2	nazwisko	
 Wróble	Wróbel	depr:pl:nom:m2	nazwisko	
 Wróble	Wróbel	depr:pl:voc:m2	nazwisko	
 Wróblom	Wróbel	subst:pl:dat:m1	nazwisko	
@@ -9902,6 +10217,7 @@ Wróblewskich	Wróblewski	subst:pl:loc:m1	nazwisko
 Wróblewskiego	Wróblewski	subst:sg:acc:m1	nazwisko	
 Wróblewskiego	Wróblewski	subst:sg:gen:m1	nazwisko	
 Wróblewskiemu	Wróblewski	subst:sg:dat:m1	nazwisko	
+Wróblewskie	Wróblewski	depr:pl:acc:m2	nazwisko	
 Wróblewskie	Wróblewski	depr:pl:nom:m2	nazwisko	
 Wróblewskie	Wróblewski	depr:pl:voc:m2	nazwisko	
 Wróblewskimi	Wróblewski	subst:pl:inst:m1	nazwisko	
@@ -9922,6 +10238,7 @@ Wrócimirowi	Wrócimir	subst:sg:dat:m1	imię
 Wrócimirów	Wrócimir	subst:pl:acc:m1	imię	
 Wrócimirów	Wrócimir	subst:pl:gen:m1	imię	
 Wrócimir	Wrócimir	subst:sg:nom:m1	imię	
+Wrócimiry	Wrócimir	depr:pl:acc:m2	imię	
 Wrócimiry	Wrócimir	depr:pl:nom:m2	imię	
 Wrócimiry	Wrócimir	depr:pl:voc:m2	imię	
 Wrócimirze	Wrócimir	subst:sg:loc:m1	imię	
@@ -9944,6 +10261,7 @@ Wrócisławowi	Wrócisław	subst:sg:dat:m1	imię
 Wrócisławów	Wrócisław	subst:pl:acc:m1	imię	
 Wrócisławów	Wrócisław	subst:pl:gen:m1	imię	
 Wrócisław	Wrócisław	subst:sg:nom:m1	imię	
+Wrócisławy	Wrócisław	depr:pl:acc:m2	imię	
 Wrócisławy	Wrócisław	depr:pl:nom:m2	imię	
 Wrócisławy	Wrócisław	depr:pl:voc:m2	imię	
 Wrócisławach	Wrócisława	subst:pl:loc:f	imię	
@@ -9965,6 +10283,7 @@ Wróciwojami	Wróciwoj	subst:pl:inst:m1	imię
 Wróciwoja	Wróciwoj	subst:sg:acc:m1	imię	
 Wróciwoja	Wróciwoj	subst:sg:gen:m1	imię	
 Wróciwojem	Wróciwoj	subst:sg:inst:m1	imię	
+Wróciwoje	Wróciwoj	depr:pl:acc:m2	imię	
 Wróciwoje	Wróciwoj	depr:pl:nom:m2	imię	
 Wróciwoje	Wróciwoj	depr:pl:voc:m2	imię	
 Wróciwoje	Wróciwoj	subst:pl:nom:m1	imię	
@@ -9984,6 +10303,7 @@ Wrześniami	Wrzesień	subst:pl:inst:m1	nazwisko
 Września	Wrzesień	subst:sg:acc:m1	nazwisko	
 Września	Wrzesień	subst:sg:gen:m1	nazwisko	
 Wrześniem	Wrzesień	subst:sg:inst:m1	nazwisko	
+Wrześnie	Wrzesień	depr:pl:acc:m2	nazwisko	
 Wrześnie	Wrzesień	depr:pl:nom:m2	nazwisko	
 Wrześnie	Wrzesień	depr:pl:voc:m2	nazwisko	
 Wrześniom	Wrzesień	subst:pl:dat:m1	nazwisko	
@@ -10044,6 +10364,7 @@ Wrześniewskich	Wrześniewski	subst:pl:loc:m1	nazwisko
 Wrześniewskiego	Wrześniewski	subst:sg:acc:m1	nazwisko	
 Wrześniewskiego	Wrześniewski	subst:sg:gen:m1	nazwisko	
 Wrześniewskiemu	Wrześniewski	subst:sg:dat:m1	nazwisko	
+Wrześniewskie	Wrześniewski	depr:pl:acc:m2	nazwisko	
 Wrześniewskie	Wrześniewski	depr:pl:nom:m2	nazwisko	
 Wrześniewskie	Wrześniewski	depr:pl:voc:m2	nazwisko	
 Wrześniewskimi	Wrześniewski	subst:pl:inst:m1	nazwisko	
@@ -10197,6 +10518,7 @@ Wszebądowi	Wszebąd	subst:sg:dat:m1	imię
 Wszebądów	Wszebąd	subst:pl:acc:m1	imię	
 Wszebądów	Wszebąd	subst:pl:gen:m1	imię	
 Wszebąd	Wszebąd	subst:sg:nom:m1	imię	
+Wszebądy	Wszebąd	depr:pl:acc:m2	imię	
 Wszebądy	Wszebąd	depr:pl:nom:m2	imię	
 Wszebądy	Wszebąd	depr:pl:voc:m2	imię	
 Wszebądzie	Wszebąd	subst:sg:loc:m1	imię	
@@ -10215,6 +10537,7 @@ Wszeborowi	Wszebor	subst:sg:dat:m1	imię
 Wszeborów	Wszebor	subst:pl:acc:m1	imię	
 Wszeborów	Wszebor	subst:pl:gen:m1	imię	
 Wszebor	Wszebor	subst:sg:nom:m1	imię	
+Wszebory	Wszebor	depr:pl:acc:m2	imię	
 Wszebory	Wszebor	depr:pl:nom:m2	imię	
 Wszebory	Wszebor	depr:pl:voc:m2	imię	
 Wszeborze	Wszebor	subst:sg:loc:m1	imię	
@@ -10240,6 +10563,7 @@ Wszeciechami	Wszeciech	subst:pl:inst:m1	imię
 Wszeciecha	Wszeciech	subst:sg:acc:m1	imię	
 Wszeciecha	Wszeciech	subst:sg:gen:m1	imię	
 Wszeciechem	Wszeciech	subst:sg:inst:m1	imię	
+Wszecieche	Wszeciech	depr:pl:acc:m2	imię	
 Wszecieche	Wszeciech	depr:pl:nom:m2	imię	
 Wszecieche	Wszeciech	depr:pl:voc:m2	imię	
 Wszeciechom	Wszeciech	subst:pl:dat:m1	imię	
@@ -10251,6 +10575,7 @@ Wszeciechów	Wszeciech	subst:pl:gen:m1	imię
 Wszeciechu	Wszeciech	subst:sg:loc:m1	imię	
 Wszeciechu	Wszeciech	subst:sg:voc:m1	imię	
 Wszeciech	Wszeciech	subst:sg:nom:m1	imię	
+Wszeciechy	Wszeciech	depr:pl:acc:m2	imię	
 Wszeciechy	Wszeciech	depr:pl:nom:m2	imię	
 Wszeciechy	Wszeciech	depr:pl:voc:m2	imię	
 Wszegniewach	Wszegniew	subst:pl:loc:m1	imię	
@@ -10267,6 +10592,7 @@ Wszegniewowi	Wszegniew	subst:sg:dat:m1	imię
 Wszegniewów	Wszegniew	subst:pl:acc:m1	imię	
 Wszegniewów	Wszegniew	subst:pl:gen:m1	imię	
 Wszegniew	Wszegniew	subst:sg:nom:m1	imię	
+Wszegniewy	Wszegniew	depr:pl:acc:m2	imię	
 Wszegniewy	Wszegniew	depr:pl:nom:m2	imię	
 Wszegniewy	Wszegniew	depr:pl:voc:m2	imię	
 Wszemile	Wszemił	subst:sg:loc:m1	imię	
@@ -10283,6 +10609,7 @@ Wszemiłowi	Wszemił	subst:sg:dat:m1	imię
 Wszemiłów	Wszemił	subst:pl:acc:m1	imię	
 Wszemiłów	Wszemił	subst:pl:gen:m1	imię	
 Wszemił	Wszemił	subst:sg:nom:m1	imię	
+Wszemiły	Wszemił	depr:pl:acc:m2	imię	
 Wszemiły	Wszemił	depr:pl:nom:m2	imię	
 Wszemiły	Wszemił	depr:pl:voc:m2	imię	
 Wszemile	Wszemiła	subst:sg:dat:f	imię	
@@ -10311,6 +10638,7 @@ Wszemirowi	Wszemir	subst:sg:dat:m1	imię
 Wszemirów	Wszemir	subst:pl:acc:m1	imię	
 Wszemirów	Wszemir	subst:pl:gen:m1	imię	
 Wszemir	Wszemir	subst:sg:nom:m1	imię	
+Wszemiry	Wszemir	depr:pl:acc:m2	imię	
 Wszemiry	Wszemir	depr:pl:nom:m2	imię	
 Wszemiry	Wszemir	depr:pl:voc:m2	imię	
 Wszemirze	Wszemir	subst:sg:loc:m1	imię	
@@ -10329,6 +10657,7 @@ Wszeradowi	Wszerad	subst:sg:dat:m1	imię
 Wszeradów	Wszerad	subst:pl:acc:m1	imię	
 Wszeradów	Wszerad	subst:pl:gen:m1	imię	
 Wszerad	Wszerad	subst:sg:nom:m1	imię	
+Wszerady	Wszerad	depr:pl:acc:m2	imię	
 Wszerady	Wszerad	depr:pl:nom:m2	imię	
 Wszerady	Wszerad	depr:pl:voc:m2	imię	
 Wszeradzie	Wszerad	subst:sg:loc:m1	imię	
@@ -10348,6 +10677,7 @@ Wszołowie	Wszoła	subst:pl:voc:m1	nazwisko
 Wszoło	Wszoła	subst:sg:voc:m1	nazwisko	
 Wszołów	Wszoła	subst:pl:acc:m1	nazwisko	
 Wszołów	Wszoła	subst:pl:gen:m1	nazwisko	
+Wszoły	Wszoła	depr:pl:acc:m2	nazwisko	
 Wszoły	Wszoła	depr:pl:nom:m2	nazwisko	
 Wszoły	Wszoła	depr:pl:voc:m2	nazwisko	
 Wszoły	Wszoła	subst:sg:gen:m1	nazwisko	
@@ -10398,6 +10728,7 @@ Wujcami	Wujec	subst:pl:inst:m1	nazwisko
 Wujca	Wujec	subst:sg:acc:m1	nazwisko	
 Wujca	Wujec	subst:sg:gen:m1	nazwisko	
 Wujcem	Wujec	subst:sg:inst:m1	nazwisko	
+Wujce	Wujec	depr:pl:acc:m2	nazwisko	
 Wujce	Wujec	depr:pl:nom:m2	nazwisko	
 Wujce	Wujec	depr:pl:voc:m2	nazwisko	
 Wujcom	Wujec	subst:pl:dat:m1	nazwisko	
@@ -10453,6 +10784,7 @@ Wulkanowi	Wulkan	subst:sg:dat:m1	imię	mit.
 Wulkanów	Wulkan	subst:pl:acc:m1	imię	mit.
 Wulkanów	Wulkan	subst:pl:gen:m1	imię	mit.
 Wulkan	Wulkan	subst:sg:nom:m1	imię	mit.
+Wulkany	Wulkan	depr:pl:acc:m2	imię	mit.
 Wulkany	Wulkan	depr:pl:nom:m2	imię	mit.
 Wulkany	Wulkan	depr:pl:voc:m2	imię	mit.
 Wundcie	Wundt	subst:sg:loc:m1	nazwisko	
@@ -10469,6 +10801,7 @@ Wundtowi	Wundt	subst:sg:dat:m1	nazwisko
 Wundtów	Wundt	subst:pl:acc:m1	nazwisko	
 Wundtów	Wundt	subst:pl:gen:m1	nazwisko	
 Wundt	Wundt	subst:sg:nom:m1	nazwisko	
+Wundty	Wundt	depr:pl:acc:m2	nazwisko	
 Wundty	Wundt	depr:pl:nom:m2	nazwisko	
 Wundty	Wundt	depr:pl:voc:m2	nazwisko	
 W-wach	W-wa	subst:pl:loc:f	nazwa geograficzna	
@@ -10513,6 +10846,7 @@ Wyattowi	Wyatt	subst:sg:dat:m1	nazwisko
 Wyattów	Wyatt	subst:pl:acc:m1	nazwisko	
 Wyattów	Wyatt	subst:pl:gen:m1	nazwisko	
 Wyatt	Wyatt	subst:sg:nom:m1	nazwisko	
+Wyatty	Wyatt	depr:pl:acc:m2	nazwisko	
 Wyatty	Wyatt	depr:pl:nom:m2	nazwisko	
 Wyatty	Wyatt	depr:pl:voc:m2	nazwisko	
 Wybicka	Wybicka	subst:sg:nom:f	nazwisko	
@@ -10537,6 +10871,7 @@ Wybickich	Wybicki	subst:pl:loc:m1	nazwisko
 Wybickiego	Wybicki	subst:sg:acc:m1	nazwisko	
 Wybickiego	Wybicki	subst:sg:gen:m1	nazwisko	
 Wybickiemu	Wybicki	subst:sg:dat:m1	nazwisko	
+Wybickie	Wybicki	depr:pl:acc:m2	nazwisko	
 Wybickie	Wybicki	depr:pl:nom:m2	nazwisko	
 Wybickie	Wybicki	depr:pl:voc:m2	nazwisko	
 Wybickimi	Wybicki	subst:pl:inst:m1	nazwisko	
@@ -10567,6 +10902,7 @@ Wyczółkowskich	Wyczółkowski	subst:pl:loc:m1	nazwisko
 Wyczółkowskiego	Wyczółkowski	subst:sg:acc:m1	nazwisko	
 Wyczółkowskiego	Wyczółkowski	subst:sg:gen:m1	nazwisko	
 Wyczółkowskiemu	Wyczółkowski	subst:sg:dat:m1	nazwisko	
+Wyczółkowskie	Wyczółkowski	depr:pl:acc:m2	nazwisko	
 Wyczółkowskie	Wyczółkowski	depr:pl:nom:m2	nazwisko	
 Wyczółkowskie	Wyczółkowski	depr:pl:voc:m2	nazwisko	
 Wyczółkowskimi	Wyczółkowski	subst:pl:inst:m1	nazwisko	
@@ -10611,6 +10947,7 @@ Wydrzyńskich	Wydrzyński	subst:pl:loc:m1	nazwisko
 Wydrzyńskiego	Wydrzyński	subst:sg:acc:m1	nazwisko	
 Wydrzyńskiego	Wydrzyński	subst:sg:gen:m1	nazwisko	
 Wydrzyńskiemu	Wydrzyński	subst:sg:dat:m1	nazwisko	
+Wydrzyńskie	Wydrzyński	depr:pl:acc:m2	nazwisko	
 Wydrzyńskie	Wydrzyński	depr:pl:nom:m2	nazwisko	
 Wydrzyńskie	Wydrzyński	depr:pl:voc:m2	nazwisko	
 Wydrzyńskimi	Wydrzyński	subst:pl:inst:m1	nazwisko	
@@ -10655,6 +10992,7 @@ Wyrzykowskich	Wyrzykowski	subst:pl:loc:m1	nazwisko
 Wyrzykowskiego	Wyrzykowski	subst:sg:acc:m1	nazwisko	
 Wyrzykowskiego	Wyrzykowski	subst:sg:gen:m1	nazwisko	
 Wyrzykowskiemu	Wyrzykowski	subst:sg:dat:m1	nazwisko	
+Wyrzykowskie	Wyrzykowski	depr:pl:acc:m2	nazwisko	
 Wyrzykowskie	Wyrzykowski	depr:pl:nom:m2	nazwisko	
 Wyrzykowskie	Wyrzykowski	depr:pl:voc:m2	nazwisko	
 Wyrzykowskimi	Wyrzykowski	subst:pl:inst:m1	nazwisko	
@@ -10685,6 +11023,7 @@ Wysockich	Wysocki	subst:pl:loc:m1	nazwisko
 Wysockiego	Wysocki	subst:sg:acc:m1	nazwisko	
 Wysockiego	Wysocki	subst:sg:gen:m1	nazwisko	
 Wysockiemu	Wysocki	subst:sg:dat:m1	nazwisko	
+Wysockie	Wysocki	depr:pl:acc:m2	nazwisko	
 Wysockie	Wysocki	depr:pl:nom:m2	nazwisko	
 Wysockie	Wysocki	depr:pl:voc:m2	nazwisko	
 Wysockimi	Wysocki	subst:pl:inst:m1	nazwisko	
@@ -10729,6 +11068,7 @@ Wysokińskich	Wysokiński	subst:pl:loc:m1	nazwisko
 Wysokińskiego	Wysokiński	subst:sg:acc:m1	nazwisko	
 Wysokińskiego	Wysokiński	subst:sg:gen:m1	nazwisko	
 Wysokińskiemu	Wysokiński	subst:sg:dat:m1	nazwisko	
+Wysokińskie	Wysokiński	depr:pl:acc:m2	nazwisko	
 Wysokińskie	Wysokiński	depr:pl:nom:m2	nazwisko	
 Wysokińskie	Wysokiński	depr:pl:voc:m2	nazwisko	
 Wysokińskimi	Wysokiński	subst:pl:inst:m1	nazwisko	
@@ -10759,6 +11099,7 @@ Wyspiańskich	Wyspiański	subst:pl:loc:m1	nazwisko
 Wyspiańskiego	Wyspiański	subst:sg:acc:m1	nazwisko	
 Wyspiańskiego	Wyspiański	subst:sg:gen:m1	nazwisko	
 Wyspiańskiemu	Wyspiański	subst:sg:dat:m1	nazwisko	
+Wyspiańskie	Wyspiański	depr:pl:acc:m2	nazwisko	
 Wyspiańskie	Wyspiański	depr:pl:nom:m2	nazwisko	
 Wyspiańskie	Wyspiański	depr:pl:voc:m2	nazwisko	
 Wyspiańskimi	Wyspiański	subst:pl:inst:m1	nazwisko	
@@ -10793,6 +11134,7 @@ Wyszemirowi	Wyszemir	subst:sg:dat:m1	imię
 Wyszemirów	Wyszemir	subst:pl:acc:m1	imię	
 Wyszemirów	Wyszemir	subst:pl:gen:m1	imię	
 Wyszemir	Wyszemir	subst:sg:nom:m1	imię	
+Wyszemiry	Wyszemir	depr:pl:acc:m2	imię	
 Wyszemiry	Wyszemir	depr:pl:nom:m2	imię	
 Wyszemiry	Wyszemir	depr:pl:voc:m2	imię	
 Wyszemirze	Wyszemir	subst:sg:loc:m1	imię	
@@ -10829,6 +11171,7 @@ Wyszesławowi	Wyszesław	subst:sg:dat:m1	imię
 Wyszesławów	Wyszesław	subst:pl:acc:m1	imię	
 Wyszesławów	Wyszesław	subst:pl:gen:m1	imię	
 Wyszesław	Wyszesław	subst:sg:nom:m1	imię	
+Wyszesławy	Wyszesław	depr:pl:acc:m2	imię	
 Wyszesławy	Wyszesław	depr:pl:nom:m2	imię	
 Wyszesławy	Wyszesław	depr:pl:voc:m2	imię	
 Wyszesławach	Wyszesława	subst:pl:loc:f	imię	
@@ -10886,6 +11229,7 @@ Wyszomirowi	Wyszomir	subst:sg:dat:m1	imię
 Wyszomirów	Wyszomir	subst:pl:acc:m1	imię	
 Wyszomirów	Wyszomir	subst:pl:gen:m1	imię	
 Wyszomir	Wyszomir	subst:sg:nom:m1	imię	
+Wyszomiry	Wyszomir	depr:pl:acc:m2	imię	
 Wyszomiry	Wyszomir	depr:pl:nom:m2	imię	
 Wyszomiry	Wyszomir	depr:pl:voc:m2	imię	
 Wyszomirze	Wyszomir	subst:sg:loc:m1	imię	
@@ -10914,6 +11258,7 @@ Wyszomirskich	Wyszomirski	subst:pl:loc:m1	nazwisko
 Wyszomirskiego	Wyszomirski	subst:sg:acc:m1	nazwisko	
 Wyszomirskiego	Wyszomirski	subst:sg:gen:m1	nazwisko	
 Wyszomirskiemu	Wyszomirski	subst:sg:dat:m1	nazwisko	
+Wyszomirskie	Wyszomirski	depr:pl:acc:m2	nazwisko	
 Wyszomirskie	Wyszomirski	depr:pl:nom:m2	nazwisko	
 Wyszomirskie	Wyszomirski	depr:pl:voc:m2	nazwisko	
 Wyszomirskimi	Wyszomirski	subst:pl:inst:m1	nazwisko	
@@ -10944,6 +11289,7 @@ Wyszyńskich	Wyszyński	subst:pl:loc:m1	nazwisko
 Wyszyńskiego	Wyszyński	subst:sg:acc:m1	nazwisko	
 Wyszyńskiego	Wyszyński	subst:sg:gen:m1	nazwisko	
 Wyszyńskiemu	Wyszyński	subst:sg:dat:m1	nazwisko	
+Wyszyńskie	Wyszyński	depr:pl:acc:m2	nazwisko	
 Wyszyńskie	Wyszyński	depr:pl:nom:m2	nazwisko	
 Wyszyńskie	Wyszyński	depr:pl:voc:m2	nazwisko	
 Wyszyńskimi	Wyszyński	subst:pl:inst:m1	nazwisko	

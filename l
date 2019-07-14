@@ -4,6 +4,8 @@ ludzi	człowiek	subst:pl:acc:m1	nazwa pospolita
 ludzi	człowiek	subst:pl:acc:m1	nazwa pospolita	daw.
 ludzi	człowiek	subst:pl:gen:m1	nazwa pospolita	
 ludzi	człowiek	subst:pl:gen:m1	nazwa pospolita	daw.
+ludzie	człowiek	depr:pl:acc:m2	nazwa pospolita	
+ludzie	człowiek	depr:pl:acc:m2	nazwa pospolita	daw.
 ludzie	człowiek	depr:pl:nom:m2	nazwa pospolita	
 ludzie	człowiek	depr:pl:nom:m2	nazwa pospolita	daw.
 ludzie	człowiek	depr:pl:voc:m2	nazwa pospolita	
@@ -714,6 +716,7 @@ laborantom	laborant	subst:pl:dat:m1	nazwa pospolita
 laborantowi	laborant	subst:sg:dat:m1	nazwa pospolita	
 laborantów	laborant	subst:pl:acc:m1	nazwa pospolita	
 laborantów	laborant	subst:pl:gen:m1	nazwa pospolita	
+laboranty	laborant	depr:pl:acc:m2	nazwa pospolita	
 laboranty	laborant	depr:pl:nom:m2	nazwa pospolita	
 laboranty	laborant	depr:pl:voc:m2	nazwa pospolita	
 laborantce	laborantka	subst:sg:dat:f	nazwa pospolita	
@@ -806,6 +809,7 @@ labourzysto	labourzysta	subst:sg:voc:m1	nazwa pospolita
 labourzystom	labourzysta	subst:pl:dat:m1	nazwa pospolita	
 labourzystów	labourzysta	subst:pl:acc:m1	nazwa pospolita	
 labourzystów	labourzysta	subst:pl:gen:m1	nazwa pospolita	
+labourzysty	labourzysta	depr:pl:acc:m2	nazwa pospolita	
 labourzysty	labourzysta	depr:pl:nom:m2	nazwa pospolita	
 labourzysty	labourzysta	depr:pl:voc:m2	nazwa pospolita	
 labourzysty	labourzysta	subst:sg:gen:m1	nazwa pospolita	
@@ -1024,6 +1028,7 @@ laburzysto	laburzysta	subst:sg:voc:m1	nazwa pospolita
 laburzystom	laburzysta	subst:pl:dat:m1	nazwa pospolita	
 laburzystów	laburzysta	subst:pl:acc:m1	nazwa pospolita	
 laburzystów	laburzysta	subst:pl:gen:m1	nazwa pospolita	
+laburzysty	laburzysta	depr:pl:acc:m2	nazwa pospolita	
 laburzysty	laburzysta	depr:pl:nom:m2	nazwa pospolita	
 laburzysty	laburzysta	depr:pl:voc:m2	nazwa pospolita	
 laburzysty	laburzysta	subst:sg:gen:m1	nazwa pospolita	
@@ -1089,6 +1094,7 @@ labusiach	labuś	subst:pl:loc:m1	nazwa pospolita	daw.
 labusia	labuś	subst:sg:acc:m1	nazwa pospolita	daw.
 labusia	labuś	subst:sg:gen:m1	nazwa pospolita	daw.
 labusiami	labuś	subst:pl:inst:m1	nazwa pospolita	daw.
+labusie	labuś	depr:pl:acc:m2	nazwa pospolita	daw.
 labusie	labuś	depr:pl:nom:m2	nazwa pospolita	daw.
 labusie	labuś	depr:pl:voc:m2	nazwa pospolita	daw.
 labusie	labuś	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -1209,6 +1215,7 @@ lachów	lach	subst:pl:acc:m1	nazwa pospolita	daw.
 lachów	lach	subst:pl:gen:m1	nazwa pospolita	daw.
 lachu	lach	subst:sg:loc:m1	nazwa pospolita	daw.
 lachu	lach	subst:sg:voc:m1	nazwa pospolita	daw.
+lachy	lach	depr:pl:acc:m2	nazwa pospolita	daw.
 lachy	lach	depr:pl:nom:m2	nazwa pospolita	daw.
 lachy	lach	depr:pl:voc:m2	nazwa pospolita	daw.
 lachach	lacha	subst:pl:loc:f	nazwa pospolita	
@@ -1452,6 +1459,7 @@ ladaco	ladaco:a	adj:sg:loc:m1.m2.m3.n:pos		przest.
 ladaco	ladaco:a	adj:sg:nom.voc:f:pos		przest.
 ladaco	ladaco:a	adj:sg:nom.voc:m1.m2.m3:pos		przest.
 ladaco	ladaco:a	adj:sg:nom.voc:n:pos		przest.
+ladaco	ladaco:s	depr:pl:acc:m2	nazwa pospolita	
 ladaco	ladaco:s	depr:pl:nom:m2	nazwa pospolita	
 ladaco	ladaco:s	depr:pl:voc:m2	nazwa pospolita	
 ladaco	ladaco:s	subst:pl:acc:m1	nazwa pospolita	
@@ -1544,6 +1552,8 @@ ladarza	ladarz	subst:sg:gen:m1	nazwa pospolita	daw.
 ladarza	ladarz	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
 ladarzami	ladarz	subst:pl:inst:m1	nazwa pospolita	daw.
 ladarzami	ladarz	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
+ladarze	ladarz	depr:pl:acc:m2	nazwa pospolita	daw.
+ladarze	ladarz	depr:pl:acc:m2	nazwa pospolita	daw.|rzad.
 ladarze	ladarz	depr:pl:nom:m2	nazwa pospolita	daw.
 ladarze	ladarz	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
 ladarze	ladarz	depr:pl:voc:m2	nazwa pospolita	daw.
@@ -1659,6 +1669,7 @@ ladrom	ladro	subst:pl:dat:m1	nazwa pospolita	indyw.
 ladrowi	ladro	subst:sg:dat:m1	nazwa pospolita	indyw.
 ladrów	ladro	subst:pl:acc:m1	nazwa pospolita	indyw.
 ladrów	ladro	subst:pl:gen:m1	nazwa pospolita	indyw.
+ladry	ladro	depr:pl:acc:m2	nazwa pospolita	indyw.
 ladry	ladro	depr:pl:nom:m2	nazwa pospolita	indyw.
 ladry	ladro	depr:pl:voc:m2	nazwa pospolita	indyw.
 ladrze	ladro	subst:sg:loc:m1	nazwa pospolita	indyw.
@@ -2017,6 +2028,7 @@ lagrowcach	lagrowiec	subst:pl:loc:m1	nazwa pospolita
 lagrowca	lagrowiec	subst:sg:acc:m1	nazwa pospolita	
 lagrowca	lagrowiec	subst:sg:gen:m1	nazwa pospolita	
 lagrowcami	lagrowiec	subst:pl:inst:m1	nazwa pospolita	
+lagrowce	lagrowiec	depr:pl:acc:m2	nazwa pospolita	
 lagrowce	lagrowiec	depr:pl:nom:m2	nazwa pospolita	
 lagrowce	lagrowiec	depr:pl:voc:m2	nazwa pospolita	
 lagrowcem	lagrowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -2352,6 +2364,7 @@ laika	laik	subst:sg:acc:m1	nazwa pospolita
 laika	laik	subst:sg:gen:m1	nazwa pospolita	
 laikami	laik	subst:pl:inst:m1	nazwa pospolita	
 laikiem	laik	subst:sg:inst:m1	nazwa pospolita	
+laiki	laik	depr:pl:acc:m2	nazwa pospolita	
 laiki	laik	depr:pl:nom:m2	nazwa pospolita	
 laiki	laik	depr:pl:voc:m2	nazwa pospolita	
 laik	laik	subst:sg:nom:m1	nazwa pospolita	
@@ -2519,6 +2532,7 @@ lajkonikami	lajkonik:s2	subst:pl:inst:m1	nazwa pospolita
 lajkonikami	lajkonik:s2	subst:pl:inst:m2	nazwa pospolita	
 lajkonikiem	lajkonik:s2	subst:sg:inst:m1	nazwa pospolita	
 lajkonikiem	lajkonik:s2	subst:sg:inst:m2	nazwa pospolita	
+lajkoniki	lajkonik:s2	depr:pl:acc:m2	nazwa pospolita	
 lajkoniki	lajkonik:s2	depr:pl:nom:m2	nazwa pospolita	
 lajkoniki	lajkonik:s2	depr:pl:voc:m2	nazwa pospolita	
 lajkoniki	lajkonik:s2	subst:pl:acc:m2	nazwa pospolita	
@@ -2817,6 +2831,7 @@ lakiernika	lakiernik	subst:sg:acc:m1	nazwa pospolita
 lakiernika	lakiernik	subst:sg:gen:m1	nazwa pospolita	
 lakiernikami	lakiernik	subst:pl:inst:m1	nazwa pospolita	
 lakiernikiem	lakiernik	subst:sg:inst:m1	nazwa pospolita	
+lakierniki	lakiernik	depr:pl:acc:m2	nazwa pospolita	
 lakierniki	lakiernik	depr:pl:nom:m2	nazwa pospolita	
 lakierniki	lakiernik	depr:pl:voc:m2	nazwa pospolita	
 lakiernik	lakiernik	subst:sg:nom:m1	nazwa pospolita	
@@ -2976,6 +2991,7 @@ lakisto	lakista	subst:sg:voc:m1	nazwa pospolita
 lakistom	lakista	subst:pl:dat:m1	nazwa pospolita	
 lakistów	lakista	subst:pl:acc:m1	nazwa pospolita	
 lakistów	lakista	subst:pl:gen:m1	nazwa pospolita	
+lakisty	lakista	depr:pl:acc:m2	nazwa pospolita	
 lakisty	lakista	depr:pl:nom:m2	nazwa pospolita	
 lakisty	lakista	depr:pl:voc:m2	nazwa pospolita	
 lakisty	lakista	subst:sg:gen:m1	nazwa pospolita	
@@ -3574,6 +3590,7 @@ laktoowowegetarian	laktoowowegetarianin	subst:pl:gen:m1	nazwa pospolita
 laktoowowegetarianom	laktoowowegetarianin	subst:pl:dat:m1	nazwa pospolita	
 laktoowowegetarianów	laktoowowegetarianin	subst:pl:acc:m1	nazwa pospolita	
 laktoowowegetarianów	laktoowowegetarianin	subst:pl:gen:m1	nazwa pospolita	
+laktoowowegetariany	laktoowowegetarianin	depr:pl:acc:m2	nazwa pospolita	
 laktoowowegetariany	laktoowowegetarianin	depr:pl:nom:m2	nazwa pospolita	
 laktoowowegetariany	laktoowowegetarianin	depr:pl:voc:m2	nazwa pospolita	
 laktoowowegetarianince	laktoowowegetarianinka	subst:sg:dat:f	nazwa pospolita	
@@ -3688,6 +3705,7 @@ laktowegetarian	laktowegetarianin	subst:pl:gen:m1	nazwa pospolita
 laktowegetarianom	laktowegetarianin	subst:pl:dat:m1	nazwa pospolita	
 laktowegetarianów	laktowegetarianin	subst:pl:acc:m1	nazwa pospolita	
 laktowegetarianów	laktowegetarianin	subst:pl:gen:m1	nazwa pospolita	
+laktowegetariany	laktowegetarianin	depr:pl:acc:m2	nazwa pospolita	
 laktowegetariany	laktowegetarianin	depr:pl:nom:m2	nazwa pospolita	
 laktowegetariany	laktowegetarianin	depr:pl:voc:m2	nazwa pospolita	
 laktowegetarianince	laktowegetarianinka	subst:sg:dat:f	nazwa pospolita	
@@ -4011,6 +4029,8 @@ lalkarza	lalkarz	subst:sg:gen:m1	nazwa pospolita
 lalkarza	lalkarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 lalkarzami	lalkarz	subst:pl:inst:m1	nazwa pospolita	
 lalkarzami	lalkarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+lalkarze	lalkarz	depr:pl:acc:m2	nazwa pospolita	
+lalkarze	lalkarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 lalkarze	lalkarz	depr:pl:nom:m2	nazwa pospolita	
 lalkarze	lalkarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 lalkarze	lalkarz	depr:pl:voc:m2	nazwa pospolita	
@@ -4078,6 +4098,7 @@ lalkowcach	lalkowiec	subst:pl:loc:m1	nazwa pospolita
 lalkowca	lalkowiec	subst:sg:acc:m1	nazwa pospolita	
 lalkowca	lalkowiec	subst:sg:gen:m1	nazwa pospolita	
 lalkowcami	lalkowiec	subst:pl:inst:m1	nazwa pospolita	
+lalkowce	lalkowiec	depr:pl:acc:m2	nazwa pospolita	
 lalkowce	lalkowiec	depr:pl:nom:m2	nazwa pospolita	
 lalkowce	lalkowiec	depr:pl:voc:m2	nazwa pospolita	
 lalkowcem	lalkowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -4202,6 +4223,7 @@ lalusiach	laluś	subst:pl:loc:m1	nazwa pospolita
 lalusia	laluś	subst:sg:acc:m1	nazwa pospolita	
 lalusia	laluś	subst:sg:gen:m1	nazwa pospolita	
 lalusiami	laluś	subst:pl:inst:m1	nazwa pospolita	
+lalusie	laluś	depr:pl:acc:m2	nazwa pospolita	
 lalusie	laluś	depr:pl:nom:m2	nazwa pospolita	
 lalusie	laluś	depr:pl:voc:m2	nazwa pospolita	
 lalusie	laluś	subst:pl:nom:m1	nazwa pospolita	
@@ -4263,6 +4285,7 @@ lamaisto	lamaista	subst:sg:voc:m1	nazwa pospolita
 lamaistom	lamaista	subst:pl:dat:m1	nazwa pospolita	
 lamaistów	lamaista	subst:pl:acc:m1	nazwa pospolita	
 lamaistów	lamaista	subst:pl:gen:m1	nazwa pospolita	
+lamaisty	lamaista	depr:pl:acc:m2	nazwa pospolita	
 lamaisty	lamaista	depr:pl:nom:m2	nazwa pospolita	
 lamaisty	lamaista	depr:pl:voc:m2	nazwa pospolita	
 lamaisty	lamaista	subst:sg:gen:m1	nazwa pospolita	
@@ -4321,6 +4344,7 @@ lamaito	lamaita	subst:sg:voc:m1	nazwa pospolita
 lamaitom	lamaita	subst:pl:dat:m1	nazwa pospolita	
 lamaitów	lamaita	subst:pl:acc:m1	nazwa pospolita	
 lamaitów	lamaita	subst:pl:gen:m1	nazwa pospolita	
+lamaity	lamaita	depr:pl:acc:m2	nazwa pospolita	
 lamaity	lamaita	depr:pl:nom:m2	nazwa pospolita	
 lamaity	lamaita	depr:pl:voc:m2	nazwa pospolita	
 lamaity	lamaita	subst:sg:gen:m1	nazwa pospolita	
@@ -4433,6 +4457,7 @@ lamowie	lama:s3	subst:pl:nom:m1	nazwa pospolita	rel.
 lamowie	lama:s3	subst:pl:voc:m1	nazwa pospolita	rel.
 lamów	lama:s3	subst:pl:acc:m1	nazwa pospolita	rel.
 lamów	lama:s3	subst:pl:gen:m1	nazwa pospolita	rel.
+lamy	lama:s3	depr:pl:acc:m2	nazwa pospolita	rel.
 lamy	lama:s3	depr:pl:nom:m2	nazwa pospolita	rel.
 lamy	lama:s3	depr:pl:voc:m2	nazwa pospolita	rel.
 lamy	lama:s3	subst:sg:gen:m1	nazwa pospolita	rel.
@@ -4980,6 +5005,7 @@ lamerom	lamer	subst:pl:dat:m1	nazwa pospolita
 lamerowi	lamer	subst:sg:dat:m1	nazwa pospolita	
 lamerów	lamer	subst:pl:acc:m1	nazwa pospolita	
 lamerów	lamer	subst:pl:gen:m1	nazwa pospolita	
+lamery	lamer	depr:pl:acc:m2	nazwa pospolita	
 lamery	lamer	depr:pl:nom:m2	nazwa pospolita	
 lamery	lamer	depr:pl:voc:m2	nazwa pospolita	
 lamerze	lamer	subst:sg:loc:m1	nazwa pospolita	
@@ -5739,6 +5765,7 @@ lampartowie	lampart:s2	subst:pl:voc:m1	nazwa pospolita	przest.
 lampartowi	lampart:s2	subst:sg:dat:m1	nazwa pospolita	przest.
 lampartów	lampart:s2	subst:pl:acc:m1	nazwa pospolita	przest.
 lampartów	lampart:s2	subst:pl:gen:m1	nazwa pospolita	przest.
+lamparty	lampart:s2	depr:pl:acc:m2	nazwa pospolita	przest.
 lamparty	lampart:s2	depr:pl:nom:m2	nazwa pospolita	przest.
 lamparty	lampart:s2	depr:pl:voc:m2	nazwa pospolita	przest.
 lampasach	lampas	subst:pl:loc:m3	nazwa pospolita	
@@ -5861,6 +5888,8 @@ lampiarza	lampiarz	subst:sg:gen:m1	nazwa pospolita
 lampiarza	lampiarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 lampiarzami	lampiarz	subst:pl:inst:m1	nazwa pospolita	
 lampiarzami	lampiarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+lampiarze	lampiarz	depr:pl:acc:m2	nazwa pospolita	
+lampiarze	lampiarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 lampiarze	lampiarz	depr:pl:nom:m2	nazwa pospolita	
 lampiarze	lampiarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 lampiarze	lampiarz	depr:pl:voc:m2	nazwa pospolita	
@@ -6102,6 +6131,7 @@ lamusom	lamus:s2	subst:pl:dat:m1	nazwa pospolita	pot.
 lamusowi	lamus:s2	subst:sg:dat:m1	nazwa pospolita	pot.
 lamusów	lamus:s2	subst:pl:acc:m1	nazwa pospolita	pot.
 lamusów	lamus:s2	subst:pl:gen:m1	nazwa pospolita	pot.
+lamusy	lamus:s2	depr:pl:acc:m2	nazwa pospolita	pot.
 lamusy	lamus:s2	depr:pl:nom:m2	nazwa pospolita	pot.
 lamusy	lamus:s2	depr:pl:voc:m2	nazwa pospolita	pot.
 lanametrach	lanametr	subst:pl:loc:m3	nazwa pospolita	
@@ -6241,6 +6271,7 @@ lancknechtom	lancknecht	subst:pl:dat:m1	nazwa pospolita
 lancknechtowi	lancknecht	subst:sg:dat:m1	nazwa pospolita	
 lancknechtów	lancknecht	subst:pl:acc:m1	nazwa pospolita	
 lancknechtów	lancknecht	subst:pl:gen:m1	nazwa pospolita	
+lancknechty	lancknecht	depr:pl:acc:m2	nazwa pospolita	
 lancknechty	lancknecht	depr:pl:nom:m2	nazwa pospolita	
 lancknechty	lancknecht	depr:pl:voc:m2	nazwa pospolita	
 lanckorońscy	lanckoroński	adj:pl:nom.voc:m1:pos		
@@ -6325,6 +6356,7 @@ lancusiach	lancuś	subst:pl:loc:m1	nazwa pospolita	przest.|żart.
 lancusia	lancuś	subst:sg:acc:m1	nazwa pospolita	przest.|żart.
 lancusia	lancuś	subst:sg:gen:m1	nazwa pospolita	przest.|żart.
 lancusiami	lancuś	subst:pl:inst:m1	nazwa pospolita	przest.|żart.
+lancusie	lancuś	depr:pl:acc:m2	nazwa pospolita	przest.|żart.
 lancusie	lancuś	depr:pl:nom:m2	nazwa pospolita	przest.|żart.
 lancusie	lancuś	depr:pl:voc:m2	nazwa pospolita	przest.|żart.
 lancusie	lancuś	subst:pl:nom:m1	nazwa pospolita	przest.|żart.
@@ -6393,6 +6425,7 @@ landgrafowie	landgraf	subst:pl:voc:m1	nazwa pospolita
 landgrafowi	landgraf	subst:sg:dat:m1	nazwa pospolita	
 landgrafów	landgraf	subst:pl:acc:m1	nazwa pospolita	
 landgrafów	landgraf	subst:pl:gen:m1	nazwa pospolita	
+landgrafy	landgraf	depr:pl:acc:m2	nazwa pospolita	
 landgrafy	landgraf	depr:pl:nom:m2	nazwa pospolita	
 landgrafy	landgraf	depr:pl:voc:m2	nazwa pospolita	
 ländlerach	ländler	subst:pl:loc:m2	nazwa pospolita	
@@ -6504,6 +6537,7 @@ landratom	landrat	subst:pl:dat:m1	nazwa pospolita
 landratowi	landrat	subst:sg:dat:m1	nazwa pospolita	
 landratów	landrat	subst:pl:acc:m1	nazwa pospolita	
 landratów	landrat	subst:pl:gen:m1	nazwa pospolita	
+landraty	landrat	depr:pl:acc:m2	nazwa pospolita	
 landraty	landrat	depr:pl:nom:m2	nazwa pospolita	
 landraty	landrat	depr:pl:voc:m2	nazwa pospolita	
 landratowościach	landratowość	subst:pl:loc:f	nazwa pospolita	
@@ -6721,6 +6755,7 @@ landsknechcika	landsknechcik	subst:sg:acc:m1	nazwa pospolita	daw.
 landsknechcika	landsknechcik	subst:sg:gen:m1	nazwa pospolita	daw.
 landsknechcikami	landsknechcik	subst:pl:inst:m1	nazwa pospolita	daw.
 landsknechcikiem	landsknechcik	subst:sg:inst:m1	nazwa pospolita	daw.
+landsknechciki	landsknechcik	depr:pl:acc:m2	nazwa pospolita	daw.
 landsknechciki	landsknechcik	depr:pl:nom:m2	nazwa pospolita	daw.
 landsknechciki	landsknechcik	depr:pl:voc:m2	nazwa pospolita	daw.
 landsknechcik	landsknechcik	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -6746,6 +6781,7 @@ landsknechtom	landsknecht	subst:pl:dat:m1	nazwa pospolita
 landsknechtowi	landsknecht	subst:sg:dat:m1	nazwa pospolita	
 landsknechtów	landsknecht	subst:pl:acc:m1	nazwa pospolita	
 landsknechtów	landsknecht	subst:pl:gen:m1	nazwa pospolita	
+landsknechty	landsknecht	depr:pl:acc:m2	nazwa pospolita	
 landsknechty	landsknecht	depr:pl:nom:m2	nazwa pospolita	
 landsknechty	landsknecht	depr:pl:voc:m2	nazwa pospolita	
 landszafcikach	landszafcik	subst:pl:loc:m3	nazwa pospolita	
@@ -6851,6 +6887,7 @@ landszturmisto	landszturmista	subst:sg:voc:m1	nazwa pospolita	hist.
 landszturmistom	landszturmista	subst:pl:dat:m1	nazwa pospolita	hist.
 landszturmistów	landszturmista	subst:pl:acc:m1	nazwa pospolita	hist.
 landszturmistów	landszturmista	subst:pl:gen:m1	nazwa pospolita	hist.
+landszturmisty	landszturmista	depr:pl:acc:m2	nazwa pospolita	hist.
 landszturmisty	landszturmista	depr:pl:nom:m2	nazwa pospolita	hist.
 landszturmisty	landszturmista	depr:pl:voc:m2	nazwa pospolita	hist.
 landszturmisty	landszturmista	subst:sg:gen:m1	nazwa pospolita	hist.
@@ -6895,6 +6932,7 @@ landwerysto	landwerysta	subst:sg:voc:m1	nazwa pospolita
 landwerystom	landwerysta	subst:pl:dat:m1	nazwa pospolita	
 landwerystów	landwerysta	subst:pl:acc:m1	nazwa pospolita	
 landwerystów	landwerysta	subst:pl:gen:m1	nazwa pospolita	
+landwerysty	landwerysta	depr:pl:acc:m2	nazwa pospolita	
 landwerysty	landwerysta	depr:pl:nom:m2	nazwa pospolita	
 landwerysty	landwerysta	depr:pl:voc:m2	nazwa pospolita	
 landwerysty	landwerysta	subst:sg:gen:m1	nazwa pospolita	
@@ -6911,6 +6949,7 @@ landwerzysto	landwerzysta	subst:sg:voc:m1	nazwa pospolita
 landwerzystom	landwerzysta	subst:pl:dat:m1	nazwa pospolita	
 landwerzystów	landwerzysta	subst:pl:acc:m1	nazwa pospolita	
 landwerzystów	landwerzysta	subst:pl:gen:m1	nazwa pospolita	
+landwerzysty	landwerzysta	depr:pl:acc:m2	nazwa pospolita	
 landwerzysty	landwerzysta	depr:pl:nom:m2	nazwa pospolita	
 landwerzysty	landwerzysta	depr:pl:voc:m2	nazwa pospolita	
 landwerzysty	landwerzysta	subst:sg:gen:m1	nazwa pospolita	
@@ -7044,6 +7083,7 @@ lanisto	lanista	subst:sg:voc:m1	nazwa pospolita
 lanistom	lanista	subst:pl:dat:m1	nazwa pospolita	
 lanistów	lanista	subst:pl:acc:m1	nazwa pospolita	
 lanistów	lanista	subst:pl:gen:m1	nazwa pospolita	
+lanisty	lanista	depr:pl:acc:m2	nazwa pospolita	
 lanisty	lanista	depr:pl:nom:m2	nazwa pospolita	
 lanisty	lanista	depr:pl:voc:m2	nazwa pospolita	
 lanisty	lanista	subst:sg:gen:m1	nazwa pospolita	
@@ -7318,6 +7358,7 @@ lanserom	lanser	subst:pl:dat:m1	nazwa pospolita	pot.
 lanserowi	lanser	subst:sg:dat:m1	nazwa pospolita	pot.
 lanserów	lanser	subst:pl:acc:m1	nazwa pospolita	pot.
 lanserów	lanser	subst:pl:gen:m1	nazwa pospolita	pot.
+lansery	lanser	depr:pl:acc:m2	nazwa pospolita	pot.
 lansery	lanser	depr:pl:nom:m2	nazwa pospolita	pot.
 lansery	lanser	depr:pl:voc:m2	nazwa pospolita	pot.
 lanserze	lanser	subst:sg:loc:m1	nazwa pospolita	pot.
@@ -7400,6 +7441,8 @@ lansiarza	lansiarz	subst:sg:gen:m1	nazwa pospolita	pot.
 lansiarza	lansiarz	subst:sg:gen:m1	nazwa pospolita	rzad.|pot.
 lansiarzami	lansiarz	subst:pl:inst:m1	nazwa pospolita	pot.
 lansiarzami	lansiarz	subst:pl:inst:m1	nazwa pospolita	rzad.|pot.
+lansiarze	lansiarz	depr:pl:acc:m2	nazwa pospolita	pot.
+lansiarze	lansiarz	depr:pl:acc:m2	nazwa pospolita	rzad.|pot.
 lansiarze	lansiarz	depr:pl:nom:m2	nazwa pospolita	pot.
 lansiarze	lansiarz	depr:pl:nom:m2	nazwa pospolita	rzad.|pot.
 lansiarze	lansiarz	depr:pl:voc:m2	nazwa pospolita	pot.
@@ -7434,6 +7477,7 @@ lansjerom	lansjer:s1	subst:pl:dat:m1	nazwa pospolita
 lansjerowi	lansjer:s1	subst:sg:dat:m1	nazwa pospolita	
 lansjerów	lansjer:s1	subst:pl:acc:m1	nazwa pospolita	
 lansjerów	lansjer:s1	subst:pl:gen:m1	nazwa pospolita	
+lansjery	lansjer:s1	depr:pl:acc:m2	nazwa pospolita	
 lansjery	lansjer:s1	depr:pl:nom:m2	nazwa pospolita	
 lansjery	lansjer:s1	depr:pl:voc:m2	nazwa pospolita	
 lansjerze	lansjer:s1	subst:sg:loc:m1	nazwa pospolita	
@@ -8224,6 +8268,7 @@ laponoidom	laponoid	subst:pl:dat:m1	nazwa pospolita
 laponoidowi	laponoid	subst:sg:dat:m1	nazwa pospolita	
 laponoidów	laponoid	subst:pl:acc:m1	nazwa pospolita	
 laponoidów	laponoid	subst:pl:gen:m1	nazwa pospolita	
+laponoidy	laponoid	depr:pl:acc:m2	nazwa pospolita	
 laponoidy	laponoid	depr:pl:nom:m2	nazwa pospolita	
 laponoidy	laponoid	depr:pl:voc:m2	nazwa pospolita	
 laponoidzie	laponoid	subst:sg:loc:m1	nazwa pospolita	
@@ -8712,6 +8757,7 @@ laryngologa	laryngolog	subst:sg:acc:m1	nazwa pospolita	med.
 laryngologa	laryngolog	subst:sg:gen:m1	nazwa pospolita	med.
 laryngologami	laryngolog	subst:pl:inst:m1	nazwa pospolita	med.
 laryngologiem	laryngolog	subst:sg:inst:m1	nazwa pospolita	med.
+laryngologi	laryngolog	depr:pl:acc:m2	nazwa pospolita	med.
 laryngologi	laryngolog	depr:pl:nom:m2	nazwa pospolita	med.
 laryngologi	laryngolog	depr:pl:voc:m2	nazwa pospolita	med.
 laryngolog	laryngolog	subst:sg:nom:m1	nazwa pospolita	med.
@@ -9266,6 +9312,8 @@ laskarza	laskarz	subst:sg:gen:m1	nazwa pospolita	rzad.|sport.
 laskarza	laskarz	subst:sg:gen:m1	nazwa pospolita	sport.
 laskarzami	laskarz	subst:pl:inst:m1	nazwa pospolita	rzad.|sport.
 laskarzami	laskarz	subst:pl:inst:m1	nazwa pospolita	sport.
+laskarze	laskarz	depr:pl:acc:m2	nazwa pospolita	rzad.|sport.
+laskarze	laskarz	depr:pl:acc:m2	nazwa pospolita	sport.
 laskarze	laskarz	depr:pl:nom:m2	nazwa pospolita	rzad.|sport.
 laskarze	laskarz	depr:pl:nom:m2	nazwa pospolita	sport.
 laskarze	laskarz	depr:pl:voc:m2	nazwa pospolita	rzad.|sport.
@@ -9723,6 +9771,7 @@ lasowaczach	lasowacz	subst:pl:loc:m1	nazwa pospolita
 lasowacza	lasowacz	subst:sg:acc:m1	nazwa pospolita	
 lasowacza	lasowacz	subst:sg:gen:m1	nazwa pospolita	
 lasowaczami	lasowacz	subst:pl:inst:m1	nazwa pospolita	
+lasowacze	lasowacz	depr:pl:acc:m2	nazwa pospolita	
 lasowacze	lasowacz	depr:pl:nom:m2	nazwa pospolita	
 lasowacze	lasowacz	depr:pl:voc:m2	nazwa pospolita	
 lasowacze	lasowacz	subst:pl:nom:m1	nazwa pospolita	
@@ -10064,6 +10113,8 @@ lastrykarza	lastrykarz	subst:sg:gen:m1	nazwa pospolita
 lastrykarza	lastrykarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 lastrykarzami	lastrykarz	subst:pl:inst:m1	nazwa pospolita	
 lastrykarzami	lastrykarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+lastrykarze	lastrykarz	depr:pl:acc:m2	nazwa pospolita	
+lastrykarze	lastrykarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 lastrykarze	lastrykarz	depr:pl:nom:m2	nazwa pospolita	
 lastrykarze	lastrykarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 lastrykarze	lastrykarz	depr:pl:voc:m2	nazwa pospolita	
@@ -10699,6 +10750,8 @@ latarniarza	latarniarz	subst:sg:gen:m1	nazwa pospolita	przest.
 latarniarza	latarniarz	subst:sg:gen:m1	nazwa pospolita	przest.|rzad.
 latarniarzami	latarniarz	subst:pl:inst:m1	nazwa pospolita	przest.
 latarniarzami	latarniarz	subst:pl:inst:m1	nazwa pospolita	przest.|rzad.
+latarniarze	latarniarz	depr:pl:acc:m2	nazwa pospolita	przest.
+latarniarze	latarniarz	depr:pl:acc:m2	nazwa pospolita	przest.|rzad.
 latarniarze	latarniarz	depr:pl:nom:m2	nazwa pospolita	przest.
 latarniarze	latarniarz	depr:pl:nom:m2	nazwa pospolita	przest.|rzad.
 latarniarze	latarniarz	depr:pl:voc:m2	nazwa pospolita	przest.
@@ -10730,6 +10783,7 @@ latarnika	latarnik	subst:sg:acc:m1	nazwa pospolita
 latarnika	latarnik	subst:sg:gen:m1	nazwa pospolita	
 latarnikami	latarnik	subst:pl:inst:m1	nazwa pospolita	
 latarnikiem	latarnik	subst:sg:inst:m1	nazwa pospolita	
+latarniki	latarnik	depr:pl:acc:m2	nazwa pospolita	
 latarniki	latarnik	depr:pl:nom:m2	nazwa pospolita	
 latarniki	latarnik	depr:pl:voc:m2	nazwa pospolita	
 latarnik	latarnik	subst:sg:nom:m1	nazwa pospolita	
@@ -10889,6 +10943,7 @@ latawcach	latawiec:s2	subst:pl:loc:m1	nazwa pospolita	pot.
 latawca	latawiec:s2	subst:sg:acc:m1	nazwa pospolita	pot.
 latawca	latawiec:s2	subst:sg:gen:m1	nazwa pospolita	pot.
 latawcami	latawiec:s2	subst:pl:inst:m1	nazwa pospolita	pot.
+latawce	latawiec:s2	depr:pl:acc:m2	nazwa pospolita	pot.
 latawce	latawiec:s2	depr:pl:nom:m2	nazwa pospolita	pot.
 latawce	latawiec:s2	depr:pl:voc:m2	nazwa pospolita	pot.
 latawcem	latawiec:s2	subst:sg:inst:m1	nazwa pospolita	pot.
@@ -11370,6 +11425,8 @@ latopisarza	latopisarz	subst:sg:gen:m1	nazwa pospolita
 latopisarza	latopisarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 latopisarzami	latopisarz	subst:pl:inst:m1	nazwa pospolita	
 latopisarzami	latopisarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+latopisarze	latopisarz	depr:pl:acc:m2	nazwa pospolita	
+latopisarze	latopisarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 latopisarze	latopisarz	depr:pl:nom:m2	nazwa pospolita	
 latopisarze	latopisarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 latopisarze	latopisarz	depr:pl:voc:m2	nazwa pospolita	
@@ -11398,6 +11455,7 @@ latopiscach	latopisiec	subst:pl:loc:m1	nazwa pospolita	daw.
 latopisca	latopisiec	subst:sg:acc:m1	nazwa pospolita	daw.
 latopisca	latopisiec	subst:sg:gen:m1	nazwa pospolita	daw.
 latopiscami	latopisiec	subst:pl:inst:m1	nazwa pospolita	daw.
+latopisce	latopisiec	depr:pl:acc:m2	nazwa pospolita	daw.
 latopisce	latopisiec	depr:pl:nom:m2	nazwa pospolita	daw.
 latopisce	latopisiec	depr:pl:voc:m2	nazwa pospolita	daw.
 latopiscem	latopisiec	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -11490,6 +11548,7 @@ latopisowie	latopis:s1	subst:pl:voc:m1	nazwa pospolita
 latopisowi	latopis:s1	subst:sg:dat:m1	nazwa pospolita	
 latopisów	latopis:s1	subst:pl:acc:m1	nazwa pospolita	
 latopisów	latopis:s1	subst:pl:gen:m1	nazwa pospolita	
+latopisy	latopis:s1	depr:pl:acc:m2	nazwa pospolita	
 latopisy	latopis:s1	depr:pl:nom:m2	nazwa pospolita	
 latopisy	latopis:s1	depr:pl:voc:m2	nazwa pospolita	
 latopisach	latopis:s2	subst:pl:loc:m3	nazwa pospolita	
@@ -11851,6 +11910,7 @@ latyfundysto	latyfundysta	subst:sg:voc:m1	nazwa pospolita
 latyfundystom	latyfundysta	subst:pl:dat:m1	nazwa pospolita	
 latyfundystów	latyfundysta	subst:pl:acc:m1	nazwa pospolita	
 latyfundystów	latyfundysta	subst:pl:gen:m1	nazwa pospolita	
+latyfundysty	latyfundysta	depr:pl:acc:m2	nazwa pospolita	
 latyfundysty	latyfundysta	depr:pl:nom:m2	nazwa pospolita	
 latyfundysty	latyfundysta	depr:pl:voc:m2	nazwa pospolita	
 latyfundysty	latyfundysta	subst:sg:gen:m1	nazwa pospolita	
@@ -11867,6 +11927,7 @@ latynisto	latynista	subst:sg:voc:m1	nazwa pospolita
 latynistom	latynista	subst:pl:dat:m1	nazwa pospolita	
 latynistów	latynista	subst:pl:acc:m1	nazwa pospolita	
 latynistów	latynista	subst:pl:gen:m1	nazwa pospolita	
+latynisty	latynista	depr:pl:acc:m2	nazwa pospolita	
 latynisty	latynista	depr:pl:nom:m2	nazwa pospolita	
 latynisty	latynista	depr:pl:voc:m2	nazwa pospolita	
 latynisty	latynista	subst:sg:gen:m1	nazwa pospolita	
@@ -11966,6 +12027,7 @@ latynizatorom	latynizator	subst:pl:dat:m1	nazwa pospolita
 latynizatorowi	latynizator	subst:sg:dat:m1	nazwa pospolita	
 latynizatorów	latynizator	subst:pl:acc:m1	nazwa pospolita	
 latynizatorów	latynizator	subst:pl:gen:m1	nazwa pospolita	
+latynizatory	latynizator	depr:pl:acc:m2	nazwa pospolita	
 latynizatory	latynizator	depr:pl:nom:m2	nazwa pospolita	
 latynizatory	latynizator	depr:pl:voc:m2	nazwa pospolita	
 latynizatorze	latynizator	subst:sg:loc:m1	nazwa pospolita	
@@ -12402,6 +12464,7 @@ laudatorom	laudator	subst:pl:dat:m1	nazwa pospolita
 laudatorowi	laudator	subst:sg:dat:m1	nazwa pospolita	
 laudatorów	laudator	subst:pl:acc:m1	nazwa pospolita	
 laudatorów	laudator	subst:pl:gen:m1	nazwa pospolita	
+laudatory	laudator	depr:pl:acc:m2	nazwa pospolita	
 laudatory	laudator	depr:pl:nom:m2	nazwa pospolita	
 laudatory	laudator	depr:pl:voc:m2	nazwa pospolita	
 laudatorze	laudator	subst:sg:loc:m1	nazwa pospolita	
@@ -12438,6 +12501,7 @@ laudysto	laudysta	subst:sg:voc:m1	nazwa pospolita	daw.
 laudystom	laudysta	subst:pl:dat:m1	nazwa pospolita	daw.
 laudystów	laudysta	subst:pl:acc:m1	nazwa pospolita	daw.
 laudystów	laudysta	subst:pl:gen:m1	nazwa pospolita	daw.
+laudysty	laudysta	depr:pl:acc:m2	nazwa pospolita	daw.
 laudysty	laudysta	depr:pl:nom:m2	nazwa pospolita	daw.
 laudysty	laudysta	depr:pl:voc:m2	nazwa pospolita	daw.
 laudysty	laudysta	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -12471,6 +12535,7 @@ laufrowie	laufer:s2	subst:pl:voc:m1	nazwa pospolita	daw.
 laufrowi	laufer:s2	subst:sg:dat:m1	nazwa pospolita	daw.
 laufrów	laufer:s2	subst:pl:acc:m1	nazwa pospolita	daw.
 laufrów	laufer:s2	subst:pl:gen:m1	nazwa pospolita	daw.
+laufry	laufer:s2	depr:pl:acc:m2	nazwa pospolita	daw.
 laufry	laufer:s2	depr:pl:nom:m2	nazwa pospolita	daw.
 laufry	laufer:s2	depr:pl:voc:m2	nazwa pospolita	daw.
 laufrze	laufer:s2	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -12592,6 +12657,7 @@ laureatom	laureat	subst:pl:dat:m1	nazwa pospolita
 laureatowi	laureat	subst:sg:dat:m1	nazwa pospolita	
 laureatów	laureat	subst:pl:acc:m1	nazwa pospolita	
 laureatów	laureat	subst:pl:gen:m1	nazwa pospolita	
+laureaty	laureat	depr:pl:acc:m2	nazwa pospolita	
 laureaty	laureat	depr:pl:nom:m2	nazwa pospolita	
 laureaty	laureat	depr:pl:voc:m2	nazwa pospolita	
 laureatce	laureatka	subst:sg:dat:f	nazwa pospolita	
@@ -12781,6 +12847,8 @@ laweciarza	laweciarz	subst:sg:gen:m1	nazwa pospolita	pot.
 laweciarza	laweciarz	subst:sg:gen:m1	nazwa pospolita	rzad.|pot.
 laweciarzami	laweciarz	subst:pl:inst:m1	nazwa pospolita	pot.
 laweciarzami	laweciarz	subst:pl:inst:m1	nazwa pospolita	rzad.|pot.
+laweciarze	laweciarz	depr:pl:acc:m2	nazwa pospolita	pot.
+laweciarze	laweciarz	depr:pl:acc:m2	nazwa pospolita	rzad.|pot.
 laweciarze	laweciarz	depr:pl:nom:m2	nazwa pospolita	pot.
 laweciarze	laweciarz	depr:pl:nom:m2	nazwa pospolita	rzad.|pot.
 laweciarze	laweciarz	depr:pl:voc:m2	nazwa pospolita	pot.
@@ -13179,6 +13247,7 @@ lawirantom	lawirant	subst:pl:dat:m1	nazwa pospolita	pot.
 lawirantowi	lawirant	subst:sg:dat:m1	nazwa pospolita	pot.
 lawirantów	lawirant	subst:pl:acc:m1	nazwa pospolita	pot.
 lawirantów	lawirant	subst:pl:gen:m1	nazwa pospolita	pot.
+lawiranty	lawirant	depr:pl:acc:m2	nazwa pospolita	pot.
 lawiranty	lawirant	depr:pl:nom:m2	nazwa pospolita	pot.
 lawiranty	lawirant	depr:pl:voc:m2	nazwa pospolita	pot.
 lawirantce	lawirantka	subst:sg:dat:f	nazwa pospolita	
@@ -13519,6 +13588,7 @@ lazaronom	lazaron	subst:pl:dat:m1	nazwa pospolita
 lazaronowi	lazaron	subst:sg:dat:m1	nazwa pospolita	
 lazaronów	lazaron	subst:pl:acc:m1	nazwa pospolita	
 lazaronów	lazaron	subst:pl:gen:m1	nazwa pospolita	
+lazarony	lazaron	depr:pl:acc:m2	nazwa pospolita	
 lazarony	lazaron	depr:pl:nom:m2	nazwa pospolita	
 lazarony	lazaron	depr:pl:voc:m2	nazwa pospolita	
 lazarońscy	lazaroński	adj:pl:nom.voc:m1:pos		
@@ -13584,6 +13654,7 @@ lazarysto	lazarysta	subst:sg:voc:m1	nazwa pospolita
 lazarystom	lazarysta	subst:pl:dat:m1	nazwa pospolita	
 lazarystów	lazarysta	subst:pl:acc:m1	nazwa pospolita	
 lazarystów	lazarysta	subst:pl:gen:m1	nazwa pospolita	
+lazarysty	lazarysta	depr:pl:acc:m2	nazwa pospolita	
 lazarysty	lazarysta	depr:pl:nom:m2	nazwa pospolita	
 lazarysty	lazarysta	depr:pl:voc:m2	nazwa pospolita	
 lazarysty	lazarysta	subst:sg:gen:m1	nazwa pospolita	
@@ -14115,6 +14186,7 @@ lądowcach	lądowiec	subst:pl:loc:m1	nazwa pospolita
 lądowca	lądowiec	subst:sg:acc:m1	nazwa pospolita	
 lądowca	lądowiec	subst:sg:gen:m1	nazwa pospolita	
 lądowcami	lądowiec	subst:pl:inst:m1	nazwa pospolita	
+lądowce	lądowiec	depr:pl:acc:m2	nazwa pospolita	
 lądowce	lądowiec	depr:pl:nom:m2	nazwa pospolita	
 lądowce	lądowiec	depr:pl:voc:m2	nazwa pospolita	
 lądowcem	lądowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -14312,6 +14384,7 @@ leaderom	leader	subst:pl:dat:m1	nazwa pospolita
 leaderowi	leader	subst:sg:dat:m1	nazwa pospolita	
 leaderów	leader	subst:pl:acc:m1	nazwa pospolita	
 leaderów	leader	subst:pl:gen:m1	nazwa pospolita	
+leadery	leader	depr:pl:acc:m2	nazwa pospolita	
 leadery	leader	depr:pl:nom:m2	nazwa pospolita	
 leadery	leader	depr:pl:voc:m2	nazwa pospolita	
 leaderze	leader	subst:sg:loc:m1	nazwa pospolita	
@@ -14336,6 +14409,7 @@ leasingobiorcach	leasingobiorca	subst:pl:loc:m1	nazwa pospolita
 leasingobiorca	leasingobiorca	subst:sg:nom:m1	nazwa pospolita	
 leasingobiorcami	leasingobiorca	subst:pl:inst:m1	nazwa pospolita	
 leasingobiorcą	leasingobiorca	subst:sg:inst:m1	nazwa pospolita	
+leasingobiorce	leasingobiorca	depr:pl:acc:m2	nazwa pospolita	
 leasingobiorce	leasingobiorca	depr:pl:nom:m2	nazwa pospolita	
 leasingobiorce	leasingobiorca	depr:pl:voc:m2	nazwa pospolita	
 leasingobiorcę	leasingobiorca	subst:sg:acc:m1	nazwa pospolita	
@@ -14352,6 +14426,7 @@ leasingodawcach	leasingodawca	subst:pl:loc:m1	nazwa pospolita
 leasingodawca	leasingodawca	subst:sg:nom:m1	nazwa pospolita	
 leasingodawcami	leasingodawca	subst:pl:inst:m1	nazwa pospolita	
 leasingodawcą	leasingodawca	subst:sg:inst:m1	nazwa pospolita	
+leasingodawce	leasingodawca	depr:pl:acc:m2	nazwa pospolita	
 leasingodawce	leasingodawca	depr:pl:nom:m2	nazwa pospolita	
 leasingodawce	leasingodawca	depr:pl:voc:m2	nazwa pospolita	
 leasingodawcę	leasingodawca	subst:sg:acc:m1	nazwa pospolita	
@@ -14515,6 +14590,7 @@ lebiega	lebiega:s2	subst:sg:nom:m1	nazwa pospolita	pot.
 lebiegami	lebiega:s2	subst:pl:inst:m1	nazwa pospolita	pot.
 lebiegą	lebiega:s2	subst:sg:inst:m1	nazwa pospolita	pot.
 lebiegę	lebiega:s2	subst:sg:acc:m1	nazwa pospolita	pot.
+lebiegi	lebiega:s2	depr:pl:acc:m2	nazwa pospolita	pot.
 lebiegi	lebiega:s2	depr:pl:nom:m2	nazwa pospolita	pot.
 lebiegi	lebiega:s2	depr:pl:voc:m2	nazwa pospolita	pot.
 lebiegi	lebiega:s2	subst:sg:gen:m1	nazwa pospolita	pot.
@@ -14754,6 +14830,7 @@ lechisto	lechista	subst:sg:voc:m1	nazwa pospolita
 lechistom	lechista	subst:pl:dat:m1	nazwa pospolita	
 lechistów	lechista	subst:pl:acc:m1	nazwa pospolita	
 lechistów	lechista	subst:pl:gen:m1	nazwa pospolita	
+lechisty	lechista	depr:pl:acc:m2	nazwa pospolita	
 lechisty	lechista	depr:pl:nom:m2	nazwa pospolita	
 lechisty	lechista	depr:pl:voc:m2	nazwa pospolita	
 lechisty	lechista	subst:sg:gen:m1	nazwa pospolita	
@@ -15368,6 +15445,7 @@ lecznika	lecznik	subst:sg:acc:m1	nazwa pospolita	indyw.
 lecznika	lecznik	subst:sg:gen:m1	nazwa pospolita	indyw.
 lecznikami	lecznik	subst:pl:inst:m1	nazwa pospolita	indyw.
 lecznikiem	lecznik	subst:sg:inst:m1	nazwa pospolita	indyw.
+leczniki	lecznik	depr:pl:acc:m2	nazwa pospolita	indyw.
 leczniki	lecznik	depr:pl:nom:m2	nazwa pospolita	indyw.
 leczniki	lecznik	depr:pl:voc:m2	nazwa pospolita	indyw.
 lecznik	lecznik	subst:sg:nom:m1	nazwa pospolita	indyw.
@@ -15631,6 +15709,7 @@ lefebrysto	lefebrysta	subst:sg:voc:m1	nazwa pospolita
 lefebrystom	lefebrysta	subst:pl:dat:m1	nazwa pospolita	
 lefebrystów	lefebrysta	subst:pl:acc:m1	nazwa pospolita	
 lefebrystów	lefebrysta	subst:pl:gen:m1	nazwa pospolita	
+lefebrysty	lefebrysta	depr:pl:acc:m2	nazwa pospolita	
 lefebrysty	lefebrysta	depr:pl:nom:m2	nazwa pospolita	
 lefebrysty	lefebrysta	depr:pl:voc:m2	nazwa pospolita	
 lefebrysty	lefebrysta	subst:sg:gen:m1	nazwa pospolita	
@@ -15815,6 +15894,7 @@ legalisto	legalista	subst:sg:voc:m1	nazwa pospolita
 legalistom	legalista	subst:pl:dat:m1	nazwa pospolita	
 legalistów	legalista	subst:pl:acc:m1	nazwa pospolita	
 legalistów	legalista	subst:pl:gen:m1	nazwa pospolita	
+legalisty	legalista	depr:pl:acc:m2	nazwa pospolita	
 legalisty	legalista	depr:pl:nom:m2	nazwa pospolita	
 legalisty	legalista	depr:pl:voc:m2	nazwa pospolita	
 legalisty	legalista	subst:sg:gen:m1	nazwa pospolita	
@@ -15938,6 +16018,7 @@ legalizatorom	legalizator	subst:pl:dat:m1	nazwa pospolita
 legalizatorowi	legalizator	subst:sg:dat:m1	nazwa pospolita	
 legalizatorów	legalizator	subst:pl:acc:m1	nazwa pospolita	
 legalizatorów	legalizator	subst:pl:gen:m1	nazwa pospolita	
+legalizatory	legalizator	depr:pl:acc:m2	nazwa pospolita	
 legalizatory	legalizator	depr:pl:nom:m2	nazwa pospolita	
 legalizatory	legalizator	depr:pl:voc:m2	nazwa pospolita	
 legalizatorze	legalizator	subst:sg:loc:m1	nazwa pospolita	
@@ -16156,6 +16237,7 @@ legatariuszach	legatariusz	subst:pl:loc:m1	nazwa pospolita	przest.
 legatariusza	legatariusz	subst:sg:acc:m1	nazwa pospolita	przest.
 legatariusza	legatariusz	subst:sg:gen:m1	nazwa pospolita	przest.
 legatariuszami	legatariusz	subst:pl:inst:m1	nazwa pospolita	przest.
+legatariusze	legatariusz	depr:pl:acc:m2	nazwa pospolita	przest.
 legatariusze	legatariusz	depr:pl:nom:m2	nazwa pospolita	przest.
 legatariusze	legatariusz	depr:pl:voc:m2	nazwa pospolita	przest.
 legatariusze	legatariusz	subst:pl:nom:m1	nazwa pospolita	przest.
@@ -16207,6 +16289,7 @@ legatorowie	legator	subst:pl:voc:m1	nazwa pospolita	daw.
 legatorowi	legator	subst:sg:dat:m1	nazwa pospolita	daw.
 legatorów	legator	subst:pl:acc:m1	nazwa pospolita	daw.
 legatorów	legator	subst:pl:gen:m1	nazwa pospolita	daw.
+legatory	legator	depr:pl:acc:m2	nazwa pospolita	daw.
 legatory	legator	depr:pl:nom:m2	nazwa pospolita	daw.
 legatory	legator	depr:pl:voc:m2	nazwa pospolita	daw.
 legatorze	legator	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -16227,6 +16310,7 @@ legatom	legat:s1	subst:pl:dat:m1	nazwa pospolita
 legatowi	legat:s1	subst:sg:dat:m1	nazwa pospolita	
 legatów	legat:s1	subst:pl:acc:m1	nazwa pospolita	
 legatów	legat:s1	subst:pl:gen:m1	nazwa pospolita	
+legaty	legat:s1	depr:pl:acc:m2	nazwa pospolita	
 legaty	legat:s1	depr:pl:nom:m2	nazwa pospolita	
 legaty	legat:s1	depr:pl:voc:m2	nazwa pospolita	
 legacie	legat:s2	subst:sg:loc:m3	nazwa pospolita	
@@ -16370,6 +16454,8 @@ legendarza	legendarz	subst:sg:gen:m1	nazwa pospolita
 legendarza	legendarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 legendarzami	legendarz	subst:pl:inst:m1	nazwa pospolita	
 legendarzami	legendarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+legendarze	legendarz	depr:pl:acc:m2	nazwa pospolita	
+legendarze	legendarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 legendarze	legendarz	depr:pl:nom:m2	nazwa pospolita	
 legendarze	legendarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 legendarze	legendarz	depr:pl:voc:m2	nazwa pospolita	
@@ -16479,6 +16565,7 @@ legendysto	legendysta	subst:sg:voc:m1	nazwa pospolita	daw.
 legendystom	legendysta	subst:pl:dat:m1	nazwa pospolita	daw.
 legendystów	legendysta	subst:pl:acc:m1	nazwa pospolita	daw.
 legendystów	legendysta	subst:pl:gen:m1	nazwa pospolita	daw.
+legendysty	legendysta	depr:pl:acc:m2	nazwa pospolita	daw.
 legendysty	legendysta	depr:pl:nom:m2	nazwa pospolita	daw.
 legendysty	legendysta	depr:pl:voc:m2	nazwa pospolita	daw.
 legendysty	legendysta	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -16508,6 +16595,8 @@ legendziarza	legendziarz	subst:sg:gen:m1	nazwa pospolita
 legendziarza	legendziarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 legendziarzami	legendziarz	subst:pl:inst:m1	nazwa pospolita	
 legendziarzami	legendziarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+legendziarze	legendziarz	depr:pl:acc:m2	nazwa pospolita	
+legendziarze	legendziarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 legendziarze	legendziarz	depr:pl:nom:m2	nazwa pospolita	
 legendziarze	legendziarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 legendziarze	legendziarz	depr:pl:voc:m2	nazwa pospolita	
@@ -16541,6 +16630,7 @@ legendzisto	legendzista	subst:sg:voc:m1	nazwa pospolita	daw.
 legendzistom	legendzista	subst:pl:dat:m1	nazwa pospolita	daw.
 legendzistów	legendzista	subst:pl:acc:m1	nazwa pospolita	daw.
 legendzistów	legendzista	subst:pl:gen:m1	nazwa pospolita	daw.
+legendzisty	legendzista	depr:pl:acc:m2	nazwa pospolita	daw.
 legendzisty	legendzista	depr:pl:nom:m2	nazwa pospolita	daw.
 legendzisty	legendzista	depr:pl:voc:m2	nazwa pospolita	daw.
 legendzisty	legendzista	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -16607,6 +16697,7 @@ legionisto	legionista	subst:sg:voc:m1	nazwa pospolita
 legionistom	legionista	subst:pl:dat:m1	nazwa pospolita	
 legionistów	legionista	subst:pl:acc:m1	nazwa pospolita	
 legionistów	legionista	subst:pl:gen:m1	nazwa pospolita	
+legionisty	legionista	depr:pl:acc:m2	nazwa pospolita	
 legionisty	legionista	depr:pl:nom:m2	nazwa pospolita	
 legionisty	legionista	depr:pl:voc:m2	nazwa pospolita	
 legionisty	legionista	subst:sg:gen:m1	nazwa pospolita	
@@ -16756,6 +16847,7 @@ legislatorom	legislator	subst:pl:dat:m1	nazwa pospolita	daw.
 legislatorowi	legislator	subst:sg:dat:m1	nazwa pospolita	daw.
 legislatorów	legislator	subst:pl:acc:m1	nazwa pospolita	daw.
 legislatorów	legislator	subst:pl:gen:m1	nazwa pospolita	daw.
+legislatory	legislator	depr:pl:acc:m2	nazwa pospolita	daw.
 legislatory	legislator	depr:pl:nom:m2	nazwa pospolita	daw.
 legislatory	legislator	depr:pl:voc:m2	nazwa pospolita	daw.
 legislatorze	legislator	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -16837,6 +16929,7 @@ legisto	legista	subst:sg:voc:m1	nazwa pospolita	daw.
 legistom	legista	subst:pl:dat:m1	nazwa pospolita	daw.
 legistów	legista	subst:pl:acc:m1	nazwa pospolita	daw.
 legistów	legista	subst:pl:gen:m1	nazwa pospolita	daw.
+legisty	legista	depr:pl:acc:m2	nazwa pospolita	daw.
 legisty	legista	depr:pl:nom:m2	nazwa pospolita	daw.
 legisty	legista	depr:pl:voc:m2	nazwa pospolita	daw.
 legisty	legista	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -16920,6 +17013,7 @@ legitymisto	legitymista	subst:sg:voc:m1	nazwa pospolita
 legitymistom	legitymista	subst:pl:dat:m1	nazwa pospolita	
 legitymistów	legitymista	subst:pl:acc:m1	nazwa pospolita	
 legitymistów	legitymista	subst:pl:gen:m1	nazwa pospolita	
+legitymisty	legitymista	depr:pl:acc:m2	nazwa pospolita	
 legitymisty	legitymista	depr:pl:nom:m2	nazwa pospolita	
 legitymisty	legitymista	depr:pl:voc:m2	nazwa pospolita	
 legitymisty	legitymista	subst:sg:gen:m1	nazwa pospolita	
@@ -17597,6 +17691,7 @@ legulejach	legulej	subst:pl:loc:m1	nazwa pospolita	daw.
 leguleja	legulej	subst:sg:acc:m1	nazwa pospolita	daw.
 leguleja	legulej	subst:sg:gen:m1	nazwa pospolita	daw.
 legulejami	legulej	subst:pl:inst:m1	nazwa pospolita	daw.
+leguleje	legulej	depr:pl:acc:m2	nazwa pospolita	daw.
 leguleje	legulej	depr:pl:nom:m2	nazwa pospolita	daw.
 leguleje	legulej	depr:pl:voc:m2	nazwa pospolita	daw.
 leguleje	legulej	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -17651,6 +17746,7 @@ legunom	legun	subst:pl:dat:m1	nazwa pospolita
 legunowi	legun	subst:sg:dat:m1	nazwa pospolita	
 legunów	legun	subst:pl:acc:m1	nazwa pospolita	
 legunów	legun	subst:pl:gen:m1	nazwa pospolita	
+leguny	legun	depr:pl:acc:m2	nazwa pospolita	
 leguny	legun	depr:pl:nom:m2	nazwa pospolita	
 leguny	legun	depr:pl:voc:m2	nazwa pospolita	
 leguńscy	leguński	adj:pl:nom.voc:m1:pos		
@@ -17815,6 +17911,8 @@ lejarza	lejarz	subst:sg:gen:m1	nazwa pospolita
 lejarza	lejarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 lejarzami	lejarz	subst:pl:inst:m1	nazwa pospolita	
 lejarzami	lejarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+lejarze	lejarz	depr:pl:acc:m2	nazwa pospolita	
+lejarze	lejarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 lejarze	lejarz	depr:pl:nom:m2	nazwa pospolita	
 lejarze	lejarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 lejarze	lejarz	depr:pl:voc:m2	nazwa pospolita	
@@ -17860,6 +17958,7 @@ lejbchirurga	lejbchirurg	subst:sg:acc:m1	nazwa pospolita
 lejbchirurga	lejbchirurg	subst:sg:gen:m1	nazwa pospolita	
 lejbchirurgami	lejbchirurg	subst:pl:inst:m1	nazwa pospolita	
 lejbchirurgiem	lejbchirurg	subst:sg:inst:m1	nazwa pospolita	
+lejbchirurgi	lejbchirurg	depr:pl:acc:m2	nazwa pospolita	
 lejbchirurgi	lejbchirurg	depr:pl:nom:m2	nazwa pospolita	
 lejbchirurgi	lejbchirurg	depr:pl:voc:m2	nazwa pospolita	
 lejbchirurg	lejbchirurg	subst:sg:nom:m1	nazwa pospolita	
@@ -17895,6 +17994,7 @@ lejbgwardzisto	lejbgwardzista	subst:sg:voc:m1	nazwa pospolita
 lejbgwardzistom	lejbgwardzista	subst:pl:dat:m1	nazwa pospolita	
 lejbgwardzistów	lejbgwardzista	subst:pl:acc:m1	nazwa pospolita	
 lejbgwardzistów	lejbgwardzista	subst:pl:gen:m1	nazwa pospolita	
+lejbgwardzisty	lejbgwardzista	depr:pl:acc:m2	nazwa pospolita	
 lejbgwardzisty	lejbgwardzista	depr:pl:nom:m2	nazwa pospolita	
 lejbgwardzisty	lejbgwardzista	depr:pl:voc:m2	nazwa pospolita	
 lejbgwardzisty	lejbgwardzista	subst:sg:gen:m1	nazwa pospolita	
@@ -18059,6 +18159,8 @@ lejkarza	lejkarz	subst:sg:gen:m1	nazwa pospolita
 lejkarza	lejkarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 lejkarzami	lejkarz	subst:pl:inst:m1	nazwa pospolita	
 lejkarzami	lejkarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+lejkarze	lejkarz	depr:pl:acc:m2	nazwa pospolita	
+lejkarze	lejkarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 lejkarze	lejkarz	depr:pl:nom:m2	nazwa pospolita	
 lejkarze	lejkarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 lejkarze	lejkarz	depr:pl:voc:m2	nazwa pospolita	
@@ -18425,6 +18527,7 @@ lejtnantom	lejtnant	subst:pl:dat:m1	nazwa pospolita
 lejtnantowi	lejtnant	subst:sg:dat:m1	nazwa pospolita	
 lejtnantów	lejtnant	subst:pl:acc:m1	nazwa pospolita	
 lejtnantów	lejtnant	subst:pl:gen:m1	nazwa pospolita	
+lejtnanty	lejtnant	depr:pl:acc:m2	nazwa pospolita	
 lejtnanty	lejtnant	depr:pl:nom:m2	nazwa pospolita	
 lejtnanty	lejtnant	depr:pl:voc:m2	nazwa pospolita	
 lekarczykach	lekarczyk	subst:pl:loc:m1	nazwa pospolita	
@@ -18432,6 +18535,7 @@ lekarczyka	lekarczyk	subst:sg:acc:m1	nazwa pospolita
 lekarczyka	lekarczyk	subst:sg:gen:m1	nazwa pospolita	
 lekarczykami	lekarczyk	subst:pl:inst:m1	nazwa pospolita	
 lekarczykiem	lekarczyk	subst:sg:inst:m1	nazwa pospolita	
+lekarczyki	lekarczyk	depr:pl:acc:m2	nazwa pospolita	
 lekarczyki	lekarczyk	depr:pl:nom:m2	nazwa pospolita	
 lekarczyki	lekarczyk	depr:pl:voc:m2	nazwa pospolita	
 lekarczyk	lekarczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -18464,6 +18568,7 @@ lekarnika	lekarnik	subst:sg:acc:m1	nazwa pospolita	daw.
 lekarnika	lekarnik	subst:sg:gen:m1	nazwa pospolita	daw.
 lekarnikami	lekarnik	subst:pl:inst:m1	nazwa pospolita	daw.
 lekarnikiem	lekarnik	subst:sg:inst:m1	nazwa pospolita	daw.
+lekarniki	lekarnik	depr:pl:acc:m2	nazwa pospolita	daw.
 lekarniki	lekarnik	depr:pl:nom:m2	nazwa pospolita	daw.
 lekarniki	lekarnik	depr:pl:voc:m2	nazwa pospolita	daw.
 lekarnik	lekarnik	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -18573,6 +18678,8 @@ lekarza	lekarz	subst:sg:gen:m1	nazwa pospolita
 lekarza	lekarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 lekarzami	lekarz	subst:pl:inst:m1	nazwa pospolita	
 lekarzami	lekarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+lekarze	lekarz	depr:pl:acc:m2	nazwa pospolita	
+lekarze	lekarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 lekarze	lekarz	depr:pl:nom:m2	nazwa pospolita	
 lekarze	lekarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 lekarze	lekarz	depr:pl:voc:m2	nazwa pospolita	
@@ -18616,6 +18723,7 @@ lekarzyka	lekarzyk	subst:sg:acc:m1	nazwa pospolita
 lekarzyka	lekarzyk	subst:sg:gen:m1	nazwa pospolita	
 lekarzykami	lekarzyk	subst:pl:inst:m1	nazwa pospolita	
 lekarzykiem	lekarzyk	subst:sg:inst:m1	nazwa pospolita	
+lekarzyki	lekarzyk	depr:pl:acc:m2	nazwa pospolita	
 lekarzyki	lekarzyk	depr:pl:nom:m2	nazwa pospolita	
 lekarzyki	lekarzyk	depr:pl:voc:m2	nazwa pospolita	
 lekarzyk	lekarzyk	subst:sg:nom:m1	nazwa pospolita	
@@ -18640,6 +18748,7 @@ lekarzyno	lekarzyna	subst:sg:voc:m1	nazwa pospolita
 lekarzynom	lekarzyna	subst:pl:dat:m1	nazwa pospolita	
 lekarzynów	lekarzyna	subst:pl:acc:m1	nazwa pospolita	
 lekarzynów	lekarzyna	subst:pl:gen:m1	nazwa pospolita	
+lekarzyny	lekarzyna	depr:pl:acc:m2	nazwa pospolita	
 lekarzyny	lekarzyna	depr:pl:nom:m2	nazwa pospolita	
 lekarzyny	lekarzyna	depr:pl:voc:m2	nazwa pospolita	
 lekarzyny	lekarzyna	subst:sg:gen:m1	nazwa pospolita	
@@ -18930,6 +19039,7 @@ lekkoatleto	lekkoatleta	subst:sg:voc:m1	nazwa pospolita
 lekkoatletom	lekkoatleta	subst:pl:dat:m1	nazwa pospolita	
 lekkoatletów	lekkoatleta	subst:pl:acc:m1	nazwa pospolita	
 lekkoatletów	lekkoatleta	subst:pl:gen:m1	nazwa pospolita	
+lekkoatlety	lekkoatleta	depr:pl:acc:m2	nazwa pospolita	
 lekkoatlety	lekkoatleta	depr:pl:nom:m2	nazwa pospolita	
 lekkoatlety	lekkoatleta	depr:pl:voc:m2	nazwa pospolita	
 lekkoatlety	lekkoatleta	subst:sg:gen:m1	nazwa pospolita	
@@ -19051,6 +19161,7 @@ lekkoduchów	lekkoduch	subst:pl:acc:m1	nazwa pospolita
 lekkoduchów	lekkoduch	subst:pl:gen:m1	nazwa pospolita	
 lekkoduchu	lekkoduch	subst:sg:loc:m1	nazwa pospolita	
 lekkoduchu	lekkoduch	subst:sg:voc:m1	nazwa pospolita	
+lekkoduchy	lekkoduch	depr:pl:acc:m2	nazwa pospolita	
 lekkoduchy	lekkoduch	depr:pl:nom:m2	nazwa pospolita	
 lekkoduchy	lekkoduch	depr:pl:voc:m2	nazwa pospolita	
 lekkoduchostwach	lekkoduchostwo	subst:pl:loc:n:ncol	nazwa pospolita	
@@ -19148,6 +19259,7 @@ lekkomyślcach	lekkomyślec	subst:pl:loc:m1	nazwa pospolita	daw.
 lekkomyślca	lekkomyślec	subst:sg:acc:m1	nazwa pospolita	daw.
 lekkomyślca	lekkomyślec	subst:sg:gen:m1	nazwa pospolita	daw.
 lekkomyślcami	lekkomyślec	subst:pl:inst:m1	nazwa pospolita	daw.
+lekkomyślce	lekkomyślec	depr:pl:acc:m2	nazwa pospolita	daw.
 lekkomyślce	lekkomyślec	depr:pl:nom:m2	nazwa pospolita	daw.
 lekkomyślce	lekkomyślec	depr:pl:voc:m2	nazwa pospolita	daw.
 lekkomyślcem	lekkomyślec	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -19184,6 +19296,7 @@ lekkomyślnika	lekkomyślnik	subst:sg:acc:m1	nazwa pospolita	rzad.
 lekkomyślnika	lekkomyślnik	subst:sg:gen:m1	nazwa pospolita	rzad.
 lekkomyślnikami	lekkomyślnik	subst:pl:inst:m1	nazwa pospolita	rzad.
 lekkomyślnikiem	lekkomyślnik	subst:sg:inst:m1	nazwa pospolita	rzad.
+lekkomyślniki	lekkomyślnik	depr:pl:acc:m2	nazwa pospolita	rzad.
 lekkomyślniki	lekkomyślnik	depr:pl:nom:m2	nazwa pospolita	rzad.
 lekkomyślniki	lekkomyślnik	depr:pl:voc:m2	nazwa pospolita	rzad.
 lekkomyślnik	lekkomyślnik	subst:sg:nom:m1	nazwa pospolita	rzad.
@@ -19575,6 +19688,7 @@ lekkowiernym	lekkowierny:a	adj:sg:inst:m1.m2.m3.n:pos		daw.
 lekkowiernym	lekkowierny:a	adj:sg:loc:m1.m2.m3.n:pos		daw.
 lekkowiernego	lekkowierny:s	subst:sg:acc:m1	nazwa pospolita	daw.
 lekkowiernego	lekkowierny:s	subst:sg:gen:m1	nazwa pospolita	daw.
+lekkowierne	lekkowierny:s	depr:pl:acc:m2	nazwa pospolita	daw.
 lekkowierne	lekkowierny:s	depr:pl:nom:m2	nazwa pospolita	daw.
 lekkowierne	lekkowierny:s	depr:pl:voc:m2	nazwa pospolita	daw.
 lekkowiernemu	lekkowierny:s	subst:sg:dat:m1	nazwa pospolita	daw.
@@ -19787,6 +19901,7 @@ lekodziejach	lekodziej	subst:pl:loc:m1	nazwa pospolita	daw.
 lekodzieja	lekodziej	subst:sg:acc:m1	nazwa pospolita	daw.
 lekodzieja	lekodziej	subst:sg:gen:m1	nazwa pospolita	daw.
 lekodziejami	lekodziej	subst:pl:inst:m1	nazwa pospolita	daw.
+lekodzieje	lekodziej	depr:pl:acc:m2	nazwa pospolita	daw.
 lekodzieje	lekodziej	depr:pl:nom:m2	nazwa pospolita	daw.
 lekodzieje	lekodziej	depr:pl:voc:m2	nazwa pospolita	daw.
 lekodzieje	lekodziej	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -19813,6 +19928,7 @@ lekomanom	lekoman	subst:pl:dat:m1	nazwa pospolita
 lekomanowi	lekoman	subst:sg:dat:m1	nazwa pospolita	
 lekomanów	lekoman	subst:pl:acc:m1	nazwa pospolita	
 lekomanów	lekoman	subst:pl:gen:m1	nazwa pospolita	
+lekomany	lekoman	depr:pl:acc:m2	nazwa pospolita	
 lekomany	lekoman	depr:pl:nom:m2	nazwa pospolita	
 lekomany	lekoman	depr:pl:voc:m2	nazwa pospolita	
 lekomaniach	lekomania	subst:pl:loc:f	nazwa pospolita	
@@ -19975,6 +20091,7 @@ lekorobowie	lekorób	subst:pl:voc:m1	nazwa pospolita	daw.
 lekorobowi	lekorób	subst:sg:dat:m1	nazwa pospolita	daw.
 lekorobów	lekorób	subst:pl:acc:m1	nazwa pospolita	daw.
 lekorobów	lekorób	subst:pl:gen:m1	nazwa pospolita	daw.
+lekoroby	lekorób	depr:pl:acc:m2	nazwa pospolita	daw.
 lekoroby	lekorób	depr:pl:nom:m2	nazwa pospolita	daw.
 lekoroby	lekorób	depr:pl:voc:m2	nazwa pospolita	daw.
 lekorób	lekorób	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -20411,6 +20528,7 @@ leksykografowie	leksykograf	subst:pl:voc:m1	nazwa pospolita
 leksykografowi	leksykograf	subst:sg:dat:m1	nazwa pospolita	
 leksykografów	leksykograf	subst:pl:acc:m1	nazwa pospolita	
 leksykografów	leksykograf	subst:pl:gen:m1	nazwa pospolita	
+leksykografy	leksykograf	depr:pl:acc:m2	nazwa pospolita	
 leksykografy	leksykograf	depr:pl:nom:m2	nazwa pospolita	
 leksykografy	leksykograf	depr:pl:voc:m2	nazwa pospolita	
 leksykografiach	leksykografia	subst:pl:loc:f	nazwa pospolita	
@@ -20474,6 +20592,7 @@ leksykologa	leksykolog	subst:sg:acc:m1	nazwa pospolita
 leksykologa	leksykolog	subst:sg:gen:m1	nazwa pospolita	
 leksykologami	leksykolog	subst:pl:inst:m1	nazwa pospolita	
 leksykologiem	leksykolog	subst:sg:inst:m1	nazwa pospolita	
+leksykologi	leksykolog	depr:pl:acc:m2	nazwa pospolita	
 leksykologi	leksykolog	depr:pl:nom:m2	nazwa pospolita	
 leksykologi	leksykolog	depr:pl:voc:m2	nazwa pospolita	
 leksykolog	leksykolog	subst:sg:nom:m1	nazwa pospolita	
@@ -20687,6 +20806,7 @@ lektorom	lektor:s2	subst:pl:dat:m1	nazwa pospolita
 lektorowi	lektor:s2	subst:sg:dat:m1	nazwa pospolita	
 lektorów	lektor:s2	subst:pl:acc:m1	nazwa pospolita	
 lektorów	lektor:s2	subst:pl:gen:m1	nazwa pospolita	
+lektory	lektor:s2	depr:pl:acc:m2	nazwa pospolita	
 lektory	lektor:s2	depr:pl:nom:m2	nazwa pospolita	
 lektory	lektor:s2	depr:pl:voc:m2	nazwa pospolita	
 lektorze	lektor:s2	subst:sg:loc:m1	nazwa pospolita	
@@ -20803,6 +20923,7 @@ lektykariuszach	lektykariusz	subst:pl:loc:m1	nazwa pospolita	przest.
 lektykariusza	lektykariusz	subst:sg:acc:m1	nazwa pospolita	przest.
 lektykariusza	lektykariusz	subst:sg:gen:m1	nazwa pospolita	przest.
 lektykariuszami	lektykariusz	subst:pl:inst:m1	nazwa pospolita	przest.
+lektykariusze	lektykariusz	depr:pl:acc:m2	nazwa pospolita	przest.
 lektykariusze	lektykariusz	depr:pl:nom:m2	nazwa pospolita	przest.
 lektykariusze	lektykariusz	depr:pl:voc:m2	nazwa pospolita	przest.
 lektykariusze	lektykariusz	subst:pl:nom:m1	nazwa pospolita	przest.
@@ -20825,6 +20946,8 @@ lektykarza	lektykarz	subst:sg:gen:m1	nazwa pospolita	przest.
 lektykarza	lektykarz	subst:sg:gen:m1	nazwa pospolita	przest.|rzad.
 lektykarzami	lektykarz	subst:pl:inst:m1	nazwa pospolita	przest.
 lektykarzami	lektykarz	subst:pl:inst:m1	nazwa pospolita	przest.|rzad.
+lektykarze	lektykarz	depr:pl:acc:m2	nazwa pospolita	przest.
+lektykarze	lektykarz	depr:pl:acc:m2	nazwa pospolita	przest.|rzad.
 lektykarze	lektykarz	depr:pl:nom:m2	nazwa pospolita	przest.
 lektykarze	lektykarz	depr:pl:nom:m2	nazwa pospolita	przest.|rzad.
 lektykarze	lektykarz	depr:pl:voc:m2	nazwa pospolita	przest.
@@ -21236,6 +21359,7 @@ lemanom	leman	subst:pl:dat:m1	nazwa pospolita
 lemanowi	leman	subst:sg:dat:m1	nazwa pospolita	
 lemanów	leman	subst:pl:acc:m1	nazwa pospolita	
 lemanów	leman	subst:pl:gen:m1	nazwa pospolita	
+lemany	leman	depr:pl:acc:m2	nazwa pospolita	
 lemany	leman	depr:pl:nom:m2	nazwa pospolita	
 lemany	leman	depr:pl:voc:m2	nazwa pospolita	
 lemaństwach	lemaństwo	subst:pl:loc:n:ncol	nazwa pospolita	
@@ -21939,6 +22063,7 @@ leninowcach	leninowiec	subst:pl:loc:m1	nazwa pospolita
 leninowca	leninowiec	subst:sg:acc:m1	nazwa pospolita	
 leninowca	leninowiec	subst:sg:gen:m1	nazwa pospolita	
 leninowcami	leninowiec	subst:pl:inst:m1	nazwa pospolita	
+leninowce	leninowiec	depr:pl:acc:m2	nazwa pospolita	
 leninowce	leninowiec	depr:pl:nom:m2	nazwa pospolita	
 leninowce	leninowiec	depr:pl:voc:m2	nazwa pospolita	
 leninowcem	leninowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -22072,6 +22197,7 @@ leniuchów	leniuch	subst:pl:acc:m1	nazwa pospolita
 leniuchów	leniuch	subst:pl:gen:m1	nazwa pospolita	
 leniuchu	leniuch	subst:sg:loc:m1	nazwa pospolita	
 leniuchu	leniuch	subst:sg:voc:m1	nazwa pospolita	
+leniuchy	leniuch	depr:pl:acc:m2	nazwa pospolita	
 leniuchy	leniuch	depr:pl:nom:m2	nazwa pospolita	
 leniuchy	leniuch	depr:pl:voc:m2	nazwa pospolita	
 leniuchować	leniuchować	inf:imperf		
@@ -22191,6 +22317,7 @@ leniuszka	leniuszek	subst:sg:acc:m1	nazwa pospolita
 leniuszka	leniuszek	subst:sg:gen:m1	nazwa pospolita	
 leniuszkami	leniuszek	subst:pl:inst:m1	nazwa pospolita	
 leniuszkiem	leniuszek	subst:sg:inst:m1	nazwa pospolita	
+leniuszki	leniuszek	depr:pl:acc:m2	nazwa pospolita	
 leniuszki	leniuszek	depr:pl:nom:m2	nazwa pospolita	
 leniuszki	leniuszek	depr:pl:voc:m2	nazwa pospolita	
 leniuszkom	leniuszek	subst:pl:dat:m1	nazwa pospolita	
@@ -22294,6 +22421,7 @@ leniwcach	leniwiec:s2	subst:pl:loc:m1	nazwa pospolita
 leniwca	leniwiec:s2	subst:sg:acc:m1	nazwa pospolita	
 leniwca	leniwiec:s2	subst:sg:gen:m1	nazwa pospolita	
 leniwcami	leniwiec:s2	subst:pl:inst:m1	nazwa pospolita	
+leniwce	leniwiec:s2	depr:pl:acc:m2	nazwa pospolita	
 leniwce	leniwiec:s2	depr:pl:nom:m2	nazwa pospolita	
 leniwce	leniwiec:s2	depr:pl:voc:m2	nazwa pospolita	
 leniwcem	leniwiec:s2	subst:sg:inst:m1	nazwa pospolita	
@@ -22560,6 +22688,7 @@ lennika	lennik	subst:sg:acc:m1	nazwa pospolita
 lennika	lennik	subst:sg:gen:m1	nazwa pospolita	
 lennikami	lennik	subst:pl:inst:m1	nazwa pospolita	
 lennikiem	lennik	subst:sg:inst:m1	nazwa pospolita	
+lenniki	lennik	depr:pl:acc:m2	nazwa pospolita	
 lenniki	lennik	depr:pl:nom:m2	nazwa pospolita	
 lenniki	lennik	depr:pl:voc:m2	nazwa pospolita	
 lennik	lennik	subst:sg:nom:m1	nazwa pospolita	
@@ -22587,6 +22716,7 @@ lennodawcach	lennodawca	subst:pl:loc:m1	nazwa pospolita
 lennodawca	lennodawca	subst:sg:nom:m1	nazwa pospolita	
 lennodawcami	lennodawca	subst:pl:inst:m1	nazwa pospolita	
 lennodawcą	lennodawca	subst:sg:inst:m1	nazwa pospolita	
+lennodawce	lennodawca	depr:pl:acc:m2	nazwa pospolita	
 lennodawce	lennodawca	depr:pl:nom:m2	nazwa pospolita	
 lennodawce	lennodawca	depr:pl:voc:m2	nazwa pospolita	
 lennodawcę	lennodawca	subst:sg:acc:m1	nazwa pospolita	
@@ -22781,6 +22911,7 @@ leniach	leń	subst:pl:loc:m1	nazwa pospolita
 lenia	leń	subst:sg:acc:m1	nazwa pospolita	
 lenia	leń	subst:sg:gen:m1	nazwa pospolita	
 leniami	leń	subst:pl:inst:m1	nazwa pospolita	
+lenie	leń	depr:pl:acc:m2	nazwa pospolita	
 lenie	leń	depr:pl:nom:m2	nazwa pospolita	
 lenie	leń	depr:pl:voc:m2	nazwa pospolita	
 lenie	leń	subst:pl:nom:m1	nazwa pospolita	
@@ -23779,6 +23910,7 @@ leptosomatyka	leptosomatyk	subst:sg:acc:m1	nazwa pospolita
 leptosomatyka	leptosomatyk	subst:sg:gen:m1	nazwa pospolita	
 leptosomatykami	leptosomatyk	subst:pl:inst:m1	nazwa pospolita	
 leptosomatykiem	leptosomatyk	subst:sg:inst:m1	nazwa pospolita	
+leptosomatyki	leptosomatyk	depr:pl:acc:m2	nazwa pospolita	
 leptosomatyki	leptosomatyk	depr:pl:nom:m2	nazwa pospolita	
 leptosomatyki	leptosomatyk	depr:pl:voc:m2	nazwa pospolita	
 leptosomatyk	leptosomatyk	subst:sg:nom:m1	nazwa pospolita	
@@ -24016,6 +24148,7 @@ leseferysto	leseferysta	subst:sg:voc:m1	nazwa pospolita
 leseferystom	leseferysta	subst:pl:dat:m1	nazwa pospolita	
 leseferystów	leseferysta	subst:pl:acc:m1	nazwa pospolita	
 leseferystów	leseferysta	subst:pl:gen:m1	nazwa pospolita	
+leseferysty	leseferysta	depr:pl:acc:m2	nazwa pospolita	
 leseferysty	leseferysta	depr:pl:nom:m2	nazwa pospolita	
 leseferysty	leseferysta	depr:pl:voc:m2	nazwa pospolita	
 leseferysty	leseferysta	subst:sg:gen:m1	nazwa pospolita	
@@ -24047,6 +24180,7 @@ leserom	leser	subst:pl:dat:m1	nazwa pospolita	pot.
 leserowi	leser	subst:sg:dat:m1	nazwa pospolita	pot.
 leserów	leser	subst:pl:acc:m1	nazwa pospolita	pot.
 leserów	leser	subst:pl:gen:m1	nazwa pospolita	pot.
+lesery	leser	depr:pl:acc:m2	nazwa pospolita	pot.
 lesery	leser	depr:pl:nom:m2	nazwa pospolita	pot.
 lesery	leser	depr:pl:voc:m2	nazwa pospolita	pot.
 leserze	leser	subst:sg:loc:m1	nazwa pospolita	pot.
@@ -24891,6 +25025,7 @@ leśniczyny	leśniczyna	subst:pl:voc:f	nazwa pospolita
 leśniczyny	leśniczyna	subst:sg:gen:f	nazwa pospolita	
 leśniczego	leśniczy:s	subst:sg:acc:m1	nazwa pospolita	
 leśniczego	leśniczy:s	subst:sg:gen:m1	nazwa pospolita	
+leśnicze	leśniczy:s	depr:pl:acc:m2	nazwa pospolita	
 leśnicze	leśniczy:s	depr:pl:nom:m2	nazwa pospolita	
 leśnicze	leśniczy:s	depr:pl:voc:m2	nazwa pospolita	
 leśniczemu	leśniczy:s	subst:sg:dat:m1	nazwa pospolita	
@@ -24954,6 +25089,7 @@ leśnika	leśnik	subst:sg:acc:m1	nazwa pospolita
 leśnika	leśnik	subst:sg:gen:m1	nazwa pospolita	
 leśnikami	leśnik	subst:pl:inst:m1	nazwa pospolita	
 leśnikiem	leśnik	subst:sg:inst:m1	nazwa pospolita	
+leśniki	leśnik	depr:pl:acc:m2	nazwa pospolita	
 leśniki	leśnik	depr:pl:nom:m2	nazwa pospolita	
 leśniki	leśnik	depr:pl:voc:m2	nazwa pospolita	
 leśnik	leśnik	subst:sg:nom:m1	nazwa pospolita	
@@ -25081,6 +25217,7 @@ leśnym	leśny:a	adj:sg:inst:m1.m2.m3.n:pos
 leśnym	leśny:a	adj:sg:loc:m1.m2.m3.n:pos		
 leśnego	leśny:s	subst:sg:acc:m1	nazwa pospolita	
 leśnego	leśny:s	subst:sg:gen:m1	nazwa pospolita	
+leśne	leśny:s	depr:pl:acc:m2	nazwa pospolita	
 leśne	leśny:s	depr:pl:nom:m2	nazwa pospolita	
 leśne	leśny:s	depr:pl:voc:m2	nazwa pospolita	
 leśnemu	leśny:s	subst:sg:dat:m1	nazwa pospolita	
@@ -25297,6 +25434,7 @@ letargnika	letargnik	subst:sg:acc:m1	nazwa pospolita	daw.
 letargnika	letargnik	subst:sg:gen:m1	nazwa pospolita	daw.
 letargnikami	letargnik	subst:pl:inst:m1	nazwa pospolita	daw.
 letargnikiem	letargnik	subst:sg:inst:m1	nazwa pospolita	daw.
+letargniki	letargnik	depr:pl:acc:m2	nazwa pospolita	daw.
 letargniki	letargnik	depr:pl:nom:m2	nazwa pospolita	daw.
 letargniki	letargnik	depr:pl:voc:m2	nazwa pospolita	daw.
 letargnik	letargnik	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -25412,6 +25550,7 @@ letkiewiczach	letkiewicz	subst:pl:loc:m1	nazwa pospolita
 letkiewicza	letkiewicz	subst:sg:acc:m1	nazwa pospolita	
 letkiewicza	letkiewicz	subst:sg:gen:m1	nazwa pospolita	
 letkiewiczami	letkiewicz	subst:pl:inst:m1	nazwa pospolita	
+letkiewicze	letkiewicz	depr:pl:acc:m2	nazwa pospolita	
 letkiewicze	letkiewicz	depr:pl:nom:m2	nazwa pospolita	
 letkiewicze	letkiewicz	depr:pl:voc:m2	nazwa pospolita	
 letkiewicze	letkiewicz	subst:pl:nom:m1	nazwa pospolita	
@@ -25536,6 +25675,7 @@ letniaka	letniak:s2	subst:sg:acc:m1	nazwa pospolita
 letniaka	letniak:s2	subst:sg:gen:m1	nazwa pospolita	
 letniakami	letniak:s2	subst:pl:inst:m1	nazwa pospolita	
 letniakiem	letniak:s2	subst:sg:inst:m1	nazwa pospolita	
+letniaki	letniak:s2	depr:pl:acc:m2	nazwa pospolita	
 letniaki	letniak:s2	depr:pl:nom:m2	nazwa pospolita	
 letniaki	letniak:s2	depr:pl:voc:m2	nazwa pospolita	
 letniak	letniak:s2	subst:sg:nom:m1	nazwa pospolita	
@@ -25618,6 +25758,7 @@ letnika	letnik	subst:sg:acc:m1	nazwa pospolita
 letnika	letnik	subst:sg:gen:m1	nazwa pospolita	
 letnikami	letnik	subst:pl:inst:m1	nazwa pospolita	
 letnikiem	letnik	subst:sg:inst:m1	nazwa pospolita	
+letniki	letnik	depr:pl:acc:m2	nazwa pospolita	
 letniki	letnik	depr:pl:nom:m2	nazwa pospolita	
 letniki	letnik	depr:pl:voc:m2	nazwa pospolita	
 letnik	letnik	subst:sg:nom:m1	nazwa pospolita	
@@ -26021,6 +26162,7 @@ lewaka	lewak	subst:sg:acc:m1	nazwa pospolita
 lewaka	lewak	subst:sg:gen:m1	nazwa pospolita	
 lewakami	lewak	subst:pl:inst:m1	nazwa pospolita	
 lewakiem	lewak	subst:sg:inst:m1	nazwa pospolita	
+lewaki	lewak	depr:pl:acc:m2	nazwa pospolita	
 lewaki	lewak	depr:pl:nom:m2	nazwa pospolita	
 lewaki	lewak	depr:pl:voc:m2	nazwa pospolita	
 lewak	lewak	subst:sg:nom:m1	nazwa pospolita	
@@ -26520,6 +26662,7 @@ lewicowcach	lewicowiec	subst:pl:loc:m1	nazwa pospolita
 lewicowca	lewicowiec	subst:sg:acc:m1	nazwa pospolita	
 lewicowca	lewicowiec	subst:sg:gen:m1	nazwa pospolita	
 lewicowcami	lewicowiec	subst:pl:inst:m1	nazwa pospolita	
+lewicowce	lewicowiec	depr:pl:acc:m2	nazwa pospolita	
 lewicowce	lewicowiec	depr:pl:nom:m2	nazwa pospolita	
 lewicowce	lewicowiec	depr:pl:voc:m2	nazwa pospolita	
 lewicowcem	lewicowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -26639,6 +26782,7 @@ lewito	lewita	subst:sg:voc:m1	nazwa pospolita
 lewitom	lewita	subst:pl:dat:m1	nazwa pospolita	
 lewitów	lewita	subst:pl:acc:m1	nazwa pospolita	
 lewitów	lewita	subst:pl:gen:m1	nazwa pospolita	
+lewity	lewita	depr:pl:acc:m2	nazwa pospolita	
 lewity	lewita	depr:pl:nom:m2	nazwa pospolita	
 lewity	lewita	depr:pl:voc:m2	nazwa pospolita	
 lewity	lewita	subst:sg:gen:m1	nazwa pospolita	
@@ -27047,6 +27191,7 @@ leworęcznym	leworęczny:a	adj:sg:inst:m1.m2.m3.n:pos
 leworęcznym	leworęczny:a	adj:sg:loc:m1.m2.m3.n:pos		
 leworęcznego	leworęczny:s	subst:sg:acc:m1	nazwa pospolita	
 leworęcznego	leworęczny:s	subst:sg:gen:m1	nazwa pospolita	
+leworęczne	leworęczny:s	depr:pl:acc:m2	nazwa pospolita	
 leworęczne	leworęczny:s	depr:pl:nom:m2	nazwa pospolita	
 leworęczne	leworęczny:s	depr:pl:voc:m2	nazwa pospolita	
 leworęcznemu	leworęczny:s	subst:sg:dat:m1	nazwa pospolita	
@@ -27206,6 +27351,7 @@ lewoskrzydłowym	lewoskrzydłowy:a	adj:sg:inst:m1.m2.m3.n:pos
 lewoskrzydłowym	lewoskrzydłowy:a	adj:sg:loc:m1.m2.m3.n:pos		
 lewoskrzydłowego	lewoskrzydłowy:s	subst:sg:acc:m1	nazwa pospolita	
 lewoskrzydłowego	lewoskrzydłowy:s	subst:sg:gen:m1	nazwa pospolita	
+lewoskrzydłowe	lewoskrzydłowy:s	depr:pl:acc:m2	nazwa pospolita	
 lewoskrzydłowe	lewoskrzydłowy:s	depr:pl:nom:m2	nazwa pospolita	
 lewoskrzydłowe	lewoskrzydłowy:s	depr:pl:voc:m2	nazwa pospolita	
 lewoskrzydłowemu	lewoskrzydłowy:s	subst:sg:dat:m1	nazwa pospolita	
@@ -27329,6 +27475,7 @@ lewusom	lewus	subst:pl:dat:m1	nazwa pospolita	pot.
 lewusowi	lewus	subst:sg:dat:m1	nazwa pospolita	pot.
 lewusów	lewus	subst:pl:acc:m1	nazwa pospolita	pot.
 lewusów	lewus	subst:pl:gen:m1	nazwa pospolita	pot.
+lewusy	lewus	depr:pl:acc:m2	nazwa pospolita	pot.
 lewusy	lewus	depr:pl:nom:m2	nazwa pospolita	pot.
 lewusy	lewus	depr:pl:voc:m2	nazwa pospolita	pot.
 lewa	lewy:a	adj:sg:nom.voc:f:pos		
@@ -27999,6 +28146,7 @@ leżącym	leżący:a	adj:sg:inst:m1.m2.m3.n:pos
 leżącym	leżący:a	adj:sg:loc:m1.m2.m3.n:pos		
 leżącego	leżący:s	subst:sg:acc:m1	nazwa pospolita	
 leżącego	leżący:s	subst:sg:gen:m1	nazwa pospolita	
+leżące	leżący:s	depr:pl:acc:m2	nazwa pospolita	
 leżące	leżący:s	depr:pl:nom:m2	nazwa pospolita	
 leżące	leżący:s	depr:pl:voc:m2	nazwa pospolita	
 leżącemu	leżący:s	subst:sg:dat:m1	nazwa pospolita	
@@ -28105,6 +28253,7 @@ leżniach	leżeń	subst:pl:loc:m1	nazwa pospolita	gwar.
 leżnia	leżeń	subst:sg:acc:m1	nazwa pospolita	gwar.
 leżnia	leżeń	subst:sg:gen:m1	nazwa pospolita	gwar.
 leżniami	leżeń	subst:pl:inst:m1	nazwa pospolita	gwar.
+leżnie	leżeń	depr:pl:acc:m2	nazwa pospolita	gwar.
 leżnie	leżeń	depr:pl:nom:m2	nazwa pospolita	gwar.
 leżnie	leżeń	depr:pl:voc:m2	nazwa pospolita	gwar.
 leżnie	leżeń	subst:pl:nom:m1	nazwa pospolita	gwar.
@@ -28815,6 +28964,7 @@ lękowcach	lękowiec	subst:pl:loc:m1	nazwa pospolita
 lękowca	lękowiec	subst:sg:acc:m1	nazwa pospolita	
 lękowca	lękowiec	subst:sg:gen:m1	nazwa pospolita	
 lękowcami	lękowiec	subst:pl:inst:m1	nazwa pospolita	
+lękowce	lękowiec	depr:pl:acc:m2	nazwa pospolita	
 lękowce	lękowiec	depr:pl:nom:m2	nazwa pospolita	
 lękowce	lękowiec	depr:pl:voc:m2	nazwa pospolita	
 lękowcem	lękowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -29193,6 +29343,7 @@ liberalisto	liberalista	subst:sg:voc:m1	nazwa pospolita	daw.
 liberalistom	liberalista	subst:pl:dat:m1	nazwa pospolita	daw.
 liberalistów	liberalista	subst:pl:acc:m1	nazwa pospolita	daw.
 liberalistów	liberalista	subst:pl:gen:m1	nazwa pospolita	daw.
+liberalisty	liberalista	depr:pl:acc:m2	nazwa pospolita	daw.
 liberalisty	liberalista	depr:pl:nom:m2	nazwa pospolita	daw.
 liberalisty	liberalista	depr:pl:voc:m2	nazwa pospolita	daw.
 liberalisty	liberalista	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -29471,6 +29622,7 @@ liberałowie	liberał	subst:pl:voc:m1	nazwa pospolita
 liberałowi	liberał	subst:sg:dat:m1	nazwa pospolita	
 liberałów	liberał	subst:pl:acc:m1	nazwa pospolita	
 liberałów	liberał	subst:pl:gen:m1	nazwa pospolita	
+liberały	liberał	depr:pl:acc:m2	nazwa pospolita	
 liberały	liberał	depr:pl:nom:m2	nazwa pospolita	
 liberały	liberał	depr:pl:voc:m2	nazwa pospolita	
 liberiach	liberia	subst:pl:loc:f	nazwa pospolita	
@@ -29629,6 +29781,7 @@ liberki	liberka	subst:pl:voc:f	nazwa pospolita
 liberki	liberka	subst:sg:gen:f	nazwa pospolita	
 liberko	liberka	subst:sg:voc:f	nazwa pospolita	
 liberkom	liberka	subst:pl:dat:f	nazwa pospolita	
+libero	libero	depr:pl:acc:m2	nazwa pospolita	
 libero	libero	depr:pl:nom:m2	nazwa pospolita	
 libero	libero	depr:pl:voc:m2	nazwa pospolita	
 libero	libero	subst:pl:acc:m1	nazwa pospolita	
@@ -29676,6 +29829,7 @@ libertarian	libertarianin	subst:pl:gen:m1	nazwa pospolita
 libertarianom	libertarianin	subst:pl:dat:m1	nazwa pospolita	
 libertarianów	libertarianin	subst:pl:acc:m1	nazwa pospolita	
 libertarianów	libertarianin	subst:pl:gen:m1	nazwa pospolita	
+libertariany	libertarianin	depr:pl:acc:m2	nazwa pospolita	
 libertariany	libertarianin	depr:pl:nom:m2	nazwa pospolita	
 libertariany	libertarianin	depr:pl:voc:m2	nazwa pospolita	
 libertarianizmach	libertarianizm	subst:pl:loc:m3	nazwa pospolita	
@@ -29835,6 +29989,7 @@ libertynom	libertyn	subst:pl:dat:m1	nazwa pospolita
 libertynowi	libertyn	subst:sg:dat:m1	nazwa pospolita	
 libertynów	libertyn	subst:pl:acc:m1	nazwa pospolita	
 libertynów	libertyn	subst:pl:gen:m1	nazwa pospolita	
+libertyny	libertyn	depr:pl:acc:m2	nazwa pospolita	
 libertyny	libertyn	depr:pl:nom:m2	nazwa pospolita	
 libertyny	libertyn	depr:pl:voc:m2	nazwa pospolita	
 libertynistycznościach	libertynistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -30241,6 +30396,7 @@ librecisto	librecista	subst:sg:voc:m1	nazwa pospolita
 librecistom	librecista	subst:pl:dat:m1	nazwa pospolita	
 librecistów	librecista	subst:pl:acc:m1	nazwa pospolita	
 librecistów	librecista	subst:pl:gen:m1	nazwa pospolita	
+librecisty	librecista	depr:pl:acc:m2	nazwa pospolita	
 librecisty	librecista	depr:pl:nom:m2	nazwa pospolita	
 librecisty	librecista	depr:pl:voc:m2	nazwa pospolita	
 librecisty	librecista	subst:sg:gen:m1	nazwa pospolita	
@@ -30354,6 +30510,7 @@ licealisto	licealista	subst:sg:voc:m1	nazwa pospolita
 licealistom	licealista	subst:pl:dat:m1	nazwa pospolita	
 licealistów	licealista	subst:pl:acc:m1	nazwa pospolita	
 licealistów	licealista	subst:pl:gen:m1	nazwa pospolita	
+licealisty	licealista	depr:pl:acc:m2	nazwa pospolita	
 licealisty	licealista	depr:pl:nom:m2	nazwa pospolita	
 licealisty	licealista	depr:pl:voc:m2	nazwa pospolita	
 licealisty	licealista	subst:sg:gen:m1	nazwa pospolita	
@@ -30508,6 +30665,7 @@ licencjatom	licencjat:s1	subst:pl:dat:m1	nazwa pospolita
 licencjatowi	licencjat:s1	subst:sg:dat:m1	nazwa pospolita	
 licencjatów	licencjat:s1	subst:pl:acc:m1	nazwa pospolita	
 licencjatów	licencjat:s1	subst:pl:gen:m1	nazwa pospolita	
+licencjaty	licencjat:s1	depr:pl:acc:m2	nazwa pospolita	
 licencjaty	licencjat:s1	depr:pl:nom:m2	nazwa pospolita	
 licencjaty	licencjat:s1	depr:pl:voc:m2	nazwa pospolita	
 licencjacie	licencjat:s2	subst:sg:loc:m3	nazwa pospolita	
@@ -30542,6 +30700,7 @@ licencjobiorcach	licencjobiorca	subst:pl:loc:m1	nazwa pospolita
 licencjobiorca	licencjobiorca	subst:sg:nom:m1	nazwa pospolita	
 licencjobiorcami	licencjobiorca	subst:pl:inst:m1	nazwa pospolita	
 licencjobiorcą	licencjobiorca	subst:sg:inst:m1	nazwa pospolita	
+licencjobiorce	licencjobiorca	depr:pl:acc:m2	nazwa pospolita	
 licencjobiorce	licencjobiorca	depr:pl:nom:m2	nazwa pospolita	
 licencjobiorce	licencjobiorca	depr:pl:voc:m2	nazwa pospolita	
 licencjobiorcę	licencjobiorca	subst:sg:acc:m1	nazwa pospolita	
@@ -30558,6 +30717,7 @@ licencjodawcach	licencjodawca	subst:pl:loc:m1	nazwa pospolita
 licencjodawca	licencjodawca	subst:sg:nom:m1	nazwa pospolita	
 licencjodawcami	licencjodawca	subst:pl:inst:m1	nazwa pospolita	
 licencjodawcą	licencjodawca	subst:sg:inst:m1	nazwa pospolita	
+licencjodawce	licencjodawca	depr:pl:acc:m2	nazwa pospolita	
 licencjodawce	licencjodawca	depr:pl:nom:m2	nazwa pospolita	
 licencjodawce	licencjodawca	depr:pl:voc:m2	nazwa pospolita	
 licencjodawcę	licencjodawca	subst:sg:acc:m1	nazwa pospolita	
@@ -30874,6 +31034,7 @@ lichenologa	lichenolog	subst:sg:acc:m1	nazwa pospolita
 lichenologa	lichenolog	subst:sg:gen:m1	nazwa pospolita	
 lichenologami	lichenolog	subst:pl:inst:m1	nazwa pospolita	
 lichenologiem	lichenolog	subst:sg:inst:m1	nazwa pospolita	
+lichenologi	lichenolog	depr:pl:acc:m2	nazwa pospolita	
 lichenologi	lichenolog	depr:pl:nom:m2	nazwa pospolita	
 lichenologi	lichenolog	depr:pl:voc:m2	nazwa pospolita	
 lichenolog	lichenolog	subst:sg:nom:m1	nazwa pospolita	
@@ -31430,6 +31591,8 @@ lichwiarza	lichwiarz	subst:sg:gen:m1	nazwa pospolita
 lichwiarza	lichwiarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 lichwiarzami	lichwiarz	subst:pl:inst:m1	nazwa pospolita	
 lichwiarzami	lichwiarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+lichwiarze	lichwiarz	depr:pl:acc:m2	nazwa pospolita	
+lichwiarze	lichwiarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 lichwiarze	lichwiarz	depr:pl:nom:m2	nazwa pospolita	
 lichwiarze	lichwiarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 lichwiarze	lichwiarz	depr:pl:voc:m2	nazwa pospolita	
@@ -31997,6 +32160,7 @@ licytantom	licytant	subst:pl:dat:m1	nazwa pospolita
 licytantowi	licytant	subst:sg:dat:m1	nazwa pospolita	
 licytantów	licytant	subst:pl:acc:m1	nazwa pospolita	
 licytantów	licytant	subst:pl:gen:m1	nazwa pospolita	
+licytanty	licytant	depr:pl:acc:m2	nazwa pospolita	
 licytanty	licytant	depr:pl:nom:m2	nazwa pospolita	
 licytanty	licytant	depr:pl:voc:m2	nazwa pospolita	
 licytatorach	licytator	subst:pl:loc:m1	nazwa pospolita	
@@ -32009,6 +32173,7 @@ licytatorom	licytator	subst:pl:dat:m1	nazwa pospolita
 licytatorowi	licytator	subst:sg:dat:m1	nazwa pospolita	
 licytatorów	licytator	subst:pl:acc:m1	nazwa pospolita	
 licytatorów	licytator	subst:pl:gen:m1	nazwa pospolita	
+licytatory	licytator	depr:pl:acc:m2	nazwa pospolita	
 licytatory	licytator	depr:pl:nom:m2	nazwa pospolita	
 licytatory	licytator	depr:pl:voc:m2	nazwa pospolita	
 licytatorze	licytator	subst:sg:loc:m1	nazwa pospolita	
@@ -32576,6 +32741,7 @@ liczmanom	liczman:s1	subst:pl:dat:m1	nazwa pospolita
 liczmanowi	liczman:s1	subst:sg:dat:m1	nazwa pospolita	
 liczmanów	liczman:s1	subst:pl:acc:m1	nazwa pospolita	
 liczmanów	liczman:s1	subst:pl:gen:m1	nazwa pospolita	
+liczmany	liczman:s1	depr:pl:acc:m2	nazwa pospolita	
 liczmany	liczman:s1	depr:pl:nom:m2	nazwa pospolita	
 liczmany	liczman:s1	depr:pl:voc:m2	nazwa pospolita	
 liczmanach	liczman:s2	subst:pl:loc:m3	nazwa pospolita	
@@ -32942,6 +33108,7 @@ liczygroszach	liczygrosz	subst:pl:loc:m1	nazwa pospolita
 liczygrosza	liczygrosz	subst:sg:acc:m1	nazwa pospolita	
 liczygrosza	liczygrosz	subst:sg:gen:m1	nazwa pospolita	
 liczygroszami	liczygrosz	subst:pl:inst:m1	nazwa pospolita	
+liczygrosze	liczygrosz	depr:pl:acc:m2	nazwa pospolita	
 liczygrosze	liczygrosz	depr:pl:nom:m2	nazwa pospolita	
 liczygrosze	liczygrosz	depr:pl:voc:m2	nazwa pospolita	
 liczygrosze	liczygrosz	subst:pl:nom:m1	nazwa pospolita	
@@ -32969,6 +33136,7 @@ liczykopowie	liczykopa	subst:pl:nom:m1	nazwa pospolita
 liczykopowie	liczykopa	subst:pl:voc:m1	nazwa pospolita	
 liczykopów	liczykopa	subst:pl:acc:m1	nazwa pospolita	
 liczykopów	liczykopa	subst:pl:gen:m1	nazwa pospolita	
+liczykopy	liczykopa	depr:pl:acc:m2	nazwa pospolita	
 liczykopy	liczykopa	depr:pl:nom:m2	nazwa pospolita	
 liczykopy	liczykopa	depr:pl:voc:m2	nazwa pospolita	
 liczykopy	liczykopa	subst:sg:gen:m1	nazwa pospolita	
@@ -32999,6 +33167,7 @@ liczykrupowie	liczykrupa:s2	subst:pl:nom:m1	nazwa pospolita	pot.
 liczykrupowie	liczykrupa:s2	subst:pl:voc:m1	nazwa pospolita	pot.
 liczykrupów	liczykrupa:s2	subst:pl:acc:m1	nazwa pospolita	pot.
 liczykrupów	liczykrupa:s2	subst:pl:gen:m1	nazwa pospolita	pot.
+liczykrupy	liczykrupa:s2	depr:pl:acc:m2	nazwa pospolita	pot.
 liczykrupy	liczykrupa:s2	depr:pl:nom:m2	nazwa pospolita	pot.
 liczykrupy	liczykrupa:s2	depr:pl:voc:m2	nazwa pospolita	pot.
 liczykrupy	liczykrupa:s2	subst:sg:gen:m1	nazwa pospolita	pot.
@@ -33078,6 +33247,7 @@ liderom	lider	subst:pl:dat:m1	nazwa pospolita
 liderowi	lider	subst:sg:dat:m1	nazwa pospolita	
 liderów	lider	subst:pl:acc:m1	nazwa pospolita	
 liderów	lider	subst:pl:gen:m1	nazwa pospolita	
+lidery	lider	depr:pl:acc:m2	nazwa pospolita	
 lidery	lider	depr:pl:nom:m2	nazwa pospolita	
 lidery	lider	depr:pl:voc:m2	nazwa pospolita	
 liderze	lider	subst:sg:loc:m1	nazwa pospolita	
@@ -34090,6 +34260,7 @@ ligowcach	ligowiec	subst:pl:loc:m1	nazwa pospolita
 ligowca	ligowiec	subst:sg:acc:m1	nazwa pospolita	
 ligowca	ligowiec	subst:sg:gen:m1	nazwa pospolita	
 ligowcami	ligowiec	subst:pl:inst:m1	nazwa pospolita	
+ligowce	ligowiec	depr:pl:acc:m2	nazwa pospolita	
 ligowce	ligowiec	depr:pl:nom:m2	nazwa pospolita	
 ligowce	ligowiec	depr:pl:voc:m2	nazwa pospolita	
 ligowcem	ligowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -34604,6 +34775,7 @@ liktorowie	liktor	subst:pl:voc:m1	nazwa pospolita
 liktorowi	liktor	subst:sg:dat:m1	nazwa pospolita	
 liktorów	liktor	subst:pl:acc:m1	nazwa pospolita	
 liktorów	liktor	subst:pl:gen:m1	nazwa pospolita	
+liktory	liktor	depr:pl:acc:m2	nazwa pospolita	
 liktory	liktor	depr:pl:nom:m2	nazwa pospolita	
 liktory	liktor	depr:pl:voc:m2	nazwa pospolita	
 liktorze	liktor	subst:sg:loc:m1	nazwa pospolita	
@@ -34728,6 +34900,7 @@ likwidatorom	likwidator	subst:pl:dat:m1	nazwa pospolita
 likwidatorowi	likwidator	subst:sg:dat:m1	nazwa pospolita	
 likwidatorów	likwidator	subst:pl:acc:m1	nazwa pospolita	
 likwidatorów	likwidator	subst:pl:gen:m1	nazwa pospolita	
+likwidatory	likwidator	depr:pl:acc:m2	nazwa pospolita	
 likwidatory	likwidator	depr:pl:nom:m2	nazwa pospolita	
 likwidatory	likwidator	depr:pl:voc:m2	nazwa pospolita	
 likwidatorze	likwidator	subst:sg:loc:m1	nazwa pospolita	
@@ -35652,6 +35825,7 @@ liliputom	liliput:s1	subst:pl:dat:m1	nazwa pospolita
 liliputowi	liliput:s1	subst:sg:dat:m1	nazwa pospolita	
 liliputów	liliput:s1	subst:pl:acc:m1	nazwa pospolita	
 liliputów	liliput:s1	subst:pl:gen:m1	nazwa pospolita	
+liliputy	liliput:s1	depr:pl:acc:m2	nazwa pospolita	
 liliputy	liliput:s1	depr:pl:nom:m2	nazwa pospolita	
 liliputy	liliput:s1	depr:pl:voc:m2	nazwa pospolita	
 lilipucie	liliput:s2	subst:sg:loc:m2	nazwa pospolita	
@@ -36072,6 +36246,7 @@ limfatyka	limfatyk	subst:sg:acc:m1	nazwa pospolita	przest.
 limfatyka	limfatyk	subst:sg:gen:m1	nazwa pospolita	przest.
 limfatykami	limfatyk	subst:pl:inst:m1	nazwa pospolita	przest.
 limfatykiem	limfatyk	subst:sg:inst:m1	nazwa pospolita	przest.
+limfatyki	limfatyk	depr:pl:acc:m2	nazwa pospolita	przest.
 limfatyki	limfatyk	depr:pl:nom:m2	nazwa pospolita	przest.
 limfatyki	limfatyk	depr:pl:voc:m2	nazwa pospolita	przest.
 limfatyk	limfatyk	subst:sg:nom:m1	nazwa pospolita	przest.
@@ -36486,6 +36661,7 @@ limnologa	limnolog	subst:sg:acc:m1	nazwa pospolita
 limnologa	limnolog	subst:sg:gen:m1	nazwa pospolita	
 limnologami	limnolog	subst:pl:inst:m1	nazwa pospolita	
 limnologiem	limnolog	subst:sg:inst:m1	nazwa pospolita	
+limnologi	limnolog	depr:pl:acc:m2	nazwa pospolita	
 limnologi	limnolog	depr:pl:nom:m2	nazwa pospolita	
 limnologi	limnolog	depr:pl:voc:m2	nazwa pospolita	
 limnolog	limnolog	subst:sg:nom:m1	nazwa pospolita	
@@ -36681,6 +36857,7 @@ limonadzisto	limonadzista	subst:sg:voc:m1	nazwa pospolita	daw.
 limonadzistom	limonadzista	subst:pl:dat:m1	nazwa pospolita	daw.
 limonadzistów	limonadzista	subst:pl:acc:m1	nazwa pospolita	daw.
 limonadzistów	limonadzista	subst:pl:gen:m1	nazwa pospolita	daw.
+limonadzisty	limonadzista	depr:pl:acc:m2	nazwa pospolita	daw.
 limonadzisty	limonadzista	depr:pl:nom:m2	nazwa pospolita	daw.
 limonadzisty	limonadzista	depr:pl:voc:m2	nazwa pospolita	daw.
 limonadzisty	limonadzista	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -37298,6 +37475,7 @@ lingwisto	lingwista	subst:sg:voc:m1	nazwa pospolita
 lingwistom	lingwista	subst:pl:dat:m1	nazwa pospolita	
 lingwistów	lingwista	subst:pl:acc:m1	nazwa pospolita	
 lingwistów	lingwista	subst:pl:gen:m1	nazwa pospolita	
+lingwisty	lingwista	depr:pl:acc:m2	nazwa pospolita	
 lingwisty	lingwista	depr:pl:nom:m2	nazwa pospolita	
 lingwisty	lingwista	depr:pl:voc:m2	nazwa pospolita	
 lingwisty	lingwista	subst:sg:gen:m1	nazwa pospolita	
@@ -37365,6 +37543,7 @@ lingwistyka	lingwistyk	subst:sg:acc:m1	nazwa pospolita	daw.
 lingwistyka	lingwistyk	subst:sg:gen:m1	nazwa pospolita	daw.
 lingwistykami	lingwistyk	subst:pl:inst:m1	nazwa pospolita	daw.
 lingwistykiem	lingwistyk	subst:sg:inst:m1	nazwa pospolita	daw.
+lingwistyki	lingwistyk	depr:pl:acc:m2	nazwa pospolita	daw.
 lingwistyki	lingwistyk	depr:pl:nom:m2	nazwa pospolita	daw.
 lingwistyki	lingwistyk	depr:pl:voc:m2	nazwa pospolita	daw.
 lingwistyk	lingwistyk	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -37773,6 +37952,7 @@ liniowcach	liniowiec:s2	subst:pl:loc:m1	nazwa pospolita
 liniowca	liniowiec:s2	subst:sg:acc:m1	nazwa pospolita	
 liniowca	liniowiec:s2	subst:sg:gen:m1	nazwa pospolita	
 liniowcami	liniowiec:s2	subst:pl:inst:m1	nazwa pospolita	
+liniowce	liniowiec:s2	depr:pl:acc:m2	nazwa pospolita	
 liniowce	liniowiec:s2	depr:pl:nom:m2	nazwa pospolita	
 liniowce	liniowiec:s2	depr:pl:voc:m2	nazwa pospolita	
 liniowcem	liniowiec:s2	subst:sg:inst:m1	nazwa pospolita	
@@ -38033,6 +38213,7 @@ linochodowie	linochód	subst:pl:voc:m1	nazwa pospolita	przest.
 linochodowi	linochód	subst:sg:dat:m1	nazwa pospolita	przest.
 linochodów	linochód	subst:pl:acc:m1	nazwa pospolita	przest.
 linochodów	linochód	subst:pl:gen:m1	nazwa pospolita	przest.
+linochody	linochód	depr:pl:acc:m2	nazwa pospolita	przest.
 linochody	linochód	depr:pl:nom:m2	nazwa pospolita	przest.
 linochody	linochód	depr:pl:voc:m2	nazwa pospolita	przest.
 linochodzie	linochód	subst:sg:loc:m1	nazwa pospolita	przest.
@@ -38218,6 +38399,7 @@ linoskoczka	linoskoczek	subst:sg:acc:m1	nazwa pospolita
 linoskoczka	linoskoczek	subst:sg:gen:m1	nazwa pospolita	
 linoskoczkami	linoskoczek	subst:pl:inst:m1	nazwa pospolita	
 linoskoczkiem	linoskoczek	subst:sg:inst:m1	nazwa pospolita	
+linoskoczki	linoskoczek	depr:pl:acc:m2	nazwa pospolita	
 linoskoczki	linoskoczek	depr:pl:nom:m2	nazwa pospolita	
 linoskoczki	linoskoczek	depr:pl:voc:m2	nazwa pospolita	
 linoskoczkom	linoskoczek	subst:pl:dat:m1	nazwa pospolita	
@@ -38233,6 +38415,7 @@ linoskoka	linoskok	subst:sg:acc:m1	nazwa pospolita
 linoskoka	linoskok	subst:sg:gen:m1	nazwa pospolita	
 linoskokami	linoskok	subst:pl:inst:m1	nazwa pospolita	
 linoskokiem	linoskok	subst:sg:inst:m1	nazwa pospolita	
+linoskoki	linoskok	depr:pl:acc:m2	nazwa pospolita	
 linoskoki	linoskok	depr:pl:nom:m2	nazwa pospolita	
 linoskoki	linoskok	depr:pl:voc:m2	nazwa pospolita	
 linoskok	linoskok	subst:sg:nom:m1	nazwa pospolita	
@@ -38267,6 +38450,7 @@ linotypisto	linotypista	subst:sg:voc:m1	nazwa pospolita
 linotypistom	linotypista	subst:pl:dat:m1	nazwa pospolita	
 linotypistów	linotypista	subst:pl:acc:m1	nazwa pospolita	
 linotypistów	linotypista	subst:pl:gen:m1	nazwa pospolita	
+linotypisty	linotypista	depr:pl:acc:m2	nazwa pospolita	
 linotypisty	linotypista	depr:pl:nom:m2	nazwa pospolita	
 linotypisty	linotypista	depr:pl:voc:m2	nazwa pospolita	
 linotypisty	linotypista	subst:sg:gen:m1	nazwa pospolita	
@@ -39934,6 +40118,7 @@ lirnika	lirnik	subst:sg:acc:m1	nazwa pospolita
 lirnika	lirnik	subst:sg:gen:m1	nazwa pospolita	
 lirnikami	lirnik	subst:pl:inst:m1	nazwa pospolita	
 lirnikiem	lirnik	subst:sg:inst:m1	nazwa pospolita	
+lirniki	lirnik	depr:pl:acc:m2	nazwa pospolita	
 lirniki	lirnik	depr:pl:nom:m2	nazwa pospolita	
 lirniki	lirnik	depr:pl:voc:m2	nazwa pospolita	
 lirnik	lirnik	subst:sg:nom:m1	nazwa pospolita	
@@ -40160,6 +40345,7 @@ liryka	liryk:s2	subst:sg:acc:m1	nazwa pospolita
 liryka	liryk:s2	subst:sg:gen:m1	nazwa pospolita	
 lirykami	liryk:s2	subst:pl:inst:m1	nazwa pospolita	
 lirykiem	liryk:s2	subst:sg:inst:m1	nazwa pospolita	
+liryki	liryk:s2	depr:pl:acc:m2	nazwa pospolita	
 liryki	liryk:s2	depr:pl:nom:m2	nazwa pospolita	
 liryki	liryk:s2	depr:pl:voc:m2	nazwa pospolita	
 liryk	liryk:s2	subst:sg:nom:m1	nazwa pospolita	
@@ -40361,6 +40547,8 @@ lisiarza	lisiarz	subst:sg:gen:m1	nazwa pospolita
 lisiarza	lisiarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 lisiarzami	lisiarz	subst:pl:inst:m1	nazwa pospolita	
 lisiarzami	lisiarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+lisiarze	lisiarz	depr:pl:acc:m2	nazwa pospolita	
+lisiarze	lisiarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 lisiarze	lisiarz	depr:pl:nom:m2	nazwa pospolita	
 lisiarze	lisiarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 lisiarze	lisiarz	depr:pl:voc:m2	nazwa pospolita	
@@ -40635,6 +40823,7 @@ lisowczyka	lisowczyk	subst:sg:acc:m1	nazwa pospolita	hist.
 lisowczyka	lisowczyk	subst:sg:gen:m1	nazwa pospolita	hist.
 lisowczykami	lisowczyk	subst:pl:inst:m1	nazwa pospolita	hist.
 lisowczykiem	lisowczyk	subst:sg:inst:m1	nazwa pospolita	hist.
+lisowczyki	lisowczyk	depr:pl:acc:m2	nazwa pospolita	hist.
 lisowczyki	lisowczyk	depr:pl:nom:m2	nazwa pospolita	hist.
 lisowczyki	lisowczyk	depr:pl:voc:m2	nazwa pospolita	hist.
 lisowczyk	lisowczyk	subst:sg:nom:m1	nazwa pospolita	hist.
@@ -40775,6 +40964,7 @@ lisowi	lis:s2	subst:sg:dat:m2	nazwa pospolita
 lisów	lis:s2	subst:pl:acc:m1	nazwa pospolita	
 lisów	lis:s2	subst:pl:gen:m1	nazwa pospolita	
 lisów	lis:s2	subst:pl:gen:m2	nazwa pospolita	
+lisy	lis:s2	depr:pl:acc:m2	nazwa pospolita	
 lisy	lis:s2	depr:pl:nom:m2	nazwa pospolita	
 lisy	lis:s2	depr:pl:voc:m2	nazwa pospolita	
 lisy	lis:s2	subst:pl:acc:m2	nazwa pospolita	
@@ -41260,6 +41450,7 @@ listonoszach	listonosz	subst:pl:loc:m1	nazwa pospolita
 listonosza	listonosz	subst:sg:acc:m1	nazwa pospolita	
 listonosza	listonosz	subst:sg:gen:m1	nazwa pospolita	
 listonoszami	listonosz	subst:pl:inst:m1	nazwa pospolita	
+listonosze	listonosz	depr:pl:acc:m2	nazwa pospolita	
 listonosze	listonosz	depr:pl:nom:m2	nazwa pospolita	
 listonosze	listonosz	depr:pl:voc:m2	nazwa pospolita	
 listonosze	listonosz	subst:pl:nom:m1	nazwa pospolita	
@@ -41930,6 +42121,8 @@ liszkarza	liszkarz	subst:sg:gen:m1	nazwa pospolita
 liszkarza	liszkarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 liszkarzami	liszkarz	subst:pl:inst:m1	nazwa pospolita	
 liszkarzami	liszkarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+liszkarze	liszkarz	depr:pl:acc:m2	nazwa pospolita	
+liszkarze	liszkarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 liszkarze	liszkarz	depr:pl:nom:m2	nazwa pospolita	
 liszkarze	liszkarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 liszkarze	liszkarz	depr:pl:voc:m2	nazwa pospolita	
@@ -42625,6 +42818,7 @@ litaurzysto	litaurzysta	subst:sg:voc:m1	nazwa pospolita	daw.
 litaurzystom	litaurzysta	subst:pl:dat:m1	nazwa pospolita	daw.
 litaurzystów	litaurzysta	subst:pl:acc:m1	nazwa pospolita	daw.
 litaurzystów	litaurzysta	subst:pl:gen:m1	nazwa pospolita	daw.
+litaurzysty	litaurzysta	depr:pl:acc:m2	nazwa pospolita	daw.
 litaurzysty	litaurzysta	depr:pl:nom:m2	nazwa pospolita	daw.
 litaurzysty	litaurzysta	depr:pl:voc:m2	nazwa pospolita	daw.
 litaurzysty	litaurzysta	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -42684,6 +42878,7 @@ literacinom	literacina	subst:pl:dat:f	nazwa pospolita
 literacinom	literacina	subst:pl:dat:m1	nazwa pospolita	
 literacinów	literacina	subst:pl:acc:m1	nazwa pospolita	
 literacinów	literacina	subst:pl:gen:m1	nazwa pospolita	
+literaciny	literacina	depr:pl:acc:m2	nazwa pospolita	
 literaciny	literacina	depr:pl:nom:m2	nazwa pospolita	
 literaciny	literacina	depr:pl:voc:m2	nazwa pospolita	
 literaciny	literacina	subst:pl:acc:f	nazwa pospolita	
@@ -42798,6 +42993,7 @@ literatom	literat	subst:pl:dat:m1	nazwa pospolita
 literatowi	literat	subst:sg:dat:m1	nazwa pospolita	
 literatów	literat	subst:pl:acc:m1	nazwa pospolita	
 literatów	literat	subst:pl:gen:m1	nazwa pospolita	
+literaty	literat	depr:pl:acc:m2	nazwa pospolita	
 literaty	literat	depr:pl:nom:m2	nazwa pospolita	
 literaty	literat	depr:pl:voc:m2	nazwa pospolita	
 literacie	literata	subst:sg:dat:f	nazwa pospolita	przest.
@@ -42847,6 +43043,7 @@ literaturoznawcach	literaturoznawca	subst:pl:loc:m1	nazwa pospolita
 literaturoznawca	literaturoznawca	subst:sg:nom:m1	nazwa pospolita	
 literaturoznawcami	literaturoznawca	subst:pl:inst:m1	nazwa pospolita	
 literaturoznawcą	literaturoznawca	subst:sg:inst:m1	nazwa pospolita	
+literaturoznawce	literaturoznawca	depr:pl:acc:m2	nazwa pospolita	
 literaturoznawce	literaturoznawca	depr:pl:nom:m2	nazwa pospolita	
 literaturoznawce	literaturoznawca	depr:pl:voc:m2	nazwa pospolita	
 literaturoznawcę	literaturoznawca	subst:sg:acc:m1	nazwa pospolita	
@@ -43042,6 +43239,7 @@ liternika	liternik	subst:sg:acc:m1	nazwa pospolita
 liternika	liternik	subst:sg:gen:m1	nazwa pospolita	
 liternikami	liternik	subst:pl:inst:m1	nazwa pospolita	
 liternikiem	liternik	subst:sg:inst:m1	nazwa pospolita	
+literniki	liternik	depr:pl:acc:m2	nazwa pospolita	
 literniki	liternik	depr:pl:nom:m2	nazwa pospolita	
 literniki	liternik	depr:pl:voc:m2	nazwa pospolita	
 liternik	liternik	subst:sg:nom:m1	nazwa pospolita	
@@ -43325,6 +43523,7 @@ litkupnika	litkupnik	subst:sg:acc:m1	nazwa pospolita	daw.
 litkupnika	litkupnik	subst:sg:gen:m1	nazwa pospolita	daw.
 litkupnikami	litkupnik	subst:pl:inst:m1	nazwa pospolita	daw.
 litkupnikiem	litkupnik	subst:sg:inst:m1	nazwa pospolita	daw.
+litkupniki	litkupnik	depr:pl:acc:m2	nazwa pospolita	daw.
 litkupniki	litkupnik	depr:pl:nom:m2	nazwa pospolita	daw.
 litkupniki	litkupnik	depr:pl:voc:m2	nazwa pospolita	daw.
 litkupnik	litkupnik	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -43497,6 +43696,7 @@ litografowie	litograf	subst:pl:voc:m1	nazwa pospolita
 litografowi	litograf	subst:sg:dat:m1	nazwa pospolita	
 litografów	litograf	subst:pl:acc:m1	nazwa pospolita	
 litografów	litograf	subst:pl:gen:m1	nazwa pospolita	
+litografy	litograf	depr:pl:acc:m2	nazwa pospolita	
 litografy	litograf	depr:pl:nom:m2	nazwa pospolita	
 litografy	litograf	depr:pl:voc:m2	nazwa pospolita	
 litografiach	litografia	subst:pl:loc:f	nazwa pospolita	
@@ -44546,6 +44746,7 @@ lituanisto	lituanista	subst:sg:voc:m1	nazwa pospolita
 lituanistom	lituanista	subst:pl:dat:m1	nazwa pospolita	
 lituanistów	lituanista	subst:pl:acc:m1	nazwa pospolita	
 lituanistów	lituanista	subst:pl:gen:m1	nazwa pospolita	
+lituanisty	lituanista	depr:pl:acc:m2	nazwa pospolita	
 lituanisty	lituanista	depr:pl:nom:m2	nazwa pospolita	
 lituanisty	lituanista	depr:pl:voc:m2	nazwa pospolita	
 lituanisty	lituanista	subst:sg:gen:m1	nazwa pospolita	
@@ -44876,6 +45077,7 @@ liturgisto	liturgista	subst:sg:voc:m1	nazwa pospolita
 liturgistom	liturgista	subst:pl:dat:m1	nazwa pospolita	
 liturgistów	liturgista	subst:pl:acc:m1	nazwa pospolita	
 liturgistów	liturgista	subst:pl:gen:m1	nazwa pospolita	
+liturgisty	liturgista	depr:pl:acc:m2	nazwa pospolita	
 liturgisty	liturgista	depr:pl:nom:m2	nazwa pospolita	
 liturgisty	liturgista	depr:pl:voc:m2	nazwa pospolita	
 liturgisty	liturgista	subst:sg:gen:m1	nazwa pospolita	
@@ -44944,6 +45146,7 @@ litwaka	litwak	subst:sg:acc:m1	nazwa pospolita
 litwaka	litwak	subst:sg:gen:m1	nazwa pospolita	
 litwakami	litwak	subst:pl:inst:m1	nazwa pospolita	
 litwakiem	litwak	subst:sg:inst:m1	nazwa pospolita	
+litwaki	litwak	depr:pl:acc:m2	nazwa pospolita	
 litwaki	litwak	depr:pl:nom:m2	nazwa pospolita	
 litwaki	litwak	depr:pl:voc:m2	nazwa pospolita	
 litwak	litwak	subst:sg:nom:m1	nazwa pospolita	
@@ -45186,6 +45389,7 @@ litygantom	litygant	subst:pl:dat:m1	nazwa pospolita	daw.
 litygantowi	litygant	subst:sg:dat:m1	nazwa pospolita	daw.
 litygantów	litygant	subst:pl:acc:m1	nazwa pospolita	daw.
 litygantów	litygant	subst:pl:gen:m1	nazwa pospolita	daw.
+lityganty	litygant	depr:pl:acc:m2	nazwa pospolita	daw.
 lityganty	litygant	depr:pl:nom:m2	nazwa pospolita	daw.
 lityganty	litygant	depr:pl:voc:m2	nazwa pospolita	daw.
 litygować	litygować	inf:imperf		daw.
@@ -45343,6 +45547,7 @@ liwerantom	liwerant	subst:pl:dat:m1	nazwa pospolita	daw.
 liwerantowi	liwerant	subst:sg:dat:m1	nazwa pospolita	daw.
 liwerantów	liwerant	subst:pl:acc:m1	nazwa pospolita	daw.
 liwerantów	liwerant	subst:pl:gen:m1	nazwa pospolita	daw.
+liweranty	liwerant	depr:pl:acc:m2	nazwa pospolita	daw.
 liweranty	liwerant	depr:pl:nom:m2	nazwa pospolita	daw.
 liweranty	liwerant	depr:pl:voc:m2	nazwa pospolita	daw.
 liwerantce	liwerantka	subst:sg:dat:f	nazwa pospolita	daw.
@@ -45573,6 +45778,7 @@ lizaczach	lizacz	subst:pl:loc:m1	nazwa pospolita	daw.
 lizacza	lizacz	subst:sg:acc:m1	nazwa pospolita	daw.
 lizacza	lizacz	subst:sg:gen:m1	nazwa pospolita	daw.
 lizaczami	lizacz	subst:pl:inst:m1	nazwa pospolita	daw.
+lizacze	lizacz	depr:pl:acc:m2	nazwa pospolita	daw.
 lizacze	lizacz	depr:pl:nom:m2	nazwa pospolita	daw.
 lizacze	lizacz	depr:pl:voc:m2	nazwa pospolita	daw.
 lizacze	lizacz	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -46066,6 +46272,7 @@ liziobrazka	liziobrazek	subst:sg:acc:m1	nazwa pospolita	daw.
 liziobrazka	liziobrazek	subst:sg:gen:m1	nazwa pospolita	daw.
 liziobrazkami	liziobrazek	subst:pl:inst:m1	nazwa pospolita	daw.
 liziobrazkiem	liziobrazek	subst:sg:inst:m1	nazwa pospolita	daw.
+liziobrazki	liziobrazek	depr:pl:acc:m2	nazwa pospolita	daw.
 liziobrazki	liziobrazek	depr:pl:nom:m2	nazwa pospolita	daw.
 liziobrazki	liziobrazek	depr:pl:voc:m2	nazwa pospolita	daw.
 liziobrazkom	liziobrazek	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -46256,6 +46463,7 @@ lizuchów	lizuch	subst:pl:acc:m1	nazwa pospolita
 lizuchów	lizuch	subst:pl:gen:m1	nazwa pospolita	
 lizuchu	lizuch	subst:sg:loc:m1	nazwa pospolita	
 lizuchu	lizuch	subst:sg:voc:m1	nazwa pospolita	
+lizuchy	lizuch	depr:pl:acc:m2	nazwa pospolita	
 lizuchy	lizuch	depr:pl:nom:m2	nazwa pospolita	
 lizuchy	lizuch	depr:pl:voc:m2	nazwa pospolita	
 lizuchować	lizuchować	inf:imperf		
@@ -46335,6 +46543,7 @@ lizuniach	lizuń	subst:pl:loc:m1	nazwa pospolita
 lizunia	lizuń	subst:sg:acc:m1	nazwa pospolita	
 lizunia	lizuń	subst:sg:gen:m1	nazwa pospolita	
 lizuniami	lizuń	subst:pl:inst:m1	nazwa pospolita	
+lizunie	lizuń	depr:pl:acc:m2	nazwa pospolita	
 lizunie	lizuń	depr:pl:nom:m2	nazwa pospolita	
 lizunie	lizuń	depr:pl:voc:m2	nazwa pospolita	
 lizunie	lizuń	subst:pl:nom:m1	nazwa pospolita	
@@ -46361,6 +46570,7 @@ lizusom	lizus	subst:pl:dat:m1	nazwa pospolita	pot.
 lizusowi	lizus	subst:sg:dat:m1	nazwa pospolita	pot.
 lizusów	lizus	subst:pl:acc:m1	nazwa pospolita	pot.
 lizusów	lizus	subst:pl:gen:m1	nazwa pospolita	pot.
+lizusy	lizus	depr:pl:acc:m2	nazwa pospolita	pot.
 lizusy	lizus	depr:pl:nom:m2	nazwa pospolita	pot.
 lizusy	lizus	depr:pl:voc:m2	nazwa pospolita	pot.
 lizusce	lizuska	subst:sg:dat:f	nazwa pospolita	pot.
@@ -46508,6 +46718,7 @@ lizusiach	lizuś	subst:pl:loc:m1	nazwa pospolita	daw.
 lizusia	lizuś	subst:sg:acc:m1	nazwa pospolita	daw.
 lizusia	lizuś	subst:sg:gen:m1	nazwa pospolita	daw.
 lizusiami	lizuś	subst:pl:inst:m1	nazwa pospolita	daw.
+lizusie	lizuś	depr:pl:acc:m2	nazwa pospolita	daw.
 lizusie	lizuś	depr:pl:nom:m2	nazwa pospolita	daw.
 lizusie	lizuś	depr:pl:voc:m2	nazwa pospolita	daw.
 lizusie	lizuś	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -46648,6 +46859,7 @@ liżyłapowie	liżyłapa	subst:pl:nom:m1	nazwa pospolita	daw.
 liżyłapowie	liżyłapa	subst:pl:voc:m1	nazwa pospolita	daw.
 liżyłapów	liżyłapa	subst:pl:acc:m1	nazwa pospolita	daw.
 liżyłapów	liżyłapa	subst:pl:gen:m1	nazwa pospolita	daw.
+liżyłapy	liżyłapa	depr:pl:acc:m2	nazwa pospolita	daw.
 liżyłapy	liżyłapa	depr:pl:nom:m2	nazwa pospolita	daw.
 liżyłapy	liżyłapa	depr:pl:voc:m2	nazwa pospolita	daw.
 liżyłapy	liżyłapa	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -46657,6 +46869,7 @@ liżyobrazka	liżyobrazek	subst:sg:acc:m1	nazwa pospolita	daw.
 liżyobrazka	liżyobrazek	subst:sg:gen:m1	nazwa pospolita	daw.
 liżyobrazkami	liżyobrazek	subst:pl:inst:m1	nazwa pospolita	daw.
 liżyobrazkiem	liżyobrazek	subst:sg:inst:m1	nazwa pospolita	daw.
+liżyobrazki	liżyobrazek	depr:pl:acc:m2	nazwa pospolita	daw.
 liżyobrazki	liżyobrazek	depr:pl:nom:m2	nazwa pospolita	daw.
 liżyobrazki	liżyobrazek	depr:pl:voc:m2	nazwa pospolita	daw.
 liżyobrazkom	liżyobrazek	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -47035,6 +47248,7 @@ lobbisto	lobbista	subst:sg:voc:m1	nazwa pospolita
 lobbistom	lobbista	subst:pl:dat:m1	nazwa pospolita	
 lobbistów	lobbista	subst:pl:acc:m1	nazwa pospolita	
 lobbistów	lobbista	subst:pl:gen:m1	nazwa pospolita	
+lobbisty	lobbista	depr:pl:acc:m2	nazwa pospolita	
 lobbisty	lobbista	depr:pl:nom:m2	nazwa pospolita	
 lobbisty	lobbista	depr:pl:voc:m2	nazwa pospolita	
 lobbisty	lobbista	subst:sg:gen:m1	nazwa pospolita	
@@ -47295,6 +47509,7 @@ lobbysto	lobbysta	subst:sg:voc:m1	nazwa pospolita
 lobbystom	lobbysta	subst:pl:dat:m1	nazwa pospolita	
 lobbystów	lobbysta	subst:pl:acc:m1	nazwa pospolita	
 lobbystów	lobbysta	subst:pl:gen:m1	nazwa pospolita	
+lobbysty	lobbysta	depr:pl:acc:m2	nazwa pospolita	
 lobbysty	lobbysta	depr:pl:nom:m2	nazwa pospolita	
 lobbysty	lobbysta	depr:pl:voc:m2	nazwa pospolita	
 lobbysty	lobbysta	subst:sg:gen:m1	nazwa pospolita	
@@ -47728,6 +47943,7 @@ locmanom	locman	subst:pl:dat:m1	nazwa pospolita
 locmanowi	locman	subst:sg:dat:m1	nazwa pospolita	
 locmanów	locman	subst:pl:acc:m1	nazwa pospolita	
 locmanów	locman	subst:pl:gen:m1	nazwa pospolita	
+locmany	locman	depr:pl:acc:m2	nazwa pospolita	
 locmany	locman	depr:pl:nom:m2	nazwa pospolita	
 locmany	locman	depr:pl:voc:m2	nazwa pospolita	
 loco	loco	prep:nom		
@@ -48670,6 +48886,8 @@ lodziarza	lodziarz	subst:sg:gen:m1	nazwa pospolita
 lodziarza	lodziarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 lodziarzami	lodziarz	subst:pl:inst:m1	nazwa pospolita	
 lodziarzami	lodziarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+lodziarze	lodziarz	depr:pl:acc:m2	nazwa pospolita	
+lodziarze	lodziarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 lodziarze	lodziarz	depr:pl:nom:m2	nazwa pospolita	
 lodziarze	lodziarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 lodziarze	lodziarz	depr:pl:voc:m2	nazwa pospolita	
@@ -49251,6 +49469,7 @@ logika	logik	subst:sg:acc:m1	nazwa pospolita
 logika	logik	subst:sg:gen:m1	nazwa pospolita	
 logikami	logik	subst:pl:inst:m1	nazwa pospolita	
 logikiem	logik	subst:sg:inst:m1	nazwa pospolita	
+logiki	logik	depr:pl:acc:m2	nazwa pospolita	
 logiki	logik	depr:pl:nom:m2	nazwa pospolita	
 logiki	logik	depr:pl:voc:m2	nazwa pospolita	
 logik	logik	subst:sg:nom:m1	nazwa pospolita	
@@ -49334,6 +49553,7 @@ logistyka	logistyk	subst:sg:acc:m1	nazwa pospolita
 logistyka	logistyk	subst:sg:gen:m1	nazwa pospolita	
 logistykami	logistyk	subst:pl:inst:m1	nazwa pospolita	
 logistykiem	logistyk	subst:sg:inst:m1	nazwa pospolita	
+logistyki	logistyk	depr:pl:acc:m2	nazwa pospolita	
 logistyki	logistyk	depr:pl:nom:m2	nazwa pospolita	
 logistyki	logistyk	depr:pl:voc:m2	nazwa pospolita	
 logistyk	logistyk	subst:sg:nom:m1	nazwa pospolita	
@@ -49517,6 +49737,7 @@ logofetom	logofet	subst:pl:dat:m1	nazwa pospolita
 logofetowi	logofet	subst:sg:dat:m1	nazwa pospolita	
 logofetów	logofet	subst:pl:acc:m1	nazwa pospolita	
 logofetów	logofet	subst:pl:gen:m1	nazwa pospolita	
+logofety	logofet	depr:pl:acc:m2	nazwa pospolita	
 logofety	logofet	depr:pl:nom:m2	nazwa pospolita	
 logofety	logofet	depr:pl:voc:m2	nazwa pospolita	
 logografach	logograf	subst:pl:loc:m1	nazwa pospolita	
@@ -49533,6 +49754,7 @@ logografowie	logograf	subst:pl:voc:m1	nazwa pospolita
 logografowi	logograf	subst:sg:dat:m1	nazwa pospolita	
 logografów	logograf	subst:pl:acc:m1	nazwa pospolita	
 logografów	logograf	subst:pl:gen:m1	nazwa pospolita	
+logografy	logograf	depr:pl:acc:m2	nazwa pospolita	
 logografy	logograf	depr:pl:nom:m2	nazwa pospolita	
 logografy	logograf	depr:pl:voc:m2	nazwa pospolita	
 logogramach	logogram	subst:pl:loc:m3	nazwa pospolita	
@@ -49628,6 +49850,7 @@ logopatologa	logopatolog	subst:sg:acc:m1	nazwa pospolita
 logopatologa	logopatolog	subst:sg:gen:m1	nazwa pospolita	
 logopatologami	logopatolog	subst:pl:inst:m1	nazwa pospolita	
 logopatologiem	logopatolog	subst:sg:inst:m1	nazwa pospolita	
+logopatologi	logopatolog	depr:pl:acc:m2	nazwa pospolita	
 logopatologi	logopatolog	depr:pl:nom:m2	nazwa pospolita	
 logopatologi	logopatolog	depr:pl:voc:m2	nazwa pospolita	
 logopatolog	logopatolog	subst:sg:nom:m1	nazwa pospolita	
@@ -49663,6 +49886,7 @@ logopedo	logopeda	subst:sg:voc:m1	nazwa pospolita
 logopedom	logopeda	subst:pl:dat:m1	nazwa pospolita	
 logopedów	logopeda	subst:pl:acc:m1	nazwa pospolita	
 logopedów	logopeda	subst:pl:gen:m1	nazwa pospolita	
+logopedy	logopeda	depr:pl:acc:m2	nazwa pospolita	
 logopedy	logopeda	depr:pl:nom:m2	nazwa pospolita	
 logopedy	logopeda	depr:pl:voc:m2	nazwa pospolita	
 logopedy	logopeda	subst:sg:gen:m1	nazwa pospolita	
@@ -49778,6 +50002,7 @@ logoteto	logoteta	subst:sg:voc:m1	nazwa pospolita
 logotetom	logoteta	subst:pl:dat:m1	nazwa pospolita	
 logotetów	logoteta	subst:pl:acc:m1	nazwa pospolita	
 logotetów	logoteta	subst:pl:gen:m1	nazwa pospolita	
+logotety	logoteta	depr:pl:acc:m2	nazwa pospolita	
 logotety	logoteta	depr:pl:nom:m2	nazwa pospolita	
 logotety	logoteta	depr:pl:voc:m2	nazwa pospolita	
 logotety	logoteta	subst:sg:gen:m1	nazwa pospolita	
@@ -49945,6 +50170,7 @@ lojalisto	lojalista	subst:sg:voc:m1	nazwa pospolita
 lojalistom	lojalista	subst:pl:dat:m1	nazwa pospolita	
 lojalistów	lojalista	subst:pl:acc:m1	nazwa pospolita	
 lojalistów	lojalista	subst:pl:gen:m1	nazwa pospolita	
+lojalisty	lojalista	depr:pl:acc:m2	nazwa pospolita	
 lojalisty	lojalista	depr:pl:nom:m2	nazwa pospolita	
 lojalisty	lojalista	depr:pl:voc:m2	nazwa pospolita	
 lojalisty	lojalista	subst:sg:gen:m1	nazwa pospolita	
@@ -50206,6 +50432,7 @@ lokaika	lokaik	subst:sg:acc:m1	nazwa pospolita
 lokaika	lokaik	subst:sg:gen:m1	nazwa pospolita	
 lokaikami	lokaik	subst:pl:inst:m1	nazwa pospolita	
 lokaikiem	lokaik	subst:sg:inst:m1	nazwa pospolita	
+lokaiki	lokaik	depr:pl:acc:m2	nazwa pospolita	
 lokaiki	lokaik	depr:pl:nom:m2	nazwa pospolita	
 lokaiki	lokaik	depr:pl:voc:m2	nazwa pospolita	
 lokaik	lokaik	subst:sg:nom:m1	nazwa pospolita	
@@ -50223,6 +50450,7 @@ lokajach	lokaj	subst:pl:loc:m1	nazwa pospolita
 lokaja	lokaj	subst:sg:acc:m1	nazwa pospolita	
 lokaja	lokaj	subst:sg:gen:m1	nazwa pospolita	
 lokajami	lokaj	subst:pl:inst:m1	nazwa pospolita	
+lokaje	lokaj	depr:pl:acc:m2	nazwa pospolita	
 lokaje	lokaj	depr:pl:nom:m2	nazwa pospolita	
 lokaje	lokaj	depr:pl:voc:m2	nazwa pospolita	
 lokaje	lokaj	subst:pl:nom:m1	nazwa pospolita	
@@ -50240,6 +50468,7 @@ lokajczuka	lokajczuk	subst:sg:acc:m1	nazwa pospolita
 lokajczuka	lokajczuk	subst:sg:gen:m1	nazwa pospolita	
 lokajczukami	lokajczuk	subst:pl:inst:m1	nazwa pospolita	
 lokajczukiem	lokajczuk	subst:sg:inst:m1	nazwa pospolita	
+lokajczuki	lokajczuk	depr:pl:acc:m2	nazwa pospolita	
 lokajczuki	lokajczuk	depr:pl:nom:m2	nazwa pospolita	
 lokajczuki	lokajczuk	depr:pl:voc:m2	nazwa pospolita	
 lokajczuk	lokajczuk	subst:sg:nom:m1	nazwa pospolita	
@@ -50258,6 +50487,7 @@ lokajczyka	lokajczyk	subst:sg:acc:m1	nazwa pospolita
 lokajczyka	lokajczyk	subst:sg:gen:m1	nazwa pospolita	
 lokajczykami	lokajczyk	subst:pl:inst:m1	nazwa pospolita	
 lokajczykiem	lokajczyk	subst:sg:inst:m1	nazwa pospolita	
+lokajczyki	lokajczyk	depr:pl:acc:m2	nazwa pospolita	
 lokajczyki	lokajczyk	depr:pl:nom:m2	nazwa pospolita	
 lokajczyki	lokajczyk	depr:pl:voc:m2	nazwa pospolita	
 lokajczyk	lokajczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -50415,6 +50645,7 @@ lokalizatorom	lokalizator	subst:pl:dat:m1	nazwa pospolita
 lokalizatorowi	lokalizator	subst:sg:dat:m1	nazwa pospolita	
 lokalizatorów	lokalizator	subst:pl:acc:m1	nazwa pospolita	
 lokalizatorów	lokalizator	subst:pl:gen:m1	nazwa pospolita	
+lokalizatory	lokalizator	depr:pl:acc:m2	nazwa pospolita	
 lokalizatory	lokalizator	depr:pl:nom:m2	nazwa pospolita	
 lokalizatory	lokalizator	depr:pl:voc:m2	nazwa pospolita	
 lokalizatorze	lokalizator	subst:sg:loc:m1	nazwa pospolita	
@@ -50683,6 +50914,7 @@ lokatom	lokat	subst:pl:dat:m1	nazwa pospolita	daw.
 lokatowi	lokat	subst:sg:dat:m1	nazwa pospolita	daw.
 lokatów	lokat	subst:pl:acc:m1	nazwa pospolita	daw.
 lokatów	lokat	subst:pl:gen:m1	nazwa pospolita	daw.
+lokaty	lokat	depr:pl:acc:m2	nazwa pospolita	daw.
 lokaty	lokat	depr:pl:nom:m2	nazwa pospolita	daw.
 lokaty	lokat	depr:pl:voc:m2	nazwa pospolita	daw.
 lokacie	lokata	subst:sg:dat:f	nazwa pospolita	
@@ -50703,6 +50935,7 @@ lokatariuszach	lokatariusz	subst:pl:loc:m1	nazwa pospolita	daw.
 lokatariusza	lokatariusz	subst:sg:acc:m1	nazwa pospolita	daw.
 lokatariusza	lokatariusz	subst:sg:gen:m1	nazwa pospolita	daw.
 lokatariuszami	lokatariusz	subst:pl:inst:m1	nazwa pospolita	daw.
+lokatariusze	lokatariusz	depr:pl:acc:m2	nazwa pospolita	daw.
 lokatariusze	lokatariusz	depr:pl:nom:m2	nazwa pospolita	daw.
 lokatariusze	lokatariusz	depr:pl:voc:m2	nazwa pospolita	daw.
 lokatariusze	lokatariusz	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -50743,6 +50976,7 @@ lokatorowie	lokator	subst:pl:voc:m1	nazwa pospolita
 lokatorowi	lokator	subst:sg:dat:m1	nazwa pospolita	
 lokatorów	lokator	subst:pl:acc:m1	nazwa pospolita	
 lokatorów	lokator	subst:pl:gen:m1	nazwa pospolita	
+lokatory	lokator	depr:pl:acc:m2	nazwa pospolita	
 lokatory	lokator	depr:pl:nom:m2	nazwa pospolita	
 lokatory	lokator	depr:pl:voc:m2	nazwa pospolita	
 lokatorze	lokator	subst:sg:loc:m1	nazwa pospolita	
@@ -51627,6 +51861,7 @@ lombardzisto	lombardzista	subst:sg:voc:m1	nazwa pospolita
 lombardzistom	lombardzista	subst:pl:dat:m1	nazwa pospolita	
 lombardzistów	lombardzista	subst:pl:acc:m1	nazwa pospolita	
 lombardzistów	lombardzista	subst:pl:gen:m1	nazwa pospolita	
+lombardzisty	lombardzista	depr:pl:acc:m2	nazwa pospolita	
 lombardzisty	lombardzista	depr:pl:nom:m2	nazwa pospolita	
 lombardzisty	lombardzista	depr:pl:voc:m2	nazwa pospolita	
 lombardzisty	lombardzista	subst:sg:gen:m1	nazwa pospolita	
@@ -51862,6 +52097,7 @@ lonarowie	lonar	subst:pl:voc:m1	nazwa pospolita	daw.
 lonarowi	lonar	subst:sg:dat:m1	nazwa pospolita	daw.
 lonarów	lonar	subst:pl:acc:m1	nazwa pospolita	daw.
 lonarów	lonar	subst:pl:gen:m1	nazwa pospolita	daw.
+lonary	lonar	depr:pl:acc:m2	nazwa pospolita	daw.
 lonary	lonar	depr:pl:nom:m2	nazwa pospolita	daw.
 lonary	lonar	depr:pl:voc:m2	nazwa pospolita	daw.
 lonarze	lonar	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -51903,6 +52139,7 @@ londyńczyka	londyńczyk	subst:sg:acc:m1	nazwa pospolita
 londyńczyka	londyńczyk	subst:sg:gen:m1	nazwa pospolita	
 londyńczykami	londyńczyk	subst:pl:inst:m1	nazwa pospolita	
 londyńczykiem	londyńczyk	subst:sg:inst:m1	nazwa pospolita	
+londyńczyki	londyńczyk	depr:pl:acc:m2	nazwa pospolita	
 londyńczyki	londyńczyk	depr:pl:nom:m2	nazwa pospolita	
 londyńczyki	londyńczyk	depr:pl:voc:m2	nazwa pospolita	
 londyńczyk	londyńczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -51966,6 +52203,7 @@ longinom	longin	subst:pl:dat:m1	nazwa pospolita
 longinowi	longin	subst:sg:dat:m1	nazwa pospolita	
 longinów	longin	subst:pl:acc:m1	nazwa pospolita	
 longinów	longin	subst:pl:gen:m1	nazwa pospolita	
+longiny	longin	depr:pl:acc:m2	nazwa pospolita	
 longiny	longin	depr:pl:nom:m2	nazwa pospolita	
 longiny	longin	depr:pl:voc:m2	nazwa pospolita	
 longinusach	longinus	subst:pl:loc:m1	nazwa pospolita	
@@ -51982,6 +52220,7 @@ longinusom	longinus	subst:pl:dat:m1	nazwa pospolita
 longinusowi	longinus	subst:sg:dat:m1	nazwa pospolita	
 longinusów	longinus	subst:pl:acc:m1	nazwa pospolita	
 longinusów	longinus	subst:pl:gen:m1	nazwa pospolita	
+longinusy	longinus	depr:pl:acc:m2	nazwa pospolita	
 longinusy	longinus	depr:pl:nom:m2	nazwa pospolita	
 longinusy	longinus	depr:pl:voc:m2	nazwa pospolita	
 longobardzcy	longobardzki	adj:pl:nom.voc:m1:pos		
@@ -52064,6 +52303,7 @@ lonherowie	lonher	subst:pl:voc:m1	nazwa pospolita	daw.
 lonherowi	lonher	subst:sg:dat:m1	nazwa pospolita	daw.
 lonherów	lonher	subst:pl:acc:m1	nazwa pospolita	daw.
 lonherów	lonher	subst:pl:gen:m1	nazwa pospolita	daw.
+lonhery	lonher	depr:pl:acc:m2	nazwa pospolita	daw.
 lonhery	lonher	depr:pl:nom:m2	nazwa pospolita	daw.
 lonhery	lonher	depr:pl:voc:m2	nazwa pospolita	daw.
 lonherze	lonher	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -52372,6 +52612,7 @@ lordowie	lord	subst:pl:voc:m1	nazwa pospolita
 lordowi	lord	subst:sg:dat:m1	nazwa pospolita	
 lordów	lord	subst:pl:acc:m1	nazwa pospolita	
 lordów	lord	subst:pl:gen:m1	nazwa pospolita	
+lordy	lord	depr:pl:acc:m2	nazwa pospolita	
 lordy	lord	depr:pl:nom:m2	nazwa pospolita	
 lordy	lord	depr:pl:voc:m2	nazwa pospolita	
 lordzie	lord	subst:sg:loc:m1	nazwa pospolita	
@@ -53312,6 +53553,8 @@ lotniarza	lotniarz	subst:sg:gen:m1	nazwa pospolita
 lotniarza	lotniarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 lotniarzami	lotniarz	subst:pl:inst:m1	nazwa pospolita	
 lotniarzami	lotniarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+lotniarze	lotniarz	depr:pl:acc:m2	nazwa pospolita	
+lotniarze	lotniarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 lotniarze	lotniarz	depr:pl:nom:m2	nazwa pospolita	
 lotniarze	lotniarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 lotniarze	lotniarz	depr:pl:voc:m2	nazwa pospolita	
@@ -53485,6 +53728,7 @@ lotnika	lotnik	subst:sg:acc:m1	nazwa pospolita
 lotnika	lotnik	subst:sg:gen:m1	nazwa pospolita	
 lotnikami	lotnik	subst:pl:inst:m1	nazwa pospolita	
 lotnikiem	lotnik	subst:sg:inst:m1	nazwa pospolita	
+lotniki	lotnik	depr:pl:acc:m2	nazwa pospolita	
 lotniki	lotnik	depr:pl:nom:m2	nazwa pospolita	
 lotniki	lotnik	depr:pl:voc:m2	nazwa pospolita	
 lotnik	lotnik	subst:sg:nom:m1	nazwa pospolita	
@@ -53882,6 +54126,7 @@ lowelasom	lowelas	subst:pl:dat:m1	nazwa pospolita	przest.
 lowelasowi	lowelas	subst:sg:dat:m1	nazwa pospolita	przest.
 lowelasów	lowelas	subst:pl:acc:m1	nazwa pospolita	przest.
 lowelasów	lowelas	subst:pl:gen:m1	nazwa pospolita	przest.
+lowelasy	lowelas	depr:pl:acc:m2	nazwa pospolita	przest.
 lowelasy	lowelas	depr:pl:nom:m2	nazwa pospolita	przest.
 lowelasy	lowelas	depr:pl:voc:m2	nazwa pospolita	przest.
 lowelasowscy	lowelasowski	adj:pl:nom.voc:m1:pos		
@@ -54004,6 +54249,7 @@ lożmajstrowie	lożmajster	subst:pl:voc:m1	nazwa pospolita	daw.
 lożmajstrowi	lożmajster	subst:sg:dat:m1	nazwa pospolita	daw.
 lożmajstrów	lożmajster	subst:pl:acc:m1	nazwa pospolita	daw.
 lożmajstrów	lożmajster	subst:pl:gen:m1	nazwa pospolita	daw.
+lożmajstry	lożmajster	depr:pl:acc:m2	nazwa pospolita	daw.
 lożmajstry	lożmajster	depr:pl:nom:m2	nazwa pospolita	daw.
 lożmajstry	lożmajster	depr:pl:voc:m2	nazwa pospolita	daw.
 lożmajstrze	lożmajster	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -55576,6 +55822,7 @@ lubieżnika	lubieżnik	subst:sg:acc:m1	nazwa pospolita
 lubieżnika	lubieżnik	subst:sg:gen:m1	nazwa pospolita	
 lubieżnikami	lubieżnik	subst:pl:inst:m1	nazwa pospolita	
 lubieżnikiem	lubieżnik	subst:sg:inst:m1	nazwa pospolita	
+lubieżniki	lubieżnik	depr:pl:acc:m2	nazwa pospolita	
 lubieżniki	lubieżnik	depr:pl:nom:m2	nazwa pospolita	
 lubieżniki	lubieżnik	depr:pl:voc:m2	nazwa pospolita	
 lubieżnik	lubieżnik	subst:sg:nom:m1	nazwa pospolita	
@@ -55744,6 +55991,7 @@ lubkusiach	lubkuś	subst:pl:loc:m1	nazwa pospolita	daw.
 lubkusia	lubkuś	subst:sg:acc:m1	nazwa pospolita	daw.
 lubkusia	lubkuś	subst:sg:gen:m1	nazwa pospolita	daw.
 lubkusiami	lubkuś	subst:pl:inst:m1	nazwa pospolita	daw.
+lubkusie	lubkuś	depr:pl:acc:m2	nazwa pospolita	daw.
 lubkusie	lubkuś	depr:pl:nom:m2	nazwa pospolita	daw.
 lubkusie	lubkuś	depr:pl:voc:m2	nazwa pospolita	daw.
 lubkusie	lubkuś	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -55824,6 +56072,7 @@ lublinianinowi	lublinianin	subst:sg:dat:m1	nazwa pospolita
 lublinian	lublinianin	subst:pl:acc:m1	nazwa pospolita	
 lublinian	lublinianin	subst:pl:gen:m1	nazwa pospolita	
 lublinianom	lublinianin	subst:pl:dat:m1	nazwa pospolita	
+lubliniany	lublinianin	depr:pl:acc:m2	nazwa pospolita	
 lubliniany	lublinianin	depr:pl:nom:m2	nazwa pospolita	
 lubliniany	lublinianin	depr:pl:voc:m2	nazwa pospolita	
 lublinieccy	lubliniecki	adj:pl:nom.voc:m1:pos		
@@ -56298,6 +56547,7 @@ lubownika	lubownik	subst:sg:acc:m1	nazwa pospolita	daw.
 lubownika	lubownik	subst:sg:gen:m1	nazwa pospolita	daw.
 lubownikami	lubownik	subst:pl:inst:m1	nazwa pospolita	daw.
 lubownikiem	lubownik	subst:sg:inst:m1	nazwa pospolita	daw.
+lubowniki	lubownik	depr:pl:acc:m2	nazwa pospolita	daw.
 lubowniki	lubownik	depr:pl:nom:m2	nazwa pospolita	daw.
 lubowniki	lubownik	depr:pl:voc:m2	nazwa pospolita	daw.
 lubownik	lubownik	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -56577,6 +56827,7 @@ lubyczańskość	lubyczańskość	subst:sg:acc:f	nazwa pospolita
 lubyczańskość	lubyczańskość	subst:sg:nom:f	nazwa pospolita	
 lubego	luby:s	subst:sg:acc:m1	nazwa pospolita	
 lubego	luby:s	subst:sg:gen:m1	nazwa pospolita	
+lube	luby:s	depr:pl:acc:m2	nazwa pospolita	
 lube	luby:s	depr:pl:nom:m2	nazwa pospolita	
 lube	luby:s	depr:pl:voc:m2	nazwa pospolita	
 lubemu	luby:s	subst:sg:dat:m1	nazwa pospolita	
@@ -56720,6 +56971,7 @@ lucyferowi	lucyfer	subst:sg:dat:m2	nazwa pospolita
 lucyferów	lucyfer	subst:pl:acc:m1	nazwa pospolita	
 lucyferów	lucyfer	subst:pl:gen:m1	nazwa pospolita	
 lucyferów	lucyfer	subst:pl:gen:m2	nazwa pospolita	
+lucyfery	lucyfer	depr:pl:acc:m2	nazwa pospolita	
 lucyfery	lucyfer	depr:pl:nom:m2	nazwa pospolita	
 lucyfery	lucyfer	depr:pl:voc:m2	nazwa pospolita	
 lucyfery	lucyfer	subst:pl:acc:m2	nazwa pospolita	
@@ -56833,6 +57085,7 @@ lucyperowi	lucyper	subst:sg:dat:m2	nazwa pospolita
 lucyperów	lucyper	subst:pl:acc:m1	nazwa pospolita	
 lucyperów	lucyper	subst:pl:gen:m1	nazwa pospolita	
 lucyperów	lucyper	subst:pl:gen:m2	nazwa pospolita	
+lucypery	lucyper	depr:pl:acc:m2	nazwa pospolita	
 lucypery	lucyper	depr:pl:nom:m2	nazwa pospolita	
 lucypery	lucyper	depr:pl:voc:m2	nazwa pospolita	
 lucypery	lucyper	subst:pl:acc:m2	nazwa pospolita	
@@ -56867,6 +57120,7 @@ luddysto	luddysta	subst:sg:voc:m1	nazwa pospolita
 luddystom	luddysta	subst:pl:dat:m1	nazwa pospolita	
 luddystów	luddysta	subst:pl:acc:m1	nazwa pospolita	
 luddystów	luddysta	subst:pl:gen:m1	nazwa pospolita	
+luddysty	luddysta	depr:pl:acc:m2	nazwa pospolita	
 luddysty	luddysta	depr:pl:nom:m2	nazwa pospolita	
 luddysty	luddysta	depr:pl:voc:m2	nazwa pospolita	
 luddysty	luddysta	subst:sg:gen:m1	nazwa pospolita	
@@ -56900,6 +57154,7 @@ ludkami	ludek:s1	subst:pl:inst:m1	nazwa pospolita
 ludkami	ludek:s1	subst:pl:inst:m2	nazwa pospolita	
 ludkiem	ludek:s1	subst:sg:inst:m1	nazwa pospolita	
 ludkiem	ludek:s1	subst:sg:inst:m2	nazwa pospolita	
+ludki	ludek:s1	depr:pl:acc:m2	nazwa pospolita	
 ludki	ludek:s1	depr:pl:nom:m2	nazwa pospolita	
 ludki	ludek:s1	depr:pl:voc:m2	nazwa pospolita	
 ludki	ludek:s1	subst:pl:acc:m2	nazwa pospolita	
@@ -57054,6 +57309,7 @@ ludobójcach	ludobójca	subst:pl:loc:m1	nazwa pospolita
 ludobójca	ludobójca	subst:sg:nom:m1	nazwa pospolita	
 ludobójcami	ludobójca	subst:pl:inst:m1	nazwa pospolita	
 ludobójcą	ludobójca	subst:sg:inst:m1	nazwa pospolita	
+ludobójce	ludobójca	depr:pl:acc:m2	nazwa pospolita	
 ludobójce	ludobójca	depr:pl:nom:m2	nazwa pospolita	
 ludobójce	ludobójca	depr:pl:voc:m2	nazwa pospolita	
 ludobójcę	ludobójca	subst:sg:acc:m1	nazwa pospolita	
@@ -57137,6 +57393,7 @@ ludokupcach	ludokupiec	subst:pl:loc:m1	nazwa pospolita	daw.
 ludokupca	ludokupiec	subst:sg:acc:m1	nazwa pospolita	daw.
 ludokupca	ludokupiec	subst:sg:gen:m1	nazwa pospolita	daw.
 ludokupcami	ludokupiec	subst:pl:inst:m1	nazwa pospolita	daw.
+ludokupce	ludokupiec	depr:pl:acc:m2	nazwa pospolita	daw.
 ludokupce	ludokupiec	depr:pl:nom:m2	nazwa pospolita	daw.
 ludokupce	ludokupiec	depr:pl:voc:m2	nazwa pospolita	daw.
 ludokupcem	ludokupiec	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -57192,6 +57449,7 @@ ludomanom	ludoman	subst:pl:dat:m1	nazwa pospolita
 ludomanowi	ludoman	subst:sg:dat:m1	nazwa pospolita	
 ludomanów	ludoman	subst:pl:acc:m1	nazwa pospolita	
 ludomanów	ludoman	subst:pl:gen:m1	nazwa pospolita	
+ludomany	ludoman	depr:pl:acc:m2	nazwa pospolita	
 ludomany	ludoman	depr:pl:nom:m2	nazwa pospolita	
 ludomany	ludoman	depr:pl:voc:m2	nazwa pospolita	
 ludomaniach	ludomania	subst:pl:loc:f	nazwa pospolita	
@@ -57333,6 +57591,7 @@ ludowcach	ludowiec	subst:pl:loc:m1	nazwa pospolita
 ludowca	ludowiec	subst:sg:acc:m1	nazwa pospolita	
 ludowca	ludowiec	subst:sg:gen:m1	nazwa pospolita	
 ludowcami	ludowiec	subst:pl:inst:m1	nazwa pospolita	
+ludowce	ludowiec	depr:pl:acc:m2	nazwa pospolita	
 ludowce	ludowiec	depr:pl:nom:m2	nazwa pospolita	
 ludowce	ludowiec	depr:pl:voc:m2	nazwa pospolita	
 ludowcem	ludowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -57392,6 +57651,7 @@ ludowładcach	ludowładca	subst:pl:loc:m1	nazwa pospolita
 ludowładca	ludowładca	subst:sg:nom:m1	nazwa pospolita	
 ludowładcami	ludowładca	subst:pl:inst:m1	nazwa pospolita	
 ludowładcą	ludowładca	subst:sg:inst:m1	nazwa pospolita	
+ludowładce	ludowładca	depr:pl:acc:m2	nazwa pospolita	
 ludowładce	ludowładca	depr:pl:nom:m2	nazwa pospolita	
 ludowładce	ludowładca	depr:pl:voc:m2	nazwa pospolita	
 ludowładcę	ludowładca	subst:sg:acc:m1	nazwa pospolita	
@@ -57614,6 +57874,7 @@ ludoznawcach	ludoznawca	subst:pl:loc:m1	nazwa pospolita
 ludoznawca	ludoznawca	subst:sg:nom:m1	nazwa pospolita	
 ludoznawcami	ludoznawca	subst:pl:inst:m1	nazwa pospolita	
 ludoznawcą	ludoznawca	subst:sg:inst:m1	nazwa pospolita	
+ludoznawce	ludoznawca	depr:pl:acc:m2	nazwa pospolita	
 ludoznawce	ludoznawca	depr:pl:nom:m2	nazwa pospolita	
 ludoznawce	ludoznawca	depr:pl:voc:m2	nazwa pospolita	
 ludoznawcę	ludoznawca	subst:sg:acc:m1	nazwa pospolita	
@@ -57682,6 +57943,7 @@ ludożercach	ludożerca	subst:pl:loc:m1	nazwa pospolita
 ludożerca	ludożerca	subst:sg:nom:m1	nazwa pospolita	
 ludożercami	ludożerca	subst:pl:inst:m1	nazwa pospolita	
 ludożercą	ludożerca	subst:sg:inst:m1	nazwa pospolita	
+ludożerce	ludożerca	depr:pl:acc:m2	nazwa pospolita	
 ludożerce	ludożerca	depr:pl:nom:m2	nazwa pospolita	
 ludożerce	ludożerca	depr:pl:voc:m2	nazwa pospolita	
 ludożercę	ludożerca	subst:sg:acc:m1	nazwa pospolita	
@@ -57947,6 +58209,8 @@ ludwisarza	ludwisarz	subst:sg:gen:m1	nazwa pospolita	daw.
 ludwisarza	ludwisarz	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
 ludwisarzami	ludwisarz	subst:pl:inst:m1	nazwa pospolita	daw.
 ludwisarzami	ludwisarz	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
+ludwisarze	ludwisarz	depr:pl:acc:m2	nazwa pospolita	daw.
+ludwisarze	ludwisarz	depr:pl:acc:m2	nazwa pospolita	daw.|rzad.
 ludwisarze	ludwisarz	depr:pl:nom:m2	nazwa pospolita	daw.
 ludwisarze	ludwisarz	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
 ludwisarze	ludwisarz	depr:pl:voc:m2	nazwa pospolita	daw.
@@ -58043,6 +58307,7 @@ ludzikami	ludzik	subst:pl:inst:m1	nazwa pospolita
 ludzikami	ludzik	subst:pl:inst:m2	nazwa pospolita	
 ludzikiem	ludzik	subst:sg:inst:m1	nazwa pospolita	
 ludzikiem	ludzik	subst:sg:inst:m2	nazwa pospolita	
+ludziki	ludzik	depr:pl:acc:m2	nazwa pospolita	
 ludziki	ludzik	depr:pl:nom:m2	nazwa pospolita	
 ludziki	ludzik	depr:pl:voc:m2	nazwa pospolita	
 ludziki	ludzik	subst:pl:acc:m2	nazwa pospolita	
@@ -58921,6 +59186,7 @@ luksemburczyka	luksemburczyk	subst:sg:acc:m1	nazwa pospolita
 luksemburczyka	luksemburczyk	subst:sg:gen:m1	nazwa pospolita	
 luksemburczykami	luksemburczyk	subst:pl:inst:m1	nazwa pospolita	
 luksemburczykiem	luksemburczyk	subst:sg:inst:m1	nazwa pospolita	
+luksemburczyki	luksemburczyk	depr:pl:acc:m2	nazwa pospolita	
 luksemburczyki	luksemburczyk	depr:pl:nom:m2	nazwa pospolita	
 luksemburczyki	luksemburczyk	depr:pl:voc:m2	nazwa pospolita	
 luksemburczyk	luksemburczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -59674,6 +59940,8 @@ luminarza	luminarz	subst:sg:gen:m1	nazwa pospolita
 luminarza	luminarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 luminarzami	luminarz	subst:pl:inst:m1	nazwa pospolita	
 luminarzami	luminarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+luminarze	luminarz	depr:pl:acc:m2	nazwa pospolita	
+luminarze	luminarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 luminarze	luminarz	depr:pl:nom:m2	nazwa pospolita	
 luminarze	luminarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 luminarze	luminarz	depr:pl:voc:m2	nazwa pospolita	
@@ -59933,6 +60201,7 @@ lumpenproletariuszach	lumpenproletariusz	subst:pl:loc:m1	nazwa pospolita
 lumpenproletariusza	lumpenproletariusz	subst:sg:acc:m1	nazwa pospolita	
 lumpenproletariusza	lumpenproletariusz	subst:sg:gen:m1	nazwa pospolita	
 lumpenproletariuszami	lumpenproletariusz	subst:pl:inst:m1	nazwa pospolita	
+lumpenproletariusze	lumpenproletariusz	depr:pl:acc:m2	nazwa pospolita	
 lumpenproletariusze	lumpenproletariusz	depr:pl:nom:m2	nazwa pospolita	
 lumpenproletariusze	lumpenproletariusz	depr:pl:voc:m2	nazwa pospolita	
 lumpenproletariusze	lumpenproletariusz	subst:pl:nom:m1	nazwa pospolita	
@@ -60023,6 +60292,8 @@ lumpiarza	lumpiarz	subst:sg:gen:m1	nazwa pospolita
 lumpiarza	lumpiarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 lumpiarzami	lumpiarz	subst:pl:inst:m1	nazwa pospolita	
 lumpiarzami	lumpiarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+lumpiarze	lumpiarz	depr:pl:acc:m2	nazwa pospolita	
+lumpiarze	lumpiarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 lumpiarze	lumpiarz	depr:pl:nom:m2	nazwa pospolita	
 lumpiarze	lumpiarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 lumpiarze	lumpiarz	depr:pl:voc:m2	nazwa pospolita	
@@ -60188,6 +60459,7 @@ lumpowie	lump:s1	subst:pl:voc:m1	nazwa pospolita	pot.
 lumpowi	lump:s1	subst:sg:dat:m1	nazwa pospolita	pot.
 lumpów	lump:s1	subst:pl:acc:m1	nazwa pospolita	pot.
 lumpów	lump:s1	subst:pl:gen:m1	nazwa pospolita	pot.
+lumpy	lump:s1	depr:pl:acc:m2	nazwa pospolita	pot.
 lumpy	lump:s1	depr:pl:nom:m2	nazwa pospolita	pot.
 lumpy	lump:s1	depr:pl:voc:m2	nazwa pospolita	pot.
 lumpach	lump:s2	subst:pl:loc:m3	nazwa pospolita	pot.
@@ -60383,6 +60655,7 @@ lunatyka	lunatyk	subst:sg:acc:m1	nazwa pospolita
 lunatyka	lunatyk	subst:sg:gen:m1	nazwa pospolita	
 lunatykami	lunatyk	subst:pl:inst:m1	nazwa pospolita	
 lunatykiem	lunatyk	subst:sg:inst:m1	nazwa pospolita	
+lunatyki	lunatyk	depr:pl:acc:m2	nazwa pospolita	
 lunatyki	lunatyk	depr:pl:nom:m2	nazwa pospolita	
 lunatyki	lunatyk	depr:pl:voc:m2	nazwa pospolita	
 lunatyk	lunatyk	subst:sg:nom:m1	nazwa pospolita	
@@ -60697,6 +60970,7 @@ lunonauto	lunonauta	subst:sg:voc:m1	nazwa pospolita
 lunonautom	lunonauta	subst:pl:dat:m1	nazwa pospolita	
 lunonautów	lunonauta	subst:pl:acc:m1	nazwa pospolita	
 lunonautów	lunonauta	subst:pl:gen:m1	nazwa pospolita	
+lunonauty	lunonauta	depr:pl:acc:m2	nazwa pospolita	
 lunonauty	lunonauta	depr:pl:nom:m2	nazwa pospolita	
 lunonauty	lunonauta	depr:pl:voc:m2	nazwa pospolita	
 lunonauty	lunonauta	subst:sg:gen:m1	nazwa pospolita	
@@ -61072,6 +61346,8 @@ lusterkarza	lusterkarz	subst:sg:gen:m1	nazwa pospolita
 lusterkarza	lusterkarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 lusterkarzami	lusterkarz	subst:pl:inst:m1	nazwa pospolita	
 lusterkarzami	lusterkarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+lusterkarze	lusterkarz	depr:pl:acc:m2	nazwa pospolita	
+lusterkarze	lusterkarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 lusterkarze	lusterkarz	depr:pl:nom:m2	nazwa pospolita	
 lusterkarze	lusterkarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 lusterkarze	lusterkarz	depr:pl:voc:m2	nazwa pospolita	
@@ -61226,6 +61502,7 @@ lustratorom	lustrator	subst:pl:dat:m1	nazwa pospolita	przest.
 lustratorowi	lustrator	subst:sg:dat:m1	nazwa pospolita	przest.
 lustratorów	lustrator	subst:pl:acc:m1	nazwa pospolita	przest.
 lustratorów	lustrator	subst:pl:gen:m1	nazwa pospolita	przest.
+lustratory	lustrator	depr:pl:acc:m2	nazwa pospolita	przest.
 lustratory	lustrator	depr:pl:nom:m2	nazwa pospolita	przest.
 lustratory	lustrator	depr:pl:voc:m2	nazwa pospolita	przest.
 lustratorze	lustrator	subst:sg:loc:m1	nazwa pospolita	przest.
@@ -61930,6 +62207,7 @@ lutrom	luter	subst:pl:dat:m1	nazwa pospolita	przest.
 lutrowi	luter	subst:sg:dat:m1	nazwa pospolita	przest.
 lutrów	luter	subst:pl:acc:m1	nazwa pospolita	przest.
 lutrów	luter	subst:pl:gen:m1	nazwa pospolita	przest.
+lutry	luter	depr:pl:acc:m2	nazwa pospolita	przest.
 lutry	luter	depr:pl:nom:m2	nazwa pospolita	przest.
 lutry	luter	depr:pl:voc:m2	nazwa pospolita	przest.
 lutrze	luter	subst:sg:loc:m1	nazwa pospolita	przest.
@@ -61950,6 +62228,7 @@ luteraninowi	luteranin	subst:sg:dat:m1	nazwa pospolita
 luteranom	luteranin	subst:pl:dat:m1	nazwa pospolita	
 luteranów	luteranin	subst:pl:acc:m1	nazwa pospolita	
 luteranów	luteranin	subst:pl:gen:m1	nazwa pospolita	
+luterany	luteranin	depr:pl:acc:m2	nazwa pospolita	
 luterany	luteranin	depr:pl:nom:m2	nazwa pospolita	
 luterany	luteranin	depr:pl:voc:m2	nazwa pospolita	
 luteranizacjach	luteranizacja	subst:pl:loc:f	nazwa pospolita	
@@ -62191,6 +62470,7 @@ lutnika	lutnik	subst:sg:acc:m1	nazwa pospolita
 lutnika	lutnik	subst:sg:gen:m1	nazwa pospolita	
 lutnikami	lutnik	subst:pl:inst:m1	nazwa pospolita	
 lutnikiem	lutnik	subst:sg:inst:m1	nazwa pospolita	
+lutniki	lutnik	depr:pl:acc:m2	nazwa pospolita	
 lutniki	lutnik	depr:pl:nom:m2	nazwa pospolita	
 lutniki	lutnik	depr:pl:voc:m2	nazwa pospolita	
 lutnik	lutnik	subst:sg:nom:m1	nazwa pospolita	
@@ -62261,6 +62541,7 @@ lutnisto	lutnista	subst:sg:voc:m1	nazwa pospolita
 lutnistom	lutnista	subst:pl:dat:m1	nazwa pospolita	
 lutnistów	lutnista	subst:pl:acc:m1	nazwa pospolita	
 lutnistów	lutnista	subst:pl:gen:m1	nazwa pospolita	
+lutnisty	lutnista	depr:pl:acc:m2	nazwa pospolita	
 lutnisty	lutnista	depr:pl:nom:m2	nazwa pospolita	
 lutnisty	lutnista	depr:pl:voc:m2	nazwa pospolita	
 lutnisty	lutnista	subst:sg:gen:m1	nazwa pospolita	
@@ -62433,6 +62714,7 @@ lutowaczach	lutowacz	subst:pl:loc:m1	nazwa pospolita
 lutowacza	lutowacz	subst:sg:acc:m1	nazwa pospolita	
 lutowacza	lutowacz	subst:sg:gen:m1	nazwa pospolita	
 lutowaczami	lutowacz	subst:pl:inst:m1	nazwa pospolita	
+lutowacze	lutowacz	depr:pl:acc:m2	nazwa pospolita	
 lutowacze	lutowacz	depr:pl:nom:m2	nazwa pospolita	
 lutowacze	lutowacz	depr:pl:voc:m2	nazwa pospolita	
 lutowacze	lutowacz	subst:pl:nom:m1	nazwa pospolita	
@@ -62663,6 +62945,7 @@ lutownika	lutownik:s1	subst:sg:acc:m1	nazwa pospolita	techn.
 lutownika	lutownik:s1	subst:sg:gen:m1	nazwa pospolita	techn.
 lutownikami	lutownik:s1	subst:pl:inst:m1	nazwa pospolita	techn.
 lutownikiem	lutownik:s1	subst:sg:inst:m1	nazwa pospolita	techn.
+lutowniki	lutownik:s1	depr:pl:acc:m2	nazwa pospolita	techn.
 lutowniki	lutownik:s1	depr:pl:nom:m2	nazwa pospolita	techn.
 lutowniki	lutownik:s1	depr:pl:voc:m2	nazwa pospolita	techn.
 lutownik	lutownik:s1	subst:sg:nom:m1	nazwa pospolita	techn.
@@ -63004,6 +63287,7 @@ lutrzymy	lutrzyć	fin:pl:pri:imperf		daw.
 lutrzysz	lutrzyć	fin:sg:sec:imperf		daw.
 lutrzyskach	lutrzysko	subst:pl:loc:m1	nazwa pospolita	rzad.
 lutrzyskach	lutrzysko	subst:pl:loc:n:ncol	nazwa pospolita	
+lutrzyska	lutrzysko	depr:pl:acc:m2	nazwa pospolita	rzad.
 lutrzyska	lutrzysko	depr:pl:nom:m2	nazwa pospolita	rzad.
 lutrzyska	lutrzysko	depr:pl:voc:m2	nazwa pospolita	rzad.
 lutrzyska	lutrzysko	subst:pl:acc:n:ncol	nazwa pospolita	
@@ -63284,6 +63568,7 @@ luzaka	luzak:s1	subst:sg:acc:m1	nazwa pospolita	pot.
 luzaka	luzak:s1	subst:sg:gen:m1	nazwa pospolita	pot.
 luzakami	luzak:s1	subst:pl:inst:m1	nazwa pospolita	pot.
 luzakiem	luzak:s1	subst:sg:inst:m1	nazwa pospolita	pot.
+luzaki	luzak:s1	depr:pl:acc:m2	nazwa pospolita	pot.
 luzaki	luzak:s1	depr:pl:nom:m2	nazwa pospolita	pot.
 luzaki	luzak:s1	depr:pl:voc:m2	nazwa pospolita	pot.
 luzak	luzak:s1	subst:sg:nom:m1	nazwa pospolita	pot.
@@ -63712,6 +63997,7 @@ lwowiaka	lwowiak	subst:sg:acc:m1	nazwa pospolita
 lwowiaka	lwowiak	subst:sg:gen:m1	nazwa pospolita	
 lwowiakami	lwowiak	subst:pl:inst:m1	nazwa pospolita	
 lwowiakiem	lwowiak	subst:sg:inst:m1	nazwa pospolita	
+lwowiaki	lwowiak	depr:pl:acc:m2	nazwa pospolita	
 lwowiaki	lwowiak	depr:pl:nom:m2	nazwa pospolita	
 lwowiaki	lwowiak	depr:pl:voc:m2	nazwa pospolita	
 lwowiak	lwowiak	subst:sg:nom:m1	nazwa pospolita	
@@ -63735,6 +64021,7 @@ lwowianinowi	lwowianin	subst:sg:dat:m1	nazwa pospolita
 lwowian	lwowianin	subst:pl:acc:m1	nazwa pospolita	
 lwowian	lwowianin	subst:pl:gen:m1	nazwa pospolita	
 lwowianom	lwowianin	subst:pl:dat:m1	nazwa pospolita	
+lwowiany	lwowianin	depr:pl:acc:m2	nazwa pospolita	
 lwowiany	lwowianin	depr:pl:nom:m2	nazwa pospolita	
 lwowiany	lwowianin	depr:pl:voc:m2	nazwa pospolita	
 lwowscy	lwowski	adj:pl:nom.voc:m1:pos		

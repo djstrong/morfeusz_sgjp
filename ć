@@ -514,6 +514,7 @@
 ćpacza	ćpacz	subst:sg:gen:m1	nazwa pospolita	pot.
 ćpaczami	ćpacz	subst:pl:inst:m1	nazwa pospolita	pot.
 ćpacz	ćpacz	subst:sg:nom:m1	nazwa pospolita	pot.
+ćpacze	ćpacz	depr:pl:acc:m2	nazwa pospolita	pot.
 ćpacze	ćpacz	depr:pl:nom:m2	nazwa pospolita	pot.
 ćpacze	ćpacz	depr:pl:voc:m2	nazwa pospolita	pot.
 ćpacze	ćpacz	subst:pl:nom:m1	nazwa pospolita	pot.
@@ -652,6 +653,7 @@
 ćpunowi	ćpun	subst:sg:dat:m1	nazwa pospolita	pot.
 ćpunów	ćpun	subst:pl:acc:m1	nazwa pospolita	pot.
 ćpunów	ćpun	subst:pl:gen:m1	nazwa pospolita	pot.
+ćpuny	ćpun	depr:pl:acc:m2	nazwa pospolita	pot.
 ćpuny	ćpun	depr:pl:nom:m2	nazwa pospolita	pot.
 ćpuny	ćpun	depr:pl:voc:m2	nazwa pospolita	pot.
 ćpunce	ćpunka	subst:sg:dat:f	nazwa pospolita	
@@ -1348,6 +1350,8 @@
 ćwieczkarzami	ćwieczkarz	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
 ćwieczkarz	ćwieczkarz	subst:sg:nom:m1	nazwa pospolita	daw.
 ćwieczkarz	ćwieczkarz	subst:sg:nom:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarze	ćwieczkarz	depr:pl:acc:m2	nazwa pospolita	daw.
+ćwieczkarze	ćwieczkarz	depr:pl:acc:m2	nazwa pospolita	daw.|rzad.
 ćwieczkarze	ćwieczkarz	depr:pl:nom:m2	nazwa pospolita	daw.
 ćwieczkarze	ćwieczkarz	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
 ćwieczkarze	ćwieczkarz	depr:pl:voc:m2	nazwa pospolita	daw.
@@ -1389,6 +1393,7 @@
 ćwiekacza	ćwiekacz	subst:sg:gen:m1	nazwa pospolita	
 ćwiekaczami	ćwiekacz	subst:pl:inst:m1	nazwa pospolita	
 ćwiekacz	ćwiekacz	subst:sg:nom:m1	nazwa pospolita	
+ćwiekacze	ćwiekacz	depr:pl:acc:m2	nazwa pospolita	
 ćwiekacze	ćwiekacz	depr:pl:nom:m2	nazwa pospolita	
 ćwiekacze	ćwiekacz	depr:pl:voc:m2	nazwa pospolita	
 ćwiekacze	ćwiekacz	subst:pl:nom:m1	nazwa pospolita	
@@ -1684,6 +1689,7 @@
 ćwierćfinalistom	ćwierćfinalista	subst:pl:dat:m1	nazwa pospolita	
 ćwierćfinalistów	ćwierćfinalista	subst:pl:acc:m1	nazwa pospolita	
 ćwierćfinalistów	ćwierćfinalista	subst:pl:gen:m1	nazwa pospolita	
+ćwierćfinalisty	ćwierćfinalista	depr:pl:acc:m2	nazwa pospolita	
 ćwierćfinalisty	ćwierćfinalista	depr:pl:nom:m2	nazwa pospolita	
 ćwierćfinalisty	ćwierćfinalista	depr:pl:voc:m2	nazwa pospolita	
 ćwierćfinalisty	ćwierćfinalista	subst:sg:gen:m1	nazwa pospolita	
@@ -1809,6 +1815,7 @@
 ćwierćinteligentowi	ćwierćinteligent	subst:sg:dat:m1	nazwa pospolita	lekcew.
 ćwierćinteligentów	ćwierćinteligent	subst:pl:acc:m1	nazwa pospolita	lekcew.
 ćwierćinteligentów	ćwierćinteligent	subst:pl:gen:m1	nazwa pospolita	lekcew.
+ćwierćinteligenty	ćwierćinteligent	depr:pl:acc:m2	nazwa pospolita	lekcew.
 ćwierćinteligenty	ćwierćinteligent	depr:pl:nom:m2	nazwa pospolita	lekcew.
 ćwierćinteligenty	ćwierćinteligent	depr:pl:voc:m2	nazwa pospolita	lekcew.
 ćwierćinteligentce	ćwierćinteligentka	subst:sg:dat:f	nazwa pospolita	lekcew.
@@ -1839,7 +1846,7 @@
 ćwierćkolumny	ćwierćkolumna	subst:pl:nom:f	nazwa pospolita	
 ćwierćkolumny	ćwierćkolumna	subst:pl:voc:f	nazwa pospolita	
 ćwierćkolumny	ćwierćkolumna	subst:sg:gen:f	nazwa pospolita	
-ćwierć	ćwierć:n	num:comp		
+ćwierć	ćwierć:n	numcomp		
 ćwierć	ćwierć:n	num:sg:nom.gen.dat.inst.acc.loc.voc:m1.m2.m3.f.n:rec		
 ćwierćnucie	ćwierćnuta	subst:sg:dat:f	nazwa pospolita	muz.
 ćwierćnucie	ćwierćnuta	subst:sg:loc:f	nazwa pospolita	muz.
@@ -2607,6 +2614,7 @@
 ćwika	ćwik:s1	subst:sg:gen:m1	nazwa pospolita	przest.
 ćwikami	ćwik:s1	subst:pl:inst:m1	nazwa pospolita	przest.
 ćwik	ćwik:s1	subst:sg:nom:m1	nazwa pospolita	przest.
+ćwiki	ćwik:s1	depr:pl:acc:m2	nazwa pospolita	przest.
 ćwiki	ćwik:s1	depr:pl:nom:m2	nazwa pospolita	przest.
 ćwiki	ćwik:s1	depr:pl:voc:m2	nazwa pospolita	przest.
 ćwikiem	ćwik:s1	subst:sg:inst:m1	nazwa pospolita	przest.
@@ -2769,6 +2777,7 @@
 ćwoka	ćwok	subst:sg:gen:m1	nazwa pospolita	pot.
 ćwokami	ćwok	subst:pl:inst:m1	nazwa pospolita	pot.
 ćwok	ćwok	subst:sg:nom:m1	nazwa pospolita	pot.
+ćwoki	ćwok	depr:pl:acc:m2	nazwa pospolita	pot.
 ćwoki	ćwok	depr:pl:nom:m2	nazwa pospolita	pot.
 ćwoki	ćwok	depr:pl:voc:m2	nazwa pospolita	pot.
 ćwokiem	ćwok	subst:sg:inst:m1	nazwa pospolita	pot.

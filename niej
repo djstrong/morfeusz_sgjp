@@ -3035,6 +3035,7 @@ niejadkami	niejadek	subst:pl:inst:m1	nazwa pospolita	pot.
 niejadka	niejadek	subst:sg:acc:m1	nazwa pospolita	pot.
 niejadka	niejadek	subst:sg:gen:m1	nazwa pospolita	pot.
 niejadkiem	niejadek	subst:sg:inst:m1	nazwa pospolita	pot.
+niejadki	niejadek	depr:pl:acc:m2	nazwa pospolita	pot.
 niejadki	niejadek	depr:pl:nom:m2	nazwa pospolita	pot.
 niejadki	niejadek	depr:pl:voc:m2	nazwa pospolita	pot.
 niejadkom	niejadek	subst:pl:dat:m1	nazwa pospolita	pot.
@@ -10428,6 +10429,7 @@ niejeden	niejeden:s	subst:sg:voc:m1	nazwa pospolita
 niejednego	niejeden:s	subst:sg:acc:m1	nazwa pospolita	
 niejednego	niejeden:s	subst:sg:gen:m1	nazwa pospolita	
 niejednemu	niejeden:s	subst:sg:dat:m1	nazwa pospolita	
+niejedne	niejeden:s	depr:pl:acc:m2	nazwa pospolita	
 niejedne	niejeden:s	depr:pl:nom:m2	nazwa pospolita	
 niejedne	niejeden:s	depr:pl:voc:m2	nazwa pospolita	
 niejedni	niejeden:s	subst:pl:nom:m1	nazwa pospolita	

@@ -50,6 +50,7 @@ Cackowski	Cackowski	subst:sg:voc:m1	nazwisko
 Cackowskich	Cackowski	subst:pl:acc:m1	nazwisko	
 Cackowskich	Cackowski	subst:pl:gen:m1	nazwisko	
 Cackowskich	Cackowski	subst:pl:loc:m1	nazwisko	
+Cackowskie	Cackowski	depr:pl:acc:m2	nazwisko	
 Cackowskie	Cackowski	depr:pl:nom:m2	nazwisko	
 Cackowskie	Cackowski	depr:pl:voc:m2	nazwisko	
 Cackowskiego	Cackowski	subst:sg:acc:m1	nazwisko	
@@ -100,6 +101,7 @@ CAF-u	CAF	subst:sg:gen:m3	nazwa pospolita
 CAF-y	CAF	subst:pl:acc:m3	nazwa pospolita	
 CAF-y	CAF	subst:pl:nom:m3	nazwa pospolita	
 CAF-y	CAF	subst:pl:voc:m3	nazwa pospolita	
+Cagliostra	Cagliostro	depr:pl:acc:m2	nazwisko	
 Cagliostra	Cagliostro	depr:pl:nom:m2	nazwisko	
 Cagliostra	Cagliostro	depr:pl:voc:m2	nazwisko	
 Cagliostra	Cagliostro	subst:sg:acc:m1	nazwisko	
@@ -116,6 +118,7 @@ Cagliostrowie	Cagliostro	subst:pl:voc:m1	nazwisko
 Cagliostrów	Cagliostro	subst:pl:acc:m1	nazwisko	
 Cagliostrów	Cagliostro	subst:pl:gen:m1	nazwisko	
 Cagliostrze	Cagliostro	subst:sg:loc:m1	nazwisko	
+Caillois	Caillois	depr:pl:acc:m2	nazwisko	
 Caillois	Caillois	depr:pl:nom:m2	nazwisko	
 Caillois	Caillois	depr:pl:voc:m2	nazwisko	
 Caillois	Caillois	subst:pl:acc:m1	nazwisko	
@@ -160,6 +163,7 @@ Calderonowie	Calderon	subst:pl:nom:m1	nazwisko
 Calderonowie	Calderon	subst:pl:voc:m1	nazwisko	
 Calderonów	Calderon	subst:pl:acc:m1	nazwisko	
 Calderonów	Calderon	subst:pl:gen:m1	nazwisko	
+Calderony	Calderon	depr:pl:acc:m2	nazwisko	
 Calderony	Calderon	depr:pl:nom:m2	nazwisko	
 Calderony	Calderon	depr:pl:voc:m2	nazwisko	
 Caldwella	Caldwell	subst:sg:acc:m1	nazwisko	
@@ -167,6 +171,7 @@ Caldwella	Caldwell	subst:sg:gen:m1	nazwisko
 Caldwellach	Caldwell	subst:pl:loc:m1	nazwisko	
 Caldwellami	Caldwell	subst:pl:inst:m1	nazwisko	
 Caldwell	Caldwell	subst:sg:nom:m1	nazwisko	
+Caldwelle	Caldwell	depr:pl:acc:m2	nazwisko	
 Caldwelle	Caldwell	depr:pl:nom:m2	nazwisko	
 Caldwelle	Caldwell	depr:pl:voc:m2	nazwisko	
 Caldwellem	Caldwell	subst:sg:inst:m1	nazwisko	
@@ -196,6 +201,7 @@ Caligula	Caligula	subst:sg:nom:m1	imię
 Caligulach	Caligula	subst:pl:loc:m1	imię	
 Caligulami	Caligula	subst:pl:inst:m1	imię	
 Caligulą	Caligula	subst:sg:inst:m1	imię	
+Caligule	Caligula	depr:pl:acc:m2	imię	
 Caligule	Caligula	depr:pl:nom:m2	imię	
 Caligule	Caligula	depr:pl:voc:m2	imię	
 Caligulę	Caligula	subst:sg:acc:m1	imię	
@@ -236,6 +242,7 @@ Callasowie	Callas	subst:pl:nom:m1	nazwisko
 Callasowie	Callas	subst:pl:voc:m1	nazwisko	
 Callasów	Callas	subst:pl:acc:m1	nazwisko	
 Callasów	Callas	subst:pl:gen:m1	nazwisko	
+Callasy	Callas	depr:pl:acc:m2	nazwisko	
 Callasy	Callas	depr:pl:nom:m2	nazwisko	
 Callasy	Callas	depr:pl:voc:m2	nazwisko	
 Calvadosach	Calvados	subst:pl:loc:m3	nazwa geograficzna	
@@ -311,6 +318,7 @@ Campbella	Campbell	subst:sg:gen:m1	nazwisko
 Campbellach	Campbell	subst:pl:loc:m1	nazwisko	
 Campbellami	Campbell	subst:pl:inst:m1	nazwisko	
 Campbell	Campbell	subst:sg:nom:m1	nazwisko	
+Campbelle	Campbell	depr:pl:acc:m2	nazwisko	
 Campbelle	Campbell	depr:pl:nom:m2	nazwisko	
 Campbelle	Campbell	depr:pl:voc:m2	nazwisko	
 Campbellem	Campbell	subst:sg:inst:m1	nazwisko	
@@ -336,9 +344,11 @@ Camusowie	Camus	subst:pl:nom:m1	nazwisko
 Camusowie	Camus	subst:pl:voc:m1	nazwisko	
 Camusów	Camus	subst:pl:acc:m1	nazwisko	
 Camusów	Camus	subst:pl:gen:m1	nazwisko	
+Camusy	Camus	depr:pl:acc:m2	nazwisko	
 Camusy	Camus	depr:pl:nom:m2	nazwisko	
 Camusy	Camus	depr:pl:voc:m2	nazwisko	
 Canaletcie	Canaletto	subst:sg:loc:m1	nazwisko	
+Canaletta	Canaletto	depr:pl:acc:m2	nazwisko	
 Canaletta	Canaletto	depr:pl:nom:m2	nazwisko	
 Canaletta	Canaletto	depr:pl:voc:m2	nazwisko	
 Canaletta	Canaletto	subst:sg:acc:m1	nazwisko	
@@ -412,6 +422,7 @@ Canossy	Canossa	subst:pl:voc:f	nazwa geograficzna
 Canossy	Canossa	subst:sg:gen:f	nazwa geograficzna	
 Caponach	Capone	subst:pl:loc:m1	nazwisko	
 Caponami	Capone	subst:pl:inst:m1	nazwisko	
+Capone	Capone	depr:pl:acc:m2	nazwisko	
 Capone	Capone	depr:pl:nom:m2	nazwisko	
 Capone	Capone	depr:pl:voc:m2	nazwisko	
 Capone	Capone	subst:pl:acc:m1	nazwisko	
@@ -452,6 +463,7 @@ Capote’owie	Capote	subst:pl:nom:m1	nazwisko
 Capote’owie	Capote	subst:pl:voc:m1	nazwisko	
 Capote’ów	Capote	subst:pl:acc:m1	nazwisko	
 Capote’ów	Capote	subst:pl:gen:m1	nazwisko	
+Capote’y	Capote	depr:pl:acc:m2	nazwisko	
 Capote’y	Capote	depr:pl:nom:m2	nazwisko	
 Capote’y	Capote	depr:pl:voc:m2	nazwisko	
 Capri	Capri	subst:pl:acc:n:ncol	nazwa geograficzna	
@@ -472,6 +484,7 @@ Capria	Caprio	subst:sg:acc:m1	nazwisko
 Capria	Caprio	subst:sg:gen:m1	nazwisko	
 Capriach	Caprio	subst:pl:loc:m1	nazwisko	
 Capriami	Caprio	subst:pl:inst:m1	nazwisko	
+Caprie	Caprio	depr:pl:acc:m2	nazwisko	
 Caprie	Caprio	depr:pl:nom:m2	nazwisko	
 Caprie	Caprio	depr:pl:voc:m2	nazwisko	
 Capriem	Caprio	subst:sg:inst:m1	nazwisko	
@@ -502,6 +515,7 @@ Caravaggia	Caravaggio	subst:sg:acc:m1	nazwisko
 Caravaggia	Caravaggio	subst:sg:gen:m1	nazwisko	
 Caravaggiach	Caravaggio	subst:pl:loc:m1	nazwisko	
 Caravaggiami	Caravaggio	subst:pl:inst:m1	nazwisko	
+Caravaggie	Caravaggio	depr:pl:acc:m2	nazwisko	
 Caravaggie	Caravaggio	depr:pl:nom:m2	nazwisko	
 Caravaggie	Caravaggio	depr:pl:voc:m2	nazwisko	
 Caravaggiem	Caravaggio	subst:sg:inst:m1	nazwisko	
@@ -528,10 +542,12 @@ Cardinowie	Cardin	subst:pl:nom:m1	nazwisko
 Cardinowie	Cardin	subst:pl:voc:m1	nazwisko	
 Cardinów	Cardin	subst:pl:acc:m1	nazwisko	
 Cardinów	Cardin	subst:pl:gen:m1	nazwisko	
+Cardiny	Cardin	depr:pl:acc:m2	nazwisko	
 Cardiny	Cardin	depr:pl:nom:m2	nazwisko	
 Cardiny	Cardin	depr:pl:voc:m2	nazwisko	
 Cardinalach	Cardinale:s1	subst:pl:loc:m1	nazwisko	
 Cardinalami	Cardinale:s1	subst:pl:inst:m1	nazwisko	
+Cardinale	Cardinale:s1	depr:pl:acc:m2	nazwisko	
 Cardinale	Cardinale:s1	depr:pl:nom:m2	nazwisko	
 Cardinale	Cardinale:s1	depr:pl:voc:m2	nazwisko	
 Cardinale	Cardinale:s1	subst:sg:nom:m1	nazwisko	
@@ -579,6 +595,7 @@ Carla	Carl	subst:sg:gen:m1	imię
 Carlach	Carl	subst:pl:loc:m1	imię	
 Carlami	Carl	subst:pl:inst:m1	imię	
 Carl	Carl	subst:sg:nom:m1	imię	
+Carle	Carl	depr:pl:acc:m2	imię	
 Carle	Carl	depr:pl:nom:m2	imię	
 Carle	Carl	depr:pl:voc:m2	imię	
 Carle	Carl	subst:pl:nom:m1	imię	
@@ -606,6 +623,7 @@ Carlosowie	Carlos	subst:pl:nom:m1	imię
 Carlosowie	Carlos	subst:pl:voc:m1	imię	
 Carlosów	Carlos	subst:pl:acc:m1	imię	
 Carlosów	Carlos	subst:pl:gen:m1	imię	
+Carlosy	Carlos	depr:pl:acc:m2	imię	
 Carlosy	Carlos	depr:pl:nom:m2	imię	
 Carlosy	Carlos	depr:pl:voc:m2	imię	
 Carlo	Carlo:s1	subst:pl:acc:n:ncol	nazwa geograficzna	
@@ -626,6 +644,7 @@ Carla	Carlo:s2	subst:sg:acc:m1	imię
 Carla	Carlo:s2	subst:sg:gen:m1	imię	
 Carlach	Carlo:s2	subst:pl:loc:m1	imię	
 Carlami	Carlo:s2	subst:pl:inst:m1	imię	
+Carle	Carlo:s2	depr:pl:acc:m2	imię	
 Carle	Carlo:s2	depr:pl:nom:m2	imię	
 Carle	Carlo:s2	depr:pl:voc:m2	imię	
 Carlem	Carlo:s2	subst:sg:inst:m1	imię	
@@ -666,8 +685,10 @@ Carnapowie	Carnap	subst:pl:nom:m1	nazwisko
 Carnapowie	Carnap	subst:pl:voc:m1	nazwisko	
 Carnapów	Carnap	subst:pl:acc:m1	nazwisko	
 Carnapów	Carnap	subst:pl:gen:m1	nazwisko	
+Carnapy	Carnap	depr:pl:acc:m2	nazwisko	
 Carnapy	Carnap	depr:pl:nom:m2	nazwisko	
 Carnapy	Carnap	depr:pl:voc:m2	nazwisko	
+Carnegie	Carnegie	depr:pl:acc:m2	nazwisko	
 Carnegie	Carnegie	depr:pl:nom:m2	nazwisko	
 Carnegie	Carnegie	depr:pl:voc:m2	nazwisko	
 Carnegie	Carnegie	subst:pl:nom:m1	nazwisko	
@@ -695,6 +716,7 @@ Carrowie	Carra	subst:pl:nom:m1	nazwisko
 Carrowie	Carra	subst:pl:voc:m1	nazwisko	
 Carrów	Carra	subst:pl:acc:m1	nazwisko	
 Carrów	Carra	subst:pl:gen:m1	nazwisko	
+Carry	Carra	depr:pl:acc:m2	nazwisko	
 Carry	Carra	depr:pl:nom:m2	nazwisko	
 Carry	Carra	depr:pl:voc:m2	nazwisko	
 Carry	Carra	subst:sg:gen:m1	nazwisko	
@@ -707,6 +729,7 @@ Carracci	Carracci	subst:sg:voc:m1	nazwisko
 Carraccich	Carracci	subst:pl:acc:m1	nazwisko	
 Carraccich	Carracci	subst:pl:gen:m1	nazwisko	
 Carraccich	Carracci	subst:pl:loc:m1	nazwisko	
+Carraccie	Carracci	depr:pl:acc:m2	nazwisko	
 Carraccie	Carracci	depr:pl:nom:m2	nazwisko	
 Carraccie	Carracci	depr:pl:voc:m2	nazwisko	
 Carracciego	Carracci	subst:sg:acc:m1	nazwisko	
@@ -732,6 +755,7 @@ Carrerasowie	Carreras	subst:pl:nom:m1	nazwisko
 Carrerasowie	Carreras	subst:pl:voc:m1	nazwisko	
 Carrerasów	Carreras	subst:pl:acc:m1	nazwisko	
 Carrerasów	Carreras	subst:pl:gen:m1	nazwisko	
+Carrerasy	Carreras	depr:pl:acc:m2	nazwisko	
 Carrerasy	Carreras	depr:pl:nom:m2	nazwisko	
 Carrerasy	Carreras	depr:pl:voc:m2	nazwisko	
 Carrola	Carrol	subst:sg:acc:m1	nazwisko	
@@ -739,6 +763,7 @@ Carrola	Carrol	subst:sg:gen:m1	nazwisko
 Carrolach	Carrol	subst:pl:loc:m1	nazwisko	
 Carrolami	Carrol	subst:pl:inst:m1	nazwisko	
 Carrol	Carrol	subst:sg:nom:m1	nazwisko	
+Carrole	Carrol	depr:pl:acc:m2	nazwisko	
 Carrole	Carrol	depr:pl:nom:m2	nazwisko	
 Carrole	Carrol	depr:pl:voc:m2	nazwisko	
 Carrolem	Carrol	subst:sg:inst:m1	nazwisko	
@@ -762,6 +787,7 @@ Carterowie	Carter	subst:pl:nom:m1	nazwisko
 Carterowie	Carter	subst:pl:voc:m1	nazwisko	
 Carterów	Carter	subst:pl:acc:m1	nazwisko	
 Carterów	Carter	subst:pl:gen:m1	nazwisko	
+Cartery	Carter	depr:pl:acc:m2	nazwisko	
 Cartery	Carter	depr:pl:nom:m2	nazwisko	
 Cartery	Carter	depr:pl:voc:m2	nazwisko	
 Carterze	Carter	subst:sg:loc:m1	nazwisko	
@@ -772,6 +798,7 @@ Carusach	Caruso	subst:pl:loc:m1	nazwisko
 Carusami	Caruso	subst:pl:inst:m1	nazwisko	
 Carusem	Caruso	subst:sg:inst:m1	nazwisko	
 Carusie	Caruso	subst:sg:loc:m1	nazwisko	
+Caruso	Caruso	depr:pl:acc:m2	nazwisko	
 Caruso	Caruso	depr:pl:nom:m2	nazwisko	
 Caruso	Caruso	depr:pl:voc:m2	nazwisko	
 Caruso	Caruso	subst:pl:acc:m1	nazwisko	
@@ -794,6 +821,7 @@ Carusowie	Caruso	subst:pl:nom:m1	nazwisko
 Carusowie	Caruso	subst:pl:voc:m1	nazwisko	
 Carusów	Caruso	subst:pl:acc:m1	nazwisko	
 Carusów	Caruso	subst:pl:gen:m1	nazwisko	
+Carusy	Caruso	depr:pl:acc:m2	nazwisko	
 Carusy	Caruso	depr:pl:nom:m2	nazwisko	
 Carusy	Caruso	depr:pl:voc:m2	nazwisko	
 Casanova	Casanova	subst:sg:nom:m1	nazwisko	
@@ -809,9 +837,11 @@ Casanovowie	Casanova	subst:pl:nom:m1	nazwisko
 Casanovowie	Casanova	subst:pl:voc:m1	nazwisko	
 Casanovów	Casanova	subst:pl:acc:m1	nazwisko	
 Casanovów	Casanova	subst:pl:gen:m1	nazwisko	
+Casanovy	Casanova	depr:pl:acc:m2	nazwisko	
 Casanovy	Casanova	depr:pl:nom:m2	nazwisko	
 Casanovy	Casanova	depr:pl:voc:m2	nazwisko	
 Casanovy	Casanova	subst:sg:gen:m1	nazwisko	
+Casarole	Casaroli	depr:pl:acc:m2	nazwisko	
 Casarole	Casaroli	depr:pl:nom:m2	nazwisko	
 Casarole	Casaroli	depr:pl:voc:m2	nazwisko	
 Casarolego	Casaroli	subst:sg:acc:m1	nazwisko	
@@ -829,6 +859,7 @@ Casarolim	Casaroli	subst:sg:inst:m1	nazwisko
 Casarolim	Casaroli	subst:sg:loc:m1	nazwisko	
 Casarolimi	Casaroli	subst:pl:inst:m1	nazwisko	
 Cassino	Cassino	burk		
+Castro	Castro	depr:pl:acc:m2	nazwisko	
 Castro	Castro	depr:pl:nom:m2	nazwisko	
 Castro	Castro	depr:pl:voc:m2	nazwisko	
 Castro	Castro	subst:pl:acc:m1	nazwisko	
@@ -859,6 +890,7 @@ Cazinowie	Cazin	subst:pl:nom:m1	nazwisko
 Cazinowie	Cazin	subst:pl:voc:m1	nazwisko	
 Cazinów	Cazin	subst:pl:acc:m1	nazwisko	
 Cazinów	Cazin	subst:pl:gen:m1	nazwisko	
+Caziny	Cazin	depr:pl:acc:m2	nazwisko	
 Caziny	Cazin	depr:pl:nom:m2	nazwisko	
 Caziny	Cazin	depr:pl:voc:m2	nazwisko	
 CBOS-ach	CBOS	subst:pl:loc:m3	nazwa organizacji	
@@ -1012,6 +1044,7 @@ CDU	CDU	subst:sg:nom:f	nazwa organizacji
 CDU	CDU	subst:sg:nom:n:ncol	nazwa organizacji	
 CDU	CDU	subst:sg:voc:f	nazwa organizacji	
 CDU	CDU	subst:sg:voc:n:ncol	nazwa organizacji	
+Ceauşescu	Ceauşescu	depr:pl:acc:m2	nazwisko	
 Ceauşescu	Ceauşescu	depr:pl:nom:m2	nazwisko	
 Ceauşescu	Ceauşescu	depr:pl:voc:m2	nazwisko	
 Ceauşescu	Ceauşescu	subst:pl:acc:m1	nazwisko	
@@ -1061,6 +1094,7 @@ Cecyla	Cecyl	subst:sg:gen:m1	imię
 Cecylach	Cecyl	subst:pl:loc:m1	imię	
 Cecylami	Cecyl	subst:pl:inst:m1	imię	
 Cecyl	Cecyl	subst:sg:nom:m1	imię	
+Cecyle	Cecyl	depr:pl:acc:m2	imię	
 Cecyle	Cecyl	depr:pl:nom:m2	imię	
 Cecyle	Cecyl	depr:pl:voc:m2	imię	
 Cecyle	Cecyl	subst:pl:nom:m1	imię	
@@ -1105,6 +1139,7 @@ Cecylianowie	Cecylian	subst:pl:nom:m1	imię
 Cecylianowie	Cecylian	subst:pl:voc:m1	imię	
 Cecylianów	Cecylian	subst:pl:acc:m1	imię	
 Cecylianów	Cecylian	subst:pl:gen:m1	imię	
+Cecyliany	Cecylian	depr:pl:acc:m2	imię	
 Cecyliany	Cecylian	depr:pl:nom:m2	imię	
 Cecyliany	Cecylian	depr:pl:voc:m2	imię	
 Cecyliusza	Cecyliusz	subst:sg:acc:m1	imię	
@@ -1112,6 +1147,7 @@ Cecyliusza	Cecyliusz	subst:sg:gen:m1	imię
 Cecyliuszach	Cecyliusz	subst:pl:loc:m1	imię	
 Cecyliuszami	Cecyliusz	subst:pl:inst:m1	imię	
 Cecyliusz	Cecyliusz	subst:sg:nom:m1	imię	
+Cecyliusze	Cecyliusz	depr:pl:acc:m2	imię	
 Cecyliusze	Cecyliusz	depr:pl:nom:m2	imię	
 Cecyliusze	Cecyliusz	depr:pl:voc:m2	imię	
 Cecyliusze	Cecyliusz	subst:pl:nom:m1	imię	
@@ -1201,6 +1237,7 @@ Cegielski	Cegielski	subst:sg:voc:m1	nazwisko
 Cegielskich	Cegielski	subst:pl:acc:m1	nazwisko	
 Cegielskich	Cegielski	subst:pl:gen:m1	nazwisko	
 Cegielskich	Cegielski	subst:pl:loc:m1	nazwisko	
+Cegielskie	Cegielski	depr:pl:acc:m2	nazwisko	
 Cegielskie	Cegielski	depr:pl:nom:m2	nazwisko	
 Cegielskie	Cegielski	depr:pl:voc:m2	nazwisko	
 Cegielskiego	Cegielski	subst:sg:acc:m1	nazwisko	
@@ -1300,6 +1337,7 @@ Celestynowie	Celestyn	subst:pl:nom:m1	imię
 Celestynowie	Celestyn	subst:pl:voc:m1	imię	
 Celestynów	Celestyn	subst:pl:acc:m1	imię	
 Celestynów	Celestyn	subst:pl:gen:m1	imię	
+Celestyny	Celestyn	depr:pl:acc:m2	imię	
 Celestyny	Celestyn	depr:pl:nom:m2	imię	
 Celestyny	Celestyn	depr:pl:voc:m2	imię	
 Celestyna	Celestyna	subst:sg:nom:f	imię	
@@ -1394,6 +1432,7 @@ Celiński	Celiński	subst:sg:voc:m1	nazwisko
 Celińskich	Celiński	subst:pl:acc:m1	nazwisko	
 Celińskich	Celiński	subst:pl:gen:m1	nazwisko	
 Celińskich	Celiński	subst:pl:loc:m1	nazwisko	
+Celińskie	Celiński	depr:pl:acc:m2	nazwisko	
 Celińskie	Celiński	depr:pl:nom:m2	nazwisko	
 Celińskie	Celiński	depr:pl:voc:m2	nazwisko	
 Celińskiego	Celiński	subst:sg:acc:m1	nazwisko	
@@ -1424,6 +1463,7 @@ Cellini	Cellini	subst:sg:voc:m1	nazwisko
 Cellinich	Cellini	subst:pl:acc:m1	nazwisko	
 Cellinich	Cellini	subst:pl:gen:m1	nazwisko	
 Cellinich	Cellini	subst:pl:loc:m1	nazwisko	
+Cellinie	Cellini	depr:pl:acc:m2	nazwisko	
 Cellinie	Cellini	depr:pl:nom:m2	nazwisko	
 Cellinie	Cellini	depr:pl:voc:m2	nazwisko	
 Celliniego	Cellini	subst:sg:acc:m1	nazwisko	
@@ -1441,6 +1481,7 @@ Celsjusza	Celsjusz	subst:sg:gen:m1	nazwisko
 Celsjuszach	Celsjusz	subst:pl:loc:m1	nazwisko	
 Celsjuszami	Celsjusz	subst:pl:inst:m1	nazwisko	
 Celsjusz	Celsjusz	subst:sg:nom:m1	nazwisko	
+Celsjusze	Celsjusz	depr:pl:acc:m2	nazwisko	
 Celsjusze	Celsjusz	depr:pl:nom:m2	nazwisko	
 Celsjusze	Celsjusz	depr:pl:voc:m2	nazwisko	
 Celsjusze	Celsjusz	subst:pl:nom:m1	nazwisko	
@@ -1468,6 +1509,7 @@ Celtowie	Celt	subst:pl:nom:m1	nazwa pospolita
 Celtowie	Celt	subst:pl:voc:m1	nazwa pospolita	
 Celtów	Celt	subst:pl:acc:m1	nazwa pospolita	
 Celtów	Celt	subst:pl:gen:m1	nazwa pospolita	
+Celty	Celt	depr:pl:acc:m2	nazwa pospolita	
 Celty	Celt	depr:pl:nom:m2	nazwa pospolita	
 Celty	Celt	depr:pl:voc:m2	nazwa pospolita	
 Celtesa	Celtes	subst:sg:acc:m1	nazwisko	
@@ -1484,6 +1526,7 @@ Celtesowie	Celtes	subst:pl:nom:m1	nazwisko
 Celtesowie	Celtes	subst:pl:voc:m1	nazwisko	
 Celtesów	Celtes	subst:pl:acc:m1	nazwisko	
 Celtesów	Celtes	subst:pl:gen:m1	nazwisko	
+Celtesy	Celtes	depr:pl:acc:m2	nazwisko	
 Celtesy	Celtes	depr:pl:nom:m2	nazwisko	
 Celtesy	Celtes	depr:pl:voc:m2	nazwisko	
 Cendrowska	Cendrowska	subst:sg:nom:f	nazwisko	
@@ -1507,6 +1550,7 @@ Cendrowski	Cendrowski	subst:sg:voc:m1	nazwisko
 Cendrowskich	Cendrowski	subst:pl:acc:m1	nazwisko	
 Cendrowskich	Cendrowski	subst:pl:gen:m1	nazwisko	
 Cendrowskich	Cendrowski	subst:pl:loc:m1	nazwisko	
+Cendrowskie	Cendrowski	depr:pl:acc:m2	nazwisko	
 Cendrowskie	Cendrowski	depr:pl:nom:m2	nazwisko	
 Cendrowskie	Cendrowski	depr:pl:voc:m2	nazwisko	
 Cendrowskiego	Cendrowski	subst:sg:acc:m1	nazwisko	
@@ -1521,6 +1565,7 @@ Centkiewicza	Centkiewicz	subst:sg:gen:m1	nazwisko
 Centkiewiczach	Centkiewicz	subst:pl:loc:m1	nazwisko	
 Centkiewiczami	Centkiewicz	subst:pl:inst:m1	nazwisko	
 Centkiewicz	Centkiewicz	subst:sg:nom:m1	nazwisko	
+Centkiewicze	Centkiewicz	depr:pl:acc:m2	nazwisko	
 Centkiewicze	Centkiewicz	depr:pl:nom:m2	nazwisko	
 Centkiewicze	Centkiewicz	depr:pl:voc:m2	nazwisko	
 Centkiewicze	Centkiewicz	subst:pl:nom:m1	nazwisko	
@@ -1555,6 +1600,7 @@ Centkowski	Centkowski	subst:sg:voc:m1	nazwisko
 Centkowskich	Centkowski	subst:pl:acc:m1	nazwisko	
 Centkowskich	Centkowski	subst:pl:gen:m1	nazwisko	
 Centkowskich	Centkowski	subst:pl:loc:m1	nazwisko	
+Centkowskie	Centkowski	depr:pl:acc:m2	nazwisko	
 Centkowskie	Centkowski	depr:pl:nom:m2	nazwisko	
 Centkowskie	Centkowski	depr:pl:voc:m2	nazwisko	
 Centkowskiego	Centkowski	subst:sg:acc:m1	nazwisko	
@@ -1633,6 +1679,7 @@ Cerhowie	Cerha	subst:pl:nom:m1	nazwisko
 Cerhowie	Cerha	subst:pl:voc:m1	nazwisko	
 Cerhów	Cerha	subst:pl:acc:m1	nazwisko	
 Cerhów	Cerha	subst:pl:gen:m1	nazwisko	
+Cerhy	Cerha	depr:pl:acc:m2	nazwisko	
 Cerhy	Cerha	depr:pl:nom:m2	nazwisko	
 Cerhy	Cerha	depr:pl:voc:m2	nazwisko	
 Cerhy	Cerha	subst:sg:gen:m1	nazwisko	
@@ -1668,6 +1715,7 @@ Cervantesowie	Cervantes	subst:pl:nom:m1	nazwisko
 Cervantesowie	Cervantes	subst:pl:voc:m1	nazwisko	
 Cervantesów	Cervantes	subst:pl:acc:m1	nazwisko	
 Cervantesów	Cervantes	subst:pl:gen:m1	nazwisko	
+Cervantesy	Cervantes	depr:pl:acc:m2	nazwisko	
 Cervantesy	Cervantes	depr:pl:nom:m2	nazwisko	
 Cervantesy	Cervantes	depr:pl:voc:m2	nazwisko	
 Cewicach	Cewice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -1696,6 +1744,7 @@ Cezanne’owie	Cezanne	subst:pl:nom:m1	nazwisko
 Cezanne’owie	Cezanne	subst:pl:voc:m1	nazwisko	
 Cezanne’ów	Cezanne	subst:pl:acc:m1	nazwisko	
 Cezanne’ów	Cezanne	subst:pl:gen:m1	nazwisko	
+Cezanne’y	Cezanne	depr:pl:acc:m2	nazwisko	
 Cezanne’y	Cezanne	depr:pl:nom:m2	nazwisko	
 Cezanne’y	Cezanne	depr:pl:voc:m2	nazwisko	
 Cezannie	Cezanne	subst:sg:loc:m1	nazwisko	
@@ -1712,6 +1761,7 @@ Cezarowie	Cezar	subst:pl:nom:m1	imię
 Cezarowie	Cezar	subst:pl:voc:m1	imię	
 Cezarów	Cezar	subst:pl:acc:m1	imię	
 Cezarów	Cezar	subst:pl:gen:m1	imię	
+Cezary	Cezar	depr:pl:acc:m2	imię	
 Cezary	Cezar	depr:pl:nom:m2	imię	
 Cezary	Cezar	depr:pl:voc:m2	imię	
 Cezarze	Cezar	subst:sg:loc:m1	imię	
@@ -1723,6 +1773,7 @@ Cezariusza	Cezariusz	subst:sg:gen:m1	imię
 Cezariuszach	Cezariusz	subst:pl:loc:m1	imię	
 Cezariuszami	Cezariusz	subst:pl:inst:m1	imię	
 Cezariusz	Cezariusz	subst:sg:nom:m1	imię	
+Cezariusze	Cezariusz	depr:pl:acc:m2	imię	
 Cezariusze	Cezariusz	depr:pl:nom:m2	imię	
 Cezariusze	Cezariusz	depr:pl:voc:m2	imię	
 Cezariusze	Cezariusz	subst:pl:nom:m1	imię	
@@ -1736,6 +1787,7 @@ Cezariuszów	Cezariusz	subst:pl:acc:m1	imię
 Cezariuszów	Cezariusz	subst:pl:gen:m1	imię	
 Cezariuszu	Cezariusz	subst:sg:loc:m1	imię	
 Cezariuszu	Cezariusz	subst:sg:voc:m1	imię	
+Cezare	Cezary	depr:pl:acc:m2	imię	
 Cezare	Cezary	depr:pl:nom:m2	imię	
 Cezare	Cezary	depr:pl:voc:m2	imię	
 Cezarego	Cezary	subst:sg:acc:m1	imię	
@@ -1827,6 +1879,7 @@ Chabrola	Chabrol	subst:sg:gen:m1	nazwisko
 Chabrolach	Chabrol	subst:pl:loc:m1	nazwisko	
 Chabrolami	Chabrol	subst:pl:inst:m1	nazwisko	
 Chabrol	Chabrol	subst:sg:nom:m1	nazwisko	
+Chabrole	Chabrol	depr:pl:acc:m2	nazwisko	
 Chabrole	Chabrol	depr:pl:nom:m2	nazwisko	
 Chabrole	Chabrol	depr:pl:voc:m2	nazwisko	
 Chabrolem	Chabrol	subst:sg:inst:m1	nazwisko	
@@ -1852,6 +1905,7 @@ Chaczaturianowie	Chaczaturian	subst:pl:nom:m1	nazwisko
 Chaczaturianowie	Chaczaturian	subst:pl:voc:m1	nazwisko	
 Chaczaturianów	Chaczaturian	subst:pl:acc:m1	nazwisko	
 Chaczaturianów	Chaczaturian	subst:pl:gen:m1	nazwisko	
+Chaczaturiany	Chaczaturian	depr:pl:acc:m2	nazwisko	
 Chaczaturiany	Chaczaturian	depr:pl:nom:m2	nazwisko	
 Chaczaturiany	Chaczaturian	depr:pl:voc:m2	nazwisko	
 Chagalla	Chagall	subst:sg:acc:m1	nazwisko	
@@ -1859,6 +1913,7 @@ Chagalla	Chagall	subst:sg:gen:m1	nazwisko
 Chagallach	Chagall	subst:pl:loc:m1	nazwisko	
 Chagallami	Chagall	subst:pl:inst:m1	nazwisko	
 Chagall	Chagall	subst:sg:nom:m1	nazwisko	
+Chagalle	Chagall	depr:pl:acc:m2	nazwisko	
 Chagalle	Chagall	depr:pl:nom:m2	nazwisko	
 Chagalle	Chagall	depr:pl:voc:m2	nazwisko	
 Chagalle	Chagall	subst:pl:nom:m1	nazwisko	
@@ -1886,6 +1941,7 @@ Chaimowie	Chaim	subst:pl:nom:m1	imię
 Chaimowie	Chaim	subst:pl:voc:m1	imię	
 Chaimów	Chaim	subst:pl:acc:m1	imię	
 Chaimów	Chaim	subst:pl:gen:m1	imię	
+Chaimy	Chaim	depr:pl:acc:m2	imię	
 Chaimy	Chaim	depr:pl:nom:m2	imię	
 Chaimy	Chaim	depr:pl:voc:m2	imię	
 Chai	Chaja	subst:pl:gen:f	imię	hom.
@@ -1941,6 +1997,7 @@ Chałubiński	Chałubiński	subst:sg:voc:m1	nazwisko
 Chałubińskich	Chałubiński	subst:pl:acc:m1	nazwisko	
 Chałubińskich	Chałubiński	subst:pl:gen:m1	nazwisko	
 Chałubińskich	Chałubiński	subst:pl:loc:m1	nazwisko	
+Chałubińskie	Chałubiński	depr:pl:acc:m2	nazwisko	
 Chałubińskie	Chałubiński	depr:pl:nom:m2	nazwisko	
 Chałubińskie	Chałubiński	depr:pl:voc:m2	nazwisko	
 Chałubińskiego	Chałubiński	subst:sg:acc:m1	nazwisko	
@@ -1964,6 +2021,7 @@ Chamowie	Cham	subst:pl:nom:m1	imię
 Chamowie	Cham	subst:pl:voc:m1	imię	
 Chamów	Cham	subst:pl:acc:m1	imię	
 Chamów	Cham	subst:pl:gen:m1	imię	
+Chamy	Cham	depr:pl:acc:m2	imię	
 Chamy	Cham	depr:pl:nom:m2	imię	
 Chamy	Cham	depr:pl:voc:m2	imię	
 Chamberlaina	Chamberlain	subst:sg:acc:m1	nazwisko	
@@ -1980,6 +2038,7 @@ Chamberlainowie	Chamberlain	subst:pl:nom:m1	nazwisko
 Chamberlainowie	Chamberlain	subst:pl:voc:m1	nazwisko	
 Chamberlainów	Chamberlain	subst:pl:acc:m1	nazwisko	
 Chamberlainów	Chamberlain	subst:pl:gen:m1	nazwisko	
+Chamberlainy	Chamberlain	depr:pl:acc:m2	nazwisko	
 Chamberlainy	Chamberlain	depr:pl:nom:m2	nazwisko	
 Chamberlainy	Chamberlain	depr:pl:voc:m2	nazwisko	
 Chandlera	Chandler	subst:sg:acc:m1	nazwisko	
@@ -1994,6 +2053,7 @@ Chandlerowie	Chandler	subst:pl:nom:m1	nazwisko
 Chandlerowie	Chandler	subst:pl:voc:m1	nazwisko	
 Chandlerów	Chandler	subst:pl:acc:m1	nazwisko	
 Chandlerów	Chandler	subst:pl:gen:m1	nazwisko	
+Chandlery	Chandler	depr:pl:acc:m2	nazwisko	
 Chandlery	Chandler	depr:pl:nom:m2	nazwisko	
 Chandlery	Chandler	depr:pl:voc:m2	nazwisko	
 Chandlerze	Chandler	subst:sg:loc:m1	nazwisko	
@@ -2003,6 +2063,7 @@ Chanela	Chanel	subst:sg:gen:m1	nazwisko
 Chanelach	Chanel	subst:pl:loc:m1	nazwisko	
 Chanelami	Chanel	subst:pl:inst:m1	nazwisko	
 Chanel	Chanel	subst:sg:nom:m1	nazwisko	
+Chanele	Chanel	depr:pl:acc:m2	nazwisko	
 Chanele	Chanel	depr:pl:nom:m2	nazwisko	
 Chanele	Chanel	depr:pl:voc:m2	nazwisko	
 Chanelem	Chanel	subst:sg:inst:m1	nazwisko	
@@ -2042,6 +2103,7 @@ Chaplinowie	Chaplin	subst:pl:nom:m1	nazwisko
 Chaplinowie	Chaplin	subst:pl:voc:m1	nazwisko	
 Chaplinów	Chaplin	subst:pl:acc:m1	nazwisko	
 Chaplinów	Chaplin	subst:pl:gen:m1	nazwisko	
+Chapliny	Chaplin	depr:pl:acc:m2	nazwisko	
 Chapliny	Chaplin	depr:pl:nom:m2	nazwisko	
 Chapliny	Chaplin	depr:pl:voc:m2	nazwisko	
 Chardina	Chardin	subst:sg:acc:m1	nazwisko	
@@ -2058,6 +2120,7 @@ Chardinowie	Chardin	subst:pl:nom:m1	nazwisko
 Chardinowie	Chardin	subst:pl:voc:m1	nazwisko	
 Chardinów	Chardin	subst:pl:acc:m1	nazwisko	
 Chardinów	Chardin	subst:pl:gen:m1	nazwisko	
+Chardiny	Chardin	depr:pl:acc:m2	nazwisko	
 Chardiny	Chardin	depr:pl:nom:m2	nazwisko	
 Chardiny	Chardin	depr:pl:voc:m2	nazwisko	
 Charkowa	Charków	subst:sg:gen:m3	nazwa geograficzna	
@@ -2091,6 +2154,7 @@ Charlesowie	Charles:s1	subst:pl:nom:m1	imię|pseudonim
 Charlesowie	Charles:s1	subst:pl:voc:m1	imię|pseudonim	
 Charlesów	Charles:s1	subst:pl:acc:m1	imię|pseudonim	
 Charlesów	Charles:s1	subst:pl:gen:m1	imię|pseudonim	
+Charlesy	Charles:s1	depr:pl:acc:m2	imię|pseudonim	
 Charlesy	Charles:s1	depr:pl:nom:m2	imię|pseudonim	
 Charlesy	Charles:s1	depr:pl:voc:m2	imię|pseudonim	
 Charles’a	Charles:s2	subst:sg:acc:m1	imię	
@@ -2098,6 +2162,7 @@ Charles’a	Charles:s2	subst:sg:gen:m1	imię
 Charles’ach	Charles:s2	subst:pl:loc:m1	imię	
 Charles’ami	Charles:s2	subst:pl:inst:m1	imię	
 Charles	Charles:s2	subst:sg:nom:m1	imię	
+Charles’e	Charles:s2	depr:pl:acc:m2	imię	
 Charles’e	Charles:s2	depr:pl:nom:m2	imię	
 Charles’e	Charles:s2	depr:pl:voc:m2	imię	
 Charles’em	Charles:s2	subst:sg:inst:m1	imię	
@@ -2139,6 +2204,7 @@ Charłampowie	Charłamp	subst:pl:nom:m1	imię
 Charłampowie	Charłamp	subst:pl:voc:m1	imię	
 Charłampów	Charłamp	subst:pl:acc:m1	imię	
 Charłampów	Charłamp	subst:pl:gen:m1	imię	
+Charłampy	Charłamp	depr:pl:acc:m2	imię	
 Charłampy	Charłamp	depr:pl:nom:m2	imię	
 Charłampy	Charłamp	depr:pl:voc:m2	imię	
 Charona	Charon	subst:sg:acc:m1	imię	mit.
@@ -2155,6 +2221,7 @@ Charonowie	Charon	subst:pl:nom:m1	imię	mit.
 Charonowie	Charon	subst:pl:voc:m1	imię	mit.
 Charonów	Charon	subst:pl:acc:m1	imię	mit.
 Charonów	Charon	subst:pl:gen:m1	imię	mit.
+Charony	Charon	depr:pl:acc:m2	imię	mit.
 Charony	Charon	depr:pl:nom:m2	imię	mit.
 Charony	Charon	depr:pl:voc:m2	imię	mit.
 Charsznica	Charsznica	subst:sg:nom:f	nazwa geograficzna	
@@ -2229,6 +2296,7 @@ Charytonowie	Charyton	subst:pl:nom:m1	imię
 Charytonowie	Charyton	subst:pl:voc:m1	imię	
 Charytonów	Charyton	subst:pl:acc:m1	imię	
 Charytonów	Charyton	subst:pl:gen:m1	imię	
+Charytony	Charyton	depr:pl:acc:m2	imię	
 Charytony	Charyton	depr:pl:nom:m2	imię	
 Charytony	Charyton	depr:pl:voc:m2	imię	
 Charyzjusza	Charyzjusz	subst:sg:acc:m1	imię	
@@ -2236,6 +2304,7 @@ Charyzjusza	Charyzjusz	subst:sg:gen:m1	imię
 Charyzjuszach	Charyzjusz	subst:pl:loc:m1	imię	
 Charyzjuszami	Charyzjusz	subst:pl:inst:m1	imię	
 Charyzjusz	Charyzjusz	subst:sg:nom:m1	imię	
+Charyzjusze	Charyzjusz	depr:pl:acc:m2	imię	
 Charyzjusze	Charyzjusz	depr:pl:nom:m2	imię	
 Charyzjusze	Charyzjusz	depr:pl:voc:m2	imię	
 Charyzjusze	Charyzjusz	subst:pl:nom:m1	imię	
@@ -2277,6 +2346,7 @@ Chasbułatowowie	Chasbułatow	subst:pl:nom:m1	nazwisko
 Chasbułatowowie	Chasbułatow	subst:pl:voc:m1	nazwisko	
 Chasbułatowów	Chasbułatow	subst:pl:acc:m1	nazwisko	
 Chasbułatowów	Chasbułatow	subst:pl:gen:m1	nazwisko	
+Chasbułatowy	Chasbułatow	depr:pl:acc:m2	nazwisko	
 Chasbułatowy	Chasbułatow	depr:pl:nom:m2	nazwisko	
 Chasbułatowy	Chasbułatow	depr:pl:voc:m2	nazwisko	
 Chasyda	Chasyda	subst:sg:nom:f	imię	
@@ -2305,6 +2375,7 @@ Chateaubriandowie	Chateaubriand	subst:pl:nom:m1	nazwisko
 Chateaubriandowie	Chateaubriand	subst:pl:voc:m1	nazwisko	
 Chateaubriandów	Chateaubriand	subst:pl:acc:m1	nazwisko	
 Chateaubriandów	Chateaubriand	subst:pl:gen:m1	nazwisko	
+Chateaubriandy	Chateaubriand	depr:pl:acc:m2	nazwisko	
 Chateaubriandy	Chateaubriand	depr:pl:nom:m2	nazwisko	
 Chateaubriandy	Chateaubriand	depr:pl:voc:m2	nazwisko	
 Chateaubriandzie	Chateaubriand	subst:sg:loc:m1	nazwisko	
@@ -2321,6 +2392,7 @@ Chaucerowie	Chaucer	subst:pl:nom:m1	nazwisko
 Chaucerowie	Chaucer	subst:pl:voc:m1	nazwisko	
 Chaucerów	Chaucer	subst:pl:acc:m1	nazwisko	
 Chaucerów	Chaucer	subst:pl:gen:m1	nazwisko	
+Chaucery	Chaucer	depr:pl:acc:m2	nazwisko	
 Chaucery	Chaucer	depr:pl:nom:m2	nazwisko	
 Chaucery	Chaucer	depr:pl:voc:m2	nazwisko	
 Chaucerze	Chaucer	subst:sg:loc:m1	nazwisko	
@@ -2431,6 +2503,7 @@ Chełmońskich	Chełmoński	subst:pl:gen:m1	nazwisko
 Chełmońskich	Chełmoński	subst:pl:loc:m1	nazwisko	
 Chełmoński	Chełmoński	subst:sg:nom:m1	nazwisko	
 Chełmoński	Chełmoński	subst:sg:voc:m1	nazwisko	
+Chełmońskie	Chełmoński	depr:pl:acc:m2	nazwisko	
 Chełmońskie	Chełmoński	depr:pl:nom:m2	nazwisko	
 Chełmońskie	Chełmoński	depr:pl:voc:m2	nazwisko	
 Chełmońskiego	Chełmoński	subst:sg:acc:m1	nazwisko	
@@ -2484,6 +2557,7 @@ Cheopsowie	Cheops	subst:pl:nom:m1	imię	hist.
 Cheopsowie	Cheops	subst:pl:voc:m1	imię	hist.
 Cheopsów	Cheops	subst:pl:acc:m1	imię	hist.
 Cheopsów	Cheops	subst:pl:gen:m1	imię	hist.
+Cheopsy	Cheops	depr:pl:acc:m2	imię	hist.
 Cheopsy	Cheops	depr:pl:nom:m2	imię	hist.
 Cheopsy	Cheops	depr:pl:voc:m2	imię	hist.
 Cheroneach	Cheronea	subst:pl:loc:f	nazwa geograficzna	hist.
@@ -2512,6 +2586,7 @@ Chevalierowie	Chevalier	subst:pl:nom:m1	nazwisko
 Chevalierowie	Chevalier	subst:pl:voc:m1	nazwisko	
 Chevalierów	Chevalier	subst:pl:acc:m1	nazwisko	
 Chevalierów	Chevalier	subst:pl:gen:m1	nazwisko	
+Chevaliery	Chevalier	depr:pl:acc:m2	nazwisko	
 Chevaliery	Chevalier	depr:pl:nom:m2	nazwisko	
 Chevaliery	Chevalier	depr:pl:voc:m2	nazwisko	
 Chevalierze	Chevalier	subst:sg:loc:m1	nazwisko	
@@ -2565,6 +2640,7 @@ Chilijczyka	Chilijczyk	subst:sg:acc:m1	nazwa pospolita
 Chilijczyka	Chilijczyk	subst:sg:gen:m1	nazwa pospolita	
 Chilijczykami	Chilijczyk	subst:pl:inst:m1	nazwa pospolita	
 Chilijczyk	Chilijczyk	subst:sg:nom:m1	nazwa pospolita	
+Chilijczyki	Chilijczyk	depr:pl:acc:m2	nazwa pospolita	
 Chilijczyki	Chilijczyk	depr:pl:nom:m2	nazwa pospolita	
 Chilijczyki	Chilijczyk	depr:pl:voc:m2	nazwa pospolita	
 Chilijczykiem	Chilijczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -2623,6 +2699,7 @@ Chińczyka	Chińczyk	subst:sg:acc:m1	nazwa pospolita
 Chińczyka	Chińczyk	subst:sg:gen:m1	nazwa pospolita	
 Chińczykami	Chińczyk	subst:pl:inst:m1	nazwa pospolita	
 Chińczyk	Chińczyk	subst:sg:nom:m1	nazwa pospolita	
+Chińczyki	Chińczyk	depr:pl:acc:m2	nazwa pospolita	
 Chińczyki	Chińczyk	depr:pl:nom:m2	nazwa pospolita	
 Chińczyki	Chińczyk	depr:pl:voc:m2	nazwa pospolita	
 Chińczykiem	Chińczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -2645,9 +2722,11 @@ Chiraców	Chirac	subst:pl:acc:m1	nazwisko
 Chiraców	Chirac	subst:pl:gen:m1	nazwisko	
 Chiracu	Chirac	subst:sg:loc:m1	nazwisko	
 Chiracu	Chirac	subst:sg:voc:m1	nazwisko	
+Chiraki	Chirac	depr:pl:acc:m2	nazwisko	
 Chiraki	Chirac	depr:pl:nom:m2	nazwisko	
 Chiraki	Chirac	depr:pl:voc:m2	nazwisko	
 Chirakiem	Chirac	subst:sg:inst:m1	nazwisko	
+Chirico	Chirico	depr:pl:acc:m2	nazwisko	
 Chirico	Chirico	depr:pl:nom:m2	nazwisko	
 Chirico	Chirico	depr:pl:voc:m2	nazwisko	
 Chirico	Chirico	subst:pl:acc:m1	nazwisko	
@@ -2699,6 +2778,7 @@ Chłopickich	Chłopicki	subst:pl:gen:m1	nazwisko
 Chłopickich	Chłopicki	subst:pl:loc:m1	nazwisko	
 Chłopicki	Chłopicki	subst:sg:nom:m1	nazwisko	
 Chłopicki	Chłopicki	subst:sg:voc:m1	nazwisko	
+Chłopickie	Chłopicki	depr:pl:acc:m2	nazwisko	
 Chłopickie	Chłopicki	depr:pl:nom:m2	nazwisko	
 Chłopickie	Chłopicki	depr:pl:voc:m2	nazwisko	
 Chłopickiego	Chłopicki	subst:sg:acc:m1	nazwisko	
@@ -2713,6 +2793,7 @@ Chmiela	Chmiel	subst:sg:acc:m1	nazwisko
 Chmiela	Chmiel	subst:sg:gen:m1	nazwisko	
 Chmielami	Chmiel	subst:pl:inst:m1	nazwisko	
 Chmiel	Chmiel	subst:sg:nom:m1	nazwisko	
+Chmiele	Chmiel	depr:pl:acc:m2	nazwisko	
 Chmiele	Chmiel	depr:pl:nom:m2	nazwisko	
 Chmiele	Chmiel	depr:pl:voc:m2	nazwisko	
 Chmielem	Chmiel	subst:sg:inst:m1	nazwisko	
@@ -2745,6 +2826,7 @@ Chmielewskich	Chmielewski	subst:pl:gen:m1	nazwisko
 Chmielewskich	Chmielewski	subst:pl:loc:m1	nazwisko	
 Chmielewski	Chmielewski	subst:sg:nom:m1	nazwisko	
 Chmielewski	Chmielewski	subst:sg:voc:m1	nazwisko	
+Chmielewskie	Chmielewski	depr:pl:acc:m2	nazwisko	
 Chmielewskie	Chmielewski	depr:pl:nom:m2	nazwisko	
 Chmielewskie	Chmielewski	depr:pl:voc:m2	nazwisko	
 Chmielewskiego	Chmielewski	subst:sg:acc:m1	nazwisko	
@@ -2775,6 +2857,7 @@ Chmielnickich	Chmielnicki	subst:pl:gen:m1	nazwisko
 Chmielnickich	Chmielnicki	subst:pl:loc:m1	nazwisko	
 Chmielnicki	Chmielnicki	subst:sg:nom:m1	nazwisko	
 Chmielnicki	Chmielnicki	subst:sg:voc:m1	nazwisko	
+Chmielnickie	Chmielnicki	depr:pl:acc:m2	nazwisko	
 Chmielnickie	Chmielnicki	depr:pl:nom:m2	nazwisko	
 Chmielnickie	Chmielnicki	depr:pl:voc:m2	nazwisko	
 Chmielnickiego	Chmielnicki	subst:sg:acc:m1	nazwisko	
@@ -2819,6 +2902,7 @@ Chmielowskich	Chmielowski	subst:pl:gen:m1	nazwisko
 Chmielowskich	Chmielowski	subst:pl:loc:m1	nazwisko	
 Chmielowski	Chmielowski	subst:sg:nom:m1	nazwisko	
 Chmielowski	Chmielowski	subst:sg:voc:m1	nazwisko	
+Chmielowskie	Chmielowski	depr:pl:acc:m2	nazwisko	
 Chmielowskie	Chmielowski	depr:pl:nom:m2	nazwisko	
 Chmielowskie	Chmielowski	depr:pl:voc:m2	nazwisko	
 Chmielowskiego	Chmielowski	subst:sg:acc:m1	nazwisko	
@@ -2885,6 +2969,7 @@ Chocieborowie	Chociebor	subst:pl:nom:m1	imię
 Chocieborowie	Chociebor	subst:pl:voc:m1	imię	
 Chocieborów	Chociebor	subst:pl:acc:m1	imię	
 Chocieborów	Chociebor	subst:pl:gen:m1	imię	
+Chociebory	Chociebor	depr:pl:acc:m2	imię	
 Chociebory	Chociebor	depr:pl:nom:m2	imię	
 Chociebory	Chociebor	depr:pl:voc:m2	imię	
 Chocieborze	Chociebor	subst:sg:loc:m1	imię	
@@ -2903,6 +2988,7 @@ Chociemirowie	Chociemir	subst:pl:nom:m1	imię
 Chociemirowie	Chociemir	subst:pl:voc:m1	imię	
 Chociemirów	Chociemir	subst:pl:acc:m1	imię	
 Chociemirów	Chociemir	subst:pl:gen:m1	imię	
+Chociemiry	Chociemir	depr:pl:acc:m2	imię	
 Chociemiry	Chociemir	depr:pl:nom:m2	imię	
 Chociemiry	Chociemir	depr:pl:voc:m2	imię	
 Chociemirze	Chociemir	subst:sg:loc:m1	imię	
@@ -2925,6 +3011,7 @@ Chociesławowie	Chociesław	subst:pl:nom:m1	imię
 Chociesławowie	Chociesław	subst:pl:voc:m1	imię	
 Chociesławów	Chociesław	subst:pl:acc:m1	imię	
 Chociesławów	Chociesław	subst:pl:gen:m1	imię	
+Chociesławy	Chociesław	depr:pl:acc:m2	imię	
 Chociesławy	Chociesław	depr:pl:nom:m2	imię	
 Chociesławy	Chociesław	depr:pl:voc:m2	imię	
 Chocim	Chocim	subst:sg:acc:m3	nazwa geograficzna	
@@ -2975,6 +3062,7 @@ Chodkiewicza	Chodkiewicz	subst:sg:acc:m1	nazwisko
 Chodkiewicza	Chodkiewicz	subst:sg:gen:m1	nazwisko	
 Chodkiewiczami	Chodkiewicz	subst:pl:inst:m1	nazwisko	
 Chodkiewicz	Chodkiewicz	subst:sg:nom:m1	nazwisko	
+Chodkiewicze	Chodkiewicz	depr:pl:acc:m2	nazwisko	
 Chodkiewicze	Chodkiewicz	depr:pl:nom:m2	nazwisko	
 Chodkiewicze	Chodkiewicz	depr:pl:voc:m2	nazwisko	
 Chodkiewicze	Chodkiewicz	subst:pl:nom:m1	nazwisko	
@@ -2995,6 +3083,7 @@ Chodowieckich	Chodowiecki	subst:pl:gen:m1	nazwisko
 Chodowieckich	Chodowiecki	subst:pl:loc:m1	nazwisko	
 Chodowiecki	Chodowiecki	subst:sg:nom:m1	nazwisko	
 Chodowiecki	Chodowiecki	subst:sg:voc:m1	nazwisko	
+Chodowieckie	Chodowiecki	depr:pl:acc:m2	nazwisko	
 Chodowieckie	Chodowiecki	depr:pl:nom:m2	nazwisko	
 Chodowieckie	Chodowiecki	depr:pl:voc:m2	nazwisko	
 Chodowieckiego	Chodowiecki	subst:sg:acc:m1	nazwisko	
@@ -3025,6 +3114,7 @@ Chodźkach	Chodźko	subst:pl:loc:m1	nazwisko
 Chodźkami	Chodźko	subst:pl:inst:m1	nazwisko	
 Chodźką	Chodźko	subst:sg:inst:m1	nazwisko	
 Chodźkę	Chodźko	subst:sg:acc:m1	nazwisko	
+Chodźki	Chodźko	depr:pl:acc:m2	nazwisko	
 Chodźki	Chodźko	depr:pl:nom:m2	nazwisko	
 Chodźki	Chodźko	depr:pl:voc:m2	nazwisko	
 Chodźki	Chodźko	subst:sg:gen:m1	nazwisko	
@@ -3056,6 +3146,7 @@ Choińskich	Choiński	subst:pl:gen:m1	nazwisko
 Choińskich	Choiński	subst:pl:loc:m1	nazwisko	
 Choiński	Choiński	subst:sg:nom:m1	nazwisko	
 Choiński	Choiński	subst:sg:voc:m1	nazwisko	
+Choińskie	Choiński	depr:pl:acc:m2	nazwisko	
 Choińskie	Choiński	depr:pl:nom:m2	nazwisko	
 Choińskie	Choiński	depr:pl:voc:m2	nazwisko	
 Choińskiego	Choiński	subst:sg:acc:m1	nazwisko	
@@ -3086,6 +3177,7 @@ Chojeckich	Chojecki	subst:pl:gen:m1	nazwisko
 Chojeckich	Chojecki	subst:pl:loc:m1	nazwisko	
 Chojecki	Chojecki	subst:sg:nom:m1	nazwisko	
 Chojecki	Chojecki	subst:sg:voc:m1	nazwisko	
+Chojeckie	Chojecki	depr:pl:acc:m2	nazwisko	
 Chojeckie	Chojecki	depr:pl:nom:m2	nazwisko	
 Chojeckie	Chojecki	depr:pl:voc:m2	nazwisko	
 Chojeckiego	Chojecki	subst:sg:acc:m1	nazwisko	
@@ -3116,6 +3208,7 @@ Chojnackich	Chojnacki	subst:pl:gen:m1	nazwisko
 Chojnackich	Chojnacki	subst:pl:loc:m1	nazwisko	
 Chojnacki	Chojnacki	subst:sg:nom:m1	nazwisko	
 Chojnacki	Chojnacki	subst:sg:voc:m1	nazwisko	
+Chojnackie	Chojnacki	depr:pl:acc:m2	nazwisko	
 Chojnackie	Chojnacki	depr:pl:nom:m2	nazwisko	
 Chojnackie	Chojnacki	depr:pl:voc:m2	nazwisko	
 Chojnackiego	Chojnacki	subst:sg:acc:m1	nazwisko	
@@ -3175,6 +3268,7 @@ Cholewińskich	Cholewiński	subst:pl:gen:m1	nazwisko
 Cholewińskich	Cholewiński	subst:pl:loc:m1	nazwisko	
 Cholewiński	Cholewiński	subst:sg:nom:m1	nazwisko	
 Cholewiński	Cholewiński	subst:sg:voc:m1	nazwisko	
+Cholewińskie	Cholewiński	depr:pl:acc:m2	nazwisko	
 Cholewińskie	Cholewiński	depr:pl:nom:m2	nazwisko	
 Cholewińskie	Cholewiński	depr:pl:voc:m2	nazwisko	
 Cholewińskiego	Cholewiński	subst:sg:acc:m1	nazwisko	
@@ -3191,6 +3285,7 @@ Chomeini	Chomeini	subst:pl:nom:m1	nazwisko
 Chomeini	Chomeini	subst:pl:voc:m1	nazwisko	
 Chomeini	Chomeini	subst:sg:nom:m1	nazwisko	
 Chomeini	Chomeini	subst:sg:voc:m1	nazwisko	
+Chomeinie	Chomeini	depr:pl:acc:m2	nazwisko	
 Chomeinie	Chomeini	depr:pl:nom:m2	nazwisko	
 Chomeinie	Chomeini	depr:pl:voc:m2	nazwisko	
 Chomeiniego	Chomeini	subst:sg:acc:m1	nazwisko	
@@ -3207,6 +3302,7 @@ Chomscy	Chomsky	subst:pl:voc:m1	nazwisko
 Chomskich	Chomsky	subst:pl:acc:m1	nazwisko	
 Chomskich	Chomsky	subst:pl:gen:m1	nazwisko	
 Chomskich	Chomsky	subst:pl:loc:m1	nazwisko	
+Chomskie	Chomsky	depr:pl:acc:m2	nazwisko	
 Chomskie	Chomsky	depr:pl:nom:m2	nazwisko	
 Chomskie	Chomsky	depr:pl:voc:m2	nazwisko	
 Chomskiego	Chomsky	subst:sg:acc:m1	nazwisko	
@@ -3235,6 +3331,7 @@ Chopinowie	Chopin	subst:pl:nom:m1	nazwisko
 Chopinowie	Chopin	subst:pl:voc:m1	nazwisko	
 Chopinów	Chopin	subst:pl:acc:m1	nazwisko	
 Chopinów	Chopin	subst:pl:gen:m1	nazwisko	
+Chopiny	Chopin	depr:pl:acc:m2	nazwisko	
 Chopiny	Chopin	depr:pl:nom:m2	nazwisko	
 Chopiny	Chopin	depr:pl:voc:m2	nazwisko	
 Chorkówce	Chorkówka	subst:sg:dat:f	nazwa geograficzna	
@@ -3272,6 +3369,7 @@ Choromańskich	Choromański	subst:pl:gen:m1	nazwisko
 Choromańskich	Choromański	subst:pl:loc:m1	nazwisko	
 Choromański	Choromański	subst:sg:nom:m1	nazwisko	
 Choromański	Choromański	subst:sg:voc:m1	nazwisko	
+Choromańskie	Choromański	depr:pl:acc:m2	nazwisko	
 Choromańskie	Choromański	depr:pl:nom:m2	nazwisko	
 Choromańskie	Choromański	depr:pl:voc:m2	nazwisko	
 Choromańskiego	Choromański	subst:sg:acc:m1	nazwisko	
@@ -3310,6 +3408,7 @@ Chorwatom	Chorwat	subst:pl:dat:m1	nazwa pospolita
 Chorwatowi	Chorwat	subst:sg:dat:m1	nazwa pospolita	
 Chorwatów	Chorwat	subst:pl:acc:m1	nazwa pospolita	
 Chorwatów	Chorwat	subst:pl:gen:m1	nazwa pospolita	
+Chorwaty	Chorwat	depr:pl:acc:m2	nazwa pospolita	
 Chorwaty	Chorwat	depr:pl:nom:m2	nazwa pospolita	
 Chorwaty	Chorwat	depr:pl:voc:m2	nazwa pospolita	
 Chorwatce	Chorwatka	subst:sg:dat:f	nazwa pospolita	
@@ -3346,6 +3445,7 @@ Chreptowicza	Chreptowicz	subst:sg:acc:m1	nazwisko
 Chreptowicza	Chreptowicz	subst:sg:gen:m1	nazwisko	
 Chreptowiczami	Chreptowicz	subst:pl:inst:m1	nazwisko	
 Chreptowicz	Chreptowicz	subst:sg:nom:m1	nazwisko	
+Chreptowicze	Chreptowicz	depr:pl:acc:m2	nazwisko	
 Chreptowicze	Chreptowicz	depr:pl:nom:m2	nazwisko	
 Chreptowicze	Chreptowicz	depr:pl:voc:m2	nazwisko	
 Chreptowicze	Chreptowicz	subst:pl:nom:m1	nazwisko	
@@ -3373,6 +3473,7 @@ Christianowie	Christian	subst:pl:nom:m1	imię
 Christianowie	Christian	subst:pl:voc:m1	imię	
 Christianów	Christian	subst:pl:acc:m1	imię	
 Christianów	Christian	subst:pl:gen:m1	imię	
+Christiany	Christian	depr:pl:acc:m2	imię	
 Christiany	Christian	depr:pl:nom:m2	imię	
 Christiany	Christian	depr:pl:voc:m2	imię	
 Christie	Christie:s1	subst:pl:acc:f	nazwisko	
@@ -3392,6 +3493,7 @@ Christie	Christie:s1	subst:sg:voc:f	nazwisko
 Christiech	Christie:s2	subst:pl:acc:m1	nazwisko	
 Christiech	Christie:s2	subst:pl:gen:m1	nazwisko	
 Christiech	Christie:s2	subst:pl:loc:m1	nazwisko	
+Christie	Christie:s2	depr:pl:acc:m2	nazwisko	
 Christie	Christie:s2	depr:pl:nom:m2	nazwisko	
 Christie	Christie:s2	depr:pl:voc:m2	nazwisko	
 Christie	Christie:s2	subst:pl:nom:m1	nazwisko	
@@ -3419,6 +3521,7 @@ Christophe’owie	Christophe	subst:pl:nom:m1	imię
 Christophe’owie	Christophe	subst:pl:voc:m1	imię	
 Christophe’ów	Christophe	subst:pl:acc:m1	imię	
 Christophe’ów	Christophe	subst:pl:gen:m1	imię	
+Christophe’y	Christophe	depr:pl:acc:m2	imię	
 Christophe’y	Christophe	depr:pl:nom:m2	imię	
 Christophe’y	Christophe	depr:pl:voc:m2	imię	
 Christopherach	Christopher	subst:pl:loc:m1	imię	
@@ -3433,6 +3536,7 @@ Christopherowie	Christopher	subst:pl:nom:m1	imię
 Christopherowie	Christopher	subst:pl:voc:m1	imię	
 Christopherów	Christopher	subst:pl:acc:m1	imię	
 Christopherów	Christopher	subst:pl:gen:m1	imię	
+Christophery	Christopher	depr:pl:acc:m2	imię	
 Christophery	Christopher	depr:pl:nom:m2	imię	
 Christophery	Christopher	depr:pl:voc:m2	imię	
 Christopherze	Christopher	subst:sg:loc:m1	imię	
@@ -3482,6 +3586,7 @@ Chrobaka	Chrobak	subst:sg:acc:m1	nazwisko
 Chrobaka	Chrobak	subst:sg:gen:m1	nazwisko	
 Chrobakami	Chrobak	subst:pl:inst:m1	nazwisko	
 Chrobak	Chrobak	subst:sg:nom:m1	nazwisko	
+Chrobaki	Chrobak	depr:pl:acc:m2	nazwisko	
 Chrobaki	Chrobak	depr:pl:nom:m2	nazwisko	
 Chrobaki	Chrobak	depr:pl:voc:m2	nazwisko	
 Chrobakiem	Chrobak	subst:sg:inst:m1	nazwisko	
@@ -3523,6 +3628,7 @@ Chronosowie	Chronos	subst:pl:nom:m1	imię	mit.
 Chronosowie	Chronos	subst:pl:voc:m1	imię	mit.
 Chronosów	Chronos	subst:pl:acc:m1	imię	mit.
 Chronosów	Chronos	subst:pl:gen:m1	imię	mit.
+Chronosy	Chronos	depr:pl:acc:m2	imię	mit.
 Chronosy	Chronos	depr:pl:nom:m2	imię	mit.
 Chronosy	Chronos	depr:pl:voc:m2	imię	mit.
 Chrostowska	Chrostowska	subst:sg:nom:f	nazwisko	
@@ -3546,6 +3652,7 @@ Chrostowskich	Chrostowski	subst:pl:gen:m1	nazwisko
 Chrostowskich	Chrostowski	subst:pl:loc:m1	nazwisko	
 Chrostowski	Chrostowski	subst:sg:nom:m1	nazwisko	
 Chrostowski	Chrostowski	subst:sg:voc:m1	nazwisko	
+Chrostowskie	Chrostowski	depr:pl:acc:m2	nazwisko	
 Chrostowskie	Chrostowski	depr:pl:nom:m2	nazwisko	
 Chrostowskie	Chrostowski	depr:pl:voc:m2	nazwisko	
 Chrostowskiego	Chrostowski	subst:sg:acc:m1	nazwisko	
@@ -3569,6 +3676,7 @@ Chruszczowowie	Chruszczow	subst:pl:nom:m1	nazwisko
 Chruszczowowie	Chruszczow	subst:pl:voc:m1	nazwisko	
 Chruszczowów	Chruszczow	subst:pl:acc:m1	nazwisko	
 Chruszczowów	Chruszczow	subst:pl:gen:m1	nazwisko	
+Chruszczowy	Chruszczow	depr:pl:acc:m2	nazwisko	
 Chruszczowy	Chruszczow	depr:pl:nom:m2	nazwisko	
 Chruszczowy	Chruszczow	depr:pl:voc:m2	nazwisko	
 Chryslerach	Chrysler	subst:pl:loc:m1	nazwisko	
@@ -3583,6 +3691,7 @@ Chryslerowie	Chrysler	subst:pl:nom:m1	nazwisko
 Chryslerowie	Chrysler	subst:pl:voc:m1	nazwisko	
 Chryslerów	Chrysler	subst:pl:acc:m1	nazwisko	
 Chryslerów	Chrysler	subst:pl:gen:m1	nazwisko	
+Chryslery	Chrysler	depr:pl:acc:m2	nazwisko	
 Chryslery	Chrysler	depr:pl:nom:m2	nazwisko	
 Chryslery	Chrysler	depr:pl:voc:m2	nazwisko	
 Chryslerze	Chrysler	subst:sg:loc:m1	nazwisko	
@@ -3604,6 +3713,7 @@ Chrystianowie	Chrystian	subst:pl:nom:m1	imię
 Chrystianowie	Chrystian	subst:pl:voc:m1	imię	
 Chrystianów	Chrystian	subst:pl:acc:m1	imię	
 Chrystianów	Chrystian	subst:pl:gen:m1	imię	
+Chrystiany	Chrystian	depr:pl:acc:m2	imię	
 Chrystiany	Chrystian	depr:pl:nom:m2	imię	
 Chrystiany	Chrystian	depr:pl:voc:m2	imię	
 Chrystusach	Chrystus	subst:pl:loc:m1	przydomek	
@@ -3620,6 +3730,7 @@ Chrystusowie	Chrystus	subst:pl:nom:m1	przydomek
 Chrystusowie	Chrystus	subst:pl:voc:m1	przydomek	
 Chrystusów	Chrystus	subst:pl:acc:m1	przydomek	
 Chrystusów	Chrystus	subst:pl:gen:m1	przydomek	
+Chrystusy	Chrystus	depr:pl:acc:m2	przydomek	
 Chrystusy	Chrystus	depr:pl:nom:m2	przydomek	
 Chrystusy	Chrystus	depr:pl:voc:m2	przydomek	
 Chryzanci	Chryzant	subst:pl:nom:m1	imię	
@@ -3638,6 +3749,7 @@ Chryzantowie	Chryzant	subst:pl:nom:m1	imię
 Chryzantowie	Chryzant	subst:pl:voc:m1	imię	
 Chryzantów	Chryzant	subst:pl:acc:m1	imię	
 Chryzantów	Chryzant	subst:pl:gen:m1	imię	
+Chryzanty	Chryzant	depr:pl:acc:m2	imię	
 Chryzanty	Chryzant	depr:pl:nom:m2	imię	
 Chryzanty	Chryzant	depr:pl:voc:m2	imię	
 Chryzostomach	Chryzostom	subst:pl:loc:m1	imię	
@@ -3654,6 +3766,7 @@ Chryzostomowie	Chryzostom	subst:pl:nom:m1	imię
 Chryzostomowie	Chryzostom	subst:pl:voc:m1	imię	
 Chryzostomów	Chryzostom	subst:pl:acc:m1	imię	
 Chryzostomów	Chryzostom	subst:pl:gen:m1	imię	
+Chryzostomy	Chryzostom	depr:pl:acc:m2	imię	
 Chryzostomy	Chryzostom	depr:pl:nom:m2	imię	
 Chryzostomy	Chryzostom	depr:pl:voc:m2	imię	
 Chrzanowska	Chrzanowska	subst:sg:nom:f	nazwisko	
@@ -3677,6 +3790,7 @@ Chrzanowskich	Chrzanowski	subst:pl:gen:m1	nazwisko
 Chrzanowskich	Chrzanowski	subst:pl:loc:m1	nazwisko	
 Chrzanowski	Chrzanowski	subst:sg:nom:m1	nazwisko	
 Chrzanowski	Chrzanowski	subst:sg:voc:m1	nazwisko	
+Chrzanowskie	Chrzanowski	depr:pl:acc:m2	nazwisko	
 Chrzanowskie	Chrzanowski	depr:pl:nom:m2	nazwisko	
 Chrzanowskie	Chrzanowski	depr:pl:voc:m2	nazwisko	
 Chrzanowskiego	Chrzanowski	subst:sg:acc:m1	nazwisko	
@@ -3729,6 +3843,7 @@ Chrzypsko	Chrzypsko	subst:sg:voc:n:ncol	nazwa geograficzna
 Chrzypskom	Chrzypsko	subst:pl:dat:n:ncol	nazwa geograficzna	
 Chrzypsku	Chrzypsko	subst:sg:dat:n:ncol	nazwa geograficzna	
 Chrzypsku	Chrzypsko	subst:sg:loc:n:ncol	nazwa geograficzna	
+Chude	Chudy	depr:pl:acc:m2	nazwisko	
 Chude	Chudy	depr:pl:nom:m2	nazwisko	
 Chude	Chudy	depr:pl:voc:m2	nazwisko	
 Chudego	Chudy	subst:sg:acc:m1	nazwisko	
@@ -3768,6 +3883,7 @@ Chudzyńskich	Chudzyński	subst:pl:gen:m1	nazwisko
 Chudzyńskich	Chudzyński	subst:pl:loc:m1	nazwisko	
 Chudzyński	Chudzyński	subst:sg:nom:m1	nazwisko	
 Chudzyński	Chudzyński	subst:sg:voc:m1	nazwisko	
+Chudzyńskie	Chudzyński	depr:pl:acc:m2	nazwisko	
 Chudzyńskie	Chudzyński	depr:pl:nom:m2	nazwisko	
 Chudzyńskie	Chudzyński	depr:pl:voc:m2	nazwisko	
 Chudzyńskiego	Chudzyński	subst:sg:acc:m1	nazwisko	
@@ -3796,6 +3912,7 @@ Churchilla	Churchill	subst:sg:acc:m1	nazwisko
 Churchilla	Churchill	subst:sg:gen:m1	nazwisko	
 Churchillami	Churchill	subst:pl:inst:m1	nazwisko	
 Churchill	Churchill	subst:sg:nom:m1	nazwisko	
+Churchille	Churchill	depr:pl:acc:m2	nazwisko	
 Churchille	Churchill	depr:pl:nom:m2	nazwisko	
 Churchille	Churchill	depr:pl:voc:m2	nazwisko	
 Churchille	Churchill	subst:pl:nom:m1	nazwisko	
@@ -3820,6 +3937,7 @@ Churriguerowie	Churriguera	subst:pl:nom:m1	nazwisko
 Churriguerowie	Churriguera	subst:pl:voc:m1	nazwisko	
 Churriguerów	Churriguera	subst:pl:acc:m1	nazwisko	
 Churriguerów	Churriguera	subst:pl:gen:m1	nazwisko	
+Churriguery	Churriguera	depr:pl:acc:m2	nazwisko	
 Churriguery	Churriguera	depr:pl:nom:m2	nazwisko	
 Churriguery	Churriguera	depr:pl:voc:m2	nazwisko	
 Churriguery	Churriguera	subst:sg:gen:m1	nazwisko	
@@ -3829,6 +3947,7 @@ Chwalibogach	Chwalibóg	subst:pl:loc:m1	imię
 Chwaliboga	Chwalibóg	subst:sg:acc:m1	imię	
 Chwaliboga	Chwalibóg	subst:sg:gen:m1	imię	
 Chwalibogami	Chwalibóg	subst:pl:inst:m1	imię	
+Chwalibogi	Chwalibóg	depr:pl:acc:m2	imię	
 Chwalibogi	Chwalibóg	depr:pl:nom:m2	imię	
 Chwalibogi	Chwalibóg	depr:pl:voc:m2	imię	
 Chwalibogiem	Chwalibóg	subst:sg:inst:m1	imię	
@@ -3853,6 +3972,7 @@ Chwalimirowie	Chwalimir	subst:pl:nom:m1	imię
 Chwalimirowie	Chwalimir	subst:pl:voc:m1	imię	
 Chwalimirów	Chwalimir	subst:pl:acc:m1	imię	
 Chwalimirów	Chwalimir	subst:pl:gen:m1	imię	
+Chwalimiry	Chwalimir	depr:pl:acc:m2	imię	
 Chwalimiry	Chwalimir	depr:pl:nom:m2	imię	
 Chwalimiry	Chwalimir	depr:pl:voc:m2	imię	
 Chwalimirze	Chwalimir	subst:sg:loc:m1	imię	
@@ -3875,6 +3995,7 @@ Chwalisławowie	Chwalisław	subst:pl:nom:m1	imię
 Chwalisławowie	Chwalisław	subst:pl:voc:m1	imię	
 Chwalisławów	Chwalisław	subst:pl:acc:m1	imię	
 Chwalisławów	Chwalisław	subst:pl:gen:m1	imię	
+Chwalisławy	Chwalisław	depr:pl:acc:m2	imię	
 Chwalisławy	Chwalisław	depr:pl:nom:m2	imię	
 Chwalisławy	Chwalisław	depr:pl:voc:m2	imię	
 Chwalisławach	Chwalisława	subst:pl:loc:f	imię	
@@ -3919,6 +4040,7 @@ Chwinowie	Chwin	subst:pl:nom:m1	nazwisko
 Chwinowie	Chwin	subst:pl:voc:m1	nazwisko	
 Chwinów	Chwin	subst:pl:acc:m1	nazwisko	
 Chwinów	Chwin	subst:pl:gen:m1	nazwisko	
+Chwiny	Chwin	depr:pl:acc:m2	nazwisko	
 Chwiny	Chwin	depr:pl:nom:m2	nazwisko	
 Chwiny	Chwin	depr:pl:voc:m2	nazwisko	
 Chwistek	Chwistek	subst:sg:nom:m1	nazwisko	
@@ -3926,6 +4048,7 @@ Chwistkach	Chwistek	subst:pl:loc:m1	nazwisko
 Chwistka	Chwistek	subst:sg:acc:m1	nazwisko	
 Chwistka	Chwistek	subst:sg:gen:m1	nazwisko	
 Chwistkami	Chwistek	subst:pl:inst:m1	nazwisko	
+Chwistki	Chwistek	depr:pl:acc:m2	nazwisko	
 Chwistki	Chwistek	depr:pl:nom:m2	nazwisko	
 Chwistki	Chwistek	depr:pl:voc:m2	nazwisko	
 Chwistkiem	Chwistek	subst:sg:inst:m1	nazwisko	
@@ -3958,6 +4081,7 @@ Chylińskich	Chyliński	subst:pl:gen:m1	nazwisko
 Chylińskich	Chyliński	subst:pl:loc:m1	nazwisko	
 Chyliński	Chyliński	subst:sg:nom:m1	nazwisko	
 Chyliński	Chyliński	subst:sg:voc:m1	nazwisko	
+Chylińskie	Chyliński	depr:pl:acc:m2	nazwisko	
 Chylińskie	Chyliński	depr:pl:nom:m2	nazwisko	
 Chylińskie	Chyliński	depr:pl:voc:m2	nazwisko	
 Chylińskiego	Chyliński	subst:sg:acc:m1	nazwisko	
@@ -4051,6 +4175,7 @@ Ciborowie	Cibor	subst:pl:nom:m1	imię
 Ciborowie	Cibor	subst:pl:voc:m1	imię	
 Ciborów	Cibor	subst:pl:acc:m1	imię	
 Ciborów	Cibor	subst:pl:gen:m1	imię	
+Cibory	Cibor	depr:pl:acc:m2	imię	
 Cibory	Cibor	depr:pl:nom:m2	imię	
 Cibory	Cibor	depr:pl:voc:m2	imię	
 Ciborze	Cibor	subst:sg:loc:m1	imię	
@@ -4078,6 +4203,7 @@ Ciborowskich	Ciborowski	subst:pl:gen:m1	nazwisko
 Ciborowskich	Ciborowski	subst:pl:loc:m1	nazwisko	
 Ciborowski	Ciborowski	subst:sg:nom:m1	nazwisko	
 Ciborowski	Ciborowski	subst:sg:voc:m1	nazwisko	
+Ciborowskie	Ciborowski	depr:pl:acc:m2	nazwisko	
 Ciborowskie	Ciborowski	depr:pl:nom:m2	nazwisko	
 Ciborowskie	Ciborowski	depr:pl:voc:m2	nazwisko	
 Ciborowskiego	Ciborowski	subst:sg:acc:m1	nazwisko	
@@ -4108,6 +4234,7 @@ Cichockich	Cichocki	subst:pl:gen:m1	nazwisko
 Cichockich	Cichocki	subst:pl:loc:m1	nazwisko	
 Cichocki	Cichocki	subst:sg:nom:m1	nazwisko	
 Cichocki	Cichocki	subst:sg:voc:m1	nazwisko	
+Cichockie	Cichocki	depr:pl:acc:m2	nazwisko	
 Cichockie	Cichocki	depr:pl:nom:m2	nazwisko	
 Cichockie	Cichocki	depr:pl:voc:m2	nazwisko	
 Cichockiego	Cichocki	subst:sg:acc:m1	nazwisko	
@@ -4121,6 +4248,7 @@ Cichoniach	Cichoń	subst:pl:loc:m1	nazwisko
 Cichonia	Cichoń	subst:sg:acc:m1	nazwisko	
 Cichonia	Cichoń	subst:sg:gen:m1	nazwisko	
 Cichoniami	Cichoń	subst:pl:inst:m1	nazwisko	
+Cichonie	Cichoń	depr:pl:acc:m2	nazwisko	
 Cichonie	Cichoń	depr:pl:nom:m2	nazwisko	
 Cichonie	Cichoń	depr:pl:voc:m2	nazwisko	
 Cichoniem	Cichoń	subst:sg:inst:m1	nazwisko	
@@ -4133,6 +4261,7 @@ Cichoniów	Cichoń	subst:pl:gen:m1	nazwisko
 Cichoniu	Cichoń	subst:sg:loc:m1	nazwisko	
 Cichoniu	Cichoń	subst:sg:voc:m1	nazwisko	
 Cichoń	Cichoń	subst:sg:nom:m1	nazwisko	
+Ciche	Cichy	depr:pl:acc:m2	nazwisko	
 Ciche	Cichy	depr:pl:nom:m2	nazwisko	
 Ciche	Cichy	depr:pl:voc:m2	nazwisko	
 Cichego	Cichy	subst:sg:acc:m1	nazwisko	
@@ -4206,6 +4335,7 @@ Ciechomirowie	Ciechomir	subst:pl:nom:m1	imię
 Ciechomirowie	Ciechomir	subst:pl:voc:m1	imię	
 Ciechomirów	Ciechomir	subst:pl:acc:m1	imię	
 Ciechomirów	Ciechomir	subst:pl:gen:m1	imię	
+Ciechomiry	Ciechomir	depr:pl:acc:m2	imię	
 Ciechomiry	Ciechomir	depr:pl:nom:m2	imię	
 Ciechomiry	Ciechomir	depr:pl:voc:m2	imię	
 Ciechomirze	Ciechomir	subst:sg:loc:m1	imię	
@@ -4233,6 +4363,7 @@ Ciechomskich	Ciechomski	subst:pl:gen:m1	nazwisko
 Ciechomskich	Ciechomski	subst:pl:loc:m1	nazwisko	
 Ciechomski	Ciechomski	subst:sg:nom:m1	nazwisko	
 Ciechomski	Ciechomski	subst:sg:voc:m1	nazwisko	
+Ciechomskie	Ciechomski	depr:pl:acc:m2	nazwisko	
 Ciechomskie	Ciechomski	depr:pl:nom:m2	nazwisko	
 Ciechomskie	Ciechomski	depr:pl:voc:m2	nazwisko	
 Ciechomskiego	Ciechomski	subst:sg:acc:m1	nazwisko	
@@ -4258,6 +4389,7 @@ Ciechosławowie	Ciechosław	subst:pl:nom:m1	imię
 Ciechosławowie	Ciechosław	subst:pl:voc:m1	imię	
 Ciechosławów	Ciechosław	subst:pl:acc:m1	imię	
 Ciechosławów	Ciechosław	subst:pl:gen:m1	imię	
+Ciechosławy	Ciechosław	depr:pl:acc:m2	imię	
 Ciechosławy	Ciechosław	depr:pl:nom:m2	imię	
 Ciechosławy	Ciechosław	depr:pl:voc:m2	imię	
 Ciechosławach	Ciechosława	subst:pl:loc:f	imię	
@@ -4295,6 +4427,7 @@ Ciecierskich	Ciecierski	subst:pl:gen:m1	nazwisko
 Ciecierskich	Ciecierski	subst:pl:loc:m1	nazwisko	
 Ciecierski	Ciecierski	subst:sg:nom:m1	nazwisko	
 Ciecierski	Ciecierski	subst:sg:voc:m1	nazwisko	
+Ciecierskie	Ciecierski	depr:pl:acc:m2	nazwisko	
 Ciecierskie	Ciecierski	depr:pl:nom:m2	nazwisko	
 Ciecierskie	Ciecierski	depr:pl:voc:m2	nazwisko	
 Ciecierskiego	Ciecierski	subst:sg:acc:m1	nazwisko	
@@ -4368,6 +4501,7 @@ Ciepłowskich	Ciepłowski	subst:pl:gen:m1	nazwisko
 Ciepłowskich	Ciepłowski	subst:pl:loc:m1	nazwisko	
 Ciepłowski	Ciepłowski	subst:sg:nom:m1	nazwisko	
 Ciepłowski	Ciepłowski	subst:sg:voc:m1	nazwisko	
+Ciepłowskie	Ciepłowski	depr:pl:acc:m2	nazwisko	
 Ciepłowskie	Ciepłowski	depr:pl:nom:m2	nazwisko	
 Ciepłowskie	Ciepłowski	depr:pl:voc:m2	nazwisko	
 Ciepłowskiego	Ciepłowski	subst:sg:acc:m1	nazwisko	
@@ -4393,6 +4527,7 @@ Cierpisławowie	Cierpisław	subst:pl:nom:m1	imię
 Cierpisławowie	Cierpisław	subst:pl:voc:m1	imię	
 Cierpisławów	Cierpisław	subst:pl:acc:m1	imię	
 Cierpisławów	Cierpisław	subst:pl:gen:m1	imię	
+Cierpisławy	Cierpisław	depr:pl:acc:m2	imię	
 Cierpisławy	Cierpisław	depr:pl:nom:m2	imię	
 Cierpisławy	Cierpisław	depr:pl:voc:m2	imię	
 Ciesielscy	Ciesielski	subst:pl:nom:m1	nazwisko	
@@ -4402,6 +4537,7 @@ Ciesielskich	Ciesielski	subst:pl:gen:m1	nazwisko
 Ciesielskich	Ciesielski	subst:pl:loc:m1	nazwisko	
 Ciesielski	Ciesielski	subst:sg:nom:m1	nazwisko	
 Ciesielski	Ciesielski	subst:sg:voc:m1	nazwisko	
+Ciesielskie	Ciesielski	depr:pl:acc:m2	nazwisko	
 Ciesielskie	Ciesielski	depr:pl:nom:m2	nazwisko	
 Ciesielskie	Ciesielski	depr:pl:voc:m2	nazwisko	
 Ciesielskiego	Ciesielski	subst:sg:acc:m1	nazwisko	
@@ -4453,6 +4589,7 @@ Cieszygorowie	Cieszygor	subst:pl:nom:m1	imię
 Cieszygorowie	Cieszygor	subst:pl:voc:m1	imię	
 Cieszygorów	Cieszygor	subst:pl:acc:m1	imię	
 Cieszygorów	Cieszygor	subst:pl:gen:m1	imię	
+Cieszygory	Cieszygor	depr:pl:acc:m2	imię	
 Cieszygory	Cieszygor	depr:pl:nom:m2	imię	
 Cieszygory	Cieszygor	depr:pl:voc:m2	imię	
 Cieszygorze	Cieszygor	subst:sg:loc:m1	imię	
@@ -4471,6 +4608,7 @@ Cieszymirowie	Cieszymir	subst:pl:nom:m1	imię
 Cieszymirowie	Cieszymir	subst:pl:voc:m1	imię	
 Cieszymirów	Cieszymir	subst:pl:acc:m1	imię	
 Cieszymirów	Cieszymir	subst:pl:gen:m1	imię	
+Cieszymiry	Cieszymir	depr:pl:acc:m2	imię	
 Cieszymiry	Cieszymir	depr:pl:nom:m2	imię	
 Cieszymiry	Cieszymir	depr:pl:voc:m2	imię	
 Cieszymirze	Cieszymir	subst:sg:loc:m1	imię	
@@ -4489,6 +4627,7 @@ Cieszymysłowie	Cieszymysł	subst:pl:nom:m1	imię
 Cieszymysłowie	Cieszymysł	subst:pl:voc:m1	imię	
 Cieszymysłów	Cieszymysł	subst:pl:acc:m1	imię	
 Cieszymysłów	Cieszymysł	subst:pl:gen:m1	imię	
+Cieszymysły	Cieszymysł	depr:pl:acc:m2	imię	
 Cieszymysły	Cieszymysł	depr:pl:nom:m2	imię	
 Cieszymysły	Cieszymysł	depr:pl:voc:m2	imię	
 Cieszymyśle	Cieszymysł	subst:sg:loc:m1	imię	
@@ -4533,6 +4672,7 @@ Cieszyradowie	Cieszyrad	subst:pl:nom:m1	imię
 Cieszyradowie	Cieszyrad	subst:pl:voc:m1	imię	
 Cieszyradów	Cieszyrad	subst:pl:acc:m1	imię	
 Cieszyradów	Cieszyrad	subst:pl:gen:m1	imię	
+Cieszyrady	Cieszyrad	depr:pl:acc:m2	imię	
 Cieszyrady	Cieszyrad	depr:pl:nom:m2	imię	
 Cieszyrady	Cieszyrad	depr:pl:voc:m2	imię	
 Cieszyradzi	Cieszyrad	subst:pl:nom:m1	imię	
@@ -4555,6 +4695,7 @@ Cieszysławowie	Cieszysław	subst:pl:nom:m1	imię
 Cieszysławowie	Cieszysław	subst:pl:voc:m1	imię	
 Cieszysławów	Cieszysław	subst:pl:acc:m1	imię	
 Cieszysławów	Cieszysław	subst:pl:gen:m1	imię	
+Cieszysławy	Cieszysław	depr:pl:acc:m2	imię	
 Cieszysławy	Cieszysław	depr:pl:nom:m2	imię	
 Cieszysławy	Cieszysław	depr:pl:voc:m2	imię	
 Cieszysławach	Cieszysława	subst:pl:loc:f	imię	
@@ -4575,6 +4716,7 @@ Cieślach	Cieśla	subst:pl:loc:m1	nazwisko
 Cieśla	Cieśla	subst:sg:nom:m1	nazwisko	
 Cieślami	Cieśla	subst:pl:inst:m1	nazwisko	
 Cieślą	Cieśla	subst:sg:inst:m1	nazwisko	
+Cieśle	Cieśla	depr:pl:acc:m2	nazwisko	
 Cieśle	Cieśla	depr:pl:nom:m2	nazwisko	
 Cieśle	Cieśla	depr:pl:voc:m2	nazwisko	
 Cieślę	Cieśla	subst:sg:acc:m1	nazwisko	
@@ -4592,6 +4734,7 @@ Cieślaka	Cieślak	subst:sg:acc:m1	nazwisko
 Cieślaka	Cieślak	subst:sg:gen:m1	nazwisko	
 Cieślakami	Cieślak	subst:pl:inst:m1	nazwisko	
 Cieślak	Cieślak	subst:sg:nom:m1	nazwisko	
+Cieślaki	Cieślak	depr:pl:acc:m2	nazwisko	
 Cieślaki	Cieślak	depr:pl:nom:m2	nazwisko	
 Cieślaki	Cieślak	depr:pl:voc:m2	nazwisko	
 Cieślakiem	Cieślak	subst:sg:inst:m1	nazwisko	
@@ -4608,6 +4751,7 @@ Cieślika	Cieślik	subst:sg:acc:m1	nazwisko
 Cieślika	Cieślik	subst:sg:gen:m1	nazwisko	
 Cieślikami	Cieślik	subst:pl:inst:m1	nazwisko	
 Cieślik	Cieślik	subst:sg:nom:m1	nazwisko	
+Cieśliki	Cieślik	depr:pl:acc:m2	nazwisko	
 Cieśliki	Cieślik	depr:pl:nom:m2	nazwisko	
 Cieśliki	Cieślik	depr:pl:voc:m2	nazwisko	
 Cieślikiem	Cieślik	subst:sg:inst:m1	nazwisko	
@@ -4654,6 +4798,7 @@ Cieślikowskich	Cieślikowski	subst:pl:gen:m1	nazwisko
 Cieślikowskich	Cieślikowski	subst:pl:loc:m1	nazwisko	
 Cieślikowski	Cieślikowski	subst:sg:nom:m1	nazwisko	
 Cieślikowski	Cieślikowski	subst:sg:voc:m1	nazwisko	
+Cieślikowskie	Cieślikowski	depr:pl:acc:m2	nazwisko	
 Cieślikowskie	Cieślikowski	depr:pl:nom:m2	nazwisko	
 Cieślikowskie	Cieślikowski	depr:pl:voc:m2	nazwisko	
 Cieślikowskiego	Cieślikowski	subst:sg:acc:m1	nazwisko	
@@ -4684,6 +4829,7 @@ Cieślińskich	Cieśliński	subst:pl:gen:m1	nazwisko
 Cieślińskich	Cieśliński	subst:pl:loc:m1	nazwisko	
 Cieśliński	Cieśliński	subst:sg:nom:m1	nazwisko	
 Cieśliński	Cieśliński	subst:sg:voc:m1	nazwisko	
+Cieślińskie	Cieśliński	depr:pl:acc:m2	nazwisko	
 Cieślińskie	Cieśliński	depr:pl:nom:m2	nazwisko	
 Cieślińskie	Cieśliński	depr:pl:voc:m2	nazwisko	
 Cieślińskiego	Cieśliński	subst:sg:acc:m1	nazwisko	
@@ -4713,6 +4859,7 @@ Cimoszewicza	Cimoszewicz	subst:sg:acc:m1	nazwisko
 Cimoszewicza	Cimoszewicz	subst:sg:gen:m1	nazwisko	
 Cimoszewiczami	Cimoszewicz	subst:pl:inst:m1	nazwisko	
 Cimoszewicz	Cimoszewicz	subst:sg:nom:m1	nazwisko	
+Cimoszewicze	Cimoszewicz	depr:pl:acc:m2	nazwisko	
 Cimoszewicze	Cimoszewicz	depr:pl:nom:m2	nazwisko	
 Cimoszewicze	Cimoszewicz	depr:pl:voc:m2	nazwisko	
 Cimoszewicze	Cimoszewicz	subst:pl:nom:m1	nazwisko	
@@ -4761,6 +4908,7 @@ Ciszewskich	Ciszewski	subst:pl:gen:m1	nazwisko
 Ciszewskich	Ciszewski	subst:pl:loc:m1	nazwisko	
 Ciszewski	Ciszewski	subst:sg:nom:m1	nazwisko	
 Ciszewski	Ciszewski	subst:sg:voc:m1	nazwisko	
+Ciszewskie	Ciszewski	depr:pl:acc:m2	nazwisko	
 Ciszewskie	Ciszewski	depr:pl:nom:m2	nazwisko	
 Ciszewskie	Ciszewski	depr:pl:voc:m2	nazwisko	
 Ciszewskiego	Ciszewski	subst:sg:acc:m1	nazwisko	
@@ -4866,6 +5014,7 @@ Clairowie	Clair	subst:pl:nom:m1	nazwisko
 Clairowie	Clair	subst:pl:voc:m1	nazwisko	
 Clairów	Clair	subst:pl:acc:m1	nazwisko	
 Clairów	Clair	subst:pl:gen:m1	nazwisko	
+Clairy	Clair	depr:pl:acc:m2	nazwisko	
 Clairy	Clair	depr:pl:nom:m2	nazwisko	
 Clairy	Clair	depr:pl:voc:m2	nazwisko	
 Clairze	Clair	subst:sg:loc:m1	nazwisko	
@@ -4882,10 +5031,12 @@ Claude’owie	Claude	subst:pl:nom:m1	imię
 Claude’owie	Claude	subst:pl:voc:m1	imię	
 Claude’ów	Claude	subst:pl:acc:m1	imię	
 Claude’ów	Claude	subst:pl:gen:m1	imię	
+Claude’y	Claude	depr:pl:acc:m2	imię	
 Claude’y	Claude	depr:pl:nom:m2	imię	
 Claude’y	Claude	depr:pl:voc:m2	imię	
 Claudzie	Claude	subst:sg:loc:m1	imię	
 Claudzie	Claude	subst:sg:voc:m1	imię	
+Clemenceau	Clemenceau	depr:pl:acc:m2	nazwisko	
 Clemenceau	Clemenceau	depr:pl:nom:m2	nazwisko	
 Clemenceau	Clemenceau	depr:pl:voc:m2	nazwisko	
 Clemenceau	Clemenceau	subst:pl:acc:m1	nazwisko	
@@ -4930,6 +5081,7 @@ Clintonowie	Clinton	subst:pl:nom:m1	nazwisko
 Clintonowie	Clinton	subst:pl:voc:m1	nazwisko	
 Clintonów	Clinton	subst:pl:acc:m1	nazwisko	
 Clintonów	Clinton	subst:pl:gen:m1	nazwisko	
+Clintony	Clinton	depr:pl:acc:m2	nazwisko	
 Clintony	Clinton	depr:pl:nom:m2	nazwisko	
 Clintony	Clinton	depr:pl:voc:m2	nazwisko	
 Clubach	Club	subst:pl:loc:m3	człon nazwy organizacji	
@@ -5046,6 +5198,7 @@ COCOM-u	COCOM	subst:sg:gen:m3	nazwa organizacji
 COCOM-y	COCOM	subst:pl:acc:m3	nazwa organizacji	
 COCOM-y	COCOM	subst:pl:nom:m3	nazwa organizacji	
 COCOM-y	COCOM	subst:pl:voc:m3	nazwa organizacji	
+Cocteau	Cocteau	depr:pl:acc:m2	nazwisko	
 Cocteau	Cocteau	depr:pl:nom:m2	nazwisko	
 Cocteau	Cocteau	depr:pl:voc:m2	nazwisko	
 Cocteau	Cocteau	subst:pl:acc:m1	nazwisko	
@@ -5076,6 +5229,7 @@ Cohenowie	Cohen	subst:pl:nom:m1	nazwisko
 Cohenowie	Cohen	subst:pl:voc:m1	nazwisko	
 Cohenów	Cohen	subst:pl:acc:m1	nazwisko	
 Cohenów	Cohen	subst:pl:gen:m1	nazwisko	
+Coheny	Cohen	depr:pl:acc:m2	nazwisko	
 Coheny	Cohen	depr:pl:nom:m2	nazwisko	
 Coheny	Cohen	depr:pl:voc:m2	nazwisko	
 Collinsach	Collins	subst:pl:loc:m1	nazwisko	
@@ -5092,6 +5246,7 @@ Collinsowie	Collins	subst:pl:nom:m1	nazwisko
 Collinsowie	Collins	subst:pl:voc:m1	nazwisko	
 Collinsów	Collins	subst:pl:acc:m1	nazwisko	
 Collinsów	Collins	subst:pl:gen:m1	nazwisko	
+Collinsy	Collins	depr:pl:acc:m2	nazwisko	
 Collinsy	Collins	depr:pl:nom:m2	nazwisko	
 Collinsy	Collins	depr:pl:voc:m2	nazwisko	
 Colorado	Colorado:s1	subst:pl:acc:n:ncol	nazwa geograficzna	
@@ -5201,6 +5356,7 @@ Connery	Connery	subst:pl:nom:m1	nazwisko
 Connery	Connery	subst:pl:voc:m1	nazwisko	
 Connery	Connery	subst:sg:nom:m1	nazwisko	
 Connery	Connery	subst:sg:voc:m1	nazwisko	
+Connery’e	Connery	depr:pl:acc:m2	nazwisko	
 Connery’e	Connery	depr:pl:nom:m2	nazwisko	
 Connery’e	Connery	depr:pl:voc:m2	nazwisko	
 Connery’ego	Connery	subst:sg:acc:m1	nazwisko	
@@ -5222,6 +5378,7 @@ Conradowie	Conrad	subst:pl:nom:m1	nazwisko
 Conradowie	Conrad	subst:pl:voc:m1	nazwisko	
 Conradów	Conrad	subst:pl:acc:m1	nazwisko	
 Conradów	Conrad	subst:pl:gen:m1	nazwisko	
+Conrady	Conrad	depr:pl:acc:m2	nazwisko	
 Conrady	Conrad	depr:pl:nom:m2	nazwisko	
 Conrady	Conrad	depr:pl:voc:m2	nazwisko	
 Conradzie	Conrad	subst:sg:loc:m1	nazwisko	
@@ -5231,6 +5388,7 @@ Constable’a	Constable	subst:sg:acc:m1	nazwisko
 Constable’a	Constable	subst:sg:gen:m1	nazwisko	
 Constable’ami	Constable	subst:pl:inst:m1	nazwisko	
 Constable	Constable	subst:sg:nom:m1	nazwisko	
+Constable’e	Constable	depr:pl:acc:m2	nazwisko	
 Constable’e	Constable	depr:pl:nom:m2	nazwisko	
 Constable’e	Constable	depr:pl:voc:m2	nazwisko	
 Constable’em	Constable	subst:sg:inst:m1	nazwisko	
@@ -5247,6 +5405,7 @@ Cooka	Cook	subst:sg:acc:m1	nazwisko
 Cooka	Cook	subst:sg:gen:m1	nazwisko	
 Cookami	Cook	subst:pl:inst:m1	nazwisko	
 Cook	Cook	subst:sg:nom:m1	nazwisko	
+Cooki	Cook	depr:pl:acc:m2	nazwisko	
 Cooki	Cook	depr:pl:nom:m2	nazwisko	
 Cooki	Cook	depr:pl:voc:m2	nazwisko	
 Cookiem	Cook	subst:sg:inst:m1	nazwisko	
@@ -5270,6 +5429,7 @@ Cooperowie	Cooper	subst:pl:nom:m1	nazwisko
 Cooperowie	Cooper	subst:pl:voc:m1	nazwisko	
 Cooperów	Cooper	subst:pl:acc:m1	nazwisko	
 Cooperów	Cooper	subst:pl:gen:m1	nazwisko	
+Coopery	Cooper	depr:pl:acc:m2	nazwisko	
 Coopery	Cooper	depr:pl:nom:m2	nazwisko	
 Coopery	Cooper	depr:pl:voc:m2	nazwisko	
 Cooperze	Cooper	subst:sg:loc:m1	nazwisko	
@@ -5278,6 +5438,7 @@ Coppolach	Coppola	subst:pl:loc:m1	nazwisko
 Coppola	Coppola	subst:sg:nom:m1	nazwisko	
 Coppolami	Coppola	subst:pl:inst:m1	nazwisko	
 Coppolą	Coppola	subst:sg:inst:m1	nazwisko	
+Coppole	Coppola	depr:pl:acc:m2	nazwisko	
 Coppole	Coppola	depr:pl:nom:m2	nazwisko	
 Coppole	Coppola	depr:pl:voc:m2	nazwisko	
 Coppolę	Coppola	subst:sg:acc:m1	nazwisko	
@@ -5297,6 +5458,7 @@ Corazzi	Corazzi	subst:pl:nom:m1	nazwisko
 Corazzi	Corazzi	subst:pl:voc:m1	nazwisko	
 Corazzi	Corazzi	subst:sg:nom:m1	nazwisko	
 Corazzi	Corazzi	subst:sg:voc:m1	nazwisko	
+Corazzie	Corazzi	depr:pl:acc:m2	nazwisko	
 Corazzie	Corazzi	depr:pl:nom:m2	nazwisko	
 Corazzie	Corazzi	depr:pl:voc:m2	nazwisko	
 Corazziego	Corazzi	subst:sg:acc:m1	nazwisko	
@@ -5320,6 +5482,7 @@ Corbusierowie	Corbusier	subst:pl:nom:m1	nazwisko
 Corbusierowie	Corbusier	subst:pl:voc:m1	nazwisko	
 Corbusierów	Corbusier	subst:pl:acc:m1	nazwisko	
 Corbusierów	Corbusier	subst:pl:gen:m1	nazwisko	
+Corbusiery	Corbusier	depr:pl:acc:m2	nazwisko	
 Corbusiery	Corbusier	depr:pl:nom:m2	nazwisko	
 Corbusiery	Corbusier	depr:pl:voc:m2	nazwisko	
 Corbusierze	Corbusier	subst:sg:loc:m1	nazwisko	
@@ -5329,6 +5492,7 @@ Corneille’a	Corneille	subst:sg:acc:m1	nazwisko
 Corneille’a	Corneille	subst:sg:gen:m1	nazwisko	
 Corneille’ami	Corneille	subst:pl:inst:m1	nazwisko	
 Corneille	Corneille	subst:sg:nom:m1	nazwisko	
+Corneille’e	Corneille	depr:pl:acc:m2	nazwisko	
 Corneille’e	Corneille	depr:pl:nom:m2	nazwisko	
 Corneille’e	Corneille	depr:pl:voc:m2	nazwisko	
 Corneille’em	Corneille	subst:sg:inst:m1	nazwisko	
@@ -5354,6 +5518,7 @@ Corotowie	Corot	subst:pl:nom:m1	nazwisko
 Corotowie	Corot	subst:pl:voc:m1	nazwisko	
 Corotów	Corot	subst:pl:acc:m1	nazwisko	
 Corotów	Corot	subst:pl:gen:m1	nazwisko	
+Coroty	Corot	depr:pl:acc:m2	nazwisko	
 Coroty	Corot	depr:pl:nom:m2	nazwisko	
 Coroty	Corot	depr:pl:voc:m2	nazwisko	
 Corp	corporation	brev:pun		
@@ -5361,6 +5526,7 @@ Correggiach	Correggio	subst:pl:loc:m1	nazwisko
 Correggia	Correggio	subst:sg:acc:m1	nazwisko	
 Correggia	Correggio	subst:sg:gen:m1	nazwisko	
 Correggiami	Correggio	subst:pl:inst:m1	nazwisko	
+Correggie	Correggio	depr:pl:acc:m2	nazwisko	
 Correggie	Correggio	depr:pl:nom:m2	nazwisko	
 Correggie	Correggio	depr:pl:voc:m2	nazwisko	
 Correggiem	Correggio	subst:sg:inst:m1	nazwisko	
@@ -5385,6 +5551,7 @@ Cortazarowie	Cortazar	subst:pl:nom:m1	nazwisko
 Cortazarowie	Cortazar	subst:pl:voc:m1	nazwisko	
 Cortazarów	Cortazar	subst:pl:acc:m1	nazwisko	
 Cortazarów	Cortazar	subst:pl:gen:m1	nazwisko	
+Cortazary	Cortazar	depr:pl:acc:m2	nazwisko	
 Cortazary	Cortazar	depr:pl:nom:m2	nazwisko	
 Cortazary	Cortazar	depr:pl:voc:m2	nazwisko	
 Cortazarze	Cortazar	subst:sg:loc:m1	nazwisko	
@@ -5403,6 +5570,7 @@ Cortezowie	Cortez	subst:pl:nom:m1	nazwisko
 Cortezowie	Cortez	subst:pl:voc:m1	nazwisko	
 Cortezów	Cortez	subst:pl:acc:m1	nazwisko	
 Cortezów	Cortez	subst:pl:gen:m1	nazwisko	
+Cortezy	Cortez	depr:pl:acc:m2	nazwisko	
 Cortezy	Cortez	depr:pl:nom:m2	nazwisko	
 Cortezy	Cortez	depr:pl:voc:m2	nazwisko	
 Costes’ach	Costes	subst:pl:loc:m1	nazwisko	
@@ -5417,6 +5585,7 @@ Costes’owie	Costes	subst:pl:nom:m1	nazwisko
 Costes’owie	Costes	subst:pl:voc:m1	nazwisko	
 Costes’ów	Costes	subst:pl:acc:m1	nazwisko	
 Costes’ów	Costes	subst:pl:gen:m1	nazwisko	
+Costes’y	Costes	depr:pl:acc:m2	nazwisko	
 Costes’y	Costes	depr:pl:nom:m2	nazwisko	
 Costes’y	Costes	depr:pl:voc:m2	nazwisko	
 Coście	Costes	subst:sg:loc:m1	nazwisko	
@@ -5433,6 +5602,7 @@ Costnerowie	Costner	subst:pl:nom:m1	nazwisko
 Costnerowie	Costner	subst:pl:voc:m1	nazwisko	
 Costnerów	Costner	subst:pl:acc:m1	nazwisko	
 Costnerów	Costner	subst:pl:gen:m1	nazwisko	
+Costnery	Costner	depr:pl:acc:m2	nazwisko	
 Costnery	Costner	depr:pl:nom:m2	nazwisko	
 Costnery	Costner	depr:pl:voc:m2	nazwisko	
 Costnerze	Costner	subst:sg:loc:m1	nazwisko	
@@ -5451,6 +5621,7 @@ Coulombowie	Coulomb	subst:pl:nom:m1	nazwisko
 Coulombowie	Coulomb	subst:pl:voc:m1	nazwisko	
 Coulombów	Coulomb	subst:pl:acc:m1	nazwisko	
 Coulombów	Coulomb	subst:pl:gen:m1	nazwisko	
+Coulomby	Coulomb	depr:pl:acc:m2	nazwisko	
 Coulomby	Coulomb	depr:pl:nom:m2	nazwisko	
 Coulomby	Coulomb	depr:pl:voc:m2	nazwisko	
 Courbecie	Courbet	subst:sg:loc:m1	nazwisko	
@@ -5467,8 +5638,10 @@ Courbetowie	Courbet	subst:pl:nom:m1	nazwisko
 Courbetowie	Courbet	subst:pl:voc:m1	nazwisko	
 Courbetów	Courbet	subst:pl:acc:m1	nazwisko	
 Courbetów	Courbet	subst:pl:gen:m1	nazwisko	
+Courbety	Courbet	depr:pl:acc:m2	nazwisko	
 Courbety	Courbet	depr:pl:nom:m2	nazwisko	
 Courbety	Courbet	depr:pl:voc:m2	nazwisko	
+Courtenay	Courtenay	depr:pl:acc:m2	nazwisko	
 Courtenay	Courtenay	depr:pl:nom:m2	nazwisko	
 Courtenay	Courtenay	depr:pl:voc:m2	nazwisko	
 Courtenay	Courtenay	subst:pl:acc:m1	nazwisko	
@@ -5485,6 +5658,7 @@ Courtenay	Courtenay	subst:sg:inst:m1	nazwisko
 Courtenay	Courtenay	subst:sg:loc:m1	nazwisko	
 Courtenay	Courtenay	subst:sg:nom:m1	nazwisko	
 Courtenay	Courtenay	subst:sg:voc:m1	nazwisko	
+Cousteau	Cousteau	depr:pl:acc:m2	nazwisko	
 Cousteau	Cousteau	depr:pl:nom:m2	nazwisko	
 Cousteau	Cousteau	depr:pl:voc:m2	nazwisko	
 Cousteau	Cousteau	subst:pl:acc:m1	nazwisko	
@@ -5586,6 +5760,7 @@ Cranachów	Cranach	subst:pl:acc:m1	nazwisko
 Cranachów	Cranach	subst:pl:gen:m1	nazwisko	
 Cranachu	Cranach	subst:sg:loc:m1	nazwisko	
 Cranachu	Cranach	subst:sg:voc:m1	nazwisko	
+Cranachy	Cranach	depr:pl:acc:m2	nazwisko	
 Cranachy	Cranach	depr:pl:nom:m2	nazwisko	
 Cranachy	Cranach	depr:pl:voc:m2	nazwisko	
 Craxich	Craxi	subst:pl:acc:m1	nazwisko	
@@ -5595,6 +5770,7 @@ Craxi	Craxi	subst:pl:nom:m1	nazwisko
 Craxi	Craxi	subst:pl:voc:m1	nazwisko	
 Craxi	Craxi	subst:sg:nom:m1	nazwisko	
 Craxi	Craxi	subst:sg:voc:m1	nazwisko	
+Craxie	Craxi	depr:pl:acc:m2	nazwisko	
 Craxie	Craxi	depr:pl:nom:m2	nazwisko	
 Craxie	Craxi	depr:pl:voc:m2	nazwisko	
 Craxiego	Craxi	subst:sg:acc:m1	nazwisko	
@@ -5608,6 +5784,7 @@ Craxiowie	Craxi	subst:pl:nom:m1	nazwisko
 Craxiowie	Craxi	subst:pl:voc:m1	nazwisko	
 Crocach	Croce	subst:pl:loc:m1	nazwisko	
 Crocami	Croce	subst:pl:inst:m1	nazwisko	
+Croce	Croce	depr:pl:acc:m2	nazwisko	
 Croce	Croce	depr:pl:nom:m2	nazwisko	
 Croce	Croce	depr:pl:voc:m2	nazwisko	
 Croce	Croce	subst:sg:nom:m1	nazwisko	
@@ -5627,6 +5804,7 @@ Cromwella	Cromwell	subst:sg:acc:m1	nazwisko
 Cromwella	Cromwell	subst:sg:gen:m1	nazwisko	
 Cromwellami	Cromwell	subst:pl:inst:m1	nazwisko	
 Cromwell	Cromwell	subst:sg:nom:m1	nazwisko	
+Cromwelle	Cromwell	depr:pl:acc:m2	nazwisko	
 Cromwelle	Cromwell	depr:pl:nom:m2	nazwisko	
 Cromwelle	Cromwell	depr:pl:voc:m2	nazwisko	
 Cromwelle	Cromwell	subst:pl:nom:m1	nazwisko	
@@ -5652,10 +5830,12 @@ Cruise’owie	Cruise	subst:pl:nom:m1	nazwisko
 Cruise’owie	Cruise	subst:pl:voc:m1	nazwisko	
 Cruise’ów	Cruise	subst:pl:acc:m1	nazwisko	
 Cruise’ów	Cruise	subst:pl:gen:m1	nazwisko	
+Cruise’y	Cruise	depr:pl:acc:m2	nazwisko	
 Cruise’y	Cruise	depr:pl:nom:m2	nazwisko	
 Cruise’y	Cruise	depr:pl:voc:m2	nazwisko	
 Cruisie	Cruise	subst:sg:loc:m1	nazwisko	
 Cruisie	Cruise	subst:sg:voc:m1	nazwisko	
+Crusoe	Crusoe	depr:pl:acc:m2	nazwisko	lit.
 Crusoe	Crusoe	depr:pl:nom:m2	nazwisko	lit.
 Crusoe	Crusoe	depr:pl:voc:m2	nazwisko	lit.
 Crusoe	Crusoe	subst:pl:acc:m1	nazwisko	lit.
@@ -5751,6 +5931,7 @@ CTV	CTV	subst:sg:inst:f	nazwa pospolita|nazwa firmy
 CTV	CTV	subst:sg:loc:f	nazwa pospolita|nazwa firmy	
 CTV	CTV	subst:sg:nom:f	nazwa pospolita|nazwa firmy	
 CTV	CTV	subst:sg:voc:f	nazwa pospolita|nazwa firmy	
+Curie	Curie	depr:pl:acc:m2	nazwisko	
 Curie	Curie	depr:pl:nom:m2	nazwisko	
 Curie	Curie	depr:pl:voc:m2	nazwisko	
 Curie	Curie	subst:pl:acc:m1	nazwisko	
@@ -5771,6 +5952,7 @@ Curusiach	Curuś	subst:pl:loc:m1	nazwisko
 Curusia	Curuś	subst:sg:acc:m1	nazwisko	
 Curusia	Curuś	subst:sg:gen:m1	nazwisko	
 Curusiami	Curuś	subst:pl:inst:m1	nazwisko	
+Curusie	Curuś	depr:pl:acc:m2	nazwisko	
 Curusie	Curuś	depr:pl:nom:m2	nazwisko	
 Curusie	Curuś	depr:pl:voc:m2	nazwisko	
 Curusiem	Curuś	subst:sg:inst:m1	nazwisko	
@@ -5795,6 +5977,7 @@ Curwoodowie	Curwood	subst:pl:nom:m1	nazwisko
 Curwoodowie	Curwood	subst:pl:voc:m1	nazwisko	
 Curwoodów	Curwood	subst:pl:acc:m1	nazwisko	
 Curwoodów	Curwood	subst:pl:gen:m1	nazwisko	
+Curwoody	Curwood	depr:pl:acc:m2	nazwisko	
 Curwoody	Curwood	depr:pl:nom:m2	nazwisko	
 Curwoody	Curwood	depr:pl:voc:m2	nazwisko	
 Curwoodzie	Curwood	subst:sg:loc:m1	nazwisko	
@@ -5813,6 +5996,7 @@ Curzonowie	Curzon	subst:pl:nom:m1	nazwisko
 Curzonowie	Curzon	subst:pl:voc:m1	nazwisko	
 Curzonów	Curzon	subst:pl:acc:m1	nazwisko	
 Curzonów	Curzon	subst:pl:gen:m1	nazwisko	
+Curzony	Curzon	depr:pl:acc:m2	nazwisko	
 Curzony	Curzon	depr:pl:nom:m2	nazwisko	
 Curzony	Curzon	depr:pl:voc:m2	nazwisko	
 CV	CV	subst:pl:acc:n:ncol	nazwa pospolita	
@@ -5899,6 +6083,7 @@ Cybisowie	Cybis	subst:pl:nom:m1	nazwisko
 Cybisowie	Cybis	subst:pl:voc:m1	nazwisko	
 Cybisów	Cybis	subst:pl:acc:m1	nazwisko	
 Cybisów	Cybis	subst:pl:gen:m1	nazwisko	
+Cybisy	Cybis	depr:pl:acc:m2	nazwisko	
 Cybisy	Cybis	depr:pl:nom:m2	nazwisko	
 Cybisy	Cybis	depr:pl:voc:m2	nazwisko	
 Cybulska	Cybulska	subst:sg:nom:f	nazwisko	
@@ -5922,6 +6107,7 @@ Cybulskich	Cybulski	subst:pl:gen:m1	nazwisko
 Cybulskich	Cybulski	subst:pl:loc:m1	nazwisko	
 Cybulski	Cybulski	subst:sg:nom:m1	nazwisko	
 Cybulski	Cybulski	subst:sg:voc:m1	nazwisko	
+Cybulskie	Cybulski	depr:pl:acc:m2	nazwisko	
 Cybulskie	Cybulski	depr:pl:nom:m2	nazwisko	
 Cybulskie	Cybulski	depr:pl:voc:m2	nazwisko	
 Cybulskiego	Cybulski	subst:sg:acc:m1	nazwisko	
@@ -5946,6 +6132,7 @@ Cyceronowie	Cycero	subst:pl:nom:m1	imię
 Cyceronowie	Cycero	subst:pl:voc:m1	imię	
 Cyceronów	Cycero	subst:pl:acc:m1	imię	
 Cyceronów	Cycero	subst:pl:gen:m1	imię	
+Cycerony	Cycero	depr:pl:acc:m2	imię	
 Cycerony	Cycero	depr:pl:nom:m2	imię	
 Cycerony	Cycero	depr:pl:voc:m2	imię	
 Cyceronach	Cyceron	subst:pl:loc:m1	imię	hist.
@@ -5962,6 +6149,7 @@ Cyceronowie	Cyceron	subst:pl:nom:m1	imię	hist.
 Cyceronowie	Cyceron	subst:pl:voc:m1	imię	hist.
 Cyceronów	Cyceron	subst:pl:acc:m1	imię	hist.
 Cyceronów	Cyceron	subst:pl:gen:m1	imię	hist.
+Cycerony	Cyceron	depr:pl:acc:m2	imię	hist.
 Cycerony	Cyceron	depr:pl:nom:m2	imię	hist.
 Cycerony	Cyceron	depr:pl:voc:m2	imię	hist.
 Cycowach	Cyców	subst:pl:loc:m3	nazwa geograficzna	
@@ -5993,6 +6181,7 @@ Cyganom	Cygan	subst:pl:dat:m1	nazwa pospolita
 Cyganowi	Cygan	subst:sg:dat:m1	nazwa pospolita	
 Cyganów	Cygan	subst:pl:acc:m1	nazwa pospolita	
 Cyganów	Cygan	subst:pl:gen:m1	nazwa pospolita	
+Cygany	Cygan	depr:pl:acc:m2	nazwa pospolita	
 Cygany	Cygan	depr:pl:nom:m2	nazwa pospolita	
 Cygany	Cygan	depr:pl:voc:m2	nazwa pospolita	
 Cyganeczce	Cyganeczka	subst:sg:dat:f	nazwa pospolita	
@@ -6021,6 +6210,7 @@ Cyganiakami	Cyganiak	subst:pl:inst:m1	nazwa pospolita	pot.
 Cyganiakami	Cyganiak	subst:pl:inst:m2	nazwa pospolita	pot.
 Cyganiak	Cyganiak	subst:sg:nom:m1	nazwa pospolita	pot.
 Cyganiak	Cyganiak	subst:sg:nom:m2	nazwa pospolita	pot.
+Cyganiaki	Cyganiak	depr:pl:acc:m2	nazwa pospolita	pot.
 Cyganiaki	Cyganiak	depr:pl:nom:m2	nazwa pospolita	pot.
 Cyganiaki	Cyganiak	depr:pl:voc:m2	nazwa pospolita	pot.
 Cyganiaki	Cyganiak	subst:pl:acc:m2	nazwa pospolita	pot.
@@ -6074,6 +6264,7 @@ Cyganiuka	Cyganiuk	subst:sg:acc:m1	nazwa pospolita	reg.
 Cyganiuka	Cyganiuk	subst:sg:gen:m1	nazwa pospolita	reg.
 Cyganiukami	Cyganiuk	subst:pl:inst:m1	nazwa pospolita	reg.
 Cyganiuk	Cyganiuk	subst:sg:nom:m1	nazwa pospolita	reg.
+Cyganiuki	Cyganiuk	depr:pl:acc:m2	nazwa pospolita	reg.
 Cyganiuki	Cyganiuk	depr:pl:nom:m2	nazwa pospolita	reg.
 Cyganiuki	Cyganiuk	depr:pl:voc:m2	nazwa pospolita	reg.
 Cyganiukiem	Cyganiuk	subst:sg:inst:m1	nazwa pospolita	reg.
@@ -6104,6 +6295,7 @@ Cygańczuka	Cygańczuk	subst:sg:acc:m1	nazwa pospolita
 Cygańczuka	Cygańczuk	subst:sg:gen:m1	nazwa pospolita	
 Cygańczukami	Cygańczuk	subst:pl:inst:m1	nazwa pospolita	
 Cygańczuk	Cygańczuk	subst:sg:nom:m1	nazwa pospolita	
+Cygańczuki	Cygańczuk	depr:pl:acc:m2	nazwa pospolita	
 Cygańczuki	Cygańczuk	depr:pl:nom:m2	nazwa pospolita	
 Cygańczuki	Cygańczuk	depr:pl:voc:m2	nazwa pospolita	
 Cygańczukiem	Cygańczuk	subst:sg:inst:m1	nazwa pospolita	
@@ -6120,6 +6312,7 @@ Cy-janga	Cy-jang	subst:sg:acc:m1	nazwisko
 Cy-janga	Cy-jang	subst:sg:gen:m1	nazwisko	
 Cy-jangami	Cy-jang	subst:pl:inst:m1	nazwisko	
 Cy-jang	Cy-jang	subst:sg:nom:m1	nazwisko	
+Cy-jangi	Cy-jang	depr:pl:acc:m2	nazwisko	
 Cy-jangi	Cy-jang	depr:pl:nom:m2	nazwisko	
 Cy-jangi	Cy-jang	depr:pl:voc:m2	nazwisko	
 Cy-jangiem	Cy-jang	subst:sg:inst:m1	nazwisko	
@@ -6197,6 +6390,7 @@ Cymborowskich	Cymborowski	subst:pl:gen:m1	nazwisko
 Cymborowskich	Cymborowski	subst:pl:loc:m1	nazwisko	
 Cymborowski	Cymborowski	subst:sg:nom:m1	nazwisko	
 Cymborowski	Cymborowski	subst:sg:voc:m1	nazwisko	
+Cymborowskie	Cymborowski	depr:pl:acc:m2	nazwisko	
 Cymborowskie	Cymborowski	depr:pl:nom:m2	nazwisko	
 Cymborowskie	Cymborowski	depr:pl:voc:m2	nazwisko	
 Cymborowskiego	Cymborowski	subst:sg:acc:m1	nazwisko	
@@ -6226,6 +6420,7 @@ Cypiskach	Cypisek	subst:pl:loc:m1	imię
 Cypiska	Cypisek	subst:sg:acc:m1	imię	
 Cypiska	Cypisek	subst:sg:gen:m1	imię	
 Cypiskami	Cypisek	subst:pl:inst:m1	imię	
+Cypiski	Cypisek	depr:pl:acc:m2	imię	
 Cypiski	Cypisek	depr:pl:nom:m2	imię	
 Cypiski	Cypisek	depr:pl:voc:m2	imię	
 Cypiskiem	Cypisek	subst:sg:inst:m1	imię	
@@ -6265,6 +6460,7 @@ Cyprianowie	Cyprian	subst:pl:nom:m1	imię
 Cyprianowie	Cyprian	subst:pl:voc:m1	imię	
 Cyprianów	Cyprian	subst:pl:acc:m1	imię	
 Cyprianów	Cyprian	subst:pl:gen:m1	imię	
+Cypriany	Cyprian	depr:pl:acc:m2	imię	
 Cypriany	Cyprian	depr:pl:nom:m2	imię	
 Cypriany	Cyprian	depr:pl:voc:m2	imię	
 Cypryjczycy	Cypryjczyk	subst:pl:nom:m1	nazwa pospolita	
@@ -6274,6 +6470,7 @@ Cypryjczyka	Cypryjczyk	subst:sg:acc:m1	nazwa pospolita
 Cypryjczyka	Cypryjczyk	subst:sg:gen:m1	nazwa pospolita	
 Cypryjczykami	Cypryjczyk	subst:pl:inst:m1	nazwa pospolita	
 Cypryjczyk	Cypryjczyk	subst:sg:nom:m1	nazwa pospolita	
+Cypryjczyki	Cypryjczyk	depr:pl:acc:m2	nazwa pospolita	
 Cypryjczyki	Cypryjczyk	depr:pl:nom:m2	nazwa pospolita	
 Cypryjczyki	Cypryjczyk	depr:pl:voc:m2	nazwa pospolita	
 Cypryjczykiem	Cypryjczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -6302,6 +6499,7 @@ Cyrankiewicza	Cyrankiewicz	subst:sg:acc:m1	nazwisko
 Cyrankiewicza	Cyrankiewicz	subst:sg:gen:m1	nazwisko	
 Cyrankiewiczami	Cyrankiewicz	subst:pl:inst:m1	nazwisko	
 Cyrankiewicz	Cyrankiewicz	subst:sg:nom:m1	nazwisko	
+Cyrankiewicze	Cyrankiewicz	depr:pl:acc:m2	nazwisko	
 Cyrankiewicze	Cyrankiewicz	depr:pl:nom:m2	nazwisko	
 Cyrankiewicze	Cyrankiewicz	depr:pl:voc:m2	nazwisko	
 Cyrankiewicze	Cyrankiewicz	subst:pl:nom:m1	nazwisko	
@@ -6329,6 +6527,7 @@ Cyranowie	Cyrano	subst:pl:nom:m1	imię
 Cyranowie	Cyrano	subst:pl:voc:m1	imię	
 Cyranów	Cyrano	subst:pl:acc:m1	imię	
 Cyranów	Cyrano	subst:pl:gen:m1	imię	
+Cyrany	Cyrano	depr:pl:acc:m2	imię	
 Cyrany	Cyrano	depr:pl:nom:m2	imię	
 Cyrany	Cyrano	depr:pl:voc:m2	imię	
 Cyrce	Cyrce	subst:pl:acc:f	imię	mit.
@@ -6366,6 +6565,7 @@ Cyrenejczyka	Cyrenejczyk	subst:sg:acc:m1	nazwa pospolita
 Cyrenejczyka	Cyrenejczyk	subst:sg:gen:m1	nazwa pospolita	
 Cyrenejczykami	Cyrenejczyk	subst:pl:inst:m1	nazwa pospolita	
 Cyrenejczyk	Cyrenejczyk	subst:sg:nom:m1	nazwa pospolita	
+Cyrenejczyki	Cyrenejczyk	depr:pl:acc:m2	nazwa pospolita	
 Cyrenejczyki	Cyrenejczyk	depr:pl:nom:m2	nazwa pospolita	
 Cyrenejczyki	Cyrenejczyk	depr:pl:voc:m2	nazwa pospolita	
 Cyrenejczykiem	Cyrenejczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -6382,6 +6582,7 @@ Cyriaka	Cyriak	subst:sg:acc:m1	imię
 Cyriaka	Cyriak	subst:sg:gen:m1	imię	
 Cyriakami	Cyriak	subst:pl:inst:m1	imię	
 Cyriak	Cyriak	subst:sg:nom:m1	imię	
+Cyriaki	Cyriak	depr:pl:acc:m2	imię	
 Cyriaki	Cyriak	depr:pl:nom:m2	imię	
 Cyriaki	Cyriak	depr:pl:voc:m2	imię	
 Cyriakiem	Cyriak	subst:sg:inst:m1	imię	
@@ -6421,6 +6622,7 @@ Cyrusowie	Cyrus	subst:pl:nom:m1	imię
 Cyrusowie	Cyrus	subst:pl:voc:m1	imię	
 Cyrusów	Cyrus	subst:pl:acc:m1	imię	
 Cyrusów	Cyrus	subst:pl:gen:m1	imię	
+Cyrusy	Cyrus	depr:pl:acc:m2	imię	
 Cyrusy	Cyrus	depr:pl:nom:m2	imię	
 Cyrusy	Cyrus	depr:pl:voc:m2	imię	
 Cyrylach	Cyryl	subst:pl:loc:m1	imię	
@@ -6428,6 +6630,7 @@ Cyryla	Cyryl	subst:sg:acc:m1	imię
 Cyryla	Cyryl	subst:sg:gen:m1	imię	
 Cyrylami	Cyryl	subst:pl:inst:m1	imię	
 Cyryl	Cyryl	subst:sg:nom:m1	imię	
+Cyryle	Cyryl	depr:pl:acc:m2	imię	
 Cyryle	Cyryl	depr:pl:nom:m2	imię	
 Cyryle	Cyryl	depr:pl:voc:m2	imię	
 Cyryle	Cyryl	subst:pl:nom:m1	imię	
@@ -6462,6 +6665,7 @@ Cywińskich	Cywiński	subst:pl:gen:m1	nazwisko
 Cywińskich	Cywiński	subst:pl:loc:m1	nazwisko	
 Cywiński	Cywiński	subst:sg:nom:m1	nazwisko	
 Cywiński	Cywiński	subst:sg:voc:m1	nazwisko	
+Cywińskie	Cywiński	depr:pl:acc:m2	nazwisko	
 Cywińskie	Cywiński	depr:pl:nom:m2	nazwisko	
 Cywińskie	Cywiński	depr:pl:voc:m2	nazwisko	
 Cywińskiego	Cywiński	subst:sg:acc:m1	nazwisko	
@@ -6475,6 +6679,7 @@ Cyziach	Cyzio	subst:pl:loc:m1	nazwisko
 Cyzia	Cyzio	subst:sg:acc:m1	nazwisko	
 Cyzia	Cyzio	subst:sg:gen:m1	nazwisko	
 Cyziami	Cyzio	subst:pl:inst:m1	nazwisko	
+Cyzie	Cyzio	depr:pl:acc:m2	nazwisko	
 Cyzie	Cyzio	depr:pl:nom:m2	nazwisko	
 Cyzie	Cyzio	depr:pl:voc:m2	nazwisko	
 Cyziem	Cyzio	subst:sg:inst:m1	nazwisko	
@@ -6522,6 +6727,7 @@ Czachowskich	Czachowski	subst:pl:gen:m1	nazwisko
 Czachowskich	Czachowski	subst:pl:loc:m1	nazwisko	
 Czachowski	Czachowski	subst:sg:nom:m1	nazwisko	
 Czachowski	Czachowski	subst:sg:voc:m1	nazwisko	
+Czachowskie	Czachowski	depr:pl:acc:m2	nazwisko	
 Czachowskie	Czachowski	depr:pl:nom:m2	nazwisko	
 Czachowskie	Czachowski	depr:pl:voc:m2	nazwisko	
 Czachowskiego	Czachowski	subst:sg:acc:m1	nazwisko	
@@ -6552,6 +6758,7 @@ Czackich	Czacki	subst:pl:gen:m1	nazwisko
 Czackich	Czacki	subst:pl:loc:m1	nazwisko	
 Czacki	Czacki	subst:sg:nom:m1	nazwisko	
 Czacki	Czacki	subst:sg:voc:m1	nazwisko	
+Czackie	Czacki	depr:pl:acc:m2	nazwisko	
 Czackie	Czacki	depr:pl:nom:m2	nazwisko	
 Czackie	Czacki	depr:pl:voc:m2	nazwisko	
 Czackiego	Czacki	subst:sg:acc:m1	nazwisko	
@@ -6582,6 +6789,7 @@ Czajach	Czaja	subst:pl:loc:m1	nazwisko
 Czaja	Czaja	subst:sg:nom:m1	nazwisko	
 Czajami	Czaja	subst:pl:inst:m1	nazwisko	
 Czają	Czaja	subst:sg:inst:m1	nazwisko	
+Czaje	Czaja	depr:pl:acc:m2	nazwisko	
 Czaje	Czaja	depr:pl:nom:m2	nazwisko	
 Czaje	Czaja	depr:pl:voc:m2	nazwisko	
 Czaję	Czaja	subst:sg:acc:m1	nazwisko	
@@ -6598,6 +6806,7 @@ Czajka	Czajka	subst:sg:nom:m1	nazwisko
 Czajkami	Czajka	subst:pl:inst:m1	nazwisko	
 Czajką	Czajka	subst:sg:inst:m1	nazwisko	
 Czajkę	Czajka	subst:sg:acc:m1	nazwisko	
+Czajki	Czajka	depr:pl:acc:m2	nazwisko	
 Czajki	Czajka	depr:pl:nom:m2	nazwisko	
 Czajki	Czajka	depr:pl:voc:m2	nazwisko	
 Czajki	Czajka	subst:sg:gen:m1	nazwisko	
@@ -6628,6 +6837,7 @@ Czajkowskich	Czajkowski	subst:pl:gen:m1	nazwisko
 Czajkowskich	Czajkowski	subst:pl:loc:m1	nazwisko	
 Czajkowski	Czajkowski	subst:sg:nom:m1	nazwisko	
 Czajkowski	Czajkowski	subst:sg:voc:m1	nazwisko	
+Czajkowskie	Czajkowski	depr:pl:acc:m2	nazwisko	
 Czajkowskie	Czajkowski	depr:pl:nom:m2	nazwisko	
 Czajkowskie	Czajkowski	depr:pl:voc:m2	nazwisko	
 Czajkowskiego	Czajkowski	subst:sg:acc:m1	nazwisko	
@@ -6642,6 +6852,7 @@ Czapkach	Czapek	subst:pl:loc:m1	nazwisko
 Czapka	Czapek	subst:sg:acc:m1	nazwisko	
 Czapka	Czapek	subst:sg:gen:m1	nazwisko	
 Czapkami	Czapek	subst:pl:inst:m1	nazwisko	
+Czapki	Czapek	depr:pl:acc:m2	nazwisko	
 Czapki	Czapek	depr:pl:nom:m2	nazwisko	
 Czapki	Czapek	depr:pl:voc:m2	nazwisko	
 Czapkiem	Czapek	subst:sg:inst:m1	nazwisko	
@@ -6674,6 +6885,7 @@ Czaplińskich	Czapliński	subst:pl:gen:m1	nazwisko
 Czaplińskich	Czapliński	subst:pl:loc:m1	nazwisko	
 Czapliński	Czapliński	subst:sg:nom:m1	nazwisko	
 Czapliński	Czapliński	subst:sg:voc:m1	nazwisko	
+Czaplińskie	Czapliński	depr:pl:acc:m2	nazwisko	
 Czaplińskie	Czapliński	depr:pl:nom:m2	nazwisko	
 Czaplińskie	Czapliński	depr:pl:voc:m2	nazwisko	
 Czaplińskiego	Czapliński	subst:sg:acc:m1	nazwisko	
@@ -6704,6 +6916,7 @@ Czapskich	Czapski	subst:pl:gen:m1	nazwisko
 Czapskich	Czapski	subst:pl:loc:m1	nazwisko	
 Czapski	Czapski	subst:sg:nom:m1	nazwisko	
 Czapski	Czapski	subst:sg:voc:m1	nazwisko	
+Czapskie	Czapski	depr:pl:acc:m2	nazwisko	
 Czapskie	Czapski	depr:pl:nom:m2	nazwisko	
 Czapskie	Czapski	depr:pl:voc:m2	nazwisko	
 Czapskiego	Czapski	subst:sg:acc:m1	nazwisko	
@@ -6718,6 +6931,7 @@ Czarkach	Czarek	subst:pl:loc:m1	imię
 Czarka	Czarek	subst:sg:acc:m1	imię	
 Czarka	Czarek	subst:sg:gen:m1	imię	
 Czarkami	Czarek	subst:pl:inst:m1	imię	
+Czarki	Czarek	depr:pl:acc:m2	imię	
 Czarki	Czarek	depr:pl:nom:m2	imię	
 Czarki	Czarek	depr:pl:voc:m2	imię	
 Czarkiem	Czarek	subst:sg:inst:m1	imię	
@@ -6750,6 +6964,7 @@ Czarkowskich	Czarkowski	subst:pl:gen:m1	nazwisko
 Czarkowskich	Czarkowski	subst:pl:loc:m1	nazwisko	
 Czarkowski	Czarkowski	subst:sg:nom:m1	nazwisko	
 Czarkowski	Czarkowski	subst:sg:voc:m1	nazwisko	
+Czarkowskie	Czarkowski	depr:pl:acc:m2	nazwisko	
 Czarkowskie	Czarkowski	depr:pl:nom:m2	nazwisko	
 Czarkowskie	Czarkowski	depr:pl:voc:m2	nazwisko	
 Czarkowskiego	Czarkowski	subst:sg:acc:m1	nazwisko	
@@ -6794,6 +7009,7 @@ Czarneckich	Czarnecki	subst:pl:gen:m1	nazwisko
 Czarneckich	Czarnecki	subst:pl:loc:m1	nazwisko	
 Czarnecki	Czarnecki	subst:sg:nom:m1	nazwisko	
 Czarnecki	Czarnecki	subst:sg:voc:m1	nazwisko	
+Czarneckie	Czarnecki	depr:pl:acc:m2	nazwisko	
 Czarneckie	Czarnecki	depr:pl:nom:m2	nazwisko	
 Czarneckie	Czarnecki	depr:pl:voc:m2	nazwisko	
 Czarneckiego	Czarnecki	subst:sg:acc:m1	nazwisko	
@@ -6824,6 +7040,7 @@ Czarnieckich	Czarniecki	subst:pl:gen:m1	nazwisko
 Czarnieckich	Czarniecki	subst:pl:loc:m1	nazwisko	
 Czarniecki	Czarniecki	subst:sg:nom:m1	nazwisko	
 Czarniecki	Czarniecki	subst:sg:voc:m1	nazwisko	
+Czarnieckie	Czarniecki	depr:pl:acc:m2	nazwisko	
 Czarnieckie	Czarniecki	depr:pl:nom:m2	nazwisko	
 Czarnieckie	Czarniecki	depr:pl:voc:m2	nazwisko	
 Czarnieckiego	Czarniecki	subst:sg:acc:m1	nazwisko	
@@ -6895,6 +7112,7 @@ Czarnogórcach	Czarnogórzec	subst:pl:loc:m1	nazwa pospolita
 Czarnogórca	Czarnogórzec	subst:sg:acc:m1	nazwa pospolita	
 Czarnogórca	Czarnogórzec	subst:sg:gen:m1	nazwa pospolita	
 Czarnogórcami	Czarnogórzec	subst:pl:inst:m1	nazwa pospolita	
+Czarnogórce	Czarnogórzec	depr:pl:acc:m2	nazwa pospolita	
 Czarnogórce	Czarnogórzec	depr:pl:nom:m2	nazwa pospolita	
 Czarnogórce	Czarnogórzec	depr:pl:voc:m2	nazwa pospolita	
 Czarnogórcem	Czarnogórzec	subst:sg:inst:m1	nazwa pospolita	
@@ -6973,6 +7191,7 @@ Czartoryskich	Czartoryski	subst:pl:gen:m1	nazwisko
 Czartoryskich	Czartoryski	subst:pl:loc:m1	nazwisko	
 Czartoryski	Czartoryski	subst:sg:nom:m1	nazwisko	
 Czartoryski	Czartoryski	subst:sg:voc:m1	nazwisko	
+Czartoryskie	Czartoryski	depr:pl:acc:m2	nazwisko	
 Czartoryskie	Czartoryski	depr:pl:nom:m2	nazwisko	
 Czartoryskie	Czartoryski	depr:pl:voc:m2	nazwisko	
 Czartoryskiego	Czartoryski	subst:sg:acc:m1	nazwisko	
@@ -6986,6 +7205,7 @@ Czarusiach	Czaruś	subst:pl:loc:m1	imię
 Czarusia	Czaruś	subst:sg:acc:m1	imię	
 Czarusia	Czaruś	subst:sg:gen:m1	imię	
 Czarusiami	Czaruś	subst:pl:inst:m1	imię	
+Czarusie	Czaruś	depr:pl:acc:m2	imię	
 Czarusie	Czaruś	depr:pl:nom:m2	imię	
 Czarusie	Czaruś	depr:pl:voc:m2	imię	
 Czarusie	Czaruś	subst:pl:nom:m1	imię	
@@ -7014,6 +7234,7 @@ Czarzastych	Czarzasta	subst:pl:gen:f	nazwisko
 Czarzastych	Czarzasta	subst:pl:loc:f	nazwisko	
 Czarzastym	Czarzasta	subst:pl:dat:f	nazwisko	
 Czarzastymi	Czarzasta	subst:pl:inst:f	nazwisko	
+Czarzaste	Czarzasty	depr:pl:acc:m2	nazwisko	
 Czarzaste	Czarzasty	depr:pl:nom:m2	nazwisko	
 Czarzaste	Czarzasty	depr:pl:voc:m2	nazwisko	
 Czarzastego	Czarzasty	subst:sg:acc:m1	nazwisko	
@@ -7057,6 +7278,7 @@ Czciborowie	Czcibor	subst:pl:nom:m1	imię
 Czciborowie	Czcibor	subst:pl:voc:m1	imię	
 Czciborów	Czcibor	subst:pl:acc:m1	imię	
 Czciborów	Czcibor	subst:pl:gen:m1	imię	
+Czcibory	Czcibor	depr:pl:acc:m2	imię	
 Czcibory	Czcibor	depr:pl:nom:m2	imię	
 Czcibory	Czcibor	depr:pl:voc:m2	imię	
 Czciborze	Czcibor	subst:sg:loc:m1	imię	
@@ -7089,6 +7311,7 @@ Czciradowie	Czcirad	subst:pl:nom:m1	imię
 Czciradowie	Czcirad	subst:pl:voc:m1	imię	
 Czciradów	Czcirad	subst:pl:acc:m1	imię	
 Czciradów	Czcirad	subst:pl:gen:m1	imię	
+Czcirady	Czcirad	depr:pl:acc:m2	imię	
 Czcirady	Czcirad	depr:pl:nom:m2	imię	
 Czcirady	Czcirad	depr:pl:voc:m2	imię	
 Czciradzi	Czcirad	subst:pl:nom:m1	imię	
@@ -7114,6 +7337,7 @@ Czechasza	Czechasz	subst:sg:acc:m1	imię
 Czechasza	Czechasz	subst:sg:gen:m1	imię	
 Czechaszami	Czechasz	subst:pl:inst:m1	imię	
 Czechasz	Czechasz	subst:sg:nom:m1	imię	
+Czechasze	Czechasz	depr:pl:acc:m2	imię	
 Czechasze	Czechasz	depr:pl:nom:m2	imię	
 Czechasze	Czechasz	depr:pl:voc:m2	imię	
 Czechasze	Czechasz	subst:pl:nom:m1	imię	
@@ -7133,6 +7357,7 @@ Czechonia	Czechoń	subst:sg:gen:m1	imię
 Czechoniami	Czechoń	subst:pl:inst:m1	imię	
 Czechoni	Czechoń	subst:pl:acc:m1	imię	
 Czechoni	Czechoń	subst:pl:gen:m1	imię	
+Czechonie	Czechoń	depr:pl:acc:m2	imię	
 Czechonie	Czechoń	depr:pl:nom:m2	imię	
 Czechonie	Czechoń	depr:pl:voc:m2	imię	
 Czechonie	Czechoń	subst:pl:nom:m1	imię	
@@ -7183,6 +7408,7 @@ Czechosłowaka	Czechosłowak	subst:sg:acc:m1	nazwa pospolita
 Czechosłowaka	Czechosłowak	subst:sg:gen:m1	nazwa pospolita	
 Czechosłowakami	Czechosłowak	subst:pl:inst:m1	nazwa pospolita	
 Czechosłowak	Czechosłowak	subst:sg:nom:m1	nazwa pospolita	
+Czechosłowaki	Czechosłowak	depr:pl:acc:m2	nazwa pospolita	
 Czechosłowaki	Czechosłowak	depr:pl:nom:m2	nazwa pospolita	
 Czechosłowaki	Czechosłowak	depr:pl:voc:m2	nazwa pospolita	
 Czechosłowakiem	Czechosłowak	subst:sg:inst:m1	nazwa pospolita	
@@ -7206,6 +7432,7 @@ Czechowowie	Czechow	subst:pl:nom:m1	nazwisko
 Czechowowie	Czechow	subst:pl:voc:m1	nazwisko	
 Czechowów	Czechow	subst:pl:acc:m1	nazwisko	
 Czechowów	Czechow	subst:pl:gen:m1	nazwisko	
+Czechowy	Czechow	depr:pl:acc:m2	nazwisko	
 Czechowy	Czechow	depr:pl:nom:m2	nazwisko	
 Czechowy	Czechow	depr:pl:voc:m2	nazwisko	
 Czechowicach	Czechowice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -7227,6 +7454,7 @@ Czechowicza	Czechowicz	subst:sg:acc:m1	nazwisko
 Czechowicza	Czechowicz	subst:sg:gen:m1	nazwisko	
 Czechowiczami	Czechowicz	subst:pl:inst:m1	nazwisko	
 Czechowicz	Czechowicz	subst:sg:nom:m1	nazwisko	
+Czechowicze	Czechowicz	depr:pl:acc:m2	nazwisko	
 Czechowicze	Czechowicz	depr:pl:nom:m2	nazwisko	
 Czechowicze	Czechowicz	depr:pl:voc:m2	nazwisko	
 Czechowicze	Czechowicz	subst:pl:nom:m1	nazwisko	
@@ -7261,6 +7489,7 @@ Czechowskich	Czechowski	subst:pl:gen:m1	nazwisko
 Czechowskich	Czechowski	subst:pl:loc:m1	nazwisko	
 Czechowski	Czechowski	subst:sg:nom:m1	nazwisko	
 Czechowski	Czechowski	subst:sg:voc:m1	nazwisko	
+Czechowskie	Czechowski	depr:pl:acc:m2	nazwisko	
 Czechowskie	Czechowski	depr:pl:nom:m2	nazwisko	
 Czechowskie	Czechowski	depr:pl:voc:m2	nazwisko	
 Czechowskiego	Czechowski	subst:sg:acc:m1	nazwisko	
@@ -7282,6 +7511,7 @@ Czechów	Czech:s1	subst:pl:acc:m1	nazwa pospolita
 Czechów	Czech:s1	subst:pl:gen:m1	nazwa pospolita	
 Czechu	Czech:s1	subst:sg:loc:m1	nazwa pospolita	
 Czechu	Czech:s1	subst:sg:voc:m1	nazwa pospolita	
+Czechy	Czech:s1	depr:pl:acc:m2	nazwa pospolita	
 Czechy	Czech:s1	depr:pl:nom:m2	nazwa pospolita	
 Czechy	Czech:s1	depr:pl:voc:m2	nazwa pospolita	
 Czesi	Czech:s1	subst:pl:nom:m1	nazwa pospolita	
@@ -7300,6 +7530,7 @@ Czechów	Czech:s2	subst:pl:acc:m1	nazwisko
 Czechów	Czech:s2	subst:pl:gen:m1	nazwisko	
 Czechu	Czech:s2	subst:sg:loc:m1	nazwisko	
 Czechu	Czech:s2	subst:sg:voc:m1	nazwisko	
+Czechy	Czech:s2	depr:pl:acc:m2	nazwisko	
 Czechy	Czech:s2	depr:pl:nom:m2	nazwisko	
 Czechy	Czech:s2	depr:pl:voc:m2	nazwisko	
 Czechach	Czechy	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -7330,6 +7561,7 @@ Czeczenom	Czeczen	subst:pl:dat:m1	nazwa pospolita
 Czeczenowi	Czeczen	subst:sg:dat:m1	nazwa pospolita	
 Czeczenów	Czeczen	subst:pl:acc:m1	nazwa pospolita	
 Czeczenów	Czeczen	subst:pl:gen:m1	nazwa pospolita	
+Czeczeny	Czeczen	depr:pl:acc:m2	nazwa pospolita	
 Czeczeny	Czeczen	depr:pl:nom:m2	nazwa pospolita	
 Czeczeny	Czeczen	depr:pl:voc:m2	nazwa pospolita	
 Czeczeniach	Czeczenia	subst:pl:loc:f	nazwa geograficzna	
@@ -7352,6 +7584,7 @@ Czeczeńcach	Czeczeniec	subst:pl:loc:m1	nazwa pospolita
 Czeczeńca	Czeczeniec	subst:sg:acc:m1	nazwa pospolita	
 Czeczeńca	Czeczeniec	subst:sg:gen:m1	nazwa pospolita	
 Czeczeńcami	Czeczeniec	subst:pl:inst:m1	nazwa pospolita	
+Czeczeńce	Czeczeniec	depr:pl:acc:m2	nazwa pospolita	
 Czeczeńce	Czeczeniec	depr:pl:nom:m2	nazwa pospolita	
 Czeczeńce	Czeczeniec	depr:pl:voc:m2	nazwa pospolita	
 Czeczeńcem	Czeczeniec	subst:sg:inst:m1	nazwa pospolita	
@@ -7390,6 +7623,7 @@ Czeczłowie	Czeczło	subst:pl:nom:m1	nazwisko
 Czeczłowie	Czeczło	subst:pl:voc:m1	nazwisko	
 Czeczłów	Czeczło	subst:pl:acc:m1	nazwisko	
 Czeczłów	Czeczło	subst:pl:gen:m1	nazwisko	
+Czeczły	Czeczło	depr:pl:acc:m2	nazwisko	
 Czeczły	Czeczło	depr:pl:nom:m2	nazwisko	
 Czeczły	Czeczło	depr:pl:voc:m2	nazwisko	
 Czeczły	Czeczło	subst:sg:gen:m1	nazwisko	
@@ -7407,6 +7641,7 @@ Czeczottowie	Czeczott	subst:pl:nom:m1	nazwisko
 Czeczottowie	Czeczott	subst:pl:voc:m1	nazwisko	
 Czeczottów	Czeczott	subst:pl:acc:m1	nazwisko	
 Czeczottów	Czeczott	subst:pl:gen:m1	nazwisko	
+Czeczotty	Czeczott	depr:pl:acc:m2	nazwisko	
 Czeczotty	Czeczott	depr:pl:nom:m2	nazwisko	
 Czeczotty	Czeczott	depr:pl:voc:m2	nazwisko	
 Czemiernikach	Czemierniki	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -7459,6 +7694,7 @@ Czerepowickich	Czerepowicki	subst:pl:gen:m1	nazwisko
 Czerepowickich	Czerepowicki	subst:pl:loc:m1	nazwisko	
 Czerepowicki	Czerepowicki	subst:sg:nom:m1	nazwisko	
 Czerepowicki	Czerepowicki	subst:sg:voc:m1	nazwisko	
+Czerepowickie	Czerepowicki	depr:pl:acc:m2	nazwisko	
 Czerepowickie	Czerepowicki	depr:pl:nom:m2	nazwisko	
 Czerepowickie	Czerepowicki	depr:pl:voc:m2	nazwisko	
 Czerepowickiego	Czerepowicki	subst:sg:acc:m1	nazwisko	
@@ -7482,6 +7718,7 @@ Czerkiesom	Czerkies	subst:pl:dat:m1	nazwa pospolita
 Czerkiesowi	Czerkies	subst:sg:dat:m1	nazwa pospolita	
 Czerkiesów	Czerkies	subst:pl:acc:m1	nazwa pospolita	
 Czerkiesów	Czerkies	subst:pl:gen:m1	nazwa pospolita	
+Czerkiesy	Czerkies	depr:pl:acc:m2	nazwa pospolita	
 Czerkiesy	Czerkies	depr:pl:nom:m2	nazwa pospolita	
 Czerkiesy	Czerkies	depr:pl:voc:m2	nazwa pospolita	
 Czerkiesce	Czerkieska	subst:sg:dat:f	nazwa pospolita	
@@ -7525,6 +7762,7 @@ Czerniakowowie	Czerniaków:s1	subst:pl:nom:m1	nazwisko
 Czerniakowowie	Czerniaków:s1	subst:pl:voc:m1	nazwisko	
 Czerniakowów	Czerniaków:s1	subst:pl:acc:m1	nazwisko	
 Czerniakowów	Czerniaków:s1	subst:pl:gen:m1	nazwisko	
+Czerniakowy	Czerniaków:s1	depr:pl:acc:m2	nazwisko	
 Czerniakowy	Czerniaków:s1	depr:pl:nom:m2	nazwisko	
 Czerniakowy	Czerniaków:s1	depr:pl:voc:m2	nazwisko	
 Czerniaków	Czerniaków:s1	subst:sg:nom:m1	nazwisko	
@@ -7564,6 +7802,7 @@ Czerniawskich	Czerniawski	subst:pl:gen:m1	nazwisko
 Czerniawskich	Czerniawski	subst:pl:loc:m1	nazwisko	
 Czerniawski	Czerniawski	subst:sg:nom:m1	nazwisko	
 Czerniawski	Czerniawski	subst:sg:voc:m1	nazwisko	
+Czerniawskie	Czerniawski	depr:pl:acc:m2	nazwisko	
 Czerniawskie	Czerniawski	depr:pl:nom:m2	nazwisko	
 Czerniawskie	Czerniawski	depr:pl:voc:m2	nazwisko	
 Czerniawskiego	Czerniawski	subst:sg:acc:m1	nazwisko	
@@ -7673,8 +7912,10 @@ Czernomyrdinowie	Czernomyrdin	subst:pl:nom:m1	nazwisko
 Czernomyrdinowie	Czernomyrdin	subst:pl:voc:m1	nazwisko	
 Czernomyrdinów	Czernomyrdin	subst:pl:acc:m1	nazwisko	
 Czernomyrdinów	Czernomyrdin	subst:pl:gen:m1	nazwisko	
+Czernomyrdiny	Czernomyrdin	depr:pl:acc:m2	nazwisko	
 Czernomyrdiny	Czernomyrdin	depr:pl:nom:m2	nazwisko	
 Czernomyrdiny	Czernomyrdin	depr:pl:voc:m2	nazwisko	
+Czerne	Czerny	depr:pl:acc:m2	nazwisko	
 Czerne	Czerny	depr:pl:nom:m2	nazwisko	
 Czerne	Czerny	depr:pl:voc:m2	nazwisko	
 Czernego	Czerny	subst:sg:acc:m1	nazwisko	
@@ -7712,6 +7953,7 @@ Czerskich	Czerski	subst:pl:gen:m1	nazwisko
 Czerskich	Czerski	subst:pl:loc:m1	nazwisko	
 Czerski	Czerski	subst:sg:nom:m1	nazwisko	
 Czerski	Czerski	subst:sg:voc:m1	nazwisko	
+Czerskie	Czerski	depr:pl:acc:m2	nazwisko	
 Czerskie	Czerski	depr:pl:nom:m2	nazwisko	
 Czerskie	Czerski	depr:pl:voc:m2	nazwisko	
 Czerskiego	Czerski	subst:sg:acc:m1	nazwisko	
@@ -7742,6 +7984,7 @@ Czerwińskich	Czerwiński	subst:pl:gen:m1	nazwisko
 Czerwińskich	Czerwiński	subst:pl:loc:m1	nazwisko	
 Czerwiński	Czerwiński	subst:sg:nom:m1	nazwisko	
 Czerwiński	Czerwiński	subst:sg:voc:m1	nazwisko	
+Czerwińskie	Czerwiński	depr:pl:acc:m2	nazwisko	
 Czerwińskie	Czerwiński	depr:pl:nom:m2	nazwisko	
 Czerwińskie	Czerwiński	depr:pl:voc:m2	nazwisko	
 Czerwińskiego	Czerwiński	subst:sg:acc:m1	nazwisko	
@@ -7785,6 +8028,7 @@ Cześkach	Czesiek	subst:pl:loc:m1	imię
 Cześka	Czesiek	subst:sg:acc:m1	imię	
 Cześka	Czesiek	subst:sg:gen:m1	imię	
 Cześkami	Czesiek	subst:pl:inst:m1	imię	
+Cześki	Czesiek	depr:pl:acc:m2	imię	
 Cześki	Czesiek	depr:pl:nom:m2	imię	
 Cześki	Czesiek	depr:pl:voc:m2	imię	
 Cześkiem	Czesiek	subst:sg:inst:m1	imię	
@@ -7800,6 +8044,7 @@ Czesiach	Czesio	subst:pl:loc:m1	imię
 Czesia	Czesio	subst:sg:acc:m1	imię	
 Czesia	Czesio	subst:sg:gen:m1	imię	
 Czesiami	Czesio	subst:pl:inst:m1	imię	
+Czesie	Czesio	depr:pl:acc:m2	imię	
 Czesie	Czesio	depr:pl:nom:m2	imię	
 Czesie	Czesio	depr:pl:voc:m2	imię	
 Czesiem	Czesio	subst:sg:inst:m1	imię	
@@ -7826,6 +8071,7 @@ Czesławowie	Czesław	subst:pl:nom:m1	imię
 Czesławowie	Czesław	subst:pl:voc:m1	imię	
 Czesławów	Czesław	subst:pl:acc:m1	imię	
 Czesławów	Czesław	subst:pl:gen:m1	imię	
+Czesławy	Czesław	depr:pl:acc:m2	imię	
 Czesławy	Czesław	depr:pl:nom:m2	imię	
 Czesławy	Czesław	depr:pl:voc:m2	imię	
 Czesławach	Czesława	subst:pl:loc:f	imię	
@@ -7860,6 +8106,7 @@ Czesiach	Cześ	subst:pl:loc:m1	imię
 Czesia	Cześ	subst:sg:acc:m1	imię	
 Czesia	Cześ	subst:sg:gen:m1	imię	
 Czesiami	Cześ	subst:pl:inst:m1	imię	
+Czesie	Cześ	depr:pl:acc:m2	imię	
 Czesie	Cześ	depr:pl:nom:m2	imię	
 Czesie	Cześ	depr:pl:voc:m2	imię	
 Czesie	Cześ	subst:pl:nom:m1	imię	
@@ -7886,6 +8133,7 @@ Częstoborowie	Częstobor	subst:pl:nom:m1	imię
 Częstoborowie	Częstobor	subst:pl:voc:m1	imię	
 Częstoborów	Częstobor	subst:pl:acc:m1	imię	
 Częstoborów	Częstobor	subst:pl:gen:m1	imię	
+Częstobory	Częstobor	depr:pl:acc:m2	imię	
 Częstobory	Częstobor	depr:pl:nom:m2	imię	
 Częstobory	Częstobor	depr:pl:voc:m2	imię	
 Częstoborze	Częstobor	subst:sg:loc:m1	imię	
@@ -7935,6 +8183,7 @@ Częstogniewowie	Częstogniew	subst:pl:nom:m1	imię
 Częstogniewowie	Częstogniew	subst:pl:voc:m1	imię	
 Częstogniewów	Częstogniew	subst:pl:acc:m1	imię	
 Częstogniewów	Częstogniew	subst:pl:gen:m1	imię	
+Częstogniewy	Częstogniew	depr:pl:acc:m2	imię	
 Częstogniewy	Częstogniew	depr:pl:nom:m2	imię	
 Częstogniewy	Częstogniew	depr:pl:voc:m2	imię	
 Częstomirach	Częstomir	subst:pl:loc:m1	imię	
@@ -7949,6 +8198,7 @@ Częstomirowie	Częstomir	subst:pl:nom:m1	imię
 Częstomirowie	Częstomir	subst:pl:voc:m1	imię	
 Częstomirów	Częstomir	subst:pl:acc:m1	imię	
 Częstomirów	Częstomir	subst:pl:gen:m1	imię	
+Częstomiry	Częstomir	depr:pl:acc:m2	imię	
 Częstomiry	Częstomir	depr:pl:nom:m2	imię	
 Częstomiry	Częstomir	depr:pl:voc:m2	imię	
 Częstomirze	Częstomir	subst:sg:loc:m1	imię	
@@ -7960,6 +8210,7 @@ Częstowoja	Częstowoj	subst:sg:acc:m1	imię
 Częstowoja	Częstowoj	subst:sg:gen:m1	imię	
 Częstowojami	Częstowoj	subst:pl:inst:m1	imię	
 Częstowoj	Częstowoj	subst:sg:nom:m1	imię	
+Częstowoje	Częstowoj	depr:pl:acc:m2	imię	
 Częstowoje	Częstowoj	depr:pl:nom:m2	imię	
 Częstowoje	Częstowoj	depr:pl:voc:m2	imię	
 Częstowoje	Częstowoj	subst:pl:nom:m1	imię	
@@ -8049,6 +8300,7 @@ Czukczach	Czukcza	subst:pl:loc:m1	nazwa pospolita	etn.
 Czukcza	Czukcza	subst:sg:nom:m1	nazwa pospolita	etn.
 Czukczami	Czukcza	subst:pl:inst:m1	nazwa pospolita	etn.
 Czukczą	Czukcza	subst:sg:inst:m1	nazwa pospolita	etn.
+Czukcze	Czukcza	depr:pl:acc:m2	nazwa pospolita	etn.
 Czukcze	Czukcza	depr:pl:nom:m2	nazwa pospolita	etn.
 Czukcze	Czukcza	depr:pl:voc:m2	nazwa pospolita	etn.
 Czukcze	Czukcza	subst:pl:nom:m1	nazwa pospolita	etn.
@@ -8096,6 +8348,7 @@ Czuwasza	Czuwasz	subst:sg:acc:m1	nazwa pospolita	etn.
 Czuwasza	Czuwasz	subst:sg:gen:m1	nazwa pospolita	etn.
 Czuwaszami	Czuwasz	subst:pl:inst:m1	nazwa pospolita	etn.
 Czuwasz	Czuwasz	subst:sg:nom:m1	nazwa pospolita	etn.
+Czuwasze	Czuwasz	depr:pl:acc:m2	nazwa pospolita	etn.
 Czuwasze	Czuwasz	depr:pl:nom:m2	nazwa pospolita	etn.
 Czuwasze	Czuwasz	depr:pl:voc:m2	nazwa pospolita	etn.
 Czuwasze	Czuwasz	subst:pl:nom:m1	nazwa pospolita	etn.
@@ -8138,6 +8391,7 @@ Czyngis-chanowie	Czyngis-chan	subst:pl:nom:m1	tytuł
 Czyngis-chanowie	Czyngis-chan	subst:pl:voc:m1	tytuł	
 Czyngis-chanów	Czyngis-chan	subst:pl:acc:m1	tytuł	
 Czyngis-chanów	Czyngis-chan	subst:pl:gen:m1	tytuł	
+Czyngis-chany	Czyngis-chan	depr:pl:acc:m2	tytuł	
 Czyngis-chany	Czyngis-chan	depr:pl:nom:m2	tytuł	
 Czyngis-chany	Czyngis-chan	depr:pl:voc:m2	tytuł	
 Czyżach	Czyż	subst:pl:loc:m1	nazwisko	
@@ -8145,6 +8399,7 @@ Czyża	Czyż	subst:sg:acc:m1	nazwisko
 Czyża	Czyż	subst:sg:gen:m1	nazwisko	
 Czyżami	Czyż	subst:pl:inst:m1	nazwisko	
 Czyż	Czyż	subst:sg:nom:m1	nazwisko	
+Czyże	Czyż	depr:pl:acc:m2	nazwisko	
 Czyże	Czyż	depr:pl:nom:m2	nazwisko	
 Czyże	Czyż	depr:pl:voc:m2	nazwisko	
 Czyżem	Czyż	subst:sg:inst:m1	nazwisko	
@@ -8177,6 +8432,7 @@ Czyżewskich	Czyżewski	subst:pl:gen:m1	nazwisko
 Czyżewskich	Czyżewski	subst:pl:loc:m1	nazwisko	
 Czyżewski	Czyżewski	subst:sg:nom:m1	nazwisko	
 Czyżewski	Czyżewski	subst:sg:voc:m1	nazwisko	
+Czyżewskie	Czyżewski	depr:pl:acc:m2	nazwisko	
 Czyżewskie	Czyżewski	depr:pl:nom:m2	nazwisko	
 Czyżewskie	Czyżewski	depr:pl:voc:m2	nazwisko	
 Czyżewskiego	Czyżewski	subst:sg:acc:m1	nazwisko	

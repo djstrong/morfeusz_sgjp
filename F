@@ -10,6 +10,7 @@ Faberowie	Faber	subst:pl:voc:m1	nazwisko
 Faberowi	Faber	subst:sg:dat:m1	nazwisko	
 Faberów	Faber	subst:pl:acc:m1	nazwisko	
 Faberów	Faber	subst:pl:gen:m1	nazwisko	
+Fabery	Faber	depr:pl:acc:m2	nazwisko	
 Fabery	Faber	depr:pl:nom:m2	nazwisko	
 Fabery	Faber	depr:pl:voc:m2	nazwisko	
 Faberze	Faber	subst:sg:loc:m1	nazwisko	
@@ -45,6 +46,7 @@ Fabianowie	Fabian	subst:pl:voc:m1	imię
 Fabianowi	Fabian	subst:sg:dat:m1	imię	
 Fabianów	Fabian	subst:pl:acc:m1	imię	
 Fabianów	Fabian	subst:pl:gen:m1	imię	
+Fabiany	Fabian	depr:pl:acc:m2	imię	
 Fabiany	Fabian	depr:pl:nom:m2	imię	
 Fabiany	Fabian	depr:pl:voc:m2	imię	
 Fabiolach	Fabiola	subst:pl:loc:f	imię	
@@ -80,6 +82,7 @@ Fabiszewscy	Fabiszewski	subst:pl:voc:m1	nazwisko
 Fabiszewskich	Fabiszewski	subst:pl:acc:m1	nazwisko	
 Fabiszewskich	Fabiszewski	subst:pl:gen:m1	nazwisko	
 Fabiszewskich	Fabiszewski	subst:pl:loc:m1	nazwisko	
+Fabiszewskie	Fabiszewski	depr:pl:acc:m2	nazwisko	
 Fabiszewskie	Fabiszewski	depr:pl:nom:m2	nazwisko	
 Fabiszewskie	Fabiszewski	depr:pl:voc:m2	nazwisko	
 Fabiszewskiego	Fabiszewski	subst:sg:acc:m1	nazwisko	
@@ -95,6 +98,7 @@ Fabiuszach	Fabiusz	subst:pl:loc:m1	imię
 Fabiusza	Fabiusz	subst:sg:acc:m1	imię	
 Fabiusza	Fabiusz	subst:sg:gen:m1	imię	
 Fabiuszami	Fabiusz	subst:pl:inst:m1	imię	
+Fabiusze	Fabiusz	depr:pl:acc:m2	imię	
 Fabiusze	Fabiusz	depr:pl:nom:m2	imię	
 Fabiusze	Fabiusz	depr:pl:voc:m2	imię	
 Fabiusze	Fabiusz	subst:pl:nom:m1	imię	
@@ -125,12 +129,14 @@ Fabrycjanowie	Fabrycjan	subst:pl:voc:m1	imię
 Fabrycjanowi	Fabrycjan	subst:sg:dat:m1	imię	
 Fabrycjanów	Fabrycjan	subst:pl:acc:m1	imię	
 Fabrycjanów	Fabrycjan	subst:pl:gen:m1	imię	
+Fabrycjany	Fabrycjan	depr:pl:acc:m2	imię	
 Fabrycjany	Fabrycjan	depr:pl:nom:m2	imię	
 Fabrycjany	Fabrycjan	depr:pl:voc:m2	imię	
 Fabrycjuszach	Fabrycjusz	subst:pl:loc:m1	imię	
 Fabrycjusza	Fabrycjusz	subst:sg:acc:m1	imię	
 Fabrycjusza	Fabrycjusz	subst:sg:gen:m1	imię	
 Fabrycjuszami	Fabrycjusz	subst:pl:inst:m1	imię	
+Fabrycjusze	Fabrycjusz	depr:pl:acc:m2	imię	
 Fabrycjusze	Fabrycjusz	depr:pl:nom:m2	imię	
 Fabrycjusze	Fabrycjusz	depr:pl:voc:m2	imię	
 Fabrycjusze	Fabrycjusz	subst:pl:nom:m1	imię	
@@ -145,6 +151,7 @@ Fabrycjuszów	Fabrycjusz	subst:pl:acc:m1	imię
 Fabrycjuszów	Fabrycjusz	subst:pl:gen:m1	imię	
 Fabrycjuszu	Fabrycjusz	subst:sg:loc:m1	imię	
 Fabrycjuszu	Fabrycjusz	subst:sg:voc:m1	imię	
+Fabryce	Fabrycy	depr:pl:acc:m2	imię	
 Fabryce	Fabrycy	depr:pl:nom:m2	imię	
 Fabryce	Fabrycy	depr:pl:voc:m2	imię	
 Fabrycego	Fabrycy	subst:sg:acc:m1	imię	
@@ -191,6 +198,7 @@ Faetonowie	Faeton	subst:pl:voc:m1	imię	mit.
 Faetonowi	Faeton	subst:sg:dat:m1	imię	mit.
 Faetonów	Faeton	subst:pl:acc:m1	imię	mit.
 Faetonów	Faeton	subst:pl:gen:m1	imię	mit.
+Faetony	Faeton	depr:pl:acc:m2	imię	mit.
 Faetony	Faeton	depr:pl:nom:m2	imię	mit.
 Faetony	Faeton	depr:pl:voc:m2	imię	mit.
 Fahrenheicie	Fahrenheit	subst:sg:loc:m1	nazwisko	
@@ -207,6 +215,7 @@ Fahrenheitowie	Fahrenheit	subst:pl:voc:m1	nazwisko
 Fahrenheitowi	Fahrenheit	subst:sg:dat:m1	nazwisko	
 Fahrenheitów	Fahrenheit	subst:pl:acc:m1	nazwisko	
 Fahrenheitów	Fahrenheit	subst:pl:gen:m1	nazwisko	
+Fahrenheity	Fahrenheit	depr:pl:acc:m2	nazwisko	
 Fahrenheity	Fahrenheit	depr:pl:nom:m2	nazwisko	
 Fahrenheity	Fahrenheit	depr:pl:voc:m2	nazwisko	
 Fajsławicach	Fajsławice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -226,6 +235,7 @@ Fajsławicom	Fajsławice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Falaccich	Falacci	subst:pl:acc:m1	nazwisko	
 Falaccich	Falacci	subst:pl:gen:m1	nazwisko	
 Falaccich	Falacci	subst:pl:loc:m1	nazwisko	
+Falaccie	Falacci	depr:pl:acc:m2	nazwisko	
 Falaccie	Falacci	depr:pl:nom:m2	nazwisko	
 Falaccie	Falacci	depr:pl:voc:m2	nazwisko	
 Falacciego	Falacci	subst:sg:acc:m1	nazwisko	
@@ -245,6 +255,7 @@ Falandyszach	Falandysz	subst:pl:loc:m1	nazwisko
 Falandysza	Falandysz	subst:sg:acc:m1	nazwisko	
 Falandysza	Falandysz	subst:sg:gen:m1	nazwisko	
 Falandyszami	Falandysz	subst:pl:inst:m1	nazwisko	
+Falandysze	Falandysz	depr:pl:acc:m2	nazwisko	
 Falandysze	Falandysz	depr:pl:nom:m2	nazwisko	
 Falandysze	Falandysz	depr:pl:voc:m2	nazwisko	
 Falandyszem	Falandysz	subst:sg:inst:m1	nazwisko	
@@ -291,6 +302,7 @@ Falka	Falk	subst:sg:gen:m1	imię
 Falkami	Falk	subst:pl:inst:m1	imię	
 Falk	Falk	subst:sg:nom:m1	imię	
 Falkiem	Falk	subst:sg:inst:m1	imię	
+Falki	Falk	depr:pl:acc:m2	imię	
 Falki	Falk	depr:pl:nom:m2	imię	
 Falki	Falk	depr:pl:voc:m2	imię	
 Falkom	Falk	subst:pl:dat:m1	imię	
@@ -334,6 +346,7 @@ Falkowscy	Falkowski	subst:pl:voc:m1	nazwisko
 Falkowskich	Falkowski	subst:pl:acc:m1	nazwisko	
 Falkowskich	Falkowski	subst:pl:gen:m1	nazwisko	
 Falkowskich	Falkowski	subst:pl:loc:m1	nazwisko	
+Falkowskie	Falkowski	depr:pl:acc:m2	nazwisko	
 Falkowskie	Falkowski	depr:pl:nom:m2	nazwisko	
 Falkowskie	Falkowski	depr:pl:voc:m2	nazwisko	
 Falkowskiego	Falkowski	subst:sg:acc:m1	nazwisko	
@@ -359,6 +372,7 @@ Fałatowie	Fałat	subst:pl:voc:m1	nazwisko
 Fałatowi	Fałat	subst:sg:dat:m1	nazwisko	
 Fałatów	Fałat	subst:pl:acc:m1	nazwisko	
 Fałatów	Fałat	subst:pl:gen:m1	nazwisko	
+Fałaty	Fałat	depr:pl:acc:m2	nazwisko	
 Fałaty	Fałat	depr:pl:nom:m2	nazwisko	
 Fałaty	Fałat	depr:pl:voc:m2	nazwisko	
 Fałkowach	Fałków	subst:pl:loc:m3	nazwa geograficzna	
@@ -422,6 +436,7 @@ Faradayach	Faraday	subst:pl:loc:m1	nazwisko
 Faradaya	Faraday	subst:sg:acc:m1	nazwisko	
 Faradaya	Faraday	subst:sg:gen:m1	nazwisko	
 Faradayami	Faraday	subst:pl:inst:m1	nazwisko	
+Faradaye	Faraday	depr:pl:acc:m2	nazwisko	
 Faradaye	Faraday	depr:pl:nom:m2	nazwisko	
 Faradaye	Faraday	depr:pl:voc:m2	nazwisko	
 Faradaye	Faraday	subst:pl:nom:m1	nazwisko	
@@ -528,6 +543,7 @@ Fatyga	Fatyga	subst:sg:nom:m1	nazwisko
 Fatygami	Fatyga	subst:pl:inst:m1	nazwisko	
 Fatygą	Fatyga	subst:sg:inst:m1	nazwisko	
 Fatygę	Fatyga	subst:sg:acc:m1	nazwisko	
+Fatygi	Fatyga	depr:pl:acc:m2	nazwisko	
 Fatygi	Fatyga	depr:pl:nom:m2	nazwisko	
 Fatygi	Fatyga	depr:pl:voc:m2	nazwisko	
 Fatygi	Fatyga	subst:sg:gen:m1	nazwisko	
@@ -549,12 +565,14 @@ Faulknerowie	Faulkner	subst:pl:voc:m1	nazwisko
 Faulknerowi	Faulkner	subst:sg:dat:m1	nazwisko	
 Faulknerów	Faulkner	subst:pl:acc:m1	nazwisko	
 Faulknerów	Faulkner	subst:pl:gen:m1	nazwisko	
+Faulknery	Faulkner	depr:pl:acc:m2	nazwisko	
 Faulknery	Faulkner	depr:pl:nom:m2	nazwisko	
 Faulknery	Faulkner	depr:pl:voc:m2	nazwisko	
 Faulknerze	Faulkner	subst:sg:loc:m1	nazwisko	
 Faulknerze	Faulkner	subst:sg:voc:m1	nazwisko	
 Faurach	Faure:s1	subst:pl:loc:m1	nazwisko	
 Faurami	Faure:s1	subst:pl:inst:m1	nazwisko	
+Faure	Faure:s1	depr:pl:acc:m2	nazwisko	
 Faure	Faure:s1	depr:pl:nom:m2	nazwisko	
 Faure	Faure:s1	depr:pl:voc:m2	nazwisko	
 Faure	Faure:s1	subst:sg:nom:m1	nazwisko	
@@ -581,6 +599,7 @@ Faure’owie	Faure:s2	subst:pl:voc:m1	nazwisko
 Faure’owi	Faure:s2	subst:sg:dat:m1	nazwisko	
 Faure’ów	Faure:s2	subst:pl:acc:m1	nazwisko	
 Faure’ów	Faure:s2	subst:pl:gen:m1	nazwisko	
+Faure’y	Faure:s2	depr:pl:acc:m2	nazwisko	
 Faure’y	Faure:s2	depr:pl:nom:m2	nazwisko	
 Faure’y	Faure:s2	depr:pl:voc:m2	nazwisko	
 Faurze	Faure:s2	subst:sg:loc:m1	nazwisko	
@@ -597,6 +616,7 @@ Faustowie	Faust	subst:pl:voc:m1	imię
 Faustowi	Faust	subst:sg:dat:m1	imię	
 Faustów	Faust	subst:pl:acc:m1	imię	
 Faustów	Faust	subst:pl:gen:m1	imię	
+Fausty	Faust	depr:pl:acc:m2	imię	
 Fausty	Faust	depr:pl:nom:m2	imię	
 Fausty	Faust	depr:pl:voc:m2	imię	
 Fauście	Faust	subst:sg:loc:m1	imię	
@@ -631,6 +651,7 @@ Faustynowie	Faustyn	subst:pl:voc:m1	imię
 Faustynowi	Faustyn	subst:sg:dat:m1	imię	
 Faustynów	Faustyn	subst:pl:acc:m1	imię	
 Faustynów	Faustyn	subst:pl:gen:m1	imię	
+Faustyny	Faustyn	depr:pl:acc:m2	imię	
 Faustyny	Faustyn	depr:pl:nom:m2	imię	
 Faustyny	Faustyn	depr:pl:voc:m2	imię	
 Faustynach	Faustyna	subst:pl:loc:f	imię	
@@ -661,6 +682,7 @@ Fayette’owie	Fayette	subst:pl:voc:m1	nazwisko
 Fayette’owi	Fayette	subst:sg:dat:m1	nazwisko	
 Fayette’ów	Fayette	subst:pl:acc:m1	nazwisko	
 Fayette’ów	Fayette	subst:pl:gen:m1	nazwisko	
+Fayette’y	Fayette	depr:pl:acc:m2	nazwisko	
 Fayette’y	Fayette	depr:pl:nom:m2	nazwisko	
 Fayette’y	Fayette	depr:pl:voc:m2	nazwisko	
 FBI	FBI	subst:pl:acc:n:ncol	nazwa organizacji	
@@ -791,6 +813,7 @@ Febusowie	Febus	subst:pl:voc:m1	imię	mit.
 Febusowi	Febus	subst:sg:dat:m1	imię	mit.
 Febusów	Febus	subst:pl:acc:m1	imię	mit.
 Febusów	Febus	subst:pl:gen:m1	imię	mit.
+Febusy	Febus	depr:pl:acc:m2	imię	mit.
 Febusy	Febus	depr:pl:nom:m2	imię	mit.
 Febusy	Febus	depr:pl:voc:m2	imię	mit.
 Fedorce	Fedorko	subst:sg:dat:m1	nazwisko	
@@ -799,6 +822,7 @@ Fedorkach	Fedorko	subst:pl:loc:m1	nazwisko
 Fedorkami	Fedorko	subst:pl:inst:m1	nazwisko	
 Fedorką	Fedorko	subst:sg:inst:m1	nazwisko	
 Fedorkę	Fedorko	subst:sg:acc:m1	nazwisko	
+Fedorki	Fedorko	depr:pl:acc:m2	nazwisko	
 Fedorki	Fedorko	depr:pl:nom:m2	nazwisko	
 Fedorki	Fedorko	depr:pl:voc:m2	nazwisko	
 Fedorki	Fedorko	subst:sg:gen:m1	nazwisko	
@@ -813,6 +837,7 @@ Fedorowiczach	Fedorowicz	subst:pl:loc:m1	nazwisko
 Fedorowicza	Fedorowicz	subst:sg:acc:m1	nazwisko	
 Fedorowicza	Fedorowicz	subst:sg:gen:m1	nazwisko	
 Fedorowiczami	Fedorowicz	subst:pl:inst:m1	nazwisko	
+Fedorowicze	Fedorowicz	depr:pl:acc:m2	nazwisko	
 Fedorowicze	Fedorowicz	depr:pl:nom:m2	nazwisko	
 Fedorowicze	Fedorowicz	depr:pl:voc:m2	nazwisko	
 Fedorowicze	Fedorowicz	subst:pl:nom:m1	nazwisko	
@@ -862,6 +887,7 @@ Felczaka	Felczak	subst:sg:gen:m1	nazwisko
 Felczakami	Felczak	subst:pl:inst:m1	nazwisko	
 Felczak	Felczak	subst:sg:nom:m1	nazwisko	
 Felczakiem	Felczak	subst:sg:inst:m1	nazwisko	
+Felczaki	Felczak	depr:pl:acc:m2	nazwisko	
 Felczaki	Felczak	depr:pl:nom:m2	nazwisko	
 Felczaki	Felczak	depr:pl:voc:m2	nazwisko	
 Felczakom	Felczak	subst:pl:dat:m1	nazwisko	
@@ -878,6 +904,7 @@ Felka	Felek	subst:sg:acc:m1	imię
 Felka	Felek	subst:sg:gen:m1	imię	
 Felkami	Felek	subst:pl:inst:m1	imię	
 Felkiem	Felek	subst:sg:inst:m1	imię	
+Felki	Felek	depr:pl:acc:m2	imię	
 Felki	Felek	depr:pl:nom:m2	imię	
 Felki	Felek	depr:pl:voc:m2	imię	
 Felkom	Felek	subst:pl:dat:m1	imię	
@@ -894,6 +921,7 @@ Feleszkach	Feleszko	subst:pl:loc:m1	nazwisko
 Feleszkami	Feleszko	subst:pl:inst:m1	nazwisko	
 Feleszką	Feleszko	subst:sg:inst:m1	nazwisko	
 Feleszkę	Feleszko	subst:sg:acc:m1	nazwisko	
+Feleszki	Feleszko	depr:pl:acc:m2	nazwisko	
 Feleszki	Feleszko	depr:pl:nom:m2	nazwisko	
 Feleszki	Feleszko	depr:pl:voc:m2	nazwisko	
 Feleszki	Feleszko	subst:sg:gen:m1	nazwisko	
@@ -933,6 +961,7 @@ Felicjanowie	Felicjan	subst:pl:voc:m1	imię
 Felicjanowi	Felicjan	subst:sg:dat:m1	imię	
 Felicjanów	Felicjan	subst:pl:acc:m1	imię	
 Felicjanów	Felicjan	subst:pl:gen:m1	imię	
+Felicjany	Felicjan	depr:pl:acc:m2	imię	
 Felicjany	Felicjan	depr:pl:nom:m2	imię	
 Felicjany	Felicjan	depr:pl:voc:m2	imię	
 Felicysymach	Felicysym	subst:pl:loc:m1	imię	
@@ -949,6 +978,7 @@ Felicysymowie	Felicysym	subst:pl:voc:m1	imię
 Felicysymowi	Felicysym	subst:sg:dat:m1	imię	
 Felicysymów	Felicysym	subst:pl:acc:m1	imię	
 Felicysymów	Felicysym	subst:pl:gen:m1	imię	
+Felicysymy	Felicysym	depr:pl:acc:m2	imię	
 Felicysymy	Felicysym	depr:pl:nom:m2	imię	
 Felicysymy	Felicysym	depr:pl:voc:m2	imię	
 Felicycie	Felicyta	subst:sg:dat:f	imię	
@@ -979,6 +1009,7 @@ Feliksowie	Feliks	subst:pl:voc:m1	imię
 Feliksowi	Feliks	subst:sg:dat:m1	imię	
 Feliksów	Feliks	subst:pl:acc:m1	imię	
 Feliksów	Feliks	subst:pl:gen:m1	imię	
+Feliksy	Feliks	depr:pl:acc:m2	imię	
 Feliksy	Feliks	depr:pl:nom:m2	imię	
 Feliksy	Feliks	depr:pl:voc:m2	imię	
 Feliksach	Feliksa	subst:pl:loc:f	imię	
@@ -1012,6 +1043,7 @@ Felkom	Felka	subst:pl:dat:f	imię
 Fellinich	Fellini	subst:pl:acc:m1	nazwisko	
 Fellinich	Fellini	subst:pl:gen:m1	nazwisko	
 Fellinich	Fellini	subst:pl:loc:m1	nazwisko	
+Fellinie	Fellini	depr:pl:acc:m2	nazwisko	
 Fellinie	Fellini	depr:pl:nom:m2	nazwisko	
 Fellinie	Fellini	depr:pl:voc:m2	nazwisko	
 Felliniego	Fellini	subst:sg:acc:m1	nazwisko	
@@ -1046,6 +1078,7 @@ Felusiach	Feluś	subst:pl:loc:m1	imię
 Felusia	Feluś	subst:sg:acc:m1	imię	
 Felusia	Feluś	subst:sg:gen:m1	imię	
 Felusiami	Feluś	subst:pl:inst:m1	imię	
+Felusie	Feluś	depr:pl:acc:m2	imię	
 Felusie	Feluś	depr:pl:nom:m2	imię	
 Felusie	Feluś	depr:pl:voc:m2	imię	
 Felusie	Feluś	subst:pl:nom:m1	imię	
@@ -1089,6 +1122,7 @@ Fenicjaninie	Fenicjanin	subst:sg:loc:m1	nazwa pospolita
 Fenicjaninie	Fenicjanin	subst:sg:voc:m1	nazwa pospolita	
 Fenicjaninowi	Fenicjanin	subst:sg:dat:m1	nazwa pospolita	
 Fenicjanom	Fenicjanin	subst:pl:dat:m1	nazwa pospolita	
+Fenicjany	Fenicjanin	depr:pl:acc:m2	nazwa pospolita	
 Fenicjany	Fenicjanin	depr:pl:nom:m2	nazwa pospolita	
 Fenicjany	Fenicjanin	depr:pl:voc:m2	nazwa pospolita	
 Fenicjance	Fenicjanka	subst:sg:dat:f	nazwa pospolita	
@@ -1139,6 +1173,7 @@ Ferdka	Ferdek	subst:sg:acc:m1	imię
 Ferdka	Ferdek	subst:sg:gen:m1	imię	
 Ferdkami	Ferdek	subst:pl:inst:m1	imię	
 Ferdkiem	Ferdek	subst:sg:inst:m1	imię	
+Ferdki	Ferdek	depr:pl:acc:m2	imię	
 Ferdki	Ferdek	depr:pl:nom:m2	imię	
 Ferdki	Ferdek	depr:pl:voc:m2	imię	
 Ferdkom	Ferdek	subst:pl:dat:m1	imię	
@@ -1175,6 +1210,7 @@ Ferdynandowie	Ferdynand	subst:pl:voc:m1	imię
 Ferdynandowi	Ferdynand	subst:sg:dat:m1	imię	
 Ferdynandów	Ferdynand	subst:pl:acc:m1	imię	
 Ferdynandów	Ferdynand	subst:pl:gen:m1	imię	
+Ferdynandy	Ferdynand	depr:pl:acc:m2	imię	
 Ferdynandy	Ferdynand	depr:pl:nom:m2	imię	
 Ferdynandy	Ferdynand	depr:pl:voc:m2	imię	
 Ferdynandzie	Ferdynand	subst:sg:loc:m1	imię	
@@ -1185,6 +1221,7 @@ Ferdzika	Ferdzik	subst:sg:gen:m1	imię
 Ferdzikami	Ferdzik	subst:pl:inst:m1	imię	
 Ferdzik	Ferdzik	subst:sg:nom:m1	imię	
 Ferdzikiem	Ferdzik	subst:sg:inst:m1	imię	
+Ferdziki	Ferdzik	depr:pl:acc:m2	imię	
 Ferdziki	Ferdzik	depr:pl:nom:m2	imię	
 Ferdziki	Ferdzik	depr:pl:voc:m2	imię	
 Ferdzikom	Ferdzik	subst:pl:dat:m1	imię	
@@ -1206,6 +1243,7 @@ Ferreirowie	Ferreira	subst:pl:nom:m1	nazwisko
 Ferreirowie	Ferreira	subst:pl:voc:m1	nazwisko	
 Ferreirów	Ferreira	subst:pl:acc:m1	nazwisko	
 Ferreirów	Ferreira	subst:pl:gen:m1	nazwisko	
+Ferreiry	Ferreira	depr:pl:acc:m2	nazwisko	
 Ferreiry	Ferreira	depr:pl:nom:m2	nazwisko	
 Ferreiry	Ferreira	depr:pl:voc:m2	nazwisko	
 Ferreiry	Ferreira	subst:sg:gen:m1	nazwisko	
@@ -1227,6 +1265,7 @@ Festusowie	Festus	subst:pl:voc:m1	imię
 Festusowi	Festus	subst:sg:dat:m1	imię	
 Festusów	Festus	subst:pl:acc:m1	imię	
 Festusów	Festus	subst:pl:gen:m1	imię	
+Festusy	Festus	depr:pl:acc:m2	imię	
 Festusy	Festus	depr:pl:nom:m2	imię	
 Festusy	Festus	depr:pl:voc:m2	imię	
 Feuerbachach	Feuerbach	subst:pl:loc:m1	nazwisko	
@@ -1243,6 +1282,7 @@ Feuerbachów	Feuerbach	subst:pl:acc:m1	nazwisko
 Feuerbachów	Feuerbach	subst:pl:gen:m1	nazwisko	
 Feuerbachu	Feuerbach	subst:sg:loc:m1	nazwisko	
 Feuerbachu	Feuerbach	subst:sg:voc:m1	nazwisko	
+Feuerbachy	Feuerbach	depr:pl:acc:m2	nazwisko	
 Feuerbachy	Feuerbach	depr:pl:nom:m2	nazwisko	
 Feuerbachy	Feuerbach	depr:pl:voc:m2	nazwisko	
 Fibakach	Fibak	subst:pl:loc:m1	nazwisko	
@@ -1251,6 +1291,7 @@ Fibaka	Fibak	subst:sg:gen:m1	nazwisko
 Fibakami	Fibak	subst:pl:inst:m1	nazwisko	
 Fibak	Fibak	subst:sg:nom:m1	nazwisko	
 Fibakiem	Fibak	subst:sg:inst:m1	nazwisko	
+Fibaki	Fibak	depr:pl:acc:m2	nazwisko	
 Fibaki	Fibak	depr:pl:nom:m2	nazwisko	
 Fibaki	Fibak	depr:pl:voc:m2	nazwisko	
 Fibakom	Fibak	subst:pl:dat:m1	nazwisko	
@@ -1263,6 +1304,7 @@ Fibaku	Fibak	subst:sg:loc:m1	nazwisko
 Fibaku	Fibak	subst:sg:voc:m1	nazwisko	
 Fichtach	Fichte	subst:pl:loc:m1	nazwisko	
 Fichtami	Fichte	subst:pl:inst:m1	nazwisko	
+Fichte	Fichte	depr:pl:acc:m2	nazwisko	
 Fichte	Fichte	depr:pl:nom:m2	nazwisko	
 Fichte	Fichte	depr:pl:voc:m2	nazwisko	
 Fichte	Fichte	subst:sg:nom:m1	nazwisko	
@@ -1295,6 +1337,7 @@ Fidelach	Fidel	subst:pl:loc:m1	imię
 Fidela	Fidel	subst:sg:acc:m1	imię	
 Fidela	Fidel	subst:sg:gen:m1	imię	
 Fidelami	Fidel	subst:pl:inst:m1	imię	
+Fidele	Fidel	depr:pl:acc:m2	imię	
 Fidele	Fidel	depr:pl:nom:m2	imię	
 Fidele	Fidel	depr:pl:voc:m2	imię	
 Fidele	Fidel	subst:pl:nom:m1	imię	
@@ -1325,6 +1368,7 @@ Fidelisowie	Fidelis	subst:pl:voc:m1	imię
 Fidelisowi	Fidelis	subst:sg:dat:m1	imię	
 Fidelisów	Fidelis	subst:pl:acc:m1	imię	
 Fidelisów	Fidelis	subst:pl:gen:m1	imię	
+Fidelisy	Fidelis	depr:pl:acc:m2	imię	
 Fidelisy	Fidelis	depr:pl:nom:m2	imię	
 Fidelisy	Fidelis	depr:pl:voc:m2	imię	
 Fidesach	Fides	subst:pl:loc:m1	imię	
@@ -1343,12 +1387,14 @@ Fidesowie	Fides	subst:pl:voc:m1	imię
 Fidesowi	Fides	subst:sg:dat:m1	imię	
 Fidesów	Fides	subst:pl:acc:m1	imię	
 Fidesów	Fides	subst:pl:gen:m1	imię	
+Fidesy	Fides	depr:pl:acc:m2	imię	
 Fidesy	Fides	depr:pl:nom:m2	imię	
 Fidesy	Fides	depr:pl:voc:m2	imię	
 Fidiaszach	Fidiasz	subst:pl:loc:m1	imię	
 Fidiasza	Fidiasz	subst:sg:acc:m1	imię	
 Fidiasza	Fidiasz	subst:sg:gen:m1	imię	
 Fidiaszami	Fidiasz	subst:pl:inst:m1	imię	
+Fidiasze	Fidiasz	depr:pl:acc:m2	imię	
 Fidiasze	Fidiasz	depr:pl:nom:m2	imię	
 Fidiasze	Fidiasz	depr:pl:voc:m2	imię	
 Fidiasze	Fidiasz	subst:pl:nom:m1	imię	
@@ -1375,6 +1421,7 @@ Fiedlerowie	Fiedler	subst:pl:voc:m1	nazwisko
 Fiedlerowi	Fiedler	subst:sg:dat:m1	nazwisko	
 Fiedlerów	Fiedler	subst:pl:acc:m1	nazwisko	
 Fiedlerów	Fiedler	subst:pl:gen:m1	nazwisko	
+Fiedlery	Fiedler	depr:pl:acc:m2	nazwisko	
 Fiedlery	Fiedler	depr:pl:nom:m2	nazwisko	
 Fiedlery	Fiedler	depr:pl:voc:m2	nazwisko	
 Fiedlerze	Fiedler	subst:sg:loc:m1	nazwisko	
@@ -1393,6 +1440,7 @@ Fieldorfowie	Fieldorf	subst:pl:voc:m1	nazwisko
 Fieldorfowi	Fieldorf	subst:sg:dat:m1	nazwisko	
 Fieldorfów	Fieldorf	subst:pl:acc:m1	nazwisko	
 Fieldorfów	Fieldorf	subst:pl:gen:m1	nazwisko	
+Fieldorfy	Fieldorf	depr:pl:acc:m2	nazwisko	
 Fieldorfy	Fieldorf	depr:pl:nom:m2	nazwisko	
 Fieldorfy	Fieldorf	depr:pl:voc:m2	nazwisko	
 FIF-ach	FIFA	subst:pl:loc:f	nazwa organizacji	
@@ -1442,6 +1490,7 @@ Figarscy	Figarski	subst:pl:voc:m1	nazwisko
 Figarskich	Figarski	subst:pl:acc:m1	nazwisko	
 Figarskich	Figarski	subst:pl:gen:m1	nazwisko	
 Figarskich	Figarski	subst:pl:loc:m1	nazwisko	
+Figarskie	Figarski	depr:pl:acc:m2	nazwisko	
 Figarskie	Figarski	depr:pl:nom:m2	nazwisko	
 Figarskie	Figarski	depr:pl:voc:m2	nazwisko	
 Figarskiego	Figarski	subst:sg:acc:m1	nazwisko	
@@ -1466,6 +1515,7 @@ Fignowie	Figna	subst:pl:nom:m1	nazwisko
 Fignowie	Figna	subst:pl:voc:m1	nazwisko	
 Fignów	Figna	subst:pl:acc:m1	nazwisko	
 Fignów	Figna	subst:pl:gen:m1	nazwisko	
+Figny	Figna	depr:pl:acc:m2	nazwisko	
 Figny	Figna	depr:pl:nom:m2	nazwisko	
 Figny	Figna	depr:pl:voc:m2	nazwisko	
 Figny	Figna	subst:sg:gen:m1	nazwisko	
@@ -1480,6 +1530,7 @@ Figurowie	Figura	subst:pl:nom:m1	nazwisko
 Figurowie	Figura	subst:pl:voc:m1	nazwisko	
 Figurów	Figura	subst:pl:acc:m1	nazwisko	
 Figurów	Figura	subst:pl:gen:m1	nazwisko	
+Figury	Figura	depr:pl:acc:m2	nazwisko	
 Figury	Figura	depr:pl:nom:m2	nazwisko	
 Figury	Figura	depr:pl:voc:m2	nazwisko	
 Figury	Figura	subst:sg:gen:m1	nazwisko	
@@ -1504,6 +1555,7 @@ Figurscy	Figurski	subst:pl:voc:m1	nazwisko
 Figurskich	Figurski	subst:pl:acc:m1	nazwisko	
 Figurskich	Figurski	subst:pl:gen:m1	nazwisko	
 Figurskich	Figurski	subst:pl:loc:m1	nazwisko	
+Figurskie	Figurski	depr:pl:acc:m2	nazwisko	
 Figurskie	Figurski	depr:pl:nom:m2	nazwisko	
 Figurskie	Figurski	depr:pl:voc:m2	nazwisko	
 Figurskiego	Figurski	subst:sg:acc:m1	nazwisko	
@@ -1534,6 +1586,7 @@ Fijałkowscy	Fijałkowski	subst:pl:voc:m1	nazwisko
 Fijałkowskich	Fijałkowski	subst:pl:acc:m1	nazwisko	
 Fijałkowskich	Fijałkowski	subst:pl:gen:m1	nazwisko	
 Fijałkowskich	Fijałkowski	subst:pl:loc:m1	nazwisko	
+Fijałkowskie	Fijałkowski	depr:pl:acc:m2	nazwisko	
 Fijałkowskie	Fijałkowski	depr:pl:nom:m2	nazwisko	
 Fijałkowskie	Fijałkowski	depr:pl:voc:m2	nazwisko	
 Fijałkowskiego	Fijałkowski	subst:sg:acc:m1	nazwisko	
@@ -1561,12 +1614,14 @@ Fikusowie	Fikus	subst:pl:voc:m1	imię
 Fikusowi	Fikus	subst:sg:dat:m1	imię	
 Fikusów	Fikus	subst:pl:acc:m1	imię	
 Fikusów	Fikus	subst:pl:gen:m1	imię	
+Fikusy	Fikus	depr:pl:acc:m2	imię	
 Fikusy	Fikus	depr:pl:nom:m2	imię	
 Fikusy	Fikus	depr:pl:voc:m2	imię	
 Filach	Fil	subst:pl:loc:m1	imię	
 Fila	Fil	subst:sg:acc:m1	imię	
 Fila	Fil	subst:sg:gen:m1	imię	
 Filami	Fil	subst:pl:inst:m1	imię	
+File	Fil	depr:pl:acc:m2	imię	
 File	Fil	depr:pl:nom:m2	imię	
 File	Fil	depr:pl:voc:m2	imię	
 Filem	Fil	subst:sg:inst:m1	imię	
@@ -1616,6 +1671,7 @@ Filka	Filek	subst:sg:acc:m1	imię
 Filka	Filek	subst:sg:gen:m1	imię	
 Filkami	Filek	subst:pl:inst:m1	imię	
 Filkiem	Filek	subst:sg:inst:m1	imię	
+Filki	Filek	depr:pl:acc:m2	imię	
 Filki	Filek	depr:pl:nom:m2	imię	
 Filki	Filek	depr:pl:voc:m2	imię	
 Filkom	Filek	subst:pl:dat:m1	imię	
@@ -1640,6 +1696,7 @@ Filemonowie	Filemon	subst:pl:voc:m1	imię
 Filemonowi	Filemon	subst:sg:dat:m1	imię	
 Filemonów	Filemon	subst:pl:acc:m1	imię	
 Filemonów	Filemon	subst:pl:gen:m1	imię	
+Filemony	Filemon	depr:pl:acc:m2	imię	
 Filemony	Filemon	depr:pl:nom:m2	imię	
 Filemony	Filemon	depr:pl:voc:m2	imię	
 Filipach	Filip	subst:pl:loc:m1	imię	
@@ -1656,6 +1713,7 @@ Filipowie	Filip	subst:pl:voc:m1	imię
 Filipowi	Filip	subst:sg:dat:m1	imię	
 Filipów	Filip	subst:pl:acc:m1	imię	
 Filipów	Filip	subst:pl:gen:m1	imię	
+Filipy	Filip	depr:pl:acc:m2	imię	
 Filipy	Filip	depr:pl:nom:m2	imię	
 Filipy	Filip	depr:pl:voc:m2	imię	
 Filipach	Filipa	subst:pl:loc:f	imię	
@@ -1678,6 +1736,7 @@ Filipka	Filipek	subst:sg:acc:m1	imię
 Filipka	Filipek	subst:sg:gen:m1	imię	
 Filipkami	Filipek	subst:pl:inst:m1	imię	
 Filipkiem	Filipek	subst:sg:inst:m1	imię	
+Filipki	Filipek	depr:pl:acc:m2	imię	
 Filipki	Filipek	depr:pl:nom:m2	imię	
 Filipki	Filipek	depr:pl:voc:m2	imię	
 Filipkom	Filipek	subst:pl:dat:m1	imię	
@@ -1694,6 +1753,7 @@ Filipiaka	Filipiak	subst:sg:gen:m1	nazwisko
 Filipiakami	Filipiak	subst:pl:inst:m1	nazwisko	
 Filipiak	Filipiak	subst:sg:nom:m1	nazwisko	
 Filipiakiem	Filipiak	subst:sg:inst:m1	nazwisko	
+Filipiaki	Filipiak	depr:pl:acc:m2	nazwisko	
 Filipiaki	Filipiak	depr:pl:nom:m2	nazwisko	
 Filipiaki	Filipiak	depr:pl:voc:m2	nazwisko	
 Filipiakom	Filipiak	subst:pl:dat:m1	nazwisko	
@@ -1718,6 +1778,7 @@ Filipianinie	Filipianin	subst:sg:loc:m1	nazwa pospolita
 Filipianinie	Filipianin	subst:sg:voc:m1	nazwa pospolita	
 Filipianinowi	Filipianin	subst:sg:dat:m1	nazwa pospolita	
 Filipianom	Filipianin	subst:pl:dat:m1	nazwa pospolita	
+Filipiany	Filipianin	depr:pl:acc:m2	nazwa pospolita	
 Filipiany	Filipianin	depr:pl:nom:m2	nazwa pospolita	
 Filipiany	Filipianin	depr:pl:voc:m2	nazwa pospolita	
 Filipinach	Filipina	subst:pl:loc:f	imię	
@@ -1770,6 +1831,7 @@ Filipińczyka	Filipińczyk	subst:sg:gen:m1	nazwa pospolita
 Filipińczykami	Filipińczyk	subst:pl:inst:m1	nazwa pospolita	
 Filipińczyk	Filipińczyk	subst:sg:nom:m1	nazwa pospolita	
 Filipińczykiem	Filipińczyk	subst:sg:inst:m1	nazwa pospolita	
+Filipińczyki	Filipińczyk	depr:pl:acc:m2	nazwa pospolita	
 Filipińczyki	Filipińczyk	depr:pl:nom:m2	nazwa pospolita	
 Filipińczyki	Filipińczyk	depr:pl:voc:m2	nazwa pospolita	
 Filipińczykom	Filipińczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -1782,6 +1844,7 @@ Filipowiczach	Filipowicz	subst:pl:loc:m1	nazwisko
 Filipowicza	Filipowicz	subst:sg:acc:m1	nazwisko	
 Filipowicza	Filipowicz	subst:sg:gen:m1	nazwisko	
 Filipowiczami	Filipowicz	subst:pl:inst:m1	nazwisko	
+Filipowicze	Filipowicz	depr:pl:acc:m2	nazwisko	
 Filipowicze	Filipowicz	depr:pl:nom:m2	nazwisko	
 Filipowicze	Filipowicz	depr:pl:voc:m2	nazwisko	
 Filipowicze	Filipowicz	subst:pl:nom:m1	nazwisko	
@@ -1841,6 +1904,7 @@ Filomenowie	Filomen	subst:pl:voc:m1	imię
 Filomenowi	Filomen	subst:sg:dat:m1	imię	
 Filomenów	Filomen	subst:pl:acc:m1	imię	
 Filomenów	Filomen	subst:pl:gen:m1	imię	
+Filomeny	Filomen	depr:pl:acc:m2	imię	
 Filomeny	Filomen	depr:pl:nom:m2	imię	
 Filomeny	Filomen	depr:pl:voc:m2	imię	
 Filomenach	Filomena	subst:pl:loc:f	imię	
@@ -1871,12 +1935,14 @@ Filonowie	Filon	subst:pl:voc:m1	imię
 Filonowi	Filon	subst:sg:dat:m1	imię	
 Filonów	Filon	subst:pl:acc:m1	imię	
 Filonów	Filon	subst:pl:gen:m1	imię	
+Filony	Filon	depr:pl:acc:m2	imię	
 Filony	Filon	depr:pl:nom:m2	imię	
 Filony	Filon	depr:pl:voc:m2	imię	
 Filusiach	Filuś	subst:pl:loc:m1	imię	
 Filusia	Filuś	subst:sg:acc:m1	imię	
 Filusia	Filuś	subst:sg:gen:m1	imię	
 Filusiami	Filuś	subst:pl:inst:m1	imię	
+Filusie	Filuś	depr:pl:acc:m2	imię	
 Filusie	Filuś	depr:pl:nom:m2	imię	
 Filusie	Filuś	depr:pl:voc:m2	imię	
 Filusie	Filuś	subst:pl:nom:m1	imię	
@@ -1905,6 +1971,7 @@ Finowie	Fin	subst:pl:voc:m1	nazwa pospolita
 Finowi	Fin	subst:sg:dat:m1	nazwa pospolita	
 Finów	Fin	subst:pl:acc:m1	nazwa pospolita	
 Finów	Fin	subst:pl:gen:m1	nazwa pospolita	
+Finy	Fin	depr:pl:acc:m2	nazwa pospolita	
 Finy	Fin	depr:pl:nom:m2	nazwa pospolita	
 Finy	Fin	depr:pl:voc:m2	nazwa pospolita	
 Fince	Finka	subst:sg:dat:f	nazwa pospolita	
@@ -1948,6 +2015,7 @@ Fiodorowie	Fiodor	subst:pl:voc:m1	imię
 Fiodorowi	Fiodor	subst:sg:dat:m1	imię	
 Fiodorów	Fiodor	subst:pl:acc:m1	imię	
 Fiodorów	Fiodor	subst:pl:gen:m1	imię	
+Fiodory	Fiodor	depr:pl:acc:m2	imię	
 Fiodory	Fiodor	depr:pl:nom:m2	imię	
 Fiodory	Fiodor	depr:pl:voc:m2	imię	
 Fiodorze	Fiodor	subst:sg:loc:m1	imię	
@@ -1958,6 +2026,7 @@ Firkach	Firko	subst:pl:loc:m1	nazwisko
 Firkami	Firko	subst:pl:inst:m1	nazwisko	
 Firką	Firko	subst:sg:inst:m1	nazwisko	
 Firkę	Firko	subst:sg:acc:m1	nazwisko	
+Firki	Firko	depr:pl:acc:m2	nazwisko	
 Firki	Firko	depr:pl:nom:m2	nazwisko	
 Firki	Firko	depr:pl:voc:m2	nazwisko	
 Firki	Firko	subst:sg:gen:m1	nazwisko	
@@ -1972,6 +2041,7 @@ Firlejach	Firlej	subst:pl:loc:m1	nazwisko
 Firleja	Firlej	subst:sg:acc:m1	nazwisko	
 Firleja	Firlej	subst:sg:gen:m1	nazwisko	
 Firlejami	Firlej	subst:pl:inst:m1	nazwisko	
+Firleje	Firlej	depr:pl:acc:m2	nazwisko	
 Firleje	Firlej	depr:pl:nom:m2	nazwisko	
 Firleje	Firlej	depr:pl:voc:m2	nazwisko	
 Firlejem	Firlej	subst:sg:inst:m1	nazwisko	
@@ -1996,6 +2066,7 @@ Fischerowie	Fischer	subst:pl:voc:m1	nazwisko
 Fischerowi	Fischer	subst:sg:dat:m1	nazwisko	
 Fischerów	Fischer	subst:pl:acc:m1	nazwisko	
 Fischerów	Fischer	subst:pl:gen:m1	nazwisko	
+Fischery	Fischer	depr:pl:acc:m2	nazwisko	
 Fischery	Fischer	depr:pl:nom:m2	nazwisko	
 Fischery	Fischer	depr:pl:voc:m2	nazwisko	
 Fischerze	Fischer	subst:sg:loc:m1	nazwisko	
@@ -2006,6 +2077,7 @@ Fitelberga	Fitelberg	subst:sg:gen:m1	nazwisko
 Fitelbergami	Fitelberg	subst:pl:inst:m1	nazwisko	
 Fitelberg	Fitelberg	subst:sg:nom:m1	nazwisko	
 Fitelbergiem	Fitelberg	subst:sg:inst:m1	nazwisko	
+Fitelbergi	Fitelberg	depr:pl:acc:m2	nazwisko	
 Fitelbergi	Fitelberg	depr:pl:nom:m2	nazwisko	
 Fitelbergi	Fitelberg	depr:pl:voc:m2	nazwisko	
 Fitelbergom	Fitelberg	subst:pl:dat:m1	nazwisko	
@@ -2028,6 +2100,7 @@ Fitzgeraldowie	Fitzgerald	subst:pl:voc:m1	nazwisko
 Fitzgeraldowi	Fitzgerald	subst:sg:dat:m1	nazwisko	
 Fitzgeraldów	Fitzgerald	subst:pl:acc:m1	nazwisko	
 Fitzgeraldów	Fitzgerald	subst:pl:gen:m1	nazwisko	
+Fitzgeraldy	Fitzgerald	depr:pl:acc:m2	nazwisko	
 Fitzgeraldy	Fitzgerald	depr:pl:nom:m2	nazwisko	
 Fitzgeraldy	Fitzgerald	depr:pl:voc:m2	nazwisko	
 Fitzgeraldzie	Fitzgerald	subst:sg:loc:m1	nazwisko	
@@ -2073,6 +2146,7 @@ Flamandowie	Flamand	subst:pl:voc:m1	nazwa pospolita
 Flamandowi	Flamand	subst:sg:dat:m1	nazwa pospolita	
 Flamandów	Flamand	subst:pl:acc:m1	nazwa pospolita	
 Flamandów	Flamand	subst:pl:gen:m1	nazwa pospolita	
+Flamandy	Flamand	depr:pl:acc:m2	nazwa pospolita	
 Flamandy	Flamand	depr:pl:nom:m2	nazwa pospolita	
 Flamandy	Flamand	depr:pl:voc:m2	nazwa pospolita	
 Flamandzie	Flamand	subst:sg:loc:m1	nazwa pospolita	
@@ -2085,6 +2159,7 @@ Flamandczyka	Flamandczyk	subst:sg:gen:m1	nazwa pospolita
 Flamandczykami	Flamandczyk	subst:pl:inst:m1	nazwa pospolita	
 Flamandczyk	Flamandczyk	subst:sg:nom:m1	nazwa pospolita	
 Flamandczykiem	Flamandczyk	subst:sg:inst:m1	nazwa pospolita	
+Flamandczyki	Flamandczyk	depr:pl:acc:m2	nazwa pospolita	
 Flamandczyki	Flamandczyk	depr:pl:nom:m2	nazwa pospolita	
 Flamandczyki	Flamandczyk	depr:pl:voc:m2	nazwa pospolita	
 Flamandczykom	Flamandczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -2151,6 +2226,7 @@ Flaubertowie	Flaubert	subst:pl:voc:m1	nazwisko
 Flaubertowi	Flaubert	subst:sg:dat:m1	nazwisko	
 Flaubertów	Flaubert	subst:pl:acc:m1	nazwisko	
 Flaubertów	Flaubert	subst:pl:gen:m1	nazwisko	
+Flauberty	Flaubert	depr:pl:acc:m2	nazwisko	
 Flauberty	Flaubert	depr:pl:nom:m2	nazwisko	
 Flauberty	Flaubert	depr:pl:voc:m2	nazwisko	
 Flawiach	Flawia	subst:pl:loc:f	imię	
@@ -2184,12 +2260,14 @@ Flawianowie	Flawian	subst:pl:voc:m1	imię
 Flawianowi	Flawian	subst:sg:dat:m1	imię	
 Flawianów	Flawian	subst:pl:acc:m1	imię	
 Flawianów	Flawian	subst:pl:gen:m1	imię	
+Flawiany	Flawian	depr:pl:acc:m2	imię	
 Flawiany	Flawian	depr:pl:nom:m2	imię	
 Flawiany	Flawian	depr:pl:voc:m2	imię	
 Flawiuszach	Flawiusz	subst:pl:loc:m1	imię	
 Flawiusza	Flawiusz	subst:sg:acc:m1	imię	
 Flawiusza	Flawiusz	subst:sg:gen:m1	imię	
 Flawiuszami	Flawiusz	subst:pl:inst:m1	imię	
+Flawiusze	Flawiusz	depr:pl:acc:m2	imię	
 Flawiusze	Flawiusz	depr:pl:nom:m2	imię	
 Flawiusze	Flawiusz	depr:pl:voc:m2	imię	
 Flawiusze	Flawiusz	subst:pl:nom:m1	imię	
@@ -2210,6 +2288,7 @@ Fleminga	Fleming	subst:sg:gen:m1	nazwisko
 Flemingami	Fleming	subst:pl:inst:m1	nazwisko	
 Fleming	Fleming	subst:sg:nom:m1	nazwisko	
 Flemingiem	Fleming	subst:sg:inst:m1	nazwisko	
+Flemingi	Fleming	depr:pl:acc:m2	nazwisko	
 Flemingi	Fleming	depr:pl:nom:m2	nazwisko	
 Flemingi	Fleming	depr:pl:voc:m2	nazwisko	
 Flemingom	Fleming	subst:pl:dat:m1	nazwisko	
@@ -2253,6 +2332,7 @@ Flisowscy	Flisowski	subst:pl:voc:m1	nazwisko
 Flisowskich	Flisowski	subst:pl:acc:m1	nazwisko	
 Flisowskich	Flisowski	subst:pl:gen:m1	nazwisko	
 Flisowskich	Flisowski	subst:pl:loc:m1	nazwisko	
+Flisowskie	Flisowski	depr:pl:acc:m2	nazwisko	
 Flisowskie	Flisowski	depr:pl:nom:m2	nazwisko	
 Flisowskie	Flisowski	depr:pl:voc:m2	nazwisko	
 Flisowskiego	Flisowski	subst:sg:acc:m1	nazwisko	
@@ -2284,6 +2364,7 @@ Florczaka	Florczak	subst:sg:gen:m1	nazwisko
 Florczakami	Florczak	subst:pl:inst:m1	nazwisko	
 Florczak	Florczak	subst:sg:nom:m1	nazwisko	
 Florczakiem	Florczak	subst:sg:inst:m1	nazwisko	
+Florczaki	Florczak	depr:pl:acc:m2	nazwisko	
 Florczaki	Florczak	depr:pl:nom:m2	nazwisko	
 Florczaki	Florczak	depr:pl:voc:m2	nazwisko	
 Florczakom	Florczak	subst:pl:dat:m1	nazwisko	
@@ -2300,6 +2381,7 @@ Florka	Florek	subst:sg:acc:m1	imię
 Florka	Florek	subst:sg:gen:m1	imię	
 Florkami	Florek	subst:pl:inst:m1	imię	
 Florkiem	Florek	subst:sg:inst:m1	imię	
+Florki	Florek	depr:pl:acc:m2	imię	
 Florki	Florek	depr:pl:nom:m2	imię	
 Florki	Florek	depr:pl:voc:m2	imię	
 Florkom	Florek	subst:pl:dat:m1	imię	
@@ -2329,6 +2411,7 @@ Florencjuszach	Florencjusz	subst:pl:loc:m1	imię
 Florencjusza	Florencjusz	subst:sg:acc:m1	imię	
 Florencjusza	Florencjusz	subst:sg:gen:m1	imię	
 Florencjuszami	Florencjusz	subst:pl:inst:m1	imię	
+Florencjusze	Florencjusz	depr:pl:acc:m2	imię	
 Florencjusze	Florencjusz	depr:pl:nom:m2	imię	
 Florencjusze	Florencjusz	depr:pl:voc:m2	imię	
 Florencjusze	Florencjusz	subst:pl:nom:m1	imię	
@@ -2343,6 +2426,7 @@ Florencjuszów	Florencjusz	subst:pl:acc:m1	imię
 Florencjuszów	Florencjusz	subst:pl:gen:m1	imię	
 Florencjuszu	Florencjusz	subst:sg:loc:m1	imię	
 Florencjuszu	Florencjusz	subst:sg:voc:m1	imię	
+Florente	Florenty	depr:pl:acc:m2	imię	
 Florente	Florenty	depr:pl:nom:m2	imię	
 Florente	Florenty	depr:pl:voc:m2	imię	
 Florentego	Florenty	subst:sg:acc:m1	imię	
@@ -2375,6 +2459,7 @@ Florentynowie	Florentyn	subst:pl:voc:m1	imię
 Florentynowi	Florentyn	subst:sg:dat:m1	imię	
 Florentynów	Florentyn	subst:pl:acc:m1	imię	
 Florentynów	Florentyn	subst:pl:gen:m1	imię	
+Florentyny	Florentyn	depr:pl:acc:m2	imię	
 Florentyny	Florentyn	depr:pl:nom:m2	imię	
 Florentyny	Florentyn	depr:pl:voc:m2	imię	
 Florentynach	Florentyna	subst:pl:loc:f	imię	
@@ -2405,6 +2490,7 @@ Florianowie	Florian	subst:pl:voc:m1	imię
 Florianowi	Florian	subst:sg:dat:m1	imię	
 Florianów	Florian	subst:pl:acc:m1	imię	
 Florianów	Florian	subst:pl:gen:m1	imię	
+Floriany	Florian	depr:pl:acc:m2	imię	
 Floriany	Florian	depr:pl:nom:m2	imię	
 Floriany	Florian	depr:pl:voc:m2	imię	
 Florydach	Floryda	subst:pl:loc:f	nazwa geograficzna	
@@ -2437,6 +2523,7 @@ Florynowie	Floryn	subst:pl:voc:m1	imię
 Florynowi	Floryn	subst:sg:dat:m1	imię	
 Florynów	Floryn	subst:pl:acc:m1	imię	
 Florynów	Floryn	subst:pl:gen:m1	imię	
+Floryny	Floryn	depr:pl:acc:m2	imię	
 Floryny	Floryn	depr:pl:nom:m2	imię	
 Floryny	Floryn	depr:pl:voc:m2	imię	
 FN-ach	FN	subst:pl:loc:m3	nazwa instytucji	
@@ -2467,6 +2554,7 @@ FN-u	FN	subst:sg:gen:m3	nazwa instytucji
 FN-y	FN	subst:pl:acc:m3	nazwa instytucji	
 FN-y	FN	subst:pl:nom:m3	nazwa instytucji	
 FN-y	FN	subst:pl:voc:m3	nazwa instytucji	
+Fo	Fo	depr:pl:acc:m2	nazwisko	
 Fo	Fo	depr:pl:nom:m2	nazwisko	
 Fo	Fo	depr:pl:voc:m2	nazwisko	
 Fo	Fo	subst:pl:acc:m1	nazwisko	
@@ -2487,6 +2575,7 @@ Fochach	Foch	subst:pl:loc:m1	nazwisko
 Focha	Foch	subst:sg:acc:m1	nazwisko	
 Focha	Foch	subst:sg:gen:m1	nazwisko	
 Fochami	Foch	subst:pl:inst:m1	nazwisko	
+Foche	Foch	depr:pl:acc:m2	nazwisko	
 Foche	Foch	depr:pl:nom:m2	nazwisko	
 Foche	Foch	depr:pl:voc:m2	nazwisko	
 Fochem	Foch	subst:sg:inst:m1	nazwisko	
@@ -2503,6 +2592,7 @@ Focjuszach	Focjusz	subst:pl:loc:m1	imię
 Focjusza	Focjusz	subst:sg:acc:m1	imię	
 Focjusza	Focjusz	subst:sg:gen:m1	imię	
 Focjuszami	Focjusz	subst:pl:inst:m1	imię	
+Focjusze	Focjusz	depr:pl:acc:m2	imię	
 Focjusze	Focjusz	depr:pl:nom:m2	imię	
 Focjusze	Focjusz	depr:pl:voc:m2	imię	
 Focjusze	Focjusz	subst:pl:nom:m1	imię	
@@ -2537,6 +2627,7 @@ Fogga	Fogg	subst:sg:gen:m1	nazwisko
 Foggami	Fogg	subst:pl:inst:m1	nazwisko	
 Fogg	Fogg	subst:sg:nom:m1	nazwisko	
 Foggiem	Fogg	subst:sg:inst:m1	nazwisko	
+Foggi	Fogg	depr:pl:acc:m2	nazwisko	
 Foggi	Fogg	depr:pl:nom:m2	nazwisko	
 Foggi	Fogg	depr:pl:voc:m2	nazwisko	
 Foggom	Fogg	subst:pl:dat:m1	nazwisko	
@@ -2561,6 +2652,7 @@ Foitowie	Foit	subst:pl:voc:m1	nazwisko
 Foitowi	Foit	subst:sg:dat:m1	nazwisko	
 Foitów	Foit	subst:pl:acc:m1	nazwisko	
 Foitów	Foit	subst:pl:gen:m1	nazwisko	
+Foity	Foit	depr:pl:acc:m2	nazwisko	
 Foity	Foit	depr:pl:nom:m2	nazwisko	
 Foity	Foit	depr:pl:voc:m2	nazwisko	
 Fokidach	Fokida	subst:pl:loc:f	nazwa geograficzna	
@@ -2603,6 +2695,7 @@ Fondowie	Fonda	subst:pl:nom:m1	nazwisko
 Fondowie	Fonda	subst:pl:voc:m1	nazwisko	
 Fondów	Fonda	subst:pl:acc:m1	nazwisko	
 Fondów	Fonda	subst:pl:gen:m1	nazwisko	
+Fondy	Fonda	depr:pl:acc:m2	nazwisko	
 Fondy	Fonda	depr:pl:nom:m2	nazwisko	
 Fondy	Fonda	depr:pl:voc:m2	nazwisko	
 Fondy	Fonda	subst:sg:gen:m1	nazwisko	
@@ -2621,6 +2714,7 @@ Fonsecowie	Fonseca	subst:pl:nom:m1	nazwisko
 Fonsecowie	Fonseca	subst:pl:voc:m1	nazwisko	
 Fonseców	Fonseca	subst:pl:acc:m1	nazwisko	
 Fonseców	Fonseca	subst:pl:gen:m1	nazwisko	
+Fonseki	Fonseca	depr:pl:acc:m2	nazwisko	
 Fonseki	Fonseca	depr:pl:nom:m2	nazwisko	
 Fonseki	Fonseca	depr:pl:voc:m2	nazwisko	
 Fonseki	Fonseca	subst:sg:gen:m1	nazwisko	
@@ -2630,6 +2724,7 @@ Fonsika	Fonsik	subst:sg:gen:m1	imię
 Fonsikami	Fonsik	subst:pl:inst:m1	imię	
 Fonsik	Fonsik	subst:sg:nom:m1	imię	
 Fonsikiem	Fonsik	subst:sg:inst:m1	imię	
+Fonsiki	Fonsik	depr:pl:acc:m2	imię	
 Fonsiki	Fonsik	depr:pl:nom:m2	imię	
 Fonsiki	Fonsik	depr:pl:voc:m2	imię	
 Fonsikom	Fonsik	subst:pl:dat:m1	imię	
@@ -2644,6 +2739,7 @@ Fonsiach	Fonsio	subst:pl:loc:m1	imię
 Fonsia	Fonsio	subst:sg:acc:m1	imię	
 Fonsia	Fonsio	subst:sg:gen:m1	imię	
 Fonsiami	Fonsio	subst:pl:inst:m1	imię	
+Fonsie	Fonsio	depr:pl:acc:m2	imię	
 Fonsie	Fonsio	depr:pl:nom:m2	imię	
 Fonsie	Fonsio	depr:pl:voc:m2	imię	
 Fonsiem	Fonsio	subst:sg:inst:m1	imię	
@@ -2668,6 +2764,7 @@ Fontaine’owie	Fontaine	subst:pl:voc:m1	nazwisko
 Fontaine’owi	Fontaine	subst:sg:dat:m1	nazwisko	
 Fontaine’ów	Fontaine	subst:pl:acc:m1	nazwisko	
 Fontaine’ów	Fontaine	subst:pl:gen:m1	nazwisko	
+Fontaine’y	Fontaine	depr:pl:acc:m2	nazwisko	
 Fontaine’y	Fontaine	depr:pl:nom:m2	nazwisko	
 Fontaine’y	Fontaine	depr:pl:voc:m2	nazwisko	
 Fontainie	Fontaine	subst:sg:loc:m1	nazwisko	
@@ -2684,6 +2781,7 @@ Fordowie	Ford	subst:pl:voc:m1	nazwisko
 Fordowi	Ford	subst:sg:dat:m1	nazwisko	
 Fordów	Ford	subst:pl:acc:m1	nazwisko	
 Fordów	Ford	subst:pl:gen:m1	nazwisko	
+Fordy	Ford	depr:pl:acc:m2	nazwisko	
 Fordy	Ford	depr:pl:nom:m2	nazwisko	
 Fordy	Ford	depr:pl:voc:m2	nazwisko	
 Fordzie	Ford	subst:sg:loc:m1	nazwisko	
@@ -2702,6 +2800,7 @@ Formanowie	Forman	subst:pl:voc:m1	nazwisko
 Formanowi	Forman	subst:sg:dat:m1	nazwisko	
 Formanów	Forman	subst:pl:acc:m1	nazwisko	
 Formanów	Forman	subst:pl:gen:m1	nazwisko	
+Formany	Forman	depr:pl:acc:m2	nazwisko	
 Formany	Forman	depr:pl:nom:m2	nazwisko	
 Formany	Forman	depr:pl:voc:m2	nazwisko	
 Forsycie	Forsyth	subst:sg:loc:m1	nazwisko	
@@ -2720,6 +2819,7 @@ Forsythowie	Forsyth	subst:pl:voc:m1	nazwisko
 Forsythowi	Forsyth	subst:sg:dat:m1	nazwisko	
 Forsythów	Forsyth	subst:pl:acc:m1	nazwisko	
 Forsythów	Forsyth	subst:pl:gen:m1	nazwisko	
+Forsythy	Forsyth	depr:pl:acc:m2	nazwisko	
 Forsythy	Forsyth	depr:pl:nom:m2	nazwisko	
 Forsythy	Forsyth	depr:pl:voc:m2	nazwisko	
 Forsycie	Forsythe	subst:sg:loc:m1	nazwisko	
@@ -2736,6 +2836,7 @@ Forsythe’owie	Forsythe	subst:pl:voc:m1	nazwisko
 Forsythe’owi	Forsythe	subst:sg:dat:m1	nazwisko	
 Forsythe’ów	Forsythe	subst:pl:acc:m1	nazwisko	
 Forsythe’ów	Forsythe	subst:pl:gen:m1	nazwisko	
+Forsythe’y	Forsythe	depr:pl:acc:m2	nazwisko	
 Forsythe’y	Forsythe	depr:pl:nom:m2	nazwisko	
 Forsythe’y	Forsythe	depr:pl:voc:m2	nazwisko	
 Fortranach	Fortran	subst:pl:loc:m3	nazwa języka programowania	komp.
@@ -2768,6 +2869,7 @@ Fortunatowie	Fortunat	subst:pl:voc:m1	imię
 Fortunatowi	Fortunat	subst:sg:dat:m1	imię	
 Fortunatów	Fortunat	subst:pl:acc:m1	imię	
 Fortunatów	Fortunat	subst:pl:gen:m1	imię	
+Fortunaty	Fortunat	depr:pl:acc:m2	imię	
 Fortunaty	Fortunat	depr:pl:nom:m2	imię	
 Fortunaty	Fortunat	depr:pl:voc:m2	imię	
 Fortunacie	Fortunata	subst:sg:dat:f	imię	
@@ -2812,6 +2914,7 @@ Foucaultowie	Foucault	subst:pl:voc:m1	nazwisko
 Foucaultowi	Foucault	subst:sg:dat:m1	nazwisko	
 Foucaultów	Foucault	subst:pl:acc:m1	nazwisko	
 Foucaultów	Foucault	subst:pl:gen:m1	nazwisko	
+Foucaulty	Foucault	depr:pl:acc:m2	nazwisko	
 Foucaulty	Foucault	depr:pl:nom:m2	nazwisko	
 Foucaulty	Foucault	depr:pl:voc:m2	nazwisko	
 Fourierach	Fourier	subst:pl:loc:m1	nazwisko	
@@ -2826,6 +2929,7 @@ Fourierowie	Fourier	subst:pl:voc:m1	nazwisko
 Fourierowi	Fourier	subst:sg:dat:m1	nazwisko	
 Fourierów	Fourier	subst:pl:acc:m1	nazwisko	
 Fourierów	Fourier	subst:pl:gen:m1	nazwisko	
+Fouriery	Fourier	depr:pl:acc:m2	nazwisko	
 Fouriery	Fourier	depr:pl:nom:m2	nazwisko	
 Fouriery	Fourier	depr:pl:voc:m2	nazwisko	
 Fourierze	Fourier	subst:sg:loc:m1	nazwisko	
@@ -2880,6 +2984,7 @@ Fragonardowie	Fragonard	subst:pl:voc:m1	nazwisko
 Fragonardowi	Fragonard	subst:sg:dat:m1	nazwisko	
 Fragonardów	Fragonard	subst:pl:acc:m1	nazwisko	
 Fragonardów	Fragonard	subst:pl:gen:m1	nazwisko	
+Fragonardy	Fragonard	depr:pl:acc:m2	nazwisko	
 Fragonardy	Fragonard	depr:pl:nom:m2	nazwisko	
 Fragonardy	Fragonard	depr:pl:voc:m2	nazwisko	
 Fragonardzie	Fragonard	subst:sg:loc:m1	nazwisko	
@@ -2896,6 +3001,7 @@ France’owie	France	subst:pl:voc:m1	nazwisko
 France’owi	France	subst:sg:dat:m1	nazwisko	
 France’ów	France	subst:pl:acc:m1	nazwisko	
 France’ów	France	subst:pl:gen:m1	nazwisko	
+France’y	France	depr:pl:acc:m2	nazwisko	
 France’y	France	depr:pl:nom:m2	nazwisko	
 France’y	France	depr:pl:voc:m2	nazwisko	
 Fransie	France	subst:sg:loc:m1	nazwisko	
@@ -2906,6 +3012,7 @@ Francka	Francek	subst:sg:acc:m1	imię
 Francka	Francek	subst:sg:gen:m1	imię	
 Franckami	Francek	subst:pl:inst:m1	imię	
 Franckiem	Francek	subst:sg:inst:m1	imię	
+Francki	Francek	depr:pl:acc:m2	imię	
 Francki	Francek	depr:pl:nom:m2	imię	
 Francki	Francek	depr:pl:voc:m2	imię	
 Franckom	Francek	subst:pl:dat:m1	imię	
@@ -2922,6 +3029,7 @@ Francika	Francik	subst:sg:gen:m1	imię
 Francikami	Francik	subst:pl:inst:m1	imię	
 Francik	Francik	subst:sg:nom:m1	imię	
 Francikiem	Francik	subst:sg:inst:m1	imię	
+Franciki	Francik	depr:pl:acc:m2	imię	
 Franciki	Francik	depr:pl:nom:m2	imię	
 Franciki	Francik	depr:pl:voc:m2	imię	
 Francikom	Francik	subst:pl:dat:m1	imię	
@@ -2953,6 +3061,7 @@ Franciszka	Franciszek	subst:sg:acc:m1	imię
 Franciszka	Franciszek	subst:sg:gen:m1	imię	
 Franciszkami	Franciszek	subst:pl:inst:m1	imię	
 Franciszkiem	Franciszek	subst:sg:inst:m1	imię	
+Franciszki	Franciszek	depr:pl:acc:m2	imię	
 Franciszki	Franciszek	depr:pl:nom:m2	imię	
 Franciszki	Franciszek	depr:pl:voc:m2	imię	
 Franciszkom	Franciszek	subst:pl:dat:m1	imię	
@@ -2998,6 +3107,7 @@ Francka	Franck	subst:sg:gen:m1	nazwisko
 Franckami	Franck	subst:pl:inst:m1	nazwisko	
 Franck	Franck	subst:sg:nom:m1	nazwisko	
 Franckiem	Franck	subst:sg:inst:m1	nazwisko	
+Francki	Franck	depr:pl:acc:m2	nazwisko	
 Francki	Franck	depr:pl:nom:m2	nazwisko	
 Francki	Franck	depr:pl:voc:m2	nazwisko	
 Franckom	Franck	subst:pl:dat:m1	nazwisko	
@@ -3008,6 +3118,7 @@ Francków	Franck	subst:pl:acc:m1	nazwisko
 Francków	Franck	subst:pl:gen:m1	nazwisko	
 Francku	Franck	subst:sg:loc:m1	nazwisko	
 Francku	Franck	subst:sg:voc:m1	nazwisko	
+Franco	Franco	depr:pl:acc:m2	nazwisko	
 Franco	Franco	depr:pl:nom:m2	nazwisko	
 Franco	Franco	depr:pl:voc:m2	nazwisko	
 Franco	Franco	subst:pl:acc:m1	nazwisko	
@@ -3024,6 +3135,7 @@ Franco	Franco	subst:sg:inst:m1	nazwisko
 Franco	Franco	subst:sg:loc:m1	nazwisko	
 Franco	Franco	subst:sg:nom:m1	nazwisko	
 Franco	Franco	subst:sg:voc:m1	nazwisko	
+Francois	Francois	depr:pl:acc:m2	imię	
 Francois	Francois	depr:pl:nom:m2	imię	
 Francois	Francois	depr:pl:voc:m2	imię	
 Francois	Francois	subst:pl:acc:m1	imię	
@@ -3054,6 +3166,7 @@ Francuzom	Francuz	subst:pl:dat:m1	nazwa pospolita
 Francuzowi	Francuz	subst:sg:dat:m1	nazwa pospolita	
 Francuzów	Francuz	subst:pl:acc:m1	nazwa pospolita	
 Francuzów	Francuz	subst:pl:gen:m1	nazwa pospolita	
+Francuzy	Francuz	depr:pl:acc:m2	nazwa pospolita	
 Francuzy	Francuz	depr:pl:nom:m2	nazwa pospolita	
 Francuzy	Francuz	depr:pl:voc:m2	nazwa pospolita	
 Francuzicach	Francuzica	subst:pl:loc:f	nazwa pospolita	
@@ -3076,6 +3189,7 @@ Francuzika	Francuzik	subst:sg:gen:m1	nazwa pospolita
 Francuzikami	Francuzik	subst:pl:inst:m1	nazwa pospolita	
 Francuzik	Francuzik	subst:sg:nom:m1	nazwa pospolita	
 Francuzikiem	Francuzik	subst:sg:inst:m1	nazwa pospolita	
+Francuziki	Francuzik	depr:pl:acc:m2	nazwa pospolita	
 Francuziki	Francuzik	depr:pl:nom:m2	nazwa pospolita	
 Francuziki	Francuzik	depr:pl:voc:m2	nazwa pospolita	
 Francuzikom	Francuzik	subst:pl:dat:m1	nazwa pospolita	
@@ -3106,6 +3220,7 @@ Franka	Franek	subst:sg:acc:m1	imię
 Franka	Franek	subst:sg:gen:m1	imię	
 Frankami	Franek	subst:pl:inst:m1	imię	
 Frankiem	Franek	subst:sg:inst:m1	imię	
+Franki	Franek	depr:pl:acc:m2	imię	
 Franki	Franek	depr:pl:nom:m2	imię	
 Franki	Franek	depr:pl:voc:m2	imię	
 Frankom	Franek	subst:pl:dat:m1	imię	
@@ -3135,6 +3250,7 @@ Franiach	Franio	subst:pl:loc:m1	imię
 Frania	Franio	subst:sg:acc:m1	imię	
 Frania	Franio	subst:sg:gen:m1	imię	
 Franiami	Franio	subst:pl:inst:m1	imię	
+Franie	Franio	depr:pl:acc:m2	imię	
 Franie	Franio	depr:pl:nom:m2	imię	
 Franie	Franio	depr:pl:voc:m2	imię	
 Franiem	Franio	subst:sg:inst:m1	imię	
@@ -3153,6 +3269,7 @@ Franka	Frank	subst:sg:gen:m1	imię
 Frankami	Frank	subst:pl:inst:m1	imię	
 Frank	Frank	subst:sg:nom:m1	imię	
 Frankiem	Frank	subst:sg:inst:m1	imię	
+Franki	Frank	depr:pl:acc:m2	imię	
 Franki	Frank	depr:pl:nom:m2	imię	
 Franki	Frank	depr:pl:voc:m2	imię	
 Frankom	Frank	subst:pl:dat:m1	imię	
@@ -3177,6 +3294,7 @@ Frankensteinowie	Frankenstein	subst:pl:voc:m1	nazwisko
 Frankensteinowi	Frankenstein	subst:sg:dat:m1	nazwisko	
 Frankensteinów	Frankenstein	subst:pl:acc:m1	nazwisko	
 Frankensteinów	Frankenstein	subst:pl:gen:m1	nazwisko	
+Frankensteiny	Frankenstein	depr:pl:acc:m2	nazwisko	
 Frankensteiny	Frankenstein	depr:pl:nom:m2	nazwisko	
 Frankensteiny	Frankenstein	depr:pl:voc:m2	nazwisko	
 Frankfurcie	Frankfurt	subst:sg:loc:m3	nazwa geograficzna	
@@ -3197,6 +3315,7 @@ Frankiewiczach	Frankiewicz	subst:pl:loc:m1	nazwisko
 Frankiewicza	Frankiewicz	subst:sg:acc:m1	nazwisko	
 Frankiewicza	Frankiewicz	subst:sg:gen:m1	nazwisko	
 Frankiewiczami	Frankiewicz	subst:pl:inst:m1	nazwisko	
+Frankiewicze	Frankiewicz	depr:pl:acc:m2	nazwisko	
 Frankiewicze	Frankiewicz	depr:pl:nom:m2	nazwisko	
 Frankiewicze	Frankiewicz	depr:pl:voc:m2	nazwisko	
 Frankiewicze	Frankiewicz	subst:pl:nom:m1	nazwisko	
@@ -3225,6 +3344,7 @@ Franklinowie	Franklin	subst:pl:voc:m1	nazwisko
 Franklinowi	Franklin	subst:sg:dat:m1	nazwisko	
 Franklinów	Franklin	subst:pl:acc:m1	nazwisko	
 Franklinów	Franklin	subst:pl:gen:m1	nazwisko	
+Frankliny	Franklin	depr:pl:acc:m2	nazwisko	
 Frankliny	Franklin	depr:pl:nom:m2	nazwisko	
 Frankliny	Franklin	depr:pl:voc:m2	nazwisko	
 Frankoniach	Frankonia	subst:pl:loc:f	nazwa geograficzna	
@@ -3261,6 +3381,7 @@ Frankowscy	Frankowski	subst:pl:voc:m1	nazwisko
 Frankowskich	Frankowski	subst:pl:acc:m1	nazwisko	
 Frankowskich	Frankowski	subst:pl:gen:m1	nazwisko	
 Frankowskich	Frankowski	subst:pl:loc:m1	nazwisko	
+Frankowskie	Frankowski	depr:pl:acc:m2	nazwisko	
 Frankowskie	Frankowski	depr:pl:nom:m2	nazwisko	
 Frankowskie	Frankowski	depr:pl:voc:m2	nazwisko	
 Frankowskiego	Frankowski	subst:sg:acc:m1	nazwisko	
@@ -3276,6 +3397,7 @@ Franusiach	Franuś	subst:pl:loc:m1	imię
 Franusia	Franuś	subst:sg:acc:m1	imię	
 Franusia	Franuś	subst:sg:gen:m1	imię	
 Franusiami	Franuś	subst:pl:inst:m1	imię	
+Franusie	Franuś	depr:pl:acc:m2	imię	
 Franusie	Franuś	depr:pl:nom:m2	imię	
 Franusie	Franuś	depr:pl:voc:m2	imię	
 Franusie	Franuś	subst:pl:nom:m1	imię	
@@ -3294,6 +3416,7 @@ Franzach	Franz	subst:pl:loc:m1	imię
 Franza	Franz	subst:sg:acc:m1	imię	
 Franza	Franz	subst:sg:gen:m1	imię	
 Franzami	Franz	subst:pl:inst:m1	imię	
+Franze	Franz	depr:pl:acc:m2	imię	
 Franze	Franz	depr:pl:nom:m2	imię	
 Franze	Franz	depr:pl:voc:m2	imię	
 Franze	Franz	subst:pl:nom:m1	imię	
@@ -3311,6 +3434,7 @@ Franzu	Franz	subst:sg:voc:m1	imię
 Frassatich	Frassati	subst:pl:acc:m1	nazwisko	
 Frassatich	Frassati	subst:pl:gen:m1	nazwisko	
 Frassatich	Frassati	subst:pl:loc:m1	nazwisko	
+Frassatie	Frassati	depr:pl:acc:m2	nazwisko	
 Frassatie	Frassati	depr:pl:nom:m2	nazwisko	
 Frassatie	Frassati	depr:pl:voc:m2	nazwisko	
 Frassatiego	Frassati	subst:sg:acc:m1	nazwisko	
@@ -3332,6 +3456,7 @@ Frasyniuka	Frasyniuk	subst:sg:gen:m1	nazwisko
 Frasyniukami	Frasyniuk	subst:pl:inst:m1	nazwisko	
 Frasyniuk	Frasyniuk	subst:sg:nom:m1	nazwisko	
 Frasyniukiem	Frasyniuk	subst:sg:inst:m1	nazwisko	
+Frasyniuki	Frasyniuk	depr:pl:acc:m2	nazwisko	
 Frasyniuki	Frasyniuk	depr:pl:nom:m2	nazwisko	
 Frasyniuki	Frasyniuk	depr:pl:voc:m2	nazwisko	
 Frasyniukom	Frasyniuk	subst:pl:dat:m1	nazwisko	
@@ -3348,6 +3473,7 @@ Frąckowiaka	Frąckowiak	subst:sg:gen:m1	nazwisko
 Frąckowiakami	Frąckowiak	subst:pl:inst:m1	nazwisko	
 Frąckowiak	Frąckowiak	subst:sg:nom:m1	nazwisko	
 Frąckowiakiem	Frąckowiak	subst:sg:inst:m1	nazwisko	
+Frąckowiaki	Frąckowiak	depr:pl:acc:m2	nazwisko	
 Frąckowiaki	Frąckowiak	depr:pl:nom:m2	nazwisko	
 Frąckowiaki	Frąckowiak	depr:pl:voc:m2	nazwisko	
 Frąckowiakom	Frąckowiak	subst:pl:dat:m1	nazwisko	
@@ -3364,6 +3490,7 @@ Frączaka	Frączak	subst:sg:gen:m1	nazwisko
 Frączakami	Frączak	subst:pl:inst:m1	nazwisko	
 Frączak	Frączak	subst:sg:nom:m1	nazwisko	
 Frączakiem	Frączak	subst:sg:inst:m1	nazwisko	
+Frączaki	Frączak	depr:pl:acc:m2	nazwisko	
 Frączaki	Frączak	depr:pl:nom:m2	nazwisko	
 Frączaki	Frączak	depr:pl:voc:m2	nazwisko	
 Frączakom	Frączak	subst:pl:dat:m1	nazwisko	
@@ -3380,6 +3507,7 @@ Frączka	Frączek	subst:sg:acc:m1	nazwisko
 Frączka	Frączek	subst:sg:gen:m1	nazwisko	
 Frączkami	Frączek	subst:pl:inst:m1	nazwisko	
 Frączkiem	Frączek	subst:sg:inst:m1	nazwisko	
+Frączki	Frączek	depr:pl:acc:m2	nazwisko	
 Frączki	Frączek	depr:pl:nom:m2	nazwisko	
 Frączki	Frączek	depr:pl:voc:m2	nazwisko	
 Frączkom	Frączek	subst:pl:dat:m1	nazwisko	
@@ -3396,6 +3524,7 @@ Frątczaka	Frątczak	subst:sg:gen:m1	nazwisko
 Frątczakami	Frątczak	subst:pl:inst:m1	nazwisko	
 Frątczak	Frątczak	subst:sg:nom:m1	nazwisko	
 Frątczakiem	Frątczak	subst:sg:inst:m1	nazwisko	
+Frątczaki	Frątczak	depr:pl:acc:m2	nazwisko	
 Frątczaki	Frątczak	depr:pl:nom:m2	nazwisko	
 Frątczaki	Frątczak	depr:pl:voc:m2	nazwisko	
 Frątczakom	Frątczak	subst:pl:dat:m1	nazwisko	
@@ -3418,6 +3547,7 @@ Fredowie	Fred	subst:pl:voc:m1	imię
 Fredowi	Fred	subst:sg:dat:m1	imię	
 Fredów	Fred	subst:pl:acc:m1	imię	
 Fredów	Fred	subst:pl:gen:m1	imię	
+Fredy	Fred	depr:pl:acc:m2	imię	
 Fredy	Fred	depr:pl:nom:m2	imię	
 Fredy	Fred	depr:pl:voc:m2	imię	
 Fredzie	Fred	subst:sg:loc:m1	imię	
@@ -3442,6 +3572,7 @@ Fredka	Fredek	subst:sg:acc:m1	imię
 Fredka	Fredek	subst:sg:gen:m1	imię	
 Fredkami	Fredek	subst:pl:inst:m1	imię	
 Fredkiem	Fredek	subst:sg:inst:m1	imię	
+Fredki	Fredek	depr:pl:acc:m2	imię	
 Fredki	Fredek	depr:pl:nom:m2	imię	
 Fredki	Fredek	depr:pl:voc:m2	imię	
 Fredkom	Fredek	subst:pl:dat:m1	imię	
@@ -3477,6 +3608,7 @@ Fredrowie	Fredro	subst:pl:nom:m1	nazwisko
 Fredrowie	Fredro	subst:pl:voc:m1	nazwisko	
 Fredrów	Fredro	subst:pl:acc:m1	nazwisko	
 Fredrów	Fredro	subst:pl:gen:m1	nazwisko	
+Fredry	Fredro	depr:pl:acc:m2	nazwisko	
 Fredry	Fredro	depr:pl:nom:m2	nazwisko	
 Fredry	Fredro	depr:pl:voc:m2	nazwisko	
 Fredry	Fredro	subst:sg:gen:m1	nazwisko	
@@ -3486,6 +3618,7 @@ Fredziach	Fredzio	subst:pl:loc:m1	imię
 Fredzia	Fredzio	subst:sg:acc:m1	imię	
 Fredzia	Fredzio	subst:sg:gen:m1	imię	
 Fredziami	Fredzio	subst:pl:inst:m1	imię	
+Fredzie	Fredzio	depr:pl:acc:m2	imię	
 Fredzie	Fredzio	depr:pl:nom:m2	imię	
 Fredzie	Fredzio	depr:pl:voc:m2	imię	
 Fredziem	Fredzio	subst:sg:inst:m1	imię	
@@ -3503,6 +3636,7 @@ Frenklach	Frenkiel	subst:pl:loc:m1	nazwisko
 Frenkla	Frenkiel	subst:sg:acc:m1	nazwisko	
 Frenkla	Frenkiel	subst:sg:gen:m1	nazwisko	
 Frenklami	Frenkiel	subst:pl:inst:m1	nazwisko	
+Frenkle	Frenkiel	depr:pl:acc:m2	nazwisko	
 Frenkle	Frenkiel	depr:pl:nom:m2	nazwisko	
 Frenkle	Frenkiel	depr:pl:voc:m2	nazwisko	
 Frenklem	Frenkiel	subst:sg:inst:m1	nazwisko	
@@ -3526,6 +3660,7 @@ Freudowie	Freud	subst:pl:voc:m1	nazwisko
 Freudowi	Freud	subst:sg:dat:m1	nazwisko	
 Freudów	Freud	subst:pl:acc:m1	nazwisko	
 Freudów	Freud	subst:pl:gen:m1	nazwisko	
+Freudy	Freud	depr:pl:acc:m2	nazwisko	
 Freudy	Freud	depr:pl:nom:m2	nazwisko	
 Freudy	Freud	depr:pl:voc:m2	nazwisko	
 Freudzie	Freud	subst:sg:loc:m1	nazwisko	
@@ -3544,6 +3679,7 @@ Friedmanowie	Friedman	subst:pl:voc:m1	nazwisko
 Friedmanowi	Friedman	subst:sg:dat:m1	nazwisko	
 Friedmanów	Friedman	subst:pl:acc:m1	nazwisko	
 Friedmanów	Friedman	subst:pl:gen:m1	nazwisko	
+Friedmany	Friedman	depr:pl:acc:m2	nazwisko	
 Friedmany	Friedman	depr:pl:nom:m2	nazwisko	
 Friedmany	Friedman	depr:pl:voc:m2	nazwisko	
 Friedrichach	Friedrich	subst:pl:loc:m1	imię|nazwisko	
@@ -3560,12 +3696,14 @@ Friedrichów	Friedrich	subst:pl:acc:m1	imię|nazwisko
 Friedrichów	Friedrich	subst:pl:gen:m1	imię|nazwisko	
 Friedrichu	Friedrich	subst:sg:loc:m1	imię|nazwisko	
 Friedrichu	Friedrich	subst:sg:voc:m1	imię|nazwisko	
+Friedrichy	Friedrich	depr:pl:acc:m2	imię|nazwisko	
 Friedrichy	Friedrich	depr:pl:nom:m2	imię|nazwisko	
 Friedrichy	Friedrich	depr:pl:voc:m2	imię|nazwisko	
 Frischach	Frisch	subst:pl:loc:m1	nazwisko	
 Frischa	Frisch	subst:sg:acc:m1	nazwisko	
 Frischa	Frisch	subst:sg:gen:m1	nazwisko	
 Frischami	Frisch	subst:pl:inst:m1	nazwisko	
+Frische	Frisch	depr:pl:acc:m2	nazwisko	
 Frische	Frisch	depr:pl:nom:m2	nazwisko	
 Frische	Frisch	depr:pl:voc:m2	nazwisko	
 Frischem	Frisch	subst:sg:inst:m1	nazwisko	
@@ -3582,6 +3720,7 @@ Fritzach	Fritz	subst:pl:loc:m1	imię
 Fritza	Fritz	subst:sg:acc:m1	imię	
 Fritza	Fritz	subst:sg:gen:m1	imię	
 Fritzami	Fritz	subst:pl:inst:m1	imię	
+Fritze	Fritz	depr:pl:acc:m2	imię	
 Fritze	Fritz	depr:pl:nom:m2	imię	
 Fritze	Fritz	depr:pl:voc:m2	imię	
 Fritze	Fritz	subst:pl:nom:m1	imię	
@@ -3600,6 +3739,7 @@ Fritzach	Fritza	subst:pl:loc:m1	nazwisko
 Fritza	Fritza	subst:sg:nom:m1	nazwisko	
 Fritzami	Fritza	subst:pl:inst:m1	nazwisko	
 Fritzą	Fritza	subst:sg:inst:m1	nazwisko	
+Fritze	Fritza	depr:pl:acc:m2	nazwisko	
 Fritze	Fritza	depr:pl:nom:m2	nazwisko	
 Fritze	Fritza	depr:pl:voc:m2	nazwisko	
 Fritzę	Fritza	subst:sg:acc:m1	nazwisko	
@@ -3626,6 +3766,7 @@ Froelichów	Froelich	subst:pl:acc:m1	nazwisko
 Froelichów	Froelich	subst:pl:gen:m1	nazwisko	
 Froelichu	Froelich	subst:sg:loc:m1	nazwisko	
 Froelichu	Froelich	subst:sg:voc:m1	nazwisko	
+Froelichy	Froelich	depr:pl:acc:m2	nazwisko	
 Froelichy	Froelich	depr:pl:nom:m2	nazwisko	
 Froelichy	Froelich	depr:pl:voc:m2	nazwisko	
 Fromborkach	Frombork	subst:pl:loc:m3	nazwa geograficzna	
@@ -3656,6 +3797,7 @@ Frommowie	Fromm	subst:pl:voc:m1	nazwisko
 Frommowi	Fromm	subst:sg:dat:m1	nazwisko	
 Frommów	Fromm	subst:pl:acc:m1	nazwisko	
 Frommów	Fromm	subst:pl:gen:m1	nazwisko	
+Frommy	Fromm	depr:pl:acc:m2	nazwisko	
 Frommy	Fromm	depr:pl:nom:m2	nazwisko	
 Frommy	Fromm	depr:pl:voc:m2	nazwisko	
 Froncek	Froncek	subst:sg:nom:m1	imię	
@@ -3664,6 +3806,7 @@ Froncka	Froncek	subst:sg:acc:m1	imię
 Froncka	Froncek	subst:sg:gen:m1	imię	
 Fronckami	Froncek	subst:pl:inst:m1	imię	
 Fronckiem	Froncek	subst:sg:inst:m1	imię	
+Froncki	Froncek	depr:pl:acc:m2	imię	
 Froncki	Froncek	depr:pl:nom:m2	imię	
 Froncki	Froncek	depr:pl:voc:m2	imię	
 Fronckom	Froncek	subst:pl:dat:m1	imię	
@@ -3679,6 +3822,7 @@ Fronczewscy	Fronczewski	subst:pl:voc:m1	nazwisko
 Fronczewskich	Fronczewski	subst:pl:acc:m1	nazwisko	
 Fronczewskich	Fronczewski	subst:pl:gen:m1	nazwisko	
 Fronczewskich	Fronczewski	subst:pl:loc:m1	nazwisko	
+Fronczewskie	Fronczewski	depr:pl:acc:m2	nazwisko	
 Fronczewskie	Fronczewski	depr:pl:nom:m2	nazwisko	
 Fronczewskie	Fronczewski	depr:pl:voc:m2	nazwisko	
 Fronczewskiego	Fronczewski	subst:sg:acc:m1	nazwisko	
@@ -3694,6 +3838,7 @@ Frumencjuszach	Frumencjusz	subst:pl:loc:m1	imię
 Frumencjusza	Frumencjusz	subst:sg:acc:m1	imię	
 Frumencjusza	Frumencjusz	subst:sg:gen:m1	imię	
 Frumencjuszami	Frumencjusz	subst:pl:inst:m1	imię	
+Frumencjusze	Frumencjusz	depr:pl:acc:m2	imię	
 Frumencjusze	Frumencjusz	depr:pl:nom:m2	imię	
 Frumencjusze	Frumencjusz	depr:pl:voc:m2	imię	
 Frumencjusze	Frumencjusz	subst:pl:nom:m1	imię	
@@ -3712,6 +3857,7 @@ Frycach	Fryc	subst:pl:loc:m1	imię
 Fryca	Fryc	subst:sg:acc:m1	imię	
 Fryca	Fryc	subst:sg:gen:m1	imię	
 Frycami	Fryc	subst:pl:inst:m1	imię	
+Fryce	Fryc	depr:pl:acc:m2	imię	
 Fryce	Fryc	depr:pl:nom:m2	imię	
 Fryce	Fryc	depr:pl:voc:m2	imię	
 Fryce	Fryc	subst:pl:nom:m1	imię	
@@ -3732,6 +3878,7 @@ Frycka	Frycek	subst:sg:acc:m1	imię
 Frycka	Frycek	subst:sg:gen:m1	imię	
 Fryckami	Frycek	subst:pl:inst:m1	imię	
 Fryckiem	Frycek	subst:sg:inst:m1	imię	
+Frycki	Frycek	depr:pl:acc:m2	imię	
 Frycki	Frycek	depr:pl:nom:m2	imię	
 Frycki	Frycek	depr:pl:voc:m2	imię	
 Fryckom	Frycek	subst:pl:dat:m1	imię	
@@ -3746,6 +3893,7 @@ Fryczach	Frycz	subst:pl:loc:m1	nazwisko
 Frycza	Frycz	subst:sg:acc:m1	nazwisko	
 Frycza	Frycz	subst:sg:gen:m1	nazwisko	
 Fryczami	Frycz	subst:pl:inst:m1	nazwisko	
+Frycze	Frycz	depr:pl:acc:m2	nazwisko	
 Frycze	Frycz	depr:pl:nom:m2	nazwisko	
 Frycze	Frycz	depr:pl:voc:m2	nazwisko	
 Frycze	Frycz	subst:pl:nom:m1	nazwisko	
@@ -3780,6 +3928,7 @@ Frydka	Frydek	subst:sg:acc:m1	imię
 Frydka	Frydek	subst:sg:gen:m1	imię	
 Frydkami	Frydek	subst:pl:inst:m1	imię	
 Frydkiem	Frydek	subst:sg:inst:m1	imię	
+Frydki	Frydek	depr:pl:acc:m2	imię	
 Frydki	Frydek	depr:pl:nom:m2	imię	
 Frydki	Frydek	depr:pl:voc:m2	imię	
 Frydkom	Frydek	subst:pl:dat:m1	imię	
@@ -3796,6 +3945,7 @@ Fryderyczeka	Fryderyczek	subst:sg:gen:m1	imię
 Fryderyczekami	Fryderyczek	subst:pl:inst:m1	imię	
 Fryderyczek	Fryderyczek	subst:sg:nom:m1	imię	
 Fryderyczekiem	Fryderyczek	subst:sg:inst:m1	imię	
+Fryderyczeki	Fryderyczek	depr:pl:acc:m2	imię	
 Fryderyczeki	Fryderyczek	depr:pl:nom:m2	imię	
 Fryderyczeki	Fryderyczek	depr:pl:voc:m2	imię	
 Fryderyczekom	Fryderyczek	subst:pl:dat:m1	imię	
@@ -3812,6 +3962,7 @@ Fryderyka	Fryderyk	subst:sg:gen:m1	imię
 Fryderykami	Fryderyk	subst:pl:inst:m1	imię	
 Fryderyk	Fryderyk	subst:sg:nom:m1	imię	
 Fryderykiem	Fryderyk	subst:sg:inst:m1	imię	
+Fryderyki	Fryderyk	depr:pl:acc:m2	imię	
 Fryderyki	Fryderyk	depr:pl:nom:m2	imię	
 Fryderyki	Fryderyk	depr:pl:voc:m2	imię	
 Fryderykom	Fryderyk	subst:pl:dat:m1	imię	
@@ -3852,12 +4003,14 @@ Frydolinowie	Frydolin	subst:pl:voc:m1	imię
 Frydolinowi	Frydolin	subst:sg:dat:m1	imię	
 Frydolinów	Frydolin	subst:pl:acc:m1	imię	
 Frydolinów	Frydolin	subst:pl:gen:m1	imię	
+Frydoliny	Frydolin	depr:pl:acc:m2	imię	
 Frydoliny	Frydolin	depr:pl:nom:m2	imię	
 Frydoliny	Frydolin	depr:pl:voc:m2	imię	
 Frydziach	Frydzio	subst:pl:loc:m1	imię	
 Frydzia	Frydzio	subst:sg:acc:m1	imię	
 Frydzia	Frydzio	subst:sg:gen:m1	imię	
 Frydziami	Frydzio	subst:pl:inst:m1	imię	
+Frydzie	Frydzio	depr:pl:acc:m2	imię	
 Frydzie	Frydzio	depr:pl:nom:m2	imię	
 Frydzie	Frydzio	depr:pl:voc:m2	imię	
 Frydziem	Frydzio	subst:sg:inst:m1	imię	
@@ -3913,6 +4066,7 @@ Fryzowie	Fryz	subst:pl:voc:m1	nazwa pospolita
 Fryzowi	Fryz	subst:sg:dat:m1	nazwa pospolita	
 Fryzów	Fryz	subst:pl:acc:m1	nazwa pospolita	
 Fryzów	Fryz	subst:pl:gen:m1	nazwa pospolita	
+Fryzy	Fryz	depr:pl:acc:m2	nazwa pospolita	
 Fryzy	Fryz	depr:pl:nom:m2	nazwa pospolita	
 Fryzy	Fryz	depr:pl:voc:m2	nazwa pospolita	
 FSM-ach	FSM	subst:pl:loc:m3	nazwa firmy	
@@ -3985,6 +4139,7 @@ Fulbrightowie	Fulbright	subst:pl:voc:m1	nazwisko
 Fulbrightowi	Fulbright	subst:sg:dat:m1	nazwisko	
 Fulbrightów	Fulbright	subst:pl:acc:m1	nazwisko	
 Fulbrightów	Fulbright	subst:pl:gen:m1	nazwisko	
+Fulbrighty	Fulbright	depr:pl:acc:m2	nazwisko	
 Fulbrighty	Fulbright	depr:pl:nom:m2	nazwisko	
 Fulbrighty	Fulbright	depr:pl:voc:m2	nazwisko	
 Fundlandiach	Fundlandia	subst:pl:loc:f	człon nazwy geograficznej	
@@ -4016,6 +4171,7 @@ Funesowie	Funes	subst:pl:voc:m1	nazwisko
 Funesowi	Funes	subst:sg:dat:m1	nazwisko	
 Funesów	Funes	subst:pl:acc:m1	nazwisko	
 Funesów	Funes	subst:pl:gen:m1	nazwisko	
+Funesy	Funes	depr:pl:acc:m2	nazwisko	
 Funesy	Funes	depr:pl:nom:m2	nazwisko	
 Funesy	Funes	depr:pl:voc:m2	nazwisko	
 Funkach	Funk	subst:pl:loc:m1	nazwisko	
@@ -4024,6 +4180,7 @@ Funka	Funk	subst:sg:gen:m1	nazwisko
 Funkami	Funk	subst:pl:inst:m1	nazwisko	
 Funk	Funk	subst:sg:nom:m1	nazwisko	
 Funkiem	Funk	subst:sg:inst:m1	nazwisko	
+Funki	Funk	depr:pl:acc:m2	nazwisko	
 Funki	Funk	depr:pl:nom:m2	nazwisko	
 Funki	Funk	depr:pl:voc:m2	nazwisko	
 Funkom	Funk	subst:pl:dat:m1	nazwisko	

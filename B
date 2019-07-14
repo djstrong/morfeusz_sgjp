@@ -104,6 +104,7 @@ Babilończyka	Babilończyk	subst:sg:gen:m1	nazwa pospolita
 Babilończykach	Babilończyk	subst:pl:loc:m1	nazwa pospolita	
 Babilończykami	Babilończyk	subst:pl:inst:m1	nazwa pospolita	
 Babilończyk	Babilończyk	subst:sg:nom:m1	nazwa pospolita	
+Babilończyki	Babilończyk	depr:pl:acc:m2	nazwa pospolita	
 Babilończyki	Babilończyk	depr:pl:nom:m2	nazwa pospolita	
 Babilończyki	Babilończyk	depr:pl:voc:m2	nazwa pospolita	
 Babilończykiem	Babilończyk	subst:sg:inst:m1	nazwa pospolita	
@@ -156,6 +157,7 @@ Baboszewo	Baboszewo	subst:sg:nom:n:ncol	nazwa geograficzna
 Baboszewo	Baboszewo	subst:sg:voc:n:ncol	nazwa geograficzna	
 Baboszewom	Baboszewo	subst:pl:dat:n:ncol	nazwa geograficzna	
 Baboszewu	Baboszewo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bacciarelle	Bacciarelli	depr:pl:acc:m2	nazwisko	
 Bacciarelle	Bacciarelli	depr:pl:nom:m2	nazwisko	
 Bacciarelle	Bacciarelli	depr:pl:voc:m2	nazwisko	
 Bacciarellego	Bacciarelli	subst:sg:acc:m1	nazwisko	
@@ -200,6 +202,7 @@ Bachów	Bach	subst:pl:acc:m1	nazwisko
 Bachów	Bach	subst:pl:gen:m1	nazwisko	
 Bachu	Bach	subst:sg:loc:m1	nazwisko	
 Bachu	Bach	subst:sg:voc:m1	nazwisko	
+Bachy	Bach	depr:pl:acc:m2	nazwisko	
 Bachy	Bach	depr:pl:nom:m2	nazwisko	
 Bachy	Bach	depr:pl:voc:m2	nazwisko	
 Bachczysarai	Bachczysaraj	subst:pl:gen:m3	nazwa geograficzna	
@@ -228,6 +231,7 @@ Bachledowie	Bachleda	subst:pl:nom:m1	nazwisko
 Bachledowie	Bachleda	subst:pl:voc:m1	nazwisko	
 Bachledów	Bachleda	subst:pl:acc:m1	nazwisko	
 Bachledów	Bachleda	subst:pl:gen:m1	nazwisko	
+Bachledy	Bachleda	depr:pl:acc:m2	nazwisko	
 Bachledy	Bachleda	depr:pl:nom:m2	nazwisko	
 Bachledy	Bachleda	depr:pl:voc:m2	nazwisko	
 Bachledy	Bachleda	subst:sg:gen:m1	nazwisko	
@@ -261,6 +265,7 @@ Bachtinowie	Bachtin	subst:pl:nom:m1	nazwisko
 Bachtinowie	Bachtin	subst:pl:voc:m1	nazwisko	
 Bachtinów	Bachtin	subst:pl:acc:m1	nazwisko	
 Bachtinów	Bachtin	subst:pl:gen:m1	nazwisko	
+Bachtiny	Bachtin	depr:pl:acc:m2	nazwisko	
 Bachtiny	Bachtin	depr:pl:nom:m2	nazwisko	
 Bachtiny	Bachtin	depr:pl:voc:m2	nazwisko	
 Bachusa	Bachus	subst:sg:acc:m1	imię	mit.
@@ -279,6 +284,7 @@ Bachusowie	Bachus	subst:pl:nom:m1	imię	mit.
 Bachusowie	Bachus	subst:pl:voc:m1	imię	mit.
 Bachusów	Bachus	subst:pl:acc:m1	imię	mit.
 Bachusów	Bachus	subst:pl:gen:m1	imię	mit.
+Bachusy	Bachus	depr:pl:acc:m2	imię	mit.
 Bachusy	Bachus	depr:pl:nom:m2	imię	mit.
 Bachusy	Bachus	depr:pl:voc:m2	imię	mit.
 Bacona	Bacon	subst:sg:acc:m1	nazwisko	
@@ -295,6 +301,7 @@ Baconowie	Bacon	subst:pl:nom:m1	nazwisko
 Baconowie	Bacon	subst:pl:voc:m1	nazwisko	
 Baconów	Bacon	subst:pl:acc:m1	nazwisko	
 Baconów	Bacon	subst:pl:gen:m1	nazwisko	
+Bacony	Bacon	depr:pl:acc:m2	nazwisko	
 Bacony	Bacon	depr:pl:nom:m2	nazwisko	
 Bacony	Bacon	depr:pl:voc:m2	nazwisko	
 Baczewska	Baczewska	subst:sg:nom:f	nazwisko	
@@ -318,6 +325,7 @@ Baczewski	Baczewski	subst:sg:voc:m1	nazwisko
 Baczewskich	Baczewski	subst:pl:acc:m1	nazwisko	
 Baczewskich	Baczewski	subst:pl:gen:m1	nazwisko	
 Baczewskich	Baczewski	subst:pl:loc:m1	nazwisko	
+Baczewskie	Baczewski	depr:pl:acc:m2	nazwisko	
 Baczewskie	Baczewski	depr:pl:nom:m2	nazwisko	
 Baczewskie	Baczewski	depr:pl:voc:m2	nazwisko	
 Baczewskiego	Baczewski	subst:sg:acc:m1	nazwisko	
@@ -348,6 +356,7 @@ Baczyński	Baczyński	subst:sg:voc:m1	nazwisko
 Baczyńskich	Baczyński	subst:pl:acc:m1	nazwisko	
 Baczyńskich	Baczyński	subst:pl:gen:m1	nazwisko	
 Baczyńskich	Baczyński	subst:pl:loc:m1	nazwisko	
+Baczyńskie	Baczyński	depr:pl:acc:m2	nazwisko	
 Baczyńskie	Baczyński	depr:pl:nom:m2	nazwisko	
 Baczyńskie	Baczyński	depr:pl:voc:m2	nazwisko	
 Baczyńskiego	Baczyński	subst:sg:acc:m1	nazwisko	
@@ -385,6 +394,7 @@ Badenowie	Baden	subst:pl:nom:m1	nazwisko
 Badenowie	Baden	subst:pl:voc:m1	nazwisko	
 Badenów	Baden	subst:pl:acc:m1	nazwisko	
 Badenów	Baden	subst:pl:gen:m1	nazwisko	
+Badeny	Baden	depr:pl:acc:m2	nazwisko	
 Badeny	Baden	depr:pl:nom:m2	nazwisko	
 Badeny	Baden	depr:pl:voc:m2	nazwisko	
 Badeni	Badeni	subst:pl:nom:m1	nazwisko	
@@ -394,6 +404,7 @@ Badeni	Badeni	subst:sg:voc:m1	nazwisko
 Badenich	Badeni	subst:pl:acc:m1	nazwisko	
 Badenich	Badeni	subst:pl:gen:m1	nazwisko	
 Badenich	Badeni	subst:pl:loc:m1	nazwisko	
+Badenie	Badeni	depr:pl:acc:m2	nazwisko	
 Badenie	Badeni	depr:pl:nom:m2	nazwisko	
 Badenie	Badeni	depr:pl:voc:m2	nazwisko	
 Badeniego	Badeni	subst:sg:acc:m1	nazwisko	
@@ -441,6 +452,7 @@ Badowski	Badowski	subst:sg:voc:m1	nazwisko
 Badowskich	Badowski	subst:pl:acc:m1	nazwisko	
 Badowskich	Badowski	subst:pl:gen:m1	nazwisko	
 Badowskich	Badowski	subst:pl:loc:m1	nazwisko	
+Badowskie	Badowski	depr:pl:acc:m2	nazwisko	
 Badowskie	Badowski	depr:pl:nom:m2	nazwisko	
 Badowskie	Badowski	depr:pl:voc:m2	nazwisko	
 Badowskiego	Badowski	subst:sg:acc:m1	nazwisko	
@@ -462,6 +474,7 @@ Baedekerowie	Baedeker	subst:pl:nom:m1	nazwisko
 Baedekerowie	Baedeker	subst:pl:voc:m1	nazwisko	
 Baedekerów	Baedeker	subst:pl:acc:m1	nazwisko	
 Baedekerów	Baedeker	subst:pl:gen:m1	nazwisko	
+Baedekery	Baedeker	depr:pl:acc:m2	nazwisko	
 Baedekery	Baedeker	depr:pl:nom:m2	nazwisko	
 Baedekery	Baedeker	depr:pl:voc:m2	nazwisko	
 Baedekerze	Baedeker	subst:sg:loc:m1	nazwisko	
@@ -501,6 +514,7 @@ Bagiński	Bagiński	subst:sg:voc:m1	nazwisko
 Bagińskich	Bagiński	subst:pl:acc:m1	nazwisko	
 Bagińskich	Bagiński	subst:pl:gen:m1	nazwisko	
 Bagińskich	Bagiński	subst:pl:loc:m1	nazwisko	
+Bagińskie	Bagiński	depr:pl:acc:m2	nazwisko	
 Bagińskie	Bagiński	depr:pl:nom:m2	nazwisko	
 Bagińskie	Bagiński	depr:pl:voc:m2	nazwisko	
 Bagińskiego	Bagiński	subst:sg:acc:m1	nazwisko	
@@ -531,6 +545,7 @@ Bahamczyka	Bahamczyk	subst:sg:gen:m1	nazwa pospolita
 Bahamczykach	Bahamczyk	subst:pl:loc:m1	nazwa pospolita	
 Bahamczykami	Bahamczyk	subst:pl:inst:m1	nazwa pospolita	
 Bahamczyk	Bahamczyk	subst:sg:nom:m1	nazwa pospolita	
+Bahamczyki	Bahamczyk	depr:pl:acc:m2	nazwa pospolita	
 Bahamczyki	Bahamczyk	depr:pl:nom:m2	nazwa pospolita	
 Bahamczyki	Bahamczyk	depr:pl:voc:m2	nazwa pospolita	
 Bahamczykiem	Bahamczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -594,6 +609,7 @@ Bairdowie	Baird	subst:pl:nom:m1	nazwisko
 Bairdowie	Baird	subst:pl:voc:m1	nazwisko	
 Bairdów	Baird	subst:pl:acc:m1	nazwisko	
 Bairdów	Baird	subst:pl:gen:m1	nazwisko	
+Bairdy	Baird	depr:pl:acc:m2	nazwisko	
 Bairdy	Baird	depr:pl:nom:m2	nazwisko	
 Bairdy	Baird	depr:pl:voc:m2	nazwisko	
 Bairdzie	Baird	subst:sg:loc:m1	nazwisko	
@@ -654,6 +670,7 @@ Bajonowie	Bajon	subst:pl:nom:m1	nazwisko
 Bajonowie	Bajon	subst:pl:voc:m1	nazwisko	
 Bajonów	Bajon	subst:pl:acc:m1	nazwisko	
 Bajonów	Bajon	subst:pl:gen:m1	nazwisko	
+Bajony	Bajon	depr:pl:acc:m2	nazwisko	
 Bajony	Bajon	depr:pl:nom:m2	nazwisko	
 Bajony	Bajon	depr:pl:voc:m2	nazwisko	
 Bajramach	Bajram	subst:pl:loc:m3	nazwa święta	
@@ -701,6 +718,7 @@ Bakchusowie	Bakchus	subst:pl:nom:m1	imię
 Bakchusowie	Bakchus	subst:pl:voc:m1	imię	
 Bakchusów	Bakchus	subst:pl:acc:m1	imię	
 Bakchusów	Bakchus	subst:pl:gen:m1	imię	
+Bakchusy	Bakchus	depr:pl:acc:m2	imię	
 Bakchusy	Bakchus	depr:pl:nom:m2	imię	
 Bakchusy	Bakchus	depr:pl:voc:m2	imię	
 Baku	Baku	subst:pl:acc:n:ncol	nazwa geograficzna	
@@ -736,6 +754,7 @@ Balazsa	Balazs	subst:sg:gen:m1	nazwisko
 Balazsach	Balazs	subst:pl:loc:m1	nazwisko	
 Balazsami	Balazs	subst:pl:inst:m1	nazwisko	
 Balazs	Balazs	subst:sg:nom:m1	nazwisko	
+Balazse	Balazs	depr:pl:acc:m2	nazwisko	
 Balazse	Balazs	depr:pl:nom:m2	nazwisko	
 Balazse	Balazs	depr:pl:voc:m2	nazwisko	
 Balazsem	Balazs	subst:sg:inst:m1	nazwisko	
@@ -763,6 +782,7 @@ Balbinowie	Balbin	subst:pl:nom:m1	imię
 Balbinowie	Balbin	subst:pl:voc:m1	imię	
 Balbinów	Balbin	subst:pl:acc:m1	imię	
 Balbinów	Balbin	subst:pl:gen:m1	imię	
+Balbiny	Balbin	depr:pl:acc:m2	imię	
 Balbiny	Balbin	depr:pl:nom:m2	imię	
 Balbiny	Balbin	depr:pl:voc:m2	imię	
 Balbina	Balbina	subst:sg:nom:f	imię	
@@ -791,6 +811,7 @@ Balcerowie	Balcer	subst:pl:nom:m1	imię
 Balcerowie	Balcer	subst:pl:voc:m1	imię	
 Balcerów	Balcer	subst:pl:acc:m1	imię	
 Balcerów	Balcer	subst:pl:gen:m1	imię	
+Balcery	Balcer	depr:pl:acc:m2	imię	
 Balcery	Balcer	depr:pl:nom:m2	imię	
 Balcery	Balcer	depr:pl:voc:m2	imię	
 Balcerze	Balcer	subst:sg:loc:m1	imię	
@@ -802,6 +823,7 @@ Balcerowicza	Balcerowicz	subst:sg:gen:m1	nazwisko
 Balcerowiczach	Balcerowicz	subst:pl:loc:m1	nazwisko	
 Balcerowiczami	Balcerowicz	subst:pl:inst:m1	nazwisko	
 Balcerowicz	Balcerowicz	subst:sg:nom:m1	nazwisko	
+Balcerowicze	Balcerowicz	depr:pl:acc:m2	nazwisko	
 Balcerowicze	Balcerowicz	depr:pl:nom:m2	nazwisko	
 Balcerowicze	Balcerowicz	depr:pl:voc:m2	nazwisko	
 Balcerowicze	Balcerowicz	subst:pl:nom:m1	nazwisko	
@@ -820,6 +842,7 @@ Balcerzaka	Balcerzak	subst:sg:gen:m1	nazwisko
 Balcerzakach	Balcerzak	subst:pl:loc:m1	nazwisko	
 Balcerzakami	Balcerzak	subst:pl:inst:m1	nazwisko	
 Balcerzak	Balcerzak	subst:sg:nom:m1	nazwisko	
+Balcerzaki	Balcerzak	depr:pl:acc:m2	nazwisko	
 Balcerzaki	Balcerzak	depr:pl:nom:m2	nazwisko	
 Balcerzaki	Balcerzak	depr:pl:voc:m2	nazwisko	
 Balcerzakiem	Balcerzak	subst:sg:inst:m1	nazwisko	
@@ -852,6 +875,7 @@ Balicki	Balicki	subst:sg:voc:m1	nazwisko
 Balickich	Balicki	subst:pl:acc:m1	nazwisko	
 Balickich	Balicki	subst:pl:gen:m1	nazwisko	
 Balickich	Balicki	subst:pl:loc:m1	nazwisko	
+Balickie	Balicki	depr:pl:acc:m2	nazwisko	
 Balickie	Balicki	depr:pl:nom:m2	nazwisko	
 Balickie	Balicki	depr:pl:voc:m2	nazwisko	
 Balickiego	Balicki	subst:sg:acc:m1	nazwisko	
@@ -882,6 +906,7 @@ Baliński	Baliński	subst:sg:voc:m1	nazwisko
 Balińskich	Baliński	subst:pl:acc:m1	nazwisko	
 Balińskich	Baliński	subst:pl:gen:m1	nazwisko	
 Balińskich	Baliński	subst:pl:loc:m1	nazwisko	
+Balińskie	Baliński	depr:pl:acc:m2	nazwisko	
 Balińskie	Baliński	depr:pl:nom:m2	nazwisko	
 Balińskie	Baliński	depr:pl:voc:m2	nazwisko	
 Balińskiego	Baliński	subst:sg:acc:m1	nazwisko	
@@ -917,6 +942,7 @@ Baltazarowie	Baltazar	subst:pl:nom:m1	imię
 Baltazarowie	Baltazar	subst:pl:voc:m1	imię	
 Baltazarów	Baltazar	subst:pl:acc:m1	imię	
 Baltazarów	Baltazar	subst:pl:gen:m1	imię	
+Baltazary	Baltazar	depr:pl:acc:m2	imię	
 Baltazary	Baltazar	depr:pl:nom:m2	imię	
 Baltazary	Baltazar	depr:pl:voc:m2	imię	
 Baltazarze	Baltazar	subst:sg:loc:m1	imię	
@@ -948,6 +974,7 @@ Balzaców	Balzac	subst:pl:acc:m1	nazwisko
 Balzaców	Balzac	subst:pl:gen:m1	nazwisko	
 Balzacu	Balzac	subst:sg:loc:m1	nazwisko	
 Balzacu	Balzac	subst:sg:voc:m1	nazwisko	
+Balzaki	Balzac	depr:pl:acc:m2	nazwisko	
 Balzaki	Balzac	depr:pl:nom:m2	nazwisko	
 Balzaki	Balzac	depr:pl:voc:m2	nazwisko	
 Balzakiem	Balzac	subst:sg:inst:m1	nazwisko	
@@ -956,6 +983,7 @@ Balzaka	Balzak	subst:sg:gen:m1	nazwisko
 Balzakach	Balzak	subst:pl:loc:m1	nazwisko	
 Balzakami	Balzak	subst:pl:inst:m1	nazwisko	
 Balzak	Balzak	subst:sg:nom:m1	nazwisko	
+Balzaki	Balzak	depr:pl:acc:m2	nazwisko	
 Balzaki	Balzak	depr:pl:nom:m2	nazwisko	
 Balzaki	Balzak	depr:pl:voc:m2	nazwisko	
 Balzakiem	Balzak	subst:sg:inst:m1	nazwisko	
@@ -1010,6 +1038,7 @@ Bałtowie	Bałt	subst:pl:nom:m1	nazwa pospolita
 Bałtowie	Bałt	subst:pl:voc:m1	nazwa pospolita	
 Bałtów	Bałt	subst:pl:acc:m1	nazwa pospolita	
 Bałtów	Bałt	subst:pl:gen:m1	nazwa pospolita	
+Bałty	Bałt	depr:pl:acc:m2	nazwa pospolita	
 Bałty	Bałt	depr:pl:nom:m2	nazwa pospolita	
 Bałty	Bałt	depr:pl:voc:m2	nazwa pospolita	
 Bałtosłowianach	Bałtosłowianin	subst:pl:loc:m1	nazwa pospolita	
@@ -1026,6 +1055,7 @@ Bałtosłowianinie	Bałtosłowianin	subst:sg:loc:m1	nazwa pospolita
 Bałtosłowianinie	Bałtosłowianin	subst:sg:voc:m1	nazwa pospolita	
 Bałtosłowianinowi	Bałtosłowianin	subst:sg:dat:m1	nazwa pospolita	
 Bałtosłowianom	Bałtosłowianin	subst:pl:dat:m1	nazwa pospolita	
+Bałtosłowiany	Bałtosłowianin	depr:pl:acc:m2	nazwa pospolita	
 Bałtosłowiany	Bałtosłowianin	depr:pl:nom:m2	nazwa pospolita	
 Bałtosłowiany	Bałtosłowianin	depr:pl:voc:m2	nazwa pospolita	
 Bałtowa	Bałtów	subst:sg:gen:m3	nazwa geograficzna	
@@ -1078,6 +1108,7 @@ Bałucki	Bałucki	subst:sg:voc:m1	nazwisko
 Bałuckich	Bałucki	subst:pl:acc:m1	nazwisko	
 Bałuckich	Bałucki	subst:pl:gen:m1	nazwisko	
 Bałuckich	Bałucki	subst:pl:loc:m1	nazwisko	
+Bałuckie	Bałucki	depr:pl:acc:m2	nazwisko	
 Bałuckie	Bałucki	depr:pl:nom:m2	nazwisko	
 Bałuckie	Bałucki	depr:pl:voc:m2	nazwisko	
 Bałuckiego	Bałucki	subst:sg:acc:m1	nazwisko	
@@ -1087,6 +1118,7 @@ Bałuckim	Bałucki	subst:pl:dat:m1	nazwisko
 Bałuckim	Bałucki	subst:sg:inst:m1	nazwisko	
 Bałuckim	Bałucki	subst:sg:loc:m1	nazwisko	
 Bałuckimi	Bałucki	subst:pl:inst:m1	nazwisko	
+Bambo	Bambo	depr:pl:acc:m2	imię	
 Bambo	Bambo	depr:pl:nom:m2	imię	
 Bambo	Bambo	depr:pl:voc:m2	imię	
 Bambo	Bambo	subst:pl:acc:m1	imię	
@@ -1117,6 +1149,7 @@ Banachów	Banach	subst:pl:acc:m1	nazwisko
 Banachów	Banach	subst:pl:gen:m1	nazwisko	
 Banachu	Banach	subst:sg:loc:m1	nazwisko	
 Banachu	Banach	subst:sg:voc:m1	nazwisko	
+Banachy	Banach	depr:pl:acc:m2	nazwisko	
 Banachy	Banach	depr:pl:nom:m2	nazwisko	
 Banachy	Banach	depr:pl:voc:m2	nazwisko	
 Banachiewicza	Banachiewicz	subst:sg:acc:m1	nazwisko	
@@ -1124,6 +1157,7 @@ Banachiewicza	Banachiewicz	subst:sg:gen:m1	nazwisko
 Banachiewiczach	Banachiewicz	subst:pl:loc:m1	nazwisko	
 Banachiewiczami	Banachiewicz	subst:pl:inst:m1	nazwisko	
 Banachiewicz	Banachiewicz	subst:sg:nom:m1	nazwisko	
+Banachiewicze	Banachiewicz	depr:pl:acc:m2	nazwisko	
 Banachiewicze	Banachiewicz	depr:pl:nom:m2	nazwisko	
 Banachiewicze	Banachiewicz	depr:pl:voc:m2	nazwisko	
 Banachiewicze	Banachiewicz	subst:pl:nom:m1	nazwisko	
@@ -1142,6 +1176,7 @@ Banasiaka	Banasiak	subst:sg:gen:m1	nazwisko
 Banasiakach	Banasiak	subst:pl:loc:m1	nazwisko	
 Banasiakami	Banasiak	subst:pl:inst:m1	nazwisko	
 Banasiak	Banasiak	subst:sg:nom:m1	nazwisko	
+Banasiaki	Banasiak	depr:pl:acc:m2	nazwisko	
 Banasiaki	Banasiak	depr:pl:nom:m2	nazwisko	
 Banasiaki	Banasiak	depr:pl:voc:m2	nazwisko	
 Banasiakiem	Banasiak	subst:sg:inst:m1	nazwisko	
@@ -1158,6 +1193,7 @@ Banaszaka	Banaszak	subst:sg:gen:m1	nazwisko
 Banaszakach	Banaszak	subst:pl:loc:m1	nazwisko	
 Banaszakami	Banaszak	subst:pl:inst:m1	nazwisko	
 Banaszak	Banaszak	subst:sg:nom:m1	nazwisko	
+Banaszaki	Banaszak	depr:pl:acc:m2	nazwisko	
 Banaszaki	Banaszak	depr:pl:nom:m2	nazwisko	
 Banaszaki	Banaszak	depr:pl:voc:m2	nazwisko	
 Banaszakiem	Banaszak	subst:sg:inst:m1	nazwisko	
@@ -1173,6 +1209,7 @@ Banasia	Banaś	subst:sg:acc:m1	nazwisko
 Banasia	Banaś	subst:sg:gen:m1	nazwisko	
 Banasiach	Banaś	subst:pl:loc:m1	nazwisko	
 Banasiami	Banaś	subst:pl:inst:m1	nazwisko	
+Banasie	Banaś	depr:pl:acc:m2	nazwisko	
 Banasie	Banaś	depr:pl:nom:m2	nazwisko	
 Banasie	Banaś	depr:pl:voc:m2	nazwisko	
 Banasiem	Banaś	subst:sg:inst:m1	nazwisko	
@@ -1199,6 +1236,7 @@ Banderasowie	Banderas	subst:pl:nom:m1	nazwisko
 Banderasowie	Banderas	subst:pl:voc:m1	nazwisko	
 Banderasów	Banderas	subst:pl:acc:m1	nazwisko	
 Banderasów	Banderas	subst:pl:gen:m1	nazwisko	
+Banderasy	Banderas	depr:pl:acc:m2	nazwisko	
 Banderasy	Banderas	depr:pl:nom:m2	nazwisko	
 Banderasy	Banderas	depr:pl:voc:m2	nazwisko	
 Bandrowska	Bandrowska	subst:sg:nom:f	nazwisko	
@@ -1222,6 +1260,7 @@ Bandrowski	Bandrowski	subst:sg:voc:m1	nazwisko
 Bandrowskich	Bandrowski	subst:pl:acc:m1	nazwisko	
 Bandrowskich	Bandrowski	subst:pl:gen:m1	nazwisko	
 Bandrowskich	Bandrowski	subst:pl:loc:m1	nazwisko	
+Bandrowskie	Bandrowski	depr:pl:acc:m2	nazwisko	
 Bandrowskie	Bandrowski	depr:pl:nom:m2	nazwisko	
 Bandrowskie	Bandrowski	depr:pl:voc:m2	nazwisko	
 Bandrowskiego	Bandrowski	subst:sg:acc:m1	nazwisko	
@@ -1236,6 +1275,7 @@ Bandtkami	Bandtkie	subst:pl:inst:m1	nazwisko
 Bandtkich	Bandtkie	subst:pl:acc:m1	nazwisko	
 Bandtkich	Bandtkie	subst:pl:gen:m1	nazwisko	
 Bandtkich	Bandtkie	subst:pl:loc:m1	nazwisko	
+Bandtkie	Bandtkie	depr:pl:acc:m2	nazwisko	
 Bandtkie	Bandtkie	depr:pl:nom:m2	nazwisko	
 Bandtkie	Bandtkie	depr:pl:voc:m2	nazwisko	
 Bandtkie	Bandtkie	subst:sg:nom:m1	nazwisko	
@@ -1273,6 +1313,7 @@ Bandurski	Bandurski	subst:sg:voc:m1	nazwisko
 Bandurskich	Bandurski	subst:pl:acc:m1	nazwisko	
 Bandurskich	Bandurski	subst:pl:gen:m1	nazwisko	
 Bandurskich	Bandurski	subst:pl:loc:m1	nazwisko	
+Bandurskie	Bandurski	depr:pl:acc:m2	nazwisko	
 Bandurskie	Bandurski	depr:pl:nom:m2	nazwisko	
 Bandurskie	Bandurski	depr:pl:voc:m2	nazwisko	
 Bandurskiego	Bandurski	subst:sg:acc:m1	nazwisko	
@@ -1317,6 +1358,7 @@ Banglijczyka	Banglijczyk	subst:sg:gen:m1	nazwa pospolita
 Banglijczykach	Banglijczyk	subst:pl:loc:m1	nazwa pospolita	
 Banglijczykami	Banglijczyk	subst:pl:inst:m1	nazwa pospolita	
 Banglijczyk	Banglijczyk	subst:sg:nom:m1	nazwa pospolita	
+Banglijczyki	Banglijczyk	depr:pl:acc:m2	nazwa pospolita	
 Banglijczyki	Banglijczyk	depr:pl:nom:m2	nazwa pospolita	
 Banglijczyki	Banglijczyk	depr:pl:voc:m2	nazwa pospolita	
 Banglijczykiem	Banglijczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -1347,6 +1389,7 @@ Banią	Bania	subst:sg:inst:m1	nazwisko
 Bani	Bania	subst:sg:dat:m1	nazwisko	
 Bani	Bania	subst:sg:gen:m1	nazwisko	
 Bani	Bania	subst:sg:loc:m1	nazwisko	
+Banie	Bania	depr:pl:acc:m2	nazwisko	
 Banie	Bania	depr:pl:nom:m2	nazwisko	
 Banie	Bania	depr:pl:voc:m2	nazwisko	
 Banię	Bania	subst:sg:acc:m1	nazwisko	
@@ -1357,6 +1400,7 @@ Baniowie	Bania	subst:pl:voc:m1	nazwisko
 Baniów	Bania	subst:pl:acc:m1	nazwisko	
 Baniów	Bania	subst:pl:gen:m1	nazwisko	
 Banja	Banja	burk		
+Bantu	Bantu	depr:pl:acc:m2	nazwa pospolita	
 Bantu	Bantu	depr:pl:nom:m2	nazwa pospolita	
 Bantu	Bantu	depr:pl:voc:m2	nazwa pospolita	
 Bantu	Bantu	subst:pl:acc:m1	nazwa pospolita	
@@ -1394,6 +1438,7 @@ Bańkowski	Bańkowski	subst:sg:voc:m1	nazwisko
 Bańkowskich	Bańkowski	subst:pl:acc:m1	nazwisko	
 Bańkowskich	Bańkowski	subst:pl:gen:m1	nazwisko	
 Bańkowskich	Bańkowski	subst:pl:loc:m1	nazwisko	
+Bańkowskie	Bańkowski	depr:pl:acc:m2	nazwisko	
 Bańkowskie	Bańkowski	depr:pl:nom:m2	nazwisko	
 Bańkowskie	Bańkowski	depr:pl:voc:m2	nazwisko	
 Bańkowskiego	Bańkowski	subst:sg:acc:m1	nazwisko	
@@ -1414,6 +1459,7 @@ Baptystowie	Baptysta	subst:pl:nom:m1	imię
 Baptystowie	Baptysta	subst:pl:voc:m1	imię	
 Baptystów	Baptysta	subst:pl:acc:m1	imię	
 Baptystów	Baptysta	subst:pl:gen:m1	imię	
+Baptysty	Baptysta	depr:pl:acc:m2	imię	
 Baptysty	Baptysta	depr:pl:nom:m2	imię	
 Baptysty	Baptysta	depr:pl:voc:m2	imię	
 Baptysty	Baptysta	subst:sg:gen:m1	imię	
@@ -1438,6 +1484,7 @@ Barabasza	Barabasz	subst:sg:gen:m1	imię
 Barabaszach	Barabasz	subst:pl:loc:m1	imię	
 Barabaszami	Barabasz	subst:pl:inst:m1	imię	
 Barabasz	Barabasz	subst:sg:nom:m1	imię	
+Barabasze	Barabasz	depr:pl:acc:m2	imię	
 Barabasze	Barabasz	depr:pl:nom:m2	imię	
 Barabasze	Barabasz	depr:pl:voc:m2	imię	
 Barabasze	Barabasz	subst:pl:nom:m1	imię	
@@ -1488,6 +1535,7 @@ Baranowski	Baranowski	subst:sg:voc:m1	nazwisko
 Baranowskich	Baranowski	subst:pl:acc:m1	nazwisko	
 Baranowskich	Baranowski	subst:pl:gen:m1	nazwisko	
 Baranowskich	Baranowski	subst:pl:loc:m1	nazwisko	
+Baranowskie	Baranowski	depr:pl:acc:m2	nazwisko	
 Baranowskie	Baranowski	depr:pl:nom:m2	nazwisko	
 Baranowskie	Baranowski	depr:pl:voc:m2	nazwisko	
 Baranowskiego	Baranowski	subst:sg:acc:m1	nazwisko	
@@ -1526,6 +1574,7 @@ Baranowie	Baran:s1	subst:pl:nom:m1	nazwisko
 Baranowie	Baran:s1	subst:pl:voc:m1	nazwisko	
 Baranów	Baran:s1	subst:pl:acc:m1	nazwisko	
 Baranów	Baran:s1	subst:pl:gen:m1	nazwisko	
+Barany	Baran:s1	depr:pl:acc:m2	nazwisko	
 Barany	Baran:s1	depr:pl:nom:m2	nazwisko	
 Barany	Baran:s1	depr:pl:voc:m2	nazwisko	
 Barana	Baran:s2	subst:sg:acc:m2	nazwa własna astronomiczna	
@@ -1547,6 +1596,7 @@ Barańczaka	Barańczak	subst:sg:gen:m1	nazwisko
 Barańczakach	Barańczak	subst:pl:loc:m1	nazwisko	
 Barańczakami	Barańczak	subst:pl:inst:m1	nazwisko	
 Barańczak	Barańczak	subst:sg:nom:m1	nazwisko	
+Barańczaki	Barańczak	depr:pl:acc:m2	nazwisko	
 Barańczaki	Barańczak	depr:pl:nom:m2	nazwisko	
 Barańczaki	Barańczak	depr:pl:voc:m2	nazwisko	
 Barańczakiem	Barańczak	subst:sg:inst:m1	nazwisko	
@@ -1579,6 +1629,7 @@ Barański	Barański	subst:sg:voc:m1	nazwisko
 Barańskich	Barański	subst:pl:acc:m1	nazwisko	
 Barańskich	Barański	subst:pl:gen:m1	nazwisko	
 Barańskich	Barański	subst:pl:loc:m1	nazwisko	
+Barańskie	Barański	depr:pl:acc:m2	nazwisko	
 Barańskie	Barański	depr:pl:nom:m2	nazwisko	
 Barańskie	Barański	depr:pl:voc:m2	nazwisko	
 Barańskiego	Barański	subst:sg:acc:m1	nazwisko	
@@ -1614,6 +1665,7 @@ Barbarowie	Barbar	subst:pl:nom:m1	imię
 Barbarowie	Barbar	subst:pl:voc:m1	imię	
 Barbarów	Barbar	subst:pl:acc:m1	imię	
 Barbarów	Barbar	subst:pl:gen:m1	imię	
+Barbary	Barbar	depr:pl:acc:m2	imię	
 Barbary	Barbar	depr:pl:nom:m2	imię	
 Barbary	Barbar	depr:pl:voc:m2	imię	
 Barbarze	Barbar	subst:sg:loc:m1	imię	
@@ -1711,6 +1763,7 @@ Barcikowski	Barcikowski	subst:sg:voc:m1	nazwisko
 Barcikowskich	Barcikowski	subst:pl:acc:m1	nazwisko	
 Barcikowskich	Barcikowski	subst:pl:gen:m1	nazwisko	
 Barcikowskich	Barcikowski	subst:pl:loc:m1	nazwisko	
+Barcikowskie	Barcikowski	depr:pl:acc:m2	nazwisko	
 Barcikowskie	Barcikowski	depr:pl:nom:m2	nazwisko	
 Barcikowskie	Barcikowski	depr:pl:voc:m2	nazwisko	
 Barcikowskiego	Barcikowski	subst:sg:acc:m1	nazwisko	
@@ -1741,6 +1794,7 @@ Bardini	Bardini	subst:sg:voc:m1	nazwisko
 Bardinich	Bardini	subst:pl:acc:m1	nazwisko	
 Bardinich	Bardini	subst:pl:gen:m1	nazwisko	
 Bardinich	Bardini	subst:pl:loc:m1	nazwisko	
+Bardinie	Bardini	depr:pl:acc:m2	nazwisko	
 Bardinie	Bardini	depr:pl:nom:m2	nazwisko	
 Bardinie	Bardini	depr:pl:voc:m2	nazwisko	
 Bardiniego	Bardini	subst:sg:acc:m1	nazwisko	
@@ -1766,6 +1820,7 @@ Bardotowie	Bardot	subst:pl:nom:m1	nazwisko
 Bardotowie	Bardot	subst:pl:voc:m1	nazwisko	
 Bardotów	Bardot	subst:pl:acc:m1	nazwisko	
 Bardotów	Bardot	subst:pl:gen:m1	nazwisko	
+Bardoty	Bardot	depr:pl:acc:m2	nazwisko	
 Bardoty	Bardot	depr:pl:nom:m2	nazwisko	
 Bardoty	Bardot	depr:pl:voc:m2	nazwisko	
 Barei	Bareja	subst:sg:dat:m1	nazwisko	
@@ -1775,6 +1830,7 @@ Bareja	Bareja	subst:sg:nom:m1	nazwisko
 Barejach	Bareja	subst:pl:loc:m1	nazwisko	
 Barejami	Bareja	subst:pl:inst:m1	nazwisko	
 Bareją	Bareja	subst:sg:inst:m1	nazwisko	
+Bareje	Bareja	depr:pl:acc:m2	nazwisko	
 Bareje	Bareja	depr:pl:nom:m2	nazwisko	
 Bareje	Bareja	depr:pl:voc:m2	nazwisko	
 Bareję	Bareja	subst:sg:acc:m1	nazwisko	
@@ -1798,6 +1854,7 @@ Barentsowie	Barents	subst:pl:nom:m1	nazwisko
 Barentsowie	Barents	subst:pl:voc:m1	nazwisko	
 Barentsów	Barents	subst:pl:acc:m1	nazwisko	
 Barentsów	Barents	subst:pl:gen:m1	nazwisko	
+Barentsy	Barents	depr:pl:acc:m2	nazwisko	
 Barentsy	Barents	depr:pl:nom:m2	nazwisko	
 Barentsy	Barents	depr:pl:voc:m2	nazwisko	
 Bargłowa	Bargłów	subst:sg:gen:m3	nazwa geograficzna	
@@ -1828,6 +1885,7 @@ Barnabowie	Barnaba	subst:pl:nom:m1	imię
 Barnabowie	Barnaba	subst:pl:voc:m1	imię	
 Barnabów	Barnaba	subst:pl:acc:m1	imię	
 Barnabów	Barnaba	subst:pl:gen:m1	imię	
+Barnaby	Barnaba	depr:pl:acc:m2	imię	
 Barnaby	Barnaba	depr:pl:nom:m2	imię	
 Barnaby	Barnaba	depr:pl:voc:m2	imię	
 Barnaby	Barnaba	subst:sg:gen:m1	imię	
@@ -1835,6 +1893,7 @@ Barnasia	Barnaś	subst:sg:acc:m1	nazwisko
 Barnasia	Barnaś	subst:sg:gen:m1	nazwisko	
 Barnasiach	Barnaś	subst:pl:loc:m1	nazwisko	
 Barnasiami	Barnaś	subst:pl:inst:m1	nazwisko	
+Barnasie	Barnaś	depr:pl:acc:m2	nazwisko	
 Barnasie	Barnaś	depr:pl:nom:m2	nazwisko	
 Barnasie	Barnaś	depr:pl:voc:m2	nazwisko	
 Barnasie	Barnaś	subst:pl:nom:m1	nazwisko	
@@ -1863,8 +1922,10 @@ Barraultowie	Barrault	subst:pl:nom:m1	nazwisko
 Barraultowie	Barrault	subst:pl:voc:m1	nazwisko	
 Barraultów	Barrault	subst:pl:acc:m1	nazwisko	
 Barraultów	Barrault	subst:pl:gen:m1	nazwisko	
+Barraulty	Barrault	depr:pl:acc:m2	nazwisko	
 Barraulty	Barrault	depr:pl:nom:m2	nazwisko	
 Barraulty	Barrault	depr:pl:voc:m2	nazwisko	
+Barrès	Barrès	depr:pl:acc:m2	nazwisko	
 Barrès	Barrès	depr:pl:nom:m2	nazwisko	
 Barrès	Barrès	depr:pl:voc:m2	nazwisko	
 Barrès	Barrès	subst:pl:acc:m1	nazwisko	
@@ -1881,6 +1942,7 @@ Barrès’go	Barrès	subst:sg:gen:m1	nazwisko
 Barrès’m	Barrès	subst:sg:inst:m1	nazwisko	
 Barrès’m	Barrès	subst:sg:loc:m1	nazwisko	
 Barrès’mu	Barrès	subst:sg:dat:m1	nazwisko	
+Barrie	Barrie	depr:pl:acc:m2	nazwisko	
 Barrie	Barrie	depr:pl:nom:m2	nazwisko	
 Barrie	Barrie	depr:pl:voc:m2	nazwisko	
 Barrie	Barrie	subst:pl:nom:m1	nazwisko	
@@ -1913,6 +1975,7 @@ Barsabasowie	Barsabas	subst:pl:nom:m1	imię
 Barsabasowie	Barsabas	subst:pl:voc:m1	imię	
 Barsabasów	Barsabas	subst:pl:acc:m1	imię	
 Barsabasów	Barsabas	subst:pl:gen:m1	imię	
+Barsabasy	Barsabas	depr:pl:acc:m2	imię	
 Barsabasy	Barsabas	depr:pl:nom:m2	imię	
 Barsabasy	Barsabas	depr:pl:voc:m2	imię	
 Barszczewska	Barszczewska	subst:sg:nom:f	nazwisko	
@@ -1936,6 +1999,7 @@ Barszczewski	Barszczewski	subst:sg:voc:m1	nazwisko
 Barszczewskich	Barszczewski	subst:pl:acc:m1	nazwisko	
 Barszczewskich	Barszczewski	subst:pl:gen:m1	nazwisko	
 Barszczewskich	Barszczewski	subst:pl:loc:m1	nazwisko	
+Barszczewskie	Barszczewski	depr:pl:acc:m2	nazwisko	
 Barszczewskie	Barszczewski	depr:pl:nom:m2	nazwisko	
 Barszczewskie	Barszczewski	depr:pl:voc:m2	nazwisko	
 Barszczewskiego	Barszczewski	subst:sg:acc:m1	nazwisko	
@@ -1950,6 +2014,7 @@ Bartczaka	Bartczak	subst:sg:gen:m1	nazwisko
 Bartczakach	Bartczak	subst:pl:loc:m1	nazwisko	
 Bartczakami	Bartczak	subst:pl:inst:m1	nazwisko	
 Bartczak	Bartczak	subst:sg:nom:m1	nazwisko	
+Bartczaki	Bartczak	depr:pl:acc:m2	nazwisko	
 Bartczaki	Bartczak	depr:pl:nom:m2	nazwisko	
 Bartczaki	Bartczak	depr:pl:voc:m2	nazwisko	
 Bartczakiem	Bartczak	subst:sg:inst:m1	nazwisko	
@@ -1966,6 +2031,7 @@ Bartka	Bartek	subst:sg:acc:m1	imię
 Bartka	Bartek	subst:sg:gen:m1	imię	
 Bartkach	Bartek	subst:pl:loc:m1	imię	
 Bartkami	Bartek	subst:pl:inst:m1	imię	
+Bartki	Bartek	depr:pl:acc:m2	imię	
 Bartki	Bartek	depr:pl:nom:m2	imię	
 Bartki	Bartek	depr:pl:voc:m2	imię	
 Bartkiem	Bartek	subst:sg:inst:m1	imię	
@@ -1991,6 +2057,7 @@ Barthes’owie	Barthes	subst:pl:nom:m1	nazwisko
 Barthes’owie	Barthes	subst:pl:voc:m1	nazwisko	
 Barthes’ów	Barthes	subst:pl:acc:m1	nazwisko	
 Barthes’ów	Barthes	subst:pl:gen:m1	nazwisko	
+Barthes’y	Barthes	depr:pl:acc:m2	nazwisko	
 Barthes’y	Barthes	depr:pl:nom:m2	nazwisko	
 Barthes’y	Barthes	depr:pl:voc:m2	nazwisko	
 Bartkowiaka	Bartkowiak	subst:sg:acc:m1	nazwisko	
@@ -1998,6 +2065,7 @@ Bartkowiaka	Bartkowiak	subst:sg:gen:m1	nazwisko
 Bartkowiakach	Bartkowiak	subst:pl:loc:m1	nazwisko	
 Bartkowiakami	Bartkowiak	subst:pl:inst:m1	nazwisko	
 Bartkowiak	Bartkowiak	subst:sg:nom:m1	nazwisko	
+Bartkowiaki	Bartkowiak	depr:pl:acc:m2	nazwisko	
 Bartkowiaki	Bartkowiak	depr:pl:nom:m2	nazwisko	
 Bartkowiaki	Bartkowiak	depr:pl:voc:m2	nazwisko	
 Bartkowiakiem	Bartkowiak	subst:sg:inst:m1	nazwisko	
@@ -2014,6 +2082,7 @@ Bartłomieja	Bartłomiej	subst:sg:gen:m1	imię
 Bartłomiejach	Bartłomiej	subst:pl:loc:m1	imię	
 Bartłomiejami	Bartłomiej	subst:pl:inst:m1	imię	
 Bartłomiej	Bartłomiej	subst:sg:nom:m1	imię	
+Bartłomieje	Bartłomiej	depr:pl:acc:m2	imię	
 Bartłomieje	Bartłomiej	depr:pl:nom:m2	imię	
 Bartłomieje	Bartłomiej	depr:pl:voc:m2	imię	
 Bartłomieje	Bartłomiej	subst:pl:nom:m1	imię	
@@ -2032,6 +2101,7 @@ Bartodzieja	Bartodziej	subst:sg:gen:m1	imię|nazwisko
 Bartodziejach	Bartodziej	subst:pl:loc:m1	imię|nazwisko	
 Bartodziejami	Bartodziej	subst:pl:inst:m1	imię|nazwisko	
 Bartodziej	Bartodziej	subst:sg:nom:m1	imię|nazwisko	
+Bartodzieje	Bartodziej	depr:pl:acc:m2	imię|nazwisko	
 Bartodzieje	Bartodziej	depr:pl:nom:m2	imię|nazwisko	
 Bartodzieje	Bartodziej	depr:pl:voc:m2	imię|nazwisko	
 Bartodzieje	Bartodziej	subst:pl:nom:m1	imię|nazwisko	
@@ -2050,6 +2120,7 @@ Bartoka	Bartok	subst:sg:gen:m1	nazwisko
 Bartokach	Bartok	subst:pl:loc:m1	nazwisko	
 Bartokami	Bartok	subst:pl:inst:m1	nazwisko	
 Bartok	Bartok	subst:sg:nom:m1	nazwisko	
+Bartoki	Bartok	depr:pl:acc:m2	nazwisko	
 Bartoki	Bartok	depr:pl:nom:m2	nazwisko	
 Bartoki	Bartok	depr:pl:voc:m2	nazwisko	
 Bartokiem	Bartok	subst:sg:inst:m1	nazwisko	
@@ -2080,6 +2151,7 @@ Bartosza	Bartosz	subst:sg:gen:m1	imię
 Bartoszach	Bartosz	subst:pl:loc:m1	imię	
 Bartoszami	Bartosz	subst:pl:inst:m1	imię	
 Bartosz	Bartosz	subst:sg:nom:m1	imię	
+Bartosze	Bartosz	depr:pl:acc:m2	imię	
 Bartosze	Bartosz	depr:pl:nom:m2	imię	
 Bartosze	Bartosz	depr:pl:voc:m2	imię	
 Bartosze	Bartosz	subst:pl:nom:m1	imię	
@@ -2095,6 +2167,7 @@ Bartoszu	Bartosz	subst:sg:loc:m1	imię
 Bartoszu	Bartosz	subst:sg:voc:m1	imię	
 Bartoszczach	Bartoszcze	subst:pl:loc:m1	nazwisko	
 Bartoszczami	Bartoszcze	subst:pl:inst:m1	nazwisko	
+Bartoszcze	Bartoszcze	depr:pl:acc:m2	nazwisko	
 Bartoszcze	Bartoszcze	depr:pl:nom:m2	nazwisko	
 Bartoszcze	Bartoszcze	depr:pl:voc:m2	nazwisko	
 Bartoszcze	Bartoszcze	subst:pl:acc:m1	nazwisko	
@@ -2126,6 +2199,7 @@ Bartoszka	Bartoszek	subst:sg:acc:m1	imię
 Bartoszka	Bartoszek	subst:sg:gen:m1	imię	
 Bartoszkach	Bartoszek	subst:pl:loc:m1	imię	
 Bartoszkami	Bartoszek	subst:pl:inst:m1	imię	
+Bartoszki	Bartoszek	depr:pl:acc:m2	imię	
 Bartoszki	Bartoszek	depr:pl:nom:m2	imię	
 Bartoszki	Bartoszek	depr:pl:voc:m2	imię	
 Bartoszkiem	Bartoszek	subst:sg:inst:m1	imię	
@@ -2158,6 +2232,7 @@ Bartoszewski	Bartoszewski	subst:sg:voc:m1	nazwisko
 Bartoszewskich	Bartoszewski	subst:pl:acc:m1	nazwisko	
 Bartoszewskich	Bartoszewski	subst:pl:gen:m1	nazwisko	
 Bartoszewskich	Bartoszewski	subst:pl:loc:m1	nazwisko	
+Bartoszewskie	Bartoszewski	depr:pl:acc:m2	nazwisko	
 Bartoszewskie	Bartoszewski	depr:pl:nom:m2	nazwisko	
 Bartoszewskie	Bartoszewski	depr:pl:voc:m2	nazwisko	
 Bartoszewskiego	Bartoszewski	subst:sg:acc:m1	nazwisko	
@@ -2186,6 +2261,7 @@ Bartóka	Bartók	subst:sg:gen:m1	nazwisko
 Bartókach	Bartók	subst:pl:loc:m1	nazwisko	
 Bartókami	Bartók	subst:pl:inst:m1	nazwisko	
 Bartók	Bartók	subst:sg:nom:m1	nazwisko	
+Bartóki	Bartók	depr:pl:acc:m2	nazwisko	
 Bartóki	Bartók	depr:pl:nom:m2	nazwisko	
 Bartóki	Bartók	depr:pl:voc:m2	nazwisko	
 Bartókiem	Bartók	subst:sg:inst:m1	nazwisko	
@@ -2201,6 +2277,7 @@ Bartusia	Bartuś	subst:sg:acc:m1	imię
 Bartusia	Bartuś	subst:sg:gen:m1	imię	
 Bartusiach	Bartuś	subst:pl:loc:m1	imię	
 Bartusiami	Bartuś	subst:pl:inst:m1	imię	
+Bartusie	Bartuś	depr:pl:acc:m2	imię	
 Bartusie	Bartuś	depr:pl:nom:m2	imię	
 Bartusie	Bartuś	depr:pl:voc:m2	imię	
 Bartusie	Bartuś	subst:pl:nom:m1	imię	
@@ -2229,6 +2306,7 @@ Baruchów	Baruch	subst:pl:acc:m1	imię|nazwisko
 Baruchów	Baruch	subst:pl:gen:m1	imię|nazwisko	
 Baruchu	Baruch	subst:sg:loc:m1	imię|nazwisko	
 Baruchu	Baruch	subst:sg:voc:m1	imię|nazwisko	
+Baruchy	Baruch	depr:pl:acc:m2	imię|nazwisko	
 Baruchy	Baruch	depr:pl:nom:m2	imię|nazwisko	
 Baruchy	Baruch	depr:pl:voc:m2	imię|nazwisko	
 Barwicach	Barwice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -2259,6 +2337,7 @@ Barysznikowowie	Barysznikow	subst:pl:nom:m1	nazwisko
 Barysznikowowie	Barysznikow	subst:pl:voc:m1	nazwisko	
 Barysznikowów	Barysznikow	subst:pl:acc:m1	nazwisko	
 Barysznikowów	Barysznikow	subst:pl:gen:m1	nazwisko	
+Barysznikowy	Barysznikow	depr:pl:acc:m2	nazwisko	
 Barysznikowy	Barysznikow	depr:pl:nom:m2	nazwisko	
 Barysznikowy	Barysznikow	depr:pl:voc:m2	nazwisko	
 Basedowa	Basedow	subst:sg:acc:m1	nazwisko	
@@ -2275,6 +2354,7 @@ Basedowowie	Basedow	subst:pl:nom:m1	nazwisko
 Basedowowie	Basedow	subst:pl:voc:m1	nazwisko	
 Basedowów	Basedow	subst:pl:acc:m1	nazwisko	
 Basedowów	Basedow	subst:pl:gen:m1	nazwisko	
+Basedowy	Basedow	depr:pl:acc:m2	nazwisko	
 Basedowy	Basedow	depr:pl:nom:m2	nazwisko	
 Basedowy	Basedow	depr:pl:voc:m2	nazwisko	
 BASF-ach	BASF	subst:pl:loc:m3	nazwa firmy	
@@ -2356,6 +2436,7 @@ Basiński	Basiński	subst:sg:voc:m1	nazwisko
 Basińskich	Basiński	subst:pl:acc:m1	nazwisko	
 Basińskich	Basiński	subst:pl:gen:m1	nazwisko	
 Basińskich	Basiński	subst:pl:loc:m1	nazwisko	
+Basińskie	Basiński	depr:pl:acc:m2	nazwisko	
 Basińskie	Basiński	depr:pl:nom:m2	nazwisko	
 Basińskie	Basiński	depr:pl:voc:m2	nazwisko	
 Basińskiego	Basiński	subst:sg:acc:m1	nazwisko	
@@ -2370,6 +2451,7 @@ Baska	Bask	subst:sg:gen:m1	nazwa pospolita
 Baskach	Bask	subst:pl:loc:m1	nazwa pospolita	
 Baskami	Bask	subst:pl:inst:m1	nazwa pospolita	
 Bask	Bask	subst:sg:nom:m1	nazwa pospolita	
+Baski	Bask	depr:pl:acc:m2	nazwa pospolita	
 Baski	Bask	depr:pl:nom:m2	nazwa pospolita	
 Baski	Bask	depr:pl:voc:m2	nazwa pospolita	
 Baskiem	Bask	subst:sg:inst:m1	nazwa pospolita	
@@ -2415,6 +2497,7 @@ Bastka	Bastek	subst:sg:acc:m1	imię
 Bastka	Bastek	subst:sg:gen:m1	imię	
 Bastkach	Bastek	subst:pl:loc:m1	imię	
 Bastkami	Bastek	subst:pl:inst:m1	imię	
+Bastki	Bastek	depr:pl:acc:m2	imię	
 Bastki	Bastek	depr:pl:nom:m2	imię	
 Bastki	Bastek	depr:pl:voc:m2	imię	
 Bastkiem	Bastek	subst:sg:inst:m1	imię	
@@ -2438,6 +2521,7 @@ Baszkirowie	Baszkir	subst:pl:nom:m1	nazwa pospolita
 Baszkirowie	Baszkir	subst:pl:voc:m1	nazwa pospolita	
 Baszkirów	Baszkir	subst:pl:acc:m1	nazwa pospolita	
 Baszkirów	Baszkir	subst:pl:gen:m1	nazwa pospolita	
+Baszkiry	Baszkir	depr:pl:acc:m2	nazwa pospolita	
 Baszkiry	Baszkir	depr:pl:nom:m2	nazwa pospolita	
 Baszkiry	Baszkir	depr:pl:voc:m2	nazwa pospolita	
 Baszkirze	Baszkir	subst:sg:loc:m1	nazwa pospolita	
@@ -2484,6 +2568,7 @@ Batowie	Bata	subst:pl:nom:m1	nazwisko
 Batowie	Bata	subst:pl:voc:m1	nazwisko	
 Batów	Bata	subst:pl:acc:m1	nazwisko	
 Batów	Bata	subst:pl:gen:m1	nazwisko	
+Baty	Bata	depr:pl:acc:m2	nazwisko	
 Baty	Bata	depr:pl:nom:m2	nazwisko	
 Baty	Bata	depr:pl:voc:m2	nazwisko	
 Baty	Bata	subst:sg:gen:m1	nazwisko	
@@ -2513,6 +2598,7 @@ Batory	Bator	subst:pl:nom:m3	człon nazwy geograficznej
 Batory	Bator	subst:pl:voc:m3	człon nazwy geograficznej	
 Batorze	Bator	subst:sg:loc:m3	człon nazwy geograficznej	
 Batorze	Bator	subst:sg:voc:m3	człon nazwy geograficznej	
+Batore	Batory	depr:pl:acc:m2	nazwisko	
 Batore	Batory	depr:pl:nom:m2	nazwisko	
 Batore	Batory	depr:pl:voc:m2	nazwisko	
 Batorego	Batory	subst:sg:acc:m1	nazwisko	
@@ -2557,6 +2643,7 @@ Baudelaire’owie	Baudelaire	subst:pl:nom:m1	nazwisko
 Baudelaire’owie	Baudelaire	subst:pl:voc:m1	nazwisko	
 Baudelaire’ów	Baudelaire	subst:pl:acc:m1	nazwisko	
 Baudelaire’ów	Baudelaire	subst:pl:gen:m1	nazwisko	
+Baudelaire’y	Baudelaire	depr:pl:acc:m2	nazwisko	
 Baudelaire’y	Baudelaire	depr:pl:nom:m2	nazwisko	
 Baudelaire’y	Baudelaire	depr:pl:voc:m2	nazwisko	
 Baudelairze	Baudelaire	subst:sg:loc:m1	nazwisko	
@@ -2575,6 +2662,7 @@ Baudouinowie	Baudouin	subst:pl:nom:m1	nazwisko
 Baudouinowie	Baudouin	subst:pl:voc:m1	nazwisko	
 Baudouinów	Baudouin	subst:pl:acc:m1	nazwisko	
 Baudouinów	Baudouin	subst:pl:gen:m1	nazwisko	
+Baudouiny	Baudouin	depr:pl:acc:m2	nazwisko	
 Baudouiny	Baudouin	depr:pl:nom:m2	nazwisko	
 Baudouiny	Baudouin	depr:pl:voc:m2	nazwisko	
 Baumgarcie	Baumgart	subst:sg:loc:m1	nazwisko	
@@ -2591,6 +2679,7 @@ Baumgartowie	Baumgart	subst:pl:nom:m1	nazwisko
 Baumgartowie	Baumgart	subst:pl:voc:m1	nazwisko	
 Baumgartów	Baumgart	subst:pl:acc:m1	nazwisko	
 Baumgartów	Baumgart	subst:pl:gen:m1	nazwisko	
+Baumgarty	Baumgart	depr:pl:acc:m2	nazwisko	
 Baumgarty	Baumgart	depr:pl:nom:m2	nazwisko	
 Baumgarty	Baumgart	depr:pl:voc:m2	nazwisko	
 BAV-ach	BAV	subst:pl:loc:m3	nazwa instytucji	
@@ -2631,6 +2720,7 @@ Bawarom	Bawar	subst:pl:dat:m1	nazwa pospolita
 Bawarowi	Bawar	subst:sg:dat:m1	nazwa pospolita	
 Bawarów	Bawar	subst:pl:acc:m1	nazwa pospolita	
 Bawarów	Bawar	subst:pl:gen:m1	nazwa pospolita	
+Bawary	Bawar	depr:pl:acc:m2	nazwa pospolita	
 Bawary	Bawar	depr:pl:nom:m2	nazwa pospolita	
 Bawary	Bawar	depr:pl:voc:m2	nazwa pospolita	
 Bawarze	Bawar	subst:sg:loc:m1	nazwa pospolita	
@@ -2644,6 +2734,7 @@ Bawarczyka	Bawarczyk	subst:sg:gen:m1	nazwa pospolita
 Bawarczykach	Bawarczyk	subst:pl:loc:m1	nazwa pospolita	
 Bawarczykami	Bawarczyk	subst:pl:inst:m1	nazwa pospolita	
 Bawarczyk	Bawarczyk	subst:sg:nom:m1	nazwa pospolita	
+Bawarczyki	Bawarczyk	depr:pl:acc:m2	nazwa pospolita	
 Bawarczyki	Bawarczyk	depr:pl:nom:m2	nazwa pospolita	
 Bawarczyki	Bawarczyk	depr:pl:voc:m2	nazwa pospolita	
 Bawarczykiem	Bawarczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -2701,6 +2792,7 @@ Bazyla	Bazyl	subst:sg:gen:m1	imię
 Bazylach	Bazyl	subst:pl:loc:m1	imię	
 Bazylami	Bazyl	subst:pl:inst:m1	imię	
 Bazyl	Bazyl	subst:sg:nom:m1	imię	
+Bazyle	Bazyl	depr:pl:acc:m2	imię	
 Bazyle	Bazyl	depr:pl:nom:m2	imię	
 Bazyle	Bazyl	depr:pl:voc:m2	imię	
 Bazyle	Bazyl	subst:pl:nom:m1	imię	
@@ -2743,6 +2835,7 @@ Bazyleje	Bazyleja	subst:pl:voc:f	nazwa geograficzna
 Bazyleję	Bazyleja	subst:sg:acc:f	nazwa geograficzna	
 Bazylejo	Bazyleja	subst:sg:voc:f	nazwa geograficzna	
 Bazylejom	Bazyleja	subst:pl:dat:f	nazwa geograficzna	
+Bazyle	Bazyli	depr:pl:acc:m2	imię	
 Bazyle	Bazyli	depr:pl:nom:m2	imię	
 Bazyle	Bazyli	depr:pl:voc:m2	imię	
 Bazylego	Bazyli	subst:sg:acc:m1	imię	
@@ -2771,6 +2864,7 @@ Bazylidowie	Bazylid	subst:pl:nom:m1	imię
 Bazylidowie	Bazylid	subst:pl:voc:m1	imię	
 Bazylidów	Bazylid	subst:pl:acc:m1	imię	
 Bazylidów	Bazylid	subst:pl:gen:m1	imię	
+Bazylidy	Bazylid	depr:pl:acc:m2	imię	
 Bazylidy	Bazylid	depr:pl:nom:m2	imię	
 Bazylidy	Bazylid	depr:pl:voc:m2	imię	
 Bazylidzie	Bazylid	subst:sg:loc:m1	imię	
@@ -2791,6 +2885,7 @@ Bazylisowie	Bazylis	subst:pl:nom:m1	imię
 Bazylisowie	Bazylis	subst:pl:voc:m1	imię	
 Bazylisów	Bazylis	subst:pl:acc:m1	imię	
 Bazylisów	Bazylis	subst:pl:gen:m1	imię	
+Bazylisy	Bazylis	depr:pl:acc:m2	imię	
 Bazylisy	Bazylis	depr:pl:nom:m2	imię	
 Bazylisy	Bazylis	depr:pl:voc:m2	imię	
 Bazylisa	Bazylisa	subst:sg:nom:f	imię	
@@ -2826,6 +2921,7 @@ Bazyliusza	Bazyliusz	subst:sg:gen:m1	imię
 Bazyliuszach	Bazyliusz	subst:pl:loc:m1	imię	
 Bazyliuszami	Bazyliusz	subst:pl:inst:m1	imię	
 Bazyliusz	Bazyliusz	subst:sg:nom:m1	imię	
+Bazyliusze	Bazyliusz	depr:pl:acc:m2	imię	
 Bazyliusze	Bazyliusz	depr:pl:nom:m2	imię	
 Bazyliusze	Bazyliusz	depr:pl:voc:m2	imię	
 Bazyliusze	Bazyliusz	subst:pl:nom:m1	imię	
@@ -2860,6 +2956,7 @@ Bączkowski	Bączkowski	subst:sg:voc:m1	nazwisko
 Bączkowskich	Bączkowski	subst:pl:acc:m1	nazwisko	
 Bączkowskich	Bączkowski	subst:pl:gen:m1	nazwisko	
 Bączkowskich	Bączkowski	subst:pl:loc:m1	nazwisko	
+Bączkowskie	Bączkowski	depr:pl:acc:m2	nazwisko	
 Bączkowskie	Bączkowski	depr:pl:nom:m2	nazwisko	
 Bączkowskie	Bączkowski	depr:pl:voc:m2	nazwisko	
 Bączkowskiego	Bączkowski	subst:sg:acc:m1	nazwisko	
@@ -2897,6 +2994,7 @@ Bądzimirowie	Bądzimir	subst:pl:nom:m1	imię
 Bądzimirowie	Bądzimir	subst:pl:voc:m1	imię	
 Bądzimirów	Bądzimir	subst:pl:acc:m1	imię	
 Bądzimirów	Bądzimir	subst:pl:gen:m1	imię	
+Bądzimiry	Bądzimir	depr:pl:acc:m2	imię	
 Bądzimiry	Bądzimir	depr:pl:nom:m2	imię	
 Bądzimiry	Bądzimir	depr:pl:voc:m2	imię	
 Bądzimirze	Bądzimir	subst:sg:loc:m1	imię	
@@ -2919,6 +3017,7 @@ Bądzisławowie	Bądzisław	subst:pl:nom:m1	imię
 Bądzisławowie	Bądzisław	subst:pl:voc:m1	imię	
 Bądzisławów	Bądzisław	subst:pl:acc:m1	imię	
 Bądzisławów	Bądzisław	subst:pl:gen:m1	imię	
+Bądzisławy	Bądzisław	depr:pl:acc:m2	imię	
 Bądzisławy	Bądzisław	depr:pl:nom:m2	imię	
 Bądzisławy	Bądzisław	depr:pl:voc:m2	imię	
 Bądzisława	Bądzisława	subst:sg:nom:f	imię	
@@ -2940,6 +3039,7 @@ Bąka	Bąk	subst:sg:gen:m1	nazwisko
 Bąkach	Bąk	subst:pl:loc:m1	nazwisko	
 Bąkami	Bąk	subst:pl:inst:m1	nazwisko	
 Bąk	Bąk	subst:sg:nom:m1	nazwisko	
+Bąki	Bąk	depr:pl:acc:m2	nazwisko	
 Bąki	Bąk	depr:pl:nom:m2	nazwisko	
 Bąki	Bąk	depr:pl:voc:m2	nazwisko	
 Bąkiem	Bąk	subst:sg:inst:m1	nazwisko	
@@ -3101,6 +3201,7 @@ Beanowie	Bean	subst:pl:nom:m1	imię
 Beanowie	Bean	subst:pl:voc:m1	imię	
 Beanów	Bean	subst:pl:acc:m1	imię	
 Beanów	Bean	subst:pl:gen:m1	imię	
+Beany	Bean	depr:pl:acc:m2	imię	
 Beany	Bean	depr:pl:nom:m2	imię	
 Beany	Bean	depr:pl:voc:m2	imię	
 Beacie	Beata	subst:sg:dat:f	imię	
@@ -3175,6 +3276,7 @@ Beatryksowie	Beatryks	subst:pl:nom:m1	imię
 Beatryksowie	Beatryks	subst:pl:voc:m1	imię	
 Beatryksów	Beatryks	subst:pl:acc:m1	imię	
 Beatryksów	Beatryks	subst:pl:gen:m1	imię	
+Beatryksy	Beatryks	depr:pl:acc:m2	imię	
 Beatryksy	Beatryks	depr:pl:nom:m2	imię	
 Beatryksy	Beatryks	depr:pl:voc:m2	imię	
 Beatusa	Beatus	subst:sg:acc:m1	imię	
@@ -3193,6 +3295,7 @@ Beatusowie	Beatus	subst:pl:nom:m1	imię
 Beatusowie	Beatus	subst:pl:voc:m1	imię	
 Beatusów	Beatus	subst:pl:acc:m1	imię	
 Beatusów	Beatus	subst:pl:gen:m1	imię	
+Beatusy	Beatus	depr:pl:acc:m2	imię	
 Beatusy	Beatus	depr:pl:nom:m2	imię	
 Beatusy	Beatus	depr:pl:voc:m2	imię	
 Beauforcie	Beaufort	subst:sg:loc:m1	nazwisko	
@@ -3209,8 +3312,10 @@ Beaufortowie	Beaufort	subst:pl:nom:m1	nazwisko
 Beaufortowie	Beaufort	subst:pl:voc:m1	nazwisko	
 Beaufortów	Beaufort	subst:pl:acc:m1	nazwisko	
 Beaufortów	Beaufort	subst:pl:gen:m1	nazwisko	
+Beauforty	Beaufort	depr:pl:acc:m2	nazwisko	
 Beauforty	Beaufort	depr:pl:nom:m2	nazwisko	
 Beauforty	Beaufort	depr:pl:voc:m2	nazwisko	
+Beaumarchais	Beaumarchais	depr:pl:acc:m2	nazwisko	
 Beaumarchais	Beaumarchais	depr:pl:nom:m2	nazwisko	
 Beaumarchais	Beaumarchais	depr:pl:voc:m2	nazwisko	
 Beaumarchais	Beaumarchais	subst:pl:acc:m1	nazwisko	
@@ -3244,6 +3349,7 @@ Beauvoirowie	Beauvoir	subst:pl:nom:m1	nazwisko
 Beauvoirowie	Beauvoir	subst:pl:voc:m1	nazwisko	
 Beauvoirów	Beauvoir	subst:pl:acc:m1	nazwisko	
 Beauvoirów	Beauvoir	subst:pl:gen:m1	nazwisko	
+Beauvoiry	Beauvoir	depr:pl:acc:m2	nazwisko	
 Beauvoiry	Beauvoir	depr:pl:nom:m2	nazwisko	
 Beauvoiry	Beauvoir	depr:pl:voc:m2	nazwisko	
 Beauvoirze	Beauvoir	subst:sg:loc:m1	nazwisko	
@@ -3253,6 +3359,7 @@ Becka	Beck	subst:sg:gen:m1	nazwisko
 Beckach	Beck	subst:pl:loc:m1	nazwisko	
 Beckami	Beck	subst:pl:inst:m1	nazwisko	
 Beck	Beck	subst:sg:nom:m1	nazwisko	
+Becki	Beck	depr:pl:acc:m2	nazwisko	
 Becki	Beck	depr:pl:nom:m2	nazwisko	
 Becki	Beck	depr:pl:voc:m2	nazwisko	
 Beckiem	Beck	subst:sg:inst:m1	nazwisko	
@@ -3278,8 +3385,10 @@ Beckettowie	Beckett	subst:pl:nom:m1	nazwisko
 Beckettowie	Beckett	subst:pl:voc:m1	nazwisko	
 Beckettów	Beckett	subst:pl:acc:m1	nazwisko	
 Beckettów	Beckett	subst:pl:gen:m1	nazwisko	
+Becketty	Beckett	depr:pl:acc:m2	nazwisko	
 Becketty	Beckett	depr:pl:nom:m2	nazwisko	
 Becketty	Beckett	depr:pl:voc:m2	nazwisko	
+Becu	Becu	depr:pl:acc:m2	nazwisko	
 Becu	Becu	depr:pl:nom:m2	nazwisko	
 Becu	Becu	depr:pl:voc:m2	nazwisko	
 Becu	Becu	subst:pl:acc:m1	nazwisko	
@@ -3315,6 +3424,7 @@ Bednarczyka	Bednarczyk	subst:sg:gen:m1	nazwisko
 Bednarczykach	Bednarczyk	subst:pl:loc:m1	nazwisko	
 Bednarczykami	Bednarczyk	subst:pl:inst:m1	nazwisko	
 Bednarczyk	Bednarczyk	subst:sg:nom:m1	nazwisko	
+Bednarczyki	Bednarczyk	depr:pl:acc:m2	nazwisko	
 Bednarczyki	Bednarczyk	depr:pl:nom:m2	nazwisko	
 Bednarczyki	Bednarczyk	depr:pl:voc:m2	nazwisko	
 Bednarczykiem	Bednarczyk	subst:sg:inst:m1	nazwisko	
@@ -3331,6 +3441,7 @@ Bednarka	Bednarek	subst:sg:acc:m1	nazwisko
 Bednarka	Bednarek	subst:sg:gen:m1	nazwisko	
 Bednarkach	Bednarek	subst:pl:loc:m1	nazwisko	
 Bednarkami	Bednarek	subst:pl:inst:m1	nazwisko	
+Bednarki	Bednarek	depr:pl:acc:m2	nazwisko	
 Bednarki	Bednarek	depr:pl:nom:m2	nazwisko	
 Bednarki	Bednarek	depr:pl:voc:m2	nazwisko	
 Bednarkiem	Bednarek	subst:sg:inst:m1	nazwisko	
@@ -3363,6 +3474,7 @@ Bednarski	Bednarski	subst:sg:voc:m1	nazwisko
 Bednarskich	Bednarski	subst:pl:acc:m1	nazwisko	
 Bednarskich	Bednarski	subst:pl:gen:m1	nazwisko	
 Bednarskich	Bednarski	subst:pl:loc:m1	nazwisko	
+Bednarskie	Bednarski	depr:pl:acc:m2	nazwisko	
 Bednarskie	Bednarski	depr:pl:nom:m2	nazwisko	
 Bednarskie	Bednarski	depr:pl:voc:m2	nazwisko	
 Bednarskiego	Bednarski	subst:sg:acc:m1	nazwisko	
@@ -3377,6 +3489,7 @@ Bednarza	Bednarz	subst:sg:gen:m1	nazwisko
 Bednarzach	Bednarz	subst:pl:loc:m1	nazwisko	
 Bednarzami	Bednarz	subst:pl:inst:m1	nazwisko	
 Bednarz	Bednarz	subst:sg:nom:m1	nazwisko	
+Bednarze	Bednarz	depr:pl:acc:m2	nazwisko	
 Bednarze	Bednarz	depr:pl:nom:m2	nazwisko	
 Bednarze	Bednarz	depr:pl:voc:m2	nazwisko	
 Bednarzem	Bednarz	subst:sg:inst:m1	nazwisko	
@@ -3402,6 +3515,7 @@ Beduinom	Beduin	subst:pl:dat:m1	nazwa pospolita
 Beduinowi	Beduin	subst:sg:dat:m1	nazwa pospolita	
 Beduinów	Beduin	subst:pl:acc:m1	nazwa pospolita	
 Beduinów	Beduin	subst:pl:gen:m1	nazwa pospolita	
+Beduiny	Beduin	depr:pl:acc:m2	nazwa pospolita	
 Beduiny	Beduin	depr:pl:nom:m2	nazwa pospolita	
 Beduiny	Beduin	depr:pl:voc:m2	nazwa pospolita	
 Beduince	Beduinka	subst:sg:dat:f	nazwa pospolita	
@@ -3439,6 +3553,7 @@ Bedyński	Bedyński	subst:sg:voc:m1	nazwisko
 Bedyńskich	Bedyński	subst:pl:acc:m1	nazwisko	
 Bedyńskich	Bedyński	subst:pl:gen:m1	nazwisko	
 Bedyńskich	Bedyński	subst:pl:loc:m1	nazwisko	
+Bedyńskie	Bedyński	depr:pl:acc:m2	nazwisko	
 Bedyńskie	Bedyński	depr:pl:nom:m2	nazwisko	
 Bedyńskie	Bedyński	depr:pl:voc:m2	nazwisko	
 Bedyńskiego	Bedyński	subst:sg:acc:m1	nazwisko	
@@ -3460,6 +3575,7 @@ Beecherowie	Beecher	subst:pl:nom:m1	nazwisko
 Beecherowie	Beecher	subst:pl:voc:m1	nazwisko	
 Beecherów	Beecher	subst:pl:acc:m1	nazwisko	
 Beecherów	Beecher	subst:pl:gen:m1	nazwisko	
+Beechery	Beecher	depr:pl:acc:m2	nazwisko	
 Beechery	Beecher	depr:pl:nom:m2	nazwisko	
 Beechery	Beecher	depr:pl:voc:m2	nazwisko	
 Beecherze	Beecher	subst:sg:loc:m1	nazwisko	
@@ -3478,6 +3594,7 @@ Beethovenowie	Beethoven	subst:pl:nom:m1	nazwisko
 Beethovenowie	Beethoven	subst:pl:voc:m1	nazwisko	
 Beethovenów	Beethoven	subst:pl:acc:m1	nazwisko	
 Beethovenów	Beethoven	subst:pl:gen:m1	nazwisko	
+Beethoveny	Beethoven	depr:pl:acc:m2	nazwisko	
 Beethoveny	Beethoven	depr:pl:nom:m2	nazwisko	
 Beethoveny	Beethoven	depr:pl:voc:m2	nazwisko	
 Begina	Begina	subst:sg:nom:f	imię	
@@ -3508,6 +3625,7 @@ Behemowie	Behem	subst:pl:nom:m1	nazwisko
 Behemowie	Behem	subst:pl:voc:m1	nazwisko	
 Behemów	Behem	subst:pl:acc:m1	nazwisko	
 Behemów	Behem	subst:pl:gen:m1	nazwisko	
+Behemy	Behem	depr:pl:acc:m2	nazwisko	
 Behemy	Behem	depr:pl:nom:m2	nazwisko	
 Behemy	Behem	depr:pl:voc:m2	nazwisko	
 Bejarcie	Bejart	subst:sg:loc:m1	nazwisko	
@@ -3524,6 +3642,7 @@ Bejartowie	Bejart	subst:pl:nom:m1	nazwisko
 Bejartowie	Bejart	subst:pl:voc:m1	nazwisko	
 Bejartów	Bejart	subst:pl:acc:m1	nazwisko	
 Bejartów	Bejart	subst:pl:gen:m1	nazwisko	
+Bejarty	Bejart	depr:pl:acc:m2	nazwisko	
 Bejarty	Bejart	depr:pl:nom:m2	nazwisko	
 Bejarty	Bejart	depr:pl:voc:m2	nazwisko	
 Bejramach	Bejram	subst:pl:loc:m3	nazwa święta	przest.
@@ -3589,6 +3708,7 @@ Belga	Belg	subst:sg:gen:m1	nazwa pospolita
 Belgach	Belg	subst:pl:loc:m1	nazwa pospolita	
 Belgami	Belg	subst:pl:inst:m1	nazwa pospolita	
 Belg	Belg	subst:sg:nom:m1	nazwa pospolita	
+Belgi	Belg	depr:pl:acc:m2	nazwa pospolita	
 Belgi	Belg	depr:pl:nom:m2	nazwa pospolita	
 Belgi	Belg	depr:pl:voc:m2	nazwa pospolita	
 Belgiem	Belg	subst:sg:inst:m1	nazwa pospolita	
@@ -3656,6 +3776,7 @@ Belinowie	Belina	subst:pl:nom:m1	nazwisko
 Belinowie	Belina	subst:pl:voc:m1	nazwisko	
 Belinów	Belina	subst:pl:acc:m1	nazwisko	
 Belinów	Belina	subst:pl:gen:m1	nazwisko	
+Beliny	Belina	depr:pl:acc:m2	nazwisko	
 Beliny	Belina	depr:pl:nom:m2	nazwisko	
 Beliny	Belina	depr:pl:voc:m2	nazwisko	
 Beliny	Belina	subst:sg:gen:m1	nazwisko	
@@ -3666,6 +3787,7 @@ Belkach	Belka	subst:pl:loc:m1	nazwisko
 Belkami	Belka	subst:pl:inst:m1	nazwisko	
 Belką	Belka	subst:sg:inst:m1	nazwisko	
 Belkę	Belka	subst:sg:acc:m1	nazwisko	
+Belki	Belka	depr:pl:acc:m2	nazwisko	
 Belki	Belka	depr:pl:nom:m2	nazwisko	
 Belki	Belka	depr:pl:voc:m2	nazwisko	
 Belki	Belka	subst:sg:gen:m1	nazwisko	
@@ -3680,6 +3802,7 @@ Bella	Bell	subst:sg:gen:m1	nazwisko
 Bellach	Bell	subst:pl:loc:m1	nazwisko	
 Bellami	Bell	subst:pl:inst:m1	nazwisko	
 Bell	Bell	subst:sg:nom:m1	nazwisko	
+Belle	Bell	depr:pl:acc:m2	nazwisko	
 Belle	Bell	depr:pl:nom:m2	nazwisko	
 Belle	Bell	depr:pl:voc:m2	nazwisko	
 Belle	Bell	subst:pl:nom:m1	nazwisko	
@@ -3700,6 +3823,7 @@ Bellini	Bellini	subst:sg:voc:m1	nazwisko
 Bellinich	Bellini	subst:pl:acc:m1	nazwisko	
 Bellinich	Bellini	subst:pl:gen:m1	nazwisko	
 Bellinich	Bellini	subst:pl:loc:m1	nazwisko	
+Bellinie	Bellini	depr:pl:acc:m2	nazwisko	
 Bellinie	Bellini	depr:pl:nom:m2	nazwisko	
 Bellinie	Bellini	depr:pl:voc:m2	nazwisko	
 Belliniego	Bellini	subst:sg:acc:m1	nazwisko	
@@ -3725,9 +3849,11 @@ Bellonte’owie	Bellonte	subst:pl:nom:m1	nazwisko
 Bellonte’owie	Bellonte	subst:pl:voc:m1	nazwisko	
 Bellonte’ów	Bellonte	subst:pl:acc:m1	nazwisko	
 Bellonte’ów	Bellonte	subst:pl:gen:m1	nazwisko	
+Bellonte’y	Bellonte	depr:pl:acc:m2	nazwisko	
 Bellonte’y	Bellonte	depr:pl:nom:m2	nazwisko	
 Bellonte’y	Bellonte	depr:pl:voc:m2	nazwisko	
 Bellotcie	Bellotto	subst:sg:loc:m1	nazwisko	
+Bellotta	Bellotto	depr:pl:acc:m2	nazwisko	
 Bellotta	Bellotto	depr:pl:nom:m2	nazwisko	
 Bellotta	Bellotto	depr:pl:voc:m2	nazwisko	
 Bellotta	Bellotto	subst:sg:acc:m1	nazwisko	
@@ -3757,8 +3883,10 @@ Bellowowie	Bellow	subst:pl:nom:m1	nazwisko
 Bellowowie	Bellow	subst:pl:voc:m1	nazwisko	
 Bellowów	Bellow	subst:pl:acc:m1	nazwisko	
 Bellowów	Bellow	subst:pl:gen:m1	nazwisko	
+Bellowy	Bellow	depr:pl:acc:m2	nazwisko	
 Bellowy	Bellow	depr:pl:nom:m2	nazwisko	
 Bellowy	Bellow	depr:pl:voc:m2	nazwisko	
+Belmondo	Belmondo	depr:pl:acc:m2	nazwisko	
 Belmondo	Belmondo	depr:pl:nom:m2	nazwisko	
 Belmondo	Belmondo	depr:pl:voc:m2	nazwisko	
 Belmondo	Belmondo	subst:pl:acc:m1	nazwisko	
@@ -3806,6 +3934,7 @@ Belzebubowie	Belzebub	subst:pl:nom:m1	imię
 Belzebubowie	Belzebub	subst:pl:voc:m1	imię	
 Belzebubów	Belzebub	subst:pl:acc:m1	imię	
 Belzebubów	Belzebub	subst:pl:gen:m1	imię	
+Belzebuby	Belzebub	depr:pl:acc:m2	imię	
 Belzebuby	Belzebub	depr:pl:nom:m2	imię	
 Belzebuby	Belzebub	depr:pl:voc:m2	imię	
 Bełchatowa	Bełchatów	subst:sg:gen:m3	nazwa geograficzna	
@@ -3879,6 +4008,7 @@ Bemowie	Bem	subst:pl:nom:m1	nazwisko
 Bemowie	Bem	subst:pl:voc:m1	nazwisko	
 Bemów	Bem	subst:pl:acc:m1	nazwisko	
 Bemów	Bem	subst:pl:gen:m1	nazwisko	
+Bemy	Bem	depr:pl:acc:m2	nazwisko	
 Bemy	Bem	depr:pl:nom:m2	nazwisko	
 Bemy	Bem	depr:pl:voc:m2	nazwisko	
 Ben	Ben:b	burk		
@@ -3894,6 +4024,7 @@ Benderowie	Bender	subst:pl:nom:m1	nazwisko
 Benderowie	Bender	subst:pl:voc:m1	nazwisko	
 Benderów	Bender	subst:pl:acc:m1	nazwisko	
 Benderów	Bender	subst:pl:gen:m1	nazwisko	
+Bendery	Bender	depr:pl:acc:m2	nazwisko	
 Bendery	Bender	depr:pl:nom:m2	nazwisko	
 Bendery	Bender	depr:pl:voc:m2	nazwisko	
 Benderze	Bender	subst:sg:loc:m1	nazwisko	
@@ -3912,6 +4043,7 @@ Benedyktowie	Benedykt	subst:pl:nom:m1	imię
 Benedyktowie	Benedykt	subst:pl:voc:m1	imię	
 Benedyktów	Benedykt	subst:pl:acc:m1	imię	
 Benedyktów	Benedykt	subst:pl:gen:m1	imię	
+Benedykty	Benedykt	depr:pl:acc:m2	imię	
 Benedykty	Benedykt	depr:pl:nom:m2	imię	
 Benedykty	Benedykt	depr:pl:voc:m2	imię	
 Benedykcie	Benedykta	subst:sg:dat:f	imię	
@@ -3933,6 +4065,7 @@ Benka	Benek	subst:sg:acc:m1	imię
 Benka	Benek	subst:sg:gen:m1	imię	
 Benkach	Benek	subst:pl:loc:m1	imię	
 Benkami	Benek	subst:pl:inst:m1	imię	
+Benki	Benek	depr:pl:acc:m2	imię	
 Benki	Benek	depr:pl:nom:m2	imię	
 Benki	Benek	depr:pl:voc:m2	imię	
 Benkiem	Benek	subst:sg:inst:m1	imię	
@@ -3977,6 +4110,7 @@ Benesza	Benesz	subst:sg:gen:m1	nazwisko
 Beneszach	Benesz	subst:pl:loc:m1	nazwisko	
 Beneszami	Benesz	subst:pl:inst:m1	nazwisko	
 Benesz	Benesz	subst:sg:nom:m1	nazwisko	
+Benesze	Benesz	depr:pl:acc:m2	nazwisko	
 Benesze	Benesz	depr:pl:nom:m2	nazwisko	
 Benesze	Benesz	depr:pl:voc:m2	nazwisko	
 Beneszem	Benesz	subst:sg:inst:m1	nazwisko	
@@ -4034,6 +4168,7 @@ Beniaminowie	Beniamin	subst:pl:nom:m1	imię
 Beniaminowie	Beniamin	subst:pl:voc:m1	imię	
 Beniaminów	Beniamin	subst:pl:acc:m1	imię	
 Beniaminów	Beniamin	subst:pl:gen:m1	imię	
+Beniaminy	Beniamin	depr:pl:acc:m2	imię	
 Beniaminy	Beniamin	depr:pl:nom:m2	imię	
 Beniaminy	Beniamin	depr:pl:voc:m2	imię	
 Benicjusza	Benicjusz	subst:sg:acc:m1	imię	
@@ -4041,6 +4176,7 @@ Benicjusza	Benicjusz	subst:sg:gen:m1	imię
 Benicjuszach	Benicjusz	subst:pl:loc:m1	imię	
 Benicjuszami	Benicjusz	subst:pl:inst:m1	imię	
 Benicjusz	Benicjusz	subst:sg:nom:m1	imię	
+Benicjusze	Benicjusz	depr:pl:acc:m2	imię	
 Benicjusze	Benicjusz	depr:pl:nom:m2	imię	
 Benicjusze	Benicjusz	depr:pl:voc:m2	imię	
 Benicjusze	Benicjusz	subst:pl:nom:m1	imię	
@@ -4084,12 +4220,14 @@ Benignusowie	Benignus	subst:pl:nom:m1	imię
 Benignusowie	Benignus	subst:pl:voc:m1	imię	
 Benignusów	Benignus	subst:pl:acc:m1	imię	
 Benignusów	Benignus	subst:pl:gen:m1	imię	
+Benignusy	Benignus	depr:pl:acc:m2	imię	
 Benignusy	Benignus	depr:pl:nom:m2	imię	
 Benignusy	Benignus	depr:pl:voc:m2	imię	
 Benia	Benio	subst:sg:acc:m1	imię	
 Benia	Benio	subst:sg:gen:m1	imię	
 Beniach	Benio	subst:pl:loc:m1	imię	
 Beniami	Benio	subst:pl:inst:m1	imię	
+Benie	Benio	depr:pl:acc:m2	imię	
 Benie	Benio	depr:pl:nom:m2	imię	
 Benie	Benio	depr:pl:voc:m2	imię	
 Beniem	Benio	subst:sg:inst:m1	imię	
@@ -4123,6 +4261,7 @@ Beniowski	Beniowski	subst:sg:voc:m1	nazwisko
 Beniowskich	Beniowski	subst:pl:acc:m1	nazwisko	
 Beniowskich	Beniowski	subst:pl:gen:m1	nazwisko	
 Beniowskich	Beniowski	subst:pl:loc:m1	nazwisko	
+Beniowskie	Beniowski	depr:pl:acc:m2	nazwisko	
 Beniowskie	Beniowski	depr:pl:nom:m2	nazwisko	
 Beniowskie	Beniowski	depr:pl:voc:m2	nazwisko	
 Beniowskiego	Beniowski	subst:sg:acc:m1	nazwisko	
@@ -4146,6 +4285,7 @@ Benity	Benita	subst:pl:acc:f	imię
 Benity	Benita	subst:pl:nom:f	imię	
 Benity	Benita	subst:pl:voc:f	imię	
 Benity	Benita	subst:sg:gen:f	imię	
+Benoit	Benoit	depr:pl:acc:m2	nazwisko	
 Benoit	Benoit	depr:pl:nom:m2	nazwisko	
 Benoit	Benoit	depr:pl:voc:m2	nazwisko	
 Benoit	Benoit	subst:pl:acc:m1	nazwisko	
@@ -4178,6 +4318,7 @@ Benonowie	Benon	subst:pl:nom:m1	imię
 Benonowie	Benon	subst:pl:voc:m1	imię	
 Benonów	Benon	subst:pl:acc:m1	imię	
 Benonów	Benon	subst:pl:gen:m1	imię	
+Benony	Benon	depr:pl:acc:m2	imię	
 Benony	Benon	depr:pl:nom:m2	imię	
 Benony	Benon	depr:pl:voc:m2	imię	
 Bena	Ben:s	subst:sg:acc:m1	imię	
@@ -4194,6 +4335,7 @@ Benowie	Ben:s	subst:pl:nom:m1	imię
 Benowie	Ben:s	subst:pl:voc:m1	imię	
 Benów	Ben:s	subst:pl:acc:m1	imię	
 Benów	Ben:s	subst:pl:gen:m1	imię	
+Beny	Ben:s	depr:pl:acc:m2	imię	
 Beny	Ben:s	depr:pl:nom:m2	imię	
 Beny	Ben:s	depr:pl:voc:m2	imię	
 Bensyjona	Bensyjon	subst:sg:acc:m1	imię	
@@ -4212,12 +4354,14 @@ Bensyjonowie	Bensyjon	subst:pl:nom:m1	imię
 Bensyjonowie	Bensyjon	subst:pl:voc:m1	imię	
 Bensyjonów	Bensyjon	subst:pl:acc:m1	imię	
 Bensyjonów	Bensyjon	subst:pl:gen:m1	imię	
+Bensyjony	Bensyjon	depr:pl:acc:m2	imię	
 Bensyjony	Bensyjon	depr:pl:nom:m2	imię	
 Bensyjony	Bensyjon	depr:pl:voc:m2	imię	
 Benusia	Benuś	subst:sg:acc:m1	imię	
 Benusia	Benuś	subst:sg:gen:m1	imię	
 Benusiach	Benuś	subst:pl:loc:m1	imię	
 Benusiami	Benuś	subst:pl:inst:m1	imię	
+Benusie	Benuś	depr:pl:acc:m2	imię	
 Benusie	Benuś	depr:pl:nom:m2	imię	
 Benusie	Benuś	depr:pl:voc:m2	imię	
 Benusie	Benuś	subst:pl:nom:m1	imię	
@@ -4244,6 +4388,7 @@ Benveniste’owie	Benveniste	subst:pl:nom:m1	nazwisko
 Benveniste’owie	Benveniste	subst:pl:voc:m1	nazwisko	
 Benveniste’ów	Benveniste	subst:pl:acc:m1	nazwisko	
 Benveniste’ów	Benveniste	subst:pl:gen:m1	nazwisko	
+Benveniste’y	Benveniste	depr:pl:acc:m2	nazwisko	
 Benveniste’y	Benveniste	depr:pl:nom:m2	nazwisko	
 Benveniste’y	Benveniste	depr:pl:voc:m2	nazwisko	
 Benveniście	Benveniste	subst:sg:loc:m1	nazwisko	
@@ -4275,6 +4420,7 @@ Berowie	Ber	subst:pl:nom:m1	imię
 Berowie	Ber	subst:pl:voc:m1	imię	
 Berów	Ber	subst:pl:acc:m1	imię	
 Berów	Ber	subst:pl:gen:m1	imię	
+Bery	Ber	depr:pl:acc:m2	imię	
 Bery	Ber	depr:pl:nom:m2	imię	
 Bery	Ber	depr:pl:voc:m2	imię	
 Berze	Ber	subst:sg:loc:m1	imię	
@@ -4293,6 +4439,7 @@ Berberowie	Berber	subst:pl:nom:m1	nazwa pospolita
 Berberowie	Berber	subst:pl:voc:m1	nazwa pospolita	
 Berberów	Berber	subst:pl:acc:m1	nazwa pospolita	
 Berberów	Berber	subst:pl:gen:m1	nazwa pospolita	
+Berbery	Berber	depr:pl:acc:m2	nazwa pospolita	
 Berbery	Berber	depr:pl:nom:m2	nazwa pospolita	
 Berbery	Berber	depr:pl:voc:m2	nazwa pospolita	
 Berberze	Berber	subst:sg:loc:m1	nazwa pospolita	
@@ -4319,6 +4466,7 @@ Bercika	Bercik	subst:sg:gen:m1	imię
 Bercikach	Bercik	subst:pl:loc:m1	imię	
 Bercikami	Bercik	subst:pl:inst:m1	imię	
 Bercik	Bercik	subst:sg:nom:m1	imię	
+Berciki	Bercik	depr:pl:acc:m2	imię	
 Berciki	Bercik	depr:pl:nom:m2	imię	
 Berciki	Bercik	depr:pl:voc:m2	imię	
 Bercikiem	Bercik	subst:sg:inst:m1	imię	
@@ -4366,6 +4514,7 @@ Berecci	Berecci	subst:sg:voc:m1	nazwisko
 Bereccich	Berecci	subst:pl:acc:m1	nazwisko	
 Bereccich	Berecci	subst:pl:gen:m1	nazwisko	
 Bereccich	Berecci	subst:pl:loc:m1	nazwisko	
+Bereccie	Berecci	depr:pl:acc:m2	nazwisko	
 Bereccie	Berecci	depr:pl:nom:m2	nazwisko	
 Bereccie	Berecci	depr:pl:voc:m2	nazwisko	
 Berecciego	Berecci	subst:sg:acc:m1	nazwisko	
@@ -4382,6 +4531,7 @@ Berka	Berek	subst:sg:acc:m1	imię
 Berka	Berek	subst:sg:gen:m1	imię	
 Berkach	Berek	subst:pl:loc:m1	imię	
 Berkami	Berek	subst:pl:inst:m1	imię	
+Berki	Berek	depr:pl:acc:m2	imię	
 Berki	Berek	depr:pl:nom:m2	imię	
 Berki	Berek	depr:pl:voc:m2	imię	
 Berkiem	Berek	subst:sg:inst:m1	imię	
@@ -4435,6 +4585,7 @@ Berentowie	Berent	subst:pl:nom:m1	nazwisko
 Berentowie	Berent	subst:pl:voc:m1	nazwisko	
 Berentów	Berent	subst:pl:acc:m1	nazwisko	
 Berentów	Berent	subst:pl:gen:m1	nazwisko	
+Berenty	Berent	depr:pl:acc:m2	nazwisko	
 Berenty	Berent	depr:pl:nom:m2	nazwisko	
 Berenty	Berent	depr:pl:voc:m2	nazwisko	
 Beresteczek	Beresteczko	subst:pl:gen:n:ncol	nazwa geograficzna	
@@ -4455,6 +4606,7 @@ Beresia	Bereś	subst:sg:acc:m1	nazwisko
 Beresia	Bereś	subst:sg:gen:m1	nazwisko	
 Beresiach	Bereś	subst:pl:loc:m1	nazwisko	
 Beresiami	Bereś	subst:pl:inst:m1	nazwisko	
+Beresie	Bereś	depr:pl:acc:m2	nazwisko	
 Beresie	Bereś	depr:pl:nom:m2	nazwisko	
 Beresie	Bereś	depr:pl:voc:m2	nazwisko	
 Beresie	Bereś	subst:pl:nom:m1	nazwisko	
@@ -4482,6 +4634,7 @@ Berezowie	Bereza:s1	subst:pl:nom:m1	nazwisko
 Berezowie	Bereza:s1	subst:pl:voc:m1	nazwisko	
 Berezów	Bereza:s1	subst:pl:acc:m1	nazwisko	
 Berezów	Bereza:s1	subst:pl:gen:m1	nazwisko	
+Berezy	Bereza:s1	depr:pl:acc:m2	nazwisko	
 Berezy	Bereza:s1	depr:pl:nom:m2	nazwisko	
 Berezy	Bereza:s1	depr:pl:voc:m2	nazwisko	
 Berezy	Bereza:s1	subst:sg:gen:m1	nazwisko	
@@ -4520,6 +4673,7 @@ Berezowski	Berezowski	subst:sg:voc:m1	nazwisko
 Berezowskich	Berezowski	subst:pl:acc:m1	nazwisko	
 Berezowskich	Berezowski	subst:pl:gen:m1	nazwisko	
 Berezowskich	Berezowski	subst:pl:loc:m1	nazwisko	
+Berezowskie	Berezowski	depr:pl:acc:m2	nazwisko	
 Berezowskie	Berezowski	depr:pl:nom:m2	nazwisko	
 Berezowskie	Berezowski	depr:pl:voc:m2	nazwisko	
 Berezowskiego	Berezowski	subst:sg:acc:m1	nazwisko	
@@ -4543,6 +4697,7 @@ Bergmanowie	Bergman	subst:pl:nom:m1	nazwisko
 Bergmanowie	Bergman	subst:pl:voc:m1	nazwisko	
 Bergmanów	Bergman	subst:pl:acc:m1	nazwisko	
 Bergmanów	Bergman	subst:pl:gen:m1	nazwisko	
+Bergmany	Bergman	depr:pl:acc:m2	nazwisko	
 Bergmany	Bergman	depr:pl:nom:m2	nazwisko	
 Bergmany	Bergman	depr:pl:voc:m2	nazwisko	
 Bergsona	Bergson	subst:sg:acc:m1	nazwisko	
@@ -4559,12 +4714,14 @@ Bergsonowie	Bergson	subst:pl:nom:m1	nazwisko
 Bergsonowie	Bergson	subst:pl:voc:m1	nazwisko	
 Bergsonów	Bergson	subst:pl:acc:m1	nazwisko	
 Bergsonów	Bergson	subst:pl:gen:m1	nazwisko	
+Bergsony	Bergson	depr:pl:acc:m2	nazwisko	
 Bergsony	Bergson	depr:pl:nom:m2	nazwisko	
 Bergsony	Bergson	depr:pl:voc:m2	nazwisko	
 Beria	Beria	subst:sg:nom:m1	nazwisko	
 Beriach	Beria	subst:pl:loc:m1	nazwisko	
 Beriami	Beria	subst:pl:inst:m1	nazwisko	
 Berią	Beria	subst:sg:inst:m1	nazwisko	
+Berie	Beria	depr:pl:acc:m2	nazwisko	
 Berie	Beria	depr:pl:nom:m2	nazwisko	
 Berie	Beria	depr:pl:voc:m2	nazwisko	
 Berię	Beria	subst:sg:acc:m1	nazwisko	
@@ -4582,6 +4739,7 @@ Beringa	Bering	subst:sg:gen:m1	nazwisko
 Beringach	Bering	subst:pl:loc:m1	nazwisko	
 Beringami	Bering	subst:pl:inst:m1	nazwisko	
 Bering	Bering	subst:sg:nom:m1	nazwisko	
+Beringi	Bering	depr:pl:acc:m2	nazwisko	
 Beringi	Bering	depr:pl:nom:m2	nazwisko	
 Beringi	Bering	depr:pl:voc:m2	nazwisko	
 Beringiem	Bering	subst:sg:inst:m1	nazwisko	
@@ -4612,6 +4770,7 @@ Berkeleya	Berkeley:s2	subst:sg:gen:m1	nazwisko
 Berkeleyach	Berkeley:s2	subst:pl:loc:m1	nazwisko	
 Berkeleyami	Berkeley:s2	subst:pl:inst:m1	nazwisko	
 Berkeley	Berkeley:s2	subst:sg:nom:m1	nazwisko	
+Berkeleye	Berkeley:s2	depr:pl:acc:m2	nazwisko	
 Berkeleye	Berkeley:s2	depr:pl:nom:m2	nazwisko	
 Berkeleye	Berkeley:s2	depr:pl:voc:m2	nazwisko	
 Berkeleyem	Berkeley:s2	subst:sg:inst:m1	nazwisko	
@@ -4651,6 +4810,7 @@ Berliozowie	Berlioz	subst:pl:nom:m1	nazwisko
 Berliozowie	Berlioz	subst:pl:voc:m1	nazwisko	
 Berliozów	Berlioz	subst:pl:acc:m1	nazwisko	
 Berliozów	Berlioz	subst:pl:gen:m1	nazwisko	
+Berliozy	Berlioz	depr:pl:acc:m2	nazwisko	
 Berliozy	Berlioz	depr:pl:nom:m2	nazwisko	
 Berliozy	Berlioz	depr:pl:voc:m2	nazwisko	
 Berlusconi	Berlusconi	subst:pl:nom:m1	nazwisko	
@@ -4660,6 +4820,7 @@ Berlusconi	Berlusconi	subst:sg:voc:m1	nazwisko
 Berlusconich	Berlusconi	subst:pl:acc:m1	nazwisko	
 Berlusconich	Berlusconi	subst:pl:gen:m1	nazwisko	
 Berlusconich	Berlusconi	subst:pl:loc:m1	nazwisko	
+Berlusconie	Berlusconi	depr:pl:acc:m2	nazwisko	
 Berlusconie	Berlusconi	depr:pl:nom:m2	nazwisko	
 Berlusconie	Berlusconi	depr:pl:voc:m2	nazwisko	
 Berlusconiego	Berlusconi	subst:sg:acc:m1	nazwisko	
@@ -4687,6 +4848,7 @@ Bermanowie	Berman	subst:pl:nom:m1	imię
 Bermanowie	Berman	subst:pl:voc:m1	imię	
 Bermanów	Berman	subst:pl:acc:m1	imię	
 Bermanów	Berman	subst:pl:gen:m1	imię	
+Bermany	Berman	depr:pl:acc:m2	imię	
 Bermany	Berman	depr:pl:nom:m2	imię	
 Bermany	Berman	depr:pl:voc:m2	imię	
 Bermudach	Bermudy	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -4745,6 +4907,7 @@ Bernadotte’owie	Bernadotte	subst:pl:nom:m1	nazwisko
 Bernadotte’owie	Bernadotte	subst:pl:voc:m1	nazwisko	
 Bernadotte’ów	Bernadotte	subst:pl:acc:m1	nazwisko	
 Bernadotte’ów	Bernadotte	subst:pl:gen:m1	nazwisko	
+Bernadotte’y	Bernadotte	depr:pl:acc:m2	nazwisko	
 Bernadotte’y	Bernadotte	depr:pl:nom:m2	nazwisko	
 Bernadotte’y	Bernadotte	depr:pl:voc:m2	nazwisko	
 Bernarda	Bernard	subst:sg:acc:m1	imię	
@@ -4759,6 +4922,7 @@ Bernardowie	Bernard	subst:pl:nom:m1	imię
 Bernardowie	Bernard	subst:pl:voc:m1	imię	
 Bernardów	Bernard	subst:pl:acc:m1	imię	
 Bernardów	Bernard	subst:pl:gen:m1	imię	
+Bernardy	Bernard	depr:pl:acc:m2	imię	
 Bernardy	Bernard	depr:pl:nom:m2	imię	
 Bernardy	Bernard	depr:pl:voc:m2	imię	
 Bernardzie	Bernard	subst:sg:loc:m1	imię	
@@ -4793,6 +4957,7 @@ Bernardynowie	Bernardyn	subst:pl:nom:m1	imię
 Bernardynowie	Bernardyn	subst:pl:voc:m1	imię	
 Bernardynów	Bernardyn	subst:pl:acc:m1	imię	
 Bernardynów	Bernardyn	subst:pl:gen:m1	imię	
+Bernardyny	Bernardyn	depr:pl:acc:m2	imię	
 Bernardyny	Bernardyn	depr:pl:nom:m2	imię	
 Bernardyny	Bernardyn	depr:pl:voc:m2	imię	
 Bernardyna	Bernardyna	subst:sg:nom:f	imię	
@@ -4816,6 +4981,7 @@ Bernini	Bernini	subst:sg:voc:m1	nazwisko
 Berninich	Bernini	subst:pl:acc:m1	nazwisko	
 Berninich	Bernini	subst:pl:gen:m1	nazwisko	
 Berninich	Bernini	subst:pl:loc:m1	nazwisko	
+Berninie	Bernini	depr:pl:acc:m2	nazwisko	
 Berninie	Bernini	depr:pl:nom:m2	nazwisko	
 Berninie	Bernini	depr:pl:voc:m2	nazwisko	
 Berniniego	Bernini	subst:sg:acc:m1	nazwisko	
@@ -4841,6 +5007,7 @@ Berno	Berno	subst:sg:nom:n:ncol	nazwa geograficzna
 Berno	Berno	subst:sg:voc:n:ncol	nazwa geograficzna	
 Bernom	Berno	subst:pl:dat:n:ncol	nazwa geograficzna	
 Bernu	Berno	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bernoulle	Bernoulli	depr:pl:acc:m2	nazwisko	
 Bernoulle	Bernoulli	depr:pl:nom:m2	nazwisko	
 Bernoulle	Bernoulli	depr:pl:voc:m2	nazwisko	
 Bernoullego	Bernoulli	subst:sg:acc:m1	nazwisko	
@@ -4853,6 +5020,7 @@ Bernoulli	Bernoulli	subst:sg:voc:m1	nazwisko
 Bernoullich	Bernoulli	subst:pl:acc:m1	nazwisko	
 Bernoullich	Bernoulli	subst:pl:gen:m1	nazwisko	
 Bernoullich	Bernoulli	subst:pl:loc:m1	nazwisko	
+Bernoullie	Bernoulli	depr:pl:acc:m2	nazwisko	
 Bernoullie	Bernoulli	depr:pl:nom:m2	nazwisko	
 Bernoullie	Bernoulli	depr:pl:voc:m2	nazwisko	
 Bernoulliego	Bernoulli	subst:sg:acc:m1	nazwisko	
@@ -4878,6 +5046,7 @@ Bertowie	Bert	subst:pl:nom:m1	imię
 Bertowie	Bert	subst:pl:voc:m1	imię	
 Bertów	Bert	subst:pl:acc:m1	imię	
 Bertów	Bert	subst:pl:gen:m1	imię	
+Berty	Bert	depr:pl:acc:m2	imię	
 Berty	Bert	depr:pl:nom:m2	imię	
 Berty	Bert	depr:pl:voc:m2	imię	
 Bercie	Berta	subst:sg:dat:f	imię	
@@ -4906,6 +5075,7 @@ Bertoldowie	Bertold	subst:pl:nom:m1	imię
 Bertoldowie	Bertold	subst:pl:voc:m1	imię	
 Bertoldów	Bertold	subst:pl:acc:m1	imię	
 Bertoldów	Bertold	subst:pl:gen:m1	imię	
+Bertoldy	Bertold	depr:pl:acc:m2	imię	
 Bertoldy	Bertold	depr:pl:nom:m2	imię	
 Bertoldy	Bertold	depr:pl:voc:m2	imię	
 Bertoldzie	Bertold	subst:sg:loc:m1	imię	
@@ -4917,6 +5087,7 @@ Bertolucci	Bertolucci	subst:sg:voc:m1	nazwisko
 Bertoluccich	Bertolucci	subst:pl:acc:m1	nazwisko	
 Bertoluccich	Bertolucci	subst:pl:gen:m1	nazwisko	
 Bertoluccich	Bertolucci	subst:pl:loc:m1	nazwisko	
+Bertoluccie	Bertolucci	depr:pl:acc:m2	nazwisko	
 Bertoluccie	Bertolucci	depr:pl:nom:m2	nazwisko	
 Bertoluccie	Bertolucci	depr:pl:voc:m2	nazwisko	
 Bertolucciego	Bertolucci	subst:sg:acc:m1	nazwisko	
@@ -4942,6 +5113,7 @@ Bertramowie	Bertram	subst:pl:nom:m1	imię
 Bertramowie	Bertram	subst:pl:voc:m1	imię	
 Bertramów	Bertram	subst:pl:acc:m1	imię	
 Bertramów	Bertram	subst:pl:gen:m1	imię	
+Bertramy	Bertram	depr:pl:acc:m2	imię	
 Bertramy	Bertram	depr:pl:nom:m2	imię	
 Bertramy	Bertram	depr:pl:voc:m2	imię	
 Bertranda	Bertrand	subst:sg:acc:m1	imię	
@@ -4956,6 +5128,7 @@ Bertrandowie	Bertrand	subst:pl:nom:m1	imię
 Bertrandowie	Bertrand	subst:pl:voc:m1	imię	
 Bertrandów	Bertrand	subst:pl:acc:m1	imię	
 Bertrandów	Bertrand	subst:pl:gen:m1	imię	
+Bertrandy	Bertrand	depr:pl:acc:m2	imię	
 Bertrandy	Bertrand	depr:pl:nom:m2	imię	
 Bertrandy	Bertrand	depr:pl:voc:m2	imię	
 Bertrandzie	Bertrand	subst:sg:loc:m1	imię	
@@ -5003,6 +5176,7 @@ Bestużewowie	Bestużew	subst:pl:nom:m1	nazwisko
 Bestużewowie	Bestużew	subst:pl:voc:m1	nazwisko	
 Bestużewów	Bestużew	subst:pl:acc:m1	nazwisko	
 Bestużewów	Bestużew	subst:pl:gen:m1	nazwisko	
+Bestużewy	Bestużew	depr:pl:acc:m2	nazwisko	
 Bestużewy	Bestużew	depr:pl:nom:m2	nazwisko	
 Bestużewy	Bestużew	depr:pl:voc:m2	nazwisko	
 Betina	Betina	subst:sg:nom:f	nazwisko	
@@ -5061,6 +5235,7 @@ Bębnowie	Bęben	subst:pl:nom:m1	nazwisko
 Bębnowie	Bęben	subst:pl:voc:m1	nazwisko	
 Bębnów	Bęben	subst:pl:acc:m1	nazwisko	
 Bębnów	Bęben	subst:pl:gen:m1	nazwisko	
+Bębny	Bęben	depr:pl:acc:m2	nazwisko	
 Bębny	Bęben	depr:pl:nom:m2	nazwisko	
 Bębny	Bęben	depr:pl:voc:m2	nazwisko	
 Będkowa	Będków	subst:sg:gen:m3	nazwa geograficzna	
@@ -5348,6 +5523,7 @@ Białecki	Białecki	subst:sg:voc:m1	nazwisko
 Białeckich	Białecki	subst:pl:acc:m1	nazwisko	
 Białeckich	Białecki	subst:pl:gen:m1	nazwisko	
 Białeckich	Białecki	subst:pl:loc:m1	nazwisko	
+Białeckie	Białecki	depr:pl:acc:m2	nazwisko	
 Białeckie	Białecki	depr:pl:nom:m2	nazwisko	
 Białeckie	Białecki	depr:pl:voc:m2	nazwisko	
 Białeckiego	Białecki	subst:sg:acc:m1	nazwisko	
@@ -5362,6 +5538,7 @@ Białka	Białek	subst:sg:acc:m1	nazwisko
 Białka	Białek	subst:sg:gen:m1	nazwisko	
 Białkach	Białek	subst:pl:loc:m1	nazwisko	
 Białkami	Białek	subst:pl:inst:m1	nazwisko	
+Białki	Białek	depr:pl:acc:m2	nazwisko	
 Białki	Białek	depr:pl:nom:m2	nazwisko	
 Białki	Białek	depr:pl:voc:m2	nazwisko	
 Białkiem	Białek	subst:sg:inst:m1	nazwisko	
@@ -5393,6 +5570,7 @@ Białkach	Białko	subst:pl:loc:m1	nazwisko
 Białkami	Białko	subst:pl:inst:m1	nazwisko	
 Białką	Białko	subst:sg:inst:m1	nazwisko	
 Białkę	Białko	subst:sg:acc:m1	nazwisko	
+Białki	Białko	depr:pl:acc:m2	nazwisko	
 Białki	Białko	depr:pl:nom:m2	nazwisko	
 Białki	Białko	depr:pl:voc:m2	nazwisko	
 Białki	Białko	subst:sg:gen:m1	nazwisko	
@@ -5424,6 +5602,7 @@ Białkowski	Białkowski	subst:sg:voc:m1	nazwisko
 Białkowskich	Białkowski	subst:pl:acc:m1	nazwisko	
 Białkowskich	Białkowski	subst:pl:gen:m1	nazwisko	
 Białkowskich	Białkowski	subst:pl:loc:m1	nazwisko	
+Białkowskie	Białkowski	depr:pl:acc:m2	nazwisko	
 Białkowskie	Białkowski	depr:pl:nom:m2	nazwisko	
 Białkowskie	Białkowski	depr:pl:voc:m2	nazwisko	
 Białkowskiego	Białkowski	subst:sg:acc:m1	nazwisko	
@@ -5489,6 +5668,7 @@ Białorusowie	Białorus	subst:pl:nom:m1	nazwa pospolita	rzad.
 Białorusowie	Białorus	subst:pl:voc:m1	nazwa pospolita	rzad.
 Białorusów	Białorus	subst:pl:acc:m1	nazwa pospolita	rzad.
 Białorusów	Białorus	subst:pl:gen:m1	nazwa pospolita	rzad.
+Białorusy	Białorus	depr:pl:acc:m2	nazwa pospolita	rzad.
 Białorusy	Białorus	depr:pl:nom:m2	nazwa pospolita	rzad.
 Białorusy	Białorus	depr:pl:voc:m2	nazwa pospolita	rzad.
 Białorusina	Białorusin	subst:sg:acc:m1	nazwa pospolita	
@@ -5505,6 +5685,7 @@ Białorusinom	Białorusin	subst:pl:dat:m1	nazwa pospolita
 Białorusinowi	Białorusin	subst:sg:dat:m1	nazwa pospolita	
 Białorusinów	Białorusin	subst:pl:acc:m1	nazwa pospolita	
 Białorusinów	Białorusin	subst:pl:gen:m1	nazwa pospolita	
+Białorusiny	Białorusin	depr:pl:acc:m2	nazwa pospolita	
 Białorusiny	Białorusin	depr:pl:nom:m2	nazwa pospolita	
 Białorusiny	Białorusin	depr:pl:voc:m2	nazwa pospolita	
 Białorusince	Białorusinka	subst:sg:dat:f	nazwa pospolita	
@@ -5584,6 +5765,7 @@ Białoszewski	Białoszewski	subst:sg:voc:m1	nazwisko
 Białoszewskich	Białoszewski	subst:pl:acc:m1	nazwisko	
 Białoszewskich	Białoszewski	subst:pl:gen:m1	nazwisko	
 Białoszewskich	Białoszewski	subst:pl:loc:m1	nazwisko	
+Białoszewskie	Białoszewski	depr:pl:acc:m2	nazwisko	
 Białoszewskie	Białoszewski	depr:pl:nom:m2	nazwisko	
 Białoszewskie	Białoszewski	depr:pl:voc:m2	nazwisko	
 Białoszewskiego	Białoszewski	subst:sg:acc:m1	nazwisko	
@@ -5609,6 +5791,7 @@ Białowieży	Białowieża	subst:sg:gen:f	nazwa geograficzna
 Białowieży	Białowieża	subst:sg:loc:f	nazwa geograficzna	
 Biali	Biały	subst:pl:nom:m1	nazwisko	
 Biali	Biały	subst:pl:voc:m1	nazwisko	
+Białe	Biały	depr:pl:acc:m2	nazwisko	
 Białe	Biały	depr:pl:nom:m2	nazwisko	
 Białe	Biały	depr:pl:voc:m2	nazwisko	
 Białego	Biały	subst:sg:acc:m1	nazwisko	
@@ -5732,6 +5915,7 @@ Biegański	Biegański	subst:sg:voc:m1	nazwisko
 Biegańskich	Biegański	subst:pl:acc:m1	nazwisko	
 Biegańskich	Biegański	subst:pl:gen:m1	nazwisko	
 Biegańskich	Biegański	subst:pl:loc:m1	nazwisko	
+Biegańskie	Biegański	depr:pl:acc:m2	nazwisko	
 Biegańskie	Biegański	depr:pl:nom:m2	nazwisko	
 Biegańskie	Biegański	depr:pl:voc:m2	nazwisko	
 Biegańskiego	Biegański	subst:sg:acc:m1	nazwisko	
@@ -5746,6 +5930,7 @@ Biela	Biel	subst:sg:gen:m1	nazwisko
 Bielach	Biel	subst:pl:loc:m1	nazwisko	
 Bielami	Biel	subst:pl:inst:m1	nazwisko	
 Biel	Biel	subst:sg:nom:m1	nazwisko	
+Biele	Biel	depr:pl:acc:m2	nazwisko	
 Biele	Biel	depr:pl:nom:m2	nazwisko	
 Biele	Biel	depr:pl:voc:m2	nazwisko	
 Bielem	Biel	subst:sg:inst:m1	nazwisko	
@@ -5785,6 +5970,7 @@ Bielawnych	Bielawna	subst:pl:gen:f	nazwisko
 Bielawnych	Bielawna	subst:pl:loc:f	nazwisko	
 Bielawnym	Bielawna	subst:pl:dat:f	nazwisko	
 Bielawnymi	Bielawna	subst:pl:inst:f	nazwisko	
+Bielawne	Bielawny	depr:pl:acc:m2	nazwisko	
 Bielawne	Bielawny	depr:pl:nom:m2	nazwisko	
 Bielawne	Bielawny	depr:pl:voc:m2	nazwisko	
 Bielawnego	Bielawny	subst:sg:acc:m1	nazwisko	
@@ -5822,6 +6008,7 @@ Bielecki	Bielecki	subst:sg:voc:m1	nazwisko
 Bieleckich	Bielecki	subst:pl:acc:m1	nazwisko	
 Bieleckich	Bielecki	subst:pl:gen:m1	nazwisko	
 Bieleckich	Bielecki	subst:pl:loc:m1	nazwisko	
+Bieleckie	Bielecki	depr:pl:acc:m2	nazwisko	
 Bieleckie	Bielecki	depr:pl:nom:m2	nazwisko	
 Bieleckie	Bielecki	depr:pl:voc:m2	nazwisko	
 Bieleckiego	Bielecki	subst:sg:acc:m1	nazwisko	
@@ -5880,6 +6067,7 @@ Bieliński	Bieliński	subst:sg:voc:m1	nazwisko
 Bielińskich	Bieliński	subst:pl:acc:m1	nazwisko	
 Bielińskich	Bieliński	subst:pl:gen:m1	nazwisko	
 Bielińskich	Bieliński	subst:pl:loc:m1	nazwisko	
+Bielińskie	Bieliński	depr:pl:acc:m2	nazwisko	
 Bielińskie	Bieliński	depr:pl:nom:m2	nazwisko	
 Bielińskie	Bieliński	depr:pl:voc:m2	nazwisko	
 Bielińskiego	Bieliński	subst:sg:acc:m1	nazwisko	
@@ -5936,6 +6124,7 @@ Bieńka	Bieniek	subst:sg:acc:m1	nazwisko
 Bieńka	Bieniek	subst:sg:gen:m1	nazwisko	
 Bieńkach	Bieniek	subst:pl:loc:m1	nazwisko	
 Bieńkami	Bieniek	subst:pl:inst:m1	nazwisko	
+Bieńki	Bieniek	depr:pl:acc:m2	nazwisko	
 Bieńki	Bieniek	depr:pl:nom:m2	nazwisko	
 Bieńki	Bieniek	depr:pl:voc:m2	nazwisko	
 Bieńkiem	Bieniek	subst:sg:inst:m1	nazwisko	
@@ -5951,6 +6140,7 @@ Bienia	Bień	subst:sg:acc:m1	nazwisko
 Bienia	Bień	subst:sg:gen:m1	nazwisko	
 Bieniach	Bień	subst:pl:loc:m1	nazwisko	
 Bieniami	Bień	subst:pl:inst:m1	nazwisko	
+Bienie	Bień	depr:pl:acc:m2	nazwisko	
 Bienie	Bień	depr:pl:nom:m2	nazwisko	
 Bienie	Bień	depr:pl:voc:m2	nazwisko	
 Bieniem	Bień	subst:sg:inst:m1	nazwisko	
@@ -5984,6 +6174,7 @@ Bieńkowski	Bieńkowski	subst:sg:voc:m1	nazwisko
 Bieńkowskich	Bieńkowski	subst:pl:acc:m1	nazwisko	
 Bieńkowskich	Bieńkowski	subst:pl:gen:m1	nazwisko	
 Bieńkowskich	Bieńkowski	subst:pl:loc:m1	nazwisko	
+Bieńkowskie	Bieńkowski	depr:pl:acc:m2	nazwisko	
 Bieńkowskie	Bieńkowski	depr:pl:nom:m2	nazwisko	
 Bieńkowskie	Bieńkowski	depr:pl:voc:m2	nazwisko	
 Bieńkowskiego	Bieńkowski	subst:sg:acc:m1	nazwisko	
@@ -6014,6 +6205,7 @@ Biernacki	Biernacki	subst:sg:voc:m1	nazwisko
 Biernackich	Biernacki	subst:pl:acc:m1	nazwisko	
 Biernackich	Biernacki	subst:pl:gen:m1	nazwisko	
 Biernackich	Biernacki	subst:pl:loc:m1	nazwisko	
+Biernackie	Biernacki	depr:pl:acc:m2	nazwisko	
 Biernackie	Biernacki	depr:pl:nom:m2	nazwisko	
 Biernackie	Biernacki	depr:pl:voc:m2	nazwisko	
 Biernackiego	Biernacki	subst:sg:acc:m1	nazwisko	
@@ -6037,6 +6229,7 @@ Biernatowie	Biernat	subst:pl:nom:m1	imię|nazwisko
 Biernatowie	Biernat	subst:pl:voc:m1	imię|nazwisko	
 Biernatów	Biernat	subst:pl:acc:m1	imię|nazwisko	
 Biernatów	Biernat	subst:pl:gen:m1	imię|nazwisko	
+Biernaty	Biernat	depr:pl:acc:m2	imię|nazwisko	
 Biernaty	Biernat	depr:pl:nom:m2	imię|nazwisko	
 Biernaty	Biernat	depr:pl:voc:m2	imię|nazwisko	
 B	biernik	brev:pun		jęz.
@@ -6069,6 +6262,7 @@ Bierutowie	Bierut	subst:pl:nom:m1	nazwisko
 Bierutowie	Bierut	subst:pl:voc:m1	nazwisko	
 Bierutów	Bierut	subst:pl:acc:m1	nazwisko	
 Bierutów	Bierut	subst:pl:gen:m1	nazwisko	
+Bieruty	Bierut	depr:pl:acc:m2	nazwisko	
 Bieruty	Bierut	depr:pl:nom:m2	nazwisko	
 Bieruty	Bierut	depr:pl:voc:m2	nazwisko	
 Bierutowa	Bierutów	subst:sg:gen:m3	nazwa geograficzna	
@@ -6149,6 +6343,7 @@ Bila	Bil	subst:sg:gen:m1	imię
 Bilach	Bil	subst:pl:loc:m1	imię	
 Bilami	Bil	subst:pl:inst:m1	imię	
 Bil	Bil	subst:sg:nom:m1	imię	
+Bile	Bil	depr:pl:acc:m2	imię	
 Bile	Bil	depr:pl:nom:m2	imię	
 Bile	Bil	depr:pl:voc:m2	imię	
 Bilem	Bil	subst:sg:inst:m1	imię	
@@ -6181,6 +6376,7 @@ Biliński	Biliński	subst:sg:voc:m1	nazwisko
 Bilińskich	Biliński	subst:pl:acc:m1	nazwisko	
 Bilińskich	Biliński	subst:pl:gen:m1	nazwisko	
 Bilińskich	Biliński	subst:pl:loc:m1	nazwisko	
+Bilińskie	Biliński	depr:pl:acc:m2	nazwisko	
 Bilińskie	Biliński	depr:pl:nom:m2	nazwisko	
 Bilińskie	Biliński	depr:pl:voc:m2	nazwisko	
 Bilińskiego	Biliński	subst:sg:acc:m1	nazwisko	
@@ -6195,6 +6391,7 @@ Billa	Bill	subst:sg:gen:m1	imię
 Billach	Bill	subst:pl:loc:m1	imię	
 Billami	Bill	subst:pl:inst:m1	imię	
 Bill	Bill	subst:sg:nom:m1	imię	
+Bille	Bill	depr:pl:acc:m2	imię	
 Bille	Bill	depr:pl:nom:m2	imię	
 Bille	Bill	depr:pl:voc:m2	imię	
 Bille	Bill	subst:pl:nom:m1	imię	
@@ -6229,6 +6426,7 @@ Bilski	Bilski	subst:sg:voc:m1	nazwisko
 Bilskich	Bilski	subst:pl:acc:m1	nazwisko	
 Bilskich	Bilski	subst:pl:gen:m1	nazwisko	
 Bilskich	Bilski	subst:pl:loc:m1	nazwisko	
+Bilskie	Bilski	depr:pl:acc:m2	nazwisko	
 Bilskie	Bilski	depr:pl:nom:m2	nazwisko	
 Bilskie	Bilski	depr:pl:voc:m2	nazwisko	
 Bilskiego	Bilski	subst:sg:acc:m1	nazwisko	
@@ -6274,6 +6472,7 @@ Bińkowski	Bińkowski	subst:sg:voc:m1	nazwisko
 Bińkowskich	Bińkowski	subst:pl:acc:m1	nazwisko	
 Bińkowskich	Bińkowski	subst:pl:gen:m1	nazwisko	
 Bińkowskich	Bińkowski	subst:pl:loc:m1	nazwisko	
+Bińkowskie	Bińkowski	depr:pl:acc:m2	nazwisko	
 Bińkowskie	Bińkowski	depr:pl:nom:m2	nazwisko	
 Bińkowskie	Bińkowski	depr:pl:voc:m2	nazwisko	
 Bińkowskiego	Bińkowski	subst:sg:acc:m1	nazwisko	
@@ -6416,6 +6615,7 @@ Biskupski	Biskupski	subst:sg:voc:m1	nazwisko
 Biskupskich	Biskupski	subst:pl:acc:m1	nazwisko	
 Biskupskich	Biskupski	subst:pl:gen:m1	nazwisko	
 Biskupskich	Biskupski	subst:pl:loc:m1	nazwisko	
+Biskupskie	Biskupski	depr:pl:acc:m2	nazwisko	
 Biskupskie	Biskupski	depr:pl:nom:m2	nazwisko	
 Biskupskie	Biskupski	depr:pl:voc:m2	nazwisko	
 Biskupskiego	Biskupski	subst:sg:acc:m1	nazwisko	
@@ -6430,6 +6630,7 @@ Bismarcka	Bismarck	subst:sg:gen:m1	nazwisko
 Bismarckach	Bismarck	subst:pl:loc:m1	nazwisko	
 Bismarckami	Bismarck	subst:pl:inst:m1	nazwisko	
 Bismarck	Bismarck	subst:sg:nom:m1	nazwisko	
+Bismarcki	Bismarck	depr:pl:acc:m2	nazwisko	
 Bismarcki	Bismarck	depr:pl:nom:m2	nazwisko	
 Bismarcki	Bismarck	depr:pl:voc:m2	nazwisko	
 Bismarckiem	Bismarck	subst:sg:inst:m1	nazwisko	
@@ -6537,6 +6738,7 @@ Blairowie	Blair	subst:pl:nom:m1	nazwisko
 Blairowie	Blair	subst:pl:voc:m1	nazwisko	
 Blairów	Blair	subst:pl:acc:m1	nazwisko	
 Blairów	Blair	subst:pl:gen:m1	nazwisko	
+Blairy	Blair	depr:pl:acc:m2	nazwisko	
 Blairy	Blair	depr:pl:nom:m2	nazwisko	
 Blairy	Blair	depr:pl:voc:m2	nazwisko	
 Blairze	Blair	subst:sg:loc:m1	nazwisko	
@@ -6554,6 +6756,7 @@ Blake’ów	Blake	subst:pl:acc:m1	nazwisko
 Blake’ów	Blake	subst:pl:gen:m1	nazwisko	
 Blake’u	Blake	subst:sg:loc:m1	nazwisko	
 Blake’u	Blake	subst:sg:voc:m1	nazwisko	
+Blaki	Blake	depr:pl:acc:m2	nazwisko	
 Blaki	Blake	depr:pl:nom:m2	nazwisko	
 Blaki	Blake	depr:pl:voc:m2	nazwisko	
 Blakiem	Blake	subst:sg:inst:m1	nazwisko	
@@ -6570,6 +6773,7 @@ Blanchardowie	Blanchard	subst:pl:nom:m1	nazwisko
 Blanchardowie	Blanchard	subst:pl:voc:m1	nazwisko	
 Blanchardów	Blanchard	subst:pl:acc:m1	nazwisko	
 Blanchardów	Blanchard	subst:pl:gen:m1	nazwisko	
+Blanchardy	Blanchard	depr:pl:acc:m2	nazwisko	
 Blanchardy	Blanchard	depr:pl:nom:m2	nazwisko	
 Blanchardy	Blanchard	depr:pl:voc:m2	nazwisko	
 Blanchardzie	Blanchard	subst:sg:loc:m1	nazwisko	
@@ -6590,6 +6794,7 @@ Blandynowie	Blandyn	subst:pl:nom:m1	imię
 Blandynowie	Blandyn	subst:pl:voc:m1	imię	
 Blandynów	Blandyn	subst:pl:acc:m1	imię	
 Blandynów	Blandyn	subst:pl:gen:m1	imię	
+Blandyny	Blandyn	depr:pl:acc:m2	imię	
 Blandyny	Blandyn	depr:pl:nom:m2	imię	
 Blandyny	Blandyn	depr:pl:voc:m2	imię	
 Blandyna	Blandyna	subst:sg:nom:f	imię	
@@ -6649,10 +6854,12 @@ Bleriotowie	Bleriot	subst:pl:nom:m1	nazwisko
 Bleriotowie	Bleriot	subst:pl:voc:m1	nazwisko	
 Bleriotów	Bleriot	subst:pl:acc:m1	nazwisko	
 Bleriotów	Bleriot	subst:pl:gen:m1	nazwisko	
+Blerioty	Bleriot	depr:pl:acc:m2	nazwisko	
 Blerioty	Bleriot	depr:pl:nom:m2	nazwisko	
 Blerioty	Bleriot	depr:pl:voc:m2	nazwisko	
 Bliklach	Blikle	subst:pl:loc:m1	nazwisko	
 Bliklami	Blikle	subst:pl:inst:m1	nazwisko	
+Blikle	Blikle	depr:pl:acc:m2	nazwisko	
 Blikle	Blikle	depr:pl:nom:m2	nazwisko	
 Blikle	Blikle	depr:pl:voc:m2	nazwisko	
 Blikle	Blikle	subst:sg:nom:m1	nazwisko	
@@ -6681,6 +6888,7 @@ Blixenowie	Blixen	subst:pl:nom:m1	nazwisko
 Blixenowie	Blixen	subst:pl:voc:m1	nazwisko	
 Blixenów	Blixen	subst:pl:acc:m1	nazwisko	
 Blixenów	Blixen	subst:pl:gen:m1	nazwisko	
+Blixeny	Blixen	depr:pl:acc:m2	nazwisko	
 Blixeny	Blixen	depr:pl:nom:m2	nazwisko	
 Blixeny	Blixen	depr:pl:voc:m2	nazwisko	
 Blizanowa	Blizanów	subst:sg:gen:m3	nazwa geograficzna	
@@ -6710,6 +6918,7 @@ Blizborowie	Blizbor	subst:pl:nom:m1	imię
 Blizborowie	Blizbor	subst:pl:voc:m1	imię	
 Blizborów	Blizbor	subst:pl:acc:m1	imię	
 Blizborów	Blizbor	subst:pl:gen:m1	imię	
+Blizbory	Blizbor	depr:pl:acc:m2	imię	
 Blizbory	Blizbor	depr:pl:nom:m2	imię	
 Blizbory	Blizbor	depr:pl:voc:m2	imię	
 Blizborze	Blizbor	subst:sg:loc:m1	imię	
@@ -6723,6 +6932,7 @@ Bliźniaka	Bliźniak	subst:sg:gen:m1	nazwa pospolita
 Bliźniakach	Bliźniak	subst:pl:loc:m1	nazwa pospolita	
 Bliźniakami	Bliźniak	subst:pl:inst:m1	nazwa pospolita	
 Bliźniak	Bliźniak	subst:sg:nom:m1	nazwa pospolita	
+Bliźniaki	Bliźniak	depr:pl:acc:m2	nazwa pospolita	
 Bliźniaki	Bliźniak	depr:pl:nom:m2	nazwa pospolita	
 Bliźniaki	Bliźniak	depr:pl:voc:m2	nazwa pospolita	
 Bliźniakiem	Bliźniak	subst:sg:inst:m1	nazwa pospolita	
@@ -6758,6 +6968,7 @@ Błaszczaka	Błaszczak	subst:sg:gen:m1	nazwisko
 Błaszczakach	Błaszczak	subst:pl:loc:m1	nazwisko	
 Błaszczakami	Błaszczak	subst:pl:inst:m1	nazwisko	
 Błaszczak	Błaszczak	subst:sg:nom:m1	nazwisko	
+Błaszczaki	Błaszczak	depr:pl:acc:m2	nazwisko	
 Błaszczaki	Błaszczak	depr:pl:nom:m2	nazwisko	
 Błaszczaki	Błaszczak	depr:pl:voc:m2	nazwisko	
 Błaszczakiem	Błaszczak	subst:sg:inst:m1	nazwisko	
@@ -6774,6 +6985,7 @@ Błaszczyka	Błaszczyk	subst:sg:gen:m1	nazwisko
 Błaszczykach	Błaszczyk	subst:pl:loc:m1	nazwisko	
 Błaszczykami	Błaszczyk	subst:pl:inst:m1	nazwisko	
 Błaszczyk	Błaszczyk	subst:sg:nom:m1	nazwisko	
+Błaszczyki	Błaszczyk	depr:pl:acc:m2	nazwisko	
 Błaszczyki	Błaszczyk	depr:pl:nom:m2	nazwisko	
 Błaszczyki	Błaszczyk	depr:pl:voc:m2	nazwisko	
 Błaszczykiem	Błaszczyk	subst:sg:inst:m1	nazwisko	
@@ -6790,6 +7002,7 @@ Błażeja	Błażej	subst:sg:gen:m1	imię
 Błażejach	Błażej	subst:pl:loc:m1	imię	
 Błażejami	Błażej	subst:pl:inst:m1	imię	
 Błażej	Błażej	subst:sg:nom:m1	imię	
+Błażeje	Błażej	depr:pl:acc:m2	imię	
 Błażeje	Błażej	depr:pl:nom:m2	imię	
 Błażeje	Błażej	depr:pl:voc:m2	imię	
 Błażeje	Błażej	subst:pl:nom:m1	imię	
@@ -6824,6 +7037,7 @@ Błażejewski	Błażejewski	subst:sg:voc:m1	nazwisko
 Błażejewskich	Błażejewski	subst:pl:acc:m1	nazwisko	
 Błażejewskich	Błażejewski	subst:pl:gen:m1	nazwisko	
 Błażejewskich	Błażejewski	subst:pl:loc:m1	nazwisko	
+Błażejewskie	Błażejewski	depr:pl:acc:m2	nazwisko	
 Błażejewskie	Błażejewski	depr:pl:nom:m2	nazwisko	
 Błażejewskie	Błażejewski	depr:pl:voc:m2	nazwisko	
 Błażejewskiego	Błażejewski	subst:sg:acc:m1	nazwisko	
@@ -6867,6 +7081,7 @@ Błoka	Błok	subst:sg:gen:m1	nazwisko
 Błokach	Błok	subst:pl:loc:m1	nazwisko	
 Błokami	Błok	subst:pl:inst:m1	nazwisko	
 Błok	Błok	subst:sg:nom:m1	nazwisko	
+Błoki	Błok	depr:pl:acc:m2	nazwisko	
 Błoki	Błok	depr:pl:nom:m2	nazwisko	
 Błoki	Błok	depr:pl:voc:m2	nazwisko	
 Błokiem	Błok	subst:sg:inst:m1	nazwisko	
@@ -6899,6 +7114,7 @@ Błoński	Błoński	subst:sg:voc:m1	nazwisko
 Błońskich	Błoński	subst:pl:acc:m1	nazwisko	
 Błońskich	Błoński	subst:pl:gen:m1	nazwisko	
 Błońskich	Błoński	subst:pl:loc:m1	nazwisko	
+Błońskie	Błoński	depr:pl:acc:m2	nazwisko	
 Błońskie	Błoński	depr:pl:nom:m2	nazwisko	
 Błońskie	Błoński	depr:pl:voc:m2	nazwisko	
 Błońskiego	Błoński	subst:sg:acc:m1	nazwisko	
@@ -7006,6 +7222,7 @@ Bobowie	Bob	subst:pl:nom:m1	imię
 Bobowie	Bob	subst:pl:voc:m1	imię	
 Bobów	Bob	subst:pl:acc:m1	imię	
 Bobów	Bob	subst:pl:gen:m1	imię	
+Boby	Bob	depr:pl:acc:m2	imię	
 Boby	Bob	depr:pl:nom:m2	imię	
 Boby	Bob	depr:pl:voc:m2	imię	
 Bobera	Bober	subst:sg:acc:m1	nazwisko	
@@ -7020,6 +7237,7 @@ Boberowie	Bober	subst:pl:nom:m1	nazwisko
 Boberowie	Bober	subst:pl:voc:m1	nazwisko	
 Boberów	Bober	subst:pl:acc:m1	nazwisko	
 Boberów	Bober	subst:pl:gen:m1	nazwisko	
+Bobery	Bober	depr:pl:acc:m2	nazwisko	
 Bobery	Bober	depr:pl:nom:m2	nazwisko	
 Bobery	Bober	depr:pl:voc:m2	nazwisko	
 Boberze	Bober	subst:sg:loc:m1	nazwisko	
@@ -7035,6 +7253,7 @@ Bobrowie	Bober	subst:pl:nom:m1	nazwisko
 Bobrowie	Bober	subst:pl:voc:m1	nazwisko	
 Bobrów	Bober	subst:pl:acc:m1	nazwisko	
 Bobrów	Bober	subst:pl:gen:m1	nazwisko	
+Bobry	Bober	depr:pl:acc:m2	nazwisko	
 Bobry	Bober	depr:pl:nom:m2	nazwisko	
 Bobry	Bober	depr:pl:voc:m2	nazwisko	
 Bobrze	Bober	subst:sg:loc:m1	nazwisko	
@@ -7060,6 +7279,7 @@ Bobiński	Bobiński	subst:sg:voc:m1	nazwisko
 Bobińskich	Bobiński	subst:pl:acc:m1	nazwisko	
 Bobińskich	Bobiński	subst:pl:gen:m1	nazwisko	
 Bobińskich	Bobiński	subst:pl:loc:m1	nazwisko	
+Bobińskie	Bobiński	depr:pl:acc:m2	nazwisko	
 Bobińskie	Bobiński	depr:pl:nom:m2	nazwisko	
 Bobińskie	Bobiński	depr:pl:voc:m2	nazwisko	
 Bobińskiego	Bobiński	subst:sg:acc:m1	nazwisko	
@@ -7148,6 +7368,7 @@ Bobrowski	Bobrowski	subst:sg:voc:m1	nazwisko
 Bobrowskich	Bobrowski	subst:pl:acc:m1	nazwisko	
 Bobrowskich	Bobrowski	subst:pl:gen:m1	nazwisko	
 Bobrowskich	Bobrowski	subst:pl:loc:m1	nazwisko	
+Bobrowskie	Bobrowski	depr:pl:acc:m2	nazwisko	
 Bobrowskie	Bobrowski	depr:pl:nom:m2	nazwisko	
 Bobrowskie	Bobrowski	depr:pl:voc:m2	nazwisko	
 Bobrowskiego	Bobrowski	subst:sg:acc:m1	nazwisko	
@@ -7164,6 +7385,7 @@ Bobrzyński	Bobrzyński	subst:sg:voc:m1	nazwisko
 Bobrzyńskich	Bobrzyński	subst:pl:acc:m1	nazwisko	
 Bobrzyńskich	Bobrzyński	subst:pl:gen:m1	nazwisko	
 Bobrzyńskich	Bobrzyński	subst:pl:loc:m1	nazwisko	
+Bobrzyńskie	Bobrzyński	depr:pl:acc:m2	nazwisko	
 Bobrzyńskie	Bobrzyński	depr:pl:nom:m2	nazwisko	
 Bobrzyńskie	Bobrzyński	depr:pl:voc:m2	nazwisko	
 Bobrzyńskiego	Bobrzyński	subst:sg:acc:m1	nazwisko	
@@ -7177,6 +7399,7 @@ Boccaccia	Boccaccio	subst:sg:acc:m1	nazwisko
 Boccaccia	Boccaccio	subst:sg:gen:m1	nazwisko	
 Boccacciach	Boccaccio	subst:pl:loc:m1	nazwisko	
 Boccacciami	Boccaccio	subst:pl:inst:m1	nazwisko	
+Boccaccie	Boccaccio	depr:pl:acc:m2	nazwisko	
 Boccaccie	Boccaccio	depr:pl:nom:m2	nazwisko	
 Boccaccie	Boccaccio	depr:pl:voc:m2	nazwisko	
 Boccacciem	Boccaccio	subst:sg:inst:m1	nazwisko	
@@ -7196,6 +7419,7 @@ Boccherini	Boccherini	subst:sg:voc:m1	nazwisko
 Boccherinich	Boccherini	subst:pl:acc:m1	nazwisko	
 Boccherinich	Boccherini	subst:pl:gen:m1	nazwisko	
 Boccherinich	Boccherini	subst:pl:loc:m1	nazwisko	
+Boccherinie	Boccherini	depr:pl:acc:m2	nazwisko	
 Boccherinie	Boccherini	depr:pl:nom:m2	nazwisko	
 Boccherinie	Boccherini	depr:pl:voc:m2	nazwisko	
 Boccheriniego	Boccherini	subst:sg:acc:m1	nazwisko	
@@ -7213,6 +7437,7 @@ Bochenkach	Bochenko	subst:pl:loc:m1	nazwisko
 Bochenkami	Bochenko	subst:pl:inst:m1	nazwisko	
 Bochenką	Bochenko	subst:sg:inst:m1	nazwisko	
 Bochenkę	Bochenko	subst:sg:acc:m1	nazwisko	
+Bochenki	Bochenko	depr:pl:acc:m2	nazwisko	
 Bochenki	Bochenko	depr:pl:nom:m2	nazwisko	
 Bochenki	Bochenko	depr:pl:voc:m2	nazwisko	
 Bochenki	Bochenko	subst:sg:gen:m1	nazwisko	
@@ -7244,6 +7469,7 @@ Bocheński	Bocheński	subst:sg:voc:m1	nazwisko
 Bocheńskich	Bocheński	subst:pl:acc:m1	nazwisko	
 Bocheńskich	Bocheński	subst:pl:gen:m1	nazwisko	
 Bocheńskich	Bocheński	subst:pl:loc:m1	nazwisko	
+Bocheńskie	Bocheński	depr:pl:acc:m2	nazwisko	
 Bocheńskie	Bocheński	depr:pl:nom:m2	nazwisko	
 Bocheńskie	Bocheński	depr:pl:voc:m2	nazwisko	
 Bocheńskiego	Bocheński	subst:sg:acc:m1	nazwisko	
@@ -7272,6 +7498,7 @@ Bochniarza	Bochniarz	subst:sg:gen:m1	nazwisko
 Bochniarzach	Bochniarz	subst:pl:loc:m1	nazwisko	
 Bochniarzami	Bochniarz	subst:pl:inst:m1	nazwisko	
 Bochniarz	Bochniarz	subst:sg:nom:m1	nazwisko	
+Bochniarze	Bochniarz	depr:pl:acc:m2	nazwisko	
 Bochniarze	Bochniarz	depr:pl:nom:m2	nazwisko	
 Bochniarze	Bochniarz	depr:pl:voc:m2	nazwisko	
 Bochniarzem	Bochniarz	subst:sg:inst:m1	nazwisko	
@@ -7304,6 +7531,7 @@ Boczkowski	Boczkowski	subst:sg:voc:m1	nazwisko
 Boczkowskich	Boczkowski	subst:pl:acc:m1	nazwisko	
 Boczkowskich	Boczkowski	subst:pl:gen:m1	nazwisko	
 Boczkowskich	Boczkowski	subst:pl:loc:m1	nazwisko	
+Boczkowskie	Boczkowski	depr:pl:acc:m2	nazwisko	
 Boczkowskie	Boczkowski	depr:pl:nom:m2	nazwisko	
 Boczkowskie	Boczkowski	depr:pl:voc:m2	nazwisko	
 Boczkowskiego	Boczkowski	subst:sg:acc:m1	nazwisko	
@@ -7414,6 +7642,7 @@ Bodzionych	Bodziona	subst:pl:gen:f	nazwisko
 Bodzionych	Bodziona	subst:pl:loc:f	nazwisko	
 Bodzionym	Bodziona	subst:pl:dat:f	nazwisko	
 Bodzionymi	Bodziona	subst:pl:inst:f	nazwisko	
+Bodzione	Bodziony	depr:pl:acc:m2	nazwisko	
 Bodzione	Bodziony	depr:pl:nom:m2	nazwisko	
 Bodzione	Bodziony	depr:pl:voc:m2	nazwisko	
 Bodzionego	Bodziony	subst:sg:acc:m1	nazwisko	
@@ -7444,6 +7673,7 @@ Boecklinowie	Boecklin	subst:pl:nom:m1	nazwisko
 Boecklinowie	Boecklin	subst:pl:voc:m1	nazwisko	
 Boecklinów	Boecklin	subst:pl:acc:m1	nazwisko	
 Boecklinów	Boecklin	subst:pl:gen:m1	nazwisko	
+Boeckliny	Boecklin	depr:pl:acc:m2	nazwisko	
 Boeckliny	Boecklin	depr:pl:nom:m2	nazwisko	
 Boeckliny	Boecklin	depr:pl:voc:m2	nazwisko	
 Bogaczowicach	Bogaczowice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -7517,6 +7747,7 @@ Bogdanowie	Bogdan	subst:pl:nom:m1	imię
 Bogdanowie	Bogdan	subst:pl:voc:m1	imię	
 Bogdanów	Bogdan	subst:pl:acc:m1	imię	
 Bogdanów	Bogdan	subst:pl:gen:m1	imię	
+Bogdany	Bogdan	depr:pl:acc:m2	imię	
 Bogdany	Bogdan	depr:pl:nom:m2	imię	
 Bogdany	Bogdan	depr:pl:voc:m2	imię	
 Bogdana	Bogdana	subst:sg:nom:f	imię	
@@ -7538,6 +7769,7 @@ Bogdanka	Bogdanek	subst:sg:acc:m1	imię
 Bogdanka	Bogdanek	subst:sg:gen:m1	imię	
 Bogdankach	Bogdanek	subst:pl:loc:m1	imię	
 Bogdankami	Bogdanek	subst:pl:inst:m1	imię	
+Bogdanki	Bogdanek	depr:pl:acc:m2	imię	
 Bogdanki	Bogdanek	depr:pl:nom:m2	imię	
 Bogdanki	Bogdanek	depr:pl:voc:m2	imię	
 Bogdankiem	Bogdanek	subst:sg:inst:m1	imię	
@@ -7568,6 +7800,7 @@ Bogdanowicza	Bogdanowicz	subst:sg:gen:m1	nazwisko
 Bogdanowiczach	Bogdanowicz	subst:pl:loc:m1	nazwisko	
 Bogdanowiczami	Bogdanowicz	subst:pl:inst:m1	nazwisko	
 Bogdanowicz	Bogdanowicz	subst:sg:nom:m1	nazwisko	
+Bogdanowicze	Bogdanowicz	depr:pl:acc:m2	nazwisko	
 Bogdanowicze	Bogdanowicz	depr:pl:nom:m2	nazwisko	
 Bogdanowicze	Bogdanowicz	depr:pl:voc:m2	nazwisko	
 Bogdanowicze	Bogdanowicz	subst:pl:nom:m1	nazwisko	
@@ -7602,6 +7835,7 @@ Bogdański	Bogdański	subst:sg:voc:m1	nazwisko
 Bogdańskich	Bogdański	subst:pl:acc:m1	nazwisko	
 Bogdańskich	Bogdański	subst:pl:gen:m1	nazwisko	
 Bogdańskich	Bogdański	subst:pl:loc:m1	nazwisko	
+Bogdańskie	Bogdański	depr:pl:acc:m2	nazwisko	
 Bogdańskie	Bogdański	depr:pl:nom:m2	nazwisko	
 Bogdańskie	Bogdański	depr:pl:voc:m2	nazwisko	
 Bogdańskiego	Bogdański	subst:sg:acc:m1	nazwisko	
@@ -7645,6 +7879,7 @@ Bogorodccy	Bogorodckij	subst:pl:voc:m1	nazwisko
 Bogorodckich	Bogorodckij	subst:pl:acc:m1	nazwisko	
 Bogorodckich	Bogorodckij	subst:pl:gen:m1	nazwisko	
 Bogorodckich	Bogorodckij	subst:pl:loc:m1	nazwisko	
+Bogorodckie	Bogorodckij	depr:pl:acc:m2	nazwisko	
 Bogorodckie	Bogorodckij	depr:pl:nom:m2	nazwisko	
 Bogorodckie	Bogorodckij	depr:pl:voc:m2	nazwisko	
 Bogorodckiego	Bogorodckij	subst:sg:acc:m1	nazwisko	
@@ -7663,6 +7898,7 @@ Bogoryja	Bogoryja	subst:sg:nom:m1	nazwisko
 Bogoryjach	Bogoryja	subst:pl:loc:m1	nazwisko	
 Bogoryjami	Bogoryja	subst:pl:inst:m1	nazwisko	
 Bogoryją	Bogoryja	subst:sg:inst:m1	nazwisko	
+Bogoryje	Bogoryja	depr:pl:acc:m2	nazwisko	
 Bogoryje	Bogoryja	depr:pl:nom:m2	nazwisko	
 Bogoryje	Bogoryja	depr:pl:voc:m2	nazwisko	
 Bogoryję	Bogoryja	subst:sg:acc:m1	nazwisko	
@@ -7686,6 +7922,7 @@ Boguchwałowie	Boguchwał	subst:pl:nom:m1	imię
 Boguchwałowie	Boguchwał	subst:pl:voc:m1	imię	
 Boguchwałów	Boguchwał	subst:pl:acc:m1	imię	
 Boguchwałów	Boguchwał	subst:pl:gen:m1	imię	
+Boguchwały	Boguchwał	depr:pl:acc:m2	imię	
 Boguchwały	Boguchwał	depr:pl:nom:m2	imię	
 Boguchwały	Boguchwał	depr:pl:voc:m2	imię	
 Boguchwale	Boguchwała	subst:sg:dat:f	imię	
@@ -7723,6 +7960,7 @@ Bogucki	Bogucki	subst:sg:voc:m1	nazwisko
 Boguckich	Bogucki	subst:pl:acc:m1	nazwisko	
 Boguckich	Bogucki	subst:pl:gen:m1	nazwisko	
 Boguckich	Bogucki	subst:pl:loc:m1	nazwisko	
+Boguckie	Bogucki	depr:pl:acc:m2	nazwisko	
 Boguckie	Bogucki	depr:pl:nom:m2	nazwisko	
 Boguckie	Bogucki	depr:pl:voc:m2	nazwisko	
 Boguckiego	Bogucki	subst:sg:acc:m1	nazwisko	
@@ -7744,6 +7982,7 @@ Bogudarowie	Bogudar	subst:pl:nom:m1	imię
 Bogudarowie	Bogudar	subst:pl:voc:m1	imię	
 Bogudarów	Bogudar	subst:pl:acc:m1	imię	
 Bogudarów	Bogudar	subst:pl:gen:m1	imię	
+Bogudary	Bogudar	depr:pl:acc:m2	imię	
 Bogudary	Bogudar	depr:pl:nom:m2	imię	
 Bogudary	Bogudar	depr:pl:voc:m2	imię	
 Bogudarze	Bogudar	subst:sg:loc:m1	imię	
@@ -7764,6 +8003,7 @@ Bogumiłowie	Bogumił	subst:pl:nom:m1	imię
 Bogumiłowie	Bogumił	subst:pl:voc:m1	imię	
 Bogumiłów	Bogumił	subst:pl:acc:m1	imię	
 Bogumiłów	Bogumił	subst:pl:gen:m1	imię	
+Bogumiły	Bogumił	depr:pl:acc:m2	imię	
 Bogumiły	Bogumił	depr:pl:nom:m2	imię	
 Bogumiły	Bogumił	depr:pl:voc:m2	imię	
 Bogumile	Bogumiła	subst:sg:dat:f	imię	
@@ -7792,6 +8032,7 @@ Bogumirowie	Bogumir	subst:pl:nom:m1	imię
 Bogumirowie	Bogumir	subst:pl:voc:m1	imię	
 Bogumirów	Bogumir	subst:pl:acc:m1	imię	
 Bogumirów	Bogumir	subst:pl:gen:m1	imię	
+Bogumiry	Bogumir	depr:pl:acc:m2	imię	
 Bogumiry	Bogumir	depr:pl:nom:m2	imię	
 Bogumiry	Bogumir	depr:pl:voc:m2	imię	
 Bogumirze	Bogumir	subst:sg:loc:m1	imię	
@@ -7825,6 +8066,7 @@ Boguradowie	Bogurad	subst:pl:nom:m1	imię
 Boguradowie	Bogurad	subst:pl:voc:m1	imię	
 Boguradów	Bogurad	subst:pl:acc:m1	imię	
 Boguradów	Bogurad	subst:pl:gen:m1	imię	
+Bogurady	Bogurad	depr:pl:acc:m2	imię	
 Bogurady	Bogurad	depr:pl:nom:m2	imię	
 Bogurady	Bogurad	depr:pl:voc:m2	imię	
 Boguradzi	Bogurad	subst:pl:nom:m1	imię	
@@ -7857,6 +8099,7 @@ Bogusądowie	Bogusąd	subst:pl:nom:m1	imię
 Bogusądowie	Bogusąd	subst:pl:voc:m1	imię	
 Bogusądów	Bogusąd	subst:pl:acc:m1	imię	
 Bogusądów	Bogusąd	subst:pl:gen:m1	imię	
+Bogusądy	Bogusąd	depr:pl:acc:m2	imię	
 Bogusądy	Bogusąd	depr:pl:nom:m2	imię	
 Bogusądy	Bogusąd	depr:pl:voc:m2	imię	
 Bogusądzi	Bogusąd	subst:pl:nom:m1	imię	
@@ -7892,6 +8135,7 @@ Bogusławowie	Bogusław	subst:pl:nom:m1	imię
 Bogusławowie	Bogusław	subst:pl:voc:m1	imię	
 Bogusławów	Bogusław	subst:pl:acc:m1	imię	
 Bogusławów	Bogusław	subst:pl:gen:m1	imię	
+Bogusławy	Bogusław	depr:pl:acc:m2	imię	
 Bogusławy	Bogusław	depr:pl:nom:m2	imię	
 Bogusławy	Bogusław	depr:pl:voc:m2	imię	
 Bogusława	Bogusława	subst:sg:nom:f	imię	
@@ -7929,6 +8173,7 @@ Bogusławski	Bogusławski	subst:sg:voc:m1	nazwisko
 Bogusławskich	Bogusławski	subst:pl:acc:m1	nazwisko	
 Bogusławskich	Bogusławski	subst:pl:gen:m1	nazwisko	
 Bogusławskich	Bogusławski	subst:pl:loc:m1	nazwisko	
+Bogusławskie	Bogusławski	depr:pl:acc:m2	nazwisko	
 Bogusławskie	Bogusławski	depr:pl:nom:m2	nazwisko	
 Bogusławskie	Bogusławski	depr:pl:voc:m2	nazwisko	
 Bogusławskiego	Bogusławski	subst:sg:acc:m1	nazwisko	
@@ -7943,6 +8188,7 @@ Bogusza	Bogusz	subst:sg:gen:m1	imię|nazwisko
 Boguszach	Bogusz	subst:pl:loc:m1	imię|nazwisko	
 Boguszami	Bogusz	subst:pl:inst:m1	imię|nazwisko	
 Bogusz	Bogusz	subst:sg:nom:m1	imię|nazwisko	
+Bogusze	Bogusz	depr:pl:acc:m2	imię|nazwisko	
 Bogusze	Bogusz	depr:pl:nom:m2	imię|nazwisko	
 Bogusze	Bogusz	depr:pl:voc:m2	imię|nazwisko	
 Bogusze	Bogusz	subst:pl:nom:m1	imię|nazwisko	
@@ -7977,6 +8223,7 @@ Boguszewski	Boguszewski	subst:sg:voc:m1	nazwisko
 Boguszewskich	Boguszewski	subst:pl:acc:m1	nazwisko	
 Boguszewskich	Boguszewski	subst:pl:gen:m1	nazwisko	
 Boguszewskich	Boguszewski	subst:pl:loc:m1	nazwisko	
+Boguszewskie	Boguszewski	depr:pl:acc:m2	nazwisko	
 Boguszewskie	Boguszewski	depr:pl:nom:m2	nazwisko	
 Boguszewskie	Boguszewski	depr:pl:voc:m2	nazwisko	
 Boguszewskiego	Boguszewski	subst:sg:acc:m1	nazwisko	
@@ -8005,6 +8252,7 @@ Bogusia	Boguś	subst:sg:acc:m1	imię
 Bogusia	Boguś	subst:sg:gen:m1	imię	
 Bogusiach	Boguś	subst:pl:loc:m1	imię	
 Bogusiami	Boguś	subst:pl:inst:m1	imię	
+Bogusie	Boguś	depr:pl:acc:m2	imię	
 Bogusie	Boguś	depr:pl:nom:m2	imię	
 Bogusie	Boguś	depr:pl:voc:m2	imię	
 Bogusie	Boguś	subst:pl:nom:m1	imię	
@@ -8046,6 +8294,7 @@ Bogutowie	Boguta	subst:pl:nom:m1	imię
 Bogutowie	Boguta	subst:pl:voc:m1	imię	
 Bogutów	Boguta	subst:pl:acc:m1	imię	
 Bogutów	Boguta	subst:pl:gen:m1	imię	
+Boguty	Boguta	depr:pl:acc:m2	imię	
 Boguty	Boguta	depr:pl:nom:m2	imię	
 Boguty	Boguta	depr:pl:voc:m2	imię	
 Boguty	Boguta	subst:sg:gen:m1	imię	
@@ -8069,6 +8318,7 @@ Bohatyrowicza	Bohatyrowicz	subst:sg:gen:m1	nazwisko
 Bohatyrowiczach	Bohatyrowicz	subst:pl:loc:m1	nazwisko	
 Bohatyrowiczami	Bohatyrowicz	subst:pl:inst:m1	nazwisko	
 Bohatyrowicz	Bohatyrowicz	subst:sg:nom:m1	nazwisko	
+Bohatyrowicze	Bohatyrowicz	depr:pl:acc:m2	nazwisko	
 Bohatyrowicze	Bohatyrowicz	depr:pl:nom:m2	nazwisko	
 Bohatyrowicze	Bohatyrowicz	depr:pl:voc:m2	nazwisko	
 Bohatyrowicze	Bohatyrowicz	subst:pl:nom:m1	nazwisko	
@@ -8096,6 +8346,7 @@ Bohdanowie	Bohdan	subst:pl:nom:m1	imię
 Bohdanowie	Bohdan	subst:pl:voc:m1	imię	
 Bohdanów	Bohdan	subst:pl:acc:m1	imię	
 Bohdanów	Bohdan	subst:pl:gen:m1	imię	
+Bohdany	Bohdan	depr:pl:acc:m2	imię	
 Bohdany	Bohdan	depr:pl:nom:m2	imię	
 Bohdany	Bohdan	depr:pl:voc:m2	imię	
 Bohdana	Bohdana	subst:sg:nom:f	imię	
@@ -8117,6 +8368,7 @@ Bohdanka	Bohdanek	subst:sg:acc:m1	imię
 Bohdanka	Bohdanek	subst:sg:gen:m1	imię	
 Bohdankach	Bohdanek	subst:pl:loc:m1	imię	
 Bohdankami	Bohdanek	subst:pl:inst:m1	imię	
+Bohdanki	Bohdanek	depr:pl:acc:m2	imię	
 Bohdanki	Bohdanek	depr:pl:nom:m2	imię	
 Bohdanki	Bohdanek	depr:pl:voc:m2	imię	
 Bohdankiem	Bohdanek	subst:sg:inst:m1	imię	
@@ -8133,6 +8385,7 @@ Bohdziewicza	Bohdziewicz	subst:sg:gen:m1	nazwisko
 Bohdziewiczach	Bohdziewicz	subst:pl:loc:m1	nazwisko	
 Bohdziewiczami	Bohdziewicz	subst:pl:inst:m1	nazwisko	
 Bohdziewicz	Bohdziewicz	subst:sg:nom:m1	nazwisko	
+Bohdziewicze	Bohdziewicz	depr:pl:acc:m2	nazwisko	
 Bohdziewicze	Bohdziewicz	depr:pl:nom:m2	nazwisko	
 Bohdziewicze	Bohdziewicz	depr:pl:voc:m2	nazwisko	
 Bohdziewicze	Bohdziewicz	subst:pl:nom:m1	nazwisko	
@@ -8150,6 +8403,7 @@ Bohomolca	Bohomolec	subst:sg:acc:m1	nazwisko
 Bohomolca	Bohomolec	subst:sg:gen:m1	nazwisko	
 Bohomolcach	Bohomolec	subst:pl:loc:m1	nazwisko	
 Bohomolcami	Bohomolec	subst:pl:inst:m1	nazwisko	
+Bohomolce	Bohomolec	depr:pl:acc:m2	nazwisko	
 Bohomolce	Bohomolec	depr:pl:nom:m2	nazwisko	
 Bohomolce	Bohomolec	depr:pl:voc:m2	nazwisko	
 Bohomolcem	Bohomolec	subst:sg:inst:m1	nazwisko	
@@ -8167,6 +8421,7 @@ Bohusza	Bohusz	subst:sg:gen:m1	imię|nazwisko
 Bohuszach	Bohusz	subst:pl:loc:m1	imię|nazwisko	
 Bohuszami	Bohusz	subst:pl:inst:m1	imię|nazwisko	
 Bohusz	Bohusz	subst:sg:nom:m1	imię|nazwisko	
+Bohusze	Bohusz	depr:pl:acc:m2	imię|nazwisko	
 Bohusze	Bohusz	depr:pl:nom:m2	imię|nazwisko	
 Bohusze	Bohusz	depr:pl:voc:m2	imię|nazwisko	
 Bohusze	Bohusz	subst:pl:nom:m1	imię|nazwisko	
@@ -8180,6 +8435,7 @@ Bohuszów	Bohusz	subst:pl:acc:m1	imię|nazwisko
 Bohuszów	Bohusz	subst:pl:gen:m1	imię|nazwisko	
 Bohuszu	Bohusz	subst:sg:loc:m1	imię|nazwisko	
 Bohuszu	Bohusz	subst:sg:voc:m1	imię|nazwisko	
+Boileau	Boileau	depr:pl:acc:m2	nazwisko	
 Boileau	Boileau	depr:pl:nom:m2	nazwisko	
 Boileau	Boileau	depr:pl:voc:m2	nazwisko	
 Boileau	Boileau	subst:pl:acc:m1	nazwisko	
@@ -8210,6 +8466,7 @@ Bojanowie	Bojan	subst:pl:nom:m1	imię	daw.|mit.
 Bojanowie	Bojan	subst:pl:voc:m1	imię	daw.|mit.
 Bojanów	Bojan	subst:pl:acc:m1	imię	daw.|mit.
 Bojanów	Bojan	subst:pl:gen:m1	imię	daw.|mit.
+Bojany	Bojan	depr:pl:acc:m2	imię	daw.|mit.
 Bojany	Bojan	depr:pl:nom:m2	imię	daw.|mit.
 Bojany	Bojan	depr:pl:voc:m2	imię	daw.|mit.
 Bojanowa	Bojanowo	subst:pl:acc:n:ncol	nazwa geograficzna	
@@ -8261,6 +8518,7 @@ Bojka	Bojko	subst:sg:acc:m1	nazwa pospolita
 Bojka	Bojko	subst:sg:gen:m1	nazwa pospolita	
 Bojkach	Bojko	subst:pl:loc:m1	nazwa pospolita	
 Bojkami	Bojko	subst:pl:inst:m1	nazwa pospolita	
+Bojki	Bojko	depr:pl:acc:m2	nazwa pospolita	
 Bojki	Bojko	depr:pl:nom:m2	nazwa pospolita	
 Bojki	Bojko	depr:pl:voc:m2	nazwa pospolita	
 Bojkiem	Bojko	subst:sg:inst:m1	nazwa pospolita	
@@ -8285,6 +8543,7 @@ Boleborowie	Bolebor	subst:pl:nom:m1	imię
 Boleborowie	Bolebor	subst:pl:voc:m1	imię	
 Boleborów	Bolebor	subst:pl:acc:m1	imię	
 Boleborów	Bolebor	subst:pl:gen:m1	imię	
+Bolebory	Bolebor	depr:pl:acc:m2	imię	
 Bolebory	Bolebor	depr:pl:nom:m2	imię	
 Bolebory	Bolebor	depr:pl:voc:m2	imię	
 Boleborze	Bolebor	subst:sg:loc:m1	imię	
@@ -8296,6 +8555,7 @@ Boleczka	Boleczek	subst:sg:acc:m1	imię
 Boleczka	Boleczek	subst:sg:gen:m1	imię	
 Boleczkach	Boleczek	subst:pl:loc:m1	imię	
 Boleczkami	Boleczek	subst:pl:inst:m1	imię	
+Boleczki	Boleczek	depr:pl:acc:m2	imię	
 Boleczki	Boleczek	depr:pl:nom:m2	imię	
 Boleczki	Boleczek	depr:pl:voc:m2	imię	
 Boleczkiem	Boleczek	subst:sg:inst:m1	imię	
@@ -8319,6 +8579,7 @@ Boleczestowie	Boleczest	subst:pl:nom:m1	imię
 Boleczestowie	Boleczest	subst:pl:voc:m1	imię	
 Boleczestów	Boleczest	subst:pl:acc:m1	imię	
 Boleczestów	Boleczest	subst:pl:gen:m1	imię	
+Boleczesty	Boleczest	depr:pl:acc:m2	imię	
 Boleczesty	Boleczest	depr:pl:nom:m2	imię	
 Boleczesty	Boleczest	depr:pl:voc:m2	imię	
 Boleczeście	Boleczest	subst:sg:loc:m1	imię	
@@ -8328,6 +8589,7 @@ Bolka	Bolek	subst:sg:acc:m1	imię
 Bolka	Bolek	subst:sg:gen:m1	imię	
 Bolkach	Bolek	subst:pl:loc:m1	imię	
 Bolkami	Bolek	subst:pl:inst:m1	imię	
+Bolki	Bolek	depr:pl:acc:m2	imię	
 Bolki	Bolek	depr:pl:nom:m2	imię	
 Bolki	Bolek	depr:pl:voc:m2	imię	
 Bolkiem	Bolek	subst:sg:inst:m1	imię	
@@ -8351,6 +8613,7 @@ Bolemirowie	Bolemir	subst:pl:nom:m1	imię
 Bolemirowie	Bolemir	subst:pl:voc:m1	imię	
 Bolemirów	Bolemir	subst:pl:acc:m1	imię	
 Bolemirów	Bolemir	subst:pl:gen:m1	imię	
+Bolemiry	Bolemir	depr:pl:acc:m2	imię	
 Bolemiry	Bolemir	depr:pl:nom:m2	imię	
 Bolemiry	Bolemir	depr:pl:voc:m2	imię	
 Bolemirze	Bolemir	subst:sg:loc:m1	imię	
@@ -8369,6 +8632,7 @@ Bolemysłowie	Bolemysł	subst:pl:nom:m1	imię
 Bolemysłowie	Bolemysł	subst:pl:voc:m1	imię	
 Bolemysłów	Bolemysł	subst:pl:acc:m1	imię	
 Bolemysłów	Bolemysł	subst:pl:gen:m1	imię	
+Bolemysły	Bolemysł	depr:pl:acc:m2	imię	
 Bolemysły	Bolemysł	depr:pl:nom:m2	imię	
 Bolemysły	Bolemysł	depr:pl:voc:m2	imię	
 Bolemyśle	Bolemysł	subst:sg:loc:m1	imię	
@@ -8415,6 +8679,7 @@ Bolesławowie	Bolesław:s1	subst:pl:nom:m1	imię
 Bolesławowie	Bolesław:s1	subst:pl:voc:m1	imię	
 Bolesławów	Bolesław:s1	subst:pl:acc:m1	imię	
 Bolesławów	Bolesław:s1	subst:pl:gen:m1	imię	
+Bolesławy	Bolesław:s1	depr:pl:acc:m2	imię	
 Bolesławy	Bolesław:s1	depr:pl:nom:m2	imię	
 Bolesławy	Bolesław:s1	depr:pl:voc:m2	imię	
 Bolesław	Bolesław:s2	subst:sg:acc:m3	nazwa geograficzna	
@@ -8460,6 +8725,7 @@ Boleynowie	Boleyn	subst:pl:nom:m1	nazwisko
 Boleynowie	Boleyn	subst:pl:voc:m1	nazwisko	
 Boleynów	Boleyn	subst:pl:acc:m1	nazwisko	
 Boleynów	Boleyn	subst:pl:gen:m1	nazwisko	
+Boleyny	Boleyn	depr:pl:acc:m2	nazwisko	
 Boleyny	Boleyn	depr:pl:nom:m2	nazwisko	
 Boleyny	Boleyn	depr:pl:voc:m2	nazwisko	
 Bolimowa	Bolimów	subst:sg:gen:m3	nazwa geograficzna	
@@ -8503,6 +8769,7 @@ Bolivarowie	Bolivar	subst:pl:nom:m1	nazwisko
 Bolivarowie	Bolivar	subst:pl:voc:m1	nazwisko	
 Bolivarów	Bolivar	subst:pl:acc:m1	nazwisko	
 Bolivarów	Bolivar	subst:pl:gen:m1	nazwisko	
+Bolivary	Bolivar	depr:pl:acc:m2	nazwisko	
 Bolivary	Bolivar	depr:pl:nom:m2	nazwisko	
 Bolivary	Bolivar	depr:pl:voc:m2	nazwisko	
 Bolivarze	Bolivar	subst:sg:loc:m1	nazwisko	
@@ -8526,6 +8793,7 @@ Bolka	Bolko	subst:sg:acc:m1	imię
 Bolka	Bolko	subst:sg:gen:m1	imię	
 Bolkach	Bolko	subst:pl:loc:m1	imię	
 Bolkami	Bolko	subst:pl:inst:m1	imię	
+Bolki	Bolko	depr:pl:acc:m2	imię	
 Bolki	Bolko	depr:pl:nom:m2	imię	
 Bolki	Bolko	depr:pl:voc:m2	imię	
 Bolkiem	Bolko	subst:sg:inst:m1	imię	
@@ -8613,6 +8881,7 @@ Bolusia	Boluś	subst:sg:acc:m1	imię
 Bolusia	Boluś	subst:sg:gen:m1	imię	
 Bolusiach	Boluś	subst:pl:loc:m1	imię	
 Bolusiami	Boluś	subst:pl:inst:m1	imię	
+Bolusie	Boluś	depr:pl:acc:m2	imię	
 Bolusie	Boluś	depr:pl:nom:m2	imię	
 Bolusie	Boluś	depr:pl:voc:m2	imię	
 Bolusie	Boluś	subst:pl:nom:m1	imię	
@@ -8644,6 +8913,7 @@ Bombaju	Bombaj	subst:sg:loc:m3	nazwa geograficzna
 Bombaju	Bombaj	subst:sg:voc:m3	nazwa geograficzna	
 Bonapartach	Bonaparte	subst:pl:loc:m1	nazwisko	
 Bonapartami	Bonaparte	subst:pl:inst:m1	nazwisko	
+Bonaparte	Bonaparte	depr:pl:acc:m2	nazwisko	
 Bonaparte	Bonaparte	depr:pl:nom:m2	nazwisko	
 Bonaparte	Bonaparte	depr:pl:voc:m2	nazwisko	
 Bonaparte	Bonaparte	subst:sg:nom:m1	nazwisko	
@@ -8669,6 +8939,7 @@ Bonawenturowie	Bonawentura	subst:pl:nom:m1	imię
 Bonawenturowie	Bonawentura	subst:pl:voc:m1	imię	
 Bonawenturów	Bonawentura	subst:pl:acc:m1	imię	
 Bonawenturów	Bonawentura	subst:pl:gen:m1	imię	
+Bonawentury	Bonawentura	depr:pl:acc:m2	imię	
 Bonawentury	Bonawentura	depr:pl:nom:m2	imię	
 Bonawentury	Bonawentura	depr:pl:voc:m2	imię	
 Bonawentury	Bonawentura	subst:sg:gen:m1	imię	
@@ -8681,6 +8952,7 @@ Boni	Boni	subst:sg:voc:m1	nazwisko
 Bonich	Boni	subst:pl:acc:m1	nazwisko	
 Bonich	Boni	subst:pl:gen:m1	nazwisko	
 Bonich	Boni	subst:pl:loc:m1	nazwisko	
+Bonie	Boni	depr:pl:acc:m2	nazwisko	
 Bonie	Boni	depr:pl:nom:m2	nazwisko	
 Bonie	Boni	depr:pl:voc:m2	nazwisko	
 Boniego	Boni	subst:sg:acc:m1	nazwisko	
@@ -8699,6 +8971,7 @@ Boniecki	Boniecki	subst:sg:voc:m1	nazwisko
 Bonieckich	Boniecki	subst:pl:acc:m1	nazwisko	
 Bonieckich	Boniecki	subst:pl:gen:m1	nazwisko	
 Bonieckich	Boniecki	subst:pl:loc:m1	nazwisko	
+Bonieckie	Boniecki	depr:pl:acc:m2	nazwisko	
 Bonieckie	Boniecki	depr:pl:nom:m2	nazwisko	
 Bonieckie	Boniecki	depr:pl:voc:m2	nazwisko	
 Bonieckiego	Boniecki	subst:sg:acc:m1	nazwisko	
@@ -8713,6 +8986,7 @@ Bońka	Boniek	subst:sg:acc:m1	nazwisko
 Bońka	Boniek	subst:sg:gen:m1	nazwisko	
 Bońkach	Boniek	subst:pl:loc:m1	nazwisko	
 Bońkami	Boniek	subst:pl:inst:m1	nazwisko	
+Bońki	Boniek	depr:pl:acc:m2	nazwisko	
 Bońki	Boniek	depr:pl:nom:m2	nazwisko	
 Bońki	Boniek	depr:pl:voc:m2	nazwisko	
 Bońkiem	Boniek	subst:sg:inst:m1	nazwisko	
@@ -8724,6 +8998,7 @@ Bońków	Boniek	subst:pl:acc:m1	nazwisko
 Bońków	Boniek	subst:pl:gen:m1	nazwisko	
 Bońku	Boniek	subst:sg:loc:m1	nazwisko	
 Bońku	Boniek	subst:sg:voc:m1	nazwisko	
+Boniface	Bonifacy	depr:pl:acc:m2	imię	
 Boniface	Bonifacy	depr:pl:nom:m2	imię	
 Boniface	Bonifacy	depr:pl:voc:m2	imię	
 Bonifacego	Bonifacy	subst:sg:acc:m1	imię	
@@ -8758,6 +9033,7 @@ Bończa	Bończa	subst:sg:nom:m1	imię
 Bończach	Bończa	subst:pl:loc:m1	imię	
 Bończami	Bończa	subst:pl:inst:m1	imię	
 Bończą	Bończa	subst:sg:inst:m1	imię	
+Bończe	Bończa	depr:pl:acc:m2	imię	
 Bończe	Bończa	depr:pl:nom:m2	imię	
 Bończe	Bończa	depr:pl:voc:m2	imię	
 Bończę	Bończa	subst:sg:acc:m1	imię	
@@ -8805,6 +9081,7 @@ Boratyński	Boratyński	subst:sg:voc:m1	nazwisko
 Boratyńskich	Boratyński	subst:pl:acc:m1	nazwisko	
 Boratyńskich	Boratyński	subst:pl:gen:m1	nazwisko	
 Boratyńskich	Boratyński	subst:pl:loc:m1	nazwisko	
+Boratyńskie	Boratyński	depr:pl:acc:m2	nazwisko	
 Boratyńskie	Boratyński	depr:pl:nom:m2	nazwisko	
 Boratyńskie	Boratyński	depr:pl:voc:m2	nazwisko	
 Boratyńskiego	Boratyński	subst:sg:acc:m1	nazwisko	
@@ -8834,6 +9111,7 @@ Borejkach	Borejko	subst:pl:loc:m1	nazwisko
 Borejkami	Borejko	subst:pl:inst:m1	nazwisko	
 Borejką	Borejko	subst:sg:inst:m1	nazwisko	
 Borejkę	Borejko	subst:sg:acc:m1	nazwisko	
+Borejki	Borejko	depr:pl:acc:m2	nazwisko	
 Borejki	Borejko	depr:pl:nom:m2	nazwisko	
 Borejki	Borejko	depr:pl:voc:m2	nazwisko	
 Borejki	Borejko	subst:sg:gen:m1	nazwisko	
@@ -8848,6 +9126,7 @@ Borejsza	Borejsza	subst:sg:nom:m1	nazwisko
 Borejszach	Borejsza	subst:pl:loc:m1	nazwisko	
 Borejszami	Borejsza	subst:pl:inst:m1	nazwisko	
 Borejszą	Borejsza	subst:sg:inst:m1	nazwisko	
+Borejsze	Borejsza	depr:pl:acc:m2	nazwisko	
 Borejsze	Borejsza	depr:pl:nom:m2	nazwisko	
 Borejsze	Borejsza	depr:pl:voc:m2	nazwisko	
 Borejszę	Borejsza	subst:sg:acc:m1	nazwisko	
@@ -8864,6 +9143,7 @@ Borgia	Borgia	subst:sg:nom:m1	nazwisko
 Borgiach	Borgia	subst:pl:loc:m1	nazwisko	
 Borgiami	Borgia	subst:pl:inst:m1	nazwisko	
 Borgią	Borgia	subst:sg:inst:m1	nazwisko	
+Borgie	Borgia	depr:pl:acc:m2	nazwisko	
 Borgie	Borgia	depr:pl:nom:m2	nazwisko	
 Borgie	Borgia	depr:pl:voc:m2	nazwisko	
 Borgię	Borgia	subst:sg:acc:m1	nazwisko	
@@ -8911,6 +9191,7 @@ Borkowski	Borkowski	subst:sg:voc:m1	nazwisko
 Borkowskich	Borkowski	subst:pl:acc:m1	nazwisko	
 Borkowskich	Borkowski	subst:pl:gen:m1	nazwisko	
 Borkowskich	Borkowski	subst:pl:loc:m1	nazwisko	
+Borkowskie	Borkowski	depr:pl:acc:m2	nazwisko	
 Borkowskie	Borkowski	depr:pl:nom:m2	nazwisko	
 Borkowskie	Borkowski	depr:pl:voc:m2	nazwisko	
 Borkowskiego	Borkowski	subst:sg:acc:m1	nazwisko	
@@ -8934,6 +9215,7 @@ Bormannowie	Bormann	subst:pl:nom:m1	nazwisko
 Bormannowie	Bormann	subst:pl:voc:m1	nazwisko	
 Bormannów	Bormann	subst:pl:acc:m1	nazwisko	
 Bormannów	Bormann	subst:pl:gen:m1	nazwisko	
+Bormanny	Bormann	depr:pl:acc:m2	nazwisko	
 Bormanny	Bormann	depr:pl:nom:m2	nazwisko	
 Bormanny	Bormann	depr:pl:voc:m2	nazwisko	
 Borna	Borna	subst:sg:nom:f	nazwa geograficzna	
@@ -8992,6 +9274,7 @@ Borodinowie	Borodin	subst:pl:nom:m1	nazwisko
 Borodinowie	Borodin	subst:pl:voc:m1	nazwisko	
 Borodinów	Borodin	subst:pl:acc:m1	nazwisko	
 Borodinów	Borodin	subst:pl:gen:m1	nazwisko	
+Borodiny	Borodin	depr:pl:acc:m2	nazwisko	
 Borodiny	Borodin	depr:pl:nom:m2	nazwisko	
 Borodiny	Borodin	depr:pl:voc:m2	nazwisko	
 Borodina	Borodino	subst:pl:acc:n:ncol	nazwa geograficzna	
@@ -9024,6 +9307,7 @@ Boromeusza	Boromeusz	subst:sg:gen:m1	imię
 Boromeuszach	Boromeusz	subst:pl:loc:m1	imię	
 Boromeuszami	Boromeusz	subst:pl:inst:m1	imię	
 Boromeusz	Boromeusz	subst:sg:nom:m1	imię	
+Boromeusze	Boromeusz	depr:pl:acc:m2	imię	
 Boromeusze	Boromeusz	depr:pl:nom:m2	imię	
 Boromeusze	Boromeusz	depr:pl:voc:m2	imię	
 Boromeusze	Boromeusz	subst:pl:nom:m1	imię	
@@ -9058,6 +9342,7 @@ Borowski	Borowski	subst:sg:voc:m1	nazwisko
 Borowskich	Borowski	subst:pl:acc:m1	nazwisko	
 Borowskich	Borowski	subst:pl:gen:m1	nazwisko	
 Borowskich	Borowski	subst:pl:loc:m1	nazwisko	
+Borowskie	Borowski	depr:pl:acc:m2	nazwisko	
 Borowskie	Borowski	depr:pl:nom:m2	nazwisko	
 Borowskie	Borowski	depr:pl:voc:m2	nazwisko	
 Borowskiego	Borowski	subst:sg:acc:m1	nazwisko	
@@ -9087,6 +9372,7 @@ Borusewicza	Borusewicz	subst:sg:gen:m1	nazwisko
 Borusewiczach	Borusewicz	subst:pl:loc:m1	nazwisko	
 Borusewiczami	Borusewicz	subst:pl:inst:m1	nazwisko	
 Borusewicz	Borusewicz	subst:sg:nom:m1	nazwisko	
+Borusewicze	Borusewicz	depr:pl:acc:m2	nazwisko	
 Borusewicze	Borusewicz	depr:pl:nom:m2	nazwisko	
 Borusewicze	Borusewicz	depr:pl:voc:m2	nazwisko	
 Borusewicze	Borusewicz	subst:pl:nom:m1	nazwisko	
@@ -9113,6 +9399,7 @@ Borutowie	Boruta	subst:pl:nom:m1	nazwisko
 Borutowie	Boruta	subst:pl:voc:m1	nazwisko	
 Borutów	Boruta	subst:pl:acc:m1	nazwisko	
 Borutów	Boruta	subst:pl:gen:m1	nazwisko	
+Boruty	Boruta	depr:pl:acc:m2	nazwisko	
 Boruty	Boruta	depr:pl:nom:m2	nazwisko	
 Boruty	Boruta	depr:pl:voc:m2	nazwisko	
 Boruty	Boruta	subst:sg:gen:m1	nazwisko	
@@ -9130,6 +9417,7 @@ Borysowie	Borys	subst:pl:nom:m1	imię
 Borysowie	Borys	subst:pl:voc:m1	imię	
 Borysów	Borys	subst:pl:acc:m1	imię	
 Borysów	Borys	subst:pl:gen:m1	imię	
+Borysy	Borys	depr:pl:acc:m2	imię	
 Borysy	Borys	depr:pl:nom:m2	imię	
 Borysy	Borys	depr:pl:voc:m2	imię	
 Borysiaka	Borysiak	subst:sg:acc:m1	nazwisko	
@@ -9137,6 +9425,7 @@ Borysiaka	Borysiak	subst:sg:gen:m1	nazwisko
 Borysiakach	Borysiak	subst:pl:loc:m1	nazwisko	
 Borysiakami	Borysiak	subst:pl:inst:m1	nazwisko	
 Borysiak	Borysiak	subst:sg:nom:m1	nazwisko	
+Borysiaki	Borysiak	depr:pl:acc:m2	nazwisko	
 Borysiaki	Borysiak	depr:pl:nom:m2	nazwisko	
 Borysiaki	Borysiak	depr:pl:voc:m2	nazwisko	
 Borysiakiem	Borysiak	subst:sg:inst:m1	nazwisko	
@@ -9164,6 +9453,7 @@ Borysławowie	Borysław:s1	subst:pl:nom:m1	imię
 Borysławowie	Borysław:s1	subst:pl:voc:m1	imię	
 Borysławów	Borysław:s1	subst:pl:acc:m1	imię	
 Borysławów	Borysław:s1	subst:pl:gen:m1	imię	
+Borysławy	Borysław:s1	depr:pl:acc:m2	imię	
 Borysławy	Borysław:s1	depr:pl:nom:m2	imię	
 Borysławy	Borysław:s1	depr:pl:voc:m2	imię	
 Borysław	Borysław:s2	subst:sg:acc:m3	nazwa geograficzna	
@@ -9208,6 +9498,7 @@ Borzymirowie	Borzymir	subst:pl:nom:m1	imię
 Borzymirowie	Borzymir	subst:pl:voc:m1	imię	
 Borzymirów	Borzymir	subst:pl:acc:m1	imię	
 Borzymirów	Borzymir	subst:pl:gen:m1	imię	
+Borzymiry	Borzymir	depr:pl:acc:m2	imię	
 Borzymiry	Borzymir	depr:pl:nom:m2	imię	
 Borzymiry	Borzymir	depr:pl:voc:m2	imię	
 Borzymirze	Borzymir	subst:sg:loc:m1	imię	
@@ -9243,6 +9534,7 @@ Borzymowie	Borzym:s2	subst:pl:nom:m1	nazwisko
 Borzymowie	Borzym:s2	subst:pl:voc:m1	nazwisko	
 Borzymów	Borzym:s2	subst:pl:acc:m1	nazwisko	
 Borzymów	Borzym:s2	subst:pl:gen:m1	nazwisko	
+Borzymy	Borzym:s2	depr:pl:acc:m2	nazwisko	
 Borzymy	Borzym:s2	depr:pl:nom:m2	nazwisko	
 Borzymy	Borzym:s2	depr:pl:voc:m2	nazwisko	
 Borzysława	Borzysław	subst:sg:acc:m1	imię	
@@ -9261,6 +9553,7 @@ Borzysławowie	Borzysław	subst:pl:nom:m1	imię
 Borzysławowie	Borzysław	subst:pl:voc:m1	imię	
 Borzysławów	Borzysław	subst:pl:acc:m1	imię	
 Borzysławów	Borzysław	subst:pl:gen:m1	imię	
+Borzysławy	Borzysław	depr:pl:acc:m2	imię	
 Borzysławy	Borzysław	depr:pl:nom:m2	imię	
 Borzysławy	Borzysław	depr:pl:voc:m2	imię	
 Borzysława	Borzysława	subst:sg:nom:f	imię	
@@ -9297,6 +9590,7 @@ Borzywoja	Borzywoj	subst:sg:gen:m1	imię
 Borzywojach	Borzywoj	subst:pl:loc:m1	imię	
 Borzywojami	Borzywoj	subst:pl:inst:m1	imię	
 Borzywoj	Borzywoj	subst:sg:nom:m1	imię	
+Borzywoje	Borzywoj	depr:pl:acc:m2	imię	
 Borzywoje	Borzywoj	depr:pl:nom:m2	imię	
 Borzywoje	Borzywoj	depr:pl:voc:m2	imię	
 Borzywoje	Borzywoj	subst:pl:nom:m1	imię	
@@ -9343,6 +9637,7 @@ Bosaka	Bosak	subst:sg:gen:m1	nazwisko
 Bosakach	Bosak	subst:pl:loc:m1	nazwisko	
 Bosakami	Bosak	subst:pl:inst:m1	nazwisko	
 Bosak	Bosak	subst:sg:nom:m1	nazwisko	
+Bosaki	Bosak	depr:pl:acc:m2	nazwisko	
 Bosaki	Bosak	depr:pl:nom:m2	nazwisko	
 Bosaki	Bosak	depr:pl:voc:m2	nazwisko	
 Bosakiem	Bosak	subst:sg:inst:m1	nazwisko	
@@ -9431,6 +9726,7 @@ Bośniaka	Bośniak	subst:sg:gen:m1	nazwa pospolita
 Bośniakach	Bośniak	subst:pl:loc:m1	nazwa pospolita	
 Bośniakami	Bośniak	subst:pl:inst:m1	nazwa pospolita	
 Bośniak	Bośniak	subst:sg:nom:m1	nazwa pospolita	
+Bośniaki	Bośniak	depr:pl:acc:m2	nazwa pospolita	
 Bośniaki	Bośniak	depr:pl:nom:m2	nazwa pospolita	
 Bośniaki	Bośniak	depr:pl:voc:m2	nazwa pospolita	
 Bośniakiem	Bośniak	subst:sg:inst:m1	nazwa pospolita	
@@ -9453,6 +9749,7 @@ Bothowie	Botha	subst:pl:nom:m1	nazwisko
 Bothowie	Botha	subst:pl:voc:m1	nazwisko	
 Bothów	Botha	subst:pl:acc:m1	nazwisko	
 Bothów	Botha	subst:pl:gen:m1	nazwisko	
+Bothy	Botha	depr:pl:acc:m2	nazwisko	
 Bothy	Botha	depr:pl:nom:m2	nazwisko	
 Bothy	Botha	depr:pl:voc:m2	nazwisko	
 Bothy	Botha	subst:sg:gen:m1	nazwisko	
@@ -9484,6 +9781,7 @@ Bourbonowie	Bourbon	subst:pl:nom:m1	nazwa członka rodu
 Bourbonowie	Bourbon	subst:pl:voc:m1	nazwa członka rodu	
 Bourbonów	Bourbon	subst:pl:acc:m1	nazwa członka rodu	
 Bourbonów	Bourbon	subst:pl:gen:m1	nazwa członka rodu	
+Bourbony	Bourbon	depr:pl:acc:m2	nazwa członka rodu	
 Bourbony	Bourbon	depr:pl:nom:m2	nazwa członka rodu	
 Bourbony	Bourbon	depr:pl:voc:m2	nazwa członka rodu	
 Bourdelle’a	Bourdelle	subst:sg:acc:m1	nazwisko	
@@ -9491,6 +9789,7 @@ Bourdelle’a	Bourdelle	subst:sg:gen:m1	nazwisko
 Bourdelle’ach	Bourdelle	subst:pl:loc:m1	nazwisko	
 Bourdelle’ami	Bourdelle	subst:pl:inst:m1	nazwisko	
 Bourdelle	Bourdelle	subst:sg:nom:m1	nazwisko	
+Bourdelle’e	Bourdelle	depr:pl:acc:m2	nazwisko	
 Bourdelle’e	Bourdelle	depr:pl:nom:m2	nazwisko	
 Bourdelle’e	Bourdelle	depr:pl:voc:m2	nazwisko	
 Bourdelle’em	Bourdelle	subst:sg:inst:m1	nazwisko	
@@ -9502,6 +9801,7 @@ Bourdelle’ów	Bourdelle	subst:pl:acc:m1	nazwisko
 Bourdelle’ów	Bourdelle	subst:pl:gen:m1	nazwisko	
 Bourdelle’u	Bourdelle	subst:sg:loc:m1	nazwisko	
 Bourdelle’u	Bourdelle	subst:sg:voc:m1	nazwisko	
+Bovary	Bovary:s1	depr:pl:acc:m2	nazwisko	lit.
 Bovary	Bovary:s1	depr:pl:nom:m2	nazwisko	lit.
 Bovary	Bovary:s1	depr:pl:voc:m2	nazwisko	lit.
 Bovary	Bovary:s1	subst:pl:acc:m1	nazwisko	lit.
@@ -9537,6 +9837,7 @@ Boya	Boy	subst:sg:gen:m1	pseudonim
 Boyach	Boy	subst:pl:loc:m1	pseudonim	
 Boyami	Boy	subst:pl:inst:m1	pseudonim	
 Boy	Boy	subst:sg:nom:m1	pseudonim	
+Boye	Boy	depr:pl:acc:m2	pseudonim	
 Boye	Boy	depr:pl:nom:m2	pseudonim	
 Boye	Boy	depr:pl:voc:m2	pseudonim	
 Boyem	Boy	subst:sg:inst:m1	pseudonim	
@@ -9553,6 +9854,7 @@ Boyle’a	Boyle	subst:sg:gen:m1	nazwisko
 Boyle’ach	Boyle	subst:pl:loc:m1	nazwisko	
 Boyle’ami	Boyle	subst:pl:inst:m1	nazwisko	
 Boyle	Boyle	subst:sg:nom:m1	nazwisko	
+Boyle’e	Boyle	depr:pl:acc:m2	nazwisko	
 Boyle’e	Boyle	depr:pl:nom:m2	nazwisko	
 Boyle’e	Boyle	depr:pl:voc:m2	nazwisko	
 Boyle’em	Boyle	subst:sg:inst:m1	nazwisko	
@@ -9568,6 +9870,7 @@ Bozia	Bozio	subst:sg:acc:m1	imię	indyw.
 Bozia	Bozio	subst:sg:gen:m1	imię	indyw.
 Boziach	Bozio	subst:pl:loc:m1	imię	indyw.
 Boziami	Bozio	subst:pl:inst:m1	imię	indyw.
+Bozie	Bozio	depr:pl:acc:m2	imię	indyw.
 Bozie	Bozio	depr:pl:nom:m2	imię	indyw.
 Bozie	Bozio	depr:pl:voc:m2	imię	indyw.
 Boziem	Bozio	subst:sg:inst:m1	imię	indyw.
@@ -9587,6 +9890,7 @@ Boznański	Boznański	subst:sg:voc:m1	nazwisko
 Boznańskich	Boznański	subst:pl:acc:m1	nazwisko	
 Boznańskich	Boznański	subst:pl:gen:m1	nazwisko	
 Boznańskich	Boznański	subst:pl:loc:m1	nazwisko	
+Boznańskie	Boznański	depr:pl:acc:m2	nazwisko	
 Boznańskie	Boznański	depr:pl:nom:m2	nazwisko	
 Boznańskie	Boznański	depr:pl:voc:m2	nazwisko	
 Boznańskiego	Boznański	subst:sg:acc:m1	nazwisko	
@@ -9608,6 +9912,7 @@ Bożeborowie	Bożebor	subst:pl:nom:m1	imię
 Bożeborowie	Bożebor	subst:pl:voc:m1	imię	
 Bożeborów	Bożebor	subst:pl:acc:m1	imię	
 Bożeborów	Bożebor	subst:pl:gen:m1	imię	
+Bożebory	Bożebor	depr:pl:acc:m2	imię	
 Bożebory	Bożebor	depr:pl:nom:m2	imię	
 Bożebory	Bożebor	depr:pl:voc:m2	imię	
 Bożeborze	Bożebor	subst:sg:loc:m1	imię	
@@ -9619,6 +9924,7 @@ Bożeciecha	Bożeciech	subst:sg:gen:m1	imię
 Bożeciechach	Bożeciech	subst:pl:loc:m1	imię	
 Bożeciechami	Bożeciech	subst:pl:inst:m1	imię	
 Bożeciech	Bożeciech	subst:sg:nom:m1	imię	
+Bożecieche	Bożeciech	depr:pl:acc:m2	imię	
 Bożecieche	Bożeciech	depr:pl:nom:m2	imię	
 Bożecieche	Bożeciech	depr:pl:voc:m2	imię	
 Bożeciechem	Bożeciech	subst:sg:inst:m1	imię	
@@ -9630,6 +9936,7 @@ Bożeciechów	Bożeciech	subst:pl:acc:m1	imię
 Bożeciechów	Bożeciech	subst:pl:gen:m1	imię	
 Bożeciechu	Bożeciech	subst:sg:loc:m1	imię	
 Bożeciechu	Bożeciech	subst:sg:voc:m1	imię	
+Bożeciechy	Bożeciech	depr:pl:acc:m2	imię	
 Bożeciechy	Bożeciech	depr:pl:nom:m2	imię	
 Bożeciechy	Bożeciech	depr:pl:voc:m2	imię	
 Bożeciecha	Bożeciecha	subst:sg:nom:f	imię	
@@ -9700,6 +10007,7 @@ Bożydarowie	Bożydar	subst:pl:nom:m1	imię
 Bożydarowie	Bożydar	subst:pl:voc:m1	imię	
 Bożydarów	Bożydar	subst:pl:acc:m1	imię	
 Bożydarów	Bożydar	subst:pl:gen:m1	imię	
+Bożydary	Bożydar	depr:pl:acc:m2	imię	
 Bożydary	Bożydar	depr:pl:nom:m2	imię	
 Bożydary	Bożydar	depr:pl:voc:m2	imię	
 Bożydarze	Bożydar	subst:sg:loc:m1	imię	
@@ -9720,6 +10028,7 @@ Bożysławowie	Bożysław	subst:pl:nom:m1	imię
 Bożysławowie	Bożysław	subst:pl:voc:m1	imię	
 Bożysławów	Bożysław	subst:pl:acc:m1	imię	
 Bożysławów	Bożysław	subst:pl:gen:m1	imię	
+Bożysławy	Bożysław	depr:pl:acc:m2	imię	
 Bożysławy	Bożysław	depr:pl:nom:m2	imię	
 Bożysławy	Bożysław	depr:pl:voc:m2	imię	
 Bożysława	Bożysława	subst:sg:nom:f	imię	
@@ -9761,6 +10070,7 @@ Borowie	Bór	subst:pl:nom:m1	nazwisko
 Borowie	Bór	subst:pl:voc:m1	nazwisko	
 Borów	Bór	subst:pl:acc:m1	nazwisko	
 Borów	Bór	subst:pl:gen:m1	nazwisko	
+Bory	Bór	depr:pl:acc:m2	nazwisko	
 Bory	Bór	depr:pl:nom:m2	nazwisko	
 Bory	Bór	depr:pl:voc:m2	nazwisko	
 Borze	Bór	subst:sg:loc:m1	nazwisko	
@@ -9915,6 +10225,7 @@ Bradbury	Bradbury	subst:sg:voc:m1	nazwisko
 Bradburych	Bradbury	subst:pl:acc:m1	nazwisko	
 Bradburych	Bradbury	subst:pl:gen:m1	nazwisko	
 Bradburych	Bradbury	subst:pl:loc:m1	nazwisko	
+Bradbury’e	Bradbury	depr:pl:acc:m2	nazwisko	
 Bradbury’e	Bradbury	depr:pl:nom:m2	nazwisko	
 Bradbury’e	Bradbury	depr:pl:voc:m2	nazwisko	
 Bradbury’ego	Bradbury	subst:sg:acc:m1	nazwisko	
@@ -9937,6 +10248,7 @@ Brahmowie	Brahma	subst:pl:nom:m1	imię	rel.
 Brahmowie	Brahma	subst:pl:voc:m1	imię	rel.
 Brahmów	Brahma	subst:pl:acc:m1	imię	rel.
 Brahmów	Brahma	subst:pl:gen:m1	imię	rel.
+Brahmy	Brahma	depr:pl:acc:m2	imię	rel.
 Brahmy	Brahma	depr:pl:nom:m2	imię	rel.
 Brahmy	Brahma	depr:pl:voc:m2	imię	rel.
 Brahmy	Brahma	subst:sg:gen:m1	imię	rel.
@@ -9968,6 +10280,7 @@ Brahmsowie	Brahms	subst:pl:nom:m1	nazwisko
 Brahmsowie	Brahms	subst:pl:voc:m1	nazwisko	
 Brahmsów	Brahms	subst:pl:acc:m1	nazwisko	
 Brahmsów	Brahms	subst:pl:gen:m1	nazwisko	
+Brahmsy	Brahms	depr:pl:acc:m2	nazwisko	
 Brahmsy	Brahms	depr:pl:nom:m2	nazwisko	
 Brahmsy	Brahms	depr:pl:voc:m2	nazwisko	
 Braille’a	Braille	subst:sg:acc:m1	nazwisko	
@@ -9975,6 +10288,7 @@ Braille’a	Braille	subst:sg:gen:m1	nazwisko
 Braille’ach	Braille	subst:pl:loc:m1	nazwisko	
 Braille’ami	Braille	subst:pl:inst:m1	nazwisko	
 Braille	Braille	subst:sg:nom:m1	nazwisko	
+Braille’e	Braille	depr:pl:acc:m2	nazwisko	
 Braille’e	Braille	depr:pl:nom:m2	nazwisko	
 Braille’e	Braille	depr:pl:voc:m2	nazwisko	
 Braille’em	Braille	subst:sg:inst:m1	nazwisko	
@@ -10000,6 +10314,7 @@ Brajanowie	Brajan	subst:pl:nom:m1	imię
 Brajanowie	Brajan	subst:pl:voc:m1	imię	
 Brajanów	Brajan	subst:pl:acc:m1	imię	
 Brajanów	Brajan	subst:pl:gen:m1	imię	
+Brajany	Brajan	depr:pl:acc:m2	imię	
 Brajany	Brajan	depr:pl:nom:m2	imię	
 Brajany	Brajan	depr:pl:voc:m2	imię	
 Bramach	Bramah	subst:pl:loc:m1	nazwisko	
@@ -10015,11 +10330,13 @@ Bramowie	Bramah	subst:pl:nom:m1	nazwisko
 Bramowie	Bramah	subst:pl:voc:m1	nazwisko	
 Bramów	Bramah	subst:pl:acc:m1	nazwisko	
 Bramów	Bramah	subst:pl:gen:m1	nazwisko	
+Bramy	Bramah	depr:pl:acc:m2	nazwisko	
 Bramy	Bramah	depr:pl:nom:m2	nazwisko	
 Bramy	Bramah	depr:pl:voc:m2	nazwisko	
 Bramy	Bramah	subst:sg:gen:m1	nazwisko	
 Bramantach	Bramante	subst:pl:loc:m1	nazwisko	
 Bramantami	Bramante	subst:pl:inst:m1	nazwisko	
+Bramante	Bramante	depr:pl:acc:m2	nazwisko	
 Bramante	Bramante	depr:pl:nom:m2	nazwisko	
 Bramante	Bramante	depr:pl:voc:m2	nazwisko	
 Bramante	Bramante	subst:sg:nom:m1	nazwisko	
@@ -10041,6 +10358,7 @@ Brâncuşi	Brâncuşi	subst:sg:voc:m1	nazwisko
 Brâncuşich	Brâncuşi	subst:pl:acc:m1	nazwisko	
 Brâncuşich	Brâncuşi	subst:pl:gen:m1	nazwisko	
 Brâncuşich	Brâncuşi	subst:pl:loc:m1	nazwisko	
+Brâncuşie	Brâncuşi	depr:pl:acc:m2	nazwisko	
 Brâncuşie	Brâncuşi	depr:pl:nom:m2	nazwisko	
 Brâncuşie	Brâncuşi	depr:pl:voc:m2	nazwisko	
 Brâncuşiego	Brâncuşi	subst:sg:acc:m1	nazwisko	
@@ -10064,6 +10382,7 @@ Brandauerowie	Brandauer	subst:pl:nom:m1	nazwisko
 Brandauerowie	Brandauer	subst:pl:voc:m1	nazwisko	
 Brandauerów	Brandauer	subst:pl:acc:m1	nazwisko	
 Brandauerów	Brandauer	subst:pl:gen:m1	nazwisko	
+Brandauery	Brandauer	depr:pl:acc:m2	nazwisko	
 Brandauery	Brandauer	depr:pl:nom:m2	nazwisko	
 Brandauery	Brandauer	depr:pl:voc:m2	nazwisko	
 Brandauerze	Brandauer	subst:sg:loc:m1	nazwisko	
@@ -10075,6 +10394,7 @@ Brandenburczyka	Brandenburczyk	subst:sg:gen:m1	nazwa pospolita
 Brandenburczykach	Brandenburczyk	subst:pl:loc:m1	nazwa pospolita	
 Brandenburczykami	Brandenburczyk	subst:pl:inst:m1	nazwa pospolita	
 Brandenburczyk	Brandenburczyk	subst:sg:nom:m1	nazwa pospolita	
+Brandenburczyki	Brandenburczyk	depr:pl:acc:m2	nazwa pospolita	
 Brandenburczyki	Brandenburczyk	depr:pl:nom:m2	nazwa pospolita	
 Brandenburczyki	Brandenburczyk	depr:pl:voc:m2	nazwa pospolita	
 Brandenburczykiem	Brandenburczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -10113,6 +10433,7 @@ Brandenburgii	Brandenburgia	subst:sg:loc:f	nazwa geograficzna
 Brandenburgij	Brandenburgia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Brandenburgio	Brandenburgia	subst:sg:voc:f	nazwa geograficzna	
 Brandenburgiom	Brandenburgia	subst:pl:dat:f	nazwa geograficzna	
+Brando	Brando	depr:pl:acc:m2	nazwisko	
 Brando	Brando	depr:pl:nom:m2	nazwisko	
 Brando	Brando	depr:pl:voc:m2	nazwisko	
 Brando	Brando	subst:pl:acc:m1	nazwisko	
@@ -10141,6 +10462,7 @@ Brandstaetterowie	Brandstaetter	subst:pl:nom:m1	nazwisko
 Brandstaetterowie	Brandstaetter	subst:pl:voc:m1	nazwisko	
 Brandstaetterów	Brandstaetter	subst:pl:acc:m1	nazwisko	
 Brandstaetterów	Brandstaetter	subst:pl:gen:m1	nazwisko	
+Brandstaettery	Brandstaetter	depr:pl:acc:m2	nazwisko	
 Brandstaettery	Brandstaetter	depr:pl:nom:m2	nazwisko	
 Brandstaettery	Brandstaetter	depr:pl:voc:m2	nazwisko	
 Brandstaetterze	Brandstaetter	subst:sg:loc:m1	nazwisko	
@@ -10159,6 +10481,7 @@ Brandtowie	Brandt	subst:pl:nom:m1	nazwisko
 Brandtowie	Brandt	subst:pl:voc:m1	nazwisko	
 Brandtów	Brandt	subst:pl:acc:m1	nazwisko	
 Brandtów	Brandt	subst:pl:gen:m1	nazwisko	
+Brandty	Brandt	depr:pl:acc:m2	nazwisko	
 Brandty	Brandt	depr:pl:nom:m2	nazwisko	
 Brandty	Brandt	depr:pl:voc:m2	nazwisko	
 Brandysa	Brandys	subst:sg:acc:m1	nazwisko	
@@ -10175,6 +10498,7 @@ Brandysowie	Brandys	subst:pl:nom:m1	nazwisko
 Brandysowie	Brandys	subst:pl:voc:m1	nazwisko	
 Brandysów	Brandys	subst:pl:acc:m1	nazwisko	
 Brandysów	Brandys	subst:pl:gen:m1	nazwisko	
+Brandysy	Brandys	depr:pl:acc:m2	nazwisko	
 Brandysy	Brandys	depr:pl:nom:m2	nazwisko	
 Brandysy	Brandys	depr:pl:voc:m2	nazwisko	
 Branicka	Branicka	subst:sg:nom:f	nazwisko	
@@ -10198,6 +10522,7 @@ Branicki	Branicki	subst:sg:voc:m1	nazwisko
 Branickich	Branicki	subst:pl:acc:m1	nazwisko	
 Branickich	Branicki	subst:pl:gen:m1	nazwisko	
 Branickich	Branicki	subst:pl:loc:m1	nazwisko	
+Branickie	Branicki	depr:pl:acc:m2	nazwisko	
 Branickie	Branicki	depr:pl:nom:m2	nazwisko	
 Branickie	Branicki	depr:pl:voc:m2	nazwisko	
 Branickiego	Branicki	subst:sg:acc:m1	nazwisko	
@@ -10228,6 +10553,7 @@ Braniecki	Braniecki	subst:sg:voc:m1	nazwisko
 Branieckich	Braniecki	subst:pl:acc:m1	nazwisko	
 Branieckich	Braniecki	subst:pl:gen:m1	nazwisko	
 Branieckich	Braniecki	subst:pl:loc:m1	nazwisko	
+Branieckie	Braniecki	depr:pl:acc:m2	nazwisko	
 Branieckie	Braniecki	depr:pl:nom:m2	nazwisko	
 Branieckie	Braniecki	depr:pl:voc:m2	nazwisko	
 Branieckiego	Braniecki	subst:sg:acc:m1	nazwisko	
@@ -10263,10 +10589,12 @@ Brantôme’owie	Brantôme	subst:pl:nom:m1	nazwisko
 Brantôme’owie	Brantôme	subst:pl:voc:m1	nazwisko	
 Brantôme’ów	Brantôme	subst:pl:acc:m1	nazwisko	
 Brantôme’ów	Brantôme	subst:pl:gen:m1	nazwisko	
+Brantôme’y	Brantôme	depr:pl:acc:m2	nazwisko	
 Brantôme’y	Brantôme	depr:pl:nom:m2	nazwisko	
 Brantôme’y	Brantôme	depr:pl:voc:m2	nazwisko	
 Brantômie	Brantôme	subst:sg:loc:m1	nazwisko	
 Brantômie	Brantôme	subst:sg:voc:m1	nazwisko	
+Braki	Braque	depr:pl:acc:m2	nazwisko	
 Braki	Braque	depr:pl:nom:m2	nazwisko	
 Braki	Braque	depr:pl:voc:m2	nazwisko	
 Brakiem	Braque	subst:sg:inst:m1	nazwisko	
@@ -10298,6 +10626,7 @@ Brasławiowi	Brasław	subst:sg:dat:m3	nazwa geograficzna
 Brasławiów	Brasław	subst:pl:gen:m3	nazwa geograficzna	
 Brasławiu	Brasław	subst:sg:loc:m3	nazwa geograficzna	
 Brasławiu	Brasław	subst:sg:voc:m3	nazwa geograficzna	
+Brâtianu	Brâtianu	depr:pl:acc:m2	nazwisko	
 Brâtianu	Brâtianu	depr:pl:nom:m2	nazwisko	
 Brâtianu	Brâtianu	depr:pl:voc:m2	nazwisko	
 Brâtianu	Brâtianu	subst:pl:acc:m1	nazwisko	
@@ -10335,6 +10664,7 @@ Bratkowski	Bratkowski	subst:sg:voc:m1	nazwisko
 Bratkowskich	Bratkowski	subst:pl:acc:m1	nazwisko	
 Bratkowskich	Bratkowski	subst:pl:gen:m1	nazwisko	
 Bratkowskich	Bratkowski	subst:pl:loc:m1	nazwisko	
+Bratkowskie	Bratkowski	depr:pl:acc:m2	nazwisko	
 Bratkowskie	Bratkowski	depr:pl:nom:m2	nazwisko	
 Bratkowskie	Bratkowski	depr:pl:voc:m2	nazwisko	
 Bratkowskiego	Bratkowski	subst:sg:acc:m1	nazwisko	
@@ -10358,6 +10688,7 @@ Bratumiłowie	Bratumił	subst:pl:nom:m1	imię
 Bratumiłowie	Bratumił	subst:pl:voc:m1	imię	
 Bratumiłów	Bratumił	subst:pl:acc:m1	imię	
 Bratumiłów	Bratumił	subst:pl:gen:m1	imię	
+Bratumiły	Bratumił	depr:pl:acc:m2	imię	
 Bratumiły	Bratumił	depr:pl:nom:m2	imię	
 Bratumiły	Bratumił	depr:pl:voc:m2	imię	
 Bratysława	Bratysława	subst:sg:nom:f	nazwa geograficzna	
@@ -10388,6 +10719,7 @@ Braunowie	Braun	subst:pl:nom:m1	nazwisko
 Braunowie	Braun	subst:pl:voc:m1	nazwisko	
 Braunów	Braun	subst:pl:acc:m1	nazwisko	
 Braunów	Braun	subst:pl:gen:m1	nazwisko	
+Brauny	Braun	depr:pl:acc:m2	nazwisko	
 Brauny	Braun	depr:pl:nom:m2	nazwisko	
 Brauny	Braun	depr:pl:voc:m2	nazwisko	
 Brazauskasa	Brazauskas	subst:sg:acc:m1	nazwisko	
@@ -10404,6 +10736,7 @@ Brazauskasowie	Brazauskas	subst:pl:nom:m1	nazwisko
 Brazauskasowie	Brazauskas	subst:pl:voc:m1	nazwisko	
 Brazauskasów	Brazauskas	subst:pl:acc:m1	nazwisko	
 Brazauskasów	Brazauskas	subst:pl:gen:m1	nazwisko	
+Brazauskasy	Brazauskas	depr:pl:acc:m2	nazwisko	
 Brazauskasy	Brazauskas	depr:pl:nom:m2	nazwisko	
 Brazauskasy	Brazauskas	depr:pl:voc:m2	nazwisko	
 Brazylia	Brazylia	subst:sg:nom:f	nazwa geograficzna	
@@ -10428,6 +10761,7 @@ Brazylijczyka	Brazylijczyk	subst:sg:gen:m1	nazwa pospolita
 Brazylijczykach	Brazylijczyk	subst:pl:loc:m1	nazwa pospolita	
 Brazylijczykami	Brazylijczyk	subst:pl:inst:m1	nazwa pospolita	
 Brazylijczyk	Brazylijczyk	subst:sg:nom:m1	nazwa pospolita	
+Brazylijczyki	Brazylijczyk	depr:pl:acc:m2	nazwa pospolita	
 Brazylijczyki	Brazylijczyk	depr:pl:nom:m2	nazwa pospolita	
 Brazylijczyki	Brazylijczyk	depr:pl:voc:m2	nazwa pospolita	
 Brazylijczykiem	Brazylijczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -10534,12 +10868,14 @@ Brechtowie	Brecht	subst:pl:nom:m1	nazwisko
 Brechtowie	Brecht	subst:pl:voc:m1	nazwisko	
 Brechtów	Brecht	subst:pl:acc:m1	nazwisko	
 Brechtów	Brecht	subst:pl:gen:m1	nazwisko	
+Brechty	Brecht	depr:pl:acc:m2	nazwisko	
 Brechty	Brecht	depr:pl:nom:m2	nazwisko	
 Brechty	Brecht	depr:pl:voc:m2	nazwisko	
 Bregovicia	Bregović	subst:sg:acc:m1	nazwisko	
 Bregovicia	Bregović	subst:sg:gen:m1	nazwisko	
 Bregoviciach	Bregović	subst:pl:loc:m1	nazwisko	
 Bregoviciami	Bregović	subst:pl:inst:m1	nazwisko	
+Bregovicie	Bregović	depr:pl:acc:m2	nazwisko	
 Bregovicie	Bregović	depr:pl:nom:m2	nazwisko	
 Bregovicie	Bregović	depr:pl:voc:m2	nazwisko	
 Bregoviciem	Bregović	subst:sg:inst:m1	nazwisko	
@@ -10557,6 +10893,7 @@ Brela	Brel	subst:sg:gen:m1	nazwisko
 Brelach	Brel	subst:pl:loc:m1	nazwisko	
 Brelami	Brel	subst:pl:inst:m1	nazwisko	
 Brel	Brel	subst:sg:nom:m1	nazwisko	
+Brele	Brel	depr:pl:acc:m2	nazwisko	
 Brele	Brel	depr:pl:nom:m2	nazwisko	
 Brele	Brel	depr:pl:voc:m2	nazwisko	
 Brelem	Brel	subst:sg:inst:m1	nazwisko	
@@ -10618,6 +10955,7 @@ Bretończyka	Bretończyk	subst:sg:gen:m1	nazwa pospolita
 Bretończykach	Bretończyk	subst:pl:loc:m1	nazwa pospolita	
 Bretończykami	Bretończyk	subst:pl:inst:m1	nazwa pospolita	
 Bretończyk	Bretończyk	subst:sg:nom:m1	nazwa pospolita	
+Bretończyki	Bretończyk	depr:pl:acc:m2	nazwa pospolita	
 Bretończyki	Bretończyk	depr:pl:nom:m2	nazwa pospolita	
 Bretończyki	Bretończyk	depr:pl:voc:m2	nazwa pospolita	
 Bretończykiem	Bretończyk	subst:sg:inst:m1	nazwa pospolita	
@@ -10632,6 +10970,7 @@ Breughla	Breughel	subst:sg:acc:m1	nazwisko
 Breughla	Breughel	subst:sg:gen:m1	nazwisko	
 Breughlach	Breughel	subst:pl:loc:m1	nazwisko	
 Breughlami	Breughel	subst:pl:inst:m1	nazwisko	
+Breughle	Breughel	depr:pl:acc:m2	nazwisko	
 Breughle	Breughel	depr:pl:nom:m2	nazwisko	
 Breughle	Breughel	depr:pl:voc:m2	nazwisko	
 Breughlem	Breughel	subst:sg:inst:m1	nazwisko	
@@ -10670,6 +11009,7 @@ Brezowie	Breza	subst:pl:nom:m1	nazwisko
 Brezowie	Breza	subst:pl:voc:m1	nazwisko	
 Brezów	Breza	subst:pl:acc:m1	nazwisko	
 Brezów	Breza	subst:pl:gen:m1	nazwisko	
+Brezy	Breza	depr:pl:acc:m2	nazwisko	
 Brezy	Breza	depr:pl:nom:m2	nazwisko	
 Brezy	Breza	depr:pl:voc:m2	nazwisko	
 Brezy	Breza	subst:sg:gen:m1	nazwisko	
@@ -10687,6 +11027,7 @@ Breżniewowie	Breżniew	subst:pl:nom:m1	nazwisko
 Breżniewowie	Breżniew	subst:pl:voc:m1	nazwisko	
 Breżniewów	Breżniew	subst:pl:acc:m1	nazwisko	
 Breżniewów	Breżniew	subst:pl:gen:m1	nazwisko	
+Breżniewy	Breżniew	depr:pl:acc:m2	nazwisko	
 Breżniewy	Breżniew	depr:pl:nom:m2	nazwisko	
 Breżniewy	Breżniew	depr:pl:voc:m2	nazwisko	
 Briana	Brian	subst:sg:acc:m1	imię	
@@ -10703,6 +11044,7 @@ Brianowie	Brian	subst:pl:nom:m1	imię
 Brianowie	Brian	subst:pl:voc:m1	imię	
 Brianów	Brian	subst:pl:acc:m1	imię	
 Brianów	Brian	subst:pl:gen:m1	imię	
+Briany	Brian	depr:pl:acc:m2	imię	
 Briany	Brian	depr:pl:nom:m2	imię	
 Briany	Brian	depr:pl:voc:m2	imię	
 Brianda	Briand	subst:sg:acc:m1	nazwisko	
@@ -10717,6 +11059,7 @@ Briandowie	Briand	subst:pl:nom:m1	nazwisko
 Briandowie	Briand	subst:pl:voc:m1	nazwisko	
 Briandów	Briand	subst:pl:acc:m1	nazwisko	
 Briandów	Briand	subst:pl:gen:m1	nazwisko	
+Briandy	Briand	depr:pl:acc:m2	nazwisko	
 Briandy	Briand	depr:pl:nom:m2	nazwisko	
 Briandy	Briand	depr:pl:voc:m2	nazwisko	
 Briandzie	Briand	subst:sg:loc:m1	nazwisko	
@@ -10764,6 +11107,7 @@ Brittenowie	Britten	subst:pl:nom:m1	nazwisko
 Brittenowie	Britten	subst:pl:voc:m1	nazwisko	
 Brittenów	Britten	subst:pl:acc:m1	nazwisko	
 Brittenów	Britten	subst:pl:gen:m1	nazwisko	
+Britteny	Britten	depr:pl:acc:m2	nazwisko	
 Britteny	Britten	depr:pl:nom:m2	nazwisko	
 Britteny	Britten	depr:pl:voc:m2	nazwisko	
 Bren	Brno	subst:pl:gen:n:ncol	nazwa geograficzna	
@@ -10845,6 +11189,7 @@ Brodowski	Brodowski	subst:sg:voc:m1	nazwisko
 Brodowskich	Brodowski	subst:pl:acc:m1	nazwisko	
 Brodowskich	Brodowski	subst:pl:gen:m1	nazwisko	
 Brodowskich	Brodowski	subst:pl:loc:m1	nazwisko	
+Brodowskie	Brodowski	depr:pl:acc:m2	nazwisko	
 Brodowskie	Brodowski	depr:pl:nom:m2	nazwisko	
 Brodowskie	Brodowski	depr:pl:voc:m2	nazwisko	
 Brodowskiego	Brodowski	subst:sg:acc:m1	nazwisko	
@@ -10875,6 +11220,7 @@ Brodski	Brodski	subst:sg:voc:m1	nazwisko
 Brodskich	Brodski	subst:pl:acc:m1	nazwisko	
 Brodskich	Brodski	subst:pl:gen:m1	nazwisko	
 Brodskich	Brodski	subst:pl:loc:m1	nazwisko	
+Brodskie	Brodski	depr:pl:acc:m2	nazwisko	
 Brodskie	Brodski	depr:pl:nom:m2	nazwisko	
 Brodskie	Brodski	depr:pl:voc:m2	nazwisko	
 Brodskiego	Brodski	subst:sg:acc:m1	nazwisko	
@@ -10905,6 +11251,7 @@ Brodziński	Brodziński	subst:sg:voc:m1	nazwisko
 Brodzińskich	Brodziński	subst:pl:acc:m1	nazwisko	
 Brodzińskich	Brodziński	subst:pl:gen:m1	nazwisko	
 Brodzińskich	Brodziński	subst:pl:loc:m1	nazwisko	
+Brodzińskie	Brodziński	depr:pl:acc:m2	nazwisko	
 Brodzińskie	Brodziński	depr:pl:nom:m2	nazwisko	
 Brodzińskie	Brodziński	depr:pl:voc:m2	nazwisko	
 Brodzińskiego	Brodziński	subst:sg:acc:m1	nazwisko	
@@ -10930,6 +11277,7 @@ Brodzisławowie	Brodzisław	subst:pl:nom:m1	imię
 Brodzisławowie	Brodzisław	subst:pl:voc:m1	imię	
 Brodzisławów	Brodzisław	subst:pl:acc:m1	imię	
 Brodzisławów	Brodzisław	subst:pl:gen:m1	imię	
+Brodzisławy	Brodzisław	depr:pl:acc:m2	imię	
 Brodzisławy	Brodzisław	depr:pl:nom:m2	imię	
 Brodzisławy	Brodzisław	depr:pl:voc:m2	imię	
 Brodzka	Brodzka	subst:sg:nom:f	nazwisko	
@@ -10953,6 +11301,7 @@ Brodzki	Brodzki	subst:sg:voc:m1	nazwisko
 Brodzkich	Brodzki	subst:pl:acc:m1	nazwisko	
 Brodzkich	Brodzki	subst:pl:gen:m1	nazwisko	
 Brodzkich	Brodzki	subst:pl:loc:m1	nazwisko	
+Brodzkie	Brodzki	depr:pl:acc:m2	nazwisko	
 Brodzkie	Brodzki	depr:pl:nom:m2	nazwisko	
 Brodzkie	Brodzki	depr:pl:voc:m2	nazwisko	
 Brodzkiego	Brodzki	subst:sg:acc:m1	nazwisko	
@@ -10967,6 +11316,7 @@ Broneczka	Broneczek	subst:sg:acc:m1	imię
 Broneczka	Broneczek	subst:sg:gen:m1	imię	
 Broneczkach	Broneczek	subst:pl:loc:m1	imię	
 Broneczkami	Broneczek	subst:pl:inst:m1	imię	
+Broneczki	Broneczek	depr:pl:acc:m2	imię	
 Broneczki	Broneczek	depr:pl:nom:m2	imię	
 Broneczki	Broneczek	depr:pl:voc:m2	imię	
 Broneczkiem	Broneczek	subst:sg:inst:m1	imię	
@@ -10983,6 +11333,7 @@ Bronka	Bronek	subst:sg:acc:m1	imię
 Bronka	Bronek	subst:sg:gen:m1	imię	
 Bronkach	Bronek	subst:pl:loc:m1	imię	
 Bronkami	Bronek	subst:pl:inst:m1	imię	
+Bronki	Bronek	depr:pl:acc:m2	imię	
 Bronki	Bronek	depr:pl:nom:m2	imię	
 Bronki	Bronek	depr:pl:voc:m2	imię	
 Bronkiem	Bronek	subst:sg:inst:m1	imię	
@@ -11030,6 +11381,7 @@ Broniewski	Broniewski	subst:sg:voc:m1	nazwisko
 Broniewskich	Broniewski	subst:pl:acc:m1	nazwisko	
 Broniewskich	Broniewski	subst:pl:gen:m1	nazwisko	
 Broniewskich	Broniewski	subst:pl:loc:m1	nazwisko	
+Broniewskie	Broniewski	depr:pl:acc:m2	nazwisko	
 Broniewskie	Broniewski	depr:pl:nom:m2	nazwisko	
 Broniewskie	Broniewski	depr:pl:voc:m2	nazwisko	
 Broniewskiego	Broniewski	subst:sg:acc:m1	nazwisko	
@@ -11051,6 +11403,7 @@ Bronimirowie	Bronimir	subst:pl:nom:m1	imię
 Bronimirowie	Bronimir	subst:pl:voc:m1	imię	
 Bronimirów	Bronimir	subst:pl:acc:m1	imię	
 Bronimirów	Bronimir	subst:pl:gen:m1	imię	
+Bronimiry	Bronimir	depr:pl:acc:m2	imię	
 Bronimiry	Bronimir	depr:pl:nom:m2	imię	
 Bronimiry	Bronimir	depr:pl:voc:m2	imię	
 Bronimirze	Bronimir	subst:sg:loc:m1	imię	
@@ -11071,6 +11424,7 @@ Bronisławowie	Bronisław	subst:pl:nom:m1	imię
 Bronisławowie	Bronisław	subst:pl:voc:m1	imię	
 Bronisławów	Bronisław	subst:pl:acc:m1	imię	
 Bronisławów	Bronisław	subst:pl:gen:m1	imię	
+Bronisławy	Bronisław	depr:pl:acc:m2	imię	
 Bronisławy	Bronisław	depr:pl:nom:m2	imię	
 Bronisławy	Bronisław	depr:pl:voc:m2	imię	
 Bronisława	Bronisława	subst:sg:nom:f	imię	
@@ -11092,6 +11446,7 @@ Bronisza	Bronisz	subst:sg:gen:m1	imię
 Broniszach	Bronisz	subst:pl:loc:m1	imię	
 Broniszami	Bronisz	subst:pl:inst:m1	imię	
 Bronisz	Bronisz	subst:sg:nom:m1	imię	
+Bronisze	Bronisz	depr:pl:acc:m2	imię	
 Bronisze	Bronisz	depr:pl:nom:m2	imię	
 Bronisze	Bronisz	depr:pl:voc:m2	imię	
 Bronisze	Bronisz	subst:pl:nom:m1	imię	
@@ -11110,6 +11465,7 @@ Broniwoja	Broniwoj	subst:sg:gen:m1	imię
 Broniwojach	Broniwoj	subst:pl:loc:m1	imię	
 Broniwojami	Broniwoj	subst:pl:inst:m1	imię	
 Broniwoj	Broniwoj	subst:sg:nom:m1	imię	
+Broniwoje	Broniwoj	depr:pl:acc:m2	imię	
 Broniwoje	Broniwoj	depr:pl:nom:m2	imię	
 Broniwoje	Broniwoj	depr:pl:voc:m2	imię	
 Broniwoje	Broniwoj	subst:pl:nom:m1	imię	
@@ -11169,6 +11525,7 @@ Bronusia	Bronuś	subst:sg:acc:m1	imię
 Bronusia	Bronuś	subst:sg:gen:m1	imię	
 Bronusiach	Bronuś	subst:pl:loc:m1	imię	
 Bronusiami	Bronuś	subst:pl:inst:m1	imię	
+Bronusie	Bronuś	depr:pl:acc:m2	imię	
 Bronusie	Bronuś	depr:pl:nom:m2	imię	
 Bronusie	Bronuś	depr:pl:voc:m2	imię	
 Bronusie	Bronuś	subst:pl:nom:m1	imię	
@@ -11211,6 +11568,7 @@ Brooke’ów	Brooke	subst:pl:acc:m1	nazwisko
 Brooke’ów	Brooke	subst:pl:gen:m1	nazwisko	
 Brooke’u	Brooke	subst:sg:loc:m1	nazwisko	
 Brooke’u	Brooke	subst:sg:voc:m1	nazwisko	
+Brooki	Brooke	depr:pl:acc:m2	nazwisko	
 Brooki	Brooke	depr:pl:nom:m2	nazwisko	
 Brooki	Brooke	depr:pl:voc:m2	nazwisko	
 Brookiem	Brooke	subst:sg:inst:m1	nazwisko	
@@ -11228,6 +11586,7 @@ Brownowie	Brown	subst:pl:nom:m1	nazwisko
 Brownowie	Brown	subst:pl:voc:m1	nazwisko	
 Brownów	Brown	subst:pl:acc:m1	nazwisko	
 Brownów	Brown	subst:pl:gen:m1	nazwisko	
+Browny	Brown	depr:pl:acc:m2	nazwisko	
 Browny	Brown	depr:pl:nom:m2	nazwisko	
 Browny	Brown	depr:pl:voc:m2	nazwisko	
 Browninga	Browning	subst:sg:acc:m1	nazwisko	
@@ -11235,6 +11594,7 @@ Browninga	Browning	subst:sg:gen:m1	nazwisko
 Browningach	Browning	subst:pl:loc:m1	nazwisko	
 Browningami	Browning	subst:pl:inst:m1	nazwisko	
 Browning	Browning	subst:sg:nom:m1	nazwisko	
+Browningi	Browning	depr:pl:acc:m2	nazwisko	
 Browningi	Browning	depr:pl:nom:m2	nazwisko	
 Browningi	Browning	depr:pl:voc:m2	nazwisko	
 Browningiem	Browning	subst:sg:inst:m1	nazwisko	
@@ -11246,6 +11606,7 @@ Browningów	Browning	subst:pl:acc:m1	nazwisko
 Browningów	Browning	subst:pl:gen:m1	nazwisko	
 Browningu	Browning	subst:sg:loc:m1	nazwisko	
 Browningu	Browning	subst:sg:voc:m1	nazwisko	
+Broże	Broży	depr:pl:acc:m2	imię	
 Broże	Broży	depr:pl:nom:m2	imię	
 Broże	Broży	depr:pl:voc:m2	imię	
 Brożego	Broży	subst:sg:acc:m1	imię	
@@ -11302,6 +11663,7 @@ Bruce’owie	Bruce	subst:pl:nom:m1	nazwisko
 Bruce’owie	Bruce	subst:pl:voc:m1	nazwisko	
 Bruce’ów	Bruce	subst:pl:acc:m1	nazwisko	
 Bruce’ów	Bruce	subst:pl:gen:m1	nazwisko	
+Bruce’y	Bruce	depr:pl:acc:m2	nazwisko	
 Bruce’y	Bruce	depr:pl:nom:m2	nazwisko	
 Bruce’y	Bruce	depr:pl:voc:m2	nazwisko	
 Brusie	Bruce	subst:sg:loc:m1	nazwisko	
@@ -11318,6 +11680,7 @@ Brücknerowie	Brückner	subst:pl:nom:m1	nazwisko
 Brücknerowie	Brückner	subst:pl:voc:m1	nazwisko	
 Brücknerów	Brückner	subst:pl:acc:m1	nazwisko	
 Brücknerów	Brückner	subst:pl:gen:m1	nazwisko	
+Brücknery	Brückner	depr:pl:acc:m2	nazwisko	
 Brücknery	Brückner	depr:pl:nom:m2	nazwisko	
 Brücknery	Brückner	depr:pl:voc:m2	nazwisko	
 Brücknerze	Brückner	subst:sg:loc:m1	nazwisko	
@@ -11327,6 +11690,7 @@ Bruegla	Bruegel	subst:sg:acc:m1	nazwisko
 Bruegla	Bruegel	subst:sg:gen:m1	nazwisko	
 Brueglach	Bruegel	subst:pl:loc:m1	nazwisko	
 Brueglami	Bruegel	subst:pl:inst:m1	nazwisko	
+Bruegle	Bruegel	depr:pl:acc:m2	nazwisko	
 Bruegle	Bruegel	depr:pl:nom:m2	nazwisko	
 Bruegle	Bruegel	depr:pl:voc:m2	nazwisko	
 Brueglem	Bruegel	subst:sg:inst:m1	nazwisko	
@@ -11367,6 +11731,7 @@ Brunowie	Brun	subst:pl:nom:m1	nazwisko
 Brunowie	Brun	subst:pl:voc:m1	nazwisko	
 Brunów	Brun	subst:pl:acc:m1	nazwisko	
 Brunów	Brun	subst:pl:gen:m1	nazwisko	
+Bruny	Brun	depr:pl:acc:m2	nazwisko	
 Bruny	Brun	depr:pl:nom:m2	nazwisko	
 Bruny	Brun	depr:pl:voc:m2	nazwisko	
 Brunelleschi	Brunelleschi	subst:pl:nom:m1	nazwisko	
@@ -11376,6 +11741,7 @@ Brunelleschi	Brunelleschi	subst:sg:voc:m1	nazwisko
 Brunelleschich	Brunelleschi	subst:pl:acc:m1	nazwisko	
 Brunelleschich	Brunelleschi	subst:pl:gen:m1	nazwisko	
 Brunelleschich	Brunelleschi	subst:pl:loc:m1	nazwisko	
+Brunelleschie	Brunelleschi	depr:pl:acc:m2	nazwisko	
 Brunelleschie	Brunelleschi	depr:pl:nom:m2	nazwisko	
 Brunelleschie	Brunelleschi	depr:pl:voc:m2	nazwisko	
 Brunelleschiego	Brunelleschi	subst:sg:acc:m1	nazwisko	
@@ -11416,6 +11782,7 @@ Brunonowie	Bruno	subst:pl:nom:m1	imię
 Brunonowie	Bruno	subst:pl:voc:m1	imię	
 Brunonów	Bruno	subst:pl:acc:m1	imię	
 Brunonów	Bruno	subst:pl:gen:m1	imię	
+Brunony	Bruno	depr:pl:acc:m2	imię	
 Brunony	Bruno	depr:pl:nom:m2	imię	
 Brunony	Bruno	depr:pl:voc:m2	imię	
 Brunona	Brunon	subst:sg:acc:m1	imię	
@@ -11432,6 +11799,7 @@ Brunonowie	Brunon	subst:pl:nom:m1	imię
 Brunonowie	Brunon	subst:pl:voc:m1	imię	
 Brunonów	Brunon	subst:pl:acc:m1	imię	
 Brunonów	Brunon	subst:pl:gen:m1	imię	
+Brunony	Brunon	depr:pl:acc:m2	imię	
 Brunony	Brunon	depr:pl:nom:m2	imię	
 Brunony	Brunon	depr:pl:voc:m2	imię	
 Brunszwika	Brunszwik	subst:sg:gen:m3	nazwa geograficzna	rzad.
@@ -11478,6 +11846,7 @@ Brutusowie	Brutus	subst:pl:nom:m1	imię
 Brutusowie	Brutus	subst:pl:voc:m1	imię	
 Brutusów	Brutus	subst:pl:acc:m1	imię	
 Brutusów	Brutus	subst:pl:gen:m1	imię	
+Brutusy	Brutus	depr:pl:acc:m2	imię	
 Brutusy	Brutus	depr:pl:nom:m2	imię	
 Brutusy	Brutus	depr:pl:voc:m2	imię	
 Brwinowa	Brwinów	subst:sg:gen:m3	nazwa geograficzna	
@@ -11542,6 +11911,7 @@ Brykcjusza	Brykcjusz	subst:sg:gen:m1	imię
 Brykcjuszach	Brykcjusz	subst:pl:loc:m1	imię	
 Brykcjuszami	Brykcjusz	subst:pl:inst:m1	imię	
 Brykcjusz	Brykcjusz	subst:sg:nom:m1	imię	
+Brykcjusze	Brykcjusz	depr:pl:acc:m2	imię	
 Brykcjusze	Brykcjusz	depr:pl:nom:m2	imię	
 Brykcjusze	Brykcjusz	depr:pl:voc:m2	imię	
 Brykcjusze	Brykcjusz	subst:pl:nom:m1	imię	
@@ -11560,6 +11930,7 @@ Brylla	Bryll	subst:sg:gen:m1	nazwisko
 Bryllach	Bryll	subst:pl:loc:m1	nazwisko	
 Bryllami	Bryll	subst:pl:inst:m1	nazwisko	
 Bryll	Bryll	subst:sg:nom:m1	nazwisko	
+Brylle	Bryll	depr:pl:acc:m2	nazwisko	
 Brylle	Bryll	depr:pl:nom:m2	nazwisko	
 Brylle	Bryll	depr:pl:voc:m2	nazwisko	
 Brylle	Bryll	subst:pl:nom:m1	nazwisko	
@@ -11595,6 +11966,7 @@ Brytyjczyka	Brytyjczyk	subst:sg:gen:m1	nazwa pospolita
 Brytyjczykach	Brytyjczyk	subst:pl:loc:m1	nazwa pospolita	
 Brytyjczykami	Brytyjczyk	subst:pl:inst:m1	nazwa pospolita	
 Brytyjczyk	Brytyjczyk	subst:sg:nom:m1	nazwa pospolita	
+Brytyjczyki	Brytyjczyk	depr:pl:acc:m2	nazwa pospolita	
 Brytyjczyki	Brytyjczyk	depr:pl:nom:m2	nazwa pospolita	
 Brytyjczyki	Brytyjczyk	depr:pl:voc:m2	nazwa pospolita	
 Brytyjczykiem	Brytyjczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -11710,6 +12082,7 @@ Brzeziński	Brzeziński	subst:sg:voc:m1	nazwisko
 Brzezińskich	Brzeziński	subst:pl:acc:m1	nazwisko	
 Brzezińskich	Brzeziński	subst:pl:gen:m1	nazwisko	
 Brzezińskich	Brzeziński	subst:pl:loc:m1	nazwisko	
+Brzezińskie	Brzeziński	depr:pl:acc:m2	nazwisko	
 Brzezińskie	Brzeziński	depr:pl:nom:m2	nazwisko	
 Brzezińskie	Brzeziński	depr:pl:voc:m2	nazwisko	
 Brzezińskiego	Brzeziński	subst:sg:acc:m1	nazwisko	
@@ -11752,6 +12125,7 @@ Brzozowicza	Brzozowicz	subst:sg:gen:m1	nazwisko
 Brzozowiczach	Brzozowicz	subst:pl:loc:m1	nazwisko	
 Brzozowiczami	Brzozowicz	subst:pl:inst:m1	nazwisko	
 Brzozowicz	Brzozowicz	subst:sg:nom:m1	nazwisko	
+Brzozowicze	Brzozowicz	depr:pl:acc:m2	nazwisko	
 Brzozowicze	Brzozowicz	depr:pl:nom:m2	nazwisko	
 Brzozowicze	Brzozowicz	depr:pl:voc:m2	nazwisko	
 Brzozowicze	Brzozowicz	subst:pl:nom:m1	nazwisko	
@@ -11786,6 +12160,7 @@ Brzozowski	Brzozowski	subst:sg:voc:m1	nazwisko
 Brzozowskich	Brzozowski	subst:pl:acc:m1	nazwisko	
 Brzozowskich	Brzozowski	subst:pl:gen:m1	nazwisko	
 Brzozowskich	Brzozowski	subst:pl:loc:m1	nazwisko	
+Brzozowskie	Brzozowski	depr:pl:acc:m2	nazwisko	
 Brzozowskie	Brzozowski	depr:pl:nom:m2	nazwisko	
 Brzozowskie	Brzozowski	depr:pl:voc:m2	nazwisko	
 Brzozowskiego	Brzozowski	subst:sg:acc:m1	nazwisko	
@@ -11978,6 +12353,7 @@ Bucharinowie	Bucharin	subst:pl:nom:m1	nazwisko
 Bucharinowie	Bucharin	subst:pl:voc:m1	nazwisko	
 Bucharinów	Bucharin	subst:pl:acc:m1	nazwisko	
 Bucharinów	Bucharin	subst:pl:gen:m1	nazwisko	
+Buchariny	Bucharin	depr:pl:acc:m2	nazwisko	
 Buchariny	Bucharin	depr:pl:nom:m2	nazwisko	
 Buchariny	Bucharin	depr:pl:voc:m2	nazwisko	
 Buchenwaldach	Buchenwald	subst:pl:loc:m3	nazwa geograficzna	
@@ -12013,6 +12389,7 @@ Buczka	Buczek	subst:sg:acc:m1	nazwisko
 Buczka	Buczek	subst:sg:gen:m1	nazwisko	
 Buczkach	Buczek	subst:pl:loc:m1	nazwisko	
 Buczkami	Buczek	subst:pl:inst:m1	nazwisko	
+Buczki	Buczek	depr:pl:acc:m2	nazwisko	
 Buczki	Buczek	depr:pl:nom:m2	nazwisko	
 Buczki	Buczek	depr:pl:voc:m2	nazwisko	
 Buczkiem	Buczek	subst:sg:inst:m1	nazwisko	
@@ -12045,6 +12422,7 @@ Buczkowski	Buczkowski	subst:sg:voc:m1	nazwisko
 Buczkowskich	Buczkowski	subst:pl:acc:m1	nazwisko	
 Buczkowskich	Buczkowski	subst:pl:gen:m1	nazwisko	
 Buczkowskich	Buczkowski	subst:pl:loc:m1	nazwisko	
+Buczkowskie	Buczkowski	depr:pl:acc:m2	nazwisko	
 Buczkowskie	Buczkowski	depr:pl:nom:m2	nazwisko	
 Buczkowskie	Buczkowski	depr:pl:voc:m2	nazwisko	
 Buczkowskiego	Buczkowski	subst:sg:acc:m1	nazwisko	
@@ -12075,6 +12453,7 @@ Buczyński	Buczyński	subst:sg:voc:m1	nazwisko
 Buczyńskich	Buczyński	subst:pl:acc:m1	nazwisko	
 Buczyńskich	Buczyński	subst:pl:gen:m1	nazwisko	
 Buczyńskich	Buczyński	subst:pl:loc:m1	nazwisko	
+Buczyńskie	Buczyński	depr:pl:acc:m2	nazwisko	
 Buczyńskie	Buczyński	depr:pl:nom:m2	nazwisko	
 Buczyńskie	Buczyński	depr:pl:voc:m2	nazwisko	
 Buczyńskiego	Buczyński	subst:sg:acc:m1	nazwisko	
@@ -12109,6 +12488,7 @@ Buddowie	Budda	subst:pl:nom:m1	przydomek	rel.
 Buddowie	Budda	subst:pl:voc:m1	przydomek	rel.
 Buddów	Budda	subst:pl:acc:m1	przydomek	rel.
 Buddów	Budda	subst:pl:gen:m1	przydomek	rel.
+Buddy	Budda	depr:pl:acc:m2	przydomek	rel.
 Buddy	Budda	depr:pl:nom:m2	przydomek	rel.
 Buddy	Budda	depr:pl:voc:m2	przydomek	rel.
 Buddy	Budda	subst:sg:gen:m1	przydomek	rel.
@@ -12128,6 +12508,7 @@ Budnych	Budna	subst:pl:gen:f	nazwisko
 Budnych	Budna	subst:pl:loc:f	nazwisko	
 Budnym	Budna	subst:pl:dat:f	nazwisko	
 Budnymi	Budna	subst:pl:inst:f	nazwisko	
+Budne	Budny	depr:pl:acc:m2	nazwisko	
 Budne	Budny	depr:pl:nom:m2	nazwisko	
 Budne	Budny	depr:pl:voc:m2	nazwisko	
 Budnego	Budny	subst:sg:acc:m1	nazwisko	
@@ -12149,6 +12530,7 @@ Budryka	Budryk	subst:sg:gen:m1	nazwisko
 Budrykach	Budryk	subst:pl:loc:m1	nazwisko	
 Budrykami	Budryk	subst:pl:inst:m1	nazwisko	
 Budryk	Budryk	subst:sg:nom:m1	nazwisko	
+Budryki	Budryk	depr:pl:acc:m2	nazwisko	
 Budryki	Budryk	depr:pl:nom:m2	nazwisko	
 Budryki	Budryk	depr:pl:voc:m2	nazwisko	
 Budrykiem	Budryk	subst:sg:inst:m1	nazwisko	
@@ -12188,6 +12570,7 @@ Budzigniewowie	Budzigniew	subst:pl:nom:m1	imię
 Budzigniewowie	Budzigniew	subst:pl:voc:m1	imię	
 Budzigniewów	Budzigniew	subst:pl:acc:m1	imię	
 Budzigniewów	Budzigniew	subst:pl:gen:m1	imię	
+Budzigniewy	Budzigniew	depr:pl:acc:m2	imię	
 Budzigniewy	Budzigniew	depr:pl:nom:m2	imię	
 Budzigniewy	Budzigniew	depr:pl:voc:m2	imię	
 Budzimira	Budzimir	subst:sg:acc:m1	imię	
@@ -12202,6 +12585,7 @@ Budzimirowie	Budzimir	subst:pl:nom:m1	imię
 Budzimirowie	Budzimir	subst:pl:voc:m1	imię	
 Budzimirów	Budzimir	subst:pl:acc:m1	imię	
 Budzimirów	Budzimir	subst:pl:gen:m1	imię	
+Budzimiry	Budzimir	depr:pl:acc:m2	imię	
 Budzimiry	Budzimir	depr:pl:nom:m2	imię	
 Budzimiry	Budzimir	depr:pl:voc:m2	imię	
 Budzimirze	Budzimir	subst:sg:loc:m1	imię	
@@ -12229,6 +12613,7 @@ Budziński	Budziński	subst:sg:voc:m1	nazwisko
 Budzińskich	Budziński	subst:pl:acc:m1	nazwisko	
 Budzińskich	Budziński	subst:pl:gen:m1	nazwisko	
 Budzińskich	Budziński	subst:pl:loc:m1	nazwisko	
+Budzińskie	Budziński	depr:pl:acc:m2	nazwisko	
 Budzińskie	Budziński	depr:pl:nom:m2	nazwisko	
 Budzińskie	Budziński	depr:pl:voc:m2	nazwisko	
 Budzińskiego	Budziński	subst:sg:acc:m1	nazwisko	
@@ -12254,6 +12639,7 @@ Budzisławowie	Budzisław	subst:pl:nom:m1	imię
 Budzisławowie	Budzisław	subst:pl:voc:m1	imię	
 Budzisławów	Budzisław	subst:pl:acc:m1	imię	
 Budzisławów	Budzisław	subst:pl:gen:m1	imię	
+Budzisławy	Budzisław	depr:pl:acc:m2	imię	
 Budzisławy	Budzisław	depr:pl:nom:m2	imię	
 Budzisławy	Budzisław	depr:pl:voc:m2	imię	
 Budzisława	Budzisława	subst:sg:nom:f	imię	
@@ -12275,6 +12661,7 @@ Budzisza	Budzisz	subst:sg:gen:m1	imię
 Budziszach	Budzisz	subst:pl:loc:m1	imię	
 Budziszami	Budzisz	subst:pl:inst:m1	imię	
 Budzisz	Budzisz	subst:sg:nom:m1	imię	
+Budzisze	Budzisz	depr:pl:acc:m2	imię	
 Budzisze	Budzisz	depr:pl:nom:m2	imię	
 Budzisze	Budzisz	depr:pl:voc:m2	imię	
 Budzisze	Budzisz	subst:pl:nom:m1	imię	
@@ -12309,6 +12696,7 @@ Budziszewski	Budziszewski	subst:sg:voc:m1	nazwisko
 Budziszewskich	Budziszewski	subst:pl:acc:m1	nazwisko	
 Budziszewskich	Budziszewski	subst:pl:gen:m1	nazwisko	
 Budziszewskich	Budziszewski	subst:pl:loc:m1	nazwisko	
+Budziszewskie	Budziszewski	depr:pl:acc:m2	nazwisko	
 Budziszewskie	Budziszewski	depr:pl:nom:m2	nazwisko	
 Budziszewskie	Budziszewski	depr:pl:voc:m2	nazwisko	
 Budziszewskiego	Budziszewski	subst:sg:acc:m1	nazwisko	
@@ -12337,6 +12725,7 @@ Budziwoja	Budziwoj	subst:sg:gen:m1	imię
 Budziwojach	Budziwoj	subst:pl:loc:m1	imię	
 Budziwojami	Budziwoj	subst:pl:inst:m1	imię	
 Budziwoj	Budziwoj	subst:sg:nom:m1	imię	
+Budziwoje	Budziwoj	depr:pl:acc:m2	imię	
 Budziwoje	Budziwoj	depr:pl:nom:m2	imię	
 Budziwoje	Budziwoj	depr:pl:voc:m2	imię	
 Budziwoje	Budziwoj	subst:pl:nom:m1	imię	
@@ -12395,6 +12784,7 @@ Buffalo	Buffalo:s1	subst:sg:inst:n:ncol	nazwa geograficzna
 Buffalo	Buffalo:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
 Buffalo	Buffalo:s1	subst:sg:nom:n:ncol	nazwa geograficzna	
 Buffalo	Buffalo:s1	subst:sg:voc:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s2	depr:pl:acc:m2	człon przydomka	
 Buffalo	Buffalo:s2	depr:pl:nom:m2	człon przydomka	
 Buffalo	Buffalo:s2	depr:pl:voc:m2	człon przydomka	
 Buffalo	Buffalo:s2	subst:pl:acc:m1	człon przydomka	
@@ -12425,6 +12815,7 @@ Buffonowie	Buffon	subst:pl:nom:m1	nazwisko
 Buffonowie	Buffon	subst:pl:voc:m1	nazwisko	
 Buffonów	Buffon	subst:pl:acc:m1	nazwisko	
 Buffonów	Buffon	subst:pl:gen:m1	nazwisko	
+Buffony	Buffon	depr:pl:acc:m2	nazwisko	
 Buffony	Buffon	depr:pl:nom:m2	nazwisko	
 Buffony	Buffon	depr:pl:voc:m2	nazwisko	
 Buga	Bug	subst:sg:gen:m3	nazwa geograficzna	
@@ -12447,6 +12838,7 @@ Bugaja	Bugaj	subst:sg:gen:m1	nazwisko
 Bugajach	Bugaj	subst:pl:loc:m1	nazwisko	
 Bugajami	Bugaj	subst:pl:inst:m1	nazwisko	
 Bugaj	Bugaj	subst:sg:nom:m1	nazwisko	
+Bugaje	Bugaj	depr:pl:acc:m2	nazwisko	
 Bugaje	Bugaj	depr:pl:nom:m2	nazwisko	
 Bugaje	Bugaj	depr:pl:voc:m2	nazwisko	
 Bugaje	Bugaj	subst:pl:nom:m1	nazwisko	
@@ -12474,6 +12866,7 @@ Bugajnych	Bugajna	subst:pl:gen:f	nazwisko
 Bugajnych	Bugajna	subst:pl:loc:f	nazwisko	
 Bugajnym	Bugajna	subst:pl:dat:f	nazwisko	
 Bugajnymi	Bugajna	subst:pl:inst:f	nazwisko	
+Bugajne	Bugajny	depr:pl:acc:m2	nazwisko	
 Bugajne	Bugajny	depr:pl:nom:m2	nazwisko	
 Bugajne	Bugajny	depr:pl:voc:m2	nazwisko	
 Bugajnego	Bugajny	subst:sg:acc:m1	nazwisko	
@@ -12511,6 +12904,7 @@ Bugajski	Bugajski	subst:sg:voc:m1	nazwisko
 Bugajskich	Bugajski	subst:pl:acc:m1	nazwisko	
 Bugajskich	Bugajski	subst:pl:gen:m1	nazwisko	
 Bugajskich	Bugajski	subst:pl:loc:m1	nazwisko	
+Bugajskie	Bugajski	depr:pl:acc:m2	nazwisko	
 Bugajskie	Bugajski	depr:pl:nom:m2	nazwisko	
 Bugajskie	Bugajski	depr:pl:voc:m2	nazwisko	
 Bugajskiego	Bugajski	subst:sg:acc:m1	nazwisko	
@@ -12541,6 +12935,7 @@ Bugalski	Bugalski	subst:sg:voc:m1	nazwisko
 Bugalskich	Bugalski	subst:pl:acc:m1	nazwisko	
 Bugalskich	Bugalski	subst:pl:gen:m1	nazwisko	
 Bugalskich	Bugalski	subst:pl:loc:m1	nazwisko	
+Bugalskie	Bugalski	depr:pl:acc:m2	nazwisko	
 Bugalskie	Bugalski	depr:pl:nom:m2	nazwisko	
 Bugalskie	Bugalski	depr:pl:voc:m2	nazwisko	
 Bugalskiego	Bugalski	subst:sg:acc:m1	nazwisko	
@@ -12571,6 +12966,7 @@ Bujnowski	Bujnowski	subst:sg:voc:m1	nazwisko
 Bujnowskich	Bujnowski	subst:pl:acc:m1	nazwisko	
 Bujnowskich	Bujnowski	subst:pl:gen:m1	nazwisko	
 Bujnowskich	Bujnowski	subst:pl:loc:m1	nazwisko	
+Bujnowskie	Bujnowski	depr:pl:acc:m2	nazwisko	
 Bujnowskie	Bujnowski	depr:pl:nom:m2	nazwisko	
 Bujnowskie	Bujnowski	depr:pl:voc:m2	nazwisko	
 Bujnowskiego	Bujnowski	subst:sg:acc:m1	nazwisko	
@@ -12592,6 +12988,7 @@ Bujwidowie	Bujwid	subst:pl:nom:m1	nazwisko
 Bujwidowie	Bujwid	subst:pl:voc:m1	nazwisko	
 Bujwidów	Bujwid	subst:pl:acc:m1	nazwisko	
 Bujwidów	Bujwid	subst:pl:gen:m1	nazwisko	
+Bujwidy	Bujwid	depr:pl:acc:m2	nazwisko	
 Bujwidy	Bujwid	depr:pl:nom:m2	nazwisko	
 Bujwidy	Bujwid	depr:pl:voc:m2	nazwisko	
 Bujwidzie	Bujwid	subst:sg:loc:m1	nazwisko	
@@ -12647,6 +13044,7 @@ Bukowski	Bukowski	subst:sg:voc:m1	nazwisko
 Bukowskich	Bukowski	subst:pl:acc:m1	nazwisko	
 Bukowskich	Bukowski	subst:pl:gen:m1	nazwisko	
 Bukowskich	Bukowski	subst:pl:loc:m1	nazwisko	
+Bukowskie	Bukowski	depr:pl:acc:m2	nazwisko	
 Bukowskie	Bukowski	depr:pl:nom:m2	nazwisko	
 Bukowskie	Bukowski	depr:pl:voc:m2	nazwisko	
 Bukowskiego	Bukowski	subst:sg:acc:m1	nazwisko	
@@ -12691,6 +13089,7 @@ Bullocka	Bullock	subst:sg:gen:m1	nazwisko
 Bullockach	Bullock	subst:pl:loc:m1	nazwisko	
 Bullockami	Bullock	subst:pl:inst:m1	nazwisko	
 Bullock	Bullock	subst:sg:nom:m1	nazwisko	
+Bullocki	Bullock	depr:pl:acc:m2	nazwisko	
 Bullocki	Bullock	depr:pl:nom:m2	nazwisko	
 Bullocki	Bullock	depr:pl:voc:m2	nazwisko	
 Bullockiem	Bullock	subst:sg:inst:m1	nazwisko	
@@ -12712,6 +13111,7 @@ Bułgarom	Bułgar	subst:pl:dat:m1	nazwa pospolita
 Bułgarowi	Bułgar	subst:sg:dat:m1	nazwa pospolita	
 Bułgarów	Bułgar	subst:pl:acc:m1	nazwa pospolita	
 Bułgarów	Bułgar	subst:pl:gen:m1	nazwa pospolita	
+Bułgary	Bułgar	depr:pl:acc:m2	nazwa pospolita	
 Bułgary	Bułgar	depr:pl:nom:m2	nazwa pospolita	
 Bułgary	Bułgar	depr:pl:voc:m2	nazwa pospolita	
 Bułgarze	Bułgar	subst:sg:loc:m1	nazwa pospolita	
@@ -12761,6 +13161,7 @@ Bułhakowowie	Bułhakow	subst:pl:nom:m1	nazwisko
 Bułhakowowie	Bułhakow	subst:pl:voc:m1	nazwisko	
 Bułhakowów	Bułhakow	subst:pl:acc:m1	nazwisko	
 Bułhakowów	Bułhakow	subst:pl:gen:m1	nazwisko	
+Bułhakowy	Bułhakow	depr:pl:acc:m2	nazwisko	
 Bułhakowy	Bułhakow	depr:pl:nom:m2	nazwisko	
 Bułhakowy	Bułhakow	depr:pl:voc:m2	nazwisko	
 Bundach	Bund	subst:pl:loc:m3	nazwa organizacji	
@@ -12852,6 +13253,7 @@ Bunscha	Bunsch	subst:sg:gen:m1	nazwisko
 Bunschach	Bunsch	subst:pl:loc:m1	nazwisko	
 Bunschami	Bunsch	subst:pl:inst:m1	nazwisko	
 Bunsch	Bunsch	subst:sg:nom:m1	nazwisko	
+Bunsche	Bunsch	depr:pl:acc:m2	nazwisko	
 Bunsche	Bunsch	depr:pl:nom:m2	nazwisko	
 Bunsche	Bunsch	depr:pl:voc:m2	nazwisko	
 Bunschem	Bunsch	subst:sg:inst:m1	nazwisko	
@@ -12863,6 +13265,7 @@ Bunschów	Bunsch	subst:pl:acc:m1	nazwisko
 Bunschów	Bunsch	subst:pl:gen:m1	nazwisko	
 Bunschu	Bunsch	subst:sg:loc:m1	nazwisko	
 Bunschu	Bunsch	subst:sg:voc:m1	nazwisko	
+Bunschy	Bunsch	depr:pl:acc:m2	nazwisko	
 Bunschy	Bunsch	depr:pl:nom:m2	nazwisko	
 Bunschy	Bunsch	depr:pl:voc:m2	nazwisko	
 Bunsena	Bunsen	subst:sg:acc:m1	nazwisko	
@@ -12879,6 +13282,7 @@ Bunsenowie	Bunsen	subst:pl:nom:m1	nazwisko
 Bunsenowie	Bunsen	subst:pl:voc:m1	nazwisko	
 Bunsenów	Bunsen	subst:pl:acc:m1	nazwisko	
 Bunsenów	Bunsen	subst:pl:gen:m1	nazwisko	
+Bunseny	Bunsen	depr:pl:acc:m2	nazwisko	
 Bunseny	Bunsen	depr:pl:nom:m2	nazwisko	
 Bunseny	Bunsen	depr:pl:voc:m2	nazwisko	
 Buñuela	Buñuel	subst:sg:acc:m1	nazwisko	
@@ -12886,6 +13290,7 @@ Buñuela	Buñuel	subst:sg:gen:m1	nazwisko
 Buñuelach	Buñuel	subst:pl:loc:m1	nazwisko	
 Buñuelami	Buñuel	subst:pl:inst:m1	nazwisko	
 Buñuel	Buñuel	subst:sg:nom:m1	nazwisko	
+Buñuele	Buñuel	depr:pl:acc:m2	nazwisko	
 Buñuele	Buñuel	depr:pl:nom:m2	nazwisko	
 Buñuele	Buñuel	depr:pl:voc:m2	nazwisko	
 Buñuele	Buñuel	subst:pl:nom:m1	nazwisko	
@@ -12906,6 +13311,7 @@ Buonaccorsi	Buonaccorsi	subst:sg:voc:m1	nazwisko
 Buonaccorsich	Buonaccorsi	subst:pl:acc:m1	nazwisko	
 Buonaccorsich	Buonaccorsi	subst:pl:gen:m1	nazwisko	
 Buonaccorsich	Buonaccorsi	subst:pl:loc:m1	nazwisko	
+Buonaccorsie	Buonaccorsi	depr:pl:acc:m2	nazwisko	
 Buonaccorsie	Buonaccorsi	depr:pl:nom:m2	nazwisko	
 Buonaccorsie	Buonaccorsi	depr:pl:voc:m2	nazwisko	
 Buonaccorsiego	Buonaccorsi	subst:sg:acc:m1	nazwisko	
@@ -12924,6 +13330,7 @@ Buonarotti	Buonarotti	subst:sg:voc:m1	nazwisko
 Buonarottich	Buonarotti	subst:pl:acc:m1	nazwisko	
 Buonarottich	Buonarotti	subst:pl:gen:m1	nazwisko	
 Buonarottich	Buonarotti	subst:pl:loc:m1	nazwisko	
+Buonarottie	Buonarotti	depr:pl:acc:m2	nazwisko	
 Buonarottie	Buonarotti	depr:pl:nom:m2	nazwisko	
 Buonarottie	Buonarotti	depr:pl:voc:m2	nazwisko	
 Buonarottiego	Buonarotti	subst:sg:acc:m1	nazwisko	
@@ -12947,6 +13354,7 @@ Burowie	Bur	subst:pl:nom:m1	nazwa pospolita
 Burowie	Bur	subst:pl:voc:m1	nazwa pospolita	
 Burów	Bur	subst:pl:acc:m1	nazwa pospolita	
 Burów	Bur	subst:pl:gen:m1	nazwa pospolita	
+Bury	Bur	depr:pl:acc:m2	nazwa pospolita	
 Bury	Bur	depr:pl:nom:m2	nazwa pospolita	
 Bury	Bur	depr:pl:voc:m2	nazwa pospolita	
 Burze	Bur	subst:sg:loc:m1	nazwa pospolita	
@@ -12972,6 +13380,7 @@ Buraczyński	Buraczyński	subst:sg:voc:m1	nazwisko
 Buraczyńskich	Buraczyński	subst:pl:acc:m1	nazwisko	
 Buraczyńskich	Buraczyński	subst:pl:gen:m1	nazwisko	
 Buraczyńskich	Buraczyński	subst:pl:loc:m1	nazwisko	
+Buraczyńskie	Buraczyński	depr:pl:acc:m2	nazwisko	
 Buraczyńskie	Buraczyński	depr:pl:nom:m2	nazwisko	
 Buraczyńskie	Buraczyński	depr:pl:voc:m2	nazwisko	
 Buraczyńskiego	Buraczyński	subst:sg:acc:m1	nazwisko	
@@ -13002,6 +13411,7 @@ Burakowski	Burakowski	subst:sg:voc:m1	nazwisko
 Burakowskich	Burakowski	subst:pl:acc:m1	nazwisko	
 Burakowskich	Burakowski	subst:pl:gen:m1	nazwisko	
 Burakowskich	Burakowski	subst:pl:loc:m1	nazwisko	
+Burakowskie	Burakowski	depr:pl:acc:m2	nazwisko	
 Burakowskie	Burakowski	depr:pl:nom:m2	nazwisko	
 Burakowskie	Burakowski	depr:pl:voc:m2	nazwisko	
 Burakowskiego	Burakowski	subst:sg:acc:m1	nazwisko	
@@ -13025,6 +13435,7 @@ Burbonowie	Burbon	subst:pl:nom:m1	nazwa członka rodu
 Burbonowie	Burbon	subst:pl:voc:m1	nazwa członka rodu	
 Burbonów	Burbon	subst:pl:acc:m1	nazwa członka rodu	
 Burbonów	Burbon	subst:pl:gen:m1	nazwa członka rodu	
+Burbony	Burbon	depr:pl:acc:m2	nazwa członka rodu	
 Burbony	Burbon	depr:pl:nom:m2	nazwa członka rodu	
 Burbony	Burbon	depr:pl:voc:m2	nazwa członka rodu	
 Burcharda	Burchard	subst:sg:acc:m1	imię	
@@ -13039,6 +13450,7 @@ Burchardowie	Burchard	subst:pl:nom:m1	imię
 Burchardowie	Burchard	subst:pl:voc:m1	imię	
 Burchardów	Burchard	subst:pl:acc:m1	imię	
 Burchardów	Burchard	subst:pl:gen:m1	imię	
+Burchardy	Burchard	depr:pl:acc:m2	imię	
 Burchardy	Burchard	depr:pl:nom:m2	imię	
 Burchardy	Burchard	depr:pl:voc:m2	imię	
 Burchardzie	Burchard	subst:sg:loc:m1	imię	
@@ -13069,6 +13481,7 @@ Burgundowie	Burgund	subst:pl:nom:m1	nazwa pospolita
 Burgundowie	Burgund	subst:pl:voc:m1	nazwa pospolita	
 Burgundów	Burgund	subst:pl:acc:m1	nazwa pospolita	
 Burgundów	Burgund	subst:pl:gen:m1	nazwa pospolita	
+Burgundy	Burgund	depr:pl:acc:m2	nazwa pospolita	
 Burgundy	Burgund	depr:pl:nom:m2	nazwa pospolita	
 Burgundy	Burgund	depr:pl:voc:m2	nazwa pospolita	
 Burgundzie	Burgund	subst:sg:loc:m1	nazwa pospolita	
@@ -13080,6 +13493,7 @@ Burgundczyka	Burgundczyk	subst:sg:gen:m1	nazwa pospolita
 Burgundczykach	Burgundczyk	subst:pl:loc:m1	nazwa pospolita	
 Burgundczykami	Burgundczyk	subst:pl:inst:m1	nazwa pospolita	
 Burgundczyk	Burgundczyk	subst:sg:nom:m1	nazwa pospolita	
+Burgundczyki	Burgundczyk	depr:pl:acc:m2	nazwa pospolita	
 Burgundczyki	Burgundczyk	depr:pl:nom:m2	nazwa pospolita	
 Burgundczyki	Burgundczyk	depr:pl:voc:m2	nazwa pospolita	
 Burgundczykiem	Burgundczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -13126,6 +13540,7 @@ Burkińczyka	Burkińczyk	subst:sg:gen:m1	nazwa pospolita
 Burkińczykach	Burkińczyk	subst:pl:loc:m1	nazwa pospolita	
 Burkińczykami	Burkińczyk	subst:pl:inst:m1	nazwa pospolita	
 Burkińczyk	Burkińczyk	subst:sg:nom:m1	nazwa pospolita	
+Burkińczyki	Burkińczyk	depr:pl:acc:m2	nazwa pospolita	
 Burkińczyki	Burkińczyk	depr:pl:nom:m2	nazwa pospolita	
 Burkińczyki	Burkińczyk	depr:pl:voc:m2	nazwa pospolita	
 Burkińczykiem	Burkińczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -13175,6 +13590,7 @@ Burne’owie	Burne	subst:pl:nom:m1	nazwisko
 Burne’owie	Burne	subst:pl:voc:m1	nazwisko	
 Burne’ów	Burne	subst:pl:acc:m1	nazwisko	
 Burne’ów	Burne	subst:pl:gen:m1	nazwisko	
+Burne’y	Burne	depr:pl:acc:m2	nazwisko	
 Burne’y	Burne	depr:pl:nom:m2	nazwisko	
 Burne’y	Burne	depr:pl:voc:m2	nazwisko	
 Burnie	Burne	subst:sg:loc:m1	nazwisko	
@@ -13193,6 +13609,7 @@ Burnettowie	Burnett	subst:pl:nom:m1	nazwisko
 Burnettowie	Burnett	subst:pl:voc:m1	nazwisko	
 Burnettów	Burnett	subst:pl:acc:m1	nazwisko	
 Burnettów	Burnett	subst:pl:gen:m1	nazwisko	
+Burnetty	Burnett	depr:pl:acc:m2	nazwisko	
 Burnetty	Burnett	depr:pl:nom:m2	nazwisko	
 Burnetty	Burnett	depr:pl:voc:m2	nazwisko	
 Burnsa	Burns	subst:sg:acc:m1	nazwisko	
@@ -13209,8 +13626,10 @@ Burnsowie	Burns	subst:pl:nom:m1	nazwisko
 Burnsowie	Burns	subst:pl:voc:m1	nazwisko	
 Burnsów	Burns	subst:pl:acc:m1	nazwisko	
 Burnsów	Burns	subst:pl:gen:m1	nazwisko	
+Burnsy	Burns	depr:pl:acc:m2	nazwisko	
 Burnsy	Burns	depr:pl:nom:m2	nazwisko	
 Burnsy	Burns	depr:pl:voc:m2	nazwisko	
+Burne	Burny	depr:pl:acc:m2	nazwisko	
 Burne	Burny	depr:pl:nom:m2	nazwisko	
 Burne	Burny	depr:pl:voc:m2	nazwisko	
 Burnego	Burny	subst:sg:acc:m1	nazwisko	
@@ -13232,6 +13651,7 @@ Burusza	Burusz	subst:sg:gen:m1	nazwa pospolita	etn.
 Buruszach	Burusz	subst:pl:loc:m1	nazwa pospolita	etn.
 Buruszami	Burusz	subst:pl:inst:m1	nazwa pospolita	etn.
 Burusz	Burusz	subst:sg:nom:m1	nazwa pospolita	etn.
+Burusze	Burusz	depr:pl:acc:m2	nazwa pospolita	etn.
 Burusze	Burusz	depr:pl:nom:m2	nazwa pospolita	etn.
 Burusze	Burusz	depr:pl:voc:m2	nazwa pospolita	etn.
 Buruszem	Burusz	subst:sg:inst:m1	nazwa pospolita	etn.
@@ -13243,6 +13663,7 @@ Buruszów	Burusz	subst:pl:acc:m1	nazwa pospolita	etn.
 Buruszów	Burusz	subst:pl:gen:m1	nazwa pospolita	etn.
 Buruszu	Burusz	subst:sg:loc:m1	nazwa pospolita	etn.
 Buruszu	Burusz	subst:sg:voc:m1	nazwa pospolita	etn.
+Bure	Bury	depr:pl:acc:m2	nazwisko	
 Bure	Bury	depr:pl:nom:m2	nazwisko	
 Bure	Bury	depr:pl:voc:m2	nazwisko	
 Burego	Bury	subst:sg:acc:m1	nazwisko	
@@ -13282,6 +13703,7 @@ Burzyński	Burzyński	subst:sg:voc:m1	nazwisko
 Burzyńskich	Burzyński	subst:pl:acc:m1	nazwisko	
 Burzyńskich	Burzyński	subst:pl:gen:m1	nazwisko	
 Burzyńskich	Burzyński	subst:pl:loc:m1	nazwisko	
+Burzyńskie	Burzyński	depr:pl:acc:m2	nazwisko	
 Burzyńskie	Burzyński	depr:pl:nom:m2	nazwisko	
 Burzyńskie	Burzyński	depr:pl:voc:m2	nazwisko	
 Burzyńskiego	Burzyński	subst:sg:acc:m1	nazwisko	
@@ -13296,6 +13718,7 @@ Busha	Bush	subst:sg:gen:m1	nazwisko
 Bushach	Bush	subst:pl:loc:m1	nazwisko	
 Bushami	Bush	subst:pl:inst:m1	nazwisko	
 Bush	Bush	subst:sg:nom:m1	nazwisko	
+Bushe	Bush	depr:pl:acc:m2	nazwisko	
 Bushe	Bush	depr:pl:nom:m2	nazwisko	
 Bushe	Bush	depr:pl:voc:m2	nazwisko	
 Bushem	Bush	subst:sg:inst:m1	nazwisko	
@@ -13335,6 +13758,7 @@ Buszmanom	Buszman	subst:pl:dat:m1	nazwa pospolita
 Buszmanowi	Buszman	subst:sg:dat:m1	nazwa pospolita	
 Buszmanów	Buszman	subst:pl:acc:m1	nazwa pospolita	
 Buszmanów	Buszman	subst:pl:gen:m1	nazwa pospolita	
+Buszmany	Buszman	depr:pl:acc:m2	nazwa pospolita	
 Buszmany	Buszman	depr:pl:nom:m2	nazwa pospolita	
 Buszmany	Buszman	depr:pl:voc:m2	nazwa pospolita	
 Buszmena	Buszmen	subst:sg:acc:m1	nazwa pospolita	
@@ -13351,6 +13775,7 @@ Buszmenom	Buszmen	subst:pl:dat:m1	nazwa pospolita
 Buszmenowi	Buszmen	subst:sg:dat:m1	nazwa pospolita	
 Buszmenów	Buszmen	subst:pl:acc:m1	nazwa pospolita	
 Buszmenów	Buszmen	subst:pl:gen:m1	nazwa pospolita	
+Buszmeny	Buszmen	depr:pl:acc:m2	nazwa pospolita	
 Buszmeny	Buszmen	depr:pl:nom:m2	nazwa pospolita	
 Buszmeny	Buszmen	depr:pl:voc:m2	nazwa pospolita	
 Buszmence	Buszmenka	subst:sg:dat:f	nazwa pospolita	
@@ -13381,6 +13806,7 @@ Butrosowie	Butros	subst:pl:nom:m1	imię
 Butrosowie	Butros	subst:pl:voc:m1	imię	
 Butrosów	Butros	subst:pl:acc:m1	imię	
 Butrosów	Butros	subst:pl:gen:m1	imię	
+Butrosy	Butros	depr:pl:acc:m2	imię	
 Butrosy	Butros	depr:pl:nom:m2	imię	
 Butrosy	Butros	depr:pl:voc:m2	imię	
 BUW-ach	BUW	subst:pl:loc:m3	nazwa instytucji	
@@ -13413,6 +13839,7 @@ BUW-y	BUW	subst:pl:nom:m3	nazwa instytucji
 BUW-y	BUW	subst:pl:voc:m3	nazwa instytucji	
 Buxtehudach	Buxtehude	subst:pl:loc:m1	nazwisko	
 Buxtehudami	Buxtehude	subst:pl:inst:m1	nazwisko	
+Buxtehude	Buxtehude	depr:pl:acc:m2	nazwisko	
 Buxtehude	Buxtehude	depr:pl:nom:m2	nazwisko	
 Buxtehude	Buxtehude	depr:pl:voc:m2	nazwisko	
 Buxtehude	Buxtehude	subst:sg:nom:m1	nazwisko	
@@ -13440,6 +13867,7 @@ Buynowie	Buyno	subst:pl:nom:m1	nazwisko
 Buynowie	Buyno	subst:pl:voc:m1	nazwisko	
 Buynów	Buyno	subst:pl:acc:m1	nazwisko	
 Buynów	Buyno	subst:pl:gen:m1	nazwisko	
+Buyny	Buyno	depr:pl:acc:m2	nazwisko	
 Buyny	Buyno	depr:pl:nom:m2	nazwisko	
 Buyny	Buyno	depr:pl:voc:m2	nazwisko	
 Buyny	Buyno	subst:sg:gen:m1	nazwisko	
@@ -13448,6 +13876,7 @@ Buzka	Buzek	subst:sg:acc:m1	nazwisko
 Buzka	Buzek	subst:sg:gen:m1	nazwisko	
 Buzkach	Buzek	subst:pl:loc:m1	nazwisko	
 Buzkami	Buzek	subst:pl:inst:m1	nazwisko	
+Buzki	Buzek	depr:pl:acc:m2	nazwisko	
 Buzki	Buzek	depr:pl:nom:m2	nazwisko	
 Buzki	Buzek	depr:pl:voc:m2	nazwisko	
 Buzkiem	Buzek	subst:sg:inst:m1	nazwisko	
@@ -13466,6 +13895,7 @@ Buźkach	Buźka	subst:pl:loc:m1	nazwisko
 Buźkami	Buźka	subst:pl:inst:m1	nazwisko	
 Buźką	Buźka	subst:sg:inst:m1	nazwisko	
 Buźkę	Buźka	subst:sg:acc:m1	nazwisko	
+Buźki	Buźka	depr:pl:acc:m2	nazwisko	
 Buźki	Buźka	depr:pl:nom:m2	nazwisko	
 Buźki	Buźka	depr:pl:voc:m2	nazwisko	
 Buźki	Buźka	subst:sg:gen:m1	nazwisko	
@@ -13489,6 +13919,7 @@ Bużaninie	Bużanin	subst:sg:loc:m1	nazwa pospolita
 Bużaninie	Bużanin	subst:sg:voc:m1	nazwa pospolita	
 Bużaninowi	Bużanin	subst:sg:dat:m1	nazwa pospolita	
 Bużanom	Bużanin	subst:pl:dat:m1	nazwa pospolita	
+Bużany	Bużanin	depr:pl:acc:m2	nazwa pospolita	
 Bużany	Bużanin	depr:pl:nom:m2	nazwa pospolita	
 Bużany	Bużanin	depr:pl:voc:m2	nazwa pospolita	
 BW	BW	subst:pl:acc:m3	nazwa firmy	
@@ -13630,6 +14061,7 @@ Bykauowie	Bykau	subst:pl:nom:m1	nazwisko
 Bykauowie	Bykau	subst:pl:voc:m1	nazwisko	
 Bykauów	Bykau	subst:pl:acc:m1	nazwisko	
 Bykauów	Bykau	subst:pl:gen:m1	nazwisko	
+Bykauy	Bykau	depr:pl:acc:m2	nazwisko	
 Bykauy	Bykau	depr:pl:nom:m2	nazwisko	
 Bykauy	Bykau	depr:pl:voc:m2	nazwisko	
 Bykownia	Bykownia	subst:sg:nom:f	nazwa geograficzna	
@@ -13654,6 +14086,7 @@ Byka	Byk:s1	subst:sg:gen:m1	nazwa pospolita
 Bykach	Byk:s1	subst:pl:loc:m1	nazwa pospolita	
 Bykami	Byk:s1	subst:pl:inst:m1	nazwa pospolita	
 Byk	Byk:s1	subst:sg:nom:m1	nazwa pospolita	
+Byki	Byk:s1	depr:pl:acc:m2	nazwa pospolita	
 Byki	Byk:s1	depr:pl:nom:m2	nazwa pospolita	
 Byki	Byk:s1	depr:pl:voc:m2	nazwa pospolita	
 Bykiem	Byk:s1	subst:sg:inst:m1	nazwa pospolita	
@@ -13695,12 +14128,14 @@ Byronowie	Byron	subst:pl:nom:m1	nazwisko
 Byronowie	Byron	subst:pl:voc:m1	nazwisko	
 Byronów	Byron	subst:pl:acc:m1	nazwisko	
 Byronów	Byron	subst:pl:gen:m1	nazwisko	
+Byrony	Byron	depr:pl:acc:m2	nazwisko	
 Byrony	Byron	depr:pl:nom:m2	nazwisko	
 Byrony	Byron	depr:pl:voc:m2	nazwisko	
 Bystronia	Bystroń	subst:sg:acc:m1	nazwisko	
 Bystronia	Bystroń	subst:sg:gen:m1	nazwisko	
 Bystroniach	Bystroń	subst:pl:loc:m1	nazwisko	
 Bystroniami	Bystroń	subst:pl:inst:m1	nazwisko	
+Bystronie	Bystroń	depr:pl:acc:m2	nazwisko	
 Bystronie	Bystroń	depr:pl:nom:m2	nazwisko	
 Bystronie	Bystroń	depr:pl:voc:m2	nazwisko	
 Bystroniem	Bystroń	subst:sg:inst:m1	nazwisko	

@@ -12,6 +12,7 @@ Vaclavowi	Vaclav	subst:sg:dat:m1	imię
 Vaclavów	Vaclav	subst:pl:acc:m1	imię	
 Vaclavów	Vaclav	subst:pl:gen:m1	imię	
 Vaclav	Vaclav	subst:sg:nom:m1	imię	
+Vaclavy	Vaclav	depr:pl:acc:m2	imię	
 Vaclavy	Vaclav	depr:pl:nom:m2	imię	
 Vaclavy	Vaclav	depr:pl:voc:m2	imię	
 Valérych	Valéry	subst:pl:acc:m1	nazwisko	
@@ -20,6 +21,7 @@ Valérych	Valéry	subst:pl:loc:m1	nazwisko
 Valéry’ego	Valéry	subst:sg:acc:m1	nazwisko	
 Valéry’ego	Valéry	subst:sg:gen:m1	nazwisko	
 Valéry’emu	Valéry	subst:sg:dat:m1	nazwisko	
+Valéry’e	Valéry	depr:pl:acc:m2	nazwisko	
 Valéry’e	Valéry	depr:pl:nom:m2	nazwisko	
 Valéry’e	Valéry	depr:pl:voc:m2	nazwisko	
 Valérymi	Valéry	subst:pl:inst:m1	nazwisko	
@@ -70,6 +72,7 @@ Vancouverowi	Vancouver:s2	subst:sg:dat:m1	nazwisko
 Vancouverów	Vancouver:s2	subst:pl:acc:m1	nazwisko	
 Vancouverów	Vancouver:s2	subst:pl:gen:m1	nazwisko	
 Vancouver	Vancouver:s2	subst:sg:nom:m1	nazwisko	
+Vancouvery	Vancouver:s2	depr:pl:acc:m2	nazwisko	
 Vancouvery	Vancouver:s2	depr:pl:nom:m2	nazwisko	
 Vancouvery	Vancouver:s2	depr:pl:voc:m2	nazwisko	
 Vancouverze	Vancouver:s2	subst:sg:loc:m1	nazwisko	
@@ -88,8 +91,10 @@ Vargasowi	Vargas	subst:sg:dat:m1	nazwisko
 Vargasów	Vargas	subst:pl:acc:m1	nazwisko	
 Vargasów	Vargas	subst:pl:gen:m1	nazwisko	
 Vargas	Vargas	subst:sg:nom:m1	nazwisko	
+Vargasy	Vargas	depr:pl:acc:m2	nazwisko	
 Vargasy	Vargas	depr:pl:nom:m2	nazwisko	
 Vargasy	Vargas	depr:pl:voc:m2	nazwisko	
+Vasco	Vasco	depr:pl:acc:m2	nazwisko	
 Vasco	Vasco	depr:pl:nom:m2	nazwisko	
 Vasco	Vasco	depr:pl:voc:m2	nazwisko	
 Vasco	Vasco	subst:pl:acc:m1	nazwisko	
@@ -195,6 +200,7 @@ Vegami	Vega	subst:pl:inst:m1	człon nazwiska
 Vega	Vega	subst:sg:nom:m1	człon nazwiska	
 Vegą	Vega	subst:sg:inst:m1	człon nazwiska	
 Vegę	Vega	subst:sg:acc:m1	człon nazwiska	
+Vegi	Vega	depr:pl:acc:m2	człon nazwiska	
 Vegi	Vega	depr:pl:nom:m2	człon nazwiska	
 Vegi	Vega	depr:pl:voc:m2	człon nazwiska	
 Vegi	Vega	subst:sg:gen:m1	człon nazwiska	
@@ -219,6 +225,7 @@ Velazquezowi	Velazquez	subst:sg:dat:m1	nazwisko
 Velazquezów	Velazquez	subst:pl:acc:m1	nazwisko	
 Velazquezów	Velazquez	subst:pl:gen:m1	nazwisko	
 Velazquez	Velazquez	subst:sg:nom:m1	nazwisko	
+Velazquezy	Velazquez	depr:pl:acc:m2	nazwisko	
 Velazquezy	Velazquez	depr:pl:nom:m2	nazwisko	
 Velazquezy	Velazquez	depr:pl:voc:m2	nazwisko	
 Venclovach	Venclova	subst:pl:loc:m1	nazwisko	
@@ -234,6 +241,7 @@ Venclovowie	Venclova	subst:pl:nom:m1	nazwisko
 Venclovowie	Venclova	subst:pl:voc:m1	nazwisko	
 Venclovów	Venclova	subst:pl:acc:m1	nazwisko	
 Venclovów	Venclova	subst:pl:gen:m1	nazwisko	
+Venclovy	Venclova	depr:pl:acc:m2	nazwisko	
 Venclovy	Venclova	depr:pl:nom:m2	nazwisko	
 Venclovy	Venclova	depr:pl:voc:m2	nazwisko	
 Venclovy	Venclova	subst:sg:gen:m1	nazwisko	
@@ -253,6 +261,7 @@ Ventzislavowi	Ventzislav	subst:sg:dat:m1	imię
 Ventzislavów	Ventzislav	subst:pl:acc:m1	imię	
 Ventzislavów	Ventzislav	subst:pl:gen:m1	imię	
 Ventzislav	Ventzislav	subst:sg:nom:m1	imię	
+Ventzislavy	Ventzislav	depr:pl:acc:m2	imię	
 Ventzislavy	Ventzislav	depr:pl:nom:m2	imię	
 Ventzislavy	Ventzislav	depr:pl:voc:m2	imię	
 Verdich	Verdi	subst:pl:acc:m1	nazwisko	
@@ -261,6 +270,7 @@ Verdich	Verdi	subst:pl:loc:m1	nazwisko
 Verdiego	Verdi	subst:sg:acc:m1	nazwisko	
 Verdiego	Verdi	subst:sg:gen:m1	nazwisko	
 Verdiemu	Verdi	subst:sg:dat:m1	nazwisko	
+Verdie	Verdi	depr:pl:acc:m2	nazwisko	
 Verdie	Verdi	depr:pl:nom:m2	nazwisko	
 Verdie	Verdi	depr:pl:voc:m2	nazwisko	
 Verdimi	Verdi	subst:pl:inst:m1	nazwisko	
@@ -299,6 +309,7 @@ Verlaine’owi	Verlaine	subst:sg:dat:m1	nazwisko
 Verlaine’ów	Verlaine	subst:pl:acc:m1	nazwisko	
 Verlaine’ów	Verlaine	subst:pl:gen:m1	nazwisko	
 Verlaine	Verlaine	subst:sg:nom:m1	nazwisko	
+Verlaine’y	Verlaine	depr:pl:acc:m2	nazwisko	
 Verlaine’y	Verlaine	depr:pl:nom:m2	nazwisko	
 Verlaine’y	Verlaine	depr:pl:voc:m2	nazwisko	
 Verlainie	Verlaine	subst:sg:loc:m1	nazwisko	
@@ -315,6 +326,7 @@ Vermeerowi	Vermeer	subst:sg:dat:m1	nazwisko
 Vermeerów	Vermeer	subst:pl:acc:m1	nazwisko	
 Vermeerów	Vermeer	subst:pl:gen:m1	nazwisko	
 Vermeer	Vermeer	subst:sg:nom:m1	nazwisko	
+Vermeery	Vermeer	depr:pl:acc:m2	nazwisko	
 Vermeery	Vermeer	depr:pl:nom:m2	nazwisko	
 Vermeery	Vermeer	depr:pl:voc:m2	nazwisko	
 Vermeerze	Vermeer	subst:sg:loc:m1	nazwisko	
@@ -347,6 +359,7 @@ Vermontowi	Vermont:s2	subst:sg:dat:m1	nazwisko
 Vermontów	Vermont:s2	subst:pl:acc:m1	nazwisko	
 Vermontów	Vermont:s2	subst:pl:gen:m1	nazwisko	
 Vermont	Vermont:s2	subst:sg:nom:m1	nazwisko	
+Vermonty	Vermont:s2	depr:pl:acc:m2	nazwisko	
 Vermonty	Vermont:s2	depr:pl:nom:m2	nazwisko	
 Vermonty	Vermont:s2	depr:pl:voc:m2	nazwisko	
 Verne’ach	Verne	subst:pl:loc:m1	nazwisko	
@@ -361,6 +374,7 @@ Verne’owi	Verne	subst:sg:dat:m1	nazwisko
 Verne’ów	Verne	subst:pl:acc:m1	nazwisko	
 Verne’ów	Verne	subst:pl:gen:m1	nazwisko	
 Verne	Verne	subst:sg:nom:m1	nazwisko	
+Verne’y	Verne	depr:pl:acc:m2	nazwisko	
 Verne’y	Verne	depr:pl:nom:m2	nazwisko	
 Verne’y	Verne	depr:pl:voc:m2	nazwisko	
 Vernie	Verne	subst:sg:loc:m1	nazwisko	
@@ -372,6 +386,7 @@ Veronesego	Veronese	subst:sg:gen:m1	nazwisko
 Veronesemu	Veronese	subst:sg:dat:m1	nazwisko	
 Veronesem	Veronese	subst:sg:inst:m1	nazwisko	
 Veronesem	Veronese	subst:sg:loc:m1	nazwisko	
+Veronese	Veronese	depr:pl:acc:m2	nazwisko	
 Veronese	Veronese	depr:pl:nom:m2	nazwisko	
 Veronese	Veronese	depr:pl:voc:m2	nazwisko	
 Veronese	Veronese	subst:sg:nom:m1	nazwisko	
@@ -388,6 +403,7 @@ Versacego	Versace	subst:sg:gen:m1	nazwisko
 Versacemu	Versace	subst:sg:dat:m1	nazwisko	
 Versacem	Versace	subst:sg:inst:m1	nazwisko	
 Versacem	Versace	subst:sg:loc:m1	nazwisko	
+Versace	Versace	depr:pl:acc:m2	nazwisko	
 Versace	Versace	depr:pl:nom:m2	nazwisko	
 Versace	Versace	depr:pl:voc:m2	nazwisko	
 Versace	Versace	subst:pl:acc:m1	nazwisko	
@@ -415,6 +431,7 @@ Vespuccich	Vespucci	subst:pl:loc:m1	nazwisko
 Vespucciego	Vespucci	subst:sg:acc:m1	nazwisko	
 Vespucciego	Vespucci	subst:sg:gen:m1	nazwisko	
 Vespucciemu	Vespucci	subst:sg:dat:m1	nazwisko	
+Vespuccie	Vespucci	depr:pl:acc:m2	nazwisko	
 Vespuccie	Vespucci	depr:pl:nom:m2	nazwisko	
 Vespuccie	Vespucci	depr:pl:voc:m2	nazwisko	
 Vespuccimi	Vespucci	subst:pl:inst:m1	nazwisko	
@@ -433,6 +450,7 @@ Vetulanich	Vetulani	subst:pl:loc:m1	nazwisko
 Vetulaniego	Vetulani	subst:sg:acc:m1	nazwisko	
 Vetulaniego	Vetulani	subst:sg:gen:m1	nazwisko	
 Vetulaniemu	Vetulani	subst:sg:dat:m1	nazwisko	
+Vetulanie	Vetulani	depr:pl:acc:m2	nazwisko	
 Vetulanie	Vetulani	depr:pl:nom:m2	nazwisko	
 Vetulanie	Vetulani	depr:pl:voc:m2	nazwisko	
 Vetulanimi	Vetulani	subst:pl:inst:m1	nazwisko	
@@ -516,6 +534,7 @@ Vicami	Vico	subst:pl:inst:m1	nazwisko
 Vica	Vico	subst:sg:acc:m1	nazwisko	
 Vica	Vico	subst:sg:gen:m1	nazwisko	
 Vicom	Vico	subst:pl:dat:m1	nazwisko	
+Vico	Vico	depr:pl:acc:m2	nazwisko	
 Vico	Vico	depr:pl:nom:m2	nazwisko	
 Vico	Vico	depr:pl:voc:m2	nazwisko	
 Vico	Vico	subst:pl:acc:m1	nazwisko	
@@ -539,6 +558,7 @@ Viców	Vico	subst:pl:acc:m1	nazwisko
 Viców	Vico	subst:pl:gen:m1	nazwisko	
 Vicu	Vico	subst:sg:loc:m1	nazwisko	
 Vikiem	Vico	subst:sg:inst:m1	nazwisko	
+Viki	Vico	depr:pl:acc:m2	nazwisko	
 Viki	Vico	depr:pl:nom:m2	nazwisko	
 Viki	Vico	depr:pl:voc:m2	nazwisko	
 Victoriach	Victoria	subst:pl:loc:f	imię	
@@ -556,6 +576,7 @@ Victorii	Victoria	subst:sg:loc:f	imię
 Victoriom	Victoria	subst:pl:dat:f	imię	
 Victorio	Victoria	subst:sg:voc:f	imię	
 Victoryj	Victoria	subst:pl:gen:f	imię	arch.|char.
+Vinci	Vinci	depr:pl:acc:m2	człon nazwiska	
 Vinci	Vinci	depr:pl:nom:m2	człon nazwiska	
 Vinci	Vinci	depr:pl:voc:m2	człon nazwiska	
 Vinci	Vinci	subst:pl:acc:m1	człon nazwiska	
@@ -614,6 +635,7 @@ VIP-owi	VIP	subst:sg:dat:m1	nazwa pospolita
 VIP-ów	VIP	subst:pl:acc:m1	nazwa pospolita	
 VIP-ów	VIP	subst:pl:gen:m1	nazwa pospolita	
 VIP	VIP	subst:sg:nom:m1	nazwa pospolita	
+VIP-y	VIP	depr:pl:acc:m2	nazwa pospolita	
 VIP-y	VIP	depr:pl:nom:m2	nazwa pospolita	
 VIP-y	VIP	depr:pl:voc:m2	nazwa pospolita	
 Virginiach	Virginia	subst:pl:loc:f	nazwa geograficzna	
@@ -637,6 +659,7 @@ Viscontich	Visconti	subst:pl:loc:m1	nazwisko
 Viscontiego	Visconti	subst:sg:acc:m1	nazwisko	
 Viscontiego	Visconti	subst:sg:gen:m1	nazwisko	
 Viscontiemu	Visconti	subst:sg:dat:m1	nazwisko	
+Viscontie	Visconti	depr:pl:acc:m2	nazwisko	
 Viscontie	Visconti	depr:pl:nom:m2	nazwisko	
 Viscontie	Visconti	depr:pl:voc:m2	nazwisko	
 Viscontimi	Visconti	subst:pl:inst:m1	nazwisko	
@@ -655,6 +678,7 @@ Vivaldich	Vivaldi	subst:pl:loc:m1	nazwisko
 Vivaldiego	Vivaldi	subst:sg:acc:m1	nazwisko	
 Vivaldiego	Vivaldi	subst:sg:gen:m1	nazwisko	
 Vivaldiemu	Vivaldi	subst:sg:dat:m1	nazwisko	
+Vivaldie	Vivaldi	depr:pl:acc:m2	nazwisko	
 Vivaldie	Vivaldi	depr:pl:nom:m2	nazwisko	
 Vivaldie	Vivaldi	depr:pl:voc:m2	nazwisko	
 Vivaldimi	Vivaldi	subst:pl:inst:m1	nazwisko	
@@ -679,6 +703,7 @@ Vladimirowi	Vladimir	subst:sg:dat:m1	imię
 Vladimirów	Vladimir	subst:pl:acc:m1	imię	
 Vladimirów	Vladimir	subst:pl:gen:m1	imię	
 Vladimir	Vladimir	subst:sg:nom:m1	imię	
+Vladimiry	Vladimir	depr:pl:acc:m2	imię	
 Vladimiry	Vladimir	depr:pl:nom:m2	imię	
 Vladimiry	Vladimir	depr:pl:voc:m2	imię	
 Vladimirze	Vladimir	subst:sg:loc:m1	imię	
@@ -690,6 +715,7 @@ Voglami	Vogel	subst:pl:inst:m1	nazwisko
 Vogla	Vogel	subst:sg:acc:m1	nazwisko	
 Vogla	Vogel	subst:sg:gen:m1	nazwisko	
 Voglem	Vogel	subst:sg:inst:m1	nazwisko	
+Vogle	Vogel	depr:pl:acc:m2	nazwisko	
 Vogle	Vogel	depr:pl:nom:m2	nazwisko	
 Vogle	Vogel	depr:pl:voc:m2	nazwisko	
 Voglom	Vogel	subst:pl:dat:m1	nazwisko	
@@ -714,6 +740,7 @@ Voigtowi	Voigt	subst:sg:dat:m1	nazwisko
 Voigtów	Voigt	subst:pl:acc:m1	nazwisko	
 Voigtów	Voigt	subst:pl:gen:m1	nazwisko	
 Voigt	Voigt	subst:sg:nom:m1	nazwisko	
+Voigty	Voigt	depr:pl:acc:m2	nazwisko	
 Voigty	Voigt	depr:pl:nom:m2	nazwisko	
 Voigty	Voigt	depr:pl:voc:m2	nazwisko	
 Voicie	Voit	subst:sg:loc:m1	nazwisko	
@@ -730,6 +757,7 @@ Voitowi	Voit	subst:sg:dat:m1	nazwisko
 Voitów	Voit	subst:pl:acc:m1	nazwisko	
 Voitów	Voit	subst:pl:gen:m1	nazwisko	
 Voit	Voit	subst:sg:nom:m1	nazwisko	
+Voity	Voit	depr:pl:acc:m2	nazwisko	
 Voity	Voit	depr:pl:nom:m2	nazwisko	
 Voity	Voit	depr:pl:voc:m2	nazwisko	
 Volcie	Volta	subst:sg:dat:m1	nazwisko	
@@ -745,6 +773,7 @@ Voltowie	Volta	subst:pl:nom:m1	nazwisko
 Voltowie	Volta	subst:pl:voc:m1	nazwisko	
 Voltów	Volta	subst:pl:acc:m1	nazwisko	
 Voltów	Volta	subst:pl:gen:m1	nazwisko	
+Volty	Volta	depr:pl:acc:m2	nazwisko	
 Volty	Volta	depr:pl:nom:m2	nazwisko	
 Volty	Volta	depr:pl:voc:m2	nazwisko	
 Volty	Volta	subst:sg:gen:m1	nazwisko	
@@ -770,6 +799,7 @@ Vranitzkich	Vranitzky	subst:pl:loc:m1	nazwisko
 Vranitzkiego	Vranitzky	subst:sg:acc:m1	nazwisko	
 Vranitzkiego	Vranitzky	subst:sg:gen:m1	nazwisko	
 Vranitzkiemu	Vranitzky	subst:sg:dat:m1	nazwisko	
+Vranitzkie	Vranitzky	depr:pl:acc:m2	nazwisko	
 Vranitzkie	Vranitzky	depr:pl:nom:m2	nazwisko	
 Vranitzkie	Vranitzky	depr:pl:voc:m2	nazwisko	
 Vranitzkimi	Vranitzky	subst:pl:inst:m1	nazwisko	

@@ -70,6 +70,7 @@ Ibrahimowie	Ibrahim	subst:pl:voc:m1	imię
 Ibrahimowi	Ibrahim	subst:sg:dat:m1	imię	
 Ibrahimów	Ibrahim	subst:pl:acc:m1	imię	
 Ibrahimów	Ibrahim	subst:pl:gen:m1	imię	
+Ibrahimy	Ibrahim	depr:pl:acc:m2	imię	
 Ibrahimy	Ibrahim	depr:pl:nom:m2	imię	
 Ibrahimy	Ibrahim	depr:pl:voc:m2	imię	
 Ibsenach	Ibsen	subst:pl:loc:m1	nazwisko	
@@ -86,6 +87,7 @@ Ibsenowie	Ibsen	subst:pl:voc:m1	nazwisko
 Ibsenowi	Ibsen	subst:sg:dat:m1	nazwisko	
 Ibsenów	Ibsen	subst:pl:acc:m1	nazwisko	
 Ibsenów	Ibsen	subst:pl:gen:m1	nazwisko	
+Ibseny	Ibsen	depr:pl:acc:m2	nazwisko	
 Ibseny	Ibsen	depr:pl:nom:m2	nazwisko	
 Ibseny	Ibsen	depr:pl:voc:m2	nazwisko	
 Icchakach	Icchak	subst:pl:loc:m1	imię	
@@ -94,6 +96,7 @@ Icchaka	Icchak	subst:sg:gen:m1	imię
 Icchakami	Icchak	subst:pl:inst:m1	imię	
 Icchak	Icchak	subst:sg:nom:m1	imię	
 Icchakiem	Icchak	subst:sg:inst:m1	imię	
+Icchaki	Icchak	depr:pl:acc:m2	imię	
 Icchaki	Icchak	depr:pl:nom:m2	imię	
 Icchaki	Icchak	depr:pl:voc:m2	imię	
 Icchakom	Icchak	subst:pl:dat:m1	imię	
@@ -110,6 +113,7 @@ Icka	Icek	subst:sg:acc:m1	imię
 Icka	Icek	subst:sg:gen:m1	imię	
 Ickami	Icek	subst:pl:inst:m1	imię	
 Ickiem	Icek	subst:sg:inst:m1	imię	
+Icki	Icek	depr:pl:acc:m2	imię	
 Icki	Icek	depr:pl:nom:m2	imię	
 Icki	Icek	depr:pl:voc:m2	imię	
 Ickom	Icek	subst:pl:dat:m1	imię	
@@ -222,6 +226,7 @@ Idzich	Idzi	subst:pl:gen:m1	imię
 Idzich	Idzi	subst:pl:loc:m1	imię	
 Idziego	Idzi	subst:sg:acc:m1	imię	
 Idziego	Idzi	subst:sg:gen:m1	imię	
+Idzie	Idzi	depr:pl:acc:m2	imię	
 Idzie	Idzi	depr:pl:nom:m2	imię	
 Idzie	Idzi	depr:pl:voc:m2	imię	
 Idziemu	Idzi	subst:sg:dat:m1	imię	
@@ -254,6 +259,7 @@ Idzikowskich	Idzikowski	subst:pl:gen:m1	nazwisko
 Idzikowskich	Idzikowski	subst:pl:loc:m1	nazwisko	
 Idzikowskiego	Idzikowski	subst:sg:acc:m1	nazwisko	
 Idzikowskiego	Idzikowski	subst:sg:gen:m1	nazwisko	
+Idzikowskie	Idzikowski	depr:pl:acc:m2	nazwisko	
 Idzikowskie	Idzikowski	depr:pl:nom:m2	nazwisko	
 Idzikowskie	Idzikowski	depr:pl:voc:m2	nazwisko	
 Idzikowskiemu	Idzikowski	subst:sg:dat:m1	nazwisko	
@@ -320,6 +326,7 @@ Iglesiasowie	Iglesias	subst:pl:voc:m1	nazwisko
 Iglesiasowi	Iglesias	subst:sg:dat:m1	nazwisko	
 Iglesiasów	Iglesias	subst:pl:acc:m1	nazwisko	
 Iglesiasów	Iglesias	subst:pl:gen:m1	nazwisko	
+Iglesiasy	Iglesias	depr:pl:acc:m2	nazwisko	
 Iglesiasy	Iglesias	depr:pl:nom:m2	nazwisko	
 Iglesiasy	Iglesias	depr:pl:voc:m2	nazwisko	
 Ignacek	Ignacek	subst:sg:nom:m1	imię	
@@ -328,6 +335,7 @@ Ignacka	Ignacek	subst:sg:acc:m1	imię
 Ignacka	Ignacek	subst:sg:gen:m1	imię	
 Ignackami	Ignacek	subst:pl:inst:m1	imię	
 Ignackiem	Ignacek	subst:sg:inst:m1	imię	
+Ignacki	Ignacek	depr:pl:acc:m2	imię	
 Ignacki	Ignacek	depr:pl:nom:m2	imię	
 Ignacki	Ignacek	depr:pl:voc:m2	imię	
 Ignackom	Ignacek	subst:pl:dat:m1	imię	
@@ -355,6 +363,7 @@ Ignacjom	Ignacja	subst:pl:dat:f	imię
 Ignacyj	Ignacja	subst:pl:gen:f	imię	arch.|char.
 Ignacego	Ignacy	subst:sg:acc:m1	imię	
 Ignacego	Ignacy	subst:sg:gen:m1	imię	
+Ignace	Ignacy	depr:pl:acc:m2	imię	
 Ignace	Ignacy	depr:pl:nom:m2	imię	
 Ignace	Ignacy	depr:pl:voc:m2	imię	
 Ignacemu	Ignacy	subst:sg:dat:m1	imię	
@@ -373,6 +382,7 @@ Ignasiach	Ignaś	subst:pl:loc:m1	imię
 Ignasia	Ignaś	subst:sg:acc:m1	imię	
 Ignasia	Ignaś	subst:sg:gen:m1	imię	
 Ignasiami	Ignaś	subst:pl:inst:m1	imię	
+Ignasie	Ignaś	depr:pl:acc:m2	imię	
 Ignasie	Ignaś	depr:pl:nom:m2	imię	
 Ignasie	Ignaś	depr:pl:voc:m2	imię	
 Ignasie	Ignaś	subst:pl:nom:m1	imię	
@@ -413,6 +423,7 @@ Igorowie	Igor	subst:pl:voc:m1	imię
 Igorowi	Igor	subst:sg:dat:m1	imię	
 Igorów	Igor	subst:pl:acc:m1	imię	
 Igorów	Igor	subst:pl:gen:m1	imię	
+Igory	Igor	depr:pl:acc:m2	imię	
 Igory	Igor	depr:pl:nom:m2	imię	
 Igory	Igor	depr:pl:voc:m2	imię	
 Igorze	Igor	subst:sg:loc:m1	imię	
@@ -423,6 +434,7 @@ Igorka	Igorek	subst:sg:acc:m1	imię
 Igorka	Igorek	subst:sg:gen:m1	imię	
 Igorkami	Igorek	subst:pl:inst:m1	imię	
 Igorkiem	Igorek	subst:sg:inst:m1	imię	
+Igorki	Igorek	depr:pl:acc:m2	imię	
 Igorki	Igorek	depr:pl:nom:m2	imię	
 Igorki	Igorek	depr:pl:voc:m2	imię	
 Igorkom	Igorek	subst:pl:dat:m1	imię	
@@ -437,6 +449,7 @@ Igusiach	Iguś	subst:pl:loc:m1	imię
 Igusia	Iguś	subst:sg:acc:m1	imię	
 Igusia	Iguś	subst:sg:gen:m1	imię	
 Igusiami	Iguś	subst:pl:inst:m1	imię	
+Igusie	Iguś	depr:pl:acc:m2	imię	
 Igusie	Iguś	depr:pl:nom:m2	imię	
 Igusie	Iguś	depr:pl:voc:m2	imię	
 Igusie	Iguś	subst:pl:nom:m1	imię	
@@ -463,6 +476,7 @@ Ikarowie	Ikar	subst:pl:voc:m1	imię
 Ikarowi	Ikar	subst:sg:dat:m1	imię	
 Ikarów	Ikar	subst:pl:acc:m1	imię	
 Ikarów	Ikar	subst:pl:gen:m1	imię	
+Ikary	Ikar	depr:pl:acc:m2	imię	
 Ikary	Ikar	depr:pl:nom:m2	imię	
 Ikary	Ikar	depr:pl:voc:m2	imię	
 Ikarze	Ikar	subst:sg:loc:m1	imię	
@@ -485,6 +499,7 @@ Ikarusowie	Ikarus	subst:pl:voc:m1	nazwa firmy
 Ikarusowi	Ikarus	subst:sg:dat:m1	nazwa firmy	
 Ikarusów	Ikarus	subst:pl:acc:m1	nazwa firmy	
 Ikarusów	Ikarus	subst:pl:gen:m1	nazwa firmy	
+Ikarusy	Ikarus	depr:pl:acc:m2	nazwa firmy	
 Ikarusy	Ikarus	depr:pl:nom:m2	nazwa firmy	
 Ikarusy	Ikarus	depr:pl:voc:m2	nazwa firmy	
 Ikeach	Ikea	subst:pl:loc:f	nazwa firmy	
@@ -549,6 +564,7 @@ Iksińskich	Iksiński	subst:pl:gen:m1	nazwisko
 Iksińskich	Iksiński	subst:pl:loc:m1	nazwisko	
 Iksińskiego	Iksiński	subst:sg:acc:m1	nazwisko	
 Iksińskiego	Iksiński	subst:sg:gen:m1	nazwisko	
+Iksińskie	Iksiński	depr:pl:acc:m2	nazwisko	
 Iksińskie	Iksiński	depr:pl:nom:m2	nazwisko	
 Iksińskie	Iksiński	depr:pl:voc:m2	nazwisko	
 Iksińskiemu	Iksiński	subst:sg:dat:m1	nazwisko	
@@ -572,6 +588,7 @@ Ildefonsowie	Ildefons	subst:pl:voc:m1	imię
 Ildefonsowi	Ildefons	subst:sg:dat:m1	imię	
 Ildefonsów	Ildefons	subst:pl:acc:m1	imię	
 Ildefonsów	Ildefons	subst:pl:gen:m1	imię	
+Ildefonsy	Ildefons	depr:pl:acc:m2	imię	
 Ildefonsy	Ildefons	depr:pl:nom:m2	imię	
 Ildefonsy	Ildefons	depr:pl:voc:m2	imię	
 Ildefonsikach	Ildefonsik	subst:pl:loc:m1	imię	
@@ -579,6 +596,7 @@ Ildefonsika	Ildefonsik	subst:sg:acc:m1	imię
 Ildefonsika	Ildefonsik	subst:sg:gen:m1	imię	
 Ildefonsikami	Ildefonsik	subst:pl:inst:m1	imię	
 Ildefonsikiem	Ildefonsik	subst:sg:inst:m1	imię	
+Ildefonsiki	Ildefonsik	depr:pl:acc:m2	imię	
 Ildefonsiki	Ildefonsik	depr:pl:nom:m2	imię	
 Ildefonsiki	Ildefonsik	depr:pl:voc:m2	imię	
 Ildefonsik	Ildefonsik	subst:sg:nom:m1	imię	
@@ -608,6 +626,7 @@ Iliach	Ilia:s1	subst:pl:loc:m1	imię
 Ilia	Ilia:s1	subst:sg:nom:m1	imię	
 Iliami	Ilia:s1	subst:pl:inst:m1	imię	
 Ilią	Ilia:s1	subst:sg:inst:m1	imię	
+Ilie	Ilia:s1	depr:pl:acc:m2	imię	
 Ilie	Ilia:s1	depr:pl:nom:m2	imię	
 Ilie	Ilia:s1	depr:pl:voc:m2	imię	
 Ilię	Ilia:s1	subst:sg:acc:m1	imię	
@@ -639,6 +658,7 @@ Iliczach	Ilicz	subst:pl:loc:m1	patronimicum
 Ilicza	Ilicz	subst:sg:acc:m1	patronimicum	
 Ilicza	Ilicz	subst:sg:gen:m1	patronimicum	
 Iliczami	Ilicz	subst:pl:inst:m1	patronimicum	
+Ilicze	Ilicz	depr:pl:acc:m2	patronimicum	
 Ilicze	Ilicz	depr:pl:nom:m2	patronimicum	
 Ilicze	Ilicz	depr:pl:voc:m2	patronimicum	
 Iliczem	Ilicz	subst:sg:inst:m1	patronimicum	
@@ -655,6 +675,7 @@ Iliiczach	Iliicz	subst:pl:loc:m1	patronimicum
 Iliicza	Iliicz	subst:sg:acc:m1	patronimicum	
 Iliicza	Iliicz	subst:sg:gen:m1	patronimicum	
 Iliiczami	Iliicz	subst:pl:inst:m1	patronimicum	
+Iliicze	Iliicz	depr:pl:acc:m2	patronimicum	
 Iliicze	Iliicz	depr:pl:nom:m2	patronimicum	
 Iliicze	Iliicz	depr:pl:voc:m2	patronimicum	
 Iliiczem	Iliicz	subst:sg:inst:m1	patronimicum	
@@ -686,6 +707,7 @@ Iljach	Ilja	subst:pl:loc:m1	imię
 Ilja	Ilja	subst:sg:nom:m1	imię	
 Iljami	Ilja	subst:pl:inst:m1	imię	
 Ilją	Ilja	subst:sg:inst:m1	imię	
+Ilje	Ilja	depr:pl:acc:m2	imię	
 Ilje	Ilja	depr:pl:nom:m2	imię	
 Ilje	Ilja	depr:pl:voc:m2	imię	
 Ilje	Ilja	subst:pl:nom:m1	imię	
@@ -702,6 +724,7 @@ Iljiczach	Iljicz	subst:pl:loc:m1	patronimicum
 Iljicza	Iljicz	subst:sg:acc:m1	patronimicum	
 Iljicza	Iljicz	subst:sg:gen:m1	patronimicum	
 Iljiczami	Iljicz	subst:pl:inst:m1	patronimicum	
+Iljicze	Iljicz	depr:pl:acc:m2	patronimicum	
 Iljicze	Iljicz	depr:pl:nom:m2	patronimicum	
 Iljicze	Iljicz	depr:pl:voc:m2	patronimicum	
 Iljiczem	Iljicz	subst:sg:inst:m1	patronimicum	
@@ -873,6 +896,7 @@ Imisławowie	Imisław	subst:pl:voc:m1	imię
 Imisławowi	Imisław	subst:sg:dat:m1	imię	
 Imisławów	Imisław	subst:pl:acc:m1	imię	
 Imisławów	Imisław	subst:pl:gen:m1	imię	
+Imisławy	Imisław	depr:pl:acc:m2	imię	
 Imisławy	Imisław	depr:pl:nom:m2	imię	
 Imisławy	Imisław	depr:pl:voc:m2	imię	
 Imisławach	Imisława	subst:pl:loc:f	imię	
@@ -893,6 +917,7 @@ Immanuelach	Immanuel	subst:pl:loc:m1	imię
 Immanuela	Immanuel	subst:sg:acc:m1	imię	
 Immanuela	Immanuel	subst:sg:gen:m1	imię	
 Immanuelami	Immanuel	subst:pl:inst:m1	imię	
+Immanuele	Immanuel	depr:pl:acc:m2	imię	
 Immanuele	Immanuel	depr:pl:nom:m2	imię	
 Immanuele	Immanuel	depr:pl:voc:m2	imię	
 Immanuele	Immanuel	subst:pl:nom:m1	imię	
@@ -921,6 +946,7 @@ Immelmannowie	Immelmann	subst:pl:voc:m1	nazwisko
 Immelmannowi	Immelmann	subst:sg:dat:m1	nazwisko	
 Immelmannów	Immelmann	subst:pl:acc:m1	nazwisko	
 Immelmannów	Immelmann	subst:pl:gen:m1	nazwisko	
+Immelmanny	Immelmann	depr:pl:acc:m2	nazwisko	
 Immelmanny	Immelmann	depr:pl:nom:m2	nazwisko	
 Immelmanny	Immelmann	depr:pl:voc:m2	nazwisko	
 Imperialach	Imperial	subst:pl:loc:m3	nazwa firmy	
@@ -942,6 +968,7 @@ Imrach	Imre	subst:pl:loc:m1	imię
 Imrami	Imre	subst:pl:inst:m1	imię	
 Imrego	Imre	subst:sg:acc:m1	imię	
 Imrego	Imre	subst:sg:gen:m1	imię	
+Imre	Imre	depr:pl:acc:m2	imię	
 Imre	Imre	depr:pl:nom:m2	imię	
 Imre	Imre	depr:pl:voc:m2	imię	
 Imre	Imre	subst:pl:acc:m1	imię	
@@ -1008,6 +1035,7 @@ Indianinie	Indianin	subst:sg:voc:m1	nazwa pospolita
 Indianin	Indianin	subst:sg:nom:m1	nazwa pospolita	
 Indianinowi	Indianin	subst:sg:dat:m1	nazwa pospolita	
 Indianom	Indianin	subst:pl:dat:m1	nazwa pospolita	
+Indiany	Indianin	depr:pl:acc:m2	nazwa pospolita	
 Indiany	Indianin	depr:pl:nom:m2	nazwa pospolita	
 Indiany	Indianin	depr:pl:voc:m2	nazwa pospolita	
 Indiance	Indianka	subst:sg:dat:f	nazwa pospolita	
@@ -1076,6 +1104,7 @@ Indonezyjczyka	Indonezyjczyk	subst:sg:acc:m1	nazwa pospolita
 Indonezyjczyka	Indonezyjczyk	subst:sg:gen:m1	nazwa pospolita	
 Indonezyjczykami	Indonezyjczyk	subst:pl:inst:m1	nazwa pospolita	
 Indonezyjczykiem	Indonezyjczyk	subst:sg:inst:m1	nazwa pospolita	
+Indonezyjczyki	Indonezyjczyk	depr:pl:acc:m2	nazwa pospolita	
 Indonezyjczyki	Indonezyjczyk	depr:pl:nom:m2	nazwa pospolita	
 Indonezyjczyki	Indonezyjczyk	depr:pl:voc:m2	nazwa pospolita	
 Indonezyjczyk	Indonezyjczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -1110,6 +1139,7 @@ Indrowie	Indra	subst:pl:nom:m1	imię	rel.
 Indrowie	Indra	subst:pl:voc:m1	imię	rel.
 Indrów	Indra	subst:pl:acc:m1	imię	rel.
 Indrów	Indra	subst:pl:gen:m1	imię	rel.
+Indry	Indra	depr:pl:acc:m2	imię	rel.
 Indry	Indra	depr:pl:nom:m2	imię	rel.
 Indry	Indra	depr:pl:voc:m2	imię	rel.
 Indry	Indra	subst:sg:gen:m1	imię	rel.
@@ -1129,6 +1159,7 @@ Indusom	Indus:s1	subst:pl:dat:m1	nazwa pospolita
 Indusowi	Indus:s1	subst:sg:dat:m1	nazwa pospolita	
 Indusów	Indus:s1	subst:pl:acc:m1	nazwa pospolita	
 Indusów	Indus:s1	subst:pl:gen:m1	nazwa pospolita	
+Indusy	Indus:s1	depr:pl:acc:m2	nazwa pospolita	
 Indusy	Indus:s1	depr:pl:nom:m2	nazwa pospolita	
 Indusy	Indus:s1	depr:pl:voc:m2	nazwa pospolita	
 Indusach	Indus:s2	subst:pl:loc:m3	nazwa geograficzna	
@@ -1152,6 +1183,7 @@ Inflantczyka	Inflantczyk	subst:sg:acc:m1	nazwa pospolita
 Inflantczyka	Inflantczyk	subst:sg:gen:m1	nazwa pospolita	
 Inflantczykami	Inflantczyk	subst:pl:inst:m1	nazwa pospolita	
 Inflantczykiem	Inflantczyk	subst:sg:inst:m1	nazwa pospolita	
+Inflantczyki	Inflantczyk	depr:pl:acc:m2	nazwa pospolita	
 Inflantczyki	Inflantczyk	depr:pl:nom:m2	nazwa pospolita	
 Inflantczyki	Inflantczyk	depr:pl:voc:m2	nazwa pospolita	
 Inflantczyk	Inflantczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -1203,6 +1235,7 @@ Ingardenowie	Ingarden	subst:pl:voc:m1	nazwisko
 Ingardenowi	Ingarden	subst:sg:dat:m1	nazwisko	
 Ingardenów	Ingarden	subst:pl:acc:m1	nazwisko	
 Ingardenów	Ingarden	subst:pl:gen:m1	nazwisko	
+Ingardeny	Ingarden	depr:pl:acc:m2	nazwisko	
 Ingardeny	Ingarden	depr:pl:nom:m2	nazwisko	
 Ingardeny	Ingarden	depr:pl:voc:m2	nazwisko	
 Ingebordze	Ingeborga	subst:sg:dat:f	imię	
@@ -1231,6 +1264,7 @@ Ingmarowie	Ingmar	subst:pl:voc:m1	imię
 Ingmarowi	Ingmar	subst:sg:dat:m1	imię	
 Ingmarów	Ingmar	subst:pl:acc:m1	imię	
 Ingmarów	Ingmar	subst:pl:gen:m1	imię	
+Ingmary	Ingmar	depr:pl:acc:m2	imię	
 Ingmary	Ingmar	depr:pl:nom:m2	imię	
 Ingmary	Ingmar	depr:pl:voc:m2	imię	
 Ingmarze	Ingmar	subst:sg:loc:m1	imię	
@@ -1247,6 +1281,7 @@ Ingres’owie	Ingres	subst:pl:voc:m1	nazwisko
 Ingres’owi	Ingres	subst:sg:dat:m1	nazwisko	
 Ingres’ów	Ingres	subst:pl:acc:m1	nazwisko	
 Ingres’ów	Ingres	subst:pl:gen:m1	nazwisko	
+Ingres’y	Ingres	depr:pl:acc:m2	nazwisko	
 Ingres’y	Ingres	depr:pl:nom:m2	nazwisko	
 Ingres’y	Ingres	depr:pl:voc:m2	nazwisko	
 Ingrze	Ingres	subst:sg:loc:m1	nazwisko	
@@ -1272,6 +1307,7 @@ Inka	Inka	subst:sg:nom:m1	imię
 Inkami	Inka	subst:pl:inst:m1	imię	
 Inką	Inka	subst:sg:inst:m1	imię	
 Inkę	Inka	subst:sg:acc:m1	imię	
+Inki	Inka	depr:pl:acc:m2	imię	
 Inki	Inka	depr:pl:nom:m2	imię	
 Inki	Inka	depr:pl:voc:m2	imię	
 Inki	Inka	subst:sg:gen:m1	imię	
@@ -1295,6 +1331,7 @@ Inkasom	Inkas	subst:pl:dat:m1	nazwa pospolita
 Inkasowi	Inkas	subst:sg:dat:m1	nazwa pospolita	
 Inkasów	Inkas	subst:pl:acc:m1	nazwa pospolita	
 Inkasów	Inkas	subst:pl:gen:m1	nazwa pospolita	
+Inkasy	Inkas	depr:pl:acc:m2	nazwa pospolita	
 Inkasy	Inkas	depr:pl:nom:m2	nazwa pospolita	
 Inkasy	Inkas	depr:pl:voc:m2	nazwa pospolita	
 Inkacie	Inkatha	subst:sg:dat:f	nazwa organizacji	
@@ -1329,6 +1366,7 @@ Innocenty	Innocenta	subst:pl:voc:f	imię
 Innocenty	Innocenta	subst:sg:gen:f	imię	
 Innocentego	Innocenty	subst:sg:acc:m1	imię	
 Innocentego	Innocenty	subst:sg:gen:m1	imię	
+Innocente	Innocenty	depr:pl:acc:m2	imię	
 Innocente	Innocenty	depr:pl:nom:m2	imię	
 Innocente	Innocenty	depr:pl:voc:m2	imię	
 Innocentemu	Innocenty	subst:sg:dat:m1	imię	
@@ -1400,6 +1438,7 @@ Inoziemcewowie	Inoziemcew	subst:pl:voc:m1	nazwisko
 Inoziemcewowi	Inoziemcew	subst:sg:dat:m1	nazwisko	
 Inoziemcewów	Inoziemcew	subst:pl:acc:m1	nazwisko	
 Inoziemcewów	Inoziemcew	subst:pl:gen:m1	nazwisko	
+Inoziemcewy	Inoziemcew	depr:pl:acc:m2	nazwisko	
 Inoziemcewy	Inoziemcew	depr:pl:nom:m2	nazwisko	
 Inoziemcewy	Inoziemcew	depr:pl:voc:m2	nazwisko	
 I	instrumentalis	brev:pun		jęz.
@@ -1502,6 +1541,7 @@ Inuito	Inuita	subst:sg:voc:m1	nazwa pospolita
 Inuitom	Inuita	subst:pl:dat:m1	nazwa pospolita	
 Inuitów	Inuita	subst:pl:acc:m1	nazwa pospolita	
 Inuitów	Inuita	subst:pl:gen:m1	nazwa pospolita	
+Inuity	Inuita	depr:pl:acc:m2	nazwa pospolita	
 Inuity	Inuita	depr:pl:nom:m2	nazwa pospolita	
 Inuity	Inuita	depr:pl:voc:m2	nazwa pospolita	
 Inuity	Inuita	subst:sg:gen:m1	nazwa pospolita	
@@ -1533,6 +1573,7 @@ Ińsko	Ińsko	subst:sg:voc:n:ncol	nazwa geograficzna
 Ińskom	Ińsko	subst:pl:dat:n:ncol	nazwa geograficzna	
 Ińsku	Ińsko	subst:sg:dat:n:ncol	nazwa geograficzna	
 Ińsku	Ińsko	subst:sg:loc:n:ncol	nazwa geograficzna	
+Ionesco	Ionesco	depr:pl:acc:m2	nazwisko	
 Ionesco	Ionesco	depr:pl:nom:m2	nazwisko	
 Ionesco	Ionesco	depr:pl:voc:m2	nazwisko	
 Ionesco	Ionesco	subst:pl:acc:m1	nazwisko	
@@ -1707,6 +1748,7 @@ Irakijczyka	Irakijczyk	subst:sg:acc:m1	nazwa pospolita
 Irakijczyka	Irakijczyk	subst:sg:gen:m1	nazwa pospolita	
 Irakijczykami	Irakijczyk	subst:pl:inst:m1	nazwa pospolita	
 Irakijczykiem	Irakijczyk	subst:sg:inst:m1	nazwa pospolita	
+Irakijczyki	Irakijczyk	depr:pl:acc:m2	nazwa pospolita	
 Irakijczyki	Irakijczyk	depr:pl:nom:m2	nazwa pospolita	
 Irakijczyki	Irakijczyk	depr:pl:voc:m2	nazwa pospolita	
 Irakijczyk	Irakijczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -1765,6 +1807,7 @@ Irańczyka	Irańczyk	subst:sg:acc:m1	nazwa pospolita
 Irańczyka	Irańczyk	subst:sg:gen:m1	nazwa pospolita	
 Irańczykami	Irańczyk	subst:pl:inst:m1	nazwa pospolita	
 Irańczykiem	Irańczyk	subst:sg:inst:m1	nazwa pospolita	
+Irańczyki	Irańczyk	depr:pl:acc:m2	nazwa pospolita	
 Irańczyki	Irańczyk	depr:pl:nom:m2	nazwa pospolita	
 Irańczyki	Irańczyk	depr:pl:voc:m2	nazwa pospolita	
 Irańczyk	Irańczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -1795,6 +1838,7 @@ Ireczka	Ireczek	subst:sg:acc:m1	imię
 Ireczka	Ireczek	subst:sg:gen:m1	imię	
 Ireczkami	Ireczek	subst:pl:inst:m1	imię	
 Ireczkiem	Ireczek	subst:sg:inst:m1	imię	
+Ireczki	Ireczek	depr:pl:acc:m2	imię	
 Ireczki	Ireczek	depr:pl:nom:m2	imię	
 Ireczki	Ireczek	depr:pl:voc:m2	imię	
 Ireczkom	Ireczek	subst:pl:dat:m1	imię	
@@ -1811,6 +1855,7 @@ Irka	Irek	subst:sg:acc:m1	imię
 Irka	Irek	subst:sg:gen:m1	imię	
 Irkami	Irek	subst:pl:inst:m1	imię	
 Irkiem	Irek	subst:sg:inst:m1	imię	
+Irki	Irek	depr:pl:acc:m2	imię	
 Irki	Irek	depr:pl:nom:m2	imię	
 Irki	Irek	depr:pl:voc:m2	imię	
 Irkom	Irek	subst:pl:dat:m1	imię	
@@ -1839,6 +1884,7 @@ Ireneuszach	Ireneusz	subst:pl:loc:m1	imię
 Ireneusza	Ireneusz	subst:sg:acc:m1	imię	
 Ireneusza	Ireneusz	subst:sg:gen:m1	imię	
 Ireneuszami	Ireneusz	subst:pl:inst:m1	imię	
+Ireneusze	Ireneusz	depr:pl:acc:m2	imię	
 Ireneusze	Ireneusz	depr:pl:nom:m2	imię	
 Ireneusze	Ireneusz	depr:pl:voc:m2	imię	
 Ireneusze	Ireneusz	subst:pl:nom:m1	imię	
@@ -1930,6 +1976,7 @@ Irlandczyka	Irlandczyk	subst:sg:acc:m1	nazwa pospolita
 Irlandczyka	Irlandczyk	subst:sg:gen:m1	nazwa pospolita	
 Irlandczykami	Irlandczyk	subst:pl:inst:m1	nazwa pospolita	
 Irlandczykiem	Irlandczyk	subst:sg:inst:m1	nazwa pospolita	
+Irlandczyki	Irlandczyk	depr:pl:acc:m2	nazwa pospolita	
 Irlandczyki	Irlandczyk	depr:pl:nom:m2	nazwa pospolita	
 Irlandczyki	Irlandczyk	depr:pl:voc:m2	nazwa pospolita	
 Irlandczyk	Irlandczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -2010,6 +2057,7 @@ Irokezom	Irokez	subst:pl:dat:m1	nazwa pospolita
 Irokezowi	Irokez	subst:sg:dat:m1	nazwa pospolita	
 Irokezów	Irokez	subst:pl:acc:m1	nazwa pospolita	
 Irokezów	Irokez	subst:pl:gen:m1	nazwa pospolita	
+Irokezy	Irokez	depr:pl:acc:m2	nazwa pospolita	
 Irokezy	Irokez	depr:pl:nom:m2	nazwa pospolita	
 Irokezy	Irokez	depr:pl:voc:m2	nazwa pospolita	
 Irokezce	Irokezka	subst:sg:dat:f	nazwa pospolita	
@@ -2061,6 +2109,7 @@ Irusiach	Iruś	subst:pl:loc:m1	imię
 Irusia	Iruś	subst:sg:acc:m1	imię	
 Irusia	Iruś	subst:sg:gen:m1	imię	
 Irusiami	Iruś	subst:pl:inst:m1	imię	
+Irusie	Iruś	depr:pl:acc:m2	imię	
 Irusie	Iruś	depr:pl:nom:m2	imię	
 Irusie	Iruś	depr:pl:voc:m2	imię	
 Irusie	Iruś	subst:pl:nom:m1	imię	
@@ -2087,6 +2136,7 @@ Irvine’owie	Irvine	subst:pl:voc:m1	imię
 Irvine’owi	Irvine	subst:sg:dat:m1	imię	
 Irvine’ów	Irvine	subst:pl:acc:m1	imię	
 Irvine’ów	Irvine	subst:pl:gen:m1	imię	
+Irvine’y	Irvine	depr:pl:acc:m2	imię	
 Irvine’y	Irvine	depr:pl:nom:m2	imię	
 Irvine’y	Irvine	depr:pl:voc:m2	imię	
 Irvinie	Irvine	subst:sg:loc:m1	imię	
@@ -2107,6 +2157,7 @@ Irwinowie	Irwin	subst:pl:voc:m1	imię
 Irwinowi	Irwin	subst:sg:dat:m1	imię	
 Irwinów	Irwin	subst:pl:acc:m1	imię	
 Irwinów	Irwin	subst:pl:gen:m1	imię	
+Irwiny	Irwin	depr:pl:acc:m2	imię	
 Irwiny	Irwin	depr:pl:nom:m2	imię	
 Irwiny	Irwin	depr:pl:voc:m2	imię	
 Irydach	Iryda	subst:pl:loc:f	imię	
@@ -2139,6 +2190,7 @@ Irydionowie	Irydion	subst:pl:voc:m1	imię
 Irydionowi	Irydion	subst:sg:dat:m1	imię	
 Irydionów	Irydion	subst:pl:acc:m1	imię	
 Irydionów	Irydion	subst:pl:gen:m1	imię	
+Irydiony	Irydion	depr:pl:acc:m2	imię	
 Irydiony	Irydion	depr:pl:nom:m2	imię	
 Irydiony	Irydion	depr:pl:voc:m2	imię	
 Irzykowska	Irzykowska	subst:sg:nom:f	nazwisko	
@@ -2162,6 +2214,7 @@ Irzykowskich	Irzykowski	subst:pl:gen:m1	nazwisko
 Irzykowskich	Irzykowski	subst:pl:loc:m1	nazwisko	
 Irzykowskiego	Irzykowski	subst:sg:acc:m1	nazwisko	
 Irzykowskiego	Irzykowski	subst:sg:gen:m1	nazwisko	
+Irzykowskie	Irzykowski	depr:pl:acc:m2	nazwisko	
 Irzykowskie	Irzykowski	depr:pl:nom:m2	nazwisko	
 Irzykowskie	Irzykowski	depr:pl:voc:m2	nazwisko	
 Irzykowskiemu	Irzykowski	subst:sg:dat:m1	nazwisko	
@@ -2204,6 +2257,7 @@ Isaaka	Isaak	subst:sg:acc:m1	imię
 Isaaka	Isaak	subst:sg:gen:m1	imię	
 Isaakami	Isaak	subst:pl:inst:m1	imię	
 Isaakiem	Isaak	subst:sg:inst:m1	imię	
+Isaaki	Isaak	depr:pl:acc:m2	imię	
 Isaaki	Isaak	depr:pl:nom:m2	imię	
 Isaaki	Isaak	depr:pl:voc:m2	imię	
 Isaak	Isaak	subst:sg:nom:m1	imię	
@@ -2279,6 +2333,7 @@ Iserowie	Iser	subst:pl:voc:m1	imię
 Iserowi	Iser	subst:sg:dat:m1	imię	
 Iserów	Iser	subst:pl:acc:m1	imię	
 Iserów	Iser	subst:pl:gen:m1	imię	
+Isery	Iser	depr:pl:acc:m2	imię	
 Isery	Iser	depr:pl:nom:m2	imię	
 Isery	Iser	depr:pl:voc:m2	imię	
 Iserze	Iser	subst:sg:loc:m1	imię	
@@ -2298,6 +2353,7 @@ Iskariotowie	Iskariota	subst:pl:nom:m1	przydomek	bibl.
 Iskariotowie	Iskariota	subst:pl:voc:m1	przydomek	bibl.
 Iskariotów	Iskariota	subst:pl:acc:m1	przydomek	bibl.
 Iskariotów	Iskariota	subst:pl:gen:m1	przydomek	bibl.
+Iskarioty	Iskariota	depr:pl:acc:m2	przydomek	bibl.
 Iskarioty	Iskariota	depr:pl:nom:m2	przydomek	bibl.
 Iskarioty	Iskariota	depr:pl:voc:m2	przydomek	bibl.
 Iskarioty	Iskariota	subst:sg:gen:m1	przydomek	bibl.
@@ -2322,6 +2378,7 @@ Islandczyka	Islandczyk	subst:sg:acc:m1	nazwa pospolita
 Islandczyka	Islandczyk	subst:sg:gen:m1	nazwa pospolita	
 Islandczykami	Islandczyk	subst:pl:inst:m1	nazwa pospolita	
 Islandczykiem	Islandczyk	subst:sg:inst:m1	nazwa pospolita	
+Islandczyki	Islandczyk	depr:pl:acc:m2	nazwa pospolita	
 Islandczyki	Islandczyk	depr:pl:nom:m2	nazwa pospolita	
 Islandczyki	Islandczyk	depr:pl:voc:m2	nazwa pospolita	
 Islandczyk	Islandczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -2429,6 +2486,7 @@ Issacharowie	Issachar	subst:pl:voc:m1	imię
 Issacharowi	Issachar	subst:sg:dat:m1	imię	
 Issacharów	Issachar	subst:pl:acc:m1	imię	
 Issacharów	Issachar	subst:pl:gen:m1	imię	
+Issachary	Issachar	depr:pl:acc:m2	imię	
 Issachary	Issachar	depr:pl:nom:m2	imię	
 Issachary	Issachar	depr:pl:voc:m2	imię	
 Issacharze	Issachar	subst:sg:loc:m1	imię	
@@ -2617,6 +2675,7 @@ Ivanowie	Ivan	subst:pl:voc:m1	imię
 Ivanowi	Ivan	subst:sg:dat:m1	imię	
 Ivanów	Ivan	subst:pl:acc:m1	imię	
 Ivanów	Ivan	subst:pl:gen:m1	imię	
+Ivany	Ivan	depr:pl:acc:m2	imię	
 Ivany	Ivan	depr:pl:nom:m2	imię	
 Ivany	Ivan	depr:pl:voc:m2	imię	
 Iwach	Iwa	subst:pl:loc:f	imię	
@@ -2647,6 +2706,7 @@ Iwanowie	Iwan	subst:pl:voc:m1	imię
 Iwanowi	Iwan	subst:sg:dat:m1	imię	
 Iwanów	Iwan	subst:pl:acc:m1	imię	
 Iwanów	Iwan	subst:pl:gen:m1	imię	
+Iwany	Iwan	depr:pl:acc:m2	imię	
 Iwany	Iwan	depr:pl:nom:m2	imię	
 Iwany	Iwan	depr:pl:voc:m2	imię	
 Iwaniskach	Iwaniska	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -2677,6 +2737,7 @@ Iwanowowie	Iwanow	subst:pl:voc:m1	nazwisko
 Iwanowowi	Iwanow	subst:sg:dat:m1	nazwisko	
 Iwanowów	Iwanow	subst:pl:acc:m1	nazwisko	
 Iwanowów	Iwanow	subst:pl:gen:m1	nazwisko	
+Iwanowy	Iwanow	depr:pl:acc:m2	nazwisko	
 Iwanowy	Iwanow	depr:pl:nom:m2	nazwisko	
 Iwanowy	Iwanow	depr:pl:voc:m2	nazwisko	
 Iwanowicach	Iwanowice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -2728,6 +2789,7 @@ Iwanowskich	Iwanowski	subst:pl:gen:m1	nazwisko
 Iwanowskich	Iwanowski	subst:pl:loc:m1	nazwisko	
 Iwanowskiego	Iwanowski	subst:sg:acc:m1	nazwisko	
 Iwanowskiego	Iwanowski	subst:sg:gen:m1	nazwisko	
+Iwanowskie	Iwanowski	depr:pl:acc:m2	nazwisko	
 Iwanowskie	Iwanowski	depr:pl:nom:m2	nazwisko	
 Iwanowskie	Iwanowski	depr:pl:voc:m2	nazwisko	
 Iwanowskiemu	Iwanowski	subst:sg:dat:m1	nazwisko	
@@ -2758,6 +2820,7 @@ Iwańskich	Iwański	subst:pl:gen:m1	nazwisko
 Iwańskich	Iwański	subst:pl:loc:m1	nazwisko	
 Iwańskiego	Iwański	subst:sg:acc:m1	nazwisko	
 Iwańskiego	Iwański	subst:sg:gen:m1	nazwisko	
+Iwańskie	Iwański	depr:pl:acc:m2	nazwisko	
 Iwańskie	Iwański	depr:pl:nom:m2	nazwisko	
 Iwańskie	Iwański	depr:pl:voc:m2	nazwisko	
 Iwańskiemu	Iwański	subst:sg:dat:m1	nazwisko	
@@ -2771,6 +2834,7 @@ Iwaszkiewiczach	Iwaszkiewicz	subst:pl:loc:m1	nazwisko
 Iwaszkiewicza	Iwaszkiewicz	subst:sg:acc:m1	nazwisko	
 Iwaszkiewicza	Iwaszkiewicz	subst:sg:gen:m1	nazwisko	
 Iwaszkiewiczami	Iwaszkiewicz	subst:pl:inst:m1	nazwisko	
+Iwaszkiewicze	Iwaszkiewicz	depr:pl:acc:m2	nazwisko	
 Iwaszkiewicze	Iwaszkiewicz	depr:pl:nom:m2	nazwisko	
 Iwaszkiewicze	Iwaszkiewicz	depr:pl:voc:m2	nazwisko	
 Iwaszkiewicze	Iwaszkiewicz	subst:pl:nom:m1	nazwisko	
@@ -2848,6 +2912,7 @@ Iwińskich	Iwiński	subst:pl:gen:m1	nazwisko
 Iwińskich	Iwiński	subst:pl:loc:m1	nazwisko	
 Iwińskiego	Iwiński	subst:sg:acc:m1	nazwisko	
 Iwińskiego	Iwiński	subst:sg:gen:m1	nazwisko	
+Iwińskie	Iwiński	depr:pl:acc:m2	nazwisko	
 Iwińskie	Iwiński	depr:pl:nom:m2	nazwisko	
 Iwińskie	Iwiński	depr:pl:voc:m2	nazwisko	
 Iwińskiemu	Iwiński	subst:sg:dat:m1	nazwisko	
@@ -2872,6 +2937,7 @@ Iwonowie	Iwo	subst:pl:voc:m1	imię
 Iwonowi	Iwo	subst:sg:dat:m1	imię	
 Iwonów	Iwo	subst:pl:acc:m1	imię	
 Iwonów	Iwo	subst:pl:gen:m1	imię	
+Iwony	Iwo	depr:pl:acc:m2	imię	
 Iwony	Iwo	depr:pl:nom:m2	imię	
 Iwony	Iwo	depr:pl:voc:m2	imię	
 Iwonach	Iwon	subst:pl:loc:m1	imię	
@@ -2888,6 +2954,7 @@ Iwonowie	Iwon	subst:pl:voc:m1	imię
 Iwonowi	Iwon	subst:sg:dat:m1	imię	
 Iwonów	Iwon	subst:pl:acc:m1	imię	
 Iwonów	Iwon	subst:pl:gen:m1	imię	
+Iwony	Iwon	depr:pl:acc:m2	imię	
 Iwony	Iwon	depr:pl:nom:m2	imię	
 Iwony	Iwon	depr:pl:voc:m2	imię	
 Iwonach	Iwona	subst:pl:loc:f	imię	
@@ -2966,6 +3033,7 @@ Izaaka	Izaak	subst:sg:acc:m1	imię
 Izaaka	Izaak	subst:sg:gen:m1	imię	
 Izaakami	Izaak	subst:pl:inst:m1	imię	
 Izaakiem	Izaak	subst:sg:inst:m1	imię	
+Izaaki	Izaak	depr:pl:acc:m2	imię	
 Izaaki	Izaak	depr:pl:nom:m2	imię	
 Izaaki	Izaak	depr:pl:voc:m2	imię	
 Izaak	Izaak	subst:sg:nom:m1	imię	
@@ -3011,6 +3079,7 @@ Izajaszach	Izajasz	subst:pl:loc:m1	imię	bibl.
 Izajasza	Izajasz	subst:sg:acc:m1	imię	bibl.
 Izajasza	Izajasz	subst:sg:gen:m1	imię	bibl.
 Izajaszami	Izajasz	subst:pl:inst:m1	imię	bibl.
+Izajasze	Izajasz	depr:pl:acc:m2	imię	bibl.
 Izajasze	Izajasz	depr:pl:nom:m2	imię	bibl.
 Izajasze	Izajasz	depr:pl:voc:m2	imię	bibl.
 Izajasze	Izajasz	subst:pl:nom:m1	imię	bibl.
@@ -3060,6 +3129,7 @@ Izdebskich	Izdebski	subst:pl:gen:m1	nazwisko
 Izdebskich	Izdebski	subst:pl:loc:m1	nazwisko	
 Izdebskiego	Izdebski	subst:sg:acc:m1	nazwisko	
 Izdebskiego	Izdebski	subst:sg:gen:m1	nazwisko	
+Izdebskie	Izdebski	depr:pl:acc:m2	nazwisko	
 Izdebskie	Izdebski	depr:pl:nom:m2	nazwisko	
 Izdebskie	Izdebski	depr:pl:voc:m2	nazwisko	
 Izdebskiemu	Izdebski	subst:sg:dat:m1	nazwisko	
@@ -3105,6 +3175,7 @@ Izraelczyka	Izraelczyk	subst:sg:acc:m1	nazwa pospolita
 Izraelczyka	Izraelczyk	subst:sg:gen:m1	nazwa pospolita	
 Izraelczykami	Izraelczyk	subst:pl:inst:m1	nazwa pospolita	
 Izraelczykiem	Izraelczyk	subst:sg:inst:m1	nazwa pospolita	
+Izraelczyki	Izraelczyk	depr:pl:acc:m2	nazwa pospolita	
 Izraelczyki	Izraelczyk	depr:pl:nom:m2	nazwa pospolita	
 Izraelczyki	Izraelczyk	depr:pl:voc:m2	nazwa pospolita	
 Izraelczyk	Izraelczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -3146,6 +3217,7 @@ Izraelach	Izrael:s2	subst:pl:loc:m1	imię
 Izraela	Izrael:s2	subst:sg:acc:m1	imię	
 Izraela	Izrael:s2	subst:sg:gen:m1	imię	
 Izraelami	Izrael:s2	subst:pl:inst:m1	imię	
+Izraele	Izrael:s2	depr:pl:acc:m2	imię	
 Izraele	Izrael:s2	depr:pl:nom:m2	imię	
 Izraele	Izrael:s2	depr:pl:voc:m2	imię	
 Izraele	Izrael:s2	subst:pl:nom:m1	imię	
@@ -3217,6 +3289,7 @@ Izydorowie	Izydor	subst:pl:voc:m1	imię
 Izydorowi	Izydor	subst:sg:dat:m1	imię	
 Izydorów	Izydor	subst:pl:acc:m1	imię	
 Izydorów	Izydor	subst:pl:gen:m1	imię	
+Izydory	Izydor	depr:pl:acc:m2	imię	
 Izydory	Izydor	depr:pl:nom:m2	imię	
 Izydory	Izydor	depr:pl:voc:m2	imię	
 Izydorze	Izydor	subst:sg:loc:m1	imię	
@@ -3227,6 +3300,7 @@ Izydorka	Izydorek	subst:sg:acc:m1	imię
 Izydorka	Izydorek	subst:sg:gen:m1	imię	
 Izydorkami	Izydorek	subst:pl:inst:m1	imię	
 Izydorkiem	Izydorek	subst:sg:inst:m1	imię	
+Izydorki	Izydorek	depr:pl:acc:m2	imię	
 Izydorki	Izydorek	depr:pl:nom:m2	imię	
 Izydorki	Izydorek	depr:pl:voc:m2	imię	
 Izydorkom	Izydorek	subst:pl:dat:m1	imię	

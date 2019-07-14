@@ -83,6 +83,7 @@ Kacprowie	Kacper	subst:pl:voc:m1	imię
 Kacprowi	Kacper	subst:sg:dat:m1	imię	
 Kacprów	Kacper	subst:pl:acc:m1	imię	
 Kacprów	Kacper	subst:pl:gen:m1	imię	
+Kacpry	Kacper	depr:pl:acc:m2	imię	
 Kacpry	Kacper	depr:pl:nom:m2	imię	
 Kacpry	Kacper	depr:pl:voc:m2	imię	
 Kacprze	Kacper	subst:sg:loc:m1	imię	
@@ -93,6 +94,7 @@ Kacperka	Kacperek	subst:sg:acc:m1	imię
 Kacperka	Kacperek	subst:sg:gen:m1	imię	
 Kacperkami	Kacperek	subst:pl:inst:m1	imię	
 Kacperkiem	Kacperek	subst:sg:inst:m1	imię	
+Kacperki	Kacperek	depr:pl:acc:m2	imię	
 Kacperki	Kacperek	depr:pl:nom:m2	imię	
 Kacperki	Kacperek	depr:pl:voc:m2	imię	
 Kacperkom	Kacperek	subst:pl:dat:m1	imię	
@@ -124,6 +126,7 @@ Kacperskich	Kacperski	subst:pl:gen:m1	nazwisko
 Kacperskich	Kacperski	subst:pl:loc:m1	nazwisko	
 Kacperskiego	Kacperski	subst:sg:acc:m1	nazwisko	
 Kacperskiego	Kacperski	subst:sg:gen:m1	nazwisko	
+Kacperskie	Kacperski	depr:pl:acc:m2	nazwisko	
 Kacperskie	Kacperski	depr:pl:nom:m2	nazwisko	
 Kacperskie	Kacperski	depr:pl:voc:m2	nazwisko	
 Kacperskiemu	Kacperski	subst:sg:dat:m1	nazwisko	
@@ -138,6 +141,7 @@ Kacprzaka	Kacprzak	subst:sg:acc:m1	nazwisko
 Kacprzaka	Kacprzak	subst:sg:gen:m1	nazwisko	
 Kacprzakami	Kacprzak	subst:pl:inst:m1	nazwisko	
 Kacprzakiem	Kacprzak	subst:sg:inst:m1	nazwisko	
+Kacprzaki	Kacprzak	depr:pl:acc:m2	nazwisko	
 Kacprzaki	Kacprzak	depr:pl:nom:m2	nazwisko	
 Kacprzaki	Kacprzak	depr:pl:voc:m2	nazwisko	
 Kacprzak	Kacprzak	subst:sg:nom:m1	nazwisko	
@@ -170,6 +174,7 @@ Kaczanowskich	Kaczanowski	subst:pl:gen:m1	nazwisko
 Kaczanowskich	Kaczanowski	subst:pl:loc:m1	nazwisko	
 Kaczanowskiego	Kaczanowski	subst:sg:acc:m1	nazwisko	
 Kaczanowskiego	Kaczanowski	subst:sg:gen:m1	nazwisko	
+Kaczanowskie	Kaczanowski	depr:pl:acc:m2	nazwisko	
 Kaczanowskie	Kaczanowski	depr:pl:nom:m2	nazwisko	
 Kaczanowskie	Kaczanowski	depr:pl:voc:m2	nazwisko	
 Kaczanowskiemu	Kaczanowski	subst:sg:dat:m1	nazwisko	
@@ -200,6 +205,7 @@ Kaczkowskich	Kaczkowski	subst:pl:gen:m1	nazwisko
 Kaczkowskich	Kaczkowski	subst:pl:loc:m1	nazwisko	
 Kaczkowskiego	Kaczkowski	subst:sg:acc:m1	nazwisko	
 Kaczkowskiego	Kaczkowski	subst:sg:gen:m1	nazwisko	
+Kaczkowskie	Kaczkowski	depr:pl:acc:m2	nazwisko	
 Kaczkowskie	Kaczkowski	depr:pl:nom:m2	nazwisko	
 Kaczkowskie	Kaczkowski	depr:pl:voc:m2	nazwisko	
 Kaczkowskiemu	Kaczkowski	subst:sg:dat:m1	nazwisko	
@@ -214,6 +220,7 @@ Kaczmarczyka	Kaczmarczyk	subst:sg:acc:m1	nazwisko
 Kaczmarczyka	Kaczmarczyk	subst:sg:gen:m1	nazwisko	
 Kaczmarczykami	Kaczmarczyk	subst:pl:inst:m1	nazwisko	
 Kaczmarczykiem	Kaczmarczyk	subst:sg:inst:m1	nazwisko	
+Kaczmarczyki	Kaczmarczyk	depr:pl:acc:m2	nazwisko	
 Kaczmarczyki	Kaczmarczyk	depr:pl:nom:m2	nazwisko	
 Kaczmarczyki	Kaczmarczyk	depr:pl:voc:m2	nazwisko	
 Kaczmarczyk	Kaczmarczyk	subst:sg:nom:m1	nazwisko	
@@ -231,6 +238,7 @@ Kaczmarka	Kaczmarek	subst:sg:acc:m1	nazwisko
 Kaczmarka	Kaczmarek	subst:sg:gen:m1	nazwisko	
 Kaczmarkami	Kaczmarek	subst:pl:inst:m1	nazwisko	
 Kaczmarkiem	Kaczmarek	subst:sg:inst:m1	nazwisko	
+Kaczmarki	Kaczmarek	depr:pl:acc:m2	nazwisko	
 Kaczmarki	Kaczmarek	depr:pl:nom:m2	nazwisko	
 Kaczmarki	Kaczmarek	depr:pl:voc:m2	nazwisko	
 Kaczmarkom	Kaczmarek	subst:pl:dat:m1	nazwisko	
@@ -262,6 +270,7 @@ Kaczmarskich	Kaczmarski	subst:pl:gen:m1	nazwisko
 Kaczmarskich	Kaczmarski	subst:pl:loc:m1	nazwisko	
 Kaczmarskiego	Kaczmarski	subst:sg:acc:m1	nazwisko	
 Kaczmarskiego	Kaczmarski	subst:sg:gen:m1	nazwisko	
+Kaczmarskie	Kaczmarski	depr:pl:acc:m2	nazwisko	
 Kaczmarskie	Kaczmarski	depr:pl:nom:m2	nazwisko	
 Kaczmarskie	Kaczmarski	depr:pl:voc:m2	nazwisko	
 Kaczmarskiemu	Kaczmarski	subst:sg:dat:m1	nazwisko	
@@ -283,6 +292,7 @@ Kaczorowie	Kaczor	subst:pl:voc:m1	nazwisko
 Kaczorowi	Kaczor	subst:sg:dat:m1	nazwisko	
 Kaczorów	Kaczor	subst:pl:acc:m1	nazwisko	
 Kaczorów	Kaczor	subst:pl:gen:m1	nazwisko	
+Kaczory	Kaczor	depr:pl:acc:m2	nazwisko	
 Kaczory	Kaczor	depr:pl:nom:m2	nazwisko	
 Kaczory	Kaczor	depr:pl:voc:m2	nazwisko	
 Kaczorze	Kaczor	subst:sg:loc:m1	nazwisko	
@@ -308,6 +318,7 @@ Kaczorowskich	Kaczorowski	subst:pl:gen:m1	nazwisko
 Kaczorowskich	Kaczorowski	subst:pl:loc:m1	nazwisko	
 Kaczorowskiego	Kaczorowski	subst:sg:acc:m1	nazwisko	
 Kaczorowskiego	Kaczorowski	subst:sg:gen:m1	nazwisko	
+Kaczorowskie	Kaczorowski	depr:pl:acc:m2	nazwisko	
 Kaczorowskie	Kaczorowski	depr:pl:nom:m2	nazwisko	
 Kaczorowskie	Kaczorowski	depr:pl:voc:m2	nazwisko	
 Kaczorowskiemu	Kaczorowski	subst:sg:dat:m1	nazwisko	
@@ -338,6 +349,7 @@ Kaczyńskich	Kaczyński	subst:pl:gen:m1	nazwisko
 Kaczyńskich	Kaczyński	subst:pl:loc:m1	nazwisko	
 Kaczyńskiego	Kaczyński	subst:sg:acc:m1	nazwisko	
 Kaczyńskiego	Kaczyński	subst:sg:gen:m1	nazwisko	
+Kaczyńskie	Kaczyński	depr:pl:acc:m2	nazwisko	
 Kaczyńskie	Kaczyński	depr:pl:nom:m2	nazwisko	
 Kaczyńskie	Kaczyński	depr:pl:voc:m2	nazwisko	
 Kaczyńskiemu	Kaczyński	subst:sg:dat:m1	nazwisko	
@@ -366,6 +378,7 @@ Kadafich	Kadafi	subst:pl:gen:m1	nazwisko
 Kadafich	Kadafi	subst:pl:loc:m1	nazwisko	
 Kadafiego	Kadafi	subst:sg:acc:m1	nazwisko	
 Kadafiego	Kadafi	subst:sg:gen:m1	nazwisko	
+Kadafie	Kadafi	depr:pl:acc:m2	nazwisko	
 Kadafie	Kadafi	depr:pl:nom:m2	nazwisko	
 Kadafie	Kadafi	depr:pl:voc:m2	nazwisko	
 Kadafiemu	Kadafi	subst:sg:dat:m1	nazwisko	
@@ -391,6 +404,7 @@ Kadarowie	Kadar	subst:pl:voc:m1	nazwisko
 Kadarowi	Kadar	subst:sg:dat:m1	nazwisko	
 Kadarów	Kadar	subst:pl:acc:m1	nazwisko	
 Kadarów	Kadar	subst:pl:gen:m1	nazwisko	
+Kadary	Kadar	depr:pl:acc:m2	nazwisko	
 Kadary	Kadar	depr:pl:nom:m2	nazwisko	
 Kadary	Kadar	depr:pl:voc:m2	nazwisko	
 Kadarze	Kadar	subst:sg:loc:m1	nazwisko	
@@ -409,10 +423,12 @@ Kadenowie	Kaden	subst:pl:voc:m1	nazwisko|pseudonim
 Kadenowi	Kaden	subst:sg:dat:m1	nazwisko|pseudonim	
 Kadenów	Kaden	subst:pl:acc:m1	nazwisko|pseudonim	
 Kadenów	Kaden	subst:pl:gen:m1	nazwisko|pseudonim	
+Kadeny	Kaden	depr:pl:acc:m2	nazwisko|pseudonim	
 Kadeny	Kaden	depr:pl:nom:m2	nazwisko|pseudonim	
 Kadeny	Kaden	depr:pl:voc:m2	nazwisko|pseudonim	
 Kadenacego	Kadenacy	subst:sg:acc:m1	nazwisko	
 Kadenacego	Kadenacy	subst:sg:gen:m1	nazwisko	
+Kadenace	Kadenacy	depr:pl:acc:m2	nazwisko	
 Kadenace	Kadenacy	depr:pl:nom:m2	nazwisko	
 Kadenace	Kadenacy	depr:pl:voc:m2	nazwisko	
 Kadenacemu	Kadenacy	subst:sg:dat:m1	nazwisko	
@@ -435,6 +451,7 @@ Kadłubka	Kadłubek	subst:sg:acc:m1	nazwisko|przydomek
 Kadłubka	Kadłubek	subst:sg:gen:m1	nazwisko|przydomek	
 Kadłubkami	Kadłubek	subst:pl:inst:m1	nazwisko|przydomek	
 Kadłubkiem	Kadłubek	subst:sg:inst:m1	nazwisko|przydomek	
+Kadłubki	Kadłubek	depr:pl:acc:m2	nazwisko|przydomek	
 Kadłubki	Kadłubek	depr:pl:nom:m2	nazwisko|przydomek	
 Kadłubki	Kadłubek	depr:pl:voc:m2	nazwisko|przydomek	
 Kadłubkom	Kadłubek	subst:pl:dat:m1	nazwisko|przydomek	
@@ -459,12 +476,14 @@ Kadmonowie	Kadmon	subst:pl:voc:m1	imię
 Kadmonowi	Kadmon	subst:sg:dat:m1	imię	
 Kadmonów	Kadmon	subst:pl:acc:m1	imię	
 Kadmonów	Kadmon	subst:pl:gen:m1	imię	
+Kadmony	Kadmon	depr:pl:acc:m2	imię	
 Kadmony	Kadmon	depr:pl:nom:m2	imię	
 Kadmony	Kadmon	depr:pl:voc:m2	imię	
 Kadyszach	Kadysz	subst:pl:loc:m1	imię	
 Kadysza	Kadysz	subst:sg:acc:m1	imię	
 Kadysza	Kadysz	subst:sg:gen:m1	imię	
 Kadyszami	Kadysz	subst:pl:inst:m1	imię	
+Kadysze	Kadysz	depr:pl:acc:m2	imię	
 Kadysze	Kadysz	depr:pl:nom:m2	imię	
 Kadysze	Kadysz	depr:pl:voc:m2	imię	
 Kadysze	Kadysz	subst:pl:nom:m1	imię	
@@ -500,6 +519,7 @@ Kafka	Kafka	subst:sg:nom:m1	nazwisko
 Kafkami	Kafka	subst:pl:inst:m1	nazwisko	
 Kafką	Kafka	subst:sg:inst:m1	nazwisko	
 Kafkę	Kafka	subst:sg:acc:m1	nazwisko	
+Kafki	Kafka	depr:pl:acc:m2	nazwisko	
 Kafki	Kafka	depr:pl:nom:m2	nazwisko	
 Kafki	Kafka	depr:pl:voc:m2	nazwisko	
 Kafki	Kafka	subst:sg:gen:m1	nazwisko	
@@ -551,6 +571,7 @@ Kainowie	Kain	subst:pl:voc:m1	imię	bibl.
 Kainowi	Kain	subst:sg:dat:m1	imię	bibl.
 Kainów	Kain	subst:pl:acc:m1	imię	bibl.
 Kainów	Kain	subst:pl:gen:m1	imię	bibl.
+Kainy	Kain	depr:pl:acc:m2	imię	bibl.
 Kainy	Kain	depr:pl:nom:m2	imię	bibl.
 Kainy	Kain	depr:pl:voc:m2	imię	bibl.
 Kairach	Kair	subst:pl:loc:m3	nazwa geograficzna	
@@ -597,6 +618,7 @@ Kajetanowie	Kajetan	subst:pl:voc:m1	imię
 Kajetanowi	Kajetan	subst:sg:dat:m1	imię	
 Kajetanów	Kajetan	subst:pl:acc:m1	imię	
 Kajetanów	Kajetan	subst:pl:gen:m1	imię	
+Kajetany	Kajetan	depr:pl:acc:m2	imię	
 Kajetany	Kajetan	depr:pl:nom:m2	imię	
 Kajetany	Kajetan	depr:pl:voc:m2	imię	
 Kajetanek	Kajetanek	subst:sg:nom:m1	imię	
@@ -605,6 +627,7 @@ Kajetanka	Kajetanek	subst:sg:acc:m1	imię
 Kajetanka	Kajetanek	subst:sg:gen:m1	imię	
 Kajetankami	Kajetanek	subst:pl:inst:m1	imię	
 Kajetankiem	Kajetanek	subst:sg:inst:m1	imię	
+Kajetanki	Kajetanek	depr:pl:acc:m2	imię	
 Kajetanki	Kajetanek	depr:pl:nom:m2	imię	
 Kajetanki	Kajetanek	depr:pl:voc:m2	imię	
 Kajetankom	Kajetanek	subst:pl:dat:m1	imię	
@@ -619,6 +642,7 @@ Kajfaszach	Kajfasz	subst:pl:loc:m1	imię
 Kajfasza	Kajfasz	subst:sg:acc:m1	imię	
 Kajfasza	Kajfasz	subst:sg:gen:m1	imię	
 Kajfaszami	Kajfasz	subst:pl:inst:m1	imię	
+Kajfasze	Kajfasz	depr:pl:acc:m2	imię	
 Kajfasze	Kajfasz	depr:pl:nom:m2	imię	
 Kajfasze	Kajfasz	depr:pl:voc:m2	imię	
 Kajfasze	Kajfasz	subst:pl:nom:m1	imię	
@@ -640,6 +664,7 @@ Kajka	Kajka:s1	subst:sg:nom:m1	nazwisko
 Kajkami	Kajka:s1	subst:pl:inst:m1	nazwisko	
 Kajką	Kajka:s1	subst:sg:inst:m1	nazwisko	
 Kajkę	Kajka:s1	subst:sg:acc:m1	nazwisko	
+Kajki	Kajka:s1	depr:pl:acc:m2	nazwisko	
 Kajki	Kajka:s1	depr:pl:nom:m2	nazwisko	
 Kajki	Kajka:s1	depr:pl:voc:m2	nazwisko	
 Kajki	Kajka:s1	subst:sg:gen:m1	nazwisko	
@@ -668,6 +693,7 @@ Kaj-szeka	Kaj-szek	subst:sg:acc:m1	nazwisko
 Kaj-szeka	Kaj-szek	subst:sg:gen:m1	nazwisko	
 Kaj-szekami	Kaj-szek	subst:pl:inst:m1	nazwisko	
 Kaj-szekiem	Kaj-szek	subst:sg:inst:m1	nazwisko	
+Kaj-szeki	Kaj-szek	depr:pl:acc:m2	nazwisko	
 Kaj-szeki	Kaj-szek	depr:pl:nom:m2	nazwisko	
 Kaj-szeki	Kaj-szek	depr:pl:voc:m2	nazwisko	
 Kaj-szek	Kaj-szek	subst:sg:nom:m1	nazwisko	
@@ -685,6 +711,7 @@ Kajtka	Kajtek	subst:sg:acc:m1	imię
 Kajtka	Kajtek	subst:sg:gen:m1	imię	
 Kajtkami	Kajtek	subst:pl:inst:m1	imię	
 Kajtkiem	Kajtek	subst:sg:inst:m1	imię	
+Kajtki	Kajtek	depr:pl:acc:m2	imię	
 Kajtki	Kajtek	depr:pl:nom:m2	imię	
 Kajtki	Kajtek	depr:pl:voc:m2	imię	
 Kajtkom	Kajtek	subst:pl:dat:m1	imię	
@@ -711,6 +738,7 @@ Kajusowie	Kajus	subst:pl:voc:m1	imię
 Kajusowi	Kajus	subst:sg:dat:m1	imię	
 Kajusów	Kajus	subst:pl:acc:m1	imię	
 Kajusów	Kajus	subst:pl:gen:m1	imię	
+Kajusy	Kajus	depr:pl:acc:m2	imię	
 Kajusy	Kajus	depr:pl:nom:m2	imię	
 Kajusy	Kajus	depr:pl:voc:m2	imię	
 KAL-ach	KAL	subst:pl:loc:m3	nazwa firmy	
@@ -748,6 +776,7 @@ Kalabińskich	Kalabiński	subst:pl:gen:m1	nazwisko
 Kalabińskich	Kalabiński	subst:pl:loc:m1	nazwisko	
 Kalabińskiego	Kalabiński	subst:sg:acc:m1	nazwisko	
 Kalabińskiego	Kalabiński	subst:sg:gen:m1	nazwisko	
+Kalabińskie	Kalabiński	depr:pl:acc:m2	nazwisko	
 Kalabińskie	Kalabiński	depr:pl:nom:m2	nazwisko	
 Kalabińskie	Kalabiński	depr:pl:voc:m2	nazwisko	
 Kalabińskiemu	Kalabiński	subst:sg:dat:m1	nazwisko	
@@ -802,6 +831,7 @@ Kalahari	Kalahari	subst:sg:voc:f	nazwa geograficzna
 Kalahari	Kalahari	subst:sg:voc:n:ncol	nazwa geograficzna	
 Kalasantego	Kalasanty	subst:sg:acc:m1	imię	
 Kalasantego	Kalasanty	subst:sg:gen:m1	imię	
+Kalasante	Kalasanty	depr:pl:acc:m2	imię	
 Kalasante	Kalasanty	depr:pl:nom:m2	imię	
 Kalasante	Kalasanty	depr:pl:voc:m2	imię	
 Kalasantemu	Kalasanty	subst:sg:dat:m1	imię	
@@ -833,6 +863,7 @@ Kaledonio	Kaledonia	subst:sg:voc:f	nazwa geograficzna	hist.
 Kaledoniom	Kaledonia	subst:pl:dat:f	nazwa geograficzna	hist.
 Kalego	Kali	subst:sg:acc:m1	imię	
 Kalego	Kali	subst:sg:gen:m1	imię	
+Kale	Kali	depr:pl:acc:m2	imię	
 Kale	Kali	depr:pl:nom:m2	imię	
 Kale	Kali	depr:pl:voc:m2	imię	
 Kalemu	Kali	subst:sg:dat:m1	imię	
@@ -868,6 +899,7 @@ Kalickich	Kalicki	subst:pl:gen:m1	nazwisko
 Kalickich	Kalicki	subst:pl:loc:m1	nazwisko	
 Kalickiego	Kalicki	subst:sg:acc:m1	nazwisko	
 Kalickiego	Kalicki	subst:sg:gen:m1	nazwisko	
+Kalickie	Kalicki	depr:pl:acc:m2	nazwisko	
 Kalickie	Kalicki	depr:pl:nom:m2	nazwisko	
 Kalickie	Kalicki	depr:pl:voc:m2	nazwisko	
 Kalickiemu	Kalicki	subst:sg:dat:m1	nazwisko	
@@ -899,6 +931,7 @@ Kalifornijczyka	Kalifornijczyk	subst:sg:acc:m1	nazwa pospolita
 Kalifornijczyka	Kalifornijczyk	subst:sg:gen:m1	nazwa pospolita	
 Kalifornijczykami	Kalifornijczyk	subst:pl:inst:m1	nazwa pospolita	
 Kalifornijczykiem	Kalifornijczyk	subst:sg:inst:m1	nazwa pospolita	
+Kalifornijczyki	Kalifornijczyk	depr:pl:acc:m2	nazwa pospolita	
 Kalifornijczyki	Kalifornijczyk	depr:pl:nom:m2	nazwa pospolita	
 Kalifornijczyki	Kalifornijczyk	depr:pl:voc:m2	nazwa pospolita	
 Kalifornijczyk	Kalifornijczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -926,6 +959,7 @@ Kaligulach	Kaligula	subst:pl:loc:m1	imię
 Kaligula	Kaligula	subst:sg:nom:m1	imię	
 Kaligulami	Kaligula	subst:pl:inst:m1	imię	
 Kaligulą	Kaligula	subst:sg:inst:m1	imię	
+Kaligule	Kaligula	depr:pl:acc:m2	imię	
 Kaligule	Kaligula	depr:pl:nom:m2	imię	
 Kaligule	Kaligula	depr:pl:voc:m2	imię	
 Kaligulę	Kaligula	subst:sg:acc:m1	imię	
@@ -950,6 +984,7 @@ Kalikastowie	Kalikast	subst:pl:voc:m1	imię
 Kalikastowi	Kalikast	subst:sg:dat:m1	imię	
 Kalikastów	Kalikast	subst:pl:acc:m1	imię	
 Kalikastów	Kalikast	subst:pl:gen:m1	imię	
+Kalikasty	Kalikast	depr:pl:acc:m2	imię	
 Kalikasty	Kalikast	depr:pl:nom:m2	imię	
 Kalikasty	Kalikast	depr:pl:voc:m2	imię	
 Kalikaście	Kalikast	subst:sg:loc:m1	imię	
@@ -966,6 +1001,7 @@ Kalikstowie	Kalikst	subst:pl:voc:m1	imię
 Kalikstowi	Kalikst	subst:sg:dat:m1	imię	
 Kalikstów	Kalikst	subst:pl:acc:m1	imię	
 Kalikstów	Kalikst	subst:pl:gen:m1	imię	
+Kaliksty	Kalikst	depr:pl:acc:m2	imię	
 Kaliksty	Kalikst	depr:pl:nom:m2	imię	
 Kaliksty	Kalikst	depr:pl:voc:m2	imię	
 Kalikście	Kalikst	subst:sg:loc:m1	imię	
@@ -988,6 +1024,7 @@ Kalimachach	Kalimach	subst:pl:loc:m1	imię
 Kalimacha	Kalimach	subst:sg:acc:m1	imię	
 Kalimacha	Kalimach	subst:sg:gen:m1	imię	
 Kalimachami	Kalimach	subst:pl:inst:m1	imię	
+Kalimache	Kalimach	depr:pl:acc:m2	imię	
 Kalimache	Kalimach	depr:pl:nom:m2	imię	
 Kalimache	Kalimach	depr:pl:voc:m2	imię	
 Kalimachem	Kalimach	subst:sg:inst:m1	imię	
@@ -1000,6 +1037,7 @@ Kalimachów	Kalimach	subst:pl:acc:m1	imię
 Kalimachów	Kalimach	subst:pl:gen:m1	imię	
 Kalimachu	Kalimach	subst:sg:loc:m1	imię	
 Kalimachu	Kalimach	subst:sg:voc:m1	imię	
+Kalimachy	Kalimach	depr:pl:acc:m2	imię	
 Kalimachy	Kalimach	depr:pl:nom:m2	imię	
 Kalimachy	Kalimach	depr:pl:voc:m2	imię	
 Kalinach	Kalina	subst:pl:loc:f	imię	
@@ -1021,6 +1059,7 @@ Kalinika	Kalinik	subst:sg:acc:m1	imię
 Kalinika	Kalinik	subst:sg:gen:m1	imię	
 Kalinikami	Kalinik	subst:pl:inst:m1	imię	
 Kalinikiem	Kalinik	subst:sg:inst:m1	imię	
+Kaliniki	Kalinik	depr:pl:acc:m2	imię	
 Kaliniki	Kalinik	depr:pl:nom:m2	imię	
 Kaliniki	Kalinik	depr:pl:voc:m2	imię	
 Kalinik	Kalinik	subst:sg:nom:m1	imię	
@@ -1067,6 +1106,7 @@ Kalinowskich	Kalinowski	subst:pl:gen:m1	nazwisko
 Kalinowskich	Kalinowski	subst:pl:loc:m1	nazwisko	
 Kalinowskiego	Kalinowski	subst:sg:acc:m1	nazwisko	
 Kalinowskiego	Kalinowski	subst:sg:gen:m1	nazwisko	
+Kalinowskie	Kalinowski	depr:pl:acc:m2	nazwisko	
 Kalinowskie	Kalinowski	depr:pl:nom:m2	nazwisko	
 Kalinowskie	Kalinowski	depr:pl:voc:m2	nazwisko	
 Kalinowskiemu	Kalinowski	subst:sg:dat:m1	nazwisko	
@@ -1097,6 +1137,7 @@ Kalińskich	Kaliński	subst:pl:gen:m1	nazwisko
 Kalińskich	Kaliński	subst:pl:loc:m1	nazwisko	
 Kalińskiego	Kaliński	subst:sg:acc:m1	nazwisko	
 Kalińskiego	Kaliński	subst:sg:gen:m1	nazwisko	
+Kalińskie	Kaliński	depr:pl:acc:m2	nazwisko	
 Kalińskie	Kaliński	depr:pl:nom:m2	nazwisko	
 Kalińskie	Kaliński	depr:pl:voc:m2	nazwisko	
 Kalińskiemu	Kaliński	subst:sg:dat:m1	nazwisko	
@@ -1163,6 +1204,7 @@ Kalistratowie	Kalistrat	subst:pl:voc:m1	imię
 Kalistratowi	Kalistrat	subst:sg:dat:m1	imię	
 Kalistratów	Kalistrat	subst:pl:acc:m1	imię	
 Kalistratów	Kalistrat	subst:pl:gen:m1	imię	
+Kalistraty	Kalistrat	depr:pl:acc:m2	imię	
 Kalistraty	Kalistrat	depr:pl:nom:m2	imię	
 Kalistraty	Kalistrat	depr:pl:voc:m2	imię	
 Kaliszach	Kalisz	subst:pl:loc:m3	nazwa geograficzna	
@@ -1201,6 +1243,7 @@ Kaliszewskich	Kaliszewski	subst:pl:gen:m1	nazwisko
 Kaliszewskich	Kaliszewski	subst:pl:loc:m1	nazwisko	
 Kaliszewskiego	Kaliszewski	subst:sg:acc:m1	nazwisko	
 Kaliszewskiego	Kaliszewski	subst:sg:gen:m1	nazwisko	
+Kaliszewskie	Kaliszewski	depr:pl:acc:m2	nazwisko	
 Kaliszewskie	Kaliszewski	depr:pl:nom:m2	nazwisko	
 Kaliszewskie	Kaliszewski	depr:pl:voc:m2	nazwisko	
 Kaliszewskiemu	Kaliszewski	subst:sg:dat:m1	nazwisko	
@@ -1238,6 +1281,7 @@ Kallimachów	Kallimach	subst:pl:acc:m1	imię
 Kallimachów	Kallimach	subst:pl:gen:m1	imię	
 Kallimachu	Kallimach	subst:sg:loc:m1	imię	
 Kallimachu	Kallimach	subst:sg:voc:m1	imię	
+Kallimachy	Kallimach	depr:pl:acc:m2	imię	
 Kallimachy	Kallimach	depr:pl:nom:m2	imię	
 Kallimachy	Kallimach	depr:pl:voc:m2	imię	
 Kallinach	Kallina	subst:pl:loc:f	imię	
@@ -1270,6 +1314,7 @@ Kalmanowie	Kalman	subst:pl:voc:m1	imię
 Kalmanowi	Kalman	subst:sg:dat:m1	imię	
 Kalmanów	Kalman	subst:pl:acc:m1	imię	
 Kalmanów	Kalman	subst:pl:gen:m1	imię	
+Kalmany	Kalman	depr:pl:acc:m2	imię	
 Kalmany	Kalman	depr:pl:nom:m2	imię	
 Kalmany	Kalman	depr:pl:voc:m2	imię	
 Kalużna	Kalużna	subst:sg:nom:f	nazwisko	
@@ -1288,6 +1333,7 @@ Kalużnymi	Kalużna	subst:pl:inst:f	nazwisko
 Kalużnym	Kalużna	subst:pl:dat:f	nazwisko	
 Kalużnego	Kalużny	subst:sg:acc:m1	nazwisko	
 Kalużnego	Kalużny	subst:sg:gen:m1	nazwisko	
+Kalużne	Kalużny	depr:pl:acc:m2	nazwisko	
 Kalużne	Kalużny	depr:pl:nom:m2	nazwisko	
 Kalużne	Kalużny	depr:pl:voc:m2	nazwisko	
 Kalużnemu	Kalużny	subst:sg:dat:m1	nazwisko	
@@ -1331,6 +1377,7 @@ Kalwinowie	Kalwin	subst:pl:voc:m1	nazwisko
 Kalwinowi	Kalwin	subst:sg:dat:m1	nazwisko	
 Kalwinów	Kalwin	subst:pl:acc:m1	nazwisko	
 Kalwinów	Kalwin	subst:pl:gen:m1	nazwisko	
+Kalwiny	Kalwin	depr:pl:acc:m2	nazwisko	
 Kalwiny	Kalwin	depr:pl:nom:m2	nazwisko	
 Kalwiny	Kalwin	depr:pl:voc:m2	nazwisko	
 Kałmucjach	Kałmucja	subst:pl:loc:f	nazwa geograficzna	
@@ -1355,6 +1402,7 @@ Kałmuka	Kałmuk	subst:sg:acc:m1	nazwa pospolita
 Kałmuka	Kałmuk	subst:sg:gen:m1	nazwa pospolita	
 Kałmukami	Kałmuk	subst:pl:inst:m1	nazwa pospolita	
 Kałmukiem	Kałmuk	subst:sg:inst:m1	nazwa pospolita	
+Kałmuki	Kałmuk	depr:pl:acc:m2	nazwa pospolita	
 Kałmuki	Kałmuk	depr:pl:nom:m2	nazwa pospolita	
 Kałmuki	Kałmuk	depr:pl:voc:m2	nazwa pospolita	
 Kałmuk	Kałmuk	subst:sg:nom:m1	nazwa pospolita	
@@ -1394,6 +1442,7 @@ Kałuszyny	Kałuszyn	subst:pl:nom:m3	nazwa geograficzna
 Kałuszyny	Kałuszyn	subst:pl:voc:m3	nazwa geograficzna	
 Kałużnego	Kałużny	subst:sg:acc:m1	nazwisko	
 Kałużnego	Kałużny	subst:sg:gen:m1	nazwisko	
+Kałużne	Kałużny	depr:pl:acc:m2	nazwisko	
 Kałużne	Kałużny	depr:pl:nom:m2	nazwisko	
 Kałużne	Kałużny	depr:pl:voc:m2	nazwisko	
 Kałużnemu	Kałużny	subst:sg:dat:m1	nazwisko	
@@ -1429,6 +1478,7 @@ Kałużyńskich	Kałużyński	subst:pl:gen:m1	nazwisko
 Kałużyńskich	Kałużyński	subst:pl:loc:m1	nazwisko	
 Kałużyńskiego	Kałużyński	subst:sg:acc:m1	nazwisko	
 Kałużyńskiego	Kałużyński	subst:sg:gen:m1	nazwisko	
+Kałużyńskie	Kałużyński	depr:pl:acc:m2	nazwisko	
 Kałużyńskie	Kałużyński	depr:pl:nom:m2	nazwisko	
 Kałużyńskie	Kałużyński	depr:pl:voc:m2	nazwisko	
 Kałużyńskiemu	Kałużyński	subst:sg:dat:m1	nazwisko	
@@ -1481,6 +1531,7 @@ Kambodżaninowi	Kambodżanin	subst:sg:dat:m1	nazwa pospolita
 Kambodżan	Kambodżanin	subst:pl:acc:m1	nazwa pospolita	
 Kambodżan	Kambodżanin	subst:pl:gen:m1	nazwa pospolita	
 Kambodżanom	Kambodżanin	subst:pl:dat:m1	nazwa pospolita	
+Kambodżany	Kambodżanin	depr:pl:acc:m2	nazwa pospolita	
 Kambodżany	Kambodżanin	depr:pl:nom:m2	nazwa pospolita	
 Kambodżany	Kambodżanin	depr:pl:voc:m2	nazwa pospolita	
 Kamczatce	Kamczatka	subst:sg:dat:f	nazwa geograficzna	
@@ -1501,6 +1552,7 @@ Kamelach	Kamel	subst:pl:loc:m1	nazwisko
 Kamela	Kamel	subst:sg:acc:m1	nazwisko	
 Kamela	Kamel	subst:sg:gen:m1	nazwisko	
 Kamelami	Kamel	subst:pl:inst:m1	nazwisko	
+Kamele	Kamel	depr:pl:acc:m2	nazwisko	
 Kamele	Kamel	depr:pl:nom:m2	nazwisko	
 Kamele	Kamel	depr:pl:voc:m2	nazwisko	
 Kamelem	Kamel	subst:sg:inst:m1	nazwisko	
@@ -1576,6 +1628,7 @@ Kamieńskich	Kamieński	subst:pl:gen:m1	nazwisko
 Kamieńskich	Kamieński	subst:pl:loc:m1	nazwisko	
 Kamieńskiego	Kamieński	subst:sg:acc:m1	nazwisko	
 Kamieńskiego	Kamieński	subst:sg:gen:m1	nazwisko	
+Kamieńskie	Kamieński	depr:pl:acc:m2	nazwisko	
 Kamieńskie	Kamieński	depr:pl:nom:m2	nazwisko	
 Kamieńskie	Kamieński	depr:pl:voc:m2	nazwisko	
 Kamieńskiemu	Kamieński	subst:sg:dat:m1	nazwisko	
@@ -1589,6 +1642,7 @@ Kamilach	Kamil	subst:pl:loc:m1	imię
 Kamila	Kamil	subst:sg:acc:m1	imię	
 Kamila	Kamil	subst:sg:gen:m1	imię	
 Kamilami	Kamil	subst:pl:inst:m1	imię	
+Kamile	Kamil	depr:pl:acc:m2	imię	
 Kamile	Kamil	depr:pl:nom:m2	imię	
 Kamile	Kamil	depr:pl:voc:m2	imię	
 Kamile	Kamil	subst:pl:nom:m1	imię	
@@ -1656,6 +1710,7 @@ Kamińskich	Kamiński	subst:pl:gen:m1	nazwisko
 Kamińskich	Kamiński	subst:pl:loc:m1	nazwisko	
 Kamińskiego	Kamiński	subst:sg:acc:m1	nazwisko	
 Kamińskiego	Kamiński	subst:sg:gen:m1	nazwisko	
+Kamińskie	Kamiński	depr:pl:acc:m2	nazwisko	
 Kamińskie	Kamiński	depr:pl:nom:m2	nazwisko	
 Kamińskie	Kamiński	depr:pl:voc:m2	nazwisko	
 Kamińskiemu	Kamiński	subst:sg:dat:m1	nazwisko	
@@ -1691,6 +1746,7 @@ Kammsetzerowie	Kammsetzer	subst:pl:voc:m1	nazwisko
 Kammsetzerowi	Kammsetzer	subst:sg:dat:m1	nazwisko	
 Kammsetzerów	Kammsetzer	subst:pl:acc:m1	nazwisko	
 Kammsetzerów	Kammsetzer	subst:pl:gen:m1	nazwisko	
+Kammsetzery	Kammsetzer	depr:pl:acc:m2	nazwisko	
 Kammsetzery	Kammsetzer	depr:pl:nom:m2	nazwisko	
 Kammsetzery	Kammsetzer	depr:pl:voc:m2	nazwisko	
 Kammsetzerze	Kammsetzer	subst:sg:loc:m1	nazwisko	
@@ -1753,6 +1809,7 @@ Kampuczaninowi	Kampuczanin	subst:sg:dat:m1	nazwa pospolita
 Kampuczan	Kampuczanin	subst:pl:acc:m1	nazwa pospolita	
 Kampuczan	Kampuczanin	subst:pl:gen:m1	nazwa pospolita	
 Kampuczanom	Kampuczanin	subst:pl:dat:m1	nazwa pospolita	
+Kampuczany	Kampuczanin	depr:pl:acc:m2	nazwa pospolita	
 Kampuczany	Kampuczanin	depr:pl:nom:m2	nazwa pospolita	
 Kampuczany	Kampuczanin	depr:pl:voc:m2	nazwa pospolita	
 Kanadach	Kanada	subst:pl:loc:f	nazwa geograficzna	
@@ -1776,6 +1833,7 @@ Kanadyjczyka	Kanadyjczyk	subst:sg:acc:m1	nazwa pospolita
 Kanadyjczyka	Kanadyjczyk	subst:sg:gen:m1	nazwa pospolita	
 Kanadyjczykami	Kanadyjczyk	subst:pl:inst:m1	nazwa pospolita	
 Kanadyjczykiem	Kanadyjczyk	subst:sg:inst:m1	nazwa pospolita	
+Kanadyjczyki	Kanadyjczyk	depr:pl:acc:m2	nazwa pospolita	
 Kanadyjczyki	Kanadyjczyk	depr:pl:nom:m2	nazwa pospolita	
 Kanadyjczyki	Kanadyjczyk	depr:pl:voc:m2	nazwa pospolita	
 Kanadyjczyk	Kanadyjczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -1806,6 +1864,7 @@ Kandinskich	Kandinsky	subst:pl:gen:m1	nazwisko
 Kandinskich	Kandinsky	subst:pl:loc:m1	nazwisko	
 Kandinskiego	Kandinsky	subst:sg:acc:m1	nazwisko	
 Kandinskiego	Kandinsky	subst:sg:gen:m1	nazwisko	
+Kandinskie	Kandinsky	depr:pl:acc:m2	nazwisko	
 Kandinskie	Kandinsky	depr:pl:nom:m2	nazwisko	
 Kandinskie	Kandinsky	depr:pl:voc:m2	nazwisko	
 Kandinskiemu	Kandinsky	subst:sg:dat:m1	nazwisko	
@@ -1830,6 +1889,7 @@ Kandydowie	Kandyd	subst:pl:voc:m1	imię
 Kandydowi	Kandyd	subst:sg:dat:m1	imię	
 Kandydów	Kandyd	subst:pl:acc:m1	imię	
 Kandydów	Kandyd	subst:pl:gen:m1	imię	
+Kandydy	Kandyd	depr:pl:acc:m2	imię	
 Kandydy	Kandyd	depr:pl:nom:m2	imię	
 Kandydy	Kandyd	depr:pl:voc:m2	imię	
 Kandydzie	Kandyd	subst:sg:loc:m1	imię	
@@ -1840,6 +1900,7 @@ Kaniach	Kania	subst:pl:loc:m1	nazwisko
 Kania	Kania	subst:sg:nom:m1	nazwisko	
 Kaniami	Kania	subst:pl:inst:m1	nazwisko	
 Kanią	Kania	subst:sg:inst:m1	nazwisko	
+Kanie	Kania	depr:pl:acc:m2	nazwisko	
 Kanie	Kania	depr:pl:nom:m2	nazwisko	
 Kanie	Kania	depr:pl:voc:m2	nazwisko	
 Kanię	Kania	subst:sg:acc:m1	nazwisko	
@@ -1873,6 +1934,7 @@ Kaniewskich	Kaniewski	subst:pl:gen:m1	nazwisko
 Kaniewskich	Kaniewski	subst:pl:loc:m1	nazwisko	
 Kaniewskiego	Kaniewski	subst:sg:acc:m1	nazwisko	
 Kaniewskiego	Kaniewski	subst:sg:gen:m1	nazwisko	
+Kaniewskie	Kaniewski	depr:pl:acc:m2	nazwisko	
 Kaniewskie	Kaniewski	depr:pl:nom:m2	nazwisko	
 Kaniewskie	Kaniewski	depr:pl:voc:m2	nazwisko	
 Kaniewskiemu	Kaniewski	subst:sg:dat:m1	nazwisko	
@@ -1901,6 +1963,7 @@ Kanizjuszach	Kanizjusz	subst:pl:loc:m1	imię
 Kanizjusza	Kanizjusz	subst:sg:acc:m1	imię	
 Kanizjusza	Kanizjusz	subst:sg:gen:m1	imię	
 Kanizjuszami	Kanizjusz	subst:pl:inst:m1	imię	
+Kanizjusze	Kanizjusz	depr:pl:acc:m2	imię	
 Kanizjusze	Kanizjusz	depr:pl:nom:m2	imię	
 Kanizjusze	Kanizjusz	depr:pl:voc:m2	imię	
 Kanizjusze	Kanizjusz	subst:pl:nom:m1	imię	
@@ -1973,6 +2036,7 @@ Kantowie	Kant	subst:pl:voc:m1	nazwisko
 Kantowi	Kant	subst:sg:dat:m1	nazwisko	
 Kantów	Kant	subst:pl:acc:m1	nazwisko	
 Kantów	Kant	subst:pl:gen:m1	nazwisko	
+Kanty	Kant	depr:pl:acc:m2	nazwisko	
 Kanty	Kant	depr:pl:nom:m2	nazwisko	
 Kanty	Kant	depr:pl:voc:m2	nazwisko	
 Kantorach	Kantor	subst:pl:loc:m1	nazwisko	
@@ -1987,12 +2051,14 @@ Kantorowie	Kantor	subst:pl:voc:m1	nazwisko
 Kantorowi	Kantor	subst:sg:dat:m1	nazwisko	
 Kantorów	Kantor	subst:pl:acc:m1	nazwisko	
 Kantorów	Kantor	subst:pl:gen:m1	nazwisko	
+Kantory	Kantor	depr:pl:acc:m2	nazwisko	
 Kantory	Kantor	depr:pl:nom:m2	nazwisko	
 Kantory	Kantor	depr:pl:voc:m2	nazwisko	
 Kantorze	Kantor	subst:sg:loc:m1	nazwisko	
 Kantorze	Kantor	subst:sg:voc:m1	nazwisko	
 Kantego	Kanty	subst:sg:acc:m1	imię	
 Kantego	Kanty	subst:sg:gen:m1	imię	
+Kante	Kanty	depr:pl:acc:m2	imię	
 Kante	Kanty	depr:pl:nom:m2	imię	
 Kante	Kanty	depr:pl:voc:m2	imię	
 Kantemu	Kanty	subst:sg:dat:m1	imię	
@@ -2023,6 +2089,7 @@ Kanutowie	Kanut	subst:pl:voc:m1	imię
 Kanutowi	Kanut	subst:sg:dat:m1	imię	
 Kanutów	Kanut	subst:pl:acc:m1	imię	
 Kanutów	Kanut	subst:pl:gen:m1	imię	
+Kanuty	Kanut	depr:pl:acc:m2	imię	
 Kanuty	Kanut	depr:pl:nom:m2	imię	
 Kanuty	Kanut	depr:pl:voc:m2	imię	
 Kańczudze	Kańczuga	subst:sg:dat:f	nazwa geograficzna	
@@ -2060,6 +2127,7 @@ Kapczyńskich	Kapczyński	subst:pl:gen:m1	nazwisko
 Kapczyńskich	Kapczyński	subst:pl:loc:m1	nazwisko	
 Kapczyńskiego	Kapczyński	subst:sg:acc:m1	nazwisko	
 Kapczyńskiego	Kapczyński	subst:sg:gen:m1	nazwisko	
+Kapczyńskie	Kapczyński	depr:pl:acc:m2	nazwisko	
 Kapczyńskie	Kapczyński	depr:pl:nom:m2	nazwisko	
 Kapczyńskie	Kapczyński	depr:pl:voc:m2	nazwisko	
 Kapczyńskiemu	Kapczyński	subst:sg:dat:m1	nazwisko	
@@ -2085,6 +2153,7 @@ Kapelusznymi	Kapeluszna	subst:pl:inst:f	nazwisko
 Kapelusznym	Kapeluszna	subst:pl:dat:f	nazwisko	
 Kapelusznego	Kapeluszny	subst:sg:acc:m1	nazwisko	
 Kapelusznego	Kapeluszny	subst:sg:gen:m1	nazwisko	
+Kapeluszne	Kapeluszny	depr:pl:acc:m2	nazwisko	
 Kapeluszne	Kapeluszny	depr:pl:nom:m2	nazwisko	
 Kapeluszne	Kapeluszny	depr:pl:voc:m2	nazwisko	
 Kapelusznemu	Kapeluszny	subst:sg:dat:m1	nazwisko	
@@ -2104,6 +2173,7 @@ Kapetynga	Kapetyng	subst:sg:acc:m1	nazwa członka rodu	hist.
 Kapetynga	Kapetyng	subst:sg:gen:m1	nazwa członka rodu	hist.
 Kapetyngami	Kapetyng	subst:pl:inst:m1	nazwa członka rodu	hist.
 Kapetyngiem	Kapetyng	subst:sg:inst:m1	nazwa członka rodu	hist.
+Kapetyngi	Kapetyng	depr:pl:acc:m2	nazwa członka rodu	hist.
 Kapetyngi	Kapetyng	depr:pl:nom:m2	nazwa członka rodu	hist.
 Kapetyngi	Kapetyng	depr:pl:voc:m2	nazwa członka rodu	hist.
 Kapetyng	Kapetyng	subst:sg:nom:m1	nazwa członka rodu	hist.
@@ -2165,6 +2235,7 @@ Kapuścińskich	Kapuściński	subst:pl:gen:m1	nazwisko
 Kapuścińskich	Kapuściński	subst:pl:loc:m1	nazwisko	
 Kapuścińskiego	Kapuściński	subst:sg:acc:m1	nazwisko	
 Kapuścińskiego	Kapuściński	subst:sg:gen:m1	nazwisko	
+Kapuścińskie	Kapuściński	depr:pl:acc:m2	nazwisko	
 Kapuścińskie	Kapuściński	depr:pl:nom:m2	nazwisko	
 Kapuścińskie	Kapuściński	depr:pl:voc:m2	nazwisko	
 Kapuścińskiemu	Kapuściński	subst:sg:dat:m1	nazwisko	
@@ -2216,8 +2287,16 @@ Karaibowie	Karaib	subst:pl:voc:m1	nazwa pospolita
 Karaibowi	Karaib	subst:sg:dat:m1	nazwa pospolita	
 Karaibów	Karaib	subst:pl:acc:m1	nazwa pospolita	
 Karaibów	Karaib	subst:pl:gen:m1	nazwa pospolita	
+Karaiby	Karaib	depr:pl:acc:m2	nazwa pospolita	
 Karaiby	Karaib	depr:pl:nom:m2	nazwa pospolita	
 Karaiby	Karaib	depr:pl:voc:m2	nazwa pospolita	
+Karaibach	Karaiby	subst:pl:loc:n:pt	nazwa geograficzna	
+Karaibami	Karaiby	subst:pl:inst:n:pt	nazwa geograficzna	
+Karaibom	Karaiby	subst:pl:dat:n:pt	nazwa geograficzna	
+Karaibów	Karaiby	subst:pl:gen:n:pt	nazwa geograficzna	
+Karaiby	Karaiby	subst:pl:acc:n:pt	nazwa geograficzna	
+Karaiby	Karaiby	subst:pl:nom:n:pt	nazwa geograficzna	
+Karaiby	Karaiby	subst:pl:voc:n:pt	nazwa geograficzna	
 Karaimach	Karaim	subst:pl:loc:m1	nazwa pospolita	
 Karaima	Karaim	subst:sg:acc:m1	nazwa pospolita	
 Karaima	Karaim	subst:sg:gen:m1	nazwa pospolita	
@@ -2234,6 +2313,7 @@ Karaimowie	Karaim	subst:pl:voc:m1	nazwa pospolita
 Karaimowi	Karaim	subst:sg:dat:m1	nazwa pospolita	
 Karaimów	Karaim	subst:pl:acc:m1	nazwa pospolita	
 Karaimów	Karaim	subst:pl:gen:m1	nazwa pospolita	
+Karaimy	Karaim	depr:pl:acc:m2	nazwa pospolita	
 Karaimy	Karaim	depr:pl:nom:m2	nazwa pospolita	
 Karaimy	Karaim	depr:pl:voc:m2	nazwa pospolita	
 Karaimce	Karaimka	subst:sg:dat:f	nazwa pospolita	
@@ -2263,6 +2343,7 @@ Karaito	Karaita	subst:sg:voc:m1	nazwa pospolita
 Karaitom	Karaita	subst:pl:dat:m1	nazwa pospolita	
 Karaitów	Karaita	subst:pl:acc:m1	nazwa pospolita	
 Karaitów	Karaita	subst:pl:gen:m1	nazwa pospolita	
+Karaity	Karaita	depr:pl:acc:m2	nazwa pospolita	
 Karaity	Karaita	depr:pl:nom:m2	nazwa pospolita	
 Karaity	Karaita	depr:pl:voc:m2	nazwa pospolita	
 Karaity	Karaita	subst:sg:gen:m1	nazwa pospolita	
@@ -2280,6 +2361,7 @@ Karajanowie	Karajan	subst:pl:voc:m1	nazwisko
 Karajanowi	Karajan	subst:sg:dat:m1	nazwisko	
 Karajanów	Karajan	subst:pl:acc:m1	nazwisko	
 Karajanów	Karajan	subst:pl:gen:m1	nazwisko	
+Karajany	Karajan	depr:pl:acc:m2	nazwisko	
 Karajany	Karajan	depr:pl:nom:m2	nazwisko	
 Karajany	Karajan	depr:pl:voc:m2	nazwisko	
 Karakałpacjach	Karakałpacja	subst:pl:loc:f	nazwa geograficzna	
@@ -2365,6 +2447,7 @@ Karamazowowie	Karamazow	subst:pl:voc:m1	nazwisko
 Karamazowowi	Karamazow	subst:sg:dat:m1	nazwisko	
 Karamazowów	Karamazow	subst:pl:acc:m1	nazwisko	
 Karamazowów	Karamazow	subst:pl:gen:m1	nazwisko	
+Karamazowy	Karamazow	depr:pl:acc:m2	nazwisko	
 Karamazowy	Karamazow	depr:pl:nom:m2	nazwisko	
 Karamazowy	Karamazow	depr:pl:voc:m2	nazwisko	
 Karasińska	Karasińska	subst:sg:nom:f	nazwisko	
@@ -2388,6 +2471,7 @@ Karasińskich	Karasiński	subst:pl:gen:m1	nazwisko
 Karasińskich	Karasiński	subst:pl:loc:m1	nazwisko	
 Karasińskiego	Karasiński	subst:sg:acc:m1	nazwisko	
 Karasińskiego	Karasiński	subst:sg:gen:m1	nazwisko	
+Karasińskie	Karasiński	depr:pl:acc:m2	nazwisko	
 Karasińskie	Karasiński	depr:pl:nom:m2	nazwisko	
 Karasińskie	Karasiński	depr:pl:voc:m2	nazwisko	
 Karasińskiemu	Karasiński	subst:sg:dat:m1	nazwisko	
@@ -2418,6 +2502,7 @@ Karczewskich	Karczewski	subst:pl:gen:m1	nazwisko
 Karczewskich	Karczewski	subst:pl:loc:m1	nazwisko	
 Karczewskiego	Karczewski	subst:sg:acc:m1	nazwisko	
 Karczewskiego	Karczewski	subst:sg:gen:m1	nazwisko	
+Karczewskie	Karczewski	depr:pl:acc:m2	nazwisko	
 Karczewskie	Karczewski	depr:pl:nom:m2	nazwisko	
 Karczewskie	Karczewski	depr:pl:voc:m2	nazwisko	
 Karczewskiemu	Karczewski	subst:sg:dat:m1	nazwisko	
@@ -2548,6 +2633,7 @@ Karkowskich	Karkowski	subst:pl:gen:m1	nazwisko
 Karkowskich	Karkowski	subst:pl:loc:m1	nazwisko	
 Karkowskiego	Karkowski	subst:sg:acc:m1	nazwisko	
 Karkowskiego	Karkowski	subst:sg:gen:m1	nazwisko	
+Karkowskie	Karkowski	depr:pl:acc:m2	nazwisko	
 Karkowskie	Karkowski	depr:pl:nom:m2	nazwisko	
 Karkowskie	Karkowski	depr:pl:voc:m2	nazwisko	
 Karkowskiemu	Karkowski	subst:sg:dat:m1	nazwisko	
@@ -2561,6 +2647,7 @@ Karlach	Karl	subst:pl:loc:m1	imię
 Karla	Karl	subst:sg:acc:m1	imię	
 Karla	Karl	subst:sg:gen:m1	imię	
 Karlami	Karl	subst:pl:inst:m1	imię	
+Karle	Karl	depr:pl:acc:m2	imię	
 Karle	Karl	depr:pl:nom:m2	imię	
 Karle	Karl	depr:pl:voc:m2	imię	
 Karle	Karl	subst:pl:nom:m1	imię	
@@ -2581,6 +2668,7 @@ Karliczka	Karliczek	subst:sg:acc:m1	imię
 Karliczka	Karliczek	subst:sg:gen:m1	imię	
 Karliczkami	Karliczek	subst:pl:inst:m1	imię	
 Karliczkiem	Karliczek	subst:sg:inst:m1	imię	
+Karliczki	Karliczek	depr:pl:acc:m2	imię	
 Karliczki	Karliczek	depr:pl:nom:m2	imię	
 Karliczki	Karliczek	depr:pl:voc:m2	imię	
 Karliczkom	Karliczek	subst:pl:dat:m1	imię	
@@ -2596,6 +2684,7 @@ Karlika	Karlik	subst:sg:acc:m1	imię
 Karlika	Karlik	subst:sg:gen:m1	imię	
 Karlikami	Karlik	subst:pl:inst:m1	imię	
 Karlikiem	Karlik	subst:sg:inst:m1	imię	
+Karliki	Karlik	depr:pl:acc:m2	imię	
 Karliki	Karlik	depr:pl:nom:m2	imię	
 Karliki	Karlik	depr:pl:voc:m2	imię	
 Karlik	Karlik	subst:sg:nom:m1	imię	
@@ -2611,6 +2700,7 @@ Karłowiczach	Karłowicz	subst:pl:loc:m1	nazwisko
 Karłowicza	Karłowicz	subst:sg:acc:m1	nazwisko	
 Karłowicza	Karłowicz	subst:sg:gen:m1	nazwisko	
 Karłowiczami	Karłowicz	subst:pl:inst:m1	nazwisko	
+Karłowicze	Karłowicz	depr:pl:acc:m2	nazwisko	
 Karłowicze	Karłowicz	depr:pl:nom:m2	nazwisko	
 Karłowicze	Karłowicz	depr:pl:voc:m2	nazwisko	
 Karłowicze	Karłowicz	subst:pl:nom:m1	nazwisko	
@@ -2671,6 +2761,7 @@ Karolach	Karol	subst:pl:loc:m1	imię
 Karola	Karol	subst:sg:acc:m1	imię	
 Karola	Karol	subst:sg:gen:m1	imię	
 Karolami	Karol	subst:pl:inst:m1	imię	
+Karole	Karol	depr:pl:acc:m2	imię	
 Karole	Karol	depr:pl:nom:m2	imię	
 Karole	Karol	depr:pl:voc:m2	imię	
 Karole	Karol	subst:pl:nom:m1	imię	
@@ -2690,6 +2781,7 @@ Karolaka	Karolak	subst:sg:acc:m1	nazwisko
 Karolaka	Karolak	subst:sg:gen:m1	nazwisko	
 Karolakami	Karolak	subst:pl:inst:m1	nazwisko	
 Karolakiem	Karolak	subst:sg:inst:m1	nazwisko	
+Karolaki	Karolak	depr:pl:acc:m2	nazwisko	
 Karolaki	Karolak	depr:pl:nom:m2	nazwisko	
 Karolaki	Karolak	depr:pl:voc:m2	nazwisko	
 Karolak	Karolak	subst:sg:nom:m1	nazwisko	
@@ -2722,6 +2814,7 @@ Karolka	Karolek	subst:sg:acc:m1	imię
 Karolka	Karolek	subst:sg:gen:m1	imię	
 Karolkami	Karolek	subst:pl:inst:m1	imię	
 Karolkiem	Karolek	subst:sg:inst:m1	imię	
+Karolki	Karolek	depr:pl:acc:m2	imię	
 Karolki	Karolek	depr:pl:nom:m2	imię	
 Karolki	Karolek	depr:pl:voc:m2	imię	
 Karolkom	Karolek	subst:pl:dat:m1	imię	
@@ -2748,6 +2841,7 @@ Karolinowie	Karolin	subst:pl:voc:m1	imię
 Karolinowi	Karolin	subst:sg:dat:m1	imię	
 Karolinów	Karolin	subst:pl:acc:m1	imię	
 Karolinów	Karolin	subst:pl:gen:m1	imię	
+Karoliny	Karolin	depr:pl:acc:m2	imię	
 Karoliny	Karolin	depr:pl:nom:m2	imię	
 Karoliny	Karolin	depr:pl:voc:m2	imię	
 Karolinach	Karolina	subst:pl:loc:f	imię	
@@ -2769,6 +2863,7 @@ Karolinga	Karoling	subst:sg:acc:m1	nazwa członka rodu
 Karolinga	Karoling	subst:sg:gen:m1	nazwa członka rodu	
 Karolingami	Karoling	subst:pl:inst:m1	nazwa członka rodu	
 Karolingiem	Karoling	subst:sg:inst:m1	nazwa członka rodu	
+Karolingi	Karoling	depr:pl:acc:m2	nazwa członka rodu	
 Karolingi	Karoling	depr:pl:nom:m2	nazwa członka rodu	
 Karolingi	Karoling	depr:pl:voc:m2	nazwa członka rodu	
 Karoling	Karoling	subst:sg:nom:m1	nazwa członka rodu	
@@ -2826,6 +2921,7 @@ Karpiach	Karp	subst:pl:loc:m1	imię
 Karpia	Karp	subst:sg:acc:m1	imię	
 Karpia	Karp	subst:sg:gen:m1	imię	
 Karpiami	Karp	subst:pl:inst:m1	imię	
+Karpie	Karp	depr:pl:acc:m2	imię	
 Karpie	Karp	depr:pl:nom:m2	imię	
 Karpie	Karp	depr:pl:voc:m2	imię	
 Karpie	Karp	subst:pl:nom:m1	imię	
@@ -2901,6 +2997,7 @@ Karpińskich	Karpiński	subst:pl:gen:m1	nazwisko
 Karpińskich	Karpiński	subst:pl:loc:m1	nazwisko	
 Karpińskiego	Karpiński	subst:sg:acc:m1	nazwisko	
 Karpińskiego	Karpiński	subst:sg:gen:m1	nazwisko	
+Karpińskie	Karpiński	depr:pl:acc:m2	nazwisko	
 Karpińskie	Karpiński	depr:pl:nom:m2	nazwisko	
 Karpińskie	Karpiński	depr:pl:voc:m2	nazwisko	
 Karpińskiemu	Karpiński	subst:sg:dat:m1	nazwisko	
@@ -2924,12 +3021,14 @@ Karpowowie	Karpow	subst:pl:voc:m1	nazwisko
 Karpowowi	Karpow	subst:sg:dat:m1	nazwisko	
 Karpowów	Karpow	subst:pl:acc:m1	nazwisko	
 Karpowów	Karpow	subst:pl:gen:m1	nazwisko	
+Karpowy	Karpow	depr:pl:acc:m2	nazwisko	
 Karpowy	Karpow	depr:pl:nom:m2	nazwisko	
 Karpowy	Karpow	depr:pl:voc:m2	nazwisko	
 Karpowiczach	Karpowicz	subst:pl:loc:m1	nazwisko	
 Karpowicza	Karpowicz	subst:sg:acc:m1	nazwisko	
 Karpowicza	Karpowicz	subst:sg:gen:m1	nazwisko	
 Karpowiczami	Karpowicz	subst:pl:inst:m1	nazwisko	
+Karpowicze	Karpowicz	depr:pl:acc:m2	nazwisko	
 Karpowicze	Karpowicz	depr:pl:nom:m2	nazwisko	
 Karpowicze	Karpowicz	depr:pl:voc:m2	nazwisko	
 Karpowicze	Karpowicz	subst:pl:nom:m1	nazwisko	
@@ -2962,6 +3061,7 @@ Kartezjuszach	Kartezjusz	subst:pl:loc:m1	nazwisko
 Kartezjusza	Kartezjusz	subst:sg:acc:m1	nazwisko	
 Kartezjusza	Kartezjusz	subst:sg:gen:m1	nazwisko	
 Kartezjuszami	Kartezjusz	subst:pl:inst:m1	nazwisko	
+Kartezjusze	Kartezjusz	depr:pl:acc:m2	nazwisko	
 Kartezjusze	Kartezjusz	depr:pl:nom:m2	nazwisko	
 Kartezjusze	Kartezjusz	depr:pl:voc:m2	nazwisko	
 Kartezjusze	Kartezjusz	subst:pl:nom:m1	nazwisko	
@@ -3012,6 +3112,7 @@ Karwowskich	Karwowski	subst:pl:gen:m1	nazwisko
 Karwowskich	Karwowski	subst:pl:loc:m1	nazwisko	
 Karwowskiego	Karwowski	subst:sg:acc:m1	nazwisko	
 Karwowskiego	Karwowski	subst:sg:gen:m1	nazwisko	
+Karwowskie	Karwowski	depr:pl:acc:m2	nazwisko	
 Karwowskie	Karwowski	depr:pl:nom:m2	nazwisko	
 Karwowskie	Karwowski	depr:pl:voc:m2	nazwisko	
 Karwowskiemu	Karwowski	subst:sg:dat:m1	nazwisko	
@@ -3070,6 +3171,7 @@ Kasicach	Kasica	subst:pl:loc:m1	nazwisko
 Kasica	Kasica	subst:sg:nom:m1	nazwisko	
 Kasicami	Kasica	subst:pl:inst:m1	nazwisko	
 Kasicą	Kasica	subst:sg:inst:m1	nazwisko	
+Kasice	Kasica	depr:pl:acc:m2	nazwisko	
 Kasice	Kasica	depr:pl:nom:m2	nazwisko	
 Kasice	Kasica	depr:pl:voc:m2	nazwisko	
 Kasicę	Kasica	subst:sg:acc:m1	nazwisko	
@@ -3131,6 +3233,7 @@ Kasińskich	Kasiński	subst:pl:gen:m1	nazwisko
 Kasińskich	Kasiński	subst:pl:loc:m1	nazwisko	
 Kasińskiego	Kasiński	subst:sg:acc:m1	nazwisko	
 Kasińskiego	Kasiński	subst:sg:gen:m1	nazwisko	
+Kasińskie	Kasiński	depr:pl:acc:m2	nazwisko	
 Kasińskie	Kasiński	depr:pl:nom:m2	nazwisko	
 Kasińskie	Kasiński	depr:pl:voc:m2	nazwisko	
 Kasińskiemu	Kasiński	subst:sg:dat:m1	nazwisko	
@@ -3156,12 +3259,14 @@ Kasjanowie	Kasjan	subst:pl:voc:m1	imię
 Kasjanowi	Kasjan	subst:sg:dat:m1	imię	
 Kasjanów	Kasjan	subst:pl:acc:m1	imię	
 Kasjanów	Kasjan	subst:pl:gen:m1	imię	
+Kasjany	Kasjan	depr:pl:acc:m2	imię	
 Kasjany	Kasjan	depr:pl:nom:m2	imię	
 Kasjany	Kasjan	depr:pl:voc:m2	imię	
 Kasjuszach	Kasjusz	subst:pl:loc:m1	imię	
 Kasjusza	Kasjusz	subst:sg:acc:m1	imię	
 Kasjusza	Kasjusz	subst:sg:gen:m1	imię	
 Kasjuszami	Kasjusz	subst:pl:inst:m1	imię	
+Kasjusze	Kasjusz	depr:pl:acc:m2	imię	
 Kasjusze	Kasjusz	depr:pl:nom:m2	imię	
 Kasjusze	Kasjusz	depr:pl:voc:m2	imię	
 Kasjusze	Kasjusz	subst:pl:nom:m1	imię	
@@ -3190,6 +3295,7 @@ Kasparowowie	Kasparow	subst:pl:voc:m1	nazwisko
 Kasparowowi	Kasparow	subst:sg:dat:m1	nazwisko	
 Kasparowów	Kasparow	subst:pl:acc:m1	nazwisko	
 Kasparowów	Kasparow	subst:pl:gen:m1	nazwisko	
+Kasparowy	Kasparow	depr:pl:acc:m2	nazwisko	
 Kasparowy	Kasparow	depr:pl:nom:m2	nazwisko	
 Kasparowy	Kasparow	depr:pl:voc:m2	nazwisko	
 Kasper	Kasper	subst:sg:nom:m1	imię	
@@ -3204,6 +3310,7 @@ Kasprowie	Kasper	subst:pl:voc:m1	imię
 Kasprowi	Kasper	subst:sg:dat:m1	imię	
 Kasprów	Kasper	subst:pl:acc:m1	imię	
 Kasprów	Kasper	subst:pl:gen:m1	imię	
+Kaspry	Kasper	depr:pl:acc:m2	imię	
 Kaspry	Kasper	depr:pl:nom:m2	imię	
 Kaspry	Kasper	depr:pl:voc:m2	imię	
 Kasprze	Kasper	subst:sg:loc:m1	imię	
@@ -3214,6 +3321,7 @@ Kasperka	Kasperek	subst:sg:acc:m1	imię
 Kasperka	Kasperek	subst:sg:gen:m1	imię	
 Kasperkami	Kasperek	subst:pl:inst:m1	imię	
 Kasperkiem	Kasperek	subst:sg:inst:m1	imię	
+Kasperki	Kasperek	depr:pl:acc:m2	imię	
 Kasperki	Kasperek	depr:pl:nom:m2	imię	
 Kasperki	Kasperek	depr:pl:voc:m2	imię	
 Kasperkom	Kasperek	subst:pl:dat:m1	imię	
@@ -3228,6 +3336,7 @@ Kasprowiczach	Kasprowicz	subst:pl:loc:m1	nazwisko
 Kasprowicza	Kasprowicz	subst:sg:acc:m1	nazwisko	
 Kasprowicza	Kasprowicz	subst:sg:gen:m1	nazwisko	
 Kasprowiczami	Kasprowicz	subst:pl:inst:m1	nazwisko	
+Kasprowicze	Kasprowicz	depr:pl:acc:m2	nazwisko	
 Kasprowicze	Kasprowicz	depr:pl:nom:m2	nazwisko	
 Kasprowicze	Kasprowicz	depr:pl:voc:m2	nazwisko	
 Kasprowicze	Kasprowicz	subst:pl:nom:m1	nazwisko	
@@ -3260,6 +3369,7 @@ Kasprusiach	Kaspruś	subst:pl:loc:m1	imię
 Kasprusia	Kaspruś	subst:sg:acc:m1	imię	
 Kasprusia	Kaspruś	subst:sg:gen:m1	imię	
 Kasprusiami	Kaspruś	subst:pl:inst:m1	imię	
+Kasprusie	Kaspruś	depr:pl:acc:m2	imię	
 Kasprusie	Kaspruś	depr:pl:nom:m2	imię	
 Kasprusie	Kaspruś	depr:pl:voc:m2	imię	
 Kasprusie	Kaspruś	subst:pl:nom:m1	imię	
@@ -3279,6 +3389,7 @@ Kasprzaka	Kasprzak	subst:sg:acc:m1	nazwisko
 Kasprzaka	Kasprzak	subst:sg:gen:m1	nazwisko	
 Kasprzakami	Kasprzak	subst:pl:inst:m1	nazwisko	
 Kasprzakiem	Kasprzak	subst:sg:inst:m1	nazwisko	
+Kasprzaki	Kasprzak	depr:pl:acc:m2	nazwisko	
 Kasprzaki	Kasprzak	depr:pl:nom:m2	nazwisko	
 Kasprzaki	Kasprzak	depr:pl:voc:m2	nazwisko	
 Kasprzak	Kasprzak	subst:sg:nom:m1	nazwisko	
@@ -3295,6 +3406,7 @@ Kasprzyka	Kasprzyk	subst:sg:acc:m1	nazwisko
 Kasprzyka	Kasprzyk	subst:sg:gen:m1	nazwisko	
 Kasprzykami	Kasprzyk	subst:pl:inst:m1	nazwisko	
 Kasprzykiem	Kasprzyk	subst:sg:inst:m1	nazwisko	
+Kasprzyki	Kasprzyk	depr:pl:acc:m2	nazwisko	
 Kasprzyki	Kasprzyk	depr:pl:nom:m2	nazwisko	
 Kasprzyki	Kasprzyk	depr:pl:voc:m2	nazwisko	
 Kasprzyk	Kasprzyk	subst:sg:nom:m1	nazwisko	
@@ -3318,6 +3430,7 @@ Kastorowie	Kastor	subst:pl:voc:m1	imię	mit.
 Kastorowi	Kastor	subst:sg:dat:m1	imię	mit.
 Kastorów	Kastor	subst:pl:acc:m1	imię	mit.
 Kastorów	Kastor	subst:pl:gen:m1	imię	mit.
+Kastory	Kastor	depr:pl:acc:m2	imię	mit.
 Kastory	Kastor	depr:pl:nom:m2	imię	mit.
 Kastory	Kastor	depr:pl:voc:m2	imię	mit.
 Kastorze	Kastor	subst:sg:loc:m1	imię	mit.
@@ -3382,6 +3495,7 @@ Kaszubom	Kaszub	subst:pl:dat:m1	nazwa pospolita
 Kaszubowi	Kaszub	subst:sg:dat:m1	nazwa pospolita	
 Kaszubów	Kaszub	subst:pl:acc:m1	nazwa pospolita	
 Kaszubów	Kaszub	subst:pl:gen:m1	nazwa pospolita	
+Kaszuby	Kaszub	depr:pl:acc:m2	nazwa pospolita	
 Kaszuby	Kaszub	depr:pl:nom:m2	nazwa pospolita	
 Kaszuby	Kaszub	depr:pl:voc:m2	nazwa pospolita	
 Kaszubach	Kaszuba	subst:pl:loc:m1	nazwa pospolita	
@@ -3397,6 +3511,7 @@ Kaszubo	Kaszuba	subst:sg:voc:m1	nazwa pospolita
 Kaszubom	Kaszuba	subst:pl:dat:m1	nazwa pospolita	
 Kaszubów	Kaszuba	subst:pl:acc:m1	nazwa pospolita	
 Kaszubów	Kaszuba	subst:pl:gen:m1	nazwa pospolita	
+Kaszuby	Kaszuba	depr:pl:acc:m2	nazwa pospolita	
 Kaszuby	Kaszuba	depr:pl:nom:m2	nazwa pospolita	
 Kaszuby	Kaszuba	depr:pl:voc:m2	nazwa pospolita	
 Kaszuby	Kaszuba	subst:sg:gen:m1	nazwa pospolita	
@@ -3449,6 +3564,7 @@ Kaszyńskich	Kaszyński	subst:pl:gen:m1	nazwisko
 Kaszyńskich	Kaszyński	subst:pl:loc:m1	nazwisko	
 Kaszyńskiego	Kaszyński	subst:sg:acc:m1	nazwisko	
 Kaszyńskiego	Kaszyński	subst:sg:gen:m1	nazwisko	
+Kaszyńskie	Kaszyński	depr:pl:acc:m2	nazwisko	
 Kaszyńskie	Kaszyński	depr:pl:nom:m2	nazwisko	
 Kaszyńskie	Kaszyński	depr:pl:voc:m2	nazwisko	
 Kaszyńskiemu	Kaszyński	subst:sg:dat:m1	nazwisko	
@@ -3508,6 +3624,7 @@ Katalończyka	Katalończyk	subst:sg:acc:m1	nazwa pospolita
 Katalończyka	Katalończyk	subst:sg:gen:m1	nazwa pospolita	
 Katalończykami	Katalończyk	subst:pl:inst:m1	nazwa pospolita	
 Katalończykiem	Katalończyk	subst:sg:inst:m1	nazwa pospolita	
+Katalończyki	Katalończyk	depr:pl:acc:m2	nazwa pospolita	
 Katalończyki	Katalończyk	depr:pl:nom:m2	nazwa pospolita	
 Katalończyki	Katalończyk	depr:pl:voc:m2	nazwa pospolita	
 Katalończyk	Katalończyk	subst:sg:nom:m1	nazwa pospolita	
@@ -3553,6 +3670,7 @@ Katarczyka	Katarczyk	subst:sg:acc:m1	nazwa pospolita
 Katarczyka	Katarczyk	subst:sg:gen:m1	nazwa pospolita	
 Katarczykami	Katarczyk	subst:pl:inst:m1	nazwa pospolita	
 Katarczykiem	Katarczyk	subst:sg:inst:m1	nazwa pospolita	
+Katarczyki	Katarczyk	depr:pl:acc:m2	nazwa pospolita	
 Katarczyki	Katarczyk	depr:pl:nom:m2	nazwa pospolita	
 Katarczyki	Katarczyk	depr:pl:voc:m2	nazwa pospolita	
 Katarczyk	Katarczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -3605,6 +3723,7 @@ Katonowie	Kato	subst:pl:voc:m1	imię
 Katonowi	Kato	subst:sg:dat:m1	imię	
 Katonów	Kato	subst:pl:acc:m1	imię	
 Katonów	Kato	subst:pl:gen:m1	imię	
+Katony	Kato	depr:pl:acc:m2	imię	
 Katony	Kato	depr:pl:nom:m2	imię	
 Katony	Kato	depr:pl:voc:m2	imię	
 Katonach	Katon	subst:pl:loc:m1	imię	
@@ -3623,6 +3742,7 @@ Katonowie	Katon	subst:pl:voc:m1	imię
 Katonowi	Katon	subst:sg:dat:m1	imię	
 Katonów	Katon	subst:pl:acc:m1	imię	
 Katonów	Katon	subst:pl:gen:m1	imię	
+Katony	Katon	depr:pl:acc:m2	imię	
 Katony	Katon	depr:pl:nom:m2	imię	
 Katony	Katon	depr:pl:voc:m2	imię	
 Katowicach	Katowice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -3684,6 +3804,7 @@ Kaufmanowie	Kaufman	subst:pl:voc:m1	imię
 Kaufmanowi	Kaufman	subst:sg:dat:m1	imię	
 Kaufmanów	Kaufman	subst:pl:acc:m1	imię	
 Kaufmanów	Kaufman	subst:pl:gen:m1	imię	
+Kaufmany	Kaufman	depr:pl:acc:m2	imię	
 Kaufmany	Kaufman	depr:pl:nom:m2	imię	
 Kaufmany	Kaufman	depr:pl:voc:m2	imię	
 Kaukazach	Kaukaz	subst:pl:loc:m3	nazwa geograficzna	
@@ -3704,6 +3825,7 @@ Kawalcach	Kawalec	subst:pl:loc:m1	nazwisko
 Kawalca	Kawalec	subst:sg:acc:m1	nazwisko	
 Kawalca	Kawalec	subst:sg:gen:m1	nazwisko	
 Kawalcami	Kawalec	subst:pl:inst:m1	nazwisko	
+Kawalce	Kawalec	depr:pl:acc:m2	nazwisko	
 Kawalce	Kawalec	depr:pl:nom:m2	nazwisko	
 Kawalce	Kawalec	depr:pl:voc:m2	nazwisko	
 Kawalcem	Kawalec	subst:sg:inst:m1	nazwisko	
@@ -3751,6 +3873,7 @@ Kawczyńskich	Kawczyński	subst:pl:gen:m1	nazwisko
 Kawczyńskich	Kawczyński	subst:pl:loc:m1	nazwisko	
 Kawczyńskiego	Kawczyński	subst:sg:acc:m1	nazwisko	
 Kawczyńskiego	Kawczyński	subst:sg:gen:m1	nazwisko	
+Kawczyńskie	Kawczyński	depr:pl:acc:m2	nazwisko	
 Kawczyńskie	Kawczyński	depr:pl:nom:m2	nazwisko	
 Kawczyńskie	Kawczyński	depr:pl:voc:m2	nazwisko	
 Kawczyńskiemu	Kawczyński	subst:sg:dat:m1	nazwisko	
@@ -3781,6 +3904,7 @@ Kaweckich	Kawecki	subst:pl:gen:m1	nazwisko
 Kaweckich	Kawecki	subst:pl:loc:m1	nazwisko	
 Kaweckiego	Kawecki	subst:sg:acc:m1	nazwisko	
 Kaweckiego	Kawecki	subst:sg:gen:m1	nazwisko	
+Kaweckie	Kawecki	depr:pl:acc:m2	nazwisko	
 Kaweckie	Kawecki	depr:pl:nom:m2	nazwisko	
 Kaweckie	Kawecki	depr:pl:voc:m2	nazwisko	
 Kaweckiemu	Kawecki	subst:sg:dat:m1	nazwisko	
@@ -3832,6 +3956,7 @@ Kazachów	Kazach	subst:pl:acc:m1	nazwa pospolita
 Kazachów	Kazach	subst:pl:gen:m1	nazwa pospolita	
 Kazachu	Kazach	subst:sg:loc:m1	nazwa pospolita	
 Kazachu	Kazach	subst:sg:voc:m1	nazwa pospolita	
+Kazachy	Kazach	depr:pl:acc:m2	nazwa pospolita	
 Kazachy	Kazach	depr:pl:nom:m2	nazwa pospolita	
 Kazachy	Kazach	depr:pl:voc:m2	nazwa pospolita	
 Kazachstanach	Kazachstan	subst:pl:loc:m3	nazwa geograficzna	
@@ -3862,6 +3987,7 @@ Kazanowie	Kazan	subst:pl:voc:m1	nazwisko
 Kazanowi	Kazan	subst:sg:dat:m1	nazwisko	
 Kazanów	Kazan	subst:pl:acc:m1	nazwisko	
 Kazanów	Kazan	subst:pl:gen:m1	nazwisko	
+Kazany	Kazan	depr:pl:acc:m2	nazwisko	
 Kazany	Kazan	depr:pl:nom:m2	nazwisko	
 Kazany	Kazan	depr:pl:voc:m2	nazwisko	
 Kazanowach	Kazanów	subst:pl:loc:m3	nazwa geograficzna	
@@ -3914,6 +4040,7 @@ Kazka	Kazek	subst:sg:acc:m1	imię
 Kazka	Kazek	subst:sg:gen:m1	imię	
 Kazkami	Kazek	subst:pl:inst:m1	imię	
 Kazkiem	Kazek	subst:sg:inst:m1	imię	
+Kazki	Kazek	depr:pl:acc:m2	imię	
 Kazki	Kazek	depr:pl:nom:m2	imię	
 Kazki	Kazek	depr:pl:voc:m2	imię	
 Kazkom	Kazek	subst:pl:dat:m1	imię	
@@ -3944,6 +4071,7 @@ Kazika	Kazik	subst:sg:acc:m1	imię
 Kazika	Kazik	subst:sg:gen:m1	imię	
 Kazikami	Kazik	subst:pl:inst:m1	imię	
 Kazikiem	Kazik	subst:sg:inst:m1	imię	
+Kaziki	Kazik	depr:pl:acc:m2	imię	
 Kaziki	Kazik	depr:pl:nom:m2	imię	
 Kaziki	Kazik	depr:pl:voc:m2	imię	
 Kazik	Kazik	subst:sg:nom:m1	imię	
@@ -3974,6 +4102,7 @@ Kazimierczaka	Kazimierczak	subst:sg:acc:m1	nazwisko
 Kazimierczaka	Kazimierczak	subst:sg:gen:m1	nazwisko	
 Kazimierczakami	Kazimierczak	subst:pl:inst:m1	nazwisko	
 Kazimierczakiem	Kazimierczak	subst:sg:inst:m1	nazwisko	
+Kazimierczaki	Kazimierczak	depr:pl:acc:m2	nazwisko	
 Kazimierczaki	Kazimierczak	depr:pl:nom:m2	nazwisko	
 Kazimierczaki	Kazimierczak	depr:pl:voc:m2	nazwisko	
 Kazimierczak	Kazimierczak	subst:sg:nom:m1	nazwisko	
@@ -4006,6 +4135,7 @@ Kazimierowskich	Kazimierowski	subst:pl:gen:m1	nazwisko
 Kazimierowskich	Kazimierowski	subst:pl:loc:m1	nazwisko	
 Kazimierowskiego	Kazimierowski	subst:sg:acc:m1	nazwisko	
 Kazimierowskiego	Kazimierowski	subst:sg:gen:m1	nazwisko	
+Kazimierowskie	Kazimierowski	depr:pl:acc:m2	nazwisko	
 Kazimierowskie	Kazimierowski	depr:pl:nom:m2	nazwisko	
 Kazimierowskie	Kazimierowski	depr:pl:voc:m2	nazwisko	
 Kazimierowskiemu	Kazimierowski	subst:sg:dat:m1	nazwisko	
@@ -4034,6 +4164,7 @@ Kazimierzach	Kazimierz:s1	subst:pl:loc:m1	imię
 Kazimierza	Kazimierz:s1	subst:sg:acc:m1	imię	
 Kazimierza	Kazimierz:s1	subst:sg:gen:m1	imię	
 Kazimierzami	Kazimierz:s1	subst:pl:inst:m1	imię	
+Kazimierze	Kazimierz:s1	depr:pl:acc:m2	imię	
 Kazimierze	Kazimierz:s1	depr:pl:nom:m2	imię	
 Kazimierze	Kazimierz:s1	depr:pl:voc:m2	imię	
 Kazimierze	Kazimierz:s1	subst:pl:nom:m1	imię	
@@ -4067,6 +4198,7 @@ Kaziach	Kazio	subst:pl:loc:m1	imię
 Kazia	Kazio	subst:sg:acc:m1	imię	
 Kazia	Kazio	subst:sg:gen:m1	imię	
 Kaziami	Kazio	subst:pl:inst:m1	imię	
+Kazie	Kazio	depr:pl:acc:m2	imię	
 Kazie	Kazio	depr:pl:nom:m2	imię	
 Kazie	Kazio	depr:pl:voc:m2	imię	
 Kaziem	Kazio	subst:sg:inst:m1	imię	
@@ -4084,6 +4216,7 @@ Kaziuka	Kaziuk	subst:sg:acc:m1	imię	gwar.
 Kaziuka	Kaziuk	subst:sg:gen:m1	imię	gwar.
 Kaziukami	Kaziuk	subst:pl:inst:m1	imię	gwar.
 Kaziukiem	Kaziuk	subst:sg:inst:m1	imię	gwar.
+Kaziuki	Kaziuk	depr:pl:acc:m2	imię	gwar.
 Kaziuki	Kaziuk	depr:pl:nom:m2	imię	gwar.
 Kaziuki	Kaziuk	depr:pl:voc:m2	imię	gwar.
 Kaziuk	Kaziuk	subst:sg:nom:m1	imię	gwar.
@@ -4114,6 +4247,7 @@ Kazka	Kazko	subst:sg:acc:m1	imię
 Kazka	Kazko	subst:sg:gen:m1	imię	
 Kazkami	Kazko	subst:pl:inst:m1	imię	
 Kazkiem	Kazko	subst:sg:inst:m1	imię	
+Kazki	Kazko	depr:pl:acc:m2	imię	
 Kazki	Kazko	depr:pl:nom:m2	imię	
 Kazki	Kazko	depr:pl:voc:m2	imię	
 Kazko	Kazko	subst:sg:nom:m1	imię	
@@ -4130,6 +4264,7 @@ Kaźka	Kaźko	subst:sg:acc:m1	imię
 Kaźka	Kaźko	subst:sg:gen:m1	imię	
 Kaźkami	Kaźko	subst:pl:inst:m1	imię	
 Kaźkiem	Kaźko	subst:sg:inst:m1	imię	
+Kaźki	Kaźko	depr:pl:acc:m2	imię	
 Kaźki	Kaźko	depr:pl:nom:m2	imię	
 Kaźki	Kaźko	depr:pl:voc:m2	imię	
 Kaźko	Kaźko	subst:sg:nom:m1	imię	
@@ -4146,6 +4281,7 @@ Kaźmierczaka	Kaźmierczak	subst:sg:acc:m1	nazwisko
 Kaźmierczaka	Kaźmierczak	subst:sg:gen:m1	nazwisko	
 Kaźmierczakami	Kaźmierczak	subst:pl:inst:m1	nazwisko	
 Kaźmierczakiem	Kaźmierczak	subst:sg:inst:m1	nazwisko	
+Kaźmierczaki	Kaźmierczak	depr:pl:acc:m2	nazwisko	
 Kaźmierczaki	Kaźmierczak	depr:pl:nom:m2	nazwisko	
 Kaźmierczaki	Kaźmierczak	depr:pl:voc:m2	nazwisko	
 Kaźmierczak	Kaźmierczak	subst:sg:nom:m1	nazwisko	
@@ -4201,6 +4337,7 @@ Kątnymi	Kątna	subst:pl:inst:f	nazwisko
 Kątnym	Kątna	subst:pl:dat:f	nazwisko	
 Kątnego	Kątny	subst:sg:acc:m1	nazwisko	
 Kątnego	Kątny	subst:sg:gen:m1	nazwisko	
+Kątne	Kątny	depr:pl:acc:m2	nazwisko	
 Kątne	Kątny	depr:pl:nom:m2	nazwisko	
 Kątne	Kątny	depr:pl:voc:m2	nazwisko	
 Kątnemu	Kątny	subst:sg:dat:m1	nazwisko	
@@ -4414,6 +4551,7 @@ Kefasowie	Kefas	subst:pl:voc:m1	imię
 Kefasowi	Kefas	subst:sg:dat:m1	imię	
 Kefasów	Kefas	subst:pl:acc:m1	imię	
 Kefasów	Kefas	subst:pl:gen:m1	imię	
+Kefasy	Kefas	depr:pl:acc:m2	imię	
 Kefasy	Kefas	depr:pl:nom:m2	imię	
 Kefasy	Kefas	depr:pl:voc:m2	imię	
 Keicie	Keith	subst:sg:loc:m1	imię	
@@ -4432,6 +4570,7 @@ Keithowie	Keith	subst:pl:voc:m1	imię
 Keithowi	Keith	subst:sg:dat:m1	imię	
 Keithów	Keith	subst:pl:acc:m1	imię	
 Keithów	Keith	subst:pl:gen:m1	imię	
+Keithy	Keith	depr:pl:acc:m2	imię	
 Keithy	Keith	depr:pl:nom:m2	imię	
 Keithy	Keith	depr:pl:voc:m2	imię	
 Kellerach	Keller	subst:pl:loc:m1	nazwisko	
@@ -4446,6 +4585,7 @@ Kellerowie	Keller	subst:pl:voc:m1	nazwisko
 Kellerowi	Keller	subst:sg:dat:m1	nazwisko	
 Kellerów	Keller	subst:pl:acc:m1	nazwisko	
 Kellerów	Keller	subst:pl:gen:m1	nazwisko	
+Kellery	Keller	depr:pl:acc:m2	nazwisko	
 Kellery	Keller	depr:pl:nom:m2	nazwisko	
 Kellery	Keller	depr:pl:voc:m2	nazwisko	
 Kellerze	Keller	subst:sg:loc:m1	nazwisko	
@@ -4464,6 +4604,7 @@ Kellesowie	Kelles	subst:pl:voc:m1	nazwisko
 Kellesowi	Kelles	subst:sg:dat:m1	nazwisko	
 Kellesów	Kelles	subst:pl:acc:m1	nazwisko	
 Kellesów	Kelles	subst:pl:gen:m1	nazwisko	
+Kellesy	Kelles	depr:pl:acc:m2	nazwisko	
 Kellesy	Kelles	depr:pl:nom:m2	nazwisko	
 Kellesy	Kelles	depr:pl:voc:m2	nazwisko	
 Kelloggach	Kellogg	subst:pl:loc:m1	nazwisko	
@@ -4471,6 +4612,7 @@ Kellogga	Kellogg	subst:sg:acc:m1	nazwisko
 Kellogga	Kellogg	subst:sg:gen:m1	nazwisko	
 Kelloggami	Kellogg	subst:pl:inst:m1	nazwisko	
 Kelloggiem	Kellogg	subst:sg:inst:m1	nazwisko	
+Kelloggi	Kellogg	depr:pl:acc:m2	nazwisko	
 Kelloggi	Kellogg	depr:pl:nom:m2	nazwisko	
 Kelloggi	Kellogg	depr:pl:voc:m2	nazwisko	
 Kellogg	Kellogg	subst:sg:nom:m1	nazwisko	
@@ -4496,6 +4638,7 @@ Kelvinowie	Kelvin	subst:pl:voc:m1	nazwisko
 Kelvinowi	Kelvin	subst:sg:dat:m1	nazwisko	
 Kelvinów	Kelvin	subst:pl:acc:m1	nazwisko	
 Kelvinów	Kelvin	subst:pl:gen:m1	nazwisko	
+Kelviny	Kelvin	depr:pl:acc:m2	nazwisko	
 Kelviny	Kelvin	depr:pl:nom:m2	nazwisko	
 Kelviny	Kelvin	depr:pl:voc:m2	nazwisko	
 Kempińska	Kempińska	subst:sg:nom:f	nazwisko	
@@ -4519,6 +4662,7 @@ Kempińskich	Kempiński	subst:pl:gen:m1	nazwisko
 Kempińskich	Kempiński	subst:pl:loc:m1	nazwisko	
 Kempińskiego	Kempiński	subst:sg:acc:m1	nazwisko	
 Kempińskiego	Kempiński	subst:sg:gen:m1	nazwisko	
+Kempińskie	Kempiński	depr:pl:acc:m2	nazwisko	
 Kempińskie	Kempiński	depr:pl:nom:m2	nazwisko	
 Kempińskie	Kempiński	depr:pl:voc:m2	nazwisko	
 Kempińskiemu	Kempiński	subst:sg:dat:m1	nazwisko	
@@ -4544,6 +4688,7 @@ Kempistymi	Kempista	subst:pl:inst:f	nazwisko
 Kempistym	Kempista	subst:pl:dat:f	nazwisko	
 Kempistego	Kempisty	subst:sg:acc:m1	nazwisko	
 Kempistego	Kempisty	subst:sg:gen:m1	nazwisko	
+Kempiste	Kempisty	depr:pl:acc:m2	nazwisko	
 Kempiste	Kempisty	depr:pl:nom:m2	nazwisko	
 Kempiste	Kempisty	depr:pl:voc:m2	nazwisko	
 Kempistemu	Kempisty	subst:sg:dat:m1	nazwisko	
@@ -4598,6 +4743,7 @@ Kenarowie	Kenar	subst:pl:voc:m1	nazwisko
 Kenarowi	Kenar	subst:sg:dat:m1	nazwisko	
 Kenarów	Kenar	subst:pl:acc:m1	nazwisko	
 Kenarów	Kenar	subst:pl:gen:m1	nazwisko	
+Kenary	Kenar	depr:pl:acc:m2	nazwisko	
 Kenary	Kenar	depr:pl:nom:m2	nazwisko	
 Kenary	Kenar	depr:pl:voc:m2	nazwisko	
 Kenarze	Kenar	subst:sg:loc:m1	nazwisko	
@@ -4624,6 +4770,7 @@ Kenijczyka	Kenijczyk	subst:sg:acc:m1	nazwa pospolita
 Kenijczyka	Kenijczyk	subst:sg:gen:m1	nazwa pospolita	
 Kenijczykami	Kenijczyk	subst:pl:inst:m1	nazwa pospolita	
 Kenijczykiem	Kenijczyk	subst:sg:inst:m1	nazwa pospolita	
+Kenijczyki	Kenijczyk	depr:pl:acc:m2	nazwa pospolita	
 Kenijczyki	Kenijczyk	depr:pl:nom:m2	nazwa pospolita	
 Kenijczyki	Kenijczyk	depr:pl:voc:m2	nazwa pospolita	
 Kenijczyk	Kenijczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -4652,6 +4799,7 @@ Kennedych	Kennedy	subst:pl:gen:m1	nazwisko
 Kennedych	Kennedy	subst:pl:loc:m1	nazwisko	
 Kennedy’ego	Kennedy	subst:sg:acc:m1	nazwisko	
 Kennedy’ego	Kennedy	subst:sg:gen:m1	nazwisko	
+Kennedy’e	Kennedy	depr:pl:acc:m2	nazwisko	
 Kennedy’e	Kennedy	depr:pl:nom:m2	nazwisko	
 Kennedy’e	Kennedy	depr:pl:voc:m2	nazwisko	
 Kennedy’emu	Kennedy	subst:sg:dat:m1	nazwisko	
@@ -4679,6 +4827,7 @@ Kennethowie	Kenneth	subst:pl:voc:m1	imię|nazwa geograficzna
 Kennethowi	Kenneth	subst:sg:dat:m1	imię|nazwa geograficzna	
 Kennethów	Kenneth	subst:pl:acc:m1	imię|nazwa geograficzna	
 Kennethów	Kenneth	subst:pl:gen:m1	imię|nazwa geograficzna	
+Kennethy	Kenneth	depr:pl:acc:m2	imię|nazwa geograficzna	
 Kennethy	Kenneth	depr:pl:nom:m2	imię|nazwa geograficzna	
 Kennethy	Kenneth	depr:pl:voc:m2	imię|nazwa geograficzna	
 Kencie	Kent	subst:sg:loc:m3	nazwa geograficzna	
@@ -4789,6 +4938,7 @@ Kernowie	Kern	subst:pl:voc:m1	nazwisko
 Kernowi	Kern	subst:sg:dat:m1	nazwisko	
 Kernów	Kern	subst:pl:acc:m1	nazwisko	
 Kernów	Kern	subst:pl:gen:m1	nazwisko	
+Kerny	Kern	depr:pl:acc:m2	nazwisko	
 Kerny	Kern	depr:pl:nom:m2	nazwisko	
 Kerny	Kern	depr:pl:voc:m2	nazwisko	
 Kevinach	Kevin	subst:pl:loc:m1	imię	
@@ -4805,6 +4955,7 @@ Kevinowie	Kevin	subst:pl:voc:m1	imię
 Kevinowi	Kevin	subst:sg:dat:m1	imię	
 Kevinów	Kevin	subst:pl:acc:m1	imię	
 Kevinów	Kevin	subst:pl:gen:m1	imię	
+Keviny	Kevin	depr:pl:acc:m2	imię	
 Keviny	Kevin	depr:pl:nom:m2	imię	
 Keviny	Kevin	depr:pl:voc:m2	imię	
 Kewinach	Kewin	subst:pl:loc:m1	imię	
@@ -4821,6 +4972,7 @@ Kewinowie	Kewin	subst:pl:voc:m1	imię
 Kewinowi	Kewin	subst:sg:dat:m1	imię	
 Kewinów	Kewin	subst:pl:acc:m1	imię	
 Kewinów	Kewin	subst:pl:gen:m1	imię	
+Kewiny	Kewin	depr:pl:acc:m2	imię	
 Kewiny	Kewin	depr:pl:nom:m2	imię	
 Kewiny	Kewin	depr:pl:voc:m2	imię	
 Keynesach	Keynes	subst:pl:loc:m1	nazwisko	
@@ -4837,6 +4989,7 @@ Keynesowie	Keynes	subst:pl:voc:m1	nazwisko
 Keynesowi	Keynes	subst:sg:dat:m1	nazwisko	
 Keynesów	Keynes	subst:pl:acc:m1	nazwisko	
 Keynesów	Keynes	subst:pl:gen:m1	nazwisko	
+Keynesy	Keynes	depr:pl:acc:m2	nazwisko	
 Keynesy	Keynes	depr:pl:nom:m2	nazwisko	
 Keynesy	Keynes	depr:pl:voc:m2	nazwisko	
 Kędzierska	Kędzierska	subst:sg:nom:f	nazwisko	
@@ -4860,6 +5013,7 @@ Kędzierskich	Kędzierski	subst:pl:gen:m1	nazwisko
 Kędzierskich	Kędzierski	subst:pl:loc:m1	nazwisko	
 Kędzierskiego	Kędzierski	subst:sg:acc:m1	nazwisko	
 Kędzierskiego	Kędzierski	subst:sg:gen:m1	nazwisko	
+Kędzierskie	Kędzierski	depr:pl:acc:m2	nazwisko	
 Kędzierskie	Kędzierski	depr:pl:nom:m2	nazwisko	
 Kędzierskie	Kędzierski	depr:pl:voc:m2	nazwisko	
 Kędzierskiemu	Kędzierski	subst:sg:dat:m1	nazwisko	
@@ -4910,6 +5064,7 @@ Kępowie	Kępa:s2	subst:pl:nom:m1	nazwisko
 Kępowie	Kępa:s2	subst:pl:voc:m1	nazwisko	
 Kępów	Kępa:s2	subst:pl:acc:m1	nazwisko	
 Kępów	Kępa:s2	subst:pl:gen:m1	nazwisko	
+Kępy	Kępa:s2	depr:pl:acc:m2	nazwisko	
 Kępy	Kępa:s2	depr:pl:nom:m2	nazwisko	
 Kępy	Kępa:s2	depr:pl:voc:m2	nazwisko	
 Kępy	Kępa:s2	subst:sg:gen:m1	nazwisko	
@@ -4934,6 +5089,7 @@ Kępczyńskich	Kępczyński	subst:pl:gen:m1	nazwisko
 Kępczyńskich	Kępczyński	subst:pl:loc:m1	nazwisko	
 Kępczyńskiego	Kępczyński	subst:sg:acc:m1	nazwisko	
 Kępczyńskiego	Kępczyński	subst:sg:gen:m1	nazwisko	
+Kępczyńskie	Kępczyński	depr:pl:acc:m2	nazwisko	
 Kępczyńskie	Kępczyński	depr:pl:nom:m2	nazwisko	
 Kępczyńskie	Kępczyński	depr:pl:voc:m2	nazwisko	
 Kępczyńskiemu	Kępczyński	subst:sg:dat:m1	nazwisko	
@@ -4973,6 +5129,7 @@ Kępistymi	Kępista	subst:pl:inst:f	nazwisko
 Kępistym	Kępista	subst:pl:dat:f	nazwisko	
 Kępistego	Kępisty	subst:sg:acc:m1	nazwisko	
 Kępistego	Kępisty	subst:sg:gen:m1	nazwisko	
+Kępiste	Kępisty	depr:pl:acc:m2	nazwisko	
 Kępiste	Kępisty	depr:pl:nom:m2	nazwisko	
 Kępiste	Kępisty	depr:pl:voc:m2	nazwisko	
 Kępistemu	Kępisty	subst:sg:dat:m1	nazwisko	
@@ -5033,6 +5190,7 @@ Kęsowu	Kęsowo	subst:sg:dat:n:ncol	nazwa geograficzna
 Kęsów	Kęsowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Kęsego	Kęsy	subst:sg:acc:m1	nazwisko	
 Kęsego	Kęsy	subst:sg:gen:m1	nazwisko	
+Kęse	Kęsy	depr:pl:acc:m2	nazwisko	
 Kęse	Kęsy	depr:pl:nom:m2	nazwisko	
 Kęse	Kęsy	depr:pl:voc:m2	nazwisko	
 Kęsemu	Kęsy	subst:sg:dat:m1	nazwisko	
@@ -5128,6 +5286,7 @@ KGB-isto	KGB-ista	subst:sg:voc:m1	nazwa pospolita
 KGB-istom	KGB-ista	subst:pl:dat:m1	nazwa pospolita	
 KGB-istów	KGB-ista	subst:pl:acc:m1	nazwa pospolita	
 KGB-istów	KGB-ista	subst:pl:gen:m1	nazwa pospolita	
+KGB-isty	KGB-ista	depr:pl:acc:m2	nazwa pospolita	
 KGB-isty	KGB-ista	depr:pl:nom:m2	nazwa pospolita	
 KGB-isty	KGB-ista	depr:pl:voc:m2	nazwa pospolita	
 KGB-isty	KGB-ista	subst:sg:gen:m1	nazwa pospolita	
@@ -5163,6 +5322,7 @@ Khanowie	Khan	subst:pl:voc:m1	nazwisko
 Khanowi	Khan	subst:sg:dat:m1	nazwisko	
 Khanów	Khan	subst:pl:acc:m1	nazwisko	
 Khanów	Khan	subst:pl:gen:m1	nazwisko	
+Khany	Khan	depr:pl:acc:m2	nazwisko	
 Khany	Khan	depr:pl:nom:m2	nazwisko	
 Khany	Khan	depr:pl:voc:m2	nazwisko	
 Khmerach	Khmer	subst:pl:loc:m1	nazwa pospolita	
@@ -5177,6 +5337,7 @@ Khmerowie	Khmer	subst:pl:voc:m1	nazwa pospolita
 Khmerowi	Khmer	subst:sg:dat:m1	nazwa pospolita	
 Khmerów	Khmer	subst:pl:acc:m1	nazwa pospolita	
 Khmerów	Khmer	subst:pl:gen:m1	nazwa pospolita	
+Khmery	Khmer	depr:pl:acc:m2	nazwa pospolita	
 Khmery	Khmer	depr:pl:nom:m2	nazwa pospolita	
 Khmery	Khmer	depr:pl:voc:m2	nazwa pospolita	
 Khmerze	Khmer	subst:sg:loc:m1	nazwa pospolita	
@@ -5218,6 +5379,7 @@ Kicińskich	Kiciński	subst:pl:gen:m1	nazwisko
 Kicińskich	Kiciński	subst:pl:loc:m1	nazwisko	
 Kicińskiego	Kiciński	subst:sg:acc:m1	nazwisko	
 Kicińskiego	Kiciński	subst:sg:gen:m1	nazwisko	
+Kicińskie	Kiciński	depr:pl:acc:m2	nazwisko	
 Kicińskie	Kiciński	depr:pl:nom:m2	nazwisko	
 Kicińskie	Kiciński	depr:pl:voc:m2	nazwisko	
 Kicińskiemu	Kiciński	subst:sg:dat:m1	nazwisko	
@@ -5240,6 +5402,7 @@ Kidawowie	Kidawa	subst:pl:nom:m1	nazwisko
 Kidawowie	Kidawa	subst:pl:voc:m1	nazwisko	
 Kidawów	Kidawa	subst:pl:acc:m1	nazwisko	
 Kidawów	Kidawa	subst:pl:gen:m1	nazwisko	
+Kidawy	Kidawa	depr:pl:acc:m2	nazwisko	
 Kidawy	Kidawa	depr:pl:nom:m2	nazwisko	
 Kidawy	Kidawa	depr:pl:voc:m2	nazwisko	
 Kidawy	Kidawa	subst:sg:gen:m1	nazwisko	
@@ -5271,12 +5434,14 @@ Kiejstutowie	Kiejstut	subst:pl:voc:m1	imię
 Kiejstutowi	Kiejstut	subst:sg:dat:m1	imię	
 Kiejstutów	Kiejstut	subst:pl:acc:m1	imię	
 Kiejstutów	Kiejstut	subst:pl:gen:m1	imię	
+Kiejstuty	Kiejstut	depr:pl:acc:m2	imię	
 Kiejstuty	Kiejstut	depr:pl:nom:m2	imię	
 Kiejstuty	Kiejstut	depr:pl:voc:m2	imię	
 Kiejstutowiczach	Kiejstutowicz	subst:pl:loc:m1	nazwisko	
 Kiejstutowicza	Kiejstutowicz	subst:sg:acc:m1	nazwisko	
 Kiejstutowicza	Kiejstutowicz	subst:sg:gen:m1	nazwisko	
 Kiejstutowiczami	Kiejstutowicz	subst:pl:inst:m1	nazwisko	
+Kiejstutowicze	Kiejstutowicz	depr:pl:acc:m2	nazwisko	
 Kiejstutowicze	Kiejstutowicz	depr:pl:nom:m2	nazwisko	
 Kiejstutowicze	Kiejstutowicz	depr:pl:voc:m2	nazwisko	
 Kiejstutowicze	Kiejstutowicz	subst:pl:nom:m1	nazwisko	
@@ -5346,6 +5511,7 @@ Kiełbasowie	Kiełbasa	subst:pl:nom:m1	nazwisko
 Kiełbasowie	Kiełbasa	subst:pl:voc:m1	nazwisko	
 Kiełbasów	Kiełbasa	subst:pl:acc:m1	nazwisko	
 Kiełbasów	Kiełbasa	subst:pl:gen:m1	nazwisko	
+Kiełbasy	Kiełbasa	depr:pl:acc:m2	nazwisko	
 Kiełbasy	Kiełbasa	depr:pl:nom:m2	nazwisko	
 Kiełbasy	Kiełbasa	depr:pl:voc:m2	nazwisko	
 Kiełbasy	Kiełbasa	subst:sg:gen:m1	nazwisko	
@@ -5370,6 +5536,7 @@ Kiełczewskich	Kiełczewski	subst:pl:gen:m1	nazwisko
 Kiełczewskich	Kiełczewski	subst:pl:loc:m1	nazwisko	
 Kiełczewskiego	Kiełczewski	subst:sg:acc:m1	nazwisko	
 Kiełczewskiego	Kiełczewski	subst:sg:gen:m1	nazwisko	
+Kiełczewskie	Kiełczewski	depr:pl:acc:m2	nazwisko	
 Kiełczewskie	Kiełczewski	depr:pl:nom:m2	nazwisko	
 Kiełczewskie	Kiełczewski	depr:pl:voc:m2	nazwisko	
 Kiełczewskiemu	Kiełczewski	subst:sg:dat:m1	nazwisko	
@@ -5405,6 +5572,7 @@ Kiepurowie	Kiepura	subst:pl:nom:m1	nazwisko
 Kiepurowie	Kiepura	subst:pl:voc:m1	nazwisko	
 Kiepurów	Kiepura	subst:pl:acc:m1	nazwisko	
 Kiepurów	Kiepura	subst:pl:gen:m1	nazwisko	
+Kiepury	Kiepura	depr:pl:acc:m2	nazwisko	
 Kiepury	Kiepura	depr:pl:nom:m2	nazwisko	
 Kiepury	Kiepura	depr:pl:voc:m2	nazwisko	
 Kiepury	Kiepura	subst:sg:gen:m1	nazwisko	
@@ -5414,6 +5582,7 @@ Kierbedziach	Kierbedź	subst:pl:loc:m1	nazwisko
 Kierbedzia	Kierbedź	subst:sg:acc:m1	nazwisko	
 Kierbedzia	Kierbedź	subst:sg:gen:m1	nazwisko	
 Kierbedziami	Kierbedź	subst:pl:inst:m1	nazwisko	
+Kierbedzie	Kierbedź	depr:pl:acc:m2	nazwisko	
 Kierbedzie	Kierbedź	depr:pl:nom:m2	nazwisko	
 Kierbedzie	Kierbedź	depr:pl:voc:m2	nazwisko	
 Kierbedziem	Kierbedź	subst:sg:inst:m1	nazwisko	
@@ -5433,6 +5602,7 @@ Kiereńskich	Kiereński	subst:pl:gen:m1	nazwisko
 Kiereńskich	Kiereński	subst:pl:loc:m1	nazwisko	
 Kiereńskiego	Kiereński	subst:sg:acc:m1	nazwisko	
 Kiereńskiego	Kiereński	subst:sg:gen:m1	nazwisko	
+Kiereńskie	Kiereński	depr:pl:acc:m2	nazwisko	
 Kiereńskie	Kiereński	depr:pl:nom:m2	nazwisko	
 Kiereńskie	Kiereński	depr:pl:voc:m2	nazwisko	
 Kiereńskiemu	Kiereński	subst:sg:dat:m1	nazwisko	
@@ -5454,6 +5624,7 @@ Kierkegaardowie	Kierkegaard	subst:pl:voc:m1	nazwisko
 Kierkegaardowi	Kierkegaard	subst:sg:dat:m1	nazwisko	
 Kierkegaardów	Kierkegaard	subst:pl:acc:m1	nazwisko	
 Kierkegaardów	Kierkegaard	subst:pl:gen:m1	nazwisko	
+Kierkegaardy	Kierkegaard	depr:pl:acc:m2	nazwisko	
 Kierkegaardy	Kierkegaard	depr:pl:nom:m2	nazwisko	
 Kierkegaardy	Kierkegaard	depr:pl:voc:m2	nazwisko	
 Kierkegaardzie	Kierkegaard	subst:sg:loc:m1	nazwisko	
@@ -5479,6 +5650,7 @@ Kierzkowskich	Kierzkowski	subst:pl:gen:m1	nazwisko
 Kierzkowskich	Kierzkowski	subst:pl:loc:m1	nazwisko	
 Kierzkowskiego	Kierzkowski	subst:sg:acc:m1	nazwisko	
 Kierzkowskiego	Kierzkowski	subst:sg:gen:m1	nazwisko	
+Kierzkowskie	Kierzkowski	depr:pl:acc:m2	nazwisko	
 Kierzkowskie	Kierzkowski	depr:pl:nom:m2	nazwisko	
 Kierzkowskie	Kierzkowski	depr:pl:voc:m2	nazwisko	
 Kierzkowskiemu	Kierzkowski	subst:sg:dat:m1	nazwisko	
@@ -5509,6 +5681,7 @@ Kieszkowskich	Kieszkowski	subst:pl:gen:m1	nazwisko
 Kieszkowskich	Kieszkowski	subst:pl:loc:m1	nazwisko	
 Kieszkowskiego	Kieszkowski	subst:sg:acc:m1	nazwisko	
 Kieszkowskiego	Kieszkowski	subst:sg:gen:m1	nazwisko	
+Kieszkowskie	Kieszkowski	depr:pl:acc:m2	nazwisko	
 Kieszkowskie	Kieszkowski	depr:pl:nom:m2	nazwisko	
 Kieszkowskie	Kieszkowski	depr:pl:voc:m2	nazwisko	
 Kieszkowskiemu	Kieszkowski	subst:sg:dat:m1	nazwisko	
@@ -5539,6 +5712,7 @@ Kieślowskich	Kieślowski	subst:pl:gen:m1	nazwisko
 Kieślowskich	Kieślowski	subst:pl:loc:m1	nazwisko	
 Kieślowskiego	Kieślowski	subst:sg:acc:m1	nazwisko	
 Kieślowskiego	Kieślowski	subst:sg:gen:m1	nazwisko	
+Kieślowskie	Kieślowski	depr:pl:acc:m2	nazwisko	
 Kieślowskie	Kieślowski	depr:pl:nom:m2	nazwisko	
 Kieślowskie	Kieślowski	depr:pl:voc:m2	nazwisko	
 Kieślowskiemu	Kieślowski	subst:sg:dat:m1	nazwisko	
@@ -5569,6 +5743,7 @@ Kietlińskich	Kietliński	subst:pl:gen:m1	nazwisko
 Kietlińskich	Kietliński	subst:pl:loc:m1	nazwisko	
 Kietlińskiego	Kietliński	subst:sg:acc:m1	nazwisko	
 Kietlińskiego	Kietliński	subst:sg:gen:m1	nazwisko	
+Kietlińskie	Kietliński	depr:pl:acc:m2	nazwisko	
 Kietlińskie	Kietliński	depr:pl:nom:m2	nazwisko	
 Kietlińskie	Kietliński	depr:pl:voc:m2	nazwisko	
 Kietlińskiemu	Kietliński	subst:sg:dat:m1	nazwisko	
@@ -5641,6 +5816,7 @@ Kijowskich	Kijowski	subst:pl:gen:m1	nazwisko
 Kijowskich	Kijowski	subst:pl:loc:m1	nazwisko	
 Kijowskiego	Kijowski	subst:sg:acc:m1	nazwisko	
 Kijowskiego	Kijowski	subst:sg:gen:m1	nazwisko	
+Kijowskie	Kijowski	depr:pl:acc:m2	nazwisko	
 Kijowskie	Kijowski	depr:pl:nom:m2	nazwisko	
 Kijowskie	Kijowski	depr:pl:voc:m2	nazwisko	
 Kijowskiemu	Kijowski	subst:sg:dat:m1	nazwisko	
@@ -5705,6 +5881,7 @@ Kilarowie	Kilar	subst:pl:voc:m1	nazwisko
 Kilarowi	Kilar	subst:sg:dat:m1	nazwisko	
 Kilarów	Kilar	subst:pl:acc:m1	nazwisko	
 Kilarów	Kilar	subst:pl:gen:m1	nazwisko	
+Kilary	Kilar	depr:pl:acc:m2	nazwisko	
 Kilary	Kilar	depr:pl:nom:m2	nazwisko	
 Kilary	Kilar	depr:pl:voc:m2	nazwisko	
 Kilarze	Kilar	subst:sg:loc:m1	nazwisko	
@@ -5725,6 +5902,7 @@ Kilianowie	Kilian	subst:pl:voc:m1	imię
 Kilianowi	Kilian	subst:sg:dat:m1	imię	
 Kilianów	Kilian	subst:pl:acc:m1	imię	
 Kilianów	Kilian	subst:pl:gen:m1	imię	
+Kiliany	Kilian	depr:pl:acc:m2	imię	
 Kiliany	Kilian	depr:pl:nom:m2	imię	
 Kiliany	Kilian	depr:pl:voc:m2	imię	
 Kilimandżaro	Kilimandżaro	subst:pl:acc:n:ncol	nazwa geograficzna	
@@ -5748,6 +5926,7 @@ Kilińskich	Kiliński	subst:pl:gen:m1	nazwisko
 Kilińskich	Kiliński	subst:pl:loc:m1	nazwisko	
 Kilińskiego	Kiliński	subst:sg:acc:m1	nazwisko	
 Kilińskiego	Kiliński	subst:sg:gen:m1	nazwisko	
+Kilińskie	Kiliński	depr:pl:acc:m2	nazwisko	
 Kilińskie	Kiliński	depr:pl:nom:m2	nazwisko	
 Kilińskie	Kiliński	depr:pl:voc:m2	nazwisko	
 Kilińskiemu	Kiliński	subst:sg:dat:m1	nazwisko	
@@ -5778,6 +5957,7 @@ Kiljańskich	Kiljański	subst:pl:gen:m1	nazwisko
 Kiljańskich	Kiljański	subst:pl:loc:m1	nazwisko	
 Kiljańskiego	Kiljański	subst:sg:acc:m1	nazwisko	
 Kiljańskiego	Kiljański	subst:sg:gen:m1	nazwisko	
+Kiljańskie	Kiljański	depr:pl:acc:m2	nazwisko	
 Kiljańskie	Kiljański	depr:pl:nom:m2	nazwisko	
 Kiljańskie	Kiljański	depr:pl:voc:m2	nazwisko	
 Kiljańskiemu	Kiljański	subst:sg:dat:m1	nazwisko	
@@ -5807,6 +5987,7 @@ Kinga	King	subst:sg:acc:m1	nazwisko
 Kinga	King	subst:sg:gen:m1	nazwisko	
 Kingami	King	subst:pl:inst:m1	nazwisko	
 Kingiem	King	subst:sg:inst:m1	nazwisko	
+Kingi	King	depr:pl:acc:m2	nazwisko	
 Kingi	King	depr:pl:nom:m2	nazwisko	
 Kingi	King	depr:pl:voc:m2	nazwisko	
 King	King	subst:sg:nom:m1	nazwisko	
@@ -5897,6 +6078,7 @@ Kipczaka	Kipczak	subst:sg:acc:m1	nazwa pospolita
 Kipczaka	Kipczak	subst:sg:gen:m1	nazwa pospolita	
 Kipczakami	Kipczak	subst:pl:inst:m1	nazwa pospolita	
 Kipczakiem	Kipczak	subst:sg:inst:m1	nazwa pospolita	
+Kipczaki	Kipczak	depr:pl:acc:m2	nazwa pospolita	
 Kipczaki	Kipczak	depr:pl:nom:m2	nazwa pospolita	
 Kipczaki	Kipczak	depr:pl:voc:m2	nazwa pospolita	
 Kipczak	Kipczak	subst:sg:nom:m1	nazwa pospolita	
@@ -5911,6 +6093,7 @@ Kiplinga	Kipling	subst:sg:acc:m1	nazwisko
 Kiplinga	Kipling	subst:sg:gen:m1	nazwisko	
 Kiplingami	Kipling	subst:pl:inst:m1	nazwisko	
 Kiplingiem	Kipling	subst:sg:inst:m1	nazwisko	
+Kiplingi	Kipling	depr:pl:acc:m2	nazwisko	
 Kiplingi	Kipling	depr:pl:nom:m2	nazwisko	
 Kiplingi	Kipling	depr:pl:voc:m2	nazwisko	
 Kipling	Kipling	subst:sg:nom:m1	nazwisko	
@@ -5934,6 +6117,7 @@ Kirowie	Kir	subst:pl:voc:m1	imię
 Kirowi	Kir	subst:sg:dat:m1	imię	
 Kirów	Kir	subst:pl:acc:m1	imię	
 Kirów	Kir	subst:pl:gen:m1	imię	
+Kiry	Kir	depr:pl:acc:m2	imię	
 Kiry	Kir	depr:pl:nom:m2	imię	
 Kiry	Kir	depr:pl:voc:m2	imię	
 Kirze	Kir	subst:sg:loc:m1	imię	
@@ -5996,6 +6180,7 @@ Kirgizom	Kirgiz	subst:pl:dat:m1	nazwa pospolita
 Kirgizowi	Kirgiz	subst:sg:dat:m1	nazwa pospolita	
 Kirgizów	Kirgiz	subst:pl:acc:m1	nazwa pospolita	
 Kirgizów	Kirgiz	subst:pl:gen:m1	nazwa pospolita	
+Kirgizy	Kirgiz	depr:pl:acc:m2	nazwa pospolita	
 Kirgizy	Kirgiz	depr:pl:nom:m2	nazwa pospolita	
 Kirgizy	Kirgiz	depr:pl:voc:m2	nazwa pospolita	
 Kirgizjach	Kirgizja	subst:pl:loc:f	nazwa geograficzna	
@@ -6032,6 +6217,7 @@ Kirka	Kirk	subst:sg:acc:m1	imię|nazwisko
 Kirka	Kirk	subst:sg:gen:m1	imię|nazwisko	
 Kirkami	Kirk	subst:pl:inst:m1	imię|nazwisko	
 Kirkiem	Kirk	subst:sg:inst:m1	imię|nazwisko	
+Kirki	Kirk	depr:pl:acc:m2	imię|nazwisko	
 Kirki	Kirk	depr:pl:nom:m2	imię|nazwisko	
 Kirki	Kirk	depr:pl:voc:m2	imię|nazwisko	
 Kirk	Kirk	subst:sg:nom:m1	imię|nazwisko	
@@ -6071,12 +6257,14 @@ Kiryłowie	Kirył	subst:pl:voc:m1	imię
 Kiryłowi	Kirył	subst:sg:dat:m1	imię	
 Kiryłów	Kirył	subst:pl:acc:m1	imię	
 Kiryłów	Kirył	subst:pl:gen:m1	imię	
+Kiryły	Kirył	depr:pl:acc:m2	imię	
 Kiryły	Kirył	depr:pl:nom:m2	imię	
 Kiryły	Kirył	depr:pl:voc:m2	imię	
 Kisielach	Kisiel	subst:pl:loc:m1	nazwisko	
 Kisiela	Kisiel	subst:sg:acc:m1	nazwisko	
 Kisiela	Kisiel	subst:sg:gen:m1	nazwisko	
 Kisielami	Kisiel	subst:pl:inst:m1	nazwisko	
+Kisiele	Kisiel	depr:pl:acc:m2	nazwisko	
 Kisiele	Kisiel	depr:pl:nom:m2	nazwisko	
 Kisiele	Kisiel	depr:pl:voc:m2	nazwisko	
 Kisielem	Kisiel	subst:sg:inst:m1	nazwisko	
@@ -6093,6 +6281,7 @@ Kisielewiczach	Kisielewicz	subst:pl:loc:m1	nazwisko
 Kisielewicza	Kisielewicz	subst:sg:acc:m1	nazwisko	
 Kisielewicza	Kisielewicz	subst:sg:gen:m1	nazwisko	
 Kisielewiczami	Kisielewicz	subst:pl:inst:m1	nazwisko	
+Kisielewicze	Kisielewicz	depr:pl:acc:m2	nazwisko	
 Kisielewicze	Kisielewicz	depr:pl:nom:m2	nazwisko	
 Kisielewicze	Kisielewicz	depr:pl:voc:m2	nazwisko	
 Kisielewicze	Kisielewicz	subst:pl:nom:m1	nazwisko	
@@ -6128,6 +6317,7 @@ Kisielewskich	Kisielewski	subst:pl:gen:m1	nazwisko
 Kisielewskich	Kisielewski	subst:pl:loc:m1	nazwisko	
 Kisielewskiego	Kisielewski	subst:sg:acc:m1	nazwisko	
 Kisielewskiego	Kisielewski	subst:sg:gen:m1	nazwisko	
+Kisielewskie	Kisielewski	depr:pl:acc:m2	nazwisko	
 Kisielewskie	Kisielewski	depr:pl:nom:m2	nazwisko	
 Kisielewskie	Kisielewski	depr:pl:voc:m2	nazwisko	
 Kisielewskiemu	Kisielewski	subst:sg:dat:m1	nazwisko	
@@ -6167,6 +6357,7 @@ Kisłymi	Kisła	subst:pl:inst:f	nazwisko
 Kisłym	Kisła	subst:pl:dat:f	nazwisko	
 Kisłego	Kisły	subst:sg:acc:m1	nazwisko	
 Kisłego	Kisły	subst:sg:gen:m1	nazwisko	
+Kisłe	Kisły	depr:pl:acc:m2	nazwisko	
 Kisłe	Kisły	depr:pl:nom:m2	nazwisko	
 Kisłe	Kisły	depr:pl:voc:m2	nazwisko	
 Kisłemu	Kisły	subst:sg:dat:m1	nazwisko	
@@ -6195,6 +6386,7 @@ Kissingerowie	Kissinger	subst:pl:voc:m1	nazwisko
 Kissingerowi	Kissinger	subst:sg:dat:m1	nazwisko	
 Kissingerów	Kissinger	subst:pl:acc:m1	nazwisko	
 Kissingerów	Kissinger	subst:pl:gen:m1	nazwisko	
+Kissingery	Kissinger	depr:pl:acc:m2	nazwisko	
 Kissingery	Kissinger	depr:pl:nom:m2	nazwisko	
 Kissingery	Kissinger	depr:pl:voc:m2	nazwisko	
 Kissingerze	Kissinger	subst:sg:loc:m1	nazwisko	
@@ -6204,6 +6396,7 @@ Kiszczaka	Kiszczak	subst:sg:acc:m1	nazwisko
 Kiszczaka	Kiszczak	subst:sg:gen:m1	nazwisko	
 Kiszczakami	Kiszczak	subst:pl:inst:m1	nazwisko	
 Kiszczakiem	Kiszczak	subst:sg:inst:m1	nazwisko	
+Kiszczaki	Kiszczak	depr:pl:acc:m2	nazwisko	
 Kiszczaki	Kiszczak	depr:pl:nom:m2	nazwisko	
 Kiszczaki	Kiszczak	depr:pl:voc:m2	nazwisko	
 Kiszczak	Kiszczak	subst:sg:nom:m1	nazwisko	
@@ -6244,6 +6437,7 @@ Kiszłowie	Kiszło	subst:pl:nom:m1	nazwisko
 Kiszłowie	Kiszło	subst:pl:voc:m1	nazwisko	
 Kiszłów	Kiszło	subst:pl:acc:m1	nazwisko	
 Kiszłów	Kiszło	subst:pl:gen:m1	nazwisko	
+Kiszły	Kiszło	depr:pl:acc:m2	nazwisko	
 Kiszły	Kiszło	depr:pl:nom:m2	nazwisko	
 Kiszły	Kiszło	depr:pl:voc:m2	nazwisko	
 Kiszły	Kiszło	subst:sg:gen:m1	nazwisko	
@@ -6266,6 +6460,7 @@ Kitowiczach	Kitowicz	subst:pl:loc:m1	nazwisko
 Kitowicza	Kitowicz	subst:sg:acc:m1	nazwisko	
 Kitowicza	Kitowicz	subst:sg:gen:m1	nazwisko	
 Kitowiczami	Kitowicz	subst:pl:inst:m1	nazwisko	
+Kitowicze	Kitowicz	depr:pl:acc:m2	nazwisko	
 Kitowicze	Kitowicz	depr:pl:nom:m2	nazwisko	
 Kitowicze	Kitowicz	depr:pl:voc:m2	nazwisko	
 Kitowicze	Kitowicz	subst:pl:nom:m1	nazwisko	
@@ -6342,6 +6537,7 @@ Klaczkach	Klaczko	subst:pl:loc:m1	nazwisko
 Klaczkami	Klaczko	subst:pl:inst:m1	nazwisko	
 Klaczką	Klaczko	subst:sg:inst:m1	nazwisko	
 Klaczkę	Klaczko	subst:sg:acc:m1	nazwisko	
+Klaczki	Klaczko	depr:pl:acc:m2	nazwisko	
 Klaczki	Klaczko	depr:pl:nom:m2	nazwisko	
 Klaczki	Klaczko	depr:pl:voc:m2	nazwisko	
 Klaczki	Klaczko	subst:sg:gen:m1	nazwisko	
@@ -6441,12 +6637,14 @@ Klaudianowie	Klaudian	subst:pl:voc:m1	imię
 Klaudianowi	Klaudian	subst:sg:dat:m1	imię	
 Klaudianów	Klaudian	subst:pl:acc:m1	imię	
 Klaudianów	Klaudian	subst:pl:gen:m1	imię	
+Klaudiany	Klaudian	depr:pl:acc:m2	imię	
 Klaudiany	Klaudian	depr:pl:nom:m2	imię	
 Klaudiany	Klaudian	depr:pl:voc:m2	imię	
 Klaudiuszach	Klaudiusz	subst:pl:loc:m1	imię	
 Klaudiusza	Klaudiusz	subst:sg:acc:m1	imię	
 Klaudiusza	Klaudiusz	subst:sg:gen:m1	imię	
 Klaudiuszami	Klaudiusz	subst:pl:inst:m1	imię	
+Klaudiusze	Klaudiusz	depr:pl:acc:m2	imię	
 Klaudiusze	Klaudiusz	depr:pl:nom:m2	imię	
 Klaudiusze	Klaudiusz	depr:pl:voc:m2	imię	
 Klaudiusze	Klaudiusz	subst:pl:nom:m1	imię	
@@ -6503,12 +6701,14 @@ Klausowie	Klaus	subst:pl:voc:m1	imię
 Klausowi	Klaus	subst:sg:dat:m1	imię	
 Klausów	Klaus	subst:pl:acc:m1	imię	
 Klausów	Klaus	subst:pl:gen:m1	imię	
+Klausy	Klaus	depr:pl:acc:m2	imię	
 Klausy	Klaus	depr:pl:nom:m2	imię	
 Klausy	Klaus	depr:pl:voc:m2	imię	
 Klawach	Klawe	subst:pl:loc:m1	nazwisko	
 Klawami	Klawe	subst:pl:inst:m1	nazwisko	
 Klawego	Klawe	subst:sg:acc:m1	nazwisko	
 Klawego	Klawe	subst:sg:gen:m1	nazwisko	
+Klawe	Klawe	depr:pl:acc:m2	nazwisko	
 Klawe	Klawe	depr:pl:nom:m2	nazwisko	
 Klawe	Klawe	depr:pl:voc:m2	nazwisko	
 Klawe	Klawe	subst:sg:nom:m1	nazwisko	
@@ -6570,6 +6770,7 @@ Kleczkowskich	Kleczkowski	subst:pl:gen:m1	nazwisko
 Kleczkowskich	Kleczkowski	subst:pl:loc:m1	nazwisko	
 Kleczkowskiego	Kleczkowski	subst:sg:acc:m1	nazwisko	
 Kleczkowskiego	Kleczkowski	subst:sg:gen:m1	nazwisko	
+Kleczkowskie	Kleczkowski	depr:pl:acc:m2	nazwisko	
 Kleczkowskie	Kleczkowski	depr:pl:nom:m2	nazwisko	
 Kleczkowskie	Kleczkowski	depr:pl:voc:m2	nazwisko	
 Kleczkowskiemu	Kleczkowski	subst:sg:dat:m1	nazwisko	
@@ -6579,6 +6780,7 @@ Kleczkowskimi	Kleczkowski	subst:pl:inst:m1	nazwisko
 Kleczkowskim	Kleczkowski	subst:pl:dat:m1	nazwisko	
 Kleczkowskim	Kleczkowski	subst:sg:inst:m1	nazwisko	
 Kleczkowskim	Kleczkowski	subst:sg:loc:m1	nazwisko	
+Klee	Klee	depr:pl:acc:m2	nazwisko	
 Klee	Klee	depr:pl:nom:m2	nazwisko	
 Klee	Klee	depr:pl:voc:m2	nazwisko	
 Klee	Klee	subst:pl:acc:m1	nazwisko	
@@ -6600,6 +6802,7 @@ Kleeberga	Kleeberg	subst:sg:acc:m1	nazwisko
 Kleeberga	Kleeberg	subst:sg:gen:m1	nazwisko	
 Kleebergami	Kleeberg	subst:pl:inst:m1	nazwisko	
 Kleebergiem	Kleeberg	subst:sg:inst:m1	nazwisko	
+Kleebergi	Kleeberg	depr:pl:acc:m2	nazwisko	
 Kleebergi	Kleeberg	depr:pl:nom:m2	nazwisko	
 Kleebergi	Kleeberg	depr:pl:voc:m2	nazwisko	
 Kleeberg	Kleeberg	subst:sg:nom:m1	nazwisko	
@@ -6623,6 +6826,7 @@ Kleinerowie	Kleiner	subst:pl:voc:m1	nazwisko
 Kleinerowi	Kleiner	subst:sg:dat:m1	nazwisko	
 Kleinerów	Kleiner	subst:pl:acc:m1	nazwisko	
 Kleinerów	Kleiner	subst:pl:gen:m1	nazwisko	
+Kleinery	Kleiner	depr:pl:acc:m2	nazwisko	
 Kleinery	Kleiner	depr:pl:nom:m2	nazwisko	
 Kleinery	Kleiner	depr:pl:voc:m2	nazwisko	
 Kleinerze	Kleiner	subst:sg:loc:m1	nazwisko	
@@ -6639,6 +6843,7 @@ Kleistowie	Kleist	subst:pl:voc:m1	nazwisko
 Kleistowi	Kleist	subst:sg:dat:m1	nazwisko	
 Kleistów	Kleist	subst:pl:acc:m1	nazwisko	
 Kleistów	Kleist	subst:pl:gen:m1	nazwisko	
+Kleisty	Kleist	depr:pl:acc:m2	nazwisko	
 Kleisty	Kleist	depr:pl:nom:m2	nazwisko	
 Kleisty	Kleist	depr:pl:voc:m2	nazwisko	
 Kleiście	Kleist	subst:sg:loc:m1	nazwisko	
@@ -6687,12 +6892,14 @@ Klemensowie	Klemens	subst:pl:voc:m1	imię
 Klemensowi	Klemens	subst:sg:dat:m1	imię	
 Klemensów	Klemens	subst:pl:acc:m1	imię	
 Klemensów	Klemens	subst:pl:gen:m1	imię	
+Klemensy	Klemens	depr:pl:acc:m2	imię	
 Klemensy	Klemens	depr:pl:nom:m2	imię	
 Klemensy	Klemens	depr:pl:voc:m2	imię	
 Klemensiewiczach	Klemensiewicz	subst:pl:loc:m1	nazwisko	
 Klemensiewicza	Klemensiewicz	subst:sg:acc:m1	nazwisko	
 Klemensiewicza	Klemensiewicz	subst:sg:gen:m1	nazwisko	
 Klemensiewiczami	Klemensiewicz	subst:pl:inst:m1	nazwisko	
+Klemensiewicze	Klemensiewicz	depr:pl:acc:m2	nazwisko	
 Klemensiewicze	Klemensiewicz	depr:pl:nom:m2	nazwisko	
 Klemensiewicze	Klemensiewicz	depr:pl:voc:m2	nazwisko	
 Klemensiewicze	Klemensiewicz	subst:pl:nom:m1	nazwisko	
@@ -6723,6 +6930,7 @@ Klementowie	Klement	subst:pl:voc:m1	imię
 Klementowi	Klement	subst:sg:dat:m1	imię	
 Klementów	Klement	subst:pl:acc:m1	imię	
 Klementów	Klement	subst:pl:gen:m1	imię	
+Klementy	Klement	depr:pl:acc:m2	imię	
 Klementy	Klement	depr:pl:nom:m2	imię	
 Klementy	Klement	depr:pl:voc:m2	imię	
 Klementynach	Klementyn	subst:pl:loc:m1	imię	
@@ -6741,6 +6949,7 @@ Klementynowie	Klementyn	subst:pl:voc:m1	imię
 Klementynowi	Klementyn	subst:sg:dat:m1	imię	
 Klementynów	Klementyn	subst:pl:acc:m1	imię	
 Klementynów	Klementyn	subst:pl:gen:m1	imię	
+Klementyny	Klementyn	depr:pl:acc:m2	imię	
 Klementyny	Klementyn	depr:pl:nom:m2	imię	
 Klementyny	Klementyn	depr:pl:voc:m2	imię	
 Klementynach	Klementyna	subst:pl:loc:f	imię	
@@ -6778,6 +6987,7 @@ Kleniewskich	Kleniewski	subst:pl:gen:m1	nazwisko
 Kleniewskich	Kleniewski	subst:pl:loc:m1	nazwisko	
 Kleniewskiego	Kleniewski	subst:sg:acc:m1	nazwisko	
 Kleniewskiego	Kleniewski	subst:sg:gen:m1	nazwisko	
+Kleniewskie	Kleniewski	depr:pl:acc:m2	nazwisko	
 Kleniewskie	Kleniewski	depr:pl:nom:m2	nazwisko	
 Kleniewskie	Kleniewski	depr:pl:voc:m2	nazwisko	
 Kleniewskiemu	Kleniewski	subst:sg:dat:m1	nazwisko	
@@ -6803,6 +7013,7 @@ Kleofasowie	Kleofas	subst:pl:voc:m1	imię
 Kleofasowi	Kleofas	subst:sg:dat:m1	imię	
 Kleofasów	Kleofas	subst:pl:acc:m1	imię	
 Kleofasów	Kleofas	subst:pl:gen:m1	imię	
+Kleofasy	Kleofas	depr:pl:acc:m2	imię	
 Kleofasy	Kleofas	depr:pl:nom:m2	imię	
 Kleofasy	Kleofas	depr:pl:voc:m2	imię	
 Kleopatrach	Kleopatra	subst:pl:loc:f	imię	
@@ -6864,6 +7075,7 @@ Kletowie	Klet	subst:pl:voc:m1	imię
 Kletowi	Klet	subst:sg:dat:m1	imię	
 Kletów	Klet	subst:pl:acc:m1	imię	
 Kletów	Klet	subst:pl:gen:m1	imię	
+Klety	Klet	depr:pl:acc:m2	imię	
 Klety	Klet	depr:pl:nom:m2	imię	
 Klety	Klet	depr:pl:voc:m2	imię	
 Klimaszewska	Klimaszewska	subst:sg:nom:f	nazwisko	
@@ -6887,6 +7099,7 @@ Klimaszewskich	Klimaszewski	subst:pl:gen:m1	nazwisko
 Klimaszewskich	Klimaszewski	subst:pl:loc:m1	nazwisko	
 Klimaszewskiego	Klimaszewski	subst:sg:acc:m1	nazwisko	
 Klimaszewskiego	Klimaszewski	subst:sg:gen:m1	nazwisko	
+Klimaszewskie	Klimaszewski	depr:pl:acc:m2	nazwisko	
 Klimaszewskie	Klimaszewski	depr:pl:nom:m2	nazwisko	
 Klimaszewskie	Klimaszewski	depr:pl:voc:m2	nazwisko	
 Klimaszewskiemu	Klimaszewski	subst:sg:dat:m1	nazwisko	
@@ -6901,6 +7114,7 @@ Klimczaka	Klimczak	subst:sg:acc:m1	nazwisko
 Klimczaka	Klimczak	subst:sg:gen:m1	nazwisko	
 Klimczakami	Klimczak	subst:pl:inst:m1	nazwisko	
 Klimczakiem	Klimczak	subst:sg:inst:m1	nazwisko	
+Klimczaki	Klimczak	depr:pl:acc:m2	nazwisko	
 Klimczaki	Klimczak	depr:pl:nom:m2	nazwisko	
 Klimczaki	Klimczak	depr:pl:voc:m2	nazwisko	
 Klimczak	Klimczak	subst:sg:nom:m1	nazwisko	
@@ -6918,6 +7132,7 @@ Klimka	Klimek	subst:sg:acc:m1	imię|nazwisko
 Klimka	Klimek	subst:sg:gen:m1	imię|nazwisko	
 Klimkami	Klimek	subst:pl:inst:m1	imię|nazwisko	
 Klimkiem	Klimek	subst:sg:inst:m1	imię|nazwisko	
+Klimki	Klimek	depr:pl:acc:m2	imię|nazwisko	
 Klimki	Klimek	depr:pl:nom:m2	imię|nazwisko	
 Klimki	Klimek	depr:pl:voc:m2	imię|nazwisko	
 Klimkom	Klimek	subst:pl:dat:m1	imię|nazwisko	
@@ -7047,6 +7262,7 @@ Klonowicach	Klonowic	subst:pl:loc:m1	nazwisko
 Klonowica	Klonowic	subst:sg:acc:m1	nazwisko	
 Klonowica	Klonowic	subst:sg:gen:m1	nazwisko	
 Klonowicami	Klonowic	subst:pl:inst:m1	nazwisko	
+Klonowice	Klonowic	depr:pl:acc:m2	nazwisko	
 Klonowice	Klonowic	depr:pl:nom:m2	nazwisko	
 Klonowice	Klonowic	depr:pl:voc:m2	nazwisko	
 Klonowicem	Klonowic	subst:sg:inst:m1	nazwisko	
@@ -7066,6 +7282,7 @@ Klonowskich	Klonowski	subst:pl:gen:m1	nazwisko
 Klonowskich	Klonowski	subst:pl:loc:m1	nazwisko	
 Klonowskiego	Klonowski	subst:sg:acc:m1	nazwisko	
 Klonowskiego	Klonowski	subst:sg:gen:m1	nazwisko	
+Klonowskie	Klonowski	depr:pl:acc:m2	nazwisko	
 Klonowskie	Klonowski	depr:pl:nom:m2	nazwisko	
 Klonowskie	Klonowski	depr:pl:voc:m2	nazwisko	
 Klonowskiemu	Klonowski	subst:sg:dat:m1	nazwisko	
@@ -7133,6 +7350,7 @@ Klucznymi	Kluczna	subst:pl:inst:f	nazwisko
 Klucznym	Kluczna	subst:pl:dat:f	nazwisko	
 Klucznego	Kluczny	subst:sg:acc:m1	nazwisko	
 Klucznego	Kluczny	subst:sg:gen:m1	nazwisko	
+Kluczne	Kluczny	depr:pl:acc:m2	nazwisko	
 Kluczne	Kluczny	depr:pl:nom:m2	nazwisko	
 Kluczne	Kluczny	depr:pl:voc:m2	nazwisko	
 Klucznemu	Kluczny	subst:sg:dat:m1	nazwisko	
@@ -7168,6 +7386,7 @@ Kluczyńskich	Kluczyński	subst:pl:gen:m1	nazwisko
 Kluczyńskich	Kluczyński	subst:pl:loc:m1	nazwisko	
 Kluczyńskiego	Kluczyński	subst:sg:acc:m1	nazwisko	
 Kluczyńskiego	Kluczyński	subst:sg:gen:m1	nazwisko	
+Kluczyńskie	Kluczyński	depr:pl:acc:m2	nazwisko	
 Kluczyńskie	Kluczyński	depr:pl:nom:m2	nazwisko	
 Kluczyńskie	Kluczyński	depr:pl:voc:m2	nazwisko	
 Kluczyńskiemu	Kluczyński	subst:sg:dat:m1	nazwisko	
@@ -7292,6 +7511,7 @@ Kłosowie	Kłos	subst:pl:voc:m1	nazwisko
 Kłosowi	Kłos	subst:sg:dat:m1	nazwisko	
 Kłosów	Kłos	subst:pl:acc:m1	nazwisko	
 Kłosów	Kłos	subst:pl:gen:m1	nazwisko	
+Kłosy	Kłos	depr:pl:acc:m2	nazwisko	
 Kłosy	Kłos	depr:pl:nom:m2	nazwisko	
 Kłosy	Kłos	depr:pl:voc:m2	nazwisko	
 Kłosińska	Kłosińska	subst:sg:nom:f	nazwisko	
@@ -7315,6 +7535,7 @@ Kłosińskich	Kłosiński	subst:pl:gen:m1	nazwisko
 Kłosińskich	Kłosiński	subst:pl:loc:m1	nazwisko	
 Kłosińskiego	Kłosiński	subst:sg:acc:m1	nazwisko	
 Kłosińskiego	Kłosiński	subst:sg:gen:m1	nazwisko	
+Kłosińskie	Kłosiński	depr:pl:acc:m2	nazwisko	
 Kłosińskie	Kłosiński	depr:pl:nom:m2	nazwisko	
 Kłosińskie	Kłosiński	depr:pl:voc:m2	nazwisko	
 Kłosińskiemu	Kłosiński	subst:sg:dat:m1	nazwisko	
@@ -7345,6 +7566,7 @@ Kłosowskich	Kłosowski	subst:pl:gen:m1	nazwisko
 Kłosowskich	Kłosowski	subst:pl:loc:m1	nazwisko	
 Kłosowskiego	Kłosowski	subst:sg:acc:m1	nazwisko	
 Kłosowskiego	Kłosowski	subst:sg:gen:m1	nazwisko	
+Kłosowskie	Kłosowski	depr:pl:acc:m2	nazwisko	
 Kłosowskie	Kłosowski	depr:pl:nom:m2	nazwisko	
 Kłosowskie	Kłosowski	depr:pl:voc:m2	nazwisko	
 Kłosowskiemu	Kłosowski	subst:sg:dat:m1	nazwisko	
@@ -7375,6 +7597,7 @@ Kłoszewskich	Kłoszewski	subst:pl:gen:m1	nazwisko
 Kłoszewskich	Kłoszewski	subst:pl:loc:m1	nazwisko	
 Kłoszewskiego	Kłoszewski	subst:sg:acc:m1	nazwisko	
 Kłoszewskiego	Kłoszewski	subst:sg:gen:m1	nazwisko	
+Kłoszewskie	Kłoszewski	depr:pl:acc:m2	nazwisko	
 Kłoszewskie	Kłoszewski	depr:pl:nom:m2	nazwisko	
 Kłoszewskie	Kłoszewski	depr:pl:voc:m2	nazwisko	
 Kłoszewskiemu	Kłoszewski	subst:sg:dat:m1	nazwisko	
@@ -7388,6 +7611,7 @@ Kmicicach	Kmicic	subst:pl:loc:m1	nazwisko
 Kmicica	Kmicic	subst:sg:acc:m1	nazwisko	
 Kmicica	Kmicic	subst:sg:gen:m1	nazwisko	
 Kmicicami	Kmicic	subst:pl:inst:m1	nazwisko	
+Kmicice	Kmicic	depr:pl:acc:m2	nazwisko	
 Kmicice	Kmicic	depr:pl:nom:m2	nazwisko	
 Kmicice	Kmicic	depr:pl:voc:m2	nazwisko	
 Kmicice	Kmicic	subst:pl:nom:m1	nazwisko	
@@ -7462,6 +7686,7 @@ Knapiuszach	Knapiusz	subst:pl:loc:m1	nazwisko
 Knapiusza	Knapiusz	subst:sg:acc:m1	nazwisko	
 Knapiusza	Knapiusz	subst:sg:gen:m1	nazwisko	
 Knapiuszami	Knapiusz	subst:pl:inst:m1	nazwisko	
+Knapiusze	Knapiusz	depr:pl:acc:m2	nazwisko	
 Knapiusze	Knapiusz	depr:pl:nom:m2	nazwisko	
 Knapiusze	Knapiusz	depr:pl:voc:m2	nazwisko	
 Knapiusze	Knapiusz	subst:pl:nom:m1	nazwisko	
@@ -7504,6 +7729,7 @@ Kniaźninowie	Kniaźnin	subst:pl:voc:m1	nazwisko
 Kniaźninowi	Kniaźnin	subst:sg:dat:m1	nazwisko	
 Kniaźninów	Kniaźnin	subst:pl:acc:m1	nazwisko	
 Kniaźninów	Kniaźnin	subst:pl:gen:m1	nazwisko	
+Kniaźniny	Kniaźnin	depr:pl:acc:m2	nazwisko	
 Kniaźniny	Kniaźnin	depr:pl:nom:m2	nazwisko	
 Kniaźniny	Kniaźnin	depr:pl:voc:m2	nazwisko	
 Knurowach	Knurów	subst:pl:loc:m3	nazwa geograficzna	
@@ -7655,6 +7881,7 @@ Kochanowskich	Kochanowski	subst:pl:gen:m1	nazwisko
 Kochanowskich	Kochanowski	subst:pl:loc:m1	nazwisko	
 Kochanowskiego	Kochanowski	subst:sg:acc:m1	nazwisko	
 Kochanowskiego	Kochanowski	subst:sg:gen:m1	nazwisko	
+Kochanowskie	Kochanowski	depr:pl:acc:m2	nazwisko	
 Kochanowskie	Kochanowski	depr:pl:nom:m2	nazwisko	
 Kochanowskie	Kochanowski	depr:pl:voc:m2	nazwisko	
 Kochanowskiemu	Kochanowski	subst:sg:dat:m1	nazwisko	
@@ -7685,6 +7912,7 @@ Kochańskich	Kochański	subst:pl:gen:m1	nazwisko
 Kochańskich	Kochański	subst:pl:loc:m1	nazwisko	
 Kochańskiego	Kochański	subst:sg:acc:m1	nazwisko	
 Kochańskiego	Kochański	subst:sg:gen:m1	nazwisko	
+Kochańskie	Kochański	depr:pl:acc:m2	nazwisko	
 Kochańskie	Kochański	depr:pl:nom:m2	nazwisko	
 Kochańskie	Kochański	depr:pl:voc:m2	nazwisko	
 Kochańskiemu	Kochański	subst:sg:dat:m1	nazwisko	
@@ -7729,6 +7957,7 @@ Kociszewskich	Kociszewski	subst:pl:gen:m1	nazwisko
 Kociszewskich	Kociszewski	subst:pl:loc:m1	nazwisko	
 Kociszewskiego	Kociszewski	subst:sg:acc:m1	nazwisko	
 Kociszewskiego	Kociszewski	subst:sg:gen:m1	nazwisko	
+Kociszewskie	Kociszewski	depr:pl:acc:m2	nazwisko	
 Kociszewskie	Kociszewski	depr:pl:nom:m2	nazwisko	
 Kociszewskie	Kociszewski	depr:pl:voc:m2	nazwisko	
 Kociszewskiemu	Kociszewski	subst:sg:dat:m1	nazwisko	
@@ -7771,6 +8000,7 @@ Kodalyach	Kodaly	subst:pl:loc:m1	nazwisko
 Kodalya	Kodaly	subst:sg:acc:m1	nazwisko	
 Kodalya	Kodaly	subst:sg:gen:m1	nazwisko	
 Kodalyami	Kodaly	subst:pl:inst:m1	nazwisko	
+Kodalye	Kodaly	depr:pl:acc:m2	nazwisko	
 Kodalye	Kodaly	depr:pl:nom:m2	nazwisko	
 Kodalye	Kodaly	depr:pl:voc:m2	nazwisko	
 Kodalyem	Kodaly	subst:sg:inst:m1	nazwisko	
@@ -7842,6 +8072,7 @@ Kofich	Kofi	subst:pl:gen:m1	imię
 Kofich	Kofi	subst:pl:loc:m1	imię	
 Kofiego	Kofi	subst:sg:acc:m1	imię	
 Kofiego	Kofi	subst:sg:gen:m1	imię	
+Kofie	Kofi	depr:pl:acc:m2	imię	
 Kofie	Kofi	depr:pl:nom:m2	imię	
 Kofie	Kofi	depr:pl:voc:m2	imię	
 Kofiemu	Kofi	subst:sg:dat:m1	imię	
@@ -7867,12 +8098,14 @@ Koheletowie	Kohelet	subst:pl:voc:m1	imię	bibl.
 Koheletowi	Kohelet	subst:sg:dat:m1	imię	bibl.
 Koheletów	Kohelet	subst:pl:acc:m1	imię	bibl.
 Koheletów	Kohelet	subst:pl:gen:m1	imię	bibl.
+Kohelety	Kohelet	depr:pl:acc:m2	imię	bibl.
 Kohelety	Kohelet	depr:pl:nom:m2	imię	bibl.
 Kohelety	Kohelet	depr:pl:voc:m2	imię	bibl.
 Kohlach	Kohl	subst:pl:loc:m1	nazwisko	
 Kohla	Kohl	subst:sg:acc:m1	nazwisko	
 Kohla	Kohl	subst:sg:gen:m1	nazwisko	
 Kohlami	Kohl	subst:pl:inst:m1	nazwisko	
+Kohle	Kohl	depr:pl:acc:m2	nazwisko	
 Kohle	Kohl	depr:pl:nom:m2	nazwisko	
 Kohle	Kohl	depr:pl:voc:m2	nazwisko	
 Kohlem	Kohl	subst:sg:inst:m1	nazwisko	
@@ -7899,6 +8132,7 @@ Koisowie	Kois	subst:pl:voc:m1	nazwisko
 Koisowi	Kois	subst:sg:dat:m1	nazwisko	
 Koisów	Kois	subst:pl:acc:m1	nazwisko	
 Koisów	Kois	subst:pl:gen:m1	nazwisko	
+Koisy	Kois	depr:pl:acc:m2	nazwisko	
 Koisy	Kois	depr:pl:nom:m2	nazwisko	
 Koisy	Kois	depr:pl:voc:m2	nazwisko	
 Kolasińska	Kolasińska	subst:sg:nom:f	nazwisko	
@@ -7922,6 +8156,7 @@ Kolasińskich	Kolasiński	subst:pl:gen:m1	nazwisko
 Kolasińskich	Kolasiński	subst:pl:loc:m1	nazwisko	
 Kolasińskiego	Kolasiński	subst:sg:acc:m1	nazwisko	
 Kolasińskiego	Kolasiński	subst:sg:gen:m1	nazwisko	
+Kolasińskie	Kolasiński	depr:pl:acc:m2	nazwisko	
 Kolasińskie	Kolasiński	depr:pl:nom:m2	nazwisko	
 Kolasińskie	Kolasiński	depr:pl:voc:m2	nazwisko	
 Kolasińskiemu	Kolasiński	subst:sg:dat:m1	nazwisko	
@@ -7935,6 +8170,7 @@ Kolbach	Kolbe	subst:pl:loc:m1	nazwisko
 Kolbami	Kolbe	subst:pl:inst:m1	nazwisko	
 Kolbego	Kolbe	subst:sg:acc:m1	nazwisko	
 Kolbego	Kolbe	subst:sg:gen:m1	nazwisko	
+Kolbe	Kolbe	depr:pl:acc:m2	nazwisko	
 Kolbe	Kolbe	depr:pl:nom:m2	nazwisko	
 Kolbe	Kolbe	depr:pl:voc:m2	nazwisko	
 Kolbe	Kolbe	subst:sg:nom:m1	nazwisko	
@@ -7952,6 +8188,7 @@ Kolberga	Kolberg	subst:sg:acc:m1	nazwisko
 Kolberga	Kolberg	subst:sg:gen:m1	nazwisko	
 Kolbergami	Kolberg	subst:pl:inst:m1	nazwisko	
 Kolbergiem	Kolberg	subst:sg:inst:m1	nazwisko	
+Kolbergi	Kolberg	depr:pl:acc:m2	nazwisko	
 Kolbergi	Kolberg	depr:pl:nom:m2	nazwisko	
 Kolbergi	Kolberg	depr:pl:voc:m2	nazwisko	
 Kolberg	Kolberg	subst:sg:nom:m1	nazwisko	
@@ -7984,6 +8221,7 @@ Kolbuszewskich	Kolbuszewski	subst:pl:gen:m1	nazwisko
 Kolbuszewskich	Kolbuszewski	subst:pl:loc:m1	nazwisko	
 Kolbuszewskiego	Kolbuszewski	subst:sg:acc:m1	nazwisko	
 Kolbuszewskiego	Kolbuszewski	subst:sg:gen:m1	nazwisko	
+Kolbuszewskie	Kolbuszewski	depr:pl:acc:m2	nazwisko	
 Kolbuszewskie	Kolbuszewski	depr:pl:nom:m2	nazwisko	
 Kolbuszewskie	Kolbuszewski	depr:pl:voc:m2	nazwisko	
 Kolbuszewskiemu	Kolbuszewski	subst:sg:dat:m1	nazwisko	
@@ -8056,6 +8294,7 @@ Kolińskich	Koliński	subst:pl:gen:m1	nazwisko
 Kolińskich	Koliński	subst:pl:loc:m1	nazwisko	
 Kolińskiego	Koliński	subst:sg:acc:m1	nazwisko	
 Kolińskiego	Koliński	subst:sg:gen:m1	nazwisko	
+Kolińskie	Koliński	depr:pl:acc:m2	nazwisko	
 Kolińskie	Koliński	depr:pl:nom:m2	nazwisko	
 Kolińskie	Koliński	depr:pl:voc:m2	nazwisko	
 Kolińskiemu	Koliński	subst:sg:dat:m1	nazwisko	
@@ -8164,6 +8403,7 @@ Kolosaninowi	Kolosanin	subst:sg:dat:m1	nazwa pospolita	bibl.
 Kolosan	Kolosanin	subst:pl:acc:m1	nazwa pospolita	bibl.
 Kolosan	Kolosanin	subst:pl:gen:m1	nazwa pospolita	bibl.
 Kolosanom	Kolosanin	subst:pl:dat:m1	nazwa pospolita	bibl.
+Kolosany	Kolosanin	depr:pl:acc:m2	nazwa pospolita	bibl.
 Kolosany	Kolosanin	depr:pl:nom:m2	nazwa pospolita	bibl.
 Kolosany	Kolosanin	depr:pl:voc:m2	nazwa pospolita	bibl.
 Koloseach	Koloseum	subst:pl:loc:n:ncol	nazwa własna budowli	
@@ -8208,6 +8448,7 @@ Kolumbowie	Kolumb	subst:pl:voc:m1	nazwisko
 Kolumbowi	Kolumb	subst:sg:dat:m1	nazwisko	
 Kolumbów	Kolumb	subst:pl:acc:m1	nazwisko	
 Kolumbów	Kolumb	subst:pl:gen:m1	nazwisko	
+Kolumby	Kolumb	depr:pl:acc:m2	nazwisko	
 Kolumby	Kolumb	depr:pl:nom:m2	nazwisko	
 Kolumby	Kolumb	depr:pl:voc:m2	nazwisko	
 Kolumbiach	Kolumbia	subst:pl:loc:f	nazwa geograficzna	
@@ -8232,6 +8473,7 @@ Kolumbijczyka	Kolumbijczyk	subst:sg:acc:m1	nazwa pospolita
 Kolumbijczyka	Kolumbijczyk	subst:sg:gen:m1	nazwa pospolita	
 Kolumbijczykami	Kolumbijczyk	subst:pl:inst:m1	nazwa pospolita	
 Kolumbijczykiem	Kolumbijczyk	subst:sg:inst:m1	nazwa pospolita	
+Kolumbijczyki	Kolumbijczyk	depr:pl:acc:m2	nazwa pospolita	
 Kolumbijczyki	Kolumbijczyk	depr:pl:nom:m2	nazwa pospolita	
 Kolumbijczyki	Kolumbijczyk	depr:pl:voc:m2	nazwa pospolita	
 Kolumbijczyk	Kolumbijczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -8334,6 +8576,7 @@ Kołakowskich	Kołakowski	subst:pl:gen:m1	nazwisko
 Kołakowskich	Kołakowski	subst:pl:loc:m1	nazwisko	
 Kołakowskiego	Kołakowski	subst:sg:acc:m1	nazwisko	
 Kołakowskiego	Kołakowski	subst:sg:gen:m1	nazwisko	
+Kołakowskie	Kołakowski	depr:pl:acc:m2	nazwisko	
 Kołakowskie	Kołakowski	depr:pl:nom:m2	nazwisko	
 Kołakowskie	Kołakowski	depr:pl:voc:m2	nazwisko	
 Kołakowskiemu	Kołakowski	subst:sg:dat:m1	nazwisko	
@@ -8363,6 +8606,7 @@ Kołłątajach	Kołłątaj	subst:pl:loc:m1	nazwisko
 Kołłątaja	Kołłątaj	subst:sg:acc:m1	nazwisko	
 Kołłątaja	Kołłątaj	subst:sg:gen:m1	nazwisko	
 Kołłątajami	Kołłątaj	subst:pl:inst:m1	nazwisko	
+Kołłątaje	Kołłątaj	depr:pl:acc:m2	nazwisko	
 Kołłątaje	Kołłątaj	depr:pl:nom:m2	nazwisko	
 Kołłątaje	Kołłątaj	depr:pl:voc:m2	nazwisko	
 Kołłątaje	Kołłątaj	subst:pl:nom:m1	nazwisko	
@@ -8397,6 +8641,7 @@ Kołodkach	Kołodko	subst:pl:loc:m1	nazwisko
 Kołodkami	Kołodko	subst:pl:inst:m1	nazwisko	
 Kołodką	Kołodko	subst:sg:inst:m1	nazwisko	
 Kołodkę	Kołodko	subst:sg:acc:m1	nazwisko	
+Kołodki	Kołodko	depr:pl:acc:m2	nazwisko	
 Kołodki	Kołodko	depr:pl:nom:m2	nazwisko	
 Kołodki	Kołodko	depr:pl:voc:m2	nazwisko	
 Kołodki	Kołodko	subst:sg:gen:m1	nazwisko	
@@ -8411,6 +8656,7 @@ Kołodziejach	Kołodziej	subst:pl:loc:m1	nazwisko
 Kołodzieja	Kołodziej	subst:sg:acc:m1	nazwisko	
 Kołodzieja	Kołodziej	subst:sg:gen:m1	nazwisko	
 Kołodziejami	Kołodziej	subst:pl:inst:m1	nazwisko	
+Kołodzieje	Kołodziej	depr:pl:acc:m2	nazwisko	
 Kołodzieje	Kołodziej	depr:pl:nom:m2	nazwisko	
 Kołodzieje	Kołodziej	depr:pl:voc:m2	nazwisko	
 Kołodziejem	Kołodziej	subst:sg:inst:m1	nazwisko	
@@ -8428,6 +8674,7 @@ Kołodziejczaka	Kołodziejczak	subst:sg:acc:m1	nazwisko
 Kołodziejczaka	Kołodziejczak	subst:sg:gen:m1	nazwisko	
 Kołodziejczakami	Kołodziejczak	subst:pl:inst:m1	nazwisko	
 Kołodziejczakiem	Kołodziejczak	subst:sg:inst:m1	nazwisko	
+Kołodziejczaki	Kołodziejczak	depr:pl:acc:m2	nazwisko	
 Kołodziejczaki	Kołodziejczak	depr:pl:nom:m2	nazwisko	
 Kołodziejczaki	Kołodziejczak	depr:pl:voc:m2	nazwisko	
 Kołodziejczak	Kołodziejczak	subst:sg:nom:m1	nazwisko	
@@ -8444,6 +8691,7 @@ Kołodziejczyka	Kołodziejczyk	subst:sg:acc:m1	nazwisko
 Kołodziejczyka	Kołodziejczyk	subst:sg:gen:m1	nazwisko	
 Kołodziejczykami	Kołodziejczyk	subst:pl:inst:m1	nazwisko	
 Kołodziejczykiem	Kołodziejczyk	subst:sg:inst:m1	nazwisko	
+Kołodziejczyki	Kołodziejczyk	depr:pl:acc:m2	nazwisko	
 Kołodziejczyki	Kołodziejczyk	depr:pl:nom:m2	nazwisko	
 Kołodziejczyki	Kołodziejczyk	depr:pl:voc:m2	nazwisko	
 Kołodziejczyk	Kołodziejczyk	subst:sg:nom:m1	nazwisko	
@@ -8483,12 +8731,14 @@ Komanowie	Koman	subst:pl:voc:m1	nazwa pospolita
 Komanowi	Koman	subst:sg:dat:m1	nazwa pospolita	
 Komanów	Koman	subst:pl:acc:m1	nazwa pospolita	
 Komanów	Koman	subst:pl:gen:m1	nazwa pospolita	
+Komany	Koman	depr:pl:acc:m2	nazwa pospolita	
 Komany	Koman	depr:pl:nom:m2	nazwa pospolita	
 Komany	Koman	depr:pl:voc:m2	nazwa pospolita	
 Komanczach	Komancz	subst:pl:loc:m1	nazwa pospolita	
 Komancza	Komancz	subst:sg:acc:m1	nazwa pospolita	
 Komancza	Komancz	subst:sg:gen:m1	nazwa pospolita	
 Komanczami	Komancz	subst:pl:inst:m1	nazwa pospolita	
+Komancze	Komancz	depr:pl:acc:m2	nazwa pospolita	
 Komancze	Komancz	depr:pl:nom:m2	nazwa pospolita	
 Komancze	Komancz	depr:pl:voc:m2	nazwa pospolita	
 Komancze	Komancz	subst:pl:nom:m1	nazwa pospolita	
@@ -8554,6 +8804,7 @@ Komenskich	Komensky	subst:pl:gen:m1	nazwisko
 Komenskich	Komensky	subst:pl:loc:m1	nazwisko	
 Komenskiego	Komensky	subst:sg:acc:m1	nazwisko	
 Komenskiego	Komensky	subst:sg:gen:m1	nazwisko	
+Komenskie	Komensky	depr:pl:acc:m2	nazwisko	
 Komenskie	Komensky	depr:pl:nom:m2	nazwisko	
 Komenskie	Komensky	depr:pl:voc:m2	nazwisko	
 Komenskiemu	Komensky	subst:sg:dat:m1	nazwisko	
@@ -8584,6 +8835,7 @@ Komornickich	Komornicki	subst:pl:gen:m1	nazwisko
 Komornickich	Komornicki	subst:pl:loc:m1	nazwisko	
 Komornickiego	Komornicki	subst:sg:acc:m1	nazwisko	
 Komornickiego	Komornicki	subst:sg:gen:m1	nazwisko	
+Komornickie	Komornicki	depr:pl:acc:m2	nazwisko	
 Komornickie	Komornicki	depr:pl:nom:m2	nazwisko	
 Komornickie	Komornicki	depr:pl:voc:m2	nazwisko	
 Komornickiemu	Komornicki	subst:sg:dat:m1	nazwisko	
@@ -8628,6 +8880,7 @@ Komorowskich	Komorowski	subst:pl:gen:m1	nazwisko
 Komorowskich	Komorowski	subst:pl:loc:m1	nazwisko	
 Komorowskiego	Komorowski	subst:sg:acc:m1	nazwisko	
 Komorowskiego	Komorowski	subst:sg:gen:m1	nazwisko	
+Komorowskie	Komorowski	depr:pl:acc:m2	nazwisko	
 Komorowskie	Komorowski	depr:pl:nom:m2	nazwisko	
 Komorowskie	Komorowski	depr:pl:voc:m2	nazwisko	
 Komorowskiemu	Komorowski	subst:sg:dat:m1	nazwisko	
@@ -8701,6 +8954,7 @@ Konarskich	Konarski	subst:pl:gen:m1	nazwisko
 Konarskich	Konarski	subst:pl:loc:m1	nazwisko	
 Konarskiego	Konarski	subst:sg:acc:m1	nazwisko	
 Konarskiego	Konarski	subst:sg:gen:m1	nazwisko	
+Konarskie	Konarski	depr:pl:acc:m2	nazwisko	
 Konarskie	Konarski	depr:pl:nom:m2	nazwisko	
 Konarskie	Konarski	depr:pl:voc:m2	nazwisko	
 Konarskiemu	Konarski	subst:sg:dat:m1	nazwisko	
@@ -8731,6 +8985,7 @@ Konarzewskich	Konarzewski	subst:pl:gen:m1	nazwisko
 Konarzewskich	Konarzewski	subst:pl:loc:m1	nazwisko	
 Konarzewskiego	Konarzewski	subst:sg:acc:m1	nazwisko	
 Konarzewskiego	Konarzewski	subst:sg:gen:m1	nazwisko	
+Konarzewskie	Konarzewski	depr:pl:acc:m2	nazwisko	
 Konarzewskie	Konarzewski	depr:pl:nom:m2	nazwisko	
 Konarzewskie	Konarzewski	depr:pl:voc:m2	nazwisko	
 Konarzewskiemu	Konarzewski	subst:sg:dat:m1	nazwisko	
@@ -8761,6 +9016,7 @@ Konczałowskich	Konczałowski	subst:pl:gen:m1	nazwisko
 Konczałowskich	Konczałowski	subst:pl:loc:m1	nazwisko	
 Konczałowskiego	Konczałowski	subst:sg:acc:m1	nazwisko	
 Konczałowskiego	Konczałowski	subst:sg:gen:m1	nazwisko	
+Konczałowskie	Konczałowski	depr:pl:acc:m2	nazwisko	
 Konczałowskie	Konczałowski	depr:pl:nom:m2	nazwisko	
 Konczałowskie	Konczałowski	depr:pl:voc:m2	nazwisko	
 Konczałowskiemu	Konczałowski	subst:sg:dat:m1	nazwisko	
@@ -8800,6 +9056,7 @@ Kondratowie	Kondrat	subst:pl:voc:m1	imię
 Kondratowi	Kondrat	subst:sg:dat:m1	imię	
 Kondratów	Kondrat	subst:pl:acc:m1	imię	
 Kondratów	Kondrat	subst:pl:gen:m1	imię	
+Kondraty	Kondrat	depr:pl:acc:m2	imię	
 Kondraty	Kondrat	depr:pl:nom:m2	imię	
 Kondraty	Kondrat	depr:pl:voc:m2	imię	
 Kondratiukach	Kondratiuk	subst:pl:loc:m1	nazwisko	
@@ -8807,6 +9064,7 @@ Kondratiuka	Kondratiuk	subst:sg:acc:m1	nazwisko
 Kondratiuka	Kondratiuk	subst:sg:gen:m1	nazwisko	
 Kondratiukami	Kondratiuk	subst:pl:inst:m1	nazwisko	
 Kondratiukiem	Kondratiuk	subst:sg:inst:m1	nazwisko	
+Kondratiuki	Kondratiuk	depr:pl:acc:m2	nazwisko	
 Kondratiuki	Kondratiuk	depr:pl:nom:m2	nazwisko	
 Kondratiuki	Kondratiuk	depr:pl:voc:m2	nazwisko	
 Kondratiuk	Kondratiuk	subst:sg:nom:m1	nazwisko	
@@ -8834,6 +9092,7 @@ Konecznymi	Koneczna	subst:pl:inst:f	nazwisko
 Konecznym	Koneczna	subst:pl:dat:f	nazwisko	
 Konecznego	Koneczny	subst:sg:acc:m1	nazwisko	
 Konecznego	Koneczny	subst:sg:gen:m1	nazwisko	
+Koneczne	Koneczny	depr:pl:acc:m2	nazwisko	
 Koneczne	Koneczny	depr:pl:nom:m2	nazwisko	
 Koneczne	Koneczny	depr:pl:voc:m2	nazwisko	
 Konecznemu	Koneczny	subst:sg:dat:m1	nazwisko	
@@ -8852,6 +9111,7 @@ Konfucjuszach	Konfucjusz	subst:pl:loc:m1	imię
 Konfucjusza	Konfucjusz	subst:sg:acc:m1	imię	
 Konfucjusza	Konfucjusz	subst:sg:gen:m1	imię	
 Konfucjuszami	Konfucjusz	subst:pl:inst:m1	imię	
+Konfucjusze	Konfucjusz	depr:pl:acc:m2	imię	
 Konfucjusze	Konfucjusz	depr:pl:nom:m2	imię	
 Konfucjusze	Konfucjusz	depr:pl:voc:m2	imię	
 Konfucjusze	Konfucjusz	subst:pl:nom:m1	imię	
@@ -8887,6 +9147,7 @@ Kongresowiaka	Kongresowiak	subst:sg:acc:m1	nazwa pospolita
 Kongresowiaka	Kongresowiak	subst:sg:gen:m1	nazwa pospolita	
 Kongresowiakami	Kongresowiak	subst:pl:inst:m1	nazwa pospolita	
 Kongresowiakiem	Kongresowiak	subst:sg:inst:m1	nazwa pospolita	
+Kongresowiaki	Kongresowiak	depr:pl:acc:m2	nazwa pospolita	
 Kongresowiaki	Kongresowiak	depr:pl:nom:m2	nazwa pospolita	
 Kongresowiaki	Kongresowiak	depr:pl:voc:m2	nazwa pospolita	
 Kongresowiak	Kongresowiak	subst:sg:nom:m1	nazwa pospolita	
@@ -8932,6 +9193,7 @@ Koniecpolskich	Koniecpolski	subst:pl:gen:m1	nazwisko
 Koniecpolskich	Koniecpolski	subst:pl:loc:m1	nazwisko	
 Koniecpolskiego	Koniecpolski	subst:sg:acc:m1	nazwisko	
 Koniecpolskiego	Koniecpolski	subst:sg:gen:m1	nazwisko	
+Koniecpolskie	Koniecpolski	depr:pl:acc:m2	nazwisko	
 Koniecpolskie	Koniecpolski	depr:pl:nom:m2	nazwisko	
 Koniecpolskie	Koniecpolski	depr:pl:voc:m2	nazwisko	
 Koniecpolskiemu	Koniecpolski	subst:sg:dat:m1	nazwisko	
@@ -8957,6 +9219,7 @@ Koniecznymi	Konieczna	subst:pl:inst:f	nazwisko
 Koniecznym	Konieczna	subst:pl:dat:f	nazwisko	
 Koniecznego	Konieczny	subst:sg:acc:m1	nazwisko	
 Koniecznego	Konieczny	subst:sg:gen:m1	nazwisko	
+Konieczne	Konieczny	depr:pl:acc:m2	nazwisko	
 Konieczne	Konieczny	depr:pl:nom:m2	nazwisko	
 Konieczne	Konieczny	depr:pl:voc:m2	nazwisko	
 Koniecznemu	Konieczny	subst:sg:dat:m1	nazwisko	
@@ -9036,6 +9299,7 @@ Konopka	Konopka	subst:sg:nom:m1	nazwisko
 Konopkami	Konopka	subst:pl:inst:m1	nazwisko	
 Konopką	Konopka	subst:sg:inst:m1	nazwisko	
 Konopkę	Konopka	subst:sg:acc:m1	nazwisko	
+Konopki	Konopka	depr:pl:acc:m2	nazwisko	
 Konopki	Konopka	depr:pl:nom:m2	nazwisko	
 Konopki	Konopka	depr:pl:voc:m2	nazwisko	
 Konopki	Konopka	subst:sg:gen:m1	nazwisko	
@@ -9051,6 +9315,7 @@ Konopkach	Konopko	subst:pl:loc:m1	nazwisko
 Konopkami	Konopko	subst:pl:inst:m1	nazwisko	
 Konopką	Konopko	subst:sg:inst:m1	nazwisko	
 Konopkę	Konopko	subst:sg:acc:m1	nazwisko	
+Konopki	Konopko	depr:pl:acc:m2	nazwisko	
 Konopki	Konopko	depr:pl:nom:m2	nazwisko	
 Konopki	Konopko	depr:pl:voc:m2	nazwisko	
 Konopki	Konopko	subst:sg:gen:m1	nazwisko	
@@ -9096,6 +9361,7 @@ Konopnickich	Konopnicki	subst:pl:gen:m1	nazwisko
 Konopnickich	Konopnicki	subst:pl:loc:m1	nazwisko	
 Konopnickiego	Konopnicki	subst:sg:acc:m1	nazwisko	
 Konopnickiego	Konopnicki	subst:sg:gen:m1	nazwisko	
+Konopnickie	Konopnicki	depr:pl:acc:m2	nazwisko	
 Konopnickie	Konopnicki	depr:pl:nom:m2	nazwisko	
 Konopnickie	Konopnicki	depr:pl:voc:m2	nazwisko	
 Konopnickiemu	Konopnicki	subst:sg:dat:m1	nazwisko	
@@ -9117,6 +9383,7 @@ Konradowie	Konrad	subst:pl:voc:m1	imię
 Konradowi	Konrad	subst:sg:dat:m1	imię	
 Konradów	Konrad	subst:pl:acc:m1	imię	
 Konradów	Konrad	subst:pl:gen:m1	imię	
+Konrady	Konrad	depr:pl:acc:m2	imię	
 Konrady	Konrad	depr:pl:nom:m2	imię	
 Konrady	Konrad	depr:pl:voc:m2	imię	
 Konradzie	Konrad	subst:sg:loc:m1	imię	
@@ -9151,6 +9418,7 @@ Konradynowie	Konradyn	subst:pl:voc:m1	imię
 Konradynowi	Konradyn	subst:sg:dat:m1	imię	
 Konradynów	Konradyn	subst:pl:acc:m1	imię	
 Konradynów	Konradyn	subst:pl:gen:m1	imię	
+Konradyny	Konradyn	depr:pl:acc:m2	imię	
 Konradyny	Konradyn	depr:pl:nom:m2	imię	
 Konradyny	Konradyn	depr:pl:voc:m2	imię	
 Konradynach	Konradyna	subst:pl:loc:f	imię	
@@ -9200,6 +9468,7 @@ Konstancjuszach	Konstancjusz	subst:pl:loc:m1	imię
 Konstancjusza	Konstancjusz	subst:sg:acc:m1	imię	
 Konstancjusza	Konstancjusz	subst:sg:gen:m1	imię	
 Konstancjuszami	Konstancjusz	subst:pl:inst:m1	imię	
+Konstancjusze	Konstancjusz	depr:pl:acc:m2	imię	
 Konstancjusze	Konstancjusz	depr:pl:nom:m2	imię	
 Konstancjusze	Konstancjusz	depr:pl:voc:m2	imię	
 Konstancjusze	Konstancjusz	subst:pl:nom:m1	imię	
@@ -9230,10 +9499,12 @@ Konstansowie	Konstans	subst:pl:voc:m1	imię
 Konstansowi	Konstans	subst:sg:dat:m1	imię	
 Konstansów	Konstans	subst:pl:acc:m1	imię	
 Konstansów	Konstans	subst:pl:gen:m1	imię	
+Konstansy	Konstans	depr:pl:acc:m2	imię	
 Konstansy	Konstans	depr:pl:nom:m2	imię	
 Konstansy	Konstans	depr:pl:voc:m2	imię	
 Konstantego	Konstanty	subst:sg:acc:m1	imię	
 Konstantego	Konstanty	subst:sg:gen:m1	imię	
+Konstante	Konstanty	depr:pl:acc:m2	imię	
 Konstante	Konstanty	depr:pl:nom:m2	imię	
 Konstante	Konstanty	depr:pl:voc:m2	imię	
 Konstantemu	Konstanty	subst:sg:dat:m1	imię	
@@ -9262,6 +9533,7 @@ Konstantynowie	Konstantyn	subst:pl:voc:m1	imię
 Konstantynowi	Konstantyn	subst:sg:dat:m1	imię	
 Konstantynów	Konstantyn	subst:pl:acc:m1	imię	
 Konstantynów	Konstantyn	subst:pl:gen:m1	imię	
+Konstantyny	Konstantyn	depr:pl:acc:m2	imię	
 Konstantyny	Konstantyn	depr:pl:nom:m2	imię	
 Konstantyny	Konstantyn	depr:pl:voc:m2	imię	
 Konstantynopolach	Konstantynopol	subst:pl:loc:m3	nazwa geograficzna	
@@ -9324,6 +9596,7 @@ Kontnymi	Kontna	subst:pl:inst:f	nazwisko
 Kontnym	Kontna	subst:pl:dat:f	nazwisko	
 Kontnego	Kontny	subst:sg:acc:m1	nazwisko	
 Kontnego	Kontny	subst:sg:gen:m1	nazwisko	
+Kontne	Kontny	depr:pl:acc:m2	nazwisko	
 Kontne	Kontny	depr:pl:nom:m2	nazwisko	
 Kontne	Kontny	depr:pl:voc:m2	nazwisko	
 Kontnemu	Kontny	subst:sg:dat:m1	nazwisko	
@@ -9359,6 +9632,7 @@ Konwickich	Konwicki	subst:pl:gen:m1	nazwisko
 Konwickich	Konwicki	subst:pl:loc:m1	nazwisko	
 Konwickiego	Konwicki	subst:sg:acc:m1	nazwisko	
 Konwickiego	Konwicki	subst:sg:gen:m1	nazwisko	
+Konwickie	Konwicki	depr:pl:acc:m2	nazwisko	
 Konwickie	Konwicki	depr:pl:nom:m2	nazwisko	
 Konwickie	Konwicki	depr:pl:voc:m2	nazwisko	
 Konwickiemu	Konwicki	subst:sg:dat:m1	nazwisko	
@@ -9418,6 +9692,7 @@ Kopalińskich	Kopaliński	subst:pl:gen:m1	nazwisko
 Kopalińskich	Kopaliński	subst:pl:loc:m1	nazwisko	
 Kopalińskiego	Kopaliński	subst:sg:acc:m1	nazwisko	
 Kopalińskiego	Kopaliński	subst:sg:gen:m1	nazwisko	
+Kopalińskie	Kopaliński	depr:pl:acc:m2	nazwisko	
 Kopalińskie	Kopaliński	depr:pl:nom:m2	nazwisko	
 Kopalińskie	Kopaliński	depr:pl:voc:m2	nazwisko	
 Kopalińskiemu	Kopaliński	subst:sg:dat:m1	nazwisko	
@@ -9448,6 +9723,7 @@ Kopcińskich	Kopciński	subst:pl:gen:m1	nazwisko
 Kopcińskich	Kopciński	subst:pl:loc:m1	nazwisko	
 Kopcińskiego	Kopciński	subst:sg:acc:m1	nazwisko	
 Kopcińskiego	Kopciński	subst:sg:gen:m1	nazwisko	
+Kopcińskie	Kopciński	depr:pl:acc:m2	nazwisko	
 Kopcińskie	Kopciński	depr:pl:nom:m2	nazwisko	
 Kopcińskie	Kopciński	depr:pl:voc:m2	nazwisko	
 Kopcińskiemu	Kopciński	subst:sg:dat:m1	nazwisko	
@@ -9478,6 +9754,7 @@ Kopczyńskich	Kopczyński	subst:pl:gen:m1	nazwisko
 Kopczyńskich	Kopczyński	subst:pl:loc:m1	nazwisko	
 Kopczyńskiego	Kopczyński	subst:sg:acc:m1	nazwisko	
 Kopczyńskiego	Kopczyński	subst:sg:gen:m1	nazwisko	
+Kopczyńskie	Kopczyński	depr:pl:acc:m2	nazwisko	
 Kopczyńskie	Kopczyński	depr:pl:nom:m2	nazwisko	
 Kopczyńskie	Kopczyński	depr:pl:voc:m2	nazwisko	
 Kopczyńskiemu	Kopczyński	subst:sg:dat:m1	nazwisko	
@@ -9491,6 +9768,7 @@ Kopciach	Kopeć	subst:pl:loc:m1	nazwisko
 Kopcia	Kopeć	subst:sg:acc:m1	nazwisko	
 Kopcia	Kopeć	subst:sg:gen:m1	nazwisko	
 Kopciami	Kopeć	subst:pl:inst:m1	nazwisko	
+Kopcie	Kopeć	depr:pl:acc:m2	nazwisko	
 Kopcie	Kopeć	depr:pl:nom:m2	nazwisko	
 Kopcie	Kopeć	depr:pl:voc:m2	nazwisko	
 Kopciem	Kopeć	subst:sg:inst:m1	nazwisko	
@@ -9529,6 +9807,7 @@ Koprowie	Koper	subst:pl:voc:m1	nazwisko
 Koprowi	Koper	subst:sg:dat:m1	nazwisko	
 Koprów	Koper	subst:pl:acc:m1	nazwisko	
 Koprów	Koper	subst:pl:gen:m1	nazwisko	
+Kopry	Koper	depr:pl:acc:m2	nazwisko	
 Kopry	Koper	depr:pl:nom:m2	nazwisko	
 Kopry	Koper	depr:pl:voc:m2	nazwisko	
 Koprze	Koper	subst:sg:loc:m1	nazwisko	
@@ -9538,6 +9817,7 @@ Kopernika	Kopernik	subst:sg:acc:m1	nazwisko
 Kopernika	Kopernik	subst:sg:gen:m1	nazwisko	
 Kopernikami	Kopernik	subst:pl:inst:m1	nazwisko	
 Kopernikiem	Kopernik	subst:sg:inst:m1	nazwisko	
+Koperniki	Kopernik	depr:pl:acc:m2	nazwisko	
 Koperniki	Kopernik	depr:pl:nom:m2	nazwisko	
 Koperniki	Kopernik	depr:pl:voc:m2	nazwisko	
 Kopernik	Kopernik	subst:sg:nom:m1	nazwisko	
@@ -9570,6 +9850,7 @@ Koperskich	Koperski	subst:pl:gen:m1	nazwisko
 Koperskich	Koperski	subst:pl:loc:m1	nazwisko	
 Koperskiego	Koperski	subst:sg:acc:m1	nazwisko	
 Koperskiego	Koperski	subst:sg:gen:m1	nazwisko	
+Koperskie	Koperski	depr:pl:acc:m2	nazwisko	
 Koperskie	Koperski	depr:pl:nom:m2	nazwisko	
 Koperskie	Koperski	depr:pl:voc:m2	nazwisko	
 Koperskiemu	Koperski	subst:sg:dat:m1	nazwisko	
@@ -9600,6 +9881,7 @@ Koprowskich	Koprowski	subst:pl:gen:m1	nazwisko
 Koprowskich	Koprowski	subst:pl:loc:m1	nazwisko	
 Koprowskiego	Koprowski	subst:sg:acc:m1	nazwisko	
 Koprowskiego	Koprowski	subst:sg:gen:m1	nazwisko	
+Koprowskie	Koprowski	depr:pl:acc:m2	nazwisko	
 Koprowskie	Koprowski	depr:pl:nom:m2	nazwisko	
 Koprowskie	Koprowski	depr:pl:voc:m2	nazwisko	
 Koprowskiemu	Koprowski	subst:sg:dat:m1	nazwisko	
@@ -9637,6 +9919,7 @@ Koptowie	Kopt	subst:pl:voc:m1	nazwa pospolita
 Koptowi	Kopt	subst:sg:dat:m1	nazwa pospolita	
 Koptów	Kopt	subst:pl:acc:m1	nazwa pospolita	
 Koptów	Kopt	subst:pl:gen:m1	nazwa pospolita	
+Kopty	Kopt	depr:pl:acc:m2	nazwa pospolita	
 Kopty	Kopt	depr:pl:nom:m2	nazwa pospolita	
 Kopty	Kopt	depr:pl:voc:m2	nazwa pospolita	
 Koptyjce	Koptyjka	subst:sg:dat:f	nazwa pospolita	etn.
@@ -9681,12 +9964,14 @@ Korabowie	Korab:s1	subst:pl:voc:m1	nazwisko
 Korabowi	Korab:s1	subst:sg:dat:m1	nazwisko	
 Korabów	Korab:s1	subst:pl:acc:m1	nazwisko	
 Korabów	Korab:s1	subst:pl:gen:m1	nazwisko	
+Koraby	Korab:s1	depr:pl:acc:m2	nazwisko	
 Koraby	Korab:s1	depr:pl:nom:m2	nazwisko	
 Koraby	Korab:s1	depr:pl:voc:m2	nazwisko	
 Korabiach	Korab:s2	subst:pl:loc:m1	nazwa pospolita	daw.
 Korabia	Korab:s2	subst:sg:acc:m1	nazwa pospolita	daw.
 Korabia	Korab:s2	subst:sg:gen:m1	nazwa pospolita	daw.
 Korabiami	Korab:s2	subst:pl:inst:m1	nazwa pospolita	daw.
+Korabie	Korab:s2	depr:pl:acc:m2	nazwa pospolita	daw.
 Korabie	Korab:s2	depr:pl:nom:m2	nazwa pospolita	daw.
 Korabie	Korab:s2	depr:pl:voc:m2	nazwa pospolita	daw.
 Korabiem	Korab:s2	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -9727,6 +10012,7 @@ Korbutowie	Korbut	subst:pl:voc:m1	nazwisko
 Korbutowi	Korbut	subst:sg:dat:m1	nazwisko	
 Korbutów	Korbut	subst:pl:acc:m1	nazwisko	
 Korbutów	Korbut	subst:pl:gen:m1	nazwisko	
+Korbuty	Korbut	depr:pl:acc:m2	nazwisko	
 Korbuty	Korbut	depr:pl:nom:m2	nazwisko	
 Korbuty	Korbut	depr:pl:voc:m2	nazwisko	
 Korczakach	Korczak	subst:pl:loc:m1	nazwisko	
@@ -9734,6 +10020,7 @@ Korczaka	Korczak	subst:sg:acc:m1	nazwisko
 Korczaka	Korczak	subst:sg:gen:m1	nazwisko	
 Korczakami	Korczak	subst:pl:inst:m1	nazwisko	
 Korczakiem	Korczak	subst:sg:inst:m1	nazwisko	
+Korczaki	Korczak	depr:pl:acc:m2	nazwisko	
 Korczaki	Korczak	depr:pl:nom:m2	nazwisko	
 Korczaki	Korczak	depr:pl:voc:m2	nazwisko	
 Korczak	Korczak	subst:sg:nom:m1	nazwisko	
@@ -9766,6 +10053,7 @@ Korczakowskich	Korczakowski	subst:pl:gen:m1	nazwisko
 Korczakowskich	Korczakowski	subst:pl:loc:m1	nazwisko	
 Korczakowskiego	Korczakowski	subst:sg:acc:m1	nazwisko	
 Korczakowskiego	Korczakowski	subst:sg:gen:m1	nazwisko	
+Korczakowskie	Korczakowski	depr:pl:acc:m2	nazwisko	
 Korczakowskie	Korczakowski	depr:pl:nom:m2	nazwisko	
 Korczakowskie	Korczakowski	depr:pl:voc:m2	nazwisko	
 Korczakowskiemu	Korczakowski	subst:sg:dat:m1	nazwisko	
@@ -9810,6 +10098,7 @@ Korczyńskich	Korczyński	subst:pl:gen:m1	nazwisko
 Korczyńskich	Korczyński	subst:pl:loc:m1	nazwisko	
 Korczyńskiego	Korczyński	subst:sg:acc:m1	nazwisko	
 Korczyńskiego	Korczyński	subst:sg:gen:m1	nazwisko	
+Korczyńskie	Korczyński	depr:pl:acc:m2	nazwisko	
 Korczyńskie	Korczyński	depr:pl:nom:m2	nazwisko	
 Korczyńskie	Korczyński	depr:pl:voc:m2	nazwisko	
 Korczyńskiemu	Korczyński	subst:sg:dat:m1	nazwisko	
@@ -9826,6 +10115,7 @@ Kordeckich	Kordecki	subst:pl:gen:m1	nazwisko
 Kordeckich	Kordecki	subst:pl:loc:m1	nazwisko	
 Kordeckiego	Kordecki	subst:sg:acc:m1	nazwisko	
 Kordeckiego	Kordecki	subst:sg:gen:m1	nazwisko	
+Kordeckie	Kordecki	depr:pl:acc:m2	nazwisko	
 Kordeckie	Kordecki	depr:pl:nom:m2	nazwisko	
 Kordeckie	Kordecki	depr:pl:voc:m2	nazwisko	
 Kordeckiemu	Kordecki	subst:sg:dat:m1	nazwisko	
@@ -9864,6 +10154,7 @@ Kordianowie	Kordian	subst:pl:voc:m1	imię	lit.
 Kordianowi	Kordian	subst:sg:dat:m1	imię	lit.
 Kordianów	Kordian	subst:pl:acc:m1	imię	lit.
 Kordianów	Kordian	subst:pl:gen:m1	imię	lit.
+Kordiany	Kordian	depr:pl:acc:m2	imię	lit.
 Kordiany	Kordian	depr:pl:nom:m2	imię	lit.
 Kordiany	Kordian	depr:pl:voc:m2	imię	lit.
 Kordulach	Kordula	subst:pl:loc:f	imię	
@@ -9945,6 +10236,7 @@ Koreańczyka	Koreańczyk	subst:sg:acc:m1	nazwa pospolita
 Koreańczyka	Koreańczyk	subst:sg:gen:m1	nazwa pospolita	
 Koreańczykami	Koreańczyk	subst:pl:inst:m1	nazwa pospolita	
 Koreańczykiem	Koreańczyk	subst:sg:inst:m1	nazwa pospolita	
+Koreańczyki	Koreańczyk	depr:pl:acc:m2	nazwa pospolita	
 Koreańczyki	Koreańczyk	depr:pl:nom:m2	nazwa pospolita	
 Koreańczyki	Koreańczyk	depr:pl:voc:m2	nazwa pospolita	
 Koreańczyk	Koreańczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -9971,6 +10263,7 @@ Korfantów	Korfantów	subst:sg:acc:m3	nazwa geograficzna
 Korfantów	Korfantów	subst:sg:nom:m3	nazwa geograficzna	
 Korfantego	Korfanty	subst:sg:acc:m1	nazwisko	
 Korfantego	Korfanty	subst:sg:gen:m1	nazwisko	
+Korfante	Korfanty	depr:pl:acc:m2	nazwisko	
 Korfante	Korfanty	depr:pl:nom:m2	nazwisko	
 Korfante	Korfanty	depr:pl:voc:m2	nazwisko	
 Korfantemu	Korfanty	subst:sg:dat:m1	nazwisko	
@@ -9991,6 +10284,7 @@ Kornelach	Kornel	subst:pl:loc:m1	imię
 Kornela	Kornel	subst:sg:acc:m1	imię	
 Kornela	Kornel	subst:sg:gen:m1	imię	
 Kornelami	Kornel	subst:pl:inst:m1	imię	
+Kornele	Kornel	depr:pl:acc:m2	imię	
 Kornele	Kornel	depr:pl:nom:m2	imię	
 Kornele	Kornel	depr:pl:voc:m2	imię	
 Kornele	Kornel	subst:pl:nom:m1	imię	
@@ -10007,6 +10301,7 @@ Kornelu	Kornel	subst:sg:loc:m1	imię
 Kornelu	Kornel	subst:sg:voc:m1	imię	
 Kornelego	Korneli	subst:sg:acc:m1	imię	
 Kornelego	Korneli	subst:sg:gen:m1	imię	
+Kornele	Korneli	depr:pl:acc:m2	imię	
 Kornele	Korneli	depr:pl:nom:m2	imię	
 Kornele	Korneli	depr:pl:voc:m2	imię	
 Kornelemu	Korneli	subst:sg:dat:m1	imię	
@@ -10040,6 +10335,7 @@ Korneliuszach	Korneliusz	subst:pl:loc:m1	imię
 Korneliusza	Korneliusz	subst:sg:acc:m1	imię	
 Korneliusza	Korneliusz	subst:sg:gen:m1	imię	
 Korneliuszami	Korneliusz	subst:pl:inst:m1	imię	
+Korneliusze	Korneliusz	depr:pl:acc:m2	imię	
 Korneliusze	Korneliusz	depr:pl:nom:m2	imię	
 Korneliusze	Korneliusz	depr:pl:voc:m2	imię	
 Korneliusze	Korneliusz	subst:pl:nom:m1	imię	
@@ -10066,6 +10362,7 @@ Kornhauserowie	Kornhauser	subst:pl:voc:m1	nazwisko
 Kornhauserowi	Kornhauser	subst:sg:dat:m1	nazwisko	
 Kornhauserów	Kornhauser	subst:pl:acc:m1	nazwisko	
 Kornhauserów	Kornhauser	subst:pl:gen:m1	nazwisko	
+Kornhausery	Kornhauser	depr:pl:acc:m2	nazwisko	
 Kornhausery	Kornhauser	depr:pl:nom:m2	nazwisko	
 Kornhausery	Kornhauser	depr:pl:voc:m2	nazwisko	
 Kornhauserze	Kornhauser	subst:sg:loc:m1	nazwisko	
@@ -10119,6 +10416,7 @@ KOR-owcach	KOR-owiec	subst:pl:loc:m1	nazwa pospolita
 KOR-owca	KOR-owiec	subst:sg:acc:m1	nazwa pospolita	
 KOR-owca	KOR-owiec	subst:sg:gen:m1	nazwa pospolita	
 KOR-owcami	KOR-owiec	subst:pl:inst:m1	nazwa pospolita	
+KOR-owce	KOR-owiec	depr:pl:acc:m2	nazwa pospolita	
 KOR-owce	KOR-owiec	depr:pl:nom:m2	nazwa pospolita	
 KOR-owce	KOR-owiec	depr:pl:voc:m2	nazwa pospolita	
 KOR-owcem	KOR-owiec	subst:sg:inst:m1	nazwa pospolita	
@@ -10172,6 +10470,7 @@ Korsakowowie	Korsakow	subst:pl:voc:m1	nazwisko
 Korsakowowi	Korsakow	subst:sg:dat:m1	nazwisko	
 Korsakowów	Korsakow	subst:pl:acc:m1	nazwisko	
 Korsakowów	Korsakow	subst:pl:gen:m1	nazwisko	
+Korsakowy	Korsakow	depr:pl:acc:m2	nazwisko	
 Korsakowy	Korsakow	depr:pl:nom:m2	nazwisko	
 Korsakowy	Korsakow	depr:pl:voc:m2	nazwisko	
 Korsyce	Korsyka	subst:sg:dat:f	nazwa geograficzna	
@@ -10202,6 +10501,7 @@ Korsykaninowi	Korsykanin	subst:sg:dat:m1	nazwa pospolita
 Korsykanom	Korsykanin	subst:pl:dat:m1	nazwa pospolita	
 Korsykanów	Korsykanin	subst:pl:acc:m1	nazwa pospolita	
 Korsykanów	Korsykanin	subst:pl:gen:m1	nazwa pospolita	
+Korsykany	Korsykanin	depr:pl:acc:m2	nazwa pospolita	
 Korsykany	Korsykanin	depr:pl:nom:m2	nazwa pospolita	
 Korsykany	Korsykanin	depr:pl:voc:m2	nazwa pospolita	
 Korsykance	Korsykanka	subst:sg:dat:f	nazwa pospolita	
@@ -10225,6 +10525,7 @@ Korsykańczyka	Korsykańczyk	subst:sg:acc:m1	nazwa pospolita
 Korsykańczyka	Korsykańczyk	subst:sg:gen:m1	nazwa pospolita	
 Korsykańczykami	Korsykańczyk	subst:pl:inst:m1	nazwa pospolita	
 Korsykańczykiem	Korsykańczyk	subst:sg:inst:m1	nazwa pospolita	
+Korsykańczyki	Korsykańczyk	depr:pl:acc:m2	nazwa pospolita	
 Korsykańczyki	Korsykańczyk	depr:pl:nom:m2	nazwa pospolita	
 Korsykańczyki	Korsykańczyk	depr:pl:voc:m2	nazwa pospolita	
 Korsykańczyk	Korsykańczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -10241,6 +10542,7 @@ Korwinami	Korwin	subst:pl:inst:m1	nazwisko|człon nazwiska (herb)
 Korwinem	Korwin	subst:sg:inst:m1	nazwisko|człon nazwiska (herb)	
 Korwinie	Korwin	subst:sg:loc:m1	nazwisko|człon nazwiska (herb)	
 Korwinie	Korwin	subst:sg:voc:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	depr:pl:acc:m2	nazwisko|człon nazwiska (herb)	
 Korwin	Korwin	depr:pl:nom:m2	nazwisko|człon nazwiska (herb)	
 Korwin	Korwin	depr:pl:voc:m2	nazwisko|człon nazwiska (herb)	
 Korwin	Korwin	subst:pl:acc:m1	nazwisko|człon nazwiska (herb)	
@@ -10263,6 +10565,7 @@ Korwinowie	Korwin	subst:pl:voc:m1	nazwisko|człon nazwiska (herb)
 Korwinowi	Korwin	subst:sg:dat:m1	nazwisko|człon nazwiska (herb)	
 Korwinów	Korwin	subst:pl:acc:m1	nazwisko|człon nazwiska (herb)	
 Korwinów	Korwin	subst:pl:gen:m1	nazwisko|człon nazwiska (herb)	
+Korwiny	Korwin	depr:pl:acc:m2	nazwisko|człon nazwiska (herb)	
 Korwiny	Korwin	depr:pl:nom:m2	nazwisko|człon nazwiska (herb)	
 Korwiny	Korwin	depr:pl:voc:m2	nazwisko|człon nazwiska (herb)	
 Korybucie	Korybut	subst:sg:loc:m1	nazwisko|człon nazwiska (herb)	
@@ -10279,6 +10582,7 @@ Korybutowie	Korybut	subst:pl:voc:m1	nazwisko|człon nazwiska (herb)
 Korybutowi	Korybut	subst:sg:dat:m1	nazwisko|człon nazwiska (herb)	
 Korybutów	Korybut	subst:pl:acc:m1	nazwisko|człon nazwiska (herb)	
 Korybutów	Korybut	subst:pl:gen:m1	nazwisko|człon nazwiska (herb)	
+Korybuty	Korybut	depr:pl:acc:m2	nazwisko|człon nazwiska (herb)	
 Korybuty	Korybut	depr:pl:nom:m2	nazwisko|człon nazwiska (herb)	
 Korybuty	Korybut	depr:pl:voc:m2	nazwisko|człon nazwiska (herb)	
 Korynach	Koryna	subst:pl:loc:f	imię	
@@ -10330,6 +10634,7 @@ Koryntczyka	Koryntczyk	subst:sg:acc:m1	nazwa pospolita
 Koryntczyka	Koryntczyk	subst:sg:gen:m1	nazwa pospolita	
 Koryntczykami	Koryntczyk	subst:pl:inst:m1	nazwa pospolita	
 Koryntczykiem	Koryntczyk	subst:sg:inst:m1	nazwa pospolita	
+Koryntczyki	Koryntczyk	depr:pl:acc:m2	nazwa pospolita	
 Koryntczyki	Koryntczyk	depr:pl:nom:m2	nazwa pospolita	
 Koryntczyki	Koryntczyk	depr:pl:voc:m2	nazwa pospolita	
 Koryntczyk	Koryntczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -10368,6 +10673,7 @@ Koryntianinowi	Koryntianin	subst:sg:dat:m1	nazwa pospolita
 Koryntian	Koryntianin	subst:pl:acc:m1	nazwa pospolita	
 Koryntian	Koryntianin	subst:pl:gen:m1	nazwa pospolita	
 Koryntianom	Koryntianin	subst:pl:dat:m1	nazwa pospolita	
+Koryntiany	Koryntianin	depr:pl:acc:m2	nazwa pospolita	
 Koryntiany	Koryntianin	depr:pl:nom:m2	nazwa pospolita	
 Koryntiany	Koryntianin	depr:pl:voc:m2	nazwa pospolita	
 Koryntiance	Koryntianka	subst:sg:dat:f	nazwa pospolita	
@@ -10391,6 +10697,7 @@ Koryntyjczyka	Koryntyjczyk	subst:sg:acc:m1	nazwa pospolita
 Koryntyjczyka	Koryntyjczyk	subst:sg:gen:m1	nazwa pospolita	
 Koryntyjczykami	Koryntyjczyk	subst:pl:inst:m1	nazwa pospolita	
 Koryntyjczykiem	Koryntyjczyk	subst:sg:inst:m1	nazwa pospolita	
+Koryntyjczyki	Koryntyjczyk	depr:pl:acc:m2	nazwa pospolita	
 Koryntyjczyki	Koryntyjczyk	depr:pl:nom:m2	nazwa pospolita	
 Koryntyjczyki	Koryntyjczyk	depr:pl:voc:m2	nazwa pospolita	
 Koryntyjczyk	Koryntyjczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -10435,6 +10742,7 @@ Korzeniewskich	Korzeniewski	subst:pl:gen:m1	nazwisko
 Korzeniewskich	Korzeniewski	subst:pl:loc:m1	nazwisko	
 Korzeniewskiego	Korzeniewski	subst:sg:acc:m1	nazwisko	
 Korzeniewskiego	Korzeniewski	subst:sg:gen:m1	nazwisko	
+Korzeniewskie	Korzeniewski	depr:pl:acc:m2	nazwisko	
 Korzeniewskie	Korzeniewski	depr:pl:nom:m2	nazwisko	
 Korzeniewskie	Korzeniewski	depr:pl:voc:m2	nazwisko	
 Korzeniewskiemu	Korzeniewski	subst:sg:dat:m1	nazwisko	
@@ -10465,6 +10773,7 @@ Korzeniowskich	Korzeniowski	subst:pl:gen:m1	nazwisko
 Korzeniowskich	Korzeniowski	subst:pl:loc:m1	nazwisko	
 Korzeniowskiego	Korzeniowski	subst:sg:acc:m1	nazwisko	
 Korzeniowskiego	Korzeniowski	subst:sg:gen:m1	nazwisko	
+Korzeniowskie	Korzeniowski	depr:pl:acc:m2	nazwisko	
 Korzeniowskie	Korzeniowski	depr:pl:nom:m2	nazwisko	
 Korzeniowskie	Korzeniowski	depr:pl:voc:m2	nazwisko	
 Korzeniowskiemu	Korzeniowski	subst:sg:dat:m1	nazwisko	
@@ -10511,6 +10820,7 @@ Koseckich	Kosecki	subst:pl:gen:m1	nazwisko
 Koseckich	Kosecki	subst:pl:loc:m1	nazwisko	
 Koseckiego	Kosecki	subst:sg:acc:m1	nazwisko	
 Koseckiego	Kosecki	subst:sg:gen:m1	nazwisko	
+Koseckie	Kosecki	depr:pl:acc:m2	nazwisko	
 Koseckie	Kosecki	depr:pl:nom:m2	nazwisko	
 Koseckie	Kosecki	depr:pl:voc:m2	nazwisko	
 Koseckiemu	Kosecki	subst:sg:dat:m1	nazwisko	
@@ -10526,6 +10836,7 @@ Koska	Kosek	subst:sg:acc:m1	nazwisko
 Koska	Kosek	subst:sg:gen:m1	nazwisko	
 Koskami	Kosek	subst:pl:inst:m1	nazwisko	
 Koskiem	Kosek	subst:sg:inst:m1	nazwisko	
+Koski	Kosek	depr:pl:acc:m2	nazwisko	
 Koski	Kosek	depr:pl:nom:m2	nazwisko	
 Koski	Kosek	depr:pl:voc:m2	nazwisko	
 Koskom	Kosek	subst:pl:dat:m1	nazwisko	
@@ -10541,6 +10852,7 @@ Koścach	Kosiec	subst:pl:loc:m1	nazwisko
 Kośca	Kosiec	subst:sg:acc:m1	nazwisko	
 Kośca	Kosiec	subst:sg:gen:m1	nazwisko	
 Koścami	Kosiec	subst:pl:inst:m1	nazwisko	
+Kośce	Kosiec	depr:pl:acc:m2	nazwisko	
 Kośce	Kosiec	depr:pl:nom:m2	nazwisko	
 Kośce	Kosiec	depr:pl:voc:m2	nazwisko	
 Koścem	Kosiec	subst:sg:inst:m1	nazwisko	
@@ -10573,6 +10885,7 @@ Kosińskich	Kosiński	subst:pl:gen:m1	nazwisko
 Kosińskich	Kosiński	subst:pl:loc:m1	nazwisko	
 Kosińskiego	Kosiński	subst:sg:acc:m1	nazwisko	
 Kosińskiego	Kosiński	subst:sg:gen:m1	nazwisko	
+Kosińskie	Kosiński	depr:pl:acc:m2	nazwisko	
 Kosińskie	Kosiński	depr:pl:nom:m2	nazwisko	
 Kosińskie	Kosiński	depr:pl:voc:m2	nazwisko	
 Kosińskiemu	Kosiński	subst:sg:dat:m1	nazwisko	
@@ -10595,6 +10908,7 @@ Kosmowie	Kosma	subst:pl:nom:m1	imię
 Kosmowie	Kosma	subst:pl:voc:m1	imię	
 Kosmów	Kosma	subst:pl:acc:m1	imię	
 Kosmów	Kosma	subst:pl:gen:m1	imię	
+Kosmy	Kosma	depr:pl:acc:m2	imię	
 Kosmy	Kosma	depr:pl:nom:m2	imię	
 Kosmy	Kosma	depr:pl:voc:m2	imię	
 Kosmy	Kosma	subst:sg:gen:m1	imię	
@@ -10612,6 +10926,7 @@ Kosowianinowi	Kosowianin	subst:sg:dat:m1	nazwa pospolita
 Kosowian	Kosowianin	subst:pl:acc:m1	nazwa pospolita	
 Kosowian	Kosowianin	subst:pl:gen:m1	nazwa pospolita	
 Kosowianom	Kosowianin	subst:pl:dat:m1	nazwa pospolita	
+Kosowiany	Kosowianin	depr:pl:acc:m2	nazwa pospolita	
 Kosowiany	Kosowianin	depr:pl:nom:m2	nazwa pospolita	
 Kosowiany	Kosowianin	depr:pl:voc:m2	nazwa pospolita	
 Kosowach	Kosowo	subst:pl:loc:n:ncol	nazwa geograficzna	
@@ -10650,6 +10965,7 @@ Kossaka	Kossak	subst:sg:acc:m1	nazwisko
 Kossaka	Kossak	subst:sg:gen:m1	nazwisko	
 Kossakami	Kossak	subst:pl:inst:m1	nazwisko	
 Kossakiem	Kossak	subst:sg:inst:m1	nazwisko	
+Kossaki	Kossak	depr:pl:acc:m2	nazwisko	
 Kossaki	Kossak	depr:pl:nom:m2	nazwisko	
 Kossaki	Kossak	depr:pl:voc:m2	nazwisko	
 Kossak	Kossak	subst:sg:nom:m1	nazwisko	
@@ -10682,6 +10998,7 @@ Kossakowskich	Kossakowski	subst:pl:gen:m1	nazwisko
 Kossakowskich	Kossakowski	subst:pl:loc:m1	nazwisko	
 Kossakowskiego	Kossakowski	subst:sg:acc:m1	nazwisko	
 Kossakowskiego	Kossakowski	subst:sg:gen:m1	nazwisko	
+Kossakowskie	Kossakowski	depr:pl:acc:m2	nazwisko	
 Kossakowskie	Kossakowski	depr:pl:nom:m2	nazwisko	
 Kossakowskie	Kossakowski	depr:pl:voc:m2	nazwisko	
 Kossakowskiemu	Kossakowski	subst:sg:dat:m1	nazwisko	
@@ -10712,6 +11029,7 @@ Kossowskich	Kossowski	subst:pl:gen:m1	nazwisko
 Kossowskich	Kossowski	subst:pl:loc:m1	nazwisko	
 Kossowskiego	Kossowski	subst:sg:acc:m1	nazwisko	
 Kossowskiego	Kossowski	subst:sg:gen:m1	nazwisko	
+Kossowskie	Kossowski	depr:pl:acc:m2	nazwisko	
 Kossowskie	Kossowski	depr:pl:nom:m2	nazwisko	
 Kossowskie	Kossowski	depr:pl:voc:m2	nazwisko	
 Kossowskiemu	Kossowski	subst:sg:dat:m1	nazwisko	
@@ -10735,6 +11053,7 @@ Kossuthowie	Kossuth	subst:pl:voc:m1	nazwisko
 Kossuthowi	Kossuth	subst:sg:dat:m1	nazwisko	
 Kossuthów	Kossuth	subst:pl:acc:m1	nazwisko	
 Kossuthów	Kossuth	subst:pl:gen:m1	nazwisko	
+Kossuthy	Kossuth	depr:pl:acc:m2	nazwisko	
 Kossuthy	Kossuth	depr:pl:nom:m2	nazwisko	
 Kossuthy	Kossuth	depr:pl:voc:m2	nazwisko	
 Kostaryce	Kostaryka	subst:sg:dat:f	nazwa geograficzna	
@@ -10765,6 +11084,7 @@ Kostarykaninowi	Kostarykanin	subst:sg:dat:m1	nazwa pospolita
 Kostarykanom	Kostarykanin	subst:pl:dat:m1	nazwa pospolita	
 Kostarykanów	Kostarykanin	subst:pl:acc:m1	nazwa pospolita	
 Kostarykanów	Kostarykanin	subst:pl:gen:m1	nazwa pospolita	
+Kostarykany	Kostarykanin	depr:pl:acc:m2	nazwa pospolita	
 Kostarykany	Kostarykanin	depr:pl:nom:m2	nazwa pospolita	
 Kostarykany	Kostarykanin	depr:pl:voc:m2	nazwa pospolita	
 Kostarykance	Kostarykanka	subst:sg:dat:f	nazwa pospolita	
@@ -10802,6 +11122,7 @@ Kosteckich	Kostecki	subst:pl:gen:m1	nazwisko
 Kosteckich	Kostecki	subst:pl:loc:m1	nazwisko	
 Kosteckiego	Kostecki	subst:sg:acc:m1	nazwisko	
 Kosteckiego	Kostecki	subst:sg:gen:m1	nazwisko	
+Kosteckie	Kostecki	depr:pl:acc:m2	nazwisko	
 Kosteckie	Kostecki	depr:pl:nom:m2	nazwisko	
 Kosteckie	Kostecki	depr:pl:voc:m2	nazwisko	
 Kosteckiemu	Kostecki	subst:sg:dat:m1	nazwisko	
@@ -10817,6 +11138,7 @@ Kostka	Kostek	subst:sg:acc:m1	imię
 Kostka	Kostek	subst:sg:gen:m1	imię	
 Kostkami	Kostek	subst:pl:inst:m1	imię	
 Kostkiem	Kostek	subst:sg:inst:m1	imię	
+Kostki	Kostek	depr:pl:acc:m2	imię	
 Kostki	Kostek	depr:pl:nom:m2	imię	
 Kostki	Kostek	depr:pl:voc:m2	imię	
 Kostkom	Kostek	subst:pl:dat:m1	imię	
@@ -10848,6 +11170,7 @@ Kostka	Kostka:s2	subst:sg:nom:m1	nazwisko
 Kostkami	Kostka:s2	subst:pl:inst:m1	nazwisko	
 Kostką	Kostka:s2	subst:sg:inst:m1	nazwisko	
 Kostkę	Kostka:s2	subst:sg:acc:m1	nazwisko	
+Kostki	Kostka:s2	depr:pl:acc:m2	nazwisko	
 Kostki	Kostka:s2	depr:pl:nom:m2	nazwisko	
 Kostki	Kostka:s2	depr:pl:voc:m2	nazwisko	
 Kostki	Kostka:s2	subst:sg:gen:m1	nazwisko	
@@ -10870,6 +11193,7 @@ Kostrzewowie	Kostrzewa:s1	subst:pl:nom:m1	nazwisko
 Kostrzewowie	Kostrzewa:s1	subst:pl:voc:m1	nazwisko	
 Kostrzewów	Kostrzewa:s1	subst:pl:acc:m1	nazwisko	
 Kostrzewów	Kostrzewa:s1	subst:pl:gen:m1	nazwisko	
+Kostrzewy	Kostrzewa:s1	depr:pl:acc:m2	nazwisko	
 Kostrzewy	Kostrzewa:s1	depr:pl:nom:m2	nazwisko	
 Kostrzewy	Kostrzewa:s1	depr:pl:voc:m2	nazwisko	
 Kostrzewy	Kostrzewa:s1	subst:sg:gen:m1	nazwisko	
@@ -10908,6 +11232,7 @@ Kostrzewskich	Kostrzewski	subst:pl:gen:m1	nazwisko
 Kostrzewskich	Kostrzewski	subst:pl:loc:m1	nazwisko	
 Kostrzewskiego	Kostrzewski	subst:sg:acc:m1	nazwisko	
 Kostrzewskiego	Kostrzewski	subst:sg:gen:m1	nazwisko	
+Kostrzewskie	Kostrzewski	depr:pl:acc:m2	nazwisko	
 Kostrzewskie	Kostrzewski	depr:pl:nom:m2	nazwisko	
 Kostrzewskie	Kostrzewski	depr:pl:voc:m2	nazwisko	
 Kostrzewskiemu	Kostrzewski	subst:sg:dat:m1	nazwisko	
@@ -10964,6 +11289,7 @@ Kostusiach	Kostuś	subst:pl:loc:m1	imię
 Kostusia	Kostuś	subst:sg:acc:m1	imię	
 Kostusia	Kostuś	subst:sg:gen:m1	imię	
 Kostusiami	Kostuś	subst:pl:inst:m1	imię	
+Kostusie	Kostuś	depr:pl:acc:m2	imię	
 Kostusie	Kostuś	depr:pl:nom:m2	imię	
 Kostusie	Kostuś	depr:pl:voc:m2	imię	
 Kostusie	Kostuś	subst:pl:nom:m1	imię	
@@ -11024,6 +11350,7 @@ Kościach	Kościa	subst:pl:loc:m1	nazwisko
 Kościa	Kościa	subst:sg:nom:m1	nazwisko	
 Kościami	Kościa	subst:pl:inst:m1	nazwisko	
 Kością	Kościa	subst:sg:inst:m1	nazwisko	
+Koście	Kościa	depr:pl:acc:m2	nazwisko	
 Koście	Kościa	depr:pl:nom:m2	nazwisko	
 Koście	Kościa	depr:pl:voc:m2	nazwisko	
 Kościę	Kościa	subst:sg:acc:m1	nazwisko	
@@ -11071,6 +11398,7 @@ Kościelskich	Kościelski	subst:pl:gen:m1	nazwisko
 Kościelskich	Kościelski	subst:pl:loc:m1	nazwisko	
 Kościelskiego	Kościelski	subst:sg:acc:m1	nazwisko	
 Kościelskiego	Kościelski	subst:sg:gen:m1	nazwisko	
+Kościelskie	Kościelski	depr:pl:acc:m2	nazwisko	
 Kościelskie	Kościelski	depr:pl:nom:m2	nazwisko	
 Kościelskie	Kościelski	depr:pl:voc:m2	nazwisko	
 Kościelskiemu	Kościelski	subst:sg:dat:m1	nazwisko	
@@ -11100,6 +11428,7 @@ Kościuszkach	Kościuszko	subst:pl:loc:m1	nazwisko
 Kościuszkami	Kościuszko	subst:pl:inst:m1	nazwisko	
 Kościuszką	Kościuszko	subst:sg:inst:m1	nazwisko	
 Kościuszkę	Kościuszko	subst:sg:acc:m1	nazwisko	
+Kościuszki	Kościuszko	depr:pl:acc:m2	nazwisko	
 Kościuszki	Kościuszko	depr:pl:nom:m2	nazwisko	
 Kościuszki	Kościuszko	depr:pl:voc:m2	nazwisko	
 Kościuszki	Kościuszko	subst:sg:gen:m1	nazwisko	
@@ -11124,6 +11453,7 @@ Kotowie	Kot	subst:pl:voc:m1	nazwisko
 Kotowi	Kot	subst:sg:dat:m1	nazwisko	
 Kotów	Kot	subst:pl:acc:m1	nazwisko	
 Kotów	Kot	subst:pl:gen:m1	nazwisko	
+Koty	Kot	depr:pl:acc:m2	nazwisko	
 Koty	Kot	depr:pl:nom:m2	nazwisko	
 Koty	Kot	depr:pl:voc:m2	nazwisko	
 Kotańska	Kotańska	subst:sg:nom:f	nazwisko	
@@ -11147,6 +11477,7 @@ Kotańskich	Kotański	subst:pl:gen:m1	nazwisko
 Kotańskich	Kotański	subst:pl:loc:m1	nazwisko	
 Kotańskiego	Kotański	subst:sg:acc:m1	nazwisko	
 Kotańskiego	Kotański	subst:sg:gen:m1	nazwisko	
+Kotańskie	Kotański	depr:pl:acc:m2	nazwisko	
 Kotańskie	Kotański	depr:pl:nom:m2	nazwisko	
 Kotańskie	Kotański	depr:pl:voc:m2	nazwisko	
 Kotańskiemu	Kotański	subst:sg:dat:m1	nazwisko	
@@ -11177,6 +11508,7 @@ Kotarbińskich	Kotarbiński	subst:pl:gen:m1	nazwisko
 Kotarbińskich	Kotarbiński	subst:pl:loc:m1	nazwisko	
 Kotarbińskiego	Kotarbiński	subst:sg:acc:m1	nazwisko	
 Kotarbińskiego	Kotarbiński	subst:sg:gen:m1	nazwisko	
+Kotarbińskie	Kotarbiński	depr:pl:acc:m2	nazwisko	
 Kotarbińskie	Kotarbiński	depr:pl:nom:m2	nazwisko	
 Kotarbińskie	Kotarbiński	depr:pl:voc:m2	nazwisko	
 Kotarbińskiemu	Kotarbiński	subst:sg:dat:m1	nazwisko	
@@ -11207,6 +11539,7 @@ Kotkowskich	Kotkowski	subst:pl:gen:m1	nazwisko
 Kotkowskich	Kotkowski	subst:pl:loc:m1	nazwisko	
 Kotkowskiego	Kotkowski	subst:sg:acc:m1	nazwisko	
 Kotkowskiego	Kotkowski	subst:sg:gen:m1	nazwisko	
+Kotkowskie	Kotkowski	depr:pl:acc:m2	nazwisko	
 Kotkowskie	Kotkowski	depr:pl:nom:m2	nazwisko	
 Kotkowskie	Kotkowski	depr:pl:voc:m2	nazwisko	
 Kotkowskiemu	Kotkowski	subst:sg:dat:m1	nazwisko	
@@ -11237,6 +11570,7 @@ Kotowskich	Kotowski	subst:pl:gen:m1	nazwisko
 Kotowskich	Kotowski	subst:pl:loc:m1	nazwisko	
 Kotowskiego	Kotowski	subst:sg:acc:m1	nazwisko	
 Kotowskiego	Kotowski	subst:sg:gen:m1	nazwisko	
+Kotowskie	Kotowski	depr:pl:acc:m2	nazwisko	
 Kotowskie	Kotowski	depr:pl:nom:m2	nazwisko	
 Kotowskie	Kotowski	depr:pl:voc:m2	nazwisko	
 Kotowskiemu	Kotowski	subst:sg:dat:m1	nazwisko	
@@ -11260,6 +11594,7 @@ Kotsisowie	Kotsis	subst:pl:voc:m1	nazwisko
 Kotsisowi	Kotsis	subst:sg:dat:m1	nazwisko	
 Kotsisów	Kotsis	subst:pl:acc:m1	nazwisko	
 Kotsisów	Kotsis	subst:pl:gen:m1	nazwisko	
+Kotsisy	Kotsis	depr:pl:acc:m2	nazwisko	
 Kotsisy	Kotsis	depr:pl:nom:m2	nazwisko	
 Kotsisy	Kotsis	depr:pl:voc:m2	nazwisko	
 Kotcie	Kott	subst:sg:loc:m1	nazwisko	
@@ -11276,12 +11611,14 @@ Kottowie	Kott	subst:pl:voc:m1	nazwisko
 Kottowi	Kott	subst:sg:dat:m1	nazwisko	
 Kottów	Kott	subst:pl:acc:m1	nazwisko	
 Kottów	Kott	subst:pl:gen:m1	nazwisko	
+Kotty	Kott	depr:pl:acc:m2	nazwisko	
 Kotty	Kott	depr:pl:nom:m2	nazwisko	
 Kotty	Kott	depr:pl:voc:m2	nazwisko	
 Kotulach	Kotula	subst:pl:loc:m1	nazwisko	
 Kotula	Kotula	subst:sg:nom:m1	nazwisko	
 Kotulami	Kotula	subst:pl:inst:m1	nazwisko	
 Kotulą	Kotula	subst:sg:inst:m1	nazwisko	
+Kotule	Kotula	depr:pl:acc:m2	nazwisko	
 Kotule	Kotula	depr:pl:nom:m2	nazwisko	
 Kotule	Kotula	depr:pl:voc:m2	nazwisko	
 Kotulę	Kotula	subst:sg:acc:m1	nazwisko	
@@ -11329,6 +11666,7 @@ Kotulskich	Kotulski	subst:pl:gen:m1	nazwisko
 Kotulskich	Kotulski	subst:pl:loc:m1	nazwisko	
 Kotulskiego	Kotulski	subst:sg:acc:m1	nazwisko	
 Kotulskiego	Kotulski	subst:sg:gen:m1	nazwisko	
+Kotulskie	Kotulski	depr:pl:acc:m2	nazwisko	
 Kotulskie	Kotulski	depr:pl:nom:m2	nazwisko	
 Kotulskie	Kotulski	depr:pl:voc:m2	nazwisko	
 Kotulskiemu	Kotulski	subst:sg:dat:m1	nazwisko	
@@ -11357,6 +11695,7 @@ Kovaczach	Kovacz	subst:pl:loc:m1	nazwisko
 Kovacza	Kovacz	subst:sg:acc:m1	nazwisko	
 Kovacza	Kovacz	subst:sg:gen:m1	nazwisko	
 Kovaczami	Kovacz	subst:pl:inst:m1	nazwisko	
+Kovacze	Kovacz	depr:pl:acc:m2	nazwisko	
 Kovacze	Kovacz	depr:pl:nom:m2	nazwisko	
 Kovacze	Kovacz	depr:pl:voc:m2	nazwisko	
 Kovacze	Kovacz	subst:pl:nom:m1	nazwisko	
@@ -11375,6 +11714,7 @@ Kowalach	Kowal	subst:pl:loc:m1	nazwisko
 Kowala	Kowal	subst:sg:acc:m1	nazwisko	
 Kowala	Kowal	subst:sg:gen:m1	nazwisko	
 Kowalami	Kowal	subst:pl:inst:m1	nazwisko	
+Kowale	Kowal	depr:pl:acc:m2	nazwisko	
 Kowale	Kowal	depr:pl:nom:m2	nazwisko	
 Kowale	Kowal	depr:pl:voc:m2	nazwisko	
 Kowalem	Kowal	subst:sg:inst:m1	nazwisko	
@@ -11391,6 +11731,7 @@ Kowalczach	Kowalcze	subst:pl:loc:m1	nazwisko
 Kowalczami	Kowalcze	subst:pl:inst:m1	nazwisko	
 Kowalczego	Kowalcze	subst:sg:acc:m1	nazwisko	
 Kowalczego	Kowalcze	subst:sg:gen:m1	nazwisko	
+Kowalcze	Kowalcze	depr:pl:acc:m2	nazwisko	
 Kowalcze	Kowalcze	depr:pl:nom:m2	nazwisko	
 Kowalcze	Kowalcze	depr:pl:voc:m2	nazwisko	
 Kowalcze	Kowalcze	subst:sg:nom:m1	nazwisko	
@@ -11408,6 +11749,7 @@ Kowalczyka	Kowalczyk	subst:sg:acc:m1	nazwisko
 Kowalczyka	Kowalczyk	subst:sg:gen:m1	nazwisko	
 Kowalczykami	Kowalczyk	subst:pl:inst:m1	nazwisko	
 Kowalczykiem	Kowalczyk	subst:sg:inst:m1	nazwisko	
+Kowalczyki	Kowalczyk	depr:pl:acc:m2	nazwisko	
 Kowalczyki	Kowalczyk	depr:pl:nom:m2	nazwisko	
 Kowalczyki	Kowalczyk	depr:pl:voc:m2	nazwisko	
 Kowalczyk	Kowalczyk	subst:sg:nom:m1	nazwisko	
@@ -11454,6 +11796,7 @@ Kowalewskich	Kowalewski	subst:pl:gen:m1	nazwisko
 Kowalewskich	Kowalewski	subst:pl:loc:m1	nazwisko	
 Kowalewskiego	Kowalewski	subst:sg:acc:m1	nazwisko	
 Kowalewskiego	Kowalewski	subst:sg:gen:m1	nazwisko	
+Kowalewskie	Kowalewski	depr:pl:acc:m2	nazwisko	
 Kowalewskie	Kowalewski	depr:pl:nom:m2	nazwisko	
 Kowalewskie	Kowalewski	depr:pl:voc:m2	nazwisko	
 Kowalewskiemu	Kowalewski	subst:sg:dat:m1	nazwisko	
@@ -11468,6 +11811,7 @@ Kowalika	Kowalik	subst:sg:acc:m1	nazwisko
 Kowalika	Kowalik	subst:sg:gen:m1	nazwisko	
 Kowalikami	Kowalik	subst:pl:inst:m1	nazwisko	
 Kowalikiem	Kowalik	subst:sg:inst:m1	nazwisko	
+Kowaliki	Kowalik	depr:pl:acc:m2	nazwisko	
 Kowaliki	Kowalik	depr:pl:nom:m2	nazwisko	
 Kowaliki	Kowalik	depr:pl:voc:m2	nazwisko	
 Kowalik	Kowalik	subst:sg:nom:m1	nazwisko	
@@ -11500,6 +11844,7 @@ Kowalskich	Kowalski	subst:pl:gen:m1	nazwisko
 Kowalskich	Kowalski	subst:pl:loc:m1	nazwisko	
 Kowalskiego	Kowalski	subst:sg:acc:m1	nazwisko	
 Kowalskiego	Kowalski	subst:sg:gen:m1	nazwisko	
+Kowalskie	Kowalski	depr:pl:acc:m2	nazwisko	
 Kowalskie	Kowalski	depr:pl:nom:m2	nazwisko	
 Kowalskie	Kowalski	depr:pl:voc:m2	nazwisko	
 Kowalskiemu	Kowalski	subst:sg:dat:m1	nazwisko	
@@ -11570,6 +11915,7 @@ Kozakiewiczach	Kozakiewicz	subst:pl:loc:m1	nazwisko
 Kozakiewicza	Kozakiewicz	subst:sg:acc:m1	nazwisko	
 Kozakiewicza	Kozakiewicz	subst:sg:gen:m1	nazwisko	
 Kozakiewiczami	Kozakiewicz	subst:pl:inst:m1	nazwisko	
+Kozakiewicze	Kozakiewicz	depr:pl:acc:m2	nazwisko	
 Kozakiewicze	Kozakiewicz	depr:pl:nom:m2	nazwisko	
 Kozakiewicze	Kozakiewicz	depr:pl:voc:m2	nazwisko	
 Kozakiewicze	Kozakiewicz	subst:pl:nom:m1	nazwisko	
@@ -11592,6 +11938,7 @@ Kozaka	Kozak:s1	subst:sg:acc:m1	nazwa pospolita
 Kozaka	Kozak:s1	subst:sg:gen:m1	nazwa pospolita	
 Kozakami	Kozak:s1	subst:pl:inst:m1	nazwa pospolita	
 Kozakiem	Kozak:s1	subst:sg:inst:m1	nazwa pospolita	
+Kozaki	Kozak:s1	depr:pl:acc:m2	nazwa pospolita	
 Kozaki	Kozak:s1	depr:pl:nom:m2	nazwa pospolita	
 Kozaki	Kozak:s1	depr:pl:voc:m2	nazwa pospolita	
 Kozak	Kozak:s1	subst:sg:nom:m1	nazwa pospolita	
@@ -11606,6 +11953,7 @@ Kozaka	Kozak:s2	subst:sg:acc:m1	nazwisko
 Kozaka	Kozak:s2	subst:sg:gen:m1	nazwisko	
 Kozakami	Kozak:s2	subst:pl:inst:m1	nazwisko	
 Kozakiem	Kozak:s2	subst:sg:inst:m1	nazwisko	
+Kozaki	Kozak:s2	depr:pl:acc:m2	nazwisko	
 Kozaki	Kozak:s2	depr:pl:nom:m2	nazwisko	
 Kozaki	Kozak:s2	depr:pl:voc:m2	nazwisko	
 Kozak	Kozak:s2	subst:sg:nom:m1	nazwisko	
@@ -11638,6 +11986,7 @@ Koziarskich	Koziarski	subst:pl:gen:m1	nazwisko
 Koziarskich	Koziarski	subst:pl:loc:m1	nazwisko	
 Koziarskiego	Koziarski	subst:sg:acc:m1	nazwisko	
 Koziarskiego	Koziarski	subst:sg:gen:m1	nazwisko	
+Koziarskie	Koziarski	depr:pl:acc:m2	nazwisko	
 Koziarskie	Koziarski	depr:pl:nom:m2	nazwisko	
 Koziarskie	Koziarski	depr:pl:voc:m2	nazwisko	
 Koziarskiemu	Koziarski	subst:sg:dat:m1	nazwisko	
@@ -11689,6 +12038,7 @@ Koziełowie	Kozieł	subst:pl:voc:m1	nazwisko
 Koziełowi	Kozieł	subst:sg:dat:m1	nazwisko	
 Koziełów	Kozieł	subst:pl:acc:m1	nazwisko	
 Koziełów	Kozieł	subst:pl:gen:m1	nazwisko	
+Kozieły	Kozieł	depr:pl:acc:m2	nazwisko	
 Kozieły	Kozieł	depr:pl:nom:m2	nazwisko	
 Kozieły	Kozieł	depr:pl:voc:m2	nazwisko	
 Kozienicach	Kozienice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -11712,6 +12062,7 @@ Kozietulskich	Kozietulski	subst:pl:gen:m1	nazwisko
 Kozietulskich	Kozietulski	subst:pl:loc:m1	nazwisko	
 Kozietulskiego	Kozietulski	subst:sg:acc:m1	nazwisko	
 Kozietulskiego	Kozietulski	subst:sg:gen:m1	nazwisko	
+Kozietulskie	Kozietulski	depr:pl:acc:m2	nazwisko	
 Kozietulskie	Kozietulski	depr:pl:nom:m2	nazwisko	
 Kozietulskie	Kozietulski	depr:pl:voc:m2	nazwisko	
 Kozietulskiemu	Kozietulski	subst:sg:dat:m1	nazwisko	
@@ -11742,6 +12093,7 @@ Kozińskich	Koziński	subst:pl:gen:m1	nazwisko
 Kozińskich	Koziński	subst:pl:loc:m1	nazwisko	
 Kozińskiego	Koziński	subst:sg:acc:m1	nazwisko	
 Kozińskiego	Koziński	subst:sg:gen:m1	nazwisko	
+Kozińskie	Koziński	depr:pl:acc:m2	nazwisko	
 Kozińskie	Koziński	depr:pl:nom:m2	nazwisko	
 Kozińskie	Koziński	depr:pl:voc:m2	nazwisko	
 Kozińskiemu	Koziński	subst:sg:dat:m1	nazwisko	
@@ -11765,6 +12117,7 @@ Koziołowie	Kozioł	subst:pl:voc:m1	nazwisko
 Koziołowi	Kozioł	subst:sg:dat:m1	nazwisko	
 Koziołów	Kozioł	subst:pl:acc:m1	nazwisko	
 Koziołów	Kozioł	subst:pl:gen:m1	nazwisko	
+Kozioły	Kozioł	depr:pl:acc:m2	nazwisko	
 Kozioły	Kozioł	depr:pl:nom:m2	nazwisko	
 Kozioły	Kozioł	depr:pl:voc:m2	nazwisko	
 Kozłach	Kozioł	subst:pl:loc:m1	nazwisko	
@@ -11778,6 +12131,7 @@ Kozłowie	Kozioł	subst:pl:voc:m1	nazwisko
 Kozłowi	Kozioł	subst:sg:dat:m1	nazwisko	
 Kozłów	Kozioł	subst:pl:acc:m1	nazwisko	
 Kozłów	Kozioł	subst:pl:gen:m1	nazwisko	
+Kozły	Kozioł	depr:pl:acc:m2	nazwisko	
 Kozły	Kozioł	depr:pl:nom:m2	nazwisko	
 Kozły	Kozioł	depr:pl:voc:m2	nazwisko	
 Koźle	Kozioł	subst:sg:loc:m1	nazwisko	
@@ -11800,6 +12154,7 @@ Koziorożcach	Koziorożec:s2	subst:pl:loc:m1	nazwa pospolita
 Koziorożca	Koziorożec:s2	subst:sg:acc:m1	nazwa pospolita	
 Koziorożca	Koziorożec:s2	subst:sg:gen:m1	nazwa pospolita	
 Koziorożcami	Koziorożec:s2	subst:pl:inst:m1	nazwa pospolita	
+Koziorożce	Koziorożec:s2	depr:pl:acc:m2	nazwa pospolita	
 Koziorożce	Koziorożec:s2	depr:pl:nom:m2	nazwa pospolita	
 Koziorożce	Koziorożec:s2	depr:pl:voc:m2	nazwa pospolita	
 Koziorożcem	Koziorożec:s2	subst:sg:inst:m1	nazwa pospolita	
@@ -11863,6 +12218,7 @@ Kozłowskich	Kozłowski	subst:pl:gen:m1	nazwisko
 Kozłowskich	Kozłowski	subst:pl:loc:m1	nazwisko	
 Kozłowskiego	Kozłowski	subst:sg:acc:m1	nazwisko	
 Kozłowskiego	Kozłowski	subst:sg:gen:m1	nazwisko	
+Kozłowskie	Kozłowski	depr:pl:acc:m2	nazwisko	
 Kozłowskie	Kozłowski	depr:pl:nom:m2	nazwisko	
 Kozłowskie	Kozłowski	depr:pl:voc:m2	nazwisko	
 Kozłowskiemu	Kozłowski	subst:sg:dat:m1	nazwisko	
@@ -11901,6 +12257,7 @@ Kozyriewowie	Kozyriew	subst:pl:voc:m1	nazwisko
 Kozyriewowi	Kozyriew	subst:sg:dat:m1	nazwisko	
 Kozyriewów	Kozyriew	subst:pl:acc:m1	nazwisko	
 Kozyriewów	Kozyriew	subst:pl:gen:m1	nazwisko	
+Kozyriewy	Kozyriew	depr:pl:acc:m2	nazwisko	
 Kozyriewy	Kozyriew	depr:pl:nom:m2	nazwisko	
 Kozyriewy	Kozyriew	depr:pl:voc:m2	nazwisko	
 Koźlach	Koźle	subst:pl:loc:n:ncol	nazwa geograficzna	
@@ -11931,6 +12288,7 @@ Koźmianowie	Koźmian	subst:pl:voc:m1	nazwisko
 Koźmianowi	Koźmian	subst:sg:dat:m1	nazwisko	
 Koźmianów	Koźmian	subst:pl:acc:m1	nazwisko	
 Koźmianów	Koźmian	subst:pl:gen:m1	nazwisko	
+Koźmiany	Koźmian	depr:pl:acc:m2	nazwisko	
 Koźmiany	Koźmian	depr:pl:nom:m2	nazwisko	
 Koźmiany	Koźmian	depr:pl:voc:m2	nazwisko	
 Kożuchowach	Kożuchów	subst:pl:loc:m3	nazwa geograficzna	
@@ -12123,6 +12481,7 @@ Krajewskich	Krajewski	subst:pl:gen:m1	nazwisko
 Krajewskich	Krajewski	subst:pl:loc:m1	nazwisko	
 Krajewskiego	Krajewski	subst:sg:acc:m1	nazwisko	
 Krajewskiego	Krajewski	subst:sg:gen:m1	nazwisko	
+Krajewskie	Krajewski	depr:pl:acc:m2	nazwisko	
 Krajewskie	Krajewski	depr:pl:nom:m2	nazwisko	
 Krajewskie	Krajewski	depr:pl:voc:m2	nazwisko	
 Krajewskiemu	Krajewski	subst:sg:dat:m1	nazwisko	
@@ -12151,6 +12510,7 @@ Kraka	Krak	subst:sg:acc:m1	imię
 Kraka	Krak	subst:sg:gen:m1	imię	
 Krakami	Krak	subst:pl:inst:m1	imię	
 Krakiem	Krak	subst:sg:inst:m1	imię	
+Kraki	Krak	depr:pl:acc:m2	imię	
 Kraki	Krak	depr:pl:nom:m2	imię	
 Kraki	Krak	depr:pl:voc:m2	imię	
 Krak	Krak	subst:sg:nom:m1	imię	
@@ -12183,6 +12543,7 @@ Krakowiaka	Krakowiak	subst:sg:acc:m1	nazwa pospolita
 Krakowiaka	Krakowiak	subst:sg:gen:m1	nazwa pospolita	
 Krakowiakami	Krakowiak	subst:pl:inst:m1	nazwa pospolita	
 Krakowiakiem	Krakowiak	subst:sg:inst:m1	nazwa pospolita	
+Krakowiaki	Krakowiak	depr:pl:acc:m2	nazwa pospolita	
 Krakowiaki	Krakowiak	depr:pl:nom:m2	nazwa pospolita	
 Krakowiaki	Krakowiak	depr:pl:voc:m2	nazwa pospolita	
 Krakowiak	Krakowiak	subst:sg:nom:m1	nazwa pospolita	
@@ -12225,6 +12586,7 @@ Krallach	Krall	subst:pl:loc:m1	nazwisko
 Kralla	Krall	subst:sg:acc:m1	nazwisko	
 Kralla	Krall	subst:sg:gen:m1	nazwisko	
 Krallami	Krall	subst:pl:inst:m1	nazwisko	
+Kralle	Krall	depr:pl:acc:m2	nazwisko	
 Kralle	Krall	depr:pl:nom:m2	nazwisko	
 Kralle	Krall	depr:pl:voc:m2	nazwisko	
 Kralle	Krall	subst:pl:nom:m1	nazwisko	
@@ -12243,6 +12605,7 @@ Kranjcach	Kranjec	subst:pl:loc:m1	nazwisko
 Kranjca	Kranjec	subst:sg:acc:m1	nazwisko	
 Kranjca	Kranjec	subst:sg:gen:m1	nazwisko	
 Kranjcami	Kranjec	subst:pl:inst:m1	nazwisko	
+Kranjce	Kranjec	depr:pl:acc:m2	nazwisko	
 Kranjce	Kranjec	depr:pl:nom:m2	nazwisko	
 Kranjce	Kranjec	depr:pl:voc:m2	nazwisko	
 Kranjcem	Kranjec	subst:sg:inst:m1	nazwisko	
@@ -12290,6 +12653,7 @@ Krasickich	Krasicki	subst:pl:gen:m1	nazwisko
 Krasickich	Krasicki	subst:pl:loc:m1	nazwisko	
 Krasickiego	Krasicki	subst:sg:acc:m1	nazwisko	
 Krasickiego	Krasicki	subst:sg:gen:m1	nazwisko	
+Krasickie	Krasicki	depr:pl:acc:m2	nazwisko	
 Krasickie	Krasicki	depr:pl:nom:m2	nazwisko	
 Krasickie	Krasicki	depr:pl:voc:m2	nazwisko	
 Krasickiemu	Krasicki	subst:sg:dat:m1	nazwisko	
@@ -12334,6 +12698,7 @@ Krasińskich	Krasiński	subst:pl:gen:m1	nazwisko
 Krasińskich	Krasiński	subst:pl:loc:m1	nazwisko	
 Krasińskiego	Krasiński	subst:sg:acc:m1	nazwisko	
 Krasińskiego	Krasiński	subst:sg:gen:m1	nazwisko	
+Krasińskie	Krasiński	depr:pl:acc:m2	nazwisko	
 Krasińskie	Krasiński	depr:pl:nom:m2	nazwisko	
 Krasińskie	Krasiński	depr:pl:voc:m2	nazwisko	
 Krasińskiemu	Krasiński	subst:sg:dat:m1	nazwisko	
@@ -12378,6 +12743,7 @@ Krasnodębskich	Krasnodębski	subst:pl:gen:m1	nazwisko
 Krasnodębskich	Krasnodębski	subst:pl:loc:m1	nazwisko	
 Krasnodębskiego	Krasnodębski	subst:sg:acc:m1	nazwisko	
 Krasnodębskiego	Krasnodębski	subst:sg:gen:m1	nazwisko	
+Krasnodębskie	Krasnodębski	depr:pl:acc:m2	nazwisko	
 Krasnodębskie	Krasnodębski	depr:pl:nom:m2	nazwisko	
 Krasnodębskie	Krasnodębski	depr:pl:voc:m2	nazwisko	
 Krasnodębskiemu	Krasnodębski	subst:sg:dat:m1	nazwisko	
@@ -12405,6 +12771,7 @@ Krasoniach	Krasoń	subst:pl:loc:m1	nazwisko
 Krasonia	Krasoń	subst:sg:acc:m1	nazwisko	
 Krasonia	Krasoń	subst:sg:gen:m1	nazwisko	
 Krasoniami	Krasoń	subst:pl:inst:m1	nazwisko	
+Krasonie	Krasoń	depr:pl:acc:m2	nazwisko	
 Krasonie	Krasoń	depr:pl:nom:m2	nazwisko	
 Krasonie	Krasoń	depr:pl:voc:m2	nazwisko	
 Krasoniem	Krasoń	subst:sg:inst:m1	nazwisko	
@@ -12438,6 +12805,7 @@ Krasowskich	Krasowski	subst:pl:gen:m1	nazwisko
 Krasowskich	Krasowski	subst:pl:loc:m1	nazwisko	
 Krasowskiego	Krasowski	subst:sg:acc:m1	nazwisko	
 Krasowskiego	Krasowski	subst:sg:gen:m1	nazwisko	
+Krasowskie	Krasowski	depr:pl:acc:m2	nazwisko	
 Krasowskie	Krasowski	depr:pl:nom:m2	nazwisko	
 Krasowskie	Krasowski	depr:pl:voc:m2	nazwisko	
 Krasowskiemu	Krasowski	subst:sg:dat:m1	nazwisko	
@@ -12468,6 +12836,7 @@ Krasuskich	Krasuski	subst:pl:gen:m1	nazwisko
 Krasuskich	Krasuski	subst:pl:loc:m1	nazwisko	
 Krasuskiego	Krasuski	subst:sg:acc:m1	nazwisko	
 Krasuskiego	Krasuski	subst:sg:gen:m1	nazwisko	
+Krasuskie	Krasuski	depr:pl:acc:m2	nazwisko	
 Krasuskie	Krasuski	depr:pl:nom:m2	nazwisko	
 Krasuskie	Krasuski	depr:pl:voc:m2	nazwisko	
 Krasuskiemu	Krasuski	subst:sg:dat:m1	nazwisko	
@@ -12498,6 +12867,7 @@ Kraszewskich	Kraszewski	subst:pl:gen:m1	nazwisko
 Kraszewskich	Kraszewski	subst:pl:loc:m1	nazwisko	
 Kraszewskiego	Kraszewski	subst:sg:acc:m1	nazwisko	
 Kraszewskiego	Kraszewski	subst:sg:gen:m1	nazwisko	
+Kraszewskie	Kraszewski	depr:pl:acc:m2	nazwisko	
 Kraszewskie	Kraszewski	depr:pl:nom:m2	nazwisko	
 Kraszewskie	Kraszewski	depr:pl:voc:m2	nazwisko	
 Kraszewskiemu	Kraszewski	subst:sg:dat:m1	nazwisko	
@@ -12542,6 +12912,7 @@ Kraśniewskich	Kraśniewski	subst:pl:gen:m1	nazwisko
 Kraśniewskich	Kraśniewski	subst:pl:loc:m1	nazwisko	
 Kraśniewskiego	Kraśniewski	subst:sg:acc:m1	nazwisko	
 Kraśniewskiego	Kraśniewski	subst:sg:gen:m1	nazwisko	
+Kraśniewskie	Kraśniewski	depr:pl:acc:m2	nazwisko	
 Kraśniewskie	Kraśniewski	depr:pl:nom:m2	nazwisko	
 Kraśniewskie	Kraśniewski	depr:pl:voc:m2	nazwisko	
 Kraśniewskiemu	Kraśniewski	subst:sg:dat:m1	nazwisko	
@@ -12579,12 +12950,14 @@ Krauzowie	Krauz	subst:pl:voc:m1	nazwisko
 Krauzowi	Krauz	subst:sg:dat:m1	nazwisko	
 Krauzów	Krauz	subst:pl:acc:m1	nazwisko	
 Krauzów	Krauz	subst:pl:gen:m1	nazwisko	
+Krauzy	Krauz	depr:pl:acc:m2	nazwisko	
 Krauzy	Krauz	depr:pl:nom:m2	nazwisko	
 Krauzy	Krauz	depr:pl:voc:m2	nazwisko	
 Krauzach	Krauze	subst:pl:loc:m1	nazwisko	
 Krauzami	Krauze	subst:pl:inst:m1	nazwisko	
 Krauzego	Krauze	subst:sg:acc:m1	nazwisko	
 Krauzego	Krauze	subst:sg:gen:m1	nazwisko	
+Krauze	Krauze	depr:pl:acc:m2	nazwisko	
 Krauze	Krauze	depr:pl:nom:m2	nazwisko	
 Krauze	Krauze	depr:pl:voc:m2	nazwisko	
 Krauze	Krauze	subst:sg:nom:m1	nazwisko	
@@ -12602,6 +12975,7 @@ Krawczuka	Krawczuk	subst:sg:acc:m1	nazwisko
 Krawczuka	Krawczuk	subst:sg:gen:m1	nazwisko	
 Krawczukami	Krawczuk	subst:pl:inst:m1	nazwisko	
 Krawczukiem	Krawczuk	subst:sg:inst:m1	nazwisko	
+Krawczuki	Krawczuk	depr:pl:acc:m2	nazwisko	
 Krawczuki	Krawczuk	depr:pl:nom:m2	nazwisko	
 Krawczuki	Krawczuk	depr:pl:voc:m2	nazwisko	
 Krawczuk	Krawczuk	subst:sg:nom:m1	nazwisko	
@@ -12618,6 +12992,7 @@ Krawczyka	Krawczyk	subst:sg:acc:m1	nazwisko
 Krawczyka	Krawczyk	subst:sg:gen:m1	nazwisko	
 Krawczykami	Krawczyk	subst:pl:inst:m1	nazwisko	
 Krawczykiem	Krawczyk	subst:sg:inst:m1	nazwisko	
+Krawczyki	Krawczyk	depr:pl:acc:m2	nazwisko	
 Krawczyki	Krawczyk	depr:pl:nom:m2	nazwisko	
 Krawczyki	Krawczyk	depr:pl:voc:m2	nazwisko	
 Krawczyk	Krawczyk	subst:sg:nom:m1	nazwisko	
@@ -12650,6 +13025,7 @@ Krawczyńskich	Krawczyński	subst:pl:gen:m1	nazwisko
 Krawczyńskich	Krawczyński	subst:pl:loc:m1	nazwisko	
 Krawczyńskiego	Krawczyński	subst:sg:acc:m1	nazwisko	
 Krawczyńskiego	Krawczyński	subst:sg:gen:m1	nazwisko	
+Krawczyńskie	Krawczyński	depr:pl:acc:m2	nazwisko	
 Krawczyńskie	Krawczyński	depr:pl:nom:m2	nazwisko	
 Krawczyńskie	Krawczyński	depr:pl:voc:m2	nazwisko	
 Krawczyńskiemu	Krawczyński	subst:sg:dat:m1	nazwisko	
@@ -12663,6 +13039,7 @@ Krawcach	Krawiec	subst:pl:loc:m1	nazwisko
 Krawca	Krawiec	subst:sg:acc:m1	nazwisko	
 Krawca	Krawiec	subst:sg:gen:m1	nazwisko	
 Krawcami	Krawiec	subst:pl:inst:m1	nazwisko	
+Krawce	Krawiec	depr:pl:acc:m2	nazwisko	
 Krawce	Krawiec	depr:pl:nom:m2	nazwisko	
 Krawce	Krawiec	depr:pl:voc:m2	nazwisko	
 Krawcem	Krawiec	subst:sg:inst:m1	nazwisko	
@@ -12682,6 +13059,7 @@ Krejach	Kreja	subst:pl:loc:m1	nazwisko
 Kreja	Kreja	subst:sg:nom:m1	nazwisko	
 Krejami	Kreja	subst:pl:inst:m1	nazwisko	
 Kreją	Kreja	subst:sg:inst:m1	nazwisko	
+Kreje	Kreja	depr:pl:acc:m2	nazwisko	
 Kreje	Kreja	depr:pl:nom:m2	nazwisko	
 Kreje	Kreja	depr:pl:voc:m2	nazwisko	
 Kreję	Kreja	subst:sg:acc:m1	nazwisko	
@@ -12710,6 +13088,7 @@ Krenzach	Krenz	subst:pl:loc:m1	nazwisko
 Krenza	Krenz	subst:sg:acc:m1	nazwisko	
 Krenza	Krenz	subst:sg:gen:m1	nazwisko	
 Krenzami	Krenz	subst:pl:inst:m1	nazwisko	
+Krenze	Krenz	depr:pl:acc:m2	nazwisko	
 Krenze	Krenz	depr:pl:nom:m2	nazwisko	
 Krenze	Krenz	depr:pl:voc:m2	nazwisko	
 Krenzem	Krenz	subst:sg:inst:m1	nazwisko	
@@ -12726,6 +13105,7 @@ Kreolach	Kreol	subst:pl:loc:m1	nazwa pospolita
 Kreola	Kreol	subst:sg:acc:m1	nazwa pospolita	
 Kreola	Kreol	subst:sg:gen:m1	nazwa pospolita	
 Kreolami	Kreol	subst:pl:inst:m1	nazwa pospolita	
+Kreole	Kreol	depr:pl:acc:m2	nazwa pospolita	
 Kreole	Kreol	depr:pl:nom:m2	nazwa pospolita	
 Kreole	Kreol	depr:pl:voc:m2	nazwa pospolita	
 Kreole	Kreol	subst:pl:nom:m1	nazwa pospolita	
@@ -12768,6 +13148,7 @@ Kreonowie	Kreon	subst:pl:voc:m1	imię	mit.
 Kreonowi	Kreon	subst:sg:dat:m1	imię	mit.
 Kreonów	Kreon	subst:pl:acc:m1	imię	mit.
 Kreonów	Kreon	subst:pl:gen:m1	imię	mit.
+Kreony	Kreon	depr:pl:acc:m2	imię	mit.
 Kreony	Kreon	depr:pl:nom:m2	imię	mit.
 Kreony	Kreon	depr:pl:voc:m2	imię	mit.
 Krescensach	Krescens	subst:pl:loc:m1	imię	
@@ -12786,12 +13167,14 @@ Krescensowie	Krescens	subst:pl:voc:m1	imię
 Krescensowi	Krescens	subst:sg:dat:m1	imię	
 Krescensów	Krescens	subst:pl:acc:m1	imię	
 Krescensów	Krescens	subst:pl:gen:m1	imię	
+Krescensy	Krescens	depr:pl:acc:m2	imię	
 Krescensy	Krescens	depr:pl:nom:m2	imię	
 Krescensy	Krescens	depr:pl:voc:m2	imię	
 Krescensjuszach	Krescensjusz	subst:pl:loc:m1	imię	
 Krescensjusza	Krescensjusz	subst:sg:acc:m1	imię	
 Krescensjusza	Krescensjusz	subst:sg:gen:m1	imię	
 Krescensjuszami	Krescensjusz	subst:pl:inst:m1	imię	
+Krescensjusze	Krescensjusz	depr:pl:acc:m2	imię	
 Krescensjusze	Krescensjusz	depr:pl:nom:m2	imię	
 Krescensjusze	Krescensjusz	depr:pl:voc:m2	imię	
 Krescensjusze	Krescensjusz	subst:pl:nom:m1	imię	
@@ -12827,6 +13210,7 @@ Kreteńczyka	Kreteńczyk	subst:sg:acc:m1	nazwa pospolita
 Kreteńczyka	Kreteńczyk	subst:sg:gen:m1	nazwa pospolita	
 Kreteńczykami	Kreteńczyk	subst:pl:inst:m1	nazwa pospolita	
 Kreteńczykiem	Kreteńczyk	subst:sg:inst:m1	nazwa pospolita	
+Kreteńczyki	Kreteńczyk	depr:pl:acc:m2	nazwa pospolita	
 Kreteńczyki	Kreteńczyk	depr:pl:nom:m2	nazwa pospolita	
 Kreteńczyki	Kreteńczyk	depr:pl:voc:m2	nazwa pospolita	
 Kreteńczyk	Kreteńczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -12849,6 +13233,7 @@ Krisznowie	Kriszna	subst:pl:nom:m1	imię
 Krisznowie	Kriszna	subst:pl:voc:m1	imię	
 Krisznów	Kriszna	subst:pl:acc:m1	imię	
 Krisznów	Kriszna	subst:pl:gen:m1	imię	
+Kriszny	Kriszna	depr:pl:acc:m2	imię	
 Kriszny	Kriszna	depr:pl:nom:m2	imię	
 Kriszny	Kriszna	depr:pl:voc:m2	imię	
 Kriszny	Kriszna	subst:sg:gen:m1	imię	
@@ -12884,6 +13269,7 @@ Krleżach	Krleża	subst:pl:loc:m1	nazwisko
 Krleża	Krleża	subst:sg:nom:m1	nazwisko	
 Krleżami	Krleża	subst:pl:inst:m1	nazwisko	
 Krleżą	Krleża	subst:sg:inst:m1	nazwisko	
+Krleże	Krleża	depr:pl:acc:m2	nazwisko	
 Krleże	Krleża	depr:pl:nom:m2	nazwisko	
 Krleże	Krleża	depr:pl:voc:m2	nazwisko	
 Krleżę	Krleża	subst:sg:acc:m1	nazwisko	
@@ -13006,6 +13392,7 @@ Kromerowie	Kromer	subst:pl:voc:m1	nazwisko
 Kromerowi	Kromer	subst:sg:dat:m1	nazwisko	
 Kromerów	Kromer	subst:pl:acc:m1	nazwisko	
 Kromerów	Kromer	subst:pl:gen:m1	nazwisko	
+Kromery	Kromer	depr:pl:acc:m2	nazwisko	
 Kromery	Kromer	depr:pl:nom:m2	nazwisko	
 Kromery	Kromer	depr:pl:voc:m2	nazwisko	
 Kromerze	Kromer	subst:sg:loc:m1	nazwisko	
@@ -13014,6 +13401,7 @@ Kromwelach	Kromwel	subst:pl:loc:m1	nazwisko
 Kromwela	Kromwel	subst:sg:acc:m1	nazwisko	
 Kromwela	Kromwel	subst:sg:gen:m1	nazwisko	
 Kromwelami	Kromwel	subst:pl:inst:m1	nazwisko	
+Kromwele	Kromwel	depr:pl:acc:m2	nazwisko	
 Kromwele	Kromwel	depr:pl:nom:m2	nazwisko	
 Kromwele	Kromwel	depr:pl:voc:m2	nazwisko	
 Kromwele	Kromwel	subst:pl:nom:m1	nazwisko	
@@ -13040,6 +13428,7 @@ Kronidowie	Kronid	subst:pl:voc:m1	imię
 Kronidowi	Kronid	subst:sg:dat:m1	imię	
 Kronidów	Kronid	subst:pl:acc:m1	imię	
 Kronidów	Kronid	subst:pl:gen:m1	imię	
+Kronidy	Kronid	depr:pl:acc:m2	imię	
 Kronidy	Kronid	depr:pl:nom:m2	imię	
 Kronidy	Kronid	depr:pl:voc:m2	imię	
 Kronidzie	Kronid	subst:sg:loc:m1	imię	
@@ -13060,6 +13449,7 @@ Kronosowie	Kronos	subst:pl:voc:m1	imię	mit.
 Kronosowi	Kronos	subst:sg:dat:m1	imię	mit.
 Kronosów	Kronos	subst:pl:acc:m1	imię	mit.
 Kronosów	Kronos	subst:pl:gen:m1	imię	mit.
+Kronosy	Kronos	depr:pl:acc:m2	imię	mit.
 Kronosy	Kronos	depr:pl:nom:m2	imię	mit.
 Kronosy	Kronos	depr:pl:voc:m2	imię	mit.
 Krośnicach	Krośnice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -13136,6 +13526,7 @@ Królach	Król	subst:pl:loc:m1	nazwisko
 Króla	Król	subst:sg:acc:m1	nazwisko	
 Króla	Król	subst:sg:gen:m1	nazwisko	
 Królami	Król	subst:pl:inst:m1	nazwisko	
+Króle	Król	depr:pl:acc:m2	nazwisko	
 Króle	Król	depr:pl:nom:m2	nazwisko	
 Króle	Król	depr:pl:voc:m2	nazwisko	
 Królem	Król	subst:sg:inst:m1	nazwisko	
@@ -13153,6 +13544,7 @@ Królaka	Królak	subst:sg:acc:m1	nazwisko
 Królaka	Królak	subst:sg:gen:m1	nazwisko	
 Królakami	Królak	subst:pl:inst:m1	nazwisko	
 Królakiem	Królak	subst:sg:inst:m1	nazwisko	
+Królaki	Królak	depr:pl:acc:m2	nazwisko	
 Królaki	Królak	depr:pl:nom:m2	nazwisko	
 Królaki	Królak	depr:pl:voc:m2	nazwisko	
 Królak	Królak	subst:sg:nom:m1	nazwisko	
@@ -13199,6 +13591,7 @@ Królikowskich	Królikowski	subst:pl:gen:m1	nazwisko
 Królikowskich	Królikowski	subst:pl:loc:m1	nazwisko	
 Królikowskiego	Królikowski	subst:sg:acc:m1	nazwisko	
 Królikowskiego	Królikowski	subst:sg:gen:m1	nazwisko	
+Królikowskie	Królikowski	depr:pl:acc:m2	nazwisko	
 Królikowskie	Królikowski	depr:pl:nom:m2	nazwisko	
 Królikowskie	Królikowski	depr:pl:voc:m2	nazwisko	
 Królikowskiemu	Królikowski	subst:sg:dat:m1	nazwisko	
@@ -13287,6 +13680,7 @@ Kruczkowskich	Kruczkowski	subst:pl:gen:m1	nazwisko
 Kruczkowskich	Kruczkowski	subst:pl:loc:m1	nazwisko	
 Kruczkowskiego	Kruczkowski	subst:sg:acc:m1	nazwisko	
 Kruczkowskiego	Kruczkowski	subst:sg:gen:m1	nazwisko	
+Kruczkowskie	Kruczkowski	depr:pl:acc:m2	nazwisko	
 Kruczkowskie	Kruczkowski	depr:pl:nom:m2	nazwisko	
 Kruczkowskie	Kruczkowski	depr:pl:voc:m2	nazwisko	
 Kruczkowskiemu	Kruczkowski	subst:sg:dat:m1	nazwisko	
@@ -13301,6 +13695,7 @@ Kruka	Kruk	subst:sg:acc:m1	nazwisko
 Kruka	Kruk	subst:sg:gen:m1	nazwisko	
 Krukami	Kruk	subst:pl:inst:m1	nazwisko	
 Krukiem	Kruk	subst:sg:inst:m1	nazwisko	
+Kruki	Kruk	depr:pl:acc:m2	nazwisko	
 Kruki	Kruk	depr:pl:nom:m2	nazwisko	
 Kruki	Kruk	depr:pl:voc:m2	nazwisko	
 Kruk	Kruk	subst:sg:nom:m1	nazwisko	
@@ -13333,6 +13728,7 @@ Krukowskich	Krukowski	subst:pl:gen:m1	nazwisko
 Krukowskich	Krukowski	subst:pl:loc:m1	nazwisko	
 Krukowskiego	Krukowski	subst:sg:acc:m1	nazwisko	
 Krukowskiego	Krukowski	subst:sg:gen:m1	nazwisko	
+Krukowskie	Krukowski	depr:pl:acc:m2	nazwisko	
 Krukowskie	Krukowski	depr:pl:nom:m2	nazwisko	
 Krukowskie	Krukowski	depr:pl:voc:m2	nazwisko	
 Krukowskiemu	Krukowski	subst:sg:dat:m1	nazwisko	
@@ -13355,6 +13751,7 @@ Krupowie	Krupa	subst:pl:nom:m1	nazwisko
 Krupowie	Krupa	subst:pl:voc:m1	nazwisko	
 Krupów	Krupa	subst:pl:acc:m1	nazwisko	
 Krupów	Krupa	subst:pl:gen:m1	nazwisko	
+Krupy	Krupa	depr:pl:acc:m2	nazwisko	
 Krupy	Krupa	depr:pl:nom:m2	nazwisko	
 Krupy	Krupa	depr:pl:voc:m2	nazwisko	
 Krupy	Krupa	subst:sg:gen:m1	nazwisko	
@@ -13393,6 +13790,7 @@ Krupińskich	Krupiński	subst:pl:gen:m1	nazwisko
 Krupińskich	Krupiński	subst:pl:loc:m1	nazwisko	
 Krupińskiego	Krupiński	subst:sg:acc:m1	nazwisko	
 Krupińskiego	Krupiński	subst:sg:gen:m1	nazwisko	
+Krupińskie	Krupiński	depr:pl:acc:m2	nazwisko	
 Krupińskie	Krupiński	depr:pl:nom:m2	nazwisko	
 Krupińskie	Krupiński	depr:pl:voc:m2	nazwisko	
 Krupińskiemu	Krupiński	subst:sg:dat:m1	nazwisko	
@@ -13437,6 +13835,7 @@ Krupskich	Krupski	subst:pl:gen:m1	nazwisko
 Krupskich	Krupski	subst:pl:loc:m1	nazwisko	
 Krupskiego	Krupski	subst:sg:acc:m1	nazwisko	
 Krupskiego	Krupski	subst:sg:gen:m1	nazwisko	
+Krupskie	Krupski	depr:pl:acc:m2	nazwisko	
 Krupskie	Krupski	depr:pl:nom:m2	nazwisko	
 Krupskie	Krupski	depr:pl:voc:m2	nazwisko	
 Krupskiemu	Krupski	subst:sg:dat:m1	nazwisko	
@@ -13495,6 +13894,7 @@ Kruszewskich	Kruszewski	subst:pl:gen:m1	nazwisko
 Kruszewskich	Kruszewski	subst:pl:loc:m1	nazwisko	
 Kruszewskiego	Kruszewski	subst:sg:acc:m1	nazwisko	
 Kruszewskiego	Kruszewski	subst:sg:gen:m1	nazwisko	
+Kruszewskie	Kruszewski	depr:pl:acc:m2	nazwisko	
 Kruszewskie	Kruszewski	depr:pl:nom:m2	nazwisko	
 Kruszewskie	Kruszewski	depr:pl:voc:m2	nazwisko	
 Kruszewskiemu	Kruszewski	subst:sg:dat:m1	nazwisko	
@@ -13539,6 +13939,7 @@ Kruszyńskich	Kruszyński	subst:pl:gen:m1	nazwisko
 Kruszyńskich	Kruszyński	subst:pl:loc:m1	nazwisko	
 Kruszyńskiego	Kruszyński	subst:sg:acc:m1	nazwisko	
 Kruszyńskiego	Kruszyński	subst:sg:gen:m1	nazwisko	
+Kruszyńskie	Kruszyński	depr:pl:acc:m2	nazwisko	
 Kruszyńskie	Kruszyński	depr:pl:nom:m2	nazwisko	
 Kruszyńskie	Kruszyński	depr:pl:voc:m2	nazwisko	
 Kruszyńskiemu	Kruszyński	subst:sg:dat:m1	nazwisko	
@@ -13611,6 +14012,7 @@ Krynickich	Krynicki	subst:pl:gen:m1	nazwisko
 Krynickich	Krynicki	subst:pl:loc:m1	nazwisko	
 Krynickiego	Krynicki	subst:sg:acc:m1	nazwisko	
 Krynickiego	Krynicki	subst:sg:gen:m1	nazwisko	
+Krynickie	Krynicki	depr:pl:acc:m2	nazwisko	
 Krynickie	Krynicki	depr:pl:nom:m2	nazwisko	
 Krynickie	Krynicki	depr:pl:voc:m2	nazwisko	
 Krynickiemu	Krynicki	subst:sg:dat:m1	nazwisko	
@@ -13655,6 +14057,7 @@ Kryńskich	Kryński	subst:pl:gen:m1	nazwisko
 Kryńskich	Kryński	subst:pl:loc:m1	nazwisko	
 Kryńskiego	Kryński	subst:sg:acc:m1	nazwisko	
 Kryńskiego	Kryński	subst:sg:gen:m1	nazwisko	
+Kryńskie	Kryński	depr:pl:acc:m2	nazwisko	
 Kryńskie	Kryński	depr:pl:nom:m2	nazwisko	
 Kryńskie	Kryński	depr:pl:voc:m2	nazwisko	
 Kryńskiemu	Kryński	subst:sg:dat:m1	nazwisko	
@@ -13684,6 +14087,7 @@ Krysiaka	Krysiak	subst:sg:acc:m1	nazwisko
 Krysiaka	Krysiak	subst:sg:gen:m1	nazwisko	
 Krysiakami	Krysiak	subst:pl:inst:m1	nazwisko	
 Krysiakiem	Krysiak	subst:sg:inst:m1	nazwisko	
+Krysiaki	Krysiak	depr:pl:acc:m2	nazwisko	
 Krysiaki	Krysiak	depr:pl:nom:m2	nazwisko	
 Krysiaki	Krysiak	depr:pl:voc:m2	nazwisko	
 Krysiak	Krysiak	subst:sg:nom:m1	nazwisko	
@@ -13716,6 +14120,7 @@ Krysińskich	Krysiński	subst:pl:gen:m1	nazwisko
 Krysińskich	Krysiński	subst:pl:loc:m1	nazwisko	
 Krysińskiego	Krysiński	subst:sg:acc:m1	nazwisko	
 Krysińskiego	Krysiński	subst:sg:gen:m1	nazwisko	
+Krysińskie	Krysiński	depr:pl:acc:m2	nazwisko	
 Krysińskie	Krysiński	depr:pl:nom:m2	nazwisko	
 Krysińskie	Krysiński	depr:pl:voc:m2	nazwisko	
 Krysińskiemu	Krysiński	subst:sg:dat:m1	nazwisko	
@@ -13739,6 +14144,7 @@ Kryspinowie	Kryspin	subst:pl:voc:m1	imię
 Kryspinowi	Kryspin	subst:sg:dat:m1	imię	
 Kryspinów	Kryspin	subst:pl:acc:m1	imię	
 Kryspinów	Kryspin	subst:pl:gen:m1	imię	
+Kryspiny	Kryspin	depr:pl:acc:m2	imię	
 Kryspiny	Kryspin	depr:pl:nom:m2	imię	
 Kryspiny	Kryspin	depr:pl:voc:m2	imię	
 Kryspinach	Kryspina	subst:pl:loc:f	imię	
@@ -13769,6 +14175,7 @@ Krystianowie	Krystian	subst:pl:voc:m1	imię
 Krystianowi	Krystian	subst:sg:dat:m1	imię	
 Krystianów	Krystian	subst:pl:acc:m1	imię	
 Krystianów	Krystian	subst:pl:gen:m1	imię	
+Krystiany	Krystian	depr:pl:acc:m2	imię	
 Krystiany	Krystian	depr:pl:nom:m2	imię	
 Krystiany	Krystian	depr:pl:voc:m2	imię	
 Krystianach	Krystiana	subst:pl:loc:f	imię	
@@ -13801,6 +14208,7 @@ Krystynowie	Krystyn	subst:pl:voc:m1	imię
 Krystynowi	Krystyn	subst:sg:dat:m1	imię	
 Krystynów	Krystyn	subst:pl:acc:m1	imię	
 Krystynów	Krystyn	subst:pl:gen:m1	imię	
+Krystyny	Krystyn	depr:pl:acc:m2	imię	
 Krystyny	Krystyn	depr:pl:nom:m2	imię	
 Krystyny	Krystyn	depr:pl:voc:m2	imię	
 Krystynach	Krystyna	subst:pl:loc:f	imię	
@@ -13881,6 +14289,7 @@ Krzaklewskich	Krzaklewski	subst:pl:gen:m1	nazwisko
 Krzaklewskich	Krzaklewski	subst:pl:loc:m1	nazwisko	
 Krzaklewskiego	Krzaklewski	subst:sg:acc:m1	nazwisko	
 Krzaklewskiego	Krzaklewski	subst:sg:gen:m1	nazwisko	
+Krzaklewskie	Krzaklewski	depr:pl:acc:m2	nazwisko	
 Krzaklewskie	Krzaklewski	depr:pl:nom:m2	nazwisko	
 Krzaklewskie	Krzaklewski	depr:pl:voc:m2	nazwisko	
 Krzaklewskiemu	Krzaklewski	subst:sg:dat:m1	nazwisko	
@@ -13968,6 +14377,7 @@ Krzemińskich	Krzemiński	subst:pl:gen:m1	nazwisko
 Krzemińskich	Krzemiński	subst:pl:loc:m1	nazwisko	
 Krzemińskiego	Krzemiński	subst:sg:acc:m1	nazwisko	
 Krzemińskiego	Krzemiński	subst:sg:gen:m1	nazwisko	
+Krzemińskie	Krzemiński	depr:pl:acc:m2	nazwisko	
 Krzemińskie	Krzemiński	depr:pl:nom:m2	nazwisko	
 Krzemińskie	Krzemiński	depr:pl:voc:m2	nazwisko	
 Krzemińskiemu	Krzemiński	subst:sg:dat:m1	nazwisko	
@@ -13998,6 +14408,7 @@ Krzeptowskich	Krzeptowski	subst:pl:gen:m1	nazwisko
 Krzeptowskich	Krzeptowski	subst:pl:loc:m1	nazwisko	
 Krzeptowskiego	Krzeptowski	subst:sg:acc:m1	nazwisko	
 Krzeptowskiego	Krzeptowski	subst:sg:gen:m1	nazwisko	
+Krzeptowskie	Krzeptowski	depr:pl:acc:m2	nazwisko	
 Krzeptowskie	Krzeptowski	depr:pl:nom:m2	nazwisko	
 Krzeptowskie	Krzeptowski	depr:pl:voc:m2	nazwisko	
 Krzeptowskiemu	Krzeptowski	subst:sg:dat:m1	nazwisko	
@@ -14019,6 +14430,7 @@ Krzesimirowie	Krzesimir	subst:pl:voc:m1	imię
 Krzesimirowi	Krzesimir	subst:sg:dat:m1	imię	
 Krzesimirów	Krzesimir	subst:pl:acc:m1	imię	
 Krzesimirów	Krzesimir	subst:pl:gen:m1	imię	
+Krzesimiry	Krzesimir	depr:pl:acc:m2	imię	
 Krzesimiry	Krzesimir	depr:pl:nom:m2	imię	
 Krzesimiry	Krzesimir	depr:pl:voc:m2	imię	
 Krzesimirze	Krzesimir	subst:sg:loc:m1	imię	
@@ -14046,6 +14458,7 @@ Krzesińskich	Krzesiński	subst:pl:gen:m1	nazwisko
 Krzesińskich	Krzesiński	subst:pl:loc:m1	nazwisko	
 Krzesińskiego	Krzesiński	subst:sg:acc:m1	nazwisko	
 Krzesińskiego	Krzesiński	subst:sg:gen:m1	nazwisko	
+Krzesińskie	Krzesiński	depr:pl:acc:m2	nazwisko	
 Krzesińskie	Krzesiński	depr:pl:nom:m2	nazwisko	
 Krzesińskie	Krzesiński	depr:pl:voc:m2	nazwisko	
 Krzesińskiemu	Krzesiński	subst:sg:dat:m1	nazwisko	
@@ -14071,6 +14484,7 @@ Krzesisławowie	Krzesisław	subst:pl:voc:m1	imię
 Krzesisławowi	Krzesisław	subst:sg:dat:m1	imię	
 Krzesisławów	Krzesisław	subst:pl:acc:m1	imię	
 Krzesisławów	Krzesisław	subst:pl:gen:m1	imię	
+Krzesisławy	Krzesisław	depr:pl:acc:m2	imię	
 Krzesisławy	Krzesisław	depr:pl:nom:m2	imię	
 Krzesisławy	Krzesisław	depr:pl:voc:m2	imię	
 Krzesisławach	Krzesisława	subst:pl:loc:f	imię	
@@ -14144,6 +14558,7 @@ Krzychów	Krzych	subst:pl:acc:m1	imię
 Krzychów	Krzych	subst:pl:gen:m1	imię	
 Krzychu	Krzych	subst:sg:loc:m1	imię	
 Krzychu	Krzych	subst:sg:voc:m1	imię	
+Krzychy	Krzych	depr:pl:acc:m2	imię	
 Krzychy	Krzych	depr:pl:nom:m2	imię	
 Krzychy	Krzych	depr:pl:voc:m2	imię	
 Krzychach	Krzycha	subst:pl:loc:f	imię	
@@ -14196,6 +14611,7 @@ Krzyśka	Krzysiek	subst:sg:acc:m1	imię
 Krzyśka	Krzysiek	subst:sg:gen:m1	imię	
 Krzyśkami	Krzysiek	subst:pl:inst:m1	imię	
 Krzyśkiem	Krzysiek	subst:sg:inst:m1	imię	
+Krzyśki	Krzysiek	depr:pl:acc:m2	imię	
 Krzyśki	Krzysiek	depr:pl:nom:m2	imię	
 Krzyśki	Krzysiek	depr:pl:voc:m2	imię	
 Krzyśkom	Krzysiek	subst:pl:dat:m1	imię	
@@ -14210,6 +14626,7 @@ Krzysiach	Krzysio	subst:pl:loc:m1	imię
 Krzysia	Krzysio	subst:sg:acc:m1	imię	
 Krzysia	Krzysio	subst:sg:gen:m1	imię	
 Krzysiami	Krzysio	subst:pl:inst:m1	imię	
+Krzysie	Krzysio	depr:pl:acc:m2	imię	
 Krzysie	Krzysio	depr:pl:nom:m2	imię	
 Krzysie	Krzysio	depr:pl:voc:m2	imię	
 Krzysiem	Krzysio	subst:sg:inst:m1	imię	
@@ -14250,6 +14667,7 @@ Krzysztofowie	Krzysztof	subst:pl:voc:m1	imię
 Krzysztofowi	Krzysztof	subst:sg:dat:m1	imię	
 Krzysztofów	Krzysztof	subst:pl:acc:m1	imię	
 Krzysztofów	Krzysztof	subst:pl:gen:m1	imię	
+Krzysztofy	Krzysztof	depr:pl:acc:m2	imię	
 Krzysztofy	Krzysztof	depr:pl:nom:m2	imię	
 Krzysztofy	Krzysztof	depr:pl:voc:m2	imię	
 Krzysztofach	Krzysztofa	subst:pl:loc:f	imię	
@@ -14270,6 +14688,7 @@ Krzysiach	Krzyś	subst:pl:loc:m1	imię
 Krzysia	Krzyś	subst:sg:acc:m1	imię	
 Krzysia	Krzyś	subst:sg:gen:m1	imię	
 Krzysiami	Krzyś	subst:pl:inst:m1	imię	
+Krzysie	Krzyś	depr:pl:acc:m2	imię	
 Krzysie	Krzyś	depr:pl:nom:m2	imię	
 Krzysie	Krzyś	depr:pl:voc:m2	imię	
 Krzysie	Krzyś	subst:pl:nom:m1	imię	
@@ -14333,6 +14752,7 @@ Krzywickich	Krzywicki	subst:pl:gen:m1	nazwisko
 Krzywickich	Krzywicki	subst:pl:loc:m1	nazwisko	
 Krzywickiego	Krzywicki	subst:sg:acc:m1	nazwisko	
 Krzywickiego	Krzywicki	subst:sg:gen:m1	nazwisko	
+Krzywickie	Krzywicki	depr:pl:acc:m2	nazwisko	
 Krzywickie	Krzywicki	depr:pl:nom:m2	nazwisko	
 Krzywickie	Krzywicki	depr:pl:voc:m2	nazwisko	
 Krzywickiemu	Krzywicki	subst:sg:dat:m1	nazwisko	
@@ -14369,6 +14789,7 @@ Krzywosądowie	Krzywosąd	subst:pl:voc:m1	imię
 Krzywosądowi	Krzywosąd	subst:sg:dat:m1	imię	
 Krzywosądów	Krzywosąd	subst:pl:acc:m1	imię	
 Krzywosądów	Krzywosąd	subst:pl:gen:m1	imię	
+Krzywosądy	Krzywosąd	depr:pl:acc:m2	imię	
 Krzywosądy	Krzywosąd	depr:pl:nom:m2	imię	
 Krzywosądy	Krzywosąd	depr:pl:voc:m2	imię	
 Krzywosądzie	Krzywosąd	subst:sg:loc:m1	imię	
@@ -14377,6 +14798,7 @@ Krzywosądzi	Krzywosąd	subst:pl:nom:m1	imię
 Krzywosądzi	Krzywosąd	subst:pl:voc:m1	imię	
 Krzywoustego	Krzywousty	subst:sg:acc:m1	przydomek	
 Krzywoustego	Krzywousty	subst:sg:gen:m1	przydomek	
+Krzywouste	Krzywousty	depr:pl:acc:m2	przydomek	
 Krzywouste	Krzywousty	depr:pl:nom:m2	przydomek	
 Krzywouste	Krzywousty	depr:pl:voc:m2	przydomek	
 Krzywoustemu	Krzywousty	subst:sg:dat:m1	przydomek	
@@ -14398,6 +14820,7 @@ Krzyżaka	Krzyżak	subst:sg:acc:m1	nazwa pospolita
 Krzyżaka	Krzyżak	subst:sg:gen:m1	nazwa pospolita	
 Krzyżakami	Krzyżak	subst:pl:inst:m1	nazwa pospolita	
 Krzyżakiem	Krzyżak	subst:sg:inst:m1	nazwa pospolita	
+Krzyżaki	Krzyżak	depr:pl:acc:m2	nazwa pospolita	
 Krzyżaki	Krzyżak	depr:pl:nom:m2	nazwa pospolita	
 Krzyżaki	Krzyżak	depr:pl:voc:m2	nazwa pospolita	
 Krzyżak	Krzyżak	subst:sg:nom:m1	nazwa pospolita	
@@ -14442,6 +14865,7 @@ Krzyżanowskich	Krzyżanowski	subst:pl:gen:m1	nazwisko
 Krzyżanowskich	Krzyżanowski	subst:pl:loc:m1	nazwisko	
 Krzyżanowskiego	Krzyżanowski	subst:sg:acc:m1	nazwisko	
 Krzyżanowskiego	Krzyżanowski	subst:sg:gen:m1	nazwisko	
+Krzyżanowskie	Krzyżanowski	depr:pl:acc:m2	nazwisko	
 Krzyżanowskie	Krzyżanowski	depr:pl:nom:m2	nazwisko	
 Krzyżanowskie	Krzyżanowski	depr:pl:voc:m2	nazwisko	
 Krzyżanowskiemu	Krzyżanowski	subst:sg:dat:m1	nazwisko	
@@ -14487,6 +14911,7 @@ Krzyżewskich	Krzyżewski	subst:pl:gen:m1	nazwisko
 Krzyżewskich	Krzyżewski	subst:pl:loc:m1	nazwisko	
 Krzyżewskiego	Krzyżewski	subst:sg:acc:m1	nazwisko	
 Krzyżewskiego	Krzyżewski	subst:sg:gen:m1	nazwisko	
+Krzyżewskie	Krzyżewski	depr:pl:acc:m2	nazwisko	
 Krzyżewskie	Krzyżewski	depr:pl:nom:m2	nazwisko	
 Krzyżewskie	Krzyżewski	depr:pl:voc:m2	nazwisko	
 Krzyżewskiemu	Krzyżewski	subst:sg:dat:m1	nazwisko	
@@ -14540,6 +14965,7 @@ Ksawerze	Ksawera	subst:sg:dat:f	imię
 Ksawerze	Ksawera	subst:sg:loc:f	imię	
 Ksawerego	Ksawery	subst:sg:acc:m1	imię	
 Ksawerego	Ksawery	subst:sg:gen:m1	imię	
+Ksawere	Ksawery	depr:pl:acc:m2	imię	
 Ksawere	Ksawery	depr:pl:nom:m2	imię	
 Ksawere	Ksawery	depr:pl:voc:m2	imię	
 Ksaweremu	Ksawery	subst:sg:dat:m1	imię	
@@ -14601,6 +15027,7 @@ Ksenofontowie	Ksenofont	subst:pl:voc:m1	imię
 Ksenofontowi	Ksenofont	subst:sg:dat:m1	imię	
 Ksenofontów	Ksenofont	subst:pl:acc:m1	imię	
 Ksenofontów	Ksenofont	subst:pl:gen:m1	imię	
+Ksenofonty	Ksenofont	depr:pl:acc:m2	imię	
 Ksenofonty	Ksenofont	depr:pl:nom:m2	imię	
 Ksenofonty	Ksenofont	depr:pl:voc:m2	imię	
 Kserksesach	Kserkses	subst:pl:loc:m1	imię	
@@ -14617,6 +15044,7 @@ Kserksesowie	Kserkses	subst:pl:voc:m1	imię
 Kserksesowi	Kserkses	subst:sg:dat:m1	imię	
 Kserksesów	Kserkses	subst:pl:acc:m1	imię	
 Kserksesów	Kserkses	subst:pl:gen:m1	imię	
+Kserksesy	Kserkses	depr:pl:acc:m2	imię	
 Kserksesy	Kserkses	depr:pl:nom:m2	imię	
 Kserksesy	Kserkses	depr:pl:voc:m2	imię	
 KSERM-ach	KSERM	subst:pl:loc:m3	nazwa instytucji	
@@ -14654,6 +15082,7 @@ Książka	Książek	subst:sg:acc:m1	nazwisko
 Książka	Książek	subst:sg:gen:m1	nazwisko	
 Książkami	Książek	subst:pl:inst:m1	nazwisko	
 Książkiem	Książek	subst:sg:inst:m1	nazwisko	
+Książki	Książek	depr:pl:acc:m2	nazwisko	
 Książki	Książek	depr:pl:nom:m2	nazwisko	
 Książki	Książek	depr:pl:voc:m2	nazwisko	
 Książkom	Książek	subst:pl:dat:m1	nazwisko	
@@ -14676,6 +15105,7 @@ Księżaka	Księżak:s1	subst:sg:acc:m1	nazwisko
 Księżaka	Księżak:s1	subst:sg:gen:m1	nazwisko	
 Księżakami	Księżak:s1	subst:pl:inst:m1	nazwisko	
 Księżakiem	Księżak:s1	subst:sg:inst:m1	nazwisko	
+Księżaki	Księżak:s1	depr:pl:acc:m2	nazwisko	
 Księżaki	Księżak:s1	depr:pl:nom:m2	nazwisko	
 Księżaki	Księżak:s1	depr:pl:voc:m2	nazwisko	
 Księżak	Księżak:s1	subst:sg:nom:m1	nazwisko	
@@ -14694,6 +15124,7 @@ Księżaka	Księżak:s2	subst:sg:acc:m1	nazwa pospolita	hist.
 Księżaka	Księżak:s2	subst:sg:gen:m1	nazwa pospolita	hist.
 Księżakami	Księżak:s2	subst:pl:inst:m1	nazwa pospolita	hist.
 Księżakiem	Księżak:s2	subst:sg:inst:m1	nazwa pospolita	hist.
+Księżaki	Księżak:s2	depr:pl:acc:m2	nazwa pospolita	hist.
 Księżaki	Księżak:s2	depr:pl:nom:m2	nazwa pospolita	hist.
 Księżaki	Księżak:s2	depr:pl:voc:m2	nazwa pospolita	hist.
 Księżak	Księżak:s2	subst:sg:nom:m1	nazwa pospolita	hist.
@@ -14738,6 +15169,7 @@ Księżopolskich	Księżopolski	subst:pl:gen:m1	nazwisko
 Księżopolskich	Księżopolski	subst:pl:loc:m1	nazwisko	
 Księżopolskiego	Księżopolski	subst:sg:acc:m1	nazwisko	
 Księżopolskiego	Księżopolski	subst:sg:gen:m1	nazwisko	
+Księżopolskie	Księżopolski	depr:pl:acc:m2	nazwisko	
 Księżopolskie	Księżopolski	depr:pl:nom:m2	nazwisko	
 Księżopolskie	Księżopolski	depr:pl:voc:m2	nazwisko	
 Księżopolskiemu	Księżopolski	subst:sg:dat:m1	nazwisko	
@@ -14796,6 +15228,7 @@ Kubackich	Kubacki	subst:pl:gen:m1	nazwisko
 Kubackich	Kubacki	subst:pl:loc:m1	nazwisko	
 Kubackiego	Kubacki	subst:sg:acc:m1	nazwisko	
 Kubackiego	Kubacki	subst:sg:gen:m1	nazwisko	
+Kubackie	Kubacki	depr:pl:acc:m2	nazwisko	
 Kubackie	Kubacki	depr:pl:nom:m2	nazwisko	
 Kubackie	Kubacki	depr:pl:voc:m2	nazwisko	
 Kubackiemu	Kubacki	subst:sg:dat:m1	nazwisko	
@@ -14809,6 +15242,7 @@ Kubalach	Kubala	subst:pl:loc:m1	nazwisko
 Kubala	Kubala	subst:sg:nom:m1	nazwisko	
 Kubalami	Kubala	subst:pl:inst:m1	nazwisko	
 Kubalą	Kubala	subst:sg:inst:m1	nazwisko	
+Kubale	Kubala	depr:pl:acc:m2	nazwisko	
 Kubale	Kubala	depr:pl:nom:m2	nazwisko	
 Kubale	Kubala	depr:pl:voc:m2	nazwisko	
 Kubalę	Kubala	subst:sg:acc:m1	nazwisko	
@@ -14842,6 +15276,7 @@ Kubalskich	Kubalski	subst:pl:gen:m1	nazwisko
 Kubalskich	Kubalski	subst:pl:loc:m1	nazwisko	
 Kubalskiego	Kubalski	subst:sg:acc:m1	nazwisko	
 Kubalskiego	Kubalski	subst:sg:gen:m1	nazwisko	
+Kubalskie	Kubalski	depr:pl:acc:m2	nazwisko	
 Kubalskie	Kubalski	depr:pl:nom:m2	nazwisko	
 Kubalskie	Kubalski	depr:pl:voc:m2	nazwisko	
 Kubalskiemu	Kubalski	subst:sg:dat:m1	nazwisko	
@@ -14887,6 +15322,7 @@ Kubańczyka	Kubańczyk	subst:sg:acc:m1	nazwa pospolita
 Kubańczyka	Kubańczyk	subst:sg:gen:m1	nazwa pospolita	
 Kubańczykami	Kubańczyk	subst:pl:inst:m1	nazwa pospolita	
 Kubańczykiem	Kubańczyk	subst:sg:inst:m1	nazwa pospolita	
+Kubańczyki	Kubańczyk	depr:pl:acc:m2	nazwa pospolita	
 Kubańczyki	Kubańczyk	depr:pl:nom:m2	nazwa pospolita	
 Kubańczyki	Kubańczyk	depr:pl:voc:m2	nazwa pospolita	
 Kubańczyk	Kubańczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -14923,6 +15359,7 @@ Kubowie	Kuba:s2	subst:pl:nom:m1	imię
 Kubowie	Kuba:s2	subst:pl:voc:m1	imię	
 Kubów	Kuba:s2	subst:pl:acc:m1	imię	
 Kubów	Kuba:s2	subst:pl:gen:m1	imię	
+Kuby	Kuba:s2	depr:pl:acc:m2	imię	
 Kuby	Kuba:s2	depr:pl:nom:m2	imię	
 Kuby	Kuba:s2	depr:pl:voc:m2	imię	
 Kuby	Kuba:s2	subst:sg:gen:m1	imię	
@@ -14931,6 +15368,7 @@ Kubiaka	Kubiak	subst:sg:acc:m1	nazwisko
 Kubiaka	Kubiak	subst:sg:gen:m1	nazwisko	
 Kubiakami	Kubiak	subst:pl:inst:m1	nazwisko	
 Kubiakiem	Kubiak	subst:sg:inst:m1	nazwisko	
+Kubiaki	Kubiak	depr:pl:acc:m2	nazwisko	
 Kubiaki	Kubiak	depr:pl:nom:m2	nazwisko	
 Kubiaki	Kubiak	depr:pl:voc:m2	nazwisko	
 Kubiak	Kubiak	subst:sg:nom:m1	nazwisko	
@@ -14946,6 +15384,7 @@ Kubicach	Kubica	subst:pl:loc:m1	nazwisko
 Kubica	Kubica	subst:sg:nom:m1	nazwisko	
 Kubicami	Kubica	subst:pl:inst:m1	nazwisko	
 Kubicą	Kubica	subst:sg:inst:m1	nazwisko	
+Kubice	Kubica	depr:pl:acc:m2	nazwisko	
 Kubice	Kubica	depr:pl:nom:m2	nazwisko	
 Kubice	Kubica	depr:pl:voc:m2	nazwisko	
 Kubicę	Kubica	subst:sg:acc:m1	nazwisko	
@@ -14979,6 +15418,7 @@ Kubickich	Kubicki	subst:pl:gen:m1	nazwisko
 Kubickich	Kubicki	subst:pl:loc:m1	nazwisko	
 Kubickiego	Kubicki	subst:sg:acc:m1	nazwisko	
 Kubickiego	Kubicki	subst:sg:gen:m1	nazwisko	
+Kubickie	Kubicki	depr:pl:acc:m2	nazwisko	
 Kubickie	Kubicki	depr:pl:nom:m2	nazwisko	
 Kubickie	Kubicki	depr:pl:voc:m2	nazwisko	
 Kubickiemu	Kubicki	subst:sg:dat:m1	nazwisko	
@@ -14993,6 +15433,7 @@ Kubińcach	Kubiniec	subst:pl:loc:m1	nazwisko
 Kubińca	Kubiniec	subst:sg:acc:m1	nazwisko	
 Kubińca	Kubiniec	subst:sg:gen:m1	nazwisko	
 Kubińcami	Kubiniec	subst:pl:inst:m1	nazwisko	
+Kubińce	Kubiniec	depr:pl:acc:m2	nazwisko	
 Kubińce	Kubiniec	depr:pl:nom:m2	nazwisko	
 Kubińce	Kubiniec	depr:pl:voc:m2	nazwisko	
 Kubińcem	Kubiniec	subst:sg:inst:m1	nazwisko	
@@ -15009,6 +15450,7 @@ Kubricka	Kubrick	subst:sg:acc:m1	nazwisko
 Kubricka	Kubrick	subst:sg:gen:m1	nazwisko	
 Kubrickami	Kubrick	subst:pl:inst:m1	nazwisko	
 Kubrickiem	Kubrick	subst:sg:inst:m1	nazwisko	
+Kubricki	Kubrick	depr:pl:acc:m2	nazwisko	
 Kubricki	Kubrick	depr:pl:nom:m2	nazwisko	
 Kubricki	Kubrick	depr:pl:voc:m2	nazwisko	
 Kubrick	Kubrick	subst:sg:nom:m1	nazwisko	
@@ -15024,6 +15466,7 @@ Kubusiach	Kubuś	subst:pl:loc:m1	imię
 Kubusia	Kubuś	subst:sg:acc:m1	imię	
 Kubusia	Kubuś	subst:sg:gen:m1	imię	
 Kubusiami	Kubuś	subst:pl:inst:m1	imię	
+Kubusie	Kubuś	depr:pl:acc:m2	imię	
 Kubusie	Kubuś	depr:pl:nom:m2	imię	
 Kubusie	Kubuś	depr:pl:voc:m2	imię	
 Kubusie	Kubuś	subst:pl:nom:m1	imię	
@@ -15043,6 +15486,7 @@ Kucharczyka	Kucharczyk	subst:sg:acc:m1	nazwisko
 Kucharczyka	Kucharczyk	subst:sg:gen:m1	nazwisko	
 Kucharczykami	Kucharczyk	subst:pl:inst:m1	nazwisko	
 Kucharczykiem	Kucharczyk	subst:sg:inst:m1	nazwisko	
+Kucharczyki	Kucharczyk	depr:pl:acc:m2	nazwisko	
 Kucharczyki	Kucharczyk	depr:pl:nom:m2	nazwisko	
 Kucharczyki	Kucharczyk	depr:pl:voc:m2	nazwisko	
 Kucharczyk	Kucharczyk	subst:sg:nom:m1	nazwisko	
@@ -15061,6 +15505,7 @@ Kucharskich	Kucharski	subst:pl:gen:m1	nazwisko
 Kucharskich	Kucharski	subst:pl:loc:m1	nazwisko	
 Kucharskiego	Kucharski	subst:sg:acc:m1	nazwisko	
 Kucharskiego	Kucharski	subst:sg:gen:m1	nazwisko	
+Kucharskie	Kucharski	depr:pl:acc:m2	nazwisko	
 Kucharskie	Kucharski	depr:pl:nom:m2	nazwisko	
 Kucharskie	Kucharski	depr:pl:voc:m2	nazwisko	
 Kucharskiemu	Kucharski	subst:sg:dat:m1	nazwisko	
@@ -15091,6 +15536,7 @@ Kucińskich	Kuciński	subst:pl:gen:m1	nazwisko
 Kucińskich	Kuciński	subst:pl:loc:m1	nazwisko	
 Kucińskiego	Kuciński	subst:sg:acc:m1	nazwisko	
 Kucińskiego	Kuciński	subst:sg:gen:m1	nazwisko	
+Kucińskie	Kuciński	depr:pl:acc:m2	nazwisko	
 Kucińskie	Kuciński	depr:pl:nom:m2	nazwisko	
 Kucińskie	Kuciński	depr:pl:voc:m2	nazwisko	
 Kucińskiemu	Kuciński	subst:sg:dat:m1	nazwisko	
@@ -15134,6 +15580,7 @@ Kuczmowie	Kuczma	subst:pl:nom:m1	nazwisko
 Kuczmowie	Kuczma	subst:pl:voc:m1	nazwisko	
 Kuczmów	Kuczma	subst:pl:acc:m1	nazwisko	
 Kuczmów	Kuczma	subst:pl:gen:m1	nazwisko	
+Kuczmy	Kuczma	depr:pl:acc:m2	nazwisko	
 Kuczmy	Kuczma	depr:pl:nom:m2	nazwisko	
 Kuczmy	Kuczma	depr:pl:voc:m2	nazwisko	
 Kuczmy	Kuczma	subst:sg:gen:m1	nazwisko	
@@ -15158,6 +15605,7 @@ Kuczyńskich	Kuczyński	subst:pl:gen:m1	nazwisko
 Kuczyńskich	Kuczyński	subst:pl:loc:m1	nazwisko	
 Kuczyńskiego	Kuczyński	subst:sg:acc:m1	nazwisko	
 Kuczyńskiego	Kuczyński	subst:sg:gen:m1	nazwisko	
+Kuczyńskie	Kuczyński	depr:pl:acc:m2	nazwisko	
 Kuczyńskie	Kuczyński	depr:pl:nom:m2	nazwisko	
 Kuczyńskie	Kuczyński	depr:pl:voc:m2	nazwisko	
 Kuczyńskiemu	Kuczyński	subst:sg:dat:m1	nazwisko	
@@ -15188,6 +15636,7 @@ Kudelskich	Kudelski	subst:pl:gen:m1	nazwisko
 Kudelskich	Kudelski	subst:pl:loc:m1	nazwisko	
 Kudelskiego	Kudelski	subst:sg:acc:m1	nazwisko	
 Kudelskiego	Kudelski	subst:sg:gen:m1	nazwisko	
+Kudelskie	Kudelski	depr:pl:acc:m2	nazwisko	
 Kudelskie	Kudelski	depr:pl:nom:m2	nazwisko	
 Kudelskie	Kudelski	depr:pl:voc:m2	nazwisko	
 Kudelskiemu	Kudelski	subst:sg:dat:m1	nazwisko	
@@ -15225,6 +15674,7 @@ Kujawowie	Kujawa	subst:pl:nom:m1	nazwisko
 Kujawowie	Kujawa	subst:pl:voc:m1	nazwisko	
 Kujawów	Kujawa	subst:pl:acc:m1	nazwisko	
 Kujawów	Kujawa	subst:pl:gen:m1	nazwisko	
+Kujawy	Kujawa	depr:pl:acc:m2	nazwisko	
 Kujawy	Kujawa	depr:pl:nom:m2	nazwisko	
 Kujawy	Kujawa	depr:pl:voc:m2	nazwisko	
 Kujawy	Kujawa	subst:sg:gen:m1	nazwisko	
@@ -15234,6 +15684,7 @@ Kujawiaczka	Kujawiaczek	subst:sg:acc:m1	nazwa pospolita
 Kujawiaczka	Kujawiaczek	subst:sg:gen:m1	nazwa pospolita	
 Kujawiaczkami	Kujawiaczek	subst:pl:inst:m1	nazwa pospolita	
 Kujawiaczkiem	Kujawiaczek	subst:sg:inst:m1	nazwa pospolita	
+Kujawiaczki	Kujawiaczek	depr:pl:acc:m2	nazwa pospolita	
 Kujawiaczki	Kujawiaczek	depr:pl:nom:m2	nazwa pospolita	
 Kujawiaczki	Kujawiaczek	depr:pl:voc:m2	nazwa pospolita	
 Kujawiaczkom	Kujawiaczek	subst:pl:dat:m1	nazwa pospolita	
@@ -15251,6 +15702,7 @@ Kujawiaka	Kujawiak	subst:sg:acc:m1	nazwa pospolita
 Kujawiaka	Kujawiak	subst:sg:gen:m1	nazwa pospolita	
 Kujawiakami	Kujawiak	subst:pl:inst:m1	nazwa pospolita	
 Kujawiakiem	Kujawiak	subst:sg:inst:m1	nazwa pospolita	
+Kujawiaki	Kujawiak	depr:pl:acc:m2	nazwa pospolita	
 Kujawiaki	Kujawiak	depr:pl:nom:m2	nazwa pospolita	
 Kujawiaki	Kujawiak	depr:pl:voc:m2	nazwa pospolita	
 Kujawiak	Kujawiak	subst:sg:nom:m1	nazwa pospolita	
@@ -15274,6 +15726,7 @@ Kujawianinowi	Kujawianin	subst:sg:dat:m1	nazwa pospolita
 Kujawian	Kujawianin	subst:pl:acc:m1	nazwa pospolita	
 Kujawian	Kujawianin	subst:pl:gen:m1	nazwa pospolita	
 Kujawianom	Kujawianin	subst:pl:dat:m1	nazwa pospolita	
+Kujawiany	Kujawianin	depr:pl:acc:m2	nazwa pospolita	
 Kujawiany	Kujawianin	depr:pl:nom:m2	nazwa pospolita	
 Kujawiany	Kujawianin	depr:pl:voc:m2	nazwa pospolita	
 Kujawiance	Kujawianka	subst:sg:dat:f	nazwa pospolita	
@@ -15308,6 +15761,7 @@ Kukielach	Kukiel	subst:pl:loc:m1	nazwisko
 Kukiela	Kukiel	subst:sg:acc:m1	nazwisko	
 Kukiela	Kukiel	subst:sg:gen:m1	nazwisko	
 Kukielami	Kukiel	subst:pl:inst:m1	nazwisko	
+Kukiele	Kukiel	depr:pl:acc:m2	nazwisko	
 Kukiele	Kukiel	depr:pl:nom:m2	nazwisko	
 Kukiele	Kukiel	depr:pl:voc:m2	nazwisko	
 Kukielem	Kukiel	subst:sg:inst:m1	nazwisko	
@@ -15334,6 +15788,7 @@ Kukizowie	Kukiz	subst:pl:voc:m1	nazwisko
 Kukizowi	Kukiz	subst:sg:dat:m1	nazwisko	
 Kukizów	Kukiz	subst:pl:acc:m1	nazwisko	
 Kukizów	Kukiz	subst:pl:gen:m1	nazwisko	
+Kukizy	Kukiz	depr:pl:acc:m2	nazwisko	
 Kukizy	Kukiz	depr:pl:nom:m2	nazwisko	
 Kukizy	Kukiz	depr:pl:voc:m2	nazwisko	
 Kuklińska	Kuklińska	subst:sg:nom:f	nazwisko	
@@ -15357,6 +15812,7 @@ Kuklińskich	Kukliński	subst:pl:gen:m1	nazwisko
 Kuklińskich	Kukliński	subst:pl:loc:m1	nazwisko	
 Kuklińskiego	Kukliński	subst:sg:acc:m1	nazwisko	
 Kuklińskiego	Kukliński	subst:sg:gen:m1	nazwisko	
+Kuklińskie	Kukliński	depr:pl:acc:m2	nazwisko	
 Kuklińskie	Kukliński	depr:pl:nom:m2	nazwisko	
 Kuklińskie	Kukliński	depr:pl:voc:m2	nazwisko	
 Kuklińskiemu	Kukliński	subst:sg:dat:m1	nazwisko	
@@ -15398,6 +15854,7 @@ Kulach	Kula	subst:pl:loc:m1	nazwisko
 Kula	Kula	subst:sg:nom:m1	nazwisko	
 Kulami	Kula	subst:pl:inst:m1	nazwisko	
 Kulą	Kula	subst:sg:inst:m1	nazwisko	
+Kule	Kula	depr:pl:acc:m2	nazwisko	
 Kule	Kula	depr:pl:nom:m2	nazwisko	
 Kule	Kula	depr:pl:voc:m2	nazwisko	
 Kulę	Kula	subst:sg:acc:m1	nazwisko	
@@ -15431,6 +15888,7 @@ Kulczyńskich	Kulczyński	subst:pl:gen:m1	nazwisko
 Kulczyńskich	Kulczyński	subst:pl:loc:m1	nazwisko	
 Kulczyńskiego	Kulczyński	subst:sg:acc:m1	nazwisko	
 Kulczyńskiego	Kulczyński	subst:sg:gen:m1	nazwisko	
+Kulczyńskie	Kulczyński	depr:pl:acc:m2	nazwisko	
 Kulczyńskie	Kulczyński	depr:pl:nom:m2	nazwisko	
 Kulczyńskie	Kulczyński	depr:pl:voc:m2	nazwisko	
 Kulczyńskiemu	Kulczyński	subst:sg:dat:m1	nazwisko	
@@ -15444,6 +15902,7 @@ Kuleszach	Kulesza	subst:pl:loc:m1	nazwisko
 Kulesza	Kulesza	subst:sg:nom:m1	nazwisko	
 Kuleszami	Kulesza	subst:pl:inst:m1	nazwisko	
 Kuleszą	Kulesza	subst:sg:inst:m1	nazwisko	
+Kulesze	Kulesza	depr:pl:acc:m2	nazwisko	
 Kulesze	Kulesza	depr:pl:nom:m2	nazwisko	
 Kulesze	Kulesza	depr:pl:voc:m2	nazwisko	
 Kuleszę	Kulesza	subst:sg:acc:m1	nazwisko	
@@ -15477,6 +15936,7 @@ Kuligowskich	Kuligowski	subst:pl:gen:m1	nazwisko
 Kuligowskich	Kuligowski	subst:pl:loc:m1	nazwisko	
 Kuligowskiego	Kuligowski	subst:sg:acc:m1	nazwisko	
 Kuligowskiego	Kuligowski	subst:sg:gen:m1	nazwisko	
+Kuligowskie	Kuligowski	depr:pl:acc:m2	nazwisko	
 Kuligowskie	Kuligowski	depr:pl:nom:m2	nazwisko	
 Kuligowskie	Kuligowski	depr:pl:voc:m2	nazwisko	
 Kuligowskiemu	Kuligowski	subst:sg:dat:m1	nazwisko	
@@ -15491,6 +15951,7 @@ Kulika	Kulik	subst:sg:acc:m1	nazwisko
 Kulika	Kulik	subst:sg:gen:m1	nazwisko	
 Kulikami	Kulik	subst:pl:inst:m1	nazwisko	
 Kulikiem	Kulik	subst:sg:inst:m1	nazwisko	
+Kuliki	Kulik	depr:pl:acc:m2	nazwisko	
 Kuliki	Kulik	depr:pl:nom:m2	nazwisko	
 Kuliki	Kulik	depr:pl:voc:m2	nazwisko	
 Kulik	Kulik	subst:sg:nom:m1	nazwisko	
@@ -15523,6 +15984,7 @@ Kulikowskich	Kulikowski	subst:pl:gen:m1	nazwisko
 Kulikowskich	Kulikowski	subst:pl:loc:m1	nazwisko	
 Kulikowskiego	Kulikowski	subst:sg:acc:m1	nazwisko	
 Kulikowskiego	Kulikowski	subst:sg:gen:m1	nazwisko	
+Kulikowskie	Kulikowski	depr:pl:acc:m2	nazwisko	
 Kulikowskie	Kulikowski	depr:pl:nom:m2	nazwisko	
 Kulikowskie	Kulikowski	depr:pl:voc:m2	nazwisko	
 Kulikowskiemu	Kulikowski	subst:sg:dat:m1	nazwisko	
@@ -15553,6 +16015,7 @@ Kulińskich	Kuliński	subst:pl:gen:m1	nazwisko
 Kulińskich	Kuliński	subst:pl:loc:m1	nazwisko	
 Kulińskiego	Kuliński	subst:sg:acc:m1	nazwisko	
 Kulińskiego	Kuliński	subst:sg:gen:m1	nazwisko	
+Kulińskie	Kuliński	depr:pl:acc:m2	nazwisko	
 Kulińskie	Kuliński	depr:pl:nom:m2	nazwisko	
 Kulińskie	Kuliński	depr:pl:voc:m2	nazwisko	
 Kulińskiemu	Kuliński	subst:sg:dat:m1	nazwisko	
@@ -15566,6 +16029,7 @@ Kulisiewiczach	Kulisiewicz	subst:pl:loc:m1	nazwisko
 Kulisiewicza	Kulisiewicz	subst:sg:acc:m1	nazwisko	
 Kulisiewicza	Kulisiewicz	subst:sg:gen:m1	nazwisko	
 Kulisiewiczami	Kulisiewicz	subst:pl:inst:m1	nazwisko	
+Kulisiewicze	Kulisiewicz	depr:pl:acc:m2	nazwisko	
 Kulisiewicze	Kulisiewicz	depr:pl:nom:m2	nazwisko	
 Kulisiewicze	Kulisiewicz	depr:pl:voc:m2	nazwisko	
 Kulisiewicze	Kulisiewicz	subst:pl:nom:m1	nazwisko	
@@ -15615,6 +16079,7 @@ Kułakowskich	Kułakowski	subst:pl:gen:m1	nazwisko
 Kułakowskich	Kułakowski	subst:pl:loc:m1	nazwisko	
 Kułakowskiego	Kułakowski	subst:sg:acc:m1	nazwisko	
 Kułakowskiego	Kułakowski	subst:sg:gen:m1	nazwisko	
+Kułakowskie	Kułakowski	depr:pl:acc:m2	nazwisko	
 Kułakowskie	Kułakowski	depr:pl:nom:m2	nazwisko	
 Kułakowskie	Kułakowski	depr:pl:voc:m2	nazwisko	
 Kułakowskiemu	Kułakowski	subst:sg:dat:m1	nazwisko	
@@ -15638,6 +16103,7 @@ Kumanowie	Kuman	subst:pl:voc:m1	nazwa pospolita
 Kumanowi	Kuman	subst:sg:dat:m1	nazwa pospolita	
 Kumanów	Kuman	subst:pl:acc:m1	nazwa pospolita	
 Kumanów	Kuman	subst:pl:gen:m1	nazwa pospolita	
+Kumany	Kuman	depr:pl:acc:m2	nazwa pospolita	
 Kumany	Kuman	depr:pl:nom:m2	nazwa pospolita	
 Kumany	Kuman	depr:pl:voc:m2	nazwa pospolita	
 Kumance	Kumanka	subst:sg:dat:f	nazwa pospolita	
@@ -15672,6 +16138,7 @@ Kuncach	Kunce	subst:pl:loc:m1	nazwisko
 Kuncami	Kunce	subst:pl:inst:m1	nazwisko	
 Kuncego	Kunce	subst:sg:acc:m1	nazwisko	
 Kuncego	Kunce	subst:sg:gen:m1	nazwisko	
+Kunce	Kunce	depr:pl:acc:m2	nazwisko	
 Kunce	Kunce	depr:pl:nom:m2	nazwisko	
 Kunce	Kunce	depr:pl:voc:m2	nazwisko	
 Kunce	Kunce	subst:sg:nom:m1	nazwisko	
@@ -15688,6 +16155,7 @@ Kuncewiczach	Kuncewicz	subst:pl:loc:m1	nazwisko
 Kuncewicza	Kuncewicz	subst:sg:acc:m1	nazwisko	
 Kuncewicza	Kuncewicz	subst:sg:gen:m1	nazwisko	
 Kuncewiczami	Kuncewicz	subst:pl:inst:m1	nazwisko	
+Kuncewicze	Kuncewicz	depr:pl:acc:m2	nazwisko	
 Kuncewicze	Kuncewicz	depr:pl:nom:m2	nazwisko	
 Kuncewicze	Kuncewicz	depr:pl:voc:m2	nazwisko	
 Kuncewicze	Kuncewicz	subst:pl:nom:m1	nazwisko	
@@ -15741,6 +16209,7 @@ Kunderowie	Kundera	subst:pl:nom:m1	nazwisko
 Kunderowie	Kundera	subst:pl:voc:m1	nazwisko	
 Kunderów	Kundera	subst:pl:acc:m1	nazwisko	
 Kunderów	Kundera	subst:pl:gen:m1	nazwisko	
+Kundery	Kundera	depr:pl:acc:m2	nazwisko	
 Kundery	Kundera	depr:pl:nom:m2	nazwisko	
 Kundery	Kundera	depr:pl:voc:m2	nazwisko	
 Kundery	Kundera	subst:sg:gen:m1	nazwisko	
@@ -15822,6 +16291,7 @@ Kunzach	Kunz	subst:pl:loc:m1	nazwisko
 Kunza	Kunz	subst:sg:acc:m1	nazwisko	
 Kunza	Kunz	subst:sg:gen:m1	nazwisko	
 Kunzami	Kunz	subst:pl:inst:m1	nazwisko	
+Kunze	Kunz	depr:pl:acc:m2	nazwisko	
 Kunze	Kunz	depr:pl:nom:m2	nazwisko	
 Kunze	Kunz	depr:pl:voc:m2	nazwisko	
 Kunzem	Kunz	subst:sg:inst:m1	nazwisko	
@@ -15850,6 +16320,7 @@ Kuomintangu	Kuomintang	subst:sg:loc:m3	nazwa organizacji
 Kuomintangu	Kuomintang	subst:sg:voc:m3	nazwa organizacji	
 Kupidach	Kupido	subst:pl:loc:m1	imię	mit.
 Kupidach	Kupido	subst:pl:loc:m2	imię	mit.
+Kupida	Kupido	depr:pl:acc:m2	imię	mit.
 Kupida	Kupido	depr:pl:nom:m2	imię	mit.
 Kupida	Kupido	depr:pl:voc:m2	imię	mit.
 Kupida	Kupido	subst:pl:acc:m2	imię	mit.
@@ -15896,6 +16367,7 @@ Kuraszkiewiczach	Kuraszkiewicz	subst:pl:loc:m1	nazwisko
 Kuraszkiewicza	Kuraszkiewicz	subst:sg:acc:m1	nazwisko	
 Kuraszkiewicza	Kuraszkiewicz	subst:sg:gen:m1	nazwisko	
 Kuraszkiewiczami	Kuraszkiewicz	subst:pl:inst:m1	nazwisko	
+Kuraszkiewicze	Kuraszkiewicz	depr:pl:acc:m2	nazwisko	
 Kuraszkiewicze	Kuraszkiewicz	depr:pl:nom:m2	nazwisko	
 Kuraszkiewicze	Kuraszkiewicz	depr:pl:voc:m2	nazwisko	
 Kuraszkiewicze	Kuraszkiewicz	subst:pl:nom:m1	nazwisko	
@@ -15931,6 +16403,7 @@ Kuratowskich	Kuratowski	subst:pl:gen:m1	nazwisko
 Kuratowskich	Kuratowski	subst:pl:loc:m1	nazwisko	
 Kuratowskiego	Kuratowski	subst:sg:acc:m1	nazwisko	
 Kuratowskiego	Kuratowski	subst:sg:gen:m1	nazwisko	
+Kuratowskie	Kuratowski	depr:pl:acc:m2	nazwisko	
 Kuratowskie	Kuratowski	depr:pl:nom:m2	nazwisko	
 Kuratowskie	Kuratowski	depr:pl:voc:m2	nazwisko	
 Kuratowskiemu	Kuratowski	subst:sg:dat:m1	nazwisko	
@@ -15952,6 +16425,7 @@ Kurdowie	Kurd	subst:pl:voc:m1	nazwa pospolita	etn.
 Kurdowi	Kurd	subst:sg:dat:m1	nazwa pospolita	etn.
 Kurdów	Kurd	subst:pl:acc:m1	nazwa pospolita	etn.
 Kurdów	Kurd	subst:pl:gen:m1	nazwa pospolita	etn.
+Kurdy	Kurd	depr:pl:acc:m2	nazwa pospolita	etn.
 Kurdy	Kurd	depr:pl:nom:m2	nazwa pospolita	etn.
 Kurdy	Kurd	depr:pl:voc:m2	nazwa pospolita	etn.
 Kurdzie	Kurd	subst:sg:loc:m1	nazwa pospolita	etn.
@@ -15990,6 +16464,7 @@ Kurka	Kurek	subst:sg:acc:m1	nazwisko
 Kurka	Kurek	subst:sg:gen:m1	nazwisko	
 Kurkami	Kurek	subst:pl:inst:m1	nazwisko	
 Kurkiem	Kurek	subst:sg:inst:m1	nazwisko	
+Kurki	Kurek	depr:pl:acc:m2	nazwisko	
 Kurki	Kurek	depr:pl:nom:m2	nazwisko	
 Kurki	Kurek	depr:pl:voc:m2	nazwisko	
 Kurkom	Kurek	subst:pl:dat:m1	nazwisko	
@@ -16021,6 +16496,7 @@ Kurkowskich	Kurkowski	subst:pl:gen:m1	nazwisko
 Kurkowskich	Kurkowski	subst:pl:loc:m1	nazwisko	
 Kurkowskiego	Kurkowski	subst:sg:acc:m1	nazwisko	
 Kurkowskiego	Kurkowski	subst:sg:gen:m1	nazwisko	
+Kurkowskie	Kurkowski	depr:pl:acc:m2	nazwisko	
 Kurkowskie	Kurkowski	depr:pl:nom:m2	nazwisko	
 Kurkowskie	Kurkowski	depr:pl:voc:m2	nazwisko	
 Kurkowskiemu	Kurkowski	subst:sg:dat:m1	nazwisko	
@@ -16049,6 +16525,7 @@ Kuroniach	Kuroń	subst:pl:loc:m1	nazwisko
 Kuronia	Kuroń	subst:sg:acc:m1	nazwisko	
 Kuronia	Kuroń	subst:sg:gen:m1	nazwisko	
 Kuroniami	Kuroń	subst:pl:inst:m1	nazwisko	
+Kuronie	Kuroń	depr:pl:acc:m2	nazwisko	
 Kuronie	Kuroń	depr:pl:nom:m2	nazwisko	
 Kuronie	Kuroń	depr:pl:voc:m2	nazwisko	
 Kuroniem	Kuroń	subst:sg:inst:m1	nazwisko	
@@ -16090,6 +16567,7 @@ Kuropieska	Kuropieska	subst:sg:nom:m1	nazwisko
 Kuropieskami	Kuropieska	subst:pl:inst:m1	nazwisko	
 Kuropieską	Kuropieska	subst:sg:inst:m1	nazwisko	
 Kuropieskę	Kuropieska	subst:sg:acc:m1	nazwisko	
+Kuropieski	Kuropieska	depr:pl:acc:m2	nazwisko	
 Kuropieski	Kuropieska	depr:pl:nom:m2	nazwisko	
 Kuropieski	Kuropieska	depr:pl:voc:m2	nazwisko	
 Kuropieski	Kuropieska	subst:sg:gen:m1	nazwisko	
@@ -16112,6 +16590,7 @@ Kurosawowie	Kurosawa	subst:pl:nom:m1	nazwisko
 Kurosawowie	Kurosawa	subst:pl:voc:m1	nazwisko	
 Kurosawów	Kurosawa	subst:pl:acc:m1	nazwisko	
 Kurosawów	Kurosawa	subst:pl:gen:m1	nazwisko	
+Kurosawy	Kurosawa	depr:pl:acc:m2	nazwisko	
 Kurosawy	Kurosawa	depr:pl:nom:m2	nazwisko	
 Kurosawy	Kurosawa	depr:pl:voc:m2	nazwisko	
 Kurosawy	Kurosawa	subst:sg:gen:m1	nazwisko	
@@ -16150,6 +16629,7 @@ Kurpiach	Kurp	subst:pl:loc:m1	nazwa pospolita
 Kurpia	Kurp	subst:sg:acc:m1	nazwa pospolita	
 Kurpia	Kurp	subst:sg:gen:m1	nazwa pospolita	
 Kurpiami	Kurp	subst:pl:inst:m1	nazwa pospolita	
+Kurpie	Kurp	depr:pl:acc:m2	nazwa pospolita	
 Kurpie	Kurp	depr:pl:nom:m2	nazwa pospolita	
 Kurpie	Kurp	depr:pl:voc:m2	nazwa pospolita	
 Kurpie	Kurp	subst:pl:nom:m1	nazwa pospolita	
@@ -16196,6 +16676,7 @@ Kurpiszach	Kurpisz	subst:pl:loc:m1	nazwisko
 Kurpisza	Kurpisz	subst:sg:acc:m1	nazwisko	
 Kurpisza	Kurpisz	subst:sg:gen:m1	nazwisko	
 Kurpiszami	Kurpisz	subst:pl:inst:m1	nazwisko	
+Kurpisze	Kurpisz	depr:pl:acc:m2	nazwisko	
 Kurpisze	Kurpisz	depr:pl:nom:m2	nazwisko	
 Kurpisze	Kurpisz	depr:pl:voc:m2	nazwisko	
 Kurpisze	Kurpisz	subst:pl:nom:m1	nazwisko	
@@ -16238,6 +16719,7 @@ Kurtowie	Kurt	subst:pl:voc:m1	imię
 Kurtowi	Kurt	subst:sg:dat:m1	imię	
 Kurtów	Kurt	subst:pl:acc:m1	imię	
 Kurtów	Kurt	subst:pl:gen:m1	imię	
+Kurty	Kurt	depr:pl:acc:m2	imię	
 Kurty	Kurt	depr:pl:nom:m2	imię	
 Kurty	Kurt	depr:pl:voc:m2	imię	
 Kurylach	Kuryle	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -16275,6 +16757,7 @@ Kusiaka	Kusiak	subst:sg:acc:m1	nazwisko
 Kusiaka	Kusiak	subst:sg:gen:m1	nazwisko	
 Kusiakami	Kusiak	subst:pl:inst:m1	nazwisko	
 Kusiakiem	Kusiak	subst:sg:inst:m1	nazwisko	
+Kusiaki	Kusiak	depr:pl:acc:m2	nazwisko	
 Kusiaki	Kusiak	depr:pl:nom:m2	nazwisko	
 Kusiaki	Kusiak	depr:pl:voc:m2	nazwisko	
 Kusiak	Kusiak	subst:sg:nom:m1	nazwisko	
@@ -16297,6 +16780,7 @@ Kustowie	Kusto	subst:pl:nom:m1	nazwisko
 Kustowie	Kusto	subst:pl:voc:m1	nazwisko	
 Kustów	Kusto	subst:pl:acc:m1	nazwisko	
 Kustów	Kusto	subst:pl:gen:m1	nazwisko	
+Kusty	Kusto	depr:pl:acc:m2	nazwisko	
 Kusty	Kusto	depr:pl:nom:m2	nazwisko	
 Kusty	Kusto	depr:pl:voc:m2	nazwisko	
 Kusty	Kusto	subst:sg:gen:m1	nazwisko	
@@ -16306,6 +16790,7 @@ Kusznierewiczach	Kusznierewicz	subst:pl:loc:m1	nazwisko
 Kusznierewicza	Kusznierewicz	subst:sg:acc:m1	nazwisko	
 Kusznierewicza	Kusznierewicz	subst:sg:gen:m1	nazwisko	
 Kusznierewiczami	Kusznierewicz	subst:pl:inst:m1	nazwisko	
+Kusznierewicze	Kusznierewicz	depr:pl:acc:m2	nazwisko	
 Kusznierewicze	Kusznierewicz	depr:pl:nom:m2	nazwisko	
 Kusznierewicze	Kusznierewicz	depr:pl:voc:m2	nazwisko	
 Kusznierewicze	Kusznierewicz	subst:pl:nom:m1	nazwisko	
@@ -16326,6 +16811,7 @@ Kuśmierka	Kuśmierek	subst:sg:acc:m1	nazwisko
 Kuśmierka	Kuśmierek	subst:sg:gen:m1	nazwisko	
 Kuśmierkami	Kuśmierek	subst:pl:inst:m1	nazwisko	
 Kuśmierkiem	Kuśmierek	subst:sg:inst:m1	nazwisko	
+Kuśmierki	Kuśmierek	depr:pl:acc:m2	nazwisko	
 Kuśmierki	Kuśmierek	depr:pl:nom:m2	nazwisko	
 Kuśmierki	Kuśmierek	depr:pl:voc:m2	nazwisko	
 Kuśmierkom	Kuśmierek	subst:pl:dat:m1	nazwisko	
@@ -16357,6 +16843,7 @@ Kuśmierskich	Kuśmierski	subst:pl:gen:m1	nazwisko
 Kuśmierskich	Kuśmierski	subst:pl:loc:m1	nazwisko	
 Kuśmierskiego	Kuśmierski	subst:sg:acc:m1	nazwisko	
 Kuśmierskiego	Kuśmierski	subst:sg:gen:m1	nazwisko	
+Kuśmierskie	Kuśmierski	depr:pl:acc:m2	nazwisko	
 Kuśmierskie	Kuśmierski	depr:pl:nom:m2	nazwisko	
 Kuśmierskie	Kuśmierski	depr:pl:voc:m2	nazwisko	
 Kuśmierskiemu	Kuśmierski	subst:sg:dat:m1	nazwisko	
@@ -16370,6 +16857,7 @@ Kuśniewiczach	Kuśniewicz	subst:pl:loc:m1	nazwisko
 Kuśniewicza	Kuśniewicz	subst:sg:acc:m1	nazwisko	
 Kuśniewicza	Kuśniewicz	subst:sg:gen:m1	nazwisko	
 Kuśniewiczami	Kuśniewicz	subst:pl:inst:m1	nazwisko	
+Kuśniewicze	Kuśniewicz	depr:pl:acc:m2	nazwisko	
 Kuśniewicze	Kuśniewicz	depr:pl:nom:m2	nazwisko	
 Kuśniewicze	Kuśniewicz	depr:pl:voc:m2	nazwisko	
 Kuśniewicze	Kuśniewicz	subst:pl:nom:m1	nazwisko	
@@ -16411,6 +16899,7 @@ Kutrzebowie	Kutrzeba	subst:pl:nom:m1	nazwisko
 Kutrzebowie	Kutrzeba	subst:pl:voc:m1	nazwisko	
 Kutrzebów	Kutrzeba	subst:pl:acc:m1	nazwisko	
 Kutrzebów	Kutrzeba	subst:pl:gen:m1	nazwisko	
+Kutrzeby	Kutrzeba	depr:pl:acc:m2	nazwisko	
 Kutrzeby	Kutrzeba	depr:pl:nom:m2	nazwisko	
 Kutrzeby	Kutrzeba	depr:pl:voc:m2	nazwisko	
 Kutrzeby	Kutrzeba	subst:sg:gen:m1	nazwisko	
@@ -16428,12 +16917,14 @@ Kutuzowowie	Kutuzow	subst:pl:voc:m1	nazwisko
 Kutuzowowi	Kutuzow	subst:sg:dat:m1	nazwisko	
 Kutuzowów	Kutuzow	subst:pl:acc:m1	nazwisko	
 Kutuzowów	Kutuzow	subst:pl:gen:m1	nazwisko	
+Kutuzowy	Kutuzow	depr:pl:acc:m2	nazwisko	
 Kutuzowy	Kutuzow	depr:pl:nom:m2	nazwisko	
 Kutuzowy	Kutuzow	depr:pl:voc:m2	nazwisko	
 Kutzach	Kutz	subst:pl:loc:m1	nazwisko	
 Kutza	Kutz	subst:sg:acc:m1	nazwisko	
 Kutza	Kutz	subst:sg:gen:m1	nazwisko	
 Kutzami	Kutz	subst:pl:inst:m1	nazwisko	
+Kutze	Kutz	depr:pl:acc:m2	nazwisko	
 Kutze	Kutz	depr:pl:nom:m2	nazwisko	
 Kutze	Kutz	depr:pl:voc:m2	nazwisko	
 Kutzem	Kutz	subst:sg:inst:m1	nazwisko	
@@ -16481,6 +16972,7 @@ Kuwejtczyka	Kuwejtczyk	subst:sg:acc:m1	nazwa pospolita
 Kuwejtczyka	Kuwejtczyk	subst:sg:gen:m1	nazwa pospolita	
 Kuwejtczykami	Kuwejtczyk	subst:pl:inst:m1	nazwa pospolita	
 Kuwejtczykiem	Kuwejtczyk	subst:sg:inst:m1	nazwa pospolita	
+Kuwejtczyki	Kuwejtczyk	depr:pl:acc:m2	nazwa pospolita	
 Kuwejtczyki	Kuwejtczyk	depr:pl:nom:m2	nazwa pospolita	
 Kuwejtczyki	Kuwejtczyk	depr:pl:voc:m2	nazwa pospolita	
 Kuwejtczyk	Kuwejtczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -16511,6 +17003,7 @@ Kuźmińskich	Kuźmiński	subst:pl:gen:m1	nazwisko
 Kuźmińskich	Kuźmiński	subst:pl:loc:m1	nazwisko	
 Kuźmińskiego	Kuźmiński	subst:sg:acc:m1	nazwisko	
 Kuźmińskiego	Kuźmiński	subst:sg:gen:m1	nazwisko	
+Kuźmińskie	Kuźmiński	depr:pl:acc:m2	nazwisko	
 Kuźmińskie	Kuźmiński	depr:pl:nom:m2	nazwisko	
 Kuźmińskie	Kuźmiński	depr:pl:voc:m2	nazwisko	
 Kuźmińskiemu	Kuźmiński	subst:sg:dat:m1	nazwisko	
@@ -16583,6 +17076,7 @@ Kwaśniewskich	Kwaśniewski	subst:pl:gen:m1	nazwisko
 Kwaśniewskich	Kwaśniewski	subst:pl:loc:m1	nazwisko	
 Kwaśniewskiego	Kwaśniewski	subst:sg:acc:m1	nazwisko	
 Kwaśniewskiego	Kwaśniewski	subst:sg:gen:m1	nazwisko	
+Kwaśniewskie	Kwaśniewski	depr:pl:acc:m2	nazwisko	
 Kwaśniewskie	Kwaśniewski	depr:pl:nom:m2	nazwisko	
 Kwaśniewskie	Kwaśniewski	depr:pl:voc:m2	nazwisko	
 Kwaśniewskiemu	Kwaśniewski	subst:sg:dat:m1	nazwisko	
@@ -16594,6 +17088,7 @@ Kwaśniewskim	Kwaśniewski	subst:sg:inst:m1	nazwisko
 Kwaśniewskim	Kwaśniewski	subst:sg:loc:m1	nazwisko	
 Kwaśnego	Kwaśny	subst:sg:acc:m1	nazwisko	
 Kwaśnego	Kwaśny	subst:sg:gen:m1	nazwisko	
+Kwaśne	Kwaśny	depr:pl:acc:m2	nazwisko	
 Kwaśne	Kwaśny	depr:pl:nom:m2	nazwisko	
 Kwaśne	Kwaśny	depr:pl:voc:m2	nazwisko	
 Kwaśnemu	Kwaśny	subst:sg:dat:m1	nazwisko	
@@ -16631,6 +17126,7 @@ Kwiatkowskich	Kwiatkowski	subst:pl:gen:m1	nazwisko
 Kwiatkowskich	Kwiatkowski	subst:pl:loc:m1	nazwisko	
 Kwiatkowskiego	Kwiatkowski	subst:sg:acc:m1	nazwisko	
 Kwiatkowskiego	Kwiatkowski	subst:sg:gen:m1	nazwisko	
+Kwiatkowskie	Kwiatkowski	depr:pl:acc:m2	nazwisko	
 Kwiatkowskie	Kwiatkowski	depr:pl:nom:m2	nazwisko	
 Kwiatkowskie	Kwiatkowski	depr:pl:voc:m2	nazwisko	
 Kwiatkowskiemu	Kwiatkowski	subst:sg:dat:m1	nazwisko	
@@ -16659,6 +17155,7 @@ Kwietniach	Kwiecień	subst:pl:loc:m1	nazwisko
 Kwietnia	Kwiecień	subst:sg:acc:m1	nazwisko	
 Kwietnia	Kwiecień	subst:sg:gen:m1	nazwisko	
 Kwietniami	Kwiecień	subst:pl:inst:m1	nazwisko	
+Kwietnie	Kwiecień	depr:pl:acc:m2	nazwisko	
 Kwietnie	Kwiecień	depr:pl:nom:m2	nazwisko	
 Kwietnie	Kwiecień	depr:pl:voc:m2	nazwisko	
 Kwietniem	Kwiecień	subst:sg:inst:m1	nazwisko	
@@ -16691,6 +17188,7 @@ Kwiecińskich	Kwieciński	subst:pl:gen:m1	nazwisko
 Kwiecińskich	Kwieciński	subst:pl:loc:m1	nazwisko	
 Kwiecińskiego	Kwieciński	subst:sg:acc:m1	nazwisko	
 Kwiecińskiego	Kwieciński	subst:sg:gen:m1	nazwisko	
+Kwiecińskie	Kwieciński	depr:pl:acc:m2	nazwisko	
 Kwiecińskie	Kwieciński	depr:pl:nom:m2	nazwisko	
 Kwiecińskie	Kwieciński	depr:pl:voc:m2	nazwisko	
 Kwiecińskiemu	Kwieciński	subst:sg:dat:m1	nazwisko	
@@ -16714,6 +17212,7 @@ Kwintylianowie	Kwintylian	subst:pl:voc:m1	imię
 Kwintylianowi	Kwintylian	subst:sg:dat:m1	imię	
 Kwintylianów	Kwintylian	subst:pl:acc:m1	imię	
 Kwintylianów	Kwintylian	subst:pl:gen:m1	imię	
+Kwintyliany	Kwintylian	depr:pl:acc:m2	imię	
 Kwintyliany	Kwintylian	depr:pl:nom:m2	imię	
 Kwintyliany	Kwintylian	depr:pl:voc:m2	imię	
 Kwirynach	Kwiryn	subst:pl:loc:m1	imię	
@@ -16732,6 +17231,7 @@ Kwirynowie	Kwiryn	subst:pl:voc:m1	imię
 Kwirynowi	Kwiryn	subst:sg:dat:m1	imię	
 Kwirynów	Kwiryn	subst:pl:acc:m1	imię	
 Kwirynów	Kwiryn	subst:pl:gen:m1	imię	
+Kwiryny	Kwiryn	depr:pl:acc:m2	imię	
 Kwiryny	Kwiryn	depr:pl:nom:m2	imię	
 Kwiryny	Kwiryn	depr:pl:voc:m2	imię	
 Kwirynach	Kwiryna	subst:pl:loc:f	imię	
@@ -16754,6 +17254,7 @@ Kwolka	Kwolek	subst:sg:acc:m1	nazwisko
 Kwolka	Kwolek	subst:sg:gen:m1	nazwisko	
 Kwolkami	Kwolek	subst:pl:inst:m1	nazwisko	
 Kwolkiem	Kwolek	subst:sg:inst:m1	nazwisko	
+Kwolki	Kwolek	depr:pl:acc:m2	nazwisko	
 Kwolki	Kwolek	depr:pl:nom:m2	nazwisko	
 Kwolki	Kwolek	depr:pl:voc:m2	nazwisko	
 Kwolkom	Kwolek	subst:pl:dat:m1	nazwisko	

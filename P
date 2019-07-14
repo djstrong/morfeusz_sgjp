@@ -47,6 +47,7 @@ Pabianowi	Pabian	subst:sg:dat:m1	imię
 Pabianów	Pabian	subst:pl:acc:m1	imię	
 Pabianów	Pabian	subst:pl:gen:m1	imię	
 Pabian	Pabian	subst:sg:nom:m1	imię	
+Pabiany	Pabian	depr:pl:acc:m2	imię	
 Pabiany	Pabian	depr:pl:nom:m2	imię	
 Pabiany	Pabian	depr:pl:voc:m2	imię	
 Pabianicach	Pabianice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -68,9 +69,11 @@ Pablami	Pablo	subst:pl:inst:m1	imię
 Pabla	Pablo	subst:sg:acc:m1	imię	
 Pabla	Pablo	subst:sg:gen:m1	imię	
 Pablem	Pablo	subst:sg:inst:m1	imię	
+Pable	Pablo	depr:pl:acc:m2	imię	
 Pable	Pablo	depr:pl:nom:m2	imię	
 Pable	Pablo	depr:pl:voc:m2	imię	
 Pablom	Pablo	subst:pl:dat:m1	imię	
+Pablo	Pablo	depr:pl:acc:m2	imię	
 Pablo	Pablo	depr:pl:nom:m2	imię	
 Pablo	Pablo	depr:pl:voc:m2	imię	
 Pablo	Pablo	subst:pl:acc:m1	imię	
@@ -113,6 +116,7 @@ Pachelbelami	Pachelbel	subst:pl:inst:m1	nazwisko
 Pachelbela	Pachelbel	subst:sg:acc:m1	nazwisko	
 Pachelbela	Pachelbel	subst:sg:gen:m1	nazwisko	
 Pachelbelem	Pachelbel	subst:sg:inst:m1	nazwisko	
+Pachelbele	Pachelbel	depr:pl:acc:m2	nazwisko	
 Pachelbele	Pachelbel	depr:pl:nom:m2	nazwisko	
 Pachelbele	Pachelbel	depr:pl:voc:m2	nazwisko	
 Pachelbelom	Pachelbel	subst:pl:dat:m1	nazwisko	
@@ -146,6 +150,7 @@ Pachulskich	Pachulski	subst:pl:loc:m1	nazwisko
 Pachulskiego	Pachulski	subst:sg:acc:m1	nazwisko	
 Pachulskiego	Pachulski	subst:sg:gen:m1	nazwisko	
 Pachulskiemu	Pachulski	subst:sg:dat:m1	nazwisko	
+Pachulskie	Pachulski	depr:pl:acc:m2	nazwisko	
 Pachulskie	Pachulski	depr:pl:nom:m2	nazwisko	
 Pachulskie	Pachulski	depr:pl:voc:m2	nazwisko	
 Pachulskimi	Pachulski	subst:pl:inst:m1	nazwisko	
@@ -161,6 +166,7 @@ Pacina	Pacino	subst:sg:gen:m1	nazwisko
 Pacinem	Pacino	subst:sg:inst:m1	nazwisko	
 Pacinie	Pacino	subst:sg:loc:m1	nazwisko	
 Pacinom	Pacino	subst:pl:dat:m1	nazwisko	
+Pacino	Pacino	depr:pl:acc:m2	nazwisko	
 Pacino	Pacino	depr:pl:nom:m2	nazwisko	
 Pacino	Pacino	depr:pl:voc:m2	nazwisko	
 Pacino	Pacino	subst:pl:acc:m1	nazwisko	
@@ -182,6 +188,7 @@ Pacinowie	Pacino	subst:pl:voc:m1	nazwisko
 Pacinowi	Pacino	subst:sg:dat:m1	nazwisko	
 Pacinów	Pacino	subst:pl:acc:m1	nazwisko	
 Pacinów	Pacino	subst:pl:gen:m1	nazwisko	
+Paciny	Pacino	depr:pl:acc:m2	nazwisko	
 Paciny	Pacino	depr:pl:nom:m2	nazwisko	
 Paciny	Pacino	depr:pl:voc:m2	nazwisko	
 Paciorkowska	Paciorkowska	subst:sg:nom:f	nazwisko	
@@ -206,6 +213,7 @@ Paciorkowskich	Paciorkowski	subst:pl:loc:m1	nazwisko
 Paciorkowskiego	Paciorkowski	subst:sg:acc:m1	nazwisko	
 Paciorkowskiego	Paciorkowski	subst:sg:gen:m1	nazwisko	
 Paciorkowskiemu	Paciorkowski	subst:sg:dat:m1	nazwisko	
+Paciorkowskie	Paciorkowski	depr:pl:acc:m2	nazwisko	
 Paciorkowskie	Paciorkowski	depr:pl:nom:m2	nazwisko	
 Paciorkowskie	Paciorkowski	depr:pl:voc:m2	nazwisko	
 Paciorkowskimi	Paciorkowski	subst:pl:inst:m1	nazwisko	
@@ -245,6 +253,7 @@ Paczesnym	Paczesna	subst:pl:dat:f	nazwisko
 Paczesnego	Paczesny	subst:sg:acc:m1	nazwisko	
 Paczesnego	Paczesny	subst:sg:gen:m1	nazwisko	
 Paczesnemu	Paczesny	subst:sg:dat:m1	nazwisko	
+Paczesne	Paczesny	depr:pl:acc:m2	nazwisko	
 Paczesne	Paczesny	depr:pl:nom:m2	nazwisko	
 Paczesne	Paczesny	depr:pl:voc:m2	nazwisko	
 Paczesni	Paczesny	subst:pl:nom:m1	nazwisko	
@@ -295,6 +304,7 @@ Paczuskich	Paczuski	subst:pl:loc:m1	nazwisko
 Paczuskiego	Paczuski	subst:sg:acc:m1	nazwisko	
 Paczuskiego	Paczuski	subst:sg:gen:m1	nazwisko	
 Paczuskiemu	Paczuski	subst:sg:dat:m1	nazwisko	
+Paczuskie	Paczuski	depr:pl:acc:m2	nazwisko	
 Paczuskie	Paczuski	depr:pl:nom:m2	nazwisko	
 Paczuskie	Paczuski	depr:pl:voc:m2	nazwisko	
 Paczuskimi	Paczuski	subst:pl:inst:m1	nazwisko	
@@ -325,6 +335,7 @@ Paderewskich	Paderewski	subst:pl:loc:m1	nazwisko
 Paderewskiego	Paderewski	subst:sg:acc:m1	nazwisko	
 Paderewskiego	Paderewski	subst:sg:gen:m1	nazwisko	
 Paderewskiemu	Paderewski	subst:sg:dat:m1	nazwisko	
+Paderewskie	Paderewski	depr:pl:acc:m2	nazwisko	
 Paderewskie	Paderewski	depr:pl:nom:m2	nazwisko	
 Paderewskie	Paderewski	depr:pl:voc:m2	nazwisko	
 Paderewskimi	Paderewski	subst:pl:inst:m1	nazwisko	
@@ -364,6 +375,7 @@ Pafawagu	Pafawag	subst:sg:voc:m3	nazwa firmy
 Pafnucego	Pafnucy	subst:sg:acc:m1	imię	
 Pafnucego	Pafnucy	subst:sg:gen:m1	imię	
 Pafnucemu	Pafnucy	subst:sg:dat:m1	imię	
+Pafnuce	Pafnucy	depr:pl:acc:m2	imię	
 Pafnuce	Pafnucy	depr:pl:nom:m2	imię	
 Pafnuce	Pafnucy	depr:pl:voc:m2	imię	
 Pafnucowie	Pafnucy	subst:pl:nom:m1	imię	
@@ -383,6 +395,7 @@ Paganinich	Paganini	subst:pl:loc:m1	nazwisko
 Paganiniego	Paganini	subst:sg:acc:m1	nazwisko	
 Paganiniego	Paganini	subst:sg:gen:m1	nazwisko	
 Paganiniemu	Paganini	subst:sg:dat:m1	nazwisko	
+Paganinie	Paganini	depr:pl:acc:m2	nazwisko	
 Paganinie	Paganini	depr:pl:nom:m2	nazwisko	
 Paganinie	Paganini	depr:pl:voc:m2	nazwisko	
 Paganinimi	Paganini	subst:pl:inst:m1	nazwisko	
@@ -470,6 +483,7 @@ Pająkami	Pająk	subst:pl:inst:m1	nazwisko
 Pająka	Pająk	subst:sg:acc:m1	nazwisko	
 Pająka	Pająk	subst:sg:gen:m1	nazwisko	
 Pająkiem	Pająk	subst:sg:inst:m1	nazwisko	
+Pająki	Pająk	depr:pl:acc:m2	nazwisko	
 Pająki	Pająk	depr:pl:nom:m2	nazwisko	
 Pająki	Pająk	depr:pl:voc:m2	nazwisko	
 Pająkom	Pająk	subst:pl:dat:m1	nazwisko	
@@ -516,6 +530,7 @@ Pakistańczykami	Pakistańczyk	subst:pl:inst:m1	nazwa pospolita
 Pakistańczyka	Pakistańczyk	subst:sg:acc:m1	nazwa pospolita	
 Pakistańczyka	Pakistańczyk	subst:sg:gen:m1	nazwa pospolita	
 Pakistańczykiem	Pakistańczyk	subst:sg:inst:m1	nazwa pospolita	
+Pakistańczyki	Pakistańczyk	depr:pl:acc:m2	nazwa pospolita	
 Pakistańczyki	Pakistańczyk	depr:pl:nom:m2	nazwa pospolita	
 Pakistańczyki	Pakistańczyk	depr:pl:voc:m2	nazwa pospolita	
 Pakistańczykom	Pakistańczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -541,6 +556,7 @@ Pakosławowi	Pakosław	subst:sg:dat:m1	imię
 Pakosławów	Pakosław	subst:pl:acc:m1	imię	
 Pakosławów	Pakosław	subst:pl:gen:m1	imię	
 Pakosław	Pakosław	subst:sg:nom:m1	imię	
+Pakosławy	Pakosław	depr:pl:acc:m2	imię	
 Pakosławy	Pakosław	depr:pl:nom:m2	imię	
 Pakosławy	Pakosław	depr:pl:voc:m2	imię	
 Pakosławicach	Pakosławice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -562,6 +578,7 @@ Pakoszami	Pakosz	subst:pl:inst:m1	imię
 Pakosza	Pakosz	subst:sg:acc:m1	imię	
 Pakosza	Pakosz	subst:sg:gen:m1	imię	
 Pakoszem	Pakosz	subst:sg:inst:m1	imię	
+Pakosze	Pakosz	depr:pl:acc:m2	imię	
 Pakosze	Pakosz	depr:pl:nom:m2	imię	
 Pakosze	Pakosz	depr:pl:voc:m2	imię	
 Pakosze	Pakosz	subst:pl:nom:m1	imię	
@@ -597,6 +614,7 @@ Pakulskich	Pakulski	subst:pl:loc:m1	nazwisko
 Pakulskiego	Pakulski	subst:sg:acc:m1	nazwisko	
 Pakulskiego	Pakulski	subst:sg:gen:m1	nazwisko	
 Pakulskiemu	Pakulski	subst:sg:dat:m1	nazwisko	
+Pakulskie	Pakulski	depr:pl:acc:m2	nazwisko	
 Pakulskie	Pakulski	depr:pl:nom:m2	nazwisko	
 Pakulskie	Pakulski	depr:pl:voc:m2	nazwisko	
 Pakulskimi	Pakulski	subst:pl:inst:m1	nazwisko	
@@ -618,6 +636,7 @@ Pakułowie	Pakuła	subst:pl:nom:m1	nazwisko
 Pakułowie	Pakuła	subst:pl:voc:m1	nazwisko	
 Pakułów	Pakuła	subst:pl:acc:m1	nazwisko	
 Pakułów	Pakuła	subst:pl:gen:m1	nazwisko	
+Pakuły	Pakuła	depr:pl:acc:m2	nazwisko	
 Pakuły	Pakuła	depr:pl:nom:m2	nazwisko	
 Pakuły	Pakuła	depr:pl:voc:m2	nazwisko	
 Pakuły	Pakuła	subst:sg:gen:m1	nazwisko	
@@ -666,6 +685,7 @@ Palecznym	Paleczna	subst:pl:dat:f	nazwisko
 Palecznego	Paleczny	subst:sg:acc:m1	nazwisko	
 Palecznego	Paleczny	subst:sg:gen:m1	nazwisko	
 Palecznemu	Paleczny	subst:sg:dat:m1	nazwisko	
+Paleczne	Paleczny	depr:pl:acc:m2	nazwisko	
 Paleczne	Paleczny	depr:pl:nom:m2	nazwisko	
 Paleczne	Paleczny	depr:pl:voc:m2	nazwisko	
 Paleczni	Paleczny	subst:pl:nom:m1	nazwisko	
@@ -728,6 +748,7 @@ Palestyńczykami	Palestyńczyk	subst:pl:inst:m1	nazwa pospolita
 Palestyńczyka	Palestyńczyk	subst:sg:acc:m1	nazwa pospolita	
 Palestyńczyka	Palestyńczyk	subst:sg:gen:m1	nazwa pospolita	
 Palestyńczykiem	Palestyńczyk	subst:sg:inst:m1	nazwa pospolita	
+Palestyńczyki	Palestyńczyk	depr:pl:acc:m2	nazwa pospolita	
 Palestyńczyki	Palestyńczyk	depr:pl:nom:m2	nazwa pospolita	
 Palestyńczyki	Palestyńczyk	depr:pl:voc:m2	nazwa pospolita	
 Palestyńczykom	Palestyńczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -751,6 +772,7 @@ Palikotowi	Palikot	subst:sg:dat:m1	nazwisko
 Palikotów	Palikot	subst:pl:acc:m1	nazwisko	
 Palikotów	Palikot	subst:pl:gen:m1	nazwisko	
 Palikot	Palikot	subst:sg:nom:m1	nazwisko	
+Palikoty	Palikot	depr:pl:acc:m2	nazwisko	
 Palikoty	Palikot	depr:pl:nom:m2	nazwisko	
 Palikoty	Palikot	depr:pl:voc:m2	nazwisko	
 Palladiach	Palladio	subst:pl:loc:m1	nazwisko	
@@ -758,6 +780,7 @@ Palladiami	Palladio	subst:pl:inst:m1	nazwisko
 Palladia	Palladio	subst:sg:acc:m1	nazwisko	
 Palladia	Palladio	subst:sg:gen:m1	nazwisko	
 Palladiem	Palladio	subst:sg:inst:m1	nazwisko	
+Palladie	Palladio	depr:pl:acc:m2	nazwisko	
 Palladie	Palladio	depr:pl:nom:m2	nazwisko	
 Palladie	Palladio	depr:pl:voc:m2	nazwisko	
 Palladiom	Palladio	subst:pl:dat:m1	nazwisko	
@@ -811,6 +834,7 @@ Pallasowi	Pallas:s2	subst:sg:dat:m1	imię	mit.
 Pallasów	Pallas:s2	subst:pl:acc:m1	imię	mit.
 Pallasów	Pallas:s2	subst:pl:gen:m1	imię	mit.
 Pallas	Pallas:s2	subst:sg:nom:m1	imię	mit.
+Pallasy	Pallas:s2	depr:pl:acc:m2	imię	mit.
 Pallasy	Pallas:s2	depr:pl:nom:m2	imię	mit.
 Pallasy	Pallas:s2	depr:pl:voc:m2	imię	mit.
 Palmach	Palma	subst:pl:loc:m1	nazwisko	
@@ -826,6 +850,7 @@ Palmowie	Palma	subst:pl:nom:m1	nazwisko
 Palmowie	Palma	subst:pl:voc:m1	nazwisko	
 Palmów	Palma	subst:pl:acc:m1	nazwisko	
 Palmów	Palma	subst:pl:gen:m1	nazwisko	
+Palmy	Palma	depr:pl:acc:m2	nazwisko	
 Palmy	Palma	depr:pl:nom:m2	nazwisko	
 Palmy	Palma	depr:pl:voc:m2	nazwisko	
 Palmy	Palma	subst:sg:gen:m1	nazwisko	
@@ -836,6 +861,7 @@ Palmego	Palme	subst:sg:gen:m1	nazwisko
 Palmem	Palme	subst:sg:inst:m1	nazwisko	
 Palmem	Palme	subst:sg:loc:m1	nazwisko	
 Palmemu	Palme	subst:sg:dat:m1	nazwisko	
+Palme	Palme	depr:pl:acc:m2	nazwisko	
 Palme	Palme	depr:pl:nom:m2	nazwisko	
 Palme	Palme	depr:pl:voc:m2	nazwisko	
 Palme	Palme	subst:sg:nom:m1	nazwisko	
@@ -873,6 +899,7 @@ Paluchów	Paluch	subst:pl:gen:m1	nazwisko
 Paluch	Paluch	subst:sg:nom:m1	nazwisko	
 Paluchu	Paluch	subst:sg:loc:m1	nazwisko	
 Paluchu	Paluch	subst:sg:voc:m1	nazwisko	
+Paluchy	Paluch	depr:pl:acc:m2	nazwisko	
 Paluchy	Paluch	depr:pl:nom:m2	nazwisko	
 Paluchy	Paluch	depr:pl:voc:m2	nazwisko	
 Pałce	Pałka	subst:sg:dat:m1	nazwisko	
@@ -882,6 +909,7 @@ Pałkami	Pałka	subst:pl:inst:m1	nazwisko
 Pałka	Pałka	subst:sg:nom:m1	nazwisko	
 Pałką	Pałka	subst:sg:inst:m1	nazwisko	
 Pałkę	Pałka	subst:sg:acc:m1	nazwisko	
+Pałki	Pałka	depr:pl:acc:m2	nazwisko	
 Pałki	Pałka	depr:pl:nom:m2	nazwisko	
 Pałki	Pałka	depr:pl:voc:m2	nazwisko	
 Pałki	Pałka	subst:sg:gen:m1	nazwisko	
@@ -962,6 +990,7 @@ Pamfiłowi	Pamfił	subst:sg:dat:m1	imię
 Pamfiłów	Pamfił	subst:pl:acc:m1	imię	
 Pamfiłów	Pamfił	subst:pl:gen:m1	imię	
 Pamfił	Pamfił	subst:sg:nom:m1	imię	
+Pamfiły	Pamfił	depr:pl:acc:m2	imię	
 Pamfiły	Pamfił	depr:pl:nom:m2	imię	
 Pamfiły	Pamfił	depr:pl:voc:m2	imię	
 Pamirach	Pamir	subst:pl:loc:m3	nazwa geograficzna	
@@ -992,6 +1021,7 @@ Panowi	Pan	subst:sg:dat:m1	imię	mit.
 Panów	Pan	subst:pl:acc:m1	imię	mit.
 Panów	Pan	subst:pl:gen:m1	imię	mit.
 Pan	Pan	subst:sg:nom:m1	imię	mit.
+Pany	Pan	depr:pl:acc:m2	imię	mit.
 Pany	Pan	depr:pl:nom:m2	imię	mit.
 Pany	Pan	depr:pl:voc:m2	imię	mit.
 PAN-ach	PAN	subst:pl:loc:m3	nazwa instytucji	
@@ -1103,6 +1133,7 @@ Pankami	Panek	subst:pl:inst:m1	imię|nazwisko
 Panka	Panek	subst:sg:acc:m1	imię|nazwisko	
 Panka	Panek	subst:sg:gen:m1	imię|nazwisko	
 Pankiem	Panek	subst:sg:inst:m1	imię|nazwisko	
+Panki	Panek	depr:pl:acc:m2	imię|nazwisko	
 Panki	Panek	depr:pl:nom:m2	imię|nazwisko	
 Panki	Panek	depr:pl:voc:m2	imię|nazwisko	
 Pankom	Panek	subst:pl:dat:m1	imię|nazwisko	
@@ -1132,6 +1163,7 @@ Pankiewiczami	Pankiewicz	subst:pl:inst:m1	nazwisko
 Pankiewicza	Pankiewicz	subst:sg:acc:m1	nazwisko	
 Pankiewicza	Pankiewicz	subst:sg:gen:m1	nazwisko	
 Pankiewiczem	Pankiewicz	subst:sg:inst:m1	nazwisko	
+Pankiewicze	Pankiewicz	depr:pl:acc:m2	nazwisko	
 Pankiewicze	Pankiewicz	depr:pl:nom:m2	nazwisko	
 Pankiewicze	Pankiewicz	depr:pl:voc:m2	nazwisko	
 Pankiewicze	Pankiewicz	subst:pl:nom:m1	nazwisko	
@@ -1167,6 +1199,7 @@ Pankowskich	Pankowski	subst:pl:loc:m1	nazwisko
 Pankowskiego	Pankowski	subst:sg:acc:m1	nazwisko	
 Pankowskiego	Pankowski	subst:sg:gen:m1	nazwisko	
 Pankowskiemu	Pankowski	subst:sg:dat:m1	nazwisko	
+Pankowskie	Pankowski	depr:pl:acc:m2	nazwisko	
 Pankowskie	Pankowski	depr:pl:nom:m2	nazwisko	
 Pankowskie	Pankowski	depr:pl:voc:m2	nazwisko	
 Pankowskimi	Pankowski	subst:pl:inst:m1	nazwisko	
@@ -1178,6 +1211,7 @@ Pankowski	Pankowski	subst:sg:voc:m1	nazwisko
 Pankracego	Pankracy	subst:sg:acc:m1	imię	
 Pankracego	Pankracy	subst:sg:gen:m1	imię	
 Pankracemu	Pankracy	subst:sg:dat:m1	imię	
+Pankrace	Pankracy	depr:pl:acc:m2	imię	
 Pankrace	Pankracy	depr:pl:nom:m2	imię	
 Pankrace	Pankracy	depr:pl:voc:m2	imię	
 Pankracowie	Pankracy	subst:pl:nom:m1	imię	
@@ -1196,6 +1230,7 @@ Pankracykami	Pankracyk	subst:pl:inst:m1	imię
 Pankracyka	Pankracyk	subst:sg:acc:m1	imię	
 Pankracyka	Pankracyk	subst:sg:gen:m1	imię	
 Pankracykiem	Pankracyk	subst:sg:inst:m1	imię	
+Pankracyki	Pankracyk	depr:pl:acc:m2	imię	
 Pankracyki	Pankracyk	depr:pl:nom:m2	imię	
 Pankracyki	Pankracyk	depr:pl:voc:m2	imię	
 Pankracykom	Pankracyk	subst:pl:dat:m1	imię	
@@ -1226,6 +1261,7 @@ Panofscy	Panofsky	subst:pl:voc:m1	nazwisko
 Panofskich	Panofsky	subst:pl:acc:m1	nazwisko	
 Panofskich	Panofsky	subst:pl:gen:m1	nazwisko	
 Panofskich	Panofsky	subst:pl:loc:m1	nazwisko	
+Panofskie	Panofsky	depr:pl:acc:m2	nazwisko	
 Panofskie	Panofsky	depr:pl:nom:m2	nazwisko	
 Panofskie	Panofsky	depr:pl:voc:m2	nazwisko	
 Panofskimi	Panofsky	subst:pl:inst:m1	nazwisko	
@@ -1283,6 +1319,7 @@ Pantagruelami	Pantagruel	subst:pl:inst:m1	imię
 Pantagruela	Pantagruel	subst:sg:acc:m1	imię	
 Pantagruela	Pantagruel	subst:sg:gen:m1	imię	
 Pantagruelem	Pantagruel	subst:sg:inst:m1	imię	
+Pantagruele	Pantagruel	depr:pl:acc:m2	imię	
 Pantagruele	Pantagruel	depr:pl:nom:m2	imię	
 Pantagruele	Pantagruel	depr:pl:voc:m2	imię	
 Pantagruelom	Pantagruel	subst:pl:dat:m1	imię	
@@ -1310,6 +1347,7 @@ Pantaleonowi	Pantaleon	subst:sg:dat:m1	imię
 Pantaleonów	Pantaleon	subst:pl:acc:m1	imię	
 Pantaleonów	Pantaleon	subst:pl:gen:m1	imię	
 Pantaleon	Pantaleon	subst:sg:nom:m1	imię	
+Pantaleony	Pantaleon	depr:pl:acc:m2	imię	
 Pantaleony	Pantaleon	depr:pl:nom:m2	imię	
 Pantaleony	Pantaleon	depr:pl:voc:m2	imię	
 Panufnikach	Panufnik	subst:pl:loc:m1	nazwisko	
@@ -1317,6 +1355,7 @@ Panufnikami	Panufnik	subst:pl:inst:m1	nazwisko
 Panufnika	Panufnik	subst:sg:acc:m1	nazwisko	
 Panufnika	Panufnik	subst:sg:gen:m1	nazwisko	
 Panufnikiem	Panufnik	subst:sg:inst:m1	nazwisko	
+Panufniki	Panufnik	depr:pl:acc:m2	nazwisko	
 Panufniki	Panufnik	depr:pl:nom:m2	nazwisko	
 Panufniki	Panufnik	depr:pl:voc:m2	nazwisko	
 Panufnikom	Panufnik	subst:pl:dat:m1	nazwisko	
@@ -1341,6 +1380,7 @@ Pańkowowie	Pańków	subst:pl:voc:m1	nazwisko
 Pańkowowi	Pańków	subst:sg:dat:m1	nazwisko	
 Pańkowów	Pańków	subst:pl:acc:m1	nazwisko	
 Pańkowów	Pańków	subst:pl:gen:m1	nazwisko	
+Pańkowy	Pańków	depr:pl:acc:m2	nazwisko	
 Pańkowy	Pańków	depr:pl:nom:m2	nazwisko	
 Pańkowy	Pańków	depr:pl:voc:m2	nazwisko	
 Pańków	Pańków	subst:sg:nom:m1	nazwisko	
@@ -1372,6 +1412,7 @@ PAP-u	PAP	subst:sg:gen:m3	nazwa firmy
 PAP-y	PAP	subst:pl:acc:m3	nazwa firmy	
 PAP-y	PAP	subst:pl:nom:m3	nazwa firmy	
 PAP-y	PAP	subst:pl:voc:m3	nazwa firmy	
+Papandreu	Papandreu	depr:pl:acc:m2	nazwisko	
 Papandreu	Papandreu	depr:pl:nom:m2	nazwisko	
 Papandreu	Papandreu	depr:pl:voc:m2	nazwisko	
 Papandreu	Papandreu	subst:pl:acc:m1	nazwisko	
@@ -1410,6 +1451,7 @@ Paplińskich	Papliński	subst:pl:loc:m1	nazwisko
 Paplińskiego	Papliński	subst:sg:acc:m1	nazwisko	
 Paplińskiego	Papliński	subst:sg:gen:m1	nazwisko	
 Paplińskiemu	Papliński	subst:sg:dat:m1	nazwisko	
+Paplińskie	Papliński	depr:pl:acc:m2	nazwisko	
 Paplińskie	Papliński	depr:pl:nom:m2	nazwisko	
 Paplińskie	Papliński	depr:pl:voc:m2	nazwisko	
 Paplińskimi	Papliński	subst:pl:inst:m1	nazwisko	
@@ -1482,6 +1524,7 @@ Paprockich	Paprocki	subst:pl:loc:m1	nazwisko
 Paprockiego	Paprocki	subst:sg:acc:m1	nazwisko	
 Paprockiego	Paprocki	subst:sg:gen:m1	nazwisko	
 Paprockiemu	Paprocki	subst:sg:dat:m1	nazwisko	
+Paprockie	Paprocki	depr:pl:acc:m2	nazwisko	
 Paprockie	Paprocki	depr:pl:nom:m2	nazwisko	
 Paprockie	Paprocki	depr:pl:voc:m2	nazwisko	
 Paprockimi	Paprocki	subst:pl:inst:m1	nazwisko	
@@ -1540,6 +1583,7 @@ Papuańczykami	Papuańczyk	subst:pl:inst:m1	nazwa pospolita
 Papuańczyka	Papuańczyk	subst:sg:acc:m1	nazwa pospolita	
 Papuańczyka	Papuańczyk	subst:sg:gen:m1	nazwa pospolita	
 Papuańczykiem	Papuańczyk	subst:sg:inst:m1	nazwa pospolita	
+Papuańczyki	Papuańczyk	depr:pl:acc:m2	nazwa pospolita	
 Papuańczyki	Papuańczyk	depr:pl:nom:m2	nazwa pospolita	
 Papuańczyki	Papuańczyk	depr:pl:voc:m2	nazwa pospolita	
 Papuańczykom	Papuańczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -1563,6 +1607,7 @@ Papuasowi	Papuas	subst:sg:dat:m1	nazwa pospolita
 Papuasów	Papuas	subst:pl:acc:m1	nazwa pospolita	
 Papuasów	Papuas	subst:pl:gen:m1	nazwa pospolita	
 Papuas	Papuas	subst:sg:nom:m1	nazwa pospolita	
+Papuasy	Papuas	depr:pl:acc:m2	nazwa pospolita	
 Papuasy	Papuas	depr:pl:nom:m2	nazwa pospolita	
 Papuasy	Papuas	depr:pl:voc:m2	nazwa pospolita	
 Paradowska	Paradowska	subst:sg:nom:f	nazwisko	
@@ -1587,6 +1632,7 @@ Paradowskich	Paradowski	subst:pl:loc:m1	nazwisko
 Paradowskiego	Paradowski	subst:sg:acc:m1	nazwisko	
 Paradowskiego	Paradowski	subst:sg:gen:m1	nazwisko	
 Paradowskiemu	Paradowski	subst:sg:dat:m1	nazwisko	
+Paradowskie	Paradowski	depr:pl:acc:m2	nazwisko	
 Paradowskie	Paradowski	depr:pl:nom:m2	nazwisko	
 Paradowskie	Paradowski	depr:pl:voc:m2	nazwisko	
 Paradowskimi	Paradowski	subst:pl:inst:m1	nazwisko	
@@ -1617,6 +1663,7 @@ Paragwajczykami	Paragwajczyk	subst:pl:inst:m1	nazwa pospolita
 Paragwajczyka	Paragwajczyk	subst:sg:acc:m1	nazwa pospolita	
 Paragwajczyka	Paragwajczyk	subst:sg:gen:m1	nazwa pospolita	
 Paragwajczykiem	Paragwajczyk	subst:sg:inst:m1	nazwa pospolita	
+Paragwajczyki	Paragwajczyk	depr:pl:acc:m2	nazwa pospolita	
 Paragwajczyki	Paragwajczyk	depr:pl:nom:m2	nazwa pospolita	
 Paragwajczyki	Paragwajczyk	depr:pl:voc:m2	nazwa pospolita	
 Paragwajczykom	Paragwajczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -1670,6 +1717,7 @@ Paramonowi	Paramon	subst:sg:dat:m1	imię
 Paramonów	Paramon	subst:pl:acc:m1	imię	
 Paramonów	Paramon	subst:pl:gen:m1	imię	
 Paramon	Paramon	subst:sg:nom:m1	imię	
+Paramony	Paramon	depr:pl:acc:m2	imię	
 Paramony	Paramon	depr:pl:nom:m2	imię	
 Paramony	Paramon	depr:pl:voc:m2	imię	
 Parandowska	Parandowska	subst:sg:nom:f	nazwisko	
@@ -1694,6 +1742,7 @@ Parandowskich	Parandowski	subst:pl:loc:m1	nazwisko
 Parandowskiego	Parandowski	subst:sg:acc:m1	nazwisko	
 Parandowskiego	Parandowski	subst:sg:gen:m1	nazwisko	
 Parandowskiemu	Parandowski	subst:sg:dat:m1	nazwisko	
+Parandowskie	Parandowski	depr:pl:acc:m2	nazwisko	
 Parandowskie	Parandowski	depr:pl:nom:m2	nazwisko	
 Parandowskie	Parandowski	depr:pl:voc:m2	nazwisko	
 Parandowskimi	Parandowski	subst:pl:inst:m1	nazwisko	
@@ -1761,6 +1810,7 @@ Parduowie	Pardua:s2	subst:pl:nom:m1	nazwisko
 Parduowie	Pardua:s2	subst:pl:voc:m1	nazwisko	
 Parduów	Pardua:s2	subst:pl:acc:m1	nazwisko	
 Parduów	Pardua:s2	subst:pl:gen:m1	nazwisko	
+Parduy	Pardua:s2	depr:pl:acc:m2	nazwisko	
 Parduy	Pardua:s2	depr:pl:nom:m2	nazwisko	
 Parduy	Pardua:s2	depr:pl:voc:m2	nazwisko	
 Parduy	Pardua:s2	subst:sg:gen:m1	nazwisko	
@@ -1806,6 +1856,7 @@ Parkinsonowi	Parkinson	subst:sg:dat:m1	nazwisko
 Parkinsonów	Parkinson	subst:pl:acc:m1	nazwisko	
 Parkinsonów	Parkinson	subst:pl:gen:m1	nazwisko	
 Parkinson	Parkinson	subst:sg:nom:m1	nazwisko	
+Parkinsony	Parkinson	depr:pl:acc:m2	nazwisko	
 Parkinsony	Parkinson	depr:pl:nom:m2	nazwisko	
 Parkinsony	Parkinson	depr:pl:voc:m2	nazwisko	
 Parkitna	Parkitna	subst:sg:nom:f	nazwisko	
@@ -1825,6 +1876,7 @@ Parkitnym	Parkitna	subst:pl:dat:f	nazwisko
 Parkitnego	Parkitny	subst:sg:acc:m1	nazwisko	
 Parkitnego	Parkitny	subst:sg:gen:m1	nazwisko	
 Parkitnemu	Parkitny	subst:sg:dat:m1	nazwisko	
+Parkitne	Parkitny	depr:pl:acc:m2	nazwisko	
 Parkitne	Parkitny	depr:pl:nom:m2	nazwisko	
 Parkitne	Parkitny	depr:pl:voc:m2	nazwisko	
 Parkitni	Parkitny	subst:pl:nom:m1	nazwisko	
@@ -1843,6 +1895,7 @@ Parkoszowicami	Parkoszowic	subst:pl:inst:m1	nazwisko
 Parkoszowica	Parkoszowic	subst:sg:acc:m1	nazwisko	
 Parkoszowica	Parkoszowic	subst:sg:gen:m1	nazwisko	
 Parkoszowicem	Parkoszowic	subst:sg:inst:m1	nazwisko	
+Parkoszowice	Parkoszowic	depr:pl:acc:m2	nazwisko	
 Parkoszowice	Parkoszowic	depr:pl:nom:m2	nazwisko	
 Parkoszowice	Parkoszowic	depr:pl:voc:m2	nazwisko	
 Parkoszowice	Parkoszowic	subst:pl:nom:m1	nazwisko	
@@ -1906,6 +1959,7 @@ Parnickich	Parnicki	subst:pl:loc:m1	nazwisko
 Parnickiego	Parnicki	subst:sg:acc:m1	nazwisko	
 Parnickiego	Parnicki	subst:sg:gen:m1	nazwisko	
 Parnickiemu	Parnicki	subst:sg:dat:m1	nazwisko	
+Parnickie	Parnicki	depr:pl:acc:m2	nazwisko	
 Parnickie	Parnicki	depr:pl:nom:m2	nazwisko	
 Parnickie	Parnicki	depr:pl:voc:m2	nazwisko	
 Parnickimi	Parnicki	subst:pl:inst:m1	nazwisko	
@@ -1919,6 +1973,7 @@ Parsifalami	Parsifal	subst:pl:inst:m1	imię
 Parsifala	Parsifal	subst:sg:acc:m1	imię	
 Parsifala	Parsifal	subst:sg:gen:m1	imię	
 Parsifalem	Parsifal	subst:sg:inst:m1	imię	
+Parsifale	Parsifal	depr:pl:acc:m2	imię	
 Parsifale	Parsifal	depr:pl:nom:m2	imię	
 Parsifale	Parsifal	depr:pl:voc:m2	imię	
 Parsifale	Parsifal	subst:pl:nom:m1	imię	
@@ -1968,6 +2023,7 @@ Partykami	Partyka	subst:pl:inst:m1	nazwisko
 Partyka	Partyka	subst:sg:nom:m1	nazwisko	
 Partyką	Partyka	subst:sg:inst:m1	nazwisko	
 Partykę	Partyka	subst:sg:acc:m1	nazwisko	
+Partyki	Partyka	depr:pl:acc:m2	nazwisko	
 Partyki	Partyka	depr:pl:nom:m2	nazwisko	
 Partyki	Partyka	depr:pl:voc:m2	nazwisko	
 Partyki	Partyka	subst:sg:gen:m1	nazwisko	
@@ -1993,6 +2049,7 @@ Parysowi	Parys	subst:sg:dat:m1	imię
 Parysów	Parys	subst:pl:acc:m1	imię	
 Parysów	Parys	subst:pl:gen:m1	imię	
 Parys	Parys	subst:sg:nom:m1	imię	
+Parysy	Parys	depr:pl:acc:m2	imię	
 Parysy	Parys	depr:pl:nom:m2	imię	
 Parysy	Parys	depr:pl:voc:m2	imię	
 Parysowach	Parysów	subst:pl:loc:m3	nazwa geograficzna	
@@ -2029,6 +2086,7 @@ Pascalami	Pascal	subst:pl:inst:m1	nazwisko
 Pascala	Pascal	subst:sg:acc:m1	nazwisko	
 Pascala	Pascal	subst:sg:gen:m1	nazwisko	
 Pascalem	Pascal	subst:sg:inst:m1	nazwisko	
+Pascale	Pascal	depr:pl:acc:m2	nazwisko	
 Pascale	Pascal	depr:pl:nom:m2	nazwisko	
 Pascale	Pascal	depr:pl:voc:m2	nazwisko	
 Pascale	Pascal	subst:pl:nom:m1	nazwisko	
@@ -2072,6 +2130,7 @@ Paschalisowi	Paschalis	subst:sg:dat:m1	imię
 Paschalisów	Paschalis	subst:pl:acc:m1	imię	
 Paschalisów	Paschalis	subst:pl:gen:m1	imię	
 Paschalis	Paschalis	subst:sg:nom:m1	imię	
+Paschalisy	Paschalis	depr:pl:acc:m2	imię	
 Paschalisy	Paschalis	depr:pl:nom:m2	imię	
 Paschalisy	Paschalis	depr:pl:voc:m2	imię	
 Pasłękach	Pasłęk	subst:pl:loc:m3	nazwa geograficzna	
@@ -2108,6 +2167,7 @@ Pasolinich	Pasolini	subst:pl:loc:m1	nazwisko
 Pasoliniego	Pasolini	subst:sg:acc:m1	nazwisko	
 Pasoliniego	Pasolini	subst:sg:gen:m1	nazwisko	
 Pasoliniemu	Pasolini	subst:sg:dat:m1	nazwisko	
+Pasolinie	Pasolini	depr:pl:acc:m2	nazwisko	
 Pasolinie	Pasolini	depr:pl:nom:m2	nazwisko	
 Pasolinie	Pasolini	depr:pl:voc:m2	nazwisko	
 Pasolinimi	Pasolini	subst:pl:inst:m1	nazwisko	
@@ -2132,6 +2192,7 @@ Passendorferowi	Passendorfer	subst:sg:dat:m1	nazwisko
 Passendorferów	Passendorfer	subst:pl:acc:m1	nazwisko	
 Passendorferów	Passendorfer	subst:pl:gen:m1	nazwisko	
 Passendorfer	Passendorfer	subst:sg:nom:m1	nazwisko	
+Passendorfery	Passendorfer	depr:pl:acc:m2	nazwisko	
 Passendorfery	Passendorfer	depr:pl:nom:m2	nazwisko	
 Passendorfery	Passendorfer	depr:pl:voc:m2	nazwisko	
 Passendorferze	Passendorfer	subst:sg:loc:m1	nazwisko	
@@ -2150,6 +2211,7 @@ Passentowi	Passent	subst:sg:dat:m1	nazwisko
 Passentów	Passent	subst:pl:acc:m1	nazwisko	
 Passentów	Passent	subst:pl:gen:m1	nazwisko	
 Passent	Passent	subst:sg:nom:m1	nazwisko	
+Passenty	Passent	depr:pl:acc:m2	nazwisko	
 Passenty	Passent	depr:pl:nom:m2	nazwisko	
 Passenty	Passent	depr:pl:voc:m2	nazwisko	
 Passosach	Passos	subst:pl:loc:m1	nazwisko	
@@ -2166,6 +2228,7 @@ Passosowi	Passos	subst:sg:dat:m1	nazwisko
 Passosów	Passos	subst:pl:acc:m1	nazwisko	
 Passosów	Passos	subst:pl:gen:m1	nazwisko	
 Passos	Passos	subst:sg:nom:m1	nazwisko	
+Passosy	Passos	depr:pl:acc:m2	nazwisko	
 Passosy	Passos	depr:pl:nom:m2	nazwisko	
 Passosy	Passos	depr:pl:voc:m2	nazwisko	
 Pasternakach	Pasternak	subst:pl:loc:m1	nazwisko	
@@ -2173,6 +2236,7 @@ Pasternakami	Pasternak	subst:pl:inst:m1	nazwisko
 Pasternaka	Pasternak	subst:sg:acc:m1	nazwisko	
 Pasternaka	Pasternak	subst:sg:gen:m1	nazwisko	
 Pasternakiem	Pasternak	subst:sg:inst:m1	nazwisko	
+Pasternaki	Pasternak	depr:pl:acc:m2	nazwisko	
 Pasternaki	Pasternak	depr:pl:nom:m2	nazwisko	
 Pasternaki	Pasternak	depr:pl:voc:m2	nazwisko	
 Pasternakom	Pasternak	subst:pl:dat:m1	nazwisko	
@@ -2196,6 +2260,7 @@ Pasteurowi	Pasteur	subst:sg:dat:m1	nazwisko
 Pasteurów	Pasteur	subst:pl:acc:m1	nazwisko	
 Pasteurów	Pasteur	subst:pl:gen:m1	nazwisko	
 Pasteur	Pasteur	subst:sg:nom:m1	nazwisko	
+Pasteury	Pasteur	depr:pl:acc:m2	nazwisko	
 Pasteury	Pasteur	depr:pl:nom:m2	nazwisko	
 Pasteury	Pasteur	depr:pl:voc:m2	nazwisko	
 Pasteurze	Pasteur	subst:sg:loc:m1	nazwisko	
@@ -2222,6 +2287,7 @@ Paszkego	Paszke	subst:sg:gen:m1	nazwisko
 Paszkem	Paszke	subst:sg:inst:m1	nazwisko	
 Paszkem	Paszke	subst:sg:loc:m1	nazwisko	
 Paszkemu	Paszke	subst:sg:dat:m1	nazwisko	
+Paszke	Paszke	depr:pl:acc:m2	nazwisko	
 Paszke	Paszke	depr:pl:nom:m2	nazwisko	
 Paszke	Paszke	depr:pl:voc:m2	nazwisko	
 Paszke	Paszke	subst:sg:nom:m1	nazwisko	
@@ -2236,6 +2302,7 @@ Paszkiewiczami	Paszkiewicz	subst:pl:inst:m1	nazwisko
 Paszkiewicza	Paszkiewicz	subst:sg:acc:m1	nazwisko	
 Paszkiewicza	Paszkiewicz	subst:sg:gen:m1	nazwisko	
 Paszkiewiczem	Paszkiewicz	subst:sg:inst:m1	nazwisko	
+Paszkiewicze	Paszkiewicz	depr:pl:acc:m2	nazwisko	
 Paszkiewicze	Paszkiewicz	depr:pl:nom:m2	nazwisko	
 Paszkiewicze	Paszkiewicz	depr:pl:voc:m2	nazwisko	
 Paszkiewicze	Paszkiewicz	subst:pl:nom:m1	nazwisko	
@@ -2271,6 +2338,7 @@ Paszkowskich	Paszkowski	subst:pl:loc:m1	nazwisko
 Paszkowskiego	Paszkowski	subst:sg:acc:m1	nazwisko	
 Paszkowskiego	Paszkowski	subst:sg:gen:m1	nazwisko	
 Paszkowskiemu	Paszkowski	subst:sg:dat:m1	nazwisko	
+Paszkowskie	Paszkowski	depr:pl:acc:m2	nazwisko	
 Paszkowskie	Paszkowski	depr:pl:nom:m2	nazwisko	
 Paszkowskie	Paszkowski	depr:pl:voc:m2	nazwisko	
 Paszkowskimi	Paszkowski	subst:pl:inst:m1	nazwisko	
@@ -2321,6 +2389,7 @@ Pasztunowi	Pasztun	subst:sg:dat:m1	nazwa pospolita
 Pasztunów	Pasztun	subst:pl:acc:m1	nazwa pospolita	
 Pasztunów	Pasztun	subst:pl:gen:m1	nazwa pospolita	
 Pasztun	Pasztun	subst:sg:nom:m1	nazwa pospolita	
+Pasztuny	Pasztun	depr:pl:acc:m2	nazwa pospolita	
 Pasztuny	Pasztun	depr:pl:nom:m2	nazwa pospolita	
 Pasztuny	Pasztun	depr:pl:voc:m2	nazwa pospolita	
 Pasztunce	Pasztunka	subst:sg:dat:f	nazwa pospolita	
@@ -2387,6 +2456,7 @@ Patrickami	Patrick	subst:pl:inst:m1	imię
 Patricka	Patrick	subst:sg:acc:m1	imię	
 Patricka	Patrick	subst:sg:gen:m1	imię	
 Patrickiem	Patrick	subst:sg:inst:m1	imię	
+Patricki	Patrick	depr:pl:acc:m2	imię	
 Patricki	Patrick	depr:pl:nom:m2	imię	
 Patricki	Patrick	depr:pl:voc:m2	imię	
 Patrickom	Patrick	subst:pl:dat:m1	imię	
@@ -2418,6 +2488,7 @@ Patrycjuszami	Patrycjusz	subst:pl:inst:m1	imię
 Patrycjusza	Patrycjusz	subst:sg:acc:m1	imię	
 Patrycjusza	Patrycjusz	subst:sg:gen:m1	imię	
 Patrycjuszem	Patrycjusz	subst:sg:inst:m1	imię	
+Patrycjusze	Patrycjusz	depr:pl:acc:m2	imię	
 Patrycjusze	Patrycjusz	depr:pl:nom:m2	imię	
 Patrycjusze	Patrycjusz	depr:pl:voc:m2	imię	
 Patrycjusze	Patrycjusz	subst:pl:nom:m1	imię	
@@ -2436,6 +2507,7 @@ Patrycjuszy	Patrycjusz	subst:pl:gen:m1	imię
 Patrycego	Patrycy	subst:sg:acc:m1	imię	
 Patrycego	Patrycy	subst:sg:gen:m1	imię	
 Patrycemu	Patrycy	subst:sg:dat:m1	imię	
+Patryce	Patrycy	depr:pl:acc:m2	imię	
 Patryce	Patrycy	depr:pl:nom:m2	imię	
 Patryce	Patrycy	depr:pl:voc:m2	imię	
 Patrycowie	Patrycy	subst:pl:nom:m1	imię	
@@ -2454,6 +2526,7 @@ Patrykami	Patryk	subst:pl:inst:m1	imię
 Patryka	Patryk	subst:sg:acc:m1	imię	
 Patryka	Patryk	subst:sg:gen:m1	imię	
 Patrykiem	Patryk	subst:sg:inst:m1	imię	
+Patryki	Patryk	depr:pl:acc:m2	imię	
 Patryki	Patryk	depr:pl:nom:m2	imię	
 Patryki	Patryk	depr:pl:voc:m2	imię	
 Patrykom	Patryk	subst:pl:dat:m1	imię	
@@ -2498,6 +2571,7 @@ Paulami	Paul	subst:pl:inst:m1	imię
 Paula	Paul	subst:sg:acc:m1	imię	
 Paula	Paul	subst:sg:gen:m1	imię	
 Paulem	Paul	subst:sg:inst:m1	imię	
+Paule	Paul	depr:pl:acc:m2	imię	
 Paule	Paul	depr:pl:nom:m2	imię	
 Paule	Paul	depr:pl:voc:m2	imię	
 Paule	Paul	subst:pl:nom:m1	imię	
@@ -2542,6 +2616,7 @@ Paulinowi	Paulin	subst:sg:dat:m1	imię
 Paulinów	Paulin	subst:pl:acc:m1	imię	
 Paulinów	Paulin	subst:pl:gen:m1	imię	
 Paulin	Paulin	subst:sg:nom:m1	imię	
+Pauliny	Paulin	depr:pl:acc:m2	imię	
 Pauliny	Paulin	depr:pl:nom:m2	imię	
 Pauliny	Paulin	depr:pl:voc:m2	imię	
 Paulinach	Paulina	subst:pl:loc:f	imię	
@@ -2589,6 +2664,7 @@ Paulusowi	Paulus	subst:sg:dat:m1	imię
 Paulusów	Paulus	subst:pl:acc:m1	imię	
 Paulusów	Paulus	subst:pl:gen:m1	imię	
 Paulus	Paulus	subst:sg:nom:m1	imię	
+Paulusy	Paulus	depr:pl:acc:m2	imię	
 Paulusy	Paulus	depr:pl:nom:m2	imię	
 Paulusy	Paulus	depr:pl:voc:m2	imię	
 Pauszerach	Pauszer	subst:pl:loc:m1	nazwisko	
@@ -2603,6 +2679,7 @@ Pauszerowi	Pauszer	subst:sg:dat:m1	nazwisko
 Pauszerów	Pauszer	subst:pl:acc:m1	nazwisko	
 Pauszerów	Pauszer	subst:pl:gen:m1	nazwisko	
 Pauszer	Pauszer	subst:sg:nom:m1	nazwisko	
+Pauszery	Pauszer	depr:pl:acc:m2	nazwisko	
 Pauszery	Pauszer	depr:pl:nom:m2	nazwisko	
 Pauszery	Pauszer	depr:pl:voc:m2	nazwisko	
 Pauszerze	Pauszer	subst:sg:loc:m1	nazwisko	
@@ -2613,6 +2690,7 @@ Pavarottich	Pavarotti	subst:pl:loc:m1	nazwisko
 Pavarottiego	Pavarotti	subst:sg:acc:m1	nazwisko	
 Pavarottiego	Pavarotti	subst:sg:gen:m1	nazwisko	
 Pavarottiemu	Pavarotti	subst:sg:dat:m1	nazwisko	
+Pavarottie	Pavarotti	depr:pl:acc:m2	nazwisko	
 Pavarottie	Pavarotti	depr:pl:nom:m2	nazwisko	
 Pavarottie	Pavarotti	depr:pl:voc:m2	nazwisko	
 Pavarottimi	Pavarotti	subst:pl:inst:m1	nazwisko	
@@ -2639,6 +2717,7 @@ Pawowi	Paw	subst:sg:dat:m1	nazwisko
 Pawów	Paw	subst:pl:acc:m1	nazwisko	
 Pawów	Paw	subst:pl:gen:m1	nazwisko	
 Paw	Paw	subst:sg:nom:m1	nazwisko	
+Pawy	Paw	depr:pl:acc:m2	nazwisko	
 Pawy	Paw	depr:pl:nom:m2	nazwisko	
 Pawy	Paw	depr:pl:voc:m2	nazwisko	
 Pawelcach	Pawelec	subst:pl:loc:m1	nazwisko	
@@ -2646,6 +2725,7 @@ Pawelcami	Pawelec	subst:pl:inst:m1	nazwisko
 Pawelca	Pawelec	subst:sg:acc:m1	nazwisko	
 Pawelca	Pawelec	subst:sg:gen:m1	nazwisko	
 Pawelcem	Pawelec	subst:sg:inst:m1	nazwisko	
+Pawelce	Pawelec	depr:pl:acc:m2	nazwisko	
 Pawelce	Pawelec	depr:pl:nom:m2	nazwisko	
 Pawelce	Pawelec	depr:pl:voc:m2	nazwisko	
 Pawelcom	Pawelec	subst:pl:dat:m1	nazwisko	
@@ -2679,6 +2759,7 @@ Pawelskich	Pawelski	subst:pl:loc:m1	nazwisko
 Pawelskiego	Pawelski	subst:sg:acc:m1	nazwisko	
 Pawelskiego	Pawelski	subst:sg:gen:m1	nazwisko	
 Pawelskiemu	Pawelski	subst:sg:dat:m1	nazwisko	
+Pawelskie	Pawelski	depr:pl:acc:m2	nazwisko	
 Pawelskie	Pawelski	depr:pl:nom:m2	nazwisko	
 Pawelskie	Pawelski	depr:pl:voc:m2	nazwisko	
 Pawelskimi	Pawelski	subst:pl:inst:m1	nazwisko	
@@ -2701,6 +2782,7 @@ Pawłowie	Paweł	subst:pl:voc:m1	imię
 Pawłowi	Paweł	subst:sg:dat:m1	imię	
 Pawłów	Paweł	subst:pl:acc:m1	imię	
 Pawłów	Paweł	subst:pl:gen:m1	imię	
+Pawły	Paweł	depr:pl:acc:m2	imię	
 Pawły	Paweł	depr:pl:nom:m2	imię	
 Pawły	Paweł	depr:pl:voc:m2	imię	
 Pawełek	Pawełek	subst:sg:nom:m1	imię	
@@ -2709,6 +2791,7 @@ Pawełkami	Pawełek	subst:pl:inst:m1	imię
 Pawełka	Pawełek	subst:sg:acc:m1	imię	
 Pawełka	Pawełek	subst:sg:gen:m1	imię	
 Pawełkiem	Pawełek	subst:sg:inst:m1	imię	
+Pawełki	Pawełek	depr:pl:acc:m2	imię	
 Pawełki	Pawełek	depr:pl:nom:m2	imię	
 Pawełki	Pawełek	depr:pl:voc:m2	imię	
 Pawełkom	Pawełek	subst:pl:dat:m1	imię	
@@ -2753,6 +2836,7 @@ Pawlakami	Pawlak	subst:pl:inst:m1	nazwisko
 Pawlaka	Pawlak	subst:sg:acc:m1	nazwisko	
 Pawlaka	Pawlak	subst:sg:gen:m1	nazwisko	
 Pawlakiem	Pawlak	subst:sg:inst:m1	nazwisko	
+Pawlaki	Pawlak	depr:pl:acc:m2	nazwisko	
 Pawlaki	Pawlak	depr:pl:nom:m2	nazwisko	
 Pawlaki	Pawlak	depr:pl:voc:m2	nazwisko	
 Pawlakom	Pawlak	subst:pl:dat:m1	nazwisko	
@@ -2786,6 +2870,7 @@ Pawlickich	Pawlicki	subst:pl:loc:m1	nazwisko
 Pawlickiego	Pawlicki	subst:sg:acc:m1	nazwisko	
 Pawlickiego	Pawlicki	subst:sg:gen:m1	nazwisko	
 Pawlickiemu	Pawlicki	subst:sg:dat:m1	nazwisko	
+Pawlickie	Pawlicki	depr:pl:acc:m2	nazwisko	
 Pawlickie	Pawlicki	depr:pl:nom:m2	nazwisko	
 Pawlickie	Pawlicki	depr:pl:voc:m2	nazwisko	
 Pawlickimi	Pawlicki	subst:pl:inst:m1	nazwisko	
@@ -2799,6 +2884,7 @@ Pawlikami	Pawlik	subst:pl:inst:m1	imię|nazwisko
 Pawlika	Pawlik	subst:sg:acc:m1	imię|nazwisko	
 Pawlika	Pawlik	subst:sg:gen:m1	imię|nazwisko	
 Pawlikiem	Pawlik	subst:sg:inst:m1	imię|nazwisko	
+Pawliki	Pawlik	depr:pl:acc:m2	imię|nazwisko	
 Pawliki	Pawlik	depr:pl:nom:m2	imię|nazwisko	
 Pawliki	Pawlik	depr:pl:voc:m2	imię|nazwisko	
 Pawlikom	Pawlik	subst:pl:dat:m1	imię|nazwisko	
@@ -2832,6 +2918,7 @@ Pawlikowskich	Pawlikowski	subst:pl:loc:m1	nazwisko
 Pawlikowskiego	Pawlikowski	subst:sg:acc:m1	nazwisko	
 Pawlikowskiego	Pawlikowski	subst:sg:gen:m1	nazwisko	
 Pawlikowskiemu	Pawlikowski	subst:sg:dat:m1	nazwisko	
+Pawlikowskie	Pawlikowski	depr:pl:acc:m2	nazwisko	
 Pawlikowskie	Pawlikowski	depr:pl:nom:m2	nazwisko	
 Pawlikowskie	Pawlikowski	depr:pl:voc:m2	nazwisko	
 Pawlikowskimi	Pawlikowski	subst:pl:inst:m1	nazwisko	
@@ -2847,6 +2934,7 @@ Pawliszczego	Pawliszcze	subst:sg:gen:m1	nazwisko
 Pawliszczem	Pawliszcze	subst:sg:inst:m1	nazwisko	
 Pawliszczem	Pawliszcze	subst:sg:loc:m1	nazwisko	
 Pawliszczemu	Pawliszcze	subst:sg:dat:m1	nazwisko	
+Pawliszcze	Pawliszcze	depr:pl:acc:m2	nazwisko	
 Pawliszcze	Pawliszcze	depr:pl:nom:m2	nazwisko	
 Pawliszcze	Pawliszcze	depr:pl:voc:m2	nazwisko	
 Pawliszcze	Pawliszcze	subst:sg:nom:m1	nazwisko	
@@ -2861,6 +2949,7 @@ Pawlusiami	Pawluś	subst:pl:inst:m1	imię
 Pawlusia	Pawluś	subst:sg:acc:m1	imię	
 Pawlusia	Pawluś	subst:sg:gen:m1	imię	
 Pawlusiem	Pawluś	subst:sg:inst:m1	imię	
+Pawlusie	Pawluś	depr:pl:acc:m2	imię	
 Pawlusie	Pawluś	depr:pl:nom:m2	imię	
 Pawlusie	Pawluś	depr:pl:voc:m2	imię	
 Pawlusie	Pawluś	subst:pl:nom:m1	imię	
@@ -2917,6 +3006,7 @@ Pawłowowi	Pawłow	subst:sg:dat:m1	nazwisko
 Pawłowów	Pawłow	subst:pl:acc:m1	nazwisko	
 Pawłowów	Pawłow	subst:pl:gen:m1	nazwisko	
 Pawłow	Pawłow	subst:sg:nom:m1	nazwisko	
+Pawłowy	Pawłow	depr:pl:acc:m2	nazwisko	
 Pawłowy	Pawłow	depr:pl:nom:m2	nazwisko	
 Pawłowy	Pawłow	depr:pl:voc:m2	nazwisko	
 Pawłowicach	Pawłowice	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -2955,6 +3045,7 @@ Pawłowskich	Pawłowski	subst:pl:loc:m1	nazwisko
 Pawłowskiego	Pawłowski	subst:sg:acc:m1	nazwisko	
 Pawłowskiego	Pawłowski	subst:sg:gen:m1	nazwisko	
 Pawłowskiemu	Pawłowski	subst:sg:dat:m1	nazwisko	
+Pawłowskie	Pawłowski	depr:pl:acc:m2	nazwisko	
 Pawłowskie	Pawłowski	depr:pl:nom:m2	nazwisko	
 Pawłowskie	Pawłowski	depr:pl:voc:m2	nazwisko	
 Pawłowskimi	Pawłowski	subst:pl:inst:m1	nazwisko	
@@ -3059,6 +3150,7 @@ Pazdurowi	Pazdur	subst:sg:dat:m1	nazwisko
 Pazdurów	Pazdur	subst:pl:acc:m1	nazwisko	
 Pazdurów	Pazdur	subst:pl:gen:m1	nazwisko	
 Pazdur	Pazdur	subst:sg:nom:m1	nazwisko	
+Pazdury	Pazdur	depr:pl:acc:m2	nazwisko	
 Pazdury	Pazdur	depr:pl:nom:m2	nazwisko	
 Pazdury	Pazdur	depr:pl:voc:m2	nazwisko	
 Pazdurze	Pazdur	subst:sg:loc:m1	nazwisko	
@@ -3068,6 +3160,7 @@ Paziami	Pazio	subst:pl:inst:m1	nazwisko
 Pazia	Pazio	subst:sg:acc:m1	nazwisko	
 Pazia	Pazio	subst:sg:gen:m1	nazwisko	
 Paziem	Pazio	subst:sg:inst:m1	nazwisko	
+Pazie	Pazio	depr:pl:acc:m2	nazwisko	
 Pazie	Pazio	depr:pl:nom:m2	nazwisko	
 Pazie	Pazio	depr:pl:voc:m2	nazwisko	
 Paziom	Pazio	subst:pl:dat:m1	nazwisko	
@@ -3090,6 +3183,7 @@ Pazurowie	Pazura	subst:pl:nom:m1	nazwisko
 Pazurowie	Pazura	subst:pl:voc:m1	nazwisko	
 Pazurów	Pazura	subst:pl:acc:m1	nazwisko	
 Pazurów	Pazura	subst:pl:gen:m1	nazwisko	
+Pazury	Pazura	depr:pl:acc:m2	nazwisko	
 Pazury	Pazura	depr:pl:nom:m2	nazwisko	
 Pazury	Pazura	depr:pl:voc:m2	nazwisko	
 Pazury	Pazura	subst:sg:gen:m1	nazwisko	
@@ -3494,6 +3588,7 @@ Peckami	Peck	subst:pl:inst:m1	nazwisko
 Pecka	Peck	subst:sg:acc:m1	nazwisko	
 Pecka	Peck	subst:sg:gen:m1	nazwisko	
 Peckiem	Peck	subst:sg:inst:m1	nazwisko	
+Pecki	Peck	depr:pl:acc:m2	nazwisko	
 Pecki	Peck	depr:pl:nom:m2	nazwisko	
 Pecki	Peck	depr:pl:voc:m2	nazwisko	
 Peckom	Peck	subst:pl:dat:m1	nazwisko	
@@ -3519,6 +3614,7 @@ Pecz	Pecz	subst:sg:nom:m3	nazwa geograficzna
 Peczu	Pecz	subst:sg:gen:m3	nazwa geograficzna	
 Peczu	Pecz	subst:sg:loc:m3	nazwa geograficzna	
 Peczu	Pecz	subst:sg:voc:m3	nazwa geograficzna	
+Pedro	Pedro	depr:pl:acc:m2	imię	
 Pedro	Pedro	depr:pl:nom:m2	imię	
 Pedro	Pedro	depr:pl:voc:m2	imię	
 Pedro	Pedro	subst:pl:acc:m1	imię	
@@ -3570,6 +3666,7 @@ Peguych	Peguy	subst:pl:loc:m1	nazwisko
 Peguy’ego	Peguy	subst:sg:acc:m1	nazwisko	
 Peguy’ego	Peguy	subst:sg:gen:m1	nazwisko	
 Peguy’emu	Peguy	subst:sg:dat:m1	nazwisko	
+Peguy’e	Peguy	depr:pl:acc:m2	nazwisko	
 Peguy’e	Peguy	depr:pl:nom:m2	nazwisko	
 Peguy’e	Peguy	depr:pl:voc:m2	nazwisko	
 Peguymi	Peguy	subst:pl:inst:m1	nazwisko	
@@ -3684,6 +3781,7 @@ Pelagiuszami	Pelagiusz	subst:pl:inst:m1	imię
 Pelagiusza	Pelagiusz	subst:sg:acc:m1	imię	
 Pelagiusza	Pelagiusz	subst:sg:gen:m1	imię	
 Pelagiuszem	Pelagiusz	subst:sg:inst:m1	imię	
+Pelagiusze	Pelagiusz	depr:pl:acc:m2	imię	
 Pelagiusze	Pelagiusz	depr:pl:nom:m2	imię	
 Pelagiusze	Pelagiusz	depr:pl:voc:m2	imię	
 Pelagiusze	Pelagiusz	subst:pl:nom:m1	imię	
@@ -3728,6 +3826,7 @@ Pelikanowi	Pelikan	subst:sg:dat:m1	imię
 Pelikanów	Pelikan	subst:pl:acc:m1	imię	
 Pelikanów	Pelikan	subst:pl:gen:m1	imię	
 Pelikan	Pelikan	subst:sg:nom:m1	imię	
+Pelikany	Pelikan	depr:pl:acc:m2	imię	
 Pelikany	Pelikan	depr:pl:nom:m2	imię	
 Pelikany	Pelikan	depr:pl:voc:m2	imię	
 Pelplinach	Pelplin	subst:pl:loc:m3	nazwa geograficzna	
@@ -3792,6 +3891,7 @@ Pełechaci	Pełechaty	subst:pl:voc:m1	nazwisko
 Pełechatego	Pełechaty	subst:sg:acc:m1	nazwisko	
 Pełechatego	Pełechaty	subst:sg:gen:m1	nazwisko	
 Pełechatemu	Pełechaty	subst:sg:dat:m1	nazwisko	
+Pełechate	Pełechaty	depr:pl:acc:m2	nazwisko	
 Pełechate	Pełechaty	depr:pl:nom:m2	nazwisko	
 Pełechate	Pełechaty	depr:pl:voc:m2	nazwisko	
 Pełechatych	Pełechaty	subst:pl:acc:m1	nazwisko	
@@ -3817,6 +3917,7 @@ Penowi	Pen	subst:sg:dat:m1	nazwisko
 Penów	Pen	subst:pl:acc:m1	nazwisko	
 Penów	Pen	subst:pl:gen:m1	nazwisko	
 Pen	Pen	subst:sg:nom:m1	nazwisko	
+Peny	Pen	depr:pl:acc:m2	nazwisko	
 Peny	Pen	depr:pl:nom:m2	nazwisko	
 Peny	Pen	depr:pl:voc:m2	nazwisko	
 PEN	PEN	subst:pl:acc:m3	nazwa organizacji	
@@ -3897,6 +3998,7 @@ Pendereckich	Penderecki	subst:pl:loc:m1	nazwisko
 Pendereckiego	Penderecki	subst:sg:acc:m1	nazwisko	
 Pendereckiego	Penderecki	subst:sg:gen:m1	nazwisko	
 Pendereckiemu	Penderecki	subst:sg:dat:m1	nazwisko	
+Pendereckie	Penderecki	depr:pl:acc:m2	nazwisko	
 Pendereckie	Penderecki	depr:pl:nom:m2	nazwisko	
 Pendereckie	Penderecki	depr:pl:voc:m2	nazwisko	
 Pendereckimi	Penderecki	subst:pl:inst:m1	nazwisko	
@@ -4024,6 +4126,7 @@ Perecami	Perec	subst:pl:inst:m1	nazwisko
 Pereca	Perec	subst:sg:acc:m1	nazwisko	
 Pereca	Perec	subst:sg:gen:m1	nazwisko	
 Perecem	Perec	subst:sg:inst:m1	nazwisko	
+Perece	Perec	depr:pl:acc:m2	nazwisko	
 Perece	Perec	depr:pl:nom:m2	nazwisko	
 Perece	Perec	depr:pl:voc:m2	nazwisko	
 Perece	Perec	subst:pl:nom:m1	nazwisko	
@@ -4065,6 +4168,7 @@ Peresowi	Peres	subst:sg:dat:m1	nazwisko
 Peresów	Peres	subst:pl:acc:m1	nazwisko	
 Peresów	Peres	subst:pl:gen:m1	nazwisko	
 Peres	Peres	subst:sg:nom:m1	nazwisko	
+Peresy	Peres	depr:pl:acc:m2	nazwisko	
 Peresy	Peres	depr:pl:nom:m2	nazwisko	
 Peresy	Peres	depr:pl:voc:m2	nazwisko	
 Perezach	Perez	subst:pl:loc:m1	nazwisko	
@@ -4081,6 +4185,7 @@ Perezowi	Perez	subst:sg:dat:m1	nazwisko
 Perezów	Perez	subst:pl:acc:m1	nazwisko	
 Perezów	Perez	subst:pl:gen:m1	nazwisko	
 Perez	Perez	subst:sg:nom:m1	nazwisko	
+Perezy	Perez	depr:pl:acc:m2	nazwisko	
 Perezy	Perez	depr:pl:nom:m2	nazwisko	
 Perezy	Perez	depr:pl:voc:m2	nazwisko	
 Pergamonach	Pergamon	subst:pl:loc:m3	nazwa geograficzna	hist.
@@ -4119,6 +4224,7 @@ Perkowskich	Perkowski	subst:pl:loc:m1	nazwisko
 Perkowskiego	Perkowski	subst:sg:acc:m1	nazwisko	
 Perkowskiego	Perkowski	subst:sg:gen:m1	nazwisko	
 Perkowskiemu	Perkowski	subst:sg:dat:m1	nazwisko	
+Perkowskie	Perkowski	depr:pl:acc:m2	nazwisko	
 Perkowskie	Perkowski	depr:pl:nom:m2	nazwisko	
 Perkowskie	Perkowski	depr:pl:voc:m2	nazwisko	
 Perkowskimi	Perkowski	subst:pl:inst:m1	nazwisko	
@@ -4183,6 +4289,7 @@ Peronowi	Peron	subst:sg:dat:m1	nazwisko
 Peronów	Peron	subst:pl:acc:m1	nazwisko	
 Peronów	Peron	subst:pl:gen:m1	nazwisko	
 Peron	Peron	subst:sg:nom:m1	nazwisko	
+Perony	Peron	depr:pl:acc:m2	nazwisko	
 Perony	Peron	depr:pl:nom:m2	nazwisko	
 Perony	Peron	depr:pl:voc:m2	nazwisko	
 Perraulcie	Perrault	subst:sg:loc:m1	nazwisko	
@@ -4199,6 +4306,7 @@ Perraultowi	Perrault	subst:sg:dat:m1	nazwisko
 Perraultów	Perrault	subst:pl:acc:m1	nazwisko	
 Perraultów	Perrault	subst:pl:gen:m1	nazwisko	
 Perrault	Perrault	subst:sg:nom:m1	nazwisko	
+Perraulty	Perrault	depr:pl:acc:m2	nazwisko	
 Perraulty	Perrault	depr:pl:nom:m2	nazwisko	
 Perraulty	Perrault	depr:pl:voc:m2	nazwisko	
 Persach	Pers	subst:pl:loc:m1	nazwa pospolita	
@@ -4215,6 +4323,7 @@ Persowi	Pers	subst:sg:dat:m1	nazwa pospolita
 Persów	Pers	subst:pl:acc:m1	nazwa pospolita	
 Persów	Pers	subst:pl:gen:m1	nazwa pospolita	
 Pers	Pers	subst:sg:nom:m1	nazwa pospolita	
+Persy	Pers	depr:pl:acc:m2	nazwa pospolita	
 Persy	Pers	depr:pl:nom:m2	nazwa pospolita	
 Persy	Pers	depr:pl:voc:m2	nazwa pospolita	
 Persefonach	Persefona	subst:pl:loc:f	imię	mit.
@@ -4236,6 +4345,7 @@ Perseuszami	Perseusz	subst:pl:inst:m1	imię
 Perseusza	Perseusz	subst:sg:acc:m1	imię	
 Perseusza	Perseusz	subst:sg:gen:m1	imię	
 Perseuszem	Perseusz	subst:sg:inst:m1	imię	
+Perseusze	Perseusz	depr:pl:acc:m2	imię	
 Perseusze	Perseusz	depr:pl:nom:m2	imię	
 Perseusze	Perseusz	depr:pl:voc:m2	imię	
 Perseusze	Perseusz	subst:pl:nom:m1	imię	
@@ -4321,6 +4431,7 @@ Peruginowie	Perugino	subst:pl:voc:m1	nazwisko
 Peruginowi	Perugino	subst:sg:dat:m1	nazwisko	
 Peruginów	Perugino	subst:pl:acc:m1	nazwisko	
 Peruginów	Perugino	subst:pl:gen:m1	nazwisko	
+Peruginy	Perugino	depr:pl:acc:m2	nazwisko	
 Peruginy	Perugino	depr:pl:nom:m2	nazwisko	
 Peruginy	Perugino	depr:pl:voc:m2	nazwisko	
 Perunach	Perun	subst:pl:loc:m1	imię	
@@ -4337,6 +4448,7 @@ Perunowi	Perun	subst:sg:dat:m1	imię
 Perunów	Perun	subst:pl:acc:m1	imię	
 Perunów	Perun	subst:pl:gen:m1	imię	
 Perun	Perun	subst:sg:nom:m1	imię	
+Peruny	Perun	depr:pl:acc:m2	imię	
 Peruny	Perun	depr:pl:nom:m2	imię	
 Peruny	Perun	depr:pl:voc:m2	imię	
 Peruwiance	Peruwianka	subst:sg:dat:f	nazwa pospolita	
@@ -4360,6 +4472,7 @@ Peruwiańczykami	Peruwiańczyk	subst:pl:inst:m1	nazwa pospolita
 Peruwiańczyka	Peruwiańczyk	subst:sg:acc:m1	nazwa pospolita	
 Peruwiańczyka	Peruwiańczyk	subst:sg:gen:m1	nazwa pospolita	
 Peruwiańczykiem	Peruwiańczyk	subst:sg:inst:m1	nazwa pospolita	
+Peruwiańczyki	Peruwiańczyk	depr:pl:acc:m2	nazwa pospolita	
 Peruwiańczyki	Peruwiańczyk	depr:pl:nom:m2	nazwa pospolita	
 Peruwiańczyki	Peruwiańczyk	depr:pl:voc:m2	nazwa pospolita	
 Peruwiańczykom	Peruwiańczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -4385,6 +4498,7 @@ Peryklesowi	Perykles	subst:sg:dat:m1	imię
 Peryklesów	Perykles	subst:pl:acc:m1	imię	
 Peryklesów	Perykles	subst:pl:gen:m1	imię	
 Perykles	Perykles	subst:sg:nom:m1	imię	
+Peryklesy	Perykles	depr:pl:acc:m2	imię	
 Peryklesy	Perykles	depr:pl:nom:m2	imię	
 Peryklesy	Perykles	depr:pl:voc:m2	imię	
 Perzowach	Perzów	subst:pl:loc:m3	nazwa geograficzna	
@@ -4424,6 +4538,7 @@ Perzyńskich	Perzyński	subst:pl:loc:m1	nazwisko
 Perzyńskiego	Perzyński	subst:sg:acc:m1	nazwisko	
 Perzyńskiego	Perzyński	subst:sg:gen:m1	nazwisko	
 Perzyńskiemu	Perzyński	subst:sg:dat:m1	nazwisko	
+Perzyńskie	Perzyński	depr:pl:acc:m2	nazwisko	
 Perzyńskie	Perzyński	depr:pl:nom:m2	nazwisko	
 Perzyńskie	Perzyński	depr:pl:voc:m2	nazwisko	
 Perzyńskimi	Perzyński	subst:pl:inst:m1	nazwisko	
@@ -4466,6 +4581,7 @@ Pestalozzich	Pestalozzi	subst:pl:loc:m1	nazwisko
 Pestalozziego	Pestalozzi	subst:sg:acc:m1	nazwisko	
 Pestalozziego	Pestalozzi	subst:sg:gen:m1	nazwisko	
 Pestalozziemu	Pestalozzi	subst:sg:dat:m1	nazwisko	
+Pestalozzie	Pestalozzi	depr:pl:acc:m2	nazwisko	
 Pestalozzie	Pestalozzi	depr:pl:nom:m2	nazwisko	
 Pestalozzie	Pestalozzi	depr:pl:voc:m2	nazwisko	
 Pestalozzimi	Pestalozzi	subst:pl:inst:m1	nazwisko	
@@ -4506,6 +4622,7 @@ Pétainowi	Pétain	subst:sg:dat:m1	nazwisko
 Pétainów	Pétain	subst:pl:acc:m1	nazwisko	
 Pétainów	Pétain	subst:pl:gen:m1	nazwisko	
 Pétain	Pétain	subst:sg:nom:m1	nazwisko	
+Pétainy	Pétain	depr:pl:acc:m2	nazwisko	
 Pétainy	Pétain	depr:pl:nom:m2	nazwisko	
 Pétainy	Pétain	depr:pl:voc:m2	nazwisko	
 Peterach	Peter	subst:pl:loc:m1	imię	
@@ -4520,6 +4637,7 @@ Peterowi	Peter	subst:sg:dat:m1	imię
 Peterów	Peter	subst:pl:acc:m1	imię	
 Peterów	Peter	subst:pl:gen:m1	imię	
 Peter	Peter	subst:sg:nom:m1	imię	
+Petery	Peter	depr:pl:acc:m2	imię	
 Petery	Peter	depr:pl:nom:m2	imię	
 Petery	Peter	depr:pl:voc:m2	imię	
 Peterze	Peter	subst:sg:loc:m1	imię	
@@ -4549,6 +4667,7 @@ Petlurowie	Petlura	subst:pl:nom:m1	nazwisko
 Petlurowie	Petlura	subst:pl:voc:m1	nazwisko	
 Petlurów	Petlura	subst:pl:acc:m1	nazwisko	
 Petlurów	Petlura	subst:pl:gen:m1	nazwisko	
+Petlury	Petlura	depr:pl:acc:m2	nazwisko	
 Petlury	Petlura	depr:pl:nom:m2	nazwisko	
 Petlury	Petlura	depr:pl:voc:m2	nazwisko	
 Petlury	Petlura	subst:sg:gen:m1	nazwisko	
@@ -4560,6 +4679,7 @@ Petőfich	Petőfi	subst:pl:loc:m1	nazwisko
 Petőfiego	Petőfi	subst:sg:acc:m1	nazwisko	
 Petőfiego	Petőfi	subst:sg:gen:m1	nazwisko	
 Petőfiemu	Petőfi	subst:sg:dat:m1	nazwisko	
+Petőfie	Petőfi	depr:pl:acc:m2	nazwisko	
 Petőfie	Petőfi	depr:pl:nom:m2	nazwisko	
 Petőfie	Petőfi	depr:pl:voc:m2	nazwisko	
 Petőfimi	Petőfi	subst:pl:inst:m1	nazwisko	
@@ -4579,6 +4699,7 @@ Petrarkami	Petrarka	subst:pl:inst:m1	nazwisko
 Petrarka	Petrarka	subst:sg:nom:m1	nazwisko	
 Petrarką	Petrarka	subst:sg:inst:m1	nazwisko	
 Petrarkę	Petrarka	subst:sg:acc:m1	nazwisko	
+Petrarki	Petrarka	depr:pl:acc:m2	nazwisko	
 Petrarki	Petrarka	depr:pl:nom:m2	nazwisko	
 Petrarki	Petrarka	depr:pl:voc:m2	nazwisko	
 Petrarki	Petrarka	subst:sg:gen:m1	nazwisko	
@@ -4669,6 +4790,7 @@ Petroniuszami	Petroniusz	subst:pl:inst:m1	imię
 Petroniusza	Petroniusz	subst:sg:acc:m1	imię	
 Petroniusza	Petroniusz	subst:sg:gen:m1	imię	
 Petroniuszem	Petroniusz	subst:sg:inst:m1	imię	
+Petroniusze	Petroniusz	depr:pl:acc:m2	imię	
 Petroniusze	Petroniusz	depr:pl:nom:m2	imię	
 Petroniusze	Petroniusz	depr:pl:voc:m2	imię	
 Petroniusze	Petroniusz	subst:pl:nom:m1	imię	
@@ -4726,6 +4848,7 @@ Pęcisławowi	Pęcisław	subst:sg:dat:m1	imię
 Pęcisławów	Pęcisław	subst:pl:acc:m1	imię	
 Pęcisławów	Pęcisław	subst:pl:gen:m1	imię	
 Pęcisław	Pęcisław	subst:sg:nom:m1	imię	
+Pęcisławy	Pęcisław	depr:pl:acc:m2	imię	
 Pęcisławy	Pęcisław	depr:pl:nom:m2	imię	
 Pęcisławy	Pęcisław	depr:pl:voc:m2	imię	
 Pęcisławach	Pęcisława	subst:pl:loc:f	imię	
@@ -4773,6 +4896,7 @@ Pękosławowi	Pękosław	subst:sg:dat:m1	imię
 Pękosławów	Pękosław	subst:pl:acc:m1	imię	
 Pękosławów	Pękosław	subst:pl:gen:m1	imię	
 Pękosław	Pękosław	subst:sg:nom:m1	imię	
+Pękosławy	Pękosław	depr:pl:acc:m2	imię	
 Pękosławy	Pękosław	depr:pl:nom:m2	imię	
 Pękosławy	Pękosław	depr:pl:voc:m2	imię	
 Pępowach	Pępowo	subst:pl:loc:n:ncol	nazwa geograficzna	
@@ -4987,6 +5111,7 @@ Philipsowi	Philips	subst:sg:dat:m1	nazwa firmy
 Philipsów	Philips	subst:pl:acc:m1	nazwa firmy	
 Philipsów	Philips	subst:pl:gen:m1	nazwa firmy	
 Philips	Philips	subst:sg:nom:m1	nazwa firmy	
+Philipsy	Philips	depr:pl:acc:m2	nazwa firmy	
 Philipsy	Philips	depr:pl:nom:m2	nazwa firmy	
 Philipsy	Philips	depr:pl:voc:m2	nazwa firmy	
 Phillipsach	Phillips	subst:pl:loc:m1	nazwisko	
@@ -5003,6 +5128,7 @@ Phillipsowi	Phillips	subst:sg:dat:m1	nazwisko
 Phillipsów	Phillips	subst:pl:acc:m1	nazwisko	
 Phillipsów	Phillips	subst:pl:gen:m1	nazwisko	
 Phillips	Phillips	subst:sg:nom:m1	nazwisko	
+Phillipsy	Phillips	depr:pl:acc:m2	nazwisko	
 Phillipsy	Phillips	depr:pl:nom:m2	nazwisko	
 Phillipsy	Phillips	depr:pl:voc:m2	nazwisko	
 Phnom	Phnom	burk		
@@ -5049,6 +5175,7 @@ Piagetowi	Piaget	subst:sg:dat:m1	nazwisko
 Piagetów	Piaget	subst:pl:acc:m1	nazwisko	
 Piagetów	Piaget	subst:pl:gen:m1	nazwisko	
 Piaget	Piaget	subst:sg:nom:m1	nazwisko	
+Piagety	Piaget	depr:pl:acc:m2	nazwisko	
 Piagety	Piaget	depr:pl:nom:m2	nazwisko	
 Piagety	Piaget	depr:pl:voc:m2	nazwisko	
 Piasecka	Piasecka	subst:sg:nom:f	nazwisko	
@@ -5073,6 +5200,7 @@ Piaseckich	Piasecki	subst:pl:loc:m1	nazwisko
 Piaseckiego	Piasecki	subst:sg:acc:m1	nazwisko	
 Piaseckiego	Piasecki	subst:sg:gen:m1	nazwisko	
 Piaseckiemu	Piasecki	subst:sg:dat:m1	nazwisko	
+Piaseckie	Piasecki	depr:pl:acc:m2	nazwisko	
 Piaseckie	Piasecki	depr:pl:nom:m2	nazwisko	
 Piaseckie	Piasecki	depr:pl:voc:m2	nazwisko	
 Piaseckimi	Piasecki	subst:pl:inst:m1	nazwisko	
@@ -5112,6 +5240,7 @@ Piasecznu	Piaseczno	subst:sg:dat:n:ncol	nazwa geograficzna
 Piasecznego	Piaseczny	subst:sg:acc:m1	nazwisko	
 Piasecznego	Piaseczny	subst:sg:gen:m1	nazwisko	
 Piasecznemu	Piaseczny	subst:sg:dat:m1	nazwisko	
+Piaseczne	Piaseczny	depr:pl:acc:m2	nazwisko	
 Piaseczne	Piaseczny	depr:pl:nom:m2	nazwisko	
 Piaseczne	Piaseczny	depr:pl:voc:m2	nazwisko	
 Piaseczni	Piaseczny	subst:pl:nom:m1	nazwisko	
@@ -5142,6 +5271,7 @@ Piasnym	Piasna	subst:pl:dat:f	nazwisko
 Piasnego	Piasny	subst:sg:acc:m1	nazwisko	
 Piasnego	Piasny	subst:sg:gen:m1	nazwisko	
 Piasnemu	Piasny	subst:sg:dat:m1	nazwisko	
+Piasne	Piasny	depr:pl:acc:m2	nazwisko	
 Piasne	Piasny	depr:pl:nom:m2	nazwisko	
 Piasne	Piasny	depr:pl:voc:m2	nazwisko	
 Piasnych	Piasny	subst:pl:acc:m1	nazwisko	
@@ -5167,6 +5297,7 @@ Piastowi	Piast	subst:sg:dat:m1	nazwa członka rodu
 Piastów	Piast	subst:pl:acc:m1	nazwa członka rodu	
 Piastów	Piast	subst:pl:gen:m1	nazwa członka rodu	
 Piast	Piast	subst:sg:nom:m1	nazwa członka rodu	
+Piasty	Piast	depr:pl:acc:m2	nazwa członka rodu	
 Piasty	Piast	depr:pl:nom:m2	nazwa członka rodu	
 Piasty	Piast	depr:pl:voc:m2	nazwa członka rodu	
 Piaście	Piast	subst:sg:loc:m1	nazwa członka rodu	
@@ -5220,6 +5351,7 @@ Piątkami	Piątek	subst:pl:inst:m1	nazwisko
 Piątka	Piątek	subst:sg:acc:m1	nazwisko	
 Piątka	Piątek	subst:sg:gen:m1	nazwisko	
 Piątkiem	Piątek	subst:sg:inst:m1	nazwisko	
+Piątki	Piątek	depr:pl:acc:m2	nazwisko	
 Piątki	Piątek	depr:pl:nom:m2	nazwisko	
 Piątki	Piątek	depr:pl:voc:m2	nazwisko	
 Piątkom	Piątek	subst:pl:dat:m1	nazwisko	
@@ -5252,6 +5384,7 @@ Piątkowskich	Piątkowski	subst:pl:loc:m1	nazwisko
 Piątkowskiego	Piątkowski	subst:sg:acc:m1	nazwisko	
 Piątkowskiego	Piątkowski	subst:sg:gen:m1	nazwisko	
 Piątkowskiemu	Piątkowski	subst:sg:dat:m1	nazwisko	
+Piątkowskie	Piątkowski	depr:pl:acc:m2	nazwisko	
 Piątkowskie	Piątkowski	depr:pl:nom:m2	nazwisko	
 Piątkowskie	Piątkowski	depr:pl:voc:m2	nazwisko	
 Piątkowskimi	Piątkowski	subst:pl:inst:m1	nazwisko	
@@ -5288,6 +5421,7 @@ Picassowie	Picasso	subst:pl:voc:m1	nazwisko
 Picassowi	Picasso	subst:sg:dat:m1	nazwisko	
 Picassów	Picasso	subst:pl:acc:m1	nazwisko	
 Picassów	Picasso	subst:pl:gen:m1	nazwisko	
+Picassy	Picasso	depr:pl:acc:m2	nazwisko	
 Picassy	Picasso	depr:pl:nom:m2	nazwisko	
 Picassy	Picasso	depr:pl:voc:m2	nazwisko	
 Piechocka	Piechocka	subst:sg:nom:f	nazwisko	
@@ -5312,6 +5446,7 @@ Piechockich	Piechocki	subst:pl:loc:m1	nazwisko
 Piechockiego	Piechocki	subst:sg:acc:m1	nazwisko	
 Piechockiego	Piechocki	subst:sg:gen:m1	nazwisko	
 Piechockiemu	Piechocki	subst:sg:dat:m1	nazwisko	
+Piechockie	Piechocki	depr:pl:acc:m2	nazwisko	
 Piechockie	Piechocki	depr:pl:nom:m2	nazwisko	
 Piechockie	Piechocki	depr:pl:voc:m2	nazwisko	
 Piechockimi	Piechocki	subst:pl:inst:m1	nazwisko	
@@ -5356,6 +5491,7 @@ Piechowskich	Piechowski	subst:pl:loc:m1	nazwisko
 Piechowskiego	Piechowski	subst:sg:acc:m1	nazwisko	
 Piechowskiego	Piechowski	subst:sg:gen:m1	nazwisko	
 Piechowskiemu	Piechowski	subst:sg:dat:m1	nazwisko	
+Piechowskie	Piechowski	depr:pl:acc:m2	nazwisko	
 Piechowskie	Piechowski	depr:pl:nom:m2	nazwisko	
 Piechowskie	Piechowski	depr:pl:voc:m2	nazwisko	
 Piechowskimi	Piechowski	subst:pl:inst:m1	nazwisko	
@@ -5369,6 +5505,7 @@ Pieczyngami	Pieczyng	subst:pl:inst:m1	nazwa pospolita
 Pieczynga	Pieczyng	subst:sg:acc:m1	nazwa pospolita	
 Pieczynga	Pieczyng	subst:sg:gen:m1	nazwa pospolita	
 Pieczyngiem	Pieczyng	subst:sg:inst:m1	nazwa pospolita	
+Pieczyngi	Pieczyng	depr:pl:acc:m2	nazwa pospolita	
 Pieczyngi	Pieczyng	depr:pl:nom:m2	nazwa pospolita	
 Pieczyngi	Pieczyng	depr:pl:voc:m2	nazwa pospolita	
 Pieczyngom	Pieczyng	subst:pl:dat:m1	nazwa pospolita	
@@ -5388,6 +5525,7 @@ Piekarskich	Piekarski	subst:pl:loc:m1	nazwisko
 Piekarskiego	Piekarski	subst:sg:acc:m1	nazwisko	
 Piekarskiego	Piekarski	subst:sg:gen:m1	nazwisko	
 Piekarskiemu	Piekarski	subst:sg:dat:m1	nazwisko	
+Piekarskie	Piekarski	depr:pl:acc:m2	nazwisko	
 Piekarskie	Piekarski	depr:pl:nom:m2	nazwisko	
 Piekarskie	Piekarski	depr:pl:voc:m2	nazwisko	
 Piekarskimi	Piekarski	subst:pl:inst:m1	nazwisko	
@@ -5447,6 +5585,7 @@ Piekutowskich	Piekutowski	subst:pl:loc:m1	nazwisko
 Piekutowskiego	Piekutowski	subst:sg:acc:m1	nazwisko	
 Piekutowskiego	Piekutowski	subst:sg:gen:m1	nazwisko	
 Piekutowskiemu	Piekutowski	subst:sg:dat:m1	nazwisko	
+Piekutowskie	Piekutowski	depr:pl:acc:m2	nazwisko	
 Piekutowskie	Piekutowski	depr:pl:nom:m2	nazwisko	
 Piekutowskie	Piekutowski	depr:pl:voc:m2	nazwisko	
 Piekutowskimi	Piekutowski	subst:pl:inst:m1	nazwisko	
@@ -5489,6 +5628,7 @@ Pieniążkami	Pieniążek	subst:pl:inst:m1	nazwisko
 Pieniążka	Pieniążek	subst:sg:acc:m1	nazwisko	
 Pieniążka	Pieniążek	subst:sg:gen:m1	nazwisko	
 Pieniążkiem	Pieniążek	subst:sg:inst:m1	nazwisko	
+Pieniążki	Pieniążek	depr:pl:acc:m2	nazwisko	
 Pieniążki	Pieniążek	depr:pl:nom:m2	nazwisko	
 Pieniążki	Pieniążek	depr:pl:voc:m2	nazwisko	
 Pieniążkom	Pieniążek	subst:pl:dat:m1	nazwisko	
@@ -5535,6 +5675,7 @@ Pieńkowskich	Pieńkowski	subst:pl:loc:m1	nazwisko
 Pieńkowskiego	Pieńkowski	subst:sg:acc:m1	nazwisko	
 Pieńkowskiego	Pieńkowski	subst:sg:gen:m1	nazwisko	
 Pieńkowskiemu	Pieńkowski	subst:sg:dat:m1	nazwisko	
+Pieńkowskie	Pieńkowski	depr:pl:acc:m2	nazwisko	
 Pieńkowskie	Pieńkowski	depr:pl:nom:m2	nazwisko	
 Pieńkowskie	Pieńkowski	depr:pl:voc:m2	nazwisko	
 Pieńkowskimi	Pieńkowski	subst:pl:inst:m1	nazwisko	
@@ -5549,6 +5690,7 @@ Pieronkami	Pieronek	subst:pl:inst:m1	nazwisko
 Pieronka	Pieronek	subst:sg:acc:m1	nazwisko	
 Pieronka	Pieronek	subst:sg:gen:m1	nazwisko	
 Pieronkiem	Pieronek	subst:sg:inst:m1	nazwisko	
+Pieronki	Pieronek	depr:pl:acc:m2	nazwisko	
 Pieronki	Pieronek	depr:pl:nom:m2	nazwisko	
 Pieronki	Pieronek	depr:pl:voc:m2	nazwisko	
 Pieronkom	Pieronek	subst:pl:dat:m1	nazwisko	
@@ -5571,6 +5713,7 @@ Pierre’owi	Pierre	subst:sg:dat:m1	imię
 Pierre’ów	Pierre	subst:pl:acc:m1	imię	
 Pierre’ów	Pierre	subst:pl:gen:m1	imię	
 Pierre	Pierre	subst:sg:nom:m1	imię	
+Pierre’y	Pierre	depr:pl:acc:m2	imię	
 Pierre’y	Pierre	depr:pl:nom:m2	imię	
 Pierre’y	Pierre	depr:pl:voc:m2	imię	
 Pierze	Pierre	subst:sg:loc:m1	imię	
@@ -5623,6 +5766,7 @@ Pietkiewiczami	Pietkiewicz	subst:pl:inst:m1	nazwisko
 Pietkiewicza	Pietkiewicz	subst:sg:acc:m1	nazwisko	
 Pietkiewicza	Pietkiewicz	subst:sg:gen:m1	nazwisko	
 Pietkiewiczem	Pietkiewicz	subst:sg:inst:m1	nazwisko	
+Pietkiewicze	Pietkiewicz	depr:pl:acc:m2	nazwisko	
 Pietkiewicze	Pietkiewicz	depr:pl:nom:m2	nazwisko	
 Pietkiewicze	Pietkiewicz	depr:pl:voc:m2	nazwisko	
 Pietkiewicze	Pietkiewicz	subst:pl:nom:m1	nazwisko	
@@ -5669,6 +5813,7 @@ Pietrzakami	Pietrzak	subst:pl:inst:m1	nazwisko
 Pietrzaka	Pietrzak	subst:sg:acc:m1	nazwisko	
 Pietrzaka	Pietrzak	subst:sg:gen:m1	nazwisko	
 Pietrzakiem	Pietrzak	subst:sg:inst:m1	nazwisko	
+Pietrzaki	Pietrzak	depr:pl:acc:m2	nazwisko	
 Pietrzaki	Pietrzak	depr:pl:nom:m2	nazwisko	
 Pietrzaki	Pietrzak	depr:pl:voc:m2	nazwisko	
 Pietrzakom	Pietrzak	subst:pl:dat:m1	nazwisko	
@@ -5685,6 +5830,7 @@ Pietrzykami	Pietrzyk	subst:pl:inst:m1	nazwisko
 Pietrzyka	Pietrzyk	subst:sg:acc:m1	nazwisko	
 Pietrzyka	Pietrzyk	subst:sg:gen:m1	nazwisko	
 Pietrzykiem	Pietrzyk	subst:sg:inst:m1	nazwisko	
+Pietrzyki	Pietrzyk	depr:pl:acc:m2	nazwisko	
 Pietrzyki	Pietrzyk	depr:pl:nom:m2	nazwisko	
 Pietrzyki	Pietrzyk	depr:pl:voc:m2	nazwisko	
 Pietrzykom	Pietrzyk	subst:pl:dat:m1	nazwisko	
@@ -5718,6 +5864,7 @@ Pietrzykowskich	Pietrzykowski	subst:pl:loc:m1	nazwisko
 Pietrzykowskiego	Pietrzykowski	subst:sg:acc:m1	nazwisko	
 Pietrzykowskiego	Pietrzykowski	subst:sg:gen:m1	nazwisko	
 Pietrzykowskiemu	Pietrzykowski	subst:sg:dat:m1	nazwisko	
+Pietrzykowskie	Pietrzykowski	depr:pl:acc:m2	nazwisko	
 Pietrzykowskie	Pietrzykowski	depr:pl:nom:m2	nazwisko	
 Pietrzykowskie	Pietrzykowski	depr:pl:voc:m2	nazwisko	
 Pietrzykowskimi	Pietrzykowski	subst:pl:inst:m1	nazwisko	
@@ -5745,6 +5892,7 @@ Piętakami	Piętak	subst:pl:inst:m1	nazwisko
 Piętaka	Piętak	subst:sg:acc:m1	nazwisko	
 Piętaka	Piętak	subst:sg:gen:m1	nazwisko	
 Piętakiem	Piętak	subst:sg:inst:m1	nazwisko	
+Piętaki	Piętak	depr:pl:acc:m2	nazwisko	
 Piętaki	Piętak	depr:pl:nom:m2	nazwisko	
 Piętaki	Piętak	depr:pl:voc:m2	nazwisko	
 Piętakom	Piętak	subst:pl:dat:m1	nazwisko	
@@ -5770,6 +5918,7 @@ Pigmalionowi	Pigmalion	subst:sg:dat:m1	imię	mit.
 Pigmalionów	Pigmalion	subst:pl:acc:m1	imię	mit.
 Pigmalionów	Pigmalion	subst:pl:gen:m1	imię	mit.
 Pigmalion	Pigmalion	subst:sg:nom:m1	imię	mit.
+Pigmaliony	Pigmalion	depr:pl:acc:m2	imię	mit.
 Pigmaliony	Pigmalion	depr:pl:nom:m2	imię	mit.
 Pigmaliony	Pigmalion	depr:pl:voc:m2	imię	mit.
 Pigmejach	Pigmej	subst:pl:loc:m1	nazwa pospolita	
@@ -5777,6 +5926,7 @@ Pigmejami	Pigmej	subst:pl:inst:m1	nazwa pospolita
 Pigmeja	Pigmej	subst:sg:acc:m1	nazwa pospolita	
 Pigmeja	Pigmej	subst:sg:gen:m1	nazwa pospolita	
 Pigmejem	Pigmej	subst:sg:inst:m1	nazwa pospolita	
+Pigmeje	Pigmej	depr:pl:acc:m2	nazwa pospolita	
 Pigmeje	Pigmej	depr:pl:nom:m2	nazwa pospolita	
 Pigmeje	Pigmej	depr:pl:voc:m2	nazwa pospolita	
 Pigmeje	Pigmej	subst:pl:nom:m1	nazwa pospolita	
@@ -5795,6 +5945,7 @@ Pigmejczykami	Pigmejczyk	subst:pl:inst:m1	nazwa pospolita
 Pigmejczyka	Pigmejczyk	subst:sg:acc:m1	nazwa pospolita	
 Pigmejczyka	Pigmejczyk	subst:sg:gen:m1	nazwa pospolita	
 Pigmejczykiem	Pigmejczyk	subst:sg:inst:m1	nazwa pospolita	
+Pigmejczyki	Pigmejczyk	depr:pl:acc:m2	nazwa pospolita	
 Pigmejczyki	Pigmejczyk	depr:pl:nom:m2	nazwa pospolita	
 Pigmejczyki	Pigmejczyk	depr:pl:voc:m2	nazwa pospolita	
 Pigmejczykom	Pigmejczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -5823,6 +5974,7 @@ Pigoniami	Pigoń	subst:pl:inst:m1	nazwisko
 Pigonia	Pigoń	subst:sg:acc:m1	nazwisko	
 Pigonia	Pigoń	subst:sg:gen:m1	nazwisko	
 Pigoniem	Pigoń	subst:sg:inst:m1	nazwisko	
+Pigonie	Pigoń	depr:pl:acc:m2	nazwisko	
 Pigonie	Pigoń	depr:pl:nom:m2	nazwisko	
 Pigonie	Pigoń	depr:pl:voc:m2	nazwisko	
 Pigoniom	Pigoń	subst:pl:dat:m1	nazwisko	
@@ -5870,6 +6022,7 @@ Pijanowskich	Pijanowski	subst:pl:loc:m1	nazwisko
 Pijanowskiego	Pijanowski	subst:sg:acc:m1	nazwisko	
 Pijanowskiego	Pijanowski	subst:sg:gen:m1	nazwisko	
 Pijanowskiemu	Pijanowski	subst:sg:dat:m1	nazwisko	
+Pijanowskie	Pijanowski	depr:pl:acc:m2	nazwisko	
 Pijanowskie	Pijanowski	depr:pl:nom:m2	nazwisko	
 Pijanowskie	Pijanowski	depr:pl:voc:m2	nazwisko	
 Pijanowskimi	Pijanowski	subst:pl:inst:m1	nazwisko	
@@ -5915,6 +6068,7 @@ Pikulskich	Pikulski	subst:pl:loc:m1	nazwisko
 Pikulskiego	Pikulski	subst:sg:acc:m1	nazwisko	
 Pikulskiego	Pikulski	subst:sg:gen:m1	nazwisko	
 Pikulskiemu	Pikulski	subst:sg:dat:m1	nazwisko	
+Pikulskie	Pikulski	depr:pl:acc:m2	nazwisko	
 Pikulskie	Pikulski	depr:pl:nom:m2	nazwisko	
 Pikulskie	Pikulski	depr:pl:voc:m2	nazwisko	
 Pikulskimi	Pikulski	subst:pl:inst:m1	nazwisko	
@@ -5945,6 +6099,7 @@ Pilarskich	Pilarski	subst:pl:loc:m1	nazwisko
 Pilarskiego	Pilarski	subst:sg:acc:m1	nazwisko	
 Pilarskiego	Pilarski	subst:sg:gen:m1	nazwisko	
 Pilarskiemu	Pilarski	subst:sg:dat:m1	nazwisko	
+Pilarskie	Pilarski	depr:pl:acc:m2	nazwisko	
 Pilarskie	Pilarski	depr:pl:nom:m2	nazwisko	
 Pilarskie	Pilarski	depr:pl:voc:m2	nazwisko	
 Pilarskimi	Pilarski	subst:pl:inst:m1	nazwisko	
@@ -6051,6 +6206,7 @@ Piłatowi	Piłat	subst:sg:dat:m1	imię
 Piłatów	Piłat	subst:pl:acc:m1	imię	
 Piłatów	Piłat	subst:pl:gen:m1	imię	
 Piłat	Piłat	subst:sg:nom:m1	imię	
+Piłaty	Piłat	depr:pl:acc:m2	imię	
 Piłaty	Piłat	depr:pl:nom:m2	imię	
 Piłaty	Piłat	depr:pl:voc:m2	imię	
 Piławach	Piława	subst:pl:loc:f	nazwa geograficzna	
@@ -6089,6 +6245,7 @@ Piłsudskich	Piłsudski	subst:pl:loc:m1	nazwisko
 Piłsudskiego	Piłsudski	subst:sg:acc:m1	nazwisko	
 Piłsudskiego	Piłsudski	subst:sg:gen:m1	nazwisko	
 Piłsudskiemu	Piłsudski	subst:sg:dat:m1	nazwisko	
+Piłsudskie	Piłsudski	depr:pl:acc:m2	nazwisko	
 Piłsudskie	Piłsudski	depr:pl:nom:m2	nazwisko	
 Piłsudskie	Piłsudski	depr:pl:voc:m2	nazwisko	
 Piłsudskimi	Piłsudski	subst:pl:inst:m1	nazwisko	
@@ -6113,6 +6270,7 @@ Pimenowi	Pimen	subst:sg:dat:m1	imię
 Pimenów	Pimen	subst:pl:acc:m1	imię	
 Pimenów	Pimen	subst:pl:gen:m1	imię	
 Pimen	Pimen	subst:sg:nom:m1	imię	
+Pimeny	Pimen	depr:pl:acc:m2	imię	
 Pimeny	Pimen	depr:pl:nom:m2	imię	
 Pimeny	Pimen	depr:pl:voc:m2	imię	
 PIN-ach	PIN	subst:pl:loc:m3	nazwa pospolita	
@@ -6143,6 +6301,7 @@ Pinochetowi	Pinochet	subst:sg:dat:m1	nazwisko
 Pinochetów	Pinochet	subst:pl:acc:m1	nazwisko	
 Pinochetów	Pinochet	subst:pl:gen:m1	nazwisko	
 Pinochet	Pinochet	subst:sg:nom:m1	nazwisko	
+Pinochety	Pinochet	depr:pl:acc:m2	nazwisko	
 Pinochety	Pinochet	depr:pl:nom:m2	nazwisko	
 Pinochety	Pinochet	depr:pl:voc:m2	nazwisko	
 Pinokiach	Pinokio	subst:pl:loc:m1	imię	
@@ -6150,6 +6309,7 @@ Pinokiami	Pinokio	subst:pl:inst:m1	imię
 Pinokia	Pinokio	subst:sg:acc:m1	imię	
 Pinokia	Pinokio	subst:sg:gen:m1	imię	
 Pinokiem	Pinokio	subst:sg:inst:m1	imię	
+Pinokie	Pinokio	depr:pl:acc:m2	imię	
 Pinokie	Pinokio	depr:pl:nom:m2	imię	
 Pinokie	Pinokio	depr:pl:voc:m2	imię	
 Pinokiom	Pinokio	subst:pl:dat:m1	imię	
@@ -6173,6 +6333,7 @@ Pinterowi	Pinter	subst:sg:dat:m1	nazwisko
 Pinterów	Pinter	subst:pl:acc:m1	nazwisko	
 Pinterów	Pinter	subst:pl:gen:m1	nazwisko	
 Pinter	Pinter	subst:sg:nom:m1	nazwisko	
+Pintery	Pinter	depr:pl:acc:m2	nazwisko	
 Pintery	Pinter	depr:pl:nom:m2	nazwisko	
 Pintery	Pinter	depr:pl:voc:m2	nazwisko	
 Pinterze	Pinter	subst:sg:loc:m1	nazwisko	
@@ -6232,6 +6393,7 @@ Piotrowi	Piotr	subst:sg:dat:m1	imię
 Piotrów	Piotr	subst:pl:acc:m1	imię	
 Piotrów	Piotr	subst:pl:gen:m1	imię	
 Piotr	Piotr	subst:sg:nom:m1	imię	
+Piotry	Piotr	depr:pl:acc:m2	imię	
 Piotry	Piotr	depr:pl:nom:m2	imię	
 Piotry	Piotr	depr:pl:voc:m2	imię	
 Piotrze	Piotr	subst:sg:loc:m1	imię	
@@ -6242,6 +6404,7 @@ Piotreczkami	Piotreczek	subst:pl:inst:m1	imię
 Piotreczka	Piotreczek	subst:sg:acc:m1	imię	
 Piotreczka	Piotreczek	subst:sg:gen:m1	imię	
 Piotreczkiem	Piotreczek	subst:sg:inst:m1	imię	
+Piotreczki	Piotreczek	depr:pl:acc:m2	imię	
 Piotreczki	Piotreczek	depr:pl:nom:m2	imię	
 Piotreczki	Piotreczek	depr:pl:voc:m2	imię	
 Piotreczkom	Piotreczek	subst:pl:dat:m1	imię	
@@ -6258,6 +6421,7 @@ Piotrkami	Piotrek	subst:pl:inst:m1	imię
 Piotrka	Piotrek	subst:sg:acc:m1	imię	
 Piotrka	Piotrek	subst:sg:gen:m1	imię	
 Piotrkiem	Piotrek	subst:sg:inst:m1	imię	
+Piotrki	Piotrek	depr:pl:acc:m2	imię	
 Piotrki	Piotrek	depr:pl:nom:m2	imię	
 Piotrki	Piotrek	depr:pl:voc:m2	imię	
 Piotrkom	Piotrek	subst:pl:dat:m1	imię	
@@ -6302,6 +6466,7 @@ Piotrowiczami	Piotrowicz	subst:pl:inst:m1	nazwisko
 Piotrowicza	Piotrowicz	subst:sg:acc:m1	nazwisko	
 Piotrowicza	Piotrowicz	subst:sg:gen:m1	nazwisko	
 Piotrowiczem	Piotrowicz	subst:sg:inst:m1	nazwisko	
+Piotrowicze	Piotrowicz	depr:pl:acc:m2	nazwisko	
 Piotrowicze	Piotrowicz	depr:pl:nom:m2	nazwisko	
 Piotrowicze	Piotrowicz	depr:pl:voc:m2	nazwisko	
 Piotrowicze	Piotrowicz	subst:pl:nom:m1	nazwisko	
@@ -6329,6 +6494,7 @@ Piotrowinowi	Piotrowin	subst:sg:dat:m1	nazwisko
 Piotrowinów	Piotrowin	subst:pl:acc:m1	nazwisko	
 Piotrowinów	Piotrowin	subst:pl:gen:m1	nazwisko	
 Piotrowin	Piotrowin	subst:sg:nom:m1	nazwisko	
+Piotrowiny	Piotrowin	depr:pl:acc:m2	nazwisko	
 Piotrowiny	Piotrowin	depr:pl:nom:m2	nazwisko	
 Piotrowiny	Piotrowin	depr:pl:voc:m2	nazwisko	
 Piotrowska	Piotrowska	subst:sg:nom:f	nazwisko	
@@ -6353,6 +6519,7 @@ Piotrowskich	Piotrowski	subst:pl:loc:m1	nazwisko
 Piotrowskiego	Piotrowski	subst:sg:acc:m1	nazwisko	
 Piotrowskiego	Piotrowski	subst:sg:gen:m1	nazwisko	
 Piotrowskiemu	Piotrowski	subst:sg:dat:m1	nazwisko	
+Piotrowskie	Piotrowski	depr:pl:acc:m2	nazwisko	
 Piotrowskie	Piotrowski	depr:pl:nom:m2	nazwisko	
 Piotrowskie	Piotrowski	depr:pl:voc:m2	nazwisko	
 Piotrowskimi	Piotrowski	subst:pl:inst:m1	nazwisko	
@@ -6366,6 +6533,7 @@ Piotrusiami	Piotruś	subst:pl:inst:m1	imię
 Piotrusia	Piotruś	subst:sg:acc:m1	imię	
 Piotrusia	Piotruś	subst:sg:gen:m1	imię	
 Piotrusiem	Piotruś	subst:sg:inst:m1	imię	
+Piotrusie	Piotruś	depr:pl:acc:m2	imię	
 Piotrusie	Piotruś	depr:pl:nom:m2	imię	
 Piotrusie	Piotruś	depr:pl:voc:m2	imię	
 Piotrusie	Piotruś	subst:pl:nom:m1	imię	
@@ -6401,6 +6569,7 @@ Piórkowskich	Piórkowski	subst:pl:loc:m1	nazwisko
 Piórkowskiego	Piórkowski	subst:sg:acc:m1	nazwisko	
 Piórkowskiego	Piórkowski	subst:sg:gen:m1	nazwisko	
 Piórkowskiemu	Piórkowski	subst:sg:dat:m1	nazwisko	
+Piórkowskie	Piórkowski	depr:pl:acc:m2	nazwisko	
 Piórkowskie	Piórkowski	depr:pl:nom:m2	nazwisko	
 Piórkowskie	Piórkowski	depr:pl:voc:m2	nazwisko	
 Piórkowskimi	Piórkowski	subst:pl:inst:m1	nazwisko	
@@ -6484,6 +6653,7 @@ Pirandellami	Pirandello	subst:pl:inst:m1	nazwisko
 Pirandella	Pirandello	subst:sg:acc:m1	nazwisko	
 Pirandella	Pirandello	subst:sg:gen:m1	nazwisko	
 Pirandellem	Pirandello	subst:sg:inst:m1	nazwisko	
+Pirandelle	Pirandello	depr:pl:acc:m2	nazwisko	
 Pirandelle	Pirandello	depr:pl:nom:m2	nazwisko	
 Pirandelle	Pirandello	depr:pl:voc:m2	nazwisko	
 Pirandellom	Pirandello	subst:pl:dat:m1	nazwisko	
@@ -6539,6 +6709,7 @@ Pirrusowi	Pirrus	subst:sg:dat:m1	imię
 Pirrusów	Pirrus	subst:pl:acc:m1	imię	
 Pirrusów	Pirrus	subst:pl:gen:m1	imię	
 Pirrus	Pirrus	subst:sg:nom:m1	imię	
+Pirrusy	Pirrus	depr:pl:acc:m2	imię	
 Pirrusy	Pirrus	depr:pl:nom:m2	imię	
 Pirrusy	Pirrus	depr:pl:voc:m2	imię	
 PiS-ach	PiS	subst:pl:loc:m3	nazwa organizacji	
@@ -6603,6 +6774,7 @@ Pisarkami	Pisarek	subst:pl:inst:m1	nazwisko
 Pisarka	Pisarek	subst:sg:acc:m1	nazwisko	
 Pisarka	Pisarek	subst:sg:gen:m1	nazwisko	
 Pisarkiem	Pisarek	subst:sg:inst:m1	nazwisko	
+Pisarki	Pisarek	depr:pl:acc:m2	nazwisko	
 Pisarki	Pisarek	depr:pl:nom:m2	nazwisko	
 Pisarki	Pisarek	depr:pl:voc:m2	nazwisko	
 Pisarkom	Pisarek	subst:pl:dat:m1	nazwisko	
@@ -6649,6 +6821,7 @@ Piskorskich	Piskorski	subst:pl:loc:m1	nazwisko
 Piskorskiego	Piskorski	subst:sg:acc:m1	nazwisko	
 Piskorskiego	Piskorski	subst:sg:gen:m1	nazwisko	
 Piskorskiemu	Piskorski	subst:sg:dat:m1	nazwisko	
+Piskorskie	Piskorski	depr:pl:acc:m2	nazwisko	
 Piskorskie	Piskorski	depr:pl:nom:m2	nazwisko	
 Piskorskie	Piskorski	depr:pl:voc:m2	nazwisko	
 Piskorskimi	Piskorski	subst:pl:inst:m1	nazwisko	
@@ -6699,6 +6872,7 @@ PiS-owskość	PiS-owskość	subst:sg:acc:f	nazwa pospolita
 PiS-owskość	PiS-owskość	subst:sg:nom:f	nazwa pospolita	
 Pissarrach	Pissarro	subst:pl:loc:m1	nazwisko	
 Pissarrami	Pissarro	subst:pl:inst:m1	nazwisko	
+Pissarra	Pissarro	depr:pl:acc:m2	nazwisko	
 Pissarra	Pissarro	depr:pl:nom:m2	nazwisko	
 Pissarra	Pissarro	depr:pl:voc:m2	nazwisko	
 Pissarra	Pissarro	subst:sg:acc:m1	nazwisko	
@@ -6743,6 +6917,7 @@ Pitagorasowi	Pitagoras	subst:sg:dat:m1	imię
 Pitagorasów	Pitagoras	subst:pl:acc:m1	imię	
 Pitagorasów	Pitagoras	subst:pl:gen:m1	imię	
 Pitagoras	Pitagoras	subst:sg:nom:m1	imię	
+Pitagorasy	Pitagoras	depr:pl:acc:m2	imię	
 Pitagorasy	Pitagoras	depr:pl:nom:m2	imię	
 Pitagorasy	Pitagoras	depr:pl:voc:m2	imię	
 Picie	PIT:s1	subst:sg:loc:m3	nazwa pospolita	
@@ -6831,6 +7006,7 @@ Piusowi	Pius	subst:sg:dat:m1	imię
 Piusów	Pius	subst:pl:acc:m1	imię	
 Piusów	Pius	subst:pl:gen:m1	imię	
 Pius	Pius	subst:sg:nom:m1	imię	
+Piusy	Pius	depr:pl:acc:m2	imię	
 Piusy	Pius	depr:pl:nom:m2	imię	
 Piusy	Pius	depr:pl:voc:m2	imię	
 PIW-ach	PIW	subst:pl:loc:m3	nazwa pospolita	
@@ -6865,6 +7041,7 @@ Piwoniach	Piwonia	subst:pl:loc:m1	nazwisko
 Piwoniami	Piwonia	subst:pl:inst:m1	nazwisko	
 Piwonia	Piwonia	subst:sg:nom:m1	nazwisko	
 Piwonią	Piwonia	subst:sg:inst:m1	nazwisko	
+Piwonie	Piwonia	depr:pl:acc:m2	nazwisko	
 Piwonie	Piwonia	depr:pl:nom:m2	nazwisko	
 Piwonie	Piwonia	depr:pl:voc:m2	nazwisko	
 Piwonię	Piwonia	subst:sg:acc:m1	nazwisko	
@@ -6899,6 +7076,7 @@ Piwońskich	Piwoński	subst:pl:loc:m1	nazwisko
 Piwońskiego	Piwoński	subst:sg:acc:m1	nazwisko	
 Piwońskiego	Piwoński	subst:sg:gen:m1	nazwisko	
 Piwońskiemu	Piwoński	subst:sg:dat:m1	nazwisko	
+Piwońskie	Piwoński	depr:pl:acc:m2	nazwisko	
 Piwońskie	Piwoński	depr:pl:nom:m2	nazwisko	
 Piwońskie	Piwoński	depr:pl:voc:m2	nazwisko	
 Piwońskimi	Piwoński	subst:pl:inst:m1	nazwisko	
@@ -6912,6 +7090,7 @@ Piwowarczykami	Piwowarczyk	subst:pl:inst:m1	nazwisko
 Piwowarczyka	Piwowarczyk	subst:sg:acc:m1	nazwisko	
 Piwowarczyka	Piwowarczyk	subst:sg:gen:m1	nazwisko	
 Piwowarczykiem	Piwowarczyk	subst:sg:inst:m1	nazwisko	
+Piwowarczyki	Piwowarczyk	depr:pl:acc:m2	nazwisko	
 Piwowarczyki	Piwowarczyk	depr:pl:nom:m2	nazwisko	
 Piwowarczyki	Piwowarczyk	depr:pl:voc:m2	nazwisko	
 Piwowarczykom	Piwowarczyk	subst:pl:dat:m1	nazwisko	
@@ -6965,6 +7144,7 @@ Pizy	Piza	subst:pl:voc:f	nazwa geograficzna
 Pizy	Piza	subst:sg:gen:f	nazwa geograficzna	
 Pizarrach	Pizarro	subst:pl:loc:m1	nazwisko	
 Pizarrami	Pizarro	subst:pl:inst:m1	nazwisko	
+Pizarra	Pizarro	depr:pl:acc:m2	nazwisko	
 Pizarra	Pizarro	depr:pl:nom:m2	nazwisko	
 Pizarra	Pizarro	depr:pl:voc:m2	nazwisko	
 Pizarra	Pizarro	subst:sg:acc:m1	nazwisko	
@@ -7276,6 +7456,7 @@ Placydowi	Placyd	subst:sg:dat:m1	imię
 Placydów	Placyd	subst:pl:acc:m1	imię	
 Placydów	Placyd	subst:pl:gen:m1	imię	
 Placyd	Placyd	subst:sg:nom:m1	imię	
+Placydy	Placyd	depr:pl:acc:m2	imię	
 Placydy	Placyd	depr:pl:nom:m2	imię	
 Placydy	Placyd	depr:pl:voc:m2	imię	
 Placydzie	Placyd	subst:sg:loc:m1	imię	
@@ -7302,6 +7483,7 @@ Planckami	Planck	subst:pl:inst:m1	nazwisko
 Plancka	Planck	subst:sg:acc:m1	nazwisko	
 Plancka	Planck	subst:sg:gen:m1	nazwisko	
 Planckiem	Planck	subst:sg:inst:m1	nazwisko	
+Plancki	Planck	depr:pl:acc:m2	nazwisko	
 Plancki	Planck	depr:pl:nom:m2	nazwisko	
 Plancki	Planck	depr:pl:voc:m2	nazwisko	
 Planckom	Planck	subst:pl:dat:m1	nazwisko	
@@ -7353,6 +7535,7 @@ Platerowi	Plater	subst:sg:dat:m1	nazwisko
 Platerów	Plater	subst:pl:acc:m1	nazwisko	
 Platerów	Plater	subst:pl:gen:m1	nazwisko	
 Plater	Plater	subst:sg:nom:m1	nazwisko	
+Platery	Plater	depr:pl:acc:m2	nazwisko	
 Platery	Plater	depr:pl:nom:m2	nazwisko	
 Platery	Plater	depr:pl:voc:m2	nazwisko	
 Platerze	Plater	subst:sg:loc:m1	nazwisko	
@@ -7399,6 +7582,7 @@ Platonowie	Plato	subst:pl:voc:m1	imię
 Platonowi	Plato	subst:sg:dat:m1	imię	
 Platonów	Plato	subst:pl:acc:m1	imię	
 Platonów	Plato	subst:pl:gen:m1	imię	
+Platony	Plato	depr:pl:acc:m2	imię	
 Platony	Plato	depr:pl:nom:m2	imię	
 Platony	Plato	depr:pl:voc:m2	imię	
 Plato	Plato	subst:sg:nom:m1	imię	
@@ -7417,6 +7601,7 @@ Platonowi	Platon	subst:sg:dat:m1	imię
 Platonów	Platon	subst:pl:acc:m1	imię	
 Platonów	Platon	subst:pl:gen:m1	imię	
 Platon	Platon	subst:sg:nom:m1	imię	
+Platony	Platon	depr:pl:acc:m2	imię	
 Platony	Platon	depr:pl:nom:m2	imię	
 Platony	Platon	depr:pl:voc:m2	imię	
 Plaucie	Plaut	subst:sg:loc:m1	nazwisko	
@@ -7433,6 +7618,7 @@ Plautowi	Plaut	subst:sg:dat:m1	nazwisko
 Plautów	Plaut	subst:pl:acc:m1	nazwisko	
 Plautów	Plaut	subst:pl:gen:m1	nazwisko	
 Plaut	Plaut	subst:sg:nom:m1	nazwisko	
+Plauty	Plaut	depr:pl:acc:m2	nazwisko	
 Plauty	Plaut	depr:pl:nom:m2	nazwisko	
 Plauty	Plaut	depr:pl:voc:m2	nazwisko	
 Plawdze	Plawgo	subst:sg:dat:m1	nazwisko	
@@ -7441,6 +7627,7 @@ Plawgach	Plawgo	subst:pl:loc:m1	nazwisko
 Plawgami	Plawgo	subst:pl:inst:m1	nazwisko	
 Plawgą	Plawgo	subst:sg:inst:m1	nazwisko	
 Plawgę	Plawgo	subst:sg:acc:m1	nazwisko	
+Plawgi	Plawgo	depr:pl:acc:m2	nazwisko	
 Plawgi	Plawgo	depr:pl:nom:m2	nazwisko	
 Plawgi	Plawgo	depr:pl:voc:m2	nazwisko	
 Plawgi	Plawgo	subst:sg:gen:m1	nazwisko	
@@ -7465,6 +7652,7 @@ Plechanowowi	Plechanow	subst:sg:dat:m1	nazwisko
 Plechanowów	Plechanow	subst:pl:acc:m1	nazwisko	
 Plechanowów	Plechanow	subst:pl:gen:m1	nazwisko	
 Plechanow	Plechanow	subst:sg:nom:m1	nazwisko	
+Plechanowy	Plechanow	depr:pl:acc:m2	nazwisko	
 Plechanowy	Plechanow	depr:pl:nom:m2	nazwisko	
 Plechanowy	Plechanow	depr:pl:voc:m2	nazwisko	
 P.T	pleno_titulo	brev:pun		
@@ -7473,6 +7661,7 @@ Pliniuszami	Pliniusz	subst:pl:inst:m1	imię
 Pliniusza	Pliniusz	subst:sg:acc:m1	imię	
 Pliniusza	Pliniusz	subst:sg:gen:m1	imię	
 Pliniuszem	Pliniusz	subst:sg:inst:m1	imię	
+Pliniusze	Pliniusz	depr:pl:acc:m2	imię	
 Pliniusze	Pliniusz	depr:pl:nom:m2	imię	
 Pliniusze	Pliniusz	depr:pl:voc:m2	imię	
 Pliniusze	Pliniusz	subst:pl:nom:m1	imię	
@@ -7528,6 +7717,7 @@ Plotynowi	Plotyn	subst:sg:dat:m1	imię
 Plotynów	Plotyn	subst:pl:acc:m1	imię	
 Plotynów	Plotyn	subst:pl:gen:m1	imię	
 Plotyn	Plotyn	subst:sg:nom:m1	imię	
+Plotyny	Plotyn	depr:pl:acc:m2	imię	
 Plotyny	Plotyn	depr:pl:nom:m2	imię	
 Plotyny	Plotyn	depr:pl:voc:m2	imię	
 Plucińska	Plucińska	subst:sg:nom:f	nazwisko	
@@ -7552,6 +7742,7 @@ Plucińskich	Pluciński	subst:pl:loc:m1	nazwisko
 Plucińskiego	Pluciński	subst:sg:acc:m1	nazwisko	
 Plucińskiego	Pluciński	subst:sg:gen:m1	nazwisko	
 Plucińskiemu	Pluciński	subst:sg:dat:m1	nazwisko	
+Plucińskie	Pluciński	depr:pl:acc:m2	nazwisko	
 Plucińskie	Pluciński	depr:pl:nom:m2	nazwisko	
 Plucińskie	Pluciński	depr:pl:voc:m2	nazwisko	
 Plucińskimi	Pluciński	subst:pl:inst:m1	nazwisko	
@@ -7573,6 +7764,7 @@ Plutowie	Pluta	subst:pl:nom:m1	nazwisko
 Plutowie	Pluta	subst:pl:voc:m1	nazwisko	
 Plutów	Pluta	subst:pl:acc:m1	nazwisko	
 Plutów	Pluta	subst:pl:gen:m1	nazwisko	
+Pluty	Pluta	depr:pl:acc:m2	nazwisko	
 Pluty	Pluta	depr:pl:nom:m2	nazwisko	
 Pluty	Pluta	depr:pl:voc:m2	nazwisko	
 Pluty	Pluta	subst:sg:gen:m1	nazwisko	
@@ -7590,6 +7782,7 @@ Plutarchów	Plutarch	subst:pl:gen:m1	imię
 Plutarch	Plutarch	subst:sg:nom:m1	imię	
 Plutarchu	Plutarch	subst:sg:loc:m1	imię	
 Plutarchu	Plutarch	subst:sg:voc:m1	imię	
+Plutarchy	Plutarch	depr:pl:acc:m2	imię	
 Plutarchy	Plutarch	depr:pl:nom:m2	imię	
 Plutarchy	Plutarch	depr:pl:voc:m2	imię	
 Plutonach	Pluton:s1	subst:pl:loc:m1	imię	mit.
@@ -7606,6 +7799,7 @@ Plutonowi	Pluton:s1	subst:sg:dat:m1	imię	mit.
 Plutonów	Pluton:s1	subst:pl:acc:m1	imię	mit.
 Plutonów	Pluton:s1	subst:pl:gen:m1	imię	mit.
 Pluton	Pluton:s1	subst:sg:nom:m1	imię	mit.
+Plutony	Pluton:s1	depr:pl:acc:m2	imię	mit.
 Plutony	Pluton:s1	depr:pl:nom:m2	imię	mit.
 Plutony	Pluton:s1	depr:pl:voc:m2	imię	mit.
 Plutonach	Pluton:s2	subst:pl:loc:m2	nazwa własna astronomiczna	
@@ -7850,6 +8044,7 @@ Pobiedziskom	Pobiedziska	subst:pl:dat:n:pt	nazwa geograficzna
 Pobiedziskom	Pobiedziska	subst:pl:dat:n:pt	nazwa geograficzna	
 Pobiedzisk	Pobiedziska	subst:pl:gen:n:pt	nazwa geograficzna	
 Pobiedzisk	Pobiedziska	subst:pl:gen:n:pt	nazwa geograficzna	
+Pobóg	Pobóg	depr:pl:acc:m2	człon nazwiska (herb)	
 Pobóg	Pobóg	depr:pl:nom:m2	człon nazwiska (herb)	
 Pobóg	Pobóg	depr:pl:voc:m2	człon nazwiska (herb)	
 Pobóg	Pobóg	subst:pl:acc:m1	człon nazwiska (herb)	
@@ -7897,6 +8092,7 @@ Poczęsnym	Poczęsna	subst:pl:dat:f	nazwisko
 Poczęsnego	Poczęsny	subst:sg:acc:m1	nazwisko	
 Poczęsnego	Poczęsny	subst:sg:gen:m1	nazwisko	
 Poczęsnemu	Poczęsny	subst:sg:dat:m1	nazwisko	
+Poczęsne	Poczęsny	depr:pl:acc:m2	nazwisko	
 Poczęsne	Poczęsny	depr:pl:nom:m2	nazwisko	
 Poczęsne	Poczęsny	depr:pl:voc:m2	nazwisko	
 Poczęsnych	Poczęsny	subst:pl:acc:m1	nazwisko	
@@ -7924,6 +8120,7 @@ Poczobuttowi	Poczobutt	subst:sg:dat:m1	nazwisko
 Poczobuttów	Poczobutt	subst:pl:acc:m1	nazwisko	
 Poczobuttów	Poczobutt	subst:pl:gen:m1	nazwisko	
 Poczobutt	Poczobutt	subst:sg:nom:m1	nazwisko	
+Poczobutty	Poczobutt	depr:pl:acc:m2	nazwisko	
 Poczobutty	Poczobutt	depr:pl:nom:m2	nazwisko	
 Poczobutty	Poczobutt	depr:pl:voc:m2	nazwisko	
 PP	Poczta_Polska	brev:npun		
@@ -7956,6 +8153,7 @@ Podbipiętowie	Podbipięta	subst:pl:nom:m1	przydomek
 Podbipiętowie	Podbipięta	subst:pl:voc:m1	przydomek	
 Podbipiętów	Podbipięta	subst:pl:acc:m1	przydomek	
 Podbipiętów	Podbipięta	subst:pl:gen:m1	przydomek	
+Podbipięty	Podbipięta	depr:pl:acc:m2	przydomek	
 Podbipięty	Podbipięta	depr:pl:nom:m2	przydomek	
 Podbipięty	Podbipięta	depr:pl:voc:m2	przydomek	
 Podbipięty	Podbipięta	subst:sg:gen:m1	przydomek	
@@ -7990,6 +8188,7 @@ Podedwornym	Podedworna	subst:pl:dat:f	nazwisko
 Podedwornego	Podedworny	subst:sg:acc:m1	nazwisko	
 Podedwornego	Podedworny	subst:sg:gen:m1	nazwisko	
 Podedwornemu	Podedworny	subst:sg:dat:m1	nazwisko	
+Podedworne	Podedworny	depr:pl:acc:m2	nazwisko	
 Podedworne	Podedworny	depr:pl:nom:m2	nazwisko	
 Podedworne	Podedworny	depr:pl:voc:m2	nazwisko	
 Podedworni	Podedworny	subst:pl:nom:m1	nazwisko	
@@ -8020,6 +8219,7 @@ Podgajnym	Podgajna	subst:pl:dat:f	nazwisko
 Podgajnego	Podgajny	subst:sg:acc:m1	nazwisko	
 Podgajnego	Podgajny	subst:sg:gen:m1	nazwisko	
 Podgajnemu	Podgajny	subst:sg:dat:m1	nazwisko	
+Podgajne	Podgajny	depr:pl:acc:m2	nazwisko	
 Podgajne	Podgajny	depr:pl:nom:m2	nazwisko	
 Podgajne	Podgajny	depr:pl:voc:m2	nazwisko	
 Podgajni	Podgajny	subst:pl:nom:m1	nazwisko	
@@ -8041,6 +8241,7 @@ Podgórskich	Podgórski	subst:pl:loc:m1	nazwisko
 Podgórskiego	Podgórski	subst:sg:acc:m1	nazwisko	
 Podgórskiego	Podgórski	subst:sg:gen:m1	nazwisko	
 Podgórskiemu	Podgórski	subst:sg:dat:m1	nazwisko	
+Podgórskie	Podgórski	depr:pl:acc:m2	nazwisko	
 Podgórskie	Podgórski	depr:pl:nom:m2	nazwisko	
 Podgórskie	Podgórski	depr:pl:voc:m2	nazwisko	
 Podgórskimi	Podgórski	subst:pl:inst:m1	nazwisko	
@@ -8080,6 +8281,7 @@ Podgrudnym	Podgrudna	subst:pl:dat:f	nazwisko
 Podgrudnego	Podgrudny	subst:sg:acc:m1	nazwisko	
 Podgrudnego	Podgrudny	subst:sg:gen:m1	nazwisko	
 Podgrudnemu	Podgrudny	subst:sg:dat:m1	nazwisko	
+Podgrudne	Podgrudny	depr:pl:acc:m2	nazwisko	
 Podgrudne	Podgrudny	depr:pl:nom:m2	nazwisko	
 Podgrudne	Podgrudny	depr:pl:voc:m2	nazwisko	
 Podgrudni	Podgrudny	subst:pl:nom:m1	nazwisko	
@@ -8110,6 +8312,7 @@ Podhajnym	Podhajna	subst:pl:dat:f	nazwisko
 Podhajnego	Podhajny	subst:sg:acc:m1	nazwisko	
 Podhajnego	Podhajny	subst:sg:gen:m1	nazwisko	
 Podhajnemu	Podhajny	subst:sg:dat:m1	nazwisko	
+Podhajne	Podhajny	depr:pl:acc:m2	nazwisko	
 Podhajne	Podhajny	depr:pl:nom:m2	nazwisko	
 Podhajne	Podhajny	depr:pl:voc:m2	nazwisko	
 Podhajni	Podhajny	subst:pl:nom:m1	nazwisko	
@@ -8139,6 +8342,7 @@ Podhalanin	Podhalanin	subst:sg:nom:m1	nazwa pospolita
 Podhalanom	Podhalanin	subst:pl:dat:m1	nazwa pospolita	
 Podhalan	Podhalanin	subst:pl:acc:m1	nazwa pospolita	
 Podhalan	Podhalanin	subst:pl:gen:m1	nazwa pospolita	
+Podhalany	Podhalanin	depr:pl:acc:m2	nazwa pospolita	
 Podhalany	Podhalanin	depr:pl:nom:m2	nazwa pospolita	
 Podhalany	Podhalanin	depr:pl:voc:m2	nazwa pospolita	
 Podhalach	Podhale	subst:pl:loc:n:ncol	nazwa geograficzna	
@@ -8163,6 +8367,7 @@ Podhorskich	Podhorski	subst:pl:loc:m1	nazwisko
 Podhorskiego	Podhorski	subst:sg:acc:m1	nazwisko	
 Podhorskiego	Podhorski	subst:sg:gen:m1	nazwisko	
 Podhorskiemu	Podhorski	subst:sg:dat:m1	nazwisko	
+Podhorskie	Podhorski	depr:pl:acc:m2	nazwisko	
 Podhorskie	Podhorski	depr:pl:nom:m2	nazwisko	
 Podhorskie	Podhorski	depr:pl:voc:m2	nazwisko	
 Podhorskimi	Podhorski	subst:pl:inst:m1	nazwisko	
@@ -8275,6 +8480,7 @@ Podsiadli	Podsiadły	subst:pl:voc:m1	nazwisko
 Podsiadłego	Podsiadły	subst:sg:acc:m1	nazwisko	
 Podsiadłego	Podsiadły	subst:sg:gen:m1	nazwisko	
 Podsiadłemu	Podsiadły	subst:sg:dat:m1	nazwisko	
+Podsiadłe	Podsiadły	depr:pl:acc:m2	nazwisko	
 Podsiadłe	Podsiadły	depr:pl:nom:m2	nazwisko	
 Podsiadłe	Podsiadły	depr:pl:voc:m2	nazwisko	
 Podsiadłych	Podsiadły	subst:pl:acc:m1	nazwisko	
@@ -8307,6 +8513,7 @@ Poego	Poe	subst:sg:gen:m1	nazwisko
 Poem	Poe	subst:sg:inst:m1	nazwisko	
 Poem	Poe	subst:sg:loc:m1	nazwisko	
 Poemu	Poe	subst:sg:dat:m1	nazwisko	
+Poe	Poe	depr:pl:acc:m2	nazwisko	
 Poe	Poe	depr:pl:nom:m2	nazwisko	
 Poe	Poe	depr:pl:voc:m2	nazwisko	
 Poe	Poe	subst:pl:acc:m1	nazwisko	
@@ -8340,6 +8547,7 @@ Pogwizdowi	Pogwizd	subst:sg:dat:m1	imię
 Pogwizdów	Pogwizd	subst:pl:acc:m1	imię	
 Pogwizdów	Pogwizd	subst:pl:gen:m1	imię	
 Pogwizd	Pogwizd	subst:sg:nom:m1	imię	
+Pogwizdy	Pogwizd	depr:pl:acc:m2	imię	
 Pogwizdy	Pogwizd	depr:pl:nom:m2	imię	
 Pogwizdy	Pogwizd	depr:pl:voc:m2	imię	
 Pogwiździe	Pogwizd	subst:sg:loc:m1	imię	
@@ -8366,6 +8574,7 @@ Pokorskich	Pokorski	subst:pl:loc:m1	nazwisko
 Pokorskiego	Pokorski	subst:sg:acc:m1	nazwisko	
 Pokorskiego	Pokorski	subst:sg:gen:m1	nazwisko	
 Pokorskiemu	Pokorski	subst:sg:dat:m1	nazwisko	
+Pokorskie	Pokorski	depr:pl:acc:m2	nazwisko	
 Pokorskie	Pokorski	depr:pl:nom:m2	nazwisko	
 Pokorskie	Pokorski	depr:pl:voc:m2	nazwisko	
 Pokorskimi	Pokorski	subst:pl:inst:m1	nazwisko	
@@ -8393,6 +8602,7 @@ Polami	Pol	subst:pl:inst:m1	nazwisko
 Pola	Pol	subst:sg:acc:m1	nazwisko	
 Pola	Pol	subst:sg:gen:m1	nazwisko	
 Polem	Pol	subst:sg:inst:m1	nazwisko	
+Pole	Pol	depr:pl:acc:m2	nazwisko	
 Pole	Pol	depr:pl:nom:m2	nazwisko	
 Pole	Pol	depr:pl:voc:m2	nazwisko	
 Polom	Pol	subst:pl:dat:m1	nazwisko	
@@ -8424,6 +8634,7 @@ Polaczkami	Polaczek	subst:pl:inst:m1	nazwisko
 Polaczka	Polaczek	subst:sg:acc:m1	nazwisko	
 Polaczka	Polaczek	subst:sg:gen:m1	nazwisko	
 Polaczkiem	Polaczek	subst:sg:inst:m1	nazwisko	
+Polaczki	Polaczek	depr:pl:acc:m2	nazwisko	
 Polaczki	Polaczek	depr:pl:nom:m2	nazwisko	
 Polaczki	Polaczek	depr:pl:voc:m2	nazwisko	
 Polaczkom	Polaczek	subst:pl:dat:m1	nazwisko	
@@ -8456,6 +8667,7 @@ Polakowskich	Polakowski	subst:pl:loc:m1	nazwisko
 Polakowskiego	Polakowski	subst:sg:acc:m1	nazwisko	
 Polakowskiego	Polakowski	subst:sg:gen:m1	nazwisko	
 Polakowskiemu	Polakowski	subst:sg:dat:m1	nazwisko	
+Polakowskie	Polakowski	depr:pl:acc:m2	nazwisko	
 Polakowskie	Polakowski	depr:pl:nom:m2	nazwisko	
 Polakowskie	Polakowski	depr:pl:voc:m2	nazwisko	
 Polakowskimi	Polakowski	subst:pl:inst:m1	nazwisko	
@@ -8471,6 +8683,7 @@ Polakami	Polak:s1	subst:pl:inst:m1	nazwa pospolita
 Polaka	Polak:s1	subst:sg:acc:m1	nazwa pospolita	
 Polaka	Polak:s1	subst:sg:gen:m1	nazwa pospolita	
 Polakiem	Polak:s1	subst:sg:inst:m1	nazwa pospolita	
+Polaki	Polak:s1	depr:pl:acc:m2	nazwa pospolita	
 Polaki	Polak:s1	depr:pl:nom:m2	nazwa pospolita	
 Polaki	Polak:s1	depr:pl:voc:m2	nazwa pospolita	
 Polakom	Polak:s1	subst:pl:dat:m1	nazwa pospolita	
@@ -8485,6 +8698,7 @@ Polakami	Polak:s2	subst:pl:inst:m1	nazwisko
 Polaka	Polak:s2	subst:sg:acc:m1	nazwisko	
 Polaka	Polak:s2	subst:sg:gen:m1	nazwisko	
 Polakiem	Polak:s2	subst:sg:inst:m1	nazwisko	
+Polaki	Polak:s2	depr:pl:acc:m2	nazwisko	
 Polaki	Polak:s2	depr:pl:nom:m2	nazwisko	
 Polaki	Polak:s2	depr:pl:voc:m2	nazwisko	
 Polakom	Polak:s2	subst:pl:dat:m1	nazwisko	
@@ -8524,6 +8738,7 @@ Polanin	Polanin	subst:sg:nom:m1	nazwa pospolita
 Polanom	Polanin	subst:pl:dat:m1	nazwa pospolita	
 Polan	Polanin	subst:pl:acc:m1	nazwa pospolita	
 Polan	Polanin	subst:pl:gen:m1	nazwa pospolita	
+Polany	Polanin	depr:pl:acc:m2	nazwa pospolita	
 Polany	Polanin	depr:pl:nom:m2	nazwa pospolita	
 Polany	Polanin	depr:pl:voc:m2	nazwa pospolita	
 Polanowach	Polanów	subst:pl:loc:m3	nazwa geograficzna	
@@ -8563,6 +8778,7 @@ Polańskich	Polański	subst:pl:loc:m1	nazwisko
 Polańskiego	Polański	subst:sg:acc:m1	nazwisko	
 Polańskiego	Polański	subst:sg:gen:m1	nazwisko	
 Polańskiemu	Polański	subst:sg:dat:m1	nazwisko	
+Polańskie	Polański	depr:pl:acc:m2	nazwisko	
 Polańskie	Polański	depr:pl:nom:m2	nazwisko	
 Polańskie	Polański	depr:pl:voc:m2	nazwisko	
 Polańskimi	Polański	subst:pl:inst:m1	nazwisko	
@@ -8592,6 +8808,7 @@ Poldkami	Poldek	subst:pl:inst:m1	imię
 Poldka	Poldek	subst:sg:acc:m1	imię	
 Poldka	Poldek	subst:sg:gen:m1	imię	
 Poldkiem	Poldek	subst:sg:inst:m1	imię	
+Poldki	Poldek	depr:pl:acc:m2	imię	
 Poldki	Poldek	depr:pl:nom:m2	imię	
 Poldki	Poldek	depr:pl:voc:m2	imię	
 Poldkom	Poldek	subst:pl:dat:m1	imię	
@@ -8636,6 +8853,7 @@ Poldziami	Poldzio	subst:pl:inst:m1	imię
 Poldzia	Poldzio	subst:sg:acc:m1	imię	
 Poldzia	Poldzio	subst:sg:gen:m1	imię	
 Poldziem	Poldzio	subst:sg:inst:m1	imię	
+Poldzie	Poldzio	depr:pl:acc:m2	imię	
 Poldzie	Poldzio	depr:pl:nom:m2	imię	
 Poldzie	Poldzio	depr:pl:voc:m2	imię	
 Poldziom	Poldzio	subst:pl:dat:m1	imię	
@@ -8667,6 +8885,7 @@ Polkami	Polek	subst:pl:inst:m1	imię
 Polka	Polek	subst:sg:acc:m1	imię	
 Polka	Polek	subst:sg:gen:m1	imię	
 Polkiem	Polek	subst:sg:inst:m1	imię	
+Polki	Polek	depr:pl:acc:m2	imię	
 Polki	Polek	depr:pl:nom:m2	imię	
 Polki	Polek	depr:pl:voc:m2	imię	
 Polkom	Polek	subst:pl:dat:m1	imię	
@@ -8698,6 +8917,7 @@ Poleszukami	Poleszuk	subst:pl:inst:m1	nazwa pospolita
 Poleszuka	Poleszuk	subst:sg:acc:m1	nazwa pospolita	
 Poleszuka	Poleszuk	subst:sg:gen:m1	nazwa pospolita	
 Poleszukiem	Poleszuk	subst:sg:inst:m1	nazwa pospolita	
+Poleszuki	Poleszuk	depr:pl:acc:m2	nazwa pospolita	
 Poleszuki	Poleszuk	depr:pl:nom:m2	nazwa pospolita	
 Poleszuki	Poleszuk	depr:pl:voc:m2	nazwa pospolita	
 Poleszukom	Poleszuk	subst:pl:dat:m1	nazwa pospolita	
@@ -8712,6 +8932,7 @@ Polewojami	Polewoj	subst:pl:inst:m1	nazwisko
 Polewoja	Polewoj	subst:sg:acc:m1	nazwisko	
 Polewoja	Polewoj	subst:sg:gen:m1	nazwisko	
 Polewojem	Polewoj	subst:sg:inst:m1	nazwisko	
+Polewoje	Polewoj	depr:pl:acc:m2	nazwisko	
 Polewoje	Polewoj	depr:pl:nom:m2	nazwisko	
 Polewoje	Polewoj	depr:pl:voc:m2	nazwisko	
 Polewojom	Polewoj	subst:pl:dat:m1	nazwisko	
@@ -8779,6 +9000,7 @@ Polifemowi	Polifem	subst:sg:dat:m1	imię	mit.
 Polifemów	Polifem	subst:pl:acc:m1	imię	mit.
 Polifemów	Polifem	subst:pl:gen:m1	imię	mit.
 Polifem	Polifem	subst:sg:nom:m1	imię	mit.
+Polifemy	Polifem	depr:pl:acc:m2	imię	mit.
 Polifemy	Polifem	depr:pl:nom:m2	imię	mit.
 Polifemy	Polifem	depr:pl:voc:m2	imię	mit.
 Polihymniach	Polihymnia	subst:pl:loc:f	imię	mit.
@@ -8810,6 +9032,7 @@ Polikarpowi	Polikarp	subst:sg:dat:m1	imię
 Polikarpów	Polikarp	subst:pl:acc:m1	imię	
 Polikarpów	Polikarp	subst:pl:gen:m1	imię	
 Polikarp	Polikarp	subst:sg:nom:m1	imię	
+Polikarpy	Polikarp	depr:pl:acc:m2	imię	
 Polikarpy	Polikarp	depr:pl:nom:m2	imię	
 Polikarpy	Polikarp	depr:pl:voc:m2	imię	
 Polikarpek	Polikarpek	subst:sg:nom:m1	imię	
@@ -8818,6 +9041,7 @@ Polikarpkami	Polikarpek	subst:pl:inst:m1	imię
 Polikarpka	Polikarpek	subst:sg:acc:m1	imię	
 Polikarpka	Polikarpek	subst:sg:gen:m1	imię	
 Polikarpkiem	Polikarpek	subst:sg:inst:m1	imię	
+Polikarpki	Polikarpek	depr:pl:acc:m2	imię	
 Polikarpki	Polikarpek	depr:pl:nom:m2	imię	
 Polikarpki	Polikarpek	depr:pl:voc:m2	imię	
 Polikarpkom	Polikarpek	subst:pl:dat:m1	imię	
@@ -8833,6 +9057,7 @@ Polikarpikami	Polikarpik	subst:pl:inst:m1	imię
 Polikarpika	Polikarpik	subst:sg:acc:m1	imię	
 Polikarpika	Polikarpik	subst:sg:gen:m1	imię	
 Polikarpikiem	Polikarpik	subst:sg:inst:m1	imię	
+Polikarpiki	Polikarpik	depr:pl:acc:m2	imię	
 Polikarpiki	Polikarpik	depr:pl:nom:m2	imię	
 Polikarpiki	Polikarpik	depr:pl:voc:m2	imię	
 Polikarpikom	Polikarpik	subst:pl:dat:m1	imię	
@@ -8881,6 +9106,7 @@ Politowskich	Politowski	subst:pl:loc:m1	nazwisko
 Politowskiego	Politowski	subst:sg:acc:m1	nazwisko	
 Politowskiego	Politowski	subst:sg:gen:m1	nazwisko	
 Politowskiemu	Politowski	subst:sg:dat:m1	nazwisko	
+Politowskie	Politowski	depr:pl:acc:m2	nazwisko	
 Politowskie	Politowski	depr:pl:nom:m2	nazwisko	
 Politowskie	Politowski	depr:pl:voc:m2	nazwisko	
 Politowskimi	Politowski	subst:pl:inst:m1	nazwisko	
@@ -8939,6 +9165,7 @@ Polkowskich	Polkowski	subst:pl:loc:m1	nazwisko
 Polkowskiego	Polkowski	subst:sg:acc:m1	nazwisko	
 Polkowskiego	Polkowski	subst:sg:gen:m1	nazwisko	
 Polkowskiemu	Polkowski	subst:sg:dat:m1	nazwisko	
+Polkowskie	Polkowski	depr:pl:acc:m2	nazwisko	
 Polkowskie	Polkowski	depr:pl:nom:m2	nazwisko	
 Polkowskie	Polkowski	depr:pl:voc:m2	nazwisko	
 Polkowskimi	Polkowski	subst:pl:inst:m1	nazwisko	
@@ -8977,6 +9204,7 @@ Polluksowi	Polluks	subst:sg:dat:m1	imię	mit.
 Polluksów	Polluks	subst:pl:acc:m1	imię	mit.
 Polluksów	Polluks	subst:pl:gen:m1	imię	mit.
 Polluks	Polluks	subst:sg:nom:m1	imię	mit.
+Polluksy	Polluks	depr:pl:acc:m2	imię	mit.
 Polluksy	Polluks	depr:pl:nom:m2	imię	mit.
 Polluksy	Polluks	depr:pl:voc:m2	imię	mit.
 Polmosach	Polmos	subst:pl:loc:m3	nazwa firmy	
@@ -9012,9 +9240,11 @@ Polami	Polo	subst:pl:inst:m1	nazwisko
 Pola	Polo	subst:sg:acc:m1	nazwisko	
 Pola	Polo	subst:sg:gen:m1	nazwisko	
 Polem	Polo	subst:sg:inst:m1	nazwisko	
+Pole	Polo	depr:pl:acc:m2	nazwisko	
 Pole	Polo	depr:pl:nom:m2	nazwisko	
 Pole	Polo	depr:pl:voc:m2	nazwisko	
 Polom	Polo	subst:pl:dat:m1	nazwisko	
+Polo	Polo	depr:pl:acc:m2	nazwisko	
 Polo	Polo	depr:pl:nom:m2	nazwisko	
 Polo	Polo	depr:pl:voc:m2	nazwisko	
 Polo	Polo	subst:pl:acc:m1	nazwisko	
@@ -9057,6 +9287,7 @@ Poloniuszami	Poloniusz	subst:pl:inst:m1	imię
 Poloniusza	Poloniusz	subst:sg:acc:m1	imię	
 Poloniusza	Poloniusz	subst:sg:gen:m1	imię	
 Poloniuszem	Poloniusz	subst:sg:inst:m1	imię	
+Poloniusze	Poloniusz	depr:pl:acc:m2	imię	
 Poloniusze	Poloniusz	depr:pl:nom:m2	imię	
 Poloniusze	Poloniusz	depr:pl:voc:m2	imię	
 Poloniusze	Poloniusz	subst:pl:nom:m1	imię	
@@ -9100,6 +9331,7 @@ Polonusowi	Polonus	subst:sg:dat:m1	nazwa pospolita
 Polonusów	Polonus	subst:pl:acc:m1	nazwa pospolita	
 Polonusów	Polonus	subst:pl:gen:m1	nazwa pospolita	
 Polonus	Polonus	subst:sg:nom:m1	nazwa pospolita	
+Polonusy	Polonus	depr:pl:acc:m2	nazwa pospolita	
 Polonusy	Polonus	depr:pl:nom:m2	nazwa pospolita	
 Polonusy	Polonus	depr:pl:voc:m2	nazwa pospolita	
 Polsacie	Polsat	subst:sg:loc:m3	nazwa firmy	
@@ -9189,6 +9421,7 @@ Połabianin	Połabianin	subst:sg:nom:m1	nazwa pospolita
 Połabianom	Połabianin	subst:pl:dat:m1	nazwa pospolita	
 Połabian	Połabianin	subst:pl:acc:m1	nazwa pospolita	
 Połabian	Połabianin	subst:pl:gen:m1	nazwa pospolita	
+Połabiany	Połabianin	depr:pl:acc:m2	nazwa pospolita	
 Połabiany	Połabianin	depr:pl:nom:m2	nazwa pospolita	
 Połabiany	Połabianin	depr:pl:voc:m2	nazwa pospolita	
 Połabiance	Połabianka	subst:sg:dat:f	nazwa pospolita	
@@ -9289,6 +9522,7 @@ Połoczanin	Połoczanin	subst:sg:nom:m1	nazwa pospolita
 Połoczanom	Połoczanin	subst:pl:dat:m1	nazwa pospolita	
 Połoczan	Połoczanin	subst:pl:acc:m1	nazwa pospolita	
 Połoczan	Połoczanin	subst:pl:gen:m1	nazwa pospolita	
+Połoczany	Połoczanin	depr:pl:acc:m2	nazwa pospolita	
 Połoczany	Połoczanin	depr:pl:nom:m2	nazwa pospolita	
 Połoczany	Połoczanin	depr:pl:voc:m2	nazwa pospolita	
 Połowcach	Połowiec	subst:pl:loc:m1	nazwa pospolita	
@@ -9296,6 +9530,7 @@ Połowcami	Połowiec	subst:pl:inst:m1	nazwa pospolita
 Połowca	Połowiec	subst:sg:acc:m1	nazwa pospolita	
 Połowca	Połowiec	subst:sg:gen:m1	nazwa pospolita	
 Połowcem	Połowiec	subst:sg:inst:m1	nazwa pospolita	
+Połowce	Połowiec	depr:pl:acc:m2	nazwa pospolita	
 Połowce	Połowiec	depr:pl:nom:m2	nazwa pospolita	
 Połowce	Połowiec	depr:pl:voc:m2	nazwa pospolita	
 Połowcom	Połowiec	subst:pl:dat:m1	nazwa pospolita	
@@ -9374,6 +9609,7 @@ Pomianowskich	Pomianowski	subst:pl:loc:m1	nazwisko
 Pomianowskiego	Pomianowski	subst:sg:acc:m1	nazwisko	
 Pomianowskiego	Pomianowski	subst:sg:gen:m1	nazwisko	
 Pomianowskiemu	Pomianowski	subst:sg:dat:m1	nazwisko	
+Pomianowskie	Pomianowski	depr:pl:acc:m2	nazwisko	
 Pomianowskie	Pomianowski	depr:pl:nom:m2	nazwisko	
 Pomianowskie	Pomianowski	depr:pl:voc:m2	nazwisko	
 Pomianowskimi	Pomianowski	subst:pl:inst:m1	nazwisko	
@@ -9396,6 +9632,7 @@ Pomorzanin	Pomorzanin	subst:sg:nom:m1	nazwa pospolita
 Pomorzanom	Pomorzanin	subst:pl:dat:m1	nazwa pospolita	
 Pomorzan	Pomorzanin	subst:pl:acc:m1	nazwa pospolita	
 Pomorzan	Pomorzanin	subst:pl:gen:m1	nazwa pospolita	
+Pomorzany	Pomorzanin	depr:pl:acc:m2	nazwa pospolita	
 Pomorzany	Pomorzanin	depr:pl:nom:m2	nazwa pospolita	
 Pomorzany	Pomorzanin	depr:pl:voc:m2	nazwa pospolita	
 Pomorzach	Pomorze	subst:pl:loc:n:ncol	nazwa geograficzna	
@@ -9445,6 +9682,7 @@ Pompejuszami	Pompejusz	subst:pl:inst:m1	imię
 Pompejusza	Pompejusz	subst:sg:acc:m1	imię	
 Pompejusza	Pompejusz	subst:sg:gen:m1	imię	
 Pompejuszem	Pompejusz	subst:sg:inst:m1	imię	
+Pompejusze	Pompejusz	depr:pl:acc:m2	imię	
 Pompejusze	Pompejusz	depr:pl:nom:m2	imię	
 Pompejusze	Pompejusz	depr:pl:voc:m2	imię	
 Pompejusze	Pompejusz	subst:pl:nom:m1	imię	
@@ -9458,6 +9696,7 @@ Pompejuszów	Pompejusz	subst:pl:gen:m1	imię
 Pompejusz	Pompejusz	subst:sg:nom:m1	imię	
 Pompejuszu	Pompejusz	subst:sg:loc:m1	imię	
 Pompejuszu	Pompejusz	subst:sg:voc:m1	imię	
+Pompidou	Pompidou	depr:pl:acc:m2	nazwisko	
 Pompidou	Pompidou	depr:pl:nom:m2	nazwisko	
 Pompidou	Pompidou	depr:pl:voc:m2	nazwisko	
 Pompidou	Pompidou	subst:pl:acc:m1	nazwisko	
@@ -9479,6 +9718,7 @@ Poncjuszami	Poncjusz	subst:pl:inst:m1	imię
 Poncjusza	Poncjusz	subst:sg:acc:m1	imię	
 Poncjusza	Poncjusz	subst:sg:gen:m1	imię	
 Poncjuszem	Poncjusz	subst:sg:inst:m1	imię	
+Poncjusze	Poncjusz	depr:pl:acc:m2	imię	
 Poncjusze	Poncjusz	depr:pl:nom:m2	imię	
 Poncjusze	Poncjusz	depr:pl:voc:m2	imię	
 Poncjusze	Poncjusz	subst:pl:nom:m1	imię	
@@ -9528,6 +9768,7 @@ Poniatowskich	Poniatowski	subst:pl:loc:m1	nazwisko
 Poniatowskiego	Poniatowski	subst:sg:acc:m1	nazwisko	
 Poniatowskiego	Poniatowski	subst:sg:gen:m1	nazwisko	
 Poniatowskiemu	Poniatowski	subst:sg:dat:m1	nazwisko	
+Poniatowskie	Poniatowski	depr:pl:acc:m2	nazwisko	
 Poniatowskie	Poniatowski	depr:pl:nom:m2	nazwisko	
 Poniatowskie	Poniatowski	depr:pl:voc:m2	nazwisko	
 Poniatowskimi	Poniatowski	subst:pl:inst:m1	nazwisko	
@@ -9569,6 +9810,7 @@ Popielami	Popiel	subst:pl:inst:m1	imię
 Popiela	Popiel	subst:sg:acc:m1	imię	
 Popiela	Popiel	subst:sg:gen:m1	imię	
 Popielem	Popiel	subst:sg:inst:m1	imię	
+Popiele	Popiel	depr:pl:acc:m2	imię	
 Popiele	Popiel	depr:pl:nom:m2	imię	
 Popiele	Popiel	depr:pl:voc:m2	imię	
 Popiele	Popiel	subst:pl:nom:m1	imię	
@@ -9617,6 +9859,7 @@ Popiełuszkach	Popiełuszko	subst:pl:loc:m1	nazwisko
 Popiełuszkami	Popiełuszko	subst:pl:inst:m1	nazwisko	
 Popiełuszką	Popiełuszko	subst:sg:inst:m1	nazwisko	
 Popiełuszkę	Popiełuszko	subst:sg:acc:m1	nazwisko	
+Popiełuszki	Popiełuszko	depr:pl:acc:m2	nazwisko	
 Popiełuszki	Popiełuszko	depr:pl:nom:m2	nazwisko	
 Popiełuszki	Popiełuszko	depr:pl:voc:m2	nazwisko	
 Popiełuszki	Popiełuszko	subst:sg:gen:m1	nazwisko	
@@ -9649,6 +9892,7 @@ Popławskich	Popławski	subst:pl:loc:m1	nazwisko
 Popławskiego	Popławski	subst:sg:acc:m1	nazwisko	
 Popławskiego	Popławski	subst:sg:gen:m1	nazwisko	
 Popławskiemu	Popławski	subst:sg:dat:m1	nazwisko	
+Popławskie	Popławski	depr:pl:acc:m2	nazwisko	
 Popławskie	Popławski	depr:pl:nom:m2	nazwisko	
 Popławskie	Popławski	depr:pl:voc:m2	nazwisko	
 Popławskimi	Popławski	subst:pl:inst:m1	nazwisko	
@@ -9684,6 +9928,7 @@ Popperowi	Popper	subst:sg:dat:m1	nazwisko
 Popperów	Popper	subst:pl:acc:m1	nazwisko	
 Popperów	Popper	subst:pl:gen:m1	nazwisko	
 Popper	Popper	subst:sg:nom:m1	nazwisko	
+Poppery	Popper	depr:pl:acc:m2	nazwisko	
 Poppery	Popper	depr:pl:nom:m2	nazwisko	
 Poppery	Popper	depr:pl:voc:m2	nazwisko	
 Popperze	Popper	subst:sg:loc:m1	nazwisko	
@@ -9738,6 +9983,7 @@ Porczyńskich	Porczyński	subst:pl:loc:m1	nazwisko
 Porczyńskiego	Porczyński	subst:sg:acc:m1	nazwisko	
 Porczyńskiego	Porczyński	subst:sg:gen:m1	nazwisko	
 Porczyńskiemu	Porczyński	subst:sg:dat:m1	nazwisko	
+Porczyńskie	Porczyński	depr:pl:acc:m2	nazwisko	
 Porczyńskie	Porczyński	depr:pl:nom:m2	nazwisko	
 Porczyńskie	Porczyński	depr:pl:voc:m2	nazwisko	
 Porczyńskimi	Porczyński	subst:pl:inst:m1	nazwisko	
@@ -9760,6 +10006,7 @@ Porenutowi	Porenut	subst:sg:dat:m1	imię
 Porenutów	Porenut	subst:pl:acc:m1	imię	
 Porenutów	Porenut	subst:pl:gen:m1	imię	
 Porenut	Porenut	subst:sg:nom:m1	imię	
+Porenuty	Porenut	depr:pl:acc:m2	imię	
 Porenuty	Porenut	depr:pl:nom:m2	imię	
 Porenuty	Porenut	depr:pl:voc:m2	imię	
 Porewicie	Porewit	subst:sg:loc:m1	imię	
@@ -9776,6 +10023,7 @@ Porewitowi	Porewit	subst:sg:dat:m1	imię
 Porewitów	Porewit	subst:pl:acc:m1	imię	
 Porewitów	Porewit	subst:pl:gen:m1	imię	
 Porewit	Porewit	subst:sg:nom:m1	imię	
+Porewity	Porewit	depr:pl:acc:m2	imię	
 Porewity	Porewit	depr:pl:nom:m2	imię	
 Porewity	Porewit	depr:pl:voc:m2	imię	
 Porębna	Porębna	subst:sg:nom:f	nazwisko	
@@ -9795,6 +10043,7 @@ Porębnym	Porębna	subst:pl:dat:f	nazwisko
 Porębnego	Porębny	subst:sg:acc:m1	nazwisko	
 Porębnego	Porębny	subst:sg:gen:m1	nazwisko	
 Porębnemu	Porębny	subst:sg:dat:m1	nazwisko	
+Porębne	Porębny	depr:pl:acc:m2	nazwisko	
 Porębne	Porębny	depr:pl:nom:m2	nazwisko	
 Porębne	Porębny	depr:pl:voc:m2	nazwisko	
 Porębni	Porębny	subst:pl:nom:m1	nazwisko	
@@ -9824,6 +10073,7 @@ Porfirionowi	Porfirion	subst:sg:dat:m1	imię
 Porfirionów	Porfirion	subst:pl:acc:m1	imię	
 Porfirionów	Porfirion	subst:pl:gen:m1	imię	
 Porfirion	Porfirion	subst:sg:nom:m1	imię	
+Porfiriony	Porfirion	depr:pl:acc:m2	imię	
 Porfiriony	Porfirion	depr:pl:nom:m2	imię	
 Porfiriony	Porfirion	depr:pl:voc:m2	imię	
 Porfiriuszach	Porfiriusz	subst:pl:loc:m1	imię	
@@ -9831,6 +10081,7 @@ Porfiriuszami	Porfiriusz	subst:pl:inst:m1	imię
 Porfiriusza	Porfiriusz	subst:sg:acc:m1	imię	
 Porfiriusza	Porfiriusz	subst:sg:gen:m1	imię	
 Porfiriuszem	Porfiriusz	subst:sg:inst:m1	imię	
+Porfiriusze	Porfiriusz	depr:pl:acc:m2	imię	
 Porfiriusze	Porfiriusz	depr:pl:nom:m2	imię	
 Porfiriusze	Porfiriusz	depr:pl:voc:m2	imię	
 Porfiriusze	Porfiriusz	subst:pl:nom:m1	imię	
@@ -9869,6 +10120,7 @@ Porosłowie	Porosło	subst:pl:nom:m1	nazwisko
 Porosłowie	Porosło	subst:pl:voc:m1	nazwisko	
 Porosłów	Porosło	subst:pl:acc:m1	nazwisko	
 Porosłów	Porosło	subst:pl:gen:m1	nazwisko	
+Porosły	Porosło	depr:pl:acc:m2	nazwisko	
 Porosły	Porosło	depr:pl:nom:m2	nazwisko	
 Porosły	Porosło	depr:pl:voc:m2	nazwisko	
 Porosły	Porosło	subst:sg:gen:m1	nazwisko	
@@ -9930,6 +10182,7 @@ Portorykanin	Portorykanin	subst:sg:nom:m1	nazwa pospolita
 Portorykanom	Portorykanin	subst:pl:dat:m1	nazwa pospolita	
 Portorykanów	Portorykanin	subst:pl:acc:m1	nazwa pospolita	
 Portorykanów	Portorykanin	subst:pl:gen:m1	nazwa pospolita	
+Portorykany	Portorykanin	depr:pl:acc:m2	nazwa pospolita	
 Portorykany	Portorykanin	depr:pl:nom:m2	nazwa pospolita	
 Portorykany	Portorykanin	depr:pl:voc:m2	nazwa pospolita	
 Portorykance	Portorykanka	subst:sg:dat:f	nazwa pospolita	
@@ -9953,6 +10206,7 @@ Portorykańczykami	Portorykańczyk	subst:pl:inst:m1	nazwa pospolita
 Portorykańczyka	Portorykańczyk	subst:sg:acc:m1	nazwa pospolita	
 Portorykańczyka	Portorykańczyk	subst:sg:gen:m1	nazwa pospolita	
 Portorykańczykiem	Portorykańczyk	subst:sg:inst:m1	nazwa pospolita	
+Portorykańczyki	Portorykańczyk	depr:pl:acc:m2	nazwa pospolita	
 Portorykańczyki	Portorykańczyk	depr:pl:nom:m2	nazwa pospolita	
 Portorykańczyki	Portorykańczyk	depr:pl:voc:m2	nazwa pospolita	
 Portorykańczykom	Portorykańczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -9994,6 +10248,7 @@ Portugalczykami	Portugalczyk	subst:pl:inst:m1	nazwa pospolita
 Portugalczyka	Portugalczyk	subst:sg:acc:m1	nazwa pospolita	
 Portugalczyka	Portugalczyk	subst:sg:gen:m1	nazwa pospolita	
 Portugalczykiem	Portugalczyk	subst:sg:inst:m1	nazwa pospolita	
+Portugalczyki	Portugalczyk	depr:pl:acc:m2	nazwa pospolita	
 Portugalczyki	Portugalczyk	depr:pl:nom:m2	nazwa pospolita	
 Portugalczyki	Portugalczyk	depr:pl:voc:m2	nazwa pospolita	
 Portugalczykom	Portugalczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -10048,6 +10303,7 @@ Posejdonowi	Posejdon	subst:sg:dat:m1	imię	mit.
 Posejdonów	Posejdon	subst:pl:acc:m1	imię	mit.
 Posejdonów	Posejdon	subst:pl:gen:m1	imię	mit.
 Posejdon	Posejdon	subst:sg:nom:m1	imię	mit.
+Posejdony	Posejdon	depr:pl:acc:m2	imię	mit.
 Posejdony	Posejdon	depr:pl:nom:m2	imię	mit.
 Posejdony	Posejdon	depr:pl:voc:m2	imię	mit.
 Postrożna	Postrożna	subst:sg:nom:f	nazwisko	
@@ -10067,6 +10323,7 @@ Postrożnym	Postrożna	subst:pl:dat:f	nazwisko
 Postrożnego	Postrożny	subst:sg:acc:m1	nazwisko	
 Postrożnego	Postrożny	subst:sg:gen:m1	nazwisko	
 Postrożnemu	Postrożny	subst:sg:dat:m1	nazwisko	
+Postrożne	Postrożny	depr:pl:acc:m2	nazwisko	
 Postrożne	Postrożny	depr:pl:nom:m2	nazwisko	
 Postrożne	Postrożny	depr:pl:voc:m2	nazwisko	
 Postrożni	Postrożny	subst:pl:nom:m1	nazwisko	
@@ -10089,6 +10346,7 @@ Poświatowskich	Poświatowski	subst:pl:loc:m1	nazwisko
 Poświatowskiego	Poświatowski	subst:sg:acc:m1	nazwisko	
 Poświatowskiego	Poświatowski	subst:sg:gen:m1	nazwisko	
 Poświatowskiemu	Poświatowski	subst:sg:dat:m1	nazwisko	
+Poświatowskie	Poświatowski	depr:pl:acc:m2	nazwisko	
 Poświatowskie	Poświatowski	depr:pl:nom:m2	nazwisko	
 Poświatowskie	Poświatowski	depr:pl:voc:m2	nazwisko	
 Poświatowskimi	Poświatowski	subst:pl:inst:m1	nazwisko	
@@ -10111,12 +10369,14 @@ Potowi	Pot	subst:sg:dat:m1	nazwisko
 Potów	Pot	subst:pl:acc:m1	nazwisko	
 Potów	Pot	subst:pl:gen:m1	nazwisko	
 Pot	Pot	subst:sg:nom:m1	nazwisko	
+Poty	Pot	depr:pl:acc:m2	nazwisko	
 Poty	Pot	depr:pl:nom:m2	nazwisko	
 Poty	Pot	depr:pl:voc:m2	nazwisko	
 Potebniach	Potebnia	subst:pl:loc:m1	nazwisko	
 Potebniami	Potebnia	subst:pl:inst:m1	nazwisko	
 Potebnia	Potebnia	subst:sg:nom:m1	nazwisko	
 Potebnią	Potebnia	subst:sg:inst:m1	nazwisko	
+Potebnie	Potebnia	depr:pl:acc:m2	nazwisko	
 Potebnie	Potebnia	depr:pl:nom:m2	nazwisko	
 Potebnie	Potebnia	depr:pl:voc:m2	nazwisko	
 Potebnię	Potebnia	subst:sg:acc:m1	nazwisko	
@@ -10159,6 +10419,7 @@ Potiomkinowi	Potiomkin	subst:sg:dat:m1	nazwisko
 Potiomkinów	Potiomkin	subst:pl:acc:m1	nazwisko	
 Potiomkinów	Potiomkin	subst:pl:gen:m1	nazwisko	
 Potiomkin	Potiomkin	subst:sg:nom:m1	nazwisko	
+Potiomkiny	Potiomkin	depr:pl:acc:m2	nazwisko	
 Potiomkiny	Potiomkin	depr:pl:nom:m2	nazwisko	
 Potiomkiny	Potiomkin	depr:pl:voc:m2	nazwisko	
 Potocka	Potocka	subst:sg:nom:f	nazwisko	
@@ -10183,6 +10444,7 @@ Potockich	Potocki	subst:pl:loc:m1	nazwisko
 Potockiego	Potocki	subst:sg:acc:m1	nazwisko	
 Potockiego	Potocki	subst:sg:gen:m1	nazwisko	
 Potockiemu	Potocki	subst:sg:dat:m1	nazwisko	
+Potockie	Potocki	depr:pl:acc:m2	nazwisko	
 Potockie	Potocki	depr:pl:nom:m2	nazwisko	
 Potockie	Potocki	depr:pl:voc:m2	nazwisko	
 Potockimi	Potocki	subst:pl:inst:m1	nazwisko	
@@ -10234,6 +10496,7 @@ Poulenc	Poulenc	subst:sg:nom:m1	nazwisko
 Poulencu	Poulenc	subst:sg:loc:m1	nazwisko	
 Poulencu	Poulenc	subst:sg:voc:m1	nazwisko	
 Poulenkiem	Poulenc	subst:sg:inst:m1	nazwisko	
+Poulenki	Poulenc	depr:pl:acc:m2	nazwisko	
 Poulenki	Poulenc	depr:pl:nom:m2	nazwisko	
 Poulenki	Poulenc	depr:pl:voc:m2	nazwisko	
 POW	POW	subst:pl:acc:f	nazwa organizacji	
@@ -10269,6 +10532,7 @@ Powellami	Powell	subst:pl:inst:m1	nazwisko
 Powella	Powell	subst:sg:acc:m1	nazwisko	
 Powella	Powell	subst:sg:gen:m1	nazwisko	
 Powellem	Powell	subst:sg:inst:m1	nazwisko	
+Powelle	Powell	depr:pl:acc:m2	nazwisko	
 Powelle	Powell	depr:pl:nom:m2	nazwisko	
 Powelle	Powell	depr:pl:voc:m2	nazwisko	
 Powellom	Powell	subst:pl:dat:m1	nazwisko	
@@ -10331,6 +10595,7 @@ Półtawskich	Półtawski	subst:pl:loc:m1	nazwisko
 Półtawskiego	Półtawski	subst:sg:acc:m1	nazwisko	
 Półtawskiego	Półtawski	subst:sg:gen:m1	nazwisko	
 Półtawskiemu	Półtawski	subst:sg:dat:m1	nazwisko	
+Półtawskie	Półtawski	depr:pl:acc:m2	nazwisko	
 Półtawskie	Półtawski	depr:pl:nom:m2	nazwisko	
 Półtawskie	Półtawski	depr:pl:voc:m2	nazwisko	
 Półtawskimi	Półtawski	subst:pl:inst:m1	nazwisko	
@@ -10533,6 +10798,7 @@ Pragermanowie	Pragermanin	subst:pl:nom:m1	nazwa pospolita
 Pragermanowie	Pragermanin	subst:pl:voc:m1	nazwa pospolita	
 Pragermanów	Pragermanin	subst:pl:acc:m1	nazwa pospolita	
 Pragermanów	Pragermanin	subst:pl:gen:m1	nazwa pospolita	
+Pragermany	Pragermanin	depr:pl:acc:m2	nazwa pospolita	
 Pragermany	Pragermanin	depr:pl:nom:m2	nazwa pospolita	
 Pragermany	Pragermanin	depr:pl:voc:m2	nazwa pospolita	
 Pradze	Praha	subst:sg:dat:f	nazwa geograficzna	
@@ -10577,6 +10843,7 @@ Prasłowianin	Prasłowianin	subst:sg:nom:m1	nazwa pospolita
 Prasłowianom	Prasłowianin	subst:pl:dat:m1	nazwa pospolita	
 Prasłowian	Prasłowianin	subst:pl:acc:m1	nazwa pospolita	
 Prasłowian	Prasłowianin	subst:pl:gen:m1	nazwa pospolita	
+Prasłowiany	Prasłowianin	depr:pl:acc:m2	nazwa pospolita	
 Prasłowiany	Prasłowianin	depr:pl:nom:m2	nazwa pospolita	
 Prasłowiany	Prasłowianin	depr:pl:voc:m2	nazwa pospolita	
 Praszce	Praszka	subst:sg:dat:f	nazwa geograficzna	
@@ -10601,6 +10868,7 @@ Prażmowskich	Prażmowski	subst:pl:loc:m1	nazwisko
 Prażmowskiego	Prażmowski	subst:sg:acc:m1	nazwisko	
 Prażmowskiego	Prażmowski	subst:sg:gen:m1	nazwisko	
 Prażmowskiemu	Prażmowski	subst:sg:dat:m1	nazwisko	
+Prażmowskie	Prażmowski	depr:pl:acc:m2	nazwisko	
 Prażmowskie	Prażmowski	depr:pl:nom:m2	nazwisko	
 Prażmowskie	Prażmowski	depr:pl:voc:m2	nazwisko	
 Prażmowskimi	Prażmowski	subst:pl:inst:m1	nazwisko	
@@ -10645,6 +10913,7 @@ Prądzyńskich	Prądzyński	subst:pl:loc:m1	nazwisko
 Prądzyńskiego	Prądzyński	subst:sg:acc:m1	nazwisko	
 Prądzyńskiego	Prądzyński	subst:sg:gen:m1	nazwisko	
 Prądzyńskiemu	Prądzyński	subst:sg:dat:m1	nazwisko	
+Prądzyńskie	Prądzyński	depr:pl:acc:m2	nazwisko	
 Prądzyńskie	Prądzyński	depr:pl:nom:m2	nazwisko	
 Prądzyńskie	Prądzyński	depr:pl:voc:m2	nazwisko	
 Prądzyńskimi	Prądzyński	subst:pl:inst:m1	nazwisko	
@@ -10665,6 +10934,7 @@ Preisnerowi	Preisner	subst:sg:dat:m1	nazwisko
 Preisnerów	Preisner	subst:pl:acc:m1	nazwisko	
 Preisnerów	Preisner	subst:pl:gen:m1	nazwisko	
 Preisner	Preisner	subst:sg:nom:m1	nazwisko	
+Preisnery	Preisner	depr:pl:acc:m2	nazwisko	
 Preisnery	Preisner	depr:pl:nom:m2	nazwisko	
 Preisnery	Preisner	depr:pl:voc:m2	nazwisko	
 Preisnerze	Preisner	subst:sg:loc:m1	nazwisko	
@@ -10691,6 +10961,7 @@ Prentkich	Prentki	subst:pl:loc:m1	nazwisko
 Prentkiego	Prentki	subst:sg:acc:m1	nazwisko	
 Prentkiego	Prentki	subst:sg:gen:m1	nazwisko	
 Prentkiemu	Prentki	subst:sg:dat:m1	nazwisko	
+Prentkie	Prentki	depr:pl:acc:m2	nazwisko	
 Prentkie	Prentki	depr:pl:nom:m2	nazwisko	
 Prentkie	Prentki	depr:pl:voc:m2	nazwisko	
 Prentkimi	Prentki	subst:pl:inst:m1	nazwisko	
@@ -10704,6 +10975,7 @@ Presleyami	Presley	subst:pl:inst:m1	nazwisko
 Presleya	Presley	subst:sg:acc:m1	nazwisko	
 Presleya	Presley	subst:sg:gen:m1	nazwisko	
 Presleyem	Presley	subst:sg:inst:m1	nazwisko	
+Presleye	Presley	depr:pl:acc:m2	nazwisko	
 Presleye	Presley	depr:pl:nom:m2	nazwisko	
 Presleye	Presley	depr:pl:voc:m2	nazwisko	
 Presleyom	Presley	subst:pl:dat:m1	nazwisko	
@@ -10767,6 +11039,7 @@ Prętkich	Prętki	subst:pl:loc:m1	nazwisko
 Prętkiego	Prętki	subst:sg:acc:m1	nazwisko	
 Prętkiego	Prętki	subst:sg:gen:m1	nazwisko	
 Prętkiemu	Prętki	subst:sg:dat:m1	nazwisko	
+Prętkie	Prętki	depr:pl:acc:m2	nazwisko	
 Prętkie	Prętki	depr:pl:nom:m2	nazwisko	
 Prętkie	Prętki	depr:pl:voc:m2	nazwisko	
 Prętkimi	Prętki	subst:pl:inst:m1	nazwisko	
@@ -10789,6 +11062,7 @@ Priamowi	Priam	subst:sg:dat:m1	imię
 Priamów	Priam	subst:pl:acc:m1	imię	
 Priamów	Priam	subst:pl:gen:m1	imię	
 Priam	Priam	subst:sg:nom:m1	imię	
+Priamy	Priam	depr:pl:acc:m2	imię	
 Priamy	Priam	depr:pl:nom:m2	imię	
 Priamy	Priam	depr:pl:voc:m2	imię	
 Prisztinach	Prisztina	subst:pl:loc:f	nazwa geograficzna	
@@ -10899,6 +11173,7 @@ Probusowi	Probus	subst:sg:dat:m1	przydomek
 Probusów	Probus	subst:pl:acc:m1	przydomek	
 Probusów	Probus	subst:pl:gen:m1	przydomek	
 Probus	Probus	subst:sg:nom:m1	przydomek	
+Probusy	Probus	depr:pl:acc:m2	przydomek	
 Probusy	Probus	depr:pl:nom:m2	przydomek	
 Probusy	Probus	depr:pl:voc:m2	przydomek	
 Prochorach	Prochor	subst:pl:loc:m1	imię	
@@ -10913,6 +11188,7 @@ Prochorowi	Prochor	subst:sg:dat:m1	imię
 Prochorów	Prochor	subst:pl:acc:m1	imię	
 Prochorów	Prochor	subst:pl:gen:m1	imię	
 Prochor	Prochor	subst:sg:nom:m1	imię	
+Prochory	Prochor	depr:pl:acc:m2	imię	
 Prochory	Prochor	depr:pl:nom:m2	imię	
 Prochory	Prochor	depr:pl:voc:m2	imię	
 Prochorze	Prochor	subst:sg:loc:m1	imię	
@@ -10939,6 +11215,7 @@ Prodich	Prodi	subst:pl:loc:m1	nazwisko
 Prodiego	Prodi	subst:sg:acc:m1	nazwisko	
 Prodiego	Prodi	subst:sg:gen:m1	nazwisko	
 Prodiemu	Prodi	subst:sg:dat:m1	nazwisko	
+Prodie	Prodi	depr:pl:acc:m2	nazwisko	
 Prodie	Prodi	depr:pl:nom:m2	nazwisko	
 Prodie	Prodi	depr:pl:voc:m2	nazwisko	
 Prodimi	Prodi	subst:pl:inst:m1	nazwisko	
@@ -10967,6 +11244,7 @@ Proklesowi	Prokles	subst:sg:dat:m1	imię
 Proklesów	Prokles	subst:pl:acc:m1	imię	
 Proklesów	Prokles	subst:pl:gen:m1	imię	
 Prokles	Prokles	subst:sg:nom:m1	imię	
+Proklesy	Prokles	depr:pl:acc:m2	imię	
 Proklesy	Prokles	depr:pl:nom:m2	imię	
 Proklesy	Prokles	depr:pl:voc:m2	imię	
 Prokofiewach	Prokofiew	subst:pl:loc:m1	nazwisko	
@@ -10983,6 +11261,7 @@ Prokofiewowi	Prokofiew	subst:sg:dat:m1	nazwisko
 Prokofiewów	Prokofiew	subst:pl:acc:m1	nazwisko	
 Prokofiewów	Prokofiew	subst:pl:gen:m1	nazwisko	
 Prokofiew	Prokofiew	subst:sg:nom:m1	nazwisko	
+Prokofiewy	Prokofiew	depr:pl:acc:m2	nazwisko	
 Prokofiewy	Prokofiew	depr:pl:nom:m2	nazwisko	
 Prokofiewy	Prokofiew	depr:pl:voc:m2	nazwisko	
 Prokopach	Prokop	subst:pl:loc:m1	imię	
@@ -11001,6 +11280,7 @@ Prokopowi	Prokop	subst:sg:dat:m1	imię
 Prokopów	Prokop	subst:pl:acc:m1	imię	
 Prokopów	Prokop	subst:pl:gen:m1	imię	
 Prokop	Prokop	subst:sg:nom:m1	imię	
+Prokopy	Prokop	depr:pl:acc:m2	imię	
 Prokopy	Prokop	depr:pl:nom:m2	imię	
 Prokopy	Prokop	depr:pl:voc:m2	imię	
 Prokulach	Prokul	subst:pl:loc:m1	imię	
@@ -11008,6 +11288,7 @@ Prokulami	Prokul	subst:pl:inst:m1	imię
 Prokula	Prokul	subst:sg:acc:m1	imię	
 Prokula	Prokul	subst:sg:gen:m1	imię	
 Prokulem	Prokul	subst:sg:inst:m1	imię	
+Prokule	Prokul	depr:pl:acc:m2	imię	
 Prokule	Prokul	depr:pl:nom:m2	imię	
 Prokule	Prokul	depr:pl:voc:m2	imię	
 Prokule	Prokul	subst:pl:nom:m1	imię	
@@ -11026,6 +11307,7 @@ Prometeuszami	Prometeusz	subst:pl:inst:m1	imię	mit.
 Prometeusza	Prometeusz	subst:sg:acc:m1	imię	mit.
 Prometeusza	Prometeusz	subst:sg:gen:m1	imię	mit.
 Prometeuszem	Prometeusz	subst:sg:inst:m1	imię	mit.
+Prometeusze	Prometeusz	depr:pl:acc:m2	imię	mit.
 Prometeusze	Prometeusz	depr:pl:nom:m2	imię	mit.
 Prometeusze	Prometeusz	depr:pl:voc:m2	imię	mit.
 Prometeusze	Prometeusz	subst:pl:nom:m1	imię	mit.
@@ -11059,6 +11341,7 @@ Pronaszkach	Pronaszko	subst:pl:loc:m1	nazwisko
 Pronaszkami	Pronaszko	subst:pl:inst:m1	nazwisko	
 Pronaszką	Pronaszko	subst:sg:inst:m1	nazwisko	
 Pronaszkę	Pronaszko	subst:sg:acc:m1	nazwisko	
+Pronaszki	Pronaszko	depr:pl:acc:m2	nazwisko	
 Pronaszki	Pronaszko	depr:pl:nom:m2	nazwisko	
 Pronaszki	Pronaszko	depr:pl:voc:m2	nazwisko	
 Pronaszki	Pronaszko	subst:sg:gen:m1	nazwisko	
@@ -11081,6 +11364,7 @@ Prosimirowi	Prosimir	subst:sg:dat:m1	imię
 Prosimirów	Prosimir	subst:pl:acc:m1	imię	
 Prosimirów	Prosimir	subst:pl:gen:m1	imię	
 Prosimir	Prosimir	subst:sg:nom:m1	imię	
+Prosimiry	Prosimir	depr:pl:acc:m2	imię	
 Prosimiry	Prosimir	depr:pl:nom:m2	imię	
 Prosimiry	Prosimir	depr:pl:voc:m2	imię	
 Prosimirze	Prosimir	subst:sg:loc:m1	imię	
@@ -11099,6 +11383,7 @@ Prosperowi	Prosper	subst:sg:dat:m1	imię
 Prosperów	Prosper	subst:pl:acc:m1	imię	
 Prosperów	Prosper	subst:pl:gen:m1	imię	
 Prosper	Prosper	subst:sg:nom:m1	imię	
+Prospery	Prosper	depr:pl:acc:m2	imię	
 Prospery	Prosper	depr:pl:nom:m2	imię	
 Prospery	Prosper	depr:pl:voc:m2	imię	
 Prosperze	Prosper	subst:sg:loc:m1	imię	
@@ -11107,6 +11392,7 @@ Prosperzy	Prosper	subst:pl:nom:m1	imię
 Prosperzy	Prosper	subst:pl:voc:m1	imię	
 Prosperach	Prospero	subst:pl:loc:m1	imię|nazwa własna astronomiczna	
 Prosperami	Prospero	subst:pl:inst:m1	imię|nazwa własna astronomiczna	
+Prospera	Prospero	depr:pl:acc:m2	imię|nazwa własna astronomiczna	
 Prospera	Prospero	depr:pl:nom:m2	imię|nazwa własna astronomiczna	
 Prospera	Prospero	depr:pl:voc:m2	imię|nazwa własna astronomiczna	
 Prospera	Prospero	subst:sg:acc:m1	imię|nazwa własna astronomiczna	
@@ -11166,6 +11452,7 @@ Protowi	Prot	subst:sg:dat:m1	imię
 Protów	Prot	subst:pl:acc:m1	imię	
 Protów	Prot	subst:pl:gen:m1	imię	
 Prot	Prot	subst:sg:nom:m1	imię	
+Proty	Prot	depr:pl:acc:m2	imię	
 Proty	Prot	depr:pl:nom:m2	imię	
 Proty	Prot	depr:pl:voc:m2	imię	
 Protagorasach	Protagoras	subst:pl:loc:m1	imię	
@@ -11184,11 +11471,13 @@ Protagorasowi	Protagoras	subst:sg:dat:m1	imię
 Protagorasów	Protagoras	subst:pl:acc:m1	imię	
 Protagorasów	Protagoras	subst:pl:gen:m1	imię	
 Protagoras	Protagoras	subst:sg:nom:m1	imię	
+Protagorasy	Protagoras	depr:pl:acc:m2	imię	
 Protagorasy	Protagoras	depr:pl:nom:m2	imię	
 Protagorasy	Protagoras	depr:pl:voc:m2	imię	
 Protazego	Protazy	subst:sg:acc:m1	imię	
 Protazego	Protazy	subst:sg:gen:m1	imię	
 Protazemu	Protazy	subst:sg:dat:m1	imię	
+Protaze	Protazy	depr:pl:acc:m2	imię	
 Protaze	Protazy	depr:pl:nom:m2	imię	
 Protaze	Protazy	depr:pl:voc:m2	imię	
 Protazowie	Protazy	subst:pl:nom:m1	imię	
@@ -11218,6 +11507,7 @@ Protogenowi	Protogen	subst:sg:dat:m1	imię
 Protogenów	Protogen	subst:pl:acc:m1	imię	
 Protogenów	Protogen	subst:pl:gen:m1	imię	
 Protogen	Protogen	subst:sg:nom:m1	imię	
+Protogeny	Protogen	depr:pl:acc:m2	imię	
 Protogeny	Protogen	depr:pl:nom:m2	imię	
 Protogeny	Protogen	depr:pl:voc:m2	imię	
 Proustach	Proust	subst:pl:loc:m1	nazwisko	
@@ -11232,6 +11522,7 @@ Proustowi	Proust	subst:sg:dat:m1	nazwisko
 Proustów	Proust	subst:pl:acc:m1	nazwisko	
 Proustów	Proust	subst:pl:gen:m1	nazwisko	
 Proust	Proust	subst:sg:nom:m1	nazwisko	
+Prousty	Proust	depr:pl:acc:m2	nazwisko	
 Prousty	Proust	depr:pl:nom:m2	nazwisko	
 Prousty	Proust	depr:pl:voc:m2	nazwisko	
 Prouście	Proust	subst:sg:loc:m1	nazwisko	
@@ -11243,6 +11534,7 @@ Prowansalczykami	Prowansalczyk	subst:pl:inst:m1	nazwa pospolita
 Prowansalczyka	Prowansalczyk	subst:sg:acc:m1	nazwa pospolita	
 Prowansalczyka	Prowansalczyk	subst:sg:gen:m1	nazwa pospolita	
 Prowansalczykiem	Prowansalczyk	subst:sg:inst:m1	nazwa pospolita	
+Prowansalczyki	Prowansalczyk	depr:pl:acc:m2	nazwa pospolita	
 Prowansalczyki	Prowansalczyk	depr:pl:nom:m2	nazwa pospolita	
 Prowansalczyki	Prowansalczyk	depr:pl:voc:m2	nazwa pospolita	
 Prowansalczykom	Prowansalczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -11286,6 +11578,7 @@ PR-owcami	PR-owiec	subst:pl:inst:m1	nazwa pospolita
 PR-owca	PR-owiec	subst:sg:acc:m1	nazwa pospolita	
 PR-owca	PR-owiec	subst:sg:gen:m1	nazwa pospolita	
 PR-owcem	PR-owiec	subst:sg:inst:m1	nazwa pospolita	
+PR-owce	PR-owiec	depr:pl:acc:m2	nazwa pospolita	
 PR-owce	PR-owiec	depr:pl:nom:m2	nazwa pospolita	
 PR-owce	PR-owiec	depr:pl:voc:m2	nazwa pospolita	
 PR-owcom	PR-owiec	subst:pl:dat:m1	nazwa pospolita	
@@ -11363,6 +11656,7 @@ Prószyńskich	Prószyński	subst:pl:loc:m1	nazwisko
 Prószyńskiego	Prószyński	subst:sg:acc:m1	nazwisko	
 Prószyńskiego	Prószyński	subst:sg:gen:m1	nazwisko	
 Prószyńskiemu	Prószyński	subst:sg:dat:m1	nazwisko	
+Prószyńskie	Prószyński	depr:pl:acc:m2	nazwisko	
 Prószyńskie	Prószyński	depr:pl:nom:m2	nazwisko	
 Prószyńskie	Prószyński	depr:pl:voc:m2	nazwisko	
 Prószyńskimi	Prószyński	subst:pl:inst:m1	nazwisko	
@@ -11418,6 +11712,7 @@ Prudencjuszami	Prudencjusz	subst:pl:inst:m1	imię
 Prudencjusza	Prudencjusz	subst:sg:acc:m1	imię	
 Prudencjusza	Prudencjusz	subst:sg:gen:m1	imię	
 Prudencjuszem	Prudencjusz	subst:sg:inst:m1	imię	
+Prudencjusze	Prudencjusz	depr:pl:acc:m2	imię	
 Prudencjusze	Prudencjusz	depr:pl:nom:m2	imię	
 Prudencjusze	Prudencjusz	depr:pl:voc:m2	imię	
 Prudencjusze	Prudencjusz	subst:pl:nom:m1	imię	
@@ -11459,6 +11754,7 @@ Prusowi	Prus	subst:sg:dat:m1	nazwa pospolita
 Prusów	Prus	subst:pl:acc:m1	nazwa pospolita	
 Prusów	Prus	subst:pl:gen:m1	nazwa pospolita	
 Prus	Prus	subst:sg:nom:m1	nazwa pospolita	
+Prusy	Prus	depr:pl:acc:m2	nazwa pospolita	
 Prusy	Prus	depr:pl:nom:m2	nazwa pospolita	
 Prusy	Prus	depr:pl:voc:m2	nazwa pospolita	
 Prusaczce	Prusaczka	subst:sg:dat:f	nazwa pospolita	
@@ -11482,6 +11778,7 @@ Prusakami	Prusak	subst:pl:inst:m1	nazwa pospolita
 Prusaka	Prusak	subst:sg:acc:m1	nazwa pospolita	
 Prusaka	Prusak	subst:sg:gen:m1	nazwa pospolita	
 Prusakiem	Prusak	subst:sg:inst:m1	nazwa pospolita	
+Prusaki	Prusak	depr:pl:acc:m2	nazwa pospolita	
 Prusaki	Prusak	depr:pl:nom:m2	nazwa pospolita	
 Prusaki	Prusak	depr:pl:voc:m2	nazwa pospolita	
 Prusakom	Prusak	subst:pl:dat:m1	nazwa pospolita	
@@ -11527,6 +11824,7 @@ Prusińskich	Prusiński	subst:pl:loc:m1	nazwisko
 Prusińskiego	Prusiński	subst:sg:acc:m1	nazwisko	
 Prusińskiego	Prusiński	subst:sg:gen:m1	nazwisko	
 Prusińskiemu	Prusiński	subst:sg:dat:m1	nazwisko	
+Prusińskie	Prusiński	depr:pl:acc:m2	nazwisko	
 Prusińskie	Prusiński	depr:pl:nom:m2	nazwisko	
 Prusińskie	Prusiński	depr:pl:voc:m2	nazwisko	
 Prusińskimi	Prusiński	subst:pl:inst:m1	nazwisko	
@@ -11601,6 +11899,7 @@ Pruszyńskich	Pruszyński	subst:pl:loc:m1	nazwisko
 Pruszyńskiego	Pruszyński	subst:sg:acc:m1	nazwisko	
 Pruszyńskiego	Pruszyński	subst:sg:gen:m1	nazwisko	
 Pruszyńskiemu	Pruszyński	subst:sg:dat:m1	nazwisko	
+Pruszyńskie	Pruszyński	depr:pl:acc:m2	nazwisko	
 Pruszyńskie	Pruszyński	depr:pl:nom:m2	nazwisko	
 Pruszyńskie	Pruszyński	depr:pl:voc:m2	nazwisko	
 Pruszyńskimi	Pruszyński	subst:pl:inst:m1	nazwisko	
@@ -11653,6 +11952,7 @@ Prymusowi	Prymus	subst:sg:dat:m1	imię
 Prymusów	Prymus	subst:pl:acc:m1	imię	
 Prymusów	Prymus	subst:pl:gen:m1	imię	
 Prymus	Prymus	subst:sg:nom:m1	imię	
+Prymusy	Prymus	depr:pl:acc:m2	imię	
 Prymusy	Prymus	depr:pl:nom:m2	imię	
 Prymusy	Prymus	depr:pl:voc:m2	imię	
 Prypeciach	Prypeć	subst:pl:loc:f	nazwa geograficzna	
@@ -11749,6 +12049,7 @@ Przecławowi	Przecław:s1	subst:sg:dat:m1	imię
 Przecławów	Przecław:s1	subst:pl:acc:m1	imię	
 Przecławów	Przecław:s1	subst:pl:gen:m1	imię	
 Przecław	Przecław:s1	subst:sg:nom:m1	imię	
+Przecławy	Przecław:s1	depr:pl:acc:m2	imię	
 Przecławy	Przecław:s1	depr:pl:nom:m2	imię	
 Przecławy	Przecław:s1	depr:pl:voc:m2	imię	
 Przecławiach	Przecław:s2	subst:pl:loc:m3	nazwa geograficzna	
@@ -11778,6 +12079,7 @@ Przedborowi	Przedbor	subst:sg:dat:m1	imię
 Przedborów	Przedbor	subst:pl:acc:m1	imię	
 Przedborów	Przedbor	subst:pl:gen:m1	imię	
 Przedbor	Przedbor	subst:sg:nom:m1	imię	
+Przedbory	Przedbor	depr:pl:acc:m2	imię	
 Przedbory	Przedbor	depr:pl:nom:m2	imię	
 Przedbory	Przedbor	depr:pl:voc:m2	imię	
 Przedborze	Przedbor	subst:sg:loc:m1	imię	
@@ -11789,6 +12091,7 @@ Przedpełkami	Przedpełk	subst:pl:inst:m1	imię
 Przedpełka	Przedpełk	subst:sg:acc:m1	imię	
 Przedpełka	Przedpełk	subst:sg:gen:m1	imię	
 Przedpełkiem	Przedpełk	subst:sg:inst:m1	imię	
+Przedpełki	Przedpełk	depr:pl:acc:m2	imię	
 Przedpełki	Przedpełk	depr:pl:nom:m2	imię	
 Przedpełki	Przedpełk	depr:pl:voc:m2	imię	
 Przedpełkom	Przedpełk	subst:pl:dat:m1	imię	
@@ -11822,6 +12125,7 @@ Przedpełskich	Przedpełski	subst:pl:loc:m1	nazwisko
 Przedpełskiego	Przedpełski	subst:sg:acc:m1	nazwisko	
 Przedpełskiego	Przedpełski	subst:sg:gen:m1	nazwisko	
 Przedpełskiemu	Przedpełski	subst:sg:dat:m1	nazwisko	
+Przedpełskie	Przedpełski	depr:pl:acc:m2	nazwisko	
 Przedpełskie	Przedpełski	depr:pl:nom:m2	nazwisko	
 Przedpełskie	Przedpełski	depr:pl:voc:m2	nazwisko	
 Przedpełskimi	Przedpełski	subst:pl:inst:m1	nazwisko	
@@ -11846,6 +12150,7 @@ Przedsławowi	Przedsław	subst:sg:dat:m1	imię
 Przedsławów	Przedsław	subst:pl:acc:m1	imię	
 Przedsławów	Przedsław	subst:pl:gen:m1	imię	
 Przedsław	Przedsław	subst:sg:nom:m1	imię	
+Przedsławy	Przedsław	depr:pl:acc:m2	imię	
 Przedsławy	Przedsław	depr:pl:nom:m2	imię	
 Przedsławy	Przedsław	depr:pl:voc:m2	imię	
 Przedwojach	Przedwoj	subst:pl:loc:m1	imię	
@@ -11853,6 +12158,7 @@ Przedwojami	Przedwoj	subst:pl:inst:m1	imię
 Przedwoja	Przedwoj	subst:sg:acc:m1	imię	
 Przedwoja	Przedwoj	subst:sg:gen:m1	imię	
 Przedwojem	Przedwoj	subst:sg:inst:m1	imię	
+Przedwoje	Przedwoj	depr:pl:acc:m2	imię	
 Przedwoje	Przedwoj	depr:pl:nom:m2	imię	
 Przedwoje	Przedwoj	depr:pl:voc:m2	imię	
 Przedwoje	Przedwoj	subst:pl:nom:m1	imię	
@@ -11886,6 +12192,7 @@ Przemkami	Przemek	subst:pl:inst:m1	imię
 Przemka	Przemek	subst:sg:acc:m1	imię	
 Przemka	Przemek	subst:sg:gen:m1	imię	
 Przemkiem	Przemek	subst:sg:inst:m1	imię	
+Przemki	Przemek	depr:pl:acc:m2	imię	
 Przemki	Przemek	depr:pl:nom:m2	imię	
 Przemki	Przemek	depr:pl:voc:m2	imię	
 Przemkom	Przemek	subst:pl:dat:m1	imię	
@@ -11910,6 +12217,7 @@ Przemiłowi	Przemił	subst:sg:dat:m1	imię
 Przemiłów	Przemił	subst:pl:acc:m1	imię	
 Przemiłów	Przemił	subst:pl:gen:m1	imię	
 Przemił	Przemił	subst:sg:nom:m1	imię	
+Przemiły	Przemił	depr:pl:acc:m2	imię	
 Przemiły	Przemił	depr:pl:nom:m2	imię	
 Przemiły	Przemił	depr:pl:voc:m2	imię	
 Przemkowach	Przemków	subst:pl:loc:m3	nazwa geograficzna	
@@ -11947,6 +12255,7 @@ Przemusiami	Przemuś	subst:pl:inst:m1	imię
 Przemusia	Przemuś	subst:sg:acc:m1	imię	
 Przemusia	Przemuś	subst:sg:gen:m1	imię	
 Przemusiem	Przemuś	subst:sg:inst:m1	imię	
+Przemusie	Przemuś	depr:pl:acc:m2	imię	
 Przemusie	Przemuś	depr:pl:nom:m2	imię	
 Przemusie	Przemuś	depr:pl:voc:m2	imię	
 Przemusie	Przemuś	subst:pl:nom:m1	imię	
@@ -11986,6 +12295,7 @@ Przemysłowi	Przemysł	subst:sg:dat:m1	imię
 Przemysłów	Przemysł	subst:pl:acc:m1	imię	
 Przemysłów	Przemysł	subst:pl:gen:m1	imię	
 Przemysł	Przemysł	subst:sg:nom:m1	imię	
+Przemysły	Przemysł	depr:pl:acc:m2	imię	
 Przemysły	Przemysł	depr:pl:nom:m2	imię	
 Przemysły	Przemysł	depr:pl:voc:m2	imię	
 Przemyśle	Przemysł	subst:sg:loc:m1	imię	
@@ -12004,6 +12314,7 @@ Przemysławowi	Przemysław	subst:sg:dat:m1	imię
 Przemysławów	Przemysław	subst:pl:acc:m1	imię	
 Przemysławów	Przemysław	subst:pl:gen:m1	imię	
 Przemysław	Przemysław	subst:sg:nom:m1	imię	
+Przemysławy	Przemysław	depr:pl:acc:m2	imię	
 Przemysławy	Przemysław	depr:pl:nom:m2	imię	
 Przemysławy	Przemysław	depr:pl:voc:m2	imię	
 Przemysławach	Przemysława	subst:pl:loc:f	imię	
@@ -12046,6 +12357,7 @@ Przemyślidowie	Przemyślida	subst:pl:nom:m1	nazwa członka rodu
 Przemyślidowie	Przemyślida	subst:pl:voc:m1	nazwa członka rodu	
 Przemyślidów	Przemyślida	subst:pl:acc:m1	nazwa członka rodu	
 Przemyślidów	Przemyślida	subst:pl:gen:m1	nazwa członka rodu	
+Przemyślidy	Przemyślida	depr:pl:acc:m2	nazwa członka rodu	
 Przemyślidy	Przemyślida	depr:pl:nom:m2	nazwa członka rodu	
 Przemyślidy	Przemyślida	depr:pl:voc:m2	nazwa członka rodu	
 Przemyślidy	Przemyślida	subst:sg:gen:m1	nazwa członka rodu	
@@ -12066,6 +12378,7 @@ Przerwowie	Przerwa	subst:pl:nom:m1	nazwisko
 Przerwowie	Przerwa	subst:pl:voc:m1	nazwisko	
 Przerwów	Przerwa	subst:pl:acc:m1	nazwisko	
 Przerwów	Przerwa	subst:pl:gen:m1	nazwisko	
+Przerwy	Przerwa	depr:pl:acc:m2	nazwisko	
 Przerwy	Przerwa	depr:pl:nom:m2	nazwisko	
 Przerwy	Przerwa	depr:pl:voc:m2	nazwisko	
 Przerwy	Przerwa	subst:sg:gen:m1	nazwisko	
@@ -12105,6 +12418,7 @@ Przesmyckich	Przesmycki	subst:pl:loc:m1	nazwisko
 Przesmyckiego	Przesmycki	subst:sg:acc:m1	nazwisko	
 Przesmyckiego	Przesmycki	subst:sg:gen:m1	nazwisko	
 Przesmyckiemu	Przesmycki	subst:sg:dat:m1	nazwisko	
+Przesmyckie	Przesmycki	depr:pl:acc:m2	nazwisko	
 Przesmyckie	Przesmycki	depr:pl:nom:m2	nazwisko	
 Przesmyckie	Przesmycki	depr:pl:voc:m2	nazwisko	
 Przesmyckimi	Przesmycki	subst:pl:inst:m1	nazwisko	
@@ -12126,6 +12440,7 @@ Przeszłowie	Przeszło	subst:pl:nom:m1	nazwisko
 Przeszłowie	Przeszło	subst:pl:voc:m1	nazwisko	
 Przeszłów	Przeszło	subst:pl:acc:m1	nazwisko	
 Przeszłów	Przeszło	subst:pl:gen:m1	nazwisko	
+Przeszły	Przeszło	depr:pl:acc:m2	nazwisko	
 Przeszły	Przeszło	depr:pl:nom:m2	nazwisko	
 Przeszły	Przeszło	depr:pl:voc:m2	nazwisko	
 Przeszły	Przeszło	subst:sg:gen:m1	nazwisko	
@@ -12151,6 +12466,7 @@ Przewalskich	Przewalski	subst:pl:loc:m1	nazwisko
 Przewalskiego	Przewalski	subst:sg:acc:m1	nazwisko	
 Przewalskiego	Przewalski	subst:sg:gen:m1	nazwisko	
 Przewalskiemu	Przewalski	subst:sg:dat:m1	nazwisko	
+Przewalskie	Przewalski	depr:pl:acc:m2	nazwisko	
 Przewalskie	Przewalski	depr:pl:nom:m2	nazwisko	
 Przewalskie	Przewalski	depr:pl:voc:m2	nazwisko	
 Przewalskimi	Przewalski	subst:pl:inst:m1	nazwisko	
@@ -12214,6 +12530,7 @@ Przyborowie	Przybora	subst:pl:nom:m1	nazwisko
 Przyborowie	Przybora	subst:pl:voc:m1	nazwisko	
 Przyborów	Przybora	subst:pl:acc:m1	nazwisko	
 Przyborów	Przybora	subst:pl:gen:m1	nazwisko	
+Przybory	Przybora	depr:pl:acc:m2	nazwisko	
 Przybory	Przybora	depr:pl:nom:m2	nazwisko	
 Przybory	Przybora	depr:pl:voc:m2	nazwisko	
 Przybory	Przybora	subst:sg:gen:m1	nazwisko	
@@ -12241,6 +12558,7 @@ Przyborowskich	Przyborowski	subst:pl:loc:m1	nazwisko
 Przyborowskiego	Przyborowski	subst:sg:acc:m1	nazwisko	
 Przyborowskiego	Przyborowski	subst:sg:gen:m1	nazwisko	
 Przyborowskiemu	Przyborowski	subst:sg:dat:m1	nazwisko	
+Przyborowskie	Przyborowski	depr:pl:acc:m2	nazwisko	
 Przyborowskie	Przyborowski	depr:pl:nom:m2	nazwisko	
 Przyborowskie	Przyborowski	depr:pl:voc:m2	nazwisko	
 Przyborowskimi	Przyborowski	subst:pl:inst:m1	nazwisko	
@@ -12254,6 +12572,7 @@ Przybosiami	Przyboś	subst:pl:inst:m1	nazwisko
 Przybosia	Przyboś	subst:sg:acc:m1	nazwisko	
 Przybosia	Przyboś	subst:sg:gen:m1	nazwisko	
 Przybosiem	Przyboś	subst:sg:inst:m1	nazwisko	
+Przybosie	Przyboś	depr:pl:acc:m2	nazwisko	
 Przybosie	Przyboś	depr:pl:nom:m2	nazwisko	
 Przybosie	Przyboś	depr:pl:voc:m2	nazwisko	
 Przybosie	Przyboś	subst:pl:nom:m1	nazwisko	
@@ -12279,6 +12598,7 @@ Przybyczestowi	Przybyczest	subst:sg:dat:m1	imię
 Przybyczestów	Przybyczest	subst:pl:acc:m1	imię	
 Przybyczestów	Przybyczest	subst:pl:gen:m1	imię	
 Przybyczest	Przybyczest	subst:sg:nom:m1	imię	
+Przybyczesty	Przybyczest	depr:pl:acc:m2	imię	
 Przybyczesty	Przybyczest	depr:pl:nom:m2	imię	
 Przybyczesty	Przybyczest	depr:pl:voc:m2	imię	
 Przybyczeście	Przybyczest	subst:sg:loc:m1	imię	
@@ -12297,6 +12617,7 @@ Przybygniewowi	Przybygniew	subst:sg:dat:m1	imię
 Przybygniewów	Przybygniew	subst:pl:acc:m1	imię	
 Przybygniewów	Przybygniew	subst:pl:gen:m1	imię	
 Przybygniew	Przybygniew	subst:sg:nom:m1	imię	
+Przybygniewy	Przybygniew	depr:pl:acc:m2	imię	
 Przybygniewy	Przybygniew	depr:pl:nom:m2	imię	
 Przybygniewy	Przybygniew	depr:pl:voc:m2	imię	
 Przybylska	Przybylska	subst:sg:nom:f	nazwisko	
@@ -12321,6 +12642,7 @@ Przybylskich	Przybylski	subst:pl:loc:m1	nazwisko
 Przybylskiego	Przybylski	subst:sg:acc:m1	nazwisko	
 Przybylskiego	Przybylski	subst:sg:gen:m1	nazwisko	
 Przybylskiemu	Przybylski	subst:sg:dat:m1	nazwisko	
+Przybylskie	Przybylski	depr:pl:acc:m2	nazwisko	
 Przybylskie	Przybylski	depr:pl:nom:m2	nazwisko	
 Przybylskie	Przybylski	depr:pl:voc:m2	nazwisko	
 Przybylskimi	Przybylski	subst:pl:inst:m1	nazwisko	
@@ -12342,6 +12664,7 @@ Przybyłowie	Przybyła	subst:pl:nom:m1	nazwisko
 Przybyłowie	Przybyła	subst:pl:voc:m1	nazwisko	
 Przybyłów	Przybyła	subst:pl:acc:m1	nazwisko	
 Przybyłów	Przybyła	subst:pl:gen:m1	nazwisko	
+Przybyły	Przybyła	depr:pl:acc:m2	nazwisko	
 Przybyły	Przybyła	depr:pl:nom:m2	nazwisko	
 Przybyły	Przybyła	depr:pl:voc:m2	nazwisko	
 Przybyły	Przybyła	subst:sg:gen:m1	nazwisko	
@@ -12357,6 +12680,7 @@ Przybymirowi	Przybymir	subst:sg:dat:m1	imię
 Przybymirów	Przybymir	subst:pl:acc:m1	imię	
 Przybymirów	Przybymir	subst:pl:gen:m1	imię	
 Przybymir	Przybymir	subst:sg:nom:m1	imię	
+Przybymiry	Przybymir	depr:pl:acc:m2	imię	
 Przybymiry	Przybymir	depr:pl:nom:m2	imię	
 Przybymiry	Przybymir	depr:pl:voc:m2	imię	
 Przybymirze	Przybymir	subst:sg:loc:m1	imię	
@@ -12375,6 +12699,7 @@ Przybyradowi	Przybyrad	subst:sg:dat:m1	imię
 Przybyradów	Przybyrad	subst:pl:acc:m1	imię	
 Przybyradów	Przybyrad	subst:pl:gen:m1	imię	
 Przybyrad	Przybyrad	subst:sg:nom:m1	imię	
+Przybyrady	Przybyrad	depr:pl:acc:m2	imię	
 Przybyrady	Przybyrad	depr:pl:nom:m2	imię	
 Przybyrady	Przybyrad	depr:pl:voc:m2	imię	
 Przybyradzie	Przybyrad	subst:sg:loc:m1	imię	
@@ -12397,6 +12722,7 @@ Przybysławowi	Przybysław	subst:sg:dat:m1	imię
 Przybysławów	Przybysław	subst:pl:acc:m1	imię	
 Przybysławów	Przybysław	subst:pl:gen:m1	imię	
 Przybysław	Przybysław	subst:sg:nom:m1	imię	
+Przybysławy	Przybysław	depr:pl:acc:m2	imię	
 Przybysławy	Przybysław	depr:pl:nom:m2	imię	
 Przybysławy	Przybysław	depr:pl:voc:m2	imię	
 Przybysławach	Przybysława	subst:pl:loc:f	imię	
@@ -12418,6 +12744,7 @@ Przybyszami	Przybysz	subst:pl:inst:m1	nazwisko
 Przybysza	Przybysz	subst:sg:acc:m1	nazwisko	
 Przybysza	Przybysz	subst:sg:gen:m1	nazwisko	
 Przybyszem	Przybysz	subst:sg:inst:m1	nazwisko	
+Przybysze	Przybysz	depr:pl:acc:m2	nazwisko	
 Przybysze	Przybysz	depr:pl:nom:m2	nazwisko	
 Przybysze	Przybysz	depr:pl:voc:m2	nazwisko	
 Przybyszom	Przybysz	subst:pl:dat:m1	nazwisko	
@@ -12451,6 +12778,7 @@ Przybyszewskich	Przybyszewski	subst:pl:loc:m1	nazwisko
 Przybyszewskiego	Przybyszewski	subst:sg:acc:m1	nazwisko	
 Przybyszewskiego	Przybyszewski	subst:sg:gen:m1	nazwisko	
 Przybyszewskiemu	Przybyszewski	subst:sg:dat:m1	nazwisko	
+Przybyszewskie	Przybyszewski	depr:pl:acc:m2	nazwisko	
 Przybyszewskie	Przybyszewski	depr:pl:nom:m2	nazwisko	
 Przybyszewskie	Przybyszewski	depr:pl:voc:m2	nazwisko	
 Przybyszewskimi	Przybyszewski	subst:pl:inst:m1	nazwisko	
@@ -12464,6 +12792,7 @@ Przybywojami	Przybywoj	subst:pl:inst:m1	imię
 Przybywoja	Przybywoj	subst:sg:acc:m1	imię	
 Przybywoja	Przybywoj	subst:sg:gen:m1	imię	
 Przybywojem	Przybywoj	subst:sg:inst:m1	imię	
+Przybywoje	Przybywoj	depr:pl:acc:m2	imię	
 Przybywoje	Przybywoj	depr:pl:nom:m2	imię	
 Przybywoje	Przybywoj	depr:pl:voc:m2	imię	
 Przybywoje	Przybywoj	subst:pl:nom:m1	imię	
@@ -12513,6 +12842,7 @@ Przypkowskich	Przypkowski	subst:pl:loc:m1	nazwisko
 Przypkowskiego	Przypkowski	subst:sg:acc:m1	nazwisko	
 Przypkowskiego	Przypkowski	subst:sg:gen:m1	nazwisko	
 Przypkowskiemu	Przypkowski	subst:sg:dat:m1	nazwisko	
+Przypkowskie	Przypkowski	depr:pl:acc:m2	nazwisko	
 Przypkowskie	Przypkowski	depr:pl:nom:m2	nazwisko	
 Przypkowskie	Przypkowski	depr:pl:voc:m2	nazwisko	
 Przypkowskimi	Przypkowski	subst:pl:inst:m1	nazwisko	
@@ -12707,6 +13037,7 @@ Pstrowskich	Pstrowski	subst:pl:loc:m1	nazwisko
 Pstrowskiego	Pstrowski	subst:sg:acc:m1	nazwisko	
 Pstrowskiego	Pstrowski	subst:sg:gen:m1	nazwisko	
 Pstrowskiemu	Pstrowski	subst:sg:dat:m1	nazwisko	
+Pstrowskie	Pstrowski	depr:pl:acc:m2	nazwisko	
 Pstrowskie	Pstrowski	depr:pl:nom:m2	nazwisko	
 Pstrowskie	Pstrowski	depr:pl:voc:m2	nazwisko	
 Pstrowskimi	Pstrowski	subst:pl:inst:m1	nazwisko	
@@ -12737,6 +13068,7 @@ Pszczółkowskich	Pszczółkowski	subst:pl:loc:m1	nazwisko
 Pszczółkowskiego	Pszczółkowski	subst:sg:acc:m1	nazwisko	
 Pszczółkowskiego	Pszczółkowski	subst:sg:gen:m1	nazwisko	
 Pszczółkowskiemu	Pszczółkowski	subst:sg:dat:m1	nazwisko	
+Pszczółkowskie	Pszczółkowski	depr:pl:acc:m2	nazwisko	
 Pszczółkowskie	Pszczółkowski	depr:pl:nom:m2	nazwisko	
 Pszczółkowskie	Pszczółkowski	depr:pl:voc:m2	nazwisko	
 Pszczółkowskimi	Pszczółkowski	subst:pl:inst:m1	nazwisko	
@@ -12793,6 +13125,7 @@ Ptakami	Ptak	subst:pl:inst:m1	nazwisko
 Ptaka	Ptak	subst:sg:acc:m1	nazwisko	
 Ptaka	Ptak	subst:sg:gen:m1	nazwisko	
 Ptakiem	Ptak	subst:sg:inst:m1	nazwisko	
+Ptaki	Ptak	depr:pl:acc:m2	nazwisko	
 Ptaki	Ptak	depr:pl:nom:m2	nazwisko	
 Ptaki	Ptak	depr:pl:voc:m2	nazwisko	
 Ptakom	Ptak	subst:pl:dat:m1	nazwisko	
@@ -12826,6 +13159,7 @@ Ptasińskich	Ptasiński	subst:pl:loc:m1	nazwisko
 Ptasińskiego	Ptasiński	subst:sg:acc:m1	nazwisko	
 Ptasińskiego	Ptasiński	subst:sg:gen:m1	nazwisko	
 Ptasińskiemu	Ptasiński	subst:sg:dat:m1	nazwisko	
+Ptasińskie	Ptasiński	depr:pl:acc:m2	nazwisko	
 Ptasińskie	Ptasiński	depr:pl:nom:m2	nazwisko	
 Ptasińskie	Ptasiński	depr:pl:voc:m2	nazwisko	
 Ptasińskimi	Ptasiński	subst:pl:inst:m1	nazwisko	
@@ -12856,6 +13190,7 @@ Ptaszyńskich	Ptaszyński	subst:pl:loc:m1	nazwisko
 Ptaszyńskiego	Ptaszyński	subst:sg:acc:m1	nazwisko	
 Ptaszyńskiego	Ptaszyński	subst:sg:gen:m1	nazwisko	
 Ptaszyńskiemu	Ptaszyński	subst:sg:dat:m1	nazwisko	
+Ptaszyńskie	Ptaszyński	depr:pl:acc:m2	nazwisko	
 Ptaszyńskie	Ptaszyński	depr:pl:nom:m2	nazwisko	
 Ptaszyńskie	Ptaszyński	depr:pl:voc:m2	nazwisko	
 Ptaszyńskimi	Ptaszyński	subst:pl:inst:m1	nazwisko	
@@ -12925,6 +13260,7 @@ Ptolemeuszami	Ptolemeusz	subst:pl:inst:m1	imię
 Ptolemeusza	Ptolemeusz	subst:sg:acc:m1	imię	
 Ptolemeusza	Ptolemeusz	subst:sg:gen:m1	imię	
 Ptolemeuszem	Ptolemeusz	subst:sg:inst:m1	imię	
+Ptolemeusze	Ptolemeusz	depr:pl:acc:m2	imię	
 Ptolemeusze	Ptolemeusz	depr:pl:nom:m2	imię	
 Ptolemeusze	Ptolemeusz	depr:pl:voc:m2	imię	
 Ptolemeusze	Ptolemeusz	subst:pl:nom:m1	imię	
@@ -12997,6 +13333,7 @@ Publiuszami	Publiusz	subst:pl:inst:m1	imię
 Publiusza	Publiusz	subst:sg:acc:m1	imię	
 Publiusza	Publiusz	subst:sg:gen:m1	imię	
 Publiuszem	Publiusz	subst:sg:inst:m1	imię	
+Publiusze	Publiusz	depr:pl:acc:m2	imię	
 Publiusze	Publiusz	depr:pl:nom:m2	imię	
 Publiusze	Publiusz	depr:pl:voc:m2	imię	
 Publiusze	Publiusz	subst:pl:nom:m1	imię	
@@ -13016,6 +13353,7 @@ Puccinich	Puccini	subst:pl:loc:m1	nazwisko
 Pucciniego	Puccini	subst:sg:acc:m1	nazwisko	
 Pucciniego	Puccini	subst:sg:gen:m1	nazwisko	
 Pucciniemu	Puccini	subst:sg:dat:m1	nazwisko	
+Puccinie	Puccini	depr:pl:acc:m2	nazwisko	
 Puccinie	Puccini	depr:pl:nom:m2	nazwisko	
 Puccinie	Puccini	depr:pl:voc:m2	nazwisko	
 Puccinimi	Puccini	subst:pl:inst:m1	nazwisko	
@@ -13065,6 +13403,7 @@ Puchalskich	Puchalski	subst:pl:loc:m1	nazwisko
 Puchalskiego	Puchalski	subst:sg:acc:m1	nazwisko	
 Puchalskiego	Puchalski	subst:sg:gen:m1	nazwisko	
 Puchalskiemu	Puchalski	subst:sg:dat:m1	nazwisko	
+Puchalskie	Puchalski	depr:pl:acc:m2	nazwisko	
 Puchalskie	Puchalski	depr:pl:nom:m2	nazwisko	
 Puchalskie	Puchalski	depr:pl:voc:m2	nazwisko	
 Puchalskimi	Puchalski	subst:pl:inst:m1	nazwisko	
@@ -13079,6 +13418,7 @@ Puchatkami	Puchatek	subst:pl:inst:m1	przydomek	lit.
 Puchatka	Puchatek	subst:sg:acc:m1	przydomek	lit.
 Puchatka	Puchatek	subst:sg:gen:m1	przydomek	lit.
 Puchatkiem	Puchatek	subst:sg:inst:m1	przydomek	lit.
+Puchatki	Puchatek	depr:pl:acc:m2	przydomek	lit.
 Puchatki	Puchatek	depr:pl:nom:m2	przydomek	lit.
 Puchatki	Puchatek	depr:pl:voc:m2	przydomek	lit.
 Puchatkom	Puchatek	subst:pl:dat:m1	przydomek	lit.
@@ -13119,6 +13459,7 @@ Pudensowi	Pudens	subst:sg:dat:m1	imię
 Pudensów	Pudens	subst:pl:acc:m1	imię	
 Pudensów	Pudens	subst:pl:gen:m1	imię	
 Pudens	Pudens	subst:sg:nom:m1	imię	
+Pudensy	Pudens	depr:pl:acc:m2	imię	
 Pudensy	Pudens	depr:pl:nom:m2	imię	
 Pudensy	Pudens	depr:pl:voc:m2	imię	
 Pudliszek	Pudliszki	subst:pl:gen:n:pt	nazwa geograficzna	
@@ -13149,6 +13490,7 @@ Pudowkinowi	Pudowkin	subst:sg:dat:m1	nazwisko
 Pudowkinów	Pudowkin	subst:pl:acc:m1	nazwisko	
 Pudowkinów	Pudowkin	subst:pl:gen:m1	nazwisko	
 Pudowkin	Pudowkin	subst:sg:nom:m1	nazwisko	
+Pudowkiny	Pudowkin	depr:pl:acc:m2	nazwisko	
 Pudowkiny	Pudowkin	depr:pl:nom:m2	nazwisko	
 Pudowkiny	Pudowkin	depr:pl:voc:m2	nazwisko	
 Puerto	Puerto	subst:pl:acc:n:ncol	człon nazwy geograficznej	
@@ -13186,6 +13528,7 @@ Puertorykańczykami	Puertorykańczyk	subst:pl:inst:m1	nazwa pospolita
 Puertorykańczyka	Puertorykańczyk	subst:sg:acc:m1	nazwa pospolita	
 Puertorykańczyka	Puertorykańczyk	subst:sg:gen:m1	nazwa pospolita	
 Puertorykańczykiem	Puertorykańczyk	subst:sg:inst:m1	nazwa pospolita	
+Puertorykańczyki	Puertorykańczyk	depr:pl:acc:m2	nazwa pospolita	
 Puertorykańczyki	Puertorykańczyk	depr:pl:nom:m2	nazwa pospolita	
 Puertorykańczyki	Puertorykańczyk	depr:pl:voc:m2	nazwa pospolita	
 Puertorykańczykom	Puertorykańczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -13209,6 +13552,7 @@ Pugaczowowi	Pugaczow	subst:sg:dat:m1	nazwisko
 Pugaczowów	Pugaczow	subst:pl:acc:m1	nazwisko	
 Pugaczowów	Pugaczow	subst:pl:gen:m1	nazwisko	
 Pugaczow	Pugaczow	subst:sg:nom:m1	nazwisko	
+Pugaczowy	Pugaczow	depr:pl:acc:m2	nazwisko	
 Pugaczowy	Pugaczow	depr:pl:nom:m2	nazwisko	
 Pugaczowy	Pugaczow	depr:pl:voc:m2	nazwisko	
 Pulcheriach	Pulcheria	subst:pl:loc:f	imię	
@@ -13238,6 +13582,7 @@ Pulitzerowi	Pulitzer	subst:sg:dat:m1	nazwisko
 Pulitzerów	Pulitzer	subst:pl:acc:m1	nazwisko	
 Pulitzerów	Pulitzer	subst:pl:gen:m1	nazwisko	
 Pulitzer	Pulitzer	subst:sg:nom:m1	nazwisko	
+Pulitzery	Pulitzer	depr:pl:acc:m2	nazwisko	
 Pulitzery	Pulitzer	depr:pl:nom:m2	nazwisko	
 Pulitzery	Pulitzer	depr:pl:voc:m2	nazwisko	
 Pulitzerze	Pulitzer	subst:sg:loc:m1	nazwisko	
@@ -13256,6 +13601,7 @@ Pullmanowi	Pullman	subst:sg:dat:m1	nazwisko
 Pullmanów	Pullman	subst:pl:acc:m1	nazwisko	
 Pullmanów	Pullman	subst:pl:gen:m1	nazwisko	
 Pullman	Pullman	subst:sg:nom:m1	nazwisko	
+Pullmany	Pullman	depr:pl:acc:m2	nazwisko	
 Pullmany	Pullman	depr:pl:nom:m2	nazwisko	
 Pullmany	Pullman	depr:pl:voc:m2	nazwisko	
 Pułaska	Pułaska	subst:sg:nom:f	nazwisko	
@@ -13280,6 +13626,7 @@ Pułaskich	Pułaski	subst:pl:loc:m1	nazwisko
 Pułaskiego	Pułaski	subst:sg:acc:m1	nazwisko	
 Pułaskiego	Pułaski	subst:sg:gen:m1	nazwisko	
 Pułaskiemu	Pułaski	subst:sg:dat:m1	nazwisko	
+Pułaskie	Pułaski	depr:pl:acc:m2	nazwisko	
 Pułaskie	Pułaski	depr:pl:nom:m2	nazwisko	
 Pułaskie	Pułaski	depr:pl:voc:m2	nazwisko	
 Pułaskimi	Pułaski	subst:pl:inst:m1	nazwisko	
@@ -13323,6 +13670,7 @@ Pupkami	Pupka	subst:pl:inst:m1	nazwisko
 Pupka	Pupka	subst:sg:nom:m1	nazwisko	
 Pupką	Pupka	subst:sg:inst:m1	nazwisko	
 Pupkę	Pupka	subst:sg:acc:m1	nazwisko	
+Pupki	Pupka	depr:pl:acc:m2	nazwisko	
 Pupki	Pupka	depr:pl:nom:m2	nazwisko	
 Pupki	Pupka	depr:pl:voc:m2	nazwisko	
 Pupki	Pupka	subst:sg:gen:m1	nazwisko	
@@ -13381,6 +13729,7 @@ Purkynego	Purkyne	subst:sg:gen:m1	nazwisko
 Purkynem	Purkyne	subst:sg:inst:m1	nazwisko	
 Purkynem	Purkyne	subst:sg:loc:m1	nazwisko	
 Purkynemu	Purkyne	subst:sg:dat:m1	nazwisko	
+Purkyne	Purkyne	depr:pl:acc:m2	nazwisko	
 Purkyne	Purkyne	depr:pl:nom:m2	nazwisko	
 Purkyne	Purkyne	depr:pl:voc:m2	nazwisko	
 Purkyne	Purkyne	subst:sg:nom:m1	nazwisko	
@@ -13432,6 +13781,7 @@ Pustochinowi	Pustochin	subst:sg:dat:m1	nazwisko
 Pustochinów	Pustochin	subst:pl:acc:m1	nazwisko	
 Pustochinów	Pustochin	subst:pl:gen:m1	nazwisko	
 Pustochin	Pustochin	subst:sg:nom:m1	nazwisko	
+Pustochiny	Pustochin	depr:pl:acc:m2	nazwisko	
 Pustochiny	Pustochin	depr:pl:nom:m2	nazwisko	
 Pustochiny	Pustochin	depr:pl:voc:m2	nazwisko	
 Puszczacy	Puszczak	subst:pl:nom:m1	nazwa pospolita	
@@ -13441,6 +13791,7 @@ Puszczakami	Puszczak	subst:pl:inst:m1	nazwa pospolita
 Puszczaka	Puszczak	subst:sg:acc:m1	nazwa pospolita	
 Puszczaka	Puszczak	subst:sg:gen:m1	nazwa pospolita	
 Puszczakiem	Puszczak	subst:sg:inst:m1	nazwa pospolita	
+Puszczaki	Puszczak	depr:pl:acc:m2	nazwa pospolita	
 Puszczaki	Puszczak	depr:pl:nom:m2	nazwa pospolita	
 Puszczaki	Puszczak	depr:pl:voc:m2	nazwa pospolita	
 Puszczakom	Puszczak	subst:pl:dat:m1	nazwa pospolita	
@@ -13480,6 +13831,7 @@ Puszkinowi	Puszkin	subst:sg:dat:m1	nazwisko
 Puszkinów	Puszkin	subst:pl:acc:m1	nazwisko	
 Puszkinów	Puszkin	subst:pl:gen:m1	nazwisko	
 Puszkin	Puszkin	subst:sg:nom:m1	nazwisko	
+Puszkiny	Puszkin	depr:pl:acc:m2	nazwisko	
 Puszkiny	Puszkin	depr:pl:nom:m2	nazwisko	
 Puszkiny	Puszkin	depr:pl:voc:m2	nazwisko	
 Putinach	Putin	subst:pl:loc:m1	nazwisko	
@@ -13496,6 +13848,7 @@ Putinowi	Putin	subst:sg:dat:m1	nazwisko
 Putinów	Putin	subst:pl:acc:m1	nazwisko	
 Putinów	Putin	subst:pl:gen:m1	nazwisko	
 Putin	Putin	subst:sg:nom:m1	nazwisko	
+Putiny	Putin	depr:pl:acc:m2	nazwisko	
 Putiny	Putin	depr:pl:nom:m2	nazwisko	
 Putiny	Putin	depr:pl:voc:m2	nazwisko	
 Puttkamerach	Puttkamer	subst:pl:loc:m1	nazwisko	
@@ -13510,6 +13863,7 @@ Puttkamerowi	Puttkamer	subst:sg:dat:m1	nazwisko
 Puttkamerów	Puttkamer	subst:pl:acc:m1	nazwisko	
 Puttkamerów	Puttkamer	subst:pl:gen:m1	nazwisko	
 Puttkamer	Puttkamer	subst:sg:nom:m1	nazwisko	
+Puttkamery	Puttkamer	depr:pl:acc:m2	nazwisko	
 Puttkamery	Puttkamer	depr:pl:nom:m2	nazwisko	
 Puttkamery	Puttkamer	depr:pl:voc:m2	nazwisko	
 Puttkamerze	Puttkamer	subst:sg:loc:m1	nazwisko	
@@ -13544,6 +13898,7 @@ Putysławowi	Putysław	subst:sg:dat:m1	imię
 Putysławów	Putysław	subst:pl:acc:m1	imię	
 Putysławów	Putysław	subst:pl:gen:m1	imię	
 Putysław	Putysław	subst:sg:nom:m1	imię	
+Putysławy	Putysław	depr:pl:acc:m2	imię	
 Putysławy	Putysław	depr:pl:nom:m2	imię	
 Putysławy	Putysław	depr:pl:voc:m2	imię	
 Puziach	Puzio	subst:pl:loc:m1	nazwisko	
@@ -13552,6 +13907,7 @@ Puzia	Puzio	subst:sg:acc:m1	nazwisko
 Puzia	Puzio	subst:sg:gen:m1	nazwisko	
 Puzią	Puzio	subst:sg:inst:m1	nazwisko	
 Puziem	Puzio	subst:sg:inst:m1	nazwisko	
+Puzie	Puzio	depr:pl:acc:m2	nazwisko	
 Puzie	Puzio	depr:pl:nom:m2	nazwisko	
 Puzie	Puzio	depr:pl:voc:m2	nazwisko	
 Puzię	Puzio	subst:sg:acc:m1	nazwisko	
@@ -13580,6 +13936,7 @@ Puzynowie	Puzyna	subst:pl:nom:m1	nazwisko
 Puzynowie	Puzyna	subst:pl:voc:m1	nazwisko	
 Puzynów	Puzyna	subst:pl:acc:m1	nazwisko	
 Puzynów	Puzyna	subst:pl:gen:m1	nazwisko	
+Puzyny	Puzyna	depr:pl:acc:m2	nazwisko	
 Puzyny	Puzyna	depr:pl:nom:m2	nazwisko	
 Puzyny	Puzyna	depr:pl:voc:m2	nazwisko	
 Puzyny	Puzyna	subst:sg:gen:m1	nazwisko	
@@ -13602,6 +13959,7 @@ Pużakami	Pużak	subst:pl:inst:m1	nazwisko
 Pużaka	Pużak	subst:sg:acc:m1	nazwisko	
 Pużaka	Pużak	subst:sg:gen:m1	nazwisko	
 Pużakiem	Pużak	subst:sg:inst:m1	nazwisko	
+Pużaki	Pużak	depr:pl:acc:m2	nazwisko	
 Pużaki	Pużak	depr:pl:nom:m2	nazwisko	
 Pużaki	Pużak	depr:pl:voc:m2	nazwisko	
 Pużakom	Pużak	subst:pl:dat:m1	nazwisko	
@@ -13725,6 +14083,7 @@ Pyjasowi	Pyjas	subst:sg:dat:m1	nazwisko
 Pyjasów	Pyjas	subst:pl:acc:m1	nazwisko	
 Pyjasów	Pyjas	subst:pl:gen:m1	nazwisko	
 Pyjas	Pyjas	subst:sg:nom:m1	nazwisko	
+Pyjasy	Pyjas	depr:pl:acc:m2	nazwisko	
 Pyjasy	Pyjas	depr:pl:nom:m2	nazwisko	
 Pyjasy	Pyjas	depr:pl:voc:m2	nazwisko	
 Pyrrusach	Pyrrus	subst:pl:loc:m1	imię	
@@ -13743,6 +14102,7 @@ Pyrrusowi	Pyrrus	subst:sg:dat:m1	imię
 Pyrrusów	Pyrrus	subst:pl:acc:m1	imię	
 Pyrrusów	Pyrrus	subst:pl:gen:m1	imię	
 Pyrrus	Pyrrus	subst:sg:nom:m1	imię	
+Pyrrusy	Pyrrus	depr:pl:acc:m2	imię	
 Pyrrusy	Pyrrus	depr:pl:nom:m2	imię	
 Pyrrusy	Pyrrus	depr:pl:voc:m2	imię	
 Pyrzycach	Pyrzyce	subst:pl:loc:n:pt	nazwa geograficzna	
@@ -13773,6 +14133,7 @@ Pyrzyczanin	Pyrzyczanin	subst:sg:nom:m1	nazwa pospolita
 Pyrzyczanom	Pyrzyczanin	subst:pl:dat:m1	nazwa pospolita	
 Pyrzyczan	Pyrzyczanin	subst:pl:acc:m1	nazwa pospolita	
 Pyrzyczan	Pyrzyczanin	subst:pl:gen:m1	nazwa pospolita	
+Pyrzyczany	Pyrzyczanin	depr:pl:acc:m2	nazwa pospolita	
 Pyrzyczany	Pyrzyczanin	depr:pl:nom:m2	nazwa pospolita	
 Pyrzyczany	Pyrzyczanin	depr:pl:voc:m2	nazwa pospolita	
 Pyrzyńska	Pyrzyńska	subst:sg:nom:f	nazwisko	
@@ -13797,6 +14158,7 @@ Pyrzyńskich	Pyrzyński	subst:pl:loc:m1	nazwisko
 Pyrzyńskiego	Pyrzyński	subst:sg:acc:m1	nazwisko	
 Pyrzyńskiego	Pyrzyński	subst:sg:gen:m1	nazwisko	
 Pyrzyńskiemu	Pyrzyński	subst:sg:dat:m1	nazwisko	
+Pyrzyńskie	Pyrzyński	depr:pl:acc:m2	nazwisko	
 Pyrzyńskie	Pyrzyński	depr:pl:nom:m2	nazwisko	
 Pyrzyńskie	Pyrzyński	depr:pl:voc:m2	nazwisko	
 Pyrzyńskimi	Pyrzyński	subst:pl:inst:m1	nazwisko	
@@ -13839,6 +14201,7 @@ Pytlami	Pytel	subst:pl:inst:m1	nazwisko
 Pytla	Pytel	subst:sg:acc:m1	nazwisko	
 Pytla	Pytel	subst:sg:gen:m1	nazwisko	
 Pytlem	Pytel	subst:sg:inst:m1	nazwisko	
+Pytle	Pytel	depr:pl:acc:m2	nazwisko	
 Pytle	Pytel	depr:pl:nom:m2	nazwisko	
 Pytle	Pytel	depr:pl:voc:m2	nazwisko	
 Pytlom	Pytel	subst:pl:dat:m1	nazwisko	
@@ -13871,6 +14234,7 @@ Pytkowskich	Pytkowski	subst:pl:loc:m1	nazwisko
 Pytkowskiego	Pytkowski	subst:sg:acc:m1	nazwisko	
 Pytkowskiego	Pytkowski	subst:sg:gen:m1	nazwisko	
 Pytkowskiemu	Pytkowski	subst:sg:dat:m1	nazwisko	
+Pytkowskie	Pytkowski	depr:pl:acc:m2	nazwisko	
 Pytkowskie	Pytkowski	depr:pl:nom:m2	nazwisko	
 Pytkowskie	Pytkowski	depr:pl:voc:m2	nazwisko	
 Pytkowskimi	Pytkowski	subst:pl:inst:m1	nazwisko	

@@ -20,6 +20,7 @@
 Żabickiego	Żabicki	subst:sg:acc:m1	nazwisko	
 Żabickiego	Żabicki	subst:sg:gen:m1	nazwisko	
 Żabickiemu	Żabicki	subst:sg:dat:m1	nazwisko	
+Żabickie	Żabicki	depr:pl:acc:m2	nazwisko	
 Żabickie	Żabicki	depr:pl:nom:m2	nazwisko	
 Żabickie	Żabicki	depr:pl:voc:m2	nazwisko	
 Żabickimi	Żabicki	subst:pl:inst:m1	nazwisko	
@@ -66,6 +67,7 @@
 Żabińskiego	Żabiński	subst:sg:acc:m1	nazwisko	
 Żabińskiego	Żabiński	subst:sg:gen:m1	nazwisko	
 Żabińskiemu	Żabiński	subst:sg:dat:m1	nazwisko	
+Żabińskie	Żabiński	depr:pl:acc:m2	nazwisko	
 Żabińskie	Żabiński	depr:pl:nom:m2	nazwisko	
 Żabińskie	Żabiński	depr:pl:voc:m2	nazwisko	
 Żabińskimi	Żabiński	subst:pl:inst:m1	nazwisko	
@@ -96,6 +98,7 @@
 Żabotyńskiego	Żabotyński	subst:sg:acc:m1	nazwisko	
 Żabotyńskiego	Żabotyński	subst:sg:gen:m1	nazwisko	
 Żabotyńskiemu	Żabotyński	subst:sg:dat:m1	nazwisko	
+Żabotyńskie	Żabotyński	depr:pl:acc:m2	nazwisko	
 Żabotyńskie	Żabotyński	depr:pl:nom:m2	nazwisko	
 Żabotyńskie	Żabotyński	depr:pl:voc:m2	nazwisko	
 Żabotyńskimi	Żabotyński	subst:pl:inst:m1	nazwisko	
@@ -124,6 +127,7 @@
 Żaka	Żak	subst:sg:acc:m1	nazwisko	
 Żaka	Żak	subst:sg:gen:m1	nazwisko	
 Żakiem	Żak	subst:sg:inst:m1	nazwisko	
+Żaki	Żak	depr:pl:acc:m2	nazwisko	
 Żaki	Żak	depr:pl:nom:m2	nazwisko	
 Żaki	Żak	depr:pl:voc:m2	nazwisko	
 Żakom	Żak	subst:pl:dat:m1	nazwisko	
@@ -329,6 +333,7 @@
 Żbikowskiego	Żbikowski	subst:sg:acc:m1	nazwisko	
 Żbikowskiego	Żbikowski	subst:sg:gen:m1	nazwisko	
 Żbikowskiemu	Żbikowski	subst:sg:dat:m1	nazwisko	
+Żbikowskie	Żbikowski	depr:pl:acc:m2	nazwisko	
 Żbikowskie	Żbikowski	depr:pl:nom:m2	nazwisko	
 Żbikowskie	Żbikowski	depr:pl:voc:m2	nazwisko	
 Żbikowskimi	Żbikowski	subst:pl:inst:m1	nazwisko	
@@ -352,6 +357,7 @@
 Żdanowi	Żdan	subst:sg:dat:m1	imię	
 Żdanów	Żdan	subst:pl:acc:m1	imię	
 Żdanów	Żdan	subst:pl:gen:m1	imię	
+Żdany	Żdan	depr:pl:acc:m2	imię	
 Żdany	Żdan	depr:pl:nom:m2	imię	
 Żdany	Żdan	depr:pl:voc:m2	imię	
 Żdan	Żdan	subst:sg:nom:m1	imię	
@@ -377,6 +383,7 @@
 Żebrowskiego	Żebrowski	subst:sg:acc:m1	nazwisko	
 Żebrowskiego	Żebrowski	subst:sg:gen:m1	nazwisko	
 Żebrowskiemu	Żebrowski	subst:sg:dat:m1	nazwisko	
+Żebrowskie	Żebrowski	depr:pl:acc:m2	nazwisko	
 Żebrowskie	Żebrowski	depr:pl:nom:m2	nazwisko	
 Żebrowskie	Żebrowski	depr:pl:voc:m2	nazwisko	
 Żebrowskimi	Żebrowski	subst:pl:inst:m1	nazwisko	
@@ -427,6 +434,7 @@
 Żegoto	Żegota	subst:sg:voc:m1	imię	
 Żegotów	Żegota	subst:pl:acc:m1	imię	
 Żegotów	Żegota	subst:pl:gen:m1	imię	
+Żegoty	Żegota	depr:pl:acc:m2	imię	
 Żegoty	Żegota	depr:pl:nom:m2	imię	
 Żegoty	Żegota	depr:pl:voc:m2	imię	
 Żegoty	Żegota	subst:sg:gen:m1	imię	
@@ -448,6 +456,7 @@
 Żelaznego	Żelazny	subst:sg:acc:m1	nazwisko|przydomek	
 Żelaznego	Żelazny	subst:sg:gen:m1	nazwisko|przydomek	
 Żelaznemu	Żelazny	subst:sg:dat:m1	nazwisko|przydomek	
+Żelazne	Żelazny	depr:pl:acc:m2	nazwisko|przydomek	
 Żelazne	Żelazny	depr:pl:nom:m2	nazwisko|przydomek	
 Żelazne	Żelazny	depr:pl:voc:m2	nazwisko|przydomek	
 Żelaznych	Żelazny	subst:pl:acc:m1	nazwisko|przydomek	
@@ -483,6 +492,7 @@
 Żelazowskiego	Żelazowski	subst:sg:acc:m1	nazwisko	
 Żelazowskiego	Żelazowski	subst:sg:gen:m1	nazwisko	
 Żelazowskiemu	Żelazowski	subst:sg:dat:m1	nazwisko	
+Żelazowskie	Żelazowski	depr:pl:acc:m2	nazwisko	
 Żelazowskie	Żelazowski	depr:pl:nom:m2	nazwisko	
 Żelazowskie	Żelazowski	depr:pl:voc:m2	nazwisko	
 Żelazowskimi	Żelazowski	subst:pl:inst:m1	nazwisko	
@@ -512,6 +522,7 @@
 Żelka	Żelek	subst:sg:acc:m1	imię	
 Żelka	Żelek	subst:sg:gen:m1	imię	
 Żelkiem	Żelek	subst:sg:inst:m1	imię	
+Żelki	Żelek	depr:pl:acc:m2	imię	
 Żelki	Żelek	depr:pl:nom:m2	imię	
 Żelki	Żelek	depr:pl:voc:m2	imię	
 Żelkom	Żelek	subst:pl:dat:m1	imię	
@@ -544,6 +555,7 @@
 Żeleńskiego	Żeleński	subst:sg:acc:m1	nazwisko	
 Żeleńskiego	Żeleński	subst:sg:gen:m1	nazwisko	
 Żeleńskiemu	Żeleński	subst:sg:dat:m1	nazwisko	
+Żeleńskie	Żeleński	depr:pl:acc:m2	nazwisko	
 Żeleńskie	Żeleński	depr:pl:nom:m2	nazwisko	
 Żeleńskie	Żeleński	depr:pl:voc:m2	nazwisko	
 Żeleńskimi	Żeleński	subst:pl:inst:m1	nazwisko	
@@ -565,6 +577,7 @@
 Żelewowi	Żelew	subst:sg:dat:m1	nazwisko	
 Żelewów	Żelew	subst:pl:acc:m1	nazwisko	
 Żelewów	Żelew	subst:pl:gen:m1	nazwisko	
+Żelewy	Żelew	depr:pl:acc:m2	nazwisko	
 Żelewy	Żelew	depr:pl:nom:m2	nazwisko	
 Żelewy	Żelew	depr:pl:voc:m2	nazwisko	
 Żelew	Żelew	subst:sg:nom:m1	nazwisko	
@@ -590,6 +603,7 @@
 Żelichowskiego	Żelichowski	subst:sg:acc:m1	nazwisko	
 Żelichowskiego	Żelichowski	subst:sg:gen:m1	nazwisko	
 Żelichowskiemu	Żelichowski	subst:sg:dat:m1	nazwisko	
+Żelichowskie	Żelichowski	depr:pl:acc:m2	nazwisko	
 Żelichowskie	Żelichowski	depr:pl:nom:m2	nazwisko	
 Żelichowskie	Żelichowski	depr:pl:voc:m2	nazwisko	
 Żelichowskimi	Żelichowski	subst:pl:inst:m1	nazwisko	
@@ -606,6 +620,7 @@
 Żeligowskiego	Żeligowski	subst:sg:acc:m1	nazwisko	
 Żeligowskiego	Żeligowski	subst:sg:gen:m1	nazwisko	
 Żeligowskiemu	Żeligowski	subst:sg:dat:m1	nazwisko	
+Żeligowskie	Żeligowski	depr:pl:acc:m2	nazwisko	
 Żeligowskie	Żeligowski	depr:pl:nom:m2	nazwisko	
 Żeligowskie	Żeligowski	depr:pl:voc:m2	nazwisko	
 Żeligowskimi	Żeligowski	subst:pl:inst:m1	nazwisko	
@@ -629,9 +644,11 @@
 Żelisławowi	Żelisław	subst:sg:dat:m1	imię	
 Żelisławów	Żelisław	subst:pl:acc:m1	imię	
 Żelisławów	Żelisław	subst:pl:gen:m1	imię	
+Żelisławy	Żelisław	depr:pl:acc:m2	imię	
 Żelisławy	Żelisław	depr:pl:nom:m2	imię	
 Żelisławy	Żelisław	depr:pl:voc:m2	imię	
 Żelisław	Żelisław	subst:sg:nom:m1	imię	
+Żeliu	Żeliu	depr:pl:acc:m2	imię	
 Żeliu	Żeliu	depr:pl:nom:m2	imię	
 Żeliu	Żeliu	depr:pl:voc:m2	imię	
 Żeliu	Żeliu	subst:pl:acc:m1	imię	
@@ -714,6 +731,7 @@
 Żeromskiego	Żeromski	subst:sg:acc:m1	nazwisko	
 Żeromskiego	Żeromski	subst:sg:gen:m1	nazwisko	
 Żeromskiemu	Żeromski	subst:sg:dat:m1	nazwisko	
+Żeromskie	Żeromski	depr:pl:acc:m2	nazwisko	
 Żeromskie	Żeromski	depr:pl:nom:m2	nazwisko	
 Żeromskie	Żeromski	depr:pl:voc:m2	nazwisko	
 Żeromskimi	Żeromski	subst:pl:inst:m1	nazwisko	
@@ -735,6 +753,7 @@
 Żiwkowowi	Żiwkow	subst:sg:dat:m1	nazwisko	
 Żiwkowów	Żiwkow	subst:pl:acc:m1	nazwisko	
 Żiwkowów	Żiwkow	subst:pl:gen:m1	nazwisko	
+Żiwkowy	Żiwkow	depr:pl:acc:m2	nazwisko	
 Żiwkowy	Żiwkow	depr:pl:nom:m2	nazwisko	
 Żiwkowy	Żiwkow	depr:pl:voc:m2	nazwisko	
 Żiwkow	Żiwkow	subst:sg:nom:m1	nazwisko	
@@ -745,6 +764,7 @@
 Żiżka	Żiżka	subst:sg:nom:m1	nazwisko	
 Żiżką	Żiżka	subst:sg:inst:m1	nazwisko	
 Żiżkę	Żiżka	subst:sg:acc:m1	nazwisko	
+Żiżki	Żiżka	depr:pl:acc:m2	nazwisko	
 Żiżki	Żiżka	depr:pl:nom:m2	nazwisko	
 Żiżki	Żiżka	depr:pl:voc:m2	nazwisko	
 Żiżki	Żiżka	subst:sg:gen:m1	nazwisko	
@@ -776,6 +796,7 @@
 Żmichowskiego	Żmichowski	subst:sg:acc:m1	nazwisko	
 Żmichowskiego	Żmichowski	subst:sg:gen:m1	nazwisko	
 Żmichowskiemu	Żmichowski	subst:sg:dat:m1	nazwisko	
+Żmichowskie	Żmichowski	depr:pl:acc:m2	nazwisko	
 Żmichowskie	Żmichowski	depr:pl:nom:m2	nazwisko	
 Żmichowskie	Żmichowski	depr:pl:voc:m2	nazwisko	
 Żmichowskimi	Żmichowski	subst:pl:inst:m1	nazwisko	
@@ -806,6 +827,7 @@
 Żmijewskiego	Żmijewski	subst:sg:acc:m1	nazwisko	
 Żmijewskiego	Żmijewski	subst:sg:gen:m1	nazwisko	
 Żmijewskiemu	Żmijewski	subst:sg:dat:m1	nazwisko	
+Żmijewskie	Żmijewski	depr:pl:acc:m2	nazwisko	
 Żmijewskie	Żmijewski	depr:pl:nom:m2	nazwisko	
 Żmijewskie	Żmijewski	depr:pl:voc:m2	nazwisko	
 Żmijewskimi	Żmijewski	subst:pl:inst:m1	nazwisko	
@@ -827,6 +849,7 @@
 Żmudzinowi	Żmudzin	subst:sg:dat:m1	nazwa pospolita	
 Żmudzinów	Żmudzin	subst:pl:acc:m1	nazwa pospolita	
 Żmudzinów	Żmudzin	subst:pl:gen:m1	nazwa pospolita	
+Żmudziny	Żmudzin	depr:pl:acc:m2	nazwa pospolita	
 Żmudziny	Żmudzin	depr:pl:nom:m2	nazwa pospolita	
 Żmudziny	Żmudzin	depr:pl:voc:m2	nazwa pospolita	
 Żmudzin	Żmudzin	subst:sg:nom:m1	nazwa pospolita	
@@ -867,6 +890,7 @@
 Żmurkami	Żmurko	subst:pl:inst:m1	nazwisko	
 Żmurką	Żmurko	subst:sg:inst:m1	nazwisko	
 Żmurkę	Żmurko	subst:sg:acc:m1	nazwisko	
+Żmurki	Żmurko	depr:pl:acc:m2	nazwisko	
 Żmurki	Żmurko	depr:pl:nom:m2	nazwisko	
 Żmurki	Żmurko	depr:pl:voc:m2	nazwisko	
 Żmurki	Żmurko	subst:sg:gen:m1	nazwisko	
@@ -927,6 +951,7 @@
 Żochowskiego	Żochowski	subst:sg:acc:m1	nazwisko	
 Żochowskiego	Żochowski	subst:sg:gen:m1	nazwisko	
 Żochowskiemu	Żochowski	subst:sg:dat:m1	nazwisko	
+Żochowskie	Żochowski	depr:pl:acc:m2	nazwisko	
 Żochowskie	Żochowski	depr:pl:nom:m2	nazwisko	
 Żochowskie	Żochowski	depr:pl:voc:m2	nazwisko	
 Żochowskimi	Żochowski	subst:pl:inst:m1	nazwisko	
@@ -1042,6 +1067,7 @@
 Żółkiewskiego	Żółkiewski	subst:sg:acc:m1	nazwisko	
 Żółkiewskiego	Żółkiewski	subst:sg:gen:m1	nazwisko	
 Żółkiewskiemu	Żółkiewski	subst:sg:dat:m1	nazwisko	
+Żółkiewskie	Żółkiewski	depr:pl:acc:m2	nazwisko	
 Żółkiewskie	Żółkiewski	depr:pl:nom:m2	nazwisko	
 Żółkiewskie	Żółkiewski	depr:pl:voc:m2	nazwisko	
 Żółkiewskimi	Żółkiewski	subst:pl:inst:m1	nazwisko	
@@ -1072,6 +1098,7 @@
 Żółtowskiego	Żółtowski	subst:sg:acc:m1	nazwisko	
 Żółtowskiego	Żółtowski	subst:sg:gen:m1	nazwisko	
 Żółtowskiemu	Żółtowski	subst:sg:dat:m1	nazwisko	
+Żółtowskie	Żółtowski	depr:pl:acc:m2	nazwisko	
 Żółtowskie	Żółtowski	depr:pl:nom:m2	nazwisko	
 Żółtowskie	Żółtowski	depr:pl:voc:m2	nazwisko	
 Żółtowskimi	Żółtowski	subst:pl:inst:m1	nazwisko	
@@ -1102,6 +1129,7 @@
 Żórawskiego	Żórawski	subst:sg:acc:m1	nazwisko	
 Żórawskiego	Żórawski	subst:sg:gen:m1	nazwisko	
 Żórawskiemu	Żórawski	subst:sg:dat:m1	nazwisko	
+Żórawskie	Żórawski	depr:pl:acc:m2	nazwisko	
 Żórawskie	Żórawski	depr:pl:nom:m2	nazwisko	
 Żórawskie	Żórawski	depr:pl:voc:m2	nazwisko	
 Żórawskimi	Żórawski	subst:pl:inst:m1	nazwisko	
@@ -1132,6 +1160,7 @@
 Żuchowskiego	Żuchowski	subst:sg:acc:m1	nazwisko	
 Żuchowskiego	Żuchowski	subst:sg:gen:m1	nazwisko	
 Żuchowskiemu	Żuchowski	subst:sg:dat:m1	nazwisko	
+Żuchowskie	Żuchowski	depr:pl:acc:m2	nazwisko	
 Żuchowskie	Żuchowski	depr:pl:nom:m2	nazwisko	
 Żuchowskie	Żuchowski	depr:pl:voc:m2	nazwisko	
 Żuchowskimi	Żuchowski	subst:pl:inst:m1	nazwisko	
@@ -1153,6 +1182,7 @@
 Żukowowi	Żukow	subst:sg:dat:m1	nazwisko	
 Żukowów	Żukow	subst:pl:acc:m1	nazwisko	
 Żukowów	Żukow	subst:pl:gen:m1	nazwisko	
+Żukowy	Żukow	depr:pl:acc:m2	nazwisko	
 Żukowy	Żukow	depr:pl:nom:m2	nazwisko	
 Żukowy	Żukow	depr:pl:voc:m2	nazwisko	
 Żukow	Żukow	subst:sg:nom:m1	nazwisko	
@@ -1194,6 +1224,7 @@
 Żukowskiego	Żukowski	subst:sg:acc:m1	nazwisko	
 Żukowskiego	Żukowski	subst:sg:gen:m1	nazwisko	
 Żukowskiemu	Żukowski	subst:sg:dat:m1	nazwisko	
+Żukowskie	Żukowski	depr:pl:acc:m2	nazwisko	
 Żukowskie	Żukowski	depr:pl:nom:m2	nazwisko	
 Żukowskie	Żukowski	depr:pl:voc:m2	nazwisko	
 Żukowskimi	Żukowski	subst:pl:inst:m1	nazwisko	
@@ -1210,6 +1241,7 @@
 Żuławskiego	Żuławski	subst:sg:acc:m1	nazwisko	
 Żuławskiego	Żuławski	subst:sg:gen:m1	nazwisko	
 Żuławskiemu	Żuławski	subst:sg:dat:m1	nazwisko	
+Żuławskie	Żuławski	depr:pl:acc:m2	nazwisko	
 Żuławskie	Żuławski	depr:pl:nom:m2	nazwisko	
 Żuławskie	Żuławski	depr:pl:voc:m2	nazwisko	
 Żuławskimi	Żuławski	subst:pl:inst:m1	nazwisko	
@@ -1254,6 +1286,7 @@
 Żurawskiego	Żurawski	subst:sg:acc:m1	nazwisko	
 Żurawskiego	Żurawski	subst:sg:gen:m1	nazwisko	
 Żurawskiemu	Żurawski	subst:sg:dat:m1	nazwisko	
+Żurawskie	Żurawski	depr:pl:acc:m2	nazwisko	
 Żurawskie	Żurawski	depr:pl:nom:m2	nazwisko	
 Żurawskie	Żurawski	depr:pl:voc:m2	nazwisko	
 Żurawskimi	Żurawski	subst:pl:inst:m1	nazwisko	
@@ -1268,6 +1301,7 @@
 Żurka	Żurek	subst:sg:acc:m1	nazwisko	
 Żurka	Żurek	subst:sg:gen:m1	nazwisko	
 Żurkiem	Żurek	subst:sg:inst:m1	nazwisko	
+Żurki	Żurek	depr:pl:acc:m2	nazwisko	
 Żurki	Żurek	depr:pl:nom:m2	nazwisko	
 Żurki	Żurek	depr:pl:voc:m2	nazwisko	
 Żurkom	Żurek	subst:pl:dat:m1	nazwisko	
@@ -1300,6 +1334,7 @@
 Żurowskiego	Żurowski	subst:sg:acc:m1	nazwisko	
 Żurowskiego	Żurowski	subst:sg:gen:m1	nazwisko	
 Żurowskiemu	Żurowski	subst:sg:dat:m1	nazwisko	
+Żurowskie	Żurowski	depr:pl:acc:m2	nazwisko	
 Żurowskie	Żurowski	depr:pl:nom:m2	nazwisko	
 Żurowskie	Żurowski	depr:pl:voc:m2	nazwisko	
 Żurowskimi	Żurowski	subst:pl:inst:m1	nazwisko	
@@ -1314,6 +1349,7 @@
 Żwirkami	Żwirko	subst:pl:inst:m1	nazwisko	
 Żwirką	Żwirko	subst:sg:inst:m1	nazwisko	
 Żwirkę	Żwirko	subst:sg:acc:m1	nazwisko	
+Żwirki	Żwirko	depr:pl:acc:m2	nazwisko	
 Żwirki	Żwirko	depr:pl:nom:m2	nazwisko	
 Żwirki	Żwirko	depr:pl:voc:m2	nazwisko	
 Żwirki	Żwirko	subst:sg:gen:m1	nazwisko	
@@ -1374,6 +1410,7 @@
 Życińskiego	Życiński	subst:sg:acc:m1	nazwisko	
 Życińskiego	Życiński	subst:sg:gen:m1	nazwisko	
 Życińskiemu	Życiński	subst:sg:dat:m1	nazwisko	
+Życińskie	Życiński	depr:pl:acc:m2	nazwisko	
 Życińskie	Życiński	depr:pl:nom:m2	nazwisko	
 Życińskie	Życiński	depr:pl:voc:m2	nazwisko	
 Życińskimi	Życiński	subst:pl:inst:m1	nazwisko	
@@ -1404,6 +1441,7 @@
 Życzyńskiego	Życzyński	subst:sg:acc:m1	nazwisko	
 Życzyńskiego	Życzyński	subst:sg:gen:m1	nazwisko	
 Życzyńskiemu	Życzyński	subst:sg:dat:m1	nazwisko	
+Życzyńskie	Życzyński	depr:pl:acc:m2	nazwisko	
 Życzyńskie	Życzyński	depr:pl:nom:m2	nazwisko	
 Życzyńskie	Życzyński	depr:pl:voc:m2	nazwisko	
 Życzyńskimi	Życzyński	subst:pl:inst:m1	nazwisko	
@@ -1421,6 +1459,7 @@
 Żydowi	Żyd	subst:sg:dat:m1	nazwa pospolita	
 Żydów	Żyd	subst:pl:acc:m1	nazwa pospolita	
 Żydów	Żyd	subst:pl:gen:m1	nazwa pospolita	
+Żydy	Żyd	depr:pl:acc:m2	nazwa pospolita	
 Żydy	Żyd	depr:pl:nom:m2	nazwa pospolita	
 Żydy	Żyd	depr:pl:voc:m2	nazwa pospolita	
 Żydzie	Żyd	subst:sg:loc:m1	nazwa pospolita	
@@ -1434,6 +1473,7 @@
 Żydka	Żydek	subst:sg:acc:m1	nazwa pospolita	
 Żydka	Żydek	subst:sg:gen:m1	nazwa pospolita	
 Żydkiem	Żydek	subst:sg:inst:m1	nazwa pospolita	
+Żydki	Żydek	depr:pl:acc:m2	nazwa pospolita	
 Żydki	Żydek	depr:pl:nom:m2	nazwa pospolita	
 Żydki	Żydek	depr:pl:voc:m2	nazwa pospolita	
 Żydkom	Żydek	subst:pl:dat:m1	nazwa pospolita	
@@ -1471,6 +1511,7 @@
 Żydowinowi	Żydowin	subst:sg:dat:m1	nazwa pospolita	
 Żydowinów	Żydowin	subst:pl:acc:m1	nazwa pospolita	
 Żydowinów	Żydowin	subst:pl:gen:m1	nazwa pospolita	
+Żydowiny	Żydowin	depr:pl:acc:m2	nazwa pospolita	
 Żydowiny	Żydowin	depr:pl:nom:m2	nazwa pospolita	
 Żydowiny	Żydowin	depr:pl:voc:m2	nazwa pospolita	
 Żydowin	Żydowin	subst:sg:nom:m1	nazwa pospolita	
@@ -1525,6 +1566,7 @@
 Żydziaka	Żydziak	subst:sg:acc:m1	nazwa pospolita	pogard.
 Żydziaka	Żydziak	subst:sg:gen:m1	nazwa pospolita	pogard.
 Żydziakiem	Żydziak	subst:sg:inst:m1	nazwa pospolita	pogard.
+Żydziaki	Żydziak	depr:pl:acc:m2	nazwa pospolita	pogard.
 Żydziaki	Żydziak	depr:pl:nom:m2	nazwa pospolita	pogard.
 Żydziaki	Żydziak	depr:pl:voc:m2	nazwa pospolita	pogard.
 Żydziakom	Żydziak	subst:pl:dat:m1	nazwa pospolita	pogard.
@@ -1575,6 +1617,7 @@
 Żydzino	Żydzina	subst:sg:voc:m1	nazwa pospolita	pogard.
 Żydzinów	Żydzina	subst:pl:acc:m1	nazwa pospolita	pogard.
 Żydzinów	Żydzina	subst:pl:gen:m1	nazwa pospolita	pogard.
+Żydziny	Żydzina	depr:pl:acc:m2	nazwa pospolita	pogard.
 Żydziny	Żydzina	depr:pl:nom:m2	nazwa pospolita	pogard.
 Żydziny	Żydzina	depr:pl:voc:m2	nazwa pospolita	pogard.
 Żydziny	Żydzina	subst:sg:gen:m1	nazwa pospolita	pogard.
@@ -1582,6 +1625,7 @@
 Żydziskach	Żydzisko	subst:pl:loc:n:ncol	nazwa pospolita	
 Żydziskami	Żydzisko	subst:pl:inst:m1	nazwa pospolita	rzad.
 Żydziskami	Żydzisko	subst:pl:inst:n:ncol	nazwa pospolita	
+Żydziska	Żydzisko	depr:pl:acc:m2	nazwa pospolita	rzad.
 Żydziska	Żydzisko	depr:pl:nom:m2	nazwa pospolita	rzad.
 Żydziska	Żydzisko	depr:pl:voc:m2	nazwa pospolita	rzad.
 Żydziska	Żydzisko	subst:pl:acc:n:ncol	nazwa pospolita	
@@ -1621,6 +1665,7 @@
 Żylisowi	Żylis	subst:sg:dat:m1	nazwisko	
 Żylisów	Żylis	subst:pl:acc:m1	nazwisko	
 Żylisów	Żylis	subst:pl:gen:m1	nazwisko	
+Żylisy	Żylis	depr:pl:acc:m2	nazwisko	
 Żylisy	Żylis	depr:pl:nom:m2	nazwisko	
 Żylisy	Żylis	depr:pl:voc:m2	nazwisko	
 Żylis	Żylis	subst:sg:nom:m1	nazwisko	
@@ -1632,6 +1677,7 @@
 Żymierskiego	Żymierski	subst:sg:acc:m1	nazwisko	
 Żymierskiego	Żymierski	subst:sg:gen:m1	nazwisko	
 Żymierskiemu	Żymierski	subst:sg:dat:m1	nazwisko	
+Żymierskie	Żymierski	depr:pl:acc:m2	nazwisko	
 Żymierskie	Żymierski	depr:pl:nom:m2	nazwisko	
 Żymierskie	Żymierski	depr:pl:voc:m2	nazwisko	
 Żymierskimi	Żymierski	subst:pl:inst:m1	nazwisko	
@@ -1692,6 +1738,7 @@
 Żyrinowskiego	Żyrinowski	subst:sg:acc:m1	nazwisko	
 Żyrinowskiego	Żyrinowski	subst:sg:gen:m1	nazwisko	
 Żyrinowskiemu	Żyrinowski	subst:sg:dat:m1	nazwisko	
+Żyrinowskie	Żyrinowski	depr:pl:acc:m2	nazwisko	
 Żyrinowskie	Żyrinowski	depr:pl:nom:m2	nazwisko	
 Żyrinowskie	Żyrinowski	depr:pl:voc:m2	nazwisko	
 Żyrinowskimi	Żyrinowski	subst:pl:inst:m1	nazwisko	
@@ -1715,6 +1762,7 @@
 Żyrosławowi	Żyrosław	subst:sg:dat:m1	imię	
 Żyrosławów	Żyrosław	subst:pl:acc:m1	imię	
 Żyrosławów	Żyrosław	subst:pl:gen:m1	imię	
+Żyrosławy	Żyrosław	depr:pl:acc:m2	imię	
 Żyrosławy	Żyrosław	depr:pl:nom:m2	imię	
 Żyrosławy	Żyrosław	depr:pl:voc:m2	imię	
 Żyrosław	Żyrosław	subst:sg:nom:m1	imię	
@@ -1740,6 +1788,7 @@
 Żyrynowskiego	Żyrynowski	subst:sg:acc:m1	nazwisko	
 Żyrynowskiego	Żyrynowski	subst:sg:gen:m1	nazwisko	
 Żyrynowskiemu	Żyrynowski	subst:sg:dat:m1	nazwisko	
+Żyrynowskie	Żyrynowski	depr:pl:acc:m2	nazwisko	
 Żyrynowskie	Żyrynowski	depr:pl:nom:m2	nazwisko	
 Żyrynowskie	Żyrynowski	depr:pl:voc:m2	nazwisko	
 Żyrynowskimi	Żyrynowski	subst:pl:inst:m1	nazwisko	

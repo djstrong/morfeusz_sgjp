@@ -28,6 +28,7 @@ fabianinowi	fabianin	subst:sg:dat:m1	nazwa pospolita
 fabianom	fabianin	subst:pl:dat:m1	nazwa pospolita	
 fabianów	fabianin	subst:pl:acc:m1	nazwa pospolita	
 fabianów	fabianin	subst:pl:gen:m1	nazwa pospolita	
+fabiany	fabianin	depr:pl:acc:m2	nazwa pospolita	
 fabiany	fabianin	depr:pl:nom:m2	nazwa pospolita	
 fabiany	fabianin	depr:pl:voc:m2	nazwa pospolita	
 fabianizmach	fabianizm	subst:pl:loc:m3	nazwa pospolita	
@@ -224,6 +225,7 @@ fabrykancika	fabrykancik	subst:sg:gen:m1	nazwa pospolita
 fabrykancikami	fabrykancik	subst:pl:inst:m1	nazwa pospolita	
 fabrykancik	fabrykancik	subst:sg:nom:m1	nazwa pospolita	
 fabrykancikiem	fabrykancik	subst:sg:inst:m1	nazwa pospolita	
+fabrykanciki	fabrykancik	depr:pl:acc:m2	nazwa pospolita	
 fabrykanciki	fabrykancik	depr:pl:nom:m2	nazwa pospolita	
 fabrykanciki	fabrykancik	depr:pl:voc:m2	nazwa pospolita	
 fabrykancikom	fabrykancik	subst:pl:dat:m1	nazwa pospolita	
@@ -288,6 +290,7 @@ fabrykantom	fabrykant	subst:pl:dat:m1	nazwa pospolita
 fabrykantowi	fabrykant	subst:sg:dat:m1	nazwa pospolita	
 fabrykantów	fabrykant	subst:pl:acc:m1	nazwa pospolita	
 fabrykantów	fabrykant	subst:pl:gen:m1	nazwa pospolita	
+fabrykanty	fabrykant	depr:pl:acc:m2	nazwa pospolita	
 fabrykanty	fabrykant	depr:pl:nom:m2	nazwa pospolita	
 fabrykanty	fabrykant	depr:pl:voc:m2	nazwa pospolita	
 fabrykantce	fabrykantka	subst:sg:dat:f	nazwa pospolita	
@@ -356,6 +359,7 @@ fabrykatorom	fabrykator	subst:pl:dat:m1	nazwa pospolita	przest.
 fabrykatorowi	fabrykator	subst:sg:dat:m1	nazwa pospolita	przest.
 fabrykatorów	fabrykator	subst:pl:acc:m1	nazwa pospolita	przest.
 fabrykatorów	fabrykator	subst:pl:gen:m1	nazwa pospolita	przest.
+fabrykatory	fabrykator	depr:pl:acc:m2	nazwa pospolita	przest.
 fabrykatory	fabrykator	depr:pl:nom:m2	nazwa pospolita	przest.
 fabrykatory	fabrykator	depr:pl:voc:m2	nazwa pospolita	przest.
 fabrykatorze	fabrykator	subst:sg:loc:m1	nazwa pospolita	przest.
@@ -627,6 +631,7 @@ fabularzach	fabularz	subst:pl:loc:m1	nazwa pospolita	przest.
 fabularza	fabularz	subst:sg:acc:m1	nazwa pospolita	przest.
 fabularza	fabularz	subst:sg:gen:m1	nazwa pospolita	przest.
 fabularzami	fabularz	subst:pl:inst:m1	nazwa pospolita	przest.
+fabularze	fabularz	depr:pl:acc:m2	nazwa pospolita	przest.
 fabularze	fabularz	depr:pl:nom:m2	nazwa pospolita	przest.
 fabularze	fabularz	depr:pl:voc:m2	nazwa pospolita	przest.
 fabularze	fabularz	subst:pl:nom:m1	nazwa pospolita	przest.
@@ -648,6 +653,7 @@ fabularzysto	fabularzysta	subst:sg:voc:m1	nazwa pospolita
 fabularzystom	fabularzysta	subst:pl:dat:m1	nazwa pospolita	
 fabularzystów	fabularzysta	subst:pl:acc:m1	nazwa pospolita	
 fabularzystów	fabularzysta	subst:pl:gen:m1	nazwa pospolita	
+fabularzysty	fabularzysta	depr:pl:acc:m2	nazwa pospolita	
 fabularzysty	fabularzysta	depr:pl:nom:m2	nazwa pospolita	
 fabularzysty	fabularzysta	depr:pl:voc:m2	nazwa pospolita	
 fabularzysty	fabularzysta	subst:sg:gen:m1	nazwa pospolita	
@@ -883,6 +889,7 @@ facecika	facecik	subst:sg:gen:m1	nazwa pospolita
 facecikami	facecik	subst:pl:inst:m1	nazwa pospolita	
 facecik	facecik	subst:sg:nom:m1	nazwa pospolita	
 facecikiem	facecik	subst:sg:inst:m1	nazwa pospolita	
+faceciki	facecik	depr:pl:acc:m2	nazwa pospolita	
 faceciki	facecik	depr:pl:nom:m2	nazwa pospolita	
 faceciki	facecik	depr:pl:voc:m2	nazwa pospolita	
 facecikom	facecik	subst:pl:dat:m1	nazwa pospolita	
@@ -902,6 +909,7 @@ facecisto	facecista	subst:sg:voc:m1	nazwa pospolita	przest.
 facecistom	facecista	subst:pl:dat:m1	nazwa pospolita	przest.
 facecistów	facecista	subst:pl:acc:m1	nazwa pospolita	przest.
 facecistów	facecista	subst:pl:gen:m1	nazwa pospolita	przest.
+facecisty	facecista	depr:pl:acc:m2	nazwa pospolita	przest.
 facecisty	facecista	depr:pl:nom:m2	nazwa pospolita	przest.
 facecisty	facecista	depr:pl:voc:m2	nazwa pospolita	przest.
 facecisty	facecista	subst:sg:gen:m1	nazwa pospolita	przest.
@@ -938,6 +946,7 @@ facecjonatom	facecjonat	subst:pl:dat:m1	nazwa pospolita	przest.
 facecjonatowi	facecjonat	subst:sg:dat:m1	nazwa pospolita	przest.
 facecjonatów	facecjonat	subst:pl:acc:m1	nazwa pospolita	przest.
 facecjonatów	facecjonat	subst:pl:gen:m1	nazwa pospolita	przest.
+facecjonaty	facecjonat	depr:pl:acc:m2	nazwa pospolita	przest.
 facecjonaty	facecjonat	depr:pl:nom:m2	nazwa pospolita	przest.
 facecjonaty	facecjonat	depr:pl:voc:m2	nazwa pospolita	przest.
 facecjonistach	facecjonista	subst:pl:loc:m1	nazwa pospolita	
@@ -949,6 +958,7 @@ facecjonisto	facecjonista	subst:sg:voc:m1	nazwa pospolita
 facecjonistom	facecjonista	subst:pl:dat:m1	nazwa pospolita	
 facecjonistów	facecjonista	subst:pl:acc:m1	nazwa pospolita	
 facecjonistów	facecjonista	subst:pl:gen:m1	nazwa pospolita	
+facecjonisty	facecjonista	depr:pl:acc:m2	nazwa pospolita	
 facecjonisty	facecjonista	depr:pl:nom:m2	nazwa pospolita	
 facecjonisty	facecjonista	depr:pl:voc:m2	nazwa pospolita	
 facecjonisty	facecjonista	subst:sg:gen:m1	nazwa pospolita	
@@ -1142,6 +1152,7 @@ facetom	facet	subst:pl:dat:m1	nazwa pospolita	pot.
 facetowi	facet	subst:sg:dat:m1	nazwa pospolita	pot.
 facetów	facet	subst:pl:acc:m1	nazwa pospolita	pot.
 facetów	facet	subst:pl:gen:m1	nazwa pospolita	pot.
+facety	facet	depr:pl:acc:m2	nazwa pospolita	pot.
 facety	facet	depr:pl:nom:m2	nazwa pospolita	pot.
 facety	facet	depr:pl:voc:m2	nazwa pospolita	pot.
 faceteczce	faceteczka	subst:sg:dat:f	nazwa pospolita	
@@ -1186,6 +1197,7 @@ facetusom	facetus	subst:pl:dat:m1	nazwa pospolita	przest.
 facetusowi	facetus	subst:sg:dat:m1	nazwa pospolita	przest.
 facetusów	facetus	subst:pl:acc:m1	nazwa pospolita	przest.
 facetusów	facetus	subst:pl:gen:m1	nazwa pospolita	przest.
+facetusy	facetus	depr:pl:acc:m2	nazwa pospolita	przest.
 facetusy	facetus	depr:pl:nom:m2	nazwa pospolita	przest.
 facetusy	facetus	depr:pl:voc:m2	nazwa pospolita	przest.
 fachach	fach	subst:pl:loc:m3	nazwa pospolita	
@@ -1230,6 +1242,7 @@ fachmanom	fachman	subst:pl:dat:m1	nazwa pospolita
 fachmanowi	fachman	subst:sg:dat:m1	nazwa pospolita	
 fachmanów	fachman	subst:pl:acc:m1	nazwa pospolita	
 fachmanów	fachman	subst:pl:gen:m1	nazwa pospolita	
+fachmany	fachman	depr:pl:acc:m2	nazwa pospolita	
 fachmany	fachman	depr:pl:nom:m2	nazwa pospolita	
 fachmany	fachman	depr:pl:voc:m2	nazwa pospolita	
 fachmance	fachmanka	subst:sg:dat:f	nazwa pospolita	
@@ -1251,6 +1264,7 @@ fachowcach	fachowiec	subst:pl:loc:m1	nazwa pospolita
 fachowca	fachowiec	subst:sg:acc:m1	nazwa pospolita	
 fachowca	fachowiec	subst:sg:gen:m1	nazwa pospolita	
 fachowcami	fachowiec	subst:pl:inst:m1	nazwa pospolita	
+fachowce	fachowiec	depr:pl:acc:m2	nazwa pospolita	
 fachowce	fachowiec	depr:pl:nom:m2	nazwa pospolita	
 fachowce	fachowiec	depr:pl:voc:m2	nazwa pospolita	
 fachowcem	fachowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -1311,6 +1325,7 @@ fachuro	fachura	subst:sg:voc:m1	nazwa pospolita	pot.
 fachurom	fachura	subst:pl:dat:m1	nazwa pospolita	pot.
 fachurów	fachura	subst:pl:acc:m1	nazwa pospolita	pot.
 fachurów	fachura	subst:pl:gen:m1	nazwa pospolita	pot.
+fachury	fachura	depr:pl:acc:m2	nazwa pospolita	pot.
 fachury	fachura	depr:pl:nom:m2	nazwa pospolita	pot.
 fachury	fachura	depr:pl:voc:m2	nazwa pospolita	pot.
 fachury	fachura	subst:sg:gen:m1	nazwa pospolita	pot.
@@ -1322,6 +1337,7 @@ faciach	facio	subst:pl:loc:m1	nazwa pospolita
 facia	facio	subst:sg:acc:m1	nazwa pospolita	
 facia	facio	subst:sg:gen:m1	nazwa pospolita	
 faciami	facio	subst:pl:inst:m1	nazwa pospolita	
+facie	facio	depr:pl:acc:m2	nazwa pospolita	
 facie	facio	depr:pl:nom:m2	nazwa pospolita	
 facie	facio	depr:pl:voc:m2	nazwa pospolita	
 faciem	facio	subst:sg:inst:m1	nazwa pospolita	
@@ -1515,6 +1531,8 @@ facjendarza	facjendarz	subst:sg:gen:m1	nazwa pospolita	daw.
 facjendarza	facjendarz	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
 facjendarzami	facjendarz	subst:pl:inst:m1	nazwa pospolita	daw.
 facjendarzami	facjendarz	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
+facjendarze	facjendarz	depr:pl:acc:m2	nazwa pospolita	daw.
+facjendarze	facjendarz	depr:pl:acc:m2	nazwa pospolita	daw.|rzad.
 facjendarze	facjendarz	depr:pl:nom:m2	nazwa pospolita	daw.
 facjendarze	facjendarz	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
 facjendarze	facjendarz	depr:pl:voc:m2	nazwa pospolita	daw.
@@ -1841,6 +1859,7 @@ fafułowie	fafuła:s2	subst:pl:nom:m1	nazwa pospolita
 fafułowie	fafuła:s2	subst:pl:voc:m1	nazwa pospolita	
 fafułów	fafuła:s2	subst:pl:acc:m1	nazwa pospolita	
 fafułów	fafuła:s2	subst:pl:gen:m1	nazwa pospolita	
+fafuły	fafuła:s2	depr:pl:acc:m2	nazwa pospolita	
 fafuły	fafuła:s2	depr:pl:nom:m2	nazwa pospolita	
 fafuły	fafuła:s2	depr:pl:voc:m2	nazwa pospolita	
 fafuły	fafuła:s2	subst:sg:gen:m1	nazwa pospolita	
@@ -1999,6 +2018,7 @@ fagasom	fagas:s1	subst:pl:dat:m1	nazwa pospolita	pogard.
 fagasowi	fagas:s1	subst:sg:dat:m1	nazwa pospolita	pogard.
 fagasów	fagas:s1	subst:pl:acc:m1	nazwa pospolita	pogard.
 fagasów	fagas:s1	subst:pl:gen:m1	nazwa pospolita	pogard.
+fagasy	fagas:s1	depr:pl:acc:m2	nazwa pospolita	pogard.
 fagasy	fagas:s1	depr:pl:nom:m2	nazwa pospolita	pogard.
 fagasy	fagas:s1	depr:pl:voc:m2	nazwa pospolita	pogard.
 fagasach	fagas:s2	subst:pl:loc:m2	nazwa pospolita	
@@ -2038,6 +2058,7 @@ fagocisto	fagocista	subst:sg:voc:m1	nazwa pospolita
 fagocistom	fagocista	subst:pl:dat:m1	nazwa pospolita	
 fagocistów	fagocista	subst:pl:acc:m1	nazwa pospolita	
 fagocistów	fagocista	subst:pl:gen:m1	nazwa pospolita	
+fagocisty	fagocista	depr:pl:acc:m2	nazwa pospolita	
 fagocisty	fagocista	depr:pl:nom:m2	nazwa pospolita	
 fagocisty	fagocista	depr:pl:voc:m2	nazwa pospolita	
 fagocisty	fagocista	subst:sg:gen:m1	nazwa pospolita	
@@ -2388,6 +2409,8 @@ fajansiarza	fajansiarz	subst:sg:gen:m1	nazwa pospolita
 fajansiarza	fajansiarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 fajansiarzami	fajansiarz	subst:pl:inst:m1	nazwa pospolita	
 fajansiarzami	fajansiarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+fajansiarze	fajansiarz	depr:pl:acc:m2	nazwa pospolita	
+fajansiarze	fajansiarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 fajansiarze	fajansiarz	depr:pl:nom:m2	nazwa pospolita	
 fajansiarze	fajansiarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 fajansiarze	fajansiarz	depr:pl:voc:m2	nazwa pospolita	
@@ -2551,6 +2574,8 @@ fajczarza	fajczarz	subst:sg:gen:m1	nazwa pospolita
 fajczarza	fajczarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 fajczarzami	fajczarz	subst:pl:inst:m1	nazwa pospolita	
 fajczarzami	fajczarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+fajczarze	fajczarz	depr:pl:acc:m2	nazwa pospolita	
+fajczarze	fajczarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 fajczarze	fajczarz	depr:pl:nom:m2	nazwa pospolita	
 fajczarze	fajczarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 fajczarze	fajczarz	depr:pl:voc:m2	nazwa pospolita	
@@ -2987,6 +3012,7 @@ fajfrom	fajfer	subst:pl:dat:m1	nazwa pospolita
 fajfrowi	fajfer	subst:sg:dat:m1	nazwa pospolita	
 fajfrów	fajfer	subst:pl:acc:m1	nazwa pospolita	
 fajfrów	fajfer	subst:pl:gen:m1	nazwa pospolita	
+fajfry	fajfer	depr:pl:acc:m2	nazwa pospolita	
 fajfry	fajfer	depr:pl:nom:m2	nazwa pospolita	
 fajfry	fajfer	depr:pl:voc:m2	nazwa pospolita	
 fajfrze	fajfer	subst:sg:loc:m1	nazwa pospolita	
@@ -3058,6 +3084,8 @@ fajkarza	fajkarz	subst:sg:gen:m1	nazwa pospolita
 fajkarza	fajkarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 fajkarzami	fajkarz	subst:pl:inst:m1	nazwa pospolita	
 fajkarzami	fajkarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+fajkarze	fajkarz	depr:pl:acc:m2	nazwa pospolita	
+fajkarze	fajkarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 fajkarze	fajkarz	depr:pl:nom:m2	nazwa pospolita	
 fajkarze	fajkarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 fajkarze	fajkarz	depr:pl:voc:m2	nazwa pospolita	
@@ -3658,6 +3686,7 @@ fajtłapowie	fajtłapa:s1	subst:pl:nom:m1	nazwa pospolita	pot.
 fajtłapowie	fajtłapa:s1	subst:pl:voc:m1	nazwa pospolita	pot.
 fajtłapów	fajtłapa:s1	subst:pl:acc:m1	nazwa pospolita	pot.
 fajtłapów	fajtłapa:s1	subst:pl:gen:m1	nazwa pospolita	pot.
+fajtłapy	fajtłapa:s1	depr:pl:acc:m2	nazwa pospolita	pot.
 fajtłapy	fajtłapa:s1	depr:pl:nom:m2	nazwa pospolita	pot.
 fajtłapy	fajtłapa:s1	depr:pl:voc:m2	nazwa pospolita	pot.
 fajtłapy	fajtłapa:s1	subst:sg:gen:m1	nazwa pospolita	pot.
@@ -3848,6 +3877,7 @@ fakcjonisto	fakcjonista	subst:sg:voc:m1	nazwa pospolita	daw.
 fakcjonistom	fakcjonista	subst:pl:dat:m1	nazwa pospolita	daw.
 fakcjonistów	fakcjonista	subst:pl:acc:m1	nazwa pospolita	daw.
 fakcjonistów	fakcjonista	subst:pl:gen:m1	nazwa pospolita	daw.
+fakcjonisty	fakcjonista	depr:pl:acc:m2	nazwa pospolita	daw.
 fakcjonisty	fakcjonista	depr:pl:nom:m2	nazwa pospolita	daw.
 fakcjonisty	fakcjonista	depr:pl:voc:m2	nazwa pospolita	daw.
 fakcjonisty	fakcjonista	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -3919,6 +3949,7 @@ fakirowie	fakir	subst:pl:voc:m1	nazwa pospolita
 fakirowi	fakir	subst:sg:dat:m1	nazwa pospolita	
 fakirów	fakir	subst:pl:acc:m1	nazwa pospolita	
 fakirów	fakir	subst:pl:gen:m1	nazwa pospolita	
+fakiry	fakir	depr:pl:acc:m2	nazwa pospolita	
 fakiry	fakir	depr:pl:nom:m2	nazwa pospolita	
 fakiry	fakir	depr:pl:voc:m2	nazwa pospolita	
 fakirze	fakir	subst:sg:loc:m1	nazwa pospolita	
@@ -4379,6 +4410,7 @@ faktografowie	faktograf	subst:pl:voc:m1	nazwa pospolita
 faktografowi	faktograf	subst:sg:dat:m1	nazwa pospolita	
 faktografów	faktograf	subst:pl:acc:m1	nazwa pospolita	
 faktografów	faktograf	subst:pl:gen:m1	nazwa pospolita	
+faktografy	faktograf	depr:pl:acc:m2	nazwa pospolita	
 faktografy	faktograf	depr:pl:nom:m2	nazwa pospolita	
 faktografy	faktograf	depr:pl:voc:m2	nazwa pospolita	
 faktografiach	faktografia	subst:pl:loc:f	nazwa pospolita	
@@ -4531,6 +4563,7 @@ faktorantom	faktorant	subst:pl:dat:m1	nazwa pospolita	ekon.
 faktorantowi	faktorant	subst:sg:dat:m1	nazwa pospolita	ekon.
 faktorantów	faktorant	subst:pl:acc:m1	nazwa pospolita	ekon.
 faktorantów	faktorant	subst:pl:gen:m1	nazwa pospolita	ekon.
+faktoranty	faktorant	depr:pl:acc:m2	nazwa pospolita	ekon.
 faktoranty	faktorant	depr:pl:nom:m2	nazwa pospolita	ekon.
 faktoranty	faktorant	depr:pl:voc:m2	nazwa pospolita	ekon.
 faktoriach	faktoria	subst:pl:loc:f	nazwa pospolita	
@@ -4699,6 +4732,7 @@ faktorowie	faktor:s1	subst:pl:voc:m1	nazwa pospolita
 faktorowi	faktor:s1	subst:sg:dat:m1	nazwa pospolita	
 faktorów	faktor:s1	subst:pl:acc:m1	nazwa pospolita	
 faktorów	faktor:s1	subst:pl:gen:m1	nazwa pospolita	
+faktory	faktor:s1	depr:pl:acc:m2	nazwa pospolita	
 faktory	faktor:s1	depr:pl:nom:m2	nazwa pospolita	
 faktory	faktor:s1	depr:pl:voc:m2	nazwa pospolita	
 faktorze	faktor:s1	subst:sg:loc:m1	nazwa pospolita	
@@ -5064,6 +5098,7 @@ fakturzysto	fakturzysta	subst:sg:voc:m1	nazwa pospolita
 fakturzystom	fakturzysta	subst:pl:dat:m1	nazwa pospolita	
 fakturzystów	fakturzysta	subst:pl:acc:m1	nazwa pospolita	
 fakturzystów	fakturzysta	subst:pl:gen:m1	nazwa pospolita	
+fakturzysty	fakturzysta	depr:pl:acc:m2	nazwa pospolita	
 fakturzysty	fakturzysta	depr:pl:nom:m2	nazwa pospolita	
 fakturzysty	fakturzysta	depr:pl:voc:m2	nazwa pospolita	
 fakturzysty	fakturzysta	subst:sg:gen:m1	nazwa pospolita	
@@ -5428,6 +5463,7 @@ falangisto	falangista	subst:sg:voc:m1	nazwa pospolita
 falangistom	falangista	subst:pl:dat:m1	nazwa pospolita	
 falangistów	falangista	subst:pl:acc:m1	nazwa pospolita	
 falangistów	falangista	subst:pl:gen:m1	nazwa pospolita	
+falangisty	falangista	depr:pl:acc:m2	nazwa pospolita	
 falangisty	falangista	depr:pl:nom:m2	nazwa pospolita	
 falangisty	falangista	depr:pl:voc:m2	nazwa pospolita	
 falangisty	falangista	subst:sg:gen:m1	nazwa pospolita	
@@ -5502,6 +5538,7 @@ falangito	falangita	subst:sg:voc:m1	nazwa pospolita
 falangitom	falangita	subst:pl:dat:m1	nazwa pospolita	
 falangitów	falangita	subst:pl:acc:m1	nazwa pospolita	
 falangitów	falangita	subst:pl:gen:m1	nazwa pospolita	
+falangity	falangita	depr:pl:acc:m2	nazwa pospolita	
 falangity	falangita	depr:pl:nom:m2	nazwa pospolita	
 falangity	falangita	depr:pl:voc:m2	nazwa pospolita	
 falangity	falangita	subst:sg:gen:m1	nazwa pospolita	
@@ -5619,6 +5656,7 @@ falansterzysto	falansterzysta	subst:sg:voc:m1	nazwa pospolita
 falansterzystom	falansterzysta	subst:pl:dat:m1	nazwa pospolita	
 falansterzystów	falansterzysta	subst:pl:acc:m1	nazwa pospolita	
 falansterzystów	falansterzysta	subst:pl:gen:m1	nazwa pospolita	
+falansterzysty	falansterzysta	depr:pl:acc:m2	nazwa pospolita	
 falansterzysty	falansterzysta	depr:pl:nom:m2	nazwa pospolita	
 falansterzysty	falansterzysta	depr:pl:voc:m2	nazwa pospolita	
 falansterzysty	falansterzysta	subst:sg:gen:m1	nazwa pospolita	
@@ -6737,6 +6775,7 @@ falsecisto	falsecista	subst:sg:voc:m1	nazwa pospolita
 falsecistom	falsecista	subst:pl:dat:m1	nazwa pospolita	
 falsecistów	falsecista	subst:pl:acc:m1	nazwa pospolita	
 falsecistów	falsecista	subst:pl:gen:m1	nazwa pospolita	
+falsecisty	falsecista	depr:pl:acc:m2	nazwa pospolita	
 falsecisty	falsecista	depr:pl:nom:m2	nazwa pospolita	
 falsecisty	falsecista	depr:pl:voc:m2	nazwa pospolita	
 falsecisty	falsecista	subst:sg:gen:m1	nazwa pospolita	
@@ -6995,6 +7034,7 @@ falsyfikatorom	falsyfikator	subst:pl:dat:m1	nazwa pospolita
 falsyfikatorowi	falsyfikator	subst:sg:dat:m1	nazwa pospolita	
 falsyfikatorów	falsyfikator	subst:pl:acc:m1	nazwa pospolita	
 falsyfikatorów	falsyfikator	subst:pl:gen:m1	nazwa pospolita	
+falsyfikatory	falsyfikator	depr:pl:acc:m2	nazwa pospolita	
 falsyfikatory	falsyfikator	depr:pl:nom:m2	nazwa pospolita	
 falsyfikatory	falsyfikator	depr:pl:voc:m2	nazwa pospolita	
 falsyfikatorze	falsyfikator	subst:sg:loc:m1	nazwa pospolita	
@@ -7776,6 +7816,8 @@ fałszerza	fałszerz	subst:sg:gen:m1	nazwa pospolita
 fałszerza	fałszerz	subst:sg:gen:m1	nazwa pospolita	rzad.
 fałszerzami	fałszerz	subst:pl:inst:m1	nazwa pospolita	
 fałszerzami	fałszerz	subst:pl:inst:m1	nazwa pospolita	rzad.
+fałszerze	fałszerz	depr:pl:acc:m2	nazwa pospolita	
+fałszerze	fałszerz	depr:pl:acc:m2	nazwa pospolita	rzad.
 fałszerze	fałszerz	depr:pl:nom:m2	nazwa pospolita	
 fałszerze	fałszerz	depr:pl:nom:m2	nazwa pospolita	rzad.
 fałszerze	fałszerz	depr:pl:voc:m2	nazwa pospolita	
@@ -7909,6 +7951,7 @@ fałszywcach	fałszywiec	subst:pl:loc:m1	nazwa pospolita
 fałszywca	fałszywiec	subst:sg:acc:m1	nazwa pospolita	
 fałszywca	fałszywiec	subst:sg:gen:m1	nazwa pospolita	
 fałszywcami	fałszywiec	subst:pl:inst:m1	nazwa pospolita	
+fałszywce	fałszywiec	depr:pl:acc:m2	nazwa pospolita	
 fałszywce	fałszywiec	depr:pl:nom:m2	nazwa pospolita	
 fałszywce	fałszywiec	depr:pl:voc:m2	nazwa pospolita	
 fałszywcem	fałszywiec	subst:sg:inst:m1	nazwa pospolita	
@@ -8040,6 +8083,7 @@ familiantom	familiant	subst:pl:dat:m1	nazwa pospolita	daw.
 familiantowi	familiant	subst:sg:dat:m1	nazwa pospolita	daw.
 familiantów	familiant	subst:pl:acc:m1	nazwa pospolita	daw.
 familiantów	familiant	subst:pl:gen:m1	nazwa pospolita	daw.
+familianty	familiant	depr:pl:acc:m2	nazwa pospolita	daw.
 familianty	familiant	depr:pl:nom:m2	nazwa pospolita	daw.
 familianty	familiant	depr:pl:voc:m2	nazwa pospolita	daw.
 familiantce	familiantka	subst:sg:dat:f	nazwa pospolita	daw.
@@ -8176,6 +8220,7 @@ famulusom	famulus	subst:pl:dat:m1	nazwa pospolita
 famulusowi	famulus	subst:sg:dat:m1	nazwa pospolita	
 famulusów	famulus	subst:pl:acc:m1	nazwa pospolita	
 famulusów	famulus	subst:pl:gen:m1	nazwa pospolita	
+famulusy	famulus	depr:pl:acc:m2	nazwa pospolita	
 famulusy	famulus	depr:pl:nom:m2	nazwa pospolita	
 famulusy	famulus	depr:pl:voc:m2	nazwa pospolita	
 famule	famuła	subst:sg:dat:f	nazwa pospolita	
@@ -8206,6 +8251,7 @@ fanom	fan	subst:pl:dat:m1	nazwa pospolita	pot.
 fanowi	fan	subst:sg:dat:m1	nazwa pospolita	pot.
 fanów	fan	subst:pl:acc:m1	nazwa pospolita	pot.
 fanów	fan	subst:pl:gen:m1	nazwa pospolita	pot.
+fany	fan	depr:pl:acc:m2	nazwa pospolita	pot.
 fany	fan	depr:pl:nom:m2	nazwa pospolita	pot.
 fany	fan	depr:pl:voc:m2	nazwa pospolita	pot.
 fanaberiach	fanaberia	subst:pl:loc:f	nazwa pospolita	
@@ -8386,6 +8432,7 @@ fanatyka	fanatyk	subst:sg:gen:m1	nazwa pospolita
 fanatykami	fanatyk	subst:pl:inst:m1	nazwa pospolita	
 fanatyk	fanatyk	subst:sg:nom:m1	nazwa pospolita	
 fanatykiem	fanatyk	subst:sg:inst:m1	nazwa pospolita	
+fanatyki	fanatyk	depr:pl:acc:m2	nazwa pospolita	
 fanatyki	fanatyk	depr:pl:nom:m2	nazwa pospolita	
 fanatyki	fanatyk	depr:pl:voc:m2	nazwa pospolita	
 fanatykom	fanatyk	subst:pl:dat:m1	nazwa pospolita	
@@ -8533,6 +8580,8 @@ fanciarza	fanciarz	subst:sg:gen:m1	nazwa pospolita
 fanciarza	fanciarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 fanciarzami	fanciarz	subst:pl:inst:m1	nazwa pospolita	
 fanciarzami	fanciarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+fanciarze	fanciarz	depr:pl:acc:m2	nazwa pospolita	
+fanciarze	fanciarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 fanciarze	fanciarz	depr:pl:nom:m2	nazwa pospolita	
 fanciarze	fanciarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 fanciarze	fanciarz	depr:pl:voc:m2	nazwa pospolita	
@@ -8613,6 +8662,7 @@ fanfaronom	fanfaron	subst:pl:dat:m1	nazwa pospolita	przest.
 fanfaronowi	fanfaron	subst:sg:dat:m1	nazwa pospolita	przest.
 fanfaronów	fanfaron	subst:pl:acc:m1	nazwa pospolita	przest.
 fanfaronów	fanfaron	subst:pl:gen:m1	nazwa pospolita	przest.
+fanfarony	fanfaron	depr:pl:acc:m2	nazwa pospolita	przest.
 fanfarony	fanfaron	depr:pl:nom:m2	nazwa pospolita	przest.
 fanfarony	fanfaron	depr:pl:voc:m2	nazwa pospolita	przest.
 fanfaronadach	fanfaronada	subst:pl:loc:f	nazwa pospolita	
@@ -8637,6 +8687,7 @@ fanfaronika	fanfaronik	subst:sg:gen:m1	nazwa pospolita
 fanfaronikami	fanfaronik	subst:pl:inst:m1	nazwa pospolita	
 fanfaronik	fanfaronik	subst:sg:nom:m1	nazwa pospolita	
 fanfaronikiem	fanfaronik	subst:sg:inst:m1	nazwa pospolita	
+fanfaroniki	fanfaronik	depr:pl:acc:m2	nazwa pospolita	
 fanfaroniki	fanfaronik	depr:pl:nom:m2	nazwa pospolita	
 fanfaroniki	fanfaronik	depr:pl:voc:m2	nazwa pospolita	
 fanfaronikom	fanfaronik	subst:pl:dat:m1	nazwa pospolita	
@@ -8838,6 +8889,7 @@ fanfarzysto	fanfarzysta	subst:sg:voc:m1	nazwa pospolita
 fanfarzystom	fanfarzysta	subst:pl:dat:m1	nazwa pospolita	
 fanfarzystów	fanfarzysta	subst:pl:acc:m1	nazwa pospolita	
 fanfarzystów	fanfarzysta	subst:pl:gen:m1	nazwa pospolita	
+fanfarzysty	fanfarzysta	depr:pl:acc:m2	nazwa pospolita	
 fanfarzysty	fanfarzysta	depr:pl:nom:m2	nazwa pospolita	
 fanfarzysty	fanfarzysta	depr:pl:voc:m2	nazwa pospolita	
 fanfarzysty	fanfarzysta	subst:sg:gen:m1	nazwa pospolita	
@@ -9112,6 +9164,7 @@ fantasto	fantasta	subst:sg:voc:m1	nazwa pospolita
 fantastom	fantasta	subst:pl:dat:m1	nazwa pospolita	
 fantastów	fantasta	subst:pl:acc:m1	nazwa pospolita	
 fantastów	fantasta	subst:pl:gen:m1	nazwa pospolita	
+fantasty	fantasta	depr:pl:acc:m2	nazwa pospolita	
 fantasty	fantasta	depr:pl:nom:m2	nazwa pospolita	
 fantasty	fantasta	depr:pl:voc:m2	nazwa pospolita	
 fantasty	fantasta	subst:sg:gen:m1	nazwa pospolita	
@@ -9369,6 +9422,7 @@ fantastyka	fantastyk	subst:sg:gen:m1	nazwa pospolita	przest.
 fantastykami	fantastyk	subst:pl:inst:m1	nazwa pospolita	przest.
 fantastyk	fantastyk	subst:sg:nom:m1	nazwa pospolita	przest.
 fantastykiem	fantastyk	subst:sg:inst:m1	nazwa pospolita	przest.
+fantastyki	fantastyk	depr:pl:acc:m2	nazwa pospolita	przest.
 fantastyki	fantastyk	depr:pl:nom:m2	nazwa pospolita	przest.
 fantastyki	fantastyk	depr:pl:voc:m2	nazwa pospolita	przest.
 fantastykom	fantastyk	subst:pl:dat:m1	nazwa pospolita	przest.
@@ -9438,6 +9492,7 @@ fantazjotwórcach	fantazjotwórca	subst:pl:loc:m1	nazwa pospolita
 fantazjotwórca	fantazjotwórca	subst:sg:nom:m1	nazwa pospolita	
 fantazjotwórcami	fantazjotwórca	subst:pl:inst:m1	nazwa pospolita	
 fantazjotwórcą	fantazjotwórca	subst:sg:inst:m1	nazwa pospolita	
+fantazjotwórce	fantazjotwórca	depr:pl:acc:m2	nazwa pospolita	
 fantazjotwórce	fantazjotwórca	depr:pl:nom:m2	nazwa pospolita	
 fantazjotwórce	fantazjotwórca	depr:pl:voc:m2	nazwa pospolita	
 fantazjotwórcę	fantazjotwórca	subst:sg:acc:m1	nazwa pospolita	
@@ -9580,6 +9635,7 @@ fantazjuszach	fantazjusz	subst:pl:loc:m1	nazwa pospolita	indyw.
 fantazjusza	fantazjusz	subst:sg:acc:m1	nazwa pospolita	indyw.
 fantazjusza	fantazjusz	subst:sg:gen:m1	nazwa pospolita	indyw.
 fantazjuszami	fantazjusz	subst:pl:inst:m1	nazwa pospolita	indyw.
+fantazjusze	fantazjusz	depr:pl:acc:m2	nazwa pospolita	indyw.
 fantazjusze	fantazjusz	depr:pl:nom:m2	nazwa pospolita	indyw.
 fantazjusze	fantazjusz	depr:pl:voc:m2	nazwa pospolita	indyw.
 fantazjusze	fantazjusz	subst:pl:nom:m1	nazwa pospolita	indyw.
@@ -10339,6 +10395,7 @@ faramuśnika	faramuśnik	subst:sg:gen:m1	nazwa pospolita	gwar.
 faramuśnikami	faramuśnik	subst:pl:inst:m1	nazwa pospolita	gwar.
 faramuśnik	faramuśnik	subst:sg:nom:m1	nazwa pospolita	gwar.
 faramuśnikiem	faramuśnik	subst:sg:inst:m1	nazwa pospolita	gwar.
+faramuśniki	faramuśnik	depr:pl:acc:m2	nazwa pospolita	gwar.
 faramuśniki	faramuśnik	depr:pl:nom:m2	nazwa pospolita	gwar.
 faramuśniki	faramuśnik	depr:pl:voc:m2	nazwa pospolita	gwar.
 faramuśnikom	faramuśnik	subst:pl:dat:m1	nazwa pospolita	gwar.
@@ -10468,6 +10525,7 @@ faraonowie	faraon:s1	subst:pl:voc:m1	nazwa pospolita
 faraonowi	faraon:s1	subst:sg:dat:m1	nazwa pospolita	
 faraonów	faraon:s1	subst:pl:acc:m1	nazwa pospolita	
 faraonów	faraon:s1	subst:pl:gen:m1	nazwa pospolita	
+faraony	faraon:s1	depr:pl:acc:m2	nazwa pospolita	
 faraony	faraon:s1	depr:pl:nom:m2	nazwa pospolita	
 faraony	faraon:s1	depr:pl:voc:m2	nazwa pospolita	
 faraonach	faraon:s2	subst:pl:loc:m2	nazwa pospolita	karc.
@@ -10532,6 +10590,8 @@ fararza	fararz	subst:sg:gen:m1	nazwa pospolita	gwar.
 fararza	fararz	subst:sg:gen:m1	nazwa pospolita	gwar.|rzad.
 fararzami	fararz	subst:pl:inst:m1	nazwa pospolita	gwar.
 fararzami	fararz	subst:pl:inst:m1	nazwa pospolita	gwar.|rzad.
+fararze	fararz	depr:pl:acc:m2	nazwa pospolita	gwar.
+fararze	fararz	depr:pl:acc:m2	nazwa pospolita	gwar.|rzad.
 fararze	fararz	depr:pl:nom:m2	nazwa pospolita	gwar.
 fararze	fararz	depr:pl:nom:m2	nazwa pospolita	gwar.|rzad.
 fararze	fararz	depr:pl:voc:m2	nazwa pospolita	gwar.
@@ -10701,6 +10761,8 @@ farbiarza	farbiarz	subst:sg:gen:m1	nazwa pospolita
 farbiarza	farbiarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 farbiarzami	farbiarz	subst:pl:inst:m1	nazwa pospolita	
 farbiarzami	farbiarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+farbiarze	farbiarz	depr:pl:acc:m2	nazwa pospolita	
+farbiarze	farbiarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 farbiarze	farbiarz	depr:pl:nom:m2	nazwa pospolita	
 farbiarze	farbiarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 farbiarze	farbiarz	depr:pl:voc:m2	nazwa pospolita	
@@ -11436,6 +11498,8 @@ farciarza	farciarz	subst:sg:gen:m1	nazwa pospolita
 farciarza	farciarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 farciarzami	farciarz	subst:pl:inst:m1	nazwa pospolita	
 farciarzami	farciarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+farciarze	farciarz	depr:pl:acc:m2	nazwa pospolita	
+farciarze	farciarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 farciarze	farciarz	depr:pl:nom:m2	nazwa pospolita	
 farciarze	farciarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 farciarze	farciarz	depr:pl:voc:m2	nazwa pospolita	
@@ -11651,6 +11715,7 @@ farmaceuto	farmaceuta	subst:sg:voc:m1	nazwa pospolita
 farmaceutom	farmaceuta	subst:pl:dat:m1	nazwa pospolita	
 farmaceutów	farmaceuta	subst:pl:acc:m1	nazwa pospolita	
 farmaceutów	farmaceuta	subst:pl:gen:m1	nazwa pospolita	
+farmaceuty	farmaceuta	depr:pl:acc:m2	nazwa pospolita	
 farmaceuty	farmaceuta	depr:pl:nom:m2	nazwa pospolita	
 farmaceuty	farmaceuta	depr:pl:voc:m2	nazwa pospolita	
 farmaceuty	farmaceuta	subst:sg:gen:m1	nazwa pospolita	
@@ -11757,6 +11822,7 @@ farmaka	farmak	subst:sg:gen:m1	nazwa pospolita	żart.
 farmakami	farmak	subst:pl:inst:m1	nazwa pospolita	żart.
 farmak	farmak	subst:sg:nom:m1	nazwa pospolita	żart.
 farmakiem	farmak	subst:sg:inst:m1	nazwa pospolita	żart.
+farmaki	farmak	depr:pl:acc:m2	nazwa pospolita	żart.
 farmaki	farmak	depr:pl:nom:m2	nazwa pospolita	żart.
 farmaki	farmak	depr:pl:voc:m2	nazwa pospolita	żart.
 farmakom	farmak	subst:pl:dat:m1	nazwa pospolita	żart.
@@ -11826,6 +11892,7 @@ farmakognosto	farmakognosta	subst:sg:voc:m1	nazwa pospolita
 farmakognostom	farmakognosta	subst:pl:dat:m1	nazwa pospolita	
 farmakognostów	farmakognosta	subst:pl:acc:m1	nazwa pospolita	
 farmakognostów	farmakognosta	subst:pl:gen:m1	nazwa pospolita	
+farmakognosty	farmakognosta	depr:pl:acc:m2	nazwa pospolita	
 farmakognosty	farmakognosta	depr:pl:nom:m2	nazwa pospolita	
 farmakognosty	farmakognosta	depr:pl:voc:m2	nazwa pospolita	
 farmakognosty	farmakognosta	subst:sg:gen:m1	nazwa pospolita	
@@ -11908,6 +11975,7 @@ farmakologa	farmakolog	subst:sg:gen:m1	nazwa pospolita
 farmakologami	farmakolog	subst:pl:inst:m1	nazwa pospolita	
 farmakolog	farmakolog	subst:sg:nom:m1	nazwa pospolita	
 farmakologiem	farmakolog	subst:sg:inst:m1	nazwa pospolita	
+farmakologi	farmakolog	depr:pl:acc:m2	nazwa pospolita	
 farmakologi	farmakolog	depr:pl:nom:m2	nazwa pospolita	
 farmakologi	farmakolog	depr:pl:voc:m2	nazwa pospolita	
 farmakologom	farmakolog	subst:pl:dat:m1	nazwa pospolita	
@@ -12068,6 +12136,7 @@ farmazonom	farmazon	subst:pl:dat:m1	nazwa pospolita
 farmazonowi	farmazon	subst:sg:dat:m1	nazwa pospolita	
 farmazonów	farmazon	subst:pl:acc:m1	nazwa pospolita	
 farmazonów	farmazon	subst:pl:gen:m1	nazwa pospolita	
+farmazony	farmazon	depr:pl:acc:m2	nazwa pospolita	
 farmazony	farmazon	depr:pl:nom:m2	nazwa pospolita	
 farmazony	farmazon	depr:pl:voc:m2	nazwa pospolita	
 farmazoniach	farmazonia	subst:pl:loc:f	nazwa pospolita	
@@ -12142,6 +12211,7 @@ farmerom	farmer	subst:pl:dat:m1	nazwa pospolita
 farmerowi	farmer	subst:sg:dat:m1	nazwa pospolita	
 farmerów	farmer	subst:pl:acc:m1	nazwa pospolita	
 farmerów	farmer	subst:pl:gen:m1	nazwa pospolita	
+farmery	farmer	depr:pl:acc:m2	nazwa pospolita	
 farmery	farmer	depr:pl:nom:m2	nazwa pospolita	
 farmery	farmer	depr:pl:voc:m2	nazwa pospolita	
 farmerze	farmer	subst:sg:loc:m1	nazwa pospolita	
@@ -12282,6 +12352,7 @@ farosiczka	farosiczek	subst:sg:acc:m1	nazwa pospolita
 farosiczka	farosiczek	subst:sg:gen:m1	nazwa pospolita	
 farosiczkami	farosiczek	subst:pl:inst:m1	nazwa pospolita	
 farosiczkiem	farosiczek	subst:sg:inst:m1	nazwa pospolita	
+farosiczki	farosiczek	depr:pl:acc:m2	nazwa pospolita	
 farosiczki	farosiczek	depr:pl:nom:m2	nazwa pospolita	
 farosiczki	farosiczek	depr:pl:voc:m2	nazwa pospolita	
 farosiczkom	farosiczek	subst:pl:dat:m1	nazwa pospolita	
@@ -12298,6 +12369,7 @@ farosika	farosik	subst:sg:gen:m1	nazwa pospolita	reg.
 farosikami	farosik	subst:pl:inst:m1	nazwa pospolita	reg.
 farosik	farosik	subst:sg:nom:m1	nazwa pospolita	reg.
 farosikiem	farosik	subst:sg:inst:m1	nazwa pospolita	reg.
+farosiki	farosik	depr:pl:acc:m2	nazwa pospolita	reg.
 farosiki	farosik	depr:pl:nom:m2	nazwa pospolita	reg.
 farosiki	farosik	depr:pl:voc:m2	nazwa pospolita	reg.
 farosikom	farosik	subst:pl:dat:m1	nazwa pospolita	reg.
@@ -12312,6 +12384,7 @@ faroszach	farosz	subst:pl:loc:m1	nazwa pospolita
 farosza	farosz	subst:sg:acc:m1	nazwa pospolita	
 farosza	farosz	subst:sg:gen:m1	nazwa pospolita	
 faroszami	farosz	subst:pl:inst:m1	nazwa pospolita	
+farosze	farosz	depr:pl:acc:m2	nazwa pospolita	
 farosze	farosz	depr:pl:nom:m2	nazwa pospolita	
 farosze	farosz	depr:pl:voc:m2	nazwa pospolita	
 farosze	farosz	subst:pl:nom:m1	nazwa pospolita	
@@ -12332,6 +12405,7 @@ faroszka	faroszek	subst:sg:acc:m1	nazwa pospolita
 faroszka	faroszek	subst:sg:gen:m1	nazwa pospolita	
 faroszkami	faroszek	subst:pl:inst:m1	nazwa pospolita	
 faroszkiem	faroszek	subst:sg:inst:m1	nazwa pospolita	
+faroszki	faroszek	depr:pl:acc:m2	nazwa pospolita	
 faroszki	faroszek	depr:pl:nom:m2	nazwa pospolita	
 faroszki	faroszek	depr:pl:voc:m2	nazwa pospolita	
 faroszkom	faroszek	subst:pl:dat:m1	nazwa pospolita	
@@ -12392,6 +12466,8 @@ farsiarza	farsiarz	subst:sg:gen:m1	nazwa pospolita
 farsiarza	farsiarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 farsiarzami	farsiarz	subst:pl:inst:m1	nazwa pospolita	
 farsiarzami	farsiarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+farsiarze	farsiarz	depr:pl:acc:m2	nazwa pospolita	
+farsiarze	farsiarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 farsiarze	farsiarz	depr:pl:nom:m2	nazwa pospolita	
 farsiarze	farsiarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 farsiarze	farsiarz	depr:pl:voc:m2	nazwa pospolita	
@@ -12439,6 +12515,7 @@ farsisto	farsista	subst:sg:voc:m1	nazwa pospolita
 farsistom	farsista	subst:pl:dat:m1	nazwa pospolita	
 farsistów	farsista	subst:pl:acc:m1	nazwa pospolita	
 farsistów	farsista	subst:pl:gen:m1	nazwa pospolita	
+farsisty	farsista	depr:pl:acc:m2	nazwa pospolita	
 farsisty	farsista	depr:pl:nom:m2	nazwa pospolita	
 farsisty	farsista	depr:pl:voc:m2	nazwa pospolita	
 farsisty	farsista	subst:sg:gen:m1	nazwa pospolita	
@@ -12508,6 +12585,8 @@ farsopisarza	farsopisarz	subst:sg:gen:m1	nazwa pospolita
 farsopisarza	farsopisarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 farsopisarzami	farsopisarz	subst:pl:inst:m1	nazwa pospolita	
 farsopisarzami	farsopisarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+farsopisarze	farsopisarz	depr:pl:acc:m2	nazwa pospolita	
+farsopisarze	farsopisarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 farsopisarze	farsopisarz	depr:pl:nom:m2	nazwa pospolita	
 farsopisarze	farsopisarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 farsopisarze	farsopisarz	depr:pl:voc:m2	nazwa pospolita	
@@ -13115,6 +13194,8 @@ faryniarza	faryniarz	subst:sg:gen:m1	nazwa pospolita	daw.
 faryniarza	faryniarz	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
 faryniarzami	faryniarz	subst:pl:inst:m1	nazwa pospolita	daw.
 faryniarzami	faryniarz	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
+faryniarze	faryniarz	depr:pl:acc:m2	nazwa pospolita	daw.
+faryniarze	faryniarz	depr:pl:acc:m2	nazwa pospolita	daw.|rzad.
 faryniarze	faryniarz	depr:pl:nom:m2	nazwa pospolita	daw.
 faryniarze	faryniarz	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
 faryniarze	faryniarz	depr:pl:voc:m2	nazwa pospolita	daw.
@@ -13155,6 +13236,7 @@ farysowie	farys	subst:pl:voc:m1	nazwa pospolita
 farysowi	farys	subst:sg:dat:m1	nazwa pospolita	
 farysów	farys	subst:pl:acc:m1	nazwa pospolita	
 farysów	farys	subst:pl:gen:m1	nazwa pospolita	
+farysy	farys	depr:pl:acc:m2	nazwa pospolita	
 farysy	farys	depr:pl:nom:m2	nazwa pospolita	
 farysy	farys	depr:pl:voc:m2	nazwa pospolita	
 farysostwach	farysostwo	subst:pl:loc:n:ncol	nazwa pospolita	
@@ -13316,6 +13398,7 @@ faryzeuszach	faryzeusz	subst:pl:loc:m1	nazwa pospolita
 faryzeusza	faryzeusz	subst:sg:acc:m1	nazwa pospolita	
 faryzeusza	faryzeusz	subst:sg:gen:m1	nazwa pospolita	
 faryzeuszami	faryzeusz	subst:pl:inst:m1	nazwa pospolita	
+faryzeusze	faryzeusz	depr:pl:acc:m2	nazwa pospolita	
 faryzeusze	faryzeusz	depr:pl:nom:m2	nazwa pospolita	
 faryzeusze	faryzeusz	depr:pl:voc:m2	nazwa pospolita	
 faryzeusze	faryzeusz	subst:pl:nom:m1	nazwa pospolita	
@@ -13648,6 +13731,7 @@ fascynatom	fascynat	subst:pl:dat:m1	nazwa pospolita
 fascynatowi	fascynat	subst:sg:dat:m1	nazwa pospolita	
 fascynatów	fascynat	subst:pl:acc:m1	nazwa pospolita	
 fascynatów	fascynat	subst:pl:gen:m1	nazwa pospolita	
+fascynaty	fascynat	depr:pl:acc:m2	nazwa pospolita	
 fascynaty	fascynat	depr:pl:nom:m2	nazwa pospolita	
 fascynaty	fascynat	depr:pl:voc:m2	nazwa pospolita	
 fascynatorach	fascynator	subst:pl:loc:m1	nazwa pospolita	przest.
@@ -13660,6 +13744,7 @@ fascynatorom	fascynator	subst:pl:dat:m1	nazwa pospolita	przest.
 fascynatorowi	fascynator	subst:sg:dat:m1	nazwa pospolita	przest.
 fascynatorów	fascynator	subst:pl:acc:m1	nazwa pospolita	przest.
 fascynatorów	fascynator	subst:pl:gen:m1	nazwa pospolita	przest.
+fascynatory	fascynator	depr:pl:acc:m2	nazwa pospolita	przest.
 fascynatory	fascynator	depr:pl:nom:m2	nazwa pospolita	przest.
 fascynatory	fascynator	depr:pl:voc:m2	nazwa pospolita	przest.
 fascynatorze	fascynator	subst:sg:loc:m1	nazwa pospolita	przest.
@@ -14789,6 +14874,8 @@ faszyniarza	faszyniarz	subst:sg:gen:m1	nazwa pospolita
 faszyniarza	faszyniarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 faszyniarzami	faszyniarz	subst:pl:inst:m1	nazwa pospolita	
 faszyniarzami	faszyniarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+faszyniarze	faszyniarz	depr:pl:acc:m2	nazwa pospolita	
+faszyniarze	faszyniarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 faszyniarze	faszyniarz	depr:pl:nom:m2	nazwa pospolita	
 faszyniarze	faszyniarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 faszyniarze	faszyniarz	depr:pl:voc:m2	nazwa pospolita	
@@ -14949,6 +15036,7 @@ faszysto	faszysta	subst:sg:voc:m1	nazwa pospolita
 faszystom	faszysta	subst:pl:dat:m1	nazwa pospolita	
 faszystów	faszysta	subst:pl:acc:m1	nazwa pospolita	
 faszystów	faszysta	subst:pl:gen:m1	nazwa pospolita	
+faszysty	faszysta	depr:pl:acc:m2	nazwa pospolita	
 faszysty	faszysta	depr:pl:nom:m2	nazwa pospolita	
 faszysty	faszysta	depr:pl:voc:m2	nazwa pospolita	
 faszysty	faszysta	subst:sg:gen:m1	nazwa pospolita	
@@ -15175,6 +15263,7 @@ fatalisto	fatalista	subst:sg:voc:m1	nazwa pospolita
 fatalistom	fatalista	subst:pl:dat:m1	nazwa pospolita	
 fatalistów	fatalista	subst:pl:acc:m1	nazwa pospolita	
 fatalistów	fatalista	subst:pl:gen:m1	nazwa pospolita	
+fatalisty	fatalista	depr:pl:acc:m2	nazwa pospolita	
 fatalisty	fatalista	depr:pl:nom:m2	nazwa pospolita	
 fatalisty	fatalista	depr:pl:voc:m2	nazwa pospolita	
 fatalisty	fatalista	subst:sg:gen:m1	nazwa pospolita	
@@ -15595,6 +15684,7 @@ fatygantom	fatygant	subst:pl:dat:m1	nazwa pospolita	przest.
 fatygantowi	fatygant	subst:sg:dat:m1	nazwa pospolita	przest.
 fatygantów	fatygant	subst:pl:acc:m1	nazwa pospolita	przest.
 fatygantów	fatygant	subst:pl:gen:m1	nazwa pospolita	przest.
+fatyganty	fatygant	depr:pl:acc:m2	nazwa pospolita	przest.
 fatyganty	fatygant	depr:pl:nom:m2	nazwa pospolita	przest.
 fatyganty	fatygant	depr:pl:voc:m2	nazwa pospolita	przest.
 fatygować	fatygować	inf:imperf		
@@ -15819,6 +15909,7 @@ faunowie	faun	subst:pl:voc:m1	nazwa pospolita
 faunowi	faun	subst:sg:dat:m1	nazwa pospolita	
 faunów	faun	subst:pl:acc:m1	nazwa pospolita	
 faunów	faun	subst:pl:gen:m1	nazwa pospolita	
+fauny	faun	depr:pl:acc:m2	nazwa pospolita	
 fauny	faun	depr:pl:nom:m2	nazwa pospolita	
 fauny	faun	depr:pl:voc:m2	nazwa pospolita	
 faunach	fauna	subst:pl:loc:f	nazwa pospolita	
@@ -15920,6 +16011,7 @@ faunisto	faunista	subst:sg:voc:m1	nazwa pospolita
 faunistom	faunista	subst:pl:dat:m1	nazwa pospolita	
 faunistów	faunista	subst:pl:acc:m1	nazwa pospolita	
 faunistów	faunista	subst:pl:gen:m1	nazwa pospolita	
+faunisty	faunista	depr:pl:acc:m2	nazwa pospolita	
 faunisty	faunista	depr:pl:nom:m2	nazwa pospolita	
 faunisty	faunista	depr:pl:voc:m2	nazwa pospolita	
 faunisty	faunista	subst:sg:gen:m1	nazwa pospolita	
@@ -16309,6 +16401,7 @@ faworycika	faworycik:s2	subst:sg:gen:m1	nazwa pospolita
 faworycikami	faworycik:s2	subst:pl:inst:m1	nazwa pospolita	
 faworycik	faworycik:s2	subst:sg:nom:m1	nazwa pospolita	
 faworycikiem	faworycik:s2	subst:sg:inst:m1	nazwa pospolita	
+faworyciki	faworycik:s2	depr:pl:acc:m2	nazwa pospolita	
 faworyciki	faworycik:s2	depr:pl:nom:m2	nazwa pospolita	
 faworyciki	faworycik:s2	depr:pl:voc:m2	nazwa pospolita	
 faworycikom	faworycik:s2	subst:pl:dat:m1	nazwa pospolita	
@@ -16377,6 +16470,7 @@ faworytka	faworytek:s1	subst:sg:acc:m1	nazwa pospolita
 faworytka	faworytek:s1	subst:sg:gen:m1	nazwa pospolita	
 faworytkami	faworytek:s1	subst:pl:inst:m1	nazwa pospolita	
 faworytkiem	faworytek:s1	subst:sg:inst:m1	nazwa pospolita	
+faworytki	faworytek:s1	depr:pl:acc:m2	nazwa pospolita	
 faworytki	faworytek:s1	depr:pl:nom:m2	nazwa pospolita	
 faworytki	faworytek:s1	depr:pl:voc:m2	nazwa pospolita	
 faworytkom	faworytek:s1	subst:pl:dat:m1	nazwa pospolita	
@@ -16481,6 +16575,7 @@ faworytom	faworyt:s1	subst:pl:dat:m1	nazwa pospolita
 faworytowi	faworyt:s1	subst:sg:dat:m1	nazwa pospolita	
 faworytów	faworyt:s1	subst:pl:acc:m1	nazwa pospolita	
 faworytów	faworyt:s1	subst:pl:gen:m1	nazwa pospolita	
+faworyty	faworyt:s1	depr:pl:acc:m2	nazwa pospolita	
 faworyty	faworyt:s1	depr:pl:nom:m2	nazwa pospolita	
 faworyty	faworyt:s1	depr:pl:voc:m2	nazwa pospolita	
 faworycie	faworyt:s2	subst:sg:loc:m2	nazwa pospolita	
@@ -16695,6 +16790,7 @@ fazenderom	fazender	subst:pl:dat:m1	nazwa pospolita
 fazenderowi	fazender	subst:sg:dat:m1	nazwa pospolita	
 fazenderów	fazender	subst:pl:acc:m1	nazwa pospolita	
 fazenderów	fazender	subst:pl:gen:m1	nazwa pospolita	
+fazendery	fazender	depr:pl:acc:m2	nazwa pospolita	
 fazendery	fazender	depr:pl:nom:m2	nazwa pospolita	
 fazendery	fazender	depr:pl:voc:m2	nazwa pospolita	
 fazenderze	fazender	subst:sg:loc:m1	nazwa pospolita	
@@ -16881,6 +16977,7 @@ fąfla	fąfel	subst:sg:gen:m1	nazwa pospolita	pogard.|żart.
 fąfla	fąfel	subst:sg:gen:m2	nazwa pospolita	pogard.|żart.
 fąflami	fąfel	subst:pl:inst:m1	nazwa pospolita	pogard.|żart.
 fąflami	fąfel	subst:pl:inst:m2	nazwa pospolita	pogard.|żart.
+fąfle	fąfel	depr:pl:acc:m2	nazwa pospolita	pogard.|żart.
 fąfle	fąfel	depr:pl:nom:m2	nazwa pospolita	pogard.|żart.
 fąfle	fąfel	depr:pl:voc:m2	nazwa pospolita	pogard.|żart.
 fąfle	fąfel	subst:pl:acc:m2	nazwa pospolita	pogard.|żart.
@@ -17049,6 +17146,7 @@ fechmistrzach	fechmistrz	subst:pl:loc:m1	nazwa pospolita	przest.
 fechmistrza	fechmistrz	subst:sg:acc:m1	nazwa pospolita	przest.
 fechmistrza	fechmistrz	subst:sg:gen:m1	nazwa pospolita	przest.
 fechmistrzami	fechmistrz	subst:pl:inst:m1	nazwa pospolita	przest.
+fechmistrze	fechmistrz	depr:pl:acc:m2	nazwa pospolita	przest.
 fechmistrze	fechmistrz	depr:pl:nom:m2	nazwa pospolita	przest.
 fechmistrze	fechmistrz	depr:pl:voc:m2	nazwa pospolita	przest.
 fechmistrze	fechmistrz	subst:pl:nom:m1	nazwa pospolita	przest.
@@ -17147,6 +17245,7 @@ fechtmistrzach	fechtmistrz	subst:pl:loc:m1	nazwa pospolita	przest.
 fechtmistrza	fechtmistrz	subst:sg:acc:m1	nazwa pospolita	przest.
 fechtmistrza	fechtmistrz	subst:sg:gen:m1	nazwa pospolita	przest.
 fechtmistrzami	fechtmistrz	subst:pl:inst:m1	nazwa pospolita	przest.
+fechtmistrze	fechtmistrz	depr:pl:acc:m2	nazwa pospolita	przest.
 fechtmistrze	fechtmistrz	depr:pl:nom:m2	nazwa pospolita	przest.
 fechtmistrze	fechtmistrz	depr:pl:voc:m2	nazwa pospolita	przest.
 fechtmistrze	fechtmistrz	subst:pl:nom:m1	nazwa pospolita	przest.
@@ -17347,6 +17446,7 @@ fecjałowie	fecjał	subst:pl:voc:m1	nazwa pospolita
 fecjałowi	fecjał	subst:sg:dat:m1	nazwa pospolita	
 fecjałów	fecjał	subst:pl:acc:m1	nazwa pospolita	
 fecjałów	fecjał	subst:pl:gen:m1	nazwa pospolita	
+fecjały	fecjał	depr:pl:acc:m2	nazwa pospolita	
 fecjały	fecjał	depr:pl:nom:m2	nazwa pospolita	
 fecjały	fecjał	depr:pl:voc:m2	nazwa pospolita	
 fedainach	fedain	subst:pl:loc:m1	nazwa pospolita	
@@ -17363,6 +17463,7 @@ fedainom	fedain	subst:pl:dat:m1	nazwa pospolita
 fedainowi	fedain	subst:sg:dat:m1	nazwa pospolita	
 fedainów	fedain	subst:pl:acc:m1	nazwa pospolita	
 fedainów	fedain	subst:pl:gen:m1	nazwa pospolita	
+fedainy	fedain	depr:pl:acc:m2	nazwa pospolita	
 fedainy	fedain	depr:pl:nom:m2	nazwa pospolita	
 fedainy	fedain	depr:pl:voc:m2	nazwa pospolita	
 feddanach	feddan	subst:pl:loc:m3	nazwa pospolita	
@@ -17442,6 +17543,7 @@ federalisto	federalista	subst:sg:voc:m1	nazwa pospolita
 federalistom	federalista	subst:pl:dat:m1	nazwa pospolita	
 federalistów	federalista	subst:pl:acc:m1	nazwa pospolita	
 federalistów	federalista	subst:pl:gen:m1	nazwa pospolita	
+federalisty	federalista	depr:pl:acc:m2	nazwa pospolita	
 federalisty	federalista	depr:pl:nom:m2	nazwa pospolita	
 federalisty	federalista	depr:pl:voc:m2	nazwa pospolita	
 federalisty	federalista	subst:sg:gen:m1	nazwa pospolita	
@@ -17657,6 +17759,7 @@ federatom	federat	subst:pl:dat:m1	nazwa pospolita
 federatowi	federat	subst:sg:dat:m1	nazwa pospolita	
 federatów	federat	subst:pl:acc:m1	nazwa pospolita	
 federatów	federat	subst:pl:gen:m1	nazwa pospolita	
+federaty	federat	depr:pl:acc:m2	nazwa pospolita	
 federaty	federat	depr:pl:nom:m2	nazwa pospolita	
 federaty	federat	depr:pl:voc:m2	nazwa pospolita	
 federatywnie	federatywnie	adv:pos		
@@ -18200,6 +18303,7 @@ fejletonisto	fejletonista	subst:sg:voc:m1	nazwa pospolita	przest.
 fejletonistom	fejletonista	subst:pl:dat:m1	nazwa pospolita	przest.
 fejletonistów	fejletonista	subst:pl:acc:m1	nazwa pospolita	przest.
 fejletonistów	fejletonista	subst:pl:gen:m1	nazwa pospolita	przest.
+fejletonisty	fejletonista	depr:pl:acc:m2	nazwa pospolita	przest.
 fejletonisty	fejletonista	depr:pl:nom:m2	nazwa pospolita	przest.
 fejletonisty	fejletonista	depr:pl:voc:m2	nazwa pospolita	przest.
 fejletonisty	fejletonista	subst:sg:gen:m1	nazwa pospolita	przest.
@@ -18574,6 +18678,7 @@ felczerom	felczer	subst:pl:dat:m1	nazwa pospolita
 felczerowi	felczer	subst:sg:dat:m1	nazwa pospolita	
 felczerów	felczer	subst:pl:acc:m1	nazwa pospolita	
 felczerów	felczer	subst:pl:gen:m1	nazwa pospolita	
+felczery	felczer	depr:pl:acc:m2	nazwa pospolita	
 felczery	felczer	depr:pl:nom:m2	nazwa pospolita	
 felczery	felczer	depr:pl:voc:m2	nazwa pospolita	
 felczerze	felczer	subst:sg:loc:m1	nazwa pospolita	
@@ -18720,6 +18825,7 @@ felczerzyno	felczerzyna	subst:sg:voc:m1	nazwa pospolita
 felczerzynom	felczerzyna	subst:pl:dat:m1	nazwa pospolita	
 felczerzynów	felczerzyna	subst:pl:acc:m1	nazwa pospolita	
 felczerzynów	felczerzyna	subst:pl:gen:m1	nazwa pospolita	
+felczerzyny	felczerzyna	depr:pl:acc:m2	nazwa pospolita	
 felczerzyny	felczerzyna	depr:pl:nom:m2	nazwa pospolita	
 felczerzyny	felczerzyna	depr:pl:voc:m2	nazwa pospolita	
 felczerzyny	felczerzyna	subst:sg:gen:m1	nazwa pospolita	
@@ -18728,6 +18834,7 @@ feldfeblach	feldfebel	subst:pl:loc:m1	nazwa pospolita
 feldfebla	feldfebel	subst:sg:acc:m1	nazwa pospolita	
 feldfebla	feldfebel	subst:sg:gen:m1	nazwa pospolita	
 feldfeblami	feldfebel	subst:pl:inst:m1	nazwa pospolita	
+feldfeble	feldfebel	depr:pl:acc:m2	nazwa pospolita	
 feldfeble	feldfebel	depr:pl:nom:m2	nazwa pospolita	
 feldfeble	feldfebel	depr:pl:voc:m2	nazwa pospolita	
 feldfeble	feldfebel	subst:pl:nom:m1	nazwa pospolita	
@@ -18751,6 +18858,7 @@ feldfeberom	feldfeber	subst:pl:dat:m1	nazwa pospolita	daw.
 feldfeberowi	feldfeber	subst:sg:dat:m1	nazwa pospolita	daw.
 feldfeberów	feldfeber	subst:pl:acc:m1	nazwa pospolita	daw.
 feldfeberów	feldfeber	subst:pl:gen:m1	nazwa pospolita	daw.
+feldfebery	feldfeber	depr:pl:acc:m2	nazwa pospolita	daw.
 feldfebery	feldfeber	depr:pl:nom:m2	nazwa pospolita	daw.
 feldfebery	feldfeber	depr:pl:voc:m2	nazwa pospolita	daw.
 feldfeberze	feldfeber	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -18767,6 +18875,7 @@ feldjegrom	feldjeger	subst:pl:dat:m1	nazwa pospolita
 feldjegrowi	feldjeger	subst:sg:dat:m1	nazwa pospolita	
 feldjegrów	feldjeger	subst:pl:acc:m1	nazwa pospolita	
 feldjegrów	feldjeger	subst:pl:gen:m1	nazwa pospolita	
+feldjegry	feldjeger	depr:pl:acc:m2	nazwa pospolita	
 feldjegry	feldjeger	depr:pl:nom:m2	nazwa pospolita	
 feldjegry	feldjeger	depr:pl:voc:m2	nazwa pospolita	
 feldjegrze	feldjeger	subst:sg:loc:m1	nazwa pospolita	
@@ -18779,6 +18888,7 @@ feldmarszałka	feldmarszałek	subst:sg:acc:m1	nazwa pospolita
 feldmarszałka	feldmarszałek	subst:sg:gen:m1	nazwa pospolita	
 feldmarszałkami	feldmarszałek	subst:pl:inst:m1	nazwa pospolita	
 feldmarszałkiem	feldmarszałek	subst:sg:inst:m1	nazwa pospolita	
+feldmarszałki	feldmarszałek	depr:pl:acc:m2	nazwa pospolita	
 feldmarszałki	feldmarszałek	depr:pl:nom:m2	nazwa pospolita	
 feldmarszałki	feldmarszałek	depr:pl:voc:m2	nazwa pospolita	
 feldmarszałkom	feldmarszałek	subst:pl:dat:m1	nazwa pospolita	
@@ -19093,6 +19203,8 @@ felietoniarza	felietoniarz	subst:sg:gen:m1	nazwa pospolita
 felietoniarza	felietoniarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 felietoniarzami	felietoniarz	subst:pl:inst:m1	nazwa pospolita	
 felietoniarzami	felietoniarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+felietoniarze	felietoniarz	depr:pl:acc:m2	nazwa pospolita	
+felietoniarze	felietoniarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 felietoniarze	felietoniarz	depr:pl:nom:m2	nazwa pospolita	
 felietoniarze	felietoniarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 felietoniarze	felietoniarz	depr:pl:voc:m2	nazwa pospolita	
@@ -19140,6 +19252,7 @@ felietonisto	felietonista	subst:sg:voc:m1	nazwa pospolita
 felietonistom	felietonista	subst:pl:dat:m1	nazwa pospolita	
 felietonistów	felietonista	subst:pl:acc:m1	nazwa pospolita	
 felietonistów	felietonista	subst:pl:gen:m1	nazwa pospolita	
+felietonisty	felietonista	depr:pl:acc:m2	nazwa pospolita	
 felietonisty	felietonista	depr:pl:nom:m2	nazwa pospolita	
 felietonisty	felietonista	depr:pl:voc:m2	nazwa pospolita	
 felietonisty	felietonista	subst:sg:gen:m1	nazwa pospolita	
@@ -19336,6 +19449,7 @@ fellachów	fellach	subst:pl:acc:m1	nazwa pospolita
 fellachów	fellach	subst:pl:gen:m1	nazwa pospolita	
 fellachu	fellach	subst:sg:loc:m1	nazwa pospolita	
 fellachu	fellach	subst:sg:voc:m1	nazwa pospolita	
+fellachy	fellach	depr:pl:acc:m2	nazwa pospolita	
 fellachy	fellach	depr:pl:nom:m2	nazwa pospolita	
 fellachy	fellach	depr:pl:voc:m2	nazwa pospolita	
 fellatio	fellatio	subst:pl:acc:n:ncol	nazwa pospolita	
@@ -19551,6 +19665,7 @@ feministo	feminista	subst:sg:voc:m1	nazwa pospolita
 feministom	feminista	subst:pl:dat:m1	nazwa pospolita	
 feministów	feminista	subst:pl:acc:m1	nazwa pospolita	
 feministów	feminista	subst:pl:gen:m1	nazwa pospolita	
+feministy	feminista	depr:pl:acc:m2	nazwa pospolita	
 feministy	feminista	depr:pl:nom:m2	nazwa pospolita	
 feministy	feminista	depr:pl:voc:m2	nazwa pospolita	
 feministy	feminista	subst:sg:gen:m1	nazwa pospolita	
@@ -19791,6 +19906,7 @@ fenianinie	fenianin	subst:sg:loc:m1	nazwa pospolita
 fenianinie	fenianin	subst:sg:voc:m1	nazwa pospolita	
 fenianinowi	fenianin	subst:sg:dat:m1	nazwa pospolita	
 fenianom	fenianin	subst:pl:dat:m1	nazwa pospolita	
+feniany	fenianin	depr:pl:acc:m2	nazwa pospolita	
 feniany	fenianin	depr:pl:nom:m2	nazwa pospolita	
 feniany	fenianin	depr:pl:voc:m2	nazwa pospolita	
 fenianizmach	fenianizm	subst:pl:loc:m3	nazwa pospolita	
@@ -20129,6 +20245,7 @@ fenologa	fenolog	subst:sg:gen:m1	nazwa pospolita
 fenologami	fenolog	subst:pl:inst:m1	nazwa pospolita	
 fenolog	fenolog	subst:sg:nom:m1	nazwa pospolita	
 fenologiem	fenolog	subst:sg:inst:m1	nazwa pospolita	
+fenologi	fenolog	depr:pl:acc:m2	nazwa pospolita	
 fenologi	fenolog	depr:pl:nom:m2	nazwa pospolita	
 fenologi	fenolog	depr:pl:voc:m2	nazwa pospolita	
 fenologom	fenolog	subst:pl:dat:m1	nazwa pospolita	
@@ -20328,6 +20445,7 @@ fenomenalisto	fenomenalista	subst:sg:voc:m1	nazwa pospolita
 fenomenalistom	fenomenalista	subst:pl:dat:m1	nazwa pospolita	
 fenomenalistów	fenomenalista	subst:pl:acc:m1	nazwa pospolita	
 fenomenalistów	fenomenalista	subst:pl:gen:m1	nazwa pospolita	
+fenomenalisty	fenomenalista	depr:pl:acc:m2	nazwa pospolita	
 fenomenalisty	fenomenalista	depr:pl:nom:m2	nazwa pospolita	
 fenomenalisty	fenomenalista	depr:pl:voc:m2	nazwa pospolita	
 fenomenalisty	fenomenalista	subst:sg:gen:m1	nazwa pospolita	
@@ -20434,6 +20552,7 @@ fenomenologa	fenomenolog	subst:sg:gen:m1	nazwa pospolita
 fenomenologami	fenomenolog	subst:pl:inst:m1	nazwa pospolita	
 fenomenolog	fenomenolog	subst:sg:nom:m1	nazwa pospolita	
 fenomenologiem	fenomenolog	subst:sg:inst:m1	nazwa pospolita	
+fenomenologi	fenomenolog	depr:pl:acc:m2	nazwa pospolita	
 fenomenologi	fenomenolog	depr:pl:nom:m2	nazwa pospolita	
 fenomenologi	fenomenolog	depr:pl:voc:m2	nazwa pospolita	
 fenomenologom	fenomenolog	subst:pl:dat:m1	nazwa pospolita	
@@ -20526,6 +20645,7 @@ fenomenom	fenomen:s2	subst:pl:dat:m1	nazwa pospolita
 fenomenowi	fenomen:s2	subst:sg:dat:m1	nazwa pospolita	
 fenomenów	fenomen:s2	subst:pl:acc:m1	nazwa pospolita	
 fenomenów	fenomen:s2	subst:pl:gen:m1	nazwa pospolita	
+fenomeny	fenomen:s2	depr:pl:acc:m2	nazwa pospolita	
 fenomeny	fenomen:s2	depr:pl:nom:m2	nazwa pospolita	
 fenomeny	fenomen:s2	depr:pl:voc:m2	nazwa pospolita	
 fenoplastach	fenoplast	subst:pl:loc:m3	nazwa pospolita	
@@ -20874,6 +20994,7 @@ feodałowie	feodał	subst:pl:voc:m1	nazwa pospolita
 feodałowi	feodał	subst:sg:dat:m1	nazwa pospolita	
 feodałów	feodał	subst:pl:acc:m1	nazwa pospolita	
 feodałów	feodał	subst:pl:gen:m1	nazwa pospolita	
+feodały	feodał	depr:pl:acc:m2	nazwa pospolita	
 feodały	feodał	depr:pl:nom:m2	nazwa pospolita	
 feodały	feodał	depr:pl:voc:m2	nazwa pospolita	
 ferajnach	ferajna	subst:pl:loc:f	nazwa pospolita	pot.
@@ -21448,6 +21569,7 @@ fermerom	fermer	subst:pl:dat:m1	nazwa pospolita
 fermerowi	fermer	subst:sg:dat:m1	nazwa pospolita	
 fermerów	fermer	subst:pl:acc:m1	nazwa pospolita	
 fermerów	fermer	subst:pl:gen:m1	nazwa pospolita	
+fermery	fermer	depr:pl:acc:m2	nazwa pospolita	
 fermery	fermer	depr:pl:nom:m2	nazwa pospolita	
 fermery	fermer	depr:pl:voc:m2	nazwa pospolita	
 fermerze	fermer	subst:sg:loc:m1	nazwa pospolita	
@@ -23033,6 +23155,7 @@ fetniaka	fetniak	subst:sg:gen:m1	nazwa pospolita	gwar.
 fetniakami	fetniak	subst:pl:inst:m1	nazwa pospolita	gwar.
 fetniak	fetniak	subst:sg:nom:m1	nazwa pospolita	gwar.
 fetniakiem	fetniak	subst:sg:inst:m1	nazwa pospolita	gwar.
+fetniaki	fetniak	depr:pl:acc:m2	nazwa pospolita	gwar.
 fetniaki	fetniak	depr:pl:nom:m2	nazwa pospolita	gwar.
 fetniaki	fetniak	depr:pl:voc:m2	nazwa pospolita	gwar.
 fetniakom	fetniak	subst:pl:dat:m1	nazwa pospolita	gwar.
@@ -23224,6 +23347,7 @@ fetyszysto	fetyszysta	subst:sg:voc:m1	nazwa pospolita
 fetyszystom	fetyszysta	subst:pl:dat:m1	nazwa pospolita	
 fetyszystów	fetyszysta	subst:pl:acc:m1	nazwa pospolita	
 fetyszystów	fetyszysta	subst:pl:gen:m1	nazwa pospolita	
+fetyszysty	fetyszysta	depr:pl:acc:m2	nazwa pospolita	
 fetyszysty	fetyszysta	depr:pl:nom:m2	nazwa pospolita	
 fetyszysty	fetyszysta	depr:pl:voc:m2	nazwa pospolita	
 fetyszysty	fetyszysta	subst:sg:gen:m1	nazwa pospolita	
@@ -23521,12 +23645,14 @@ feudałowie	feudał	subst:pl:voc:m1	nazwa pospolita
 feudałowi	feudał	subst:sg:dat:m1	nazwa pospolita	
 feudałów	feudał	subst:pl:acc:m1	nazwa pospolita	
 feudałów	feudał	subst:pl:gen:m1	nazwa pospolita	
+feudały	feudał	depr:pl:acc:m2	nazwa pospolita	
 feudały	feudał	depr:pl:nom:m2	nazwa pospolita	
 feudały	feudał	depr:pl:voc:m2	nazwa pospolita	
 feudatariuszach	feudatariusz	subst:pl:loc:m1	nazwa pospolita	daw.
 feudatariusza	feudatariusz	subst:sg:acc:m1	nazwa pospolita	daw.
 feudatariusza	feudatariusz	subst:sg:gen:m1	nazwa pospolita	daw.
 feudatariuszami	feudatariusz	subst:pl:inst:m1	nazwa pospolita	daw.
+feudatariusze	feudatariusz	depr:pl:acc:m2	nazwa pospolita	daw.
 feudatariusze	feudatariusz	depr:pl:nom:m2	nazwa pospolita	daw.
 feudatariusze	feudatariusz	depr:pl:voc:m2	nazwa pospolita	daw.
 feudatariusze	feudatariusz	subst:pl:nom:m1	nazwa pospolita	daw.
@@ -23608,6 +23734,7 @@ fiakrom	fiakier:s1	subst:pl:dat:m1	nazwa pospolita
 fiakrowi	fiakier:s1	subst:sg:dat:m1	nazwa pospolita	
 fiakrów	fiakier:s1	subst:pl:acc:m1	nazwa pospolita	
 fiakrów	fiakier:s1	subst:pl:gen:m1	nazwa pospolita	
+fiakry	fiakier:s1	depr:pl:acc:m2	nazwa pospolita	
 fiakry	fiakier:s1	depr:pl:nom:m2	nazwa pospolita	
 fiakry	fiakier:s1	depr:pl:voc:m2	nazwa pospolita	
 fiakrze	fiakier:s1	subst:sg:loc:m1	nazwa pospolita	
@@ -24266,6 +24393,7 @@ fideikomisariuszach	fideikomisariusz	subst:pl:loc:m1	nazwa pospolita
 fideikomisariusza	fideikomisariusz	subst:sg:acc:m1	nazwa pospolita	
 fideikomisariusza	fideikomisariusz	subst:sg:gen:m1	nazwa pospolita	
 fideikomisariuszami	fideikomisariusz	subst:pl:inst:m1	nazwa pospolita	
+fideikomisariusze	fideikomisariusz	depr:pl:acc:m2	nazwa pospolita	
 fideikomisariusze	fideikomisariusz	depr:pl:nom:m2	nazwa pospolita	
 fideikomisariusze	fideikomisariusz	depr:pl:voc:m2	nazwa pospolita	
 fideikomisariusze	fideikomisariusz	subst:pl:nom:m1	nazwa pospolita	
@@ -24327,6 +24455,7 @@ fideisto	fideista	subst:sg:voc:m1	nazwa pospolita
 fideistom	fideista	subst:pl:dat:m1	nazwa pospolita	
 fideistów	fideista	subst:pl:acc:m1	nazwa pospolita	
 fideistów	fideista	subst:pl:gen:m1	nazwa pospolita	
+fideisty	fideista	depr:pl:acc:m2	nazwa pospolita	
 fideisty	fideista	depr:pl:nom:m2	nazwa pospolita	
 fideisty	fideista	depr:pl:voc:m2	nazwa pospolita	
 fideisty	fideista	subst:sg:gen:m1	nazwa pospolita	
@@ -24400,6 +24529,7 @@ fidelisom	fidelis	subst:pl:dat:m1	nazwa pospolita	daw.
 fidelisowi	fidelis	subst:sg:dat:m1	nazwa pospolita	daw.
 fidelisów	fidelis	subst:pl:acc:m1	nazwa pospolita	daw.
 fidelisów	fidelis	subst:pl:gen:m1	nazwa pospolita	daw.
+fidelisy	fidelis	depr:pl:acc:m2	nazwa pospolita	daw.
 fidelisy	fidelis	depr:pl:nom:m2	nazwa pospolita	daw.
 fidelisy	fidelis	depr:pl:voc:m2	nazwa pospolita	daw.
 fidiaszowościach	fidiaszowość	subst:pl:loc:f	nazwa pospolita	
@@ -24501,6 +24631,7 @@ fidrygansowie	fidrygans:s1	subst:pl:voc:m1	nazwa pospolita	przest.
 fidrygansowi	fidrygans:s1	subst:sg:dat:m1	nazwa pospolita	przest.
 fidrygansów	fidrygans:s1	subst:pl:acc:m1	nazwa pospolita	przest.
 fidrygansów	fidrygans:s1	subst:pl:gen:m1	nazwa pospolita	przest.
+fidrygansy	fidrygans:s1	depr:pl:acc:m2	nazwa pospolita	przest.
 fidrygansy	fidrygans:s1	depr:pl:nom:m2	nazwa pospolita	przest.
 fidrygansy	fidrygans:s1	depr:pl:voc:m2	nazwa pospolita	przest.
 fidrygansach	fidrygans:s2	subst:pl:loc:m3	nazwa pospolita	przest.
@@ -24696,6 +24827,7 @@ figarnio	figarnia	subst:sg:voc:f	nazwa pospolita
 figarniom	figarnia	subst:pl:dat:f	nazwa pospolita	
 figarń	figarnia	subst:pl:gen:f	nazwa pospolita	char.
 figarach	figaro:s1	subst:pl:loc:m1	nazwa pospolita	przest.|żart.
+figara	figaro:s1	depr:pl:acc:m2	nazwa pospolita	przest.|żart.
 figara	figaro:s1	depr:pl:nom:m2	nazwa pospolita	przest.|żart.
 figara	figaro:s1	depr:pl:voc:m2	nazwa pospolita	przest.|żart.
 figara	figaro:s1	subst:sg:acc:m1	nazwa pospolita	przest.|żart.
@@ -24935,6 +25067,8 @@ figlarza	figlarz	subst:sg:gen:m1	nazwa pospolita	przest._dziś_książk.
 figlarza	figlarz	subst:sg:gen:m1	nazwa pospolita	rzad.|przest._dziś_książk.
 figlarzami	figlarz	subst:pl:inst:m1	nazwa pospolita	przest._dziś_książk.
 figlarzami	figlarz	subst:pl:inst:m1	nazwa pospolita	rzad.|przest._dziś_książk.
+figlarze	figlarz	depr:pl:acc:m2	nazwa pospolita	przest._dziś_książk.
+figlarze	figlarz	depr:pl:acc:m2	nazwa pospolita	rzad.|przest._dziś_książk.
 figlarze	figlarz	depr:pl:nom:m2	nazwa pospolita	przest._dziś_książk.
 figlarze	figlarz	depr:pl:nom:m2	nazwa pospolita	rzad.|przest._dziś_książk.
 figlarze	figlarz	depr:pl:voc:m2	nazwa pospolita	przest._dziś_książk.
@@ -24972,6 +25106,7 @@ figlarzyno	figlarzyna	subst:sg:voc:m1	nazwa pospolita
 figlarzynom	figlarzyna	subst:pl:dat:m1	nazwa pospolita	
 figlarzynów	figlarzyna	subst:pl:acc:m1	nazwa pospolita	
 figlarzynów	figlarzyna	subst:pl:gen:m1	nazwa pospolita	
+figlarzyny	figlarzyna	depr:pl:acc:m2	nazwa pospolita	
 figlarzyny	figlarzyna	depr:pl:nom:m2	nazwa pospolita	
 figlarzyny	figlarzyna	depr:pl:voc:m2	nazwa pospolita	
 figlarzyny	figlarzyna	subst:sg:gen:m1	nazwa pospolita	
@@ -25328,6 +25463,7 @@ figurantom	figurant	subst:pl:dat:m1	nazwa pospolita
 figurantowi	figurant	subst:sg:dat:m1	nazwa pospolita	
 figurantów	figurant	subst:pl:acc:m1	nazwa pospolita	
 figurantów	figurant	subst:pl:gen:m1	nazwa pospolita	
+figuranty	figurant	depr:pl:acc:m2	nazwa pospolita	
 figuranty	figurant	depr:pl:nom:m2	nazwa pospolita	
 figuranty	figurant	depr:pl:voc:m2	nazwa pospolita	
 figurantce	figurantka	subst:sg:dat:f	nazwa pospolita	
@@ -25474,6 +25610,7 @@ figurowcach	figurowiec	subst:pl:loc:m1	nazwa pospolita
 figurowca	figurowiec	subst:sg:acc:m1	nazwa pospolita	
 figurowca	figurowiec	subst:sg:gen:m1	nazwa pospolita	
 figurowcami	figurowiec	subst:pl:inst:m1	nazwa pospolita	
+figurowce	figurowiec	depr:pl:acc:m2	nazwa pospolita	
 figurowce	figurowiec	depr:pl:nom:m2	nazwa pospolita	
 figurowce	figurowiec	depr:pl:voc:m2	nazwa pospolita	
 figurowcem	figurowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -26061,6 +26198,7 @@ fiksowie	fiks	subst:pl:voc:m1	nazwa pospolita
 fiksowi	fiks	subst:sg:dat:m1	nazwa pospolita	
 fiksów	fiks	subst:pl:acc:m1	nazwa pospolita	
 fiksów	fiks	subst:pl:gen:m1	nazwa pospolita	
+fiksy	fiks	depr:pl:acc:m2	nazwa pospolita	
 fiksy	fiks	depr:pl:nom:m2	nazwa pospolita	
 fiksy	fiks	depr:pl:voc:m2	nazwa pospolita	
 fiksacjach	fiksacja	subst:pl:loc:f	nazwa pospolita	
@@ -26130,6 +26268,7 @@ fiksatom	fiksat	subst:pl:dat:m1	nazwa pospolita	przest.
 fiksatowi	fiksat	subst:sg:dat:m1	nazwa pospolita	przest.
 fiksatów	fiksat	subst:pl:acc:m1	nazwa pospolita	przest.
 fiksatów	fiksat	subst:pl:gen:m1	nazwa pospolita	przest.
+fiksaty	fiksat	depr:pl:acc:m2	nazwa pospolita	przest.
 fiksaty	fiksat	depr:pl:nom:m2	nazwa pospolita	przest.
 fiksaty	fiksat	depr:pl:voc:m2	nazwa pospolita	przest.
 fiksatce	fiksatka	subst:sg:dat:f	nazwa pospolita	przest.
@@ -26766,6 +26905,7 @@ filantropom	filantrop	subst:pl:dat:m1	nazwa pospolita
 filantropowi	filantrop	subst:sg:dat:m1	nazwa pospolita	
 filantropów	filantrop	subst:pl:acc:m1	nazwa pospolita	
 filantropów	filantrop	subst:pl:gen:m1	nazwa pospolita	
+filantropy	filantrop	depr:pl:acc:m2	nazwa pospolita	
 filantropy	filantrop	depr:pl:nom:m2	nazwa pospolita	
 filantropy	filantrop	depr:pl:voc:m2	nazwa pospolita	
 filantropach	filantropa	subst:pl:loc:m1	nazwa pospolita	daw.
@@ -26781,6 +26921,7 @@ filantropowie	filantropa	subst:pl:nom:m1	nazwa pospolita	daw.
 filantropowie	filantropa	subst:pl:voc:m1	nazwa pospolita	daw.
 filantropów	filantropa	subst:pl:acc:m1	nazwa pospolita	daw.
 filantropów	filantropa	subst:pl:gen:m1	nazwa pospolita	daw.
+filantropy	filantropa	depr:pl:acc:m2	nazwa pospolita	daw.
 filantropy	filantropa	depr:pl:nom:m2	nazwa pospolita	daw.
 filantropy	filantropa	depr:pl:voc:m2	nazwa pospolita	daw.
 filantropy	filantropa	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -26972,6 +27113,7 @@ filaretom	filaret	subst:pl:dat:m1	nazwa pospolita	przest.
 filaretowi	filaret	subst:sg:dat:m1	nazwa pospolita	przest.
 filaretów	filaret	subst:pl:acc:m1	nazwa pospolita	przest.
 filaretów	filaret	subst:pl:gen:m1	nazwa pospolita	przest.
+filarety	filaret	depr:pl:acc:m2	nazwa pospolita	przest.
 filarety	filaret	depr:pl:nom:m2	nazwa pospolita	przest.
 filarety	filaret	depr:pl:voc:m2	nazwa pospolita	przest.
 filarecie	filareta	subst:sg:dat:m1	nazwa pospolita	
@@ -26987,6 +27129,7 @@ filareto	filareta	subst:sg:voc:m1	nazwa pospolita
 filaretom	filareta	subst:pl:dat:m1	nazwa pospolita	
 filaretów	filareta	subst:pl:acc:m1	nazwa pospolita	
 filaretów	filareta	subst:pl:gen:m1	nazwa pospolita	
+filarety	filareta	depr:pl:acc:m2	nazwa pospolita	
 filarety	filareta	depr:pl:nom:m2	nazwa pospolita	
 filarety	filareta	depr:pl:voc:m2	nazwa pospolita	
 filarety	filareta	subst:sg:gen:m1	nazwa pospolita	
@@ -27051,6 +27194,7 @@ filarowcach	filarowiec	subst:pl:loc:m1	nazwa pospolita
 filarowca	filarowiec	subst:sg:acc:m1	nazwa pospolita	
 filarowca	filarowiec	subst:sg:gen:m1	nazwa pospolita	
 filarowcami	filarowiec	subst:pl:inst:m1	nazwa pospolita	
+filarowce	filarowiec	depr:pl:acc:m2	nazwa pospolita	
 filarowce	filarowiec	depr:pl:nom:m2	nazwa pospolita	
 filarowce	filarowiec	depr:pl:voc:m2	nazwa pospolita	
 filarowcem	filarowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -27140,6 +27284,7 @@ filatelisto	filatelista	subst:sg:voc:m1	nazwa pospolita
 filatelistom	filatelista	subst:pl:dat:m1	nazwa pospolita	
 filatelistów	filatelista	subst:pl:acc:m1	nazwa pospolita	
 filatelistów	filatelista	subst:pl:gen:m1	nazwa pospolita	
+filatelisty	filatelista	depr:pl:acc:m2	nazwa pospolita	
 filatelisty	filatelista	depr:pl:nom:m2	nazwa pospolita	
 filatelisty	filatelista	depr:pl:voc:m2	nazwa pospolita	
 filatelisty	filatelista	subst:sg:gen:m1	nazwa pospolita	
@@ -27511,6 +27656,7 @@ filerom	filer:s1	subst:pl:dat:m1	nazwa pospolita	środ.
 filerowi	filer:s1	subst:sg:dat:m1	nazwa pospolita	środ.
 filerów	filer:s1	subst:pl:acc:m1	nazwa pospolita	środ.
 filerów	filer:s1	subst:pl:gen:m1	nazwa pospolita	środ.
+filery	filer:s1	depr:pl:acc:m2	nazwa pospolita	środ.
 filery	filer:s1	depr:pl:nom:m2	nazwa pospolita	środ.
 filery	filer:s1	depr:pl:voc:m2	nazwa pospolita	środ.
 filerze	filer:s1	subst:sg:loc:m1	nazwa pospolita	środ.
@@ -27763,6 +27909,7 @@ filharmonika	filharmonik	subst:sg:gen:m1	nazwa pospolita
 filharmonikami	filharmonik	subst:pl:inst:m1	nazwa pospolita	
 filharmonik	filharmonik	subst:sg:nom:m1	nazwa pospolita	
 filharmonikiem	filharmonik	subst:sg:inst:m1	nazwa pospolita	
+filharmoniki	filharmonik	depr:pl:acc:m2	nazwa pospolita	
 filharmoniki	filharmonik	depr:pl:nom:m2	nazwa pospolita	
 filharmoniki	filharmonik	depr:pl:voc:m2	nazwa pospolita	
 filharmonikom	filharmonik	subst:pl:dat:m1	nazwa pospolita	
@@ -27785,6 +27932,7 @@ filhellenowie	filhellen	subst:pl:voc:m1	nazwa pospolita
 filhellenowi	filhellen	subst:sg:dat:m1	nazwa pospolita	
 filhellenów	filhellen	subst:pl:acc:m1	nazwa pospolita	
 filhellenów	filhellen	subst:pl:gen:m1	nazwa pospolita	
+filhelleny	filhellen	depr:pl:acc:m2	nazwa pospolita	
 filhelleny	filhellen	depr:pl:nom:m2	nazwa pospolita	
 filhelleny	filhellen	depr:pl:voc:m2	nazwa pospolita	
 filhellenistach	filhellenista	subst:pl:loc:m1	nazwa pospolita	
@@ -27796,6 +27944,7 @@ filhellenisto	filhellenista	subst:sg:voc:m1	nazwa pospolita
 filhellenistom	filhellenista	subst:pl:dat:m1	nazwa pospolita	
 filhellenistów	filhellenista	subst:pl:acc:m1	nazwa pospolita	
 filhellenistów	filhellenista	subst:pl:gen:m1	nazwa pospolita	
+filhellenisty	filhellenista	depr:pl:acc:m2	nazwa pospolita	
 filhellenisty	filhellenista	depr:pl:nom:m2	nazwa pospolita	
 filhellenisty	filhellenista	depr:pl:voc:m2	nazwa pospolita	
 filhellenisty	filhellenista	subst:sg:gen:m1	nazwa pospolita	
@@ -28263,6 +28412,7 @@ filipinom	filipin	subst:pl:dat:m1	nazwa pospolita
 filipinowi	filipin	subst:sg:dat:m1	nazwa pospolita	
 filipinów	filipin	subst:pl:acc:m1	nazwa pospolita	
 filipinów	filipin	subst:pl:gen:m1	nazwa pospolita	
+filipiny	filipin	depr:pl:acc:m2	nazwa pospolita	
 filipiny	filipin	depr:pl:nom:m2	nazwa pospolita	
 filipiny	filipin	depr:pl:voc:m2	nazwa pospolita	
 filipinach	filipina	subst:pl:loc:f	nazwa pospolita	
@@ -28347,6 +28497,7 @@ filiponom	filipon	subst:pl:dat:m1	nazwa pospolita
 filiponowi	filipon	subst:sg:dat:m1	nazwa pospolita	
 filiponów	filipon	subst:pl:acc:m1	nazwa pospolita	
 filiponów	filipon	subst:pl:gen:m1	nazwa pospolita	
+filipony	filipon	depr:pl:acc:m2	nazwa pospolita	
 filipony	filipon	depr:pl:nom:m2	nazwa pospolita	
 filipony	filipon	depr:pl:voc:m2	nazwa pospolita	
 filipowscy	filipowski	adj:pl:nom.voc:m1:pos		
@@ -28415,6 +28566,7 @@ filistrowie	filister	subst:pl:voc:m1	nazwa pospolita
 filistrowi	filister	subst:sg:dat:m1	nazwa pospolita	
 filistrów	filister	subst:pl:acc:m1	nazwa pospolita	
 filistrów	filister	subst:pl:gen:m1	nazwa pospolita	
+filistry	filister	depr:pl:acc:m2	nazwa pospolita	
 filistry	filister	depr:pl:nom:m2	nazwa pospolita	
 filistry	filister	depr:pl:voc:m2	nazwa pospolita	
 filistrze	filister	subst:sg:loc:m1	nazwa pospolita	
@@ -28798,6 +28950,8 @@ filmiarza	filmiarz	subst:sg:gen:m1	nazwa pospolita
 filmiarza	filmiarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 filmiarzami	filmiarz	subst:pl:inst:m1	nazwa pospolita	
 filmiarzami	filmiarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+filmiarze	filmiarz	depr:pl:acc:m2	nazwa pospolita	
+filmiarze	filmiarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 filmiarze	filmiarz	depr:pl:nom:m2	nazwa pospolita	
 filmiarze	filmiarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 filmiarze	filmiarz	depr:pl:voc:m2	nazwa pospolita	
@@ -28911,6 +29065,7 @@ filmologa	filmolog	subst:sg:gen:m1	nazwa pospolita
 filmologami	filmolog	subst:pl:inst:m1	nazwa pospolita	
 filmolog	filmolog	subst:sg:nom:m1	nazwa pospolita	
 filmologiem	filmolog	subst:sg:inst:m1	nazwa pospolita	
+filmologi	filmolog	depr:pl:acc:m2	nazwa pospolita	
 filmologi	filmolog	depr:pl:nom:m2	nazwa pospolita	
 filmologi	filmolog	depr:pl:voc:m2	nazwa pospolita	
 filmologom	filmolog	subst:pl:dat:m1	nazwa pospolita	
@@ -29081,6 +29236,7 @@ filmowcach	filmowiec	subst:pl:loc:m1	nazwa pospolita
 filmowca	filmowiec	subst:sg:acc:m1	nazwa pospolita	
 filmowca	filmowiec	subst:sg:gen:m1	nazwa pospolita	
 filmowcami	filmowiec	subst:pl:inst:m1	nazwa pospolita	
+filmowce	filmowiec	depr:pl:acc:m2	nazwa pospolita	
 filmowce	filmowiec	depr:pl:nom:m2	nazwa pospolita	
 filmowce	filmowiec	depr:pl:voc:m2	nazwa pospolita	
 filmowcem	filmowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -29136,6 +29292,7 @@ filmoznawcach	filmoznawca	subst:pl:loc:m1	nazwa pospolita
 filmoznawca	filmoznawca	subst:sg:nom:m1	nazwa pospolita	
 filmoznawcami	filmoznawca	subst:pl:inst:m1	nazwa pospolita	
 filmoznawcą	filmoznawca	subst:sg:inst:m1	nazwa pospolita	
+filmoznawce	filmoznawca	depr:pl:acc:m2	nazwa pospolita	
 filmoznawce	filmoznawca	depr:pl:nom:m2	nazwa pospolita	
 filmoznawce	filmoznawca	depr:pl:voc:m2	nazwa pospolita	
 filmoznawcę	filmoznawca	subst:sg:acc:m1	nazwa pospolita	
@@ -29482,6 +29639,7 @@ filologa	filolog	subst:sg:gen:m1	nazwa pospolita
 filologami	filolog	subst:pl:inst:m1	nazwa pospolita	
 filolog	filolog	subst:sg:nom:m1	nazwa pospolita	
 filologiem	filolog	subst:sg:inst:m1	nazwa pospolita	
+filologi	filolog	depr:pl:acc:m2	nazwa pospolita	
 filologi	filolog	depr:pl:nom:m2	nazwa pospolita	
 filologi	filolog	depr:pl:voc:m2	nazwa pospolita	
 filologom	filolog	subst:pl:dat:m1	nazwa pospolita	
@@ -29600,6 +29758,7 @@ filomatom	filomat	subst:pl:dat:m1	nazwa pospolita
 filomatowi	filomat	subst:sg:dat:m1	nazwa pospolita	
 filomatów	filomat	subst:pl:acc:m1	nazwa pospolita	
 filomatów	filomat	subst:pl:gen:m1	nazwa pospolita	
+filomaty	filomat	depr:pl:acc:m2	nazwa pospolita	
 filomaty	filomat	depr:pl:nom:m2	nazwa pospolita	
 filomaty	filomat	depr:pl:voc:m2	nazwa pospolita	
 filomacie	filomata	subst:sg:dat:m1	nazwa pospolita	
@@ -29615,6 +29774,7 @@ filomato	filomata	subst:sg:voc:m1	nazwa pospolita
 filomatom	filomata	subst:pl:dat:m1	nazwa pospolita	
 filomatów	filomata	subst:pl:acc:m1	nazwa pospolita	
 filomatów	filomata	subst:pl:gen:m1	nazwa pospolita	
+filomaty	filomata	depr:pl:acc:m2	nazwa pospolita	
 filomaty	filomata	depr:pl:nom:m2	nazwa pospolita	
 filomaty	filomata	depr:pl:voc:m2	nazwa pospolita	
 filomaty	filomata	subst:sg:gen:m1	nazwa pospolita	
@@ -29802,6 +29962,7 @@ filosemito	filosemita	subst:sg:voc:m1	nazwa pospolita
 filosemitom	filosemita	subst:pl:dat:m1	nazwa pospolita	
 filosemitów	filosemita	subst:pl:acc:m1	nazwa pospolita	
 filosemitów	filosemita	subst:pl:gen:m1	nazwa pospolita	
+filosemity	filosemita	depr:pl:acc:m2	nazwa pospolita	
 filosemity	filosemita	depr:pl:nom:m2	nazwa pospolita	
 filosemity	filosemita	depr:pl:voc:m2	nazwa pospolita	
 filosemity	filosemita	subst:sg:gen:m1	nazwa pospolita	
@@ -29920,6 +30081,7 @@ filozofowie	filozof	subst:pl:voc:m1	nazwa pospolita
 filozofowi	filozof	subst:sg:dat:m1	nazwa pospolita	
 filozofów	filozof	subst:pl:acc:m1	nazwa pospolita	
 filozofów	filozof	subst:pl:gen:m1	nazwa pospolita	
+filozofy	filozof	depr:pl:acc:m2	nazwa pospolita	
 filozofy	filozof	depr:pl:nom:m2	nazwa pospolita	
 filozofy	filozof	depr:pl:voc:m2	nazwa pospolita	
 filozofiach	filozofia	subst:pl:loc:f	nazwa pospolita	
@@ -30360,6 +30522,7 @@ filucika	filucik	subst:sg:gen:m1	nazwa pospolita
 filucikami	filucik	subst:pl:inst:m1	nazwa pospolita	
 filucik	filucik	subst:sg:nom:m1	nazwa pospolita	
 filucikiem	filucik	subst:sg:inst:m1	nazwa pospolita	
+filuciki	filucik	depr:pl:acc:m2	nazwa pospolita	
 filuciki	filucik	depr:pl:nom:m2	nazwa pospolita	
 filuciki	filucik	depr:pl:voc:m2	nazwa pospolita	
 filucikom	filucik	subst:pl:dat:m1	nazwa pospolita	
@@ -30419,6 +30582,7 @@ filumenisto	filumenista	subst:sg:voc:m1	nazwa pospolita
 filumenistom	filumenista	subst:pl:dat:m1	nazwa pospolita	
 filumenistów	filumenista	subst:pl:acc:m1	nazwa pospolita	
 filumenistów	filumenista	subst:pl:gen:m1	nazwa pospolita	
+filumenisty	filumenista	depr:pl:acc:m2	nazwa pospolita	
 filumenisty	filumenista	depr:pl:nom:m2	nazwa pospolita	
 filumenisty	filumenista	depr:pl:voc:m2	nazwa pospolita	
 filumenisty	filumenista	subst:sg:gen:m1	nazwa pospolita	
@@ -30559,6 +30723,7 @@ filutom	filut	subst:pl:dat:m1	nazwa pospolita
 filutowi	filut	subst:sg:dat:m1	nazwa pospolita	
 filutów	filut	subst:pl:acc:m1	nazwa pospolita	
 filutów	filut	subst:pl:gen:m1	nazwa pospolita	
+filuty	filut	depr:pl:acc:m2	nazwa pospolita	
 filuty	filut	depr:pl:nom:m2	nazwa pospolita	
 filuty	filut	depr:pl:voc:m2	nazwa pospolita	
 filutek	filutek:s1	subst:sg:nom:m1	nazwa pospolita	przest.
@@ -30567,6 +30732,7 @@ filutka	filutek:s1	subst:sg:acc:m1	nazwa pospolita	przest.
 filutka	filutek:s1	subst:sg:gen:m1	nazwa pospolita	przest.
 filutkami	filutek:s1	subst:pl:inst:m1	nazwa pospolita	przest.
 filutkiem	filutek:s1	subst:sg:inst:m1	nazwa pospolita	przest.
+filutki	filutek:s1	depr:pl:acc:m2	nazwa pospolita	przest.
 filutki	filutek:s1	depr:pl:nom:m2	nazwa pospolita	przest.
 filutki	filutek:s1	depr:pl:voc:m2	nazwa pospolita	przest.
 filutkom	filutek:s1	subst:pl:dat:m1	nazwa pospolita	przest.
@@ -30804,6 +30970,7 @@ finalisto	finalista	subst:sg:voc:m1	nazwa pospolita
 finalistom	finalista	subst:pl:dat:m1	nazwa pospolita	
 finalistów	finalista	subst:pl:acc:m1	nazwa pospolita	
 finalistów	finalista	subst:pl:gen:m1	nazwa pospolita	
+finalisty	finalista	depr:pl:acc:m2	nazwa pospolita	
 finalisty	finalista	depr:pl:nom:m2	nazwa pospolita	
 finalisty	finalista	depr:pl:voc:m2	nazwa pospolita	
 finalisty	finalista	subst:sg:gen:m1	nazwa pospolita	
@@ -31103,6 +31270,7 @@ finanserom	finanser	subst:pl:dat:m1	nazwa pospolita	daw.
 finanserowi	finanser	subst:sg:dat:m1	nazwa pospolita	daw.
 finanserów	finanser	subst:pl:acc:m1	nazwa pospolita	daw.
 finanserów	finanser	subst:pl:gen:m1	nazwa pospolita	daw.
+finansery	finanser	depr:pl:acc:m2	nazwa pospolita	daw.
 finansery	finanser	depr:pl:nom:m2	nazwa pospolita	daw.
 finansery	finanser	depr:pl:voc:m2	nazwa pospolita	daw.
 finanserze	finanser	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -31118,6 +31286,7 @@ finansisto	finansista	subst:sg:voc:m1	nazwa pospolita
 finansistom	finansista	subst:pl:dat:m1	nazwa pospolita	
 finansistów	finansista	subst:pl:acc:m1	nazwa pospolita	
 finansistów	finansista	subst:pl:gen:m1	nazwa pospolita	
+finansisty	finansista	depr:pl:acc:m2	nazwa pospolita	
 finansisty	finansista	depr:pl:nom:m2	nazwa pospolita	
 finansisty	finansista	depr:pl:voc:m2	nazwa pospolita	
 finansisty	finansista	subst:sg:gen:m1	nazwa pospolita	
@@ -31246,6 +31415,7 @@ finansowcach	finansowiec	subst:pl:loc:m1	nazwa pospolita
 finansowca	finansowiec	subst:sg:acc:m1	nazwa pospolita	
 finansowca	finansowiec	subst:sg:gen:m1	nazwa pospolita	
 finansowcami	finansowiec	subst:pl:inst:m1	nazwa pospolita	
+finansowce	finansowiec	depr:pl:acc:m2	nazwa pospolita	
 finansowce	finansowiec	depr:pl:nom:m2	nazwa pospolita	
 finansowce	finansowiec	depr:pl:voc:m2	nazwa pospolita	
 finansowcem	finansowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -31326,6 +31496,7 @@ finesom	fines:s1	subst:pl:dat:m1	nazwa pospolita	daw.
 finesowi	fines:s1	subst:sg:dat:m1	nazwa pospolita	daw.
 finesów	fines:s1	subst:pl:acc:m1	nazwa pospolita	daw.
 finesów	fines:s1	subst:pl:gen:m1	nazwa pospolita	daw.
+finesy	fines:s1	depr:pl:acc:m2	nazwa pospolita	daw.
 finesy	fines:s1	depr:pl:nom:m2	nazwa pospolita	daw.
 finesy	fines:s1	depr:pl:voc:m2	nazwa pospolita	daw.
 finesach	fines:s2	subst:pl:loc:m3	nazwa pospolita	daw.
@@ -31525,6 +31696,7 @@ finiszerom	finiszer	subst:pl:dat:m1	nazwa pospolita
 finiszerowi	finiszer	subst:sg:dat:m1	nazwa pospolita	
 finiszerów	finiszer	subst:pl:acc:m1	nazwa pospolita	
 finiszerów	finiszer	subst:pl:gen:m1	nazwa pospolita	
+finiszery	finiszer	depr:pl:acc:m2	nazwa pospolita	
 finiszery	finiszer	depr:pl:nom:m2	nazwa pospolita	
 finiszery	finiszer	depr:pl:voc:m2	nazwa pospolita	
 finiszerze	finiszer	subst:sg:loc:m1	nazwa pospolita	
@@ -32518,6 +32690,7 @@ fiołowie	fioł:s1	subst:pl:voc:m1	nazwa pospolita
 fiołowi	fioł:s1	subst:sg:dat:m1	nazwa pospolita	
 fiołów	fioł:s1	subst:pl:acc:m1	nazwa pospolita	
 fiołów	fioł:s1	subst:pl:gen:m1	nazwa pospolita	
+fioły	fioł:s1	depr:pl:acc:m2	nazwa pospolita	
 fioły	fioł:s1	depr:pl:nom:m2	nazwa pospolita	
 fioły	fioł:s1	depr:pl:voc:m2	nazwa pospolita	
 fiole	fioł:s2	subst:sg:loc:m2	nazwa pospolita	
@@ -32720,6 +32893,7 @@ fircyka	fircyk	subst:sg:gen:m1	nazwa pospolita	przest.
 fircykami	fircyk	subst:pl:inst:m1	nazwa pospolita	przest.
 fircyk	fircyk	subst:sg:nom:m1	nazwa pospolita	przest.
 fircykiem	fircyk	subst:sg:inst:m1	nazwa pospolita	przest.
+fircyki	fircyk	depr:pl:acc:m2	nazwa pospolita	przest.
 fircyki	fircyk	depr:pl:nom:m2	nazwa pospolita	przest.
 fircyki	fircyk	depr:pl:voc:m2	nazwa pospolita	przest.
 fircykom	fircyk	subst:pl:dat:m1	nazwa pospolita	przest.
@@ -33059,6 +33233,7 @@ firmantom	firmant	subst:pl:dat:m1	nazwa pospolita
 firmantowi	firmant	subst:sg:dat:m1	nazwa pospolita	
 firmantów	firmant	subst:pl:acc:m1	nazwa pospolita	
 firmantów	firmant	subst:pl:gen:m1	nazwa pospolita	
+firmanty	firmant	depr:pl:acc:m2	nazwa pospolita	
 firmanty	firmant	depr:pl:nom:m2	nazwa pospolita	
 firmanty	firmant	depr:pl:voc:m2	nazwa pospolita	
 firmatorach	firmator	subst:pl:loc:m1	nazwa pospolita	
@@ -33071,6 +33246,7 @@ firmatorom	firmator	subst:pl:dat:m1	nazwa pospolita
 firmatorowi	firmator	subst:sg:dat:m1	nazwa pospolita	
 firmatorów	firmator	subst:pl:acc:m1	nazwa pospolita	
 firmatorów	firmator	subst:pl:gen:m1	nazwa pospolita	
+firmatory	firmator	depr:pl:acc:m2	nazwa pospolita	
 firmatory	firmator	depr:pl:nom:m2	nazwa pospolita	
 firmatory	firmator	depr:pl:voc:m2	nazwa pospolita	
 firmatorze	firmator	subst:sg:loc:m1	nazwa pospolita	
@@ -33309,6 +33485,7 @@ fiskalisto	fiskalista	subst:sg:voc:m1	nazwa pospolita	daw.
 fiskalistom	fiskalista	subst:pl:dat:m1	nazwa pospolita	daw.
 fiskalistów	fiskalista	subst:pl:acc:m1	nazwa pospolita	daw.
 fiskalistów	fiskalista	subst:pl:gen:m1	nazwa pospolita	daw.
+fiskalisty	fiskalista	depr:pl:acc:m2	nazwa pospolita	daw.
 fiskalisty	fiskalista	depr:pl:nom:m2	nazwa pospolita	daw.
 fiskalisty	fiskalista	depr:pl:voc:m2	nazwa pospolita	daw.
 fiskalisty	fiskalista	subst:sg:gen:m1	nazwa pospolita	daw.
@@ -33756,6 +33933,7 @@ fiszach	fisz:s1	subst:pl:loc:m1	nazwa pospolita	przest.
 fisza	fisz:s1	subst:sg:acc:m1	nazwa pospolita	przest.
 fisza	fisz:s1	subst:sg:gen:m1	nazwa pospolita	przest.
 fiszami	fisz:s1	subst:pl:inst:m1	nazwa pospolita	przest.
+fisze	fisz:s1	depr:pl:acc:m2	nazwa pospolita	przest.
 fisze	fisz:s1	depr:pl:nom:m2	nazwa pospolita	przest.
 fisze	fisz:s1	depr:pl:voc:m2	nazwa pospolita	przest.
 fisze	fisz:s1	subst:pl:nom:m1	nazwa pospolita	przest.
@@ -34220,6 +34398,7 @@ fitopatologa	fitopatolog	subst:sg:gen:m1	nazwa pospolita
 fitopatologami	fitopatolog	subst:pl:inst:m1	nazwa pospolita	
 fitopatolog	fitopatolog	subst:sg:nom:m1	nazwa pospolita	
 fitopatologiem	fitopatolog	subst:sg:inst:m1	nazwa pospolita	
+fitopatologi	fitopatolog	depr:pl:acc:m2	nazwa pospolita	
 fitopatologi	fitopatolog	depr:pl:nom:m2	nazwa pospolita	
 fitopatologi	fitopatolog	depr:pl:voc:m2	nazwa pospolita	
 fitopatologom	fitopatolog	subst:pl:dat:m1	nazwa pospolita	
@@ -34343,6 +34522,7 @@ fitosocjologa	fitosocjolog	subst:sg:gen:m1	nazwa pospolita
 fitosocjologami	fitosocjolog	subst:pl:inst:m1	nazwa pospolita	
 fitosocjolog	fitosocjolog	subst:sg:nom:m1	nazwa pospolita	
 fitosocjologiem	fitosocjolog	subst:sg:inst:m1	nazwa pospolita	
+fitosocjologi	fitosocjolog	depr:pl:acc:m2	nazwa pospolita	
 fitosocjologi	fitosocjolog	depr:pl:nom:m2	nazwa pospolita	
 fitosocjologi	fitosocjolog	depr:pl:voc:m2	nazwa pospolita	
 fitosocjologom	fitosocjolog	subst:pl:dat:m1	nazwa pospolita	
@@ -34434,6 +34614,7 @@ fitoterapeuto	fitoterapeuta	subst:sg:voc:m1	nazwa pospolita
 fitoterapeutom	fitoterapeuta	subst:pl:dat:m1	nazwa pospolita	
 fitoterapeutów	fitoterapeuta	subst:pl:acc:m1	nazwa pospolita	
 fitoterapeutów	fitoterapeuta	subst:pl:gen:m1	nazwa pospolita	
+fitoterapeuty	fitoterapeuta	depr:pl:acc:m2	nazwa pospolita	
 fitoterapeuty	fitoterapeuta	depr:pl:nom:m2	nazwa pospolita	
 fitoterapeuty	fitoterapeuta	depr:pl:voc:m2	nazwa pospolita	
 fitoterapeuty	fitoterapeuta	subst:sg:gen:m1	nazwa pospolita	
@@ -34864,6 +35045,7 @@ fiutyńcach	fiutyniec	subst:pl:loc:m1	nazwa pospolita	daw.
 fiutyńca	fiutyniec	subst:sg:acc:m1	nazwa pospolita	daw.
 fiutyńca	fiutyniec	subst:sg:gen:m1	nazwa pospolita	daw.
 fiutyńcami	fiutyniec	subst:pl:inst:m1	nazwa pospolita	daw.
+fiutyńce	fiutyniec	depr:pl:acc:m2	nazwa pospolita	daw.
 fiutyńce	fiutyniec	depr:pl:nom:m2	nazwa pospolita	daw.
 fiutyńce	fiutyniec	depr:pl:voc:m2	nazwa pospolita	daw.
 fiutyńcem	fiutyniec	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -35003,6 +35185,7 @@ fizjografowie	fizjograf	subst:pl:voc:m1	nazwa pospolita
 fizjografowi	fizjograf	subst:sg:dat:m1	nazwa pospolita	
 fizjografów	fizjograf	subst:pl:acc:m1	nazwa pospolita	
 fizjografów	fizjograf	subst:pl:gen:m1	nazwa pospolita	
+fizjografy	fizjograf	depr:pl:acc:m2	nazwa pospolita	
 fizjografy	fizjograf	depr:pl:nom:m2	nazwa pospolita	
 fizjografy	fizjograf	depr:pl:voc:m2	nazwa pospolita	
 fizjografiach	fizjografia	subst:pl:loc:f	nazwa pospolita	
@@ -35072,6 +35255,7 @@ fizjokrato	fizjokrata	subst:sg:voc:m1	nazwa pospolita
 fizjokratom	fizjokrata	subst:pl:dat:m1	nazwa pospolita	
 fizjokratów	fizjokrata	subst:pl:acc:m1	nazwa pospolita	
 fizjokratów	fizjokrata	subst:pl:gen:m1	nazwa pospolita	
+fizjokraty	fizjokrata	depr:pl:acc:m2	nazwa pospolita	
 fizjokraty	fizjokrata	depr:pl:nom:m2	nazwa pospolita	
 fizjokraty	fizjokrata	depr:pl:voc:m2	nazwa pospolita	
 fizjokraty	fizjokrata	subst:sg:gen:m1	nazwa pospolita	
@@ -35135,6 +35319,7 @@ fizjologa	fizjolog	subst:sg:gen:m1	nazwa pospolita
 fizjologami	fizjolog	subst:pl:inst:m1	nazwa pospolita	
 fizjolog	fizjolog	subst:sg:nom:m1	nazwa pospolita	
 fizjologiem	fizjolog	subst:sg:inst:m1	nazwa pospolita	
+fizjologi	fizjolog	depr:pl:acc:m2	nazwa pospolita	
 fizjologi	fizjolog	depr:pl:nom:m2	nazwa pospolita	
 fizjologi	fizjolog	depr:pl:voc:m2	nazwa pospolita	
 fizjologom	fizjolog	subst:pl:dat:m1	nazwa pospolita	
@@ -35303,6 +35488,7 @@ fizjonomisto	fizjonomista	subst:sg:voc:m1	nazwa pospolita
 fizjonomistom	fizjonomista	subst:pl:dat:m1	nazwa pospolita	
 fizjonomistów	fizjonomista	subst:pl:acc:m1	nazwa pospolita	
 fizjonomistów	fizjonomista	subst:pl:gen:m1	nazwa pospolita	
+fizjonomisty	fizjonomista	depr:pl:acc:m2	nazwa pospolita	
 fizjonomisty	fizjonomista	depr:pl:nom:m2	nazwa pospolita	
 fizjonomisty	fizjonomista	depr:pl:voc:m2	nazwa pospolita	
 fizjonomisty	fizjonomista	subst:sg:gen:m1	nazwa pospolita	
@@ -35338,6 +35524,7 @@ fizjoterapeuto	fizjoterapeuta	subst:sg:voc:m1	nazwa pospolita
 fizjoterapeutom	fizjoterapeuta	subst:pl:dat:m1	nazwa pospolita	
 fizjoterapeutów	fizjoterapeuta	subst:pl:acc:m1	nazwa pospolita	
 fizjoterapeutów	fizjoterapeuta	subst:pl:gen:m1	nazwa pospolita	
+fizjoterapeuty	fizjoterapeuta	depr:pl:acc:m2	nazwa pospolita	
 fizjoterapeuty	fizjoterapeuta	depr:pl:nom:m2	nazwa pospolita	
 fizjoterapeuty	fizjoterapeuta	depr:pl:voc:m2	nazwa pospolita	
 fizjoterapeuty	fizjoterapeuta	subst:sg:gen:m1	nazwa pospolita	
@@ -35469,6 +35656,7 @@ fizyka	fizyk	subst:sg:gen:m1	nazwa pospolita
 fizykami	fizyk	subst:pl:inst:m1	nazwa pospolita	
 fizyk	fizyk	subst:sg:nom:m1	nazwa pospolita	
 fizykiem	fizyk	subst:sg:inst:m1	nazwa pospolita	
+fizyki	fizyk	depr:pl:acc:m2	nazwa pospolita	
 fizyki	fizyk	depr:pl:nom:m2	nazwa pospolita	
 fizyki	fizyk	depr:pl:voc:m2	nazwa pospolita	
 fizykom	fizyk	subst:pl:dat:m1	nazwa pospolita	
@@ -35605,6 +35793,7 @@ fizykochemika	fizykochemik	subst:sg:gen:m1	nazwa pospolita
 fizykochemikami	fizykochemik	subst:pl:inst:m1	nazwa pospolita	
 fizykochemik	fizykochemik	subst:sg:nom:m1	nazwa pospolita	
 fizykochemikiem	fizykochemik	subst:sg:inst:m1	nazwa pospolita	
+fizykochemiki	fizykochemik	depr:pl:acc:m2	nazwa pospolita	
 fizykochemiki	fizykochemik	depr:pl:nom:m2	nazwa pospolita	
 fizykochemiki	fizykochemik	depr:pl:voc:m2	nazwa pospolita	
 fizykochemikom	fizykochemik	subst:pl:dat:m1	nazwa pospolita	
@@ -35626,6 +35815,7 @@ fizykoterapeuto	fizykoterapeuta	subst:sg:voc:m1	nazwa pospolita
 fizykoterapeutom	fizykoterapeuta	subst:pl:dat:m1	nazwa pospolita	
 fizykoterapeutów	fizykoterapeuta	subst:pl:acc:m1	nazwa pospolita	
 fizykoterapeutów	fizykoterapeuta	subst:pl:gen:m1	nazwa pospolita	
+fizykoterapeuty	fizykoterapeuta	depr:pl:acc:m2	nazwa pospolita	
 fizykoterapeuty	fizykoterapeuta	depr:pl:nom:m2	nazwa pospolita	
 fizykoterapeuty	fizykoterapeuta	depr:pl:voc:m2	nazwa pospolita	
 fizykoterapeuty	fizykoterapeuta	subst:sg:gen:m1	nazwa pospolita	
@@ -35710,6 +35900,7 @@ fizykusom	fizykus	subst:pl:dat:m1	nazwa pospolita	daw.
 fizykusowi	fizykus	subst:sg:dat:m1	nazwa pospolita	daw.
 fizykusów	fizykus	subst:pl:acc:m1	nazwa pospolita	daw.
 fizykusów	fizykus	subst:pl:gen:m1	nazwa pospolita	daw.
+fizykusy	fizykus	depr:pl:acc:m2	nazwa pospolita	daw.
 fizykusy	fizykus	depr:pl:nom:m2	nazwa pospolita	daw.
 fizykusy	fizykus	depr:pl:voc:m2	nazwa pospolita	daw.
 fizylierach	fizylier	subst:pl:loc:m1	nazwa pospolita	
@@ -35722,6 +35913,7 @@ fizylierom	fizylier	subst:pl:dat:m1	nazwa pospolita
 fizylierowi	fizylier	subst:sg:dat:m1	nazwa pospolita	
 fizylierów	fizylier	subst:pl:acc:m1	nazwa pospolita	
 fizylierów	fizylier	subst:pl:gen:m1	nazwa pospolita	
+fizyliery	fizylier	depr:pl:acc:m2	nazwa pospolita	
 fizyliery	fizylier	depr:pl:nom:m2	nazwa pospolita	
 fizyliery	fizylier	depr:pl:voc:m2	nazwa pospolita	
 fizylierze	fizylier	subst:sg:loc:m1	nazwa pospolita	
@@ -35882,6 +36074,8 @@ flaczarza	flaczarz	subst:sg:gen:m1	nazwa pospolita	przest.
 flaczarza	flaczarz	subst:sg:gen:m1	nazwa pospolita	przest.|rzad.
 flaczarzami	flaczarz	subst:pl:inst:m1	nazwa pospolita	przest.
 flaczarzami	flaczarz	subst:pl:inst:m1	nazwa pospolita	przest.|rzad.
+flaczarze	flaczarz	depr:pl:acc:m2	nazwa pospolita	przest.
+flaczarze	flaczarz	depr:pl:acc:m2	nazwa pospolita	przest.|rzad.
 flaczarze	flaczarz	depr:pl:nom:m2	nazwa pospolita	przest.
 flaczarze	flaczarz	depr:pl:nom:m2	nazwa pospolita	przest.|rzad.
 flaczarze	flaczarz	depr:pl:voc:m2	nazwa pospolita	przest.
@@ -36341,6 +36535,7 @@ fladrownika	fladrownik	subst:sg:gen:m1	nazwa pospolita	łow.
 fladrownikami	fladrownik	subst:pl:inst:m1	nazwa pospolita	łow.
 fladrownik	fladrownik	subst:sg:nom:m1	nazwa pospolita	łow.
 fladrownikiem	fladrownik	subst:sg:inst:m1	nazwa pospolita	łow.
+fladrowniki	fladrownik	depr:pl:acc:m2	nazwa pospolita	łow.
 fladrowniki	fladrownik	depr:pl:nom:m2	nazwa pospolita	łow.
 fladrowniki	fladrownik	depr:pl:voc:m2	nazwa pospolita	łow.
 fladrownikom	fladrownik	subst:pl:dat:m1	nazwa pospolita	łow.
@@ -36415,6 +36610,7 @@ flagelantom	flagelant	subst:pl:dat:m1	nazwa pospolita
 flagelantowi	flagelant	subst:sg:dat:m1	nazwa pospolita	
 flagelantów	flagelant	subst:pl:acc:m1	nazwa pospolita	
 flagelantów	flagelant	subst:pl:gen:m1	nazwa pospolita	
+flagelanty	flagelant	depr:pl:acc:m2	nazwa pospolita	
 flagelanty	flagelant	depr:pl:nom:m2	nazwa pospolita	
 flagelanty	flagelant	depr:pl:voc:m2	nazwa pospolita	
 flagellancie	flagellant	subst:sg:loc:m1	nazwa pospolita	
@@ -36431,6 +36627,7 @@ flagellantom	flagellant	subst:pl:dat:m1	nazwa pospolita
 flagellantowi	flagellant	subst:sg:dat:m1	nazwa pospolita	
 flagellantów	flagellant	subst:pl:acc:m1	nazwa pospolita	
 flagellantów	flagellant	subst:pl:gen:m1	nazwa pospolita	
+flagellanty	flagellant	depr:pl:acc:m2	nazwa pospolita	
 flagellanty	flagellant	depr:pl:nom:m2	nazwa pospolita	
 flagellanty	flagellant	depr:pl:voc:m2	nazwa pospolita	
 flageolecie	flageolet	subst:sg:loc:m3	nazwa pospolita	
@@ -37020,6 +37217,7 @@ flamenom	flamen	subst:pl:dat:m1	nazwa pospolita
 flamenowi	flamen	subst:sg:dat:m1	nazwa pospolita	
 flamenów	flamen	subst:pl:acc:m1	nazwa pospolita	
 flamenów	flamen	subst:pl:gen:m1	nazwa pospolita	
+flameny	flamen	depr:pl:acc:m2	nazwa pospolita	
 flameny	flamen	depr:pl:nom:m2	nazwa pospolita	
 flameny	flamen	depr:pl:voc:m2	nazwa pospolita	
 flamenco	flamenco	subst:pl:acc:n:ncol	nazwa pospolita	
@@ -37365,6 +37563,7 @@ flankierom	flankier	subst:pl:dat:m1	nazwa pospolita	daw.
 flankierowi	flankier	subst:sg:dat:m1	nazwa pospolita	daw.
 flankierów	flankier	subst:pl:acc:m1	nazwa pospolita	daw.
 flankierów	flankier	subst:pl:gen:m1	nazwa pospolita	daw.
+flankiery	flankier	depr:pl:acc:m2	nazwa pospolita	daw.
 flankiery	flankier	depr:pl:nom:m2	nazwa pospolita	daw.
 flankiery	flankier	depr:pl:voc:m2	nazwa pospolita	daw.
 flankierze	flankier	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -38226,6 +38425,7 @@ flażelantom	flażelant	subst:pl:dat:m1	nazwa pospolita
 flażelantowi	flażelant	subst:sg:dat:m1	nazwa pospolita	
 flażelantów	flażelant	subst:pl:acc:m1	nazwa pospolita	
 flażelantów	flażelant	subst:pl:gen:m1	nazwa pospolita	
+flażelanty	flażelant	depr:pl:acc:m2	nazwa pospolita	
 flażelanty	flażelant	depr:pl:nom:m2	nazwa pospolita	
 flażelanty	flażelant	depr:pl:voc:m2	nazwa pospolita	
 flażeolecie	flażeolet	subst:sg:loc:m3	nazwa pospolita	
@@ -38629,6 +38829,7 @@ flecisto	flecista	subst:sg:voc:m1	nazwa pospolita
 flecistom	flecista	subst:pl:dat:m1	nazwa pospolita	
 flecistów	flecista	subst:pl:acc:m1	nazwa pospolita	
 flecistów	flecista	subst:pl:gen:m1	nazwa pospolita	
+flecisty	flecista	depr:pl:acc:m2	nazwa pospolita	
 flecisty	flecista	depr:pl:nom:m2	nazwa pospolita	
 flecisty	flecista	depr:pl:voc:m2	nazwa pospolita	
 flecisty	flecista	subst:sg:gen:m1	nazwa pospolita	
@@ -38769,6 +38970,7 @@ flegmatyka	flegmatyk	subst:sg:gen:m1	nazwa pospolita
 flegmatykami	flegmatyk	subst:pl:inst:m1	nazwa pospolita	
 flegmatyk	flegmatyk	subst:sg:nom:m1	nazwa pospolita	
 flegmatykiem	flegmatyk	subst:sg:inst:m1	nazwa pospolita	
+flegmatyki	flegmatyk	depr:pl:acc:m2	nazwa pospolita	
 flegmatyki	flegmatyk	depr:pl:nom:m2	nazwa pospolita	
 flegmatyki	flegmatyk	depr:pl:voc:m2	nazwa pospolita	
 flegmatykom	flegmatyk	subst:pl:dat:m1	nazwa pospolita	
@@ -38968,6 +39170,7 @@ flejach	fleja:s1	subst:pl:loc:m1	nazwa pospolita	pot.
 fleja	fleja:s1	subst:sg:nom:m1	nazwa pospolita	pot.
 flejami	fleja:s1	subst:pl:inst:m1	nazwa pospolita	pot.
 fleją	fleja:s1	subst:sg:inst:m1	nazwa pospolita	pot.
+fleje	fleja:s1	depr:pl:acc:m2	nazwa pospolita	pot.
 fleje	fleja:s1	depr:pl:nom:m2	nazwa pospolita	pot.
 fleje	fleja:s1	depr:pl:voc:m2	nazwa pospolita	pot.
 fleje	fleja:s1	subst:pl:nom:m1	nazwa pospolita	pot.
@@ -39006,6 +39209,7 @@ flejtuchów	flejtuch	subst:pl:acc:m1	nazwa pospolita	pot.
 flejtuchów	flejtuch	subst:pl:gen:m1	nazwa pospolita	pot.
 flejtuchu	flejtuch	subst:sg:loc:m1	nazwa pospolita	pot.
 flejtuchu	flejtuch	subst:sg:voc:m1	nazwa pospolita	pot.
+flejtuchy	flejtuch	depr:pl:acc:m2	nazwa pospolita	pot.
 flejtuchy	flejtuch	depr:pl:nom:m2	nazwa pospolita	pot.
 flejtuchy	flejtuch	depr:pl:voc:m2	nazwa pospolita	pot.
 flejtuchowato	flejtuchowato	adv:pos		pot.
@@ -39053,6 +39257,7 @@ flejtuszka	flejtuszek:s1	subst:sg:acc:m1	nazwa pospolita
 flejtuszka	flejtuszek:s1	subst:sg:gen:m1	nazwa pospolita	
 flejtuszkami	flejtuszek:s1	subst:pl:inst:m1	nazwa pospolita	
 flejtuszkiem	flejtuszek:s1	subst:sg:inst:m1	nazwa pospolita	
+flejtuszki	flejtuszek:s1	depr:pl:acc:m2	nazwa pospolita	
 flejtuszki	flejtuszek:s1	depr:pl:nom:m2	nazwa pospolita	
 flejtuszki	flejtuszek:s1	depr:pl:voc:m2	nazwa pospolita	
 flejtuszkom	flejtuszek:s1	subst:pl:dat:m1	nazwa pospolita	
@@ -39432,6 +39637,8 @@ fletniarza	fletniarz	subst:sg:gen:m1	nazwa pospolita
 fletniarza	fletniarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 fletniarzami	fletniarz	subst:pl:inst:m1	nazwa pospolita	
 fletniarzami	fletniarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+fletniarze	fletniarz	depr:pl:acc:m2	nazwa pospolita	
+fletniarze	fletniarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 fletniarze	fletniarz	depr:pl:nom:m2	nazwa pospolita	
 fletniarze	fletniarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 fletniarze	fletniarz	depr:pl:voc:m2	nazwa pospolita	
@@ -39503,6 +39710,7 @@ fletnisto	fletnista	subst:sg:voc:m1	nazwa pospolita
 fletnistom	fletnista	subst:pl:dat:m1	nazwa pospolita	
 fletnistów	fletnista	subst:pl:acc:m1	nazwa pospolita	
 fletnistów	fletnista	subst:pl:gen:m1	nazwa pospolita	
+fletnisty	fletnista	depr:pl:acc:m2	nazwa pospolita	
 fletnisty	fletnista	depr:pl:nom:m2	nazwa pospolita	
 fletnisty	fletnista	depr:pl:voc:m2	nazwa pospolita	
 fletnisty	fletnista	subst:sg:gen:m1	nazwa pospolita	
@@ -39628,6 +39836,7 @@ flibustierom	flibustier	subst:pl:dat:m1	nazwa pospolita
 flibustierowi	flibustier	subst:sg:dat:m1	nazwa pospolita	
 flibustierów	flibustier	subst:pl:acc:m1	nazwa pospolita	
 flibustierów	flibustier	subst:pl:gen:m1	nazwa pospolita	
+flibustiery	flibustier	depr:pl:acc:m2	nazwa pospolita	
 flibustiery	flibustier	depr:pl:nom:m2	nazwa pospolita	
 flibustiery	flibustier	depr:pl:voc:m2	nazwa pospolita	
 flibustierze	flibustier	subst:sg:loc:m1	nazwa pospolita	
@@ -39648,6 +39857,7 @@ fligeladiutantom	fligeladiutant	subst:pl:dat:m1	nazwa pospolita	przest.|wojsk.
 fligeladiutantowi	fligeladiutant	subst:sg:dat:m1	nazwa pospolita	przest.|wojsk.
 fligeladiutantów	fligeladiutant	subst:pl:acc:m1	nazwa pospolita	przest.|wojsk.
 fligeladiutantów	fligeladiutant	subst:pl:gen:m1	nazwa pospolita	przest.|wojsk.
+fligeladiutanty	fligeladiutant	depr:pl:acc:m2	nazwa pospolita	przest.|wojsk.
 fligeladiutanty	fligeladiutant	depr:pl:nom:m2	nazwa pospolita	przest.|wojsk.
 fligeladiutanty	fligeladiutant	depr:pl:voc:m2	nazwa pospolita	przest.|wojsk.
 flikach	flik	subst:pl:loc:m1	nazwa pospolita	
@@ -39656,6 +39866,7 @@ flika	flik	subst:sg:gen:m1	nazwa pospolita
 flikami	flik	subst:pl:inst:m1	nazwa pospolita	
 flik	flik	subst:sg:nom:m1	nazwa pospolita	
 flikiem	flik	subst:sg:inst:m1	nazwa pospolita	
+fliki	flik	depr:pl:acc:m2	nazwa pospolita	
 fliki	flik	depr:pl:nom:m2	nazwa pospolita	
 fliki	flik	depr:pl:voc:m2	nazwa pospolita	
 flikom	flik	subst:pl:dat:m1	nazwa pospolita	
@@ -39864,6 +40075,8 @@ flirciarza	flirciarz	subst:sg:gen:m1	nazwa pospolita
 flirciarza	flirciarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 flirciarzami	flirciarz	subst:pl:inst:m1	nazwa pospolita	
 flirciarzami	flirciarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+flirciarze	flirciarz	depr:pl:acc:m2	nazwa pospolita	
+flirciarze	flirciarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 flirciarze	flirciarz	depr:pl:nom:m2	nazwa pospolita	
 flirciarze	flirciarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 flirciarze	flirciarz	depr:pl:voc:m2	nazwa pospolita	
@@ -40023,6 +40236,7 @@ flirtowiczach	flirtowicz	subst:pl:loc:m1	nazwa pospolita	przest.
 flirtowicza	flirtowicz	subst:sg:acc:m1	nazwa pospolita	przest.
 flirtowicza	flirtowicz	subst:sg:gen:m1	nazwa pospolita	przest.
 flirtowiczami	flirtowicz	subst:pl:inst:m1	nazwa pospolita	przest.
+flirtowicze	flirtowicz	depr:pl:acc:m2	nazwa pospolita	przest.
 flirtowicze	flirtowicz	depr:pl:nom:m2	nazwa pospolita	przest.
 flirtowicze	flirtowicz	depr:pl:voc:m2	nazwa pospolita	przest.
 flirtowicze	flirtowicz	subst:pl:nom:m1	nazwa pospolita	przest.
@@ -40173,6 +40387,7 @@ flisaka	flisak	subst:sg:gen:m1	nazwa pospolita
 flisakami	flisak	subst:pl:inst:m1	nazwa pospolita	
 flisak	flisak	subst:sg:nom:m1	nazwa pospolita	
 flisakiem	flisak	subst:sg:inst:m1	nazwa pospolita	
+flisaki	flisak	depr:pl:acc:m2	nazwa pospolita	
 flisaki	flisak	depr:pl:nom:m2	nazwa pospolita	
 flisaki	flisak	depr:pl:voc:m2	nazwa pospolita	
 flisakom	flisak	subst:pl:dat:m1	nazwa pospolita	
@@ -40336,6 +40551,7 @@ flisowie	flis:s1	subst:pl:voc:m1	nazwa pospolita	przest.
 flisowi	flis:s1	subst:sg:dat:m1	nazwa pospolita	przest.
 flisów	flis:s1	subst:pl:acc:m1	nazwa pospolita	przest.
 flisów	flis:s1	subst:pl:gen:m1	nazwa pospolita	przest.
+flisy	flis:s1	depr:pl:acc:m2	nazwa pospolita	przest.
 flisy	flis:s1	depr:pl:nom:m2	nazwa pospolita	przest.
 flisy	flis:s1	depr:pl:voc:m2	nazwa pospolita	przest.
 flisach	flis:s2	subst:pl:loc:m3	nazwa pospolita	przest.
@@ -40543,6 +40759,8 @@ fliziarza	fliziarz	subst:sg:gen:m1	nazwa pospolita	reg.
 fliziarza	fliziarz	subst:sg:gen:m1	nazwa pospolita	reg.|rzad.
 fliziarzami	fliziarz	subst:pl:inst:m1	nazwa pospolita	reg.
 fliziarzami	fliziarz	subst:pl:inst:m1	nazwa pospolita	reg.|rzad.
+fliziarze	fliziarz	depr:pl:acc:m2	nazwa pospolita	reg.
+fliziarze	fliziarz	depr:pl:acc:m2	nazwa pospolita	reg.|rzad.
 fliziarze	fliziarz	depr:pl:nom:m2	nazwa pospolita	reg.
 fliziarze	fliziarz	depr:pl:nom:m2	nazwa pospolita	reg.|rzad.
 fliziarze	fliziarz	depr:pl:voc:m2	nazwa pospolita	reg.
@@ -40796,6 +41014,7 @@ flogistyka	flogistyk	subst:sg:gen:m1	nazwa pospolita
 flogistykami	flogistyk	subst:pl:inst:m1	nazwa pospolita	
 flogistyk	flogistyk	subst:sg:nom:m1	nazwa pospolita	
 flogistykiem	flogistyk	subst:sg:inst:m1	nazwa pospolita	
+flogistyki	flogistyk	depr:pl:acc:m2	nazwa pospolita	
 flogistyki	flogistyk	depr:pl:nom:m2	nazwa pospolita	
 flogistyki	flogistyk	depr:pl:voc:m2	nazwa pospolita	
 flogistykom	flogistyk	subst:pl:dat:m1	nazwa pospolita	
@@ -41169,6 +41388,7 @@ florecisto	florecista	subst:sg:voc:m1	nazwa pospolita
 florecistom	florecista	subst:pl:dat:m1	nazwa pospolita	
 florecistów	florecista	subst:pl:acc:m1	nazwa pospolita	
 florecistów	florecista	subst:pl:gen:m1	nazwa pospolita	
+florecisty	florecista	depr:pl:acc:m2	nazwa pospolita	
 florecisty	florecista	depr:pl:nom:m2	nazwa pospolita	
 florecisty	florecista	depr:pl:voc:m2	nazwa pospolita	
 florecisty	florecista	subst:sg:gen:m1	nazwa pospolita	
@@ -41266,6 +41486,7 @@ florentczyka	florentczyk	subst:sg:gen:m1	nazwa pospolita
 florentczykami	florentczyk	subst:pl:inst:m1	nazwa pospolita	
 florentczyk	florentczyk	subst:sg:nom:m1	nazwa pospolita	
 florentczykiem	florentczyk	subst:sg:inst:m1	nazwa pospolita	
+florentczyki	florentczyk	depr:pl:acc:m2	nazwa pospolita	
 florentczyki	florentczyk	depr:pl:nom:m2	nazwa pospolita	
 florentczyki	florentczyk	depr:pl:voc:m2	nazwa pospolita	
 florentczykom	florentczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -41282,6 +41503,7 @@ florentyńczyka	florentyńczyk	subst:sg:gen:m1	nazwa pospolita
 florentyńczykami	florentyńczyk	subst:pl:inst:m1	nazwa pospolita	
 florentyńczyk	florentyńczyk	subst:sg:nom:m1	nazwa pospolita	
 florentyńczykiem	florentyńczyk	subst:sg:inst:m1	nazwa pospolita	
+florentyńczyki	florentyńczyk	depr:pl:acc:m2	nazwa pospolita	
 florentyńczyki	florentyńczyk	depr:pl:nom:m2	nazwa pospolita	
 florentyńczyki	florentyńczyk	depr:pl:voc:m2	nazwa pospolita	
 florentyńczykom	florentyńczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -41664,6 +41886,7 @@ florysto	florysta	subst:sg:voc:m1	nazwa pospolita	przest.
 florystom	florysta	subst:pl:dat:m1	nazwa pospolita	przest.
 florystów	florysta	subst:pl:acc:m1	nazwa pospolita	przest.
 florystów	florysta	subst:pl:gen:m1	nazwa pospolita	przest.
+florysty	florysta	depr:pl:acc:m2	nazwa pospolita	przest.
 florysty	florysta	depr:pl:nom:m2	nazwa pospolita	przest.
 florysty	florysta	depr:pl:voc:m2	nazwa pospolita	przest.
 florysty	florysta	subst:sg:gen:m1	nazwa pospolita	przest.
@@ -43709,6 +43932,7 @@ foksowie	foks:s1	subst:pl:voc:m1	nazwa pospolita	pogard.
 foksowi	foks:s1	subst:sg:dat:m1	nazwa pospolita	pogard.
 foksów	foks:s1	subst:pl:acc:m1	nazwa pospolita	pogard.
 foksów	foks:s1	subst:pl:gen:m1	nazwa pospolita	pogard.
+foksy	foks:s1	depr:pl:acc:m2	nazwa pospolita	pogard.
 foksy	foks:s1	depr:pl:nom:m2	nazwa pospolita	pogard.
 foksy	foks:s1	depr:pl:voc:m2	nazwa pospolita	pogard.
 foksach	foks:s2	subst:pl:loc:m2	nazwa pospolita	pot.
@@ -43912,6 +44136,8 @@ folarza	folarz	subst:sg:gen:m1	nazwa pospolita
 folarza	folarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 folarzami	folarz	subst:pl:inst:m1	nazwa pospolita	
 folarzami	folarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+folarze	folarz	depr:pl:acc:m2	nazwa pospolita	
+folarze	folarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 folarze	folarz	depr:pl:nom:m2	nazwa pospolita	
 folarze	folarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 folarze	folarz	depr:pl:voc:m2	nazwa pospolita	
@@ -44525,6 +44751,7 @@ folklorysto	folklorysta	subst:sg:voc:m1	nazwa pospolita
 folklorystom	folklorysta	subst:pl:dat:m1	nazwa pospolita	
 folklorystów	folklorysta	subst:pl:acc:m1	nazwa pospolita	
 folklorystów	folklorysta	subst:pl:gen:m1	nazwa pospolita	
+folklorysty	folklorysta	depr:pl:acc:m2	nazwa pospolita	
 folklorysty	folklorysta	depr:pl:nom:m2	nazwa pospolita	
 folklorysty	folklorysta	depr:pl:voc:m2	nazwa pospolita	
 folklorysty	folklorysta	subst:sg:gen:m1	nazwa pospolita	
@@ -44603,6 +44830,7 @@ folkowcach	folkowiec	subst:pl:loc:m1	nazwa pospolita
 folkowca	folkowiec	subst:sg:acc:m1	nazwa pospolita	
 folkowca	folkowiec	subst:sg:gen:m1	nazwa pospolita	
 folkowcami	folkowiec	subst:pl:inst:m1	nazwa pospolita	
+folkowce	folkowiec	depr:pl:acc:m2	nazwa pospolita	
 folkowce	folkowiec	depr:pl:nom:m2	nazwa pospolita	
 folkowce	folkowiec	depr:pl:voc:m2	nazwa pospolita	
 folkowcem	folkowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -44659,6 +44887,7 @@ folksdojczach	folksdojcz	subst:pl:loc:m1	nazwa pospolita
 folksdojcza	folksdojcz	subst:sg:acc:m1	nazwa pospolita	
 folksdojcza	folksdojcz	subst:sg:gen:m1	nazwa pospolita	
 folksdojczami	folksdojcz	subst:pl:inst:m1	nazwa pospolita	
+folksdojcze	folksdojcz	depr:pl:acc:m2	nazwa pospolita	
 folksdojcze	folksdojcz	depr:pl:nom:m2	nazwa pospolita	
 folksdojcze	folksdojcz	depr:pl:voc:m2	nazwa pospolita	
 folksdojcze	folksdojcz	subst:pl:nom:m1	nazwa pospolita	
@@ -44892,6 +45121,7 @@ folusznika	folusznik	subst:sg:gen:m1	nazwa pospolita
 folusznikami	folusznik	subst:pl:inst:m1	nazwa pospolita	
 folusznik	folusznik	subst:sg:nom:m1	nazwa pospolita	
 folusznikiem	folusznik	subst:sg:inst:m1	nazwa pospolita	
+foluszniki	folusznik	depr:pl:acc:m2	nazwa pospolita	
 foluszniki	folusznik	depr:pl:nom:m2	nazwa pospolita	
 foluszniki	folusznik	depr:pl:voc:m2	nazwa pospolita	
 folusznikom	folusznik	subst:pl:dat:m1	nazwa pospolita	
@@ -45079,6 +45309,7 @@ folwarcznym	folwarczny:a	adj:pl:dat:m1.m2.m3.f.n:pos
 folwarcznym	folwarczny:a	adj:sg:inst:m1.m2.m3.n:pos		
 folwarcznym	folwarczny:a	adj:sg:loc:m1.m2.m3.n:pos		
 folwarcznymi	folwarczny:a	adj:pl:inst:m1.m2.m3.f.n:pos		
+folwarczne	folwarczny:s	depr:pl:acc:m2	nazwa pospolita	
 folwarczne	folwarczny:s	depr:pl:nom:m2	nazwa pospolita	
 folwarczne	folwarczny:s	depr:pl:voc:m2	nazwa pospolita	
 folwarcznego	folwarczny:s	subst:sg:acc:m1	nazwa pospolita	
@@ -45505,6 +45736,7 @@ fonetyka	fonetyk	subst:sg:gen:m1	nazwa pospolita
 fonetykami	fonetyk	subst:pl:inst:m1	nazwa pospolita	
 fonetyk	fonetyk	subst:sg:nom:m1	nazwa pospolita	
 fonetykiem	fonetyk	subst:sg:inst:m1	nazwa pospolita	
+fonetyki	fonetyk	depr:pl:acc:m2	nazwa pospolita	
 fonetyki	fonetyk	depr:pl:nom:m2	nazwa pospolita	
 fonetyki	fonetyk	depr:pl:voc:m2	nazwa pospolita	
 fonetykom	fonetyk	subst:pl:dat:m1	nazwa pospolita	
@@ -45655,6 +45887,7 @@ foniatro	foniatra	subst:sg:voc:m1	nazwa pospolita
 foniatrom	foniatra	subst:pl:dat:m1	nazwa pospolita	
 foniatrów	foniatra	subst:pl:acc:m1	nazwa pospolita	
 foniatrów	foniatra	subst:pl:gen:m1	nazwa pospolita	
+foniatry	foniatra	depr:pl:acc:m2	nazwa pospolita	
 foniatry	foniatra	depr:pl:nom:m2	nazwa pospolita	
 foniatry	foniatra	depr:pl:voc:m2	nazwa pospolita	
 foniatry	foniatra	subst:sg:gen:m1	nazwa pospolita	
@@ -45779,6 +46012,7 @@ fonoamatorom	fonoamator	subst:pl:dat:m1	nazwa pospolita
 fonoamatorowi	fonoamator	subst:sg:dat:m1	nazwa pospolita	
 fonoamatorów	fonoamator	subst:pl:acc:m1	nazwa pospolita	
 fonoamatorów	fonoamator	subst:pl:gen:m1	nazwa pospolita	
+fonoamatory	fonoamator	depr:pl:acc:m2	nazwa pospolita	
 fonoamatory	fonoamator	depr:pl:nom:m2	nazwa pospolita	
 fonoamatory	fonoamator	depr:pl:voc:m2	nazwa pospolita	
 fonoamatorze	fonoamator	subst:sg:loc:m1	nazwa pospolita	
@@ -46037,6 +46271,7 @@ fonologa	fonolog	subst:sg:gen:m1	nazwa pospolita
 fonologami	fonolog	subst:pl:inst:m1	nazwa pospolita	
 fonolog	fonolog	subst:sg:nom:m1	nazwa pospolita	
 fonologiem	fonolog	subst:sg:inst:m1	nazwa pospolita	
+fonologi	fonolog	depr:pl:acc:m2	nazwa pospolita	
 fonologi	fonolog	depr:pl:nom:m2	nazwa pospolita	
 fonologi	fonolog	depr:pl:voc:m2	nazwa pospolita	
 fonologom	fonolog	subst:pl:dat:m1	nazwa pospolita	
@@ -46596,6 +46831,7 @@ fordanserom	fordanser	subst:pl:dat:m1	nazwa pospolita
 fordanserowi	fordanser	subst:sg:dat:m1	nazwa pospolita	
 fordanserów	fordanser	subst:pl:acc:m1	nazwa pospolita	
 fordanserów	fordanser	subst:pl:gen:m1	nazwa pospolita	
+fordansery	fordanser	depr:pl:acc:m2	nazwa pospolita	
 fordansery	fordanser	depr:pl:nom:m2	nazwa pospolita	
 fordansery	fordanser	depr:pl:voc:m2	nazwa pospolita	
 fordanserze	fordanser	subst:sg:loc:m1	nazwa pospolita	
@@ -47068,6 +47304,7 @@ formalisto	formalista	subst:sg:voc:m1	nazwa pospolita
 formalistom	formalista	subst:pl:dat:m1	nazwa pospolita	
 formalistów	formalista	subst:pl:acc:m1	nazwa pospolita	
 formalistów	formalista	subst:pl:gen:m1	nazwa pospolita	
+formalisty	formalista	depr:pl:acc:m2	nazwa pospolita	
 formalisty	formalista	depr:pl:nom:m2	nazwa pospolita	
 formalisty	formalista	depr:pl:voc:m2	nazwa pospolita	
 formalisty	formalista	subst:sg:gen:m1	nazwa pospolita	
@@ -47778,6 +48015,8 @@ formierza	formierz	subst:sg:gen:m1	nazwa pospolita
 formierza	formierz	subst:sg:gen:m1	nazwa pospolita	rzad.
 formierzami	formierz	subst:pl:inst:m1	nazwa pospolita	
 formierzami	formierz	subst:pl:inst:m1	nazwa pospolita	rzad.
+formierze	formierz	depr:pl:acc:m2	nazwa pospolita	
+formierze	formierz	depr:pl:acc:m2	nazwa pospolita	rzad.
 formierze	formierz	depr:pl:nom:m2	nazwa pospolita	
 formierze	formierz	depr:pl:nom:m2	nazwa pospolita	rzad.
 formierze	formierz	depr:pl:voc:m2	nazwa pospolita	
@@ -47839,6 +48078,7 @@ formisto	formista	subst:sg:voc:m1	nazwa pospolita
 formistom	formista	subst:pl:dat:m1	nazwa pospolita	
 formistów	formista	subst:pl:acc:m1	nazwa pospolita	
 formistów	formista	subst:pl:gen:m1	nazwa pospolita	
+formisty	formista	depr:pl:acc:m2	nazwa pospolita	
 formisty	formista	depr:pl:nom:m2	nazwa pospolita	
 formisty	formista	depr:pl:voc:m2	nazwa pospolita	
 formisty	formista	subst:sg:gen:m1	nazwa pospolita	
@@ -48431,6 +48671,7 @@ fornalach	fornal	subst:pl:loc:m1	nazwa pospolita
 fornala	fornal	subst:sg:acc:m1	nazwa pospolita	
 fornala	fornal	subst:sg:gen:m1	nazwa pospolita	
 fornalami	fornal	subst:pl:inst:m1	nazwa pospolita	
+fornale	fornal	depr:pl:acc:m2	nazwa pospolita	
 fornale	fornal	depr:pl:nom:m2	nazwa pospolita	
 fornale	fornal	depr:pl:voc:m2	nazwa pospolita	
 fornale	fornal	subst:pl:nom:m1	nazwa pospolita	
@@ -49385,6 +49626,7 @@ forszpanowie	forszpan:s2	subst:pl:voc:m1	nazwa pospolita	daw.
 forszpanowi	forszpan:s2	subst:sg:dat:m1	nazwa pospolita	daw.
 forszpanów	forszpan:s2	subst:pl:acc:m1	nazwa pospolita	daw.
 forszpanów	forszpan:s2	subst:pl:gen:m1	nazwa pospolita	daw.
+forszpany	forszpan:s2	depr:pl:acc:m2	nazwa pospolita	daw.
 forszpany	forszpan:s2	depr:pl:nom:m2	nazwa pospolita	daw.
 forszpany	forszpan:s2	depr:pl:voc:m2	nazwa pospolita	daw.
 forsztelacjach	forsztelacja	subst:pl:loc:f	nazwa pospolita	daw.
@@ -49488,6 +49730,7 @@ forsztmanom	forsztman	subst:pl:dat:m1	nazwa pospolita	daw.
 forsztmanowi	forsztman	subst:sg:dat:m1	nazwa pospolita	daw.
 forsztmanów	forsztman	subst:pl:acc:m1	nazwa pospolita	daw.
 forsztmanów	forsztman	subst:pl:gen:m1	nazwa pospolita	daw.
+forsztmany	forsztman	depr:pl:acc:m2	nazwa pospolita	daw.
 forsztmany	forsztman	depr:pl:nom:m2	nazwa pospolita	daw.
 forsztmany	forsztman	depr:pl:voc:m2	nazwa pospolita	daw.
 forsztować	forsztować	inf:imperf		bud.|daw.
@@ -49969,6 +50212,7 @@ fortepianisto	fortepianista	subst:sg:voc:m1	nazwa pospolita	przest.
 fortepianistom	fortepianista	subst:pl:dat:m1	nazwa pospolita	przest.
 fortepianistów	fortepianista	subst:pl:acc:m1	nazwa pospolita	przest.
 fortepianistów	fortepianista	subst:pl:gen:m1	nazwa pospolita	przest.
+fortepianisty	fortepianista	depr:pl:acc:m2	nazwa pospolita	przest.
 fortepianisty	fortepianista	depr:pl:nom:m2	nazwa pospolita	przest.
 fortepianisty	fortepianista	depr:pl:voc:m2	nazwa pospolita	przest.
 fortepianisty	fortepianista	subst:sg:gen:m1	nazwa pospolita	przest.
@@ -50242,6 +50486,7 @@ fortunatom	fortunat	subst:pl:dat:m1	nazwa pospolita	przest.
 fortunatowi	fortunat	subst:sg:dat:m1	nazwa pospolita	przest.
 fortunatów	fortunat	subst:pl:acc:m1	nazwa pospolita	przest.
 fortunatów	fortunat	subst:pl:gen:m1	nazwa pospolita	przest.
+fortunaty	fortunat	depr:pl:acc:m2	nazwa pospolita	przest.
 fortunaty	fortunat	depr:pl:nom:m2	nazwa pospolita	przest.
 fortunaty	fortunat	depr:pl:voc:m2	nazwa pospolita	przest.
 fortuneczce	fortuneczka	subst:sg:dat:f	nazwa pospolita	
@@ -50398,6 +50643,7 @@ fortyfikatorom	fortyfikator	subst:pl:dat:m1	nazwa pospolita	przest.
 fortyfikatorowi	fortyfikator	subst:sg:dat:m1	nazwa pospolita	przest.
 fortyfikatorów	fortyfikator	subst:pl:acc:m1	nazwa pospolita	przest.
 fortyfikatorów	fortyfikator	subst:pl:gen:m1	nazwa pospolita	przest.
+fortyfikatory	fortyfikator	depr:pl:acc:m2	nazwa pospolita	przest.
 fortyfikatory	fortyfikator	depr:pl:nom:m2	nazwa pospolita	przest.
 fortyfikatory	fortyfikator	depr:pl:voc:m2	nazwa pospolita	przest.
 fortyfikatorze	fortyfikator	subst:sg:loc:m1	nazwa pospolita	przest.
@@ -50511,6 +50757,7 @@ forumowiczach	forumowicz	subst:pl:loc:m1	nazwa pospolita	pot.
 forumowicza	forumowicz	subst:sg:acc:m1	nazwa pospolita	pot.
 forumowicza	forumowicz	subst:sg:gen:m1	nazwa pospolita	pot.
 forumowiczami	forumowicz	subst:pl:inst:m1	nazwa pospolita	pot.
+forumowicze	forumowicz	depr:pl:acc:m2	nazwa pospolita	pot.
 forumowicze	forumowicz	depr:pl:nom:m2	nazwa pospolita	pot.
 forumowicze	forumowicz	depr:pl:voc:m2	nazwa pospolita	pot.
 forumowicze	forumowicz	subst:pl:nom:m1	nazwa pospolita	pot.
@@ -50704,6 +50951,7 @@ forysiach	foryś	subst:pl:loc:m1	nazwa pospolita	przest.
 forysia	foryś	subst:sg:acc:m1	nazwa pospolita	przest.
 forysia	foryś	subst:sg:gen:m1	nazwa pospolita	przest.
 forysiami	foryś	subst:pl:inst:m1	nazwa pospolita	przest.
+forysie	foryś	depr:pl:acc:m2	nazwa pospolita	przest.
 forysie	foryś	depr:pl:nom:m2	nazwa pospolita	przest.
 forysie	foryś	depr:pl:voc:m2	nazwa pospolita	przest.
 forysie	foryś	subst:pl:nom:m1	nazwa pospolita	przest.
@@ -51975,6 +52223,7 @@ fotoalergika	fotoalergik	subst:sg:gen:m1	nazwa pospolita
 fotoalergikami	fotoalergik	subst:pl:inst:m1	nazwa pospolita	
 fotoalergik	fotoalergik	subst:sg:nom:m1	nazwa pospolita	
 fotoalergikiem	fotoalergik	subst:sg:inst:m1	nazwa pospolita	
+fotoalergiki	fotoalergik	depr:pl:acc:m2	nazwa pospolita	
 fotoalergiki	fotoalergik	depr:pl:nom:m2	nazwa pospolita	
 fotoalergiki	fotoalergik	depr:pl:voc:m2	nazwa pospolita	
 fotoalergikom	fotoalergik	subst:pl:dat:m1	nazwa pospolita	
@@ -51993,6 +52242,7 @@ fotoamatorom	fotoamator	subst:pl:dat:m1	nazwa pospolita
 fotoamatorowi	fotoamator	subst:sg:dat:m1	nazwa pospolita	
 fotoamatorów	fotoamator	subst:pl:acc:m1	nazwa pospolita	
 fotoamatorów	fotoamator	subst:pl:gen:m1	nazwa pospolita	
+fotoamatory	fotoamator	depr:pl:acc:m2	nazwa pospolita	
 fotoamatory	fotoamator	depr:pl:nom:m2	nazwa pospolita	
 fotoamatory	fotoamator	depr:pl:voc:m2	nazwa pospolita	
 fotoamatorze	fotoamator	subst:sg:loc:m1	nazwa pospolita	
@@ -52158,6 +52408,7 @@ fotochemigrafika	fotochemigrafik	subst:sg:gen:m1	nazwa pospolita
 fotochemigrafikami	fotochemigrafik	subst:pl:inst:m1	nazwa pospolita	
 fotochemigrafik	fotochemigrafik	subst:sg:nom:m1	nazwa pospolita	
 fotochemigrafikiem	fotochemigrafik	subst:sg:inst:m1	nazwa pospolita	
+fotochemigrafiki	fotochemigrafik	depr:pl:acc:m2	nazwa pospolita	
 fotochemigrafiki	fotochemigrafik	depr:pl:nom:m2	nazwa pospolita	
 fotochemigrafiki	fotochemigrafik	depr:pl:voc:m2	nazwa pospolita	
 fotochemigrafikom	fotochemigrafik	subst:pl:dat:m1	nazwa pospolita	
@@ -52373,6 +52624,7 @@ fotoedytorom	fotoedytor	subst:pl:dat:m1	nazwa pospolita
 fotoedytorowi	fotoedytor	subst:sg:dat:m1	nazwa pospolita	
 fotoedytorów	fotoedytor	subst:pl:acc:m1	nazwa pospolita	
 fotoedytorów	fotoedytor	subst:pl:gen:m1	nazwa pospolita	
+fotoedytory	fotoedytor	depr:pl:acc:m2	nazwa pospolita	
 fotoedytory	fotoedytor	depr:pl:nom:m2	nazwa pospolita	
 fotoedytory	fotoedytor	depr:pl:voc:m2	nazwa pospolita	
 fotoedytorze	fotoedytor	subst:sg:loc:m1	nazwa pospolita	
@@ -52670,6 +52922,7 @@ fotografowie	fotograf	subst:pl:voc:m1	nazwa pospolita
 fotografowi	fotograf	subst:sg:dat:m1	nazwa pospolita	
 fotografów	fotograf	subst:pl:acc:m1	nazwa pospolita	
 fotografów	fotograf	subst:pl:gen:m1	nazwa pospolita	
+fotografy	fotograf	depr:pl:acc:m2	nazwa pospolita	
 fotografy	fotograf	depr:pl:nom:m2	nazwa pospolita	
 fotografy	fotograf	depr:pl:voc:m2	nazwa pospolita	
 fotografiach	fotografia	subst:pl:loc:f	nazwa pospolita	
@@ -52763,6 +53016,7 @@ fotografika	fotografik	subst:sg:gen:m1	nazwa pospolita
 fotografikami	fotografik	subst:pl:inst:m1	nazwa pospolita	
 fotografik	fotografik	subst:sg:nom:m1	nazwa pospolita	
 fotografikiem	fotografik	subst:sg:inst:m1	nazwa pospolita	
+fotografiki	fotografik	depr:pl:acc:m2	nazwa pospolita	
 fotografiki	fotografik	depr:pl:nom:m2	nazwa pospolita	
 fotografiki	fotografik	depr:pl:voc:m2	nazwa pospolita	
 fotografikom	fotografik	subst:pl:dat:m1	nazwa pospolita	
@@ -52794,6 +53048,7 @@ fotografisto	fotografista	subst:sg:voc:m1	nazwa pospolita	przest.
 fotografistom	fotografista	subst:pl:dat:m1	nazwa pospolita	przest.
 fotografistów	fotografista	subst:pl:acc:m1	nazwa pospolita	przest.
 fotografistów	fotografista	subst:pl:gen:m1	nazwa pospolita	przest.
+fotografisty	fotografista	depr:pl:acc:m2	nazwa pospolita	przest.
 fotografisty	fotografista	depr:pl:nom:m2	nazwa pospolita	przest.
 fotografisty	fotografista	depr:pl:voc:m2	nazwa pospolita	przest.
 fotografisty	fotografista	subst:sg:gen:m1	nazwa pospolita	przest.
@@ -52955,6 +53210,7 @@ fotogrametro	fotogrametra	subst:sg:voc:m1	nazwa pospolita
 fotogrametrom	fotogrametra	subst:pl:dat:m1	nazwa pospolita	
 fotogrametrów	fotogrametra	subst:pl:acc:m1	nazwa pospolita	
 fotogrametrów	fotogrametra	subst:pl:gen:m1	nazwa pospolita	
+fotogrametry	fotogrametra	depr:pl:acc:m2	nazwa pospolita	
 fotogrametry	fotogrametra	depr:pl:nom:m2	nazwa pospolita	
 fotogrametry	fotogrametra	depr:pl:voc:m2	nazwa pospolita	
 fotogrametry	fotogrametra	subst:sg:gen:m1	nazwa pospolita	
@@ -53024,6 +53280,7 @@ fotogrametrysto	fotogrametrysta	subst:sg:voc:m1	nazwa pospolita
 fotogrametrystom	fotogrametrysta	subst:pl:dat:m1	nazwa pospolita	
 fotogrametrystów	fotogrametrysta	subst:pl:acc:m1	nazwa pospolita	
 fotogrametrystów	fotogrametrysta	subst:pl:gen:m1	nazwa pospolita	
+fotogrametrysty	fotogrametrysta	depr:pl:acc:m2	nazwa pospolita	
 fotogrametrysty	fotogrametrysta	depr:pl:nom:m2	nazwa pospolita	
 fotogrametrysty	fotogrametrysta	depr:pl:voc:m2	nazwa pospolita	
 fotogrametrysty	fotogrametrysta	subst:sg:gen:m1	nazwa pospolita	
@@ -54186,6 +54443,7 @@ fotoreporterom	fotoreporter	subst:pl:dat:m1	nazwa pospolita
 fotoreporterowi	fotoreporter	subst:sg:dat:m1	nazwa pospolita	
 fotoreporterów	fotoreporter	subst:pl:acc:m1	nazwa pospolita	
 fotoreporterów	fotoreporter	subst:pl:gen:m1	nazwa pospolita	
+fotoreportery	fotoreporter	depr:pl:acc:m2	nazwa pospolita	
 fotoreportery	fotoreporter	depr:pl:nom:m2	nazwa pospolita	
 fotoreportery	fotoreporter	depr:pl:voc:m2	nazwa pospolita	
 fotoreporterze	fotoreporter	subst:sg:loc:m1	nazwa pospolita	
@@ -54340,6 +54598,7 @@ fotosisto	fotosista	subst:sg:voc:m1	nazwa pospolita
 fotosistom	fotosista	subst:pl:dat:m1	nazwa pospolita	
 fotosistów	fotosista	subst:pl:acc:m1	nazwa pospolita	
 fotosistów	fotosista	subst:pl:gen:m1	nazwa pospolita	
+fotosisty	fotosista	depr:pl:acc:m2	nazwa pospolita	
 fotosisty	fotosista	depr:pl:nom:m2	nazwa pospolita	
 fotosisty	fotosista	depr:pl:voc:m2	nazwa pospolita	
 fotosisty	fotosista	subst:sg:gen:m1	nazwa pospolita	
@@ -54558,6 +54817,7 @@ fototechnika	fototechnik	subst:sg:gen:m1	nazwa pospolita
 fototechnikami	fototechnik	subst:pl:inst:m1	nazwa pospolita	
 fototechnik	fototechnik	subst:sg:nom:m1	nazwa pospolita	
 fototechnikiem	fototechnik	subst:sg:inst:m1	nazwa pospolita	
+fototechniki	fototechnik	depr:pl:acc:m2	nazwa pospolita	
 fototechniki	fototechnik	depr:pl:nom:m2	nazwa pospolita	
 fototechniki	fototechnik	depr:pl:voc:m2	nazwa pospolita	
 fototechnikom	fototechnik	subst:pl:dat:m1	nazwa pospolita	
@@ -55067,6 +55327,7 @@ fowisto	fowista	subst:sg:voc:m1	nazwa pospolita
 fowistom	fowista	subst:pl:dat:m1	nazwa pospolita	
 fowistów	fowista	subst:pl:acc:m1	nazwa pospolita	
 fowistów	fowista	subst:pl:gen:m1	nazwa pospolita	
+fowisty	fowista	depr:pl:acc:m2	nazwa pospolita	
 fowisty	fowista	depr:pl:nom:m2	nazwa pospolita	
 fowisty	fowista	depr:pl:voc:m2	nazwa pospolita	
 fowisty	fowista	subst:sg:gen:m1	nazwa pospolita	
@@ -55630,6 +55891,7 @@ frajerom	frajer	subst:pl:dat:m1	nazwa pospolita
 frajerowi	frajer	subst:sg:dat:m1	nazwa pospolita	
 frajerów	frajer	subst:pl:acc:m1	nazwa pospolita	
 frajerów	frajer	subst:pl:gen:m1	nazwa pospolita	
+frajery	frajer	depr:pl:acc:m2	nazwa pospolita	
 frajery	frajer	depr:pl:nom:m2	nazwa pospolita	
 frajery	frajer	depr:pl:voc:m2	nazwa pospolita	
 frajerze	frajer	subst:sg:loc:m1	nazwa pospolita	
@@ -55787,6 +56049,7 @@ frajtrom	frajter	subst:pl:dat:m1	nazwa pospolita	daw.
 frajtrowi	frajter	subst:sg:dat:m1	nazwa pospolita	daw.
 frajtrów	frajter	subst:pl:acc:m1	nazwa pospolita	daw.
 frajtrów	frajter	subst:pl:gen:m1	nazwa pospolita	daw.
+frajtry	frajter	depr:pl:acc:m2	nazwa pospolita	daw.
 frajtry	frajter	depr:pl:nom:m2	nazwa pospolita	daw.
 frajtry	frajter	depr:pl:voc:m2	nazwa pospolita	daw.
 frajtrze	frajter	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -55831,6 +56094,7 @@ frakcjonisto	frakcjonista	subst:sg:voc:m1	nazwa pospolita
 frakcjonistom	frakcjonista	subst:pl:dat:m1	nazwa pospolita	
 frakcjonistów	frakcjonista	subst:pl:acc:m1	nazwa pospolita	
 frakcjonistów	frakcjonista	subst:pl:gen:m1	nazwa pospolita	
+frakcjonisty	frakcjonista	depr:pl:acc:m2	nazwa pospolita	
 frakcjonisty	frakcjonista	depr:pl:nom:m2	nazwa pospolita	
 frakcjonisty	frakcjonista	depr:pl:voc:m2	nazwa pospolita	
 frakcjonisty	frakcjonista	subst:sg:gen:m1	nazwa pospolita	
@@ -56257,6 +56521,7 @@ franciszkanom	franciszkan	subst:pl:dat:m1	nazwa pospolita	daw.
 franciszkanowi	franciszkan	subst:sg:dat:m1	nazwa pospolita	daw.
 franciszkanów	franciszkan	subst:pl:acc:m1	nazwa pospolita	daw.
 franciszkanów	franciszkan	subst:pl:gen:m1	nazwa pospolita	daw.
+franciszkany	franciszkan	depr:pl:acc:m2	nazwa pospolita	daw.
 franciszkany	franciszkan	depr:pl:nom:m2	nazwa pospolita	daw.
 franciszkany	franciszkan	depr:pl:voc:m2	nazwa pospolita	daw.
 franciszkanach	franciszkanin	subst:pl:loc:m1	nazwa pospolita	
@@ -56273,6 +56538,7 @@ franciszkaninowi	franciszkanin	subst:sg:dat:m1	nazwa pospolita
 franciszkanom	franciszkanin	subst:pl:dat:m1	nazwa pospolita	
 franciszkanów	franciszkanin	subst:pl:acc:m1	nazwa pospolita	
 franciszkanów	franciszkanin	subst:pl:gen:m1	nazwa pospolita	
+franciszkany	franciszkanin	depr:pl:acc:m2	nazwa pospolita	
 franciszkany	franciszkanin	depr:pl:nom:m2	nazwa pospolita	
 franciszkany	franciszkanin	depr:pl:voc:m2	nazwa pospolita	
 franciszkance	franciszkanka	subst:sg:dat:f	nazwa pospolita	
@@ -56698,6 +56964,7 @@ francuzowie	francuz:s1	subst:pl:voc:m1	nazwa pospolita	pot.|środ.
 francuzowi	francuz:s1	subst:sg:dat:m1	nazwa pospolita	pot.|środ.
 francuzów	francuz:s1	subst:pl:acc:m1	nazwa pospolita	pot.|środ.
 francuzów	francuz:s1	subst:pl:gen:m1	nazwa pospolita	pot.|środ.
+francuzy	francuz:s1	depr:pl:acc:m2	nazwa pospolita	pot.|środ.
 francuzy	francuz:s1	depr:pl:nom:m2	nazwa pospolita	pot.|środ.
 francuzy	francuz:s1	depr:pl:voc:m2	nazwa pospolita	pot.|środ.
 francuzach	francuz:s2	subst:pl:loc:m2	nazwa pospolita	pot.
@@ -56760,6 +57027,7 @@ franczyzobiorcach	franczyzobiorca	subst:pl:loc:m1	nazwa pospolita
 franczyzobiorca	franczyzobiorca	subst:sg:nom:m1	nazwa pospolita	
 franczyzobiorcami	franczyzobiorca	subst:pl:inst:m1	nazwa pospolita	
 franczyzobiorcą	franczyzobiorca	subst:sg:inst:m1	nazwa pospolita	
+franczyzobiorce	franczyzobiorca	depr:pl:acc:m2	nazwa pospolita	
 franczyzobiorce	franczyzobiorca	depr:pl:nom:m2	nazwa pospolita	
 franczyzobiorce	franczyzobiorca	depr:pl:voc:m2	nazwa pospolita	
 franczyzobiorcę	franczyzobiorca	subst:sg:acc:m1	nazwa pospolita	
@@ -56776,6 +57044,7 @@ franczyzodawcach	franczyzodawca	subst:pl:loc:m1	nazwa pospolita
 franczyzodawca	franczyzodawca	subst:sg:nom:m1	nazwa pospolita	
 franczyzodawcami	franczyzodawca	subst:pl:inst:m1	nazwa pospolita	
 franczyzodawcą	franczyzodawca	subst:sg:inst:m1	nazwa pospolita	
+franczyzodawce	franczyzodawca	depr:pl:acc:m2	nazwa pospolita	
 franczyzodawce	franczyzodawca	depr:pl:nom:m2	nazwa pospolita	
 franczyzodawce	franczyzodawca	depr:pl:voc:m2	nazwa pospolita	
 franczyzodawcę	franczyzodawca	subst:sg:acc:m1	nazwa pospolita	
@@ -56902,6 +57171,7 @@ frankfurtczyka	frankfurtczyk	subst:sg:gen:m1	nazwa pospolita
 frankfurtczykami	frankfurtczyk	subst:pl:inst:m1	nazwa pospolita	
 frankfurtczyk	frankfurtczyk	subst:sg:nom:m1	nazwa pospolita	
 frankfurtczykiem	frankfurtczyk	subst:sg:inst:m1	nazwa pospolita	
+frankfurtczyki	frankfurtczyk	depr:pl:acc:m2	nazwa pospolita	
 frankfurtczyki	frankfurtczyk	depr:pl:nom:m2	nazwa pospolita	
 frankfurtczyki	frankfurtczyk	depr:pl:voc:m2	nazwa pospolita	
 frankfurtczykom	frankfurtczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -56973,6 +57243,7 @@ frankisto	frankista	subst:sg:voc:m1	nazwa pospolita
 frankistom	frankista	subst:pl:dat:m1	nazwa pospolita	
 frankistów	frankista	subst:pl:acc:m1	nazwa pospolita	
 frankistów	frankista	subst:pl:gen:m1	nazwa pospolita	
+frankisty	frankista	depr:pl:acc:m2	nazwa pospolita	
 frankisty	frankista	depr:pl:nom:m2	nazwa pospolita	
 frankisty	frankista	depr:pl:voc:m2	nazwa pospolita	
 frankisty	frankista	subst:sg:gen:m1	nazwa pospolita	
@@ -57063,6 +57334,7 @@ frankmasonom	frankmason	subst:pl:dat:m1	nazwa pospolita	rzad.
 frankmasonowi	frankmason	subst:sg:dat:m1	nazwa pospolita	rzad.
 frankmasonów	frankmason	subst:pl:acc:m1	nazwa pospolita	rzad.
 frankmasonów	frankmason	subst:pl:gen:m1	nazwa pospolita	rzad.
+frankmasony	frankmason	depr:pl:acc:m2	nazwa pospolita	rzad.
 frankmasony	frankmason	depr:pl:nom:m2	nazwa pospolita	rzad.
 frankmasony	frankmason	depr:pl:voc:m2	nazwa pospolita	rzad.
 franko	franko	adv		handl.
@@ -57074,6 +57346,8 @@ frankofila	frankofil	subst:sg:gen:m1	nazwa pospolita
 frankofila	frankofil	subst:sg:gen:m1	nazwa pospolita	rzad.
 frankofilami	frankofil	subst:pl:inst:m1	nazwa pospolita	
 frankofilami	frankofil	subst:pl:inst:m1	nazwa pospolita	rzad.
+frankofile	frankofil	depr:pl:acc:m2	nazwa pospolita	
+frankofile	frankofil	depr:pl:acc:m2	nazwa pospolita	rzad.
 frankofile	frankofil	depr:pl:nom:m2	nazwa pospolita	
 frankofile	frankofil	depr:pl:nom:m2	nazwa pospolita	rzad.
 frankofile	frankofil	depr:pl:voc:m2	nazwa pospolita	
@@ -57183,6 +57457,7 @@ frankofobowie	frankofob	subst:pl:voc:m1	nazwa pospolita
 frankofobowi	frankofob	subst:sg:dat:m1	nazwa pospolita	
 frankofobów	frankofob	subst:pl:acc:m1	nazwa pospolita	
 frankofobów	frankofob	subst:pl:gen:m1	nazwa pospolita	
+frankofoby	frankofob	depr:pl:acc:m2	nazwa pospolita	
 frankofoby	frankofob	depr:pl:nom:m2	nazwa pospolita	
 frankofoby	frankofob	depr:pl:voc:m2	nazwa pospolita	
 frankofobiach	frankofobia	subst:pl:loc:f	nazwa pospolita	
@@ -57214,6 +57489,7 @@ frankofonom	frankofon	subst:pl:dat:m1	nazwa pospolita
 frankofonowi	frankofon	subst:sg:dat:m1	nazwa pospolita	
 frankofonów	frankofon	subst:pl:acc:m1	nazwa pospolita	
 frankofonów	frankofon	subst:pl:gen:m1	nazwa pospolita	
+frankofony	frankofon	depr:pl:acc:m2	nazwa pospolita	
 frankofony	frankofon	depr:pl:nom:m2	nazwa pospolita	
 frankofony	frankofon	depr:pl:voc:m2	nazwa pospolita	
 frankofoniach	frankofonia	subst:pl:loc:f	nazwa pospolita	
@@ -57419,6 +57695,7 @@ frankowiczach	frankowicz	subst:pl:loc:m1	nazwa pospolita
 frankowicza	frankowicz	subst:sg:acc:m1	nazwa pospolita	
 frankowicza	frankowicz	subst:sg:gen:m1	nazwa pospolita	
 frankowiczami	frankowicz	subst:pl:inst:m1	nazwa pospolita	
+frankowicze	frankowicz	depr:pl:acc:m2	nazwa pospolita	
 frankowicze	frankowicz	depr:pl:nom:m2	nazwa pospolita	
 frankowicze	frankowicz	depr:pl:voc:m2	nazwa pospolita	
 frankowicze	frankowicz	subst:pl:nom:m1	nazwa pospolita	
@@ -57497,6 +57774,7 @@ franmasonom	franmason	subst:pl:dat:m1	nazwa pospolita	daw.
 franmasonowi	franmason	subst:sg:dat:m1	nazwa pospolita	daw.
 franmasonów	franmason	subst:pl:acc:m1	nazwa pospolita	daw.
 franmasonów	franmason	subst:pl:gen:m1	nazwa pospolita	daw.
+franmasony	franmason	depr:pl:acc:m2	nazwa pospolita	daw.
 franmasony	franmason	depr:pl:nom:m2	nazwa pospolita	daw.
 franmasony	franmason	depr:pl:voc:m2	nazwa pospolita	daw.
 fransach	frans	subst:pl:loc:m3	nazwa pospolita	
@@ -57581,6 +57859,7 @@ frantowie	frant	subst:pl:voc:m1	nazwa pospolita	przest.
 frantowi	frant	subst:sg:dat:m1	nazwa pospolita	przest.
 frantów	frant	subst:pl:acc:m1	nazwa pospolita	przest.
 frantów	frant	subst:pl:gen:m1	nazwa pospolita	przest.
+franty	frant	depr:pl:acc:m2	nazwa pospolita	przest.
 franty	frant	depr:pl:nom:m2	nazwa pospolita	przest.
 franty	frant	depr:pl:voc:m2	nazwa pospolita	przest.
 frantostwach	frantostwo	subst:pl:loc:n:ncol	nazwa pospolita	
@@ -58047,6 +58326,7 @@ fraszkopisowie	fraszkopis	subst:pl:voc:m1	nazwa pospolita
 fraszkopisowi	fraszkopis	subst:sg:dat:m1	nazwa pospolita	
 fraszkopisów	fraszkopis	subst:pl:acc:m1	nazwa pospolita	
 fraszkopisów	fraszkopis	subst:pl:gen:m1	nazwa pospolita	
+fraszkopisy	fraszkopis	depr:pl:acc:m2	nazwa pospolita	
 fraszkopisy	fraszkopis	depr:pl:nom:m2	nazwa pospolita	
 fraszkopisy	fraszkopis	depr:pl:voc:m2	nazwa pospolita	
 fraszkopisarstwach	fraszkopisarstwo	subst:pl:loc:n:ncol	nazwa pospolita	
@@ -58071,6 +58351,8 @@ fraszkopisarza	fraszkopisarz	subst:sg:gen:m1	nazwa pospolita
 fraszkopisarza	fraszkopisarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 fraszkopisarzami	fraszkopisarz	subst:pl:inst:m1	nazwa pospolita	
 fraszkopisarzami	fraszkopisarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+fraszkopisarze	fraszkopisarz	depr:pl:acc:m2	nazwa pospolita	
+fraszkopisarze	fraszkopisarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 fraszkopisarze	fraszkopisarz	depr:pl:nom:m2	nazwa pospolita	
 fraszkopisarze	fraszkopisarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 fraszkopisarze	fraszkopisarz	depr:pl:voc:m2	nazwa pospolita	
@@ -58145,6 +58427,7 @@ fratrowie	frater	subst:pl:voc:m1	nazwa pospolita	daw.
 fratrowi	frater	subst:sg:dat:m1	nazwa pospolita	daw.
 fratrów	frater	subst:pl:acc:m1	nazwa pospolita	daw.
 fratrów	frater	subst:pl:gen:m1	nazwa pospolita	daw.
+fratry	frater	depr:pl:acc:m2	nazwa pospolita	daw.
 fratry	frater	depr:pl:nom:m2	nazwa pospolita	daw.
 fratry	frater	depr:pl:voc:m2	nazwa pospolita	daw.
 fratrze	frater	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -58305,6 +58588,7 @@ frazeologa	frazeolog	subst:sg:gen:m1	nazwa pospolita	przest.
 frazeologami	frazeolog	subst:pl:inst:m1	nazwa pospolita	przest.
 frazeolog	frazeolog	subst:sg:nom:m1	nazwa pospolita	przest.
 frazeologiem	frazeolog	subst:sg:inst:m1	nazwa pospolita	przest.
+frazeologi	frazeolog	depr:pl:acc:m2	nazwa pospolita	przest.
 frazeologi	frazeolog	depr:pl:nom:m2	nazwa pospolita	przest.
 frazeologi	frazeolog	depr:pl:voc:m2	nazwa pospolita	przest.
 frazeologom	frazeolog	subst:pl:dat:m1	nazwa pospolita	przest.
@@ -58533,6 +58817,7 @@ frazesowiczach	frazesowicz	subst:pl:loc:m1	nazwa pospolita
 frazesowicza	frazesowicz	subst:sg:acc:m1	nazwa pospolita	
 frazesowicza	frazesowicz	subst:sg:gen:m1	nazwa pospolita	
 frazesowiczami	frazesowicz	subst:pl:inst:m1	nazwa pospolita	
+frazesowicze	frazesowicz	depr:pl:acc:m2	nazwa pospolita	
 frazesowicze	frazesowicz	depr:pl:nom:m2	nazwa pospolita	
 frazesowicze	frazesowicz	depr:pl:voc:m2	nazwa pospolita	
 frazesowicze	frazesowicz	subst:pl:nom:m1	nazwa pospolita	
@@ -58871,6 +59156,7 @@ fredrologa	fredrolog	subst:sg:gen:m1	nazwa pospolita
 fredrologami	fredrolog	subst:pl:inst:m1	nazwa pospolita	
 fredrolog	fredrolog	subst:sg:nom:m1	nazwa pospolita	
 fredrologiem	fredrolog	subst:sg:inst:m1	nazwa pospolita	
+fredrologi	fredrolog	depr:pl:acc:m2	nazwa pospolita	
 fredrologi	fredrolog	depr:pl:nom:m2	nazwa pospolita	
 fredrologi	fredrolog	depr:pl:voc:m2	nazwa pospolita	
 fredrologom	fredrolog	subst:pl:dat:m1	nazwa pospolita	
@@ -58993,6 +59279,7 @@ freestylowcach	freestylowiec	subst:pl:loc:m1	nazwa pospolita
 freestylowca	freestylowiec	subst:sg:acc:m1	nazwa pospolita	
 freestylowca	freestylowiec	subst:sg:gen:m1	nazwa pospolita	
 freestylowcami	freestylowiec	subst:pl:inst:m1	nazwa pospolita	
+freestylowce	freestylowiec	depr:pl:acc:m2	nazwa pospolita	
 freestylowce	freestylowiec	depr:pl:nom:m2	nazwa pospolita	
 freestylowce	freestylowiec	depr:pl:voc:m2	nazwa pospolita	
 freestylowcem	freestylowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -59359,6 +59646,7 @@ frenologa	frenolog	subst:sg:gen:m1	nazwa pospolita
 frenologami	frenolog	subst:pl:inst:m1	nazwa pospolita	
 frenolog	frenolog	subst:sg:nom:m1	nazwa pospolita	
 frenologiem	frenolog	subst:sg:inst:m1	nazwa pospolita	
+frenologi	frenolog	depr:pl:acc:m2	nazwa pospolita	
 frenologi	frenolog	depr:pl:nom:m2	nazwa pospolita	
 frenologi	frenolog	depr:pl:voc:m2	nazwa pospolita	
 frenologom	frenolog	subst:pl:dat:m1	nazwa pospolita	
@@ -59431,6 +59719,7 @@ frenologisto	frenologista	subst:sg:voc:m1	nazwa pospolita
 frenologistom	frenologista	subst:pl:dat:m1	nazwa pospolita	
 frenologistów	frenologista	subst:pl:acc:m1	nazwa pospolita	
 frenologistów	frenologista	subst:pl:gen:m1	nazwa pospolita	
+frenologisty	frenologista	depr:pl:acc:m2	nazwa pospolita	
 frenologisty	frenologista	depr:pl:nom:m2	nazwa pospolita	
 frenologisty	frenologista	depr:pl:voc:m2	nazwa pospolita	
 frenologisty	frenologista	subst:sg:gen:m1	nazwa pospolita	
@@ -59670,6 +59959,7 @@ freudysto	freudysta	subst:sg:voc:m1	nazwa pospolita
 freudystom	freudysta	subst:pl:dat:m1	nazwa pospolita	
 freudystów	freudysta	subst:pl:acc:m1	nazwa pospolita	
 freudystów	freudysta	subst:pl:gen:m1	nazwa pospolita	
+freudysty	freudysta	depr:pl:acc:m2	nazwa pospolita	
 freudysty	freudysta	depr:pl:nom:m2	nazwa pospolita	
 freudysty	freudysta	depr:pl:voc:m2	nazwa pospolita	
 freudysty	freudysta	subst:sg:gen:m1	nazwa pospolita	
@@ -59757,6 +60047,7 @@ frezerom	frezer	subst:pl:dat:m1	nazwa pospolita
 frezerowi	frezer	subst:sg:dat:m1	nazwa pospolita	
 frezerów	frezer	subst:pl:acc:m1	nazwa pospolita	
 frezerów	frezer	subst:pl:gen:m1	nazwa pospolita	
+frezery	frezer	depr:pl:acc:m2	nazwa pospolita	
 frezery	frezer	depr:pl:nom:m2	nazwa pospolita	
 frezery	frezer	depr:pl:voc:m2	nazwa pospolita	
 frezerze	frezer	subst:sg:loc:m1	nazwa pospolita	
@@ -60397,6 +60688,7 @@ frondysto	frondysta	subst:sg:voc:m1	nazwa pospolita
 frondystom	frondysta	subst:pl:dat:m1	nazwa pospolita	
 frondystów	frondysta	subst:pl:acc:m1	nazwa pospolita	
 frondystów	frondysta	subst:pl:gen:m1	nazwa pospolita	
+frondysty	frondysta	depr:pl:acc:m2	nazwa pospolita	
 frondysty	frondysta	depr:pl:nom:m2	nazwa pospolita	
 frondysty	frondysta	depr:pl:voc:m2	nazwa pospolita	
 frondysty	frondysta	subst:sg:gen:m1	nazwa pospolita	
@@ -60499,6 +60791,7 @@ frontmanom	frontman	subst:pl:dat:m1	nazwa pospolita
 frontmanowi	frontman	subst:sg:dat:m1	nazwa pospolita	
 frontmanów	frontman	subst:pl:acc:m1	nazwa pospolita	
 frontmanów	frontman	subst:pl:gen:m1	nazwa pospolita	
+frontmany	frontman	depr:pl:acc:m2	nazwa pospolita	
 frontmany	frontman	depr:pl:nom:m2	nazwa pospolita	
 frontmany	frontman	depr:pl:voc:m2	nazwa pospolita	
 frontmance	frontmanka	subst:sg:dat:f	nazwa pospolita	
@@ -60628,6 +60921,7 @@ frontowcach	frontowiec	subst:pl:loc:m1	nazwa pospolita
 frontowca	frontowiec	subst:sg:acc:m1	nazwa pospolita	
 frontowca	frontowiec	subst:sg:gen:m1	nazwa pospolita	
 frontowcami	frontowiec	subst:pl:inst:m1	nazwa pospolita	
+frontowce	frontowiec	depr:pl:acc:m2	nazwa pospolita	
 frontowce	frontowiec	depr:pl:nom:m2	nazwa pospolita	
 frontowce	frontowiec	depr:pl:voc:m2	nazwa pospolita	
 frontowcem	frontowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -60649,6 +60943,7 @@ frontownika	frontownik	subst:sg:gen:m1	nazwa pospolita	rzad.
 frontownikami	frontownik	subst:pl:inst:m1	nazwa pospolita	rzad.
 frontownik	frontownik	subst:sg:nom:m1	nazwa pospolita	rzad.
 frontownikiem	frontownik	subst:sg:inst:m1	nazwa pospolita	rzad.
+frontowniki	frontownik	depr:pl:acc:m2	nazwa pospolita	rzad.
 frontowniki	frontownik	depr:pl:nom:m2	nazwa pospolita	rzad.
 frontowniki	frontownik	depr:pl:voc:m2	nazwa pospolita	rzad.
 frontownikom	frontownik	subst:pl:dat:m1	nazwa pospolita	rzad.
@@ -60720,6 +61015,7 @@ froterom	froter	subst:pl:dat:m1	nazwa pospolita
 froterowi	froter	subst:sg:dat:m1	nazwa pospolita	
 froterów	froter	subst:pl:acc:m1	nazwa pospolita	
 froterów	froter	subst:pl:gen:m1	nazwa pospolita	
+frotery	froter	depr:pl:acc:m2	nazwa pospolita	
 frotery	froter	depr:pl:nom:m2	nazwa pospolita	
 frotery	froter	depr:pl:voc:m2	nazwa pospolita	
 froterze	froter	subst:sg:loc:m1	nazwa pospolita	
@@ -61514,6 +61810,7 @@ frustratom	frustrat	subst:pl:dat:m1	nazwa pospolita
 frustratowi	frustrat	subst:sg:dat:m1	nazwa pospolita	
 frustratów	frustrat	subst:pl:acc:m1	nazwa pospolita	
 frustratów	frustrat	subst:pl:gen:m1	nazwa pospolita	
+frustraty	frustrat	depr:pl:acc:m2	nazwa pospolita	
 frustraty	frustrat	depr:pl:nom:m2	nazwa pospolita	
 frustraty	frustrat	depr:pl:voc:m2	nazwa pospolita	
 frustratce	frustratka	subst:sg:dat:f	nazwa pospolita	
@@ -61672,6 +61969,7 @@ frutarianinie	frutarianin	subst:sg:loc:m1	nazwa pospolita
 frutarianinie	frutarianin	subst:sg:voc:m1	nazwa pospolita	
 frutarianinowi	frutarianin	subst:sg:dat:m1	nazwa pospolita	
 frutarianom	frutarianin	subst:pl:dat:m1	nazwa pospolita	
+frutariany	frutarianin	depr:pl:acc:m2	nazwa pospolita	
 frutariany	frutarianin	depr:pl:nom:m2	nazwa pospolita	
 frutariany	frutarianin	depr:pl:voc:m2	nazwa pospolita	
 frutarianizmach	frutarianizm	subst:pl:loc:m3	nazwa pospolita	
@@ -61872,6 +62170,7 @@ frycach	fryc	subst:pl:loc:m1	nazwa pospolita
 fryca	fryc	subst:sg:acc:m1	nazwa pospolita	
 fryca	fryc	subst:sg:gen:m1	nazwa pospolita	
 frycami	fryc	subst:pl:inst:m1	nazwa pospolita	
+fryce	fryc	depr:pl:acc:m2	nazwa pospolita	
 fryce	fryc	depr:pl:nom:m2	nazwa pospolita	
 fryce	fryc	depr:pl:voc:m2	nazwa pospolita	
 fryce	fryc	subst:pl:nom:m1	nazwa pospolita	
@@ -62827,6 +63126,7 @@ fryszerom	fryszer	subst:pl:dat:m1	nazwa pospolita	przest.
 fryszerowi	fryszer	subst:sg:dat:m1	nazwa pospolita	przest.
 fryszerów	fryszer	subst:pl:acc:m1	nazwa pospolita	przest.
 fryszerów	fryszer	subst:pl:gen:m1	nazwa pospolita	przest.
+fryszery	fryszer	depr:pl:acc:m2	nazwa pospolita	przest.
 fryszery	fryszer	depr:pl:nom:m2	nazwa pospolita	przest.
 fryszery	fryszer	depr:pl:voc:m2	nazwa pospolita	przest.
 fryszerze	fryszer	subst:sg:loc:m1	nazwa pospolita	przest.
@@ -63311,6 +63611,7 @@ fryzerom	fryzer	subst:pl:dat:m1	nazwa pospolita	daw.
 fryzerowi	fryzer	subst:sg:dat:m1	nazwa pospolita	daw.
 fryzerów	fryzer	subst:pl:acc:m1	nazwa pospolita	daw.
 fryzerów	fryzer	subst:pl:gen:m1	nazwa pospolita	daw.
+fryzery	fryzer	depr:pl:acc:m2	nazwa pospolita	daw.
 fryzery	fryzer	depr:pl:nom:m2	nazwa pospolita	daw.
 fryzery	fryzer	depr:pl:voc:m2	nazwa pospolita	daw.
 fryzerze	fryzer	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -63342,6 +63643,7 @@ fryzjerom	fryzjer	subst:pl:dat:m1	nazwa pospolita
 fryzjerowi	fryzjer	subst:sg:dat:m1	nazwa pospolita	
 fryzjerów	fryzjer	subst:pl:acc:m1	nazwa pospolita	
 fryzjerów	fryzjer	subst:pl:gen:m1	nazwa pospolita	
+fryzjery	fryzjer	depr:pl:acc:m2	nazwa pospolita	
 fryzjery	fryzjer	depr:pl:nom:m2	nazwa pospolita	
 fryzjery	fryzjer	depr:pl:voc:m2	nazwa pospolita	
 fryzjerze	fryzjer	subst:sg:loc:m1	nazwa pospolita	
@@ -63354,6 +63656,7 @@ fryzjerczyka	fryzjerczyk	subst:sg:gen:m1	nazwa pospolita
 fryzjerczykami	fryzjerczyk	subst:pl:inst:m1	nazwa pospolita	
 fryzjerczyk	fryzjerczyk	subst:sg:nom:m1	nazwa pospolita	
 fryzjerczykiem	fryzjerczyk	subst:sg:inst:m1	nazwa pospolita	
+fryzjerczyki	fryzjerczyk	depr:pl:acc:m2	nazwa pospolita	
 fryzjerczyki	fryzjerczyk	depr:pl:nom:m2	nazwa pospolita	
 fryzjerczyki	fryzjerczyk	depr:pl:voc:m2	nazwa pospolita	
 fryzjerczykom	fryzjerczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -63666,6 +63969,7 @@ fryzyjczyka	fryzyjczyk	subst:sg:gen:m1	nazwa pospolita
 fryzyjczykami	fryzyjczyk	subst:pl:inst:m1	nazwa pospolita	
 fryzyjczyk	fryzyjczyk	subst:sg:nom:m1	nazwa pospolita	
 fryzyjczykiem	fryzyjczyk	subst:sg:inst:m1	nazwa pospolita	
+fryzyjczyki	fryzyjczyk	depr:pl:acc:m2	nazwa pospolita	
 fryzyjczyki	fryzyjczyk	depr:pl:nom:m2	nazwa pospolita	
 fryzyjczyki	fryzyjczyk	depr:pl:voc:m2	nazwa pospolita	
 fryzyjczykom	fryzyjczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -63775,6 +64079,7 @@ ftizjatro	ftizjatra	subst:sg:voc:m1	nazwa pospolita
 ftizjatrom	ftizjatra	subst:pl:dat:m1	nazwa pospolita	
 ftizjatrów	ftizjatra	subst:pl:acc:m1	nazwa pospolita	
 ftizjatrów	ftizjatra	subst:pl:gen:m1	nazwa pospolita	
+ftizjatry	ftizjatra	depr:pl:acc:m2	nazwa pospolita	
 ftizjatry	ftizjatra	depr:pl:nom:m2	nazwa pospolita	
 ftizjatry	ftizjatra	depr:pl:voc:m2	nazwa pospolita	
 ftizjatry	ftizjatra	subst:sg:gen:m1	nazwa pospolita	
@@ -63858,6 +64163,7 @@ ftizjologa	ftizjolog	subst:sg:gen:m1	nazwa pospolita
 ftizjologami	ftizjolog	subst:pl:inst:m1	nazwa pospolita	
 ftizjolog	ftizjolog	subst:sg:nom:m1	nazwa pospolita	
 ftizjologiem	ftizjolog	subst:sg:inst:m1	nazwa pospolita	
+ftizjologi	ftizjolog	depr:pl:acc:m2	nazwa pospolita	
 ftizjologi	ftizjolog	depr:pl:nom:m2	nazwa pospolita	
 ftizjologi	ftizjolog	depr:pl:voc:m2	nazwa pospolita	
 ftizjologom	ftizjolog	subst:pl:dat:m1	nazwa pospolita	
@@ -63906,6 +64212,7 @@ ftyzjatro	ftyzjatra	subst:sg:voc:m1	nazwa pospolita
 ftyzjatrom	ftyzjatra	subst:pl:dat:m1	nazwa pospolita	
 ftyzjatrów	ftyzjatra	subst:pl:acc:m1	nazwa pospolita	
 ftyzjatrów	ftyzjatra	subst:pl:gen:m1	nazwa pospolita	
+ftyzjatry	ftyzjatra	depr:pl:acc:m2	nazwa pospolita	
 ftyzjatry	ftyzjatra	depr:pl:nom:m2	nazwa pospolita	
 ftyzjatry	ftyzjatra	depr:pl:voc:m2	nazwa pospolita	
 ftyzjatry	ftyzjatra	subst:sg:gen:m1	nazwa pospolita	
@@ -63989,6 +64296,7 @@ ftyzjologa	ftyzjolog	subst:sg:gen:m1	nazwa pospolita
 ftyzjologami	ftyzjolog	subst:pl:inst:m1	nazwa pospolita	
 ftyzjolog	ftyzjolog	subst:sg:nom:m1	nazwa pospolita	
 ftyzjologiem	ftyzjolog	subst:sg:inst:m1	nazwa pospolita	
+ftyzjologi	ftyzjolog	depr:pl:acc:m2	nazwa pospolita	
 ftyzjologi	ftyzjolog	depr:pl:nom:m2	nazwa pospolita	
 ftyzjologi	ftyzjolog	depr:pl:voc:m2	nazwa pospolita	
 ftyzjologom	ftyzjolog	subst:pl:dat:m1	nazwa pospolita	
@@ -64039,6 +64347,7 @@ fuehrerom	fuehrer	subst:pl:dat:m1	nazwa pospolita
 fuehrerowi	fuehrer	subst:sg:dat:m1	nazwa pospolita	
 fuehrerów	fuehrer	subst:pl:acc:m1	nazwa pospolita	
 fuehrerów	fuehrer	subst:pl:gen:m1	nazwa pospolita	
+fuehrery	fuehrer	depr:pl:acc:m2	nazwa pospolita	
 fuehrery	fuehrer	depr:pl:nom:m2	nazwa pospolita	
 fuehrery	fuehrer	depr:pl:voc:m2	nazwa pospolita	
 fuehrerze	fuehrer	subst:sg:loc:m1	nazwa pospolita	
@@ -64316,6 +64625,7 @@ führerom	führer	subst:pl:dat:m1	nazwa pospolita
 führerowi	führer	subst:sg:dat:m1	nazwa pospolita	
 führerów	führer	subst:pl:acc:m1	nazwa pospolita	
 führerów	führer	subst:pl:gen:m1	nazwa pospolita	
+führery	führer	depr:pl:acc:m2	nazwa pospolita	
 führery	führer	depr:pl:nom:m2	nazwa pospolita	
 führery	führer	depr:pl:voc:m2	nazwa pospolita	
 führerze	führer	subst:sg:loc:m1	nazwa pospolita	
@@ -64744,6 +65054,8 @@ fuksiarza	fuksiarz	subst:sg:gen:m1	nazwa pospolita	pot.
 fuksiarza	fuksiarz	subst:sg:gen:m1	nazwa pospolita	rzad.|pot.
 fuksiarzami	fuksiarz	subst:pl:inst:m1	nazwa pospolita	pot.
 fuksiarzami	fuksiarz	subst:pl:inst:m1	nazwa pospolita	rzad.|pot.
+fuksiarze	fuksiarz	depr:pl:acc:m2	nazwa pospolita	pot.
+fuksiarze	fuksiarz	depr:pl:acc:m2	nazwa pospolita	rzad.|pot.
 fuksiarze	fuksiarz	depr:pl:nom:m2	nazwa pospolita	pot.
 fuksiarze	fuksiarz	depr:pl:nom:m2	nazwa pospolita	rzad.|pot.
 fuksiarze	fuksiarz	depr:pl:voc:m2	nazwa pospolita	pot.
@@ -65419,6 +65731,8 @@ funciarza	funciarz	subst:sg:gen:m1	nazwa pospolita
 funciarza	funciarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 funciarzami	funciarz	subst:pl:inst:m1	nazwa pospolita	
 funciarzami	funciarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+funciarze	funciarz	depr:pl:acc:m2	nazwa pospolita	
+funciarze	funciarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 funciarze	funciarz	depr:pl:nom:m2	nazwa pospolita	
 funciarze	funciarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 funciarze	funciarz	depr:pl:voc:m2	nazwa pospolita	
@@ -65603,6 +65917,7 @@ fundamentalisto	fundamentalista	subst:sg:voc:m1	nazwa pospolita
 fundamentalistom	fundamentalista	subst:pl:dat:m1	nazwa pospolita	
 fundamentalistów	fundamentalista	subst:pl:acc:m1	nazwa pospolita	
 fundamentalistów	fundamentalista	subst:pl:gen:m1	nazwa pospolita	
+fundamentalisty	fundamentalista	depr:pl:acc:m2	nazwa pospolita	
 fundamentalisty	fundamentalista	depr:pl:nom:m2	nazwa pospolita	
 fundamentalisty	fundamentalista	depr:pl:voc:m2	nazwa pospolita	
 fundamentalisty	fundamentalista	subst:sg:gen:m1	nazwa pospolita	
@@ -65869,6 +66184,7 @@ fundatorowie	fundator	subst:pl:voc:m1	nazwa pospolita
 fundatorowi	fundator	subst:sg:dat:m1	nazwa pospolita	
 fundatorów	fundator	subst:pl:acc:m1	nazwa pospolita	
 fundatorów	fundator	subst:pl:gen:m1	nazwa pospolita	
+fundatory	fundator	depr:pl:acc:m2	nazwa pospolita	
 fundatory	fundator	depr:pl:nom:m2	nazwa pospolita	
 fundatory	fundator	depr:pl:voc:m2	nazwa pospolita	
 fundatorze	fundator	subst:sg:loc:m1	nazwa pospolita	
@@ -66428,6 +66744,7 @@ funkcjonalisto	funkcjonalista	subst:sg:voc:m1	nazwa pospolita
 funkcjonalistom	funkcjonalista	subst:pl:dat:m1	nazwa pospolita	
 funkcjonalistów	funkcjonalista	subst:pl:acc:m1	nazwa pospolita	
 funkcjonalistów	funkcjonalista	subst:pl:gen:m1	nazwa pospolita	
+funkcjonalisty	funkcjonalista	depr:pl:acc:m2	nazwa pospolita	
 funkcjonalisty	funkcjonalista	depr:pl:nom:m2	nazwa pospolita	
 funkcjonalisty	funkcjonalista	depr:pl:voc:m2	nazwa pospolita	
 funkcjonalisty	funkcjonalista	subst:sg:gen:m1	nazwa pospolita	
@@ -66559,6 +66876,7 @@ funkcjonariuszach	funkcjonariusz	subst:pl:loc:m1	nazwa pospolita
 funkcjonariusza	funkcjonariusz	subst:sg:acc:m1	nazwa pospolita	
 funkcjonariusza	funkcjonariusz	subst:sg:gen:m1	nazwa pospolita	
 funkcjonariuszami	funkcjonariusz	subst:pl:inst:m1	nazwa pospolita	
+funkcjonariusze	funkcjonariusz	depr:pl:acc:m2	nazwa pospolita	
 funkcjonariusze	funkcjonariusz	depr:pl:nom:m2	nazwa pospolita	
 funkcjonariusze	funkcjonariusz	depr:pl:voc:m2	nazwa pospolita	
 funkcjonariusze	funkcjonariusz	subst:pl:nom:m1	nazwa pospolita	
@@ -66730,6 +67048,7 @@ funkowcach	funkowiec	subst:pl:loc:m1	nazwa pospolita
 funkowca	funkowiec	subst:sg:acc:m1	nazwa pospolita	
 funkowca	funkowiec	subst:sg:gen:m1	nazwa pospolita	
 funkowcami	funkowiec	subst:pl:inst:m1	nazwa pospolita	
+funkowce	funkowiec	depr:pl:acc:m2	nazwa pospolita	
 funkowce	funkowiec	depr:pl:nom:m2	nazwa pospolita	
 funkowce	funkowiec	depr:pl:voc:m2	nazwa pospolita	
 funkowcem	funkowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -66931,6 +67250,7 @@ furażerowie	furażer	subst:pl:voc:m1	nazwa pospolita	daw.
 furażerowi	furażer	subst:sg:dat:m1	nazwa pospolita	daw.
 furażerów	furażer	subst:pl:acc:m1	nazwa pospolita	daw.
 furażerów	furażer	subst:pl:gen:m1	nazwa pospolita	daw.
+furażery	furażer	depr:pl:acc:m2	nazwa pospolita	daw.
 furażery	furażer	depr:pl:nom:m2	nazwa pospolita	daw.
 furażery	furażer	depr:pl:voc:m2	nazwa pospolita	daw.
 furażerze	furażer	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -67272,6 +67592,7 @@ furfantom	furfant	subst:pl:dat:m1	nazwa pospolita	przest.
 furfantowi	furfant	subst:sg:dat:m1	nazwa pospolita	przest.
 furfantów	furfant	subst:pl:acc:m1	nazwa pospolita	przest.
 furfantów	furfant	subst:pl:gen:m1	nazwa pospolita	przest.
+furfanty	furfant	depr:pl:acc:m2	nazwa pospolita	przest.
 furfanty	furfant	depr:pl:nom:m2	nazwa pospolita	przest.
 furfanty	furfant	depr:pl:voc:m2	nazwa pospolita	przest.
 furfanteriach	furfanteria	subst:pl:loc:f	nazwa pospolita	przest.
@@ -67511,6 +67832,7 @@ furgonisto	furgonista	subst:sg:voc:m1	nazwa pospolita	przest.
 furgonistom	furgonista	subst:pl:dat:m1	nazwa pospolita	przest.
 furgonistów	furgonista	subst:pl:acc:m1	nazwa pospolita	przest.
 furgonistów	furgonista	subst:pl:gen:m1	nazwa pospolita	przest.
+furgonisty	furgonista	depr:pl:acc:m2	nazwa pospolita	przest.
 furgonisty	furgonista	depr:pl:nom:m2	nazwa pospolita	przest.
 furgonisty	furgonista	depr:pl:voc:m2	nazwa pospolita	przest.
 furgonisty	furgonista	subst:sg:gen:m1	nazwa pospolita	przest.
@@ -67815,6 +68137,7 @@ furiatom	furiat	subst:pl:dat:m1	nazwa pospolita
 furiatowi	furiat	subst:sg:dat:m1	nazwa pospolita	
 furiatów	furiat	subst:pl:acc:m1	nazwa pospolita	
 furiatów	furiat	subst:pl:gen:m1	nazwa pospolita	
+furiaty	furiat	depr:pl:acc:m2	nazwa pospolita	
 furiaty	furiat	depr:pl:nom:m2	nazwa pospolita	
 furiaty	furiat	depr:pl:voc:m2	nazwa pospolita	
 furiatce	furiatka	subst:sg:dat:f	nazwa pospolita	
@@ -67843,6 +68166,7 @@ furierowie	furier	subst:pl:voc:m1	nazwa pospolita	daw.
 furierowi	furier	subst:sg:dat:m1	nazwa pospolita	daw.
 furierów	furier	subst:pl:acc:m1	nazwa pospolita	daw.
 furierów	furier	subst:pl:gen:m1	nazwa pospolita	daw.
+furiery	furier	depr:pl:acc:m2	nazwa pospolita	daw.
 furiery	furier	depr:pl:nom:m2	nazwa pospolita	daw.
 furiery	furier	depr:pl:voc:m2	nazwa pospolita	daw.
 furierze	furier	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -68233,6 +68557,7 @@ furmanom	furman	subst:pl:dat:m1	nazwa pospolita
 furmanowi	furman	subst:sg:dat:m1	nazwa pospolita	
 furmanów	furman	subst:pl:acc:m1	nazwa pospolita	
 furmanów	furman	subst:pl:gen:m1	nazwa pospolita	
+furmany	furman	depr:pl:acc:m2	nazwa pospolita	
 furmany	furman	depr:pl:nom:m2	nazwa pospolita	
 furmany	furman	depr:pl:voc:m2	nazwa pospolita	
 furmaneczce	furmaneczka	subst:sg:dat:f	nazwa pospolita	
@@ -68515,6 +68840,7 @@ furtianom	furtian	subst:pl:dat:m1	nazwa pospolita
 furtianowi	furtian	subst:sg:dat:m1	nazwa pospolita	
 furtianów	furtian	subst:pl:acc:m1	nazwa pospolita	
 furtianów	furtian	subst:pl:gen:m1	nazwa pospolita	
+furtiany	furtian	depr:pl:acc:m2	nazwa pospolita	
 furtiany	furtian	depr:pl:nom:m2	nazwa pospolita	
 furtiany	furtian	depr:pl:voc:m2	nazwa pospolita	
 furtiance	furtianka	subst:sg:dat:f	nazwa pospolita	
@@ -68616,6 +68942,7 @@ fusknechtom	fusknecht	subst:pl:dat:m1	nazwa pospolita
 fusknechtowi	fusknecht	subst:sg:dat:m1	nazwa pospolita	
 fusknechtów	fusknecht	subst:pl:acc:m1	nazwa pospolita	
 fusknechtów	fusknecht	subst:pl:gen:m1	nazwa pospolita	
+fusknechty	fusknecht	depr:pl:acc:m2	nazwa pospolita	
 fusknechty	fusknecht	depr:pl:nom:m2	nazwa pospolita	
 fusknechty	fusknecht	depr:pl:voc:m2	nazwa pospolita	
 fusowatościach	fusowatość	subst:pl:loc:f	nazwa pospolita	
@@ -68688,6 +69015,7 @@ fuszerom	fuszer	subst:pl:dat:m1	nazwa pospolita
 fuszerowi	fuszer	subst:sg:dat:m1	nazwa pospolita	
 fuszerów	fuszer	subst:pl:acc:m1	nazwa pospolita	
 fuszerów	fuszer	subst:pl:gen:m1	nazwa pospolita	
+fuszery	fuszer	depr:pl:acc:m2	nazwa pospolita	
 fuszery	fuszer	depr:pl:nom:m2	nazwa pospolita	
 fuszery	fuszer	depr:pl:voc:m2	nazwa pospolita	
 fuszerze	fuszer	subst:sg:loc:m1	nazwa pospolita	
@@ -68874,6 +69202,7 @@ futbolisto	futbolista	subst:sg:voc:m1	nazwa pospolita
 futbolistom	futbolista	subst:pl:dat:m1	nazwa pospolita	
 futbolistów	futbolista	subst:pl:acc:m1	nazwa pospolita	
 futbolistów	futbolista	subst:pl:gen:m1	nazwa pospolita	
+futbolisty	futbolista	depr:pl:acc:m2	nazwa pospolita	
 futbolisty	futbolista	depr:pl:nom:m2	nazwa pospolita	
 futbolisty	futbolista	depr:pl:voc:m2	nazwa pospolita	
 futbolisty	futbolista	subst:sg:gen:m1	nazwa pospolita	
@@ -69050,6 +69379,7 @@ futernika	futernik	subst:sg:gen:m1	nazwa pospolita	daw.
 futernikami	futernik	subst:pl:inst:m1	nazwa pospolita	daw.
 futernik	futernik	subst:sg:nom:m1	nazwa pospolita	daw.
 futernikiem	futernik	subst:sg:inst:m1	nazwa pospolita	daw.
+futerniki	futernik	depr:pl:acc:m2	nazwa pospolita	daw.
 futerniki	futernik	depr:pl:nom:m2	nazwa pospolita	daw.
 futerniki	futernik	depr:pl:voc:m2	nazwa pospolita	daw.
 futernikom	futernik	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -69094,6 +69424,7 @@ futornika	futornik	subst:sg:gen:m1	nazwa pospolita
 futornikami	futornik	subst:pl:inst:m1	nazwa pospolita	
 futornik	futornik	subst:sg:nom:m1	nazwa pospolita	
 futornikiem	futornik	subst:sg:inst:m1	nazwa pospolita	
+futorniki	futornik	depr:pl:acc:m2	nazwa pospolita	
 futorniki	futornik	depr:pl:nom:m2	nazwa pospolita	
 futorniki	futornik	depr:pl:voc:m2	nazwa pospolita	
 futornikom	futornik	subst:pl:dat:m1	nazwa pospolita	
@@ -69116,6 +69447,7 @@ futorzaninie	futorzanin	subst:sg:loc:m1	nazwa pospolita
 futorzaninie	futorzanin	subst:sg:voc:m1	nazwa pospolita	
 futorzaninowi	futorzanin	subst:sg:dat:m1	nazwa pospolita	
 futorzanom	futorzanin	subst:pl:dat:m1	nazwa pospolita	
+futorzany	futorzanin	depr:pl:acc:m2	nazwa pospolita	
 futorzany	futorzanin	depr:pl:nom:m2	nazwa pospolita	
 futorzany	futorzanin	depr:pl:voc:m2	nazwa pospolita	
 futorzance	futorzanka	subst:sg:dat:f	nazwa pospolita	
@@ -69556,6 +69888,8 @@ futrzarza	futrzarz	subst:sg:gen:m1	nazwa pospolita
 futrzarza	futrzarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 futrzarzami	futrzarz	subst:pl:inst:m1	nazwa pospolita	
 futrzarzami	futrzarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+futrzarze	futrzarz	depr:pl:acc:m2	nazwa pospolita	
+futrzarze	futrzarz	depr:pl:acc:m2	nazwa pospolita	rzad.
 futrzarze	futrzarz	depr:pl:nom:m2	nazwa pospolita	
 futrzarze	futrzarz	depr:pl:nom:m2	nazwa pospolita	rzad.
 futrzarze	futrzarz	depr:pl:voc:m2	nazwa pospolita	
@@ -69640,6 +69974,7 @@ futurologa	futurolog	subst:sg:gen:m1	nazwa pospolita
 futurologami	futurolog	subst:pl:inst:m1	nazwa pospolita	
 futurolog	futurolog	subst:sg:nom:m1	nazwa pospolita	
 futurologiem	futurolog	subst:sg:inst:m1	nazwa pospolita	
+futurologi	futurolog	depr:pl:acc:m2	nazwa pospolita	
 futurologi	futurolog	depr:pl:nom:m2	nazwa pospolita	
 futurologi	futurolog	depr:pl:voc:m2	nazwa pospolita	
 futurologom	futurolog	subst:pl:dat:m1	nazwa pospolita	
@@ -69726,6 +70061,7 @@ futurysto	futurysta	subst:sg:voc:m1	nazwa pospolita
 futurystom	futurysta	subst:pl:dat:m1	nazwa pospolita	
 futurystów	futurysta	subst:pl:acc:m1	nazwa pospolita	
 futurystów	futurysta	subst:pl:gen:m1	nazwa pospolita	
+futurysty	futurysta	depr:pl:acc:m2	nazwa pospolita	
 futurysty	futurysta	depr:pl:nom:m2	nazwa pospolita	
 futurysty	futurysta	depr:pl:voc:m2	nazwa pospolita	
 futurysty	futurysta	subst:sg:gen:m1	nazwa pospolita	
@@ -69881,6 +70217,7 @@ fuzjonisto	fuzjonista	subst:sg:voc:m1	nazwa pospolita
 fuzjonistom	fuzjonista	subst:pl:dat:m1	nazwa pospolita	
 fuzjonistów	fuzjonista	subst:pl:acc:m1	nazwa pospolita	
 fuzjonistów	fuzjonista	subst:pl:gen:m1	nazwa pospolita	
+fuzjonisty	fuzjonista	depr:pl:acc:m2	nazwa pospolita	
 fuzjonisty	fuzjonista	depr:pl:nom:m2	nazwa pospolita	
 fuzjonisty	fuzjonista	depr:pl:voc:m2	nazwa pospolita	
 fuzjonisty	fuzjonista	subst:sg:gen:m1	nazwa pospolita	
