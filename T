@@ -5704,6 +5704,8 @@ Turczyna	Turczyn:s2	subst:sg:gen:m1	nazwa pospolita	daw.
 Turczynem	Turczyn:s2	subst:sg:inst:m1	nazwa pospolita	daw.
 Turczynie	Turczyn:s2	subst:sg:loc:m1	nazwa pospolita	daw.
 Turczynie	Turczyn:s2	subst:sg:voc:m1	nazwa pospolita	daw.
+Turczyni	Turczyn:s2	subst:pl:nom:m1	nazwa pospolita	daw.
+Turczyni	Turczyn:s2	subst:pl:voc:m1	nazwa pospolita	daw.
 Turczynom	Turczyn:s2	subst:pl:dat:m1	nazwa pospolita	daw.
 Turczynowie	Turczyn:s2	subst:pl:nom:m1	nazwa pospolita	daw.
 Turczynowie	Turczyn:s2	subst:pl:voc:m1	nazwa pospolita	daw.
@@ -6906,6 +6908,13 @@ Tymoteuszów	Tymoteusz	subst:pl:gen:m1	imię
 Tymoteusz	Tymoteusz	subst:sg:nom:m1	imię	
 Tymoteuszu	Tymoteusz	subst:sg:loc:m1	imię	
 Tymoteuszu	Tymoteusz	subst:sg:voc:m1	imię	
+Tymoteuszostwa	Tymoteuszostwo	subst:pl:acc:p1	nazwa pospolita	przest.
+Tymoteuszostwa	Tymoteuszostwo	subst:pl:gen:p1	nazwa pospolita	przest.
+Tymoteuszostwem	Tymoteuszostwo	subst:pl:inst:p1	nazwa pospolita	przest.
+Tymoteuszostwo	Tymoteuszostwo	subst:pl:nom:p1	nazwa pospolita	przest.
+Tymoteuszostwo	Tymoteuszostwo	subst:pl:voc:p1	nazwa pospolita	przest.
+Tymoteuszostwu	Tymoteuszostwo	subst:pl:dat:p1	nazwa pospolita	przest.
+Tymoteuszostwu	Tymoteuszostwo	subst:pl:loc:p1	nazwa pospolita	przest.
 Tyniec	Tyniec	subst:sg:acc:m3	nazwa geograficzna	
 Tyniec	Tyniec	subst:sg:nom:m3	nazwa geograficzna	
 Tyńcach	Tyniec	subst:pl:loc:m3	nazwa geograficzna	

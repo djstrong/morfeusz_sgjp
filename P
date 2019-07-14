@@ -6826,22 +6826,22 @@ Piwnicznych	Piwniczna	subst:pl:gen:f	nazwa geograficzna
 Piwnicznych	Piwniczna	subst:pl:loc:f	nazwa geograficzna	
 Piwnicznymi	Piwniczna	subst:pl:inst:f	nazwa geograficzna	
 Piwnicznym	Piwniczna	subst:pl:dat:f	nazwa geograficzna	
-Piwoniach	Piwonia	subst:pl:loc:m1	nazwisko|nazwa pospolita	bot.
-Piwoniami	Piwonia	subst:pl:inst:m1	nazwisko|nazwa pospolita	bot.
-Piwonia	Piwonia	subst:sg:nom:m1	nazwisko|nazwa pospolita	bot.
-Piwonią	Piwonia	subst:sg:inst:m1	nazwisko|nazwa pospolita	bot.
-Piwonie	Piwonia	depr:pl:nom:m2	nazwisko|nazwa pospolita	bot.
-Piwonie	Piwonia	depr:pl:voc:m2	nazwisko|nazwa pospolita	bot.
-Piwonię	Piwonia	subst:sg:acc:m1	nazwisko|nazwa pospolita	bot.
-Piwonii	Piwonia	subst:sg:dat:m1	nazwisko|nazwa pospolita	bot.
-Piwonii	Piwonia	subst:sg:gen:m1	nazwisko|nazwa pospolita	bot.
-Piwonii	Piwonia	subst:sg:loc:m1	nazwisko|nazwa pospolita	bot.
-Piwoniom	Piwonia	subst:pl:dat:m1	nazwisko|nazwa pospolita	bot.
-Piwonio	Piwonia	subst:sg:voc:m1	nazwisko|nazwa pospolita	bot.
-Piwoniowie	Piwonia	subst:pl:nom:m1	nazwisko|nazwa pospolita	bot.
-Piwoniowie	Piwonia	subst:pl:voc:m1	nazwisko|nazwa pospolita	bot.
-Piwoniów	Piwonia	subst:pl:acc:m1	nazwisko|nazwa pospolita	bot.
-Piwoniów	Piwonia	subst:pl:gen:m1	nazwisko|nazwa pospolita	bot.
+Piwoniach	Piwonia	subst:pl:loc:m1	nazwisko	
+Piwoniami	Piwonia	subst:pl:inst:m1	nazwisko	
+Piwonia	Piwonia	subst:sg:nom:m1	nazwisko	
+Piwonią	Piwonia	subst:sg:inst:m1	nazwisko	
+Piwonie	Piwonia	depr:pl:nom:m2	nazwisko	
+Piwonie	Piwonia	depr:pl:voc:m2	nazwisko	
+Piwonię	Piwonia	subst:sg:acc:m1	nazwisko	
+Piwonii	Piwonia	subst:sg:dat:m1	nazwisko	
+Piwonii	Piwonia	subst:sg:gen:m1	nazwisko	
+Piwonii	Piwonia	subst:sg:loc:m1	nazwisko	
+Piwoniom	Piwonia	subst:pl:dat:m1	nazwisko	
+Piwonio	Piwonia	subst:sg:voc:m1	nazwisko	
+Piwoniowie	Piwonia	subst:pl:nom:m1	nazwisko	
+Piwoniowie	Piwonia	subst:pl:voc:m1	nazwisko	
+Piwoniów	Piwonia	subst:pl:acc:m1	nazwisko	
+Piwoniów	Piwonia	subst:pl:gen:m1	nazwisko	
 Piwońska	Piwońska	subst:sg:nom:f	nazwisko	
 Piwońska	Piwońska	subst:sg:voc:f	nazwisko	
 Piwońską	Piwońska	subst:sg:acc:f	nazwisko	

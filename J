@@ -4717,6 +4717,33 @@ Johnsonów	Johnson	subst:pl:acc:m1	nazwisko
 Johnsonów	Johnson	subst:pl:gen:m1	nazwisko	
 Johnsony	Johnson	depr:pl:nom:m2	nazwisko	
 Johnsony	Johnson	depr:pl:voc:m2	nazwisko	
+Jokaiach	Jokai	subst:pl:loc:m1	nazwisko	
+Jokaia	Jokai	subst:sg:acc:m1	nazwisko	
+Jokaia	Jokai	subst:sg:gen:m1	nazwisko	
+Jokaiami	Jokai	subst:pl:inst:m1	nazwisko	
+Jokaich	Jokai	subst:pl:acc:m1	nazwisko	
+Jokaich	Jokai	subst:pl:gen:m1	nazwisko	
+Jokaich	Jokai	subst:pl:loc:m1	nazwisko	
+Jokaiego	Jokai	subst:sg:acc:m1	nazwisko	
+Jokaiego	Jokai	subst:sg:gen:m1	nazwisko	
+Jokaie	Jokai	depr:pl:nom:m2	nazwisko	
+Jokaie	Jokai	depr:pl:voc:m2	nazwisko	
+Jokaiem	Jokai	subst:sg:inst:m1	nazwisko	
+Jokaiemu	Jokai	subst:sg:dat:m1	nazwisko	
+Jokai	Jokai	subst:sg:nom:m1	nazwisko	
+Jokai	Jokai	subst:sg:voc:m1	nazwisko	
+Jokaimi	Jokai	subst:pl:inst:m1	nazwisko	
+Jokaim	Jokai	subst:pl:dat:m1	nazwisko	
+Jokaim	Jokai	subst:sg:inst:m1	nazwisko	
+Jokaim	Jokai	subst:sg:loc:m1	nazwisko	
+Jokaiom	Jokai	subst:pl:dat:m1	nazwisko	
+Jokaiowie	Jokai	subst:pl:nom:m1	nazwisko	
+Jokaiowie	Jokai	subst:pl:voc:m1	nazwisko	
+Jokaiowi	Jokai	subst:sg:dat:m1	nazwisko	
+Jokaiów	Jokai	subst:pl:acc:m1	nazwisko	
+Jokaiów	Jokai	subst:pl:gen:m1	nazwisko	
+Jokaiu	Jokai	subst:sg:loc:m1	nazwisko	
+Jokaiu	Jokai	subst:sg:voc:m1	nazwisko	
 Jokohamach	Jokohama	subst:pl:loc:f	nazwa geograficzna	
 Jokohama	Jokohama	subst:sg:nom:f	nazwa geograficzna	
 Jokohamami	Jokohama	subst:pl:inst:f	nazwa geograficzna	

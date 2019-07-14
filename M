@@ -6898,6 +6898,34 @@ Menelaosów	Menelaos	subst:pl:acc:m1	imię	mit.
 Menelaosów	Menelaos	subst:pl:gen:m1	imię	mit.
 Menelaosy	Menelaos	depr:pl:nom:m2	imię	mit.
 Menelaosy	Menelaos	depr:pl:voc:m2	imię	mit.
+Mengelach	Mengele	subst:pl:loc:m1	nazwisko	
+Mengelami	Mengele	subst:pl:inst:m1	nazwisko	
+Mengelego	Mengele	subst:sg:acc:m1	nazwisko	
+Mengelego	Mengele	subst:sg:gen:m1	nazwisko	
+Mengele	Mengele	depr:pl:nom:m2	nazwisko	
+Mengele	Mengele	depr:pl:voc:m2	nazwisko	
+Mengele	Mengele	subst:pl:acc:m1	nazwisko	
+Mengele	Mengele	subst:pl:dat:m1	nazwisko	
+Mengele	Mengele	subst:pl:gen:m1	nazwisko	
+Mengele	Mengele	subst:pl:inst:m1	nazwisko	
+Mengele	Mengele	subst:pl:loc:m1	nazwisko	
+Mengele	Mengele	subst:pl:nom:m1	nazwisko	
+Mengele	Mengele	subst:pl:voc:m1	nazwisko	
+Mengele	Mengele	subst:sg:acc:m1	nazwisko	
+Mengele	Mengele	subst:sg:dat:m1	nazwisko	
+Mengele	Mengele	subst:sg:gen:m1	nazwisko	
+Mengele	Mengele	subst:sg:inst:m1	nazwisko	
+Mengele	Mengele	subst:sg:loc:m1	nazwisko	
+Mengele	Mengele	subst:sg:nom:m1	nazwisko	
+Mengele	Mengele	subst:sg:voc:m1	nazwisko	
+Mengelem	Mengele	subst:sg:inst:m1	nazwisko	
+Mengelem	Mengele	subst:sg:loc:m1	nazwisko	
+Mengelemu	Mengele	subst:sg:dat:m1	nazwisko	
+Mengelom	Mengele	subst:pl:dat:m1	nazwisko	
+Mengelowie	Mengele	subst:pl:nom:m1	nazwisko	
+Mengelowie	Mengele	subst:pl:voc:m1	nazwisko	
+Mengelów	Mengele	subst:pl:acc:m1	nazwisko	
+Mengelów	Mengele	subst:pl:gen:m1	nazwisko	
 Menuhinach	Menuhin	subst:pl:loc:m1	nazwisko	
 Menuhina	Menuhin	subst:sg:acc:m1	nazwisko	
 Menuhina	Menuhin	subst:sg:gen:m1	nazwisko	

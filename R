@@ -34,6 +34,24 @@ Rabelais	Rabelais	subst:pl:nom:m1	nazwisko
 Rabelais	Rabelais	subst:pl:voc:m1	nazwisko	
 Rabelais	Rabelais	subst:sg:nom:m1	nazwisko	
 Rabelais	Rabelais	subst:sg:voc:m1	nazwisko	
+Rabinowiczach	Rabinowicz	subst:pl:loc:m1	nazwisko	
+Rabinowiczami	Rabinowicz	subst:pl:inst:m1	nazwisko	
+Rabinowicza	Rabinowicz	subst:sg:acc:m1	nazwisko	
+Rabinowicza	Rabinowicz	subst:sg:gen:m1	nazwisko	
+Rabinowiczem	Rabinowicz	subst:sg:inst:m1	nazwisko	
+Rabinowicze	Rabinowicz	depr:pl:nom:m2	nazwisko	
+Rabinowicze	Rabinowicz	depr:pl:voc:m2	nazwisko	
+Rabinowicze	Rabinowicz	subst:pl:nom:m1	nazwisko	
+Rabinowicze	Rabinowicz	subst:pl:voc:m1	nazwisko	
+Rabinowiczom	Rabinowicz	subst:pl:dat:m1	nazwisko	
+Rabinowiczowie	Rabinowicz	subst:pl:nom:m1	nazwisko	
+Rabinowiczowie	Rabinowicz	subst:pl:voc:m1	nazwisko	
+Rabinowiczowi	Rabinowicz	subst:sg:dat:m1	nazwisko	
+Rabinowiczów	Rabinowicz	subst:pl:acc:m1	nazwisko	
+Rabinowiczów	Rabinowicz	subst:pl:gen:m1	nazwisko	
+Rabinowicz	Rabinowicz	subst:sg:nom:m1	nazwisko	
+Rabinowiczu	Rabinowicz	subst:sg:loc:m1	nazwisko	
+Rabinowiczu	Rabinowicz	subst:sg:voc:m1	nazwisko	
 Rabce	Rabka	subst:sg:dat:f	nazwa geograficzna	
 Rabce	Rabka	subst:sg:loc:f	nazwa geograficzna	
 Rabek	Rabka	subst:pl:gen:f	nazwa geograficzna	
@@ -6476,6 +6494,22 @@ Rumińskim	Rumiński	subst:sg:inst:m1	nazwisko
 Rumińskim	Rumiński	subst:sg:loc:m1	nazwisko	
 Rumiński	Rumiński	subst:sg:nom:m1	nazwisko	
 Rumiński	Rumiński	subst:sg:voc:m1	nazwisko	
+Rumkowscy	Rumkowski	subst:pl:nom:m1	nazwisko	
+Rumkowscy	Rumkowski	subst:pl:voc:m1	nazwisko	
+Rumkowskich	Rumkowski	subst:pl:acc:m1	nazwisko	
+Rumkowskich	Rumkowski	subst:pl:gen:m1	nazwisko	
+Rumkowskich	Rumkowski	subst:pl:loc:m1	nazwisko	
+Rumkowskiego	Rumkowski	subst:sg:acc:m1	nazwisko	
+Rumkowskiego	Rumkowski	subst:sg:gen:m1	nazwisko	
+Rumkowskiemu	Rumkowski	subst:sg:dat:m1	nazwisko	
+Rumkowskie	Rumkowski	depr:pl:nom:m2	nazwisko	
+Rumkowskie	Rumkowski	depr:pl:voc:m2	nazwisko	
+Rumkowskimi	Rumkowski	subst:pl:inst:m1	nazwisko	
+Rumkowskim	Rumkowski	subst:pl:dat:m1	nazwisko	
+Rumkowskim	Rumkowski	subst:sg:inst:m1	nazwisko	
+Rumkowskim	Rumkowski	subst:sg:loc:m1	nazwisko	
+Rumkowski	Rumkowski	subst:sg:nom:m1	nazwisko	
+Rumkowski	Rumkowski	subst:sg:voc:m1	nazwisko	
 Rumunach	Rumun	subst:pl:loc:m1	nazwa pospolita	
 Rumunami	Rumun	subst:pl:inst:m1	nazwa pospolita	
 Rumuna	Rumun	subst:sg:acc:m1	nazwa pospolita	

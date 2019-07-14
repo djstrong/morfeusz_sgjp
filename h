@@ -14108,6 +14108,44 @@ hebrajskim	hebrajski:s	subst:sg:inst:m3	nazwa pospolita
 hebrajskim	hebrajski:s	subst:sg:loc:m3	nazwa pospolita	
 hebrajskimi	hebrajski:s	subst:pl:inst:m3	nazwa pospolita	
 hebrajsko	hebrajsko	adv:pos		
+hebrajskojęzycznościach	hebrajskojęzyczność	subst:pl:loc:f		
+hebrajskojęzycznościami	hebrajskojęzyczność	subst:pl:inst:f		
+hebrajskojęzycznością	hebrajskojęzyczność	subst:sg:inst:f		
+hebrajskojęzyczności	hebrajskojęzyczność	subst:pl:acc:f		
+hebrajskojęzyczności	hebrajskojęzyczność	subst:pl:gen:f		
+hebrajskojęzyczności	hebrajskojęzyczność	subst:pl:nom:f		
+hebrajskojęzyczności	hebrajskojęzyczność	subst:pl:voc:f		
+hebrajskojęzyczności	hebrajskojęzyczność	subst:sg:dat:f		
+hebrajskojęzyczności	hebrajskojęzyczność	subst:sg:gen:f		
+hebrajskojęzyczności	hebrajskojęzyczność	subst:sg:loc:f		
+hebrajskojęzyczności	hebrajskojęzyczność	subst:sg:voc:f		
+hebrajskojęzycznościom	hebrajskojęzyczność	subst:pl:dat:f		
+hebrajskojęzyczność	hebrajskojęzyczność	subst:sg:acc:f		
+hebrajskojęzyczność	hebrajskojęzyczność	subst:sg:nom:f		
+hebrajskojęzyczna	hebrajskojęzyczny	adj:sg:nom.voc:f:pos		
+hebrajskojęzyczną	hebrajskojęzyczny	adj:sg:acc:f:pos		
+hebrajskojęzyczną	hebrajskojęzyczny	adj:sg:inst:f:pos		
+hebrajskojęzycznego	hebrajskojęzyczny	adj:sg:acc:m1.m2:pos		
+hebrajskojęzycznego	hebrajskojęzyczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+hebrajskojęzyczne	hebrajskojęzyczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+hebrajskojęzyczne	hebrajskojęzyczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+hebrajskojęzyczne	hebrajskojęzyczny	adj:sg:acc:n1.n2:pos		
+hebrajskojęzyczne	hebrajskojęzyczny	adj:sg:nom.voc:n1.n2:pos		
+hebrajskojęzycznej	hebrajskojęzyczny	adj:sg:dat:f:pos		
+hebrajskojęzycznej	hebrajskojęzyczny	adj:sg:gen:f:pos		
+hebrajskojęzycznej	hebrajskojęzyczny	adj:sg:loc:f:pos		
+hebrajskojęzycznemu	hebrajskojęzyczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+hebrajskojęzyczni	hebrajskojęzyczny	adj:pl:nom.voc:m1.p1:pos		
+hebrajskojęzyczno	hebrajskojęzyczny	adja		
+hebrajskojęzycznych	hebrajskojęzyczny	adj:pl:acc:m1.p1:pos		
+hebrajskojęzycznych	hebrajskojęzyczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hebrajskojęzycznych	hebrajskojęzyczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hebrajskojęzyczny	hebrajskojęzyczny	adj:sg:acc:m3:pos		
+hebrajskojęzyczny	hebrajskojęzyczny	adj:sg:nom.voc:m1.m2.m3:pos		
+hebrajskojęzycznym	hebrajskojęzyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hebrajskojęzycznym	hebrajskojęzyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+hebrajskojęzycznym	hebrajskojęzyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+hebrajskojęzycznymi	hebrajskojęzyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 hebrajskościach	hebrajskość	subst:pl:loc:f	nazwa pospolita	
 hebrajskościami	hebrajskość	subst:pl:inst:f	nazwa pospolita	
 hebrajskością	hebrajskość	subst:sg:inst:f	nazwa pospolita	

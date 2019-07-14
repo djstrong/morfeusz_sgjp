@@ -4376,6 +4376,20 @@ Wierzbickim	Wierzbicki	subst:sg:inst:m1	nazwisko
 Wierzbickim	Wierzbicki	subst:sg:loc:m1	nazwisko	
 Wierzbicki	Wierzbicki	subst:sg:nom:m1	nazwisko	
 Wierzbicki	Wierzbicki	subst:sg:voc:m1	nazwisko	
+Wierzbnikach	Wierzbnik	subst:pl:loc:m3	nazwa geograficzna	
+Wierzbnikami	Wierzbnik	subst:pl:inst:m3	nazwa geograficzna	
+Wierzbnika	Wierzbnik	subst:sg:gen:m3	nazwa geograficzna	
+Wierzbnikiem	Wierzbnik	subst:sg:inst:m3	nazwa geograficzna	
+Wierzbniki	Wierzbnik	subst:pl:acc:m3	nazwa geograficzna	
+Wierzbniki	Wierzbnik	subst:pl:nom:m3	nazwa geograficzna	
+Wierzbniki	Wierzbnik	subst:pl:voc:m3	nazwa geograficzna	
+Wierzbnikom	Wierzbnik	subst:pl:dat:m3	nazwa geograficzna	
+Wierzbnikowi	Wierzbnik	subst:sg:dat:m3	nazwa geograficzna	
+Wierzbników	Wierzbnik	subst:pl:gen:m3	nazwa geograficzna	
+Wierzbniku	Wierzbnik	subst:sg:loc:m3	nazwa geograficzna	
+Wierzbniku	Wierzbnik	subst:sg:voc:m3	nazwa geograficzna	
+Wierzbnik	Wierzbnik	subst:sg:acc:m3	nazwa geograficzna	
+Wierzbnik	Wierzbnik	subst:sg:nom:m3	nazwa geograficzna	
 Wierzbowska	Wierzbowska	subst:sg:nom:f	nazwisko	
 Wierzbowska	Wierzbowska	subst:sg:voc:f	nazwisko	
 Wierzbowską	Wierzbowska	subst:sg:acc:f	nazwisko	
