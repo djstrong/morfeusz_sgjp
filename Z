@@ -1951,6 +1951,17 @@ Zdrojewskim	Zdrojewski	subst:sg:inst:m1	nazwisko
 Zdrojewskim	Zdrojewski	subst:sg:loc:m1	nazwisko	
 Zdrojewski	Zdrojewski	subst:sg:nom:m1	nazwisko	
 Zdrojewski	Zdrojewski	subst:sg:voc:m1	nazwisko	
+Zdrojach	Zdrój	subst:pl:loc:m3	człon nazwy geograficznej	
+Zdrojami	Zdrój	subst:pl:inst:m3	człon nazwy geograficznej	
+Zdrojem	Zdrój	subst:sg:inst:m3	człon nazwy geograficznej	
+Zdroje	Zdrój	subst:pl:nom.acc.voc:m3	człon nazwy geograficznej	
+Zdrojom	Zdrój	subst:pl:dat:m3	człon nazwy geograficznej	
+Zdrojowi	Zdrój	subst:sg:dat:m3	człon nazwy geograficznej	
+Zdrojów	Zdrój	subst:pl:gen:m3	człon nazwy geograficznej	
+Zdroju	Zdrój	subst:sg:gen:m3	człon nazwy geograficznej	
+Zdroju	Zdrój	subst:sg:loc:m3	człon nazwy geograficznej	
+Zdroju	Zdrój	subst:sg:voc:m3	człon nazwy geograficznej	
+Zdrój	Zdrój	subst:sg:nom.acc:m3	człon nazwy geograficznej	
 Zdunach	Zduny	subst:pl:loc:n:pt	nazwa geograficzna	
 Zdunach	Zduny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Zdunami	Zduny	subst:pl:inst:n:pt	nazwa geograficzna	
@@ -3030,6 +3041,17 @@ ZK	ZK	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita
 ZK	ZK	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 ZLP	ZLP	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa organizacji	
 ZLP	ZLP	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji	
+Złoczewach	Złoczew	subst:pl:loc:m3	nazwa geograficzna	
+Złoczewami	Złoczew	subst:pl:inst:m3	nazwa geograficzna	
+Złoczewa	Złoczew	subst:sg:gen:m3	nazwa geograficzna	
+Złoczewem	Złoczew	subst:sg:inst:m3	nazwa geograficzna	
+Złoczewie	Złoczew	subst:sg:loc:m3	nazwa geograficzna	
+Złoczewie	Złoczew	subst:sg:voc:m3	nazwa geograficzna	
+Złoczewom	Złoczew	subst:pl:dat:m3	nazwa geograficzna	
+Złoczewowi	Złoczew	subst:sg:dat:m3	nazwa geograficzna	
+Złoczewów	Złoczew	subst:pl:gen:m3	nazwa geograficzna	
+Złoczewy	Złoczew	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Złoczew	Złoczew	subst:sg:nom.acc:m3	nazwa geograficzna	
 Złoczowach	Złoczów	subst:pl:loc:m3	nazwa geograficzna	
 Złoczowami	Złoczów	subst:pl:inst:m3	nazwa geograficzna	
 Złoczowa	Złoczów	subst:sg:gen:m3	nazwa geograficzna	

@@ -2331,6 +2331,16 @@ Jastrzębiowi	Jastrząb	subst:sg:dat:m1	nazwisko
 Jastrzębiów	Jastrząb	subst:pl:gen.acc:m1	nazwisko	
 Jastrzębiu	Jastrząb	subst:sg:loc:m1	nazwisko	
 Jastrzębiu	Jastrząb	subst:sg:voc:m1	nazwisko	
+Jastrzębiach	Jastrzębie	subst:pl:loc:n:ncol	człon nazwy geograficznej	
+Jastrzębia	Jastrzębie	subst:pl:nom.acc.voc:n:ncol	człon nazwy geograficznej	
+Jastrzębia	Jastrzębie	subst:sg:gen:n:ncol	człon nazwy geograficznej	
+Jastrzębiami	Jastrzębie	subst:pl:inst:n:ncol	człon nazwy geograficznej	
+Jastrzębie	Jastrzębie	subst:sg:nom.acc.voc:n:ncol	człon nazwy geograficznej	
+Jastrzębiem	Jastrzębie	subst:sg:inst:n:ncol	człon nazwy geograficznej	
+Jastrzębi	Jastrzębie	subst:pl:gen:n:ncol	człon nazwy geograficznej	
+Jastrzębiom	Jastrzębie	subst:pl:dat:n:ncol	człon nazwy geograficznej	
+Jastrzębiu	Jastrzębie	subst:sg:dat:n:ncol	człon nazwy geograficznej	
+Jastrzębiu	Jastrzębie	subst:sg:loc:n:ncol	człon nazwy geograficznej	
 Jastrzębska	Jastrzębska	subst:sg:nom:f	nazwisko	
 Jastrzębska	Jastrzębska	subst:sg:voc:f	nazwisko	
 Jastrzębską	Jastrzębska	subst:sg:acc:f	nazwisko	
