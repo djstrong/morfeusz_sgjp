@@ -5319,6 +5319,45 @@
 żądaniu	żądanie	subst:sg:dat:n2	pospolita	
 żądaniu	żądanie	subst:sg:loc:n2	pospolita	
 żądań	żądanie	subst:pl:gen:n2	pospolita	
+żądaniowo	żądaniowo	adv:pos		
+żądaniowościach	żądaniowość	subst:pl:loc:f		
+żądaniowościami	żądaniowość	subst:pl:inst:f		
+żądaniowością	żądaniowość	subst:sg:inst:f		
+żądaniowościom	żądaniowość	subst:pl:dat:f		
+żądaniowości	żądaniowość	subst:pl:acc:f		
+żądaniowości	żądaniowość	subst:pl:gen:f		
+żądaniowości	żądaniowość	subst:pl:nom:f		
+żądaniowości	żądaniowość	subst:pl:voc:f		
+żądaniowości	żądaniowość	subst:sg:dat:f		
+żądaniowości	żądaniowość	subst:sg:gen:f		
+żądaniowości	żądaniowość	subst:sg:loc:f		
+żądaniowości	żądaniowość	subst:sg:voc:f		
+żądaniowość	żądaniowość	subst:sg:acc:f		
+żądaniowość	żądaniowość	subst:sg:nom:f		
+żądaniowa	żądaniowy	adj:sg:nom.voc:f:pos		
+żądaniową	żądaniowy	adj:sg:acc:f:pos		
+żądaniową	żądaniowy	adj:sg:inst:f:pos		
+żądaniowego	żądaniowy	adj:sg:acc:m1.m2:pos		
+żądaniowego	żądaniowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+żądaniowej	żądaniowy	adj:sg:dat:f:pos		
+żądaniowej	żądaniowy	adj:sg:gen:f:pos		
+żądaniowej	żądaniowy	adj:sg:loc:f:pos		
+żądaniowemu	żądaniowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+żądaniowe	żądaniowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+żądaniowe	żądaniowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+żądaniowe	żądaniowy	adj:sg:acc:n1.n2:pos		
+żądaniowe	żądaniowy	adj:sg:nom.voc:n1.n2:pos		
+żądaniowi	żądaniowy	adj:pl:nom.voc:m1.p1:pos		
+żądaniowo	żądaniowy	adja		
+żądaniowych	żądaniowy	adj:pl:acc:m1.p1:pos		
+żądaniowych	żądaniowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+żądaniowych	żądaniowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+żądaniowymi	żądaniowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+żądaniowym	żądaniowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+żądaniowym	żądaniowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+żądaniowym	żądaniowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+żądaniowy	żądaniowy	adj:sg:acc:m3:pos		
+żądaniowy	żądaniowy	adj:sg:nom.voc:m1.m2.m3:pos		
 żądełek	żądełko	subst:pl:gen:n2	pospolita	
 żądełkach	żądełko	subst:pl:loc:n2	pospolita	
 żądełkami	żądełko	subst:pl:inst:n2	pospolita	
@@ -6232,42 +6271,42 @@
 żebroty	żebrota	subst:pl:voc:f	pospolita	gwar.
 żebroty	żebrota	subst:sg:gen:f	pospolita	gwar.
 żebrot	żebrota	subst:pl:gen:f	pospolita	gwar.
-żebrować	żebrować:v1	inf:imperf		
-żebrowalibyście	żebrować:v1	cond:pl:m1.p1:sec:imperf		
-żebrowalibyśmy	żebrować:v1	cond:pl:m1.p1:pri:imperf		
-żebrowaliby	żebrować:v1	cond:pl:m1.p1:ter:imperf		
-żebrowaliście	żebrować:v1	praet:pl:m1.p1:sec:imperf		
-żebrowaliśmy	żebrować:v1	praet:pl:m1.p1:pri:imperf		
-żebrowali	żebrować:v1	praet:pl:m1.p1:imperf		
-żebrowali	żebrować:v1	praet:pl:m1.p1:ter:imperf		
-żebrowałabym	żebrować:v1	cond:sg:f:pri:imperf		
-żebrowałabyś	żebrować:v1	cond:sg:f:sec:imperf		
-żebrowałaby	żebrować:v1	cond:sg:f:ter:imperf		
-żebrowałam	żebrować:v1	praet:sg:f:pri:imperf		
-żebrowałaś	żebrować:v1	praet:sg:f:sec:imperf		
-żebrowała	żebrować:v1	praet:sg:f:imperf		
-żebrowała	żebrować:v1	praet:sg:f:ter:imperf		
-żebrowałbym	żebrować:v1	cond:sg:m1.m2.m3:pri:imperf		
-żebrowałbyś	żebrować:v1	cond:sg:m1.m2.m3:sec:imperf		
-żebrowałby	żebrować:v1	cond:sg:m1.m2.m3:ter:imperf		
-żebrowałem	żebrować:v1	praet:sg:m1.m2.m3:pri:imperf		
-żebrowałeś	żebrować:v1	praet:sg:m1.m2.m3:sec:imperf		
-żebrowałobym	żebrować:v1	cond:sg:n1.n2:pri:imperf		
-żebrowałobyś	żebrować:v1	cond:sg:n1.n2:sec:imperf		
-żebrowałoby	żebrować:v1	cond:sg:n1.n2:ter:imperf		
-żebrowałom	żebrować:v1	praet:sg:n1.n2:pri:imperf		
-żebrowałoś	żebrować:v1	praet:sg:n1.n2:sec:imperf		
-żebrowało	żebrować:v1	praet:sg:n1.n2:imperf		
-żebrowało	żebrować:v1	praet:sg:n1.n2:ter:imperf		
-żebrowałybyście	żebrować:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
-żebrowałybyśmy	żebrować:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-żebrowałyby	żebrować:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
-żebrowałyście	żebrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
-żebrowałyśmy	żebrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-żebrowały	żebrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
-żebrowały	żebrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
-żebrował	żebrować:v1	praet:sg:m1.m2.m3:imperf		
-żebrował	żebrować:v1	praet:sg:m1.m2.m3:ter:imperf		
+żebrować	żebrować:v1	inf:imperf		techn.|archit.
+żebrowalibyście	żebrować:v1	cond:pl:m1.p1:sec:imperf		techn.|archit.
+żebrowalibyśmy	żebrować:v1	cond:pl:m1.p1:pri:imperf		techn.|archit.
+żebrowaliby	żebrować:v1	cond:pl:m1.p1:ter:imperf		techn.|archit.
+żebrowaliście	żebrować:v1	praet:pl:m1.p1:sec:imperf		techn.|archit.
+żebrowaliśmy	żebrować:v1	praet:pl:m1.p1:pri:imperf		techn.|archit.
+żebrowali	żebrować:v1	praet:pl:m1.p1:imperf		techn.|archit.
+żebrowali	żebrować:v1	praet:pl:m1.p1:ter:imperf		techn.|archit.
+żebrowałabym	żebrować:v1	cond:sg:f:pri:imperf		techn.|archit.
+żebrowałabyś	żebrować:v1	cond:sg:f:sec:imperf		techn.|archit.
+żebrowałaby	żebrować:v1	cond:sg:f:ter:imperf		techn.|archit.
+żebrowałam	żebrować:v1	praet:sg:f:pri:imperf		techn.|archit.
+żebrowałaś	żebrować:v1	praet:sg:f:sec:imperf		techn.|archit.
+żebrowała	żebrować:v1	praet:sg:f:imperf		techn.|archit.
+żebrowała	żebrować:v1	praet:sg:f:ter:imperf		techn.|archit.
+żebrowałbym	żebrować:v1	cond:sg:m1.m2.m3:pri:imperf		techn.|archit.
+żebrowałbyś	żebrować:v1	cond:sg:m1.m2.m3:sec:imperf		techn.|archit.
+żebrowałby	żebrować:v1	cond:sg:m1.m2.m3:ter:imperf		techn.|archit.
+żebrowałem	żebrować:v1	praet:sg:m1.m2.m3:pri:imperf		techn.|archit.
+żebrowałeś	żebrować:v1	praet:sg:m1.m2.m3:sec:imperf		techn.|archit.
+żebrowałobym	żebrować:v1	cond:sg:n1.n2:pri:imperf		techn.|archit.
+żebrowałobyś	żebrować:v1	cond:sg:n1.n2:sec:imperf		techn.|archit.
+żebrowałoby	żebrować:v1	cond:sg:n1.n2:ter:imperf		techn.|archit.
+żebrowałom	żebrować:v1	praet:sg:n1.n2:pri:imperf		techn.|archit.
+żebrowałoś	żebrować:v1	praet:sg:n1.n2:sec:imperf		techn.|archit.
+żebrowało	żebrować:v1	praet:sg:n1.n2:imperf		techn.|archit.
+żebrowało	żebrować:v1	praet:sg:n1.n2:ter:imperf		techn.|archit.
+żebrowałybyście	żebrować:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		techn.|archit.
+żebrowałybyśmy	żebrować:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		techn.|archit.
+żebrowałyby	żebrować:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		techn.|archit.
+żebrowałyście	żebrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		techn.|archit.
+żebrowałyśmy	żebrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		techn.|archit.
+żebrowały	żebrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		techn.|archit.
+żebrowały	żebrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		techn.|archit.
+żebrował	żebrować:v1	praet:sg:m1.m2.m3:imperf		techn.|archit.
+żebrował	żebrować:v1	praet:sg:m1.m2.m3:ter:imperf		techn.|archit.
 żebrowana	żebrować:v1	ppas:sg:nom.voc:f:imperf:aff		
 żebrowaną	żebrować:v1	ppas:sg:acc.inst:f:imperf:aff		
 żebrowanego	żebrować:v1	ppas:sg:acc:m1.m2:imperf:aff		
@@ -6285,7 +6324,7 @@
 żebrowaniom	żebrować:v1	ger:pl:dat:n2:imperf:aff		
 żebrowaniu	żebrować:v1	ger:sg:dat.loc:n2:imperf:aff		
 żebrowani	żebrować:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
-żebrowano	żebrować:v1	imps:imperf		
+żebrowano	żebrować:v1	imps:imperf		techn.|archit.
 żebrowanych	żebrować:v1	ppas:pl:acc:m1.p1:imperf:aff		
 żebrowanych	żebrować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 żebrowanymi	żebrować:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -6310,52 +6349,52 @@
 żebrujący	żebrować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
 żebrujący	żebrować:v1	pact:sg:acc:m3:imperf:aff		
 żebrujący	żebrować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-żebrując	żebrować:v1	pcon:imperf		
-żebrują	żebrować:v1	fin:pl:ter:imperf		
-żebrujcie	żebrować:v1	impt:pl:sec:imperf		
-żebrujecie	żebrować:v1	fin:pl:sec:imperf		
-żebrujemy	żebrować:v1	fin:pl:pri:imperf		
-żebrujesz	żebrować:v1	fin:sg:sec:imperf		
-żebruje	żebrować:v1	fin:sg:ter:imperf		
-żebruję	żebrować:v1	fin:sg:pri:imperf		
-żebrujmy	żebrować:v1	impt:pl:pri:imperf		
-żebruj	żebrować:v1	impt:sg:sec:imperf		
-żebrować	żebrować:v2	inf:imperf		daw.
-żebrowalibyście	żebrować:v2	cond:pl:m1.p1:sec:imperf		daw.
-żebrowalibyśmy	żebrować:v2	cond:pl:m1.p1:pri:imperf		daw.
-żebrowaliby	żebrować:v2	cond:pl:m1.p1:ter:imperf		daw.
-żebrowaliście	żebrować:v2	praet:pl:m1.p1:sec:imperf		daw.
-żebrowaliśmy	żebrować:v2	praet:pl:m1.p1:pri:imperf		daw.
-żebrowali	żebrować:v2	praet:pl:m1.p1:imperf		daw.
-żebrowali	żebrować:v2	praet:pl:m1.p1:ter:imperf		daw.
-żebrowałabym	żebrować:v2	cond:sg:f:pri:imperf		daw.
-żebrowałabyś	żebrować:v2	cond:sg:f:sec:imperf		daw.
-żebrowałaby	żebrować:v2	cond:sg:f:ter:imperf		daw.
-żebrowałam	żebrować:v2	praet:sg:f:pri:imperf		daw.
-żebrowałaś	żebrować:v2	praet:sg:f:sec:imperf		daw.
-żebrowała	żebrować:v2	praet:sg:f:imperf		daw.
-żebrowała	żebrować:v2	praet:sg:f:ter:imperf		daw.
-żebrowałbym	żebrować:v2	cond:sg:m1.m2.m3:pri:imperf		daw.
-żebrowałbyś	żebrować:v2	cond:sg:m1.m2.m3:sec:imperf		daw.
-żebrowałby	żebrować:v2	cond:sg:m1.m2.m3:ter:imperf		daw.
-żebrowałem	żebrować:v2	praet:sg:m1.m2.m3:pri:imperf		daw.
-żebrowałeś	żebrować:v2	praet:sg:m1.m2.m3:sec:imperf		daw.
-żebrowałobym	żebrować:v2	cond:sg:n1.n2:pri:imperf		daw.
-żebrowałobyś	żebrować:v2	cond:sg:n1.n2:sec:imperf		daw.
-żebrowałoby	żebrować:v2	cond:sg:n1.n2:ter:imperf		daw.
-żebrowałom	żebrować:v2	praet:sg:n1.n2:pri:imperf		daw.
-żebrowałoś	żebrować:v2	praet:sg:n1.n2:sec:imperf		daw.
-żebrowało	żebrować:v2	praet:sg:n1.n2:imperf		daw.
-żebrowało	żebrować:v2	praet:sg:n1.n2:ter:imperf		daw.
-żebrowałybyście	żebrować:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
-żebrowałybyśmy	żebrować:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
-żebrowałyby	żebrować:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
-żebrowałyście	żebrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
-żebrowałyśmy	żebrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
-żebrowały	żebrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
-żebrowały	żebrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
-żebrował	żebrować:v2	praet:sg:m1.m2.m3:imperf		daw.
-żebrował	żebrować:v2	praet:sg:m1.m2.m3:ter:imperf		daw.
+żebrując	żebrować:v1	pcon:imperf		techn.|archit.
+żebrują	żebrować:v1	fin:pl:ter:imperf		techn.|archit.
+żebrujcie	żebrować:v1	impt:pl:sec:imperf		techn.|archit.
+żebrujecie	żebrować:v1	fin:pl:sec:imperf		techn.|archit.
+żebrujemy	żebrować:v1	fin:pl:pri:imperf		techn.|archit.
+żebrujesz	żebrować:v1	fin:sg:sec:imperf		techn.|archit.
+żebruje	żebrować:v1	fin:sg:ter:imperf		techn.|archit.
+żebruję	żebrować:v1	fin:sg:pri:imperf		techn.|archit.
+żebrujmy	żebrować:v1	impt:pl:pri:imperf		techn.|archit.
+żebruj	żebrować:v1	impt:sg:sec:imperf		techn.|archit.
+żebrować	żebrować:v2	inf:imperf		daw.|gwar.
+żebrowalibyście	żebrować:v2	cond:pl:m1.p1:sec:imperf		daw.|gwar.
+żebrowalibyśmy	żebrować:v2	cond:pl:m1.p1:pri:imperf		daw.|gwar.
+żebrowaliby	żebrować:v2	cond:pl:m1.p1:ter:imperf		daw.|gwar.
+żebrowaliście	żebrować:v2	praet:pl:m1.p1:sec:imperf		daw.|gwar.
+żebrowaliśmy	żebrować:v2	praet:pl:m1.p1:pri:imperf		daw.|gwar.
+żebrowali	żebrować:v2	praet:pl:m1.p1:imperf		daw.|gwar.
+żebrowali	żebrować:v2	praet:pl:m1.p1:ter:imperf		daw.|gwar.
+żebrowałabym	żebrować:v2	cond:sg:f:pri:imperf		daw.|gwar.
+żebrowałabyś	żebrować:v2	cond:sg:f:sec:imperf		daw.|gwar.
+żebrowałaby	żebrować:v2	cond:sg:f:ter:imperf		daw.|gwar.
+żebrowałam	żebrować:v2	praet:sg:f:pri:imperf		daw.|gwar.
+żebrowałaś	żebrować:v2	praet:sg:f:sec:imperf		daw.|gwar.
+żebrowała	żebrować:v2	praet:sg:f:imperf		daw.|gwar.
+żebrowała	żebrować:v2	praet:sg:f:ter:imperf		daw.|gwar.
+żebrowałbym	żebrować:v2	cond:sg:m1.m2.m3:pri:imperf		daw.|gwar.
+żebrowałbyś	żebrować:v2	cond:sg:m1.m2.m3:sec:imperf		daw.|gwar.
+żebrowałby	żebrować:v2	cond:sg:m1.m2.m3:ter:imperf		daw.|gwar.
+żebrowałem	żebrować:v2	praet:sg:m1.m2.m3:pri:imperf		daw.|gwar.
+żebrowałeś	żebrować:v2	praet:sg:m1.m2.m3:sec:imperf		daw.|gwar.
+żebrowałobym	żebrować:v2	cond:sg:n1.n2:pri:imperf		daw.|gwar.
+żebrowałobyś	żebrować:v2	cond:sg:n1.n2:sec:imperf		daw.|gwar.
+żebrowałoby	żebrować:v2	cond:sg:n1.n2:ter:imperf		daw.|gwar.
+żebrowałom	żebrować:v2	praet:sg:n1.n2:pri:imperf		daw.|gwar.
+żebrowałoś	żebrować:v2	praet:sg:n1.n2:sec:imperf		daw.|gwar.
+żebrowało	żebrować:v2	praet:sg:n1.n2:imperf		daw.|gwar.
+żebrowało	żebrować:v2	praet:sg:n1.n2:ter:imperf		daw.|gwar.
+żebrowałybyście	żebrować:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.|gwar.
+żebrowałybyśmy	żebrować:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.|gwar.
+żebrowałyby	żebrować:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.|gwar.
+żebrowałyście	żebrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.|gwar.
+żebrowałyśmy	żebrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.|gwar.
+żebrowały	żebrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.|gwar.
+żebrowały	żebrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.|gwar.
+żebrował	żebrować:v2	praet:sg:m1.m2.m3:imperf		daw.|gwar.
+żebrował	żebrować:v2	praet:sg:m1.m2.m3:ter:imperf		daw.|gwar.
 żebrowaniach	żebrować:v2	ger:pl:loc:n2:imperf:aff		
 żebrowaniami	żebrować:v2	ger:pl:inst:n2:imperf:aff		
 żebrowania	żebrować:v2	ger:pl:nom.acc:n2:imperf:aff		
@@ -6364,7 +6403,7 @@
 żebrowanie	żebrować:v2	ger:sg:nom.acc:n2:imperf:aff		
 żebrowaniom	żebrować:v2	ger:pl:dat:n2:imperf:aff		
 żebrowaniu	żebrować:v2	ger:sg:dat.loc:n2:imperf:aff		
-żebrowano	żebrować:v2	imps:imperf		daw.
+żebrowano	żebrować:v2	imps:imperf		daw.|gwar.
 żebrowań	żebrować:v2	ger:pl:gen:n2:imperf:aff		
 żebrująca	żebrować:v2	pact:sg:nom.voc:f:imperf:aff		
 żebrującą	żebrować:v2	pact:sg:acc.inst:f:imperf:aff		
@@ -6382,16 +6421,16 @@
 żebrujący	żebrować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
 żebrujący	żebrować:v2	pact:sg:acc:m3:imperf:aff		
 żebrujący	żebrować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-żebrując	żebrować:v2	pcon:imperf		daw.
-żebrują	żebrować:v2	fin:pl:ter:imperf		daw.
-żebrujcie	żebrować:v2	impt:pl:sec:imperf		daw.
-żebrujecie	żebrować:v2	fin:pl:sec:imperf		daw.
-żebrujemy	żebrować:v2	fin:pl:pri:imperf		daw.
-żebrujesz	żebrować:v2	fin:sg:sec:imperf		daw.
-żebruje	żebrować:v2	fin:sg:ter:imperf		daw.
-żebruję	żebrować:v2	fin:sg:pri:imperf		daw.
-żebrujmy	żebrować:v2	impt:pl:pri:imperf		daw.
-żebruj	żebrować:v2	impt:sg:sec:imperf		daw.
+żebrując	żebrować:v2	pcon:imperf		daw.|gwar.
+żebrują	żebrować:v2	fin:pl:ter:imperf		daw.|gwar.
+żebrujcie	żebrować:v2	impt:pl:sec:imperf		daw.|gwar.
+żebrujecie	żebrować:v2	fin:pl:sec:imperf		daw.|gwar.
+żebrujemy	żebrować:v2	fin:pl:pri:imperf		daw.|gwar.
+żebrujesz	żebrować:v2	fin:sg:sec:imperf		daw.|gwar.
+żebruje	żebrować:v2	fin:sg:ter:imperf		daw.|gwar.
+żebruję	żebrować:v2	fin:sg:pri:imperf		daw.|gwar.
+żebrujmy	żebrować:v2	impt:pl:pri:imperf		daw.|gwar.
+żebruj	żebrować:v2	impt:sg:sec:imperf		daw.|gwar.
 żebrowaniach	żebrowanie	subst:pl:loc:n2	pospolita	
 żebrowaniami	żebrowanie	subst:pl:inst:n2	pospolita	
 żebrowania	żebrowanie	subst:pl:acc:n2	pospolita	
@@ -24236,6 +24275,7 @@
 żywieniowcy	żywieniowiec	subst:pl:voc:m1	pospolita	
 żywieniowcze	żywieniowiec	subst:sg:voc:m1	pospolita	
 żywieniowiec	żywieniowiec	subst:sg:nom:m1	pospolita	
+żywieniowo	żywieniowo	adv:pos		
 żywieniowościach	żywieniowość	subst:pl:loc:f		
 żywieniowościami	żywieniowość	subst:pl:inst:f		
 żywieniowością	żywieniowość	subst:sg:inst:f		

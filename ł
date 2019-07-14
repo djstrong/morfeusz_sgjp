@@ -2363,6 +2363,8 @@
 ładowniczych	ładowniczy:s	subst:pl:acc:m1	pospolita	
 ładowniczych	ładowniczy:s	subst:pl:gen:m1	pospolita	
 ładowniczych	ładowniczy:s	subst:pl:loc:m1	pospolita	
+ładowniczy	ładowniczy:s	subst:pl:nom:m1	pospolita	
+ładowniczy	ładowniczy:s	subst:pl:voc:m1	pospolita	
 ładowniczy	ładowniczy:s	subst:sg:nom:m1	pospolita	
 ładowniczy	ładowniczy:s	subst:sg:voc:m1	pospolita	
 ładowniczymi	ładowniczy:s	subst:pl:inst:m1	pospolita	
@@ -12309,6 +12311,20 @@
 łęciny	łęcina	subst:pl:nom:f	pospolita	
 łęciny	łęcina	subst:pl:voc:f	pospolita	
 łęciny	łęcina	subst:sg:gen:f	pospolita	
+łęczakach	łęczak	subst:pl:loc:m2	pospolita	biol.
+łęczaka	łęczak	subst:sg:acc:m2	pospolita	biol.
+łęczaka	łęczak	subst:sg:gen:m2	pospolita	biol.
+łęczakami	łęczak	subst:pl:inst:m2	pospolita	biol.
+łęczakiem	łęczak	subst:sg:inst:m2	pospolita	biol.
+łęczaki	łęczak	subst:pl:acc:m2	pospolita	biol.
+łęczaki	łęczak	subst:pl:nom:m2	pospolita	biol.
+łęczaki	łęczak	subst:pl:voc:m2	pospolita	biol.
+łęczak	łęczak	subst:sg:nom:m2	pospolita	biol.
+łęczakom	łęczak	subst:pl:dat:m2	pospolita	biol.
+łęczakowi	łęczak	subst:sg:dat:m2	pospolita	biol.
+łęczaków	łęczak	subst:pl:gen:m2	pospolita	biol.
+łęczaku	łęczak	subst:sg:loc:m2	pospolita	biol.
+łęczaku	łęczak	subst:sg:voc:m2	pospolita	biol.
 łęczniańscy	łęczniański	adj:pl:nom.voc:m1.p1:pos		
 łęczniańska	łęczniański	adj:sg:nom.voc:f:pos		
 łęczniańską	łęczniański	adj:sg:acc:f:pos		
@@ -17717,22 +17733,24 @@
 łowczyni	łowczyni	subst:sg:voc:f	pospolita	przest.
 łowczyniom	łowczyni	subst:pl:dat:f	pospolita	przest.
 łowczyń	łowczyni	subst:pl:gen:f	pospolita	przest.
-łowczego	łowczy:s	subst:sg:acc:m1	pospolita	
-łowczego	łowczy:s	subst:sg:gen:m1	pospolita	
-łowcze	łowczy:s	depr:pl:nom:m2	pospolita	
-łowcze	łowczy:s	depr:pl:voc:m2	pospolita	
-łowczemu	łowczy:s	subst:sg:dat:m1	pospolita	
-łowczowie	łowczy:s	subst:pl:nom:m1	pospolita	
-łowczowie	łowczy:s	subst:pl:voc:m1	pospolita	
-łowczych	łowczy:s	subst:pl:acc:m1	pospolita	
-łowczych	łowczy:s	subst:pl:gen:m1	pospolita	
-łowczych	łowczy:s	subst:pl:loc:m1	pospolita	
-łowczy	łowczy:s	subst:sg:nom:m1	pospolita	
-łowczy	łowczy:s	subst:sg:voc:m1	pospolita	
-łowczymi	łowczy:s	subst:pl:inst:m1	pospolita	
-łowczym	łowczy:s	subst:pl:dat:m1	pospolita	
-łowczym	łowczy:s	subst:sg:inst:m1	pospolita	
-łowczym	łowczy:s	subst:sg:loc:m1	pospolita	
+łowczego	łowczy:s	subst:sg:acc:m1	pospolita	hist.
+łowczego	łowczy:s	subst:sg:gen:m1	pospolita	hist.
+łowcze	łowczy:s	depr:pl:nom:m2	pospolita	hist.
+łowcze	łowczy:s	depr:pl:voc:m2	pospolita	hist.
+łowczemu	łowczy:s	subst:sg:dat:m1	pospolita	hist.
+łowczowie	łowczy:s	subst:pl:nom:m1	pospolita	hist.
+łowczowie	łowczy:s	subst:pl:voc:m1	pospolita	hist.
+łowczych	łowczy:s	subst:pl:acc:m1	pospolita	hist.
+łowczych	łowczy:s	subst:pl:gen:m1	pospolita	hist.
+łowczych	łowczy:s	subst:pl:loc:m1	pospolita	hist.
+łowczy	łowczy:s	subst:pl:nom:m1	pospolita	hist.
+łowczy	łowczy:s	subst:pl:voc:m1	pospolita	hist.
+łowczy	łowczy:s	subst:sg:nom:m1	pospolita	hist.
+łowczy	łowczy:s	subst:sg:voc:m1	pospolita	hist.
+łowczymi	łowczy:s	subst:pl:inst:m1	pospolita	hist.
+łowczym	łowczy:s	subst:pl:dat:m1	pospolita	hist.
+łowczym	łowczy:s	subst:sg:inst:m1	pospolita	hist.
+łowczym	łowczy:s	subst:sg:loc:m1	pospolita	hist.
 łowiccy	łowicki	adj:pl:nom.voc:m1.p1:pos		
 łowicka	łowicki	adj:sg:nom.voc:f:pos		
 łowicką	łowicki	adj:sg:acc:f:pos		

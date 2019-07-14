@@ -24979,6 +24979,44 @@ figlujesz	figlować	fin:sg:sec:imperf
 figluję	figlować	fin:sg:pri:imperf		
 figluj	figlować	impt:sg:sec:imperf		
 figlujmy	figlować	impt:pl:pri:imperf		
+figolistnościach	figolistność	subst:pl:loc:f		
+figolistnościami	figolistność	subst:pl:inst:f		
+figolistnością	figolistność	subst:sg:inst:f		
+figolistności	figolistność	subst:pl:acc:f		
+figolistności	figolistność	subst:pl:gen:f		
+figolistności	figolistność	subst:pl:nom:f		
+figolistności	figolistność	subst:pl:voc:f		
+figolistności	figolistność	subst:sg:dat:f		
+figolistności	figolistność	subst:sg:gen:f		
+figolistności	figolistność	subst:sg:loc:f		
+figolistności	figolistność	subst:sg:voc:f		
+figolistnościom	figolistność	subst:pl:dat:f		
+figolistność	figolistność	subst:sg:acc:f		
+figolistność	figolistność	subst:sg:nom:f		
+figolistna	figolistny	adj:sg:nom.voc:f:pos		
+figolistną	figolistny	adj:sg:acc:f:pos		
+figolistną	figolistny	adj:sg:inst:f:pos		
+figolistne	figolistny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+figolistne	figolistny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+figolistne	figolistny	adj:sg:acc:n1.n2:pos		
+figolistne	figolistny	adj:sg:nom.voc:n1.n2:pos		
+figolistnego	figolistny	adj:sg:acc:m1.m2:pos		
+figolistnego	figolistny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+figolistnej	figolistny	adj:sg:dat:f:pos		
+figolistnej	figolistny	adj:sg:gen:f:pos		
+figolistnej	figolistny	adj:sg:loc:f:pos		
+figolistnemu	figolistny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+figolistni	figolistny	adj:pl:nom.voc:m1.p1:pos		
+figolistno	figolistny	adja		
+figolistnych	figolistny	adj:pl:acc:m1.p1:pos		
+figolistnych	figolistny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+figolistnych	figolistny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+figolistny	figolistny	adj:sg:acc:m3:pos		
+figolistny	figolistny	adj:sg:nom.voc:m1.m2.m3:pos		
+figolistnym	figolistny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+figolistnym	figolistny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+figolistnym	figolistny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+figolistnymi	figolistny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 figowcach	figowiec	subst:pl:loc:m2	pospolita	bot.|pot.
 figowcach	figowiec	subst:pl:loc:m3	pospolita	bot.
 figowca	figowiec	subst:sg:acc:m2	pospolita	bot.|pot.
@@ -57189,6 +57227,22 @@ frankujesz	frankować	fin:sg:sec:imperf		przest.
 frankuję	frankować	fin:sg:pri:imperf		przest.
 frankuj	frankować	impt:sg:sec:imperf		przest.
 frankujmy	frankować	impt:pl:pri:imperf		przest.
+frankowiczach	frankowicz	subst:pl:loc:m1	pospolita	
+frankowicza	frankowicz	subst:sg:acc:m1	pospolita	
+frankowicza	frankowicz	subst:sg:gen:m1	pospolita	
+frankowiczami	frankowicz	subst:pl:inst:m1	pospolita	
+frankowicze	frankowicz	depr:pl:nom:m2	pospolita	
+frankowicze	frankowicz	depr:pl:voc:m2	pospolita	
+frankowicze	frankowicz	subst:pl:nom:m1	pospolita	
+frankowicze	frankowicz	subst:pl:voc:m1	pospolita	
+frankowiczem	frankowicz	subst:sg:inst:m1	pospolita	
+frankowicz	frankowicz	subst:sg:nom:m1	pospolita	
+frankowiczom	frankowicz	subst:pl:dat:m1	pospolita	
+frankowiczowi	frankowicz	subst:sg:dat:m1	pospolita	
+frankowiczów	frankowicz	subst:pl:acc:m1	pospolita	
+frankowiczów	frankowicz	subst:pl:gen:m1	pospolita	
+frankowiczu	frankowicz	subst:sg:loc:m1	pospolita	
+frankowiczu	frankowicz	subst:sg:voc:m1	pospolita	
 frankownicach	frankownica	subst:pl:loc:f	pospolita	
 frankownica	frankownica	subst:sg:nom:f	pospolita	
 frankownicami	frankownica	subst:pl:inst:f	pospolita	

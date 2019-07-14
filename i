@@ -14016,6 +14016,7 @@ imprezowiczki	imprezowiczka	subst:pl:voc:f	pospolita	pot.
 imprezowiczki	imprezowiczka	subst:sg:gen:f	pospolita	pot.
 imprezowiczko	imprezowiczka	subst:sg:voc:f	pospolita	pot.
 imprezowiczkom	imprezowiczka	subst:pl:dat:f	pospolita	pot.
+imprezowo	imprezowo	adv:pos		
 imprezowościach	imprezowość	subst:pl:loc:f		
 imprezowościami	imprezowość	subst:pl:inst:f		
 imprezowością	imprezowość	subst:sg:inst:f		
@@ -16196,6 +16197,20 @@ indianistki	indianistka	subst:pl:voc:f	pospolita
 indianistki	indianistka	subst:sg:gen:f	pospolita	
 indianistko	indianistka	subst:sg:voc:f	pospolita	
 indianistkom	indianistka	subst:pl:dat:f	pospolita	
+indianistycznościach	indianistyczność	subst:pl:loc:f		
+indianistycznościami	indianistyczność	subst:pl:inst:f		
+indianistycznością	indianistyczność	subst:sg:inst:f		
+indianistyczności	indianistyczność	subst:pl:acc:f		
+indianistyczności	indianistyczność	subst:pl:gen:f		
+indianistyczności	indianistyczność	subst:pl:nom:f		
+indianistyczności	indianistyczność	subst:pl:voc:f		
+indianistyczności	indianistyczność	subst:sg:dat:f		
+indianistyczności	indianistyczność	subst:sg:gen:f		
+indianistyczności	indianistyczność	subst:sg:loc:f		
+indianistyczności	indianistyczność	subst:sg:voc:f		
+indianistycznościom	indianistyczność	subst:pl:dat:f		
+indianistyczność	indianistyczność	subst:sg:acc:f		
+indianistyczność	indianistyczność	subst:sg:nom:f		
 indianistyczna	indianistyczny	adj:sg:nom.voc:f:pos		
 indianistyczną	indianistyczny	adj:sg:acc:f:pos		
 indianistyczną	indianistyczny	adj:sg:inst:f:pos		
@@ -16814,6 +16829,20 @@ indologii	indologia	subst:sg:loc:f	pospolita
 indologij	indologia	subst:pl:gen:f	pospolita	arch.|char.
 indologio	indologia	subst:sg:voc:f	pospolita	
 indologiom	indologia	subst:pl:dat:f	pospolita	
+indologicznościach	indologiczność	subst:pl:loc:f		
+indologicznościami	indologiczność	subst:pl:inst:f		
+indologicznością	indologiczność	subst:sg:inst:f		
+indologiczności	indologiczność	subst:pl:acc:f		
+indologiczności	indologiczność	subst:pl:gen:f		
+indologiczności	indologiczność	subst:pl:nom:f		
+indologiczności	indologiczność	subst:pl:voc:f		
+indologiczności	indologiczność	subst:sg:dat:f		
+indologiczności	indologiczność	subst:sg:gen:f		
+indologiczności	indologiczność	subst:sg:loc:f		
+indologiczności	indologiczność	subst:sg:voc:f		
+indologicznościom	indologiczność	subst:pl:dat:f		
+indologiczność	indologiczność	subst:sg:acc:f		
+indologiczność	indologiczność	subst:sg:nom:f		
 indologiczna	indologiczny	adj:sg:nom.voc:f:pos		
 indologiczną	indologiczny	adj:sg:acc:f:pos		
 indologiczną	indologiczny	adj:sg:inst:f:pos		

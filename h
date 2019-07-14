@@ -2189,6 +2189,78 @@ hajfskościom	hajfskość	subst:pl:dat:f
 hajfskość	hajfskość	subst:sg:acc:f		
 hajfskość	hajfskość	subst:sg:nom:f		
 haj	haj:i	interj		
+hajlować	hajlować	inf:imperf		
+hajlowaliby	hajlować	cond:pl:m1.p1:ter:imperf		
+hajlowalibyście	hajlować	cond:pl:m1.p1:sec:imperf		
+hajlowalibyśmy	hajlować	cond:pl:m1.p1:pri:imperf		
+hajlowali	hajlować	praet:pl:m1.p1:imperf		
+hajlowali	hajlować	praet:pl:m1.p1:ter:imperf		
+hajlowaliście	hajlować	praet:pl:m1.p1:sec:imperf		
+hajlowaliśmy	hajlować	praet:pl:m1.p1:pri:imperf		
+hajlowałaby	hajlować	cond:sg:f:ter:imperf		
+hajlowałabym	hajlować	cond:sg:f:pri:imperf		
+hajlowałabyś	hajlować	cond:sg:f:sec:imperf		
+hajlowała	hajlować	praet:sg:f:imperf		
+hajlowała	hajlować	praet:sg:f:ter:imperf		
+hajlowałam	hajlować	praet:sg:f:pri:imperf		
+hajlowałaś	hajlować	praet:sg:f:sec:imperf		
+hajlowałby	hajlować	cond:sg:m1.m2.m3:ter:imperf		
+hajlowałbym	hajlować	cond:sg:m1.m2.m3:pri:imperf		
+hajlowałbyś	hajlować	cond:sg:m1.m2.m3:sec:imperf		
+hajlowałem	hajlować	praet:sg:m1.m2.m3:pri:imperf		
+hajlowałeś	hajlować	praet:sg:m1.m2.m3:sec:imperf		
+hajlował	hajlować	praet:sg:m1.m2.m3:imperf		
+hajlował	hajlować	praet:sg:m1.m2.m3:ter:imperf		
+hajlowałoby	hajlować	cond:sg:n1.n2:ter:imperf		
+hajlowałobym	hajlować	cond:sg:n1.n2:pri:imperf		
+hajlowałobyś	hajlować	cond:sg:n1.n2:sec:imperf		
+hajlowało	hajlować	praet:sg:n1.n2:imperf		
+hajlowało	hajlować	praet:sg:n1.n2:ter:imperf		
+hajlowałom	hajlować	praet:sg:n1.n2:pri:imperf		
+hajlowałoś	hajlować	praet:sg:n1.n2:sec:imperf		
+hajlowałyby	hajlować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+hajlowałybyście	hajlować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+hajlowałybyśmy	hajlować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+hajlowały	hajlować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+hajlowały	hajlować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+hajlowałyście	hajlować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+hajlowałyśmy	hajlować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+hajlowaniach	hajlować	ger:pl:loc:n2:imperf:aff		
+hajlowania	hajlować	ger:pl:nom.acc:n2:imperf:aff		
+hajlowania	hajlować	ger:sg:gen:n2:imperf:aff		
+hajlowaniami	hajlować	ger:pl:inst:n2:imperf:aff		
+hajlowanie	hajlować	ger:sg:nom.acc:n2:imperf:aff		
+hajlowaniem	hajlować	ger:sg:inst:n2:imperf:aff		
+hajlowaniom	hajlować	ger:pl:dat:n2:imperf:aff		
+hajlowaniu	hajlować	ger:sg:dat.loc:n2:imperf:aff		
+hajlowano	hajlować	imps:imperf		
+hajlowań	hajlować	ger:pl:gen:n2:imperf:aff		
+hajlująca	hajlować	pact:sg:nom.voc:f:imperf:aff		
+hajlującą	hajlować	pact:sg:acc.inst:f:imperf:aff		
+hajlującego	hajlować	pact:sg:acc:m1.m2:imperf:aff		
+hajlującego	hajlować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+hajlujące	hajlować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+hajlujące	hajlować	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+hajlującej	hajlować	pact:sg:gen.dat.loc:f:imperf:aff		
+hajlującemu	hajlować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hajlując	hajlować	pcon:imperf		
+hajlujących	hajlować	pact:pl:acc:m1.p1:imperf:aff		
+hajlujących	hajlować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hajlujący	hajlować	pact:pl:nom.voc:m1.p1:imperf:aff		
+hajlujący	hajlować	pact:sg:acc:m3:imperf:aff		
+hajlujący	hajlować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+hajlującym	hajlować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hajlującym	hajlować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+hajlującymi	hajlować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hajlują	hajlować	fin:pl:ter:imperf		
+hajlujcie	hajlować	impt:pl:sec:imperf		
+hajlujecie	hajlować	fin:pl:sec:imperf		
+hajluje	hajlować	fin:sg:ter:imperf		
+hajlujemy	hajlować	fin:pl:pri:imperf		
+hajlujesz	hajlować	fin:sg:sec:imperf		
+hajluję	hajlować	fin:sg:pri:imperf		
+hajluj	hajlować	impt:sg:sec:imperf		
+hajlujmy	hajlować	impt:pl:pri:imperf		
 hajnale	hajnał	subst:sg:loc:m3	pospolita	daw.
 hajnale	hajnał	subst:sg:voc:m3	pospolita	daw.
 hajnałach	hajnał	subst:pl:loc:m3	pospolita	daw.
@@ -15118,6 +15190,94 @@ hejterze	hejter	subst:sg:loc:m1	pospolita	pot.
 hejterze	hejter	subst:sg:voc:m1	pospolita	pot.
 hejterzy	hejter	subst:pl:nom:m1	pospolita	pot.
 hejterzy	hejter	subst:pl:voc:m1	pospolita	pot.
+hejtować	hejtować	inf:imperf		pot.
+hejtowaliby	hejtować	cond:pl:m1.p1:ter:imperf		pot.
+hejtowalibyście	hejtować	cond:pl:m1.p1:sec:imperf		pot.
+hejtowalibyśmy	hejtować	cond:pl:m1.p1:pri:imperf		pot.
+hejtowali	hejtować	praet:pl:m1.p1:imperf		pot.
+hejtowali	hejtować	praet:pl:m1.p1:ter:imperf		pot.
+hejtowaliście	hejtować	praet:pl:m1.p1:sec:imperf		pot.
+hejtowaliśmy	hejtować	praet:pl:m1.p1:pri:imperf		pot.
+hejtowałaby	hejtować	cond:sg:f:ter:imperf		pot.
+hejtowałabym	hejtować	cond:sg:f:pri:imperf		pot.
+hejtowałabyś	hejtować	cond:sg:f:sec:imperf		pot.
+hejtowała	hejtować	praet:sg:f:imperf		pot.
+hejtowała	hejtować	praet:sg:f:ter:imperf		pot.
+hejtowałam	hejtować	praet:sg:f:pri:imperf		pot.
+hejtowałaś	hejtować	praet:sg:f:sec:imperf		pot.
+hejtowałby	hejtować	cond:sg:m1.m2.m3:ter:imperf		pot.
+hejtowałbym	hejtować	cond:sg:m1.m2.m3:pri:imperf		pot.
+hejtowałbyś	hejtować	cond:sg:m1.m2.m3:sec:imperf		pot.
+hejtowałem	hejtować	praet:sg:m1.m2.m3:pri:imperf		pot.
+hejtowałeś	hejtować	praet:sg:m1.m2.m3:sec:imperf		pot.
+hejtował	hejtować	praet:sg:m1.m2.m3:imperf		pot.
+hejtował	hejtować	praet:sg:m1.m2.m3:ter:imperf		pot.
+hejtowałoby	hejtować	cond:sg:n1.n2:ter:imperf		pot.
+hejtowałobym	hejtować	cond:sg:n1.n2:pri:imperf		pot.
+hejtowałobyś	hejtować	cond:sg:n1.n2:sec:imperf		pot.
+hejtowało	hejtować	praet:sg:n1.n2:imperf		pot.
+hejtowało	hejtować	praet:sg:n1.n2:ter:imperf		pot.
+hejtowałom	hejtować	praet:sg:n1.n2:pri:imperf		pot.
+hejtowałoś	hejtować	praet:sg:n1.n2:sec:imperf		pot.
+hejtowałyby	hejtować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		pot.
+hejtowałybyście	hejtować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		pot.
+hejtowałybyśmy	hejtować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		pot.
+hejtowały	hejtować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		pot.
+hejtowały	hejtować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		pot.
+hejtowałyście	hejtować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		pot.
+hejtowałyśmy	hejtować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		pot.
+hejtowana	hejtować	ppas:sg:nom.voc:f:imperf:aff		
+hejtowaną	hejtować	ppas:sg:acc.inst:f:imperf:aff		
+hejtowanego	hejtować	ppas:sg:acc:m1.m2:imperf:aff		
+hejtowanego	hejtować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+hejtowane	hejtować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+hejtowane	hejtować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+hejtowanej	hejtować	ppas:sg:gen.dat.loc:f:imperf:aff		
+hejtowanemu	hejtować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hejtowaniach	hejtować	ger:pl:loc:n2:imperf:aff		
+hejtowania	hejtować	ger:pl:nom.acc:n2:imperf:aff		
+hejtowania	hejtować	ger:sg:gen:n2:imperf:aff		
+hejtowaniami	hejtować	ger:pl:inst:n2:imperf:aff		
+hejtowanie	hejtować	ger:sg:nom.acc:n2:imperf:aff		
+hejtowaniem	hejtować	ger:sg:inst:n2:imperf:aff		
+hejtowani	hejtować	ppas:pl:nom.voc:m1.p1:imperf:aff		
+hejtowaniom	hejtować	ger:pl:dat:n2:imperf:aff		
+hejtowaniu	hejtować	ger:sg:dat.loc:n2:imperf:aff		
+hejtowano	hejtować	imps:imperf		pot.
+hejtowanych	hejtować	ppas:pl:acc:m1.p1:imperf:aff		
+hejtowanych	hejtować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hejtowany	hejtować	ppas:sg:acc:m3:imperf:aff		
+hejtowany	hejtować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+hejtowanym	hejtować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hejtowanym	hejtować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+hejtowanymi	hejtować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hejtowań	hejtować	ger:pl:gen:n2:imperf:aff		
+hejtująca	hejtować	pact:sg:nom.voc:f:imperf:aff		
+hejtującą	hejtować	pact:sg:acc.inst:f:imperf:aff		
+hejtującego	hejtować	pact:sg:acc:m1.m2:imperf:aff		
+hejtującego	hejtować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+hejtujące	hejtować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+hejtujące	hejtować	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+hejtującej	hejtować	pact:sg:gen.dat.loc:f:imperf:aff		
+hejtującemu	hejtować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hejtując	hejtować	pcon:imperf		pot.
+hejtujących	hejtować	pact:pl:acc:m1.p1:imperf:aff		
+hejtujących	hejtować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hejtujący	hejtować	pact:pl:nom.voc:m1.p1:imperf:aff		
+hejtujący	hejtować	pact:sg:acc:m3:imperf:aff		
+hejtujący	hejtować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+hejtującym	hejtować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hejtującym	hejtować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+hejtującymi	hejtować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hejtują	hejtować	fin:pl:ter:imperf		pot.
+hejtujcie	hejtować	impt:pl:sec:imperf		pot.
+hejtujecie	hejtować	fin:pl:sec:imperf		pot.
+hejtuje	hejtować	fin:sg:ter:imperf		pot.
+hejtujemy	hejtować	fin:pl:pri:imperf		pot.
+hejtujesz	hejtować	fin:sg:sec:imperf		pot.
+hejtuję	hejtować	fin:sg:pri:imperf		pot.
+hejtuj	hejtować	impt:sg:sec:imperf		pot.
+hejtujmy	hejtować	impt:pl:pri:imperf		pot.
 hejże	hejże	interj		
 hekatombach	hekatomba	subst:pl:loc:f	pospolita	
 hekatomba	hekatomba	subst:sg:nom:f	pospolita	
@@ -15932,6 +16092,21 @@ heliakalnym	heliakalny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 heliakalnym	heliakalny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 heliakalnym	heliakalny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 heliakalnymi	heliakalny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+helikalnie	helikalnie	adv:pos		
+helikalnościach	helikalność	subst:pl:loc:f		
+helikalnościami	helikalność	subst:pl:inst:f		
+helikalnością	helikalność	subst:sg:inst:f		
+helikalności	helikalność	subst:pl:acc:f		
+helikalności	helikalność	subst:pl:gen:f		
+helikalności	helikalność	subst:pl:nom:f		
+helikalności	helikalność	subst:pl:voc:f		
+helikalności	helikalność	subst:sg:dat:f		
+helikalności	helikalność	subst:sg:gen:f		
+helikalności	helikalność	subst:sg:loc:f		
+helikalności	helikalność	subst:sg:voc:f		
+helikalnościom	helikalność	subst:pl:dat:f		
+helikalność	helikalność	subst:sg:acc:f		
+helikalność	helikalność	subst:sg:nom:f		
 helikalna	helikalny	adj:sg:nom.voc:f:pos		
 helikalną	helikalny	adj:sg:acc:f:pos		
 helikalną	helikalny	adj:sg:inst:f:pos		
@@ -45763,6 +45938,7 @@ hurraoptymiście	hurraoptymista	subst:sg:dat:m1	pospolita
 hurraoptymiście	hurraoptymista	subst:sg:loc:m1	pospolita	
 hurraoptymiści	hurraoptymista	subst:pl:nom:m1	pospolita	
 hurraoptymiści	hurraoptymista	subst:pl:voc:m1	pospolita	
+hurraoptymistycznie	hurraoptymistycznie	adv:pos		
 hurraoptymistycznościach	hurraoptymistyczność	subst:pl:loc:f		
 hurraoptymistycznościami	hurraoptymistyczność	subst:pl:inst:f		
 hurraoptymistycznością	hurraoptymistyczność	subst:sg:inst:f		

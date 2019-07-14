@@ -5173,6 +5173,20 @@ jambicznymi	jambiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jambicznym	jambiczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jambicznym	jambiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jambicznym	jambiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+jambłusznikach	jambłusznik	subst:pl:loc:m3	pospolita	
+jambłusznika	jambłusznik	subst:sg:gen:m3	pospolita	
+jambłusznikami	jambłusznik	subst:pl:inst:m3	pospolita	
+jambłusznikiem	jambłusznik	subst:sg:inst:m3	pospolita	
+jambłuszniki	jambłusznik	subst:pl:acc:m3	pospolita	
+jambłuszniki	jambłusznik	subst:pl:nom:m3	pospolita	
+jambłuszniki	jambłusznik	subst:pl:voc:m3	pospolita	
+jambłusznik	jambłusznik	subst:sg:acc:m3	pospolita	
+jambłusznik	jambłusznik	subst:sg:nom:m3	pospolita	
+jambłusznikom	jambłusznik	subst:pl:dat:m3	pospolita	
+jambłusznikowi	jambłusznik	subst:sg:dat:m3	pospolita	
+jambłuszników	jambłusznik	subst:pl:gen:m3	pospolita	
+jambłuszniku	jambłusznik	subst:sg:loc:m3	pospolita	
+jambłuszniku	jambłusznik	subst:sg:voc:m3	pospolita	
 jamboree	jamboree	subst:pl:acc:n2	pospolita	
 jamboree	jamboree	subst:pl:dat:n2	pospolita	
 jamboree	jamboree	subst:pl:gen:n2	pospolita	

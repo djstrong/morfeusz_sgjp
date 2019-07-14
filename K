@@ -4998,6 +4998,20 @@ Kidawów	Kidawa	subst:pl:gen:m1	nazwisko
 Kidawy	Kidawa	depr:pl:nom:m2	nazwisko	
 Kidawy	Kidawa	depr:pl:voc:m2	nazwisko	
 Kidawy	Kidawa	subst:sg:gen:m1	nazwisko	
+Kiejkutach	Kiejkuty	subst:pl:loc:p2	geograficzna	rzad.
+Kiejkutach	Kiejkuty	subst:pl:loc:p3	geograficzna	
+Kiejkutami	Kiejkuty	subst:pl:inst:p2	geograficzna	rzad.
+Kiejkutami	Kiejkuty	subst:pl:inst:p3	geograficzna	
+Kiejkutom	Kiejkuty	subst:pl:dat:p2	geograficzna	rzad.
+Kiejkutom	Kiejkuty	subst:pl:dat:p3	geograficzna	
+Kiejkutów	Kiejkuty	subst:pl:gen:p2	geograficzna	rzad.
+Kiejkutów	Kiejkuty	subst:pl:gen:p3	geograficzna	
+Kiejkuty	Kiejkuty	subst:pl:acc:p2	geograficzna	rzad.
+Kiejkuty	Kiejkuty	subst:pl:acc:p3	geograficzna	
+Kiejkuty	Kiejkuty	subst:pl:nom:p2	geograficzna	rzad.
+Kiejkuty	Kiejkuty	subst:pl:nom:p3	geograficzna	
+Kiejkuty	Kiejkuty	subst:pl:voc:p2	geograficzna	rzad.
+Kiejkuty	Kiejkuty	subst:pl:voc:p3	geograficzna	
 Kiejstucie	Kiejstut	subst:sg:loc:m1	imię	
 Kiejstucie	Kiejstut	subst:sg:voc:m1	imię	
 Kiejstutach	Kiejstut	subst:pl:loc:m1	imię	
@@ -14074,6 +14088,21 @@ KSERM-u	KSERM	subst:sg:gen:m3	instytucja
 KSERM-y	KSERM	subst:pl:acc:m3	instytucja	
 KSERM-y	KSERM	subst:pl:nom:m3	instytucja	
 KSERM-y	KSERM	subst:pl:voc:m3	instytucja	
+Książach	Książ	subst:pl:loc:m3	geograficzna	
+Książa	Książ	subst:sg:gen:m3	geograficzna	
+Książami	Książ	subst:pl:inst:m3	geograficzna	
+Książe	Książ	subst:pl:acc:m3	geograficzna	
+Książe	Książ	subst:pl:nom:m3	geograficzna	
+Książe	Książ	subst:pl:voc:m3	geograficzna	
+Książem	Książ	subst:sg:inst:m3	geograficzna	
+Książ	Książ	subst:sg:acc:m3	geograficzna	
+Książ	Książ	subst:sg:nom:m3	geograficzna	
+Książom	Książ	subst:pl:dat:m3	geograficzna	
+Książowi	Książ	subst:sg:dat:m3	geograficzna	
+Książów	Książ	subst:pl:gen:m3	geograficzna	
+Książu	Książ	subst:sg:loc:m3	geograficzna	
+Książu	Książ	subst:sg:voc:m3	geograficzna	
+Książy	Książ	subst:pl:gen:m3	geograficzna	
 Książek	Książek	subst:sg:nom:m1	nazwisko	
 Książkach	Książek	subst:pl:loc:m1	nazwisko	
 Książka	Książek	subst:sg:acc:m1	nazwisko	
@@ -15063,6 +15092,20 @@ Kumanów	Kuman	subst:pl:acc:m1	pospolita
 Kumanów	Kuman	subst:pl:gen:m1	pospolita	
 Kumany	Kuman	depr:pl:nom:m2	pospolita	
 Kumany	Kuman	depr:pl:voc:m2	pospolita	
+Kumance	Kumanka	subst:sg:dat:f	pospolita	
+Kumance	Kumanka	subst:sg:loc:f	pospolita	
+Kumanek	Kumanka	subst:pl:gen:f	pospolita	
+Kumankach	Kumanka	subst:pl:loc:f	pospolita	
+Kumanka	Kumanka	subst:sg:nom:f	pospolita	
+Kumankami	Kumanka	subst:pl:inst:f	pospolita	
+Kumanką	Kumanka	subst:sg:inst:f	pospolita	
+Kumankę	Kumanka	subst:sg:acc:f	pospolita	
+Kumanki	Kumanka	subst:pl:acc:f	pospolita	
+Kumanki	Kumanka	subst:pl:nom:f	pospolita	
+Kumanki	Kumanka	subst:pl:voc:f	pospolita	
+Kumanki	Kumanka	subst:sg:gen:f	pospolita	
+Kumanko	Kumanka	subst:sg:voc:f	pospolita	
+Kumankom	Kumanka	subst:pl:dat:f	pospolita	
 Kunach	Kuna	subst:pl:loc:f	imię	
 Kuna	Kuna	subst:sg:nom:f	imię	
 Kunami	Kuna	subst:pl:inst:f	imię	

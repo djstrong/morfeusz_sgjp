@@ -5364,6 +5364,45 @@ egzodermy	egzoderma	subst:pl:acc:f	pospolita
 egzodermy	egzoderma	subst:pl:nom:f	pospolita	
 egzodermy	egzoderma	subst:pl:voc:f	pospolita	
 egzodermy	egzoderma	subst:sg:gen:f	pospolita	
+egzoenergetycznie	egzoenergetycznie	adv:pos		
+egzoenergetycznościach	egzoenergetyczność	subst:pl:loc:f		
+egzoenergetycznościami	egzoenergetyczność	subst:pl:inst:f		
+egzoenergetycznością	egzoenergetyczność	subst:sg:inst:f		
+egzoenergetyczności	egzoenergetyczność	subst:pl:acc:f		
+egzoenergetyczności	egzoenergetyczność	subst:pl:gen:f		
+egzoenergetyczności	egzoenergetyczność	subst:pl:nom:f		
+egzoenergetyczności	egzoenergetyczność	subst:pl:voc:f		
+egzoenergetyczności	egzoenergetyczność	subst:sg:dat:f		
+egzoenergetyczności	egzoenergetyczność	subst:sg:gen:f		
+egzoenergetyczności	egzoenergetyczność	subst:sg:loc:f		
+egzoenergetyczności	egzoenergetyczność	subst:sg:voc:f		
+egzoenergetycznościom	egzoenergetyczność	subst:pl:dat:f		
+egzoenergetyczność	egzoenergetyczność	subst:sg:acc:f		
+egzoenergetyczność	egzoenergetyczność	subst:sg:nom:f		
+egzoenergetyczna	egzoenergetyczny	adj:sg:nom.voc:f:pos		
+egzoenergetyczną	egzoenergetyczny	adj:sg:acc:f:pos		
+egzoenergetyczną	egzoenergetyczny	adj:sg:inst:f:pos		
+egzoenergetyczne	egzoenergetyczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+egzoenergetyczne	egzoenergetyczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+egzoenergetyczne	egzoenergetyczny	adj:sg:acc:n1.n2:pos		
+egzoenergetyczne	egzoenergetyczny	adj:sg:nom.voc:n1.n2:pos		
+egzoenergetycznego	egzoenergetyczny	adj:sg:acc:m1.m2:pos		
+egzoenergetycznego	egzoenergetyczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+egzoenergetycznej	egzoenergetyczny	adj:sg:dat:f:pos		
+egzoenergetycznej	egzoenergetyczny	adj:sg:gen:f:pos		
+egzoenergetycznej	egzoenergetyczny	adj:sg:loc:f:pos		
+egzoenergetycznemu	egzoenergetyczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+egzoenergetyczni	egzoenergetyczny	adj:pl:nom.voc:m1.p1:pos		
+egzoenergetyczno	egzoenergetyczny	adja		
+egzoenergetycznych	egzoenergetyczny	adj:pl:acc:m1.p1:pos		
+egzoenergetycznych	egzoenergetyczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+egzoenergetycznych	egzoenergetyczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+egzoenergetyczny	egzoenergetyczny	adj:sg:acc:m3:pos		
+egzoenergetyczny	egzoenergetyczny	adj:sg:nom.voc:m1.m2.m3:pos		
+egzoenergetycznym	egzoenergetyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+egzoenergetycznym	egzoenergetyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+egzoenergetycznym	egzoenergetyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+egzoenergetycznymi	egzoenergetyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 egzoftalmiach	egzoftalmia	subst:pl:loc:f	pospolita	
 egzoftalmia	egzoftalmia	subst:sg:nom:f	pospolita	
 egzoftalmiami	egzoftalmia	subst:pl:inst:f	pospolita	
@@ -16545,6 +16584,21 @@ ektotroficznym	ektotroficzny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 ektotroficznym	ektotroficzny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ektotroficznym	ektotroficzny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ektotroficznymi	ektotroficzny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+ektropiach	ektropia	subst:pl:loc:f	pospolita	
+ektropia	ektropia	subst:sg:nom:f	pospolita	
+ektropiami	ektropia	subst:pl:inst:f	pospolita	
+ektropią	ektropia	subst:sg:inst:f	pospolita	
+ektropie	ektropia	subst:pl:acc:f	pospolita	
+ektropie	ektropia	subst:pl:nom:f	pospolita	
+ektropie	ektropia	subst:pl:voc:f	pospolita	
+ektropię	ektropia	subst:sg:acc:f	pospolita	
+ektropii	ektropia	subst:pl:gen:f	pospolita	hom.
+ektropii	ektropia	subst:sg:dat:f	pospolita	
+ektropii	ektropia	subst:sg:gen:f	pospolita	
+ektropii	ektropia	subst:sg:loc:f	pospolita	
+ektropij	ektropia	subst:pl:gen:f	pospolita	arch.|char.
+ektropio	ektropia	subst:sg:voc:f	pospolita	
+ektropiom	ektropia	subst:pl:dat:f	pospolita	
 ektropionach	ektropion	subst:pl:loc:m3	pospolita	
 ektropionami	ektropion	subst:pl:inst:m3	pospolita	
 ektropion	ektropion	subst:sg:acc:m3	pospolita	
@@ -18104,24 +18158,24 @@ eleackości	eleackość	subst:sg:voc:f
 eleackościom	eleackość	subst:pl:dat:f		
 eleackość	eleackość	subst:sg:acc:f		
 eleackość	eleackość	subst:sg:nom:f		
-elearach	elear	subst:pl:loc:m1	pospolita	
-eleara	elear	subst:sg:acc:m1	pospolita	
-eleara	elear	subst:sg:gen:m1	pospolita	
-elearami	elear	subst:pl:inst:m1	pospolita	
-elear	elear	subst:sg:nom:m1	pospolita	
-elearem	elear	subst:sg:inst:m1	pospolita	
-elearom	elear	subst:pl:dat:m1	pospolita	
-elearowie	elear	subst:pl:nom:m1	pospolita	
-elearowie	elear	subst:pl:voc:m1	pospolita	
-elearowi	elear	subst:sg:dat:m1	pospolita	
-elearów	elear	subst:pl:acc:m1	pospolita	
-elearów	elear	subst:pl:gen:m1	pospolita	
-eleary	elear	depr:pl:nom:m2	pospolita	
-eleary	elear	depr:pl:voc:m2	pospolita	
-elearze	elear	subst:sg:loc:m1	pospolita	
-elearze	elear	subst:sg:voc:m1	pospolita	
-elearzy	elear	subst:pl:nom:m1	pospolita	
-elearzy	elear	subst:pl:voc:m1	pospolita	
+elearach	elear	subst:pl:loc:m1	pospolita	hist.
+eleara	elear	subst:sg:acc:m1	pospolita	hist.
+eleara	elear	subst:sg:gen:m1	pospolita	hist.
+elearami	elear	subst:pl:inst:m1	pospolita	hist.
+elear	elear	subst:sg:nom:m1	pospolita	hist.
+elearem	elear	subst:sg:inst:m1	pospolita	hist.
+elearom	elear	subst:pl:dat:m1	pospolita	hist.
+elearowie	elear	subst:pl:nom:m1	pospolita	hist.
+elearowie	elear	subst:pl:voc:m1	pospolita	hist.
+elearowi	elear	subst:sg:dat:m1	pospolita	hist.
+elearów	elear	subst:pl:acc:m1	pospolita	hist.
+elearów	elear	subst:pl:gen:m1	pospolita	hist.
+eleary	elear	depr:pl:nom:m2	pospolita	hist.
+eleary	elear	depr:pl:voc:m2	pospolita	hist.
+elearze	elear	subst:sg:loc:m1	pospolita	hist.
+elearze	elear	subst:sg:voc:m1	pospolita	hist.
+elearzy	elear	subst:pl:nom:m1	pospolita	hist.
+elearzy	elear	subst:pl:voc:m1	pospolita	hist.
 e-learningach	e-learning	subst:pl:loc:m3	pospolita	
 e-learningami	e-learning	subst:pl:inst:m3	pospolita	
 e-learning	e-learning	subst:sg:acc:m3	pospolita	
@@ -28764,6 +28818,8 @@ endodermalnym	endodermalny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 endodermalnym	endodermalny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 endodermalnym	endodermalny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 endodermalnymi	endodermalny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+endoenergetycznie	endoenergetycznie:d1	adv:pos		
+endoenergetycznie	endoenergetycznie:d2	adv:pos		
 endoenergetycznościach	endoenergetyczność	subst:pl:loc:f		
 endoenergetycznościami	endoenergetyczność	subst:pl:inst:f		
 endoenergetycznością	endoenergetyczność	subst:sg:inst:f		
@@ -46265,6 +46321,7 @@ euroentuzjastki	euroentuzjastka	subst:pl:voc:f	pospolita
 euroentuzjastki	euroentuzjastka	subst:sg:gen:f	pospolita	
 euroentuzjastko	euroentuzjastka	subst:sg:voc:f	pospolita	
 euroentuzjastkom	euroentuzjastka	subst:pl:dat:f	pospolita	
+euroentuzjastycznie	euroentuzjastycznie	adv:pos		
 euroentuzjastycznościach	euroentuzjastyczność	subst:pl:loc:f		
 euroentuzjastycznościami	euroentuzjastyczność	subst:pl:inst:f		
 euroentuzjastycznością	euroentuzjastyczność	subst:sg:inst:f		
@@ -47067,6 +47124,7 @@ eurosceptyczki	eurosceptyczka	subst:pl:voc:f	pospolita
 eurosceptyczki	eurosceptyczka	subst:sg:gen:f	pospolita	
 eurosceptyczko	eurosceptyczka	subst:sg:voc:f	pospolita	
 eurosceptyczkom	eurosceptyczka	subst:pl:dat:f	pospolita	
+eurosceptycznie	eurosceptycznie	adv:pos		
 eurosceptycznościach	eurosceptyczność	subst:pl:loc:f		
 eurosceptycznościami	eurosceptyczność	subst:pl:inst:f		
 eurosceptycznością	eurosceptyczność	subst:sg:inst:f		

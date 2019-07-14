@@ -1688,6 +1688,22 @@ Filipiaków	Filipiak	subst:pl:acc:m1	nazwisko
 Filipiaków	Filipiak	subst:pl:gen:m1	nazwisko	
 Filipiaku	Filipiak	subst:sg:loc:m1	nazwisko	
 Filipiaku	Filipiak	subst:sg:voc:m1	nazwisko	
+Filipianach	Filipianin	subst:pl:loc:m1	pospolita	
+Filipianami	Filipianin	subst:pl:inst:m1	pospolita	
+Filipian	Filipianin	subst:pl:acc:m1	pospolita	
+Filipian	Filipianin	subst:pl:gen:m1	pospolita	
+Filipianie	Filipianin	subst:pl:nom:m1	pospolita	
+Filipianie	Filipianin	subst:pl:voc:m1	pospolita	
+Filipianina	Filipianin	subst:sg:acc:m1	pospolita	
+Filipianina	Filipianin	subst:sg:gen:m1	pospolita	
+Filipianinem	Filipianin	subst:sg:inst:m1	pospolita	
+Filipianin	Filipianin	subst:sg:nom:m1	pospolita	
+Filipianinie	Filipianin	subst:sg:loc:m1	pospolita	
+Filipianinie	Filipianin	subst:sg:voc:m1	pospolita	
+Filipianinowi	Filipianin	subst:sg:dat:m1	pospolita	
+Filipianom	Filipianin	subst:pl:dat:m1	pospolita	
+Filipiany	Filipianin	depr:pl:nom:m2	pospolita	
+Filipiany	Filipianin	depr:pl:voc:m2	pospolita	
 Filipinach	Filipina	subst:pl:loc:f	imię	
 Filipina	Filipina	subst:sg:nom:f	imię	
 Filipinami	Filipina	subst:pl:inst:f	imię	
@@ -2000,6 +2016,21 @@ Fitzgeraldy	Fitzgerald	depr:pl:nom:m2	nazwisko
 Fitzgeraldy	Fitzgerald	depr:pl:voc:m2	nazwisko	
 Fitzgeraldzie	Fitzgerald	subst:sg:loc:m1	nazwisko	
 Fitzgeraldzie	Fitzgerald	subst:sg:voc:m1	nazwisko	
+Fiziach	Fizia	subst:pl:loc:f	imię	lit.
+Fizia	Fizia	subst:sg:nom:f	imię	lit.
+Fiziami	Fizia	subst:pl:inst:f	imię	lit.
+Fizią	Fizia	subst:sg:inst:f	imię	lit.
+Fizie	Fizia	subst:pl:acc:f	imię	lit.
+Fizie	Fizia	subst:pl:nom:f	imię	lit.
+Fizie	Fizia	subst:pl:voc:f	imię	lit.
+Fizię	Fizia	subst:sg:acc:f	imię	lit.
+Fizi	Fizia	subst:pl:gen:f	imię	hom.|lit.
+Fizi	Fizia	subst:sg:dat:f	imię	lit.
+Fizi	Fizia	subst:sg:gen:f	imię	lit.
+Fizi	Fizia	subst:sg:loc:f	imię	lit.
+Fiziom	Fizia	subst:pl:dat:f	imię	lit.
+Fiziu	Fizia	subst:sg:voc:f	imię	lit.
+Fiź	Fizia	subst:pl:gen:f	imię	char.|lit.
 FK	FK	subst:pl:acc:f	organizacja	
 FK	FK	subst:pl:dat:f	organizacja	
 FK	FK	subst:pl:gen:f	organizacja	
@@ -2247,6 +2278,22 @@ Florczaków	Florczak	subst:pl:acc:m1	nazwisko
 Florczaków	Florczak	subst:pl:gen:m1	nazwisko	
 Florczaku	Florczak	subst:sg:loc:m1	nazwisko	
 Florczaku	Florczak	subst:sg:voc:m1	nazwisko	
+Florek	Florek	subst:sg:nom:m1	imię	
+Florkach	Florek	subst:pl:loc:m1	imię	
+Florka	Florek	subst:sg:acc:m1	imię	
+Florka	Florek	subst:sg:gen:m1	imię	
+Florkami	Florek	subst:pl:inst:m1	imię	
+Florkiem	Florek	subst:sg:inst:m1	imię	
+Florki	Florek	depr:pl:nom:m2	imię	
+Florki	Florek	depr:pl:voc:m2	imię	
+Florkom	Florek	subst:pl:dat:m1	imię	
+Florkowie	Florek	subst:pl:nom:m1	imię	
+Florkowie	Florek	subst:pl:voc:m1	imię	
+Florkowi	Florek	subst:sg:dat:m1	imię	
+Florków	Florek	subst:pl:acc:m1	imię	
+Florków	Florek	subst:pl:gen:m1	imię	
+Florku	Florek	subst:sg:loc:m1	imię	
+Florku	Florek	subst:sg:voc:m1	imię	
 Florencjach	Florencja	subst:pl:loc:f	geograficzna	
 Florencja	Florencja	subst:sg:nom:f	geograficzna	
 Florencjami	Florencja	subst:pl:inst:f	geograficzna	

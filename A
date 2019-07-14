@@ -7187,20 +7187,6 @@ Armenii	Armenia	subst:sg:loc:f	geograficzna
 Armenij	Armenia	subst:pl:gen:f	geograficzna	arch.|char.
 Armenio	Armenia	subst:sg:voc:f	geograficzna	
 Armeniom	Armenia	subst:pl:dat:f	geograficzna	
-Armence	Armenka	subst:sg:dat:f	pospolita	
-Armence	Armenka	subst:sg:loc:f	pospolita	
-Armenek	Armenka	subst:pl:gen:f	pospolita	
-Armenka	Armenka	subst:sg:nom:f	pospolita	
-Armenkach	Armenka	subst:pl:loc:f	pospolita	
-Armenkami	Armenka	subst:pl:inst:f	pospolita	
-Armenką	Armenka	subst:sg:inst:f	pospolita	
-Armenkę	Armenka	subst:sg:acc:f	pospolita	
-Armenki	Armenka	subst:pl:acc:f	pospolita	
-Armenki	Armenka	subst:pl:nom:f	pospolita	
-Armenki	Armenka	subst:pl:voc:f	pospolita	
-Armenki	Armenka	subst:sg:gen:f	pospolita	
-Armenko	Armenka	subst:sg:voc:f	pospolita	
-Armenkom	Armenka	subst:pl:dat:f	pospolita	
 Armeńczycy	Armeńczyk	subst:pl:nom:m1	pospolita	
 Armeńczycy	Armeńczyk	subst:pl:voc:m1	pospolita	
 Armeńczyka	Armeńczyk	subst:sg:acc:m1	pospolita	
@@ -7640,6 +7626,20 @@ Asię	Asia	subst:sg:acc:f	imię
 Asiom	Asia	subst:pl:dat:f	imię	
 Asiu	Asia	subst:sg:voc:f	imię	
 Aś	Asia	subst:pl:gen:f	imię	char.
+Askalonach	Askalon	subst:pl:loc:m3	geograficzna	
+Askalonami	Askalon	subst:pl:inst:m3	geograficzna	
+Askalon	Askalon	subst:sg:acc:m3	geograficzna	
+Askalon	Askalon	subst:sg:nom:m3	geograficzna	
+Askalonem	Askalon	subst:sg:inst:m3	geograficzna	
+Askalonie	Askalon	subst:sg:loc:m3	geograficzna	
+Askalonie	Askalon	subst:sg:voc:m3	geograficzna	
+Askalonom	Askalon	subst:pl:dat:m3	geograficzna	
+Askalonowi	Askalon	subst:sg:dat:m3	geograficzna	
+Askalonów	Askalon	subst:pl:gen:m3	geograficzna	
+Askalonu	Askalon	subst:sg:gen:m3	geograficzna	
+Askalony	Askalon	subst:pl:acc:m3	geograficzna	
+Askalony	Askalon	subst:pl:nom:m3	geograficzna	
+Askalony	Askalon	subst:pl:voc:m3	geograficzna	
 Askaniusza	Askaniusz	subst:sg:acc:m1	imię	
 Askaniusza	Askaniusz	subst:sg:gen:m1	imię	
 Askaniuszach	Askaniusz	subst:pl:loc:m1	imię	
@@ -7922,6 +7922,20 @@ Asyżu	Asyż	subst:sg:gen:m3	geograficzna
 Asyżu	Asyż	subst:sg:loc:m3	geograficzna	
 Asyżu	Asyż	subst:sg:voc:m3	geograficzna	
 Asyży	Asyż	subst:pl:gen:m3	geograficzna	
+Aszkelonach	Aszkelon	subst:pl:loc:m3	geograficzna	
+Aszkelonami	Aszkelon	subst:pl:inst:m3	geograficzna	
+Aszkelon	Aszkelon	subst:sg:acc:m3	geograficzna	
+Aszkelon	Aszkelon	subst:sg:nom:m3	geograficzna	
+Aszkelonem	Aszkelon	subst:sg:inst:m3	geograficzna	
+Aszkelonie	Aszkelon	subst:sg:loc:m3	geograficzna	
+Aszkelonie	Aszkelon	subst:sg:voc:m3	geograficzna	
+Aszkelonom	Aszkelon	subst:pl:dat:m3	geograficzna	
+Aszkelonowi	Aszkelon	subst:sg:dat:m3	geograficzna	
+Aszkelonów	Aszkelon	subst:pl:gen:m3	geograficzna	
+Aszkelonu	Aszkelon	subst:sg:gen:m3	geograficzna	
+Aszkelony	Aszkelon	subst:pl:acc:m3	geograficzna	
+Aszkelony	Aszkelon	subst:pl:nom:m3	geograficzna	
+Aszkelony	Aszkelon	subst:pl:voc:m3	geograficzna	
 Aszura	Aszura	subst:sg:nom:f	święto	rel.
 Aszurach	Aszura	subst:pl:loc:f	święto	rel.
 Aszurami	Aszura	subst:pl:inst:f	święto	rel.

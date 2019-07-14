@@ -43,6 +43,30 @@ quadowcy	quadowiec	subst:pl:nom:m1	pospolita
 quadowcy	quadowiec	subst:pl:voc:m1	pospolita	
 quadowcze	quadowiec	subst:sg:voc:m1	pospolita	
 quadowiec	quadowiec	subst:sg:nom:m1	pospolita	
+quadowa	quadowy	adj:sg:nom.voc:f:pos		
+quadową	quadowy	adj:sg:acc:f:pos		
+quadową	quadowy	adj:sg:inst:f:pos		
+quadowego	quadowy	adj:sg:acc:m1.m2:pos		
+quadowego	quadowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+quadowej	quadowy	adj:sg:dat:f:pos		
+quadowej	quadowy	adj:sg:gen:f:pos		
+quadowej	quadowy	adj:sg:loc:f:pos		
+quadowemu	quadowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+quadowe	quadowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+quadowe	quadowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+quadowe	quadowy	adj:sg:acc:n1.n2:pos		
+quadowe	quadowy	adj:sg:nom.voc:n1.n2:pos		
+quadowi	quadowy	adj:pl:nom.voc:m1.p1:pos		
+quadowo	quadowy	adja		
+quadowych	quadowy	adj:pl:acc:m1.p1:pos		
+quadowych	quadowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+quadowych	quadowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+quadowymi	quadowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+quadowym	quadowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+quadowym	quadowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+quadowym	quadowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+quadowy	quadowy	adj:sg:acc:m3:pos		
+quadowy	quadowy	adj:sg:nom.voc:m1.m2.m3:pos		
 quadriennale	quadriennale	subst:pl:acc:n2	pospolita	
 quadriennale	quadriennale	subst:pl:dat:n2	pospolita	
 quadriennale	quadriennale	subst:pl:gen:n2	pospolita	

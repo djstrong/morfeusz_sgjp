@@ -5454,6 +5454,22 @@ Białołęki	Białołęka	subst:pl:voc:f	geograficzna
 Białołęki	Białołęka	subst:sg:gen:f	geograficzna	
 Białołęko	Białołęka	subst:sg:voc:f	geograficzna	
 Białołękom	Białołęka	subst:pl:dat:f	geograficzna	
+Białorusa	Białorus	subst:sg:acc:m1	pospolita	rzad.
+Białorusa	Białorus	subst:sg:gen:m1	pospolita	rzad.
+Białorusach	Białorus	subst:pl:loc:m1	pospolita	rzad.
+Białorusami	Białorus	subst:pl:inst:m1	pospolita	rzad.
+Białorus	Białorus	subst:sg:nom:m1	pospolita	rzad.
+Białorusem	Białorus	subst:sg:inst:m1	pospolita	rzad.
+Białorusie	Białorus	subst:sg:loc:m1	pospolita	rzad.
+Białorusie	Białorus	subst:sg:voc:m1	pospolita	rzad.
+Białorusom	Białorus	subst:pl:dat:m1	pospolita	rzad.
+Białorusowi	Białorus	subst:sg:dat:m1	pospolita	rzad.
+Białorusowie	Białorus	subst:pl:nom:m1	pospolita	rzad.
+Białorusowie	Białorus	subst:pl:voc:m1	pospolita	rzad.
+Białorusów	Białorus	subst:pl:acc:m1	pospolita	rzad.
+Białorusów	Białorus	subst:pl:gen:m1	pospolita	rzad.
+Białorusy	Białorus	depr:pl:nom:m2	pospolita	rzad.
+Białorusy	Białorus	depr:pl:voc:m2	pospolita	rzad.
 Białorusina	Białorusin	subst:sg:acc:m1	pospolita	
 Białorusina	Białorusin	subst:sg:gen:m1	pospolita	
 Białorusinach	Białorusin	subst:pl:loc:m1	pospolita	
@@ -13011,6 +13027,20 @@ Buszmenów	Buszmen	subst:pl:acc:m1	pospolita
 Buszmenów	Buszmen	subst:pl:gen:m1	pospolita	
 Buszmeny	Buszmen	depr:pl:nom:m2	pospolita	
 Buszmeny	Buszmen	depr:pl:voc:m2	pospolita	
+Buszmence	Buszmenka	subst:sg:dat:f	pospolita	
+Buszmence	Buszmenka	subst:sg:loc:f	pospolita	
+Buszmenek	Buszmenka	subst:pl:gen:f	pospolita	
+Buszmenka	Buszmenka	subst:sg:nom:f	pospolita	
+Buszmenkach	Buszmenka	subst:pl:loc:f	pospolita	
+Buszmenkami	Buszmenka	subst:pl:inst:f	pospolita	
+Buszmenką	Buszmenka	subst:sg:inst:f	pospolita	
+Buszmenkę	Buszmenka	subst:sg:acc:f	pospolita	
+Buszmenki	Buszmenka	subst:pl:acc:f	pospolita	
+Buszmenki	Buszmenka	subst:pl:nom:f	pospolita	
+Buszmenki	Buszmenka	subst:pl:voc:f	pospolita	
+Buszmenki	Buszmenka	subst:sg:gen:f	pospolita	
+Buszmenko	Buszmenka	subst:sg:voc:f	pospolita	
+Buszmenkom	Buszmenka	subst:pl:dat:f	pospolita	
 Butrosa	Butros	subst:sg:acc:m1	imię	
 Butrosa	Butros	subst:sg:gen:m1	imię	
 Butrosach	Butros	subst:pl:loc:m1	imię	
