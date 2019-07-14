@@ -58615,6 +58615,7 @@ funkcjonariuszem	funkcjonariusz	subst:sg:inst:m1	nazwa pospolita
 funkcjonariusz	funkcjonariusz	subst:sg:nom:m1	nazwa pospolita	
 funkcjonariuszom	funkcjonariusz	subst:pl:dat:m1	nazwa pospolita	
 funkcjonariuszowi	funkcjonariusz	subst:sg:dat:m1	nazwa pospolita	
+funkcjonariuszów	funkcjonariusz	subst:pl:gen.acc:m1	nazwa pospolita	
 funkcjonariuszu	funkcjonariusz	subst:sg:loc:m1	nazwa pospolita	
 funkcjonariuszu	funkcjonariusz	subst:sg:voc:m1	nazwa pospolita	
 funkcjonariuszy	funkcjonariusz	subst:pl:gen.acc:m1	nazwa pospolita	
