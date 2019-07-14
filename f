@@ -36771,6 +36771,45 @@ flamastry	flamaster	subst:pl:nom:m3	pospolita
 flamastry	flamaster	subst:pl:voc:m3	pospolita	
 flamastrze	flamaster	subst:sg:loc:m3	pospolita	
 flamastrze	flamaster	subst:sg:voc:m3	pospolita	
+flamastrowo	flamastrowo	adv:pos		
+flamastrowościach	flamastrowość	subst:pl:loc:f		
+flamastrowościami	flamastrowość	subst:pl:inst:f		
+flamastrowością	flamastrowość	subst:sg:inst:f		
+flamastrowości	flamastrowość	subst:pl:acc:f		
+flamastrowości	flamastrowość	subst:pl:gen:f		
+flamastrowości	flamastrowość	subst:pl:nom:f		
+flamastrowości	flamastrowość	subst:pl:voc:f		
+flamastrowości	flamastrowość	subst:sg:dat:f		
+flamastrowości	flamastrowość	subst:sg:gen:f		
+flamastrowości	flamastrowość	subst:sg:loc:f		
+flamastrowości	flamastrowość	subst:sg:voc:f		
+flamastrowościom	flamastrowość	subst:pl:dat:f		
+flamastrowość	flamastrowość	subst:sg:acc:f		
+flamastrowość	flamastrowość	subst:sg:nom:f		
+flamastrowa	flamastrowy	adj:sg:nom.voc:f:pos		
+flamastrową	flamastrowy	adj:sg:acc:f:pos		
+flamastrową	flamastrowy	adj:sg:inst:f:pos		
+flamastrowe	flamastrowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+flamastrowe	flamastrowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+flamastrowe	flamastrowy	adj:sg:acc:n1.n2:pos		
+flamastrowe	flamastrowy	adj:sg:nom.voc:n1.n2:pos		
+flamastrowego	flamastrowy	adj:sg:acc:m1.m2:pos		
+flamastrowego	flamastrowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+flamastrowej	flamastrowy	adj:sg:dat:f:pos		
+flamastrowej	flamastrowy	adj:sg:gen:f:pos		
+flamastrowej	flamastrowy	adj:sg:loc:f:pos		
+flamastrowemu	flamastrowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+flamastrowi	flamastrowy	adj:pl:nom.voc:m1.p1:pos		
+flamastrowo	flamastrowy	adja		
+flamastrowych	flamastrowy	adj:pl:acc:m1.p1:pos		
+flamastrowych	flamastrowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+flamastrowych	flamastrowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+flamastrowy	flamastrowy	adj:sg:acc:m3:pos		
+flamastrowy	flamastrowy	adj:sg:nom.voc:m1.m2.m3:pos		
+flamastrowym	flamastrowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+flamastrowym	flamastrowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+flamastrowym	flamastrowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+flamastrowymi	flamastrowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 flamboyancie	flamboyant	subst:sg:loc:m3	pospolita	
 flamboyancie	flamboyant	subst:sg:voc:m3	pospolita	
 flamboyantach	flamboyant	subst:pl:loc:m3	pospolita	

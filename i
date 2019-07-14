@@ -10347,6 +10347,30 @@ immobilizujesz	immobilizować	fin:sg:sec:imperf
 immobilizuję	immobilizować	fin:sg:pri:imperf		
 immobilizuj	immobilizować	impt:sg:sec:imperf		
 immobilizujmy	immobilizować	impt:pl:pri:imperf		
+immobilna	immobilny	adj:sg:nom.voc:f:pos		
+immobilną	immobilny	adj:sg:acc:f:pos		
+immobilną	immobilny	adj:sg:inst:f:pos		
+immobilnego	immobilny	adj:sg:acc:m1.m2:pos		
+immobilnego	immobilny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+immobilne	immobilny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+immobilne	immobilny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+immobilne	immobilny	adj:sg:acc:n1.n2:pos		
+immobilne	immobilny	adj:sg:nom.voc:n1.n2:pos		
+immobilnej	immobilny	adj:sg:dat:f:pos		
+immobilnej	immobilny	adj:sg:gen:f:pos		
+immobilnej	immobilny	adj:sg:loc:f:pos		
+immobilnemu	immobilny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+immobilni	immobilny	adj:pl:nom.voc:m1.p1:pos		
+immobilno	immobilny	adja		
+immobilnych	immobilny	adj:pl:acc:m1.p1:pos		
+immobilnych	immobilny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+immobilnych	immobilny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+immobilny	immobilny	adj:sg:acc:m3:pos		
+immobilny	immobilny	adj:sg:nom.voc:m1.m2.m3:pos		
+immobilnymi	immobilny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+immobilnym	immobilny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+immobilnym	immobilny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+immobilnym	immobilny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 immoralistach	immoralista	subst:pl:loc:m1	pospolita	
 immoralista	immoralista	subst:sg:nom:m1	pospolita	
 immoralistami	immoralista	subst:pl:inst:m1	pospolita	
@@ -10750,6 +10774,45 @@ immunogenetyki	immunogenetyka	subst:sg:gen:f	pospolita
 immunogenetyk	immunogenetyka	subst:pl:gen:f	pospolita	
 immunogenetyko	immunogenetyka	subst:sg:voc:f	pospolita	
 immunogenetykom	immunogenetyka	subst:pl:dat:f	pospolita	
+immunogennie	immunogennie	adv:pos		
+immunogennościach	immunogenność	subst:pl:loc:f		
+immunogennościami	immunogenność	subst:pl:inst:f		
+immunogennością	immunogenność	subst:sg:inst:f		
+immunogenności	immunogenność	subst:pl:acc:f		
+immunogenności	immunogenność	subst:pl:gen:f		
+immunogenności	immunogenność	subst:pl:nom:f		
+immunogenności	immunogenność	subst:pl:voc:f		
+immunogenności	immunogenność	subst:sg:dat:f		
+immunogenności	immunogenność	subst:sg:gen:f		
+immunogenności	immunogenność	subst:sg:loc:f		
+immunogenności	immunogenność	subst:sg:voc:f		
+immunogennościom	immunogenność	subst:pl:dat:f		
+immunogenność	immunogenność	subst:sg:acc:f		
+immunogenność	immunogenność	subst:sg:nom:f		
+immunogenna	immunogenny	adj:sg:nom.voc:f:pos		
+immunogenną	immunogenny	adj:sg:acc:f:pos		
+immunogenną	immunogenny	adj:sg:inst:f:pos		
+immunogennego	immunogenny	adj:sg:acc:m1.m2:pos		
+immunogennego	immunogenny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+immunogenne	immunogenny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+immunogenne	immunogenny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+immunogenne	immunogenny	adj:sg:acc:n1.n2:pos		
+immunogenne	immunogenny	adj:sg:nom.voc:n1.n2:pos		
+immunogennej	immunogenny	adj:sg:dat:f:pos		
+immunogennej	immunogenny	adj:sg:gen:f:pos		
+immunogennej	immunogenny	adj:sg:loc:f:pos		
+immunogennemu	immunogenny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+immunogenni	immunogenny	adj:pl:nom.voc:m1.p1:pos		
+immunogenno	immunogenny	adja		
+immunogennych	immunogenny	adj:pl:acc:m1.p1:pos		
+immunogennych	immunogenny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+immunogennych	immunogenny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+immunogenny	immunogenny	adj:sg:acc:m3:pos		
+immunogenny	immunogenny	adj:sg:nom.voc:m1.m2.m3:pos		
+immunogennymi	immunogenny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+immunogennym	immunogenny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+immunogennym	immunogenny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+immunogennym	immunogenny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 immunoglobinach	immunoglobina	subst:pl:loc:f	pospolita	
 immunoglobina	immunoglobina	subst:sg:nom:f	pospolita	
 immunoglobinami	immunoglobina	subst:pl:inst:f	pospolita	
@@ -38266,6 +38329,45 @@ inwentury	inwentura	subst:pl:voc:f	pospolita
 inwentury	inwentura	subst:sg:gen:f	pospolita	
 inwenturze	inwentura	subst:sg:dat:f	pospolita	
 inwenturze	inwentura	subst:sg:loc:f	pospolita	
+inwentycznie	inwentycznie	adv:pos		
+inwentycznościach	inwentyczność	subst:pl:loc:f		
+inwentycznościami	inwentyczność	subst:pl:inst:f		
+inwentycznością	inwentyczność	subst:sg:inst:f		
+inwentyczności	inwentyczność	subst:pl:acc:f		
+inwentyczności	inwentyczność	subst:pl:gen:f		
+inwentyczności	inwentyczność	subst:pl:nom:f		
+inwentyczności	inwentyczność	subst:pl:voc:f		
+inwentyczności	inwentyczność	subst:sg:dat:f		
+inwentyczności	inwentyczność	subst:sg:gen:f		
+inwentyczności	inwentyczność	subst:sg:loc:f		
+inwentyczności	inwentyczność	subst:sg:voc:f		
+inwentycznościom	inwentyczność	subst:pl:dat:f		
+inwentyczność	inwentyczność	subst:sg:acc:f		
+inwentyczność	inwentyczność	subst:sg:nom:f		
+inwentyczna	inwentyczny	adj:sg:nom.voc:f:pos		
+inwentyczną	inwentyczny	adj:sg:acc:f:pos		
+inwentyczną	inwentyczny	adj:sg:inst:f:pos		
+inwentycznego	inwentyczny	adj:sg:acc:m1.m2:pos		
+inwentycznego	inwentyczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+inwentyczne	inwentyczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+inwentyczne	inwentyczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+inwentyczne	inwentyczny	adj:sg:acc:n1.n2:pos		
+inwentyczne	inwentyczny	adj:sg:nom.voc:n1.n2:pos		
+inwentycznej	inwentyczny	adj:sg:dat:f:pos		
+inwentycznej	inwentyczny	adj:sg:gen:f:pos		
+inwentycznej	inwentyczny	adj:sg:loc:f:pos		
+inwentycznemu	inwentyczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+inwentyczni	inwentyczny	adj:pl:nom.voc:m1.p1:pos		
+inwentyczno	inwentyczny	adja		
+inwentycznych	inwentyczny	adj:pl:acc:m1.p1:pos		
+inwentycznych	inwentyczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+inwentycznych	inwentyczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+inwentyczny	inwentyczny	adj:sg:acc:m3:pos		
+inwentyczny	inwentyczny	adj:sg:nom.voc:m1.m2.m3:pos		
+inwentycznymi	inwentyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+inwentycznym	inwentyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+inwentycznym	inwentyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+inwentycznym	inwentyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 inwentyce	inwentyka	subst:sg:dat:f	pospolita	
 inwentyce	inwentyka	subst:sg:loc:f	pospolita	
 inwentykach	inwentyka	subst:pl:loc:f	pospolita	

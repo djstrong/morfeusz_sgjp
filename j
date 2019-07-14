@@ -26224,6 +26224,31 @@ jehowów	jehowa	subst:pl:gen:m1	pospolita	pot.|lekcew.
 jehowy	jehowa	depr:pl:nom:m2	pospolita	pot.|lekcew.
 jehowy	jehowa	depr:pl:voc:m2	pospolita	pot.|lekcew.
 jehowy	jehowa	subst:sg:gen:m1	pospolita	pot.|lekcew.
+jehowiccy	jehowicki	adj:pl:nom.voc:m1.p1:pos		
+jehowicka	jehowicki	adj:sg:nom.voc:f:pos		
+jehowicką	jehowicki	adj:sg:acc:f:pos		
+jehowicką	jehowicki	adj:sg:inst:f:pos		
+jehowickich	jehowicki	adj:pl:acc:m1.p1:pos		
+jehowickich	jehowicki	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+jehowickich	jehowicki	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+jehowickiego	jehowicki	adj:sg:acc:m1.m2:pos		
+jehowickiego	jehowicki	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+jehowickie	jehowicki	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+jehowickie	jehowicki	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+jehowickie	jehowicki	adj:sg:acc:n1.n2:pos		
+jehowickie	jehowicki	adj:sg:nom.voc:n1.n2:pos		
+jehowickiej	jehowicki	adj:sg:dat:f:pos		
+jehowickiej	jehowicki	adj:sg:gen:f:pos		
+jehowickiej	jehowicki	adj:sg:loc:f:pos		
+jehowickiemu	jehowicki	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+jehowicki	jehowicki	adj:sg:acc:m3:pos		
+jehowicki	jehowicki	adj:sg:nom.voc:m1.m2.m3:pos		
+jehowickimi	jehowicki	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+jehowickim	jehowicki	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+jehowickim	jehowicki	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+jehowickim	jehowicki	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+jehowicko	jehowicki	adja		
+jehowicku	jehowicki	adjp		
 jehowicie	jehowita	subst:sg:dat:m1	pospolita	
 jehowicie	jehowita	subst:sg:loc:m1	pospolita	
 jehowici	jehowita	subst:pl:nom:m1	pospolita	
@@ -27324,6 +27349,45 @@ jełopki	jełopka	subst:pl:voc:f	pospolita	pogard.
 jełopki	jełopka	subst:sg:gen:f	pospolita	pogard.
 jełopko	jełopka	subst:sg:voc:f	pospolita	pogard.
 jełopkom	jełopka	subst:pl:dat:f	pospolita	pogard.
+jełopowato	jełopowato	adv:pos		
+jełopowatościach	jełopowatość	subst:pl:loc:f		
+jełopowatościami	jełopowatość	subst:pl:inst:f		
+jełopowatością	jełopowatość	subst:sg:inst:f		
+jełopowatości	jełopowatość	subst:pl:acc:f		
+jełopowatości	jełopowatość	subst:pl:gen:f		
+jełopowatości	jełopowatość	subst:pl:nom:f		
+jełopowatości	jełopowatość	subst:pl:voc:f		
+jełopowatości	jełopowatość	subst:sg:dat:f		
+jełopowatości	jełopowatość	subst:sg:gen:f		
+jełopowatości	jełopowatość	subst:sg:loc:f		
+jełopowatości	jełopowatość	subst:sg:voc:f		
+jełopowatościom	jełopowatość	subst:pl:dat:f		
+jełopowatość	jełopowatość	subst:sg:acc:f		
+jełopowatość	jełopowatość	subst:sg:nom:f		
+jełopowaci	jełopowaty	adj:pl:nom.voc:m1.p1:pos		
+jełopowata	jełopowaty	adj:sg:nom.voc:f:pos		
+jełopowatą	jełopowaty	adj:sg:acc:f:pos		
+jełopowatą	jełopowaty	adj:sg:inst:f:pos		
+jełopowatego	jełopowaty	adj:sg:acc:m1.m2:pos		
+jełopowatego	jełopowaty	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+jełopowate	jełopowaty	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+jełopowate	jełopowaty	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+jełopowate	jełopowaty	adj:sg:acc:n1.n2:pos		
+jełopowate	jełopowaty	adj:sg:nom.voc:n1.n2:pos		
+jełopowatej	jełopowaty	adj:sg:dat:f:pos		
+jełopowatej	jełopowaty	adj:sg:gen:f:pos		
+jełopowatej	jełopowaty	adj:sg:loc:f:pos		
+jełopowatemu	jełopowaty	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+jełopowato	jełopowaty	adja		
+jełopowatych	jełopowaty	adj:pl:acc:m1.p1:pos		
+jełopowatych	jełopowaty	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+jełopowatych	jełopowaty	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+jełopowaty	jełopowaty	adj:sg:acc:m3:pos		
+jełopowaty	jełopowaty	adj:sg:nom.voc:m1.m2.m3:pos		
+jełopowatymi	jełopowaty	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+jełopowatym	jełopowaty	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+jełopowatym	jełopowaty	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+jełopowatym	jełopowaty	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 jemeńscy	jemeński	adj:pl:nom.voc:m1.p1:pos		
 jemeńska	jemeński	adj:sg:nom.voc:f:pos		
 jemeńską	jemeński	adj:sg:acc:f:pos		

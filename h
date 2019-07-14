@@ -3509,6 +3509,30 @@ hallotronowym	hallotronowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 hallotronowym	hallotronowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 hallotronowym	hallotronowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 hallotronowymi	hallotronowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+halloweenowa	halloweenowy	adj:sg:nom.voc:f:pos		
+halloweenową	halloweenowy	adj:sg:acc:f:pos		
+halloweenową	halloweenowy	adj:sg:inst:f:pos		
+halloweenowego	halloweenowy	adj:sg:acc:m1.m2:pos		
+halloweenowego	halloweenowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+halloweenowe	halloweenowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+halloweenowe	halloweenowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+halloweenowe	halloweenowy	adj:sg:acc:n1.n2:pos		
+halloweenowe	halloweenowy	adj:sg:nom.voc:n1.n2:pos		
+halloweenowej	halloweenowy	adj:sg:dat:f:pos		
+halloweenowej	halloweenowy	adj:sg:gen:f:pos		
+halloweenowej	halloweenowy	adj:sg:loc:f:pos		
+halloweenowemu	halloweenowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+halloweenowi	halloweenowy	adj:pl:nom.voc:m1.p1:pos		
+halloweenowo	halloweenowy	adja		
+halloweenowych	halloweenowy	adj:pl:acc:m1.p1:pos		
+halloweenowych	halloweenowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+halloweenowych	halloweenowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+halloweenowy	halloweenowy	adj:sg:acc:m3:pos		
+halloweenowy	halloweenowy	adj:sg:nom.voc:m1.m2.m3:pos		
+halloweenowym	halloweenowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+halloweenowym	halloweenowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+halloweenowym	halloweenowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+halloweenowymi	halloweenowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 halluksach	halluks	subst:pl:loc:m2	pospolita	
 halluksach	halluks	subst:pl:loc:m3	pospolita	
 halluksa	halluks	subst:sg:acc:m2	pospolita	
@@ -29143,6 +29167,45 @@ hipnozy	hipnoza	subst:pl:acc:f	pospolita
 hipnozy	hipnoza	subst:pl:nom:f	pospolita	
 hipnozy	hipnoza	subst:pl:voc:f	pospolita	
 hipnozy	hipnoza	subst:sg:gen:f	pospolita	
+hipoalergicznie	hipoalergicznie	adv:pos		
+hipoalergicznościach	hipoalergiczność	subst:pl:loc:f		
+hipoalergicznościami	hipoalergiczność	subst:pl:inst:f		
+hipoalergicznością	hipoalergiczność	subst:sg:inst:f		
+hipoalergiczności	hipoalergiczność	subst:pl:acc:f		
+hipoalergiczności	hipoalergiczność	subst:pl:gen:f		
+hipoalergiczności	hipoalergiczność	subst:pl:nom:f		
+hipoalergiczności	hipoalergiczność	subst:pl:voc:f		
+hipoalergiczności	hipoalergiczność	subst:sg:dat:f		
+hipoalergiczności	hipoalergiczność	subst:sg:gen:f		
+hipoalergiczności	hipoalergiczność	subst:sg:loc:f		
+hipoalergiczności	hipoalergiczność	subst:sg:voc:f		
+hipoalergicznościom	hipoalergiczność	subst:pl:dat:f		
+hipoalergiczność	hipoalergiczność	subst:sg:acc:f		
+hipoalergiczność	hipoalergiczność	subst:sg:nom:f		
+hipoalergiczna	hipoalergiczny	adj:sg:nom.voc:f:pos		
+hipoalergiczną	hipoalergiczny	adj:sg:acc:f:pos		
+hipoalergiczną	hipoalergiczny	adj:sg:inst:f:pos		
+hipoalergicznego	hipoalergiczny	adj:sg:acc:m1.m2:pos		
+hipoalergicznego	hipoalergiczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+hipoalergiczne	hipoalergiczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+hipoalergiczne	hipoalergiczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+hipoalergiczne	hipoalergiczny	adj:sg:acc:n1.n2:pos		
+hipoalergiczne	hipoalergiczny	adj:sg:nom.voc:n1.n2:pos		
+hipoalergicznej	hipoalergiczny	adj:sg:dat:f:pos		
+hipoalergicznej	hipoalergiczny	adj:sg:gen:f:pos		
+hipoalergicznej	hipoalergiczny	adj:sg:loc:f:pos		
+hipoalergicznemu	hipoalergiczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+hipoalergiczni	hipoalergiczny	adj:pl:nom.voc:m1.p1:pos		
+hipoalergiczno	hipoalergiczny	adja		
+hipoalergicznych	hipoalergiczny	adj:pl:acc:m1.p1:pos		
+hipoalergicznych	hipoalergiczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hipoalergicznych	hipoalergiczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hipoalergiczny	hipoalergiczny	adj:sg:acc:m3:pos		
+hipoalergiczny	hipoalergiczny	adj:sg:nom.voc:m1.m2.m3:pos		
+hipoalergicznym	hipoalergiczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hipoalergicznym	hipoalergiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+hipoalergicznym	hipoalergiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+hipoalergicznymi	hipoalergiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 hipocentaurach	hipocentaur	subst:pl:loc:m2	pospolita	
 hipocentaura	hipocentaur	subst:sg:acc:m2	pospolita	
 hipocentaura	hipocentaur	subst:sg:gen:m2	pospolita	
@@ -30682,6 +30745,45 @@ hipotermii	hipotermia	subst:sg:loc:f	pospolita
 hipotermij	hipotermia	subst:pl:gen:f	pospolita	arch.|char.
 hipotermio	hipotermia	subst:sg:voc:f	pospolita	
 hipotermiom	hipotermia	subst:pl:dat:f	pospolita	
+hipotermicznie	hipotermicznie	adv:pos		
+hipotermicznościach	hipotermiczność	subst:pl:loc:f		
+hipotermicznościami	hipotermiczność	subst:pl:inst:f		
+hipotermicznością	hipotermiczność	subst:sg:inst:f		
+hipotermiczności	hipotermiczność	subst:pl:acc:f		
+hipotermiczności	hipotermiczność	subst:pl:gen:f		
+hipotermiczności	hipotermiczność	subst:pl:nom:f		
+hipotermiczności	hipotermiczność	subst:pl:voc:f		
+hipotermiczności	hipotermiczność	subst:sg:dat:f		
+hipotermiczności	hipotermiczność	subst:sg:gen:f		
+hipotermiczności	hipotermiczność	subst:sg:loc:f		
+hipotermiczności	hipotermiczność	subst:sg:voc:f		
+hipotermicznościom	hipotermiczność	subst:pl:dat:f		
+hipotermiczność	hipotermiczność	subst:sg:acc:f		
+hipotermiczność	hipotermiczność	subst:sg:nom:f		
+hipotermiczna	hipotermiczny	adj:sg:nom.voc:f:pos		
+hipotermiczną	hipotermiczny	adj:sg:acc:f:pos		
+hipotermiczną	hipotermiczny	adj:sg:inst:f:pos		
+hipotermicznego	hipotermiczny	adj:sg:acc:m1.m2:pos		
+hipotermicznego	hipotermiczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+hipotermiczne	hipotermiczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+hipotermiczne	hipotermiczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+hipotermiczne	hipotermiczny	adj:sg:acc:n1.n2:pos		
+hipotermiczne	hipotermiczny	adj:sg:nom.voc:n1.n2:pos		
+hipotermicznej	hipotermiczny	adj:sg:dat:f:pos		
+hipotermicznej	hipotermiczny	adj:sg:gen:f:pos		
+hipotermicznej	hipotermiczny	adj:sg:loc:f:pos		
+hipotermicznemu	hipotermiczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+hipotermiczni	hipotermiczny	adj:pl:nom.voc:m1.p1:pos		
+hipotermiczno	hipotermiczny	adja		
+hipotermicznych	hipotermiczny	adj:pl:acc:m1.p1:pos		
+hipotermicznych	hipotermiczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hipotermicznych	hipotermiczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hipotermiczny	hipotermiczny	adj:sg:acc:m3:pos		
+hipotermiczny	hipotermiczny	adj:sg:nom.voc:m1.m2.m3:pos		
+hipotermicznym	hipotermiczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hipotermicznym	hipotermiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+hipotermicznym	hipotermiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+hipotermicznymi	hipotermiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 hipotetycznie	hipotetycznie	adv:pos		
 hipotetycznościach	hipotetyczność	subst:pl:loc:f		
 hipotetycznościami	hipotetyczność	subst:pl:inst:f		
@@ -39789,6 +39891,31 @@ horrory	horror	subst:pl:nom:m3	pospolita	daw.
 horrory	horror	subst:pl:voc:m3	pospolita	daw.
 horrorze	horror	subst:sg:loc:m3	pospolita	daw.
 horrorze	horror	subst:sg:voc:m3	pospolita	daw.
+horrorowo	horrorowo	adv:pos		
+horrorowa	horrorowy	adj:sg:nom.voc:f:pos		
+horrorową	horrorowy	adj:sg:acc:f:pos		
+horrorową	horrorowy	adj:sg:inst:f:pos		
+horrorowego	horrorowy	adj:sg:acc:m1.m2:pos		
+horrorowego	horrorowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+horrorowe	horrorowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+horrorowe	horrorowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+horrorowe	horrorowy	adj:sg:acc:n1.n2:pos		
+horrorowe	horrorowy	adj:sg:nom.voc:n1.n2:pos		
+horrorowej	horrorowy	adj:sg:dat:f:pos		
+horrorowej	horrorowy	adj:sg:gen:f:pos		
+horrorowej	horrorowy	adj:sg:loc:f:pos		
+horrorowemu	horrorowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+horrorowi	horrorowy	adj:pl:nom.voc:m1.p1:pos		
+horrorowo	horrorowy	adja		
+horrorowych	horrorowy	adj:pl:acc:m1.p1:pos		
+horrorowych	horrorowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+horrorowych	horrorowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+horrorowy	horrorowy	adj:sg:acc:m3:pos		
+horrorowy	horrorowy	adj:sg:nom.voc:m1.m2.m3:pos		
+horrorowym	horrorowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+horrorowym	horrorowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+horrorowym	horrorowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+horrorowymi	horrorowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 horstach	horst	subst:pl:loc:m3	pospolita	
 horstami	horst	subst:pl:inst:m3	pospolita	
 horstem	horst	subst:sg:inst:m3	pospolita	
@@ -42902,6 +43029,31 @@ huknieniom	huknienie	subst:pl:dat:n2	pospolita	daw.
 huknieniu	huknienie	subst:sg:dat:n2	pospolita	daw.
 huknieniu	huknienie	subst:sg:loc:n2	pospolita	daw.
 huknień	huknienie	subst:pl:gen:n2	pospolita	daw.
+hukowo	hukowo	adv:pos		
+hukowa	hukowy	adj:sg:nom.voc:f:pos		
+hukową	hukowy	adj:sg:acc:f:pos		
+hukową	hukowy	adj:sg:inst:f:pos		
+hukowego	hukowy	adj:sg:acc:m1.m2:pos		
+hukowego	hukowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+hukowe	hukowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+hukowe	hukowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+hukowe	hukowy	adj:sg:acc:n1.n2:pos		
+hukowe	hukowy	adj:sg:nom.voc:n1.n2:pos		
+hukowej	hukowy	adj:sg:dat:f:pos		
+hukowej	hukowy	adj:sg:gen:f:pos		
+hukowej	hukowy	adj:sg:loc:f:pos		
+hukowemu	hukowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+hukowi	hukowy	adj:pl:nom.voc:m1.p1:pos		
+hukowo	hukowy	adja		
+hukowych	hukowy	adj:pl:acc:m1.p1:pos		
+hukowych	hukowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hukowych	hukowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hukowy	hukowy	adj:sg:acc:m3:pos		
+hukowy	hukowy	adj:sg:nom.voc:m1.m2.m3:pos		
+hukowym	hukowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hukowym	hukowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+hukowym	hukowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+hukowymi	hukowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 hukslejowscy	hukslejowski	adj:pl:nom.voc:m1.p1:pos		
 hukslejowska	hukslejowski	adj:sg:nom.voc:f:pos		
 hukslejowską	hukslejowski	adj:sg:acc:f:pos		

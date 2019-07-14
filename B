@@ -6352,13 +6352,27 @@ Bizancjach	Bizancjum	subst:pl:loc:n2	geograficzna	hist.
 Bizancjami	Bizancjum	subst:pl:inst:n2	geograficzna	hist.
 Bizancjom	Bizancjum	subst:pl:dat:n2	geograficzna	hist.
 Bizancjów	Bizancjum	subst:pl:gen:n2	geograficzna	hist.
+Bizancjum	Bizancjum	subst:pl:acc:n2	geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:pl:dat:n2	geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:pl:gen:n2	geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:pl:inst:n2	geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:pl:loc:n2	geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:pl:nom:n2	geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:pl:voc:n2	geograficzna	rzad.|hist.
 Bizancjum	Bizancjum	subst:sg:acc:n2	geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:acc:n2	geograficzna	rzad.|hist.
 Bizancjum	Bizancjum	subst:sg:dat:n2	geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:dat:n2	geograficzna	rzad.|hist.
 Bizancjum	Bizancjum	subst:sg:gen:n2	geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:gen:n2	geograficzna	rzad.|hist.
 Bizancjum	Bizancjum	subst:sg:inst:n2	geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:inst:n2	geograficzna	rzad.|hist.
 Bizancjum	Bizancjum	subst:sg:loc:n2	geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:loc:n2	geograficzna	rzad.|hist.
 Bizancjum	Bizancjum	subst:sg:nom:n2	geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:nom:n2	geograficzna	rzad.|hist.
 Bizancjum	Bizancjum	subst:sg:voc:n2	geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:voc:n2	geograficzna	rzad.|hist.
 BJ	BJ	subst:pl:acc:f	instytucja	
 BJ	BJ	subst:pl:dat:f	instytucja	
 BJ	BJ	subst:pl:gen:f	instytucja	

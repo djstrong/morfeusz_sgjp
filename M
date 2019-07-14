@@ -11511,13 +11511,27 @@ Monachia	Monachium	subst:pl:nom:n2	geograficzna
 Monachia	Monachium	subst:pl:voc:n2	geograficzna	
 Monachiom	Monachium	subst:pl:dat:n2	geograficzna	
 Monachiów	Monachium	subst:pl:gen:n2	geograficzna	
+Monachium	Monachium	subst:pl:acc:n2	geograficzna	rzad.
+Monachium	Monachium	subst:pl:dat:n2	geograficzna	rzad.
+Monachium	Monachium	subst:pl:gen:n2	geograficzna	rzad.
+Monachium	Monachium	subst:pl:inst:n2	geograficzna	rzad.
+Monachium	Monachium	subst:pl:loc:n2	geograficzna	rzad.
+Monachium	Monachium	subst:pl:nom:n2	geograficzna	rzad.
+Monachium	Monachium	subst:pl:voc:n2	geograficzna	rzad.
 Monachium	Monachium	subst:sg:acc:n2	geograficzna	
+Monachium	Monachium	subst:sg:acc:n2	geograficzna	rzad.
 Monachium	Monachium	subst:sg:dat:n2	geograficzna	
+Monachium	Monachium	subst:sg:dat:n2	geograficzna	rzad.
 Monachium	Monachium	subst:sg:gen:n2	geograficzna	
+Monachium	Monachium	subst:sg:gen:n2	geograficzna	rzad.
 Monachium	Monachium	subst:sg:inst:n2	geograficzna	
+Monachium	Monachium	subst:sg:inst:n2	geograficzna	rzad.
 Monachium	Monachium	subst:sg:loc:n2	geograficzna	
+Monachium	Monachium	subst:sg:loc:n2	geograficzna	rzad.
 Monachium	Monachium	subst:sg:nom:n2	geograficzna	
+Monachium	Monachium	subst:sg:nom:n2	geograficzna	rzad.
 Monachium	Monachium	subst:sg:voc:n2	geograficzna	
+Monachium	Monachium	subst:sg:voc:n2	geograficzna	rzad.
 Monachomachiach	Monachomachia	subst:pl:loc:f	tytuł	lit.
 Monachomachiami	Monachomachia	subst:pl:inst:f	tytuł	lit.
 Monachomachia	Monachomachia	subst:sg:nom:f	tytuł	lit.
