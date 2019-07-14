@@ -1492,6 +1492,20 @@ jadłospisowymi	jadłospisowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jadłospisowym	jadłospisowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jadłospisowym	jadłospisowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jadłospisowym	jadłospisowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+jadłoszynach	jadłoszyn	subst:pl:loc:m3	nazwa pospolita	bot.
+jadłoszynami	jadłoszyn	subst:pl:inst:m3	nazwa pospolita	bot.
+jadłoszynem	jadłoszyn	subst:sg:inst:m3	nazwa pospolita	bot.
+jadłoszynie	jadłoszyn	subst:sg:loc:m3	nazwa pospolita	bot.
+jadłoszynie	jadłoszyn	subst:sg:voc:m3	nazwa pospolita	bot.
+jadłoszyn	jadłoszyn	subst:sg:acc:m3	nazwa pospolita	bot.
+jadłoszyn	jadłoszyn	subst:sg:nom:m3	nazwa pospolita	bot.
+jadłoszynom	jadłoszyn	subst:pl:dat:m3	nazwa pospolita	bot.
+jadłoszynowi	jadłoszyn	subst:sg:dat:m3	nazwa pospolita	bot.
+jadłoszynów	jadłoszyn	subst:pl:gen:m3	nazwa pospolita	bot.
+jadłoszynu	jadłoszyn	subst:sg:gen:m3	nazwa pospolita	bot.
+jadłoszyny	jadłoszyn	subst:pl:acc:m3	nazwa pospolita	bot.
+jadłoszyny	jadłoszyn	subst:pl:nom:m3	nazwa pospolita	bot.
+jadłoszyny	jadłoszyn	subst:pl:voc:m3	nazwa pospolita	bot.
 jadłowstręcie	jadłowstręt	subst:sg:loc:m3	nazwa pospolita	
 jadłowstręcie	jadłowstręt	subst:sg:voc:m3	nazwa pospolita	
 jadłowstrętach	jadłowstręt	subst:pl:loc:m3	nazwa pospolita	
