@@ -13271,17 +13271,6 @@ eksterytorialnym	eksterytorialny	adj:pl:dat:m1.m2.m3.f.n:pos
 eksterytorialnym	eksterytorialny	adj:sg:inst:m1.m2.m3.n:pos		
 eksterytorialnym	eksterytorialny	adj:sg:loc:m1.m2.m3.n:pos		
 eksterytorialnymi	eksterytorialny	adj:pl:inst:m1.m2.m3.f.n:pos		
-ekstce	ekstka	subst:sg:dat.loc:f	nazwa pospolita	
-ekstek	ekstka	subst:pl:gen:f	nazwa pospolita	
-ekstkach	ekstka	subst:pl:loc:f	nazwa pospolita	
-ekstka	ekstka	subst:sg:nom:f	nazwa pospolita	
-ekstkami	ekstka	subst:pl:inst:f	nazwa pospolita	
-ekstką	ekstka	subst:sg:inst:f	nazwa pospolita	
-ekstkę	ekstka	subst:sg:acc:f	nazwa pospolita	
-ekstki	ekstka	subst:pl:nom.acc.voc:f	nazwa pospolita	
-ekstki	ekstka	subst:sg:gen:f	nazwa pospolita	
-ekstko	ekstka	subst:sg:voc:f	nazwa pospolita	
-ekstkom	ekstka	subst:pl:dat:f	nazwa pospolita	
 ekstra	ekstra:a	adj:pl:acc:m1:pos		
 ekstra	ekstra:a	adj:pl:acc:m2.m3.f.n:pos		
 ekstra	ekstra:a	adj:pl:dat:m1.m2.m3.f.n:pos		

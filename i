@@ -42139,17 +42139,6 @@ izotermicznymi	izotermiczny	adj:pl:inst:m1.m2.m3.f.n:pos
 izotermicznym	izotermiczny	adj:pl:dat:m1.m2.m3.f.n:pos		
 izotermicznym	izotermiczny	adj:sg:inst:m1.m2.m3.n:pos		
 izotermicznym	izotermiczny	adj:sg:loc:m1.m2.m3.n:pos		
-izotermizmach	izotermizm	subst:pl:loc:m3	nazwa pospolita	
-izotermizmami	izotermizm	subst:pl:inst:m3	nazwa pospolita	
-izotermizmem	izotermizm	subst:sg:inst:m3	nazwa pospolita	
-izotermizmie	izotermizm	subst:sg:loc:m3	nazwa pospolita	
-izotermizmie	izotermizm	subst:sg:voc:m3	nazwa pospolita	
-izotermizm	izotermizm	subst:sg:nom.acc:m3	nazwa pospolita	
-izotermizmom	izotermizm	subst:pl:dat:m3	nazwa pospolita	
-izotermizmowi	izotermizm	subst:sg:dat:m3	nazwa pospolita	
-izotermizmów	izotermizm	subst:pl:gen:m3	nazwa pospolita	
-izotermizmu	izotermizm	subst:sg:gen:m3	nazwa pospolita	
-izotermizmy	izotermizm	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 izotonach	izoton	subst:pl:loc:m3	nazwa pospolita	
 izotonami	izoton	subst:pl:inst:m3	nazwa pospolita	
 izotonem	izoton	subst:sg:inst:m3	nazwa pospolita	
