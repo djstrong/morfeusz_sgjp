@@ -33399,6 +33399,53 @@ liftingów	lifting	subst:pl:gen:m3	nazwa pospolita
 liftingu	lifting	subst:sg:gen:m3	nazwa pospolita	
 liftingu	lifting	subst:sg:loc:m3	nazwa pospolita	
 liftingu	lifting	subst:sg:voc:m3	nazwa pospolita	
+liftingować	liftingować	inf:imperf		
+liftingowaliby	liftingować	cond:pl:m1.p1:ter:imperf		
+liftingowalibyście	liftingować	cond:pl:m1.p1:sec:imperf		
+liftingowalibyśmy	liftingować	cond:pl:m1.p1:pri:imperf		
+liftingowali	liftingować	praet:pl:m1.p1:imperf		
+liftingowali	liftingować	praet:pl:m1.p1:ter:imperf		
+liftingowaliście	liftingować	praet:pl:m1.p1:sec:imperf		
+liftingowaliśmy	liftingować	praet:pl:m1.p1:pri:imperf		
+liftingowałaby	liftingować	cond:sg:f:ter:imperf		
+liftingowałabym	liftingować	cond:sg:f:pri:imperf		
+liftingowałabyś	liftingować	cond:sg:f:sec:imperf		
+liftingowała	liftingować	praet:sg:f:imperf		
+liftingowała	liftingować	praet:sg:f:ter:imperf		
+liftingowałam	liftingować	praet:sg:f:pri:imperf		
+liftingowałaś	liftingować	praet:sg:f:sec:imperf		
+liftingowałby	liftingować	cond:sg:m1.m2.m3:ter:imperf		
+liftingowałbym	liftingować	cond:sg:m1.m2.m3:pri:imperf		
+liftingowałbyś	liftingować	cond:sg:m1.m2.m3:sec:imperf		
+liftingowałem	liftingować	praet:sg:m1.m2.m3:pri:imperf		
+liftingowałeś	liftingować	praet:sg:m1.m2.m3:sec:imperf		
+liftingował	liftingować	praet:sg:m1.m2.m3:imperf		
+liftingował	liftingować	praet:sg:m1.m2.m3:ter:imperf		
+liftingowałoby	liftingować	cond:sg:n1.n2:ter:imperf		
+liftingowałobym	liftingować	cond:sg:n1.n2:pri:imperf		
+liftingowałobyś	liftingować	cond:sg:n1.n2:sec:imperf		
+liftingowało	liftingować	praet:sg:n1.n2:imperf		
+liftingowało	liftingować	praet:sg:n1.n2:ter:imperf		
+liftingowałom	liftingować	praet:sg:n1.n2:pri:imperf		
+liftingowałoś	liftingować	praet:sg:n1.n2:sec:imperf		
+liftingowałyby	liftingować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+liftingowałybyście	liftingować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+liftingowałybyśmy	liftingować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+liftingowały	liftingować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+liftingowały	liftingować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+liftingowałyście	liftingować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+liftingowałyśmy	liftingować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+liftingowano	liftingować	imps:imperf		
+liftingując	liftingować	pcon:imperf		
+liftingują	liftingować	fin:pl:ter:imperf		
+liftingujcie	liftingować	impt:pl:sec:imperf		
+liftingujecie	liftingować	fin:pl:sec:imperf		
+liftinguje	liftingować	fin:sg:ter:imperf		
+liftingujemy	liftingować	fin:pl:pri:imperf		
+liftingujesz	liftingować	fin:sg:sec:imperf		
+liftinguję	liftingować	fin:sg:pri:imperf		
+liftinguj	liftingować	impt:sg:sec:imperf		
+liftingujmy	liftingować	impt:pl:pri:imperf		
 liftować	liftować	inf:imperf		sport.
 liftowaliby	liftować	cond:pl:m1.p1:ter:imperf		sport.
 liftowalibyście	liftować	cond:pl:m1.p1:sec:imperf		sport.
