@@ -1010,7 +1010,6 @@ ideałów	ideał:s2	subst:pl:gen.acc:m1	nazwa pospolita
 ideałów	ideał:s2	subst:pl:gen:m2	nazwa pospolita	
 ideały	ideał:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 ideały	ideał:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
-idéefixe	idéefixe	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa pospolita	
 idejce	idejka	subst:sg:dat.loc:f	nazwa pospolita	
 idejek	idejka	subst:pl:gen:f	nazwa pospolita	
 idejkach	idejka	subst:pl:loc:f	nazwa pospolita	
