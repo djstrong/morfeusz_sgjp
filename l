@@ -2163,6 +2163,78 @@ lajku	lajk	subst:sg:loc:m2	nazwa pospolita
 lajku	lajk	subst:sg:loc:m3	nazwa pospolita	
 lajku	lajk	subst:sg:voc:m2	nazwa pospolita	
 lajku	lajk	subst:sg:voc:m3	nazwa pospolita	
+lajknąć	lajknąć	inf:perf		
+lajkną	lajknąć	fin:pl:ter:perf		
+lajknąłby	lajknąć	cond:sg:m1.m2.m3:ter:perf		
+lajknąłbym	lajknąć	cond:sg:m1.m2.m3:pri:perf		
+lajknąłbyś	lajknąć	cond:sg:m1.m2.m3:sec:perf		
+lajknąłem	lajknąć	praet:sg:m1.m2.m3:pri:perf		
+lajknąłeś	lajknąć	praet:sg:m1.m2.m3:sec:perf		
+lajknął	lajknąć	praet:sg:m1.m2.m3:perf		
+lajknął	lajknąć	praet:sg:m1.m2.m3:ter:perf		
+lajknąwszy	lajknąć	pant:perf		
+lajknę	lajknąć	fin:sg:pri:perf		
+lajknęliby	lajknąć	cond:pl:m1:ter:perf		
+lajknęlibyście	lajknąć	cond:pl:m1:sec:perf		
+lajknęlibyśmy	lajknąć	cond:pl:m1:pri:perf		
+lajknęli	lajknąć	praet:pl:m1:perf		
+lajknęli	lajknąć	praet:pl:m1:ter:perf		
+lajknęliście	lajknąć	praet:pl:m1:sec:perf		
+lajknęliśmy	lajknąć	praet:pl:m1:pri:perf		
+lajknęłaby	lajknąć	cond:sg:f:ter:perf		
+lajknęłabym	lajknąć	cond:sg:f:pri:perf		
+lajknęłabyś	lajknąć	cond:sg:f:sec:perf		
+lajknęła	lajknąć	praet:sg:f:perf		
+lajknęła	lajknąć	praet:sg:f:ter:perf		
+lajknęłam	lajknąć	praet:sg:f:pri:perf		
+lajknęłaś	lajknąć	praet:sg:f:sec:perf		
+lajknęłoby	lajknąć	cond:sg:n:ter:perf		
+lajknęłobym	lajknąć	cond:sg:n:pri:perf		
+lajknęłobyś	lajknąć	cond:sg:n:sec:perf		
+lajknęło	lajknąć	praet:sg:n:perf		
+lajknęło	lajknąć	praet:sg:n:ter:perf		
+lajknęłom	lajknąć	praet:sg:n:pri:perf		
+lajknęłoś	lajknąć	praet:sg:n:sec:perf		
+lajknęłyby	lajknąć	cond:pl:m2.m3.f.n:ter:perf		
+lajknęłybyście	lajknąć	cond:pl:m2.m3.f.n:sec:perf		
+lajknęłybyśmy	lajknąć	cond:pl:m2.m3.f.n:pri:perf		
+lajknęły	lajknąć	praet:pl:m2.m3.f.n:perf		
+lajknęły	lajknąć	praet:pl:m2.m3.f.n:ter:perf		
+lajknęłyście	lajknąć	praet:pl:m2.m3.f.n:sec:perf		
+lajknęłyśmy	lajknąć	praet:pl:m2.m3.f.n:pri:perf		
+lajkniecie	lajknąć	fin:pl:sec:perf		
+lajknie	lajknąć	fin:sg:ter:perf		
+lajkniemy	lajknąć	fin:pl:pri:perf		
+lajkniesz	lajknąć	fin:sg:sec:perf		
+lajknięciach	lajknąć	ger:pl:loc:n:perf:aff		
+lajknięcia	lajknąć	ger:pl:nom.acc:n:perf:aff		
+lajknięcia	lajknąć	ger:sg:gen:n:perf:aff		
+lajknięciami	lajknąć	ger:pl:inst:n:perf:aff		
+lajknięcie	lajknąć	ger:sg:nom.acc:n:perf:aff		
+lajknięciem	lajknąć	ger:sg:inst:n:perf:aff		
+lajknięci	lajknąć	ppas:pl:nom.voc:m1:perf:aff		
+lajknięciom	lajknąć	ger:pl:dat:n:perf:aff		
+lajknięciu	lajknąć	ger:sg:dat.loc:n:perf:aff		
+lajknięć	lajknąć	ger:pl:gen:n:perf:aff		
+lajknięta	lajknąć	ppas:sg:nom.voc:f:perf:aff		
+lajkniętą	lajknąć	ppas:sg:acc.inst:f:perf:aff		
+lajkniętego	lajknąć	ppas:sg:acc:m1.m2:perf:aff		
+lajkniętego	lajknąć	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+lajkniętej	lajknąć	ppas:sg:gen.dat.loc:f:perf:aff		
+lajknięte	lajknąć	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+lajknięte	lajknąć	ppas:sg:nom.acc.voc:n:perf:aff		
+lajkniętemu	lajknąć	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+lajknięto	lajknąć	imps:perf		
+lajkniętych	lajknąć	ppas:pl:acc:m1:perf:aff		
+lajkniętych	lajknąć	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+lajknięty	lajknąć	ppas:sg:acc:m3:perf:aff		
+lajknięty	lajknąć	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+lajkniętymi	lajknąć	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+lajkniętym	lajknąć	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+lajkniętym	lajknąć	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+lajknijcie	lajknąć	impt:pl:sec:perf		
+lajknij	lajknąć	impt:sg:sec:perf		
+lajknijmy	lajknąć	impt:pl:pri:perf		
 lajkonikowościach	lajkonikowość	subst:pl:loc:f	nazwa pospolita	
 lajkonikowościami	lajkonikowość	subst:pl:inst:f	nazwa pospolita	
 lajkonikowością	lajkonikowość	subst:sg:inst:f	nazwa pospolita	
@@ -2233,6 +2305,42 @@ lajkoniku	lajkonik:s2	subst:sg:loc:m1	nazwa pospolita
 lajkoniku	lajkonik:s2	subst:sg:loc:m2	nazwa pospolita	
 lajkoniku	lajkonik:s2	subst:sg:voc:m1	nazwa pospolita	
 lajkoniku	lajkonik:s2	subst:sg:voc:m2	nazwa pospolita	
+lajkować	lajkować	inf:imperf		pot.
+lajkowaliby	lajkować	cond:pl:m1:ter:imperf		pot.
+lajkowalibyście	lajkować	cond:pl:m1:sec:imperf		pot.
+lajkowalibyśmy	lajkować	cond:pl:m1:pri:imperf		pot.
+lajkowali	lajkować	praet:pl:m1:imperf		pot.
+lajkowali	lajkować	praet:pl:m1:ter:imperf		pot.
+lajkowaliście	lajkować	praet:pl:m1:sec:imperf		pot.
+lajkowaliśmy	lajkować	praet:pl:m1:pri:imperf		pot.
+lajkowałaby	lajkować	cond:sg:f:ter:imperf		pot.
+lajkowałabym	lajkować	cond:sg:f:pri:imperf		pot.
+lajkowałabyś	lajkować	cond:sg:f:sec:imperf		pot.
+lajkowała	lajkować	praet:sg:f:imperf		pot.
+lajkowała	lajkować	praet:sg:f:ter:imperf		pot.
+lajkowałam	lajkować	praet:sg:f:pri:imperf		pot.
+lajkowałaś	lajkować	praet:sg:f:sec:imperf		pot.
+lajkowałby	lajkować	cond:sg:m1.m2.m3:ter:imperf		pot.
+lajkowałbym	lajkować	cond:sg:m1.m2.m3:pri:imperf		pot.
+lajkowałbyś	lajkować	cond:sg:m1.m2.m3:sec:imperf		pot.
+lajkowałem	lajkować	praet:sg:m1.m2.m3:pri:imperf		pot.
+lajkowałeś	lajkować	praet:sg:m1.m2.m3:sec:imperf		pot.
+lajkował	lajkować	praet:sg:m1.m2.m3:imperf		pot.
+lajkował	lajkować	praet:sg:m1.m2.m3:ter:imperf		pot.
+lajkowałoby	lajkować	cond:sg:n:ter:imperf		pot.
+lajkowałobym	lajkować	cond:sg:n:pri:imperf		pot.
+lajkowałobyś	lajkować	cond:sg:n:sec:imperf		pot.
+lajkowało	lajkować	praet:sg:n:imperf		pot.
+lajkowało	lajkować	praet:sg:n:ter:imperf		pot.
+lajkowałom	lajkować	praet:sg:n:pri:imperf		pot.
+lajkowałoś	lajkować	praet:sg:n:sec:imperf		pot.
+lajkowałyby	lajkować	cond:pl:m2.m3.f.n:ter:imperf		pot.
+lajkowałybyście	lajkować	cond:pl:m2.m3.f.n:sec:imperf		pot.
+lajkowałybyśmy	lajkować	cond:pl:m2.m3.f.n:pri:imperf		pot.
+lajkowały	lajkować	praet:pl:m2.m3.f.n:imperf		pot.
+lajkowały	lajkować	praet:pl:m2.m3.f.n:ter:imperf		pot.
+lajkowałyście	lajkować	praet:pl:m2.m3.f.n:sec:imperf		pot.
+lajkowałyśmy	lajkować	praet:pl:m2.m3.f.n:pri:imperf		pot.
 lajkowana	lajkować	ppas:sg:nom.voc:f:imperf:aff		pot.
 lajkowaną	lajkować	ppas:sg:acc.inst:f:imperf:aff		pot.
 lajkowanego	lajkować	ppas:sg:acc:m1.m2:imperf:aff		pot.
@@ -2250,6 +2358,7 @@ lajkowaniem	lajkować	ger:sg:inst:n:imperf:aff		pot.
 lajkowani	lajkować	ppas:pl:nom.voc:m1:imperf:aff		pot.
 lajkowaniom	lajkować	ger:pl:dat:n:imperf:aff		pot.
 lajkowaniu	lajkować	ger:sg:dat.loc:n:imperf:aff		pot.
+lajkowano	lajkować	imps:imperf		pot.
 lajkowanych	lajkować	ppas:pl:acc:m1:imperf:aff		pot.
 lajkowanych	lajkować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		pot.
 lajkowany	lajkować	ppas:sg:acc:m3:imperf:aff		pot.
@@ -2266,6 +2375,7 @@ lajkującej	lajkować	pact:sg:gen.dat.loc:f:imperf:aff		pot.
 lajkujące	lajkować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		pot.
 lajkujące	lajkować	pact:sg:nom.acc.voc:n:imperf:aff		pot.
 lajkującemu	lajkować	pact:sg:dat:m1.m2.m3.n:imperf:aff		pot.
+lajkując	lajkować	pcon:imperf		pot.
 lajkująco	lajkować	pacta		pot.
 lajkujących	lajkować	pact:pl:acc:m1:imperf:aff		pot.
 lajkujących	lajkować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		pot.
@@ -2275,6 +2385,15 @@ lajkujący	lajkować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		pot.
 lajkującymi	lajkować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		pot.
 lajkującym	lajkować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		pot.
 lajkującym	lajkować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		pot.
+lajkują	lajkować	fin:pl:ter:imperf		pot.
+lajkujcie	lajkować	impt:pl:sec:imperf		pot.
+lajkujecie	lajkować	fin:pl:sec:imperf		pot.
+lajkuje	lajkować	fin:sg:ter:imperf		pot.
+lajkujemy	lajkować	fin:pl:pri:imperf		pot.
+lajkujesz	lajkować	fin:sg:sec:imperf		pot.
+lajkuję	lajkować	fin:sg:pri:imperf		pot.
+lajkuj	lajkować	impt:sg:sec:imperf		pot.
+lajkujmy	lajkować	impt:pl:pri:imperf		pot.
 lajtowo	lajtowo	adv:pos		
 lajtowościach	lajtowość	subst:pl:loc:f	nazwa pospolita	
 lajtowościami	lajtowość	subst:pl:inst:f	nazwa pospolita	
