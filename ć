@@ -256,6 +256,29 @@
 ćmionym	ćmić	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
 ćmionymi	ćmić	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
 ćmisz	ćmić	fin:sg:sec:imperf		
+ćmielowianach	ćmielowianin	subst:pl:loc:m1	nazwa pospolita	
+ćmielowianami	ćmielowianin	subst:pl:inst:m1	nazwa pospolita	
+ćmielowian	ćmielowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+ćmielowianie	ćmielowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+ćmielowianina	ćmielowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+ćmielowianin	ćmielowianin	subst:sg:nom:m1	nazwa pospolita	
+ćmielowianinem	ćmielowianin	subst:sg:inst:m1	nazwa pospolita	
+ćmielowianinie	ćmielowianin	subst:sg:loc:m1	nazwa pospolita	
+ćmielowianinie	ćmielowianin	subst:sg:voc:m1	nazwa pospolita	
+ćmielowianinowi	ćmielowianin	subst:sg:dat:m1	nazwa pospolita	
+ćmielowianom	ćmielowianin	subst:pl:dat:m1	nazwa pospolita	
+ćmielowiany	ćmielowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+ćmielowiance	ćmielowianka	subst:sg:dat.loc:f	nazwa pospolita	
+ćmielowianek	ćmielowianka	subst:pl:gen:f	nazwa pospolita	
+ćmielowiankach	ćmielowianka	subst:pl:loc:f	nazwa pospolita	
+ćmielowianka	ćmielowianka	subst:sg:nom:f	nazwa pospolita	
+ćmielowiankami	ćmielowianka	subst:pl:inst:f	nazwa pospolita	
+ćmielowianką	ćmielowianka	subst:sg:inst:f	nazwa pospolita	
+ćmielowiankę	ćmielowianka	subst:sg:acc:f	nazwa pospolita	
+ćmielowianki	ćmielowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+ćmielowianki	ćmielowianka	subst:sg:gen:f	nazwa pospolita	
+ćmielowianko	ćmielowianka	subst:sg:voc:f	nazwa pospolita	
+ćmielowiankom	ćmielowianka	subst:pl:dat:f	nazwa pospolita	
 ćmielowscy	ćmielowski	adj:pl:nom.voc:m1:pos		
 ćmielowska	ćmielowski	adj:sg:nom.voc:f:pos		
 ćmielowską	ćmielowski	adj:sg:acc:f:pos		

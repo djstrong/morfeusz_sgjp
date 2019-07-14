@@ -134,6 +134,17 @@ Habdasowi	Habdas:s1	subst:sg:dat:m1	nazwisko
 Habdasów	Habdas:s1	subst:pl:gen.acc:m1	nazwisko	
 Habdasy	Habdas:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Habdas	Habdas:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Habdzinach	Habdzin	subst:pl:loc:m3	nazwa geograficzna	
+Habdzina	Habdzin	subst:sg:gen:m3	nazwa geograficzna	
+Habdzinami	Habdzin	subst:pl:inst:m3	nazwa geograficzna	
+Habdzinem	Habdzin	subst:sg:inst:m3	nazwa geograficzna	
+Habdzin	Habdzin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Habdzinie	Habdzin	subst:sg:loc:m3	nazwa geograficzna	
+Habdzinie	Habdzin	subst:sg:voc:m3	nazwa geograficzna	
+Habdzinom	Habdzin	subst:pl:dat:m3	nazwa geograficzna	
+Habdzinowi	Habdzin	subst:sg:dat:m3	nazwa geograficzna	
+Habdzinów	Habdzin	subst:pl:gen:m3	nazwa geograficzna	
+Habdziny	Habdzin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Habecka	Habecka	subst:sg:nom:f	nazwisko	
 Habecka	Habecka	subst:sg:voc:f	nazwisko	
 Habecką	Habecka	subst:sg:acc:f	nazwisko	
@@ -1102,6 +1113,16 @@ Haczyńskim	Haczyński	subst:pl:dat:m1	nazwisko
 Haczyńskim	Haczyński	subst:sg:inst:m1	nazwisko	
 Haczyńskim	Haczyński	subst:sg:loc:m1	nazwisko	
 Haczyńskimi	Haczyński	subst:pl:inst:m1	nazwisko	
+Haciek	Haćki	subst:pl:gen:n:pt	nazwa geograficzna	
+Haciek	Haćki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Haćkach	Haćki	subst:pl:loc:n:pt	nazwa geograficzna	
+Haćkach	Haćki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Haćkami	Haćki	subst:pl:inst:n:pt	nazwa geograficzna	
+Haćkami	Haćki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Haćki	Haćki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Haćki	Haćki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Haćkom	Haćki	subst:pl:dat:n:pt	nazwa geograficzna	
+Haćkom	Haćki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Haciach	Hać:s1	subst:pl:loc:m1	nazwisko	
 Hacia	Hać:s1	subst:sg:gen.acc:m1	nazwisko	
 Haciami	Hać:s1	subst:pl:inst:m1	nazwisko	
@@ -1292,6 +1313,16 @@ Hadesowie	Hades	subst:pl:nom.voc:m1	imię	mit.
 Hadesowi	Hades	subst:sg:dat:m1	imię	mit.
 Hadesów	Hades	subst:pl:gen.acc:m1	imię	mit.
 Hadesy	Hades	depr:pl:nom.acc.voc:m2	imię	mit.
+Hadlach	Hadle	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Hadlach	Hadle	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Hadlami	Hadle	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Hadlami	Hadle	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Hadle	Hadle	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Hadle	Hadle	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
+Hadli	Hadle	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Hadli	Hadle	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Hadlom	Hadle	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Hadlom	Hadle	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
 Hadławach	Hadław:s1	subst:pl:loc:m1	nazwisko	
 Hadława	Hadław:s1	subst:sg:gen.acc:m1	nazwisko	
 Hadławami	Hadław:s1	subst:pl:inst:m1	nazwisko	
@@ -1305,6 +1336,17 @@ Hadławowi	Hadław:s1	subst:sg:dat:m1	nazwisko
 Hadławów	Hadław:s1	subst:pl:gen.acc:m1	nazwisko	
 Hadławy	Hadław:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Hadław	Hadław:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hader	Hadra	subst:pl:gen:f	nazwa geograficzna	
+Hadrach	Hadra	subst:pl:loc:f	nazwa geograficzna	
+Hadra	Hadra	subst:sg:nom:f	nazwa geograficzna	
+Hadrami	Hadra	subst:pl:inst:f	nazwa geograficzna	
+Hadrą	Hadra	subst:sg:inst:f	nazwa geograficzna	
+Hadrę	Hadra	subst:sg:acc:f	nazwa geograficzna	
+Hadro	Hadra	subst:sg:voc:f	nazwa geograficzna	
+Hadrom	Hadra	subst:pl:dat:f	nazwa geograficzna	
+Hadry	Hadra	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hadry	Hadra	subst:sg:gen:f	nazwa geograficzna	
+Hadrze	Hadra	subst:sg:dat.loc:f	nazwa geograficzna	
 Hadrianach	Hadrian:s1	subst:pl:loc:m1	imię	
 Hadriana	Hadrian:s1	subst:sg:gen.acc:m1	imię	
 Hadrianami	Hadrian:s1	subst:pl:inst:m1	imię	
@@ -1443,6 +1485,17 @@ Haduło	Haduła:s2	subst:sg:voc:f	nazwisko
 Hadułom	Haduła:s2	subst:pl:dat:f	nazwisko	
 Haduły	Haduła:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Haduły	Haduła:s2	subst:sg:gen:f	nazwisko	
+Hadykówce	Hadykówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Hadykówek	Hadykówka	subst:pl:gen:f	nazwa geograficzna	
+Hadykówkach	Hadykówka	subst:pl:loc:f	nazwa geograficzna	
+Hadykówka	Hadykówka	subst:sg:nom:f	nazwa geograficzna	
+Hadykówkami	Hadykówka	subst:pl:inst:f	nazwa geograficzna	
+Hadykówką	Hadykówka	subst:sg:inst:f	nazwa geograficzna	
+Hadykówkę	Hadykówka	subst:sg:acc:f	nazwa geograficzna	
+Hadykówki	Hadykówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hadykówki	Hadykówka	subst:sg:gen:f	nazwa geograficzna	
+Hadykówko	Hadykówka	subst:sg:voc:f	nazwa geograficzna	
+Hadykówkom	Hadykówka	subst:pl:dat:f	nazwa geograficzna	
 Hadykach	Hadyk:s1	subst:pl:loc:m1	nazwisko	
 Hadyka	Hadyk:s1	subst:sg:gen.acc:m1	nazwisko	
 Hadykami	Hadyk:s1	subst:pl:inst:m1	nazwisko	
@@ -1492,6 +1545,18 @@ Hadyniaków	Hadyniak:s1	subst:pl:gen.acc:m1	nazwisko
 Hadyniaku	Hadyniak:s1	subst:sg:loc:m1	nazwisko	
 Hadyniaku	Hadyniak:s1	subst:sg:voc:m1	nazwisko	
 Hadyniak	Hadyniak:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hadynowach	Hadynów	subst:pl:loc:m3	nazwa geograficzna	
+Hadynowa	Hadynów	subst:sg:gen:m3	nazwa geograficzna	
+Hadynowami	Hadynów	subst:pl:inst:m3	nazwa geograficzna	
+Hadynowem	Hadynów	subst:sg:inst:m3	nazwa geograficzna	
+Hadynowie	Hadynów	subst:sg:loc:m3	nazwa geograficzna	
+Hadynowie	Hadynów	subst:sg:voc:m3	nazwa geograficzna	
+Hadynowom	Hadynów	subst:pl:dat:m3	nazwa geograficzna	
+Hadynowowi	Hadynów	subst:sg:dat:m3	nazwa geograficzna	
+Hadynowów	Hadynów	subst:pl:gen:m3	nazwa geograficzna	
+Hadynowu	Hadynów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hadynowy	Hadynów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hadynów	Hadynów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hadyńska	Hadyńska	subst:sg:nom:f	nazwisko	
 Hadyńska	Hadyńska	subst:sg:voc:f	nazwisko	
 Hadyńską	Hadyńska	subst:sg:acc:f	nazwisko	
@@ -1985,6 +2050,17 @@ Hajdasowi	Hajdas:s1	subst:sg:dat:m1	nazwisko
 Hajdasów	Hajdas:s1	subst:pl:gen.acc:m1	nazwisko	
 Hajdasy	Hajdas:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Hajdas	Hajdas:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hajdaszek	Hajdaszek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hajdaszkach	Hajdaszek	subst:pl:loc:m3	nazwa geograficzna	
+Hajdaszka	Hajdaszek	subst:sg:gen:m3	nazwa geograficzna	
+Hajdaszkami	Hajdaszek	subst:pl:inst:m3	nazwa geograficzna	
+Hajdaszkiem	Hajdaszek	subst:sg:inst:m3	nazwa geograficzna	
+Hajdaszki	Hajdaszek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hajdaszkom	Hajdaszek	subst:pl:dat:m3	nazwa geograficzna	
+Hajdaszkowi	Hajdaszek	subst:sg:dat:m3	nazwa geograficzna	
+Hajdaszków	Hajdaszek	subst:pl:gen:m3	nazwa geograficzna	
+Hajdaszku	Hajdaszek	subst:sg:loc:m3	nazwa geograficzna	
+Hajdaszku	Hajdaszek	subst:sg:voc:m3	nazwa geograficzna	
 Hajdaszach	Hajdasz:s2	subst:pl:loc:m1	nazwisko	
 Hajdasza	Hajdasz:s2	subst:sg:gen.acc:m1	nazwisko	
 Hajdaszami	Hajdasz:s2	subst:pl:inst:m1	nazwisko	
@@ -2075,6 +2151,18 @@ Hajdowi	Hajdo:s1	subst:sg:dat:m1	nazwisko
 Hajdów	Hajdo:s1	subst:pl:gen.acc:m1	nazwisko	
 Hajdzie	Hajdo:s1	subst:sg:loc:m1	nazwisko	
 Hajdo	Hajdo:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hajdowach	Hajdów	subst:pl:loc:m3	nazwa geograficzna	
+Hajdowa	Hajdów	subst:sg:gen:m3	nazwa geograficzna	
+Hajdowami	Hajdów	subst:pl:inst:m3	nazwa geograficzna	
+Hajdowem	Hajdów	subst:sg:inst:m3	nazwa geograficzna	
+Hajdowie	Hajdów	subst:sg:loc:m3	nazwa geograficzna	
+Hajdowie	Hajdów	subst:sg:voc:m3	nazwa geograficzna	
+Hajdowom	Hajdów	subst:pl:dat:m3	nazwa geograficzna	
+Hajdowowi	Hajdów	subst:sg:dat:m3	nazwa geograficzna	
+Hajdowów	Hajdów	subst:pl:gen:m3	nazwa geograficzna	
+Hajdowu	Hajdów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hajdowy	Hajdów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hajdów	Hajdów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hajdrychach	Hajdrych:s1	subst:pl:loc:m1	nazwisko	
 Hajdrycha	Hajdrych:s1	subst:sg:gen.acc:m1	nazwisko	
 Hajdrychami	Hajdrych:s1	subst:pl:inst:m1	nazwisko	
@@ -2170,6 +2258,16 @@ Hajdugi	Hajduga:s3	subst:pl:nom.acc.voc:f	nazwisko
 Hajdugi	Hajduga:s3	subst:sg:gen:f	nazwisko	
 Hajdugo	Hajduga:s3	subst:sg:voc:f	nazwisko	
 Hajdugom	Hajduga:s3	subst:pl:dat:f	nazwisko	
+Hajdukach	Hajduki	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Hajdukach	Hajduki	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Hajdukami	Hajduki	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Hajdukami	Hajduki	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Hajduk	Hajduki	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Hajduk	Hajduki	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Hajduki	Hajduki	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Hajduki	Hajduki	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
+Hajdukom	Hajduki	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Hajdukom	Hajduki	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
 Hajdukiewiczach	Hajdukiewicz:s2	subst:pl:loc:m1	nazwisko	
 Hajdukiewicza	Hajdukiewicz:s2	subst:sg:gen.acc:m1	nazwisko	
 Hajdukiewiczami	Hajdukiewicz:s2	subst:pl:inst:m1	nazwisko	
@@ -2195,6 +2293,17 @@ Hajdukowych	Hajdukowa	subst:pl:gen:f	nazwisko (odmężowskie)
 Hajdukowych	Hajdukowa	subst:pl:loc:f	nazwisko (odmężowskie)	
 Hajdukowym	Hajdukowa	subst:pl:dat:f	nazwisko (odmężowskie)	
 Hajdukowymi	Hajdukowa	subst:pl:inst:f	nazwisko (odmężowskie)	
+Hajdukowszczyznach	Hajdukowszczyzna	subst:pl:loc:f	nazwa geograficzna	
+Hajdukowszczyzna	Hajdukowszczyzna	subst:sg:nom:f	nazwa geograficzna	
+Hajdukowszczyznami	Hajdukowszczyzna	subst:pl:inst:f	nazwa geograficzna	
+Hajdukowszczyzną	Hajdukowszczyzna	subst:sg:inst:f	nazwa geograficzna	
+Hajdukowszczyznę	Hajdukowszczyzna	subst:sg:acc:f	nazwa geograficzna	
+Hajdukowszczyzn	Hajdukowszczyzna	subst:pl:gen:f	nazwa geograficzna	
+Hajdukowszczyzno	Hajdukowszczyzna	subst:sg:voc:f	nazwa geograficzna	
+Hajdukowszczyznom	Hajdukowszczyzna	subst:pl:dat:f	nazwa geograficzna	
+Hajdukowszczyzny	Hajdukowszczyzna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hajdukowszczyzny	Hajdukowszczyzna	subst:sg:gen:f	nazwa geograficzna	
+Hajdukowszczyźnie	Hajdukowszczyzna	subst:sg:dat.loc:f	nazwa geograficzna	
 Hajdukach	Hajduk:s2	subst:pl:loc:m1	nazwisko	
 Hajduka	Hajduk:s2	subst:sg:gen.acc:m1	nazwisko	
 Hajdukami	Hajduk:s2	subst:pl:inst:m1	nazwisko	
@@ -2623,6 +2732,16 @@ Hajosty	Hajost:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Hajoście	Hajost:s1	subst:sg:loc:m1	nazwisko	
 Hajoście	Hajost:s1	subst:sg:voc:m1	nazwisko	
 Hajost	Hajost:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hajownikach	Hajowniki	subst:pl:loc:n:pt	nazwa geograficzna	
+Hajownikach	Hajowniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hajownikami	Hajowniki	subst:pl:inst:n:pt	nazwa geograficzna	
+Hajownikami	Hajowniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hajowniki	Hajowniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hajowniki	Hajowniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hajownikom	Hajowniki	subst:pl:dat:n:pt	nazwa geograficzna	
+Hajownikom	Hajowniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Hajowników	Hajowniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Hajowników	Hajowniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Hajska	Hajska	subst:sg:nom:f	nazwisko	
 Hajska	Hajska	subst:sg:voc:f	nazwisko	
 Hajską	Hajska	subst:sg:acc:f	nazwisko	
@@ -2737,6 +2856,17 @@ Haków	Hak:s2	subst:pl:gen.acc:m1	nazwisko
 Haku	Hak:s2	subst:sg:loc:m1	nazwisko	
 Haku	Hak:s2	subst:sg:voc:m1	nazwisko	
 Hak	Hak:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hakach	Hak:s4	subst:pl:loc:m3	człon nazwy geograficznej	
+Haka	Hak:s4	subst:sg:gen:m3	człon nazwy geograficznej	
+Hakami	Hak:s4	subst:pl:inst:m3	człon nazwy geograficznej	
+Hak	Hak:s4	subst:sg:nom.acc:m3	człon nazwy geograficznej	
+Hakiem	Hak:s4	subst:sg:inst:m3	człon nazwy geograficznej	
+Haki	Hak:s4	subst:pl:nom.acc.voc:m3	człon nazwy geograficznej	
+Hakom	Hak:s4	subst:pl:dat:m3	człon nazwy geograficznej	
+Hakowi	Hak:s4	subst:sg:dat:m3	człon nazwy geograficznej	
+Haków	Hak:s4	subst:pl:gen:m3	człon nazwy geograficznej	
+Haku	Hak:s4	subst:sg:loc:m3	człon nazwy geograficznej	
+Haku	Hak:s4	subst:sg:voc:m3	człon nazwy geograficznej	
 Hakubach	Hakuba:s2	subst:pl:loc:m1	nazwisko	
 Hakuba	Hakuba:s2	subst:sg:nom:m1	nazwisko	
 Hakubami	Hakuba:s2	subst:pl:inst:m1	nazwisko	
@@ -2996,6 +3126,16 @@ Halastrom	Halastra:s2	subst:pl:dat:f	nazwisko
 Halastry	Halastra:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Halastry	Halastra:s2	subst:sg:gen:f	nazwisko	
 Halastrze	Halastra:s2	subst:sg:dat.loc:f	nazwisko	
+Halasach	Halasy	subst:pl:loc:n:pt	nazwa geograficzna	
+Halasach	Halasy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Halasami	Halasy	subst:pl:inst:n:pt	nazwa geograficzna	
+Halasami	Halasy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Halas	Halasy	subst:pl:gen:n:pt	nazwa geograficzna	
+Halas	Halasy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Halasom	Halasy	subst:pl:dat:n:pt	nazwa geograficzna	
+Halasom	Halasy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Halasy	Halasy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Halasy	Halasy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Halaszach	Halasz:s1	subst:pl:loc:m1	nazwisko	
 Halasza	Halasz:s1	subst:sg:gen.acc:m1	nazwisko	
 Halaszami	Halasz:s1	subst:pl:inst:m1	nazwisko	
@@ -3207,6 +3347,17 @@ Halembo	Halemba:s3	subst:sg:voc:f	nazwisko
 Halembom	Halemba:s3	subst:pl:dat:f	nazwisko	
 Halemby	Halemba:s3	subst:pl:nom.acc.voc:f	nazwisko	
 Halemby	Halemba:s3	subst:sg:gen:f	nazwisko	
+Halembach	Halemba:s4	subst:pl:loc:f	nazwa geograficzna	
+Halemba	Halemba:s4	subst:sg:nom:f	nazwa geograficzna	
+Halembami	Halemba:s4	subst:pl:inst:f	nazwa geograficzna	
+Halembą	Halemba:s4	subst:sg:inst:f	nazwa geograficzna	
+Halembę	Halemba:s4	subst:sg:acc:f	nazwa geograficzna	
+Halemb	Halemba:s4	subst:pl:gen:f	nazwa geograficzna	
+Halembie	Halemba:s4	subst:sg:dat.loc:f	nazwa geograficzna	
+Halembo	Halemba:s4	subst:sg:voc:f	nazwa geograficzna	
+Halembom	Halemba:s4	subst:pl:dat:f	nazwa geograficzna	
+Halemby	Halemba:s4	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Halemby	Halemba:s4	subst:sg:gen:f	nazwa geograficzna	
 Halerzach	Halerz:s1	subst:pl:loc:m1	nazwisko	
 Halerza	Halerz:s1	subst:sg:gen.acc:m1	nazwisko	
 Halerzami	Halerz:s1	subst:pl:inst:m1	nazwisko	
@@ -3269,6 +3420,26 @@ Halickim	Halicki	subst:pl:dat:m1	nazwisko
 Halickim	Halicki	subst:sg:inst:m1	nazwisko	
 Halickim	Halicki	subst:sg:loc:m1	nazwisko	
 Halickimi	Halicki	subst:pl:inst:m1	nazwisko	
+Halickich	Halickie	subst:pl:gen:n:pt	nazwa geograficzna	
+Halickich	Halickie	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Halickich	Halickie	subst:pl:loc:n:pt	nazwa geograficzna	
+Halickich	Halickie	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Halickie	Halickie	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Halickie	Halickie	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Halickim	Halickie	subst:pl:dat:n:pt	nazwa geograficzna	
+Halickim	Halickie	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Halickimi	Halickie	subst:pl:inst:n:pt	nazwa geograficzna	
+Halickimi	Halickie	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Haliczanach	Haliczany	subst:pl:loc:n:pt	nazwa geograficzna	
+Haliczanach	Haliczany	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Haliczanami	Haliczany	subst:pl:inst:n:pt	nazwa geograficzna	
+Haliczanami	Haliczany	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Haliczan	Haliczany	subst:pl:gen:n:pt	nazwa geograficzna	
+Haliczan	Haliczany	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Haliczanom	Haliczany	subst:pl:dat:n:pt	nazwa geograficzna	
+Haliczanom	Haliczany	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Haliczany	Haliczany	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Haliczany	Haliczany	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Haligowska	Haligowska	subst:sg:nom:f	nazwisko	
 Haligowska	Haligowska	subst:sg:voc:f	nazwisko	
 Haligowską	Haligowska	subst:sg:acc:f	nazwisko	
@@ -3352,6 +3523,17 @@ Haliniaków	Haliniak:s1	subst:pl:gen.acc:m1	nazwisko
 Haliniaku	Haliniak:s1	subst:sg:loc:m1	nazwisko	
 Haliniaku	Haliniak:s1	subst:sg:voc:m1	nazwisko	
 Haliniak	Haliniak:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Halininach	Halinin	subst:pl:loc:m3	nazwa geograficzna	
+Halinina	Halinin	subst:sg:gen:m3	nazwa geograficzna	
+Halininami	Halinin	subst:pl:inst:m3	nazwa geograficzna	
+Halininem	Halinin	subst:sg:inst:m3	nazwa geograficzna	
+Halinin	Halinin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Halininie	Halinin	subst:sg:loc:m3	nazwa geograficzna	
+Halininie	Halinin	subst:sg:voc:m3	nazwa geograficzna	
+Halininom	Halinin	subst:pl:dat:m3	nazwa geograficzna	
+Halininowi	Halinin	subst:sg:dat:m3	nazwa geograficzna	
+Halininów	Halinin	subst:pl:gen:m3	nazwa geograficzna	
+Halininy	Halinin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Halince	Halinka	subst:sg:dat.loc:f	imię	
 Halinek	Halinka	subst:pl:gen:f	imię	
 Halinkach	Halinka	subst:pl:loc:f	imię	
@@ -3398,6 +3580,17 @@ Halinowów	Halinów	subst:pl:gen:m3	nazwa geograficzna
 Halinowu	Halinów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
 Halinowy	Halinów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Halinów	Halinów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Halinówce	Halinówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Halinówek	Halinówka	subst:pl:gen:f	nazwa geograficzna	
+Halinówkach	Halinówka	subst:pl:loc:f	nazwa geograficzna	
+Halinówka	Halinówka	subst:sg:nom:f	nazwa geograficzna	
+Halinówkami	Halinówka	subst:pl:inst:f	nazwa geograficzna	
+Halinówką	Halinówka	subst:sg:inst:f	nazwa geograficzna	
+Halinówkę	Halinówka	subst:sg:acc:f	nazwa geograficzna	
+Halinówki	Halinówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Halinówki	Halinówka	subst:sg:gen:f	nazwa geograficzna	
+Halinówko	Halinówka	subst:sg:voc:f	nazwa geograficzna	
+Halinówkom	Halinówka	subst:pl:dat:f	nazwa geograficzna	
 Halińska	Halińska	subst:sg:nom:f	nazwisko	
 Halińska	Halińska	subst:sg:voc:f	nazwisko	
 Halińską	Halińska	subst:sg:acc:f	nazwisko	
@@ -4136,6 +4329,40 @@ Hałatowi	Hałat:s2	subst:sg:dat:m1	nazwisko
 Hałatów	Hałat:s2	subst:pl:gen.acc:m1	nazwisko	
 Hałaty	Hałat:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Hałat	Hałat:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hałcnowska	Hałcnowska	subst:sg:nom:f	człon nazwy geograficznej	
+Hałcnowska	Hałcnowska	subst:sg:voc:f	człon nazwy geograficznej	
+Hałcnowską	Hałcnowska	subst:sg:acc:f	człon nazwy geograficznej	
+Hałcnowską	Hałcnowska	subst:sg:inst:f	człon nazwy geograficznej	
+Hałcnowskich	Hałcnowska	subst:pl:gen:f	człon nazwy geograficznej	
+Hałcnowskich	Hałcnowska	subst:pl:loc:f	człon nazwy geograficznej	
+Hałcnowskie	Hałcnowska	subst:pl:nom.acc.voc:f	człon nazwy geograficznej	
+Hałcnowskiej	Hałcnowska	subst:sg:dat.loc:f	człon nazwy geograficznej	
+Hałcnowskiej	Hałcnowska	subst:sg:gen:f	człon nazwy geograficznej	
+Hałcnowskim	Hałcnowska	subst:pl:dat:f	człon nazwy geograficznej	
+Hałcnowskimi	Hałcnowska	subst:pl:inst:f	człon nazwy geograficznej	
+Hałcnowach	Hałcnów	subst:pl:loc:m3	nazwa geograficzna	
+Hałcnowa	Hałcnów	subst:sg:gen:m3	nazwa geograficzna	
+Hałcnowami	Hałcnów	subst:pl:inst:m3	nazwa geograficzna	
+Hałcnowem	Hałcnów	subst:sg:inst:m3	nazwa geograficzna	
+Hałcnowie	Hałcnów	subst:sg:loc:m3	nazwa geograficzna	
+Hałcnowie	Hałcnów	subst:sg:voc:m3	nazwa geograficzna	
+Hałcnowom	Hałcnów	subst:pl:dat:m3	nazwa geograficzna	
+Hałcnowowi	Hałcnów	subst:sg:dat:m3	nazwa geograficzna	
+Hałcnowów	Hałcnów	subst:pl:gen:m3	nazwa geograficzna	
+Hałcnowu	Hałcnów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hałcnowy	Hałcnów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hałcnów	Hałcnów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hałdach	Hałda	subst:pl:loc:f	człon nazwy geograficznej	
+Hałda	Hałda	subst:sg:nom:f	człon nazwy geograficznej	
+Hałdami	Hałda	subst:pl:inst:f	człon nazwy geograficznej	
+Hałdą	Hałda	subst:sg:inst:f	człon nazwy geograficznej	
+Hałdę	Hałda	subst:sg:acc:f	człon nazwy geograficznej	
+Hałd	Hałda	subst:pl:gen:f	człon nazwy geograficznej	
+Hałdo	Hałda	subst:sg:voc:f	człon nazwy geograficznej	
+Hałdom	Hałda	subst:pl:dat:f	człon nazwy geograficznej	
+Hałdy	Hałda	subst:pl:nom.acc.voc:f	człon nazwy geograficznej	
+Hałdy	Hałda	subst:sg:gen:f	człon nazwy geograficznej	
+Hałdzie	Hałda	subst:sg:dat.loc:f	człon nazwy geograficznej	
 Hałdasiach	Hałdaś:s1	subst:pl:loc:m1	nazwisko	
 Hałdasia	Hałdaś:s1	subst:sg:gen.acc:m1	nazwisko	
 Hałdasiami	Hałdaś:s1	subst:pl:inst:m1	nazwisko	
@@ -4150,6 +4377,16 @@ Hałdasiu	Hałdaś:s1	subst:sg:loc:m1	nazwisko
 Hałdasiu	Hałdaś:s1	subst:sg:voc:m1	nazwisko	
 Hałdaś	Hałdaś:s1	subst:sg:nom:m1	nazwisko	
 Hałdaś	Hałdaś:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hałdrychowicach	Hałdrychowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Hałdrychowicach	Hałdrychowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hałdrychowicami	Hałdrychowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Hałdrychowicami	Hałdrychowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hałdrychowice	Hałdrychowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hałdrychowice	Hałdrychowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hałdrychowic	Hałdrychowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Hałdrychowic	Hałdrychowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hałdrychowicom	Hałdrychowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Hałdrychowicom	Hałdrychowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hałdysach	Hałdys:s1	subst:pl:loc:m1	nazwisko	
 Hałdysa	Hałdys:s1	subst:sg:gen.acc:m1	nazwisko	
 Hałdysami	Hałdys:s1	subst:pl:inst:m1	nazwisko	
@@ -4163,6 +4400,16 @@ Hałdysowi	Hałdys:s1	subst:sg:dat:m1	nazwisko
 Hałdysów	Hałdys:s1	subst:pl:gen.acc:m1	nazwisko	
 Hałdysy	Hałdys:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Hałdys	Hałdys:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hałego	Hałe	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hałe	Hałe	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hałe	Hałe	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hałem	Hałe	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hałem	Hałe	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hałemu	Hałe	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hałych	Hałe	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hałych	Hałe	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hałym	Hałe	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hałymi	Hałe	subst:pl:inst:n:ncol	nazwa geograficzna	
 Hałek	Hałek:s1	subst:sg:nom:m1	nazwisko	
 Hałkach	Hałek:s1	subst:pl:loc:m1	nazwisko	
 Hałka	Hałek:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -4395,6 +4642,17 @@ Hałuszkom	Hałuszko:s1	subst:pl:dat:m1	nazwisko
 Hałuszkowie	Hałuszko:s1	subst:pl:nom.voc:m1	nazwisko	
 Hałuszków	Hałuszko:s1	subst:pl:gen.acc:m1	nazwisko	
 Hałuszko	Hałuszko:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hałuszowa	Hałuszowa	subst:sg:nom:f	nazwa geograficzna	
+Hałuszowa	Hałuszowa	subst:sg:voc:f	nazwa geograficzna	
+Hałuszową	Hałuszowa	subst:sg:acc:f	nazwa geograficzna	
+Hałuszową	Hałuszowa	subst:sg:inst:f	nazwa geograficzna	
+Hałuszowe	Hałuszowa	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hałuszowej	Hałuszowa	subst:sg:dat.loc:f	nazwa geograficzna	
+Hałuszowej	Hałuszowa	subst:sg:gen:f	nazwa geograficzna	
+Hałuszowych	Hałuszowa	subst:pl:gen:f	nazwa geograficzna	
+Hałuszowych	Hałuszowa	subst:pl:loc:f	nazwa geograficzna	
+Hałuszowym	Hałuszowa	subst:pl:dat:f	nazwa geograficzna	
+Hałuszowymi	Hałuszowa	subst:pl:inst:f	nazwa geograficzna	
 Hałysach	Hałys:s1	subst:pl:loc:m1	nazwisko	
 Hałysa	Hałys:s1	subst:sg:gen.acc:m1	nazwisko	
 Hałysami	Hałys:s1	subst:pl:inst:m1	nazwisko	
@@ -4504,6 +4762,18 @@ Hameli	Hamela:s2	subst:sg:dat.loc:f	nazwisko
 Hameli	Hamela:s2	subst:sg:gen:f	nazwisko	
 Hamelo	Hamela:s2	subst:sg:voc:f	nazwisko	
 Hamelom	Hamela:s2	subst:pl:dat:f	nazwisko	
+Hamentowach	Hamentów	subst:pl:loc:m3	nazwa geograficzna	
+Hamentowa	Hamentów	subst:sg:gen:m3	nazwa geograficzna	
+Hamentowami	Hamentów	subst:pl:inst:m3	nazwa geograficzna	
+Hamentowem	Hamentów	subst:sg:inst:m3	nazwa geograficzna	
+Hamentowie	Hamentów	subst:sg:loc:m3	nazwa geograficzna	
+Hamentowie	Hamentów	subst:sg:voc:m3	nazwa geograficzna	
+Hamentowom	Hamentów	subst:pl:dat:m3	nazwa geograficzna	
+Hamentowowi	Hamentów	subst:sg:dat:m3	nazwa geograficzna	
+Hamentowów	Hamentów	subst:pl:gen:m3	nazwa geograficzna	
+Hamentowu	Hamentów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hamentowy	Hamentów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hamentów	Hamentów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hamerach	Hamera:s2	subst:pl:loc:m1	nazwisko	
 Hamera	Hamera:s2	subst:sg:nom:m1	nazwisko	
 Hamerami	Hamera:s2	subst:pl:inst:m1	nazwisko	
@@ -4600,6 +4870,18 @@ Hamerlińskim	Hamerliński	subst:pl:dat:m1	nazwisko
 Hamerlińskim	Hamerliński	subst:sg:inst:m1	nazwisko	
 Hamerlińskim	Hamerliński	subst:sg:loc:m1	nazwisko	
 Hamerlińskimi	Hamerliński	subst:pl:inst:m1	nazwisko	
+Hamerniach	Hamernia	subst:pl:loc:f	nazwa geograficzna	
+Hamernia	Hamernia	subst:sg:nom:f	nazwa geograficzna	
+Hamerniami	Hamernia	subst:pl:inst:f	nazwa geograficzna	
+Hamernią	Hamernia	subst:sg:inst:f	nazwa geograficzna	
+Hamernie	Hamernia	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hamernię	Hamernia	subst:sg:acc:f	nazwa geograficzna	
+Hamerni	Hamernia	subst:pl:gen:f	nazwa geograficzna	hom.
+Hamerni	Hamernia	subst:sg:dat.loc:f	nazwa geograficzna	
+Hamerni	Hamernia	subst:sg:gen:f	nazwa geograficzna	
+Hamernio	Hamernia	subst:sg:voc:f	nazwa geograficzna	
+Hamerniom	Hamernia	subst:pl:dat:f	nazwa geograficzna	
+Hamerń	Hamernia	subst:pl:gen:f	nazwa geograficzna	char.
 Hamernikach	Hamernik:s1	subst:pl:loc:m1	nazwisko	
 Hamernika	Hamernik:s1	subst:sg:gen.acc:m1	nazwisko	
 Hamernikami	Hamernik:s1	subst:pl:inst:m1	nazwisko	
@@ -4859,6 +5141,16 @@ Hamryszczaków	Hamryszczak:s1	subst:pl:gen.acc:m1	nazwisko
 Hamryszczaku	Hamryszczak:s1	subst:sg:loc:m1	nazwisko	
 Hamryszczaku	Hamryszczak:s1	subst:sg:voc:m1	nazwisko	
 Hamryszczak	Hamryszczak:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hamrzyskach	Hamrzysko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hamrzyska	Hamrzysko	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hamrzyska	Hamrzysko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hamrzyskami	Hamrzysko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hamrzysk	Hamrzysko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hamrzyskiem	Hamrzysko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hamrzysko	Hamrzysko	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hamrzyskom	Hamrzysko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hamrzysku	Hamrzysko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hamrzysku	Hamrzysko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Hamsunach	Hamsun	subst:pl:loc:m1	nazwisko	
 Hamsuna	Hamsun	subst:sg:gen.acc:m1	nazwisko	
 Hamsunami	Hamsun	subst:pl:inst:m1	nazwisko	
@@ -4871,6 +5163,17 @@ Hamsunowie	Hamsun	subst:pl:nom.voc:m1	nazwisko
 Hamsunowi	Hamsun	subst:sg:dat:m1	nazwisko	
 Hamsunów	Hamsun	subst:pl:gen.acc:m1	nazwisko	
 Hamsuny	Hamsun	depr:pl:nom.acc.voc:m2	nazwisko	
+Hamulce	Hamulka	subst:sg:dat.loc:f	nazwa geograficzna	
+Hamulek	Hamulka	subst:pl:gen:f	nazwa geograficzna	
+Hamulkach	Hamulka	subst:pl:loc:f	nazwa geograficzna	
+Hamulka	Hamulka	subst:sg:nom:f	nazwa geograficzna	
+Hamulkami	Hamulka	subst:pl:inst:f	nazwa geograficzna	
+Hamulką	Hamulka	subst:sg:inst:f	nazwa geograficzna	
+Hamulkę	Hamulka	subst:sg:acc:f	nazwa geograficzna	
+Hamulki	Hamulka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hamulki	Hamulka	subst:sg:gen:f	nazwa geograficzna	
+Hamulko	Hamulka	subst:sg:voc:f	nazwa geograficzna	
+Hamulkom	Hamulka	subst:pl:dat:f	nazwa geograficzna	
 Hamulska	Hamulska	subst:sg:nom:f	nazwisko	
 Hamulska	Hamulska	subst:sg:voc:f	nazwisko	
 Hamulską	Hamulska	subst:sg:acc:f	nazwisko	
@@ -5161,6 +5464,17 @@ Handzlików	Handzlik:s2	subst:pl:gen.acc:m1	nazwisko
 Handzliku	Handzlik:s2	subst:sg:loc:m1	nazwisko	
 Handzliku	Handzlik:s2	subst:sg:voc:m1	nazwisko	
 Handzlik	Handzlik:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Handzlówce	Handzlówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Handzlówek	Handzlówka	subst:pl:gen:f	nazwa geograficzna	
+Handzlówkach	Handzlówka	subst:pl:loc:f	nazwa geograficzna	
+Handzlówka	Handzlówka	subst:sg:nom:f	nazwa geograficzna	
+Handzlówkami	Handzlówka	subst:pl:inst:f	nazwa geograficzna	
+Handzlówką	Handzlówka	subst:sg:inst:f	nazwa geograficzna	
+Handzlówkę	Handzlówka	subst:sg:acc:f	nazwa geograficzna	
+Handzlówki	Handzlówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Handzlówki	Handzlówka	subst:sg:gen:f	nazwa geograficzna	
+Handzlówko	Handzlówka	subst:sg:voc:f	nazwa geograficzna	
+Handzlówkom	Handzlówka	subst:pl:dat:f	nazwa geograficzna	
 Haneczce	Haneczka	subst:sg:dat.loc:f	imię	
 Haneczek	Haneczka	subst:pl:gen:f	imię	
 Haneczkach	Haneczka	subst:pl:loc:f	imię	
@@ -5394,6 +5708,16 @@ Hankom	Hanke:s1	subst:pl:dat:m1	nazwisko
 Hankowie	Hanke:s1	subst:pl:nom.voc:m1	nazwisko	
 Hanków	Hanke:s1	subst:pl:gen.acc:m1	nazwisko	
 Hanke	Hanke:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hanek	Hanki	subst:pl:gen:n:pt	nazwa geograficzna	
+Hanek	Hanki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hankach	Hanki	subst:pl:loc:n:pt	nazwa geograficzna	
+Hankach	Hanki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hankami	Hanki	subst:pl:inst:n:pt	nazwa geograficzna	
+Hankami	Hanki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hanki	Hanki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hanki	Hanki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hankom	Hanki	subst:pl:dat:n:pt	nazwa geograficzna	
+Hankom	Hanki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hankiewiczach	Hankiewicz:s2	subst:pl:loc:m1	nazwisko	
 Hankiewicza	Hankiewicz:s2	subst:sg:gen.acc:m1	nazwisko	
 Hankiewiczami	Hankiewicz:s2	subst:pl:inst:m1	nazwisko	
@@ -5444,17 +5768,28 @@ Hankusowi	Hankus:s2	subst:sg:dat:m1	nazwisko
 Hankusów	Hankus:s2	subst:pl:gen.acc:m1	nazwisko	
 Hankusy	Hankus:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Hankus	Hankus:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Hannach	Hanna	subst:pl:loc:f	imię	
-Hanna	Hanna	subst:sg:nom:f	imię	
-Hannami	Hanna	subst:pl:inst:f	imię	
-Hanną	Hanna	subst:sg:inst:f	imię	
-Hannę	Hanna	subst:sg:acc:f	imię	
-Hann	Hanna	subst:pl:gen:f	imię	
-Hannie	Hanna	subst:sg:dat.loc:f	imię	
-Hanno	Hanna	subst:sg:voc:f	imię	
-Hannom	Hanna	subst:pl:dat:f	imię	
-Hanny	Hanna	subst:pl:nom.acc.voc:f	imię	
-Hanny	Hanna	subst:sg:gen:f	imię	
+Hannach	Hanna:s1	subst:pl:loc:f	imię	
+Hanna	Hanna:s1	subst:sg:nom:f	imię	
+Hannami	Hanna:s1	subst:pl:inst:f	imię	
+Hanną	Hanna:s1	subst:sg:inst:f	imię	
+Hannę	Hanna:s1	subst:sg:acc:f	imię	
+Hann	Hanna:s1	subst:pl:gen:f	imię	
+Hannie	Hanna:s1	subst:sg:dat.loc:f	imię	
+Hanno	Hanna:s1	subst:sg:voc:f	imię	
+Hannom	Hanna:s1	subst:pl:dat:f	imię	
+Hanny	Hanna:s1	subst:pl:nom.acc.voc:f	imię	
+Hanny	Hanna:s1	subst:sg:gen:f	imię	
+Hannach	Hanna:s2	subst:pl:loc:f	nazwa geograficzna	
+Hanna	Hanna:s2	subst:sg:nom:f	nazwa geograficzna	
+Hannami	Hanna:s2	subst:pl:inst:f	nazwa geograficzna	
+Hanną	Hanna:s2	subst:sg:inst:f	nazwa geograficzna	
+Hannę	Hanna:s2	subst:sg:acc:f	nazwa geograficzna	
+Hann	Hanna:s2	subst:pl:gen:f	nazwa geograficzna	
+Hannie	Hanna:s2	subst:sg:dat.loc:f	nazwa geograficzna	
+Hanno	Hanna:s2	subst:sg:voc:f	nazwa geograficzna	
+Hannom	Hanna:s2	subst:pl:dat:f	nazwa geograficzna	
+Hanny	Hanna:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hanny	Hanna:s2	subst:sg:gen:f	nazwa geograficzna	
 Hannawaldach	Hannawald	subst:pl:loc:m1	nazwisko	
 Hannawalda	Hannawald	subst:sg:gen.acc:m1	nazwisko	
 Hannawaldami	Hannawald	subst:pl:inst:m1	nazwisko	
@@ -5511,6 +5846,18 @@ Hanoweru	Hanower	subst:sg:gen:m3	nazwa geograficzna
 Hanowery	Hanower	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Hanowerze	Hanower	subst:sg:loc:m3	nazwa geograficzna	
 Hanowerze	Hanower	subst:sg:voc:m3	nazwa geograficzna	
+Hanowach	Hanowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hanowa	Hanowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hanowa	Hanowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hanowami	Hanowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hanowem	Hanowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hanow	Hanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hanowie	Hanowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hanowo	Hanowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hanowom	Hanowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hanowów	Hanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hanowu	Hanowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hanów	Hanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Hanowska	Hanowska	subst:sg:nom:f	nazwisko	
 Hanowska	Hanowska	subst:sg:voc:f	nazwisko	
 Hanowską	Hanowska	subst:sg:acc:f	nazwisko	
@@ -5534,6 +5881,18 @@ Hanowskim	Hanowski	subst:pl:dat:m1	nazwisko
 Hanowskim	Hanowski	subst:sg:inst:m1	nazwisko	
 Hanowskim	Hanowski	subst:sg:loc:m1	nazwisko	
 Hanowskimi	Hanowski	subst:pl:inst:m1	nazwisko	
+Hanowach	Hanów	subst:pl:loc:m3	nazwa geograficzna	
+Hanowa	Hanów	subst:sg:gen:m3	nazwa geograficzna	
+Hanowami	Hanów	subst:pl:inst:m3	nazwa geograficzna	
+Hanowem	Hanów	subst:sg:inst:m3	nazwa geograficzna	
+Hanowie	Hanów	subst:sg:loc:m3	nazwa geograficzna	
+Hanowie	Hanów	subst:sg:voc:m3	nazwa geograficzna	
+Hanowom	Hanów	subst:pl:dat:m3	nazwa geograficzna	
+Hanowowi	Hanów	subst:sg:dat:m3	nazwa geograficzna	
+Hanowów	Hanów	subst:pl:gen:m3	nazwa geograficzna	
+Hanowu	Hanów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hanowy	Hanów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hanów	Hanów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hanach	Han:s1	subst:pl:loc:m1	nazwisko	
 Hana	Han:s1	subst:sg:gen.acc:m1	nazwisko	
 Hanami	Han:s1	subst:pl:inst:m1	nazwisko	
@@ -5736,6 +6095,17 @@ Hanusków	Hanusek:s1	subst:pl:gen.acc:m1	nazwisko
 Hanusku	Hanusek:s1	subst:sg:loc:m1	nazwisko	
 Hanusku	Hanusek:s1	subst:sg:voc:m1	nazwisko	
 Hanusek	Hanusek:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hanusek	Hanusek:s3	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hanuskach	Hanusek:s3	subst:pl:loc:m3	nazwa geograficzna	
+Hanuska	Hanusek:s3	subst:sg:gen:m3	nazwa geograficzna	
+Hanuskami	Hanusek:s3	subst:pl:inst:m3	nazwa geograficzna	
+Hanuskiem	Hanusek:s3	subst:sg:inst:m3	nazwa geograficzna	
+Hanuski	Hanusek:s3	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hanuskom	Hanusek:s3	subst:pl:dat:m3	nazwa geograficzna	
+Hanuskowi	Hanusek:s3	subst:sg:dat:m3	nazwa geograficzna	
+Hanusków	Hanusek:s3	subst:pl:gen:m3	nazwa geograficzna	
+Hanusku	Hanusek:s3	subst:sg:loc:m3	nazwa geograficzna	
+Hanusku	Hanusek:s3	subst:sg:voc:m3	nazwa geograficzna	
 Hanusiach	Hanusia	subst:pl:loc:f	imię	
 Hanusia	Hanusia	subst:sg:nom:f	imię	
 Hanusiami	Hanusia	subst:pl:inst:f	imię	
@@ -5851,6 +6221,18 @@ Hanuszkiewiczów	Hanuszkiewicz:s1	subst:pl:gen.acc:m1	nazwisko
 Hanuszkiewiczu	Hanuszkiewicz:s1	subst:sg:loc:m1	nazwisko	
 Hanuszkiewiczu	Hanuszkiewicz:s1	subst:sg:voc:m1	nazwisko	
 Hanuszkiewicz	Hanuszkiewicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hanuszowach	Hanuszów	subst:pl:loc:m3	nazwa geograficzna	
+Hanuszowa	Hanuszów	subst:sg:gen:m3	nazwa geograficzna	
+Hanuszowami	Hanuszów	subst:pl:inst:m3	nazwa geograficzna	
+Hanuszowem	Hanuszów	subst:sg:inst:m3	nazwa geograficzna	
+Hanuszowie	Hanuszów	subst:sg:loc:m3	nazwa geograficzna	
+Hanuszowie	Hanuszów	subst:sg:voc:m3	nazwa geograficzna	
+Hanuszowom	Hanuszów	subst:pl:dat:m3	nazwa geograficzna	
+Hanuszowowi	Hanuszów	subst:sg:dat:m3	nazwa geograficzna	
+Hanuszowów	Hanuszów	subst:pl:gen:m3	nazwa geograficzna	
+Hanuszowu	Hanuszów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hanuszowy	Hanuszów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hanuszów	Hanuszów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hanuszach	Hanusz:s1	subst:pl:loc:m1	nazwisko	
 Hanusza	Hanusz:s1	subst:sg:gen.acc:m1	nazwisko	
 Hanuszami	Hanusz:s1	subst:pl:inst:m1	nazwisko	
@@ -6011,6 +6393,17 @@ Hańczewskim	Hańczewski	subst:pl:dat:m1	nazwisko
 Hańczewskim	Hańczewski	subst:sg:inst:m1	nazwisko	
 Hańczewskim	Hańczewski	subst:sg:loc:m1	nazwisko	
 Hańczewskimi	Hańczewski	subst:pl:inst:m1	nazwisko	
+Hańczowa	Hańczowa	subst:sg:nom:f	nazwa geograficzna	
+Hańczowa	Hańczowa	subst:sg:voc:f	nazwa geograficzna	
+Hańczową	Hańczowa	subst:sg:acc:f	nazwa geograficzna	
+Hańczową	Hańczowa	subst:sg:inst:f	nazwa geograficzna	
+Hańczowe	Hańczowa	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hańczowej	Hańczowa	subst:sg:dat.loc:f	nazwa geograficzna	
+Hańczowej	Hańczowa	subst:sg:gen:f	nazwa geograficzna	
+Hańczowych	Hańczowa	subst:pl:gen:f	nazwa geograficzna	
+Hańczowych	Hańczowa	subst:pl:loc:f	nazwa geograficzna	
+Hańczowym	Hańczowa	subst:pl:dat:f	nazwa geograficzna	
+Hańczowymi	Hańczowa	subst:pl:inst:f	nazwa geograficzna	
 Hańczukach	Hańczuk:s1	subst:pl:loc:m1	nazwisko	
 Hańczuka	Hańczuk:s1	subst:sg:gen.acc:m1	nazwisko	
 Hańczukami	Hańczuk:s1	subst:pl:inst:m1	nazwisko	
@@ -6089,6 +6482,17 @@ Hańderków	Hańderek:s1	subst:pl:gen.acc:m1	nazwisko
 Hańderku	Hańderek:s1	subst:sg:loc:m1	nazwisko	
 Hańderku	Hańderek:s1	subst:sg:voc:m1	nazwisko	
 Hańderek	Hańderek:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hańskach	Hańsk	subst:pl:loc:m3	człon nazwy geograficznej	
+Hańska	Hańsk	subst:sg:gen:m3	człon nazwy geograficznej	
+Hańskami	Hańsk	subst:pl:inst:m3	człon nazwy geograficznej	
+Hańsk	Hańsk	subst:sg:nom.acc:m3	człon nazwy geograficznej	
+Hańskiem	Hańsk	subst:sg:inst:m3	człon nazwy geograficznej	
+Hański	Hańsk	subst:pl:nom.acc.voc:m3	człon nazwy geograficznej	
+Hańskom	Hańsk	subst:pl:dat:m3	człon nazwy geograficznej	
+Hańskowi	Hańsk	subst:sg:dat:m3	człon nazwy geograficznej	
+Hańsków	Hańsk	subst:pl:gen:m3	człon nazwy geograficznej	
+Hańsku	Hańsk	subst:sg:loc:m3	człon nazwy geograficznej	
+Hańsku	Hańsk	subst:sg:voc:m3	człon nazwy geograficznej	
 Hańska	Hańska	subst:sg:nom:f	nazwisko	
 Hańska	Hańska	subst:sg:voc:f	nazwisko	
 Hańską	Hańska	subst:sg:acc:f	nazwisko	
@@ -6338,6 +6742,16 @@ Haraburdom	Haraburda:s3	subst:pl:dat:f	nazwisko
 Haraburdy	Haraburda:s3	subst:pl:nom.acc.voc:f	nazwisko	
 Haraburdy	Haraburda:s3	subst:sg:gen:f	nazwisko	
 Haraburdzie	Haraburda:s3	subst:sg:dat.loc:f	nazwisko	
+Harachwostach	Harachwosty	subst:pl:loc:n:pt	nazwa geograficzna	
+Harachwostach	Harachwosty	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Harachwostami	Harachwosty	subst:pl:inst:n:pt	nazwa geograficzna	
+Harachwostami	Harachwosty	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Harachwost	Harachwosty	subst:pl:gen:n:pt	nazwa geograficzna	
+Harachwost	Harachwosty	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Harachwostom	Harachwosty	subst:pl:dat:n:pt	nazwa geograficzna	
+Harachwostom	Harachwosty	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Harachwosty	Harachwosty	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Harachwosty	Harachwosty	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Haraczach	Haracz:s1	subst:pl:loc:m1	nazwisko	
 Haracza	Haracz:s1	subst:sg:gen.acc:m1	nazwisko	
 Haraczami	Haracz:s1	subst:pl:inst:m1	nazwisko	
@@ -6452,6 +6866,16 @@ Harasimiuków	Harasimiuk:s2	subst:pl:gen.acc:m1	nazwisko
 Harasimiuku	Harasimiuk:s2	subst:sg:loc:m1	nazwisko	
 Harasimiuku	Harasimiuk:s2	subst:sg:voc:m1	nazwisko	
 Harasimiuk	Harasimiuk:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Harasimowiczach	Harasimowicze	subst:pl:loc:n:pt	nazwa geograficzna	
+Harasimowiczach	Harasimowicze	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Harasimowiczami	Harasimowicze	subst:pl:inst:n:pt	nazwa geograficzna	
+Harasimowiczami	Harasimowicze	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Harasimowicze	Harasimowicze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Harasimowicze	Harasimowicze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Harasimowicz	Harasimowicze	subst:pl:gen:n:pt	nazwa geograficzna	
+Harasimowicz	Harasimowicze	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Harasimowiczom	Harasimowicze	subst:pl:dat:n:pt	nazwa geograficzna	
+Harasimowiczom	Harasimowicze	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Harasimowiczach	Harasimowicz:s2	subst:pl:loc:m1	nazwisko	
 Harasimowicza	Harasimowicz:s2	subst:sg:gen.acc:m1	nazwisko	
 Harasimowiczami	Harasimowicz:s2	subst:pl:inst:m1	nazwisko	
@@ -6479,6 +6903,16 @@ Harasimowi	Harasim:s2	subst:sg:dat:m1	nazwisko
 Harasimów	Harasim:s2	subst:pl:gen.acc:m1	nazwisko	
 Harasimy	Harasim:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Harasim	Harasim:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Harasiukach	Harasiuki	subst:pl:loc:n:pt	nazwa geograficzna	
+Harasiukach	Harasiuki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Harasiukami	Harasiuki	subst:pl:inst:n:pt	nazwa geograficzna	
+Harasiukami	Harasiuki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Harasiuk	Harasiuki	subst:pl:gen:n:pt	nazwa geograficzna	
+Harasiuk	Harasiuki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Harasiuki	Harasiuki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Harasiuki	Harasiuki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Harasiukom	Harasiuki	subst:pl:dat:n:pt	nazwa geograficzna	
+Harasiukom	Harasiuki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Harasiukach	Harasiuk:s1	subst:pl:loc:m1	nazwisko	
 Harasiuka	Harasiuk:s1	subst:sg:gen.acc:m1	nazwisko	
 Harasiukami	Harasiuk:s1	subst:pl:inst:m1	nazwisko	
@@ -6771,6 +7205,26 @@ Harbatowi	Harbat:s1	subst:sg:dat:m1	nazwisko
 Harbatów	Harbat:s1	subst:pl:gen.acc:m1	nazwisko	
 Harbaty	Harbat:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Harbat	Harbat:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Harbułtowicach	Harbułtowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Harbułtowicach	Harbułtowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Harbułtowicami	Harbułtowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Harbułtowicami	Harbułtowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Harbułtowice	Harbułtowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Harbułtowice	Harbułtowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Harbułtowic	Harbułtowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Harbułtowic	Harbułtowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Harbułtowicom	Harbułtowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Harbułtowicom	Harbułtowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Harbutowicach	Harbutowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Harbutowicach	Harbutowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Harbutowicami	Harbutowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Harbutowicami	Harbutowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Harbutowice	Harbutowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Harbutowice	Harbutowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Harbutowic	Harbutowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Harbutowic	Harbutowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Harbutowicom	Harbutowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Harbutowicom	Harbutowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Harbucie	Harbut:s1	subst:sg:loc:m1	nazwisko	
 Harbucie	Harbut:s1	subst:sg:voc:m1	nazwisko	
 Harbutach	Harbut:s1	subst:pl:loc:m1	nazwisko	
@@ -7214,6 +7668,38 @@ Harkabuzowi	Harkabuz:s1	subst:sg:dat:m1	nazwisko
 Harkabuzów	Harkabuz:s1	subst:pl:gen.acc:m1	nazwisko	
 Harkabuzy	Harkabuz:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Harkabuz	Harkabuz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Harkabuzach	Harkabuz:s3	subst:pl:loc:m3	nazwa geograficzna	
+Harkabuza	Harkabuz:s3	subst:sg:gen:m3	nazwa geograficzna	
+Harkabuzami	Harkabuz:s3	subst:pl:inst:m3	nazwa geograficzna	
+Harkabuzem	Harkabuz:s3	subst:sg:inst:m3	nazwa geograficzna	
+Harkabuz	Harkabuz:s3	subst:sg:nom.acc:m3	nazwa geograficzna	
+Harkabuzie	Harkabuz:s3	subst:sg:loc:m3	nazwa geograficzna	
+Harkabuzie	Harkabuz:s3	subst:sg:voc:m3	nazwa geograficzna	
+Harkabuzom	Harkabuz:s3	subst:pl:dat:m3	nazwa geograficzna	
+Harkabuzowi	Harkabuz:s3	subst:sg:dat:m3	nazwa geograficzna	
+Harkabuzów	Harkabuz:s3	subst:pl:gen:m3	nazwa geograficzna	
+Harkabuzy	Harkabuz:s3	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Harkawiczach	Harkawicze	subst:pl:loc:n:pt	nazwa geograficzna	
+Harkawiczach	Harkawicze	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Harkawiczami	Harkawicze	subst:pl:inst:n:pt	nazwa geograficzna	
+Harkawiczami	Harkawicze	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Harkawicze	Harkawicze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Harkawicze	Harkawicze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Harkawicz	Harkawicze	subst:pl:gen:n:pt	nazwa geograficzna	
+Harkawicz	Harkawicze	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Harkawiczom	Harkawicze	subst:pl:dat:n:pt	nazwa geograficzna	
+Harkawiczom	Harkawicze	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Harklowa	Harklowa	subst:sg:nom:f	nazwa geograficzna	
+Harklowa	Harklowa	subst:sg:voc:f	nazwa geograficzna	
+Harklową	Harklowa	subst:sg:acc:f	nazwa geograficzna	
+Harklową	Harklowa	subst:sg:inst:f	nazwa geograficzna	
+Harklowe	Harklowa	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Harklowej	Harklowa	subst:sg:dat.loc:f	nazwa geograficzna	
+Harklowej	Harklowa	subst:sg:gen:f	nazwa geograficzna	
+Harklowych	Harklowa	subst:pl:gen:f	nazwa geograficzna	
+Harklowych	Harklowa	subst:pl:loc:f	nazwa geograficzna	
+Harklowym	Harklowa	subst:pl:dat:f	nazwa geograficzna	
+Harklowymi	Harklowa	subst:pl:inst:f	nazwa geograficzna	
 Harce	Harko:s1	subst:sg:dat.loc:m1	nazwisko	
 Harkach	Harko:s1	subst:pl:loc:m1	nazwisko	
 Harkami	Harko:s1	subst:pl:inst:m1	nazwisko	
@@ -7351,6 +7837,26 @@ Harmato	Harmata:s2	subst:sg:voc:f	nazwisko
 Harmatom	Harmata:s2	subst:pl:dat:f	nazwisko	
 Harmaty	Harmata:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Harmaty	Harmata:s2	subst:sg:gen:f	nazwisko	
+Harmężach	Harmęże	subst:pl:loc:n:pt	nazwa geograficzna	
+Harmężach	Harmęże	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Harmężami	Harmęże	subst:pl:inst:n:pt	nazwa geograficzna	
+Harmężami	Harmęże	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Harmęże	Harmęże	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Harmęże	Harmęże	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Harmęż	Harmęże	subst:pl:gen:n:pt	nazwa geograficzna	
+Harmęż	Harmęże	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Harmężom	Harmęże	subst:pl:dat:n:pt	nazwa geograficzna	
+Harmężom	Harmęże	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Harmoninach	Harmoniny	subst:pl:loc:n:pt	nazwa geograficzna	
+Harmoninach	Harmoniny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Harmoninami	Harmoniny	subst:pl:inst:n:pt	nazwa geograficzna	
+Harmoninami	Harmoniny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Harmonin	Harmoniny	subst:pl:gen:n:pt	nazwa geograficzna	
+Harmonin	Harmoniny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Harmoninom	Harmoniny	subst:pl:dat:n:pt	nazwa geograficzna	
+Harmoninom	Harmoniny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Harmoniny	Harmoniny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Harmoniny	Harmoniny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Harnaszach	Harnasz:s1	subst:pl:loc:m1	nazwisko	
 Harnasza	Harnasz:s1	subst:sg:gen.acc:m1	nazwisko	
 Harnaszami	Harnasz:s1	subst:pl:inst:m1	nazwisko	
@@ -7431,6 +7937,17 @@ Harrym	Harry	subst:pl:dat:m1	imię
 Harrym	Harry	subst:sg:inst:m1	imię	
 Harrym	Harry	subst:sg:loc:m1	imię	
 Harrymi	Harry	subst:pl:inst:m1	imię	
+Harszach	Harsz	subst:pl:loc:m3	nazwa geograficzna	
+Harsza	Harsz	subst:sg:gen:m3	nazwa geograficzna	
+Harszami	Harsz	subst:pl:inst:m3	nazwa geograficzna	
+Harsze	Harsz	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Harszem	Harsz	subst:sg:inst:m3	nazwa geograficzna	
+Harsz	Harsz	subst:sg:nom.acc:m3	nazwa geograficzna	
+Harszom	Harsz	subst:pl:dat:m3	nazwa geograficzna	
+Harszowi	Harsz	subst:sg:dat:m3	nazwa geograficzna	
+Harszu	Harsz	subst:sg:loc:m3	nazwa geograficzna	
+Harszu	Harsz	subst:sg:voc:m3	nazwa geograficzna	
+Harszy	Harsz	subst:pl:gen:m3	nazwa geograficzna	
 Harszach	Harsze:s1	subst:pl:loc:m1	nazwisko	
 Harszami	Harsze:s1	subst:pl:inst:m1	nazwisko	
 Harszego	Harsze:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -7444,6 +7961,17 @@ Harszom	Harsze:s1	subst:pl:dat:m1	nazwisko
 Harszowie	Harsze:s1	subst:pl:nom.voc:m1	nazwisko	
 Harszów	Harsze:s1	subst:pl:gen.acc:m1	nazwisko	
 Harsze	Harsze:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Harcie	Harta	subst:sg:dat.loc:f	nazwa geograficzna	
+Hartach	Harta	subst:pl:loc:f	nazwa geograficzna	
+Harta	Harta	subst:sg:nom:f	nazwa geograficzna	
+Hartami	Harta	subst:pl:inst:f	nazwa geograficzna	
+Hartą	Harta	subst:sg:inst:f	nazwa geograficzna	
+Hartę	Harta	subst:sg:acc:f	nazwa geograficzna	
+Hart	Harta	subst:pl:gen:f	nazwa geograficzna	
+Harto	Harta	subst:sg:voc:f	nazwa geograficzna	
+Hartom	Harta	subst:pl:dat:f	nazwa geograficzna	
+Harty	Harta	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Harty	Harta	subst:sg:gen:f	nazwa geograficzna	
 Hartabusach	Hartabus:s1	subst:pl:loc:m1	nazwisko	
 Hartabusa	Hartabus:s1	subst:sg:gen.acc:m1	nazwisko	
 Hartabusami	Hartabus:s1	subst:pl:inst:m1	nazwisko	
@@ -7520,6 +8048,17 @@ Hartmanowi	Hartman:s2	subst:sg:dat:m1	nazwisko
 Hartmanów	Hartman:s2	subst:pl:gen.acc:m1	nazwisko	
 Hartmany	Hartman:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Hartman	Hartman:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hartowcach	Hartowiec	subst:pl:loc:m3	nazwa geograficzna	
+Hartowca	Hartowiec	subst:sg:gen:m3	nazwa geograficzna	
+Hartowcami	Hartowiec	subst:pl:inst:m3	nazwa geograficzna	
+Hartowce	Hartowiec	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hartowcem	Hartowiec	subst:sg:inst:m3	nazwa geograficzna	
+Hartowcom	Hartowiec	subst:pl:dat:m3	nazwa geograficzna	
+Hartowcowi	Hartowiec	subst:sg:dat:m3	nazwa geograficzna	
+Hartowców	Hartowiec	subst:pl:gen:m3	nazwa geograficzna	
+Hartowcu	Hartowiec	subst:sg:loc:m3	nazwa geograficzna	
+Hartowcu	Hartowiec	subst:sg:voc:m3	nazwa geograficzna	
+Hartowiec	Hartowiec	subst:sg:nom.acc:m3	nazwa geograficzna	
 Harcie	Hart:s1	subst:sg:loc:m1	nazwisko	
 Harcie	Hart:s1	subst:sg:voc:m1	nazwisko	
 Hartach	Hart:s1	subst:pl:loc:m1	nazwisko	
@@ -8459,6 +8998,16 @@ Hawliczków	Hawliczek:s1	subst:pl:gen.acc:m1	nazwisko
 Hawliczku	Hawliczek:s1	subst:sg:loc:m1	nazwisko	
 Hawliczku	Hawliczek:s1	subst:sg:voc:m1	nazwisko	
 Hawliczek	Hawliczek:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hawłowicach	Hawłowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Hawłowicach	Hawłowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hawłowicami	Hawłowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Hawłowicami	Hawłowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hawłowice	Hawłowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hawłowice	Hawłowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hawłowic	Hawłowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Hawłowic	Hawłowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hawłowicom	Hawłowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Hawłowicom	Hawłowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hawranek	Hawranek:s1	subst:sg:nom:m1	nazwisko	
 Hawrankach	Hawranek:s1	subst:pl:loc:m1	nazwisko	
 Hawranka	Hawranek:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -8590,6 +9139,16 @@ Hawryluków	Hawryluk:s2	subst:pl:gen.acc:m1	nazwisko
 Hawryluku	Hawryluk:s2	subst:sg:loc:m1	nazwisko	
 Hawryluku	Hawryluk:s2	subst:sg:voc:m1	nazwisko	
 Hawryluk	Hawryluk:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hawryłek	Hawryłki	subst:pl:gen:n:pt	nazwa geograficzna	
+Hawryłek	Hawryłki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hawryłkach	Hawryłki	subst:pl:loc:n:pt	nazwa geograficzna	
+Hawryłkach	Hawryłki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hawryłkami	Hawryłki	subst:pl:inst:n:pt	nazwa geograficzna	
+Hawryłkami	Hawryłki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hawryłki	Hawryłki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hawryłki	Hawryłki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hawryłkom	Hawryłki	subst:pl:dat:n:pt	nazwa geograficzna	
+Hawryłkom	Hawryłki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hawryłkiewiczach	Hawryłkiewicz:s1	subst:pl:loc:m1	nazwisko	
 Hawryłkiewicza	Hawryłkiewicz:s1	subst:sg:gen.acc:m1	nazwisko	
 Hawryłkiewiczami	Hawryłkiewicz:s1	subst:pl:inst:m1	nazwisko	
@@ -8983,6 +9542,18 @@ Hebdowskim	Hebdowski	subst:pl:dat:m1	nazwisko
 Hebdowskim	Hebdowski	subst:sg:inst:m1	nazwisko	
 Hebdowskim	Hebdowski	subst:sg:loc:m1	nazwisko	
 Hebdowskimi	Hebdowski	subst:pl:inst:m1	nazwisko	
+Hebdowach	Hebdów	subst:pl:loc:m3	nazwa geograficzna	
+Hebdowa	Hebdów	subst:sg:gen:m3	nazwa geograficzna	
+Hebdowami	Hebdów	subst:pl:inst:m3	nazwa geograficzna	
+Hebdowem	Hebdów	subst:sg:inst:m3	nazwa geograficzna	
+Hebdowie	Hebdów	subst:sg:loc:m3	nazwa geograficzna	
+Hebdowie	Hebdów	subst:sg:voc:m3	nazwa geograficzna	
+Hebdowom	Hebdów	subst:pl:dat:m3	nazwa geograficzna	
+Hebdowowi	Hebdów	subst:sg:dat:m3	nazwa geograficzna	
+Hebdowów	Hebdów	subst:pl:gen:m3	nazwa geograficzna	
+Hebdowu	Hebdów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hebdowy	Hebdów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hebdów	Hebdów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hebel	Hebel:s1	subst:sg:nom:m1	nazwisko	
 Heblach	Hebel:s1	subst:pl:loc:m1	nazwisko	
 Hebla	Hebel:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -9082,6 +9653,16 @@ Heczkom	Heczko:s1	subst:pl:dat:m1	nazwisko
 Heczkowie	Heczko:s1	subst:pl:nom.voc:m1	nazwisko	
 Heczków	Heczko:s1	subst:pl:gen.acc:m1	nazwisko	
 Heczko	Heczko:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hecznarowicach	Hecznarowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Hecznarowicach	Hecznarowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hecznarowicami	Hecznarowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Hecznarowicami	Hecznarowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hecznarowice	Hecznarowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hecznarowice	Hecznarowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hecznarowic	Hecznarowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Hecznarowic	Hecznarowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hecznarowicom	Hecznarowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Hecznarowicom	Hecznarowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hećce	Hećko:s1	subst:sg:dat.loc:m1	nazwisko	
 Hećkach	Hećko:s1	subst:pl:loc:m1	nazwisko	
 Hećkami	Hećko:s1	subst:pl:inst:m1	nazwisko	
@@ -9144,6 +9725,17 @@ Hedrychu	Hedrych:s1	subst:sg:loc:m1	nazwisko
 Hedrychu	Hedrych:s1	subst:sg:voc:m1	nazwisko	
 Hedrychy	Hedrych:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Hedrych	Hedrych:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hedwiżynach	Hedwiżyn	subst:pl:loc:m3	nazwa geograficzna	
+Hedwiżyna	Hedwiżyn	subst:sg:gen:m3	nazwa geograficzna	
+Hedwiżynami	Hedwiżyn	subst:pl:inst:m3	nazwa geograficzna	
+Hedwiżynem	Hedwiżyn	subst:sg:inst:m3	nazwa geograficzna	
+Hedwiżyn	Hedwiżyn	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hedwiżynie	Hedwiżyn	subst:sg:loc:m3	nazwa geograficzna	
+Hedwiżynie	Hedwiżyn	subst:sg:voc:m3	nazwa geograficzna	
+Hedwiżynom	Hedwiżyn	subst:pl:dat:m3	nazwa geograficzna	
+Hedwiżynowi	Hedwiżyn	subst:sg:dat:m3	nazwa geograficzna	
+Hedwiżynów	Hedwiżyn	subst:pl:gen:m3	nazwa geograficzna	
+Hedwiżyny	Hedwiżyn	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Hedzielska	Hedzielska	subst:sg:nom:f	nazwisko	
 Hedzielska	Hedzielska	subst:sg:voc:f	nazwisko	
 Hedzielską	Hedzielska	subst:sg:acc:f	nazwisko	
@@ -9511,6 +10103,16 @@ Hejaków	Hejak:s1	subst:pl:gen.acc:m1	nazwisko
 Hejaku	Hejak:s1	subst:sg:loc:m1	nazwisko	
 Hejaku	Hejak:s1	subst:sg:voc:m1	nazwisko	
 Hejak	Hejak:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hejbutach	Hejbuty	subst:pl:loc:n:pt	nazwa geograficzna	
+Hejbutach	Hejbuty	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hejbutami	Hejbuty	subst:pl:inst:n:pt	nazwa geograficzna	
+Hejbutami	Hejbuty	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hejbut	Hejbuty	subst:pl:gen:n:pt	nazwa geograficzna	
+Hejbut	Hejbuty	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hejbutom	Hejbuty	subst:pl:dat:n:pt	nazwa geograficzna	
+Hejbutom	Hejbuty	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Hejbuty	Hejbuty	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hejbuty	Hejbuty	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Hejczykach	Hejczyk:s1	subst:pl:loc:m1	nazwisko	
 Hejczyka	Hejczyk:s1	subst:sg:gen.acc:m1	nazwisko	
 Hejczykami	Hejczyk:s1	subst:pl:inst:m1	nazwisko	
@@ -9583,6 +10185,17 @@ Hejduków	Hejduk:s2	subst:pl:gen.acc:m1	nazwisko
 Hejduku	Hejduk:s2	subst:sg:loc:m1	nazwisko	
 Hejduku	Hejduk:s2	subst:sg:voc:m1	nazwisko	
 Hejduk	Hejduk:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hejdykach	Hejdyk	subst:pl:loc:m3	nazwa geograficzna	
+Hejdyka	Hejdyk	subst:sg:gen:m3	nazwa geograficzna	
+Hejdykami	Hejdyk	subst:pl:inst:m3	nazwa geograficzna	
+Hejdyk	Hejdyk	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hejdykiem	Hejdyk	subst:sg:inst:m3	nazwa geograficzna	
+Hejdyki	Hejdyk	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hejdykom	Hejdyk	subst:pl:dat:m3	nazwa geograficzna	
+Hejdykowi	Hejdyk	subst:sg:dat:m3	nazwa geograficzna	
+Hejdyków	Hejdyk	subst:pl:gen:m3	nazwa geograficzna	
+Hejdyku	Hejdyk	subst:sg:loc:m3	nazwa geograficzna	
+Hejdyku	Hejdyk	subst:sg:voc:m3	nazwa geograficzna	
 Hejdyszach	Hejdysz:s1	subst:pl:loc:m1	nazwisko	
 Hejdysza	Hejdysz:s1	subst:sg:gen.acc:m1	nazwisko	
 Hejdyszami	Hejdysz:s1	subst:pl:inst:m1	nazwisko	
@@ -9973,6 +10586,16 @@ Hekslów	Heksel:s1	subst:pl:gen.acc:m1	nazwisko
 Hekslu	Heksel:s1	subst:sg:loc:m1	nazwisko	
 Hekslu	Heksel:s1	subst:sg:voc:m1	nazwisko	
 Heksel	Heksel:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hektarach	Hektary	subst:pl:loc:n:pt	nazwa geograficzna	
+Hektarach	Hektary	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hektarami	Hektary	subst:pl:inst:n:pt	nazwa geograficzna	
+Hektarami	Hektary	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hektarom	Hektary	subst:pl:dat:n:pt	nazwa geograficzna	
+Hektarom	Hektary	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Hektarów	Hektary	subst:pl:gen:n:pt	nazwa geograficzna	
+Hektarów	Hektary	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hektary	Hektary	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hektary	Hektary	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Hektorach	Hektor	subst:pl:loc:m1	imię	
 Hektora	Hektor	subst:sg:gen.acc:m1	imię	
 Hektorami	Hektor	subst:pl:inst:m1	imię	
@@ -9986,6 +10609,17 @@ Hektory	Hektor	depr:pl:nom.acc.voc:m2	imię
 Hektorze	Hektor	subst:sg:loc:m1	imię	
 Hektorze	Hektor	subst:sg:voc:m1	imię	
 Hektorzy	Hektor	subst:pl:nom.voc:m1	imię	
+Helach	Hel	subst:pl:loc:m3	nazwa geograficzna	
+Helami	Hel	subst:pl:inst:m3	nazwa geograficzna	
+Hele	Hel	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Helem	Hel	subst:sg:inst:m3	nazwa geograficzna	
+Hel	Hel	subst:sg:nom.acc:m3	nazwa geograficzna	
+Heli	Hel	subst:pl:gen:m3	nazwa geograficzna	
+Helom	Hel	subst:pl:dat:m3	nazwa geograficzna	
+Helowi	Hel	subst:sg:dat:m3	nazwa geograficzna	
+Helu	Hel	subst:sg:gen:m3	nazwa geograficzna	
+Helu	Hel	subst:sg:loc:m3	nazwa geograficzna	
+Helu	Hel	subst:sg:voc:m3	nazwa geograficzna	
 Helach	Hela	subst:pl:loc:f	imię	
 Hela	Hela	subst:sg:nom:f	imię	
 Helami	Hela	subst:pl:inst:f	imię	
@@ -10124,17 +10758,86 @@ Heleniaków	Heleniak:s2	subst:pl:gen.acc:m1	nazwisko
 Heleniaku	Heleniak:s2	subst:sg:loc:m1	nazwisko	
 Heleniaku	Heleniak:s2	subst:sg:voc:m1	nazwisko	
 Heleniak	Heleniak:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Helence	Helenka	subst:sg:dat.loc:f	imię	
-Helenek	Helenka	subst:pl:gen:f	imię	
-Helenkach	Helenka	subst:pl:loc:f	imię	
-Helenka	Helenka	subst:sg:nom:f	imię	
-Helenkami	Helenka	subst:pl:inst:f	imię	
-Helenką	Helenka	subst:sg:inst:f	imię	
-Helenkę	Helenka	subst:sg:acc:f	imię	
-Helenki	Helenka	subst:pl:nom.acc.voc:f	imię	
-Helenki	Helenka	subst:sg:gen:f	imię	
-Helenko	Helenka	subst:sg:voc:f	imię	
-Helenkom	Helenka	subst:pl:dat:f	imię	
+Helence	Helenka:s1	subst:sg:dat.loc:f	imię	
+Helenek	Helenka:s1	subst:pl:gen:f	imię	
+Helenkach	Helenka:s1	subst:pl:loc:f	imię	
+Helenka	Helenka:s1	subst:sg:nom:f	imię	
+Helenkami	Helenka:s1	subst:pl:inst:f	imię	
+Helenką	Helenka:s1	subst:sg:inst:f	imię	
+Helenkę	Helenka:s1	subst:sg:acc:f	imię	
+Helenki	Helenka:s1	subst:pl:nom.acc.voc:f	imię	
+Helenki	Helenka:s1	subst:sg:gen:f	imię	
+Helenko	Helenka:s1	subst:sg:voc:f	imię	
+Helenkom	Helenka:s1	subst:pl:dat:f	imię	
+Helence	Helenka:s2	subst:sg:dat.loc:f	nazwa geograficzna	
+Helenek	Helenka:s2	subst:pl:gen:f	nazwa geograficzna	
+Helenkach	Helenka:s2	subst:pl:loc:f	nazwa geograficzna	
+Helenka	Helenka:s2	subst:sg:nom:f	nazwa geograficzna	
+Helenkami	Helenka:s2	subst:pl:inst:f	nazwa geograficzna	
+Helenką	Helenka:s2	subst:sg:inst:f	nazwa geograficzna	
+Helenkę	Helenka:s2	subst:sg:acc:f	nazwa geograficzna	
+Helenki	Helenka:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Helenki	Helenka:s2	subst:sg:gen:f	nazwa geograficzna	
+Helenko	Helenka:s2	subst:sg:voc:f	nazwa geograficzna	
+Helenkom	Helenka:s2	subst:pl:dat:f	nazwa geograficzna	
+Helenkowach	Helenków	subst:pl:loc:m3	nazwa geograficzna	
+Helenkowa	Helenków	subst:sg:gen:m3	nazwa geograficzna	
+Helenkowami	Helenków	subst:pl:inst:m3	nazwa geograficzna	
+Helenkowem	Helenków	subst:sg:inst:m3	nazwa geograficzna	
+Helenkowie	Helenków	subst:sg:loc:m3	nazwa geograficzna	
+Helenkowie	Helenków	subst:sg:voc:m3	nazwa geograficzna	
+Helenkowom	Helenków	subst:pl:dat:m3	nazwa geograficzna	
+Helenkowowi	Helenków	subst:sg:dat:m3	nazwa geograficzna	
+Helenkowów	Helenków	subst:pl:gen:m3	nazwa geograficzna	
+Helenkowu	Helenków	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Helenkowy	Helenków	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Helenków	Helenków	subst:sg:nom.acc:m3	nazwa geograficzna	
+Helenowach	Helenowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Helenowa	Helenowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Helenowa	Helenowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Helenowami	Helenowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Helenowem	Helenowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Helenow	Helenowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Helenowie	Helenowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Helenowo	Helenowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Helenowom	Helenowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Helenowów	Helenowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Helenowu	Helenowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Helenów	Helenowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Helenowach	Helenów	subst:pl:loc:m3	nazwa geograficzna	
+Helenowa	Helenów	subst:sg:gen:m3	nazwa geograficzna	
+Helenowami	Helenów	subst:pl:inst:m3	nazwa geograficzna	
+Helenowem	Helenów	subst:sg:inst:m3	nazwa geograficzna	
+Helenowie	Helenów	subst:sg:loc:m3	nazwa geograficzna	
+Helenowie	Helenów	subst:sg:voc:m3	nazwa geograficzna	
+Helenowom	Helenów	subst:pl:dat:m3	nazwa geograficzna	
+Helenowowi	Helenów	subst:sg:dat:m3	nazwa geograficzna	
+Helenowów	Helenów	subst:pl:gen:m3	nazwa geograficzna	
+Helenowu	Helenów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Helenowy	Helenów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Helenów	Helenów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Helenówek	Helenówek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Helenówkach	Helenówek	subst:pl:loc:m3	nazwa geograficzna	
+Helenówka	Helenówek	subst:sg:gen:m3	nazwa geograficzna	
+Helenówkami	Helenówek	subst:pl:inst:m3	nazwa geograficzna	
+Helenówkiem	Helenówek	subst:sg:inst:m3	nazwa geograficzna	
+Helenówki	Helenówek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Helenówkom	Helenówek	subst:pl:dat:m3	nazwa geograficzna	
+Helenówkowi	Helenówek	subst:sg:dat:m3	nazwa geograficzna	
+Helenówków	Helenówek	subst:pl:gen:m3	nazwa geograficzna	
+Helenówku	Helenówek	subst:sg:loc:m3	nazwa geograficzna	
+Helenówku	Helenówek	subst:sg:voc:m3	nazwa geograficzna	
+Helenówce	Helenówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Helenówek	Helenówka	subst:pl:gen:f	nazwa geograficzna	
+Helenówkach	Helenówka	subst:pl:loc:f	nazwa geograficzna	
+Helenówka	Helenówka	subst:sg:nom:f	nazwa geograficzna	
+Helenówkami	Helenówka	subst:pl:inst:f	nazwa geograficzna	
+Helenówką	Helenówka	subst:sg:inst:f	nazwa geograficzna	
+Helenówkę	Helenówka	subst:sg:acc:f	nazwa geograficzna	
+Helenówki	Helenówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Helenówki	Helenówka	subst:sg:gen:f	nazwa geograficzna	
+Helenówko	Helenówka	subst:sg:voc:f	nazwa geograficzna	
+Helenówkom	Helenówka	subst:pl:dat:f	nazwa geograficzna	
 Heldze	Helga	subst:sg:dat.loc:f	imię	
 Helgach	Helga	subst:pl:loc:f	imię	
 Helga	Helga	subst:sg:nom:f	imię	
@@ -10222,6 +10925,17 @@ Helików	Helik:s1	subst:pl:gen.acc:m1	nazwisko
 Heliku	Helik:s1	subst:sg:loc:m1	nazwisko	
 Heliku	Helik:s1	subst:sg:voc:m1	nazwisko	
 Helik	Helik:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Helinach	Helin	subst:pl:loc:m3	nazwa geograficzna	
+Helina	Helin	subst:sg:gen:m3	nazwa geograficzna	
+Helinami	Helin	subst:pl:inst:m3	nazwa geograficzna	
+Helinem	Helin	subst:sg:inst:m3	nazwa geograficzna	
+Helin	Helin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Helinie	Helin	subst:sg:loc:m3	nazwa geograficzna	
+Helinie	Helin	subst:sg:voc:m3	nazwa geograficzna	
+Helinom	Helin	subst:pl:dat:m3	nazwa geograficzna	
+Helinowi	Helin	subst:sg:dat:m3	nazwa geograficzna	
+Helinów	Helin	subst:pl:gen:m3	nazwa geograficzna	
+Heliny	Helin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Heliniakach	Heliniak:s1	subst:pl:loc:m1	nazwisko	
 Heliniaka	Heliniak:s1	subst:sg:gen.acc:m1	nazwisko	
 Heliniakami	Heliniak:s1	subst:pl:inst:m1	nazwisko	
@@ -10271,6 +10985,18 @@ Heliodory	Heliodor	depr:pl:nom.acc.voc:m2	imię
 Heliodorze	Heliodor	subst:sg:loc:m1	imię	
 Heliodorze	Heliodor	subst:sg:voc:m1	imię	
 Heliodorzy	Heliodor	subst:pl:nom.voc:m1	imię	
+Heliodorowach	Heliodorowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Heliodorowa	Heliodorowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Heliodorowa	Heliodorowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Heliodorowami	Heliodorowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Heliodorowem	Heliodorowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Heliodorow	Heliodorowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Heliodorowie	Heliodorowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Heliodorowo	Heliodorowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Heliodorowom	Heliodorowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Heliodorowów	Heliodorowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Heliodorowu	Heliodorowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Heliodorów	Heliodorowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Heliosach	Helios:s1	subst:pl:loc:m1	imię	mit.
 Heliosa	Helios:s1	subst:sg:gen.acc:m1	imię	mit.
 Heliosami	Helios:s1	subst:pl:inst:m1	imię	mit.
@@ -11186,6 +11912,17 @@ Henigów	Henig:s1	subst:pl:gen.acc:m1	nazwisko
 Henigu	Henig:s1	subst:sg:loc:m1	nazwisko	
 Henigu	Henig:s1	subst:sg:voc:m1	nazwisko	
 Henig	Henig:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Heninach	Henin	subst:pl:loc:m3	nazwa geograficzna	
+Henina	Henin	subst:sg:gen:m3	nazwa geograficzna	
+Heninami	Henin	subst:pl:inst:m3	nazwa geograficzna	
+Heninem	Henin	subst:sg:inst:m3	nazwa geograficzna	
+Henin	Henin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Heninie	Henin	subst:sg:loc:m3	nazwa geograficzna	
+Heninie	Henin	subst:sg:voc:m3	nazwa geograficzna	
+Heninom	Henin	subst:pl:dat:m3	nazwa geograficzna	
+Heninowi	Henin	subst:sg:dat:m3	nazwa geograficzna	
+Heninów	Henin	subst:pl:gen:m3	nazwa geograficzna	
+Heniny	Henin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Heniach	Henio	subst:pl:loc:m1	imię	
 Henia	Henio	subst:sg:gen.acc:m1	imię	
 Heniami	Henio	subst:pl:inst:m1	imię	
@@ -11362,18 +12099,6 @@ Henryczki	Henryczka	subst:pl:nom.acc.voc:f	imię
 Henryczki	Henryczka	subst:sg:gen:f	imię	
 Henryczko	Henryczka	subst:sg:voc:f	imię	
 Henryczkom	Henryczka	subst:pl:dat:f	imię	
-Henrykach	Henryk	subst:pl:loc:m1	imię	
-Henryka	Henryk	subst:sg:gen.acc:m1	imię	
-Henrykami	Henryk	subst:pl:inst:m1	imię	
-Henryk	Henryk	subst:sg:nom:m1	imię	
-Henrykiem	Henryk	subst:sg:inst:m1	imię	
-Henryki	Henryk	depr:pl:nom.acc.voc:m2	imię	
-Henrykom	Henryk	subst:pl:dat:m1	imię	
-Henrykowie	Henryk	subst:pl:nom.voc:m1	imię	
-Henrykowi	Henryk	subst:sg:dat:m1	imię	
-Henryków	Henryk	subst:pl:gen.acc:m1	imię	
-Henryku	Henryk	subst:sg:loc:m1	imię	
-Henryku	Henryk	subst:sg:voc:m1	imię	
 Henryce	Henryka	subst:sg:dat.loc:f	imię	
 Henrykach	Henryka	subst:pl:loc:f	imię	
 Henryka	Henryka	subst:sg:nom:f	imię	
@@ -11385,6 +12110,28 @@ Henryki	Henryka	subst:pl:nom.acc.voc:f	imię
 Henryki	Henryka	subst:sg:gen:f	imię	
 Henryko	Henryka	subst:sg:voc:f	imię	
 Henrykom	Henryka	subst:pl:dat:f	imię	
+Henrykowicach	Henrykowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Henrykowicach	Henrykowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Henrykowicami	Henrykowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Henrykowicami	Henrykowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Henrykowice	Henrykowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Henrykowice	Henrykowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Henrykowic	Henrykowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Henrykowic	Henrykowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Henrykowicom	Henrykowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Henrykowicom	Henrykowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Henrykowach	Henrykowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Henrykowa	Henrykowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Henrykowa	Henrykowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Henrykowami	Henrykowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Henrykowem	Henrykowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Henrykow	Henrykowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Henrykowie	Henrykowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Henrykowo	Henrykowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Henrykowom	Henrykowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Henrykowów	Henrykowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Henrykowu	Henrykowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Henryków	Henrykowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Henrykowska	Henrykowska	subst:sg:nom:f	nazwisko	
 Henrykowska	Henrykowska	subst:sg:voc:f	nazwisko	
 Henrykowską	Henrykowska	subst:sg:acc:f	nazwisko	
@@ -11420,6 +12167,40 @@ Henrykowów	Henryków	subst:pl:gen:m3	nazwa geograficzna
 Henrykowu	Henryków	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
 Henrykowy	Henryków	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Henryków	Henryków	subst:sg:nom.acc:m3	nazwa geograficzna	
+Henrykówce	Henrykówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Henrykówek	Henrykówka	subst:pl:gen:f	nazwa geograficzna	
+Henrykówkach	Henrykówka	subst:pl:loc:f	nazwa geograficzna	
+Henrykówka	Henrykówka	subst:sg:nom:f	nazwa geograficzna	
+Henrykówkami	Henrykówka	subst:pl:inst:f	nazwa geograficzna	
+Henrykówką	Henrykówka	subst:sg:inst:f	nazwa geograficzna	
+Henrykówkę	Henrykówka	subst:sg:acc:f	nazwa geograficzna	
+Henrykówki	Henrykówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Henrykówki	Henrykówka	subst:sg:gen:f	nazwa geograficzna	
+Henrykówko	Henrykówka	subst:sg:voc:f	nazwa geograficzna	
+Henrykówkom	Henrykówka	subst:pl:dat:f	nazwa geograficzna	
+Henrykach	Henryk:s1	subst:pl:loc:m1	imię	
+Henryka	Henryk:s1	subst:sg:gen.acc:m1	imię	
+Henrykami	Henryk:s1	subst:pl:inst:m1	imię	
+Henryk	Henryk:s1	subst:sg:nom:m1	imię	
+Henrykiem	Henryk:s1	subst:sg:inst:m1	imię	
+Henryki	Henryk:s1	depr:pl:nom.acc.voc:m2	imię	
+Henrykom	Henryk:s1	subst:pl:dat:m1	imię	
+Henrykowie	Henryk:s1	subst:pl:nom.voc:m1	imię	
+Henrykowi	Henryk:s1	subst:sg:dat:m1	imię	
+Henryków	Henryk:s1	subst:pl:gen.acc:m1	imię	
+Henryku	Henryk:s1	subst:sg:loc:m1	imię	
+Henryku	Henryk:s1	subst:sg:voc:m1	imię	
+Henrykach	Henryk:s2	subst:pl:loc:m3	nazwa geograficzna	
+Henryka	Henryk:s2	subst:sg:gen:m3	nazwa geograficzna	
+Henrykami	Henryk:s2	subst:pl:inst:m3	nazwa geograficzna	
+Henryk	Henryk:s2	subst:sg:nom.acc:m3	nazwa geograficzna	
+Henrykiem	Henryk:s2	subst:sg:inst:m3	nazwa geograficzna	
+Henryki	Henryk:s2	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Henrykom	Henryk:s2	subst:pl:dat:m3	nazwa geograficzna	
+Henrykowi	Henryk:s2	subst:sg:dat:m3	nazwa geograficzna	
+Henryków	Henryk:s2	subst:pl:gen:m3	nazwa geograficzna	
+Henryku	Henryk:s2	subst:sg:loc:m3	nazwa geograficzna	
+Henryku	Henryk:s2	subst:sg:voc:m3	nazwa geograficzna	
 Henrysiach	Henrysia	subst:pl:loc:f	imię	
 Henrysia	Henrysia	subst:sg:nom:f	imię	
 Henrysiami	Henrysia	subst:pl:inst:f	imię	
@@ -11432,6 +12213,28 @@ Henrysi	Henrysia	subst:sg:gen:f	imię
 Henrysiom	Henrysia	subst:pl:dat:f	imię	
 Henrysiu	Henrysia	subst:sg:voc:f	imię	
 Henryś	Henrysia	subst:pl:gen:f	imię	char.
+Henrysinach	Henrysin	subst:pl:loc:m3	nazwa geograficzna	
+Henrysina	Henrysin	subst:sg:gen:m3	nazwa geograficzna	
+Henrysinami	Henrysin	subst:pl:inst:m3	nazwa geograficzna	
+Henrysinem	Henrysin	subst:sg:inst:m3	nazwa geograficzna	
+Henrysin	Henrysin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Henrysinie	Henrysin	subst:sg:loc:m3	nazwa geograficzna	
+Henrysinie	Henrysin	subst:sg:voc:m3	nazwa geograficzna	
+Henrysinom	Henrysin	subst:pl:dat:m3	nazwa geograficzna	
+Henrysinowi	Henrysin	subst:sg:dat:m3	nazwa geograficzna	
+Henrysinów	Henrysin	subst:pl:gen:m3	nazwa geograficzna	
+Henrysiny	Henrysin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Henryszewach	Henryszew	subst:pl:loc:m3	nazwa geograficzna	
+Henryszewa	Henryszew	subst:sg:gen:m3	nazwa geograficzna	
+Henryszewami	Henryszew	subst:pl:inst:m3	nazwa geograficzna	
+Henryszewem	Henryszew	subst:sg:inst:m3	nazwa geograficzna	
+Henryszew	Henryszew	subst:sg:nom.acc:m3	nazwa geograficzna	
+Henryszewie	Henryszew	subst:sg:loc:m3	nazwa geograficzna	
+Henryszewie	Henryszew	subst:sg:voc:m3	nazwa geograficzna	
+Henryszewom	Henryszew	subst:pl:dat:m3	nazwa geograficzna	
+Henryszewowi	Henryszew	subst:sg:dat:m3	nazwa geograficzna	
+Henryszewów	Henryszew	subst:pl:gen:m3	nazwa geograficzna	
+Henryszewy	Henryszew	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Henrysiach	Henryś	subst:pl:loc:m1	imię	
 Henrysia	Henryś	subst:sg:gen.acc:m1	imię	
 Henrysiami	Henryś	subst:pl:inst:m1	imię	
@@ -11762,6 +12565,16 @@ Herbo	Herba:s3	subst:sg:voc:f	nazwisko
 Herbom	Herba:s3	subst:pl:dat:f	nazwisko	
 Herby	Herba:s3	subst:pl:nom.acc.voc:f	nazwisko	
 Herby	Herba:s3	subst:sg:gen:f	nazwisko	
+Herbasach	Herbasy	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Herbasach	Herbasy	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Herbasami	Herbasy	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Herbasami	Herbasy	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Herbas	Herbasy	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Herbas	Herbasy	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Herbasom	Herbasy	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Herbasom	Herbasy	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
+Herbasy	Herbasy	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Herbasy	Herbasy	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
 Herbaszach	Herbasz:s1	subst:pl:loc:m1	nazwisko	
 Herbasza	Herbasz:s1	subst:sg:gen.acc:m1	nazwisko	
 Herbaszami	Herbasz:s1	subst:pl:inst:m1	nazwisko	
@@ -11890,6 +12703,18 @@ Herbsty	Herbst:s2	depr:pl:nom.acc.voc:m2	nazwisko
 Herbście	Herbst:s2	subst:sg:loc:m1	nazwisko	
 Herbście	Herbst:s2	subst:sg:voc:m1	nazwisko	
 Herbst	Herbst:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Herburtowach	Herburtowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Herburtowa	Herburtowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Herburtowa	Herburtowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Herburtowami	Herburtowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Herburtowem	Herburtowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Herburtow	Herburtowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Herburtowie	Herburtowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Herburtowo	Herburtowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Herburtowom	Herburtowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Herburtowów	Herburtowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Herburtowu	Herburtowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Herburtów	Herburtowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Herbusiach	Herbuś:s2	subst:pl:loc:m1	nazwisko	
 Herbusia	Herbuś:s2	subst:sg:gen.acc:m1	nazwisko	
 Herbusiami	Herbuś:s2	subst:pl:inst:m1	nazwisko	
@@ -11917,6 +12742,18 @@ Herbutowi	Herbut:s3	subst:sg:dat:m1	nazwisko
 Herbutów	Herbut:s3	subst:pl:gen.acc:m1	nazwisko	
 Herbuty	Herbut:s3	depr:pl:nom.acc.voc:m2	nazwisko	
 Herbut	Herbut:s4	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Herbach	Herby	subst:pl:loc:n:pt	nazwa geograficzna	
+Herbach	Herby	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Herbami	Herby	subst:pl:inst:n:pt	nazwa geograficzna	
+Herbami	Herby	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Herb	Herby	subst:pl:gen:n:pt	nazwa geograficzna	
+Herb	Herby	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Herbom	Herby	subst:pl:dat:n:pt	nazwa geograficzna	
+Herbom	Herby	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Herbów	Herby	subst:pl:gen:n:pt	nazwa geograficzna	
+Herbów	Herby	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Herby	Herby	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Herby	Herby	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Hz	herc	brev:npun		fiz.
 Hercegowinach	Hercegowina	subst:pl:loc:f	nazwa geograficzna	
 Hercegowina	Hercegowina	subst:sg:nom:f	nazwa geograficzna	
@@ -12458,6 +13295,27 @@ Hermannowi	Hermann:s2	subst:sg:dat:m1	nazwisko
 Hermannów	Hermann:s2	subst:pl:gen.acc:m1	nazwisko	
 Hermanny	Hermann:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Hermann	Hermann:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hermanowa	Hermanowa	subst:sg:nom:f	nazwa geograficzna	
+Hermanowa	Hermanowa	subst:sg:voc:f	nazwa geograficzna	
+Hermanową	Hermanowa	subst:sg:acc:f	nazwa geograficzna	
+Hermanową	Hermanowa	subst:sg:inst:f	nazwa geograficzna	
+Hermanowe	Hermanowa	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hermanowej	Hermanowa	subst:sg:dat.loc:f	nazwa geograficzna	
+Hermanowej	Hermanowa	subst:sg:gen:f	nazwa geograficzna	
+Hermanowych	Hermanowa	subst:pl:gen:f	nazwa geograficzna	
+Hermanowych	Hermanowa	subst:pl:loc:f	nazwa geograficzna	
+Hermanowym	Hermanowa	subst:pl:dat:f	nazwa geograficzna	
+Hermanowymi	Hermanowa	subst:pl:inst:f	nazwa geograficzna	
+Hermanowicach	Hermanowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Hermanowicach	Hermanowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hermanowicami	Hermanowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Hermanowicami	Hermanowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hermanowice	Hermanowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hermanowice	Hermanowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hermanowic	Hermanowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Hermanowic	Hermanowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hermanowicom	Hermanowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Hermanowicom	Hermanowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hermanowiczach	Hermanowicz:s2	subst:pl:loc:m1	nazwisko	
 Hermanowicza	Hermanowicz:s2	subst:sg:gen.acc:m1	nazwisko	
 Hermanowiczami	Hermanowicz:s2	subst:pl:inst:m1	nazwisko	
@@ -12495,6 +13353,29 @@ Hermanowskim	Hermanowski	subst:pl:dat:m1	nazwisko
 Hermanowskim	Hermanowski	subst:sg:inst:m1	nazwisko	
 Hermanowskim	Hermanowski	subst:sg:loc:m1	nazwisko	
 Hermanowskimi	Hermanowski	subst:pl:inst:m1	nazwisko	
+Hermanowach	Hermanów	subst:pl:loc:m3	nazwa geograficzna	
+Hermanowa	Hermanów	subst:sg:gen:m3	nazwa geograficzna	
+Hermanowami	Hermanów	subst:pl:inst:m3	nazwa geograficzna	
+Hermanowem	Hermanów	subst:sg:inst:m3	nazwa geograficzna	
+Hermanowie	Hermanów	subst:sg:loc:m3	nazwa geograficzna	
+Hermanowie	Hermanów	subst:sg:voc:m3	nazwa geograficzna	
+Hermanowom	Hermanów	subst:pl:dat:m3	nazwa geograficzna	
+Hermanowowi	Hermanów	subst:sg:dat:m3	nazwa geograficzna	
+Hermanowów	Hermanów	subst:pl:gen:m3	nazwa geograficzna	
+Hermanowu	Hermanów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hermanowy	Hermanów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hermanów	Hermanów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hermanówce	Hermanówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Hermanówek	Hermanówka	subst:pl:gen:f	nazwa geograficzna	
+Hermanówkach	Hermanówka	subst:pl:loc:f	nazwa geograficzna	
+Hermanówka	Hermanówka	subst:sg:nom:f	nazwa geograficzna	
+Hermanówkami	Hermanówka	subst:pl:inst:f	nazwa geograficzna	
+Hermanówką	Hermanówka	subst:sg:inst:f	nazwa geograficzna	
+Hermanówkę	Hermanówka	subst:sg:acc:f	nazwa geograficzna	
+Hermanówki	Hermanówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hermanówki	Hermanówka	subst:sg:gen:f	nazwa geograficzna	
+Hermanówko	Hermanówka	subst:sg:voc:f	nazwa geograficzna	
+Hermanówkom	Hermanówka	subst:pl:dat:f	nazwa geograficzna	
 Hermanach	Herman:s1	subst:pl:loc:m1	imię	
 Hermana	Herman:s1	subst:sg:gen.acc:m1	imię	
 Hermanami	Herman:s1	subst:pl:inst:m1	imię	
@@ -12520,6 +13401,16 @@ Hermanowi	Herman:s2	subst:sg:dat:m1	nazwisko
 Hermanów	Herman:s2	subst:pl:gen.acc:m1	nazwisko	
 Hermany	Herman:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Herman	Herman:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hermanach	Hermany	subst:pl:loc:n:pt	nazwa geograficzna	
+Hermanach	Hermany	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hermanami	Hermany	subst:pl:inst:n:pt	nazwa geograficzna	
+Hermanami	Hermany	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Herman	Hermany	subst:pl:gen:n:pt	nazwa geograficzna	
+Herman	Hermany	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hermanom	Hermany	subst:pl:dat:n:pt	nazwa geograficzna	
+Hermanom	Hermany	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Hermany	Hermany	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hermany	Hermany	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Hermańska	Hermańska	subst:sg:nom:f	nazwisko	
 Hermańska	Hermańska	subst:sg:voc:f	nazwisko	
 Hermańską	Hermańska	subst:sg:acc:f	nazwisko	
@@ -12972,6 +13863,18 @@ Herszlów	Herszel:s1	subst:pl:gen.acc:m1	nazwisko
 Herszlu	Herszel:s1	subst:sg:loc:m1	nazwisko	
 Herszlu	Herszel:s1	subst:sg:voc:m1	nazwisko	
 Herszel	Herszel:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hersztupowach	Hersztupowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hersztupowa	Hersztupowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hersztupowa	Hersztupowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hersztupowami	Hersztupowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hersztupowem	Hersztupowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hersztupow	Hersztupowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hersztupowie	Hersztupowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hersztupowo	Hersztupowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hersztupowom	Hersztupowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hersztupowów	Hersztupowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hersztupowu	Hersztupowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hersztupów	Hersztupowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Hercie	Herta:s1	subst:sg:dat.loc:m1	nazwisko	
 Hertach	Herta:s1	subst:pl:loc:m1	nazwisko	
 Herta	Herta:s1	subst:sg:nom:m1	nazwisko	
@@ -13270,6 +14173,16 @@ Hetmanków	Hetmanek:s1	subst:pl:gen.acc:m1	nazwisko
 Hetmanku	Hetmanek:s1	subst:sg:loc:m1	nazwisko	
 Hetmanku	Hetmanek:s1	subst:sg:voc:m1	nazwisko	
 Hetmanek	Hetmanek:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hetmanicach	Hetmanice	subst:pl:loc:n:pt	nazwa geograficzna	
+Hetmanicach	Hetmanice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hetmanicami	Hetmanice	subst:pl:inst:n:pt	nazwa geograficzna	
+Hetmanicami	Hetmanice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hetmanice	Hetmanice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hetmanice	Hetmanice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hetmanic	Hetmanice	subst:pl:gen:n:pt	nazwa geograficzna	
+Hetmanic	Hetmanice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hetmanicom	Hetmanice	subst:pl:dat:n:pt	nazwa geograficzna	
+Hetmanicom	Hetmanice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hetmaniokach	Hetmaniok:s1	subst:pl:loc:m1	nazwisko	
 Hetmanioka	Hetmaniok:s1	subst:sg:gen.acc:m1	nazwisko	
 Hetmaniokami	Hetmaniok:s1	subst:pl:inst:m1	nazwisko	
@@ -13306,6 +14219,18 @@ Hetmanowskim	Hetmanowski	subst:pl:dat:m1	nazwisko
 Hetmanowskim	Hetmanowski	subst:sg:inst:m1	nazwisko	
 Hetmanowskim	Hetmanowski	subst:sg:loc:m1	nazwisko	
 Hetmanowskimi	Hetmanowski	subst:pl:inst:m1	nazwisko	
+Hetmanowach	Hetmanów	subst:pl:loc:m3	nazwa geograficzna	
+Hetmanowa	Hetmanów	subst:sg:gen:m3	nazwa geograficzna	
+Hetmanowami	Hetmanów	subst:pl:inst:m3	nazwa geograficzna	
+Hetmanowem	Hetmanów	subst:sg:inst:m3	nazwa geograficzna	
+Hetmanowie	Hetmanów	subst:sg:loc:m3	nazwa geograficzna	
+Hetmanowie	Hetmanów	subst:sg:voc:m3	nazwa geograficzna	
+Hetmanowom	Hetmanów	subst:pl:dat:m3	nazwa geograficzna	
+Hetmanowowi	Hetmanów	subst:sg:dat:m3	nazwa geograficzna	
+Hetmanowów	Hetmanów	subst:pl:gen:m3	nazwa geograficzna	
+Hetmanowu	Hetmanów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hetmanowy	Hetmanów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hetmanów	Hetmanów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hetmanach	Hetman:s1	subst:pl:loc:m1	nazwisko	
 Hetmana	Hetman:s1	subst:sg:gen.acc:m1	nazwisko	
 Hetmanami	Hetman:s1	subst:pl:inst:m1	nazwisko	
@@ -13705,6 +14630,40 @@ Hieronimowie	Hieronim	subst:pl:nom.voc:m1	imię
 Hieronimowi	Hieronim	subst:sg:dat:m1	imię	
 Hieronimów	Hieronim	subst:pl:gen.acc:m1	imię	
 Hieronimy	Hieronim	depr:pl:nom.acc.voc:m2	imię	
+Hieronimowach	Hieronimowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hieronimowa	Hieronimowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hieronimowa	Hieronimowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hieronimowami	Hieronimowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hieronimowem	Hieronimowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hieronimow	Hieronimowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hieronimowie	Hieronimowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hieronimowo	Hieronimowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hieronimowom	Hieronimowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hieronimowów	Hieronimowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hieronimowu	Hieronimowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hieronimów	Hieronimowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hieronimowach	Hieronimów	subst:pl:loc:m3	nazwa geograficzna	
+Hieronimowa	Hieronimów	subst:sg:gen:m3	nazwa geograficzna	
+Hieronimowami	Hieronimów	subst:pl:inst:m3	nazwa geograficzna	
+Hieronimowem	Hieronimów	subst:sg:inst:m3	nazwa geograficzna	
+Hieronimowie	Hieronimów	subst:sg:loc:m3	nazwa geograficzna	
+Hieronimowie	Hieronimów	subst:sg:voc:m3	nazwa geograficzna	
+Hieronimowom	Hieronimów	subst:pl:dat:m3	nazwa geograficzna	
+Hieronimowowi	Hieronimów	subst:sg:dat:m3	nazwa geograficzna	
+Hieronimowów	Hieronimów	subst:pl:gen:m3	nazwa geograficzna	
+Hieronimowu	Hieronimów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hieronimowy	Hieronimów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hieronimów	Hieronimów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hieronimach	Hieronimy	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Hieronimach	Hieronimy	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Hieronimami	Hieronimy	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Hieronimami	Hieronimy	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Hieronim	Hieronimy	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Hieronim	Hieronimy	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Hieronimom	Hieronimy	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Hieronimom	Hieronimy	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
+Hieronimy	Hieronimy	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Hieronimy	Hieronimy	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
 Hierach	Hiero:s1	subst:pl:loc:m1	nazwisko	
 Hiera	Hiero:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Hiera	Hiero:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -13725,6 +14684,16 @@ Hiery	Hiero:s1	subst:sg:gen:m1	nazwisko
 Hierze	Hiero:s1	subst:sg:dat.loc:m1	nazwisko	
 Hierze	Hiero:s1	subst:sg:loc:m1	nazwisko	
 Hiero	Hiero:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Higieniewach	Higieniewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Higieniewa	Higieniewo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Higieniewa	Higieniewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Higieniewami	Higieniewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Higieniewem	Higieniewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Higieniew	Higieniewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Higieniewie	Higieniewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Higieniewo	Higieniewo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Higieniewom	Higieniewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Higieniewu	Higieniewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Hilariach	Hilaria	subst:pl:loc:f	imię	
 Hilaria	Hilaria	subst:sg:nom:f	imię	
 Hilariami	Hilaria	subst:pl:inst:f	imię	
@@ -13750,6 +14719,18 @@ Hilarionowie	Hilarion	subst:pl:nom.voc:m1	imię
 Hilarionowi	Hilarion	subst:sg:dat:m1	imię	
 Hilarionów	Hilarion	subst:pl:gen.acc:m1	imię	
 Hilariony	Hilarion	depr:pl:nom.acc.voc:m2	imię	
+Hilarowach	Hilarów	subst:pl:loc:m3	nazwa geograficzna	
+Hilarowa	Hilarów	subst:sg:gen:m3	nazwa geograficzna	
+Hilarowami	Hilarów	subst:pl:inst:m3	nazwa geograficzna	
+Hilarowem	Hilarów	subst:sg:inst:m3	nazwa geograficzna	
+Hilarowie	Hilarów	subst:sg:loc:m3	nazwa geograficzna	
+Hilarowie	Hilarów	subst:sg:voc:m3	nazwa geograficzna	
+Hilarowom	Hilarów	subst:pl:dat:m3	nazwa geograficzna	
+Hilarowowi	Hilarów	subst:sg:dat:m3	nazwa geograficzna	
+Hilarowów	Hilarów	subst:pl:gen:m3	nazwa geograficzna	
+Hilarowu	Hilarów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hilarowy	Hilarów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hilarów	Hilarów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hilarego	Hilary	subst:sg:gen.acc:m1	imię	
 Hilare	Hilary	depr:pl:nom.acc.voc:m2	imię	
 Hilaremu	Hilary	subst:sg:dat:m1	imię	
@@ -14349,6 +15330,30 @@ Hipolito	Hipolita	subst:sg:voc:f	imię
 Hipolitom	Hipolita	subst:pl:dat:f	imię	
 Hipolity	Hipolita	subst:pl:nom.acc.voc:f	imię	
 Hipolity	Hipolita	subst:sg:gen:f	imię	
+Hipolitowach	Hipolitowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hipolitowa	Hipolitowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hipolitowa	Hipolitowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hipolitowami	Hipolitowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hipolitowem	Hipolitowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hipolitow	Hipolitowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hipolitowie	Hipolitowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hipolitowo	Hipolitowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hipolitowom	Hipolitowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hipolitowów	Hipolitowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hipolitowu	Hipolitowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hipolitów	Hipolitowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hipolitowach	Hipolitów	subst:pl:loc:m3	nazwa geograficzna	
+Hipolitowa	Hipolitów	subst:sg:gen:m3	nazwa geograficzna	
+Hipolitowami	Hipolitów	subst:pl:inst:m3	nazwa geograficzna	
+Hipolitowem	Hipolitów	subst:sg:inst:m3	nazwa geograficzna	
+Hipolitowie	Hipolitów	subst:sg:loc:m3	nazwa geograficzna	
+Hipolitowie	Hipolitów	subst:sg:voc:m3	nazwa geograficzna	
+Hipolitowom	Hipolitów	subst:pl:dat:m3	nazwa geograficzna	
+Hipolitowowi	Hipolitów	subst:sg:dat:m3	nazwa geograficzna	
+Hipolitowów	Hipolitów	subst:pl:gen:m3	nazwa geograficzna	
+Hipolitowu	Hipolitów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hipolitowy	Hipolitów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hipolitów	Hipolitów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hipszach	Hipsz:s1	subst:pl:loc:m1	nazwisko	
 Hipsza	Hipsz:s1	subst:sg:gen.acc:m1	nazwisko	
 Hipszami	Hipsz:s1	subst:pl:inst:m1	nazwisko	
@@ -14537,17 +15542,28 @@ Hiszpanii	Hiszpania	subst:sg:gen:f	nazwa geograficzna
 Hiszpanij	Hiszpania	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Hiszpanio	Hiszpania	subst:sg:voc:f	nazwa geograficzna	
 Hiszpaniom	Hiszpania	subst:pl:dat:f	nazwa geograficzna	
-Hiszpance	Hiszpanka	subst:sg:dat.loc:f	nazwa pospolita	
-Hiszpanek	Hiszpanka	subst:pl:gen:f	nazwa pospolita	
-Hiszpankach	Hiszpanka	subst:pl:loc:f	nazwa pospolita	
-Hiszpanka	Hiszpanka	subst:sg:nom:f	nazwa pospolita	
-Hiszpankami	Hiszpanka	subst:pl:inst:f	nazwa pospolita	
-Hiszpanką	Hiszpanka	subst:sg:inst:f	nazwa pospolita	
-Hiszpankę	Hiszpanka	subst:sg:acc:f	nazwa pospolita	
-Hiszpanki	Hiszpanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
-Hiszpanki	Hiszpanka	subst:sg:gen:f	nazwa pospolita	
-Hiszpanko	Hiszpanka	subst:sg:voc:f	nazwa pospolita	
-Hiszpankom	Hiszpanka	subst:pl:dat:f	nazwa pospolita	
+Hiszpance	Hiszpanka:s1	subst:sg:dat.loc:f	nazwa pospolita	
+Hiszpanek	Hiszpanka:s1	subst:pl:gen:f	nazwa pospolita	
+Hiszpankach	Hiszpanka:s1	subst:pl:loc:f	nazwa pospolita	
+Hiszpanka	Hiszpanka:s1	subst:sg:nom:f	nazwa pospolita	
+Hiszpankami	Hiszpanka:s1	subst:pl:inst:f	nazwa pospolita	
+Hiszpanką	Hiszpanka:s1	subst:sg:inst:f	nazwa pospolita	
+Hiszpankę	Hiszpanka:s1	subst:sg:acc:f	nazwa pospolita	
+Hiszpanki	Hiszpanka:s1	subst:pl:nom.acc.voc:f	nazwa pospolita	
+Hiszpanki	Hiszpanka:s1	subst:sg:gen:f	nazwa pospolita	
+Hiszpanko	Hiszpanka:s1	subst:sg:voc:f	nazwa pospolita	
+Hiszpankom	Hiszpanka:s1	subst:pl:dat:f	nazwa pospolita	
+Hiszpance	Hiszpanka:s2	subst:sg:dat.loc:f	nazwa geograficzna	
+Hiszpanek	Hiszpanka:s2	subst:pl:gen:f	nazwa geograficzna	
+Hiszpankach	Hiszpanka:s2	subst:pl:loc:f	nazwa geograficzna	
+Hiszpanka	Hiszpanka:s2	subst:sg:nom:f	nazwa geograficzna	
+Hiszpankami	Hiszpanka:s2	subst:pl:inst:f	nazwa geograficzna	
+Hiszpanką	Hiszpanka:s2	subst:sg:inst:f	nazwa geograficzna	
+Hiszpankę	Hiszpanka:s2	subst:sg:acc:f	nazwa geograficzna	
+Hiszpanki	Hiszpanka:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hiszpanki	Hiszpanka:s2	subst:sg:gen:f	nazwa geograficzna	
+Hiszpanko	Hiszpanka:s2	subst:sg:voc:f	nazwa geograficzna	
+Hiszpankom	Hiszpanka:s2	subst:pl:dat:f	nazwa geograficzna	
 Hiszpańczycy	Hiszpańczyk	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 Hiszpańczykach	Hiszpańczyk	subst:pl:loc:m1	nazwa pospolita	daw.
 Hiszpańczyka	Hiszpańczyk	subst:sg:gen.acc:m1	nazwa pospolita	daw.
@@ -14808,6 +15824,18 @@ Hławiczki	Hławiczka:s2	subst:pl:nom.acc.voc:f	nazwisko
 Hławiczki	Hławiczka:s2	subst:sg:gen:f	nazwisko	
 Hławiczko	Hławiczka:s2	subst:sg:voc:f	nazwisko	
 Hławiczkom	Hławiczka:s2	subst:pl:dat:f	nazwisko	
+Hłomczach	Hłomcza	subst:pl:loc:f	nazwa geograficzna	
+Hłomcza	Hłomcza	subst:sg:nom:f	nazwa geograficzna	
+Hłomczami	Hłomcza	subst:pl:inst:f	nazwa geograficzna	
+Hłomczą	Hłomcza	subst:sg:inst:f	nazwa geograficzna	
+Hłomcze	Hłomcza	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hłomczę	Hłomcza	subst:sg:acc:f	nazwa geograficzna	
+Hłomcz	Hłomcza	subst:pl:gen:f	nazwa geograficzna	char.
+Hłomczo	Hłomcza	subst:sg:voc:f	nazwa geograficzna	
+Hłomczom	Hłomcza	subst:pl:dat:f	nazwa geograficzna	
+Hłomczy	Hłomcza	subst:pl:gen:f	nazwa geograficzna	hom.
+Hłomczy	Hłomcza	subst:sg:dat.loc:f	nazwa geograficzna	
+Hłomczy	Hłomcza	subst:sg:gen:f	nazwa geograficzna	
 Hłondach	Hłond:s1	subst:pl:loc:m1	nazwisko	
 Hłonda	Hłond:s1	subst:sg:gen.acc:m1	nazwisko	
 Hłondami	Hłond:s1	subst:pl:inst:m1	nazwisko	
@@ -14821,6 +15849,16 @@ Hłondy	Hłond:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Hłondzie	Hłond:s1	subst:sg:loc:m1	nazwisko	
 Hłondzie	Hłond:s1	subst:sg:voc:m1	nazwisko	
 Hłond	Hłond:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hłuden	Hłudno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hłudnach	Hłudno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hłudna	Hłudno	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hłudna	Hłudno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hłudnami	Hłudno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hłudnem	Hłudno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hłudnie	Hłudno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hłudno	Hłudno	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hłudnom	Hłudno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hłudnu	Hłudno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Hływach	Hływa:s1	subst:pl:loc:m1	nazwisko	
 Hływa	Hływa:s1	subst:sg:nom:m1	nazwisko	
 Hływami	Hływa:s1	subst:pl:inst:m1	nazwisko	
@@ -14871,6 +15909,16 @@ Hnatkiewiczów	Hnatkiewicz:s1	subst:pl:gen.acc:m1	nazwisko
 Hnatkiewiczu	Hnatkiewicz:s1	subst:sg:loc:m1	nazwisko	
 Hnatkiewiczu	Hnatkiewicz:s1	subst:sg:voc:m1	nazwisko	
 Hnatkiewicz	Hnatkiewicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hnatkowicach	Hnatkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Hnatkowicach	Hnatkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hnatkowicami	Hnatkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Hnatkowicami	Hnatkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hnatkowice	Hnatkowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hnatkowice	Hnatkowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hnatkowic	Hnatkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Hnatkowic	Hnatkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hnatkowicom	Hnatkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Hnatkowicom	Hnatkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hnatkowska	Hnatkowska	subst:sg:nom:f	nazwisko	
 Hnatkowska	Hnatkowska	subst:sg:voc:f	nazwisko	
 Hnatkowską	Hnatkowska	subst:sg:acc:f	nazwisko	
@@ -14969,6 +16017,18 @@ Hnidom	Hnida:s2	subst:pl:dat:f	nazwisko
 Hnidy	Hnida:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Hnidy	Hnida:s2	subst:sg:gen:f	nazwisko	
 Hnidzie	Hnida:s2	subst:sg:dat.loc:f	nazwisko	
+Hniszowach	Hniszów	subst:pl:loc:m3	nazwa geograficzna	
+Hniszowa	Hniszów	subst:sg:gen:m3	nazwa geograficzna	
+Hniszowami	Hniszów	subst:pl:inst:m3	nazwa geograficzna	
+Hniszowem	Hniszów	subst:sg:inst:m3	nazwa geograficzna	
+Hniszowie	Hniszów	subst:sg:loc:m3	nazwa geograficzna	
+Hniszowie	Hniszów	subst:sg:voc:m3	nazwa geograficzna	
+Hniszowom	Hniszów	subst:pl:dat:m3	nazwa geograficzna	
+Hniszowowi	Hniszów	subst:sg:dat:m3	nazwa geograficzna	
+Hniszowów	Hniszów	subst:pl:gen:m3	nazwa geograficzna	
+Hniszowu	Hniszów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hniszowy	Hniszów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hniszów	Hniszów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hnizdach	Hnizdo:s1	subst:pl:loc:m1	nazwisko	
 Hnizdami	Hnizdo:s1	subst:pl:inst:m1	nazwisko	
 Hnizdą	Hnizdo:s1	subst:sg:inst:m1	nazwisko	
@@ -15122,6 +16182,17 @@ Hoczków	Hoczek:s1	subst:pl:gen.acc:m1	nazwisko
 Hoczku	Hoczek:s1	subst:sg:loc:m1	nazwisko	
 Hoczku	Hoczek:s1	subst:sg:voc:m1	nazwisko	
 Hoczek	Hoczek:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hoczew	Hoczew	subst:sg:acc:f	nazwa geograficzna	
+Hoczew	Hoczew	subst:sg:nom:f	nazwa geograficzna	
+Hoczwiach	Hoczew	subst:pl:loc:f	nazwa geograficzna	
+Hoczwiami	Hoczew	subst:pl:inst:f	nazwa geograficzna	
+Hoczwią	Hoczew	subst:sg:inst:f	nazwa geograficzna	
+Hoczwie	Hoczew	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hoczwi	Hoczew	subst:pl:gen:f	nazwa geograficzna	
+Hoczwi	Hoczew	subst:sg:dat.loc:f	nazwa geograficzna	
+Hoczwi	Hoczew	subst:sg:gen:f	nazwa geograficzna	
+Hoczwi	Hoczew	subst:sg:voc:f	nazwa geograficzna	
+Hoczwiom	Hoczew	subst:pl:dat:f	nazwa geograficzna	
 Hoczykach	Hoczyk:s1	subst:pl:loc:m1	nazwisko	
 Hoczyka	Hoczyk:s1	subst:sg:gen.acc:m1	nazwisko	
 Hoczykami	Hoczyk:s1	subst:pl:inst:m1	nazwisko	
@@ -15382,6 +16453,16 @@ Hodyrom	Hodyra:s2	subst:pl:dat:f	nazwisko
 Hodyry	Hodyra:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Hodyry	Hodyra:s2	subst:sg:gen:f	nazwisko	
 Hodyrze	Hodyra:s2	subst:sg:dat.loc:f	nazwisko	
+Hodyszewach	Hodyszewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hodyszewa	Hodyszewo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hodyszewa	Hodyszewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hodyszewami	Hodyszewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hodyszewem	Hodyszewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hodyszew	Hodyszewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hodyszewie	Hodyszewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hodyszewo	Hodyszewo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hodyszewom	Hodyszewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hodyszewu	Hodyszewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Hoefcie	Hoeft:s1	subst:sg:loc:m1	nazwisko	
 Hoefcie	Hoeft:s1	subst:sg:voc:m1	nazwisko	
 Hoeftach	Hoeft:s1	subst:pl:loc:m1	nazwisko	
@@ -16065,6 +17146,18 @@ Holi	Hola:s2	subst:sg:dat.loc:f	nazwisko
 Holi	Hola:s2	subst:sg:gen:f	nazwisko	
 Holo	Hola:s2	subst:sg:voc:f	nazwisko	
 Holom	Hola:s2	subst:pl:dat:f	nazwisko	
+Holach	Hola:s3	subst:pl:loc:f	nazwa geograficzna	
+Hola	Hola:s3	subst:sg:nom:f	nazwa geograficzna	
+Holami	Hola:s3	subst:pl:inst:f	nazwa geograficzna	
+Holą	Hola:s3	subst:sg:inst:f	nazwa geograficzna	
+Hole	Hola:s3	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Holę	Hola:s3	subst:sg:acc:f	nazwa geograficzna	
+Hol	Hola:s3	subst:pl:gen:f	nazwa geograficzna	char.
+Holi	Hola:s3	subst:pl:gen:f	nazwa geograficzna	hom.
+Holi	Hola:s3	subst:sg:dat.loc:f	nazwa geograficzna	
+Holi	Hola:s3	subst:sg:gen:f	nazwa geograficzna	
+Holo	Hola:s3	subst:sg:voc:f	nazwa geograficzna	
+Holom	Hola:s3	subst:pl:dat:f	nazwa geograficzna	
 Holasach	Holas:s1	subst:pl:loc:m1	nazwisko	
 Holasa	Holas:s1	subst:sg:gen.acc:m1	nazwisko	
 Holasami	Holas:s1	subst:pl:inst:m1	nazwisko	
@@ -16212,6 +17305,28 @@ Holenderki	Holenderka	subst:pl:nom.acc.voc:f	nazwa pospolita
 Holenderki	Holenderka	subst:sg:gen:f	nazwa pospolita	
 Holenderko	Holenderka	subst:sg:voc:f	nazwa pospolita	
 Holenderkom	Holenderka	subst:pl:dat:f	nazwa pospolita	
+Holenderek	Holenderki	subst:pl:gen:n:pt	nazwa geograficzna	
+Holenderek	Holenderki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Holenderkach	Holenderki	subst:pl:loc:n:pt	nazwa geograficzna	
+Holenderkach	Holenderki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Holenderkami	Holenderki	subst:pl:inst:n:pt	nazwa geograficzna	
+Holenderkami	Holenderki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Holenderki	Holenderki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Holenderki	Holenderki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Holenderkom	Holenderki	subst:pl:dat:n:pt	nazwa geograficzna	
+Holenderkom	Holenderki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Holenderniach	Holendernia	subst:pl:loc:f	nazwa geograficzna	
+Holendernia	Holendernia	subst:sg:nom:f	nazwa geograficzna	
+Holenderniami	Holendernia	subst:pl:inst:f	nazwa geograficzna	
+Holendernią	Holendernia	subst:sg:inst:f	nazwa geograficzna	
+Holendernie	Holendernia	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Holendernię	Holendernia	subst:sg:acc:f	nazwa geograficzna	
+Holenderni	Holendernia	subst:pl:gen:f	nazwa geograficzna	hom.
+Holenderni	Holendernia	subst:sg:dat.loc:f	nazwa geograficzna	
+Holenderni	Holendernia	subst:sg:gen:f	nazwa geograficzna	
+Holendernio	Holendernia	subst:sg:voc:f	nazwa geograficzna	
+Holenderniom	Holendernia	subst:pl:dat:f	nazwa geograficzna	
+Holenderń	Holendernia	subst:pl:gen:f	nazwa geograficzna	char.
 Holender	Holender:s1	subst:sg:nom:m1	nazwa pospolita	
 Holendrach	Holender:s1	subst:pl:loc:m1	nazwa pospolita	
 Holendra	Holender:s1	subst:sg:gen.acc:m1	nazwa pospolita	
@@ -16248,6 +17363,16 @@ Holendry	Holender:s2	depr:pl:nom.acc.voc:m2	nazwisko
 Holendrze	Holender:s2	subst:sg:loc:m1	nazwisko	
 Holendrze	Holender:s2	subst:sg:voc:m1	nazwisko	
 Holender	Holender:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Holendrach	Holendry	subst:pl:loc:n:pt	nazwa geograficzna	
+Holendrach	Holendry	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Holendrami	Holendry	subst:pl:inst:n:pt	nazwa geograficzna	
+Holendrami	Holendry	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Holendrom	Holendry	subst:pl:dat:n:pt	nazwa geograficzna	
+Holendrom	Holendry	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Holendrów	Holendry	subst:pl:gen:n:pt	nazwa geograficzna	
+Holendrów	Holendry	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Holendry	Holendry	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Holendry	Holendry	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Holeniewska	Holeniewska	subst:sg:nom:f	nazwisko	
 Holeniewska	Holeniewska	subst:sg:voc:f	nazwisko	
 Holeniewską	Holeniewska	subst:sg:acc:f	nazwisko	
@@ -16271,6 +17396,18 @@ Holeniewskim	Holeniewski	subst:pl:dat:m1	nazwisko
 Holeniewskim	Holeniewski	subst:sg:inst:m1	nazwisko	
 Holeniewskim	Holeniewski	subst:sg:loc:m1	nazwisko	
 Holeniewskimi	Holeniewski	subst:pl:inst:m1	nazwisko	
+Holeszowach	Holeszów	subst:pl:loc:m3	nazwa geograficzna	
+Holeszowa	Holeszów	subst:sg:gen:m3	nazwa geograficzna	
+Holeszowami	Holeszów	subst:pl:inst:m3	nazwa geograficzna	
+Holeszowem	Holeszów	subst:sg:inst:m3	nazwa geograficzna	
+Holeszowie	Holeszów	subst:sg:loc:m3	nazwa geograficzna	
+Holeszowie	Holeszów	subst:sg:voc:m3	nazwa geograficzna	
+Holeszowom	Holeszów	subst:pl:dat:m3	nazwa geograficzna	
+Holeszowowi	Holeszów	subst:sg:dat:m3	nazwa geograficzna	
+Holeszowów	Holeszów	subst:pl:gen:m3	nazwa geograficzna	
+Holeszowu	Holeszów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Holeszowy	Holeszów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Holeszów	Holeszów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Holeszach	Holesz:s1	subst:pl:loc:m1	nazwisko	
 Holesza	Holesz:s1	subst:sg:gen.acc:m1	nazwisko	
 Holeszami	Holesz:s1	subst:pl:inst:m1	nazwisko	
@@ -16367,6 +17504,16 @@ Holickim	Holicki	subst:pl:dat:m1	nazwisko
 Holickim	Holicki	subst:sg:inst:m1	nazwisko	
 Holickim	Holicki	subst:sg:loc:m1	nazwisko	
 Holickimi	Holicki	subst:pl:inst:m1	nazwisko	
+Holikach	Holiki	subst:pl:loc:n:pt	nazwa geograficzna	
+Holikach	Holiki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Holikami	Holiki	subst:pl:inst:n:pt	nazwa geograficzna	
+Holikami	Holiki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Holik	Holiki	subst:pl:gen:n:pt	nazwa geograficzna	
+Holik	Holiki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Holiki	Holiki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Holiki	Holiki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Holikom	Holiki	subst:pl:dat:n:pt	nazwa geograficzna	
+Holikom	Holiki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Holikach	Holik:s1	subst:pl:loc:m1	nazwisko	
 Holika	Holik:s1	subst:sg:gen.acc:m1	nazwisko	
 Holikami	Holik:s1	subst:pl:inst:m1	nazwisko	
@@ -16565,6 +17712,16 @@ Holono	Holona:s2	subst:sg:voc:f	nazwisko
 Holonom	Holona:s2	subst:pl:dat:f	nazwisko	
 Holony	Holona:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Holony	Holona:s2	subst:sg:gen:f	nazwisko	
+Holonek	Holonki	subst:pl:gen:n:pt	nazwa geograficzna	
+Holonek	Holonki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Holonkach	Holonki	subst:pl:loc:n:pt	nazwa geograficzna	
+Holonkach	Holonki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Holonkami	Holonki	subst:pl:inst:n:pt	nazwa geograficzna	
+Holonkami	Holonki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Holonki	Holonki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Holonki	Holonki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Holonkom	Holonki	subst:pl:dat:n:pt	nazwa geograficzna	
+Holonkom	Holonki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Holoubek	Holoubek:s1	subst:sg:nom:m1	nazwisko	
 Holoubkach	Holoubek:s1	subst:pl:loc:m1	nazwisko	
 Holoubka	Holoubek:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -16737,6 +17894,17 @@ Hołdernym	Hołderny:s1	subst:sg:inst:m1	nazwisko
 Hołdernym	Hołderny:s1	subst:sg:loc:m1	nazwisko	
 Hołdernymi	Hołderny:s1	subst:pl:inst:m1	nazwisko	
 Hołderny	Hołderny:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hołdowcach	Hołdowiec	subst:pl:loc:m3	nazwa geograficzna	
+Hołdowca	Hołdowiec	subst:sg:gen:m3	nazwa geograficzna	
+Hołdowcami	Hołdowiec	subst:pl:inst:m3	nazwa geograficzna	
+Hołdowce	Hołdowiec	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hołdowcem	Hołdowiec	subst:sg:inst:m3	nazwa geograficzna	
+Hołdowcom	Hołdowiec	subst:pl:dat:m3	nazwa geograficzna	
+Hołdowcowi	Hołdowiec	subst:sg:dat:m3	nazwa geograficzna	
+Hołdowców	Hołdowiec	subst:pl:gen:m3	nazwa geograficzna	
+Hołdowcu	Hołdowiec	subst:sg:loc:m3	nazwa geograficzna	
+Hołdowcu	Hołdowiec	subst:sg:voc:m3	nazwa geograficzna	
+Hołdowiec	Hołdowiec	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hołdyńska	Hołdyńska	subst:sg:nom:f	nazwisko	
 Hołdyńska	Hołdyńska	subst:sg:voc:f	nazwisko	
 Hołdyńską	Hołdyńska	subst:sg:acc:f	nazwisko	
@@ -16773,6 +17941,16 @@ Hołdysowi	Hołdys:s2	subst:sg:dat:m1	nazwisko
 Hołdysów	Hołdys:s2	subst:pl:gen.acc:m1	nazwisko	
 Hołdysy	Hołdys:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Hołdys	Hołdys:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hołnach	Hołny	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Hołnach	Hołny	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Hołnami	Hołny	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Hołnami	Hołny	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Hołn	Hołny	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Hołn	Hołny	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Hołnom	Hołny	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Hołnom	Hołny	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
+Hołny	Hołny	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Hołny	Hołny	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
 Hołoda	Hołoda	subst:sg:nom:f	nazwisko	
 Hołoda	Hołoda	subst:sg:voc:f	nazwisko	
 Hołodą	Hołoda	subst:sg:acc:f	nazwisko	
@@ -16797,6 +17975,17 @@ Hołodniaków	Hołodniak:s1	subst:pl:gen.acc:m1	nazwisko
 Hołodniaku	Hołodniak:s1	subst:sg:loc:m1	nazwisko	
 Hołodniaku	Hołodniak:s1	subst:sg:voc:m1	nazwisko	
 Hołodniak	Hołodniak:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hołodnicach	Hołodnica	subst:pl:loc:f	nazwa geograficzna	
+Hołodnica	Hołodnica	subst:sg:nom:f	nazwa geograficzna	
+Hołodnicami	Hołodnica	subst:pl:inst:f	nazwa geograficzna	
+Hołodnicą	Hołodnica	subst:sg:inst:f	nazwa geograficzna	
+Hołodnice	Hołodnica	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hołodnicę	Hołodnica	subst:sg:acc:f	nazwa geograficzna	
+Hołodnic	Hołodnica	subst:pl:gen:f	nazwa geograficzna	
+Hołodnico	Hołodnica	subst:sg:voc:f	nazwa geograficzna	
+Hołodnicom	Hołodnica	subst:pl:dat:f	nazwa geograficzna	
+Hołodnicy	Hołodnica	subst:sg:dat.loc:f	nazwa geograficzna	
+Hołodnicy	Hołodnica	subst:sg:gen:f	nazwa geograficzna	
 Hołodniukach	Hołodniuk:s1	subst:pl:loc:m1	nazwisko	
 Hołodniuka	Hołodniuk:s1	subst:sg:gen.acc:m1	nazwisko	
 Hołodniukami	Hołodniuk:s1	subst:pl:inst:m1	nazwisko	
@@ -16810,6 +17999,17 @@ Hołodniuków	Hołodniuk:s1	subst:pl:gen.acc:m1	nazwisko
 Hołodniuku	Hołodniuk:s1	subst:sg:loc:m1	nazwisko	
 Hołodniuku	Hołodniuk:s1	subst:sg:voc:m1	nazwisko	
 Hołodniuk	Hołodniuk:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hołodolinach	Hołodolina	subst:pl:loc:f	nazwa geograficzna	
+Hołodolina	Hołodolina	subst:sg:nom:f	nazwa geograficzna	
+Hołodolinami	Hołodolina	subst:pl:inst:f	nazwa geograficzna	
+Hołodoliną	Hołodolina	subst:sg:inst:f	nazwa geograficzna	
+Hołodolinę	Hołodolina	subst:sg:acc:f	nazwa geograficzna	
+Hołodolin	Hołodolina	subst:pl:gen:f	nazwa geograficzna	
+Hołodolinie	Hołodolina	subst:sg:dat.loc:f	nazwa geograficzna	
+Hołodolino	Hołodolina	subst:sg:voc:f	nazwa geograficzna	
+Hołodolinom	Hołodolina	subst:pl:dat:f	nazwa geograficzna	
+Hołodoliny	Hołodolina	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hołodoliny	Hołodolina	subst:sg:gen:f	nazwa geograficzna	
 Hołodowska	Hołodowska	subst:sg:nom:f	nazwisko	
 Hołodowska	Hołodowska	subst:sg:voc:f	nazwisko	
 Hołodowską	Hołodowska	subst:sg:acc:f	nazwisko	
@@ -16859,6 +18059,16 @@ Hołodym	Hołody:s1	subst:sg:inst:m1	nazwisko
 Hołodym	Hołody:s1	subst:sg:loc:m1	nazwisko	
 Hołodymi	Hołody:s1	subst:pl:inst:m1	nazwisko	
 Hołody	Hołody:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hołodach	Hołody:s3	subst:pl:loc:n:pt	nazwa geograficzna	
+Hołodach	Hołody:s3	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hołodami	Hołody:s3	subst:pl:inst:n:pt	nazwa geograficzna	
+Hołodami	Hołody:s3	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hołodom	Hołody:s3	subst:pl:dat:n:pt	nazwa geograficzna	
+Hołodom	Hołody:s3	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Hołodów	Hołody:s3	subst:pl:gen:n:pt	nazwa geograficzna	
+Hołodów	Hołody:s3	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hołody	Hołody:s3	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hołody	Hołody:s3	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Hołodze	Hołoga:s1	subst:sg:dat.loc:m1	nazwisko	
 Hołogach	Hołoga:s1	subst:pl:loc:m1	nazwisko	
 Hołoga	Hołoga:s1	subst:sg:nom:m1	nazwisko	
@@ -16981,6 +18191,16 @@ Hołowczaków	Hołowczak:s1	subst:pl:gen.acc:m1	nazwisko
 Hołowczaku	Hołowczak:s1	subst:sg:loc:m1	nazwisko	
 Hołowczaku	Hołowczak:s1	subst:sg:voc:m1	nazwisko	
 Hołowczak	Hołowczak:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hołowczycach	Hołowczyce	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Hołowczycach	Hołowczyce	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Hołowczycami	Hołowczyce	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Hołowczycami	Hołowczyce	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Hołowczyce	Hołowczyce	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Hołowczyce	Hołowczyce	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
+Hołowczyc	Hołowczyce	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Hołowczyc	Hołowczyce	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Hołowczycom	Hołowczyce	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Hołowczycom	Hołowczyce	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
 Hołowczycach	Hołowczyc:s2	subst:pl:loc:m1	nazwisko	
 Hołowczyca	Hołowczyc:s2	subst:sg:gen.acc:m1	nazwisko	
 Hołowczycami	Hołowczyc:s2	subst:pl:inst:m1	nazwisko	
@@ -17066,6 +18286,16 @@ Hołowieckim	Hołowiecki	subst:pl:dat:m1	nazwisko
 Hołowieckim	Hołowiecki	subst:sg:inst:m1	nazwisko	
 Hołowieckim	Hołowiecki	subst:sg:loc:m1	nazwisko	
 Hołowieckimi	Hołowiecki	subst:pl:inst:m1	nazwisko	
+Hołowienek	Hołowienki	subst:pl:gen:n:pt	nazwa geograficzna	
+Hołowienek	Hołowienki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hołowienkach	Hołowienki	subst:pl:loc:n:pt	nazwa geograficzna	
+Hołowienkach	Hołowienki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hołowienkami	Hołowienki	subst:pl:inst:n:pt	nazwa geograficzna	
+Hołowienkami	Hołowienki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hołowienki	Hołowienki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hołowienki	Hołowienki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hołowienkom	Hołowienki	subst:pl:dat:n:pt	nazwa geograficzna	
+Hołowienkom	Hołowienki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hołowience	Hołowienko:s1	subst:sg:dat.loc:m1	nazwisko	
 Hołowienkach	Hołowienko:s1	subst:pl:loc:m1	nazwisko	
 Hołowienkami	Hołowienko:s1	subst:pl:inst:m1	nazwisko	
@@ -17138,6 +18368,16 @@ Hołowni	Hołownia:s3	subst:sg:dat.loc:f	nazwisko
 Hołowni	Hołownia:s3	subst:sg:gen:f	nazwisko	
 Hołownio	Hołownia:s3	subst:sg:voc:f	nazwisko	
 Hołowniom	Hołownia:s3	subst:pl:dat:f	nazwisko	
+Hołownach	Hołowno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hołowna	Hołowno	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hołowna	Hołowno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hołownami	Hołowno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hołownem	Hołowno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hołown	Hołowno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hołownie	Hołowno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hołowno	Hołowno	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hołownom	Hołowno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hołownu	Hołowno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Hołówce	Hołówka:s2	subst:sg:dat.loc:m1	nazwisko	
 Hołówkach	Hołówka:s2	subst:pl:loc:m1	nazwisko	
 Hołówka	Hołówka:s2	subst:sg:nom:m1	nazwisko	
@@ -17161,6 +18401,16 @@ Hołówki	Hołówka:s3	subst:pl:nom.acc.voc:f	nazwisko
 Hołówki	Hołówka:s3	subst:sg:gen:f	nazwisko	
 Hołówko	Hołówka:s3	subst:sg:voc:f	nazwisko	
 Hołówkom	Hołówka:s3	subst:pl:dat:f	nazwisko	
+Hołówek	Hołówki	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Hołówek	Hołówki	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Hołówkach	Hołówki	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Hołówkach	Hołówki	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Hołówkami	Hołówki	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Hołówkami	Hołówki	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Hołówki	Hołówki	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Hołówki	Hołówki	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
+Hołówkom	Hołówki	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Hołówkom	Hołówki	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
 Hołówce	Hołówko:s2	subst:sg:dat.loc:m1	nazwisko	
 Hołówkach	Hołówko:s2	subst:pl:loc:m1	nazwisko	
 Hołówkami	Hołówko:s2	subst:pl:inst:m1	nazwisko	
@@ -17272,6 +18522,17 @@ Hołubiuków	Hołubiuk:s1	subst:pl:gen.acc:m1	nazwisko
 Hołubiuku	Hołubiuk:s1	subst:sg:loc:m1	nazwisko	
 Hołubiuku	Hołubiuk:s1	subst:sg:voc:m1	nazwisko	
 Hołubiuk	Hołubiuk:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hołublach	Hołubla	subst:pl:loc:f	nazwa geograficzna	
+Hołubla	Hołubla	subst:sg:nom:f	nazwa geograficzna	
+Hołublami	Hołubla	subst:pl:inst:f	nazwa geograficzna	
+Hołublą	Hołubla	subst:sg:inst:f	nazwa geograficzna	
+Hołuble	Hołubla	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hołublę	Hołubla	subst:sg:acc:f	nazwa geograficzna	
+Hołubli	Hołubla	subst:pl:gen:f	nazwa geograficzna	
+Hołubli	Hołubla	subst:sg:dat.loc:f	nazwa geograficzna	
+Hołubli	Hołubla	subst:sg:gen:f	nazwa geograficzna	
+Hołublo	Hołubla	subst:sg:voc:f	nazwa geograficzna	
+Hołublom	Hołubla	subst:pl:dat:f	nazwa geograficzna	
 Hołubowiczach	Hołubowicz:s2	subst:pl:loc:m1	nazwisko	
 Hołubowicza	Hołubowicz:s2	subst:sg:gen.acc:m1	nazwisko	
 Hołubowiczami	Hołubowicz:s2	subst:pl:inst:m1	nazwisko	
@@ -17322,6 +18583,30 @@ Hołubowi	Hołub:s1	subst:sg:dat:m1	nazwisko
 Hołubów	Hołub:s1	subst:pl:gen.acc:m1	nazwisko	
 Hołuby	Hołub:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Hołub	Hołub:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hołuczkowach	Hołuczków	subst:pl:loc:m3	nazwa geograficzna	
+Hołuczkowa	Hołuczków	subst:sg:gen:m3	nazwa geograficzna	
+Hołuczkowami	Hołuczków	subst:pl:inst:m3	nazwa geograficzna	
+Hołuczkowem	Hołuczków	subst:sg:inst:m3	nazwa geograficzna	
+Hołuczkowie	Hołuczków	subst:sg:loc:m3	nazwa geograficzna	
+Hołuczkowie	Hołuczków	subst:sg:voc:m3	nazwa geograficzna	
+Hołuczkowom	Hołuczków	subst:pl:dat:m3	nazwa geograficzna	
+Hołuczkowowi	Hołuczków	subst:sg:dat:m3	nazwa geograficzna	
+Hołuczkowów	Hołuczków	subst:pl:gen:m3	nazwa geograficzna	
+Hołuczkowu	Hołuczków	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hołuczkowy	Hołuczków	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hołuczków	Hołuczków	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hołudzach	Hołudza	subst:pl:loc:f	nazwa geograficzna	
+Hołudza	Hołudza	subst:sg:nom:f	nazwa geograficzna	
+Hołudzami	Hołudza	subst:pl:inst:f	nazwa geograficzna	
+Hołudzą	Hołudza	subst:sg:inst:f	nazwa geograficzna	
+Hołudze	Hołudza	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hołudzę	Hołudza	subst:sg:acc:f	nazwa geograficzna	
+Hołudz	Hołudza	subst:pl:gen:f	nazwa geograficzna	char.
+Hołudzo	Hołudza	subst:sg:voc:f	nazwa geograficzna	
+Hołudzom	Hołudza	subst:pl:dat:f	nazwa geograficzna	
+Hołudzy	Hołudza	subst:pl:gen:f	nazwa geograficzna	hom.
+Hołudzy	Hołudza	subst:sg:dat.loc:f	nazwa geograficzna	
+Hołudzy	Hołudza	subst:sg:gen:f	nazwa geograficzna	
 Hołujach	Hołuj:s1	subst:pl:loc:m1	nazwisko	
 Hołuja	Hołuj:s1	subst:sg:gen.acc:m1	nazwisko	
 Hołujami	Hołuj:s1	subst:pl:inst:m1	nazwisko	
@@ -17335,6 +18620,16 @@ Hołujów	Hołuj:s1	subst:pl:gen.acc:m1	nazwisko
 Hołuju	Hołuj:s1	subst:sg:loc:m1	nazwisko	
 Hołuju	Hołuj:s1	subst:sg:voc:m1	nazwisko	
 Hołuj	Hołuj:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hołużnego	Hołużne	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hołużne	Hołużne	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hołużne	Hołużne	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hołużnem	Hołużne	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hołużnem	Hołużne	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hołużnemu	Hołużne	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hołużnych	Hołużne	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hołużnych	Hołużne	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hołużnym	Hołużne	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hołużnymi	Hołużne	subst:pl:inst:n:ncol	nazwa geograficzna	
 Hołyńska	Hołyńska	subst:sg:nom:f	nazwisko	
 Hołyńska	Hołyńska	subst:sg:voc:f	nazwisko	
 Hołyńską	Hołyńska	subst:sg:acc:f	nazwisko	
@@ -17569,6 +18864,26 @@ Homoncików	Homoncik:s1	subst:pl:gen.acc:m1	nazwisko
 Homonciku	Homoncik:s1	subst:sg:loc:m1	nazwisko	
 Homonciku	Homoncik:s1	subst:sg:voc:m1	nazwisko	
 Homoncik	Homoncik:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Homotach	Homoty	subst:pl:loc:n:pt	nazwa geograficzna	
+Homotach	Homoty	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Homotami	Homoty	subst:pl:inst:n:pt	nazwa geograficzna	
+Homotami	Homoty	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Homotom	Homoty	subst:pl:dat:n:pt	nazwa geograficzna	
+Homotom	Homoty	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Homotów	Homoty	subst:pl:gen:n:pt	nazwa geograficzna	
+Homotów	Homoty	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Homoty	Homoty	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Homoty	Homoty	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Homrzyskach	Homrzyska	subst:pl:loc:n:pt	nazwa geograficzna	
+Homrzyskach	Homrzyska	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Homrzyska	Homrzyska	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Homrzyska	Homrzyska	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Homrzyskami	Homrzyska	subst:pl:inst:n:pt	nazwa geograficzna	
+Homrzyskami	Homrzyska	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Homrzysk	Homrzyska	subst:pl:gen:n:pt	nazwa geograficzna	
+Homrzysk	Homrzyska	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Homrzyskom	Homrzyska	subst:pl:dat:n:pt	nazwa geograficzna	
+Homrzyskom	Homrzyska	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Homska	Homska	subst:sg:nom:f	nazwisko	
 Homska	Homska	subst:sg:voc:f	nazwisko	
 Homską	Homska	subst:sg:acc:f	nazwisko	
@@ -17757,6 +19072,37 @@ Hongkończykowi	Hongkończyk	subst:sg:dat:m1	nazwa pospolita
 Hongkończyków	Hongkończyk	subst:pl:gen.acc:m1	nazwa pospolita	
 Hongkończyku	Hongkończyk	subst:sg:loc:m1	nazwa pospolita	
 Hongkończyku	Hongkończyk	subst:sg:voc:m1	nazwa pospolita	
+Honiatyczach	Honiatycze	subst:pl:loc:n:pt	nazwa geograficzna	
+Honiatyczach	Honiatycze	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Honiatyczami	Honiatycze	subst:pl:inst:n:pt	nazwa geograficzna	
+Honiatyczami	Honiatycze	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Honiatycze	Honiatycze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Honiatycze	Honiatycze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Honiatycz	Honiatycze	subst:pl:gen:n:pt	nazwa geograficzna	
+Honiatycz	Honiatycze	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Honiatyczom	Honiatycze	subst:pl:dat:n:pt	nazwa geograficzna	
+Honiatyczom	Honiatycze	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Honiatyczek	Honiatyczki	subst:pl:gen:n:pt	nazwa geograficzna	
+Honiatyczek	Honiatyczki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Honiatyczkach	Honiatyczki	subst:pl:loc:n:pt	nazwa geograficzna	
+Honiatyczkach	Honiatyczki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Honiatyczkami	Honiatyczki	subst:pl:inst:n:pt	nazwa geograficzna	
+Honiatyczkami	Honiatyczki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Honiatyczki	Honiatyczki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Honiatyczki	Honiatyczki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Honiatyczkom	Honiatyczki	subst:pl:dat:n:pt	nazwa geograficzna	
+Honiatyczkom	Honiatyczki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Honiatynach	Honiatyn	subst:pl:loc:m3	nazwa geograficzna	
+Honiatyna	Honiatyn	subst:sg:gen:m3	nazwa geograficzna	
+Honiatynami	Honiatyn	subst:pl:inst:m3	nazwa geograficzna	
+Honiatynem	Honiatyn	subst:sg:inst:m3	nazwa geograficzna	
+Honiatyn	Honiatyn	subst:sg:nom.acc:m3	nazwa geograficzna	
+Honiatynie	Honiatyn	subst:sg:loc:m3	nazwa geograficzna	
+Honiatynie	Honiatyn	subst:sg:voc:m3	nazwa geograficzna	
+Honiatynom	Honiatyn	subst:pl:dat:m3	nazwa geograficzna	
+Honiatynowi	Honiatyn	subst:sg:dat:m3	nazwa geograficzna	
+Honiatynów	Honiatyn	subst:pl:gen:m3	nazwa geograficzna	
+Honiatyny	Honiatyn	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Honiszach	Honisz:s1	subst:pl:loc:m1	nazwisko	
 Honisza	Honisz:s1	subst:sg:gen.acc:m1	nazwisko	
 Honiszami	Honisz:s1	subst:pl:inst:m1	nazwisko	
@@ -17835,6 +19181,18 @@ Honoratki	Honoratka	subst:pl:nom.acc.voc:f	imię
 Honoratki	Honoratka	subst:sg:gen:f	imię	
 Honoratko	Honoratka	subst:sg:voc:f	imię	
 Honoratkom	Honoratka	subst:pl:dat:f	imię	
+Honoratowach	Honoratów	subst:pl:loc:m3	nazwa geograficzna	
+Honoratowa	Honoratów	subst:sg:gen:m3	nazwa geograficzna	
+Honoratowami	Honoratów	subst:pl:inst:m3	nazwa geograficzna	
+Honoratowem	Honoratów	subst:sg:inst:m3	nazwa geograficzna	
+Honoratowie	Honoratów	subst:sg:loc:m3	nazwa geograficzna	
+Honoratowie	Honoratów	subst:sg:voc:m3	nazwa geograficzna	
+Honoratowom	Honoratów	subst:pl:dat:m3	nazwa geograficzna	
+Honoratowowi	Honoratów	subst:sg:dat:m3	nazwa geograficzna	
+Honoratowów	Honoratów	subst:pl:gen:m3	nazwa geograficzna	
+Honoratowu	Honoratów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Honoratowy	Honoratów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Honoratów	Honoratów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Honorciach	Honorcia	subst:pl:loc:f	imię	
 Honorcia	Honorcia	subst:sg:nom:f	imię	
 Honorciami	Honorcia	subst:pl:inst:f	imię	
@@ -18080,6 +19438,16 @@ Hopom	Hope:s1	subst:pl:dat:m1	nazwisko
 Hopowie	Hope:s1	subst:pl:nom.voc:m1	nazwisko	
 Hopów	Hope:s1	subst:pl:gen.acc:m1	nazwisko	
 Hope	Hope:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hopkich	Hopkie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hopkich	Hopkie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hopkiego	Hopkie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hopkie	Hopkie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hopkie	Hopkie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hopkiem	Hopkie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hopkiem	Hopkie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hopkiemu	Hopkie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hopkim	Hopkie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hopkimi	Hopkie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Hopce	Hopko:s1	subst:sg:dat.loc:m1	nazwisko	
 Hopkach	Hopko:s1	subst:pl:loc:m1	nazwisko	
 Hopkami	Hopko:s1	subst:pl:inst:m1	nazwisko	
@@ -18107,6 +19475,18 @@ Hopkowiczów	Hopkowicz:s1	subst:pl:gen.acc:m1	nazwisko
 Hopkowiczu	Hopkowicz:s1	subst:sg:loc:m1	nazwisko	
 Hopkowiczu	Hopkowicz:s1	subst:sg:voc:m1	nazwisko	
 Hopkowicz	Hopkowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hopowach	Hopowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hopowa	Hopowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hopowa	Hopowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hopowami	Hopowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hopowem	Hopowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hopow	Hopowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hopowie	Hopowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hopowo	Hopowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hopowom	Hopowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hopowów	Hopowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hopowu	Hopowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hopów	Hopowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Hoppach	Hoppa:s1	subst:pl:loc:m1	nazwisko	
 Hoppa	Hoppa:s1	subst:sg:nom:m1	nazwisko	
 Hoppami	Hoppa:s1	subst:pl:inst:m1	nazwisko	
@@ -18180,6 +19560,16 @@ Hopowi	Hop:s1	subst:sg:dat:m1	nazwisko
 Hopów	Hop:s1	subst:pl:gen.acc:m1	nazwisko	
 Hopy	Hop:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Hop	Hop:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hopach	Hopy	subst:pl:loc:n:pt	nazwa geograficzna	
+Hopach	Hopy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hopami	Hopy	subst:pl:inst:n:pt	nazwa geograficzna	
+Hopami	Hopy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hopom	Hopy	subst:pl:dat:n:pt	nazwa geograficzna	
+Hopom	Hopy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Hopów	Hopy	subst:pl:gen:n:pt	nazwa geograficzna	
+Hopów	Hopy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hopy	Hopy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hopy	Hopy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Horabikach	Horabik:s1	subst:pl:loc:m1	nazwisko	
 Horabika	Horabik:s1	subst:sg:gen.acc:m1	nazwisko	
 Horabikami	Horabik:s1	subst:pl:inst:m1	nazwisko	
@@ -18512,6 +19902,28 @@ Horbowym	Horbowy:s1	subst:sg:inst:m1	nazwisko
 Horbowym	Horbowy:s1	subst:sg:loc:m1	nazwisko	
 Horbowymi	Horbowy:s1	subst:pl:inst:m1	nazwisko	
 Horbowy	Horbowy:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Horbowach	Horbów	subst:pl:loc:m3	nazwa geograficzna	
+Horbowa	Horbów	subst:sg:gen:m3	nazwa geograficzna	
+Horbowami	Horbów	subst:pl:inst:m3	nazwa geograficzna	
+Horbowem	Horbów	subst:sg:inst:m3	nazwa geograficzna	
+Horbowie	Horbów	subst:sg:loc:m3	nazwa geograficzna	
+Horbowie	Horbów	subst:sg:voc:m3	nazwa geograficzna	
+Horbowom	Horbów	subst:pl:dat:m3	nazwa geograficzna	
+Horbowowi	Horbów	subst:sg:dat:m3	nazwa geograficzna	
+Horbowów	Horbów	subst:pl:gen:m3	nazwa geograficzna	
+Horbowu	Horbów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Horbowy	Horbów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Horbów	Horbów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Horczakach	Horczaki	subst:pl:loc:n:pt	nazwa geograficzna	
+Horczakach	Horczaki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Horczakami	Horczaki	subst:pl:inst:n:pt	nazwa geograficzna	
+Horczakami	Horczaki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Horczaki	Horczaki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Horczaki	Horczaki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Horczakom	Horczaki	subst:pl:dat:n:pt	nazwa geograficzna	
+Horczakom	Horczaki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Horczaków	Horczaki	subst:pl:gen:n:pt	nazwa geograficzna	
+Horczaków	Horczaki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Horczakach	Horczak:s1	subst:pl:loc:m1	nazwisko	
 Horczaka	Horczak:s1	subst:sg:gen.acc:m1	nazwisko	
 Horczakami	Horczak:s1	subst:pl:inst:m1	nazwisko	
@@ -18588,6 +20000,28 @@ Hordziejewiczów	Hordziejewicz:s1	subst:pl:gen.acc:m1	nazwisko
 Hordziejewiczu	Hordziejewicz:s1	subst:sg:loc:m1	nazwisko	
 Hordziejewiczu	Hordziejewicz:s1	subst:sg:voc:m1	nazwisko	
 Hordziejewicz	Hordziejewicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hordzieżach	Hordzież	subst:pl:loc:f	nazwa geograficzna	
+Hordzieżami	Hordzież	subst:pl:inst:f	nazwa geograficzna	
+Hordzieżą	Hordzież	subst:sg:inst:f	nazwa geograficzna	
+Hordzieże	Hordzież	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hordzież	Hordzież	subst:sg:acc:f	nazwa geograficzna	
+Hordzież	Hordzież	subst:sg:nom:f	nazwa geograficzna	
+Hordzieżom	Hordzież	subst:pl:dat:f	nazwa geograficzna	
+Hordzieży	Hordzież	subst:pl:gen:f	nazwa geograficzna	
+Hordzieży	Hordzież	subst:sg:dat.loc:f	nazwa geograficzna	
+Hordzieży	Hordzież	subst:sg:gen:f	nazwa geograficzna	
+Hordzieży	Hordzież	subst:sg:voc:f	nazwa geograficzna	
+Hordzieżce	Hordzieżka	subst:sg:dat.loc:f	nazwa geograficzna	
+Hordzieżek	Hordzieżka	subst:pl:gen:f	nazwa geograficzna	
+Hordzieżkach	Hordzieżka	subst:pl:loc:f	nazwa geograficzna	
+Hordzieżka	Hordzieżka	subst:sg:nom:f	nazwa geograficzna	
+Hordzieżkami	Hordzieżka	subst:pl:inst:f	nazwa geograficzna	
+Hordzieżką	Hordzieżka	subst:sg:inst:f	nazwa geograficzna	
+Hordzieżkę	Hordzieżka	subst:sg:acc:f	nazwa geograficzna	
+Hordzieżki	Hordzieżka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hordzieżki	Hordzieżka	subst:sg:gen:f	nazwa geograficzna	
+Hordzieżko	Hordzieżka	subst:sg:voc:f	nazwa geograficzna	
+Hordzieżkom	Hordzieżka	subst:pl:dat:f	nazwa geograficzna	
 Horecka	Horecka	subst:sg:nom:f	nazwisko	
 Horecka	Horecka	subst:sg:voc:f	nazwisko	
 Horecką	Horecka	subst:sg:acc:f	nazwisko	
@@ -18789,6 +20223,16 @@ Hornickim	Hornicki	subst:pl:dat:m1	nazwisko
 Hornickim	Hornicki	subst:sg:inst:m1	nazwisko	
 Hornickim	Hornicki	subst:sg:loc:m1	nazwisko	
 Hornickimi	Hornicki	subst:pl:inst:m1	nazwisko	
+Hornigach	Hornigi	subst:pl:loc:n:pt	nazwa geograficzna	
+Hornigach	Hornigi	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hornigami	Hornigi	subst:pl:inst:n:pt	nazwa geograficzna	
+Hornigami	Hornigi	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hornig	Hornigi	subst:pl:gen:n:pt	nazwa geograficzna	
+Hornig	Hornigi	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hornigi	Hornigi	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hornigi	Hornigi	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hornigom	Hornigi	subst:pl:dat:n:pt	nazwa geograficzna	
+Hornigom	Hornigi	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hornikach	Hornik:s2	subst:pl:loc:m1	nazwisko	
 Hornika	Hornik:s2	subst:sg:gen.acc:m1	nazwisko	
 Hornikami	Hornik:s2	subst:pl:inst:m1	nazwisko	
@@ -18802,6 +20246,28 @@ Horników	Hornik:s2	subst:pl:gen.acc:m1	nazwisko
 Horniku	Hornik:s2	subst:sg:loc:m1	nazwisko	
 Horniku	Hornik:s2	subst:sg:voc:m1	nazwisko	
 Hornik	Hornik:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hornostajach	Hornostaje	subst:pl:loc:n:pt	nazwa geograficzna	
+Hornostajach	Hornostaje	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hornostajami	Hornostaje	subst:pl:inst:n:pt	nazwa geograficzna	
+Hornostajami	Hornostaje	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hornostaje	Hornostaje	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hornostaje	Hornostaje	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hornostaj	Hornostaje	subst:pl:gen:n:pt	nazwa geograficzna	
+Hornostaj	Hornostaje	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hornostajom	Hornostaje	subst:pl:dat:n:pt	nazwa geograficzna	
+Hornostajom	Hornostaje	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Hornowach	Hornowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hornowa	Hornowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hornowa	Hornowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hornowami	Hornowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hornowem	Hornowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hornow	Hornowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hornowie	Hornowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hornowo	Hornowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hornowom	Hornowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hornowów	Hornowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hornowu	Hornowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hornów	Hornowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Hornowska	Hornowska	subst:sg:nom:f	nazwisko	
 Hornowska	Hornowska	subst:sg:voc:f	nazwisko	
 Hornowską	Hornowska	subst:sg:acc:f	nazwisko	
@@ -18825,6 +20291,28 @@ Hornowskim	Hornowski	subst:pl:dat:m1	nazwisko
 Hornowskim	Hornowski	subst:sg:inst:m1	nazwisko	
 Hornowskim	Hornowski	subst:sg:loc:m1	nazwisko	
 Hornowskimi	Hornowski	subst:pl:inst:m1	nazwisko	
+Hornowszczyznach	Hornowszczyzna	subst:pl:loc:f	nazwa geograficzna	
+Hornowszczyzna	Hornowszczyzna	subst:sg:nom:f	nazwa geograficzna	
+Hornowszczyznami	Hornowszczyzna	subst:pl:inst:f	nazwa geograficzna	
+Hornowszczyzną	Hornowszczyzna	subst:sg:inst:f	nazwa geograficzna	
+Hornowszczyznę	Hornowszczyzna	subst:sg:acc:f	nazwa geograficzna	
+Hornowszczyzn	Hornowszczyzna	subst:pl:gen:f	nazwa geograficzna	
+Hornowszczyzno	Hornowszczyzna	subst:sg:voc:f	nazwa geograficzna	
+Hornowszczyznom	Hornowszczyzna	subst:pl:dat:f	nazwa geograficzna	
+Hornowszczyzny	Hornowszczyzna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hornowszczyzny	Hornowszczyzna	subst:sg:gen:f	nazwa geograficzna	
+Hornowszczyźnie	Hornowszczyzna	subst:sg:dat.loc:f	nazwa geograficzna	
+Hornówek	Hornówek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hornówkach	Hornówek	subst:pl:loc:m3	nazwa geograficzna	
+Hornówka	Hornówek	subst:sg:gen:m3	nazwa geograficzna	
+Hornówkami	Hornówek	subst:pl:inst:m3	nazwa geograficzna	
+Hornówkiem	Hornówek	subst:sg:inst:m3	nazwa geograficzna	
+Hornówki	Hornówek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hornówkom	Hornówek	subst:pl:dat:m3	nazwa geograficzna	
+Hornówkowi	Hornówek	subst:sg:dat:m3	nazwa geograficzna	
+Hornówków	Hornówek	subst:pl:gen:m3	nazwa geograficzna	
+Hornówku	Hornówek	subst:sg:loc:m3	nazwa geograficzna	
+Hornówku	Hornówek	subst:sg:voc:m3	nazwa geograficzna	
 Hornach	Horn:s1	subst:pl:loc:m3	nazwa geograficzna	
 Hornami	Horn:s1	subst:pl:inst:m3	nazwa geograficzna	
 Hornem	Horn:s1	subst:sg:inst:m3	nazwa geograficzna	
@@ -18921,6 +20409,17 @@ Horodeckim	Horodecki	subst:pl:dat:m1	nazwisko
 Horodeckim	Horodecki	subst:sg:inst:m1	nazwisko	
 Horodeckim	Horodecki	subst:sg:loc:m1	nazwisko	
 Horodeckimi	Horodecki	subst:pl:inst:m1	nazwisko	
+Horodek	Horodek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Horodkach	Horodek	subst:pl:loc:m3	nazwa geograficzna	
+Horodka	Horodek	subst:sg:gen:m3	nazwa geograficzna	
+Horodkami	Horodek	subst:pl:inst:m3	nazwa geograficzna	
+Horodkiem	Horodek	subst:sg:inst:m3	nazwa geograficzna	
+Horodki	Horodek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Horodkom	Horodek	subst:pl:dat:m3	nazwa geograficzna	
+Horodkowi	Horodek	subst:sg:dat:m3	nazwa geograficzna	
+Horodków	Horodek	subst:pl:gen:m3	nazwa geograficzna	
+Horodku	Horodek	subst:sg:loc:m3	nazwa geograficzna	
+Horodku	Horodek	subst:sg:voc:m3	nazwa geograficzna	
 Horodeńska	Horodeńska	subst:sg:nom:f	nazwisko	
 Horodeńska	Horodeńska	subst:sg:voc:f	nazwisko	
 Horodeńską	Horodeńska	subst:sg:acc:f	nazwisko	
@@ -18967,6 +20466,27 @@ Horodłem	Horodło	subst:sg:inst:n:ncol	nazwa geograficzna
 Horodło	Horodło	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
 Horodłom	Horodło	subst:pl:dat:n:ncol	nazwa geograficzna	
 Horodłu	Horodło	subst:sg:dat:n:ncol	nazwa geograficzna	
+Horodniance	Horodnianka	subst:sg:dat.loc:f	nazwa geograficzna	
+Horodnianek	Horodnianka	subst:pl:gen:f	nazwa geograficzna	
+Horodniankach	Horodnianka	subst:pl:loc:f	nazwa geograficzna	
+Horodnianka	Horodnianka	subst:sg:nom:f	nazwa geograficzna	
+Horodniankami	Horodnianka	subst:pl:inst:f	nazwa geograficzna	
+Horodnianką	Horodnianka	subst:sg:inst:f	nazwa geograficzna	
+Horodniankę	Horodnianka	subst:sg:acc:f	nazwa geograficzna	
+Horodnianki	Horodnianka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Horodnianki	Horodnianka	subst:sg:gen:f	nazwa geograficzna	
+Horodnianko	Horodnianka	subst:sg:voc:f	nazwa geograficzna	
+Horodniankom	Horodnianka	subst:pl:dat:f	nazwa geograficzna	
+Horodnianach	Horodniany	subst:pl:loc:n:pt	nazwa geograficzna	
+Horodnianach	Horodniany	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Horodnianami	Horodniany	subst:pl:inst:n:pt	nazwa geograficzna	
+Horodnianami	Horodniany	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Horodnian	Horodniany	subst:pl:gen:n:pt	nazwa geograficzna	
+Horodnian	Horodniany	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Horodnianom	Horodniany	subst:pl:dat:n:pt	nazwa geograficzna	
+Horodnianom	Horodniany	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Horodniany	Horodniany	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Horodniany	Horodniany	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Horodyńska	Horodyńska	subst:sg:nom:f	nazwisko	
 Horodyńska	Horodyńska	subst:sg:voc:f	nazwisko	
 Horodyńską	Horodyńska	subst:sg:acc:f	nazwisko	
@@ -19013,6 +20533,26 @@ Horodyskim	Horodyski	subst:pl:dat:m1	nazwisko
 Horodyskim	Horodyski	subst:sg:inst:m1	nazwisko	
 Horodyskim	Horodyski	subst:sg:loc:m1	nazwisko	
 Horodyskimi	Horodyski	subst:pl:inst:m1	nazwisko	
+Horodyskach	Horodysko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Horodyska	Horodysko	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Horodyska	Horodysko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Horodyskami	Horodysko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Horodysk	Horodysko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Horodyskiem	Horodysko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Horodysko	Horodysko	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Horodyskom	Horodysko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Horodysku	Horodysko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Horodysku	Horodysko	subst:sg:loc:n:ncol	nazwa geograficzna	
+Horodyszczach	Horodyszcze	subst:pl:loc:n:ncol	nazwa geograficzna	
+Horodyszcza	Horodyszcze	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Horodyszcza	Horodyszcze	subst:sg:gen:n:ncol	nazwa geograficzna	
+Horodyszczami	Horodyszcze	subst:pl:inst:n:ncol	nazwa geograficzna	
+Horodyszcze	Horodyszcze	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Horodyszczem	Horodyszcze	subst:sg:inst:n:ncol	nazwa geograficzna	
+Horodyszczom	Horodyszcze	subst:pl:dat:n:ncol	nazwa geograficzna	
+Horodyszczu	Horodyszcze	subst:sg:dat:n:ncol	nazwa geograficzna	
+Horodyszczu	Horodyszcze	subst:sg:loc:n:ncol	nazwa geograficzna	
+Horodyszczy	Horodyszcze	subst:pl:gen:n:ncol	nazwa geograficzna	
 Horojdce	Horojdko:s1	subst:sg:dat.loc:m1	nazwisko	
 Horojdkach	Horojdko:s1	subst:pl:loc:m1	nazwisko	
 Horojdkami	Horojdko:s1	subst:pl:inst:m1	nazwisko	
@@ -19039,6 +20579,17 @@ Horoniu	Horoń:s1	subst:sg:loc:m1	nazwisko
 Horoniu	Horoń:s1	subst:sg:voc:m1	nazwisko	
 Horoń	Horoń:s1	subst:sg:nom:m1	nazwisko	
 Horoń	Horoń:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Horostycie	Horostyta	subst:sg:dat.loc:f	nazwa geograficzna	
+Horostytach	Horostyta	subst:pl:loc:f	nazwa geograficzna	
+Horostyta	Horostyta	subst:sg:nom:f	nazwa geograficzna	
+Horostytami	Horostyta	subst:pl:inst:f	nazwa geograficzna	
+Horostytą	Horostyta	subst:sg:inst:f	nazwa geograficzna	
+Horostytę	Horostyta	subst:sg:acc:f	nazwa geograficzna	
+Horostyt	Horostyta	subst:pl:gen:f	nazwa geograficzna	
+Horostyto	Horostyta	subst:sg:voc:f	nazwa geograficzna	
+Horostytom	Horostyta	subst:pl:dat:f	nazwa geograficzna	
+Horostyty	Horostyta	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Horostyty	Horostyta	subst:sg:gen:f	nazwa geograficzna	
 Horoszczakach	Horoszczak:s1	subst:pl:loc:m1	nazwisko	
 Horoszczaka	Horoszczak:s1	subst:sg:gen.acc:m1	nazwisko	
 Horoszczakami	Horoszczak:s1	subst:pl:inst:m1	nazwisko	
@@ -19052,6 +20603,26 @@ Horoszczaków	Horoszczak:s1	subst:pl:gen.acc:m1	nazwisko
 Horoszczaku	Horoszczak:s1	subst:sg:loc:m1	nazwisko	
 Horoszczaku	Horoszczak:s1	subst:sg:voc:m1	nazwisko	
 Horoszczak	Horoszczak:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Horoszczycach	Horoszczyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Horoszczycach	Horoszczyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Horoszczycami	Horoszczyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Horoszczycami	Horoszczyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Horoszczyce	Horoszczyce	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Horoszczyce	Horoszczyce	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Horoszczyc	Horoszczyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Horoszczyc	Horoszczyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Horoszczycom	Horoszczyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Horoszczycom	Horoszczyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Horoszek	Horoszki	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Horoszek	Horoszki	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Horoszkach	Horoszki	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Horoszkach	Horoszki	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Horoszkami	Horoszki	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Horoszkami	Horoszki	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Horoszki	Horoszki	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Horoszki	Horoszki	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
+Horoszkom	Horoszki	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Horoszkom	Horoszki	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
 Horoszkiewiczach	Horoszkiewicz:s2	subst:pl:loc:m1	nazwisko	
 Horoszkiewicza	Horoszkiewicz:s2	subst:sg:gen.acc:m1	nazwisko	
 Horoszkiewiczami	Horoszkiewicz:s2	subst:pl:inst:m1	nazwisko	
@@ -19315,6 +20886,17 @@ Horydy	Horyd:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Horydzie	Horyd:s1	subst:sg:loc:m1	nazwisko	
 Horydzie	Horyd:s1	subst:sg:voc:m1	nazwisko	
 Horyd	Horyd:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Horyniec	Horyniec	subst:sg:nom.acc:m3	człon nazwy geograficznej	
+Horyńcach	Horyniec	subst:pl:loc:m3	człon nazwy geograficznej	
+Horyńca	Horyniec	subst:sg:gen:m3	człon nazwy geograficznej	
+Horyńcami	Horyniec	subst:pl:inst:m3	człon nazwy geograficznej	
+Horyńce	Horyniec	subst:pl:nom.acc.voc:m3	człon nazwy geograficznej	
+Horyńcem	Horyniec	subst:sg:inst:m3	człon nazwy geograficznej	
+Horyńcom	Horyniec	subst:pl:dat:m3	człon nazwy geograficznej	
+Horyńcowi	Horyniec	subst:sg:dat:m3	człon nazwy geograficznej	
+Horyńców	Horyniec	subst:pl:gen:m3	człon nazwy geograficznej	
+Horyńcu	Horyniec	subst:sg:loc:m3	człon nazwy geograficznej	
+Horyńcu	Horyniec	subst:sg:voc:m3	człon nazwy geograficznej	
 Horyniach	Horyń:s2	subst:pl:loc:m1	nazwisko	
 Horynia	Horyń:s2	subst:sg:gen.acc:m1	nazwisko	
 Horyniami	Horyń:s2	subst:pl:inst:m1	nazwisko	
@@ -19351,6 +20933,18 @@ Horyńskim	Horyński	subst:pl:dat:m1	nazwisko
 Horyńskim	Horyński	subst:sg:inst:m1	nazwisko	
 Horyńskim	Horyński	subst:sg:loc:m1	nazwisko	
 Horyńskimi	Horyński	subst:pl:inst:m1	nazwisko	
+Horyszowach	Horyszów	subst:pl:loc:m3	nazwa geograficzna	
+Horyszowa	Horyszów	subst:sg:gen:m3	nazwa geograficzna	
+Horyszowami	Horyszów	subst:pl:inst:m3	nazwa geograficzna	
+Horyszowem	Horyszów	subst:sg:inst:m3	nazwa geograficzna	
+Horyszowie	Horyszów	subst:sg:loc:m3	nazwa geograficzna	
+Horyszowie	Horyszów	subst:sg:voc:m3	nazwa geograficzna	
+Horyszowom	Horyszów	subst:pl:dat:m3	nazwa geograficzna	
+Horyszowowi	Horyszów	subst:sg:dat:m3	nazwa geograficzna	
+Horyszowów	Horyszów	subst:pl:gen:m3	nazwa geograficzna	
+Horyszowu	Horyszów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Horyszowy	Horyszów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Horyszów	Horyszów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Horyzach	Horyza:s1	subst:pl:loc:m1	nazwisko	
 Horyza	Horyza:s1	subst:sg:nom:m1	nazwisko	
 Horyzami	Horyza:s1	subst:pl:inst:m1	nazwisko	
@@ -19529,6 +21123,16 @@ Hosso	Hossa:s2	subst:sg:voc:f	nazwisko
 Hossom	Hossa:s2	subst:pl:dat:f	nazwisko	
 Hossy	Hossa:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Hossy	Hossa:s2	subst:sg:gen:f	nazwisko	
+Hostynnego	Hostynne	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hostynne	Hostynne	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hostynne	Hostynne	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hostynnem	Hostynne	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hostynnem	Hostynne	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hostynnemu	Hostynne	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hostynnych	Hostynne	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hostynnych	Hostynne	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hostynnym	Hostynne	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hostynnymi	Hostynne	subst:pl:inst:n:ncol	nazwa geograficzna	
 Hostyńska	Hostyńska	subst:sg:nom:f	nazwisko	
 Hostyńska	Hostyńska	subst:sg:voc:f	nazwisko	
 Hostyńską	Hostyńska	subst:sg:acc:f	nazwisko	
@@ -19578,6 +21182,28 @@ Hoszkom	Hoszko:s1	subst:pl:dat:m1	nazwisko
 Hoszkowie	Hoszko:s1	subst:pl:nom.voc:m1	nazwisko	
 Hoszków	Hoszko:s1	subst:pl:gen.acc:m1	nazwisko	
 Hoszko	Hoszko:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hoszniach	Hosznia	subst:pl:loc:f	człon nazwy geograficznej	
+Hosznia	Hosznia	subst:sg:nom:f	człon nazwy geograficznej	
+Hoszniami	Hosznia	subst:pl:inst:f	człon nazwy geograficznej	
+Hosznią	Hosznia	subst:sg:inst:f	człon nazwy geograficznej	
+Hosznie	Hosznia	subst:pl:nom.acc.voc:f	człon nazwy geograficznej	
+Hosznię	Hosznia	subst:sg:acc:f	człon nazwy geograficznej	
+Hoszni	Hosznia	subst:pl:gen:f	człon nazwy geograficznej	
+Hoszni	Hosznia	subst:sg:dat.loc:f	człon nazwy geograficznej	
+Hoszni	Hosznia	subst:sg:gen:f	człon nazwy geograficznej	
+Hosznio	Hosznia	subst:sg:voc:f	człon nazwy geograficznej	
+Hoszniom	Hosznia	subst:pl:dat:f	człon nazwy geograficznej	
+Hoszowczykach	Hoszowczyk	subst:pl:loc:m3	nazwa geograficzna	
+Hoszowczyka	Hoszowczyk	subst:sg:gen:m3	nazwa geograficzna	
+Hoszowczykami	Hoszowczyk	subst:pl:inst:m3	nazwa geograficzna	
+Hoszowczyk	Hoszowczyk	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hoszowczykiem	Hoszowczyk	subst:sg:inst:m3	nazwa geograficzna	
+Hoszowczyki	Hoszowczyk	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hoszowczykom	Hoszowczyk	subst:pl:dat:m3	nazwa geograficzna	
+Hoszowczykowi	Hoszowczyk	subst:sg:dat:m3	nazwa geograficzna	
+Hoszowczyków	Hoszowczyk	subst:pl:gen:m3	nazwa geograficzna	
+Hoszowczyku	Hoszowczyk	subst:sg:loc:m3	nazwa geograficzna	
+Hoszowczyku	Hoszowczyk	subst:sg:voc:m3	nazwa geograficzna	
 Hoszowska	Hoszowska	subst:sg:nom:f	nazwisko	
 Hoszowska	Hoszowska	subst:sg:voc:f	nazwisko	
 Hoszowską	Hoszowska	subst:sg:acc:f	nazwisko	
@@ -19601,6 +21227,18 @@ Hoszowskim	Hoszowski	subst:pl:dat:m1	nazwisko
 Hoszowskim	Hoszowski	subst:sg:inst:m1	nazwisko	
 Hoszowskim	Hoszowski	subst:sg:loc:m1	nazwisko	
 Hoszowskimi	Hoszowski	subst:pl:inst:m1	nazwisko	
+Hoszowach	Hoszów	subst:pl:loc:m3	nazwa geograficzna	
+Hoszowa	Hoszów	subst:sg:gen:m3	nazwa geograficzna	
+Hoszowami	Hoszów	subst:pl:inst:m3	nazwa geograficzna	
+Hoszowem	Hoszów	subst:sg:inst:m3	nazwa geograficzna	
+Hoszowie	Hoszów	subst:sg:loc:m3	nazwa geograficzna	
+Hoszowie	Hoszów	subst:sg:voc:m3	nazwa geograficzna	
+Hoszowom	Hoszów	subst:pl:dat:m3	nazwa geograficzna	
+Hoszowowi	Hoszów	subst:sg:dat:m3	nazwa geograficzna	
+Hoszowów	Hoszów	subst:pl:gen:m3	nazwa geograficzna	
+Hoszowu	Hoszów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hoszowy	Hoszów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hoszów	Hoszów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hoszach	Hosz:s1	subst:pl:loc:m1	nazwisko	
 Hosza	Hosz:s1	subst:sg:gen.acc:m1	nazwisko	
 Hoszami	Hosz:s1	subst:pl:inst:m1	nazwisko	
@@ -19730,6 +21368,17 @@ Hozjuszowi	Hozjusz	subst:sg:dat:m1	nazwisko
 Hozjuszów	Hozjusz	subst:pl:gen.acc:m1	nazwisko	
 Hozjuszu	Hozjusz	subst:sg:loc:m1	nazwisko	
 Hozjuszu	Hozjusz	subst:sg:voc:m1	nazwisko	
+Hoźna	Hoźna	subst:sg:nom:f	nazwa geograficzna	
+Hoźna	Hoźna	subst:sg:voc:f	nazwa geograficzna	
+Hoźną	Hoźna	subst:sg:acc:f	nazwa geograficzna	
+Hoźną	Hoźna	subst:sg:inst:f	nazwa geograficzna	
+Hoźne	Hoźna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hoźnej	Hoźna	subst:sg:dat.loc:f	nazwa geograficzna	
+Hoźnej	Hoźna	subst:sg:gen:f	nazwa geograficzna	
+Hoźnych	Hoźna	subst:pl:gen:f	nazwa geograficzna	
+Hoźnych	Hoźna	subst:pl:loc:f	nazwa geograficzna	
+Hoźnym	Hoźna	subst:pl:dat:f	nazwa geograficzna	
+Hoźnymi	Hoźna	subst:pl:inst:f	nazwa geograficzna	
 HP	HP	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa firmy	
 HP	HP	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa firmy	
 Hrabalach	Hrabal:s1	subst:pl:loc:m1	nazwisko	
@@ -19884,6 +21533,18 @@ Hreczyńskim	Hreczyński	subst:pl:dat:m1	nazwisko
 Hreczyńskim	Hreczyński	subst:sg:inst:m1	nazwisko	
 Hreczyńskim	Hreczyński	subst:sg:loc:m1	nazwisko	
 Hreczyńskimi	Hreczyński	subst:pl:inst:m1	nazwisko	
+Hredkowach	Hredków	subst:pl:loc:m3	nazwa geograficzna	
+Hredkowa	Hredków	subst:sg:gen:m3	nazwa geograficzna	
+Hredkowami	Hredków	subst:pl:inst:m3	nazwa geograficzna	
+Hredkowem	Hredków	subst:sg:inst:m3	nazwa geograficzna	
+Hredkowie	Hredków	subst:sg:loc:m3	nazwa geograficzna	
+Hredkowie	Hredków	subst:sg:voc:m3	nazwa geograficzna	
+Hredkowom	Hredków	subst:pl:dat:m3	nazwa geograficzna	
+Hredkowowi	Hredków	subst:sg:dat:m3	nazwa geograficzna	
+Hredkowów	Hredków	subst:pl:gen:m3	nazwa geograficzna	
+Hredkowu	Hredków	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hredkowy	Hredków	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hredków	Hredków	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hrehorowiczach	Hrehorowicz:s1	subst:pl:loc:m1	nazwisko	
 Hrehorowicza	Hrehorowicz:s1	subst:sg:gen.acc:m1	nazwisko	
 Hrehorowiczami	Hrehorowicz:s1	subst:pl:inst:m1	nazwisko	
@@ -19959,6 +21620,38 @@ Hrubym	Hruby:s1	subst:sg:inst:m1	nazwisko
 Hrubym	Hruby:s1	subst:sg:loc:m1	nazwisko	
 Hrubymi	Hruby:s1	subst:pl:inst:m1	nazwisko	
 Hruby	Hruby:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hrudach	Hrud	subst:pl:loc:m3	nazwa geograficzna	
+Hruda	Hrud	subst:sg:gen:m3	nazwa geograficzna	
+Hrudami	Hrud	subst:pl:inst:m3	nazwa geograficzna	
+Hrudem	Hrud	subst:sg:inst:m3	nazwa geograficzna	
+Hrud	Hrud	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hrudom	Hrud	subst:pl:dat:m3	nazwa geograficzna	
+Hrudowi	Hrud	subst:sg:dat:m3	nazwa geograficzna	
+Hrudów	Hrud	subst:pl:gen:m3	nazwa geograficzna	
+Hrudy	Hrud	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hrudzie	Hrud	subst:sg:loc:m3	nazwa geograficzna	
+Hrudzie	Hrud	subst:sg:voc:m3	nazwa geograficzna	
+Hruskich	Hruskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hruskich	Hruskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hruskiego	Hruskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hruskie	Hruskie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hruskie	Hruskie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hruskiem	Hruskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hruskiem	Hruskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hruskiemu	Hruskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hruskim	Hruskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hruskimi	Hruskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hruszewach	Hruszew	subst:pl:loc:m3	nazwa geograficzna	
+Hruszewa	Hruszew	subst:sg:gen:m3	nazwa geograficzna	
+Hruszewami	Hruszew	subst:pl:inst:m3	nazwa geograficzna	
+Hruszewem	Hruszew	subst:sg:inst:m3	nazwa geograficzna	
+Hruszew	Hruszew	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hruszewie	Hruszew	subst:sg:loc:m3	nazwa geograficzna	
+Hruszewie	Hruszew	subst:sg:voc:m3	nazwa geograficzna	
+Hruszewom	Hruszew	subst:pl:dat:m3	nazwa geograficzna	
+Hruszewowi	Hruszew	subst:sg:dat:m3	nazwa geograficzna	
+Hruszewów	Hruszew	subst:pl:gen:m3	nazwa geograficzna	
+Hruszewy	Hruszew	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Hruszce	Hruszka:s1	subst:sg:dat.loc:m1	nazwisko	
 Hruszkach	Hruszka:s1	subst:pl:loc:m1	nazwisko	
 Hruszka	Hruszka:s1	subst:sg:nom:m1	nazwisko	
@@ -19982,6 +21675,27 @@ Hruszki	Hruszka:s2	subst:pl:nom.acc.voc:f	nazwisko
 Hruszki	Hruszka:s2	subst:sg:gen:f	nazwisko	
 Hruszko	Hruszka:s2	subst:sg:voc:f	nazwisko	
 Hruszkom	Hruszka:s2	subst:pl:dat:f	nazwisko	
+Hruszniewach	Hruszniew	subst:pl:loc:m3	nazwa geograficzna	
+Hruszniewa	Hruszniew	subst:sg:gen:m3	nazwa geograficzna	
+Hruszniewami	Hruszniew	subst:pl:inst:m3	nazwa geograficzna	
+Hruszniewem	Hruszniew	subst:sg:inst:m3	nazwa geograficzna	
+Hruszniew	Hruszniew	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hruszniewie	Hruszniew	subst:sg:loc:m3	nazwa geograficzna	
+Hruszniewie	Hruszniew	subst:sg:voc:m3	nazwa geograficzna	
+Hruszniewom	Hruszniew	subst:pl:dat:m3	nazwa geograficzna	
+Hruszniewowi	Hruszniew	subst:sg:dat:m3	nazwa geograficzna	
+Hruszniewów	Hruszniew	subst:pl:gen:m3	nazwa geograficzna	
+Hruszniewy	Hruszniew	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hruszowicach	Hruszowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Hruszowicach	Hruszowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hruszowicami	Hruszowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Hruszowicami	Hruszowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hruszowice	Hruszowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hruszowice	Hruszowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hruszowic	Hruszowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Hruszowic	Hruszowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hruszowicom	Hruszowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Hruszowicom	Hruszowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hruszowcach	Hruszowiec:s1	subst:pl:loc:m1	nazwisko	
 Hruszowca	Hruszowiec:s1	subst:sg:gen.acc:m1	nazwisko	
 Hruszowcami	Hruszowiec:s1	subst:pl:inst:m1	nazwisko	
@@ -19995,6 +21709,18 @@ Hruszowcu	Hruszowiec:s1	subst:sg:loc:m1	nazwisko
 Hruszowcu	Hruszowiec:s1	subst:sg:voc:m1	nazwisko	
 Hruszowiec	Hruszowiec:s1	subst:sg:nom:m1	nazwisko	
 Hruszowiec	Hruszowiec:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hruszowach	Hruszów	subst:pl:loc:m3	nazwa geograficzna	
+Hruszowa	Hruszów	subst:sg:gen:m3	nazwa geograficzna	
+Hruszowami	Hruszów	subst:pl:inst:m3	nazwa geograficzna	
+Hruszowem	Hruszów	subst:sg:inst:m3	nazwa geograficzna	
+Hruszowie	Hruszów	subst:sg:loc:m3	nazwa geograficzna	
+Hruszowie	Hruszów	subst:sg:voc:m3	nazwa geograficzna	
+Hruszowom	Hruszów	subst:pl:dat:m3	nazwa geograficzna	
+Hruszowowi	Hruszów	subst:sg:dat:m3	nazwa geograficzna	
+Hruszowów	Hruszów	subst:pl:gen:m3	nazwa geograficzna	
+Hruszowu	Hruszów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hruszowy	Hruszów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hruszów	Hruszów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hruświcka	Hruświcka	subst:sg:nom:f	nazwisko	
 Hruświcka	Hruświcka	subst:sg:voc:f	nazwisko	
 Hruświcką	Hruświcka	subst:sg:acc:f	nazwisko	
@@ -20261,6 +21987,16 @@ Hryniewickim	Hryniewicki	subst:pl:dat:m1	nazwisko
 Hryniewickim	Hryniewicki	subst:sg:inst:m1	nazwisko	
 Hryniewickim	Hryniewicki	subst:sg:loc:m1	nazwisko	
 Hryniewickimi	Hryniewicki	subst:pl:inst:m1	nazwisko	
+Hryniewiczach	Hryniewicze	subst:pl:loc:n:pt	nazwa geograficzna	
+Hryniewiczach	Hryniewicze	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hryniewiczami	Hryniewicze	subst:pl:inst:n:pt	nazwa geograficzna	
+Hryniewiczami	Hryniewicze	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hryniewicze	Hryniewicze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hryniewicze	Hryniewicze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hryniewicz	Hryniewicze	subst:pl:gen:n:pt	nazwa geograficzna	
+Hryniewicz	Hryniewicze	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hryniewiczom	Hryniewicze	subst:pl:dat:n:pt	nazwa geograficzna	
+Hryniewiczom	Hryniewicze	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hryniewiczach	Hryniewicz:s1	subst:pl:loc:m1	nazwisko	
 Hryniewicza	Hryniewicz:s1	subst:sg:gen.acc:m1	nazwisko	
 Hryniewiczami	Hryniewicz:s1	subst:pl:inst:m1	nazwisko	
@@ -20523,6 +22259,16 @@ Hubali	Hubala:s2	subst:sg:dat.loc:f	nazwisko
 Hubali	Hubala:s2	subst:sg:gen:f	nazwisko	
 Hubalo	Hubala:s2	subst:sg:voc:f	nazwisko	
 Hubalom	Hubala:s2	subst:pl:dat:f	nazwisko	
+Hubalach	Hubale	subst:pl:loc:n:pt	nazwa geograficzna	
+Hubalach	Hubale	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hubalami	Hubale	subst:pl:inst:n:pt	nazwa geograficzna	
+Hubalami	Hubale	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hubale	Hubale	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hubale	Hubale	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hubal	Hubale	subst:pl:gen:n:pt	nazwa geograficzna	
+Hubal	Hubale	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hubalom	Hubale	subst:pl:dat:n:pt	nazwa geograficzna	
+Hubalom	Hubale	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hubarach	Hubar:s1	subst:pl:loc:m1	nazwisko	
 Hubara	Hubar:s1	subst:sg:gen.acc:m1	nazwisko	
 Hubarami	Hubar:s1	subst:pl:inst:m1	nazwisko	
@@ -20559,6 +22305,17 @@ Hubo	Huba:s2	subst:sg:voc:f	nazwisko
 Hubom	Huba:s2	subst:pl:dat:f	nazwisko	
 Huby	Huba:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Huby	Huba:s2	subst:sg:gen:f	nazwisko	
+Hubach	Huba:s3	subst:pl:loc:f	nazwa geograficzna	
+Huba	Huba:s3	subst:sg:nom:f	nazwa geograficzna	
+Hubami	Huba:s3	subst:pl:inst:f	nazwa geograficzna	
+Hubą	Huba:s3	subst:sg:inst:f	nazwa geograficzna	
+Hubę	Huba:s3	subst:sg:acc:f	nazwa geograficzna	
+Hub	Huba:s3	subst:pl:gen:f	nazwa geograficzna	
+Hubie	Huba:s3	subst:sg:dat.loc:f	nazwa geograficzna	
+Hubo	Huba:s3	subst:sg:voc:f	nazwa geograficzna	
+Hubom	Huba:s3	subst:pl:dat:f	nazwa geograficzna	
+Huby	Huba:s3	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Huby	Huba:s3	subst:sg:gen:f	nazwa geograficzna	
 Hubble’ach	Hubble	subst:pl:loc:m1	nazwisko	
 Hubble’a	Hubble	subst:sg:gen.acc:m1	nazwisko	
 Hubble’ami	Hubble	subst:pl:inst:m1	nazwisko	
@@ -20584,6 +22341,16 @@ Hubczyków	Hubczyk:s1	subst:pl:gen.acc:m1	nazwisko
 Hubczyku	Hubczyk:s1	subst:sg:loc:m1	nazwisko	
 Hubczyku	Hubczyk:s1	subst:sg:voc:m1	nazwisko	
 Hubczyk	Hubczyk:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hubenicach	Hubenice	subst:pl:loc:n:pt	nazwa geograficzna	
+Hubenicach	Hubenice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hubenicami	Hubenice	subst:pl:inst:n:pt	nazwa geograficzna	
+Hubenicami	Hubenice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hubenice	Hubenice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hubenice	Hubenice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hubenic	Hubenice	subst:pl:gen:n:pt	nazwa geograficzna	
+Hubenic	Hubenice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hubenicom	Hubenice	subst:pl:dat:n:pt	nazwa geograficzna	
+Hubenicom	Hubenice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hubercikach	Hubercik	subst:pl:loc:m1	imię	
 Hubercika	Hubercik	subst:sg:gen.acc:m1	imię	
 Hubercikami	Hubercik	subst:pl:inst:m1	imię	
@@ -20620,6 +22387,18 @@ Huberto	Huberta	subst:sg:voc:f	imię
 Hubertom	Huberta	subst:pl:dat:f	imię	
 Huberty	Huberta	subst:pl:nom.acc.voc:f	imię	
 Huberty	Huberta	subst:sg:gen:f	imię	
+Hubertowach	Hubertów	subst:pl:loc:m3	nazwa geograficzna	
+Hubertowa	Hubertów	subst:sg:gen:m3	nazwa geograficzna	
+Hubertowami	Hubertów	subst:pl:inst:m3	nazwa geograficzna	
+Hubertowem	Hubertów	subst:sg:inst:m3	nazwa geograficzna	
+Hubertowie	Hubertów	subst:sg:loc:m3	nazwa geograficzna	
+Hubertowie	Hubertów	subst:sg:voc:m3	nazwa geograficzna	
+Hubertowom	Hubertów	subst:pl:dat:m3	nazwa geograficzna	
+Hubertowowi	Hubertów	subst:sg:dat:m3	nazwa geograficzna	
+Hubertowów	Hubertów	subst:pl:gen:m3	nazwa geograficzna	
+Hubertowu	Hubertów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hubertowy	Hubertów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hubertów	Hubertów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hubercie	Hubert:s1	subst:sg:loc:m1	imię	
 Hubercie	Hubert:s1	subst:sg:voc:m1	imię	
 Hubertach	Hubert:s1	subst:pl:loc:m1	imię	
@@ -20681,6 +22460,17 @@ Hubickim	Hubicki	subst:pl:dat:m1	nazwisko
 Hubickim	Hubicki	subst:sg:inst:m1	nazwisko	
 Hubickim	Hubicki	subst:sg:loc:m1	nazwisko	
 Hubickimi	Hubicki	subst:pl:inst:m1	nazwisko	
+Hubinek	Hubinek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Hubinkach	Hubinek	subst:pl:loc:m3	nazwa geograficzna	
+Hubinka	Hubinek	subst:sg:gen:m3	nazwa geograficzna	
+Hubinkami	Hubinek	subst:pl:inst:m3	nazwa geograficzna	
+Hubinkiem	Hubinek	subst:sg:inst:m3	nazwa geograficzna	
+Hubinki	Hubinek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hubinkom	Hubinek	subst:pl:dat:m3	nazwa geograficzna	
+Hubinkowi	Hubinek	subst:sg:dat:m3	nazwa geograficzna	
+Hubinków	Hubinek	subst:pl:gen:m3	nazwa geograficzna	
+Hubinku	Hubinek	subst:sg:loc:m3	nazwa geograficzna	
+Hubinku	Hubinek	subst:sg:voc:m3	nazwa geograficzna	
 Hubiszach	Hubisz:s1	subst:pl:loc:m1	nazwisko	
 Hubisza	Hubisz:s1	subst:sg:gen.acc:m1	nazwisko	
 Hubiszami	Hubisz:s1	subst:pl:inst:m1	nazwisko	
@@ -20731,6 +22521,16 @@ Hűbnery	Hűbner:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Hűbnerze	Hűbner:s1	subst:sg:loc:m1	nazwisko	
 Hűbnerze	Hűbner:s1	subst:sg:voc:m1	nazwisko	
 Hűbner	Hűbner:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hubach	Huby	subst:pl:loc:n:pt	nazwa geograficzna	
+Hubach	Huby	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hubami	Huby	subst:pl:inst:n:pt	nazwa geograficzna	
+Hubami	Huby	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hub	Huby	subst:pl:gen:n:pt	nazwa geograficzna	
+Hub	Huby	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hubom	Huby	subst:pl:dat:n:pt	nazwa geograficzna	
+Hubom	Huby	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Huby	Huby	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Huby	Huby	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Hucalukach	Hucaluk:s1	subst:pl:loc:m1	nazwisko	
 Hucaluka	Hucaluk:s1	subst:sg:gen.acc:m1	nazwisko	
 Hucalukami	Hucaluk:s1	subst:pl:inst:m1	nazwisko	
@@ -20770,6 +22570,37 @@ Huchraków	Huchrak:s1	subst:pl:gen.acc:m1	nazwisko
 Huchraku	Huchrak:s1	subst:sg:loc:m1	nazwisko	
 Huchraku	Huchrak:s1	subst:sg:voc:m1	nazwisko	
 Huchrak	Huchrak:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hucinach	Hucina	subst:pl:loc:f	nazwa geograficzna	
+Hucina	Hucina	subst:sg:nom:f	nazwa geograficzna	
+Hucinami	Hucina	subst:pl:inst:f	nazwa geograficzna	
+Huciną	Hucina	subst:sg:inst:f	nazwa geograficzna	
+Hucinę	Hucina	subst:sg:acc:f	nazwa geograficzna	
+Hucin	Hucina	subst:pl:gen:f	nazwa geograficzna	
+Hucinie	Hucina	subst:sg:dat.loc:f	nazwa geograficzna	
+Hucino	Hucina	subst:sg:voc:f	nazwa geograficzna	
+Hucinom	Hucina	subst:pl:dat:f	nazwa geograficzna	
+Huciny	Hucina	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Huciny	Hucina	subst:sg:gen:f	nazwa geograficzna	
+Huciskach	Huciska	subst:pl:loc:n:pt	nazwa geograficzna	
+Huciskach	Huciska	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Huciska	Huciska	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Huciska	Huciska	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Huciskami	Huciska	subst:pl:inst:n:pt	nazwa geograficzna	
+Huciskami	Huciska	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hucisk	Huciska	subst:pl:gen:n:pt	nazwa geograficzna	
+Hucisk	Huciska	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Huciskom	Huciska	subst:pl:dat:n:pt	nazwa geograficzna	
+Huciskom	Huciska	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Huciskach	Hucisko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Huciska	Hucisko	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Huciska	Hucisko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Huciskami	Hucisko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hucisk	Hucisko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Huciskiem	Hucisko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hucisko	Hucisko	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Huciskom	Hucisko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hucisku	Hucisko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hucisku	Hucisko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Huculakach	Huculak:s1	subst:pl:loc:m1	nazwisko	
 Huculaka	Huculak:s1	subst:sg:gen.acc:m1	nazwisko	
 Huculakami	Huculak:s1	subst:pl:inst:m1	nazwisko	
@@ -20845,6 +22676,16 @@ Huczów	Hucz:s1	subst:pl:gen.acc:m1	nazwisko
 Huczu	Hucz:s1	subst:sg:loc:m1	nazwisko	
 Huczu	Hucz:s1	subst:sg:voc:m1	nazwisko	
 Hucz	Hucz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Huczwicach	Huczwice	subst:pl:loc:n:pt	nazwa geograficzna	
+Huczwicach	Huczwice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Huczwicami	Huczwice	subst:pl:inst:n:pt	nazwa geograficzna	
+Huczwicami	Huczwice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Huczwice	Huczwice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Huczwice	Huczwice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Huczwic	Huczwice	subst:pl:gen:n:pt	nazwa geograficzna	
+Huczwic	Huczwice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Huczwicom	Huczwice	subst:pl:dat:n:pt	nazwa geograficzna	
+Huczwicom	Huczwice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Huczyńska	Huczyńska	subst:sg:nom:f	nazwisko	
 Huczyńska	Huczyńska	subst:sg:voc:f	nazwisko	
 Huczyńską	Huczyńska	subst:sg:acc:f	nazwisko	
@@ -21383,6 +23224,16 @@ Hukiewiczów	Hukiewicz:s1	subst:pl:gen.acc:m1	nazwisko
 Hukiewiczu	Hukiewicz:s1	subst:sg:loc:m1	nazwisko	
 Hukiewiczu	Hukiewicz:s1	subst:sg:voc:m1	nazwisko	
 Hukiewicz	Hukiewicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hukowiczach	Hukowicze	subst:pl:loc:n:pt	nazwa geograficzna	
+Hukowiczach	Hukowicze	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hukowiczami	Hukowicze	subst:pl:inst:n:pt	nazwa geograficzna	
+Hukowiczami	Hukowicze	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hukowicze	Hukowicze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hukowicze	Hukowicze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hukowicz	Hukowicze	subst:pl:gen:n:pt	nazwa geograficzna	
+Hukowicz	Hukowicze	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hukowiczom	Hukowicze	subst:pl:dat:n:pt	nazwa geograficzna	
+Hukowiczom	Hukowicze	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hukowska	Hukowska	subst:sg:nom:f	nazwisko	
 Hukowska	Hukowska	subst:sg:voc:f	nazwisko	
 Hukowską	Hukowska	subst:sg:acc:f	nazwisko	
@@ -21478,6 +23329,17 @@ Hulanickim	Hulanicki	subst:pl:dat:m1	nazwisko
 Hulanickim	Hulanicki	subst:sg:inst:m1	nazwisko	
 Hulanickim	Hulanicki	subst:sg:loc:m1	nazwisko	
 Hulanickimi	Hulanicki	subst:pl:inst:m1	nazwisko	
+Hulance	Hulanka	subst:sg:dat.loc:f	nazwa geograficzna	
+Hulanek	Hulanka	subst:pl:gen:f	nazwa geograficzna	
+Hulankach	Hulanka	subst:pl:loc:f	nazwa geograficzna	
+Hulanka	Hulanka	subst:sg:nom:f	nazwa geograficzna	
+Hulankami	Hulanka	subst:pl:inst:f	nazwa geograficzna	
+Hulanką	Hulanka	subst:sg:inst:f	nazwa geograficzna	
+Hulankę	Hulanka	subst:sg:acc:f	nazwa geograficzna	
+Hulanki	Hulanka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hulanki	Hulanka	subst:sg:gen:f	nazwa geograficzna	
+Hulanko	Hulanka	subst:sg:voc:f	nazwa geograficzna	
+Hulankom	Hulanka	subst:pl:dat:f	nazwa geograficzna	
 Hulach	Hula:s1	subst:pl:loc:m1	nazwisko	
 Hula	Hula:s1	subst:sg:nom:m1	nazwisko	
 Hulami	Hula:s1	subst:pl:inst:m1	nazwisko	
@@ -21539,6 +23401,16 @@ Hulbójów	Hulbój:s2	subst:pl:gen.acc:m1	nazwisko
 Hulbóju	Hulbój:s2	subst:sg:loc:m1	nazwisko	
 Hulbóju	Hulbój:s2	subst:sg:voc:m1	nazwisko	
 Hulbój	Hulbój:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hulczach	Hulcze	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hulcza	Hulcze	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hulcza	Hulcze	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hulczami	Hulcze	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hulcze	Hulcze	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hulczem	Hulcze	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hulczom	Hulcze	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hulczu	Hulcze	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hulczu	Hulcze	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hulczy	Hulcze	subst:pl:gen:n:ncol	nazwa geograficzna	
 Hulek	Hulek:s1	subst:sg:nom:m1	nazwisko	
 Hulkach	Hulek:s1	subst:pl:loc:m1	nazwisko	
 Hulka	Hulek:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -21566,6 +23438,18 @@ Hulewiczów	Hulewicz:s2	subst:pl:gen.acc:m1	nazwisko
 Hulewiczu	Hulewicz:s2	subst:sg:loc:m1	nazwisko	
 Hulewiczu	Hulewicz:s2	subst:sg:voc:m1	nazwisko	
 Hulewicz	Hulewicz:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hulidowach	Hulidów	subst:pl:loc:m3	człon nazwy geograficznej	
+Hulidowa	Hulidów	subst:sg:gen:m3	człon nazwy geograficznej	
+Hulidowami	Hulidów	subst:pl:inst:m3	człon nazwy geograficznej	
+Hulidowem	Hulidów	subst:sg:inst:m3	człon nazwy geograficznej	
+Hulidowie	Hulidów	subst:sg:loc:m3	człon nazwy geograficznej	
+Hulidowie	Hulidów	subst:sg:voc:m3	człon nazwy geograficznej	
+Hulidowom	Hulidów	subst:pl:dat:m3	człon nazwy geograficznej	
+Hulidowowi	Hulidów	subst:sg:dat:m3	człon nazwy geograficznej	
+Hulidowów	Hulidów	subst:pl:gen:m3	człon nazwy geograficznej	
+Hulidowu	Hulidów	subst:sg:dat:m3	człon nazwy geograficznej	arch._(tylko_po_"ku")
+Hulidowy	Hulidów	subst:pl:nom.acc.voc:m3	człon nazwy geograficznej	
+Hulidów	Hulidów	subst:sg:nom.acc:m3	człon nazwy geograficznej	
 Hulinach	Hulin:s1	subst:pl:loc:m1	nazwisko	
 Hulina	Hulin:s1	subst:sg:gen.acc:m1	nazwisko	
 Hulinami	Hulin:s1	subst:pl:inst:m1	nazwisko	
@@ -21632,6 +23516,16 @@ Hulów	Hul:s1	subst:pl:gen.acc:m1	nazwisko
 Hulu	Hul:s1	subst:sg:loc:m1	nazwisko	
 Hulu	Hul:s1	subst:sg:voc:m1	nazwisko	
 Hul	Hul:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hultajewach	Hultajewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hultajewa	Hultajewo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hultajewa	Hultajewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hultajewami	Hultajewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hultajewem	Hultajewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hultajew	Hultajewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hultajewie	Hultajewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hultajewo	Hultajewo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hultajewom	Hultajewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hultajewu	Hultajewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Humajach	Humaj:s1	subst:pl:loc:m1	nazwisko	
 Humaja	Humaj:s1	subst:sg:gen.acc:m1	nazwisko	
 Humajami	Humaj:s1	subst:pl:inst:m1	nazwisko	
@@ -21787,6 +23681,16 @@ Humiennym	Humienny:s1	subst:sg:inst:m1	nazwisko
 Humiennym	Humienny:s1	subst:sg:loc:m1	nazwisko	
 Humiennymi	Humienny:s1	subst:pl:inst:m1	nazwisko	
 Humienny	Humienny:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Humięcinach	Humięcino	subst:pl:loc:n:ncol	nazwa geograficzna	
+Humięcina	Humięcino	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Humięcina	Humięcino	subst:sg:gen:n:ncol	nazwa geograficzna	
+Humięcinami	Humięcino	subst:pl:inst:n:ncol	nazwa geograficzna	
+Humięcinem	Humięcino	subst:sg:inst:n:ncol	nazwa geograficzna	
+Humięcin	Humięcino	subst:pl:gen:n:ncol	nazwa geograficzna	
+Humięcinie	Humięcino	subst:sg:loc:n:ncol	nazwa geograficzna	
+Humięcino	Humięcino	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Humięcinom	Humięcino	subst:pl:dat:n:ncol	nazwa geograficzna	
+Humięcinu	Humięcino	subst:sg:dat:n:ncol	nazwa geograficzna	
 Humięcka	Humięcka	subst:sg:nom:f	nazwisko	
 Humięcka	Humięcka	subst:sg:voc:f	nazwisko	
 Humięcką	Humięcka	subst:sg:acc:f	nazwisko	
@@ -21823,6 +23727,17 @@ Huminowi	Humin:s1	subst:sg:dat:m1	nazwisko
 Huminów	Humin:s1	subst:pl:gen.acc:m1	nazwisko	
 Huminy	Humin:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Humin	Humin:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Huminach	Humin:s3	subst:pl:loc:m3	nazwa geograficzna	
+Humina	Humin:s3	subst:sg:gen:m3	nazwa geograficzna	
+Huminami	Humin:s3	subst:pl:inst:m3	nazwa geograficzna	
+Huminem	Humin:s3	subst:sg:inst:m3	nazwa geograficzna	
+Humin	Humin:s3	subst:sg:nom.acc:m3	nazwa geograficzna	
+Huminie	Humin:s3	subst:sg:loc:m3	nazwa geograficzna	
+Huminie	Humin:s3	subst:sg:voc:m3	nazwa geograficzna	
+Huminom	Humin:s3	subst:pl:dat:m3	nazwa geograficzna	
+Huminowi	Humin:s3	subst:sg:dat:m3	nazwa geograficzna	
+Huminów	Humin:s3	subst:pl:gen:m3	nazwa geograficzna	
+Huminy	Humin:s3	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Humińska	Humińska	subst:sg:nom:f	nazwisko	
 Humińska	Humińska	subst:sg:voc:f	nazwisko	
 Humińską	Humińska	subst:sg:acc:f	nazwisko	
@@ -21870,6 +23785,16 @@ Hummlów	Hummel:s1	subst:pl:gen.acc:m1	nazwisko
 Hummlu	Hummel:s1	subst:sg:loc:m1	nazwisko	
 Hummlu	Hummel:s1	subst:sg:voc:m1	nazwisko	
 Hummel	Hummel:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Humniskach	Humniska	subst:pl:loc:n:pt	nazwa geograficzna	
+Humniskach	Humniska	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Humniska	Humniska	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Humniska	Humniska	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Humniskami	Humniska	subst:pl:inst:n:pt	nazwa geograficzna	
+Humniskami	Humniska	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Humnisk	Humniska	subst:pl:gen:n:pt	nazwa geograficzna	
+Humnisk	Humniska	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Humniskom	Humniska	subst:pl:dat:n:pt	nazwa geograficzna	
+Humniskom	Humniska	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Humska	Humska	subst:sg:nom:f	nazwisko	
 Humska	Humska	subst:sg:voc:f	nazwisko	
 Humską	Humska	subst:sg:acc:f	nazwisko	
@@ -22163,6 +24088,26 @@ Hurasowi	Huras:s1	subst:sg:dat:m1	nazwisko
 Hurasów	Huras:s1	subst:pl:gen.acc:m1	nazwisko	
 Hurasy	Huras:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Huras	Huras:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hurczach	Hurcze	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hurcza	Hurcze	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hurcza	Hurcze	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hurczami	Hurcze	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hurcze	Hurcze	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hurczem	Hurcze	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hurczom	Hurcze	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hurczu	Hurcze	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hurczu	Hurcze	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hurczy	Hurcze	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hureczek	Hureczko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hureczkach	Hureczko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hureczka	Hureczko	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hureczka	Hureczko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hureczkami	Hureczko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hureczkiem	Hureczko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hureczko	Hureczko	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hureczkom	Hureczko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hureczku	Hureczko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hureczku	Hureczko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Hurek	Hurek:s1	subst:sg:nom:m1	nazwisko	
 Hurkach	Hurek:s1	subst:pl:loc:m1	nazwisko	
 Hurka	Hurek:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -22212,6 +24157,16 @@ Hurkom	Hurko:s1	subst:pl:dat:m1	nazwisko
 Hurkowie	Hurko:s1	subst:pl:nom.voc:m1	nazwisko	
 Hurków	Hurko:s1	subst:pl:gen.acc:m1	nazwisko	
 Hurko	Hurko:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hurek	Hurko:s3	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hurkach	Hurko:s3	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hurka	Hurko:s3	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hurka	Hurko:s3	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hurkami	Hurko:s3	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hurkiem	Hurko:s3	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hurko	Hurko:s3	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hurkom	Hurko:s3	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hurku	Hurko:s3	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hurku	Hurko:s3	subst:sg:loc:n:ncol	nazwa geograficzna	
 Hurna	Hurna	subst:sg:nom:f	nazwisko	
 Hurna	Hurna	subst:sg:voc:f	nazwisko	
 Hurną	Hurna	subst:sg:acc:f	nazwisko	
@@ -22301,6 +24256,16 @@ Husajnowie	Husajn	subst:pl:nom.voc:m1	nazwisko
 Husajnowi	Husajn	subst:sg:dat:m1	nazwisko	
 Husajnów	Husajn	subst:pl:gen.acc:m1	nazwisko	
 Husajny	Husajn	depr:pl:nom.acc.voc:m2	nazwisko	
+Husakach	Husaki	subst:pl:loc:n:pt	nazwa geograficzna	
+Husakach	Husaki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Husakami	Husaki	subst:pl:inst:n:pt	nazwa geograficzna	
+Husakami	Husaki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Husaki	Husaki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Husaki	Husaki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Husakom	Husaki	subst:pl:dat:n:pt	nazwa geograficzna	
+Husakom	Husaki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Husaków	Husaki	subst:pl:gen:n:pt	nazwa geograficzna	
+Husaków	Husaki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Husakach	Husak:s1	subst:pl:loc:m1	nazwisko	
 Husaka	Husak:s1	subst:sg:gen.acc:m1	nazwisko	
 Husakami	Husak:s1	subst:pl:inst:m1	nazwisko	
@@ -22389,6 +24354,29 @@ Husiatyńskim	Husiatyński	subst:pl:dat:m1	nazwisko
 Husiatyńskim	Husiatyński	subst:sg:inst:m1	nazwisko	
 Husiatyńskim	Husiatyński	subst:sg:loc:m1	nazwisko	
 Husiatyńskimi	Husiatyński	subst:pl:inst:m1	nazwisko	
+Husince	Husinka	subst:sg:dat.loc:f	nazwa geograficzna	
+Husinek	Husinka	subst:pl:gen:f	nazwa geograficzna	
+Husinkach	Husinka	subst:pl:loc:f	nazwa geograficzna	
+Husinka	Husinka	subst:sg:nom:f	nazwa geograficzna	
+Husinkami	Husinka	subst:pl:inst:f	nazwa geograficzna	
+Husinką	Husinka	subst:sg:inst:f	nazwa geograficzna	
+Husinkę	Husinka	subst:sg:acc:f	nazwa geograficzna	
+Husinki	Husinka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Husinki	Husinka	subst:sg:gen:f	nazwa geograficzna	
+Husinko	Husinka	subst:sg:voc:f	nazwa geograficzna	
+Husinkom	Husinka	subst:pl:dat:f	nazwa geograficzna	
+Husowach	Husów	subst:pl:loc:m3	nazwa geograficzna	
+Husowa	Husów	subst:sg:gen:m3	nazwa geograficzna	
+Husowami	Husów	subst:pl:inst:m3	nazwa geograficzna	
+Husowem	Husów	subst:sg:inst:m3	nazwa geograficzna	
+Husowie	Husów	subst:sg:loc:m3	nazwa geograficzna	
+Husowie	Husów	subst:sg:voc:m3	nazwa geograficzna	
+Husowom	Husów	subst:pl:dat:m3	nazwa geograficzna	
+Husowowi	Husów	subst:sg:dat:m3	nazwa geograficzna	
+Husowów	Husów	subst:pl:gen:m3	nazwa geograficzna	
+Husowu	Husów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Husowy	Husów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Husów	Husów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Husach	Hus:s1	subst:pl:loc:m1	nazwisko	
 Husa	Hus:s1	subst:sg:gen.acc:m1	nazwisko	
 Husami	Hus:s1	subst:pl:inst:m1	nazwisko	
@@ -22427,6 +24415,16 @@ Husserlowi	Husserl	subst:sg:dat:m1	nazwisko
 Husserlów	Husserl	subst:pl:gen.acc:m1	nazwisko	
 Husserlu	Husserl	subst:sg:loc:m1	nazwisko	
 Husserlu	Husserl	subst:sg:voc:m1	nazwisko	
+Husynnego	Husynne	subst:sg:gen:n:ncol	nazwa geograficzna	
+Husynne	Husynne	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Husynne	Husynne	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Husynnem	Husynne	subst:sg:inst:n:ncol	nazwa geograficzna	
+Husynnem	Husynne	subst:sg:loc:n:ncol	nazwa geograficzna	
+Husynnemu	Husynne	subst:sg:dat:n:ncol	nazwa geograficzna	
+Husynnych	Husynne	subst:pl:gen:n:ncol	nazwa geograficzna	
+Husynnych	Husynne	subst:pl:loc:n:ncol	nazwa geograficzna	
+Husynnym	Husynne	subst:pl:dat:n:ncol	nazwa geograficzna	
+Husynnymi	Husynne	subst:pl:inst:n:ncol	nazwa geograficzna	
 Huszalukach	Huszaluk:s1	subst:pl:loc:m1	nazwisko	
 Huszaluka	Huszaluk:s1	subst:sg:gen.acc:m1	nazwisko	
 Huszalukami	Huszaluk:s1	subst:pl:inst:m1	nazwisko	
@@ -22463,6 +24461,28 @@ Huszczo	Huszcza:s3	subst:sg:voc:f	nazwisko
 Huszczom	Huszcza:s3	subst:pl:dat:f	nazwisko	
 Huszczy	Huszcza:s3	subst:sg:dat.loc:f	nazwisko	
 Huszczy	Huszcza:s3	subst:sg:gen:f	nazwisko	
+Huszczach	Huszcza:s4	subst:pl:loc:f	nazwa geograficzna	
+Huszcza	Huszcza:s4	subst:sg:nom:f	nazwa geograficzna	
+Huszczami	Huszcza:s4	subst:pl:inst:f	nazwa geograficzna	
+Huszczą	Huszcza:s4	subst:sg:inst:f	nazwa geograficzna	
+Huszcze	Huszcza:s4	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Huszczę	Huszcza:s4	subst:sg:acc:f	nazwa geograficzna	
+Huszcz	Huszcza:s4	subst:pl:gen:f	nazwa geograficzna	
+Huszczo	Huszcza:s4	subst:sg:voc:f	nazwa geograficzna	
+Huszczom	Huszcza:s4	subst:pl:dat:f	nazwa geograficzna	
+Huszczy	Huszcza:s4	subst:sg:dat.loc:f	nazwa geograficzna	
+Huszczy	Huszcza:s4	subst:sg:gen:f	nazwa geograficzna	
+Huszczce	Huszczka	subst:sg:dat.loc:f	człon nazwy geograficznej	
+Huszczek	Huszczka	subst:pl:gen:f	człon nazwy geograficznej	
+Huszczkach	Huszczka	subst:pl:loc:f	człon nazwy geograficznej	
+Huszczka	Huszczka	subst:sg:nom:f	człon nazwy geograficznej	
+Huszczkami	Huszczka	subst:pl:inst:f	człon nazwy geograficznej	
+Huszczką	Huszczka	subst:sg:inst:f	człon nazwy geograficznej	
+Huszczkę	Huszczka	subst:sg:acc:f	człon nazwy geograficznej	
+Huszczki	Huszczka	subst:pl:nom.acc.voc:f	człon nazwy geograficznej	
+Huszczki	Huszczka	subst:sg:gen:f	człon nazwy geograficznej	
+Huszczko	Huszczka	subst:sg:voc:f	człon nazwy geograficznej	
+Huszczkom	Huszczka	subst:pl:dat:f	człon nazwy geograficznej	
 Huszczach	Huszczo:s1	subst:pl:loc:m1	nazwisko	
 Huszcza	Huszczo:s1	subst:sg:gen.acc:m1	nazwisko	
 Huszczami	Huszczo:s1	subst:pl:inst:m1	nazwisko	
@@ -22481,6 +24501,17 @@ Huszczu	Huszczo:s1	subst:sg:voc:m1	nazwisko
 Huszczy	Huszczo:s1	subst:sg:dat.loc:m1	nazwisko	
 Huszczy	Huszczo:s1	subst:sg:gen:m1	nazwisko	
 Huszczo	Huszczo:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Huszlewach	Huszlew	subst:pl:loc:m3	nazwa geograficzna	
+Huszlewa	Huszlew	subst:sg:gen:m3	nazwa geograficzna	
+Huszlewami	Huszlew	subst:pl:inst:m3	nazwa geograficzna	
+Huszlewem	Huszlew	subst:sg:inst:m3	nazwa geograficzna	
+Huszlew	Huszlew	subst:sg:nom.acc:m3	nazwa geograficzna	
+Huszlewie	Huszlew	subst:sg:loc:m3	nazwa geograficzna	
+Huszlewie	Huszlew	subst:sg:voc:m3	nazwa geograficzna	
+Huszlewom	Huszlew	subst:pl:dat:m3	nazwa geograficzna	
+Huszlewowi	Huszlew	subst:sg:dat:m3	nazwa geograficzna	
+Huszlewów	Huszlew	subst:pl:gen:m3	nazwa geograficzna	
+Huszlewy	Huszlew	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Husznach	Huszno:s1	subst:pl:loc:m1	nazwisko	
 Husznami	Huszno:s1	subst:pl:inst:m1	nazwisko	
 Huszną	Huszno:s1	subst:sg:inst:m1	nazwisko	
@@ -22517,6 +24548,17 @@ Huto	Huta:s3	subst:sg:voc:f	nazwisko
 Hutom	Huta:s3	subst:pl:dat:f	nazwisko	
 Huty	Huta:s3	subst:pl:nom.acc.voc:f	nazwisko	
 Huty	Huta:s3	subst:sg:gen:f	nazwisko	
+Hucie	Huta:s4	subst:sg:dat.loc:f	nazwa geograficzna	
+Hutach	Huta:s4	subst:pl:loc:f	nazwa geograficzna	
+Huta	Huta:s4	subst:sg:nom:f	nazwa geograficzna	
+Hutami	Huta:s4	subst:pl:inst:f	nazwa geograficzna	
+Hutą	Huta:s4	subst:sg:inst:f	nazwa geograficzna	
+Hutę	Huta:s4	subst:sg:acc:f	nazwa geograficzna	
+Hut	Huta:s4	subst:pl:gen:f	nazwa geograficzna	
+Huto	Huta:s4	subst:sg:voc:f	nazwa geograficzna	
+Hutom	Huta:s4	subst:pl:dat:f	nazwa geograficzna	
+Huty	Huta:s4	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Huty	Huta:s4	subst:sg:gen:f	nazwa geograficzna	
 Hutek	Hutek:s1	subst:sg:nom:m1	nazwisko	
 Hutkach	Hutek:s1	subst:pl:loc:m1	nazwisko	
 Hutka	Hutek:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -22530,6 +24572,27 @@ Hutków	Hutek:s1	subst:pl:gen.acc:m1	nazwisko
 Hutku	Hutek:s1	subst:sg:loc:m1	nazwisko	
 Hutku	Hutek:s1	subst:sg:voc:m1	nazwisko	
 Hutek	Hutek:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hutce	Hutka	subst:sg:dat.loc:f	nazwa geograficzna	
+Hutek	Hutka	subst:pl:gen:f	nazwa geograficzna	
+Hutkach	Hutka	subst:pl:loc:f	nazwa geograficzna	
+Hutka	Hutka	subst:sg:nom:f	nazwa geograficzna	
+Hutkami	Hutka	subst:pl:inst:f	nazwa geograficzna	
+Hutką	Hutka	subst:sg:inst:f	nazwa geograficzna	
+Hutkę	Hutka	subst:sg:acc:f	nazwa geograficzna	
+Hutki	Hutka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Hutki	Hutka	subst:sg:gen:f	nazwa geograficzna	
+Hutko	Hutka	subst:sg:voc:f	nazwa geograficzna	
+Hutkom	Hutka	subst:pl:dat:f	nazwa geograficzna	
+Hutek	Hutki	subst:pl:gen:n:pt	nazwa geograficzna	
+Hutek	Hutki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hutkach	Hutki	subst:pl:loc:n:pt	nazwa geograficzna	
+Hutkach	Hutki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hutkami	Hutki	subst:pl:inst:n:pt	nazwa geograficzna	
+Hutkami	Hutki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hutki	Hutki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Hutki	Hutki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Hutkom	Hutki	subst:pl:dat:n:pt	nazwa geograficzna	
+Hutkom	Hutki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Hutkowska	Hutkowska	subst:sg:nom:f	nazwisko	
 Hutkowska	Hutkowska	subst:sg:voc:f	nazwisko	
 Hutkowską	Hutkowska	subst:sg:acc:f	nazwisko	
@@ -22553,6 +24616,18 @@ Hutkowskim	Hutkowski	subst:pl:dat:m1	nazwisko
 Hutkowskim	Hutkowski	subst:sg:inst:m1	nazwisko	
 Hutkowskim	Hutkowski	subst:sg:loc:m1	nazwisko	
 Hutkowskimi	Hutkowski	subst:pl:inst:m1	nazwisko	
+Hutkowach	Hutków	subst:pl:loc:m3	nazwa geograficzna	
+Hutkowa	Hutków	subst:sg:gen:m3	nazwa geograficzna	
+Hutkowami	Hutków	subst:pl:inst:m3	nazwa geograficzna	
+Hutkowem	Hutków	subst:sg:inst:m3	nazwa geograficzna	
+Hutkowie	Hutków	subst:sg:loc:m3	nazwa geograficzna	
+Hutkowie	Hutków	subst:sg:voc:m3	nazwa geograficzna	
+Hutkowom	Hutków	subst:pl:dat:m3	nazwa geograficzna	
+Hutkowowi	Hutków	subst:sg:dat:m3	nazwa geograficzna	
+Hutkowów	Hutków	subst:pl:gen:m3	nazwa geograficzna	
+Hutkowu	Hutków	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Hutkowy	Hutków	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Hutków	Hutków	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hutmanach	Hutman:s1	subst:pl:loc:m1	nazwisko	
 Hutmana	Hutman:s1	subst:sg:gen.acc:m1	nazwisko	
 Hutmanami	Hutman:s1	subst:pl:inst:m1	nazwisko	
@@ -22632,6 +24707,16 @@ Huty	Hut:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Hut	Hut:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Hutu	Hutu	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Hutu	Hutu	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwa pospolita	
+Hutach	Huty	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Hutach	Huty	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Hutami	Huty	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Hutami	Huty	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Hut	Huty	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Hut	Huty	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Hutom	Huty	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Hutom	Huty	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
+Huty	Huty	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Huty	Huty	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
 Hutyrach	Hutyra:s2	subst:pl:loc:m1	nazwisko	
 Hutyra	Hutyra:s2	subst:sg:nom:m1	nazwisko	
 Hutyrami	Hutyra:s2	subst:pl:inst:m1	nazwisko	
@@ -22655,6 +24740,16 @@ Hutyrom	Hutyra:s3	subst:pl:dat:f	nazwisko
 Hutyry	Hutyra:s3	subst:pl:nom.acc.voc:f	nazwisko	
 Hutyry	Hutyra:s3	subst:sg:gen:f	nazwisko	
 Hutyrze	Hutyra:s3	subst:sg:dat.loc:f	nazwisko	
+Huwnikach	Huwniki	subst:pl:loc:n:pt	nazwa geograficzna	
+Huwnikach	Huwniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Huwnikami	Huwniki	subst:pl:inst:n:pt	nazwa geograficzna	
+Huwnikami	Huwniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Huwnik	Huwniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Huwnik	Huwniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Huwniki	Huwniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Huwniki	Huwniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Huwnikom	Huwniki	subst:pl:dat:n:pt	nazwa geograficzna	
+Huwnikom	Huwniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Huxleyach	Huxley	subst:pl:loc:m1	nazwisko	
 Huxleya	Huxley	subst:sg:gen.acc:m1	nazwisko	
 Huxleyami	Huxley	subst:pl:inst:m1	nazwisko	
@@ -22730,6 +24825,16 @@ Huzarskim	Huzarski	subst:pl:dat:m1	nazwisko
 Huzarskim	Huzarski	subst:sg:inst:m1	nazwisko	
 Huzarskim	Huzarski	subst:sg:loc:m1	nazwisko	
 Huzarskimi	Huzarski	subst:pl:inst:m1	nazwisko	
+Huzelach	Huzele	subst:pl:loc:n:pt	nazwa geograficzna	
+Huzelach	Huzele	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Huzelami	Huzele	subst:pl:inst:n:pt	nazwa geograficzna	
+Huzelami	Huzele	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Huzele	Huzele	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Huzele	Huzele	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Huzeli	Huzele	subst:pl:gen:n:pt	nazwa geograficzna	
+Huzeli	Huzele	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Huzelom	Huzele	subst:pl:dat:n:pt	nazwa geograficzna	
+Huzelom	Huzele	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Huziorach	Huzior:s1	subst:pl:loc:m1	nazwisko	
 Huziora	Huzior:s1	subst:sg:gen.acc:m1	nazwisko	
 Huziorami	Huzior:s1	subst:pl:inst:m1	nazwisko	
@@ -23485,6 +25590,16 @@ Hyżaków	Hyżak:s1	subst:pl:gen.acc:m1	nazwisko
 Hyżaku	Hyżak:s1	subst:sg:loc:m1	nazwisko	
 Hyżaku	Hyżak:s1	subst:sg:voc:m1	nazwisko	
 Hyżak	Hyżak:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Hyżnego	Hyżne	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hyżne	Hyżne	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hyżne	Hyżne	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Hyżnem	Hyżne	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hyżnem	Hyżne	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hyżnemu	Hyżne	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hyżnych	Hyżne	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hyżnych	Hyżne	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hyżnym	Hyżne	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hyżnymi	Hyżne	subst:pl:inst:n:ncol	nazwa geograficzna	
 Hyżorek	Hyżorek:s1	subst:sg:nom:m1	nazwisko	
 Hyżorkach	Hyżorek:s1	subst:pl:loc:m1	nazwisko	
 Hyżorka	Hyżorek:s1	subst:sg:gen.acc:m1	nazwisko	

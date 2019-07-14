@@ -356,6 +356,30 @@ Edwardom	Edwarda	subst:pl:dat:f	imię
 Edwardy	Edwarda	subst:pl:nom.acc.voc:f	imię	
 Edwardy	Edwarda	subst:sg:gen:f	imię	
 Edwardzie	Edwarda	subst:sg:dat.loc:f	imię	
+Edwardowach	Edwardowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Edwardowa	Edwardowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Edwardowa	Edwardowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Edwardowami	Edwardowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Edwardow	Edwardowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Edwardowem	Edwardowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Edwardowie	Edwardowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Edwardowo	Edwardowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Edwardowom	Edwardowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Edwardowów	Edwardowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Edwardowu	Edwardowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Edwardów	Edwardowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Edwardowach	Edwardów	subst:pl:loc:m3	nazwa geograficzna	
+Edwardowa	Edwardów	subst:sg:gen:m3	nazwa geograficzna	
+Edwardowami	Edwardów	subst:pl:inst:m3	nazwa geograficzna	
+Edwardowem	Edwardów	subst:sg:inst:m3	nazwa geograficzna	
+Edwardowie	Edwardów	subst:sg:loc:m3	nazwa geograficzna	
+Edwardowie	Edwardów	subst:sg:voc:m3	nazwa geograficzna	
+Edwardowom	Edwardów	subst:pl:dat:m3	nazwa geograficzna	
+Edwardowowi	Edwardów	subst:sg:dat:m3	nazwa geograficzna	
+Edwardowów	Edwardów	subst:pl:gen:m3	nazwa geograficzna	
+Edwardowu	Edwardów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Edwardowy	Edwardów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Edwardów	Edwardów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Edwinach	Edwin	subst:pl:loc:m1	imię	
 Edwina	Edwin	subst:sg:gen.acc:m1	imię	
 Edwinami	Edwin	subst:pl:inst:m1	imię	
@@ -609,6 +633,18 @@ Egidiuszowi	Egidiusz	subst:sg:dat:m1	imię
 Egidiuszów	Egidiusz	subst:pl:gen.acc:m1	imię	
 Egidiuszu	Egidiusz	subst:sg:loc:m1	imię	
 Egidiuszu	Egidiusz	subst:sg:voc:m1	imię	
+Egiertowach	Egiertowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Egiertowa	Egiertowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Egiertowa	Egiertowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Egiertowami	Egiertowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Egiertow	Egiertowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Egiertowem	Egiertowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Egiertowie	Egiertowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Egiertowo	Egiertowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Egiertowom	Egiertowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Egiertowów	Egiertowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Egiertowu	Egiertowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Egiertów	Egiertowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Egiercie	Egiert:s1	subst:sg:loc:m1	nazwisko	
 Egiercie	Egiert:s1	subst:sg:voc:m1	nazwisko	
 Egiertach	Egiert:s1	subst:pl:loc:m1	nazwisko	
@@ -1017,6 +1053,16 @@ Ejsymontowi	Ejsymont:s1	subst:sg:dat:m1	nazwisko
 Ejsymontów	Ejsymont:s1	subst:pl:gen.acc:m1	nazwisko	
 Ejsymonty	Ejsymont:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Ejsymont	Ejsymont:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Ejszeryszek	Ejszeryszki	subst:pl:gen:n:pt	nazwa geograficzna	
+Ejszeryszek	Ejszeryszki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Ejszeryszkach	Ejszeryszki	subst:pl:loc:n:pt	nazwa geograficzna	
+Ejszeryszkach	Ejszeryszki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ejszeryszkami	Ejszeryszki	subst:pl:inst:n:pt	nazwa geograficzna	
+Ejszeryszkami	Ejszeryszki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ejszeryszki	Ejszeryszki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Ejszeryszki	Ejszeryszki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Ejszeryszkom	Ejszeryszki	subst:pl:dat:n:pt	nazwa geograficzna	
+Ejszeryszkom	Ejszeryszki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Ejzakach	Ejzak:s1	subst:pl:loc:m1	nazwisko	
 Ejzaka	Ejzak:s1	subst:sg:gen.acc:m1	nazwisko	
 Ejzakami	Ejzak:s1	subst:pl:inst:m1	nazwisko	
@@ -1456,6 +1502,18 @@ Elertowi	Elert:s1	subst:sg:dat:m1	nazwisko
 Elertów	Elert:s1	subst:pl:gen.acc:m1	nazwisko	
 Elerty	Elert:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Elert	Elert:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Elganowach	Elganowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Elganowa	Elganowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Elganowa	Elganowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Elganowami	Elganowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Elganow	Elganowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Elganowem	Elganowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Elganowie	Elganowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Elganowo	Elganowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Elganowom	Elganowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Elganowów	Elganowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Elganowu	Elganowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Elganów	Elganowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Elgercie	Elgert:s1	subst:sg:loc:m1	nazwisko	
 Elgercie	Elgert:s1	subst:sg:voc:m1	nazwisko	
 Elgertach	Elgert:s1	subst:pl:loc:m1	nazwisko	
@@ -1469,6 +1527,38 @@ Elgertowi	Elgert:s1	subst:sg:dat:m1	nazwisko
 Elgertów	Elgert:s1	subst:pl:gen.acc:m1	nazwisko	
 Elgerty	Elgert:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Elgert	Elgert:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Elgiszewach	Elgiszewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Elgiszewa	Elgiszewo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Elgiszewa	Elgiszewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Elgiszewami	Elgiszewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Elgiszew	Elgiszewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Elgiszewem	Elgiszewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Elgiszewie	Elgiszewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Elgiszewo	Elgiszewo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Elgiszewom	Elgiszewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Elgiszewu	Elgiszewo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Elgnowach	Elgnowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Elgnowa	Elgnowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Elgnowa	Elgnowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Elgnowami	Elgnowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Elgnow	Elgnowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Elgnowem	Elgnowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Elgnowie	Elgnowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Elgnowo	Elgnowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Elgnowom	Elgnowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Elgnowów	Elgnowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Elgnowu	Elgnowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Elgnów	Elgnowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Elgnówek	Elgnówko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Elgnówkach	Elgnówko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Elgnówka	Elgnówko	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Elgnówka	Elgnówko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Elgnówkami	Elgnówko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Elgnówkiem	Elgnówko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Elgnówko	Elgnówko	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Elgnówkom	Elgnówko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Elgnówku	Elgnówko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Elgnówku	Elgnówko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Eliadach	Eliade	subst:pl:loc:m1	nazwisko	
 Eliadami	Eliade	subst:pl:inst:m1	nazwisko	
 Eliade	Eliade	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -1494,6 +1584,27 @@ Eliasowi	Elias:s1	subst:sg:dat:m1	nazwisko
 Eliasów	Elias:s1	subst:pl:gen.acc:m1	nazwisko	
 Eliasy	Elias:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Elias	Elias:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Eliaszach	Eliasze	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Eliaszach	Eliasze	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Eliaszami	Eliasze	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Eliaszami	Eliasze	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Eliasze	Eliasze	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Eliasze	Eliasze	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
+Eliaszom	Eliasze	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Eliaszom	Eliasze	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
+Eliaszów	Eliasze	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Eliaszów	Eliasze	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Eliaszówce	Eliaszówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Eliaszówek	Eliaszówka	subst:pl:gen:f	nazwa geograficzna	
+Eliaszówkach	Eliaszówka	subst:pl:loc:f	nazwa geograficzna	
+Eliaszówka	Eliaszówka	subst:sg:nom:f	nazwa geograficzna	
+Eliaszówkami	Eliaszówka	subst:pl:inst:f	nazwa geograficzna	
+Eliaszówką	Eliaszówka	subst:sg:inst:f	nazwa geograficzna	
+Eliaszówkę	Eliaszówka	subst:sg:acc:f	nazwa geograficzna	
+Eliaszówki	Eliaszówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Eliaszówki	Eliaszówka	subst:sg:gen:f	nazwa geograficzna	
+Eliaszówko	Eliaszówka	subst:sg:voc:f	nazwa geograficzna	
+Eliaszówkom	Eliaszówka	subst:pl:dat:f	nazwa geograficzna	
 Eliaszach	Eliasz:s1	subst:pl:loc:m1	imię	
 Eliasza	Eliasz:s1	subst:sg:gen.acc:m1	imię	
 Eliaszami	Eliasz:s1	subst:pl:inst:m1	imię	
@@ -1521,6 +1632,16 @@ Eliaszów	Eliasz:s2	subst:pl:gen.acc:m1	nazwisko
 Eliaszu	Eliasz:s2	subst:sg:loc:m1	nazwisko	
 Eliaszu	Eliasz:s2	subst:sg:voc:m1	nazwisko	
 Eliasz	Eliasz:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Eliaszukach	Eliaszuki	subst:pl:loc:n:pt	nazwa geograficzna	
+Eliaszukach	Eliaszuki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Eliaszukami	Eliaszuki	subst:pl:inst:n:pt	nazwa geograficzna	
+Eliaszukami	Eliaszuki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Eliaszuki	Eliaszuki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Eliaszuki	Eliaszuki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Eliaszukom	Eliaszuki	subst:pl:dat:n:pt	nazwa geograficzna	
+Eliaszukom	Eliaszuki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Eliaszuków	Eliaszuki	subst:pl:gen:n:pt	nazwa geograficzna	
+Eliaszuków	Eliaszuki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Elidach	Elida	subst:pl:loc:f	nazwa geograficzna	
 Elida	Elida	subst:sg:nom:f	nazwa geograficzna	
 Elidami	Elida	subst:pl:inst:f	nazwa geograficzna	
@@ -1557,6 +1678,18 @@ Eligii	Eligia	subst:sg:gen:f	imię
 Eligij	Eligia	subst:pl:gen:f	imię	arch.|char.
 Eligio	Eligia	subst:sg:voc:f	imię	
 Eligiom	Eligia	subst:pl:dat:f	imię	
+Eligiowach	Eligiów	subst:pl:loc:m3	nazwa geograficzna	
+Eligiowa	Eligiów	subst:sg:gen:m3	nazwa geograficzna	
+Eligiowami	Eligiów	subst:pl:inst:m3	nazwa geograficzna	
+Eligiowem	Eligiów	subst:sg:inst:m3	nazwa geograficzna	
+Eligiowie	Eligiów	subst:sg:loc:m3	nazwa geograficzna	
+Eligiowie	Eligiów	subst:sg:voc:m3	nazwa geograficzna	
+Eligiowom	Eligiów	subst:pl:dat:m3	nazwa geograficzna	
+Eligiowowi	Eligiów	subst:sg:dat:m3	nazwa geograficzna	
+Eligiowów	Eligiów	subst:pl:gen:m3	nazwa geograficzna	
+Eligiowu	Eligiów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Eligiowy	Eligiów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Eligiów	Eligiów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Eligiuszach	Eligiusz	subst:pl:loc:m1	imię	
 Eligiusza	Eligiusz	subst:sg:gen.acc:m1	imię	
 Eligiuszami	Eligiusz	subst:pl:inst:m1	imię	
@@ -1652,6 +1785,18 @@ Elizo	Eliza	subst:sg:voc:f	imię
 Elizom	Eliza	subst:pl:dat:f	imię	
 Elizy	Eliza	subst:pl:nom.acc.voc:f	imię	
 Elizy	Eliza	subst:sg:gen:f	imię	
+Elizanowach	Elizanów	subst:pl:loc:m3	nazwa geograficzna	
+Elizanowa	Elizanów	subst:sg:gen:m3	nazwa geograficzna	
+Elizanowami	Elizanów	subst:pl:inst:m3	nazwa geograficzna	
+Elizanowem	Elizanów	subst:sg:inst:m3	nazwa geograficzna	
+Elizanowie	Elizanów	subst:sg:loc:m3	nazwa geograficzna	
+Elizanowie	Elizanów	subst:sg:voc:m3	nazwa geograficzna	
+Elizanowom	Elizanów	subst:pl:dat:m3	nazwa geograficzna	
+Elizanowowi	Elizanów	subst:sg:dat:m3	nazwa geograficzna	
+Elizanowów	Elizanów	subst:pl:gen:m3	nazwa geograficzna	
+Elizanowu	Elizanów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Elizanowy	Elizanów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Elizanów	Elizanów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Elizeuszach	Elizeusz	subst:pl:loc:m1	imię	
 Elizeusza	Elizeusz	subst:sg:gen.acc:m1	imię	
 Elizeuszami	Elizeusz	subst:pl:inst:m1	imię	
@@ -1665,6 +1810,16 @@ Elizeuszowi	Elizeusz	subst:sg:dat:m1	imię
 Elizeuszów	Elizeusz	subst:pl:gen.acc:m1	imię	
 Elizeuszu	Elizeusz	subst:sg:loc:m1	imię	
 Elizeuszu	Elizeusz	subst:sg:voc:m1	imię	
+Elizewach	Elizewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Elizewa	Elizewo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Elizewa	Elizewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Elizewami	Elizewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Elizew	Elizewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Elizewem	Elizewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Elizewie	Elizewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Elizewo	Elizewo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Elizewom	Elizewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Elizewu	Elizewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Elizjach	Elizjum	subst:pl:loc:n:ncol	nazwa własna	mit.
 Elizja	Elizjum	subst:pl:nom.acc.voc:n:ncol	nazwa własna	mit.
 Elizjami	Elizjum	subst:pl:inst:n:ncol	nazwa własna	mit.
@@ -1675,6 +1830,17 @@ Elizjum	Elizjum	subst:sg:gen:n:ncol	nazwa własna	mit.
 Elizjum	Elizjum	subst:sg:inst:n:ncol	nazwa własna	mit.
 Elizjum	Elizjum	subst:sg:loc:n:ncol	nazwa własna	mit.
 Elizjum	Elizjum	subst:sg:nom.acc.voc:n:ncol	nazwa własna	mit.
+Elizówce	Elizówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Elizówek	Elizówka	subst:pl:gen:f	nazwa geograficzna	
+Elizówkach	Elizówka	subst:pl:loc:f	nazwa geograficzna	
+Elizówka	Elizówka	subst:sg:nom:f	nazwa geograficzna	
+Elizówkami	Elizówka	subst:pl:inst:f	nazwa geograficzna	
+Elizówką	Elizówka	subst:sg:inst:f	nazwa geograficzna	
+Elizówkę	Elizówka	subst:sg:acc:f	nazwa geograficzna	
+Elizówki	Elizówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Elizówki	Elizówka	subst:sg:gen:f	nazwa geograficzna	
+Elizówko	Elizówka	subst:sg:voc:f	nazwa geograficzna	
+Elizówkom	Elizówka	subst:pl:dat:f	nazwa geograficzna	
 Eljakimach	Eljakim	subst:pl:loc:m1	imię	
 Eljakima	Eljakim	subst:sg:gen.acc:m1	imię	
 Eljakimami	Eljakim	subst:pl:inst:m1	imię	
@@ -1860,6 +2026,18 @@ Elminowskim	Elminowski	subst:pl:dat:m1	nazwisko
 Elminowskim	Elminowski	subst:sg:inst:m1	nazwisko	
 Elminowskim	Elminowski	subst:sg:loc:m1	nazwisko	
 Elminowskimi	Elminowski	subst:pl:inst:m1	nazwisko	
+Elodiach	Elodia	subst:pl:loc:f	nazwa geograficzna	
+Elodia	Elodia	subst:sg:nom:f	nazwa geograficzna	
+Elodiami	Elodia	subst:pl:inst:f	nazwa geograficzna	
+Elodią	Elodia	subst:sg:inst:f	nazwa geograficzna	
+Elodie	Elodia	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Elodię	Elodia	subst:sg:acc:f	nazwa geograficzna	
+Elodii	Elodia	subst:pl:gen:f	nazwa geograficzna	hom.
+Elodii	Elodia	subst:sg:dat.loc:f	nazwa geograficzna	
+Elodii	Elodia	subst:sg:gen:f	nazwa geograficzna	
+Elodio	Elodia	subst:sg:voc:f	nazwa geograficzna	
+Elodiom	Elodia	subst:pl:dat:f	nazwa geograficzna	
+Elodyj	Elodia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Elach	El:s2	subst:pl:loc:m1	nazwisko	
 Ela	El:s2	subst:sg:gen.acc:m1	nazwisko	
 Elami	El:s2	subst:pl:inst:m1	nazwisko	
@@ -1873,6 +2051,18 @@ Elów	El:s2	subst:pl:gen.acc:m1	nazwisko
 Elu	El:s2	subst:sg:loc:m1	nazwisko	
 Elu	El:s2	subst:sg:voc:m1	nazwisko	
 El	El:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Elsnerowach	Elsnerów	subst:pl:loc:m3	nazwa geograficzna	
+Elsnerowa	Elsnerów	subst:sg:gen:m3	nazwa geograficzna	
+Elsnerowami	Elsnerów	subst:pl:inst:m3	nazwa geograficzna	
+Elsnerowem	Elsnerów	subst:sg:inst:m3	nazwa geograficzna	
+Elsnerowie	Elsnerów	subst:sg:loc:m3	nazwa geograficzna	
+Elsnerowie	Elsnerów	subst:sg:voc:m3	nazwa geograficzna	
+Elsnerowom	Elsnerów	subst:pl:dat:m3	nazwa geograficzna	
+Elsnerowowi	Elsnerów	subst:sg:dat:m3	nazwa geograficzna	
+Elsnerowów	Elsnerów	subst:pl:gen:m3	nazwa geograficzna	
+Elsnerowu	Elsnerów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Elsnerowy	Elsnerów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Elsnerów	Elsnerów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Elsnerach	Elsner:s1	subst:pl:loc:m1	nazwisko	
 Elsnera	Elsner:s1	subst:sg:gen.acc:m1	nazwisko	
 Elsnerami	Elsner:s1	subst:pl:inst:m1	nazwisko	
@@ -2078,6 +2268,18 @@ Elwirom	Elwira	subst:pl:dat:f	imię
 Elwiry	Elwira	subst:pl:nom.acc.voc:f	imię	
 Elwiry	Elwira	subst:sg:gen:f	imię	
 Elwirze	Elwira	subst:sg:dat.loc:f	imię	
+Elzanowach	Elzanowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Elzanowa	Elzanowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Elzanowa	Elzanowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Elzanowami	Elzanowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Elzanow	Elzanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Elzanowem	Elzanowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Elzanowie	Elzanowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Elzanowo	Elzanowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Elzanowom	Elzanowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Elzanowów	Elzanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Elzanowu	Elzanowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Elzanów	Elzanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Elzanowska	Elzanowska	subst:sg:nom:f	nazwisko	
 Elzanowska	Elzanowska	subst:sg:voc:f	nazwisko	
 Elzanowską	Elzanowska	subst:sg:acc:f	nazwisko	
@@ -2137,17 +2339,49 @@ Elżbieciaków	Elżbieciak:s1	subst:pl:gen.acc:m1	nazwisko
 Elżbieciaku	Elżbieciak:s1	subst:sg:loc:m1	nazwisko	
 Elżbieciaku	Elżbieciak:s1	subst:sg:voc:m1	nazwisko	
 Elżbieciak	Elżbieciak:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Elżbiecie	Elżbieta	subst:sg:dat.loc:f	imię	
-Elżbietach	Elżbieta	subst:pl:loc:f	imię	
-Elżbieta	Elżbieta	subst:sg:nom:f	imię	
-Elżbietami	Elżbieta	subst:pl:inst:f	imię	
-Elżbietą	Elżbieta	subst:sg:inst:f	imię	
-Elżbiet	Elżbieta	subst:pl:gen:f	imię	
-Elżbietę	Elżbieta	subst:sg:acc:f	imię	
-Elżbieto	Elżbieta	subst:sg:voc:f	imię	
-Elżbietom	Elżbieta	subst:pl:dat:f	imię	
-Elżbiety	Elżbieta	subst:pl:nom.acc.voc:f	imię	
-Elżbiety	Elżbieta	subst:sg:gen:f	imię	
+Elżbiecinach	Elżbiecin	subst:pl:loc:m3	nazwa geograficzna	
+Elżbiecina	Elżbiecin	subst:sg:gen:m3	nazwa geograficzna	
+Elżbiecinami	Elżbiecin	subst:pl:inst:m3	nazwa geograficzna	
+Elżbiecin	Elżbiecin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Elżbiecinem	Elżbiecin	subst:sg:inst:m3	nazwa geograficzna	
+Elżbiecinie	Elżbiecin	subst:sg:loc:m3	nazwa geograficzna	
+Elżbiecinie	Elżbiecin	subst:sg:voc:m3	nazwa geograficzna	
+Elżbiecinom	Elżbiecin	subst:pl:dat:m3	nazwa geograficzna	
+Elżbiecinowi	Elżbiecin	subst:sg:dat:m3	nazwa geograficzna	
+Elżbiecinów	Elżbiecin	subst:pl:gen:m3	nazwa geograficzna	
+Elżbieciny	Elżbiecin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Elżbiecinach	Elżbieciny	subst:pl:loc:n:pt	nazwa geograficzna	
+Elżbiecinach	Elżbieciny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Elżbiecinami	Elżbieciny	subst:pl:inst:n:pt	nazwa geograficzna	
+Elżbiecinami	Elżbieciny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Elżbiecin	Elżbieciny	subst:pl:gen:n:pt	nazwa geograficzna	
+Elżbiecin	Elżbieciny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Elżbiecinom	Elżbieciny	subst:pl:dat:n:pt	nazwa geograficzna	
+Elżbiecinom	Elżbieciny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Elżbieciny	Elżbieciny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Elżbieciny	Elżbieciny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Elżbiecie	Elżbieta:s1	subst:sg:dat.loc:f	imię	
+Elżbietach	Elżbieta:s1	subst:pl:loc:f	imię	
+Elżbieta	Elżbieta:s1	subst:sg:nom:f	imię	
+Elżbietami	Elżbieta:s1	subst:pl:inst:f	imię	
+Elżbietą	Elżbieta:s1	subst:sg:inst:f	imię	
+Elżbiet	Elżbieta:s1	subst:pl:gen:f	imię	
+Elżbietę	Elżbieta:s1	subst:sg:acc:f	imię	
+Elżbieto	Elżbieta:s1	subst:sg:voc:f	imię	
+Elżbietom	Elżbieta:s1	subst:pl:dat:f	imię	
+Elżbiety	Elżbieta:s1	subst:pl:nom.acc.voc:f	imię	
+Elżbiety	Elżbieta:s1	subst:sg:gen:f	imię	
+Elżbiecie	Elżbieta:s2	subst:sg:dat.loc:f	nazwa geograficzna	
+Elżbietach	Elżbieta:s2	subst:pl:loc:f	nazwa geograficzna	
+Elżbieta	Elżbieta:s2	subst:sg:nom:f	nazwa geograficzna	
+Elżbietami	Elżbieta:s2	subst:pl:inst:f	nazwa geograficzna	
+Elżbietą	Elżbieta:s2	subst:sg:inst:f	nazwa geograficzna	
+Elżbiet	Elżbieta:s2	subst:pl:gen:f	nazwa geograficzna	
+Elżbietę	Elżbieta:s2	subst:sg:acc:f	nazwa geograficzna	
+Elżbieto	Elżbieta:s2	subst:sg:voc:f	nazwa geograficzna	
+Elżbietom	Elżbieta:s2	subst:pl:dat:f	nazwa geograficzna	
+Elżbiety	Elżbieta:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Elżbiety	Elżbieta:s2	subst:sg:gen:f	nazwa geograficzna	
 Elżbietce	Elżbietka	subst:sg:dat.loc:f	imię	
 Elżbietek	Elżbietka	subst:pl:gen:f	imię	
 Elżbietkach	Elżbietka	subst:pl:loc:f	imię	
@@ -2159,6 +2393,30 @@ Elżbietki	Elżbietka	subst:pl:nom.acc.voc:f	imię
 Elżbietki	Elżbietka	subst:sg:gen:f	imię	
 Elżbietko	Elżbietka	subst:sg:voc:f	imię	
 Elżbietkom	Elżbietka	subst:pl:dat:f	imię	
+Elżbietkowach	Elżbietków	subst:pl:loc:m3	nazwa geograficzna	
+Elżbietkowa	Elżbietków	subst:sg:gen:m3	nazwa geograficzna	
+Elżbietkowami	Elżbietków	subst:pl:inst:m3	nazwa geograficzna	
+Elżbietkowem	Elżbietków	subst:sg:inst:m3	nazwa geograficzna	
+Elżbietkowie	Elżbietków	subst:sg:loc:m3	nazwa geograficzna	
+Elżbietkowie	Elżbietków	subst:sg:voc:m3	nazwa geograficzna	
+Elżbietkowom	Elżbietków	subst:pl:dat:m3	nazwa geograficzna	
+Elżbietkowowi	Elżbietków	subst:sg:dat:m3	nazwa geograficzna	
+Elżbietkowów	Elżbietków	subst:pl:gen:m3	nazwa geograficzna	
+Elżbietkowu	Elżbietków	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Elżbietkowy	Elżbietków	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Elżbietków	Elżbietków	subst:sg:nom.acc:m3	nazwa geograficzna	
+Elżbietowach	Elżbietów	subst:pl:loc:m3	nazwa geograficzna	
+Elżbietowa	Elżbietów	subst:sg:gen:m3	nazwa geograficzna	
+Elżbietowami	Elżbietów	subst:pl:inst:m3	nazwa geograficzna	
+Elżbietowem	Elżbietów	subst:sg:inst:m3	nazwa geograficzna	
+Elżbietowie	Elżbietów	subst:sg:loc:m3	nazwa geograficzna	
+Elżbietowie	Elżbietów	subst:sg:voc:m3	nazwa geograficzna	
+Elżbietowom	Elżbietów	subst:pl:dat:m3	nazwa geograficzna	
+Elżbietowowi	Elżbietów	subst:sg:dat:m3	nazwa geograficzna	
+Elżbietowów	Elżbietów	subst:pl:gen:m3	nazwa geograficzna	
+Elżbietowu	Elżbietów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Elżbietowy	Elżbietów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Elżbietów	Elżbietów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Elżuniach	Elżunia	subst:pl:loc:f	imię	
 Elżunia	Elżunia	subst:sg:nom:f	imię	
 Elżuniami	Elżunia	subst:pl:inst:f	imię	
@@ -2171,6 +2429,28 @@ Elżunię	Elżunia	subst:sg:acc:f	imię
 Elżuniom	Elżunia	subst:pl:dat:f	imię	
 Elżuniu	Elżunia	subst:sg:voc:f	imię	
 Elżuń	Elżunia	subst:pl:gen:f	imię	char.
+Ełdytach	Ełdyty	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Ełdytach	Ełdyty	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Ełdytami	Ełdyty	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Ełdytami	Ełdyty	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Ełdyt	Ełdyty	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Ełdyt	Ełdyty	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Ełdytom	Ełdyty	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Ełdytom	Ełdyty	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
+Ełdyty	Ełdyty	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Ełdyty	Ełdyty	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
+Ełganowach	Ełganowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Ełganowa	Ełganowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Ełganowa	Ełganowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Ełganowami	Ełganowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Ełganow	Ełganowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ełganowem	Ełganowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Ełganowie	Ełganowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Ełganowo	Ełganowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Ełganowom	Ełganowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Ełganowów	Ełganowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ełganowu	Ełganowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Ełganów	Ełganowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Ełkach	Ełk	subst:pl:loc:m3	nazwa geograficzna	
 Ełkami	Ełk	subst:pl:inst:m3	nazwa geograficzna	
 Ełk	Ełk	subst:sg:nom.acc:m3	nazwa geograficzna	
@@ -2209,6 +2489,17 @@ Emanuelowi	Emanuel	subst:sg:dat:m1	imię
 Emanuelów	Emanuel	subst:pl:gen.acc:m1	imię	
 Emanuelu	Emanuel	subst:sg:loc:m1	imię	
 Emanuelu	Emanuel	subst:sg:voc:m1	imię	
+Emanuelinach	Emanuelina	subst:pl:loc:f	nazwa geograficzna	
+Emanuelina	Emanuelina	subst:sg:nom:f	nazwa geograficzna	
+Emanuelinami	Emanuelina	subst:pl:inst:f	nazwa geograficzna	
+Emanueliną	Emanuelina	subst:sg:inst:f	nazwa geograficzna	
+Emanuelin	Emanuelina	subst:pl:gen:f	nazwa geograficzna	
+Emanuelinę	Emanuelina	subst:sg:acc:f	nazwa geograficzna	
+Emanuelinie	Emanuelina	subst:sg:dat.loc:f	nazwa geograficzna	
+Emanuelino	Emanuelina	subst:sg:voc:f	nazwa geograficzna	
+Emanuelinom	Emanuelina	subst:pl:dat:f	nazwa geograficzna	
+Emanueliny	Emanuelina	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Emanueliny	Emanuelina	subst:sg:gen:f	nazwa geograficzna	
 Emaus	Emaus	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
 Emerencjach	Emerencja	subst:pl:loc:f	imię	
 Emerencja	Emerencja	subst:sg:nom:f	imię	
@@ -2285,6 +2576,17 @@ Emilcię	Emilcia	subst:sg:acc:f	imię
 Emilciom	Emilcia	subst:pl:dat:f	imię	
 Emilciu	Emilcia	subst:sg:voc:f	imię	
 Emilć	Emilcia	subst:pl:gen:f	imię	char.
+Emilcinach	Emilcin	subst:pl:loc:m3	nazwa geograficzna	
+Emilcina	Emilcin	subst:sg:gen:m3	nazwa geograficzna	
+Emilcinami	Emilcin	subst:pl:inst:m3	nazwa geograficzna	
+Emilcinem	Emilcin	subst:sg:inst:m3	nazwa geograficzna	
+Emilcin	Emilcin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Emilcinie	Emilcin	subst:sg:loc:m3	nazwa geograficzna	
+Emilcinie	Emilcin	subst:sg:voc:m3	nazwa geograficzna	
+Emilcinom	Emilcin	subst:pl:dat:m3	nazwa geograficzna	
+Emilcinowi	Emilcin	subst:sg:dat:m3	nazwa geograficzna	
+Emilcinów	Emilcin	subst:pl:gen:m3	nazwa geograficzna	
+Emilciny	Emilcin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Emilek	Emilek	subst:sg:nom:m1	imię	
 Emilkach	Emilek	subst:pl:loc:m1	imię	
 Emilka	Emilek	subst:sg:gen.acc:m1	imię	
@@ -2297,18 +2599,6 @@ Emilkowi	Emilek	subst:sg:dat:m1	imię
 Emilków	Emilek	subst:pl:gen.acc:m1	imię	
 Emilku	Emilek	subst:sg:loc:m1	imię	
 Emilku	Emilek	subst:sg:voc:m1	imię	
-Emiliach	Emilia	subst:pl:loc:f	imię	
-Emilia	Emilia	subst:sg:nom:f	imię	
-Emiliami	Emilia	subst:pl:inst:f	imię	
-Emilią	Emilia	subst:sg:inst:f	imię	
-Emilie	Emilia	subst:pl:nom.acc.voc:f	imię	
-Emilię	Emilia	subst:sg:acc:f	imię	
-Emilii	Emilia	subst:pl:gen:f	imię	hom.
-Emilii	Emilia	subst:sg:dat.loc:f	imię	
-Emilii	Emilia	subst:sg:gen:f	imię	
-Emilij	Emilia	subst:pl:gen:f	imię	arch.|char.
-Emilio	Emilia	subst:sg:voc:f	imię	
-Emiliom	Emilia	subst:pl:dat:f	imię	
 Emilianach	Emilian	subst:pl:loc:m1	imię	
 Emiliana	Emilian	subst:sg:gen.acc:m1	imię	
 Emilianami	Emilian	subst:pl:inst:m1	imię	
@@ -2346,6 +2636,76 @@ Emilianowiczów	Emilianowicz:s1	subst:pl:gen.acc:m1	nazwisko
 Emilianowiczu	Emilianowicz:s1	subst:sg:loc:m1	nazwisko	
 Emilianowiczu	Emilianowicz:s1	subst:sg:voc:m1	nazwisko	
 Emilianowicz	Emilianowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Emilianowach	Emilianowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Emilianowa	Emilianowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Emilianowa	Emilianowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Emilianowami	Emilianowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Emilianowem	Emilianowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Emilianow	Emilianowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Emilianowie	Emilianowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Emilianowo	Emilianowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Emilianowom	Emilianowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Emilianowów	Emilianowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Emilianowu	Emilianowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Emilianów	Emilianowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Emilianowach	Emilianów	subst:pl:loc:m3	nazwa geograficzna	
+Emilianowa	Emilianów	subst:sg:gen:m3	nazwa geograficzna	
+Emilianowami	Emilianów	subst:pl:inst:m3	nazwa geograficzna	
+Emilianowem	Emilianów	subst:sg:inst:m3	nazwa geograficzna	
+Emilianowie	Emilianów	subst:sg:loc:m3	nazwa geograficzna	
+Emilianowie	Emilianów	subst:sg:voc:m3	nazwa geograficzna	
+Emilianowom	Emilianów	subst:pl:dat:m3	nazwa geograficzna	
+Emilianowowi	Emilianów	subst:sg:dat:m3	nazwa geograficzna	
+Emilianowów	Emilianów	subst:pl:gen:m3	nazwa geograficzna	
+Emilianowu	Emilianów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Emilianowy	Emilianów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Emilianów	Emilianów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Emilianówce	Emilianówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Emilianówek	Emilianówka	subst:pl:gen:f	nazwa geograficzna	
+Emilianówkach	Emilianówka	subst:pl:loc:f	nazwa geograficzna	
+Emilianówka	Emilianówka	subst:sg:nom:f	nazwa geograficzna	
+Emilianówkami	Emilianówka	subst:pl:inst:f	nazwa geograficzna	
+Emilianówką	Emilianówka	subst:sg:inst:f	nazwa geograficzna	
+Emilianówkę	Emilianówka	subst:sg:acc:f	nazwa geograficzna	
+Emilianówki	Emilianówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Emilianówki	Emilianówka	subst:sg:gen:f	nazwa geograficzna	
+Emilianówko	Emilianówka	subst:sg:voc:f	nazwa geograficzna	
+Emilianówkom	Emilianówka	subst:pl:dat:f	nazwa geograficzna	
+Emiliach	Emilia:s1	subst:pl:loc:f	imię	
+Emilia	Emilia:s1	subst:sg:nom:f	imię	
+Emiliami	Emilia:s1	subst:pl:inst:f	imię	
+Emilią	Emilia:s1	subst:sg:inst:f	imię	
+Emilie	Emilia:s1	subst:pl:nom.acc.voc:f	imię	
+Emilię	Emilia:s1	subst:sg:acc:f	imię	
+Emilii	Emilia:s1	subst:pl:gen:f	imię	hom.
+Emilii	Emilia:s1	subst:sg:dat.loc:f	imię	
+Emilii	Emilia:s1	subst:sg:gen:f	imię	
+Emilij	Emilia:s1	subst:pl:gen:f	imię	arch.|char.
+Emilio	Emilia:s1	subst:sg:voc:f	imię	
+Emiliom	Emilia:s1	subst:pl:dat:f	imię	
+Emiliach	Emilia:s2	subst:pl:loc:f	nazwa geograficzna	
+Emilia	Emilia:s2	subst:sg:nom:f	nazwa geograficzna	
+Emiliami	Emilia:s2	subst:pl:inst:f	nazwa geograficzna	
+Emilią	Emilia:s2	subst:sg:inst:f	nazwa geograficzna	
+Emilie	Emilia:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Emilię	Emilia:s2	subst:sg:acc:f	nazwa geograficzna	
+Emilii	Emilia:s2	subst:pl:gen:f	nazwa geograficzna	hom.
+Emilii	Emilia:s2	subst:sg:dat.loc:f	nazwa geograficzna	
+Emilii	Emilia:s2	subst:sg:gen:f	nazwa geograficzna	
+Emilij	Emilia:s2	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+Emilio	Emilia:s2	subst:sg:voc:f	nazwa geograficzna	
+Emiliom	Emilia:s2	subst:pl:dat:f	nazwa geograficzna	
+Emilinach	Emilin	subst:pl:loc:m3	nazwa geograficzna	
+Emilina	Emilin	subst:sg:gen:m3	nazwa geograficzna	
+Emilinami	Emilin	subst:pl:inst:m3	nazwa geograficzna	
+Emilinem	Emilin	subst:sg:inst:m3	nazwa geograficzna	
+Emilin	Emilin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Emilinie	Emilin	subst:sg:loc:m3	nazwa geograficzna	
+Emilinie	Emilin	subst:sg:voc:m3	nazwa geograficzna	
+Emilinom	Emilin	subst:pl:dat:m3	nazwa geograficzna	
+Emilinowi	Emilin	subst:sg:dat:m3	nazwa geograficzna	
+Emilinów	Emilin	subst:pl:gen:m3	nazwa geograficzna	
+Emiliny	Emilin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Emiliuszach	Emiliusz	subst:pl:loc:m1	imię	
 Emiliusza	Emiliusz	subst:sg:gen.acc:m1	imię	
 Emiliuszami	Emiliusz	subst:pl:inst:m1	imię	
@@ -2370,6 +2730,30 @@ Emilki	Emilka	subst:pl:nom.acc.voc:f	imię
 Emilki	Emilka	subst:sg:gen:f	imię	
 Emilko	Emilka	subst:sg:voc:f	imię	
 Emilkom	Emilka	subst:pl:dat:f	imię	
+Emilowach	Emilów	subst:pl:loc:m3	nazwa geograficzna	
+Emilowa	Emilów	subst:sg:gen:m3	nazwa geograficzna	
+Emilowami	Emilów	subst:pl:inst:m3	nazwa geograficzna	
+Emilowem	Emilów	subst:sg:inst:m3	nazwa geograficzna	
+Emilowie	Emilów	subst:sg:loc:m3	nazwa geograficzna	
+Emilowie	Emilów	subst:sg:voc:m3	nazwa geograficzna	
+Emilowom	Emilów	subst:pl:dat:m3	nazwa geograficzna	
+Emilowowi	Emilów	subst:sg:dat:m3	nazwa geograficzna	
+Emilowów	Emilów	subst:pl:gen:m3	nazwa geograficzna	
+Emilowu	Emilów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Emilowy	Emilów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Emilów	Emilów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Eminowach	Eminów	subst:pl:loc:m3	nazwa geograficzna	
+Eminowa	Eminów	subst:sg:gen:m3	nazwa geograficzna	
+Eminowami	Eminów	subst:pl:inst:m3	nazwa geograficzna	
+Eminowem	Eminów	subst:sg:inst:m3	nazwa geograficzna	
+Eminowie	Eminów	subst:sg:loc:m3	nazwa geograficzna	
+Eminowie	Eminów	subst:sg:voc:m3	nazwa geograficzna	
+Eminowom	Eminów	subst:pl:dat:m3	nazwa geograficzna	
+Eminowowi	Eminów	subst:sg:dat:m3	nazwa geograficzna	
+Eminowów	Eminów	subst:pl:gen:m3	nazwa geograficzna	
+Eminowu	Eminów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Eminowy	Eminów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Eminów	Eminów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Emmach	Emma	subst:pl:loc:f	imię	
 Emma	Emma	subst:sg:nom:f	imię	
 Emmami	Emma	subst:pl:inst:f	imię	
@@ -2381,6 +2765,41 @@ Emmo	Emma	subst:sg:voc:f	imię
 Emmom	Emma	subst:pl:dat:f	imię	
 Emmy	Emma	subst:pl:nom.acc.voc:f	imię	
 Emmy	Emma	subst:sg:gen:f	imię	
+Emolinek	Emolinek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Emolinkach	Emolinek	subst:pl:loc:m3	nazwa geograficzna	
+Emolinka	Emolinek	subst:sg:gen:m3	nazwa geograficzna	
+Emolinkami	Emolinek	subst:pl:inst:m3	nazwa geograficzna	
+Emolinkiem	Emolinek	subst:sg:inst:m3	nazwa geograficzna	
+Emolinki	Emolinek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Emolinkom	Emolinek	subst:pl:dat:m3	nazwa geograficzna	
+Emolinkowi	Emolinek	subst:sg:dat:m3	nazwa geograficzna	
+Emolinków	Emolinek	subst:pl:gen:m3	nazwa geograficzna	
+Emolinku	Emolinek	subst:sg:loc:m3	nazwa geograficzna	
+Emolinku	Emolinek	subst:sg:voc:m3	nazwa geograficzna	
+Emowach	Emowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Emowa	Emowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Emowa	Emowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Emowami	Emowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Emowem	Emowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Emow	Emowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Emowie	Emowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Emowo	Emowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Emowom	Emowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Emowów	Emowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Emowu	Emowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Emów	Emowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Emowach	Emów	subst:pl:loc:m3	nazwa geograficzna	
+Emowa	Emów	subst:sg:gen:m3	nazwa geograficzna	
+Emowami	Emów	subst:pl:inst:m3	nazwa geograficzna	
+Emowem	Emów	subst:sg:inst:m3	nazwa geograficzna	
+Emowie	Emów	subst:sg:loc:m3	nazwa geograficzna	
+Emowie	Emów	subst:sg:voc:m3	nazwa geograficzna	
+Emowom	Emów	subst:pl:dat:m3	nazwa geograficzna	
+Emowowi	Emów	subst:sg:dat:m3	nazwa geograficzna	
+Emowów	Emów	subst:pl:gen:m3	nazwa geograficzna	
+Emowu	Emów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Emowy	Emów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Emów	Emów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Empelach	Empel:s1	subst:pl:loc:m1	nazwisko	
 Empela	Empel:s1	subst:sg:gen.acc:m1	nazwisko	
 Empelami	Empel:s1	subst:pl:inst:m1	nazwisko	
@@ -2405,6 +2824,17 @@ Emplów	Empel:s1	subst:pl:gen.acc:m1	nazwisko
 Emplu	Empel:s1	subst:sg:loc:m1	nazwisko	
 Emplu	Empel:s1	subst:sg:voc:m1	nazwisko	
 Empel	Empel:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Emska	Emska	subst:sg:nom:f	człon nazwy geograficznej	
+Emska	Emska	subst:sg:voc:f	człon nazwy geograficznej	
+Emską	Emska	subst:sg:acc:f	człon nazwy geograficznej	
+Emską	Emska	subst:sg:inst:f	człon nazwy geograficznej	
+Emskich	Emska	subst:pl:gen:f	człon nazwy geograficznej	
+Emskich	Emska	subst:pl:loc:f	człon nazwy geograficznej	
+Emskie	Emska	subst:pl:nom.acc.voc:f	człon nazwy geograficznej	
+Emskiej	Emska	subst:sg:dat.loc:f	człon nazwy geograficznej	
+Emskiej	Emska	subst:sg:gen:f	człon nazwy geograficznej	
+Emskim	Emska	subst:pl:dat:f	człon nazwy geograficznej	
+Emskimi	Emska	subst:pl:inst:f	człon nazwy geograficznej	
 Enderach	Ender:s1	subst:pl:loc:m1	nazwisko	
 Endera	Ender:s1	subst:sg:gen.acc:m1	nazwisko	
 Enderami	Ender:s1	subst:pl:inst:m1	nazwisko	
@@ -2647,6 +3077,17 @@ Englotowi	Englot:s1	subst:sg:dat:m1	nazwisko
 Englotów	Englot:s1	subst:pl:gen.acc:m1	nazwisko	
 Engloty	Englot:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Englot	Englot:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Enklawach	Enklawa	subst:pl:loc:f	człon nazwy geograficznej	
+Enklawa	Enklawa	subst:sg:nom:f	człon nazwy geograficznej	
+Enklawami	Enklawa	subst:pl:inst:f	człon nazwy geograficznej	
+Enklawą	Enklawa	subst:sg:inst:f	człon nazwy geograficznej	
+Enklaw	Enklawa	subst:pl:gen:f	człon nazwy geograficznej	
+Enklawę	Enklawa	subst:sg:acc:f	człon nazwy geograficznej	
+Enklawie	Enklawa	subst:sg:dat.loc:f	człon nazwy geograficznej	
+Enklawo	Enklawa	subst:sg:voc:f	człon nazwy geograficznej	
+Enklawom	Enklawa	subst:pl:dat:f	człon nazwy geograficznej	
+Enklawy	Enklawa	subst:pl:nom.acc.voc:f	człon nazwy geograficznej	
+Enklawy	Enklawa	subst:sg:gen:f	człon nazwy geograficznej	
 En-lajach	En-laj	subst:pl:loc:m1	nazwisko	
 En-laja	En-laj	subst:sg:gen.acc:m1	nazwisko	
 En-lajami	En-laj	subst:pl:inst:m1	nazwisko	
@@ -2820,6 +3261,18 @@ Erazmo	Erazma	subst:sg:voc:f	imię
 Erazmom	Erazma	subst:pl:dat:f	imię	
 Erazmy	Erazma	subst:pl:nom.acc.voc:f	imię	
 Erazmy	Erazma	subst:sg:gen:f	imię	
+Erazmowach	Erazmów	subst:pl:loc:m3	nazwa geograficzna	
+Erazmowa	Erazmów	subst:sg:gen:m3	nazwa geograficzna	
+Erazmowami	Erazmów	subst:pl:inst:m3	nazwa geograficzna	
+Erazmowem	Erazmów	subst:sg:inst:m3	nazwa geograficzna	
+Erazmowie	Erazmów	subst:sg:loc:m3	nazwa geograficzna	
+Erazmowie	Erazmów	subst:sg:voc:m3	nazwa geograficzna	
+Erazmowom	Erazmów	subst:pl:dat:m3	nazwa geograficzna	
+Erazmowowi	Erazmów	subst:sg:dat:m3	nazwa geograficzna	
+Erazmowów	Erazmów	subst:pl:gen:m3	nazwa geograficzna	
+Erazmowu	Erazmów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Erazmowy	Erazmów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Erazmów	Erazmów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Erazmusach	Erazmus:s1	subst:pl:loc:m1	nazwisko	
 Erazmusa	Erazmus:s1	subst:sg:gen.acc:m1	nazwisko	
 Erazmusami	Erazmus:s1	subst:pl:inst:m1	nazwisko	
@@ -3115,6 +3568,18 @@ ERM-owi	ERM	subst:sg:dat:m3	nazwa pospolita
 ERM-ów	ERM	subst:pl:gen:m3	nazwa pospolita	
 ERM-u	ERM	subst:sg:gen:m3	nazwa pospolita	
 ERM-y	ERM	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+Erminowach	Erminów	subst:pl:loc:m3	nazwa geograficzna	
+Erminowa	Erminów	subst:sg:gen:m3	nazwa geograficzna	
+Erminowami	Erminów	subst:pl:inst:m3	nazwa geograficzna	
+Erminowem	Erminów	subst:sg:inst:m3	nazwa geograficzna	
+Erminowie	Erminów	subst:sg:loc:m3	nazwa geograficzna	
+Erminowie	Erminów	subst:sg:voc:m3	nazwa geograficzna	
+Erminowom	Erminów	subst:pl:dat:m3	nazwa geograficzna	
+Erminowowi	Erminów	subst:sg:dat:m3	nazwa geograficzna	
+Erminowów	Erminów	subst:pl:gen:m3	nazwa geograficzna	
+Erminowu	Erminów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Erminowy	Erminów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Erminów	Erminów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Ernestach	Ernesta	subst:pl:loc:f	imię	
 Ernesta	Ernesta	subst:sg:nom:f	imię	
 Ernestami	Ernesta	subst:pl:inst:f	imię	
@@ -3140,6 +3605,18 @@ Ernestowiczów	Ernestowicz:s1	subst:pl:gen.acc:m1	nazwisko
 Ernestowiczu	Ernestowicz:s1	subst:sg:loc:m1	nazwisko	
 Ernestowiczu	Ernestowicz:s1	subst:sg:voc:m1	nazwisko	
 Ernestowicz	Ernestowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Ernestowach	Ernestowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Ernestowa	Ernestowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Ernestowa	Ernestowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Ernestowami	Ernestowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Ernestowem	Ernestowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Ernestow	Ernestowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ernestowie	Ernestowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Ernestowo	Ernestowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Ernestowom	Ernestowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Ernestowów	Ernestowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ernestowu	Ernestowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Ernestów	Ernestowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Ernestach	Ernest:s1	subst:pl:loc:m1	imię	
 Ernesta	Ernest:s1	subst:sg:gen.acc:m1	imię	
 Ernestami	Ernest:s1	subst:pl:inst:m1	imię	
@@ -3189,6 +3666,18 @@ Ernestyno	Ernestyna	subst:sg:voc:f	imię
 Ernestynom	Ernestyna	subst:pl:dat:f	imię	
 Ernestyny	Ernestyna	subst:pl:nom.acc.voc:f	imię	
 Ernestyny	Ernestyna	subst:sg:gen:f	imię	
+Ernestynowach	Ernestynów	subst:pl:loc:m3	nazwa geograficzna	
+Ernestynowa	Ernestynów	subst:sg:gen:m3	nazwa geograficzna	
+Ernestynowami	Ernestynów	subst:pl:inst:m3	nazwa geograficzna	
+Ernestynowem	Ernestynów	subst:sg:inst:m3	nazwa geograficzna	
+Ernestynowie	Ernestynów	subst:sg:loc:m3	nazwa geograficzna	
+Ernestynowie	Ernestynów	subst:sg:voc:m3	nazwa geograficzna	
+Ernestynowom	Ernestynów	subst:pl:dat:m3	nazwa geograficzna	
+Ernestynowowi	Ernestynów	subst:sg:dat:m3	nazwa geograficzna	
+Ernestynowów	Ernestynów	subst:pl:gen:m3	nazwa geograficzna	
+Ernestynowu	Ernestynów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Ernestynowy	Ernestynów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Ernestynów	Ernestynów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Ernstach	Ernst:s2	subst:pl:loc:m1	nazwisko	
 Ernsta	Ernst:s2	subst:sg:gen.acc:m1	nazwisko	
 Ernstami	Ernst:s2	subst:pl:inst:m1	nazwisko	
@@ -3533,17 +4022,38 @@ Esterházym	Esterházy	subst:pl:dat:m1	nazwisko
 Esterházym	Esterházy	subst:sg:inst:m1	nazwisko	
 Esterházym	Esterházy	subst:sg:loc:m1	nazwisko	
 Esterházymi	Esterházy	subst:pl:inst:m1	nazwisko	
-Esterce	Esterka	subst:sg:dat.loc:f	imię	
-Esterek	Esterka	subst:pl:gen:f	imię	
-Esterkach	Esterka	subst:pl:loc:f	imię	
-Esterka	Esterka	subst:sg:nom:f	imię	
-Esterkami	Esterka	subst:pl:inst:f	imię	
-Esterką	Esterka	subst:sg:inst:f	imię	
-Esterkę	Esterka	subst:sg:acc:f	imię	
-Esterki	Esterka	subst:pl:nom.acc.voc:f	imię	
-Esterki	Esterka	subst:sg:gen:f	imię	
-Esterko	Esterka	subst:sg:voc:f	imię	
-Esterkom	Esterka	subst:pl:dat:f	imię	
+Esterce	Esterka:s1	subst:sg:dat.loc:f	imię	
+Esterek	Esterka:s1	subst:pl:gen:f	imię	
+Esterkach	Esterka:s1	subst:pl:loc:f	imię	
+Esterka	Esterka:s1	subst:sg:nom:f	imię	
+Esterkami	Esterka:s1	subst:pl:inst:f	imię	
+Esterką	Esterka:s1	subst:sg:inst:f	imię	
+Esterkę	Esterka:s1	subst:sg:acc:f	imię	
+Esterki	Esterka:s1	subst:pl:nom.acc.voc:f	imię	
+Esterki	Esterka:s1	subst:sg:gen:f	imię	
+Esterko	Esterka:s1	subst:sg:voc:f	imię	
+Esterkom	Esterka:s1	subst:pl:dat:f	imię	
+Esterce	Esterka:s2	subst:sg:dat.loc:f	nazwa geograficzna	
+Esterek	Esterka:s2	subst:pl:gen:f	nazwa geograficzna	
+Esterkach	Esterka:s2	subst:pl:loc:f	nazwa geograficzna	
+Esterka	Esterka:s2	subst:sg:nom:f	nazwa geograficzna	
+Esterkami	Esterka:s2	subst:pl:inst:f	nazwa geograficzna	
+Esterką	Esterka:s2	subst:sg:inst:f	nazwa geograficzna	
+Esterkę	Esterka:s2	subst:sg:acc:f	nazwa geograficzna	
+Esterki	Esterka:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Esterki	Esterka:s2	subst:sg:gen:f	nazwa geograficzna	
+Esterko	Esterka:s2	subst:sg:voc:f	nazwa geograficzna	
+Esterkom	Esterka:s2	subst:pl:dat:f	nazwa geograficzna	
+Esterpolach	Esterpole	subst:pl:loc:n:ncol	nazwa geograficzna	
+Esterpola	Esterpole	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Esterpola	Esterpole	subst:sg:gen:n:ncol	nazwa geograficzna	
+Esterpolami	Esterpole	subst:pl:inst:n:ncol	nazwa geograficzna	
+Esterpole	Esterpole	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Esterpolem	Esterpole	subst:sg:inst:n:ncol	nazwa geograficzna	
+Esterpoli	Esterpole	subst:pl:gen:n:ncol	nazwa geograficzna	
+Esterpolom	Esterpole	subst:pl:dat:n:ncol	nazwa geograficzna	
+Esterpolu	Esterpole	subst:sg:dat:n:ncol	nazwa geograficzna	
+Esterpolu	Esterpole	subst:sg:loc:n:ncol	nazwa geograficzna	
 Estkowska	Estkowska	subst:sg:nom:f	nazwisko	
 Estkowska	Estkowska	subst:sg:voc:f	nazwisko	
 Estkowską	Estkowska	subst:sg:acc:f	nazwisko	
@@ -3833,18 +4343,42 @@ Eudoksjuszów	Eudoksjusz	subst:pl:gen.acc:m1	imię
 Eudoksjuszu	Eudoksjusz	subst:sg:loc:m1	imię	
 Eudoksjuszu	Eudoksjusz	subst:sg:voc:m1	imię	
 Eudoksjuszy	Eudoksjusz	subst:pl:gen.acc:m1	imię	
-Eufemiach	Eufemia	subst:pl:loc:f	imię	
-Eufemia	Eufemia	subst:sg:nom:f	imię	
-Eufemiami	Eufemia	subst:pl:inst:f	imię	
-Eufemią	Eufemia	subst:sg:inst:f	imię	
-Eufemie	Eufemia	subst:pl:nom.acc.voc:f	imię	
-Eufemię	Eufemia	subst:sg:acc:f	imię	
-Eufemii	Eufemia	subst:pl:gen:f	imię	hom.
-Eufemii	Eufemia	subst:sg:dat.loc:f	imię	
-Eufemii	Eufemia	subst:sg:gen:f	imię	
-Eufemij	Eufemia	subst:pl:gen:f	imię	arch.|char.
-Eufemio	Eufemia	subst:sg:voc:f	imię	
-Eufemiom	Eufemia	subst:pl:dat:f	imię	
+Eufemiach	Eufemia:s1	subst:pl:loc:f	imię	
+Eufemia	Eufemia:s1	subst:sg:nom:f	imię	
+Eufemiami	Eufemia:s1	subst:pl:inst:f	imię	
+Eufemią	Eufemia:s1	subst:sg:inst:f	imię	
+Eufemie	Eufemia:s1	subst:pl:nom.acc.voc:f	imię	
+Eufemię	Eufemia:s1	subst:sg:acc:f	imię	
+Eufemii	Eufemia:s1	subst:pl:gen:f	imię	hom.
+Eufemii	Eufemia:s1	subst:sg:dat.loc:f	imię	
+Eufemii	Eufemia:s1	subst:sg:gen:f	imię	
+Eufemij	Eufemia:s1	subst:pl:gen:f	imię	arch.|char.
+Eufemio	Eufemia:s1	subst:sg:voc:f	imię	
+Eufemiom	Eufemia:s1	subst:pl:dat:f	imię	
+Eufemiach	Eufemia:s2	subst:pl:loc:f	nazwa geograficzna	
+Eufemia	Eufemia:s2	subst:sg:nom:f	nazwa geograficzna	
+Eufemiami	Eufemia:s2	subst:pl:inst:f	nazwa geograficzna	
+Eufemią	Eufemia:s2	subst:sg:inst:f	nazwa geograficzna	
+Eufemie	Eufemia:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Eufemię	Eufemia:s2	subst:sg:acc:f	nazwa geograficzna	
+Eufemii	Eufemia:s2	subst:pl:gen:f	nazwa geograficzna	hom.
+Eufemii	Eufemia:s2	subst:sg:dat.loc:f	nazwa geograficzna	
+Eufemii	Eufemia:s2	subst:sg:gen:f	nazwa geograficzna	
+Eufemij	Eufemia:s2	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+Eufemio	Eufemia:s2	subst:sg:voc:f	nazwa geograficzna	
+Eufemiom	Eufemia:s2	subst:pl:dat:f	nazwa geograficzna	
+Eufeminowach	Eufeminów	subst:pl:loc:m3	nazwa geograficzna	
+Eufeminowa	Eufeminów	subst:sg:gen:m3	nazwa geograficzna	
+Eufeminowami	Eufeminów	subst:pl:inst:m3	nazwa geograficzna	
+Eufeminowem	Eufeminów	subst:sg:inst:m3	nazwa geograficzna	
+Eufeminowie	Eufeminów	subst:sg:loc:m3	nazwa geograficzna	
+Eufeminowie	Eufeminów	subst:sg:voc:m3	nazwa geograficzna	
+Eufeminowom	Eufeminów	subst:pl:dat:m3	nazwa geograficzna	
+Eufeminowowi	Eufeminów	subst:sg:dat:m3	nazwa geograficzna	
+Eufeminowów	Eufeminów	subst:pl:gen:m3	nazwa geograficzna	
+Eufeminowu	Eufeminów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Eufeminowy	Eufeminów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Eufeminów	Eufeminów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Eufracie	Eufrat	subst:sg:loc:m3	nazwa geograficzna	
 Eufracie	Eufrat	subst:sg:voc:m3	nazwa geograficzna	
 Eufratach	Eufrat	subst:pl:loc:m3	nazwa geograficzna	
@@ -3891,6 +4425,18 @@ Eugenii	Eugenia	subst:sg:gen:f	imię
 Eugenij	Eugenia	subst:pl:gen:f	imię	arch.|char.
 Eugenio	Eugenia	subst:sg:voc:f	imię	
 Eugeniom	Eugenia	subst:pl:dat:f	imię	
+Eugeniowach	Eugeniów	subst:pl:loc:m3	nazwa geograficzna	
+Eugeniowa	Eugeniów	subst:sg:gen:m3	nazwa geograficzna	
+Eugeniowami	Eugeniów	subst:pl:inst:m3	nazwa geograficzna	
+Eugeniowem	Eugeniów	subst:sg:inst:m3	nazwa geograficzna	
+Eugeniowie	Eugeniów	subst:sg:loc:m3	nazwa geograficzna	
+Eugeniowie	Eugeniów	subst:sg:voc:m3	nazwa geograficzna	
+Eugeniowom	Eugeniów	subst:pl:dat:m3	nazwa geograficzna	
+Eugeniowowi	Eugeniów	subst:sg:dat:m3	nazwa geograficzna	
+Eugeniowów	Eugeniów	subst:pl:gen:m3	nazwa geograficzna	
+Eugeniowu	Eugeniów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Eugeniowy	Eugeniów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Eugeniów	Eugeniów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Eugeniuszach	Eugeniusz	subst:pl:loc:m1	imię	
 Eugeniusza	Eugeniusz	subst:sg:gen.acc:m1	imię	
 Eugeniuszami	Eugeniusz	subst:pl:inst:m1	imię	
@@ -4085,6 +4631,18 @@ Eustachiuszowi	Eustachiusz	subst:sg:dat:m1	imię
 Eustachiuszów	Eustachiusz	subst:pl:gen.acc:m1	imię	
 Eustachiuszu	Eustachiusz	subst:sg:loc:m1	imię	
 Eustachiuszu	Eustachiusz	subst:sg:voc:m1	imię	
+Eustachowach	Eustachów	subst:pl:loc:m3	nazwa geograficzna	
+Eustachowa	Eustachów	subst:sg:gen:m3	nazwa geograficzna	
+Eustachowami	Eustachów	subst:pl:inst:m3	nazwa geograficzna	
+Eustachowem	Eustachów	subst:sg:inst:m3	nazwa geograficzna	
+Eustachowie	Eustachów	subst:sg:loc:m3	nazwa geograficzna	
+Eustachowie	Eustachów	subst:sg:voc:m3	nazwa geograficzna	
+Eustachowom	Eustachów	subst:pl:dat:m3	nazwa geograficzna	
+Eustachowowi	Eustachów	subst:sg:dat:m3	nazwa geograficzna	
+Eustachowów	Eustachów	subst:pl:gen:m3	nazwa geograficzna	
+Eustachowu	Eustachów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Eustachowy	Eustachów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Eustachów	Eustachów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Eustache	Eustachy	depr:pl:nom.acc.voc:m2	imię	
 Eustachego	Eustachy	subst:sg:gen.acc:m1	imię	
 Eustachemu	Eustachy	subst:sg:dat:m1	imię	
@@ -4218,6 +4776,17 @@ Ewcię	Ewcia	subst:sg:acc:f	imię
 Ewciom	Ewcia	subst:pl:dat:f	imię	
 Ewciu	Ewcia	subst:sg:voc:f	imię	
 Ewć	Ewcia	subst:pl:gen:f	imię	char.
+Ewcinach	Ewcin	subst:pl:loc:m3	nazwa geograficzna	
+Ewcina	Ewcin	subst:sg:gen:m3	nazwa geograficzna	
+Ewcinami	Ewcin	subst:pl:inst:m3	nazwa geograficzna	
+Ewcinem	Ewcin	subst:sg:inst:m3	nazwa geograficzna	
+Ewcin	Ewcin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Ewcinie	Ewcin	subst:sg:loc:m3	nazwa geograficzna	
+Ewcinie	Ewcin	subst:sg:voc:m3	nazwa geograficzna	
+Ewcinom	Ewcin	subst:pl:dat:m3	nazwa geograficzna	
+Ewcinowi	Ewcin	subst:sg:dat:m3	nazwa geograficzna	
+Ewcinów	Ewcin	subst:pl:gen:m3	nazwa geograficzna	
+Ewciny	Ewcin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Ewdokiach	Ewdokia	subst:pl:loc:f	imię	
 Ewdokia	Ewdokia	subst:sg:nom:f	imię	
 Ewdokiami	Ewdokia	subst:pl:inst:f	imię	
@@ -4230,19 +4799,6 @@ Ewdokii	Ewdokia	subst:sg:gen:f	imię
 Ewdokij	Ewdokia	subst:pl:gen:f	imię	arch.|char.
 Ewdokio	Ewdokia	subst:sg:voc:f	imię	
 Ewdokiom	Ewdokia	subst:pl:dat:f	imię	
-Ewelinach	Ewelin	subst:pl:loc:m1	imię	
-Ewelina	Ewelin	subst:sg:gen.acc:m1	imię	
-Ewelinami	Ewelin	subst:pl:inst:m1	imię	
-Ewelinem	Ewelin	subst:sg:inst:m1	imię	
-Ewelin	Ewelin	subst:sg:nom:m1	imię	
-Ewelinie	Ewelin	subst:sg:loc:m1	imię	
-Ewelinie	Ewelin	subst:sg:voc:m1	imię	
-Ewelini	Ewelin	subst:pl:nom.voc:m1	imię	
-Ewelinom	Ewelin	subst:pl:dat:m1	imię	
-Ewelinowie	Ewelin	subst:pl:nom.voc:m1	imię	
-Ewelinowi	Ewelin	subst:sg:dat:m1	imię	
-Ewelinów	Ewelin	subst:pl:gen.acc:m1	imię	
-Eweliny	Ewelin	depr:pl:nom.acc.voc:m2	imię	
 Ewelinach	Ewelina	subst:pl:loc:f	imię	
 Ewelina	Ewelina	subst:sg:nom:f	imię	
 Ewelinami	Ewelina	subst:pl:inst:f	imię	
@@ -4254,6 +4810,42 @@ Ewelino	Ewelina	subst:sg:voc:f	imię
 Ewelinom	Ewelina	subst:pl:dat:f	imię	
 Eweliny	Ewelina	subst:pl:nom.acc.voc:f	imię	
 Eweliny	Ewelina	subst:sg:gen:f	imię	
+Ewelinowach	Ewelinów	subst:pl:loc:m3	nazwa geograficzna	
+Ewelinowa	Ewelinów	subst:sg:gen:m3	nazwa geograficzna	
+Ewelinowami	Ewelinów	subst:pl:inst:m3	nazwa geograficzna	
+Ewelinowem	Ewelinów	subst:sg:inst:m3	nazwa geograficzna	
+Ewelinowie	Ewelinów	subst:sg:loc:m3	nazwa geograficzna	
+Ewelinowie	Ewelinów	subst:sg:voc:m3	nazwa geograficzna	
+Ewelinowom	Ewelinów	subst:pl:dat:m3	nazwa geograficzna	
+Ewelinowowi	Ewelinów	subst:sg:dat:m3	nazwa geograficzna	
+Ewelinowów	Ewelinów	subst:pl:gen:m3	nazwa geograficzna	
+Ewelinowu	Ewelinów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Ewelinowy	Ewelinów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Ewelinów	Ewelinów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Ewelinach	Ewelin:s1	subst:pl:loc:m1	imię	
+Ewelina	Ewelin:s1	subst:sg:gen.acc:m1	imię	
+Ewelinami	Ewelin:s1	subst:pl:inst:m1	imię	
+Ewelinem	Ewelin:s1	subst:sg:inst:m1	imię	
+Ewelin	Ewelin:s1	subst:sg:nom:m1	imię	
+Ewelinie	Ewelin:s1	subst:sg:loc:m1	imię	
+Ewelinie	Ewelin:s1	subst:sg:voc:m1	imię	
+Ewelini	Ewelin:s1	subst:pl:nom.voc:m1	imię	
+Ewelinom	Ewelin:s1	subst:pl:dat:m1	imię	
+Ewelinowie	Ewelin:s1	subst:pl:nom.voc:m1	imię	
+Ewelinowi	Ewelin:s1	subst:sg:dat:m1	imię	
+Ewelinów	Ewelin:s1	subst:pl:gen.acc:m1	imię	
+Eweliny	Ewelin:s1	depr:pl:nom.acc.voc:m2	imię	
+Ewelinach	Ewelin:s2	subst:pl:loc:m3	nazwa geograficzna	
+Ewelina	Ewelin:s2	subst:sg:gen:m3	nazwa geograficzna	
+Ewelinami	Ewelin:s2	subst:pl:inst:m3	nazwa geograficzna	
+Ewelinem	Ewelin:s2	subst:sg:inst:m3	nazwa geograficzna	
+Ewelin	Ewelin:s2	subst:sg:nom.acc:m3	nazwa geograficzna	
+Ewelinie	Ewelin:s2	subst:sg:loc:m3	nazwa geograficzna	
+Ewelinie	Ewelin:s2	subst:sg:voc:m3	nazwa geograficzna	
+Ewelinom	Ewelin:s2	subst:pl:dat:m3	nazwa geograficzna	
+Ewelinowi	Ewelin:s2	subst:sg:dat:m3	nazwa geograficzna	
+Ewelinów	Ewelin:s2	subst:pl:gen:m3	nazwa geograficzna	
+Eweliny	Ewelin:s2	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Ewertowska	Ewertowska	subst:sg:nom:f	nazwisko	
 Ewertowska	Ewertowska	subst:sg:voc:f	nazwisko	
 Ewertowską	Ewertowska	subst:sg:acc:f	nazwisko	
@@ -4317,6 +4909,29 @@ Ewiaków	Ewiak:s1	subst:pl:gen.acc:m1	nazwisko
 Ewiaku	Ewiak:s1	subst:sg:loc:m1	nazwisko	
 Ewiaku	Ewiak:s1	subst:sg:voc:m1	nazwisko	
 Ewiak	Ewiak:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Ewinach	Ewina	subst:pl:loc:f	nazwa geograficzna	
+Ewina	Ewina	subst:sg:nom:f	nazwa geograficzna	
+Ewinami	Ewina	subst:pl:inst:f	nazwa geograficzna	
+Ewiną	Ewina	subst:sg:inst:f	nazwa geograficzna	
+Ewin	Ewina	subst:pl:gen:f	nazwa geograficzna	
+Ewinę	Ewina	subst:sg:acc:f	nazwa geograficzna	
+Ewinie	Ewina	subst:sg:dat.loc:f	nazwa geograficzna	
+Ewino	Ewina	subst:sg:voc:f	nazwa geograficzna	
+Ewinom	Ewina	subst:pl:dat:f	nazwa geograficzna	
+Ewiny	Ewina	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Ewiny	Ewina	subst:sg:gen:f	nazwa geograficzna	
+Ewinowach	Ewinów	subst:pl:loc:m3	nazwa geograficzna	
+Ewinowa	Ewinów	subst:sg:gen:m3	nazwa geograficzna	
+Ewinowami	Ewinów	subst:pl:inst:m3	nazwa geograficzna	
+Ewinowem	Ewinów	subst:sg:inst:m3	nazwa geograficzna	
+Ewinowie	Ewinów	subst:sg:loc:m3	nazwa geograficzna	
+Ewinowie	Ewinów	subst:sg:voc:m3	nazwa geograficzna	
+Ewinowom	Ewinów	subst:pl:dat:m3	nazwa geograficzna	
+Ewinowowi	Ewinów	subst:sg:dat:m3	nazwa geograficzna	
+Ewinowów	Ewinów	subst:pl:gen:m3	nazwa geograficzna	
+Ewinowu	Ewinów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Ewinowy	Ewinów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Ewinów	Ewinów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Ewce	Ewka	subst:sg:dat.loc:f	imię	
 Ewek	Ewka	subst:pl:gen:f	imię	
 Ewkach	Ewka	subst:pl:loc:f	imię	
@@ -4340,6 +4955,16 @@ Ewodii	Ewodia	subst:sg:gen:f	imię
 Ewodio	Ewodia	subst:sg:voc:f	imię	
 Ewodiom	Ewodia	subst:pl:dat:f	imię	
 Ewodyj	Ewodia	subst:pl:gen:f	imię	arch.|char.
+Ewopolach	Ewopole	subst:pl:loc:n:ncol	nazwa geograficzna	
+Ewopola	Ewopole	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Ewopola	Ewopole	subst:sg:gen:n:ncol	nazwa geograficzna	
+Ewopolami	Ewopole	subst:pl:inst:n:ncol	nazwa geograficzna	
+Ewopole	Ewopole	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Ewopolem	Ewopole	subst:sg:inst:n:ncol	nazwa geograficzna	
+Ewopoli	Ewopole	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ewopolom	Ewopole	subst:pl:dat:n:ncol	nazwa geograficzna	
+Ewopolu	Ewopole	subst:sg:dat:n:ncol	nazwa geograficzna	
+Ewopolu	Ewopole	subst:sg:loc:n:ncol	nazwa geograficzna	
 Ewuniach	Ewunia	subst:pl:loc:f	imię	
 Ewunia	Ewunia	subst:sg:nom:f	imię	
 Ewuniami	Ewunia	subst:pl:inst:f	imię	
@@ -4352,6 +4977,17 @@ Ewunię	Ewunia	subst:sg:acc:f	imię
 Ewuniom	Ewunia	subst:pl:dat:f	imię	
 Ewuniu	Ewunia	subst:sg:voc:f	imię	
 Ewuń	Ewunia	subst:pl:gen:f	imię	char.
+Ewuninach	Ewunin	subst:pl:loc:m3	nazwa geograficzna	
+Ewunina	Ewunin	subst:sg:gen:m3	nazwa geograficzna	
+Ewuninami	Ewunin	subst:pl:inst:m3	nazwa geograficzna	
+Ewuninem	Ewunin	subst:sg:inst:m3	nazwa geograficzna	
+Ewunin	Ewunin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Ewuninie	Ewunin	subst:sg:loc:m3	nazwa geograficzna	
+Ewuninie	Ewunin	subst:sg:voc:m3	nazwa geograficzna	
+Ewuninom	Ewunin	subst:pl:dat:m3	nazwa geograficzna	
+Ewuninowi	Ewunin	subst:sg:dat:m3	nazwa geograficzna	
+Ewuninów	Ewunin	subst:pl:gen:m3	nazwa geograficzna	
+Ewuniny	Ewunin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Ewusiach	Ewusia	subst:pl:loc:f	imię	
 Ewusia	Ewusia	subst:sg:nom:f	imię	
 Ewusiami	Ewusia	subst:pl:inst:f	imię	
@@ -4364,6 +5000,16 @@ Ewusię	Ewusia	subst:sg:acc:f	imię
 Ewusiom	Ewusia	subst:pl:dat:f	imię	
 Ewusiu	Ewusia	subst:sg:voc:f	imię	
 Ewuś	Ewusia	subst:pl:gen:f	imię	char.
+Ewach	Ewy	subst:pl:loc:n:pt	nazwa geograficzna	
+Ewach	Ewy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ewami	Ewy	subst:pl:inst:n:pt	nazwa geograficzna	
+Ewami	Ewy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ew	Ewy	subst:pl:gen:n:pt	nazwa geograficzna	
+Ew	Ewy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Ewom	Ewy	subst:pl:dat:n:pt	nazwa geograficzna	
+Ewom	Ewy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ewy	Ewy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Ewy	Ewy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Exbudach	Exbud	subst:pl:loc:m3	nazwa firmy	
 Exbudami	Exbud	subst:pl:inst:m3	nazwa firmy	
 Exbudem	Exbud	subst:sg:inst:m3	nazwa firmy	

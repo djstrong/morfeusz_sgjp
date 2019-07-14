@@ -481,6 +481,29 @@ haczkowi	haczek	subst:sg:dat:m3	nazwa pospolita	daw.
 haczków	haczek	subst:pl:gen:m3	nazwa pospolita	daw.
 haczku	haczek	subst:sg:loc:m3	nazwa pospolita	daw.
 haczku	haczek	subst:sg:voc:m3	nazwa pospolita	daw.
+haczowianach	haczowianin	subst:pl:loc:m1	nazwa pospolita	
+haczowianami	haczowianin	subst:pl:inst:m1	nazwa pospolita	
+haczowian	haczowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+haczowianie	haczowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+haczowianina	haczowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+haczowianinem	haczowianin	subst:sg:inst:m1	nazwa pospolita	
+haczowianin	haczowianin	subst:sg:nom:m1	nazwa pospolita	
+haczowianinie	haczowianin	subst:sg:loc:m1	nazwa pospolita	
+haczowianinie	haczowianin	subst:sg:voc:m1	nazwa pospolita	
+haczowianinowi	haczowianin	subst:sg:dat:m1	nazwa pospolita	
+haczowianom	haczowianin	subst:pl:dat:m1	nazwa pospolita	
+haczowiany	haczowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+haczowiance	haczowianka	subst:sg:dat.loc:f	nazwa pospolita	
+haczowianek	haczowianka	subst:pl:gen:f	nazwa pospolita	
+haczowiankach	haczowianka	subst:pl:loc:f	nazwa pospolita	
+haczowianka	haczowianka	subst:sg:nom:f	nazwa pospolita	
+haczowiankami	haczowianka	subst:pl:inst:f	nazwa pospolita	
+haczowianką	haczowianka	subst:sg:inst:f	nazwa pospolita	
+haczowiankę	haczowianka	subst:sg:acc:f	nazwa pospolita	
+haczowianki	haczowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+haczowianki	haczowianka	subst:sg:gen:f	nazwa pospolita	
+haczowianko	haczowianka	subst:sg:voc:f	nazwa pospolita	
+haczowiankom	haczowianka	subst:pl:dat:f	nazwa pospolita	
 haczowscy	haczowski	adj:pl:nom.voc:m1:pos		
 haczowska	haczowski	adj:sg:nom.voc:f:pos		
 haczowską	haczowski	adj:sg:acc:f:pos		
@@ -2124,6 +2147,54 @@ hajnowskości	hajnowskość	subst:sg:voc:f	nazwa pospolita
 hajnowskościom	hajnowskość	subst:pl:dat:f	nazwa pospolita	
 hajnowskość	hajnowskość	subst:sg:acc:f	nazwa pospolita	
 hajnowskość	hajnowskość	subst:sg:nom:f	nazwa pospolita	
+hajnówczanach	hajnówczanin	subst:pl:loc:m1	nazwa pospolita	
+hajnówczanami	hajnówczanin	subst:pl:inst:m1	nazwa pospolita	
+hajnówczan	hajnówczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+hajnówczanie	hajnówczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+hajnówczanina	hajnówczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+hajnówczaninem	hajnówczanin	subst:sg:inst:m1	nazwa pospolita	
+hajnówczanin	hajnówczanin	subst:sg:nom:m1	nazwa pospolita	
+hajnówczaninie	hajnówczanin	subst:sg:loc:m1	nazwa pospolita	
+hajnówczaninie	hajnówczanin	subst:sg:voc:m1	nazwa pospolita	
+hajnówczaninowi	hajnówczanin	subst:sg:dat:m1	nazwa pospolita	
+hajnówczanom	hajnówczanin	subst:pl:dat:m1	nazwa pospolita	
+hajnówczany	hajnówczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+hajnówczance	hajnówczanka	subst:sg:dat.loc:f	nazwa pospolita	
+hajnówczanek	hajnówczanka	subst:pl:gen:f	nazwa pospolita	
+hajnówczankach	hajnówczanka	subst:pl:loc:f	nazwa pospolita	
+hajnówczanka	hajnówczanka	subst:sg:nom:f	nazwa pospolita	
+hajnówczankami	hajnówczanka	subst:pl:inst:f	nazwa pospolita	
+hajnówczanką	hajnówczanka	subst:sg:inst:f	nazwa pospolita	
+hajnówczankę	hajnówczanka	subst:sg:acc:f	nazwa pospolita	
+hajnówczanki	hajnówczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+hajnówczanki	hajnówczanka	subst:sg:gen:f	nazwa pospolita	
+hajnówczanko	hajnówczanka	subst:sg:voc:f	nazwa pospolita	
+hajnówczankom	hajnówczanka	subst:pl:dat:f	nazwa pospolita	
+hajnóweccy	hajnówecki	adj:pl:nom.voc:m1:pos		
+hajnówecka	hajnówecki	adj:sg:nom.voc:f:pos		
+hajnówecką	hajnówecki	adj:sg:acc:f:pos		
+hajnówecką	hajnówecki	adj:sg:inst:f:pos		
+hajnóweckich	hajnówecki	adj:pl:acc:m1:pos		
+hajnóweckich	hajnówecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+hajnóweckich	hajnówecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+hajnóweckiego	hajnówecki	adj:sg:acc:m1.m2:pos		
+hajnóweckiego	hajnówecki	adj:sg:gen:m1.m2.m3.n:pos		
+hajnóweckie	hajnówecki	adj:pl:acc:m2.m3.f.n:pos		
+hajnóweckie	hajnówecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+hajnóweckie	hajnówecki	adj:sg:acc:n:pos		
+hajnóweckie	hajnówecki	adj:sg:nom.voc:n:pos		
+hajnóweckiej	hajnówecki	adj:sg:dat:f:pos		
+hajnóweckiej	hajnówecki	adj:sg:gen:f:pos		
+hajnóweckiej	hajnówecki	adj:sg:loc:f:pos		
+hajnóweckiemu	hajnówecki	adj:sg:dat:m1.m2.m3.n:pos		
+hajnówecki	hajnówecki	adj:sg:acc:m3:pos		
+hajnówecki	hajnówecki	adj:sg:nom.voc:m1.m2.m3:pos		
+hajnóweckim	hajnówecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+hajnóweckim	hajnówecki	adj:sg:inst:m1.m2.m3.n:pos		
+hajnóweckim	hajnówecki	adj:sg:loc:m1.m2.m3.n:pos		
+hajnóweckimi	hajnówecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+hajnówecko	hajnówecki	adja		
+hajnówecku	hajnówecki	adjp:dat		
 hajsach	hajs	subst:pl:loc:m3	nazwa pospolita	pot.
 hajsami	hajs	subst:pl:inst:m3	nazwa pospolita	pot.
 hajsem	hajs	subst:sg:inst:m3	nazwa pospolita	pot.
@@ -3152,6 +3223,29 @@ halimetru	halimetr	subst:sg:gen:m3	nazwa pospolita
 halimetry	halimetr	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 halimetrze	halimetr	subst:sg:loc:m3	nazwa pospolita	
 halimetrze	halimetr	subst:sg:voc:m3	nazwa pospolita	
+halinowianach	halinowianin	subst:pl:loc:m1	nazwa pospolita	
+halinowianami	halinowianin	subst:pl:inst:m1	nazwa pospolita	
+halinowian	halinowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+halinowianie	halinowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+halinowianina	halinowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+halinowianinem	halinowianin	subst:sg:inst:m1	nazwa pospolita	
+halinowianin	halinowianin	subst:sg:nom:m1	nazwa pospolita	
+halinowianinie	halinowianin	subst:sg:loc:m1	nazwa pospolita	
+halinowianinie	halinowianin	subst:sg:voc:m1	nazwa pospolita	
+halinowianinowi	halinowianin	subst:sg:dat:m1	nazwa pospolita	
+halinowianom	halinowianin	subst:pl:dat:m1	nazwa pospolita	
+halinowiany	halinowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+halinowiance	halinowianka	subst:sg:dat.loc:f	nazwa pospolita	
+halinowianek	halinowianka	subst:pl:gen:f	nazwa pospolita	
+halinowiankach	halinowianka	subst:pl:loc:f	nazwa pospolita	
+halinowianka	halinowianka	subst:sg:nom:f	nazwa pospolita	
+halinowiankami	halinowianka	subst:pl:inst:f	nazwa pospolita	
+halinowianką	halinowianka	subst:sg:inst:f	nazwa pospolita	
+halinowiankę	halinowianka	subst:sg:acc:f	nazwa pospolita	
+halinowianki	halinowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+halinowianki	halinowianka	subst:sg:gen:f	nazwa pospolita	
+halinowianko	halinowianka	subst:sg:voc:f	nazwa pospolita	
+halinowiankom	halinowianka	subst:pl:dat:f	nazwa pospolita	
 halinowscy	halinowski	adj:pl:nom.voc:m1:pos		
 halinowska	halinowski	adj:sg:nom.voc:f:pos		
 halinowską	halinowski	adj:sg:acc:f:pos		
@@ -6608,6 +6702,54 @@ haniebnym	haniebny	adj:pl:dat:m1.m2.m3.f.n:pos
 haniebnym	haniebny	adj:sg:inst:m1.m2.m3.n:pos		
 haniebnym	haniebny	adj:sg:loc:m1.m2.m3.n:pos		
 haniebnymi	haniebny	adj:pl:inst:m1.m2.m3.f.n:pos		
+hanieńscy	hanieński	adj:pl:nom.voc:m1:pos		
+hanieńska	hanieński	adj:sg:nom.voc:f:pos		
+hanieńską	hanieński	adj:sg:acc:f:pos		
+hanieńską	hanieński	adj:sg:inst:f:pos		
+hanieńskich	hanieński	adj:pl:acc:m1:pos		
+hanieńskich	hanieński	adj:pl:gen:m1.m2.m3.f.n:pos		
+hanieńskich	hanieński	adj:pl:loc:m1.m2.m3.f.n:pos		
+hanieńskiego	hanieński	adj:sg:acc:m1.m2:pos		
+hanieńskiego	hanieński	adj:sg:gen:m1.m2.m3.n:pos		
+hanieńskie	hanieński	adj:pl:acc:m2.m3.f.n:pos		
+hanieńskie	hanieński	adj:pl:nom.voc:m2.m3.f.n:pos		
+hanieńskie	hanieński	adj:sg:acc:n:pos		
+hanieńskie	hanieński	adj:sg:nom.voc:n:pos		
+hanieńskiej	hanieński	adj:sg:dat:f:pos		
+hanieńskiej	hanieński	adj:sg:gen:f:pos		
+hanieńskiej	hanieński	adj:sg:loc:f:pos		
+hanieńskiemu	hanieński	adj:sg:dat:m1.m2.m3.n:pos		
+hanieński	hanieński	adj:sg:acc:m3:pos		
+hanieński	hanieński	adj:sg:nom.voc:m1.m2.m3:pos		
+hanieńskim	hanieński	adj:pl:dat:m1.m2.m3.f.n:pos		
+hanieńskim	hanieński	adj:sg:inst:m1.m2.m3.n:pos		
+hanieńskim	hanieński	adj:sg:loc:m1.m2.m3.n:pos		
+hanieńskimi	hanieński	adj:pl:inst:m1.m2.m3.f.n:pos		
+hanieńsko	hanieński	adja		
+hanieńsku	hanieński	adjp:dat		
+hannianach	hannianin	subst:pl:loc:m1	nazwa pospolita	
+hannianami	hannianin	subst:pl:inst:m1	nazwa pospolita	
+hannian	hannianin	subst:pl:gen.acc:m1	nazwa pospolita	
+hannianie	hannianin	subst:pl:nom.voc:m1	nazwa pospolita	
+hannianina	hannianin	subst:sg:gen.acc:m1	nazwa pospolita	
+hannianinem	hannianin	subst:sg:inst:m1	nazwa pospolita	
+hannianin	hannianin	subst:sg:nom:m1	nazwa pospolita	
+hannianinie	hannianin	subst:sg:loc:m1	nazwa pospolita	
+hannianinie	hannianin	subst:sg:voc:m1	nazwa pospolita	
+hannianinowi	hannianin	subst:sg:dat:m1	nazwa pospolita	
+hannianom	hannianin	subst:pl:dat:m1	nazwa pospolita	
+hanniany	hannianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+hanniance	hannianka	subst:sg:dat.loc:f	nazwa pospolita	
+hannianek	hannianka	subst:pl:gen:f	nazwa pospolita	
+hanniankach	hannianka	subst:pl:loc:f	nazwa pospolita	
+hannianka	hannianka	subst:sg:nom:f	nazwa pospolita	
+hanniankami	hannianka	subst:pl:inst:f	nazwa pospolita	
+hannianką	hannianka	subst:sg:inst:f	nazwa pospolita	
+hanniankę	hannianka	subst:sg:acc:f	nazwa pospolita	
+hannianki	hannianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+hannianki	hannianka	subst:sg:gen:f	nazwa pospolita	
+hannianko	hannianka	subst:sg:voc:f	nazwa pospolita	
+hanniankom	hannianka	subst:pl:dat:f	nazwa pospolita	
 hannińscy	hanniński	adj:pl:nom.voc:m1:pos		
 hannińska	hanniński	adj:sg:nom.voc:f:pos		
 hannińską	hanniński	adj:sg:acc:f:pos		
@@ -7664,6 +7806,54 @@ harasowi	haras	subst:sg:dat:m3	nazwa pospolita
 harasów	haras	subst:pl:gen:m3	nazwa pospolita	
 harasu	haras	subst:sg:gen:m3	nazwa pospolita	
 harasy	haras	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+harasiuccy	harasiucki	adj:pl:nom.voc:m1:pos		
+harasiucka	harasiucki	adj:sg:nom.voc:f:pos		
+harasiucką	harasiucki	adj:sg:acc:f:pos		
+harasiucką	harasiucki	adj:sg:inst:f:pos		
+harasiuckich	harasiucki	adj:pl:acc:m1:pos		
+harasiuckich	harasiucki	adj:pl:gen:m1.m2.m3.f.n:pos		
+harasiuckich	harasiucki	adj:pl:loc:m1.m2.m3.f.n:pos		
+harasiuckiego	harasiucki	adj:sg:acc:m1.m2:pos		
+harasiuckiego	harasiucki	adj:sg:gen:m1.m2.m3.n:pos		
+harasiuckie	harasiucki	adj:pl:acc:m2.m3.f.n:pos		
+harasiuckie	harasiucki	adj:pl:nom.voc:m2.m3.f.n:pos		
+harasiuckie	harasiucki	adj:sg:acc:n:pos		
+harasiuckie	harasiucki	adj:sg:nom.voc:n:pos		
+harasiuckiej	harasiucki	adj:sg:dat:f:pos		
+harasiuckiej	harasiucki	adj:sg:gen:f:pos		
+harasiuckiej	harasiucki	adj:sg:loc:f:pos		
+harasiuckiemu	harasiucki	adj:sg:dat:m1.m2.m3.n:pos		
+harasiucki	harasiucki	adj:sg:acc:m3:pos		
+harasiucki	harasiucki	adj:sg:nom.voc:m1.m2.m3:pos		
+harasiuckim	harasiucki	adj:pl:dat:m1.m2.m3.f.n:pos		
+harasiuckim	harasiucki	adj:sg:inst:m1.m2.m3.n:pos		
+harasiuckim	harasiucki	adj:sg:loc:m1.m2.m3.n:pos		
+harasiuckimi	harasiucki	adj:pl:inst:m1.m2.m3.f.n:pos		
+harasiucko	harasiucki	adja		
+harasiucku	harasiucki	adjp:dat		
+harasiuczanach	harasiuczanin	subst:pl:loc:m1	nazwa pospolita	
+harasiuczanami	harasiuczanin	subst:pl:inst:m1	nazwa pospolita	
+harasiuczan	harasiuczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+harasiuczanie	harasiuczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+harasiuczanina	harasiuczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+harasiuczaninem	harasiuczanin	subst:sg:inst:m1	nazwa pospolita	
+harasiuczanin	harasiuczanin	subst:sg:nom:m1	nazwa pospolita	
+harasiuczaninie	harasiuczanin	subst:sg:loc:m1	nazwa pospolita	
+harasiuczaninie	harasiuczanin	subst:sg:voc:m1	nazwa pospolita	
+harasiuczaninowi	harasiuczanin	subst:sg:dat:m1	nazwa pospolita	
+harasiuczanom	harasiuczanin	subst:pl:dat:m1	nazwa pospolita	
+harasiuczany	harasiuczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+harasiuczance	harasiuczanka	subst:sg:dat.loc:f	nazwa pospolita	
+harasiuczanek	harasiuczanka	subst:pl:gen:f	nazwa pospolita	
+harasiuczankach	harasiuczanka	subst:pl:loc:f	nazwa pospolita	
+harasiuczanka	harasiuczanka	subst:sg:nom:f	nazwa pospolita	
+harasiuczankami	harasiuczanka	subst:pl:inst:f	nazwa pospolita	
+harasiuczanką	harasiuczanka	subst:sg:inst:f	nazwa pospolita	
+harasiuczankę	harasiuczanka	subst:sg:acc:f	nazwa pospolita	
+harasiuczanki	harasiuczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+harasiuczanki	harasiuczanka	subst:sg:gen:f	nazwa pospolita	
+harasiuczanko	harasiuczanka	subst:sg:voc:f	nazwa pospolita	
+harasiuczankom	harasiuczanka	subst:pl:dat:f	nazwa pospolita	
 harasówce	harasówka	subst:sg:dat.loc:f	nazwa pospolita	gwar.
 harasówek	harasówka	subst:pl:gen:f	nazwa pospolita	gwar.
 harasówkach	harasówka	subst:pl:loc:f	nazwa pospolita	gwar.
@@ -12045,6 +12235,29 @@ hażlaskości	hażlaskość	subst:sg:voc:f	nazwa pospolita
 hażlaskościom	hażlaskość	subst:pl:dat:f	nazwa pospolita	
 hażlaskość	hażlaskość	subst:sg:acc:f	nazwa pospolita	
 hażlaskość	hażlaskość	subst:sg:nom:f	nazwa pospolita	
+hażlaszanach	hażlaszanin	subst:pl:loc:m1	nazwa pospolita	
+hażlaszanami	hażlaszanin	subst:pl:inst:m1	nazwa pospolita	
+hażlaszan	hażlaszanin	subst:pl:gen.acc:m1	nazwa pospolita	
+hażlaszanie	hażlaszanin	subst:pl:nom.voc:m1	nazwa pospolita	
+hażlaszanina	hażlaszanin	subst:sg:gen.acc:m1	nazwa pospolita	
+hażlaszaninem	hażlaszanin	subst:sg:inst:m1	nazwa pospolita	
+hażlaszanin	hażlaszanin	subst:sg:nom:m1	nazwa pospolita	
+hażlaszaninie	hażlaszanin	subst:sg:loc:m1	nazwa pospolita	
+hażlaszaninie	hażlaszanin	subst:sg:voc:m1	nazwa pospolita	
+hażlaszaninowi	hażlaszanin	subst:sg:dat:m1	nazwa pospolita	
+hażlaszanom	hażlaszanin	subst:pl:dat:m1	nazwa pospolita	
+hażlaszany	hażlaszanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+hażlaszance	hażlaszanka	subst:sg:dat.loc:f	nazwa pospolita	
+hażlaszanek	hażlaszanka	subst:pl:gen:f	nazwa pospolita	
+hażlaszankach	hażlaszanka	subst:pl:loc:f	nazwa pospolita	
+hażlaszanka	hażlaszanka	subst:sg:nom:f	nazwa pospolita	
+hażlaszankami	hażlaszanka	subst:pl:inst:f	nazwa pospolita	
+hażlaszanką	hażlaszanka	subst:sg:inst:f	nazwa pospolita	
+hażlaszankę	hażlaszanka	subst:sg:acc:f	nazwa pospolita	
+hażlaszanki	hażlaszanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+hażlaszanki	hażlaszanka	subst:sg:gen:f	nazwa pospolita	
+hażlaszanko	hażlaszanka	subst:sg:voc:f	nazwa pospolita	
+hażlaszankom	hażlaszanka	subst:pl:dat:f	nazwa pospolita	
 he	he	interj		
 headhunterach	headhunter	subst:pl:loc:m1	nazwa pospolita	
 headhuntera	headhunter	subst:sg:gen.acc:m1	nazwa pospolita	
@@ -14457,6 +14670,29 @@ heli	hela	subst:sg:gen:f	nazwa pospolita	reg.
 helo	hela	subst:sg:voc:f	nazwa pospolita	reg.
 helom	hela	subst:pl:dat:f	nazwa pospolita	reg.
 helanco	helanco	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
+helanach	helanin	subst:pl:loc:m1	nazwa pospolita	
+helanami	helanin	subst:pl:inst:m1	nazwa pospolita	
+helan	helanin	subst:pl:gen.acc:m1	nazwa pospolita	
+helanie	helanin	subst:pl:nom.voc:m1	nazwa pospolita	
+helanina	helanin	subst:sg:gen.acc:m1	nazwa pospolita	
+helaninem	helanin	subst:sg:inst:m1	nazwa pospolita	
+helanin	helanin	subst:sg:nom:m1	nazwa pospolita	
+helaninie	helanin	subst:sg:loc:m1	nazwa pospolita	
+helaninie	helanin	subst:sg:voc:m1	nazwa pospolita	
+helaninowi	helanin	subst:sg:dat:m1	nazwa pospolita	
+helanom	helanin	subst:pl:dat:m1	nazwa pospolita	
+helany	helanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+helance	helanka	subst:sg:dat.loc:f	nazwa pospolita	
+helanek	helanka	subst:pl:gen:f	nazwa pospolita	
+helankach	helanka	subst:pl:loc:f	nazwa pospolita	
+helanka	helanka	subst:sg:nom:f	nazwa pospolita	
+helankami	helanka	subst:pl:inst:f	nazwa pospolita	
+helanką	helanka	subst:sg:inst:f	nazwa pospolita	
+helankę	helanka	subst:sg:acc:f	nazwa pospolita	
+helanki	helanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+helanki	helanka	subst:sg:gen:f	nazwa pospolita	
+helanko	helanka	subst:sg:voc:f	nazwa pospolita	
+helankom	helanka	subst:pl:dat:f	nazwa pospolita	
 helanko	helanko	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 helankowościach	helankowość	subst:pl:loc:f	nazwa pospolita	
 helankowościami	helankowość	subst:pl:inst:f	nazwa pospolita	
@@ -18153,6 +18389,29 @@ herbertowskości	herbertowskość	subst:sg:voc:f	nazwa pospolita
 herbertowskościom	herbertowskość	subst:pl:dat:f	nazwa pospolita	
 herbertowskość	herbertowskość	subst:sg:acc:f	nazwa pospolita	
 herbertowskość	herbertowskość	subst:sg:nom:f	nazwa pospolita	
+herbianach	herbianin	subst:pl:loc:m1	nazwa pospolita	
+herbianami	herbianin	subst:pl:inst:m1	nazwa pospolita	
+herbian	herbianin	subst:pl:gen.acc:m1	nazwa pospolita	
+herbianie	herbianin	subst:pl:nom.voc:m1	nazwa pospolita	
+herbianina	herbianin	subst:sg:gen.acc:m1	nazwa pospolita	
+herbianinem	herbianin	subst:sg:inst:m1	nazwa pospolita	
+herbianin	herbianin	subst:sg:nom:m1	nazwa pospolita	
+herbianinie	herbianin	subst:sg:loc:m1	nazwa pospolita	
+herbianinie	herbianin	subst:sg:voc:m1	nazwa pospolita	
+herbianinowi	herbianin	subst:sg:dat:m1	nazwa pospolita	
+herbianom	herbianin	subst:pl:dat:m1	nazwa pospolita	
+herbiany	herbianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+herbiance	herbianka	subst:sg:dat.loc:f	nazwa pospolita	
+herbianek	herbianka	subst:pl:gen:f	nazwa pospolita	
+herbiankach	herbianka	subst:pl:loc:f	nazwa pospolita	
+herbianka	herbianka	subst:sg:nom:f	nazwa pospolita	
+herbiankami	herbianka	subst:pl:inst:f	nazwa pospolita	
+herbianką	herbianka	subst:sg:inst:f	nazwa pospolita	
+herbiankę	herbianka	subst:sg:acc:f	nazwa pospolita	
+herbianki	herbianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+herbianki	herbianka	subst:sg:gen:f	nazwa pospolita	
+herbianko	herbianka	subst:sg:voc:f	nazwa pospolita	
+herbiankom	herbianka	subst:pl:dat:f	nazwa pospolita	
 herbicydach	herbicyd	subst:pl:loc:m3	nazwa pospolita	
 herbicydami	herbicyd	subst:pl:inst:m3	nazwa pospolita	
 herbicydem	herbicyd	subst:sg:inst:m3	nazwa pospolita	
@@ -35233,6 +35492,29 @@ horodelskości	horodelskość	subst:sg:voc:f	nazwa pospolita
 horodelskościom	horodelskość	subst:pl:dat:f	nazwa pospolita	
 horodelskość	horodelskość	subst:sg:acc:f	nazwa pospolita	
 horodelskość	horodelskość	subst:sg:nom:f	nazwa pospolita	
+horodlanach	horodlanin	subst:pl:loc:m1	nazwa pospolita	
+horodlanami	horodlanin	subst:pl:inst:m1	nazwa pospolita	
+horodlan	horodlanin	subst:pl:gen.acc:m1	nazwa pospolita	
+horodlanie	horodlanin	subst:pl:nom.voc:m1	nazwa pospolita	
+horodlanina	horodlanin	subst:sg:gen.acc:m1	nazwa pospolita	
+horodlaninem	horodlanin	subst:sg:inst:m1	nazwa pospolita	
+horodlanin	horodlanin	subst:sg:nom:m1	nazwa pospolita	
+horodlaninie	horodlanin	subst:sg:loc:m1	nazwa pospolita	
+horodlaninie	horodlanin	subst:sg:voc:m1	nazwa pospolita	
+horodlaninowi	horodlanin	subst:sg:dat:m1	nazwa pospolita	
+horodlanom	horodlanin	subst:pl:dat:m1	nazwa pospolita	
+horodlany	horodlanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+horodlance	horodlanka	subst:sg:dat.loc:f	nazwa pospolita	
+horodlanek	horodlanka	subst:pl:gen:f	nazwa pospolita	
+horodlankach	horodlanka	subst:pl:loc:f	nazwa pospolita	
+horodlanka	horodlanka	subst:sg:nom:f	nazwa pospolita	
+horodlankami	horodlanka	subst:pl:inst:f	nazwa pospolita	
+horodlanką	horodlanka	subst:sg:inst:f	nazwa pospolita	
+horodlankę	horodlanka	subst:sg:acc:f	nazwa pospolita	
+horodlanki	horodlanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+horodlanki	horodlanka	subst:sg:gen:f	nazwa pospolita	
+horodlanko	horodlanka	subst:sg:voc:f	nazwa pospolita	
+horodlankom	horodlanka	subst:pl:dat:f	nazwa pospolita	
 horodniach	horodnia	subst:pl:loc:f	nazwa pospolita	daw.
 horodnia	horodnia	subst:sg:nom:f	nazwa pospolita	daw.
 horodniami	horodnia	subst:pl:inst:f	nazwa pospolita	daw.
@@ -41046,6 +41328,29 @@ husytyzmowi	husytyzm	subst:sg:dat:m3	nazwa pospolita
 husytyzmów	husytyzm	subst:pl:gen:m3	nazwa pospolita	
 husytyzmu	husytyzm	subst:sg:gen:m3	nazwa pospolita	
 husytyzmy	husytyzm	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+huszlewianach	huszlewianin	subst:pl:loc:m1	nazwa pospolita	
+huszlewianami	huszlewianin	subst:pl:inst:m1	nazwa pospolita	
+huszlewian	huszlewianin	subst:pl:gen.acc:m1	nazwa pospolita	
+huszlewianie	huszlewianin	subst:pl:nom.voc:m1	nazwa pospolita	
+huszlewianina	huszlewianin	subst:sg:gen.acc:m1	nazwa pospolita	
+huszlewianinem	huszlewianin	subst:sg:inst:m1	nazwa pospolita	
+huszlewianin	huszlewianin	subst:sg:nom:m1	nazwa pospolita	
+huszlewianinie	huszlewianin	subst:sg:loc:m1	nazwa pospolita	
+huszlewianinie	huszlewianin	subst:sg:voc:m1	nazwa pospolita	
+huszlewianinowi	huszlewianin	subst:sg:dat:m1	nazwa pospolita	
+huszlewianom	huszlewianin	subst:pl:dat:m1	nazwa pospolita	
+huszlewiany	huszlewianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+huszlewiance	huszlewianka	subst:sg:dat.loc:f	nazwa pospolita	
+huszlewianek	huszlewianka	subst:pl:gen:f	nazwa pospolita	
+huszlewiankach	huszlewianka	subst:pl:loc:f	nazwa pospolita	
+huszlewianka	huszlewianka	subst:sg:nom:f	nazwa pospolita	
+huszlewiankami	huszlewianka	subst:pl:inst:f	nazwa pospolita	
+huszlewianką	huszlewianka	subst:sg:inst:f	nazwa pospolita	
+huszlewiankę	huszlewianka	subst:sg:acc:f	nazwa pospolita	
+huszlewianki	huszlewianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+huszlewianki	huszlewianka	subst:sg:gen:f	nazwa pospolita	
+huszlewianko	huszlewianka	subst:sg:voc:f	nazwa pospolita	
+huszlewiankom	huszlewianka	subst:pl:dat:f	nazwa pospolita	
 huszlewscy	huszlewski	adj:pl:nom.voc:m1:pos		
 huszlewska	huszlewski	adj:sg:nom.voc:f:pos		
 huszlewską	huszlewski	adj:sg:acc:f:pos		
@@ -45517,3 +45822,51 @@ hyżeńskości	hyżeńskość	subst:sg:voc:f	nazwa pospolita
 hyżeńskościom	hyżeńskość	subst:pl:dat:f	nazwa pospolita	
 hyżeńskość	hyżeńskość	subst:sg:acc:f	nazwa pospolita	
 hyżeńskość	hyżeńskość	subst:sg:nom:f	nazwa pospolita	
+hyżneńscy	hyżneński	adj:pl:nom.voc:m1:pos		
+hyżneńska	hyżneński	adj:sg:nom.voc:f:pos		
+hyżneńską	hyżneński	adj:sg:acc:f:pos		
+hyżneńską	hyżneński	adj:sg:inst:f:pos		
+hyżneńskich	hyżneński	adj:pl:acc:m1:pos		
+hyżneńskich	hyżneński	adj:pl:gen:m1.m2.m3.f.n:pos		
+hyżneńskich	hyżneński	adj:pl:loc:m1.m2.m3.f.n:pos		
+hyżneńskiego	hyżneński	adj:sg:acc:m1.m2:pos		
+hyżneńskiego	hyżneński	adj:sg:gen:m1.m2.m3.n:pos		
+hyżneńskie	hyżneński	adj:pl:acc:m2.m3.f.n:pos		
+hyżneńskie	hyżneński	adj:pl:nom.voc:m2.m3.f.n:pos		
+hyżneńskie	hyżneński	adj:sg:acc:n:pos		
+hyżneńskie	hyżneński	adj:sg:nom.voc:n:pos		
+hyżneńskiej	hyżneński	adj:sg:dat:f:pos		
+hyżneńskiej	hyżneński	adj:sg:gen:f:pos		
+hyżneńskiej	hyżneński	adj:sg:loc:f:pos		
+hyżneńskiemu	hyżneński	adj:sg:dat:m1.m2.m3.n:pos		
+hyżneński	hyżneński	adj:sg:acc:m3:pos		
+hyżneński	hyżneński	adj:sg:nom.voc:m1.m2.m3:pos		
+hyżneńskim	hyżneński	adj:pl:dat:m1.m2.m3.f.n:pos		
+hyżneńskim	hyżneński	adj:sg:inst:m1.m2.m3.n:pos		
+hyżneńskim	hyżneński	adj:sg:loc:m1.m2.m3.n:pos		
+hyżneńskimi	hyżneński	adj:pl:inst:m1.m2.m3.f.n:pos		
+hyżneńsko	hyżneński	adja		
+hyżneńsku	hyżneński	adjp:dat		
+hyżnianach	hyżnianin	subst:pl:loc:m1	nazwa pospolita	
+hyżnianami	hyżnianin	subst:pl:inst:m1	nazwa pospolita	
+hyżnian	hyżnianin	subst:pl:gen.acc:m1	nazwa pospolita	
+hyżnianie	hyżnianin	subst:pl:nom.voc:m1	nazwa pospolita	
+hyżnianina	hyżnianin	subst:sg:gen.acc:m1	nazwa pospolita	
+hyżnianinem	hyżnianin	subst:sg:inst:m1	nazwa pospolita	
+hyżnianin	hyżnianin	subst:sg:nom:m1	nazwa pospolita	
+hyżnianinie	hyżnianin	subst:sg:loc:m1	nazwa pospolita	
+hyżnianinie	hyżnianin	subst:sg:voc:m1	nazwa pospolita	
+hyżnianinowi	hyżnianin	subst:sg:dat:m1	nazwa pospolita	
+hyżnianom	hyżnianin	subst:pl:dat:m1	nazwa pospolita	
+hyżniany	hyżnianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+hyżniance	hyżnianka	subst:sg:dat.loc:f	nazwa pospolita	
+hyżnianek	hyżnianka	subst:pl:gen:f	nazwa pospolita	
+hyżniankach	hyżnianka	subst:pl:loc:f	nazwa pospolita	
+hyżnianka	hyżnianka	subst:sg:nom:f	nazwa pospolita	
+hyżniankami	hyżnianka	subst:pl:inst:f	nazwa pospolita	
+hyżnianką	hyżnianka	subst:sg:inst:f	nazwa pospolita	
+hyżniankę	hyżnianka	subst:sg:acc:f	nazwa pospolita	
+hyżnianki	hyżnianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+hyżnianki	hyżnianka	subst:sg:gen:f	nazwa pospolita	
+hyżnianko	hyżnianka	subst:sg:voc:f	nazwa pospolita	
+hyżniankom	hyżnianka	subst:pl:dat:f	nazwa pospolita	

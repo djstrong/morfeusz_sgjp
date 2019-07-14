@@ -4541,6 +4541,29 @@
 ścinak	ścinak	subst:sg:nom.acc:m3	nazwa pospolita	
 ścinaku	ścinak	subst:sg:loc:m3	nazwa pospolita	
 ścinaku	ścinak	subst:sg:voc:m3	nazwa pospolita	
+ścinawianach	ścinawianin	subst:pl:loc:m1	nazwa pospolita	
+ścinawianami	ścinawianin	subst:pl:inst:m1	nazwa pospolita	
+ścinawianie	ścinawianin	subst:pl:nom.voc:m1	nazwa pospolita	
+ścinawianina	ścinawianin	subst:sg:gen.acc:m1	nazwa pospolita	
+ścinawianinem	ścinawianin	subst:sg:inst:m1	nazwa pospolita	
+ścinawianinie	ścinawianin	subst:sg:loc:m1	nazwa pospolita	
+ścinawianinie	ścinawianin	subst:sg:voc:m1	nazwa pospolita	
+ścinawianinowi	ścinawianin	subst:sg:dat:m1	nazwa pospolita	
+ścinawianin	ścinawianin	subst:sg:nom:m1	nazwa pospolita	
+ścinawianom	ścinawianin	subst:pl:dat:m1	nazwa pospolita	
+ścinawian	ścinawianin	subst:pl:gen.acc:m1	nazwa pospolita	
+ścinawiany	ścinawianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+ścinawiance	ścinawianka	subst:sg:dat.loc:f	nazwa pospolita	
+ścinawianek	ścinawianka	subst:pl:gen:f	nazwa pospolita	
+ścinawiankach	ścinawianka	subst:pl:loc:f	nazwa pospolita	
+ścinawiankami	ścinawianka	subst:pl:inst:f	nazwa pospolita	
+ścinawianka	ścinawianka	subst:sg:nom:f	nazwa pospolita	
+ścinawianką	ścinawianka	subst:sg:inst:f	nazwa pospolita	
+ścinawiankę	ścinawianka	subst:sg:acc:f	nazwa pospolita	
+ścinawianki	ścinawianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+ścinawianki	ścinawianka	subst:sg:gen:f	nazwa pospolita	
+ścinawiankom	ścinawianka	subst:pl:dat:f	nazwa pospolita	
+ścinawianko	ścinawianka	subst:sg:voc:f	nazwa pospolita	
 ścinawscy	ścinawski	adj:pl:nom.voc:m1:pos		
 ścinawska	ścinawski	adj:sg:nom.voc:f:pos		
 ścinawską	ścinawski	adj:sg:acc:f:pos		
@@ -7123,6 +7146,54 @@
 śledziu	śledź	subst:sg:loc:m2	nazwa pospolita	
 śledziu	śledź	subst:sg:voc:m2	nazwa pospolita	
 śledź	śledź	subst:sg:nom:m2	nazwa pospolita	
+ślemienianach	ślemienianin	subst:pl:loc:m1	nazwa pospolita	
+ślemienianami	ślemienianin	subst:pl:inst:m1	nazwa pospolita	
+ślemienianie	ślemienianin	subst:pl:nom.voc:m1	nazwa pospolita	
+ślemienianina	ślemienianin	subst:sg:gen.acc:m1	nazwa pospolita	
+ślemienianinem	ślemienianin	subst:sg:inst:m1	nazwa pospolita	
+ślemienianinie	ślemienianin	subst:sg:loc:m1	nazwa pospolita	
+ślemienianinie	ślemienianin	subst:sg:voc:m1	nazwa pospolita	
+ślemienianinowi	ślemienianin	subst:sg:dat:m1	nazwa pospolita	
+ślemienianin	ślemienianin	subst:sg:nom:m1	nazwa pospolita	
+ślemienianom	ślemienianin	subst:pl:dat:m1	nazwa pospolita	
+ślemienian	ślemienianin	subst:pl:gen.acc:m1	nazwa pospolita	
+ślemieniany	ślemienianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+ślemieniance	ślemienianka	subst:sg:dat.loc:f	nazwa pospolita	
+ślemienianek	ślemienianka	subst:pl:gen:f	nazwa pospolita	
+ślemieniankach	ślemienianka	subst:pl:loc:f	nazwa pospolita	
+ślemieniankami	ślemienianka	subst:pl:inst:f	nazwa pospolita	
+ślemienianka	ślemienianka	subst:sg:nom:f	nazwa pospolita	
+ślemienianką	ślemienianka	subst:sg:inst:f	nazwa pospolita	
+ślemieniankę	ślemienianka	subst:sg:acc:f	nazwa pospolita	
+ślemienianki	ślemienianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+ślemienianki	ślemienianka	subst:sg:gen:f	nazwa pospolita	
+ślemieniankom	ślemienianka	subst:pl:dat:f	nazwa pospolita	
+ślemienianko	ślemienianka	subst:sg:voc:f	nazwa pospolita	
+ślemieńscy	ślemieński	adj:pl:nom.voc:m1:pos		
+ślemieńska	ślemieński	adj:sg:nom.voc:f:pos		
+ślemieńską	ślemieński	adj:sg:acc:f:pos		
+ślemieńską	ślemieński	adj:sg:inst:f:pos		
+ślemieńskich	ślemieński	adj:pl:acc:m1:pos		
+ślemieńskich	ślemieński	adj:pl:gen:m1.m2.m3.f.n:pos		
+ślemieńskich	ślemieński	adj:pl:loc:m1.m2.m3.f.n:pos		
+ślemieńskiego	ślemieński	adj:sg:acc:m1.m2:pos		
+ślemieńskiego	ślemieński	adj:sg:gen:m1.m2.m3.n:pos		
+ślemieńskiej	ślemieński	adj:sg:dat:f:pos		
+ślemieńskiej	ślemieński	adj:sg:gen:f:pos		
+ślemieńskiej	ślemieński	adj:sg:loc:f:pos		
+ślemieńskiemu	ślemieński	adj:sg:dat:m1.m2.m3.n:pos		
+ślemieńskie	ślemieński	adj:pl:acc:m2.m3.f.n:pos		
+ślemieńskie	ślemieński	adj:pl:nom.voc:m2.m3.f.n:pos		
+ślemieńskie	ślemieński	adj:sg:acc:n:pos		
+ślemieńskie	ślemieński	adj:sg:nom.voc:n:pos		
+ślemieńskimi	ślemieński	adj:pl:inst:m1.m2.m3.f.n:pos		
+ślemieńskim	ślemieński	adj:pl:dat:m1.m2.m3.f.n:pos		
+ślemieńskim	ślemieński	adj:sg:inst:m1.m2.m3.n:pos		
+ślemieńskim	ślemieński	adj:sg:loc:m1.m2.m3.n:pos		
+ślemieński	ślemieński	adj:sg:acc:m3:pos		
+ślemieński	ślemieński	adj:sg:nom.voc:m1.m2.m3:pos		
+ślemieńsko	ślemieński	adja		
+ślemieńsku	ślemieński	adjp:dat		
 ślemienia	ślemię	subst:sg:gen:n:ncol	nazwa pospolita	
 ślemieniem	ślemię	subst:sg:inst:n:ncol	nazwa pospolita	
 ślemieniu	ślemię	subst:sg:dat:n:ncol	nazwa pospolita	
@@ -7829,6 +7900,29 @@
 ślepym	ślepy:s	subst:sg:loc:m1	nazwa pospolita	
 ślepy	ślepy:s	subst:sg:nom:m1	nazwa pospolita	
 ślepy	ślepy:s	subst:sg:voc:m1	nazwa pospolita	
+ślesinianach	ślesinianin	subst:pl:loc:m1	nazwa pospolita	
+ślesinianami	ślesinianin	subst:pl:inst:m1	nazwa pospolita	
+ślesinianie	ślesinianin	subst:pl:nom.voc:m1	nazwa pospolita	
+ślesinianina	ślesinianin	subst:sg:gen.acc:m1	nazwa pospolita	
+ślesinianinem	ślesinianin	subst:sg:inst:m1	nazwa pospolita	
+ślesinianinie	ślesinianin	subst:sg:loc:m1	nazwa pospolita	
+ślesinianinie	ślesinianin	subst:sg:voc:m1	nazwa pospolita	
+ślesinianinowi	ślesinianin	subst:sg:dat:m1	nazwa pospolita	
+ślesinianin	ślesinianin	subst:sg:nom:m1	nazwa pospolita	
+ślesinianom	ślesinianin	subst:pl:dat:m1	nazwa pospolita	
+ślesinian	ślesinianin	subst:pl:gen.acc:m1	nazwa pospolita	
+ślesiniany	ślesinianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+ślesiniance	ślesinianka	subst:sg:dat.loc:f	nazwa pospolita	
+ślesinianek	ślesinianka	subst:pl:gen:f	nazwa pospolita	
+ślesiniankach	ślesinianka	subst:pl:loc:f	nazwa pospolita	
+ślesiniankami	ślesinianka	subst:pl:inst:f	nazwa pospolita	
+ślesinianka	ślesinianka	subst:sg:nom:f	nazwa pospolita	
+ślesinianką	ślesinianka	subst:sg:inst:f	nazwa pospolita	
+ślesiniankę	ślesinianka	subst:sg:acc:f	nazwa pospolita	
+ślesinianki	ślesinianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+ślesinianki	ślesinianka	subst:sg:gen:f	nazwa pospolita	
+ślesiniankom	ślesinianka	subst:pl:dat:f	nazwa pospolita	
+ślesinianko	ślesinianka	subst:sg:voc:f	nazwa pospolita	
 ślesińscy	ślesiński	adj:pl:nom.voc:m1:pos		
 ślesińska	ślesiński	adj:sg:nom.voc:f:pos		
 ślesińską	ślesiński	adj:sg:acc:f:pos		
@@ -8954,6 +9048,29 @@
 śliwickości	śliwickość	subst:sg:voc:f	nazwa pospolita	
 śliwickość	śliwickość	subst:sg:acc:f	nazwa pospolita	
 śliwickość	śliwickość	subst:sg:nom:f	nazwa pospolita	
+śliwiczanach	śliwiczanin	subst:pl:loc:m1	nazwa pospolita	
+śliwiczanami	śliwiczanin	subst:pl:inst:m1	nazwa pospolita	
+śliwiczanie	śliwiczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+śliwiczanina	śliwiczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+śliwiczaninem	śliwiczanin	subst:sg:inst:m1	nazwa pospolita	
+śliwiczaninie	śliwiczanin	subst:sg:loc:m1	nazwa pospolita	
+śliwiczaninie	śliwiczanin	subst:sg:voc:m1	nazwa pospolita	
+śliwiczaninowi	śliwiczanin	subst:sg:dat:m1	nazwa pospolita	
+śliwiczanin	śliwiczanin	subst:sg:nom:m1	nazwa pospolita	
+śliwiczanom	śliwiczanin	subst:pl:dat:m1	nazwa pospolita	
+śliwiczan	śliwiczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+śliwiczany	śliwiczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+śliwiczance	śliwiczanka	subst:sg:dat.loc:f	nazwa pospolita	
+śliwiczanek	śliwiczanka	subst:pl:gen:f	nazwa pospolita	
+śliwiczankach	śliwiczanka	subst:pl:loc:f	nazwa pospolita	
+śliwiczankami	śliwiczanka	subst:pl:inst:f	nazwa pospolita	
+śliwiczanka	śliwiczanka	subst:sg:nom:f	nazwa pospolita	
+śliwiczanką	śliwiczanka	subst:sg:inst:f	nazwa pospolita	
+śliwiczankę	śliwiczanka	subst:sg:acc:f	nazwa pospolita	
+śliwiczanki	śliwiczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+śliwiczanki	śliwiczanka	subst:sg:gen:f	nazwa pospolita	
+śliwiczankom	śliwiczanka	subst:pl:dat:f	nazwa pospolita	
+śliwiczanko	śliwiczanka	subst:sg:voc:f	nazwa pospolita	
 śliwcach	śliwiec	subst:pl:loc:m2	nazwa pospolita	pot.
 śliwcach	śliwiec	subst:pl:loc:m3	nazwa pospolita	
 śliwcami	śliwiec	subst:pl:inst:m2	nazwa pospolita	pot.
@@ -12481,6 +12598,29 @@
 śmigiełko	śmigiełko	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
 śmigiełku	śmigiełko	subst:sg:dat:n:ncol	nazwa pospolita	
 śmigiełku	śmigiełko	subst:sg:loc:n:ncol	nazwa pospolita	
+śmiglanach	śmiglanin	subst:pl:loc:m1	nazwa pospolita	
+śmiglanami	śmiglanin	subst:pl:inst:m1	nazwa pospolita	
+śmiglanie	śmiglanin	subst:pl:nom.voc:m1	nazwa pospolita	
+śmiglanina	śmiglanin	subst:sg:gen.acc:m1	nazwa pospolita	
+śmiglaninem	śmiglanin	subst:sg:inst:m1	nazwa pospolita	
+śmiglaninie	śmiglanin	subst:sg:loc:m1	nazwa pospolita	
+śmiglaninie	śmiglanin	subst:sg:voc:m1	nazwa pospolita	
+śmiglaninowi	śmiglanin	subst:sg:dat:m1	nazwa pospolita	
+śmiglanin	śmiglanin	subst:sg:nom:m1	nazwa pospolita	
+śmiglanom	śmiglanin	subst:pl:dat:m1	nazwa pospolita	
+śmiglan	śmiglanin	subst:pl:gen.acc:m1	nazwa pospolita	
+śmiglany	śmiglanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+śmiglance	śmiglanka	subst:sg:dat.loc:f	nazwa pospolita	
+śmiglanek	śmiglanka	subst:pl:gen:f	nazwa pospolita	
+śmiglankach	śmiglanka	subst:pl:loc:f	nazwa pospolita	
+śmiglankami	śmiglanka	subst:pl:inst:f	nazwa pospolita	
+śmiglanka	śmiglanka	subst:sg:nom:f	nazwa pospolita	
+śmiglanką	śmiglanka	subst:sg:inst:f	nazwa pospolita	
+śmiglankę	śmiglanka	subst:sg:acc:f	nazwa pospolita	
+śmiglanki	śmiglanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+śmiglanki	śmiglanka	subst:sg:gen:f	nazwa pospolita	
+śmiglankom	śmiglanka	subst:pl:dat:f	nazwa pospolita	
+śmiglanko	śmiglanka	subst:sg:voc:f	nazwa pospolita	
 śmiglej	śmigle	adv:com		
 śmigle	śmigle	adv:pos		
 śmiglej	śmigło:d	adv:com		
@@ -13184,6 +13324,29 @@
 śniadości	śniadość	subst:sg:voc:f	nazwa pospolita	
 śniadość	śniadość	subst:sg:acc:f	nazwa pospolita	
 śniadość	śniadość	subst:sg:nom:f	nazwa pospolita	
+śniadowianach	śniadowianin	subst:pl:loc:m1	nazwa pospolita	
+śniadowianami	śniadowianin	subst:pl:inst:m1	nazwa pospolita	
+śniadowianie	śniadowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+śniadowianina	śniadowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+śniadowianinem	śniadowianin	subst:sg:inst:m1	nazwa pospolita	
+śniadowianinie	śniadowianin	subst:sg:loc:m1	nazwa pospolita	
+śniadowianinie	śniadowianin	subst:sg:voc:m1	nazwa pospolita	
+śniadowianinowi	śniadowianin	subst:sg:dat:m1	nazwa pospolita	
+śniadowianin	śniadowianin	subst:sg:nom:m1	nazwa pospolita	
+śniadowianom	śniadowianin	subst:pl:dat:m1	nazwa pospolita	
+śniadowian	śniadowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+śniadowiany	śniadowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+śniadowiance	śniadowianka	subst:sg:dat.loc:f	nazwa pospolita	
+śniadowianek	śniadowianka	subst:pl:gen:f	nazwa pospolita	
+śniadowiankach	śniadowianka	subst:pl:loc:f	nazwa pospolita	
+śniadowiankami	śniadowianka	subst:pl:inst:f	nazwa pospolita	
+śniadowianka	śniadowianka	subst:sg:nom:f	nazwa pospolita	
+śniadowianką	śniadowianka	subst:sg:inst:f	nazwa pospolita	
+śniadowiankę	śniadowianka	subst:sg:acc:f	nazwa pospolita	
+śniadowianki	śniadowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+śniadowianki	śniadowianka	subst:sg:gen:f	nazwa pospolita	
+śniadowiankom	śniadowianka	subst:pl:dat:f	nazwa pospolita	
+śniadowianko	śniadowianka	subst:sg:voc:f	nazwa pospolita	
 śniadowscy	śniadowski	adj:pl:nom.voc:m1:pos		
 śniadowska	śniadowski	adj:sg:nom.voc:f:pos		
 śniadowską	śniadowski	adj:sg:acc:f:pos		
@@ -17330,6 +17493,29 @@
 środowym	środowy	adj:sg:loc:m1.m2.m3.n:pos		
 środowy	środowy	adj:sg:acc:m3:pos		
 środowy	środowy	adj:sg:nom.voc:m1.m2.m3:pos		
+środzianach	środzianin	subst:pl:loc:m1	nazwa pospolita	
+środzianami	środzianin	subst:pl:inst:m1	nazwa pospolita	
+środzianie	środzianin	subst:pl:nom.voc:m1	nazwa pospolita	
+środzianina	środzianin	subst:sg:gen.acc:m1	nazwa pospolita	
+środzianinem	środzianin	subst:sg:inst:m1	nazwa pospolita	
+środzianinie	środzianin	subst:sg:loc:m1	nazwa pospolita	
+środzianinie	środzianin	subst:sg:voc:m1	nazwa pospolita	
+środzianinowi	środzianin	subst:sg:dat:m1	nazwa pospolita	
+środzianin	środzianin	subst:sg:nom:m1	nazwa pospolita	
+środzianom	środzianin	subst:pl:dat:m1	nazwa pospolita	
+środzian	środzianin	subst:pl:gen.acc:m1	nazwa pospolita	
+środziany	środzianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+środziance	środzianka	subst:sg:dat.loc:f	nazwa pospolita	
+środzianek	środzianka	subst:pl:gen:f	nazwa pospolita	
+środziankach	środzianka	subst:pl:loc:f	nazwa pospolita	
+środziankami	środzianka	subst:pl:inst:f	nazwa pospolita	
+środzianka	środzianka	subst:sg:nom:f	nazwa pospolita	
+środzianką	środzianka	subst:sg:inst:f	nazwa pospolita	
+środziankę	środzianka	subst:sg:acc:f	nazwa pospolita	
+środzianki	środzianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+środzianki	środzianka	subst:sg:gen:f	nazwa pospolita	
+środziankom	środzianka	subst:pl:dat:f	nazwa pospolita	
+środzianko	środzianka	subst:sg:voc:f	nazwa pospolita	
 śronach	śron	subst:pl:loc:m3	nazwa pospolita	daw.
 śronami	śron	subst:pl:inst:m3	nazwa pospolita	daw.
 śronem	śron	subst:sg:inst:m3	nazwa pospolita	daw.
@@ -20966,6 +21152,54 @@
 świątalnym	świątalny	adj:sg:loc:m1.m2.m3.n:pos		daw.
 świątalny	świątalny	adj:sg:acc:m3:pos		daw.
 świątalny	świątalny	adj:sg:nom.voc:m1.m2.m3:pos		daw.
+świątczanach	świątczanin	subst:pl:loc:m1	nazwa pospolita	
+świątczanami	świątczanin	subst:pl:inst:m1	nazwa pospolita	
+świątczanie	świątczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+świątczanina	świątczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+świątczaninem	świątczanin	subst:sg:inst:m1	nazwa pospolita	
+świątczaninie	świątczanin	subst:sg:loc:m1	nazwa pospolita	
+świątczaninie	świątczanin	subst:sg:voc:m1	nazwa pospolita	
+świątczaninowi	świątczanin	subst:sg:dat:m1	nazwa pospolita	
+świątczanin	świątczanin	subst:sg:nom:m1	nazwa pospolita	
+świątczanom	świątczanin	subst:pl:dat:m1	nazwa pospolita	
+świątczan	świątczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+świątczany	świątczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świątczance	świątczanka	subst:sg:dat.loc:f	nazwa pospolita	
+świątczanek	świątczanka	subst:pl:gen:f	nazwa pospolita	
+świątczankach	świątczanka	subst:pl:loc:f	nazwa pospolita	
+świątczankami	świątczanka	subst:pl:inst:f	nazwa pospolita	
+świątczanka	świątczanka	subst:sg:nom:f	nazwa pospolita	
+świątczanką	świątczanka	subst:sg:inst:f	nazwa pospolita	
+świątczankę	świątczanka	subst:sg:acc:f	nazwa pospolita	
+świątczanki	świątczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świątczanki	świątczanka	subst:sg:gen:f	nazwa pospolita	
+świątczankom	świątczanka	subst:pl:dat:f	nazwa pospolita	
+świątczanko	świątczanka	subst:sg:voc:f	nazwa pospolita	
+świąteccy	świątecki	adj:pl:nom.voc:m1:pos		
+świątecka	świątecki	adj:sg:nom.voc:f:pos		
+świątecką	świątecki	adj:sg:acc:f:pos		
+świątecką	świątecki	adj:sg:inst:f:pos		
+świąteckich	świątecki	adj:pl:acc:m1:pos		
+świąteckich	świątecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+świąteckich	świątecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+świąteckiego	świątecki	adj:sg:acc:m1.m2:pos		
+świąteckiego	świątecki	adj:sg:gen:m1.m2.m3.n:pos		
+świąteckiej	świątecki	adj:sg:dat:f:pos		
+świąteckiej	świątecki	adj:sg:gen:f:pos		
+świąteckiej	świątecki	adj:sg:loc:f:pos		
+świąteckiemu	świątecki	adj:sg:dat:m1.m2.m3.n:pos		
+świąteckie	świątecki	adj:pl:acc:m2.m3.f.n:pos		
+świąteckie	świątecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+świąteckie	świątecki	adj:sg:acc:n:pos		
+świąteckie	świątecki	adj:sg:nom.voc:n:pos		
+świąteckimi	świątecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+świąteckim	świątecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+świąteckim	świątecki	adj:sg:inst:m1.m2.m3.n:pos		
+świąteckim	świątecki	adj:sg:loc:m1.m2.m3.n:pos		
+świątecki	świątecki	adj:sg:acc:m3:pos		
+świątecki	świątecki	adj:sg:nom.voc:m1.m2.m3:pos		
+świątecko	świątecki	adja		
+świątecku	świątecki	adjp:dat		
 świąteczniej	świątecznie	adv:com		
 świątecznie	świątecznie	adv:pos		
 świątecznicy	świątecznik	subst:pl:nom.voc:m1	nazwa pospolita	daw.
@@ -21228,6 +21462,29 @@
 świątnickości	świątnickość	subst:sg:voc:f	nazwa pospolita	
 świątnickość	świątnickość	subst:sg:acc:f	nazwa pospolita	
 świątnickość	świątnickość	subst:sg:nom:f	nazwa pospolita	
+świątniczanach	świątniczanin	subst:pl:loc:m1	nazwa pospolita	
+świątniczanami	świątniczanin	subst:pl:inst:m1	nazwa pospolita	
+świątniczanie	świątniczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+świątniczanina	świątniczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+świątniczaninem	świątniczanin	subst:sg:inst:m1	nazwa pospolita	
+świątniczaninie	świątniczanin	subst:sg:loc:m1	nazwa pospolita	
+świątniczaninie	świątniczanin	subst:sg:voc:m1	nazwa pospolita	
+świątniczaninowi	świątniczanin	subst:sg:dat:m1	nazwa pospolita	
+świątniczanin	świątniczanin	subst:sg:nom:m1	nazwa pospolita	
+świątniczanom	świątniczanin	subst:pl:dat:m1	nazwa pospolita	
+świątniczan	świątniczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+świątniczany	świątniczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świątniczance	świątniczanka	subst:sg:dat.loc:f	nazwa pospolita	
+świątniczanek	świątniczanka	subst:pl:gen:f	nazwa pospolita	
+świątniczankach	świątniczanka	subst:pl:loc:f	nazwa pospolita	
+świątniczankami	świątniczanka	subst:pl:inst:f	nazwa pospolita	
+świątniczanka	świątniczanka	subst:sg:nom:f	nazwa pospolita	
+świątniczanką	świątniczanka	subst:sg:inst:f	nazwa pospolita	
+świątniczankę	świątniczanka	subst:sg:acc:f	nazwa pospolita	
+świątniczanki	świątniczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świątniczanki	świątniczanka	subst:sg:gen:f	nazwa pospolita	
+świątniczankom	świątniczanka	subst:pl:dat:f	nazwa pospolita	
+świątniczanko	świątniczanka	subst:sg:voc:f	nazwa pospolita	
 świątnicy	świątnik	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 świątnikach	świątnik	subst:pl:loc:m1	nazwa pospolita	daw.
 świątnikami	świątnik	subst:pl:inst:m1	nazwa pospolita	daw.
@@ -22053,6 +22310,29 @@
 świebodzickości	świebodzickość	subst:sg:voc:f	nazwa pospolita	
 świebodzickość	świebodzickość	subst:sg:acc:f	nazwa pospolita	
 świebodzickość	świebodzickość	subst:sg:nom:f	nazwa pospolita	
+świebodziczanach	świebodziczanin	subst:pl:loc:m1	nazwa pospolita	
+świebodziczanami	świebodziczanin	subst:pl:inst:m1	nazwa pospolita	
+świebodziczanie	świebodziczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+świebodziczanina	świebodziczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+świebodziczaninem	świebodziczanin	subst:sg:inst:m1	nazwa pospolita	
+świebodziczaninie	świebodziczanin	subst:sg:loc:m1	nazwa pospolita	
+świebodziczaninie	świebodziczanin	subst:sg:voc:m1	nazwa pospolita	
+świebodziczaninowi	świebodziczanin	subst:sg:dat:m1	nazwa pospolita	
+świebodziczanin	świebodziczanin	subst:sg:nom:m1	nazwa pospolita	
+świebodziczanom	świebodziczanin	subst:pl:dat:m1	nazwa pospolita	
+świebodziczan	świebodziczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+świebodziczany	świebodziczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świebodziczance	świebodziczanka	subst:sg:dat.loc:f	nazwa pospolita	
+świebodziczanek	świebodziczanka	subst:pl:gen:f	nazwa pospolita	
+świebodziczankach	świebodziczanka	subst:pl:loc:f	nazwa pospolita	
+świebodziczankami	świebodziczanka	subst:pl:inst:f	nazwa pospolita	
+świebodziczanka	świebodziczanka	subst:sg:nom:f	nazwa pospolita	
+świebodziczanką	świebodziczanka	subst:sg:inst:f	nazwa pospolita	
+świebodziczankę	świebodziczanka	subst:sg:acc:f	nazwa pospolita	
+świebodziczanki	świebodziczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świebodziczanki	świebodziczanka	subst:sg:gen:f	nazwa pospolita	
+świebodziczankom	świebodziczanka	subst:pl:dat:f	nazwa pospolita	
+świebodziczanko	świebodziczanka	subst:sg:voc:f	nazwa pospolita	
 świebodzinianach	świebodzinianin	subst:pl:loc:m1	nazwa pospolita	
 świebodzinianami	świebodzinianin	subst:pl:inst:m1	nazwa pospolita	
 świebodzinianie	świebodzinianin	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -22852,6 +23132,29 @@
 świecznikowym	świecznikowy	adj:sg:loc:m1.m2.m3.n:pos		
 świecznikowy	świecznikowy	adj:sg:acc:m3:pos		
 świecznikowy	świecznikowy	adj:sg:nom.voc:m1.m2.m3:pos		
+świedziebnianach	świedziebnianin	subst:pl:loc:m1	nazwa pospolita	
+świedziebnianami	świedziebnianin	subst:pl:inst:m1	nazwa pospolita	
+świedziebnianie	świedziebnianin	subst:pl:nom.voc:m1	nazwa pospolita	
+świedziebnianina	świedziebnianin	subst:sg:gen.acc:m1	nazwa pospolita	
+świedziebnianinem	świedziebnianin	subst:sg:inst:m1	nazwa pospolita	
+świedziebnianinie	świedziebnianin	subst:sg:loc:m1	nazwa pospolita	
+świedziebnianinie	świedziebnianin	subst:sg:voc:m1	nazwa pospolita	
+świedziebnianinowi	świedziebnianin	subst:sg:dat:m1	nazwa pospolita	
+świedziebnianin	świedziebnianin	subst:sg:nom:m1	nazwa pospolita	
+świedziebnianom	świedziebnianin	subst:pl:dat:m1	nazwa pospolita	
+świedziebnian	świedziebnianin	subst:pl:gen.acc:m1	nazwa pospolita	
+świedziebniany	świedziebnianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świedziebniance	świedziebnianka	subst:sg:dat.loc:f	nazwa pospolita	
+świedziebnianek	świedziebnianka	subst:pl:gen:f	nazwa pospolita	
+świedziebniankach	świedziebnianka	subst:pl:loc:f	nazwa pospolita	
+świedziebniankami	świedziebnianka	subst:pl:inst:f	nazwa pospolita	
+świedziebnianka	świedziebnianka	subst:sg:nom:f	nazwa pospolita	
+świedziebnianką	świedziebnianka	subst:sg:inst:f	nazwa pospolita	
+świedziebniankę	świedziebnianka	subst:sg:acc:f	nazwa pospolita	
+świedziebnianki	świedziebnianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świedziebnianki	świedziebnianka	subst:sg:gen:f	nazwa pospolita	
+świedziebniankom	świedziebnianka	subst:pl:dat:f	nazwa pospolita	
+świedziebnianko	świedziebnianka	subst:sg:voc:f	nazwa pospolita	
 świedziebniańscy	świedziebniański	adj:pl:nom.voc:m1:pos		
 świedziebniańska	świedziebniański	adj:sg:nom.voc:f:pos		
 świedziebniańską	świedziebniański	adj:sg:acc:f:pos		
@@ -23145,6 +23448,54 @@
 świegotuszki	świegotuszka	subst:sg:gen:f	nazwa pospolita	indyw.
 świegotuszkom	świegotuszka	subst:pl:dat:f	nazwa pospolita	indyw.
 świegotuszko	świegotuszka	subst:sg:voc:f	nazwa pospolita	indyw.
+świekatowianach	świekatowianin	subst:pl:loc:m1	nazwa pospolita	
+świekatowianami	świekatowianin	subst:pl:inst:m1	nazwa pospolita	
+świekatowianie	świekatowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+świekatowianina	świekatowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+świekatowianinem	świekatowianin	subst:sg:inst:m1	nazwa pospolita	
+świekatowianinie	świekatowianin	subst:sg:loc:m1	nazwa pospolita	
+świekatowianinie	świekatowianin	subst:sg:voc:m1	nazwa pospolita	
+świekatowianinowi	świekatowianin	subst:sg:dat:m1	nazwa pospolita	
+świekatowianin	świekatowianin	subst:sg:nom:m1	nazwa pospolita	
+świekatowianom	świekatowianin	subst:pl:dat:m1	nazwa pospolita	
+świekatowian	świekatowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+świekatowiany	świekatowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świekatowiance	świekatowianka	subst:sg:dat.loc:f	nazwa pospolita	
+świekatowianek	świekatowianka	subst:pl:gen:f	nazwa pospolita	
+świekatowiankach	świekatowianka	subst:pl:loc:f	nazwa pospolita	
+świekatowiankami	świekatowianka	subst:pl:inst:f	nazwa pospolita	
+świekatowianka	świekatowianka	subst:sg:nom:f	nazwa pospolita	
+świekatowianką	świekatowianka	subst:sg:inst:f	nazwa pospolita	
+świekatowiankę	świekatowianka	subst:sg:acc:f	nazwa pospolita	
+świekatowianki	świekatowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świekatowianki	świekatowianka	subst:sg:gen:f	nazwa pospolita	
+świekatowiankom	świekatowianka	subst:pl:dat:f	nazwa pospolita	
+świekatowianko	świekatowianka	subst:sg:voc:f	nazwa pospolita	
+świekatowscy	świekatowski	adj:pl:nom.voc:m1:pos		
+świekatowska	świekatowski	adj:sg:nom.voc:f:pos		
+świekatowską	świekatowski	adj:sg:acc:f:pos		
+świekatowską	świekatowski	adj:sg:inst:f:pos		
+świekatowskich	świekatowski	adj:pl:acc:m1:pos		
+świekatowskich	świekatowski	adj:pl:gen:m1.m2.m3.f.n:pos		
+świekatowskich	świekatowski	adj:pl:loc:m1.m2.m3.f.n:pos		
+świekatowskiego	świekatowski	adj:sg:acc:m1.m2:pos		
+świekatowskiego	świekatowski	adj:sg:gen:m1.m2.m3.n:pos		
+świekatowskiej	świekatowski	adj:sg:dat:f:pos		
+świekatowskiej	świekatowski	adj:sg:gen:f:pos		
+świekatowskiej	świekatowski	adj:sg:loc:f:pos		
+świekatowskiemu	świekatowski	adj:sg:dat:m1.m2.m3.n:pos		
+świekatowskie	świekatowski	adj:pl:acc:m2.m3.f.n:pos		
+świekatowskie	świekatowski	adj:pl:nom.voc:m2.m3.f.n:pos		
+świekatowskie	świekatowski	adj:sg:acc:n:pos		
+świekatowskie	świekatowski	adj:sg:nom.voc:n:pos		
+świekatowskimi	świekatowski	adj:pl:inst:m1.m2.m3.f.n:pos		
+świekatowskim	świekatowski	adj:pl:dat:m1.m2.m3.f.n:pos		
+świekatowskim	świekatowski	adj:sg:inst:m1.m2.m3.n:pos		
+świekatowskim	świekatowski	adj:sg:loc:m1.m2.m3.n:pos		
+świekatowski	świekatowski	adj:sg:acc:m3:pos		
+świekatowski	świekatowski	adj:sg:nom.voc:m1.m2.m3:pos		
+świekatowsko	świekatowski	adja		
+świekatowsku	świekatowski	adjp:dat		
 świekier	świekier	subst:sg:nom:m1	nazwa pospolita	przest.
 świekrach	świekier	subst:pl:loc:m1	nazwa pospolita	przest.
 świekrami	świekier	subst:pl:inst:m1	nazwa pospolita	przest.
@@ -23251,6 +23602,31 @@
 świeradowskości	świeradowskość	subst:sg:voc:f	nazwa pospolita	
 świeradowskość	świeradowskość	subst:sg:acc:f	nazwa pospolita	
 świeradowskość	świeradowskość	subst:sg:nom:f	nazwa pospolita	
+świerccy	świercki	adj:pl:nom.voc:m1:pos		
+świercka	świercki	adj:sg:nom.voc:f:pos		
+świercką	świercki	adj:sg:acc:f:pos		
+świercką	świercki	adj:sg:inst:f:pos		
+świerckich	świercki	adj:pl:acc:m1:pos		
+świerckich	świercki	adj:pl:gen:m1.m2.m3.f.n:pos		
+świerckich	świercki	adj:pl:loc:m1.m2.m3.f.n:pos		
+świerckiego	świercki	adj:sg:acc:m1.m2:pos		
+świerckiego	świercki	adj:sg:gen:m1.m2.m3.n:pos		
+świerckiej	świercki	adj:sg:dat:f:pos		
+świerckiej	świercki	adj:sg:gen:f:pos		
+świerckiej	świercki	adj:sg:loc:f:pos		
+świerckiemu	świercki	adj:sg:dat:m1.m2.m3.n:pos		
+świerckie	świercki	adj:pl:acc:m2.m3.f.n:pos		
+świerckie	świercki	adj:pl:nom.voc:m2.m3.f.n:pos		
+świerckie	świercki	adj:sg:acc:n:pos		
+świerckie	świercki	adj:sg:nom.voc:n:pos		
+świerckimi	świercki	adj:pl:inst:m1.m2.m3.f.n:pos		
+świerckim	świercki	adj:pl:dat:m1.m2.m3.f.n:pos		
+świerckim	świercki	adj:sg:inst:m1.m2.m3.n:pos		
+świerckim	świercki	adj:sg:loc:m1.m2.m3.n:pos		
+świercki	świercki	adj:sg:acc:m3:pos		
+świercki	świercki	adj:sg:nom.voc:m1.m2.m3:pos		
+świercko	świercki	adja		
+świercku	świercki	adjp:dat		
 świerczach	świercz	subst:pl:loc:m2	nazwa pospolita	daw.|rzad.|zool.
 świerczach	świercz	subst:pl:loc:m2	nazwa pospolita	daw.|zool.
 świerczami	świercz	subst:pl:inst:m2	nazwa pospolita	daw.|rzad.|zool.
@@ -23298,6 +23674,54 @@
 świerczałko	świerczałka	subst:sg:voc:m1	nazwa pospolita	daw.
 świerczałkowie	świerczałka	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 świerczałków	świerczałka	subst:pl:gen.acc:m1	nazwa pospolita	daw.
+świerczanach	świerczanin	subst:pl:loc:m1	nazwa pospolita	
+świerczanami	świerczanin	subst:pl:inst:m1	nazwa pospolita	
+świerczanie	świerczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+świerczanina	świerczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+świerczaninem	świerczanin	subst:sg:inst:m1	nazwa pospolita	
+świerczaninie	świerczanin	subst:sg:loc:m1	nazwa pospolita	
+świerczaninie	świerczanin	subst:sg:voc:m1	nazwa pospolita	
+świerczaninowi	świerczanin	subst:sg:dat:m1	nazwa pospolita	
+świerczanin	świerczanin	subst:sg:nom:m1	nazwa pospolita	
+świerczanom	świerczanin	subst:pl:dat:m1	nazwa pospolita	
+świerczan	świerczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+świerczany	świerczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świerczance	świerczanka	subst:sg:dat.loc:f	nazwa pospolita	
+świerczanek	świerczanka	subst:pl:gen:f	nazwa pospolita	
+świerczankach	świerczanka	subst:pl:loc:f	nazwa pospolita	
+świerczankami	świerczanka	subst:pl:inst:f	nazwa pospolita	
+świerczanka	świerczanka	subst:sg:nom:f	nazwa pospolita	
+świerczanką	świerczanka	subst:sg:inst:f	nazwa pospolita	
+świerczankę	świerczanka	subst:sg:acc:f	nazwa pospolita	
+świerczanki	świerczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świerczanki	świerczanka	subst:sg:gen:f	nazwa pospolita	
+świerczankom	świerczanka	subst:pl:dat:f	nazwa pospolita	
+świerczanko	świerczanka	subst:sg:voc:f	nazwa pospolita	
+świerczańscy	świerczański	adj:pl:nom.voc:m1:pos		
+świerczańska	świerczański	adj:sg:nom.voc:f:pos		
+świerczańską	świerczański	adj:sg:acc:f:pos		
+świerczańską	świerczański	adj:sg:inst:f:pos		
+świerczańskich	świerczański	adj:pl:acc:m1:pos		
+świerczańskich	świerczański	adj:pl:gen:m1.m2.m3.f.n:pos		
+świerczańskich	świerczański	adj:pl:loc:m1.m2.m3.f.n:pos		
+świerczańskiego	świerczański	adj:sg:acc:m1.m2:pos		
+świerczańskiego	świerczański	adj:sg:gen:m1.m2.m3.n:pos		
+świerczańskiej	świerczański	adj:sg:dat:f:pos		
+świerczańskiej	świerczański	adj:sg:gen:f:pos		
+świerczańskiej	świerczański	adj:sg:loc:f:pos		
+świerczańskiemu	świerczański	adj:sg:dat:m1.m2.m3.n:pos		
+świerczańskie	świerczański	adj:pl:acc:m2.m3.f.n:pos		
+świerczańskie	świerczański	adj:pl:nom.voc:m2.m3.f.n:pos		
+świerczańskie	świerczański	adj:sg:acc:n:pos		
+świerczańskie	świerczański	adj:sg:nom.voc:n:pos		
+świerczańskimi	świerczański	adj:pl:inst:m1.m2.m3.f.n:pos		
+świerczańskim	świerczański	adj:pl:dat:m1.m2.m3.f.n:pos		
+świerczańskim	świerczański	adj:sg:inst:m1.m2.m3.n:pos		
+świerczańskim	świerczański	adj:sg:loc:m1.m2.m3.n:pos		
+świerczański	świerczański	adj:sg:acc:m3:pos		
+świerczański	świerczański	adj:sg:nom.voc:m1.m2.m3:pos		
+świerczańsko	świerczański	adja		
+świerczańsku	świerczański	adjp:dat		
 świerczałabym	świerczeć	cond:sg:f:pri:imperf		daw.
 świerczałabyś	świerczeć	cond:sg:f:sec:imperf		daw.
 świerczałaby	świerczeć	cond:sg:f:ter:imperf		daw.
@@ -23382,6 +23806,29 @@
 świerczków	świerczek	subst:pl:gen:m3	nazwa pospolita	
 świerczku	świerczek	subst:sg:loc:m3	nazwa pospolita	
 świerczku	świerczek	subst:sg:voc:m3	nazwa pospolita	
+świerczowianach	świerczowianin	subst:pl:loc:m1	nazwa pospolita	
+świerczowianami	świerczowianin	subst:pl:inst:m1	nazwa pospolita	
+świerczowianie	świerczowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+świerczowianina	świerczowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+świerczowianinem	świerczowianin	subst:sg:inst:m1	nazwa pospolita	
+świerczowianinie	świerczowianin	subst:sg:loc:m1	nazwa pospolita	
+świerczowianinie	świerczowianin	subst:sg:voc:m1	nazwa pospolita	
+świerczowianinowi	świerczowianin	subst:sg:dat:m1	nazwa pospolita	
+świerczowianin	świerczowianin	subst:sg:nom:m1	nazwa pospolita	
+świerczowianom	świerczowianin	subst:pl:dat:m1	nazwa pospolita	
+świerczowian	świerczowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+świerczowiany	świerczowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świerczowiance	świerczowianka	subst:sg:dat.loc:f	nazwa pospolita	
+świerczowianek	świerczowianka	subst:pl:gen:f	nazwa pospolita	
+świerczowiankach	świerczowianka	subst:pl:loc:f	nazwa pospolita	
+świerczowiankami	świerczowianka	subst:pl:inst:f	nazwa pospolita	
+świerczowianka	świerczowianka	subst:sg:nom:f	nazwa pospolita	
+świerczowianką	świerczowianka	subst:sg:inst:f	nazwa pospolita	
+świerczowiankę	świerczowianka	subst:sg:acc:f	nazwa pospolita	
+świerczowianki	świerczowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świerczowianki	świerczowianka	subst:sg:gen:f	nazwa pospolita	
+świerczowiankom	świerczowianka	subst:pl:dat:f	nazwa pospolita	
+świerczowianko	świerczowianka	subst:sg:voc:f	nazwa pospolita	
 świerczowscy	świerczowski	adj:pl:nom.voc:m1:pos		
 świerczowska	świerczowski	adj:sg:nom.voc:f:pos		
 świerczowską	świerczowski	adj:sg:acc:f:pos		
@@ -23816,6 +24263,77 @@
 świerkań	świerkać	ger:pl:gen:n:imperf:aff		
 świerkasz	świerkać	fin:sg:sec:imperf		
 świerka	świerkać	fin:sg:ter:imperf		
+świerklanianach	świerklanianin	subst:pl:loc:m1	nazwa pospolita	
+świerklanianami	świerklanianin	subst:pl:inst:m1	nazwa pospolita	
+świerklanianie	świerklanianin	subst:pl:nom.voc:m1	nazwa pospolita	
+świerklanianina	świerklanianin	subst:sg:gen.acc:m1	nazwa pospolita	
+świerklanianinem	świerklanianin	subst:sg:inst:m1	nazwa pospolita	
+świerklanianinie	świerklanianin	subst:sg:loc:m1	nazwa pospolita	
+świerklanianinie	świerklanianin	subst:sg:voc:m1	nazwa pospolita	
+świerklanianinowi	świerklanianin	subst:sg:dat:m1	nazwa pospolita	
+świerklanianin	świerklanianin	subst:sg:nom:m1	nazwa pospolita	
+świerklanianom	świerklanianin	subst:pl:dat:m1	nazwa pospolita	
+świerklanian	świerklanianin	subst:pl:gen.acc:m1	nazwa pospolita	
+świerklaniany	świerklanianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świerklaniance	świerklanianka	subst:sg:dat.loc:f	nazwa pospolita	
+świerklanianek	świerklanianka	subst:pl:gen:f	nazwa pospolita	
+świerklaniankach	świerklanianka	subst:pl:loc:f	nazwa pospolita	
+świerklaniankami	świerklanianka	subst:pl:inst:f	nazwa pospolita	
+świerklanianka	świerklanianka	subst:sg:nom:f	nazwa pospolita	
+świerklanianką	świerklanianka	subst:sg:inst:f	nazwa pospolita	
+świerklaniankę	świerklanianka	subst:sg:acc:f	nazwa pospolita	
+świerklanianki	świerklanianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świerklanianki	świerklanianka	subst:sg:gen:f	nazwa pospolita	
+świerklaniankom	świerklanianka	subst:pl:dat:f	nazwa pospolita	
+świerklanianko	świerklanianka	subst:sg:voc:f	nazwa pospolita	
+świerklanieccy	świerklaniecki	adj:pl:nom.voc:m1:pos		
+świerklaniecka	świerklaniecki	adj:sg:nom.voc:f:pos		
+świerklaniecką	świerklaniecki	adj:sg:acc:f:pos		
+świerklaniecką	świerklaniecki	adj:sg:inst:f:pos		
+świerklanieckich	świerklaniecki	adj:pl:acc:m1:pos		
+świerklanieckich	świerklaniecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+świerklanieckich	świerklaniecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+świerklanieckiego	świerklaniecki	adj:sg:acc:m1.m2:pos		
+świerklanieckiego	świerklaniecki	adj:sg:gen:m1.m2.m3.n:pos		
+świerklanieckiej	świerklaniecki	adj:sg:dat:f:pos		
+świerklanieckiej	świerklaniecki	adj:sg:gen:f:pos		
+świerklanieckiej	świerklaniecki	adj:sg:loc:f:pos		
+świerklanieckiemu	świerklaniecki	adj:sg:dat:m1.m2.m3.n:pos		
+świerklanieckie	świerklaniecki	adj:pl:acc:m2.m3.f.n:pos		
+świerklanieckie	świerklaniecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+świerklanieckie	świerklaniecki	adj:sg:acc:n:pos		
+świerklanieckie	świerklaniecki	adj:sg:nom.voc:n:pos		
+świerklanieckimi	świerklaniecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+świerklanieckim	świerklaniecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+świerklanieckim	świerklaniecki	adj:sg:inst:m1.m2.m3.n:pos		
+świerklanieckim	świerklaniecki	adj:sg:loc:m1.m2.m3.n:pos		
+świerklaniecki	świerklaniecki	adj:sg:acc:m3:pos		
+świerklaniecki	świerklaniecki	adj:sg:nom.voc:m1.m2.m3:pos		
+świerklaniecko	świerklaniecki	adja		
+świerklaniecku	świerklaniecki	adjp:dat		
+świerklańczanach	świerklańczanin	subst:pl:loc:m1	nazwa pospolita	
+świerklańczanami	świerklańczanin	subst:pl:inst:m1	nazwa pospolita	
+świerklańczanie	świerklańczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+świerklańczanina	świerklańczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+świerklańczaninem	świerklańczanin	subst:sg:inst:m1	nazwa pospolita	
+świerklańczaninie	świerklańczanin	subst:sg:loc:m1	nazwa pospolita	
+świerklańczaninie	świerklańczanin	subst:sg:voc:m1	nazwa pospolita	
+świerklańczaninowi	świerklańczanin	subst:sg:dat:m1	nazwa pospolita	
+świerklańczanin	świerklańczanin	subst:sg:nom:m1	nazwa pospolita	
+świerklańczanom	świerklańczanin	subst:pl:dat:m1	nazwa pospolita	
+świerklańczan	świerklańczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+świerklańczany	świerklańczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świerklańczance	świerklańczanka	subst:sg:dat.loc:f	nazwa pospolita	
+świerklańczanek	świerklańczanka	subst:pl:gen:f	nazwa pospolita	
+świerklańczankach	świerklańczanka	subst:pl:loc:f	nazwa pospolita	
+świerklańczankami	świerklańczanka	subst:pl:inst:f	nazwa pospolita	
+świerklańczanka	świerklańczanka	subst:sg:nom:f	nazwa pospolita	
+świerklańczanką	świerklańczanka	subst:sg:inst:f	nazwa pospolita	
+świerklańczankę	świerklańczanka	subst:sg:acc:f	nazwa pospolita	
+świerklańczanki	świerklańczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świerklańczanki	świerklańczanka	subst:sg:gen:f	nazwa pospolita	
+świerklańczankom	świerklańczanka	subst:pl:dat:f	nazwa pospolita	
+świerklańczanko	świerklańczanka	subst:sg:voc:f	nazwa pospolita	
 świerklańscy	świerklański	adj:pl:nom.voc:m1:pos		
 świerklańska	świerklański	adj:sg:nom.voc:f:pos		
 świerklańską	świerklański	adj:sg:acc:f:pos		
@@ -24118,6 +24636,29 @@
 świerszczyk	świerszczyk	subst:sg:nom:m2	nazwa pospolita	
 świerszczyku	świerszczyk	subst:sg:loc:m2	nazwa pospolita	
 świerszczyku	świerszczyk	subst:sg:voc:m2	nazwa pospolita	
+świerzawianach	świerzawianin	subst:pl:loc:m1	nazwa pospolita	
+świerzawianami	świerzawianin	subst:pl:inst:m1	nazwa pospolita	
+świerzawianie	świerzawianin	subst:pl:nom.voc:m1	nazwa pospolita	
+świerzawianina	świerzawianin	subst:sg:gen.acc:m1	nazwa pospolita	
+świerzawianinem	świerzawianin	subst:sg:inst:m1	nazwa pospolita	
+świerzawianinie	świerzawianin	subst:sg:loc:m1	nazwa pospolita	
+świerzawianinie	świerzawianin	subst:sg:voc:m1	nazwa pospolita	
+świerzawianinowi	świerzawianin	subst:sg:dat:m1	nazwa pospolita	
+świerzawianin	świerzawianin	subst:sg:nom:m1	nazwa pospolita	
+świerzawianom	świerzawianin	subst:pl:dat:m1	nazwa pospolita	
+świerzawian	świerzawianin	subst:pl:gen.acc:m1	nazwa pospolita	
+świerzawiany	świerzawianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świerzawiance	świerzawianka	subst:sg:dat.loc:f	nazwa pospolita	
+świerzawianek	świerzawianka	subst:pl:gen:f	nazwa pospolita	
+świerzawiankach	świerzawianka	subst:pl:loc:f	nazwa pospolita	
+świerzawiankami	świerzawianka	subst:pl:inst:f	nazwa pospolita	
+świerzawianka	świerzawianka	subst:sg:nom:f	nazwa pospolita	
+świerzawianką	świerzawianka	subst:sg:inst:f	nazwa pospolita	
+świerzawiankę	świerzawianka	subst:sg:acc:f	nazwa pospolita	
+świerzawianki	świerzawianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świerzawianki	świerzawianka	subst:sg:gen:f	nazwa pospolita	
+świerzawiankom	świerzawianka	subst:pl:dat:f	nazwa pospolita	
+świerzawianko	świerzawianka	subst:sg:voc:f	nazwa pospolita	
 świerzawscy	świerzawski	adj:pl:nom.voc:m1:pos		
 świerzawska	świerzawski	adj:sg:nom.voc:f:pos		
 świerzawską	świerzawski	adj:sg:acc:f:pos		
@@ -24486,6 +25027,29 @@
 świerzep	świerzepa	subst:pl:gen:f	nazwa pospolita	daw.
 świerzepy	świerzepa	subst:pl:nom.acc.voc:f	nazwa pospolita	daw.
 świerzepy	świerzepa	subst:sg:gen:f	nazwa pospolita	daw.
+świerznianach	świerznianin	subst:pl:loc:m1	nazwa pospolita	
+świerznianami	świerznianin	subst:pl:inst:m1	nazwa pospolita	
+świerznianie	świerznianin	subst:pl:nom.voc:m1	nazwa pospolita	
+świerznianina	świerznianin	subst:sg:gen.acc:m1	nazwa pospolita	
+świerznianinem	świerznianin	subst:sg:inst:m1	nazwa pospolita	
+świerznianinie	świerznianin	subst:sg:loc:m1	nazwa pospolita	
+świerznianinie	świerznianin	subst:sg:voc:m1	nazwa pospolita	
+świerznianinowi	świerznianin	subst:sg:dat:m1	nazwa pospolita	
+świerznianin	świerznianin	subst:sg:nom:m1	nazwa pospolita	
+świerznianom	świerznianin	subst:pl:dat:m1	nazwa pospolita	
+świerznian	świerznianin	subst:pl:gen.acc:m1	nazwa pospolita	
+świerzniany	świerznianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świerzniance	świerznianka	subst:sg:dat.loc:f	nazwa pospolita	
+świerznianek	świerznianka	subst:pl:gen:f	nazwa pospolita	
+świerzniankach	świerznianka	subst:pl:loc:f	nazwa pospolita	
+świerzniankami	świerznianka	subst:pl:inst:f	nazwa pospolita	
+świerznianka	świerznianka	subst:sg:nom:f	nazwa pospolita	
+świerznianką	świerznianka	subst:sg:inst:f	nazwa pospolita	
+świerzniankę	świerznianka	subst:sg:acc:f	nazwa pospolita	
+świerznianki	świerznianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świerznianki	świerznianka	subst:sg:gen:f	nazwa pospolita	
+świerzniankom	świerznianka	subst:pl:dat:f	nazwa pospolita	
+świerznianko	świerznianka	subst:sg:voc:f	nazwa pospolita	
 świerzopach	świerzop	subst:pl:loc:m3	nazwa pospolita	
 świerzopami	świerzop	subst:pl:inst:m3	nazwa pospolita	
 świerzopem	świerzop	subst:sg:inst:m3	nazwa pospolita	
@@ -24508,6 +25072,29 @@
 świerzop	świerzopa	subst:pl:gen:f	nazwa pospolita	daw.
 świerzopy	świerzopa	subst:pl:nom.acc.voc:f	nazwa pospolita	daw.
 świerzopy	świerzopa	subst:sg:gen:f	nazwa pospolita	daw.
+świeszynianach	świeszynianin	subst:pl:loc:m1	nazwa pospolita	
+świeszynianami	świeszynianin	subst:pl:inst:m1	nazwa pospolita	
+świeszynianie	świeszynianin	subst:pl:nom.voc:m1	nazwa pospolita	
+świeszynianina	świeszynianin	subst:sg:gen.acc:m1	nazwa pospolita	
+świeszynianinem	świeszynianin	subst:sg:inst:m1	nazwa pospolita	
+świeszynianinie	świeszynianin	subst:sg:loc:m1	nazwa pospolita	
+świeszynianinie	świeszynianin	subst:sg:voc:m1	nazwa pospolita	
+świeszynianinowi	świeszynianin	subst:sg:dat:m1	nazwa pospolita	
+świeszynianin	świeszynianin	subst:sg:nom:m1	nazwa pospolita	
+świeszynianom	świeszynianin	subst:pl:dat:m1	nazwa pospolita	
+świeszynian	świeszynianin	subst:pl:gen.acc:m1	nazwa pospolita	
+świeszyniany	świeszynianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świeszyniance	świeszynianka	subst:sg:dat.loc:f	nazwa pospolita	
+świeszynianek	świeszynianka	subst:pl:gen:f	nazwa pospolita	
+świeszyniankach	świeszynianka	subst:pl:loc:f	nazwa pospolita	
+świeszyniankami	świeszynianka	subst:pl:inst:f	nazwa pospolita	
+świeszynianka	świeszynianka	subst:sg:nom:f	nazwa pospolita	
+świeszynianką	świeszynianka	subst:sg:inst:f	nazwa pospolita	
+świeszyniankę	świeszynianka	subst:sg:acc:f	nazwa pospolita	
+świeszynianki	świeszynianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świeszynianki	świeszynianka	subst:sg:gen:f	nazwa pospolita	
+świeszyniankom	świeszynianka	subst:pl:dat:f	nazwa pospolita	
+świeszynianko	świeszynianka	subst:sg:voc:f	nazwa pospolita	
 świeszyńscy	świeszyński	adj:pl:nom.voc:m1:pos		
 świeszyńska	świeszyński	adj:sg:nom.voc:f:pos		
 świeszyńską	świeszyński	adj:sg:acc:f:pos		
@@ -25847,6 +26434,29 @@
 święć	święcić	impt:sg:sec:imperf		
 święciej	święcie	adv:com		daw.
 święcie	święcie	adv:pos		
+święciechowianach	święciechowianin	subst:pl:loc:m1	nazwa pospolita	
+święciechowianami	święciechowianin	subst:pl:inst:m1	nazwa pospolita	
+święciechowianie	święciechowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+święciechowianina	święciechowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+święciechowianinem	święciechowianin	subst:sg:inst:m1	nazwa pospolita	
+święciechowianinie	święciechowianin	subst:sg:loc:m1	nazwa pospolita	
+święciechowianinie	święciechowianin	subst:sg:voc:m1	nazwa pospolita	
+święciechowianinowi	święciechowianin	subst:sg:dat:m1	nazwa pospolita	
+święciechowianin	święciechowianin	subst:sg:nom:m1	nazwa pospolita	
+święciechowianom	święciechowianin	subst:pl:dat:m1	nazwa pospolita	
+święciechowian	święciechowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+święciechowiany	święciechowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+święciechowiance	święciechowianka	subst:sg:dat.loc:f	nazwa pospolita	
+święciechowianek	święciechowianka	subst:pl:gen:f	nazwa pospolita	
+święciechowiankach	święciechowianka	subst:pl:loc:f	nazwa pospolita	
+święciechowiankami	święciechowianka	subst:pl:inst:f	nazwa pospolita	
+święciechowianka	święciechowianka	subst:sg:nom:f	nazwa pospolita	
+święciechowianką	święciechowianka	subst:sg:inst:f	nazwa pospolita	
+święciechowiankę	święciechowianka	subst:sg:acc:f	nazwa pospolita	
+święciechowianki	święciechowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+święciechowianki	święciechowianka	subst:sg:gen:f	nazwa pospolita	
+święciechowiankom	święciechowianka	subst:pl:dat:f	nazwa pospolita	
+święciechowianko	święciechowianka	subst:sg:voc:f	nazwa pospolita	
 święciechowscy	święciechowski	adj:pl:nom.voc:m1:pos		
 święciechowska	święciechowski	adj:sg:nom.voc:f:pos		
 święciechowską	święciechowski	adj:sg:acc:f:pos		
@@ -25988,6 +26598,29 @@
 świętajeńskości	świętajeńskość	subst:sg:voc:f	nazwa pospolita	
 świętajeńskość	świętajeńskość	subst:sg:acc:f	nazwa pospolita	
 świętajeńskość	świętajeńskość	subst:sg:nom:f	nazwa pospolita	
+świętajnianach	świętajnianin	subst:pl:loc:m1	nazwa pospolita	
+świętajnianami	świętajnianin	subst:pl:inst:m1	nazwa pospolita	
+świętajnianie	świętajnianin	subst:pl:nom.voc:m1	nazwa pospolita	
+świętajnianina	świętajnianin	subst:sg:gen.acc:m1	nazwa pospolita	
+świętajnianinem	świętajnianin	subst:sg:inst:m1	nazwa pospolita	
+świętajnianinie	świętajnianin	subst:sg:loc:m1	nazwa pospolita	
+świętajnianinie	świętajnianin	subst:sg:voc:m1	nazwa pospolita	
+świętajnianinowi	świętajnianin	subst:sg:dat:m1	nazwa pospolita	
+świętajnianin	świętajnianin	subst:sg:nom:m1	nazwa pospolita	
+świętajnianom	świętajnianin	subst:pl:dat:m1	nazwa pospolita	
+świętajnian	świętajnianin	subst:pl:gen.acc:m1	nazwa pospolita	
+świętajniany	świętajnianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świętajniance	świętajnianka	subst:sg:dat.loc:f	nazwa pospolita	
+świętajnianek	świętajnianka	subst:pl:gen:f	nazwa pospolita	
+świętajniankach	świętajnianka	subst:pl:loc:f	nazwa pospolita	
+świętajniankami	świętajnianka	subst:pl:inst:f	nazwa pospolita	
+świętajnianka	świętajnianka	subst:sg:nom:f	nazwa pospolita	
+świętajnianką	świętajnianka	subst:sg:inst:f	nazwa pospolita	
+świętajniankę	świętajnianka	subst:sg:acc:f	nazwa pospolita	
+świętajnianki	świętajnianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świętajnianki	świętajnianka	subst:sg:gen:f	nazwa pospolita	
+świętajniankom	świętajnianka	subst:pl:dat:f	nazwa pospolita	
+świętajnianko	świętajnianka	subst:sg:voc:f	nazwa pospolita	
 świętalnościach	świętalność	subst:pl:loc:f	nazwa pospolita	daw.
 świętalnościami	świętalność	subst:pl:inst:f	nazwa pospolita	daw.
 świętalnością	świętalność	subst:sg:inst:f	nazwa pospolita	daw.
@@ -26833,6 +27466,54 @@
 świętym	święty:s	subst:sg:loc:m1	nazwa pospolita	
 święty	święty:s	subst:sg:nom:m1	nazwa pospolita	
 święty	święty:s	subst:sg:voc:m1	nazwa pospolita	
+świlczanach	świlczanin	subst:pl:loc:m1	nazwa pospolita	
+świlczanami	świlczanin	subst:pl:inst:m1	nazwa pospolita	
+świlczanie	świlczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+świlczanina	świlczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+świlczaninem	świlczanin	subst:sg:inst:m1	nazwa pospolita	
+świlczaninie	świlczanin	subst:sg:loc:m1	nazwa pospolita	
+świlczaninie	świlczanin	subst:sg:voc:m1	nazwa pospolita	
+świlczaninowi	świlczanin	subst:sg:dat:m1	nazwa pospolita	
+świlczanin	świlczanin	subst:sg:nom:m1	nazwa pospolita	
+świlczanom	świlczanin	subst:pl:dat:m1	nazwa pospolita	
+świlczan	świlczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+świlczany	świlczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świlczance	świlczanka	subst:sg:dat.loc:f	nazwa pospolita	
+świlczanek	świlczanka	subst:pl:gen:f	nazwa pospolita	
+świlczankach	świlczanka	subst:pl:loc:f	nazwa pospolita	
+świlczankami	świlczanka	subst:pl:inst:f	nazwa pospolita	
+świlczanka	świlczanka	subst:sg:nom:f	nazwa pospolita	
+świlczanką	świlczanka	subst:sg:inst:f	nazwa pospolita	
+świlczankę	świlczanka	subst:sg:acc:f	nazwa pospolita	
+świlczanki	świlczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świlczanki	świlczanka	subst:sg:gen:f	nazwa pospolita	
+świlczankom	świlczanka	subst:pl:dat:f	nazwa pospolita	
+świlczanko	świlczanka	subst:sg:voc:f	nazwa pospolita	
+świlczańscy	świlczański	adj:pl:nom.voc:m1:pos		
+świlczańska	świlczański	adj:sg:nom.voc:f:pos		
+świlczańską	świlczański	adj:sg:acc:f:pos		
+świlczańską	świlczański	adj:sg:inst:f:pos		
+świlczańskich	świlczański	adj:pl:acc:m1:pos		
+świlczańskich	świlczański	adj:pl:gen:m1.m2.m3.f.n:pos		
+świlczańskich	świlczański	adj:pl:loc:m1.m2.m3.f.n:pos		
+świlczańskiego	świlczański	adj:sg:acc:m1.m2:pos		
+świlczańskiego	świlczański	adj:sg:gen:m1.m2.m3.n:pos		
+świlczańskiej	świlczański	adj:sg:dat:f:pos		
+świlczańskiej	świlczański	adj:sg:gen:f:pos		
+świlczańskiej	świlczański	adj:sg:loc:f:pos		
+świlczańskiemu	świlczański	adj:sg:dat:m1.m2.m3.n:pos		
+świlczańskie	świlczański	adj:pl:acc:m2.m3.f.n:pos		
+świlczańskie	świlczański	adj:pl:nom.voc:m2.m3.f.n:pos		
+świlczańskie	świlczański	adj:sg:acc:n:pos		
+świlczańskie	świlczański	adj:sg:nom.voc:n:pos		
+świlczańskimi	świlczański	adj:pl:inst:m1.m2.m3.f.n:pos		
+świlczańskim	świlczański	adj:pl:dat:m1.m2.m3.f.n:pos		
+świlczańskim	świlczański	adj:sg:inst:m1.m2.m3.n:pos		
+świlczańskim	świlczański	adj:sg:loc:m1.m2.m3.n:pos		
+świlczański	świlczański	adj:sg:acc:m3:pos		
+świlczański	świlczański	adj:sg:nom.voc:m1.m2.m3:pos		
+świlczańsko	świlczański	adja		
+świlczańsku	świlczański	adjp:dat		
 świneczce	świneczka	subst:sg:dat.loc:f	nazwa pospolita	
 świneczek	świneczka	subst:pl:gen:f	nazwa pospolita	
 świneczkach	świneczka	subst:pl:loc:f	nazwa pospolita	
@@ -26996,6 +27677,29 @@
 świnickości	świnickość	subst:sg:voc:f	nazwa pospolita	
 świnickość	świnickość	subst:sg:acc:f	nazwa pospolita	
 świnickość	świnickość	subst:sg:nom:f	nazwa pospolita	
+świniczanach	świniczanin	subst:pl:loc:m1	nazwa pospolita	
+świniczanami	świniczanin	subst:pl:inst:m1	nazwa pospolita	
+świniczanie	świniczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+świniczanina	świniczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+świniczaninem	świniczanin	subst:sg:inst:m1	nazwa pospolita	
+świniczaninie	świniczanin	subst:sg:loc:m1	nazwa pospolita	
+świniczaninie	świniczanin	subst:sg:voc:m1	nazwa pospolita	
+świniczaninowi	świniczanin	subst:sg:dat:m1	nazwa pospolita	
+świniczanin	świniczanin	subst:sg:nom:m1	nazwa pospolita	
+świniczanom	świniczanin	subst:pl:dat:m1	nazwa pospolita	
+świniczan	świniczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+świniczany	świniczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świniczance	świniczanka	subst:sg:dat.loc:f	nazwa pospolita	
+świniczanek	świniczanka	subst:pl:gen:f	nazwa pospolita	
+świniczankach	świniczanka	subst:pl:loc:f	nazwa pospolita	
+świniczankami	świniczanka	subst:pl:inst:f	nazwa pospolita	
+świniczanka	świniczanka	subst:sg:nom:f	nazwa pospolita	
+świniczanką	świniczanka	subst:sg:inst:f	nazwa pospolita	
+świniczankę	świniczanka	subst:sg:acc:f	nazwa pospolita	
+świniczanki	świniczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świniczanki	świniczanka	subst:sg:gen:f	nazwa pospolita	
+świniczankom	świniczanka	subst:pl:dat:f	nazwa pospolita	
+świniczanko	świniczanka	subst:sg:voc:f	nazwa pospolita	
 świniąca	świnić	pact:sg:nom.voc:f:imperf:aff		
 świniącą	świnić	pact:sg:acc.inst:f:imperf:aff		
 świniącego	świnić	pact:sg:acc:m1.m2:imperf:aff		
@@ -27248,6 +27952,29 @@
 świnki	świnka	subst:sg:gen:f	nazwa pospolita	
 świnkom	świnka	subst:pl:dat:f	nazwa pospolita	
 świnko	świnka	subst:sg:voc:f	nazwa pospolita	
+świnnianach	świnnianin	subst:pl:loc:m1	nazwa pospolita	
+świnnianami	świnnianin	subst:pl:inst:m1	nazwa pospolita	
+świnnianie	świnnianin	subst:pl:nom.voc:m1	nazwa pospolita	
+świnnianina	świnnianin	subst:sg:gen.acc:m1	nazwa pospolita	
+świnnianinem	świnnianin	subst:sg:inst:m1	nazwa pospolita	
+świnnianinie	świnnianin	subst:sg:loc:m1	nazwa pospolita	
+świnnianinie	świnnianin	subst:sg:voc:m1	nazwa pospolita	
+świnnianinowi	świnnianin	subst:sg:dat:m1	nazwa pospolita	
+świnnianin	świnnianin	subst:sg:nom:m1	nazwa pospolita	
+świnnianom	świnnianin	subst:pl:dat:m1	nazwa pospolita	
+świnnian	świnnianin	subst:pl:gen.acc:m1	nazwa pospolita	
+świnniany	świnnianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+świnniance	świnnianka	subst:sg:dat.loc:f	nazwa pospolita	
+świnnianek	świnnianka	subst:pl:gen:f	nazwa pospolita	
+świnniankach	świnnianka	subst:pl:loc:f	nazwa pospolita	
+świnniankami	świnnianka	subst:pl:inst:f	nazwa pospolita	
+świnnianka	świnnianka	subst:sg:nom:f	nazwa pospolita	
+świnnianką	świnnianka	subst:sg:inst:f	nazwa pospolita	
+świnniankę	świnnianka	subst:sg:acc:f	nazwa pospolita	
+świnnianki	świnnianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+świnnianki	świnnianka	subst:sg:gen:f	nazwa pospolita	
+świnniankom	świnnianka	subst:pl:dat:f	nazwa pospolita	
+świnnianko	świnnianka	subst:sg:voc:f	nazwa pospolita	
 świnopasach	świnopas	subst:pl:loc:m1	nazwa pospolita	
 świnopasami	świnopas	subst:pl:inst:m1	nazwa pospolita	
 świnopasa	świnopas	subst:sg:gen.acc:m1	nazwa pospolita	

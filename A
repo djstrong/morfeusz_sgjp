@@ -411,6 +411,16 @@ Abramiuków	Abramiuk:s1	subst:pl:gen.acc:m1	nazwisko
 Abramiuku	Abramiuk:s1	subst:sg:loc:m1	nazwisko	
 Abramiuku	Abramiuk:s1	subst:sg:voc:m1	nazwisko	
 Abramiuk	Abramiuk:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Abramowic	Abramowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Abramowic	Abramowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Abramowicach	Abramowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Abramowicach	Abramowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Abramowicami	Abramowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Abramowicami	Abramowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Abramowice	Abramowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Abramowice	Abramowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Abramowicom	Abramowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Abramowicom	Abramowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Abramowicza	Abramowicz:s1	subst:sg:gen.acc:m1	nazwisko	
 Abramowicz	Abramowicz:s1	subst:sg:nom:m1	nazwisko	
 Abramowiczach	Abramowicz:s1	subst:pl:loc:m1	nazwisko	
@@ -508,6 +518,16 @@ Abramskim	Abramski	subst:pl:dat:m1	nazwisko
 Abramskim	Abramski	subst:sg:inst:m1	nazwisko	
 Abramskim	Abramski	subst:sg:loc:m1	nazwisko	
 Abramskimi	Abramski	subst:pl:inst:m1	nazwisko	
+Abramach	Abramy	subst:pl:loc:n:pt	nazwa geograficzna	
+Abramach	Abramy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Abramami	Abramy	subst:pl:inst:n:pt	nazwa geograficzna	
+Abramami	Abramy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Abramom	Abramy	subst:pl:dat:n:pt	nazwa geograficzna	
+Abramom	Abramy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Abramów	Abramy	subst:pl:gen:n:pt	nazwa geograficzna	
+Abramów	Abramy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Abramy	Abramy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Abramy	Abramy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Abratańska	Abratańska	subst:sg:nom:f	nazwisko	
 Abratańska	Abratańska	subst:sg:voc:f	nazwisko	
 Abratańską	Abratańska	subst:sg:acc:f	nazwisko	
@@ -771,6 +791,16 @@ Achremowie	Achrem:s1	subst:pl:nom.voc:m1	nazwisko
 Achremów	Achrem:s1	subst:pl:gen.acc:m1	nazwisko	
 Achremy	Achrem:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Achrem	Achrem:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Achrymowcach	Achrymowce	subst:pl:loc:n:pt	nazwa geograficzna	
+Achrymowcach	Achrymowce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Achrymowcami	Achrymowce	subst:pl:inst:n:pt	nazwa geograficzna	
+Achrymowcami	Achrymowce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Achrymowce	Achrymowce	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Achrymowce	Achrymowce	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Achrymowcom	Achrymowce	subst:pl:dat:n:pt	nazwa geograficzna	
+Achrymowcom	Achrymowce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Achrymowiec	Achrymowce	subst:pl:gen:n:pt	nazwa geograficzna	
+Achrymowiec	Achrymowce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Achtelika	Achtelik:s2	subst:sg:gen.acc:m1	nazwisko	
 Achtelikach	Achtelik:s2	subst:pl:loc:m1	nazwisko	
 Achtelik	Achtelik:s2	subst:sg:nom:m1	nazwisko	
@@ -947,6 +977,16 @@ Adamczewskim	Adamczewski	subst:pl:dat:m1	nazwisko
 Adamczewskim	Adamczewski	subst:sg:inst:m1	nazwisko	
 Adamczewskim	Adamczewski	subst:sg:loc:m1	nazwisko	
 Adamczewskimi	Adamczewski	subst:pl:inst:m1	nazwisko	
+Adamczowicach	Adamczowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Adamczowicach	Adamczowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Adamczowic	Adamczowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Adamczowic	Adamczowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Adamczowicami	Adamczowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Adamczowicami	Adamczowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Adamczowice	Adamczowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Adamczowice	Adamczowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Adamczowicom	Adamczowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Adamczowicom	Adamczowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Adamczuka	Adamczuk:s2	subst:sg:gen.acc:m1	nazwisko	
 Adamczukach	Adamczuk:s2	subst:pl:loc:m1	nazwisko	
 Adamczuk	Adamczuk:s2	subst:sg:nom:m1	nazwisko	
@@ -960,6 +1000,17 @@ Adamczuków	Adamczuk:s2	subst:pl:gen.acc:m1	nazwisko
 Adamczuku	Adamczuk:s2	subst:sg:loc:m1	nazwisko	
 Adamczuku	Adamczuk:s2	subst:sg:voc:m1	nazwisko	
 Adamczuk	Adamczuk:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Adamczycha	Adamczycha	subst:sg:nom:f	nazwa geograficzna	
+Adamczychach	Adamczycha	subst:pl:loc:f	nazwa geograficzna	
+Adamczych	Adamczycha	subst:pl:gen:f	nazwa geograficzna	
+Adamczychami	Adamczycha	subst:pl:inst:f	nazwa geograficzna	
+Adamczychą	Adamczycha	subst:sg:inst:f	nazwa geograficzna	
+Adamczychę	Adamczycha	subst:sg:acc:f	nazwa geograficzna	
+Adamczycho	Adamczycha	subst:sg:voc:f	nazwa geograficzna	
+Adamczychom	Adamczycha	subst:pl:dat:f	nazwa geograficzna	
+Adamczychy	Adamczycha	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Adamczychy	Adamczycha	subst:sg:gen:f	nazwa geograficzna	
+Adamczysze	Adamczycha	subst:sg:dat.loc:f	nazwa geograficzna	
 Adamczyka	Adamczyk:s1	subst:sg:gen.acc:m1	nazwisko	
 Adamczykach	Adamczyk:s1	subst:pl:loc:m1	nazwisko	
 Adamczyk	Adamczyk:s1	subst:sg:nom:m1	nazwisko	
@@ -999,6 +1050,17 @@ Adamków	Adamek:s4	subst:pl:gen.acc:m1	nazwisko
 Adamku	Adamek:s4	subst:sg:loc:m1	nazwisko	
 Adamku	Adamek:s4	subst:sg:voc:m1	nazwisko	
 Adamek	Adamek:s5	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Adamek	Adamek:s6	subst:sg:nom.acc:m3	nazwa geograficzna	
+Adamka	Adamek:s6	subst:sg:gen:m3	nazwa geograficzna	
+Adamkach	Adamek:s6	subst:pl:loc:m3	nazwa geograficzna	
+Adamkami	Adamek:s6	subst:pl:inst:m3	nazwa geograficzna	
+Adamki	Adamek:s6	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Adamkiem	Adamek:s6	subst:sg:inst:m3	nazwa geograficzna	
+Adamkom	Adamek:s6	subst:pl:dat:m3	nazwa geograficzna	
+Adamkowi	Adamek:s6	subst:sg:dat:m3	nazwa geograficzna	
+Adamków	Adamek:s6	subst:pl:gen:m3	nazwa geograficzna	
+Adamku	Adamek:s6	subst:sg:loc:m3	nazwa geograficzna	
+Adamku	Adamek:s6	subst:sg:voc:m3	nazwa geograficzna	
 Adamiaka	Adamiak:s1	subst:sg:gen.acc:m1	nazwisko	
 Adamiakach	Adamiak:s1	subst:pl:loc:m1	nazwisko	
 Adamiak	Adamiak:s1	subst:sg:nom:m1	nazwisko	
@@ -1071,6 +1133,18 @@ Adamcu	Adamiec:s1	subst:sg:loc:m1	nazwisko
 Adamcu	Adamiec:s1	subst:sg:voc:m1	nazwisko	
 Adamiec	Adamiec:s1	subst:sg:nom:m1	nazwisko	
 Adamiec	Adamiec:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Adamierza	Adamierz	subst:sg:gen:m3	nazwa geograficzna	
+Adamierzach	Adamierz	subst:pl:loc:m3	nazwa geograficzna	
+Adamierz	Adamierz	subst:sg:nom.acc:m3	nazwa geograficzna	
+Adamierzami	Adamierz	subst:pl:inst:m3	nazwa geograficzna	
+Adamierze	Adamierz	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Adamierzem	Adamierz	subst:sg:inst:m3	nazwa geograficzna	
+Adamierzom	Adamierz	subst:pl:dat:m3	nazwa geograficzna	
+Adamierzowi	Adamierz	subst:sg:dat:m3	nazwa geograficzna	
+Adamierzów	Adamierz	subst:pl:gen:m3	nazwa geograficzna	
+Adamierzu	Adamierz	subst:sg:loc:m3	nazwa geograficzna	
+Adamierzu	Adamierz	subst:sg:voc:m3	nazwa geograficzna	
+Adamierzy	Adamierz	subst:pl:gen:m3	nazwa geograficzna	
 Adamika	Adamik:s2	subst:sg:gen.acc:m1	nazwisko	
 Adamikach	Adamik:s2	subst:pl:loc:m1	nazwisko	
 Adamik	Adamik:s2	subst:sg:nom:m1	nazwisko	
@@ -1084,6 +1158,17 @@ Adamików	Adamik:s2	subst:pl:gen.acc:m1	nazwisko
 Adamiku	Adamik:s2	subst:sg:loc:m1	nazwisko	
 Adamiku	Adamik:s2	subst:sg:voc:m1	nazwisko	
 Adamik	Adamik:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Adamina	Adamin	subst:sg:gen:m3	nazwa geograficzna	
+Adaminach	Adamin	subst:pl:loc:m3	nazwa geograficzna	
+Adamin	Adamin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Adaminami	Adamin	subst:pl:inst:m3	nazwa geograficzna	
+Adaminem	Adamin	subst:sg:inst:m3	nazwa geograficzna	
+Adaminie	Adamin	subst:sg:loc:m3	nazwa geograficzna	
+Adaminie	Adamin	subst:sg:voc:m3	nazwa geograficzna	
+Adaminom	Adamin	subst:pl:dat:m3	nazwa geograficzna	
+Adaminowi	Adamin	subst:sg:dat:m3	nazwa geograficzna	
+Adaminów	Adamin	subst:pl:gen:m3	nazwa geograficzna	
+Adaminy	Adamin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Adamina	Adamina	subst:sg:nom:f	imię	
 Adaminach	Adamina	subst:pl:loc:f	imię	
 Adamin	Adamina	subst:pl:gen:f	imię	
@@ -1095,6 +1180,18 @@ Adamino	Adamina	subst:sg:voc:f	imię
 Adaminom	Adamina	subst:pl:dat:f	imię	
 Adaminy	Adamina	subst:pl:nom.acc.voc:f	imię	
 Adaminy	Adamina	subst:sg:gen:f	imię	
+Adaminowa	Adaminowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Adaminowa	Adaminowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Adaminowach	Adaminowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Adaminow	Adaminowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Adaminowami	Adaminowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Adaminowem	Adaminowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Adaminowie	Adaminowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Adaminowo	Adaminowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Adaminowom	Adaminowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Adaminowów	Adaminowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Adaminowu	Adaminowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Adaminów	Adaminowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Adamioka	Adamiok:s1	subst:sg:gen.acc:m1	nazwisko	
 Adamiokach	Adamiok:s1	subst:pl:loc:m1	nazwisko	
 Adamiok	Adamiok:s1	subst:sg:nom:m1	nazwisko	
@@ -1134,6 +1231,27 @@ Adamiuków	Adamiuk:s2	subst:pl:gen.acc:m1	nazwisko
 Adamiuku	Adamiuk:s2	subst:sg:loc:m1	nazwisko	
 Adamiuku	Adamiuk:s2	subst:sg:voc:m1	nazwisko	
 Adamiuk	Adamiuk:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Adamce	Adamka	subst:sg:dat.loc:f	nazwa geograficzna	
+Adamek	Adamka	subst:pl:gen:f	nazwa geograficzna	
+Adamka	Adamka	subst:sg:nom:f	nazwa geograficzna	
+Adamkach	Adamka	subst:pl:loc:f	nazwa geograficzna	
+Adamkami	Adamka	subst:pl:inst:f	nazwa geograficzna	
+Adamką	Adamka	subst:sg:inst:f	nazwa geograficzna	
+Adamkę	Adamka	subst:sg:acc:f	nazwa geograficzna	
+Adamki	Adamka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Adamki	Adamka	subst:sg:gen:f	nazwa geograficzna	
+Adamko	Adamka	subst:sg:voc:f	nazwa geograficzna	
+Adamkom	Adamka	subst:pl:dat:f	nazwa geograficzna	
+Adamkach	Adamki	subst:pl:loc:n:pt	nazwa geograficzna	
+Adamkach	Adamki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Adamkami	Adamki	subst:pl:inst:n:pt	nazwa geograficzna	
+Adamkami	Adamki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Adamki	Adamki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Adamki	Adamki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Adamkom	Adamki	subst:pl:dat:n:pt	nazwa geograficzna	
+Adamkom	Adamki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Adamków	Adamki	subst:pl:gen:n:pt	nazwa geograficzna	
+Adamków	Adamki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Adamkiewicza	Adamkiewicz:s2	subst:sg:gen.acc:m1	nazwisko	
 Adamkiewiczach	Adamkiewicz:s2	subst:pl:loc:m1	nazwisko	
 Adamkiewicz	Adamkiewicz:s2	subst:sg:nom:m1	nazwisko	
@@ -1162,6 +1280,18 @@ Adamkowiczów	Adamkowicz:s1	subst:pl:gen.acc:m1	nazwisko
 Adamkowiczu	Adamkowicz:s1	subst:sg:loc:m1	nazwisko	
 Adamkowiczu	Adamkowicz:s1	subst:sg:voc:m1	nazwisko	
 Adamkowicz	Adamkowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Adamkowa	Adamkowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Adamkowa	Adamkowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Adamkowach	Adamkowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Adamkow	Adamkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Adamkowami	Adamkowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Adamkowem	Adamkowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Adamkowie	Adamkowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Adamkowo	Adamkowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Adamkowom	Adamkowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Adamkowów	Adamkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Adamkowu	Adamkowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Adamków	Adamkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Adamkowska	Adamkowska	subst:sg:nom:f	nazwisko	
 Adamkowska	Adamkowska	subst:sg:voc:f	nazwisko	
 Adamkowską	Adamkowska	subst:sg:acc:f	nazwisko	
@@ -1185,6 +1315,16 @@ Adamkowskim	Adamkowski	subst:pl:dat:m1	nazwisko
 Adamkowskim	Adamkowski	subst:sg:inst:m1	nazwisko	
 Adamkowskim	Adamkowski	subst:sg:loc:m1	nazwisko	
 Adamkowskimi	Adamkowski	subst:pl:inst:m1	nazwisko	
+Adamowicach	Adamowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Adamowicach	Adamowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Adamowic	Adamowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Adamowic	Adamowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Adamowicami	Adamowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Adamowicami	Adamowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Adamowice	Adamowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Adamowice	Adamowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Adamowicom	Adamowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Adamowicom	Adamowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Adamowicza	Adamowicz:s1	subst:sg:gen.acc:m1	nazwisko	
 Adamowiczach	Adamowicz:s1	subst:pl:loc:m1	nazwisko	
 Adamowicz	Adamowicz:s1	subst:sg:nom:m1	nazwisko	
@@ -1199,6 +1339,29 @@ Adamowiczów	Adamowicz:s1	subst:pl:gen.acc:m1	nazwisko
 Adamowiczu	Adamowicz:s1	subst:sg:loc:m1	nazwisko	
 Adamowiczu	Adamowicz:s1	subst:sg:voc:m1	nazwisko	
 Adamowicz	Adamowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Adamowizna	Adamowizna	subst:sg:nom:f	nazwa geograficzna	
+Adamowiznach	Adamowizna	subst:pl:loc:f	nazwa geograficzna	
+Adamowizn	Adamowizna	subst:pl:gen:f	nazwa geograficzna	
+Adamowiznami	Adamowizna	subst:pl:inst:f	nazwa geograficzna	
+Adamowizną	Adamowizna	subst:sg:inst:f	nazwa geograficzna	
+Adamowiznę	Adamowizna	subst:sg:acc:f	nazwa geograficzna	
+Adamowizno	Adamowizna	subst:sg:voc:f	nazwa geograficzna	
+Adamowiznom	Adamowizna	subst:pl:dat:f	nazwa geograficzna	
+Adamowizny	Adamowizna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Adamowizny	Adamowizna	subst:sg:gen:f	nazwa geograficzna	
+Adamowiźnie	Adamowizna	subst:sg:dat.loc:f	nazwa geograficzna	
+Adamowa	Adamowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Adamowa	Adamowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Adamowach	Adamowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Adamow	Adamowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Adamowami	Adamowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Adamowem	Adamowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Adamowie	Adamowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Adamowo	Adamowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Adamowom	Adamowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Adamowów	Adamowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Adamowu	Adamowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Adamów	Adamowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Adamowska	Adamowska	subst:sg:nom:f	nazwisko	
 Adamowska	Adamowska	subst:sg:voc:f	nazwisko	
 Adamowską	Adamowska	subst:sg:acc:f	nazwisko	
@@ -1222,6 +1385,17 @@ Adamowskim	Adamowski	subst:pl:dat:m1	nazwisko
 Adamowskim	Adamowski	subst:sg:inst:m1	nazwisko	
 Adamowskim	Adamowski	subst:sg:loc:m1	nazwisko	
 Adamowskimi	Adamowski	subst:pl:inst:m1	nazwisko	
+Adamówek	Adamówek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Adamówka	Adamówek	subst:sg:gen:m3	nazwa geograficzna	
+Adamówkach	Adamówek	subst:pl:loc:m3	nazwa geograficzna	
+Adamówkami	Adamówek	subst:pl:inst:m3	nazwa geograficzna	
+Adamówki	Adamówek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Adamówkiem	Adamówek	subst:sg:inst:m3	nazwa geograficzna	
+Adamówkom	Adamówek	subst:pl:dat:m3	nazwa geograficzna	
+Adamówkowi	Adamówek	subst:sg:dat:m3	nazwa geograficzna	
+Adamówków	Adamówek	subst:pl:gen:m3	nazwa geograficzna	
+Adamówku	Adamówek	subst:sg:loc:m3	nazwa geograficzna	
+Adamówku	Adamówek	subst:sg:voc:m3	nazwa geograficzna	
 Adamówce	Adamówka	subst:sg:dat.loc:f	nazwa geograficzna	
 Adamówek	Adamówka	subst:pl:gen:f	nazwa geograficzna	
 Adamówka	Adamówka	subst:sg:nom:f	nazwa geograficzna	
@@ -1258,6 +1432,17 @@ Adamowów	Adamów:s2	subst:pl:gen.acc:m1	nazwisko
 Adamowy	Adamów:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Adamów	Adamów:s2	subst:sg:nom:m1	nazwisko	
 Adamów	Adamów:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Adampola	Adampol	subst:sg:gen:m3	nazwa geograficzna	
+Adampolach	Adampol	subst:pl:loc:m3	nazwa geograficzna	
+Adampol	Adampol	subst:sg:nom.acc:m3	nazwa geograficzna	
+Adampolami	Adampol	subst:pl:inst:m3	nazwa geograficzna	
+Adampole	Adampol	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Adampolem	Adampol	subst:sg:inst:m3	nazwa geograficzna	
+Adampoli	Adampol	subst:pl:gen:m3	nazwa geograficzna	
+Adampolom	Adampol	subst:pl:dat:m3	nazwa geograficzna	
+Adampolowi	Adampol	subst:sg:dat:m3	nazwa geograficzna	
+Adampolu	Adampol	subst:sg:loc:m3	nazwa geograficzna	
+Adampolu	Adampol	subst:sg:voc:m3	nazwa geograficzna	
 Adama	Adam:s1	subst:sg:gen.acc:m1	imię	
 Adamach	Adam:s1	subst:pl:loc:m1	imię	
 Adam	Adam:s1	subst:sg:nom:m1	imię	
@@ -1368,6 +1553,16 @@ Adamusowie	Adamus:s1	subst:pl:nom.voc:m1	nazwisko
 Adamusów	Adamus:s1	subst:pl:gen.acc:m1	nazwisko	
 Adamusy	Adamus:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Adamus	Adamus:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Adamusach	Adamusy	subst:pl:loc:n:pt	nazwa geograficzna	
+Adamusach	Adamusy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Adamus	Adamusy	subst:pl:gen:n:pt	nazwa geograficzna	
+Adamus	Adamusy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Adamusami	Adamusy	subst:pl:inst:n:pt	nazwa geograficzna	
+Adamusami	Adamusy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Adamusom	Adamusy	subst:pl:dat:n:pt	nazwa geograficzna	
+Adamusom	Adamusy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Adamusy	Adamusy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Adamusy	Adamusy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Adamuszek	Adamuszek:s1	subst:sg:nom:m1	nazwisko	
 Adamuszka	Adamuszek:s1	subst:sg:gen.acc:m1	nazwisko	
 Adamuszkach	Adamuszek:s1	subst:pl:loc:m1	nazwisko	
@@ -1381,6 +1576,18 @@ Adamuszków	Adamuszek:s1	subst:pl:gen.acc:m1	nazwisko
 Adamuszku	Adamuszek:s1	subst:sg:loc:m1	nazwisko	
 Adamuszku	Adamuszek:s1	subst:sg:voc:m1	nazwisko	
 Adamuszek	Adamuszek:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Adamach	Adamy	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Adamach	Adamy	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Adam	Adamy	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Adam	Adamy	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Adamami	Adamy	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Adamami	Adamy	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Adamom	Adamy	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Adamom	Adamy	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
+Adamów	Adamy	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Adamów	Adamy	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Adamy	Adamy	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Adamy	Adamy	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
 Adasiaka	Adasiak:s1	subst:sg:gen.acc:m1	nazwisko	
 Adasiakach	Adasiak:s1	subst:pl:loc:m1	nazwisko	
 Adasiak	Adasiak:s1	subst:sg:nom:m1	nazwisko	
@@ -1646,17 +1853,51 @@ Adelbertowi	Adelbert	subst:sg:dat:m1	imię
 Adelbertowie	Adelbert	subst:pl:nom.voc:m1	imię	
 Adelbertów	Adelbert	subst:pl:gen.acc:m1	imię	
 Adelberty	Adelbert	depr:pl:nom.acc.voc:m2	imię	
-Adelina	Adelina	subst:sg:nom:f	imię	
-Adelinach	Adelina	subst:pl:loc:f	imię	
-Adelin	Adelina	subst:pl:gen:f	imię	
-Adelinami	Adelina	subst:pl:inst:f	imię	
-Adeliną	Adelina	subst:sg:inst:f	imię	
-Adelinę	Adelina	subst:sg:acc:f	imię	
-Adelinie	Adelina	subst:sg:dat.loc:f	imię	
-Adelino	Adelina	subst:sg:voc:f	imię	
-Adelinom	Adelina	subst:pl:dat:f	imię	
-Adeliny	Adelina	subst:pl:nom.acc.voc:f	imię	
-Adeliny	Adelina	subst:sg:gen:f	imię	
+Adelina	Adelin	subst:sg:gen:m3	nazwa geograficzna	
+Adelinach	Adelin	subst:pl:loc:m3	nazwa geograficzna	
+Adelin	Adelin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Adelinami	Adelin	subst:pl:inst:m3	nazwa geograficzna	
+Adelinem	Adelin	subst:sg:inst:m3	nazwa geograficzna	
+Adelinie	Adelin	subst:sg:loc:m3	nazwa geograficzna	
+Adelinie	Adelin	subst:sg:voc:m3	nazwa geograficzna	
+Adelinom	Adelin	subst:pl:dat:m3	nazwa geograficzna	
+Adelinowi	Adelin	subst:sg:dat:m3	nazwa geograficzna	
+Adelinów	Adelin	subst:pl:gen:m3	nazwa geograficzna	
+Adeliny	Adelin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Adelina	Adelina:s1	subst:sg:nom:f	imię	
+Adelinach	Adelina:s1	subst:pl:loc:f	imię	
+Adelin	Adelina:s1	subst:pl:gen:f	imię	
+Adelinami	Adelina:s1	subst:pl:inst:f	imię	
+Adeliną	Adelina:s1	subst:sg:inst:f	imię	
+Adelinę	Adelina:s1	subst:sg:acc:f	imię	
+Adelinie	Adelina:s1	subst:sg:dat.loc:f	imię	
+Adelino	Adelina:s1	subst:sg:voc:f	imię	
+Adelinom	Adelina:s1	subst:pl:dat:f	imię	
+Adeliny	Adelina:s1	subst:pl:nom.acc.voc:f	imię	
+Adeliny	Adelina:s1	subst:sg:gen:f	imię	
+Adelina	Adelina:s2	subst:sg:nom:f	nazwa geograficzna	
+Adelinach	Adelina:s2	subst:pl:loc:f	nazwa geograficzna	
+Adelin	Adelina:s2	subst:pl:gen:f	nazwa geograficzna	
+Adelinami	Adelina:s2	subst:pl:inst:f	nazwa geograficzna	
+Adeliną	Adelina:s2	subst:sg:inst:f	nazwa geograficzna	
+Adelinę	Adelina:s2	subst:sg:acc:f	nazwa geograficzna	
+Adelinie	Adelina:s2	subst:sg:dat.loc:f	nazwa geograficzna	
+Adelino	Adelina:s2	subst:sg:voc:f	nazwa geograficzna	
+Adelinom	Adelina:s2	subst:pl:dat:f	nazwa geograficzna	
+Adeliny	Adelina:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Adeliny	Adelina:s2	subst:sg:gen:f	nazwa geograficzna	
+Adelinowa	Adelinów	subst:sg:gen:m3	nazwa geograficzna	
+Adelinowach	Adelinów	subst:pl:loc:m3	nazwa geograficzna	
+Adelinowami	Adelinów	subst:pl:inst:m3	nazwa geograficzna	
+Adelinowem	Adelinów	subst:sg:inst:m3	nazwa geograficzna	
+Adelinowie	Adelinów	subst:sg:loc:m3	nazwa geograficzna	
+Adelinowie	Adelinów	subst:sg:voc:m3	nazwa geograficzna	
+Adelinowom	Adelinów	subst:pl:dat:m3	nazwa geograficzna	
+Adelinowowi	Adelinów	subst:sg:dat:m3	nazwa geograficzna	
+Adelinowów	Adelinów	subst:pl:gen:m3	nazwa geograficzna	
+Adelinowu	Adelinów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Adelinowy	Adelinów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Adelinów	Adelinów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Adelce	Adelka	subst:sg:dat.loc:f	imię	
 Adelek	Adelka	subst:pl:gen:f	imię	
 Adelka	Adelka	subst:sg:nom:f	imię	
@@ -1778,6 +2019,17 @@ Adolfkowie	Adolfek	subst:pl:nom.voc:m1	imię
 Adolfków	Adolfek	subst:pl:gen.acc:m1	imię	
 Adolfku	Adolfek	subst:sg:loc:m1	imię	
 Adolfku	Adolfek	subst:sg:voc:m1	imię	
+Adolfina	Adolfin	subst:sg:gen:m3	nazwa geograficzna	
+Adolfinach	Adolfin	subst:pl:loc:m3	nazwa geograficzna	
+Adolfin	Adolfin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Adolfinami	Adolfin	subst:pl:inst:m3	nazwa geograficzna	
+Adolfinem	Adolfin	subst:sg:inst:m3	nazwa geograficzna	
+Adolfinie	Adolfin	subst:sg:loc:m3	nazwa geograficzna	
+Adolfinie	Adolfin	subst:sg:voc:m3	nazwa geograficzna	
+Adolfinom	Adolfin	subst:pl:dat:m3	nazwa geograficzna	
+Adolfinowi	Adolfin	subst:sg:dat:m3	nazwa geograficzna	
+Adolfinów	Adolfin	subst:pl:gen:m3	nazwa geograficzna	
+Adolfiny	Adolfin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Adolfina	Adolfina	subst:sg:nom:f	imię	
 Adolfinach	Adolfina	subst:pl:loc:f	imię	
 Adolfin	Adolfina	subst:pl:gen:f	imię	
@@ -1789,6 +2041,30 @@ Adolfino	Adolfina	subst:sg:voc:f	imię
 Adolfinom	Adolfina	subst:pl:dat:f	imię	
 Adolfiny	Adolfina	subst:pl:nom.acc.voc:f	imię	
 Adolfiny	Adolfina	subst:sg:gen:f	imię	
+Adolfowa	Adolfowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Adolfowa	Adolfowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Adolfowach	Adolfowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Adolfow	Adolfowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Adolfowami	Adolfowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Adolfowem	Adolfowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Adolfowie	Adolfowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Adolfowo	Adolfowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Adolfowom	Adolfowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Adolfowów	Adolfowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Adolfowu	Adolfowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Adolfów	Adolfowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Adolfowa	Adolfów	subst:sg:gen:m3	nazwa geograficzna	
+Adolfowach	Adolfów	subst:pl:loc:m3	nazwa geograficzna	
+Adolfowami	Adolfów	subst:pl:inst:m3	nazwa geograficzna	
+Adolfowem	Adolfów	subst:sg:inst:m3	nazwa geograficzna	
+Adolfowie	Adolfów	subst:sg:loc:m3	nazwa geograficzna	
+Adolfowie	Adolfów	subst:sg:voc:m3	nazwa geograficzna	
+Adolfowom	Adolfów	subst:pl:dat:m3	nazwa geograficzna	
+Adolfowowi	Adolfów	subst:sg:dat:m3	nazwa geograficzna	
+Adolfowów	Adolfów	subst:pl:gen:m3	nazwa geograficzna	
+Adolfowu	Adolfów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Adolfowy	Adolfów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Adolfów	Adolfów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Adolfa	Adolf:s1	subst:sg:gen.acc:m1	imię	
 Adolfach	Adolf:s1	subst:pl:loc:m1	imię	
 Adolf	Adolf:s1	subst:sg:nom:m1	imię	
@@ -2642,6 +2918,17 @@ Agatowskim	Agatowski	subst:pl:dat:m1	nazwisko
 Agatowskim	Agatowski	subst:sg:inst:m1	nazwisko	
 Agatowskim	Agatowski	subst:sg:loc:m1	nazwisko	
 Agatowskimi	Agatowski	subst:pl:inst:m1	nazwisko	
+Agatówce	Agatówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Agatówek	Agatówka	subst:pl:gen:f	nazwa geograficzna	
+Agatówka	Agatówka	subst:sg:nom:f	nazwa geograficzna	
+Agatówkach	Agatówka	subst:pl:loc:f	nazwa geograficzna	
+Agatówkami	Agatówka	subst:pl:inst:f	nazwa geograficzna	
+Agatówką	Agatówka	subst:sg:inst:f	nazwa geograficzna	
+Agatówkę	Agatówka	subst:sg:acc:f	nazwa geograficzna	
+Agatówki	Agatówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Agatówki	Agatówka	subst:sg:gen:f	nazwa geograficzna	
+Agatówko	Agatówka	subst:sg:voc:f	nazwa geograficzna	
+Agatówkom	Agatówka	subst:pl:dat:f	nazwa geograficzna	
 AGD	AGD	subst:pl:nom.gen.dat.acc.inst.loc.voc:n:pt	nazwa pospolita	
 Age	Age	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy własnej	
 Agenora	Agenor	subst:sg:gen.acc:m1	imię	
@@ -2747,6 +3034,41 @@ Agnieszki	Agnieszka	subst:pl:nom.acc.voc:f	imię
 Agnieszki	Agnieszka	subst:sg:gen:f	imię	
 Agnieszko	Agnieszka	subst:sg:voc:f	imię	
 Agnieszkom	Agnieszka	subst:pl:dat:f	imię	
+Agnieszkowa	Agnieszkowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Agnieszkowa	Agnieszkowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Agnieszkowach	Agnieszkowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Agnieszkow	Agnieszkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Agnieszkowami	Agnieszkowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Agnieszkowem	Agnieszkowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Agnieszkowie	Agnieszkowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Agnieszkowo	Agnieszkowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Agnieszkowom	Agnieszkowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Agnieszkowów	Agnieszkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Agnieszkowu	Agnieszkowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Agnieszków	Agnieszkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Agnopola	Agnopol	subst:sg:gen:m3	nazwa geograficzna	
+Agnopolach	Agnopol	subst:pl:loc:m3	nazwa geograficzna	
+Agnopol	Agnopol	subst:sg:nom.acc:m3	nazwa geograficzna	
+Agnopolami	Agnopol	subst:pl:inst:m3	nazwa geograficzna	
+Agnopole	Agnopol	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Agnopolem	Agnopol	subst:sg:inst:m3	nazwa geograficzna	
+Agnopoli	Agnopol	subst:pl:gen:m3	nazwa geograficzna	
+Agnopolom	Agnopol	subst:pl:dat:m3	nazwa geograficzna	
+Agnopolowi	Agnopol	subst:sg:dat:m3	nazwa geograficzna	
+Agnopolów	Agnopol	subst:pl:gen:m3	nazwa geograficzna	
+Agnopolu	Agnopol	subst:sg:loc:m3	nazwa geograficzna	
+Agnopolu	Agnopol	subst:sg:voc:m3	nazwa geograficzna	
+Agrafinówce	Agrafinówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Agrafinówek	Agrafinówka	subst:pl:gen:f	nazwa geograficzna	
+Agrafinówka	Agrafinówka	subst:sg:nom:f	nazwa geograficzna	
+Agrafinówkach	Agrafinówka	subst:pl:loc:f	nazwa geograficzna	
+Agrafinówkami	Agrafinówka	subst:pl:inst:f	nazwa geograficzna	
+Agrafinówką	Agrafinówka	subst:sg:inst:f	nazwa geograficzna	
+Agrafinówkę	Agrafinówka	subst:sg:acc:f	nazwa geograficzna	
+Agrafinówki	Agrafinówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Agrafinówki	Agrafinówka	subst:sg:gen:f	nazwa geograficzna	
+Agrafinówko	Agrafinówka	subst:sg:voc:f	nazwa geograficzna	
+Agrafinówkom	Agrafinówka	subst:pl:dat:f	nazwa geograficzna	
 Agrypina	Agrypin	subst:sg:gen.acc:m1	imię	
 Agrypinach	Agrypin	subst:pl:loc:m1	imię	
 Agrypin	Agrypin	subst:sg:nom:m1	imię	
@@ -3118,6 +3440,16 @@ Aksentowiczów	Aksentowicz:s1	subst:pl:gen.acc:m1	nazwisko
 Aksentowiczu	Aksentowicz:s1	subst:sg:loc:m1	nazwisko	
 Aksentowiczu	Aksentowicz:s1	subst:sg:voc:m1	nazwisko	
 Aksentowicz	Aksentowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Aksmanicach	Aksmanice	subst:pl:loc:n:pt	nazwa geograficzna	
+Aksmanicach	Aksmanice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Aksmanic	Aksmanice	subst:pl:gen:n:pt	nazwa geograficzna	
+Aksmanic	Aksmanice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Aksmanicami	Aksmanice	subst:pl:inst:n:pt	nazwa geograficzna	
+Aksmanicami	Aksmanice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Aksmanice	Aksmanice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Aksmanice	Aksmanice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Aksmanicom	Aksmanice	subst:pl:dat:n:pt	nazwa geograficzna	
+Aksmanicom	Aksmanice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Aksmana	Aksman:s1	subst:sg:gen.acc:m1	nazwisko	
 Aksmanach	Aksman:s1	subst:pl:loc:m1	nazwisko	
 Aksman	Aksman:s1	subst:sg:nom:m1	nazwisko	
@@ -3595,6 +3927,28 @@ Albertom	Alberto	subst:pl:dat:m1	imię
 Albertowi	Alberto	subst:sg:dat:m1	imię	
 Albertowie	Alberto	subst:pl:nom.voc:m1	imię	
 Albertów	Alberto	subst:pl:gen.acc:m1	imię	
+Albertowska	Albertowsko	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Albertowska	Albertowsko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Albertowskach	Albertowsko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Albertowsk	Albertowsko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Albertowskami	Albertowsko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Albertowskiem	Albertowsko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Albertowsko	Albertowsko	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Albertowskom	Albertowsko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Albertowsku	Albertowsko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Albertowsku	Albertowsko	subst:sg:loc:n:ncol	nazwa geograficzna	
+Albertowa	Albertów	subst:sg:gen:m3	nazwa geograficzna	
+Albertowach	Albertów	subst:pl:loc:m3	nazwa geograficzna	
+Albertowami	Albertów	subst:pl:inst:m3	nazwa geograficzna	
+Albertowem	Albertów	subst:sg:inst:m3	nazwa geograficzna	
+Albertowie	Albertów	subst:sg:loc:m3	nazwa geograficzna	
+Albertowie	Albertów	subst:sg:voc:m3	nazwa geograficzna	
+Albertowom	Albertów	subst:pl:dat:m3	nazwa geograficzna	
+Albertowowi	Albertów	subst:sg:dat:m3	nazwa geograficzna	
+Albertowów	Albertów	subst:pl:gen:m3	nazwa geograficzna	
+Albertowu	Albertów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Albertowy	Albertów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Albertów	Albertów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Albertrandi	Albertrandi	subst:pl:nom.voc:m1	nazwisko	
 Albertrandi	Albertrandi	subst:sg:nom:m1	nazwisko	
 Albertrandi	Albertrandi	subst:sg:voc:m1	nazwisko	
@@ -3671,6 +4025,17 @@ Albertyno	Albertyna	subst:sg:voc:f	imię
 Albertynom	Albertyna	subst:pl:dat:f	imię	
 Albertyny	Albertyna	subst:pl:nom.acc.voc:f	imię	
 Albertyny	Albertyna	subst:sg:gen:f	imię	
+Albigowa	Albigowa	subst:sg:nom:f	nazwa geograficzna	
+Albigowa	Albigowa	subst:sg:voc:f	nazwa geograficzna	
+Albigową	Albigowa	subst:sg:acc:f	nazwa geograficzna	
+Albigową	Albigowa	subst:sg:inst:f	nazwa geograficzna	
+Albigowe	Albigowa	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Albigowej	Albigowa	subst:sg:dat.loc:f	nazwa geograficzna	
+Albigowej	Albigowa	subst:sg:gen:f	nazwa geograficzna	
+Albigowych	Albigowa	subst:pl:gen:f	nazwa geograficzna	
+Albigowych	Albigowa	subst:pl:loc:f	nazwa geograficzna	
+Albigowym	Albigowa	subst:pl:dat:f	nazwa geograficzna	
+Albigowymi	Albigowa	subst:pl:inst:f	nazwa geograficzna	
 Albina	Albina	subst:sg:nom:f	imię	
 Albinach	Albina	subst:pl:loc:f	imię	
 Albin	Albina	subst:pl:gen:f	imię	
@@ -3731,6 +4096,18 @@ Albinowskim	Albinowski	subst:pl:dat:m1	nazwisko
 Albinowskim	Albinowski	subst:sg:inst:m1	nazwisko	
 Albinowskim	Albinowski	subst:sg:loc:m1	nazwisko	
 Albinowskimi	Albinowski	subst:pl:inst:m1	nazwisko	
+Albinowa	Albinów	subst:sg:gen:m3	nazwa geograficzna	
+Albinowach	Albinów	subst:pl:loc:m3	nazwa geograficzna	
+Albinowami	Albinów	subst:pl:inst:m3	nazwa geograficzna	
+Albinowem	Albinów	subst:sg:inst:m3	nazwa geograficzna	
+Albinowie	Albinów	subst:sg:loc:m3	nazwa geograficzna	
+Albinowie	Albinów	subst:sg:voc:m3	nazwa geograficzna	
+Albinowom	Albinów	subst:pl:dat:m3	nazwa geograficzna	
+Albinowowi	Albinów	subst:sg:dat:m3	nazwa geograficzna	
+Albinowów	Albinów	subst:pl:gen:m3	nazwa geograficzna	
+Albinowu	Albinów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Albinowy	Albinów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Albinów	Albinów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Albina	Albin:s1	subst:sg:gen.acc:m1	imię	
 Albinach	Albin:s1	subst:pl:loc:m1	imię	
 Albin	Albin:s1	subst:sg:nom:m1	imię	
@@ -4056,6 +4433,16 @@ Aleksandrii	Aleksandria	subst:sg:gen:f	nazwa geograficzna
 Aleksandrio	Aleksandria	subst:sg:voc:f	nazwa geograficzna	
 Aleksandriom	Aleksandria	subst:pl:dat:f	nazwa geograficzna	
 Aleksandryj	Aleksandria	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+Aleksandrowicach	Aleksandrowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Aleksandrowicach	Aleksandrowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Aleksandrowic	Aleksandrowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Aleksandrowic	Aleksandrowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Aleksandrowicami	Aleksandrowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Aleksandrowicami	Aleksandrowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Aleksandrowice	Aleksandrowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Aleksandrowice	Aleksandrowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Aleksandrowicom	Aleksandrowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Aleksandrowicom	Aleksandrowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Aleksandrowicza	Aleksandrowicz:s1	subst:sg:gen.acc:m1	nazwisko	
 Aleksandrowiczach	Aleksandrowicz:s1	subst:pl:loc:m1	nazwisko	
 Aleksandrowicz	Aleksandrowicz:s1	subst:sg:nom:m1	nazwisko	
@@ -4070,6 +4457,18 @@ Aleksandrowiczów	Aleksandrowicz:s1	subst:pl:gen.acc:m1	nazwisko
 Aleksandrowiczu	Aleksandrowicz:s1	subst:sg:loc:m1	nazwisko	
 Aleksandrowiczu	Aleksandrowicz:s1	subst:sg:voc:m1	nazwisko	
 Aleksandrowicz	Aleksandrowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Aleksandrowa	Aleksandrowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Aleksandrowa	Aleksandrowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Aleksandrowach	Aleksandrowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Aleksandrow	Aleksandrowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Aleksandrowami	Aleksandrowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Aleksandrowem	Aleksandrowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Aleksandrowie	Aleksandrowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Aleksandrowo	Aleksandrowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Aleksandrowom	Aleksandrowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Aleksandrowów	Aleksandrowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Aleksandrowu	Aleksandrowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Aleksandrów	Aleksandrowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Aleksandrowa	Aleksandrow:s2	subst:sg:gen.acc:m1	nazwisko	
 Aleksandrowach	Aleksandrow:s2	subst:pl:loc:m1	nazwisko	
 Aleksandrow	Aleksandrow:s2	subst:sg:nom:m1	nazwisko	
@@ -4106,6 +4505,28 @@ Aleksandrowskim	Aleksandrowski	subst:pl:dat:m1	nazwisko
 Aleksandrowskim	Aleksandrowski	subst:sg:inst:m1	nazwisko	
 Aleksandrowskim	Aleksandrowski	subst:sg:loc:m1	nazwisko	
 Aleksandrowskimi	Aleksandrowski	subst:pl:inst:m1	nazwisko	
+Aleksandrówek	Aleksandrówek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Aleksandrówka	Aleksandrówek	subst:sg:gen:m3	nazwa geograficzna	
+Aleksandrówkach	Aleksandrówek	subst:pl:loc:m3	nazwa geograficzna	
+Aleksandrówkami	Aleksandrówek	subst:pl:inst:m3	nazwa geograficzna	
+Aleksandrówki	Aleksandrówek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Aleksandrówkiem	Aleksandrówek	subst:sg:inst:m3	nazwa geograficzna	
+Aleksandrówkom	Aleksandrówek	subst:pl:dat:m3	nazwa geograficzna	
+Aleksandrówkowi	Aleksandrówek	subst:sg:dat:m3	nazwa geograficzna	
+Aleksandrówków	Aleksandrówek	subst:pl:gen:m3	nazwa geograficzna	
+Aleksandrówku	Aleksandrówek	subst:sg:loc:m3	nazwa geograficzna	
+Aleksandrówku	Aleksandrówek	subst:sg:voc:m3	nazwa geograficzna	
+Aleksandrówce	Aleksandrówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Aleksandrówek	Aleksandrówka	subst:pl:gen:f	nazwa geograficzna	
+Aleksandrówka	Aleksandrówka	subst:sg:nom:f	nazwa geograficzna	
+Aleksandrówkach	Aleksandrówka	subst:pl:loc:f	nazwa geograficzna	
+Aleksandrówkami	Aleksandrówka	subst:pl:inst:f	nazwa geograficzna	
+Aleksandrówką	Aleksandrówka	subst:sg:inst:f	nazwa geograficzna	
+Aleksandrówkę	Aleksandrówka	subst:sg:acc:f	nazwa geograficzna	
+Aleksandrówki	Aleksandrówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Aleksandrówki	Aleksandrówka	subst:sg:gen:f	nazwa geograficzna	
+Aleksandrówko	Aleksandrówka	subst:sg:voc:f	nazwa geograficzna	
+Aleksandrówkom	Aleksandrówka	subst:pl:dat:f	nazwa geograficzna	
 Aleksandrowa	Aleksandrów:s1	subst:sg:gen:m3	nazwa geograficzna	
 Aleksandrowach	Aleksandrów:s1	subst:pl:loc:m3	nazwa geograficzna	
 Aleksandrowami	Aleksandrów:s1	subst:pl:inst:m3	nazwa geograficzna	
@@ -4144,6 +4565,18 @@ Aleksandruków	Aleksandruk:s1	subst:pl:gen.acc:m1	nazwisko
 Aleksandruku	Aleksandruk:s1	subst:sg:loc:m1	nazwisko	
 Aleksandruku	Aleksandruk:s1	subst:sg:voc:m1	nazwisko	
 Aleksandruk	Aleksandruk:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Aleksandrynowa	Aleksandrynów	subst:sg:gen:m3	nazwa geograficzna	
+Aleksandrynowach	Aleksandrynów	subst:pl:loc:m3	nazwa geograficzna	
+Aleksandrynowami	Aleksandrynów	subst:pl:inst:m3	nazwa geograficzna	
+Aleksandrynowem	Aleksandrynów	subst:sg:inst:m3	nazwa geograficzna	
+Aleksandrynowie	Aleksandrynów	subst:sg:loc:m3	nazwa geograficzna	
+Aleksandrynowie	Aleksandrynów	subst:sg:voc:m3	nazwa geograficzna	
+Aleksandrynowom	Aleksandrynów	subst:pl:dat:m3	nazwa geograficzna	
+Aleksandrynowowi	Aleksandrynów	subst:sg:dat:m3	nazwa geograficzna	
+Aleksandrynowów	Aleksandrynów	subst:pl:gen:m3	nazwa geograficzna	
+Aleksandrynowu	Aleksandrynów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Aleksandrynowy	Aleksandrynów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Aleksandrynów	Aleksandrynów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Aleksandrzaka	Aleksandrzak:s2	subst:sg:gen.acc:m1	nazwisko	
 Aleksandrzakach	Aleksandrzak:s2	subst:pl:loc:m1	nazwisko	
 Aleksandrzak	Aleksandrzak:s2	subst:sg:nom:m1	nazwisko	
@@ -4180,6 +4613,16 @@ Alekso	Aleksa:s3	subst:sg:voc:f	nazwisko
 Aleksom	Aleksa:s3	subst:pl:dat:f	nazwisko	
 Aleksy	Aleksa:s3	subst:pl:nom.acc.voc:f	nazwisko	
 Aleksy	Aleksa:s3	subst:sg:gen:f	nazwisko	
+Aleksiczach	Aleksicze	subst:pl:loc:n:pt	nazwa geograficzna	
+Aleksiczach	Aleksicze	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Aleksicz	Aleksicze	subst:pl:gen:n:pt	nazwa geograficzna	
+Aleksicz	Aleksicze	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Aleksiczami	Aleksicze	subst:pl:inst:n:pt	nazwa geograficzna	
+Aleksiczami	Aleksicze	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Aleksicze	Aleksicze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Aleksicze	Aleksicze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Aleksiczom	Aleksicze	subst:pl:dat:n:pt	nazwa geograficzna	
+Aleksiczom	Aleksicze	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Aleksieja	Aleksiej	subst:sg:gen.acc:m1	imię	
 Aleksiejach	Aleksiej	subst:pl:loc:m1	imię	
 Aleksiej	Aleksiej	subst:sg:nom:m1	imię	
@@ -4232,6 +4675,17 @@ Aleksiejewowie	Aleksiejew:s1	subst:pl:nom.voc:m1	nazwisko
 Aleksiejewów	Aleksiejew:s1	subst:pl:gen.acc:m1	nazwisko	
 Aleksiejewy	Aleksiejew:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Aleksiejew	Aleksiejew:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Aleksiejówce	Aleksiejówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Aleksiejówek	Aleksiejówka	subst:pl:gen:f	nazwa geograficzna	
+Aleksiejówka	Aleksiejówka	subst:sg:nom:f	nazwa geograficzna	
+Aleksiejówkach	Aleksiejówka	subst:pl:loc:f	nazwa geograficzna	
+Aleksiejówkami	Aleksiejówka	subst:pl:inst:f	nazwa geograficzna	
+Aleksiejówką	Aleksiejówka	subst:sg:inst:f	nazwa geograficzna	
+Aleksiejówkę	Aleksiejówka	subst:sg:acc:f	nazwa geograficzna	
+Aleksiejówki	Aleksiejówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Aleksiejówki	Aleksiejówka	subst:sg:gen:f	nazwa geograficzna	
+Aleksiejówko	Aleksiejówka	subst:sg:voc:f	nazwa geograficzna	
+Aleksiejówkom	Aleksiejówka	subst:pl:dat:f	nazwa geograficzna	
 Aleksiejuka	Aleksiejuk:s2	subst:sg:gen.acc:m1	nazwisko	
 Aleksiejukach	Aleksiejuk:s2	subst:pl:loc:m1	nazwisko	
 Aleksiejuk	Aleksiejuk:s2	subst:sg:nom:m1	nazwisko	
@@ -4417,6 +4871,30 @@ Alfonsowi	Alfons	subst:sg:dat:m1	imię
 Alfonsowie	Alfons	subst:pl:nom.voc:m1	imię	
 Alfonsów	Alfons	subst:pl:gen.acc:m1	imię	
 Alfonsy	Alfons	depr:pl:nom.acc.voc:m2	imię	
+Alfonsowa	Alfonsowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Alfonsowa	Alfonsowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Alfonsowach	Alfonsowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Alfonsow	Alfonsowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Alfonsowami	Alfonsowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Alfonsowem	Alfonsowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Alfonsowie	Alfonsowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Alfonsowo	Alfonsowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Alfonsowom	Alfonsowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Alfonsowów	Alfonsowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Alfonsowu	Alfonsowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Alfonsów	Alfonsowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Alfonsowa	Alfonsów	subst:sg:gen:m3	nazwa geograficzna	
+Alfonsowach	Alfonsów	subst:pl:loc:m3	nazwa geograficzna	
+Alfonsowami	Alfonsów	subst:pl:inst:m3	nazwa geograficzna	
+Alfonsowem	Alfonsów	subst:sg:inst:m3	nazwa geograficzna	
+Alfonsowie	Alfonsów	subst:sg:loc:m3	nazwa geograficzna	
+Alfonsowie	Alfonsów	subst:sg:voc:m3	nazwa geograficzna	
+Alfonsowom	Alfonsów	subst:pl:dat:m3	nazwa geograficzna	
+Alfonsowowi	Alfonsów	subst:sg:dat:m3	nazwa geograficzna	
+Alfonsowów	Alfonsów	subst:pl:gen:m3	nazwa geograficzna	
+Alfonsowu	Alfonsów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Alfonsowy	Alfonsów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Alfonsów	Alfonsów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Alfonsyna	Alfonsyna	subst:sg:nom:f	imię	
 Alfonsynach	Alfonsyna	subst:pl:loc:f	imię	
 Alfonsyn	Alfonsyna	subst:pl:gen:f	imię	
@@ -4463,6 +4941,17 @@ Alfredowi	Alfredo	subst:sg:dat:m1	imię
 Alfredowie	Alfredo	subst:pl:nom.voc:m1	imię	
 Alfredów	Alfredo	subst:pl:gen.acc:m1	imię	
 Alfredzie	Alfredo	subst:sg:loc:m1	imię	
+Alfredówce	Alfredówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Alfredówek	Alfredówka	subst:pl:gen:f	nazwa geograficzna	
+Alfredówka	Alfredówka	subst:sg:nom:f	nazwa geograficzna	
+Alfredówkach	Alfredówka	subst:pl:loc:f	nazwa geograficzna	
+Alfredówkami	Alfredówka	subst:pl:inst:f	nazwa geograficzna	
+Alfredówką	Alfredówka	subst:sg:inst:f	nazwa geograficzna	
+Alfredówkę	Alfredówka	subst:sg:acc:f	nazwa geograficzna	
+Alfredówki	Alfredówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Alfredówki	Alfredówka	subst:sg:gen:f	nazwa geograficzna	
+Alfredówko	Alfredówka	subst:sg:voc:f	nazwa geograficzna	
+Alfredówkom	Alfredówka	subst:pl:dat:f	nazwa geograficzna	
 Alfa	Alf:s1	subst:sg:gen.acc:m1	imię	
 Alfach	Alf:s1	subst:pl:loc:m1	imię	
 Alf	Alf:s1	subst:sg:nom:m1	imię	
@@ -4701,6 +5190,18 @@ Alinki	Alinka	subst:pl:nom.acc.voc:f	imię
 Alinki	Alinka	subst:sg:gen:f	imię	
 Alinko	Alinka	subst:sg:voc:f	imię	
 Alinkom	Alinka	subst:pl:dat:f	imię	
+Alinowa	Alinowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Alinowa	Alinowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Alinowach	Alinowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Alinow	Alinowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Alinowami	Alinowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Alinowem	Alinowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Alinowie	Alinowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Alinowo	Alinowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Alinowom	Alinowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Alinowów	Alinowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Alinowu	Alinowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Alinów	Alinowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Alińska	Alińska	subst:sg:nom:f	nazwisko	
 Alińska	Alińska	subst:sg:voc:f	nazwisko	
 Alińską	Alińska	subst:sg:acc:f	nazwisko	
@@ -4904,6 +5405,18 @@ Alojzikowie	Alojzik	subst:pl:nom.voc:m1	imię
 Alojzików	Alojzik	subst:pl:gen.acc:m1	imię	
 Alojziku	Alojzik	subst:sg:loc:m1	imię	
 Alojziku	Alojzik	subst:sg:voc:m1	imię	
+Alojzowa	Alojzów	subst:sg:gen:m3	nazwa geograficzna	
+Alojzowach	Alojzów	subst:pl:loc:m3	nazwa geograficzna	
+Alojzowami	Alojzów	subst:pl:inst:m3	nazwa geograficzna	
+Alojzowem	Alojzów	subst:sg:inst:m3	nazwa geograficzna	
+Alojzowie	Alojzów	subst:sg:loc:m3	nazwa geograficzna	
+Alojzowie	Alojzów	subst:sg:voc:m3	nazwa geograficzna	
+Alojzowom	Alojzów	subst:pl:dat:m3	nazwa geograficzna	
+Alojzowowi	Alojzów	subst:sg:dat:m3	nazwa geograficzna	
+Alojzowów	Alojzów	subst:pl:gen:m3	nazwa geograficzna	
+Alojzowu	Alojzów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Alojzowy	Alojzów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Alojzów	Alojzów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Alojze	Alojzy	depr:pl:nom.acc.voc:m2	imię	
 Alojzego	Alojzy	subst:sg:gen.acc:m1	imię	
 Alojzemu	Alojzy	subst:sg:dat:m1	imię	
@@ -5027,6 +5540,17 @@ Alszery	Alszer:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Alszerze	Alszer:s1	subst:sg:loc:m1	nazwisko	
 Alszerze	Alszer:s1	subst:sg:voc:m1	nazwisko	
 Alszer	Alszer:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Altana	Altana	subst:sg:nom:f	nazwa geograficzna	
+Altanach	Altana	subst:pl:loc:f	nazwa geograficzna	
+Altan	Altana	subst:pl:gen:f	nazwa geograficzna	
+Altanami	Altana	subst:pl:inst:f	nazwa geograficzna	
+Altaną	Altana	subst:sg:inst:f	nazwa geograficzna	
+Altanę	Altana	subst:sg:acc:f	nazwa geograficzna	
+Altanie	Altana	subst:sg:dat.loc:f	nazwa geograficzna	
+Altano	Altana	subst:sg:voc:f	nazwa geograficzna	
+Altanom	Altana	subst:pl:dat:f	nazwa geograficzna	
+Altany	Altana	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Altany	Altana	subst:sg:gen:f	nazwa geograficzna	
 Altanera	Altaner:s1	subst:sg:gen.acc:m1	nazwisko	
 Altanerach	Altaner:s1	subst:pl:loc:m1	nazwisko	
 Altaner	Altaner:s1	subst:sg:nom:m1	nazwisko	
@@ -5040,6 +5564,17 @@ Altanery	Altaner:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Altanerze	Altaner:s1	subst:sg:loc:m1	nazwisko	
 Altanerze	Altaner:s1	subst:sg:voc:m1	nazwisko	
 Altaner	Altaner:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Altance	Altanka	subst:sg:dat.loc:f	nazwa geograficzna	
+Altanek	Altanka	subst:pl:gen:f	nazwa geograficzna	
+Altanka	Altanka	subst:sg:nom:f	nazwa geograficzna	
+Altankach	Altanka	subst:pl:loc:f	nazwa geograficzna	
+Altankami	Altanka	subst:pl:inst:f	nazwa geograficzna	
+Altanką	Altanka	subst:sg:inst:f	nazwa geograficzna	
+Altankę	Altanka	subst:sg:acc:f	nazwa geograficzna	
+Altanki	Altanka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Altanki	Altanka	subst:sg:gen:f	nazwa geograficzna	
+Altanko	Altanka	subst:sg:voc:f	nazwa geograficzna	
+Altankom	Altanka	subst:pl:dat:f	nazwa geograficzna	
 Altera	Alter:s2	subst:sg:gen.acc:m1	nazwisko	
 Alterach	Alter:s2	subst:pl:loc:m1	nazwisko	
 Alter	Alter:s2	subst:sg:nom:m1	nazwisko	
@@ -5117,6 +5652,18 @@ Alusiów	Aluś	subst:pl:gen.acc:m1	imię
 Alusiu	Aluś	subst:sg:loc:m1	imię	
 Alusiu	Aluś	subst:sg:voc:m1	imię	
 Aluś	Aluś	subst:sg:nom:m1	imię	
+Alwernia	Alwernia	subst:sg:nom:f	nazwa geograficzna	
+Alwerniach	Alwernia	subst:pl:loc:f	nazwa geograficzna	
+Alwerniami	Alwernia	subst:pl:inst:f	nazwa geograficzna	
+Alwernią	Alwernia	subst:sg:inst:f	nazwa geograficzna	
+Alwernie	Alwernia	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Alwernię	Alwernia	subst:sg:acc:f	nazwa geograficzna	
+Alwernii	Alwernia	subst:pl:gen:f	nazwa geograficzna	hom.
+Alwernii	Alwernia	subst:sg:dat.loc:f	nazwa geograficzna	
+Alwernii	Alwernia	subst:sg:gen:f	nazwa geograficzna	
+Alwernij	Alwernia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+Alwernio	Alwernia	subst:sg:voc:f	nazwa geograficzna	
+Alwerniom	Alwernia	subst:pl:dat:f	nazwa geograficzna	
 Alwina	Alwin:s1	subst:sg:gen.acc:m1	nazwisko	
 Alwinach	Alwin:s1	subst:pl:loc:m1	nazwisko	
 Alwin	Alwin:s1	subst:sg:nom:m1	nazwisko	
@@ -5357,6 +5904,18 @@ Amandom	Amanda	subst:pl:dat:f	imię
 Amandy	Amanda	subst:pl:nom.acc.voc:f	imię	
 Amandy	Amanda	subst:sg:gen:f	imię	
 Amandzie	Amanda	subst:sg:dat.loc:f	imię	
+Amandowa	Amandów	subst:sg:gen:m3	nazwa geograficzna	
+Amandowach	Amandów	subst:pl:loc:m3	nazwa geograficzna	
+Amandowami	Amandów	subst:pl:inst:m3	nazwa geograficzna	
+Amandowem	Amandów	subst:sg:inst:m3	nazwa geograficzna	
+Amandowie	Amandów	subst:sg:loc:m3	nazwa geograficzna	
+Amandowie	Amandów	subst:sg:voc:m3	nazwa geograficzna	
+Amandowom	Amandów	subst:pl:dat:m3	nazwa geograficzna	
+Amandowowi	Amandów	subst:sg:dat:m3	nazwa geograficzna	
+Amandowów	Amandów	subst:pl:gen:m3	nazwa geograficzna	
+Amandowu	Amandów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Amandowy	Amandów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Amandów	Amandów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Amanowicza	Amanowicz:s2	subst:sg:gen.acc:m1	nazwisko	
 Amanowiczach	Amanowicz:s2	subst:pl:loc:m1	nazwisko	
 Amanowicz	Amanowicz:s2	subst:sg:nom:m1	nazwisko	
@@ -5704,6 +6263,17 @@ Ambrożków	Ambrożek:s2	subst:pl:gen.acc:m1	nazwisko
 Ambrożku	Ambrożek:s2	subst:sg:loc:m1	nazwisko	
 Ambrożku	Ambrożek:s2	subst:sg:voc:m1	nazwisko	
 Ambrożek	Ambrożek:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Ambrożewa	Ambrożew	subst:sg:gen:m3	nazwa geograficzna	
+Ambrożewach	Ambrożew	subst:pl:loc:m3	nazwa geograficzna	
+Ambrożew	Ambrożew	subst:sg:nom.acc:m3	nazwa geograficzna	
+Ambrożewami	Ambrożew	subst:pl:inst:m3	nazwa geograficzna	
+Ambrożewem	Ambrożew	subst:sg:inst:m3	nazwa geograficzna	
+Ambrożewie	Ambrożew	subst:sg:loc:m3	nazwa geograficzna	
+Ambrożewie	Ambrożew	subst:sg:voc:m3	nazwa geograficzna	
+Ambrożewom	Ambrożew	subst:pl:dat:m3	nazwa geograficzna	
+Ambrożewowi	Ambrożew	subst:sg:dat:m3	nazwa geograficzna	
+Ambrożewów	Ambrożew	subst:pl:gen:m3	nazwa geograficzna	
+Ambrożewy	Ambrożew	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Ambrożewicza	Ambrożewicz:s2	subst:sg:gen.acc:m1	nazwisko	
 Ambrożewiczach	Ambrożewicz:s2	subst:pl:loc:m1	nazwisko	
 Ambrożewicz	Ambrożewicz:s2	subst:sg:nom:m1	nazwisko	
@@ -5732,6 +6302,18 @@ Ambrożkiewiczów	Ambrożkiewicz:s2	subst:pl:gen.acc:m1	nazwisko
 Ambrożkiewiczu	Ambrożkiewicz:s2	subst:sg:loc:m1	nazwisko	
 Ambrożkiewiczu	Ambrożkiewicz:s2	subst:sg:voc:m1	nazwisko	
 Ambrożkiewicz	Ambrożkiewicz:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Ambrożowa	Ambrożów	subst:sg:gen:m3	nazwa geograficzna	
+Ambrożowach	Ambrożów	subst:pl:loc:m3	nazwa geograficzna	
+Ambrożowami	Ambrożów	subst:pl:inst:m3	nazwa geograficzna	
+Ambrożowem	Ambrożów	subst:sg:inst:m3	nazwa geograficzna	
+Ambrożowie	Ambrożów	subst:sg:loc:m3	nazwa geograficzna	
+Ambrożowie	Ambrożów	subst:sg:voc:m3	nazwa geograficzna	
+Ambrożowom	Ambrożów	subst:pl:dat:m3	nazwa geograficzna	
+Ambrożowowi	Ambrożów	subst:sg:dat:m3	nazwa geograficzna	
+Ambrożowów	Ambrożów	subst:pl:gen:m3	nazwa geograficzna	
+Ambrożowu	Ambrożów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Ambrożowy	Ambrożów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Ambrożów	Ambrożów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Ambroża	Ambroż:s1	subst:sg:gen.acc:m1	nazwisko	
 Ambrożach	Ambroż:s1	subst:pl:loc:m1	nazwisko	
 Ambroż	Ambroż:s1	subst:sg:nom:m1	nazwisko	
@@ -5843,6 +6425,17 @@ Amelii	Amelia	subst:sg:gen:f	imię
 Amelij	Amelia	subst:pl:gen:f	imię	arch.|char.
 Amelio	Amelia	subst:sg:voc:f	imię	
 Ameliom	Amelia	subst:pl:dat:f	imię	
+Amelina	Amelin	subst:sg:gen:m3	nazwa geograficzna	
+Amelinach	Amelin	subst:pl:loc:m3	nazwa geograficzna	
+Amelin	Amelin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Amelinami	Amelin	subst:pl:inst:m3	nazwa geograficzna	
+Amelinem	Amelin	subst:sg:inst:m3	nazwa geograficzna	
+Amelinie	Amelin	subst:sg:loc:m3	nazwa geograficzna	
+Amelinie	Amelin	subst:sg:voc:m3	nazwa geograficzna	
+Amelinom	Amelin	subst:pl:dat:m3	nazwa geograficzna	
+Amelinowi	Amelin	subst:sg:dat:m3	nazwa geograficzna	
+Amelinów	Amelin	subst:pl:gen:m3	nazwa geograficzna	
+Ameliny	Amelin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Amelce	Amelka	subst:sg:dat.loc:f	imię	
 Amelek	Amelka	subst:pl:gen:f	imię	
 Amelka	Amelka	subst:sg:nom:f	imię	
@@ -6342,6 +6935,27 @@ Anasiewiczów	Anasiewicz:s1	subst:pl:gen.acc:m1	nazwisko
 Anasiewiczu	Anasiewicz:s1	subst:sg:loc:m1	nazwisko	
 Anasiewiczu	Anasiewicz:s1	subst:sg:voc:m1	nazwisko	
 Anasiewicz	Anasiewicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Anastazewa	Anastazew	subst:sg:gen:m3	nazwa geograficzna	
+Anastazewach	Anastazew	subst:pl:loc:m3	nazwa geograficzna	
+Anastazewami	Anastazew	subst:pl:inst:m3	nazwa geograficzna	
+Anastazew	Anastazew	subst:sg:nom.acc:m3	nazwa geograficzna	
+Anastazewem	Anastazew	subst:sg:inst:m3	nazwa geograficzna	
+Anastazewie	Anastazew	subst:sg:loc:m3	nazwa geograficzna	
+Anastazewie	Anastazew	subst:sg:voc:m3	nazwa geograficzna	
+Anastazewom	Anastazew	subst:pl:dat:m3	nazwa geograficzna	
+Anastazewowi	Anastazew	subst:sg:dat:m3	nazwa geograficzna	
+Anastazewów	Anastazew	subst:pl:gen:m3	nazwa geograficzna	
+Anastazewy	Anastazew	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Anastazewa	Anastazewo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Anastazewa	Anastazewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Anastazewach	Anastazewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Anastazewami	Anastazewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Anastazew	Anastazewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Anastazewem	Anastazewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Anastazewie	Anastazewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Anastazewo	Anastazewo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Anastazewom	Anastazewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Anastazewu	Anastazewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Anastaziaka	Anastaziak:s1	subst:sg:gen.acc:m1	nazwisko	
 Anastaziakach	Anastaziak:s1	subst:pl:loc:m1	nazwisko	
 Anastaziakami	Anastaziak:s1	subst:pl:inst:m1	nazwisko	
@@ -6367,6 +6981,18 @@ Anastazji	Anastazja	subst:sg:gen:f	imię
 Anastazjo	Anastazja	subst:sg:voc:f	imię	
 Anastazjom	Anastazja	subst:pl:dat:f	imię	
 Anastazyj	Anastazja	subst:pl:gen:f	imię	arch.|char.
+Anastazowa	Anastazów	subst:sg:gen:m3	nazwa geograficzna	
+Anastazowach	Anastazów	subst:pl:loc:m3	nazwa geograficzna	
+Anastazowami	Anastazów	subst:pl:inst:m3	nazwa geograficzna	
+Anastazowem	Anastazów	subst:sg:inst:m3	nazwa geograficzna	
+Anastazowie	Anastazów	subst:sg:loc:m3	nazwa geograficzna	
+Anastazowie	Anastazów	subst:sg:voc:m3	nazwa geograficzna	
+Anastazowom	Anastazów	subst:pl:dat:m3	nazwa geograficzna	
+Anastazowowi	Anastazów	subst:sg:dat:m3	nazwa geograficzna	
+Anastazowów	Anastazów	subst:pl:gen:m3	nazwa geograficzna	
+Anastazowu	Anastazów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Anastazowy	Anastazów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Anastazów	Anastazów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Anastaze	Anastazy	depr:pl:nom.acc.voc:m2	imię	
 Anastazego	Anastazy	subst:sg:gen.acc:m1	imię	
 Anastazemu	Anastazy	subst:sg:dat:m1	imię	
@@ -6451,6 +7077,17 @@ Anatolii	Anatolia	subst:sg:gen:f	imię|nazwa geograficzna
 Anatolij	Anatolia	subst:pl:gen:f	imię|nazwa geograficzna	arch.|char.
 Anatolio	Anatolia	subst:sg:voc:f	imię|nazwa geograficzna	
 Anatoliom	Anatolia	subst:pl:dat:f	imię|nazwa geograficzna	
+Anatolina	Anatolin	subst:sg:gen:m3	nazwa geograficzna	
+Anatolinach	Anatolin	subst:pl:loc:m3	nazwa geograficzna	
+Anatolinami	Anatolin	subst:pl:inst:m3	nazwa geograficzna	
+Anatolin	Anatolin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Anatolinem	Anatolin	subst:sg:inst:m3	nazwa geograficzna	
+Anatolinie	Anatolin	subst:sg:loc:m3	nazwa geograficzna	
+Anatolinie	Anatolin	subst:sg:voc:m3	nazwa geograficzna	
+Anatolinom	Anatolin	subst:pl:dat:m3	nazwa geograficzna	
+Anatolinowi	Anatolin	subst:sg:dat:m3	nazwa geograficzna	
+Anatolinów	Anatolin	subst:pl:gen:m3	nazwa geograficzna	
+Anatoliny	Anatolin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Ancerowicza	Ancerowicz:s1	subst:sg:gen.acc:m1	nazwisko	
 Ancerowiczach	Ancerowicz:s1	subst:pl:loc:m1	nazwisko	
 Ancerowiczami	Ancerowicz:s1	subst:pl:inst:m1	nazwisko	
@@ -6514,6 +7151,16 @@ Ancuto	Ancuta:s2	subst:sg:voc:f	nazwisko
 Ancutom	Ancuta:s2	subst:pl:dat:f	nazwisko	
 Ancuty	Ancuta:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Ancuty	Ancuta:s2	subst:sg:gen:f	nazwisko	
+Ancutach	Ancuty	subst:pl:loc:n:pt	nazwa geograficzna	
+Ancutach	Ancuty	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ancutami	Ancuty	subst:pl:inst:n:pt	nazwa geograficzna	
+Ancutami	Ancuty	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ancut	Ancuty	subst:pl:gen:n:pt	nazwa geograficzna	
+Ancut	Ancuty	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Ancutom	Ancuty	subst:pl:dat:n:pt	nazwa geograficzna	
+Ancutom	Ancuty	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ancuty	Ancuty	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Ancuty	Ancuty	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Anczarska	Anczarska	subst:sg:nom:f	nazwisko	
 Anczarska	Anczarska	subst:sg:voc:f	nazwisko	
 Anczarską	Anczarska	subst:sg:acc:f	nazwisko	
@@ -7097,6 +7744,16 @@ Andrelczyków	Andrelczyk:s1	subst:pl:gen.acc:m1	nazwisko
 Andrelczyku	Andrelczyk:s1	subst:sg:loc:m1	nazwisko	
 Andrelczyku	Andrelczyk:s1	subst:sg:voc:m1	nazwisko	
 Andrelczyk	Andrelczyk:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Andrelewiczach	Andrelewicze	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Andrelewiczach	Andrelewicze	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Andrelewiczami	Andrelewicze	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Andrelewiczami	Andrelewicze	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Andrelewicz	Andrelewicze	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Andrelewicz	Andrelewicze	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Andrelewicze	Andrelewicze	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Andrelewicze	Andrelewicze	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
+Andrelewiczom	Andrelewicze	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Andrelewiczom	Andrelewicze	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
 Andreotti	Andreotti	subst:pl:nom.voc:m1	nazwisko	
 Andreotti	Andreotti	subst:sg:nom:m1	nazwisko	
 Andreotti	Andreotti	subst:sg:voc:m1	nazwisko	
@@ -7110,6 +7767,18 @@ Andreottim	Andreotti	subst:sg:inst:m1	nazwisko
 Andreottim	Andreotti	subst:sg:loc:m1	nazwisko	
 Andreottimi	Andreotti	subst:pl:inst:m1	nazwisko	
 Andreottiowie	Andreotti	subst:pl:nom.voc:m1	nazwisko	
+Andrespola	Andrespol	subst:sg:gen:m3	nazwa geograficzna	
+Andrespolach	Andrespol	subst:pl:loc:m3	nazwa geograficzna	
+Andrespolami	Andrespol	subst:pl:inst:m3	nazwa geograficzna	
+Andrespol	Andrespol	subst:sg:nom.acc:m3	nazwa geograficzna	
+Andrespole	Andrespol	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Andrespolem	Andrespol	subst:sg:inst:m3	nazwa geograficzna	
+Andrespoli	Andrespol	subst:pl:gen:m3	nazwa geograficzna	
+Andrespolom	Andrespol	subst:pl:dat:m3	nazwa geograficzna	
+Andrespolowi	Andrespol	subst:sg:dat:m3	nazwa geograficzna	
+Andrespolów	Andrespol	subst:pl:gen:m3	nazwa geograficzna	
+Andrespolu	Andrespol	subst:sg:loc:m3	nazwa geograficzna	
+Andrespolu	Andrespol	subst:sg:voc:m3	nazwa geograficzna	
 Andresa	Andres:s1	subst:sg:gen.acc:m1	nazwisko	
 Andresach	Andres:s1	subst:pl:loc:m1	nazwisko	
 Andresami	Andres:s1	subst:pl:inst:m1	nazwisko	
@@ -7498,6 +8167,16 @@ Andruszkom	Andruszko:s1	subst:pl:dat:m1	nazwisko
 Andruszkowie	Andruszko:s1	subst:pl:nom.voc:m1	nazwisko	
 Andruszków	Andruszko:s1	subst:pl:gen.acc:m1	nazwisko	
 Andruszko	Andruszko:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Andruszkowicach	Andruszkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Andruszkowicach	Andruszkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Andruszkowicami	Andruszkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Andruszkowicami	Andruszkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Andruszkowic	Andruszkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Andruszkowic	Andruszkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Andruszkowice	Andruszkowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Andruszkowice	Andruszkowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Andruszkowicom	Andruszkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Andruszkowicom	Andruszkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Andruszkowa	Andruszków:s1	subst:sg:gen.acc:m1	nazwisko	
 Andruszkowach	Andruszków:s1	subst:pl:loc:m1	nazwisko	
 Andruszkowami	Andruszków:s1	subst:pl:inst:m1	nazwisko	
@@ -7600,6 +8279,16 @@ Andrychu	Andrych:s1	subst:sg:loc:m1	nazwisko
 Andrychu	Andrych:s1	subst:sg:voc:m1	nazwisko	
 Andrychy	Andrych:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Andrych	Andrych:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Andrychach	Andrychy	subst:pl:loc:n:pt	nazwa geograficzna	
+Andrychach	Andrychy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Andrychami	Andrychy	subst:pl:inst:n:pt	nazwa geograficzna	
+Andrychami	Andrychy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Andrych	Andrychy	subst:pl:gen:n:pt	nazwa geograficzna	
+Andrych	Andrychy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Andrychom	Andrychy	subst:pl:dat:n:pt	nazwa geograficzna	
+Andrychom	Andrychy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Andrychy	Andrychy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Andrychy	Andrychy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Andrycza	Andrycz:s1	subst:sg:gen.acc:m1	nazwisko	
 Andryczach	Andrycz:s1	subst:pl:loc:m1	nazwisko	
 Andryczami	Andrycz:s1	subst:pl:inst:m1	nazwisko	
@@ -7613,6 +8302,16 @@ Andryczów	Andrycz:s1	subst:pl:gen.acc:m1	nazwisko
 Andryczu	Andrycz:s1	subst:sg:loc:m1	nazwisko	
 Andryczu	Andrycz:s1	subst:sg:voc:m1	nazwisko	
 Andrycz	Andrycz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Andryjanek	Andryjanki	subst:pl:gen:n:pt	nazwa geograficzna	
+Andryjanek	Andryjanki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Andryjankach	Andryjanki	subst:pl:loc:n:pt	nazwa geograficzna	
+Andryjankach	Andryjanki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Andryjankami	Andryjanki	subst:pl:inst:n:pt	nazwa geograficzna	
+Andryjankami	Andryjanki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Andryjanki	Andryjanki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Andryjanki	Andryjanki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Andryjankom	Andryjanki	subst:pl:dat:n:pt	nazwa geograficzna	
+Andryjankom	Andryjanki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Andryce	Andryka:s1	subst:sg:dat.loc:m1	nazwisko	
 Andryka	Andryka:s1	subst:sg:nom:m1	nazwisko	
 Andrykach	Andryka:s1	subst:pl:loc:m1	nazwisko	
@@ -7925,6 +8624,16 @@ Andrzejewiczów	Andrzejewicz:s2	subst:pl:gen.acc:m1	nazwisko
 Andrzejewiczu	Andrzejewicz:s2	subst:sg:loc:m1	nazwisko	
 Andrzejewiczu	Andrzejewicz:s2	subst:sg:voc:m1	nazwisko	
 Andrzejewicz	Andrzejewicz:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Andrzejewa	Andrzejewo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Andrzejewa	Andrzejewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Andrzejewach	Andrzejewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Andrzejewami	Andrzejewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Andrzejew	Andrzejewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Andrzejewem	Andrzejewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Andrzejewie	Andrzejewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Andrzejewo	Andrzejewo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Andrzejewom	Andrzejewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Andrzejewu	Andrzejewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Andrzejewska	Andrzejewska	subst:sg:nom:f	nazwisko	
 Andrzejewska	Andrzejewska	subst:sg:voc:f	nazwisko	
 Andrzejewską	Andrzejewska	subst:sg:acc:f	nazwisko	
@@ -7948,6 +8657,18 @@ Andrzejewskim	Andrzejewski	subst:pl:dat:m1	nazwisko
 Andrzejewskim	Andrzejewski	subst:sg:inst:m1	nazwisko	
 Andrzejewskim	Andrzejewski	subst:sg:loc:m1	nazwisko	
 Andrzejewskimi	Andrzejewski	subst:pl:inst:m1	nazwisko	
+Andrzejek	Andrzejki	subst:pl:gen:n:pt	nazwa geograficzna	
+Andrzejek	Andrzejki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Andrzejkach	Andrzejki	subst:pl:loc:n:pt	nazwa geograficzna	
+Andrzejkach	Andrzejki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Andrzejkami	Andrzejki	subst:pl:inst:n:pt	nazwa geograficzna	
+Andrzejkami	Andrzejki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Andrzejki	Andrzejki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Andrzejki	Andrzejki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Andrzejkom	Andrzejki	subst:pl:dat:n:pt	nazwa geograficzna	
+Andrzejkom	Andrzejki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Andrzejków	Andrzejki	subst:pl:gen:n:pt	nazwa geograficzna	
+Andrzejków	Andrzejki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Andrzejkiewicza	Andrzejkiewicz:s1	subst:sg:gen.acc:m1	nazwisko	
 Andrzejkiewiczach	Andrzejkiewicz:s1	subst:pl:loc:m1	nazwisko	
 Andrzejkiewiczami	Andrzejkiewicz:s1	subst:pl:inst:m1	nazwisko	
@@ -7976,6 +8697,16 @@ Andrzejkowiczów	Andrzejkowicz:s1	subst:pl:gen.acc:m1	nazwisko
 Andrzejkowiczu	Andrzejkowicz:s1	subst:sg:loc:m1	nazwisko	
 Andrzejkowiczu	Andrzejkowicz:s1	subst:sg:voc:m1	nazwisko	
 Andrzejkowicz	Andrzejkowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Andrzejowiąt	Andrzejowięta	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Andrzejowiąt	Andrzejowięta	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Andrzejowięta	Andrzejowięta	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Andrzejowięta	Andrzejowięta	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
+Andrzejowiętach	Andrzejowięta	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Andrzejowiętach	Andrzejowięta	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Andrzejowiętami	Andrzejowięta	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Andrzejowiętami	Andrzejowięta	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Andrzejowiętom	Andrzejowięta	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Andrzejowiętom	Andrzejowięta	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
 Andrzejowska	Andrzejowska	subst:sg:nom:f	nazwisko	
 Andrzejowska	Andrzejowska	subst:sg:voc:f	nazwisko	
 Andrzejowską	Andrzejowska	subst:sg:acc:f	nazwisko	
@@ -7999,6 +8730,29 @@ Andrzejowskim	Andrzejowski	subst:pl:dat:m1	nazwisko
 Andrzejowskim	Andrzejowski	subst:sg:inst:m1	nazwisko	
 Andrzejowskim	Andrzejowski	subst:sg:loc:m1	nazwisko	
 Andrzejowskimi	Andrzejowski	subst:pl:inst:m1	nazwisko	
+Andrzejowa	Andrzejów	subst:sg:gen:m3	nazwa geograficzna	
+Andrzejowach	Andrzejów	subst:pl:loc:m3	nazwa geograficzna	
+Andrzejowami	Andrzejów	subst:pl:inst:m3	nazwa geograficzna	
+Andrzejowem	Andrzejów	subst:sg:inst:m3	nazwa geograficzna	
+Andrzejowie	Andrzejów	subst:sg:loc:m3	nazwa geograficzna	
+Andrzejowie	Andrzejów	subst:sg:voc:m3	nazwa geograficzna	
+Andrzejowom	Andrzejów	subst:pl:dat:m3	nazwa geograficzna	
+Andrzejowowi	Andrzejów	subst:sg:dat:m3	nazwa geograficzna	
+Andrzejowów	Andrzejów	subst:pl:gen:m3	nazwa geograficzna	
+Andrzejowu	Andrzejów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Andrzejowy	Andrzejów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Andrzejów	Andrzejów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Andrzejówce	Andrzejówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Andrzejówek	Andrzejówka	subst:pl:gen:f	nazwa geograficzna	
+Andrzejówka	Andrzejówka	subst:sg:nom:f	nazwa geograficzna	
+Andrzejówkach	Andrzejówka	subst:pl:loc:f	nazwa geograficzna	
+Andrzejówkami	Andrzejówka	subst:pl:inst:f	nazwa geograficzna	
+Andrzejówką	Andrzejówka	subst:sg:inst:f	nazwa geograficzna	
+Andrzejówkę	Andrzejówka	subst:sg:acc:f	nazwa geograficzna	
+Andrzejówki	Andrzejówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Andrzejówki	Andrzejówka	subst:sg:gen:f	nazwa geograficzna	
+Andrzejówko	Andrzejówka	subst:sg:voc:f	nazwa geograficzna	
+Andrzejówkom	Andrzejówka	subst:pl:dat:f	nazwa geograficzna	
 Andrzejuka	Andrzejuk:s2	subst:sg:gen.acc:m1	nazwisko	
 Andrzejukach	Andrzejuk:s2	subst:pl:loc:m1	nazwisko	
 Andrzejukami	Andrzejuk:s2	subst:pl:inst:m1	nazwisko	
@@ -8094,6 +8848,17 @@ Andziaków	Andziak:s2	subst:pl:gen.acc:m1	nazwisko
 Andziaku	Andziak:s2	subst:sg:loc:m1	nazwisko	
 Andziaku	Andziak:s2	subst:sg:voc:m1	nazwisko	
 Andziak	Andziak:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Andzina	Andzin	subst:sg:gen:m3	nazwa geograficzna	
+Andzinach	Andzin	subst:pl:loc:m3	nazwa geograficzna	
+Andzinami	Andzin	subst:pl:inst:m3	nazwa geograficzna	
+Andzin	Andzin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Andzinem	Andzin	subst:sg:inst:m3	nazwa geograficzna	
+Andzinie	Andzin	subst:sg:loc:m3	nazwa geograficzna	
+Andzinie	Andzin	subst:sg:voc:m3	nazwa geograficzna	
+Andzinom	Andzin	subst:pl:dat:m3	nazwa geograficzna	
+Andzinowi	Andzin	subst:sg:dat:m3	nazwa geograficzna	
+Andzinów	Andzin	subst:pl:gen:m3	nazwa geograficzna	
+Andziny	Andzin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Aneczce	Aneczka	subst:sg:dat.loc:f	imię	
 Aneczek	Aneczka	subst:pl:gen:f	imię	
 Aneczka	Aneczka	subst:sg:nom:f	imię	
@@ -8468,6 +9233,16 @@ Angolijki	Angolijka	subst:pl:nom.acc.voc:f	nazwa pospolita
 Angolijki	Angolijka	subst:sg:gen:f	nazwa pospolita	
 Angolijko	Angolijka	subst:sg:voc:f	nazwa pospolita	
 Angolijkom	Angolijka	subst:pl:dat:f	nazwa pospolita	
+Angowicach	Angowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Angowicach	Angowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Angowicami	Angowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Angowicami	Angowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Angowic	Angowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Angowic	Angowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Angowice	Angowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Angowice	Angowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Angowicom	Angowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Angowicom	Angowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Angowska	Angowska	subst:sg:nom:f	nazwisko	
 Angowska	Angowska	subst:sg:voc:f	nazwisko	
 Angowską	Angowska	subst:sg:acc:f	nazwisko	
@@ -8602,6 +9377,69 @@ Anielcię	Anielcia	subst:sg:acc:f	imię
 Anielciom	Anielcia	subst:pl:dat:f	imię	
 Anielciu	Anielcia	subst:sg:voc:f	imię	
 Anielć	Anielcia	subst:pl:gen:f	imię	char.
+Anielewa	Anielew	subst:sg:gen:m3	nazwa geograficzna	
+Anielewach	Anielew	subst:pl:loc:m3	nazwa geograficzna	
+Anielewami	Anielew	subst:pl:inst:m3	nazwa geograficzna	
+Anielew	Anielew	subst:sg:nom.acc:m3	nazwa geograficzna	
+Anielewem	Anielew	subst:sg:inst:m3	nazwa geograficzna	
+Anielewie	Anielew	subst:sg:loc:m3	nazwa geograficzna	
+Anielewie	Anielew	subst:sg:voc:m3	nazwa geograficzna	
+Anielewom	Anielew	subst:pl:dat:m3	nazwa geograficzna	
+Anielewowi	Anielew	subst:sg:dat:m3	nazwa geograficzna	
+Anielewów	Anielew	subst:pl:gen:m3	nazwa geograficzna	
+Anielewy	Anielew	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Anielewa	Anielewo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Anielewa	Anielewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Anielewach	Anielewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Anielewami	Anielewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Anielew	Anielewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Anielewem	Anielewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Anielewie	Anielewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Anielewo	Anielewo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Anielewom	Anielewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Anielewu	Anielewo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Anielina	Anielin	subst:sg:gen:m3	nazwa geograficzna	
+Anielinach	Anielin	subst:pl:loc:m3	nazwa geograficzna	
+Anielinami	Anielin	subst:pl:inst:m3	nazwa geograficzna	
+Anielin	Anielin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Anielinem	Anielin	subst:sg:inst:m3	nazwa geograficzna	
+Anielinie	Anielin	subst:sg:loc:m3	nazwa geograficzna	
+Anielinie	Anielin	subst:sg:voc:m3	nazwa geograficzna	
+Anielinom	Anielin	subst:pl:dat:m3	nazwa geograficzna	
+Anielinowi	Anielin	subst:sg:dat:m3	nazwa geograficzna	
+Anielinów	Anielin	subst:pl:gen:m3	nazwa geograficzna	
+Anieliny	Anielin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Anielinek	Anielinek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Anielinka	Anielinek	subst:sg:gen:m3	nazwa geograficzna	
+Anielinkach	Anielinek	subst:pl:loc:m3	nazwa geograficzna	
+Anielinkami	Anielinek	subst:pl:inst:m3	nazwa geograficzna	
+Anielinki	Anielinek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Anielinkiem	Anielinek	subst:sg:inst:m3	nazwa geograficzna	
+Anielinkom	Anielinek	subst:pl:dat:m3	nazwa geograficzna	
+Anielinkowi	Anielinek	subst:sg:dat:m3	nazwa geograficzna	
+Anielinków	Anielinek	subst:pl:gen:m3	nazwa geograficzna	
+Anielinku	Anielinek	subst:sg:loc:m3	nazwa geograficzna	
+Anielinku	Anielinek	subst:sg:voc:m3	nazwa geograficzna	
+Anielina	Anielino	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Anielina	Anielino	subst:sg:gen:n:ncol	nazwa geograficzna	
+Anielinach	Anielino	subst:pl:loc:n:ncol	nazwa geograficzna	
+Anielinami	Anielino	subst:pl:inst:n:ncol	nazwa geograficzna	
+Anielin	Anielino	subst:pl:gen:n:ncol	nazwa geograficzna	
+Anielinem	Anielino	subst:sg:inst:n:ncol	nazwa geograficzna	
+Anielinie	Anielino	subst:sg:loc:n:ncol	nazwa geograficzna	
+Anielino	Anielino	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Anielinom	Anielino	subst:pl:dat:n:ncol	nazwa geograficzna	
+Anielinu	Anielino	subst:sg:dat:n:ncol	nazwa geograficzna	
+Anielinach	Anieliny	subst:pl:loc:n:pt	nazwa geograficzna	
+Anielinach	Anieliny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Anielinami	Anieliny	subst:pl:inst:n:pt	nazwa geograficzna	
+Anielinami	Anieliny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Anielin	Anieliny	subst:pl:gen:n:pt	nazwa geograficzna	
+Anielin	Anieliny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Anielinom	Anieliny	subst:pl:dat:n:pt	nazwa geograficzna	
+Anielinom	Anieliny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Anieliny	Anieliny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Anieliny	Anieliny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Anielce	Anielka	subst:sg:dat.loc:f	imię	
 Anielek	Anielka	subst:pl:gen:f	imię	
 Anielka	Anielka	subst:sg:nom:f	imię	
@@ -8613,6 +9451,40 @@ Anielki	Anielka	subst:pl:nom.acc.voc:f	imię
 Anielki	Anielka	subst:sg:gen:f	imię	
 Anielko	Anielka	subst:sg:voc:f	imię	
 Anielkom	Anielka	subst:pl:dat:f	imię	
+Anielowa	Anielów	subst:sg:gen:m3	nazwa geograficzna	
+Anielowach	Anielów	subst:pl:loc:m3	nazwa geograficzna	
+Anielowami	Anielów	subst:pl:inst:m3	nazwa geograficzna	
+Anielowem	Anielów	subst:sg:inst:m3	nazwa geograficzna	
+Anielowie	Anielów	subst:sg:loc:m3	nazwa geograficzna	
+Anielowie	Anielów	subst:sg:voc:m3	nazwa geograficzna	
+Anielowom	Anielów	subst:pl:dat:m3	nazwa geograficzna	
+Anielowowi	Anielów	subst:sg:dat:m3	nazwa geograficzna	
+Anielowów	Anielów	subst:pl:gen:m3	nazwa geograficzna	
+Anielowu	Anielów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Anielowy	Anielów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Anielów	Anielów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Anielówce	Anielówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Anielówek	Anielówka	subst:pl:gen:f	nazwa geograficzna	
+Anielówka	Anielówka	subst:sg:nom:f	nazwa geograficzna	
+Anielówkach	Anielówka	subst:pl:loc:f	nazwa geograficzna	
+Anielówkami	Anielówka	subst:pl:inst:f	nazwa geograficzna	
+Anielówką	Anielówka	subst:sg:inst:f	nazwa geograficzna	
+Anielówkę	Anielówka	subst:sg:acc:f	nazwa geograficzna	
+Anielówki	Anielówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Anielówki	Anielówka	subst:sg:gen:f	nazwa geograficzna	
+Anielówko	Anielówka	subst:sg:voc:f	nazwa geograficzna	
+Anielówkom	Anielówka	subst:pl:dat:f	nazwa geograficzna	
+Anielpola	Anielpol	subst:sg:gen:m3	nazwa geograficzna	
+Anielpolach	Anielpol	subst:pl:loc:m3	nazwa geograficzna	
+Anielpolami	Anielpol	subst:pl:inst:m3	nazwa geograficzna	
+Anielpol	Anielpol	subst:sg:nom.acc:m3	nazwa geograficzna	
+Anielpole	Anielpol	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Anielpolem	Anielpol	subst:sg:inst:m3	nazwa geograficzna	
+Anielpoli	Anielpol	subst:pl:gen:m3	nazwa geograficzna	
+Anielpolom	Anielpol	subst:pl:dat:m3	nazwa geograficzna	
+Anielpolowi	Anielpol	subst:sg:dat:m3	nazwa geograficzna	
+Anielpolu	Anielpol	subst:sg:loc:m3	nazwa geograficzna	
+Anielpolu	Anielpol	subst:sg:voc:m3	nazwa geograficzna	
 Anielska	Anielska	subst:sg:nom:f	nazwisko	
 Anielska	Anielska	subst:sg:voc:f	nazwisko	
 Anielską	Anielska	subst:sg:acc:f	nazwisko	
@@ -8683,6 +9555,17 @@ Animuckim	Animucki	subst:pl:dat:m1	nazwisko
 Animuckim	Animucki	subst:sg:inst:m1	nazwisko	
 Animuckim	Animucki	subst:sg:loc:m1	nazwisko	
 Animuckimi	Animucki	subst:pl:inst:m1	nazwisko	
+Anina	Anin	subst:sg:gen:m3	nazwa geograficzna	
+Aninach	Anin	subst:pl:loc:m3	nazwa geograficzna	
+Aninami	Anin	subst:pl:inst:m3	nazwa geograficzna	
+Anin	Anin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Aninem	Anin	subst:sg:inst:m3	nazwa geograficzna	
+Aninie	Anin	subst:sg:loc:m3	nazwa geograficzna	
+Aninie	Anin	subst:sg:voc:m3	nazwa geograficzna	
+Aninom	Anin	subst:pl:dat:m3	nazwa geograficzna	
+Aninowi	Anin	subst:sg:dat:m3	nazwa geograficzna	
+Aninów	Anin	subst:pl:gen:m3	nazwa geograficzna	
+Aniny	Anin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Aniole	Anioła:s2	subst:sg:dat.loc:m1	nazwisko	
 Anioła	Anioła:s2	subst:sg:nom:m1	nazwisko	
 Aniołach	Anioła:s2	subst:pl:loc:m1	nazwisko	
@@ -8732,6 +9615,17 @@ Aniołków	Aniołek:s1	subst:pl:gen.acc:m1	nazwisko
 Aniołku	Aniołek:s1	subst:sg:loc:m1	nazwisko	
 Aniołku	Aniołek:s1	subst:sg:voc:m1	nazwisko	
 Aniołek	Aniołek:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Aniołce	Aniołka	subst:sg:dat.loc:f	człon nazwy geograficznej	
+Aniołek	Aniołka	subst:pl:gen:f	człon nazwy geograficznej	
+Aniołka	Aniołka	subst:sg:nom:f	człon nazwy geograficznej	
+Aniołkach	Aniołka	subst:pl:loc:f	człon nazwy geograficznej	
+Aniołkami	Aniołka	subst:pl:inst:f	człon nazwy geograficznej	
+Aniołką	Aniołka	subst:sg:inst:f	człon nazwy geograficznej	
+Aniołkę	Aniołka	subst:sg:acc:f	człon nazwy geograficznej	
+Aniołki	Aniołka	subst:pl:nom.acc.voc:f	człon nazwy geograficznej	
+Aniołki	Aniołka	subst:sg:gen:f	człon nazwy geograficznej	
+Aniołko	Aniołka	subst:sg:voc:f	człon nazwy geograficznej	
+Aniołkom	Aniołka	subst:pl:dat:f	człon nazwy geograficznej	
 Aniołkowska	Aniołkowska	subst:sg:nom:f	nazwisko	
 Aniołkowska	Aniołkowska	subst:sg:voc:f	nazwisko	
 Aniołkowską	Aniołkowska	subst:sg:acc:f	nazwisko	
@@ -8755,6 +9649,18 @@ Aniołkowskim	Aniołkowski	subst:pl:dat:m1	nazwisko
 Aniołkowskim	Aniołkowski	subst:sg:inst:m1	nazwisko	
 Aniołkowskim	Aniołkowski	subst:sg:loc:m1	nazwisko	
 Aniołkowskimi	Aniołkowski	subst:pl:inst:m1	nazwisko	
+Aniołowa	Aniołowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Aniołowa	Aniołowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Aniołowach	Aniołowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Aniołowami	Aniołowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Aniołow	Aniołowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Aniołowem	Aniołowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Aniołowie	Aniołowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Aniołowo	Aniołowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Aniołowom	Aniołowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Aniołowów	Aniołowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Aniołowu	Aniołowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Aniołów	Aniołowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Aniołowska	Aniołowska	subst:sg:nom:f	nazwisko	
 Aniołowska	Aniołowska	subst:sg:voc:f	nazwisko	
 Aniołowską	Aniołowska	subst:sg:acc:f	nazwisko	
@@ -8778,6 +9684,18 @@ Aniołowskim	Aniołowski	subst:pl:dat:m1	nazwisko
 Aniołowskim	Aniołowski	subst:sg:inst:m1	nazwisko	
 Aniołowskim	Aniołowski	subst:sg:loc:m1	nazwisko	
 Aniołowskimi	Aniołowski	subst:pl:inst:m1	nazwisko	
+Aniołowa	Aniołów	subst:sg:gen:m3	nazwa geograficzna	
+Aniołowach	Aniołów	subst:pl:loc:m3	nazwa geograficzna	
+Aniołowami	Aniołów	subst:pl:inst:m3	nazwa geograficzna	
+Aniołowem	Aniołów	subst:sg:inst:m3	nazwa geograficzna	
+Aniołowie	Aniołów	subst:sg:loc:m3	nazwa geograficzna	
+Aniołowie	Aniołów	subst:sg:voc:m3	nazwa geograficzna	
+Aniołowom	Aniołów	subst:pl:dat:m3	nazwa geograficzna	
+Aniołowowi	Aniołów	subst:sg:dat:m3	nazwa geograficzna	
+Aniołowów	Aniołów	subst:pl:gen:m3	nazwa geograficzna	
+Aniołowu	Aniołów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Aniołowy	Aniołów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Aniołów	Aniołów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Aniele	Anioł:s1	subst:sg:loc:m1	nazwisko	
 Aniele	Anioł:s1	subst:sg:voc:m1	nazwisko	
 Anieli	Anioł:s1	subst:pl:nom.voc:m1	nazwisko	
@@ -8922,6 +9840,16 @@ Anki	Anka	subst:pl:nom.acc.voc:f	imię	pot.
 Anki	Anka	subst:sg:gen:f	imię	pot.
 Anko	Anka	subst:sg:voc:f	imię	pot.
 Ankom	Anka	subst:pl:dat:f	imię	pot.
+Ankamatach	Ankamaty	subst:pl:loc:n:pt	nazwa geograficzna	
+Ankamatach	Ankamaty	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ankamatami	Ankamaty	subst:pl:inst:n:pt	nazwa geograficzna	
+Ankamatami	Ankamaty	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ankamat	Ankamaty	subst:pl:gen:n:pt	nazwa geograficzna	
+Ankamat	Ankamaty	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Ankamatom	Ankamaty	subst:pl:dat:n:pt	nazwa geograficzna	
+Ankamatom	Ankamaty	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ankamaty	Ankamaty	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Ankamaty	Ankamaty	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Ankara	Ankara	subst:sg:nom:f	nazwa geograficzna	
 Ankarach	Ankara	subst:pl:loc:f	nazwa geograficzna	
 Ankarami	Ankara	subst:pl:inst:f	nazwa geograficzna	
@@ -9061,17 +9989,39 @@ Ankwiczów	Ankwicz:s1	subst:pl:gen.acc:m1	nazwisko
 Ankwiczu	Ankwicz:s1	subst:sg:loc:m1	nazwisko	
 Ankwiczu	Ankwicz:s1	subst:sg:voc:m1	nazwisko	
 Ankwicz	Ankwicz:s4	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Anna	Anna	subst:sg:nom:f	imię	
-Annach	Anna	subst:pl:loc:f	imię	
-Annami	Anna	subst:pl:inst:f	imię	
-Ann	Anna	subst:pl:gen:f	imię	
-Anną	Anna	subst:sg:inst:f	imię	
-Annę	Anna	subst:sg:acc:f	imię	
-Annie	Anna	subst:sg:dat.loc:f	imię	
-Anno	Anna	subst:sg:voc:f	imię	
-Annom	Anna	subst:pl:dat:f	imię	
-Anny	Anna	subst:pl:nom.acc.voc:f	imię	
-Anny	Anna	subst:sg:gen:f	imię	
+Annapola	Annapol	subst:sg:gen:m3	nazwa geograficzna	
+Annapolach	Annapol	subst:pl:loc:m3	nazwa geograficzna	
+Annapolami	Annapol	subst:pl:inst:m3	nazwa geograficzna	
+Annapol	Annapol	subst:sg:nom.acc:m3	nazwa geograficzna	
+Annapole	Annapol	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Annapolem	Annapol	subst:sg:inst:m3	nazwa geograficzna	
+Annapoli	Annapol	subst:pl:gen:m3	nazwa geograficzna	
+Annapolom	Annapol	subst:pl:dat:m3	nazwa geograficzna	
+Annapolowi	Annapol	subst:sg:dat:m3	nazwa geograficzna	
+Annapolu	Annapol	subst:sg:loc:m3	nazwa geograficzna	
+Annapolu	Annapol	subst:sg:voc:m3	nazwa geograficzna	
+Anna	Anna:s1	subst:sg:nom:f	imię	
+Annach	Anna:s1	subst:pl:loc:f	imię	
+Annami	Anna:s1	subst:pl:inst:f	imię	
+Ann	Anna:s1	subst:pl:gen:f	imię	
+Anną	Anna:s1	subst:sg:inst:f	imię	
+Annę	Anna:s1	subst:sg:acc:f	imię	
+Annie	Anna:s1	subst:sg:dat.loc:f	imię	
+Anno	Anna:s1	subst:sg:voc:f	imię	
+Annom	Anna:s1	subst:pl:dat:f	imię	
+Anny	Anna:s1	subst:pl:nom.acc.voc:f	imię	
+Anny	Anna:s1	subst:sg:gen:f	imię	
+Anna	Anna:s2	subst:sg:nom:f	nazwa geograficzna	
+Annach	Anna:s2	subst:pl:loc:f	nazwa geograficzna	
+Annami	Anna:s2	subst:pl:inst:f	nazwa geograficzna	
+Ann	Anna:s2	subst:pl:gen:f	nazwa geograficzna	
+Anną	Anna:s2	subst:sg:inst:f	nazwa geograficzna	
+Annę	Anna:s2	subst:sg:acc:f	nazwa geograficzna	
+Annie	Anna:s2	subst:sg:dat.loc:f	nazwa geograficzna	
+Anno	Anna:s2	subst:sg:voc:f	nazwa geograficzna	
+Annom	Anna:s2	subst:pl:dat:f	nazwa geograficzna	
+Anny	Anna:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Anny	Anna:s2	subst:sg:gen:f	nazwa geograficzna	
 Annasza	Annasz	subst:sg:gen.acc:m1	imię	bibl.
 Annaszach	Annasz	subst:pl:loc:m1	imię	bibl.
 Annaszami	Annasz	subst:pl:inst:m1	imię	bibl.
@@ -9085,6 +10035,18 @@ Annaszowie	Annasz	subst:pl:nom.voc:m1	imię	bibl.
 Annaszów	Annasz	subst:pl:gen.acc:m1	imię	bibl.
 Annaszu	Annasz	subst:sg:loc:m1	imię	bibl.
 Annaszu	Annasz	subst:sg:voc:m1	imię	bibl.
+Annetowa	Annetów	subst:sg:gen:m3	nazwa geograficzna	
+Annetowach	Annetów	subst:pl:loc:m3	nazwa geograficzna	
+Annetowami	Annetów	subst:pl:inst:m3	nazwa geograficzna	
+Annetowem	Annetów	subst:sg:inst:m3	nazwa geograficzna	
+Annetowie	Annetów	subst:sg:loc:m3	nazwa geograficzna	
+Annetowie	Annetów	subst:sg:voc:m3	nazwa geograficzna	
+Annetowom	Annetów	subst:pl:dat:m3	nazwa geograficzna	
+Annetowowi	Annetów	subst:sg:dat:m3	nazwa geograficzna	
+Annetowów	Annetów	subst:pl:gen:m3	nazwa geograficzna	
+Annetowu	Annetów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Annetowy	Annetów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Annetów	Annetów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Annice	Annika	subst:sg:dat.loc:f	imię	
 Annika	Annika	subst:sg:nom:f	imię	
 Annikach	Annika	subst:pl:loc:f	imię	
@@ -9096,7 +10058,28 @@ Anniki	Annika	subst:pl:nom.acc.voc:f	imię
 Anniki	Annika	subst:sg:gen:f	imię	
 Anniko	Annika	subst:sg:voc:f	imię	
 Annikom	Annika	subst:pl:dat:f	imię	
+Annoborach	Annobór	subst:pl:loc:m3	nazwa geograficzna	
+Annoborami	Annobór	subst:pl:inst:m3	nazwa geograficzna	
+Annoborem	Annobór	subst:sg:inst:m3	nazwa geograficzna	
+Annoborom	Annobór	subst:pl:dat:m3	nazwa geograficzna	
+Annoborowi	Annobór	subst:sg:dat:m3	nazwa geograficzna	
+Annoborów	Annobór	subst:pl:gen:m3	nazwa geograficzna	
+Annoboru	Annobór	subst:sg:gen:m3	nazwa geograficzna	
+Annobory	Annobór	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Annoborze	Annobór	subst:sg:loc:m3	nazwa geograficzna	
+Annoborze	Annobór	subst:sg:voc:m3	nazwa geograficzna	
+Annobór	Annobór	subst:sg:nom.acc:m3	nazwa geograficzna	
 A.D	Anno_Domini	brev:pun		
+Annolesia	Annolesie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Annolesia	Annolesie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Annolesiach	Annolesie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Annolesiami	Annolesie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Annolesi	Annolesie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Annolesie	Annolesie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Annolesiem	Annolesie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Annolesiom	Annolesie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Annolesiu	Annolesie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Annolesiu	Annolesie	subst:sg:loc:n:ncol	nazwa geograficzna	
 Annopola	Annopol	subst:sg:gen:m3	nazwa geograficzna	
 Annopolach	Annopol	subst:pl:loc:m3	nazwa geograficzna	
 Annopolami	Annopol	subst:pl:inst:m3	nazwa geograficzna	
@@ -9109,6 +10092,74 @@ Annopolowi	Annopol	subst:sg:dat:m3	nazwa geograficzna
 Annopolów	Annopol	subst:pl:gen:m3	nazwa geograficzna	
 Annopolu	Annopol	subst:sg:loc:m3	nazwa geograficzna	
 Annopolu	Annopol	subst:sg:voc:m3	nazwa geograficzna	
+Annopola	Annopole	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Annopola	Annopole	subst:sg:gen:n:ncol	nazwa geograficzna	
+Annopolach	Annopole	subst:pl:loc:n:ncol	nazwa geograficzna	
+Annopolami	Annopole	subst:pl:inst:n:ncol	nazwa geograficzna	
+Annopole	Annopole	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Annopolem	Annopole	subst:sg:inst:n:ncol	nazwa geograficzna	
+Annopoli	Annopole	subst:pl:gen:n:ncol	nazwa geograficzna	
+Annopolom	Annopole	subst:pl:dat:n:ncol	nazwa geograficzna	
+Annopolu	Annopole	subst:sg:dat:n:ncol	nazwa geograficzna	
+Annopolu	Annopole	subst:sg:loc:n:ncol	nazwa geograficzna	
+Annosław	Annosław	subst:sg:nom.acc:m3	nazwa geograficzna	
+Annosławia	Annosław	subst:sg:gen:m3	nazwa geograficzna	
+Annosławiach	Annosław	subst:pl:loc:m3	nazwa geograficzna	
+Annosławiami	Annosław	subst:pl:inst:m3	nazwa geograficzna	
+Annosławi	Annosław	subst:pl:gen:m3	nazwa geograficzna	
+Annosławie	Annosław	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Annosławiem	Annosław	subst:sg:inst:m3	nazwa geograficzna	
+Annosławiom	Annosław	subst:pl:dat:m3	nazwa geograficzna	
+Annosławiowi	Annosław	subst:sg:dat:m3	nazwa geograficzna	
+Annosławiów	Annosław	subst:pl:gen:m3	nazwa geograficzna	
+Annosławiu	Annosław	subst:sg:loc:m3	nazwa geograficzna	
+Annosławiu	Annosław	subst:sg:voc:m3	nazwa geograficzna	
+Annowa	Annowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Annowa	Annowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Annowach	Annowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Annowami	Annowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Annow	Annowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Annowem	Annowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Annowie	Annowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Annowo	Annowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Annowom	Annowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Annowów	Annowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Annowu	Annowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Annów	Annowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Annowa	Annów	subst:sg:gen:m3	nazwa geograficzna	
+Annowach	Annów	subst:pl:loc:m3	nazwa geograficzna	
+Annowami	Annów	subst:pl:inst:m3	nazwa geograficzna	
+Annowem	Annów	subst:sg:inst:m3	nazwa geograficzna	
+Annowie	Annów	subst:sg:loc:m3	nazwa geograficzna	
+Annowie	Annów	subst:sg:voc:m3	nazwa geograficzna	
+Annowom	Annów	subst:pl:dat:m3	nazwa geograficzna	
+Annowowi	Annów	subst:sg:dat:m3	nazwa geograficzna	
+Annowów	Annów	subst:pl:gen:m3	nazwa geograficzna	
+Annowu	Annów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Annowy	Annów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Annów	Annów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Annówce	Annówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Annówek	Annówka	subst:pl:gen:f	nazwa geograficzna	
+Annówka	Annówka	subst:sg:nom:f	nazwa geograficzna	
+Annówkach	Annówka	subst:pl:loc:f	nazwa geograficzna	
+Annówkami	Annówka	subst:pl:inst:f	nazwa geograficzna	
+Annówką	Annówka	subst:sg:inst:f	nazwa geograficzna	
+Annówkę	Annówka	subst:sg:acc:f	nazwa geograficzna	
+Annówki	Annówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Annówki	Annówka	subst:sg:gen:f	nazwa geograficzna	
+Annówko	Annówka	subst:sg:voc:f	nazwa geograficzna	
+Annówkom	Annówka	subst:pl:dat:f	nazwa geograficzna	
+Anonina	Anonin	subst:sg:gen:m3	nazwa geograficzna	
+Anoninach	Anonin	subst:pl:loc:m3	nazwa geograficzna	
+Anoninami	Anonin	subst:pl:inst:m3	nazwa geograficzna	
+Anonin	Anonin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Anoninem	Anonin	subst:sg:inst:m3	nazwa geograficzna	
+Anoninie	Anonin	subst:sg:loc:m3	nazwa geograficzna	
+Anoninie	Anonin	subst:sg:voc:m3	nazwa geograficzna	
+Anoninom	Anonin	subst:pl:dat:m3	nazwa geograficzna	
+Anoninowi	Anonin	subst:sg:dat:m3	nazwa geograficzna	
+Anoninów	Anonin	subst:pl:gen:m3	nazwa geograficzna	
+Anoniny	Anonin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Anouilha	Anouilh	subst:sg:gen.acc:m1	nazwisko	
 Anouilhach	Anouilh	subst:pl:loc:m1	nazwisko	
 Anouilhami	Anouilh	subst:pl:inst:m1	nazwisko	
@@ -9422,6 +10473,28 @@ Antolików	Antolik:s1	subst:pl:gen.acc:m1	nazwisko
 Antoliku	Antolik:s1	subst:sg:loc:m1	nazwisko	
 Antoliku	Antolik:s1	subst:sg:voc:m1	nazwisko	
 Antolik	Antolik:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Antolina	Antolin	subst:sg:gen:m3	nazwa geograficzna	
+Antolinach	Antolin	subst:pl:loc:m3	nazwa geograficzna	
+Antolinami	Antolin	subst:pl:inst:m3	nazwa geograficzna	
+Antolin	Antolin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Antolinem	Antolin	subst:sg:inst:m3	nazwa geograficzna	
+Antolinie	Antolin	subst:sg:loc:m3	nazwa geograficzna	
+Antolinie	Antolin	subst:sg:voc:m3	nazwa geograficzna	
+Antolinom	Antolin	subst:pl:dat:m3	nazwa geograficzna	
+Antolinowi	Antolin	subst:sg:dat:m3	nazwa geograficzna	
+Antolinów	Antolin	subst:pl:gen:m3	nazwa geograficzna	
+Antoliny	Antolin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Antolce	Antolka	subst:sg:dat.loc:f	nazwa geograficzna	
+Antolek	Antolka	subst:pl:gen:f	nazwa geograficzna	
+Antolka	Antolka	subst:sg:nom:f	nazwa geograficzna	
+Antolkach	Antolka	subst:pl:loc:f	nazwa geograficzna	
+Antolkami	Antolka	subst:pl:inst:f	nazwa geograficzna	
+Antolką	Antolka	subst:sg:inst:f	nazwa geograficzna	
+Antolkę	Antolka	subst:sg:acc:f	nazwa geograficzna	
+Antolki	Antolka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Antolki	Antolka	subst:sg:gen:f	nazwa geograficzna	
+Antolko	Antolka	subst:sg:voc:f	nazwa geograficzna	
+Antolkom	Antolka	subst:pl:dat:f	nazwa geograficzna	
 Antola	Antol:s1	subst:sg:gen.acc:m1	nazwisko	
 Antolach	Antol:s1	subst:pl:loc:m1	nazwisko	
 Antolami	Antol:s1	subst:pl:inst:m1	nazwisko	
@@ -9460,6 +10533,18 @@ Antonim	Antoni	subst:sg:inst:m1	imię
 Antonim	Antoni	subst:sg:loc:m1	imię	
 Antonimi	Antoni	subst:pl:inst:m1	imię	
 Antoniowie	Antoni	subst:pl:nom.voc:m1	imię	
+Antonia	Antonia	subst:sg:nom:f	nazwa geograficzna	
+Antoniach	Antonia	subst:pl:loc:f	nazwa geograficzna	
+Antoniami	Antonia	subst:pl:inst:f	nazwa geograficzna	
+Antonią	Antonia	subst:sg:inst:f	nazwa geograficzna	
+Antonie	Antonia	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Antonię	Antonia	subst:sg:acc:f	nazwa geograficzna	
+Antonii	Antonia	subst:pl:gen:f	nazwa geograficzna	hom.
+Antonii	Antonia	subst:sg:dat.loc:f	nazwa geograficzna	
+Antonii	Antonia	subst:sg:gen:f	nazwa geograficzna	
+Antonij	Antonia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+Antonio	Antonia	subst:sg:voc:f	nazwa geograficzna	
+Antoniom	Antonia	subst:pl:dat:f	nazwa geograficzna	
 Antoniaka	Antoniak:s2	subst:sg:gen.acc:m1	nazwisko	
 Antoniakach	Antoniak:s2	subst:pl:loc:m1	nazwisko	
 Antoniakami	Antoniak:s2	subst:pl:inst:m1	nazwisko	
@@ -9473,6 +10558,49 @@ Antoniaków	Antoniak:s2	subst:pl:gen.acc:m1	nazwisko
 Antoniaku	Antoniak:s2	subst:sg:loc:m1	nazwisko	
 Antoniaku	Antoniak:s2	subst:sg:voc:m1	nazwisko	
 Antoniak	Antoniak:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Antonielowa	Antonielów	subst:sg:gen:m3	nazwa geograficzna	
+Antonielowach	Antonielów	subst:pl:loc:m3	nazwa geograficzna	
+Antonielowami	Antonielów	subst:pl:inst:m3	nazwa geograficzna	
+Antonielowem	Antonielów	subst:sg:inst:m3	nazwa geograficzna	
+Antonielowie	Antonielów	subst:sg:loc:m3	nazwa geograficzna	
+Antonielowie	Antonielów	subst:sg:voc:m3	nazwa geograficzna	
+Antonielowom	Antonielów	subst:pl:dat:m3	nazwa geograficzna	
+Antonielowowi	Antonielów	subst:sg:dat:m3	nazwa geograficzna	
+Antonielowów	Antonielów	subst:pl:gen:m3	nazwa geograficzna	
+Antonielowu	Antonielów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Antonielowy	Antonielów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Antonielów	Antonielów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Antoniach	Antonie:s1	subst:pl:loc:n:pt	człon nazwy geograficznej	
+Antoniach	Antonie:s1	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+Antoniami	Antonie:s1	subst:pl:inst:n:pt	człon nazwy geograficznej	
+Antoniami	Antonie:s1	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+Antonie	Antonie:s1	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+Antonie	Antonie:s1	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
+Antoniom	Antonie:s1	subst:pl:dat:n:pt	człon nazwy geograficznej	
+Antoniom	Antonie:s1	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
+Antoń	Antonie:s1	subst:pl:gen:n:pt	człon nazwy geograficznej	
+Antoń	Antonie:s1	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+Antonia	Antonie:s2	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Antonia	Antonie:s2	subst:sg:gen:n:ncol	nazwa geograficzna	
+Antoniach	Antonie:s2	subst:pl:loc:n:ncol	nazwa geograficzna	
+Antoniami	Antonie:s2	subst:pl:inst:n:ncol	nazwa geograficzna	
+Antoni	Antonie:s2	subst:pl:gen:n:ncol	nazwa geograficzna	
+Antonie	Antonie:s2	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Antoniem	Antonie:s2	subst:sg:inst:n:ncol	nazwa geograficzna	
+Antoniom	Antonie:s2	subst:pl:dat:n:ncol	nazwa geograficzna	
+Antoniu	Antonie:s2	subst:sg:dat:n:ncol	nazwa geograficzna	
+Antoniu	Antonie:s2	subst:sg:loc:n:ncol	nazwa geograficzna	
+Antoniewa	Antoniew	subst:sg:gen:m3	nazwa geograficzna	
+Antoniewach	Antoniew	subst:pl:loc:m3	nazwa geograficzna	
+Antoniewami	Antoniew	subst:pl:inst:m3	nazwa geograficzna	
+Antoniew	Antoniew	subst:sg:nom.acc:m3	nazwa geograficzna	
+Antoniewem	Antoniew	subst:sg:inst:m3	nazwa geograficzna	
+Antoniewie	Antoniew	subst:sg:loc:m3	nazwa geograficzna	
+Antoniewie	Antoniew	subst:sg:voc:m3	nazwa geograficzna	
+Antoniewom	Antoniew	subst:pl:dat:m3	nazwa geograficzna	
+Antoniewowi	Antoniew	subst:sg:dat:m3	nazwa geograficzna	
+Antoniewów	Antoniew	subst:pl:gen:m3	nazwa geograficzna	
+Antoniewy	Antoniew	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Antoniewicza	Antoniewicz:s2	subst:sg:gen.acc:m1	nazwisko	
 Antoniewiczach	Antoniewicz:s2	subst:pl:loc:m1	nazwisko	
 Antoniewiczami	Antoniewicz:s2	subst:pl:inst:m1	nazwisko	
@@ -9487,6 +10615,16 @@ Antoniewiczów	Antoniewicz:s2	subst:pl:gen.acc:m1	nazwisko
 Antoniewiczu	Antoniewicz:s2	subst:sg:loc:m1	nazwisko	
 Antoniewiczu	Antoniewicz:s2	subst:sg:voc:m1	nazwisko	
 Antoniewicz	Antoniewicz:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Antoniewa	Antoniewo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Antoniewa	Antoniewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Antoniewach	Antoniewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Antoniewami	Antoniewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Antoniew	Antoniewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Antoniewem	Antoniewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Antoniewie	Antoniewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Antoniewo	Antoniewo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Antoniewom	Antoniewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Antoniewu	Antoniewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Antoniewska	Antoniewska	subst:sg:nom:f	nazwisko	
 Antoniewska	Antoniewska	subst:sg:voc:f	nazwisko	
 Antoniewską	Antoniewska	subst:sg:acc:f	nazwisko	
@@ -9510,6 +10648,16 @@ Antoniewskim	Antoniewski	subst:pl:dat:m1	nazwisko
 Antoniewskim	Antoniewski	subst:sg:inst:m1	nazwisko	
 Antoniewskim	Antoniewski	subst:sg:loc:m1	nazwisko	
 Antoniewskimi	Antoniewski	subst:pl:inst:m1	nazwisko	
+Antonikach	Antoniki	subst:pl:loc:n:pt	nazwa geograficzna	
+Antonikach	Antoniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Antonikami	Antoniki	subst:pl:inst:n:pt	nazwa geograficzna	
+Antonikami	Antoniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Antoniki	Antoniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Antoniki	Antoniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Antonikom	Antoniki	subst:pl:dat:n:pt	nazwa geograficzna	
+Antonikom	Antoniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Antoników	Antoniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Antoników	Antoniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Antonika	Antonik:s2	subst:sg:gen.acc:m1	nazwisko	
 Antonikach	Antonik:s2	subst:pl:loc:m1	nazwisko	
 Antonikami	Antonik:s2	subst:pl:inst:m1	nazwisko	
@@ -9523,30 +10671,85 @@ Antoników	Antonik:s2	subst:pl:gen.acc:m1	nazwisko
 Antoniku	Antonik:s2	subst:sg:loc:m1	nazwisko	
 Antoniku	Antonik:s2	subst:sg:voc:m1	nazwisko	
 Antonik	Antonik:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Antonina	Antonin	subst:sg:gen.acc:m1	imię	
-Antoninach	Antonin	subst:pl:loc:m1	imię	
-Antoninami	Antonin	subst:pl:inst:m1	imię	
-Antonin	Antonin	subst:sg:nom:m1	imię	
-Antoninem	Antonin	subst:sg:inst:m1	imię	
-Antonini	Antonin	subst:pl:nom.voc:m1	imię	
-Antoninie	Antonin	subst:sg:loc:m1	imię	
-Antoninie	Antonin	subst:sg:voc:m1	imię	
-Antoninom	Antonin	subst:pl:dat:m1	imię	
-Antoninowi	Antonin	subst:sg:dat:m1	imię	
-Antoninowie	Antonin	subst:pl:nom.voc:m1	imię	
-Antoninów	Antonin	subst:pl:gen.acc:m1	imię	
-Antoniny	Antonin	depr:pl:nom.acc.voc:m2	imię	
-Antonina	Antonina	subst:sg:nom:f	imię	
-Antoninach	Antonina	subst:pl:loc:f	imię	
-Antoninami	Antonina	subst:pl:inst:f	imię	
-Antonin	Antonina	subst:pl:gen:f	imię	
-Antoniną	Antonina	subst:sg:inst:f	imię	
-Antoninę	Antonina	subst:sg:acc:f	imię	
-Antoninie	Antonina	subst:sg:dat.loc:f	imię	
-Antonino	Antonina	subst:sg:voc:f	imię	
-Antoninom	Antonina	subst:pl:dat:f	imię	
-Antoniny	Antonina	subst:pl:nom.acc.voc:f	imię	
-Antoniny	Antonina	subst:sg:gen:f	imię	
+Antonina	Antonina:s1	subst:sg:nom:f	imię	
+Antoninach	Antonina:s1	subst:pl:loc:f	imię	
+Antoninami	Antonina:s1	subst:pl:inst:f	imię	
+Antonin	Antonina:s1	subst:pl:gen:f	imię	
+Antoniną	Antonina:s1	subst:sg:inst:f	imię	
+Antoninę	Antonina:s1	subst:sg:acc:f	imię	
+Antoninie	Antonina:s1	subst:sg:dat.loc:f	imię	
+Antonino	Antonina:s1	subst:sg:voc:f	imię	
+Antoninom	Antonina:s1	subst:pl:dat:f	imię	
+Antoniny	Antonina:s1	subst:pl:nom.acc.voc:f	imię	
+Antoniny	Antonina:s1	subst:sg:gen:f	imię	
+Antonina	Antonina:s2	subst:sg:nom:f	nazwa geograficzna	
+Antoninach	Antonina:s2	subst:pl:loc:f	nazwa geograficzna	
+Antoninami	Antonina:s2	subst:pl:inst:f	nazwa geograficzna	
+Antonin	Antonina:s2	subst:pl:gen:f	nazwa geograficzna	
+Antoniną	Antonina:s2	subst:sg:inst:f	nazwa geograficzna	
+Antoninę	Antonina:s2	subst:sg:acc:f	nazwa geograficzna	
+Antoninie	Antonina:s2	subst:sg:dat.loc:f	nazwa geograficzna	
+Antonino	Antonina:s2	subst:sg:voc:f	nazwa geograficzna	
+Antoninom	Antonina:s2	subst:pl:dat:f	nazwa geograficzna	
+Antoniny	Antonina:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Antoniny	Antonina:s2	subst:sg:gen:f	nazwa geograficzna	
+Antoninek	Antoninek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Antoninka	Antoninek	subst:sg:gen:m3	nazwa geograficzna	
+Antoninkach	Antoninek	subst:pl:loc:m3	nazwa geograficzna	
+Antoninkami	Antoninek	subst:pl:inst:m3	nazwa geograficzna	
+Antoninki	Antoninek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Antoninkiem	Antoninek	subst:sg:inst:m3	nazwa geograficzna	
+Antoninkom	Antoninek	subst:pl:dat:m3	nazwa geograficzna	
+Antoninkowi	Antoninek	subst:sg:dat:m3	nazwa geograficzna	
+Antoninków	Antoninek	subst:pl:gen:m3	nazwa geograficzna	
+Antoninku	Antoninek	subst:sg:loc:m3	nazwa geograficzna	
+Antoninku	Antoninek	subst:sg:voc:m3	nazwa geograficzna	
+Antoninowa	Antoninów	subst:sg:gen:m3	nazwa geograficzna	
+Antoninowach	Antoninów	subst:pl:loc:m3	nazwa geograficzna	
+Antoninowami	Antoninów	subst:pl:inst:m3	nazwa geograficzna	
+Antoninowem	Antoninów	subst:sg:inst:m3	nazwa geograficzna	
+Antoninowie	Antoninów	subst:sg:loc:m3	nazwa geograficzna	
+Antoninowie	Antoninów	subst:sg:voc:m3	nazwa geograficzna	
+Antoninowom	Antoninów	subst:pl:dat:m3	nazwa geograficzna	
+Antoninowowi	Antoninów	subst:sg:dat:m3	nazwa geograficzna	
+Antoninowów	Antoninów	subst:pl:gen:m3	nazwa geograficzna	
+Antoninowu	Antoninów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Antoninowy	Antoninów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Antoninów	Antoninów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Antonina	Antonin:s1	subst:sg:gen.acc:m1	imię	
+Antoninach	Antonin:s1	subst:pl:loc:m1	imię	
+Antoninami	Antonin:s1	subst:pl:inst:m1	imię	
+Antonin	Antonin:s1	subst:sg:nom:m1	imię	
+Antoninem	Antonin:s1	subst:sg:inst:m1	imię	
+Antonini	Antonin:s1	subst:pl:nom.voc:m1	imię	
+Antoninie	Antonin:s1	subst:sg:loc:m1	imię	
+Antoninie	Antonin:s1	subst:sg:voc:m1	imię	
+Antoninom	Antonin:s1	subst:pl:dat:m1	imię	
+Antoninowi	Antonin:s1	subst:sg:dat:m1	imię	
+Antoninowie	Antonin:s1	subst:pl:nom.voc:m1	imię	
+Antoninów	Antonin:s1	subst:pl:gen.acc:m1	imię	
+Antoniny	Antonin:s1	depr:pl:nom.acc.voc:m2	imię	
+Antonina	Antonin:s3	subst:sg:gen:m3	nazwa geograficzna	
+Antoninach	Antonin:s3	subst:pl:loc:m3	nazwa geograficzna	
+Antoninami	Antonin:s3	subst:pl:inst:m3	nazwa geograficzna	
+Antonin	Antonin:s3	subst:sg:nom.acc:m3	nazwa geograficzna	
+Antoninem	Antonin:s3	subst:sg:inst:m3	nazwa geograficzna	
+Antoninie	Antonin:s3	subst:sg:loc:m3	nazwa geograficzna	
+Antoninie	Antonin:s3	subst:sg:voc:m3	nazwa geograficzna	
+Antoninom	Antonin:s3	subst:pl:dat:m3	nazwa geograficzna	
+Antoninowi	Antonin:s3	subst:sg:dat:m3	nazwa geograficzna	
+Antoninów	Antonin:s3	subst:pl:gen:m3	nazwa geograficzna	
+Antoniny	Antonin:s3	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Antoninach	Antoniny	subst:pl:loc:n:pt	nazwa geograficzna	
+Antoninach	Antoniny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Antoninami	Antoniny	subst:pl:inst:n:pt	nazwa geograficzna	
+Antoninami	Antoniny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Antonin	Antoniny	subst:pl:gen:n:pt	nazwa geograficzna	
+Antonin	Antoniny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Antoninom	Antoniny	subst:pl:dat:n:pt	nazwa geograficzna	
+Antoninom	Antoniny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Antoniny	Antoniny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Antoniny	Antoniny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Antonia	Antonio	subst:sg:gen.acc:m1	imię	
 Antoniach	Antonio	subst:pl:loc:m1	imię	
 Antoniami	Antonio	subst:pl:inst:m1	imię	
@@ -9572,6 +10775,28 @@ Antonionim	Antonioni	subst:sg:inst:m1	nazwisko
 Antonionim	Antonioni	subst:sg:loc:m1	nazwisko	
 Antonionimi	Antonioni	subst:pl:inst:m1	nazwisko	
 Antonioniowie	Antonioni	subst:pl:nom.voc:m1	nazwisko	
+Antoniowca	Antoniowiec	subst:sg:gen:m3	nazwa geograficzna	
+Antoniowcach	Antoniowiec	subst:pl:loc:m3	nazwa geograficzna	
+Antoniowcami	Antoniowiec	subst:pl:inst:m3	nazwa geograficzna	
+Antoniowce	Antoniowiec	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Antoniowcem	Antoniowiec	subst:sg:inst:m3	nazwa geograficzna	
+Antoniowcom	Antoniowiec	subst:pl:dat:m3	nazwa geograficzna	
+Antoniowcowi	Antoniowiec	subst:sg:dat:m3	nazwa geograficzna	
+Antoniowców	Antoniowiec	subst:pl:gen:m3	nazwa geograficzna	
+Antoniowcu	Antoniowiec	subst:sg:loc:m3	nazwa geograficzna	
+Antoniowcu	Antoniowiec	subst:sg:voc:m3	nazwa geograficzna	
+Antoniowiec	Antoniowiec	subst:sg:nom.acc:m3	nazwa geograficzna	
+Antoniówce	Antoniówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Antoniówek	Antoniówka	subst:pl:gen:f	nazwa geograficzna	
+Antoniówka	Antoniówka	subst:sg:nom:f	nazwa geograficzna	
+Antoniówkach	Antoniówka	subst:pl:loc:f	nazwa geograficzna	
+Antoniówkami	Antoniówka	subst:pl:inst:f	nazwa geograficzna	
+Antoniówką	Antoniówka	subst:sg:inst:f	nazwa geograficzna	
+Antoniówkę	Antoniówka	subst:sg:acc:f	nazwa geograficzna	
+Antoniówki	Antoniówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Antoniówki	Antoniówka	subst:sg:gen:f	nazwa geograficzna	
+Antoniówko	Antoniówka	subst:sg:voc:f	nazwa geograficzna	
+Antoniówkom	Antoniówka	subst:pl:dat:f	nazwa geograficzna	
 Antoniowa	Antoniów:s2	subst:sg:gen.acc:m1	nazwisko	
 Antoniowach	Antoniów:s2	subst:pl:loc:m1	nazwisko	
 Antoniowami	Antoniów:s2	subst:pl:inst:m1	nazwisko	
@@ -9585,6 +10810,18 @@ Antoniowów	Antoniów:s2	subst:pl:gen.acc:m1	nazwisko
 Antoniowy	Antoniów:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Antoniów	Antoniów:s2	subst:sg:nom:m1	nazwisko	
 Antoniów	Antoniów:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Antoniowa	Antoniów:s4	subst:sg:gen:m3	nazwa geograficzna	
+Antoniowach	Antoniów:s4	subst:pl:loc:m3	nazwa geograficzna	
+Antoniowami	Antoniów:s4	subst:pl:inst:m3	nazwa geograficzna	
+Antoniowem	Antoniów:s4	subst:sg:inst:m3	nazwa geograficzna	
+Antoniowie	Antoniów:s4	subst:sg:loc:m3	nazwa geograficzna	
+Antoniowie	Antoniów:s4	subst:sg:voc:m3	nazwa geograficzna	
+Antoniowom	Antoniów:s4	subst:pl:dat:m3	nazwa geograficzna	
+Antoniowowi	Antoniów:s4	subst:sg:dat:m3	nazwa geograficzna	
+Antoniowów	Antoniów:s4	subst:pl:gen:m3	nazwa geograficzna	
+Antoniowu	Antoniów:s4	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Antoniowy	Antoniów:s4	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Antoniów	Antoniów:s4	subst:sg:nom.acc:m3	nazwa geograficzna	
 Antoniszyna	Antoniszyn:s1	subst:sg:gen.acc:m1	nazwisko	
 Antoniszynach	Antoniszyn:s1	subst:pl:loc:m1	nazwisko	
 Antoniszynami	Antoniszyn:s1	subst:pl:inst:m1	nazwisko	
@@ -9611,6 +10848,17 @@ Antoniuków	Antoniuk:s4	subst:pl:gen.acc:m1	nazwisko
 Antoniuku	Antoniuk:s4	subst:sg:loc:m1	nazwisko	
 Antoniuku	Antoniuk:s4	subst:sg:voc:m1	nazwisko	
 Antoniuk	Antoniuk:s5	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Antoniuka	Antoniuk:s6	subst:sg:gen:m3	nazwa geograficzna	
+Antoniukach	Antoniuk:s6	subst:pl:loc:m3	nazwa geograficzna	
+Antoniukami	Antoniuk:s6	subst:pl:inst:m3	nazwa geograficzna	
+Antoniuk	Antoniuk:s6	subst:sg:nom.acc:m3	nazwa geograficzna	
+Antoniuki	Antoniuk:s6	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Antoniukiem	Antoniuk:s6	subst:sg:inst:m3	nazwa geograficzna	
+Antoniukom	Antoniuk:s6	subst:pl:dat:m3	nazwa geograficzna	
+Antoniukowi	Antoniuk:s6	subst:sg:dat:m3	nazwa geograficzna	
+Antoniuków	Antoniuk:s6	subst:pl:gen:m3	nazwa geograficzna	
+Antoniuku	Antoniuk:s6	subst:sg:loc:m3	nazwa geograficzna	
+Antoniuku	Antoniuk:s6	subst:sg:voc:m3	nazwa geograficzna	
 Antoniusza	Antoniusz	subst:sg:gen.acc:m1	imię	
 Antoniuszach	Antoniusz	subst:pl:loc:m1	imię	
 Antoniuszami	Antoniusz	subst:pl:inst:m1	imię	
@@ -9652,6 +10900,18 @@ Antonowiczów	Antonowicz:s2	subst:pl:gen.acc:m1	nazwisko
 Antonowiczu	Antonowicz:s2	subst:sg:loc:m1	nazwisko	
 Antonowiczu	Antonowicz:s2	subst:sg:voc:m1	nazwisko	
 Antonowicz	Antonowicz:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Antonowa	Antonowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Antonowa	Antonowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Antonowach	Antonowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Antonowami	Antonowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Antonow	Antonowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Antonowem	Antonowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Antonowie	Antonowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Antonowo	Antonowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Antonowom	Antonowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Antonowów	Antonowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Antonowu	Antonowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Antonów	Antonowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Antonowa	Antonow:s3	subst:sg:gen.acc:m1	nazwisko	
 Antonowach	Antonow:s3	subst:pl:loc:m1	nazwisko	
 Antonowami	Antonow:s3	subst:pl:inst:m1	nazwisko	
@@ -9665,6 +10925,17 @@ Antonowowie	Antonow:s3	subst:pl:nom.voc:m1	nazwisko
 Antonowów	Antonow:s3	subst:pl:gen.acc:m1	nazwisko	
 Antonowy	Antonow:s3	depr:pl:nom.acc.voc:m2	nazwisko	
 Antonow	Antonow:s4	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Antonówce	Antonówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Antonówek	Antonówka	subst:pl:gen:f	nazwa geograficzna	
+Antonówka	Antonówka	subst:sg:nom:f	nazwa geograficzna	
+Antonówkach	Antonówka	subst:pl:loc:f	nazwa geograficzna	
+Antonówkami	Antonówka	subst:pl:inst:f	nazwa geograficzna	
+Antonówką	Antonówka	subst:sg:inst:f	nazwa geograficzna	
+Antonówkę	Antonówka	subst:sg:acc:f	nazwa geograficzna	
+Antonówki	Antonówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Antonówki	Antonówka	subst:sg:gen:f	nazwa geograficzna	
+Antonówko	Antonówka	subst:sg:voc:f	nazwa geograficzna	
+Antonówkom	Antonówka	subst:pl:dat:f	nazwa geograficzna	
 Antonowa	Antonów:s2	subst:sg:gen.acc:m1	nazwisko	
 Antonowach	Antonów:s2	subst:pl:loc:m1	nazwisko	
 Antonowami	Antonów:s2	subst:pl:inst:m1	nazwisko	
@@ -9678,6 +10949,18 @@ Antonowów	Antonów:s2	subst:pl:gen.acc:m1	nazwisko
 Antonowy	Antonów:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Antonów	Antonów:s2	subst:sg:nom:m1	nazwisko	
 Antonów	Antonów:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Antonowa	Antonów:s4	subst:sg:gen:m3	nazwa geograficzna	
+Antonowach	Antonów:s4	subst:pl:loc:m3	nazwa geograficzna	
+Antonowami	Antonów:s4	subst:pl:inst:m3	nazwa geograficzna	
+Antonowem	Antonów:s4	subst:sg:inst:m3	nazwa geograficzna	
+Antonowie	Antonów:s4	subst:sg:loc:m3	nazwa geograficzna	
+Antonowie	Antonów:s4	subst:sg:voc:m3	nazwa geograficzna	
+Antonowom	Antonów:s4	subst:pl:dat:m3	nazwa geograficzna	
+Antonowowi	Antonów:s4	subst:sg:dat:m3	nazwa geograficzna	
+Antonowów	Antonów:s4	subst:pl:gen:m3	nazwa geograficzna	
+Antonowu	Antonów:s4	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Antonowy	Antonów:s4	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Antonów	Antonów:s4	subst:sg:nom.acc:m3	nazwa geograficzna	
 Antona	Anton:s3	subst:sg:gen.acc:m1	nazwisko	
 Antonach	Anton:s3	subst:pl:loc:m1	nazwisko	
 Antonami	Anton:s3	subst:pl:inst:m1	nazwisko	
@@ -9730,6 +11013,17 @@ Antoniu	Antoń:s1	subst:sg:loc:m1	nazwisko
 Antoniu	Antoń:s1	subst:sg:voc:m1	nazwisko	
 Antoń	Antoń:s1	subst:sg:nom:m1	nazwisko	
 Antoń	Antoń:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Antopola	Antopol	subst:sg:gen:m3	nazwa geograficzna	
+Antopolach	Antopol	subst:pl:loc:m3	nazwa geograficzna	
+Antopolami	Antopol	subst:pl:inst:m3	nazwa geograficzna	
+Antopol	Antopol	subst:sg:nom.acc:m3	nazwa geograficzna	
+Antopole	Antopol	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Antopolem	Antopol	subst:sg:inst:m3	nazwa geograficzna	
+Antopoli	Antopol	subst:pl:gen:m3	nazwa geograficzna	
+Antopolom	Antopol	subst:pl:dat:m3	nazwa geograficzna	
+Antopolowi	Antopol	subst:sg:dat:m3	nazwa geograficzna	
+Antopolu	Antopol	subst:sg:loc:m3	nazwa geograficzna	
+Antopolu	Antopol	subst:sg:voc:m3	nazwa geograficzna	
 Antosia	Antosia	subst:sg:nom:f	imię	
 Antosiach	Antosia	subst:pl:loc:f	imię	
 Antosiami	Antosia	subst:pl:inst:f	imię	
@@ -9782,6 +11076,17 @@ Antosików	Antosik:s2	subst:pl:gen.acc:m1	nazwisko
 Antosiku	Antosik:s2	subst:sg:loc:m1	nazwisko	
 Antosiku	Antosik:s2	subst:sg:voc:m1	nazwisko	
 Antosik	Antosik:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Antosina	Antosin	subst:sg:gen:m3	nazwa geograficzna	
+Antosinach	Antosin	subst:pl:loc:m3	nazwa geograficzna	
+Antosinami	Antosin	subst:pl:inst:m3	nazwa geograficzna	
+Antosin	Antosin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Antosinem	Antosin	subst:sg:inst:m3	nazwa geograficzna	
+Antosinie	Antosin	subst:sg:loc:m3	nazwa geograficzna	
+Antosinie	Antosin	subst:sg:voc:m3	nazwa geograficzna	
+Antosinom	Antosin	subst:pl:dat:m3	nazwa geograficzna	
+Antosinowi	Antosin	subst:sg:dat:m3	nazwa geograficzna	
+Antosinów	Antosin	subst:pl:gen:m3	nazwa geograficzna	
+Antosiny	Antosin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Antosiuka	Antosiuk:s1	subst:sg:gen.acc:m1	nazwisko	
 Antosiukach	Antosiuk:s1	subst:pl:loc:m1	nazwisko	
 Antosiukami	Antosiuk:s1	subst:pl:inst:m1	nazwisko	
@@ -10189,6 +11494,17 @@ Anusików	Anusik:s1	subst:pl:gen.acc:m1	nazwisko
 Anusiku	Anusik:s1	subst:sg:loc:m1	nazwisko	
 Anusiku	Anusik:s1	subst:sg:voc:m1	nazwisko	
 Anusik	Anusik:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Anusina	Anusin	subst:sg:gen:m3	nazwa geograficzna	
+Anusinach	Anusin	subst:pl:loc:m3	nazwa geograficzna	
+Anusinami	Anusin	subst:pl:inst:m3	nazwa geograficzna	
+Anusin	Anusin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Anusinem	Anusin	subst:sg:inst:m3	nazwa geograficzna	
+Anusinie	Anusin	subst:sg:loc:m3	nazwa geograficzna	
+Anusinie	Anusin	subst:sg:voc:m3	nazwa geograficzna	
+Anusinom	Anusin	subst:pl:dat:m3	nazwa geograficzna	
+Anusinowi	Anusin	subst:sg:dat:m3	nazwa geograficzna	
+Anusinów	Anusin	subst:pl:gen:m3	nazwa geograficzna	
+Anusiny	Anusin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Anusa	Anus:s1	subst:sg:gen.acc:m1	nazwisko	
 Anusach	Anus:s1	subst:pl:loc:m1	nazwisko	
 Anusami	Anus:s1	subst:pl:inst:m1	nazwisko	
@@ -10737,6 +12053,18 @@ Apolinarym	Apolinary	subst:pl:dat:m1	imię
 Apolinarym	Apolinary	subst:sg:inst:m1	imię	
 Apolinarym	Apolinary	subst:sg:loc:m1	imię	
 Apolinarymi	Apolinary	subst:pl:inst:m1	imię	
+Apolinowa	Apolinów	subst:sg:gen:m3	nazwa geograficzna	
+Apolinowach	Apolinów	subst:pl:loc:m3	nazwa geograficzna	
+Apolinowami	Apolinów	subst:pl:inst:m3	nazwa geograficzna	
+Apolinowem	Apolinów	subst:sg:inst:m3	nazwa geograficzna	
+Apolinowie	Apolinów	subst:sg:loc:m3	nazwa geograficzna	
+Apolinowie	Apolinów	subst:sg:voc:m3	nazwa geograficzna	
+Apolinowom	Apolinów	subst:pl:dat:m3	nazwa geograficzna	
+Apolinowowi	Apolinów	subst:sg:dat:m3	nazwa geograficzna	
+Apolinowów	Apolinów	subst:pl:gen:m3	nazwa geograficzna	
+Apolinowu	Apolinów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Apolinowy	Apolinów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Apolinów	Apolinów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Apollina	Apollin	subst:sg:gen.acc:m1	imię	
 Apollinach	Apollin	subst:pl:loc:m1	imię	
 Apollinami	Apollin	subst:pl:inst:m1	imię	
@@ -10796,18 +12124,30 @@ Apollonowi	Apollon	subst:sg:dat:m1	imię
 Apollonowie	Apollon	subst:pl:nom.voc:m1	imię	
 Apollonów	Apollon	subst:pl:gen.acc:m1	imię	
 Apollony	Apollon	depr:pl:nom.acc.voc:m2	imię	
-Apolonia	Apolonia	subst:sg:nom:f	imię	
-Apoloniach	Apolonia	subst:pl:loc:f	imię	
-Apoloniami	Apolonia	subst:pl:inst:f	imię	
-Apolonią	Apolonia	subst:sg:inst:f	imię	
-Apolonie	Apolonia	subst:pl:nom.acc.voc:f	imię	
-Apolonię	Apolonia	subst:sg:acc:f	imię	
-Apolonii	Apolonia	subst:pl:gen:f	imię	hom.
-Apolonii	Apolonia	subst:sg:dat.loc:f	imię	
-Apolonii	Apolonia	subst:sg:gen:f	imię	
-Apolonij	Apolonia	subst:pl:gen:f	imię	arch.|char.
-Apolonio	Apolonia	subst:sg:voc:f	imię	
-Apoloniom	Apolonia	subst:pl:dat:f	imię	
+Apolonia	Apolonia:s1	subst:sg:nom:f	imię	
+Apoloniach	Apolonia:s1	subst:pl:loc:f	imię	
+Apoloniami	Apolonia:s1	subst:pl:inst:f	imię	
+Apolonią	Apolonia:s1	subst:sg:inst:f	imię	
+Apolonie	Apolonia:s1	subst:pl:nom.acc.voc:f	imię	
+Apolonię	Apolonia:s1	subst:sg:acc:f	imię	
+Apolonii	Apolonia:s1	subst:pl:gen:f	imię	hom.
+Apolonii	Apolonia:s1	subst:sg:dat.loc:f	imię	
+Apolonii	Apolonia:s1	subst:sg:gen:f	imię	
+Apolonij	Apolonia:s1	subst:pl:gen:f	imię	arch.|char.
+Apolonio	Apolonia:s1	subst:sg:voc:f	imię	
+Apoloniom	Apolonia:s1	subst:pl:dat:f	imię	
+Apolonia	Apolonia:s2	subst:sg:nom:f	nazwa geograficzna	
+Apoloniach	Apolonia:s2	subst:pl:loc:f	nazwa geograficzna	
+Apoloniami	Apolonia:s2	subst:pl:inst:f	nazwa geograficzna	
+Apolonią	Apolonia:s2	subst:sg:inst:f	nazwa geograficzna	
+Apolonie	Apolonia:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Apolonię	Apolonia:s2	subst:sg:acc:f	nazwa geograficzna	
+Apolonii	Apolonia:s2	subst:pl:gen:f	nazwa geograficzna	hom.
+Apolonii	Apolonia:s2	subst:sg:dat.loc:f	nazwa geograficzna	
+Apolonii	Apolonia:s2	subst:sg:gen:f	nazwa geograficzna	
+Apolonij	Apolonia:s2	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+Apolonio	Apolonia:s2	subst:sg:voc:f	nazwa geograficzna	
+Apoloniom	Apolonia:s2	subst:pl:dat:f	nazwa geograficzna	
 Apoloniusza	Apoloniusz	subst:sg:gen.acc:m1	imię	
 Apoloniuszach	Apoloniusz	subst:pl:loc:m1	imię	
 Apoloniuszami	Apoloniusz	subst:pl:inst:m1	imię	
@@ -10821,6 +12161,17 @@ Apoloniuszowie	Apoloniusz	subst:pl:nom.voc:m1	imię
 Apoloniuszów	Apoloniusz	subst:pl:gen.acc:m1	imię	
 Apoloniuszu	Apoloniusz	subst:sg:loc:m1	imię	
 Apoloniuszu	Apoloniusz	subst:sg:voc:m1	imię	
+Apolonce	Apolonka	subst:sg:dat.loc:f	nazwa geograficzna	
+Apolonek	Apolonka	subst:pl:gen:f	nazwa geograficzna	
+Apolonka	Apolonka	subst:sg:nom:f	nazwa geograficzna	
+Apolonkach	Apolonka	subst:pl:loc:f	nazwa geograficzna	
+Apolonkami	Apolonka	subst:pl:inst:f	nazwa geograficzna	
+Apolonką	Apolonka	subst:sg:inst:f	nazwa geograficzna	
+Apolonkę	Apolonka	subst:sg:acc:f	nazwa geograficzna	
+Apolonki	Apolonka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Apolonki	Apolonka	subst:sg:gen:f	nazwa geograficzna	
+Apolonko	Apolonka	subst:sg:voc:f	nazwa geograficzna	
+Apolonkom	Apolonka	subst:pl:dat:f	nazwa geograficzna	
 Aponowicza	Aponowicz:s1	subst:sg:gen.acc:m1	nazwisko	
 Aponowiczach	Aponowicz:s1	subst:pl:loc:m1	nazwisko	
 Aponowiczami	Aponowicz:s1	subst:pl:inst:m1	nazwisko	
@@ -11380,6 +12731,16 @@ Arażnym	Arażny:s1	subst:sg:inst:m1	nazwisko
 Arażnym	Arażny:s1	subst:sg:loc:m1	nazwisko	
 Arażnymi	Arażny:s1	subst:pl:inst:m1	nazwisko	
 Arażny	Arażny:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Arbasach	Arbasy	subst:pl:loc:n:pt	nazwa geograficzna	
+Arbasach	Arbasy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Arbasami	Arbasy	subst:pl:inst:n:pt	nazwa geograficzna	
+Arbasami	Arbasy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Arbas	Arbasy	subst:pl:gen:n:pt	nazwa geograficzna	
+Arbas	Arbasy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Arbasom	Arbasy	subst:pl:dat:n:pt	nazwa geograficzna	
+Arbasom	Arbasy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Arbasy	Arbasy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Arbasy	Arbasy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Arbaszewska	Arbaszewska	subst:sg:nom:f	nazwisko	
 Arbaszewska	Arbaszewska	subst:sg:voc:f	nazwisko	
 Arbaszewską	Arbaszewska	subst:sg:acc:f	nazwisko	
@@ -11416,6 +12777,17 @@ Arcabowie	Arcab:s1	subst:pl:nom.voc:m1	nazwisko
 Arcabów	Arcab:s1	subst:pl:gen.acc:m1	nazwisko	
 Arcaby	Arcab:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Arcab	Arcab:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Arcelina	Arcelin	subst:sg:gen:m3	nazwa geograficzna	
+Arcelinach	Arcelin	subst:pl:loc:m3	nazwa geograficzna	
+Arcelinami	Arcelin	subst:pl:inst:m3	nazwa geograficzna	
+Arcelin	Arcelin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Arcelinem	Arcelin	subst:sg:inst:m3	nazwa geograficzna	
+Arcelinie	Arcelin	subst:sg:loc:m3	nazwa geograficzna	
+Arcelinie	Arcelin	subst:sg:voc:m3	nazwa geograficzna	
+Arcelinom	Arcelin	subst:pl:dat:m3	nazwa geograficzna	
+Arcelinowi	Arcelin	subst:sg:dat:m3	nazwa geograficzna	
+Arcelinów	Arcelin	subst:pl:gen:m3	nazwa geograficzna	
+Arceliny	Arcelin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Archacka	Archacka	subst:sg:nom:f	nazwisko	
 Archacka	Archacka	subst:sg:voc:f	nazwisko	
 Archacką	Archacka	subst:sg:acc:f	nazwisko	
@@ -11498,6 +12870,18 @@ Archipowi	Archip	subst:sg:dat:m1	imię
 Archipowie	Archip	subst:pl:nom.voc:m1	imię	
 Archipów	Archip	subst:pl:gen.acc:m1	imię	
 Archipy	Archip	depr:pl:nom.acc.voc:m2	imię	
+Archutowa	Archutowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Archutowa	Archutowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Archutowach	Archutowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Archutowami	Archutowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Archutow	Archutowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Archutowem	Archutowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Archutowie	Archutowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Archutowo	Archutowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Archutowom	Archutowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Archutowów	Archutowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Archutowu	Archutowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Archutów	Archutowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Archutowska	Archutowska	subst:sg:nom:f	nazwisko	
 Archutowska	Archutowska	subst:sg:voc:f	nazwisko	
 Archutowską	Archutowska	subst:sg:acc:f	nazwisko	
@@ -11521,6 +12905,16 @@ Archutowskim	Archutowski	subst:pl:dat:m1	nazwisko
 Archutowskim	Archutowski	subst:sg:inst:m1	nazwisko	
 Archutowskim	Archutowski	subst:sg:loc:m1	nazwisko	
 Archutowskimi	Archutowski	subst:pl:inst:m1	nazwisko	
+Archutówek	Archutówko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Archutówka	Archutówko	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Archutówka	Archutówko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Archutówkach	Archutówko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Archutówkami	Archutówko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Archutówkiem	Archutówko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Archutówko	Archutówko	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Archutówkom	Archutówko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Archutówku	Archutówko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Archutówku	Archutówko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Arcichowska	Arcichowska	subst:sg:nom:f	nazwisko	
 Arcichowska	Arcichowska	subst:sg:voc:f	nazwisko	
 Arcichowską	Arcichowska	subst:sg:acc:f	nazwisko	
@@ -11544,6 +12938,29 @@ Arcichowskim	Arcichowski	subst:pl:dat:m1	nazwisko
 Arcichowskim	Arcichowski	subst:sg:inst:m1	nazwisko	
 Arcichowskim	Arcichowski	subst:sg:loc:m1	nazwisko	
 Arcichowskimi	Arcichowski	subst:pl:inst:m1	nazwisko	
+Arciechowa	Arciechów	subst:sg:gen:m3	nazwa geograficzna	
+Arciechowach	Arciechów	subst:pl:loc:m3	nazwa geograficzna	
+Arciechowami	Arciechów	subst:pl:inst:m3	nazwa geograficzna	
+Arciechowem	Arciechów	subst:sg:inst:m3	nazwa geograficzna	
+Arciechowie	Arciechów	subst:sg:loc:m3	nazwa geograficzna	
+Arciechowie	Arciechów	subst:sg:voc:m3	nazwa geograficzna	
+Arciechowom	Arciechów	subst:pl:dat:m3	nazwa geograficzna	
+Arciechowowi	Arciechów	subst:sg:dat:m3	nazwa geograficzna	
+Arciechowów	Arciechów	subst:pl:gen:m3	nazwa geograficzna	
+Arciechowu	Arciechów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Arciechowy	Arciechów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Arciechów	Arciechów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Arciechówek	Arciechówek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Arciechówka	Arciechówek	subst:sg:gen:m3	nazwa geograficzna	
+Arciechówkach	Arciechówek	subst:pl:loc:m3	nazwa geograficzna	
+Arciechówkami	Arciechówek	subst:pl:inst:m3	nazwa geograficzna	
+Arciechówki	Arciechówek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Arciechówkiem	Arciechówek	subst:sg:inst:m3	nazwa geograficzna	
+Arciechówkom	Arciechówek	subst:pl:dat:m3	nazwa geograficzna	
+Arciechówkowi	Arciechówek	subst:sg:dat:m3	nazwa geograficzna	
+Arciechówków	Arciechówek	subst:pl:gen:m3	nazwa geograficzna	
+Arciechówku	Arciechówek	subst:sg:loc:m3	nazwa geograficzna	
+Arciechówku	Arciechówek	subst:sg:voc:m3	nazwa geograficzna	
 Arcimowicza	Arcimowicz:s2	subst:sg:gen.acc:m1	nazwisko	
 Arcimowiczach	Arcimowicz:s2	subst:pl:loc:m1	nazwisko	
 Arcimowiczami	Arcimowicz:s2	subst:pl:inst:m1	nazwisko	
@@ -11558,6 +12975,16 @@ Arcimowiczów	Arcimowicz:s2	subst:pl:gen.acc:m1	nazwisko
 Arcimowiczu	Arcimowicz:s2	subst:sg:loc:m1	nazwisko	
 Arcimowiczu	Arcimowicz:s2	subst:sg:voc:m1	nazwisko	
 Arcimowicz	Arcimowicz:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Arciszewa	Arciszewo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Arciszewa	Arciszewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Arciszewach	Arciszewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Arciszewami	Arciszewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Arciszew	Arciszewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Arciszewem	Arciszewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Arciszewie	Arciszewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Arciszewo	Arciszewo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Arciszewom	Arciszewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Arciszewu	Arciszewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Arciszewska	Arciszewska	subst:sg:nom:f	nazwisko	
 Arciszewska	Arciszewska	subst:sg:voc:f	nazwisko	
 Arciszewską	Arciszewska	subst:sg:acc:f	nazwisko	
@@ -11632,6 +13059,18 @@ Arctowie	Arct:s1	subst:pl:nom.voc:m1	nazwisko
 Arctów	Arct:s1	subst:pl:gen.acc:m1	nazwisko	
 Arcty	Arct:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Arct	Arct:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Arcugowa	Arcugowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Arcugowa	Arcugowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Arcugowach	Arcugowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Arcugowami	Arcugowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Arcugow	Arcugowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Arcugowem	Arcugowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Arcugowie	Arcugowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Arcugowo	Arcugowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Arcugowom	Arcugowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Arcugowów	Arcugowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Arcugowu	Arcugowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Arcugów	Arcugowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Arczewska	Arczewska	subst:sg:nom:f	nazwisko	
 Arczewska	Arczewska	subst:sg:voc:f	nazwisko	
 Arczewską	Arczewska	subst:sg:acc:f	nazwisko	
@@ -11701,6 +13140,16 @@ Ardanowskim	Ardanowski	subst:pl:dat:m1	nazwisko
 Ardanowskim	Ardanowski	subst:sg:inst:m1	nazwisko	
 Ardanowskim	Ardanowski	subst:sg:loc:m1	nazwisko	
 Ardanowskimi	Ardanowski	subst:pl:inst:m1	nazwisko	
+Ardapach	Ardapy	subst:pl:loc:n:pt	nazwa geograficzna	
+Ardapach	Ardapy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ardapami	Ardapy	subst:pl:inst:n:pt	nazwa geograficzna	
+Ardapami	Ardapy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ardap	Ardapy	subst:pl:gen:n:pt	nazwa geograficzna	
+Ardap	Ardapy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Ardapom	Ardapy	subst:pl:dat:n:pt	nazwa geograficzna	
+Ardapom	Ardapy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ardapy	Ardapy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Ardapy	Ardapy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Ardele	Ardeli:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Ardelego	Ardeli:s1	subst:sg:gen.acc:m1	nazwisko	
 Ardelemu	Ardeli:s1	subst:sg:dat:m1	nazwisko	
@@ -11831,6 +13280,18 @@ Arentowiczów	Arentowicz:s1	subst:pl:gen.acc:m1	nazwisko
 Arentowiczu	Arentowicz:s1	subst:sg:loc:m1	nazwisko	
 Arentowiczu	Arentowicz:s1	subst:sg:voc:m1	nazwisko	
 Arentowicz	Arentowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Arentowa	Arentowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Arentowa	Arentowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Arentowach	Arentowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Arentowami	Arentowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Arentow	Arentowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Arentowem	Arentowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Arentowie	Arentowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Arentowo	Arentowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Arentowom	Arentowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Arentowów	Arentowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Arentowu	Arentowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Arentów	Arentowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Arencie	Arent:s2	subst:sg:loc:m1	nazwisko	
 Arencie	Arent:s2	subst:sg:voc:m1	nazwisko	
 Arenta	Arent:s2	subst:sg:gen.acc:m1	nazwisko	
@@ -12017,6 +13478,16 @@ Arianno	Arianna	subst:sg:voc:f	imię
 Ariannom	Arianna	subst:pl:dat:f	imię	
 Arianny	Arianna	subst:pl:nom.acc.voc:f	imię	
 Arianny	Arianna	subst:sg:gen:f	imię	
+Arianach	Ariany	subst:pl:loc:n:pt	nazwa geograficzna	
+Arianach	Ariany	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Arianami	Ariany	subst:pl:inst:n:pt	nazwa geograficzna	
+Arianami	Ariany	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Arian	Ariany	subst:pl:gen:n:pt	nazwa geograficzna	
+Arian	Ariany	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Arianom	Ariany	subst:pl:dat:n:pt	nazwa geograficzna	
+Arianom	Ariany	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ariany	Ariany	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Ariany	Ariany	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 ARiMR-ach	ARiMR	subst:pl:loc:m3	nazwa instytucji	
 ARiMR-ami	ARiMR	subst:pl:inst:m3	nazwa instytucji	
 ARiMR	ARiMR	subst:sg:nom.acc:m3	nazwa instytucji	
@@ -12166,6 +13637,16 @@ Arktyki	Arktyka	subst:pl:nom.acc.voc:f	nazwa geograficzna
 Arktyki	Arktyka	subst:sg:gen:f	nazwa geograficzna	
 Arktyko	Arktyka	subst:sg:voc:f	nazwa geograficzna	
 Arktykom	Arktyka	subst:pl:dat:f	nazwa geograficzna	
+Arkuszewa	Arkuszewo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Arkuszewa	Arkuszewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Arkuszewach	Arkuszewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Arkuszewami	Arkuszewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Arkuszew	Arkuszewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Arkuszewem	Arkuszewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Arkuszewie	Arkuszewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Arkuszewo	Arkuszewo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Arkuszewom	Arkuszewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Arkuszewu	Arkuszewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Arkuszewska	Arkuszewska	subst:sg:nom:f	nazwisko	
 Arkuszewska	Arkuszewska	subst:sg:voc:f	nazwisko	
 Arkuszewską	Arkuszewska	subst:sg:acc:f	nazwisko	
@@ -12842,6 +14323,17 @@ Arturów	Artur	subst:pl:gen.acc:m1	imię
 Artury	Artur	depr:pl:nom.acc.voc:m2	imię	
 Arturze	Artur	subst:sg:loc:m1	imię	
 Arturze	Artur	subst:sg:voc:m1	imię	
+Arturówek	Arturówek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Arturówka	Arturówek	subst:sg:gen:m3	nazwa geograficzna	
+Arturówkach	Arturówek	subst:pl:loc:m3	nazwa geograficzna	
+Arturówkami	Arturówek	subst:pl:inst:m3	nazwa geograficzna	
+Arturówki	Arturówek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Arturówkiem	Arturówek	subst:sg:inst:m3	nazwa geograficzna	
+Arturówkom	Arturówek	subst:pl:dat:m3	nazwa geograficzna	
+Arturówkowi	Arturówek	subst:sg:dat:m3	nazwa geograficzna	
+Arturówków	Arturówek	subst:pl:gen:m3	nazwa geograficzna	
+Arturówku	Arturówek	subst:sg:loc:m3	nazwa geograficzna	
+Arturówku	Arturówek	subst:sg:voc:m3	nazwa geograficzna	
 Artusa	Artus	subst:sg:gen.acc:m1	imię	
 Artusach	Artus	subst:pl:loc:m1	imię	
 Artusami	Artus	subst:pl:inst:m1	imię	
@@ -13021,6 +14513,18 @@ Aryjki	Aryjka	subst:pl:nom.acc.voc:f	nazwa pospolita
 Aryjki	Aryjka	subst:sg:gen:f	nazwa pospolita	
 Aryjko	Aryjka	subst:sg:voc:f	nazwa pospolita	
 Aryjkom	Aryjka	subst:pl:dat:f	nazwa pospolita	
+Arynowa	Arynów	subst:sg:gen:m3	nazwa geograficzna	
+Arynowach	Arynów	subst:pl:loc:m3	nazwa geograficzna	
+Arynowami	Arynów	subst:pl:inst:m3	nazwa geograficzna	
+Arynowem	Arynów	subst:sg:inst:m3	nazwa geograficzna	
+Arynowie	Arynów	subst:sg:loc:m3	nazwa geograficzna	
+Arynowie	Arynów	subst:sg:voc:m3	nazwa geograficzna	
+Arynowom	Arynów	subst:pl:dat:m3	nazwa geograficzna	
+Arynowowi	Arynów	subst:sg:dat:m3	nazwa geograficzna	
+Arynowów	Arynów	subst:pl:gen:m3	nazwa geograficzna	
+Arynowu	Arynów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Arynowy	Arynów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Arynów	Arynów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Arystarcha	Arystarch	subst:sg:gen.acc:m1	imię	
 Arystarchach	Arystarch	subst:pl:loc:m1	imię	
 Arystarchami	Arystarch	subst:pl:inst:m1	imię	
@@ -13146,6 +14650,17 @@ Asmodeuszowie	Asmodeusz	subst:pl:nom.voc:m1	imię
 Asmodeuszów	Asmodeusz	subst:pl:gen.acc:m1	imię	
 Asmodeuszu	Asmodeusz	subst:sg:loc:m1	imię	
 Asmodeuszu	Asmodeusz	subst:sg:voc:m1	imię	
+Asmusa	Asmus	subst:sg:gen:m3	nazwa geograficzna	
+Asmusach	Asmus	subst:pl:loc:m3	nazwa geograficzna	
+Asmusami	Asmus	subst:pl:inst:m3	nazwa geograficzna	
+Asmus	Asmus	subst:sg:nom.acc:m3	nazwa geograficzna	
+Asmusem	Asmus	subst:sg:inst:m3	nazwa geograficzna	
+Asmusie	Asmus	subst:sg:loc:m3	nazwa geograficzna	
+Asmusie	Asmus	subst:sg:voc:m3	nazwa geograficzna	
+Asmusom	Asmus	subst:pl:dat:m3	nazwa geograficzna	
+Asmusowi	Asmus	subst:sg:dat:m3	nazwa geograficzna	
+Asmusów	Asmus	subst:pl:gen:m3	nazwa geograficzna	
+Asmusy	Asmus	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Asnyka	Asnyk:s1	subst:sg:gen.acc:m1	nazwisko	
 Asnykach	Asnyk:s1	subst:pl:loc:m1	nazwisko	
 Asnykami	Asnyk:s1	subst:pl:inst:m1	nazwisko	
@@ -13196,6 +14711,16 @@ Astom	Asta	subst:pl:dat:f	imię
 Asty	Asta	subst:pl:nom.acc.voc:f	imię	
 Asty	Asta	subst:sg:gen:f	imię	
 Aście	Asta	subst:sg:dat.loc:f	imię	
+Astachowicach	Astachowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Astachowicach	Astachowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Astachowicami	Astachowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Astachowicami	Astachowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Astachowic	Astachowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Astachowic	Astachowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Astachowice	Astachowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Astachowice	Astachowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Astachowicom	Astachowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Astachowicom	Astachowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Astaire’a	Astaire	subst:sg:gen.acc:m1	nazwisko	
 Astaire’ach	Astaire	subst:pl:loc:m1	nazwisko	
 Astaire’ami	Astaire	subst:pl:inst:m1	nazwisko	
@@ -13330,6 +14855,16 @@ Asuanowi	Asuan	subst:sg:dat:m3	nazwa geograficzna
 Asuanów	Asuan	subst:pl:gen:m3	nazwa geograficzna	
 Asuanu	Asuan	subst:sg:gen:m3	nazwa geograficzna	
 Asuany	Asuan	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Asunach	Asuny	subst:pl:loc:n:pt	nazwa geograficzna	
+Asunach	Asuny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Asunami	Asuny	subst:pl:inst:n:pt	nazwa geograficzna	
+Asunami	Asuny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Asun	Asuny	subst:pl:gen:n:pt	nazwa geograficzna	
+Asun	Asuny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Asunom	Asuny	subst:pl:dat:n:pt	nazwa geograficzna	
+Asunom	Asuny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Asuny	Asuny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Asuny	Asuny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Asyria	Asyria	subst:sg:nom:f	nazwa geograficzna	hist.
 Asyriach	Asyria	subst:pl:loc:f	nazwa geograficzna	hist.
 Asyriami	Asyria	subst:pl:inst:f	nazwa geograficzna	hist.
@@ -13477,6 +15012,17 @@ Aśki	Aśka	subst:sg:gen:f	imię
 Aśko	Aśka	subst:sg:voc:f	imię	
 Aśkom	Aśka	subst:pl:dat:f	imię	
 Ata	Ata:b	frag		
+Atalina	Atalin	subst:sg:gen:m3	nazwa geograficzna	
+Atalinach	Atalin	subst:pl:loc:m3	nazwa geograficzna	
+Atalinami	Atalin	subst:pl:inst:m3	nazwa geograficzna	
+Atalin	Atalin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Atalinem	Atalin	subst:sg:inst:m3	nazwa geograficzna	
+Atalinie	Atalin	subst:sg:loc:m3	nazwa geograficzna	
+Atalinie	Atalin	subst:sg:voc:m3	nazwa geograficzna	
+Atalinom	Atalin	subst:pl:dat:m3	nazwa geograficzna	
+Atalinowi	Atalin	subst:sg:dat:m3	nazwa geograficzna	
+Atalinów	Atalin	subst:pl:gen:m3	nazwa geograficzna	
+Ataliny	Atalin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Atamana	Ataman:s1	subst:sg:gen.acc:m1	nazwisko	
 Atamanach	Ataman:s1	subst:pl:loc:m1	nazwisko	
 Atamanami	Ataman:s1	subst:pl:inst:m1	nazwisko	
@@ -13527,6 +15073,17 @@ Atanazym	Atanazy	subst:pl:dat:m1	imię
 Atanazym	Atanazy	subst:sg:inst:m1	imię	
 Atanazym	Atanazy	subst:sg:loc:m1	imię	
 Atanazymi	Atanazy	subst:pl:inst:m1	imię	
+Atanazyna	Atanazyn	subst:sg:gen:m3	nazwa geograficzna	
+Atanazynach	Atanazyn	subst:pl:loc:m3	nazwa geograficzna	
+Atanazynami	Atanazyn	subst:pl:inst:m3	nazwa geograficzna	
+Atanazyn	Atanazyn	subst:sg:nom.acc:m3	nazwa geograficzna	
+Atanazynem	Atanazyn	subst:sg:inst:m3	nazwa geograficzna	
+Atanazynie	Atanazyn	subst:sg:loc:m3	nazwa geograficzna	
+Atanazynie	Atanazyn	subst:sg:voc:m3	nazwa geograficzna	
+Atanazynom	Atanazyn	subst:pl:dat:m3	nazwa geograficzna	
+Atanazynowi	Atanazyn	subst:sg:dat:m3	nazwa geograficzna	
+Atanazynów	Atanazyn	subst:pl:gen:m3	nazwa geograficzna	
+Atanazyny	Atanazyn	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Ata	Ata:s	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa pospolita	
 Atena	Atena	subst:sg:nom:f	imię	mit.
 Atenach	Atena	subst:pl:loc:f	imię	mit.
@@ -13838,6 +15395,16 @@ Auderskim	Auderski	subst:pl:dat:m1	nazwisko
 Auderskim	Auderski	subst:sg:inst:m1	nazwisko	
 Auderskim	Auderski	subst:sg:loc:m1	nazwisko	
 Auderskimi	Auderski	subst:pl:inst:m1	nazwisko	
+Audyniszek	Audyniszki	subst:pl:gen:n:pt	nazwa geograficzna	
+Audyniszek	Audyniszki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Audyniszkach	Audyniszki	subst:pl:loc:n:pt	nazwa geograficzna	
+Audyniszkach	Audyniszki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Audyniszkami	Audyniszki	subst:pl:inst:n:pt	nazwa geograficzna	
+Audyniszkami	Audyniszki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Audyniszki	Audyniszki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Audyniszki	Audyniszki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Audyniszkom	Audyniszki	subst:pl:dat:n:pt	nazwa geograficzna	
+Audyniszkom	Audyniszki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Auera	Auer:s1	subst:sg:gen.acc:m1	nazwisko	
 Auerach	Auer:s1	subst:pl:loc:m1	nazwisko	
 Auerami	Auer:s1	subst:pl:inst:m1	nazwisko	
@@ -13851,6 +15418,16 @@ Auery	Auer:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Auerze	Auer:s1	subst:sg:loc:m1	nazwisko	
 Auerze	Auer:s1	subst:sg:voc:m1	nazwisko	
 Auer	Auer:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Augamach	Augamy	subst:pl:loc:n:pt	nazwa geograficzna	
+Augamach	Augamy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Augamami	Augamy	subst:pl:inst:n:pt	nazwa geograficzna	
+Augamami	Augamy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Augam	Augamy	subst:pl:gen:n:pt	nazwa geograficzna	
+Augam	Augamy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Augamom	Augamy	subst:pl:dat:n:pt	nazwa geograficzna	
+Augamom	Augamy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Augamy	Augamy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Augamy	Augamy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Augiasza	Augiasz	subst:sg:gen.acc:m1	imię	mit.
 Augiaszach	Augiasz	subst:pl:loc:m1	imię	mit.
 Augiaszami	Augiasz	subst:pl:inst:m1	imię	mit.
@@ -13899,6 +15476,29 @@ Augustinowie	Augustin:s2	subst:pl:nom.voc:m1	nazwisko
 Augustinów	Augustin:s2	subst:pl:gen.acc:m1	nazwisko	
 Augustiny	Augustin:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Augustin	Augustin:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Augustopola	Augustopol	subst:sg:gen:m3	nazwa geograficzna	
+Augustopolach	Augustopol	subst:pl:loc:m3	nazwa geograficzna	
+Augustopolami	Augustopol	subst:pl:inst:m3	nazwa geograficzna	
+Augustopol	Augustopol	subst:sg:nom.acc:m3	nazwa geograficzna	
+Augustopole	Augustopol	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Augustopolem	Augustopol	subst:sg:inst:m3	nazwa geograficzna	
+Augustopoli	Augustopol	subst:pl:gen:m3	nazwa geograficzna	
+Augustopolom	Augustopol	subst:pl:dat:m3	nazwa geograficzna	
+Augustopolowi	Augustopol	subst:sg:dat:m3	nazwa geograficzna	
+Augustopolu	Augustopol	subst:sg:loc:m3	nazwa geograficzna	
+Augustopolu	Augustopol	subst:sg:voc:m3	nazwa geograficzna	
+Augustowa	Augustowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Augustowa	Augustowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Augustowach	Augustowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Augustowami	Augustowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Augustow	Augustowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Augustowem	Augustowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Augustowie	Augustowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Augustowo	Augustowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Augustowom	Augustowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Augustowów	Augustowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Augustowu	Augustowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Augustów	Augustowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Augustowska	Augustowska	subst:sg:nom:f	nazwisko	
 Augustowska	Augustowska	subst:sg:voc:f	nazwisko	
 Augustowską	Augustowska	subst:sg:acc:f	nazwisko	
@@ -13934,6 +15534,28 @@ Augustowów	Augustów	subst:pl:gen:m3	nazwa geograficzna
 Augustowu	Augustów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
 Augustowy	Augustów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Augustów	Augustów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Augustówek	Augustówek	subst:sg:nom.acc:m3	nazwa geograficzna	
+Augustówka	Augustówek	subst:sg:gen:m3	nazwa geograficzna	
+Augustówkach	Augustówek	subst:pl:loc:m3	nazwa geograficzna	
+Augustówkami	Augustówek	subst:pl:inst:m3	nazwa geograficzna	
+Augustówki	Augustówek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Augustówkiem	Augustówek	subst:sg:inst:m3	nazwa geograficzna	
+Augustówkom	Augustówek	subst:pl:dat:m3	nazwa geograficzna	
+Augustówkowi	Augustówek	subst:sg:dat:m3	nazwa geograficzna	
+Augustówków	Augustówek	subst:pl:gen:m3	nazwa geograficzna	
+Augustówku	Augustówek	subst:sg:loc:m3	nazwa geograficzna	
+Augustówku	Augustówek	subst:sg:voc:m3	nazwa geograficzna	
+Augustówce	Augustówka	subst:sg:dat.loc:f	nazwa geograficzna	
+Augustówek	Augustówka	subst:pl:gen:f	nazwa geograficzna	
+Augustówka	Augustówka	subst:sg:nom:f	nazwa geograficzna	
+Augustówkach	Augustówka	subst:pl:loc:f	nazwa geograficzna	
+Augustówkami	Augustówka	subst:pl:inst:f	nazwa geograficzna	
+Augustówką	Augustówka	subst:sg:inst:f	nazwa geograficzna	
+Augustówkę	Augustówka	subst:sg:acc:f	nazwa geograficzna	
+Augustówki	Augustówka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Augustówki	Augustówka	subst:sg:gen:f	nazwa geograficzna	
+Augustówko	Augustówka	subst:sg:voc:f	nazwa geograficzna	
+Augustówkom	Augustówka	subst:pl:dat:f	nazwa geograficzna	
 Augusta	August:s1	subst:sg:gen.acc:m1	imię	
 Augustach	August:s1	subst:pl:loc:m1	imię	
 Augustami	August:s1	subst:pl:inst:m1	imię	
@@ -14022,17 +15644,28 @@ Augustynioków	Augustyniok:s1	subst:pl:gen.acc:m1	nazwisko
 Augustynioku	Augustyniok:s1	subst:sg:loc:m1	nazwisko	
 Augustynioku	Augustyniok:s1	subst:sg:voc:m1	nazwisko	
 Augustyniok	Augustyniok:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Augustynce	Augustynka	subst:sg:dat.loc:f	imię	
-Augustynek	Augustynka	subst:pl:gen:f	imię	
-Augustynka	Augustynka	subst:sg:nom:f	imię	
-Augustynkach	Augustynka	subst:pl:loc:f	imię	
-Augustynkami	Augustynka	subst:pl:inst:f	imię	
-Augustynką	Augustynka	subst:sg:inst:f	imię	
-Augustynkę	Augustynka	subst:sg:acc:f	imię	
-Augustynki	Augustynka	subst:pl:nom.acc.voc:f	imię	
-Augustynki	Augustynka	subst:sg:gen:f	imię	
-Augustynko	Augustynka	subst:sg:voc:f	imię	
-Augustynkom	Augustynka	subst:pl:dat:f	imię	
+Augustynce	Augustynka:s1	subst:sg:dat.loc:f	imię	
+Augustynek	Augustynka:s1	subst:pl:gen:f	imię	
+Augustynka	Augustynka:s1	subst:sg:nom:f	imię	
+Augustynkach	Augustynka:s1	subst:pl:loc:f	imię	
+Augustynkami	Augustynka:s1	subst:pl:inst:f	imię	
+Augustynką	Augustynka:s1	subst:sg:inst:f	imię	
+Augustynkę	Augustynka:s1	subst:sg:acc:f	imię	
+Augustynki	Augustynka:s1	subst:pl:nom.acc.voc:f	imię	
+Augustynki	Augustynka:s1	subst:sg:gen:f	imię	
+Augustynko	Augustynka:s1	subst:sg:voc:f	imię	
+Augustynkom	Augustynka:s1	subst:pl:dat:f	imię	
+Augustynce	Augustynka:s2	subst:sg:dat.loc:f	nazwa geograficzna	
+Augustynek	Augustynka:s2	subst:pl:gen:f	nazwa geograficzna	
+Augustynka	Augustynka:s2	subst:sg:nom:f	nazwa geograficzna	
+Augustynkach	Augustynka:s2	subst:pl:loc:f	nazwa geograficzna	
+Augustynkami	Augustynka:s2	subst:pl:inst:f	nazwa geograficzna	
+Augustynką	Augustynka:s2	subst:sg:inst:f	nazwa geograficzna	
+Augustynkę	Augustynka:s2	subst:sg:acc:f	nazwa geograficzna	
+Augustynki	Augustynka:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Augustynki	Augustynka:s2	subst:sg:gen:f	nazwa geograficzna	
+Augustynko	Augustynka:s2	subst:sg:voc:f	nazwa geograficzna	
+Augustynkom	Augustynka:s2	subst:pl:dat:f	nazwa geograficzna	
 Augustynowicza	Augustynowicz:s2	subst:sg:gen.acc:m1	nazwisko	
 Augustynowiczach	Augustynowicz:s2	subst:pl:loc:m1	nazwisko	
 Augustynowiczami	Augustynowicz:s2	subst:pl:inst:m1	nazwisko	
@@ -14047,6 +15680,30 @@ Augustynowiczów	Augustynowicz:s2	subst:pl:gen.acc:m1	nazwisko
 Augustynowiczu	Augustynowicz:s2	subst:sg:loc:m1	nazwisko	
 Augustynowiczu	Augustynowicz:s2	subst:sg:voc:m1	nazwisko	
 Augustynowicz	Augustynowicz:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Augustynowa	Augustynowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Augustynowa	Augustynowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Augustynowach	Augustynowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Augustynowami	Augustynowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Augustynow	Augustynowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Augustynowem	Augustynowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Augustynowie	Augustynowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Augustynowo	Augustynowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Augustynowom	Augustynowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Augustynowów	Augustynowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Augustynowu	Augustynowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Augustynów	Augustynowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Augustynowa	Augustynów	subst:sg:gen:m3	nazwa geograficzna	
+Augustynowach	Augustynów	subst:pl:loc:m3	nazwa geograficzna	
+Augustynowami	Augustynów	subst:pl:inst:m3	nazwa geograficzna	
+Augustynowem	Augustynów	subst:sg:inst:m3	nazwa geograficzna	
+Augustynowie	Augustynów	subst:sg:loc:m3	nazwa geograficzna	
+Augustynowie	Augustynów	subst:sg:voc:m3	nazwa geograficzna	
+Augustynowom	Augustynów	subst:pl:dat:m3	nazwa geograficzna	
+Augustynowowi	Augustynów	subst:sg:dat:m3	nazwa geograficzna	
+Augustynowów	Augustynów	subst:pl:gen:m3	nazwa geograficzna	
+Augustynowu	Augustynów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Augustynowy	Augustynów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Augustynów	Augustynów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Augustyna	Augustyn:s1	subst:sg:gen.acc:m1	imię	
 Augustynach	Augustyn:s1	subst:pl:loc:m1	imię	
 Augustynami	Augustyn:s1	subst:pl:inst:m1	imię	
@@ -14072,6 +15729,16 @@ Augustynowie	Augustyn:s2	subst:pl:nom.voc:m1	nazwisko
 Augustynów	Augustyn:s2	subst:pl:gen.acc:m1	nazwisko	
 Augustyny	Augustyn:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Augustyn	Augustyn:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Augustynach	Augustyny	subst:pl:loc:n:pt	nazwa geograficzna	
+Augustynach	Augustyny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Augustynami	Augustyny	subst:pl:inst:n:pt	nazwa geograficzna	
+Augustynami	Augustyny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Augustyn	Augustyny	subst:pl:gen:n:pt	nazwa geograficzna	
+Augustyn	Augustyny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Augustynom	Augustyny	subst:pl:dat:n:pt	nazwa geograficzna	
+Augustynom	Augustyny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Augustyny	Augustyny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Augustyny	Augustyny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Augustyńczyka	Augustyńczyk:s1	subst:sg:gen.acc:m1	nazwisko	
 Augustyńczykach	Augustyńczyk:s1	subst:pl:loc:m1	nazwisko	
 Augustyńczykami	Augustyńczyk:s1	subst:pl:inst:m1	nazwisko	
@@ -14134,6 +15801,17 @@ Auguścików	Auguścik:s2	subst:pl:gen.acc:m1	nazwisko
 Auguściku	Auguścik:s2	subst:sg:loc:m1	nazwisko	
 Auguściku	Auguścik:s2	subst:sg:voc:m1	nazwisko	
 Auguścik	Auguścik:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Auguścina	Auguścin	subst:sg:gen:m3	nazwa geograficzna	
+Auguścinach	Auguścin	subst:pl:loc:m3	nazwa geograficzna	
+Auguścinami	Auguścin	subst:pl:inst:m3	nazwa geograficzna	
+Auguścin	Auguścin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Auguścinem	Auguścin	subst:sg:inst:m3	nazwa geograficzna	
+Auguścinie	Auguścin	subst:sg:loc:m3	nazwa geograficzna	
+Auguścinie	Auguścin	subst:sg:voc:m3	nazwa geograficzna	
+Auguścinom	Auguścin	subst:pl:dat:m3	nazwa geograficzna	
+Auguścinowi	Auguścin	subst:sg:dat:m3	nazwa geograficzna	
+Auguścinów	Auguścin	subst:pl:gen:m3	nazwa geograficzna	
+Auguściny	Auguścin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Auguścińska	Auguścińska	subst:sg:nom:f	nazwisko	
 Auguścińska	Auguścińska	subst:sg:voc:f	nazwisko	
 Auguścińską	Auguścińska	subst:sg:acc:f	nazwisko	
@@ -14192,6 +15870,17 @@ Auksencjuszowie	Auksencjusz	subst:pl:nom.voc:m1	imię
 Auksencjuszów	Auksencjusz	subst:pl:gen.acc:m1	imię	
 Auksencjuszu	Auksencjusz	subst:sg:loc:m1	imię	
 Auksencjuszu	Auksencjusz	subst:sg:voc:m1	imię	
+Aulakowszczyzna	Aulakowszczyzna	subst:sg:nom:f	nazwa geograficzna	
+Aulakowszczyznach	Aulakowszczyzna	subst:pl:loc:f	nazwa geograficzna	
+Aulakowszczyznami	Aulakowszczyzna	subst:pl:inst:f	nazwa geograficzna	
+Aulakowszczyzn	Aulakowszczyzna	subst:pl:gen:f	nazwa geograficzna	
+Aulakowszczyzną	Aulakowszczyzna	subst:sg:inst:f	nazwa geograficzna	
+Aulakowszczyznę	Aulakowszczyzna	subst:sg:acc:f	nazwa geograficzna	
+Aulakowszczyzno	Aulakowszczyzna	subst:sg:voc:f	nazwa geograficzna	
+Aulakowszczyznom	Aulakowszczyzna	subst:pl:dat:f	nazwa geograficzna	
+Aulakowszczyzny	Aulakowszczyzna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Aulakowszczyzny	Aulakowszczyzna	subst:sg:gen:f	nazwa geograficzna	
+Aulakowszczyźnie	Aulakowszczyzna	subst:sg:dat.loc:f	nazwa geograficzna	
 Aulicha	Aulich:s1	subst:sg:gen.acc:m1	nazwisko	
 Aulichach	Aulich:s1	subst:pl:loc:m1	nazwisko	
 Aulichami	Aulich:s1	subst:pl:inst:m1	nazwisko	
@@ -14242,6 +15931,17 @@ Aurelianowi	Aurelian	subst:sg:dat:m1	imię
 Aurelianowie	Aurelian	subst:pl:nom.voc:m1	imię	
 Aurelianów	Aurelian	subst:pl:gen.acc:m1	imię	
 Aureliany	Aurelian	depr:pl:nom.acc.voc:m2	imię	
+Aurelina	Aurelin	subst:sg:gen:m3	nazwa geograficzna	
+Aurelinach	Aurelin	subst:pl:loc:m3	nazwa geograficzna	
+Aurelinami	Aurelin	subst:pl:inst:m3	nazwa geograficzna	
+Aurelin	Aurelin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Aurelinem	Aurelin	subst:sg:inst:m3	nazwa geograficzna	
+Aurelinie	Aurelin	subst:sg:loc:m3	nazwa geograficzna	
+Aurelinie	Aurelin	subst:sg:voc:m3	nazwa geograficzna	
+Aurelinom	Aurelin	subst:pl:dat:m3	nazwa geograficzna	
+Aurelinowi	Aurelin	subst:sg:dat:m3	nazwa geograficzna	
+Aurelinów	Aurelin	subst:pl:gen:m3	nazwa geograficzna	
+Aureliny	Aurelin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Aureliusza	Aureliusz	subst:sg:gen.acc:m1	imię	
 Aureliuszach	Aureliusz	subst:pl:loc:m1	imię	
 Aureliuszami	Aureliusz	subst:pl:inst:m1	imię	
@@ -14457,6 +16157,16 @@ Avrahamowi	Avraham	subst:sg:dat:m1	imię
 Avrahamowie	Avraham	subst:pl:nom.voc:m1	imię	
 Avrahamów	Avraham	subst:pl:gen.acc:m1	imię	
 Avrahamy	Avraham	depr:pl:nom.acc.voc:m2	imię	
+Awajek	Awajki	subst:pl:gen:n:pt	nazwa geograficzna	
+Awajek	Awajki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Awajkach	Awajki	subst:pl:loc:n:pt	nazwa geograficzna	
+Awajkach	Awajki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Awajkami	Awajki	subst:pl:inst:n:pt	nazwa geograficzna	
+Awajkami	Awajki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Awajki	Awajki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Awajki	Awajki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Awajkom	Awajki	subst:pl:dat:n:pt	nazwa geograficzna	
+Awajkom	Awajki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Awdiejewa	Awdiejew:s1	subst:sg:gen.acc:m1	nazwisko	
 Awdiejewach	Awdiejew:s1	subst:pl:loc:m1	nazwisko	
 Awdiejewami	Awdiejew:s1	subst:pl:inst:m1	nazwisko	
@@ -14517,6 +16227,17 @@ Awinionowi	Awinion	subst:sg:dat:m3	nazwa geograficzna
 Awinionów	Awinion	subst:pl:gen:m3	nazwa geograficzna	
 Awinionu	Awinion	subst:sg:gen:m3	nazwa geograficzna	
 Awiniony	Awinion	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Awissa	Awissa	subst:sg:nom:f	człon nazwy geograficznej	
+Awissach	Awissa	subst:pl:loc:f	człon nazwy geograficznej	
+Awissami	Awissa	subst:pl:inst:f	człon nazwy geograficznej	
+Awiss	Awissa	subst:pl:gen:f	człon nazwy geograficznej	
+Awissą	Awissa	subst:sg:inst:f	człon nazwy geograficznej	
+Awissę	Awissa	subst:sg:acc:f	człon nazwy geograficznej	
+Awissie	Awissa	subst:sg:dat.loc:f	człon nazwy geograficznej	
+Awisso	Awissa	subst:sg:voc:f	człon nazwy geograficznej	
+Awissom	Awissa	subst:pl:dat:f	człon nazwy geograficznej	
+Awissy	Awissa	subst:pl:nom.acc.voc:f	człon nazwy geograficznej	
+Awissy	Awissa	subst:sg:gen:f	człon nazwy geograficznej	
 Awiwach	Awiw	subst:pl:loc:m3	człon nazwy geograficznej	
 Awiwami	Awiw	subst:pl:inst:m3	człon nazwy geograficznej	
 Awiw	Awiw	subst:sg:nom.acc:m3	człon nazwy geograficznej	

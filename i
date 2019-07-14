@@ -6797,6 +6797,29 @@ iłowatymi	iłowaty	adj:pl:inst:m1.m2.m3.f.n:pos
 iłowatym	iłowaty	adj:pl:dat:m1.m2.m3.f.n:pos		
 iłowatym	iłowaty	adj:sg:inst:m1.m2.m3.n:pos		
 iłowatym	iłowaty	adj:sg:loc:m1.m2.m3.n:pos		
+iłowianach	iłowianin	subst:pl:loc:m1	nazwa pospolita	
+iłowianami	iłowianin	subst:pl:inst:m1	nazwa pospolita	
+iłowianie	iłowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+iłowian	iłowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+iłowianina	iłowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+iłowianinem	iłowianin	subst:sg:inst:m1	nazwa pospolita	
+iłowianinie	iłowianin	subst:sg:loc:m1	nazwa pospolita	
+iłowianinie	iłowianin	subst:sg:voc:m1	nazwa pospolita	
+iłowianin	iłowianin	subst:sg:nom:m1	nazwa pospolita	
+iłowianinowi	iłowianin	subst:sg:dat:m1	nazwa pospolita	
+iłowianom	iłowianin	subst:pl:dat:m1	nazwa pospolita	
+iłowiany	iłowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+iłowiance	iłowianka	subst:sg:dat.loc:f	nazwa pospolita	
+iłowianek	iłowianka	subst:pl:gen:f	nazwa pospolita	
+iłowiankach	iłowianka	subst:pl:loc:f	nazwa pospolita	
+iłowianka	iłowianka	subst:sg:nom:f	nazwa pospolita	
+iłowiankami	iłowianka	subst:pl:inst:f	nazwa pospolita	
+iłowianką	iłowianka	subst:sg:inst:f	nazwa pospolita	
+iłowiankę	iłowianka	subst:sg:acc:f	nazwa pospolita	
+iłowianki	iłowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+iłowianki	iłowianka	subst:sg:gen:f	nazwa pospolita	
+iłowianko	iłowianka	subst:sg:voc:f	nazwa pospolita	
+iłowiankom	iłowianka	subst:pl:dat:f	nazwa pospolita	
 iłowcach	iłowiec	subst:pl:loc:m3	nazwa pospolita	
 iłowca	iłowiec	subst:sg:gen:m3	nazwa pospolita	
 iłowcami	iłowiec	subst:pl:inst:m3	nazwa pospolita	
@@ -6913,6 +6936,29 @@ iłów	ił:s2	subst:pl:gen:m2	nazwa pospolita
 iłów	ił:s2	subst:pl:gen:m3	nazwa pospolita	
 iły	ił:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 iły	ił:s2	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+iłżanach	iłżanin	subst:pl:loc:m1	nazwa pospolita	
+iłżanami	iłżanin	subst:pl:inst:m1	nazwa pospolita	
+iłżanie	iłżanin	subst:pl:nom.voc:m1	nazwa pospolita	
+iłżan	iłżanin	subst:pl:gen.acc:m1	nazwa pospolita	
+iłżanina	iłżanin	subst:sg:gen.acc:m1	nazwa pospolita	
+iłżaninem	iłżanin	subst:sg:inst:m1	nazwa pospolita	
+iłżaninie	iłżanin	subst:sg:loc:m1	nazwa pospolita	
+iłżaninie	iłżanin	subst:sg:voc:m1	nazwa pospolita	
+iłżanin	iłżanin	subst:sg:nom:m1	nazwa pospolita	
+iłżaninowi	iłżanin	subst:sg:dat:m1	nazwa pospolita	
+iłżanom	iłżanin	subst:pl:dat:m1	nazwa pospolita	
+iłżany	iłżanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+iłżance	iłżanka	subst:sg:dat.loc:f	nazwa pospolita	
+iłżanek	iłżanka	subst:pl:gen:f	nazwa pospolita	
+iłżankach	iłżanka	subst:pl:loc:f	nazwa pospolita	
+iłżanka	iłżanka	subst:sg:nom:f	nazwa pospolita	
+iłżankami	iłżanka	subst:pl:inst:f	nazwa pospolita	
+iłżanką	iłżanka	subst:sg:inst:f	nazwa pospolita	
+iłżankę	iłżanka	subst:sg:acc:f	nazwa pospolita	
+iłżanki	iłżanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+iłżanki	iłżanka	subst:sg:gen:f	nazwa pospolita	
+iłżanko	iłżanka	subst:sg:voc:f	nazwa pospolita	
+iłżankom	iłżanka	subst:pl:dat:f	nazwa pospolita	
 iłżeccy	iłżecki	adj:pl:nom.voc:m1:pos		
 iłżecka	iłżecki	adj:sg:nom.voc:f:pos		
 iłżecką	iłżecki	adj:sg:acc:f:pos		
@@ -7912,6 +7958,29 @@ imieleńskości	imieleńskość	subst:sg:voc:f	nazwa pospolita
 imieleńskościom	imieleńskość	subst:pl:dat:f	nazwa pospolita	
 imieleńskość	imieleńskość	subst:sg:acc:f	nazwa pospolita	
 imieleńskość	imieleńskość	subst:sg:nom:f	nazwa pospolita	
+imielinianach	imielinianin	subst:pl:loc:m1	nazwa pospolita	
+imielinianami	imielinianin	subst:pl:inst:m1	nazwa pospolita	
+imielinianie	imielinianin	subst:pl:nom.voc:m1	nazwa pospolita	
+imielinian	imielinianin	subst:pl:gen.acc:m1	nazwa pospolita	
+imielinianina	imielinianin	subst:sg:gen.acc:m1	nazwa pospolita	
+imielinianinem	imielinianin	subst:sg:inst:m1	nazwa pospolita	
+imielinianinie	imielinianin	subst:sg:loc:m1	nazwa pospolita	
+imielinianinie	imielinianin	subst:sg:voc:m1	nazwa pospolita	
+imielinianin	imielinianin	subst:sg:nom:m1	nazwa pospolita	
+imielinianinowi	imielinianin	subst:sg:dat:m1	nazwa pospolita	
+imielinianom	imielinianin	subst:pl:dat:m1	nazwa pospolita	
+imieliniany	imielinianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+imieliniance	imielinianka	subst:sg:dat.loc:f	nazwa pospolita	
+imielinianek	imielinianka	subst:pl:gen:f	nazwa pospolita	
+imieliniankach	imielinianka	subst:pl:loc:f	nazwa pospolita	
+imielinianka	imielinianka	subst:sg:nom:f	nazwa pospolita	
+imieliniankami	imielinianka	subst:pl:inst:f	nazwa pospolita	
+imielinianką	imielinianka	subst:sg:inst:f	nazwa pospolita	
+imieliniankę	imielinianka	subst:sg:acc:f	nazwa pospolita	
+imielinianki	imielinianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+imielinianki	imielinianka	subst:sg:gen:f	nazwa pospolita	
+imielinianko	imielinianka	subst:sg:voc:f	nazwa pospolita	
+imieliniankom	imielinianka	subst:pl:dat:f	nazwa pospolita	
 imielińscy	imieliński	adj:pl:nom.voc:m1:pos		
 imielińska	imieliński	adj:sg:nom.voc:f:pos		
 imielińską	imieliński	adj:sg:acc:f:pos		
@@ -7949,6 +8018,54 @@ imielińskości	imielińskość	subst:sg:voc:f	nazwa pospolita
 imielińskościom	imielińskość	subst:pl:dat:f	nazwa pospolita	
 imielińskość	imielińskość	subst:sg:acc:f	nazwa pospolita	
 imielińskość	imielińskość	subst:sg:nom:f	nazwa pospolita	
+imielnianach	imielnianin	subst:pl:loc:m1	nazwa pospolita	
+imielnianami	imielnianin	subst:pl:inst:m1	nazwa pospolita	
+imielnianie	imielnianin	subst:pl:nom.voc:m1	nazwa pospolita	
+imielnian	imielnianin	subst:pl:gen.acc:m1	nazwa pospolita	
+imielnianina	imielnianin	subst:sg:gen.acc:m1	nazwa pospolita	
+imielnianinem	imielnianin	subst:sg:inst:m1	nazwa pospolita	
+imielnianinie	imielnianin	subst:sg:loc:m1	nazwa pospolita	
+imielnianinie	imielnianin	subst:sg:voc:m1	nazwa pospolita	
+imielnianin	imielnianin	subst:sg:nom:m1	nazwa pospolita	
+imielnianinowi	imielnianin	subst:sg:dat:m1	nazwa pospolita	
+imielnianom	imielnianin	subst:pl:dat:m1	nazwa pospolita	
+imielniany	imielnianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+imielniance	imielnianka	subst:sg:dat.loc:f	nazwa pospolita	
+imielnianek	imielnianka	subst:pl:gen:f	nazwa pospolita	
+imielniankach	imielnianka	subst:pl:loc:f	nazwa pospolita	
+imielnianka	imielnianka	subst:sg:nom:f	nazwa pospolita	
+imielniankami	imielnianka	subst:pl:inst:f	nazwa pospolita	
+imielnianką	imielnianka	subst:sg:inst:f	nazwa pospolita	
+imielniankę	imielnianka	subst:sg:acc:f	nazwa pospolita	
+imielnianki	imielnianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+imielnianki	imielnianka	subst:sg:gen:f	nazwa pospolita	
+imielnianko	imielnianka	subst:sg:voc:f	nazwa pospolita	
+imielniankom	imielnianka	subst:pl:dat:f	nazwa pospolita	
+imielscy	imielski	adj:pl:nom.voc:m1:pos		
+imielska	imielski	adj:sg:nom.voc:f:pos		
+imielską	imielski	adj:sg:acc:f:pos		
+imielską	imielski	adj:sg:inst:f:pos		
+imielskich	imielski	adj:pl:acc:m1:pos		
+imielskich	imielski	adj:pl:gen:m1.m2.m3.f.n:pos		
+imielskich	imielski	adj:pl:loc:m1.m2.m3.f.n:pos		
+imielskiego	imielski	adj:sg:acc:m1.m2:pos		
+imielskiego	imielski	adj:sg:gen:m1.m2.m3.n:pos		
+imielskie	imielski	adj:pl:acc:m2.m3.f.n:pos		
+imielskie	imielski	adj:pl:nom.voc:m2.m3.f.n:pos		
+imielskie	imielski	adj:sg:acc:n:pos		
+imielskie	imielski	adj:sg:nom.voc:n:pos		
+imielskiej	imielski	adj:sg:dat:f:pos		
+imielskiej	imielski	adj:sg:gen:f:pos		
+imielskiej	imielski	adj:sg:loc:f:pos		
+imielskiemu	imielski	adj:sg:dat:m1.m2.m3.n:pos		
+imielski	imielski	adj:sg:acc:m3:pos		
+imielski	imielski	adj:sg:nom.voc:m1.m2.m3:pos		
+imielskimi	imielski	adj:pl:inst:m1.m2.m3.f.n:pos		
+imielskim	imielski	adj:pl:dat:m1.m2.m3.f.n:pos		
+imielskim	imielski	adj:sg:inst:m1.m2.m3.n:pos		
+imielskim	imielski	adj:sg:loc:m1.m2.m3.n:pos		
+imielsko	imielski	adja		
+imielsku	imielski	adjp:dat		
 im	imienia	brev:pun		
 imieniach	imienie	subst:pl:loc:n:ncol	nazwa pospolita	daw.
 imienia	imienie	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	daw.
@@ -22411,6 +22528,29 @@ inochody	inochód	subst:pl:nom.acc.voc:m3	nazwa pospolita
 inochodzie	inochód	subst:sg:loc:m3	nazwa pospolita	
 inochodzie	inochód	subst:sg:voc:m3	nazwa pospolita	
 inochód	inochód	subst:sg:nom.acc:m3	nazwa pospolita	
+inowłodzanach	inowłodzanin	subst:pl:loc:m1	nazwa pospolita	
+inowłodzanami	inowłodzanin	subst:pl:inst:m1	nazwa pospolita	
+inowłodzanie	inowłodzanin	subst:pl:nom.voc:m1	nazwa pospolita	
+inowłodzanina	inowłodzanin	subst:sg:gen.acc:m1	nazwa pospolita	
+inowłodzaninem	inowłodzanin	subst:sg:inst:m1	nazwa pospolita	
+inowłodzaninie	inowłodzanin	subst:sg:loc:m1	nazwa pospolita	
+inowłodzaninie	inowłodzanin	subst:sg:voc:m1	nazwa pospolita	
+inowłodzanin	inowłodzanin	subst:sg:nom:m1	nazwa pospolita	
+inowłodzaninowi	inowłodzanin	subst:sg:dat:m1	nazwa pospolita	
+inowłodzan	inowłodzanin	subst:pl:gen.acc:m1	nazwa pospolita	
+inowłodzanom	inowłodzanin	subst:pl:dat:m1	nazwa pospolita	
+inowłodzany	inowłodzanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+inowłodzance	inowłodzanka	subst:sg:dat.loc:f	nazwa pospolita	
+inowłodzanek	inowłodzanka	subst:pl:gen:f	nazwa pospolita	
+inowłodzankach	inowłodzanka	subst:pl:loc:f	nazwa pospolita	
+inowłodzanka	inowłodzanka	subst:sg:nom:f	nazwa pospolita	
+inowłodzankami	inowłodzanka	subst:pl:inst:f	nazwa pospolita	
+inowłodzanką	inowłodzanka	subst:sg:inst:f	nazwa pospolita	
+inowłodzankę	inowłodzanka	subst:sg:acc:f	nazwa pospolita	
+inowłodzanki	inowłodzanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+inowłodzanki	inowłodzanka	subst:sg:gen:f	nazwa pospolita	
+inowłodzanko	inowłodzanka	subst:sg:voc:f	nazwa pospolita	
+inowłodzankom	inowłodzanka	subst:pl:dat:f	nazwa pospolita	
 inowłodzcy	inowłodzki	adj:pl:nom.voc:m1:pos		
 inowłodzka	inowłodzki	adj:sg:nom.voc:f:pos		
 inowłodzką	inowłodzki	adj:sg:acc:f:pos		
@@ -35634,6 +35774,29 @@ ińskości	ińskość	subst:sg:voc:f	nazwa pospolita
 ińskościom	ińskość	subst:pl:dat:f	nazwa pospolita	
 ińskość	ińskość	subst:sg:acc:f	nazwa pospolita	
 ińskość	ińskość	subst:sg:nom:f	nazwa pospolita	
+ińszczanach	ińszczanin	subst:pl:loc:m1	nazwa pospolita	
+ińszczanami	ińszczanin	subst:pl:inst:m1	nazwa pospolita	
+ińszczanie	ińszczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+ińszczanina	ińszczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+ińszczaninem	ińszczanin	subst:sg:inst:m1	nazwa pospolita	
+ińszczaninie	ińszczanin	subst:sg:loc:m1	nazwa pospolita	
+ińszczaninie	ińszczanin	subst:sg:voc:m1	nazwa pospolita	
+ińszczanin	ińszczanin	subst:sg:nom:m1	nazwa pospolita	
+ińszczaninowi	ińszczanin	subst:sg:dat:m1	nazwa pospolita	
+ińszczan	ińszczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+ińszczanom	ińszczanin	subst:pl:dat:m1	nazwa pospolita	
+ińszczany	ińszczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+ińszczance	ińszczanka	subst:sg:dat.loc:f	nazwa pospolita	
+ińszczanek	ińszczanka	subst:pl:gen:f	nazwa pospolita	
+ińszczankach	ińszczanka	subst:pl:loc:f	nazwa pospolita	
+ińszczanka	ińszczanka	subst:sg:nom:f	nazwa pospolita	
+ińszczankami	ińszczanka	subst:pl:inst:f	nazwa pospolita	
+ińszczanką	ińszczanka	subst:sg:inst:f	nazwa pospolita	
+ińszczankę	ińszczanka	subst:sg:acc:f	nazwa pospolita	
+ińszczanki	ińszczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+ińszczanki	ińszczanka	subst:sg:gen:f	nazwa pospolita	
+ińszczanko	ińszczanka	subst:sg:voc:f	nazwa pospolita	
+ińszczankom	ińszczanka	subst:pl:dat:f	nazwa pospolita	
 ipadach	ipad	subst:pl:loc:m2	nazwa pospolita	
 ipadach	ipad	subst:pl:loc:m3	nazwa pospolita	
 ipada	ipad	subst:sg:gen.acc:m2	nazwa pospolita	
@@ -37433,6 +37596,54 @@ iryzujesz	iryzować	fin:sg:sec:imperf
 iryzuję	iryzować	fin:sg:pri:imperf		
 iryzuj	iryzować	impt:sg:sec:imperf		
 iryzujmy	iryzować	impt:pl:pri:imperf		
+irządzanach	irządzanin	subst:pl:loc:m1	nazwa pospolita	
+irządzanami	irządzanin	subst:pl:inst:m1	nazwa pospolita	
+irządzanie	irządzanin	subst:pl:nom.voc:m1	nazwa pospolita	
+irządzanina	irządzanin	subst:sg:gen.acc:m1	nazwa pospolita	
+irządzaninem	irządzanin	subst:sg:inst:m1	nazwa pospolita	
+irządzaninie	irządzanin	subst:sg:loc:m1	nazwa pospolita	
+irządzaninie	irządzanin	subst:sg:voc:m1	nazwa pospolita	
+irządzanin	irządzanin	subst:sg:nom:m1	nazwa pospolita	
+irządzaninowi	irządzanin	subst:sg:dat:m1	nazwa pospolita	
+irządzan	irządzanin	subst:pl:gen.acc:m1	nazwa pospolita	
+irządzanom	irządzanin	subst:pl:dat:m1	nazwa pospolita	
+irządzany	irządzanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+irządzance	irządzanka	subst:sg:dat.loc:f	nazwa pospolita	
+irządzanek	irządzanka	subst:pl:gen:f	nazwa pospolita	
+irządzankach	irządzanka	subst:pl:loc:f	nazwa pospolita	
+irządzanka	irządzanka	subst:sg:nom:f	nazwa pospolita	
+irządzankami	irządzanka	subst:pl:inst:f	nazwa pospolita	
+irządzanką	irządzanka	subst:sg:inst:f	nazwa pospolita	
+irządzankę	irządzanka	subst:sg:acc:f	nazwa pospolita	
+irządzanki	irządzanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+irządzanki	irządzanka	subst:sg:gen:f	nazwa pospolita	
+irządzanko	irządzanka	subst:sg:voc:f	nazwa pospolita	
+irządzankom	irządzanka	subst:pl:dat:f	nazwa pospolita	
+irządzcy	irządzki	adj:pl:nom.voc:m1:pos		
+irządzka	irządzki	adj:sg:nom.voc:f:pos		
+irządzką	irządzki	adj:sg:acc:f:pos		
+irządzką	irządzki	adj:sg:inst:f:pos		
+irządzkich	irządzki	adj:pl:acc:m1:pos		
+irządzkich	irządzki	adj:pl:gen:m1.m2.m3.f.n:pos		
+irządzkich	irządzki	adj:pl:loc:m1.m2.m3.f.n:pos		
+irządzkiego	irządzki	adj:sg:acc:m1.m2:pos		
+irządzkiego	irządzki	adj:sg:gen:m1.m2.m3.n:pos		
+irządzkie	irządzki	adj:pl:acc:m2.m3.f.n:pos		
+irządzkie	irządzki	adj:pl:nom.voc:m2.m3.f.n:pos		
+irządzkie	irządzki	adj:sg:acc:n:pos		
+irządzkie	irządzki	adj:sg:nom.voc:n:pos		
+irządzkiej	irządzki	adj:sg:dat:f:pos		
+irządzkiej	irządzki	adj:sg:gen:f:pos		
+irządzkiej	irządzki	adj:sg:loc:f:pos		
+irządzkiemu	irządzki	adj:sg:dat:m1.m2.m3.n:pos		
+irządzki	irządzki	adj:sg:acc:m3:pos		
+irządzki	irządzki	adj:sg:nom.voc:m1.m2.m3:pos		
+irządzkimi	irządzki	adj:pl:inst:m1.m2.m3.f.n:pos		
+irządzkim	irządzki	adj:pl:dat:m1.m2.m3.f.n:pos		
+irządzkim	irządzki	adj:sg:inst:m1.m2.m3.n:pos		
+irządzkim	irządzki	adj:sg:loc:m1.m2.m3.n:pos		
+irządzko	irządzki	adja		
+irządzku	irządzki	adjp:dat		
 isagodze	isagoga	subst:sg:dat.loc:f	nazwa pospolita	
 isagogach	isagoga	subst:pl:loc:f	nazwa pospolita	
 isagoga	isagoga	subst:sg:nom:f	nazwa pospolita	
@@ -38683,6 +38894,29 @@ ismailizmowi	ismailizm	subst:sg:dat:m3	nazwa pospolita
 ismailizmów	ismailizm	subst:pl:gen:m3	nazwa pospolita	
 ismailizmu	ismailizm	subst:sg:gen:m3	nazwa pospolita	
 ismailizmy	ismailizm	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+istebnianach	istebnianin	subst:pl:loc:m1	nazwa pospolita	
+istebnianami	istebnianin	subst:pl:inst:m1	nazwa pospolita	
+istebnianie	istebnianin	subst:pl:nom.voc:m1	nazwa pospolita	
+istebnianina	istebnianin	subst:sg:gen.acc:m1	nazwa pospolita	
+istebnianinem	istebnianin	subst:sg:inst:m1	nazwa pospolita	
+istebnianinie	istebnianin	subst:sg:loc:m1	nazwa pospolita	
+istebnianinie	istebnianin	subst:sg:voc:m1	nazwa pospolita	
+istebnianin	istebnianin	subst:sg:nom:m1	nazwa pospolita	
+istebnianinowi	istebnianin	subst:sg:dat:m1	nazwa pospolita	
+istebnian	istebnianin	subst:pl:gen.acc:m1	nazwa pospolita	
+istebnianom	istebnianin	subst:pl:dat:m1	nazwa pospolita	
+istebniany	istebnianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+istebniance	istebnianka	subst:sg:dat.loc:f	nazwa pospolita	
+istebnianek	istebnianka	subst:pl:gen:f	nazwa pospolita	
+istebniankach	istebnianka	subst:pl:loc:f	nazwa pospolita	
+istebnianka	istebnianka	subst:sg:nom:f	nazwa pospolita	
+istebniankami	istebnianka	subst:pl:inst:f	nazwa pospolita	
+istebnianką	istebnianka	subst:sg:inst:f	nazwa pospolita	
+istebniankę	istebnianka	subst:sg:acc:f	nazwa pospolita	
+istebnianki	istebnianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+istebnianki	istebnianka	subst:sg:gen:f	nazwa pospolita	
+istebnianko	istebnianka	subst:sg:voc:f	nazwa pospolita	
+istebniankom	istebnianka	subst:pl:dat:f	nazwa pospolita	
 istebniańscy	istebniański	adj:pl:nom.voc:m1:pos		
 istebniańska	istebniański	adj:sg:nom.voc:f:pos		
 istebniańską	istebniański	adj:sg:acc:f:pos		
@@ -40237,6 +40471,29 @@ iwierzyckości	iwierzyckość	subst:sg:voc:f	nazwa pospolita
 iwierzyckościom	iwierzyckość	subst:pl:dat:f	nazwa pospolita	
 iwierzyckość	iwierzyckość	subst:sg:acc:f	nazwa pospolita	
 iwierzyckość	iwierzyckość	subst:sg:nom:f	nazwa pospolita	
+iwierzyczanach	iwierzyczanin	subst:pl:loc:m1	nazwa pospolita	
+iwierzyczanami	iwierzyczanin	subst:pl:inst:m1	nazwa pospolita	
+iwierzyczanie	iwierzyczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+iwierzyczanina	iwierzyczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+iwierzyczaninem	iwierzyczanin	subst:sg:inst:m1	nazwa pospolita	
+iwierzyczaninie	iwierzyczanin	subst:sg:loc:m1	nazwa pospolita	
+iwierzyczaninie	iwierzyczanin	subst:sg:voc:m1	nazwa pospolita	
+iwierzyczanin	iwierzyczanin	subst:sg:nom:m1	nazwa pospolita	
+iwierzyczaninowi	iwierzyczanin	subst:sg:dat:m1	nazwa pospolita	
+iwierzyczan	iwierzyczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+iwierzyczanom	iwierzyczanin	subst:pl:dat:m1	nazwa pospolita	
+iwierzyczany	iwierzyczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+iwierzyczance	iwierzyczanka	subst:sg:dat.loc:f	nazwa pospolita	
+iwierzyczanek	iwierzyczanka	subst:pl:gen:f	nazwa pospolita	
+iwierzyczankach	iwierzyczanka	subst:pl:loc:f	nazwa pospolita	
+iwierzyczanka	iwierzyczanka	subst:sg:nom:f	nazwa pospolita	
+iwierzyczankami	iwierzyczanka	subst:pl:inst:f	nazwa pospolita	
+iwierzyczanką	iwierzyczanka	subst:sg:inst:f	nazwa pospolita	
+iwierzyczankę	iwierzyczanka	subst:sg:acc:f	nazwa pospolita	
+iwierzyczanki	iwierzyczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+iwierzyczanki	iwierzyczanka	subst:sg:gen:f	nazwa pospolita	
+iwierzyczanko	iwierzyczanka	subst:sg:voc:f	nazwa pospolita	
+iwierzyczankom	iwierzyczanka	subst:pl:dat:f	nazwa pospolita	
 iwinach	iwina	subst:pl:loc:f	nazwa pospolita	
 iwina	iwina	subst:sg:nom:f	nazwa pospolita	
 iwinami	iwina	subst:pl:inst:f	nazwa pospolita	
@@ -40248,6 +40505,29 @@ iwino	iwina	subst:sg:voc:f	nazwa pospolita
 iwinom	iwina	subst:pl:dat:f	nazwa pospolita	
 iwiny	iwina	subst:pl:nom.acc.voc:f	nazwa pospolita	
 iwiny	iwina	subst:sg:gen:f	nazwa pospolita	
+iwkowianach	iwkowianin	subst:pl:loc:m1	nazwa pospolita	
+iwkowianami	iwkowianin	subst:pl:inst:m1	nazwa pospolita	
+iwkowianie	iwkowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+iwkowianina	iwkowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+iwkowianinem	iwkowianin	subst:sg:inst:m1	nazwa pospolita	
+iwkowianinie	iwkowianin	subst:sg:loc:m1	nazwa pospolita	
+iwkowianinie	iwkowianin	subst:sg:voc:m1	nazwa pospolita	
+iwkowianin	iwkowianin	subst:sg:nom:m1	nazwa pospolita	
+iwkowianinowi	iwkowianin	subst:sg:dat:m1	nazwa pospolita	
+iwkowian	iwkowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+iwkowianom	iwkowianin	subst:pl:dat:m1	nazwa pospolita	
+iwkowiany	iwkowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+iwkowiance	iwkowianka	subst:sg:dat.loc:f	nazwa pospolita	
+iwkowianek	iwkowianka	subst:pl:gen:f	nazwa pospolita	
+iwkowiankach	iwkowianka	subst:pl:loc:f	nazwa pospolita	
+iwkowianka	iwkowianka	subst:sg:nom:f	nazwa pospolita	
+iwkowiankami	iwkowianka	subst:pl:inst:f	nazwa pospolita	
+iwkowianką	iwkowianka	subst:sg:inst:f	nazwa pospolita	
+iwkowiankę	iwkowianka	subst:sg:acc:f	nazwa pospolita	
+iwkowianki	iwkowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+iwkowianki	iwkowianka	subst:sg:gen:f	nazwa pospolita	
+iwkowianko	iwkowianka	subst:sg:voc:f	nazwa pospolita	
+iwkowiankom	iwkowianka	subst:pl:dat:f	nazwa pospolita	
 iwkowscy	iwkowski	adj:pl:nom.voc:m1:pos		
 iwkowska	iwkowski	adj:sg:nom.voc:f:pos		
 iwkowską	iwkowski	adj:sg:acc:f:pos		
@@ -40505,6 +40785,29 @@ izbico	izbica	subst:sg:voc:f	nazwa pospolita
 izbicom	izbica	subst:pl:dat:f	nazwa pospolita	
 izbicy	izbica	subst:sg:dat.loc:f	nazwa pospolita	
 izbicy	izbica	subst:sg:gen:f	nazwa pospolita	
+izbicczanach	izbicczanin	subst:pl:loc:m1	nazwa pospolita	
+izbicczanami	izbicczanin	subst:pl:inst:m1	nazwa pospolita	
+izbicczanie	izbicczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+izbicczanina	izbicczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+izbicczaninem	izbicczanin	subst:sg:inst:m1	nazwa pospolita	
+izbicczaninie	izbicczanin	subst:sg:loc:m1	nazwa pospolita	
+izbicczaninie	izbicczanin	subst:sg:voc:m1	nazwa pospolita	
+izbicczanin	izbicczanin	subst:sg:nom:m1	nazwa pospolita	
+izbicczaninowi	izbicczanin	subst:sg:dat:m1	nazwa pospolita	
+izbicczan	izbicczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+izbicczanom	izbicczanin	subst:pl:dat:m1	nazwa pospolita	
+izbicczany	izbicczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+izbicczance	izbicczanka	subst:sg:dat.loc:f	nazwa pospolita	
+izbicczanek	izbicczanka	subst:pl:gen:f	nazwa pospolita	
+izbicczankach	izbicczanka	subst:pl:loc:f	nazwa pospolita	
+izbicczanka	izbicczanka	subst:sg:nom:f	nazwa pospolita	
+izbicczankami	izbicczanka	subst:pl:inst:f	nazwa pospolita	
+izbicczanką	izbicczanka	subst:sg:inst:f	nazwa pospolita	
+izbicczankę	izbicczanka	subst:sg:acc:f	nazwa pospolita	
+izbicczanki	izbicczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+izbicczanki	izbicczanka	subst:sg:gen:f	nazwa pospolita	
+izbicczanko	izbicczanka	subst:sg:voc:f	nazwa pospolita	
+izbicczankom	izbicczanka	subst:pl:dat:f	nazwa pospolita	
 izbiccy	izbicki	adj:pl:nom.voc:m1:pos		
 izbicka	izbicki	adj:sg:nom.voc:f:pos		
 izbicką	izbicki	adj:sg:acc:f:pos		
@@ -40542,6 +40845,29 @@ izbickości	izbickość	subst:sg:voc:f	nazwa pospolita
 izbickościom	izbickość	subst:pl:dat:f	nazwa pospolita	
 izbickość	izbickość	subst:sg:acc:f	nazwa pospolita	
 izbickość	izbickość	subst:sg:nom:f	nazwa pospolita	
+izbiczanach	izbiczanin	subst:pl:loc:m1	nazwa pospolita	
+izbiczanami	izbiczanin	subst:pl:inst:m1	nazwa pospolita	
+izbiczanie	izbiczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+izbiczanina	izbiczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+izbiczaninem	izbiczanin	subst:sg:inst:m1	nazwa pospolita	
+izbiczaninie	izbiczanin	subst:sg:loc:m1	nazwa pospolita	
+izbiczaninie	izbiczanin	subst:sg:voc:m1	nazwa pospolita	
+izbiczanin	izbiczanin	subst:sg:nom:m1	nazwa pospolita	
+izbiczaninowi	izbiczanin	subst:sg:dat:m1	nazwa pospolita	
+izbiczan	izbiczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+izbiczanom	izbiczanin	subst:pl:dat:m1	nazwa pospolita	
+izbiczany	izbiczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+izbiczance	izbiczanka	subst:sg:dat.loc:f	nazwa pospolita	
+izbiczanek	izbiczanka	subst:pl:gen:f	nazwa pospolita	
+izbiczankach	izbiczanka	subst:pl:loc:f	nazwa pospolita	
+izbiczanka	izbiczanka	subst:sg:nom:f	nazwa pospolita	
+izbiczankami	izbiczanka	subst:pl:inst:f	nazwa pospolita	
+izbiczanką	izbiczanka	subst:sg:inst:f	nazwa pospolita	
+izbiczankę	izbiczanka	subst:sg:acc:f	nazwa pospolita	
+izbiczanki	izbiczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+izbiczanki	izbiczanka	subst:sg:gen:f	nazwa pospolita	
+izbiczanko	izbiczanka	subst:sg:voc:f	nazwa pospolita	
+izbiczankom	izbiczanka	subst:pl:dat:f	nazwa pospolita	
 izbinach	izbina	subst:pl:loc:f	nazwa pospolita	
 izbina	izbina	subst:sg:nom:f	nazwa pospolita	
 izbinami	izbina	subst:pl:inst:f	nazwa pospolita	

@@ -14400,6 +14400,31 @@ niecedrowości	niecedrowość	subst:sg:voc:f	nazwa pospolita
 niecedrowościom	niecedrowość	subst:pl:dat:f	nazwa pospolita	
 niecedrowość	niecedrowość	subst:sg:acc:f	nazwa pospolita	
 niecedrowość	niecedrowość	subst:sg:nom:f	nazwa pospolita	
+niecedrowscy	niecedrowski	adj:pl:nom.voc:m1:pos		
+niecedrowska	niecedrowski	adj:sg:nom.voc:f:pos		
+niecedrowską	niecedrowski	adj:sg:acc:f:pos		
+niecedrowską	niecedrowski	adj:sg:inst:f:pos		
+niecedrowskich	niecedrowski	adj:pl:acc:m1:pos		
+niecedrowskich	niecedrowski	adj:pl:gen:m1.m2.m3.f.n:pos		
+niecedrowskich	niecedrowski	adj:pl:loc:m1.m2.m3.f.n:pos		
+niecedrowskiego	niecedrowski	adj:sg:acc:m1.m2:pos		
+niecedrowskiego	niecedrowski	adj:sg:gen:m1.m2.m3.n:pos		
+niecedrowskiej	niecedrowski	adj:sg:dat:f:pos		
+niecedrowskiej	niecedrowski	adj:sg:gen:f:pos		
+niecedrowskiej	niecedrowski	adj:sg:loc:f:pos		
+niecedrowskiemu	niecedrowski	adj:sg:dat:m1.m2.m3.n:pos		
+niecedrowskie	niecedrowski	adj:pl:acc:m2.m3.f.n:pos		
+niecedrowskie	niecedrowski	adj:pl:nom.voc:m2.m3.f.n:pos		
+niecedrowskie	niecedrowski	adj:sg:acc:n:pos		
+niecedrowskie	niecedrowski	adj:sg:nom.voc:n:pos		
+niecedrowskimi	niecedrowski	adj:pl:inst:m1.m2.m3.f.n:pos		
+niecedrowskim	niecedrowski	adj:pl:dat:m1.m2.m3.f.n:pos		
+niecedrowskim	niecedrowski	adj:sg:inst:m1.m2.m3.n:pos		
+niecedrowskim	niecedrowski	adj:sg:loc:m1.m2.m3.n:pos		
+niecedrowski	niecedrowski	adj:sg:acc:m3:pos		
+niecedrowski	niecedrowski	adj:sg:nom.voc:m1.m2.m3:pos		
+niecedrowsko	niecedrowski	adja		
+niecedrowsku	niecedrowski	adjp:dat		
 niecedrowa	niecedrowy	adj:sg:nom.voc:f:pos		
 niecedrową	niecedrowy	adj:sg:acc:f:pos		
 niecedrową	niecedrowy	adj:sg:inst:f:pos		
@@ -18956,6 +18981,29 @@ niechanelowskości	niechanelowskość	subst:sg:voc:f	nazwa pospolita
 niechanelowskościom	niechanelowskość	subst:pl:dat:f	nazwa pospolita	
 niechanelowskość	niechanelowskość	subst:sg:acc:f	nazwa pospolita	
 niechanelowskość	niechanelowskość	subst:sg:nom:f	nazwa pospolita	
+niechanowianach	niechanowianin	subst:pl:loc:m1	nazwa pospolita	
+niechanowianami	niechanowianin	subst:pl:inst:m1	nazwa pospolita	
+niechanowianie	niechanowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+niechanowianina	niechanowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+niechanowianinem	niechanowianin	subst:sg:inst:m1	nazwa pospolita	
+niechanowianinie	niechanowianin	subst:sg:loc:m1	nazwa pospolita	
+niechanowianinie	niechanowianin	subst:sg:voc:m1	nazwa pospolita	
+niechanowianin	niechanowianin	subst:sg:nom:m1	nazwa pospolita	
+niechanowianinowi	niechanowianin	subst:sg:dat:m1	nazwa pospolita	
+niechanowian	niechanowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+niechanowianom	niechanowianin	subst:pl:dat:m1	nazwa pospolita	
+niechanowiany	niechanowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+niechanowiance	niechanowianka	subst:sg:dat.loc:f	nazwa pospolita	
+niechanowianek	niechanowianka	subst:pl:gen:f	nazwa pospolita	
+niechanowiankach	niechanowianka	subst:pl:loc:f	nazwa pospolita	
+niechanowiankami	niechanowianka	subst:pl:inst:f	nazwa pospolita	
+niechanowianka	niechanowianka	subst:sg:nom:f	nazwa pospolita	
+niechanowianką	niechanowianka	subst:sg:inst:f	nazwa pospolita	
+niechanowiankę	niechanowianka	subst:sg:acc:f	nazwa pospolita	
+niechanowianki	niechanowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+niechanowianki	niechanowianka	subst:sg:gen:f	nazwa pospolita	
+niechanowiankom	niechanowianka	subst:pl:dat:f	nazwa pospolita	
+niechanowianko	niechanowianka	subst:sg:voc:f	nazwa pospolita	
 niechanowościach	niechanowość	subst:pl:loc:f	nazwa pospolita	
 niechanowościami	niechanowość	subst:pl:inst:f	nazwa pospolita	
 niechanowością	niechanowość	subst:sg:inst:f	nazwa pospolita	
@@ -20321,6 +20369,56 @@ niechełmeckości	niechełmeckość	subst:sg:voc:f	nazwa pospolita
 niechełmeckościom	niechełmeckość	subst:pl:dat:f	nazwa pospolita	
 niechełmeckość	niechełmeckość	subst:sg:acc:f	nazwa pospolita	
 niechełmeckość	niechełmeckość	subst:sg:nom:f	nazwa pospolita	
+niechełmieccy	niechełmiecki	adj:pl:nom.voc:m1:pos		
+niechełmiecka	niechełmiecki	adj:sg:nom.voc:f:pos		
+niechełmiecką	niechełmiecki	adj:sg:acc:f:pos		
+niechełmiecką	niechełmiecki	adj:sg:inst:f:pos		
+niechełmieckich	niechełmiecki	adj:pl:acc:m1:pos		
+niechełmieckich	niechełmiecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+niechełmieckich	niechełmiecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+niechełmieckiego	niechełmiecki	adj:sg:acc:m1.m2:pos		
+niechełmieckiego	niechełmiecki	adj:sg:gen:m1.m2.m3.n:pos		
+niechełmieckiej	niechełmiecki	adj:sg:dat:f:pos		
+niechełmieckiej	niechełmiecki	adj:sg:gen:f:pos		
+niechełmieckiej	niechełmiecki	adj:sg:loc:f:pos		
+niechełmieckiemu	niechełmiecki	adj:sg:dat:m1.m2.m3.n:pos		
+niechełmieckie	niechełmiecki	adj:pl:acc:m2.m3.f.n:pos		
+niechełmieckie	niechełmiecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+niechełmieckie	niechełmiecki	adj:sg:acc:n:pos		
+niechełmieckie	niechełmiecki	adj:sg:nom.voc:n:pos		
+niechełmieckimi	niechełmiecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+niechełmieckim	niechełmiecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+niechełmieckim	niechełmiecki	adj:sg:inst:m1.m2.m3.n:pos		
+niechełmieckim	niechełmiecki	adj:sg:loc:m1.m2.m3.n:pos		
+niechełmiecki	niechełmiecki	adj:sg:acc:m3:pos		
+niechełmiecki	niechełmiecki	adj:sg:nom.voc:m1.m2.m3:pos		
+niechełmiecko	niechełmiecki	adja		
+niechełmiecku	niechełmiecki	adjp:dat		
+niechełmieńscy	niechełmieński	adj:pl:nom.voc:m1:pos		
+niechełmieńska	niechełmieński	adj:sg:nom.voc:f:pos		
+niechełmieńską	niechełmieński	adj:sg:acc:f:pos		
+niechełmieńską	niechełmieński	adj:sg:inst:f:pos		
+niechełmieńskich	niechełmieński	adj:pl:acc:m1:pos		
+niechełmieńskich	niechełmieński	adj:pl:gen:m1.m2.m3.f.n:pos		
+niechełmieńskich	niechełmieński	adj:pl:loc:m1.m2.m3.f.n:pos		
+niechełmieńskiego	niechełmieński	adj:sg:acc:m1.m2:pos		
+niechełmieńskiego	niechełmieński	adj:sg:gen:m1.m2.m3.n:pos		
+niechełmieńskiej	niechełmieński	adj:sg:dat:f:pos		
+niechełmieńskiej	niechełmieński	adj:sg:gen:f:pos		
+niechełmieńskiej	niechełmieński	adj:sg:loc:f:pos		
+niechełmieńskiemu	niechełmieński	adj:sg:dat:m1.m2.m3.n:pos		
+niechełmieńskie	niechełmieński	adj:pl:acc:m2.m3.f.n:pos		
+niechełmieńskie	niechełmieński	adj:pl:nom.voc:m2.m3.f.n:pos		
+niechełmieńskie	niechełmieński	adj:sg:acc:n:pos		
+niechełmieńskie	niechełmieński	adj:sg:nom.voc:n:pos		
+niechełmieńskimi	niechełmieński	adj:pl:inst:m1.m2.m3.f.n:pos		
+niechełmieńskim	niechełmieński	adj:pl:dat:m1.m2.m3.f.n:pos		
+niechełmieńskim	niechełmieński	adj:sg:inst:m1.m2.m3.n:pos		
+niechełmieńskim	niechełmieński	adj:sg:loc:m1.m2.m3.n:pos		
+niechełmieński	niechełmieński	adj:sg:acc:m3:pos		
+niechełmieński	niechełmieński	adj:sg:nom.voc:m1.m2.m3:pos		
+niechełmieńsko	niechełmieński	adja		
+niechełmieńsku	niechełmieński	adjp:dat		
 niechełmińscy	niechełmiński	adj:pl:nom.voc:m1:pos		
 niechełmińska	niechełmiński	adj:sg:nom.voc:f:pos		
 niechełmińską	niechełmiński	adj:sg:acc:f:pos		
@@ -22521,6 +22619,29 @@ niechlorynowym	niechlorynowy	adj:sg:inst:m1.m2.m3.n:pos
 niechlorynowym	niechlorynowy	adj:sg:loc:m1.m2.m3.n:pos		
 niechlorynowy	niechlorynowy	adj:sg:acc:m3:pos		
 niechlorynowy	niechlorynowy	adj:sg:nom.voc:m1.m2.m3:pos		
+niechlowianach	niechlowianin	subst:pl:loc:m1	nazwa pospolita	
+niechlowianami	niechlowianin	subst:pl:inst:m1	nazwa pospolita	
+niechlowianie	niechlowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+niechlowianina	niechlowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+niechlowianinem	niechlowianin	subst:sg:inst:m1	nazwa pospolita	
+niechlowianinie	niechlowianin	subst:sg:loc:m1	nazwa pospolita	
+niechlowianinie	niechlowianin	subst:sg:voc:m1	nazwa pospolita	
+niechlowianin	niechlowianin	subst:sg:nom:m1	nazwa pospolita	
+niechlowianinowi	niechlowianin	subst:sg:dat:m1	nazwa pospolita	
+niechlowian	niechlowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+niechlowianom	niechlowianin	subst:pl:dat:m1	nazwa pospolita	
+niechlowiany	niechlowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+niechlowiance	niechlowianka	subst:sg:dat.loc:f	nazwa pospolita	
+niechlowianek	niechlowianka	subst:pl:gen:f	nazwa pospolita	
+niechlowiankach	niechlowianka	subst:pl:loc:f	nazwa pospolita	
+niechlowiankami	niechlowianka	subst:pl:inst:f	nazwa pospolita	
+niechlowianka	niechlowianka	subst:sg:nom:f	nazwa pospolita	
+niechlowianką	niechlowianka	subst:sg:inst:f	nazwa pospolita	
+niechlowiankę	niechlowianka	subst:sg:acc:f	nazwa pospolita	
+niechlowianki	niechlowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+niechlowianki	niechlowianka	subst:sg:gen:f	nazwa pospolita	
+niechlowiankom	niechlowianka	subst:pl:dat:f	nazwa pospolita	
+niechlowianko	niechlowianka	subst:sg:voc:f	nazwa pospolita	
 niechlowscy	niechlowski	adj:pl:nom.voc:m1:pos		
 niechlowska	niechlowski	adj:sg:nom.voc:f:pos		
 niechlowską	niechlowski	adj:sg:acc:f:pos		
@@ -23576,6 +23697,31 @@ niechmieleńskości	niechmieleńskość	subst:sg:voc:f	nazwa pospolita
 niechmieleńskościom	niechmieleńskość	subst:pl:dat:f	nazwa pospolita	
 niechmieleńskość	niechmieleńskość	subst:sg:acc:f	nazwa pospolita	
 niechmieleńskość	niechmieleńskość	subst:sg:nom:f	nazwa pospolita	
+niechmielniccy	niechmielnicki	adj:pl:nom.voc:m1:pos		
+niechmielnicka	niechmielnicki	adj:sg:nom.voc:f:pos		
+niechmielnicką	niechmielnicki	adj:sg:acc:f:pos		
+niechmielnicką	niechmielnicki	adj:sg:inst:f:pos		
+niechmielnickich	niechmielnicki	adj:pl:acc:m1:pos		
+niechmielnickich	niechmielnicki	adj:pl:gen:m1.m2.m3.f.n:pos		
+niechmielnickich	niechmielnicki	adj:pl:loc:m1.m2.m3.f.n:pos		
+niechmielnickiego	niechmielnicki	adj:sg:acc:m1.m2:pos		
+niechmielnickiego	niechmielnicki	adj:sg:gen:m1.m2.m3.n:pos		
+niechmielnickiej	niechmielnicki	adj:sg:dat:f:pos		
+niechmielnickiej	niechmielnicki	adj:sg:gen:f:pos		
+niechmielnickiej	niechmielnicki	adj:sg:loc:f:pos		
+niechmielnickiemu	niechmielnicki	adj:sg:dat:m1.m2.m3.n:pos		
+niechmielnickie	niechmielnicki	adj:pl:acc:m2.m3.f.n:pos		
+niechmielnickie	niechmielnicki	adj:pl:nom.voc:m2.m3.f.n:pos		
+niechmielnickie	niechmielnicki	adj:sg:acc:n:pos		
+niechmielnickie	niechmielnicki	adj:sg:nom.voc:n:pos		
+niechmielnickimi	niechmielnicki	adj:pl:inst:m1.m2.m3.f.n:pos		
+niechmielnickim	niechmielnicki	adj:pl:dat:m1.m2.m3.f.n:pos		
+niechmielnickim	niechmielnicki	adj:sg:inst:m1.m2.m3.n:pos		
+niechmielnickim	niechmielnicki	adj:sg:loc:m1.m2.m3.n:pos		
+niechmielnicki	niechmielnicki	adj:sg:acc:m3:pos		
+niechmielnicki	niechmielnicki	adj:sg:nom.voc:m1.m2.m3:pos		
+niechmielnicko	niechmielnicki	adja		
+niechmielnicku	niechmielnicki	adjp:dat		
 niechmielnościach	niechmielność	subst:pl:loc:f	nazwa pospolita	
 niechmielnościami	niechmielność	subst:pl:inst:f	nazwa pospolita	
 niechmielnością	niechmielność	subst:sg:inst:f	nazwa pospolita	
@@ -24196,6 +24342,31 @@ niechociwelskości	niechociwelskość	subst:sg:voc:f	nazwa pospolita
 niechociwelskościom	niechociwelskość	subst:pl:dat:f	nazwa pospolita	
 niechociwelskość	niechociwelskość	subst:sg:acc:f	nazwa pospolita	
 niechociwelskość	niechociwelskość	subst:sg:nom:f	nazwa pospolita	
+niechoccy	niechocki	adj:pl:nom.voc:m1:pos		
+niechocka	niechocki	adj:sg:nom.voc:f:pos		
+niechocką	niechocki	adj:sg:acc:f:pos		
+niechocką	niechocki	adj:sg:inst:f:pos		
+niechockich	niechocki	adj:pl:acc:m1:pos		
+niechockich	niechocki	adj:pl:gen:m1.m2.m3.f.n:pos		
+niechockich	niechocki	adj:pl:loc:m1.m2.m3.f.n:pos		
+niechockiego	niechocki	adj:sg:acc:m1.m2:pos		
+niechockiego	niechocki	adj:sg:gen:m1.m2.m3.n:pos		
+niechockiej	niechocki	adj:sg:dat:f:pos		
+niechockiej	niechocki	adj:sg:gen:f:pos		
+niechockiej	niechocki	adj:sg:loc:f:pos		
+niechockiemu	niechocki	adj:sg:dat:m1.m2.m3.n:pos		
+niechockie	niechocki	adj:pl:acc:m2.m3.f.n:pos		
+niechockie	niechocki	adj:pl:nom.voc:m2.m3.f.n:pos		
+niechockie	niechocki	adj:sg:acc:n:pos		
+niechockie	niechocki	adj:sg:nom.voc:n:pos		
+niechockimi	niechocki	adj:pl:inst:m1.m2.m3.f.n:pos		
+niechockim	niechocki	adj:pl:dat:m1.m2.m3.f.n:pos		
+niechockim	niechocki	adj:sg:inst:m1.m2.m3.n:pos		
+niechockim	niechocki	adj:sg:loc:m1.m2.m3.n:pos		
+niechocki	niechocki	adj:sg:acc:m3:pos		
+niechocki	niechocki	adj:sg:nom.voc:m1.m2.m3:pos		
+niechocko	niechocki	adja		
+niechocku	niechocki	adjp:dat		
 niechoczewscy	niechoczewski	adj:pl:nom.voc:m1:pos		
 niechoczewska	niechoczewski	adj:sg:nom.voc:f:pos		
 niechoczewską	niechoczewski	adj:sg:acc:f:pos		
@@ -24265,6 +24436,31 @@ niechodaczkowym	niechodaczkowy	adj:sg:inst:m1.m2.m3.n:pos
 niechodaczkowym	niechodaczkowy	adj:sg:loc:m1.m2.m3.n:pos		
 niechodaczkowy	niechodaczkowy	adj:sg:acc:m3:pos		
 niechodaczkowy	niechodaczkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+niechodeccy	niechodecki	adj:pl:nom.voc:m1:pos		
+niechodecka	niechodecki	adj:sg:nom.voc:f:pos		
+niechodecką	niechodecki	adj:sg:acc:f:pos		
+niechodecką	niechodecki	adj:sg:inst:f:pos		
+niechodeckich	niechodecki	adj:pl:acc:m1:pos		
+niechodeckich	niechodecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+niechodeckich	niechodecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+niechodeckiego	niechodecki	adj:sg:acc:m1.m2:pos		
+niechodeckiego	niechodecki	adj:sg:gen:m1.m2.m3.n:pos		
+niechodeckiej	niechodecki	adj:sg:dat:f:pos		
+niechodeckiej	niechodecki	adj:sg:gen:f:pos		
+niechodeckiej	niechodecki	adj:sg:loc:f:pos		
+niechodeckiemu	niechodecki	adj:sg:dat:m1.m2.m3.n:pos		
+niechodeckie	niechodecki	adj:pl:acc:m2.m3.f.n:pos		
+niechodeckie	niechodecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+niechodeckie	niechodecki	adj:sg:acc:n:pos		
+niechodeckie	niechodecki	adj:sg:nom.voc:n:pos		
+niechodeckimi	niechodecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+niechodeckim	niechodecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+niechodeckim	niechodecki	adj:sg:inst:m1.m2.m3.n:pos		
+niechodeckim	niechodecki	adj:sg:loc:m1.m2.m3.n:pos		
+niechodecki	niechodecki	adj:sg:acc:m3:pos		
+niechodecki	niechodecki	adj:sg:nom.voc:m1.m2.m3:pos		
+niechodecko	niechodecki	adja		
+niechodecku	niechodecki	adjp:dat		
 niechodelscy	niechodelski	adj:pl:nom.voc:m1:pos		
 niechodelska	niechodelski	adj:sg:nom.voc:f:pos		
 niechodelską	niechodelski	adj:sg:acc:f:pos		
@@ -25937,6 +26133,31 @@ niechorym	niechory	adj:sg:loc:m1.m2.m3.n:pos
 niechory	niechory	adj:sg:acc:m3:pos		
 niechory	niechory	adj:sg:nom.voc:m1.m2.m3:pos		
 niechorzy	niechory	adj:pl:nom.voc:m1:pos		
+niechorzelscy	niechorzelski	adj:pl:nom.voc:m1:pos		
+niechorzelska	niechorzelski	adj:sg:nom.voc:f:pos		
+niechorzelską	niechorzelski	adj:sg:acc:f:pos		
+niechorzelską	niechorzelski	adj:sg:inst:f:pos		
+niechorzelskich	niechorzelski	adj:pl:acc:m1:pos		
+niechorzelskich	niechorzelski	adj:pl:gen:m1.m2.m3.f.n:pos		
+niechorzelskich	niechorzelski	adj:pl:loc:m1.m2.m3.f.n:pos		
+niechorzelskiego	niechorzelski	adj:sg:acc:m1.m2:pos		
+niechorzelskiego	niechorzelski	adj:sg:gen:m1.m2.m3.n:pos		
+niechorzelskiej	niechorzelski	adj:sg:dat:f:pos		
+niechorzelskiej	niechorzelski	adj:sg:gen:f:pos		
+niechorzelskiej	niechorzelski	adj:sg:loc:f:pos		
+niechorzelskiemu	niechorzelski	adj:sg:dat:m1.m2.m3.n:pos		
+niechorzelskie	niechorzelski	adj:pl:acc:m2.m3.f.n:pos		
+niechorzelskie	niechorzelski	adj:pl:nom.voc:m2.m3.f.n:pos		
+niechorzelskie	niechorzelski	adj:sg:acc:n:pos		
+niechorzelskie	niechorzelski	adj:sg:nom.voc:n:pos		
+niechorzelskimi	niechorzelski	adj:pl:inst:m1.m2.m3.f.n:pos		
+niechorzelskim	niechorzelski	adj:pl:dat:m1.m2.m3.f.n:pos		
+niechorzelskim	niechorzelski	adj:sg:inst:m1.m2.m3.n:pos		
+niechorzelskim	niechorzelski	adj:sg:loc:m1.m2.m3.n:pos		
+niechorzelski	niechorzelski	adj:sg:acc:m3:pos		
+niechorzelski	niechorzelski	adj:sg:nom.voc:m1.m2.m3:pos		
+niechorzelsko	niechorzelski	adja		
+niechorzelsku	niechorzelski	adjp:dat		
 niechorzowscy	niechorzowski	adj:pl:nom.voc:m1:pos		
 niechorzowska	niechorzowski	adj:sg:nom.voc:f:pos		
 niechorzowską	niechorzowski	adj:sg:acc:f:pos		
@@ -27301,6 +27522,31 @@ niechropowatym	niechropowaty	adj:sg:inst:m1.m2.m3.n:pos
 niechropowatym	niechropowaty	adj:sg:loc:m1.m2.m3.n:pos		
 niechropowaty	niechropowaty	adj:sg:acc:m3:pos		
 niechropowaty	niechropowaty	adj:sg:nom.voc:m1.m2.m3:pos		
+niechrostkowscy	niechrostkowski	adj:pl:nom.voc:m1:pos		
+niechrostkowska	niechrostkowski	adj:sg:nom.voc:f:pos		
+niechrostkowską	niechrostkowski	adj:sg:acc:f:pos		
+niechrostkowską	niechrostkowski	adj:sg:inst:f:pos		
+niechrostkowskich	niechrostkowski	adj:pl:acc:m1:pos		
+niechrostkowskich	niechrostkowski	adj:pl:gen:m1.m2.m3.f.n:pos		
+niechrostkowskich	niechrostkowski	adj:pl:loc:m1.m2.m3.f.n:pos		
+niechrostkowskiego	niechrostkowski	adj:sg:acc:m1.m2:pos		
+niechrostkowskiego	niechrostkowski	adj:sg:gen:m1.m2.m3.n:pos		
+niechrostkowskiej	niechrostkowski	adj:sg:dat:f:pos		
+niechrostkowskiej	niechrostkowski	adj:sg:gen:f:pos		
+niechrostkowskiej	niechrostkowski	adj:sg:loc:f:pos		
+niechrostkowskiemu	niechrostkowski	adj:sg:dat:m1.m2.m3.n:pos		
+niechrostkowskie	niechrostkowski	adj:pl:acc:m2.m3.f.n:pos		
+niechrostkowskie	niechrostkowski	adj:pl:nom.voc:m2.m3.f.n:pos		
+niechrostkowskie	niechrostkowski	adj:sg:acc:n:pos		
+niechrostkowskie	niechrostkowski	adj:sg:nom.voc:n:pos		
+niechrostkowskimi	niechrostkowski	adj:pl:inst:m1.m2.m3.f.n:pos		
+niechrostkowskim	niechrostkowski	adj:pl:dat:m1.m2.m3.f.n:pos		
+niechrostkowskim	niechrostkowski	adj:sg:inst:m1.m2.m3.n:pos		
+niechrostkowskim	niechrostkowski	adj:sg:loc:m1.m2.m3.n:pos		
+niechrostkowski	niechrostkowski	adj:sg:acc:m3:pos		
+niechrostkowski	niechrostkowski	adj:sg:nom.voc:m1.m2.m3:pos		
+niechrostkowsko	niechrostkowski	adja		
+niechrostkowsku	niechrostkowski	adjp:dat		
 niechrupiąco	niechrupiąco	adv:pos		
 niechrupiącościach	niechrupiącość	subst:pl:loc:f	nazwa pospolita	
 niechrupiącościami	niechrupiącość	subst:pl:inst:f	nazwa pospolita	
@@ -30524,6 +30770,31 @@ nieciastowym	nieciastowy	adj:sg:inst:m1.m2.m3.n:pos
 nieciastowym	nieciastowy	adj:sg:loc:m1.m2.m3.n:pos		
 nieciastowy	nieciastowy	adj:sg:acc:m3:pos		
 nieciastowy	nieciastowy	adj:sg:nom.voc:m1.m2.m3:pos		
+nieciaśnieńscy	nieciaśnieński	adj:pl:nom.voc:m1:pos		
+nieciaśnieńska	nieciaśnieński	adj:sg:nom.voc:f:pos		
+nieciaśnieńską	nieciaśnieński	adj:sg:acc:f:pos		
+nieciaśnieńską	nieciaśnieński	adj:sg:inst:f:pos		
+nieciaśnieńskich	nieciaśnieński	adj:pl:acc:m1:pos		
+nieciaśnieńskich	nieciaśnieński	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieciaśnieńskich	nieciaśnieński	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieciaśnieńskiego	nieciaśnieński	adj:sg:acc:m1.m2:pos		
+nieciaśnieńskiego	nieciaśnieński	adj:sg:gen:m1.m2.m3.n:pos		
+nieciaśnieńskiej	nieciaśnieński	adj:sg:dat:f:pos		
+nieciaśnieńskiej	nieciaśnieński	adj:sg:gen:f:pos		
+nieciaśnieńskiej	nieciaśnieński	adj:sg:loc:f:pos		
+nieciaśnieńskiemu	nieciaśnieński	adj:sg:dat:m1.m2.m3.n:pos		
+nieciaśnieńskie	nieciaśnieński	adj:pl:acc:m2.m3.f.n:pos		
+nieciaśnieńskie	nieciaśnieński	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieciaśnieńskie	nieciaśnieński	adj:sg:acc:n:pos		
+nieciaśnieńskie	nieciaśnieński	adj:sg:nom.voc:n:pos		
+nieciaśnieńskimi	nieciaśnieński	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieciaśnieńskim	nieciaśnieński	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieciaśnieńskim	nieciaśnieński	adj:sg:inst:m1.m2.m3.n:pos		
+nieciaśnieńskim	nieciaśnieński	adj:sg:loc:m1.m2.m3.n:pos		
+nieciaśnieński	nieciaśnieński	adj:sg:acc:m3:pos		
+nieciaśnieński	nieciaśnieński	adj:sg:nom.voc:m1.m2.m3:pos		
+nieciaśnieńsko	nieciaśnieński	adja		
+nieciaśnieńsku	nieciaśnieński	adjp:dat		
 nieciaśniuchnościach	nieciaśniuchność	subst:pl:loc:f	nazwa pospolita	
 nieciaśniuchnościami	nieciaśniuchność	subst:pl:inst:f	nazwa pospolita	
 nieciaśniuchnością	nieciaśniuchność	subst:sg:inst:f	nazwa pospolita	
@@ -31394,6 +31665,31 @@ nieconym	niecić	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff
 nieconym	niecić	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
 niecony	niecić	ppas:sg:acc:m3:imperf:aff		
 niecony	niecić	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+nieciechanowieccy	nieciechanowiecki	adj:pl:nom.voc:m1:pos		
+nieciechanowiecka	nieciechanowiecki	adj:sg:nom.voc:f:pos		
+nieciechanowiecką	nieciechanowiecki	adj:sg:acc:f:pos		
+nieciechanowiecką	nieciechanowiecki	adj:sg:inst:f:pos		
+nieciechanowieckich	nieciechanowiecki	adj:pl:acc:m1:pos		
+nieciechanowieckich	nieciechanowiecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieciechanowieckich	nieciechanowiecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieciechanowieckiego	nieciechanowiecki	adj:sg:acc:m1.m2:pos		
+nieciechanowieckiego	nieciechanowiecki	adj:sg:gen:m1.m2.m3.n:pos		
+nieciechanowieckiej	nieciechanowiecki	adj:sg:dat:f:pos		
+nieciechanowieckiej	nieciechanowiecki	adj:sg:gen:f:pos		
+nieciechanowieckiej	nieciechanowiecki	adj:sg:loc:f:pos		
+nieciechanowieckiemu	nieciechanowiecki	adj:sg:dat:m1.m2.m3.n:pos		
+nieciechanowieckie	nieciechanowiecki	adj:pl:acc:m2.m3.f.n:pos		
+nieciechanowieckie	nieciechanowiecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieciechanowieckie	nieciechanowiecki	adj:sg:acc:n:pos		
+nieciechanowieckie	nieciechanowiecki	adj:sg:nom.voc:n:pos		
+nieciechanowieckimi	nieciechanowiecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieciechanowieckim	nieciechanowiecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieciechanowieckim	nieciechanowiecki	adj:sg:inst:m1.m2.m3.n:pos		
+nieciechanowieckim	nieciechanowiecki	adj:sg:loc:m1.m2.m3.n:pos		
+nieciechanowiecki	nieciechanowiecki	adj:sg:acc:m3:pos		
+nieciechanowiecki	nieciechanowiecki	adj:sg:nom.voc:m1.m2.m3:pos		
+nieciechanowiecko	nieciechanowiecki	adja		
+nieciechanowiecku	nieciechanowiecki	adjp:dat		
 nieciechanowscy	nieciechanowski	adj:pl:nom.voc:m1:pos		
 nieciechanowska	nieciechanowski	adj:sg:nom.voc:f:pos		
 nieciechanowską	nieciechanowski	adj:sg:acc:f:pos		
@@ -31429,6 +31725,31 @@ nieciechanowskości	nieciechanowskość	subst:sg:voc:f	nazwa pospolita
 nieciechanowskościom	nieciechanowskość	subst:pl:dat:f	nazwa pospolita	
 nieciechanowskość	nieciechanowskość	subst:sg:acc:f	nazwa pospolita	
 nieciechanowskość	nieciechanowskość	subst:sg:nom:f	nazwa pospolita	
+nieciechocineccy	nieciechocinecki	adj:pl:nom.voc:m1:pos		
+nieciechocinecka	nieciechocinecki	adj:sg:nom.voc:f:pos		
+nieciechocinecką	nieciechocinecki	adj:sg:acc:f:pos		
+nieciechocinecką	nieciechocinecki	adj:sg:inst:f:pos		
+nieciechocineckich	nieciechocinecki	adj:pl:acc:m1:pos		
+nieciechocineckich	nieciechocinecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieciechocineckich	nieciechocinecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieciechocineckiego	nieciechocinecki	adj:sg:acc:m1.m2:pos		
+nieciechocineckiego	nieciechocinecki	adj:sg:gen:m1.m2.m3.n:pos		
+nieciechocineckiej	nieciechocinecki	adj:sg:dat:f:pos		
+nieciechocineckiej	nieciechocinecki	adj:sg:gen:f:pos		
+nieciechocineckiej	nieciechocinecki	adj:sg:loc:f:pos		
+nieciechocineckiemu	nieciechocinecki	adj:sg:dat:m1.m2.m3.n:pos		
+nieciechocineckie	nieciechocinecki	adj:pl:acc:m2.m3.f.n:pos		
+nieciechocineckie	nieciechocinecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieciechocineckie	nieciechocinecki	adj:sg:acc:n:pos		
+nieciechocineckie	nieciechocinecki	adj:sg:nom.voc:n:pos		
+nieciechocineckimi	nieciechocinecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieciechocineckim	nieciechocinecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieciechocineckim	nieciechocinecki	adj:sg:inst:m1.m2.m3.n:pos		
+nieciechocineckim	nieciechocinecki	adj:sg:loc:m1.m2.m3.n:pos		
+nieciechocinecki	nieciechocinecki	adj:sg:acc:m3:pos		
+nieciechocinecki	nieciechocinecki	adj:sg:nom.voc:m1.m2.m3:pos		
+nieciechocinecko	nieciechocinecki	adja		
+nieciechocinecku	nieciechocinecki	adjp:dat		
 nieciechocińscy	nieciechociński	adj:pl:nom.voc:m1:pos		
 nieciechocińska	nieciechociński	adj:sg:nom.voc:f:pos		
 nieciechocińską	nieciechociński	adj:sg:acc:f:pos		
@@ -31683,6 +32004,31 @@ nieciekłym	nieciekły	adj:sg:inst:m1.m2.m3.n:pos
 nieciekłym	nieciekły	adj:sg:loc:m1.m2.m3.n:pos		
 nieciekły	nieciekły	adj:sg:acc:m3:pos		
 nieciekły	nieciekły	adj:sg:nom.voc:m1.m2.m3:pos		
+niecielądzcy	niecielądzki	adj:pl:nom.voc:m1:pos		
+niecielądzka	niecielądzki	adj:sg:nom.voc:f:pos		
+niecielądzką	niecielądzki	adj:sg:acc:f:pos		
+niecielądzką	niecielądzki	adj:sg:inst:f:pos		
+niecielądzkich	niecielądzki	adj:pl:acc:m1:pos		
+niecielądzkich	niecielądzki	adj:pl:gen:m1.m2.m3.f.n:pos		
+niecielądzkich	niecielądzki	adj:pl:loc:m1.m2.m3.f.n:pos		
+niecielądzkiego	niecielądzki	adj:sg:acc:m1.m2:pos		
+niecielądzkiego	niecielądzki	adj:sg:gen:m1.m2.m3.n:pos		
+niecielądzkiej	niecielądzki	adj:sg:dat:f:pos		
+niecielądzkiej	niecielądzki	adj:sg:gen:f:pos		
+niecielądzkiej	niecielądzki	adj:sg:loc:f:pos		
+niecielądzkiemu	niecielądzki	adj:sg:dat:m1.m2.m3.n:pos		
+niecielądzkie	niecielądzki	adj:pl:acc:m2.m3.f.n:pos		
+niecielądzkie	niecielądzki	adj:pl:nom.voc:m2.m3.f.n:pos		
+niecielądzkie	niecielądzki	adj:sg:acc:n:pos		
+niecielądzkie	niecielądzki	adj:sg:nom.voc:n:pos		
+niecielądzkimi	niecielądzki	adj:pl:inst:m1.m2.m3.f.n:pos		
+niecielądzkim	niecielądzki	adj:pl:dat:m1.m2.m3.f.n:pos		
+niecielądzkim	niecielądzki	adj:sg:inst:m1.m2.m3.n:pos		
+niecielądzkim	niecielądzki	adj:sg:loc:m1.m2.m3.n:pos		
+niecielądzki	niecielądzki	adj:sg:acc:m3:pos		
+niecielądzki	niecielądzki	adj:sg:nom.voc:m1.m2.m3:pos		
+niecielądzko	niecielądzki	adja		
+niecielądzku	niecielądzki	adjp:dat		
 niecielątkowatościach	niecielątkowatość	subst:pl:loc:f	nazwa pospolita	
 niecielątkowatościami	niecielątkowatość	subst:pl:inst:f	nazwa pospolita	
 niecielątkowatością	niecielątkowatość	subst:sg:inst:f	nazwa pospolita	
@@ -36676,6 +37022,31 @@ niecisawym	niecisawy	adj:sg:inst:m1.m2.m3.n:pos
 niecisawym	niecisawy	adj:sg:loc:m1.m2.m3.n:pos		
 niecisawy	niecisawy	adj:sg:acc:m3:pos		
 niecisawy	niecisawy	adj:sg:nom.voc:m1.m2.m3:pos		
+nieciseccy	niecisecki	adj:pl:nom.voc:m1:pos		
+niecisecka	niecisecki	adj:sg:nom.voc:f:pos		
+niecisecką	niecisecki	adj:sg:acc:f:pos		
+niecisecką	niecisecki	adj:sg:inst:f:pos		
+nieciseckich	niecisecki	adj:pl:acc:m1:pos		
+nieciseckich	niecisecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieciseckich	niecisecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieciseckiego	niecisecki	adj:sg:acc:m1.m2:pos		
+nieciseckiego	niecisecki	adj:sg:gen:m1.m2.m3.n:pos		
+nieciseckiej	niecisecki	adj:sg:dat:f:pos		
+nieciseckiej	niecisecki	adj:sg:gen:f:pos		
+nieciseckiej	niecisecki	adj:sg:loc:f:pos		
+nieciseckiemu	niecisecki	adj:sg:dat:m1.m2.m3.n:pos		
+nieciseckie	niecisecki	adj:pl:acc:m2.m3.f.n:pos		
+nieciseckie	niecisecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieciseckie	niecisecki	adj:sg:acc:n:pos		
+nieciseckie	niecisecki	adj:sg:nom.voc:n:pos		
+nieciseckimi	niecisecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieciseckim	niecisecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieciseckim	niecisecki	adj:sg:inst:m1.m2.m3.n:pos		
+nieciseckim	niecisecki	adj:sg:loc:m1.m2.m3.n:pos		
+niecisecki	niecisecki	adj:sg:acc:m3:pos		
+niecisecki	niecisecki	adj:sg:nom.voc:m1.m2.m3:pos		
+niecisecko	niecisecki	adja		
+niecisecku	niecisecki	adjp:dat		
 niecisieńscy	niecisieński	adj:pl:nom.voc:m1:pos		
 niecisieńska	niecisieński	adj:sg:nom.voc:f:pos		
 niecisieńską	niecisieński	adj:sg:acc:f:pos		
@@ -36847,6 +37218,31 @@ niecisuranowym	niecisuranowy	adj:sg:inst:m1.m2.m3.n:pos
 niecisuranowym	niecisuranowy	adj:sg:loc:m1.m2.m3.n:pos		
 niecisuranowy	niecisuranowy	adj:sg:acc:m3:pos		
 niecisuranowy	niecisuranowy	adj:sg:nom.voc:m1.m2.m3:pos		
+nieciśniańscy	nieciśniański	adj:pl:nom.voc:m1:pos		
+nieciśniańska	nieciśniański	adj:sg:nom.voc:f:pos		
+nieciśniańską	nieciśniański	adj:sg:acc:f:pos		
+nieciśniańską	nieciśniański	adj:sg:inst:f:pos		
+nieciśniańskich	nieciśniański	adj:pl:acc:m1:pos		
+nieciśniańskich	nieciśniański	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieciśniańskich	nieciśniański	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieciśniańskiego	nieciśniański	adj:sg:acc:m1.m2:pos		
+nieciśniańskiego	nieciśniański	adj:sg:gen:m1.m2.m3.n:pos		
+nieciśniańskiej	nieciśniański	adj:sg:dat:f:pos		
+nieciśniańskiej	nieciśniański	adj:sg:gen:f:pos		
+nieciśniańskiej	nieciśniański	adj:sg:loc:f:pos		
+nieciśniańskiemu	nieciśniański	adj:sg:dat:m1.m2.m3.n:pos		
+nieciśniańskie	nieciśniański	adj:pl:acc:m2.m3.f.n:pos		
+nieciśniańskie	nieciśniański	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieciśniańskie	nieciśniański	adj:sg:acc:n:pos		
+nieciśniańskie	nieciśniański	adj:sg:nom.voc:n:pos		
+nieciśniańskimi	nieciśniański	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieciśniańskim	nieciśniański	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieciśniańskim	nieciśniański	adj:sg:inst:m1.m2.m3.n:pos		
+nieciśniańskim	nieciśniański	adj:sg:loc:m1.m2.m3.n:pos		
+nieciśniański	nieciśniański	adj:sg:acc:m3:pos		
+nieciśniański	nieciśniański	adj:sg:nom.voc:m1.m2.m3:pos		
+nieciśniańsko	nieciśniański	adja		
+nieciśniańsku	nieciśniański	adjp:dat		
 nieciśnieniowo	nieciśnieniowo	adv:pos		
 nieciśnieniowościach	nieciśnieniowość	subst:pl:loc:f	nazwa pospolita	
 nieciśnieniowościami	nieciśnieniowość	subst:pl:inst:f	nazwa pospolita	
@@ -43826,6 +44222,31 @@ nieczajczym	nieczajczy	adj:sg:loc:m1.m2.m3.n:pos
 nieczajczy	nieczajczy	adj:pl:nom.voc:m1:pos		
 nieczajczy	nieczajczy	adj:sg:acc:m3:pos		
 nieczajczy	nieczajczy	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczajkowscy	nieczajkowski	adj:pl:nom.voc:m1:pos		
+nieczajkowska	nieczajkowski	adj:sg:nom.voc:f:pos		
+nieczajkowską	nieczajkowski	adj:sg:acc:f:pos		
+nieczajkowską	nieczajkowski	adj:sg:inst:f:pos		
+nieczajkowskich	nieczajkowski	adj:pl:acc:m1:pos		
+nieczajkowskich	nieczajkowski	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieczajkowskich	nieczajkowski	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieczajkowskiego	nieczajkowski	adj:sg:acc:m1.m2:pos		
+nieczajkowskiego	nieczajkowski	adj:sg:gen:m1.m2.m3.n:pos		
+nieczajkowskiej	nieczajkowski	adj:sg:dat:f:pos		
+nieczajkowskiej	nieczajkowski	adj:sg:gen:f:pos		
+nieczajkowskiej	nieczajkowski	adj:sg:loc:f:pos		
+nieczajkowskiemu	nieczajkowski	adj:sg:dat:m1.m2.m3.n:pos		
+nieczajkowskie	nieczajkowski	adj:pl:acc:m2.m3.f.n:pos		
+nieczajkowskie	nieczajkowski	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieczajkowskie	nieczajkowski	adj:sg:acc:n:pos		
+nieczajkowskie	nieczajkowski	adj:sg:nom.voc:n:pos		
+nieczajkowskimi	nieczajkowski	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieczajkowskim	nieczajkowski	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieczajkowskim	nieczajkowski	adj:sg:inst:m1.m2.m3.n:pos		
+nieczajkowskim	nieczajkowski	adj:sg:loc:m1.m2.m3.n:pos		
+nieczajkowski	nieczajkowski	adj:sg:acc:m3:pos		
+nieczajkowski	nieczajkowski	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczajkowsko	nieczajkowski	adja		
+nieczajkowsku	nieczajkowski	adjp:dat		
 nieczamlotowościach	nieczamlotowość	subst:pl:loc:f	nazwa pospolita	
 nieczamlotowościami	nieczamlotowość	subst:pl:inst:f	nazwa pospolita	
 nieczamlotowością	nieczamlotowość	subst:sg:inst:f	nazwa pospolita	
@@ -44020,6 +44441,31 @@ nieczaplim	nieczapli	adj:sg:loc:m1.m2.m3.n:pos
 nieczapli	nieczapli	adj:pl:nom.voc:m1:pos		
 nieczapli	nieczapli	adj:sg:acc:m3:pos		
 nieczapli	nieczapli	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczaplineccy	nieczaplinecki	adj:pl:nom.voc:m1:pos		
+nieczaplinecka	nieczaplinecki	adj:sg:nom.voc:f:pos		
+nieczaplinecką	nieczaplinecki	adj:sg:acc:f:pos		
+nieczaplinecką	nieczaplinecki	adj:sg:inst:f:pos		
+nieczaplineckich	nieczaplinecki	adj:pl:acc:m1:pos		
+nieczaplineckich	nieczaplinecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieczaplineckich	nieczaplinecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieczaplineckiego	nieczaplinecki	adj:sg:acc:m1.m2:pos		
+nieczaplineckiego	nieczaplinecki	adj:sg:gen:m1.m2.m3.n:pos		
+nieczaplineckiej	nieczaplinecki	adj:sg:dat:f:pos		
+nieczaplineckiej	nieczaplinecki	adj:sg:gen:f:pos		
+nieczaplineckiej	nieczaplinecki	adj:sg:loc:f:pos		
+nieczaplineckiemu	nieczaplinecki	adj:sg:dat:m1.m2.m3.n:pos		
+nieczaplineckie	nieczaplinecki	adj:pl:acc:m2.m3.f.n:pos		
+nieczaplineckie	nieczaplinecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieczaplineckie	nieczaplinecki	adj:sg:acc:n:pos		
+nieczaplineckie	nieczaplinecki	adj:sg:nom.voc:n:pos		
+nieczaplineckimi	nieczaplinecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieczaplineckim	nieczaplinecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieczaplineckim	nieczaplinecki	adj:sg:inst:m1.m2.m3.n:pos		
+nieczaplineckim	nieczaplinecki	adj:sg:loc:m1.m2.m3.n:pos		
+nieczaplinecki	nieczaplinecki	adj:sg:acc:m3:pos		
+nieczaplinecki	nieczaplinecki	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczaplinecko	nieczaplinecki	adja		
+nieczaplinecku	nieczaplinecki	adjp:dat		
 nieczaplinościach	nieczapliność	subst:pl:loc:f	nazwa pospolita	
 nieczaplinościami	nieczapliność	subst:pl:inst:f	nazwa pospolita	
 nieczaplinością	nieczapliność	subst:sg:inst:f	nazwa pospolita	
@@ -44168,6 +44614,31 @@ nieczarciości	nieczarciość	subst:sg:voc:f	nazwa pospolita
 nieczarciościom	nieczarciość	subst:pl:dat:f	nazwa pospolita	
 nieczarciość	nieczarciość	subst:sg:acc:f	nazwa pospolita	
 nieczarciość	nieczarciość	subst:sg:nom:f	nazwa pospolita	
+nieczarneńscy	nieczarneński	adj:pl:nom.voc:m1:pos		
+nieczarneńska	nieczarneński	adj:sg:nom.voc:f:pos		
+nieczarneńską	nieczarneński	adj:sg:acc:f:pos		
+nieczarneńską	nieczarneński	adj:sg:inst:f:pos		
+nieczarneńskich	nieczarneński	adj:pl:acc:m1:pos		
+nieczarneńskich	nieczarneński	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieczarneńskich	nieczarneński	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieczarneńskiego	nieczarneński	adj:sg:acc:m1.m2:pos		
+nieczarneńskiego	nieczarneński	adj:sg:gen:m1.m2.m3.n:pos		
+nieczarneńskiej	nieczarneński	adj:sg:dat:f:pos		
+nieczarneńskiej	nieczarneński	adj:sg:gen:f:pos		
+nieczarneńskiej	nieczarneński	adj:sg:loc:f:pos		
+nieczarneńskiemu	nieczarneński	adj:sg:dat:m1.m2.m3.n:pos		
+nieczarneńskie	nieczarneński	adj:pl:acc:m2.m3.f.n:pos		
+nieczarneńskie	nieczarneński	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieczarneńskie	nieczarneński	adj:sg:acc:n:pos		
+nieczarneńskie	nieczarneński	adj:sg:nom.voc:n:pos		
+nieczarneńskimi	nieczarneński	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieczarneńskim	nieczarneński	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieczarneńskim	nieczarneński	adj:sg:inst:m1.m2.m3.n:pos		
+nieczarneńskim	nieczarneński	adj:sg:loc:m1.m2.m3.n:pos		
+nieczarneński	nieczarneński	adj:sg:acc:m3:pos		
+nieczarneński	nieczarneński	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczarneńsko	nieczarneński	adja		
+nieczarneńsku	nieczarneński	adjp:dat		
 nieczarniańscy	nieczarniański	adj:pl:nom.voc:m1:pos		
 nieczarniańska	nieczarniański	adj:sg:nom.voc:f:pos		
 nieczarniańską	nieczarniański	adj:sg:acc:f:pos		
@@ -44237,6 +44708,56 @@ nieczarniawym	nieczarniawy	adj:sg:inst:m1.m2.m3.n:pos
 nieczarniawym	nieczarniawy	adj:sg:loc:m1.m2.m3.n:pos		
 nieczarniawy	nieczarniawy	adj:sg:acc:m3:pos		
 nieczarniawy	nieczarniawy	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczarnieccy	nieczarniecki	adj:pl:nom.voc:m1:pos		
+nieczarniecka	nieczarniecki	adj:sg:nom.voc:f:pos		
+nieczarniecką	nieczarniecki	adj:sg:acc:f:pos		
+nieczarniecką	nieczarniecki	adj:sg:inst:f:pos		
+nieczarnieckich	nieczarniecki	adj:pl:acc:m1:pos		
+nieczarnieckich	nieczarniecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieczarnieckich	nieczarniecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieczarnieckiego	nieczarniecki	adj:sg:acc:m1.m2:pos		
+nieczarnieckiego	nieczarniecki	adj:sg:gen:m1.m2.m3.n:pos		
+nieczarnieckiej	nieczarniecki	adj:sg:dat:f:pos		
+nieczarnieckiej	nieczarniecki	adj:sg:gen:f:pos		
+nieczarnieckiej	nieczarniecki	adj:sg:loc:f:pos		
+nieczarnieckiemu	nieczarniecki	adj:sg:dat:m1.m2.m3.n:pos		
+nieczarnieckie	nieczarniecki	adj:pl:acc:m2.m3.f.n:pos		
+nieczarnieckie	nieczarniecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieczarnieckie	nieczarniecki	adj:sg:acc:n:pos		
+nieczarnieckie	nieczarniecki	adj:sg:nom.voc:n:pos		
+nieczarnieckimi	nieczarniecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieczarnieckim	nieczarniecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieczarnieckim	nieczarniecki	adj:sg:inst:m1.m2.m3.n:pos		
+nieczarnieckim	nieczarniecki	adj:sg:loc:m1.m2.m3.n:pos		
+nieczarniecki	nieczarniecki	adj:sg:acc:m3:pos		
+nieczarniecki	nieczarniecki	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczarniecko	nieczarniecki	adja		
+nieczarniecku	nieczarniecki	adjp:dat		
+nieczarnieńscy	nieczarnieński	adj:pl:nom.voc:m1:pos		
+nieczarnieńska	nieczarnieński	adj:sg:nom.voc:f:pos		
+nieczarnieńską	nieczarnieński	adj:sg:acc:f:pos		
+nieczarnieńską	nieczarnieński	adj:sg:inst:f:pos		
+nieczarnieńskich	nieczarnieński	adj:pl:acc:m1:pos		
+nieczarnieńskich	nieczarnieński	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieczarnieńskich	nieczarnieński	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieczarnieńskiego	nieczarnieński	adj:sg:acc:m1.m2:pos		
+nieczarnieńskiego	nieczarnieński	adj:sg:gen:m1.m2.m3.n:pos		
+nieczarnieńskiej	nieczarnieński	adj:sg:dat:f:pos		
+nieczarnieńskiej	nieczarnieński	adj:sg:gen:f:pos		
+nieczarnieńskiej	nieczarnieński	adj:sg:loc:f:pos		
+nieczarnieńskiemu	nieczarnieński	adj:sg:dat:m1.m2.m3.n:pos		
+nieczarnieńskie	nieczarnieński	adj:pl:acc:m2.m3.f.n:pos		
+nieczarnieńskie	nieczarnieński	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieczarnieńskie	nieczarnieński	adj:sg:acc:n:pos		
+nieczarnieńskie	nieczarnieński	adj:sg:nom.voc:n:pos		
+nieczarnieńskimi	nieczarnieński	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieczarnieńskim	nieczarnieński	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieczarnieńskim	nieczarnieński	adj:sg:inst:m1.m2.m3.n:pos		
+nieczarnieńskim	nieczarnieński	adj:sg:loc:m1.m2.m3.n:pos		
+nieczarnieński	nieczarnieński	adj:sg:acc:m3:pos		
+nieczarnieński	nieczarnieński	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczarnieńsko	nieczarnieński	adja		
+nieczarnieńsku	nieczarnieński	adjp:dat		
 nieczarniuchnościach	nieczarniuchność	subst:pl:loc:f	nazwa pospolita	
 nieczarniuchnościami	nieczarniuchność	subst:pl:inst:f	nazwa pospolita	
 nieczarniuchnością	nieczarniuchność	subst:sg:inst:f	nazwa pospolita	
@@ -44583,6 +45104,31 @@ nieczarnocińskości	nieczarnocińskość	subst:sg:voc:f	nazwa pospolita
 nieczarnocińskościom	nieczarnocińskość	subst:pl:dat:f	nazwa pospolita	
 nieczarnocińskość	nieczarnocińskość	subst:sg:acc:f	nazwa pospolita	
 nieczarnocińskość	nieczarnocińskość	subst:sg:nom:f	nazwa pospolita	
+nieczarnodąbróweccy	nieczarnodąbrówecki	adj:pl:nom.voc:m1:pos		
+nieczarnodąbrówecka	nieczarnodąbrówecki	adj:sg:nom.voc:f:pos		
+nieczarnodąbrówecką	nieczarnodąbrówecki	adj:sg:acc:f:pos		
+nieczarnodąbrówecką	nieczarnodąbrówecki	adj:sg:inst:f:pos		
+nieczarnodąbróweckich	nieczarnodąbrówecki	adj:pl:acc:m1:pos		
+nieczarnodąbróweckich	nieczarnodąbrówecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieczarnodąbróweckich	nieczarnodąbrówecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieczarnodąbróweckiego	nieczarnodąbrówecki	adj:sg:acc:m1.m2:pos		
+nieczarnodąbróweckiego	nieczarnodąbrówecki	adj:sg:gen:m1.m2.m3.n:pos		
+nieczarnodąbróweckiej	nieczarnodąbrówecki	adj:sg:dat:f:pos		
+nieczarnodąbróweckiej	nieczarnodąbrówecki	adj:sg:gen:f:pos		
+nieczarnodąbróweckiej	nieczarnodąbrówecki	adj:sg:loc:f:pos		
+nieczarnodąbróweckiemu	nieczarnodąbrówecki	adj:sg:dat:m1.m2.m3.n:pos		
+nieczarnodąbróweckie	nieczarnodąbrówecki	adj:pl:acc:m2.m3.f.n:pos		
+nieczarnodąbróweckie	nieczarnodąbrówecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieczarnodąbróweckie	nieczarnodąbrówecki	adj:sg:acc:n:pos		
+nieczarnodąbróweckie	nieczarnodąbrówecki	adj:sg:nom.voc:n:pos		
+nieczarnodąbróweckimi	nieczarnodąbrówecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieczarnodąbróweckim	nieczarnodąbrówecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieczarnodąbróweckim	nieczarnodąbrówecki	adj:sg:inst:m1.m2.m3.n:pos		
+nieczarnodąbróweckim	nieczarnodąbrówecki	adj:sg:loc:m1.m2.m3.n:pos		
+nieczarnodąbrówecki	nieczarnodąbrówecki	adj:sg:acc:m3:pos		
+nieczarnodąbrówecki	nieczarnodąbrówecki	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczarnodąbrówecko	nieczarnodąbrówecki	adja		
+nieczarnodąbrówecku	nieczarnodąbrówecki	adjp:dat		
 nieczarnodębowościach	nieczarnodębowość	subst:pl:loc:f	nazwa pospolita	
 nieczarnodębowościami	nieczarnodębowość	subst:pl:inst:f	nazwa pospolita	
 nieczarnodębowością	nieczarnodębowość	subst:sg:inst:f	nazwa pospolita	
@@ -44617,6 +45163,31 @@ nieczarnodębowym	nieczarnodębowy	adj:sg:inst:m1.m2.m3.n:pos
 nieczarnodębowym	nieczarnodębowy	adj:sg:loc:m1.m2.m3.n:pos		
 nieczarnodębowy	nieczarnodębowy	adj:sg:acc:m3:pos		
 nieczarnodębowy	nieczarnodębowy	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczarnodunajeccy	nieczarnodunajecki	adj:pl:nom.voc:m1:pos		
+nieczarnodunajecka	nieczarnodunajecki	adj:sg:nom.voc:f:pos		
+nieczarnodunajecką	nieczarnodunajecki	adj:sg:acc:f:pos		
+nieczarnodunajecką	nieczarnodunajecki	adj:sg:inst:f:pos		
+nieczarnodunajeckich	nieczarnodunajecki	adj:pl:acc:m1:pos		
+nieczarnodunajeckich	nieczarnodunajecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieczarnodunajeckich	nieczarnodunajecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieczarnodunajeckiego	nieczarnodunajecki	adj:sg:acc:m1.m2:pos		
+nieczarnodunajeckiego	nieczarnodunajecki	adj:sg:gen:m1.m2.m3.n:pos		
+nieczarnodunajeckiej	nieczarnodunajecki	adj:sg:dat:f:pos		
+nieczarnodunajeckiej	nieczarnodunajecki	adj:sg:gen:f:pos		
+nieczarnodunajeckiej	nieczarnodunajecki	adj:sg:loc:f:pos		
+nieczarnodunajeckiemu	nieczarnodunajecki	adj:sg:dat:m1.m2.m3.n:pos		
+nieczarnodunajeckie	nieczarnodunajecki	adj:pl:acc:m2.m3.f.n:pos		
+nieczarnodunajeckie	nieczarnodunajecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieczarnodunajeckie	nieczarnodunajecki	adj:sg:acc:n:pos		
+nieczarnodunajeckie	nieczarnodunajecki	adj:sg:nom.voc:n:pos		
+nieczarnodunajeckimi	nieczarnodunajecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieczarnodunajeckim	nieczarnodunajecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieczarnodunajeckim	nieczarnodunajecki	adj:sg:inst:m1.m2.m3.n:pos		
+nieczarnodunajeckim	nieczarnodunajecki	adj:sg:loc:m1.m2.m3.n:pos		
+nieczarnodunajecki	nieczarnodunajecki	adj:sg:acc:m3:pos		
+nieczarnodunajecki	nieczarnodunajecki	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczarnodunajecko	nieczarnodunajecki	adja		
+nieczarnodunajecku	nieczarnodunajecki	adjp:dat		
 nieczarnogiełdowościach	nieczarnogiełdowość	subst:pl:loc:f	nazwa pospolita	
 nieczarnogiełdowościami	nieczarnogiełdowość	subst:pl:inst:f	nazwa pospolita	
 nieczarnogiełdowością	nieczarnogiełdowość	subst:sg:inst:f	nazwa pospolita	
@@ -45381,6 +45952,31 @@ nieczarnowłosym	nieczarnowłosy	adj:sg:inst:m1.m2.m3.n:pos
 nieczarnowłosym	nieczarnowłosy	adj:sg:loc:m1.m2.m3.n:pos		
 nieczarnowłosy	nieczarnowłosy	adj:sg:acc:m3:pos		
 nieczarnowłosy	nieczarnowłosy	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczarnowodzcy	nieczarnowodzki	adj:pl:nom.voc:m1:pos		
+nieczarnowodzka	nieczarnowodzki	adj:sg:nom.voc:f:pos		
+nieczarnowodzką	nieczarnowodzki	adj:sg:acc:f:pos		
+nieczarnowodzką	nieczarnowodzki	adj:sg:inst:f:pos		
+nieczarnowodzkich	nieczarnowodzki	adj:pl:acc:m1:pos		
+nieczarnowodzkich	nieczarnowodzki	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieczarnowodzkich	nieczarnowodzki	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieczarnowodzkiego	nieczarnowodzki	adj:sg:acc:m1.m2:pos		
+nieczarnowodzkiego	nieczarnowodzki	adj:sg:gen:m1.m2.m3.n:pos		
+nieczarnowodzkiej	nieczarnowodzki	adj:sg:dat:f:pos		
+nieczarnowodzkiej	nieczarnowodzki	adj:sg:gen:f:pos		
+nieczarnowodzkiej	nieczarnowodzki	adj:sg:loc:f:pos		
+nieczarnowodzkiemu	nieczarnowodzki	adj:sg:dat:m1.m2.m3.n:pos		
+nieczarnowodzkie	nieczarnowodzki	adj:pl:acc:m2.m3.f.n:pos		
+nieczarnowodzkie	nieczarnowodzki	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieczarnowodzkie	nieczarnowodzki	adj:sg:acc:n:pos		
+nieczarnowodzkie	nieczarnowodzki	adj:sg:nom.voc:n:pos		
+nieczarnowodzkimi	nieczarnowodzki	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieczarnowodzkim	nieczarnowodzki	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieczarnowodzkim	nieczarnowodzki	adj:sg:inst:m1.m2.m3.n:pos		
+nieczarnowodzkim	nieczarnowodzki	adj:sg:loc:m1.m2.m3.n:pos		
+nieczarnowodzki	nieczarnowodzki	adj:sg:acc:m3:pos		
+nieczarnowodzki	nieczarnowodzki	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczarnowodzko	nieczarnowodzki	adja		
+nieczarnowodzku	nieczarnowodzki	adjp:dat		
 nieczarnowscy	nieczarnowski	adj:pl:nom.voc:m1:pos		
 nieczarnowska	nieczarnowski	adj:sg:nom.voc:f:pos		
 nieczarnowską	nieczarnowski	adj:sg:acc:f:pos		
@@ -48321,6 +48917,31 @@ nieczerwliwym	nieczerwliwy	adj:sg:inst:m1.m2.m3.n:pos
 nieczerwliwym	nieczerwliwy	adj:sg:loc:m1.m2.m3.n:pos		
 nieczerwliwy	nieczerwliwy	adj:sg:acc:m3:pos		
 nieczerwliwy	nieczerwliwy	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczerwonaccy	nieczerwonacki	adj:pl:nom.voc:m1:pos		
+nieczerwonacka	nieczerwonacki	adj:sg:nom.voc:f:pos		
+nieczerwonacką	nieczerwonacki	adj:sg:acc:f:pos		
+nieczerwonacką	nieczerwonacki	adj:sg:inst:f:pos		
+nieczerwonackich	nieczerwonacki	adj:pl:acc:m1:pos		
+nieczerwonackich	nieczerwonacki	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieczerwonackich	nieczerwonacki	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieczerwonackiego	nieczerwonacki	adj:sg:acc:m1.m2:pos		
+nieczerwonackiego	nieczerwonacki	adj:sg:gen:m1.m2.m3.n:pos		
+nieczerwonackiej	nieczerwonacki	adj:sg:dat:f:pos		
+nieczerwonackiej	nieczerwonacki	adj:sg:gen:f:pos		
+nieczerwonackiej	nieczerwonacki	adj:sg:loc:f:pos		
+nieczerwonackiemu	nieczerwonacki	adj:sg:dat:m1.m2.m3.n:pos		
+nieczerwonackie	nieczerwonacki	adj:pl:acc:m2.m3.f.n:pos		
+nieczerwonackie	nieczerwonacki	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieczerwonackie	nieczerwonacki	adj:sg:acc:n:pos		
+nieczerwonackie	nieczerwonacki	adj:sg:nom.voc:n:pos		
+nieczerwonackimi	nieczerwonacki	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieczerwonackim	nieczerwonacki	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieczerwonackim	nieczerwonacki	adj:sg:inst:m1.m2.m3.n:pos		
+nieczerwonackim	nieczerwonacki	adj:sg:loc:m1.m2.m3.n:pos		
+nieczerwonacki	nieczerwonacki	adj:sg:acc:m3:pos		
+nieczerwonacki	nieczerwonacki	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczerwonacko	nieczerwonacki	adja		
+nieczerwonacku	nieczerwonacki	adjp:dat		
 nieczerwonawo	nieczerwonawo	adv:pos		
 nieczerwonawościach	nieczerwonawość	subst:pl:loc:f	nazwa pospolita	
 nieczerwonawościami	nieczerwonawość	subst:pl:inst:f	nazwa pospolita	
@@ -52353,6 +52974,31 @@ nieczuciowym	nieczuciowy	adj:sg:inst:m1.m2.m3.n:pos
 nieczuciowym	nieczuciowy	adj:sg:loc:m1.m2.m3.n:pos		
 nieczuciowy	nieczuciowy	adj:sg:acc:m3:pos		
 nieczuciowy	nieczuciowy	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczudeccy	nieczudecki	adj:pl:nom.voc:m1:pos		
+nieczudecka	nieczudecki	adj:sg:nom.voc:f:pos		
+nieczudecką	nieczudecki	adj:sg:acc:f:pos		
+nieczudecką	nieczudecki	adj:sg:inst:f:pos		
+nieczudeckich	nieczudecki	adj:pl:acc:m1:pos		
+nieczudeckich	nieczudecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieczudeckich	nieczudecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieczudeckiego	nieczudecki	adj:sg:acc:m1.m2:pos		
+nieczudeckiego	nieczudecki	adj:sg:gen:m1.m2.m3.n:pos		
+nieczudeckiej	nieczudecki	adj:sg:dat:f:pos		
+nieczudeckiej	nieczudecki	adj:sg:gen:f:pos		
+nieczudeckiej	nieczudecki	adj:sg:loc:f:pos		
+nieczudeckiemu	nieczudecki	adj:sg:dat:m1.m2.m3.n:pos		
+nieczudeckie	nieczudecki	adj:pl:acc:m2.m3.f.n:pos		
+nieczudeckie	nieczudecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieczudeckie	nieczudecki	adj:sg:acc:n:pos		
+nieczudeckie	nieczudecki	adj:sg:nom.voc:n:pos		
+nieczudeckimi	nieczudecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieczudeckim	nieczudecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieczudeckim	nieczudecki	adj:sg:inst:m1.m2.m3.n:pos		
+nieczudeckim	nieczudecki	adj:sg:loc:m1.m2.m3.n:pos		
+nieczudecki	nieczudecki	adj:sg:acc:m3:pos		
+nieczudecki	nieczudecki	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczudecko	nieczudecki	adja		
+nieczudecku	nieczudecki	adjp:dat		
 nieczujnie	nieczujnie	adv:pos		
 nieczujnikowościach	nieczujnikowość	subst:pl:loc:f	nazwa pospolita	
 nieczujnikowościami	nieczujnikowość	subst:pl:inst:f	nazwa pospolita	
@@ -54557,6 +55203,31 @@ nieczytelnym	nieczytelny	adj:sg:inst:m1.m2.m3.n:pos
 nieczytelnym	nieczytelny	adj:sg:loc:m1.m2.m3.n:pos		
 nieczytelny	nieczytelny	adj:sg:acc:m3:pos		
 nieczytelny	nieczytelny	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczyżeńscy	nieczyżeński	adj:pl:nom.voc:m1:pos		
+nieczyżeńska	nieczyżeński	adj:sg:nom.voc:f:pos		
+nieczyżeńską	nieczyżeński	adj:sg:acc:f:pos		
+nieczyżeńską	nieczyżeński	adj:sg:inst:f:pos		
+nieczyżeńskich	nieczyżeński	adj:pl:acc:m1:pos		
+nieczyżeńskich	nieczyżeński	adj:pl:gen:m1.m2.m3.f.n:pos		
+nieczyżeńskich	nieczyżeński	adj:pl:loc:m1.m2.m3.f.n:pos		
+nieczyżeńskiego	nieczyżeński	adj:sg:acc:m1.m2:pos		
+nieczyżeńskiego	nieczyżeński	adj:sg:gen:m1.m2.m3.n:pos		
+nieczyżeńskiej	nieczyżeński	adj:sg:dat:f:pos		
+nieczyżeńskiej	nieczyżeński	adj:sg:gen:f:pos		
+nieczyżeńskiej	nieczyżeński	adj:sg:loc:f:pos		
+nieczyżeńskiemu	nieczyżeński	adj:sg:dat:m1.m2.m3.n:pos		
+nieczyżeńskie	nieczyżeński	adj:pl:acc:m2.m3.f.n:pos		
+nieczyżeńskie	nieczyżeński	adj:pl:nom.voc:m2.m3.f.n:pos		
+nieczyżeńskie	nieczyżeński	adj:sg:acc:n:pos		
+nieczyżeńskie	nieczyżeński	adj:sg:nom.voc:n:pos		
+nieczyżeńskimi	nieczyżeński	adj:pl:inst:m1.m2.m3.f.n:pos		
+nieczyżeńskim	nieczyżeński	adj:pl:dat:m1.m2.m3.f.n:pos		
+nieczyżeńskim	nieczyżeński	adj:sg:inst:m1.m2.m3.n:pos		
+nieczyżeńskim	nieczyżeński	adj:sg:loc:m1.m2.m3.n:pos		
+nieczyżeński	nieczyżeński	adj:sg:acc:m3:pos		
+nieczyżeński	nieczyżeński	adj:sg:nom.voc:m1.m2.m3:pos		
+nieczyżeńsko	nieczyżeński	adja		
+nieczyżeńsku	nieczyżeński	adjp:dat		
 nieczyżewscy	nieczyżewski	adj:pl:nom.voc:m1:pos		
 nieczyżewska	nieczyżewski	adj:sg:nom.voc:f:pos		
 nieczyżewską	nieczyżewski	adj:sg:acc:f:pos		

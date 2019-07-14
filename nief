@@ -7600,6 +7600,31 @@ niefyrknięciem	fyrknąć	ger:sg:inst:n:perf:neg
 niefyrknięciom	fyrknąć	ger:pl:dat:n:perf:neg		
 niefyrknięciu	fyrknąć	ger:sg:dat.loc:n:perf:neg		
 niefyrknięć	fyrknąć	ger:pl:gen:n:perf:neg		
+niefabianeccy	niefabianecki	adj:pl:nom.voc:m1:pos		
+niefabianecka	niefabianecki	adj:sg:nom.voc:f:pos		
+niefabianecką	niefabianecki	adj:sg:acc:f:pos		
+niefabianecką	niefabianecki	adj:sg:inst:f:pos		
+niefabianeckich	niefabianecki	adj:pl:acc:m1:pos		
+niefabianeckich	niefabianecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+niefabianeckich	niefabianecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+niefabianeckiego	niefabianecki	adj:sg:acc:m1.m2:pos		
+niefabianeckiego	niefabianecki	adj:sg:gen:m1.m2.m3.n:pos		
+niefabianeckiej	niefabianecki	adj:sg:dat:f:pos		
+niefabianeckiej	niefabianecki	adj:sg:gen:f:pos		
+niefabianeckiej	niefabianecki	adj:sg:loc:f:pos		
+niefabianeckiemu	niefabianecki	adj:sg:dat:m1.m2.m3.n:pos		
+niefabianeckie	niefabianecki	adj:pl:acc:m2.m3.f.n:pos		
+niefabianeckie	niefabianecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+niefabianeckie	niefabianecki	adj:sg:acc:n:pos		
+niefabianeckie	niefabianecki	adj:sg:nom.voc:n:pos		
+niefabianeckimi	niefabianecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+niefabianeckim	niefabianecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+niefabianeckim	niefabianecki	adj:sg:inst:m1.m2.m3.n:pos		
+niefabianeckim	niefabianecki	adj:sg:loc:m1.m2.m3.n:pos		
+niefabianecki	niefabianecki	adj:sg:acc:m3:pos		
+niefabianecki	niefabianecki	adj:sg:nom.voc:m1.m2.m3:pos		
+niefabianecko	niefabianecki	adja		
+niefabianecku	niefabianecki	adjp:dat		
 niefabiańscy	niefabiański	adj:pl:nom.voc:m1:pos		
 niefabiańska	niefabiański	adj:sg:nom.voc:f:pos		
 niefabiańską	niefabiański	adj:sg:acc:f:pos		
@@ -27356,6 +27381,31 @@ niefryszerskości	niefryszerskość	subst:sg:voc:f	nazwa pospolita
 niefryszerskościom	niefryszerskość	subst:pl:dat:f	nazwa pospolita	
 niefryszerskość	niefryszerskość	subst:sg:acc:f	nazwa pospolita	
 niefryszerskość	niefryszerskość	subst:sg:nom:f	nazwa pospolita	
+niefrysztaccy	niefrysztacki	adj:pl:nom.voc:m1:pos		
+niefrysztacka	niefrysztacki	adj:sg:nom.voc:f:pos		
+niefrysztacką	niefrysztacki	adj:sg:acc:f:pos		
+niefrysztacką	niefrysztacki	adj:sg:inst:f:pos		
+niefrysztackich	niefrysztacki	adj:pl:acc:m1:pos		
+niefrysztackich	niefrysztacki	adj:pl:gen:m1.m2.m3.f.n:pos		
+niefrysztackich	niefrysztacki	adj:pl:loc:m1.m2.m3.f.n:pos		
+niefrysztackiego	niefrysztacki	adj:sg:acc:m1.m2:pos		
+niefrysztackiego	niefrysztacki	adj:sg:gen:m1.m2.m3.n:pos		
+niefrysztackiej	niefrysztacki	adj:sg:dat:f:pos		
+niefrysztackiej	niefrysztacki	adj:sg:gen:f:pos		
+niefrysztackiej	niefrysztacki	adj:sg:loc:f:pos		
+niefrysztackiemu	niefrysztacki	adj:sg:dat:m1.m2.m3.n:pos		
+niefrysztackie	niefrysztacki	adj:pl:acc:m2.m3.f.n:pos		
+niefrysztackie	niefrysztacki	adj:pl:nom.voc:m2.m3.f.n:pos		
+niefrysztackie	niefrysztacki	adj:sg:acc:n:pos		
+niefrysztackie	niefrysztacki	adj:sg:nom.voc:n:pos		
+niefrysztackimi	niefrysztacki	adj:pl:inst:m1.m2.m3.f.n:pos		
+niefrysztackim	niefrysztacki	adj:pl:dat:m1.m2.m3.f.n:pos		
+niefrysztackim	niefrysztacki	adj:sg:inst:m1.m2.m3.n:pos		
+niefrysztackim	niefrysztacki	adj:sg:loc:m1.m2.m3.n:pos		
+niefrysztacki	niefrysztacki	adj:sg:acc:m3:pos		
+niefrysztacki	niefrysztacki	adj:sg:nom.voc:m1.m2.m3:pos		
+niefrysztacko	niefrysztacki	adja		
+niefrysztacku	niefrysztacki	adjp:dat		
 niefrywolitkowościach	niefrywolitkowość	subst:pl:loc:f	nazwa pospolita	
 niefrywolitkowościami	niefrywolitkowość	subst:pl:inst:f	nazwa pospolita	
 niefrywolitkowością	niefrywolitkowość	subst:sg:inst:f	nazwa pospolita	

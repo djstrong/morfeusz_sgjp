@@ -1,4 +1,52 @@
 fa	fa	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	muz.
+fabianczanach	fabianczanin	subst:pl:loc:m1	nazwa pospolita	
+fabianczanami	fabianczanin	subst:pl:inst:m1	nazwa pospolita	
+fabianczan	fabianczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+fabianczanie	fabianczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+fabianczanina	fabianczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+fabianczaninem	fabianczanin	subst:sg:inst:m1	nazwa pospolita	
+fabianczanin	fabianczanin	subst:sg:nom:m1	nazwa pospolita	
+fabianczaninie	fabianczanin	subst:sg:loc:m1	nazwa pospolita	
+fabianczaninie	fabianczanin	subst:sg:voc:m1	nazwa pospolita	
+fabianczaninowi	fabianczanin	subst:sg:dat:m1	nazwa pospolita	
+fabianczanom	fabianczanin	subst:pl:dat:m1	nazwa pospolita	
+fabianczany	fabianczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+fabianczance	fabianczanka	subst:sg:dat.loc:f	nazwa pospolita	
+fabianczanek	fabianczanka	subst:pl:gen:f	nazwa pospolita	
+fabianczankach	fabianczanka	subst:pl:loc:f	nazwa pospolita	
+fabianczanka	fabianczanka	subst:sg:nom:f	nazwa pospolita	
+fabianczankami	fabianczanka	subst:pl:inst:f	nazwa pospolita	
+fabianczanką	fabianczanka	subst:sg:inst:f	nazwa pospolita	
+fabianczankę	fabianczanka	subst:sg:acc:f	nazwa pospolita	
+fabianczanki	fabianczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+fabianczanki	fabianczanka	subst:sg:gen:f	nazwa pospolita	
+fabianczanko	fabianczanka	subst:sg:voc:f	nazwa pospolita	
+fabianczankom	fabianczanka	subst:pl:dat:f	nazwa pospolita	
+fabianeccy	fabianecki	adj:pl:nom.voc:m1:pos		
+fabianecka	fabianecki	adj:sg:nom.voc:f:pos		
+fabianecką	fabianecki	adj:sg:acc:f:pos		
+fabianecką	fabianecki	adj:sg:inst:f:pos		
+fabianeckich	fabianecki	adj:pl:acc:m1:pos		
+fabianeckich	fabianecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+fabianeckich	fabianecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+fabianeckie	fabianecki	adj:pl:acc:m2.m3.f.n:pos		
+fabianeckie	fabianecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+fabianeckie	fabianecki	adj:sg:acc:n:pos		
+fabianeckie	fabianecki	adj:sg:nom.voc:n:pos		
+fabianeckiego	fabianecki	adj:sg:acc:m1.m2:pos		
+fabianeckiego	fabianecki	adj:sg:gen:m1.m2.m3.n:pos		
+fabianeckiej	fabianecki	adj:sg:dat:f:pos		
+fabianeckiej	fabianecki	adj:sg:gen:f:pos		
+fabianeckiej	fabianecki	adj:sg:loc:f:pos		
+fabianeckiemu	fabianecki	adj:sg:dat:m1.m2.m3.n:pos		
+fabianecki	fabianecki	adj:sg:acc:m3:pos		
+fabianecki	fabianecki	adj:sg:nom.voc:m1.m2.m3:pos		
+fabianeckim	fabianecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+fabianeckim	fabianecki	adj:sg:inst:m1.m2.m3.n:pos		
+fabianeckim	fabianecki	adj:sg:loc:m1.m2.m3.n:pos		
+fabianeckimi	fabianecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+fabianecko	fabianecki	adja		
+fabianecku	fabianecki	adjp:dat		
 fabianach	fabianin	subst:pl:loc:m1	nazwa pospolita	
 fabianami	fabianin	subst:pl:inst:m1	nazwa pospolita	
 fabian	fabianin	subst:pl:gen.acc:m1	nazwa pospolita	
@@ -3108,6 +3156,29 @@ fajsławickości	fajsławickość	subst:sg:voc:f	nazwa pospolita
 fajsławickościom	fajsławickość	subst:pl:dat:f	nazwa pospolita	
 fajsławickość	fajsławickość	subst:sg:acc:f	nazwa pospolita	
 fajsławickość	fajsławickość	subst:sg:nom:f	nazwa pospolita	
+fajsławiczanach	fajsławiczanin	subst:pl:loc:m1	nazwa pospolita	
+fajsławiczanami	fajsławiczanin	subst:pl:inst:m1	nazwa pospolita	
+fajsławiczan	fajsławiczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+fajsławiczanie	fajsławiczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+fajsławiczanina	fajsławiczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+fajsławiczaninem	fajsławiczanin	subst:sg:inst:m1	nazwa pospolita	
+fajsławiczanin	fajsławiczanin	subst:sg:nom:m1	nazwa pospolita	
+fajsławiczaninie	fajsławiczanin	subst:sg:loc:m1	nazwa pospolita	
+fajsławiczaninie	fajsławiczanin	subst:sg:voc:m1	nazwa pospolita	
+fajsławiczaninowi	fajsławiczanin	subst:sg:dat:m1	nazwa pospolita	
+fajsławiczanom	fajsławiczanin	subst:pl:dat:m1	nazwa pospolita	
+fajsławiczany	fajsławiczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+fajsławiczance	fajsławiczanka	subst:sg:dat.loc:f	nazwa pospolita	
+fajsławiczanek	fajsławiczanka	subst:pl:gen:f	nazwa pospolita	
+fajsławiczankach	fajsławiczanka	subst:pl:loc:f	nazwa pospolita	
+fajsławiczanka	fajsławiczanka	subst:sg:nom:f	nazwa pospolita	
+fajsławiczankami	fajsławiczanka	subst:pl:inst:f	nazwa pospolita	
+fajsławiczanką	fajsławiczanka	subst:sg:inst:f	nazwa pospolita	
+fajsławiczankę	fajsławiczanka	subst:sg:acc:f	nazwa pospolita	
+fajsławiczanki	fajsławiczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+fajsławiczanki	fajsławiczanka	subst:sg:gen:f	nazwa pospolita	
+fajsławiczanko	fajsławiczanka	subst:sg:voc:f	nazwa pospolita	
+fajsławiczankom	fajsławiczanka	subst:pl:dat:f	nazwa pospolita	
 fajt	fajt	interj		
 fajtacie	fajtać	fin:pl:sec:imperf		
 fajtać	fajtać	inf:imperf		
@@ -6782,6 +6853,29 @@ fałesznym	fałeszny	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
 fałesznym	fałeszny	adj:sg:inst:m1.m2.m3.n:pos		daw.
 fałesznym	fałeszny	adj:sg:loc:m1.m2.m3.n:pos		daw.
 fałesznymi	fałeszny	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
+fałkowianach	fałkowianin	subst:pl:loc:m1	nazwa pospolita	
+fałkowianami	fałkowianin	subst:pl:inst:m1	nazwa pospolita	
+fałkowian	fałkowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+fałkowianie	fałkowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+fałkowianina	fałkowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+fałkowianinem	fałkowianin	subst:sg:inst:m1	nazwa pospolita	
+fałkowianin	fałkowianin	subst:sg:nom:m1	nazwa pospolita	
+fałkowianinie	fałkowianin	subst:sg:loc:m1	nazwa pospolita	
+fałkowianinie	fałkowianin	subst:sg:voc:m1	nazwa pospolita	
+fałkowianinowi	fałkowianin	subst:sg:dat:m1	nazwa pospolita	
+fałkowianom	fałkowianin	subst:pl:dat:m1	nazwa pospolita	
+fałkowiany	fałkowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+fałkowiance	fałkowianka	subst:sg:dat.loc:f	nazwa pospolita	
+fałkowianek	fałkowianka	subst:pl:gen:f	nazwa pospolita	
+fałkowiankach	fałkowianka	subst:pl:loc:f	nazwa pospolita	
+fałkowianka	fałkowianka	subst:sg:nom:f	nazwa pospolita	
+fałkowiankami	fałkowianka	subst:pl:inst:f	nazwa pospolita	
+fałkowianką	fałkowianka	subst:sg:inst:f	nazwa pospolita	
+fałkowiankę	fałkowianka	subst:sg:acc:f	nazwa pospolita	
+fałkowianki	fałkowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+fałkowianki	fałkowianka	subst:sg:gen:f	nazwa pospolita	
+fałkowianko	fałkowianka	subst:sg:voc:f	nazwa pospolita	
+fałkowiankom	fałkowianka	subst:pl:dat:f	nazwa pospolita	
 fałkowscy	fałkowski	adj:pl:nom.voc:m1:pos		
 fałkowska	fałkowski	adj:sg:nom.voc:f:pos		
 fałkowską	fałkowski	adj:sg:acc:f:pos		
@@ -24964,6 +25058,29 @@ filiponom	filipon	subst:pl:dat:m1	nazwa pospolita
 filiponowi	filipon	subst:sg:dat:m1	nazwa pospolita	
 filiponów	filipon	subst:pl:gen.acc:m1	nazwa pospolita	
 filipony	filipon	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+filipowianach	filipowianin	subst:pl:loc:m1	nazwa pospolita	
+filipowianami	filipowianin	subst:pl:inst:m1	nazwa pospolita	
+filipowian	filipowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+filipowianie	filipowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+filipowianina	filipowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+filipowianinem	filipowianin	subst:sg:inst:m1	nazwa pospolita	
+filipowianin	filipowianin	subst:sg:nom:m1	nazwa pospolita	
+filipowianinie	filipowianin	subst:sg:loc:m1	nazwa pospolita	
+filipowianinie	filipowianin	subst:sg:voc:m1	nazwa pospolita	
+filipowianinowi	filipowianin	subst:sg:dat:m1	nazwa pospolita	
+filipowianom	filipowianin	subst:pl:dat:m1	nazwa pospolita	
+filipowiany	filipowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+filipowiance	filipowianka	subst:sg:dat.loc:f	nazwa pospolita	
+filipowianek	filipowianka	subst:pl:gen:f	nazwa pospolita	
+filipowiankach	filipowianka	subst:pl:loc:f	nazwa pospolita	
+filipowianka	filipowianka	subst:sg:nom:f	nazwa pospolita	
+filipowiankami	filipowianka	subst:pl:inst:f	nazwa pospolita	
+filipowianką	filipowianka	subst:sg:inst:f	nazwa pospolita	
+filipowiankę	filipowianka	subst:sg:acc:f	nazwa pospolita	
+filipowianki	filipowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+filipowianki	filipowianka	subst:sg:gen:f	nazwa pospolita	
+filipowianko	filipowianka	subst:sg:voc:f	nazwa pospolita	
+filipowiankom	filipowianka	subst:pl:dat:f	nazwa pospolita	
 filipowscy	filipowski	adj:pl:nom.voc:m1:pos		
 filipowska	filipowski	adj:sg:nom.voc:f:pos		
 filipowską	filipowski	adj:sg:acc:f:pos		
@@ -29045,6 +29162,29 @@ firlejowi	firlej	subst:sg:dat:m3	nazwa pospolita	daw.
 firlejów	firlej	subst:pl:gen:m3	nazwa pospolita	daw.
 firleju	firlej	subst:sg:loc:m3	nazwa pospolita	daw.
 firleju	firlej	subst:sg:voc:m3	nazwa pospolita	daw.
+firlejanach	firlejanin	subst:pl:loc:m1	nazwa pospolita	
+firlejanami	firlejanin	subst:pl:inst:m1	nazwa pospolita	
+firlejan	firlejanin	subst:pl:gen.acc:m1	nazwa pospolita	
+firlejanie	firlejanin	subst:pl:nom.voc:m1	nazwa pospolita	
+firlejanina	firlejanin	subst:sg:gen.acc:m1	nazwa pospolita	
+firlejaninem	firlejanin	subst:sg:inst:m1	nazwa pospolita	
+firlejanin	firlejanin	subst:sg:nom:m1	nazwa pospolita	
+firlejaninie	firlejanin	subst:sg:loc:m1	nazwa pospolita	
+firlejaninie	firlejanin	subst:sg:voc:m1	nazwa pospolita	
+firlejaninowi	firlejanin	subst:sg:dat:m1	nazwa pospolita	
+firlejanom	firlejanin	subst:pl:dat:m1	nazwa pospolita	
+firlejany	firlejanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+firlejance	firlejanka	subst:sg:dat.loc:f	nazwa pospolita	
+firlejanek	firlejanka	subst:pl:gen:f	nazwa pospolita	
+firlejankach	firlejanka	subst:pl:loc:f	nazwa pospolita	
+firlejanka	firlejanka	subst:sg:nom:f	nazwa pospolita	
+firlejankami	firlejanka	subst:pl:inst:f	nazwa pospolita	
+firlejanką	firlejanka	subst:sg:inst:f	nazwa pospolita	
+firlejankę	firlejanka	subst:sg:acc:f	nazwa pospolita	
+firlejanki	firlejanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+firlejanki	firlejanka	subst:sg:gen:f	nazwa pospolita	
+firlejanko	firlejanka	subst:sg:voc:f	nazwa pospolita	
+firlejankom	firlejanka	subst:pl:dat:f	nazwa pospolita	
 firlejscy	firlejski	adj:pl:nom.voc:m1:pos		
 firlejska	firlejski	adj:sg:nom.voc:f:pos		
 firlejską	firlejski	adj:sg:acc:f:pos		
@@ -49383,6 +49523,29 @@ framboezji	framboezja	subst:sg:gen:f	nazwa pospolita
 framboezjo	framboezja	subst:sg:voc:f	nazwa pospolita	
 framboezjom	framboezja	subst:pl:dat:f	nazwa pospolita	
 framboezyj	framboezja	subst:pl:gen:f	nazwa pospolita	arch.|char.
+frampolanach	frampolanin	subst:pl:loc:m1	nazwa pospolita	
+frampolanami	frampolanin	subst:pl:inst:m1	nazwa pospolita	
+frampolan	frampolanin	subst:pl:gen.acc:m1	nazwa pospolita	
+frampolanie	frampolanin	subst:pl:nom.voc:m1	nazwa pospolita	
+frampolanina	frampolanin	subst:sg:gen.acc:m1	nazwa pospolita	
+frampolaninem	frampolanin	subst:sg:inst:m1	nazwa pospolita	
+frampolanin	frampolanin	subst:sg:nom:m1	nazwa pospolita	
+frampolaninie	frampolanin	subst:sg:loc:m1	nazwa pospolita	
+frampolaninie	frampolanin	subst:sg:voc:m1	nazwa pospolita	
+frampolaninowi	frampolanin	subst:sg:dat:m1	nazwa pospolita	
+frampolanom	frampolanin	subst:pl:dat:m1	nazwa pospolita	
+frampolany	frampolanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+frampolance	frampolanka	subst:sg:dat.loc:f	nazwa pospolita	
+frampolanek	frampolanka	subst:pl:gen:f	nazwa pospolita	
+frampolankach	frampolanka	subst:pl:loc:f	nazwa pospolita	
+frampolanka	frampolanka	subst:sg:nom:f	nazwa pospolita	
+frampolankami	frampolanka	subst:pl:inst:f	nazwa pospolita	
+frampolanką	frampolanka	subst:sg:inst:f	nazwa pospolita	
+frampolankę	frampolanka	subst:sg:acc:f	nazwa pospolita	
+frampolanki	frampolanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+frampolanki	frampolanka	subst:sg:gen:f	nazwa pospolita	
+frampolanko	frampolanka	subst:sg:voc:f	nazwa pospolita	
+frampolankom	frampolanka	subst:pl:dat:f	nazwa pospolita	
 frampolscy	frampolski	adj:pl:nom.voc:m1:pos		
 frampolska	frampolski	adj:sg:nom.voc:f:pos		
 frampolską	frampolski	adj:sg:acc:f:pos		
@@ -51871,6 +52034,29 @@ fredrologowi	fredrolog	subst:sg:dat:m1	nazwa pospolita
 fredrologów	fredrolog	subst:pl:gen.acc:m1	nazwa pospolita	
 fredrologu	fredrolog	subst:sg:loc:m1	nazwa pospolita	
 fredrologu	fredrolog	subst:sg:voc:m1	nazwa pospolita	
+fredropolanach	fredropolanin	subst:pl:loc:m1	nazwa pospolita	
+fredropolanami	fredropolanin	subst:pl:inst:m1	nazwa pospolita	
+fredropolan	fredropolanin	subst:pl:gen.acc:m1	nazwa pospolita	
+fredropolanie	fredropolanin	subst:pl:nom.voc:m1	nazwa pospolita	
+fredropolanina	fredropolanin	subst:sg:gen.acc:m1	nazwa pospolita	
+fredropolaninem	fredropolanin	subst:sg:inst:m1	nazwa pospolita	
+fredropolanin	fredropolanin	subst:sg:nom:m1	nazwa pospolita	
+fredropolaninie	fredropolanin	subst:sg:loc:m1	nazwa pospolita	
+fredropolaninie	fredropolanin	subst:sg:voc:m1	nazwa pospolita	
+fredropolaninowi	fredropolanin	subst:sg:dat:m1	nazwa pospolita	
+fredropolanom	fredropolanin	subst:pl:dat:m1	nazwa pospolita	
+fredropolany	fredropolanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+fredropolance	fredropolanka	subst:sg:dat.loc:f	nazwa pospolita	
+fredropolanek	fredropolanka	subst:pl:gen:f	nazwa pospolita	
+fredropolankach	fredropolanka	subst:pl:loc:f	nazwa pospolita	
+fredropolanka	fredropolanka	subst:sg:nom:f	nazwa pospolita	
+fredropolankami	fredropolanka	subst:pl:inst:f	nazwa pospolita	
+fredropolanką	fredropolanka	subst:sg:inst:f	nazwa pospolita	
+fredropolankę	fredropolanka	subst:sg:acc:f	nazwa pospolita	
+fredropolanki	fredropolanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+fredropolanki	fredropolanka	subst:sg:gen:f	nazwa pospolita	
+fredropolanko	fredropolanka	subst:sg:voc:f	nazwa pospolita	
+fredropolankom	fredropolanka	subst:pl:dat:f	nazwa pospolita	
 fredropolscy	fredropolski	adj:pl:nom.voc:m1:pos		
 fredropolska	fredropolski	adj:sg:nom.voc:f:pos		
 fredropolską	fredropolski	adj:sg:acc:f:pos		
@@ -53084,6 +53270,29 @@ friulskości	friulskość	subst:sg:voc:f	nazwa pospolita
 friulskościom	friulskość	subst:pl:dat:f	nazwa pospolita	
 friulskość	friulskość	subst:sg:acc:f	nazwa pospolita	
 friulskość	friulskość	subst:sg:nom:f	nazwa pospolita	
+fromborczanach	fromborczanin	subst:pl:loc:m1	nazwa pospolita	
+fromborczanami	fromborczanin	subst:pl:inst:m1	nazwa pospolita	
+fromborczan	fromborczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+fromborczanie	fromborczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+fromborczanina	fromborczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+fromborczaninem	fromborczanin	subst:sg:inst:m1	nazwa pospolita	
+fromborczanin	fromborczanin	subst:sg:nom:m1	nazwa pospolita	
+fromborczaninie	fromborczanin	subst:sg:loc:m1	nazwa pospolita	
+fromborczaninie	fromborczanin	subst:sg:voc:m1	nazwa pospolita	
+fromborczaninowi	fromborczanin	subst:sg:dat:m1	nazwa pospolita	
+fromborczanom	fromborczanin	subst:pl:dat:m1	nazwa pospolita	
+fromborczany	fromborczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+fromborczance	fromborczanka	subst:sg:dat.loc:f	nazwa pospolita	
+fromborczanek	fromborczanka	subst:pl:gen:f	nazwa pospolita	
+fromborczankach	fromborczanka	subst:pl:loc:f	nazwa pospolita	
+fromborczanka	fromborczanka	subst:sg:nom:f	nazwa pospolita	
+fromborczankami	fromborczanka	subst:pl:inst:f	nazwa pospolita	
+fromborczanką	fromborczanka	subst:sg:inst:f	nazwa pospolita	
+fromborczankę	fromborczanka	subst:sg:acc:f	nazwa pospolita	
+fromborczanki	fromborczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+fromborczanki	fromborczanka	subst:sg:gen:f	nazwa pospolita	
+fromborczanko	fromborczanka	subst:sg:voc:f	nazwa pospolita	
+fromborczankom	fromborczanka	subst:pl:dat:f	nazwa pospolita	
 fromborscy	fromborski	adj:pl:nom.voc:m1:pos		
 fromborska	fromborski	adj:sg:nom.voc:f:pos		
 fromborską	fromborski	adj:sg:acc:f:pos		
@@ -55573,6 +55782,54 @@ frysztowi	fryszt	subst:sg:dat:m3	nazwa pospolita	daw.
 frysztów	fryszt	subst:pl:gen:m3	nazwa pospolita	daw.
 frysztu	fryszt	subst:sg:gen:m3	nazwa pospolita	daw.
 fryszty	fryszt	subst:pl:nom.acc.voc:m3	nazwa pospolita	daw.
+frysztaccy	frysztacki	adj:pl:nom.voc:m1:pos		
+frysztacka	frysztacki	adj:sg:nom.voc:f:pos		
+frysztacką	frysztacki	adj:sg:acc:f:pos		
+frysztacką	frysztacki	adj:sg:inst:f:pos		
+frysztackich	frysztacki	adj:pl:acc:m1:pos		
+frysztackich	frysztacki	adj:pl:gen:m1.m2.m3.f.n:pos		
+frysztackich	frysztacki	adj:pl:loc:m1.m2.m3.f.n:pos		
+frysztackie	frysztacki	adj:pl:acc:m2.m3.f.n:pos		
+frysztackie	frysztacki	adj:pl:nom.voc:m2.m3.f.n:pos		
+frysztackie	frysztacki	adj:sg:acc:n:pos		
+frysztackie	frysztacki	adj:sg:nom.voc:n:pos		
+frysztackiego	frysztacki	adj:sg:acc:m1.m2:pos		
+frysztackiego	frysztacki	adj:sg:gen:m1.m2.m3.n:pos		
+frysztackiej	frysztacki	adj:sg:dat:f:pos		
+frysztackiej	frysztacki	adj:sg:gen:f:pos		
+frysztackiej	frysztacki	adj:sg:loc:f:pos		
+frysztackiemu	frysztacki	adj:sg:dat:m1.m2.m3.n:pos		
+frysztacki	frysztacki	adj:sg:acc:m3:pos		
+frysztacki	frysztacki	adj:sg:nom.voc:m1.m2.m3:pos		
+frysztackim	frysztacki	adj:pl:dat:m1.m2.m3.f.n:pos		
+frysztackim	frysztacki	adj:sg:inst:m1.m2.m3.n:pos		
+frysztackim	frysztacki	adj:sg:loc:m1.m2.m3.n:pos		
+frysztackimi	frysztacki	adj:pl:inst:m1.m2.m3.f.n:pos		
+frysztacko	frysztacki	adja		
+frysztacku	frysztacki	adjp:dat		
+frysztaczanach	frysztaczanin	subst:pl:loc:m1	nazwa pospolita	
+frysztaczanami	frysztaczanin	subst:pl:inst:m1	nazwa pospolita	
+frysztaczan	frysztaczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+frysztaczanie	frysztaczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+frysztaczanina	frysztaczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+frysztaczaninem	frysztaczanin	subst:sg:inst:m1	nazwa pospolita	
+frysztaczanin	frysztaczanin	subst:sg:nom:m1	nazwa pospolita	
+frysztaczaninie	frysztaczanin	subst:sg:loc:m1	nazwa pospolita	
+frysztaczaninie	frysztaczanin	subst:sg:voc:m1	nazwa pospolita	
+frysztaczaninowi	frysztaczanin	subst:sg:dat:m1	nazwa pospolita	
+frysztaczanom	frysztaczanin	subst:pl:dat:m1	nazwa pospolita	
+frysztaczany	frysztaczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+frysztaczance	frysztaczanka	subst:sg:dat.loc:f	nazwa pospolita	
+frysztaczanek	frysztaczanka	subst:pl:gen:f	nazwa pospolita	
+frysztaczankach	frysztaczanka	subst:pl:loc:f	nazwa pospolita	
+frysztaczanka	frysztaczanka	subst:sg:nom:f	nazwa pospolita	
+frysztaczankami	frysztaczanka	subst:pl:inst:f	nazwa pospolita	
+frysztaczanką	frysztaczanka	subst:sg:inst:f	nazwa pospolita	
+frysztaczankę	frysztaczanka	subst:sg:acc:f	nazwa pospolita	
+frysztaczanki	frysztaczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+frysztaczanki	frysztaczanka	subst:sg:gen:f	nazwa pospolita	
+frysztaczanko	frysztaczanka	subst:sg:voc:f	nazwa pospolita	
+frysztaczankom	frysztaczanka	subst:pl:dat:f	nazwa pospolita	
 frycie	fryta	subst:sg:dat.loc:f	nazwa pospolita	
 frytach	fryta	subst:pl:loc:f	nazwa pospolita	
 fryta	fryta	subst:sg:nom:f	nazwa pospolita	
