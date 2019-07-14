@@ -43731,6 +43731,7 @@ logujesz	logować	fin:sg:sec:imperf		komp.
 loguję	logować	fin:sg:pri:imperf		komp.
 loguj	logować	impt:sg:sec:imperf		komp.
 logujmy	logować	impt:pl:pri:imperf		komp.
+loicznie	loicznie	adv:pos		daw.
 loicznościach	loiczność	subst:pl:loc:f	nazwa pospolita	daw.
 loicznościami	loiczność	subst:pl:inst:f	nazwa pospolita	daw.
 loicznością	loiczność	subst:sg:inst:f	nazwa pospolita	daw.
