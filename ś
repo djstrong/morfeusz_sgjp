@@ -35,12 +35,13 @@
 ścielący	słać:v	pact:pl:nom.voc:m1.p1:imperf:aff		
 ścielący	słać:v	pact:sg:acc:m3:imperf:aff		
 ścielący	słać:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+ścieleniach	słać:v	ger:pl:loc:n2:imperf:aff		
 ścieleniami	słać:v	ger:pl:inst:n2:imperf:aff		
 ścielenia	słać:v	ger:pl:nom.acc:n2:imperf:aff		
 ścielenia	słać:v	ger:sg:gen:n2:imperf:aff		
 ścieleniem	słać:v	ger:sg:inst:n2:imperf:aff		
 ścielenie	słać:v	ger:sg:nom.acc:n2:imperf:aff		
-ścieleniom	słać:v	ger:pl:dat.loc:n2:imperf:aff		
+ścieleniom	słać:v	ger:pl:dat:n2:imperf:aff		
 ścieleni	słać:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ścieleniu	słać:v	ger:sg:dat.loc:n2:imperf:aff		
 ścieleń	słać:v	ger:pl:gen:n2:imperf:aff		
@@ -84,12 +85,13 @@
 śniemy	snąć	fin:pl:pri:imperf		
 śnie	snąć	fin:sg:ter:imperf		
 śniesz	snąć	fin:sg:sec:imperf		
+śnięciach	snąć	ger:pl:loc:n2:imperf:aff		
 śnięciami	snąć	ger:pl:inst:n2:imperf:aff		
 śnięcia	snąć	ger:pl:nom.acc:n2:imperf:aff		
 śnięcia	snąć	ger:sg:gen:n2:imperf:aff		
 śnięciem	snąć	ger:sg:inst:n2:imperf:aff		
 śnięcie	snąć	ger:sg:nom.acc:n2:imperf:aff		
-śnięciom	snąć	ger:pl:dat.loc:n2:imperf:aff		
+śnięciom	snąć	ger:pl:dat:n2:imperf:aff		
 śnięci	snąć	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śnięciu	snąć	ger:sg:dat.loc:n2:imperf:aff		
 śnięć	snąć	ger:pl:gen:n2:imperf:aff		
@@ -223,12 +225,13 @@
 ścianowy	ścianowy	adj:sg:nom.voc:m1.m2.m3:pos		
 ściaraszą	ściaraszyć	fin:pl:ter:perf		gwar.
 ściaraszcie	ściaraszyć	impt:pl:sec:perf		gwar.
+ściaraszeniach	ściaraszyć	ger:pl:loc:n2:perf:aff		
 ściaraszeniami	ściaraszyć	ger:pl:inst:n2:perf:aff		
 ściaraszenia	ściaraszyć	ger:pl:nom.acc:n2:perf:aff		
 ściaraszenia	ściaraszyć	ger:sg:gen:n2:perf:aff		
 ściaraszeniem	ściaraszyć	ger:sg:inst:n2:perf:aff		
 ściaraszenie	ściaraszyć	ger:sg:nom.acc:n2:perf:aff		
-ściaraszeniom	ściaraszyć	ger:pl:dat.loc:n2:perf:aff		
+ściaraszeniom	ściaraszyć	ger:pl:dat:n2:perf:aff		
 ściaraszeni	ściaraszyć	ppas:pl:nom.voc:m1.p1:perf:aff		
 ściaraszeniu	ściaraszyć	ger:sg:dat.loc:n2:perf:aff		
 ściaraszeń	ściaraszyć	ger:pl:gen:n2:perf:aff		
@@ -301,12 +304,13 @@
 ściął	ściąć	praet:sg:m1.m2.m3:perf		
 ściął	ściąć	praet:sg:m1.m2.m3:ter:perf		
 ściąwszy	ściąć	pant:perf		
+ścięciach	ściąć	ger:pl:loc:n2:perf:aff		
 ścięciami	ściąć	ger:pl:inst:n2:perf:aff		
 ścięcia	ściąć	ger:pl:nom.acc:n2:perf:aff		
 ścięcia	ściąć	ger:sg:gen:n2:perf:aff		
 ścięciem	ściąć	ger:sg:inst:n2:perf:aff		
 ścięcie	ściąć	ger:sg:nom.acc:n2:perf:aff		
-ścięciom	ściąć	ger:pl:dat.loc:n2:perf:aff		
+ścięciom	ściąć	ger:pl:dat:n2:perf:aff		
 ścięci	ściąć	ppas:pl:nom.voc:m1.p1:perf:aff		
 ścięciu	ściąć	ger:sg:dat.loc:n2:perf:aff		
 ścięć	ściąć	ger:pl:gen:n2:perf:aff		
@@ -530,12 +534,13 @@
 ściąganemu	ściągać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ściągane	ściągać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ściągane	ściągać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ściąganiach	ściągać	ger:pl:loc:n2:imperf:aff		
 ściąganiami	ściągać	ger:pl:inst:n2:imperf:aff		
 ściągania	ściągać	ger:pl:nom.acc:n2:imperf:aff		
 ściągania	ściągać	ger:sg:gen:n2:imperf:aff		
 ściąganiem	ściągać	ger:sg:inst:n2:imperf:aff		
 ściąganie	ściągać	ger:sg:nom.acc:n2:imperf:aff		
-ściąganiom	ściągać	ger:pl:dat.loc:n2:imperf:aff		
+ściąganiom	ściągać	ger:pl:dat:n2:imperf:aff		
 ściągani	ściągać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ściąganiu	ściągać	ger:sg:dat.loc:n2:imperf:aff		
 ściągano	ściągać	imps:imperf		
@@ -749,12 +754,13 @@
 ściągniemy	ściągnąć	fin:pl:pri:perf		
 ściągniesz	ściągnąć	fin:sg:sec:perf		
 ściągnie	ściągnąć	fin:sg:ter:perf		
+ściągnięciach	ściągnąć	ger:pl:loc:n2:perf:aff		
 ściągnięciami	ściągnąć	ger:pl:inst:n2:perf:aff		
 ściągnięcia	ściągnąć	ger:pl:nom.acc:n2:perf:aff		
 ściągnięcia	ściągnąć	ger:sg:gen:n2:perf:aff		
 ściągnięciem	ściągnąć	ger:sg:inst:n2:perf:aff		
 ściągnięcie	ściągnąć	ger:sg:nom.acc:n2:perf:aff		
-ściągnięciom	ściągnąć	ger:pl:dat.loc:n2:perf:aff		
+ściągnięciom	ściągnąć	ger:pl:dat:n2:perf:aff		
 ściągnięci	ściągnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
 ściągnięciu	ściągnąć	ger:sg:dat.loc:n2:perf:aff		
 ściągnięć	ściągnąć	ger:pl:gen:n2:perf:aff		
@@ -835,12 +841,13 @@
 ścibanemu	ścibać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ścibane	ścibać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ścibane	ścibać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścibaniach	ścibać	ger:pl:loc:n2:imperf:aff		
 ścibaniami	ścibać	ger:pl:inst:n2:imperf:aff		
 ścibania	ścibać	ger:pl:nom.acc:n2:imperf:aff		
 ścibania	ścibać	ger:sg:gen:n2:imperf:aff		
 ścibaniem	ścibać	ger:sg:inst:n2:imperf:aff		
 ścibanie	ścibać	ger:sg:nom.acc:n2:imperf:aff		
-ścibaniom	ścibać	ger:pl:dat.loc:n2:imperf:aff		
+ścibaniom	ścibać	ger:pl:dat:n2:imperf:aff		
 ścibani	ścibać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ścibaniu	ścibać	ger:sg:dat.loc:n2:imperf:aff		
 ścibano	ścibać	imps:imperf		
@@ -899,12 +906,13 @@
 ścibią	ścibić	fin:pl:ter:imperf		
 ścibicie	ścibić	fin:pl:sec:imperf		
 ścibić	ścibić	inf:imperf		
+ścibieniach	ścibić	ger:pl:loc:n2:imperf:aff		
 ścibieniami	ścibić	ger:pl:inst:n2:imperf:aff		
 ścibienia	ścibić	ger:pl:nom.acc:n2:imperf:aff		
 ścibienia	ścibić	ger:sg:gen:n2:imperf:aff		
 ścibieniem	ścibić	ger:sg:inst:n2:imperf:aff		
 ścibienie	ścibić	ger:sg:nom.acc:n2:imperf:aff		
-ścibieniom	ścibić	ger:pl:dat.loc:n2:imperf:aff		
+ścibieniom	ścibić	ger:pl:dat:n2:imperf:aff		
 ścibieni	ścibić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ścibieniu	ścibić	ger:sg:dat.loc:n2:imperf:aff		
 ścibień	ścibić	ger:pl:gen:n2:imperf:aff		
@@ -984,12 +992,13 @@
 ścibolący	ścibolić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 ścibolą	ścibolić	fin:pl:ter:imperf		
 ścibolcie	ścibolić	impt:pl:sec:imperf		
+ściboleniach	ścibolić	ger:pl:loc:n2:imperf:aff		
 ściboleniami	ścibolić	ger:pl:inst:n2:imperf:aff		
 ścibolenia	ścibolić	ger:pl:nom.acc:n2:imperf:aff		
 ścibolenia	ścibolić	ger:sg:gen:n2:imperf:aff		
 ściboleniem	ścibolić	ger:sg:inst:n2:imperf:aff		
 ścibolenie	ścibolić	ger:sg:nom.acc:n2:imperf:aff		
-ściboleniom	ścibolić	ger:pl:dat.loc:n2:imperf:aff		
+ściboleniom	ścibolić	ger:pl:dat:n2:imperf:aff		
 ściboleni	ścibolić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ściboleniu	ścibolić	ger:sg:dat.loc:n2:imperf:aff		
 ściboleń	ścibolić	ger:pl:gen:n2:imperf:aff		
@@ -1112,12 +1121,13 @@
 ścichałyśmy	ścichać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		form.
 ścicham	ścichać	fin:sg:pri:imperf		form.
 ścichamy	ścichać	fin:pl:pri:imperf		form.
+ścichaniach	ścichać	ger:pl:loc:n2:imperf:aff		
 ścichaniami	ścichać	ger:pl:inst:n2:imperf:aff		
 ścichania	ścichać	ger:pl:nom.acc:n2:imperf:aff		
 ścichania	ścichać	ger:sg:gen:n2:imperf:aff		
 ścichaniem	ścichać	ger:sg:inst:n2:imperf:aff		
 ścichanie	ścichać	ger:sg:nom.acc:n2:imperf:aff		
-ścichaniom	ścichać	ger:pl:dat.loc:n2:imperf:aff		
+ścichaniom	ścichać	ger:pl:dat:n2:imperf:aff		
 ścichaniu	ścichać	ger:sg:dat.loc:n2:imperf:aff		
 ścichano	ścichać	imps:imperf		form.
 ścichań	ścichać	ger:pl:gen:n2:imperf:aff		
@@ -1250,12 +1260,13 @@
 ścichniesz	ścichnąć	fin:sg:sec:perf		rzad.
 ścichnie	ścichnąć	fin:sg:ter:perf		
 ścichnie	ścichnąć	fin:sg:ter:perf		rzad.
+ścichnięciach	ścichnąć	ger:pl:loc:n2:perf:aff		
 ścichnięciami	ścichnąć	ger:pl:inst:n2:perf:aff		
 ścichnięcia	ścichnąć	ger:pl:nom.acc:n2:perf:aff		
 ścichnięcia	ścichnąć	ger:sg:gen:n2:perf:aff		
 ścichnięciem	ścichnąć	ger:sg:inst:n2:perf:aff		
 ścichnięcie	ścichnąć	ger:sg:nom.acc:n2:perf:aff		
-ścichnięciom	ścichnąć	ger:pl:dat.loc:n2:perf:aff		
+ścichnięciom	ścichnąć	ger:pl:dat:n2:perf:aff		
 ścichnięciu	ścichnąć	ger:sg:dat.loc:n2:perf:aff		
 ścichnięć	ścichnąć	ger:pl:gen:n2:perf:aff		
 ścichnięto	ścichnąć	imps:perf		
@@ -1271,12 +1282,13 @@
 ścieczcie	ściec	impt:pl:sec:perf		rzad.
 ścieczecie	ściec	fin:pl:sec:perf		rzad.
 ścieczemy	ściec	fin:pl:pri:perf		rzad.
+ścieczeniach	ściec	ger:pl:loc:n2:perf:aff		rzad.
 ścieczeniami	ściec	ger:pl:inst:n2:perf:aff		rzad.
 ścieczenia	ściec	ger:pl:nom.acc:n2:perf:aff		rzad.
 ścieczenia	ściec	ger:sg:gen:n2:perf:aff		rzad.
 ścieczeniem	ściec	ger:sg:inst:n2:perf:aff		rzad.
 ścieczenie	ściec	ger:sg:nom.acc:n2:perf:aff		rzad.
-ścieczeniom	ściec	ger:pl:dat.loc:n2:perf:aff		rzad.
+ścieczeniom	ściec	ger:pl:dat:n2:perf:aff		rzad.
 ścieczeniu	ściec	ger:sg:dat.loc:n2:perf:aff		rzad.
 ścieczeń	ściec	ger:pl:gen:n2:perf:aff		rzad.
 ścieczesz	ściec	fin:sg:sec:perf		rzad.
@@ -1365,12 +1377,13 @@
 ściekniemy	ściec	fin:pl:pri:perf		
 ściekniesz	ściec	fin:sg:sec:perf		
 ścieknie	ściec	fin:sg:ter:perf		
+ścieknięciach	ściec	ger:pl:loc:n2:perf:aff		
 ścieknięciami	ściec	ger:pl:inst:n2:perf:aff		
 ścieknięcia	ściec	ger:pl:nom.acc:n2:perf:aff		
 ścieknięcia	ściec	ger:sg:gen:n2:perf:aff		
 ścieknięciem	ściec	ger:sg:inst:n2:perf:aff		
 ścieknięcie	ściec	ger:sg:nom.acc:n2:perf:aff		
-ścieknięciom	ściec	ger:pl:dat.loc:n2:perf:aff		
+ścieknięciom	ściec	ger:pl:dat:n2:perf:aff		
 ścieknięciu	ściec	ger:sg:dat.loc:n2:perf:aff		
 ścieknięć	ściec	ger:pl:gen:n2:perf:aff		
 ścieknięto	ściec	imps:perf		
@@ -1517,12 +1530,13 @@
 ściekałyśmy	ściekać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 ściekam	ściekać	fin:sg:pri:imperf		
 ściekamy	ściekać	fin:pl:pri:imperf		
+ściekaniach	ściekać	ger:pl:loc:n2:imperf:aff		
 ściekaniami	ściekać	ger:pl:inst:n2:imperf:aff		
 ściekania	ściekać	ger:pl:nom.acc:n2:imperf:aff		
 ściekania	ściekać	ger:sg:gen:n2:imperf:aff		
 ściekaniem	ściekać	ger:sg:inst:n2:imperf:aff		
 ściekanie	ściekać	ger:sg:nom.acc:n2:imperf:aff		
-ściekaniom	ściekać	ger:pl:dat.loc:n2:imperf:aff		
+ściekaniom	ściekać	ger:pl:dat:n2:imperf:aff		
 ściekaniu	ściekać	ger:sg:dat.loc:n2:imperf:aff		
 ściekano	ściekać	imps:imperf		
 ściekań	ściekać	ger:pl:gen:n2:imperf:aff		
@@ -1573,12 +1587,13 @@
 ściekłym	ściekły	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ściekły	ściekły	adj:sg:acc:m3:pos		
 ściekły	ściekły	adj:sg:nom.voc:m1.m2.m3:pos		
+ścieknięciach	ścieknąć	ger:pl:loc:n2:perf:aff		
 ścieknięciami	ścieknąć	ger:pl:inst:n2:perf:aff		
 ścieknięcia	ścieknąć	ger:pl:nom.acc:n2:perf:aff		
 ścieknięcia	ścieknąć	ger:sg:gen:n2:perf:aff		
 ścieknięciem	ścieknąć	ger:sg:inst:n2:perf:aff		
 ścieknięcie	ścieknąć	ger:sg:nom.acc:n2:perf:aff		
-ścieknięciom	ścieknąć	ger:pl:dat.loc:n2:perf:aff		
+ścieknięciom	ścieknąć	ger:pl:dat:n2:perf:aff		
 ścieknięciu	ścieknąć	ger:sg:dat.loc:n2:perf:aff		
 ścieknięć	ścieknąć	ger:pl:gen:n2:perf:aff		
 ściekowościach	ściekowość	subst:pl:loc:f		
@@ -1701,12 +1716,13 @@
 ścielanemu	ścielać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ścielane	ścielać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ścielane	ścielać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścielaniach	ścielać	ger:pl:loc:n2:imperf:aff		
 ścielaniami	ścielać	ger:pl:inst:n2:imperf:aff		
 ścielania	ścielać	ger:pl:nom.acc:n2:imperf:aff		
 ścielania	ścielać	ger:sg:gen:n2:imperf:aff		
 ścielaniem	ścielać	ger:sg:inst:n2:imperf:aff		
 ścielanie	ścielać	ger:sg:nom.acc:n2:imperf:aff		
-ścielaniom	ścielać	ger:pl:dat.loc:n2:imperf:aff		
+ścielaniom	ścielać	ger:pl:dat:n2:imperf:aff		
 ścielani	ścielać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ścielaniu	ścielać	ger:sg:dat.loc:n2:imperf:aff		
 ścielano	ścielać	imps:imperf		rzad.
@@ -1736,12 +1752,13 @@
 ścielący	ścielić:v	pact:pl:nom.voc:m1.p1:imperf:aff		
 ścielący	ścielić:v	pact:sg:acc:m3:imperf:aff		
 ścielący	ścielić:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+ścieleniach	ścielić:v	ger:pl:loc:n2:imperf:aff		
 ścieleniami	ścielić:v	ger:pl:inst:n2:imperf:aff		
 ścielenia	ścielić:v	ger:pl:nom.acc:n2:imperf:aff		
 ścielenia	ścielić:v	ger:sg:gen:n2:imperf:aff		
 ścieleniem	ścielić:v	ger:sg:inst:n2:imperf:aff		
 ścielenie	ścielić:v	ger:sg:nom.acc:n2:imperf:aff		
-ścieleniom	ścielić:v	ger:pl:dat.loc:n2:imperf:aff		
+ścieleniom	ścielić:v	ger:pl:dat:n2:imperf:aff		
 ścieleni	ścielić:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ścieleniu	ścielić:v	ger:sg:dat.loc:n2:imperf:aff		
 ścieleń	ścielić:v	ger:pl:gen:n2:imperf:aff		
@@ -1760,12 +1777,13 @@
 ścielonym	ścielić:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 ścielony	ścielić:v	ppas:sg:acc:m3:imperf:aff		
 ścielony	ścielić:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+ścieleniach	ścielić:v	ger:pl:loc:n2:perf:aff		
 ścieleniami	ścielić:v	ger:pl:inst:n2:perf:aff		
 ścielenia	ścielić:v	ger:pl:nom.acc:n2:perf:aff		
 ścielenia	ścielić:v	ger:sg:gen:n2:perf:aff		
 ścieleniem	ścielić:v	ger:sg:inst:n2:perf:aff		
 ścielenie	ścielić:v	ger:sg:nom.acc:n2:perf:aff		
-ścieleniom	ścielić:v	ger:pl:dat.loc:n2:perf:aff		
+ścieleniom	ścielić:v	ger:pl:dat:n2:perf:aff		
 ścieleni	ścielić:v	ppas:pl:nom.voc:m1.p1:perf:aff		
 ścieleniu	ścielić:v	ger:sg:dat.loc:n2:perf:aff		
 ścieleń	ścielić:v	ger:pl:gen:n2:perf:aff		
@@ -2034,12 +2052,13 @@
 ściemnianemu	ściemniać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ściemniane	ściemniać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ściemniane	ściemniać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ściemnianiach	ściemniać	ger:pl:loc:n2:imperf:aff		
 ściemnianiami	ściemniać	ger:pl:inst:n2:imperf:aff		
 ściemniania	ściemniać	ger:pl:nom.acc:n2:imperf:aff		
 ściemniania	ściemniać	ger:sg:gen:n2:imperf:aff		
 ściemnianiem	ściemniać	ger:sg:inst:n2:imperf:aff		
 ściemnianie	ściemniać	ger:sg:nom.acc:n2:imperf:aff		
-ściemnianiom	ściemniać	ger:pl:dat.loc:n2:imperf:aff		
+ściemnianiom	ściemniać	ger:pl:dat:n2:imperf:aff		
 ściemniani	ściemniać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ściemnianiu	ściemniać	ger:sg:dat.loc:n2:imperf:aff		
 ściemniano	ściemniać	imps:imperf		
@@ -2080,12 +2099,13 @@
 ściemnią	ściemnić	fin:pl:ter:perf		
 ściemnicie	ściemnić	fin:pl:sec:perf		
 ściemnić	ściemnić	inf:perf		
+ściemnieniach	ściemnić	ger:pl:loc:n2:perf:aff		
 ściemnieniami	ściemnić	ger:pl:inst:n2:perf:aff		
 ściemnienia	ściemnić	ger:pl:nom.acc:n2:perf:aff		
 ściemnienia	ściemnić	ger:sg:gen:n2:perf:aff		
 ściemnieniem	ściemnić	ger:sg:inst:n2:perf:aff		
 ściemnienie	ściemnić	ger:sg:nom.acc:n2:perf:aff		
-ściemnieniom	ściemnić	ger:pl:dat.loc:n2:perf:aff		
+ściemnieniom	ściemnić	ger:pl:dat:n2:perf:aff		
 ściemnieni	ściemnić	ppas:pl:nom.voc:m1.p1:perf:aff		
 ściemnieniu	ściemnić	ger:sg:dat.loc:n2:perf:aff		
 ściemnień	ściemnić	ger:pl:gen:n2:perf:aff		
@@ -2195,12 +2215,13 @@
 ściemnieli	ściemnieć	praet:pl:m1.p1:ter:perf		
 ściemnieliście	ściemnieć	praet:pl:m1.p1:sec:perf		
 ściemnieliśmy	ściemnieć	praet:pl:m1.p1:pri:perf		
+ściemnieniach	ściemnieć	ger:pl:loc:n2:perf:aff		
 ściemnieniami	ściemnieć	ger:pl:inst:n2:perf:aff		
 ściemnienia	ściemnieć	ger:pl:nom.acc:n2:perf:aff		
 ściemnienia	ściemnieć	ger:sg:gen:n2:perf:aff		
 ściemnieniem	ściemnieć	ger:sg:inst:n2:perf:aff		
 ściemnienie	ściemnieć	ger:sg:nom.acc:n2:perf:aff		
-ściemnieniom	ściemnieć	ger:pl:dat.loc:n2:perf:aff		
+ściemnieniom	ściemnieć	ger:pl:dat:n2:perf:aff		
 ściemnieniu	ściemnieć	ger:sg:dat.loc:n2:perf:aff		
 ściemnień	ściemnieć	ger:pl:gen:n2:perf:aff		
 ścieniająca	ścieniać:v	pact:sg:nom.voc:f:imperf:aff		
@@ -2227,12 +2248,13 @@
 ścienianemu	ścieniać:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ścieniane	ścieniać:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ścieniane	ścieniać:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścienianiach	ścieniać:v	ger:pl:loc:n2:imperf:aff		
 ścienianiami	ścieniać:v	ger:pl:inst:n2:imperf:aff		
 ścieniania	ścieniać:v	ger:pl:nom.acc:n2:imperf:aff		
 ścieniania	ścieniać:v	ger:sg:gen:n2:imperf:aff		
 ścienianiem	ścieniać:v	ger:sg:inst:n2:imperf:aff		
 ścienianie	ścieniać:v	ger:sg:nom.acc:n2:imperf:aff		
-ścienianiom	ścieniać:v	ger:pl:dat.loc:n2:imperf:aff		
+ścienianiom	ścieniać:v	ger:pl:dat:n2:imperf:aff		
 ścieniani	ścieniać:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ścienianiu	ścieniać:v	ger:sg:dat.loc:n2:imperf:aff		
 ścienianych	ścieniać:v	ppas:pl:acc:m1.p1:imperf:aff		
@@ -2267,12 +2289,13 @@
 ścienianemu	ścieniać:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ścieniane	ścieniać:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ścieniane	ścieniać:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścienianiach	ścieniać:v	ger:pl:loc:n2:imperf:aff		
 ścienianiami	ścieniać:v	ger:pl:inst:n2:imperf:aff		
 ścieniania	ścieniać:v	ger:pl:nom.acc:n2:imperf:aff		
 ścieniania	ścieniać:v	ger:sg:gen:n2:imperf:aff		
 ścienianiem	ścieniać:v	ger:sg:inst:n2:imperf:aff		
 ścienianie	ścieniać:v	ger:sg:nom.acc:n2:imperf:aff		
-ścienianiom	ścieniać:v	ger:pl:dat.loc:n2:imperf:aff		
+ścienianiom	ścieniać:v	ger:pl:dat:n2:imperf:aff		
 ścieniani	ścieniać:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ścienianiu	ścieniać:v	ger:sg:dat.loc:n2:imperf:aff		
 ścienianych	ścieniać:v	ppas:pl:acc:m1.p1:imperf:aff		
@@ -2415,12 +2438,13 @@
 ścienicy	ścienica	subst:sg:dat:f	pospolita	
 ścienicy	ścienica	subst:sg:gen:f	pospolita	
 ścienicy	ścienica	subst:sg:loc:f	pospolita	
+ścienieniach	ścienić:v	ger:pl:loc:n2:perf:aff		
 ścienieniami	ścienić:v	ger:pl:inst:n2:perf:aff		
 ścienienia	ścienić:v	ger:pl:nom.acc:n2:perf:aff		
 ścienienia	ścienić:v	ger:sg:gen:n2:perf:aff		
 ścienieniem	ścienić:v	ger:sg:inst:n2:perf:aff		
 ścienienie	ścienić:v	ger:sg:nom.acc:n2:perf:aff		
-ścienieniom	ścienić:v	ger:pl:dat.loc:n2:perf:aff		
+ścienieniom	ścienić:v	ger:pl:dat:n2:perf:aff		
 ścienieni	ścienić:v	ppas:pl:nom.voc:m1.p1:perf:aff		
 ścienieniu	ścienić:v	ger:sg:dat.loc:n2:perf:aff		
 ścienień	ścienić:v	ger:pl:gen:n2:perf:aff		
@@ -2439,12 +2463,13 @@
 ścienionym	ścienić:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
 ścieniony	ścienić:v	ppas:sg:acc:m3:perf:aff		
 ścieniony	ścienić:v	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+ścienieniach	ścienić:v	ger:pl:loc:n2:perf:aff		
 ścienieniami	ścienić:v	ger:pl:inst:n2:perf:aff		
 ścienienia	ścienić:v	ger:pl:nom.acc:n2:perf:aff		
 ścienienia	ścienić:v	ger:sg:gen:n2:perf:aff		
 ścienieniem	ścienić:v	ger:sg:inst:n2:perf:aff		
 ścienienie	ścienić:v	ger:sg:nom.acc:n2:perf:aff		
-ścienieniom	ścienić:v	ger:pl:dat.loc:n2:perf:aff		
+ścienieniom	ścienić:v	ger:pl:dat:n2:perf:aff		
 ścienieni	ścienić:v	ppas:pl:nom.voc:m1.p1:perf:aff		
 ścienieniu	ścienić:v	ger:sg:dat.loc:n2:perf:aff		
 ścienień	ścienić:v	ger:pl:gen:n2:perf:aff		
@@ -2604,12 +2629,13 @@
 ścienieli	ścienieć	praet:pl:m1.p1:ter:perf		
 ścienieliście	ścienieć	praet:pl:m1.p1:sec:perf		
 ścienieliśmy	ścienieć	praet:pl:m1.p1:pri:perf		
+ścienieniach	ścienieć	ger:pl:loc:n2:perf:aff		
 ścienieniami	ścienieć	ger:pl:inst:n2:perf:aff		
 ścienienia	ścienieć	ger:pl:nom.acc:n2:perf:aff		
 ścienienia	ścienieć	ger:sg:gen:n2:perf:aff		
 ścienieniem	ścienieć	ger:sg:inst:n2:perf:aff		
 ścienienie	ścienieć	ger:sg:nom.acc:n2:perf:aff		
-ścienieniom	ścienieć	ger:pl:dat.loc:n2:perf:aff		
+ścienieniom	ścienieć	ger:pl:dat:n2:perf:aff		
 ścienieniu	ścienieć	ger:sg:dat.loc:n2:perf:aff		
 ścienień	ścienieć	ger:pl:gen:n2:perf:aff		
 ścieniować	ścieniować	inf:perf		
@@ -2656,12 +2682,13 @@
 ścieniowanemu	ścieniować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
 ścieniowane	ścieniować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
 ścieniowane	ścieniować	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+ścieniowaniach	ścieniować	ger:pl:loc:n2:perf:aff		
 ścieniowaniami	ścieniować	ger:pl:inst:n2:perf:aff		
 ścieniowania	ścieniować	ger:pl:nom.acc:n2:perf:aff		
 ścieniowania	ścieniować	ger:sg:gen:n2:perf:aff		
 ścieniowaniem	ścieniować	ger:sg:inst:n2:perf:aff		
 ścieniowanie	ścieniować	ger:sg:nom.acc:n2:perf:aff		
-ścieniowaniom	ścieniować	ger:pl:dat.loc:n2:perf:aff		
+ścieniowaniom	ścieniować	ger:pl:dat:n2:perf:aff		
 ścieniowani	ścieniować	ppas:pl:nom.voc:m1.p1:perf:aff		
 ścieniowaniu	ścieniować	ger:sg:dat.loc:n2:perf:aff		
 ścieniowano	ścieniować	imps:perf		
@@ -2753,12 +2780,13 @@
 ścieniowywanemu	ścieniowywać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ścieniowywane	ścieniowywać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ścieniowywane	ścieniowywać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścieniowywaniach	ścieniowywać	ger:pl:loc:n2:imperf:aff		
 ścieniowywaniami	ścieniowywać	ger:pl:inst:n2:imperf:aff		
 ścieniowywania	ścieniowywać	ger:pl:nom.acc:n2:imperf:aff		
 ścieniowywania	ścieniowywać	ger:sg:gen:n2:imperf:aff		
 ścieniowywaniem	ścieniowywać	ger:sg:inst:n2:imperf:aff		
 ścieniowywanie	ścieniowywać	ger:sg:nom.acc:n2:imperf:aff		
-ścieniowywaniom	ścieniowywać	ger:pl:dat.loc:n2:imperf:aff		
+ścieniowywaniom	ścieniowywać	ger:pl:dat:n2:imperf:aff		
 ścieniowywani	ścieniowywać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ścieniowywaniu	ścieniowywać	ger:sg:dat.loc:n2:imperf:aff		
 ścieniowywano	ścieniowywać	imps:imperf		
@@ -2879,12 +2907,13 @@
 ścieńczeli	ścieńczeć	praet:pl:m1.p1:ter:perf		
 ścieńczeliście	ścieńczeć	praet:pl:m1.p1:sec:perf		
 ścieńczeliśmy	ścieńczeć	praet:pl:m1.p1:pri:perf		
+ścieńczeniach	ścieńczeć	ger:pl:loc:n2:perf:aff		
 ścieńczeniami	ścieńczeć	ger:pl:inst:n2:perf:aff		
 ścieńczenia	ścieńczeć	ger:pl:nom.acc:n2:perf:aff		
 ścieńczenia	ścieńczeć	ger:sg:gen:n2:perf:aff		
 ścieńczeniem	ścieńczeć	ger:sg:inst:n2:perf:aff		
 ścieńczenie	ścieńczeć	ger:sg:nom.acc:n2:perf:aff		
-ścieńczeniom	ścieńczeć	ger:pl:dat.loc:n2:perf:aff		
+ścieńczeniom	ścieńczeć	ger:pl:dat:n2:perf:aff		
 ścieńczeniu	ścieńczeć	ger:sg:dat.loc:n2:perf:aff		
 ścieńczeń	ścieńczeć	ger:pl:gen:n2:perf:aff		
 ścierach	ścier	subst:pl:loc:m3	pospolita	
@@ -2983,12 +3012,13 @@
 ścieranemu	ścierać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ścierane	ścierać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ścierane	ścierać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścieraniach	ścierać	ger:pl:loc:n2:imperf:aff		
 ścieraniami	ścierać	ger:pl:inst:n2:imperf:aff		
 ścierania	ścierać	ger:pl:nom.acc:n2:imperf:aff		
 ścierania	ścierać	ger:sg:gen:n2:imperf:aff		
 ścieraniem	ścierać	ger:sg:inst:n2:imperf:aff		
 ścieranie	ścierać	ger:sg:nom.acc:n2:imperf:aff		
-ścieraniom	ścierać	ger:pl:dat.loc:n2:imperf:aff		
+ścieraniom	ścierać	ger:pl:dat:n2:imperf:aff		
 ścierani	ścierać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ścieraniu	ścierać	ger:sg:dat.loc:n2:imperf:aff		
 ścierano	ścierać	imps:imperf		
@@ -3454,12 +3484,13 @@
 ścierpieli	ścierpieć	praet:pl:m1.p1:ter:perf		
 ścierpieliście	ścierpieć	praet:pl:m1.p1:sec:perf		
 ścierpieliśmy	ścierpieć	praet:pl:m1.p1:pri:perf		
+ścierpieniach	ścierpieć	ger:pl:loc:n2:perf:aff		
 ścierpieniami	ścierpieć	ger:pl:inst:n2:perf:aff		
 ścierpienia	ścierpieć	ger:pl:nom.acc:n2:perf:aff		
 ścierpienia	ścierpieć	ger:sg:gen:n2:perf:aff		
 ścierpieniem	ścierpieć	ger:sg:inst:n2:perf:aff		
 ścierpienie	ścierpieć	ger:sg:nom.acc:n2:perf:aff		
-ścierpieniom	ścierpieć	ger:pl:dat.loc:n2:perf:aff		
+ścierpieniom	ścierpieć	ger:pl:dat:n2:perf:aff		
 ścierpieniu	ścierpieć	ger:sg:dat.loc:n2:perf:aff		
 ścierpień	ścierpieć	ger:pl:gen:n2:perf:aff		
 ścierpię	ścierpieć	fin:sg:pri:perf		
@@ -3578,12 +3609,13 @@
 ścierpniesz	ścierpnąć	fin:sg:sec:perf		rzad.
 ścierpnie	ścierpnąć	fin:sg:ter:perf		
 ścierpnie	ścierpnąć	fin:sg:ter:perf		rzad.
+ścierpnięciach	ścierpnąć	ger:pl:loc:n2:perf:aff		
 ścierpnięciami	ścierpnąć	ger:pl:inst:n2:perf:aff		
 ścierpnięcia	ścierpnąć	ger:pl:nom.acc:n2:perf:aff		
 ścierpnięcia	ścierpnąć	ger:sg:gen:n2:perf:aff		
 ścierpnięciem	ścierpnąć	ger:sg:inst:n2:perf:aff		
 ścierpnięcie	ścierpnąć	ger:sg:nom.acc:n2:perf:aff		
-ścierpnięciom	ścierpnąć	ger:pl:dat.loc:n2:perf:aff		
+ścierpnięciom	ścierpnąć	ger:pl:dat:n2:perf:aff		
 ścierpnięci	ścierpnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
 ścierpnięciu	ścierpnąć	ger:sg:dat.loc:n2:perf:aff		
 ścierpnięć	ścierpnąć	ger:pl:gen:n2:perf:aff		
@@ -3823,12 +3855,13 @@
 ścieśnianemu	ścieśniać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ścieśniane	ścieśniać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ścieśniane	ścieśniać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścieśnianiach	ścieśniać	ger:pl:loc:n2:imperf:aff		
 ścieśnianiami	ścieśniać	ger:pl:inst:n2:imperf:aff		
 ścieśniania	ścieśniać	ger:pl:nom.acc:n2:imperf:aff		
 ścieśniania	ścieśniać	ger:sg:gen:n2:imperf:aff		
 ścieśnianiem	ścieśniać	ger:sg:inst:n2:imperf:aff		
 ścieśnianie	ścieśniać	ger:sg:nom.acc:n2:imperf:aff		
-ścieśnianiom	ścieśniać	ger:pl:dat.loc:n2:imperf:aff		
+ścieśnianiom	ścieśniać	ger:pl:dat:n2:imperf:aff		
 ścieśniani	ścieśniać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ścieśnianiu	ścieśniać	ger:sg:dat.loc:n2:imperf:aff		
 ścieśniano	ścieśniać	imps:imperf		
@@ -3884,12 +3917,13 @@
 ścieśnią	ścieśnić	fin:pl:ter:perf		
 ścieśnicie	ścieśnić	fin:pl:sec:perf		
 ścieśnić	ścieśnić	inf:perf		
+ścieśnieniach	ścieśnić	ger:pl:loc:n2:perf:aff		
 ścieśnieniami	ścieśnić	ger:pl:inst:n2:perf:aff		
 ścieśnienia	ścieśnić	ger:pl:nom.acc:n2:perf:aff		
 ścieśnienia	ścieśnić	ger:sg:gen:n2:perf:aff		
 ścieśnieniem	ścieśnić	ger:sg:inst:n2:perf:aff		
 ścieśnienie	ścieśnić	ger:sg:nom.acc:n2:perf:aff		
-ścieśnieniom	ścieśnić	ger:pl:dat.loc:n2:perf:aff		
+ścieśnieniom	ścieśnić	ger:pl:dat:n2:perf:aff		
 ścieśnieni	ścieśnić	ppas:pl:nom.voc:m1.p1:perf:aff		
 ścieśnieniu	ścieśnić	ger:sg:dat.loc:n2:perf:aff		
 ścieśnień	ścieśnić	ger:pl:gen:n2:perf:aff		
@@ -4291,12 +4325,13 @@
 ściężeli	ściężeć	praet:pl:m1.p1:perf		przest.
 ściężeli	ściężeć	praet:pl:m1.p1:ter:perf		przest.
 ściężeliśmy	ściężeć	praet:pl:m1.p1:pri:perf		przest.
+ściężeniach	ściężeć	ger:pl:loc:n2:perf:aff		
 ściężeniami	ściężeć	ger:pl:inst:n2:perf:aff		
 ściężenia	ściężeć	ger:pl:nom.acc:n2:perf:aff		
 ściężenia	ściężeć	ger:sg:gen:n2:perf:aff		
 ściężeniem	ściężeć	ger:sg:inst:n2:perf:aff		
 ściężenie	ściężeć	ger:sg:nom.acc:n2:perf:aff		
-ściężeniom	ściężeć	ger:pl:dat.loc:n2:perf:aff		
+ściężeniom	ściężeć	ger:pl:dat:n2:perf:aff		
 ściężeniu	ściężeć	ger:sg:dat.loc:n2:perf:aff		
 ściężeń	ściężeć	ger:pl:gen:n2:perf:aff		
 ścidze	ściga	subst:sg:dat:f	pospolita	
@@ -4409,12 +4444,13 @@
 ściganemu	ścigać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ścigane	ścigać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ścigane	ścigać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ściganiach	ścigać	ger:pl:loc:n2:imperf:aff		
 ściganiami	ścigać	ger:pl:inst:n2:imperf:aff		
 ścigania	ścigać	ger:pl:nom.acc:n2:imperf:aff		
 ścigania	ścigać	ger:sg:gen:n2:imperf:aff		
 ściganiem	ścigać	ger:sg:inst:n2:imperf:aff		
 ściganie	ścigać	ger:sg:nom.acc:n2:imperf:aff		
-ściganiom	ścigać	ger:pl:dat.loc:n2:imperf:aff		
+ściganiom	ścigać	ger:pl:dat:n2:imperf:aff		
 ścigani	ścigać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ściganiu	ścigać	ger:sg:dat.loc:n2:imperf:aff		
 ścigano	ścigać	imps:imperf		
@@ -4547,12 +4583,13 @@
 ścigniemy	ścignąć	fin:pl:pri:perf		daw.
 ścigniesz	ścignąć	fin:sg:sec:perf		daw.
 ścignie	ścignąć	fin:sg:ter:perf		daw.
+ścignięciach	ścignąć	ger:pl:loc:n2:perf:aff		
 ścignięciami	ścignąć	ger:pl:inst:n2:perf:aff		
 ścignięcia	ścignąć	ger:pl:nom.acc:n2:perf:aff		
 ścignięcia	ścignąć	ger:sg:gen:n2:perf:aff		
 ścignięciem	ścignąć	ger:sg:inst:n2:perf:aff		
 ścignięcie	ścignąć	ger:sg:nom.acc:n2:perf:aff		
-ścignięciom	ścignąć	ger:pl:dat.loc:n2:perf:aff		
+ścignięciom	ścignąć	ger:pl:dat:n2:perf:aff		
 ścignięci	ścignąć	ppas:pl:nom.voc:m1.p1:perf:aff		
 ścignięciu	ścignąć	ger:sg:dat.loc:n2:perf:aff		
 ścignięć	ścignąć	ger:pl:gen:n2:perf:aff		
@@ -4671,12 +4708,13 @@
 ścinanemu	ścinać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ścinane	ścinać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ścinane	ścinać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścinaniach	ścinać	ger:pl:loc:n2:imperf:aff		
 ścinaniami	ścinać	ger:pl:inst:n2:imperf:aff		
 ścinania	ścinać	ger:pl:nom.acc:n2:imperf:aff		
 ścinania	ścinać	ger:sg:gen:n2:imperf:aff		
 ścinaniem	ścinać	ger:sg:inst:n2:imperf:aff		
 ścinanie	ścinać	ger:sg:nom.acc:n2:imperf:aff		
-ścinaniom	ścinać	ger:pl:dat.loc:n2:imperf:aff		
+ścinaniom	ścinać	ger:pl:dat:n2:imperf:aff		
 ścinani	ścinać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ścinaniu	ścinać	ger:sg:dat.loc:n2:imperf:aff		
 ścinano	ścinać	imps:imperf		
@@ -4916,12 +4954,13 @@
 ściosanemu	ściosać	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
 ściosane	ściosać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
 ściosane	ściosać	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+ściosaniach	ściosać	ger:pl:loc:n2:perf:aff		
 ściosaniami	ściosać	ger:pl:inst:n2:perf:aff		
 ściosania	ściosać	ger:pl:nom.acc:n2:perf:aff		
 ściosania	ściosać	ger:sg:gen:n2:perf:aff		
 ściosaniem	ściosać	ger:sg:inst:n2:perf:aff		
 ściosanie	ściosać	ger:sg:nom.acc:n2:perf:aff		
-ściosaniom	ściosać	ger:pl:dat.loc:n2:perf:aff		
+ściosaniom	ściosać	ger:pl:dat:n2:perf:aff		
 ściosani	ściosać	ppas:pl:nom.voc:m1.p1:perf:aff		
 ściosaniu	ściosać	ger:sg:dat.loc:n2:perf:aff		
 ściosano	ściosać	imps:perf		
@@ -5021,12 +5060,13 @@
 ściosywanemu	ściosywać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ściosywane	ściosywać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ściosywane	ściosywać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ściosywaniach	ściosywać	ger:pl:loc:n2:imperf:aff		
 ściosywaniami	ściosywać	ger:pl:inst:n2:imperf:aff		
 ściosywania	ściosywać	ger:pl:nom.acc:n2:imperf:aff		
 ściosywania	ściosywać	ger:sg:gen:n2:imperf:aff		
 ściosywaniem	ściosywać	ger:sg:inst:n2:imperf:aff		
 ściosywanie	ściosywać	ger:sg:nom.acc:n2:imperf:aff		
-ściosywaniom	ściosywać	ger:pl:dat.loc:n2:imperf:aff		
+ściosywaniom	ściosywać	ger:pl:dat:n2:imperf:aff		
 ściosywani	ściosywać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ściosywaniu	ściosywać	ger:sg:dat.loc:n2:imperf:aff		
 ściosywano	ściosywać	imps:imperf		
@@ -5096,12 +5136,13 @@
 ściółkowanemu	ściółkować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ściółkowane	ściółkować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ściółkowane	ściółkować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ściółkowaniach	ściółkować	ger:pl:loc:n2:imperf:aff		
 ściółkowaniami	ściółkować	ger:pl:inst:n2:imperf:aff		
 ściółkowania	ściółkować	ger:pl:nom.acc:n2:imperf:aff		
 ściółkowania	ściółkować	ger:sg:gen:n2:imperf:aff		
 ściółkowaniem	ściółkować	ger:sg:inst:n2:imperf:aff		
 ściółkowanie	ściółkować	ger:sg:nom.acc:n2:imperf:aff		
-ściółkowaniom	ściółkować	ger:pl:dat.loc:n2:imperf:aff		
+ściółkowaniom	ściółkować	ger:pl:dat:n2:imperf:aff		
 ściółkowani	ściółkować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ściółkowaniu	ściółkować	ger:sg:dat.loc:n2:imperf:aff		
 ściółkowano	ściółkować	imps:imperf		
@@ -5287,12 +5328,13 @@
 ściskanemu	ściskać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ściskane	ściskać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ściskane	ściskać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ściskaniach	ściskać	ger:pl:loc:n2:imperf:aff		
 ściskaniami	ściskać	ger:pl:inst:n2:imperf:aff		
 ściskania	ściskać	ger:pl:nom.acc:n2:imperf:aff		
 ściskania	ściskać	ger:sg:gen:n2:imperf:aff		
 ściskaniem	ściskać	ger:sg:inst:n2:imperf:aff		
 ściskanie	ściskać	ger:sg:nom.acc:n2:imperf:aff		
-ściskaniom	ściskać	ger:pl:dat.loc:n2:imperf:aff		
+ściskaniom	ściskać	ger:pl:dat:n2:imperf:aff		
 ściskani	ściskać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ściskaniu	ściskać	ger:sg:dat.loc:n2:imperf:aff		
 ściskano	ściskać	imps:imperf		
@@ -5468,12 +5510,13 @@
 ściśniemy	ścisnąć	fin:pl:pri:perf		
 ściśniesz	ścisnąć	fin:sg:sec:perf		
 ściśnie	ścisnąć	fin:sg:ter:perf		
+ściśnięciach	ścisnąć	ger:pl:loc:n2:perf:aff		
 ściśnięciami	ścisnąć	ger:pl:inst:n2:perf:aff		
 ściśnięcia	ścisnąć	ger:pl:nom.acc:n2:perf:aff		
 ściśnięcia	ścisnąć	ger:sg:gen:n2:perf:aff		
 ściśnięciem	ścisnąć	ger:sg:inst:n2:perf:aff		
 ściśnięcie	ścisnąć	ger:sg:nom.acc:n2:perf:aff		
-ściśnięciom	ścisnąć	ger:pl:dat.loc:n2:perf:aff		
+ściśnięciom	ścisnąć	ger:pl:dat:n2:perf:aff		
 ściśnięci	ścisnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
 ściśnięciu	ścisnąć	ger:sg:dat.loc:n2:perf:aff		
 ściśnięć	ścisnąć	ger:pl:gen:n2:perf:aff		
@@ -5564,12 +5607,13 @@
 ściszanemu	ściszać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ściszane	ściszać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ściszane	ściszać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ściszaniach	ściszać	ger:pl:loc:n2:imperf:aff		
 ściszaniami	ściszać	ger:pl:inst:n2:imperf:aff		
 ściszania	ściszać	ger:pl:nom.acc:n2:imperf:aff		
 ściszania	ściszać	ger:sg:gen:n2:imperf:aff		
 ściszaniem	ściszać	ger:sg:inst:n2:imperf:aff		
 ściszanie	ściszać	ger:sg:nom.acc:n2:imperf:aff		
-ściszaniom	ściszać	ger:pl:dat.loc:n2:imperf:aff		
+ściszaniom	ściszać	ger:pl:dat:n2:imperf:aff		
 ściszani	ściszać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ściszaniu	ściszać	ger:sg:dat.loc:n2:imperf:aff		
 ściszano	ściszać	imps:imperf		
@@ -5585,12 +5629,13 @@
 ścisza	ściszać	fin:sg:ter:imperf		
 ściszą	ściszyć	fin:pl:ter:perf		
 ściszcie	ściszyć	impt:pl:sec:perf		
+ściszeniach	ściszyć	ger:pl:loc:n2:perf:aff		
 ściszeniami	ściszyć	ger:pl:inst:n2:perf:aff		
 ściszenia	ściszyć	ger:pl:nom.acc:n2:perf:aff		
 ściszenia	ściszyć	ger:sg:gen:n2:perf:aff		
 ściszeniem	ściszyć	ger:sg:inst:n2:perf:aff		
 ściszenie	ściszyć	ger:sg:nom.acc:n2:perf:aff		
-ściszeniom	ściszyć	ger:pl:dat.loc:n2:perf:aff		
+ściszeniom	ściszyć	ger:pl:dat:n2:perf:aff		
 ściszeni	ściszyć	ppas:pl:nom.voc:m1.p1:perf:aff		
 ściszeniu	ściszyć	ger:sg:dat.loc:n2:perf:aff		
 ściszeń	ściszyć	ger:pl:gen:n2:perf:aff		
@@ -5812,12 +5857,13 @@
 ściubanemu	ściubać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 ściubane	ściubać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ściubane	ściubać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ściubaniach	ściubać	ger:pl:loc:n2:imperf:aff		
 ściubaniami	ściubać	ger:pl:inst:n2:imperf:aff		
 ściubania	ściubać	ger:pl:nom.acc:n2:imperf:aff		
 ściubania	ściubać	ger:sg:gen:n2:imperf:aff		
 ściubaniem	ściubać	ger:sg:inst:n2:imperf:aff		
 ściubanie	ściubać	ger:sg:nom.acc:n2:imperf:aff		
-ściubaniom	ściubać	ger:pl:dat.loc:n2:imperf:aff		
+ściubaniom	ściubać	ger:pl:dat:n2:imperf:aff		
 ściubani	ściubać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ściubaniu	ściubać	ger:sg:dat.loc:n2:imperf:aff		
 ściubano	ściubać	imps:imperf		
@@ -5879,12 +5925,13 @@
 ściubią	ściubić	fin:pl:ter:imperf		rzad.
 ściubicie	ściubić	fin:pl:sec:imperf		rzad.
 ściubić	ściubić	inf:imperf		rzad.
+ściubieniach	ściubić	ger:pl:loc:n2:imperf:aff		
 ściubieniami	ściubić	ger:pl:inst:n2:imperf:aff		
 ściubienia	ściubić	ger:pl:nom.acc:n2:imperf:aff		
 ściubienia	ściubić	ger:sg:gen:n2:imperf:aff		
 ściubieniem	ściubić	ger:sg:inst:n2:imperf:aff		
 ściubienie	ściubić	ger:sg:nom.acc:n2:imperf:aff		
-ściubieniom	ściubić	ger:pl:dat.loc:n2:imperf:aff		
+ściubieniom	ściubić	ger:pl:dat:n2:imperf:aff		
 ściubieni	ściubić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ściubieniu	ściubić	ger:sg:dat.loc:n2:imperf:aff		
 ściubień	ściubić	ger:pl:gen:n2:imperf:aff		
@@ -5948,12 +5995,13 @@
 ściżbią	ściżbić	fin:pl:ter:perf		rzad.
 ściżbicie	ściżbić	fin:pl:sec:perf		rzad.
 ściżbić	ściżbić	inf:perf		rzad.
+ściżbieniach	ściżbić	ger:pl:loc:n2:perf:aff		
 ściżbieniami	ściżbić	ger:pl:inst:n2:perf:aff		
 ściżbienia	ściżbić	ger:pl:nom.acc:n2:perf:aff		
 ściżbienia	ściżbić	ger:sg:gen:n2:perf:aff		
 ściżbieniem	ściżbić	ger:sg:inst:n2:perf:aff		
 ściżbienie	ściżbić	ger:sg:nom.acc:n2:perf:aff		
-ściżbieniom	ściżbić	ger:pl:dat.loc:n2:perf:aff		
+ściżbieniom	ściżbić	ger:pl:dat:n2:perf:aff		
 ściżbieni	ściżbić	ppas:pl:nom.voc:m1.p1:perf:aff		
 ściżbieniu	ściżbić	ger:sg:dat.loc:n2:perf:aff		
 ściżbień	ściżbić	ger:pl:gen:n2:perf:aff		
@@ -6057,12 +6105,13 @@
 śćmią	śćmić	fin:pl:ter:perf		
 śćmicie	śćmić	fin:pl:sec:perf		
 śćmić	śćmić	inf:perf		
+śćmieniach	śćmić	ger:pl:loc:n2:perf:aff		
 śćmieniami	śćmić	ger:pl:inst:n2:perf:aff		
 śćmienia	śćmić	ger:pl:nom.acc:n2:perf:aff		
 śćmienia	śćmić	ger:sg:gen:n2:perf:aff		
 śćmieniem	śćmić	ger:sg:inst:n2:perf:aff		
 śćmienie	śćmić	ger:sg:nom.acc:n2:perf:aff		
-śćmieniom	śćmić	ger:pl:dat.loc:n2:perf:aff		
+śćmieniom	śćmić	ger:pl:dat:n2:perf:aff		
 śćmieni	śćmić	ppas:pl:nom.voc:m1.p1:perf:aff		
 śćmieniu	śćmić	ger:sg:dat.loc:n2:perf:aff		
 śćmień	śćmić	ger:pl:gen:n2:perf:aff		
@@ -6193,12 +6242,13 @@
 śćmiewanemu	śćmiewać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 śćmiewane	śćmiewać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 śćmiewane	śćmiewać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+śćmiewaniach	śćmiewać	ger:pl:loc:n2:imperf:aff		
 śćmiewaniami	śćmiewać	ger:pl:inst:n2:imperf:aff		
 śćmiewania	śćmiewać	ger:pl:nom.acc:n2:imperf:aff		
 śćmiewania	śćmiewać	ger:sg:gen:n2:imperf:aff		
 śćmiewaniem	śćmiewać	ger:sg:inst:n2:imperf:aff		
 śćmiewanie	śćmiewać	ger:sg:nom.acc:n2:imperf:aff		
-śćmiewaniom	śćmiewać	ger:pl:dat.loc:n2:imperf:aff		
+śćmiewaniom	śćmiewać	ger:pl:dat:n2:imperf:aff		
 śćmiewani	śćmiewać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śćmiewaniu	śćmiewać	ger:sg:dat.loc:n2:imperf:aff		
 śćmiewano	śćmiewać	imps:imperf		
@@ -6214,12 +6264,13 @@
 śćmiewa	śćmiewać	fin:sg:ter:imperf		
 śćwiczą	śćwiczyć	fin:pl:ter:perf		
 śćwiczcie	śćwiczyć	impt:pl:sec:perf		
+śćwiczeniach	śćwiczyć	ger:pl:loc:n2:perf:aff		
 śćwiczeniami	śćwiczyć	ger:pl:inst:n2:perf:aff		
 śćwiczenia	śćwiczyć	ger:pl:nom.acc:n2:perf:aff		
 śćwiczenia	śćwiczyć	ger:sg:gen:n2:perf:aff		
 śćwiczeniem	śćwiczyć	ger:sg:inst:n2:perf:aff		
 śćwiczenie	śćwiczyć	ger:sg:nom.acc:n2:perf:aff		
-śćwiczeniom	śćwiczyć	ger:pl:dat.loc:n2:perf:aff		
+śćwiczeniom	śćwiczyć	ger:pl:dat:n2:perf:aff		
 śćwiczeni	śćwiczyć	ppas:pl:nom.voc:m1.p1:perf:aff		
 śćwiczeniu	śćwiczyć	ger:sg:dat.loc:n2:perf:aff		
 śćwiczeń	śćwiczyć	ger:pl:gen:n2:perf:aff		
@@ -6383,12 +6434,13 @@
 śklnią	śklnić	fin:pl:ter:imperf		daw.
 śklnicie	śklnić	fin:pl:sec:imperf		daw.
 śklnić	śklnić	inf:imperf		daw.
+śklnieniach	śklnić	ger:pl:loc:n2:imperf:aff		
 śklnieniami	śklnić	ger:pl:inst:n2:imperf:aff		
 śklnienia	śklnić	ger:pl:nom.acc:n2:imperf:aff		
 śklnienia	śklnić	ger:sg:gen:n2:imperf:aff		
 śklnieniem	śklnić	ger:sg:inst:n2:imperf:aff		
 śklnienie	śklnić	ger:sg:nom.acc:n2:imperf:aff		
-śklnieniom	śklnić	ger:pl:dat.loc:n2:imperf:aff		
+śklnieniom	śklnić	ger:pl:dat:n2:imperf:aff		
 śklnieniu	śklnić	ger:sg:dat.loc:n2:imperf:aff		
 śklnień	śklnić	ger:pl:gen:n2:imperf:aff		
 śklnię	śklnić	fin:sg:pri:imperf		daw.
@@ -6522,12 +6574,13 @@
 śladowanemu	śladować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 śladowane	śladować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 śladowane	śladować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+śladowaniach	śladować	ger:pl:loc:n2:imperf:aff		
 śladowaniami	śladować	ger:pl:inst:n2:imperf:aff		
 śladowania	śladować	ger:pl:nom.acc:n2:imperf:aff		
 śladowania	śladować	ger:sg:gen:n2:imperf:aff		
 śladowaniem	śladować	ger:sg:inst:n2:imperf:aff		
 śladowanie	śladować	ger:sg:nom.acc:n2:imperf:aff		
-śladowaniom	śladować	ger:pl:dat.loc:n2:imperf:aff		
+śladowaniom	śladować	ger:pl:dat:n2:imperf:aff		
 śladowani	śladować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śladowaniu	śladować	ger:sg:dat.loc:n2:imperf:aff		
 śladowano	śladować	imps:imperf		daw.
@@ -7074,12 +7127,13 @@
 śledzący	śledzić	pact:sg:acc:m3:imperf:aff		
 śledzący	śledzić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 śledzą	śledzić	fin:pl:ter:imperf		
+śledzeniach	śledzić	ger:pl:loc:n2:imperf:aff		
 śledzeniami	śledzić	ger:pl:inst:n2:imperf:aff		
 śledzenia	śledzić	ger:pl:nom.acc:n2:imperf:aff		
 śledzenia	śledzić	ger:sg:gen:n2:imperf:aff		
 śledzeniem	śledzić	ger:sg:inst:n2:imperf:aff		
 śledzenie	śledzić	ger:sg:nom.acc:n2:imperf:aff		
-śledzeniom	śledzić	ger:pl:dat.loc:n2:imperf:aff		
+śledzeniom	śledzić	ger:pl:dat:n2:imperf:aff		
 śledzeni	śledzić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śledzeniu	śledzić	ger:sg:dat.loc:n2:imperf:aff		
 śledzeń	śledzić	ger:pl:gen:n2:imperf:aff		
@@ -7689,12 +7743,13 @@
 ślepiałyśmy	ślepiać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
 ślepiam	ślepiać	fin:sg:pri:imperf		daw.
 ślepiamy	ślepiać	fin:pl:pri:imperf		daw.
+ślepianiach	ślepiać	ger:pl:loc:n2:imperf:aff		
 ślepianiami	ślepiać	ger:pl:inst:n2:imperf:aff		
 ślepiania	ślepiać	ger:pl:nom.acc:n2:imperf:aff		
 ślepiania	ślepiać	ger:sg:gen:n2:imperf:aff		
 ślepianiem	ślepiać	ger:sg:inst:n2:imperf:aff		
 ślepianie	ślepiać	ger:sg:nom.acc:n2:imperf:aff		
-ślepianiom	ślepiać	ger:pl:dat.loc:n2:imperf:aff		
+ślepianiom	ślepiać	ger:pl:dat:n2:imperf:aff		
 ślepianiu	ślepiać	ger:sg:dat.loc:n2:imperf:aff		
 ślepiano	ślepiać	imps:imperf		daw.
 ślepiań	ślepiać	ger:pl:gen:n2:imperf:aff		
@@ -7735,12 +7790,13 @@
 ślepią	ślepić	fin:pl:ter:imperf		
 ślepicie	ślepić	fin:pl:sec:imperf		
 ślepić	ślepić	inf:imperf		
+ślepieniach	ślepić	ger:pl:loc:n2:imperf:aff		
 ślepieniami	ślepić	ger:pl:inst:n2:imperf:aff		
 ślepienia	ślepić	ger:pl:nom.acc:n2:imperf:aff		
 ślepienia	ślepić	ger:sg:gen:n2:imperf:aff		
 ślepieniem	ślepić	ger:sg:inst:n2:imperf:aff		
 ślepienie	ślepić	ger:sg:nom.acc:n2:imperf:aff		
-ślepieniom	ślepić	ger:pl:dat.loc:n2:imperf:aff		
+ślepieniom	ślepić	ger:pl:dat:n2:imperf:aff		
 ślepieni	ślepić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ślepieniu	ślepić	ger:sg:dat.loc:n2:imperf:aff		
 ślepień	ślepić	ger:pl:gen:n2:imperf:aff		
@@ -8026,12 +8082,13 @@
 ślepniesz	ślepnąć	fin:sg:sec:imperf		rzad.
 ślepnie	ślepnąć	fin:sg:ter:imperf		
 ślepnie	ślepnąć	fin:sg:ter:imperf		rzad.
+ślepnięciach	ślepnąć	ger:pl:loc:n2:imperf:aff		
 ślepnięciami	ślepnąć	ger:pl:inst:n2:imperf:aff		
 ślepnięcia	ślepnąć	ger:pl:nom.acc:n2:imperf:aff		
 ślepnięcia	ślepnąć	ger:sg:gen:n2:imperf:aff		
 ślepnięciem	ślepnąć	ger:sg:inst:n2:imperf:aff		
 ślepnięcie	ślepnąć	ger:sg:nom.acc:n2:imperf:aff		
-ślepnięciom	ślepnąć	ger:pl:dat.loc:n2:imperf:aff		
+ślepnięciom	ślepnąć	ger:pl:dat:n2:imperf:aff		
 ślepnięciu	ślepnąć	ger:sg:dat.loc:n2:imperf:aff		
 ślepnięć	ślepnąć	ger:pl:gen:n2:imperf:aff		
 ślepnięto	ślepnąć	imps:imperf		
@@ -8355,12 +8412,13 @@
 ślęczeli	ślęczeć	praet:pl:m1.p1:imperf		
 ślęczeli	ślęczeć	praet:pl:m1.p1:ter:imperf		
 ślęczeliśmy	ślęczeć	praet:pl:m1.p1:pri:imperf		
+ślęczeniach	ślęczeć	ger:pl:loc:n2:imperf:aff		
 ślęczeniami	ślęczeć	ger:pl:inst:n2:imperf:aff		
 ślęczenia	ślęczeć	ger:pl:nom.acc:n2:imperf:aff		
 ślęczenia	ślęczeć	ger:sg:gen:n2:imperf:aff		
 ślęczeniem	ślęczeć	ger:sg:inst:n2:imperf:aff		
 ślęczenie	ślęczeć	ger:sg:nom.acc:n2:imperf:aff		
-ślęczeniom	ślęczeć	ger:pl:dat.loc:n2:imperf:aff		
+ślęczeniom	ślęczeć	ger:pl:dat:n2:imperf:aff		
 ślęczeniu	ślęczeć	ger:sg:dat.loc:n2:imperf:aff		
 ślęczeń	ślęczeć	ger:pl:gen:n2:imperf:aff		
 ślęczę	ślęczeć	fin:sg:pri:imperf		
@@ -8670,12 +8728,13 @@
 ślimaczący	ślimaczyć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 ślimaczą	ślimaczyć	fin:pl:ter:imperf		
 ślimaczcie	ślimaczyć	impt:pl:sec:imperf		
+ślimaczeniach	ślimaczyć	ger:pl:loc:n2:imperf:aff		
 ślimaczeniami	ślimaczyć	ger:pl:inst:n2:imperf:aff		
 ślimaczenia	ślimaczyć	ger:pl:nom.acc:n2:imperf:aff		
 ślimaczenia	ślimaczyć	ger:sg:gen:n2:imperf:aff		
 ślimaczeniem	ślimaczyć	ger:sg:inst:n2:imperf:aff		
 ślimaczenie	ślimaczyć	ger:sg:nom.acc:n2:imperf:aff		
-ślimaczeniom	ślimaczyć	ger:pl:dat.loc:n2:imperf:aff		
+ślimaczeniom	ślimaczyć	ger:pl:dat:n2:imperf:aff		
 ślimaczeniu	ślimaczyć	ger:sg:dat.loc:n2:imperf:aff		
 ślimaczeń	ślimaczyć	ger:pl:gen:n2:imperf:aff		
 ślimaczę	ślimaczyć	fin:sg:pri:imperf		
@@ -8903,12 +8962,13 @@
 ślinią	ślinić	fin:pl:ter:imperf		
 ślinicie	ślinić	fin:pl:sec:imperf		
 ślinić	ślinić	inf:imperf		
+ślinieniach	ślinić	ger:pl:loc:n2:imperf:aff		
 ślinieniami	ślinić	ger:pl:inst:n2:imperf:aff		
 ślinienia	ślinić	ger:pl:nom.acc:n2:imperf:aff		
 ślinienia	ślinić	ger:sg:gen:n2:imperf:aff		
 ślinieniem	ślinić	ger:sg:inst:n2:imperf:aff		
 ślinienie	ślinić	ger:sg:nom.acc:n2:imperf:aff		
-ślinieniom	ślinić	ger:pl:dat.loc:n2:imperf:aff		
+ślinieniom	ślinić	ger:pl:dat:n2:imperf:aff		
 ślinieni	ślinić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ślinieniu	ślinić	ger:sg:dat.loc:n2:imperf:aff		
 ślinień	ślinić	ger:pl:gen:n2:imperf:aff		
@@ -9153,12 +9213,13 @@
 ślipałyśmy	ślipać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 ślipam	ślipać	fin:sg:pri:imperf		
 ślipamy	ślipać	fin:pl:pri:imperf		
+ślipaniach	ślipać	ger:pl:loc:n2:imperf:aff		
 ślipaniami	ślipać	ger:pl:inst:n2:imperf:aff		
 ślipania	ślipać	ger:pl:nom.acc:n2:imperf:aff		
 ślipania	ślipać	ger:sg:gen:n2:imperf:aff		
 ślipaniem	ślipać	ger:sg:inst:n2:imperf:aff		
 ślipanie	ślipać	ger:sg:nom.acc:n2:imperf:aff		
-ślipaniom	ślipać	ger:pl:dat.loc:n2:imperf:aff		
+ślipaniom	ślipać	ger:pl:dat:n2:imperf:aff		
 ślipaniu	ślipać	ger:sg:dat.loc:n2:imperf:aff		
 ślipano	ślipać	imps:imperf		
 ślipań	ślipać	ger:pl:gen:n2:imperf:aff		
@@ -9238,12 +9299,13 @@
 ślipiałyśmy	ślipiać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 ślipiam	ślipiać	fin:sg:pri:imperf		
 ślipiamy	ślipiać	fin:pl:pri:imperf		
+ślipianiach	ślipiać	ger:pl:loc:n2:imperf:aff		
 ślipianiami	ślipiać	ger:pl:inst:n2:imperf:aff		
 ślipiania	ślipiać	ger:pl:nom.acc:n2:imperf:aff		
 ślipiania	ślipiać	ger:sg:gen:n2:imperf:aff		
 ślipianiem	ślipiać	ger:sg:inst:n2:imperf:aff		
 ślipianie	ślipiać	ger:sg:nom.acc:n2:imperf:aff		
-ślipianiom	ślipiać	ger:pl:dat.loc:n2:imperf:aff		
+ślipianiom	ślipiać	ger:pl:dat:n2:imperf:aff		
 ślipianiu	ślipiać	ger:sg:dat.loc:n2:imperf:aff		
 ślipiano	ślipiać	imps:imperf		
 ślipiań	ślipiać	ger:pl:gen:n2:imperf:aff		
@@ -9321,12 +9383,13 @@
 ślipieli	ślipieć	praet:pl:m1.p1:imperf		
 ślipieli	ślipieć	praet:pl:m1.p1:ter:imperf		
 ślipieliśmy	ślipieć	praet:pl:m1.p1:pri:imperf		
+ślipieniach	ślipieć	ger:pl:loc:n2:imperf:aff		
 ślipieniami	ślipieć	ger:pl:inst:n2:imperf:aff		
 ślipienia	ślipieć	ger:pl:nom.acc:n2:imperf:aff		
 ślipienia	ślipieć	ger:sg:gen:n2:imperf:aff		
 ślipieniem	ślipieć	ger:sg:inst:n2:imperf:aff		
 ślipienie	ślipieć	ger:sg:nom.acc:n2:imperf:aff		
-ślipieniom	ślipieć	ger:pl:dat.loc:n2:imperf:aff		
+ślipieniom	ślipieć	ger:pl:dat:n2:imperf:aff		
 ślipieniu	ślipieć	ger:sg:dat.loc:n2:imperf:aff		
 ślipień	ślipieć	ger:pl:gen:n2:imperf:aff		
 ślipię	ślipieć	fin:sg:pri:imperf		
@@ -9768,12 +9831,13 @@
 ślizgałyśmy	ślizgać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 ślizgam	ślizgać	fin:sg:pri:imperf		
 ślizgamy	ślizgać	fin:pl:pri:imperf		
+ślizganiach	ślizgać	ger:pl:loc:n2:imperf:aff		
 ślizganiami	ślizgać	ger:pl:inst:n2:imperf:aff		
 ślizgania	ślizgać	ger:pl:nom.acc:n2:imperf:aff		
 ślizgania	ślizgać	ger:sg:gen:n2:imperf:aff		
 ślizganiem	ślizgać	ger:sg:inst:n2:imperf:aff		
 ślizganie	ślizgać	ger:sg:nom.acc:n2:imperf:aff		
-ślizganiom	ślizgać	ger:pl:dat.loc:n2:imperf:aff		
+ślizganiom	ślizgać	ger:pl:dat:n2:imperf:aff		
 ślizganiu	ślizgać	ger:sg:dat.loc:n2:imperf:aff		
 ślizgano	ślizgać	imps:imperf		
 ślizgań	ślizgać	ger:pl:gen:n2:imperf:aff		
@@ -10074,12 +10138,13 @@
 śliźniemy	śliznąć	fin:pl:pri:perf		rzad.
 śliźniesz	śliznąć	fin:sg:sec:perf		rzad.
 śliźnie	śliznąć	fin:sg:ter:perf		rzad.
+śliźnięciach	śliznąć	ger:pl:loc:n2:perf:aff		
 śliźnięciami	śliznąć	ger:pl:inst:n2:perf:aff		
 śliźnięcia	śliznąć	ger:pl:nom.acc:n2:perf:aff		
 śliźnięcia	śliznąć	ger:sg:gen:n2:perf:aff		
 śliźnięciem	śliznąć	ger:sg:inst:n2:perf:aff		
 śliźnięcie	śliznąć	ger:sg:nom.acc:n2:perf:aff		
-śliźnięciom	śliznąć	ger:pl:dat.loc:n2:perf:aff		
+śliźnięciom	śliznąć	ger:pl:dat:n2:perf:aff		
 śliźnięciu	śliznąć	ger:sg:dat.loc:n2:perf:aff		
 śliźnięć	śliznąć	ger:pl:gen:n2:perf:aff		
 śliźnięto	śliznąć	imps:perf		rzad.
@@ -10134,12 +10199,13 @@
 ślnią	ślnić	fin:pl:ter:imperf		daw.
 ślnicie	ślnić	fin:pl:sec:imperf		daw.
 ślnić	ślnić	inf:imperf		daw.
+ślnieniach	ślnić	ger:pl:loc:n2:imperf:aff		
 ślnieniami	ślnić	ger:pl:inst:n2:imperf:aff		
 ślnienia	ślnić	ger:pl:nom.acc:n2:imperf:aff		
 ślnienia	ślnić	ger:sg:gen:n2:imperf:aff		
 ślnieniem	ślnić	ger:sg:inst:n2:imperf:aff		
 ślnienie	ślnić	ger:sg:nom.acc:n2:imperf:aff		
-ślnieniom	ślnić	ger:pl:dat.loc:n2:imperf:aff		
+ślnieniom	ślnić	ger:pl:dat:n2:imperf:aff		
 ślnieniu	ślnić	ger:sg:dat.loc:n2:imperf:aff		
 ślnień	ślnić	ger:pl:gen:n2:imperf:aff		
 ślnię	ślnić	fin:sg:pri:imperf		daw.
@@ -10234,12 +10300,13 @@
 ślubią	ślubić	fin:pl:ter:imperf		daw.
 ślubicie	ślubić	fin:pl:sec:imperf		daw.
 ślubić	ślubić	inf:imperf		daw.
+ślubieniach	ślubić	ger:pl:loc:n2:imperf:aff		
 ślubieniami	ślubić	ger:pl:inst:n2:imperf:aff		
 ślubienia	ślubić	ger:pl:nom.acc:n2:imperf:aff		
 ślubienia	ślubić	ger:sg:gen:n2:imperf:aff		
 ślubieniem	ślubić	ger:sg:inst:n2:imperf:aff		
 ślubienie	ślubić	ger:sg:nom.acc:n2:imperf:aff		
-ślubieniom	ślubić	ger:pl:dat.loc:n2:imperf:aff		
+ślubieniom	ślubić	ger:pl:dat:n2:imperf:aff		
 ślubieni	ślubić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ślubieniu	ślubić	ger:sg:dat.loc:n2:imperf:aff		
 ślubień	ślubić	ger:pl:gen:n2:imperf:aff		
@@ -10413,12 +10480,13 @@
 ślubowanemu	ślubować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
 ślubowane	ślubować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff		
 ślubowane	ślubować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
+ślubowaniach	ślubować	ger:pl:loc:n2:imperf.perf:aff		
 ślubowaniami	ślubować	ger:pl:inst:n2:imperf.perf:aff		
 ślubowania	ślubować	ger:pl:nom.acc:n2:imperf.perf:aff		
 ślubowania	ślubować	ger:sg:gen:n2:imperf.perf:aff		
 ślubowaniem	ślubować	ger:sg:inst:n2:imperf.perf:aff		
 ślubowanie	ślubować	ger:sg:nom.acc:n2:imperf.perf:aff		
-ślubowaniom	ślubować	ger:pl:dat.loc:n2:imperf.perf:aff		
+ślubowaniom	ślubować	ger:pl:dat:n2:imperf.perf:aff		
 ślubowani	ślubować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
 ślubowaniu	ślubować	ger:sg:dat.loc:n2:imperf.perf:aff		
 ślubowano	ślubować	imps:imperf.perf		
@@ -10773,12 +10841,13 @@
 śluzotoku	śluzotok	subst:sg:gen:m3	pospolita	
 śluzotoku	śluzotok	subst:sg:loc:m3	pospolita	
 śluzotoku	śluzotok	subst:sg:voc:m3	pospolita	
+śluzowaceniach	śluzowacieć	ger:pl:loc:n2:imperf:aff		
 śluzowaceniami	śluzowacieć	ger:pl:inst:n2:imperf:aff		
 śluzowacenia	śluzowacieć	ger:pl:nom.acc:n2:imperf:aff		
 śluzowacenia	śluzowacieć	ger:sg:gen:n2:imperf:aff		
 śluzowaceniem	śluzowacieć	ger:sg:inst:n2:imperf:aff		
 śluzowacenie	śluzowacieć	ger:sg:nom.acc:n2:imperf:aff		
-śluzowaceniom	śluzowacieć	ger:pl:dat.loc:n2:imperf:aff		
+śluzowaceniom	śluzowacieć	ger:pl:dat:n2:imperf:aff		
 śluzowaceniu	śluzowacieć	ger:sg:dat.loc:n2:imperf:aff		
 śluzowaceń	śluzowacieć	ger:pl:gen:n2:imperf:aff		
 śluzowaciałabym	śluzowacieć	cond:sg:f:pri:imperf		rzad.
@@ -10888,12 +10957,13 @@
 śluzowanemu	śluzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 śluzowane	śluzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 śluzowane	śluzować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+śluzowaniach	śluzować	ger:pl:loc:n2:imperf:aff		
 śluzowaniami	śluzować	ger:pl:inst:n2:imperf:aff		
 śluzowania	śluzować	ger:pl:nom.acc:n2:imperf:aff		
 śluzowania	śluzować	ger:sg:gen:n2:imperf:aff		
 śluzowaniem	śluzować	ger:sg:inst:n2:imperf:aff		
 śluzowanie	śluzować	ger:sg:nom.acc:n2:imperf:aff		
-śluzowaniom	śluzować	ger:pl:dat.loc:n2:imperf:aff		
+śluzowaniom	śluzować	ger:pl:dat:n2:imperf:aff		
 śluzowani	śluzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śluzowaniu	śluzować	ger:sg:dat.loc:n2:imperf:aff		
 śluzowano	śluzować	imps:imperf		rzad.
@@ -11115,12 +11185,13 @@
 śmiały	śmiać	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
 śmiały	śmiać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 śmiałyśmy	śmiać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+śmianiach	śmiać	ger:pl:loc:n2:imperf:aff		
 śmianiami	śmiać	ger:pl:inst:n2:imperf:aff		
 śmiania	śmiać	ger:pl:nom.acc:n2:imperf:aff		
 śmiania	śmiać	ger:sg:gen:n2:imperf:aff		
 śmianiem	śmiać	ger:sg:inst:n2:imperf:aff		
 śmianie	śmiać	ger:sg:nom.acc:n2:imperf:aff		
-śmianiom	śmiać	ger:pl:dat.loc:n2:imperf:aff		
+śmianiom	śmiać	ger:pl:dat:n2:imperf:aff		
 śmianiu	śmiać	ger:sg:dat.loc:n2:imperf:aff		
 śmiano	śmiać	imps:imperf		
 śmiań	śmiać	ger:pl:gen:n2:imperf:aff		
@@ -11337,12 +11408,13 @@
 śmiardniemy	śmiardnąć	fin:pl:pri:imperf		pot.
 śmiardniesz	śmiardnąć	fin:sg:sec:imperf		pot.
 śmiardnie	śmiardnąć	fin:sg:ter:imperf		pot.
+śmiardnięciach	śmiardnąć	ger:pl:loc:n2:imperf:aff		
 śmiardnięciami	śmiardnąć	ger:pl:inst:n2:imperf:aff		
 śmiardnięcia	śmiardnąć	ger:pl:nom.acc:n2:imperf:aff		
 śmiardnięcia	śmiardnąć	ger:sg:gen:n2:imperf:aff		
 śmiardnięciem	śmiardnąć	ger:sg:inst:n2:imperf:aff		
 śmiardnięcie	śmiardnąć	ger:sg:nom.acc:n2:imperf:aff		
-śmiardnięciom	śmiardnąć	ger:pl:dat.loc:n2:imperf:aff		
+śmiardnięciom	śmiardnąć	ger:pl:dat:n2:imperf:aff		
 śmiardnięciu	śmiardnąć	ger:sg:dat.loc:n2:imperf:aff		
 śmiardnięć	śmiardnąć	ger:pl:gen:n2:imperf:aff		
 śmiardnięto	śmiardnąć	imps:imperf		pot.
@@ -11552,12 +11624,13 @@
 śmiecący	śmiecić	pact:sg:acc:m3:imperf:aff		
 śmiecący	śmiecić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 śmiecą	śmiecić	fin:pl:ter:imperf		
+śmieceniach	śmiecić	ger:pl:loc:n2:imperf:aff		
 śmieceniami	śmiecić	ger:pl:inst:n2:imperf:aff		
 śmiecenia	śmiecić	ger:pl:nom.acc:n2:imperf:aff		
 śmiecenia	śmiecić	ger:sg:gen:n2:imperf:aff		
 śmieceniem	śmiecić	ger:sg:inst:n2:imperf:aff		
 śmiecenie	śmiecić	ger:sg:nom.acc:n2:imperf:aff		
-śmieceniom	śmiecić	ger:pl:dat.loc:n2:imperf:aff		
+śmieceniom	śmiecić	ger:pl:dat:n2:imperf:aff		
 śmieceniu	śmiecić	ger:sg:dat.loc:n2:imperf:aff		
 śmieceń	śmiecić	ger:pl:gen:n2:imperf:aff		
 śmiecę	śmiecić	fin:sg:pri:imperf		
@@ -11971,12 +12044,13 @@
 śmieliśmy	śmieć:v	praet:pl:m1.p1:pri:imperf		
 śmiem	śmieć:v	fin:sg:pri:imperf		
 śmiemy	śmieć:v	fin:pl:pri:imperf		
+śmieniach	śmieć:v	ger:pl:loc:n2:imperf:aff		
 śmieniami	śmieć:v	ger:pl:inst:n2:imperf:aff		
 śmienia	śmieć:v	ger:pl:nom.acc:n2:imperf:aff		
 śmienia	śmieć:v	ger:sg:gen:n2:imperf:aff		
 śmieniem	śmieć:v	ger:sg:inst:n2:imperf:aff		
 śmienie	śmieć:v	ger:sg:nom.acc:n2:imperf:aff		
-śmieniom	śmieć:v	ger:pl:dat.loc:n2:imperf:aff		
+śmieniom	śmieć:v	ger:pl:dat:n2:imperf:aff		
 śmieniu	śmieć:v	ger:sg:dat.loc:n2:imperf:aff		
 śmień	śmieć:v	ger:pl:gen:n2:imperf:aff		
 śmiesz	śmieć:v	fin:sg:sec:imperf		
@@ -12263,12 +12337,13 @@
 śmierdniemy	śmierdnąć	fin:pl:pri:imperf		pot.
 śmierdniesz	śmierdnąć	fin:sg:sec:imperf		pot.
 śmierdnie	śmierdnąć	fin:sg:ter:imperf		pot.
+śmierdnięciach	śmierdnąć	ger:pl:loc:n2:imperf:aff		
 śmierdnięciami	śmierdnąć	ger:pl:inst:n2:imperf:aff		
 śmierdnięcia	śmierdnąć	ger:pl:nom.acc:n2:imperf:aff		
 śmierdnięcia	śmierdnąć	ger:sg:gen:n2:imperf:aff		
 śmierdnięciem	śmierdnąć	ger:sg:inst:n2:imperf:aff		
 śmierdnięcie	śmierdnąć	ger:sg:nom.acc:n2:imperf:aff		
-śmierdnięciom	śmierdnąć	ger:pl:dat.loc:n2:imperf:aff		
+śmierdnięciom	śmierdnąć	ger:pl:dat:n2:imperf:aff		
 śmierdnięciu	śmierdnąć	ger:sg:dat.loc:n2:imperf:aff		
 śmierdnięć	śmierdnąć	ger:pl:gen:n2:imperf:aff		
 śmierdnięto	śmierdnąć	imps:imperf		pot.
@@ -12332,12 +12407,13 @@
 śmierdzący	śmierdzić	pact:sg:acc:m3:imperf:aff		
 śmierdzący	śmierdzić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 śmierdzą	śmierdzić	fin:pl:ter:imperf		
+śmierdzeniach	śmierdzić	ger:pl:loc:n2:imperf:aff		
 śmierdzeniami	śmierdzić	ger:pl:inst:n2:imperf:aff		
 śmierdzenia	śmierdzić	ger:pl:nom.acc:n2:imperf:aff		
 śmierdzenia	śmierdzić	ger:sg:gen:n2:imperf:aff		
 śmierdzeniem	śmierdzić	ger:sg:inst:n2:imperf:aff		
 śmierdzenie	śmierdzić	ger:sg:nom.acc:n2:imperf:aff		
-śmierdzeniom	śmierdzić	ger:pl:dat.loc:n2:imperf:aff		
+śmierdzeniom	śmierdzić	ger:pl:dat:n2:imperf:aff		
 śmierdzeniu	śmierdzić	ger:sg:dat.loc:n2:imperf:aff		
 śmierdzeń	śmierdzić	ger:pl:gen:n2:imperf:aff		
 śmierdzę	śmierdzić	fin:sg:pri:imperf		
@@ -12403,12 +12479,13 @@
 śmierdzący	śmierdzieć	pact:sg:acc:m3:imperf:aff		
 śmierdzący	śmierdzieć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 śmierdzą	śmierdzieć	fin:pl:ter:imperf		
+śmierdzeniach	śmierdzieć	ger:pl:loc:n2:imperf:aff		
 śmierdzeniami	śmierdzieć	ger:pl:inst:n2:imperf:aff		
 śmierdzenia	śmierdzieć	ger:pl:nom.acc:n2:imperf:aff		
 śmierdzenia	śmierdzieć	ger:sg:gen:n2:imperf:aff		
 śmierdzeniem	śmierdzieć	ger:sg:inst:n2:imperf:aff		
 śmierdzenie	śmierdzieć	ger:sg:nom.acc:n2:imperf:aff		
-śmierdzeniom	śmierdzieć	ger:pl:dat.loc:n2:imperf:aff		
+śmierdzeniom	śmierdzieć	ger:pl:dat:n2:imperf:aff		
 śmierdzeniu	śmierdzieć	ger:sg:dat.loc:n2:imperf:aff		
 śmierdzeń	śmierdzieć	ger:pl:gen:n2:imperf:aff		
 śmierdzę	śmierdzieć	fin:sg:pri:imperf		
@@ -12689,12 +12766,13 @@
 śmierzący	śmierzyć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 śmierzą	śmierzyć	fin:pl:ter:imperf		daw.
 śmierzcie	śmierzyć	impt:pl:sec:imperf		daw.
+śmierzeniach	śmierzyć	ger:pl:loc:n2:imperf:aff		
 śmierzeniami	śmierzyć	ger:pl:inst:n2:imperf:aff		
 śmierzenia	śmierzyć	ger:pl:nom.acc:n2:imperf:aff		
 śmierzenia	śmierzyć	ger:sg:gen:n2:imperf:aff		
 śmierzeniem	śmierzyć	ger:sg:inst:n2:imperf:aff		
 śmierzenie	śmierzyć	ger:sg:nom.acc:n2:imperf:aff		
-śmierzeniom	śmierzyć	ger:pl:dat.loc:n2:imperf:aff		
+śmierzeniom	śmierzyć	ger:pl:dat:n2:imperf:aff		
 śmierzeni	śmierzyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śmierzeniu	śmierzyć	ger:sg:dat.loc:n2:imperf:aff		
 śmierzeń	śmierzyć	ger:pl:gen:n2:imperf:aff		
@@ -12919,12 +12997,13 @@
 śmieszący	śmieszyć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 śmieszą	śmieszyć	fin:pl:ter:imperf		
 śmieszcie	śmieszyć	impt:pl:sec:imperf		
+śmieszeniach	śmieszyć	ger:pl:loc:n2:imperf:aff		
 śmieszeniami	śmieszyć	ger:pl:inst:n2:imperf:aff		
 śmieszenia	śmieszyć	ger:pl:nom.acc:n2:imperf:aff		
 śmieszenia	śmieszyć	ger:sg:gen:n2:imperf:aff		
 śmieszeniem	śmieszyć	ger:sg:inst:n2:imperf:aff		
 śmieszenie	śmieszyć	ger:sg:nom.acc:n2:imperf:aff		
-śmieszeniom	śmieszyć	ger:pl:dat.loc:n2:imperf:aff		
+śmieszeniom	śmieszyć	ger:pl:dat:n2:imperf:aff		
 śmieszeni	śmieszyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śmieszeniu	śmieszyć	ger:sg:dat.loc:n2:imperf:aff		
 śmieszeń	śmieszyć	ger:pl:gen:n2:imperf:aff		
@@ -13331,12 +13410,13 @@
 śmigałyśmy	śmigać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 śmigam	śmigać	fin:sg:pri:imperf		
 śmigamy	śmigać	fin:pl:pri:imperf		
+śmiganiach	śmigać	ger:pl:loc:n2:imperf:aff		
 śmiganiami	śmigać	ger:pl:inst:n2:imperf:aff		
 śmigania	śmigać	ger:pl:nom.acc:n2:imperf:aff		
 śmigania	śmigać	ger:sg:gen:n2:imperf:aff		
 śmiganiem	śmigać	ger:sg:inst:n2:imperf:aff		
 śmiganie	śmigać	ger:sg:nom.acc:n2:imperf:aff		
-śmiganiom	śmigać	ger:pl:dat.loc:n2:imperf:aff		
+śmiganiom	śmigać	ger:pl:dat:n2:imperf:aff		
 śmiganiu	śmigać	ger:sg:dat.loc:n2:imperf:aff		
 śmigano	śmigać	imps:imperf		
 śmigań	śmigać	ger:pl:gen:n2:imperf:aff		
@@ -13688,12 +13768,13 @@
 śmigniemy	śmignąć	fin:pl:pri:perf		
 śmigniesz	śmignąć	fin:sg:sec:perf		
 śmignie	śmignąć	fin:sg:ter:perf		
+śmignięciach	śmignąć	ger:pl:loc:n2:perf:aff		
 śmignięciami	śmignąć	ger:pl:inst:n2:perf:aff		
 śmignięcia	śmignąć	ger:pl:nom.acc:n2:perf:aff		
 śmignięcia	śmignąć	ger:sg:gen:n2:perf:aff		
 śmignięciem	śmignąć	ger:sg:inst:n2:perf:aff		
 śmignięcie	śmignąć	ger:sg:nom.acc:n2:perf:aff		
-śmignięciom	śmignąć	ger:pl:dat.loc:n2:perf:aff		
+śmignięciom	śmignąć	ger:pl:dat:n2:perf:aff		
 śmignięciu	śmignąć	ger:sg:dat.loc:n2:perf:aff		
 śmignięć	śmignąć	ger:pl:gen:n2:perf:aff		
 śmignięto	śmignąć	imps:perf		
@@ -13844,12 +13925,13 @@
 śniadały	śniadać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
 śniadam	śniadać	fin:sg:pri:imperf		przest.
 śniadamy	śniadać	fin:pl:pri:imperf		przest.
+śniadaniach	śniadać	ger:pl:loc:n2:imperf:aff		
 śniadaniami	śniadać	ger:pl:inst:n2:imperf:aff		
 śniadania	śniadać	ger:pl:nom.acc:n2:imperf:aff		
 śniadania	śniadać	ger:sg:gen:n2:imperf:aff		
 śniadaniem	śniadać	ger:sg:inst:n2:imperf:aff		
 śniadanie	śniadać	ger:sg:nom.acc:n2:imperf:aff		
-śniadaniom	śniadać	ger:pl:dat.loc:n2:imperf:aff		
+śniadaniom	śniadać	ger:pl:dat:n2:imperf:aff		
 śniadaniu	śniadać	ger:sg:dat.loc:n2:imperf:aff		
 śniadano	śniadać	imps:imperf		przest.
 śniadań	śniadać	ger:pl:gen:n2:imperf:aff		
@@ -14402,12 +14484,13 @@
 śnią	śnić	fin:pl:ter:imperf		
 śnicie	śnić	fin:pl:sec:imperf		
 śnić	śnić	inf:imperf		
+śnieniach	śnić	ger:pl:loc:n2:imperf:aff		
 śnieniami	śnić	ger:pl:inst:n2:imperf:aff		
 śnienia	śnić	ger:pl:nom.acc:n2:imperf:aff		
 śnienia	śnić	ger:sg:gen:n2:imperf:aff		
 śnieniem	śnić	ger:sg:inst:n2:imperf:aff		
 śnienie	śnić	ger:sg:nom.acc:n2:imperf:aff		
-śnieniom	śnić	ger:pl:dat.loc:n2:imperf:aff		
+śnieniom	śnić	ger:pl:dat:n2:imperf:aff		
 śnieni	śnić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śnieniu	śnić	ger:sg:dat.loc:n2:imperf:aff		
 śnień	śnić	ger:pl:gen:n2:imperf:aff		
@@ -14580,12 +14663,13 @@
 śniedków	śniedek	subst:pl:gen:m3	pospolita	
 śniedku	śniedek	subst:sg:loc:m3	pospolita	
 śniedku	śniedek	subst:sg:voc:m3	pospolita	
+śniedzeniach	śniedzieć	ger:pl:loc:n2:imperf:aff		
 śniedzeniami	śniedzieć	ger:pl:inst:n2:imperf:aff		
 śniedzenia	śniedzieć	ger:pl:nom.acc:n2:imperf:aff		
 śniedzenia	śniedzieć	ger:sg:gen:n2:imperf:aff		
 śniedzeniem	śniedzieć	ger:sg:inst:n2:imperf:aff		
 śniedzenie	śniedzieć	ger:sg:nom.acc:n2:imperf:aff		
-śniedzeniom	śniedzieć	ger:pl:dat.loc:n2:imperf:aff		
+śniedzeniom	śniedzieć	ger:pl:dat:n2:imperf:aff		
 śniedzeniu	śniedzieć	ger:sg:dat.loc:n2:imperf:aff		
 śniedzeń	śniedzieć	ger:pl:gen:n2:imperf:aff		
 śniedziałabym	śniedzieć	cond:sg:f:pri:imperf		
@@ -15304,12 +15388,13 @@
 śnieżący	śnieżyć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 śnieżą	śnieżyć	fin:pl:ter:imperf		
 śnieżcie	śnieżyć	impt:pl:sec:imperf		
+śnieżeniach	śnieżyć	ger:pl:loc:n2:imperf:aff		
 śnieżeniami	śnieżyć	ger:pl:inst:n2:imperf:aff		
 śnieżenia	śnieżyć	ger:pl:nom.acc:n2:imperf:aff		
 śnieżenia	śnieżyć	ger:sg:gen:n2:imperf:aff		
 śnieżeniem	śnieżyć	ger:sg:inst:n2:imperf:aff		
 śnieżenie	śnieżyć	ger:sg:nom.acc:n2:imperf:aff		
-śnieżeniom	śnieżyć	ger:pl:dat.loc:n2:imperf:aff		
+śnieżeniom	śnieżyć	ger:pl:dat:n2:imperf:aff		
 śnieżeniu	śnieżyć	ger:sg:dat.loc:n2:imperf:aff		
 śnieżeń	śnieżyć	ger:pl:gen:n2:imperf:aff		
 śnieżę	śnieżyć	fin:sg:pri:imperf		
@@ -15825,12 +15910,13 @@
 śpieszanemu	śpieszać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 śpieszane	śpieszać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 śpieszane	śpieszać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+śpieszaniach	śpieszać	ger:pl:loc:n2:imperf:aff		
 śpieszaniami	śpieszać	ger:pl:inst:n2:imperf:aff		
 śpieszania	śpieszać	ger:pl:nom.acc:n2:imperf:aff		
 śpieszania	śpieszać	ger:sg:gen:n2:imperf:aff		
 śpieszaniem	śpieszać	ger:sg:inst:n2:imperf:aff		
 śpieszanie	śpieszać	ger:sg:nom.acc:n2:imperf:aff		
-śpieszaniom	śpieszać	ger:pl:dat.loc:n2:imperf:aff		
+śpieszaniom	śpieszać	ger:pl:dat:n2:imperf:aff		
 śpieszani	śpieszać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śpieszaniu	śpieszać	ger:sg:dat.loc:n2:imperf:aff		
 śpieszano	śpieszać	imps:imperf		przest.
@@ -15928,12 +16014,13 @@
 śpieszący	śpieszyć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 śpieszą	śpieszyć	fin:pl:ter:imperf		
 śpieszcie	śpieszyć	impt:pl:sec:imperf		
+śpieszeniach	śpieszyć	ger:pl:loc:n2:imperf:aff		
 śpieszeniami	śpieszyć	ger:pl:inst:n2:imperf:aff		
 śpieszenia	śpieszyć	ger:pl:nom.acc:n2:imperf:aff		
 śpieszenia	śpieszyć	ger:sg:gen:n2:imperf:aff		
 śpieszeniem	śpieszyć	ger:sg:inst:n2:imperf:aff		
 śpieszenie	śpieszyć	ger:sg:nom.acc:n2:imperf:aff		
-śpieszeniom	śpieszyć	ger:pl:dat.loc:n2:imperf:aff		
+śpieszeniom	śpieszyć	ger:pl:dat:n2:imperf:aff		
 śpieszeni	śpieszyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śpieszeniu	śpieszyć	ger:sg:dat.loc:n2:imperf:aff		
 śpieszeń	śpieszyć	ger:pl:gen:n2:imperf:aff		
@@ -16198,12 +16285,13 @@
 śpiewanemu	śpiewać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 śpiewane	śpiewać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 śpiewane	śpiewać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+śpiewaniach	śpiewać	ger:pl:loc:n2:imperf:aff		
 śpiewaniami	śpiewać	ger:pl:inst:n2:imperf:aff		
 śpiewania	śpiewać	ger:pl:nom.acc:n2:imperf:aff		
 śpiewania	śpiewać	ger:sg:gen:n2:imperf:aff		
 śpiewaniem	śpiewać	ger:sg:inst:n2:imperf:aff		
 śpiewanie	śpiewać	ger:sg:nom.acc:n2:imperf:aff		
-śpiewaniom	śpiewać	ger:pl:dat.loc:n2:imperf:aff		
+śpiewaniom	śpiewać	ger:pl:dat:n2:imperf:aff		
 śpiewani	śpiewać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śpiewaniu	śpiewać	ger:sg:dat.loc:n2:imperf:aff		
 śpiewano	śpiewać	imps:imperf		
@@ -16548,12 +16636,13 @@
 śpiewywanemu	śpiewywać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 śpiewywane	śpiewywać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 śpiewywane	śpiewywać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+śpiewywaniach	śpiewywać	ger:pl:loc:n2:imperf:aff		
 śpiewywaniami	śpiewywać	ger:pl:inst:n2:imperf:aff		
 śpiewywania	śpiewywać	ger:pl:nom.acc:n2:imperf:aff		
 śpiewywania	śpiewywać	ger:sg:gen:n2:imperf:aff		
 śpiewywaniem	śpiewywać	ger:sg:inst:n2:imperf:aff		
 śpiewywanie	śpiewywać	ger:sg:nom.acc:n2:imperf:aff		
-śpiewywaniom	śpiewywać	ger:pl:dat.loc:n2:imperf:aff		
+śpiewywaniom	śpiewywać	ger:pl:dat:n2:imperf:aff		
 śpiewywani	śpiewywać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śpiewywaniu	śpiewywać	ger:sg:dat.loc:n2:imperf:aff		
 śpiewywano	śpiewywać	imps:imperf		przest.
@@ -18404,12 +18493,13 @@
 środkowanemu	środkować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 środkowane	środkować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 środkowane	środkować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+środkowaniach	środkować	ger:pl:loc:n2:imperf:aff		
 środkowaniami	środkować	ger:pl:inst:n2:imperf:aff		
 środkowania	środkować	ger:pl:nom.acc:n2:imperf:aff		
 środkowania	środkować	ger:sg:gen:n2:imperf:aff		
 środkowaniem	środkować	ger:sg:inst:n2:imperf:aff		
 środkowanie	środkować	ger:sg:nom.acc:n2:imperf:aff		
-środkowaniom	środkować	ger:pl:dat.loc:n2:imperf:aff		
+środkowaniom	środkować	ger:pl:dat:n2:imperf:aff		
 środkowani	środkować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 środkowaniu	środkować	ger:sg:dat.loc:n2:imperf:aff		
 środkowano	środkować	imps:imperf		
@@ -20508,12 +20598,13 @@
 śrubkowałyśmy	śrubkować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		żegl.
 śrubkowały	śrubkować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		żegl.
 śrubkowały	śrubkować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		żegl.
+śrubkowaniach	śrubkować	ger:pl:loc:n2:imperf:aff		
 śrubkowaniami	śrubkować	ger:pl:inst:n2:imperf:aff		
 śrubkowania	śrubkować	ger:pl:nom.acc:n2:imperf:aff		
 śrubkowania	śrubkować	ger:sg:gen:n2:imperf:aff		
 śrubkowaniem	śrubkować	ger:sg:inst:n2:imperf:aff		
 śrubkowanie	śrubkować	ger:sg:nom.acc:n2:imperf:aff		
-śrubkowaniom	śrubkować	ger:pl:dat.loc:n2:imperf:aff		
+śrubkowaniom	śrubkować	ger:pl:dat:n2:imperf:aff		
 śrubkowaniu	śrubkować	ger:sg:dat.loc:n2:imperf:aff		
 śrubkowano	śrubkować	imps:imperf		żegl.
 śrubkowań	śrubkować	ger:pl:gen:n2:imperf:aff		
@@ -20630,12 +20721,13 @@
 śrubowanemu	śrubować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 śrubowane	śrubować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 śrubowane	śrubować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+śrubowaniach	śrubować	ger:pl:loc:n2:imperf:aff		
 śrubowaniami	śrubować	ger:pl:inst:n2:imperf:aff		
 śrubowania	śrubować	ger:pl:nom.acc:n2:imperf:aff		
 śrubowania	śrubować	ger:sg:gen:n2:imperf:aff		
 śrubowaniem	śrubować	ger:sg:inst:n2:imperf:aff		
 śrubowanie	śrubować	ger:sg:nom.acc:n2:imperf:aff		
-śrubowaniom	śrubować	ger:pl:dat.loc:n2:imperf:aff		
+śrubowaniom	śrubować	ger:pl:dat:n2:imperf:aff		
 śrubowani	śrubować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śrubowaniu	śrubować	ger:sg:dat.loc:n2:imperf:aff		
 śrubowano	śrubować	imps:imperf		
@@ -20879,12 +20971,13 @@
 śrutowanemu	śrutować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 śrutowane	śrutować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 śrutowane	śrutować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+śrutowaniach	śrutować	ger:pl:loc:n2:imperf:aff		
 śrutowaniami	śrutować	ger:pl:inst:n2:imperf:aff		
 śrutowania	śrutować	ger:pl:nom.acc:n2:imperf:aff		
 śrutowania	śrutować	ger:sg:gen:n2:imperf:aff		
 śrutowaniem	śrutować	ger:sg:inst:n2:imperf:aff		
 śrutowanie	śrutować	ger:sg:nom.acc:n2:imperf:aff		
-śrutowaniom	śrutować	ger:pl:dat.loc:n2:imperf:aff		
+śrutowaniom	śrutować	ger:pl:dat:n2:imperf:aff		
 śrutowani	śrutować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 śrutowaniu	śrutować	ger:sg:dat.loc:n2:imperf:aff		
 śrutowano	śrutować	imps:imperf		
@@ -21202,12 +21295,13 @@
 śrzodkowałyśmy	śrzodkować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
 śrzodkowały	śrzodkować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 śrzodkowały	śrzodkować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
+śrzodkowaniach	śrzodkować	ger:pl:loc:n2:imperf:aff		
 śrzodkowaniami	śrzodkować	ger:pl:inst:n2:imperf:aff		
 śrzodkowania	śrzodkować	ger:pl:nom.acc:n2:imperf:aff		
 śrzodkowania	śrzodkować	ger:sg:gen:n2:imperf:aff		
 śrzodkowaniem	śrzodkować	ger:sg:inst:n2:imperf:aff		
 śrzodkowanie	śrzodkować	ger:sg:nom.acc:n2:imperf:aff		
-śrzodkowaniom	śrzodkować	ger:pl:dat.loc:n2:imperf:aff		
+śrzodkowaniom	śrzodkować	ger:pl:dat:n2:imperf:aff		
 śrzodkowaniu	śrzodkować	ger:sg:dat.loc:n2:imperf:aff		
 śrzodkowano	śrzodkować	imps:imperf		daw.
 śrzodkowań	śrzodkować	ger:pl:gen:n2:imperf:aff		
@@ -21378,12 +21472,13 @@
 świadczący	świadczyć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 świadczą	świadczyć	fin:pl:ter:imperf		
 świadczcie	świadczyć	impt:pl:sec:imperf		
+świadczeniach	świadczyć	ger:pl:loc:n2:imperf:aff		
 świadczeniami	świadczyć	ger:pl:inst:n2:imperf:aff		
 świadczenia	świadczyć	ger:pl:nom.acc:n2:imperf:aff		
 świadczenia	świadczyć	ger:sg:gen:n2:imperf:aff		
 świadczeniem	świadczyć	ger:sg:inst:n2:imperf:aff		
 świadczenie	świadczyć	ger:sg:nom.acc:n2:imperf:aff		
-świadczeniom	świadczyć	ger:pl:dat.loc:n2:imperf:aff		
+świadczeniom	świadczyć	ger:pl:dat:n2:imperf:aff		
 świadczeni	świadczyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
 świadczeniu	świadczyć	ger:sg:dat.loc:n2:imperf:aff		
 świadczeń	świadczyć	ger:pl:gen:n2:imperf:aff		
@@ -21551,12 +21646,13 @@
 świadkowałyśmy	świadkować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 świadkowały	świadkować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
 świadkowały	świadkować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+świadkowaniach	świadkować	ger:pl:loc:n2:imperf:aff		
 świadkowaniami	świadkować	ger:pl:inst:n2:imperf:aff		
 świadkowania	świadkować	ger:pl:nom.acc:n2:imperf:aff		
 świadkowania	świadkować	ger:sg:gen:n2:imperf:aff		
 świadkowaniem	świadkować	ger:sg:inst:n2:imperf:aff		
 świadkowanie	świadkować	ger:sg:nom.acc:n2:imperf:aff		
-świadkowaniom	świadkować	ger:pl:dat.loc:n2:imperf:aff		
+świadkowaniom	świadkować	ger:pl:dat:n2:imperf:aff		
 świadkowaniu	świadkować	ger:sg:dat.loc:n2:imperf:aff		
 świadkowano	świadkować	imps:imperf		
 świadkowań	świadkować	ger:pl:gen:n2:imperf:aff		
@@ -23054,12 +23150,13 @@
 świątkowałyśmy	świątkować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
 świątkowały	świątkować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 świątkowały	świątkować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
+świątkowaniach	świątkować	ger:pl:loc:n2:imperf:aff		
 świątkowaniami	świątkować	ger:pl:inst:n2:imperf:aff		
 świątkowania	świątkować	ger:pl:nom.acc:n2:imperf:aff		
 świątkowania	świątkować	ger:sg:gen:n2:imperf:aff		
 świątkowaniem	świątkować	ger:sg:inst:n2:imperf:aff		
 świątkowanie	świątkować	ger:sg:nom.acc:n2:imperf:aff		
-świątkowaniom	świątkować	ger:pl:dat.loc:n2:imperf:aff		
+świątkowaniom	świątkować	ger:pl:dat:n2:imperf:aff		
 świątkowaniu	świątkować	ger:sg:dat.loc:n2:imperf:aff		
 świątkowano	świątkować	imps:imperf		daw.
 świątkowań	świątkować	ger:pl:gen:n2:imperf:aff		
@@ -23670,12 +23767,13 @@
 świdrowanemu	świdrować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 świdrowane	świdrować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 świdrowane	świdrować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+świdrowaniach	świdrować	ger:pl:loc:n2:imperf:aff		
 świdrowaniami	świdrować	ger:pl:inst:n2:imperf:aff		
 świdrowania	świdrować	ger:pl:nom.acc:n2:imperf:aff		
 świdrowania	świdrować	ger:sg:gen:n2:imperf:aff		
 świdrowaniem	świdrować	ger:sg:inst:n2:imperf:aff		
 świdrowanie	świdrować	ger:sg:nom.acc:n2:imperf:aff		
-świdrowaniom	świdrować	ger:pl:dat.loc:n2:imperf:aff		
+świdrowaniom	świdrować	ger:pl:dat:n2:imperf:aff		
 świdrowani	świdrować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 świdrowaniu	świdrować	ger:sg:dat.loc:n2:imperf:aff		
 świdrowano	świdrować	imps:imperf		
@@ -23887,12 +23985,13 @@
 świdrzący	świdrzyć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 świdrzą	świdrzyć	fin:pl:ter:imperf		daw.
 świdrzcie	świdrzyć	impt:pl:sec:imperf		daw.
+świdrzeniach	świdrzyć	ger:pl:loc:n2:imperf:aff		
 świdrzeniami	świdrzyć	ger:pl:inst:n2:imperf:aff		
 świdrzenia	świdrzyć	ger:pl:nom.acc:n2:imperf:aff		
 świdrzenia	świdrzyć	ger:sg:gen:n2:imperf:aff		
 świdrzeniem	świdrzyć	ger:sg:inst:n2:imperf:aff		
 świdrzenie	świdrzyć	ger:sg:nom.acc:n2:imperf:aff		
-świdrzeniom	świdrzyć	ger:pl:dat.loc:n2:imperf:aff		
+świdrzeniom	świdrzyć	ger:pl:dat:n2:imperf:aff		
 świdrzeniu	świdrzyć	ger:sg:dat.loc:n2:imperf:aff		
 świdrzeń	świdrzyć	ger:pl:gen:n2:imperf:aff		
 świdrzę	świdrzyć	fin:sg:pri:imperf		daw.
@@ -24252,12 +24351,13 @@
 świecczeliśmy	świecczeć	praet:pl:m1.p1:pri:imperf		przest.
 świecczeli	świecczeć	praet:pl:m1.p1:imperf		przest.
 świecczeli	świecczeć	praet:pl:m1.p1:ter:imperf		przest.
+świecczeniach	świecczeć	ger:pl:loc:n2:imperf:aff		
 świecczeniami	świecczeć	ger:pl:inst:n2:imperf:aff		
 świecczenia	świecczeć	ger:pl:nom.acc:n2:imperf:aff		
 świecczenia	świecczeć	ger:sg:gen:n2:imperf:aff		
 świecczeniem	świecczeć	ger:sg:inst:n2:imperf:aff		
 świecczenie	świecczeć	ger:sg:nom.acc:n2:imperf:aff		
-świecczeniom	świecczeć	ger:pl:dat.loc:n2:imperf:aff		
+świecczeniom	świecczeć	ger:pl:dat:n2:imperf:aff		
 świecczeniu	świecczeć	ger:sg:dat.loc:n2:imperf:aff		
 świecczeń	świecczeć	ger:pl:gen:n2:imperf:aff		
 świechtacie	świechtać	fin:pl:sec:imperf		rzad.
@@ -24328,12 +24428,13 @@
 świechtanemu	świechtać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 świechtane	świechtać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 świechtane	świechtać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+świechtaniach	świechtać	ger:pl:loc:n2:imperf:aff		
 świechtaniami	świechtać	ger:pl:inst:n2:imperf:aff		
 świechtania	świechtać	ger:pl:nom.acc:n2:imperf:aff		
 świechtania	świechtać	ger:sg:gen:n2:imperf:aff		
 świechtaniem	świechtać	ger:sg:inst:n2:imperf:aff		
 świechtanie	świechtać	ger:sg:nom.acc:n2:imperf:aff		
-świechtaniom	świechtać	ger:pl:dat.loc:n2:imperf:aff		
+świechtaniom	świechtać	ger:pl:dat:n2:imperf:aff		
 świechtani	świechtać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 świechtaniu	świechtać	ger:sg:dat.loc:n2:imperf:aff		
 świechtano	świechtać	imps:imperf		rzad.
@@ -24395,12 +24496,13 @@
 świecący	świecić	pact:sg:acc:m3:imperf:aff		
 świecący	świecić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 świecą	świecić	fin:pl:ter:imperf		
+świeceniach	świecić	ger:pl:loc:n2:imperf:aff		
 świeceniami	świecić	ger:pl:inst:n2:imperf:aff		
 świecenia	świecić	ger:pl:nom.acc:n2:imperf:aff		
 świecenia	świecić	ger:sg:gen:n2:imperf:aff		
 świeceniem	świecić	ger:sg:inst:n2:imperf:aff		
 świecenie	świecić	ger:sg:nom.acc:n2:imperf:aff		
-świeceniom	świecić	ger:pl:dat.loc:n2:imperf:aff		
+świeceniom	świecić	ger:pl:dat:n2:imperf:aff		
 świeceniu	świecić	ger:sg:dat.loc:n2:imperf:aff		
 świeceń	świecić	ger:pl:gen:n2:imperf:aff		
 świecę	świecić	fin:sg:pri:imperf		
@@ -24652,12 +24754,13 @@
 świecowanemu	świecować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 świecowane	świecować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 świecowane	świecować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+świecowaniach	świecować	ger:pl:loc:n2:imperf:aff		
 świecowaniami	świecować	ger:pl:inst:n2:imperf:aff		
 świecowania	świecować	ger:pl:nom.acc:n2:imperf:aff		
 świecowania	świecować	ger:sg:gen:n2:imperf:aff		
 świecowaniem	świecować	ger:sg:inst:n2:imperf:aff		
 świecowanie	świecować	ger:sg:nom.acc:n2:imperf:aff		
-świecowaniom	świecować	ger:pl:dat.loc:n2:imperf:aff		
+świecowaniom	świecować	ger:pl:dat:n2:imperf:aff		
 świecowani	świecować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 świecowaniu	świecować	ger:sg:dat.loc:n2:imperf:aff		
 świecowano	świecować	imps:imperf		
@@ -25104,12 +25207,13 @@
 świegotały	świegotać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
 świegotam	świegotać	fin:sg:pri:imperf		rzad.
 świegotamy	świegotać	fin:pl:pri:imperf		rzad.
+świegotaniach	świegotać	ger:pl:loc:n2:imperf:aff		
 świegotaniami	świegotać	ger:pl:inst:n2:imperf:aff		
 świegotania	świegotać	ger:pl:nom.acc:n2:imperf:aff		
 świegotania	świegotać	ger:sg:gen:n2:imperf:aff		
 świegotaniem	świegotać	ger:sg:inst:n2:imperf:aff		
 świegotanie	świegotać	ger:sg:nom.acc:n2:imperf:aff		
-świegotaniom	świegotać	ger:pl:dat.loc:n2:imperf:aff		
+świegotaniom	świegotać	ger:pl:dat:n2:imperf:aff		
 świegotaniu	świegotać	ger:sg:dat.loc:n2:imperf:aff		
 świegotano	świegotać	imps:imperf		
 świegotano	świegotać	imps:imperf		rzad.
@@ -25409,12 +25513,13 @@
 świerczeliśmy	świerczeć	praet:pl:m1.p1:pri:imperf		daw.
 świerczeli	świerczeć	praet:pl:m1.p1:imperf		daw.
 świerczeli	świerczeć	praet:pl:m1.p1:ter:imperf		daw.
+świerczeniach	świerczeć	ger:pl:loc:n2:imperf:aff		
 świerczeniami	świerczeć	ger:pl:inst:n2:imperf:aff		
 świerczenia	świerczeć	ger:pl:nom.acc:n2:imperf:aff		
 świerczenia	świerczeć	ger:sg:gen:n2:imperf:aff		
 świerczeniem	świerczeć	ger:sg:inst:n2:imperf:aff		
 świerczenie	świerczeć	ger:sg:nom.acc:n2:imperf:aff		
-świerczeniom	świerczeć	ger:pl:dat.loc:n2:imperf:aff		
+świerczeniom	świerczeć	ger:pl:dat:n2:imperf:aff		
 świerczeniu	świerczeć	ger:sg:dat.loc:n2:imperf:aff		
 świerczeń	świerczeć	ger:pl:gen:n2:imperf:aff		
 świerczę	świerczeć	fin:sg:pri:imperf		daw.
@@ -25511,12 +25616,13 @@
 świergolący	świergolić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 świergolą	świergolić	fin:pl:ter:imperf		
 świergolcie	świergolić	impt:pl:sec:imperf		
+świergoleniach	świergolić	ger:pl:loc:n2:imperf:aff		
 świergoleniami	świergolić	ger:pl:inst:n2:imperf:aff		
 świergolenia	świergolić	ger:pl:nom.acc:n2:imperf:aff		
 świergolenia	świergolić	ger:sg:gen:n2:imperf:aff		
 świergoleniem	świergolić	ger:sg:inst:n2:imperf:aff		
 świergolenie	świergolić	ger:sg:nom.acc:n2:imperf:aff		
-świergoleniom	świergolić	ger:pl:dat.loc:n2:imperf:aff		
+świergoleniom	świergolić	ger:pl:dat:n2:imperf:aff		
 świergoleniu	świergolić	ger:sg:dat.loc:n2:imperf:aff		
 świergoleń	świergolić	ger:pl:gen:n2:imperf:aff		
 świergolę	świergolić	fin:sg:pri:imperf		
@@ -25722,12 +25828,13 @@
 świergotały	świergotać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
 świergotam	świergotać	fin:sg:pri:imperf		rzad.
 świergotamy	świergotać	fin:pl:pri:imperf		rzad.
+świergotaniach	świergotać	ger:pl:loc:n2:imperf:aff		
 świergotaniami	świergotać	ger:pl:inst:n2:imperf:aff		
 świergotania	świergotać	ger:pl:nom.acc:n2:imperf:aff		
 świergotania	świergotać	ger:sg:gen:n2:imperf:aff		
 świergotaniem	świergotać	ger:sg:inst:n2:imperf:aff		
 świergotanie	świergotać	ger:sg:nom.acc:n2:imperf:aff		
-świergotaniom	świergotać	ger:pl:dat.loc:n2:imperf:aff		
+świergotaniom	świergotać	ger:pl:dat:n2:imperf:aff		
 świergotaniu	świergotać	ger:sg:dat.loc:n2:imperf:aff		
 świergotano	świergotać	imps:imperf		
 świergotano	świergotać	imps:imperf		rzad.
@@ -25874,12 +25981,13 @@
 świerkały	świerkać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 świerkam	świerkać	fin:sg:pri:imperf		
 świerkamy	świerkać	fin:pl:pri:imperf		
+świerkaniach	świerkać	ger:pl:loc:n2:imperf:aff		
 świerkaniami	świerkać	ger:pl:inst:n2:imperf:aff		
 świerkania	świerkać	ger:pl:nom.acc:n2:imperf:aff		
 świerkania	świerkać	ger:sg:gen:n2:imperf:aff		
 świerkaniem	świerkać	ger:sg:inst:n2:imperf:aff		
 świerkanie	świerkać	ger:sg:nom.acc:n2:imperf:aff		
-świerkaniom	świerkać	ger:pl:dat.loc:n2:imperf:aff		
+świerkaniom	świerkać	ger:pl:dat:n2:imperf:aff		
 świerkaniu	świerkać	ger:sg:dat.loc:n2:imperf:aff		
 świerkano	świerkać	imps:imperf		
 świerkań	świerkać	ger:pl:gen:n2:imperf:aff		
@@ -25925,12 +26033,13 @@
 świerklańskości	świerklańskość	subst:sg:voc:f		
 świerklańskość	świerklańskość	subst:sg:acc:f		
 świerklańskość	świerklańskość	subst:sg:nom:f		
+świerknięciach	świerknąć:v	ger:pl:loc:n2:perf:aff		
 świerknięciami	świerknąć:v	ger:pl:inst:n2:perf:aff		
 świerknięcia	świerknąć:v	ger:pl:nom.acc:n2:perf:aff		
 świerknięcia	świerknąć:v	ger:sg:gen:n2:perf:aff		
 świerknięciem	świerknąć:v	ger:sg:inst:n2:perf:aff		
 świerknięcie	świerknąć:v	ger:sg:nom.acc:n2:perf:aff		
-świerknięciom	świerknąć:v	ger:pl:dat.loc:n2:perf:aff		
+świerknięciom	świerknąć:v	ger:pl:dat:n2:perf:aff		
 świerknięciu	świerknąć:v	ger:sg:dat.loc:n2:perf:aff		
 świerknięć	świerknąć:v	ger:pl:gen:n2:perf:aff		
 świerknąca	świerknąć:v	pact:sg:nom.voc:f:imperf:aff		
@@ -25949,12 +26058,13 @@
 świerknący	świerknąć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
 świerknący	świerknąć:v	pact:sg:acc:m3:imperf:aff		
 świerknący	świerknąć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+świerknięciach	świerknąć:v	ger:pl:loc:n2:imperf:aff		
 świerknięciami	świerknąć:v	ger:pl:inst:n2:imperf:aff		
 świerknięcia	świerknąć:v	ger:pl:nom.acc:n2:imperf:aff		
 świerknięcia	świerknąć:v	ger:sg:gen:n2:imperf:aff		
 świerknięciem	świerknąć:v	ger:sg:inst:n2:imperf:aff		
 świerknięcie	świerknąć:v	ger:sg:nom.acc:n2:imperf:aff		
-świerknięciom	świerknąć:v	ger:pl:dat.loc:n2:imperf:aff		
+świerknięciom	świerknąć:v	ger:pl:dat:n2:imperf:aff		
 świerknięciu	świerknąć:v	ger:sg:dat.loc:n2:imperf:aff		
 świerknięć	świerknąć:v	ger:pl:gen:n2:imperf:aff		
 świerklibyście	świerknąć:v1	cond:pl:m1.p1:sec:perf		
@@ -26328,12 +26438,13 @@
 świerzbią	świerzbić	fin:pl:ter:imperf		
 świerzbicie	świerzbić	fin:pl:sec:imperf		
 świerzbić	świerzbić	inf:imperf		
+świerzbieniach	świerzbić	ger:pl:loc:n2:imperf:aff		
 świerzbieniami	świerzbić	ger:pl:inst:n2:imperf:aff		
 świerzbienia	świerzbić	ger:pl:nom.acc:n2:imperf:aff		
 świerzbienia	świerzbić	ger:sg:gen:n2:imperf:aff		
 świerzbieniem	świerzbić	ger:sg:inst:n2:imperf:aff		
 świerzbienie	świerzbić	ger:sg:nom.acc:n2:imperf:aff		
-świerzbieniom	świerzbić	ger:pl:dat.loc:n2:imperf:aff		
+świerzbieniom	świerzbić	ger:pl:dat:n2:imperf:aff		
 świerzbieniu	świerzbić	ger:sg:dat.loc:n2:imperf:aff		
 świerzbień	świerzbić	ger:pl:gen:n2:imperf:aff		
 świerzbię	świerzbić	fin:sg:pri:imperf		
@@ -26438,12 +26549,13 @@
 świerzbieliśmy	świerzbieć	praet:pl:m1.p1:pri:imperf		rzad.
 świerzbieli	świerzbieć	praet:pl:m1.p1:imperf		rzad.
 świerzbieli	świerzbieć	praet:pl:m1.p1:ter:imperf		rzad.
+świerzbieniach	świerzbieć	ger:pl:loc:n2:imperf:aff		
 świerzbieniami	świerzbieć	ger:pl:inst:n2:imperf:aff		
 świerzbienia	świerzbieć	ger:pl:nom.acc:n2:imperf:aff		
 świerzbienia	świerzbieć	ger:sg:gen:n2:imperf:aff		
 świerzbieniem	świerzbieć	ger:sg:inst:n2:imperf:aff		
 świerzbienie	świerzbieć	ger:sg:nom.acc:n2:imperf:aff		
-świerzbieniom	świerzbieć	ger:pl:dat.loc:n2:imperf:aff		
+świerzbieniom	świerzbieć	ger:pl:dat:n2:imperf:aff		
 świerzbieniu	świerzbieć	ger:sg:dat.loc:n2:imperf:aff		
 świerzbień	świerzbieć	ger:pl:gen:n2:imperf:aff		
 świerzbię	świerzbieć	fin:sg:pri:imperf		rzad.
@@ -26850,12 +26962,13 @@
 świetleliśmy	świetleć	praet:pl:m1.p1:pri:imperf		daw.
 świetleli	świetleć	praet:pl:m1.p1:imperf		daw.
 świetleli	świetleć	praet:pl:m1.p1:ter:imperf		daw.
+świetleniach	świetleć	ger:pl:loc:n2:imperf:aff		
 świetleniami	świetleć	ger:pl:inst:n2:imperf:aff		
 świetlenia	świetleć	ger:pl:nom.acc:n2:imperf:aff		
 świetlenia	świetleć	ger:sg:gen:n2:imperf:aff		
 świetleniem	świetleć	ger:sg:inst:n2:imperf:aff		
 świetlenie	świetleć	ger:sg:nom.acc:n2:imperf:aff		
-świetleniom	świetleć	ger:pl:dat.loc:n2:imperf:aff		
+świetleniom	świetleć	ger:pl:dat:n2:imperf:aff		
 świetleniu	świetleć	ger:sg:dat.loc:n2:imperf:aff		
 świetleń	świetleć	ger:pl:gen:n2:imperf:aff		
 świetlicach	świetlica	subst:pl:loc:f	pospolita	
@@ -27004,12 +27117,13 @@
 świetlący	świetlić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 świetlą	świetlić	fin:pl:ter:imperf		daw.
 świetlcie	świetlić	impt:pl:sec:imperf		daw.
+świetleniach	świetlić	ger:pl:loc:n2:imperf:aff		
 świetleniami	świetlić	ger:pl:inst:n2:imperf:aff		
 świetlenia	świetlić	ger:pl:nom.acc:n2:imperf:aff		
 świetlenia	świetlić	ger:sg:gen:n2:imperf:aff		
 świetleniem	świetlić	ger:sg:inst:n2:imperf:aff		
 świetlenie	świetlić	ger:sg:nom.acc:n2:imperf:aff		
-świetleniom	świetlić	ger:pl:dat.loc:n2:imperf:aff		
+świetleniom	świetlić	ger:pl:dat:n2:imperf:aff		
 świetleniu	świetlić	ger:sg:dat.loc:n2:imperf:aff		
 świetleń	świetlić	ger:pl:gen:n2:imperf:aff		
 świetlę	świetlić	fin:sg:pri:imperf		daw.
@@ -27267,12 +27381,13 @@
 świetnią	świetnić	fin:pl:ter:imperf		daw.
 świetnicie	świetnić	fin:pl:sec:imperf		daw.
 świetnić	świetnić	inf:imperf		daw.
+świetnieniach	świetnić	ger:pl:loc:n2:imperf:aff		
 świetnieniami	świetnić	ger:pl:inst:n2:imperf:aff		
 świetnienia	świetnić	ger:pl:nom.acc:n2:imperf:aff		
 świetnienia	świetnić	ger:sg:gen:n2:imperf:aff		
 świetnieniem	świetnić	ger:sg:inst:n2:imperf:aff		
 świetnienie	świetnić	ger:sg:nom.acc:n2:imperf:aff		
-świetnieniom	świetnić	ger:pl:dat.loc:n2:imperf:aff		
+świetnieniom	świetnić	ger:pl:dat:n2:imperf:aff		
 świetnieni	świetnić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 świetnieniu	świetnić	ger:sg:dat.loc:n2:imperf:aff		
 świetnień	świetnić	ger:pl:gen:n2:imperf:aff		
@@ -27399,12 +27514,13 @@
 świetnieliśmy	świetnieć	praet:pl:m1.p1:pri:imperf		daw.
 świetnieli	świetnieć	praet:pl:m1.p1:imperf		daw.
 świetnieli	świetnieć	praet:pl:m1.p1:ter:imperf		daw.
+świetnieniach	świetnieć	ger:pl:loc:n2:imperf:aff		
 świetnieniami	świetnieć	ger:pl:inst:n2:imperf:aff		
 świetnienia	świetnieć	ger:pl:nom.acc:n2:imperf:aff		
 świetnienia	świetnieć	ger:sg:gen:n2:imperf:aff		
 świetnieniem	świetnieć	ger:sg:inst:n2:imperf:aff		
 świetnienie	świetnieć	ger:sg:nom.acc:n2:imperf:aff		
-świetnieniom	świetnieć	ger:pl:dat.loc:n2:imperf:aff		
+świetnieniom	świetnieć	ger:pl:dat:n2:imperf:aff		
 świetnieniu	świetnieć	ger:sg:dat.loc:n2:imperf:aff		
 świetnień	świetnieć	ger:pl:gen:n2:imperf:aff		
 świetnikach	świetnik	subst:pl:loc:m3	pospolita	
@@ -27888,12 +28004,13 @@
 świeżący	świeżyć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 świeżą	świeżyć	fin:pl:ter:imperf		
 świeżcie	świeżyć	impt:pl:sec:imperf		
+świeżeniach	świeżyć	ger:pl:loc:n2:imperf:aff		
 świeżeniami	świeżyć	ger:pl:inst:n2:imperf:aff		
 świeżenia	świeżyć	ger:pl:nom.acc:n2:imperf:aff		
 świeżenia	świeżyć	ger:sg:gen:n2:imperf:aff		
 świeżeniem	świeżyć	ger:sg:inst:n2:imperf:aff		
 świeżenie	świeżyć	ger:sg:nom.acc:n2:imperf:aff		
-świeżeniom	świeżyć	ger:pl:dat.loc:n2:imperf:aff		
+świeżeniom	świeżyć	ger:pl:dat:n2:imperf:aff		
 świeżeniu	świeżyć	ger:sg:dat.loc:n2:imperf:aff		
 świeżeń	świeżyć	ger:pl:gen:n2:imperf:aff		
 świeżę	świeżyć	fin:sg:pri:imperf		
@@ -27993,12 +28110,13 @@
 święcący	święcić	pact:sg:acc:m3:imperf:aff		
 święcący	święcić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 święcą	święcić	fin:pl:ter:imperf		
+święceniach	święcić	ger:pl:loc:n2:imperf:aff		
 święceniami	święcić	ger:pl:inst:n2:imperf:aff		
 święcenia	święcić	ger:pl:nom.acc:n2:imperf:aff		
 święcenia	święcić	ger:sg:gen:n2:imperf:aff		
 święceniem	święcić	ger:sg:inst:n2:imperf:aff		
 święcenie	święcić	ger:sg:nom.acc:n2:imperf:aff		
-święceniom	święcić	ger:pl:dat.loc:n2:imperf:aff		
+święceniom	święcić	ger:pl:dat:n2:imperf:aff		
 święceni	święcić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 święceniu	święcić	ger:sg:dat.loc:n2:imperf:aff		
 święceń	święcić	ger:pl:gen:n2:imperf:aff		
@@ -29006,12 +29124,13 @@
 świętowanemu	świętować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 świętowane	świętować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 świętowane	świętować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+świętowaniach	świętować	ger:pl:loc:n2:imperf:aff		
 świętowaniami	świętować	ger:pl:inst:n2:imperf:aff		
 świętowania	świętować	ger:pl:nom.acc:n2:imperf:aff		
 świętowania	świętować	ger:sg:gen:n2:imperf:aff		
 świętowaniem	świętować	ger:sg:inst:n2:imperf:aff		
 świętowanie	świętować	ger:sg:nom.acc:n2:imperf:aff		
-świętowaniom	świętować	ger:pl:dat.loc:n2:imperf:aff		
+świętowaniom	świętować	ger:pl:dat:n2:imperf:aff		
 świętowani	świętować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 świętowaniu	świętować	ger:sg:dat.loc:n2:imperf:aff		
 świętowano	świętować	imps:imperf		
@@ -29345,12 +29464,13 @@
 świnią	świnić	fin:pl:ter:imperf		pot.
 świnicie	świnić	fin:pl:sec:imperf		pot.
 świnić	świnić	inf:imperf		pot.
+świnieniach	świnić	ger:pl:loc:n2:imperf:aff		
 świnieniami	świnić	ger:pl:inst:n2:imperf:aff		
 świnienia	świnić	ger:pl:nom.acc:n2:imperf:aff		
 świnienia	świnić	ger:sg:gen:n2:imperf:aff		
 świnieniem	świnić	ger:sg:inst:n2:imperf:aff		
 świnienie	świnić	ger:sg:nom.acc:n2:imperf:aff		
-świnieniom	świnić	ger:pl:dat.loc:n2:imperf:aff		
+świnieniom	świnić	ger:pl:dat:n2:imperf:aff		
 świnieniu	świnić	ger:sg:dat.loc:n2:imperf:aff		
 świnień	świnić	ger:pl:gen:n2:imperf:aff		
 świnię	świnić	fin:sg:pri:imperf		pot.
@@ -29744,12 +29864,13 @@
 świntuszący	świntuszyć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 świntuszą	świntuszyć	fin:pl:ter:imperf		
 świntuszcie	świntuszyć	impt:pl:sec:imperf		
+świntuszeniach	świntuszyć	ger:pl:loc:n2:imperf:aff		
 świntuszeniami	świntuszyć	ger:pl:inst:n2:imperf:aff		
 świntuszenia	świntuszyć	ger:pl:nom.acc:n2:imperf:aff		
 świntuszenia	świntuszyć	ger:sg:gen:n2:imperf:aff		
 świntuszeniem	świntuszyć	ger:sg:inst:n2:imperf:aff		
 świntuszenie	świntuszyć	ger:sg:nom.acc:n2:imperf:aff		
-świntuszeniom	świntuszyć	ger:pl:dat.loc:n2:imperf:aff		
+świntuszeniom	świntuszyć	ger:pl:dat:n2:imperf:aff		
 świntuszeni	świntuszyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
 świntuszeniu	świntuszyć	ger:sg:dat.loc:n2:imperf:aff		
 świntuszeń	świntuszyć	ger:pl:gen:n2:imperf:aff		
@@ -29929,12 +30050,13 @@
 świńtuszący	świńtuszyć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 świńtuszą	świńtuszyć	fin:pl:ter:imperf		
 świńtuszcie	świńtuszyć	impt:pl:sec:imperf		
+świńtuszeniach	świńtuszyć	ger:pl:loc:n2:imperf:aff		
 świńtuszeniami	świńtuszyć	ger:pl:inst:n2:imperf:aff		
 świńtuszenia	świńtuszyć	ger:pl:nom.acc:n2:imperf:aff		
 świńtuszenia	świńtuszyć	ger:sg:gen:n2:imperf:aff		
 świńtuszeniem	świńtuszyć	ger:sg:inst:n2:imperf:aff		
 świńtuszenie	świńtuszyć	ger:sg:nom.acc:n2:imperf:aff		
-świńtuszeniom	świńtuszyć	ger:pl:dat.loc:n2:imperf:aff		
+świńtuszeniom	świńtuszyć	ger:pl:dat:n2:imperf:aff		
 świńtuszeni	świńtuszyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
 świńtuszeniu	świńtuszyć	ger:sg:dat.loc:n2:imperf:aff		
 świńtuszeń	świńtuszyć	ger:pl:gen:n2:imperf:aff		
@@ -30185,12 +30307,13 @@
 świrowałyśmy	świrować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 świrowały	świrować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
 świrowały	świrować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+świrowaniach	świrować	ger:pl:loc:n2:imperf:aff		
 świrowaniami	świrować	ger:pl:inst:n2:imperf:aff		
 świrowania	świrować	ger:pl:nom.acc:n2:imperf:aff		
 świrowania	świrować	ger:sg:gen:n2:imperf:aff		
 świrowaniem	świrować	ger:sg:inst:n2:imperf:aff		
 świrowanie	świrować	ger:sg:nom.acc:n2:imperf:aff		
-świrowaniom	świrować	ger:pl:dat.loc:n2:imperf:aff		
+świrowaniom	świrować	ger:pl:dat:n2:imperf:aff		
 świrowaniu	świrować	ger:sg:dat.loc:n2:imperf:aff		
 świrowano	świrować	imps:imperf		
 świrowań	świrować	ger:pl:gen:n2:imperf:aff		
@@ -30415,12 +30538,13 @@
 świśniemy	świsnąć	fin:pl:pri:perf		
 świśniesz	świsnąć	fin:sg:sec:perf		
 świśnie	świsnąć	fin:sg:ter:perf		
+świśnięciach	świsnąć	ger:pl:loc:n2:perf:aff		
 świśnięciami	świsnąć	ger:pl:inst:n2:perf:aff		
 świśnięcia	świsnąć	ger:pl:nom.acc:n2:perf:aff		
 świśnięcia	świsnąć	ger:sg:gen:n2:perf:aff		
 świśnięciem	świsnąć	ger:sg:inst:n2:perf:aff		
 świśnięcie	świsnąć	ger:sg:nom.acc:n2:perf:aff		
-świśnięciom	świsnąć	ger:pl:dat.loc:n2:perf:aff		
+świśnięciom	świsnąć	ger:pl:dat:n2:perf:aff		
 świśnięci	świsnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
 świśnięciu	świsnąć	ger:sg:dat.loc:n2:perf:aff		
 świśnięć	świsnąć	ger:pl:gen:n2:perf:aff		
@@ -30563,12 +30687,13 @@
 świstanemu	świstać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 świstane	świstać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 świstane	świstać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+świstaniach	świstać	ger:pl:loc:n2:imperf:aff		
 świstaniami	świstać	ger:pl:inst:n2:imperf:aff		
 świstania	świstać	ger:pl:nom.acc:n2:imperf:aff		
 świstania	świstać	ger:sg:gen:n2:imperf:aff		
 świstaniem	świstać	ger:sg:inst:n2:imperf:aff		
 świstanie	świstać	ger:sg:nom.acc:n2:imperf:aff		
-świstaniom	świstać	ger:pl:dat.loc:n2:imperf:aff		
+świstaniom	świstać	ger:pl:dat:n2:imperf:aff		
 świstani	świstać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 świstaniu	świstać	ger:sg:dat.loc:n2:imperf:aff		
 świstano	świstać	imps:imperf		
@@ -30885,12 +31010,13 @@
 świszczeli	świszczeć	praet:pl:m1.p1:imperf		przest.
 świszczeli	świszczeć	praet:pl:m1.p1:ter:imperf		przest.
 świszczemy	świszczeć	fin:pl:pri:imperf		przest.
+świszczeniach	świszczeć	ger:pl:loc:n2:imperf:aff		
 świszczeniami	świszczeć	ger:pl:inst:n2:imperf:aff		
 świszczenia	świszczeć	ger:pl:nom.acc:n2:imperf:aff		
 świszczenia	świszczeć	ger:sg:gen:n2:imperf:aff		
 świszczeniem	świszczeć	ger:sg:inst:n2:imperf:aff		
 świszczenie	świszczeć	ger:sg:nom.acc:n2:imperf:aff		
-świszczeniom	świszczeć	ger:pl:dat.loc:n2:imperf:aff		
+świszczeniom	świszczeć	ger:pl:dat:n2:imperf:aff		
 świszczeniu	świszczeć	ger:sg:dat.loc:n2:imperf:aff		
 świszczeń	świszczeć	ger:pl:gen:n2:imperf:aff		
 świszczesz	świszczeć	fin:sg:sec:imperf		przest.
@@ -31068,12 +31194,13 @@
 świtały	świtać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 świtam	świtać	fin:sg:pri:imperf		
 świtamy	świtać	fin:pl:pri:imperf		
+świtaniach	świtać	ger:pl:loc:n2:imperf:aff		
 świtaniami	świtać	ger:pl:inst:n2:imperf:aff		
 świtania	świtać	ger:pl:nom.acc:n2:imperf:aff		
 świtania	świtać	ger:sg:gen:n2:imperf:aff		
 świtaniem	świtać	ger:sg:inst:n2:imperf:aff		
 świtanie	świtać	ger:sg:nom.acc:n2:imperf:aff		
-świtaniom	świtać	ger:pl:dat.loc:n2:imperf:aff		
+świtaniom	świtać	ger:pl:dat:n2:imperf:aff		
 świtaniu	świtać	ger:sg:dat.loc:n2:imperf:aff		
 świtano	świtać	imps:imperf		
 świtań	świtać	ger:pl:gen:n2:imperf:aff		

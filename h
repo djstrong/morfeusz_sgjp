@@ -182,13 +182,14 @@ habilitowane	habilitować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:af
 habilitowane	habilitować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 habilitowanej	habilitować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 habilitowanemu	habilitować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+habilitowaniach	habilitować	ger:pl:loc:n2:imperf.perf:aff		
 habilitowania	habilitować	ger:pl:nom.acc:n2:imperf.perf:aff		
 habilitowania	habilitować	ger:sg:gen:n2:imperf.perf:aff		
 habilitowaniami	habilitować	ger:pl:inst:n2:imperf.perf:aff		
 habilitowanie	habilitować	ger:sg:nom.acc:n2:imperf.perf:aff		
 habilitowaniem	habilitować	ger:sg:inst:n2:imperf.perf:aff		
 habilitowani	habilitować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-habilitowaniom	habilitować	ger:pl:dat.loc:n2:imperf.perf:aff		
+habilitowaniom	habilitować	ger:pl:dat:n2:imperf.perf:aff		
 habilitowaniu	habilitować	ger:sg:dat.loc:n2:imperf.perf:aff		
 habilitowano	habilitować	imps:imperf.perf		
 habilitowanych	habilitować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -520,13 +521,14 @@ haczącym	haczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 haczącymi	haczyć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 haczą	haczyć	fin:pl:ter:imperf		daw.
 haczcie	haczyć	impt:pl:sec:imperf		daw.
+haczeniach	haczyć	ger:pl:loc:n2:imperf:aff		
 haczenia	haczyć	ger:pl:nom.acc:n2:imperf:aff		
 haczenia	haczyć	ger:sg:gen:n2:imperf:aff		
 haczeniami	haczyć	ger:pl:inst:n2:imperf:aff		
 haczenie	haczyć	ger:sg:nom.acc:n2:imperf:aff		
 haczeniem	haczyć	ger:sg:inst:n2:imperf:aff		
 haczeni	haczyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
-haczeniom	haczyć	ger:pl:dat.loc:n2:imperf:aff		
+haczeniom	haczyć	ger:pl:dat:n2:imperf:aff		
 haczeniu	haczyć	ger:sg:dat.loc:n2:imperf:aff		
 haczeń	haczyć	ger:pl:gen:n2:imperf:aff		
 haczę	haczyć	fin:sg:pri:imperf		daw.
@@ -1280,12 +1282,13 @@ haftniecie	haftnąć	fin:pl:sec:perf
 haftnie	haftnąć	fin:sg:ter:perf		
 haftniemy	haftnąć	fin:pl:pri:perf		
 haftniesz	haftnąć	fin:sg:sec:perf		
+haftnięciach	haftnąć	ger:pl:loc:n2:perf:aff		
 haftnięcia	haftnąć	ger:pl:nom.acc:n2:perf:aff		
 haftnięcia	haftnąć	ger:sg:gen:n2:perf:aff		
 haftnięciami	haftnąć	ger:pl:inst:n2:perf:aff		
 haftnięcie	haftnąć	ger:sg:nom.acc:n2:perf:aff		
 haftnięciem	haftnąć	ger:sg:inst:n2:perf:aff		
-haftnięciom	haftnąć	ger:pl:dat.loc:n2:perf:aff		
+haftnięciom	haftnąć	ger:pl:dat:n2:perf:aff		
 haftnięciu	haftnąć	ger:sg:dat.loc:n2:perf:aff		
 haftnięć	haftnąć	ger:pl:gen:n2:perf:aff		
 haftnięto	haftnąć	imps:perf		
@@ -1336,13 +1339,14 @@ haftowane	haftować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 haftowane	haftować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 haftowanej	haftować	ppas:sg:gen.dat.loc:f:imperf:aff		
 haftowanemu	haftować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+haftowaniach	haftować	ger:pl:loc:n2:imperf:aff		
 haftowania	haftować	ger:pl:nom.acc:n2:imperf:aff		
 haftowania	haftować	ger:sg:gen:n2:imperf:aff		
 haftowaniami	haftować	ger:pl:inst:n2:imperf:aff		
 haftowanie	haftować	ger:sg:nom.acc:n2:imperf:aff		
 haftowaniem	haftować	ger:sg:inst:n2:imperf:aff		
 haftowani	haftować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-haftowaniom	haftować	ger:pl:dat.loc:n2:imperf:aff		
+haftowaniom	haftować	ger:pl:dat:n2:imperf:aff		
 haftowaniu	haftować	ger:sg:dat.loc:n2:imperf:aff		
 haftowano	haftować	imps:imperf		
 haftowanych	haftować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -1576,13 +1580,14 @@ hajcowane	hajcować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hajcowane	hajcować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hajcowanej	hajcować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hajcowanemu	hajcować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hajcowaniach	hajcować	ger:pl:loc:n2:imperf:aff		
 hajcowania	hajcować	ger:pl:nom.acc:n2:imperf:aff		
 hajcowania	hajcować	ger:sg:gen:n2:imperf:aff		
 hajcowaniami	hajcować	ger:pl:inst:n2:imperf:aff		
 hajcowanie	hajcować	ger:sg:nom.acc:n2:imperf:aff		
 hajcowaniem	hajcować	ger:sg:inst:n2:imperf:aff		
 hajcowani	hajcować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hajcowaniom	hajcować	ger:pl:dat.loc:n2:imperf:aff		
+hajcowaniom	hajcować	ger:pl:dat:n2:imperf:aff		
 hajcowaniu	hajcować	ger:sg:dat.loc:n2:imperf:aff		
 hajcowano	hajcować	imps:imperf		
 hajcowanych	hajcować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -1788,12 +1793,13 @@ hajdamaczącym	hajdamaczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 hajdamaczącymi	hajdamaczyć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 hajdamaczą	hajdamaczyć	fin:pl:ter:imperf		daw.
 hajdamaczcie	hajdamaczyć	impt:pl:sec:imperf		daw.
+hajdamaczeniach	hajdamaczyć	ger:pl:loc:n2:imperf:aff		
 hajdamaczenia	hajdamaczyć	ger:pl:nom.acc:n2:imperf:aff		
 hajdamaczenia	hajdamaczyć	ger:sg:gen:n2:imperf:aff		
 hajdamaczeniami	hajdamaczyć	ger:pl:inst:n2:imperf:aff		
 hajdamaczenie	hajdamaczyć	ger:sg:nom.acc:n2:imperf:aff		
 hajdamaczeniem	hajdamaczyć	ger:sg:inst:n2:imperf:aff		
-hajdamaczeniom	hajdamaczyć	ger:pl:dat.loc:n2:imperf:aff		
+hajdamaczeniom	hajdamaczyć	ger:pl:dat:n2:imperf:aff		
 hajdamaczeniu	hajdamaczyć	ger:sg:dat.loc:n2:imperf:aff		
 hajdamaczeń	hajdamaczyć	ger:pl:gen:n2:imperf:aff		
 hajdamaczę	hajdamaczyć	fin:sg:pri:imperf		daw.
@@ -2027,12 +2033,13 @@ hajduczącym	hajduczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 hajduczącymi	hajduczyć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 hajduczą	hajduczyć	fin:pl:ter:imperf		daw.
 hajduczcie	hajduczyć	impt:pl:sec:imperf		daw.
+hajduczeniach	hajduczyć	ger:pl:loc:n2:imperf:aff		
 hajduczenia	hajduczyć	ger:pl:nom.acc:n2:imperf:aff		
 hajduczenia	hajduczyć	ger:sg:gen:n2:imperf:aff		
 hajduczeniami	hajduczyć	ger:pl:inst:n2:imperf:aff		
 hajduczenie	hajduczyć	ger:sg:nom.acc:n2:imperf:aff		
 hajduczeniem	hajduczyć	ger:sg:inst:n2:imperf:aff		
-hajduczeniom	hajduczyć	ger:pl:dat.loc:n2:imperf:aff		
+hajduczeniom	hajduczyć	ger:pl:dat:n2:imperf:aff		
 hajduczeniu	hajduczyć	ger:sg:dat.loc:n2:imperf:aff		
 hajduczeń	hajduczyć	ger:pl:gen:n2:imperf:aff		
 hajduczę	hajduczyć	fin:sg:pri:imperf		daw.
@@ -2340,12 +2347,13 @@ hajtałyście	hajtać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		pot.
 hajtałyśmy	hajtać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		pot.
 hajtam	hajtać	fin:sg:pri:imperf		pot.
 hajtamy	hajtać	fin:pl:pri:imperf		pot.
+hajtaniach	hajtać	ger:pl:loc:n2:imperf:aff		
 hajtania	hajtać	ger:pl:nom.acc:n2:imperf:aff		
 hajtania	hajtać	ger:sg:gen:n2:imperf:aff		
 hajtaniami	hajtać	ger:pl:inst:n2:imperf:aff		
 hajtanie	hajtać	ger:sg:nom.acc:n2:imperf:aff		
 hajtaniem	hajtać	ger:sg:inst:n2:imperf:aff		
-hajtaniom	hajtać	ger:pl:dat.loc:n2:imperf:aff		
+hajtaniom	hajtać	ger:pl:dat:n2:imperf:aff		
 hajtaniu	hajtać	ger:sg:dat.loc:n2:imperf:aff		
 hajtano	hajtać	imps:imperf		pot.
 hajtań	hajtać	ger:pl:gen:n2:imperf:aff		
@@ -2393,13 +2401,14 @@ hajtniecie	hajtnąć	fin:pl:sec:perf		pot.
 hajtnie	hajtnąć	fin:sg:ter:perf		pot.
 hajtniemy	hajtnąć	fin:pl:pri:perf		pot.
 hajtniesz	hajtnąć	fin:sg:sec:perf		pot.
+hajtnięciach	hajtnąć	ger:pl:loc:n2:perf:aff		
 hajtnięcia	hajtnąć	ger:pl:nom.acc:n2:perf:aff		
 hajtnięcia	hajtnąć	ger:sg:gen:n2:perf:aff		
 hajtnięciami	hajtnąć	ger:pl:inst:n2:perf:aff		
 hajtnięcie	hajtnąć	ger:sg:nom.acc:n2:perf:aff		
 hajtnięciem	hajtnąć	ger:sg:inst:n2:perf:aff		
 hajtnięci	hajtnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-hajtnięciom	hajtnąć	ger:pl:dat.loc:n2:perf:aff		
+hajtnięciom	hajtnąć	ger:pl:dat:n2:perf:aff		
 hajtnięciu	hajtnąć	ger:sg:dat.loc:n2:perf:aff		
 hajtnięć	hajtnąć	ger:pl:gen:n2:perf:aff		
 hajtnięta	hajtnąć	ppas:sg:nom.voc:f:perf:aff		
@@ -2605,13 +2614,14 @@ hakowane	hakować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hakowane	hakować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hakowanej	hakować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hakowanemu	hakować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hakowaniach	hakować	ger:pl:loc:n2:imperf:aff		
 hakowania	hakować	ger:pl:nom.acc:n2:imperf:aff		
 hakowania	hakować	ger:sg:gen:n2:imperf:aff		
 hakowaniami	hakować	ger:pl:inst:n2:imperf:aff		
 hakowanie	hakować	ger:sg:nom.acc:n2:imperf:aff		
 hakowaniem	hakować	ger:sg:inst:n2:imperf:aff		
 hakowani	hakować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hakowaniom	hakować	ger:pl:dat.loc:n2:imperf:aff		
+hakowaniom	hakować	ger:pl:dat:n2:imperf:aff		
 hakowaniu	hakować	ger:sg:dat.loc:n2:imperf:aff		
 hakowano	hakować	imps:imperf		przest.
 hakowanych	hakować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -2955,12 +2965,13 @@ halałyście	halać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
 halałyśmy	halać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
 halam	halać	fin:sg:pri:imperf		przest.
 halamy	halać	fin:pl:pri:imperf		przest.
+halaniach	halać	ger:pl:loc:n2:imperf:aff		
 halania	halać	ger:pl:nom.acc:n2:imperf:aff		
 halania	halać	ger:sg:gen:n2:imperf:aff		
 halaniami	halać	ger:pl:inst:n2:imperf:aff		
 halanie	halać	ger:sg:nom.acc:n2:imperf:aff		
 halaniem	halać	ger:sg:inst:n2:imperf:aff		
-halaniom	halać	ger:pl:dat.loc:n2:imperf:aff		
+halaniom	halać	ger:pl:dat:n2:imperf:aff		
 halaniu	halać	ger:sg:dat.loc:n2:imperf:aff		
 halano	halać	imps:imperf		przest.
 halań	halać	ger:pl:gen:n2:imperf:aff		
@@ -4044,12 +4055,13 @@ halsowały	halsować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		żegl.
 halsowały	halsować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		żegl.
 halsowałyście	halsować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		żegl.
 halsowałyśmy	halsować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		żegl.
+halsowaniach	halsować	ger:pl:loc:n2:imperf:aff		
 halsowania	halsować	ger:pl:nom.acc:n2:imperf:aff		
 halsowania	halsować	ger:sg:gen:n2:imperf:aff		
 halsowaniami	halsować	ger:pl:inst:n2:imperf:aff		
 halsowanie	halsować	ger:sg:nom.acc:n2:imperf:aff		
 halsowaniem	halsować	ger:sg:inst:n2:imperf:aff		
-halsowaniom	halsować	ger:pl:dat.loc:n2:imperf:aff		
+halsowaniom	halsować	ger:pl:dat:n2:imperf:aff		
 halsowaniu	halsować	ger:sg:dat.loc:n2:imperf:aff		
 halsowano	halsować	imps:imperf		żegl.
 halsowań	halsować	ger:pl:gen:n2:imperf:aff		
@@ -4356,12 +4368,13 @@ halucynowały	halucynować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
 halucynowały	halucynować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
 halucynowałyście	halucynować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
 halucynowałyśmy	halucynować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+halucynowaniach	halucynować	ger:pl:loc:n2:imperf:aff		
 halucynowania	halucynować	ger:pl:nom.acc:n2:imperf:aff		
 halucynowania	halucynować	ger:sg:gen:n2:imperf:aff		
 halucynowaniami	halucynować	ger:pl:inst:n2:imperf:aff		
 halucynowanie	halucynować	ger:sg:nom.acc:n2:imperf:aff		
 halucynowaniem	halucynować	ger:sg:inst:n2:imperf:aff		
-halucynowaniom	halucynować	ger:pl:dat.loc:n2:imperf:aff		
+halucynowaniom	halucynować	ger:pl:dat:n2:imperf:aff		
 halucynowaniu	halucynować	ger:sg:dat.loc:n2:imperf:aff		
 halucynowano	halucynować	imps:imperf		rzad.
 halucynowań	halucynować	ger:pl:gen:n2:imperf:aff		
@@ -4710,12 +4723,13 @@ hałaszącym	hałasić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 hałaszącym	hałasić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 hałaszącymi	hałasić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 hałaszą	hałasić	fin:pl:ter:imperf		daw.
+hałaszeniach	hałasić	ger:pl:loc:n2:imperf:aff		
 hałaszenia	hałasić	ger:pl:nom.acc:n2:imperf:aff		
 hałaszenia	hałasić	ger:sg:gen:n2:imperf:aff		
 hałaszeniami	hałasić	ger:pl:inst:n2:imperf:aff		
 hałaszenie	hałasić	ger:sg:nom.acc:n2:imperf:aff		
 hałaszeniem	hałasić	ger:sg:inst:n2:imperf:aff		
-hałaszeniom	hałasić	ger:pl:dat.loc:n2:imperf:aff		
+hałaszeniom	hałasić	ger:pl:dat:n2:imperf:aff		
 hałaszeniu	hałasić	ger:sg:dat.loc:n2:imperf:aff		
 hałaszeń	hałasić	ger:pl:gen:n2:imperf:aff		
 hałaszę	hałasić	fin:sg:pri:imperf		daw.
@@ -4759,12 +4773,13 @@ hałasowały	hałasować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 hałasowały	hałasować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 hałasowałyście	hałasować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 hałasowałyśmy	hałasować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+hałasowaniach	hałasować	ger:pl:loc:n2:imperf:aff		
 hałasowania	hałasować	ger:pl:nom.acc:n2:imperf:aff		
 hałasowania	hałasować	ger:sg:gen:n2:imperf:aff		
 hałasowaniami	hałasować	ger:pl:inst:n2:imperf:aff		
 hałasowanie	hałasować	ger:sg:nom.acc:n2:imperf:aff		
 hałasowaniem	hałasować	ger:sg:inst:n2:imperf:aff		
-hałasowaniom	hałasować	ger:pl:dat.loc:n2:imperf:aff		
+hałasowaniom	hałasować	ger:pl:dat:n2:imperf:aff		
 hałasowaniu	hałasować	ger:sg:dat.loc:n2:imperf:aff		
 hałasowano	hałasować	imps:imperf		
 hałasowań	hałasować	ger:pl:gen:n2:imperf:aff		
@@ -5068,13 +5083,14 @@ hałdowane	hałdować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hałdowane	hałdować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hałdowanej	hałdować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hałdowanemu	hałdować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hałdowaniach	hałdować	ger:pl:loc:n2:imperf:aff		
 hałdowania	hałdować	ger:pl:nom.acc:n2:imperf:aff		
 hałdowania	hałdować	ger:sg:gen:n2:imperf:aff		
 hałdowaniami	hałdować	ger:pl:inst:n2:imperf:aff		
 hałdowanie	hałdować	ger:sg:nom.acc:n2:imperf:aff		
 hałdowaniem	hałdować	ger:sg:inst:n2:imperf:aff		
 hałdowani	hałdować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hałdowaniom	hałdować	ger:pl:dat.loc:n2:imperf:aff		
+hałdowaniom	hałdować	ger:pl:dat:n2:imperf:aff		
 hałdowaniu	hałdować	ger:sg:dat.loc:n2:imperf:aff		
 hałdowano	hałdować	imps:imperf		
 hałdowanych	hałdować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -5218,12 +5234,13 @@ hałłachowały	hałłachować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		hist.
 hałłachowały	hałłachować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		hist.
 hałłachowałyście	hałłachować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		hist.
 hałłachowałyśmy	hałłachować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		hist.
+hałłachowaniach	hałłachować	ger:pl:loc:n2:imperf:aff		
 hałłachowania	hałłachować	ger:pl:nom.acc:n2:imperf:aff		
 hałłachowania	hałłachować	ger:sg:gen:n2:imperf:aff		
 hałłachowaniami	hałłachować	ger:pl:inst:n2:imperf:aff		
 hałłachowanie	hałłachować	ger:sg:nom.acc:n2:imperf:aff		
 hałłachowaniem	hałłachować	ger:sg:inst:n2:imperf:aff		
-hałłachowaniom	hałłachować	ger:pl:dat.loc:n2:imperf:aff		
+hałłachowaniom	hałłachować	ger:pl:dat:n2:imperf:aff		
 hałłachowaniu	hałłachować	ger:sg:dat.loc:n2:imperf:aff		
 hałłachowano	hałłachować	imps:imperf		hist.
 hałłachowań	hałłachować	ger:pl:gen:n2:imperf:aff		
@@ -5289,12 +5306,13 @@ hałłakowały	hałłakować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		hist.
 hałłakowały	hałłakować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		hist.
 hałłakowałyście	hałłakować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		hist.
 hałłakowałyśmy	hałłakować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		hist.
+hałłakowaniach	hałłakować	ger:pl:loc:n2:imperf:aff		
 hałłakowania	hałłakować	ger:pl:nom.acc:n2:imperf:aff		
 hałłakowania	hałłakować	ger:sg:gen:n2:imperf:aff		
 hałłakowaniami	hałłakować	ger:pl:inst:n2:imperf:aff		
 hałłakowanie	hałłakować	ger:sg:nom.acc:n2:imperf:aff		
 hałłakowaniem	hałłakować	ger:sg:inst:n2:imperf:aff		
-hałłakowaniom	hałłakować	ger:pl:dat.loc:n2:imperf:aff		
+hałłakowaniom	hałłakować	ger:pl:dat:n2:imperf:aff		
 hałłakowaniu	hałłakować	ger:sg:dat.loc:n2:imperf:aff		
 hałłakowano	hałłakować	imps:imperf		hist.
 hałłakowań	hałłakować	ger:pl:gen:n2:imperf:aff		
@@ -5746,12 +5764,13 @@ hamletowały	hamletować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 hamletowały	hamletować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 hamletowałyście	hamletować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 hamletowałyśmy	hamletować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+hamletowaniach	hamletować	ger:pl:loc:n2:imperf:aff		
 hamletowania	hamletować	ger:pl:nom.acc:n2:imperf:aff		
 hamletowania	hamletować	ger:sg:gen:n2:imperf:aff		
 hamletowaniami	hamletować	ger:pl:inst:n2:imperf:aff		
 hamletowanie	hamletować	ger:sg:nom.acc:n2:imperf:aff		
 hamletowaniem	hamletować	ger:sg:inst:n2:imperf:aff		
-hamletowaniom	hamletować	ger:pl:dat.loc:n2:imperf:aff		
+hamletowaniom	hamletować	ger:pl:dat:n2:imperf:aff		
 hamletowaniu	hamletować	ger:sg:dat.loc:n2:imperf:aff		
 hamletowano	hamletować	imps:imperf		daw.
 hamletowań	hamletować	ger:pl:gen:n2:imperf:aff		
@@ -5925,12 +5944,13 @@ hamletyzowały	hamletyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 hamletyzowały	hamletyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 hamletyzowałyście	hamletyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 hamletyzowałyśmy	hamletyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+hamletyzowaniach	hamletyzować	ger:pl:loc:n2:imperf:aff		
 hamletyzowania	hamletyzować	ger:pl:nom.acc:n2:imperf:aff		
 hamletyzowania	hamletyzować	ger:sg:gen:n2:imperf:aff		
 hamletyzowaniami	hamletyzować	ger:pl:inst:n2:imperf:aff		
 hamletyzowanie	hamletyzować	ger:sg:nom.acc:n2:imperf:aff		
 hamletyzowaniem	hamletyzować	ger:sg:inst:n2:imperf:aff		
-hamletyzowaniom	hamletyzować	ger:pl:dat.loc:n2:imperf:aff		
+hamletyzowaniom	hamletyzować	ger:pl:dat:n2:imperf:aff		
 hamletyzowaniu	hamletyzować	ger:sg:dat.loc:n2:imperf:aff		
 hamletyzowano	hamletyzować	imps:imperf		
 hamletyzowań	hamletyzować	ger:pl:gen:n2:imperf:aff		
@@ -6036,13 +6056,14 @@ hamowane	hamować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hamowane	hamować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hamowanej	hamować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hamowanemu	hamować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hamowaniach	hamować	ger:pl:loc:n2:imperf:aff		
 hamowania	hamować	ger:pl:nom.acc:n2:imperf:aff		
 hamowania	hamować	ger:sg:gen:n2:imperf:aff		
 hamowaniami	hamować	ger:pl:inst:n2:imperf:aff		
 hamowanie	hamować	ger:sg:nom.acc:n2:imperf:aff		
 hamowaniem	hamować	ger:sg:inst:n2:imperf:aff		
 hamowani	hamować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hamowaniom	hamować	ger:pl:dat.loc:n2:imperf:aff		
+hamowaniom	hamować	ger:pl:dat:n2:imperf:aff		
 hamowaniu	hamować	ger:sg:dat.loc:n2:imperf:aff		
 hamowano	hamować	imps:imperf		
 hamowanych	hamować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -6394,13 +6415,14 @@ handikapowane	handikapować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 handikapowane	handikapować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 handikapowanej	handikapować	ppas:sg:gen.dat.loc:f:imperf:aff		
 handikapowanemu	handikapować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+handikapowaniach	handikapować	ger:pl:loc:n2:imperf:aff		
 handikapowania	handikapować	ger:pl:nom.acc:n2:imperf:aff		
 handikapowania	handikapować	ger:sg:gen:n2:imperf:aff		
 handikapowaniami	handikapować	ger:pl:inst:n2:imperf:aff		
 handikapowanie	handikapować	ger:sg:nom.acc:n2:imperf:aff		
 handikapowaniem	handikapować	ger:sg:inst:n2:imperf:aff		
 handikapowani	handikapować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-handikapowaniom	handikapować	ger:pl:dat.loc:n2:imperf:aff		
+handikapowaniom	handikapować	ger:pl:dat:n2:imperf:aff		
 handikapowaniu	handikapować	ger:sg:dat.loc:n2:imperf:aff		
 handikapowano	handikapować	imps:imperf		
 handikapowanych	handikapować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -6595,13 +6617,14 @@ handlowane	handlować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 handlowane	handlować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 handlowanej	handlować	ppas:sg:gen.dat.loc:f:imperf:aff		
 handlowanemu	handlować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+handlowaniach	handlować	ger:pl:loc:n2:imperf:aff		
 handlowania	handlować	ger:pl:nom.acc:n2:imperf:aff		
 handlowania	handlować	ger:sg:gen:n2:imperf:aff		
 handlowaniami	handlować	ger:pl:inst:n2:imperf:aff		
 handlowanie	handlować	ger:sg:nom.acc:n2:imperf:aff		
 handlowaniem	handlować	ger:sg:inst:n2:imperf:aff		
 handlowani	handlować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-handlowaniom	handlować	ger:pl:dat.loc:n2:imperf:aff		
+handlowaniom	handlować	ger:pl:dat:n2:imperf:aff		
 handlowaniu	handlować	ger:sg:dat.loc:n2:imperf:aff		
 handlowano	handlować	imps:imperf		
 handlowanych	handlować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -6779,12 +6802,13 @@ handryczącym	handryczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 handryczącymi	handryczyć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 handryczą	handryczyć	fin:pl:ter:imperf		pot.
 handryczcie	handryczyć	impt:pl:sec:imperf		pot.
+handryczeniach	handryczyć	ger:pl:loc:n2:imperf:aff		
 handryczenia	handryczyć	ger:pl:nom.acc:n2:imperf:aff		
 handryczenia	handryczyć	ger:sg:gen:n2:imperf:aff		
 handryczeniami	handryczyć	ger:pl:inst:n2:imperf:aff		
 handryczenie	handryczyć	ger:sg:nom.acc:n2:imperf:aff		
 handryczeniem	handryczyć	ger:sg:inst:n2:imperf:aff		
-handryczeniom	handryczyć	ger:pl:dat.loc:n2:imperf:aff		
+handryczeniom	handryczyć	ger:pl:dat:n2:imperf:aff		
 handryczeniu	handryczyć	ger:sg:dat.loc:n2:imperf:aff		
 handryczeń	handryczyć	ger:pl:gen:n2:imperf:aff		
 handryczę	handryczyć	fin:sg:pri:imperf		pot.
@@ -6918,13 +6942,14 @@ hangarowane	hangarować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hangarowane	hangarować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hangarowanej	hangarować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hangarowanemu	hangarować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hangarowaniach	hangarować	ger:pl:loc:n2:imperf:aff		
 hangarowania	hangarować	ger:pl:nom.acc:n2:imperf:aff		
 hangarowania	hangarować	ger:sg:gen:n2:imperf:aff		
 hangarowaniami	hangarować	ger:pl:inst:n2:imperf:aff		
 hangarowanie	hangarować	ger:sg:nom.acc:n2:imperf:aff		
 hangarowaniem	hangarować	ger:sg:inst:n2:imperf:aff		
 hangarowani	hangarować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hangarowaniom	hangarować	ger:pl:dat.loc:n2:imperf:aff		
+hangarowaniom	hangarować	ger:pl:dat:n2:imperf:aff		
 hangarowaniu	hangarować	ger:sg:dat.loc:n2:imperf:aff		
 hangarowano	hangarować	imps:imperf		
 hangarowanych	hangarować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -7231,12 +7256,13 @@ hantlowały	hantlować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 hantlowały	hantlować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 hantlowałyście	hantlować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 hantlowałyśmy	hantlować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+hantlowaniach	hantlować	ger:pl:loc:n2:imperf:aff		
 hantlowania	hantlować	ger:pl:nom.acc:n2:imperf:aff		
 hantlowania	hantlować	ger:sg:gen:n2:imperf:aff		
 hantlowaniami	hantlować	ger:pl:inst:n2:imperf:aff		
 hantlowanie	hantlować	ger:sg:nom.acc:n2:imperf:aff		
 hantlowaniem	hantlować	ger:sg:inst:n2:imperf:aff		
-hantlowaniom	hantlować	ger:pl:dat.loc:n2:imperf:aff		
+hantlowaniom	hantlować	ger:pl:dat:n2:imperf:aff		
 hantlowaniu	hantlować	ger:sg:dat.loc:n2:imperf:aff		
 hantlowano	hantlować	imps:imperf		
 hantlowań	hantlować	ger:pl:gen:n2:imperf:aff		
@@ -7458,13 +7484,14 @@ hańbiącymi	hańbić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 hańbią	hańbić	fin:pl:ter:imperf		
 hańbicie	hańbić	fin:pl:sec:imperf		
 hańbić	hańbić	inf:imperf		
+hańbieniach	hańbić	ger:pl:loc:n2:imperf:aff		
 hańbienia	hańbić	ger:pl:nom.acc:n2:imperf:aff		
 hańbienia	hańbić	ger:sg:gen:n2:imperf:aff		
 hańbieniami	hańbić	ger:pl:inst:n2:imperf:aff		
 hańbienie	hańbić	ger:sg:nom.acc:n2:imperf:aff		
 hańbieniem	hańbić	ger:sg:inst:n2:imperf:aff		
 hańbieni	hańbić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hańbieniom	hańbić	ger:pl:dat.loc:n2:imperf:aff		
+hańbieniom	hańbić	ger:pl:dat:n2:imperf:aff		
 hańbieniu	hańbić	ger:sg:dat.loc:n2:imperf:aff		
 hańbień	hańbić	ger:pl:gen:n2:imperf:aff		
 hańbię	hańbić	fin:sg:pri:imperf		
@@ -7567,6 +7594,20 @@ hańskościom	hańskość	subst:pl:dat:f
 hańskość	hańskość	subst:sg:acc:f		
 hańskość	hańskość	subst:sg:nom:f		
 hap	hap	interj		
+hapkido	hapkido	subst:pl:acc:n2	pospolita	
+hapkido	hapkido	subst:pl:dat:n2	pospolita	
+hapkido	hapkido	subst:pl:gen:n2	pospolita	
+hapkido	hapkido	subst:pl:inst:n2	pospolita	
+hapkido	hapkido	subst:pl:loc:n2	pospolita	
+hapkido	hapkido	subst:pl:nom:n2	pospolita	
+hapkido	hapkido	subst:pl:voc:n2	pospolita	
+hapkido	hapkido	subst:sg:acc:n2	pospolita	
+hapkido	hapkido	subst:sg:dat:n2	pospolita	
+hapkido	hapkido	subst:sg:gen:n2	pospolita	
+hapkido	hapkido	subst:sg:inst:n2	pospolita	
+hapkido	hapkido	subst:sg:loc:n2	pospolita	
+hapkido	hapkido	subst:sg:nom:n2	pospolita	
+hapkido	hapkido	subst:sg:voc:n2	pospolita	
 haplografiach	haplografia	subst:pl:loc:f	pospolita	
 haplografia	haplografia	subst:sg:nom:f	pospolita	
 haplografiami	haplografia	subst:pl:inst:f	pospolita	
@@ -7891,12 +7932,13 @@ harałyście	harać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		gwar.
 harałyśmy	harać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		gwar.
 haram	harać	fin:sg:pri:imperf		gwar.
 haramy	harać	fin:pl:pri:imperf		gwar.
+haraniach	harać	ger:pl:loc:n2:imperf:aff		
 harania	harać	ger:pl:nom.acc:n2:imperf:aff		
 harania	harać	ger:sg:gen:n2:imperf:aff		
 haraniami	harać	ger:pl:inst:n2:imperf:aff		
 haranie	harać	ger:sg:nom.acc:n2:imperf:aff		
 haraniem	harać	ger:sg:inst:n2:imperf:aff		
-haraniom	harać	ger:pl:dat.loc:n2:imperf:aff		
+haraniom	harać	ger:pl:dat:n2:imperf:aff		
 haraniu	harać	ger:sg:dat.loc:n2:imperf:aff		
 harano	harać	imps:imperf		gwar.
 harań	harać	ger:pl:gen:n2:imperf:aff		
@@ -8084,13 +8126,14 @@ harapowane	harapować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 harapowane	harapować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 harapowanej	harapować	ppas:sg:gen.dat.loc:f:imperf:aff		
 harapowanemu	harapować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+harapowaniach	harapować	ger:pl:loc:n2:imperf:aff		
 harapowania	harapować	ger:pl:nom.acc:n2:imperf:aff		
 harapowania	harapować	ger:sg:gen:n2:imperf:aff		
 harapowaniami	harapować	ger:pl:inst:n2:imperf:aff		
 harapowanie	harapować	ger:sg:nom.acc:n2:imperf:aff		
 harapowaniem	harapować	ger:sg:inst:n2:imperf:aff		
 harapowani	harapować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-harapowaniom	harapować	ger:pl:dat.loc:n2:imperf:aff		
+harapowaniom	harapować	ger:pl:dat:n2:imperf:aff		
 harapowaniu	harapować	ger:sg:dat.loc:n2:imperf:aff		
 harapowano	harapować	imps:imperf		daw.
 harapowanych	harapować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -8339,13 +8382,14 @@ haratane	haratać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 haratane	haratać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 haratanej	haratać	ppas:sg:gen.dat.loc:f:imperf:aff		
 haratanemu	haratać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+harataniach	haratać	ger:pl:loc:n2:imperf:aff		
 haratania	haratać	ger:pl:nom.acc:n2:imperf:aff		
 haratania	haratać	ger:sg:gen:n2:imperf:aff		
 harataniami	haratać	ger:pl:inst:n2:imperf:aff		
 haratanie	haratać	ger:sg:nom.acc:n2:imperf:aff		
 harataniem	haratać	ger:sg:inst:n2:imperf:aff		
 haratani	haratać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-harataniom	haratać	ger:pl:dat.loc:n2:imperf:aff		
+harataniom	haratać	ger:pl:dat:n2:imperf:aff		
 harataniu	haratać	ger:sg:dat.loc:n2:imperf:aff		
 haratano	haratać	imps:imperf		
 haratano	haratać	imps:imperf		rzad.
@@ -8415,13 +8459,14 @@ haratniecie	haratnąć	fin:pl:sec:perf		rzad.
 haratnie	haratnąć	fin:sg:ter:perf		rzad.
 haratniemy	haratnąć	fin:pl:pri:perf		rzad.
 haratniesz	haratnąć	fin:sg:sec:perf		rzad.
+haratnięciach	haratnąć	ger:pl:loc:n2:perf:aff		
 haratnięcia	haratnąć	ger:pl:nom.acc:n2:perf:aff		
 haratnięcia	haratnąć	ger:sg:gen:n2:perf:aff		
 haratnięciami	haratnąć	ger:pl:inst:n2:perf:aff		
 haratnięcie	haratnąć	ger:sg:nom.acc:n2:perf:aff		
 haratnięciem	haratnąć	ger:sg:inst:n2:perf:aff		
 haratnięci	haratnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-haratnięciom	haratnąć	ger:pl:dat.loc:n2:perf:aff		
+haratnięciom	haratnąć	ger:pl:dat:n2:perf:aff		
 haratnięciu	haratnąć	ger:sg:dat.loc:n2:perf:aff		
 haratnięć	haratnąć	ger:pl:gen:n2:perf:aff		
 haratnięta	haratnąć	ppas:sg:nom.voc:f:perf:aff		
@@ -8814,12 +8859,13 @@ harcerzowały	harcerzować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
 harcerzowały	harcerzować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
 harcerzowałyście	harcerzować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
 harcerzowałyśmy	harcerzować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+harcerzowaniach	harcerzować	ger:pl:loc:n2:imperf:aff		
 harcerzowania	harcerzować	ger:pl:nom.acc:n2:imperf:aff		
 harcerzowania	harcerzować	ger:sg:gen:n2:imperf:aff		
 harcerzowaniami	harcerzować	ger:pl:inst:n2:imperf:aff		
 harcerzowanie	harcerzować	ger:sg:nom.acc:n2:imperf:aff		
 harcerzowaniem	harcerzować	ger:sg:inst:n2:imperf:aff		
-harcerzowaniom	harcerzować	ger:pl:dat.loc:n2:imperf:aff		
+harcerzowaniom	harcerzować	ger:pl:dat:n2:imperf:aff		
 harcerzowaniu	harcerzować	ger:sg:dat.loc:n2:imperf:aff		
 harcerzowano	harcerzować	imps:imperf		rzad.
 harcerzowań	harcerzować	ger:pl:gen:n2:imperf:aff		
@@ -8963,12 +9009,13 @@ harcowały	harcować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 harcowały	harcować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 harcowałyście	harcować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 harcowałyśmy	harcować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+harcowaniach	harcować	ger:pl:loc:n2:imperf:aff		
 harcowania	harcować	ger:pl:nom.acc:n2:imperf:aff		
 harcowania	harcować	ger:sg:gen:n2:imperf:aff		
 harcowaniami	harcować	ger:pl:inst:n2:imperf:aff		
 harcowanie	harcować	ger:sg:nom.acc:n2:imperf:aff		
 harcowaniem	harcować	ger:sg:inst:n2:imperf:aff		
-harcowaniom	harcować	ger:pl:dat.loc:n2:imperf:aff		
+harcowaniom	harcować	ger:pl:dat:n2:imperf:aff		
 harcowaniu	harcować	ger:sg:dat.loc:n2:imperf:aff		
 harcowano	harcować	imps:imperf		
 harcowań	harcować	ger:pl:gen:n2:imperf:aff		
@@ -9373,12 +9420,13 @@ hardziejszym	hardy	adj:sg:loc:m1.m2.m3.n1.n2:com		rzad.
 hardziejszymi	hardy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
 hardzi	hardy	adj:pl:nom.voc:m1.p1:pos		
 hardzie	hardzie	adv:pos		daw.
+hardzeniach	hardzieć	ger:pl:loc:n2:imperf:aff		
 hardzenia	hardzieć	ger:pl:nom.acc:n2:imperf:aff		
 hardzenia	hardzieć	ger:sg:gen:n2:imperf:aff		
 hardzeniami	hardzieć	ger:pl:inst:n2:imperf:aff		
 hardzenie	hardzieć	ger:sg:nom.acc:n2:imperf:aff		
 hardzeniem	hardzieć	ger:sg:inst:n2:imperf:aff		
-hardzeniom	hardzieć	ger:pl:dat.loc:n2:imperf:aff		
+hardzeniom	hardzieć	ger:pl:dat:n2:imperf:aff		
 hardzeniu	hardzieć	ger:sg:dat.loc:n2:imperf:aff		
 hardzeń	hardzieć	ger:pl:gen:n2:imperf:aff		
 hardziałaby	hardzieć	cond:sg:f:ter:imperf		
@@ -9765,13 +9813,14 @@ harfowane	harfować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 harfowane	harfować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 harfowanej	harfować	ppas:sg:gen.dat.loc:f:imperf:aff		
 harfowanemu	harfować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+harfowaniach	harfować	ger:pl:loc:n2:imperf:aff		
 harfowania	harfować	ger:pl:nom.acc:n2:imperf:aff		
 harfowania	harfować	ger:sg:gen:n2:imperf:aff		
 harfowaniami	harfować	ger:pl:inst:n2:imperf:aff		
 harfowanie	harfować	ger:sg:nom.acc:n2:imperf:aff		
 harfowaniem	harfować	ger:sg:inst:n2:imperf:aff		
 harfowani	harfować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-harfowaniom	harfować	ger:pl:dat.loc:n2:imperf:aff		
+harfowaniom	harfować	ger:pl:dat:n2:imperf:aff		
 harfowaniu	harfować	ger:sg:dat.loc:n2:imperf:aff		
 harfowano	harfować	imps:imperf		roln.
 harfowanych	harfować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -10352,12 +10401,13 @@ harmoniowały	harmoniować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 harmoniowały	harmoniować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 harmoniowałyście	harmoniować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 harmoniowałyśmy	harmoniować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+harmoniowaniach	harmoniować	ger:pl:loc:n2:imperf:aff		
 harmoniowania	harmoniować	ger:pl:nom.acc:n2:imperf:aff		
 harmoniowania	harmoniować	ger:sg:gen:n2:imperf:aff		
 harmoniowaniami	harmoniować	ger:pl:inst:n2:imperf:aff		
 harmoniowanie	harmoniować	ger:sg:nom.acc:n2:imperf:aff		
 harmoniowaniem	harmoniować	ger:sg:inst:n2:imperf:aff		
-harmoniowaniom	harmoniować	ger:pl:dat.loc:n2:imperf:aff		
+harmoniowaniom	harmoniować	ger:pl:dat:n2:imperf:aff		
 harmoniowaniu	harmoniować	ger:sg:dat.loc:n2:imperf:aff		
 harmoniowano	harmoniować	imps:imperf		daw.
 harmoniowań	harmoniować	ger:pl:gen:n2:imperf:aff		
@@ -10492,13 +10542,14 @@ harmonizowane	harmonizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 harmonizowane	harmonizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 harmonizowanej	harmonizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 harmonizowanemu	harmonizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+harmonizowaniach	harmonizować	ger:pl:loc:n2:imperf:aff		
 harmonizowania	harmonizować	ger:pl:nom.acc:n2:imperf:aff		
 harmonizowania	harmonizować	ger:sg:gen:n2:imperf:aff		
 harmonizowaniami	harmonizować	ger:pl:inst:n2:imperf:aff		
 harmonizowanie	harmonizować	ger:sg:nom.acc:n2:imperf:aff		
 harmonizowaniem	harmonizować	ger:sg:inst:n2:imperf:aff		
 harmonizowani	harmonizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-harmonizowaniom	harmonizować	ger:pl:dat.loc:n2:imperf:aff		
+harmonizowaniom	harmonizować	ger:pl:dat:n2:imperf:aff		
 harmonizowaniu	harmonizować	ger:sg:dat.loc:n2:imperf:aff		
 harmonizowano	harmonizować	imps:imperf		
 harmonizowanych	harmonizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -10631,13 +10682,14 @@ harmonogramowane	harmonogramować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf
 harmonogramowane	harmonogramować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 harmonogramowanej	harmonogramować	ppas:sg:gen.dat.loc:f:imperf:aff		
 harmonogramowanemu	harmonogramować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+harmonogramowaniach	harmonogramować	ger:pl:loc:n2:imperf:aff		
 harmonogramowania	harmonogramować	ger:pl:nom.acc:n2:imperf:aff		
 harmonogramowania	harmonogramować	ger:sg:gen:n2:imperf:aff		
 harmonogramowaniami	harmonogramować	ger:pl:inst:n2:imperf:aff		
 harmonogramowanie	harmonogramować	ger:sg:nom.acc:n2:imperf:aff		
 harmonogramowaniem	harmonogramować	ger:sg:inst:n2:imperf:aff		
 harmonogramowani	harmonogramować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-harmonogramowaniom	harmonogramować	ger:pl:dat.loc:n2:imperf:aff		
+harmonogramowaniom	harmonogramować	ger:pl:dat:n2:imperf:aff		
 harmonogramowaniu	harmonogramować	ger:sg:dat.loc:n2:imperf:aff		
 harmonogramowano	harmonogramować	imps:imperf		rzad.
 harmonogramowanych	harmonogramować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -10903,12 +10955,13 @@ harowały	harować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		pot.
 harowały	harować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		pot.
 harowałyście	harować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		pot.
 harowałyśmy	harować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		pot.
+harowaniach	harować	ger:pl:loc:n2:imperf:aff		pot.
 harowania	harować	ger:pl:nom.acc:n2:imperf:aff		pot.
 harowania	harować	ger:sg:gen:n2:imperf:aff		pot.
 harowaniami	harować	ger:pl:inst:n2:imperf:aff		pot.
 harowanie	harować	ger:sg:nom.acc:n2:imperf:aff		pot.
 harowaniem	harować	ger:sg:inst:n2:imperf:aff		pot.
-harowaniom	harować	ger:pl:dat.loc:n2:imperf:aff		pot.
+harowaniom	harować	ger:pl:dat:n2:imperf:aff		pot.
 harowaniu	harować	ger:sg:dat.loc:n2:imperf:aff		pot.
 harowano	harować	imps:imperf		pot.
 harowań	harować	ger:pl:gen:n2:imperf:aff		pot.
@@ -11195,13 +11248,14 @@ harpunowane	harpunować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 harpunowane	harpunować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 harpunowanej	harpunować	ppas:sg:gen.dat.loc:f:imperf:aff		
 harpunowanemu	harpunować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+harpunowaniach	harpunować	ger:pl:loc:n2:imperf:aff		
 harpunowania	harpunować	ger:pl:nom.acc:n2:imperf:aff		
 harpunowania	harpunować	ger:sg:gen:n2:imperf:aff		
 harpunowaniami	harpunować	ger:pl:inst:n2:imperf:aff		
 harpunowanie	harpunować	ger:sg:nom.acc:n2:imperf:aff		
 harpunowaniem	harpunować	ger:sg:inst:n2:imperf:aff		
 harpunowani	harpunować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-harpunowaniom	harpunować	ger:pl:dat.loc:n2:imperf:aff		
+harpunowaniom	harpunować	ger:pl:dat:n2:imperf:aff		
 harpunowaniu	harpunować	ger:sg:dat.loc:n2:imperf:aff		
 harpunowano	harpunować	imps:imperf		
 harpunowanych	harpunować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -11391,13 +11445,14 @@ hartowane	hartować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hartowane	hartować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hartowanej	hartować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hartowanemu	hartować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hartowaniach	hartować	ger:pl:loc:n2:imperf:aff		
 hartowania	hartować	ger:pl:nom.acc:n2:imperf:aff		
 hartowania	hartować	ger:sg:gen:n2:imperf:aff		
 hartowaniami	hartować	ger:pl:inst:n2:imperf:aff		
 hartowanie	hartować	ger:sg:nom.acc:n2:imperf:aff		
 hartowaniem	hartować	ger:sg:inst:n2:imperf:aff		
 hartowani	hartować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hartowaniom	hartować	ger:pl:dat.loc:n2:imperf:aff		
+hartowaniom	hartować	ger:pl:dat:n2:imperf:aff		
 hartowaniu	hartować	ger:sg:dat.loc:n2:imperf:aff		
 hartowano	hartować	imps:imperf		
 hartowanych	hartować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -11802,12 +11857,13 @@ hasałyście	hasać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 hasałyśmy	hasać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 hasam	hasać	fin:sg:pri:imperf		
 hasamy	hasać	fin:pl:pri:imperf		
+hasaniach	hasać	ger:pl:loc:n2:imperf:aff		
 hasania	hasać	ger:pl:nom.acc:n2:imperf:aff		
 hasania	hasać	ger:sg:gen:n2:imperf:aff		
 hasaniami	hasać	ger:pl:inst:n2:imperf:aff		
 hasanie	hasać	ger:sg:nom.acc:n2:imperf:aff		
 hasaniem	hasać	ger:sg:inst:n2:imperf:aff		
-hasaniom	hasać	ger:pl:dat.loc:n2:imperf:aff		
+hasaniom	hasać	ger:pl:dat:n2:imperf:aff		
 hasaniu	hasać	ger:sg:dat.loc:n2:imperf:aff		
 hasano	hasać	imps:imperf		
 hasań	hasać	ger:pl:gen:n2:imperf:aff		
@@ -11953,13 +12009,14 @@ hasłowane	hasłować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hasłowane	hasłować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hasłowanej	hasłować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hasłowanemu	hasłować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hasłowaniach	hasłować	ger:pl:loc:n2:imperf:aff		
 hasłowania	hasłować	ger:pl:nom.acc:n2:imperf:aff		
 hasłowania	hasłować	ger:sg:gen:n2:imperf:aff		
 hasłowaniami	hasłować	ger:pl:inst:n2:imperf:aff		
 hasłowanie	hasłować	ger:sg:nom.acc:n2:imperf:aff		
 hasłowaniem	hasłować	ger:sg:inst:n2:imperf:aff		
 hasłowani	hasłować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hasłowaniom	hasłować	ger:pl:dat.loc:n2:imperf:aff		
+hasłowaniom	hasłować	ger:pl:dat:n2:imperf:aff		
 hasłowaniu	hasłować	ger:sg:dat.loc:n2:imperf:aff		
 hasłowano	hasłować	imps:imperf		
 hasłowanych	hasłować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -12747,13 +12804,14 @@ hazardowane	hazardować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hazardowane	hazardować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hazardowanej	hazardować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hazardowanemu	hazardować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hazardowaniach	hazardować	ger:pl:loc:n2:imperf:aff		
 hazardowania	hazardować	ger:pl:nom.acc:n2:imperf:aff		
 hazardowania	hazardować	ger:sg:gen:n2:imperf:aff		
 hazardowaniami	hazardować	ger:pl:inst:n2:imperf:aff		
 hazardowanie	hazardować	ger:sg:nom.acc:n2:imperf:aff		
 hazardowaniem	hazardować	ger:sg:inst:n2:imperf:aff		
 hazardowani	hazardować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hazardowaniom	hazardować	ger:pl:dat.loc:n2:imperf:aff		
+hazardowaniom	hazardować	ger:pl:dat:n2:imperf:aff		
 hazardowaniu	hazardować	ger:sg:dat.loc:n2:imperf:aff		
 hazardowano	hazardować	imps:imperf		
 hazardowanych	hazardować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -13479,13 +13537,14 @@ heblowane	heblować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 heblowane	heblować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 heblowanej	heblować	ppas:sg:gen.dat.loc:f:imperf:aff		
 heblowanemu	heblować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+heblowaniach	heblować	ger:pl:loc:n2:imperf:aff		
 heblowania	heblować	ger:pl:nom.acc:n2:imperf:aff		
 heblowania	heblować	ger:sg:gen:n2:imperf:aff		
 heblowaniami	heblować	ger:pl:inst:n2:imperf:aff		
 heblowanie	heblować	ger:sg:nom.acc:n2:imperf:aff		
 heblowaniem	heblować	ger:sg:inst:n2:imperf:aff		
 heblowani	heblować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-heblowaniom	heblować	ger:pl:dat.loc:n2:imperf:aff		
+heblowaniom	heblować	ger:pl:dat:n2:imperf:aff		
 heblowaniu	heblować	ger:sg:dat.loc:n2:imperf:aff		
 heblowano	heblować	imps:imperf		
 heblowanych	heblować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -13948,12 +14007,13 @@ hecnym	hecny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 hecnym	hecny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 hecnym	hecny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 hecnymi	hecny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hecowaniach	hecować:v	ger:pl:loc:n2:imperf:aff		
 hecowania	hecować:v	ger:pl:nom.acc:n2:imperf:aff		
 hecowania	hecować:v	ger:sg:gen:n2:imperf:aff		
 hecowaniami	hecować:v	ger:pl:inst:n2:imperf:aff		
 hecowanie	hecować:v	ger:sg:nom.acc:n2:imperf:aff		
 hecowaniem	hecować:v	ger:sg:inst:n2:imperf:aff		
-hecowaniom	hecować:v	ger:pl:dat.loc:n2:imperf:aff		
+hecowaniom	hecować:v	ger:pl:dat:n2:imperf:aff		
 hecowaniu	hecować:v	ger:sg:dat.loc:n2:imperf:aff		
 hecowań	hecować:v	ger:pl:gen:n2:imperf:aff		
 hecująca	hecować:v	pact:sg:nom.voc:f:imperf:aff		
@@ -13980,13 +14040,14 @@ hecowane	hecować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hecowane	hecować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hecowanej	hecować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 hecowanemu	hecować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hecowaniach	hecować:v	ger:pl:loc:n2:imperf:aff		
 hecowania	hecować:v	ger:pl:nom.acc:n2:imperf:aff		
 hecowania	hecować:v	ger:sg:gen:n2:imperf:aff		
 hecowaniami	hecować:v	ger:pl:inst:n2:imperf:aff		
 hecowanie	hecować:v	ger:sg:nom.acc:n2:imperf:aff		
 hecowaniem	hecować:v	ger:sg:inst:n2:imperf:aff		
 hecowani	hecować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hecowaniom	hecować:v	ger:pl:dat.loc:n2:imperf:aff		
+hecowaniom	hecować:v	ger:pl:dat:n2:imperf:aff		
 hecowaniu	hecować:v	ger:sg:dat.loc:n2:imperf:aff		
 hecowanych	hecować:v	ppas:pl:acc:m1.p1:imperf:aff		
 hecowanych	hecować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -14379,12 +14440,13 @@ hedonizowały	hedonizować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
 hedonizowały	hedonizować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
 hedonizowałyście	hedonizować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
 hedonizowałyśmy	hedonizować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+hedonizowaniach	hedonizować	ger:pl:loc:n2:imperf:aff		
 hedonizowania	hedonizować	ger:pl:nom.acc:n2:imperf:aff		
 hedonizowania	hedonizować	ger:sg:gen:n2:imperf:aff		
 hedonizowaniami	hedonizować	ger:pl:inst:n2:imperf:aff		
 hedonizowanie	hedonizować	ger:sg:nom.acc:n2:imperf:aff		
 hedonizowaniem	hedonizować	ger:sg:inst:n2:imperf:aff		
-hedonizowaniom	hedonizować	ger:pl:dat.loc:n2:imperf:aff		
+hedonizowaniom	hedonizować	ger:pl:dat:n2:imperf:aff		
 hedonizowaniu	hedonizować	ger:sg:dat.loc:n2:imperf:aff		
 hedonizowano	hedonizować	imps:imperf		rzad.
 hedonizowań	hedonizować	ger:pl:gen:n2:imperf:aff		
@@ -14830,6 +14892,22 @@ hejnałowymi	hejnałowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 hejsa	hejsa	interj		daw.
 hejt	hejt	interj		gwar.|rzad.
 hejta	hejta	interj		gwar.
+hejterach	hejter	subst:pl:loc:m1	pospolita	pot.
+hejtera	hejter	subst:sg:acc:m1	pospolita	pot.
+hejtera	hejter	subst:sg:gen:m1	pospolita	pot.
+hejterami	hejter	subst:pl:inst:m1	pospolita	pot.
+hejterem	hejter	subst:sg:inst:m1	pospolita	pot.
+hejter	hejter	subst:sg:nom:m1	pospolita	pot.
+hejterom	hejter	subst:pl:dat:m1	pospolita	pot.
+hejterowi	hejter	subst:sg:dat:m1	pospolita	pot.
+hejterów	hejter	subst:pl:acc:m1	pospolita	pot.
+hejterów	hejter	subst:pl:gen:m1	pospolita	pot.
+hejtery	hejter	depr:pl:nom:m2	pospolita	pot.
+hejtery	hejter	depr:pl:voc:m2	pospolita	pot.
+hejterze	hejter	subst:sg:loc:m1	pospolita	pot.
+hejterze	hejter	subst:sg:voc:m1	pospolita	pot.
+hejterzy	hejter	subst:pl:nom:m1	pospolita	pot.
+hejterzy	hejter	subst:pl:voc:m1	pospolita	pot.
 hejże	hejże	interj		
 hekatombach	hekatomba	subst:pl:loc:f	pospolita	
 hekatomba	hekatomba	subst:sg:nom:f	pospolita	
@@ -15319,13 +15397,14 @@ hektografowane	hektografować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hektografowane	hektografować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hektografowanej	hektografować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hektografowanemu	hektografować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hektografowaniach	hektografować	ger:pl:loc:n2:imperf:aff		
 hektografowania	hektografować	ger:pl:nom.acc:n2:imperf:aff		
 hektografowania	hektografować	ger:sg:gen:n2:imperf:aff		
 hektografowaniami	hektografować	ger:pl:inst:n2:imperf:aff		
 hektografowanie	hektografować	ger:sg:nom.acc:n2:imperf:aff		
 hektografowaniem	hektografować	ger:sg:inst:n2:imperf:aff		
 hektografowani	hektografować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hektografowaniom	hektografować	ger:pl:dat.loc:n2:imperf:aff		
+hektografowaniom	hektografować	ger:pl:dat:n2:imperf:aff		
 hektografowaniu	hektografować	ger:sg:dat.loc:n2:imperf:aff		
 hektografowano	hektografować	imps:imperf		
 hektografowanych	hektografować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -16000,7 +16079,6 @@ heliofilem	heliofil	subst:sg:inst:m3	pospolita
 heliofil	heliofil	subst:sg:acc:m3	pospolita	
 heliofil	heliofil	subst:sg:nom:m2	pospolita	
 heliofil	heliofil	subst:sg:nom:m3	pospolita	
-heliofili	heliofil	subst:pl:gen:m2	pospolita	
 heliofili	heliofil	subst:pl:gen:m3	pospolita	
 heliofilom	heliofil	subst:pl:dat:m2	pospolita	
 heliofilom	heliofil	subst:pl:dat:m3	pospolita	
@@ -16008,8 +16086,7 @@ heliofilowi	heliofil	subst:sg:dat:m2	pospolita
 heliofilowi	heliofil	subst:sg:dat:m3	pospolita	
 heliofilów	heliofil	subst:pl:gen:m2	pospolita	
 heliofilów	heliofil	subst:pl:gen:m3	pospolita	
-heliofilu	heliofil	subst:sg:acc:m2	pospolita	
-heliofilu	heliofil	subst:sg:gen:m2	pospolita	
+heliofilu	heliofil	subst:sg:gen:m3	pospolita	
 heliofilu	heliofil	subst:sg:loc:m2	pospolita	
 heliofilu	heliofil	subst:sg:loc:m3	pospolita	
 heliofilu	heliofil	subst:sg:voc:m2	pospolita	
@@ -16699,13 +16776,14 @@ hellenizowane	hellenizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hellenizowane	hellenizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hellenizowanej	hellenizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hellenizowanemu	hellenizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hellenizowaniach	hellenizować	ger:pl:loc:n2:imperf:aff		
 hellenizowania	hellenizować	ger:pl:nom.acc:n2:imperf:aff		
 hellenizowania	hellenizować	ger:sg:gen:n2:imperf:aff		
 hellenizowaniami	hellenizować	ger:pl:inst:n2:imperf:aff		
 hellenizowanie	hellenizować	ger:sg:nom.acc:n2:imperf:aff		
 hellenizowaniem	hellenizować	ger:sg:inst:n2:imperf:aff		
 hellenizowani	hellenizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hellenizowaniom	hellenizować	ger:pl:dat.loc:n2:imperf:aff		
+hellenizowaniom	hellenizować	ger:pl:dat:n2:imperf:aff		
 hellenizowaniu	hellenizować	ger:sg:dat.loc:n2:imperf:aff		
 hellenizowano	hellenizować	imps:imperf		
 hellenizowanych	hellenizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -17003,12 +17081,13 @@ helokałyście	helokać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		gwar.
 helokałyśmy	helokać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		gwar.
 helokam	helokać	fin:sg:pri:imperf		gwar.
 helokamy	helokać	fin:pl:pri:imperf		gwar.
+helokaniach	helokać	ger:pl:loc:n2:imperf:aff		
 helokania	helokać	ger:pl:nom.acc:n2:imperf:aff		
 helokania	helokać	ger:sg:gen:n2:imperf:aff		
 helokaniami	helokać	ger:pl:inst:n2:imperf:aff		
 helokanie	helokać	ger:sg:nom.acc:n2:imperf:aff		
 helokaniem	helokać	ger:sg:inst:n2:imperf:aff		
-helokaniom	helokać	ger:pl:dat.loc:n2:imperf:aff		
+helokaniom	helokać	ger:pl:dat:n2:imperf:aff		
 helokaniu	helokać	ger:sg:dat.loc:n2:imperf:aff		
 helokano	helokać	imps:imperf		gwar.
 helokań	helokać	ger:pl:gen:n2:imperf:aff		
@@ -18312,13 +18391,14 @@ hemolizowane	hemolizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hemolizowane	hemolizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hemolizowanej	hemolizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hemolizowanemu	hemolizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hemolizowaniach	hemolizować	ger:pl:loc:n2:imperf:aff		
 hemolizowania	hemolizować	ger:pl:nom.acc:n2:imperf:aff		
 hemolizowania	hemolizować	ger:sg:gen:n2:imperf:aff		
 hemolizowaniami	hemolizować	ger:pl:inst:n2:imperf:aff		
 hemolizowanie	hemolizować	ger:sg:nom.acc:n2:imperf:aff		
 hemolizowaniem	hemolizować	ger:sg:inst:n2:imperf:aff		
 hemolizowani	hemolizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hemolizowaniom	hemolizować	ger:pl:dat.loc:n2:imperf:aff		
+hemolizowaniom	hemolizować	ger:pl:dat:n2:imperf:aff		
 hemolizowaniu	hemolizować	ger:sg:dat.loc:n2:imperf:aff		
 hemolizowano	hemolizować	imps:imperf		
 hemolizowanych	hemolizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -18801,13 +18881,14 @@ hepane	hepać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hepane	hepać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hepanej	hepać	ppas:sg:gen.dat.loc:f:imperf:aff		
 hepanemu	hepać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hepaniach	hepać	ger:pl:loc:n2:imperf:aff		
 hepania	hepać	ger:pl:nom.acc:n2:imperf:aff		
 hepania	hepać	ger:sg:gen:n2:imperf:aff		
 hepaniami	hepać	ger:pl:inst:n2:imperf:aff		
 hepanie	hepać	ger:sg:nom.acc:n2:imperf:aff		
 hepaniem	hepać	ger:sg:inst:n2:imperf:aff		
 hepani	hepać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hepaniom	hepać	ger:pl:dat.loc:n2:imperf:aff		
+hepaniom	hepać	ger:pl:dat:n2:imperf:aff		
 hepaniu	hepać	ger:sg:dat.loc:n2:imperf:aff		
 hepano	hepać	imps:imperf		rzad.
 hepanych	hepać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -19021,13 +19102,14 @@ hepniecie	hepnąć	fin:pl:sec:perf		rzad.
 hepnie	hepnąć	fin:sg:ter:perf		rzad.
 hepniemy	hepnąć	fin:pl:pri:perf		rzad.
 hepniesz	hepnąć	fin:sg:sec:perf		rzad.
+hepnięciach	hepnąć	ger:pl:loc:n2:perf:aff		
 hepnięcia	hepnąć	ger:pl:nom.acc:n2:perf:aff		
 hepnięcia	hepnąć	ger:sg:gen:n2:perf:aff		
 hepnięciami	hepnąć	ger:pl:inst:n2:perf:aff		
 hepnięcie	hepnąć	ger:sg:nom.acc:n2:perf:aff		
 hepnięciem	hepnąć	ger:sg:inst:n2:perf:aff		
 hepnięci	hepnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-hepnięciom	hepnąć	ger:pl:dat.loc:n2:perf:aff		
+hepnięciom	hepnąć	ger:pl:dat:n2:perf:aff		
 hepnięciu	hepnąć	ger:sg:dat.loc:n2:perf:aff		
 hepnięć	hepnąć	ger:pl:gen:n2:perf:aff		
 hepnięta	hepnąć	ppas:sg:nom.voc:f:perf:aff		
@@ -19957,12 +20039,13 @@ herboryzowały	herboryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 herboryzowały	herboryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 herboryzowałyście	herboryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 herboryzowałyśmy	herboryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+herboryzowaniach	herboryzować	ger:pl:loc:n2:imperf:aff		
 herboryzowania	herboryzować	ger:pl:nom.acc:n2:imperf:aff		
 herboryzowania	herboryzować	ger:sg:gen:n2:imperf:aff		
 herboryzowaniami	herboryzować	ger:pl:inst:n2:imperf:aff		
 herboryzowanie	herboryzować	ger:sg:nom.acc:n2:imperf:aff		
 herboryzowaniem	herboryzować	ger:sg:inst:n2:imperf:aff		
-herboryzowaniom	herboryzować	ger:pl:dat.loc:n2:imperf:aff		
+herboryzowaniom	herboryzować	ger:pl:dat:n2:imperf:aff		
 herboryzowaniu	herboryzować	ger:sg:dat.loc:n2:imperf:aff		
 herboryzowano	herboryzować	imps:imperf		
 herboryzowań	herboryzować	ger:pl:gen:n2:imperf:aff		
@@ -20036,13 +20119,14 @@ herbowane	herbować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 herbowane	herbować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 herbowanej	herbować	ppas:sg:gen.dat.loc:f:imperf:aff		
 herbowanemu	herbować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+herbowaniach	herbować	ger:pl:loc:n2:imperf:aff		
 herbowania	herbować	ger:pl:nom.acc:n2:imperf:aff		
 herbowania	herbować	ger:sg:gen:n2:imperf:aff		
 herbowaniami	herbować	ger:pl:inst:n2:imperf:aff		
 herbowanie	herbować	ger:sg:nom.acc:n2:imperf:aff		
 herbowaniem	herbować	ger:sg:inst:n2:imperf:aff		
 herbowani	herbować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-herbowaniom	herbować	ger:pl:dat.loc:n2:imperf:aff		
+herbowaniom	herbować	ger:pl:dat:n2:imperf:aff		
 herbowaniu	herbować	ger:sg:dat.loc:n2:imperf:aff		
 herbowano	herbować	imps:imperf		daw.
 herbowanych	herbować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -20318,12 +20402,13 @@ hercowały	hercować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 hercowały	hercować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 hercowałyście	hercować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 hercowałyśmy	hercować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+hercowaniach	hercować	ger:pl:loc:n2:imperf:aff		
 hercowania	hercować	ger:pl:nom.acc:n2:imperf:aff		
 hercowania	hercować	ger:sg:gen:n2:imperf:aff		
 hercowaniami	hercować	ger:pl:inst:n2:imperf:aff		
 hercowanie	hercować	ger:sg:nom.acc:n2:imperf:aff		
 hercowaniem	hercować	ger:sg:inst:n2:imperf:aff		
-hercowaniom	hercować	ger:pl:dat.loc:n2:imperf:aff		
+hercowaniom	hercować	ger:pl:dat:n2:imperf:aff		
 hercowaniu	hercować	ger:sg:dat.loc:n2:imperf:aff		
 hercowano	hercować	imps:imperf		daw.
 hercowań	hercować	ger:pl:gen:n2:imperf:aff		
@@ -20950,13 +21035,14 @@ hermetyzowane	hermetyzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hermetyzowane	hermetyzować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hermetyzowanej	hermetyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hermetyzowanemu	hermetyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hermetyzowaniach	hermetyzować	ger:pl:loc:n2:imperf:aff		
 hermetyzowania	hermetyzować	ger:pl:nom.acc:n2:imperf:aff		
 hermetyzowania	hermetyzować	ger:sg:gen:n2:imperf:aff		
 hermetyzowaniami	hermetyzować	ger:pl:inst:n2:imperf:aff		
 hermetyzowanie	hermetyzować	ger:sg:nom.acc:n2:imperf:aff		
 hermetyzowaniem	hermetyzować	ger:sg:inst:n2:imperf:aff		
 hermetyzowani	hermetyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hermetyzowaniom	hermetyzować	ger:pl:dat.loc:n2:imperf:aff		
+hermetyzowaniom	hermetyzować	ger:pl:dat:n2:imperf:aff		
 hermetyzowaniu	hermetyzować	ger:sg:dat.loc:n2:imperf:aff		
 hermetyzowano	hermetyzować	imps:imperf		
 hermetyzowanych	hermetyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -21447,13 +21533,14 @@ heroizowane	heroizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 heroizowane	heroizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 heroizowanej	heroizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 heroizowanemu	heroizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+heroizowaniach	heroizować	ger:pl:loc:n2:imperf:aff		
 heroizowania	heroizować	ger:pl:nom.acc:n2:imperf:aff		
 heroizowania	heroizować	ger:sg:gen:n2:imperf:aff		
 heroizowaniami	heroizować	ger:pl:inst:n2:imperf:aff		
 heroizowanie	heroizować	ger:sg:nom.acc:n2:imperf:aff		
 heroizowaniem	heroizować	ger:sg:inst:n2:imperf:aff		
 heroizowani	heroizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-heroizowaniom	heroizować	ger:pl:dat.loc:n2:imperf:aff		
+heroizowaniom	heroizować	ger:pl:dat:n2:imperf:aff		
 heroizowaniu	heroizować	ger:sg:dat.loc:n2:imperf:aff		
 heroizowano	heroizować	imps:imperf		
 heroizowanych	heroizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -21797,12 +21884,13 @@ hersztowały	hersztować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
 hersztowały	hersztować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
 hersztowałyście	hersztować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
 hersztowałyśmy	hersztować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+hersztowaniach	hersztować	ger:pl:loc:n2:imperf:aff		
 hersztowania	hersztować	ger:pl:nom.acc:n2:imperf:aff		
 hersztowania	hersztować	ger:sg:gen:n2:imperf:aff		
 hersztowaniami	hersztować	ger:pl:inst:n2:imperf:aff		
 hersztowanie	hersztować	ger:sg:nom.acc:n2:imperf:aff		
 hersztowaniem	hersztować	ger:sg:inst:n2:imperf:aff		
-hersztowaniom	hersztować	ger:pl:dat.loc:n2:imperf:aff		
+hersztowaniom	hersztować	ger:pl:dat:n2:imperf:aff		
 hersztowaniu	hersztować	ger:sg:dat.loc:n2:imperf:aff		
 hersztowano	hersztować	imps:imperf		rzad.
 hersztowań	hersztować	ger:pl:gen:n2:imperf:aff		
@@ -22243,13 +22331,14 @@ heterodynowane	heterodynować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 heterodynowane	heterodynować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 heterodynowanej	heterodynować	ppas:sg:gen.dat.loc:f:imperf:aff		
 heterodynowanemu	heterodynować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+heterodynowaniach	heterodynować	ger:pl:loc:n2:imperf:aff		
 heterodynowania	heterodynować	ger:pl:nom.acc:n2:imperf:aff		
 heterodynowania	heterodynować	ger:sg:gen:n2:imperf:aff		
 heterodynowaniami	heterodynować	ger:pl:inst:n2:imperf:aff		
 heterodynowanie	heterodynować	ger:sg:nom.acc:n2:imperf:aff		
 heterodynowaniem	heterodynować	ger:sg:inst:n2:imperf:aff		
 heterodynowani	heterodynować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-heterodynowaniom	heterodynować	ger:pl:dat.loc:n2:imperf:aff		
+heterodynowaniom	heterodynować	ger:pl:dat:n2:imperf:aff		
 heterodynowaniu	heterodynować	ger:sg:dat.loc:n2:imperf:aff		
 heterodynowano	heterodynować	imps:imperf		
 heterodynowanych	heterodynować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -23278,12 +23367,13 @@ hetmaniącymi	hetmanić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 hetmanią	hetmanić	fin:pl:ter:imperf		przest.
 hetmanicie	hetmanić	fin:pl:sec:imperf		przest.
 hetmanić	hetmanić	inf:imperf		przest.
+hetmanieniach	hetmanić	ger:pl:loc:n2:imperf:aff		
 hetmanienia	hetmanić	ger:pl:nom.acc:n2:imperf:aff		
 hetmanienia	hetmanić	ger:sg:gen:n2:imperf:aff		
 hetmanieniami	hetmanić	ger:pl:inst:n2:imperf:aff		
 hetmanienie	hetmanić	ger:sg:nom.acc:n2:imperf:aff		
 hetmanieniem	hetmanić	ger:sg:inst:n2:imperf:aff		
-hetmanieniom	hetmanić	ger:pl:dat.loc:n2:imperf:aff		
+hetmanieniom	hetmanić	ger:pl:dat:n2:imperf:aff		
 hetmanieniu	hetmanić	ger:sg:dat.loc:n2:imperf:aff		
 hetmanień	hetmanić	ger:pl:gen:n2:imperf:aff		
 hetmanię	hetmanić	fin:sg:pri:imperf		przest.
@@ -24110,13 +24200,14 @@ hibernowane	hibernować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hibernowane	hibernować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hibernowanej	hibernować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hibernowanemu	hibernować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hibernowaniach	hibernować	ger:pl:loc:n2:imperf:aff		
 hibernowania	hibernować	ger:pl:nom.acc:n2:imperf:aff		
 hibernowania	hibernować	ger:sg:gen:n2:imperf:aff		
 hibernowaniami	hibernować	ger:pl:inst:n2:imperf:aff		
 hibernowanie	hibernować	ger:sg:nom.acc:n2:imperf:aff		
 hibernowaniem	hibernować	ger:sg:inst:n2:imperf:aff		
 hibernowani	hibernować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hibernowaniom	hibernować	ger:pl:dat.loc:n2:imperf:aff		
+hibernowaniom	hibernować	ger:pl:dat:n2:imperf:aff		
 hibernowaniu	hibernować	ger:sg:dat.loc:n2:imperf:aff		
 hibernowano	hibernować	imps:imperf		
 hibernowanych	hibernować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -24562,13 +24653,14 @@ hierarchizowane	hierarchizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:a
 hierarchizowane	hierarchizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hierarchizowanej	hierarchizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hierarchizowanemu	hierarchizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hierarchizowaniach	hierarchizować	ger:pl:loc:n2:imperf:aff		
 hierarchizowania	hierarchizować	ger:pl:nom.acc:n2:imperf:aff		
 hierarchizowania	hierarchizować	ger:sg:gen:n2:imperf:aff		
 hierarchizowaniami	hierarchizować	ger:pl:inst:n2:imperf:aff		
 hierarchizowanie	hierarchizować	ger:sg:nom.acc:n2:imperf:aff		
 hierarchizowaniem	hierarchizować	ger:sg:inst:n2:imperf:aff		
 hierarchizowani	hierarchizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hierarchizowaniom	hierarchizować	ger:pl:dat.loc:n2:imperf:aff		
+hierarchizowaniom	hierarchizować	ger:pl:dat:n2:imperf:aff		
 hierarchizowaniu	hierarchizować	ger:sg:dat.loc:n2:imperf:aff		
 hierarchizowano	hierarchizować	imps:imperf		
 hierarchizowanych	hierarchizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -24732,13 +24824,14 @@ hieratyzowane	hieratyzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hieratyzowane	hieratyzować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hieratyzowanej	hieratyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hieratyzowanemu	hieratyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hieratyzowaniach	hieratyzować	ger:pl:loc:n2:imperf:aff		
 hieratyzowania	hieratyzować	ger:pl:nom.acc:n2:imperf:aff		
 hieratyzowania	hieratyzować	ger:sg:gen:n2:imperf:aff		
 hieratyzowaniami	hieratyzować	ger:pl:inst:n2:imperf:aff		
 hieratyzowanie	hieratyzować	ger:sg:nom.acc:n2:imperf:aff		
 hieratyzowaniem	hieratyzować	ger:sg:inst:n2:imperf:aff		
 hieratyzowani	hieratyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hieratyzowaniom	hieratyzować	ger:pl:dat.loc:n2:imperf:aff		
+hieratyzowaniom	hieratyzować	ger:pl:dat:n2:imperf:aff		
 hieratyzowaniu	hieratyzować	ger:sg:dat.loc:n2:imperf:aff		
 hieratyzowano	hieratyzować	imps:imperf		
 hieratyzowanych	hieratyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -24983,13 +25076,14 @@ hieroglifowane	hieroglifować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hieroglifowane	hieroglifować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hieroglifowanej	hieroglifować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hieroglifowanemu	hieroglifować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hieroglifowaniach	hieroglifować	ger:pl:loc:n2:imperf:aff		
 hieroglifowania	hieroglifować	ger:pl:nom.acc:n2:imperf:aff		
 hieroglifowania	hieroglifować	ger:sg:gen:n2:imperf:aff		
 hieroglifowaniami	hieroglifować	ger:pl:inst:n2:imperf:aff		
 hieroglifowanie	hieroglifować	ger:sg:nom.acc:n2:imperf:aff		
 hieroglifowaniem	hieroglifować	ger:sg:inst:n2:imperf:aff		
 hieroglifowani	hieroglifować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hieroglifowaniom	hieroglifować	ger:pl:dat.loc:n2:imperf:aff		
+hieroglifowaniom	hieroglifować	ger:pl:dat:n2:imperf:aff		
 hieroglifowaniu	hieroglifować	ger:sg:dat.loc:n2:imperf:aff		
 hieroglifowano	hieroglifować	imps:imperf		
 hieroglifowanych	hieroglifować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -26613,13 +26707,14 @@ hiperbolizowane	hiperbolizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:a
 hiperbolizowane	hiperbolizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hiperbolizowanej	hiperbolizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hiperbolizowanemu	hiperbolizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hiperbolizowaniach	hiperbolizować	ger:pl:loc:n2:imperf:aff		
 hiperbolizowania	hiperbolizować	ger:pl:nom.acc:n2:imperf:aff		
 hiperbolizowania	hiperbolizować	ger:sg:gen:n2:imperf:aff		
 hiperbolizowaniami	hiperbolizować	ger:pl:inst:n2:imperf:aff		
 hiperbolizowanie	hiperbolizować	ger:sg:nom.acc:n2:imperf:aff		
 hiperbolizowaniem	hiperbolizować	ger:sg:inst:n2:imperf:aff		
 hiperbolizowani	hiperbolizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hiperbolizowaniom	hiperbolizować	ger:pl:dat.loc:n2:imperf:aff		
+hiperbolizowaniom	hiperbolizować	ger:pl:dat:n2:imperf:aff		
 hiperbolizowaniu	hiperbolizować	ger:sg:dat.loc:n2:imperf:aff		
 hiperbolizowano	hiperbolizować	imps:imperf		
 hiperbolizowanych	hiperbolizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -28643,13 +28738,14 @@ hipnotyzowane	hipnotyzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hipnotyzowane	hipnotyzować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hipnotyzowanej	hipnotyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hipnotyzowanemu	hipnotyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hipnotyzowaniach	hipnotyzować	ger:pl:loc:n2:imperf:aff		
 hipnotyzowania	hipnotyzować	ger:pl:nom.acc:n2:imperf:aff		
 hipnotyzowania	hipnotyzować	ger:sg:gen:n2:imperf:aff		
 hipnotyzowaniami	hipnotyzować	ger:pl:inst:n2:imperf:aff		
 hipnotyzowanie	hipnotyzować	ger:sg:nom.acc:n2:imperf:aff		
 hipnotyzowaniem	hipnotyzować	ger:sg:inst:n2:imperf:aff		
 hipnotyzowani	hipnotyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hipnotyzowaniom	hipnotyzować	ger:pl:dat.loc:n2:imperf:aff		
+hipnotyzowaniom	hipnotyzować	ger:pl:dat:n2:imperf:aff		
 hipnotyzowaniu	hipnotyzować	ger:sg:dat.loc:n2:imperf:aff		
 hipnotyzowano	hipnotyzować	imps:imperf		
 hipnotyzowanych	hipnotyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -29047,12 +29143,13 @@ hipogryfowały	hipogryfować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
 hipogryfowały	hipogryfować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
 hipogryfowałyście	hipogryfować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
 hipogryfowałyśmy	hipogryfować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+hipogryfowaniach	hipogryfować	ger:pl:loc:n2:imperf:aff		
 hipogryfowania	hipogryfować	ger:pl:nom.acc:n2:imperf:aff		
 hipogryfowania	hipogryfować	ger:sg:gen:n2:imperf:aff		
 hipogryfowaniami	hipogryfować	ger:pl:inst:n2:imperf:aff		
 hipogryfowanie	hipogryfować	ger:sg:nom.acc:n2:imperf:aff		
 hipogryfowaniem	hipogryfować	ger:sg:inst:n2:imperf:aff		
-hipogryfowaniom	hipogryfować	ger:pl:dat.loc:n2:imperf:aff		
+hipogryfowaniom	hipogryfować	ger:pl:dat:n2:imperf:aff		
 hipogryfowaniu	hipogryfować	ger:sg:dat.loc:n2:imperf:aff		
 hipogryfowano	hipogryfować	imps:imperf		rzad.
 hipogryfowań	hipogryfować	ger:pl:gen:n2:imperf:aff		
@@ -29894,13 +29991,14 @@ hipostazowane	hipostazować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hipostazowane	hipostazować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hipostazowanej	hipostazować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hipostazowanemu	hipostazować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hipostazowaniach	hipostazować	ger:pl:loc:n2:imperf:aff		
 hipostazowania	hipostazować	ger:pl:nom.acc:n2:imperf:aff		
 hipostazowania	hipostazować	ger:sg:gen:n2:imperf:aff		
 hipostazowaniami	hipostazować	ger:pl:inst:n2:imperf:aff		
 hipostazowanie	hipostazować	ger:sg:nom.acc:n2:imperf:aff		
 hipostazowaniem	hipostazować	ger:sg:inst:n2:imperf:aff		
 hipostazowani	hipostazować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hipostazowaniom	hipostazować	ger:pl:dat.loc:n2:imperf:aff		
+hipostazowaniom	hipostazować	ger:pl:dat:n2:imperf:aff		
 hipostazowaniu	hipostazować	ger:sg:dat.loc:n2:imperf:aff		
 hipostazowano	hipostazować	imps:imperf		
 hipostazowanych	hipostazować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -30119,13 +30217,14 @@ hipotekowane	hipotekować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hipotekowane	hipotekować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hipotekowanej	hipotekować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hipotekowanemu	hipotekować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hipotekowaniach	hipotekować	ger:pl:loc:n2:imperf:aff		
 hipotekowania	hipotekować	ger:pl:nom.acc:n2:imperf:aff		
 hipotekowania	hipotekować	ger:sg:gen:n2:imperf:aff		
 hipotekowaniami	hipotekować	ger:pl:inst:n2:imperf:aff		
 hipotekowanie	hipotekować	ger:sg:nom.acc:n2:imperf:aff		
 hipotekowaniem	hipotekować	ger:sg:inst:n2:imperf:aff		
 hipotekowani	hipotekować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hipotekowaniom	hipotekować	ger:pl:dat.loc:n2:imperf:aff		
+hipotekowaniom	hipotekować	ger:pl:dat:n2:imperf:aff		
 hipotekowaniu	hipotekować	ger:sg:dat.loc:n2:imperf:aff		
 hipotekowano	hipotekować	imps:imperf		
 hipotekowanych	hipotekować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -31006,13 +31105,14 @@ hisowane	hisować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hisowane	hisować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hisowanej	hisować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hisowanemu	hisować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hisowaniach	hisować	ger:pl:loc:n2:imperf:aff		
 hisowania	hisować	ger:pl:nom.acc:n2:imperf:aff		
 hisowania	hisować	ger:sg:gen:n2:imperf:aff		
 hisowaniami	hisować	ger:pl:inst:n2:imperf:aff		
 hisowanie	hisować	ger:sg:nom.acc:n2:imperf:aff		
 hisowaniem	hisować	ger:sg:inst:n2:imperf:aff		
 hisowani	hisować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hisowaniom	hisować	ger:pl:dat.loc:n2:imperf:aff		
+hisowaniom	hisować	ger:pl:dat:n2:imperf:aff		
 hisowaniu	hisować	ger:sg:dat.loc:n2:imperf:aff		
 hisowano	hisować	imps:imperf		żegl.
 hisowanych	hisować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -31378,12 +31478,13 @@ histeryzowały	histeryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 histeryzowały	histeryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 histeryzowałyście	histeryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 histeryzowałyśmy	histeryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+histeryzowaniach	histeryzować	ger:pl:loc:n2:imperf:aff		
 histeryzowania	histeryzować	ger:pl:nom.acc:n2:imperf:aff		
 histeryzowania	histeryzować	ger:sg:gen:n2:imperf:aff		
 histeryzowaniami	histeryzować	ger:pl:inst:n2:imperf:aff		
 histeryzowanie	histeryzować	ger:sg:nom.acc:n2:imperf:aff		
 histeryzowaniem	histeryzować	ger:sg:inst:n2:imperf:aff		
-histeryzowaniom	histeryzować	ger:pl:dat.loc:n2:imperf:aff		
+histeryzowaniom	histeryzować	ger:pl:dat:n2:imperf:aff		
 histeryzowaniu	histeryzować	ger:sg:dat.loc:n2:imperf:aff		
 histeryzowano	histeryzować	imps:imperf		
 histeryzowań	histeryzować	ger:pl:gen:n2:imperf:aff		
@@ -32166,12 +32267,13 @@ historyzowały	historyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 historyzowały	historyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 historyzowałyście	historyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 historyzowałyśmy	historyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+historyzowaniach	historyzować	ger:pl:loc:n2:imperf:aff		
 historyzowania	historyzować	ger:pl:nom.acc:n2:imperf:aff		
 historyzowania	historyzować	ger:sg:gen:n2:imperf:aff		
 historyzowaniami	historyzować	ger:pl:inst:n2:imperf:aff		
 historyzowanie	historyzować	ger:sg:nom.acc:n2:imperf:aff		
 historyzowaniem	historyzować	ger:sg:inst:n2:imperf:aff		
-historyzowaniom	historyzować	ger:pl:dat.loc:n2:imperf:aff		
+historyzowaniom	historyzować	ger:pl:dat:n2:imperf:aff		
 historyzowaniu	historyzować	ger:sg:dat.loc:n2:imperf:aff		
 historyzowano	historyzować	imps:imperf		
 historyzowań	historyzować	ger:pl:gen:n2:imperf:aff		
@@ -32496,13 +32598,14 @@ hitleryzowane	hitleryzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hitleryzowane	hitleryzować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hitleryzowanej	hitleryzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hitleryzowanemu	hitleryzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hitleryzowaniach	hitleryzować	ger:pl:loc:n2:imperf:aff		
 hitleryzowania	hitleryzować	ger:pl:nom.acc:n2:imperf:aff		
 hitleryzowania	hitleryzować	ger:sg:gen:n2:imperf:aff		
 hitleryzowaniami	hitleryzować	ger:pl:inst:n2:imperf:aff		
 hitleryzowanie	hitleryzować	ger:sg:nom.acc:n2:imperf:aff		
 hitleryzowaniem	hitleryzować	ger:sg:inst:n2:imperf:aff		
 hitleryzowani	hitleryzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hitleryzowaniom	hitleryzować	ger:pl:dat.loc:n2:imperf:aff		
+hitleryzowaniom	hitleryzować	ger:pl:dat:n2:imperf:aff		
 hitleryzowaniu	hitleryzować	ger:sg:dat.loc:n2:imperf:aff		
 hitleryzowano	hitleryzować	imps:imperf		
 hitleryzowanych	hitleryzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -33146,13 +33249,14 @@ hodowane	hodować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hodowane	hodować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hodowanej	hodować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hodowanemu	hodować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hodowaniach	hodować	ger:pl:loc:n2:imperf:aff		
 hodowania	hodować	ger:pl:nom.acc:n2:imperf:aff		
 hodowania	hodować	ger:sg:gen:n2:imperf:aff		
 hodowaniami	hodować	ger:pl:inst:n2:imperf:aff		
 hodowanie	hodować	ger:sg:nom.acc:n2:imperf:aff		
 hodowaniem	hodować	ger:sg:inst:n2:imperf:aff		
 hodowani	hodować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hodowaniom	hodować	ger:pl:dat.loc:n2:imperf:aff		
+hodowaniom	hodować	ger:pl:dat:n2:imperf:aff		
 hodowaniu	hodować	ger:sg:dat.loc:n2:imperf:aff		
 hodowano	hodować	imps:imperf		
 hodowanych	hodować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -33401,13 +33505,14 @@ hojdane	hojdać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hojdane	hojdać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hojdanej	hojdać	ppas:sg:gen.dat.loc:f:imperf:aff		
 hojdanemu	hojdać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hojdaniach	hojdać	ger:pl:loc:n2:imperf:aff		
 hojdania	hojdać	ger:pl:nom.acc:n2:imperf:aff		
 hojdania	hojdać	ger:sg:gen:n2:imperf:aff		
 hojdaniami	hojdać	ger:pl:inst:n2:imperf:aff		
 hojdanie	hojdać	ger:sg:nom.acc:n2:imperf:aff		
 hojdaniem	hojdać	ger:sg:inst:n2:imperf:aff		
 hojdani	hojdać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hojdaniom	hojdać	ger:pl:dat.loc:n2:imperf:aff		
+hojdaniom	hojdać	ger:pl:dat:n2:imperf:aff		
 hojdaniu	hojdać	ger:sg:dat.loc:n2:imperf:aff		
 hojdano	hojdać	imps:imperf		gwar.
 hojdanych	hojdać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -33908,12 +34013,13 @@ holendrowały	holendrować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		sport.
 holendrowały	holendrować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		sport.
 holendrowałyście	holendrować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		sport.
 holendrowałyśmy	holendrować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		sport.
+holendrowaniach	holendrować	ger:pl:loc:n2:imperf:aff		
 holendrowania	holendrować	ger:pl:nom.acc:n2:imperf:aff		
 holendrowania	holendrować	ger:sg:gen:n2:imperf:aff		
 holendrowaniami	holendrować	ger:pl:inst:n2:imperf:aff		
 holendrowanie	holendrować	ger:sg:nom.acc:n2:imperf:aff		
 holendrowaniem	holendrować	ger:sg:inst:n2:imperf:aff		
-holendrowaniom	holendrować	ger:pl:dat.loc:n2:imperf:aff		
+holendrowaniom	holendrować	ger:pl:dat:n2:imperf:aff		
 holendrowaniu	holendrować	ger:sg:dat.loc:n2:imperf:aff		
 holendrowano	holendrować	imps:imperf		sport.
 holendrowań	holendrować	ger:pl:gen:n2:imperf:aff		
@@ -34296,13 +34402,14 @@ holografowane	holografować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 holografowane	holografować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 holografowanej	holografować	ppas:sg:gen.dat.loc:f:imperf:aff		
 holografowanemu	holografować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+holografowaniach	holografować	ger:pl:loc:n2:imperf:aff		
 holografowania	holografować	ger:pl:nom.acc:n2:imperf:aff		
 holografowania	holografować	ger:sg:gen:n2:imperf:aff		
 holografowaniami	holografować	ger:pl:inst:n2:imperf:aff		
 holografowanie	holografować	ger:sg:nom.acc:n2:imperf:aff		
 holografowaniem	holografować	ger:sg:inst:n2:imperf:aff		
 holografowani	holografować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-holografowaniom	holografować	ger:pl:dat.loc:n2:imperf:aff		
+holografowaniom	holografować	ger:pl:dat:n2:imperf:aff		
 holografowaniu	holografować	ger:sg:dat.loc:n2:imperf:aff		
 holografowano	holografować	imps:imperf		
 holografowanych	holografować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -34530,13 +34637,14 @@ holowane	holować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 holowane	holować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 holowanej	holować	ppas:sg:gen.dat.loc:f:imperf:aff		
 holowanemu	holować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+holowaniach	holować	ger:pl:loc:n2:imperf:aff		
 holowania	holować	ger:pl:nom.acc:n2:imperf:aff		
 holowania	holować	ger:sg:gen:n2:imperf:aff		
 holowaniami	holować	ger:pl:inst:n2:imperf:aff		
 holowanie	holować	ger:sg:nom.acc:n2:imperf:aff		
 holowaniem	holować	ger:sg:inst:n2:imperf:aff		
 holowani	holować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-holowaniom	holować	ger:pl:dat.loc:n2:imperf:aff		
+holowaniom	holować	ger:pl:dat:n2:imperf:aff		
 holowaniu	holować	ger:sg:dat.loc:n2:imperf:aff		
 holowano	holować	imps:imperf		
 holowanych	holować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -34785,12 +34893,13 @@ hołdowały	hołdować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 hołdowały	hołdować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 hołdowałyście	hołdować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 hołdowałyśmy	hołdować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+hołdowaniach	hołdować	ger:pl:loc:n2:imperf:aff		
 hołdowania	hołdować	ger:pl:nom.acc:n2:imperf:aff		
 hołdowania	hołdować	ger:sg:gen:n2:imperf:aff		
 hołdowaniami	hołdować	ger:pl:inst:n2:imperf:aff		
 hołdowanie	hołdować	ger:sg:nom.acc:n2:imperf:aff		
 hołdowaniem	hołdować	ger:sg:inst:n2:imperf:aff		
-hołdowaniom	hołdować	ger:pl:dat.loc:n2:imperf:aff		
+hołdowaniom	hołdować	ger:pl:dat:n2:imperf:aff		
 hołdowaniu	hołdować	ger:sg:dat.loc:n2:imperf:aff		
 hołdowano	hołdować	imps:imperf		
 hołdowań	hołdować	ger:pl:gen:n2:imperf:aff		
@@ -35179,13 +35288,14 @@ hołubiącymi	hołubić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 hołubią	hołubić	fin:pl:ter:imperf		
 hołubicie	hołubić	fin:pl:sec:imperf		
 hołubić	hołubić	inf:imperf		
+hołubieniach	hołubić	ger:pl:loc:n2:imperf:aff		
 hołubienia	hołubić	ger:pl:nom.acc:n2:imperf:aff		
 hołubienia	hołubić	ger:sg:gen:n2:imperf:aff		
 hołubieniami	hołubić	ger:pl:inst:n2:imperf:aff		
 hołubienie	hołubić	ger:sg:nom.acc:n2:imperf:aff		
 hołubieniem	hołubić	ger:sg:inst:n2:imperf:aff		
 hołubieni	hołubić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hołubieniom	hołubić	ger:pl:dat.loc:n2:imperf:aff		
+hołubieniom	hołubić	ger:pl:dat:n2:imperf:aff		
 hołubieniu	hołubić	ger:sg:dat.loc:n2:imperf:aff		
 hołubień	hołubić	ger:pl:gen:n2:imperf:aff		
 hołubię	hołubić	fin:sg:pri:imperf		
@@ -35942,12 +36052,13 @@ homeryzowały	homeryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 homeryzowały	homeryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 homeryzowałyście	homeryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 homeryzowałyśmy	homeryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+homeryzowaniach	homeryzować	ger:pl:loc:n2:imperf:aff		
 homeryzowania	homeryzować	ger:pl:nom.acc:n2:imperf:aff		
 homeryzowania	homeryzować	ger:sg:gen:n2:imperf:aff		
 homeryzowaniami	homeryzować	ger:pl:inst:n2:imperf:aff		
 homeryzowanie	homeryzować	ger:sg:nom.acc:n2:imperf:aff		
 homeryzowaniem	homeryzować	ger:sg:inst:n2:imperf:aff		
-homeryzowaniom	homeryzować	ger:pl:dat.loc:n2:imperf:aff		
+homeryzowaniom	homeryzować	ger:pl:dat:n2:imperf:aff		
 homeryzowaniu	homeryzować	ger:sg:dat.loc:n2:imperf:aff		
 homeryzowano	homeryzować	imps:imperf		
 homeryzowań	homeryzować	ger:pl:gen:n2:imperf:aff		
@@ -36646,13 +36757,14 @@ homogenizowane	homogenizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 homogenizowane	homogenizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 homogenizowanej	homogenizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 homogenizowanemu	homogenizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+homogenizowaniach	homogenizować	ger:pl:loc:n2:imperf:aff		
 homogenizowania	homogenizować	ger:pl:nom.acc:n2:imperf:aff		
 homogenizowania	homogenizować	ger:sg:gen:n2:imperf:aff		
 homogenizowaniami	homogenizować	ger:pl:inst:n2:imperf:aff		
 homogenizowanie	homogenizować	ger:sg:nom.acc:n2:imperf:aff		
 homogenizowaniem	homogenizować	ger:sg:inst:n2:imperf:aff		
 homogenizowani	homogenizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-homogenizowaniom	homogenizować	ger:pl:dat.loc:n2:imperf:aff		
+homogenizowaniom	homogenizować	ger:pl:dat:n2:imperf:aff		
 homogenizowaniu	homogenizować	ger:sg:dat.loc:n2:imperf:aff		
 homogenizowano	homogenizować	imps:imperf		
 homogenizowanych	homogenizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -36988,13 +37100,14 @@ homologowane	homologować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:af
 homologowane	homologować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 homologowanej	homologować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 homologowanemu	homologować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+homologowaniach	homologować	ger:pl:loc:n2:imperf.perf:aff		
 homologowania	homologować	ger:pl:nom.acc:n2:imperf.perf:aff		
 homologowania	homologować	ger:sg:gen:n2:imperf.perf:aff		
 homologowaniami	homologować	ger:pl:inst:n2:imperf.perf:aff		
 homologowanie	homologować	ger:sg:nom.acc:n2:imperf.perf:aff		
 homologowaniem	homologować	ger:sg:inst:n2:imperf.perf:aff		
 homologowani	homologować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-homologowaniom	homologować	ger:pl:dat.loc:n2:imperf.perf:aff		
+homologowaniom	homologować	ger:pl:dat:n2:imperf.perf:aff		
 homologowaniu	homologować	ger:sg:dat.loc:n2:imperf.perf:aff		
 homologowano	homologować	imps:imperf.perf		
 homologowanych	homologować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -37626,13 +37739,14 @@ honingowane	honingować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 honingowane	honingować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 honingowanej	honingować	ppas:sg:gen.dat.loc:f:imperf:aff		
 honingowanemu	honingować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+honingowaniach	honingować	ger:pl:loc:n2:imperf:aff		
 honingowania	honingować	ger:pl:nom.acc:n2:imperf:aff		
 honingowania	honingować	ger:sg:gen:n2:imperf:aff		
 honingowaniami	honingować	ger:pl:inst:n2:imperf:aff		
 honingowanie	honingować	ger:sg:nom.acc:n2:imperf:aff		
 honingowaniem	honingować	ger:sg:inst:n2:imperf:aff		
 honingowani	honingować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-honingowaniom	honingować	ger:pl:dat.loc:n2:imperf:aff		
+honingowaniom	honingować	ger:pl:dat:n2:imperf:aff		
 honingowaniu	honingować	ger:sg:dat.loc:n2:imperf:aff		
 honingowano	honingować	imps:imperf		techn.
 honingowanych	honingować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -37903,13 +38017,14 @@ honorowane	honorować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 honorowane	honorować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 honorowanej	honorować	ppas:sg:gen.dat.loc:f:imperf:aff		
 honorowanemu	honorować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+honorowaniach	honorować	ger:pl:loc:n2:imperf:aff		
 honorowania	honorować	ger:pl:nom.acc:n2:imperf:aff		
 honorowania	honorować	ger:sg:gen:n2:imperf:aff		
 honorowaniami	honorować	ger:pl:inst:n2:imperf:aff		
 honorowanie	honorować	ger:sg:nom.acc:n2:imperf:aff		
 honorowaniem	honorować	ger:sg:inst:n2:imperf:aff		
 honorowani	honorować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-honorowaniom	honorować	ger:pl:dat.loc:n2:imperf:aff		
+honorowaniom	honorować	ger:pl:dat:n2:imperf:aff		
 honorowaniu	honorować	ger:sg:dat.loc:n2:imperf:aff		
 honorowano	honorować	imps:imperf		
 honorowanych	honorować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -38037,13 +38152,14 @@ honowane	honować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 honowane	honować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 honowanej	honować	ppas:sg:gen.dat.loc:f:imperf:aff		
 honowanemu	honować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+honowaniach	honować	ger:pl:loc:n2:imperf:aff		
 honowania	honować	ger:pl:nom.acc:n2:imperf:aff		
 honowania	honować	ger:sg:gen:n2:imperf:aff		
 honowaniami	honować	ger:pl:inst:n2:imperf:aff		
 honowanie	honować	ger:sg:nom.acc:n2:imperf:aff		
 honowaniem	honować	ger:sg:inst:n2:imperf:aff		
 honowani	honować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-honowaniom	honować	ger:pl:dat.loc:n2:imperf:aff		
+honowaniom	honować	ger:pl:dat:n2:imperf:aff		
 honowaniu	honować	ger:sg:dat.loc:n2:imperf:aff		
 honowano	honować	imps:imperf		techn.
 honowanych	honować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -38146,12 +38262,13 @@ hopały	hopać	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 hopały	hopać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 hopałyście	hopać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 hopałyśmy	hopać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+hopaniach	hopać	ger:pl:loc:n2:imperf:aff		
 hopania	hopać	ger:pl:nom.acc:n2:imperf:aff		
 hopania	hopać	ger:sg:gen:n2:imperf:aff		
 hopaniami	hopać	ger:pl:inst:n2:imperf:aff		
 hopanie	hopać	ger:sg:nom.acc:n2:imperf:aff		
 hopaniem	hopać	ger:sg:inst:n2:imperf:aff		
-hopaniom	hopać	ger:pl:dat.loc:n2:imperf:aff		
+hopaniom	hopać	ger:pl:dat:n2:imperf:aff		
 hopaniu	hopać	ger:sg:dat.loc:n2:imperf:aff		
 hopano	hopać	imps:imperf		
 hopań	hopać	ger:pl:gen:n2:imperf:aff		
@@ -38257,12 +38374,13 @@ hopkałyście	hopkać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 hopkałyśmy	hopkać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 hopkam	hopkać	fin:sg:pri:imperf		
 hopkamy	hopkać	fin:pl:pri:imperf		
+hopkaniach	hopkać	ger:pl:loc:n2:imperf:aff		
 hopkania	hopkać	ger:pl:nom.acc:n2:imperf:aff		
 hopkania	hopkać	ger:sg:gen:n2:imperf:aff		
 hopkaniami	hopkać	ger:pl:inst:n2:imperf:aff		
 hopkanie	hopkać	ger:sg:nom.acc:n2:imperf:aff		
 hopkaniem	hopkać	ger:sg:inst:n2:imperf:aff		
-hopkaniom	hopkać	ger:pl:dat.loc:n2:imperf:aff		
+hopkaniom	hopkać	ger:pl:dat:n2:imperf:aff		
 hopkaniu	hopkać	ger:sg:dat.loc:n2:imperf:aff		
 hopkano	hopkać	imps:imperf		
 hopkań	hopkać	ger:pl:gen:n2:imperf:aff		
@@ -38334,12 +38452,13 @@ hopniecie	hopnąć	fin:pl:sec:perf
 hopnie	hopnąć	fin:sg:ter:perf		
 hopniemy	hopnąć	fin:pl:pri:perf		
 hopniesz	hopnąć	fin:sg:sec:perf		
+hopnięciach	hopnąć	ger:pl:loc:n2:perf:aff		
 hopnięcia	hopnąć	ger:pl:nom.acc:n2:perf:aff		
 hopnięcia	hopnąć	ger:sg:gen:n2:perf:aff		
 hopnięciami	hopnąć	ger:pl:inst:n2:perf:aff		
 hopnięcie	hopnąć	ger:sg:nom.acc:n2:perf:aff		
 hopnięciem	hopnąć	ger:sg:inst:n2:perf:aff		
-hopnięciom	hopnąć	ger:pl:dat.loc:n2:perf:aff		
+hopnięciom	hopnąć	ger:pl:dat:n2:perf:aff		
 hopnięciu	hopnąć	ger:sg:dat.loc:n2:perf:aff		
 hopnięć	hopnąć	ger:pl:gen:n2:perf:aff		
 hopnięto	hopnąć	imps:perf		
@@ -38461,12 +38580,13 @@ hopsałyście	hopsać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 hopsałyśmy	hopsać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 hopsam	hopsać	fin:sg:pri:imperf		
 hopsamy	hopsać	fin:pl:pri:imperf		
+hopsaniach	hopsać	ger:pl:loc:n2:imperf:aff		
 hopsania	hopsać	ger:pl:nom.acc:n2:imperf:aff		
 hopsania	hopsać	ger:sg:gen:n2:imperf:aff		
 hopsaniami	hopsać	ger:pl:inst:n2:imperf:aff		
 hopsanie	hopsać	ger:sg:nom.acc:n2:imperf:aff		
 hopsaniem	hopsać	ger:sg:inst:n2:imperf:aff		
-hopsaniom	hopsać	ger:pl:dat.loc:n2:imperf:aff		
+hopsaniom	hopsać	ger:pl:dat:n2:imperf:aff		
 hopsaniu	hopsać	ger:sg:dat.loc:n2:imperf:aff		
 hopsano	hopsać	imps:imperf		
 hopsań	hopsać	ger:pl:gen:n2:imperf:aff		
@@ -38546,13 +38666,14 @@ horacjanizowane	horacjanizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:a
 horacjanizowane	horacjanizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 horacjanizowanej	horacjanizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 horacjanizowanemu	horacjanizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+horacjanizowaniach	horacjanizować	ger:pl:loc:n2:imperf:aff		
 horacjanizowania	horacjanizować	ger:pl:nom.acc:n2:imperf:aff		
 horacjanizowania	horacjanizować	ger:sg:gen:n2:imperf:aff		
 horacjanizowaniami	horacjanizować	ger:pl:inst:n2:imperf:aff		
 horacjanizowanie	horacjanizować	ger:sg:nom.acc:n2:imperf:aff		
 horacjanizowaniem	horacjanizować	ger:sg:inst:n2:imperf:aff		
 horacjanizowani	horacjanizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-horacjanizowaniom	horacjanizować	ger:pl:dat.loc:n2:imperf:aff		
+horacjanizowaniom	horacjanizować	ger:pl:dat:n2:imperf:aff		
 horacjanizowaniu	horacjanizować	ger:sg:dat.loc:n2:imperf:aff		
 horacjanizowano	horacjanizować	imps:imperf		
 horacjanizowanych	horacjanizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -38889,13 +39010,14 @@ hormonizowane	hormonizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hormonizowane	hormonizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hormonizowanej	hormonizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hormonizowanemu	hormonizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hormonizowaniach	hormonizować	ger:pl:loc:n2:imperf:aff		
 hormonizowania	hormonizować	ger:pl:nom.acc:n2:imperf:aff		
 hormonizowania	hormonizować	ger:sg:gen:n2:imperf:aff		
 hormonizowaniami	hormonizować	ger:pl:inst:n2:imperf:aff		
 hormonizowanie	hormonizować	ger:sg:nom.acc:n2:imperf:aff		
 hormonizowaniem	hormonizować	ger:sg:inst:n2:imperf:aff		
 hormonizowani	hormonizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hormonizowaniom	hormonizować	ger:pl:dat.loc:n2:imperf:aff		
+hormonizowaniom	hormonizować	ger:pl:dat:n2:imperf:aff		
 hormonizowaniu	hormonizować	ger:sg:dat.loc:n2:imperf:aff		
 hormonizowano	hormonizować	imps:imperf		
 hormonizowanych	hormonizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -39697,13 +39819,14 @@ hospitalizowane	hospitalizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.p
 hospitalizowane	hospitalizować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 hospitalizowanej	hospitalizować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 hospitalizowanemu	hospitalizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+hospitalizowaniach	hospitalizować	ger:pl:loc:n2:imperf.perf:aff		
 hospitalizowania	hospitalizować	ger:pl:nom.acc:n2:imperf.perf:aff		
 hospitalizowania	hospitalizować	ger:sg:gen:n2:imperf.perf:aff		
 hospitalizowaniami	hospitalizować	ger:pl:inst:n2:imperf.perf:aff		
 hospitalizowanie	hospitalizować	ger:sg:nom.acc:n2:imperf.perf:aff		
 hospitalizowaniem	hospitalizować	ger:sg:inst:n2:imperf.perf:aff		
 hospitalizowani	hospitalizować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-hospitalizowaniom	hospitalizować	ger:pl:dat.loc:n2:imperf.perf:aff		
+hospitalizowaniom	hospitalizować	ger:pl:dat:n2:imperf.perf:aff		
 hospitalizowaniu	hospitalizować	ger:sg:dat.loc:n2:imperf.perf:aff		
 hospitalizowano	hospitalizować	imps:imperf.perf		
 hospitalizowanych	hospitalizować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -39815,13 +39938,14 @@ hospitowane	hospitować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff
 hospitowane	hospitować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 hospitowanej	hospitować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 hospitowanemu	hospitować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+hospitowaniach	hospitować	ger:pl:loc:n2:imperf.perf:aff		
 hospitowania	hospitować	ger:pl:nom.acc:n2:imperf.perf:aff		
 hospitowania	hospitować	ger:sg:gen:n2:imperf.perf:aff		
 hospitowaniami	hospitować	ger:pl:inst:n2:imperf.perf:aff		
 hospitowanie	hospitować	ger:sg:nom.acc:n2:imperf.perf:aff		
 hospitowaniem	hospitować	ger:sg:inst:n2:imperf.perf:aff		
 hospitowani	hospitować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-hospitowaniom	hospitować	ger:pl:dat.loc:n2:imperf.perf:aff		
+hospitowaniom	hospitować	ger:pl:dat:n2:imperf.perf:aff		
 hospitowaniu	hospitować	ger:sg:dat.loc:n2:imperf.perf:aff		
 hospitowano	hospitować	imps:imperf.perf		
 hospitowanych	hospitować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -39927,12 +40051,13 @@ hospodarowały	hospodarować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 hospodarowały	hospodarować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 hospodarowałyście	hospodarować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 hospodarowałyśmy	hospodarować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+hospodarowaniach	hospodarować	ger:pl:loc:n2:imperf:aff		
 hospodarowania	hospodarować	ger:pl:nom.acc:n2:imperf:aff		
 hospodarowania	hospodarować	ger:sg:gen:n2:imperf:aff		
 hospodarowaniami	hospodarować	ger:pl:inst:n2:imperf:aff		
 hospodarowanie	hospodarować	ger:sg:nom.acc:n2:imperf:aff		
 hospodarowaniem	hospodarować	ger:sg:inst:n2:imperf:aff		
-hospodarowaniom	hospodarować	ger:pl:dat.loc:n2:imperf:aff		
+hospodarowaniom	hospodarować	ger:pl:dat:n2:imperf:aff		
 hospodarowaniu	hospodarować	ger:sg:dat.loc:n2:imperf:aff		
 hospodarowano	hospodarować	imps:imperf		daw.
 hospodarowań	hospodarować	ger:pl:gen:n2:imperf:aff		
@@ -41177,13 +41302,14 @@ hrymniecie	hrymnąć	fin:pl:sec:perf		rzad.
 hrymnie	hrymnąć	fin:sg:ter:perf		rzad.
 hrymniemy	hrymnąć	fin:pl:pri:perf		rzad.
 hrymniesz	hrymnąć	fin:sg:sec:perf		rzad.
+hrymnięciach	hrymnąć	ger:pl:loc:n2:perf:aff		
 hrymnięcia	hrymnąć	ger:pl:nom.acc:n2:perf:aff		
 hrymnięcia	hrymnąć	ger:sg:gen:n2:perf:aff		
 hrymnięciami	hrymnąć	ger:pl:inst:n2:perf:aff		
 hrymnięcie	hrymnąć	ger:sg:nom.acc:n2:perf:aff		
 hrymnięciem	hrymnąć	ger:sg:inst:n2:perf:aff		
 hrymnięci	hrymnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-hrymnięciom	hrymnąć	ger:pl:dat.loc:n2:perf:aff		
+hrymnięciom	hrymnąć	ger:pl:dat:n2:perf:aff		
 hrymnięciu	hrymnąć	ger:sg:dat.loc:n2:perf:aff		
 hrymnięć	hrymnąć	ger:pl:gen:n2:perf:aff		
 hrymnięta	hrymnąć	ppas:sg:nom.voc:f:perf:aff		
@@ -41654,12 +41780,13 @@ huczeli	huczeć	praet:pl:m1.p1:imperf
 huczeli	huczeć	praet:pl:m1.p1:ter:imperf		
 huczeliście	huczeć	praet:pl:m1.p1:sec:imperf		
 huczeliśmy	huczeć	praet:pl:m1.p1:pri:imperf		
+huczeniach	huczeć	ger:pl:loc:n2:imperf:aff		
 huczenia	huczeć	ger:pl:nom.acc:n2:imperf:aff		
 huczenia	huczeć	ger:sg:gen:n2:imperf:aff		
 huczeniami	huczeć	ger:pl:inst:n2:imperf:aff		
 huczenie	huczeć	ger:sg:nom.acc:n2:imperf:aff		
 huczeniem	huczeć	ger:sg:inst:n2:imperf:aff		
-huczeniom	huczeć	ger:pl:dat.loc:n2:imperf:aff		
+huczeniom	huczeć	ger:pl:dat:n2:imperf:aff		
 huczeniu	huczeć	ger:sg:dat.loc:n2:imperf:aff		
 huczeń	huczeć	ger:pl:gen:n2:imperf:aff		
 huczę	huczeć	fin:sg:pri:imperf		
@@ -42076,22 +42203,22 @@ hugenockości	hugenockość	subst:sg:voc:f
 hugenockościom	hugenockość	subst:pl:dat:f		
 hugenockość	hugenockość	subst:sg:acc:f		
 hugenockość	hugenockość	subst:sg:nom:f		
-hugenocie	hugenot	subst:sg:loc:m1	pospolita	
-hugenocie	hugenot	subst:sg:voc:m1	pospolita	
-hugenoci	hugenot	subst:pl:nom:m1	pospolita	
-hugenoci	hugenot	subst:pl:voc:m1	pospolita	
-hugenotach	hugenot	subst:pl:loc:m1	pospolita	
-hugenota	hugenot	subst:sg:acc:m1	pospolita	
-hugenota	hugenot	subst:sg:gen:m1	pospolita	
-hugenotami	hugenot	subst:pl:inst:m1	pospolita	
-hugenotem	hugenot	subst:sg:inst:m1	pospolita	
-hugenot	hugenot	subst:sg:nom:m1	pospolita	
-hugenotom	hugenot	subst:pl:dat:m1	pospolita	
-hugenotowi	hugenot	subst:sg:dat:m1	pospolita	
-hugenotów	hugenot	subst:pl:acc:m1	pospolita	
-hugenotów	hugenot	subst:pl:gen:m1	pospolita	
-hugenoty	hugenot	depr:pl:nom:m2	pospolita	
-hugenoty	hugenot	depr:pl:voc:m2	pospolita	
+hugenocie	hugenot	subst:sg:loc:m1	pospolita	hist.
+hugenocie	hugenot	subst:sg:voc:m1	pospolita	hist.
+hugenoci	hugenot	subst:pl:nom:m1	pospolita	hist.
+hugenoci	hugenot	subst:pl:voc:m1	pospolita	hist.
+hugenotach	hugenot	subst:pl:loc:m1	pospolita	hist.
+hugenota	hugenot	subst:sg:acc:m1	pospolita	hist.
+hugenota	hugenot	subst:sg:gen:m1	pospolita	hist.
+hugenotami	hugenot	subst:pl:inst:m1	pospolita	hist.
+hugenotem	hugenot	subst:sg:inst:m1	pospolita	hist.
+hugenot	hugenot	subst:sg:nom:m1	pospolita	hist.
+hugenotom	hugenot	subst:pl:dat:m1	pospolita	hist.
+hugenotowi	hugenot	subst:sg:dat:m1	pospolita	hist.
+hugenotów	hugenot	subst:pl:acc:m1	pospolita	hist.
+hugenotów	hugenot	subst:pl:gen:m1	pospolita	hist.
+hugenoty	hugenot	depr:pl:nom:m2	pospolita	hist.
+hugenoty	hugenot	depr:pl:voc:m2	pospolita	hist.
 hugonoccy	hugonocki	adj:pl:nom.voc:m1.p1:pos		
 hugonocka	hugonocki	adj:sg:nom.voc:f:pos		
 hugonocką	hugonocki	adj:sg:acc:f:pos		
@@ -42132,22 +42259,22 @@ hugonockości	hugonockość	subst:sg:voc:f
 hugonockościom	hugonockość	subst:pl:dat:f		
 hugonockość	hugonockość	subst:sg:acc:f		
 hugonockość	hugonockość	subst:sg:nom:f		
-hugonocie	hugonot	subst:sg:loc:m1	pospolita	
-hugonocie	hugonot	subst:sg:voc:m1	pospolita	
-hugonoci	hugonot	subst:pl:nom:m1	pospolita	
-hugonoci	hugonot	subst:pl:voc:m1	pospolita	
-hugonotach	hugonot	subst:pl:loc:m1	pospolita	
-hugonota	hugonot	subst:sg:acc:m1	pospolita	
-hugonota	hugonot	subst:sg:gen:m1	pospolita	
-hugonotami	hugonot	subst:pl:inst:m1	pospolita	
-hugonotem	hugonot	subst:sg:inst:m1	pospolita	
-hugonot	hugonot	subst:sg:nom:m1	pospolita	
-hugonotom	hugonot	subst:pl:dat:m1	pospolita	
-hugonotowi	hugonot	subst:sg:dat:m1	pospolita	
-hugonotów	hugonot	subst:pl:acc:m1	pospolita	
-hugonotów	hugonot	subst:pl:gen:m1	pospolita	
-hugonoty	hugonot	depr:pl:nom:m2	pospolita	
-hugonoty	hugonot	depr:pl:voc:m2	pospolita	
+hugonocie	hugonot	subst:sg:loc:m1	pospolita	hist.
+hugonocie	hugonot	subst:sg:voc:m1	pospolita	hist.
+hugonoci	hugonot	subst:pl:nom:m1	pospolita	hist.
+hugonoci	hugonot	subst:pl:voc:m1	pospolita	hist.
+hugonotach	hugonot	subst:pl:loc:m1	pospolita	hist.
+hugonota	hugonot	subst:sg:acc:m1	pospolita	hist.
+hugonota	hugonot	subst:sg:gen:m1	pospolita	hist.
+hugonotami	hugonot	subst:pl:inst:m1	pospolita	hist.
+hugonotem	hugonot	subst:sg:inst:m1	pospolita	hist.
+hugonot	hugonot	subst:sg:nom:m1	pospolita	hist.
+hugonotom	hugonot	subst:pl:dat:m1	pospolita	hist.
+hugonotowi	hugonot	subst:sg:dat:m1	pospolita	hist.
+hugonotów	hugonot	subst:pl:acc:m1	pospolita	hist.
+hugonotów	hugonot	subst:pl:gen:m1	pospolita	hist.
+hugonoty	hugonot	depr:pl:nom:m2	pospolita	hist.
+hugonoty	hugonot	depr:pl:voc:m2	pospolita	hist.
 hu-ha	hu-ha	interj		
 hujach	huj:s1	subst:pl:loc:m2	pospolita	wulg.
 huja	huj:s1	subst:sg:acc:m2	pospolita	wulg.
@@ -42262,13 +42389,14 @@ hukane	hukać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hukane	hukać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hukanej	hukać	ppas:sg:gen.dat.loc:f:imperf:aff		
 hukanemu	hukać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hukaniach	hukać	ger:pl:loc:n2:imperf:aff		
 hukania	hukać	ger:pl:nom.acc:n2:imperf:aff		
 hukania	hukać	ger:sg:gen:n2:imperf:aff		
 hukaniami	hukać	ger:pl:inst:n2:imperf:aff		
 hukanie	hukać	ger:sg:nom.acc:n2:imperf:aff		
 hukaniem	hukać	ger:sg:inst:n2:imperf:aff		
 hukani	hukać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hukaniom	hukać	ger:pl:dat.loc:n2:imperf:aff		
+hukaniom	hukać	ger:pl:dat:n2:imperf:aff		
 hukaniu	hukać	ger:sg:dat.loc:n2:imperf:aff		
 hukano	hukać	imps:imperf		
 hukanych	hukać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -42363,13 +42491,14 @@ hukniecie	huknąć	fin:pl:sec:perf
 huknie	huknąć	fin:sg:ter:perf		
 hukniemy	huknąć	fin:pl:pri:perf		
 hukniesz	huknąć	fin:sg:sec:perf		
+huknięciach	huknąć	ger:pl:loc:n2:perf:aff		
 huknięcia	huknąć	ger:pl:nom.acc:n2:perf:aff		
 huknięcia	huknąć	ger:sg:gen:n2:perf:aff		
 huknięciami	huknąć	ger:pl:inst:n2:perf:aff		
 huknięcie	huknąć	ger:sg:nom.acc:n2:perf:aff		
 huknięciem	huknąć	ger:sg:inst:n2:perf:aff		
 huknięci	huknąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-huknięciom	huknąć	ger:pl:dat.loc:n2:perf:aff		
+huknięciom	huknąć	ger:pl:dat:n2:perf:aff		
 huknięciu	huknąć	ger:sg:dat.loc:n2:perf:aff		
 huknięć	huknąć	ger:pl:gen:n2:perf:aff		
 huknięta	huknąć	ppas:sg:nom.voc:f:perf:aff		
@@ -42606,12 +42735,13 @@ hulałyście	hulać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 hulałyśmy	hulać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 hulam	hulać	fin:sg:pri:imperf		
 hulamy	hulać	fin:pl:pri:imperf		
+hulaniach	hulać	ger:pl:loc:n2:imperf:aff		
 hulania	hulać	ger:pl:nom.acc:n2:imperf:aff		
 hulania	hulać	ger:sg:gen:n2:imperf:aff		
 hulaniami	hulać	ger:pl:inst:n2:imperf:aff		
 hulanie	hulać	ger:sg:nom.acc:n2:imperf:aff		
 hulaniem	hulać	ger:sg:inst:n2:imperf:aff		
-hulaniom	hulać	ger:pl:dat.loc:n2:imperf:aff		
+hulaniom	hulać	ger:pl:dat:n2:imperf:aff		
 hulaniu	hulać	ger:sg:dat.loc:n2:imperf:aff		
 hulano	hulać	imps:imperf		
 hulań	hulać	ger:pl:gen:n2:imperf:aff		
@@ -42927,13 +43057,14 @@ hulniecie	hulnąć	fin:pl:sec:perf		daw.|żart.
 hulnie	hulnąć	fin:sg:ter:perf		daw.|żart.
 hulniemy	hulnąć	fin:pl:pri:perf		daw.|żart.
 hulniesz	hulnąć	fin:sg:sec:perf		daw.|żart.
+hulnięciach	hulnąć	ger:pl:loc:n2:perf:aff		
 hulnięcia	hulnąć	ger:pl:nom.acc:n2:perf:aff		
 hulnięcia	hulnąć	ger:sg:gen:n2:perf:aff		
 hulnięciami	hulnąć	ger:pl:inst:n2:perf:aff		
 hulnięcie	hulnąć	ger:sg:nom.acc:n2:perf:aff		
 hulnięciem	hulnąć	ger:sg:inst:n2:perf:aff		
 hulnięci	hulnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-hulnięciom	hulnąć	ger:pl:dat.loc:n2:perf:aff		
+hulnięciom	hulnąć	ger:pl:dat:n2:perf:aff		
 hulnięciu	hulnąć	ger:sg:dat.loc:n2:perf:aff		
 hulnięć	hulnąć	ger:pl:gen:n2:perf:aff		
 hulnięta	hulnąć	ppas:sg:nom.voc:f:perf:aff		
@@ -43014,12 +43145,13 @@ hultającym	hultaić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 hultającymi	hultaić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 hultają	hultaić	fin:pl:ter:imperf		przest.
 hultajcie	hultaić	impt:pl:sec:imperf		przest.
+hultajeniach	hultaić	ger:pl:loc:n2:imperf:aff		
 hultajenia	hultaić	ger:pl:nom.acc:n2:imperf:aff		
 hultajenia	hultaić	ger:sg:gen:n2:imperf:aff		
 hultajeniami	hultaić	ger:pl:inst:n2:imperf:aff		
 hultajenie	hultaić	ger:sg:nom.acc:n2:imperf:aff		
 hultajeniem	hultaić	ger:sg:inst:n2:imperf:aff		
-hultajeniom	hultaić	ger:pl:dat.loc:n2:imperf:aff		
+hultajeniom	hultaić	ger:pl:dat:n2:imperf:aff		
 hultajeniu	hultaić	ger:sg:dat.loc:n2:imperf:aff		
 hultajeń	hultaić	ger:pl:gen:n2:imperf:aff		
 hultaję	hultaić	fin:sg:pri:imperf		przest.
@@ -43468,13 +43600,14 @@ humanizowane	humanizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 humanizowane	humanizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 humanizowanej	humanizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 humanizowanemu	humanizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+humanizowaniach	humanizować	ger:pl:loc:n2:imperf:aff		
 humanizowania	humanizować	ger:pl:nom.acc:n2:imperf:aff		
 humanizowania	humanizować	ger:sg:gen:n2:imperf:aff		
 humanizowaniami	humanizować	ger:pl:inst:n2:imperf:aff		
 humanizowanie	humanizować	ger:sg:nom.acc:n2:imperf:aff		
 humanizowaniem	humanizować	ger:sg:inst:n2:imperf:aff		
 humanizowani	humanizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-humanizowaniom	humanizować	ger:pl:dat.loc:n2:imperf:aff		
+humanizowaniom	humanizować	ger:pl:dat:n2:imperf:aff		
 humanizowaniu	humanizować	ger:sg:dat.loc:n2:imperf:aff		
 humanizowano	humanizować	imps:imperf		
 humanizowanych	humanizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -44843,12 +44976,13 @@ hurgotałyśmy	hurgotać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf
 hurgotałyśmy	hurgotać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
 hurgotam	hurgotać	fin:sg:pri:imperf		rzad.
 hurgotamy	hurgotać	fin:pl:pri:imperf		rzad.
+hurgotaniach	hurgotać	ger:pl:loc:n2:imperf:aff		
 hurgotania	hurgotać	ger:pl:nom.acc:n2:imperf:aff		
 hurgotania	hurgotać	ger:sg:gen:n2:imperf:aff		
 hurgotaniami	hurgotać	ger:pl:inst:n2:imperf:aff		
 hurgotanie	hurgotać	ger:sg:nom.acc:n2:imperf:aff		
 hurgotaniem	hurgotać	ger:sg:inst:n2:imperf:aff		
-hurgotaniom	hurgotać	ger:pl:dat.loc:n2:imperf:aff		
+hurgotaniom	hurgotać	ger:pl:dat:n2:imperf:aff		
 hurgotaniu	hurgotać	ger:sg:dat.loc:n2:imperf:aff		
 hurgotano	hurgotać	imps:imperf		
 hurgotano	hurgotać	imps:imperf		rzad.
@@ -44953,12 +45087,13 @@ hurkotały	hurkotać	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 hurkotały	hurkotać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 hurkotałyście	hurkotać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 hurkotałyśmy	hurkotać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+hurkotaniach	hurkotać	ger:pl:loc:n2:imperf:aff		
 hurkotania	hurkotać	ger:pl:nom.acc:n2:imperf:aff		
 hurkotania	hurkotać	ger:sg:gen:n2:imperf:aff		
 hurkotaniami	hurkotać	ger:pl:inst:n2:imperf:aff		
 hurkotanie	hurkotać	ger:sg:nom.acc:n2:imperf:aff		
 hurkotaniem	hurkotać	ger:sg:inst:n2:imperf:aff		
-hurkotaniom	hurkotać	ger:pl:dat.loc:n2:imperf:aff		
+hurkotaniom	hurkotać	ger:pl:dat:n2:imperf:aff		
 hurkotaniu	hurkotać	ger:sg:dat.loc:n2:imperf:aff		
 hurkotano	hurkotać	imps:imperf		
 hurkotań	hurkotać	ger:pl:gen:n2:imperf:aff		
@@ -45230,12 +45365,13 @@ hurtowały	hurtować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 hurtowały	hurtować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 hurtowałyście	hurtować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 hurtowałyśmy	hurtować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+hurtowaniach	hurtować	ger:pl:loc:n2:imperf:aff		
 hurtowania	hurtować	ger:pl:nom.acc:n2:imperf:aff		
 hurtowania	hurtować	ger:sg:gen:n2:imperf:aff		
 hurtowaniami	hurtować	ger:pl:inst:n2:imperf:aff		
 hurtowanie	hurtować	ger:sg:nom.acc:n2:imperf:aff		
 hurtowaniem	hurtować	ger:sg:inst:n2:imperf:aff		
-hurtowaniom	hurtować	ger:pl:dat.loc:n2:imperf:aff		
+hurtowaniom	hurtować	ger:pl:dat:n2:imperf:aff		
 hurtowaniu	hurtować	ger:sg:dat.loc:n2:imperf:aff		
 hurtowano	hurtować	imps:imperf		daw.
 hurtowań	hurtować	ger:pl:gen:n2:imperf:aff		
@@ -45713,13 +45849,14 @@ huśtane	huśtać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 huśtane	huśtać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 huśtanej	huśtać	ppas:sg:gen.dat.loc:f:imperf:aff		
 huśtanemu	huśtać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+huśtaniach	huśtać	ger:pl:loc:n2:imperf:aff		
 huśtania	huśtać	ger:pl:nom.acc:n2:imperf:aff		
 huśtania	huśtać	ger:sg:gen:n2:imperf:aff		
 huśtaniami	huśtać	ger:pl:inst:n2:imperf:aff		
 huśtanie	huśtać	ger:sg:nom.acc:n2:imperf:aff		
 huśtaniem	huśtać	ger:sg:inst:n2:imperf:aff		
 huśtani	huśtać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-huśtaniom	huśtać	ger:pl:dat.loc:n2:imperf:aff		
+huśtaniom	huśtać	ger:pl:dat:n2:imperf:aff		
 huśtaniu	huśtać	ger:sg:dat.loc:n2:imperf:aff		
 huśtano	huśtać	imps:imperf		
 huśtanych	huśtać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -46377,13 +46514,14 @@ hybrydyzowane	hybrydyzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hybrydyzowane	hybrydyzować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hybrydyzowanej	hybrydyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hybrydyzowanemu	hybrydyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hybrydyzowaniach	hybrydyzować	ger:pl:loc:n2:imperf:aff		
 hybrydyzowania	hybrydyzować	ger:pl:nom.acc:n2:imperf:aff		
 hybrydyzowania	hybrydyzować	ger:sg:gen:n2:imperf:aff		
 hybrydyzowaniami	hybrydyzować	ger:pl:inst:n2:imperf:aff		
 hybrydyzowanie	hybrydyzować	ger:sg:nom.acc:n2:imperf:aff		
 hybrydyzowaniem	hybrydyzować	ger:sg:inst:n2:imperf:aff		
 hybrydyzowani	hybrydyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hybrydyzowaniom	hybrydyzować	ger:pl:dat.loc:n2:imperf:aff		
+hybrydyzowaniom	hybrydyzować	ger:pl:dat:n2:imperf:aff		
 hybrydyzowaniu	hybrydyzować	ger:sg:dat.loc:n2:imperf:aff		
 hybrydyzowano	hybrydyzować	imps:imperf		
 hybrydyzowanych	hybrydyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -46482,12 +46620,13 @@ hycałyście	hycać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 hycałyśmy	hycać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 hycam	hycać	fin:sg:pri:imperf		
 hycamy	hycać	fin:pl:pri:imperf		
+hycaniach	hycać	ger:pl:loc:n2:imperf:aff		
 hycania	hycać	ger:pl:nom.acc:n2:imperf:aff		
 hycania	hycać	ger:sg:gen:n2:imperf:aff		
 hycaniami	hycać	ger:pl:inst:n2:imperf:aff		
 hycanie	hycać	ger:sg:nom.acc:n2:imperf:aff		
 hycaniem	hycać	ger:sg:inst:n2:imperf:aff		
-hycaniom	hycać	ger:pl:dat.loc:n2:imperf:aff		
+hycaniom	hycać	ger:pl:dat:n2:imperf:aff		
 hycaniu	hycać	ger:sg:dat.loc:n2:imperf:aff		
 hycano	hycać	imps:imperf		
 hycań	hycać	ger:pl:gen:n2:imperf:aff		
@@ -46560,12 +46699,13 @@ hyclowały	hyclować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 hyclowały	hyclować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 hyclowałyście	hyclować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 hyclowałyśmy	hyclować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+hyclowaniach	hyclować	ger:pl:loc:n2:imperf:aff		
 hyclowania	hyclować	ger:pl:nom.acc:n2:imperf:aff		
 hyclowania	hyclować	ger:sg:gen:n2:imperf:aff		
 hyclowaniami	hyclować	ger:pl:inst:n2:imperf:aff		
 hyclowanie	hyclować	ger:sg:nom.acc:n2:imperf:aff		
 hyclowaniem	hyclować	ger:sg:inst:n2:imperf:aff		
-hyclowaniom	hyclować	ger:pl:dat.loc:n2:imperf:aff		
+hyclowaniom	hyclować	ger:pl:dat:n2:imperf:aff		
 hyclowaniu	hyclować	ger:sg:dat.loc:n2:imperf:aff		
 hyclowano	hyclować	imps:imperf		
 hyclowań	hyclować	ger:pl:gen:n2:imperf:aff		
@@ -46678,12 +46818,13 @@ hycniecie	hycnąć	fin:pl:sec:perf
 hycnie	hycnąć	fin:sg:ter:perf		
 hycniemy	hycnąć	fin:pl:pri:perf		
 hycniesz	hycnąć	fin:sg:sec:perf		
+hycnięciach	hycnąć	ger:pl:loc:n2:perf:aff		
 hycnięcia	hycnąć	ger:pl:nom.acc:n2:perf:aff		
 hycnięcia	hycnąć	ger:sg:gen:n2:perf:aff		
 hycnięciami	hycnąć	ger:pl:inst:n2:perf:aff		
 hycnięcie	hycnąć	ger:sg:nom.acc:n2:perf:aff		
 hycnięciem	hycnąć	ger:sg:inst:n2:perf:aff		
-hycnięciom	hycnąć	ger:pl:dat.loc:n2:perf:aff		
+hycnięciom	hycnąć	ger:pl:dat:n2:perf:aff		
 hycnięciu	hycnąć	ger:sg:dat.loc:n2:perf:aff		
 hycnięć	hycnąć	ger:pl:gen:n2:perf:aff		
 hycnięto	hycnąć	imps:perf		
@@ -46964,13 +47105,14 @@ hydratyzowane	hydratyzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hydratyzowane	hydratyzować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hydratyzowanej	hydratyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hydratyzowanemu	hydratyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hydratyzowaniach	hydratyzować	ger:pl:loc:n2:imperf:aff		
 hydratyzowania	hydratyzować	ger:pl:nom.acc:n2:imperf:aff		
 hydratyzowania	hydratyzować	ger:sg:gen:n2:imperf:aff		
 hydratyzowaniami	hydratyzować	ger:pl:inst:n2:imperf:aff		
 hydratyzowanie	hydratyzować	ger:sg:nom.acc:n2:imperf:aff		
 hydratyzowaniem	hydratyzować	ger:sg:inst:n2:imperf:aff		
 hydratyzowani	hydratyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hydratyzowaniom	hydratyzować	ger:pl:dat.loc:n2:imperf:aff		
+hydratyzowaniom	hydratyzować	ger:pl:dat:n2:imperf:aff		
 hydratyzowaniu	hydratyzować	ger:sg:dat.loc:n2:imperf:aff		
 hydratyzowano	hydratyzować	imps:imperf		
 hydratyzowanych	hydratyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -48056,13 +48198,14 @@ hydrogenizowane	hydrogenizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:a
 hydrogenizowane	hydrogenizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hydrogenizowanej	hydrogenizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hydrogenizowanemu	hydrogenizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hydrogenizowaniach	hydrogenizować	ger:pl:loc:n2:imperf:aff		
 hydrogenizowania	hydrogenizować	ger:pl:nom.acc:n2:imperf:aff		
 hydrogenizowania	hydrogenizować	ger:sg:gen:n2:imperf:aff		
 hydrogenizowaniami	hydrogenizować	ger:pl:inst:n2:imperf:aff		
 hydrogenizowanie	hydrogenizować	ger:sg:nom.acc:n2:imperf:aff		
 hydrogenizowaniem	hydrogenizować	ger:sg:inst:n2:imperf:aff		
 hydrogenizowani	hydrogenizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hydrogenizowaniom	hydrogenizować	ger:pl:dat.loc:n2:imperf:aff		
+hydrogenizowaniom	hydrogenizować	ger:pl:dat:n2:imperf:aff		
 hydrogenizowaniu	hydrogenizować	ger:sg:dat.loc:n2:imperf:aff		
 hydrogenizowano	hydrogenizować	imps:imperf		chem.
 hydrogenizowanych	hydrogenizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -48496,13 +48639,14 @@ hydroksylowane	hydroksylować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hydroksylowane	hydroksylować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hydroksylowanej	hydroksylować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hydroksylowanemu	hydroksylować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hydroksylowaniach	hydroksylować	ger:pl:loc:n2:imperf:aff		
 hydroksylowania	hydroksylować	ger:pl:nom.acc:n2:imperf:aff		
 hydroksylowania	hydroksylować	ger:sg:gen:n2:imperf:aff		
 hydroksylowaniami	hydroksylować	ger:pl:inst:n2:imperf:aff		
 hydroksylowanie	hydroksylować	ger:sg:nom.acc:n2:imperf:aff		
 hydroksylowaniem	hydroksylować	ger:sg:inst:n2:imperf:aff		
 hydroksylowani	hydroksylować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hydroksylowaniom	hydroksylować	ger:pl:dat.loc:n2:imperf:aff		
+hydroksylowaniom	hydroksylować	ger:pl:dat:n2:imperf:aff		
 hydroksylowaniu	hydroksylować	ger:sg:dat.loc:n2:imperf:aff		
 hydroksylowano	hydroksylować	imps:imperf		
 hydroksylowanych	hydroksylować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -48743,13 +48887,14 @@ hydrolizowane	hydrolizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hydrolizowane	hydrolizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hydrolizowanej	hydrolizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hydrolizowanemu	hydrolizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hydrolizowaniach	hydrolizować	ger:pl:loc:n2:imperf:aff		
 hydrolizowania	hydrolizować	ger:pl:nom.acc:n2:imperf:aff		
 hydrolizowania	hydrolizować	ger:sg:gen:n2:imperf:aff		
 hydrolizowaniami	hydrolizować	ger:pl:inst:n2:imperf:aff		
 hydrolizowanie	hydrolizować	ger:sg:nom.acc:n2:imperf:aff		
 hydrolizowaniem	hydrolizować	ger:sg:inst:n2:imperf:aff		
 hydrolizowani	hydrolizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hydrolizowaniom	hydrolizować	ger:pl:dat.loc:n2:imperf:aff		
+hydrolizowaniom	hydrolizować	ger:pl:dat:n2:imperf:aff		
 hydrolizowaniu	hydrolizować	ger:sg:dat.loc:n2:imperf:aff		
 hydrolizowano	hydrolizować	imps:imperf		
 hydrolizowanych	hydrolizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -49943,13 +50088,14 @@ hydzącym	hydzić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 hydzącym	hydzić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 hydzącymi	hydzić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 hydzą	hydzić	fin:pl:ter:imperf		daw.
+hydzeniach	hydzić	ger:pl:loc:n2:imperf:aff		
 hydzenia	hydzić	ger:pl:nom.acc:n2:imperf:aff		
 hydzenia	hydzić	ger:sg:gen:n2:imperf:aff		
 hydzeniami	hydzić	ger:pl:inst:n2:imperf:aff		
 hydzenie	hydzić	ger:sg:nom.acc:n2:imperf:aff		
 hydzeniem	hydzić	ger:sg:inst:n2:imperf:aff		
 hydzeni	hydzić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hydzeniom	hydzić	ger:pl:dat.loc:n2:imperf:aff		
+hydzeniom	hydzić	ger:pl:dat:n2:imperf:aff		
 hydzeniu	hydzić	ger:sg:dat.loc:n2:imperf:aff		
 hydzeń	hydzić	ger:pl:gen:n2:imperf:aff		
 hydzę	hydzić	fin:sg:pri:imperf		daw.
@@ -50524,13 +50670,14 @@ hysowane	hysować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hysowane	hysować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 hysowanej	hysować	ppas:sg:gen.dat.loc:f:imperf:aff		
 hysowanemu	hysować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hysowaniach	hysować	ger:pl:loc:n2:imperf:aff		
 hysowania	hysować	ger:pl:nom.acc:n2:imperf:aff		
 hysowania	hysować	ger:sg:gen:n2:imperf:aff		
 hysowaniami	hysować	ger:pl:inst:n2:imperf:aff		
 hysowanie	hysować	ger:sg:nom.acc:n2:imperf:aff		
 hysowaniem	hysować	ger:sg:inst:n2:imperf:aff		
 hysowani	hysować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hysowaniom	hysować	ger:pl:dat.loc:n2:imperf:aff		
+hysowaniom	hysować	ger:pl:dat:n2:imperf:aff		
 hysowaniu	hysować	ger:sg:dat.loc:n2:imperf:aff		
 hysowano	hysować	imps:imperf		żegl.
 hysowanych	hysować	ppas:pl:acc:m1.p1:imperf:aff		

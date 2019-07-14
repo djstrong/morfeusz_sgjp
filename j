@@ -1144,13 +1144,14 @@ jadane	jadać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 jadane	jadać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jadanej	jadać	ppas:sg:gen.dat.loc:f:imperf:aff		
 jadanemu	jadać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jadaniach	jadać	ger:pl:loc:n2:imperf:aff		
 jadania	jadać	ger:pl:nom.acc:n2:imperf:aff		
 jadania	jadać	ger:sg:gen:n2:imperf:aff		
 jadaniami	jadać	ger:pl:inst:n2:imperf:aff		
 jadanie	jadać	ger:sg:nom.acc:n2:imperf:aff		
 jadaniem	jadać	ger:sg:inst:n2:imperf:aff		
 jadani	jadać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jadaniom	jadać	ger:pl:dat.loc:n2:imperf:aff		
+jadaniom	jadać	ger:pl:dat:n2:imperf:aff		
 jadaniu	jadać	ger:sg:dat.loc:n2:imperf:aff		
 jadano	jadać	imps:imperf		
 jadanych	jadać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -1526,12 +1527,13 @@ jadowiącym	jadowić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 jadowią	jadowić	fin:pl:ter:imperf		daw.
 jadowicie	jadowić	fin:pl:sec:imperf		daw.
 jadowić	jadowić	inf:imperf		daw.
+jadowieniach	jadowić	ger:pl:loc:n2:imperf:aff		
 jadowienia	jadowić	ger:pl:nom.acc:n2:imperf:aff		
 jadowienia	jadowić	ger:sg:gen:n2:imperf:aff		
 jadowieniami	jadowić	ger:pl:inst:n2:imperf:aff		
 jadowienie	jadowić	ger:sg:nom.acc:n2:imperf:aff		
 jadowieniem	jadowić	ger:sg:inst:n2:imperf:aff		
-jadowieniom	jadowić	ger:pl:dat.loc:n2:imperf:aff		
+jadowieniom	jadowić	ger:pl:dat:n2:imperf:aff		
 jadowieniu	jadowić	ger:sg:dat.loc:n2:imperf:aff		
 jadowień	jadowić	ger:pl:gen:n2:imperf:aff		
 jadowię	jadowić	fin:sg:pri:imperf		daw.
@@ -2126,12 +2128,13 @@ jagniącym	jagnić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 jagnią	jagnić	fin:pl:ter:imperf		
 jagnicie	jagnić	fin:pl:sec:imperf		
 jagnić	jagnić	inf:imperf		
+jagnieniach	jagnić	ger:pl:loc:n2:imperf:aff		
 jagnienia	jagnić	ger:pl:nom.acc:n2:imperf:aff		
 jagnienia	jagnić	ger:sg:gen:n2:imperf:aff		
 jagnieniami	jagnić	ger:pl:inst:n2:imperf:aff		
 jagnienie	jagnić	ger:sg:nom.acc:n2:imperf:aff		
 jagnieniem	jagnić	ger:sg:inst:n2:imperf:aff		
-jagnieniom	jagnić	ger:pl:dat.loc:n2:imperf:aff		
+jagnieniom	jagnić	ger:pl:dat:n2:imperf:aff		
 jagnieniu	jagnić	ger:sg:dat.loc:n2:imperf:aff		
 jagnień	jagnić	ger:pl:gen:n2:imperf:aff		
 jagnię	jagnić	fin:sg:pri:imperf		
@@ -2835,12 +2838,13 @@ jajeczkowały	jajeczkować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 jajeczkowały	jajeczkować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 jajeczkowałyście	jajeczkować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 jajeczkowałyśmy	jajeczkować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+jajeczkowaniach	jajeczkować	ger:pl:loc:n2:imperf:aff		
 jajeczkowania	jajeczkować	ger:pl:nom.acc:n2:imperf:aff		
 jajeczkowania	jajeczkować	ger:sg:gen:n2:imperf:aff		
 jajeczkowaniami	jajeczkować	ger:pl:inst:n2:imperf:aff		
 jajeczkowanie	jajeczkować	ger:sg:nom.acc:n2:imperf:aff		
 jajeczkowaniem	jajeczkować	ger:sg:inst:n2:imperf:aff		
-jajeczkowaniom	jajeczkować	ger:pl:dat.loc:n2:imperf:aff		
+jajeczkowaniom	jajeczkować	ger:pl:dat:n2:imperf:aff		
 jajeczkowaniu	jajeczkować	ger:sg:dat.loc:n2:imperf:aff		
 jajeczkowano	jajeczkować	imps:imperf		
 jajeczkowań	jajeczkować	ger:pl:gen:n2:imperf:aff		
@@ -3948,13 +3952,14 @@ jakościowane	jakościować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 jakościowane	jakościować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jakościowanej	jakościować	ppas:sg:gen.dat.loc:f:imperf:aff		
 jakościowanemu	jakościować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jakościowaniach	jakościować	ger:pl:loc:n2:imperf:aff		
 jakościowania	jakościować	ger:pl:nom.acc:n2:imperf:aff		
 jakościowania	jakościować	ger:sg:gen:n2:imperf:aff		
 jakościowaniami	jakościować	ger:pl:inst:n2:imperf:aff		
 jakościowanie	jakościować	ger:sg:nom.acc:n2:imperf:aff		
 jakościowaniem	jakościować	ger:sg:inst:n2:imperf:aff		
 jakościowani	jakościować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jakościowaniom	jakościować	ger:pl:dat.loc:n2:imperf:aff		
+jakościowaniom	jakościować	ger:pl:dat:n2:imperf:aff		
 jakościowaniu	jakościować	ger:sg:dat.loc:n2:imperf:aff		
 jakościowano	jakościować	imps:imperf		
 jakościowanych	jakościować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -4686,13 +4691,14 @@ jałowiącym	jałowić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 jałowią	jałowić	fin:pl:ter:imperf		
 jałowicie	jałowić	fin:pl:sec:imperf		
 jałowić	jałowić	inf:imperf		
+jałowieniach	jałowić	ger:pl:loc:n2:imperf:aff		
 jałowienia	jałowić	ger:pl:nom.acc:n2:imperf:aff		
 jałowienia	jałowić	ger:sg:gen:n2:imperf:aff		
 jałowieniami	jałowić	ger:pl:inst:n2:imperf:aff		
 jałowienie	jałowić	ger:sg:nom.acc:n2:imperf:aff		
 jałowieniem	jałowić	ger:sg:inst:n2:imperf:aff		
 jałowieni	jałowić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jałowieniom	jałowić	ger:pl:dat.loc:n2:imperf:aff		
+jałowieniom	jałowić	ger:pl:dat:n2:imperf:aff		
 jałowieniu	jałowić	ger:sg:dat.loc:n2:imperf:aff		
 jałowień	jałowić	ger:pl:gen:n2:imperf:aff		
 jałowię	jałowić	fin:sg:pri:imperf		
@@ -4847,12 +4853,13 @@ jałowieli	jałowieć	praet:pl:m1.p1:imperf
 jałowieli	jałowieć	praet:pl:m1.p1:ter:imperf		
 jałowieliście	jałowieć	praet:pl:m1.p1:sec:imperf		
 jałowieliśmy	jałowieć	praet:pl:m1.p1:pri:imperf		
+jałowieniach	jałowieć	ger:pl:loc:n2:imperf:aff		
 jałowienia	jałowieć	ger:pl:nom.acc:n2:imperf:aff		
 jałowienia	jałowieć	ger:sg:gen:n2:imperf:aff		
 jałowieniami	jałowieć	ger:pl:inst:n2:imperf:aff		
 jałowienie	jałowieć	ger:sg:nom.acc:n2:imperf:aff		
 jałowieniem	jałowieć	ger:sg:inst:n2:imperf:aff		
-jałowieniom	jałowieć	ger:pl:dat.loc:n2:imperf:aff		
+jałowieniom	jałowieć	ger:pl:dat:n2:imperf:aff		
 jałowieniu	jałowieć	ger:sg:dat.loc:n2:imperf:aff		
 jałowień	jałowieć	ger:pl:gen:n2:imperf:aff		
 jałowiznach	jałowizna	subst:pl:loc:f	pospolita	
@@ -6513,13 +6520,14 @@ jarane	jarać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 jarane	jarać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jaranej	jarać	ppas:sg:gen.dat.loc:f:imperf:aff		
 jaranemu	jarać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jaraniach	jarać	ger:pl:loc:n2:imperf:aff		
 jarania	jarać	ger:pl:nom.acc:n2:imperf:aff		
 jarania	jarać	ger:sg:gen:n2:imperf:aff		
 jaraniami	jarać	ger:pl:inst:n2:imperf:aff		
 jaranie	jarać	ger:sg:nom.acc:n2:imperf:aff		
 jaraniem	jarać	ger:sg:inst:n2:imperf:aff		
 jarani	jarać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jaraniom	jarać	ger:pl:dat.loc:n2:imperf:aff		
+jaraniom	jarać	ger:pl:dat:n2:imperf:aff		
 jaraniu	jarać	ger:sg:dat.loc:n2:imperf:aff		
 jarano	jarać	imps:imperf		pot.
 jaranych	jarać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -6816,12 +6824,13 @@ jargotałyśmy	jargotać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf
 jargotałyśmy	jargotać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
 jargotam	jargotać	fin:sg:pri:imperf		rzad.
 jargotamy	jargotać	fin:pl:pri:imperf		rzad.
+jargotaniach	jargotać	ger:pl:loc:n2:imperf:aff		
 jargotania	jargotać	ger:pl:nom.acc:n2:imperf:aff		
 jargotania	jargotać	ger:sg:gen:n2:imperf:aff		
 jargotaniami	jargotać	ger:pl:inst:n2:imperf:aff		
 jargotanie	jargotać	ger:sg:nom.acc:n2:imperf:aff		
 jargotaniem	jargotać	ger:sg:inst:n2:imperf:aff		
-jargotaniom	jargotać	ger:pl:dat.loc:n2:imperf:aff		
+jargotaniom	jargotać	ger:pl:dat:n2:imperf:aff		
 jargotaniu	jargotać	ger:sg:dat.loc:n2:imperf:aff		
 jargotano	jargotać	imps:imperf		
 jargotano	jargotać	imps:imperf		rzad.
@@ -6989,12 +6998,13 @@ jarmarczącym	jarmarczyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 jarmarczącym	jarmarczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jarmarczą	jarmarczyć	fin:pl:ter:imperf		daw.
 jarmarczcie	jarmarczyć	impt:pl:sec:imperf		daw.
+jarmarczeniach	jarmarczyć	ger:pl:loc:n2:imperf:aff		
 jarmarczenia	jarmarczyć	ger:pl:nom.acc:n2:imperf:aff		
 jarmarczenia	jarmarczyć	ger:sg:gen:n2:imperf:aff		
 jarmarczeniami	jarmarczyć	ger:pl:inst:n2:imperf:aff		
 jarmarczenie	jarmarczyć	ger:sg:nom.acc:n2:imperf:aff		
 jarmarczeniem	jarmarczyć	ger:sg:inst:n2:imperf:aff		
-jarmarczeniom	jarmarczyć	ger:pl:dat.loc:n2:imperf:aff		
+jarmarczeniom	jarmarczyć	ger:pl:dat:n2:imperf:aff		
 jarmarczeniu	jarmarczyć	ger:sg:dat.loc:n2:imperf:aff		
 jarmarczeń	jarmarczyć	ger:pl:gen:n2:imperf:aff		
 jarmarczę	jarmarczyć	fin:sg:pri:imperf		daw.
@@ -7105,12 +7115,13 @@ jarmarkowały	jarmarkować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 jarmarkowały	jarmarkować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 jarmarkowałyście	jarmarkować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 jarmarkowałyśmy	jarmarkować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+jarmarkowaniach	jarmarkować	ger:pl:loc:n2:imperf:aff		
 jarmarkowania	jarmarkować	ger:pl:nom.acc:n2:imperf:aff		
 jarmarkowania	jarmarkować	ger:sg:gen:n2:imperf:aff		
 jarmarkowaniami	jarmarkować	ger:pl:inst:n2:imperf:aff		
 jarmarkowanie	jarmarkować	ger:sg:nom.acc:n2:imperf:aff		
 jarmarkowaniem	jarmarkować	ger:sg:inst:n2:imperf:aff		
-jarmarkowaniom	jarmarkować	ger:pl:dat.loc:n2:imperf:aff		
+jarmarkowaniom	jarmarkować	ger:pl:dat:n2:imperf:aff		
 jarmarkowaniu	jarmarkować	ger:sg:dat.loc:n2:imperf:aff		
 jarmarkowano	jarmarkować	imps:imperf		daw.
 jarmarkowań	jarmarkować	ger:pl:gen:n2:imperf:aff		
@@ -7408,13 +7419,14 @@ jarowane	jarować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 jarowane	jarować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jarowanej	jarować	ppas:sg:gen.dat.loc:f:imperf:aff		
 jarowanemu	jarować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jarowaniach	jarować	ger:pl:loc:n2:imperf:aff		
 jarowania	jarować	ger:pl:nom.acc:n2:imperf:aff		
 jarowania	jarować	ger:sg:gen:n2:imperf:aff		
 jarowaniami	jarować	ger:pl:inst:n2:imperf:aff		
 jarowanie	jarować	ger:sg:nom.acc:n2:imperf:aff		
 jarowaniem	jarować	ger:sg:inst:n2:imperf:aff		
 jarowani	jarować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jarowaniom	jarować	ger:pl:dat.loc:n2:imperf:aff		
+jarowaniom	jarować	ger:pl:dat:n2:imperf:aff		
 jarowaniu	jarować	ger:sg:dat.loc:n2:imperf:aff		
 jarowano	jarować	imps:imperf		
 jarowanych	jarować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -7548,13 +7560,14 @@ jarowizowane	jarowizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 jarowizowane	jarowizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jarowizowanej	jarowizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 jarowizowanemu	jarowizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jarowizowaniach	jarowizować	ger:pl:loc:n2:imperf:aff		
 jarowizowania	jarowizować	ger:pl:nom.acc:n2:imperf:aff		
 jarowizowania	jarowizować	ger:sg:gen:n2:imperf:aff		
 jarowizowaniami	jarowizować	ger:pl:inst:n2:imperf:aff		
 jarowizowanie	jarowizować	ger:sg:nom.acc:n2:imperf:aff		
 jarowizowaniem	jarowizować	ger:sg:inst:n2:imperf:aff		
 jarowizowani	jarowizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jarowizowaniom	jarowizować	ger:pl:dat.loc:n2:imperf:aff		
+jarowizowaniom	jarowizować	ger:pl:dat:n2:imperf:aff		
 jarowizowaniu	jarowizować	ger:sg:dat.loc:n2:imperf:aff		
 jarowizowano	jarowizować	imps:imperf		
 jarowizowanych	jarowizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -8282,13 +8295,14 @@ jarzmiącym	jarzmić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 jarzmią	jarzmić	fin:pl:ter:imperf		przest.
 jarzmicie	jarzmić	fin:pl:sec:imperf		przest.
 jarzmić	jarzmić	inf:imperf		przest.
+jarzmieniach	jarzmić	ger:pl:loc:n2:imperf:aff		
 jarzmienia	jarzmić	ger:pl:nom.acc:n2:imperf:aff		
 jarzmienia	jarzmić	ger:sg:gen:n2:imperf:aff		
 jarzmieniami	jarzmić	ger:pl:inst:n2:imperf:aff		
 jarzmienie	jarzmić	ger:sg:nom.acc:n2:imperf:aff		
 jarzmieniem	jarzmić	ger:sg:inst:n2:imperf:aff		
 jarzmieni	jarzmić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jarzmieniom	jarzmić	ger:pl:dat.loc:n2:imperf:aff		
+jarzmieniom	jarzmić	ger:pl:dat:n2:imperf:aff		
 jarzmieniu	jarzmić	ger:sg:dat.loc:n2:imperf:aff		
 jarzmień	jarzmić	ger:pl:gen:n2:imperf:aff		
 jarzmię	jarzmić	fin:sg:pri:imperf		przest.
@@ -8418,12 +8432,13 @@ jarzący	jarzyć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff
 jarzącymi	jarzyć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 jarzącym	jarzyć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 jarzącym	jarzyć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+jarzeniach	jarzyć:v	ger:pl:loc:n2:imperf:aff		
 jarzenia	jarzyć:v	ger:pl:nom.acc:n2:imperf:aff		
 jarzenia	jarzyć:v	ger:sg:gen:n2:imperf:aff		
 jarzeniami	jarzyć:v	ger:pl:inst:n2:imperf:aff		
 jarzenie	jarzyć:v	ger:sg:nom.acc:n2:imperf:aff		
 jarzeniem	jarzyć:v	ger:sg:inst:n2:imperf:aff		
-jarzeniom	jarzyć:v	ger:pl:dat.loc:n2:imperf:aff		
+jarzeniom	jarzyć:v	ger:pl:dat:n2:imperf:aff		
 jarzeniu	jarzyć:v	ger:sg:dat.loc:n2:imperf:aff		
 jarzeń	jarzyć:v	ger:pl:gen:n2:imperf:aff		
 jarząc	jarzyć:v1	pcon:imperf		
@@ -9435,12 +9450,13 @@ jaskrawiącym	jaskrawić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 jaskrawią	jaskrawić	fin:pl:ter:imperf		
 jaskrawicie	jaskrawić	fin:pl:sec:imperf		
 jaskrawić	jaskrawić	inf:imperf		
+jaskrawieniach	jaskrawić	ger:pl:loc:n2:imperf:aff		
 jaskrawienia	jaskrawić	ger:pl:nom.acc:n2:imperf:aff		
 jaskrawienia	jaskrawić	ger:sg:gen:n2:imperf:aff		
 jaskrawieniami	jaskrawić	ger:pl:inst:n2:imperf:aff		
 jaskrawienie	jaskrawić	ger:sg:nom.acc:n2:imperf:aff		
 jaskrawieniem	jaskrawić	ger:sg:inst:n2:imperf:aff		
-jaskrawieniom	jaskrawić	ger:pl:dat.loc:n2:imperf:aff		
+jaskrawieniom	jaskrawić	ger:pl:dat:n2:imperf:aff		
 jaskrawieniu	jaskrawić	ger:sg:dat.loc:n2:imperf:aff		
 jaskrawień	jaskrawić	ger:pl:gen:n2:imperf:aff		
 jaskrawię	jaskrawić	fin:sg:pri:imperf		
@@ -9550,12 +9566,13 @@ jaskrawieli	jaskrawieć	praet:pl:m1.p1:imperf
 jaskrawieli	jaskrawieć	praet:pl:m1.p1:ter:imperf		
 jaskrawieliście	jaskrawieć	praet:pl:m1.p1:sec:imperf		
 jaskrawieliśmy	jaskrawieć	praet:pl:m1.p1:pri:imperf		
+jaskrawieniach	jaskrawieć	ger:pl:loc:n2:imperf:aff		
 jaskrawienia	jaskrawieć	ger:pl:nom.acc:n2:imperf:aff		
 jaskrawienia	jaskrawieć	ger:sg:gen:n2:imperf:aff		
 jaskrawieniami	jaskrawieć	ger:pl:inst:n2:imperf:aff		
 jaskrawienie	jaskrawieć	ger:sg:nom.acc:n2:imperf:aff		
 jaskrawieniem	jaskrawieć	ger:sg:inst:n2:imperf:aff		
-jaskrawieniom	jaskrawieć	ger:pl:dat.loc:n2:imperf:aff		
+jaskrawieniom	jaskrawieć	ger:pl:dat:n2:imperf:aff		
 jaskrawieniu	jaskrawieć	ger:sg:dat.loc:n2:imperf:aff		
 jaskrawień	jaskrawieć	ger:pl:gen:n2:imperf:aff		
 jaskrawiznach	jaskrawizna	subst:pl:loc:f	pospolita	
@@ -12220,12 +12237,13 @@ jaśniącym	jaśnić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 jaśnią	jaśnić	fin:pl:ter:imperf		
 jaśnicie	jaśnić	fin:pl:sec:imperf		
 jaśnić	jaśnić	inf:imperf		
+jaśnieniach	jaśnić	ger:pl:loc:n2:imperf:aff		
 jaśnienia	jaśnić	ger:pl:nom.acc:n2:imperf:aff		
 jaśnienia	jaśnić	ger:sg:gen:n2:imperf:aff		
 jaśnieniami	jaśnić	ger:pl:inst:n2:imperf:aff		
 jaśnienie	jaśnić	ger:sg:nom.acc:n2:imperf:aff		
 jaśnieniem	jaśnić	ger:sg:inst:n2:imperf:aff		
-jaśnieniom	jaśnić	ger:pl:dat.loc:n2:imperf:aff		
+jaśnieniom	jaśnić	ger:pl:dat:n2:imperf:aff		
 jaśnieniu	jaśnić	ger:sg:dat.loc:n2:imperf:aff		
 jaśnień	jaśnić	ger:pl:gen:n2:imperf:aff		
 jaśnię	jaśnić	fin:sg:pri:imperf		
@@ -12289,12 +12307,13 @@ jaśniejący	jaśnieć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff
 jaśniejącymi	jaśnieć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 jaśniejącym	jaśnieć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 jaśniejącym	jaśnieć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+jaśnieniach	jaśnieć:v	ger:pl:loc:n2:imperf:aff		
 jaśnienia	jaśnieć:v	ger:pl:nom.acc:n2:imperf:aff		
 jaśnienia	jaśnieć:v	ger:sg:gen:n2:imperf:aff		
 jaśnieniami	jaśnieć:v	ger:pl:inst:n2:imperf:aff		
 jaśnienie	jaśnieć:v	ger:sg:nom.acc:n2:imperf:aff		
 jaśnieniem	jaśnieć:v	ger:sg:inst:n2:imperf:aff		
-jaśnieniom	jaśnieć:v	ger:pl:dat.loc:n2:imperf:aff		
+jaśnieniom	jaśnieć:v	ger:pl:dat:n2:imperf:aff		
 jaśnieniu	jaśnieć:v	ger:sg:dat.loc:n2:imperf:aff		
 jaśnień	jaśnieć:v	ger:pl:gen:n2:imperf:aff		
 jaśniejąca	jaśnieć:v	pact:sg:nom.voc:f:imperf:aff		
@@ -12313,12 +12332,13 @@ jaśniejący	jaśnieć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff
 jaśniejącymi	jaśnieć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 jaśniejącym	jaśnieć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 jaśniejącym	jaśnieć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+jaśnieniach	jaśnieć:v	ger:pl:loc:n2:imperf:aff		
 jaśnienia	jaśnieć:v	ger:pl:nom.acc:n2:imperf:aff		
 jaśnienia	jaśnieć:v	ger:sg:gen:n2:imperf:aff		
 jaśnieniami	jaśnieć:v	ger:pl:inst:n2:imperf:aff		
 jaśnienie	jaśnieć:v	ger:sg:nom.acc:n2:imperf:aff		
 jaśnieniem	jaśnieć:v	ger:sg:inst:n2:imperf:aff		
-jaśnieniom	jaśnieć:v	ger:pl:dat.loc:n2:imperf:aff		
+jaśnieniom	jaśnieć:v	ger:pl:dat:n2:imperf:aff		
 jaśnieniu	jaśnieć:v	ger:sg:dat.loc:n2:imperf:aff		
 jaśnień	jaśnieć:v	ger:pl:gen:n2:imperf:aff		
 jaśniałaby	jaśnieć:v1	cond:sg:f:ter:imperf		
@@ -12942,12 +12962,13 @@ jawiącym	jawić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf.perf:aff
 jawią	jawić	fin:pl:ter:imperf.perf		
 jawicie	jawić	fin:pl:sec:imperf.perf		
 jawić	jawić	inf:imperf.perf		
+jawieniach	jawić	ger:pl:loc:n2:imperf.perf:aff		
 jawienia	jawić	ger:pl:nom.acc:n2:imperf.perf:aff		
 jawienia	jawić	ger:sg:gen:n2:imperf.perf:aff		
 jawieniami	jawić	ger:pl:inst:n2:imperf.perf:aff		
 jawienie	jawić	ger:sg:nom.acc:n2:imperf.perf:aff		
 jawieniem	jawić	ger:sg:inst:n2:imperf.perf:aff		
-jawieniom	jawić	ger:pl:dat.loc:n2:imperf.perf:aff		
+jawieniom	jawić	ger:pl:dat:n2:imperf.perf:aff		
 jawieniu	jawić	ger:sg:dat.loc:n2:imperf.perf:aff		
 jawień	jawić	ger:pl:gen:n2:imperf.perf:aff		
 jawię	jawić	fin:sg:pri:imperf.perf		
@@ -13710,12 +13731,13 @@ jazgotały	jazgotać	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 jazgotały	jazgotać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 jazgotałyście	jazgotać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 jazgotałyśmy	jazgotać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+jazgotaniach	jazgotać	ger:pl:loc:n2:imperf:aff		
 jazgotania	jazgotać	ger:pl:nom.acc:n2:imperf:aff		
 jazgotania	jazgotać	ger:sg:gen:n2:imperf:aff		
 jazgotaniami	jazgotać	ger:pl:inst:n2:imperf:aff		
 jazgotanie	jazgotać	ger:sg:nom.acc:n2:imperf:aff		
 jazgotaniem	jazgotać	ger:sg:inst:n2:imperf:aff		
-jazgotaniom	jazgotać	ger:pl:dat.loc:n2:imperf:aff		
+jazgotaniom	jazgotać	ger:pl:dat:n2:imperf:aff		
 jazgotaniu	jazgotać	ger:sg:dat.loc:n2:imperf:aff		
 jazgotano	jazgotać	imps:imperf		
 jazgotań	jazgotać	ger:pl:gen:n2:imperf:aff		
@@ -13972,12 +13994,13 @@ jazzowały	jazzować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 jazzowały	jazzować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 jazzowałyście	jazzować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 jazzowałyśmy	jazzować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+jazzowaniach	jazzować	ger:pl:loc:n2:imperf:aff		
 jazzowania	jazzować	ger:pl:nom.acc:n2:imperf:aff		
 jazzowania	jazzować	ger:sg:gen:n2:imperf:aff		
 jazzowaniami	jazzować	ger:pl:inst:n2:imperf:aff		
 jazzowanie	jazzować	ger:sg:nom.acc:n2:imperf:aff		
 jazzowaniem	jazzować	ger:sg:inst:n2:imperf:aff		
-jazzowaniom	jazzować	ger:pl:dat.loc:n2:imperf:aff		
+jazzowaniom	jazzować	ger:pl:dat:n2:imperf:aff		
 jazzowaniu	jazzować	ger:sg:dat.loc:n2:imperf:aff		
 jazzowano	jazzować	imps:imperf		
 jazzowań	jazzować	ger:pl:gen:n2:imperf:aff		
@@ -14240,13 +14263,14 @@ jąłeś	jąć	praet:sg:m1.m2.m3:sec:perf
 jął	jąć	praet:sg:m1.m2.m3:perf		
 jął	jąć	praet:sg:m1.m2.m3:ter:perf		
 jąwszy	jąć	pant:perf		
+jęciach	jąć	ger:pl:loc:n2:perf:aff		
 jęcia	jąć	ger:pl:nom.acc:n2:perf:aff		
 jęcia	jąć	ger:sg:gen:n2:perf:aff		
 jęciami	jąć	ger:pl:inst:n2:perf:aff		
 jęcie	jąć	ger:sg:nom.acc:n2:perf:aff		
 jęciem	jąć	ger:sg:inst:n2:perf:aff		
 jęci	jąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-jęciom	jąć	ger:pl:dat.loc:n2:perf:aff		
+jęciom	jąć	ger:pl:dat:n2:perf:aff		
 jęciu	jąć	ger:sg:dat.loc:n2:perf:aff		
 jęć	jąć	ger:pl:gen:n2:perf:aff		
 jęliby	jąć	cond:pl:m1.p1:ter:perf		
@@ -14551,12 +14575,13 @@ jąkałyście	jąkać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 jąkałyśmy	jąkać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 jąkam	jąkać	fin:sg:pri:imperf		
 jąkamy	jąkać	fin:pl:pri:imperf		
+jąkaniach	jąkać	ger:pl:loc:n2:imperf:aff		
 jąkania	jąkać	ger:pl:nom.acc:n2:imperf:aff		
 jąkania	jąkać	ger:sg:gen:n2:imperf:aff		
 jąkaniami	jąkać	ger:pl:inst:n2:imperf:aff		
 jąkanie	jąkać	ger:sg:nom.acc:n2:imperf:aff		
 jąkaniem	jąkać	ger:sg:inst:n2:imperf:aff		
-jąkaniom	jąkać	ger:pl:dat.loc:n2:imperf:aff		
+jąkaniom	jąkać	ger:pl:dat:n2:imperf:aff		
 jąkaniu	jąkać	ger:sg:dat.loc:n2:imperf:aff		
 jąkano	jąkać	imps:imperf		
 jąkań	jąkać	ger:pl:gen:n2:imperf:aff		
@@ -14881,13 +14906,14 @@ jątrzącym	jątrzyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 jątrzącym	jątrzyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jątrzą	jątrzyć	fin:pl:ter:imperf		
 jątrzcie	jątrzyć	impt:pl:sec:imperf		
+jątrzeniach	jątrzyć	ger:pl:loc:n2:imperf:aff		
 jątrzenia	jątrzyć	ger:pl:nom.acc:n2:imperf:aff		
 jątrzenia	jątrzyć	ger:sg:gen:n2:imperf:aff		
 jątrzeniami	jątrzyć	ger:pl:inst:n2:imperf:aff		
 jątrzenie	jątrzyć	ger:sg:nom.acc:n2:imperf:aff		
 jątrzeniem	jątrzyć	ger:sg:inst:n2:imperf:aff		
 jątrzeni	jątrzyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jątrzeniom	jątrzyć	ger:pl:dat.loc:n2:imperf:aff		
+jątrzeniom	jątrzyć	ger:pl:dat:n2:imperf:aff		
 jątrzeniu	jątrzyć	ger:sg:dat.loc:n2:imperf:aff		
 jątrzeń	jątrzyć	ger:pl:gen:n2:imperf:aff		
 jątrzę	jątrzyć	fin:sg:pri:imperf		
@@ -15014,13 +15040,14 @@ jebane	jebać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 jebane	jebać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jebanej	jebać	ppas:sg:gen.dat.loc:f:imperf:aff		
 jebanemu	jebać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jebaniach	jebać	ger:pl:loc:n2:imperf:aff		
 jebania	jebać	ger:pl:nom.acc:n2:imperf:aff		
 jebania	jebać	ger:sg:gen:n2:imperf:aff		
 jebaniami	jebać	ger:pl:inst:n2:imperf:aff		
 jebanie	jebać	ger:sg:nom.acc:n2:imperf:aff		
 jebaniem	jebać	ger:sg:inst:n2:imperf:aff		
 jebani	jebać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jebaniom	jebać	ger:pl:dat.loc:n2:imperf:aff		
+jebaniom	jebać	ger:pl:dat:n2:imperf:aff		
 jebaniu	jebać	ger:sg:dat.loc:n2:imperf:aff		
 jebano	jebać	imps:imperf		wulg.
 jebanych	jebać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -15116,13 +15143,14 @@ jebniecie	jebnąć	fin:pl:sec:perf		wulg.
 jebnie	jebnąć	fin:sg:ter:perf		wulg.
 jebniemy	jebnąć	fin:pl:pri:perf		wulg.
 jebniesz	jebnąć	fin:sg:sec:perf		wulg.
+jebnięciach	jebnąć	ger:pl:loc:n2:perf:aff		
 jebnięcia	jebnąć	ger:pl:nom.acc:n2:perf:aff		
 jebnięcia	jebnąć	ger:sg:gen:n2:perf:aff		
 jebnięciami	jebnąć	ger:pl:inst:n2:perf:aff		
 jebnięcie	jebnąć	ger:sg:nom.acc:n2:perf:aff		
 jebnięciem	jebnąć	ger:sg:inst:n2:perf:aff		
 jebnięci	jebnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-jebnięciom	jebnąć	ger:pl:dat.loc:n2:perf:aff		
+jebnięciom	jebnąć	ger:pl:dat:n2:perf:aff		
 jebnięciu	jebnąć	ger:sg:dat.loc:n2:perf:aff		
 jebnięć	jebnąć	ger:pl:gen:n2:perf:aff		
 jebnięta	jebnąć	ppas:sg:nom.voc:f:perf:aff		
@@ -15198,12 +15226,13 @@ jadący	jechać:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff
 jadącymi	jechać:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 jadącym	jechać:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 jadącym	jechać:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+jechaniach	jechać:v	ger:pl:loc:n2:imperf:aff		
 jechania	jechać:v	ger:pl:nom.acc:n2:imperf:aff		
 jechania	jechać:v	ger:sg:gen:n2:imperf:aff		
 jechaniami	jechać:v	ger:pl:inst:n2:imperf:aff		
 jechanie	jechać:v	ger:sg:nom.acc:n2:imperf:aff		
 jechaniem	jechać:v	ger:sg:inst:n2:imperf:aff		
-jechaniom	jechać:v	ger:pl:dat.loc:n2:imperf:aff		
+jechaniom	jechać:v	ger:pl:dat:n2:imperf:aff		
 jechaniu	jechać:v	ger:sg:dat.loc:n2:imperf:aff		
 jechań	jechać:v	ger:pl:gen:n2:imperf:aff		
 jadąc	jechać:v1	pcon:imperf		
@@ -16257,13 +16286,14 @@ jednane	jednać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 jednane	jednać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jednanej	jednać	ppas:sg:gen.dat.loc:f:imperf:aff		
 jednanemu	jednać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jednaniach	jednać	ger:pl:loc:n2:imperf:aff		
 jednania	jednać	ger:pl:nom.acc:n2:imperf:aff		
 jednania	jednać	ger:sg:gen:n2:imperf:aff		
 jednaniami	jednać	ger:pl:inst:n2:imperf:aff		
 jednanie	jednać	ger:sg:nom.acc:n2:imperf:aff		
 jednaniem	jednać	ger:sg:inst:n2:imperf:aff		
 jednani	jednać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jednaniom	jednać	ger:pl:dat.loc:n2:imperf:aff		
+jednaniom	jednać	ger:pl:dat:n2:imperf:aff		
 jednaniu	jednać	ger:sg:dat.loc:n2:imperf:aff		
 jednano	jednać	imps:imperf		
 jednanych	jednać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -17362,13 +17392,14 @@ jednoczącym	jednoczyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 jednoczącym	jednoczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jednoczą	jednoczyć	fin:pl:ter:imperf		
 jednoczcie	jednoczyć	impt:pl:sec:imperf		
+jednoczeniach	jednoczyć	ger:pl:loc:n2:imperf:aff		
 jednoczenia	jednoczyć	ger:pl:nom.acc:n2:imperf:aff		
 jednoczenia	jednoczyć	ger:sg:gen:n2:imperf:aff		
 jednoczeniami	jednoczyć	ger:pl:inst:n2:imperf:aff		
 jednoczenie	jednoczyć	ger:sg:nom.acc:n2:imperf:aff		
 jednoczeniem	jednoczyć	ger:sg:inst:n2:imperf:aff		
 jednoczeni	jednoczyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jednoczeniom	jednoczyć	ger:pl:dat.loc:n2:imperf:aff		
+jednoczeniom	jednoczyć	ger:pl:dat:n2:imperf:aff		
 jednoczeniu	jednoczyć	ger:sg:dat.loc:n2:imperf:aff		
 jednoczeń	jednoczyć	ger:pl:gen:n2:imperf:aff		
 jednoczę	jednoczyć	fin:sg:pri:imperf		
@@ -19254,13 +19285,14 @@ jednolicącymi	jednolicić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 jednolicącym	jednolicić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 jednolicącym	jednolicić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jednolicą	jednolicić	fin:pl:ter:imperf		
+jednoliceniach	jednolicić	ger:pl:loc:n2:imperf:aff		
 jednolicenia	jednolicić	ger:pl:nom.acc:n2:imperf:aff		
 jednolicenia	jednolicić	ger:sg:gen:n2:imperf:aff		
 jednoliceniami	jednolicić	ger:pl:inst:n2:imperf:aff		
 jednolicenie	jednolicić	ger:sg:nom.acc:n2:imperf:aff		
 jednoliceniem	jednolicić	ger:sg:inst:n2:imperf:aff		
 jednoliceni	jednolicić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jednoliceniom	jednolicić	ger:pl:dat.loc:n2:imperf:aff		
+jednoliceniom	jednolicić	ger:pl:dat:n2:imperf:aff		
 jednoliceniu	jednolicić	ger:sg:dat.loc:n2:imperf:aff		
 jednoliceń	jednolicić	ger:pl:gen:n2:imperf:aff		
 jednolicę	jednolicić	fin:sg:pri:imperf		
@@ -22426,12 +22458,13 @@ jednostajniącym	jednostajnić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 jednostajnią	jednostajnić	fin:pl:ter:imperf		daw.
 jednostajnicie	jednostajnić	fin:pl:sec:imperf		daw.
 jednostajnić	jednostajnić	inf:imperf		daw.
+jednostajnieniach	jednostajnić	ger:pl:loc:n2:imperf:aff		
 jednostajnienia	jednostajnić	ger:pl:nom.acc:n2:imperf:aff		
 jednostajnienia	jednostajnić	ger:sg:gen:n2:imperf:aff		
 jednostajnieniami	jednostajnić	ger:pl:inst:n2:imperf:aff		
 jednostajnienie	jednostajnić	ger:sg:nom.acc:n2:imperf:aff		
 jednostajnieniem	jednostajnić	ger:sg:inst:n2:imperf:aff		
-jednostajnieniom	jednostajnić	ger:pl:dat.loc:n2:imperf:aff		
+jednostajnieniom	jednostajnić	ger:pl:dat:n2:imperf:aff		
 jednostajnieniu	jednostajnić	ger:sg:dat.loc:n2:imperf:aff		
 jednostajnień	jednostajnić	ger:pl:gen:n2:imperf:aff		
 jednostajnię	jednostajnić	fin:sg:pri:imperf		daw.
@@ -22650,13 +22683,14 @@ jednostkowane	jednostkować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 jednostkowane	jednostkować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jednostkowanej	jednostkować	ppas:sg:gen.dat.loc:f:imperf:aff		
 jednostkowanemu	jednostkować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jednostkowaniach	jednostkować	ger:pl:loc:n2:imperf:aff		
 jednostkowania	jednostkować	ger:pl:nom.acc:n2:imperf:aff		
 jednostkowania	jednostkować	ger:sg:gen:n2:imperf:aff		
 jednostkowaniami	jednostkować	ger:pl:inst:n2:imperf:aff		
 jednostkowanie	jednostkować	ger:sg:nom.acc:n2:imperf:aff		
 jednostkowaniem	jednostkować	ger:sg:inst:n2:imperf:aff		
 jednostkowani	jednostkować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jednostkowaniom	jednostkować	ger:pl:dat.loc:n2:imperf:aff		
+jednostkowaniom	jednostkować	ger:pl:dat:n2:imperf:aff		
 jednostkowaniu	jednostkować	ger:sg:dat.loc:n2:imperf:aff		
 jednostkowano	jednostkować	imps:imperf		
 jednostkowanych	jednostkować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -25083,13 +25117,14 @@ jedwabiącym	jedwabić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 jedwabią	jedwabić	fin:pl:ter:imperf		
 jedwabicie	jedwabić	fin:pl:sec:imperf		
 jedwabić	jedwabić	inf:imperf		
+jedwabieniach	jedwabić	ger:pl:loc:n2:imperf:aff		
 jedwabienia	jedwabić	ger:pl:nom.acc:n2:imperf:aff		
 jedwabienia	jedwabić	ger:sg:gen:n2:imperf:aff		
 jedwabieniami	jedwabić	ger:pl:inst:n2:imperf:aff		
 jedwabienie	jedwabić	ger:sg:nom.acc:n2:imperf:aff		
 jedwabieniem	jedwabić	ger:sg:inst:n2:imperf:aff		
 jedwabieni	jedwabić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jedwabieniom	jedwabić	ger:pl:dat.loc:n2:imperf:aff		
+jedwabieniom	jedwabić	ger:pl:dat:n2:imperf:aff		
 jedwabieniu	jedwabić	ger:sg:dat.loc:n2:imperf:aff		
 jedwabień	jedwabić	ger:pl:gen:n2:imperf:aff		
 jedwabię	jedwabić	fin:sg:pri:imperf		
@@ -27058,12 +27093,13 @@ jełczeli	jełczeć	praet:pl:m1.p1:imperf
 jełczeli	jełczeć	praet:pl:m1.p1:ter:imperf		
 jełczeliście	jełczeć	praet:pl:m1.p1:sec:imperf		
 jełczeliśmy	jełczeć	praet:pl:m1.p1:pri:imperf		
+jełczeniach	jełczeć	ger:pl:loc:n2:imperf:aff		
 jełczenia	jełczeć	ger:pl:nom.acc:n2:imperf:aff		
 jełczenia	jełczeć	ger:sg:gen:n2:imperf:aff		
 jełczeniami	jełczeć	ger:pl:inst:n2:imperf:aff		
 jełczenie	jełczeć	ger:sg:nom.acc:n2:imperf:aff		
 jełczeniem	jełczeć	ger:sg:inst:n2:imperf:aff		
-jełczeniom	jełczeć	ger:pl:dat.loc:n2:imperf:aff		
+jełczeniom	jełczeć	ger:pl:dat:n2:imperf:aff		
 jełczeniu	jełczeć	ger:sg:dat.loc:n2:imperf:aff		
 jełczeń	jełczeć	ger:pl:gen:n2:imperf:aff		
 jełcy	jełki	adj:pl:nom.voc:m1.p1:pos		
@@ -27480,12 +27516,13 @@ jendyczącym	jendyczyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 jendyczącym	jendyczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jendyczą	jendyczyć	fin:pl:ter:imperf		przest.
 jendyczcie	jendyczyć	impt:pl:sec:imperf		przest.
+jendyczeniach	jendyczyć	ger:pl:loc:n2:imperf:aff		
 jendyczenia	jendyczyć	ger:pl:nom.acc:n2:imperf:aff		
 jendyczenia	jendyczyć	ger:sg:gen:n2:imperf:aff		
 jendyczeniami	jendyczyć	ger:pl:inst:n2:imperf:aff		
 jendyczenie	jendyczyć	ger:sg:nom.acc:n2:imperf:aff		
 jendyczeniem	jendyczyć	ger:sg:inst:n2:imperf:aff		
-jendyczeniom	jendyczyć	ger:pl:dat.loc:n2:imperf:aff		
+jendyczeniom	jendyczyć	ger:pl:dat:n2:imperf:aff		
 jendyczeniu	jendyczyć	ger:sg:dat.loc:n2:imperf:aff		
 jendyczeń	jendyczyć	ger:pl:gen:n2:imperf:aff		
 jendyczę	jendyczyć	fin:sg:pri:imperf		przest.
@@ -28490,12 +28527,13 @@ jesieniącym	jesienić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 jesienią	jesienić	fin:pl:ter:imperf		indyw.
 jesienicie	jesienić	fin:pl:sec:imperf		indyw.
 jesienić	jesienić	inf:imperf		indyw.
+jesienieniach	jesienić	ger:pl:loc:n2:imperf:aff		
 jesienienia	jesienić	ger:pl:nom.acc:n2:imperf:aff		
 jesienienia	jesienić	ger:sg:gen:n2:imperf:aff		
 jesienieniami	jesienić	ger:pl:inst:n2:imperf:aff		
 jesienienie	jesienić	ger:sg:nom.acc:n2:imperf:aff		
 jesienieniem	jesienić	ger:sg:inst:n2:imperf:aff		
-jesienieniom	jesienić	ger:pl:dat.loc:n2:imperf:aff		
+jesienieniom	jesienić	ger:pl:dat:n2:imperf:aff		
 jesienieniu	jesienić	ger:sg:dat.loc:n2:imperf:aff		
 jesienień	jesienić	ger:pl:gen:n2:imperf:aff		
 jesienię	jesienić	fin:sg:pri:imperf		indyw.
@@ -28606,12 +28644,13 @@ jesiennieli	jesiennieć	praet:pl:m1.p1:imperf		rzad.
 jesiennieli	jesiennieć	praet:pl:m1.p1:ter:imperf		rzad.
 jesiennieliście	jesiennieć	praet:pl:m1.p1:sec:imperf		rzad.
 jesiennieliśmy	jesiennieć	praet:pl:m1.p1:pri:imperf		rzad.
+jesiennieniach	jesiennieć	ger:pl:loc:n2:imperf:aff		
 jesiennienia	jesiennieć	ger:pl:nom.acc:n2:imperf:aff		
 jesiennienia	jesiennieć	ger:sg:gen:n2:imperf:aff		
 jesiennieniami	jesiennieć	ger:pl:inst:n2:imperf:aff		
 jesiennienie	jesiennieć	ger:sg:nom.acc:n2:imperf:aff		
 jesiennieniem	jesiennieć	ger:sg:inst:n2:imperf:aff		
-jesiennieniom	jesiennieć	ger:pl:dat.loc:n2:imperf:aff		
+jesiennieniom	jesiennieć	ger:pl:dat:n2:imperf:aff		
 jesiennieniu	jesiennieć	ger:sg:dat.loc:n2:imperf:aff		
 jesiennień	jesiennieć	ger:pl:gen:n2:imperf:aff		
 jesiennościach	jesienność	subst:pl:loc:f		
@@ -29076,13 +29115,14 @@ jedzącym	jeść	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 jedzącym	jeść	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jedzą	jeść	fin:pl:ter:imperf		
 jedzcie	jeść	impt:pl:sec:imperf		
+jedzeniach	jeść	ger:pl:loc:n2:imperf:aff		
 jedzenia	jeść	ger:pl:nom.acc:n2:imperf:aff		
 jedzenia	jeść	ger:sg:gen:n2:imperf:aff		
 jedzeniami	jeść	ger:pl:inst:n2:imperf:aff		
 jedzenie	jeść	ger:sg:nom.acc:n2:imperf:aff		
 jedzeniem	jeść	ger:sg:inst:n2:imperf:aff		
 jedzeni	jeść	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jedzeniom	jeść	ger:pl:dat.loc:n2:imperf:aff		
+jedzeniom	jeść	ger:pl:dat:n2:imperf:aff		
 jedzeniu	jeść	ger:sg:dat.loc:n2:imperf:aff		
 jedzeń	jeść	ger:pl:gen:n2:imperf:aff		
 jedz	jeść	impt:sg:sec:imperf		
@@ -29837,12 +29877,13 @@ jeżdżącymi	jeździć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 jeżdżącym	jeździć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 jeżdżącym	jeździć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jeżdżą	jeździć	fin:pl:ter:imperf		
+jeżdżeniach	jeździć	ger:pl:loc:n2:imperf:aff		
 jeżdżenia	jeździć	ger:pl:nom.acc:n2:imperf:aff		
 jeżdżenia	jeździć	ger:sg:gen:n2:imperf:aff		
 jeżdżeniami	jeździć	ger:pl:inst:n2:imperf:aff		
 jeżdżenie	jeździć	ger:sg:nom.acc:n2:imperf:aff		
 jeżdżeniem	jeździć	ger:sg:inst:n2:imperf:aff		
-jeżdżeniom	jeździć	ger:pl:dat.loc:n2:imperf:aff		
+jeżdżeniom	jeździć	ger:pl:dat:n2:imperf:aff		
 jeżdżeniu	jeździć	ger:sg:dat.loc:n2:imperf:aff		
 jeżdżeń	jeździć	ger:pl:gen:n2:imperf:aff		
 jeżdżę	jeździć	fin:sg:pri:imperf		
@@ -30224,12 +30265,13 @@ jeżowały	jeżować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
 jeżowały	jeżować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
 jeżowałyście	jeżować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
 jeżowałyśmy	jeżować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+jeżowaniach	jeżować	ger:pl:loc:n2:imperf:aff		
 jeżowania	jeżować	ger:pl:nom.acc:n2:imperf:aff		
 jeżowania	jeżować	ger:sg:gen:n2:imperf:aff		
 jeżowaniami	jeżować	ger:pl:inst:n2:imperf:aff		
 jeżowanie	jeżować	ger:sg:nom.acc:n2:imperf:aff		
 jeżowaniem	jeżować	ger:sg:inst:n2:imperf:aff		
-jeżowaniom	jeżować	ger:pl:dat.loc:n2:imperf:aff		
+jeżowaniom	jeżować	ger:pl:dat:n2:imperf:aff		
 jeżowaniu	jeżować	ger:sg:dat.loc:n2:imperf:aff		
 jeżowano	jeżować	imps:imperf		rzad.
 jeżowań	jeżować	ger:pl:gen:n2:imperf:aff		
@@ -30571,13 +30613,14 @@ jeżącym	jeżyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 jeżącym	jeżyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jeżą	jeżyć	fin:pl:ter:imperf		
 jeżcie	jeżyć	impt:pl:sec:imperf		
+jeżeniach	jeżyć	ger:pl:loc:n2:imperf:aff		
 jeżenia	jeżyć	ger:pl:nom.acc:n2:imperf:aff		
 jeżenia	jeżyć	ger:sg:gen:n2:imperf:aff		
 jeżeniami	jeżyć	ger:pl:inst:n2:imperf:aff		
 jeżenie	jeżyć	ger:sg:nom.acc:n2:imperf:aff		
 jeżeniem	jeżyć	ger:sg:inst:n2:imperf:aff		
 jeżeni	jeżyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jeżeniom	jeżyć	ger:pl:dat.loc:n2:imperf:aff		
+jeżeniom	jeżyć	ger:pl:dat:n2:imperf:aff		
 jeżeniu	jeżyć	ger:sg:dat.loc:n2:imperf:aff		
 jeżeń	jeżyć	ger:pl:gen:n2:imperf:aff		
 jeżę	jeżyć	fin:sg:pri:imperf		
@@ -30856,12 +30899,13 @@ jęczeli	jęczeć	praet:pl:m1.p1:imperf
 jęczeli	jęczeć	praet:pl:m1.p1:ter:imperf		
 jęczeliście	jęczeć	praet:pl:m1.p1:sec:imperf		
 jęczeliśmy	jęczeć	praet:pl:m1.p1:pri:imperf		
+jęczeniach	jęczeć	ger:pl:loc:n2:imperf:aff		
 jęczenia	jęczeć	ger:pl:nom.acc:n2:imperf:aff		
 jęczenia	jęczeć	ger:sg:gen:n2:imperf:aff		
 jęczeniami	jęczeć	ger:pl:inst:n2:imperf:aff		
 jęczenie	jęczeć	ger:sg:nom.acc:n2:imperf:aff		
 jęczeniem	jęczeć	ger:sg:inst:n2:imperf:aff		
-jęczeniom	jęczeć	ger:pl:dat.loc:n2:imperf:aff		
+jęczeniom	jęczeć	ger:pl:dat:n2:imperf:aff		
 jęczeniu	jęczeć	ger:sg:dat.loc:n2:imperf:aff		
 jęczeń	jęczeć	ger:pl:gen:n2:imperf:aff		
 jęczę	jęczeć	fin:sg:pri:imperf		
@@ -31086,12 +31130,13 @@ jędrnieli	jędrnieć	praet:pl:m1.p1:imperf
 jędrnieli	jędrnieć	praet:pl:m1.p1:ter:imperf		
 jędrnieliście	jędrnieć	praet:pl:m1.p1:sec:imperf		
 jędrnieliśmy	jędrnieć	praet:pl:m1.p1:pri:imperf		
+jędrnieniach	jędrnieć	ger:pl:loc:n2:imperf:aff		
 jędrnienia	jędrnieć	ger:pl:nom.acc:n2:imperf:aff		
 jędrnienia	jędrnieć	ger:sg:gen:n2:imperf:aff		
 jędrnieniami	jędrnieć	ger:pl:inst:n2:imperf:aff		
 jędrnienie	jędrnieć	ger:sg:nom.acc:n2:imperf:aff		
 jędrnieniem	jędrnieć	ger:sg:inst:n2:imperf:aff		
-jędrnieniom	jędrnieć	ger:pl:dat.loc:n2:imperf:aff		
+jędrnieniom	jędrnieć	ger:pl:dat:n2:imperf:aff		
 jędrnieniu	jędrnieć	ger:sg:dat.loc:n2:imperf:aff		
 jędrnień	jędrnieć	ger:pl:gen:n2:imperf:aff		
 jędrnościach	jędrność	subst:pl:loc:f		
@@ -31392,12 +31437,13 @@ jękałyście	jękać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 jękałyśmy	jękać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
 jękam	jękać	fin:sg:pri:imperf		daw.
 jękamy	jękać	fin:pl:pri:imperf		daw.
+jękaniach	jękać	ger:pl:loc:n2:imperf:aff		
 jękania	jękać	ger:pl:nom.acc:n2:imperf:aff		
 jękania	jękać	ger:sg:gen:n2:imperf:aff		
 jękaniami	jękać	ger:pl:inst:n2:imperf:aff		
 jękanie	jękać	ger:sg:nom.acc:n2:imperf:aff		
 jękaniem	jękać	ger:sg:inst:n2:imperf:aff		
-jękaniom	jękać	ger:pl:dat.loc:n2:imperf:aff		
+jękaniom	jękać	ger:pl:dat:n2:imperf:aff		
 jękaniu	jękać	ger:sg:dat.loc:n2:imperf:aff		
 jękano	jękać	imps:imperf		daw.
 jękań	jękać	ger:pl:gen:n2:imperf:aff		
@@ -31485,12 +31531,13 @@ jękniecie	jęknąć	fin:pl:sec:perf
 jęknie	jęknąć	fin:sg:ter:perf		
 jękniemy	jęknąć	fin:pl:pri:perf		
 jękniesz	jęknąć	fin:sg:sec:perf		
+jęknięciach	jęknąć	ger:pl:loc:n2:perf:aff		
 jęknięcia	jęknąć	ger:pl:nom.acc:n2:perf:aff		
 jęknięcia	jęknąć	ger:sg:gen:n2:perf:aff		
 jęknięciami	jęknąć	ger:pl:inst:n2:perf:aff		
 jęknięcie	jęknąć	ger:sg:nom.acc:n2:perf:aff		
 jęknięciem	jęknąć	ger:sg:inst:n2:perf:aff		
-jęknięciom	jęknąć	ger:pl:dat.loc:n2:perf:aff		
+jęknięciom	jęknąć	ger:pl:dat:n2:perf:aff		
 jęknięciu	jęknąć	ger:sg:dat.loc:n2:perf:aff		
 jęknięć	jęknąć	ger:pl:gen:n2:perf:aff		
 jęknięto	jęknąć	imps:perf		
@@ -32352,12 +32399,13 @@ jodlowały	jodlować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 jodlowały	jodlować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 jodlowałyście	jodlować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 jodlowałyśmy	jodlować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+jodlowaniach	jodlować	ger:pl:loc:n2:imperf:aff		
 jodlowania	jodlować	ger:pl:nom.acc:n2:imperf:aff		
 jodlowania	jodlować	ger:sg:gen:n2:imperf:aff		
 jodlowaniami	jodlować	ger:pl:inst:n2:imperf:aff		
 jodlowanie	jodlować	ger:sg:nom.acc:n2:imperf:aff		
 jodlowaniem	jodlować	ger:sg:inst:n2:imperf:aff		
-jodlowaniom	jodlować	ger:pl:dat.loc:n2:imperf:aff		
+jodlowaniom	jodlować	ger:pl:dat:n2:imperf:aff		
 jodlowaniu	jodlować	ger:sg:dat.loc:n2:imperf:aff		
 jodlowano	jodlować	imps:imperf		
 jodlowań	jodlować	ger:pl:gen:n2:imperf:aff		
@@ -32437,12 +32485,13 @@ jodłowały	jodłować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 jodłowały	jodłować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 jodłowałyście	jodłować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 jodłowałyśmy	jodłować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+jodłowaniach	jodłować	ger:pl:loc:n2:imperf:aff		
 jodłowania	jodłować	ger:pl:nom.acc:n2:imperf:aff		
 jodłowania	jodłować	ger:sg:gen:n2:imperf:aff		
 jodłowaniami	jodłować	ger:pl:inst:n2:imperf:aff		
 jodłowanie	jodłować	ger:sg:nom.acc:n2:imperf:aff		
 jodłowaniem	jodłować	ger:sg:inst:n2:imperf:aff		
-jodłowaniom	jodłować	ger:pl:dat.loc:n2:imperf:aff		
+jodłowaniom	jodłować	ger:pl:dat:n2:imperf:aff		
 jodłowaniu	jodłować	ger:sg:dat.loc:n2:imperf:aff		
 jodłowano	jodłować	imps:imperf		
 jodłowań	jodłować	ger:pl:gen:n2:imperf:aff		
@@ -32742,13 +32791,14 @@ jodowanej	jodować	ppas:sg:gen.dat.loc:f:imperf:aff
 jodowane	jodować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 jodowane	jodować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jodowanemu	jodować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jodowaniach	jodować	ger:pl:loc:n2:imperf:aff		
 jodowania	jodować	ger:pl:nom.acc:n2:imperf:aff		
 jodowania	jodować	ger:sg:gen:n2:imperf:aff		
 jodowaniami	jodować	ger:pl:inst:n2:imperf:aff		
 jodowanie	jodować	ger:sg:nom.acc:n2:imperf:aff		
 jodowaniem	jodować	ger:sg:inst:n2:imperf:aff		
 jodowani	jodować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jodowaniom	jodować	ger:pl:dat.loc:n2:imperf:aff		
+jodowaniom	jodować	ger:pl:dat:n2:imperf:aff		
 jodowaniu	jodować	ger:sg:dat.loc:n2:imperf:aff		
 jodowano	jodować	imps:imperf		
 jodowanych	jodować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -32933,13 +32983,14 @@ jodynowanej	jodynować	ppas:sg:gen.dat.loc:f:imperf:aff
 jodynowane	jodynować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 jodynowane	jodynować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jodynowanemu	jodynować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jodynowaniach	jodynować	ger:pl:loc:n2:imperf:aff		
 jodynowania	jodynować	ger:pl:nom.acc:n2:imperf:aff		
 jodynowania	jodynować	ger:sg:gen:n2:imperf:aff		
 jodynowaniami	jodynować	ger:pl:inst:n2:imperf:aff		
 jodynowanie	jodynować	ger:sg:nom.acc:n2:imperf:aff		
 jodynowaniem	jodynować	ger:sg:inst:n2:imperf:aff		
 jodynowani	jodynować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jodynowaniom	jodynować	ger:pl:dat.loc:n2:imperf:aff		
+jodynowaniom	jodynować	ger:pl:dat:n2:imperf:aff		
 jodynowaniu	jodynować	ger:sg:dat.loc:n2:imperf:aff		
 jodynowano	jodynować	imps:imperf		
 jodynowanych	jodynować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -33251,12 +33302,13 @@ jojczącym	jojczyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 jojczącym	jojczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jojczą	jojczyć	fin:pl:ter:imperf		
 jojczcie	jojczyć	impt:pl:sec:imperf		
+jojczeniach	jojczyć	ger:pl:loc:n2:imperf:aff		
 jojczenia	jojczyć	ger:pl:nom.acc:n2:imperf:aff		
 jojczenia	jojczyć	ger:sg:gen:n2:imperf:aff		
 jojczeniami	jojczyć	ger:pl:inst:n2:imperf:aff		
 jojczenie	jojczyć	ger:sg:nom.acc:n2:imperf:aff		
 jojczeniem	jojczyć	ger:sg:inst:n2:imperf:aff		
-jojczeniom	jojczyć	ger:pl:dat.loc:n2:imperf:aff		
+jojczeniom	jojczyć	ger:pl:dat:n2:imperf:aff		
 jojczeniu	jojczyć	ger:sg:dat.loc:n2:imperf:aff		
 jojczeń	jojczyć	ger:pl:gen:n2:imperf:aff		
 jojczę	jojczyć	fin:sg:pri:imperf		
@@ -33799,13 +33851,14 @@ jonizowanej	jonizować	ppas:sg:gen.dat.loc:f:imperf:aff
 jonizowane	jonizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 jonizowane	jonizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jonizowanemu	jonizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jonizowaniach	jonizować	ger:pl:loc:n2:imperf:aff		
 jonizowania	jonizować	ger:pl:nom.acc:n2:imperf:aff		
 jonizowania	jonizować	ger:sg:gen:n2:imperf:aff		
 jonizowaniami	jonizować	ger:pl:inst:n2:imperf:aff		
 jonizowanie	jonizować	ger:sg:nom.acc:n2:imperf:aff		
 jonizowaniem	jonizować	ger:sg:inst:n2:imperf:aff		
 jonizowani	jonizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jonizowaniom	jonizować	ger:pl:dat.loc:n2:imperf:aff		
+jonizowaniom	jonizować	ger:pl:dat:n2:imperf:aff		
 jonizowaniu	jonizować	ger:sg:dat.loc:n2:imperf:aff		
 jonizowano	jonizować	imps:imperf		
 jonizowanych	jonizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -34985,12 +35038,13 @@ jubileuszowały	jubileuszować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 jubileuszowały	jubileuszować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 jubileuszowałyście	jubileuszować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 jubileuszowałyśmy	jubileuszować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+jubileuszowaniach	jubileuszować	ger:pl:loc:n2:imperf:aff		
 jubileuszowania	jubileuszować	ger:pl:nom.acc:n2:imperf:aff		
 jubileuszowania	jubileuszować	ger:sg:gen:n2:imperf:aff		
 jubileuszowaniami	jubileuszować	ger:pl:inst:n2:imperf:aff		
 jubileuszowanie	jubileuszować	ger:sg:nom.acc:n2:imperf:aff		
 jubileuszowaniem	jubileuszować	ger:sg:inst:n2:imperf:aff		
-jubileuszowaniom	jubileuszować	ger:pl:dat.loc:n2:imperf:aff		
+jubileuszowaniom	jubileuszować	ger:pl:dat:n2:imperf:aff		
 jubileuszowaniu	jubileuszować	ger:sg:dat.loc:n2:imperf:aff		
 jubileuszowano	jubileuszować	imps:imperf		
 jubileuszowań	jubileuszować	ger:pl:gen:n2:imperf:aff		
@@ -35120,13 +35174,14 @@ jubilowanej	jubilować	ppas:sg:gen.dat.loc:f:imperf:aff
 jubilowane	jubilować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 jubilowane	jubilować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jubilowanemu	jubilować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jubilowaniach	jubilować	ger:pl:loc:n2:imperf:aff		
 jubilowania	jubilować	ger:pl:nom.acc:n2:imperf:aff		
 jubilowania	jubilować	ger:sg:gen:n2:imperf:aff		
 jubilowaniami	jubilować	ger:pl:inst:n2:imperf:aff		
 jubilowanie	jubilować	ger:sg:nom.acc:n2:imperf:aff		
 jubilowaniem	jubilować	ger:sg:inst:n2:imperf:aff		
 jubilowani	jubilować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jubilowaniom	jubilować	ger:pl:dat.loc:n2:imperf:aff		
+jubilowaniom	jubilować	ger:pl:dat:n2:imperf:aff		
 jubilowaniu	jubilować	ger:sg:dat.loc:n2:imperf:aff		
 jubilowano	jubilować	imps:imperf		
 jubilowanych	jubilować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -35332,13 +35387,14 @@ juczącym	juczyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 juczącym	juczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 juczą	juczyć	fin:pl:ter:imperf		
 juczcie	juczyć	impt:pl:sec:imperf		
+juczeniach	juczyć	ger:pl:loc:n2:imperf:aff		
 juczenia	juczyć	ger:pl:nom.acc:n2:imperf:aff		
 juczenia	juczyć	ger:sg:gen:n2:imperf:aff		
 juczeniami	juczyć	ger:pl:inst:n2:imperf:aff		
 juczenie	juczyć	ger:sg:nom.acc:n2:imperf:aff		
 juczeniem	juczyć	ger:sg:inst:n2:imperf:aff		
 juczeni	juczyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
-juczeniom	juczyć	ger:pl:dat.loc:n2:imperf:aff		
+juczeniom	juczyć	ger:pl:dat:n2:imperf:aff		
 juczeniu	juczyć	ger:sg:dat.loc:n2:imperf:aff		
 juczeń	juczyć	ger:pl:gen:n2:imperf:aff		
 juczę	juczyć	fin:sg:pri:imperf		
@@ -35541,13 +35597,14 @@ judaizowanej	judaizować	ppas:sg:gen.dat.loc:f:imperf:aff
 judaizowane	judaizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 judaizowane	judaizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 judaizowanemu	judaizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+judaizowaniach	judaizować	ger:pl:loc:n2:imperf:aff		
 judaizowania	judaizować	ger:pl:nom.acc:n2:imperf:aff		
 judaizowania	judaizować	ger:sg:gen:n2:imperf:aff		
 judaizowaniami	judaizować	ger:pl:inst:n2:imperf:aff		
 judaizowanie	judaizować	ger:sg:nom.acc:n2:imperf:aff		
 judaizowaniem	judaizować	ger:sg:inst:n2:imperf:aff		
 judaizowani	judaizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-judaizowaniom	judaizować	ger:pl:dat.loc:n2:imperf:aff		
+judaizowaniom	judaizować	ger:pl:dat:n2:imperf:aff		
 judaizowaniu	judaizować	ger:sg:dat.loc:n2:imperf:aff		
 judaizowano	judaizować	imps:imperf		
 judaizowanych	judaizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -36176,13 +36233,14 @@ judzącymi	judzić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 judzącym	judzić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 judzącym	judzić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 judzą	judzić	fin:pl:ter:imperf		
+judzeniach	judzić	ger:pl:loc:n2:imperf:aff		
 judzenia	judzić	ger:pl:nom.acc:n2:imperf:aff		
 judzenia	judzić	ger:sg:gen:n2:imperf:aff		
 judzeniami	judzić	ger:pl:inst:n2:imperf:aff		
 judzenie	judzić	ger:sg:nom.acc:n2:imperf:aff		
 judzeniem	judzić	ger:sg:inst:n2:imperf:aff		
 judzeni	judzić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-judzeniom	judzić	ger:pl:dat.loc:n2:imperf:aff		
+judzeniom	judzić	ger:pl:dat:n2:imperf:aff		
 judzeniu	judzić	ger:sg:dat.loc:n2:imperf:aff		
 judzeń	judzić	ger:pl:gen:n2:imperf:aff		
 judzę	judzić	fin:sg:pri:imperf		
@@ -36442,12 +36500,13 @@ juhaszącymi	juhasić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 juhaszącym	juhasić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 juhaszącym	juhasić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 juhaszą	juhasić	fin:pl:ter:imperf		
+juhaszeniach	juhasić	ger:pl:loc:n2:imperf:aff		
 juhaszenia	juhasić	ger:pl:nom.acc:n2:imperf:aff		
 juhaszenia	juhasić	ger:sg:gen:n2:imperf:aff		
 juhaszeniami	juhasić	ger:pl:inst:n2:imperf:aff		
 juhaszenie	juhasić	ger:sg:nom.acc:n2:imperf:aff		
 juhaszeniem	juhasić	ger:sg:inst:n2:imperf:aff		
-juhaszeniom	juhasić	ger:pl:dat.loc:n2:imperf:aff		
+juhaszeniom	juhasić	ger:pl:dat:n2:imperf:aff		
 juhaszeniu	juhasić	ger:sg:dat.loc:n2:imperf:aff		
 juhaszeń	juhasić	ger:pl:gen:n2:imperf:aff		
 juhaszę	juhasić	fin:sg:pri:imperf		
@@ -36545,12 +36604,13 @@ juhasowały	juhasować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 juhasowały	juhasować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 juhasowałyście	juhasować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 juhasowałyśmy	juhasować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+juhasowaniach	juhasować	ger:pl:loc:n2:imperf:aff		
 juhasowania	juhasować	ger:pl:nom.acc:n2:imperf:aff		
 juhasowania	juhasować	ger:sg:gen:n2:imperf:aff		
 juhasowaniami	juhasować	ger:pl:inst:n2:imperf:aff		
 juhasowanie	juhasować	ger:sg:nom.acc:n2:imperf:aff		
 juhasowaniem	juhasować	ger:sg:inst:n2:imperf:aff		
-juhasowaniom	juhasować	ger:pl:dat.loc:n2:imperf:aff		
+juhasowaniom	juhasować	ger:pl:dat:n2:imperf:aff		
 juhasowaniu	juhasować	ger:sg:dat.loc:n2:imperf:aff		
 juhasowano	juhasować	imps:imperf		
 juhasowań	juhasować	ger:pl:gen:n2:imperf:aff		
@@ -36940,6 +37000,38 @@ julijskości	julijskość	subst:sg:voc:f
 julijskościom	julijskość	subst:pl:dat:f		
 julijskość	julijskość	subst:sg:acc:f		
 julijskość	julijskość	subst:sg:nom:f		
+jumach	juma	subst:pl:loc:f	pospolita	pot.|środ.
+juma	juma	subst:sg:nom:f	pospolita	pot.|środ.
+jumami	juma	subst:pl:inst:f	pospolita	pot.|środ.
+jumą	juma	subst:sg:inst:f	pospolita	pot.|środ.
+jumę	juma	subst:sg:acc:f	pospolita	pot.|środ.
+jumie	juma	subst:sg:dat:f	pospolita	pot.|środ.
+jumie	juma	subst:sg:loc:f	pospolita	pot.|środ.
+jum	juma	subst:pl:gen:f	pospolita	pot.|środ.
+jumo	juma	subst:sg:voc:f	pospolita	pot.|środ.
+jumom	juma	subst:pl:dat:f	pospolita	pot.|środ.
+jumy	juma	subst:pl:acc:f	pospolita	pot.|środ.
+jumy	juma	subst:pl:nom:f	pospolita	pot.|środ.
+jumy	juma	subst:pl:voc:f	pospolita	pot.|środ.
+jumy	juma	subst:sg:gen:f	pospolita	pot.|środ.
+jumaczach	jumacz	subst:pl:loc:m1	pospolita	pot.|środ.
+jumacza	jumacz	subst:sg:acc:m1	pospolita	pot.|środ.
+jumacza	jumacz	subst:sg:gen:m1	pospolita	pot.|środ.
+jumaczami	jumacz	subst:pl:inst:m1	pospolita	pot.|środ.
+jumacze	jumacz	depr:pl:nom:m2	pospolita	pot.|środ.
+jumacze	jumacz	depr:pl:voc:m2	pospolita	pot.|środ.
+jumacze	jumacz	subst:pl:nom:m1	pospolita	pot.|środ.
+jumacze	jumacz	subst:pl:voc:m1	pospolita	pot.|środ.
+jumaczem	jumacz	subst:sg:inst:m1	pospolita	pot.|środ.
+jumacz	jumacz	subst:sg:nom:m1	pospolita	pot.|środ.
+jumaczom	jumacz	subst:pl:dat:m1	pospolita	pot.|środ.
+jumaczowi	jumacz	subst:sg:dat:m1	pospolita	pot.|środ.
+jumaczów	jumacz	subst:pl:acc:m1	pospolita	pot.|środ.
+jumaczów	jumacz	subst:pl:gen:m1	pospolita	pot.|środ.
+jumaczu	jumacz	subst:sg:loc:m1	pospolita	pot.|środ.
+jumaczu	jumacz	subst:sg:voc:m1	pospolita	pot.|środ.
+jumaczy	jumacz	subst:pl:acc:m1	pospolita	pot.|środ.
+jumaczy	jumacz	subst:pl:gen:m1	pospolita	pot.|środ.
 jumacie	jumać	fin:pl:sec:imperf		pot.
 jumać	jumać	inf:imperf		pot.
 jumająca	jumać	pact:sg:nom.voc:f:imperf:aff		
@@ -37009,13 +37101,14 @@ jumanej	jumać	ppas:sg:gen.dat.loc:f:imperf:aff
 jumane	jumać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 jumane	jumać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jumanemu	jumać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jumaniach	jumać	ger:pl:loc:n2:imperf:aff		
 jumania	jumać	ger:pl:nom.acc:n2:imperf:aff		
 jumania	jumać	ger:sg:gen:n2:imperf:aff		
 jumaniami	jumać	ger:pl:inst:n2:imperf:aff		
 jumanie	jumać	ger:sg:nom.acc:n2:imperf:aff		
 jumaniem	jumać	ger:sg:inst:n2:imperf:aff		
 jumani	jumać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jumaniom	jumać	ger:pl:dat.loc:n2:imperf:aff		
+jumaniom	jumać	ger:pl:dat:n2:imperf:aff		
 jumaniu	jumać	ger:sg:dat.loc:n2:imperf:aff		
 jumano	jumać	imps:imperf		pot.
 jumanych	jumać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -37240,12 +37333,13 @@ junaczącym	junaczyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 junaczącym	junaczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 junaczą	junaczyć	fin:pl:ter:imperf		daw.
 junaczcie	junaczyć	impt:pl:sec:imperf		daw.
+junaczeniach	junaczyć	ger:pl:loc:n2:imperf:aff		
 junaczenia	junaczyć	ger:pl:nom.acc:n2:imperf:aff		
 junaczenia	junaczyć	ger:sg:gen:n2:imperf:aff		
 junaczeniami	junaczyć	ger:pl:inst:n2:imperf:aff		
 junaczenie	junaczyć	ger:sg:nom.acc:n2:imperf:aff		
 junaczeniem	junaczyć	ger:sg:inst:n2:imperf:aff		
-junaczeniom	junaczyć	ger:pl:dat.loc:n2:imperf:aff		
+junaczeniom	junaczyć	ger:pl:dat:n2:imperf:aff		
 junaczeniu	junaczyć	ger:sg:dat.loc:n2:imperf:aff		
 junaczeń	junaczyć	ger:pl:gen:n2:imperf:aff		
 junaczę	junaczyć	fin:sg:pri:imperf		daw.
@@ -37359,12 +37453,13 @@ junakowały	junakować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 junakowały	junakować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 junakowałyście	junakować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 junakowałyśmy	junakować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+junakowaniach	junakować	ger:pl:loc:n2:imperf:aff		
 junakowania	junakować	ger:pl:nom.acc:n2:imperf:aff		
 junakowania	junakować	ger:sg:gen:n2:imperf:aff		
 junakowaniami	junakować	ger:pl:inst:n2:imperf:aff		
 junakowanie	junakować	ger:sg:nom.acc:n2:imperf:aff		
 junakowaniem	junakować	ger:sg:inst:n2:imperf:aff		
-junakowaniom	junakować	ger:pl:dat.loc:n2:imperf:aff		
+junakowaniom	junakować	ger:pl:dat:n2:imperf:aff		
 junakowaniu	junakować	ger:sg:dat.loc:n2:imperf:aff		
 junakowano	junakować	imps:imperf		
 junakowań	junakować	ger:pl:gen:n2:imperf:aff		
@@ -38085,12 +38180,13 @@ jurorowały	jurorować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 jurorowały	jurorować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 jurorowałyście	jurorować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 jurorowałyśmy	jurorować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+jurorowaniach	jurorować	ger:pl:loc:n2:imperf:aff		
 jurorowania	jurorować	ger:pl:nom.acc:n2:imperf:aff		
 jurorowania	jurorować	ger:sg:gen:n2:imperf:aff		
 jurorowaniami	jurorować	ger:pl:inst:n2:imperf:aff		
 jurorowanie	jurorować	ger:sg:nom.acc:n2:imperf:aff		
 jurorowaniem	jurorować	ger:sg:inst:n2:imperf:aff		
-jurorowaniom	jurorować	ger:pl:dat.loc:n2:imperf:aff		
+jurorowaniom	jurorować	ger:pl:dat:n2:imperf:aff		
 jurorowaniu	jurorować	ger:sg:dat.loc:n2:imperf:aff		
 jurorowano	jurorować	imps:imperf		
 jurorowań	jurorować	ger:pl:gen:n2:imperf:aff		
@@ -38204,13 +38300,14 @@ jurowanej	jurować	ppas:sg:gen.dat.loc:f:imperf:aff
 jurowane	jurować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 jurowane	jurować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 jurowanemu	jurować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jurowaniach	jurować	ger:pl:loc:n2:imperf:aff		
 jurowania	jurować	ger:pl:nom.acc:n2:imperf:aff		
 jurowania	jurować	ger:sg:gen:n2:imperf:aff		
 jurowaniami	jurować	ger:pl:inst:n2:imperf:aff		
 jurowanie	jurować	ger:sg:nom.acc:n2:imperf:aff		
 jurowaniem	jurować	ger:sg:inst:n2:imperf:aff		
 jurowani	jurować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jurowaniom	jurować	ger:pl:dat.loc:n2:imperf:aff		
+jurowaniom	jurować	ger:pl:dat:n2:imperf:aff		
 jurowaniu	jurować	ger:sg:dat.loc:n2:imperf:aff		
 jurowano	jurować	imps:imperf		rzad.
 jurowanych	jurować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -38523,12 +38620,13 @@ jurystowały	jurystować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 jurystowały	jurystować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 jurystowałyście	jurystować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 jurystowałyśmy	jurystować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+jurystowaniach	jurystować	ger:pl:loc:n2:imperf:aff		
 jurystowania	jurystować	ger:pl:nom.acc:n2:imperf:aff		
 jurystowania	jurystować	ger:sg:gen:n2:imperf:aff		
 jurystowaniami	jurystować	ger:pl:inst:n2:imperf:aff		
 jurystowanie	jurystować	ger:sg:nom.acc:n2:imperf:aff		
 jurystowaniem	jurystować	ger:sg:inst:n2:imperf:aff		
-jurystowaniom	jurystować	ger:pl:dat.loc:n2:imperf:aff		
+jurystowaniom	jurystować	ger:pl:dat:n2:imperf:aff		
 jurystowaniu	jurystować	ger:sg:dat.loc:n2:imperf:aff		
 jurystowano	jurystować	imps:imperf		daw.
 jurystowań	jurystować	ger:pl:gen:n2:imperf:aff		
@@ -38655,13 +38753,14 @@ jurzącym	jurzyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 jurzącym	jurzyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jurzą	jurzyć	fin:pl:ter:imperf		daw.
 jurzcie	jurzyć	impt:pl:sec:imperf		daw.
+jurzeniach	jurzyć	ger:pl:loc:n2:imperf:aff		
 jurzenia	jurzyć	ger:pl:nom.acc:n2:imperf:aff		
 jurzenia	jurzyć	ger:sg:gen:n2:imperf:aff		
 jurzeniami	jurzyć	ger:pl:inst:n2:imperf:aff		
 jurzenie	jurzyć	ger:sg:nom.acc:n2:imperf:aff		
 jurzeniem	jurzyć	ger:sg:inst:n2:imperf:aff		
 jurzeni	jurzyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
-jurzeniom	jurzyć	ger:pl:dat.loc:n2:imperf:aff		
+jurzeniom	jurzyć	ger:pl:dat:n2:imperf:aff		
 jurzeniu	jurzyć	ger:sg:dat.loc:n2:imperf:aff		
 jurzeń	jurzyć	ger:pl:gen:n2:imperf:aff		
 jurzę	jurzyć	fin:sg:pri:imperf		daw.
@@ -38798,13 +38897,14 @@ justowanej	justować	ppas:sg:gen.dat.loc:f:imperf:aff
 justowane	justować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 justowane	justować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 justowanemu	justować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+justowaniach	justować	ger:pl:loc:n2:imperf:aff		
 justowania	justować	ger:pl:nom.acc:n2:imperf:aff		
 justowania	justować	ger:sg:gen:n2:imperf:aff		
 justowaniami	justować	ger:pl:inst:n2:imperf:aff		
 justowanie	justować	ger:sg:nom.acc:n2:imperf:aff		
 justowaniem	justować	ger:sg:inst:n2:imperf:aff		
 justowani	justować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-justowaniom	justować	ger:pl:dat.loc:n2:imperf:aff		
+justowaniom	justować	ger:pl:dat:n2:imperf:aff		
 justowaniu	justować	ger:sg:dat.loc:n2:imperf:aff		
 justowano	justować	imps:imperf		
 justowanych	justować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -38970,13 +39070,14 @@ justyfikowanej	justyfikować	ppas:sg:gen.dat.loc:f:imperf:aff
 justyfikowane	justyfikować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 justyfikowane	justyfikować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 justyfikowanemu	justyfikować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+justyfikowaniach	justyfikować	ger:pl:loc:n2:imperf:aff		
 justyfikowania	justyfikować	ger:pl:nom.acc:n2:imperf:aff		
 justyfikowania	justyfikować	ger:sg:gen:n2:imperf:aff		
 justyfikowaniami	justyfikować	ger:pl:inst:n2:imperf:aff		
 justyfikowanie	justyfikować	ger:sg:nom.acc:n2:imperf:aff		
 justyfikowaniem	justyfikować	ger:sg:inst:n2:imperf:aff		
 justyfikowani	justyfikować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-justyfikowaniom	justyfikować	ger:pl:dat.loc:n2:imperf:aff		
+justyfikowaniom	justyfikować	ger:pl:dat:n2:imperf:aff		
 justyfikowaniu	justyfikować	ger:sg:dat.loc:n2:imperf:aff		
 justyfikowano	justyfikować	imps:imperf		daw.
 justyfikowanych	justyfikować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -39114,13 +39215,14 @@ juszącym	juszyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 juszącym	juszyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 juszą	juszyć	fin:pl:ter:imperf		daw.
 juszcie	juszyć	impt:pl:sec:imperf		daw.
+juszeniach	juszyć	ger:pl:loc:n2:imperf:aff		
 juszenia	juszyć	ger:pl:nom.acc:n2:imperf:aff		
 juszenia	juszyć	ger:sg:gen:n2:imperf:aff		
 juszeniami	juszyć	ger:pl:inst:n2:imperf:aff		
 juszenie	juszyć	ger:sg:nom.acc:n2:imperf:aff		
 juszeniem	juszyć	ger:sg:inst:n2:imperf:aff		
 juszeni	juszyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
-juszeniom	juszyć	ger:pl:dat.loc:n2:imperf:aff		
+juszeniom	juszyć	ger:pl:dat:n2:imperf:aff		
 juszeniu	juszyć	ger:sg:dat.loc:n2:imperf:aff		
 juszeń	juszyć	ger:pl:gen:n2:imperf:aff		
 juszę	juszyć	fin:sg:pri:imperf		daw.

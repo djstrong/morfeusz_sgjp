@@ -345,12 +345,13 @@
 źganemu	źgać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 źgane	źgać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 źgane	źgać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+źganiach	źgać	ger:pl:loc:n2:imperf:aff		
 źganiami	źgać	ger:pl:inst:n2:imperf:aff		
 źgania	źgać	ger:pl:nom.acc:n2:imperf:aff		
 źgania	źgać	ger:sg:gen:n2:imperf:aff		
 źganiem	źgać	ger:sg:inst:n2:imperf:aff		
 źganie	źgać	ger:sg:nom.acc:n2:imperf:aff		
-źganiom	źgać	ger:pl:dat.loc:n2:imperf:aff		
+źganiom	źgać	ger:pl:dat:n2:imperf:aff		
 źganiu	źgać	ger:sg:dat.loc:n2:imperf:aff		
 źgani	źgać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 źgano	źgać	imps:imperf		
@@ -407,12 +408,13 @@
 źgniemy	źgnąć	fin:pl:pri:perf		
 źgniesz	źgnąć	fin:sg:sec:perf		
 źgnie	źgnąć	fin:sg:ter:perf		
+źgnięciach	źgnąć	ger:pl:loc:n2:perf:aff		
 źgnięciami	źgnąć	ger:pl:inst:n2:perf:aff		
 źgnięcia	źgnąć	ger:pl:nom.acc:n2:perf:aff		
 źgnięcia	źgnąć	ger:sg:gen:n2:perf:aff		
 źgnięciem	źgnąć	ger:sg:inst:n2:perf:aff		
 źgnięcie	źgnąć	ger:sg:nom.acc:n2:perf:aff		
-źgnięciom	źgnąć	ger:pl:dat.loc:n2:perf:aff		
+źgnięciom	źgnąć	ger:pl:dat:n2:perf:aff		
 źgnięciu	źgnąć	ger:sg:dat.loc:n2:perf:aff		
 źgnięci	źgnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
 źgnięć	źgnąć	ger:pl:gen:n2:perf:aff		
@@ -673,12 +675,13 @@
 źrebią	źrebić	fin:pl:ter:imperf		
 źrebicie	źrebić	fin:pl:sec:imperf		
 źrebić	źrebić	inf:imperf		
+źrebieniach	źrebić	ger:pl:loc:n2:imperf:aff		
 źrebieniami	źrebić	ger:pl:inst:n2:imperf:aff		
 źrebienia	źrebić	ger:pl:nom.acc:n2:imperf:aff		
 źrebienia	źrebić	ger:sg:gen:n2:imperf:aff		
 źrebieniem	źrebić	ger:sg:inst:n2:imperf:aff		
 źrebienie	źrebić	ger:sg:nom.acc:n2:imperf:aff		
-źrebieniom	źrebić	ger:pl:dat.loc:n2:imperf:aff		
+źrebieniom	źrebić	ger:pl:dat:n2:imperf:aff		
 źrebieniu	źrebić	ger:sg:dat.loc:n2:imperf:aff		
 źrebień	źrebić	ger:pl:gen:n2:imperf:aff		
 źrebię	źrebić	fin:sg:pri:imperf		
@@ -886,12 +889,13 @@
 źrejący	źreć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
 źrejący	źreć:v	pact:sg:acc:m3:imperf:aff		
 źrejący	źreć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+źreniach	źreć:v	ger:pl:loc:n2:imperf:aff		
 źreniami	źreć:v	ger:pl:inst:n2:imperf:aff		
 źrenia	źreć:v	ger:pl:nom.acc:n2:imperf:aff		
 źrenia	źreć:v	ger:sg:gen:n2:imperf:aff		
 źreniem	źreć:v	ger:sg:inst:n2:imperf:aff		
 źrenie	źreć:v	ger:sg:nom.acc:n2:imperf:aff		
-źreniom	źreć:v	ger:pl:dat.loc:n2:imperf:aff		
+źreniom	źreć:v	ger:pl:dat:n2:imperf:aff		
 źreniu	źreć:v	ger:sg:dat.loc:n2:imperf:aff		
 źreń	źreć:v	ger:pl:gen:n2:imperf:aff		
 źrąca	źreć:v	pact:sg:nom.voc:f:imperf:aff		
@@ -1167,12 +1171,13 @@
 źródlany	źródlany	adj:sg:acc:m3:pos		
 źródlany	źródlany	adj:sg:nom.voc:m1.m2.m3:pos		
 źródlą	źródlić	fin:pl:ter:perf		daw.
+źródleniach	źródlić	ger:pl:loc:n2:perf:aff		
 źródleniami	źródlić	ger:pl:inst:n2:perf:aff		
 źródlenia	źródlić	ger:pl:nom.acc:n2:perf:aff		
 źródlenia	źródlić	ger:sg:gen:n2:perf:aff		
 źródleniem	źródlić	ger:sg:inst:n2:perf:aff		
 źródlenie	źródlić	ger:sg:nom.acc:n2:perf:aff		
-źródleniom	źródlić	ger:pl:dat.loc:n2:perf:aff		
+źródleniom	źródlić	ger:pl:dat:n2:perf:aff		
 źródleniu	źródlić	ger:sg:dat.loc:n2:perf:aff		
 źródleń	źródlić	ger:pl:gen:n2:perf:aff		
 źródlę	źródlić	fin:sg:pri:perf		daw.
@@ -1706,12 +1711,13 @@
 źrzeliśmy	źrzeć	praet:pl:m1.p1:pri:imperf		daw.
 źrzeli	źrzeć	praet:pl:m1.p1:imperf		daw.
 źrzeli	źrzeć	praet:pl:m1.p1:ter:imperf		daw.
+źrzeniach	źrzeć	ger:pl:loc:n2:imperf:aff		
 źrzeniami	źrzeć	ger:pl:inst:n2:imperf:aff		
 źrzenia	źrzeć	ger:pl:nom.acc:n2:imperf:aff		
 źrzenia	źrzeć	ger:sg:gen:n2:imperf:aff		
 źrzeniem	źrzeć	ger:sg:inst:n2:imperf:aff		
 źrzenie	źrzeć	ger:sg:nom.acc:n2:imperf:aff		
-źrzeniom	źrzeć	ger:pl:dat.loc:n2:imperf:aff		
+źrzeniom	źrzeć	ger:pl:dat:n2:imperf:aff		
 źrzeniu	źrzeć	ger:sg:dat.loc:n2:imperf:aff		
 źrzeń	źrzeć	ger:pl:gen:n2:imperf:aff		
 źrzenicach	źrzenica	subst:pl:loc:f	pospolita	daw.

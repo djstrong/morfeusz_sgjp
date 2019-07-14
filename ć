@@ -81,13 +81,14 @@
 ćkanego	ćkać	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćkanej	ćkać	ppas:sg:gen.dat.loc:f:imperf:aff		
 ćkanemu	ćkać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćkaniach	ćkać	ger:pl:loc:n2:imperf:aff		
 ćkania	ćkać	ger:pl:nom.acc:n2:imperf:aff		
 ćkania	ćkać	ger:sg:gen:n2:imperf:aff		
 ćkaniami	ćkać	ger:pl:inst:n2:imperf:aff		
 ćkani	ćkać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ćkanie	ćkać	ger:sg:nom.acc:n2:imperf:aff		
 ćkaniem	ćkać	ger:sg:inst:n2:imperf:aff		
-ćkaniom	ćkać	ger:pl:dat.loc:n2:imperf:aff		
+ćkaniom	ćkać	ger:pl:dat:n2:imperf:aff		
 ćkaniu	ćkać	ger:sg:dat.loc:n2:imperf:aff		
 ćkano	ćkać	imps:imperf		
 ćkanych	ćkać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -190,13 +191,14 @@
 ćmiącym	ćmić:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćmiącym	ćmić:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 ćmiącymi	ćmić:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ćmieniach	ćmić:v	ger:pl:loc:n2:imperf:aff		
 ćmienia	ćmić:v	ger:pl:nom.acc:n2:imperf:aff		
 ćmienia	ćmić:v	ger:sg:gen:n2:imperf:aff		
 ćmieniami	ćmić:v	ger:pl:inst:n2:imperf:aff		
 ćmieni	ćmić:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ćmienie	ćmić:v	ger:sg:nom.acc:n2:imperf:aff		
 ćmieniem	ćmić:v	ger:sg:inst:n2:imperf:aff		
-ćmieniom	ćmić:v	ger:pl:dat.loc:n2:imperf:aff		
+ćmieniom	ćmić:v	ger:pl:dat:n2:imperf:aff		
 ćmieniu	ćmić:v	ger:sg:dat.loc:n2:imperf:aff		
 ćmień	ćmić:v	ger:pl:gen:n2:imperf:aff		
 ćmiona	ćmić:v	ppas:sg:nom.voc:f:imperf:aff		
@@ -389,13 +391,14 @@
 ćmokanego	ćmokać	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćmokanej	ćmokać	ppas:sg:gen.dat.loc:f:imperf:aff		
 ćmokanemu	ćmokać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćmokaniach	ćmokać	ger:pl:loc:n2:imperf:aff		
 ćmokania	ćmokać	ger:pl:nom.acc:n2:imperf:aff		
 ćmokania	ćmokać	ger:sg:gen:n2:imperf:aff		
 ćmokaniami	ćmokać	ger:pl:inst:n2:imperf:aff		
 ćmokani	ćmokać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ćmokanie	ćmokać	ger:sg:nom.acc:n2:imperf:aff		
 ćmokaniem	ćmokać	ger:sg:inst:n2:imperf:aff		
-ćmokaniom	ćmokać	ger:pl:dat.loc:n2:imperf:aff		
+ćmokaniom	ćmokać	ger:pl:dat:n2:imperf:aff		
 ćmokaniu	ćmokać	ger:sg:dat.loc:n2:imperf:aff		
 ćmokano	ćmokać	imps:imperf		
 ćmokanych	ćmokać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -450,13 +453,14 @@
 ćmoknie	ćmoknąć	fin:sg:ter:perf		
 ćmokniemy	ćmoknąć	fin:pl:pri:perf		
 ćmokniesz	ćmoknąć	fin:sg:sec:perf		
+ćmoknięciach	ćmoknąć	ger:pl:loc:n2:perf:aff		
 ćmoknięcia	ćmoknąć	ger:pl:nom.acc:n2:perf:aff		
 ćmoknięcia	ćmoknąć	ger:sg:gen:n2:perf:aff		
 ćmoknięciami	ćmoknąć	ger:pl:inst:n2:perf:aff		
 ćmoknięci	ćmoknąć	ppas:pl:nom.voc:m1.p1:perf:aff		
 ćmoknięcie	ćmoknąć	ger:sg:nom.acc:n2:perf:aff		
 ćmoknięciem	ćmoknąć	ger:sg:inst:n2:perf:aff		
-ćmoknięciom	ćmoknąć	ger:pl:dat.loc:n2:perf:aff		
+ćmoknięciom	ćmoknąć	ger:pl:dat:n2:perf:aff		
 ćmoknięciu	ćmoknąć	ger:sg:dat.loc:n2:perf:aff		
 ćmoknięć	ćmoknąć	ger:pl:gen:n2:perf:aff		
 ćmoknięta	ćmoknąć	ppas:sg:nom.voc:f:perf:aff		
@@ -581,12 +585,13 @@
 ćpałyśmy	ćpać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 ćpam	ćpać	fin:sg:pri:imperf		
 ćpamy	ćpać	fin:pl:pri:imperf		
+ćpaniach	ćpać	ger:pl:loc:n2:imperf:aff		
 ćpania	ćpać	ger:pl:nom.acc:n2:imperf:aff		
 ćpania	ćpać	ger:sg:gen:n2:imperf:aff		
 ćpaniami	ćpać	ger:pl:inst:n2:imperf:aff		
 ćpanie	ćpać	ger:sg:nom.acc:n2:imperf:aff		
 ćpaniem	ćpać	ger:sg:inst:n2:imperf:aff		
-ćpaniom	ćpać	ger:pl:dat.loc:n2:imperf:aff		
+ćpaniom	ćpać	ger:pl:dat:n2:imperf:aff		
 ćpaniu	ćpać	ger:sg:dat.loc:n2:imperf:aff		
 ćpano	ćpać	imps:imperf		
 ćpań	ćpać	ger:pl:gen:n2:imperf:aff		
@@ -771,13 +776,14 @@
 ćwiartkowanego	ćwiartkować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwiartkowanej	ćwiartkować	ppas:sg:gen.dat.loc:f:imperf:aff		
 ćwiartkowanemu	ćwiartkować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwiartkowaniach	ćwiartkować	ger:pl:loc:n2:imperf:aff		
 ćwiartkowania	ćwiartkować	ger:pl:nom.acc:n2:imperf:aff		
 ćwiartkowania	ćwiartkować	ger:sg:gen:n2:imperf:aff		
 ćwiartkowaniami	ćwiartkować	ger:pl:inst:n2:imperf:aff		
 ćwiartkowani	ćwiartkować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ćwiartkowanie	ćwiartkować	ger:sg:nom.acc:n2:imperf:aff		
 ćwiartkowaniem	ćwiartkować	ger:sg:inst:n2:imperf:aff		
-ćwiartkowaniom	ćwiartkować	ger:pl:dat.loc:n2:imperf:aff		
+ćwiartkowaniom	ćwiartkować	ger:pl:dat:n2:imperf:aff		
 ćwiartkowaniu	ćwiartkować	ger:sg:dat.loc:n2:imperf:aff		
 ćwiartkowano	ćwiartkować	imps:imperf		rzad.
 ćwiartkowanych	ćwiartkować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -896,13 +902,14 @@
 ćwiartowanego	ćwiartować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwiartowanej	ćwiartować	ppas:sg:gen.dat.loc:f:imperf:aff		
 ćwiartowanemu	ćwiartować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwiartowaniach	ćwiartować	ger:pl:loc:n2:imperf:aff		
 ćwiartowania	ćwiartować	ger:pl:nom.acc:n2:imperf:aff		
 ćwiartowania	ćwiartować	ger:sg:gen:n2:imperf:aff		
 ćwiartowaniami	ćwiartować	ger:pl:inst:n2:imperf:aff		
 ćwiartowani	ćwiartować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ćwiartowanie	ćwiartować	ger:sg:nom.acc:n2:imperf:aff		
 ćwiartowaniem	ćwiartować	ger:sg:inst:n2:imperf:aff		
-ćwiartowaniom	ćwiartować	ger:pl:dat.loc:n2:imperf:aff		
+ćwiartowaniom	ćwiartować	ger:pl:dat:n2:imperf:aff		
 ćwiartowaniu	ćwiartować	ger:sg:dat.loc:n2:imperf:aff		
 ćwiartowano	ćwiartować	imps:imperf		
 ćwiartowanych	ćwiartować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -1043,12 +1050,13 @@
 ćwichałyśmy	ćwichać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
 ćwicham	ćwichać	fin:sg:pri:imperf		rzad.
 ćwichamy	ćwichać	fin:pl:pri:imperf		rzad.
+ćwichaniach	ćwichać	ger:pl:loc:n2:imperf:aff		
 ćwichania	ćwichać	ger:pl:nom.acc:n2:imperf:aff		
 ćwichania	ćwichać	ger:sg:gen:n2:imperf:aff		
 ćwichaniami	ćwichać	ger:pl:inst:n2:imperf:aff		
 ćwichanie	ćwichać	ger:sg:nom.acc:n2:imperf:aff		
 ćwichaniem	ćwichać	ger:sg:inst:n2:imperf:aff		
-ćwichaniom	ćwichać	ger:pl:dat.loc:n2:imperf:aff		
+ćwichaniom	ćwichać	ger:pl:dat:n2:imperf:aff		
 ćwichaniu	ćwichać	ger:sg:dat.loc:n2:imperf:aff		
 ćwichano	ćwichać	imps:imperf		rzad.
 ćwichań	ćwichać	ger:pl:gen:n2:imperf:aff		
@@ -1096,12 +1104,13 @@
 ćwichnie	ćwichnąć	fin:sg:ter:perf		przest.
 ćwichniemy	ćwichnąć	fin:pl:pri:perf		przest.
 ćwichniesz	ćwichnąć	fin:sg:sec:perf		przest.
+ćwichnięciach	ćwichnąć	ger:pl:loc:n2:perf:aff		
 ćwichnięcia	ćwichnąć	ger:pl:nom.acc:n2:perf:aff		
 ćwichnięcia	ćwichnąć	ger:sg:gen:n2:perf:aff		
 ćwichnięciami	ćwichnąć	ger:pl:inst:n2:perf:aff		
 ćwichnięcie	ćwichnąć	ger:sg:nom.acc:n2:perf:aff		
 ćwichnięciem	ćwichnąć	ger:sg:inst:n2:perf:aff		
-ćwichnięciom	ćwichnąć	ger:pl:dat.loc:n2:perf:aff		
+ćwichnięciom	ćwichnąć	ger:pl:dat:n2:perf:aff		
 ćwichnięciu	ćwichnąć	ger:sg:dat.loc:n2:perf:aff		
 ćwichnięć	ćwichnąć	ger:pl:gen:n2:perf:aff		
 ćwichnięto	ćwichnąć	imps:perf		przest.
@@ -1239,13 +1248,14 @@
 ćwiczą	ćwiczyć	fin:pl:ter:imperf		
 ćwiczcie	ćwiczyć	impt:pl:sec:imperf		
 ćwicz	ćwiczyć	impt:sg:sec:imperf		
+ćwiczeniach	ćwiczyć	ger:pl:loc:n2:imperf:aff		
 ćwiczenia	ćwiczyć	ger:pl:nom.acc:n2:imperf:aff		
 ćwiczenia	ćwiczyć	ger:sg:gen:n2:imperf:aff		
 ćwiczeniami	ćwiczyć	ger:pl:inst:n2:imperf:aff		
 ćwiczeni	ćwiczyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ćwiczenie	ćwiczyć	ger:sg:nom.acc:n2:imperf:aff		
 ćwiczeniem	ćwiczyć	ger:sg:inst:n2:imperf:aff		
-ćwiczeniom	ćwiczyć	ger:pl:dat.loc:n2:imperf:aff		
+ćwiczeniom	ćwiczyć	ger:pl:dat:n2:imperf:aff		
 ćwiczeniu	ćwiczyć	ger:sg:dat.loc:n2:imperf:aff		
 ćwiczeń	ćwiczyć	ger:pl:gen:n2:imperf:aff		
 ćwiczę	ćwiczyć	fin:sg:pri:imperf		
@@ -1456,13 +1466,14 @@
 ćwiekowanego	ćwiekować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwiekowanej	ćwiekować	ppas:sg:gen.dat.loc:f:imperf:aff		
 ćwiekowanemu	ćwiekować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwiekowaniach	ćwiekować	ger:pl:loc:n2:imperf:aff		
 ćwiekowania	ćwiekować	ger:pl:nom.acc:n2:imperf:aff		
 ćwiekowania	ćwiekować	ger:sg:gen:n2:imperf:aff		
 ćwiekowaniami	ćwiekować	ger:pl:inst:n2:imperf:aff		
 ćwiekowani	ćwiekować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ćwiekowanie	ćwiekować	ger:sg:nom.acc:n2:imperf:aff		
 ćwiekowaniem	ćwiekować	ger:sg:inst:n2:imperf:aff		
-ćwiekowaniom	ćwiekować	ger:pl:dat.loc:n2:imperf:aff		
+ćwiekowaniom	ćwiekować	ger:pl:dat:n2:imperf:aff		
 ćwiekowaniu	ćwiekować	ger:sg:dat.loc:n2:imperf:aff		
 ćwiekowano	ćwiekować	imps:imperf		
 ćwiekowanych	ćwiekować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -2056,12 +2067,13 @@
 ćwierkałyśmy	ćwierkać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 ćwierkam	ćwierkać	fin:sg:pri:imperf		
 ćwierkamy	ćwierkać	fin:pl:pri:imperf		
+ćwierkaniach	ćwierkać	ger:pl:loc:n2:imperf:aff		
 ćwierkania	ćwierkać	ger:pl:nom.acc:n2:imperf:aff		
 ćwierkania	ćwierkać	ger:sg:gen:n2:imperf:aff		
 ćwierkaniami	ćwierkać	ger:pl:inst:n2:imperf:aff		
 ćwierkanie	ćwierkać	ger:sg:nom.acc:n2:imperf:aff		
 ćwierkaniem	ćwierkać	ger:sg:inst:n2:imperf:aff		
-ćwierkaniom	ćwierkać	ger:pl:dat.loc:n2:imperf:aff		
+ćwierkaniom	ćwierkać	ger:pl:dat:n2:imperf:aff		
 ćwierkaniu	ćwierkać	ger:sg:dat.loc:n2:imperf:aff		
 ćwierkano	ćwierkać	imps:imperf		
 ćwierkań	ćwierkać	ger:pl:gen:n2:imperf:aff		
@@ -2148,12 +2160,13 @@
 ćwierknie	ćwierknąć	fin:sg:ter:perf		
 ćwierkniemy	ćwierknąć	fin:pl:pri:perf		
 ćwierkniesz	ćwierknąć	fin:sg:sec:perf		
+ćwierknięciach	ćwierknąć	ger:pl:loc:n2:perf:aff		
 ćwierknięcia	ćwierknąć	ger:pl:nom.acc:n2:perf:aff		
 ćwierknięcia	ćwierknąć	ger:sg:gen:n2:perf:aff		
 ćwierknięciami	ćwierknąć	ger:pl:inst:n2:perf:aff		
 ćwierknięcie	ćwierknąć	ger:sg:nom.acc:n2:perf:aff		
 ćwierknięciem	ćwierknąć	ger:sg:inst:n2:perf:aff		
-ćwierknięciom	ćwierknąć	ger:pl:dat.loc:n2:perf:aff		
+ćwierknięciom	ćwierknąć	ger:pl:dat:n2:perf:aff		
 ćwierknięciu	ćwierknąć	ger:sg:dat.loc:n2:perf:aff		
 ćwierknięć	ćwierknąć	ger:pl:gen:n2:perf:aff		
 ćwierknięto	ćwierknąć	imps:perf		
@@ -2245,12 +2258,13 @@
 ćwierkotały	ćwierkotać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 ćwierkotałyście	ćwierkotać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 ćwierkotałyśmy	ćwierkotać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+ćwierkotaniach	ćwierkotać	ger:pl:loc:n2:imperf:aff		
 ćwierkotania	ćwierkotać	ger:pl:nom.acc:n2:imperf:aff		
 ćwierkotania	ćwierkotać	ger:sg:gen:n2:imperf:aff		
 ćwierkotaniami	ćwierkotać	ger:pl:inst:n2:imperf:aff		
 ćwierkotanie	ćwierkotać	ger:sg:nom.acc:n2:imperf:aff		
 ćwierkotaniem	ćwierkotać	ger:sg:inst:n2:imperf:aff		
-ćwierkotaniom	ćwierkotać	ger:pl:dat.loc:n2:imperf:aff		
+ćwierkotaniom	ćwierkotać	ger:pl:dat:n2:imperf:aff		
 ćwierkotaniu	ćwierkotać	ger:sg:dat.loc:n2:imperf:aff		
 ćwierkotano	ćwierkotać	imps:imperf		
 ćwierkotań	ćwierkotać	ger:pl:gen:n2:imperf:aff		
@@ -2312,13 +2326,14 @@
 ćwiertowanego	ćwiertować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwiertowanej	ćwiertować	ppas:sg:gen.dat.loc:f:imperf:aff		
 ćwiertowanemu	ćwiertować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwiertowaniach	ćwiertować	ger:pl:loc:n2:imperf:aff		
 ćwiertowania	ćwiertować	ger:pl:nom.acc:n2:imperf:aff		
 ćwiertowania	ćwiertować	ger:sg:gen:n2:imperf:aff		
 ćwiertowaniami	ćwiertować	ger:pl:inst:n2:imperf:aff		
 ćwiertowani	ćwiertować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 ćwiertowanie	ćwiertować	ger:sg:nom.acc:n2:imperf:aff		
 ćwiertowaniem	ćwiertować	ger:sg:inst:n2:imperf:aff		
-ćwiertowaniom	ćwiertować	ger:pl:dat.loc:n2:imperf:aff		
+ćwiertowaniom	ćwiertować	ger:pl:dat:n2:imperf:aff		
 ćwiertowaniu	ćwiertować	ger:sg:dat.loc:n2:imperf:aff		
 ćwiertowano	ćwiertować	imps:imperf		przest.
 ćwiertowanych	ćwiertować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -2416,12 +2431,13 @@
 ćwikałyśmy	ćwikać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 ćwikam	ćwikać	fin:sg:pri:imperf		
 ćwikamy	ćwikać	fin:pl:pri:imperf		
+ćwikaniach	ćwikać	ger:pl:loc:n2:imperf:aff		
 ćwikania	ćwikać	ger:pl:nom.acc:n2:imperf:aff		
 ćwikania	ćwikać	ger:sg:gen:n2:imperf:aff		
 ćwikaniami	ćwikać	ger:pl:inst:n2:imperf:aff		
 ćwikanie	ćwikać	ger:sg:nom.acc:n2:imperf:aff		
 ćwikaniem	ćwikać	ger:sg:inst:n2:imperf:aff		
-ćwikaniom	ćwikać	ger:pl:dat.loc:n2:imperf:aff		
+ćwikaniom	ćwikać	ger:pl:dat:n2:imperf:aff		
 ćwikaniu	ćwikać	ger:sg:dat.loc:n2:imperf:aff		
 ćwikano	ćwikać	imps:imperf		
 ćwikań	ćwikać	ger:pl:gen:n2:imperf:aff		
@@ -2521,12 +2537,13 @@
 ćwiknie	ćwiknąć	fin:sg:ter:perf		rzad.
 ćwikniemy	ćwiknąć	fin:pl:pri:perf		rzad.
 ćwikniesz	ćwiknąć	fin:sg:sec:perf		rzad.
+ćwiknięciach	ćwiknąć	ger:pl:loc:n2:perf:aff		
 ćwiknięcia	ćwiknąć	ger:pl:nom.acc:n2:perf:aff		
 ćwiknięcia	ćwiknąć	ger:sg:gen:n2:perf:aff		
 ćwiknięciami	ćwiknąć	ger:pl:inst:n2:perf:aff		
 ćwiknięcie	ćwiknąć	ger:sg:nom.acc:n2:perf:aff		
 ćwiknięciem	ćwiknąć	ger:sg:inst:n2:perf:aff		
-ćwiknięciom	ćwiknąć	ger:pl:dat.loc:n2:perf:aff		
+ćwiknięciom	ćwiknąć	ger:pl:dat:n2:perf:aff		
 ćwiknięciu	ćwiknąć	ger:sg:dat.loc:n2:perf:aff		
 ćwiknięć	ćwiknąć	ger:pl:gen:n2:perf:aff		
 ćwiknięto	ćwiknąć	imps:perf		rzad.
@@ -2663,12 +2680,13 @@
 ćwirkałyśmy	ćwirkać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 ćwirkam	ćwirkać	fin:sg:pri:imperf		
 ćwirkamy	ćwirkać	fin:pl:pri:imperf		
+ćwirkaniach	ćwirkać	ger:pl:loc:n2:imperf:aff		
 ćwirkania	ćwirkać	ger:pl:nom.acc:n2:imperf:aff		
 ćwirkania	ćwirkać	ger:sg:gen:n2:imperf:aff		
 ćwirkaniami	ćwirkać	ger:pl:inst:n2:imperf:aff		
 ćwirkanie	ćwirkać	ger:sg:nom.acc:n2:imperf:aff		
 ćwirkaniem	ćwirkać	ger:sg:inst:n2:imperf:aff		
-ćwirkaniom	ćwirkać	ger:pl:dat.loc:n2:imperf:aff		
+ćwirkaniom	ćwirkać	ger:pl:dat:n2:imperf:aff		
 ćwirkaniu	ćwirkać	ger:sg:dat.loc:n2:imperf:aff		
 ćwirkano	ćwirkać	imps:imperf		
 ćwirkań	ćwirkać	ger:pl:gen:n2:imperf:aff		
@@ -2716,12 +2734,13 @@
 ćwirknie	ćwirknąć	fin:sg:ter:perf		
 ćwirkniemy	ćwirknąć	fin:pl:pri:perf		
 ćwirkniesz	ćwirknąć	fin:sg:sec:perf		
+ćwirknięciach	ćwirknąć	ger:pl:loc:n2:perf:aff		
 ćwirknięcia	ćwirknąć	ger:pl:nom.acc:n2:perf:aff		
 ćwirknięcia	ćwirknąć	ger:sg:gen:n2:perf:aff		
 ćwirknięciami	ćwirknąć	ger:pl:inst:n2:perf:aff		
 ćwirknięcie	ćwirknąć	ger:sg:nom.acc:n2:perf:aff		
 ćwirknięciem	ćwirknąć	ger:sg:inst:n2:perf:aff		
-ćwirknięciom	ćwirknąć	ger:pl:dat.loc:n2:perf:aff		
+ćwirknięciom	ćwirknąć	ger:pl:dat:n2:perf:aff		
 ćwirknięciu	ćwirknąć	ger:sg:dat.loc:n2:perf:aff		
 ćwirknięć	ćwirknąć	ger:pl:gen:n2:perf:aff		
 ćwirknięto	ćwirknąć	imps:perf		

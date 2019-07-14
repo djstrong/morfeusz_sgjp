@@ -5637,6 +5637,22 @@ Turcji	Turcja	subst:sg:loc:f	geograficzna
 Turcjom	Turcja	subst:pl:dat:f	geograficzna	
 Turcjo	Turcja	subst:sg:voc:f	geograficzna	
 Turcyj	Turcja	subst:pl:gen:f	geograficzna	arch.|char.
+Turczynach	Turczyn	subst:pl:loc:m1	pospolita	daw.
+Turczynami	Turczyn	subst:pl:inst:m1	pospolita	daw.
+Turczyna	Turczyn	subst:sg:acc:m1	pospolita	daw.
+Turczyna	Turczyn	subst:sg:gen:m1	pospolita	daw.
+Turczynem	Turczyn	subst:sg:inst:m1	pospolita	daw.
+Turczynie	Turczyn	subst:sg:loc:m1	pospolita	daw.
+Turczynie	Turczyn	subst:sg:voc:m1	pospolita	daw.
+Turczynom	Turczyn	subst:pl:dat:m1	pospolita	daw.
+Turczynowie	Turczyn	subst:pl:nom:m1	pospolita	daw.
+Turczynowie	Turczyn	subst:pl:voc:m1	pospolita	daw.
+Turczynowi	Turczyn	subst:sg:dat:m1	pospolita	daw.
+Turczynów	Turczyn	subst:pl:acc:m1	pospolita	daw.
+Turczynów	Turczyn	subst:pl:gen:m1	pospolita	daw.
+Turczyn	Turczyn	subst:sg:nom:m1	pospolita	daw.
+Turczyny	Turczyn	depr:pl:nom:m2	pospolita	daw.
+Turczyny	Turczyn	depr:pl:voc:m2	pospolita	daw.
 Turczynek	Turczynek	subst:sg:nom:m1	pospolita	daw.
 Turczynkach	Turczynek	subst:pl:loc:m1	pospolita	daw.
 Turczynkami	Turczynek	subst:pl:inst:m1	pospolita	daw.
@@ -5667,38 +5683,6 @@ Turczynki	Turczynka	subst:pl:voc:f	pospolita
 Turczynki	Turczynka	subst:sg:gen:f	pospolita	
 Turczynkom	Turczynka	subst:pl:dat:f	pospolita	
 Turczynko	Turczynka	subst:sg:voc:f	pospolita	
-Turczynach	Turczyn:s1	subst:pl:loc:m1	nazwisko	
-Turczynami	Turczyn:s1	subst:pl:inst:m1	nazwisko	
-Turczyna	Turczyn:s1	subst:sg:acc:m1	nazwisko	
-Turczyna	Turczyn:s1	subst:sg:gen:m1	nazwisko	
-Turczynem	Turczyn:s1	subst:sg:inst:m1	nazwisko	
-Turczynie	Turczyn:s1	subst:sg:loc:m1	nazwisko	
-Turczynie	Turczyn:s1	subst:sg:voc:m1	nazwisko	
-Turczynom	Turczyn:s1	subst:pl:dat:m1	nazwisko	
-Turczynowie	Turczyn:s1	subst:pl:nom:m1	nazwisko	
-Turczynowie	Turczyn:s1	subst:pl:voc:m1	nazwisko	
-Turczynowi	Turczyn:s1	subst:sg:dat:m1	nazwisko	
-Turczynów	Turczyn:s1	subst:pl:acc:m1	nazwisko	
-Turczynów	Turczyn:s1	subst:pl:gen:m1	nazwisko	
-Turczyn	Turczyn:s1	subst:sg:nom:m1	nazwisko	
-Turczyny	Turczyn:s1	depr:pl:nom:m2	nazwisko	
-Turczyny	Turczyn:s1	depr:pl:voc:m2	nazwisko	
-Turczynach	Turczyn:s2	subst:pl:loc:m1	pospolita	daw.
-Turczynami	Turczyn:s2	subst:pl:inst:m1	pospolita	daw.
-Turczyna	Turczyn:s2	subst:sg:acc:m1	pospolita	daw.
-Turczyna	Turczyn:s2	subst:sg:gen:m1	pospolita	daw.
-Turczynem	Turczyn:s2	subst:sg:inst:m1	pospolita	daw.
-Turczynie	Turczyn:s2	subst:sg:loc:m1	pospolita	daw.
-Turczynie	Turczyn:s2	subst:sg:voc:m1	pospolita	daw.
-Turczynom	Turczyn:s2	subst:pl:dat:m1	pospolita	daw.
-Turczynowie	Turczyn:s2	subst:pl:nom:m1	pospolita	daw.
-Turczynowie	Turczyn:s2	subst:pl:voc:m1	pospolita	daw.
-Turczynowi	Turczyn:s2	subst:sg:dat:m1	pospolita	daw.
-Turczynów	Turczyn:s2	subst:pl:acc:m1	pospolita	daw.
-Turczynów	Turczyn:s2	subst:pl:gen:m1	pospolita	daw.
-Turczyn	Turczyn:s2	subst:sg:nom:m1	pospolita	daw.
-Turczyny	Turczyn:s2	depr:pl:nom:m2	pospolita	daw.
-Turczyny	Turczyn:s2	depr:pl:voc:m2	pospolita	daw.
 Turczyńska	Turczyńska	subst:sg:nom:f	nazwisko	
 Turczyńska	Turczyńska	subst:sg:voc:f	nazwisko	
 Turczyńską	Turczyńska	subst:sg:acc:f	nazwisko	

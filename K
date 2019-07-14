@@ -9307,22 +9307,38 @@ KOR-y	KOR	subst:pl:nom:m3	organizacja
 KOR-y	KOR	subst:pl:voc:m3	organizacja	
 KOR-ze	KOR	subst:sg:loc:m3	organizacja	
 KOR-ze	KOR	subst:sg:voc:m3	organizacja	
-Korabach	Korab	subst:pl:loc:m1	nazwisko	
-Koraba	Korab	subst:sg:acc:m1	nazwisko	
-Koraba	Korab	subst:sg:gen:m1	nazwisko	
-Korabami	Korab	subst:pl:inst:m1	nazwisko	
-Korabem	Korab	subst:sg:inst:m1	nazwisko	
-Korabie	Korab	subst:sg:loc:m1	nazwisko	
-Korabie	Korab	subst:sg:voc:m1	nazwisko	
-Korab	Korab	subst:sg:nom:m1	nazwisko	
-Korabom	Korab	subst:pl:dat:m1	nazwisko	
-Korabowie	Korab	subst:pl:nom:m1	nazwisko	
-Korabowie	Korab	subst:pl:voc:m1	nazwisko	
-Korabowi	Korab	subst:sg:dat:m1	nazwisko	
-Korabów	Korab	subst:pl:acc:m1	nazwisko	
-Korabów	Korab	subst:pl:gen:m1	nazwisko	
-Koraby	Korab	depr:pl:nom:m2	nazwisko	
-Koraby	Korab	depr:pl:voc:m2	nazwisko	
+Korabach	Korab:s1	subst:pl:loc:m1	nazwisko	
+Koraba	Korab:s1	subst:sg:acc:m1	nazwisko	
+Koraba	Korab:s1	subst:sg:gen:m1	nazwisko	
+Korabami	Korab:s1	subst:pl:inst:m1	nazwisko	
+Korabem	Korab:s1	subst:sg:inst:m1	nazwisko	
+Korabie	Korab:s1	subst:sg:loc:m1	nazwisko	
+Korabie	Korab:s1	subst:sg:voc:m1	nazwisko	
+Korab	Korab:s1	subst:sg:nom:m1	nazwisko	
+Korabom	Korab:s1	subst:pl:dat:m1	nazwisko	
+Korabowie	Korab:s1	subst:pl:nom:m1	nazwisko	
+Korabowie	Korab:s1	subst:pl:voc:m1	nazwisko	
+Korabowi	Korab:s1	subst:sg:dat:m1	nazwisko	
+Korabów	Korab:s1	subst:pl:acc:m1	nazwisko	
+Korabów	Korab:s1	subst:pl:gen:m1	nazwisko	
+Koraby	Korab:s1	depr:pl:nom:m2	nazwisko	
+Koraby	Korab:s1	depr:pl:voc:m2	nazwisko	
+Korabiach	Korab:s2	subst:pl:loc:m1	pospolita	daw.
+Korabia	Korab:s2	subst:sg:acc:m1	pospolita	daw.
+Korabia	Korab:s2	subst:sg:gen:m1	pospolita	daw.
+Korabiami	Korab:s2	subst:pl:inst:m1	pospolita	daw.
+Korabie	Korab:s2	depr:pl:nom:m2	pospolita	daw.
+Korabie	Korab:s2	depr:pl:voc:m2	pospolita	daw.
+Korabiem	Korab:s2	subst:sg:inst:m1	pospolita	daw.
+Korabiom	Korab:s2	subst:pl:dat:m1	pospolita	daw.
+Korabiowie	Korab:s2	subst:pl:nom:m1	pospolita	daw.
+Korabiowie	Korab:s2	subst:pl:voc:m1	pospolita	daw.
+Korabiowi	Korab:s2	subst:sg:dat:m1	pospolita	daw.
+Korabiów	Korab:s2	subst:pl:acc:m1	pospolita	daw.
+Korabiów	Korab:s2	subst:pl:gen:m1	pospolita	daw.
+Korabiu	Korab:s2	subst:sg:loc:m1	pospolita	daw.
+Korabiu	Korab:s2	subst:sg:voc:m1	pospolita	daw.
+Korab	Korab:s2	subst:sg:nom:m1	pospolita	daw.
 Koranach	Koran	subst:pl:loc:m3	tytuł	rel.
 Koranami	Koran	subst:pl:inst:m3	tytuł	rel.
 Koranem	Koran	subst:sg:inst:m3	tytuł	rel.

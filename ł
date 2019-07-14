@@ -367,12 +367,13 @@
 łabudałyśmy	łabudać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 łabudam	łabudać	fin:sg:pri:imperf		
 łabudamy	łabudać	fin:pl:pri:imperf		
+łabudaniach	łabudać	ger:pl:loc:n2:imperf:aff		
 łabudania	łabudać	ger:pl:nom.acc:n2:imperf:aff		
 łabudania	łabudać	ger:sg:gen:n2:imperf:aff		
 łabudaniami	łabudać	ger:pl:inst:n2:imperf:aff		
 łabudanie	łabudać	ger:sg:nom.acc:n2:imperf:aff		
 łabudaniem	łabudać	ger:sg:inst:n2:imperf:aff		
-łabudaniom	łabudać	ger:pl:dat.loc:n2:imperf:aff		
+łabudaniom	łabudać	ger:pl:dat:n2:imperf:aff		
 łabudaniu	łabudać	ger:sg:dat.loc:n2:imperf:aff		
 łabudano	łabudać	imps:imperf		
 łabudań	łabudać	ger:pl:gen:n2:imperf:aff		
@@ -528,13 +529,14 @@
 łachane	łachać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łachane	łachać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łachanemu	łachać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łachaniach	łachać	ger:pl:loc:n2:imperf:aff		
 łachania	łachać	ger:pl:nom.acc:n2:imperf:aff		
 łachania	łachać	ger:sg:gen:n2:imperf:aff		
 łachaniami	łachać	ger:pl:inst:n2:imperf:aff		
 łachanie	łachać	ger:sg:nom.acc:n2:imperf:aff		
 łachaniem	łachać	ger:sg:inst:n2:imperf:aff		
 łachani	łachać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łachaniom	łachać	ger:pl:dat.loc:n2:imperf:aff		
+łachaniom	łachać	ger:pl:dat:n2:imperf:aff		
 łachaniu	łachać	ger:sg:dat.loc:n2:imperf:aff		
 łachano	łachać	imps:imperf		
 łachanych	łachać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -973,13 +975,14 @@
 łachotane	łachotać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łachotane	łachotać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łachotanemu	łachotać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łachotaniach	łachotać	ger:pl:loc:n2:imperf:aff		
 łachotania	łachotać	ger:pl:nom.acc:n2:imperf:aff		
 łachotania	łachotać	ger:sg:gen:n2:imperf:aff		
 łachotaniami	łachotać	ger:pl:inst:n2:imperf:aff		
 łachotanie	łachotać	ger:sg:nom.acc:n2:imperf:aff		
 łachotaniem	łachotać	ger:sg:inst:n2:imperf:aff		
 łachotani	łachotać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łachotaniom	łachotać	ger:pl:dat.loc:n2:imperf:aff		
+łachotaniom	łachotać	ger:pl:dat:n2:imperf:aff		
 łachotaniu	łachotać	ger:sg:dat.loc:n2:imperf:aff		
 łachotano	łachotać	imps:imperf		reg.
 łachotanych	łachotać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -1274,13 +1277,14 @@
 łacącym	łacić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 łacącym	łacić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łacą	łacić	fin:pl:ter:imperf		
+łaceniach	łacić	ger:pl:loc:n2:imperf:aff		
 łacenia	łacić	ger:pl:nom.acc:n2:imperf:aff		
 łacenia	łacić	ger:sg:gen:n2:imperf:aff		
 łaceniami	łacić	ger:pl:inst:n2:imperf:aff		
 łacenie	łacić	ger:sg:nom.acc:n2:imperf:aff		
 łaceniem	łacić	ger:sg:inst:n2:imperf:aff		
 łaceni	łacić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łaceniom	łacić	ger:pl:dat.loc:n2:imperf:aff		
+łaceniom	łacić	ger:pl:dat:n2:imperf:aff		
 łaceniu	łacić	ger:sg:dat.loc:n2:imperf:aff		
 łaceń	łacić	ger:pl:gen:n2:imperf:aff		
 łacę	łacić	fin:sg:pri:imperf		
@@ -1714,12 +1718,13 @@
 ładnieli	ładnieć	praet:pl:m1.p1:ter:imperf		
 ładnieliście	ładnieć	praet:pl:m1.p1:sec:imperf		
 ładnieliśmy	ładnieć	praet:pl:m1.p1:pri:imperf		
+ładnieniach	ładnieć	ger:pl:loc:n2:imperf:aff		
 ładnienia	ładnieć	ger:pl:nom.acc:n2:imperf:aff		
 ładnienia	ładnieć	ger:sg:gen:n2:imperf:aff		
 ładnieniami	ładnieć	ger:pl:inst:n2:imperf:aff		
 ładnienie	ładnieć	ger:sg:nom.acc:n2:imperf:aff		
 ładnieniem	ładnieć	ger:sg:inst:n2:imperf:aff		
-ładnieniom	ładnieć	ger:pl:dat.loc:n2:imperf:aff		
+ładnieniom	ładnieć	ger:pl:dat:n2:imperf:aff		
 ładnieniu	ładnieć	ger:sg:dat.loc:n2:imperf:aff		
 ładnień	ładnieć	ger:pl:gen:n2:imperf:aff		
 ładniuchnościach	ładniuchność	subst:pl:loc:f		
@@ -2018,13 +2023,14 @@
 ładowane	ładować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ładowane	ładować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 ładowanemu	ładować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ładowaniach	ładować:v	ger:pl:loc:n2:imperf:aff		
 ładowania	ładować:v	ger:pl:nom.acc:n2:imperf:aff		
 ładowania	ładować:v	ger:sg:gen:n2:imperf:aff		
 ładowaniami	ładować:v	ger:pl:inst:n2:imperf:aff		
 ładowanie	ładować:v	ger:sg:nom.acc:n2:imperf:aff		
 ładowaniem	ładować:v	ger:sg:inst:n2:imperf:aff		
 ładowani	ładować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ładowaniom	ładować:v	ger:pl:dat.loc:n2:imperf:aff		
+ładowaniom	ładować:v	ger:pl:dat:n2:imperf:aff		
 ładowaniu	ładować:v	ger:sg:dat.loc:n2:imperf:aff		
 ładowanych	ładować:v	ppas:pl:acc:m1.p1:imperf:aff		
 ładowanych	ładować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -2058,13 +2064,14 @@
 ładowane	ładować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ładowane	ładować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 ładowanemu	ładować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ładowaniach	ładować:v	ger:pl:loc:n2:imperf:aff		
 ładowania	ładować:v	ger:pl:nom.acc:n2:imperf:aff		
 ładowania	ładować:v	ger:sg:gen:n2:imperf:aff		
 ładowaniami	ładować:v	ger:pl:inst:n2:imperf:aff		
 ładowanie	ładować:v	ger:sg:nom.acc:n2:imperf:aff		
 ładowaniem	ładować:v	ger:sg:inst:n2:imperf:aff		
 ładowani	ładować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ładowaniom	ładować:v	ger:pl:dat.loc:n2:imperf:aff		
+ładowaniom	ładować:v	ger:pl:dat:n2:imperf:aff		
 ładowaniu	ładować:v	ger:sg:dat.loc:n2:imperf:aff		
 ładowanych	ładować:v	ppas:pl:acc:m1.p1:imperf:aff		
 ładowanych	ładować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -2592,13 +2599,14 @@
 ładzącym	ładzić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ładzącym	ładzić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 ładzą	ładzić	fin:pl:ter:imperf		
+ładzeniach	ładzić	ger:pl:loc:n2:imperf:aff		
 ładzenia	ładzić	ger:pl:nom.acc:n2:imperf:aff		
 ładzenia	ładzić	ger:sg:gen:n2:imperf:aff		
 ładzeniami	ładzić	ger:pl:inst:n2:imperf:aff		
 ładzenie	ładzić	ger:sg:nom.acc:n2:imperf:aff		
 ładzeniem	ładzić	ger:sg:inst:n2:imperf:aff		
 ładzeni	ładzić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ładzeniom	ładzić	ger:pl:dat.loc:n2:imperf:aff		
+ładzeniom	ładzić	ger:pl:dat:n2:imperf:aff		
 ładzeniu	ładzić	ger:sg:dat.loc:n2:imperf:aff		
 ładzeń	ładzić	ger:pl:gen:n2:imperf:aff		
 ładzę	ładzić	fin:sg:pri:imperf		
@@ -2890,12 +2898,13 @@
 łagodnieli	łagodnieć	praet:pl:m1.p1:ter:imperf		
 łagodnieliście	łagodnieć	praet:pl:m1.p1:sec:imperf		
 łagodnieliśmy	łagodnieć	praet:pl:m1.p1:pri:imperf		
+łagodnieniach	łagodnieć	ger:pl:loc:n2:imperf:aff		
 łagodnienia	łagodnieć	ger:pl:nom.acc:n2:imperf:aff		
 łagodnienia	łagodnieć	ger:sg:gen:n2:imperf:aff		
 łagodnieniami	łagodnieć	ger:pl:inst:n2:imperf:aff		
 łagodnienie	łagodnieć	ger:sg:nom.acc:n2:imperf:aff		
 łagodnieniem	łagodnieć	ger:sg:inst:n2:imperf:aff		
-łagodnieniom	łagodnieć	ger:pl:dat.loc:n2:imperf:aff		
+łagodnieniom	łagodnieć	ger:pl:dat:n2:imperf:aff		
 łagodnieniu	łagodnieć	ger:sg:dat.loc:n2:imperf:aff		
 łagodnień	łagodnieć	ger:pl:gen:n2:imperf:aff		
 łagodniusia	łagodniusi	adj:sg:nom.voc:f:pos		
@@ -3094,13 +3103,14 @@
 łagodzącym	łagodzić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 łagodzącym	łagodzić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łagodzą	łagodzić	fin:pl:ter:imperf		
+łagodzeniach	łagodzić	ger:pl:loc:n2:imperf:aff		
 łagodzenia	łagodzić	ger:pl:nom.acc:n2:imperf:aff		
 łagodzenia	łagodzić	ger:sg:gen:n2:imperf:aff		
 łagodzeniami	łagodzić	ger:pl:inst:n2:imperf:aff		
 łagodzenie	łagodzić	ger:sg:nom.acc:n2:imperf:aff		
 łagodzeniem	łagodzić	ger:sg:inst:n2:imperf:aff		
 łagodzeni	łagodzić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łagodzeniom	łagodzić	ger:pl:dat.loc:n2:imperf:aff		
+łagodzeniom	łagodzić	ger:pl:dat:n2:imperf:aff		
 łagodzeniu	łagodzić	ger:sg:dat.loc:n2:imperf:aff		
 łagodzeń	łagodzić	ger:pl:gen:n2:imperf:aff		
 łagodzę	łagodzić	fin:sg:pri:imperf		
@@ -3332,13 +3342,14 @@
 łajane	łajać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łajane	łajać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łajanemu	łajać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łajaniach	łajać	ger:pl:loc:n2:imperf:aff		
 łajania	łajać	ger:pl:nom.acc:n2:imperf:aff		
 łajania	łajać	ger:sg:gen:n2:imperf:aff		
 łajaniami	łajać	ger:pl:inst:n2:imperf:aff		
 łajanie	łajać	ger:sg:nom.acc:n2:imperf:aff		
 łajaniem	łajać	ger:sg:inst:n2:imperf:aff		
 łajani	łajać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łajaniom	łajać	ger:pl:dat.loc:n2:imperf:aff		
+łajaniom	łajać	ger:pl:dat:n2:imperf:aff		
 łajaniu	łajać	ger:sg:dat.loc:n2:imperf:aff		
 łajano	łajać	imps:imperf		
 łajanych	łajać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -3520,12 +3531,13 @@
 łajdaczeli	łajdaczeć	praet:pl:m1.p1:ter:imperf		
 łajdaczeliście	łajdaczeć	praet:pl:m1.p1:sec:imperf		
 łajdaczeliśmy	łajdaczeć	praet:pl:m1.p1:pri:imperf		
+łajdaczeniach	łajdaczeć	ger:pl:loc:n2:imperf:aff		
 łajdaczenia	łajdaczeć	ger:pl:nom.acc:n2:imperf:aff		
 łajdaczenia	łajdaczeć	ger:sg:gen:n2:imperf:aff		
 łajdaczeniami	łajdaczeć	ger:pl:inst:n2:imperf:aff		
 łajdaczenie	łajdaczeć	ger:sg:nom.acc:n2:imperf:aff		
 łajdaczeniem	łajdaczeć	ger:sg:inst:n2:imperf:aff		
-łajdaczeniom	łajdaczeć	ger:pl:dat.loc:n2:imperf:aff		
+łajdaczeniom	łajdaczeć	ger:pl:dat:n2:imperf:aff		
 łajdaczeniu	łajdaczeć	ger:sg:dat.loc:n2:imperf:aff		
 łajdaczeń	łajdaczeć	ger:pl:gen:n2:imperf:aff		
 łajdaczek	łajdaczek	subst:sg:nom:m1	pospolita	lekcew.
@@ -3615,12 +3627,13 @@
 łajdaczącym	łajdaczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łajdaczą	łajdaczyć	fin:pl:ter:imperf		
 łajdaczcie	łajdaczyć	impt:pl:sec:imperf		
+łajdaczeniach	łajdaczyć	ger:pl:loc:n2:imperf:aff		
 łajdaczenia	łajdaczyć	ger:pl:nom.acc:n2:imperf:aff		
 łajdaczenia	łajdaczyć	ger:sg:gen:n2:imperf:aff		
 łajdaczeniami	łajdaczyć	ger:pl:inst:n2:imperf:aff		
 łajdaczenie	łajdaczyć	ger:sg:nom.acc:n2:imperf:aff		
 łajdaczeniem	łajdaczyć	ger:sg:inst:n2:imperf:aff		
-łajdaczeniom	łajdaczyć	ger:pl:dat.loc:n2:imperf:aff		
+łajdaczeniom	łajdaczyć	ger:pl:dat:n2:imperf:aff		
 łajdaczeniu	łajdaczyć	ger:sg:dat.loc:n2:imperf:aff		
 łajdaczeń	łajdaczyć	ger:pl:gen:n2:imperf:aff		
 łajdaczę	łajdaczyć	fin:sg:pri:imperf		
@@ -3763,13 +3776,14 @@
 łajnią	łajnić	fin:pl:ter:imperf		
 łajnicie	łajnić	fin:pl:sec:imperf		
 łajnić	łajnić	inf:imperf		
+łajnieniach	łajnić	ger:pl:loc:n2:imperf:aff		
 łajnienia	łajnić	ger:pl:nom.acc:n2:imperf:aff		
 łajnienia	łajnić	ger:sg:gen:n2:imperf:aff		
 łajnieniami	łajnić	ger:pl:inst:n2:imperf:aff		
 łajnienie	łajnić	ger:sg:nom.acc:n2:imperf:aff		
 łajnieniem	łajnić	ger:sg:inst:n2:imperf:aff		
 łajnieni	łajnić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łajnieniom	łajnić	ger:pl:dat.loc:n2:imperf:aff		
+łajnieniom	łajnić	ger:pl:dat:n2:imperf:aff		
 łajnieniu	łajnić	ger:sg:dat.loc:n2:imperf:aff		
 łajnień	łajnić	ger:pl:gen:n2:imperf:aff		
 łajnię	łajnić	fin:sg:pri:imperf		
@@ -3934,13 +3948,14 @@
 łaknie	łaknąć	fin:sg:ter:imperf		
 łakniemy	łaknąć	fin:pl:pri:imperf		
 łakniesz	łaknąć	fin:sg:sec:imperf		
+łaknięciach	łaknąć	ger:pl:loc:n2:imperf:aff		
 łaknięcia	łaknąć	ger:pl:nom.acc:n2:imperf:aff		
 łaknięcia	łaknąć	ger:sg:gen:n2:imperf:aff		
 łaknięciami	łaknąć	ger:pl:inst:n2:imperf:aff		
 łaknięcie	łaknąć	ger:sg:nom.acc:n2:imperf:aff		
 łaknięciem	łaknąć	ger:sg:inst:n2:imperf:aff		
 łaknięci	łaknąć	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łaknięciom	łaknąć	ger:pl:dat.loc:n2:imperf:aff		
+łaknięciom	łaknąć	ger:pl:dat:n2:imperf:aff		
 łaknięciu	łaknąć	ger:sg:dat.loc:n2:imperf:aff		
 łaknięć	łaknąć	ger:pl:gen:n2:imperf:aff		
 łaknięta	łaknąć	ppas:sg:nom.voc:f:imperf:aff		
@@ -4116,12 +4131,13 @@
 łakomią	łakomić	fin:pl:ter:imperf		
 łakomicie	łakomić	fin:pl:sec:imperf		
 łakomić	łakomić	inf:imperf		
+łakomieniach	łakomić	ger:pl:loc:n2:imperf:aff		
 łakomienia	łakomić	ger:pl:nom.acc:n2:imperf:aff		
 łakomienia	łakomić	ger:sg:gen:n2:imperf:aff		
 łakomieniami	łakomić	ger:pl:inst:n2:imperf:aff		
 łakomienie	łakomić	ger:sg:nom.acc:n2:imperf:aff		
 łakomieniem	łakomić	ger:sg:inst:n2:imperf:aff		
-łakomieniom	łakomić	ger:pl:dat.loc:n2:imperf:aff		
+łakomieniom	łakomić	ger:pl:dat:n2:imperf:aff		
 łakomieniu	łakomić	ger:sg:dat.loc:n2:imperf:aff		
 łakomień	łakomić	ger:pl:gen:n2:imperf:aff		
 łakomię	łakomić	fin:sg:pri:imperf		
@@ -4248,12 +4264,13 @@
 łakomieli	łakomieć	praet:pl:m1.p1:ter:imperf		
 łakomieliście	łakomieć	praet:pl:m1.p1:sec:imperf		
 łakomieliśmy	łakomieć	praet:pl:m1.p1:pri:imperf		
+łakomieniach	łakomieć	ger:pl:loc:n2:imperf:aff		
 łakomienia	łakomieć	ger:pl:nom.acc:n2:imperf:aff		
 łakomienia	łakomieć	ger:sg:gen:n2:imperf:aff		
 łakomieniami	łakomieć	ger:pl:inst:n2:imperf:aff		
 łakomienie	łakomieć	ger:sg:nom.acc:n2:imperf:aff		
 łakomieniem	łakomieć	ger:sg:inst:n2:imperf:aff		
-łakomieniom	łakomieć	ger:pl:dat.loc:n2:imperf:aff		
+łakomieniom	łakomieć	ger:pl:dat:n2:imperf:aff		
 łakomieniu	łakomieć	ger:sg:dat.loc:n2:imperf:aff		
 łakomień	łakomieć	ger:pl:gen:n2:imperf:aff		
 łakomo	łakomo	adv:pos		przest.
@@ -4573,13 +4590,14 @@
 łamane	łamać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łamane	łamać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łamanemu	łamać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łamaniach	łamać	ger:pl:loc:n2:imperf:aff		
 łamania	łamać	ger:pl:nom.acc:n2:imperf:aff		
 łamania	łamać	ger:sg:gen:n2:imperf:aff		
 łamaniami	łamać	ger:pl:inst:n2:imperf:aff		
 łamanie	łamać	ger:sg:nom.acc:n2:imperf:aff		
 łamaniem	łamać	ger:sg:inst:n2:imperf:aff		
 łamani	łamać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łamaniom	łamać	ger:pl:dat.loc:n2:imperf:aff		
+łamaniom	łamać	ger:pl:dat:n2:imperf:aff		
 łamaniu	łamać	ger:sg:dat.loc:n2:imperf:aff		
 łamano	łamać	imps:imperf		
 łamanych	łamać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -5514,13 +5532,14 @@
 łapane	łapać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łapane	łapać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łapanemu	łapać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łapaniach	łapać	ger:pl:loc:n2:imperf:aff		
 łapania	łapać	ger:pl:nom.acc:n2:imperf:aff		
 łapania	łapać	ger:sg:gen:n2:imperf:aff		
 łapaniami	łapać	ger:pl:inst:n2:imperf:aff		
 łapanie	łapać	ger:sg:nom.acc:n2:imperf:aff		
 łapaniem	łapać	ger:sg:inst:n2:imperf:aff		
 łapani	łapać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łapaniom	łapać	ger:pl:dat.loc:n2:imperf:aff		
+łapaniom	łapać	ger:pl:dat:n2:imperf:aff		
 łapaniu	łapać	ger:sg:dat.loc:n2:imperf:aff		
 łapano	łapać	imps:imperf		
 łapanych	łapać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -6899,12 +6918,13 @@
 łaszącym	łasić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 łaszącym	łasić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łaszą	łasić	fin:pl:ter:imperf		
+łaszeniach	łasić	ger:pl:loc:n2:imperf:aff		
 łaszenia	łasić	ger:pl:nom.acc:n2:imperf:aff		
 łaszenia	łasić	ger:sg:gen:n2:imperf:aff		
 łaszeniami	łasić	ger:pl:inst:n2:imperf:aff		
 łaszenie	łasić	ger:sg:nom.acc:n2:imperf:aff		
 łaszeniem	łasić	ger:sg:inst:n2:imperf:aff		
-łaszeniom	łasić	ger:pl:dat.loc:n2:imperf:aff		
+łaszeniom	łasić	ger:pl:dat:n2:imperf:aff		
 łaszeniu	łasić	ger:sg:dat.loc:n2:imperf:aff		
 łaszeń	łasić	ger:pl:gen:n2:imperf:aff		
 łaszę	łasić	fin:sg:pri:imperf		
@@ -7300,13 +7320,14 @@
 łaskotane	łaskotać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łaskotane	łaskotać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łaskotanemu	łaskotać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łaskotaniach	łaskotać	ger:pl:loc:n2:imperf:aff		
 łaskotania	łaskotać	ger:pl:nom.acc:n2:imperf:aff		
 łaskotania	łaskotać	ger:sg:gen:n2:imperf:aff		
 łaskotaniami	łaskotać	ger:pl:inst:n2:imperf:aff		
 łaskotanie	łaskotać	ger:sg:nom.acc:n2:imperf:aff		
 łaskotaniem	łaskotać	ger:sg:inst:n2:imperf:aff		
 łaskotani	łaskotać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łaskotaniom	łaskotać	ger:pl:dat.loc:n2:imperf:aff		
+łaskotaniom	łaskotać	ger:pl:dat:n2:imperf:aff		
 łaskotaniu	łaskotać	ger:sg:dat.loc:n2:imperf:aff		
 łaskotano	łaskotać	imps:imperf		
 łaskotanych	łaskotać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -7464,12 +7485,13 @@
 łasowały	łasować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 łasowałyście	łasować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 łasowałyśmy	łasować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+łasowaniach	łasować	ger:pl:loc:n2:imperf:aff		
 łasowania	łasować	ger:pl:nom.acc:n2:imperf:aff		
 łasowania	łasować	ger:sg:gen:n2:imperf:aff		
 łasowaniami	łasować	ger:pl:inst:n2:imperf:aff		
 łasowanie	łasować	ger:sg:nom.acc:n2:imperf:aff		
 łasowaniem	łasować	ger:sg:inst:n2:imperf:aff		
-łasowaniom	łasować	ger:pl:dat.loc:n2:imperf:aff		
+łasowaniom	łasować	ger:pl:dat:n2:imperf:aff		
 łasowaniu	łasować	ger:sg:dat.loc:n2:imperf:aff		
 łasowano	łasować	imps:imperf		
 łasowań	łasować	ger:pl:gen:n2:imperf:aff		
@@ -7640,12 +7662,13 @@
 łaszczącym	łaszczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łaszczą	łaszczyć	fin:pl:ter:imperf		
 łaszczcie	łaszczyć	impt:pl:sec:imperf		
+łaszczeniach	łaszczyć	ger:pl:loc:n2:imperf:aff		
 łaszczenia	łaszczyć	ger:pl:nom.acc:n2:imperf:aff		
 łaszczenia	łaszczyć	ger:sg:gen:n2:imperf:aff		
 łaszczeniami	łaszczyć	ger:pl:inst:n2:imperf:aff		
 łaszczenie	łaszczyć	ger:sg:nom.acc:n2:imperf:aff		
 łaszczeniem	łaszczyć	ger:sg:inst:n2:imperf:aff		
-łaszczeniom	łaszczyć	ger:pl:dat.loc:n2:imperf:aff		
+łaszczeniom	łaszczyć	ger:pl:dat:n2:imperf:aff		
 łaszczeniu	łaszczyć	ger:sg:dat.loc:n2:imperf:aff		
 łaszczeń	łaszczyć	ger:pl:gen:n2:imperf:aff		
 łaszczę	łaszczyć	fin:sg:pri:imperf		
@@ -7907,13 +7930,14 @@
 łatane	łatać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łatane	łatać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łatanemu	łatać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łataniach	łatać	ger:pl:loc:n2:imperf:aff		
 łatania	łatać	ger:pl:nom.acc:n2:imperf:aff		
 łatania	łatać	ger:sg:gen:n2:imperf:aff		
 łataniami	łatać	ger:pl:inst:n2:imperf:aff		
 łatanie	łatać	ger:sg:nom.acc:n2:imperf:aff		
 łataniem	łatać	ger:sg:inst:n2:imperf:aff		
 łatani	łatać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łataniom	łatać	ger:pl:dat.loc:n2:imperf:aff		
+łataniom	łatać	ger:pl:dat:n2:imperf:aff		
 łataniu	łatać	ger:sg:dat.loc:n2:imperf:aff		
 łatano	łatać	imps:imperf		
 łatanych	łatać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -8109,13 +8133,14 @@
 łatwią	łatwić	fin:pl:ter:imperf		daw.
 łatwicie	łatwić	fin:pl:sec:imperf		daw.
 łatwić	łatwić	inf:imperf		daw.
+łatwieniach	łatwić	ger:pl:loc:n2:imperf:aff		
 łatwienia	łatwić	ger:pl:nom.acc:n2:imperf:aff		
 łatwienia	łatwić	ger:sg:gen:n2:imperf:aff		
 łatwieniami	łatwić	ger:pl:inst:n2:imperf:aff		
 łatwienie	łatwić	ger:sg:nom.acc:n2:imperf:aff		
 łatwieniem	łatwić	ger:sg:inst:n2:imperf:aff		
 łatwieni	łatwić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łatwieniom	łatwić	ger:pl:dat.loc:n2:imperf:aff		
+łatwieniom	łatwić	ger:pl:dat:n2:imperf:aff		
 łatwieniu	łatwić	ger:sg:dat.loc:n2:imperf:aff		
 łatwień	łatwić	ger:pl:gen:n2:imperf:aff		
 łatwię	łatwić	fin:sg:pri:imperf		daw.
@@ -8678,13 +8703,14 @@
 ławiane	ławiać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ławiane	ławiać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 ławianemu	ławiać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ławianiach	ławiać	ger:pl:loc:n2:imperf:aff		
 ławiania	ławiać	ger:pl:nom.acc:n2:imperf:aff		
 ławiania	ławiać	ger:sg:gen:n2:imperf:aff		
 ławianiami	ławiać	ger:pl:inst:n2:imperf:aff		
 ławianie	ławiać	ger:sg:nom.acc:n2:imperf:aff		
 ławianiem	ławiać	ger:sg:inst:n2:imperf:aff		
 ławiani	ławiać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ławianiom	ławiać	ger:pl:dat.loc:n2:imperf:aff		
+ławianiom	ławiać	ger:pl:dat:n2:imperf:aff		
 ławianiu	ławiać	ger:sg:dat.loc:n2:imperf:aff		
 ławiano	ławiać	imps:imperf		
 ławianych	ławiać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -9213,12 +9239,13 @@
 łazarzowały	łazarzować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 łazarzowałyście	łazarzować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 łazarzowałyśmy	łazarzować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+łazarzowaniach	łazarzować	ger:pl:loc:n2:imperf:aff		
 łazarzowania	łazarzować	ger:pl:nom.acc:n2:imperf:aff		
 łazarzowania	łazarzować	ger:sg:gen:n2:imperf:aff		
 łazarzowaniami	łazarzować	ger:pl:inst:n2:imperf:aff		
 łazarzowanie	łazarzować	ger:sg:nom.acc:n2:imperf:aff		
 łazarzowaniem	łazarzować	ger:sg:inst:n2:imperf:aff		
-łazarzowaniom	łazarzować	ger:pl:dat.loc:n2:imperf:aff		
+łazarzowaniom	łazarzować	ger:pl:dat:n2:imperf:aff		
 łazarzowaniu	łazarzować	ger:sg:dat.loc:n2:imperf:aff		
 łazarzowano	łazarzować	imps:imperf		
 łazarzowań	łazarzować	ger:pl:gen:n2:imperf:aff		
@@ -9392,12 +9419,13 @@
 łazęgowały	łazęgować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 łazęgowałyście	łazęgować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 łazęgowałyśmy	łazęgować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+łazęgowaniach	łazęgować	ger:pl:loc:n2:imperf:aff		
 łazęgowania	łazęgować	ger:pl:nom.acc:n2:imperf:aff		
 łazęgowania	łazęgować	ger:sg:gen:n2:imperf:aff		
 łazęgowaniami	łazęgować	ger:pl:inst:n2:imperf:aff		
 łazęgowanie	łazęgować	ger:sg:nom.acc:n2:imperf:aff		
 łazęgowaniem	łazęgować	ger:sg:inst:n2:imperf:aff		
-łazęgowaniom	łazęgować	ger:pl:dat.loc:n2:imperf:aff		
+łazęgowaniom	łazęgować	ger:pl:dat:n2:imperf:aff		
 łazęgowaniu	łazęgować	ger:sg:dat.loc:n2:imperf:aff		
 łazęgowano	łazęgować	imps:imperf		
 łazęgowań	łazęgować	ger:pl:gen:n2:imperf:aff		
@@ -9488,12 +9516,13 @@
 łażącym	łazić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 łażącym	łazić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łażą	łazić	fin:pl:ter:imperf		
+łażeniach	łazić	ger:pl:loc:n2:imperf:aff		
 łażenia	łazić	ger:pl:nom.acc:n2:imperf:aff		
 łażenia	łazić	ger:sg:gen:n2:imperf:aff		
 łażeniami	łazić	ger:pl:inst:n2:imperf:aff		
 łażenie	łazić	ger:sg:nom.acc:n2:imperf:aff		
 łażeniem	łazić	ger:sg:inst:n2:imperf:aff		
-łażeniom	łazić	ger:pl:dat.loc:n2:imperf:aff		
+łażeniom	łazić	ger:pl:dat:n2:imperf:aff		
 łażeniu	łazić	ger:sg:dat.loc:n2:imperf:aff		
 łażeń	łazić	ger:pl:gen:n2:imperf:aff		
 łażę	łazić	fin:sg:pri:imperf		
@@ -9834,12 +9863,13 @@
 łazikowały	łazikować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 łazikowałyście	łazikować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 łazikowałyśmy	łazikować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+łazikowaniach	łazikować	ger:pl:loc:n2:imperf:aff		
 łazikowania	łazikować	ger:pl:nom.acc:n2:imperf:aff		
 łazikowania	łazikować	ger:sg:gen:n2:imperf:aff		
 łazikowaniami	łazikować	ger:pl:inst:n2:imperf:aff		
 łazikowanie	łazikować	ger:sg:nom.acc:n2:imperf:aff		
 łazikowaniem	łazikować	ger:sg:inst:n2:imperf:aff		
-łazikowaniom	łazikować	ger:pl:dat.loc:n2:imperf:aff		
+łazikowaniom	łazikować	ger:pl:dat:n2:imperf:aff		
 łazikowaniu	łazikować	ger:sg:dat.loc:n2:imperf:aff		
 łazikowano	łazikować	imps:imperf		
 łazikowań	łazikować	ger:pl:gen:n2:imperf:aff		
@@ -10067,13 +10097,14 @@
 łazowane	łazować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łazowane	łazować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łazowanemu	łazować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łazowaniach	łazować	ger:pl:loc:n2:imperf:aff		
 łazowania	łazować	ger:pl:nom.acc:n2:imperf:aff		
 łazowania	łazować	ger:sg:gen:n2:imperf:aff		
 łazowaniami	łazować	ger:pl:inst:n2:imperf:aff		
 łazowanie	łazować	ger:sg:nom.acc:n2:imperf:aff		
 łazowaniem	łazować	ger:sg:inst:n2:imperf:aff		
 łazowani	łazować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łazowaniom	łazować	ger:pl:dat.loc:n2:imperf:aff		
+łazowaniom	łazować	ger:pl:dat:n2:imperf:aff		
 łazowaniu	łazować	ger:sg:dat.loc:n2:imperf:aff		
 łazowano	łazować	imps:imperf		gwar.
 łazowanych	łazować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -10171,13 +10202,14 @@
 łaźbią	łaźbić	fin:pl:ter:imperf		pszcz.
 łaźbicie	łaźbić	fin:pl:sec:imperf		pszcz.
 łaźbić	łaźbić	inf:imperf		pszcz.
+łaźbieniach	łaźbić	ger:pl:loc:n2:imperf:aff		
 łaźbienia	łaźbić	ger:pl:nom.acc:n2:imperf:aff		
 łaźbienia	łaźbić	ger:sg:gen:n2:imperf:aff		
 łaźbieniami	łaźbić	ger:pl:inst:n2:imperf:aff		
 łaźbienie	łaźbić	ger:sg:nom.acc:n2:imperf:aff		
 łaźbieniem	łaźbić	ger:sg:inst:n2:imperf:aff		
 łaźbieni	łaźbić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łaźbieniom	łaźbić	ger:pl:dat.loc:n2:imperf:aff		
+łaźbieniom	łaźbić	ger:pl:dat:n2:imperf:aff		
 łaźbieniu	łaźbić	ger:sg:dat.loc:n2:imperf:aff		
 łaźbień	łaźbić	ger:pl:gen:n2:imperf:aff		
 łaźbię	łaźbić	fin:sg:pri:imperf		pszcz.
@@ -10937,13 +10969,14 @@
 łączącym	łączyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łączą	łączyć	fin:pl:ter:imperf		
 łączcie	łączyć	impt:pl:sec:imperf		
+łączeniach	łączyć	ger:pl:loc:n2:imperf:aff		
 łączenia	łączyć	ger:pl:nom.acc:n2:imperf:aff		
 łączenia	łączyć	ger:sg:gen:n2:imperf:aff		
 łączeniami	łączyć	ger:pl:inst:n2:imperf:aff		
 łączenie	łączyć	ger:sg:nom.acc:n2:imperf:aff		
 łączeniem	łączyć	ger:sg:inst:n2:imperf:aff		
 łączeni	łączyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łączeniom	łączyć	ger:pl:dat.loc:n2:imperf:aff		
+łączeniom	łączyć	ger:pl:dat:n2:imperf:aff		
 łączeniu	łączyć	ger:sg:dat.loc:n2:imperf:aff		
 łączeń	łączyć	ger:pl:gen:n2:imperf:aff		
 łączę	łączyć	fin:sg:pri:imperf		
@@ -11494,12 +11527,13 @@
 łebkowały	łebkować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 łebkowałyście	łebkować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 łebkowałyśmy	łebkować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+łebkowaniach	łebkować	ger:pl:loc:n2:imperf:aff		
 łebkowania	łebkować	ger:pl:nom.acc:n2:imperf:aff		
 łebkowania	łebkować	ger:sg:gen:n2:imperf:aff		
 łebkowaniami	łebkować	ger:pl:inst:n2:imperf:aff		
 łebkowanie	łebkować	ger:sg:nom.acc:n2:imperf:aff		
 łebkowaniem	łebkować	ger:sg:inst:n2:imperf:aff		
-łebkowaniom	łebkować	ger:pl:dat.loc:n2:imperf:aff		
+łebkowaniom	łebkować	ger:pl:dat:n2:imperf:aff		
 łebkowaniu	łebkować	ger:sg:dat.loc:n2:imperf:aff		
 łebkowano	łebkować	imps:imperf		
 łebkowań	łebkować	ger:pl:gen:n2:imperf:aff		
@@ -11893,13 +11927,14 @@
 łechtane	łechtać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łechtane	łechtać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łechtanemu	łechtać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łechtaniach	łechtać	ger:pl:loc:n2:imperf:aff		
 łechtania	łechtać	ger:pl:nom.acc:n2:imperf:aff		
 łechtania	łechtać	ger:sg:gen:n2:imperf:aff		
 łechtaniami	łechtać	ger:pl:inst:n2:imperf:aff		
 łechtanie	łechtać	ger:sg:nom.acc:n2:imperf:aff		
 łechtaniem	łechtać	ger:sg:inst:n2:imperf:aff		
 łechtani	łechtać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łechtaniom	łechtać	ger:pl:dat.loc:n2:imperf:aff		
+łechtaniom	łechtać	ger:pl:dat:n2:imperf:aff		
 łechtaniu	łechtać	ger:sg:dat.loc:n2:imperf:aff		
 łechtano	łechtać	imps:imperf		
 łechtano	łechtać	imps:imperf		rzad.
@@ -12520,12 +12555,13 @@
 łękotki	łękotka	subst:sg:gen:f	pospolita	anat.
 łękotko	łękotka	subst:sg:voc:f	pospolita	anat.
 łękotkom	łękotka	subst:pl:dat:f	pospolita	anat.
+łękowaceniach	łękowacieć	ger:pl:loc:n2:imperf:aff		
 łękowacenia	łękowacieć	ger:pl:nom.acc:n2:imperf:aff		
 łękowacenia	łękowacieć	ger:sg:gen:n2:imperf:aff		
 łękowaceniami	łękowacieć	ger:pl:inst:n2:imperf:aff		
 łękowacenie	łękowacieć	ger:sg:nom.acc:n2:imperf:aff		
 łękowaceniem	łękowacieć	ger:sg:inst:n2:imperf:aff		
-łękowaceniom	łękowacieć	ger:pl:dat.loc:n2:imperf:aff		
+łękowaceniom	łękowacieć	ger:pl:dat:n2:imperf:aff		
 łękowaceniu	łękowacieć	ger:sg:dat.loc:n2:imperf:aff		
 łękowaceń	łękowacieć	ger:pl:gen:n2:imperf:aff		
 łękowaciałaby	łękowacieć	cond:sg:f:ter:imperf		rzad.
@@ -12844,12 +12880,13 @@
 łgałyśmy	łgać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.|rzad.
 łgam	łgać	fin:sg:pri:imperf		przest.|rzad.
 łgamy	łgać	fin:pl:pri:imperf		przest.|rzad.
+łganiach	łgać	ger:pl:loc:n2:imperf:aff		
 łgania	łgać	ger:pl:nom.acc:n2:imperf:aff		
 łgania	łgać	ger:sg:gen:n2:imperf:aff		
 łganiami	łgać	ger:pl:inst:n2:imperf:aff		
 łganie	łgać	ger:sg:nom.acc:n2:imperf:aff		
 łganiem	łgać	ger:sg:inst:n2:imperf:aff		
-łganiom	łgać	ger:pl:dat.loc:n2:imperf:aff		
+łganiom	łgać	ger:pl:dat:n2:imperf:aff		
 łganiu	łgać	ger:sg:dat.loc:n2:imperf:aff		
 łgano	łgać	imps:imperf		przest.
 łgano	łgać	imps:imperf		przest.|rzad.
@@ -13028,12 +13065,13 @@
 łkałyśmy	łkać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 łkam	łkać	fin:sg:pri:imperf		
 łkamy	łkać	fin:pl:pri:imperf		
+łkaniach	łkać	ger:pl:loc:n2:imperf:aff		
 łkania	łkać	ger:pl:nom.acc:n2:imperf:aff		
 łkania	łkać	ger:sg:gen:n2:imperf:aff		
 łkaniami	łkać	ger:pl:inst:n2:imperf:aff		
 łkanie	łkać	ger:sg:nom.acc:n2:imperf:aff		
 łkaniem	łkać	ger:sg:inst:n2:imperf:aff		
-łkaniom	łkać	ger:pl:dat.loc:n2:imperf:aff		
+łkaniom	łkać	ger:pl:dat:n2:imperf:aff		
 łkaniu	łkać	ger:sg:dat.loc:n2:imperf:aff		
 łkano	łkać	imps:imperf		
 łkań	łkać	ger:pl:gen:n2:imperf:aff		
@@ -13378,12 +13416,13 @@
 łobuzowały	łobuzować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		pot.
 łobuzowałyście	łobuzować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		pot.
 łobuzowałyśmy	łobuzować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		pot.
+łobuzowaniach	łobuzować	ger:pl:loc:n2:imperf:aff		
 łobuzowania	łobuzować	ger:pl:nom.acc:n2:imperf:aff		
 łobuzowania	łobuzować	ger:sg:gen:n2:imperf:aff		
 łobuzowaniami	łobuzować	ger:pl:inst:n2:imperf:aff		
 łobuzowanie	łobuzować	ger:sg:nom.acc:n2:imperf:aff		
 łobuzowaniem	łobuzować	ger:sg:inst:n2:imperf:aff		
-łobuzowaniom	łobuzować	ger:pl:dat.loc:n2:imperf:aff		
+łobuzowaniom	łobuzować	ger:pl:dat:n2:imperf:aff		
 łobuzowaniu	łobuzować	ger:sg:dat.loc:n2:imperf:aff		
 łobuzowano	łobuzować	imps:imperf		pot.
 łobuzowań	łobuzować	ger:pl:gen:n2:imperf:aff		
@@ -14318,13 +14357,14 @@
 łojącym	łoić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 łojącym	łoić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łoją	łoić	fin:pl:ter:imperf		pot.
+łojeniach	łoić	ger:pl:loc:n2:imperf:aff		
 łojenia	łoić	ger:pl:nom.acc:n2:imperf:aff		
 łojenia	łoić	ger:sg:gen:n2:imperf:aff		
 łojeniami	łoić	ger:pl:inst:n2:imperf:aff		
 łojenie	łoić	ger:sg:nom.acc:n2:imperf:aff		
 łojeniem	łoić	ger:sg:inst:n2:imperf:aff		
 łojeni	łoić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łojeniom	łoić	ger:pl:dat.loc:n2:imperf:aff		
+łojeniom	łoić	ger:pl:dat:n2:imperf:aff		
 łojeniu	łoić	ger:sg:dat.loc:n2:imperf:aff		
 łojeń	łoić	ger:pl:gen:n2:imperf:aff		
 łoję	łoić	fin:sg:pri:imperf		pot.
@@ -14696,12 +14736,13 @@
 łokciowały	łokciować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		indyw.
 łokciowałyście	łokciować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		indyw.
 łokciowałyśmy	łokciować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		indyw.
+łokciowaniach	łokciować	ger:pl:loc:n2:imperf:aff		
 łokciowania	łokciować	ger:pl:nom.acc:n2:imperf:aff		
 łokciowania	łokciować	ger:sg:gen:n2:imperf:aff		
 łokciowaniami	łokciować	ger:pl:inst:n2:imperf:aff		
 łokciowanie	łokciować	ger:sg:nom.acc:n2:imperf:aff		
 łokciowaniem	łokciować	ger:sg:inst:n2:imperf:aff		
-łokciowaniom	łokciować	ger:pl:dat.loc:n2:imperf:aff		
+łokciowaniom	łokciować	ger:pl:dat:n2:imperf:aff		
 łokciowaniu	łokciować	ger:sg:dat.loc:n2:imperf:aff		
 łokciowano	łokciować	imps:imperf		indyw.
 łokciowań	łokciować	ger:pl:gen:n2:imperf:aff		
@@ -14992,13 +15033,14 @@
 łomane	łomać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łomane	łomać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łomanemu	łomać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łomaniach	łomać	ger:pl:loc:n2:imperf:aff		
 łomania	łomać	ger:pl:nom.acc:n2:imperf:aff		
 łomania	łomać	ger:sg:gen:n2:imperf:aff		
 łomaniami	łomać	ger:pl:inst:n2:imperf:aff		
 łomanie	łomać	ger:sg:nom.acc:n2:imperf:aff		
 łomaniem	łomać	ger:sg:inst:n2:imperf:aff		
 łomani	łomać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łomaniom	łomać	ger:pl:dat.loc:n2:imperf:aff		
+łomaniom	łomać	ger:pl:dat:n2:imperf:aff		
 łomaniu	łomać	ger:sg:dat.loc:n2:imperf:aff		
 łomano	łomać	imps:imperf		daw.
 łomanych	łomać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -15142,13 +15184,14 @@
 łomią	łomić	fin:pl:ter:imperf		daw.
 łomicie	łomić	fin:pl:sec:imperf		daw.
 łomić	łomić	inf:imperf		daw.
+łomieniach	łomić	ger:pl:loc:n2:imperf:aff		
 łomienia	łomić	ger:pl:nom.acc:n2:imperf:aff		
 łomienia	łomić	ger:sg:gen:n2:imperf:aff		
 łomieniami	łomić	ger:pl:inst:n2:imperf:aff		
 łomienie	łomić	ger:sg:nom.acc:n2:imperf:aff		
 łomieniem	łomić	ger:sg:inst:n2:imperf:aff		
 łomieni	łomić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łomieniom	łomić	ger:pl:dat.loc:n2:imperf:aff		
+łomieniom	łomić	ger:pl:dat:n2:imperf:aff		
 łomieniu	łomić	ger:sg:dat.loc:n2:imperf:aff		
 łomień	łomić	ger:pl:gen:n2:imperf:aff		
 łomię	łomić	fin:sg:pri:imperf		daw.
@@ -15498,12 +15541,13 @@
 łomotałyśmy	łomotać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
 łomotam	łomotać	fin:sg:pri:imperf		rzad.
 łomotamy	łomotać	fin:pl:pri:imperf		rzad.
+łomotaniach	łomotać	ger:pl:loc:n2:imperf:aff		
 łomotania	łomotać	ger:pl:nom.acc:n2:imperf:aff		
 łomotania	łomotać	ger:sg:gen:n2:imperf:aff		
 łomotaniami	łomotać	ger:pl:inst:n2:imperf:aff		
 łomotanie	łomotać	ger:sg:nom.acc:n2:imperf:aff		
 łomotaniem	łomotać	ger:sg:inst:n2:imperf:aff		
-łomotaniom	łomotać	ger:pl:dat.loc:n2:imperf:aff		
+łomotaniom	łomotać	ger:pl:dat:n2:imperf:aff		
 łomotaniu	łomotać	ger:sg:dat.loc:n2:imperf:aff		
 łomotano	łomotać	imps:imperf		
 łomotano	łomotać	imps:imperf		rzad.
@@ -15566,12 +15610,13 @@
 łomotnie	łomotnąć	fin:sg:ter:perf		
 łomotniemy	łomotnąć	fin:pl:pri:perf		
 łomotniesz	łomotnąć	fin:sg:sec:perf		
+łomotnięciach	łomotnąć	ger:pl:loc:n2:perf:aff		
 łomotnięcia	łomotnąć	ger:pl:nom.acc:n2:perf:aff		
 łomotnięcia	łomotnąć	ger:sg:gen:n2:perf:aff		
 łomotnięciami	łomotnąć	ger:pl:inst:n2:perf:aff		
 łomotnięcie	łomotnąć	ger:sg:nom.acc:n2:perf:aff		
 łomotnięciem	łomotnąć	ger:sg:inst:n2:perf:aff		
-łomotnięciom	łomotnąć	ger:pl:dat.loc:n2:perf:aff		
+łomotnięciom	łomotnąć	ger:pl:dat:n2:perf:aff		
 łomotnięciu	łomotnąć	ger:sg:dat.loc:n2:perf:aff		
 łomotnięć	łomotnąć	ger:pl:gen:n2:perf:aff		
 łomotnięto	łomotnąć	imps:perf		
@@ -16223,12 +16268,13 @@
 łopotały	łopotać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 łopotałyście	łopotać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 łopotałyśmy	łopotać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+łopotaniach	łopotać	ger:pl:loc:n2:imperf:aff		
 łopotania	łopotać	ger:pl:nom.acc:n2:imperf:aff		
 łopotania	łopotać	ger:sg:gen:n2:imperf:aff		
 łopotaniami	łopotać	ger:pl:inst:n2:imperf:aff		
 łopotanie	łopotać	ger:sg:nom.acc:n2:imperf:aff		
 łopotaniem	łopotać	ger:sg:inst:n2:imperf:aff		
-łopotaniom	łopotać	ger:pl:dat.loc:n2:imperf:aff		
+łopotaniom	łopotać	ger:pl:dat:n2:imperf:aff		
 łopotaniu	łopotać	ger:sg:dat.loc:n2:imperf:aff		
 łopotano	łopotać	imps:imperf		
 łopotań	łopotać	ger:pl:gen:n2:imperf:aff		
@@ -16703,12 +16749,13 @@
 łoskotały	łoskotać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 łoskotałyście	łoskotać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 łoskotałyśmy	łoskotać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+łoskotaniach	łoskotać	ger:pl:loc:n2:imperf:aff		
 łoskotania	łoskotać	ger:pl:nom.acc:n2:imperf:aff		
 łoskotania	łoskotać	ger:sg:gen:n2:imperf:aff		
 łoskotaniami	łoskotać	ger:pl:inst:n2:imperf:aff		
 łoskotanie	łoskotać	ger:sg:nom.acc:n2:imperf:aff		
 łoskotaniem	łoskotać	ger:sg:inst:n2:imperf:aff		
-łoskotaniom	łoskotać	ger:pl:dat.loc:n2:imperf:aff		
+łoskotaniom	łoskotać	ger:pl:dat:n2:imperf:aff		
 łoskotaniu	łoskotać	ger:sg:dat.loc:n2:imperf:aff		
 łoskotano	łoskotać	imps:imperf		
 łoskotań	łoskotać	ger:pl:gen:n2:imperf:aff		
@@ -17189,12 +17236,13 @@
 łotrowały	łotrować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
 łotrowałyście	łotrować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
 łotrowałyśmy	łotrować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+łotrowaniach	łotrować	ger:pl:loc:n2:imperf:aff		
 łotrowania	łotrować	ger:pl:nom.acc:n2:imperf:aff		
 łotrowania	łotrować	ger:sg:gen:n2:imperf:aff		
 łotrowaniami	łotrować	ger:pl:inst:n2:imperf:aff		
 łotrowanie	łotrować	ger:sg:nom.acc:n2:imperf:aff		
 łotrowaniem	łotrować	ger:sg:inst:n2:imperf:aff		
-łotrowaniom	łotrować	ger:pl:dat.loc:n2:imperf:aff		
+łotrowaniom	łotrować	ger:pl:dat:n2:imperf:aff		
 łotrowaniu	łotrować	ger:sg:dat.loc:n2:imperf:aff		
 łotrowano	łotrować	imps:imperf		przest.
 łotrowań	łotrować	ger:pl:gen:n2:imperf:aff		
@@ -17397,12 +17445,13 @@
 łotrzykowały	łotrzykować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 łotrzykowałyście	łotrzykować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 łotrzykowałyśmy	łotrzykować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+łotrzykowaniach	łotrzykować	ger:pl:loc:n2:imperf:aff		
 łotrzykowania	łotrzykować	ger:pl:nom.acc:n2:imperf:aff		
 łotrzykowania	łotrzykować	ger:sg:gen:n2:imperf:aff		
 łotrzykowaniami	łotrzykować	ger:pl:inst:n2:imperf:aff		
 łotrzykowanie	łotrzykować	ger:sg:nom.acc:n2:imperf:aff		
 łotrzykowaniem	łotrzykować	ger:sg:inst:n2:imperf:aff		
-łotrzykowaniom	łotrzykować	ger:pl:dat.loc:n2:imperf:aff		
+łotrzykowaniom	łotrzykować	ger:pl:dat:n2:imperf:aff		
 łotrzykowaniu	łotrzykować	ger:sg:dat.loc:n2:imperf:aff		
 łotrzykowano	łotrzykować	imps:imperf		daw.
 łotrzykowań	łotrzykować	ger:pl:gen:n2:imperf:aff		
@@ -17728,13 +17777,14 @@
 łowią	łowić	fin:pl:ter:imperf		
 łowicie	łowić	fin:pl:sec:imperf		
 łowić	łowić	inf:imperf		
+łowieniach	łowić	ger:pl:loc:n2:imperf:aff		
 łowienia	łowić	ger:pl:nom.acc:n2:imperf:aff		
 łowienia	łowić	ger:sg:gen:n2:imperf:aff		
 łowieniami	łowić	ger:pl:inst:n2:imperf:aff		
 łowienie	łowić	ger:sg:nom.acc:n2:imperf:aff		
 łowieniem	łowić	ger:sg:inst:n2:imperf:aff		
 łowieni	łowić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łowieniom	łowić	ger:pl:dat.loc:n2:imperf:aff		
+łowieniom	łowić	ger:pl:dat:n2:imperf:aff		
 łowieniu	łowić	ger:sg:dat.loc:n2:imperf:aff		
 łowień	łowić	ger:pl:gen:n2:imperf:aff		
 łowię	łowić	fin:sg:pri:imperf		
@@ -18244,13 +18294,14 @@
 łożącym	łożyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 łożącym	łożyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łożą	łożyć	fin:pl:ter:imperf		
+łożeniach	łożyć	ger:pl:loc:n2:imperf:aff		
 łożenia	łożyć	ger:pl:nom.acc:n2:imperf:aff		
 łożenia	łożyć	ger:sg:gen:n2:imperf:aff		
 łożeniami	łożyć	ger:pl:inst:n2:imperf:aff		
 łożenie	łożyć	ger:sg:nom.acc:n2:imperf:aff		
 łożeniem	łożyć	ger:sg:inst:n2:imperf:aff		
 łożeni	łożyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łożeniom	łożyć	ger:pl:dat.loc:n2:imperf:aff		
+łożeniom	łożyć	ger:pl:dat:n2:imperf:aff		
 łożeniu	łożyć	ger:sg:dat.loc:n2:imperf:aff		
 łożeń	łożyć	ger:pl:gen:n2:imperf:aff		
 łożę	łożyć	fin:sg:pri:imperf		
@@ -18371,13 +18422,14 @@
 łożyskowane	łożyskować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łożyskowane	łożyskować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łożyskowanemu	łożyskować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łożyskowaniach	łożyskować	ger:pl:loc:n2:imperf:aff		
 łożyskowania	łożyskować	ger:pl:nom.acc:n2:imperf:aff		
 łożyskowania	łożyskować	ger:sg:gen:n2:imperf:aff		
 łożyskowaniami	łożyskować	ger:pl:inst:n2:imperf:aff		
 łożyskowanie	łożyskować	ger:sg:nom.acc:n2:imperf:aff		
 łożyskowaniem	łożyskować	ger:sg:inst:n2:imperf:aff		
 łożyskowani	łożyskować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łożyskowaniom	łożyskować	ger:pl:dat.loc:n2:imperf:aff		
+łożyskowaniom	łożyskować	ger:pl:dat:n2:imperf:aff		
 łożyskowaniu	łożyskować	ger:sg:dat.loc:n2:imperf:aff		
 łożyskowano	łożyskować	imps:imperf		
 łożyskowanych	łożyskować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -18642,12 +18694,13 @@
 łódkowały	łódkować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
 łódkowałyście	łódkować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
 łódkowałyśmy	łódkować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+łódkowaniach	łódkować	ger:pl:loc:n2:imperf:aff		
 łódkowania	łódkować	ger:pl:nom.acc:n2:imperf:aff		
 łódkowania	łódkować	ger:sg:gen:n2:imperf:aff		
 łódkowaniami	łódkować	ger:pl:inst:n2:imperf:aff		
 łódkowanie	łódkować	ger:sg:nom.acc:n2:imperf:aff		
 łódkowaniem	łódkować	ger:sg:inst:n2:imperf:aff		
-łódkowaniom	łódkować	ger:pl:dat.loc:n2:imperf:aff		
+łódkowaniom	łódkować	ger:pl:dat:n2:imperf:aff		
 łódkowaniu	łódkować	ger:sg:dat.loc:n2:imperf:aff		
 łódkowano	łódkować	imps:imperf		rzad.
 łódkowań	łódkować	ger:pl:gen:n2:imperf:aff		
@@ -19599,12 +19652,13 @@
 łuczącym	łuczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łuczą	łuczyć	fin:pl:ter:imperf		rzad.
 łuczcie	łuczyć	impt:pl:sec:imperf		rzad.
+łuczeniach	łuczyć	ger:pl:loc:n2:imperf:aff		
 łuczenia	łuczyć	ger:pl:nom.acc:n2:imperf:aff		
 łuczenia	łuczyć	ger:sg:gen:n2:imperf:aff		
 łuczeniami	łuczyć	ger:pl:inst:n2:imperf:aff		
 łuczenie	łuczyć	ger:sg:nom.acc:n2:imperf:aff		
 łuczeniem	łuczyć	ger:sg:inst:n2:imperf:aff		
-łuczeniom	łuczyć	ger:pl:dat.loc:n2:imperf:aff		
+łuczeniom	łuczyć	ger:pl:dat:n2:imperf:aff		
 łuczeniu	łuczyć	ger:sg:dat.loc:n2:imperf:aff		
 łuczeń	łuczyć	ger:pl:gen:n2:imperf:aff		
 łuczę	łuczyć	fin:sg:pri:imperf		rzad.
@@ -19802,13 +19856,14 @@
 łudzącym	łudzić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 łudzącym	łudzić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łudzą	łudzić	fin:pl:ter:imperf		
+łudzeniach	łudzić	ger:pl:loc:n2:imperf:aff		
 łudzenia	łudzić	ger:pl:nom.acc:n2:imperf:aff		
 łudzenia	łudzić	ger:sg:gen:n2:imperf:aff		
 łudzeniami	łudzić	ger:pl:inst:n2:imperf:aff		
 łudzenie	łudzić	ger:sg:nom.acc:n2:imperf:aff		
 łudzeniem	łudzić	ger:sg:inst:n2:imperf:aff		
 łudzeni	łudzić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łudzeniom	łudzić	ger:pl:dat.loc:n2:imperf:aff		
+łudzeniom	łudzić	ger:pl:dat:n2:imperf:aff		
 łudzeniu	łudzić	ger:sg:dat.loc:n2:imperf:aff		
 łudzeń	łudzić	ger:pl:gen:n2:imperf:aff		
 łudzę	łudzić	fin:sg:pri:imperf		
@@ -19985,13 +20040,14 @@
 ługowane	ługować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ługowane	ługować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 ługowanemu	ługować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ługowaniach	ługować	ger:pl:loc:n2:imperf:aff		
 ługowania	ługować	ger:pl:nom.acc:n2:imperf:aff		
 ługowania	ługować	ger:sg:gen:n2:imperf:aff		
 ługowaniami	ługować	ger:pl:inst:n2:imperf:aff		
 ługowanie	ługować	ger:sg:nom.acc:n2:imperf:aff		
 ługowaniem	ługować	ger:sg:inst:n2:imperf:aff		
 ługowani	ługować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ługowaniom	ługować	ger:pl:dat.loc:n2:imperf:aff		
+ługowaniom	ługować	ger:pl:dat:n2:imperf:aff		
 ługowaniu	ługować	ger:sg:dat.loc:n2:imperf:aff		
 ługowano	ługować	imps:imperf		
 ługowanych	ługować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -20274,12 +20330,13 @@
 łukowały	łukować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 łukowałyście	łukować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 łukowałyśmy	łukować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+łukowaniach	łukować	ger:pl:loc:n2:imperf:aff		
 łukowania	łukować	ger:pl:nom.acc:n2:imperf:aff		
 łukowania	łukować	ger:sg:gen:n2:imperf:aff		
 łukowaniami	łukować	ger:pl:inst:n2:imperf:aff		
 łukowanie	łukować	ger:sg:nom.acc:n2:imperf:aff		
 łukowaniem	łukować	ger:sg:inst:n2:imperf:aff		
-łukowaniom	łukować	ger:pl:dat.loc:n2:imperf:aff		
+łukowaniom	łukować	ger:pl:dat:n2:imperf:aff		
 łukowaniu	łukować	ger:sg:dat.loc:n2:imperf:aff		
 łukowano	łukować	imps:imperf		
 łukowań	łukować	ger:pl:gen:n2:imperf:aff		
@@ -20689,13 +20746,14 @@
 łupane	łupać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łupane	łupać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łupanemu	łupać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łupaniach	łupać	ger:pl:loc:n2:imperf:aff		
 łupania	łupać	ger:pl:nom.acc:n2:imperf:aff		
 łupania	łupać	ger:sg:gen:n2:imperf:aff		
 łupaniami	łupać	ger:pl:inst:n2:imperf:aff		
 łupanie	łupać	ger:sg:nom.acc:n2:imperf:aff		
 łupaniem	łupać	ger:sg:inst:n2:imperf:aff		
 łupani	łupać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łupaniom	łupać	ger:pl:dat.loc:n2:imperf:aff		
+łupaniom	łupać	ger:pl:dat:n2:imperf:aff		
 łupaniu	łupać	ger:sg:dat.loc:n2:imperf:aff		
 łupano	łupać	imps:imperf		
 łupanych	łupać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -20824,13 +20882,14 @@
 łupią	łupić	fin:pl:ter:imperf		
 łupicie	łupić	fin:pl:sec:imperf		
 łupić	łupić	inf:imperf		
+łupieniach	łupić	ger:pl:loc:n2:imperf:aff		
 łupienia	łupić	ger:pl:nom.acc:n2:imperf:aff		
 łupienia	łupić	ger:sg:gen:n2:imperf:aff		
 łupieniami	łupić	ger:pl:inst:n2:imperf:aff		
 łupienie	łupić	ger:sg:nom.acc:n2:imperf:aff		
 łupieniem	łupić	ger:sg:inst:n2:imperf:aff		
 łupieni	łupić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łupieniom	łupić	ger:pl:dat.loc:n2:imperf:aff		
+łupieniom	łupić	ger:pl:dat:n2:imperf:aff		
 łupieniu	łupić	ger:sg:dat.loc:n2:imperf:aff		
 łupień	łupić	ger:pl:gen:n2:imperf:aff		
 łupię	łupić	fin:sg:pri:imperf		
@@ -21180,12 +21239,13 @@
 łupieżącym	łupieżyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łupieżą	łupieżyć	fin:pl:ter:imperf		daw.
 łupieżcie	łupieżyć	impt:pl:sec:imperf		daw.
+łupieżeniach	łupieżyć	ger:pl:loc:n2:imperf:aff		
 łupieżenia	łupieżyć	ger:pl:nom.acc:n2:imperf:aff		
 łupieżenia	łupieżyć	ger:sg:gen:n2:imperf:aff		
 łupieżeniami	łupieżyć	ger:pl:inst:n2:imperf:aff		
 łupieżenie	łupieżyć	ger:sg:nom.acc:n2:imperf:aff		
 łupieżeniem	łupieżyć	ger:sg:inst:n2:imperf:aff		
-łupieżeniom	łupieżyć	ger:pl:dat.loc:n2:imperf:aff		
+łupieżeniom	łupieżyć	ger:pl:dat:n2:imperf:aff		
 łupieżeniu	łupieżyć	ger:sg:dat.loc:n2:imperf:aff		
 łupieżeń	łupieżyć	ger:pl:gen:n2:imperf:aff		
 łupieżę	łupieżyć	fin:sg:pri:imperf		daw.
@@ -21366,12 +21426,13 @@
 łupkościom	łupkość	subst:pl:dat:f		
 łupkość	łupkość	subst:sg:acc:f		
 łupkość	łupkość	subst:sg:nom:f		
+łupkowaceniach	łupkowacieć	ger:pl:loc:n2:imperf:aff		
 łupkowacenia	łupkowacieć	ger:pl:nom.acc:n2:imperf:aff		
 łupkowacenia	łupkowacieć	ger:sg:gen:n2:imperf:aff		
 łupkowaceniami	łupkowacieć	ger:pl:inst:n2:imperf:aff		
 łupkowacenie	łupkowacieć	ger:sg:nom.acc:n2:imperf:aff		
 łupkowaceniem	łupkowacieć	ger:sg:inst:n2:imperf:aff		
-łupkowaceniom	łupkowacieć	ger:pl:dat.loc:n2:imperf:aff		
+łupkowaceniom	łupkowacieć	ger:pl:dat:n2:imperf:aff		
 łupkowaceniu	łupkowacieć	ger:sg:dat.loc:n2:imperf:aff		
 łupkowaceń	łupkowacieć	ger:pl:gen:n2:imperf:aff		
 łupkowaciałaby	łupkowacieć	cond:sg:f:ter:imperf		
@@ -21648,13 +21709,14 @@
 łupnie	łupnąć	fin:sg:ter:perf		
 łupniemy	łupnąć	fin:pl:pri:perf		
 łupniesz	łupnąć	fin:sg:sec:perf		
+łupnięciach	łupnąć	ger:pl:loc:n2:perf:aff		
 łupnięcia	łupnąć	ger:pl:nom.acc:n2:perf:aff		
 łupnięcia	łupnąć	ger:sg:gen:n2:perf:aff		
 łupnięciami	łupnąć	ger:pl:inst:n2:perf:aff		
 łupnięcie	łupnąć	ger:sg:nom.acc:n2:perf:aff		
 łupnięciem	łupnąć	ger:sg:inst:n2:perf:aff		
 łupnięci	łupnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-łupnięciom	łupnąć	ger:pl:dat.loc:n2:perf:aff		
+łupnięciom	łupnąć	ger:pl:dat:n2:perf:aff		
 łupnięciu	łupnąć	ger:sg:dat.loc:n2:perf:aff		
 łupnięć	łupnąć	ger:pl:gen:n2:perf:aff		
 łupnięta	łupnąć	ppas:sg:nom.voc:f:perf:aff		
@@ -21959,13 +22021,14 @@
 łuskane	łuskać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łuskane	łuskać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łuskanemu	łuskać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łuskaniach	łuskać	ger:pl:loc:n2:imperf:aff		
 łuskania	łuskać	ger:pl:nom.acc:n2:imperf:aff		
 łuskania	łuskać	ger:sg:gen:n2:imperf:aff		
 łuskaniami	łuskać	ger:pl:inst:n2:imperf:aff		
 łuskanie	łuskać	ger:sg:nom.acc:n2:imperf:aff		
 łuskaniem	łuskać	ger:sg:inst:n2:imperf:aff		
 łuskani	łuskać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łuskaniom	łuskać	ger:pl:dat.loc:n2:imperf:aff		
+łuskaniom	łuskać	ger:pl:dat:n2:imperf:aff		
 łuskaniu	łuskać	ger:sg:dat.loc:n2:imperf:aff		
 łuskano	łuskać	imps:imperf		
 łuskanych	łuskać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -22330,12 +22393,13 @@
 łuśnie	łusnąć	fin:sg:ter:perf		rzad.
 łuśniemy	łusnąć	fin:pl:pri:perf		rzad.
 łuśniesz	łusnąć	fin:sg:sec:perf		rzad.
+łuśnięciach	łusnąć	ger:pl:loc:n2:perf:aff		
 łuśnięcia	łusnąć	ger:pl:nom.acc:n2:perf:aff		
 łuśnięcia	łusnąć	ger:sg:gen:n2:perf:aff		
 łuśnięciami	łusnąć	ger:pl:inst:n2:perf:aff		
 łuśnięcie	łusnąć	ger:sg:nom.acc:n2:perf:aff		
 łuśnięciem	łusnąć	ger:sg:inst:n2:perf:aff		
-łuśnięciom	łusnąć	ger:pl:dat.loc:n2:perf:aff		
+łuśnięciom	łusnąć	ger:pl:dat:n2:perf:aff		
 łuśnięciu	łusnąć	ger:sg:dat.loc:n2:perf:aff		
 łuśnięć	łusnąć	ger:pl:gen:n2:perf:aff		
 łuśnięto	łusnąć	imps:perf		rzad.
@@ -22752,13 +22816,14 @@
 łuszczącym	łuszczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łuszczą	łuszczyć	fin:pl:ter:imperf		
 łuszczcie	łuszczyć	impt:pl:sec:imperf		
+łuszczeniach	łuszczyć	ger:pl:loc:n2:imperf:aff		
 łuszczenia	łuszczyć	ger:pl:nom.acc:n2:imperf:aff		
 łuszczenia	łuszczyć	ger:sg:gen:n2:imperf:aff		
 łuszczeniami	łuszczyć	ger:pl:inst:n2:imperf:aff		
 łuszczenie	łuszczyć	ger:sg:nom.acc:n2:imperf:aff		
 łuszczeniem	łuszczyć	ger:sg:inst:n2:imperf:aff		
 łuszczeni	łuszczyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łuszczeniom	łuszczyć	ger:pl:dat.loc:n2:imperf:aff		
+łuszczeniom	łuszczyć	ger:pl:dat:n2:imperf:aff		
 łuszczeniu	łuszczyć	ger:sg:dat.loc:n2:imperf:aff		
 łuszczeń	łuszczyć	ger:pl:gen:n2:imperf:aff		
 łuszczę	łuszczyć	fin:sg:pri:imperf		
@@ -23386,12 +23451,13 @@
 łyczeli	łyczeć	praet:pl:m1.p1:ter:imperf		
 łyczeliście	łyczeć	praet:pl:m1.p1:sec:imperf		
 łyczeliśmy	łyczeć	praet:pl:m1.p1:pri:imperf		
+łyczeniach	łyczeć	ger:pl:loc:n2:imperf:aff		
 łyczenia	łyczeć	ger:pl:nom.acc:n2:imperf:aff		
 łyczenia	łyczeć	ger:sg:gen:n2:imperf:aff		
 łyczeniami	łyczeć	ger:pl:inst:n2:imperf:aff		
 łyczenie	łyczeć	ger:sg:nom.acc:n2:imperf:aff		
 łyczeniem	łyczeć	ger:sg:inst:n2:imperf:aff		
-łyczeniom	łyczeć	ger:pl:dat.loc:n2:imperf:aff		
+łyczeniom	łyczeć	ger:pl:dat:n2:imperf:aff		
 łyczeniu	łyczeć	ger:sg:dat.loc:n2:imperf:aff		
 łyczeń	łyczeć	ger:pl:gen:n2:imperf:aff		
 łyczek	łyczek:s1	subst:sg:acc:m3	pospolita	
@@ -23709,13 +23775,14 @@
 łykane	łykać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łykane	łykać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łykanemu	łykać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łykaniach	łykać	ger:pl:loc:n2:imperf:aff		
 łykania	łykać	ger:pl:nom.acc:n2:imperf:aff		
 łykania	łykać	ger:sg:gen:n2:imperf:aff		
 łykaniami	łykać	ger:pl:inst:n2:imperf:aff		
 łykanie	łykać	ger:sg:nom.acc:n2:imperf:aff		
 łykaniem	łykać	ger:sg:inst:n2:imperf:aff		
 łykani	łykać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łykaniom	łykać	ger:pl:dat.loc:n2:imperf:aff		
+łykaniom	łykać	ger:pl:dat:n2:imperf:aff		
 łykaniu	łykać	ger:sg:dat.loc:n2:imperf:aff		
 łykano	łykać	imps:imperf		
 łykanych	łykać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -23836,13 +23903,14 @@
 łyknie	łyknąć	fin:sg:ter:perf		
 łykniemy	łyknąć	fin:pl:pri:perf		
 łykniesz	łyknąć	fin:sg:sec:perf		
+łyknięciach	łyknąć	ger:pl:loc:n2:perf:aff		
 łyknięcia	łyknąć	ger:pl:nom.acc:n2:perf:aff		
 łyknięcia	łyknąć	ger:sg:gen:n2:perf:aff		
 łyknięciami	łyknąć	ger:pl:inst:n2:perf:aff		
 łyknięcie	łyknąć	ger:sg:nom.acc:n2:perf:aff		
 łyknięciem	łyknąć	ger:sg:inst:n2:perf:aff		
 łyknięci	łyknąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-łyknięciom	łyknąć	ger:pl:dat.loc:n2:perf:aff		
+łyknięciom	łyknąć	ger:pl:dat:n2:perf:aff		
 łyknięciu	łyknąć	ger:sg:dat.loc:n2:perf:aff		
 łyknięć	łyknąć	ger:pl:gen:n2:perf:aff		
 łyknięta	łyknąć	ppas:sg:nom.voc:f:perf:aff		
@@ -23916,12 +23984,13 @@
 łykodrzewnym	łykodrzewny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 łykodrzewnym	łykodrzewny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 łykodrzewnym	łykodrzewny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+łykowaceniach	łykowacieć	ger:pl:loc:n2:imperf:aff		
 łykowacenia	łykowacieć	ger:pl:nom.acc:n2:imperf:aff		
 łykowacenia	łykowacieć	ger:sg:gen:n2:imperf:aff		
 łykowaceniami	łykowacieć	ger:pl:inst:n2:imperf:aff		
 łykowacenie	łykowacieć	ger:sg:nom.acc:n2:imperf:aff		
 łykowaceniem	łykowacieć	ger:sg:inst:n2:imperf:aff		
-łykowaceniom	łykowacieć	ger:pl:dat.loc:n2:imperf:aff		
+łykowaceniom	łykowacieć	ger:pl:dat:n2:imperf:aff		
 łykowaceniu	łykowacieć	ger:sg:dat.loc:n2:imperf:aff		
 łykowaceń	łykowacieć	ger:pl:gen:n2:imperf:aff		
 łykowaciałaby	łykowacieć	cond:sg:f:ter:imperf		
@@ -24100,12 +24169,13 @@
 łypały	łypać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 łypałyście	łypać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 łypałyśmy	łypać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+łypaniach	łypać	ger:pl:loc:n2:imperf:aff		
 łypania	łypać	ger:pl:nom.acc:n2:imperf:aff		
 łypania	łypać	ger:sg:gen:n2:imperf:aff		
 łypaniami	łypać	ger:pl:inst:n2:imperf:aff		
 łypanie	łypać	ger:sg:nom.acc:n2:imperf:aff		
 łypaniem	łypać	ger:sg:inst:n2:imperf:aff		
-łypaniom	łypać	ger:pl:dat.loc:n2:imperf:aff		
+łypaniom	łypać	ger:pl:dat:n2:imperf:aff		
 łypaniu	łypać	ger:sg:dat.loc:n2:imperf:aff		
 łypano	łypać	imps:imperf		
 łypań	łypać	ger:pl:gen:n2:imperf:aff		
@@ -24178,12 +24248,13 @@
 łypnie	łypnąć	fin:sg:ter:perf		
 łypniemy	łypnąć	fin:pl:pri:perf		
 łypniesz	łypnąć	fin:sg:sec:perf		
+łypnięciach	łypnąć	ger:pl:loc:n2:perf:aff		
 łypnięcia	łypnąć	ger:pl:nom.acc:n2:perf:aff		
 łypnięcia	łypnąć	ger:sg:gen:n2:perf:aff		
 łypnięciami	łypnąć	ger:pl:inst:n2:perf:aff		
 łypnięcie	łypnąć	ger:sg:nom.acc:n2:perf:aff		
 łypnięciem	łypnąć	ger:sg:inst:n2:perf:aff		
-łypnięciom	łypnąć	ger:pl:dat.loc:n2:perf:aff		
+łypnięciom	łypnąć	ger:pl:dat:n2:perf:aff		
 łypnięciu	łypnąć	ger:sg:dat.loc:n2:perf:aff		
 łypnięć	łypnąć	ger:pl:gen:n2:perf:aff		
 łypnięto	łypnąć	imps:perf		
@@ -24363,12 +24434,13 @@
 łysieli	łysieć	praet:pl:m1.p1:ter:imperf		
 łysieliście	łysieć	praet:pl:m1.p1:sec:imperf		
 łysieliśmy	łysieć	praet:pl:m1.p1:pri:imperf		
+łysieniach	łysieć	ger:pl:loc:n2:imperf:aff		
 łysienia	łysieć	ger:pl:nom.acc:n2:imperf:aff		
 łysienia	łysieć	ger:sg:gen:n2:imperf:aff		
 łysieniami	łysieć	ger:pl:inst:n2:imperf:aff		
 łysienie	łysieć	ger:sg:nom.acc:n2:imperf:aff		
 łysieniem	łysieć	ger:sg:inst:n2:imperf:aff		
-łysieniom	łysieć	ger:pl:dat.loc:n2:imperf:aff		
+łysieniom	łysieć	ger:pl:dat:n2:imperf:aff		
 łysieniu	łysieć	ger:sg:dat.loc:n2:imperf:aff		
 łysień	łysieć	ger:pl:gen:n2:imperf:aff		
 łysielcach	łysielec	subst:pl:loc:m1	pospolita	
@@ -24572,12 +24644,13 @@
 łyskałyśmy	łyskać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 łyskam	łyskać	fin:sg:pri:imperf		
 łyskamy	łyskać	fin:pl:pri:imperf		
+łyskaniach	łyskać	ger:pl:loc:n2:imperf:aff		
 łyskania	łyskać	ger:pl:nom.acc:n2:imperf:aff		
 łyskania	łyskać	ger:sg:gen:n2:imperf:aff		
 łyskaniami	łyskać	ger:pl:inst:n2:imperf:aff		
 łyskanie	łyskać	ger:sg:nom.acc:n2:imperf:aff		
 łyskaniem	łyskać	ger:sg:inst:n2:imperf:aff		
-łyskaniom	łyskać	ger:pl:dat.loc:n2:imperf:aff		
+łyskaniom	łyskać	ger:pl:dat:n2:imperf:aff		
 łyskaniu	łyskać	ger:sg:dat.loc:n2:imperf:aff		
 łyskano	łyskać	imps:imperf		
 łyskań	łyskać	ger:pl:gen:n2:imperf:aff		
@@ -24677,12 +24750,13 @@
 łyśnie	łysnąć	fin:sg:ter:perf		
 łyśniemy	łysnąć	fin:pl:pri:perf		
 łyśniesz	łysnąć	fin:sg:sec:perf		
+łyśnięciach	łysnąć	ger:pl:loc:n2:perf:aff		
 łyśnięcia	łysnąć	ger:pl:nom.acc:n2:perf:aff		
 łyśnięcia	łysnąć	ger:sg:gen:n2:perf:aff		
 łyśnięciami	łysnąć	ger:pl:inst:n2:perf:aff		
 łyśnięcie	łysnąć	ger:sg:nom.acc:n2:perf:aff		
 łyśnięciem	łysnąć	ger:sg:inst:n2:perf:aff		
-łyśnięciom	łysnąć	ger:pl:dat.loc:n2:perf:aff		
+łyśnięciom	łysnąć	ger:pl:dat:n2:perf:aff		
 łyśnięciu	łysnąć	ger:sg:dat.loc:n2:perf:aff		
 łyśnięć	łysnąć	ger:pl:gen:n2:perf:aff		
 łyśnięto	łysnąć	imps:perf		
@@ -25009,12 +25083,13 @@
 łyszczeli	łyszczeć	praet:pl:m1.p1:ter:imperf		daw.
 łyszczeliście	łyszczeć	praet:pl:m1.p1:sec:imperf		daw.
 łyszczeliśmy	łyszczeć	praet:pl:m1.p1:pri:imperf		daw.
+łyszczeniach	łyszczeć	ger:pl:loc:n2:imperf:aff		
 łyszczenia	łyszczeć	ger:pl:nom.acc:n2:imperf:aff		
 łyszczenia	łyszczeć	ger:sg:gen:n2:imperf:aff		
 łyszczeniami	łyszczeć	ger:pl:inst:n2:imperf:aff		
 łyszczenie	łyszczeć	ger:sg:nom.acc:n2:imperf:aff		
 łyszczeniem	łyszczeć	ger:sg:inst:n2:imperf:aff		
-łyszczeniom	łyszczeć	ger:pl:dat.loc:n2:imperf:aff		
+łyszczeniom	łyszczeć	ger:pl:dat:n2:imperf:aff		
 łyszczeniu	łyszczeć	ger:sg:dat.loc:n2:imperf:aff		
 łyszczeń	łyszczeć	ger:pl:gen:n2:imperf:aff		
 łyszczę	łyszczeć	fin:sg:pri:imperf		daw.
@@ -25226,13 +25301,14 @@
 łyżeczkowane	łyżeczkować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łyżeczkowane	łyżeczkować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łyżeczkowanemu	łyżeczkować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łyżeczkowaniach	łyżeczkować	ger:pl:loc:n2:imperf:aff		
 łyżeczkowania	łyżeczkować	ger:pl:nom.acc:n2:imperf:aff		
 łyżeczkowania	łyżeczkować	ger:sg:gen:n2:imperf:aff		
 łyżeczkowaniami	łyżeczkować	ger:pl:inst:n2:imperf:aff		
 łyżeczkowanie	łyżeczkować	ger:sg:nom.acc:n2:imperf:aff		
 łyżeczkowaniem	łyżeczkować	ger:sg:inst:n2:imperf:aff		
 łyżeczkowani	łyżeczkować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łyżeczkowaniom	łyżeczkować	ger:pl:dat.loc:n2:imperf:aff		
+łyżeczkowaniom	łyżeczkować	ger:pl:dat:n2:imperf:aff		
 łyżeczkowaniu	łyżeczkować	ger:sg:dat.loc:n2:imperf:aff		
 łyżeczkowano	łyżeczkować	imps:imperf		
 łyżeczkowanych	łyżeczkować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -25388,13 +25464,14 @@
 łyżkowane	łyżkować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 łyżkowane	łyżkować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 łyżkowanemu	łyżkować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+łyżkowaniach	łyżkować	ger:pl:loc:n2:imperf:aff		
 łyżkowania	łyżkować	ger:pl:nom.acc:n2:imperf:aff		
 łyżkowania	łyżkować	ger:sg:gen:n2:imperf:aff		
 łyżkowaniami	łyżkować	ger:pl:inst:n2:imperf:aff		
 łyżkowanie	łyżkować	ger:sg:nom.acc:n2:imperf:aff		
 łyżkowaniem	łyżkować	ger:sg:inst:n2:imperf:aff		
 łyżkowani	łyżkować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łyżkowaniom	łyżkować	ger:pl:dat.loc:n2:imperf:aff		
+łyżkowaniom	łyżkować	ger:pl:dat:n2:imperf:aff		
 łyżkowaniu	łyżkować	ger:sg:dat.loc:n2:imperf:aff		
 łyżkowano	łyżkować	imps:imperf		
 łyżkowanych	łyżkować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -25686,12 +25763,13 @@
 łyżwowały	łyżwować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
 łyżwowałyście	łyżwować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
 łyżwowałyśmy	łyżwować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+łyżwowaniach	łyżwować	ger:pl:loc:n2:imperf:aff		
 łyżwowania	łyżwować	ger:pl:nom.acc:n2:imperf:aff		
 łyżwowania	łyżwować	ger:sg:gen:n2:imperf:aff		
 łyżwowaniami	łyżwować	ger:pl:inst:n2:imperf:aff		
 łyżwowanie	łyżwować	ger:sg:nom.acc:n2:imperf:aff		
 łyżwowaniem	łyżwować	ger:sg:inst:n2:imperf:aff		
-łyżwowaniom	łyżwować	ger:pl:dat.loc:n2:imperf:aff		
+łyżwowaniom	łyżwować	ger:pl:dat:n2:imperf:aff		
 łyżwowaniu	łyżwować	ger:sg:dat.loc:n2:imperf:aff		
 łyżwowano	łyżwować	imps:imperf		rzad.
 łyżwowań	łyżwować	ger:pl:gen:n2:imperf:aff		
@@ -25808,13 +25886,14 @@
 łzawią	łzawić	fin:pl:ter:imperf		
 łzawicie	łzawić	fin:pl:sec:imperf		
 łzawić	łzawić	inf:imperf		
+łzawieniach	łzawić	ger:pl:loc:n2:imperf:aff		
 łzawienia	łzawić	ger:pl:nom.acc:n2:imperf:aff		
 łzawienia	łzawić	ger:sg:gen:n2:imperf:aff		
 łzawieniami	łzawić	ger:pl:inst:n2:imperf:aff		
 łzawienie	łzawić	ger:sg:nom.acc:n2:imperf:aff		
 łzawieniem	łzawić	ger:sg:inst:n2:imperf:aff		
 łzawieni	łzawić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-łzawieniom	łzawić	ger:pl:dat.loc:n2:imperf:aff		
+łzawieniom	łzawić	ger:pl:dat:n2:imperf:aff		
 łzawieniu	łzawić	ger:sg:dat.loc:n2:imperf:aff		
 łzawień	łzawić	ger:pl:gen:n2:imperf:aff		
 łzawię	łzawić	fin:sg:pri:imperf		

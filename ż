@@ -1,9 +1,10 @@
+żarciach	zrzeć	ger:pl:loc:n2:imperf:aff		
 żarciami	zrzeć	ger:pl:inst:n2:imperf:aff		
 żarcia	zrzeć	ger:pl:nom.acc:n2:imperf:aff		
 żarcia	zrzeć	ger:sg:gen:n2:imperf:aff		
 żarciem	zrzeć	ger:sg:inst:n2:imperf:aff		
 żarcie	zrzeć	ger:sg:nom.acc:n2:imperf:aff		
-żarciom	zrzeć	ger:pl:dat.loc:n2:imperf:aff		
+żarciom	zrzeć	ger:pl:dat:n2:imperf:aff		
 żarciu	zrzeć	ger:sg:dat.loc:n2:imperf:aff		
 żarci	zrzeć	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żarć	zrzeć	ger:pl:gen:n2:imperf:aff		
@@ -818,12 +819,13 @@
 żachał	żachać	praet:sg:m1.m2.m3:ter:imperf		
 żachamy	żachać	fin:pl:pri:imperf		
 żacham	żachać	fin:sg:pri:imperf		
+żachaniach	żachać	ger:pl:loc:n2:imperf:aff		
 żachaniami	żachać	ger:pl:inst:n2:imperf:aff		
 żachania	żachać	ger:pl:nom.acc:n2:imperf:aff		
 żachania	żachać	ger:sg:gen:n2:imperf:aff		
 żachaniem	żachać	ger:sg:inst:n2:imperf:aff		
 żachanie	żachać	ger:sg:nom.acc:n2:imperf:aff		
-żachaniom	żachać	ger:pl:dat.loc:n2:imperf:aff		
+żachaniom	żachać	ger:pl:dat:n2:imperf:aff		
 żachaniu	żachać	ger:sg:dat.loc:n2:imperf:aff		
 żachano	żachać	imps:imperf		
 żachań	żachać	ger:pl:gen:n2:imperf:aff		
@@ -910,12 +912,13 @@
 żachniemy	żachnąć	fin:pl:pri:perf		
 żachniesz	żachnąć	fin:sg:sec:perf		
 żachnie	żachnąć	fin:sg:ter:perf		
+żachnięciach	żachnąć	ger:pl:loc:n2:perf:aff		
 żachnięciami	żachnąć	ger:pl:inst:n2:perf:aff		
 żachnięcia	żachnąć	ger:pl:nom.acc:n2:perf:aff		
 żachnięcia	żachnąć	ger:sg:gen:n2:perf:aff		
 żachnięciem	żachnąć	ger:sg:inst:n2:perf:aff		
 żachnięcie	żachnąć	ger:sg:nom.acc:n2:perf:aff		
-żachnięciom	żachnąć	ger:pl:dat.loc:n2:perf:aff		
+żachnięciom	żachnąć	ger:pl:dat:n2:perf:aff		
 żachnięciu	żachnąć	ger:sg:dat.loc:n2:perf:aff		
 żachnięć	żachnąć	ger:pl:gen:n2:perf:aff		
 żachnięto	żachnąć	imps:perf		
@@ -1347,12 +1350,13 @@
 żaglowanemu	żaglować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żaglowane	żaglować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żaglowane	żaglować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żaglowaniach	żaglować	ger:pl:loc:n2:imperf:aff		
 żaglowaniami	żaglować	ger:pl:inst:n2:imperf:aff		
 żaglowania	żaglować	ger:pl:nom.acc:n2:imperf:aff		
 żaglowania	żaglować	ger:sg:gen:n2:imperf:aff		
 żaglowaniem	żaglować	ger:sg:inst:n2:imperf:aff		
 żaglowanie	żaglować	ger:sg:nom.acc:n2:imperf:aff		
-żaglowaniom	żaglować	ger:pl:dat.loc:n2:imperf:aff		
+żaglowaniom	żaglować	ger:pl:dat:n2:imperf:aff		
 żaglowaniu	żaglować	ger:sg:dat.loc:n2:imperf:aff		
 żaglowani	żaglować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żaglowano	żaglować	imps:imperf		
@@ -1636,12 +1640,13 @@
 żagwią	żagwić	fin:pl:ter:imperf		
 żagwicie	żagwić	fin:pl:sec:imperf		
 żagwić	żagwić	inf:imperf		
+żagwieniach	żagwić	ger:pl:loc:n2:imperf:aff		
 żagwieniami	żagwić	ger:pl:inst:n2:imperf:aff		
 żagwienia	żagwić	ger:pl:nom.acc:n2:imperf:aff		
 żagwienia	żagwić	ger:sg:gen:n2:imperf:aff		
 żagwieniem	żagwić	ger:sg:inst:n2:imperf:aff		
 żagwienie	żagwić	ger:sg:nom.acc:n2:imperf:aff		
-żagwieniom	żagwić	ger:pl:dat.loc:n2:imperf:aff		
+żagwieniom	żagwić	ger:pl:dat:n2:imperf:aff		
 żagwieniu	żagwić	ger:sg:dat.loc:n2:imperf:aff		
 żagwień	żagwić	ger:pl:gen:n2:imperf:aff		
 żagwię	żagwić	fin:sg:pri:imperf		
@@ -1997,12 +2002,13 @@
 żakostwo	żakostwo	subst:sg:voc:n2	pospolita	
 żakostwu	żakostwo	subst:sg:dat:n2	pospolita	
 żakostw	żakostwo	subst:pl:gen:n2	pospolita	
+żakowaniach	żakować:v	ger:pl:loc:n2:imperf:aff		
 żakowaniami	żakować:v	ger:pl:inst:n2:imperf:aff		
 żakowania	żakować:v	ger:pl:nom.acc:n2:imperf:aff		
 żakowania	żakować:v	ger:sg:gen:n2:imperf:aff		
 żakowaniem	żakować:v	ger:sg:inst:n2:imperf:aff		
 żakowanie	żakować:v	ger:sg:nom.acc:n2:imperf:aff		
-żakowaniom	żakować:v	ger:pl:dat.loc:n2:imperf:aff		
+żakowaniom	żakować:v	ger:pl:dat:n2:imperf:aff		
 żakowaniu	żakować:v	ger:sg:dat.loc:n2:imperf:aff		
 żakowań	żakować:v	ger:pl:gen:n2:imperf:aff		
 żakująca	żakować:v	pact:sg:nom.voc:f:imperf:aff		
@@ -2029,12 +2035,13 @@
 żakowanemu	żakować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żakowane	żakować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żakowane	żakować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żakowaniach	żakować:v	ger:pl:loc:n2:imperf:aff		
 żakowaniami	żakować:v	ger:pl:inst:n2:imperf:aff		
 żakowania	żakować:v	ger:pl:nom.acc:n2:imperf:aff		
 żakowania	żakować:v	ger:sg:gen:n2:imperf:aff		
 żakowaniem	żakować:v	ger:sg:inst:n2:imperf:aff		
 żakowanie	żakować:v	ger:sg:nom.acc:n2:imperf:aff		
-żakowaniom	żakować:v	ger:pl:dat.loc:n2:imperf:aff		
+żakowaniom	żakować:v	ger:pl:dat:n2:imperf:aff		
 żakowaniu	żakować:v	ger:sg:dat.loc:n2:imperf:aff		
 żakowani	żakować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żakowanych	żakować:v	ppas:pl:acc:m1.p1:imperf:aff		
@@ -2276,12 +2283,13 @@
 żaląc	żalić	pcon:imperf		
 żalą	żalić	fin:pl:ter:imperf		
 żalcie	żalić	impt:pl:sec:imperf		
+żaleniach	żalić	ger:pl:loc:n2:imperf:aff		
 żaleniami	żalić	ger:pl:inst:n2:imperf:aff		
 żalenia	żalić	ger:pl:nom.acc:n2:imperf:aff		
 żalenia	żalić	ger:sg:gen:n2:imperf:aff		
 żaleniem	żalić	ger:sg:inst:n2:imperf:aff		
 żalenie	żalić	ger:sg:nom.acc:n2:imperf:aff		
-żaleniom	żalić	ger:pl:dat.loc:n2:imperf:aff		
+żaleniom	żalić	ger:pl:dat:n2:imperf:aff		
 żaleniu	żalić	ger:sg:dat.loc:n2:imperf:aff		
 żaleń	żalić	ger:pl:gen:n2:imperf:aff		
 żalę	żalić	fin:sg:pri:imperf		
@@ -2524,12 +2532,13 @@
 żałobią	żałobić	fin:pl:ter:imperf		daw.
 żałobicie	żałobić	fin:pl:sec:imperf		daw.
 żałobić	żałobić	inf:imperf		daw.
+żałobieniach	żałobić	ger:pl:loc:n2:imperf:aff		
 żałobieniami	żałobić	ger:pl:inst:n2:imperf:aff		
 żałobienia	żałobić	ger:pl:nom.acc:n2:imperf:aff		
 żałobienia	żałobić	ger:sg:gen:n2:imperf:aff		
 żałobieniem	żałobić	ger:sg:inst:n2:imperf:aff		
 żałobienie	żałobić	ger:sg:nom.acc:n2:imperf:aff		
-żałobieniom	żałobić	ger:pl:dat.loc:n2:imperf:aff		
+żałobieniom	żałobić	ger:pl:dat:n2:imperf:aff		
 żałobieniu	żałobić	ger:sg:dat.loc:n2:imperf:aff		
 żałobień	żałobić	ger:pl:gen:n2:imperf:aff		
 żałobię	żałobić	fin:sg:pri:imperf		daw.
@@ -3076,12 +3085,13 @@
 żałowanemu	żałować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żałowane	żałować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żałowane	żałować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żałowaniach	żałować	ger:pl:loc:n2:imperf:aff		
 żałowaniami	żałować	ger:pl:inst:n2:imperf:aff		
 żałowania	żałować	ger:pl:nom.acc:n2:imperf:aff		
 żałowania	żałować	ger:sg:gen:n2:imperf:aff		
 żałowaniem	żałować	ger:sg:inst:n2:imperf:aff		
 żałowanie	żałować	ger:sg:nom.acc:n2:imperf:aff		
-żałowaniom	żałować	ger:pl:dat.loc:n2:imperf:aff		
+żałowaniom	żałować	ger:pl:dat:n2:imperf:aff		
 żałowaniu	żałować	ger:sg:dat.loc:n2:imperf:aff		
 żałowani	żałować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żałowano	żałować	imps:imperf		
@@ -4695,12 +4705,13 @@
 żartowały	żartować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 żartował	żartować	praet:sg:m1.m2.m3:imperf		
 żartował	żartować	praet:sg:m1.m2.m3:ter:imperf		
+żartowaniach	żartować	ger:pl:loc:n2:imperf:aff		
 żartowaniami	żartować	ger:pl:inst:n2:imperf:aff		
 żartowania	żartować	ger:pl:nom.acc:n2:imperf:aff		
 żartowania	żartować	ger:sg:gen:n2:imperf:aff		
 żartowaniem	żartować	ger:sg:inst:n2:imperf:aff		
 żartowanie	żartować	ger:sg:nom.acc:n2:imperf:aff		
-żartowaniom	żartować	ger:pl:dat.loc:n2:imperf:aff		
+żartowaniom	żartować	ger:pl:dat:n2:imperf:aff		
 żartowaniu	żartować	ger:sg:dat.loc:n2:imperf:aff		
 żartowano	żartować	imps:imperf		
 żartowań	żartować	ger:pl:gen:n2:imperf:aff		
@@ -4923,12 +4934,13 @@
 żarząc	żarzyć	pcon:imperf		
 żarzą	żarzyć	fin:pl:ter:imperf		
 żarzcie	żarzyć	impt:pl:sec:imperf		
+żarzeniach	żarzyć	ger:pl:loc:n2:imperf:aff		
 żarzeniami	żarzyć	ger:pl:inst:n2:imperf:aff		
 żarzenia	żarzyć	ger:pl:nom.acc:n2:imperf:aff		
 żarzenia	żarzyć	ger:sg:gen:n2:imperf:aff		
 żarzeniem	żarzyć	ger:sg:inst:n2:imperf:aff		
 żarzenie	żarzyć	ger:sg:nom.acc:n2:imperf:aff		
-żarzeniom	żarzyć	ger:pl:dat.loc:n2:imperf:aff		
+żarzeniom	żarzyć	ger:pl:dat:n2:imperf:aff		
 żarzeniu	żarzyć	ger:sg:dat.loc:n2:imperf:aff		
 żarzeni	żarzyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żarzeń	żarzyć	ger:pl:gen:n2:imperf:aff		
@@ -5029,12 +5041,13 @@
 żarzysty	żarzysty	adj:sg:acc:m3:pos		daw.
 żarzysty	żarzysty	adj:sg:nom.voc:m1.m2.m3:pos		daw.
 żarzyści	żarzysty	adj:pl:nom.voc:m1.p1:pos		daw.
+żęciach	żąć:v	ger:pl:loc:n2:imperf:aff		
 żęciami	żąć:v	ger:pl:inst:n2:imperf:aff		
 żęcia	żąć:v	ger:pl:nom.acc:n2:imperf:aff		
 żęcia	żąć:v	ger:sg:gen:n2:imperf:aff		
 żęciem	żąć:v	ger:sg:inst:n2:imperf:aff		
 żęcie	żąć:v	ger:sg:nom.acc:n2:imperf:aff		
-żęciom	żąć:v	ger:pl:dat.loc:n2:imperf:aff		
+żęciom	żąć:v	ger:pl:dat:n2:imperf:aff		
 żęciu	żąć:v	ger:sg:dat.loc:n2:imperf:aff		
 żęci	żąć:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żęć	żąć:v	ger:pl:gen:n2:imperf:aff		
@@ -5069,12 +5082,13 @@
 żmący	żąć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
 żmący	żąć:v	pact:sg:acc:m3:imperf:aff		
 żmący	żąć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+żęciach	żąć:v	ger:pl:loc:n2:imperf:aff		
 żęciami	żąć:v	ger:pl:inst:n2:imperf:aff		
 żęcia	żąć:v	ger:pl:nom.acc:n2:imperf:aff		
 żęcia	żąć:v	ger:sg:gen:n2:imperf:aff		
 żęciem	żąć:v	ger:sg:inst:n2:imperf:aff		
 żęcie	żąć:v	ger:sg:nom.acc:n2:imperf:aff		
-żęciom	żąć:v	ger:pl:dat.loc:n2:imperf:aff		
+żęciom	żąć:v	ger:pl:dat:n2:imperf:aff		
 żęciu	żąć:v	ger:sg:dat.loc:n2:imperf:aff		
 żęci	żąć:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żęć	żąć:v	ger:pl:gen:n2:imperf:aff		
@@ -5271,12 +5285,13 @@
 żądanemu	żądać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żądane	żądać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żądane	żądać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żądaniach	żądać	ger:pl:loc:n2:imperf:aff		
 żądaniami	żądać	ger:pl:inst:n2:imperf:aff		
 żądania	żądać	ger:pl:nom.acc:n2:imperf:aff		
 żądania	żądać	ger:sg:gen:n2:imperf:aff		
 żądaniem	żądać	ger:sg:inst:n2:imperf:aff		
 żądanie	żądać	ger:sg:nom.acc:n2:imperf:aff		
-żądaniom	żądać	ger:pl:dat.loc:n2:imperf:aff		
+żądaniom	żądać	ger:pl:dat:n2:imperf:aff		
 żądaniu	żądać	ger:sg:dat.loc:n2:imperf:aff		
 żądani	żądać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żądano	żądać	imps:imperf		
@@ -5337,12 +5352,13 @@
 żądląc	żądlić	pcon:imperf		
 żądlą	żądlić	fin:pl:ter:imperf		
 żądlcie	żądlić	impt:pl:sec:imperf		
+żądleniach	żądlić	ger:pl:loc:n2:imperf:aff		
 żądleniami	żądlić	ger:pl:inst:n2:imperf:aff		
 żądlenia	żądlić	ger:pl:nom.acc:n2:imperf:aff		
 żądlenia	żądlić	ger:sg:gen:n2:imperf:aff		
 żądleniem	żądlić	ger:sg:inst:n2:imperf:aff		
 żądlenie	żądlić	ger:sg:nom.acc:n2:imperf:aff		
-żądleniom	żądlić	ger:pl:dat.loc:n2:imperf:aff		
+żądleniom	żądlić	ger:pl:dat:n2:imperf:aff		
 żądleniu	żądlić	ger:sg:dat.loc:n2:imperf:aff		
 żądleni	żądlić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żądleń	żądlić	ger:pl:gen:n2:imperf:aff		
@@ -5926,12 +5942,13 @@
 żebracząc	żebraczyć	pcon:imperf		
 żebraczą	żebraczyć	fin:pl:ter:imperf		
 żebraczcie	żebraczyć	impt:pl:sec:imperf		
+żebraczeniach	żebraczyć	ger:pl:loc:n2:imperf:aff		
 żebraczeniami	żebraczyć	ger:pl:inst:n2:imperf:aff		
 żebraczenia	żebraczyć	ger:pl:nom.acc:n2:imperf:aff		
 żebraczenia	żebraczyć	ger:sg:gen:n2:imperf:aff		
 żebraczeniem	żebraczyć	ger:sg:inst:n2:imperf:aff		
 żebraczenie	żebraczyć	ger:sg:nom.acc:n2:imperf:aff		
-żebraczeniom	żebraczyć	ger:pl:dat.loc:n2:imperf:aff		
+żebraczeniom	żebraczyć	ger:pl:dat:n2:imperf:aff		
 żebraczeniu	żebraczyć	ger:sg:dat.loc:n2:imperf:aff		
 żebraczeń	żebraczyć	ger:pl:gen:n2:imperf:aff		
 żebraczę	żebraczyć	fin:sg:pri:imperf		
@@ -6090,12 +6107,13 @@
 żebrał	żebrać	praet:sg:m1.m2.m3:ter:imperf		niezal.
 żebramy	żebrać	fin:pl:pri:imperf		niezal.
 żebram	żebrać	fin:sg:pri:imperf		niezal.
+żebraniach	żebrać	ger:pl:loc:n2:imperf:aff		
 żebraniami	żebrać	ger:pl:inst:n2:imperf:aff		
 żebrania	żebrać	ger:pl:nom.acc:n2:imperf:aff		
 żebrania	żebrać	ger:sg:gen:n2:imperf:aff		
 żebraniem	żebrać	ger:sg:inst:n2:imperf:aff		
 żebranie	żebrać	ger:sg:nom.acc:n2:imperf:aff		
-żebraniom	żebrać	ger:pl:dat.loc:n2:imperf:aff		
+żebraniom	żebrać	ger:pl:dat:n2:imperf:aff		
 żebraniu	żebrać	ger:sg:dat.loc:n2:imperf:aff		
 żebrano	żebrać	imps:imperf		
 żebrano	żebrać	imps:imperf		niezal.
@@ -6222,12 +6240,13 @@
 żebrowanemu	żebrować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żebrowane	żebrować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żebrowane	żebrować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żebrowaniach	żebrować:v	ger:pl:loc:n2:imperf:aff		
 żebrowaniami	żebrować:v	ger:pl:inst:n2:imperf:aff		
 żebrowania	żebrować:v	ger:pl:nom.acc:n2:imperf:aff		
 żebrowania	żebrować:v	ger:sg:gen:n2:imperf:aff		
 żebrowaniem	żebrować:v	ger:sg:inst:n2:imperf:aff		
 żebrowanie	żebrować:v	ger:sg:nom.acc:n2:imperf:aff		
-żebrowaniom	żebrować:v	ger:pl:dat.loc:n2:imperf:aff		
+żebrowaniom	żebrować:v	ger:pl:dat:n2:imperf:aff		
 żebrowaniu	żebrować:v	ger:sg:dat.loc:n2:imperf:aff		
 żebrowani	żebrować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żebrowanych	żebrować:v	ppas:pl:acc:m1.p1:imperf:aff		
@@ -6254,12 +6273,13 @@
 żebrujący	żebrować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
 żebrujący	żebrować:v	pact:sg:acc:m3:imperf:aff		
 żebrujący	żebrować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+żebrowaniach	żebrować:v	ger:pl:loc:n2:imperf:aff		
 żebrowaniami	żebrować:v	ger:pl:inst:n2:imperf:aff		
 żebrowania	żebrować:v	ger:pl:nom.acc:n2:imperf:aff		
 żebrowania	żebrować:v	ger:sg:gen:n2:imperf:aff		
 żebrowaniem	żebrować:v	ger:sg:inst:n2:imperf:aff		
 żebrowanie	żebrować:v	ger:sg:nom.acc:n2:imperf:aff		
-żebrowaniom	żebrować:v	ger:pl:dat.loc:n2:imperf:aff		
+żebrowaniom	żebrować:v	ger:pl:dat:n2:imperf:aff		
 żebrowaniu	żebrować:v	ger:sg:dat.loc:n2:imperf:aff		
 żebrowań	żebrować:v	ger:pl:gen:n2:imperf:aff		
 żebrująca	żebrować:v	pact:sg:nom.voc:f:imperf:aff		
@@ -6645,12 +6665,13 @@
 żebrzeliśmy	żebrzeć	praet:pl:m1.p1:pri:imperf		daw.
 żebrzeli	żebrzeć	praet:pl:m1.p1:imperf		daw.
 żebrzeli	żebrzeć	praet:pl:m1.p1:ter:imperf		daw.
+żebrzeniach	żebrzeć	ger:pl:loc:n2:imperf:aff		
 żebrzeniami	żebrzeć	ger:pl:inst:n2:imperf:aff		
 żebrzenia	żebrzeć	ger:pl:nom.acc:n2:imperf:aff		
 żebrzenia	żebrzeć	ger:sg:gen:n2:imperf:aff		
 żebrzeniem	żebrzeć	ger:sg:inst:n2:imperf:aff		
 żebrzenie	żebrzeć	ger:sg:nom.acc:n2:imperf:aff		
-żebrzeniom	żebrzeć	ger:pl:dat.loc:n2:imperf:aff		
+żebrzeniom	żebrzeć	ger:pl:dat:n2:imperf:aff		
 żebrzeniu	żebrzeć	ger:sg:dat.loc:n2:imperf:aff		
 żebrzeń	żebrzeć	ger:pl:gen:n2:imperf:aff		
 żebrzę	żebrzeć	fin:sg:pri:imperf		daw.
@@ -6742,12 +6763,13 @@
 żegniemy	żec	fin:pl:pri:imperf		daw.
 żegniesz	żec	fin:sg:sec:imperf		daw.
 żegnie	żec	fin:sg:ter:imperf		daw.
+żegnięciach	żec	ger:pl:loc:n2:imperf:aff		
 żegnięciami	żec	ger:pl:inst:n2:imperf:aff		
 żegnięcia	żec	ger:pl:nom.acc:n2:imperf:aff		
 żegnięcia	żec	ger:sg:gen:n2:imperf:aff		
 żegnięciem	żec	ger:sg:inst:n2:imperf:aff		
 żegnięcie	żec	ger:sg:nom.acc:n2:imperf:aff		
-żegnięciom	żec	ger:pl:dat.loc:n2:imperf:aff		
+żegnięciom	żec	ger:pl:dat:n2:imperf:aff		
 żegnięciu	żec	ger:sg:dat.loc:n2:imperf:aff		
 żegnięci	żec	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żegnięć	żec	ger:pl:gen:n2:imperf:aff		
@@ -6825,12 +6847,13 @@
 żgł	żec	praet:sg:m1.m2.m3:imperf:agl		daw.|niezal.
 żżecie	żec	fin:pl:sec:imperf		daw.|niezal.
 żżemy	żec	fin:pl:pri:imperf		daw.|niezal.
+żżeniach	żec	ger:pl:loc:n2:imperf:aff		niezal.
 żżeniami	żec	ger:pl:inst:n2:imperf:aff		niezal.
 żżenia	żec	ger:pl:nom.acc:n2:imperf:aff		niezal.
 żżenia	żec	ger:sg:gen:n2:imperf:aff		niezal.
 żżeniem	żec	ger:sg:inst:n2:imperf:aff		niezal.
 żżenie	żec	ger:sg:nom.acc:n2:imperf:aff		niezal.
-żżeniom	żec	ger:pl:dat.loc:n2:imperf:aff		niezal.
+żżeniom	żec	ger:pl:dat:n2:imperf:aff		niezal.
 żżeniu	żec	ger:sg:dat.loc:n2:imperf:aff		niezal.
 żżeni	żec	ppas:pl:nom.voc:m1.p1:imperf:aff		niezal.
 żżeń	żec	ger:pl:gen:n2:imperf:aff		niezal.
@@ -7099,12 +7122,13 @@
 żeglowały	żeglować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 żeglował	żeglować	praet:sg:m1.m2.m3:imperf		
 żeglował	żeglować	praet:sg:m1.m2.m3:ter:imperf		
+żeglowaniach	żeglować	ger:pl:loc:n2:imperf:aff		
 żeglowaniami	żeglować	ger:pl:inst:n2:imperf:aff		
 żeglowania	żeglować	ger:pl:nom.acc:n2:imperf:aff		
 żeglowania	żeglować	ger:sg:gen:n2:imperf:aff		
 żeglowaniem	żeglować	ger:sg:inst:n2:imperf:aff		
 żeglowanie	żeglować	ger:sg:nom.acc:n2:imperf:aff		
-żeglowaniom	żeglować	ger:pl:dat.loc:n2:imperf:aff		
+żeglowaniom	żeglować	ger:pl:dat:n2:imperf:aff		
 żeglowaniu	żeglować	ger:sg:dat.loc:n2:imperf:aff		
 żeglowano	żeglować	imps:imperf		
 żeglowań	żeglować	ger:pl:gen:n2:imperf:aff		
@@ -7279,12 +7303,13 @@
 żegnanemu	żegnać:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żegnane	żegnać:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żegnane	żegnać:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żegnaniach	żegnać:v	ger:pl:loc:n2:imperf:aff		
 żegnaniami	żegnać:v	ger:pl:inst:n2:imperf:aff		
 żegnania	żegnać:v	ger:pl:nom.acc:n2:imperf:aff		
 żegnania	żegnać:v	ger:sg:gen:n2:imperf:aff		
 żegnaniem	żegnać:v	ger:sg:inst:n2:imperf:aff		
 żegnanie	żegnać:v	ger:sg:nom.acc:n2:imperf:aff		
-żegnaniom	żegnać:v	ger:pl:dat.loc:n2:imperf:aff		
+żegnaniom	żegnać:v	ger:pl:dat:n2:imperf:aff		
 żegnaniu	żegnać:v	ger:sg:dat.loc:n2:imperf:aff		
 żegnani	żegnać:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żegnanych	żegnać:v	ppas:pl:acc:m1.p1:imperf:aff		
@@ -7319,12 +7344,13 @@
 żegnanemu	żegnać:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żegnane	żegnać:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żegnane	żegnać:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żegnaniach	żegnać:v	ger:pl:loc:n2:imperf:aff		
 żegnaniami	żegnać:v	ger:pl:inst:n2:imperf:aff		
 żegnania	żegnać:v	ger:pl:nom.acc:n2:imperf:aff		
 żegnania	żegnać:v	ger:sg:gen:n2:imperf:aff		
 żegnaniem	żegnać:v	ger:sg:inst:n2:imperf:aff		
 żegnanie	żegnać:v	ger:sg:nom.acc:n2:imperf:aff		
-żegnaniom	żegnać:v	ger:pl:dat.loc:n2:imperf:aff		
+żegnaniom	żegnać:v	ger:pl:dat:n2:imperf:aff		
 żegnaniu	żegnać:v	ger:sg:dat.loc:n2:imperf:aff		
 żegnani	żegnać:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żegnanych	żegnać:v	ppas:pl:acc:m1.p1:imperf:aff		
@@ -7652,12 +7678,13 @@
 żegotał	żegotać	praet:sg:m1.m2.m3:ter:imperf		rzad.
 żegotamy	żegotać	fin:pl:pri:imperf		rzad.
 żegotam	żegotać	fin:sg:pri:imperf		rzad.
+żegotaniach	żegotać	ger:pl:loc:n2:imperf:aff		
 żegotaniami	żegotać	ger:pl:inst:n2:imperf:aff		
 żegotania	żegotać	ger:pl:nom.acc:n2:imperf:aff		
 żegotania	żegotać	ger:sg:gen:n2:imperf:aff		
 żegotaniem	żegotać	ger:sg:inst:n2:imperf:aff		
 żegotanie	żegotać	ger:sg:nom.acc:n2:imperf:aff		
-żegotaniom	żegotać	ger:pl:dat.loc:n2:imperf:aff		
+żegotaniom	żegotać	ger:pl:dat:n2:imperf:aff		
 żegotaniu	żegotać	ger:sg:dat.loc:n2:imperf:aff		
 żegotano	żegotać	imps:imperf		
 żegotano	żegotać	imps:imperf		rzad.
@@ -7764,12 +7791,13 @@
 żelatynowanemu	żelatynować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żelatynowane	żelatynować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żelatynowane	żelatynować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żelatynowaniach	żelatynować	ger:pl:loc:n2:imperf:aff		
 żelatynowaniami	żelatynować	ger:pl:inst:n2:imperf:aff		
 żelatynowania	żelatynować	ger:pl:nom.acc:n2:imperf:aff		
 żelatynowania	żelatynować	ger:sg:gen:n2:imperf:aff		
 żelatynowaniem	żelatynować	ger:sg:inst:n2:imperf:aff		
 żelatynowanie	żelatynować	ger:sg:nom.acc:n2:imperf:aff		
-żelatynowaniom	żelatynować	ger:pl:dat.loc:n2:imperf:aff		
+żelatynowaniom	żelatynować	ger:pl:dat:n2:imperf:aff		
 żelatynowaniu	żelatynować	ger:sg:dat.loc:n2:imperf:aff		
 żelatynowani	żelatynować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żelatynowano	żelatynować	imps:imperf		
@@ -8552,12 +8580,13 @@
 żelazowanemu	żelazować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żelazowane	żelazować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żelazowane	żelazować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żelazowaniach	żelazować	ger:pl:loc:n2:imperf:aff		
 żelazowaniami	żelazować	ger:pl:inst:n2:imperf:aff		
 żelazowania	żelazować	ger:pl:nom.acc:n2:imperf:aff		
 żelazowania	żelazować	ger:sg:gen:n2:imperf:aff		
 żelazowaniem	żelazować	ger:sg:inst:n2:imperf:aff		
 żelazowanie	żelazować	ger:sg:nom.acc:n2:imperf:aff		
-żelazowaniom	żelazować	ger:pl:dat.loc:n2:imperf:aff		
+żelazowaniom	żelazować	ger:pl:dat:n2:imperf:aff		
 żelazowaniu	żelazować	ger:sg:dat.loc:n2:imperf:aff		
 żelazowani	żelazować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żelazowano	żelazować	imps:imperf		techn.
@@ -8766,12 +8795,13 @@
 żelaźnieliśmy	żelaźnieć	praet:pl:m1.p1:pri:imperf		indyw.
 żelaźnieli	żelaźnieć	praet:pl:m1.p1:imperf		indyw.
 żelaźnieli	żelaźnieć	praet:pl:m1.p1:ter:imperf		indyw.
+żelaźnieniach	żelaźnieć	ger:pl:loc:n2:imperf:aff		
 żelaźnieniami	żelaźnieć	ger:pl:inst:n2:imperf:aff		
 żelaźnienia	żelaźnieć	ger:pl:nom.acc:n2:imperf:aff		
 żelaźnienia	żelaźnieć	ger:sg:gen:n2:imperf:aff		
 żelaźnieniem	żelaźnieć	ger:sg:inst:n2:imperf:aff		
 żelaźnienie	żelaźnieć	ger:sg:nom.acc:n2:imperf:aff		
-żelaźnieniom	żelaźnieć	ger:pl:dat.loc:n2:imperf:aff		
+żelaźnieniom	żelaźnieć	ger:pl:dat:n2:imperf:aff		
 żelaźnieniu	żelaźnieć	ger:sg:dat.loc:n2:imperf:aff		
 żelaźnień	żelaźnieć	ger:pl:gen:n2:imperf:aff		
 żelaźnicy	żelaźnik	subst:pl:nom:m1	pospolita	daw.
@@ -9330,12 +9360,13 @@
 żelowanemu	żelować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żelowane	żelować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żelowane	żelować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żelowaniach	żelować	ger:pl:loc:n2:imperf:aff		
 żelowaniami	żelować	ger:pl:inst:n2:imperf:aff		
 żelowania	żelować	ger:pl:nom.acc:n2:imperf:aff		
 żelowania	żelować	ger:sg:gen:n2:imperf:aff		
 żelowaniem	żelować	ger:sg:inst:n2:imperf:aff		
 żelowanie	żelować	ger:sg:nom.acc:n2:imperf:aff		
-żelowaniom	żelować	ger:pl:dat.loc:n2:imperf:aff		
+żelowaniom	żelować	ger:pl:dat:n2:imperf:aff		
 żelowaniu	żelować	ger:sg:dat.loc:n2:imperf:aff		
 żelowani	żelować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żelowano	żelować	imps:imperf		
@@ -9498,12 +9529,13 @@
 żeniemy	żenąć	fin:pl:pri:imperf		rzad.
 żeniesz	żenąć	fin:sg:sec:imperf		rzad.
 żenie	żenąć	fin:sg:ter:imperf		rzad.
+żenięciach	żenąć	ger:pl:loc:n2:imperf:aff		
 żenięciami	żenąć	ger:pl:inst:n2:imperf:aff		
 żenięcia	żenąć	ger:pl:nom.acc:n2:imperf:aff		
 żenięcia	żenąć	ger:sg:gen:n2:imperf:aff		
 żenięciem	żenąć	ger:sg:inst:n2:imperf:aff		
 żenięcie	żenąć	ger:sg:nom.acc:n2:imperf:aff		
-żenięciom	żenąć	ger:pl:dat.loc:n2:imperf:aff		
+żenięciom	żenąć	ger:pl:dat:n2:imperf:aff		
 żenięciu	żenąć	ger:sg:dat.loc:n2:imperf:aff		
 żenięci	żenąć	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żenięć	żenąć	ger:pl:gen:n2:imperf:aff		
@@ -9612,12 +9644,13 @@
 żenią	żenić	fin:pl:ter:imperf		
 żenicie	żenić	fin:pl:sec:imperf		
 żenić	żenić	inf:imperf		
+żenieniach	żenić	ger:pl:loc:n2:imperf:aff		
 żenieniami	żenić	ger:pl:inst:n2:imperf:aff		
 żenienia	żenić	ger:pl:nom.acc:n2:imperf:aff		
 żenienia	żenić	ger:sg:gen:n2:imperf:aff		
 żenieniem	żenić	ger:sg:inst:n2:imperf:aff		
 żenienie	żenić	ger:sg:nom.acc:n2:imperf:aff		
-żenieniom	żenić	ger:pl:dat.loc:n2:imperf:aff		
+żenieniom	żenić	ger:pl:dat:n2:imperf:aff		
 żenieniu	żenić	ger:sg:dat.loc:n2:imperf:aff		
 żenieni	żenić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żenień	żenić	ger:pl:gen:n2:imperf:aff		
@@ -9770,12 +9803,13 @@
 żenowanemu	żenować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żenowane	żenować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żenowane	żenować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żenowaniach	żenować	ger:pl:loc:n2:imperf:aff		
 żenowaniami	żenować	ger:pl:inst:n2:imperf:aff		
 żenowania	żenować	ger:pl:nom.acc:n2:imperf:aff		
 żenowania	żenować	ger:sg:gen:n2:imperf:aff		
 żenowaniem	żenować	ger:sg:inst:n2:imperf:aff		
 żenowanie	żenować	ger:sg:nom.acc:n2:imperf:aff		
-żenowaniom	żenować	ger:pl:dat.loc:n2:imperf:aff		
+żenowaniom	żenować	ger:pl:dat:n2:imperf:aff		
 żenowaniu	żenować	ger:sg:dat.loc:n2:imperf:aff		
 żenowani	żenować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żenowano	żenować	imps:imperf		
@@ -10052,12 +10086,13 @@
 żeranemu	żerać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żerane	żerać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żerane	żerać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żeraniach	żerać	ger:pl:loc:n2:imperf:aff		
 żeraniami	żerać	ger:pl:inst:n2:imperf:aff		
 żerania	żerać	ger:pl:nom.acc:n2:imperf:aff		
 żerania	żerać	ger:sg:gen:n2:imperf:aff		
 żeraniem	żerać	ger:sg:inst:n2:imperf:aff		
 żeranie	żerać	ger:sg:nom.acc:n2:imperf:aff		
-żeraniom	żerać	ger:pl:dat.loc:n2:imperf:aff		
+żeraniom	żerać	ger:pl:dat:n2:imperf:aff		
 żeraniu	żerać	ger:sg:dat.loc:n2:imperf:aff		
 żerani	żerać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żerano	żerać	imps:imperf		
@@ -10237,12 +10272,13 @@
 żerdziowanemu	żerdziować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żerdziowane	żerdziować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żerdziowane	żerdziować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żerdziowaniach	żerdziować	ger:pl:loc:n2:imperf:aff		
 żerdziowaniami	żerdziować	ger:pl:inst:n2:imperf:aff		
 żerdziowania	żerdziować	ger:pl:nom.acc:n2:imperf:aff		
 żerdziowania	żerdziować	ger:sg:gen:n2:imperf:aff		
 żerdziowaniem	żerdziować	ger:sg:inst:n2:imperf:aff		
 żerdziowanie	żerdziować	ger:sg:nom.acc:n2:imperf:aff		
-żerdziowaniom	żerdziować	ger:pl:dat.loc:n2:imperf:aff		
+żerdziowaniom	żerdziować	ger:pl:dat:n2:imperf:aff		
 żerdziowaniu	żerdziować	ger:sg:dat.loc:n2:imperf:aff		
 żerdziowani	żerdziować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żerdziowano	żerdziować	imps:imperf		
@@ -10488,12 +10524,13 @@
 żerowały	żerować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 żerował	żerować	praet:sg:m1.m2.m3:imperf		
 żerował	żerować	praet:sg:m1.m2.m3:ter:imperf		
+żerowaniach	żerować	ger:pl:loc:n2:imperf:aff		
 żerowaniami	żerować	ger:pl:inst:n2:imperf:aff		
 żerowania	żerować	ger:pl:nom.acc:n2:imperf:aff		
 żerowania	żerować	ger:sg:gen:n2:imperf:aff		
 żerowaniem	żerować	ger:sg:inst:n2:imperf:aff		
 żerowanie	żerować	ger:sg:nom.acc:n2:imperf:aff		
-żerowaniom	żerować	ger:pl:dat.loc:n2:imperf:aff		
+żerowaniom	żerować	ger:pl:dat:n2:imperf:aff		
 żerowaniu	żerować	ger:sg:dat.loc:n2:imperf:aff		
 żerowano	żerować	imps:imperf		
 żerowań	żerować	ger:pl:gen:n2:imperf:aff		
@@ -10806,12 +10843,13 @@
 żganemu	żgać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żgane	żgać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żgane	żgać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żganiach	żgać	ger:pl:loc:n2:imperf:aff		
 żganiami	żgać	ger:pl:inst:n2:imperf:aff		
 żgania	żgać	ger:pl:nom.acc:n2:imperf:aff		
 żgania	żgać	ger:sg:gen:n2:imperf:aff		
 żganiem	żgać	ger:sg:inst:n2:imperf:aff		
 żganie	żgać	ger:sg:nom.acc:n2:imperf:aff		
-żganiom	żgać	ger:pl:dat.loc:n2:imperf:aff		
+żganiom	żgać	ger:pl:dat:n2:imperf:aff		
 żganiu	żgać	ger:sg:dat.loc:n2:imperf:aff		
 żgani	żgać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żgano	żgać	imps:imperf		
@@ -10843,12 +10881,13 @@
 żglący	żglić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żgląc	żglić	pcon:imperf		rzad.
 żglą	żglić	fin:pl:ter:imperf		rzad.
+żgleniach	żglić	ger:pl:loc:n2:imperf:aff		
 żgleniami	żglić	ger:pl:inst:n2:imperf:aff		
 żglenia	żglić	ger:pl:nom.acc:n2:imperf:aff		
 żglenia	żglić	ger:sg:gen:n2:imperf:aff		
 żgleniem	żglić	ger:sg:inst:n2:imperf:aff		
 żglenie	żglić	ger:sg:nom.acc:n2:imperf:aff		
-żgleniom	żglić	ger:pl:dat.loc:n2:imperf:aff		
+żgleniom	żglić	ger:pl:dat:n2:imperf:aff		
 żgleniu	żglić	ger:sg:dat.loc:n2:imperf:aff		
 żgleni	żglić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żgleń	żglić	ger:pl:gen:n2:imperf:aff		
@@ -10969,12 +11008,13 @@
 żgniemy	żgnąć	fin:pl:pri:perf		
 żgniesz	żgnąć	fin:sg:sec:perf		
 żgnie	żgnąć	fin:sg:ter:perf		
+żgnięciach	żgnąć	ger:pl:loc:n2:perf:aff		
 żgnięciami	żgnąć	ger:pl:inst:n2:perf:aff		
 żgnięcia	żgnąć	ger:pl:nom.acc:n2:perf:aff		
 żgnięcia	żgnąć	ger:sg:gen:n2:perf:aff		
 żgnięciem	żgnąć	ger:sg:inst:n2:perf:aff		
 żgnięcie	żgnąć	ger:sg:nom.acc:n2:perf:aff		
-żgnięciom	żgnąć	ger:pl:dat.loc:n2:perf:aff		
+żgnięciom	żgnąć	ger:pl:dat:n2:perf:aff		
 żgnięciu	żgnąć	ger:sg:dat.loc:n2:perf:aff		
 żgnięci	żgnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
 żgnięć	żgnąć	ger:pl:gen:n2:perf:aff		
@@ -11266,12 +11306,13 @@
 żłobią	żłobić	fin:pl:ter:imperf		
 żłobicie	żłobić	fin:pl:sec:imperf		
 żłobić	żłobić	inf:imperf		
+żłobieniach	żłobić	ger:pl:loc:n2:imperf:aff		
 żłobieniami	żłobić	ger:pl:inst:n2:imperf:aff		
 żłobienia	żłobić	ger:pl:nom.acc:n2:imperf:aff		
 żłobienia	żłobić	ger:sg:gen:n2:imperf:aff		
 żłobieniem	żłobić	ger:sg:inst:n2:imperf:aff		
 żłobienie	żłobić	ger:sg:nom.acc:n2:imperf:aff		
-żłobieniom	żłobić	ger:pl:dat.loc:n2:imperf:aff		
+żłobieniom	żłobić	ger:pl:dat:n2:imperf:aff		
 żłobieniu	żłobić	ger:sg:dat.loc:n2:imperf:aff		
 żłobieni	żłobić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żłobień	żłobić	ger:pl:gen:n2:imperf:aff		
@@ -11433,12 +11474,13 @@
 żłobkowanemu	żłobkować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żłobkowane	żłobkować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żłobkowane	żłobkować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żłobkowaniach	żłobkować	ger:pl:loc:n2:imperf:aff		
 żłobkowaniami	żłobkować	ger:pl:inst:n2:imperf:aff		
 żłobkowania	żłobkować	ger:pl:nom.acc:n2:imperf:aff		
 żłobkowania	żłobkować	ger:sg:gen:n2:imperf:aff		
 żłobkowaniem	żłobkować	ger:sg:inst:n2:imperf:aff		
 żłobkowanie	żłobkować	ger:sg:nom.acc:n2:imperf:aff		
-żłobkowaniom	żłobkować	ger:pl:dat.loc:n2:imperf:aff		
+żłobkowaniom	żłobkować	ger:pl:dat:n2:imperf:aff		
 żłobkowaniu	żłobkować	ger:sg:dat.loc:n2:imperf:aff		
 żłobkowani	żłobkować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żłobkowano	żłobkować	imps:imperf		
@@ -11652,12 +11694,13 @@
 żłopanemu	żłopać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żłopane	żłopać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żłopane	żłopać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żłopaniach	żłopać	ger:pl:loc:n2:imperf:aff		
 żłopaniami	żłopać	ger:pl:inst:n2:imperf:aff		
 żłopania	żłopać	ger:pl:nom.acc:n2:imperf:aff		
 żłopania	żłopać	ger:sg:gen:n2:imperf:aff		
 żłopaniem	żłopać	ger:sg:inst:n2:imperf:aff		
 żłopanie	żłopać	ger:sg:nom.acc:n2:imperf:aff		
-żłopaniom	żłopać	ger:pl:dat.loc:n2:imperf:aff		
+żłopaniom	żłopać	ger:pl:dat:n2:imperf:aff		
 żłopaniu	żłopać	ger:sg:dat.loc:n2:imperf:aff		
 żłopani	żłopać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żłopano	żłopać	imps:imperf		pot.
@@ -11738,12 +11781,13 @@
 żłopniemy	żłopnąć	fin:pl:pri:perf		
 żłopniesz	żłopnąć	fin:sg:sec:perf		
 żłopnie	żłopnąć	fin:sg:ter:perf		
+żłopnięciach	żłopnąć	ger:pl:loc:n2:perf:aff		
 żłopnięciami	żłopnąć	ger:pl:inst:n2:perf:aff		
 żłopnięcia	żłopnąć	ger:pl:nom.acc:n2:perf:aff		
 żłopnięcia	żłopnąć	ger:sg:gen:n2:perf:aff		
 żłopnięciem	żłopnąć	ger:sg:inst:n2:perf:aff		
 żłopnięcie	żłopnąć	ger:sg:nom.acc:n2:perf:aff		
-żłopnięciom	żłopnąć	ger:pl:dat.loc:n2:perf:aff		
+żłopnięciom	żłopnąć	ger:pl:dat:n2:perf:aff		
 żłopnięciu	żłopnąć	ger:sg:dat.loc:n2:perf:aff		
 żłopnięci	żłopnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
 żłopnięć	żłopnąć	ger:pl:gen:n2:perf:aff		
@@ -11851,12 +11895,13 @@
 żłukcący	żłukcić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żłukcąc	żłukcić	pcon:imperf		daw.
 żłukcą	żłukcić	fin:pl:ter:imperf		daw.
+żłukceniach	żłukcić	ger:pl:loc:n2:imperf:aff		
 żłukceniami	żłukcić	ger:pl:inst:n2:imperf:aff		
 żłukcenia	żłukcić	ger:pl:nom.acc:n2:imperf:aff		
 żłukcenia	żłukcić	ger:sg:gen:n2:imperf:aff		
 żłukceniem	żłukcić	ger:sg:inst:n2:imperf:aff		
 żłukcenie	żłukcić	ger:sg:nom.acc:n2:imperf:aff		
-żłukceniom	żłukcić	ger:pl:dat.loc:n2:imperf:aff		
+żłukceniom	żłukcić	ger:pl:dat:n2:imperf:aff		
 żłukceniu	żłukcić	ger:sg:dat.loc:n2:imperf:aff		
 żłukceni	żłukcić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żłukceń	żłukcić	ger:pl:gen:n2:imperf:aff		
@@ -12370,12 +12415,13 @@
 żmudzący	żmudzić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żmudząc	żmudzić	pcon:imperf		przest.
 żmudzą	żmudzić	fin:pl:ter:imperf		przest.
+żmudzeniach	żmudzić	ger:pl:loc:n2:imperf:aff		
 żmudzeniami	żmudzić	ger:pl:inst:n2:imperf:aff		
 żmudzenia	żmudzić	ger:pl:nom.acc:n2:imperf:aff		
 żmudzenia	żmudzić	ger:sg:gen:n2:imperf:aff		
 żmudzeniem	żmudzić	ger:sg:inst:n2:imperf:aff		
 żmudzenie	żmudzić	ger:sg:nom.acc:n2:imperf:aff		
-żmudzeniom	żmudzić	ger:pl:dat.loc:n2:imperf:aff		
+żmudzeniom	żmudzić	ger:pl:dat:n2:imperf:aff		
 żmudzeniu	żmudzić	ger:sg:dat.loc:n2:imperf:aff		
 żmudzeni	żmudzić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żmudzeń	żmudzić	ger:pl:gen:n2:imperf:aff		
@@ -12848,12 +12894,13 @@
 żniwowały	żniwować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 żniwował	żniwować	praet:sg:m1.m2.m3:imperf		daw.
 żniwował	żniwować	praet:sg:m1.m2.m3:ter:imperf		daw.
+żniwowaniach	żniwować	ger:pl:loc:n2:imperf:aff		
 żniwowaniami	żniwować	ger:pl:inst:n2:imperf:aff		
 żniwowania	żniwować	ger:pl:nom.acc:n2:imperf:aff		
 żniwowania	żniwować	ger:sg:gen:n2:imperf:aff		
 żniwowaniem	żniwować	ger:sg:inst:n2:imperf:aff		
 żniwowanie	żniwować	ger:sg:nom.acc:n2:imperf:aff		
-żniwowaniom	żniwować	ger:pl:dat.loc:n2:imperf:aff		
+żniwowaniom	żniwować	ger:pl:dat:n2:imperf:aff		
 żniwowaniu	żniwować	ger:sg:dat.loc:n2:imperf:aff		
 żniwowano	żniwować	imps:imperf		daw.
 żniwowań	żniwować	ger:pl:gen:n2:imperf:aff		
@@ -13039,12 +13086,13 @@
 żołądkowały	żołądkować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 żołądkował	żołądkować	praet:sg:m1.m2.m3:imperf		
 żołądkował	żołądkować	praet:sg:m1.m2.m3:ter:imperf		
+żołądkowaniach	żołądkować	ger:pl:loc:n2:imperf:aff		
 żołądkowaniami	żołądkować	ger:pl:inst:n2:imperf:aff		
 żołądkowania	żołądkować	ger:pl:nom.acc:n2:imperf:aff		
 żołądkowania	żołądkować	ger:sg:gen:n2:imperf:aff		
 żołądkowaniem	żołądkować	ger:sg:inst:n2:imperf:aff		
 żołądkowanie	żołądkować	ger:sg:nom.acc:n2:imperf:aff		
-żołądkowaniom	żołądkować	ger:pl:dat.loc:n2:imperf:aff		
+żołądkowaniom	żołądkować	ger:pl:dat:n2:imperf:aff		
 żołądkowaniu	żołądkować	ger:sg:dat.loc:n2:imperf:aff		
 żołądkowano	żołądkować	imps:imperf		
 żołądkowań	żołądkować	ger:pl:gen:n2:imperf:aff		
@@ -13327,12 +13375,13 @@
 żołdowanemu	żołdować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żołdowane	żołdować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żołdowane	żołdować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żołdowaniach	żołdować	ger:pl:loc:n2:imperf:aff		
 żołdowaniami	żołdować	ger:pl:inst:n2:imperf:aff		
 żołdowania	żołdować	ger:pl:nom.acc:n2:imperf:aff		
 żołdowania	żołdować	ger:sg:gen:n2:imperf:aff		
 żołdowaniem	żołdować	ger:sg:inst:n2:imperf:aff		
 żołdowanie	żołdować	ger:sg:nom.acc:n2:imperf:aff		
-żołdowaniom	żołdować	ger:pl:dat.loc:n2:imperf:aff		
+żołdowaniom	żołdować	ger:pl:dat:n2:imperf:aff		
 żołdowaniu	żołdować	ger:sg:dat.loc:n2:imperf:aff		
 żołdowani	żołdować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żołdowano	żołdować	imps:imperf		daw.
@@ -14041,12 +14090,13 @@
 żonglowały	żonglować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 żonglował	żonglować	praet:sg:m1.m2.m3:imperf		
 żonglował	żonglować	praet:sg:m1.m2.m3:ter:imperf		
+żonglowaniach	żonglować	ger:pl:loc:n2:imperf:aff		
 żonglowaniami	żonglować	ger:pl:inst:n2:imperf:aff		
 żonglowania	żonglować	ger:pl:nom.acc:n2:imperf:aff		
 żonglowania	żonglować	ger:sg:gen:n2:imperf:aff		
 żonglowaniem	żonglować	ger:sg:inst:n2:imperf:aff		
 żonglowanie	żonglować	ger:sg:nom.acc:n2:imperf:aff		
-żonglowaniom	żonglować	ger:pl:dat.loc:n2:imperf:aff		
+żonglowaniom	żonglować	ger:pl:dat:n2:imperf:aff		
 żonglowaniu	żonglować	ger:sg:dat.loc:n2:imperf:aff		
 żonglowano	żonglować	imps:imperf		
 żonglowań	żonglować	ger:pl:gen:n2:imperf:aff		
@@ -14345,12 +14395,13 @@
 żorowały	żorować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		indyw.
 żorował	żorować	praet:sg:m1.m2.m3:imperf		indyw.
 żorował	żorować	praet:sg:m1.m2.m3:ter:imperf		indyw.
+żorowaniach	żorować	ger:pl:loc:n2:imperf:aff		
 żorowaniami	żorować	ger:pl:inst:n2:imperf:aff		
 żorowania	żorować	ger:pl:nom.acc:n2:imperf:aff		
 żorowania	żorować	ger:sg:gen:n2:imperf:aff		
 żorowaniem	żorować	ger:sg:inst:n2:imperf:aff		
 żorowanie	żorować	ger:sg:nom.acc:n2:imperf:aff		
-żorowaniom	żorować	ger:pl:dat.loc:n2:imperf:aff		
+żorowaniom	żorować	ger:pl:dat:n2:imperf:aff		
 żorowaniu	żorować	ger:sg:dat.loc:n2:imperf:aff		
 żorowano	żorować	imps:imperf		indyw.
 żorowań	żorować	ger:pl:gen:n2:imperf:aff		
@@ -14504,12 +14555,13 @@
 żółcący	żółcić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żółcąc	żółcić	pcon:imperf		
 żółcą	żółcić	fin:pl:ter:imperf		
+żółceniach	żółcić	ger:pl:loc:n2:imperf:aff		
 żółceniami	żółcić	ger:pl:inst:n2:imperf:aff		
 żółcenia	żółcić	ger:pl:nom.acc:n2:imperf:aff		
 żółcenia	żółcić	ger:sg:gen:n2:imperf:aff		
 żółceniem	żółcić	ger:sg:inst:n2:imperf:aff		
 żółcenie	żółcić	ger:sg:nom.acc:n2:imperf:aff		
-żółceniom	żółcić	ger:pl:dat.loc:n2:imperf:aff		
+żółceniom	żółcić	ger:pl:dat:n2:imperf:aff		
 żółceniu	żółcić	ger:sg:dat.loc:n2:imperf:aff		
 żółceni	żółcić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żółceń	żółcić	ger:pl:gen:n2:imperf:aff		
@@ -14573,12 +14625,13 @@
 żółćcie	żółcić	impt:pl:sec:imperf		
 żółćmy	żółcić	impt:pl:pri:imperf		
 żółć	żółcić	impt:sg:sec:imperf		
+żółceniach	żółcieć	ger:pl:loc:n2:imperf:aff		
 żółceniami	żółcieć	ger:pl:inst:n2:imperf:aff		
 żółcenia	żółcieć	ger:pl:nom.acc:n2:imperf:aff		
 żółcenia	żółcieć	ger:sg:gen:n2:imperf:aff		
 żółceniem	żółcieć	ger:sg:inst:n2:imperf:aff		
 żółcenie	żółcieć	ger:sg:nom.acc:n2:imperf:aff		
-żółceniom	żółcieć	ger:pl:dat.loc:n2:imperf:aff		
+żółceniom	żółcieć	ger:pl:dat:n2:imperf:aff		
 żółceniu	żółcieć	ger:sg:dat.loc:n2:imperf:aff		
 żółceń	żółcieć	ger:pl:gen:n2:imperf:aff		
 żółciałabym	żółcieć	cond:sg:f:pri:imperf		
@@ -15129,12 +15182,13 @@
 żółkniesz	żółknąć	fin:sg:sec:imperf		rzad.
 żółknie	żółknąć	fin:sg:ter:imperf		
 żółknie	żółknąć	fin:sg:ter:imperf		rzad.
+żółknięciach	żółknąć	ger:pl:loc:n2:imperf:aff		
 żółknięciami	żółknąć	ger:pl:inst:n2:imperf:aff		
 żółknięcia	żółknąć	ger:pl:nom.acc:n2:imperf:aff		
 żółknięcia	żółknąć	ger:sg:gen:n2:imperf:aff		
 żółknięciem	żółknąć	ger:sg:inst:n2:imperf:aff		
 żółknięcie	żółknąć	ger:sg:nom.acc:n2:imperf:aff		
-żółknięciom	żółknąć	ger:pl:dat.loc:n2:imperf:aff		
+żółknięciom	żółknąć	ger:pl:dat:n2:imperf:aff		
 żółknięciu	żółknąć	ger:sg:dat.loc:n2:imperf:aff		
 żółknięć	żółknąć	ger:pl:gen:n2:imperf:aff		
 żółknięto	żółknąć	imps:imperf		
@@ -15208,12 +15262,13 @@
 żółknieliśmy	żółknieć	praet:pl:m1.p1:pri:imperf		
 żółknieli	żółknieć	praet:pl:m1.p1:imperf		
 żółknieli	żółknieć	praet:pl:m1.p1:ter:imperf		
+żółknieniach	żółknieć	ger:pl:loc:n2:imperf:aff		
 żółknieniami	żółknieć	ger:pl:inst:n2:imperf:aff		
 żółknienia	żółknieć	ger:pl:nom.acc:n2:imperf:aff		
 żółknienia	żółknieć	ger:sg:gen:n2:imperf:aff		
 żółknieniem	żółknieć	ger:sg:inst:n2:imperf:aff		
 żółknienie	żółknieć	ger:sg:nom.acc:n2:imperf:aff		
-żółknieniom	żółknieć	ger:pl:dat.loc:n2:imperf:aff		
+żółknieniom	żółknieć	ger:pl:dat:n2:imperf:aff		
 żółknieniu	żółknieć	ger:sg:dat.loc:n2:imperf:aff		
 żółknień	żółknieć	ger:pl:gen:n2:imperf:aff		
 żółtaczce	żółtaczka	subst:sg:dat:f	pospolita	
@@ -17286,12 +17341,13 @@
 żrący	żrący	adj:pl:nom.voc:m1.p1:pos		
 żrący	żrący	adj:sg:acc:m3:pos		
 żrący	żrący	adj:sg:nom.voc:m1.m2.m3:pos		
+żarciach	żreć	ger:pl:loc:n2:imperf:aff		
 żarciami	żreć	ger:pl:inst:n2:imperf:aff		
 żarcia	żreć	ger:pl:nom.acc:n2:imperf:aff		
 żarcia	żreć	ger:sg:gen:n2:imperf:aff		
 żarciem	żreć	ger:sg:inst:n2:imperf:aff		
 żarcie	żreć	ger:sg:nom.acc:n2:imperf:aff		
-żarciom	żreć	ger:pl:dat.loc:n2:imperf:aff		
+żarciom	żreć	ger:pl:dat:n2:imperf:aff		
 żarciu	żreć	ger:sg:dat.loc:n2:imperf:aff		
 żarci	żreć	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żarć	żreć	ger:pl:gen:n2:imperf:aff		
@@ -17517,12 +17573,13 @@
 żubrowanemu	żubrować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żubrowane	żubrować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żubrowane	żubrować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żubrowaniach	żubrować	ger:pl:loc:n2:imperf:aff		
 żubrowaniami	żubrować	ger:pl:inst:n2:imperf:aff		
 żubrowania	żubrować	ger:pl:nom.acc:n2:imperf:aff		
 żubrowania	żubrować	ger:sg:gen:n2:imperf:aff		
 żubrowaniem	żubrować	ger:sg:inst:n2:imperf:aff		
 żubrowanie	żubrować	ger:sg:nom.acc:n2:imperf:aff		
-żubrowaniom	żubrować	ger:pl:dat.loc:n2:imperf:aff		
+żubrowaniom	żubrować	ger:pl:dat:n2:imperf:aff		
 żubrowaniu	żubrować	ger:sg:dat.loc:n2:imperf:aff		
 żubrowani	żubrować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żubrowano	żubrować	imps:imperf		roln.
@@ -17746,12 +17803,13 @@
 żubrząc	żubrzyć	pcon:imperf		daw.
 żubrzą	żubrzyć	fin:pl:ter:imperf		daw.
 żubrzcie	żubrzyć	impt:pl:sec:imperf		daw.
+żubrzeniach	żubrzyć	ger:pl:loc:n2:imperf:aff		
 żubrzeniami	żubrzyć	ger:pl:inst:n2:imperf:aff		
 żubrzenia	żubrzyć	ger:pl:nom.acc:n2:imperf:aff		
 żubrzenia	żubrzyć	ger:sg:gen:n2:imperf:aff		
 żubrzeniem	żubrzyć	ger:sg:inst:n2:imperf:aff		
 żubrzenie	żubrzyć	ger:sg:nom.acc:n2:imperf:aff		
-żubrzeniom	żubrzyć	ger:pl:dat.loc:n2:imperf:aff		
+żubrzeniom	żubrzyć	ger:pl:dat:n2:imperf:aff		
 żubrzeniu	żubrzyć	ger:sg:dat.loc:n2:imperf:aff		
 żubrzeń	żubrzyć	ger:pl:gen:n2:imperf:aff		
 żubrzę	żubrzyć	fin:sg:pri:imperf		daw.
@@ -17951,12 +18009,13 @@
 żuczeliśmy	żuczeć	praet:pl:m1.p1:pri:imperf		rzad.
 żuczeli	żuczeć	praet:pl:m1.p1:imperf		rzad.
 żuczeli	żuczeć	praet:pl:m1.p1:ter:imperf		rzad.
+żuczeniach	żuczeć	ger:pl:loc:n2:imperf:aff		
 żuczeniami	żuczeć	ger:pl:inst:n2:imperf:aff		
 żuczenia	żuczeć	ger:pl:nom.acc:n2:imperf:aff		
 żuczenia	żuczeć	ger:sg:gen:n2:imperf:aff		
 żuczeniem	żuczeć	ger:sg:inst:n2:imperf:aff		
 żuczenie	żuczeć	ger:sg:nom.acc:n2:imperf:aff		
-żuczeniom	żuczeć	ger:pl:dat.loc:n2:imperf:aff		
+żuczeniom	żuczeć	ger:pl:dat:n2:imperf:aff		
 żuczeniu	żuczeć	ger:sg:dat.loc:n2:imperf:aff		
 żuczeń	żuczeć	ger:pl:gen:n2:imperf:aff		
 żuczę	żuczeć	fin:sg:pri:imperf		rzad.
@@ -17980,12 +18039,13 @@
 żuczków	żuczek	subst:pl:gen:m2	pospolita	
 żuczku	żuczek	subst:sg:loc:m2	pospolita	
 żuczku	żuczek	subst:sg:voc:m2	pospolita	
+żuciach	żuć	ger:pl:loc:n2:imperf:aff		
 żuciami	żuć	ger:pl:inst:n2:imperf:aff		
 żucia	żuć	ger:pl:nom.acc:n2:imperf:aff		
 żucia	żuć	ger:sg:gen:n2:imperf:aff		
 żuciem	żuć	ger:sg:inst:n2:imperf:aff		
 żucie	żuć	ger:sg:nom.acc:n2:imperf:aff		
-żuciom	żuć	ger:pl:dat.loc:n2:imperf:aff		
+żuciom	żuć	ger:pl:dat:n2:imperf:aff		
 żuciu	żuć	ger:sg:dat.loc:n2:imperf:aff		
 żuci	żuć	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żuć	żuć	ger:pl:gen:n2:imperf:aff		
@@ -18759,12 +18819,13 @@
 żupnikowały	żupnikować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 żupnikował	żupnikować	praet:sg:m1.m2.m3:imperf		
 żupnikował	żupnikować	praet:sg:m1.m2.m3:ter:imperf		
+żupnikowaniach	żupnikować	ger:pl:loc:n2:imperf:aff		
 żupnikowaniami	żupnikować	ger:pl:inst:n2:imperf:aff		
 żupnikowania	żupnikować	ger:pl:nom.acc:n2:imperf:aff		
 żupnikowania	żupnikować	ger:sg:gen:n2:imperf:aff		
 żupnikowaniem	żupnikować	ger:sg:inst:n2:imperf:aff		
 żupnikowanie	żupnikować	ger:sg:nom.acc:n2:imperf:aff		
-żupnikowaniom	żupnikować	ger:pl:dat.loc:n2:imperf:aff		
+żupnikowaniom	żupnikować	ger:pl:dat:n2:imperf:aff		
 żupnikowaniu	żupnikować	ger:sg:dat.loc:n2:imperf:aff		
 żupnikowano	żupnikować	imps:imperf		
 żupnikowań	żupnikować	ger:pl:gen:n2:imperf:aff		
@@ -19492,12 +19553,13 @@
 żurząc	żurzyć	pcon:imperf		daw.
 żurzą	żurzyć	fin:pl:ter:imperf		daw.
 żurzcie	żurzyć	impt:pl:sec:imperf		daw.
+żurzeniach	żurzyć	ger:pl:loc:n2:imperf:aff		
 żurzeniami	żurzyć	ger:pl:inst:n2:imperf:aff		
 żurzenia	żurzyć	ger:pl:nom.acc:n2:imperf:aff		
 żurzenia	żurzyć	ger:sg:gen:n2:imperf:aff		
 żurzeniem	żurzyć	ger:sg:inst:n2:imperf:aff		
 żurzenie	żurzyć	ger:sg:nom.acc:n2:imperf:aff		
-żurzeniom	żurzyć	ger:pl:dat.loc:n2:imperf:aff		
+żurzeniom	żurzyć	ger:pl:dat:n2:imperf:aff		
 żurzeniu	żurzyć	ger:sg:dat.loc:n2:imperf:aff		
 żurzeń	żurzyć	ger:pl:gen:n2:imperf:aff		
 żurzę	żurzyć	fin:sg:pri:imperf		daw.
@@ -19811,12 +19873,13 @@
 żużlowanemu	żużlować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żużlowane	żużlować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żużlowane	żużlować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żużlowaniach	żużlować	ger:pl:loc:n2:imperf:aff		
 żużlowaniami	żużlować	ger:pl:inst:n2:imperf:aff		
 żużlowania	żużlować	ger:pl:nom.acc:n2:imperf:aff		
 żużlowania	żużlować	ger:sg:gen:n2:imperf:aff		
 żużlowaniem	żużlować	ger:sg:inst:n2:imperf:aff		
 żużlowanie	żużlować	ger:sg:nom.acc:n2:imperf:aff		
-żużlowaniom	żużlować	ger:pl:dat.loc:n2:imperf:aff		
+żużlowaniom	żużlować	ger:pl:dat:n2:imperf:aff		
 żużlowaniu	żużlować	ger:sg:dat.loc:n2:imperf:aff		
 żużlowani	żużlować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żużlowano	żużlować	imps:imperf		
@@ -20122,12 +20185,13 @@
 żwakanemu	żwakać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żwakane	żwakać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żwakane	żwakać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żwakaniach	żwakać	ger:pl:loc:n2:imperf:aff		
 żwakaniami	żwakać	ger:pl:inst:n2:imperf:aff		
 żwakania	żwakać	ger:pl:nom.acc:n2:imperf:aff		
 żwakania	żwakać	ger:sg:gen:n2:imperf:aff		
 żwakaniem	żwakać	ger:sg:inst:n2:imperf:aff		
 żwakanie	żwakać	ger:sg:nom.acc:n2:imperf:aff		
-żwakaniom	żwakać	ger:pl:dat.loc:n2:imperf:aff		
+żwakaniom	żwakać	ger:pl:dat:n2:imperf:aff		
 żwakaniu	żwakać	ger:sg:dat.loc:n2:imperf:aff		
 żwakani	żwakać	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żwakano	żwakać	imps:imperf		rzad.
@@ -20391,12 +20455,13 @@
 żwirowanemu	żwirować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żwirowane	żwirować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żwirowane	żwirować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żwirowaniach	żwirować	ger:pl:loc:n2:imperf:aff		
 żwirowaniami	żwirować	ger:pl:inst:n2:imperf:aff		
 żwirowania	żwirować	ger:pl:nom.acc:n2:imperf:aff		
 żwirowania	żwirować	ger:sg:gen:n2:imperf:aff		
 żwirowaniem	żwirować	ger:sg:inst:n2:imperf:aff		
 żwirowanie	żwirować	ger:sg:nom.acc:n2:imperf:aff		
-żwirowaniom	żwirować	ger:pl:dat.loc:n2:imperf:aff		
+żwirowaniom	żwirować	ger:pl:dat:n2:imperf:aff		
 żwirowaniu	żwirować	ger:sg:dat.loc:n2:imperf:aff		
 żwirowani	żwirować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żwirowano	żwirować	imps:imperf		
@@ -21289,12 +21354,13 @@
 życząc	życzyć	pcon:imperf		
 życzą	życzyć	fin:pl:ter:imperf		
 życzcie	życzyć	impt:pl:sec:imperf		
+życzeniach	życzyć	ger:pl:loc:n2:imperf:aff		
 życzeniami	życzyć	ger:pl:inst:n2:imperf:aff		
 życzenia	życzyć	ger:pl:nom.acc:n2:imperf:aff		
 życzenia	życzyć	ger:sg:gen:n2:imperf:aff		
 życzeniem	życzyć	ger:sg:inst:n2:imperf:aff		
 życzenie	życzyć	ger:sg:nom.acc:n2:imperf:aff		
-życzeniom	życzyć	ger:pl:dat.loc:n2:imperf:aff		
+życzeniom	życzyć	ger:pl:dat:n2:imperf:aff		
 życzeniu	życzyć	ger:sg:dat.loc:n2:imperf:aff		
 życzeń	życzyć	ger:pl:gen:n2:imperf:aff		
 życzę	życzyć	fin:sg:pri:imperf		
@@ -21341,12 +21407,13 @@
 życzysz	życzyć	fin:sg:sec:imperf		
 życzy	życzyć	fin:sg:ter:imperf		
 życz	życzyć	impt:sg:sec:imperf		
+życiach	żyć	ger:pl:loc:n2:imperf:aff		
 życiami	żyć	ger:pl:inst:n2:imperf:aff		
 życia	żyć	ger:pl:nom.acc:n2:imperf:aff		
 życia	żyć	ger:sg:gen:n2:imperf:aff		
 życiem	żyć	ger:sg:inst:n2:imperf:aff		
 życie	żyć	ger:sg:nom.acc:n2:imperf:aff		
-życiom	żyć	ger:pl:dat.loc:n2:imperf:aff		
+życiom	żyć	ger:pl:dat:n2:imperf:aff		
 życiu	żyć	ger:sg:dat.loc:n2:imperf:aff		
 żyć	żyć	ger:pl:gen:n2:imperf:aff		
 żyć	żyć	inf:imperf		
@@ -21463,12 +21530,13 @@
 żydłacząc	żydłaczyć	pcon:imperf		
 żydłaczą	żydłaczyć	fin:pl:ter:imperf		
 żydłaczcie	żydłaczyć	impt:pl:sec:imperf		
+żydłaczeniach	żydłaczyć	ger:pl:loc:n2:imperf:aff		
 żydłaczeniami	żydłaczyć	ger:pl:inst:n2:imperf:aff		
 żydłaczenia	żydłaczyć	ger:pl:nom.acc:n2:imperf:aff		
 żydłaczenia	żydłaczyć	ger:sg:gen:n2:imperf:aff		
 żydłaczeniem	żydłaczyć	ger:sg:inst:n2:imperf:aff		
 żydłaczenie	żydłaczyć	ger:sg:nom.acc:n2:imperf:aff		
-żydłaczeniom	żydłaczyć	ger:pl:dat.loc:n2:imperf:aff		
+żydłaczeniom	żydłaczyć	ger:pl:dat:n2:imperf:aff		
 żydłaczeniu	żydłaczyć	ger:sg:dat.loc:n2:imperf:aff		
 żydłaczeń	żydłaczyć	ger:pl:gen:n2:imperf:aff		
 żydłaczę	żydłaczyć	fin:sg:pri:imperf		
@@ -21715,12 +21783,13 @@
 żydzący	żydzić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żydząc	żydzić	pcon:imperf		pogard.|pot.
 żydzą	żydzić	fin:pl:ter:imperf		pogard.|pot.
+żydzeniach	żydzić	ger:pl:loc:n2:imperf:aff		
 żydzeniami	żydzić	ger:pl:inst:n2:imperf:aff		
 żydzenia	żydzić	ger:pl:nom.acc:n2:imperf:aff		
 żydzenia	żydzić	ger:sg:gen:n2:imperf:aff		
 żydzeniem	żydzić	ger:sg:inst:n2:imperf:aff		
 żydzenie	żydzić	ger:sg:nom.acc:n2:imperf:aff		
-żydzeniom	żydzić	ger:pl:dat.loc:n2:imperf:aff		
+żydzeniom	żydzić	ger:pl:dat:n2:imperf:aff		
 żydzeniu	żydzić	ger:sg:dat.loc:n2:imperf:aff		
 żydzeń	żydzić	ger:pl:gen:n2:imperf:aff		
 żydzę	żydzić	fin:sg:pri:imperf		pogard.|pot.
@@ -21768,12 +21837,13 @@
 żydźcie	żydzić	impt:pl:sec:imperf		pogard.|pot.
 żydźmy	żydzić	impt:pl:pri:imperf		pogard.|pot.
 żydź	żydzić	impt:sg:sec:imperf		pogard.|pot.
+żydzeniach	żydzieć	ger:pl:loc:n2:imperf:aff		
 żydzeniami	żydzieć	ger:pl:inst:n2:imperf:aff		
 żydzenia	żydzieć	ger:pl:nom.acc:n2:imperf:aff		
 żydzenia	żydzieć	ger:sg:gen:n2:imperf:aff		
 żydzeniem	żydzieć	ger:sg:inst:n2:imperf:aff		
 żydzenie	żydzieć	ger:sg:nom.acc:n2:imperf:aff		
-żydzeniom	żydzieć	ger:pl:dat.loc:n2:imperf:aff		
+żydzeniom	żydzieć	ger:pl:dat:n2:imperf:aff		
 żydzeniu	żydzieć	ger:sg:dat.loc:n2:imperf:aff		
 żydzeń	żydzieć	ger:pl:gen:n2:imperf:aff		
 żydziałabym	żydzieć	cond:sg:f:pri:imperf		
@@ -22228,12 +22298,13 @@
 żyłkowanemu	żyłkować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żyłkowane	żyłkować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żyłkowane	żyłkować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żyłkowaniach	żyłkować	ger:pl:loc:n2:imperf:aff		
 żyłkowaniami	żyłkować	ger:pl:inst:n2:imperf:aff		
 żyłkowania	żyłkować	ger:pl:nom.acc:n2:imperf:aff		
 żyłkowania	żyłkować	ger:sg:gen:n2:imperf:aff		
 żyłkowaniem	żyłkować	ger:sg:inst:n2:imperf:aff		
 żyłkowanie	żyłkować	ger:sg:nom.acc:n2:imperf:aff		
-żyłkowaniom	żyłkować	ger:pl:dat.loc:n2:imperf:aff		
+żyłkowaniom	żyłkować	ger:pl:dat:n2:imperf:aff		
 żyłkowaniu	żyłkować	ger:sg:dat.loc:n2:imperf:aff		
 żyłkowani	żyłkować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żyłkowano	żyłkować	imps:imperf		rzad.
@@ -22443,12 +22514,13 @@
 żyłowanemu	żyłować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żyłowane	żyłować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żyłowane	żyłować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żyłowaniach	żyłować	ger:pl:loc:n2:imperf:aff		
 żyłowaniami	żyłować	ger:pl:inst:n2:imperf:aff		
 żyłowania	żyłować	ger:pl:nom.acc:n2:imperf:aff		
 żyłowania	żyłować	ger:sg:gen:n2:imperf:aff		
 żyłowaniem	żyłować	ger:sg:inst:n2:imperf:aff		
 żyłowanie	żyłować	ger:sg:nom.acc:n2:imperf:aff		
-żyłowaniom	żyłować	ger:pl:dat.loc:n2:imperf:aff		
+żyłowaniom	żyłować	ger:pl:dat:n2:imperf:aff		
 żyłowaniu	żyłować	ger:sg:dat.loc:n2:imperf:aff		
 żyłowani	żyłować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żyłowano	żyłować	imps:imperf		
@@ -23119,12 +23191,13 @@
 żyrowanemu	żyrować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
 żyrowane	żyrować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff		
 żyrowane	żyrować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
+żyrowaniach	żyrować	ger:pl:loc:n2:imperf.perf:aff		
 żyrowaniami	żyrować	ger:pl:inst:n2:imperf.perf:aff		
 żyrowania	żyrować	ger:pl:nom.acc:n2:imperf.perf:aff		
 żyrowania	żyrować	ger:sg:gen:n2:imperf.perf:aff		
 żyrowaniem	żyrować	ger:sg:inst:n2:imperf.perf:aff		
 żyrowanie	żyrować	ger:sg:nom.acc:n2:imperf.perf:aff		
-żyrowaniom	żyrować	ger:pl:dat.loc:n2:imperf.perf:aff		
+żyrowaniom	żyrować	ger:pl:dat:n2:imperf.perf:aff		
 żyrowaniu	żyrować	ger:sg:dat.loc:n2:imperf.perf:aff		
 żyrowani	żyrować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
 żyrowano	żyrować	imps:imperf.perf		
@@ -23675,12 +23748,13 @@
 żywicowanemu	żywicować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 żywicowane	żywicować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 żywicowane	żywicować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żywicowaniach	żywicować	ger:pl:loc:n2:imperf:aff		
 żywicowaniami	żywicować	ger:pl:inst:n2:imperf:aff		
 żywicowania	żywicować	ger:pl:nom.acc:n2:imperf:aff		
 żywicowania	żywicować	ger:sg:gen:n2:imperf:aff		
 żywicowaniem	żywicować	ger:sg:inst:n2:imperf:aff		
 żywicowanie	żywicować	ger:sg:nom.acc:n2:imperf:aff		
-żywicowaniom	żywicować	ger:pl:dat.loc:n2:imperf:aff		
+żywicowaniom	żywicować	ger:pl:dat:n2:imperf:aff		
 żywicowaniu	żywicować	ger:sg:dat.loc:n2:imperf:aff		
 żywicowani	żywicować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żywicowano	żywicować	imps:imperf		
@@ -23939,12 +24013,13 @@
 żywią	żywić	fin:pl:ter:imperf		
 żywicie	żywić	fin:pl:sec:imperf		
 żywić	żywić	inf:imperf		
+żywieniach	żywić	ger:pl:loc:n2:imperf:aff		
 żywieniami	żywić	ger:pl:inst:n2:imperf:aff		
 żywienia	żywić	ger:pl:nom.acc:n2:imperf:aff		
 żywienia	żywić	ger:sg:gen:n2:imperf:aff		
 żywieniem	żywić	ger:sg:inst:n2:imperf:aff		
 żywienie	żywić	ger:sg:nom.acc:n2:imperf:aff		
-żywieniom	żywić	ger:pl:dat.loc:n2:imperf:aff		
+żywieniom	żywić	ger:pl:dat:n2:imperf:aff		
 żywieniu	żywić	ger:sg:dat.loc:n2:imperf:aff		
 żywieni	żywić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żywień	żywić	ger:pl:gen:n2:imperf:aff		
@@ -25477,12 +25552,13 @@
 żyźnią	żyźnić	fin:pl:ter:imperf		rzad.
 żyźnicie	żyźnić	fin:pl:sec:imperf		rzad.
 żyźnić	żyźnić	inf:imperf		rzad.
+żyźnieniach	żyźnić	ger:pl:loc:n2:imperf:aff		
 żyźnieniami	żyźnić	ger:pl:inst:n2:imperf:aff		
 żyźnienia	żyźnić	ger:pl:nom.acc:n2:imperf:aff		
 żyźnienia	żyźnić	ger:sg:gen:n2:imperf:aff		
 żyźnieniem	żyźnić	ger:sg:inst:n2:imperf:aff		
 żyźnienie	żyźnić	ger:sg:nom.acc:n2:imperf:aff		
-żyźnieniom	żyźnić	ger:pl:dat.loc:n2:imperf:aff		
+żyźnieniom	żyźnić	ger:pl:dat:n2:imperf:aff		
 żyźnieniu	żyźnić	ger:sg:dat.loc:n2:imperf:aff		
 żyźnieni	żyźnić	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żyźnień	żyźnić	ger:pl:gen:n2:imperf:aff		

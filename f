@@ -406,13 +406,14 @@ fabrykowanego	fabrykować	ppas:sg:acc:m1.m2:imperf:aff
 fabrykowanego	fabrykować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fabrykowanej	fabrykować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fabrykowanemu	fabrykować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fabrykowaniach	fabrykować	ger:pl:loc:n2:imperf:aff		
 fabrykowania	fabrykować	ger:pl:nom.acc:n2:imperf:aff		
 fabrykowania	fabrykować	ger:sg:gen:n2:imperf:aff		
 fabrykowaniami	fabrykować	ger:pl:inst:n2:imperf:aff		
 fabrykowanie	fabrykować	ger:sg:nom.acc:n2:imperf:aff		
 fabrykowaniem	fabrykować	ger:sg:inst:n2:imperf:aff		
 fabrykowani	fabrykować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fabrykowaniom	fabrykować	ger:pl:dat.loc:n2:imperf:aff		
+fabrykowaniom	fabrykować	ger:pl:dat:n2:imperf:aff		
 fabrykowaniu	fabrykować	ger:sg:dat.loc:n2:imperf:aff		
 fabrykowano	fabrykować	imps:imperf		
 fabrykowanych	fabrykować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -576,13 +577,14 @@ fabularyzowanego	fabularyzować	ppas:sg:acc:m1.m2:imperf:aff
 fabularyzowanego	fabularyzować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fabularyzowanej	fabularyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fabularyzowanemu	fabularyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fabularyzowaniach	fabularyzować	ger:pl:loc:n2:imperf:aff		
 fabularyzowania	fabularyzować	ger:pl:nom.acc:n2:imperf:aff		
 fabularyzowania	fabularyzować	ger:sg:gen:n2:imperf:aff		
 fabularyzowaniami	fabularyzować	ger:pl:inst:n2:imperf:aff		
 fabularyzowanie	fabularyzować	ger:sg:nom.acc:n2:imperf:aff		
 fabularyzowaniem	fabularyzować	ger:sg:inst:n2:imperf:aff		
 fabularyzowani	fabularyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fabularyzowaniom	fabularyzować	ger:pl:dat.loc:n2:imperf:aff		
+fabularyzowaniom	fabularyzować	ger:pl:dat:n2:imperf:aff		
 fabularyzowaniu	fabularyzować	ger:sg:dat.loc:n2:imperf:aff		
 fabularyzowano	fabularyzować	imps:imperf		
 fabularyzowanych	fabularyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -1609,13 +1611,14 @@ facjendowanego	facjendować	ppas:sg:acc:m1.m2:imperf:aff
 facjendowanego	facjendować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 facjendowanej	facjendować	ppas:sg:gen.dat.loc:f:imperf:aff		
 facjendowanemu	facjendować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+facjendowaniach	facjendować	ger:pl:loc:n2:imperf:aff		
 facjendowania	facjendować	ger:pl:nom.acc:n2:imperf:aff		
 facjendowania	facjendować	ger:sg:gen:n2:imperf:aff		
 facjendowaniami	facjendować	ger:pl:inst:n2:imperf:aff		
 facjendowanie	facjendować	ger:sg:nom.acc:n2:imperf:aff		
 facjendowaniem	facjendować	ger:sg:inst:n2:imperf:aff		
 facjendowani	facjendować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-facjendowaniom	facjendować	ger:pl:dat.loc:n2:imperf:aff		
+facjendowaniom	facjendować	ger:pl:dat:n2:imperf:aff		
 facjendowaniu	facjendować	ger:sg:dat.loc:n2:imperf:aff		
 facjendowano	facjendować	imps:imperf		daw.
 facjendowanych	facjendować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -1918,12 +1921,13 @@ fagasowały	fagasować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fagasowały	fagasować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fagasowałyście	fagasować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fagasowałyśmy	fagasować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+fagasowaniach	fagasować	ger:pl:loc:n2:imperf:aff		
 fagasowania	fagasować	ger:pl:nom.acc:n2:imperf:aff		
 fagasowania	fagasować	ger:sg:gen:n2:imperf:aff		
 fagasowaniami	fagasować	ger:pl:inst:n2:imperf:aff		
 fagasowanie	fagasować	ger:sg:nom.acc:n2:imperf:aff		
 fagasowaniem	fagasować	ger:sg:inst:n2:imperf:aff		
-fagasowaniom	fagasować	ger:pl:dat.loc:n2:imperf:aff		
+fagasowaniom	fagasować	ger:pl:dat:n2:imperf:aff		
 fagasowaniu	fagasować	ger:sg:dat.loc:n2:imperf:aff		
 fagasowano	fagasować	imps:imperf		
 fagasowań	fagasować	ger:pl:gen:n2:imperf:aff		
@@ -2602,13 +2606,14 @@ fajczącym	fajczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 fajczącymi	fajczyć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fajczą	fajczyć	fin:pl:ter:imperf		przest.
 fajczcie	fajczyć	impt:pl:sec:imperf		przest.
+fajczeniach	fajczyć	ger:pl:loc:n2:imperf:aff		
 fajczenia	fajczyć	ger:pl:nom.acc:n2:imperf:aff		
 fajczenia	fajczyć	ger:sg:gen:n2:imperf:aff		
 fajczeniami	fajczyć	ger:pl:inst:n2:imperf:aff		
 fajczenie	fajczyć	ger:sg:nom.acc:n2:imperf:aff		
 fajczeniem	fajczyć	ger:sg:inst:n2:imperf:aff		
 fajczeni	fajczyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fajczeniom	fajczyć	ger:pl:dat.loc:n2:imperf:aff		
+fajczeniom	fajczyć	ger:pl:dat:n2:imperf:aff		
 fajczeniu	fajczyć	ger:sg:dat.loc:n2:imperf:aff		
 fajczeń	fajczyć	ger:pl:gen:n2:imperf:aff		
 fajczę	fajczyć	fin:sg:pri:imperf		przest.
@@ -2759,12 +2764,13 @@ fajdałyście	fajdać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		pot.
 fajdałyśmy	fajdać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		pot.
 fajdam	fajdać	fin:sg:pri:imperf		pot.
 fajdamy	fajdać	fin:pl:pri:imperf		pot.
+fajdaniach	fajdać	ger:pl:loc:n2:imperf:aff		
 fajdania	fajdać	ger:pl:nom.acc:n2:imperf:aff		
 fajdania	fajdać	ger:sg:gen:n2:imperf:aff		
 fajdaniami	fajdać	ger:pl:inst:n2:imperf:aff		
 fajdanie	fajdać	ger:sg:nom.acc:n2:imperf:aff		
 fajdaniem	fajdać	ger:sg:inst:n2:imperf:aff		
-fajdaniom	fajdać	ger:pl:dat.loc:n2:imperf:aff		
+fajdaniom	fajdać	ger:pl:dat:n2:imperf:aff		
 fajdaniu	fajdać	ger:sg:dat.loc:n2:imperf:aff		
 fajdano	fajdać	imps:imperf		pot.
 fajdań	fajdać	ger:pl:gen:n2:imperf:aff		
@@ -3130,13 +3136,14 @@ fajkowanego	fajkować	ppas:sg:acc:m1.m2:imperf:aff
 fajkowanego	fajkować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fajkowanej	fajkować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fajkowanemu	fajkować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fajkowaniach	fajkować	ger:pl:loc:n2:imperf:aff		
 fajkowania	fajkować	ger:pl:nom.acc:n2:imperf:aff		
 fajkowania	fajkować	ger:sg:gen:n2:imperf:aff		
 fajkowaniami	fajkować	ger:pl:inst:n2:imperf:aff		
 fajkowanie	fajkować	ger:sg:nom.acc:n2:imperf:aff		
 fajkowaniem	fajkować	ger:sg:inst:n2:imperf:aff		
 fajkowani	fajkować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fajkowaniom	fajkować	ger:pl:dat.loc:n2:imperf:aff		
+fajkowaniom	fajkować	ger:pl:dat:n2:imperf:aff		
 fajkowaniu	fajkować	ger:sg:dat.loc:n2:imperf:aff		
 fajkowano	fajkować	imps:imperf		
 fajkowanych	fajkować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -3350,13 +3357,14 @@ fajnowanego	fajnować	ppas:sg:acc:m1.m2:imperf:aff
 fajnowanego	fajnować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fajnowanej	fajnować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fajnowanemu	fajnować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fajnowaniach	fajnować	ger:pl:loc:n2:imperf:aff		
 fajnowania	fajnować	ger:pl:nom.acc:n2:imperf:aff		
 fajnowania	fajnować	ger:sg:gen:n2:imperf:aff		
 fajnowaniami	fajnować	ger:pl:inst:n2:imperf:aff		
 fajnowanie	fajnować	ger:sg:nom.acc:n2:imperf:aff		
 fajnowaniem	fajnować	ger:sg:inst:n2:imperf:aff		
 fajnowani	fajnować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fajnowaniom	fajnować	ger:pl:dat.loc:n2:imperf:aff		
+fajnowaniom	fajnować	ger:pl:dat:n2:imperf:aff		
 fajnowaniu	fajnować	ger:sg:dat.loc:n2:imperf:aff		
 fajnowano	fajnować	imps:imperf		przest.
 fajnowanych	fajnować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -3633,12 +3641,13 @@ fajtałyście	fajtać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 fajtałyśmy	fajtać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 fajtam	fajtać	fin:sg:pri:imperf		
 fajtamy	fajtać	fin:pl:pri:imperf		
+fajtaniach	fajtać	ger:pl:loc:n2:imperf:aff		
 fajtania	fajtać	ger:pl:nom.acc:n2:imperf:aff		
 fajtania	fajtać	ger:sg:gen:n2:imperf:aff		
 fajtaniami	fajtać	ger:pl:inst:n2:imperf:aff		
 fajtanie	fajtać	ger:sg:nom.acc:n2:imperf:aff		
 fajtaniem	fajtać	ger:sg:inst:n2:imperf:aff		
-fajtaniom	fajtać	ger:pl:dat.loc:n2:imperf:aff		
+fajtaniom	fajtać	ger:pl:dat:n2:imperf:aff		
 fajtaniu	fajtać	ger:sg:dat.loc:n2:imperf:aff		
 fajtano	fajtać	imps:imperf		
 fajtań	fajtać	ger:pl:gen:n2:imperf:aff		
@@ -3754,12 +3763,13 @@ fajtniecie	fajtnąć	fin:pl:sec:perf
 fajtnie	fajtnąć	fin:sg:ter:perf		
 fajtniemy	fajtnąć	fin:pl:pri:perf		
 fajtniesz	fajtnąć	fin:sg:sec:perf		
+fajtnięciach	fajtnąć	ger:pl:loc:n2:perf:aff		
 fajtnięcia	fajtnąć	ger:pl:nom.acc:n2:perf:aff		
 fajtnięcia	fajtnąć	ger:sg:gen:n2:perf:aff		
 fajtnięciami	fajtnąć	ger:pl:inst:n2:perf:aff		
 fajtnięcie	fajtnąć	ger:sg:nom.acc:n2:perf:aff		
 fajtnięciem	fajtnąć	ger:sg:inst:n2:perf:aff		
-fajtnięciom	fajtnąć	ger:pl:dat.loc:n2:perf:aff		
+fajtnięciom	fajtnąć	ger:pl:dat:n2:perf:aff		
 fajtnięciu	fajtnąć	ger:sg:dat.loc:n2:perf:aff		
 fajtnięć	fajtnąć	ger:pl:gen:n2:perf:aff		
 fajtnięto	fajtnąć	imps:perf		
@@ -4085,13 +4095,14 @@ faksowanego	faksować	ppas:sg:acc:m1.m2:imperf:aff
 faksowanego	faksować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 faksowanej	faksować	ppas:sg:gen.dat.loc:f:imperf:aff		
 faksowanemu	faksować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+faksowaniach	faksować	ger:pl:loc:n2:imperf:aff		
 faksowania	faksować	ger:pl:nom.acc:n2:imperf:aff		
 faksowania	faksować	ger:sg:gen:n2:imperf:aff		
 faksowaniami	faksować	ger:pl:inst:n2:imperf:aff		
 faksowanie	faksować	ger:sg:nom.acc:n2:imperf:aff		
 faksowaniem	faksować	ger:sg:inst:n2:imperf:aff		
 faksowani	faksować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-faksowaniom	faksować	ger:pl:dat.loc:n2:imperf:aff		
+faksowaniom	faksować	ger:pl:dat:n2:imperf:aff		
 faksowaniu	faksować	ger:sg:dat.loc:n2:imperf:aff		
 faksowano	faksować	imps:imperf		
 faksowanych	faksować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -4224,13 +4235,14 @@ faksymilowanego	faksymilować	ppas:sg:acc:m1.m2:imperf:aff
 faksymilowanego	faksymilować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 faksymilowanej	faksymilować	ppas:sg:gen.dat.loc:f:imperf:aff		
 faksymilowanemu	faksymilować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+faksymilowaniach	faksymilować	ger:pl:loc:n2:imperf:aff		
 faksymilowania	faksymilować	ger:pl:nom.acc:n2:imperf:aff		
 faksymilowania	faksymilować	ger:sg:gen:n2:imperf:aff		
 faksymilowaniami	faksymilować	ger:pl:inst:n2:imperf:aff		
 faksymilowanie	faksymilować	ger:sg:nom.acc:n2:imperf:aff		
 faksymilowaniem	faksymilować	ger:sg:inst:n2:imperf:aff		
 faksymilowani	faksymilować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-faksymilowaniom	faksymilować	ger:pl:dat.loc:n2:imperf:aff		
+faksymilowaniom	faksymilować	ger:pl:dat:n2:imperf:aff		
 faksymilowaniu	faksymilować	ger:sg:dat.loc:n2:imperf:aff		
 faksymilowano	faksymilować	imps:imperf		
 faksymilowanych	faksymilować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -4642,12 +4654,13 @@ faktorowały	faktorować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 faktorowały	faktorować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 faktorowałyście	faktorować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 faktorowałyśmy	faktorować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+faktorowaniach	faktorować	ger:pl:loc:n2:imperf:aff		
 faktorowania	faktorować	ger:pl:nom.acc:n2:imperf:aff		
 faktorowania	faktorować	ger:sg:gen:n2:imperf:aff		
 faktorowaniami	faktorować	ger:pl:inst:n2:imperf:aff		
 faktorowanie	faktorować	ger:sg:nom.acc:n2:imperf:aff		
 faktorowaniem	faktorować	ger:sg:inst:n2:imperf:aff		
-faktorowaniom	faktorować	ger:pl:dat.loc:n2:imperf:aff		
+faktorowaniom	faktorować	ger:pl:dat:n2:imperf:aff		
 faktorowaniu	faktorować	ger:sg:dat.loc:n2:imperf:aff		
 faktorowano	faktorować	imps:imperf		
 faktorowań	faktorować	ger:pl:gen:n2:imperf:aff		
@@ -4781,12 +4794,13 @@ faktorzącym	faktorzyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 faktorzącym	faktorzyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 faktorzącymi	faktorzyć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 faktorzą	faktorzyć	fin:pl:ter:imperf		przest.
+faktorzeniach	faktorzyć	ger:pl:loc:n2:imperf:aff		
 faktorzenia	faktorzyć	ger:pl:nom.acc:n2:imperf:aff		
 faktorzenia	faktorzyć	ger:sg:gen:n2:imperf:aff		
 faktorzeniami	faktorzyć	ger:pl:inst:n2:imperf:aff		
 faktorzenie	faktorzyć	ger:sg:nom.acc:n2:imperf:aff		
 faktorzeniem	faktorzyć	ger:sg:inst:n2:imperf:aff		
-faktorzeniom	faktorzyć	ger:pl:dat.loc:n2:imperf:aff		
+faktorzeniom	faktorzyć	ger:pl:dat:n2:imperf:aff		
 faktorzeniu	faktorzyć	ger:sg:dat.loc:n2:imperf:aff		
 faktorzeń	faktorzyć	ger:pl:gen:n2:imperf:aff		
 faktorzę	faktorzyć	fin:sg:pri:imperf		przest.
@@ -4959,13 +4973,14 @@ fakturowanego	fakturować	ppas:sg:acc:m1.m2:imperf:aff
 fakturowanego	fakturować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fakturowanej	fakturować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fakturowanemu	fakturować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fakturowaniach	fakturować	ger:pl:loc:n2:imperf:aff		
 fakturowania	fakturować	ger:pl:nom.acc:n2:imperf:aff		
 fakturowania	fakturować	ger:sg:gen:n2:imperf:aff		
 fakturowaniami	fakturować	ger:pl:inst:n2:imperf:aff		
 fakturowanie	fakturować	ger:sg:nom.acc:n2:imperf:aff		
 fakturowaniem	fakturować	ger:sg:inst:n2:imperf:aff		
 fakturowani	fakturować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fakturowaniom	fakturować	ger:pl:dat.loc:n2:imperf:aff		
+fakturowaniom	fakturować	ger:pl:dat:n2:imperf:aff		
 fakturowaniu	fakturować	ger:sg:dat.loc:n2:imperf:aff		
 fakturowano	fakturować	imps:imperf		
 fakturowanych	fakturować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -5346,13 +5361,14 @@ falandyzowanego	falandyzować	ppas:sg:acc:m1.m2:imperf:aff
 falandyzowanego	falandyzować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 falandyzowanej	falandyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 falandyzowanemu	falandyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+falandyzowaniach	falandyzować	ger:pl:loc:n2:imperf:aff		
 falandyzowania	falandyzować	ger:pl:nom.acc:n2:imperf:aff		
 falandyzowania	falandyzować	ger:sg:gen:n2:imperf:aff		
 falandyzowaniami	falandyzować	ger:pl:inst:n2:imperf:aff		
 falandyzowanie	falandyzować	ger:sg:nom.acc:n2:imperf:aff		
 falandyzowaniem	falandyzować	ger:sg:inst:n2:imperf:aff		
 falandyzowani	falandyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-falandyzowaniom	falandyzować	ger:pl:dat.loc:n2:imperf:aff		
+falandyzowaniom	falandyzować	ger:pl:dat:n2:imperf:aff		
 falandyzowaniu	falandyzować	ger:sg:dat.loc:n2:imperf:aff		
 falandyzowano	falandyzować	imps:imperf		
 falandyzowanych	falandyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -5800,13 +5816,14 @@ falcowanego	falcować	ppas:sg:acc:m1.m2:imperf:aff
 falcowanego	falcować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 falcowanej	falcować	ppas:sg:gen.dat.loc:f:imperf:aff		
 falcowanemu	falcować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+falcowaniach	falcować	ger:pl:loc:n2:imperf:aff		
 falcowania	falcować	ger:pl:nom.acc:n2:imperf:aff		
 falcowania	falcować	ger:sg:gen:n2:imperf:aff		
 falcowaniami	falcować	ger:pl:inst:n2:imperf:aff		
 falcowanie	falcować	ger:sg:nom.acc:n2:imperf:aff		
 falcowaniem	falcować	ger:sg:inst:n2:imperf:aff		
 falcowani	falcować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-falcowaniom	falcować	ger:pl:dat.loc:n2:imperf:aff		
+falcowaniom	falcować	ger:pl:dat:n2:imperf:aff		
 falcowaniu	falcować	ger:sg:dat.loc:n2:imperf:aff		
 falcowano	falcować	imps:imperf		
 falcowanych	falcować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -6422,13 +6439,14 @@ falowanego	falować	ppas:sg:acc:m1.m2:imperf:aff
 falowanego	falować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 falowanej	falować	ppas:sg:gen.dat.loc:f:imperf:aff		
 falowanemu	falować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+falowaniach	falować	ger:pl:loc:n2:imperf:aff		
 falowania	falować	ger:pl:nom.acc:n2:imperf:aff		
 falowania	falować	ger:sg:gen:n2:imperf:aff		
 falowaniami	falować	ger:pl:inst:n2:imperf:aff		
 falowanie	falować	ger:sg:nom.acc:n2:imperf:aff		
 falowaniem	falować	ger:sg:inst:n2:imperf:aff		
 falowani	falować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-falowaniom	falować	ger:pl:dat.loc:n2:imperf:aff		
+falowaniom	falować	ger:pl:dat:n2:imperf:aff		
 falowaniu	falować	ger:sg:dat.loc:n2:imperf:aff		
 falowano	falować	imps:imperf		
 falowanych	falować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -6774,12 +6792,13 @@ falsetowały	falsetować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 falsetowały	falsetować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 falsetowałyście	falsetować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 falsetowałyśmy	falsetować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+falsetowaniach	falsetować	ger:pl:loc:n2:imperf:aff		
 falsetowania	falsetować	ger:pl:nom.acc:n2:imperf:aff		
 falsetowania	falsetować	ger:sg:gen:n2:imperf:aff		
 falsetowaniami	falsetować	ger:pl:inst:n2:imperf:aff		
 falsetowanie	falsetować	ger:sg:nom.acc:n2:imperf:aff		
 falsetowaniem	falsetować	ger:sg:inst:n2:imperf:aff		
-falsetowaniom	falsetować	ger:pl:dat.loc:n2:imperf:aff		
+falsetowaniom	falsetować	ger:pl:dat:n2:imperf:aff		
 falsetowaniu	falsetować	ger:sg:dat.loc:n2:imperf:aff		
 falsetowano	falsetować	imps:imperf		
 falsetowań	falsetować	ger:pl:gen:n2:imperf:aff		
@@ -6897,12 +6916,13 @@ falstartowały	falstartować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 falstartowały	falstartować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 falstartowałyście	falstartować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 falstartowałyśmy	falstartować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+falstartowaniach	falstartować	ger:pl:loc:n2:imperf:aff		
 falstartowania	falstartować	ger:pl:nom.acc:n2:imperf:aff		
 falstartowania	falstartować	ger:sg:gen:n2:imperf:aff		
 falstartowaniami	falstartować	ger:pl:inst:n2:imperf:aff		
 falstartowanie	falstartować	ger:sg:nom.acc:n2:imperf:aff		
 falstartowaniem	falstartować	ger:sg:inst:n2:imperf:aff		
-falstartowaniom	falstartować	ger:pl:dat.loc:n2:imperf:aff		
+falstartowaniom	falstartować	ger:pl:dat:n2:imperf:aff		
 falstartowaniu	falstartować	ger:sg:dat.loc:n2:imperf:aff		
 falstartowano	falstartować	imps:imperf		
 falstartowań	falstartować	ger:pl:gen:n2:imperf:aff		
@@ -7021,13 +7041,14 @@ falsyfikowanego	falsyfikować	ppas:sg:acc:m1.m2:imperf:aff
 falsyfikowanego	falsyfikować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 falsyfikowanej	falsyfikować	ppas:sg:gen.dat.loc:f:imperf:aff		
 falsyfikowanemu	falsyfikować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+falsyfikowaniach	falsyfikować	ger:pl:loc:n2:imperf:aff		
 falsyfikowania	falsyfikować	ger:pl:nom.acc:n2:imperf:aff		
 falsyfikowania	falsyfikować	ger:sg:gen:n2:imperf:aff		
 falsyfikowaniami	falsyfikować	ger:pl:inst:n2:imperf:aff		
 falsyfikowanie	falsyfikować	ger:sg:nom.acc:n2:imperf:aff		
 falsyfikowaniem	falsyfikować	ger:sg:inst:n2:imperf:aff		
 falsyfikowani	falsyfikować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-falsyfikowaniom	falsyfikować	ger:pl:dat.loc:n2:imperf:aff		
+falsyfikowaniom	falsyfikować	ger:pl:dat:n2:imperf:aff		
 falsyfikowaniu	falsyfikować	ger:sg:dat.loc:n2:imperf:aff		
 falsyfikowano	falsyfikować	imps:imperf		
 falsyfikowanych	falsyfikować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -7327,13 +7348,14 @@ fałdowanego	fałdować	ppas:sg:acc:m1.m2:imperf:aff
 fałdowanego	fałdować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fałdowanej	fałdować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fałdowanemu	fałdować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fałdowaniach	fałdować	ger:pl:loc:n2:imperf:aff		
 fałdowania	fałdować	ger:pl:nom.acc:n2:imperf:aff		
 fałdowania	fałdować	ger:sg:gen:n2:imperf:aff		
 fałdowaniami	fałdować	ger:pl:inst:n2:imperf:aff		
 fałdowanie	fałdować	ger:sg:nom.acc:n2:imperf:aff		
 fałdowaniem	fałdować	ger:sg:inst:n2:imperf:aff		
 fałdowani	fałdować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fałdowaniom	fałdować	ger:pl:dat.loc:n2:imperf:aff		
+fałdowaniom	fałdować	ger:pl:dat:n2:imperf:aff		
 fałdowaniu	fałdować	ger:sg:dat.loc:n2:imperf:aff		
 fałdowano	fałdować	imps:imperf		
 fałdowanych	fałdować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -7440,13 +7462,14 @@ fałdzącym	fałdzić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 fałdzącym	fałdzić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 fałdzącymi	fałdzić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fałdzą	fałdzić	fin:pl:ter:imperf		
+fałdzeniach	fałdzić	ger:pl:loc:n2:imperf:aff		
 fałdzenia	fałdzić	ger:pl:nom.acc:n2:imperf:aff		
 fałdzenia	fałdzić	ger:sg:gen:n2:imperf:aff		
 fałdzeniami	fałdzić	ger:pl:inst:n2:imperf:aff		
 fałdzenie	fałdzić	ger:sg:nom.acc:n2:imperf:aff		
 fałdzeniem	fałdzić	ger:sg:inst:n2:imperf:aff		
 fałdzeni	fałdzić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fałdzeniom	fałdzić	ger:pl:dat.loc:n2:imperf:aff		
+fałdzeniom	fałdzić	ger:pl:dat:n2:imperf:aff		
 fałdzeniu	fałdzić	ger:sg:dat.loc:n2:imperf:aff		
 fałdzeń	fałdzić	ger:pl:gen:n2:imperf:aff		
 fałdzę	fałdzić	fin:sg:pri:imperf		
@@ -7814,13 +7837,14 @@ fałszowanego	fałszować	ppas:sg:acc:m1.m2:imperf:aff
 fałszowanego	fałszować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fałszowanej	fałszować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fałszowanemu	fałszować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fałszowaniach	fałszować	ger:pl:loc:n2:imperf:aff		
 fałszowania	fałszować	ger:pl:nom.acc:n2:imperf:aff		
 fałszowania	fałszować	ger:sg:gen:n2:imperf:aff		
 fałszowaniami	fałszować	ger:pl:inst:n2:imperf:aff		
 fałszowanie	fałszować	ger:sg:nom.acc:n2:imperf:aff		
 fałszowaniem	fałszować	ger:sg:inst:n2:imperf:aff		
 fałszowani	fałszować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fałszowaniom	fałszować	ger:pl:dat.loc:n2:imperf:aff		
+fałszowaniom	fałszować	ger:pl:dat:n2:imperf:aff		
 fałszowaniu	fałszować	ger:sg:dat.loc:n2:imperf:aff		
 fałszowano	fałszować	imps:imperf		
 fałszowanych	fałszować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -8434,13 +8458,14 @@ fanatyzowanego	fanatyzować	ppas:sg:acc:m1.m2:imperf:aff
 fanatyzowanego	fanatyzować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fanatyzowanej	fanatyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fanatyzowanemu	fanatyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fanatyzowaniach	fanatyzować	ger:pl:loc:n2:imperf:aff		
 fanatyzowania	fanatyzować	ger:pl:nom.acc:n2:imperf:aff		
 fanatyzowania	fanatyzować	ger:sg:gen:n2:imperf:aff		
 fanatyzowaniami	fanatyzować	ger:pl:inst:n2:imperf:aff		
 fanatyzowanie	fanatyzować	ger:sg:nom.acc:n2:imperf:aff		
 fanatyzowaniem	fanatyzować	ger:sg:inst:n2:imperf:aff		
 fanatyzowani	fanatyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fanatyzowaniom	fanatyzować	ger:pl:dat.loc:n2:imperf:aff		
+fanatyzowaniom	fanatyzować	ger:pl:dat:n2:imperf:aff		
 fanatyzowaniu	fanatyzować	ger:sg:dat.loc:n2:imperf:aff		
 fanatyzowano	fanatyzować	imps:imperf		
 fanatyzowanych	fanatyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -8661,12 +8686,13 @@ fanfaronowały	fanfaronować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fanfaronowały	fanfaronować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fanfaronowałyście	fanfaronować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fanfaronowałyśmy	fanfaronować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+fanfaronowaniach	fanfaronować	ger:pl:loc:n2:imperf:aff		
 fanfaronowania	fanfaronować	ger:pl:nom.acc:n2:imperf:aff		
 fanfaronowania	fanfaronować	ger:sg:gen:n2:imperf:aff		
 fanfaronowaniami	fanfaronować	ger:pl:inst:n2:imperf:aff		
 fanfaronowanie	fanfaronować	ger:sg:nom.acc:n2:imperf:aff		
 fanfaronowaniem	fanfaronować	ger:sg:inst:n2:imperf:aff		
-fanfaronowaniom	fanfaronować	ger:pl:dat.loc:n2:imperf:aff		
+fanfaronowaniom	fanfaronować	ger:pl:dat:n2:imperf:aff		
 fanfaronowaniu	fanfaronować	ger:sg:dat.loc:n2:imperf:aff		
 fanfaronowano	fanfaronować	imps:imperf		
 fanfaronowań	fanfaronować	ger:pl:gen:n2:imperf:aff		
@@ -8732,12 +8758,13 @@ fanfarowały	fanfarować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fanfarowały	fanfarować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fanfarowałyście	fanfarować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fanfarowałyśmy	fanfarować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+fanfarowaniach	fanfarować	ger:pl:loc:n2:imperf:aff		
 fanfarowania	fanfarować	ger:pl:nom.acc:n2:imperf:aff		
 fanfarowania	fanfarować	ger:sg:gen:n2:imperf:aff		
 fanfarowaniami	fanfarować	ger:pl:inst:n2:imperf:aff		
 fanfarowanie	fanfarować	ger:sg:nom.acc:n2:imperf:aff		
 fanfarowaniem	fanfarować	ger:sg:inst:n2:imperf:aff		
-fanfarowaniom	fanfarować	ger:pl:dat.loc:n2:imperf:aff		
+fanfarowaniom	fanfarować	ger:pl:dat:n2:imperf:aff		
 fanfarowaniu	fanfarować	ger:sg:dat.loc:n2:imperf:aff		
 fanfarowano	fanfarować	imps:imperf		
 fanfarowań	fanfarować	ger:pl:gen:n2:imperf:aff		
@@ -9228,12 +9255,13 @@ fantastycznieli	fantastycznieć	praet:pl:m1.p1:imperf		rzad.
 fantastycznieli	fantastycznieć	praet:pl:m1.p1:ter:imperf		rzad.
 fantastycznieliście	fantastycznieć	praet:pl:m1.p1:sec:imperf		rzad.
 fantastycznieliśmy	fantastycznieć	praet:pl:m1.p1:pri:imperf		rzad.
+fantastycznieniach	fantastycznieć	ger:pl:loc:n2:imperf:aff		
 fantastycznienia	fantastycznieć	ger:pl:nom.acc:n2:imperf:aff		
 fantastycznienia	fantastycznieć	ger:sg:gen:n2:imperf:aff		
 fantastycznieniami	fantastycznieć	ger:pl:inst:n2:imperf:aff		
 fantastycznienie	fantastycznieć	ger:sg:nom.acc:n2:imperf:aff		
 fantastycznieniem	fantastycznieć	ger:sg:inst:n2:imperf:aff		
-fantastycznieniom	fantastycznieć	ger:pl:dat.loc:n2:imperf:aff		
+fantastycznieniom	fantastycznieć	ger:pl:dat:n2:imperf:aff		
 fantastycznieniu	fantastycznieć	ger:sg:dat.loc:n2:imperf:aff		
 fantastycznień	fantastycznieć	ger:pl:gen:n2:imperf:aff		
 fantastycznonaukowościach	fantastycznonaukowość	subst:pl:loc:f		
@@ -9513,12 +9541,13 @@ fantazjowały	fantazjować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fantazjowały	fantazjować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fantazjowałyście	fantazjować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fantazjowałyśmy	fantazjować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+fantazjowaniach	fantazjować	ger:pl:loc:n2:imperf:aff		
 fantazjowania	fantazjować	ger:pl:nom.acc:n2:imperf:aff		
 fantazjowania	fantazjować	ger:sg:gen:n2:imperf:aff		
 fantazjowaniami	fantazjować	ger:pl:inst:n2:imperf:aff		
 fantazjowanie	fantazjować	ger:sg:nom.acc:n2:imperf:aff		
 fantazjowaniem	fantazjować	ger:sg:inst:n2:imperf:aff		
-fantazjowaniom	fantazjować	ger:pl:dat.loc:n2:imperf:aff		
+fantazjowaniom	fantazjować	ger:pl:dat:n2:imperf:aff		
 fantazjowaniu	fantazjować	ger:sg:dat.loc:n2:imperf:aff		
 fantazjowano	fantazjować	imps:imperf		
 fantazjowań	fantazjować	ger:pl:gen:n2:imperf:aff		
@@ -9914,13 +9943,14 @@ fantowanego	fantować	ppas:sg:acc:m1.m2:imperf:aff
 fantowanego	fantować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fantowanej	fantować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fantowanemu	fantować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fantowaniach	fantować	ger:pl:loc:n2:imperf:aff		
 fantowania	fantować	ger:pl:nom.acc:n2:imperf:aff		
 fantowania	fantować	ger:sg:gen:n2:imperf:aff		
 fantowaniami	fantować	ger:pl:inst:n2:imperf:aff		
 fantowanie	fantować	ger:sg:nom.acc:n2:imperf:aff		
 fantowaniem	fantować	ger:sg:inst:n2:imperf:aff		
 fantowani	fantować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fantowaniom	fantować	ger:pl:dat.loc:n2:imperf:aff		
+fantowaniom	fantować	ger:pl:dat:n2:imperf:aff		
 fantowaniu	fantować	ger:sg:dat.loc:n2:imperf:aff		
 fantowano	fantować	imps:imperf		daw.
 fantowanych	fantować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -10242,13 +10272,14 @@ faradyzowanego	faradyzować	ppas:sg:acc:m1.m2:imperf:aff
 faradyzowanego	faradyzować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 faradyzowanej	faradyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 faradyzowanemu	faradyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+faradyzowaniach	faradyzować	ger:pl:loc:n2:imperf:aff		
 faradyzowania	faradyzować	ger:pl:nom.acc:n2:imperf:aff		
 faradyzowania	faradyzować	ger:sg:gen:n2:imperf:aff		
 faradyzowaniami	faradyzować	ger:pl:inst:n2:imperf:aff		
 faradyzowanie	faradyzować	ger:sg:nom.acc:n2:imperf:aff		
 faradyzowaniem	faradyzować	ger:sg:inst:n2:imperf:aff		
 faradyzowani	faradyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-faradyzowaniom	faradyzować	ger:pl:dat.loc:n2:imperf:aff		
+faradyzowaniom	faradyzować	ger:pl:dat:n2:imperf:aff		
 faradyzowaniu	faradyzować	ger:sg:dat.loc:n2:imperf:aff		
 faradyzowano	faradyzować	imps:imperf		med.
 faradyzowanych	faradyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -10729,13 +10760,14 @@ farbiącymi	farbić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 farbią	farbić	fin:pl:ter:imperf		daw.
 farbicie	farbić	fin:pl:sec:imperf		daw.
 farbić	farbić	inf:imperf		daw.
+farbieniach	farbić	ger:pl:loc:n2:imperf:aff		
 farbienia	farbić	ger:pl:nom.acc:n2:imperf:aff		
 farbienia	farbić	ger:sg:gen:n2:imperf:aff		
 farbieniami	farbić	ger:pl:inst:n2:imperf:aff		
 farbienie	farbić	ger:sg:nom.acc:n2:imperf:aff		
 farbieniem	farbić	ger:sg:inst:n2:imperf:aff		
 farbieni	farbić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-farbieniom	farbić	ger:pl:dat.loc:n2:imperf:aff		
+farbieniom	farbić	ger:pl:dat:n2:imperf:aff		
 farbieniu	farbić	ger:sg:dat.loc:n2:imperf:aff		
 farbień	farbić	ger:pl:gen:n2:imperf:aff		
 farbię	farbić	fin:sg:pri:imperf		daw.
@@ -10959,13 +10991,14 @@ farbkowanego	farbkować	ppas:sg:acc:m1.m2:imperf:aff
 farbkowanego	farbkować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 farbkowanej	farbkować	ppas:sg:gen.dat.loc:f:imperf:aff		
 farbkowanemu	farbkować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+farbkowaniach	farbkować	ger:pl:loc:n2:imperf:aff		
 farbkowania	farbkować	ger:pl:nom.acc:n2:imperf:aff		
 farbkowania	farbkować	ger:sg:gen:n2:imperf:aff		
 farbkowaniami	farbkować	ger:pl:inst:n2:imperf:aff		
 farbkowanie	farbkować	ger:sg:nom.acc:n2:imperf:aff		
 farbkowaniem	farbkować	ger:sg:inst:n2:imperf:aff		
 farbkowani	farbkować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-farbkowaniom	farbkować	ger:pl:dat.loc:n2:imperf:aff		
+farbkowaniom	farbkować	ger:pl:dat:n2:imperf:aff		
 farbkowaniu	farbkować	ger:sg:dat.loc:n2:imperf:aff		
 farbkowano	farbkować	imps:imperf		
 farbkowanych	farbkować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -11076,13 +11109,14 @@ farbowanego	farbować:v	ppas:sg:acc:m1.m2:imperf:aff
 farbowanego	farbować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 farbowanej	farbować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 farbowanemu	farbować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+farbowaniach	farbować:v	ger:pl:loc:n2:imperf:aff		
 farbowania	farbować:v	ger:pl:nom.acc:n2:imperf:aff		
 farbowania	farbować:v	ger:sg:gen:n2:imperf:aff		
 farbowaniami	farbować:v	ger:pl:inst:n2:imperf:aff		
 farbowanie	farbować:v	ger:sg:nom.acc:n2:imperf:aff		
 farbowaniem	farbować:v	ger:sg:inst:n2:imperf:aff		
 farbowani	farbować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-farbowaniom	farbować:v	ger:pl:dat.loc:n2:imperf:aff		
+farbowaniom	farbować:v	ger:pl:dat:n2:imperf:aff		
 farbowaniu	farbować:v	ger:sg:dat.loc:n2:imperf:aff		
 farbowanych	farbować:v	ppas:pl:acc:m1.p1:imperf:aff		
 farbowanych	farbować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -11116,13 +11150,14 @@ farbowanego	farbować:v	ppas:sg:acc:m1.m2:imperf:aff
 farbowanego	farbować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 farbowanej	farbować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 farbowanemu	farbować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+farbowaniach	farbować:v	ger:pl:loc:n2:imperf:aff		
 farbowania	farbować:v	ger:pl:nom.acc:n2:imperf:aff		
 farbowania	farbować:v	ger:sg:gen:n2:imperf:aff		
 farbowaniami	farbować:v	ger:pl:inst:n2:imperf:aff		
 farbowanie	farbować:v	ger:sg:nom.acc:n2:imperf:aff		
 farbowaniem	farbować:v	ger:sg:inst:n2:imperf:aff		
 farbowani	farbować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-farbowaniom	farbować:v	ger:pl:dat.loc:n2:imperf:aff		
+farbowaniom	farbować:v	ger:pl:dat:n2:imperf:aff		
 farbowaniu	farbować:v	ger:sg:dat.loc:n2:imperf:aff		
 farbowanych	farbować:v	ppas:pl:acc:m1.p1:imperf:aff		
 farbowanych	farbować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -12590,13 +12625,14 @@ farszowanego	farszować	ppas:sg:acc:m1.m2:imperf:aff
 farszowanego	farszować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 farszowanej	farszować	ppas:sg:gen.dat.loc:f:imperf:aff		
 farszowanemu	farszować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+farszowaniach	farszować	ger:pl:loc:n2:imperf:aff		
 farszowania	farszować	ger:pl:nom.acc:n2:imperf:aff		
 farszowania	farszować	ger:sg:gen:n2:imperf:aff		
 farszowaniami	farszować	ger:pl:inst:n2:imperf:aff		
 farszowanie	farszować	ger:sg:nom.acc:n2:imperf:aff		
 farszowaniem	farszować	ger:sg:inst:n2:imperf:aff		
 farszowani	farszować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-farszowaniom	farszować	ger:pl:dat.loc:n2:imperf:aff		
+farszowaniom	farszować	ger:pl:dat:n2:imperf:aff		
 farszowaniu	farszować	ger:sg:dat.loc:n2:imperf:aff		
 farszowano	farszować	imps:imperf		
 farszowanych	farszować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -12743,13 +12779,14 @@ fartowanego	fartować	ppas:sg:acc:m1.m2:imperf:aff
 fartowanego	fartować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fartowanej	fartować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fartowanemu	fartować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fartowaniach	fartować	ger:pl:loc:n2:imperf:aff		
 fartowania	fartować	ger:pl:nom.acc:n2:imperf:aff		
 fartowania	fartować	ger:sg:gen:n2:imperf:aff		
 fartowaniami	fartować	ger:pl:inst:n2:imperf:aff		
 fartowanie	fartować	ger:sg:nom.acc:n2:imperf:aff		
 fartowaniem	fartować	ger:sg:inst:n2:imperf:aff		
 fartowani	fartować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fartowaniom	fartować	ger:pl:dat.loc:n2:imperf:aff		
+fartowaniom	fartować	ger:pl:dat:n2:imperf:aff		
 fartowaniu	fartować	ger:sg:dat.loc:n2:imperf:aff		
 fartowano	fartować	imps:imperf		rzad.
 fartowanych	fartować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -13163,12 +13200,13 @@ farysowały	farysować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 farysowały	farysować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 farysowałyście	farysować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 farysowałyśmy	farysować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+farysowaniach	farysować	ger:pl:loc:n2:imperf:aff		
 farysowania	farysować	ger:pl:nom.acc:n2:imperf:aff		
 farysowania	farysować	ger:sg:gen:n2:imperf:aff		
 farysowaniami	farysować	ger:pl:inst:n2:imperf:aff		
 farysowanie	farysować	ger:sg:nom.acc:n2:imperf:aff		
 farysowaniem	farysować	ger:sg:inst:n2:imperf:aff		
-farysowaniom	farysować	ger:pl:dat.loc:n2:imperf:aff		
+farysowaniom	farysować	ger:pl:dat:n2:imperf:aff		
 farysowaniu	farysować	ger:sg:dat.loc:n2:imperf:aff		
 farysowano	farysować	imps:imperf		
 farysowań	farysować	ger:pl:gen:n2:imperf:aff		
@@ -13336,12 +13374,13 @@ faryzeuszowały	faryzeuszować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
 faryzeuszowały	faryzeuszować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
 faryzeuszowałyście	faryzeuszować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
 faryzeuszowałyśmy	faryzeuszować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+faryzeuszowaniach	faryzeuszować	ger:pl:loc:n2:imperf:aff		
 faryzeuszowania	faryzeuszować	ger:pl:nom.acc:n2:imperf:aff		
 faryzeuszowania	faryzeuszować	ger:sg:gen:n2:imperf:aff		
 faryzeuszowaniami	faryzeuszować	ger:pl:inst:n2:imperf:aff		
 faryzeuszowanie	faryzeuszować	ger:sg:nom.acc:n2:imperf:aff		
 faryzeuszowaniem	faryzeuszować	ger:sg:inst:n2:imperf:aff		
-faryzeuszowaniom	faryzeuszować	ger:pl:dat.loc:n2:imperf:aff		
+faryzeuszowaniom	faryzeuszować	ger:pl:dat:n2:imperf:aff		
 faryzeuszowaniu	faryzeuszować	ger:sg:dat.loc:n2:imperf:aff		
 faryzeuszowano	faryzeuszować	imps:imperf		rzad.
 faryzeuszowań	faryzeuszować	ger:pl:gen:n2:imperf:aff		
@@ -13662,13 +13701,14 @@ fascynowanego	fascynować	ppas:sg:acc:m1.m2:imperf:aff
 fascynowanego	fascynować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fascynowanej	fascynować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fascynowanemu	fascynować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fascynowaniach	fascynować	ger:pl:loc:n2:imperf:aff		
 fascynowania	fascynować	ger:pl:nom.acc:n2:imperf:aff		
 fascynowania	fascynować	ger:sg:gen:n2:imperf:aff		
 fascynowaniami	fascynować	ger:pl:inst:n2:imperf:aff		
 fascynowanie	fascynować	ger:sg:nom.acc:n2:imperf:aff		
 fascynowaniem	fascynować	ger:sg:inst:n2:imperf:aff		
 fascynowani	fascynować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fascynowaniom	fascynować	ger:pl:dat.loc:n2:imperf:aff		
+fascynowaniom	fascynować	ger:pl:dat:n2:imperf:aff		
 fascynowaniu	fascynować	ger:sg:dat.loc:n2:imperf:aff		
 fascynowano	fascynować	imps:imperf		
 fascynowanych	fascynować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -13816,13 +13856,14 @@ fasetowanego	fasetować	ppas:sg:acc:m1.m2:imperf:aff
 fasetowanego	fasetować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fasetowanej	fasetować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fasetowanemu	fasetować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fasetowaniach	fasetować	ger:pl:loc:n2:imperf:aff		
 fasetowania	fasetować	ger:pl:nom.acc:n2:imperf:aff		
 fasetowania	fasetować	ger:sg:gen:n2:imperf:aff		
 fasetowaniami	fasetować	ger:pl:inst:n2:imperf:aff		
 fasetowanie	fasetować	ger:sg:nom.acc:n2:imperf:aff		
 fasetowaniem	fasetować	ger:sg:inst:n2:imperf:aff		
 fasetowani	fasetować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fasetowaniom	fasetować	ger:pl:dat.loc:n2:imperf:aff		
+fasetowaniom	fasetować	ger:pl:dat:n2:imperf:aff		
 fasetowaniu	fasetować	ger:sg:dat.loc:n2:imperf:aff		
 fasetowano	fasetować	imps:imperf		
 fasetowanych	fasetować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -14133,13 +14174,14 @@ fasonowanego	fasonować	ppas:sg:acc:m1.m2:imperf:aff
 fasonowanego	fasonować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fasonowanej	fasonować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fasonowanemu	fasonować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fasonowaniach	fasonować	ger:pl:loc:n2:imperf:aff		
 fasonowania	fasonować	ger:pl:nom.acc:n2:imperf:aff		
 fasonowania	fasonować	ger:sg:gen:n2:imperf:aff		
 fasonowaniami	fasonować	ger:pl:inst:n2:imperf:aff		
 fasonowanie	fasonować	ger:sg:nom.acc:n2:imperf:aff		
 fasonowaniem	fasonować	ger:sg:inst:n2:imperf:aff		
 fasonowani	fasonować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fasonowaniom	fasonować	ger:pl:dat.loc:n2:imperf:aff		
+fasonowaniom	fasonować	ger:pl:dat:n2:imperf:aff		
 fasonowaniu	fasonować	ger:sg:dat.loc:n2:imperf:aff		
 fasonowano	fasonować	imps:imperf		
 fasonowanych	fasonować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -14236,13 +14278,14 @@ fasowanego	fasować:v	ppas:sg:acc:m1.m2:imperf:aff
 fasowanego	fasować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fasowanej	fasować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 fasowanemu	fasować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fasowaniach	fasować:v	ger:pl:loc:n2:imperf:aff		
 fasowania	fasować:v	ger:pl:nom.acc:n2:imperf:aff		
 fasowania	fasować:v	ger:sg:gen:n2:imperf:aff		
 fasowaniami	fasować:v	ger:pl:inst:n2:imperf:aff		
 fasowanie	fasować:v	ger:sg:nom.acc:n2:imperf:aff		
 fasowaniem	fasować:v	ger:sg:inst:n2:imperf:aff		
 fasowani	fasować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fasowaniom	fasować:v	ger:pl:dat.loc:n2:imperf:aff		
+fasowaniom	fasować:v	ger:pl:dat:n2:imperf:aff		
 fasowaniu	fasować:v	ger:sg:dat.loc:n2:imperf:aff		
 fasowanych	fasować:v	ppas:pl:acc:m1.p1:imperf:aff		
 fasowanych	fasować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -14276,13 +14319,14 @@ fasowanego	fasować:v	ppas:sg:acc:m1.m2:imperf:aff
 fasowanego	fasować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fasowanej	fasować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 fasowanemu	fasować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fasowaniach	fasować:v	ger:pl:loc:n2:imperf:aff		
 fasowania	fasować:v	ger:pl:nom.acc:n2:imperf:aff		
 fasowania	fasować:v	ger:sg:gen:n2:imperf:aff		
 fasowaniami	fasować:v	ger:pl:inst:n2:imperf:aff		
 fasowanie	fasować:v	ger:sg:nom.acc:n2:imperf:aff		
 fasowaniem	fasować:v	ger:sg:inst:n2:imperf:aff		
 fasowani	fasować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fasowaniom	fasować:v	ger:pl:dat.loc:n2:imperf:aff		
+fasowaniom	fasować:v	ger:pl:dat:n2:imperf:aff		
 fasowaniu	fasować:v	ger:sg:dat.loc:n2:imperf:aff		
 fasowanych	fasować:v	ppas:pl:acc:m1.p1:imperf:aff		
 fasowanych	fasować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -14533,13 +14577,14 @@ fastrygowanego	fastrygować	ppas:sg:acc:m1.m2:imperf:aff
 fastrygowanego	fastrygować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fastrygowanej	fastrygować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fastrygowanemu	fastrygować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fastrygowaniach	fastrygować	ger:pl:loc:n2:imperf:aff		
 fastrygowania	fastrygować	ger:pl:nom.acc:n2:imperf:aff		
 fastrygowania	fastrygować	ger:sg:gen:n2:imperf:aff		
 fastrygowaniami	fastrygować	ger:pl:inst:n2:imperf:aff		
 fastrygowanie	fastrygować	ger:sg:nom.acc:n2:imperf:aff		
 fastrygowaniem	fastrygować	ger:sg:inst:n2:imperf:aff		
 fastrygowani	fastrygować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fastrygowaniom	fastrygować	ger:pl:dat.loc:n2:imperf:aff		
+fastrygowaniom	fastrygować	ger:pl:dat:n2:imperf:aff		
 fastrygowaniu	fastrygować	ger:sg:dat.loc:n2:imperf:aff		
 fastrygowano	fastrygować	imps:imperf		
 fastrygowanych	fastrygować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -14648,13 +14693,14 @@ faszerowanego	faszerować	ppas:sg:acc:m1.m2:imperf:aff
 faszerowanego	faszerować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 faszerowanej	faszerować	ppas:sg:gen.dat.loc:f:imperf:aff		
 faszerowanemu	faszerować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+faszerowaniach	faszerować	ger:pl:loc:n2:imperf:aff		
 faszerowania	faszerować	ger:pl:nom.acc:n2:imperf:aff		
 faszerowania	faszerować	ger:sg:gen:n2:imperf:aff		
 faszerowaniami	faszerować	ger:pl:inst:n2:imperf:aff		
 faszerowanie	faszerować	ger:sg:nom.acc:n2:imperf:aff		
 faszerowaniem	faszerować	ger:sg:inst:n2:imperf:aff		
 faszerowani	faszerować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-faszerowaniom	faszerować	ger:pl:dat.loc:n2:imperf:aff		
+faszerowaniom	faszerować	ger:pl:dat:n2:imperf:aff		
 faszerowaniu	faszerować	ger:sg:dat.loc:n2:imperf:aff		
 faszerowano	faszerować	imps:imperf		
 faszerowanych	faszerować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -14795,13 +14841,14 @@ faszynowanego	faszynować	ppas:sg:acc:m1.m2:imperf:aff
 faszynowanego	faszynować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 faszynowanej	faszynować	ppas:sg:gen.dat.loc:f:imperf:aff		
 faszynowanemu	faszynować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+faszynowaniach	faszynować	ger:pl:loc:n2:imperf:aff		
 faszynowania	faszynować	ger:pl:nom.acc:n2:imperf:aff		
 faszynowania	faszynować	ger:sg:gen:n2:imperf:aff		
 faszynowaniami	faszynować	ger:pl:inst:n2:imperf:aff		
 faszynowanie	faszynować	ger:sg:nom.acc:n2:imperf:aff		
 faszynowaniem	faszynować	ger:sg:inst:n2:imperf:aff		
 faszynowani	faszynować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-faszynowaniom	faszynować	ger:pl:dat.loc:n2:imperf:aff		
+faszynowaniom	faszynować	ger:pl:dat:n2:imperf:aff		
 faszynowaniu	faszynować	ger:sg:dat.loc:n2:imperf:aff		
 faszynowano	faszynować	imps:imperf		
 faszynowanych	faszynować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -15057,13 +15104,14 @@ faszyzowanego	faszyzować	ppas:sg:acc:m1.m2:imperf:aff
 faszyzowanego	faszyzować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 faszyzowanej	faszyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 faszyzowanemu	faszyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+faszyzowaniach	faszyzować	ger:pl:loc:n2:imperf:aff		
 faszyzowania	faszyzować	ger:pl:nom.acc:n2:imperf:aff		
 faszyzowania	faszyzować	ger:sg:gen:n2:imperf:aff		
 faszyzowaniami	faszyzować	ger:pl:inst:n2:imperf:aff		
 faszyzowanie	faszyzować	ger:sg:nom.acc:n2:imperf:aff		
 faszyzowaniem	faszyzować	ger:sg:inst:n2:imperf:aff		
 faszyzowani	faszyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-faszyzowaniom	faszyzować	ger:pl:dat.loc:n2:imperf:aff		
+faszyzowaniom	faszyzować	ger:pl:dat:n2:imperf:aff		
 faszyzowaniu	faszyzować	ger:sg:dat.loc:n2:imperf:aff		
 faszyzowano	faszyzować	imps:imperf		
 faszyzowanych	faszyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -15575,13 +15623,14 @@ fatygowanego	fatygować	ppas:sg:acc:m1.m2:imperf:aff
 fatygowanego	fatygować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fatygowanej	fatygować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fatygowanemu	fatygować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fatygowaniach	fatygować	ger:pl:loc:n2:imperf:aff		
 fatygowania	fatygować	ger:pl:nom.acc:n2:imperf:aff		
 fatygowania	fatygować	ger:sg:gen:n2:imperf:aff		
 fatygowaniami	fatygować	ger:pl:inst:n2:imperf:aff		
 fatygowanie	fatygować	ger:sg:nom.acc:n2:imperf:aff		
 fatygowaniem	fatygować	ger:sg:inst:n2:imperf:aff		
 fatygowani	fatygować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fatygowaniom	fatygować	ger:pl:dat.loc:n2:imperf:aff		
+fatygowaniom	fatygować	ger:pl:dat:n2:imperf:aff		
 fatygowaniu	fatygować	ger:sg:dat.loc:n2:imperf:aff		
 fatygowano	fatygować	imps:imperf		
 fatygowanych	fatygować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -15692,13 +15741,14 @@ faulowanego	faulować	ppas:sg:acc:m1.m2:imperf:aff
 faulowanego	faulować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 faulowanej	faulować	ppas:sg:gen.dat.loc:f:imperf:aff		
 faulowanemu	faulować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+faulowaniach	faulować	ger:pl:loc:n2:imperf:aff		
 faulowania	faulować	ger:pl:nom.acc:n2:imperf:aff		
 faulowania	faulować	ger:sg:gen:n2:imperf:aff		
 faulowaniami	faulować	ger:pl:inst:n2:imperf:aff		
 faulowanie	faulować	ger:sg:nom.acc:n2:imperf:aff		
 faulowaniem	faulować	ger:sg:inst:n2:imperf:aff		
 faulowani	faulować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-faulowaniom	faulować	ger:pl:dat.loc:n2:imperf:aff		
+faulowaniom	faulować	ger:pl:dat:n2:imperf:aff		
 faulowaniu	faulować	ger:sg:dat.loc:n2:imperf:aff		
 faulowano	faulować	imps:imperf		
 faulowanych	faulować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -16160,13 +16210,14 @@ faworowanego	faworować	ppas:sg:acc:m1.m2:imperf:aff
 faworowanego	faworować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 faworowanej	faworować	ppas:sg:gen.dat.loc:f:imperf:aff		
 faworowanemu	faworować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+faworowaniach	faworować	ger:pl:loc:n2:imperf:aff		
 faworowania	faworować	ger:pl:nom.acc:n2:imperf:aff		
 faworowania	faworować	ger:sg:gen:n2:imperf:aff		
 faworowaniami	faworować	ger:pl:inst:n2:imperf:aff		
 faworowanie	faworować	ger:sg:nom.acc:n2:imperf:aff		
 faworowaniem	faworować	ger:sg:inst:n2:imperf:aff		
 faworowani	faworować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-faworowaniom	faworować	ger:pl:dat.loc:n2:imperf:aff		
+faworowaniom	faworować	ger:pl:dat:n2:imperf:aff		
 faworowaniu	faworować	ger:sg:dat.loc:n2:imperf:aff		
 faworowano	faworować	imps:imperf		daw.
 faworowanych	faworować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -16526,13 +16577,14 @@ faworyzowanego	faworyzować	ppas:sg:acc:m1.m2:imperf:aff
 faworyzowanego	faworyzować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 faworyzowanej	faworyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 faworyzowanemu	faworyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+faworyzowaniach	faworyzować	ger:pl:loc:n2:imperf:aff		
 faworyzowania	faworyzować	ger:pl:nom.acc:n2:imperf:aff		
 faworyzowania	faworyzować	ger:sg:gen:n2:imperf:aff		
 faworyzowaniami	faworyzować	ger:pl:inst:n2:imperf:aff		
 faworyzowanie	faworyzować	ger:sg:nom.acc:n2:imperf:aff		
 faworyzowaniem	faworyzować	ger:sg:inst:n2:imperf:aff		
 faworyzowani	faworyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-faworyzowaniom	faworyzować	ger:pl:dat.loc:n2:imperf:aff		
+faworyzowaniom	faworyzować	ger:pl:dat:n2:imperf:aff		
 faworyzowaniu	faworyzować	ger:sg:dat.loc:n2:imperf:aff		
 faworyzowano	faworyzować	imps:imperf		
 faworyzowanych	faworyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -16713,13 +16765,14 @@ fazowanego	fazować	ppas:sg:acc:m1.m2:imperf:aff
 fazowanego	fazować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fazowanej	fazować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fazowanemu	fazować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fazowaniach	fazować	ger:pl:loc:n2:imperf:aff		
 fazowania	fazować	ger:pl:nom.acc:n2:imperf:aff		
 fazowania	fazować	ger:sg:gen:n2:imperf:aff		
 fazowaniami	fazować	ger:pl:inst:n2:imperf:aff		
 fazowanie	fazować	ger:sg:nom.acc:n2:imperf:aff		
 fazowaniem	fazować	ger:sg:inst:n2:imperf:aff		
 fazowani	fazować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fazowaniom	fazować	ger:pl:dat.loc:n2:imperf:aff		
+fazowaniom	fazować	ger:pl:dat:n2:imperf:aff		
 fazowaniu	fazować	ger:sg:dat.loc:n2:imperf:aff		
 fazowano	fazować	imps:imperf		
 fazowanych	fazować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -17161,12 +17214,13 @@ fechtowały	fechtować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		przest.
 fechtowały	fechtować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
 fechtowałyście	fechtować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
 fechtowałyśmy	fechtować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+fechtowaniach	fechtować	ger:pl:loc:n2:imperf:aff		
 fechtowania	fechtować	ger:pl:nom.acc:n2:imperf:aff		
 fechtowania	fechtować	ger:sg:gen:n2:imperf:aff		
 fechtowaniami	fechtować	ger:pl:inst:n2:imperf:aff		
 fechtowanie	fechtować	ger:sg:nom.acc:n2:imperf:aff		
 fechtowaniem	fechtować	ger:sg:inst:n2:imperf:aff		
-fechtowaniom	fechtować	ger:pl:dat.loc:n2:imperf:aff		
+fechtowaniom	fechtować	ger:pl:dat:n2:imperf:aff		
 fechtowaniu	fechtować	ger:sg:dat.loc:n2:imperf:aff		
 fechtowano	fechtować	imps:imperf		przest.
 fechtowań	fechtować	ger:pl:gen:n2:imperf:aff		
@@ -17482,13 +17536,14 @@ federalizowanego	federalizować	ppas:sg:acc:m1.m2:imperf:aff
 federalizowanego	federalizować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 federalizowanej	federalizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 federalizowanemu	federalizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+federalizowaniach	federalizować	ger:pl:loc:n2:imperf:aff		
 federalizowania	federalizować	ger:pl:nom.acc:n2:imperf:aff		
 federalizowania	federalizować	ger:sg:gen:n2:imperf:aff		
 federalizowaniami	federalizować	ger:pl:inst:n2:imperf:aff		
 federalizowanie	federalizować	ger:sg:nom.acc:n2:imperf:aff		
 federalizowaniem	federalizować	ger:sg:inst:n2:imperf:aff		
 federalizowani	federalizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-federalizowaniom	federalizować	ger:pl:dat.loc:n2:imperf:aff		
+federalizowaniom	federalizować	ger:pl:dat:n2:imperf:aff		
 federalizowaniu	federalizować	ger:sg:dat.loc:n2:imperf:aff		
 federalizowano	federalizować	imps:imperf		
 federalizowanych	federalizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -17662,13 +17717,14 @@ federowanego	federować	ppas:sg:acc:m1.m2:imperf:aff
 federowanego	federować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 federowanej	federować	ppas:sg:gen.dat.loc:f:imperf:aff		
 federowanemu	federować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+federowaniach	federować	ger:pl:loc:n2:imperf:aff		
 federowania	federować	ger:pl:nom.acc:n2:imperf:aff		
 federowania	federować	ger:sg:gen:n2:imperf:aff		
 federowaniami	federować	ger:pl:inst:n2:imperf:aff		
 federowanie	federować	ger:sg:nom.acc:n2:imperf:aff		
 federowaniem	federować	ger:sg:inst:n2:imperf:aff		
 federowani	federować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-federowaniom	federować	ger:pl:dat.loc:n2:imperf:aff		
+federowaniom	federować	ger:pl:dat:n2:imperf:aff		
 federowaniu	federować	ger:sg:dat.loc:n2:imperf:aff		
 federowano	federować	imps:imperf		
 federowanych	federować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -17749,13 +17805,14 @@ fedrowanego	fedrować	ppas:sg:acc:m1.m2:imperf:aff		środ.
 fedrowanego	fedrować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		środ.
 fedrowanej	fedrować	ppas:sg:gen.dat.loc:f:imperf:aff		środ.
 fedrowanemu	fedrować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		środ.
+fedrowaniach	fedrować	ger:pl:loc:n2:imperf:aff		środ.
 fedrowania	fedrować	ger:pl:nom.acc:n2:imperf:aff		środ.
 fedrowania	fedrować	ger:sg:gen:n2:imperf:aff		środ.
 fedrowaniami	fedrować	ger:pl:inst:n2:imperf:aff		środ.
 fedrowanie	fedrować	ger:sg:nom.acc:n2:imperf:aff		środ.
 fedrowaniem	fedrować	ger:sg:inst:n2:imperf:aff		środ.
 fedrowani	fedrować	ppas:pl:nom.voc:m1.p1:imperf:aff		środ.
-fedrowaniom	fedrować	ger:pl:dat.loc:n2:imperf:aff		środ.
+fedrowaniom	fedrować	ger:pl:dat:n2:imperf:aff		środ.
 fedrowaniu	fedrować	ger:sg:dat.loc:n2:imperf:aff		środ.
 fedrowano	fedrować	imps:imperf		środ.
 fedrowanych	fedrować	ppas:pl:acc:m1.p1:imperf:aff		środ.
@@ -17982,13 +18039,14 @@ feeryzowanego	feeryzować	ppas:sg:acc:m1.m2:imperf:aff
 feeryzowanego	feeryzować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 feeryzowanej	feeryzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 feeryzowanemu	feeryzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+feeryzowaniach	feeryzować	ger:pl:loc:n2:imperf:aff		
 feeryzowania	feeryzować	ger:pl:nom.acc:n2:imperf:aff		
 feeryzowania	feeryzować	ger:sg:gen:n2:imperf:aff		
 feeryzowaniami	feeryzować	ger:pl:inst:n2:imperf:aff		
 feeryzowanie	feeryzować	ger:sg:nom.acc:n2:imperf:aff		
 feeryzowaniem	feeryzować	ger:sg:inst:n2:imperf:aff		
 feeryzowani	feeryzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-feeryzowaniom	feeryzować	ger:pl:dat.loc:n2:imperf:aff		
+feeryzowaniom	feeryzować	ger:pl:dat:n2:imperf:aff		
 feeryzowaniu	feeryzować	ger:sg:dat.loc:n2:imperf:aff		
 feeryzowano	feeryzować	imps:imperf		
 feeryzowanych	feeryzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -18230,12 +18288,13 @@ fektowały	fektować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 fektowały	fektować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 fektowałyście	fektować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 fektowałyśmy	fektować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+fektowaniach	fektować	ger:pl:loc:n2:imperf:aff		
 fektowania	fektować	ger:pl:nom.acc:n2:imperf:aff		
 fektowania	fektować	ger:sg:gen:n2:imperf:aff		
 fektowaniami	fektować	ger:pl:inst:n2:imperf:aff		
 fektowanie	fektować	ger:sg:nom.acc:n2:imperf:aff		
 fektowaniem	fektować	ger:sg:inst:n2:imperf:aff		
-fektowaniom	fektować	ger:pl:dat.loc:n2:imperf:aff		
+fektowaniom	fektować	ger:pl:dat:n2:imperf:aff		
 fektowaniu	fektować	ger:sg:dat.loc:n2:imperf:aff		
 fektowano	fektować	imps:imperf		daw.
 fektowań	fektować	ger:pl:gen:n2:imperf:aff		
@@ -18351,13 +18410,14 @@ felcowanego	felcować	ppas:sg:acc:m1.m2:imperf:aff
 felcowanego	felcować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 felcowanej	felcować	ppas:sg:gen.dat.loc:f:imperf:aff		
 felcowanemu	felcować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+felcowaniach	felcować	ger:pl:loc:n2:imperf:aff		
 felcowania	felcować	ger:pl:nom.acc:n2:imperf:aff		
 felcowania	felcować	ger:sg:gen:n2:imperf:aff		
 felcowaniami	felcować	ger:pl:inst:n2:imperf:aff		
 felcowanie	felcować	ger:sg:nom.acc:n2:imperf:aff		
 felcowaniem	felcować	ger:sg:inst:n2:imperf:aff		
 felcowani	felcować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-felcowaniom	felcować	ger:pl:dat.loc:n2:imperf:aff		
+felcowaniom	felcować	ger:pl:dat:n2:imperf:aff		
 felcowaniu	felcować	ger:sg:dat.loc:n2:imperf:aff		
 felcowano	felcować	imps:imperf		
 felcowanych	felcować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -18474,12 +18534,13 @@ felczerowały	felczerować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 felczerowały	felczerować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 felczerowałyście	felczerować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 felczerowałyśmy	felczerować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+felczerowaniach	felczerować	ger:pl:loc:n2:imperf:aff		
 felczerowania	felczerować	ger:pl:nom.acc:n2:imperf:aff		
 felczerowania	felczerować	ger:sg:gen:n2:imperf:aff		
 felczerowaniami	felczerować	ger:pl:inst:n2:imperf:aff		
 felczerowanie	felczerować	ger:sg:nom.acc:n2:imperf:aff		
 felczerowaniem	felczerować	ger:sg:inst:n2:imperf:aff		
-felczerowaniom	felczerować	ger:pl:dat.loc:n2:imperf:aff		
+felczerowaniom	felczerować	ger:pl:dat:n2:imperf:aff		
 felczerowaniu	felczerować	ger:sg:dat.loc:n2:imperf:aff		
 felczerowano	felczerować	imps:imperf		
 felczerowań	felczerować	ger:pl:gen:n2:imperf:aff		
@@ -18868,13 +18929,14 @@ felicytowanego	felicytować	ppas:sg:acc:m1.m2:imperf:aff
 felicytowanego	felicytować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 felicytowanej	felicytować	ppas:sg:gen.dat.loc:f:imperf:aff		
 felicytowanemu	felicytować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+felicytowaniach	felicytować	ger:pl:loc:n2:imperf:aff		
 felicytowania	felicytować	ger:pl:nom.acc:n2:imperf:aff		
 felicytowania	felicytować	ger:sg:gen:n2:imperf:aff		
 felicytowaniami	felicytować	ger:pl:inst:n2:imperf:aff		
 felicytowanie	felicytować	ger:sg:nom.acc:n2:imperf:aff		
 felicytowaniem	felicytować	ger:sg:inst:n2:imperf:aff		
 felicytowani	felicytować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-felicytowaniom	felicytować	ger:pl:dat.loc:n2:imperf:aff		
+felicytowaniom	felicytować	ger:pl:dat:n2:imperf:aff		
 felicytowaniu	felicytować	ger:sg:dat.loc:n2:imperf:aff		
 felicytowano	felicytować	imps:imperf		daw.
 felicytowanych	felicytować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -19089,12 +19151,13 @@ felietonowały	felietonować	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
 felietonowały	felietonować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
 felietonowałyście	felietonować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
 felietonowałyśmy	felietonować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+felietonowaniach	felietonować	ger:pl:loc:n2:perf:aff		
 felietonowania	felietonować	ger:pl:nom.acc:n2:perf:aff		
 felietonowania	felietonować	ger:sg:gen:n2:perf:aff		
 felietonowaniami	felietonować	ger:pl:inst:n2:perf:aff		
 felietonowanie	felietonować	ger:sg:nom.acc:n2:perf:aff		
 felietonowaniem	felietonować	ger:sg:inst:n2:perf:aff		
-felietonowaniom	felietonować	ger:pl:dat.loc:n2:perf:aff		
+felietonowaniom	felietonować	ger:pl:dat:n2:perf:aff		
 felietonowaniu	felietonować	ger:sg:dat.loc:n2:perf:aff		
 felietonowano	felietonować	imps:perf		rzad.
 felietonowań	felietonować	ger:pl:gen:n2:perf:aff		
@@ -19522,13 +19585,14 @@ feminizowanego	feminizować	ppas:sg:acc:m1.m2:imperf:aff
 feminizowanego	feminizować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 feminizowanej	feminizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 feminizowanemu	feminizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+feminizowaniach	feminizować	ger:pl:loc:n2:imperf:aff		
 feminizowania	feminizować	ger:pl:nom.acc:n2:imperf:aff		
 feminizowania	feminizować	ger:sg:gen:n2:imperf:aff		
 feminizowaniami	feminizować	ger:pl:inst:n2:imperf:aff		
 feminizowanie	feminizować	ger:sg:nom.acc:n2:imperf:aff		
 feminizowaniem	feminizować	ger:sg:inst:n2:imperf:aff		
 feminizowani	feminizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-feminizowaniom	feminizować	ger:pl:dat.loc:n2:imperf:aff		
+feminizowaniom	feminizować	ger:pl:dat:n2:imperf:aff		
 feminizowaniu	feminizować	ger:sg:dat.loc:n2:imperf:aff		
 feminizowano	feminizować	imps:imperf		
 feminizowanych	feminizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -20073,13 +20137,14 @@ fenolowanego	fenolować	ppas:sg:acc:m1.m2:imperf:aff
 fenolowanego	fenolować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fenolowanej	fenolować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fenolowanemu	fenolować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fenolowaniach	fenolować	ger:pl:loc:n2:imperf:aff		
 fenolowania	fenolować	ger:pl:nom.acc:n2:imperf:aff		
 fenolowania	fenolować	ger:sg:gen:n2:imperf:aff		
 fenolowaniami	fenolować	ger:pl:inst:n2:imperf:aff		
 fenolowanie	fenolować	ger:sg:nom.acc:n2:imperf:aff		
 fenolowaniem	fenolować	ger:sg:inst:n2:imperf:aff		
 fenolowani	fenolować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fenolowaniom	fenolować	ger:pl:dat.loc:n2:imperf:aff		
+fenolowaniom	fenolować	ger:pl:dat:n2:imperf:aff		
 fenolowaniu	fenolować	ger:sg:dat.loc:n2:imperf:aff		
 fenolowano	fenolować	imps:imperf		
 fenolowanych	fenolować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -21059,12 +21124,13 @@ fermentory	fermentor	subst:pl:nom:m3	pospolita
 fermentory	fermentor	subst:pl:voc:m3	pospolita	
 fermentorze	fermentor	subst:sg:loc:m3	pospolita	
 fermentorze	fermentor	subst:sg:voc:m3	pospolita	
+fermentowaniach	fermentować:v	ger:pl:loc:n2:imperf:aff		
 fermentowania	fermentować:v	ger:pl:nom.acc:n2:imperf:aff		
 fermentowania	fermentować:v	ger:sg:gen:n2:imperf:aff		
 fermentowaniami	fermentować:v	ger:pl:inst:n2:imperf:aff		
 fermentowanie	fermentować:v	ger:sg:nom.acc:n2:imperf:aff		
 fermentowaniem	fermentować:v	ger:sg:inst:n2:imperf:aff		
-fermentowaniom	fermentować:v	ger:pl:dat.loc:n2:imperf:aff		
+fermentowaniom	fermentować:v	ger:pl:dat:n2:imperf:aff		
 fermentowaniu	fermentować:v	ger:sg:dat.loc:n2:imperf:aff		
 fermentowań	fermentować:v	ger:pl:gen:n2:imperf:aff		
 fermentująca	fermentować:v	pact:sg:nom.voc:f:imperf:aff		
@@ -21091,13 +21157,14 @@ fermentowanego	fermentować:v	ppas:sg:acc:m1.m2:imperf:aff
 fermentowanego	fermentować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fermentowanej	fermentować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 fermentowanemu	fermentować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fermentowaniach	fermentować:v	ger:pl:loc:n2:imperf:aff		
 fermentowania	fermentować:v	ger:pl:nom.acc:n2:imperf:aff		
 fermentowania	fermentować:v	ger:sg:gen:n2:imperf:aff		
 fermentowaniami	fermentować:v	ger:pl:inst:n2:imperf:aff		
 fermentowanie	fermentować:v	ger:sg:nom.acc:n2:imperf:aff		
 fermentowaniem	fermentować:v	ger:sg:inst:n2:imperf:aff		
 fermentowani	fermentować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fermentowaniom	fermentować:v	ger:pl:dat.loc:n2:imperf:aff		
+fermentowaniom	fermentować:v	ger:pl:dat:n2:imperf:aff		
 fermentowaniu	fermentować:v	ger:sg:dat.loc:n2:imperf:aff		
 fermentowanych	fermentować:v	ppas:pl:acc:m1.p1:imperf:aff		
 fermentowanych	fermentować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -21637,13 +21704,14 @@ ferowanego	ferować	ppas:sg:acc:m1.m2:imperf:aff
 ferowanego	ferować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ferowanej	ferować	ppas:sg:gen.dat.loc:f:imperf:aff		
 ferowanemu	ferować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ferowaniach	ferować	ger:pl:loc:n2:imperf:aff		
 ferowania	ferować	ger:pl:nom.acc:n2:imperf:aff		
 ferowania	ferować	ger:sg:gen:n2:imperf:aff		
 ferowaniami	ferować	ger:pl:inst:n2:imperf:aff		
 ferowanie	ferować	ger:sg:nom.acc:n2:imperf:aff		
 ferowaniem	ferować	ger:sg:inst:n2:imperf:aff		
 ferowani	ferować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ferowaniom	ferować	ger:pl:dat.loc:n2:imperf:aff		
+ferowaniom	ferować	ger:pl:dat:n2:imperf:aff		
 ferowaniu	ferować	ger:sg:dat.loc:n2:imperf:aff		
 ferowano	ferować	imps:imperf		przest.
 ferowanych	ferować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -22178,13 +22246,14 @@ fertanego	fertać	ppas:sg:acc:m1.m2:imperf:aff
 fertanego	fertać	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fertanej	fertać	ppas:sg:gen.dat.loc:f:imperf:aff		
 fertanemu	fertać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fertaniach	fertać	ger:pl:loc:n2:imperf:aff		
 fertania	fertać	ger:pl:nom.acc:n2:imperf:aff		
 fertania	fertać	ger:sg:gen:n2:imperf:aff		
 fertaniami	fertać	ger:pl:inst:n2:imperf:aff		
 fertanie	fertać	ger:sg:nom.acc:n2:imperf:aff		
 fertaniem	fertać	ger:sg:inst:n2:imperf:aff		
 fertani	fertać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fertaniom	fertać	ger:pl:dat.loc:n2:imperf:aff		
+fertaniom	fertać	ger:pl:dat:n2:imperf:aff		
 fertaniu	fertać	ger:sg:dat.loc:n2:imperf:aff		
 fertano	fertać	imps:imperf		
 fertanych	fertać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -22277,13 +22346,14 @@ fertniecie	fertnąć	fin:pl:sec:perf		rzad.
 fertnie	fertnąć	fin:sg:ter:perf		rzad.
 fertniemy	fertnąć	fin:pl:pri:perf		rzad.
 fertniesz	fertnąć	fin:sg:sec:perf		rzad.
+fertnięciach	fertnąć	ger:pl:loc:n2:perf:aff		
 fertnięcia	fertnąć	ger:pl:nom.acc:n2:perf:aff		
 fertnięcia	fertnąć	ger:sg:gen:n2:perf:aff		
 fertnięciami	fertnąć	ger:pl:inst:n2:perf:aff		
 fertnięcie	fertnąć	ger:sg:nom.acc:n2:perf:aff		
 fertnięciem	fertnąć	ger:sg:inst:n2:perf:aff		
 fertnięci	fertnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-fertnięciom	fertnąć	ger:pl:dat.loc:n2:perf:aff		
+fertnięciom	fertnąć	ger:pl:dat:n2:perf:aff		
 fertnięciu	fertnąć	ger:sg:dat.loc:n2:perf:aff		
 fertnięć	fertnąć	ger:pl:gen:n2:perf:aff		
 fertnięta	fertnąć	ppas:sg:nom.voc:f:perf:aff		
@@ -22762,12 +22832,13 @@ festynowały	festynować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 festynowały	festynować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 festynowałyście	festynować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 festynowałyśmy	festynować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+festynowaniach	festynować	ger:pl:loc:n2:imperf:aff		
 festynowania	festynować	ger:pl:nom.acc:n2:imperf:aff		
 festynowania	festynować	ger:sg:gen:n2:imperf:aff		
 festynowaniami	festynować	ger:pl:inst:n2:imperf:aff		
 festynowanie	festynować	ger:sg:nom.acc:n2:imperf:aff		
 festynowaniem	festynować	ger:sg:inst:n2:imperf:aff		
-festynowaniom	festynować	ger:pl:dat.loc:n2:imperf:aff		
+festynowaniom	festynować	ger:pl:dat:n2:imperf:aff		
 festynowaniu	festynować	ger:sg:dat.loc:n2:imperf:aff		
 festynowano	festynować	imps:imperf		
 festynowań	festynować	ger:pl:gen:n2:imperf:aff		
@@ -22966,13 +23037,14 @@ fetowanego	fetować	ppas:sg:acc:m1.m2:imperf:aff
 fetowanego	fetować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fetowanej	fetować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fetowanemu	fetować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fetowaniach	fetować	ger:pl:loc:n2:imperf:aff		
 fetowania	fetować	ger:pl:nom.acc:n2:imperf:aff		
 fetowania	fetować	ger:sg:gen:n2:imperf:aff		
 fetowaniami	fetować	ger:pl:inst:n2:imperf:aff		
 fetowanie	fetować	ger:sg:nom.acc:n2:imperf:aff		
 fetowaniem	fetować	ger:sg:inst:n2:imperf:aff		
 fetowani	fetować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fetowaniom	fetować	ger:pl:dat.loc:n2:imperf:aff		
+fetowaniom	fetować	ger:pl:dat:n2:imperf:aff		
 fetowaniu	fetować	ger:sg:dat.loc:n2:imperf:aff		
 fetowano	fetować	imps:imperf		
 fetowanych	fetować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -23192,13 +23264,14 @@ fetyszyzowanego	fetyszyzować	ppas:sg:acc:m1.m2:imperf:aff
 fetyszyzowanego	fetyszyzować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fetyszyzowanej	fetyszyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fetyszyzowanemu	fetyszyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fetyszyzowaniach	fetyszyzować	ger:pl:loc:n2:imperf:aff		
 fetyszyzowania	fetyszyzować	ger:pl:nom.acc:n2:imperf:aff		
 fetyszyzowania	fetyszyzować	ger:sg:gen:n2:imperf:aff		
 fetyszyzowaniami	fetyszyzować	ger:pl:inst:n2:imperf:aff		
 fetyszyzowanie	fetyszyzować	ger:sg:nom.acc:n2:imperf:aff		
 fetyszyzowaniem	fetyszyzować	ger:sg:inst:n2:imperf:aff		
 fetyszyzowani	fetyszyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fetyszyzowaniom	fetyszyzować	ger:pl:dat.loc:n2:imperf:aff		
+fetyszyzowaniom	fetyszyzować	ger:pl:dat:n2:imperf:aff		
 fetyszyzowaniu	fetyszyzować	ger:sg:dat.loc:n2:imperf:aff		
 fetyszyzowano	fetyszyzować	imps:imperf		
 fetyszyzowanych	fetyszyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -23566,12 +23639,13 @@ fiakrowały	fiakrować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		przest.
 fiakrowały	fiakrować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
 fiakrowałyście	fiakrować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
 fiakrowałyśmy	fiakrować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+fiakrowaniach	fiakrować	ger:pl:loc:n2:imperf:aff		
 fiakrowania	fiakrować	ger:pl:nom.acc:n2:imperf:aff		
 fiakrowania	fiakrować	ger:sg:gen:n2:imperf:aff		
 fiakrowaniami	fiakrować	ger:pl:inst:n2:imperf:aff		
 fiakrowanie	fiakrować	ger:sg:nom.acc:n2:imperf:aff		
 fiakrowaniem	fiakrować	ger:sg:inst:n2:imperf:aff		
-fiakrowaniom	fiakrować	ger:pl:dat.loc:n2:imperf:aff		
+fiakrowaniom	fiakrować	ger:pl:dat:n2:imperf:aff		
 fiakrowaniu	fiakrować	ger:sg:dat.loc:n2:imperf:aff		
 fiakrowano	fiakrować	imps:imperf		przest.
 fiakrowań	fiakrować	ger:pl:gen:n2:imperf:aff		
@@ -24885,12 +24959,13 @@ figlowały	figlować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 figlowały	figlować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 figlowałyście	figlować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 figlowałyśmy	figlować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+figlowaniach	figlować	ger:pl:loc:n2:imperf:aff		
 figlowania	figlować	ger:pl:nom.acc:n2:imperf:aff		
 figlowania	figlować	ger:sg:gen:n2:imperf:aff		
 figlowaniami	figlować	ger:pl:inst:n2:imperf:aff		
 figlowanie	figlować	ger:sg:nom.acc:n2:imperf:aff		
 figlowaniem	figlować	ger:sg:inst:n2:imperf:aff		
-figlowaniom	figlować	ger:pl:dat.loc:n2:imperf:aff		
+figlowaniom	figlować	ger:pl:dat:n2:imperf:aff		
 figlowaniu	figlować	ger:sg:dat.loc:n2:imperf:aff		
 figlowano	figlować	imps:imperf		
 figlowań	figlować	ger:pl:gen:n2:imperf:aff		
@@ -25225,12 +25300,13 @@ figurowały	figurować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 figurowały	figurować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 figurowałyście	figurować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 figurowałyśmy	figurować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+figurowaniach	figurować	ger:pl:loc:n2:imperf:aff		
 figurowania	figurować	ger:pl:nom.acc:n2:imperf:aff		
 figurowania	figurować	ger:sg:gen:n2:imperf:aff		
 figurowaniami	figurować	ger:pl:inst:n2:imperf:aff		
 figurowanie	figurować	ger:sg:nom.acc:n2:imperf:aff		
 figurowaniem	figurować	ger:sg:inst:n2:imperf:aff		
-figurowaniom	figurować	ger:pl:dat.loc:n2:imperf:aff		
+figurowaniom	figurować	ger:pl:dat:n2:imperf:aff		
 figurowaniu	figurować	ger:sg:dat.loc:n2:imperf:aff		
 figurowano	figurować	imps:imperf		
 figurowań	figurować	ger:pl:gen:n2:imperf:aff		
@@ -25519,13 +25595,14 @@ fikanego	fikać	ppas:sg:acc:m1.m2:imperf:aff
 fikanego	fikać	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fikanej	fikać	ppas:sg:gen.dat.loc:f:imperf:aff		
 fikanemu	fikać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fikaniach	fikać	ger:pl:loc:n2:imperf:aff		
 fikania	fikać	ger:pl:nom.acc:n2:imperf:aff		
 fikania	fikać	ger:sg:gen:n2:imperf:aff		
 fikaniami	fikać	ger:pl:inst:n2:imperf:aff		
 fikanie	fikać	ger:sg:nom.acc:n2:imperf:aff		
 fikaniem	fikać	ger:sg:inst:n2:imperf:aff		
 fikani	fikać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fikaniom	fikać	ger:pl:dat.loc:n2:imperf:aff		
+fikaniom	fikać	ger:pl:dat:n2:imperf:aff		
 fikaniu	fikać	ger:sg:dat.loc:n2:imperf:aff		
 fikano	fikać	imps:imperf		
 fikanych	fikać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -25701,13 +25778,14 @@ fikniecie	fiknąć	fin:pl:sec:perf
 fiknie	fiknąć	fin:sg:ter:perf		
 fikniemy	fiknąć	fin:pl:pri:perf		
 fikniesz	fiknąć	fin:sg:sec:perf		
+fiknięciach	fiknąć	ger:pl:loc:n2:perf:aff		
 fiknięcia	fiknąć	ger:pl:nom.acc:n2:perf:aff		
 fiknięcia	fiknąć	ger:sg:gen:n2:perf:aff		
 fiknięciami	fiknąć	ger:pl:inst:n2:perf:aff		
 fiknięcie	fiknąć	ger:sg:nom.acc:n2:perf:aff		
 fiknięciem	fiknąć	ger:sg:inst:n2:perf:aff		
 fiknięci	fiknąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-fiknięciom	fiknąć	ger:pl:dat.loc:n2:perf:aff		
+fiknięciom	fiknąć	ger:pl:dat:n2:perf:aff		
 fiknięciu	fiknąć	ger:sg:dat.loc:n2:perf:aff		
 fiknięć	fiknąć	ger:pl:gen:n2:perf:aff		
 fiknięta	fiknąć	ppas:sg:nom.voc:f:perf:aff		
@@ -25991,13 +26069,14 @@ fiksatuarowanego	fiksatuarować	ppas:sg:acc:m1.m2:imperf:aff
 fiksatuarowanego	fiksatuarować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fiksatuarowanej	fiksatuarować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fiksatuarowanemu	fiksatuarować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fiksatuarowaniach	fiksatuarować	ger:pl:loc:n2:imperf:aff		
 fiksatuarowania	fiksatuarować	ger:pl:nom.acc:n2:imperf:aff		
 fiksatuarowania	fiksatuarować	ger:sg:gen:n2:imperf:aff		
 fiksatuarowaniami	fiksatuarować	ger:pl:inst:n2:imperf:aff		
 fiksatuarowanie	fiksatuarować	ger:sg:nom.acc:n2:imperf:aff		
 fiksatuarowaniem	fiksatuarować	ger:sg:inst:n2:imperf:aff		
 fiksatuarowani	fiksatuarować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fiksatuarowaniom	fiksatuarować	ger:pl:dat.loc:n2:imperf:aff		
+fiksatuarowaniom	fiksatuarować	ger:pl:dat:n2:imperf:aff		
 fiksatuarowaniu	fiksatuarować	ger:sg:dat.loc:n2:imperf:aff		
 fiksatuarowano	fiksatuarować	imps:imperf		
 fiksatuarowanych	fiksatuarować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -26077,12 +26156,13 @@ fiksażu	fiksaż	subst:sg:gen:m3	pospolita	przest.
 fiksażu	fiksaż	subst:sg:loc:m3	pospolita	przest.
 fiksażu	fiksaż	subst:sg:voc:m3	pospolita	przest.
 fiksaży	fiksaż	subst:pl:gen:m3	pospolita	przest.
+fiksowaniach	fiksować:v	ger:pl:loc:n2:imperf:aff		
 fiksowania	fiksować:v	ger:pl:nom.acc:n2:imperf:aff		
 fiksowania	fiksować:v	ger:sg:gen:n2:imperf:aff		
 fiksowaniami	fiksować:v	ger:pl:inst:n2:imperf:aff		
 fiksowanie	fiksować:v	ger:sg:nom.acc:n2:imperf:aff		
 fiksowaniem	fiksować:v	ger:sg:inst:n2:imperf:aff		
-fiksowaniom	fiksować:v	ger:pl:dat.loc:n2:imperf:aff		
+fiksowaniom	fiksować:v	ger:pl:dat:n2:imperf:aff		
 fiksowaniu	fiksować:v	ger:sg:dat.loc:n2:imperf:aff		
 fiksowań	fiksować:v	ger:pl:gen:n2:imperf:aff		
 fiksująca	fiksować:v	pact:sg:nom.voc:f:imperf:aff		
@@ -26109,13 +26189,14 @@ fiksowanego	fiksować:v	ppas:sg:acc:m1.m2:imperf:aff
 fiksowanego	fiksować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fiksowanej	fiksować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 fiksowanemu	fiksować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fiksowaniach	fiksować:v	ger:pl:loc:n2:imperf:aff		
 fiksowania	fiksować:v	ger:pl:nom.acc:n2:imperf:aff		
 fiksowania	fiksować:v	ger:sg:gen:n2:imperf:aff		
 fiksowaniami	fiksować:v	ger:pl:inst:n2:imperf:aff		
 fiksowanie	fiksować:v	ger:sg:nom.acc:n2:imperf:aff		
 fiksowaniem	fiksować:v	ger:sg:inst:n2:imperf:aff		
 fiksowani	fiksować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fiksowaniom	fiksować:v	ger:pl:dat.loc:n2:imperf:aff		
+fiksowaniom	fiksować:v	ger:pl:dat:n2:imperf:aff		
 fiksowaniu	fiksować:v	ger:sg:dat.loc:n2:imperf:aff		
 fiksowanych	fiksować:v	ppas:pl:acc:m1.p1:imperf:aff		
 fiksowanych	fiksować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -26149,13 +26230,14 @@ fiksowanego	fiksować:v	ppas:sg:acc:m1.m2:imperf:aff
 fiksowanego	fiksować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fiksowanej	fiksować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 fiksowanemu	fiksować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fiksowaniach	fiksować:v	ger:pl:loc:n2:imperf:aff		
 fiksowania	fiksować:v	ger:pl:nom.acc:n2:imperf:aff		
 fiksowania	fiksować:v	ger:sg:gen:n2:imperf:aff		
 fiksowaniami	fiksować:v	ger:pl:inst:n2:imperf:aff		
 fiksowanie	fiksować:v	ger:sg:nom.acc:n2:imperf:aff		
 fiksowaniem	fiksować:v	ger:sg:inst:n2:imperf:aff		
 fiksowani	fiksować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fiksowaniom	fiksować:v	ger:pl:dat.loc:n2:imperf:aff		
+fiksowaniom	fiksować:v	ger:pl:dat:n2:imperf:aff		
 fiksowaniu	fiksować:v	ger:sg:dat.loc:n2:imperf:aff		
 fiksowanych	fiksować:v	ppas:pl:acc:m1.p1:imperf:aff		
 fiksowanych	fiksować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -27064,13 +27146,14 @@ filcowanego	filcować	ppas:sg:acc:m1.m2:imperf:aff
 filcowanego	filcować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 filcowanej	filcować	ppas:sg:gen.dat.loc:f:imperf:aff		
 filcowanemu	filcować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+filcowaniach	filcować	ger:pl:loc:n2:imperf:aff		
 filcowania	filcować	ger:pl:nom.acc:n2:imperf:aff		
 filcowania	filcować	ger:sg:gen:n2:imperf:aff		
 filcowaniami	filcować	ger:pl:inst:n2:imperf:aff		
 filcowanie	filcować	ger:sg:nom.acc:n2:imperf:aff		
 filcowaniem	filcować	ger:sg:inst:n2:imperf:aff		
 filcowani	filcować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-filcowaniom	filcować	ger:pl:dat.loc:n2:imperf:aff		
+filcowaniom	filcować	ger:pl:dat:n2:imperf:aff		
 filcowaniu	filcować	ger:sg:dat.loc:n2:imperf:aff		
 filcowano	filcować	imps:imperf		
 filcowanych	filcować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -27396,13 +27479,14 @@ filetowanego	filetować	ppas:sg:acc:m1.m2:imperf:aff
 filetowanego	filetować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 filetowanej	filetować	ppas:sg:gen.dat.loc:f:imperf:aff		
 filetowanemu	filetować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+filetowaniach	filetować	ger:pl:loc:n2:imperf:aff		
 filetowania	filetować	ger:pl:nom.acc:n2:imperf:aff		
 filetowania	filetować	ger:sg:gen:n2:imperf:aff		
 filetowaniami	filetować	ger:pl:inst:n2:imperf:aff		
 filetowanie	filetować	ger:sg:nom.acc:n2:imperf:aff		
 filetowaniem	filetować	ger:sg:inst:n2:imperf:aff		
 filetowani	filetować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-filetowaniom	filetować	ger:pl:dat.loc:n2:imperf:aff		
+filetowaniom	filetować	ger:pl:dat:n2:imperf:aff		
 filetowaniu	filetować	ger:sg:dat.loc:n2:imperf:aff		
 filetowano	filetować	imps:imperf		
 filetowanych	filetować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -27839,13 +27923,14 @@ filigranowanego	filigranować	ppas:sg:acc:m1.m2:imperf:aff
 filigranowanego	filigranować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 filigranowanej	filigranować	ppas:sg:gen.dat.loc:f:imperf:aff		
 filigranowanemu	filigranować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+filigranowaniach	filigranować	ger:pl:loc:n2:imperf:aff		
 filigranowania	filigranować	ger:pl:nom.acc:n2:imperf:aff		
 filigranowania	filigranować	ger:sg:gen:n2:imperf:aff		
 filigranowaniami	filigranować	ger:pl:inst:n2:imperf:aff		
 filigranowanie	filigranować	ger:sg:nom.acc:n2:imperf:aff		
 filigranowaniem	filigranować	ger:sg:inst:n2:imperf:aff		
 filigranowani	filigranować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-filigranowaniom	filigranować	ger:pl:dat.loc:n2:imperf:aff		
+filigranowaniom	filigranować	ger:pl:dat:n2:imperf:aff		
 filigranowaniu	filigranować	ger:sg:dat.loc:n2:imperf:aff		
 filigranowano	filigranować	imps:imperf		
 filigranowanych	filigranować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -27985,12 +28070,13 @@ filipikowały	filipikować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 filipikowały	filipikować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 filipikowałyście	filipikować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 filipikowałyśmy	filipikować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+filipikowaniach	filipikować	ger:pl:loc:n2:imperf:aff		
 filipikowania	filipikować	ger:pl:nom.acc:n2:imperf:aff		
 filipikowania	filipikować	ger:sg:gen:n2:imperf:aff		
 filipikowaniami	filipikować	ger:pl:inst:n2:imperf:aff		
 filipikowanie	filipikować	ger:sg:nom.acc:n2:imperf:aff		
 filipikowaniem	filipikować	ger:sg:inst:n2:imperf:aff		
-filipikowaniom	filipikować	ger:pl:dat.loc:n2:imperf:aff		
+filipikowaniom	filipikować	ger:pl:dat:n2:imperf:aff		
 filipikowaniu	filipikować	ger:sg:dat.loc:n2:imperf:aff		
 filipikowano	filipikować	imps:imperf		
 filipikowań	filipikować	ger:pl:gen:n2:imperf:aff		
@@ -28338,12 +28424,13 @@ filistrzeli	filistrzeć	praet:pl:m1.p1:imperf
 filistrzeli	filistrzeć	praet:pl:m1.p1:ter:imperf		
 filistrzeliście	filistrzeć	praet:pl:m1.p1:sec:imperf		
 filistrzeliśmy	filistrzeć	praet:pl:m1.p1:pri:imperf		
+filistrzeniach	filistrzeć	ger:pl:loc:n2:imperf:aff		
 filistrzenia	filistrzeć	ger:pl:nom.acc:n2:imperf:aff		
 filistrzenia	filistrzeć	ger:sg:gen:n2:imperf:aff		
 filistrzeniami	filistrzeć	ger:pl:inst:n2:imperf:aff		
 filistrzenie	filistrzeć	ger:sg:nom.acc:n2:imperf:aff		
 filistrzeniem	filistrzeć	ger:sg:inst:n2:imperf:aff		
-filistrzeniom	filistrzeć	ger:pl:dat.loc:n2:imperf:aff		
+filistrzeniom	filistrzeć	ger:pl:dat:n2:imperf:aff		
 filistrzeniu	filistrzeć	ger:sg:dat.loc:n2:imperf:aff		
 filistrzeń	filistrzeć	ger:pl:gen:n2:imperf:aff		
 filistyńscy	filistyński	adj:pl:nom.voc:m1.p1:pos		
@@ -28444,13 +28531,14 @@ filizowanego	filizować	ppas:sg:acc:m1.m2:imperf:aff
 filizowanego	filizować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 filizowanej	filizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 filizowanemu	filizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+filizowaniach	filizować	ger:pl:loc:n2:imperf:aff		
 filizowania	filizować	ger:pl:nom.acc:n2:imperf:aff		
 filizowania	filizować	ger:sg:gen:n2:imperf:aff		
 filizowaniami	filizować	ger:pl:inst:n2:imperf:aff		
 filizowanie	filizować	ger:sg:nom.acc:n2:imperf:aff		
 filizowaniem	filizować	ger:sg:inst:n2:imperf:aff		
 filizowani	filizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-filizowaniom	filizować	ger:pl:dat.loc:n2:imperf:aff		
+filizowaniom	filizować	ger:pl:dat:n2:imperf:aff		
 filizowaniu	filizować	ger:sg:dat.loc:n2:imperf:aff		
 filizowano	filizować	imps:imperf		
 filizowanych	filizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -28799,13 +28887,14 @@ filmowanego	filmować	ppas:sg:acc:m1.m2:imperf:aff
 filmowanego	filmować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 filmowanej	filmować	ppas:sg:gen.dat.loc:f:imperf:aff		
 filmowanemu	filmować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+filmowaniach	filmować	ger:pl:loc:n2:imperf:aff		
 filmowania	filmować	ger:pl:nom.acc:n2:imperf:aff		
 filmowania	filmować	ger:sg:gen:n2:imperf:aff		
 filmowaniami	filmować	ger:pl:inst:n2:imperf:aff		
 filmowanie	filmować	ger:sg:nom.acc:n2:imperf:aff		
 filmowaniem	filmować	ger:sg:inst:n2:imperf:aff		
 filmowani	filmować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-filmowaniom	filmować	ger:pl:dat.loc:n2:imperf:aff		
+filmowaniom	filmować	ger:pl:dat:n2:imperf:aff		
 filmowaniu	filmować	ger:sg:dat.loc:n2:imperf:aff		
 filmowano	filmować	imps:imperf		
 filmowanych	filmować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -29634,12 +29723,13 @@ filowały	filować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 filowały	filować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 filowałyście	filować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 filowałyśmy	filować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+filowaniach	filować	ger:pl:loc:n2:imperf:aff		
 filowania	filować	ger:pl:nom.acc:n2:imperf:aff		
 filowania	filować	ger:sg:gen:n2:imperf:aff		
 filowaniami	filować	ger:pl:inst:n2:imperf:aff		
 filowanie	filować	ger:sg:nom.acc:n2:imperf:aff		
 filowaniem	filować	ger:sg:inst:n2:imperf:aff		
-filowaniom	filować	ger:pl:dat.loc:n2:imperf:aff		
+filowaniom	filować	ger:pl:dat:n2:imperf:aff		
 filowaniu	filować	ger:sg:dat.loc:n2:imperf:aff		
 filowano	filować	imps:imperf		
 filowań	filować	ger:pl:gen:n2:imperf:aff		
@@ -29817,12 +29907,13 @@ filozofowały	filozofować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 filozofowały	filozofować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 filozofowałyście	filozofować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 filozofowałyśmy	filozofować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+filozofowaniach	filozofować	ger:pl:loc:n2:imperf:aff		
 filozofowania	filozofować	ger:pl:nom.acc:n2:imperf:aff		
 filozofowania	filozofować	ger:sg:gen:n2:imperf:aff		
 filozofowaniami	filozofować	ger:pl:inst:n2:imperf:aff		
 filozofowanie	filozofować	ger:sg:nom.acc:n2:imperf:aff		
 filozofowaniem	filozofować	ger:sg:inst:n2:imperf:aff		
-filozofowaniom	filozofować	ger:pl:dat.loc:n2:imperf:aff		
+filozofowaniom	filozofować	ger:pl:dat:n2:imperf:aff		
 filozofowaniu	filozofować	ger:sg:dat.loc:n2:imperf:aff		
 filozofowano	filozofować	imps:imperf		
 filozofowań	filozofować	ger:pl:gen:n2:imperf:aff		
@@ -30032,13 +30123,14 @@ filtrowanego	filtrować	ppas:sg:acc:m1.m2:imperf:aff
 filtrowanego	filtrować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 filtrowanej	filtrować	ppas:sg:gen.dat.loc:f:imperf:aff		
 filtrowanemu	filtrować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+filtrowaniach	filtrować	ger:pl:loc:n2:imperf:aff		
 filtrowania	filtrować	ger:pl:nom.acc:n2:imperf:aff		
 filtrowania	filtrować	ger:sg:gen:n2:imperf:aff		
 filtrowaniami	filtrować	ger:pl:inst:n2:imperf:aff		
 filtrowanie	filtrować	ger:sg:nom.acc:n2:imperf:aff		
 filtrowaniem	filtrować	ger:sg:inst:n2:imperf:aff		
 filtrowani	filtrować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-filtrowaniom	filtrować	ger:pl:dat.loc:n2:imperf:aff		
+filtrowaniom	filtrować	ger:pl:dat:n2:imperf:aff		
 filtrowaniu	filtrować	ger:sg:dat.loc:n2:imperf:aff		
 filtrowano	filtrować	imps:imperf		
 filtrowanych	filtrować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -30695,13 +30787,14 @@ finalizowanego	finalizować	ppas:sg:acc:m1.m2:imperf:aff
 finalizowanego	finalizować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 finalizowanej	finalizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 finalizowanemu	finalizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+finalizowaniach	finalizować	ger:pl:loc:n2:imperf:aff		
 finalizowania	finalizować	ger:pl:nom.acc:n2:imperf:aff		
 finalizowania	finalizować	ger:sg:gen:n2:imperf:aff		
 finalizowaniami	finalizować	ger:pl:inst:n2:imperf:aff		
 finalizowanie	finalizować	ger:sg:nom.acc:n2:imperf:aff		
 finalizowaniem	finalizować	ger:sg:inst:n2:imperf:aff		
 finalizowani	finalizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-finalizowaniom	finalizować	ger:pl:dat.loc:n2:imperf:aff		
+finalizowaniom	finalizować	ger:pl:dat:n2:imperf:aff		
 finalizowaniu	finalizować	ger:sg:dat.loc:n2:imperf:aff		
 finalizowano	finalizować	imps:imperf		
 finalizowanych	finalizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -30954,13 +31047,14 @@ finansowanego	finansować	ppas:sg:acc:m1.m2:imperf:aff
 finansowanego	finansować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 finansowanej	finansować	ppas:sg:gen.dat.loc:f:imperf:aff		
 finansowanemu	finansować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+finansowaniach	finansować	ger:pl:loc:n2:imperf:aff		
 finansowania	finansować	ger:pl:nom.acc:n2:imperf:aff		
 finansowania	finansować	ger:sg:gen:n2:imperf:aff		
 finansowaniami	finansować	ger:pl:inst:n2:imperf:aff		
 finansowanie	finansować	ger:sg:nom.acc:n2:imperf:aff		
 finansowaniem	finansować	ger:sg:inst:n2:imperf:aff		
 finansowani	finansować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-finansowaniom	finansować	ger:pl:dat.loc:n2:imperf:aff		
+finansowaniom	finansować	ger:pl:dat:n2:imperf:aff		
 finansowaniu	finansować	ger:sg:dat.loc:n2:imperf:aff		
 finansowano	finansować	imps:imperf		
 finansowanych	finansować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -31210,13 +31304,14 @@ fingowanego	fingować	ppas:sg:acc:m1.m2:imperf:aff
 fingowanego	fingować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fingowanej	fingować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fingowanemu	fingować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fingowaniach	fingować	ger:pl:loc:n2:imperf:aff		
 fingowania	fingować	ger:pl:nom.acc:n2:imperf:aff		
 fingowania	fingować	ger:sg:gen:n2:imperf:aff		
 fingowaniami	fingować	ger:pl:inst:n2:imperf:aff		
 fingowanie	fingować	ger:sg:nom.acc:n2:imperf:aff		
 fingowaniem	fingować	ger:sg:inst:n2:imperf:aff		
 fingowani	fingować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fingowaniom	fingować	ger:pl:dat.loc:n2:imperf:aff		
+fingowaniom	fingować	ger:pl:dat:n2:imperf:aff		
 fingowaniu	fingować	ger:sg:dat.loc:n2:imperf:aff		
 fingowano	fingować	imps:imperf		
 fingowanych	fingować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -31320,12 +31415,13 @@ finiszowały	finiszować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 finiszowały	finiszować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 finiszowałyście	finiszować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 finiszowałyśmy	finiszować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+finiszowaniach	finiszować	ger:pl:loc:n2:imperf:aff		
 finiszowania	finiszować	ger:pl:nom.acc:n2:imperf:aff		
 finiszowania	finiszować	ger:sg:gen:n2:imperf:aff		
 finiszowaniami	finiszować	ger:pl:inst:n2:imperf:aff		
 finiszowanie	finiszować	ger:sg:nom.acc:n2:imperf:aff		
 finiszowaniem	finiszować	ger:sg:inst:n2:imperf:aff		
-finiszowaniom	finiszować	ger:pl:dat.loc:n2:imperf:aff		
+finiszowaniom	finiszować	ger:pl:dat:n2:imperf:aff		
 finiszowaniu	finiszować	ger:sg:dat.loc:n2:imperf:aff		
 finiszowano	finiszować	imps:imperf		
 finiszowań	finiszować	ger:pl:gen:n2:imperf:aff		
@@ -31504,13 +31600,14 @@ finlandyzowanego	finlandyzować	ppas:sg:acc:m1.m2:imperf:aff
 finlandyzowanego	finlandyzować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 finlandyzowanej	finlandyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 finlandyzowanemu	finlandyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+finlandyzowaniach	finlandyzować	ger:pl:loc:n2:imperf:aff		
 finlandyzowania	finlandyzować	ger:pl:nom.acc:n2:imperf:aff		
 finlandyzowania	finlandyzować	ger:sg:gen:n2:imperf:aff		
 finlandyzowaniami	finlandyzować	ger:pl:inst:n2:imperf:aff		
 finlandyzowanie	finlandyzować	ger:sg:nom.acc:n2:imperf:aff		
 finlandyzowaniem	finlandyzować	ger:sg:inst:n2:imperf:aff		
 finlandyzowani	finlandyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-finlandyzowaniom	finlandyzować	ger:pl:dat.loc:n2:imperf:aff		
+finlandyzowaniom	finlandyzować	ger:pl:dat:n2:imperf:aff		
 finlandyzowaniu	finlandyzować	ger:sg:dat.loc:n2:imperf:aff		
 finlandyzowano	finlandyzować	imps:imperf		
 finlandyzowanych	finlandyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -31812,13 +31909,14 @@ fiokowanego	fiokować	ppas:sg:acc:m1.m2:imperf:aff
 fiokowanego	fiokować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fiokowanej	fiokować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fiokowanemu	fiokować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fiokowaniach	fiokować	ger:pl:loc:n2:imperf:aff		
 fiokowania	fiokować	ger:pl:nom.acc:n2:imperf:aff		
 fiokowania	fiokować	ger:sg:gen:n2:imperf:aff		
 fiokowaniami	fiokować	ger:pl:inst:n2:imperf:aff		
 fiokowanie	fiokować	ger:sg:nom.acc:n2:imperf:aff		
 fiokowaniem	fiokować	ger:sg:inst:n2:imperf:aff		
 fiokowani	fiokować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fiokowaniom	fiokować	ger:pl:dat.loc:n2:imperf:aff		
+fiokowaniom	fiokować	ger:pl:dat:n2:imperf:aff		
 fiokowaniu	fiokować	ger:sg:dat.loc:n2:imperf:aff		
 fiokowano	fiokować	imps:imperf		
 fiokowanych	fiokować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -31971,12 +32069,13 @@ fioletowieli	fioletowieć	praet:pl:m1.p1:imperf
 fioletowieli	fioletowieć	praet:pl:m1.p1:ter:imperf		
 fioletowieliście	fioletowieć	praet:pl:m1.p1:sec:imperf		
 fioletowieliśmy	fioletowieć	praet:pl:m1.p1:pri:imperf		
+fioletowieniach	fioletowieć	ger:pl:loc:n2:imperf:aff		
 fioletowienia	fioletowieć	ger:pl:nom.acc:n2:imperf:aff		
 fioletowienia	fioletowieć	ger:sg:gen:n2:imperf:aff		
 fioletowieniami	fioletowieć	ger:pl:inst:n2:imperf:aff		
 fioletowienie	fioletowieć	ger:sg:nom.acc:n2:imperf:aff		
 fioletowieniem	fioletowieć	ger:sg:inst:n2:imperf:aff		
-fioletowieniom	fioletowieć	ger:pl:dat.loc:n2:imperf:aff		
+fioletowieniom	fioletowieć	ger:pl:dat:n2:imperf:aff		
 fioletowieniu	fioletowieć	ger:sg:dat.loc:n2:imperf:aff		
 fioletowień	fioletowieć	ger:pl:gen:n2:imperf:aff		
 fioletowiej	fioletowo	adv:com		
@@ -32511,12 +32610,13 @@ fircykowały	fircykować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 fircykowały	fircykować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 fircykowałyście	fircykować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 fircykowałyśmy	fircykować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+fircykowaniach	fircykować	ger:pl:loc:n2:imperf:aff		przest.
 fircykowania	fircykować	ger:pl:nom.acc:n2:imperf:aff		przest.
 fircykowania	fircykować	ger:sg:gen:n2:imperf:aff		przest.
 fircykowaniami	fircykować	ger:pl:inst:n2:imperf:aff		przest.
 fircykowanie	fircykować	ger:sg:nom.acc:n2:imperf:aff		przest.
 fircykowaniem	fircykować	ger:sg:inst:n2:imperf:aff		przest.
-fircykowaniom	fircykować	ger:pl:dat.loc:n2:imperf:aff		przest.
+fircykowaniom	fircykować	ger:pl:dat:n2:imperf:aff		przest.
 fircykowaniu	fircykować	ger:sg:dat.loc:n2:imperf:aff		przest.
 fircykowano	fircykować	imps:imperf		daw.
 fircykowań	fircykować	ger:pl:gen:n2:imperf:aff		przest.
@@ -32864,13 +32964,14 @@ firmowanego	firmować	ppas:sg:acc:m1.m2:imperf:aff
 firmowanego	firmować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 firmowanej	firmować	ppas:sg:gen.dat.loc:f:imperf:aff		
 firmowanemu	firmować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+firmowaniach	firmować	ger:pl:loc:n2:imperf:aff		
 firmowania	firmować	ger:pl:nom.acc:n2:imperf:aff		
 firmowania	firmować	ger:sg:gen:n2:imperf:aff		
 firmowaniami	firmować	ger:pl:inst:n2:imperf:aff		
 firmowanie	firmować	ger:sg:nom.acc:n2:imperf:aff		
 firmowaniem	firmować	ger:sg:inst:n2:imperf:aff		
 firmowani	firmować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-firmowaniom	firmować	ger:pl:dat.loc:n2:imperf:aff		
+firmowaniom	firmować	ger:pl:dat:n2:imperf:aff		
 firmowaniu	firmować	ger:sg:dat.loc:n2:imperf:aff		
 firmowano	firmować	imps:imperf		
 firmowanych	firmować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -34382,12 +34483,13 @@ fiuczeli	fiuczeć	praet:pl:m1.p1:imperf
 fiuczeli	fiuczeć	praet:pl:m1.p1:ter:imperf		
 fiuczeliście	fiuczeć	praet:pl:m1.p1:sec:imperf		
 fiuczeliśmy	fiuczeć	praet:pl:m1.p1:pri:imperf		
+fiuczeniach	fiuczeć	ger:pl:loc:n2:imperf:aff		
 fiuczenia	fiuczeć	ger:pl:nom.acc:n2:imperf:aff		
 fiuczenia	fiuczeć	ger:sg:gen:n2:imperf:aff		
 fiuczeniami	fiuczeć	ger:pl:inst:n2:imperf:aff		
 fiuczenie	fiuczeć	ger:sg:nom.acc:n2:imperf:aff		
 fiuczeniem	fiuczeć	ger:sg:inst:n2:imperf:aff		
-fiuczeniom	fiuczeć	ger:pl:dat.loc:n2:imperf:aff		
+fiuczeniom	fiuczeć	ger:pl:dat:n2:imperf:aff		
 fiuczeniu	fiuczeć	ger:sg:dat.loc:n2:imperf:aff		
 fiuczeń	fiuczeć	ger:pl:gen:n2:imperf:aff		
 fiuczę	fiuczeć	fin:sg:pri:imperf		
@@ -34458,12 +34560,13 @@ fiukałyście	fiukać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 fiukałyśmy	fiukać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 fiukam	fiukać	fin:sg:pri:imperf		
 fiukamy	fiukać	fin:pl:pri:imperf		
+fiukaniach	fiukać	ger:pl:loc:n2:imperf:aff		
 fiukania	fiukać	ger:pl:nom.acc:n2:imperf:aff		
 fiukania	fiukać	ger:sg:gen:n2:imperf:aff		
 fiukaniami	fiukać	ger:pl:inst:n2:imperf:aff		
 fiukanie	fiukać	ger:sg:nom.acc:n2:imperf:aff		
 fiukaniem	fiukać	ger:sg:inst:n2:imperf:aff		
-fiukaniom	fiukać	ger:pl:dat.loc:n2:imperf:aff		
+fiukaniom	fiukać	ger:pl:dat:n2:imperf:aff		
 fiukaniu	fiukać	ger:sg:dat.loc:n2:imperf:aff		
 fiukano	fiukać	imps:imperf		
 fiukań	fiukać	ger:pl:gen:n2:imperf:aff		
@@ -34511,12 +34614,13 @@ fiukniecie	fiuknąć	fin:pl:sec:perf
 fiuknie	fiuknąć	fin:sg:ter:perf		
 fiukniemy	fiuknąć	fin:pl:pri:perf		
 fiukniesz	fiuknąć	fin:sg:sec:perf		
+fiuknięciach	fiuknąć	ger:pl:loc:n2:perf:aff		
 fiuknięcia	fiuknąć	ger:pl:nom.acc:n2:perf:aff		
 fiuknięcia	fiuknąć	ger:sg:gen:n2:perf:aff		
 fiuknięciami	fiuknąć	ger:pl:inst:n2:perf:aff		
 fiuknięcie	fiuknąć	ger:sg:nom.acc:n2:perf:aff		
 fiuknięciem	fiuknąć	ger:sg:inst:n2:perf:aff		
-fiuknięciom	fiuknąć	ger:pl:dat.loc:n2:perf:aff		
+fiuknięciom	fiuknąć	ger:pl:dat:n2:perf:aff		
 fiuknięciu	fiuknąć	ger:sg:dat.loc:n2:perf:aff		
 fiuknięć	fiuknąć	ger:pl:gen:n2:perf:aff		
 fiuknięto	fiuknąć	imps:perf		
@@ -35676,12 +35780,13 @@ flaczeli	flaczeć	praet:pl:m1.p1:imperf
 flaczeli	flaczeć	praet:pl:m1.p1:ter:imperf		
 flaczeliście	flaczeć	praet:pl:m1.p1:sec:imperf		
 flaczeliśmy	flaczeć	praet:pl:m1.p1:pri:imperf		
+flaczeniach	flaczeć	ger:pl:loc:n2:imperf:aff		
 flaczenia	flaczeć	ger:pl:nom.acc:n2:imperf:aff		
 flaczenia	flaczeć	ger:sg:gen:n2:imperf:aff		
 flaczeniami	flaczeć	ger:pl:inst:n2:imperf:aff		
 flaczenie	flaczeć	ger:sg:nom.acc:n2:imperf:aff		
 flaczeniem	flaczeć	ger:sg:inst:n2:imperf:aff		
-flaczeniom	flaczeć	ger:pl:dat.loc:n2:imperf:aff		
+flaczeniom	flaczeć	ger:pl:dat:n2:imperf:aff		
 flaczeniu	flaczeć	ger:sg:dat.loc:n2:imperf:aff		
 flaczeń	flaczeć	ger:pl:gen:n2:imperf:aff		
 flaczek	flaczek	subst:sg:acc:m3	pospolita	
@@ -35763,13 +35868,14 @@ fladerkowanego	fladerkować	ppas:sg:acc:m1.m2:imperf:aff
 fladerkowanego	fladerkować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fladerkowanej	fladerkować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fladerkowanemu	fladerkować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fladerkowaniach	fladerkować	ger:pl:loc:n2:imperf:aff		
 fladerkowania	fladerkować	ger:pl:nom.acc:n2:imperf:aff		
 fladerkowania	fladerkować	ger:sg:gen:n2:imperf:aff		
 fladerkowaniami	fladerkować	ger:pl:inst:n2:imperf:aff		
 fladerkowanie	fladerkować	ger:sg:nom.acc:n2:imperf:aff		
 fladerkowaniem	fladerkować	ger:sg:inst:n2:imperf:aff		
 fladerkowani	fladerkować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fladerkowaniom	fladerkować	ger:pl:dat.loc:n2:imperf:aff		
+fladerkowaniom	fladerkować	ger:pl:dat:n2:imperf:aff		
 fladerkowaniu	fladerkować	ger:sg:dat.loc:n2:imperf:aff		
 fladerkowano	fladerkować	imps:imperf		
 fladerkowanych	fladerkować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -35828,13 +35934,14 @@ fladrowanego	fladrować:v	ppas:sg:acc:m1.m2:imperf:aff
 fladrowanego	fladrować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fladrowanej	fladrować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 fladrowanemu	fladrować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fladrowaniach	fladrować:v	ger:pl:loc:n2:imperf:aff		
 fladrowania	fladrować:v	ger:pl:nom.acc:n2:imperf:aff		
 fladrowania	fladrować:v	ger:sg:gen:n2:imperf:aff		
 fladrowaniami	fladrować:v	ger:pl:inst:n2:imperf:aff		
 fladrowanie	fladrować:v	ger:sg:nom.acc:n2:imperf:aff		
 fladrowaniem	fladrować:v	ger:sg:inst:n2:imperf:aff		
 fladrowani	fladrować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fladrowaniom	fladrować:v	ger:pl:dat.loc:n2:imperf:aff		
+fladrowaniom	fladrować:v	ger:pl:dat:n2:imperf:aff		
 fladrowaniu	fladrować:v	ger:sg:dat.loc:n2:imperf:aff		
 fladrowanych	fladrować:v	ppas:pl:acc:m1.p1:imperf:aff		
 fladrowanych	fladrować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -35868,13 +35975,14 @@ fladrowanego	fladrować:v	ppas:sg:acc:m1.m2:imperf:aff
 fladrowanego	fladrować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fladrowanej	fladrować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 fladrowanemu	fladrować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fladrowaniach	fladrować:v	ger:pl:loc:n2:imperf:aff		
 fladrowania	fladrować:v	ger:pl:nom.acc:n2:imperf:aff		
 fladrowania	fladrować:v	ger:sg:gen:n2:imperf:aff		
 fladrowaniami	fladrować:v	ger:pl:inst:n2:imperf:aff		
 fladrowanie	fladrować:v	ger:sg:nom.acc:n2:imperf:aff		
 fladrowaniem	fladrować:v	ger:sg:inst:n2:imperf:aff		
 fladrowani	fladrować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fladrowaniom	fladrować:v	ger:pl:dat.loc:n2:imperf:aff		
+fladrowaniom	fladrować:v	ger:pl:dat:n2:imperf:aff		
 fladrowaniu	fladrować:v	ger:sg:dat.loc:n2:imperf:aff		
 fladrowanych	fladrować:v	ppas:pl:acc:m1.p1:imperf:aff		
 fladrowanych	fladrować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -36204,13 +36312,14 @@ flagowanego	flagować	ppas:sg:acc:m1.m2:imperf:aff
 flagowanego	flagować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 flagowanej	flagować	ppas:sg:gen.dat.loc:f:imperf:aff		
 flagowanemu	flagować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+flagowaniach	flagować	ger:pl:loc:n2:imperf:aff		
 flagowania	flagować	ger:pl:nom.acc:n2:imperf:aff		
 flagowania	flagować	ger:sg:gen:n2:imperf:aff		
 flagowaniami	flagować	ger:pl:inst:n2:imperf:aff		
 flagowanie	flagować	ger:sg:nom.acc:n2:imperf:aff		
 flagowaniem	flagować	ger:sg:inst:n2:imperf:aff		
 flagowani	flagować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-flagowaniom	flagować	ger:pl:dat.loc:n2:imperf:aff		
+flagowaniom	flagować	ger:pl:dat:n2:imperf:aff		
 flagowaniu	flagować	ger:sg:dat.loc:n2:imperf:aff		
 flagowano	flagować	imps:imperf		
 flagowanych	flagować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -36404,12 +36513,13 @@ flakonikowi	flakonik	subst:sg:dat:m3	pospolita
 flakoników	flakonik	subst:pl:gen:m3	pospolita	
 flakoniku	flakonik	subst:sg:loc:m3	pospolita	
 flakoniku	flakonik	subst:sg:voc:m3	pospolita	
+flakowaceniach	flakowacieć	ger:pl:loc:n2:imperf:aff		
 flakowacenia	flakowacieć	ger:pl:nom.acc:n2:imperf:aff		
 flakowacenia	flakowacieć	ger:sg:gen:n2:imperf:aff		
 flakowaceniami	flakowacieć	ger:pl:inst:n2:imperf:aff		
 flakowacenie	flakowacieć	ger:sg:nom.acc:n2:imperf:aff		
 flakowaceniem	flakowacieć	ger:sg:inst:n2:imperf:aff		
-flakowaceniom	flakowacieć	ger:pl:dat.loc:n2:imperf:aff		
+flakowaceniom	flakowacieć	ger:pl:dat:n2:imperf:aff		
 flakowaceniu	flakowacieć	ger:sg:dat.loc:n2:imperf:aff		
 flakowaceń	flakowacieć	ger:pl:gen:n2:imperf:aff		
 flakowaciałaby	flakowacieć	cond:sg:f:ter:imperf		
@@ -36792,13 +36902,14 @@ flancowanego	flancować	ppas:sg:acc:m1.m2:imperf:aff
 flancowanego	flancować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 flancowanej	flancować	ppas:sg:gen.dat.loc:f:imperf:aff		
 flancowanemu	flancować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+flancowaniach	flancować	ger:pl:loc:n2:imperf:aff		
 flancowania	flancować	ger:pl:nom.acc:n2:imperf:aff		
 flancowania	flancować	ger:sg:gen:n2:imperf:aff		
 flancowaniami	flancować	ger:pl:inst:n2:imperf:aff		
 flancowanie	flancować	ger:sg:nom.acc:n2:imperf:aff		
 flancowaniem	flancować	ger:sg:inst:n2:imperf:aff		
 flancowani	flancować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-flancowaniom	flancować	ger:pl:dat.loc:n2:imperf:aff		
+flancowaniom	flancować	ger:pl:dat:n2:imperf:aff		
 flancowaniu	flancować	ger:sg:dat.loc:n2:imperf:aff		
 flancowano	flancować	imps:imperf		
 flancowanych	flancować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -37061,12 +37172,13 @@ flankierowały	flankierować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		przest.
 flankierowały	flankierować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
 flankierowałyście	flankierować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
 flankierowałyśmy	flankierować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+flankierowaniach	flankierować	ger:pl:loc:n2:imperf:aff		
 flankierowania	flankierować	ger:pl:nom.acc:n2:imperf:aff		
 flankierowania	flankierować	ger:sg:gen:n2:imperf:aff		
 flankierowaniami	flankierować	ger:pl:inst:n2:imperf:aff		
 flankierowanie	flankierować	ger:sg:nom.acc:n2:imperf:aff		
 flankierowaniem	flankierować	ger:sg:inst:n2:imperf:aff		
-flankierowaniom	flankierować	ger:pl:dat.loc:n2:imperf:aff		
+flankierowaniom	flankierować	ger:pl:dat:n2:imperf:aff		
 flankierowaniu	flankierować	ger:sg:dat.loc:n2:imperf:aff		
 flankierowano	flankierować	imps:imperf		przest.
 flankierowań	flankierować	ger:pl:gen:n2:imperf:aff		
@@ -37180,13 +37292,14 @@ flankowanego	flankować	ppas:sg:acc:m1.m2:imperf:aff
 flankowanego	flankować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 flankowanej	flankować	ppas:sg:gen.dat.loc:f:imperf:aff		
 flankowanemu	flankować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+flankowaniach	flankować	ger:pl:loc:n2:imperf:aff		
 flankowania	flankować	ger:pl:nom.acc:n2:imperf:aff		
 flankowania	flankować	ger:sg:gen:n2:imperf:aff		
 flankowaniami	flankować	ger:pl:inst:n2:imperf:aff		
 flankowanie	flankować	ger:sg:nom.acc:n2:imperf:aff		
 flankowaniem	flankować	ger:sg:inst:n2:imperf:aff		
 flankowani	flankować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-flankowaniom	flankować	ger:pl:dat.loc:n2:imperf:aff		
+flankowaniom	flankować	ger:pl:dat:n2:imperf:aff		
 flankowaniu	flankować	ger:sg:dat.loc:n2:imperf:aff		
 flankowano	flankować	imps:imperf		
 flankowanych	flankować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -37297,12 +37410,13 @@ flanowały	flanować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		przest.
 flanowały	flanować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
 flanowałyście	flanować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
 flanowałyśmy	flanować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+flanowaniach	flanować	ger:pl:loc:n2:imperf:aff		
 flanowania	flanować	ger:pl:nom.acc:n2:imperf:aff		
 flanowania	flanować	ger:sg:gen:n2:imperf:aff		
 flanowaniami	flanować	ger:pl:inst:n2:imperf:aff		
 flanowanie	flanować	ger:sg:nom.acc:n2:imperf:aff		
 flanowaniem	flanować	ger:sg:inst:n2:imperf:aff		
-flanowaniom	flanować	ger:pl:dat.loc:n2:imperf:aff		
+flanowaniom	flanować	ger:pl:dat:n2:imperf:aff		
 flanowaniu	flanować	ger:sg:dat.loc:n2:imperf:aff		
 flanowano	flanować	imps:imperf		przest.
 flanowań	flanować	ger:pl:gen:n2:imperf:aff		
@@ -37393,12 +37507,13 @@ flańtałyście	flańtać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
 flańtałyśmy	flańtać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
 flańtam	flańtać	fin:sg:pri:imperf		rzad.
 flańtamy	flańtać	fin:pl:pri:imperf		rzad.
+flańtaniach	flańtać	ger:pl:loc:n2:imperf:aff		
 flańtania	flańtać	ger:pl:nom.acc:n2:imperf:aff		
 flańtania	flańtać	ger:sg:gen:n2:imperf:aff		
 flańtaniami	flańtać	ger:pl:inst:n2:imperf:aff		
 flańtanie	flańtać	ger:sg:nom.acc:n2:imperf:aff		
 flańtaniem	flańtać	ger:sg:inst:n2:imperf:aff		
-flańtaniom	flańtać	ger:pl:dat.loc:n2:imperf:aff		
+flańtaniom	flańtać	ger:pl:dat:n2:imperf:aff		
 flańtaniu	flańtać	ger:sg:dat.loc:n2:imperf:aff		
 flańtano	flańtać	imps:imperf		rzad.
 flańtań	flańtać	ger:pl:gen:n2:imperf:aff		
@@ -37959,12 +38074,13 @@ flażącym	flażyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 flażącymi	flażyć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 flażą	flażyć	fin:pl:ter:imperf		przest.
 flażcie	flażyć	impt:pl:sec:imperf		przest.
+flażeniach	flażyć	ger:pl:loc:n2:imperf:aff		
 flażenia	flażyć	ger:pl:nom.acc:n2:imperf:aff		
 flażenia	flażyć	ger:sg:gen:n2:imperf:aff		
 flażeniami	flażyć	ger:pl:inst:n2:imperf:aff		
 flażenie	flażyć	ger:sg:nom.acc:n2:imperf:aff		
 flażeniem	flażyć	ger:sg:inst:n2:imperf:aff		
-flażeniom	flażyć	ger:pl:dat.loc:n2:imperf:aff		
+flażeniom	flażyć	ger:pl:dat:n2:imperf:aff		
 flażeniu	flażyć	ger:sg:dat.loc:n2:imperf:aff		
 flażeń	flażyć	ger:pl:gen:n2:imperf:aff		
 flażę	flażyć	fin:sg:pri:imperf		przest.
@@ -38140,13 +38256,14 @@ flecącym	flecić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 flecącym	flecić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 flecącymi	flecić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 flecą	flecić	fin:pl:ter:imperf		przest.
+fleceniach	flecić	ger:pl:loc:n2:imperf:aff		
 flecenia	flecić	ger:pl:nom.acc:n2:imperf:aff		
 flecenia	flecić	ger:sg:gen:n2:imperf:aff		
 fleceniami	flecić	ger:pl:inst:n2:imperf:aff		
 flecenie	flecić	ger:sg:nom.acc:n2:imperf:aff		
 fleceniem	flecić	ger:sg:inst:n2:imperf:aff		
 fleceni	flecić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fleceniom	flecić	ger:pl:dat.loc:n2:imperf:aff		
+fleceniom	flecić	ger:pl:dat:n2:imperf:aff		
 fleceniu	flecić	ger:sg:dat.loc:n2:imperf:aff		
 fleceń	flecić	ger:pl:gen:n2:imperf:aff		
 flecę	flecić	fin:sg:pri:imperf		przest.
@@ -38506,13 +38623,14 @@ flegmatyzowanego	flegmatyzować	ppas:sg:acc:m1.m2:imperf:aff
 flegmatyzowanego	flegmatyzować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 flegmatyzowanej	flegmatyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 flegmatyzowanemu	flegmatyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+flegmatyzowaniach	flegmatyzować	ger:pl:loc:n2:imperf:aff		
 flegmatyzowania	flegmatyzować	ger:pl:nom.acc:n2:imperf:aff		
 flegmatyzowania	flegmatyzować	ger:sg:gen:n2:imperf:aff		
 flegmatyzowaniami	flegmatyzować	ger:pl:inst:n2:imperf:aff		
 flegmatyzowanie	flegmatyzować	ger:sg:nom.acc:n2:imperf:aff		
 flegmatyzowaniem	flegmatyzować	ger:sg:inst:n2:imperf:aff		
 flegmatyzowani	flegmatyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-flegmatyzowaniom	flegmatyzować	ger:pl:dat.loc:n2:imperf:aff		
+flegmatyzowaniom	flegmatyzować	ger:pl:dat:n2:imperf:aff		
 flegmatyzowaniu	flegmatyzować	ger:sg:dat.loc:n2:imperf:aff		
 flegmatyzowano	flegmatyzować	imps:imperf		
 flegmatyzowanych	flegmatyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -38775,13 +38893,14 @@ flekowanego	flekować	ppas:sg:acc:m1.m2:imperf:aff
 flekowanego	flekować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 flekowanej	flekować	ppas:sg:gen.dat.loc:f:imperf:aff		
 flekowanemu	flekować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+flekowaniach	flekować	ger:pl:loc:n2:imperf:aff		
 flekowania	flekować	ger:pl:nom.acc:n2:imperf:aff		
 flekowania	flekować	ger:sg:gen:n2:imperf:aff		
 flekowaniami	flekować	ger:pl:inst:n2:imperf:aff		
 flekowanie	flekować	ger:sg:nom.acc:n2:imperf:aff		
 flekowaniem	flekować	ger:sg:inst:n2:imperf:aff		
 flekowani	flekować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-flekowaniom	flekować	ger:pl:dat.loc:n2:imperf:aff		
+flekowaniom	flekować	ger:pl:dat:n2:imperf:aff		
 flekowaniu	flekować	ger:sg:dat.loc:n2:imperf:aff		
 flekowano	flekować	imps:imperf		pot.
 flekowanych	flekować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -38989,13 +39108,14 @@ fleszowanego	fleszować	ppas:sg:acc:m1.m2:imperf:aff
 fleszowanego	fleszować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fleszowanej	fleszować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fleszowanemu	fleszować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fleszowaniach	fleszować	ger:pl:loc:n2:imperf:aff		
 fleszowania	fleszować	ger:pl:nom.acc:n2:imperf:aff		
 fleszowania	fleszować	ger:sg:gen:n2:imperf:aff		
 fleszowaniami	fleszować	ger:pl:inst:n2:imperf:aff		
 fleszowanie	fleszować	ger:sg:nom.acc:n2:imperf:aff		
 fleszowaniem	fleszować	ger:sg:inst:n2:imperf:aff		
 fleszowani	fleszować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fleszowaniom	fleszować	ger:pl:dat.loc:n2:imperf:aff		
+fleszowaniom	fleszować	ger:pl:dat:n2:imperf:aff		
 fleszowaniu	fleszować	ger:sg:dat.loc:n2:imperf:aff		
 fleszowano	fleszować	imps:imperf		
 fleszowanych	fleszować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -39618,12 +39738,13 @@ flirtowały	flirtować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 flirtowały	flirtować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 flirtowałyście	flirtować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 flirtowałyśmy	flirtować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+flirtowaniach	flirtować	ger:pl:loc:n2:imperf:aff		
 flirtowania	flirtować	ger:pl:nom.acc:n2:imperf:aff		
 flirtowania	flirtować	ger:sg:gen:n2:imperf:aff		
 flirtowaniami	flirtować	ger:pl:inst:n2:imperf:aff		
 flirtowanie	flirtować	ger:sg:nom.acc:n2:imperf:aff		
 flirtowaniem	flirtować	ger:sg:inst:n2:imperf:aff		
-flirtowaniom	flirtować	ger:pl:dat.loc:n2:imperf:aff		
+flirtowaniom	flirtować	ger:pl:dat:n2:imperf:aff		
 flirtowaniu	flirtować	ger:sg:dat.loc:n2:imperf:aff		
 flirtowano	flirtować	imps:imperf		
 flirtowań	flirtować	ger:pl:gen:n2:imperf:aff		
@@ -39865,12 +39986,13 @@ flisowały	flisować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		przest.
 flisowały	flisować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
 flisowałyście	flisować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
 flisowałyśmy	flisować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+flisowaniach	flisować	ger:pl:loc:n2:imperf:aff		
 flisowania	flisować	ger:pl:nom.acc:n2:imperf:aff		
 flisowania	flisować	ger:sg:gen:n2:imperf:aff		
 flisowaniami	flisować	ger:pl:inst:n2:imperf:aff		
 flisowanie	flisować	ger:sg:nom.acc:n2:imperf:aff		
 flisowaniem	flisować	ger:sg:inst:n2:imperf:aff		
-flisowaniom	flisować	ger:pl:dat.loc:n2:imperf:aff		
+flisowaniom	flisować	ger:pl:dat:n2:imperf:aff		
 flisowaniu	flisować	ger:sg:dat.loc:n2:imperf:aff		
 flisowano	flisować	imps:imperf		przest.
 flisowań	flisować	ger:pl:gen:n2:imperf:aff		
@@ -40094,13 +40216,14 @@ flitowanego	flitować	ppas:sg:acc:m1.m2:imperf:aff
 flitowanego	flitować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 flitowanej	flitować	ppas:sg:gen.dat.loc:f:imperf:aff		
 flitowanemu	flitować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+flitowaniach	flitować	ger:pl:loc:n2:imperf:aff		
 flitowania	flitować	ger:pl:nom.acc:n2:imperf:aff		
 flitowania	flitować	ger:sg:gen:n2:imperf:aff		
 flitowaniami	flitować	ger:pl:inst:n2:imperf:aff		
 flitowanie	flitować	ger:sg:nom.acc:n2:imperf:aff		
 flitowaniem	flitować	ger:sg:inst:n2:imperf:aff		
 flitowani	flitować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-flitowaniom	flitować	ger:pl:dat.loc:n2:imperf:aff		
+flitowaniom	flitować	ger:pl:dat:n2:imperf:aff		
 flitowaniu	flitować	ger:sg:dat.loc:n2:imperf:aff		
 flitowano	flitować	imps:imperf		
 flitowanych	flitować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -40241,13 +40364,14 @@ flizowanego	flizować	ppas:sg:acc:m1.m2:imperf:aff
 flizowanego	flizować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 flizowanej	flizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 flizowanemu	flizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+flizowaniach	flizować	ger:pl:loc:n2:imperf:aff		
 flizowania	flizować	ger:pl:nom.acc:n2:imperf:aff		
 flizowania	flizować	ger:sg:gen:n2:imperf:aff		
 flizowaniami	flizować	ger:pl:inst:n2:imperf:aff		
 flizowanie	flizować	ger:sg:nom.acc:n2:imperf:aff		
 flizowaniem	flizować	ger:sg:inst:n2:imperf:aff		
 flizowani	flizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-flizowaniom	flizować	ger:pl:dat.loc:n2:imperf:aff		
+flizowaniom	flizować	ger:pl:dat:n2:imperf:aff		
 flizowaniu	flizować	ger:sg:dat.loc:n2:imperf:aff		
 flizowano	flizować	imps:imperf		
 flizowanych	flizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -40504,13 +40628,14 @@ flokowanego	flokować	ppas:sg:acc:m1.m2:imperf:aff
 flokowanego	flokować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 flokowanej	flokować	ppas:sg:gen.dat.loc:f:imperf:aff		
 flokowanemu	flokować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+flokowaniach	flokować	ger:pl:loc:n2:imperf:aff		
 flokowania	flokować	ger:pl:nom.acc:n2:imperf:aff		
 flokowania	flokować	ger:sg:gen:n2:imperf:aff		
 flokowaniami	flokować	ger:pl:inst:n2:imperf:aff		
 flokowanie	flokować	ger:sg:nom.acc:n2:imperf:aff		
 flokowaniem	flokować	ger:sg:inst:n2:imperf:aff		
 flokowani	flokować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-flokowaniom	flokować	ger:pl:dat.loc:n2:imperf:aff		
+flokowaniom	flokować	ger:pl:dat:n2:imperf:aff		
 flokowaniu	flokować	ger:sg:dat.loc:n2:imperf:aff		
 flokowano	flokować	imps:imperf		rzad.
 flokowanych	flokować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -41028,13 +41153,14 @@ floresowanego	floresować	ppas:sg:acc:m1.m2:imperf:aff
 floresowanego	floresować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 floresowanej	floresować	ppas:sg:gen.dat.loc:f:imperf:aff		
 floresowanemu	floresować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+floresowaniach	floresować	ger:pl:loc:n2:imperf:aff		
 floresowania	floresować	ger:pl:nom.acc:n2:imperf:aff		
 floresowania	floresować	ger:sg:gen:n2:imperf:aff		
 floresowaniami	floresować	ger:pl:inst:n2:imperf:aff		
 floresowanie	floresować	ger:sg:nom.acc:n2:imperf:aff		
 floresowaniem	floresować	ger:sg:inst:n2:imperf:aff		
 floresowani	floresować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-floresowaniom	floresować	ger:pl:dat.loc:n2:imperf:aff		
+floresowaniom	floresować	ger:pl:dat:n2:imperf:aff		
 floresowaniu	floresować	ger:sg:dat.loc:n2:imperf:aff		
 floresowano	floresować	imps:imperf		przest.
 floresowanych	floresować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -41620,13 +41746,14 @@ fluatowanego	fluatować	ppas:sg:acc:m1.m2:imperf:aff
 fluatowanego	fluatować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fluatowanej	fluatować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fluatowanemu	fluatować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fluatowaniach	fluatować	ger:pl:loc:n2:imperf:aff		
 fluatowania	fluatować	ger:pl:nom.acc:n2:imperf:aff		
 fluatowania	fluatować	ger:sg:gen:n2:imperf:aff		
 fluatowaniami	fluatować	ger:pl:inst:n2:imperf:aff		
 fluatowanie	fluatować	ger:sg:nom.acc:n2:imperf:aff		
 fluatowaniem	fluatować	ger:sg:inst:n2:imperf:aff		
 fluatowani	fluatować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fluatowaniom	fluatować	ger:pl:dat.loc:n2:imperf:aff		
+fluatowaniom	fluatować	ger:pl:dat:n2:imperf:aff		
 fluatowaniu	fluatować	ger:sg:dat.loc:n2:imperf:aff		
 fluatowano	fluatować	imps:imperf		bud.
 fluatowanych	fluatować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -41967,12 +42094,13 @@ fluktuowały	fluktuować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fluktuowały	fluktuować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fluktuowałyście	fluktuować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fluktuowałyśmy	fluktuować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+fluktuowaniach	fluktuować	ger:pl:loc:n2:imperf:aff		
 fluktuowania	fluktuować	ger:pl:nom.acc:n2:imperf:aff		
 fluktuowania	fluktuować	ger:sg:gen:n2:imperf:aff		
 fluktuowaniami	fluktuować	ger:pl:inst:n2:imperf:aff		
 fluktuowanie	fluktuować	ger:sg:nom.acc:n2:imperf:aff		
 fluktuowaniem	fluktuować	ger:sg:inst:n2:imperf:aff		
-fluktuowaniom	fluktuować	ger:pl:dat.loc:n2:imperf:aff		
+fluktuowaniom	fluktuować	ger:pl:dat:n2:imperf:aff		
 fluktuowaniu	fluktuować	ger:sg:dat.loc:n2:imperf:aff		
 fluktuowano	fluktuować	imps:imperf		
 fluktuowań	fluktuować	ger:pl:gen:n2:imperf:aff		
@@ -42141,13 +42269,14 @@ fluorkowanego	fluorkować	ppas:sg:acc:m1.m2:imperf:aff
 fluorkowanego	fluorkować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fluorkowanej	fluorkować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fluorkowanemu	fluorkować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fluorkowaniach	fluorkować	ger:pl:loc:n2:imperf:aff		
 fluorkowania	fluorkować	ger:pl:nom.acc:n2:imperf:aff		
 fluorkowania	fluorkować	ger:sg:gen:n2:imperf:aff		
 fluorkowaniami	fluorkować	ger:pl:inst:n2:imperf:aff		
 fluorkowanie	fluorkować	ger:sg:nom.acc:n2:imperf:aff		
 fluorkowaniem	fluorkować	ger:sg:inst:n2:imperf:aff		
 fluorkowani	fluorkować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fluorkowaniom	fluorkować	ger:pl:dat.loc:n2:imperf:aff		
+fluorkowaniom	fluorkować	ger:pl:dat:n2:imperf:aff		
 fluorkowaniu	fluorkować	ger:sg:dat.loc:n2:imperf:aff		
 fluorkowano	fluorkować	imps:imperf		
 fluorkowanych	fluorkować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -42324,13 +42453,14 @@ fluorowanego	fluorować	ppas:sg:acc:m1.m2:imperf:aff
 fluorowanego	fluorować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fluorowanej	fluorować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fluorowanemu	fluorować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fluorowaniach	fluorować	ger:pl:loc:n2:imperf:aff		
 fluorowania	fluorować	ger:pl:nom.acc:n2:imperf:aff		
 fluorowania	fluorować	ger:sg:gen:n2:imperf:aff		
 fluorowaniami	fluorować	ger:pl:inst:n2:imperf:aff		
 fluorowanie	fluorować	ger:sg:nom.acc:n2:imperf:aff		
 fluorowaniem	fluorować	ger:sg:inst:n2:imperf:aff		
 fluorowani	fluorować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fluorowaniom	fluorować	ger:pl:dat.loc:n2:imperf:aff		
+fluorowaniom	fluorować	ger:pl:dat:n2:imperf:aff		
 fluorowaniu	fluorować	ger:sg:dat.loc:n2:imperf:aff		
 fluorowano	fluorować	imps:imperf		
 fluorowanych	fluorować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -42411,13 +42541,14 @@ fluorowcowanego	fluorowcować	ppas:sg:acc:m1.m2:imperf:aff
 fluorowcowanego	fluorowcować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fluorowcowanej	fluorowcować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fluorowcowanemu	fluorowcować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fluorowcowaniach	fluorowcować	ger:pl:loc:n2:imperf:aff		
 fluorowcowania	fluorowcować	ger:pl:nom.acc:n2:imperf:aff		
 fluorowcowania	fluorowcować	ger:sg:gen:n2:imperf:aff		
 fluorowcowaniami	fluorowcować	ger:pl:inst:n2:imperf:aff		
 fluorowcowanie	fluorowcować	ger:sg:nom.acc:n2:imperf:aff		
 fluorowcowaniem	fluorowcować	ger:sg:inst:n2:imperf:aff		
 fluorowcowani	fluorowcować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fluorowcowaniom	fluorowcować	ger:pl:dat.loc:n2:imperf:aff		
+fluorowcowaniom	fluorowcować	ger:pl:dat:n2:imperf:aff		
 fluorowcowaniu	fluorowcować	ger:sg:dat.loc:n2:imperf:aff		
 fluorowcowano	fluorowcować	imps:imperf		
 fluorowcowanych	fluorowcować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -42623,12 +42754,13 @@ fluoryzowały	fluoryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fluoryzowały	fluoryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fluoryzowałyście	fluoryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fluoryzowałyśmy	fluoryzować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+fluoryzowaniach	fluoryzować	ger:pl:loc:n2:imperf:aff		
 fluoryzowania	fluoryzować	ger:pl:nom.acc:n2:imperf:aff		
 fluoryzowania	fluoryzować	ger:sg:gen:n2:imperf:aff		
 fluoryzowaniami	fluoryzować	ger:pl:inst:n2:imperf:aff		
 fluoryzowanie	fluoryzować	ger:sg:nom.acc:n2:imperf:aff		
 fluoryzowaniem	fluoryzować	ger:sg:inst:n2:imperf:aff		
-fluoryzowaniom	fluoryzować	ger:pl:dat.loc:n2:imperf:aff		
+fluoryzowaniom	fluoryzować	ger:pl:dat:n2:imperf:aff		
 fluoryzowaniu	fluoryzować	ger:sg:dat.loc:n2:imperf:aff		
 fluoryzowano	fluoryzować	imps:imperf		
 fluoryzowań	fluoryzować	ger:pl:gen:n2:imperf:aff		
@@ -43665,12 +43797,13 @@ folgowały	folgować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		przest.
 folgowały	folgować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
 folgowałyście	folgować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
 folgowałyśmy	folgować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+folgowaniach	folgować	ger:pl:loc:n2:imperf:aff		
 folgowania	folgować	ger:pl:nom.acc:n2:imperf:aff		
 folgowania	folgować	ger:sg:gen:n2:imperf:aff		
 folgowaniami	folgować	ger:pl:inst:n2:imperf:aff		
 folgowanie	folgować	ger:sg:nom.acc:n2:imperf:aff		
 folgowaniem	folgować	ger:sg:inst:n2:imperf:aff		
-folgowaniom	folgować	ger:pl:dat.loc:n2:imperf:aff		
+folgowaniom	folgować	ger:pl:dat:n2:imperf:aff		
 folgowaniu	folgować	ger:sg:dat.loc:n2:imperf:aff		
 folgowano	folgować	imps:imperf		przest.
 folgowań	folgować	ger:pl:gen:n2:imperf:aff		
@@ -43920,13 +44053,14 @@ foliowanego	foliować	ppas:sg:acc:m1.m2:imperf:aff
 foliowanego	foliować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 foliowanej	foliować	ppas:sg:gen.dat.loc:f:imperf:aff		
 foliowanemu	foliować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+foliowaniach	foliować	ger:pl:loc:n2:imperf:aff		
 foliowania	foliować	ger:pl:nom.acc:n2:imperf:aff		
 foliowania	foliować	ger:sg:gen:n2:imperf:aff		
 foliowaniami	foliować	ger:pl:inst:n2:imperf:aff		
 foliowanie	foliować	ger:sg:nom.acc:n2:imperf:aff		
 foliowaniem	foliować	ger:sg:inst:n2:imperf:aff		
 foliowani	foliować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-foliowaniom	foliować	ger:pl:dat.loc:n2:imperf:aff		
+foliowaniom	foliować	ger:pl:dat:n2:imperf:aff		
 foliowaniu	foliować	ger:sg:dat.loc:n2:imperf:aff		
 foliowano	foliować	imps:imperf		
 foliowanych	foliować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -44265,13 +44399,14 @@ folowanego	folować	ppas:sg:acc:m1.m2:imperf:aff
 folowanego	folować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 folowanej	folować	ppas:sg:gen.dat.loc:f:imperf:aff		
 folowanemu	folować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+folowaniach	folować	ger:pl:loc:n2:imperf:aff		
 folowania	folować	ger:pl:nom.acc:n2:imperf:aff		
 folowania	folować	ger:sg:gen:n2:imperf:aff		
 folowaniami	folować	ger:pl:inst:n2:imperf:aff		
 folowanie	folować	ger:sg:nom.acc:n2:imperf:aff		
 folowaniem	folować	ger:sg:inst:n2:imperf:aff		
 folowani	folować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-folowaniom	folować	ger:pl:dat.loc:n2:imperf:aff		
+folowaniom	folować	ger:pl:dat:n2:imperf:aff		
 folowaniu	folować	ger:sg:dat.loc:n2:imperf:aff		
 folowano	folować	imps:imperf		techn.
 folowanych	folować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -44476,13 +44611,14 @@ foluszowanego	foluszować	ppas:sg:acc:m1.m2:imperf:aff
 foluszowanego	foluszować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 foluszowanej	foluszować	ppas:sg:gen.dat.loc:f:imperf:aff		
 foluszowanemu	foluszować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+foluszowaniach	foluszować	ger:pl:loc:n2:imperf:aff		
 foluszowania	foluszować	ger:pl:nom.acc:n2:imperf:aff		
 foluszowania	foluszować	ger:sg:gen:n2:imperf:aff		
 foluszowaniami	foluszować	ger:pl:inst:n2:imperf:aff		
 foluszowanie	foluszować	ger:sg:nom.acc:n2:imperf:aff		
 foluszowaniem	foluszować	ger:sg:inst:n2:imperf:aff		
 foluszowani	foluszować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-foluszowaniom	foluszować	ger:pl:dat.loc:n2:imperf:aff		
+foluszowaniom	foluszować	ger:pl:dat:n2:imperf:aff		
 foluszowaniu	foluszować	ger:sg:dat.loc:n2:imperf:aff		
 foluszowano	foluszować	imps:imperf		
 foluszowanych	foluszować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -45116,13 +45252,14 @@ fonetyzowanego	fonetyzować	ppas:sg:acc:m1.m2:imperf:aff
 fonetyzowanego	fonetyzować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fonetyzowanej	fonetyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fonetyzowanemu	fonetyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fonetyzowaniach	fonetyzować	ger:pl:loc:n2:imperf:aff		
 fonetyzowania	fonetyzować	ger:pl:nom.acc:n2:imperf:aff		
 fonetyzowania	fonetyzować	ger:sg:gen:n2:imperf:aff		
 fonetyzowaniami	fonetyzować	ger:pl:inst:n2:imperf:aff		
 fonetyzowanie	fonetyzować	ger:sg:nom.acc:n2:imperf:aff		
 fonetyzowaniem	fonetyzować	ger:sg:inst:n2:imperf:aff		
 fonetyzowani	fonetyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fonetyzowaniom	fonetyzować	ger:pl:dat.loc:n2:imperf:aff		
+fonetyzowaniom	fonetyzować	ger:pl:dat:n2:imperf:aff		
 fonetyzowaniu	fonetyzować	ger:sg:dat.loc:n2:imperf:aff		
 fonetyzowano	fonetyzować	imps:imperf		
 fonetyzowanych	fonetyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -46729,13 +46866,14 @@ formalizowanego	formalizować	ppas:sg:acc:m1.m2:imperf:aff
 formalizowanego	formalizować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 formalizowanej	formalizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 formalizowanemu	formalizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+formalizowaniach	formalizować	ger:pl:loc:n2:imperf:aff		
 formalizowania	formalizować	ger:pl:nom.acc:n2:imperf:aff		
 formalizowania	formalizować	ger:sg:gen:n2:imperf:aff		
 formalizowaniami	formalizować	ger:pl:inst:n2:imperf:aff		
 formalizowanie	formalizować	ger:sg:nom.acc:n2:imperf:aff		
 formalizowaniem	formalizować	ger:sg:inst:n2:imperf:aff		
 formalizowani	formalizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-formalizowaniom	formalizować	ger:pl:dat.loc:n2:imperf:aff		
+formalizowaniom	formalizować	ger:pl:dat:n2:imperf:aff		
 formalizowaniu	formalizować	ger:sg:dat.loc:n2:imperf:aff		
 formalizowano	formalizować	imps:imperf		
 formalizowanych	formalizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -47040,13 +47178,14 @@ formatowanego	formatować	ppas:sg:acc:m1.m2:imperf:aff
 formatowanego	formatować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 formatowanej	formatować	ppas:sg:gen.dat.loc:f:imperf:aff		
 formatowanemu	formatować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+formatowaniach	formatować	ger:pl:loc:n2:imperf:aff		
 formatowania	formatować	ger:pl:nom.acc:n2:imperf:aff		
 formatowania	formatować	ger:sg:gen:n2:imperf:aff		
 formatowaniami	formatować	ger:pl:inst:n2:imperf:aff		
 formatowanie	formatować	ger:sg:nom.acc:n2:imperf:aff		
 formatowaniem	formatować	ger:sg:inst:n2:imperf:aff		
 formatowani	formatować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-formatowaniom	formatować	ger:pl:dat.loc:n2:imperf:aff		
+formatowaniom	formatować	ger:pl:dat:n2:imperf:aff		
 formatowaniu	formatować	ger:sg:dat.loc:n2:imperf:aff		
 formatowano	formatować	imps:imperf		
 formatowanych	formatować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -47518,13 +47657,14 @@ formowanego	formować	ppas:sg:acc:m1.m2:imperf:aff
 formowanego	formować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 formowanej	formować	ppas:sg:gen.dat.loc:f:imperf:aff		
 formowanemu	formować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+formowaniach	formować	ger:pl:loc:n2:imperf:aff		
 formowania	formować	ger:pl:nom.acc:n2:imperf:aff		
 formowania	formować	ger:sg:gen:n2:imperf:aff		
 formowaniami	formować	ger:pl:inst:n2:imperf:aff		
 formowanie	formować	ger:sg:nom.acc:n2:imperf:aff		
 formowaniem	formować	ger:sg:inst:n2:imperf:aff		
 formowani	formować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-formowaniom	formować	ger:pl:dat.loc:n2:imperf:aff		
+formowaniom	formować	ger:pl:dat:n2:imperf:aff		
 formowaniu	formować	ger:sg:dat.loc:n2:imperf:aff		
 formowano	formować	imps:imperf		
 formowanych	formować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -47865,13 +48005,14 @@ formułowanego	formułować	ppas:sg:acc:m1.m2:imperf:aff
 formułowanego	formułować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 formułowanej	formułować	ppas:sg:gen.dat.loc:f:imperf:aff		
 formułowanemu	formułować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+formułowaniach	formułować	ger:pl:loc:n2:imperf:aff		
 formułowania	formułować	ger:pl:nom.acc:n2:imperf:aff		
 formułowania	formułować	ger:sg:gen:n2:imperf:aff		
 formułowaniami	formułować	ger:pl:inst:n2:imperf:aff		
 formułowanie	formułować	ger:sg:nom.acc:n2:imperf:aff		
 formułowaniem	formułować	ger:sg:inst:n2:imperf:aff		
 formułowani	formułować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-formułowaniom	formułować	ger:pl:dat.loc:n2:imperf:aff		
+formułowaniom	formułować	ger:pl:dat:n2:imperf:aff		
 formułowaniu	formułować	ger:sg:dat.loc:n2:imperf:aff		
 formułowano	formułować	imps:imperf		
 formułowanych	formułować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -48091,13 +48232,14 @@ fornierowanego	fornierować	ppas:sg:acc:m1.m2:imperf:aff
 fornierowanego	fornierować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fornierowanej	fornierować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fornierowanemu	fornierować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fornierowaniach	fornierować	ger:pl:loc:n2:imperf:aff		
 fornierowania	fornierować	ger:pl:nom.acc:n2:imperf:aff		
 fornierowania	fornierować	ger:sg:gen:n2:imperf:aff		
 fornierowaniami	fornierować	ger:pl:inst:n2:imperf:aff		
 fornierowanie	fornierować	ger:sg:nom.acc:n2:imperf:aff		
 fornierowaniem	fornierować	ger:sg:inst:n2:imperf:aff		
 fornierowani	fornierować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fornierowaniom	fornierować	ger:pl:dat.loc:n2:imperf:aff		
+fornierowaniom	fornierować	ger:pl:dat:n2:imperf:aff		
 fornierowaniu	fornierować	ger:sg:dat.loc:n2:imperf:aff		
 fornierowano	fornierować	imps:imperf		przest.
 fornierowanych	fornierować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -48244,13 +48386,14 @@ fornirowanego	fornirować	ppas:sg:acc:m1.m2:imperf:aff
 fornirowanego	fornirować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fornirowanej	fornirować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fornirowanemu	fornirować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fornirowaniach	fornirować	ger:pl:loc:n2:imperf:aff		
 fornirowania	fornirować	ger:pl:nom.acc:n2:imperf:aff		
 fornirowania	fornirować	ger:sg:gen:n2:imperf:aff		
 fornirowaniami	fornirować	ger:pl:inst:n2:imperf:aff		
 fornirowanie	fornirować	ger:sg:nom.acc:n2:imperf:aff		
 fornirowaniem	fornirować	ger:sg:inst:n2:imperf:aff		
 fornirowani	fornirować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fornirowaniom	fornirować	ger:pl:dat.loc:n2:imperf:aff		
+fornirowaniom	fornirować	ger:pl:dat:n2:imperf:aff		
 fornirowaniu	fornirować	ger:sg:dat.loc:n2:imperf:aff		
 fornirowano	fornirować	imps:imperf		
 fornirowanych	fornirować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -48373,13 +48516,14 @@ forowanego	forować:v	ppas:sg:acc:m1.m2:imperf:aff
 forowanego	forować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 forowanej	forować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 forowanemu	forować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+forowaniach	forować:v	ger:pl:loc:n2:imperf:aff		
 forowania	forować:v	ger:pl:nom.acc:n2:imperf:aff		
 forowania	forować:v	ger:sg:gen:n2:imperf:aff		
 forowaniami	forować:v	ger:pl:inst:n2:imperf:aff		
 forowanie	forować:v	ger:sg:nom.acc:n2:imperf:aff		
 forowaniem	forować:v	ger:sg:inst:n2:imperf:aff		
 forowani	forować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-forowaniom	forować:v	ger:pl:dat.loc:n2:imperf:aff		
+forowaniom	forować:v	ger:pl:dat:n2:imperf:aff		
 forowaniu	forować:v	ger:sg:dat.loc:n2:imperf:aff		
 forowanych	forować:v	ppas:pl:acc:m1.p1:imperf:aff		
 forowanych	forować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -48413,13 +48557,14 @@ forowanego	forować:v	ppas:sg:acc:m1.m2:imperf:aff
 forowanego	forować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 forowanej	forować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 forowanemu	forować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+forowaniach	forować:v	ger:pl:loc:n2:imperf:aff		
 forowania	forować:v	ger:pl:nom.acc:n2:imperf:aff		
 forowania	forować:v	ger:sg:gen:n2:imperf:aff		
 forowaniami	forować:v	ger:pl:inst:n2:imperf:aff		
 forowanie	forować:v	ger:sg:nom.acc:n2:imperf:aff		
 forowaniem	forować:v	ger:sg:inst:n2:imperf:aff		
 forowani	forować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-forowaniom	forować:v	ger:pl:dat.loc:n2:imperf:aff		
+forowaniom	forować:v	ger:pl:dat:n2:imperf:aff		
 forowaniu	forować:v	ger:sg:dat.loc:n2:imperf:aff		
 forowanych	forować:v	ppas:pl:acc:m1.p1:imperf:aff		
 forowanych	forować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -48715,13 +48860,14 @@ forsowanego	forsować	ppas:sg:acc:m1.m2:imperf:aff
 forsowanego	forsować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 forsowanej	forsować	ppas:sg:gen.dat.loc:f:imperf:aff		
 forsowanemu	forsować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+forsowaniach	forsować	ger:pl:loc:n2:imperf:aff		
 forsowania	forsować	ger:pl:nom.acc:n2:imperf:aff		
 forsowania	forsować	ger:sg:gen:n2:imperf:aff		
 forsowaniami	forsować	ger:pl:inst:n2:imperf:aff		
 forsowanie	forsować	ger:sg:nom.acc:n2:imperf:aff		
 forsowaniem	forsować	ger:sg:inst:n2:imperf:aff		
 forsowani	forsować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-forsowaniom	forsować	ger:pl:dat.loc:n2:imperf:aff		
+forsowaniom	forsować	ger:pl:dat:n2:imperf:aff		
 forsowaniu	forsować	ger:sg:dat.loc:n2:imperf:aff		
 forsowano	forsować	imps:imperf		
 forsowanych	forsować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -48955,13 +49101,14 @@ forsztelowanego	forsztelować	ppas:sg:acc:m1.m2:perf:aff
 forsztelowanego	forsztelować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
 forsztelowanej	forsztelować	ppas:sg:gen.dat.loc:f:perf:aff		
 forsztelowanemu	forsztelować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+forsztelowaniach	forsztelować	ger:pl:loc:n2:perf:aff		
 forsztelowania	forsztelować	ger:pl:nom.acc:n2:perf:aff		
 forsztelowania	forsztelować	ger:sg:gen:n2:perf:aff		
 forsztelowaniami	forsztelować	ger:pl:inst:n2:perf:aff		
 forsztelowanie	forsztelować	ger:sg:nom.acc:n2:perf:aff		
 forsztelowaniem	forsztelować	ger:sg:inst:n2:perf:aff		
 forsztelowani	forsztelować	ppas:pl:nom.voc:m1.p1:perf:aff		
-forsztelowaniom	forsztelować	ger:pl:dat.loc:n2:perf:aff		
+forsztelowaniom	forsztelować	ger:pl:dat:n2:perf:aff		
 forsztelowaniu	forsztelować	ger:sg:dat.loc:n2:perf:aff		
 forsztelowano	forsztelować	imps:perf		daw.
 forsztelowanych	forsztelować	ppas:pl:acc:m1.p1:perf:aff		
@@ -49042,13 +49189,14 @@ forsztowanego	forsztować	ppas:sg:acc:m1.m2:imperf:aff
 forsztowanego	forsztować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 forsztowanej	forsztować	ppas:sg:gen.dat.loc:f:imperf:aff		
 forsztowanemu	forsztować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+forsztowaniach	forsztować	ger:pl:loc:n2:imperf:aff		
 forsztowania	forsztować	ger:pl:nom.acc:n2:imperf:aff		
 forsztowania	forsztować	ger:sg:gen:n2:imperf:aff		
 forsztowaniami	forsztować	ger:pl:inst:n2:imperf:aff		
 forsztowanie	forsztować	ger:sg:nom.acc:n2:imperf:aff		
 forsztowaniem	forsztować	ger:sg:inst:n2:imperf:aff		
 forsztowani	forsztować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-forsztowaniom	forsztować	ger:pl:dat.loc:n2:imperf:aff		
+forsztowaniom	forsztować	ger:pl:dat:n2:imperf:aff		
 forsztowaniu	forsztować	ger:sg:dat.loc:n2:imperf:aff		
 forsztowano	forsztować	imps:imperf		bud.|daw.
 forsztowanych	forsztować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -49143,13 +49291,14 @@ forszusowanego	forszusować	ppas:sg:acc:m1.m2:imperf:aff
 forszusowanego	forszusować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 forszusowanej	forszusować	ppas:sg:gen.dat.loc:f:imperf:aff		
 forszusowanemu	forszusować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+forszusowaniach	forszusować	ger:pl:loc:n2:imperf:aff		
 forszusowania	forszusować	ger:pl:nom.acc:n2:imperf:aff		
 forszusowania	forszusować	ger:sg:gen:n2:imperf:aff		
 forszusowaniami	forszusować	ger:pl:inst:n2:imperf:aff		
 forszusowanie	forszusować	ger:sg:nom.acc:n2:imperf:aff		
 forszusowaniem	forszusować	ger:sg:inst:n2:imperf:aff		
 forszusowani	forszusować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-forszusowaniom	forszusować	ger:pl:dat.loc:n2:imperf:aff		
+forszusowaniom	forszusować	ger:pl:dat:n2:imperf:aff		
 forszusowaniu	forszusować	ger:sg:dat.loc:n2:imperf:aff		
 forszusowano	forszusować	imps:imperf		daw.
 forszusowanych	forszusować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -49343,12 +49492,13 @@ fortelącym	fortelić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 fortelącymi	fortelić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fortelą	fortelić	fin:pl:ter:imperf		daw.
 fortelcie	fortelić	impt:pl:sec:imperf		daw.
+forteleniach	fortelić	ger:pl:loc:n2:imperf:aff		
 fortelenia	fortelić	ger:pl:nom.acc:n2:imperf:aff		
 fortelenia	fortelić	ger:sg:gen:n2:imperf:aff		
 forteleniami	fortelić	ger:pl:inst:n2:imperf:aff		
 fortelenie	fortelić	ger:sg:nom.acc:n2:imperf:aff		
 forteleniem	fortelić	ger:sg:inst:n2:imperf:aff		
-forteleniom	fortelić	ger:pl:dat.loc:n2:imperf:aff		
+forteleniom	fortelić	ger:pl:dat:n2:imperf:aff		
 forteleniu	fortelić	ger:sg:dat.loc:n2:imperf:aff		
 forteleń	fortelić	ger:pl:gen:n2:imperf:aff		
 fortelę	fortelić	fin:sg:pri:imperf		daw.
@@ -49656,13 +49806,14 @@ fortragowanego	fortragować	ppas:sg:acc:m1.m2:imperf.perf:aff
 fortragowanego	fortragować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf.perf:aff		
 fortragowanej	fortragować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 fortragowanemu	fortragować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+fortragowaniach	fortragować	ger:pl:loc:n2:imperf.perf:aff		
 fortragowania	fortragować	ger:pl:nom.acc:n2:imperf.perf:aff		
 fortragowania	fortragować	ger:sg:gen:n2:imperf.perf:aff		
 fortragowaniami	fortragować	ger:pl:inst:n2:imperf.perf:aff		
 fortragowanie	fortragować	ger:sg:nom.acc:n2:imperf.perf:aff		
 fortragowaniem	fortragować	ger:sg:inst:n2:imperf.perf:aff		
 fortragowani	fortragować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-fortragowaniom	fortragować	ger:pl:dat.loc:n2:imperf.perf:aff		
+fortragowaniom	fortragować	ger:pl:dat:n2:imperf.perf:aff		
 fortragowaniu	fortragować	ger:sg:dat.loc:n2:imperf.perf:aff		
 fortragowano	fortragować	imps:imperf.perf		daw.
 fortragowanych	fortragować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -49948,13 +50099,14 @@ fortyfikowanego	fortyfikować	ppas:sg:acc:m1.m2:imperf:aff
 fortyfikowanego	fortyfikować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fortyfikowanej	fortyfikować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fortyfikowanemu	fortyfikować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fortyfikowaniach	fortyfikować	ger:pl:loc:n2:imperf:aff		
 fortyfikowania	fortyfikować	ger:pl:nom.acc:n2:imperf:aff		
 fortyfikowania	fortyfikować	ger:sg:gen:n2:imperf:aff		
 fortyfikowaniami	fortyfikować	ger:pl:inst:n2:imperf:aff		
 fortyfikowanie	fortyfikować	ger:sg:nom.acc:n2:imperf:aff		
 fortyfikowaniem	fortyfikować	ger:sg:inst:n2:imperf:aff		
 fortyfikowani	fortyfikować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fortyfikowaniom	fortyfikować	ger:pl:dat.loc:n2:imperf:aff		
+fortyfikowaniom	fortyfikować	ger:pl:dat:n2:imperf:aff		
 fortyfikowaniu	fortyfikować	ger:sg:dat.loc:n2:imperf:aff		
 fortyfikowano	fortyfikować	imps:imperf		
 fortyfikowanych	fortyfikować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -50117,13 +50269,14 @@ forwardowanego	forwardować	ppas:sg:acc:m1.m2:imperf:aff
 forwardowanego	forwardować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 forwardowanej	forwardować	ppas:sg:gen.dat.loc:f:imperf:aff		
 forwardowanemu	forwardować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+forwardowaniach	forwardować	ger:pl:loc:n2:imperf:aff		
 forwardowania	forwardować	ger:pl:nom.acc:n2:imperf:aff		
 forwardowania	forwardować	ger:sg:gen:n2:imperf:aff		
 forwardowaniami	forwardować	ger:pl:inst:n2:imperf:aff		
 forwardowanie	forwardować	ger:sg:nom.acc:n2:imperf:aff		
 forwardowaniem	forwardować	ger:sg:inst:n2:imperf:aff		
 forwardowani	forwardować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-forwardowaniom	forwardować	ger:pl:dat.loc:n2:imperf:aff		
+forwardowaniom	forwardować	ger:pl:dat:n2:imperf:aff		
 forwardowaniu	forwardować	ger:sg:dat.loc:n2:imperf:aff		
 forwardowano	forwardować	imps:imperf		pot.
 forwardowanych	forwardować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -50256,13 +50409,14 @@ forytowanego	forytować	ppas:sg:acc:m1.m2:imperf:aff
 forytowanego	forytować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 forytowanej	forytować	ppas:sg:gen.dat.loc:f:imperf:aff		
 forytowanemu	forytować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+forytowaniach	forytować	ger:pl:loc:n2:imperf:aff		
 forytowania	forytować	ger:pl:nom.acc:n2:imperf:aff		
 forytowania	forytować	ger:sg:gen:n2:imperf:aff		
 forytowaniami	forytować	ger:pl:inst:n2:imperf:aff		
 forytowanie	forytować	ger:sg:nom.acc:n2:imperf:aff		
 forytowaniem	forytować	ger:sg:inst:n2:imperf:aff		
 forytowani	forytować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-forytowaniom	forytować	ger:pl:dat.loc:n2:imperf:aff		
+forytowaniom	forytować	ger:pl:dat:n2:imperf:aff		
 forytowaniu	forytować	ger:sg:dat.loc:n2:imperf:aff		
 forytowano	forytować	imps:imperf		
 forytowanych	forytować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -50428,13 +50582,14 @@ fosfatyzowanego	fosfatyzować	ppas:sg:acc:m1.m2:imperf:aff
 fosfatyzowanego	fosfatyzować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fosfatyzowanej	fosfatyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fosfatyzowanemu	fosfatyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fosfatyzowaniach	fosfatyzować	ger:pl:loc:n2:imperf:aff		
 fosfatyzowania	fosfatyzować	ger:pl:nom.acc:n2:imperf:aff		
 fosfatyzowania	fosfatyzować	ger:sg:gen:n2:imperf:aff		
 fosfatyzowaniami	fosfatyzować	ger:pl:inst:n2:imperf:aff		
 fosfatyzowanie	fosfatyzować	ger:sg:nom.acc:n2:imperf:aff		
 fosfatyzowaniem	fosfatyzować	ger:sg:inst:n2:imperf:aff		
 fosfatyzowani	fosfatyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fosfatyzowaniom	fosfatyzować	ger:pl:dat.loc:n2:imperf:aff		
+fosfatyzowaniom	fosfatyzować	ger:pl:dat:n2:imperf:aff		
 fosfatyzowaniu	fosfatyzować	ger:sg:dat.loc:n2:imperf:aff		
 fosfatyzowano	fosfatyzować	imps:imperf		
 fosfatyzowanych	fosfatyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -50661,13 +50816,14 @@ fosforanowanego	fosforanować	ppas:sg:acc:m1.m2:imperf:aff
 fosforanowanego	fosforanować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fosforanowanej	fosforanować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fosforanowanemu	fosforanować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fosforanowaniach	fosforanować	ger:pl:loc:n2:imperf:aff		
 fosforanowania	fosforanować	ger:pl:nom.acc:n2:imperf:aff		
 fosforanowania	fosforanować	ger:sg:gen:n2:imperf:aff		
 fosforanowaniami	fosforanować	ger:pl:inst:n2:imperf:aff		
 fosforanowanie	fosforanować	ger:sg:nom.acc:n2:imperf:aff		
 fosforanowaniem	fosforanować	ger:sg:inst:n2:imperf:aff		
 fosforanowani	fosforanować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fosforanowaniom	fosforanować	ger:pl:dat.loc:n2:imperf:aff		
+fosforanowaniom	fosforanować	ger:pl:dat:n2:imperf:aff		
 fosforanowaniu	fosforanować	ger:sg:dat.loc:n2:imperf:aff		
 fosforanowano	fosforanować	imps:imperf		
 fosforanowanych	fosforanować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -51140,12 +51296,13 @@ fosforyzowały	fosforyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fosforyzowały	fosforyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fosforyzowałyście	fosforyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fosforyzowałyśmy	fosforyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+fosforyzowaniach	fosforyzować	ger:pl:loc:n2:imperf:aff		
 fosforyzowania	fosforyzować	ger:pl:nom.acc:n2:imperf:aff		
 fosforyzowania	fosforyzować	ger:sg:gen:n2:imperf:aff		
 fosforyzowaniami	fosforyzować	ger:pl:inst:n2:imperf:aff		
 fosforyzowanie	fosforyzować	ger:sg:nom.acc:n2:imperf:aff		
 fosforyzowaniem	fosforyzować	ger:sg:inst:n2:imperf:aff		
-fosforyzowaniom	fosforyzować	ger:pl:dat.loc:n2:imperf:aff		
+fosforyzowaniom	fosforyzować	ger:pl:dat:n2:imperf:aff		
 fosforyzowaniu	fosforyzować	ger:sg:dat.loc:n2:imperf:aff		
 fosforyzowano	fosforyzować	imps:imperf		
 fosforyzowań	fosforyzować	ger:pl:gen:n2:imperf:aff		
@@ -52388,13 +52545,14 @@ fotografowanego	fotografować	ppas:sg:acc:m1.m2:imperf:aff
 fotografowanego	fotografować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fotografowanej	fotografować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fotografowanemu	fotografować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fotografowaniach	fotografować	ger:pl:loc:n2:imperf:aff		
 fotografowania	fotografować	ger:pl:nom.acc:n2:imperf:aff		
 fotografowania	fotografować	ger:sg:gen:n2:imperf:aff		
 fotografowaniami	fotografować	ger:pl:inst:n2:imperf:aff		
 fotografowanie	fotografować	ger:sg:nom.acc:n2:imperf:aff		
 fotografowaniem	fotografować	ger:sg:inst:n2:imperf:aff		
 fotografowani	fotografować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fotografowaniom	fotografować	ger:pl:dat.loc:n2:imperf:aff		
+fotografowaniom	fotografować	ger:pl:dat:n2:imperf:aff		
 fotografowaniu	fotografować	ger:sg:dat.loc:n2:imperf:aff		
 fotografowano	fotografować	imps:imperf		
 fotografowanych	fotografować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -53210,13 +53368,14 @@ fotomontowanego	fotomontować	ppas:sg:acc:m1.m2:imperf:aff
 fotomontowanego	fotomontować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fotomontowanej	fotomontować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fotomontowanemu	fotomontować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fotomontowaniach	fotomontować	ger:pl:loc:n2:imperf:aff		
 fotomontowania	fotomontować	ger:pl:nom.acc:n2:imperf:aff		
 fotomontowania	fotomontować	ger:sg:gen:n2:imperf:aff		
 fotomontowaniami	fotomontować	ger:pl:inst:n2:imperf:aff		
 fotomontowanie	fotomontować	ger:sg:nom.acc:n2:imperf:aff		
 fotomontowaniem	fotomontować	ger:sg:inst:n2:imperf:aff		
 fotomontowani	fotomontować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fotomontowaniom	fotomontować	ger:pl:dat.loc:n2:imperf:aff		
+fotomontowaniom	fotomontować	ger:pl:dat:n2:imperf:aff		
 fotomontowaniu	fotomontować	ger:sg:dat.loc:n2:imperf:aff		
 fotomontowano	fotomontować	imps:imperf		
 fotomontowanych	fotomontować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -54710,13 +54869,14 @@ frachtowanego	frachtować	ppas:sg:acc:m1.m2:imperf:aff
 frachtowanego	frachtować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 frachtowanej	frachtować	ppas:sg:gen.dat.loc:f:imperf:aff		
 frachtowanemu	frachtować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frachtowaniach	frachtować	ger:pl:loc:n2:imperf:aff		
 frachtowania	frachtować	ger:pl:nom.acc:n2:imperf:aff		
 frachtowania	frachtować	ger:sg:gen:n2:imperf:aff		
 frachtowaniami	frachtować	ger:pl:inst:n2:imperf:aff		
 frachtowanie	frachtować	ger:sg:nom.acc:n2:imperf:aff		
 frachtowaniem	frachtować	ger:sg:inst:n2:imperf:aff		
 frachtowani	frachtować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-frachtowaniom	frachtować	ger:pl:dat.loc:n2:imperf:aff		
+frachtowaniom	frachtować	ger:pl:dat:n2:imperf:aff		
 frachtowaniu	frachtować	ger:sg:dat.loc:n2:imperf:aff		
 frachtowano	frachtować	imps:imperf		
 frachtowanych	frachtować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -55181,12 +55341,13 @@ frajerowały	frajerować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 frajerowały	frajerować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 frajerowałyście	frajerować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 frajerowałyśmy	frajerować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+frajerowaniach	frajerować	ger:pl:loc:n2:imperf:aff		
 frajerowania	frajerować	ger:pl:nom.acc:n2:imperf:aff		
 frajerowania	frajerować	ger:sg:gen:n2:imperf:aff		
 frajerowaniami	frajerować	ger:pl:inst:n2:imperf:aff		
 frajerowanie	frajerować	ger:sg:nom.acc:n2:imperf:aff		
 frajerowaniem	frajerować	ger:sg:inst:n2:imperf:aff		
-frajerowaniom	frajerować	ger:pl:dat.loc:n2:imperf:aff		
+frajerowaniom	frajerować	ger:pl:dat:n2:imperf:aff		
 frajerowaniu	frajerować	ger:sg:dat.loc:n2:imperf:aff		
 frajerowano	frajerować	imps:imperf		
 frajerowań	frajerować	ger:pl:gen:n2:imperf:aff		
@@ -55375,13 +55536,14 @@ frakcjonowanego	frakcjonować	ppas:sg:acc:m1.m2:imperf:aff
 frakcjonowanego	frakcjonować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 frakcjonowanej	frakcjonować	ppas:sg:gen.dat.loc:f:imperf:aff		
 frakcjonowanemu	frakcjonować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frakcjonowaniach	frakcjonować	ger:pl:loc:n2:imperf:aff		
 frakcjonowania	frakcjonować	ger:pl:nom.acc:n2:imperf:aff		
 frakcjonowania	frakcjonować	ger:sg:gen:n2:imperf:aff		
 frakcjonowaniami	frakcjonować	ger:pl:inst:n2:imperf:aff		
 frakcjonowanie	frakcjonować	ger:sg:nom.acc:n2:imperf:aff		
 frakcjonowaniem	frakcjonować	ger:sg:inst:n2:imperf:aff		
 frakcjonowani	frakcjonować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-frakcjonowaniom	frakcjonować	ger:pl:dat.loc:n2:imperf:aff		
+frakcjonowaniom	frakcjonować	ger:pl:dat:n2:imperf:aff		
 frakcjonowaniu	frakcjonować	ger:sg:dat.loc:n2:imperf:aff		
 frakcjonowano	frakcjonować	imps:imperf		
 frakcjonowanych	frakcjonować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -55985,13 +56147,14 @@ francuziącymi	francuzić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 francuzią	francuzić	fin:pl:ter:imperf		
 francuzicie	francuzić	fin:pl:sec:imperf		
 francuzić	francuzić	inf:imperf		
+francuzieniach	francuzić	ger:pl:loc:n2:imperf:aff		
 francuzienia	francuzić	ger:pl:nom.acc:n2:imperf:aff		
 francuzienia	francuzić	ger:sg:gen:n2:imperf:aff		
 francuzieniami	francuzić	ger:pl:inst:n2:imperf:aff		
 francuzienie	francuzić	ger:sg:nom.acc:n2:imperf:aff		
 francuzieniem	francuzić	ger:sg:inst:n2:imperf:aff		
 francuzieni	francuzić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-francuzieniom	francuzić	ger:pl:dat.loc:n2:imperf:aff		
+francuzieniom	francuzić	ger:pl:dat:n2:imperf:aff		
 francuzieniu	francuzić	ger:sg:dat.loc:n2:imperf:aff		
 francuzień	francuzić	ger:pl:gen:n2:imperf:aff		
 francuzię	francuzić	fin:sg:pri:imperf		
@@ -56070,13 +56233,14 @@ francużącym	francuzić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 francużącym	francuzić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 francużącymi	francuzić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 francużą	francuzić	fin:pl:ter:imperf		
+francużeniach	francuzić	ger:pl:loc:n2:imperf:aff		
 francużenia	francuzić	ger:pl:nom.acc:n2:imperf:aff		
 francużenia	francuzić	ger:sg:gen:n2:imperf:aff		
 francużeniami	francuzić	ger:pl:inst:n2:imperf:aff		
 francużenie	francuzić	ger:sg:nom.acc:n2:imperf:aff		
 francużeniem	francuzić	ger:sg:inst:n2:imperf:aff		
 francużeni	francuzić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-francużeniom	francuzić	ger:pl:dat.loc:n2:imperf:aff		
+francużeniom	francuzić	ger:pl:dat:n2:imperf:aff		
 francużeniu	francuzić	ger:sg:dat.loc:n2:imperf:aff		
 francużeń	francuzić	ger:pl:gen:n2:imperf:aff		
 francużę	francuzić	fin:sg:pri:imperf		
@@ -56159,12 +56323,13 @@ francuzieli	francuzieć	praet:pl:m1.p1:imperf
 francuzieli	francuzieć	praet:pl:m1.p1:ter:imperf		
 francuzieliście	francuzieć	praet:pl:m1.p1:sec:imperf		
 francuzieliśmy	francuzieć	praet:pl:m1.p1:pri:imperf		
+francuzieniach	francuzieć	ger:pl:loc:n2:imperf:aff		
 francuzienia	francuzieć	ger:pl:nom.acc:n2:imperf:aff		
 francuzienia	francuzieć	ger:sg:gen:n2:imperf:aff		
 francuzieniami	francuzieć	ger:pl:inst:n2:imperf:aff		
 francuzienie	francuzieć	ger:sg:nom.acc:n2:imperf:aff		
 francuzieniem	francuzieć	ger:sg:inst:n2:imperf:aff		
-francuzieniom	francuzieć	ger:pl:dat.loc:n2:imperf:aff		
+francuzieniom	francuzieć	ger:pl:dat:n2:imperf:aff		
 francuzieniu	francuzieć	ger:sg:dat.loc:n2:imperf:aff		
 francuzień	francuzieć	ger:pl:gen:n2:imperf:aff		
 francuzach	francuz:s1	subst:pl:loc:m1	pospolita	pot.|środ.
@@ -56808,13 +56973,14 @@ frankowanego	frankować	ppas:sg:acc:m1.m2:imperf:aff
 frankowanego	frankować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 frankowanej	frankować	ppas:sg:gen.dat.loc:f:imperf:aff		
 frankowanemu	frankować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frankowaniach	frankować	ger:pl:loc:n2:imperf:aff		
 frankowania	frankować	ger:pl:nom.acc:n2:imperf:aff		
 frankowania	frankować	ger:sg:gen:n2:imperf:aff		
 frankowaniami	frankować	ger:pl:inst:n2:imperf:aff		
 frankowanie	frankować	ger:sg:nom.acc:n2:imperf:aff		
 frankowaniem	frankować	ger:sg:inst:n2:imperf:aff		
 frankowani	frankować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-frankowaniom	frankować	ger:pl:dat.loc:n2:imperf:aff		
+frankowaniom	frankować	ger:pl:dat:n2:imperf:aff		
 frankowaniu	frankować	ger:sg:dat.loc:n2:imperf:aff		
 frankowano	frankować	imps:imperf		przest.
 frankowanych	frankować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -57053,12 +57219,13 @@ frantowały	frantować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 frantowały	frantować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 frantowałyście	frantować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 frantowałyśmy	frantować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+frantowaniach	frantować	ger:pl:loc:n2:imperf:aff		
 frantowania	frantować	ger:pl:nom.acc:n2:imperf:aff		
 frantowania	frantować	ger:sg:gen:n2:imperf:aff		
 frantowaniami	frantować	ger:pl:inst:n2:imperf:aff		
 frantowanie	frantować	ger:sg:nom.acc:n2:imperf:aff		
 frantowaniem	frantować	ger:sg:inst:n2:imperf:aff		
-frantowaniom	frantować	ger:pl:dat.loc:n2:imperf:aff		
+frantowaniom	frantować	ger:pl:dat:n2:imperf:aff		
 frantowaniu	frantować	ger:sg:dat.loc:n2:imperf:aff		
 frantowano	frantować	imps:imperf		daw.
 frantowań	frantować	ger:pl:gen:n2:imperf:aff		
@@ -57186,13 +57353,14 @@ frapowanego	frapować	ppas:sg:acc:m1.m2:imperf:aff
 frapowanego	frapować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 frapowanej	frapować	ppas:sg:gen.dat.loc:f:imperf:aff		
 frapowanemu	frapować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frapowaniach	frapować	ger:pl:loc:n2:imperf:aff		
 frapowania	frapować	ger:pl:nom.acc:n2:imperf:aff		
 frapowania	frapować	ger:sg:gen:n2:imperf:aff		
 frapowaniami	frapować	ger:pl:inst:n2:imperf:aff		
 frapowanie	frapować	ger:sg:nom.acc:n2:imperf:aff		
 frapowaniem	frapować	ger:sg:inst:n2:imperf:aff		
 frapowani	frapować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-frapowaniom	frapować	ger:pl:dat.loc:n2:imperf:aff		
+frapowaniom	frapować	ger:pl:dat:n2:imperf:aff		
 frapowaniu	frapować	ger:sg:dat.loc:n2:imperf:aff		
 frapowano	frapować	imps:imperf		
 frapowanych	frapować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -57338,13 +57506,14 @@ frasowanego	frasować	ppas:sg:acc:m1.m2:imperf:aff
 frasowanego	frasować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 frasowanej	frasować	ppas:sg:gen.dat.loc:f:imperf:aff		
 frasowanemu	frasować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frasowaniach	frasować	ger:pl:loc:n2:imperf:aff		
 frasowania	frasować	ger:pl:nom.acc:n2:imperf:aff		
 frasowania	frasować	ger:sg:gen:n2:imperf:aff		
 frasowaniami	frasować	ger:pl:inst:n2:imperf:aff		
 frasowanie	frasować	ger:sg:nom.acc:n2:imperf:aff		
 frasowaniem	frasować	ger:sg:inst:n2:imperf:aff		
 frasowani	frasować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-frasowaniom	frasować	ger:pl:dat.loc:n2:imperf:aff		
+frasowaniom	frasować	ger:pl:dat:n2:imperf:aff		
 frasowaniu	frasować	ger:sg:dat.loc:n2:imperf:aff		
 frasowano	frasować	imps:imperf		przest.
 frasowanych	frasować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -57631,12 +57800,13 @@ fraternizowały	fraternizować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fraternizowały	fraternizować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fraternizowałyście	fraternizować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fraternizowałyśmy	fraternizować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+fraternizowaniach	fraternizować	ger:pl:loc:n2:imperf:aff		
 fraternizowania	fraternizować	ger:pl:nom.acc:n2:imperf:aff		
 fraternizowania	fraternizować	ger:sg:gen:n2:imperf:aff		
 fraternizowaniami	fraternizować	ger:pl:inst:n2:imperf:aff		
 fraternizowanie	fraternizować	ger:sg:nom.acc:n2:imperf:aff		
 fraternizowaniem	fraternizować	ger:sg:inst:n2:imperf:aff		
-fraternizowaniom	fraternizować	ger:pl:dat.loc:n2:imperf:aff		
+fraternizowaniom	fraternizować	ger:pl:dat:n2:imperf:aff		
 fraternizowaniu	fraternizować	ger:sg:dat.loc:n2:imperf:aff		
 fraternizowano	fraternizować	imps:imperf		
 fraternizowań	fraternizować	ger:pl:gen:n2:imperf:aff		
@@ -57854,13 +58024,14 @@ frazeologizowanego	frazeologizować	ppas:sg:acc:m1.m2:imperf:aff
 frazeologizowanego	frazeologizować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 frazeologizowanej	frazeologizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 frazeologizowanemu	frazeologizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frazeologizowaniach	frazeologizować	ger:pl:loc:n2:imperf:aff		
 frazeologizowania	frazeologizować	ger:pl:nom.acc:n2:imperf:aff		
 frazeologizowania	frazeologizować	ger:sg:gen:n2:imperf:aff		
 frazeologizowaniami	frazeologizować	ger:pl:inst:n2:imperf:aff		
 frazeologizowanie	frazeologizować	ger:sg:nom.acc:n2:imperf:aff		
 frazeologizowaniem	frazeologizować	ger:sg:inst:n2:imperf:aff		
 frazeologizowani	frazeologizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-frazeologizowaniom	frazeologizować	ger:pl:dat.loc:n2:imperf:aff		
+frazeologizowaniom	frazeologizować	ger:pl:dat:n2:imperf:aff		
 frazeologizowaniu	frazeologizować	ger:sg:dat.loc:n2:imperf:aff		
 frazeologizowano	frazeologizować	imps:imperf		rzad.
 frazeologizowanych	frazeologizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -58037,13 +58208,14 @@ frazowanego	frazować	ppas:sg:acc:m1.m2:imperf:aff
 frazowanego	frazować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 frazowanej	frazować	ppas:sg:gen.dat.loc:f:imperf:aff		
 frazowanemu	frazować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frazowaniach	frazować	ger:pl:loc:n2:imperf:aff		
 frazowania	frazować	ger:pl:nom.acc:n2:imperf:aff		
 frazowania	frazować	ger:sg:gen:n2:imperf:aff		
 frazowaniami	frazować	ger:pl:inst:n2:imperf:aff		
 frazowanie	frazować	ger:sg:nom.acc:n2:imperf:aff		
 frazowaniem	frazować	ger:sg:inst:n2:imperf:aff		
 frazowani	frazować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-frazowaniom	frazować	ger:pl:dat.loc:n2:imperf:aff		
+frazowaniom	frazować	ger:pl:dat:n2:imperf:aff		
 frazowaniu	frazować	ger:sg:dat.loc:n2:imperf:aff		
 frazowano	frazować	imps:imperf		
 frazowanych	frazować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -58562,13 +58734,14 @@ frekwentowanego	frekwentować	ppas:sg:acc:m1.m2:imperf:aff
 frekwentowanego	frekwentować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 frekwentowanej	frekwentować	ppas:sg:gen.dat.loc:f:imperf:aff		
 frekwentowanemu	frekwentować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frekwentowaniach	frekwentować	ger:pl:loc:n2:imperf:aff		
 frekwentowania	frekwentować	ger:pl:nom.acc:n2:imperf:aff		
 frekwentowania	frekwentować	ger:sg:gen:n2:imperf:aff		
 frekwentowaniami	frekwentować	ger:pl:inst:n2:imperf:aff		
 frekwentowanie	frekwentować	ger:sg:nom.acc:n2:imperf:aff		
 frekwentowaniem	frekwentować	ger:sg:inst:n2:imperf:aff		
 frekwentowani	frekwentować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-frekwentowaniom	frekwentować	ger:pl:dat.loc:n2:imperf:aff		
+frekwentowaniom	frekwentować	ger:pl:dat:n2:imperf:aff		
 frekwentowaniu	frekwentować	ger:sg:dat.loc:n2:imperf:aff		
 frekwentowano	frekwentować	imps:imperf		daw.
 frekwentowanych	frekwentować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -58885,13 +59058,14 @@ freskowanego	freskować	ppas:sg:acc:m1.m2:imperf:aff
 freskowanego	freskować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 freskowanej	freskować	ppas:sg:gen.dat.loc:f:imperf:aff		
 freskowanemu	freskować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+freskowaniach	freskować	ger:pl:loc:n2:imperf:aff		
 freskowania	freskować	ger:pl:nom.acc:n2:imperf:aff		
 freskowania	freskować	ger:sg:gen:n2:imperf:aff		
 freskowaniami	freskować	ger:pl:inst:n2:imperf:aff		
 freskowanie	freskować	ger:sg:nom.acc:n2:imperf:aff		
 freskowaniem	freskować	ger:sg:inst:n2:imperf:aff		
 freskowani	freskować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-freskowaniom	freskować	ger:pl:dat.loc:n2:imperf:aff		
+freskowaniom	freskować	ger:pl:dat:n2:imperf:aff		
 freskowaniu	freskować	ger:sg:dat.loc:n2:imperf:aff		
 freskowano	freskować	imps:imperf		
 freskowanych	freskować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -59209,13 +59383,14 @@ frezowanego	frezować	ppas:sg:acc:m1.m2:imperf:aff
 frezowanego	frezować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 frezowanej	frezować	ppas:sg:gen.dat.loc:f:imperf:aff		
 frezowanemu	frezować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frezowaniach	frezować	ger:pl:loc:n2:imperf:aff		
 frezowania	frezować	ger:pl:nom.acc:n2:imperf:aff		
 frezowania	frezować	ger:sg:gen:n2:imperf:aff		
 frezowaniami	frezować	ger:pl:inst:n2:imperf:aff		
 frezowanie	frezować	ger:sg:nom.acc:n2:imperf:aff		
 frezowaniem	frezować	ger:sg:inst:n2:imperf:aff		
 frezowani	frezować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-frezowaniom	frezować	ger:pl:dat.loc:n2:imperf:aff		
+frezowaniom	frezować	ger:pl:dat:n2:imperf:aff		
 frezowaniu	frezować	ger:sg:dat.loc:n2:imperf:aff		
 frezowano	frezować	imps:imperf		techn.
 frezowanych	frezować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -59466,13 +59641,14 @@ frędzlowanego	frędzlować	ppas:sg:acc:m1.m2:imperf:aff
 frędzlowanego	frędzlować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 frędzlowanej	frędzlować	ppas:sg:gen.dat.loc:f:imperf:aff		
 frędzlowanemu	frędzlować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frędzlowaniach	frędzlować	ger:pl:loc:n2:imperf:aff		
 frędzlowania	frędzlować	ger:pl:nom.acc:n2:imperf:aff		
 frędzlowania	frędzlować	ger:sg:gen:n2:imperf:aff		
 frędzlowaniami	frędzlować	ger:pl:inst:n2:imperf:aff		
 frędzlowanie	frędzlować	ger:sg:nom.acc:n2:imperf:aff		
 frędzlowaniem	frędzlować	ger:sg:inst:n2:imperf:aff		
 frędzlowani	frędzlować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-frędzlowaniom	frędzlować	ger:pl:dat.loc:n2:imperf:aff		
+frędzlowaniom	frędzlować	ger:pl:dat:n2:imperf:aff		
 frędzlowaniu	frędzlować	ger:sg:dat.loc:n2:imperf:aff		
 frędzlowano	frędzlować	imps:imperf		
 frędzlowanych	frędzlować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -59706,12 +59882,13 @@ frondowały	frondować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
 frondowały	frondować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
 frondowałyście	frondować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
 frondowałyśmy	frondować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+frondowaniach	frondować	ger:pl:loc:n2:imperf:aff		
 frondowania	frondować	ger:pl:nom.acc:n2:imperf:aff		
 frondowania	frondować	ger:sg:gen:n2:imperf:aff		
 frondowaniami	frondować	ger:pl:inst:n2:imperf:aff		
 frondowanie	frondować	ger:sg:nom.acc:n2:imperf:aff		
 frondowaniem	frondować	ger:sg:inst:n2:imperf:aff		
-frondowaniom	frondować	ger:pl:dat.loc:n2:imperf:aff		
+frondowaniom	frondować	ger:pl:dat:n2:imperf:aff		
 frondowaniu	frondować	ger:sg:dat.loc:n2:imperf:aff		
 frondowano	frondować	imps:imperf		rzad.
 frondowań	frondować	ger:pl:gen:n2:imperf:aff		
@@ -60137,13 +60314,14 @@ froterowanego	froterować	ppas:sg:acc:m1.m2:imperf:aff
 froterowanego	froterować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 froterowanej	froterować	ppas:sg:gen.dat.loc:f:imperf:aff		
 froterowanemu	froterować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+froterowaniach	froterować	ger:pl:loc:n2:imperf:aff		
 froterowania	froterować	ger:pl:nom.acc:n2:imperf:aff		
 froterowania	froterować	ger:sg:gen:n2:imperf:aff		
 froterowaniami	froterować	ger:pl:inst:n2:imperf:aff		
 froterowanie	froterować	ger:sg:nom.acc:n2:imperf:aff		
 froterowaniem	froterować	ger:sg:inst:n2:imperf:aff		
 froterowani	froterować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-froterowaniom	froterować	ger:pl:dat.loc:n2:imperf:aff		
+froterowaniom	froterować	ger:pl:dat:n2:imperf:aff		
 froterowaniu	froterować	ger:sg:dat.loc:n2:imperf:aff		
 froterowano	froterować	imps:imperf		
 froterowanych	froterować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -60418,12 +60596,13 @@ fruczeli	fruczeć	praet:pl:m1.p1:imperf		daw.
 fruczeli	fruczeć	praet:pl:m1.p1:ter:imperf		daw.
 fruczeliście	fruczeć	praet:pl:m1.p1:sec:imperf		daw.
 fruczeliśmy	fruczeć	praet:pl:m1.p1:pri:imperf		daw.
+fruczeniach	fruczeć	ger:pl:loc:n2:imperf:aff		
 fruczenia	fruczeć	ger:pl:nom.acc:n2:imperf:aff		
 fruczenia	fruczeć	ger:sg:gen:n2:imperf:aff		
 fruczeniami	fruczeć	ger:pl:inst:n2:imperf:aff		
 fruczenie	fruczeć	ger:sg:nom.acc:n2:imperf:aff		
 fruczeniem	fruczeć	ger:sg:inst:n2:imperf:aff		
-fruczeniom	fruczeć	ger:pl:dat.loc:n2:imperf:aff		
+fruczeniom	fruczeć	ger:pl:dat:n2:imperf:aff		
 fruczeniu	fruczeć	ger:sg:dat.loc:n2:imperf:aff		
 fruczeń	fruczeć	ger:pl:gen:n2:imperf:aff		
 fruczę	fruczeć	fin:sg:pri:imperf		daw.
@@ -60564,12 +60743,13 @@ fruktyfikowały	fruktyfikować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 fruktyfikowały	fruktyfikować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 fruktyfikowałyście	fruktyfikować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 fruktyfikowałyśmy	fruktyfikować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+fruktyfikowaniach	fruktyfikować	ger:pl:loc:n2:imperf:aff		
 fruktyfikowania	fruktyfikować	ger:pl:nom.acc:n2:imperf:aff		
 fruktyfikowania	fruktyfikować	ger:sg:gen:n2:imperf:aff		
 fruktyfikowaniami	fruktyfikować	ger:pl:inst:n2:imperf:aff		
 fruktyfikowanie	fruktyfikować	ger:sg:nom.acc:n2:imperf:aff		
 fruktyfikowaniem	fruktyfikować	ger:sg:inst:n2:imperf:aff		
-fruktyfikowaniom	fruktyfikować	ger:pl:dat.loc:n2:imperf:aff		
+fruktyfikowaniom	fruktyfikować	ger:pl:dat:n2:imperf:aff		
 fruktyfikowaniu	fruktyfikować	ger:sg:dat.loc:n2:imperf:aff		
 fruktyfikowano	fruktyfikować	imps:imperf		daw.
 fruktyfikowań	fruktyfikować	ger:pl:gen:n2:imperf:aff		
@@ -60624,12 +60804,13 @@ frullato	frullato	subst:sg:nom:n2	pospolita	muz.
 frullato	frullato	subst:sg:voc:n2	pospolita	muz.
 frullatom	frullato	subst:pl:dat:n2	pospolita	muz.
 frullatu	frullato	subst:sg:dat:n2	pospolita	muz.
+frunięciach	frunąć:v	ger:pl:loc:n2:perf:aff		
 frunięcia	frunąć:v	ger:pl:nom.acc:n2:perf:aff		
 frunięcia	frunąć:v	ger:sg:gen:n2:perf:aff		
 frunięciami	frunąć:v	ger:pl:inst:n2:perf:aff		
 frunięcie	frunąć:v	ger:sg:nom.acc:n2:perf:aff		
 frunięciem	frunąć:v	ger:sg:inst:n2:perf:aff		
-frunięciom	frunąć:v	ger:pl:dat.loc:n2:perf:aff		
+frunięciom	frunąć:v	ger:pl:dat:n2:perf:aff		
 frunięciu	frunąć:v	ger:sg:dat.loc:n2:perf:aff		
 frunięć	frunąć:v	ger:pl:gen:n2:perf:aff		
 frunąca	frunąć:v	pact:sg:nom.voc:f:imperf:aff		
@@ -60648,12 +60829,13 @@ frunący	frunąć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff
 frunącym	frunąć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 frunącym	frunąć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 frunącymi	frunąć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+frunięciach	frunąć:v	ger:pl:loc:n2:imperf:aff		
 frunięcia	frunąć:v	ger:pl:nom.acc:n2:imperf:aff		
 frunięcia	frunąć:v	ger:sg:gen:n2:imperf:aff		
 frunięciami	frunąć:v	ger:pl:inst:n2:imperf:aff		
 frunięcie	frunąć:v	ger:sg:nom.acc:n2:imperf:aff		
 frunięciem	frunąć:v	ger:sg:inst:n2:imperf:aff		
-frunięciom	frunąć:v	ger:pl:dat.loc:n2:imperf:aff		
+frunięciom	frunąć:v	ger:pl:dat:n2:imperf:aff		
 frunięciu	frunąć:v	ger:sg:dat.loc:n2:imperf:aff		
 frunięć	frunąć:v	ger:pl:gen:n2:imperf:aff		
 frunąć	frunąć:v1	inf:perf		
@@ -60918,13 +61100,14 @@ frustrowanego	frustrować	ppas:sg:acc:m1.m2:imperf:aff
 frustrowanego	frustrować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 frustrowanej	frustrować	ppas:sg:gen.dat.loc:f:imperf:aff		
 frustrowanemu	frustrować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frustrowaniach	frustrować	ger:pl:loc:n2:imperf:aff		
 frustrowania	frustrować	ger:pl:nom.acc:n2:imperf:aff		
 frustrowania	frustrować	ger:sg:gen:n2:imperf:aff		
 frustrowaniami	frustrować	ger:pl:inst:n2:imperf:aff		
 frustrowanie	frustrować	ger:sg:nom.acc:n2:imperf:aff		
 frustrowaniem	frustrować	ger:sg:inst:n2:imperf:aff		
 frustrowani	frustrować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-frustrowaniom	frustrować	ger:pl:dat.loc:n2:imperf:aff		
+frustrowaniom	frustrować	ger:pl:dat:n2:imperf:aff		
 frustrowaniu	frustrować	ger:sg:dat.loc:n2:imperf:aff		
 frustrowano	frustrować	imps:imperf		
 frustrowanych	frustrować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -61105,12 +61288,13 @@ fruwałyście	fruwać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 fruwałyśmy	fruwać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 fruwam	fruwać	fin:sg:pri:imperf		
 fruwamy	fruwać	fin:pl:pri:imperf		
+fruwaniach	fruwać	ger:pl:loc:n2:imperf:aff		
 fruwania	fruwać	ger:pl:nom.acc:n2:imperf:aff		
 fruwania	fruwać	ger:sg:gen:n2:imperf:aff		
 fruwaniami	fruwać	ger:pl:inst:n2:imperf:aff		
 fruwanie	fruwać	ger:sg:nom.acc:n2:imperf:aff		
 fruwaniem	fruwać	ger:sg:inst:n2:imperf:aff		
-fruwaniom	fruwać	ger:pl:dat.loc:n2:imperf:aff		
+fruwaniom	fruwać	ger:pl:dat:n2:imperf:aff		
 fruwaniu	fruwać	ger:sg:dat.loc:n2:imperf:aff		
 fruwano	fruwać	imps:imperf		
 fruwań	fruwać	ger:pl:gen:n2:imperf:aff		
@@ -61282,13 +61466,14 @@ frycowanego	frycować	ppas:sg:acc:m1.m2:imperf:aff
 frycowanego	frycować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 frycowanej	frycować	ppas:sg:gen.dat.loc:f:imperf:aff		
 frycowanemu	frycować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frycowaniach	frycować	ger:pl:loc:n2:imperf:aff		
 frycowania	frycować	ger:pl:nom.acc:n2:imperf:aff		
 frycowania	frycować	ger:sg:gen:n2:imperf:aff		
 frycowaniami	frycować	ger:pl:inst:n2:imperf:aff		
 frycowanie	frycować	ger:sg:nom.acc:n2:imperf:aff		
 frycowaniem	frycować	ger:sg:inst:n2:imperf:aff		
 frycowani	frycować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-frycowaniom	frycować	ger:pl:dat.loc:n2:imperf:aff		
+frycowaniom	frycować	ger:pl:dat:n2:imperf:aff		
 frycowaniu	frycować	ger:sg:dat.loc:n2:imperf:aff		
 frycowano	frycować	imps:imperf		przest.
 frycowanych	frycować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -61476,13 +61661,14 @@ fryganego	frygać	ppas:sg:acc:m1.m2:imperf:aff
 fryganego	frygać	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fryganej	frygać	ppas:sg:gen.dat.loc:f:imperf:aff		
 fryganemu	frygać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fryganiach	frygać	ger:pl:loc:n2:imperf:aff		
 frygania	frygać	ger:pl:nom.acc:n2:imperf:aff		
 frygania	frygać	ger:sg:gen:n2:imperf:aff		
 fryganiami	frygać	ger:pl:inst:n2:imperf:aff		
 fryganie	frygać	ger:sg:nom.acc:n2:imperf:aff		
 fryganiem	frygać	ger:sg:inst:n2:imperf:aff		
 frygani	frygać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fryganiom	frygać	ger:pl:dat.loc:n2:imperf:aff		
+fryganiom	frygać	ger:pl:dat:n2:imperf:aff		
 fryganiu	frygać	ger:sg:dat.loc:n2:imperf:aff		
 frygano	frygać	imps:imperf		
 fryganych	frygać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -61605,13 +61791,14 @@ frygniecie	frygnąć	fin:pl:sec:perf
 frygnie	frygnąć	fin:sg:ter:perf		
 frygniemy	frygnąć	fin:pl:pri:perf		
 frygniesz	frygnąć	fin:sg:sec:perf		
+frygnięciach	frygnąć	ger:pl:loc:n2:perf:aff		
 frygnięcia	frygnąć	ger:pl:nom.acc:n2:perf:aff		
 frygnięcia	frygnąć	ger:sg:gen:n2:perf:aff		
 frygnięciami	frygnąć	ger:pl:inst:n2:perf:aff		
 frygnięcie	frygnąć	ger:sg:nom.acc:n2:perf:aff		
 frygnięciem	frygnąć	ger:sg:inst:n2:perf:aff		
 frygnięci	frygnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-frygnięciom	frygnąć	ger:pl:dat.loc:n2:perf:aff		
+frygnięciom	frygnąć	ger:pl:dat:n2:perf:aff		
 frygnięciu	frygnąć	ger:sg:dat.loc:n2:perf:aff		
 frygnięć	frygnąć	ger:pl:gen:n2:perf:aff		
 frygnięta	frygnąć	ppas:sg:nom.voc:f:perf:aff		
@@ -61786,13 +61973,14 @@ frykasowanego	frykasować	ppas:sg:acc:m1.m2:imperf:aff
 frykasowanego	frykasować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 frykasowanej	frykasować	ppas:sg:gen.dat.loc:f:imperf:aff		
 frykasowanemu	frykasować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frykasowaniach	frykasować	ger:pl:loc:n2:imperf:aff		
 frykasowania	frykasować	ger:pl:nom.acc:n2:imperf:aff		
 frykasowania	frykasować	ger:sg:gen:n2:imperf:aff		
 frykasowaniami	frykasować	ger:pl:inst:n2:imperf:aff		
 frykasowanie	frykasować	ger:sg:nom.acc:n2:imperf:aff		
 frykasowaniem	frykasować	ger:sg:inst:n2:imperf:aff		
 frykasowani	frykasować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-frykasowaniom	frykasować	ger:pl:dat.loc:n2:imperf:aff		
+frykasowaniom	frykasować	ger:pl:dat:n2:imperf:aff		
 frykasowaniu	frykasować	ger:sg:dat.loc:n2:imperf:aff		
 frykasowano	frykasować	imps:imperf		daw.
 frykasowanych	frykasować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -61977,12 +62165,13 @@ frymarczącym	frymarczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff
 frymarczącymi	frymarczyć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 frymarczą	frymarczyć	fin:pl:ter:imperf		przest.
 frymarczcie	frymarczyć	impt:pl:sec:imperf		przest.
+frymarczeniach	frymarczyć	ger:pl:loc:n2:imperf:aff		
 frymarczenia	frymarczyć	ger:pl:nom.acc:n2:imperf:aff		
 frymarczenia	frymarczyć	ger:sg:gen:n2:imperf:aff		
 frymarczeniami	frymarczyć	ger:pl:inst:n2:imperf:aff		
 frymarczenie	frymarczyć	ger:sg:nom.acc:n2:imperf:aff		
 frymarczeniem	frymarczyć	ger:sg:inst:n2:imperf:aff		
-frymarczeniom	frymarczyć	ger:pl:dat.loc:n2:imperf:aff		
+frymarczeniom	frymarczyć	ger:pl:dat:n2:imperf:aff		
 frymarczeniu	frymarczyć	ger:sg:dat.loc:n2:imperf:aff		
 frymarczeń	frymarczyć	ger:pl:gen:n2:imperf:aff		
 frymarczę	frymarczyć	fin:sg:pri:imperf		przest.
@@ -62262,13 +62451,14 @@ fryszowanego	fryszować	ppas:sg:acc:m1.m2:imperf:aff
 fryszowanego	fryszować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fryszowanej	fryszować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fryszowanemu	fryszować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fryszowaniach	fryszować	ger:pl:loc:n2:imperf:aff		
 fryszowania	fryszować	ger:pl:nom.acc:n2:imperf:aff		
 fryszowania	fryszować	ger:sg:gen:n2:imperf:aff		
 fryszowaniami	fryszować	ger:pl:inst:n2:imperf:aff		
 fryszowanie	fryszować	ger:sg:nom.acc:n2:imperf:aff		
 fryszowaniem	fryszować	ger:sg:inst:n2:imperf:aff		
 fryszowani	fryszować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fryszowaniom	fryszować	ger:pl:dat.loc:n2:imperf:aff		
+fryszowaniom	fryszować	ger:pl:dat:n2:imperf:aff		
 fryszowaniu	fryszować	ger:sg:dat.loc:n2:imperf:aff		
 fryszowano	fryszować	imps:imperf		przest.
 fryszowanych	fryszować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -62530,12 +62720,13 @@ frywolnieli	frywolnieć	praet:pl:m1.p1:imperf
 frywolnieli	frywolnieć	praet:pl:m1.p1:ter:imperf		
 frywolnieliście	frywolnieć	praet:pl:m1.p1:sec:imperf		
 frywolnieliśmy	frywolnieć	praet:pl:m1.p1:pri:imperf		
+frywolnieniach	frywolnieć	ger:pl:loc:n2:imperf:aff		
 frywolnienia	frywolnieć	ger:pl:nom.acc:n2:imperf:aff		
 frywolnienia	frywolnieć	ger:sg:gen:n2:imperf:aff		
 frywolnieniami	frywolnieć	ger:pl:inst:n2:imperf:aff		
 frywolnienie	frywolnieć	ger:sg:nom.acc:n2:imperf:aff		
 frywolnieniem	frywolnieć	ger:sg:inst:n2:imperf:aff		
-frywolnieniom	frywolnieć	ger:pl:dat.loc:n2:imperf:aff		
+frywolnieniom	frywolnieć	ger:pl:dat:n2:imperf:aff		
 frywolnieniu	frywolnieć	ger:sg:dat.loc:n2:imperf:aff		
 frywolnień	frywolnieć	ger:pl:gen:n2:imperf:aff		
 frywolnościach	frywolność	subst:pl:loc:f		
@@ -62846,13 +63037,14 @@ fryzowanego	fryzować	ppas:sg:acc:m1.m2:imperf:aff
 fryzowanego	fryzować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fryzowanej	fryzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fryzowanemu	fryzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fryzowaniach	fryzować	ger:pl:loc:n2:imperf:aff		
 fryzowania	fryzować	ger:pl:nom.acc:n2:imperf:aff		
 fryzowania	fryzować	ger:sg:gen:n2:imperf:aff		
 fryzowaniami	fryzować	ger:pl:inst:n2:imperf:aff		
 fryzowanie	fryzować	ger:sg:nom.acc:n2:imperf:aff		
 fryzowaniem	fryzować	ger:sg:inst:n2:imperf:aff		
 fryzowani	fryzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fryzowaniom	fryzować	ger:pl:dat.loc:n2:imperf:aff		
+fryzowaniom	fryzować	ger:pl:dat:n2:imperf:aff		
 fryzowaniu	fryzować	ger:sg:dat.loc:n2:imperf:aff		
 fryzowano	fryzować	imps:imperf		
 fryzowanych	fryzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -63534,13 +63726,14 @@ fugowanego	fugować	ppas:sg:acc:m1.m2:imperf:aff
 fugowanego	fugować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fugowanej	fugować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fugowanemu	fugować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fugowaniach	fugować	ger:pl:loc:n2:imperf:aff		
 fugowania	fugować	ger:pl:nom.acc:n2:imperf:aff		
 fugowania	fugować	ger:sg:gen:n2:imperf:aff		
 fugowaniami	fugować	ger:pl:inst:n2:imperf:aff		
 fugowanie	fugować	ger:sg:nom.acc:n2:imperf:aff		
 fugowaniem	fugować	ger:sg:inst:n2:imperf:aff		
 fugowani	fugować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fugowaniom	fugować	ger:pl:dat.loc:n2:imperf:aff		
+fugowaniom	fugować	ger:pl:dat:n2:imperf:aff		
 fugowaniu	fugować	ger:sg:dat.loc:n2:imperf:aff		
 fugowano	fugować	imps:imperf		
 fugowanych	fugować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -63857,12 +64050,13 @@ fukałyście	fukać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 fukałyśmy	fukać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 fukam	fukać	fin:sg:pri:imperf		
 fukamy	fukać	fin:pl:pri:imperf		
+fukaniach	fukać	ger:pl:loc:n2:imperf:aff		
 fukania	fukać	ger:pl:nom.acc:n2:imperf:aff		
 fukania	fukać	ger:sg:gen:n2:imperf:aff		
 fukaniami	fukać	ger:pl:inst:n2:imperf:aff		
 fukanie	fukać	ger:sg:nom.acc:n2:imperf:aff		
 fukaniem	fukać	ger:sg:inst:n2:imperf:aff		
-fukaniom	fukać	ger:pl:dat.loc:n2:imperf:aff		
+fukaniom	fukać	ger:pl:dat:n2:imperf:aff		
 fukaniu	fukać	ger:sg:dat.loc:n2:imperf:aff		
 fukano	fukać	imps:imperf		
 fukań	fukać	ger:pl:gen:n2:imperf:aff		
@@ -63988,12 +64182,13 @@ fukniecie	fuknąć	fin:pl:sec:perf
 fuknie	fuknąć	fin:sg:ter:perf		
 fukniemy	fuknąć	fin:pl:pri:perf		
 fukniesz	fuknąć	fin:sg:sec:perf		
+fuknięciach	fuknąć	ger:pl:loc:n2:perf:aff		
 fuknięcia	fuknąć	ger:pl:nom.acc:n2:perf:aff		
 fuknięcia	fuknąć	ger:sg:gen:n2:perf:aff		
 fuknięciami	fuknąć	ger:pl:inst:n2:perf:aff		
 fuknięcie	fuknąć	ger:sg:nom.acc:n2:perf:aff		
 fuknięciem	fuknąć	ger:sg:inst:n2:perf:aff		
-fuknięciom	fuknąć	ger:pl:dat.loc:n2:perf:aff		
+fuknięciom	fuknąć	ger:pl:dat:n2:perf:aff		
 fuknięciu	fuknąć	ger:sg:dat.loc:n2:perf:aff		
 fuknięć	fuknąć	ger:pl:gen:n2:perf:aff		
 fuknięto	fuknąć	imps:perf		
@@ -64438,12 +64633,13 @@ fulminowały	fulminować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 fulminowały	fulminować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 fulminowałyście	fulminować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 fulminowałyśmy	fulminować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+fulminowaniach	fulminować	ger:pl:loc:n2:imperf:aff		
 fulminowania	fulminować	ger:pl:nom.acc:n2:imperf:aff		
 fulminowania	fulminować	ger:sg:gen:n2:imperf:aff		
 fulminowaniami	fulminować	ger:pl:inst:n2:imperf:aff		
 fulminowanie	fulminować	ger:sg:nom.acc:n2:imperf:aff		
 fulminowaniem	fulminować	ger:sg:inst:n2:imperf:aff		
-fulminowaniom	fulminować	ger:pl:dat.loc:n2:imperf:aff		
+fulminowaniom	fulminować	ger:pl:dat:n2:imperf:aff		
 fulminowaniu	fulminować	ger:sg:dat.loc:n2:imperf:aff		
 fulminowano	fulminować	imps:imperf		daw.
 fulminowań	fulminować	ger:pl:gen:n2:imperf:aff		
@@ -65078,13 +65274,14 @@ fundamentowanego	fundamentować	ppas:sg:acc:m1.m2:imperf:aff
 fundamentowanego	fundamentować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fundamentowanej	fundamentować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fundamentowanemu	fundamentować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fundamentowaniach	fundamentować	ger:pl:loc:n2:imperf:aff		
 fundamentowania	fundamentować	ger:pl:nom.acc:n2:imperf:aff		
 fundamentowania	fundamentować	ger:sg:gen:n2:imperf:aff		
 fundamentowaniami	fundamentować	ger:pl:inst:n2:imperf:aff		
 fundamentowanie	fundamentować	ger:sg:nom.acc:n2:imperf:aff		
 fundamentowaniem	fundamentować	ger:sg:inst:n2:imperf:aff		
 fundamentowani	fundamentować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fundamentowaniom	fundamentować	ger:pl:dat.loc:n2:imperf:aff		
+fundamentowaniom	fundamentować	ger:pl:dat:n2:imperf:aff		
 fundamentowaniu	fundamentować	ger:sg:dat.loc:n2:imperf:aff		
 fundamentowano	fundamentować	imps:imperf		
 fundamentowanych	fundamentować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -65328,13 +65525,14 @@ fundniecie	fundnąć	fin:pl:sec:perf		pot.
 fundnie	fundnąć	fin:sg:ter:perf		pot.
 fundniemy	fundnąć	fin:pl:pri:perf		pot.
 fundniesz	fundnąć	fin:sg:sec:perf		pot.
+fundnięciach	fundnąć	ger:pl:loc:n2:perf:aff		
 fundnięcia	fundnąć	ger:pl:nom.acc:n2:perf:aff		
 fundnięcia	fundnąć	ger:sg:gen:n2:perf:aff		
 fundnięciami	fundnąć	ger:pl:inst:n2:perf:aff		
 fundnięcie	fundnąć	ger:sg:nom.acc:n2:perf:aff		
 fundnięciem	fundnąć	ger:sg:inst:n2:perf:aff		
 fundnięci	fundnąć	ppas:pl:nom.voc:m1.p1:perf:aff		
-fundnięciom	fundnąć	ger:pl:dat.loc:n2:perf:aff		
+fundnięciom	fundnąć	ger:pl:dat:n2:perf:aff		
 fundnięciu	fundnąć	ger:sg:dat.loc:n2:perf:aff		
 fundnięć	fundnąć	ger:pl:gen:n2:perf:aff		
 fundnięta	fundnąć	ppas:sg:nom.voc:f:perf:aff		
@@ -65400,13 +65598,14 @@ fundowanego	fundować	ppas:sg:acc:m1.m2:imperf:aff
 fundowanego	fundować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fundowanej	fundować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fundowanemu	fundować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fundowaniach	fundować	ger:pl:loc:n2:imperf:aff		
 fundowania	fundować	ger:pl:nom.acc:n2:imperf:aff		
 fundowania	fundować	ger:sg:gen:n2:imperf:aff		
 fundowaniami	fundować	ger:pl:inst:n2:imperf:aff		
 fundowanie	fundować	ger:sg:nom.acc:n2:imperf:aff		
 fundowaniem	fundować	ger:sg:inst:n2:imperf:aff		
 fundowani	fundować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fundowaniom	fundować	ger:pl:dat.loc:n2:imperf:aff		
+fundowaniom	fundować	ger:pl:dat:n2:imperf:aff		
 fundowaniu	fundować	ger:sg:dat.loc:n2:imperf:aff		
 fundowano	fundować	imps:imperf		
 fundowanych	fundować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -65651,12 +65850,13 @@ fungowały	fungować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		reg.
 fungowały	fungować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		reg.
 fungowałyście	fungować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		reg.
 fungowałyśmy	fungować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		reg.
+fungowaniach	fungować	ger:pl:loc:n2:imperf:aff		
 fungowania	fungować	ger:pl:nom.acc:n2:imperf:aff		
 fungowania	fungować	ger:sg:gen:n2:imperf:aff		
 fungowaniami	fungować	ger:pl:inst:n2:imperf:aff		
 fungowanie	fungować	ger:sg:nom.acc:n2:imperf:aff		
 fungowaniem	fungować	ger:sg:inst:n2:imperf:aff		
-fungowaniom	fungować	ger:pl:dat.loc:n2:imperf:aff		
+fungowaniom	fungować	ger:pl:dat:n2:imperf:aff		
 fungowaniu	fungować	ger:sg:dat.loc:n2:imperf:aff		
 fungowano	fungować	imps:imperf		reg.
 fungowań	fungować	ger:pl:gen:n2:imperf:aff		
@@ -65932,12 +66132,13 @@ funkcjonowały	funkcjonować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 funkcjonowały	funkcjonować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 funkcjonowałyście	funkcjonować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 funkcjonowałyśmy	funkcjonować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+funkcjonowaniach	funkcjonować	ger:pl:loc:n2:imperf:aff		
 funkcjonowania	funkcjonować	ger:pl:nom.acc:n2:imperf:aff		
 funkcjonowania	funkcjonować	ger:sg:gen:n2:imperf:aff		
 funkcjonowaniami	funkcjonować	ger:pl:inst:n2:imperf:aff		
 funkcjonowanie	funkcjonować	ger:sg:nom.acc:n2:imperf:aff		
 funkcjonowaniem	funkcjonować	ger:sg:inst:n2:imperf:aff		
-funkcjonowaniom	funkcjonować	ger:pl:dat.loc:n2:imperf:aff		
+funkcjonowaniom	funkcjonować	ger:pl:dat:n2:imperf:aff		
 funkcjonowaniu	funkcjonować	ger:sg:dat.loc:n2:imperf:aff		
 funkcjonowano	funkcjonować	imps:imperf		
 funkcjonowań	funkcjonować	ger:pl:gen:n2:imperf:aff		
@@ -66293,12 +66494,13 @@ furażowały	furażować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 furażowały	furażować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 furażowałyście	furażować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 furażowałyśmy	furażować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+furażowaniach	furażować	ger:pl:loc:n2:imperf:aff		
 furażowania	furażować	ger:pl:nom.acc:n2:imperf:aff		
 furażowania	furażować	ger:sg:gen:n2:imperf:aff		
 furażowaniami	furażować	ger:pl:inst:n2:imperf:aff		
 furażowanie	furażować	ger:sg:nom.acc:n2:imperf:aff		
 furażowaniem	furażować	ger:sg:inst:n2:imperf:aff		
-furażowaniom	furażować	ger:pl:dat.loc:n2:imperf:aff		
+furażowaniom	furażować	ger:pl:dat:n2:imperf:aff		
 furażowaniu	furażować	ger:sg:dat.loc:n2:imperf:aff		
 furażowano	furażować	imps:imperf		daw.
 furażowań	furażować	ger:pl:gen:n2:imperf:aff		
@@ -66422,12 +66624,13 @@ furczeli	furczeć	praet:pl:m1.p1:imperf
 furczeli	furczeć	praet:pl:m1.p1:ter:imperf		
 furczeliście	furczeć	praet:pl:m1.p1:sec:imperf		
 furczeliśmy	furczeć	praet:pl:m1.p1:pri:imperf		
+furczeniach	furczeć	ger:pl:loc:n2:imperf:aff		
 furczenia	furczeć	ger:pl:nom.acc:n2:imperf:aff		
 furczenia	furczeć	ger:sg:gen:n2:imperf:aff		
 furczeniami	furczeć	ger:pl:inst:n2:imperf:aff		
 furczenie	furczeć	ger:sg:nom.acc:n2:imperf:aff		
 furczeniem	furczeć	ger:sg:inst:n2:imperf:aff		
-furczeniom	furczeć	ger:pl:dat.loc:n2:imperf:aff		
+furczeniom	furczeć	ger:pl:dat:n2:imperf:aff		
 furczeniu	furczeć	ger:sg:dat.loc:n2:imperf:aff		
 furczeń	furczeć	ger:pl:gen:n2:imperf:aff		
 furczę	furczeć	fin:sg:pri:imperf		
@@ -66694,12 +66897,13 @@ furgałyście	furgać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		gwar.
 furgałyśmy	furgać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		gwar.
 furgam	furgać	fin:sg:pri:imperf		gwar.
 furgamy	furgać	fin:pl:pri:imperf		gwar.
+furganiach	furgać	ger:pl:loc:n2:imperf:aff		
 furgania	furgać	ger:pl:nom.acc:n2:imperf:aff		
 furgania	furgać	ger:sg:gen:n2:imperf:aff		
 furganiami	furgać	ger:pl:inst:n2:imperf:aff		
 furganie	furgać	ger:sg:nom.acc:n2:imperf:aff		
 furganiem	furgać	ger:sg:inst:n2:imperf:aff		
-furganiom	furgać	ger:pl:dat.loc:n2:imperf:aff		
+furganiom	furgać	ger:pl:dat:n2:imperf:aff		
 furganiu	furgać	ger:sg:dat.loc:n2:imperf:aff		
 furgano	furgać	imps:imperf		gwar.
 furgań	furgać	ger:pl:gen:n2:imperf:aff		
@@ -66747,12 +66951,13 @@ furgniecie	furgnąć	fin:pl:sec:perf		gwar.
 furgnie	furgnąć	fin:sg:ter:perf		gwar.
 furgniemy	furgnąć	fin:pl:pri:perf		gwar.
 furgniesz	furgnąć	fin:sg:sec:perf		gwar.
+furgnięciach	furgnąć	ger:pl:loc:n2:perf:aff		
 furgnięcia	furgnąć	ger:pl:nom.acc:n2:perf:aff		
 furgnięcia	furgnąć	ger:sg:gen:n2:perf:aff		
 furgnięciami	furgnąć	ger:pl:inst:n2:perf:aff		
 furgnięcie	furgnąć	ger:sg:nom.acc:n2:perf:aff		
 furgnięciem	furgnąć	ger:sg:inst:n2:perf:aff		
-furgnięciom	furgnąć	ger:pl:dat.loc:n2:perf:aff		
+furgnięciom	furgnąć	ger:pl:dat:n2:perf:aff		
 furgnięciu	furgnąć	ger:sg:dat.loc:n2:perf:aff		
 furgnięć	furgnąć	ger:pl:gen:n2:perf:aff		
 furgnięto	furgnąć	imps:perf		gwar.
@@ -66965,12 +67170,13 @@ furgotałyście	furgotać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
 furgotałyśmy	furgotać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
 furgotam	furgotać	fin:sg:pri:imperf		rzad.
 furgotamy	furgotać	fin:pl:pri:imperf		rzad.
+furgotaniach	furgotać	ger:pl:loc:n2:imperf:aff		
 furgotania	furgotać	ger:pl:nom.acc:n2:imperf:aff		
 furgotania	furgotać	ger:sg:gen:n2:imperf:aff		
 furgotaniami	furgotać	ger:pl:inst:n2:imperf:aff		
 furgotanie	furgotać	ger:sg:nom.acc:n2:imperf:aff		
 furgotaniem	furgotać	ger:sg:inst:n2:imperf:aff		
-furgotaniom	furgotać	ger:pl:dat.loc:n2:imperf:aff		
+furgotaniom	furgotać	ger:pl:dat:n2:imperf:aff		
 furgotaniu	furgotać	ger:sg:dat.loc:n2:imperf:aff		
 furgotano	furgotać	imps:imperf		rzad.
 furgotań	furgotać	ger:pl:gen:n2:imperf:aff		
@@ -67180,12 +67386,13 @@ furiowały	furiować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 furiowały	furiować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 furiowałyście	furiować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 furiowałyśmy	furiować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+furiowaniach	furiować	ger:pl:loc:n2:imperf:aff		
 furiowania	furiować	ger:pl:nom.acc:n2:imperf:aff		
 furiowania	furiować	ger:sg:gen:n2:imperf:aff		
 furiowaniami	furiować	ger:pl:inst:n2:imperf:aff		
 furiowanie	furiować	ger:sg:nom.acc:n2:imperf:aff		
 furiowaniem	furiować	ger:sg:inst:n2:imperf:aff		
-furiowaniom	furiować	ger:pl:dat.loc:n2:imperf:aff		
+furiowaniom	furiować	ger:pl:dat:n2:imperf:aff		
 furiowaniu	furiować	ger:sg:dat.loc:n2:imperf:aff		
 furiowano	furiować	imps:imperf		daw.
 furiowań	furiować	ger:pl:gen:n2:imperf:aff		
@@ -67305,12 +67512,13 @@ furkałyście	furkać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 furkałyśmy	furkać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 furkam	furkać	fin:sg:pri:imperf		
 furkamy	furkać	fin:pl:pri:imperf		
+furkaniach	furkać	ger:pl:loc:n2:imperf:aff		
 furkania	furkać	ger:pl:nom.acc:n2:imperf:aff		
 furkania	furkać	ger:sg:gen:n2:imperf:aff		
 furkaniami	furkać	ger:pl:inst:n2:imperf:aff		
 furkanie	furkać	ger:sg:nom.acc:n2:imperf:aff		
 furkaniem	furkać	ger:sg:inst:n2:imperf:aff		
-furkaniom	furkać	ger:pl:dat.loc:n2:imperf:aff		
+furkaniom	furkać	ger:pl:dat:n2:imperf:aff		
 furkaniu	furkać	ger:sg:dat.loc:n2:imperf:aff		
 furkano	furkać	imps:imperf		
 furkań	furkać	ger:pl:gen:n2:imperf:aff		
@@ -67372,12 +67580,13 @@ furkniecie	furknąć	fin:pl:sec:perf
 furknie	furknąć	fin:sg:ter:perf		
 furkniemy	furknąć	fin:pl:pri:perf		
 furkniesz	furknąć	fin:sg:sec:perf		
+furknięciach	furknąć	ger:pl:loc:n2:perf:aff		
 furknięcia	furknąć	ger:pl:nom.acc:n2:perf:aff		
 furknięcia	furknąć	ger:sg:gen:n2:perf:aff		
 furknięciami	furknąć	ger:pl:inst:n2:perf:aff		
 furknięcie	furknąć	ger:sg:nom.acc:n2:perf:aff		
 furknięciem	furknąć	ger:sg:inst:n2:perf:aff		
-furknięciom	furknąć	ger:pl:dat.loc:n2:perf:aff		
+furknięciom	furknąć	ger:pl:dat:n2:perf:aff		
 furknięciu	furknąć	ger:sg:dat.loc:n2:perf:aff		
 furknięć	furknąć	ger:pl:gen:n2:perf:aff		
 furknięto	furknąć	imps:perf		
@@ -67483,12 +67692,13 @@ furkotały	furkotać	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 furkotały	furkotać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 furkotałyście	furkotać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 furkotałyśmy	furkotać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+furkotaniach	furkotać	ger:pl:loc:n2:imperf:aff		
 furkotania	furkotać	ger:pl:nom.acc:n2:imperf:aff		
 furkotania	furkotać	ger:sg:gen:n2:imperf:aff		
 furkotaniami	furkotać	ger:pl:inst:n2:imperf:aff		
 furkotanie	furkotać	ger:sg:nom.acc:n2:imperf:aff		
 furkotaniem	furkotać	ger:sg:inst:n2:imperf:aff		
-furkotaniom	furkotać	ger:pl:dat.loc:n2:imperf:aff		
+furkotaniom	furkotać	ger:pl:dat:n2:imperf:aff		
 furkotaniu	furkotać	ger:sg:dat.loc:n2:imperf:aff		
 furkotano	furkotać	imps:imperf		
 furkotań	furkotać	ger:pl:gen:n2:imperf:aff		
@@ -67542,13 +67752,14 @@ furmaniącymi	furmanić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 furmanią	furmanić	fin:pl:ter:imperf		
 furmanicie	furmanić	fin:pl:sec:imperf		
 furmanić	furmanić	inf:imperf		
+furmanieniach	furmanić	ger:pl:loc:n2:imperf:aff		
 furmanienia	furmanić	ger:pl:nom.acc:n2:imperf:aff		
 furmanienia	furmanić	ger:sg:gen:n2:imperf:aff		
 furmanieniami	furmanić	ger:pl:inst:n2:imperf:aff		
 furmanienie	furmanić	ger:sg:nom.acc:n2:imperf:aff		
 furmanieniem	furmanić	ger:sg:inst:n2:imperf:aff		
 furmanieni	furmanić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-furmanieniom	furmanić	ger:pl:dat.loc:n2:imperf:aff		
+furmanieniom	furmanić	ger:pl:dat:n2:imperf:aff		
 furmanieniu	furmanić	ger:sg:dat.loc:n2:imperf:aff		
 furmanień	furmanić	ger:pl:gen:n2:imperf:aff		
 furmanię	furmanić	fin:sg:pri:imperf		
@@ -68023,13 +68234,14 @@ fuszerowanego	fuszerować	ppas:sg:acc:m1.m2:imperf:aff
 fuszerowanego	fuszerować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 fuszerowanej	fuszerować	ppas:sg:gen.dat.loc:f:imperf:aff		
 fuszerowanemu	fuszerować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fuszerowaniach	fuszerować	ger:pl:loc:n2:imperf:aff		
 fuszerowania	fuszerować	ger:pl:nom.acc:n2:imperf:aff		
 fuszerowania	fuszerować	ger:sg:gen:n2:imperf:aff		
 fuszerowaniami	fuszerować	ger:pl:inst:n2:imperf:aff		
 fuszerowanie	fuszerować	ger:sg:nom.acc:n2:imperf:aff		
 fuszerowaniem	fuszerować	ger:sg:inst:n2:imperf:aff		
 fuszerowani	fuszerować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fuszerowaniom	fuszerować	ger:pl:dat.loc:n2:imperf:aff		
+fuszerowaniom	fuszerować	ger:pl:dat:n2:imperf:aff		
 fuszerowaniu	fuszerować	ger:sg:dat.loc:n2:imperf:aff		
 fuszerowano	fuszerować	imps:imperf		
 fuszerowanych	fuszerować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -68461,13 +68673,14 @@ futrowanego	futrować:v	ppas:sg:acc:m1.m2:imperf:aff
 futrowanego	futrować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 futrowanej	futrować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 futrowanemu	futrować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+futrowaniach	futrować:v	ger:pl:loc:n2:imperf:aff		
 futrowania	futrować:v	ger:pl:nom.acc:n2:imperf:aff		
 futrowania	futrować:v	ger:sg:gen:n2:imperf:aff		
 futrowaniami	futrować:v	ger:pl:inst:n2:imperf:aff		
 futrowanie	futrować:v	ger:sg:nom.acc:n2:imperf:aff		
 futrowaniem	futrować:v	ger:sg:inst:n2:imperf:aff		
 futrowani	futrować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-futrowaniom	futrować:v	ger:pl:dat.loc:n2:imperf:aff		
+futrowaniom	futrować:v	ger:pl:dat:n2:imperf:aff		
 futrowaniu	futrować:v	ger:sg:dat.loc:n2:imperf:aff		
 futrowanych	futrować:v	ppas:pl:acc:m1.p1:imperf:aff		
 futrowanych	futrować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -68501,13 +68714,14 @@ futrowanego	futrować:v	ppas:sg:acc:m1.m2:imperf:aff
 futrowanego	futrować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 futrowanej	futrować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 futrowanemu	futrować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+futrowaniach	futrować:v	ger:pl:loc:n2:imperf:aff		
 futrowania	futrować:v	ger:pl:nom.acc:n2:imperf:aff		
 futrowania	futrować:v	ger:sg:gen:n2:imperf:aff		
 futrowaniami	futrować:v	ger:pl:inst:n2:imperf:aff		
 futrowanie	futrować:v	ger:sg:nom.acc:n2:imperf:aff		
 futrowaniem	futrować:v	ger:sg:inst:n2:imperf:aff		
 futrowani	futrować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-futrowaniom	futrować:v	ger:pl:dat.loc:n2:imperf:aff		
+futrowaniom	futrować:v	ger:pl:dat:n2:imperf:aff		
 futrowaniu	futrować:v	ger:sg:dat.loc:n2:imperf:aff		
 futrowanych	futrować:v	ppas:pl:acc:m1.p1:imperf:aff		
 futrowanych	futrować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -69459,12 +69673,13 @@ fyrczeli	fyrczeć	praet:pl:m1.p1:imperf
 fyrczeli	fyrczeć	praet:pl:m1.p1:ter:imperf		
 fyrczeliście	fyrczeć	praet:pl:m1.p1:sec:imperf		
 fyrczeliśmy	fyrczeć	praet:pl:m1.p1:pri:imperf		
+fyrczeniach	fyrczeć	ger:pl:loc:n2:imperf:aff		
 fyrczenia	fyrczeć	ger:pl:nom.acc:n2:imperf:aff		
 fyrczenia	fyrczeć	ger:sg:gen:n2:imperf:aff		
 fyrczeniami	fyrczeć	ger:pl:inst:n2:imperf:aff		
 fyrczenie	fyrczeć	ger:sg:nom.acc:n2:imperf:aff		
 fyrczeniem	fyrczeć	ger:sg:inst:n2:imperf:aff		
-fyrczeniom	fyrczeć	ger:pl:dat.loc:n2:imperf:aff		
+fyrczeniom	fyrczeć	ger:pl:dat:n2:imperf:aff		
 fyrczeniu	fyrczeć	ger:sg:dat.loc:n2:imperf:aff		
 fyrczeń	fyrczeć	ger:pl:gen:n2:imperf:aff		
 fyrczę	fyrczeć	fin:sg:pri:imperf		
@@ -69550,12 +69765,13 @@ fyrkałyście	fyrkać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 fyrkałyśmy	fyrkać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 fyrkam	fyrkać	fin:sg:pri:imperf		
 fyrkamy	fyrkać	fin:pl:pri:imperf		
+fyrkaniach	fyrkać	ger:pl:loc:n2:imperf:aff		
 fyrkania	fyrkać	ger:pl:nom.acc:n2:imperf:aff		
 fyrkania	fyrkać	ger:sg:gen:n2:imperf:aff		
 fyrkaniami	fyrkać	ger:pl:inst:n2:imperf:aff		
 fyrkanie	fyrkać	ger:sg:nom.acc:n2:imperf:aff		
 fyrkaniem	fyrkać	ger:sg:inst:n2:imperf:aff		
-fyrkaniom	fyrkać	ger:pl:dat.loc:n2:imperf:aff		
+fyrkaniom	fyrkać	ger:pl:dat:n2:imperf:aff		
 fyrkaniu	fyrkać	ger:sg:dat.loc:n2:imperf:aff		
 fyrkano	fyrkać	imps:imperf		
 fyrkań	fyrkać	ger:pl:gen:n2:imperf:aff		
@@ -69603,12 +69819,13 @@ fyrkniecie	fyrknąć	fin:pl:sec:perf		gwar.
 fyrknie	fyrknąć	fin:sg:ter:perf		gwar.
 fyrkniemy	fyrknąć	fin:pl:pri:perf		gwar.
 fyrkniesz	fyrknąć	fin:sg:sec:perf		gwar.
+fyrknięciach	fyrknąć	ger:pl:loc:n2:perf:aff		
 fyrknięcia	fyrknąć	ger:pl:nom.acc:n2:perf:aff		
 fyrknięcia	fyrknąć	ger:sg:gen:n2:perf:aff		
 fyrknięciami	fyrknąć	ger:pl:inst:n2:perf:aff		
 fyrknięcie	fyrknąć	ger:sg:nom.acc:n2:perf:aff		
 fyrknięciem	fyrknąć	ger:sg:inst:n2:perf:aff		
-fyrknięciom	fyrknąć	ger:pl:dat.loc:n2:perf:aff		
+fyrknięciom	fyrknąć	ger:pl:dat:n2:perf:aff		
 fyrknięciu	fyrknąć	ger:sg:dat.loc:n2:perf:aff		
 fyrknięć	fyrknąć	ger:pl:gen:n2:perf:aff		
 fyrknięto	fyrknąć	imps:perf		gwar.

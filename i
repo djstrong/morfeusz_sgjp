@@ -1019,13 +1019,14 @@ idealizowane	idealizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 idealizowane	idealizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 idealizowanej	idealizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 idealizowanemu	idealizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+idealizowaniach	idealizować	ger:pl:loc:n2:imperf:aff		
 idealizowania	idealizować	ger:pl:nom.acc:n2:imperf:aff		
 idealizowania	idealizować	ger:sg:gen:n2:imperf:aff		
 idealizowaniami	idealizować	ger:pl:inst:n2:imperf:aff		
 idealizowanie	idealizować	ger:sg:nom.acc:n2:imperf:aff		
 idealizowaniem	idealizować	ger:sg:inst:n2:imperf:aff		
 idealizowani	idealizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-idealizowaniom	idealizować	ger:pl:dat.loc:n2:imperf:aff		
+idealizowaniom	idealizować	ger:pl:dat:n2:imperf:aff		
 idealizowaniu	idealizować	ger:sg:dat.loc:n2:imperf:aff		
 idealizowano	idealizować	imps:imperf		
 idealizowanych	idealizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -1325,13 +1326,14 @@ identyfikowane	identyfikować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:a
 identyfikowane	identyfikować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 identyfikowanej	identyfikować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 identyfikowanemu	identyfikować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+identyfikowaniach	identyfikować:v	ger:pl:loc:n2:imperf:aff		
 identyfikowania	identyfikować:v	ger:pl:nom.acc:n2:imperf:aff		
 identyfikowania	identyfikować:v	ger:sg:gen:n2:imperf:aff		
 identyfikowaniami	identyfikować:v	ger:pl:inst:n2:imperf:aff		
 identyfikowanie	identyfikować:v	ger:sg:nom.acc:n2:imperf:aff		
 identyfikowaniem	identyfikować:v	ger:sg:inst:n2:imperf:aff		
 identyfikowani	identyfikować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-identyfikowaniom	identyfikować:v	ger:pl:dat.loc:n2:imperf:aff		
+identyfikowaniom	identyfikować:v	ger:pl:dat:n2:imperf:aff		
 identyfikowaniu	identyfikować:v	ger:sg:dat.loc:n2:imperf:aff		
 identyfikowanych	identyfikować:v	ppas:pl:acc:m1.p1:imperf:aff		
 identyfikowanych	identyfikować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -1365,13 +1367,14 @@ identyfikowane	identyfikować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:a
 identyfikowane	identyfikować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 identyfikowanej	identyfikować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
 identyfikowanemu	identyfikować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+identyfikowaniach	identyfikować:v	ger:pl:loc:n2:imperf:aff		
 identyfikowania	identyfikować:v	ger:pl:nom.acc:n2:imperf:aff		
 identyfikowania	identyfikować:v	ger:sg:gen:n2:imperf:aff		
 identyfikowaniami	identyfikować:v	ger:pl:inst:n2:imperf:aff		
 identyfikowanie	identyfikować:v	ger:sg:nom.acc:n2:imperf:aff		
 identyfikowaniem	identyfikować:v	ger:sg:inst:n2:imperf:aff		
 identyfikowani	identyfikować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-identyfikowaniom	identyfikować:v	ger:pl:dat.loc:n2:imperf:aff		
+identyfikowaniom	identyfikować:v	ger:pl:dat:n2:imperf:aff		
 identyfikowaniu	identyfikować:v	ger:sg:dat.loc:n2:imperf:aff		
 identyfikowanych	identyfikować:v	ppas:pl:acc:m1.p1:imperf:aff		
 identyfikowanych	identyfikować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -1804,13 +1807,14 @@ ideologizowane	ideologizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 ideologizowane	ideologizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 ideologizowanej	ideologizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 ideologizowanemu	ideologizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ideologizowaniach	ideologizować	ger:pl:loc:n2:imperf:aff		
 ideologizowania	ideologizować	ger:pl:nom.acc:n2:imperf:aff		
 ideologizowania	ideologizować	ger:sg:gen:n2:imperf:aff		
 ideologizowaniami	ideologizować	ger:pl:inst:n2:imperf:aff		
 ideologizowanie	ideologizować	ger:sg:nom.acc:n2:imperf:aff		
 ideologizowaniem	ideologizować	ger:sg:inst:n2:imperf:aff		
 ideologizowani	ideologizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ideologizowaniom	ideologizować	ger:pl:dat.loc:n2:imperf:aff		
+ideologizowaniom	ideologizować	ger:pl:dat:n2:imperf:aff		
 ideologizowaniu	ideologizować	ger:sg:dat.loc:n2:imperf:aff		
 ideologizowano	ideologizować	imps:imperf		
 ideologizowanych	ideologizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -2108,12 +2112,13 @@ idiochromatyzmu	idiochromatyzm	subst:sg:gen:m3	pospolita
 idiochromatyzmy	idiochromatyzm	subst:pl:acc:m3	pospolita	
 idiochromatyzmy	idiochromatyzm	subst:pl:nom:m3	pospolita	
 idiochromatyzmy	idiochromatyzm	subst:pl:voc:m3	pospolita	
+idioceniach	idiocieć	ger:pl:loc:n2:imperf:aff		
 idiocenia	idiocieć	ger:pl:nom.acc:n2:imperf:aff		
 idiocenia	idiocieć	ger:sg:gen:n2:imperf:aff		
 idioceniami	idiocieć	ger:pl:inst:n2:imperf:aff		
 idiocenie	idiocieć	ger:sg:nom.acc:n2:imperf:aff		
 idioceniem	idiocieć	ger:sg:inst:n2:imperf:aff		
-idioceniom	idiocieć	ger:pl:dat.loc:n2:imperf:aff		
+idioceniom	idiocieć	ger:pl:dat:n2:imperf:aff		
 idioceniu	idiocieć	ger:sg:dat.loc:n2:imperf:aff		
 idioceń	idiocieć	ger:pl:gen:n2:imperf:aff		
 idiociałaby	idiocieć	cond:sg:f:ter:imperf		pot.
@@ -2781,13 +2786,14 @@ idiotyzowane	idiotyzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 idiotyzowane	idiotyzować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 idiotyzowanej	idiotyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 idiotyzowanemu	idiotyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+idiotyzowaniach	idiotyzować	ger:pl:loc:n2:imperf:aff		
 idiotyzowania	idiotyzować	ger:pl:nom.acc:n2:imperf:aff		
 idiotyzowania	idiotyzować	ger:sg:gen:n2:imperf:aff		
 idiotyzowaniami	idiotyzować	ger:pl:inst:n2:imperf:aff		
 idiotyzowanie	idiotyzować	ger:sg:nom.acc:n2:imperf:aff		
 idiotyzowaniem	idiotyzować	ger:sg:inst:n2:imperf:aff		
 idiotyzowani	idiotyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-idiotyzowaniom	idiotyzować	ger:pl:dat.loc:n2:imperf:aff		
+idiotyzowaniom	idiotyzować	ger:pl:dat:n2:imperf:aff		
 idiotyzowaniu	idiotyzować	ger:sg:dat.loc:n2:imperf:aff		
 idiotyzowano	idiotyzować	imps:imperf		
 idiotyzowanych	idiotyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -3886,13 +3892,14 @@ igłowane	igłować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 igłowane	igłować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 igłowanej	igłować	ppas:sg:gen.dat.loc:f:imperf:aff		
 igłowanemu	igłować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+igłowaniach	igłować	ger:pl:loc:n2:imperf:aff		
 igłowania	igłować	ger:pl:nom.acc:n2:imperf:aff		
 igłowania	igłować	ger:sg:gen:n2:imperf:aff		
 igłowaniami	igłować	ger:pl:inst:n2:imperf:aff		
 igłowanie	igłować	ger:sg:nom.acc:n2:imperf:aff		
 igłowaniem	igłować	ger:sg:inst:n2:imperf:aff		
 igłowani	igłować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-igłowaniom	igłować	ger:pl:dat.loc:n2:imperf:aff		
+igłowaniom	igłować	ger:pl:dat:n2:imperf:aff		
 igłowaniu	igłować	ger:sg:dat.loc:n2:imperf:aff		
 igłowano	igłować	imps:imperf		
 igłowanych	igłować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -4275,13 +4282,14 @@ ignorowane	ignorować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 ignorowane	ignorować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 ignorowanej	ignorować	ppas:sg:gen.dat.loc:f:imperf:aff		
 ignorowanemu	ignorować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ignorowaniach	ignorować	ger:pl:loc:n2:imperf:aff		
 ignorowania	ignorować	ger:pl:nom.acc:n2:imperf:aff		
 ignorowania	ignorować	ger:sg:gen:n2:imperf:aff		
 ignorowaniami	ignorować	ger:pl:inst:n2:imperf:aff		
 ignorowanie	ignorować	ger:sg:nom.acc:n2:imperf:aff		
 ignorowaniem	ignorować	ger:sg:inst:n2:imperf:aff		
 ignorowani	ignorować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ignorowaniom	ignorować	ger:pl:dat.loc:n2:imperf:aff		
+ignorowaniom	ignorować	ger:pl:dat:n2:imperf:aff		
 ignorowaniu	ignorować	ger:sg:dat.loc:n2:imperf:aff		
 ignorowano	ignorować	imps:imperf		
 ignorowanych	ignorować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -4433,12 +4441,13 @@ igrałyście	igrać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 igrałyśmy	igrać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 igram	igrać	fin:sg:pri:imperf		
 igramy	igrać	fin:pl:pri:imperf		
+igraniach	igrać	ger:pl:loc:n2:imperf:aff		
 igrania	igrać	ger:pl:nom.acc:n2:imperf:aff		
 igrania	igrać	ger:sg:gen:n2:imperf:aff		
 igraniami	igrać	ger:pl:inst:n2:imperf:aff		
 igranie	igrać	ger:sg:nom.acc:n2:imperf:aff		
 igraniem	igrać	ger:sg:inst:n2:imperf:aff		
-igraniom	igrać	ger:pl:dat.loc:n2:imperf:aff		
+igraniom	igrać	ger:pl:dat:n2:imperf:aff		
 igraniu	igrać	ger:sg:dat.loc:n2:imperf:aff		
 igrano	igrać	imps:imperf		
 igrań	igrać	ger:pl:gen:n2:imperf:aff		
@@ -5257,12 +5266,13 @@ ikrzącymi	ikrzyć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 ikrzącym	ikrzyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ikrzącym	ikrzyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 ikrzą	ikrzyć	fin:pl:ter:imperf		
+ikrzeniach	ikrzyć	ger:pl:loc:n2:imperf:aff		
 ikrzenia	ikrzyć	ger:pl:nom.acc:n2:imperf:aff		
 ikrzenia	ikrzyć	ger:sg:gen:n2:imperf:aff		
 ikrzeniami	ikrzyć	ger:pl:inst:n2:imperf:aff		
 ikrzenie	ikrzyć	ger:sg:nom.acc:n2:imperf:aff		
 ikrzeniem	ikrzyć	ger:sg:inst:n2:imperf:aff		
-ikrzeniom	ikrzyć	ger:pl:dat.loc:n2:imperf:aff		
+ikrzeniom	ikrzyć	ger:pl:dat:n2:imperf:aff		
 ikrzeniu	ikrzyć	ger:sg:dat.loc:n2:imperf:aff		
 ikrzeń	ikrzyć	ger:pl:gen:n2:imperf:aff		
 ikrzę	ikrzyć	fin:sg:pri:imperf		
@@ -6693,13 +6703,14 @@ iluminowane	iluminować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 iluminowane	iluminować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 iluminowanej	iluminować	ppas:sg:gen.dat.loc:f:imperf:aff		
 iluminowanemu	iluminować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+iluminowaniach	iluminować	ger:pl:loc:n2:imperf:aff		
 iluminowania	iluminować	ger:pl:nom.acc:n2:imperf:aff		
 iluminowania	iluminować	ger:sg:gen:n2:imperf:aff		
 iluminowaniami	iluminować	ger:pl:inst:n2:imperf:aff		
 iluminowanie	iluminować	ger:sg:nom.acc:n2:imperf:aff		
 iluminowaniem	iluminować	ger:sg:inst:n2:imperf:aff		
 iluminowani	iluminować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-iluminowaniom	iluminować	ger:pl:dat.loc:n2:imperf:aff		
+iluminowaniom	iluminować	ger:pl:dat:n2:imperf:aff		
 iluminowaniu	iluminować	ger:sg:dat.loc:n2:imperf:aff		
 iluminowano	iluminować	imps:imperf		
 iluminowanych	iluminować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -7046,13 +7057,14 @@ ilustrowane	ilustrować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 ilustrowane	ilustrować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 ilustrowanej	ilustrować	ppas:sg:gen.dat.loc:f:imperf:aff		
 ilustrowanemu	ilustrować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ilustrowaniach	ilustrować	ger:pl:loc:n2:imperf:aff		
 ilustrowania	ilustrować	ger:pl:nom.acc:n2:imperf:aff		
 ilustrowania	ilustrować	ger:sg:gen:n2:imperf:aff		
 ilustrowaniami	ilustrować	ger:pl:inst:n2:imperf:aff		
 ilustrowanie	ilustrować	ger:sg:nom.acc:n2:imperf:aff		
 ilustrowaniem	ilustrować	ger:sg:inst:n2:imperf:aff		
 ilustrowani	ilustrować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ilustrowaniom	ilustrować	ger:pl:dat.loc:n2:imperf:aff		
+ilustrowaniom	ilustrować	ger:pl:dat:n2:imperf:aff		
 ilustrowaniu	ilustrować	ger:sg:dat.loc:n2:imperf:aff		
 ilustrowano	ilustrować	imps:imperf		
 ilustrowanych	ilustrować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -7462,12 +7474,13 @@ iłołupkowi	iłołupek	subst:sg:dat:m3	pospolita
 iłołupków	iłołupek	subst:pl:gen:m3	pospolita	
 iłołupku	iłołupek	subst:sg:loc:m3	pospolita	
 iłołupku	iłołupek	subst:sg:voc:m3	pospolita	
+iłowaceniach	iłowacieć	ger:pl:loc:n2:imperf:aff		
 iłowacenia	iłowacieć	ger:pl:nom.acc:n2:imperf:aff		
 iłowacenia	iłowacieć	ger:sg:gen:n2:imperf:aff		
 iłowaceniami	iłowacieć	ger:pl:inst:n2:imperf:aff		
 iłowacenie	iłowacieć	ger:sg:nom.acc:n2:imperf:aff		
 iłowaceniem	iłowacieć	ger:sg:inst:n2:imperf:aff		
-iłowaceniom	iłowacieć	ger:pl:dat.loc:n2:imperf:aff		
+iłowaceniom	iłowacieć	ger:pl:dat:n2:imperf:aff		
 iłowaceniu	iłowacieć	ger:sg:dat.loc:n2:imperf:aff		
 iłowaceń	iłowacieć	ger:pl:gen:n2:imperf:aff		
 iłowaciałaby	iłowacieć	cond:sg:f:ter:imperf		
@@ -7577,13 +7590,14 @@ iłowane	iłować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 iłowane	iłować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 iłowanej	iłować	ppas:sg:gen.dat.loc:f:imperf:aff		
 iłowanemu	iłować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+iłowaniach	iłować	ger:pl:loc:n2:imperf:aff		
 iłowania	iłować	ger:pl:nom.acc:n2:imperf:aff		
 iłowania	iłować	ger:sg:gen:n2:imperf:aff		
 iłowaniami	iłować	ger:pl:inst:n2:imperf:aff		
 iłowanie	iłować	ger:sg:nom.acc:n2:imperf:aff		
 iłowaniem	iłować	ger:sg:inst:n2:imperf:aff		
 iłowani	iłować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-iłowaniom	iłować	ger:pl:dat.loc:n2:imperf:aff		
+iłowaniom	iłować	ger:pl:dat:n2:imperf:aff		
 iłowaniu	iłować	ger:sg:dat.loc:n2:imperf:aff		
 iłowano	iłować	imps:imperf		
 iłowanych	iłować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -7922,12 +7936,13 @@ imałyście	imać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 imałyśmy	imać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 imam	imać	fin:sg:pri:imperf		
 imamy	imać	fin:pl:pri:imperf		
+imaniach	imać	ger:pl:loc:n2:imperf:aff		
 imania	imać	ger:pl:nom.acc:n2:imperf:aff		
 imania	imać	ger:sg:gen:n2:imperf:aff		
 imaniami	imać	ger:pl:inst:n2:imperf:aff		
 imanie	imać	ger:sg:nom.acc:n2:imperf:aff		
 imaniem	imać	ger:sg:inst:n2:imperf:aff		
-imaniom	imać	ger:pl:dat.loc:n2:imperf:aff		
+imaniom	imać	ger:pl:dat:n2:imperf:aff		
 imaniu	imać	ger:sg:dat.loc:n2:imperf:aff		
 imano	imać	imps:imperf		
 imań	imać	ger:pl:gen:n2:imperf:aff		
@@ -8206,13 +8221,14 @@ imaginowane	imaginować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 imaginowane	imaginować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 imaginowanej	imaginować	ppas:sg:gen.dat.loc:f:imperf:aff		
 imaginowanemu	imaginować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+imaginowaniach	imaginować	ger:pl:loc:n2:imperf:aff		
 imaginowania	imaginować	ger:pl:nom.acc:n2:imperf:aff		
 imaginowania	imaginować	ger:sg:gen:n2:imperf:aff		
 imaginowaniami	imaginować	ger:pl:inst:n2:imperf:aff		
 imaginowanie	imaginować	ger:sg:nom.acc:n2:imperf:aff		
 imaginowaniem	imaginować	ger:sg:inst:n2:imperf:aff		
 imaginowani	imaginować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-imaginowaniom	imaginować	ger:pl:dat.loc:n2:imperf:aff		
+imaginowaniom	imaginować	ger:pl:dat:n2:imperf:aff		
 imaginowaniu	imaginować	ger:sg:dat.loc:n2:imperf:aff		
 imaginowano	imaginować	imps:imperf		
 imaginowanych	imaginować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -8337,13 +8353,14 @@ imainowane	imainować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 imainowane	imainować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 imainowanej	imainować	ppas:sg:gen.dat.loc:f:imperf:aff		
 imainowanemu	imainować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+imainowaniach	imainować	ger:pl:loc:n2:imperf:aff		
 imainowania	imainować	ger:pl:nom.acc:n2:imperf:aff		
 imainowania	imainować	ger:sg:gen:n2:imperf:aff		
 imainowaniami	imainować	ger:pl:inst:n2:imperf:aff		
 imainowanie	imainować	ger:sg:nom.acc:n2:imperf:aff		
 imainowaniem	imainować	ger:sg:inst:n2:imperf:aff		
 imainowani	imainować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-imainowaniom	imainować	ger:pl:dat.loc:n2:imperf:aff		
+imainowaniom	imainować	ger:pl:dat:n2:imperf:aff		
 imainowaniu	imainować	ger:sg:dat.loc:n2:imperf:aff		
 imainowano	imainować	imps:imperf		daw.
 imainowanych	imainować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -8821,14 +8838,14 @@ imcie	imć:s1	depr:pl:nom:m2	pospolita
 imcie	imć:s1	depr:pl:voc:m2	pospolita	
 imcie	imć:s1	subst:pl:nom:m1	pospolita	
 imcie	imć:s1	subst:pl:voc:m1	pospolita	
+imci	imć:s1	subst:pl:acc:m1	pospolita	
+imci	imć:s1	subst:pl:gen:m1	pospolita	
 imci	imć:s1	subst:sg:acc:m1	pospolita	
 imci	imć:s1	subst:sg:dat:m1	pospolita	
 imci	imć:s1	subst:sg:gen:m1	pospolita	
 imci	imć:s1	subst:sg:loc:m1	pospolita	
 imci	imć:s1	subst:sg:voc:m1	pospolita	
 imciom	imć:s1	subst:pl:dat:m1	pospolita	
-imciów	imć:s1	subst:pl:acc:m1	pospolita	
-imciów	imć:s1	subst:pl:gen:m1	pospolita	
 imć	imć:s1	subst:sg:nom:m1	pospolita	
 imć	imć:s2	depr:pl:nom:m2	pospolita	
 imć	imć:s2	depr:pl:voc:m2	pospolita	
@@ -9479,12 +9496,13 @@ imigrowały	imigrować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf.perf
 imigrowały	imigrować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf.perf		
 imigrowałyście	imigrować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf.perf		
 imigrowałyśmy	imigrować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf.perf		
+imigrowaniach	imigrować	ger:pl:loc:n2:imperf.perf:aff		
 imigrowania	imigrować	ger:pl:nom.acc:n2:imperf.perf:aff		
 imigrowania	imigrować	ger:sg:gen:n2:imperf.perf:aff		
 imigrowaniami	imigrować	ger:pl:inst:n2:imperf.perf:aff		
 imigrowanie	imigrować	ger:sg:nom.acc:n2:imperf.perf:aff		
 imigrowaniem	imigrować	ger:sg:inst:n2:imperf.perf:aff		
-imigrowaniom	imigrować	ger:pl:dat.loc:n2:imperf.perf:aff		
+imigrowaniom	imigrować	ger:pl:dat:n2:imperf.perf:aff		
 imigrowaniu	imigrować	ger:sg:dat.loc:n2:imperf.perf:aff		
 imigrowano	imigrować	imps:imperf.perf		
 imigrowań	imigrować	ger:pl:gen:n2:imperf.perf:aff		
@@ -9835,13 +9853,14 @@ imitowane	imitować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 imitowane	imitować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 imitowanej	imitować	ppas:sg:gen.dat.loc:f:imperf:aff		
 imitowanemu	imitować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+imitowaniach	imitować	ger:pl:loc:n2:imperf:aff		
 imitowania	imitować	ger:pl:nom.acc:n2:imperf:aff		
 imitowania	imitować	ger:sg:gen:n2:imperf:aff		
 imitowaniami	imitować	ger:pl:inst:n2:imperf:aff		
 imitowanie	imitować	ger:sg:nom.acc:n2:imperf:aff		
 imitowaniem	imitować	ger:sg:inst:n2:imperf:aff		
 imitowani	imitować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-imitowaniom	imitować	ger:pl:dat.loc:n2:imperf:aff		
+imitowaniom	imitować	ger:pl:dat:n2:imperf:aff		
 imitowaniu	imitować	ger:sg:dat.loc:n2:imperf:aff		
 imitowano	imitować	imps:imperf		
 imitowanych	imitować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -10057,13 +10076,14 @@ immatrykulowane	immatrykulować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.p
 immatrykulowane	immatrykulować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 immatrykulowanej	immatrykulować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 immatrykulowanemu	immatrykulować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+immatrykulowaniach	immatrykulować	ger:pl:loc:n2:imperf.perf:aff		
 immatrykulowania	immatrykulować	ger:pl:nom.acc:n2:imperf.perf:aff		
 immatrykulowania	immatrykulować	ger:sg:gen:n2:imperf.perf:aff		
 immatrykulowaniami	immatrykulować	ger:pl:inst:n2:imperf.perf:aff		
 immatrykulowanie	immatrykulować	ger:sg:nom.acc:n2:imperf.perf:aff		
 immatrykulowaniem	immatrykulować	ger:sg:inst:n2:imperf.perf:aff		
 immatrykulowani	immatrykulować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-immatrykulowaniom	immatrykulować	ger:pl:dat.loc:n2:imperf.perf:aff		
+immatrykulowaniom	immatrykulować	ger:pl:dat:n2:imperf.perf:aff		
 immatrykulowaniu	immatrykulować	ger:sg:dat.loc:n2:imperf.perf:aff		
 immatrykulowano	immatrykulować	imps:imperf.perf		
 immatrykulowanych	immatrykulować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -10283,13 +10303,14 @@ immobilizowane	immobilizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 immobilizowane	immobilizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 immobilizowanej	immobilizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 immobilizowanemu	immobilizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+immobilizowaniach	immobilizować	ger:pl:loc:n2:imperf:aff		
 immobilizowania	immobilizować	ger:pl:nom.acc:n2:imperf:aff		
 immobilizowania	immobilizować	ger:sg:gen:n2:imperf:aff		
 immobilizowaniami	immobilizować	ger:pl:inst:n2:imperf:aff		
 immobilizowanie	immobilizować	ger:sg:nom.acc:n2:imperf:aff		
 immobilizowaniem	immobilizować	ger:sg:inst:n2:imperf:aff		
 immobilizowani	immobilizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-immobilizowaniom	immobilizować	ger:pl:dat.loc:n2:imperf:aff		
+immobilizowaniom	immobilizować	ger:pl:dat:n2:imperf:aff		
 immobilizowaniu	immobilizować	ger:sg:dat.loc:n2:imperf:aff		
 immobilizowano	immobilizować	imps:imperf		
 immobilizowanych	immobilizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -10503,13 +10524,14 @@ immunizowane	immunizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 immunizowane	immunizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 immunizowanej	immunizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 immunizowanemu	immunizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+immunizowaniach	immunizować	ger:pl:loc:n2:imperf:aff		
 immunizowania	immunizować	ger:pl:nom.acc:n2:imperf:aff		
 immunizowania	immunizować	ger:sg:gen:n2:imperf:aff		
 immunizowaniami	immunizować	ger:pl:inst:n2:imperf:aff		
 immunizowanie	immunizować	ger:sg:nom.acc:n2:imperf:aff		
 immunizowaniem	immunizować	ger:sg:inst:n2:imperf:aff		
 immunizowani	immunizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-immunizowaniom	immunizować	ger:pl:dat.loc:n2:imperf:aff		
+immunizowaniom	immunizować	ger:pl:dat:n2:imperf:aff		
 immunizowaniu	immunizować	ger:sg:dat.loc:n2:imperf:aff		
 immunizowano	immunizować	imps:imperf		
 immunizowanych	immunizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -11156,13 +11178,14 @@ impasowane	impasować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 impasowane	impasować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 impasowanej	impasować	ppas:sg:gen.dat.loc:f:imperf:aff		
 impasowanemu	impasować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+impasowaniach	impasować	ger:pl:loc:n2:imperf:aff		
 impasowania	impasować	ger:pl:nom.acc:n2:imperf:aff		
 impasowania	impasować	ger:sg:gen:n2:imperf:aff		
 impasowaniami	impasować	ger:pl:inst:n2:imperf:aff		
 impasowanie	impasować	ger:sg:nom.acc:n2:imperf:aff		
 impasowaniem	impasować	ger:sg:inst:n2:imperf:aff		
 impasowani	impasować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-impasowaniom	impasować	ger:pl:dat.loc:n2:imperf:aff		
+impasowaniom	impasować	ger:pl:dat:n2:imperf:aff		
 impasowaniu	impasować	ger:sg:dat.loc:n2:imperf:aff		
 impasowano	impasować	imps:imperf		karc.
 impasowanych	impasować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -11295,13 +11318,14 @@ impastowane	impastować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 impastowane	impastować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 impastowanej	impastować	ppas:sg:gen.dat.loc:f:imperf:aff		
 impastowanemu	impastować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+impastowaniach	impastować	ger:pl:loc:n2:imperf:aff		
 impastowania	impastować	ger:pl:nom.acc:n2:imperf:aff		
 impastowania	impastować	ger:sg:gen:n2:imperf:aff		
 impastowaniami	impastować	ger:pl:inst:n2:imperf:aff		
 impastowanie	impastować	ger:sg:nom.acc:n2:imperf:aff		
 impastowaniem	impastować	ger:sg:inst:n2:imperf:aff		
 impastowani	impastować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-impastowaniom	impastować	ger:pl:dat.loc:n2:imperf:aff		
+impastowaniom	impastować	ger:pl:dat:n2:imperf:aff		
 impastowaniu	impastować	ger:sg:dat.loc:n2:imperf:aff		
 impastowano	impastować	imps:imperf		
 impastowanych	impastować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -12122,13 +12146,14 @@ implantowane	implantować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 implantowane	implantować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 implantowanej	implantować	ppas:sg:gen.dat.loc:f:imperf:aff		
 implantowanemu	implantować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+implantowaniach	implantować	ger:pl:loc:n2:imperf:aff		
 implantowania	implantować	ger:pl:nom.acc:n2:imperf:aff		
 implantowania	implantować	ger:sg:gen:n2:imperf:aff		
 implantowaniami	implantować	ger:pl:inst:n2:imperf:aff		
 implantowanie	implantować	ger:sg:nom.acc:n2:imperf:aff		
 implantowaniem	implantować	ger:sg:inst:n2:imperf:aff		
 implantowani	implantować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-implantowaniom	implantować	ger:pl:dat.loc:n2:imperf:aff		
+implantowaniom	implantować	ger:pl:dat:n2:imperf:aff		
 implantowaniu	implantować	ger:sg:dat.loc:n2:imperf:aff		
 implantowano	implantować	imps:imperf		
 implantowanych	implantować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -12300,13 +12325,14 @@ implementowane	implementować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 implementowane	implementować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 implementowanej	implementować	ppas:sg:gen.dat.loc:f:imperf:aff		
 implementowanemu	implementować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+implementowaniach	implementować	ger:pl:loc:n2:imperf:aff		
 implementowania	implementować	ger:pl:nom.acc:n2:imperf:aff		
 implementowania	implementować	ger:sg:gen:n2:imperf:aff		
 implementowaniami	implementować	ger:pl:inst:n2:imperf:aff		
 implementowanie	implementować	ger:sg:nom.acc:n2:imperf:aff		
 implementowaniem	implementować	ger:sg:inst:n2:imperf:aff		
 implementowani	implementować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-implementowaniom	implementować	ger:pl:dat.loc:n2:imperf:aff		
+implementowaniom	implementować	ger:pl:dat:n2:imperf:aff		
 implementowaniu	implementować	ger:sg:dat.loc:n2:imperf:aff		
 implementowano	implementować	imps:imperf		
 implementowanych	implementować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -12480,13 +12506,14 @@ implikowane	implikować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 implikowane	implikować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 implikowanej	implikować	ppas:sg:gen.dat.loc:f:imperf:aff		
 implikowanemu	implikować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+implikowaniach	implikować	ger:pl:loc:n2:imperf:aff		
 implikowania	implikować	ger:pl:nom.acc:n2:imperf:aff		
 implikowania	implikować	ger:sg:gen:n2:imperf:aff		
 implikowaniami	implikować	ger:pl:inst:n2:imperf:aff		
 implikowanie	implikować	ger:sg:nom.acc:n2:imperf:aff		
 implikowaniem	implikować	ger:sg:inst:n2:imperf:aff		
 implikowani	implikować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-implikowaniom	implikować	ger:pl:dat.loc:n2:imperf:aff		
+implikowaniom	implikować	ger:pl:dat:n2:imperf:aff		
 implikowaniu	implikować	ger:sg:dat.loc:n2:imperf:aff		
 implikowano	implikować	imps:imperf		
 implikowanych	implikować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -12559,12 +12586,13 @@ implodowały	implodować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 implodowały	implodować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 implodowałyście	implodować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 implodowałyśmy	implodować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+implodowaniach	implodować	ger:pl:loc:n2:imperf:aff		
 implodowania	implodować	ger:pl:nom.acc:n2:imperf:aff		
 implodowania	implodować	ger:sg:gen:n2:imperf:aff		
 implodowaniami	implodować	ger:pl:inst:n2:imperf:aff		
 implodowanie	implodować	ger:sg:nom.acc:n2:imperf:aff		
 implodowaniem	implodować	ger:sg:inst:n2:imperf:aff		
-implodowaniom	implodować	ger:pl:dat.loc:n2:imperf:aff		
+implodowaniom	implodować	ger:pl:dat:n2:imperf:aff		
 implodowaniu	implodować	ger:sg:dat.loc:n2:imperf:aff		
 implodowano	implodować	imps:imperf		
 implodowań	implodować	ger:pl:gen:n2:imperf:aff		
@@ -12680,12 +12708,13 @@ imponowały	imponować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 imponowały	imponować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 imponowałyście	imponować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 imponowałyśmy	imponować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+imponowaniach	imponować	ger:pl:loc:n2:imperf:aff		
 imponowania	imponować	ger:pl:nom.acc:n2:imperf:aff		
 imponowania	imponować	ger:sg:gen:n2:imperf:aff		
 imponowaniami	imponować	ger:pl:inst:n2:imperf:aff		
 imponowanie	imponować	ger:sg:nom.acc:n2:imperf:aff		
 imponowaniem	imponować	ger:sg:inst:n2:imperf:aff		
-imponowaniom	imponować	ger:pl:dat.loc:n2:imperf:aff		
+imponowaniom	imponować	ger:pl:dat:n2:imperf:aff		
 imponowaniu	imponować	ger:sg:dat.loc:n2:imperf:aff		
 imponowano	imponować	imps:imperf		
 imponowań	imponować	ger:pl:gen:n2:imperf:aff		
@@ -12893,13 +12922,14 @@ importowane	importować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff
 importowane	importować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 importowanej	importować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 importowanemu	importować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+importowaniach	importować	ger:pl:loc:n2:imperf.perf:aff		
 importowania	importować	ger:pl:nom.acc:n2:imperf.perf:aff		
 importowania	importować	ger:sg:gen:n2:imperf.perf:aff		
 importowaniami	importować	ger:pl:inst:n2:imperf.perf:aff		
 importowanie	importować	ger:sg:nom.acc:n2:imperf.perf:aff		
 importowaniem	importować	ger:sg:inst:n2:imperf.perf:aff		
 importowani	importować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-importowaniom	importować	ger:pl:dat.loc:n2:imperf.perf:aff		
+importowaniom	importować	ger:pl:dat:n2:imperf.perf:aff		
 importowaniu	importować	ger:sg:dat.loc:n2:imperf.perf:aff		
 importowano	importować	imps:imperf.perf		
 importowanych	importować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -13329,13 +13359,14 @@ impregnowane	impregnować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 impregnowane	impregnować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 impregnowanej	impregnować	ppas:sg:gen.dat.loc:f:imperf:aff		
 impregnowanemu	impregnować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+impregnowaniach	impregnować	ger:pl:loc:n2:imperf:aff		
 impregnowania	impregnować	ger:pl:nom.acc:n2:imperf:aff		
 impregnowania	impregnować	ger:sg:gen:n2:imperf:aff		
 impregnowaniami	impregnować	ger:pl:inst:n2:imperf:aff		
 impregnowanie	impregnować	ger:sg:nom.acc:n2:imperf:aff		
 impregnowaniem	impregnować	ger:sg:inst:n2:imperf:aff		
 impregnowani	impregnować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-impregnowaniom	impregnować	ger:pl:dat.loc:n2:imperf:aff		
+impregnowaniom	impregnować	ger:pl:dat:n2:imperf:aff		
 impregnowaniu	impregnować	ger:sg:dat.loc:n2:imperf:aff		
 impregnowano	impregnować	imps:imperf		
 impregnowanych	impregnować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -13574,12 +13605,13 @@ impresjonizowały	impresjonizować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 impresjonizowały	impresjonizować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 impresjonizowałyście	impresjonizować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 impresjonizowałyśmy	impresjonizować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+impresjonizowaniach	impresjonizować	ger:pl:loc:n2:imperf:aff		
 impresjonizowania	impresjonizować	ger:pl:nom.acc:n2:imperf:aff		
 impresjonizowania	impresjonizować	ger:sg:gen:n2:imperf:aff		
 impresjonizowaniami	impresjonizować	ger:pl:inst:n2:imperf:aff		
 impresjonizowanie	impresjonizować	ger:sg:nom.acc:n2:imperf:aff		
 impresjonizowaniem	impresjonizować	ger:sg:inst:n2:imperf:aff		
-impresjonizowaniom	impresjonizować	ger:pl:dat.loc:n2:imperf:aff		
+impresjonizowaniom	impresjonizować	ger:pl:dat:n2:imperf:aff		
 impresjonizowaniu	impresjonizować	ger:sg:dat.loc:n2:imperf:aff		
 impresjonizowano	impresjonizować	imps:imperf		
 impresjonizowań	impresjonizować	ger:pl:gen:n2:imperf:aff		
@@ -13797,12 +13829,13 @@ imprezowały	imprezować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		pot.
 imprezowały	imprezować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		pot.
 imprezowałyście	imprezować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		pot.
 imprezowałyśmy	imprezować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		pot.
+imprezowaniach	imprezować	ger:pl:loc:n2:imperf:aff		pot.
 imprezowania	imprezować	ger:pl:nom.acc:n2:imperf:aff		pot.
 imprezowania	imprezować	ger:sg:gen:n2:imperf:aff		pot.
 imprezowaniami	imprezować	ger:pl:inst:n2:imperf:aff		pot.
 imprezowanie	imprezować	ger:sg:nom.acc:n2:imperf:aff		pot.
 imprezowaniem	imprezować	ger:sg:inst:n2:imperf:aff		pot.
-imprezowaniom	imprezować	ger:pl:dat.loc:n2:imperf:aff		pot.
+imprezowaniom	imprezować	ger:pl:dat:n2:imperf:aff		pot.
 imprezowaniu	imprezować	ger:sg:dat.loc:n2:imperf:aff		pot.
 imprezowano	imprezować	imps:imperf		pot.
 imprezowań	imprezować	ger:pl:gen:n2:imperf:aff		pot.
@@ -14126,13 +14159,14 @@ improwizowane	improwizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 improwizowane	improwizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 improwizowanej	improwizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 improwizowanemu	improwizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+improwizowaniach	improwizować	ger:pl:loc:n2:imperf:aff		
 improwizowania	improwizować	ger:pl:nom.acc:n2:imperf:aff		
 improwizowania	improwizować	ger:sg:gen:n2:imperf:aff		
 improwizowaniami	improwizować	ger:pl:inst:n2:imperf:aff		
 improwizowanie	improwizować	ger:sg:nom.acc:n2:imperf:aff		
 improwizowaniem	improwizować	ger:sg:inst:n2:imperf:aff		
 improwizowani	improwizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-improwizowaniom	improwizować	ger:pl:dat.loc:n2:imperf:aff		
+improwizowaniom	improwizować	ger:pl:dat:n2:imperf:aff		
 improwizowaniu	improwizować	ger:sg:dat.loc:n2:imperf:aff		
 improwizowano	improwizować	imps:imperf		
 improwizowanych	improwizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -14269,13 +14303,14 @@ impulsowane	impulsować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 impulsowane	impulsować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 impulsowanej	impulsować	ppas:sg:gen.dat.loc:f:imperf:aff		
 impulsowanemu	impulsować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+impulsowaniach	impulsować	ger:pl:loc:n2:imperf:aff		
 impulsowania	impulsować	ger:pl:nom.acc:n2:imperf:aff		
 impulsowania	impulsować	ger:sg:gen:n2:imperf:aff		
 impulsowaniami	impulsować	ger:pl:inst:n2:imperf:aff		
 impulsowanie	impulsować	ger:sg:nom.acc:n2:imperf:aff		
 impulsowaniem	impulsować	ger:sg:inst:n2:imperf:aff		
 impulsowani	impulsować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-impulsowaniom	impulsować	ger:pl:dat.loc:n2:imperf:aff		
+impulsowaniom	impulsować	ger:pl:dat:n2:imperf:aff		
 impulsowaniu	impulsować	ger:sg:dat.loc:n2:imperf:aff		
 impulsowano	impulsować	imps:imperf		techn.
 impulsowanych	impulsować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -14463,13 +14498,14 @@ imputowane	imputować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 imputowane	imputować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 imputowanej	imputować	ppas:sg:gen.dat.loc:f:imperf:aff		
 imputowanemu	imputować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+imputowaniach	imputować	ger:pl:loc:n2:imperf:aff		
 imputowania	imputować	ger:pl:nom.acc:n2:imperf:aff		
 imputowania	imputować	ger:sg:gen:n2:imperf:aff		
 imputowaniami	imputować	ger:pl:inst:n2:imperf:aff		
 imputowanie	imputować	ger:sg:nom.acc:n2:imperf:aff		
 imputowaniem	imputować	ger:sg:inst:n2:imperf:aff		
 imputowani	imputować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-imputowaniom	imputować	ger:pl:dat.loc:n2:imperf:aff		
+imputowaniom	imputować	ger:pl:dat:n2:imperf:aff		
 imputowaniu	imputować	ger:sg:dat.loc:n2:imperf:aff		
 imputowano	imputować	imps:imperf		
 imputowanych	imputować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -14542,13 +14578,14 @@ inaczącym	inaczyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 inaczącym	inaczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 inaczą	inaczyć	fin:pl:ter:imperf		daw.
 inaczcie	inaczyć	impt:pl:sec:imperf		daw.
+inaczeniach	inaczyć	ger:pl:loc:n2:imperf:aff		
 inaczenia	inaczyć	ger:pl:nom.acc:n2:imperf:aff		
 inaczenia	inaczyć	ger:sg:gen:n2:imperf:aff		
 inaczeniami	inaczyć	ger:pl:inst:n2:imperf:aff		
 inaczenie	inaczyć	ger:sg:nom.acc:n2:imperf:aff		
 inaczeniem	inaczyć	ger:sg:inst:n2:imperf:aff		
 inaczeni	inaczyć	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inaczeniom	inaczyć	ger:pl:dat.loc:n2:imperf:aff		
+inaczeniom	inaczyć	ger:pl:dat:n2:imperf:aff		
 inaczeniu	inaczyć	ger:sg:dat.loc:n2:imperf:aff		
 inaczeń	inaczyć	ger:pl:gen:n2:imperf:aff		
 inaczę	inaczyć	fin:sg:pri:imperf		daw.
@@ -14799,13 +14836,14 @@ inaktywowane	inaktywować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inaktywowane	inaktywować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inaktywowanej	inaktywować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inaktywowanemu	inaktywować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inaktywowaniach	inaktywować	ger:pl:loc:n2:imperf:aff		
 inaktywowania	inaktywować	ger:pl:nom.acc:n2:imperf:aff		
 inaktywowania	inaktywować	ger:sg:gen:n2:imperf:aff		
 inaktywowaniami	inaktywować	ger:pl:inst:n2:imperf:aff		
 inaktywowanie	inaktywować	ger:sg:nom.acc:n2:imperf:aff		
 inaktywowaniem	inaktywować	ger:sg:inst:n2:imperf:aff		
 inaktywowani	inaktywować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inaktywowaniom	inaktywować	ger:pl:dat.loc:n2:imperf:aff		
+inaktywowaniom	inaktywować	ger:pl:dat:n2:imperf:aff		
 inaktywowaniu	inaktywować	ger:sg:dat.loc:n2:imperf:aff		
 inaktywowano	inaktywować	imps:imperf		chem.
 inaktywowanych	inaktywować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -14977,13 +15015,14 @@ inaugurowane	inaugurować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:af
 inaugurowane	inaugurować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 inaugurowanej	inaugurować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 inaugurowanemu	inaugurować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+inaugurowaniach	inaugurować	ger:pl:loc:n2:imperf.perf:aff		
 inaugurowania	inaugurować	ger:pl:nom.acc:n2:imperf.perf:aff		
 inaugurowania	inaugurować	ger:sg:gen:n2:imperf.perf:aff		
 inaugurowaniami	inaugurować	ger:pl:inst:n2:imperf.perf:aff		
 inaugurowanie	inaugurować	ger:sg:nom.acc:n2:imperf.perf:aff		
 inaugurowaniem	inaugurować	ger:sg:inst:n2:imperf.perf:aff		
 inaugurowani	inaugurować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-inaugurowaniom	inaugurować	ger:pl:dat.loc:n2:imperf.perf:aff		
+inaugurowaniom	inaugurować	ger:pl:dat:n2:imperf.perf:aff		
 inaugurowaniu	inaugurować	ger:sg:dat.loc:n2:imperf.perf:aff		
 inaugurowano	inaugurować	imps:imperf.perf		
 inaugurowanych	inaugurować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -15080,13 +15119,14 @@ inbredowane	inbredować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inbredowane	inbredować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inbredowanej	inbredować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inbredowanemu	inbredować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inbredowaniach	inbredować	ger:pl:loc:n2:imperf:aff		
 inbredowania	inbredować	ger:pl:nom.acc:n2:imperf:aff		
 inbredowania	inbredować	ger:sg:gen:n2:imperf:aff		
 inbredowaniami	inbredować	ger:pl:inst:n2:imperf:aff		
 inbredowanie	inbredować	ger:sg:nom.acc:n2:imperf:aff		
 inbredowaniem	inbredować	ger:sg:inst:n2:imperf:aff		
 inbredowani	inbredować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inbredowaniom	inbredować	ger:pl:dat.loc:n2:imperf:aff		
+inbredowaniom	inbredować	ger:pl:dat:n2:imperf:aff		
 inbredowaniu	inbredować	ger:sg:dat.loc:n2:imperf:aff		
 inbredowano	inbredować	imps:imperf		zootechn.
 inbredowanych	inbredować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -15434,13 +15474,14 @@ indagowane	indagować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 indagowane	indagować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 indagowanej	indagować	ppas:sg:gen.dat.loc:f:imperf:aff		
 indagowanemu	indagować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+indagowaniach	indagować	ger:pl:loc:n2:imperf:aff		
 indagowania	indagować	ger:pl:nom.acc:n2:imperf:aff		
 indagowania	indagować	ger:sg:gen:n2:imperf:aff		
 indagowaniami	indagować	ger:pl:inst:n2:imperf:aff		
 indagowanie	indagować	ger:sg:nom.acc:n2:imperf:aff		
 indagowaniem	indagować	ger:sg:inst:n2:imperf:aff		
 indagowani	indagować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-indagowaniom	indagować	ger:pl:dat.loc:n2:imperf:aff		
+indagowaniom	indagować	ger:pl:dat:n2:imperf:aff		
 indagowaniu	indagować	ger:sg:dat.loc:n2:imperf:aff		
 indagowano	indagować	imps:imperf		
 indagowanych	indagować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -15602,13 +15643,14 @@ indeksowane	indeksować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 indeksowane	indeksować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 indeksowanej	indeksować	ppas:sg:gen.dat.loc:f:imperf:aff		
 indeksowanemu	indeksować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+indeksowaniach	indeksować	ger:pl:loc:n2:imperf:aff		
 indeksowania	indeksować	ger:pl:nom.acc:n2:imperf:aff		
 indeksowania	indeksować	ger:sg:gen:n2:imperf:aff		
 indeksowaniami	indeksować	ger:pl:inst:n2:imperf:aff		
 indeksowanie	indeksować	ger:sg:nom.acc:n2:imperf:aff		
 indeksowaniem	indeksować	ger:sg:inst:n2:imperf:aff		
 indeksowani	indeksować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-indeksowaniom	indeksować	ger:pl:dat.loc:n2:imperf:aff		
+indeksowaniom	indeksować	ger:pl:dat:n2:imperf:aff		
 indeksowaniu	indeksować	ger:sg:dat.loc:n2:imperf:aff		
 indeksowano	indeksować	imps:imperf		
 indeksowanych	indeksować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -15780,13 +15822,14 @@ indemnizowane	indemnizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 indemnizowane	indemnizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 indemnizowanej	indemnizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 indemnizowanemu	indemnizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+indemnizowaniach	indemnizować	ger:pl:loc:n2:imperf:aff		
 indemnizowania	indemnizować	ger:pl:nom.acc:n2:imperf:aff		
 indemnizowania	indemnizować	ger:sg:gen:n2:imperf:aff		
 indemnizowaniami	indemnizować	ger:pl:inst:n2:imperf:aff		
 indemnizowanie	indemnizować	ger:sg:nom.acc:n2:imperf:aff		
 indemnizowaniem	indemnizować	ger:sg:inst:n2:imperf:aff		
 indemnizowani	indemnizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-indemnizowaniom	indemnizować	ger:pl:dat.loc:n2:imperf:aff		
+indemnizowaniom	indemnizować	ger:pl:dat:n2:imperf:aff		
 indemnizowaniu	indemnizować	ger:sg:dat.loc:n2:imperf:aff		
 indemnizowano	indemnizować	imps:imperf		przest.
 indemnizowanych	indemnizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -16481,13 +16524,14 @@ indoktrynowane	indoktrynować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 indoktrynowane	indoktrynować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 indoktrynowanej	indoktrynować	ppas:sg:gen.dat.loc:f:imperf:aff		
 indoktrynowanemu	indoktrynować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+indoktrynowaniach	indoktrynować	ger:pl:loc:n2:imperf:aff		
 indoktrynowania	indoktrynować	ger:pl:nom.acc:n2:imperf:aff		
 indoktrynowania	indoktrynować	ger:sg:gen:n2:imperf:aff		
 indoktrynowaniami	indoktrynować	ger:pl:inst:n2:imperf:aff		
 indoktrynowanie	indoktrynować	ger:sg:nom.acc:n2:imperf:aff		
 indoktrynowaniem	indoktrynować	ger:sg:inst:n2:imperf:aff		
 indoktrynowani	indoktrynować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-indoktrynowaniom	indoktrynować	ger:pl:dat.loc:n2:imperf:aff		
+indoktrynowaniom	indoktrynować	ger:pl:dat:n2:imperf:aff		
 indoktrynowaniu	indoktrynować	ger:sg:dat.loc:n2:imperf:aff		
 indoktrynowano	indoktrynować	imps:imperf		
 indoktrynowanych	indoktrynować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -16829,13 +16873,14 @@ indosowane	indosować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff
 indosowane	indosować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 indosowanej	indosować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 indosowanemu	indosować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+indosowaniach	indosować	ger:pl:loc:n2:imperf.perf:aff		
 indosowania	indosować	ger:pl:nom.acc:n2:imperf.perf:aff		
 indosowania	indosować	ger:sg:gen:n2:imperf.perf:aff		
 indosowaniami	indosować	ger:pl:inst:n2:imperf.perf:aff		
 indosowanie	indosować	ger:sg:nom.acc:n2:imperf.perf:aff		
 indosowaniem	indosować	ger:sg:inst:n2:imperf.perf:aff		
 indosowani	indosować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-indosowaniom	indosować	ger:pl:dat.loc:n2:imperf.perf:aff		
+indosowaniom	indosować	ger:pl:dat:n2:imperf.perf:aff		
 indosowaniu	indosować	ger:sg:dat.loc:n2:imperf.perf:aff		
 indosowano	indosować	imps:imperf.perf		praw.
 indosowanych	indosować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -16999,13 +17044,14 @@ indukowane	indukować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 indukowane	indukować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 indukowanej	indukować	ppas:sg:gen.dat.loc:f:imperf:aff		
 indukowanemu	indukować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+indukowaniach	indukować	ger:pl:loc:n2:imperf:aff		
 indukowania	indukować	ger:pl:nom.acc:n2:imperf:aff		
 indukowania	indukować	ger:sg:gen:n2:imperf:aff		
 indukowaniami	indukować	ger:pl:inst:n2:imperf:aff		
 indukowanie	indukować	ger:sg:nom.acc:n2:imperf:aff		
 indukowaniem	indukować	ger:sg:inst:n2:imperf:aff		
 indukowani	indukować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-indukowaniom	indukować	ger:pl:dat.loc:n2:imperf:aff		
+indukowaniom	indukować	ger:pl:dat:n2:imperf:aff		
 indukowaniu	indukować	ger:sg:dat.loc:n2:imperf:aff		
 indukowano	indukować	imps:imperf		
 indukowanych	indukować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -17315,13 +17361,14 @@ industrializowane	industrializować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:impe
 industrializowane	industrializować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 industrializowanej	industrializować	ppas:sg:gen.dat.loc:f:imperf:aff		
 industrializowanemu	industrializować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+industrializowaniach	industrializować	ger:pl:loc:n2:imperf:aff		
 industrializowania	industrializować	ger:pl:nom.acc:n2:imperf:aff		
 industrializowania	industrializować	ger:sg:gen:n2:imperf:aff		
 industrializowaniami	industrializować	ger:pl:inst:n2:imperf:aff		
 industrializowanie	industrializować	ger:sg:nom.acc:n2:imperf:aff		
 industrializowaniem	industrializować	ger:sg:inst:n2:imperf:aff		
 industrializowani	industrializować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-industrializowaniom	industrializować	ger:pl:dat.loc:n2:imperf:aff		
+industrializowaniom	industrializować	ger:pl:dat:n2:imperf:aff		
 industrializowaniu	industrializować	ger:sg:dat.loc:n2:imperf:aff		
 industrializowano	industrializować	imps:imperf		
 industrializowanych	industrializować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -17588,12 +17635,13 @@ indyczącym	indyczyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 indyczącym	indyczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 indyczą	indyczyć	fin:pl:ter:imperf		
 indyczcie	indyczyć	impt:pl:sec:imperf		
+indyczeniach	indyczyć	ger:pl:loc:n2:imperf:aff		
 indyczenia	indyczyć	ger:pl:nom.acc:n2:imperf:aff		
 indyczenia	indyczyć	ger:sg:gen:n2:imperf:aff		
 indyczeniami	indyczyć	ger:pl:inst:n2:imperf:aff		
 indyczenie	indyczyć	ger:sg:nom.acc:n2:imperf:aff		
 indyczeniem	indyczyć	ger:sg:inst:n2:imperf:aff		
-indyczeniom	indyczyć	ger:pl:dat.loc:n2:imperf:aff		
+indyczeniom	indyczyć	ger:pl:dat:n2:imperf:aff		
 indyczeniu	indyczyć	ger:sg:dat.loc:n2:imperf:aff		
 indyczeń	indyczyć	ger:pl:gen:n2:imperf:aff		
 indyczę	indyczyć	fin:sg:pri:imperf		
@@ -18107,13 +18155,14 @@ indykowane	indykować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 indykowane	indykować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 indykowanej	indykować	ppas:sg:gen.dat.loc:f:imperf:aff		
 indykowanemu	indykować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+indykowaniach	indykować	ger:pl:loc:n2:imperf:aff		
 indykowania	indykować	ger:pl:nom.acc:n2:imperf:aff		
 indykowania	indykować	ger:sg:gen:n2:imperf:aff		
 indykowaniami	indykować	ger:pl:inst:n2:imperf:aff		
 indykowanie	indykować	ger:sg:nom.acc:n2:imperf:aff		
 indykowaniem	indykować	ger:sg:inst:n2:imperf:aff		
 indykowani	indykować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-indykowaniom	indykować	ger:pl:dat.loc:n2:imperf:aff		
+indykowaniom	indykować	ger:pl:dat:n2:imperf:aff		
 indykowaniu	indykować	ger:sg:dat.loc:n2:imperf:aff		
 indykowano	indykować	imps:imperf		
 indykowanych	indykować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -18337,13 +18386,14 @@ indywidualizowane	indywidualizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:impe
 indywidualizowane	indywidualizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 indywidualizowanej	indywidualizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 indywidualizowanemu	indywidualizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+indywidualizowaniach	indywidualizować	ger:pl:loc:n2:imperf:aff		
 indywidualizowania	indywidualizować	ger:pl:nom.acc:n2:imperf:aff		
 indywidualizowania	indywidualizować	ger:sg:gen:n2:imperf:aff		
 indywidualizowaniami	indywidualizować	ger:pl:inst:n2:imperf:aff		
 indywidualizowanie	indywidualizować	ger:sg:nom.acc:n2:imperf:aff		
 indywidualizowaniem	indywidualizować	ger:sg:inst:n2:imperf:aff		
 indywidualizowani	indywidualizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-indywidualizowaniom	indywidualizować	ger:pl:dat.loc:n2:imperf:aff		
+indywidualizowaniom	indywidualizować	ger:pl:dat:n2:imperf:aff		
 indywidualizowaniu	indywidualizować	ger:sg:dat.loc:n2:imperf:aff		
 indywidualizowano	indywidualizować	imps:imperf		
 indywidualizowanych	indywidualizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -18646,13 +18696,14 @@ infamowane	infamować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 infamowane	infamować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 infamowanej	infamować	ppas:sg:gen.dat.loc:f:imperf:aff		
 infamowanemu	infamować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+infamowaniach	infamować	ger:pl:loc:n2:imperf:aff		
 infamowania	infamować	ger:pl:nom.acc:n2:imperf:aff		
 infamowania	infamować	ger:sg:gen:n2:imperf:aff		
 infamowaniami	infamować	ger:pl:inst:n2:imperf:aff		
 infamowanie	infamować	ger:sg:nom.acc:n2:imperf:aff		
 infamowaniem	infamować	ger:sg:inst:n2:imperf:aff		
 infamowani	infamować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-infamowaniom	infamować	ger:pl:dat.loc:n2:imperf:aff		
+infamowaniom	infamować	ger:pl:dat:n2:imperf:aff		
 infamowaniu	infamować	ger:sg:dat.loc:n2:imperf:aff		
 infamowano	infamować	imps:imperf		daw.
 infamowanych	infamować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -18939,13 +18990,14 @@ infantylizowane	infantylizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:a
 infantylizowane	infantylizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 infantylizowanej	infantylizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 infantylizowanemu	infantylizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+infantylizowaniach	infantylizować	ger:pl:loc:n2:imperf:aff		
 infantylizowania	infantylizować	ger:pl:nom.acc:n2:imperf:aff		
 infantylizowania	infantylizować	ger:sg:gen:n2:imperf:aff		
 infantylizowaniami	infantylizować	ger:pl:inst:n2:imperf:aff		
 infantylizowanie	infantylizować	ger:sg:nom.acc:n2:imperf:aff		
 infantylizowaniem	infantylizować	ger:sg:inst:n2:imperf:aff		
 infantylizowani	infantylizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-infantylizowaniom	infantylizować	ger:pl:dat.loc:n2:imperf:aff		
+infantylizowaniom	infantylizować	ger:pl:dat:n2:imperf:aff		
 infantylizowaniu	infantylizować	ger:sg:dat.loc:n2:imperf:aff		
 infantylizowano	infantylizować	imps:imperf		
 infantylizowanych	infantylizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -19046,12 +19098,13 @@ infantylnieli	infantylnieć	praet:pl:m1.p1:imperf
 infantylnieli	infantylnieć	praet:pl:m1.p1:ter:imperf		
 infantylnieliście	infantylnieć	praet:pl:m1.p1:sec:imperf		
 infantylnieliśmy	infantylnieć	praet:pl:m1.p1:pri:imperf		
+infantylnieniach	infantylnieć	ger:pl:loc:n2:imperf:aff		
 infantylnienia	infantylnieć	ger:pl:nom.acc:n2:imperf:aff		
 infantylnienia	infantylnieć	ger:sg:gen:n2:imperf:aff		
 infantylnieniami	infantylnieć	ger:pl:inst:n2:imperf:aff		
 infantylnienie	infantylnieć	ger:sg:nom.acc:n2:imperf:aff		
 infantylnieniem	infantylnieć	ger:sg:inst:n2:imperf:aff		
-infantylnieniom	infantylnieć	ger:pl:dat.loc:n2:imperf:aff		
+infantylnieniom	infantylnieć	ger:pl:dat:n2:imperf:aff		
 infantylnieniu	infantylnieć	ger:sg:dat.loc:n2:imperf:aff		
 infantylnień	infantylnieć	ger:pl:gen:n2:imperf:aff		
 infantylnościach	infantylność	subst:pl:loc:f		
@@ -19189,13 +19242,14 @@ infekowane	infekować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 infekowane	infekować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 infekowanej	infekować	ppas:sg:gen.dat.loc:f:imperf:aff		
 infekowanemu	infekować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+infekowaniach	infekować	ger:pl:loc:n2:imperf:aff		
 infekowania	infekować	ger:pl:nom.acc:n2:imperf:aff		
 infekowania	infekować	ger:sg:gen:n2:imperf:aff		
 infekowaniami	infekować	ger:pl:inst:n2:imperf:aff		
 infekowanie	infekować	ger:sg:nom.acc:n2:imperf:aff		
 infekowaniem	infekować	ger:sg:inst:n2:imperf:aff		
 infekowani	infekować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-infekowaniom	infekować	ger:pl:dat.loc:n2:imperf:aff		
+infekowaniom	infekować	ger:pl:dat:n2:imperf:aff		
 infekowaniu	infekować	ger:sg:dat.loc:n2:imperf:aff		
 infekowano	infekować	imps:imperf		
 infekowanych	infekować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -19368,13 +19422,14 @@ infestowane	infestować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 infestowane	infestować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 infestowanej	infestować	ppas:sg:gen.dat.loc:f:imperf:aff		
 infestowanemu	infestować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+infestowaniach	infestować	ger:pl:loc:n2:imperf:aff		
 infestowania	infestować	ger:pl:nom.acc:n2:imperf:aff		
 infestowania	infestować	ger:sg:gen:n2:imperf:aff		
 infestowaniami	infestować	ger:pl:inst:n2:imperf:aff		
 infestowanie	infestować	ger:sg:nom.acc:n2:imperf:aff		
 infestowaniem	infestować	ger:sg:inst:n2:imperf:aff		
 infestowani	infestować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-infestowaniom	infestować	ger:pl:dat.loc:n2:imperf:aff		
+infestowaniom	infestować	ger:pl:dat:n2:imperf:aff		
 infestowaniu	infestować	ger:sg:dat.loc:n2:imperf:aff		
 infestowano	infestować	imps:imperf		daw.
 infestowanych	infestować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -19499,13 +19554,14 @@ infiltrowane	infiltrować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 infiltrowane	infiltrować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 infiltrowanej	infiltrować	ppas:sg:gen.dat.loc:f:imperf:aff		
 infiltrowanemu	infiltrować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+infiltrowaniach	infiltrować	ger:pl:loc:n2:imperf:aff		
 infiltrowania	infiltrować	ger:pl:nom.acc:n2:imperf:aff		
 infiltrowania	infiltrować	ger:sg:gen:n2:imperf:aff		
 infiltrowaniami	infiltrować	ger:pl:inst:n2:imperf:aff		
 infiltrowanie	infiltrować	ger:sg:nom.acc:n2:imperf:aff		
 infiltrowaniem	infiltrować	ger:sg:inst:n2:imperf:aff		
 infiltrowani	infiltrować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-infiltrowaniom	infiltrować	ger:pl:dat.loc:n2:imperf:aff		
+infiltrowaniom	infiltrować	ger:pl:dat:n2:imperf:aff		
 infiltrowaniu	infiltrować	ger:sg:dat.loc:n2:imperf:aff		
 infiltrowano	infiltrować	imps:imperf		
 infiltrowanych	infiltrować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -20280,13 +20336,14 @@ informatyzowane	informatyzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:a
 informatyzowane	informatyzować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 informatyzowanej	informatyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 informatyzowanemu	informatyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+informatyzowaniach	informatyzować	ger:pl:loc:n2:imperf:aff		
 informatyzowania	informatyzować	ger:pl:nom.acc:n2:imperf:aff		
 informatyzowania	informatyzować	ger:sg:gen:n2:imperf:aff		
 informatyzowaniami	informatyzować	ger:pl:inst:n2:imperf:aff		
 informatyzowanie	informatyzować	ger:sg:nom.acc:n2:imperf:aff		
 informatyzowaniem	informatyzować	ger:sg:inst:n2:imperf:aff		
 informatyzowani	informatyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-informatyzowaniom	informatyzować	ger:pl:dat.loc:n2:imperf:aff		
+informatyzowaniom	informatyzować	ger:pl:dat:n2:imperf:aff		
 informatyzowaniu	informatyzować	ger:sg:dat.loc:n2:imperf:aff		
 informatyzowano	informatyzować	imps:imperf		
 informatyzowanych	informatyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -20382,13 +20439,14 @@ informowane	informować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 informowane	informować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 informowanej	informować	ppas:sg:gen.dat.loc:f:imperf:aff		
 informowanemu	informować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+informowaniach	informować	ger:pl:loc:n2:imperf:aff		
 informowania	informować	ger:pl:nom.acc:n2:imperf:aff		
 informowania	informować	ger:sg:gen:n2:imperf:aff		
 informowaniami	informować	ger:pl:inst:n2:imperf:aff		
 informowanie	informować	ger:sg:nom.acc:n2:imperf:aff		
 informowaniem	informować	ger:sg:inst:n2:imperf:aff		
 informowani	informować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-informowaniom	informować	ger:pl:dat.loc:n2:imperf:aff		
+informowaniom	informować	ger:pl:dat:n2:imperf:aff		
 informowaniu	informować	ger:sg:dat.loc:n2:imperf:aff		
 informowano	informować	imps:imperf		
 informowanych	informować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -20829,12 +20887,13 @@ ingerowały	ingerować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 ingerowały	ingerować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 ingerowałyście	ingerować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 ingerowałyśmy	ingerować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+ingerowaniach	ingerować	ger:pl:loc:n2:imperf:aff		
 ingerowania	ingerować	ger:pl:nom.acc:n2:imperf:aff		
 ingerowania	ingerować	ger:sg:gen:n2:imperf:aff		
 ingerowaniami	ingerować	ger:pl:inst:n2:imperf:aff		
 ingerowanie	ingerować	ger:sg:nom.acc:n2:imperf:aff		
 ingerowaniem	ingerować	ger:sg:inst:n2:imperf:aff		
-ingerowaniom	ingerować	ger:pl:dat.loc:n2:imperf:aff		
+ingerowaniom	ingerować	ger:pl:dat:n2:imperf:aff		
 ingerowaniu	ingerować	ger:sg:dat.loc:n2:imperf:aff		
 ingerowano	ingerować	imps:imperf		
 ingerowań	ingerować	ger:pl:gen:n2:imperf:aff		
@@ -20966,13 +21025,14 @@ ingresowane	ingresować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 ingresowane	ingresować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 ingresowanej	ingresować	ppas:sg:gen.dat.loc:f:imperf:aff		
 ingresowanemu	ingresować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ingresowaniach	ingresować	ger:pl:loc:n2:imperf:aff		
 ingresowania	ingresować	ger:pl:nom.acc:n2:imperf:aff		
 ingresowania	ingresować	ger:sg:gen:n2:imperf:aff		
 ingresowaniami	ingresować	ger:pl:inst:n2:imperf:aff		
 ingresowanie	ingresować	ger:sg:nom.acc:n2:imperf:aff		
 ingresowaniem	ingresować	ger:sg:inst:n2:imperf:aff		
 ingresowani	ingresować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ingresowaniom	ingresować	ger:pl:dat.loc:n2:imperf:aff		
+ingresowaniom	ingresować	ger:pl:dat:n2:imperf:aff		
 ingresowaniu	ingresować	ger:sg:dat.loc:n2:imperf:aff		
 ingresowano	ingresować	imps:imperf		daw.
 ingresowanych	ingresować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -21129,13 +21189,14 @@ ingrosowane	ingrosować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 ingrosowane	ingrosować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 ingrosowanej	ingrosować	ppas:sg:gen.dat.loc:f:imperf:aff		
 ingrosowanemu	ingrosować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ingrosowaniach	ingrosować	ger:pl:loc:n2:imperf:aff		
 ingrosowania	ingrosować	ger:pl:nom.acc:n2:imperf:aff		
 ingrosowania	ingrosować	ger:sg:gen:n2:imperf:aff		
 ingrosowaniami	ingrosować	ger:pl:inst:n2:imperf:aff		
 ingrosowanie	ingrosować	ger:sg:nom.acc:n2:imperf:aff		
 ingrosowaniem	ingrosować	ger:sg:inst:n2:imperf:aff		
 ingrosowani	ingrosować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ingrosowaniom	ingrosować	ger:pl:dat.loc:n2:imperf:aff		
+ingrosowaniom	ingrosować	ger:pl:dat:n2:imperf:aff		
 ingrosowaniu	ingrosować	ger:sg:dat.loc:n2:imperf:aff		
 ingrosowano	ingrosować	imps:imperf		daw.
 ingrosowanych	ingrosować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -21303,12 +21364,13 @@ inhalowały	inhalować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 inhalowały	inhalować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 inhalowałyście	inhalować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 inhalowałyśmy	inhalować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+inhalowaniach	inhalować	ger:pl:loc:n2:imperf:aff		
 inhalowania	inhalować	ger:pl:nom.acc:n2:imperf:aff		
 inhalowania	inhalować	ger:sg:gen:n2:imperf:aff		
 inhalowaniami	inhalować	ger:pl:inst:n2:imperf:aff		
 inhalowanie	inhalować	ger:sg:nom.acc:n2:imperf:aff		
 inhalowaniem	inhalować	ger:sg:inst:n2:imperf:aff		
-inhalowaniom	inhalować	ger:pl:dat.loc:n2:imperf:aff		
+inhalowaniom	inhalować	ger:pl:dat:n2:imperf:aff		
 inhalowaniu	inhalować	ger:sg:dat.loc:n2:imperf:aff		
 inhalowano	inhalować	imps:imperf		
 inhalowań	inhalować	ger:pl:gen:n2:imperf:aff		
@@ -21836,13 +21898,14 @@ inicjowane	inicjować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inicjowane	inicjować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inicjowanej	inicjować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inicjowanemu	inicjować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inicjowaniach	inicjować	ger:pl:loc:n2:imperf:aff		
 inicjowania	inicjować	ger:pl:nom.acc:n2:imperf:aff		
 inicjowania	inicjować	ger:sg:gen:n2:imperf:aff		
 inicjowaniami	inicjować	ger:pl:inst:n2:imperf:aff		
 inicjowanie	inicjować	ger:sg:nom.acc:n2:imperf:aff		
 inicjowaniem	inicjować	ger:sg:inst:n2:imperf:aff		
 inicjowani	inicjować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inicjowaniom	inicjować	ger:pl:dat.loc:n2:imperf:aff		
+inicjowaniom	inicjować	ger:pl:dat:n2:imperf:aff		
 inicjowaniu	inicjować	ger:sg:dat.loc:n2:imperf:aff		
 inicjowano	inicjować	imps:imperf		
 inicjowanych	inicjować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -22126,13 +22189,14 @@ inkantowane	inkantować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inkantowane	inkantować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inkantowanej	inkantować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inkantowanemu	inkantować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inkantowaniach	inkantować	ger:pl:loc:n2:imperf:aff		
 inkantowania	inkantować	ger:pl:nom.acc:n2:imperf:aff		
 inkantowania	inkantować	ger:sg:gen:n2:imperf:aff		
 inkantowaniami	inkantować	ger:pl:inst:n2:imperf:aff		
 inkantowanie	inkantować	ger:sg:nom.acc:n2:imperf:aff		
 inkantowaniem	inkantować	ger:sg:inst:n2:imperf:aff		
 inkantowani	inkantować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inkantowaniom	inkantować	ger:pl:dat.loc:n2:imperf:aff		
+inkantowaniom	inkantować	ger:pl:dat:n2:imperf:aff		
 inkantowaniu	inkantować	ger:sg:dat.loc:n2:imperf:aff		
 inkantowano	inkantować	imps:imperf		rzad.
 inkantowanych	inkantować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -22256,13 +22320,14 @@ inkarnowane	inkarnować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inkarnowane	inkarnować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inkarnowanej	inkarnować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inkarnowanemu	inkarnować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inkarnowaniach	inkarnować	ger:pl:loc:n2:imperf:aff		
 inkarnowania	inkarnować	ger:pl:nom.acc:n2:imperf:aff		
 inkarnowania	inkarnować	ger:sg:gen:n2:imperf:aff		
 inkarnowaniami	inkarnować	ger:pl:inst:n2:imperf:aff		
 inkarnowanie	inkarnować	ger:sg:nom.acc:n2:imperf:aff		
 inkarnowaniem	inkarnować	ger:sg:inst:n2:imperf:aff		
 inkarnowani	inkarnować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inkarnowaniom	inkarnować	ger:pl:dat.loc:n2:imperf:aff		
+inkarnowaniom	inkarnować	ger:pl:dat:n2:imperf:aff		
 inkarnowaniu	inkarnować	ger:sg:dat.loc:n2:imperf:aff		
 inkarnowano	inkarnować	imps:imperf		
 inkarnowanych	inkarnować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -22453,13 +22518,14 @@ inkasowane	inkasować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inkasowane	inkasować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inkasowanej	inkasować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inkasowanemu	inkasować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inkasowaniach	inkasować	ger:pl:loc:n2:imperf:aff		
 inkasowania	inkasować	ger:pl:nom.acc:n2:imperf:aff		
 inkasowania	inkasować	ger:sg:gen:n2:imperf:aff		
 inkasowaniami	inkasować	ger:pl:inst:n2:imperf:aff		
 inkasowanie	inkasować	ger:sg:nom.acc:n2:imperf:aff		
 inkasowaniem	inkasować	ger:sg:inst:n2:imperf:aff		
 inkasowani	inkasować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inkasowaniom	inkasować	ger:pl:dat.loc:n2:imperf:aff		
+inkasowaniom	inkasować	ger:pl:dat:n2:imperf:aff		
 inkasowaniu	inkasować	ger:sg:dat.loc:n2:imperf:aff		
 inkasowano	inkasować	imps:imperf		
 inkasowanych	inkasować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -22665,12 +22731,13 @@ inklinowały	inklinować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		przest.
 inklinowały	inklinować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
 inklinowałyście	inklinować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
 inklinowałyśmy	inklinować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+inklinowaniach	inklinować	ger:pl:loc:n2:imperf:aff		
 inklinowania	inklinować	ger:pl:nom.acc:n2:imperf:aff		
 inklinowania	inklinować	ger:sg:gen:n2:imperf:aff		
 inklinowaniami	inklinować	ger:pl:inst:n2:imperf:aff		
 inklinowanie	inklinować	ger:sg:nom.acc:n2:imperf:aff		
 inklinowaniem	inklinować	ger:sg:inst:n2:imperf:aff		
-inklinowaniom	inklinować	ger:pl:dat.loc:n2:imperf:aff		
+inklinowaniom	inklinować	ger:pl:dat:n2:imperf:aff		
 inklinowaniu	inklinować	ger:sg:dat.loc:n2:imperf:aff		
 inklinowano	inklinować	imps:imperf		przest.
 inklinowań	inklinować	ger:pl:gen:n2:imperf:aff		
@@ -22892,13 +22959,14 @@ inkomodowane	inkomodować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inkomodowane	inkomodować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inkomodowanej	inkomodować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inkomodowanemu	inkomodować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inkomodowaniach	inkomodować	ger:pl:loc:n2:imperf:aff		
 inkomodowania	inkomodować	ger:pl:nom.acc:n2:imperf:aff		
 inkomodowania	inkomodować	ger:sg:gen:n2:imperf:aff		
 inkomodowaniami	inkomodować	ger:pl:inst:n2:imperf:aff		
 inkomodowanie	inkomodować	ger:sg:nom.acc:n2:imperf:aff		
 inkomodowaniem	inkomodować	ger:sg:inst:n2:imperf:aff		
 inkomodowani	inkomodować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inkomodowaniom	inkomodować	ger:pl:dat.loc:n2:imperf:aff		
+inkomodowaniom	inkomodować	ger:pl:dat:n2:imperf:aff		
 inkomodowaniu	inkomodować	ger:sg:dat.loc:n2:imperf:aff		
 inkomodowano	inkomodować	imps:imperf		daw.
 inkomodowanych	inkomodować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -23122,13 +23190,14 @@ inkorporowane	inkorporować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:
 inkorporowane	inkorporować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 inkorporowanej	inkorporować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 inkorporowanemu	inkorporować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+inkorporowaniach	inkorporować	ger:pl:loc:n2:imperf.perf:aff		
 inkorporowania	inkorporować	ger:pl:nom.acc:n2:imperf.perf:aff		
 inkorporowania	inkorporować	ger:sg:gen:n2:imperf.perf:aff		
 inkorporowaniami	inkorporować	ger:pl:inst:n2:imperf.perf:aff		
 inkorporowanie	inkorporować	ger:sg:nom.acc:n2:imperf.perf:aff		
 inkorporowaniem	inkorporować	ger:sg:inst:n2:imperf.perf:aff		
 inkorporowani	inkorporować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-inkorporowaniom	inkorporować	ger:pl:dat.loc:n2:imperf.perf:aff		
+inkorporowaniom	inkorporować	ger:pl:dat:n2:imperf.perf:aff		
 inkorporowaniu	inkorporować	ger:sg:dat.loc:n2:imperf.perf:aff		
 inkorporowano	inkorporować	imps:imperf.perf		
 inkorporowanych	inkorporować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -23253,13 +23322,14 @@ inkrustowane	inkrustować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inkrustowane	inkrustować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inkrustowanej	inkrustować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inkrustowanemu	inkrustować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inkrustowaniach	inkrustować	ger:pl:loc:n2:imperf:aff		
 inkrustowania	inkrustować	ger:pl:nom.acc:n2:imperf:aff		
 inkrustowania	inkrustować	ger:sg:gen:n2:imperf:aff		
 inkrustowaniami	inkrustować	ger:pl:inst:n2:imperf:aff		
 inkrustowanie	inkrustować	ger:sg:nom.acc:n2:imperf:aff		
 inkrustowaniem	inkrustować	ger:sg:inst:n2:imperf:aff		
 inkrustowani	inkrustować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inkrustowaniom	inkrustować	ger:pl:dat.loc:n2:imperf:aff		
+inkrustowaniom	inkrustować	ger:pl:dat:n2:imperf:aff		
 inkrustowaniu	inkrustować	ger:sg:dat.loc:n2:imperf:aff		
 inkrustowano	inkrustować	imps:imperf		
 inkrustowanych	inkrustować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -23362,13 +23432,14 @@ inkryminowane	inkryminować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:
 inkryminowane	inkryminować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 inkryminowanej	inkryminować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 inkryminowanemu	inkryminować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+inkryminowaniach	inkryminować	ger:pl:loc:n2:imperf.perf:aff		
 inkryminowania	inkryminować	ger:pl:nom.acc:n2:imperf.perf:aff		
 inkryminowania	inkryminować	ger:sg:gen:n2:imperf.perf:aff		
 inkryminowaniami	inkryminować	ger:pl:inst:n2:imperf.perf:aff		
 inkryminowanie	inkryminować	ger:sg:nom.acc:n2:imperf.perf:aff		
 inkryminowaniem	inkryminować	ger:sg:inst:n2:imperf.perf:aff		
 inkryminowani	inkryminować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-inkryminowaniom	inkryminować	ger:pl:dat.loc:n2:imperf.perf:aff		
+inkryminowaniom	inkryminować	ger:pl:dat:n2:imperf.perf:aff		
 inkryminowaniu	inkryminować	ger:sg:dat.loc:n2:imperf.perf:aff		
 inkryminowano	inkryminować	imps:imperf.perf		
 inkryminowanych	inkryminować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -23584,13 +23655,14 @@ inkubowane	inkubować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff
 inkubowane	inkubować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 inkubowanej	inkubować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 inkubowanemu	inkubować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+inkubowaniach	inkubować	ger:pl:loc:n2:imperf.perf:aff		
 inkubowania	inkubować	ger:pl:nom.acc:n2:imperf.perf:aff		
 inkubowania	inkubować	ger:sg:gen:n2:imperf.perf:aff		
 inkubowaniami	inkubować	ger:pl:inst:n2:imperf.perf:aff		
 inkubowanie	inkubować	ger:sg:nom.acc:n2:imperf.perf:aff		
 inkubowaniem	inkubować	ger:sg:inst:n2:imperf.perf:aff		
 inkubowani	inkubować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-inkubowaniom	inkubować	ger:pl:dat.loc:n2:imperf.perf:aff		
+inkubowaniom	inkubować	ger:pl:dat:n2:imperf.perf:aff		
 inkubowaniu	inkubować	ger:sg:dat.loc:n2:imperf.perf:aff		
 inkubowano	inkubować	imps:imperf.perf		
 inkubowanych	inkubować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -23672,13 +23744,14 @@ inkulpowane	inkulpować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inkulpowane	inkulpować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inkulpowanej	inkulpować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inkulpowanemu	inkulpować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inkulpowaniach	inkulpować	ger:pl:loc:n2:imperf:aff		
 inkulpowania	inkulpować	ger:pl:nom.acc:n2:imperf:aff		
 inkulpowania	inkulpować	ger:sg:gen:n2:imperf:aff		
 inkulpowaniami	inkulpować	ger:pl:inst:n2:imperf:aff		
 inkulpowanie	inkulpować	ger:sg:nom.acc:n2:imperf:aff		
 inkulpowaniem	inkulpować	ger:sg:inst:n2:imperf:aff		
 inkulpowani	inkulpować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inkulpowaniom	inkulpować	ger:pl:dat.loc:n2:imperf:aff		
+inkulpowaniom	inkulpować	ger:pl:dat:n2:imperf:aff		
 inkulpowaniu	inkulpować	ger:sg:dat.loc:n2:imperf:aff		
 inkulpowano	inkulpować	imps:imperf		daw.
 inkulpowanych	inkulpować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -23833,13 +23906,14 @@ inkwirowane	inkwirować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inkwirowane	inkwirować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inkwirowanej	inkwirować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inkwirowanemu	inkwirować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inkwirowaniach	inkwirować	ger:pl:loc:n2:imperf:aff		
 inkwirowania	inkwirować	ger:pl:nom.acc:n2:imperf:aff		
 inkwirowania	inkwirować	ger:sg:gen:n2:imperf:aff		
 inkwirowaniami	inkwirować	ger:pl:inst:n2:imperf:aff		
 inkwirowanie	inkwirować	ger:sg:nom.acc:n2:imperf:aff		
 inkwirowaniem	inkwirować	ger:sg:inst:n2:imperf:aff		
 inkwirowani	inkwirować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inkwirowaniom	inkwirować	ger:pl:dat.loc:n2:imperf:aff		
+inkwirowaniom	inkwirować	ger:pl:dat:n2:imperf:aff		
 inkwirowaniu	inkwirować	ger:sg:dat.loc:n2:imperf:aff		
 inkwirowano	inkwirować	imps:imperf		przest.
 inkwirowanych	inkwirować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -25093,13 +25167,14 @@ inscenizowane	inscenizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inscenizowane	inscenizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inscenizowanej	inscenizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inscenizowanemu	inscenizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inscenizowaniach	inscenizować	ger:pl:loc:n2:imperf:aff		
 inscenizowania	inscenizować	ger:pl:nom.acc:n2:imperf:aff		
 inscenizowania	inscenizować	ger:sg:gen:n2:imperf:aff		
 inscenizowaniami	inscenizować	ger:pl:inst:n2:imperf:aff		
 inscenizowanie	inscenizować	ger:sg:nom.acc:n2:imperf:aff		
 inscenizowaniem	inscenizować	ger:sg:inst:n2:imperf:aff		
 inscenizowani	inscenizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inscenizowaniom	inscenizować	ger:pl:dat.loc:n2:imperf:aff		
+inscenizowaniom	inscenizować	ger:pl:dat:n2:imperf:aff		
 inscenizowaniu	inscenizować	ger:sg:dat.loc:n2:imperf:aff		
 inscenizowano	inscenizować	imps:imperf		
 inscenizowanych	inscenizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -25343,13 +25418,14 @@ inseminowane	inseminować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inseminowane	inseminować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inseminowanej	inseminować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inseminowanemu	inseminować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inseminowaniach	inseminować	ger:pl:loc:n2:imperf:aff		
 inseminowania	inseminować	ger:pl:nom.acc:n2:imperf:aff		
 inseminowania	inseminować	ger:sg:gen:n2:imperf:aff		
 inseminowaniami	inseminować	ger:pl:inst:n2:imperf:aff		
 inseminowanie	inseminować	ger:sg:nom.acc:n2:imperf:aff		
 inseminowaniem	inseminować	ger:sg:inst:n2:imperf:aff		
 inseminowani	inseminować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inseminowaniom	inseminować	ger:pl:dat.loc:n2:imperf:aff		
+inseminowaniom	inseminować	ger:pl:dat:n2:imperf:aff		
 inseminowaniu	inseminować	ger:sg:dat.loc:n2:imperf:aff		
 inseminowano	inseminować	imps:imperf		
 inseminowanych	inseminować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -25459,13 +25535,14 @@ inserowane	inserować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inserowane	inserować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inserowanej	inserować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inserowanemu	inserować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inserowaniach	inserować	ger:pl:loc:n2:imperf:aff		
 inserowania	inserować	ger:pl:nom.acc:n2:imperf:aff		
 inserowania	inserować	ger:sg:gen:n2:imperf:aff		
 inserowaniami	inserować	ger:pl:inst:n2:imperf:aff		
 inserowanie	inserować	ger:sg:nom.acc:n2:imperf:aff		
 inserowaniem	inserować	ger:sg:inst:n2:imperf:aff		
 inserowani	inserować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inserowaniom	inserować	ger:pl:dat.loc:n2:imperf:aff		
+inserowaniom	inserować	ger:pl:dat:n2:imperf:aff		
 inserowaniu	inserować	ger:sg:dat.loc:n2:imperf:aff		
 inserowano	inserować	imps:imperf		daw.
 inserowanych	inserować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -25712,13 +25789,14 @@ inspekcjonowane	inspekcjonować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.p
 inspekcjonowane	inspekcjonować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 inspekcjonowanej	inspekcjonować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 inspekcjonowanemu	inspekcjonować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+inspekcjonowaniach	inspekcjonować	ger:pl:loc:n2:imperf.perf:aff		
 inspekcjonowania	inspekcjonować	ger:pl:nom.acc:n2:imperf.perf:aff		
 inspekcjonowania	inspekcjonować	ger:sg:gen:n2:imperf.perf:aff		
 inspekcjonowaniami	inspekcjonować	ger:pl:inst:n2:imperf.perf:aff		
 inspekcjonowanie	inspekcjonować	ger:sg:nom.acc:n2:imperf.perf:aff		
 inspekcjonowaniem	inspekcjonować	ger:sg:inst:n2:imperf.perf:aff		
 inspekcjonowani	inspekcjonować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-inspekcjonowaniom	inspekcjonować	ger:pl:dat.loc:n2:imperf.perf:aff		
+inspekcjonowaniom	inspekcjonować	ger:pl:dat:n2:imperf.perf:aff		
 inspekcjonowaniu	inspekcjonować	ger:sg:dat.loc:n2:imperf.perf:aff		
 inspekcjonowano	inspekcjonować	imps:imperf.perf		
 inspekcjonowanych	inspekcjonować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -25907,12 +25985,13 @@ inspektorowały	inspektorować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 inspektorowały	inspektorować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 inspektorowałyście	inspektorować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 inspektorowałyśmy	inspektorować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+inspektorowaniach	inspektorować	ger:pl:loc:n2:imperf:aff		
 inspektorowania	inspektorować	ger:pl:nom.acc:n2:imperf:aff		
 inspektorowania	inspektorować	ger:sg:gen:n2:imperf:aff		
 inspektorowaniami	inspektorować	ger:pl:inst:n2:imperf:aff		
 inspektorowanie	inspektorować	ger:sg:nom.acc:n2:imperf:aff		
 inspektorowaniem	inspektorować	ger:sg:inst:n2:imperf:aff		
-inspektorowaniom	inspektorować	ger:pl:dat.loc:n2:imperf:aff		
+inspektorowaniom	inspektorować	ger:pl:dat:n2:imperf:aff		
 inspektorowaniu	inspektorować	ger:sg:dat.loc:n2:imperf:aff		
 inspektorowano	inspektorować	imps:imperf		
 inspektorowań	inspektorować	ger:pl:gen:n2:imperf:aff		
@@ -26285,13 +26364,14 @@ inspirowane	inspirować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inspirowane	inspirować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inspirowanej	inspirować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inspirowanemu	inspirować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inspirowaniach	inspirować	ger:pl:loc:n2:imperf:aff		
 inspirowania	inspirować	ger:pl:nom.acc:n2:imperf:aff		
 inspirowania	inspirować	ger:sg:gen:n2:imperf:aff		
 inspirowaniami	inspirować	ger:pl:inst:n2:imperf:aff		
 inspirowanie	inspirować	ger:sg:nom.acc:n2:imperf:aff		
 inspirowaniem	inspirować	ger:sg:inst:n2:imperf:aff		
 inspirowani	inspirować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inspirowaniom	inspirować	ger:pl:dat.loc:n2:imperf:aff		
+inspirowaniom	inspirować	ger:pl:dat:n2:imperf:aff		
 inspirowaniu	inspirować	ger:sg:dat.loc:n2:imperf:aff		
 inspirowano	inspirować	imps:imperf		
 inspirowanych	inspirować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -26548,13 +26628,14 @@ instalowane	instalować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 instalowane	instalować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 instalowanej	instalować	ppas:sg:gen.dat.loc:f:imperf:aff		
 instalowanemu	instalować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+instalowaniach	instalować	ger:pl:loc:n2:imperf:aff		
 instalowania	instalować	ger:pl:nom.acc:n2:imperf:aff		
 instalowania	instalować	ger:sg:gen:n2:imperf:aff		
 instalowaniami	instalować	ger:pl:inst:n2:imperf:aff		
 instalowanie	instalować	ger:sg:nom.acc:n2:imperf:aff		
 instalowaniem	instalować	ger:sg:inst:n2:imperf:aff		
 instalowani	instalować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-instalowaniom	instalować	ger:pl:dat.loc:n2:imperf:aff		
+instalowaniom	instalować	ger:pl:dat:n2:imperf:aff		
 instalowaniu	instalować	ger:sg:dat.loc:n2:imperf:aff		
 instalowano	instalować	imps:imperf		
 instalowanych	instalować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -26681,12 +26762,13 @@ instancjonowały	instancjonować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 instancjonowały	instancjonować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 instancjonowałyście	instancjonować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 instancjonowałyśmy	instancjonować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+instancjonowaniach	instancjonować	ger:pl:loc:n2:imperf:aff		
 instancjonowania	instancjonować	ger:pl:nom.acc:n2:imperf:aff		
 instancjonowania	instancjonować	ger:sg:gen:n2:imperf:aff		
 instancjonowaniami	instancjonować	ger:pl:inst:n2:imperf:aff		
 instancjonowanie	instancjonować	ger:sg:nom.acc:n2:imperf:aff		
 instancjonowaniem	instancjonować	ger:sg:inst:n2:imperf:aff		
-instancjonowaniom	instancjonować	ger:pl:dat.loc:n2:imperf:aff		
+instancjonowaniom	instancjonować	ger:pl:dat:n2:imperf:aff		
 instancjonowaniu	instancjonować	ger:sg:dat.loc:n2:imperf:aff		
 instancjonowano	instancjonować	imps:imperf		daw.
 instancjonowań	instancjonować	ger:pl:gen:n2:imperf:aff		
@@ -26837,13 +26919,14 @@ instantyzowane	instantyzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 instantyzowane	instantyzować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 instantyzowanej	instantyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 instantyzowanemu	instantyzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+instantyzowaniach	instantyzować	ger:pl:loc:n2:imperf:aff		
 instantyzowania	instantyzować	ger:pl:nom.acc:n2:imperf:aff		
 instantyzowania	instantyzować	ger:sg:gen:n2:imperf:aff		
 instantyzowaniami	instantyzować	ger:pl:inst:n2:imperf:aff		
 instantyzowanie	instantyzować	ger:sg:nom.acc:n2:imperf:aff		
 instantyzowaniem	instantyzować	ger:sg:inst:n2:imperf:aff		
 instantyzowani	instantyzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-instantyzowaniom	instantyzować	ger:pl:dat.loc:n2:imperf:aff		
+instantyzowaniom	instantyzować	ger:pl:dat:n2:imperf:aff		
 instantyzowaniu	instantyzować	ger:sg:dat.loc:n2:imperf:aff		
 instantyzowano	instantyzować	imps:imperf		
 instantyzowanych	instantyzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -27308,13 +27391,14 @@ instrumentalizowane	instrumentalizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:
 instrumentalizowane	instrumentalizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 instrumentalizowanej	instrumentalizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 instrumentalizowanemu	instrumentalizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+instrumentalizowaniach	instrumentalizować	ger:pl:loc:n2:imperf:aff		
 instrumentalizowania	instrumentalizować	ger:pl:nom.acc:n2:imperf:aff		
 instrumentalizowania	instrumentalizować	ger:sg:gen:n2:imperf:aff		
 instrumentalizowaniami	instrumentalizować	ger:pl:inst:n2:imperf:aff		
 instrumentalizowanie	instrumentalizować	ger:sg:nom.acc:n2:imperf:aff		
 instrumentalizowaniem	instrumentalizować	ger:sg:inst:n2:imperf:aff		
 instrumentalizowani	instrumentalizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-instrumentalizowaniom	instrumentalizować	ger:pl:dat.loc:n2:imperf:aff		
+instrumentalizowaniom	instrumentalizować	ger:pl:dat:n2:imperf:aff		
 instrumentalizowaniu	instrumentalizować	ger:sg:dat.loc:n2:imperf:aff		
 instrumentalizowano	instrumentalizować	imps:imperf		
 instrumentalizowanych	instrumentalizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -27616,13 +27700,14 @@ instrumentowane	instrumentować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:a
 instrumentowane	instrumentować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 instrumentowanej	instrumentować	ppas:sg:gen.dat.loc:f:imperf:aff		
 instrumentowanemu	instrumentować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+instrumentowaniach	instrumentować	ger:pl:loc:n2:imperf:aff		
 instrumentowania	instrumentować	ger:pl:nom.acc:n2:imperf:aff		
 instrumentowania	instrumentować	ger:sg:gen:n2:imperf:aff		
 instrumentowaniami	instrumentować	ger:pl:inst:n2:imperf:aff		
 instrumentowanie	instrumentować	ger:sg:nom.acc:n2:imperf:aff		
 instrumentowaniem	instrumentować	ger:sg:inst:n2:imperf:aff		
 instrumentowani	instrumentować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-instrumentowaniom	instrumentować	ger:pl:dat.loc:n2:imperf:aff		
+instrumentowaniom	instrumentować	ger:pl:dat:n2:imperf:aff		
 instrumentowaniu	instrumentować	ger:sg:dat.loc:n2:imperf:aff		
 instrumentowano	instrumentować	imps:imperf		
 instrumentowanych	instrumentować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -27755,13 +27840,14 @@ instruowane	instruować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 instruowane	instruować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 instruowanej	instruować	ppas:sg:gen.dat.loc:f:imperf:aff		
 instruowanemu	instruować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+instruowaniach	instruować	ger:pl:loc:n2:imperf:aff		
 instruowania	instruować	ger:pl:nom.acc:n2:imperf:aff		
 instruowania	instruować	ger:sg:gen:n2:imperf:aff		
 instruowaniami	instruować	ger:pl:inst:n2:imperf:aff		
 instruowanie	instruować	ger:sg:nom.acc:n2:imperf:aff		
 instruowaniem	instruować	ger:sg:inst:n2:imperf:aff		
 instruowani	instruować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-instruowaniom	instruować	ger:pl:dat.loc:n2:imperf:aff		
+instruowaniom	instruować	ger:pl:dat:n2:imperf:aff		
 instruowaniu	instruować	ger:sg:dat.loc:n2:imperf:aff		
 instruowano	instruować	imps:imperf		
 instruowanych	instruować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -27927,13 +28013,14 @@ instygowane	instygować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 instygowane	instygować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 instygowanej	instygować	ppas:sg:gen.dat.loc:f:imperf:aff		
 instygowanemu	instygować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+instygowaniach	instygować	ger:pl:loc:n2:imperf:aff		
 instygowania	instygować	ger:pl:nom.acc:n2:imperf:aff		
 instygowania	instygować	ger:sg:gen:n2:imperf:aff		
 instygowaniami	instygować	ger:pl:inst:n2:imperf:aff		
 instygowanie	instygować	ger:sg:nom.acc:n2:imperf:aff		
 instygowaniem	instygować	ger:sg:inst:n2:imperf:aff		
 instygowani	instygować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-instygowaniom	instygować	ger:pl:dat.loc:n2:imperf:aff		
+instygowaniom	instygować	ger:pl:dat:n2:imperf:aff		
 instygowaniu	instygować	ger:sg:dat.loc:n2:imperf:aff		
 instygowano	instygować	imps:imperf		daw.
 instygowanych	instygować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -28020,12 +28107,13 @@ instynktowały	instynktować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 instynktowały	instynktować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 instynktowałyście	instynktować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 instynktowałyśmy	instynktować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+instynktowaniach	instynktować	ger:pl:loc:n2:imperf:aff		
 instynktowania	instynktować	ger:pl:nom.acc:n2:imperf:aff		
 instynktowania	instynktować	ger:sg:gen:n2:imperf:aff		
 instynktowaniami	instynktować	ger:pl:inst:n2:imperf:aff		
 instynktowanie	instynktować	ger:sg:nom.acc:n2:imperf:aff		
 instynktowaniem	instynktować	ger:sg:inst:n2:imperf:aff		
-instynktowaniom	instynktować	ger:pl:dat.loc:n2:imperf:aff		
+instynktowaniom	instynktować	ger:pl:dat:n2:imperf:aff		
 instynktowaniu	instynktować	ger:sg:dat.loc:n2:imperf:aff		
 instynktowano	instynktować	imps:imperf		daw.
 instynktowań	instynktować	ger:pl:gen:n2:imperf:aff		
@@ -28222,13 +28310,14 @@ instytucjonalizowane	instytucjonalizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p
 instytucjonalizowane	instytucjonalizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 instytucjonalizowanej	instytucjonalizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 instytucjonalizowanemu	instytucjonalizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+instytucjonalizowaniach	instytucjonalizować	ger:pl:loc:n2:imperf:aff		
 instytucjonalizowania	instytucjonalizować	ger:pl:nom.acc:n2:imperf:aff		
 instytucjonalizowania	instytucjonalizować	ger:sg:gen:n2:imperf:aff		
 instytucjonalizowaniami	instytucjonalizować	ger:pl:inst:n2:imperf:aff		
 instytucjonalizowanie	instytucjonalizować	ger:sg:nom.acc:n2:imperf:aff		
 instytucjonalizowaniem	instytucjonalizować	ger:sg:inst:n2:imperf:aff		
 instytucjonalizowani	instytucjonalizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-instytucjonalizowaniom	instytucjonalizować	ger:pl:dat.loc:n2:imperf:aff		
+instytucjonalizowaniom	instytucjonalizować	ger:pl:dat:n2:imperf:aff		
 instytucjonalizowaniu	instytucjonalizować	ger:sg:dat.loc:n2:imperf:aff		
 instytucjonalizowano	instytucjonalizować	imps:imperf		
 instytucjonalizowanych	instytucjonalizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -28626,13 +28715,14 @@ insultowane	insultować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 insultowane	insultować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 insultowanej	insultować	ppas:sg:gen.dat.loc:f:imperf:aff		
 insultowanemu	insultować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+insultowaniach	insultować	ger:pl:loc:n2:imperf:aff		
 insultowania	insultować	ger:pl:nom.acc:n2:imperf:aff		
 insultowania	insultować	ger:sg:gen:n2:imperf:aff		
 insultowaniami	insultować	ger:pl:inst:n2:imperf:aff		
 insultowanie	insultować	ger:sg:nom.acc:n2:imperf:aff		
 insultowaniem	insultować	ger:sg:inst:n2:imperf:aff		
 insultowani	insultować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-insultowaniom	insultować	ger:pl:dat.loc:n2:imperf:aff		
+insultowaniom	insultować	ger:pl:dat:n2:imperf:aff		
 insultowaniu	insultować	ger:sg:dat.loc:n2:imperf:aff		
 insultowano	insultować	imps:imperf		daw.
 insultowanych	insultować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -28905,13 +28995,14 @@ insynuowane	insynuować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 insynuowane	insynuować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 insynuowanej	insynuować	ppas:sg:gen.dat.loc:f:imperf:aff		
 insynuowanemu	insynuować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+insynuowaniach	insynuować	ger:pl:loc:n2:imperf:aff		
 insynuowania	insynuować	ger:pl:nom.acc:n2:imperf:aff		
 insynuowania	insynuować	ger:sg:gen:n2:imperf:aff		
 insynuowaniami	insynuować	ger:pl:inst:n2:imperf:aff		
 insynuowanie	insynuować	ger:sg:nom.acc:n2:imperf:aff		
 insynuowaniem	insynuować	ger:sg:inst:n2:imperf:aff		
 insynuowani	insynuować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-insynuowaniom	insynuować	ger:pl:dat.loc:n2:imperf:aff		
+insynuowaniom	insynuować	ger:pl:dat:n2:imperf:aff		
 insynuowaniu	insynuować	ger:sg:dat.loc:n2:imperf:aff		
 insynuowano	insynuować	imps:imperf		
 insynuowanych	insynuować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -29089,13 +29180,14 @@ intabulowane	intabulować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 intabulowane	intabulować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 intabulowanej	intabulować	ppas:sg:gen.dat.loc:f:imperf:aff		
 intabulowanemu	intabulować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+intabulowaniach	intabulować	ger:pl:loc:n2:imperf:aff		
 intabulowania	intabulować	ger:pl:nom.acc:n2:imperf:aff		
 intabulowania	intabulować	ger:sg:gen:n2:imperf:aff		
 intabulowaniami	intabulować	ger:pl:inst:n2:imperf:aff		
 intabulowanie	intabulować	ger:sg:nom.acc:n2:imperf:aff		
 intabulowaniem	intabulować	ger:sg:inst:n2:imperf:aff		
 intabulowani	intabulować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-intabulowaniom	intabulować	ger:pl:dat.loc:n2:imperf:aff		
+intabulowaniom	intabulować	ger:pl:dat:n2:imperf:aff		
 intabulowaniu	intabulować	ger:sg:dat.loc:n2:imperf:aff		
 intabulowano	intabulować	imps:imperf		
 intabulowanych	intabulować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -29205,13 +29297,14 @@ intarsjowane	intarsjować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 intarsjowane	intarsjować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 intarsjowanej	intarsjować	ppas:sg:gen.dat.loc:f:imperf:aff		
 intarsjowanemu	intarsjować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+intarsjowaniach	intarsjować	ger:pl:loc:n2:imperf:aff		
 intarsjowania	intarsjować	ger:pl:nom.acc:n2:imperf:aff		
 intarsjowania	intarsjować	ger:sg:gen:n2:imperf:aff		
 intarsjowaniami	intarsjować	ger:pl:inst:n2:imperf:aff		
 intarsjowanie	intarsjować	ger:sg:nom.acc:n2:imperf:aff		
 intarsjowaniem	intarsjować	ger:sg:inst:n2:imperf:aff		
 intarsjowani	intarsjować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-intarsjowaniom	intarsjować	ger:pl:dat.loc:n2:imperf:aff		
+intarsjowaniom	intarsjować	ger:pl:dat:n2:imperf:aff		
 intarsjowaniu	intarsjować	ger:sg:dat.loc:n2:imperf:aff		
 intarsjowano	intarsjować	imps:imperf		
 intarsjowanych	intarsjować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -29498,13 +29591,14 @@ integrowane	integrować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 integrowane	integrować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 integrowanej	integrować	ppas:sg:gen.dat.loc:f:imperf:aff		
 integrowanemu	integrować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+integrowaniach	integrować	ger:pl:loc:n2:imperf:aff		
 integrowania	integrować	ger:pl:nom.acc:n2:imperf:aff		
 integrowania	integrować	ger:sg:gen:n2:imperf:aff		
 integrowaniami	integrować	ger:pl:inst:n2:imperf:aff		
 integrowanie	integrować	ger:sg:nom.acc:n2:imperf:aff		
 integrowaniem	integrować	ger:sg:inst:n2:imperf:aff		
 integrowani	integrować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-integrowaniom	integrować	ger:pl:dat.loc:n2:imperf:aff		
+integrowaniom	integrować	ger:pl:dat:n2:imperf:aff		
 integrowaniu	integrować	ger:sg:dat.loc:n2:imperf:aff		
 integrowano	integrować	imps:imperf		
 integrowanych	integrować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -29803,13 +29897,14 @@ intelektualizowane	intelektualizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:im
 intelektualizowane	intelektualizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 intelektualizowanej	intelektualizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 intelektualizowanemu	intelektualizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+intelektualizowaniach	intelektualizować	ger:pl:loc:n2:imperf:aff		
 intelektualizowania	intelektualizować	ger:pl:nom.acc:n2:imperf:aff		
 intelektualizowania	intelektualizować	ger:sg:gen:n2:imperf:aff		
 intelektualizowaniami	intelektualizować	ger:pl:inst:n2:imperf:aff		
 intelektualizowanie	intelektualizować	ger:sg:nom.acc:n2:imperf:aff		
 intelektualizowaniem	intelektualizować	ger:sg:inst:n2:imperf:aff		
 intelektualizowani	intelektualizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-intelektualizowaniom	intelektualizować	ger:pl:dat.loc:n2:imperf:aff		
+intelektualizowaniom	intelektualizować	ger:pl:dat:n2:imperf:aff		
 intelektualizowaniu	intelektualizować	ger:sg:dat.loc:n2:imperf:aff		
 intelektualizowano	intelektualizować	imps:imperf		
 intelektualizowanych	intelektualizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -30476,13 +30571,14 @@ intensyfikowane	intensyfikować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:a
 intensyfikowane	intensyfikować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 intensyfikowanej	intensyfikować	ppas:sg:gen.dat.loc:f:imperf:aff		
 intensyfikowanemu	intensyfikować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+intensyfikowaniach	intensyfikować	ger:pl:loc:n2:imperf:aff		
 intensyfikowania	intensyfikować	ger:pl:nom.acc:n2:imperf:aff		
 intensyfikowania	intensyfikować	ger:sg:gen:n2:imperf:aff		
 intensyfikowaniami	intensyfikować	ger:pl:inst:n2:imperf:aff		
 intensyfikowanie	intensyfikować	ger:sg:nom.acc:n2:imperf:aff		
 intensyfikowaniem	intensyfikować	ger:sg:inst:n2:imperf:aff		
 intensyfikowani	intensyfikować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-intensyfikowaniom	intensyfikować	ger:pl:dat.loc:n2:imperf:aff		
+intensyfikowaniom	intensyfikować	ger:pl:dat:n2:imperf:aff		
 intensyfikowaniu	intensyfikować	ger:sg:dat.loc:n2:imperf:aff		
 intensyfikowano	intensyfikować	imps:imperf		
 intensyfikowanych	intensyfikować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -30584,12 +30680,13 @@ intensywnieli	intensywnieć	praet:pl:m1.p1:imperf
 intensywnieli	intensywnieć	praet:pl:m1.p1:ter:imperf		
 intensywnieliście	intensywnieć	praet:pl:m1.p1:sec:imperf		
 intensywnieliśmy	intensywnieć	praet:pl:m1.p1:pri:imperf		
+intensywnieniach	intensywnieć	ger:pl:loc:n2:imperf:aff		
 intensywnienia	intensywnieć	ger:pl:nom.acc:n2:imperf:aff		
 intensywnienia	intensywnieć	ger:sg:gen:n2:imperf:aff		
 intensywnieniami	intensywnieć	ger:pl:inst:n2:imperf:aff		
 intensywnienie	intensywnieć	ger:sg:nom.acc:n2:imperf:aff		
 intensywnieniem	intensywnieć	ger:sg:inst:n2:imperf:aff		
-intensywnieniom	intensywnieć	ger:pl:dat.loc:n2:imperf:aff		
+intensywnieniom	intensywnieć	ger:pl:dat:n2:imperf:aff		
 intensywnieniu	intensywnieć	ger:sg:dat.loc:n2:imperf:aff		
 intensywnień	intensywnieć	ger:pl:gen:n2:imperf:aff		
 intensywnościach	intensywność:s	subst:pl:loc:f	pospolita	
@@ -30864,13 +30961,14 @@ interceptowane	interceptować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 interceptowane	interceptować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 interceptowanej	interceptować	ppas:sg:gen.dat.loc:f:imperf:aff		
 interceptowanemu	interceptować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+interceptowaniach	interceptować	ger:pl:loc:n2:imperf:aff		
 interceptowania	interceptować	ger:pl:nom.acc:n2:imperf:aff		
 interceptowania	interceptować	ger:sg:gen:n2:imperf:aff		
 interceptowaniami	interceptować	ger:pl:inst:n2:imperf:aff		
 interceptowanie	interceptować	ger:sg:nom.acc:n2:imperf:aff		
 interceptowaniem	interceptować	ger:sg:inst:n2:imperf:aff		
 interceptowani	interceptować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-interceptowaniom	interceptować	ger:pl:dat.loc:n2:imperf:aff		
+interceptowaniom	interceptować	ger:pl:dat:n2:imperf:aff		
 interceptowaniu	interceptować	ger:sg:dat.loc:n2:imperf:aff		
 interceptowano	interceptować	imps:imperf		przest.
 interceptowanych	interceptować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -30995,13 +31093,14 @@ interdykowane	interdykować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 interdykowane	interdykować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 interdykowanej	interdykować	ppas:sg:gen.dat.loc:f:imperf:aff		
 interdykowanemu	interdykować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+interdykowaniach	interdykować	ger:pl:loc:n2:imperf:aff		
 interdykowania	interdykować	ger:pl:nom.acc:n2:imperf:aff		
 interdykowania	interdykować	ger:sg:gen:n2:imperf:aff		
 interdykowaniami	interdykować	ger:pl:inst:n2:imperf:aff		
 interdykowanie	interdykować	ger:sg:nom.acc:n2:imperf:aff		
 interdykowaniem	interdykować	ger:sg:inst:n2:imperf:aff		
 interdykowani	interdykować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-interdykowaniom	interdykować	ger:pl:dat.loc:n2:imperf:aff		
+interdykowaniom	interdykować	ger:pl:dat:n2:imperf:aff		
 interdykowaniu	interdykować	ger:sg:dat.loc:n2:imperf:aff		
 interdykowano	interdykować	imps:imperf		daw.
 interdykowanych	interdykować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -31225,13 +31324,14 @@ interesowane	interesować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 interesowane	interesować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 interesowanej	interesować	ppas:sg:gen.dat.loc:f:imperf:aff		
 interesowanemu	interesować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+interesowaniach	interesować	ger:pl:loc:n2:imperf:aff		
 interesowania	interesować	ger:pl:nom.acc:n2:imperf:aff		
 interesowania	interesować	ger:sg:gen:n2:imperf:aff		
 interesowaniami	interesować	ger:pl:inst:n2:imperf:aff		
 interesowanie	interesować	ger:sg:nom.acc:n2:imperf:aff		
 interesowaniem	interesować	ger:sg:inst:n2:imperf:aff		
 interesowani	interesować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-interesowaniom	interesować	ger:pl:dat.loc:n2:imperf:aff		
+interesowaniom	interesować	ger:pl:dat:n2:imperf:aff		
 interesowaniu	interesować	ger:sg:dat.loc:n2:imperf:aff		
 interesowano	interesować	imps:imperf		
 interesowanych	interesować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -31683,12 +31783,13 @@ interferowały	interferować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 interferowały	interferować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 interferowałyście	interferować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 interferowałyśmy	interferować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+interferowaniach	interferować	ger:pl:loc:n2:imperf:aff		
 interferowania	interferować	ger:pl:nom.acc:n2:imperf:aff		
 interferowania	interferować	ger:sg:gen:n2:imperf:aff		
 interferowaniami	interferować	ger:pl:inst:n2:imperf:aff		
 interferowanie	interferować	ger:sg:nom.acc:n2:imperf:aff		
 interferowaniem	interferować	ger:sg:inst:n2:imperf:aff		
-interferowaniom	interferować	ger:pl:dat.loc:n2:imperf:aff		
+interferowaniom	interferować	ger:pl:dat:n2:imperf:aff		
 interferowaniu	interferować	ger:sg:dat.loc:n2:imperf:aff		
 interferowano	interferować	imps:imperf		
 interferowań	interferować	ger:pl:gen:n2:imperf:aff		
@@ -31762,13 +31863,14 @@ interfoliowane	interfoliować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 interfoliowane	interfoliować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 interfoliowanej	interfoliować	ppas:sg:gen.dat.loc:f:imperf:aff		
 interfoliowanemu	interfoliować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+interfoliowaniach	interfoliować	ger:pl:loc:n2:imperf:aff		
 interfoliowania	interfoliować	ger:pl:nom.acc:n2:imperf:aff		
 interfoliowania	interfoliować	ger:sg:gen:n2:imperf:aff		
 interfoliowaniami	interfoliować	ger:pl:inst:n2:imperf:aff		
 interfoliowanie	interfoliować	ger:sg:nom.acc:n2:imperf:aff		
 interfoliowaniem	interfoliować	ger:sg:inst:n2:imperf:aff		
 interfoliowani	interfoliować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-interfoliowaniom	interfoliować	ger:pl:dat.loc:n2:imperf:aff		
+interfoliowaniom	interfoliować	ger:pl:dat:n2:imperf:aff		
 interfoliowaniu	interfoliować	ger:sg:dat.loc:n2:imperf:aff		
 interfoliowano	interfoliować	imps:imperf		daw.
 interfoliowanych	interfoliować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -32040,13 +32142,14 @@ interioryzowane	interioryzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:a
 interioryzowane	interioryzować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 interioryzowanej	interioryzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 interioryzowanemu	interioryzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+interioryzowaniach	interioryzować	ger:pl:loc:n2:imperf:aff		
 interioryzowania	interioryzować	ger:pl:nom.acc:n2:imperf:aff		
 interioryzowania	interioryzować	ger:sg:gen:n2:imperf:aff		
 interioryzowaniami	interioryzować	ger:pl:inst:n2:imperf:aff		
 interioryzowanie	interioryzować	ger:sg:nom.acc:n2:imperf:aff		
 interioryzowaniem	interioryzować	ger:sg:inst:n2:imperf:aff		
 interioryzowani	interioryzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-interioryzowaniom	interioryzować	ger:pl:dat.loc:n2:imperf:aff		
+interioryzowaniom	interioryzować	ger:pl:dat:n2:imperf:aff		
 interioryzowaniu	interioryzować	ger:sg:dat.loc:n2:imperf:aff		
 interioryzowano	interioryzować	imps:imperf		rzad.
 interioryzowanych	interioryzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -32371,13 +32474,14 @@ interliniowane	interliniować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 interliniowane	interliniować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 interliniowanej	interliniować	ppas:sg:gen.dat.loc:f:imperf:aff		
 interliniowanemu	interliniować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+interliniowaniach	interliniować	ger:pl:loc:n2:imperf:aff		
 interliniowania	interliniować	ger:pl:nom.acc:n2:imperf:aff		
 interliniowania	interliniować	ger:sg:gen:n2:imperf:aff		
 interliniowaniami	interliniować	ger:pl:inst:n2:imperf:aff		
 interliniowanie	interliniować	ger:sg:nom.acc:n2:imperf:aff		
 interliniowaniem	interliniować	ger:sg:inst:n2:imperf:aff		
 interliniowani	interliniować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-interliniowaniom	interliniować	ger:pl:dat.loc:n2:imperf:aff		
+interliniowaniom	interliniować	ger:pl:dat:n2:imperf:aff		
 interliniowaniu	interliniować	ger:sg:dat.loc:n2:imperf:aff		
 interliniowano	interliniować	imps:imperf		poligr.
 interliniowanych	interliniować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -32772,13 +32876,14 @@ internacjonalizowane	internacjonalizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p
 internacjonalizowane	internacjonalizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 internacjonalizowanej	internacjonalizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 internacjonalizowanemu	internacjonalizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+internacjonalizowaniach	internacjonalizować	ger:pl:loc:n2:imperf:aff		
 internacjonalizowania	internacjonalizować	ger:pl:nom.acc:n2:imperf:aff		
 internacjonalizowania	internacjonalizować	ger:sg:gen:n2:imperf:aff		
 internacjonalizowaniami	internacjonalizować	ger:pl:inst:n2:imperf:aff		
 internacjonalizowanie	internacjonalizować	ger:sg:nom.acc:n2:imperf:aff		
 internacjonalizowaniem	internacjonalizować	ger:sg:inst:n2:imperf:aff		
 internacjonalizowani	internacjonalizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-internacjonalizowaniom	internacjonalizować	ger:pl:dat.loc:n2:imperf:aff		
+internacjonalizowaniom	internacjonalizować	ger:pl:dat:n2:imperf:aff		
 internacjonalizowaniu	internacjonalizować	ger:sg:dat.loc:n2:imperf:aff		
 internacjonalizowano	internacjonalizować	imps:imperf		
 internacjonalizowanych	internacjonalizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -32982,13 +33087,14 @@ internalizowane	internalizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:a
 internalizowane	internalizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 internalizowanej	internalizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 internalizowanemu	internalizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+internalizowaniach	internalizować	ger:pl:loc:n2:imperf:aff		
 internalizowania	internalizować	ger:pl:nom.acc:n2:imperf:aff		
 internalizowania	internalizować	ger:sg:gen:n2:imperf:aff		
 internalizowaniami	internalizować	ger:pl:inst:n2:imperf:aff		
 internalizowanie	internalizować	ger:sg:nom.acc:n2:imperf:aff		
 internalizowaniem	internalizować	ger:sg:inst:n2:imperf:aff		
 internalizowani	internalizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-internalizowaniom	internalizować	ger:pl:dat.loc:n2:imperf:aff		
+internalizowaniom	internalizować	ger:pl:dat:n2:imperf:aff		
 internalizowaniu	internalizować	ger:sg:dat.loc:n2:imperf:aff		
 internalizowano	internalizować	imps:imperf		
 internalizowanych	internalizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -33289,13 +33395,14 @@ internowane	internować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff
 internowane	internować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 internowanej	internować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 internowanemu	internować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+internowaniach	internować	ger:pl:loc:n2:imperf.perf:aff		
 internowania	internować	ger:pl:nom.acc:n2:imperf.perf:aff		
 internowania	internować	ger:sg:gen:n2:imperf.perf:aff		
 internowaniami	internować	ger:pl:inst:n2:imperf.perf:aff		
 internowanie	internować	ger:sg:nom.acc:n2:imperf.perf:aff		
 internowaniem	internować	ger:sg:inst:n2:imperf.perf:aff		
 internowani	internować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-internowaniom	internować	ger:pl:dat.loc:n2:imperf.perf:aff		
+internowaniom	internować	ger:pl:dat:n2:imperf.perf:aff		
 internowaniu	internować	ger:sg:dat.loc:n2:imperf.perf:aff		
 internowano	internować	imps:imperf.perf		
 internowanych	internować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -33562,13 +33669,14 @@ interpelowane	interpelować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 interpelowane	interpelować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 interpelowanej	interpelować	ppas:sg:gen.dat.loc:f:imperf:aff		
 interpelowanemu	interpelować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+interpelowaniach	interpelować	ger:pl:loc:n2:imperf:aff		
 interpelowania	interpelować	ger:pl:nom.acc:n2:imperf:aff		
 interpelowania	interpelować	ger:sg:gen:n2:imperf:aff		
 interpelowaniami	interpelować	ger:pl:inst:n2:imperf:aff		
 interpelowanie	interpelować	ger:sg:nom.acc:n2:imperf:aff		
 interpelowaniem	interpelować	ger:sg:inst:n2:imperf:aff		
 interpelowani	interpelować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-interpelowaniom	interpelować	ger:pl:dat.loc:n2:imperf:aff		
+interpelowaniom	interpelować	ger:pl:dat:n2:imperf:aff		
 interpelowaniu	interpelować	ger:sg:dat.loc:n2:imperf:aff		
 interpelowano	interpelować	imps:imperf		
 interpelowanych	interpelować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -33741,13 +33849,14 @@ interpolowane	interpolować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:
 interpolowane	interpolować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 interpolowanej	interpolować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 interpolowanemu	interpolować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+interpolowaniach	interpolować	ger:pl:loc:n2:imperf.perf:aff		
 interpolowania	interpolować	ger:pl:nom.acc:n2:imperf.perf:aff		
 interpolowania	interpolować	ger:sg:gen:n2:imperf.perf:aff		
 interpolowaniami	interpolować	ger:pl:inst:n2:imperf.perf:aff		
 interpolowanie	interpolować	ger:sg:nom.acc:n2:imperf.perf:aff		
 interpolowaniem	interpolować	ger:sg:inst:n2:imperf.perf:aff		
 interpolowani	interpolować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-interpolowaniom	interpolować	ger:pl:dat.loc:n2:imperf.perf:aff		
+interpolowaniom	interpolować	ger:pl:dat:n2:imperf.perf:aff		
 interpolowaniu	interpolować	ger:sg:dat.loc:n2:imperf.perf:aff		
 interpolowano	interpolować	imps:imperf.perf		
 interpolowanych	interpolować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -33982,13 +34091,14 @@ interpretowane	interpretować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 interpretowane	interpretować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 interpretowanej	interpretować	ppas:sg:gen.dat.loc:f:imperf:aff		
 interpretowanemu	interpretować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+interpretowaniach	interpretować	ger:pl:loc:n2:imperf:aff		
 interpretowania	interpretować	ger:pl:nom.acc:n2:imperf:aff		
 interpretowania	interpretować	ger:sg:gen:n2:imperf:aff		
 interpretowaniami	interpretować	ger:pl:inst:n2:imperf:aff		
 interpretowanie	interpretować	ger:sg:nom.acc:n2:imperf:aff		
 interpretowaniem	interpretować	ger:sg:inst:n2:imperf:aff		
 interpretowani	interpretować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-interpretowaniom	interpretować	ger:pl:dat.loc:n2:imperf:aff		
+interpretowaniom	interpretować	ger:pl:dat:n2:imperf:aff		
 interpretowaniu	interpretować	ger:sg:dat.loc:n2:imperf:aff		
 interpretowano	interpretować	imps:imperf		
 interpretowanych	interpretować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -34170,6 +34280,8 @@ intersekcjo	intersekcja	subst:sg:voc:f	pospolita
 intersekcjom	intersekcja	subst:pl:dat:f	pospolita	
 intersekcyj	intersekcja	subst:pl:gen:f	pospolita	arch.|char.
 interseksach	interseks	subst:pl:loc:m2	pospolita	
+interseksa	interseks	subst:sg:acc:m2	pospolita	
+interseksa	interseks	subst:sg:gen:m2	pospolita	
 interseksami	interseks	subst:pl:inst:m2	pospolita	
 interseksem	interseks	subst:sg:inst:m2	pospolita	
 interseksie	interseks	subst:sg:loc:m2	pospolita	
@@ -34178,8 +34290,6 @@ interseks	interseks	subst:sg:nom:m2	pospolita
 interseksom	interseks	subst:pl:dat:m2	pospolita	
 interseksowi	interseks	subst:sg:dat:m2	pospolita	
 interseksów	interseks	subst:pl:gen:m2	pospolita	
-interseksu	interseks	subst:sg:acc:m2	pospolita	
-interseksu	interseks	subst:sg:gen:m2	pospolita	
 interseksy	interseks	subst:pl:acc:m2	pospolita	
 interseksy	interseks	subst:pl:nom:m2	pospolita	
 interseksy	interseks	subst:pl:voc:m2	pospolita	
@@ -34673,12 +34783,13 @@ interweniowały	interweniować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf.perf
 interweniowały	interweniować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf.perf		
 interweniowałyście	interweniować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf.perf		
 interweniowałyśmy	interweniować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf.perf		
+interweniowaniach	interweniować	ger:pl:loc:n2:imperf.perf:aff		
 interweniowania	interweniować	ger:pl:nom.acc:n2:imperf.perf:aff		
 interweniowania	interweniować	ger:sg:gen:n2:imperf.perf:aff		
 interweniowaniami	interweniować	ger:pl:inst:n2:imperf.perf:aff		
 interweniowanie	interweniować	ger:sg:nom.acc:n2:imperf.perf:aff		
 interweniowaniem	interweniować	ger:sg:inst:n2:imperf.perf:aff		
-interweniowaniom	interweniować	ger:pl:dat.loc:n2:imperf.perf:aff		
+interweniowaniom	interweniować	ger:pl:dat:n2:imperf.perf:aff		
 interweniowaniu	interweniować	ger:sg:dat.loc:n2:imperf.perf:aff		
 interweniowano	interweniować	imps:imperf.perf		
 interweniowań	interweniować	ger:pl:gen:n2:imperf.perf:aff		
@@ -35027,13 +35138,14 @@ intonowane	intonować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 intonowane	intonować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 intonowanej	intonować	ppas:sg:gen.dat.loc:f:imperf:aff		
 intonowanemu	intonować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+intonowaniach	intonować	ger:pl:loc:n2:imperf:aff		
 intonowania	intonować	ger:pl:nom.acc:n2:imperf:aff		
 intonowania	intonować	ger:sg:gen:n2:imperf:aff		
 intonowaniami	intonować	ger:pl:inst:n2:imperf:aff		
 intonowanie	intonować	ger:sg:nom.acc:n2:imperf:aff		
 intonowaniem	intonować	ger:sg:inst:n2:imperf:aff		
 intonowani	intonować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-intonowaniom	intonować	ger:pl:dat.loc:n2:imperf:aff		
+intonowaniom	intonować	ger:pl:dat:n2:imperf:aff		
 intonowaniu	intonować	ger:sg:dat.loc:n2:imperf:aff		
 intonowano	intonować	imps:imperf		
 intonowanych	intonować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -35452,13 +35564,14 @@ introdukowane	introdukować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:
 introdukowane	introdukować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 introdukowanej	introdukować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 introdukowanemu	introdukować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+introdukowaniach	introdukować	ger:pl:loc:n2:imperf.perf:aff		
 introdukowania	introdukować	ger:pl:nom.acc:n2:imperf.perf:aff		
 introdukowania	introdukować	ger:sg:gen:n2:imperf.perf:aff		
 introdukowaniami	introdukować	ger:pl:inst:n2:imperf.perf:aff		
 introdukowanie	introdukować	ger:sg:nom.acc:n2:imperf.perf:aff		
 introdukowaniem	introdukować	ger:sg:inst:n2:imperf.perf:aff		
 introdukowani	introdukować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-introdukowaniom	introdukować	ger:pl:dat.loc:n2:imperf.perf:aff		
+introdukowaniom	introdukować	ger:pl:dat:n2:imperf.perf:aff		
 introdukowaniu	introdukować	ger:sg:dat.loc:n2:imperf.perf:aff		
 introdukowano	introdukować	imps:imperf.perf		daw.
 introdukowanych	introdukować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -35698,13 +35811,14 @@ introligowane	introligować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 introligowane	introligować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 introligowanej	introligować	ppas:sg:gen.dat.loc:f:imperf:aff		
 introligowanemu	introligować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+introligowaniach	introligować	ger:pl:loc:n2:imperf:aff		
 introligowania	introligować	ger:pl:nom.acc:n2:imperf:aff		
 introligowania	introligować	ger:sg:gen:n2:imperf:aff		
 introligowaniami	introligować	ger:pl:inst:n2:imperf:aff		
 introligowanie	introligować	ger:sg:nom.acc:n2:imperf:aff		
 introligowaniem	introligować	ger:sg:inst:n2:imperf:aff		
 introligowani	introligować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-introligowaniom	introligować	ger:pl:dat.loc:n2:imperf:aff		
+introligowaniom	introligować	ger:pl:dat:n2:imperf:aff		
 introligowaniu	introligować	ger:sg:dat.loc:n2:imperf:aff		
 introligowano	introligować	imps:imperf		daw.
 introligowanych	introligować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -35800,13 +35914,14 @@ intromitowane	intromitować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 intromitowane	intromitować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 intromitowanej	intromitować	ppas:sg:gen.dat.loc:f:imperf:aff		
 intromitowanemu	intromitować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+intromitowaniach	intromitować	ger:pl:loc:n2:imperf:aff		
 intromitowania	intromitować	ger:pl:nom.acc:n2:imperf:aff		
 intromitowania	intromitować	ger:sg:gen:n2:imperf:aff		
 intromitowaniami	intromitować	ger:pl:inst:n2:imperf:aff		
 intromitowanie	intromitować	ger:sg:nom.acc:n2:imperf:aff		
 intromitowaniem	intromitować	ger:sg:inst:n2:imperf:aff		
 intromitowani	intromitować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-intromitowaniom	intromitować	ger:pl:dat.loc:n2:imperf:aff		
+intromitowaniom	intromitować	ger:pl:dat:n2:imperf:aff		
 intromitowaniu	intromitować	ger:sg:dat.loc:n2:imperf:aff		
 intromitowano	intromitować	imps:imperf		daw.
 intromitowanych	intromitować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -35954,13 +36069,14 @@ intronizowane	intronizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:
 intronizowane	intronizować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 intronizowanej	intronizować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 intronizowanemu	intronizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+intronizowaniach	intronizować	ger:pl:loc:n2:imperf.perf:aff		
 intronizowania	intronizować	ger:pl:nom.acc:n2:imperf.perf:aff		
 intronizowania	intronizować	ger:sg:gen:n2:imperf.perf:aff		
 intronizowaniami	intronizować	ger:pl:inst:n2:imperf.perf:aff		
 intronizowanie	intronizować	ger:sg:nom.acc:n2:imperf.perf:aff		
 intronizowaniem	intronizować	ger:sg:inst:n2:imperf.perf:aff		
 intronizowani	intronizować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-intronizowaniom	intronizować	ger:pl:dat.loc:n2:imperf.perf:aff		
+intronizowaniom	intronizować	ger:pl:dat:n2:imperf.perf:aff		
 intronizowaniu	intronizować	ger:sg:dat.loc:n2:imperf.perf:aff		
 intronizowano	intronizować	imps:imperf.perf		
 intronizowanych	intronizować	ppas:pl:acc:m1.p1:imperf.perf:aff		
@@ -36562,12 +36678,13 @@ intrygowały	intrygować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 intrygowały	intrygować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 intrygowałyście	intrygować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 intrygowałyśmy	intrygować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+intrygowaniach	intrygować	ger:pl:loc:n2:imperf:aff		
 intrygowania	intrygować	ger:pl:nom.acc:n2:imperf:aff		
 intrygowania	intrygować	ger:sg:gen:n2:imperf:aff		
 intrygowaniami	intrygować	ger:pl:inst:n2:imperf:aff		
 intrygowanie	intrygować	ger:sg:nom.acc:n2:imperf:aff		
 intrygowaniem	intrygować	ger:sg:inst:n2:imperf:aff		
-intrygowaniom	intrygować	ger:pl:dat.loc:n2:imperf:aff		
+intrygowaniom	intrygować	ger:pl:dat:n2:imperf:aff		
 intrygowaniu	intrygować	ger:sg:dat.loc:n2:imperf:aff		
 intrygowano	intrygować	imps:imperf		
 intrygowań	intrygować	ger:pl:gen:n2:imperf:aff		
@@ -36747,13 +36864,14 @@ intubowane	intubować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 intubowane	intubować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 intubowanej	intubować	ppas:sg:gen.dat.loc:f:imperf:aff		
 intubowanemu	intubować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+intubowaniach	intubować	ger:pl:loc:n2:imperf:aff		
 intubowania	intubować	ger:pl:nom.acc:n2:imperf:aff		
 intubowania	intubować	ger:sg:gen:n2:imperf:aff		
 intubowaniami	intubować	ger:pl:inst:n2:imperf:aff		
 intubowanie	intubować	ger:sg:nom.acc:n2:imperf:aff		
 intubowaniem	intubować	ger:sg:inst:n2:imperf:aff		
 intubowani	intubować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-intubowaniom	intubować	ger:pl:dat.loc:n2:imperf:aff		
+intubowaniom	intubować	ger:pl:dat:n2:imperf:aff		
 intubowaniu	intubować	ger:sg:dat.loc:n2:imperf:aff		
 intubowano	intubować	imps:imperf		
 intubowanych	intubować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -37709,13 +37827,14 @@ inwentaryzowane	inwentaryzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:a
 inwentaryzowane	inwentaryzować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inwentaryzowanej	inwentaryzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inwentaryzowanemu	inwentaryzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inwentaryzowaniach	inwentaryzować	ger:pl:loc:n2:imperf:aff		
 inwentaryzowania	inwentaryzować	ger:pl:nom.acc:n2:imperf:aff		
 inwentaryzowania	inwentaryzować	ger:sg:gen:n2:imperf:aff		
 inwentaryzowaniami	inwentaryzować	ger:pl:inst:n2:imperf:aff		
 inwentaryzowanie	inwentaryzować	ger:sg:nom.acc:n2:imperf:aff		
 inwentaryzowaniem	inwentaryzować	ger:sg:inst:n2:imperf:aff		
 inwentaryzowani	inwentaryzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inwentaryzowaniom	inwentaryzować	ger:pl:dat.loc:n2:imperf:aff		
+inwentaryzowaniom	inwentaryzować	ger:pl:dat:n2:imperf:aff		
 inwentaryzowaniu	inwentaryzować	ger:sg:dat.loc:n2:imperf:aff		
 inwentaryzowano	inwentaryzować	imps:imperf		
 inwentaryzowanych	inwentaryzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -37878,13 +37997,14 @@ inwentowane	inwentować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inwentowane	inwentować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inwentowanej	inwentować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inwentowanemu	inwentować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inwentowaniach	inwentować	ger:pl:loc:n2:imperf:aff		
 inwentowania	inwentować	ger:pl:nom.acc:n2:imperf:aff		
 inwentowania	inwentować	ger:sg:gen:n2:imperf:aff		
 inwentowaniami	inwentować	ger:pl:inst:n2:imperf:aff		
 inwentowanie	inwentować	ger:sg:nom.acc:n2:imperf:aff		
 inwentowaniem	inwentować	ger:sg:inst:n2:imperf:aff		
 inwentowani	inwentować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inwentowaniom	inwentować	ger:pl:dat.loc:n2:imperf:aff		
+inwentowaniom	inwentować	ger:pl:dat:n2:imperf:aff		
 inwentowaniu	inwentować	ger:sg:dat.loc:n2:imperf:aff		
 inwentowano	inwentować	imps:imperf		daw.
 inwentowanych	inwentować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -37935,6 +38055,20 @@ inwentury	inwentura	subst:pl:voc:f	pospolita
 inwentury	inwentura	subst:sg:gen:f	pospolita	
 inwenturze	inwentura	subst:sg:dat:f	pospolita	
 inwenturze	inwentura	subst:sg:loc:f	pospolita	
+inwentyce	inwentyka	subst:sg:dat:f	pospolita	
+inwentyce	inwentyka	subst:sg:loc:f	pospolita	
+inwentykach	inwentyka	subst:pl:loc:f	pospolita	
+inwentyka	inwentyka	subst:sg:nom:f	pospolita	
+inwentykami	inwentyka	subst:pl:inst:f	pospolita	
+inwentyką	inwentyka	subst:sg:inst:f	pospolita	
+inwentykę	inwentyka	subst:sg:acc:f	pospolita	
+inwentyki	inwentyka	subst:pl:acc:f	pospolita	
+inwentyki	inwentyka	subst:pl:nom:f	pospolita	
+inwentyki	inwentyka	subst:pl:voc:f	pospolita	
+inwentyki	inwentyka	subst:sg:gen:f	pospolita	
+inwentyk	inwentyka	subst:pl:gen:f	pospolita	
+inwentyko	inwentyka	subst:sg:voc:f	pospolita	
+inwentykom	inwentyka	subst:pl:dat:f	pospolita	
 inwersjach	inwersja	subst:pl:loc:f	pospolita	
 inwersja	inwersja	subst:sg:nom:f	pospolita	
 inwersjami	inwersja	subst:pl:inst:f	pospolita	
@@ -38074,13 +38208,14 @@ inwertowane	inwertować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inwertowane	inwertować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inwertowanej	inwertować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inwertowanemu	inwertować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inwertowaniach	inwertować	ger:pl:loc:n2:imperf:aff		
 inwertowania	inwertować	ger:pl:nom.acc:n2:imperf:aff		
 inwertowania	inwertować	ger:sg:gen:n2:imperf:aff		
 inwertowaniami	inwertować	ger:pl:inst:n2:imperf:aff		
 inwertowanie	inwertować	ger:sg:nom.acc:n2:imperf:aff		
 inwertowaniem	inwertować	ger:sg:inst:n2:imperf:aff		
 inwertowani	inwertować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inwertowaniom	inwertować	ger:pl:dat.loc:n2:imperf:aff		
+inwertowaniom	inwertować	ger:pl:dat:n2:imperf:aff		
 inwertowaniu	inwertować	ger:sg:dat.loc:n2:imperf:aff		
 inwertowano	inwertować	imps:imperf		
 inwertowanych	inwertować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -38231,13 +38366,14 @@ inwestowane	inwestować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inwestowane	inwestować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inwestowanej	inwestować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inwestowanemu	inwestować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inwestowaniach	inwestować	ger:pl:loc:n2:imperf:aff		
 inwestowania	inwestować	ger:pl:nom.acc:n2:imperf:aff		
 inwestowania	inwestować	ger:sg:gen:n2:imperf:aff		
 inwestowaniami	inwestować	ger:pl:inst:n2:imperf:aff		
 inwestowanie	inwestować	ger:sg:nom.acc:n2:imperf:aff		
 inwestowaniem	inwestować	ger:sg:inst:n2:imperf:aff		
 inwestowani	inwestować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inwestowaniom	inwestować	ger:pl:dat.loc:n2:imperf:aff		
+inwestowaniom	inwestować	ger:pl:dat:n2:imperf:aff		
 inwestowaniu	inwestować	ger:sg:dat.loc:n2:imperf:aff		
 inwestowano	inwestować	imps:imperf		
 inwestowanych	inwestować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -38469,13 +38605,14 @@ inwigilowane	inwigilować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inwigilowane	inwigilować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inwigilowanej	inwigilować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inwigilowanemu	inwigilować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inwigilowaniach	inwigilować	ger:pl:loc:n2:imperf:aff		
 inwigilowania	inwigilować	ger:pl:nom.acc:n2:imperf:aff		
 inwigilowania	inwigilować	ger:sg:gen:n2:imperf:aff		
 inwigilowaniami	inwigilować	ger:pl:inst:n2:imperf:aff		
 inwigilowanie	inwigilować	ger:sg:nom.acc:n2:imperf:aff		
 inwigilowaniem	inwigilować	ger:sg:inst:n2:imperf:aff		
 inwigilowani	inwigilować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inwigilowaniom	inwigilować	ger:pl:dat.loc:n2:imperf:aff		
+inwigilowaniom	inwigilować	ger:pl:dat:n2:imperf:aff		
 inwigilowaniu	inwigilować	ger:sg:dat.loc:n2:imperf:aff		
 inwigilowano	inwigilować	imps:imperf		
 inwigilowanych	inwigilować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -38623,13 +38760,14 @@ inwitowane	inwitować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inwitowane	inwitować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inwitowanej	inwitować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inwitowanemu	inwitować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inwitowaniach	inwitować	ger:pl:loc:n2:imperf:aff		
 inwitowania	inwitować	ger:pl:nom.acc:n2:imperf:aff		
 inwitowania	inwitować	ger:sg:gen:n2:imperf:aff		
 inwitowaniami	inwitować	ger:pl:inst:n2:imperf:aff		
 inwitowanie	inwitować	ger:sg:nom.acc:n2:imperf:aff		
 inwitowaniem	inwitować	ger:sg:inst:n2:imperf:aff		
 inwitowani	inwitować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inwitowaniom	inwitować	ger:pl:dat.loc:n2:imperf:aff		
+inwitowaniom	inwitować	ger:pl:dat:n2:imperf:aff		
 inwitowaniu	inwitować	ger:sg:dat.loc:n2:imperf:aff		
 inwitowano	inwitować	imps:imperf		
 inwitowanych	inwitować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -38763,13 +38901,14 @@ inwokowane	inwokować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inwokowane	inwokować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inwokowanej	inwokować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inwokowanemu	inwokować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inwokowaniach	inwokować	ger:pl:loc:n2:imperf:aff		
 inwokowania	inwokować	ger:pl:nom.acc:n2:imperf:aff		
 inwokowania	inwokować	ger:sg:gen:n2:imperf:aff		
 inwokowaniami	inwokować	ger:pl:inst:n2:imperf:aff		
 inwokowanie	inwokować	ger:sg:nom.acc:n2:imperf:aff		
 inwokowaniem	inwokować	ger:sg:inst:n2:imperf:aff		
 inwokowani	inwokować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inwokowaniom	inwokować	ger:pl:dat.loc:n2:imperf:aff		
+inwokowaniom	inwokować	ger:pl:dat:n2:imperf:aff		
 inwokowaniu	inwokować	ger:sg:dat.loc:n2:imperf:aff		
 inwokowano	inwokować	imps:imperf		
 inwokowanych	inwokować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -38903,13 +39042,14 @@ inwolwowane	inwolwować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 inwolwowane	inwolwować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 inwolwowanej	inwolwować	ppas:sg:gen.dat.loc:f:imperf:aff		
 inwolwowanemu	inwolwować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+inwolwowaniach	inwolwować	ger:pl:loc:n2:imperf:aff		
 inwolwowania	inwolwować	ger:pl:nom.acc:n2:imperf:aff		
 inwolwowania	inwolwować	ger:sg:gen:n2:imperf:aff		
 inwolwowaniami	inwolwować	ger:pl:inst:n2:imperf:aff		
 inwolwowanie	inwolwować	ger:sg:nom.acc:n2:imperf:aff		
 inwolwowaniem	inwolwować	ger:sg:inst:n2:imperf:aff		
 inwolwowani	inwolwować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-inwolwowaniom	inwolwować	ger:pl:dat.loc:n2:imperf:aff		
+inwolwowaniom	inwolwować	ger:pl:dat:n2:imperf:aff		
 inwolwowaniu	inwolwować	ger:sg:dat.loc:n2:imperf:aff		
 inwolwowano	inwolwować	imps:imperf		daw.
 inwolwowanych	inwolwować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -39765,6 +39905,21 @@ irenizmu	irenizm	subst:sg:gen:m3	pospolita
 irenizmy	irenizm	subst:pl:acc:m3	pospolita	
 irenizmy	irenizm	subst:pl:nom:m3	pospolita	
 irenizmy	irenizm	subst:pl:voc:m3	pospolita	
+irenologiach	irenologia	subst:pl:loc:f	pospolita	
+irenologia	irenologia	subst:sg:nom:f	pospolita	
+irenologiami	irenologia	subst:pl:inst:f	pospolita	
+irenologią	irenologia	subst:sg:inst:f	pospolita	
+irenologie	irenologia	subst:pl:acc:f	pospolita	
+irenologie	irenologia	subst:pl:nom:f	pospolita	
+irenologie	irenologia	subst:pl:voc:f	pospolita	
+irenologię	irenologia	subst:sg:acc:f	pospolita	
+irenologii	irenologia	subst:pl:gen:f	pospolita	hom.
+irenologii	irenologia	subst:sg:dat:f	pospolita	
+irenologii	irenologia	subst:sg:gen:f	pospolita	
+irenologii	irenologia	subst:sg:loc:f	pospolita	
+irenologij	irenologia	subst:pl:gen:f	pospolita	arch.|char.
+irenologio	irenologia	subst:sg:voc:f	pospolita	
+irenologiom	irenologia	subst:pl:dat:f	pospolita	
 irdze	irga	subst:sg:dat:f	pospolita	
 irdze	irga	subst:sg:loc:f	pospolita	
 irgach	irga	subst:pl:loc:f	pospolita	
@@ -40090,12 +40245,13 @@ ironizowały	ironizować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 ironizowały	ironizować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 ironizowałyście	ironizować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 ironizowałyśmy	ironizować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+ironizowaniach	ironizować	ger:pl:loc:n2:imperf:aff		
 ironizowania	ironizować	ger:pl:nom.acc:n2:imperf:aff		
 ironizowania	ironizować	ger:sg:gen:n2:imperf:aff		
 ironizowaniami	ironizować	ger:pl:inst:n2:imperf:aff		
 ironizowanie	ironizować	ger:sg:nom.acc:n2:imperf:aff		
 ironizowaniem	ironizować	ger:sg:inst:n2:imperf:aff		
-ironizowaniom	ironizować	ger:pl:dat.loc:n2:imperf:aff		
+ironizowaniom	ironizować	ger:pl:dat:n2:imperf:aff		
 ironizowaniu	ironizować	ger:sg:dat.loc:n2:imperf:aff		
 ironizowano	ironizować	imps:imperf		
 ironizowań	ironizować	ger:pl:gen:n2:imperf:aff		
@@ -40682,13 +40838,14 @@ irygowane	irygować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 irygowane	irygować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 irygowanej	irygować	ppas:sg:gen.dat.loc:f:imperf:aff		
 irygowanemu	irygować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+irygowaniach	irygować	ger:pl:loc:n2:imperf:aff		
 irygowania	irygować	ger:pl:nom.acc:n2:imperf:aff		
 irygowania	irygować	ger:sg:gen:n2:imperf:aff		
 irygowaniami	irygować	ger:pl:inst:n2:imperf:aff		
 irygowanie	irygować	ger:sg:nom.acc:n2:imperf:aff		
 irygowaniem	irygować	ger:sg:inst:n2:imperf:aff		
 irygowani	irygować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-irygowaniom	irygować	ger:pl:dat.loc:n2:imperf:aff		
+irygowaniom	irygować	ger:pl:dat:n2:imperf:aff		
 irygowaniu	irygować	ger:sg:dat.loc:n2:imperf:aff		
 irygowano	irygować	imps:imperf		
 irygowanych	irygować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -40878,13 +41035,14 @@ irytowane	irytować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 irytowane	irytować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 irytowanej	irytować	ppas:sg:gen.dat.loc:f:imperf:aff		
 irytowanemu	irytować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+irytowaniach	irytować	ger:pl:loc:n2:imperf:aff		
 irytowania	irytować	ger:pl:nom.acc:n2:imperf:aff		
 irytowania	irytować	ger:sg:gen:n2:imperf:aff		
 irytowaniami	irytować	ger:pl:inst:n2:imperf:aff		
 irytowanie	irytować	ger:sg:nom.acc:n2:imperf:aff		
 irytowaniem	irytować	ger:sg:inst:n2:imperf:aff		
 irytowani	irytować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-irytowaniom	irytować	ger:pl:dat.loc:n2:imperf:aff		
+irytowaniom	irytować	ger:pl:dat:n2:imperf:aff		
 irytowaniu	irytować	ger:sg:dat.loc:n2:imperf:aff		
 irytowano	irytować	imps:imperf		
 irytowanych	irytować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -41019,13 +41177,14 @@ iryzowane	iryzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 iryzowane	iryzować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 iryzowanej	iryzować	ppas:sg:gen.dat.loc:f:imperf:aff		
 iryzowanemu	iryzować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+iryzowaniach	iryzować	ger:pl:loc:n2:imperf:aff		
 iryzowania	iryzować	ger:pl:nom.acc:n2:imperf:aff		
 iryzowania	iryzować	ger:sg:gen:n2:imperf:aff		
 iryzowaniami	iryzować	ger:pl:inst:n2:imperf:aff		
 iryzowanie	iryzować	ger:sg:nom.acc:n2:imperf:aff		
 iryzowaniem	iryzować	ger:sg:inst:n2:imperf:aff		
 iryzowani	iryzować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-iryzowaniom	iryzować	ger:pl:dat.loc:n2:imperf:aff		
+iryzowaniom	iryzować	ger:pl:dat:n2:imperf:aff		
 iryzowaniu	iryzować	ger:sg:dat.loc:n2:imperf:aff		
 iryzowano	iryzować	imps:imperf		
 iryzowanych	iryzować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -41225,13 +41384,14 @@ iskane	iskać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 iskane	iskać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 iskanej	iskać	ppas:sg:gen.dat.loc:f:imperf:aff		
 iskanemu	iskać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+iskaniach	iskać	ger:pl:loc:n2:imperf:aff		
 iskania	iskać	ger:pl:nom.acc:n2:imperf:aff		
 iskania	iskać	ger:sg:gen:n2:imperf:aff		
 iskaniami	iskać	ger:pl:inst:n2:imperf:aff		
 iskanie	iskać	ger:sg:nom.acc:n2:imperf:aff		
 iskaniem	iskać	ger:sg:inst:n2:imperf:aff		
 iskani	iskać	ppas:pl:nom.voc:m1.p1:imperf:aff		
-iskaniom	iskać	ger:pl:dat.loc:n2:imperf:aff		
+iskaniom	iskać	ger:pl:dat:n2:imperf:aff		
 iskaniu	iskać	ger:sg:dat.loc:n2:imperf:aff		
 iskano	iskać	imps:imperf		
 iskanych	iskać	ppas:pl:acc:m1.p1:imperf:aff		
@@ -41664,12 +41824,13 @@ iskrzeli	iskrzeć	praet:pl:m1.p1:imperf
 iskrzeli	iskrzeć	praet:pl:m1.p1:ter:imperf		
 iskrzeliście	iskrzeć	praet:pl:m1.p1:sec:imperf		
 iskrzeliśmy	iskrzeć	praet:pl:m1.p1:pri:imperf		
+iskrzeniach	iskrzeć	ger:pl:loc:n2:imperf:aff		
 iskrzenia	iskrzeć	ger:pl:nom.acc:n2:imperf:aff		
 iskrzenia	iskrzeć	ger:sg:gen:n2:imperf:aff		
 iskrzeniami	iskrzeć	ger:pl:inst:n2:imperf:aff		
 iskrzenie	iskrzeć	ger:sg:nom.acc:n2:imperf:aff		
 iskrzeniem	iskrzeć	ger:sg:inst:n2:imperf:aff		
-iskrzeniom	iskrzeć	ger:pl:dat.loc:n2:imperf:aff		
+iskrzeniom	iskrzeć	ger:pl:dat:n2:imperf:aff		
 iskrzeniu	iskrzeć	ger:sg:dat.loc:n2:imperf:aff		
 iskrzeń	iskrzeć	ger:pl:gen:n2:imperf:aff		
 iskrzę	iskrzeć	fin:sg:pri:imperf		
@@ -41723,12 +41884,13 @@ iskrzący	iskrzyć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff
 iskrzącymi	iskrzyć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 iskrzącym	iskrzyć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 iskrzącym	iskrzyć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+iskrzeniach	iskrzyć:v	ger:pl:loc:n2:imperf:aff		
 iskrzenia	iskrzyć:v	ger:pl:nom.acc:n2:imperf:aff		
 iskrzenia	iskrzyć:v	ger:sg:gen:n2:imperf:aff		
 iskrzeniami	iskrzyć:v	ger:pl:inst:n2:imperf:aff		
 iskrzenie	iskrzyć:v	ger:sg:nom.acc:n2:imperf:aff		
 iskrzeniem	iskrzyć:v	ger:sg:inst:n2:imperf:aff		
-iskrzeniom	iskrzyć:v	ger:pl:dat.loc:n2:imperf:aff		
+iskrzeniom	iskrzyć:v	ger:pl:dat:n2:imperf:aff		
 iskrzeniu	iskrzyć:v	ger:sg:dat.loc:n2:imperf:aff		
 iskrzeń	iskrzyć:v	ger:pl:gen:n2:imperf:aff		
 iskrząca	iskrzyć:v	pact:sg:nom.voc:f:imperf:aff		
@@ -41747,13 +41909,14 @@ iskrzący	iskrzyć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff
 iskrzącymi	iskrzyć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 iskrzącym	iskrzyć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 iskrzącym	iskrzyć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+iskrzeniach	iskrzyć:v	ger:pl:loc:n2:imperf:aff		
 iskrzenia	iskrzyć:v	ger:pl:nom.acc:n2:imperf:aff		
 iskrzenia	iskrzyć:v	ger:sg:gen:n2:imperf:aff		
 iskrzeniami	iskrzyć:v	ger:pl:inst:n2:imperf:aff		
 iskrzenie	iskrzyć:v	ger:sg:nom.acc:n2:imperf:aff		
 iskrzeniem	iskrzyć:v	ger:sg:inst:n2:imperf:aff		
 iskrzeni	iskrzyć:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
-iskrzeniom	iskrzyć:v	ger:pl:dat.loc:n2:imperf:aff		
+iskrzeniom	iskrzyć:v	ger:pl:dat:n2:imperf:aff		
 iskrzeniu	iskrzyć:v	ger:sg:dat.loc:n2:imperf:aff		
 iskrzeń	iskrzyć:v	ger:pl:gen:n2:imperf:aff		
 iskrzona	iskrzyć:v	ppas:sg:nom.voc:f:imperf:aff		
@@ -42152,13 +42315,14 @@ islamizowane	islamizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 islamizowane	islamizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 islamizowanej	islamizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 islamizowanemu	islamizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+islamizowaniach	islamizować	ger:pl:loc:n2:imperf:aff		
 islamizowania	islamizować	ger:pl:nom.acc:n2:imperf:aff		
 islamizowania	islamizować	ger:sg:gen:n2:imperf:aff		
 islamizowaniami	islamizować	ger:pl:inst:n2:imperf:aff		
 islamizowanie	islamizować	ger:sg:nom.acc:n2:imperf:aff		
 islamizowaniem	islamizować	ger:sg:inst:n2:imperf:aff		
 islamizowani	islamizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-islamizowaniom	islamizować	ger:pl:dat.loc:n2:imperf:aff		
+islamizowaniom	islamizować	ger:pl:dat:n2:imperf:aff		
 islamizowaniu	islamizować	ger:sg:dat.loc:n2:imperf:aff		
 islamizowano	islamizować	imps:imperf		
 islamizowanych	islamizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -42536,12 +42700,13 @@ istniecie	istnąć	fin:pl:sec:imperf		daw.
 istnie	istnąć	fin:sg:ter:imperf		daw.
 istniemy	istnąć	fin:pl:pri:imperf		daw.
 istniesz	istnąć	fin:sg:sec:imperf		daw.
+istnięciach	istnąć	ger:pl:loc:n2:imperf:aff		
 istnięcia	istnąć	ger:pl:nom.acc:n2:imperf:aff		
 istnięcia	istnąć	ger:sg:gen:n2:imperf:aff		
 istnięciami	istnąć	ger:pl:inst:n2:imperf:aff		
 istnięcie	istnąć	ger:sg:nom.acc:n2:imperf:aff		
 istnięciem	istnąć	ger:sg:inst:n2:imperf:aff		
-istnięciom	istnąć	ger:pl:dat.loc:n2:imperf:aff		
+istnięciom	istnąć	ger:pl:dat:n2:imperf:aff		
 istnięciu	istnąć	ger:sg:dat.loc:n2:imperf:aff		
 istnięć	istnąć	ger:pl:gen:n2:imperf:aff		
 istnięto	istnąć	imps:imperf		daw.
@@ -42612,12 +42777,13 @@ istnieli	istnieć	praet:pl:m1.p1:imperf
 istnieli	istnieć	praet:pl:m1.p1:ter:imperf		
 istnieliście	istnieć	praet:pl:m1.p1:sec:imperf		
 istnieliśmy	istnieć	praet:pl:m1.p1:pri:imperf		
+istnieniach	istnieć	ger:pl:loc:n2:imperf:aff		
 istnienia	istnieć	ger:pl:nom.acc:n2:imperf:aff		
 istnienia	istnieć	ger:sg:gen:n2:imperf:aff		
 istnieniami	istnieć	ger:pl:inst:n2:imperf:aff		
 istnienie	istnieć	ger:sg:nom.acc:n2:imperf:aff		
 istnieniem	istnieć	ger:sg:inst:n2:imperf:aff		
-istnieniom	istnieć	ger:pl:dat.loc:n2:imperf:aff		
+istnieniom	istnieć	ger:pl:dat:n2:imperf:aff		
 istnieniu	istnieć	ger:sg:dat.loc:n2:imperf:aff		
 istnień	istnieć	ger:pl:gen:n2:imperf:aff		
 istnieniach	istnienie	subst:pl:loc:n2	pospolita	
@@ -42730,12 +42896,13 @@ istoczącym	istoczyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 istoczącym	istoczyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 istoczą	istoczyć	fin:pl:ter:imperf		daw.
 istoczcie	istoczyć	impt:pl:sec:imperf		daw.
+istoczeniach	istoczyć	ger:pl:loc:n2:imperf:aff		
 istoczenia	istoczyć	ger:pl:nom.acc:n2:imperf:aff		
 istoczenia	istoczyć	ger:sg:gen:n2:imperf:aff		
 istoczeniami	istoczyć	ger:pl:inst:n2:imperf:aff		
 istoczenie	istoczyć	ger:sg:nom.acc:n2:imperf:aff		
 istoczeniem	istoczyć	ger:sg:inst:n2:imperf:aff		
-istoczeniom	istoczyć	ger:pl:dat.loc:n2:imperf:aff		
+istoczeniom	istoczyć	ger:pl:dat:n2:imperf:aff		
 istoczeniu	istoczyć	ger:sg:dat.loc:n2:imperf:aff		
 istoczeń	istoczyć	ger:pl:gen:n2:imperf:aff		
 istoczę	istoczyć	fin:sg:pri:imperf		daw.
@@ -43011,13 +43178,14 @@ iszczącymi	iścić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 iszczącym	iścić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 iszczącym	iścić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 iszczą	iścić	fin:pl:ter:imperf		daw.
+iszczeniach	iścić	ger:pl:loc:n2:imperf:aff		
 iszczenia	iścić	ger:pl:nom.acc:n2:imperf:aff		
 iszczenia	iścić	ger:sg:gen:n2:imperf:aff		
 iszczeniami	iścić	ger:pl:inst:n2:imperf:aff		
 iszczenie	iścić	ger:sg:nom.acc:n2:imperf:aff		
 iszczeniem	iścić	ger:sg:inst:n2:imperf:aff		
 iszczeni	iścić	ppas:pl:nom.voc:m1.p1:imperf:aff		
-iszczeniom	iścić	ger:pl:dat.loc:n2:imperf:aff		
+iszczeniom	iścić	ger:pl:dat:n2:imperf:aff		
 iszczeniu	iścić	ger:sg:dat.loc:n2:imperf:aff		
 iszczeń	iścić	ger:pl:gen:n2:imperf:aff		
 iszczę	iścić	fin:sg:pri:imperf		daw.
@@ -43330,13 +43498,14 @@ italianizowane	italianizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 italianizowane	italianizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 italianizowanej	italianizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 italianizowanemu	italianizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+italianizowaniach	italianizować	ger:pl:loc:n2:imperf:aff		
 italianizowania	italianizować	ger:pl:nom.acc:n2:imperf:aff		
 italianizowania	italianizować	ger:sg:gen:n2:imperf:aff		
 italianizowaniami	italianizować	ger:pl:inst:n2:imperf:aff		
 italianizowanie	italianizować	ger:sg:nom.acc:n2:imperf:aff		
 italianizowaniem	italianizować	ger:sg:inst:n2:imperf:aff		
 italianizowani	italianizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-italianizowaniom	italianizować	ger:pl:dat.loc:n2:imperf:aff		
+italianizowaniom	italianizować	ger:pl:dat:n2:imperf:aff		
 italianizowaniu	italianizować	ger:sg:dat.loc:n2:imperf:aff		
 italianizowano	italianizować	imps:imperf		
 italianizowanych	italianizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -43539,13 +43708,14 @@ italizowane	italizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 italizowane	italizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 italizowanej	italizować	ppas:sg:gen.dat.loc:f:imperf:aff		
 italizowanemu	italizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+italizowaniach	italizować	ger:pl:loc:n2:imperf:aff		
 italizowania	italizować	ger:pl:nom.acc:n2:imperf:aff		
 italizowania	italizować	ger:sg:gen:n2:imperf:aff		
 italizowaniami	italizować	ger:pl:inst:n2:imperf:aff		
 italizowanie	italizować	ger:sg:nom.acc:n2:imperf:aff		
 italizowaniem	italizować	ger:sg:inst:n2:imperf:aff		
 italizowani	italizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-italizowaniom	italizować	ger:pl:dat.loc:n2:imperf:aff		
+italizowaniom	italizować	ger:pl:dat:n2:imperf:aff		
 italizowaniu	italizować	ger:sg:dat.loc:n2:imperf:aff		
 italizowano	italizować	imps:imperf		
 italizowanych	italizować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -43847,13 +44017,14 @@ iterowane	iterować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 iterowane	iterować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 iterowanej	iterować	ppas:sg:gen.dat.loc:f:imperf:aff		
 iterowanemu	iterować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+iterowaniach	iterować	ger:pl:loc:n2:imperf:aff		
 iterowania	iterować	ger:pl:nom.acc:n2:imperf:aff		
 iterowania	iterować	ger:sg:gen:n2:imperf:aff		
 iterowaniami	iterować	ger:pl:inst:n2:imperf:aff		
 iterowanie	iterować	ger:sg:nom.acc:n2:imperf:aff		
 iterowaniem	iterować	ger:sg:inst:n2:imperf:aff		
 iterowani	iterować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-iterowaniom	iterować	ger:pl:dat.loc:n2:imperf:aff		
+iterowaniom	iterować	ger:pl:dat:n2:imperf:aff		
 iterowaniu	iterować	ger:sg:dat.loc:n2:imperf:aff		
 iterowano	iterować	imps:imperf		
 iterowanych	iterować	ppas:pl:acc:m1.p1:imperf:aff		
@@ -45595,13 +45766,14 @@ izolowane	izolować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff
 izolowane	izolować	ppas:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
 izolowanej	izolować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		
 izolowanemu	izolować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+izolowaniach	izolować	ger:pl:loc:n2:imperf.perf:aff		
 izolowania	izolować	ger:pl:nom.acc:n2:imperf.perf:aff		
 izolowania	izolować	ger:sg:gen:n2:imperf.perf:aff		
 izolowaniami	izolować	ger:pl:inst:n2:imperf.perf:aff		
 izolowanie	izolować	ger:sg:nom.acc:n2:imperf.perf:aff		
 izolowaniem	izolować	ger:sg:inst:n2:imperf.perf:aff		
 izolowani	izolować	ppas:pl:nom.voc:m1.p1:imperf.perf:aff		
-izolowaniom	izolować	ger:pl:dat.loc:n2:imperf.perf:aff		
+izolowaniom	izolować	ger:pl:dat:n2:imperf.perf:aff		
 izolowaniu	izolować	ger:sg:dat.loc:n2:imperf.perf:aff		
 izolowano	izolować	imps:imperf.perf		
 izolowanych	izolować	ppas:pl:acc:m1.p1:imperf.perf:aff		

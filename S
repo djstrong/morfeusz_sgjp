@@ -4539,8 +4539,6 @@ Siedlce	Siedlce	subst:pl:voc:p2	geograficzna	rzad.
 Siedlce	Siedlce	subst:pl:voc:p3	geograficzna	
 Siedlcom	Siedlce	subst:pl:dat:p2	geograficzna	rzad.
 Siedlcom	Siedlce	subst:pl:dat:p3	geograficzna	
-Siedlec	Siedlce	subst:pl:gen:p2	geograficzna	rzad.
-Siedlec	Siedlce	subst:pl:gen:p3	geograficzna	
 Siedleccy	Siedlecki	subst:pl:nom:m1	nazwisko	
 Siedleccy	Siedlecki	subst:pl:voc:m1	nazwisko	
 Siedleckich	Siedlecki	subst:pl:acc:m1	nazwisko	
@@ -12376,8 +12374,6 @@ Strzelce	Strzelce	subst:pl:voc:p2	geograficzna	rzad.
 Strzelce	Strzelce	subst:pl:voc:p3	geograficzna	
 Strzelcom	Strzelce	subst:pl:dat:p2	geograficzna	rzad.
 Strzelcom	Strzelce	subst:pl:dat:p3	geograficzna	
-Strzelec	Strzelce	subst:pl:gen:p2	geograficzna	rzad.
-Strzelec	Strzelce	subst:pl:gen:p3	geograficzna	
 Strzeleccy	Strzelecki	subst:pl:nom:m1	nazwisko	
 Strzeleccy	Strzelecki	subst:pl:voc:m1	nazwisko	
 Strzeleckich	Strzelecki	subst:pl:acc:m1	nazwisko	
