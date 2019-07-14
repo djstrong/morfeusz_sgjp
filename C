@@ -914,62 +914,34 @@ CB-radiom	CB-radio	subst:pl:dat:n2	nazwa pospolita
 CB-radiów	CB-radio	subst:pl:gen:n2	nazwa pospolita	
 CB-radiu	CB-radio	subst:sg:dat:n2	nazwa pospolita	
 CB-radiu	CB-radio	subst:sg:loc:n2	nazwa pospolita	
-CBS-ach	CBS:s1	subst:pl:loc:m3	nazwa organizacji	
-CBS-ami	CBS:s1	subst:pl:inst:m3	nazwa organizacji	
-CBS	CBS:s1	subst:pl:acc:n2	nazwa organizacji	
-CBS	CBS:s1	subst:pl:dat:n2	nazwa organizacji	
-CBS	CBS:s1	subst:pl:gen:n2	nazwa organizacji	
-CBS	CBS:s1	subst:pl:inst:n2	nazwa organizacji	
-CBS	CBS:s1	subst:pl:loc:n2	nazwa organizacji	
-CBS	CBS:s1	subst:pl:nom:n2	nazwa organizacji	
-CBS	CBS:s1	subst:pl:voc:n2	nazwa organizacji	
-CBS	CBS:s1	subst:sg:acc:m3	nazwa organizacji	
-CBS	CBS:s1	subst:sg:acc:n2	nazwa organizacji	
-CBS	CBS:s1	subst:sg:dat:n2	nazwa organizacji	
-CBS	CBS:s1	subst:sg:gen:n2	nazwa organizacji	
-CBS	CBS:s1	subst:sg:inst:n2	nazwa organizacji	
-CBS	CBS:s1	subst:sg:loc:n2	nazwa organizacji	
-CBS	CBS:s1	subst:sg:nom:m3	nazwa organizacji	
-CBS	CBS:s1	subst:sg:nom:n2	nazwa organizacji	
-CBS	CBS:s1	subst:sg:voc:n2	nazwa organizacji	
-CBS-em	CBS:s1	subst:sg:inst:m3	nazwa organizacji	
-CBS-ie	CBS:s1	subst:sg:loc:m3	nazwa organizacji	
-CBS-ie	CBS:s1	subst:sg:voc:m3	nazwa organizacji	
-CBS-om	CBS:s1	subst:pl:dat:m3	nazwa organizacji	
-CBS-owi	CBS:s1	subst:sg:dat:m3	nazwa organizacji	
-CBS-ów	CBS:s1	subst:pl:gen:m3	nazwa organizacji	
-CBS-u	CBS:s1	subst:sg:gen:m3	nazwa organizacji	
-CBS-y	CBS:s1	subst:pl:acc:m3	nazwa organizacji	
-CBS-y	CBS:s1	subst:pl:nom:m3	nazwa organizacji	
-CBS-y	CBS:s1	subst:pl:voc:m3	nazwa organizacji	
-CBS-ach	CBS:s2	subst:pl:loc:m3	nazwa firmy	
-CBS-ami	CBS:s2	subst:pl:inst:m3	nazwa firmy	
-CBS	CBS:s2	subst:pl:acc:n2	nazwa firmy	
-CBS	CBS:s2	subst:pl:dat:n2	nazwa firmy	
-CBS	CBS:s2	subst:pl:gen:n2	nazwa firmy	
-CBS	CBS:s2	subst:pl:inst:n2	nazwa firmy	
-CBS	CBS:s2	subst:pl:loc:n2	nazwa firmy	
-CBS	CBS:s2	subst:pl:nom:n2	nazwa firmy	
-CBS	CBS:s2	subst:pl:voc:n2	nazwa firmy	
-CBS	CBS:s2	subst:sg:acc:m3	nazwa firmy	
-CBS	CBS:s2	subst:sg:acc:n2	nazwa firmy	
-CBS	CBS:s2	subst:sg:dat:n2	nazwa firmy	
-CBS	CBS:s2	subst:sg:gen:n2	nazwa firmy	
-CBS	CBS:s2	subst:sg:inst:n2	nazwa firmy	
-CBS	CBS:s2	subst:sg:loc:n2	nazwa firmy	
-CBS	CBS:s2	subst:sg:nom:m3	nazwa firmy	
-CBS	CBS:s2	subst:sg:nom:n2	nazwa firmy	
-CBS	CBS:s2	subst:sg:voc:n2	nazwa firmy	
-CBS-em	CBS:s2	subst:sg:inst:m3	nazwa firmy	
-CBS-ie	CBS:s2	subst:sg:loc:m3	nazwa firmy	
-CBS-ie	CBS:s2	subst:sg:voc:m3	nazwa firmy	
-CBS-om	CBS:s2	subst:pl:dat:m3	nazwa firmy	
-CBS-owi	CBS:s2	subst:sg:dat:m3	nazwa firmy	
-CBS-ów	CBS:s2	subst:pl:gen:m3	nazwa firmy	
-CBS-u	CBS:s2	subst:sg:gen:m3	nazwa firmy	
-CBS-y	CBS:s2	subst:pl:acc:m3	nazwa firmy	
-CBS-y	CBS:s2	subst:pl:nom:m3	nazwa firmy	
-CBS-y	CBS:s2	subst:pl:voc:m3	nazwa firmy	
+CBS-ach	CBS	subst:pl:loc:m3	nazwa organizacji|nazwa firmy	
+CBS-ami	CBS	subst:pl:inst:m3	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:acc:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:dat:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:gen:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:inst:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:loc:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:nom:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:voc:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:acc:m3	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:acc:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:dat:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:gen:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:inst:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:loc:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:nom:m3	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:nom:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:voc:n2	nazwa organizacji|nazwa firmy	
+CBS-em	CBS	subst:sg:inst:m3	nazwa organizacji|nazwa firmy	
+CBS-ie	CBS	subst:sg:loc:m3	nazwa organizacji|nazwa firmy	
+CBS-ie	CBS	subst:sg:voc:m3	nazwa organizacji|nazwa firmy	
+CBS-om	CBS	subst:pl:dat:m3	nazwa organizacji|nazwa firmy	
+CBS-owi	CBS	subst:sg:dat:m3	nazwa organizacji|nazwa firmy	
+CBS-ów	CBS	subst:pl:gen:m3	nazwa organizacji|nazwa firmy	
+CBS-u	CBS	subst:sg:gen:m3	nazwa organizacji|nazwa firmy	
+CBS-y	CBS	subst:pl:acc:m3	nazwa organizacji|nazwa firmy	
+CBS-y	CBS	subst:pl:nom:m3	nazwa organizacji|nazwa firmy	
+CBS-y	CBS	subst:pl:voc:m3	nazwa organizacji|nazwa firmy	
 CD	CD	subst:pl:acc:m3	nazwa pospolita	
 CD	CD	subst:pl:acc:n2	nazwa pospolita	
 CD	CD	subst:pl:dat:m3	nazwa pospolita	
@@ -5090,54 +5062,22 @@ Cocteau	Cocteau	subst:sg:inst:m1	nazwisko
 Cocteau	Cocteau	subst:sg:loc:m1	nazwisko	
 Cocteau	Cocteau	subst:sg:nom:m1	nazwisko	
 Cocteau	Cocteau	subst:sg:voc:m1	nazwisko	
-Cohenach	Cohen:s1	subst:pl:loc:m1	nazwisko	
-Cohena	Cohen:s1	subst:sg:acc:m1	nazwisko	
-Cohena	Cohen:s1	subst:sg:gen:m1	nazwisko	
-Cohenami	Cohen:s1	subst:pl:inst:m1	nazwisko	
-Cohen	Cohen:s1	subst:sg:nom:m1	nazwisko	
-Cohenem	Cohen:s1	subst:sg:inst:m1	nazwisko	
-Cohenie	Cohen:s1	subst:sg:loc:m1	nazwisko	
-Cohenie	Cohen:s1	subst:sg:voc:m1	nazwisko	
-Cohenom	Cohen:s1	subst:pl:dat:m1	nazwisko	
-Cohenowi	Cohen:s1	subst:sg:dat:m1	nazwisko	
-Cohenowie	Cohen:s1	subst:pl:nom:m1	nazwisko	
-Cohenowie	Cohen:s1	subst:pl:voc:m1	nazwisko	
-Cohenów	Cohen:s1	subst:pl:acc:m1	nazwisko	
-Cohenów	Cohen:s1	subst:pl:gen:m1	nazwisko	
-Coheny	Cohen:s1	depr:pl:nom:m2	nazwisko	
-Coheny	Cohen:s1	depr:pl:voc:m2	nazwisko	
-Cohenach	Cohen:s2	subst:pl:loc:m1	nazwisko	
-Cohena	Cohen:s2	subst:sg:acc:m1	nazwisko	
-Cohena	Cohen:s2	subst:sg:gen:m1	nazwisko	
-Cohenami	Cohen:s2	subst:pl:inst:m1	nazwisko	
-Cohen	Cohen:s2	subst:sg:nom:m1	nazwisko	
-Cohenem	Cohen:s2	subst:sg:inst:m1	nazwisko	
-Cohenie	Cohen:s2	subst:sg:loc:m1	nazwisko	
-Cohenie	Cohen:s2	subst:sg:voc:m1	nazwisko	
-Cohenom	Cohen:s2	subst:pl:dat:m1	nazwisko	
-Cohenowi	Cohen:s2	subst:sg:dat:m1	nazwisko	
-Cohenowie	Cohen:s2	subst:pl:nom:m1	nazwisko	
-Cohenowie	Cohen:s2	subst:pl:voc:m1	nazwisko	
-Cohenów	Cohen:s2	subst:pl:acc:m1	nazwisko	
-Cohenów	Cohen:s2	subst:pl:gen:m1	nazwisko	
-Coheny	Cohen:s2	depr:pl:nom:m2	nazwisko	
-Coheny	Cohen:s2	depr:pl:voc:m2	nazwisko	
-Cohenach	Cohen:s3	subst:pl:loc:m1	nazwisko	
-Cohena	Cohen:s3	subst:sg:acc:m1	nazwisko	
-Cohena	Cohen:s3	subst:sg:gen:m1	nazwisko	
-Cohenami	Cohen:s3	subst:pl:inst:m1	nazwisko	
-Cohen	Cohen:s3	subst:sg:nom:m1	nazwisko	
-Cohenem	Cohen:s3	subst:sg:inst:m1	nazwisko	
-Cohenie	Cohen:s3	subst:sg:loc:m1	nazwisko	
-Cohenie	Cohen:s3	subst:sg:voc:m1	nazwisko	
-Cohenom	Cohen:s3	subst:pl:dat:m1	nazwisko	
-Cohenowi	Cohen:s3	subst:sg:dat:m1	nazwisko	
-Cohenowie	Cohen:s3	subst:pl:nom:m1	nazwisko	
-Cohenowie	Cohen:s3	subst:pl:voc:m1	nazwisko	
-Cohenów	Cohen:s3	subst:pl:acc:m1	nazwisko	
-Cohenów	Cohen:s3	subst:pl:gen:m1	nazwisko	
-Coheny	Cohen:s3	depr:pl:nom:m2	nazwisko	
-Coheny	Cohen:s3	depr:pl:voc:m2	nazwisko	
+Cohenach	Cohen	subst:pl:loc:m1	nazwisko	
+Cohena	Cohen	subst:sg:acc:m1	nazwisko	
+Cohena	Cohen	subst:sg:gen:m1	nazwisko	
+Cohenami	Cohen	subst:pl:inst:m1	nazwisko	
+Cohen	Cohen	subst:sg:nom:m1	nazwisko	
+Cohenem	Cohen	subst:sg:inst:m1	nazwisko	
+Cohenie	Cohen	subst:sg:loc:m1	nazwisko	
+Cohenie	Cohen	subst:sg:voc:m1	nazwisko	
+Cohenom	Cohen	subst:pl:dat:m1	nazwisko	
+Cohenowi	Cohen	subst:sg:dat:m1	nazwisko	
+Cohenowie	Cohen	subst:pl:nom:m1	nazwisko	
+Cohenowie	Cohen	subst:pl:voc:m1	nazwisko	
+Cohenów	Cohen	subst:pl:acc:m1	nazwisko	
+Cohenów	Cohen	subst:pl:gen:m1	nazwisko	
+Coheny	Cohen	depr:pl:nom:m2	nazwisko	
+Coheny	Cohen	depr:pl:voc:m2	nazwisko	
 Collinsach	Collins	subst:pl:loc:m1	nazwisko	
 Collinsa	Collins	subst:sg:acc:m1	nazwisko	
 Collinsa	Collins	subst:sg:gen:m1	nazwisko	
@@ -5797,34 +5737,20 @@ CSU	CSU	subst:sg:nom:f	nazwa organizacji
 CSU	CSU	subst:sg:nom:n2	nazwa organizacji	
 CSU	CSU	subst:sg:voc:f	nazwa organizacji	
 CSU	CSU	subst:sg:voc:n2	nazwa organizacji	
-CTV	CTV:s1	subst:pl:acc:f	nazwa pospolita	
-CTV	CTV:s1	subst:pl:dat:f	nazwa pospolita	
-CTV	CTV:s1	subst:pl:gen:f	nazwa pospolita	
-CTV	CTV:s1	subst:pl:inst:f	nazwa pospolita	
-CTV	CTV:s1	subst:pl:loc:f	nazwa pospolita	
-CTV	CTV:s1	subst:pl:nom:f	nazwa pospolita	
-CTV	CTV:s1	subst:pl:voc:f	nazwa pospolita	
-CTV	CTV:s1	subst:sg:acc:f	nazwa pospolita	
-CTV	CTV:s1	subst:sg:dat:f	nazwa pospolita	
-CTV	CTV:s1	subst:sg:gen:f	nazwa pospolita	
-CTV	CTV:s1	subst:sg:inst:f	nazwa pospolita	
-CTV	CTV:s1	subst:sg:loc:f	nazwa pospolita	
-CTV	CTV:s1	subst:sg:nom:f	nazwa pospolita	
-CTV	CTV:s1	subst:sg:voc:f	nazwa pospolita	
-CTV	CTV:s2	subst:pl:acc:f	nazwa firmy	
-CTV	CTV:s2	subst:pl:dat:f	nazwa firmy	
-CTV	CTV:s2	subst:pl:gen:f	nazwa firmy	
-CTV	CTV:s2	subst:pl:inst:f	nazwa firmy	
-CTV	CTV:s2	subst:pl:loc:f	nazwa firmy	
-CTV	CTV:s2	subst:pl:nom:f	nazwa firmy	
-CTV	CTV:s2	subst:pl:voc:f	nazwa firmy	
-CTV	CTV:s2	subst:sg:acc:f	nazwa firmy	
-CTV	CTV:s2	subst:sg:dat:f	nazwa firmy	
-CTV	CTV:s2	subst:sg:gen:f	nazwa firmy	
-CTV	CTV:s2	subst:sg:inst:f	nazwa firmy	
-CTV	CTV:s2	subst:sg:loc:f	nazwa firmy	
-CTV	CTV:s2	subst:sg:nom:f	nazwa firmy	
-CTV	CTV:s2	subst:sg:voc:f	nazwa firmy	
+CTV	CTV	subst:pl:acc:f	nazwa pospolita|nazwa firmy	
+CTV	CTV	subst:pl:dat:f	nazwa pospolita|nazwa firmy	
+CTV	CTV	subst:pl:gen:f	nazwa pospolita|nazwa firmy	
+CTV	CTV	subst:pl:inst:f	nazwa pospolita|nazwa firmy	
+CTV	CTV	subst:pl:loc:f	nazwa pospolita|nazwa firmy	
+CTV	CTV	subst:pl:nom:f	nazwa pospolita|nazwa firmy	
+CTV	CTV	subst:pl:voc:f	nazwa pospolita|nazwa firmy	
+CTV	CTV	subst:sg:acc:f	nazwa pospolita|nazwa firmy	
+CTV	CTV	subst:sg:dat:f	nazwa pospolita|nazwa firmy	
+CTV	CTV	subst:sg:gen:f	nazwa pospolita|nazwa firmy	
+CTV	CTV	subst:sg:inst:f	nazwa pospolita|nazwa firmy	
+CTV	CTV	subst:sg:loc:f	nazwa pospolita|nazwa firmy	
+CTV	CTV	subst:sg:nom:f	nazwa pospolita|nazwa firmy	
+CTV	CTV	subst:sg:voc:f	nazwa pospolita|nazwa firmy	
 Curie	Curie	depr:pl:nom:m2	nazwisko	
 Curie	Curie	depr:pl:voc:m2	nazwisko	
 Curie	Curie	subst:pl:acc:m1	nazwisko	
@@ -6342,20 +6268,20 @@ Cypryjczyków	Cypryjczyk	subst:pl:acc:m1	nazwa pospolita
 Cypryjczyków	Cypryjczyk	subst:pl:gen:m1	nazwa pospolita	
 Cypryjczyku	Cypryjczyk	subst:sg:loc:m1	nazwa pospolita	
 Cypryjczyku	Cypryjczyk	subst:sg:voc:m1	nazwa pospolita	
-Cypryjce	Cypryjka	subst:sg:dat:f	nazwa pospolita	
-Cypryjce	Cypryjka	subst:sg:loc:f	nazwa pospolita	
-Cypryjek	Cypryjka	subst:pl:gen:f	nazwa pospolita	
-Cypryjkach	Cypryjka	subst:pl:loc:f	nazwa pospolita	
-Cypryjka	Cypryjka	subst:sg:nom:f	nazwa pospolita	
-Cypryjkami	Cypryjka	subst:pl:inst:f	nazwa pospolita	
-Cypryjką	Cypryjka	subst:sg:inst:f	nazwa pospolita	
-Cypryjkę	Cypryjka	subst:sg:acc:f	nazwa pospolita	
-Cypryjki	Cypryjka	subst:pl:acc:f	nazwa pospolita	
-Cypryjki	Cypryjka	subst:pl:nom:f	nazwa pospolita	
-Cypryjki	Cypryjka	subst:pl:voc:f	nazwa pospolita	
-Cypryjki	Cypryjka	subst:sg:gen:f	nazwa pospolita	
-Cypryjko	Cypryjka	subst:sg:voc:f	nazwa pospolita	
-Cypryjkom	Cypryjka	subst:pl:dat:f	nazwa pospolita	
+Cypryjce	Cypryjka	subst:sg:dat:f	nazwa pospolita	etn.
+Cypryjce	Cypryjka	subst:sg:loc:f	nazwa pospolita	etn.
+Cypryjek	Cypryjka	subst:pl:gen:f	nazwa pospolita	etn.
+Cypryjkach	Cypryjka	subst:pl:loc:f	nazwa pospolita	etn.
+Cypryjka	Cypryjka	subst:sg:nom:f	nazwa pospolita	etn.
+Cypryjkami	Cypryjka	subst:pl:inst:f	nazwa pospolita	etn.
+Cypryjką	Cypryjka	subst:sg:inst:f	nazwa pospolita	etn.
+Cypryjkę	Cypryjka	subst:sg:acc:f	nazwa pospolita	etn.
+Cypryjki	Cypryjka	subst:pl:acc:f	nazwa pospolita	etn.
+Cypryjki	Cypryjka	subst:pl:nom:f	nazwa pospolita	etn.
+Cypryjki	Cypryjka	subst:pl:voc:f	nazwa pospolita	etn.
+Cypryjki	Cypryjka	subst:sg:gen:f	nazwa pospolita	etn.
+Cypryjko	Cypryjka	subst:sg:voc:f	nazwa pospolita	etn.
+Cypryjkom	Cypryjka	subst:pl:dat:f	nazwa pospolita	etn.
 Cyrankiewiczach	Cyrankiewicz	subst:pl:loc:m1	nazwisko	
 Cyrankiewicza	Cyrankiewicz	subst:sg:acc:m1	nazwisko	
 Cyrankiewicza	Cyrankiewicz	subst:sg:gen:m1	nazwisko	
@@ -8104,38 +8030,38 @@ Czosnowy	Czosnów	subst:pl:nom:m3	nazwa geograficzna
 Czosnowy	Czosnów	subst:pl:voc:m3	nazwa geograficzna	
 Czosnów	Czosnów	subst:sg:acc:m3	nazwa geograficzna	
 Czosnów	Czosnów	subst:sg:nom:m3	nazwa geograficzna	
-Czukczach	Czukcza	subst:pl:loc:m1	nazwa pospolita	
-Czukcza	Czukcza	subst:sg:nom:m1	nazwa pospolita	
-Czukczami	Czukcza	subst:pl:inst:m1	nazwa pospolita	
-Czukczą	Czukcza	subst:sg:inst:m1	nazwa pospolita	
-Czukcze	Czukcza	depr:pl:nom:m2	nazwa pospolita	
-Czukcze	Czukcza	depr:pl:voc:m2	nazwa pospolita	
-Czukcze	Czukcza	subst:pl:nom:m1	nazwa pospolita	
-Czukcze	Czukcza	subst:pl:voc:m1	nazwa pospolita	
-Czukczę	Czukcza	subst:sg:acc:m1	nazwa pospolita	
-Czukczo	Czukcza	subst:sg:voc:m1	nazwa pospolita	
-Czukczom	Czukcza	subst:pl:dat:m1	nazwa pospolita	
-Czukczowie	Czukcza	subst:pl:nom:m1	nazwa pospolita	
-Czukczowie	Czukcza	subst:pl:voc:m1	nazwa pospolita	
-Czukczów	Czukcza	subst:pl:acc:m1	nazwa pospolita	
-Czukczów	Czukcza	subst:pl:gen:m1	nazwa pospolita	
-Czukczy	Czukcza	subst:sg:dat:m1	nazwa pospolita	
-Czukczy	Czukcza	subst:sg:gen:m1	nazwa pospolita	
-Czukczy	Czukcza	subst:sg:loc:m1	nazwa pospolita	
-Czukczyjce	Czukczyjka	subst:sg:dat:f	nazwa pospolita	
-Czukczyjce	Czukczyjka	subst:sg:loc:f	nazwa pospolita	
-Czukczyjek	Czukczyjka	subst:pl:gen:f	nazwa pospolita	
-Czukczyjkach	Czukczyjka	subst:pl:loc:f	nazwa pospolita	
-Czukczyjka	Czukczyjka	subst:sg:nom:f	nazwa pospolita	
-Czukczyjkami	Czukczyjka	subst:pl:inst:f	nazwa pospolita	
-Czukczyjką	Czukczyjka	subst:sg:inst:f	nazwa pospolita	
-Czukczyjkę	Czukczyjka	subst:sg:acc:f	nazwa pospolita	
-Czukczyjki	Czukczyjka	subst:pl:acc:f	nazwa pospolita	
-Czukczyjki	Czukczyjka	subst:pl:nom:f	nazwa pospolita	
-Czukczyjki	Czukczyjka	subst:pl:voc:f	nazwa pospolita	
-Czukczyjki	Czukczyjka	subst:sg:gen:f	nazwa pospolita	
-Czukczyjko	Czukczyjka	subst:sg:voc:f	nazwa pospolita	
-Czukczyjkom	Czukczyjka	subst:pl:dat:f	nazwa pospolita	
+Czukczach	Czukcza	subst:pl:loc:m1	nazwa pospolita	etn.
+Czukcza	Czukcza	subst:sg:nom:m1	nazwa pospolita	etn.
+Czukczami	Czukcza	subst:pl:inst:m1	nazwa pospolita	etn.
+Czukczą	Czukcza	subst:sg:inst:m1	nazwa pospolita	etn.
+Czukcze	Czukcza	depr:pl:nom:m2	nazwa pospolita	etn.
+Czukcze	Czukcza	depr:pl:voc:m2	nazwa pospolita	etn.
+Czukcze	Czukcza	subst:pl:nom:m1	nazwa pospolita	etn.
+Czukcze	Czukcza	subst:pl:voc:m1	nazwa pospolita	etn.
+Czukczę	Czukcza	subst:sg:acc:m1	nazwa pospolita	etn.
+Czukczo	Czukcza	subst:sg:voc:m1	nazwa pospolita	etn.
+Czukczom	Czukcza	subst:pl:dat:m1	nazwa pospolita	etn.
+Czukczowie	Czukcza	subst:pl:nom:m1	nazwa pospolita	etn.
+Czukczowie	Czukcza	subst:pl:voc:m1	nazwa pospolita	etn.
+Czukczów	Czukcza	subst:pl:acc:m1	nazwa pospolita	etn.
+Czukczów	Czukcza	subst:pl:gen:m1	nazwa pospolita	etn.
+Czukczy	Czukcza	subst:sg:dat:m1	nazwa pospolita	etn.
+Czukczy	Czukcza	subst:sg:gen:m1	nazwa pospolita	etn.
+Czukczy	Czukcza	subst:sg:loc:m1	nazwa pospolita	etn.
+Czukczyjce	Czukczyjka	subst:sg:dat:f	nazwa pospolita	etn.
+Czukczyjce	Czukczyjka	subst:sg:loc:f	nazwa pospolita	etn.
+Czukczyjek	Czukczyjka	subst:pl:gen:f	nazwa pospolita	etn.
+Czukczyjkach	Czukczyjka	subst:pl:loc:f	nazwa pospolita	etn.
+Czukczyjka	Czukczyjka	subst:sg:nom:f	nazwa pospolita	etn.
+Czukczyjkami	Czukczyjka	subst:pl:inst:f	nazwa pospolita	etn.
+Czukczyjką	Czukczyjka	subst:sg:inst:f	nazwa pospolita	etn.
+Czukczyjkę	Czukczyjka	subst:sg:acc:f	nazwa pospolita	etn.
+Czukczyjki	Czukczyjka	subst:pl:acc:f	nazwa pospolita	etn.
+Czukczyjki	Czukczyjka	subst:pl:nom:f	nazwa pospolita	etn.
+Czukczyjki	Czukczyjka	subst:pl:voc:f	nazwa pospolita	etn.
+Czukczyjki	Czukczyjka	subst:sg:gen:f	nazwa pospolita	etn.
+Czukczyjko	Czukczyjka	subst:sg:voc:f	nazwa pospolita	etn.
+Czukczyjkom	Czukczyjka	subst:pl:dat:f	nazwa pospolita	etn.
 Czukotce	Czukotka	subst:sg:dat:f	nazwa geograficzna	
 Czukotce	Czukotka	subst:sg:loc:f	nazwa geograficzna	
 Czukotek	Czukotka	subst:pl:gen:f	nazwa geograficzna	

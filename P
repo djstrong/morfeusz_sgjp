@@ -3095,6 +3095,34 @@ Pątnowy	Pątnów	subst:pl:nom:m3	nazwa geograficzna
 Pątnowy	Pątnów	subst:pl:voc:m3	nazwa geograficzna	
 Pątnów	Pątnów	subst:sg:acc:m3	nazwa geograficzna	
 Pątnów	Pątnów	subst:sg:nom:m3	nazwa geograficzna	
+PB	PB	subst:pl:acc:m3	tytuł|nazwa instytucji	
+PB	PB	subst:pl:acc:n2	tytuł|nazwa instytucji	
+PB	PB	subst:pl:dat:m3	tytuł|nazwa instytucji	
+PB	PB	subst:pl:dat:n2	tytuł|nazwa instytucji	
+PB	PB	subst:pl:gen:m3	tytuł|nazwa instytucji	
+PB	PB	subst:pl:gen:n2	tytuł|nazwa instytucji	
+PB	PB	subst:pl:inst:m3	tytuł|nazwa instytucji	
+PB	PB	subst:pl:inst:n2	tytuł|nazwa instytucji	
+PB	PB	subst:pl:loc:m3	tytuł|nazwa instytucji	
+PB	PB	subst:pl:loc:n2	tytuł|nazwa instytucji	
+PB	PB	subst:pl:nom:m3	tytuł|nazwa instytucji	
+PB	PB	subst:pl:nom:n2	tytuł|nazwa instytucji	
+PB	PB	subst:pl:voc:m3	tytuł|nazwa instytucji	
+PB	PB	subst:pl:voc:n2	tytuł|nazwa instytucji	
+PB	PB	subst:sg:acc:m3	tytuł|nazwa instytucji	
+PB	PB	subst:sg:acc:n2	tytuł|nazwa instytucji	
+PB	PB	subst:sg:dat:m3	tytuł|nazwa instytucji	
+PB	PB	subst:sg:dat:n2	tytuł|nazwa instytucji	
+PB	PB	subst:sg:gen:m3	tytuł|nazwa instytucji	
+PB	PB	subst:sg:gen:n2	tytuł|nazwa instytucji	
+PB	PB	subst:sg:inst:m3	tytuł|nazwa instytucji	
+PB	PB	subst:sg:inst:n2	tytuł|nazwa instytucji	
+PB	PB	subst:sg:loc:m3	tytuł|nazwa instytucji	
+PB	PB	subst:sg:loc:n2	tytuł|nazwa instytucji	
+PB	PB	subst:sg:nom:m3	tytuł|nazwa instytucji	
+PB	PB	subst:sg:nom:n2	tytuł|nazwa instytucji	
+PB	PB	subst:sg:voc:m3	tytuł|nazwa instytucji	
+PB	PB	subst:sg:voc:n2	tytuł|nazwa instytucji	
 PBG	PBG	subst:pl:acc:m3	nazwa firmy	
 PBG	PBG	subst:pl:acc:n2	nazwa firmy	
 PBG	PBG	subst:pl:dat:m3	nazwa firmy	
@@ -3235,62 +3263,34 @@ PBS-u	PBS	subst:sg:gen:m3	nazwa instytucji
 PBS-y	PBS	subst:pl:acc:m3	nazwa instytucji	
 PBS-y	PBS	subst:pl:nom:m3	nazwa instytucji	
 PBS-y	PBS	subst:pl:voc:m3	nazwa instytucji	
-PB	PB:s1	subst:pl:acc:m3	nazwa instytucji	
-PB	PB:s1	subst:pl:acc:n2	nazwa instytucji	
-PB	PB:s1	subst:pl:dat:m3	nazwa instytucji	
-PB	PB:s1	subst:pl:dat:n2	nazwa instytucji	
-PB	PB:s1	subst:pl:gen:m3	nazwa instytucji	
-PB	PB:s1	subst:pl:gen:n2	nazwa instytucji	
-PB	PB:s1	subst:pl:inst:m3	nazwa instytucji	
-PB	PB:s1	subst:pl:inst:n2	nazwa instytucji	
-PB	PB:s1	subst:pl:loc:m3	nazwa instytucji	
-PB	PB:s1	subst:pl:loc:n2	nazwa instytucji	
-PB	PB:s1	subst:pl:nom:m3	nazwa instytucji	
-PB	PB:s1	subst:pl:nom:n2	nazwa instytucji	
-PB	PB:s1	subst:pl:voc:m3	nazwa instytucji	
-PB	PB:s1	subst:pl:voc:n2	nazwa instytucji	
-PB	PB:s1	subst:sg:acc:m3	nazwa instytucji	
-PB	PB:s1	subst:sg:acc:n2	nazwa instytucji	
-PB	PB:s1	subst:sg:dat:m3	nazwa instytucji	
-PB	PB:s1	subst:sg:dat:n2	nazwa instytucji	
-PB	PB:s1	subst:sg:gen:m3	nazwa instytucji	
-PB	PB:s1	subst:sg:gen:n2	nazwa instytucji	
-PB	PB:s1	subst:sg:inst:m3	nazwa instytucji	
-PB	PB:s1	subst:sg:inst:n2	nazwa instytucji	
-PB	PB:s1	subst:sg:loc:m3	nazwa instytucji	
-PB	PB:s1	subst:sg:loc:n2	nazwa instytucji	
-PB	PB:s1	subst:sg:nom:m3	nazwa instytucji	
-PB	PB:s1	subst:sg:nom:n2	nazwa instytucji	
-PB	PB:s1	subst:sg:voc:m3	nazwa instytucji	
-PB	PB:s1	subst:sg:voc:n2	nazwa instytucji	
-PB	PB:s2	subst:pl:acc:m3	tytuł	
-PB	PB:s2	subst:pl:acc:n2	tytuł	
-PB	PB:s2	subst:pl:dat:m3	tytuł	
-PB	PB:s2	subst:pl:dat:n2	tytuł	
-PB	PB:s2	subst:pl:gen:m3	tytuł	
-PB	PB:s2	subst:pl:gen:n2	tytuł	
-PB	PB:s2	subst:pl:inst:m3	tytuł	
-PB	PB:s2	subst:pl:inst:n2	tytuł	
-PB	PB:s2	subst:pl:loc:m3	tytuł	
-PB	PB:s2	subst:pl:loc:n2	tytuł	
-PB	PB:s2	subst:pl:nom:m3	tytuł	
-PB	PB:s2	subst:pl:nom:n2	tytuł	
-PB	PB:s2	subst:pl:voc:m3	tytuł	
-PB	PB:s2	subst:pl:voc:n2	tytuł	
-PB	PB:s2	subst:sg:acc:m3	tytuł	
-PB	PB:s2	subst:sg:acc:n2	tytuł	
-PB	PB:s2	subst:sg:dat:m3	tytuł	
-PB	PB:s2	subst:sg:dat:n2	tytuł	
-PB	PB:s2	subst:sg:gen:m3	tytuł	
-PB	PB:s2	subst:sg:gen:n2	tytuł	
-PB	PB:s2	subst:sg:inst:m3	tytuł	
-PB	PB:s2	subst:sg:inst:n2	tytuł	
-PB	PB:s2	subst:sg:loc:m3	tytuł	
-PB	PB:s2	subst:sg:loc:n2	tytuł	
-PB	PB:s2	subst:sg:nom:m3	tytuł	
-PB	PB:s2	subst:sg:nom:n2	tytuł	
-PB	PB:s2	subst:sg:voc:m3	tytuł	
-PB	PB:s2	subst:sg:voc:n2	tytuł	
+PC	PC	subst:pl:acc:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:pl:acc:n2	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:pl:dat:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:pl:dat:n2	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:pl:gen:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:pl:gen:n2	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:pl:inst:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:pl:inst:n2	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:pl:loc:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:pl:loc:n2	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:pl:nom:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:pl:nom:n2	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:pl:voc:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:pl:voc:n2	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:acc:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:acc:n2	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:dat:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:dat:n2	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:gen:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:gen:n2	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:inst:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:inst:n2	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:loc:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:loc:n2	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:nom:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:nom:n2	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:voc:m3	nazwa organizacji|nazwa pospolita	
+PC	PC	subst:sg:voc:n2	nazwa organizacji|nazwa pospolita	
 PCI	PCI	subst:pl:acc:m3	nazwa pospolita	komp.
 PCI	PCI	subst:pl:dat:m3	nazwa pospolita	komp.
 PCI	PCI	subst:pl:gen:m3	nazwa pospolita	komp.
@@ -3376,62 +3376,6 @@ PCR	PCR	subst:sg:nom:f	nazwa pospolita	biochem.
 PCR	PCR	subst:sg:nom:n2	nazwa pospolita	biochem.
 PCR	PCR	subst:sg:voc:f	nazwa pospolita	biochem.
 PCR	PCR	subst:sg:voc:n2	nazwa pospolita	biochem.
-PC	PC:s1	subst:pl:acc:m3	nazwa organizacji	
-PC	PC:s1	subst:pl:acc:n2	nazwa organizacji	
-PC	PC:s1	subst:pl:dat:m3	nazwa organizacji	
-PC	PC:s1	subst:pl:dat:n2	nazwa organizacji	
-PC	PC:s1	subst:pl:gen:m3	nazwa organizacji	
-PC	PC:s1	subst:pl:gen:n2	nazwa organizacji	
-PC	PC:s1	subst:pl:inst:m3	nazwa organizacji	
-PC	PC:s1	subst:pl:inst:n2	nazwa organizacji	
-PC	PC:s1	subst:pl:loc:m3	nazwa organizacji	
-PC	PC:s1	subst:pl:loc:n2	nazwa organizacji	
-PC	PC:s1	subst:pl:nom:m3	nazwa organizacji	
-PC	PC:s1	subst:pl:nom:n2	nazwa organizacji	
-PC	PC:s1	subst:pl:voc:m3	nazwa organizacji	
-PC	PC:s1	subst:pl:voc:n2	nazwa organizacji	
-PC	PC:s1	subst:sg:acc:m3	nazwa organizacji	
-PC	PC:s1	subst:sg:acc:n2	nazwa organizacji	
-PC	PC:s1	subst:sg:dat:m3	nazwa organizacji	
-PC	PC:s1	subst:sg:dat:n2	nazwa organizacji	
-PC	PC:s1	subst:sg:gen:m3	nazwa organizacji	
-PC	PC:s1	subst:sg:gen:n2	nazwa organizacji	
-PC	PC:s1	subst:sg:inst:m3	nazwa organizacji	
-PC	PC:s1	subst:sg:inst:n2	nazwa organizacji	
-PC	PC:s1	subst:sg:loc:m3	nazwa organizacji	
-PC	PC:s1	subst:sg:loc:n2	nazwa organizacji	
-PC	PC:s1	subst:sg:nom:m3	nazwa organizacji	
-PC	PC:s1	subst:sg:nom:n2	nazwa organizacji	
-PC	PC:s1	subst:sg:voc:m3	nazwa organizacji	
-PC	PC:s1	subst:sg:voc:n2	nazwa organizacji	
-PC	PC:s2	subst:pl:acc:m3	nazwa pospolita	
-PC	PC:s2	subst:pl:acc:n2	nazwa pospolita	
-PC	PC:s2	subst:pl:dat:m3	nazwa pospolita	
-PC	PC:s2	subst:pl:dat:n2	nazwa pospolita	
-PC	PC:s2	subst:pl:gen:m3	nazwa pospolita	
-PC	PC:s2	subst:pl:gen:n2	nazwa pospolita	
-PC	PC:s2	subst:pl:inst:m3	nazwa pospolita	
-PC	PC:s2	subst:pl:inst:n2	nazwa pospolita	
-PC	PC:s2	subst:pl:loc:m3	nazwa pospolita	
-PC	PC:s2	subst:pl:loc:n2	nazwa pospolita	
-PC	PC:s2	subst:pl:nom:m3	nazwa pospolita	
-PC	PC:s2	subst:pl:nom:n2	nazwa pospolita	
-PC	PC:s2	subst:pl:voc:m3	nazwa pospolita	
-PC	PC:s2	subst:pl:voc:n2	nazwa pospolita	
-PC	PC:s2	subst:sg:acc:m3	nazwa pospolita	
-PC	PC:s2	subst:sg:acc:n2	nazwa pospolita	
-PC	PC:s2	subst:sg:dat:m3	nazwa pospolita	
-PC	PC:s2	subst:sg:dat:n2	nazwa pospolita	
-PC	PC:s2	subst:sg:gen:m3	nazwa pospolita	
-PC	PC:s2	subst:sg:gen:n2	nazwa pospolita	
-PC	PC:s2	subst:sg:inst:m3	nazwa pospolita	
-PC	PC:s2	subst:sg:inst:n2	nazwa pospolita	
-PC	PC:s2	subst:sg:loc:m3	nazwa pospolita	
-PC	PC:s2	subst:sg:loc:n2	nazwa pospolita	
-PC	PC:s2	subst:sg:nom:m3	nazwa pospolita	
-PC	PC:s2	subst:sg:nom:n2	nazwa pospolita	
-PC	PC:s2	subst:sg:voc:m3	nazwa pospolita	
-PC	PC:s2	subst:sg:voc:n2	nazwa pospolita	
 PCV	PCV	subst:pl:acc:m3	nazwa pospolita	chem.
 PCV	PCV	subst:pl:acc:n2	nazwa pospolita	chem.
 PCV	PCV	subst:pl:dat:m3	nazwa pospolita	chem.
@@ -4305,6 +4249,20 @@ Persji	Persja	subst:sg:loc:f	nazwa geograficzna	hist.
 Persjom	Persja	subst:pl:dat:f	nazwa geograficzna	hist.
 Persjo	Persja	subst:sg:voc:f	nazwa geograficzna	hist.
 Persyj	Persja	subst:pl:gen:f	nazwa geograficzna	arch.|char.|hist.
+Persyjce	Persyjka	subst:sg:dat:f	nazwa pospolita	etn.
+Persyjce	Persyjka	subst:sg:loc:f	nazwa pospolita	etn.
+Persyjek	Persyjka	subst:pl:gen:f	nazwa pospolita	etn.
+Persyjkach	Persyjka	subst:pl:loc:f	nazwa pospolita	etn.
+Persyjkami	Persyjka	subst:pl:inst:f	nazwa pospolita	etn.
+Persyjka	Persyjka	subst:sg:nom:f	nazwa pospolita	etn.
+Persyjką	Persyjka	subst:sg:inst:f	nazwa pospolita	etn.
+Persyjkę	Persyjka	subst:sg:acc:f	nazwa pospolita	etn.
+Persyjki	Persyjka	subst:pl:acc:f	nazwa pospolita	etn.
+Persyjki	Persyjka	subst:pl:nom:f	nazwa pospolita	etn.
+Persyjki	Persyjka	subst:pl:voc:f	nazwa pospolita	etn.
+Persyjki	Persyjka	subst:sg:gen:f	nazwa pospolita	etn.
+Persyjkom	Persyjka	subst:pl:dat:f	nazwa pospolita	etn.
+Persyjko	Persyjka	subst:sg:voc:f	nazwa pospolita	etn.
 Peru	Peru	subst:pl:acc:n2	nazwa geograficzna	
 Peru	Peru	subst:pl:dat:n2	nazwa geograficzna	
 Peru	Peru	subst:pl:gen:n2	nazwa geograficzna	
@@ -8900,34 +8858,20 @@ Politowskim	Politowski	subst:sg:inst:m1	nazwisko
 Politowskim	Politowski	subst:sg:loc:m1	nazwisko	
 Politowski	Politowski	subst:sg:nom:m1	nazwisko	
 Politowski	Politowski	subst:sg:voc:m1	nazwisko	
-Polce	Polka:s1	subst:sg:dat:f	nazwa pospolita	etn.
-Polce	Polka:s1	subst:sg:loc:f	nazwa pospolita	etn.
-Polek	Polka:s1	subst:pl:gen:f	nazwa pospolita	etn.
-Polkach	Polka:s1	subst:pl:loc:f	nazwa pospolita	etn.
-Polkami	Polka:s1	subst:pl:inst:f	nazwa pospolita	etn.
-Polka	Polka:s1	subst:sg:nom:f	nazwa pospolita	etn.
-Polką	Polka:s1	subst:sg:inst:f	nazwa pospolita	etn.
-Polkę	Polka:s1	subst:sg:acc:f	nazwa pospolita	etn.
-Polki	Polka:s1	subst:pl:acc:f	nazwa pospolita	etn.
-Polki	Polka:s1	subst:pl:nom:f	nazwa pospolita	etn.
-Polki	Polka:s1	subst:pl:voc:f	nazwa pospolita	etn.
-Polki	Polka:s1	subst:sg:gen:f	nazwa pospolita	etn.
-Polkom	Polka:s1	subst:pl:dat:f	nazwa pospolita	etn.
-Polko	Polka:s1	subst:sg:voc:f	nazwa pospolita	etn.
-Polce	Polka:s2	subst:sg:dat:f	nazwa pospolita	
-Polce	Polka:s2	subst:sg:loc:f	nazwa pospolita	
-Polek	Polka:s2	subst:pl:gen:f	nazwa pospolita	
-Polkach	Polka:s2	subst:pl:loc:f	nazwa pospolita	
-Polkami	Polka:s2	subst:pl:inst:f	nazwa pospolita	
-Polka	Polka:s2	subst:sg:nom:f	nazwa pospolita	
-Polką	Polka:s2	subst:sg:inst:f	nazwa pospolita	
-Polkę	Polka:s2	subst:sg:acc:f	nazwa pospolita	
-Polki	Polka:s2	subst:pl:acc:f	nazwa pospolita	
-Polki	Polka:s2	subst:pl:nom:f	nazwa pospolita	
-Polki	Polka:s2	subst:pl:voc:f	nazwa pospolita	
-Polki	Polka:s2	subst:sg:gen:f	nazwa pospolita	
-Polkom	Polka:s2	subst:pl:dat:f	nazwa pospolita	
-Polko	Polka:s2	subst:sg:voc:f	nazwa pospolita	
+Polce	Polka	subst:sg:dat:f	nazwa pospolita	etn.
+Polce	Polka	subst:sg:loc:f	nazwa pospolita	etn.
+Polek	Polka	subst:pl:gen:f	nazwa pospolita	etn.
+Polkach	Polka	subst:pl:loc:f	nazwa pospolita	etn.
+Polkami	Polka	subst:pl:inst:f	nazwa pospolita	etn.
+Polka	Polka	subst:sg:nom:f	nazwa pospolita	etn.
+Polką	Polka	subst:sg:inst:f	nazwa pospolita	etn.
+Polkę	Polka	subst:sg:acc:f	nazwa pospolita	etn.
+Polki	Polka	subst:pl:acc:f	nazwa pospolita	etn.
+Polki	Polka	subst:pl:nom:f	nazwa pospolita	etn.
+Polki	Polka	subst:pl:voc:f	nazwa pospolita	etn.
+Polki	Polka	subst:sg:gen:f	nazwa pospolita	etn.
+Polkom	Polka	subst:pl:dat:f	nazwa pospolita	etn.
+Polko	Polka	subst:sg:voc:f	nazwa pospolita	etn.
 Polkowicach	Polkowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
 Polkowicach	Polkowice	subst:pl:loc:p3	nazwa geograficzna	
 Polkowicami	Polkowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
@@ -12767,62 +12711,34 @@ Pszowy	Pszów	subst:pl:nom:m3	nazwa geograficzna
 Pszowy	Pszów	subst:pl:voc:m3	nazwa geograficzna	
 Pszów	Pszów	subst:sg:acc:m3	nazwa geograficzna	
 Pszów	Pszów	subst:sg:nom:m3	nazwa geograficzna	
-PŚ-ach	PŚ:s1	subst:pl:loc:m3	nazwa instytucji	
-PŚ-ami	PŚ:s1	subst:pl:inst:m3	nazwa instytucji	
-PŚ-em	PŚ:s1	subst:sg:inst:m3	nazwa instytucji	
-PŚ-e	PŚ:s1	subst:pl:acc:m3	nazwa instytucji	
-PŚ-e	PŚ:s1	subst:pl:nom:m3	nazwa instytucji	
-PŚ-e	PŚ:s1	subst:pl:voc:m3	nazwa instytucji	
-PŚ-om	PŚ:s1	subst:pl:dat:m3	nazwa instytucji	
-PŚ-owi	PŚ:s1	subst:sg:dat:m3	nazwa instytucji	
-PŚ-ów	PŚ:s1	subst:pl:gen:m3	nazwa instytucji	
-PŚ	PŚ:s1	subst:pl:acc:f	nazwa instytucji	
-PŚ	PŚ:s1	subst:pl:dat:f	nazwa instytucji	
-PŚ	PŚ:s1	subst:pl:gen:f	nazwa instytucji	
-PŚ	PŚ:s1	subst:pl:inst:f	nazwa instytucji	
-PŚ	PŚ:s1	subst:pl:loc:f	nazwa instytucji	
-PŚ	PŚ:s1	subst:pl:nom:f	nazwa instytucji	
-PŚ	PŚ:s1	subst:pl:voc:f	nazwa instytucji	
-PŚ	PŚ:s1	subst:sg:acc:f	nazwa instytucji	
-PŚ	PŚ:s1	subst:sg:acc:m3	nazwa instytucji	
-PŚ	PŚ:s1	subst:sg:dat:f	nazwa instytucji	
-PŚ	PŚ:s1	subst:sg:gen:f	nazwa instytucji	
-PŚ	PŚ:s1	subst:sg:inst:f	nazwa instytucji	
-PŚ	PŚ:s1	subst:sg:loc:f	nazwa instytucji	
-PŚ	PŚ:s1	subst:sg:nom:f	nazwa instytucji	
-PŚ	PŚ:s1	subst:sg:nom:m3	nazwa instytucji	
-PŚ	PŚ:s1	subst:sg:voc:f	nazwa instytucji	
-PŚ-u	PŚ:s1	subst:sg:gen:m3	nazwa instytucji	
-PŚ-u	PŚ:s1	subst:sg:loc:m3	nazwa instytucji	
-PŚ-u	PŚ:s1	subst:sg:voc:m3	nazwa instytucji	
-PŚ-ach	PŚ:s2	subst:pl:loc:m3	nazwa instytucji	
-PŚ-ami	PŚ:s2	subst:pl:inst:m3	nazwa instytucji	
-PŚ-em	PŚ:s2	subst:sg:inst:m3	nazwa instytucji	
-PŚ-e	PŚ:s2	subst:pl:acc:m3	nazwa instytucji	
-PŚ-e	PŚ:s2	subst:pl:nom:m3	nazwa instytucji	
-PŚ-e	PŚ:s2	subst:pl:voc:m3	nazwa instytucji	
-PŚ-om	PŚ:s2	subst:pl:dat:m3	nazwa instytucji	
-PŚ-owi	PŚ:s2	subst:sg:dat:m3	nazwa instytucji	
-PŚ-ów	PŚ:s2	subst:pl:gen:m3	nazwa instytucji	
-PŚ	PŚ:s2	subst:pl:acc:f	nazwa instytucji	
-PŚ	PŚ:s2	subst:pl:dat:f	nazwa instytucji	
-PŚ	PŚ:s2	subst:pl:gen:f	nazwa instytucji	
-PŚ	PŚ:s2	subst:pl:inst:f	nazwa instytucji	
-PŚ	PŚ:s2	subst:pl:loc:f	nazwa instytucji	
-PŚ	PŚ:s2	subst:pl:nom:f	nazwa instytucji	
-PŚ	PŚ:s2	subst:pl:voc:f	nazwa instytucji	
-PŚ	PŚ:s2	subst:sg:acc:f	nazwa instytucji	
-PŚ	PŚ:s2	subst:sg:acc:m3	nazwa instytucji	
-PŚ	PŚ:s2	subst:sg:dat:f	nazwa instytucji	
-PŚ	PŚ:s2	subst:sg:gen:f	nazwa instytucji	
-PŚ	PŚ:s2	subst:sg:inst:f	nazwa instytucji	
-PŚ	PŚ:s2	subst:sg:loc:f	nazwa instytucji	
-PŚ	PŚ:s2	subst:sg:nom:f	nazwa instytucji	
-PŚ	PŚ:s2	subst:sg:nom:m3	nazwa instytucji	
-PŚ	PŚ:s2	subst:sg:voc:f	nazwa instytucji	
-PŚ-u	PŚ:s2	subst:sg:gen:m3	nazwa instytucji	
-PŚ-u	PŚ:s2	subst:sg:loc:m3	nazwa instytucji	
-PŚ-u	PŚ:s2	subst:sg:voc:m3	nazwa instytucji	
+PŚ-ach	PŚ	subst:pl:loc:m3	nazwa instytucji	
+PŚ-ami	PŚ	subst:pl:inst:m3	nazwa instytucji	
+PŚ-em	PŚ	subst:sg:inst:m3	nazwa instytucji	
+PŚ-e	PŚ	subst:pl:acc:m3	nazwa instytucji	
+PŚ-e	PŚ	subst:pl:nom:m3	nazwa instytucji	
+PŚ-e	PŚ	subst:pl:voc:m3	nazwa instytucji	
+PŚ-om	PŚ	subst:pl:dat:m3	nazwa instytucji	
+PŚ-owi	PŚ	subst:sg:dat:m3	nazwa instytucji	
+PŚ-ów	PŚ	subst:pl:gen:m3	nazwa instytucji	
+PŚ	PŚ	subst:pl:acc:f	nazwa instytucji	
+PŚ	PŚ	subst:pl:dat:f	nazwa instytucji	
+PŚ	PŚ	subst:pl:gen:f	nazwa instytucji	
+PŚ	PŚ	subst:pl:inst:f	nazwa instytucji	
+PŚ	PŚ	subst:pl:loc:f	nazwa instytucji	
+PŚ	PŚ	subst:pl:nom:f	nazwa instytucji	
+PŚ	PŚ	subst:pl:voc:f	nazwa instytucji	
+PŚ	PŚ	subst:sg:acc:f	nazwa instytucji	
+PŚ	PŚ	subst:sg:acc:m3	nazwa instytucji	
+PŚ	PŚ	subst:sg:dat:f	nazwa instytucji	
+PŚ	PŚ	subst:sg:gen:f	nazwa instytucji	
+PŚ	PŚ	subst:sg:inst:f	nazwa instytucji	
+PŚ	PŚ	subst:sg:loc:f	nazwa instytucji	
+PŚ	PŚ	subst:sg:nom:f	nazwa instytucji	
+PŚ	PŚ	subst:sg:nom:m3	nazwa instytucji	
+PŚ	PŚ	subst:sg:voc:f	nazwa instytucji	
+PŚ-u	PŚ	subst:sg:gen:m3	nazwa instytucji	
+PŚ-u	PŚ	subst:sg:loc:m3	nazwa instytucji	
+PŚ-u	PŚ	subst:sg:voc:m3	nazwa instytucji	
 Ptakach	Ptak	subst:pl:loc:m1	nazwisko	
 Ptakami	Ptak	subst:pl:inst:m1	nazwisko	
 Ptaka	Ptak	subst:sg:acc:m1	nazwisko	

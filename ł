@@ -7847,6 +7847,20 @@
 łaty	łat	subst:pl:acc:m3	nazwa pospolita	
 łaty	łat	subst:pl:nom:m3	nazwa pospolita	
 łaty	łat	subst:pl:voc:m3	nazwa pospolita	
+łacie	łata	subst:sg:dat:f	nazwa pospolita	
+łacie	łata	subst:sg:loc:f	nazwa pospolita	
+łatach	łata	subst:pl:loc:f	nazwa pospolita	
+łata	łata	subst:sg:nom:f	nazwa pospolita	
+łatami	łata	subst:pl:inst:f	nazwa pospolita	
+łatą	łata	subst:sg:inst:f	nazwa pospolita	
+łatę	łata	subst:sg:acc:f	nazwa pospolita	
+łat	łata	subst:pl:gen:f	nazwa pospolita	
+łato	łata	subst:sg:voc:f	nazwa pospolita	
+łatom	łata	subst:pl:dat:f	nazwa pospolita	
+łaty	łata	subst:pl:acc:f	nazwa pospolita	
+łaty	łata	subst:pl:nom:f	nazwa pospolita	
+łaty	łata	subst:pl:voc:f	nazwa pospolita	
+łaty	łata	subst:sg:gen:f	nazwa pospolita	
 łataczach	łatacz	subst:pl:loc:m1	nazwa pospolita	
 łatacza	łatacz	subst:sg:acc:m1	nazwa pospolita	
 łatacza	łatacz	subst:sg:gen:m1	nazwa pospolita	
@@ -8007,34 +8021,6 @@
 łatanym	łatany	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
 łatanym	łatany	adj:sg:inst:m1.m2.m3.n1.n2:pos		daw.
 łatanym	łatany	adj:sg:loc:m1.m2.m3.n1.n2:pos		daw.
-łacie	łata:s1	subst:sg:dat:f	nazwa pospolita	
-łacie	łata:s1	subst:sg:loc:f	nazwa pospolita	
-łatach	łata:s1	subst:pl:loc:f	nazwa pospolita	
-łata	łata:s1	subst:sg:nom:f	nazwa pospolita	
-łatami	łata:s1	subst:pl:inst:f	nazwa pospolita	
-łatą	łata:s1	subst:sg:inst:f	nazwa pospolita	
-łatę	łata:s1	subst:sg:acc:f	nazwa pospolita	
-łat	łata:s1	subst:pl:gen:f	nazwa pospolita	
-łato	łata:s1	subst:sg:voc:f	nazwa pospolita	
-łatom	łata:s1	subst:pl:dat:f	nazwa pospolita	
-łaty	łata:s1	subst:pl:acc:f	nazwa pospolita	
-łaty	łata:s1	subst:pl:nom:f	nazwa pospolita	
-łaty	łata:s1	subst:pl:voc:f	nazwa pospolita	
-łaty	łata:s1	subst:sg:gen:f	nazwa pospolita	
-łacie	łata:s2	subst:sg:dat:f	nazwa pospolita	
-łacie	łata:s2	subst:sg:loc:f	nazwa pospolita	
-łatach	łata:s2	subst:pl:loc:f	nazwa pospolita	
-łata	łata:s2	subst:sg:nom:f	nazwa pospolita	
-łatami	łata:s2	subst:pl:inst:f	nazwa pospolita	
-łatą	łata:s2	subst:sg:inst:f	nazwa pospolita	
-łatę	łata:s2	subst:sg:acc:f	nazwa pospolita	
-łat	łata:s2	subst:pl:gen:f	nazwa pospolita	
-łato	łata:s2	subst:sg:voc:f	nazwa pospolita	
-łatom	łata:s2	subst:pl:dat:f	nazwa pospolita	
-łaty	łata:s2	subst:pl:acc:f	nazwa pospolita	
-łaty	łata:s2	subst:pl:nom:f	nazwa pospolita	
-łaty	łata:s2	subst:pl:voc:f	nazwa pospolita	
-łaty	łata:s2	subst:sg:gen:f	nazwa pospolita	
 łateczce	łateczka	subst:sg:dat:f	nazwa pospolita	
 łateczce	łateczka	subst:sg:loc:f	nazwa pospolita	
 łateczek	łateczka	subst:pl:gen:f	nazwa pospolita	

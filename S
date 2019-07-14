@@ -4117,6 +4117,34 @@ Sforzów	Sforza	subst:pl:gen:m1	nazwisko
 Sforzy	Sforza	subst:sg:dat:m1	nazwisko	
 Sforzy	Sforza	subst:sg:gen:m1	nazwisko	
 Sforzy	Sforza	subst:sg:loc:m1	nazwisko	
+SG	SG	subst:pl:acc:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:pl:acc:n2	nazwa firmy|nazwa instytucji	
+SG	SG	subst:pl:dat:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:pl:dat:n2	nazwa firmy|nazwa instytucji	
+SG	SG	subst:pl:gen:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:pl:gen:n2	nazwa firmy|nazwa instytucji	
+SG	SG	subst:pl:inst:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:pl:inst:n2	nazwa firmy|nazwa instytucji	
+SG	SG	subst:pl:loc:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:pl:loc:n2	nazwa firmy|nazwa instytucji	
+SG	SG	subst:pl:nom:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:pl:nom:n2	nazwa firmy|nazwa instytucji	
+SG	SG	subst:pl:voc:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:pl:voc:n2	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:acc:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:acc:n2	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:dat:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:dat:n2	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:gen:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:gen:n2	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:inst:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:inst:n2	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:loc:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:loc:n2	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:nom:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:nom:n2	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:voc:f	nazwa firmy|nazwa instytucji	
+SG	SG	subst:sg:voc:n2	nazwa firmy|nazwa instytucji	
 SGGW	SGGW	subst:pl:acc:f	nazwa instytucji	
 SGGW	SGGW	subst:pl:acc:n2	nazwa instytucji	
 SGGW	SGGW	subst:pl:dat:f	nazwa instytucji	
@@ -4257,62 +4285,6 @@ SGPiS-u	SGPiS	subst:sg:gen:m3	nazwa instytucji
 SGPiS-y	SGPiS	subst:pl:acc:m3	nazwa instytucji	
 SGPiS-y	SGPiS	subst:pl:nom:m3	nazwa instytucji	
 SGPiS-y	SGPiS	subst:pl:voc:m3	nazwa instytucji	
-SG	SG:s1	subst:pl:acc:f	nazwa firmy	
-SG	SG:s1	subst:pl:acc:n2	nazwa firmy	
-SG	SG:s1	subst:pl:dat:f	nazwa firmy	
-SG	SG:s1	subst:pl:dat:n2	nazwa firmy	
-SG	SG:s1	subst:pl:gen:f	nazwa firmy	
-SG	SG:s1	subst:pl:gen:n2	nazwa firmy	
-SG	SG:s1	subst:pl:inst:f	nazwa firmy	
-SG	SG:s1	subst:pl:inst:n2	nazwa firmy	
-SG	SG:s1	subst:pl:loc:f	nazwa firmy	
-SG	SG:s1	subst:pl:loc:n2	nazwa firmy	
-SG	SG:s1	subst:pl:nom:f	nazwa firmy	
-SG	SG:s1	subst:pl:nom:n2	nazwa firmy	
-SG	SG:s1	subst:pl:voc:f	nazwa firmy	
-SG	SG:s1	subst:pl:voc:n2	nazwa firmy	
-SG	SG:s1	subst:sg:acc:f	nazwa firmy	
-SG	SG:s1	subst:sg:acc:n2	nazwa firmy	
-SG	SG:s1	subst:sg:dat:f	nazwa firmy	
-SG	SG:s1	subst:sg:dat:n2	nazwa firmy	
-SG	SG:s1	subst:sg:gen:f	nazwa firmy	
-SG	SG:s1	subst:sg:gen:n2	nazwa firmy	
-SG	SG:s1	subst:sg:inst:f	nazwa firmy	
-SG	SG:s1	subst:sg:inst:n2	nazwa firmy	
-SG	SG:s1	subst:sg:loc:f	nazwa firmy	
-SG	SG:s1	subst:sg:loc:n2	nazwa firmy	
-SG	SG:s1	subst:sg:nom:f	nazwa firmy	
-SG	SG:s1	subst:sg:nom:n2	nazwa firmy	
-SG	SG:s1	subst:sg:voc:f	nazwa firmy	
-SG	SG:s1	subst:sg:voc:n2	nazwa firmy	
-SG	SG:s2	subst:pl:acc:f	nazwa organizacji	
-SG	SG:s2	subst:pl:acc:n2	nazwa organizacji	
-SG	SG:s2	subst:pl:dat:f	nazwa organizacji	
-SG	SG:s2	subst:pl:dat:n2	nazwa organizacji	
-SG	SG:s2	subst:pl:gen:f	nazwa organizacji	
-SG	SG:s2	subst:pl:gen:n2	nazwa organizacji	
-SG	SG:s2	subst:pl:inst:f	nazwa organizacji	
-SG	SG:s2	subst:pl:inst:n2	nazwa organizacji	
-SG	SG:s2	subst:pl:loc:f	nazwa organizacji	
-SG	SG:s2	subst:pl:loc:n2	nazwa organizacji	
-SG	SG:s2	subst:pl:nom:f	nazwa organizacji	
-SG	SG:s2	subst:pl:nom:n2	nazwa organizacji	
-SG	SG:s2	subst:pl:voc:f	nazwa organizacji	
-SG	SG:s2	subst:pl:voc:n2	nazwa organizacji	
-SG	SG:s2	subst:sg:acc:f	nazwa organizacji	
-SG	SG:s2	subst:sg:acc:n2	nazwa organizacji	
-SG	SG:s2	subst:sg:dat:f	nazwa organizacji	
-SG	SG:s2	subst:sg:dat:n2	nazwa organizacji	
-SG	SG:s2	subst:sg:gen:f	nazwa organizacji	
-SG	SG:s2	subst:sg:gen:n2	nazwa organizacji	
-SG	SG:s2	subst:sg:inst:f	nazwa organizacji	
-SG	SG:s2	subst:sg:inst:n2	nazwa organizacji	
-SG	SG:s2	subst:sg:loc:f	nazwa organizacji	
-SG	SG:s2	subst:sg:loc:n2	nazwa organizacji	
-SG	SG:s2	subst:sg:nom:f	nazwa organizacji	
-SG	SG:s2	subst:sg:nom:n2	nazwa organizacji	
-SG	SG:s2	subst:sg:voc:f	nazwa organizacji	
-SG	SG:s2	subst:sg:voc:n2	nazwa organizacji	
 Shakespeare’ach	Shakespeare	subst:pl:loc:m1	nazwisko	
 Shakespeare’ami	Shakespeare	subst:pl:inst:m1	nazwisko	
 Shakespeare’a	Shakespeare	subst:sg:acc:m1	nazwisko	
@@ -5618,20 +5590,20 @@ Siuksów	Siuks	subst:pl:gen:m1	nazwa pospolita
 Siuks	Siuks	subst:sg:nom:m1	nazwa pospolita	
 Siuksy	Siuks	depr:pl:nom:m2	nazwa pospolita	
 Siuksy	Siuks	depr:pl:voc:m2	nazwa pospolita	
-Siuksyjce	Siuksyjka	subst:sg:dat:f	nazwa pospolita	
-Siuksyjce	Siuksyjka	subst:sg:loc:f	nazwa pospolita	
-Siuksyjek	Siuksyjka	subst:pl:gen:f	nazwa pospolita	
-Siuksyjkach	Siuksyjka	subst:pl:loc:f	nazwa pospolita	
-Siuksyjkami	Siuksyjka	subst:pl:inst:f	nazwa pospolita	
-Siuksyjka	Siuksyjka	subst:sg:nom:f	nazwa pospolita	
-Siuksyjką	Siuksyjka	subst:sg:inst:f	nazwa pospolita	
-Siuksyjkę	Siuksyjka	subst:sg:acc:f	nazwa pospolita	
-Siuksyjki	Siuksyjka	subst:pl:acc:f	nazwa pospolita	
-Siuksyjki	Siuksyjka	subst:pl:nom:f	nazwa pospolita	
-Siuksyjki	Siuksyjka	subst:pl:voc:f	nazwa pospolita	
-Siuksyjki	Siuksyjka	subst:sg:gen:f	nazwa pospolita	
-Siuksyjkom	Siuksyjka	subst:pl:dat:f	nazwa pospolita	
-Siuksyjko	Siuksyjka	subst:sg:voc:f	nazwa pospolita	
+Siuksyjce	Siuksyjka	subst:sg:dat:f	nazwa pospolita	etn.
+Siuksyjce	Siuksyjka	subst:sg:loc:f	nazwa pospolita	etn.
+Siuksyjek	Siuksyjka	subst:pl:gen:f	nazwa pospolita	etn.
+Siuksyjkach	Siuksyjka	subst:pl:loc:f	nazwa pospolita	etn.
+Siuksyjkami	Siuksyjka	subst:pl:inst:f	nazwa pospolita	etn.
+Siuksyjka	Siuksyjka	subst:sg:nom:f	nazwa pospolita	etn.
+Siuksyjką	Siuksyjka	subst:sg:inst:f	nazwa pospolita	etn.
+Siuksyjkę	Siuksyjka	subst:sg:acc:f	nazwa pospolita	etn.
+Siuksyjki	Siuksyjka	subst:pl:acc:f	nazwa pospolita	etn.
+Siuksyjki	Siuksyjka	subst:pl:nom:f	nazwa pospolita	etn.
+Siuksyjki	Siuksyjka	subst:pl:voc:f	nazwa pospolita	etn.
+Siuksyjki	Siuksyjka	subst:sg:gen:f	nazwa pospolita	etn.
+Siuksyjkom	Siuksyjka	subst:pl:dat:f	nazwa pospolita	etn.
+Siuksyjko	Siuksyjka	subst:sg:voc:f	nazwa pospolita	etn.
 Siwek	Siwek	subst:sg:nom:m1	nazwisko	
 Siwkach	Siwek	subst:pl:loc:m1	nazwisko	
 Siwkami	Siwek	subst:pl:inst:m1	nazwisko	
@@ -8021,34 +7993,6 @@ SM-u	SM:s2	subst:sg:gen:m3	nazwa organizacji
 SM-y	SM:s2	subst:pl:acc:m3	nazwa organizacji	
 SM-y	SM:s2	subst:pl:nom:m3	nazwa organizacji	
 SM-y	SM:s2	subst:pl:voc:m3	nazwa organizacji	
-SM-ach	SM:s3	subst:pl:loc:m3	nazwa organizacji	
-SM-ami	SM:s3	subst:pl:inst:m3	nazwa organizacji	
-SM-em	SM:s3	subst:sg:inst:m3	nazwa organizacji	
-SM-ie	SM:s3	subst:sg:loc:m3	nazwa organizacji	
-SM-ie	SM:s3	subst:sg:voc:m3	nazwa organizacji	
-SM-om	SM:s3	subst:pl:dat:m3	nazwa organizacji	
-SM-owi	SM:s3	subst:sg:dat:m3	nazwa organizacji	
-SM-ów	SM:s3	subst:pl:gen:m3	nazwa organizacji	
-SM	SM:s3	subst:pl:acc:f	nazwa organizacji	
-SM	SM:s3	subst:pl:dat:f	nazwa organizacji	
-SM	SM:s3	subst:pl:gen:f	nazwa organizacji	
-SM	SM:s3	subst:pl:inst:f	nazwa organizacji	
-SM	SM:s3	subst:pl:loc:f	nazwa organizacji	
-SM	SM:s3	subst:pl:nom:f	nazwa organizacji	
-SM	SM:s3	subst:pl:voc:f	nazwa organizacji	
-SM	SM:s3	subst:sg:acc:f	nazwa organizacji	
-SM	SM:s3	subst:sg:acc:m3	nazwa organizacji	
-SM	SM:s3	subst:sg:dat:f	nazwa organizacji	
-SM	SM:s3	subst:sg:gen:f	nazwa organizacji	
-SM	SM:s3	subst:sg:inst:f	nazwa organizacji	
-SM	SM:s3	subst:sg:loc:f	nazwa organizacji	
-SM	SM:s3	subst:sg:nom:f	nazwa organizacji	
-SM	SM:s3	subst:sg:nom:m3	nazwa organizacji	
-SM	SM:s3	subst:sg:voc:f	nazwa organizacji	
-SM-u	SM:s3	subst:sg:gen:m3	nazwa organizacji	
-SM-y	SM:s3	subst:pl:acc:m3	nazwa organizacji	
-SM-y	SM:s3	subst:pl:nom:m3	nazwa organizacji	
-SM-y	SM:s3	subst:pl:voc:m3	nazwa organizacji	
 SO	SO	subst:pl:acc:m3	nazwa instytucji	
 SO	SO	subst:pl:acc:n2	nazwa instytucji	
 SO	SO	subst:pl:dat:m3	nazwa instytucji	
@@ -9473,6 +9417,34 @@ Sozantów	Sozant	subst:pl:gen:m1	imię
 Sozant	Sozant	subst:sg:nom:m1	imię	
 Sozanty	Sozant	depr:pl:nom:m2	imię	
 Sozanty	Sozant	depr:pl:voc:m2	imię	
+SP	SP	subst:pl:acc:f	nazwa organizacji	
+SP	SP	subst:pl:acc:n2	nazwa organizacji	
+SP	SP	subst:pl:dat:f	nazwa organizacji	
+SP	SP	subst:pl:dat:n2	nazwa organizacji	
+SP	SP	subst:pl:gen:f	nazwa organizacji	
+SP	SP	subst:pl:gen:n2	nazwa organizacji	
+SP	SP	subst:pl:inst:f	nazwa organizacji	
+SP	SP	subst:pl:inst:n2	nazwa organizacji	
+SP	SP	subst:pl:loc:f	nazwa organizacji	
+SP	SP	subst:pl:loc:n2	nazwa organizacji	
+SP	SP	subst:pl:nom:f	nazwa organizacji	
+SP	SP	subst:pl:nom:n2	nazwa organizacji	
+SP	SP	subst:pl:voc:f	nazwa organizacji	
+SP	SP	subst:pl:voc:n2	nazwa organizacji	
+SP	SP	subst:sg:acc:f	nazwa organizacji	
+SP	SP	subst:sg:acc:n2	nazwa organizacji	
+SP	SP	subst:sg:dat:f	nazwa organizacji	
+SP	SP	subst:sg:dat:n2	nazwa organizacji	
+SP	SP	subst:sg:gen:f	nazwa organizacji	
+SP	SP	subst:sg:gen:n2	nazwa organizacji	
+SP	SP	subst:sg:inst:f	nazwa organizacji	
+SP	SP	subst:sg:inst:n2	nazwa organizacji	
+SP	SP	subst:sg:loc:f	nazwa organizacji	
+SP	SP	subst:sg:loc:n2	nazwa organizacji	
+SP	SP	subst:sg:nom:f	nazwa organizacji	
+SP	SP	subst:sg:nom:n2	nazwa organizacji	
+SP	SP	subst:sg:voc:f	nazwa organizacji	
+SP	SP	subst:sg:voc:n2	nazwa organizacji	
 Sparcie	Sparta	subst:sg:dat:f	nazwa geograficzna	
 Sparcie	Sparta	subst:sg:loc:f	nazwa geograficzna	
 Spartach	Sparta	subst:pl:loc:f	nazwa geograficzna	
@@ -9836,62 +9808,6 @@ Springery	Springer	depr:pl:nom:m2	nazwisko
 Springery	Springer	depr:pl:voc:m2	nazwisko	
 Springerze	Springer	subst:sg:loc:m1	nazwisko	
 Springerze	Springer	subst:sg:voc:m1	nazwisko	
-SP	SP:s1	subst:pl:acc:f	nazwa organizacji	
-SP	SP:s1	subst:pl:acc:n2	nazwa organizacji	
-SP	SP:s1	subst:pl:dat:f	nazwa organizacji	
-SP	SP:s1	subst:pl:dat:n2	nazwa organizacji	
-SP	SP:s1	subst:pl:gen:f	nazwa organizacji	
-SP	SP:s1	subst:pl:gen:n2	nazwa organizacji	
-SP	SP:s1	subst:pl:inst:f	nazwa organizacji	
-SP	SP:s1	subst:pl:inst:n2	nazwa organizacji	
-SP	SP:s1	subst:pl:loc:f	nazwa organizacji	
-SP	SP:s1	subst:pl:loc:n2	nazwa organizacji	
-SP	SP:s1	subst:pl:nom:f	nazwa organizacji	
-SP	SP:s1	subst:pl:nom:n2	nazwa organizacji	
-SP	SP:s1	subst:pl:voc:f	nazwa organizacji	
-SP	SP:s1	subst:pl:voc:n2	nazwa organizacji	
-SP	SP:s1	subst:sg:acc:f	nazwa organizacji	
-SP	SP:s1	subst:sg:acc:n2	nazwa organizacji	
-SP	SP:s1	subst:sg:dat:f	nazwa organizacji	
-SP	SP:s1	subst:sg:dat:n2	nazwa organizacji	
-SP	SP:s1	subst:sg:gen:f	nazwa organizacji	
-SP	SP:s1	subst:sg:gen:n2	nazwa organizacji	
-SP	SP:s1	subst:sg:inst:f	nazwa organizacji	
-SP	SP:s1	subst:sg:inst:n2	nazwa organizacji	
-SP	SP:s1	subst:sg:loc:f	nazwa organizacji	
-SP	SP:s1	subst:sg:loc:n2	nazwa organizacji	
-SP	SP:s1	subst:sg:nom:f	nazwa organizacji	
-SP	SP:s1	subst:sg:nom:n2	nazwa organizacji	
-SP	SP:s1	subst:sg:voc:f	nazwa organizacji	
-SP	SP:s1	subst:sg:voc:n2	nazwa organizacji	
-SP	SP:s2	subst:pl:acc:f	nazwa organizacji	
-SP	SP:s2	subst:pl:acc:n2	nazwa organizacji	
-SP	SP:s2	subst:pl:dat:f	nazwa organizacji	
-SP	SP:s2	subst:pl:dat:n2	nazwa organizacji	
-SP	SP:s2	subst:pl:gen:f	nazwa organizacji	
-SP	SP:s2	subst:pl:gen:n2	nazwa organizacji	
-SP	SP:s2	subst:pl:inst:f	nazwa organizacji	
-SP	SP:s2	subst:pl:inst:n2	nazwa organizacji	
-SP	SP:s2	subst:pl:loc:f	nazwa organizacji	
-SP	SP:s2	subst:pl:loc:n2	nazwa organizacji	
-SP	SP:s2	subst:pl:nom:f	nazwa organizacji	
-SP	SP:s2	subst:pl:nom:n2	nazwa organizacji	
-SP	SP:s2	subst:pl:voc:f	nazwa organizacji	
-SP	SP:s2	subst:pl:voc:n2	nazwa organizacji	
-SP	SP:s2	subst:sg:acc:f	nazwa organizacji	
-SP	SP:s2	subst:sg:acc:n2	nazwa organizacji	
-SP	SP:s2	subst:sg:dat:f	nazwa organizacji	
-SP	SP:s2	subst:sg:dat:n2	nazwa organizacji	
-SP	SP:s2	subst:sg:gen:f	nazwa organizacji	
-SP	SP:s2	subst:sg:gen:n2	nazwa organizacji	
-SP	SP:s2	subst:sg:inst:f	nazwa organizacji	
-SP	SP:s2	subst:sg:inst:n2	nazwa organizacji	
-SP	SP:s2	subst:sg:loc:f	nazwa organizacji	
-SP	SP:s2	subst:sg:loc:n2	nazwa organizacji	
-SP	SP:s2	subst:sg:nom:f	nazwa organizacji	
-SP	SP:s2	subst:sg:nom:n2	nazwa organizacji	
-SP	SP:s2	subst:sg:voc:f	nazwa organizacji	
-SP	SP:s2	subst:sg:voc:n2	nazwa organizacji	
 Spychalska	Spychalska	subst:sg:nom:f	nazwisko	
 Spychalska	Spychalska	subst:sg:voc:f	nazwisko	
 Spychalską	Spychalska	subst:sg:acc:f	nazwisko	
@@ -14724,20 +14640,20 @@ Syryjczyków	Syryjczyk	subst:pl:gen:m1	nazwa pospolita
 Syryjczyk	Syryjczyk	subst:sg:nom:m1	nazwa pospolita	
 Syryjczyku	Syryjczyk	subst:sg:loc:m1	nazwa pospolita	
 Syryjczyku	Syryjczyk	subst:sg:voc:m1	nazwa pospolita	
-Syryjce	Syryjka	subst:sg:dat:f	nazwa pospolita	
-Syryjce	Syryjka	subst:sg:loc:f	nazwa pospolita	
-Syryjek	Syryjka	subst:pl:gen:f	nazwa pospolita	
-Syryjkach	Syryjka	subst:pl:loc:f	nazwa pospolita	
-Syryjkami	Syryjka	subst:pl:inst:f	nazwa pospolita	
-Syryjka	Syryjka	subst:sg:nom:f	nazwa pospolita	
-Syryjką	Syryjka	subst:sg:inst:f	nazwa pospolita	
-Syryjkę	Syryjka	subst:sg:acc:f	nazwa pospolita	
-Syryjki	Syryjka	subst:pl:acc:f	nazwa pospolita	
-Syryjki	Syryjka	subst:pl:nom:f	nazwa pospolita	
-Syryjki	Syryjka	subst:pl:voc:f	nazwa pospolita	
-Syryjki	Syryjka	subst:sg:gen:f	nazwa pospolita	
-Syryjkom	Syryjka	subst:pl:dat:f	nazwa pospolita	
-Syryjko	Syryjka	subst:sg:voc:f	nazwa pospolita	
+Syryjce	Syryjka	subst:sg:dat:f	nazwa pospolita	etn.
+Syryjce	Syryjka	subst:sg:loc:f	nazwa pospolita	etn.
+Syryjek	Syryjka	subst:pl:gen:f	nazwa pospolita	etn.
+Syryjkach	Syryjka	subst:pl:loc:f	nazwa pospolita	etn.
+Syryjkami	Syryjka	subst:pl:inst:f	nazwa pospolita	etn.
+Syryjka	Syryjka	subst:sg:nom:f	nazwa pospolita	etn.
+Syryjką	Syryjka	subst:sg:inst:f	nazwa pospolita	etn.
+Syryjkę	Syryjka	subst:sg:acc:f	nazwa pospolita	etn.
+Syryjki	Syryjka	subst:pl:acc:f	nazwa pospolita	etn.
+Syryjki	Syryjka	subst:pl:nom:f	nazwa pospolita	etn.
+Syryjki	Syryjka	subst:pl:voc:f	nazwa pospolita	etn.
+Syryjki	Syryjka	subst:sg:gen:f	nazwa pospolita	etn.
+Syryjkom	Syryjka	subst:pl:dat:f	nazwa pospolita	etn.
+Syryjko	Syryjka	subst:sg:voc:f	nazwa pospolita	etn.
 Syzyfach	Syzyf	subst:pl:loc:m1	imię	mit.
 Syzyfami	Syzyf	subst:pl:inst:m1	imię	mit.
 Syzyfa	Syzyf	subst:sg:acc:m1	imię	mit.

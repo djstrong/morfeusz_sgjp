@@ -6585,6 +6585,20 @@ Rumy	Rumy	subst:pl:nom:p2	nazwa geograficzna
 Rumy	Rumy	subst:pl:nom:p3	nazwa geograficzna	
 Rumy	Rumy	subst:pl:voc:p2	nazwa geograficzna	
 Rumy	Rumy	subst:pl:voc:p3	nazwa geograficzna	
+RUP-ach	RUP	subst:pl:loc:m3	nazwa instytucji	
+RUP-ami	RUP	subst:pl:inst:m3	nazwa instytucji	
+RUP-em	RUP	subst:sg:inst:m3	nazwa instytucji	
+RUP-ie	RUP	subst:sg:loc:m3	nazwa instytucji	
+RUP-ie	RUP	subst:sg:voc:m3	nazwa instytucji	
+RUP-om	RUP	subst:pl:dat:m3	nazwa instytucji	
+RUP-owi	RUP	subst:sg:dat:m3	nazwa instytucji	
+RUP-ów	RUP	subst:pl:gen:m3	nazwa instytucji	
+RUP	RUP	subst:sg:acc:m3	nazwa instytucji	
+RUP	RUP	subst:sg:nom:m3	nazwa instytucji	
+RUP-u	RUP	subst:sg:gen:m3	nazwa instytucji	
+RUP-y	RUP	subst:pl:acc:m3	nazwa instytucji	
+RUP-y	RUP	subst:pl:nom:m3	nazwa instytucji	
+RUP-y	RUP	subst:pl:voc:m3	nazwa instytucji	
 Rupercie	Rupert	subst:sg:loc:m1	imię	
 Rupercie	Rupert	subst:sg:voc:m1	imię	
 Ruperci	Rupert	subst:pl:nom:m1	imię	
@@ -6621,34 +6635,6 @@ Ruprechtów	Ruprecht	subst:pl:gen:m1	imię
 Ruprecht	Ruprecht	subst:sg:nom:m1	imię	
 Ruprechty	Ruprecht	depr:pl:nom:m2	imię	
 Ruprechty	Ruprecht	depr:pl:voc:m2	imię	
-RUP-ach	RUP:s1	subst:pl:loc:m3	nazwa instytucji	
-RUP-ami	RUP:s1	subst:pl:inst:m3	nazwa instytucji	
-RUP-em	RUP:s1	subst:sg:inst:m3	nazwa instytucji	
-RUP-ie	RUP:s1	subst:sg:loc:m3	nazwa instytucji	
-RUP-ie	RUP:s1	subst:sg:voc:m3	nazwa instytucji	
-RUP-om	RUP:s1	subst:pl:dat:m3	nazwa instytucji	
-RUP-owi	RUP:s1	subst:sg:dat:m3	nazwa instytucji	
-RUP-ów	RUP:s1	subst:pl:gen:m3	nazwa instytucji	
-RUP	RUP:s1	subst:sg:acc:m3	nazwa instytucji	
-RUP	RUP:s1	subst:sg:nom:m3	nazwa instytucji	
-RUP-u	RUP:s1	subst:sg:gen:m3	nazwa instytucji	
-RUP-y	RUP:s1	subst:pl:acc:m3	nazwa instytucji	
-RUP-y	RUP:s1	subst:pl:nom:m3	nazwa instytucji	
-RUP-y	RUP:s1	subst:pl:voc:m3	nazwa instytucji	
-RUP-ach	RUP:s2	subst:pl:loc:m3	nazwa instytucji	
-RUP-ami	RUP:s2	subst:pl:inst:m3	nazwa instytucji	
-RUP-em	RUP:s2	subst:sg:inst:m3	nazwa instytucji	
-RUP-ie	RUP:s2	subst:sg:loc:m3	nazwa instytucji	
-RUP-ie	RUP:s2	subst:sg:voc:m3	nazwa instytucji	
-RUP-om	RUP:s2	subst:pl:dat:m3	nazwa instytucji	
-RUP-owi	RUP:s2	subst:sg:dat:m3	nazwa instytucji	
-RUP-ów	RUP:s2	subst:pl:gen:m3	nazwa instytucji	
-RUP	RUP:s2	subst:sg:acc:m3	nazwa instytucji	
-RUP	RUP:s2	subst:sg:nom:m3	nazwa instytucji	
-RUP-u	RUP:s2	subst:sg:gen:m3	nazwa instytucji	
-RUP-y	RUP:s2	subst:pl:acc:m3	nazwa instytucji	
-RUP-y	RUP:s2	subst:pl:nom:m3	nazwa instytucji	
-RUP-y	RUP:s2	subst:pl:voc:m3	nazwa instytucji	
 Rurykach	Ruryk	subst:pl:loc:m1	imię	
 Rurykami	Ruryk	subst:pl:inst:m1	imię	
 Ruryka	Ruryk	subst:sg:acc:m1	imię	

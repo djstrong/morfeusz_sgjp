@@ -752,6 +752,20 @@ Ułan	Ułan	subst:sg:inst:m3	człon nazwy geograficznej
 Ułan	Ułan	subst:sg:loc:m3	człon nazwy geograficznej	
 Ułan	Ułan	subst:sg:nom:m3	człon nazwy geograficznej	
 Ułan	Ułan	subst:sg:voc:m3	człon nazwy geograficznej	
+UM-ach	UM	subst:pl:loc:m3	nazwa instytucji	
+UM-ami	UM	subst:pl:inst:m3	nazwa instytucji	
+UM-em	UM	subst:sg:inst:m3	nazwa instytucji	
+UM-ie	UM	subst:sg:loc:m3	nazwa instytucji	
+UM-ie	UM	subst:sg:voc:m3	nazwa instytucji	
+UM-om	UM	subst:pl:dat:m3	nazwa instytucji	
+UM-owi	UM	subst:sg:dat:m3	nazwa instytucji	
+UM-ów	UM	subst:pl:gen:m3	nazwa instytucji	
+UM	UM	subst:sg:acc:m3	nazwa instytucji	
+UM	UM	subst:sg:nom:m3	nazwa instytucji	
+UM-u	UM	subst:sg:gen:m3	nazwa instytucji	
+UM-y	UM	subst:pl:acc:m3	nazwa instytucji	
+UM-y	UM	subst:pl:nom:m3	nazwa instytucji	
+UM-y	UM	subst:pl:voc:m3	nazwa instytucji	
 Umbercie	Umberto	subst:sg:loc:m1	imię	
 Umbertach	Umberto	subst:pl:loc:m1	imię	
 Umbertami	Umberto	subst:pl:inst:m1	imię	
@@ -841,34 +855,6 @@ UMK	UMK	subst:sg:nom:m3	nazwa instytucji
 UMK	UMK	subst:sg:nom:n2	nazwa instytucji	pot.
 UMK	UMK	subst:sg:voc:m3	nazwa instytucji	
 UMK	UMK	subst:sg:voc:n2	nazwa instytucji	pot.
-UM-ach	UM:s1	subst:pl:loc:m3	nazwa pospolita	
-UM-ami	UM:s1	subst:pl:inst:m3	nazwa pospolita	
-UM-em	UM:s1	subst:sg:inst:m3	nazwa pospolita	
-UM-ie	UM:s1	subst:sg:loc:m3	nazwa pospolita	
-UM-ie	UM:s1	subst:sg:voc:m3	nazwa pospolita	
-UM-om	UM:s1	subst:pl:dat:m3	nazwa pospolita	
-UM-owi	UM:s1	subst:sg:dat:m3	nazwa pospolita	
-UM-ów	UM:s1	subst:pl:gen:m3	nazwa pospolita	
-UM	UM:s1	subst:sg:acc:m3	nazwa pospolita	
-UM	UM:s1	subst:sg:nom:m3	nazwa pospolita	
-UM-u	UM:s1	subst:sg:gen:m3	nazwa pospolita	
-UM-y	UM:s1	subst:pl:acc:m3	nazwa pospolita	
-UM-y	UM:s1	subst:pl:nom:m3	nazwa pospolita	
-UM-y	UM:s1	subst:pl:voc:m3	nazwa pospolita	
-UM-ach	UM:s2	subst:pl:loc:m3	nazwa instytucji	
-UM-ami	UM:s2	subst:pl:inst:m3	nazwa instytucji	
-UM-em	UM:s2	subst:sg:inst:m3	nazwa instytucji	
-UM-ie	UM:s2	subst:sg:loc:m3	nazwa instytucji	
-UM-ie	UM:s2	subst:sg:voc:m3	nazwa instytucji	
-UM-om	UM:s2	subst:pl:dat:m3	nazwa instytucji	
-UM-owi	UM:s2	subst:sg:dat:m3	nazwa instytucji	
-UM-ów	UM:s2	subst:pl:gen:m3	nazwa instytucji	
-UM	UM:s2	subst:sg:acc:m3	nazwa instytucji	
-UM	UM:s2	subst:sg:nom:m3	nazwa instytucji	
-UM-u	UM:s2	subst:sg:gen:m3	nazwa instytucji	
-UM-y	UM:s2	subst:pl:acc:m3	nazwa instytucji	
-UM-y	UM:s2	subst:pl:nom:m3	nazwa instytucji	
-UM-y	UM:s2	subst:pl:voc:m3	nazwa instytucji	
 UMTS-ach	UMTS	subst:pl:loc:m3	nazwa pospolita	
 UMTS-ami	UMTS	subst:pl:inst:m3	nazwa pospolita	
 UMTS-em	UMTS	subst:sg:inst:m3	nazwa pospolita	
@@ -1937,6 +1923,20 @@ Urzędowy	Urzędów	subst:pl:nom:m3	nazwa geograficzna
 Urzędowy	Urzędów	subst:pl:voc:m3	nazwa geograficzna	
 Urzędów	Urzędów	subst:sg:acc:m3	nazwa geograficzna	
 Urzędów	Urzędów	subst:sg:nom:m3	nazwa geograficzna	
+US-ach	US	subst:pl:loc:m3	nazwa instytucji	
+US-ami	US	subst:pl:inst:m3	nazwa instytucji	
+US-em	US	subst:sg:inst:m3	nazwa instytucji	
+US-ie	US	subst:sg:loc:m3	nazwa instytucji	
+US-ie	US	subst:sg:voc:m3	nazwa instytucji	
+US-om	US	subst:pl:dat:m3	nazwa instytucji	
+US-owi	US	subst:sg:dat:m3	nazwa instytucji	
+US-ów	US	subst:pl:gen:m3	nazwa instytucji	
+US	US	subst:sg:acc:m3	nazwa instytucji	
+US	US	subst:sg:nom:m3	nazwa instytucji	
+US-u	US	subst:sg:gen:m3	nazwa instytucji	
+US-y	US	subst:pl:acc:m3	nazwa instytucji	
+US-y	US	subst:pl:nom:m3	nazwa instytucji	
+US-y	US	subst:pl:voc:m3	nazwa instytucji	
 USA	USA	subst:pl:acc:p2	nazwa geograficzna	
 USA	USA	subst:pl:acc:p3	nazwa geograficzna	
 USA	USA	subst:pl:dat:p2	nazwa geograficzna	
@@ -2007,34 +2007,6 @@ USG	USG	subst:sg:inst:n2	nazwa pospolita
 USG	USG	subst:sg:loc:n2	nazwa pospolita	
 USG	USG	subst:sg:nom:n2	nazwa pospolita	
 USG	USG	subst:sg:voc:n2	nazwa pospolita	
-US-ach	US:s1	subst:pl:loc:m3	nazwa instytucji	
-US-ami	US:s1	subst:pl:inst:m3	nazwa instytucji	
-US-em	US:s1	subst:sg:inst:m3	nazwa instytucji	
-US-ie	US:s1	subst:sg:loc:m3	nazwa instytucji	
-US-ie	US:s1	subst:sg:voc:m3	nazwa instytucji	
-US-om	US:s1	subst:pl:dat:m3	nazwa instytucji	
-US-owi	US:s1	subst:sg:dat:m3	nazwa instytucji	
-US-ów	US:s1	subst:pl:gen:m3	nazwa instytucji	
-US	US:s1	subst:sg:acc:m3	nazwa instytucji	
-US	US:s1	subst:sg:nom:m3	nazwa instytucji	
-US-u	US:s1	subst:sg:gen:m3	nazwa instytucji	
-US-y	US:s1	subst:pl:acc:m3	nazwa instytucji	
-US-y	US:s1	subst:pl:nom:m3	nazwa instytucji	
-US-y	US:s1	subst:pl:voc:m3	nazwa instytucji	
-US-ach	US:s2	subst:pl:loc:m3	nazwa instytucji	
-US-ami	US:s2	subst:pl:inst:m3	nazwa instytucji	
-US-em	US:s2	subst:sg:inst:m3	nazwa instytucji	
-US-ie	US:s2	subst:sg:loc:m3	nazwa instytucji	
-US-ie	US:s2	subst:sg:voc:m3	nazwa instytucji	
-US-om	US:s2	subst:pl:dat:m3	nazwa instytucji	
-US-owi	US:s2	subst:sg:dat:m3	nazwa instytucji	
-US-ów	US:s2	subst:pl:gen:m3	nazwa instytucji	
-US	US:s2	subst:sg:acc:m3	nazwa instytucji	
-US	US:s2	subst:sg:nom:m3	nazwa instytucji	
-US-u	US:s2	subst:sg:gen:m3	nazwa instytucji	
-US-y	US:s2	subst:pl:acc:m3	nazwa instytucji	
-US-y	US:s2	subst:pl:nom:m3	nazwa instytucji	
-US-y	US:s2	subst:pl:voc:m3	nazwa instytucji	
 U	ustawa	brev:pun		
 Ustce	Ustka	subst:sg:dat:f	nazwa geograficzna	
 Ustce	Ustka	subst:sg:loc:f	nazwa geograficzna	

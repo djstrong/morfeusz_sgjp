@@ -989,62 +989,34 @@ OHP	OHP	subst:sg:inst:n2	nazwa organizacji
 OHP	OHP	subst:sg:loc:n2	nazwa organizacji	
 OHP	OHP	subst:sg:nom:n2	nazwa organizacji	
 OHP	OHP	subst:sg:voc:n2	nazwa organizacji	
-Oicie	OIT:s1	subst:sg:loc:m3	nazwa instytucji	
-OI-cie	OIT:s1	subst:sg:loc:m3	nazwa instytucji	
-Oicie	OIT:s1	subst:sg:voc:m3	nazwa instytucji	
-OI-cie	OIT:s1	subst:sg:voc:m3	nazwa instytucji	
-OIT-ach	OIT:s1	subst:pl:loc:m3	nazwa instytucji	
-OIT-ami	OIT:s1	subst:pl:inst:m3	nazwa instytucji	
-OIT-em	OIT:s1	subst:sg:inst:m3	nazwa instytucji	
-OIT	OIT:s1	subst:pl:acc:m3	nazwa instytucji	
-OIT	OIT:s1	subst:pl:dat:m3	nazwa instytucji	
-OIT	OIT:s1	subst:pl:gen:m3	nazwa instytucji	
-OIT	OIT:s1	subst:pl:inst:m3	nazwa instytucji	
-OIT	OIT:s1	subst:pl:loc:m3	nazwa instytucji	
-OIT	OIT:s1	subst:pl:nom:m3	nazwa instytucji	
-OIT	OIT:s1	subst:pl:voc:m3	nazwa instytucji	
-OIT	OIT:s1	subst:sg:acc:m3	nazwa instytucji	
-OIT	OIT:s1	subst:sg:dat:m3	nazwa instytucji	
-OIT	OIT:s1	subst:sg:gen:m3	nazwa instytucji	
-OIT	OIT:s1	subst:sg:inst:m3	nazwa instytucji	
-OIT	OIT:s1	subst:sg:loc:m3	nazwa instytucji	
-OIT	OIT:s1	subst:sg:nom:m3	nazwa instytucji	
-OIT	OIT:s1	subst:sg:voc:m3	nazwa instytucji	
-OIT-om	OIT:s1	subst:pl:dat:m3	nazwa instytucji	
-OIT-owi	OIT:s1	subst:sg:dat:m3	nazwa instytucji	
-OIT-ów	OIT:s1	subst:pl:gen:m3	nazwa instytucji	
-OIT-u	OIT:s1	subst:sg:gen:m3	nazwa instytucji	
-OIT-y	OIT:s1	subst:pl:acc:m3	nazwa instytucji	
-OIT-y	OIT:s1	subst:pl:nom:m3	nazwa instytucji	
-OIT-y	OIT:s1	subst:pl:voc:m3	nazwa instytucji	
-Oicie	OIT:s2	subst:sg:loc:m3	nazwa instytucji	
-OI-cie	OIT:s2	subst:sg:loc:m3	nazwa instytucji	
-Oicie	OIT:s2	subst:sg:voc:m3	nazwa instytucji	
-OI-cie	OIT:s2	subst:sg:voc:m3	nazwa instytucji	
-OIT-ach	OIT:s2	subst:pl:loc:m3	nazwa instytucji	
-OIT-ami	OIT:s2	subst:pl:inst:m3	nazwa instytucji	
-OIT-em	OIT:s2	subst:sg:inst:m3	nazwa instytucji	
-OIT	OIT:s2	subst:pl:acc:m3	nazwa instytucji	
-OIT	OIT:s2	subst:pl:dat:m3	nazwa instytucji	
-OIT	OIT:s2	subst:pl:gen:m3	nazwa instytucji	
-OIT	OIT:s2	subst:pl:inst:m3	nazwa instytucji	
-OIT	OIT:s2	subst:pl:loc:m3	nazwa instytucji	
-OIT	OIT:s2	subst:pl:nom:m3	nazwa instytucji	
-OIT	OIT:s2	subst:pl:voc:m3	nazwa instytucji	
-OIT	OIT:s2	subst:sg:acc:m3	nazwa instytucji	
-OIT	OIT:s2	subst:sg:dat:m3	nazwa instytucji	
-OIT	OIT:s2	subst:sg:gen:m3	nazwa instytucji	
-OIT	OIT:s2	subst:sg:inst:m3	nazwa instytucji	
-OIT	OIT:s2	subst:sg:loc:m3	nazwa instytucji	
-OIT	OIT:s2	subst:sg:nom:m3	nazwa instytucji	
-OIT	OIT:s2	subst:sg:voc:m3	nazwa instytucji	
-OIT-om	OIT:s2	subst:pl:dat:m3	nazwa instytucji	
-OIT-owi	OIT:s2	subst:sg:dat:m3	nazwa instytucji	
-OIT-ów	OIT:s2	subst:pl:gen:m3	nazwa instytucji	
-OIT-u	OIT:s2	subst:sg:gen:m3	nazwa instytucji	
-OIT-y	OIT:s2	subst:pl:acc:m3	nazwa instytucji	
-OIT-y	OIT:s2	subst:pl:nom:m3	nazwa instytucji	
-OIT-y	OIT:s2	subst:pl:voc:m3	nazwa instytucji	
+Oicie	OIT	subst:sg:loc:m3	nazwa instytucji	
+OI-cie	OIT	subst:sg:loc:m3	nazwa instytucji	
+Oicie	OIT	subst:sg:voc:m3	nazwa instytucji	
+OI-cie	OIT	subst:sg:voc:m3	nazwa instytucji	
+OIT-ach	OIT	subst:pl:loc:m3	nazwa instytucji	
+OIT-ami	OIT	subst:pl:inst:m3	nazwa instytucji	
+OIT-em	OIT	subst:sg:inst:m3	nazwa instytucji	
+OIT	OIT	subst:pl:acc:m3	nazwa instytucji	
+OIT	OIT	subst:pl:dat:m3	nazwa instytucji	
+OIT	OIT	subst:pl:gen:m3	nazwa instytucji	
+OIT	OIT	subst:pl:inst:m3	nazwa instytucji	
+OIT	OIT	subst:pl:loc:m3	nazwa instytucji	
+OIT	OIT	subst:pl:nom:m3	nazwa instytucji	
+OIT	OIT	subst:pl:voc:m3	nazwa instytucji	
+OIT	OIT	subst:sg:acc:m3	nazwa instytucji	
+OIT	OIT	subst:sg:dat:m3	nazwa instytucji	
+OIT	OIT	subst:sg:gen:m3	nazwa instytucji	
+OIT	OIT	subst:sg:inst:m3	nazwa instytucji	
+OIT	OIT	subst:sg:loc:m3	nazwa instytucji	
+OIT	OIT	subst:sg:nom:m3	nazwa instytucji	
+OIT	OIT	subst:sg:voc:m3	nazwa instytucji	
+OIT-om	OIT	subst:pl:dat:m3	nazwa instytucji	
+OIT-owi	OIT	subst:sg:dat:m3	nazwa instytucji	
+OIT-ów	OIT	subst:pl:gen:m3	nazwa instytucji	
+OIT-u	OIT	subst:sg:gen:m3	nazwa instytucji	
+OIT-y	OIT	subst:pl:acc:m3	nazwa instytucji	
+OIT-y	OIT	subst:pl:nom:m3	nazwa instytucji	
+OIT-y	OIT	subst:pl:voc:m3	nazwa instytucji	
 Ojcowach	Ojców	subst:pl:loc:m3	nazwa geograficzna	
 Ojcowami	Ojców	subst:pl:inst:m3	nazwa geograficzna	
 Ojcowa	Ojców	subst:sg:gen:m3	nazwa geograficzna	
@@ -4303,6 +4275,22 @@ Ostrzyhomiu	Ostrzyhom	subst:sg:loc:m3	nazwa geograficzna
 Ostrzyhomiu	Ostrzyhom	subst:sg:voc:m3	nazwa geograficzna	
 Ostrzyhom	Ostrzyhom	subst:sg:acc:m3	nazwa geograficzna	
 Ostrzyhom	Ostrzyhom	subst:sg:nom:m3	nazwa geograficzna	
+Oswaldach	Oswald	subst:pl:loc:m1	imię|nazwisko	
+Oswaldami	Oswald	subst:pl:inst:m1	imię|nazwisko	
+Oswalda	Oswald	subst:sg:acc:m1	imię|nazwisko	
+Oswalda	Oswald	subst:sg:gen:m1	imię|nazwisko	
+Oswaldem	Oswald	subst:sg:inst:m1	imię|nazwisko	
+Oswaldom	Oswald	subst:pl:dat:m1	imię|nazwisko	
+Oswald	Oswald	subst:sg:nom:m1	imię|nazwisko	
+Oswaldowie	Oswald	subst:pl:nom:m1	imię|nazwisko	
+Oswaldowie	Oswald	subst:pl:voc:m1	imię|nazwisko	
+Oswaldowi	Oswald	subst:sg:dat:m1	imię|nazwisko	
+Oswaldów	Oswald	subst:pl:acc:m1	imię|nazwisko	
+Oswaldów	Oswald	subst:pl:gen:m1	imię|nazwisko	
+Oswaldy	Oswald	depr:pl:nom:m2	imię|nazwisko	
+Oswaldy	Oswald	depr:pl:voc:m2	imię|nazwisko	
+Oswaldzie	Oswald	subst:sg:loc:m1	imię|nazwisko	
+Oswaldzie	Oswald	subst:sg:voc:m1	imię|nazwisko	
 Oswaldach	Oswalda	subst:pl:loc:f	imię	
 Oswaldami	Oswalda	subst:pl:inst:f	imię	
 Oswalda	Oswalda	subst:sg:nom:f	imię	
@@ -4317,38 +4305,6 @@ Oswaldy	Oswalda	subst:pl:voc:f	imię
 Oswaldy	Oswalda	subst:sg:gen:f	imię	
 Oswaldzie	Oswalda	subst:sg:dat:f	imię	
 Oswaldzie	Oswalda	subst:sg:loc:f	imię	
-Oswaldach	Oswald:s1	subst:pl:loc:m1	nazwisko	
-Oswaldami	Oswald:s1	subst:pl:inst:m1	nazwisko	
-Oswalda	Oswald:s1	subst:sg:acc:m1	nazwisko	
-Oswalda	Oswald:s1	subst:sg:gen:m1	nazwisko	
-Oswaldem	Oswald:s1	subst:sg:inst:m1	nazwisko	
-Oswaldom	Oswald:s1	subst:pl:dat:m1	nazwisko	
-Oswald	Oswald:s1	subst:sg:nom:m1	nazwisko	
-Oswaldowie	Oswald:s1	subst:pl:nom:m1	nazwisko	
-Oswaldowie	Oswald:s1	subst:pl:voc:m1	nazwisko	
-Oswaldowi	Oswald:s1	subst:sg:dat:m1	nazwisko	
-Oswaldów	Oswald:s1	subst:pl:acc:m1	nazwisko	
-Oswaldów	Oswald:s1	subst:pl:gen:m1	nazwisko	
-Oswaldy	Oswald:s1	depr:pl:nom:m2	nazwisko	
-Oswaldy	Oswald:s1	depr:pl:voc:m2	nazwisko	
-Oswaldzie	Oswald:s1	subst:sg:loc:m1	nazwisko	
-Oswaldzie	Oswald:s1	subst:sg:voc:m1	nazwisko	
-Oswaldach	Oswald:s2	subst:pl:loc:m1	imię	
-Oswaldami	Oswald:s2	subst:pl:inst:m1	imię	
-Oswalda	Oswald:s2	subst:sg:acc:m1	imię	
-Oswalda	Oswald:s2	subst:sg:gen:m1	imię	
-Oswaldem	Oswald:s2	subst:sg:inst:m1	imię	
-Oswaldom	Oswald:s2	subst:pl:dat:m1	imię	
-Oswald	Oswald:s2	subst:sg:nom:m1	imię	
-Oswaldowie	Oswald:s2	subst:pl:nom:m1	imię	
-Oswaldowie	Oswald:s2	subst:pl:voc:m1	imię	
-Oswaldowi	Oswald:s2	subst:sg:dat:m1	imię	
-Oswaldów	Oswald:s2	subst:pl:acc:m1	imię	
-Oswaldów	Oswald:s2	subst:pl:gen:m1	imię	
-Oswaldy	Oswald:s2	depr:pl:nom:m2	imię	
-Oswaldy	Oswald:s2	depr:pl:voc:m2	imię	
-Oswaldzie	Oswald:s2	subst:sg:loc:m1	imię	
-Oswaldzie	Oswald:s2	subst:sg:voc:m1	imię	
 Oślizłach	Oślizło	subst:pl:loc:m1	nazwisko	
 Oślizłami	Oślizło	subst:pl:inst:m1	nazwisko	
 Oślizłą	Oślizło	subst:sg:inst:m1	nazwisko	

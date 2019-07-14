@@ -4406,34 +4406,20 @@ lamarkizmu	lamarkizm	subst:sg:gen:m3	nazwa pospolita
 lamarkizmy	lamarkizm	subst:pl:acc:m3	nazwa pospolita	
 lamarkizmy	lamarkizm	subst:pl:nom:m3	nazwa pospolita	
 lamarkizmy	lamarkizm	subst:pl:voc:m3	nazwa pospolita	
-lamach	lama:s1	subst:pl:loc:f	nazwa pospolita	zool.
-lama	lama:s1	subst:sg:nom:f	nazwa pospolita	zool.
-lamami	lama:s1	subst:pl:inst:f	nazwa pospolita	zool.
-lamą	lama:s1	subst:sg:inst:f	nazwa pospolita	zool.
-lamę	lama:s1	subst:sg:acc:f	nazwa pospolita	zool.
-lamie	lama:s1	subst:sg:dat:f	nazwa pospolita	zool.
-lamie	lama:s1	subst:sg:loc:f	nazwa pospolita	zool.
-lam	lama:s1	subst:pl:gen:f	nazwa pospolita	zool.
-lamo	lama:s1	subst:sg:voc:f	nazwa pospolita	zool.
-lamom	lama:s1	subst:pl:dat:f	nazwa pospolita	zool.
-lamy	lama:s1	subst:pl:acc:f	nazwa pospolita	zool.
-lamy	lama:s1	subst:pl:nom:f	nazwa pospolita	zool.
-lamy	lama:s1	subst:pl:voc:f	nazwa pospolita	zool.
-lamy	lama:s1	subst:sg:gen:f	nazwa pospolita	zool.
-lamach	lama:s2	subst:pl:loc:f	nazwa pospolita	włók.
-lama	lama:s2	subst:sg:nom:f	nazwa pospolita	włók.
-lamami	lama:s2	subst:pl:inst:f	nazwa pospolita	włók.
-lamą	lama:s2	subst:sg:inst:f	nazwa pospolita	włók.
-lamę	lama:s2	subst:sg:acc:f	nazwa pospolita	włók.
-lamie	lama:s2	subst:sg:dat:f	nazwa pospolita	włók.
-lamie	lama:s2	subst:sg:loc:f	nazwa pospolita	włók.
-lam	lama:s2	subst:pl:gen:f	nazwa pospolita	włók.
-lamo	lama:s2	subst:sg:voc:f	nazwa pospolita	włók.
-lamom	lama:s2	subst:pl:dat:f	nazwa pospolita	włók.
-lamy	lama:s2	subst:pl:acc:f	nazwa pospolita	włók.
-lamy	lama:s2	subst:pl:nom:f	nazwa pospolita	włók.
-lamy	lama:s2	subst:pl:voc:f	nazwa pospolita	włók.
-lamy	lama:s2	subst:sg:gen:f	nazwa pospolita	włók.
+lamach	lama:s1	subst:pl:loc:f	nazwa pospolita	zool.|włók.
+lama	lama:s1	subst:sg:nom:f	nazwa pospolita	zool.|włók.
+lamami	lama:s1	subst:pl:inst:f	nazwa pospolita	zool.|włók.
+lamą	lama:s1	subst:sg:inst:f	nazwa pospolita	zool.|włók.
+lamę	lama:s1	subst:sg:acc:f	nazwa pospolita	zool.|włók.
+lamie	lama:s1	subst:sg:dat:f	nazwa pospolita	zool.|włók.
+lamie	lama:s1	subst:sg:loc:f	nazwa pospolita	zool.|włók.
+lam	lama:s1	subst:pl:gen:f	nazwa pospolita	zool.|włók.
+lamo	lama:s1	subst:sg:voc:f	nazwa pospolita	zool.|włók.
+lamom	lama:s1	subst:pl:dat:f	nazwa pospolita	zool.|włók.
+lamy	lama:s1	subst:pl:acc:f	nazwa pospolita	zool.|włók.
+lamy	lama:s1	subst:pl:nom:f	nazwa pospolita	zool.|włók.
+lamy	lama:s1	subst:pl:voc:f	nazwa pospolita	zool.|włók.
+lamy	lama:s1	subst:sg:gen:f	nazwa pospolita	zool.|włók.
 lamach	lama:s3	subst:pl:loc:m1	nazwa pospolita	rel.
 lama	lama:s3	subst:sg:nom:m1	nazwa pospolita	rel.
 lamami	lama:s3	subst:pl:inst:m1	nazwa pospolita	rel.
@@ -63321,22 +63307,6 @@ luzakowi	luzak:s2	subst:sg:dat:m2	nazwa pospolita
 luzaków	luzak:s2	subst:pl:gen:m2	nazwa pospolita	
 luzaku	luzak:s2	subst:sg:loc:m2	nazwa pospolita	
 luzaku	luzak:s2	subst:sg:voc:m2	nazwa pospolita	
-luzacy	luzak:s3	subst:pl:nom:m1	nazwa pospolita	hist.
-luzacy	luzak:s3	subst:pl:voc:m1	nazwa pospolita	hist.
-luzakach	luzak:s3	subst:pl:loc:m1	nazwa pospolita	hist.
-luzaka	luzak:s3	subst:sg:acc:m1	nazwa pospolita	hist.
-luzaka	luzak:s3	subst:sg:gen:m1	nazwa pospolita	hist.
-luzakami	luzak:s3	subst:pl:inst:m1	nazwa pospolita	hist.
-luzakiem	luzak:s3	subst:sg:inst:m1	nazwa pospolita	hist.
-luzaki	luzak:s3	depr:pl:nom:m2	nazwa pospolita	hist.
-luzaki	luzak:s3	depr:pl:voc:m2	nazwa pospolita	hist.
-luzak	luzak:s3	subst:sg:nom:m1	nazwa pospolita	hist.
-luzakom	luzak:s3	subst:pl:dat:m1	nazwa pospolita	hist.
-luzakowi	luzak:s3	subst:sg:dat:m1	nazwa pospolita	hist.
-luzaków	luzak:s3	subst:pl:acc:m1	nazwa pospolita	hist.
-luzaków	luzak:s3	subst:pl:gen:m1	nazwa pospolita	hist.
-luzaku	luzak:s3	subst:sg:loc:m1	nazwa pospolita	hist.
-luzaku	luzak:s3	subst:sg:voc:m1	nazwa pospolita	hist.
 luzikach	luzik	subst:pl:loc:m3	nazwa pospolita	pot.
 luzikami	luzik	subst:pl:inst:m3	nazwa pospolita	pot.
 luzikiem	luzik	subst:sg:inst:m3	nazwa pospolita	pot.

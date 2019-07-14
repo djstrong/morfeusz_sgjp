@@ -770,34 +770,20 @@ Iławy	Iława	subst:pl:acc:f	nazwa geograficzna
 Iławy	Iława	subst:pl:nom:f	nazwa geograficzna	
 Iławy	Iława	subst:pl:voc:f	nazwa geograficzna	
 Iławy	Iława	subst:sg:gen:f	nazwa geograficzna	
-Iławce	Iławka:s1	subst:sg:dat:f	nazwa geograficzna	
-Iławce	Iławka:s1	subst:sg:loc:f	nazwa geograficzna	
-Iławek	Iławka:s1	subst:pl:gen:f	nazwa geograficzna	
-Iławkach	Iławka:s1	subst:pl:loc:f	nazwa geograficzna	
-Iławka	Iławka:s1	subst:sg:nom:f	nazwa geograficzna	
-Iławkami	Iławka:s1	subst:pl:inst:f	nazwa geograficzna	
-Iławką	Iławka:s1	subst:sg:inst:f	nazwa geograficzna	
-Iławkę	Iławka:s1	subst:sg:acc:f	nazwa geograficzna	
-Iławki	Iławka:s1	subst:pl:acc:f	nazwa geograficzna	
-Iławki	Iławka:s1	subst:pl:nom:f	nazwa geograficzna	
-Iławki	Iławka:s1	subst:pl:voc:f	nazwa geograficzna	
-Iławki	Iławka:s1	subst:sg:gen:f	nazwa geograficzna	
-Iławko	Iławka:s1	subst:sg:voc:f	nazwa geograficzna	
-Iławkom	Iławka:s1	subst:pl:dat:f	nazwa geograficzna	
-Iławce	Iławka:s2	subst:sg:dat:f	nazwa geograficzna	
-Iławce	Iławka:s2	subst:sg:loc:f	nazwa geograficzna	
-Iławek	Iławka:s2	subst:pl:gen:f	nazwa geograficzna	
-Iławkach	Iławka:s2	subst:pl:loc:f	nazwa geograficzna	
-Iławka	Iławka:s2	subst:sg:nom:f	nazwa geograficzna	
-Iławkami	Iławka:s2	subst:pl:inst:f	nazwa geograficzna	
-Iławką	Iławka:s2	subst:sg:inst:f	nazwa geograficzna	
-Iławkę	Iławka:s2	subst:sg:acc:f	nazwa geograficzna	
-Iławki	Iławka:s2	subst:pl:acc:f	nazwa geograficzna	
-Iławki	Iławka:s2	subst:pl:nom:f	nazwa geograficzna	
-Iławki	Iławka:s2	subst:pl:voc:f	nazwa geograficzna	
-Iławki	Iławka:s2	subst:sg:gen:f	nazwa geograficzna	
-Iławko	Iławka:s2	subst:sg:voc:f	nazwa geograficzna	
-Iławkom	Iławka:s2	subst:pl:dat:f	nazwa geograficzna	
+Iławce	Iławka	subst:sg:dat:f	imię|nazwa geograficzna	
+Iławce	Iławka	subst:sg:loc:f	imię|nazwa geograficzna	
+Iławek	Iławka	subst:pl:gen:f	imię|nazwa geograficzna	
+Iławkach	Iławka	subst:pl:loc:f	imię|nazwa geograficzna	
+Iławka	Iławka	subst:sg:nom:f	imię|nazwa geograficzna	
+Iławkami	Iławka	subst:pl:inst:f	imię|nazwa geograficzna	
+Iławką	Iławka	subst:sg:inst:f	imię|nazwa geograficzna	
+Iławkę	Iławka	subst:sg:acc:f	imię|nazwa geograficzna	
+Iławki	Iławka	subst:pl:acc:f	imię|nazwa geograficzna	
+Iławki	Iławka	subst:pl:nom:f	imię|nazwa geograficzna	
+Iławki	Iławka	subst:pl:voc:f	imię|nazwa geograficzna	
+Iławki	Iławka	subst:sg:gen:f	imię|nazwa geograficzna	
+Iławko	Iławka	subst:sg:voc:f	imię|nazwa geograficzna	
+Iławkom	Iławka	subst:pl:dat:f	imię|nazwa geograficzna	
 Iłłakowiczówien	Iłłakowiczówna	subst:pl:gen:f	nazwisko	
 Iłłakowiczównach	Iłłakowiczówna	subst:pl:loc:f	nazwisko	
 Iłłakowiczówna	Iłłakowiczówna	subst:sg:nom:f	nazwisko	
@@ -1099,20 +1085,20 @@ Indonezyjczyków	Indonezyjczyk	subst:pl:acc:m1	nazwa pospolita
 Indonezyjczyków	Indonezyjczyk	subst:pl:gen:m1	nazwa pospolita	
 Indonezyjczyku	Indonezyjczyk	subst:sg:loc:m1	nazwa pospolita	
 Indonezyjczyku	Indonezyjczyk	subst:sg:voc:m1	nazwa pospolita	
-Indonezyjce	Indonezyjka	subst:sg:dat:f	nazwa pospolita	
-Indonezyjce	Indonezyjka	subst:sg:loc:f	nazwa pospolita	
-Indonezyjek	Indonezyjka	subst:pl:gen:f	nazwa pospolita	
-Indonezyjkach	Indonezyjka	subst:pl:loc:f	nazwa pospolita	
-Indonezyjka	Indonezyjka	subst:sg:nom:f	nazwa pospolita	
-Indonezyjkami	Indonezyjka	subst:pl:inst:f	nazwa pospolita	
-Indonezyjką	Indonezyjka	subst:sg:inst:f	nazwa pospolita	
-Indonezyjkę	Indonezyjka	subst:sg:acc:f	nazwa pospolita	
-Indonezyjki	Indonezyjka	subst:pl:acc:f	nazwa pospolita	
-Indonezyjki	Indonezyjka	subst:pl:nom:f	nazwa pospolita	
-Indonezyjki	Indonezyjka	subst:pl:voc:f	nazwa pospolita	
-Indonezyjki	Indonezyjka	subst:sg:gen:f	nazwa pospolita	
-Indonezyjko	Indonezyjka	subst:sg:voc:f	nazwa pospolita	
-Indonezyjkom	Indonezyjka	subst:pl:dat:f	nazwa pospolita	
+Indonezyjce	Indonezyjka	subst:sg:dat:f	nazwa pospolita	etn.
+Indonezyjce	Indonezyjka	subst:sg:loc:f	nazwa pospolita	etn.
+Indonezyjek	Indonezyjka	subst:pl:gen:f	nazwa pospolita	etn.
+Indonezyjkach	Indonezyjka	subst:pl:loc:f	nazwa pospolita	etn.
+Indonezyjka	Indonezyjka	subst:sg:nom:f	nazwa pospolita	etn.
+Indonezyjkami	Indonezyjka	subst:pl:inst:f	nazwa pospolita	etn.
+Indonezyjką	Indonezyjka	subst:sg:inst:f	nazwa pospolita	etn.
+Indonezyjkę	Indonezyjka	subst:sg:acc:f	nazwa pospolita	etn.
+Indonezyjki	Indonezyjka	subst:pl:acc:f	nazwa pospolita	etn.
+Indonezyjki	Indonezyjka	subst:pl:nom:f	nazwa pospolita	etn.
+Indonezyjki	Indonezyjka	subst:pl:voc:f	nazwa pospolita	etn.
+Indonezyjki	Indonezyjka	subst:sg:gen:f	nazwa pospolita	etn.
+Indonezyjko	Indonezyjka	subst:sg:voc:f	nazwa pospolita	etn.
+Indonezyjkom	Indonezyjka	subst:pl:dat:f	nazwa pospolita	etn.
 Indrach	Indra	subst:pl:loc:m1	imię	rel.
 Indra	Indra	subst:sg:nom:m1	imię	rel.
 Indrami	Indra	subst:pl:inst:m1	imię	rel.

@@ -1294,34 +1294,20 @@ Dąbrowskim	Dąbrowski	subst:pl:dat:m1	nazwisko
 Dąbrowskim	Dąbrowski	subst:sg:inst:m1	nazwisko	
 Dąbrowskim	Dąbrowski	subst:sg:loc:m1	nazwisko	
 Dąbrowskimi	Dąbrowski	subst:pl:inst:m1	nazwisko	
-Dąbrówce	Dąbrówka:s1	subst:sg:dat:f	imię	
-Dąbrówce	Dąbrówka:s1	subst:sg:loc:f	imię	
-Dąbrówek	Dąbrówka:s1	subst:pl:gen:f	imię	
-Dąbrówkach	Dąbrówka:s1	subst:pl:loc:f	imię	
-Dąbrówka	Dąbrówka:s1	subst:sg:nom:f	imię	
-Dąbrówkami	Dąbrówka:s1	subst:pl:inst:f	imię	
-Dąbrówką	Dąbrówka:s1	subst:sg:inst:f	imię	
-Dąbrówkę	Dąbrówka:s1	subst:sg:acc:f	imię	
-Dąbrówki	Dąbrówka:s1	subst:pl:acc:f	imię	
-Dąbrówki	Dąbrówka:s1	subst:pl:nom:f	imię	
-Dąbrówki	Dąbrówka:s1	subst:pl:voc:f	imię	
-Dąbrówki	Dąbrówka:s1	subst:sg:gen:f	imię	
-Dąbrówko	Dąbrówka:s1	subst:sg:voc:f	imię	
-Dąbrówkom	Dąbrówka:s1	subst:pl:dat:f	imię	
-Dąbrówce	Dąbrówka:s2	subst:sg:dat:f	nazwa geograficzna	
-Dąbrówce	Dąbrówka:s2	subst:sg:loc:f	nazwa geograficzna	
-Dąbrówek	Dąbrówka:s2	subst:pl:gen:f	nazwa geograficzna	
-Dąbrówkach	Dąbrówka:s2	subst:pl:loc:f	nazwa geograficzna	
-Dąbrówka	Dąbrówka:s2	subst:sg:nom:f	nazwa geograficzna	
-Dąbrówkami	Dąbrówka:s2	subst:pl:inst:f	nazwa geograficzna	
-Dąbrówką	Dąbrówka:s2	subst:sg:inst:f	nazwa geograficzna	
-Dąbrówkę	Dąbrówka:s2	subst:sg:acc:f	nazwa geograficzna	
-Dąbrówki	Dąbrówka:s2	subst:pl:acc:f	nazwa geograficzna	
-Dąbrówki	Dąbrówka:s2	subst:pl:nom:f	nazwa geograficzna	
-Dąbrówki	Dąbrówka:s2	subst:pl:voc:f	nazwa geograficzna	
-Dąbrówki	Dąbrówka:s2	subst:sg:gen:f	nazwa geograficzna	
-Dąbrówko	Dąbrówka:s2	subst:sg:voc:f	nazwa geograficzna	
-Dąbrówkom	Dąbrówka:s2	subst:pl:dat:f	nazwa geograficzna	
+Dąbrówce	Dąbrówka	subst:sg:dat:f	imię|nazwa geograficzna	
+Dąbrówce	Dąbrówka	subst:sg:loc:f	imię|nazwa geograficzna	
+Dąbrówek	Dąbrówka	subst:pl:gen:f	imię|nazwa geograficzna	
+Dąbrówkach	Dąbrówka	subst:pl:loc:f	imię|nazwa geograficzna	
+Dąbrówka	Dąbrówka	subst:sg:nom:f	imię|nazwa geograficzna	
+Dąbrówkami	Dąbrówka	subst:pl:inst:f	imię|nazwa geograficzna	
+Dąbrówką	Dąbrówka	subst:sg:inst:f	imię|nazwa geograficzna	
+Dąbrówkę	Dąbrówka	subst:sg:acc:f	imię|nazwa geograficzna	
+Dąbrówki	Dąbrówka	subst:pl:acc:f	imię|nazwa geograficzna	
+Dąbrówki	Dąbrówka	subst:pl:nom:f	imię|nazwa geograficzna	
+Dąbrówki	Dąbrówka	subst:pl:voc:f	imię|nazwa geograficzna	
+Dąbrówki	Dąbrówka	subst:sg:gen:f	imię|nazwa geograficzna	
+Dąbrówko	Dąbrówka	subst:sg:voc:f	imię|nazwa geograficzna	
+Dąbrówkom	Dąbrówka	subst:pl:dat:f	imię|nazwa geograficzna	
 DBG	DBG	subst:pl:acc:m3	nazwa firmy	
 DBG	DBG	subst:pl:acc:n2	nazwa firmy	
 DBG	DBG	subst:pl:dat:m3	nazwa firmy	

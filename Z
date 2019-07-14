@@ -4072,34 +4072,20 @@ ZMP	ZMP	subst:sg:nom:m3	nazwa organizacji
 ZMP	ZMP	subst:sg:nom:n2	nazwa organizacji	
 ZMP	ZMP	subst:sg:voc:m3	nazwa organizacji	
 ZMP	ZMP	subst:sg:voc:n2	nazwa organizacji	
-ZMS-ach	ZMS:s1	subst:pl:loc:m3	nazwa instytucji	
-ZMS-ami	ZMS:s1	subst:pl:inst:m3	nazwa instytucji	
-ZMS-em	ZMS:s1	subst:sg:inst:m3	nazwa instytucji	
-ZMS-ie	ZMS:s1	subst:sg:loc:m3	nazwa instytucji	
-ZMS-ie	ZMS:s1	subst:sg:voc:m3	nazwa instytucji	
-ZMS-om	ZMS:s1	subst:pl:dat:m3	nazwa instytucji	
-ZMS-owi	ZMS:s1	subst:sg:dat:m3	nazwa instytucji	
-ZMS-ów	ZMS:s1	subst:pl:gen:m3	nazwa instytucji	
-ZMS-u	ZMS:s1	subst:sg:gen:m3	nazwa instytucji	
-ZMS-y	ZMS:s1	subst:pl:acc:m3	nazwa instytucji	
-ZMS-y	ZMS:s1	subst:pl:nom:m3	nazwa instytucji	
-ZMS-y	ZMS:s1	subst:pl:voc:m3	nazwa instytucji	
-ZMS	ZMS:s1	subst:sg:acc:m3	nazwa instytucji	
-ZMS	ZMS:s1	subst:sg:nom:m3	nazwa instytucji	
-ZMS-ach	ZMS:s2	subst:pl:loc:m3	nazwa organizacji	
-ZMS-ami	ZMS:s2	subst:pl:inst:m3	nazwa organizacji	
-ZMS-em	ZMS:s2	subst:sg:inst:m3	nazwa organizacji	
-ZMS-ie	ZMS:s2	subst:sg:loc:m3	nazwa organizacji	
-ZMS-ie	ZMS:s2	subst:sg:voc:m3	nazwa organizacji	
-ZMS-om	ZMS:s2	subst:pl:dat:m3	nazwa organizacji	
-ZMS-owi	ZMS:s2	subst:sg:dat:m3	nazwa organizacji	
-ZMS-ów	ZMS:s2	subst:pl:gen:m3	nazwa organizacji	
-ZMS-u	ZMS:s2	subst:sg:gen:m3	nazwa organizacji	
-ZMS-y	ZMS:s2	subst:pl:acc:m3	nazwa organizacji	
-ZMS-y	ZMS:s2	subst:pl:nom:m3	nazwa organizacji	
-ZMS-y	ZMS:s2	subst:pl:voc:m3	nazwa organizacji	
-ZMS	ZMS:s2	subst:sg:acc:m3	nazwa organizacji	
-ZMS	ZMS:s2	subst:sg:nom:m3	nazwa organizacji	
+ZMS-ach	ZMS	subst:pl:loc:m3	nazwa organizacji|nazwa instytucji	
+ZMS-ami	ZMS	subst:pl:inst:m3	nazwa organizacji|nazwa instytucji	
+ZMS-em	ZMS	subst:sg:inst:m3	nazwa organizacji|nazwa instytucji	
+ZMS-ie	ZMS	subst:sg:loc:m3	nazwa organizacji|nazwa instytucji	
+ZMS-ie	ZMS	subst:sg:voc:m3	nazwa organizacji|nazwa instytucji	
+ZMS-om	ZMS	subst:pl:dat:m3	nazwa organizacji|nazwa instytucji	
+ZMS-owi	ZMS	subst:sg:dat:m3	nazwa organizacji|nazwa instytucji	
+ZMS-ów	ZMS	subst:pl:gen:m3	nazwa organizacji|nazwa instytucji	
+ZMS-u	ZMS	subst:sg:gen:m3	nazwa organizacji|nazwa instytucji	
+ZMS-y	ZMS	subst:pl:acc:m3	nazwa organizacji|nazwa instytucji	
+ZMS-y	ZMS	subst:pl:nom:m3	nazwa organizacji|nazwa instytucji	
+ZMS-y	ZMS	subst:pl:voc:m3	nazwa organizacji|nazwa instytucji	
+ZMS	ZMS	subst:sg:acc:m3	nazwa organizacji|nazwa instytucji	
+ZMS	ZMS	subst:sg:nom:m3	nazwa organizacji|nazwa instytucji	
 Znaniecka	Znaniecka	subst:sg:nom:f	nazwisko	
 Znaniecka	Znaniecka	subst:sg:voc:f	nazwisko	
 Znaniecką	Znaniecka	subst:sg:acc:f	nazwisko	
@@ -4390,6 +4376,20 @@ Zrínyi	Zrínyi	subst:pl:nom:m1	nazwisko
 Zrínyi	Zrínyi	subst:pl:voc:m1	nazwisko	
 Zrínyi	Zrínyi	subst:sg:nom:m1	nazwisko	
 Zrínyi	Zrínyi	subst:sg:voc:m1	nazwisko	
+ZS-ach	ZS	subst:pl:loc:m3	nazwa organizacji	
+ZS-ami	ZS	subst:pl:inst:m3	nazwa organizacji	
+ZS-em	ZS	subst:sg:inst:m3	nazwa organizacji	
+ZS-ie	ZS	subst:sg:loc:m3	nazwa organizacji	
+ZS-ie	ZS	subst:sg:voc:m3	nazwa organizacji	
+ZS-om	ZS	subst:pl:dat:m3	nazwa organizacji	
+ZS-owi	ZS	subst:sg:dat:m3	nazwa organizacji	
+ZS-ów	ZS	subst:pl:gen:m3	nazwa organizacji	
+ZS-u	ZS	subst:sg:gen:m3	nazwa organizacji	
+ZS-y	ZS	subst:pl:acc:m3	nazwa organizacji	
+ZS-y	ZS	subst:pl:nom:m3	nazwa organizacji	
+ZS-y	ZS	subst:pl:voc:m3	nazwa organizacji	
+ZS	ZS	subst:sg:acc:m3	nazwa organizacji	
+ZS	ZS	subst:sg:nom:m3	nazwa organizacji	
 ZSL-ach	ZSL	subst:pl:loc:m3	nazwa organizacji	
 ZSL-ami	ZSL	subst:pl:inst:m3	nazwa organizacji	
 ZSL-em	ZSL	subst:sg:inst:m3	nazwa organizacji	
@@ -4502,34 +4502,6 @@ ZSRR	ZSRR	subst:sg:nom:m3	nazwa geograficzna
 ZSRR	ZSRR	subst:sg:nom:n2	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:sg:voc:m3	nazwa geograficzna	
 ZSRR	ZSRR	subst:sg:voc:n2	nazwa geograficzna	pot.
-ZS-ach	ZS:s1	subst:pl:loc:m3	nazwa organizacji	
-ZS-ami	ZS:s1	subst:pl:inst:m3	nazwa organizacji	
-ZS-em	ZS:s1	subst:sg:inst:m3	nazwa organizacji	
-ZS-ie	ZS:s1	subst:sg:loc:m3	nazwa organizacji	
-ZS-ie	ZS:s1	subst:sg:voc:m3	nazwa organizacji	
-ZS-om	ZS:s1	subst:pl:dat:m3	nazwa organizacji	
-ZS-owi	ZS:s1	subst:sg:dat:m3	nazwa organizacji	
-ZS-ów	ZS:s1	subst:pl:gen:m3	nazwa organizacji	
-ZS-u	ZS:s1	subst:sg:gen:m3	nazwa organizacji	
-ZS-y	ZS:s1	subst:pl:acc:m3	nazwa organizacji	
-ZS-y	ZS:s1	subst:pl:nom:m3	nazwa organizacji	
-ZS-y	ZS:s1	subst:pl:voc:m3	nazwa organizacji	
-ZS	ZS:s1	subst:sg:acc:m3	nazwa organizacji	
-ZS	ZS:s1	subst:sg:nom:m3	nazwa organizacji	
-ZS-ach	ZS:s2	subst:pl:loc:m3	nazwa organizacji	
-ZS-ami	ZS:s2	subst:pl:inst:m3	nazwa organizacji	
-ZS-em	ZS:s2	subst:sg:inst:m3	nazwa organizacji	
-ZS-ie	ZS:s2	subst:sg:loc:m3	nazwa organizacji	
-ZS-ie	ZS:s2	subst:sg:voc:m3	nazwa organizacji	
-ZS-om	ZS:s2	subst:pl:dat:m3	nazwa organizacji	
-ZS-owi	ZS:s2	subst:sg:dat:m3	nazwa organizacji	
-ZS-ów	ZS:s2	subst:pl:gen:m3	nazwa organizacji	
-ZS-u	ZS:s2	subst:sg:gen:m3	nazwa organizacji	
-ZS-y	ZS:s2	subst:pl:acc:m3	nazwa organizacji	
-ZS-y	ZS:s2	subst:pl:nom:m3	nazwa organizacji	
-ZS-y	ZS:s2	subst:pl:voc:m3	nazwa organizacji	
-ZS	ZS:s2	subst:sg:acc:m3	nazwa organizacji	
-ZS	ZS:s2	subst:sg:nom:m3	nazwa organizacji	
 ZSSR	ZSSR	subst:pl:acc:m3	nazwa geograficzna	
 ZSSR	ZSSR	subst:pl:acc:n2	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:pl:dat:m3	nazwa geograficzna	

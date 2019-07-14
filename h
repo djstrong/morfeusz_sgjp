@@ -2527,6 +2527,20 @@ hajtnij	hajtnąć	impt:sg:sec:perf		pot.
 hajtnijmy	hajtnąć	impt:pl:pri:perf		pot.
 hajty	hajty	adv		przest.
 hajże	hajże	interj		
+hakach	hak	subst:pl:loc:m3	nazwa pospolita	
+haka	hak	subst:sg:gen:m3	nazwa pospolita	
+hakami	hak	subst:pl:inst:m3	nazwa pospolita	
+hak	hak	subst:sg:acc:m3	nazwa pospolita	
+hak	hak	subst:sg:nom:m3	nazwa pospolita	
+hakiem	hak	subst:sg:inst:m3	nazwa pospolita	
+haki	hak	subst:pl:acc:m3	nazwa pospolita	
+haki	hak	subst:pl:nom:m3	nazwa pospolita	
+haki	hak	subst:pl:voc:m3	nazwa pospolita	
+hakom	hak	subst:pl:dat:m3	nazwa pospolita	
+hakowi	hak	subst:sg:dat:m3	nazwa pospolita	
+haków	hak	subst:pl:gen:m3	nazwa pospolita	
+haku	hak	subst:sg:loc:m3	nazwa pospolita	
+haku	hak	subst:sg:voc:m3	nazwa pospolita	
 hakacie	hakata	subst:sg:dat:f	nazwa pospolita	
 hakacie	hakata	subst:sg:loc:f	nazwa pospolita	
 hakatach	hakata	subst:pl:loc:f	nazwa pospolita	
@@ -2897,34 +2911,6 @@ hakowym	hakowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 hakowym	hakowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 hakowym	hakowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 hakowymi	hakowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-hakach	hak:s1	subst:pl:loc:m3	nazwa pospolita	
-haka	hak:s1	subst:sg:gen:m3	nazwa pospolita	
-hakami	hak:s1	subst:pl:inst:m3	nazwa pospolita	
-hak	hak:s1	subst:sg:acc:m3	nazwa pospolita	
-hak	hak:s1	subst:sg:nom:m3	nazwa pospolita	
-hakiem	hak:s1	subst:sg:inst:m3	nazwa pospolita	
-haki	hak:s1	subst:pl:acc:m3	nazwa pospolita	
-haki	hak:s1	subst:pl:nom:m3	nazwa pospolita	
-haki	hak:s1	subst:pl:voc:m3	nazwa pospolita	
-hakom	hak:s1	subst:pl:dat:m3	nazwa pospolita	
-hakowi	hak:s1	subst:sg:dat:m3	nazwa pospolita	
-haków	hak:s1	subst:pl:gen:m3	nazwa pospolita	
-haku	hak:s1	subst:sg:loc:m3	nazwa pospolita	
-haku	hak:s1	subst:sg:voc:m3	nazwa pospolita	
-hakach	hak:s2	subst:pl:loc:m3	nazwa pospolita	sport.
-haka	hak:s2	subst:sg:gen:m3	nazwa pospolita	sport.
-hakami	hak:s2	subst:pl:inst:m3	nazwa pospolita	sport.
-hak	hak:s2	subst:sg:acc:m3	nazwa pospolita	sport.
-hak	hak:s2	subst:sg:nom:m3	nazwa pospolita	sport.
-hakiem	hak:s2	subst:sg:inst:m3	nazwa pospolita	sport.
-haki	hak:s2	subst:pl:acc:m3	nazwa pospolita	sport.
-haki	hak:s2	subst:pl:nom:m3	nazwa pospolita	sport.
-haki	hak:s2	subst:pl:voc:m3	nazwa pospolita	sport.
-hakom	hak:s2	subst:pl:dat:m3	nazwa pospolita	sport.
-hakowi	hak:s2	subst:sg:dat:m3	nazwa pospolita	sport.
-haków	hak:s2	subst:pl:gen:m3	nazwa pospolita	sport.
-haku	hak:s2	subst:sg:loc:m3	nazwa pospolita	sport.
-haku	hak:s2	subst:sg:voc:m3	nazwa pospolita	sport.
 halach	hala	subst:pl:loc:f	nazwa pospolita	
 hala	hala	subst:sg:nom:f	nazwa pospolita	
 halami	hala	subst:pl:inst:f	nazwa pospolita	

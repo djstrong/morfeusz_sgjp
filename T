@@ -171,20 +171,20 @@ Tadżyczki	Tadżyczka	subst:pl:voc:f	nazwa pospolita
 Tadżyczki	Tadżyczka	subst:sg:gen:f	nazwa pospolita	
 Tadżyczkom	Tadżyczka	subst:pl:dat:f	nazwa pospolita	
 Tadżyczko	Tadżyczka	subst:sg:voc:f	nazwa pospolita	
-Tadżyjce	Tadżyjka	subst:sg:dat:f	nazwa pospolita	
-Tadżyjce	Tadżyjka	subst:sg:loc:f	nazwa pospolita	
-Tadżyjek	Tadżyjka	subst:pl:gen:f	nazwa pospolita	
-Tadżyjkach	Tadżyjka	subst:pl:loc:f	nazwa pospolita	
-Tadżyjkami	Tadżyjka	subst:pl:inst:f	nazwa pospolita	
-Tadżyjka	Tadżyjka	subst:sg:nom:f	nazwa pospolita	
-Tadżyjką	Tadżyjka	subst:sg:inst:f	nazwa pospolita	
-Tadżyjkę	Tadżyjka	subst:sg:acc:f	nazwa pospolita	
-Tadżyjki	Tadżyjka	subst:pl:acc:f	nazwa pospolita	
-Tadżyjki	Tadżyjka	subst:pl:nom:f	nazwa pospolita	
-Tadżyjki	Tadżyjka	subst:pl:voc:f	nazwa pospolita	
-Tadżyjki	Tadżyjka	subst:sg:gen:f	nazwa pospolita	
-Tadżyjkom	Tadżyjka	subst:pl:dat:f	nazwa pospolita	
-Tadżyjko	Tadżyjka	subst:sg:voc:f	nazwa pospolita	
+Tadżyjce	Tadżyjka	subst:sg:dat:f	nazwa pospolita	etn.
+Tadżyjce	Tadżyjka	subst:sg:loc:f	nazwa pospolita	etn.
+Tadżyjek	Tadżyjka	subst:pl:gen:f	nazwa pospolita	etn.
+Tadżyjkach	Tadżyjka	subst:pl:loc:f	nazwa pospolita	etn.
+Tadżyjkami	Tadżyjka	subst:pl:inst:f	nazwa pospolita	etn.
+Tadżyjka	Tadżyjka	subst:sg:nom:f	nazwa pospolita	etn.
+Tadżyjką	Tadżyjka	subst:sg:inst:f	nazwa pospolita	etn.
+Tadżyjkę	Tadżyjka	subst:sg:acc:f	nazwa pospolita	etn.
+Tadżyjki	Tadżyjka	subst:pl:acc:f	nazwa pospolita	etn.
+Tadżyjki	Tadżyjka	subst:pl:nom:f	nazwa pospolita	etn.
+Tadżyjki	Tadżyjka	subst:pl:voc:f	nazwa pospolita	etn.
+Tadżyjki	Tadżyjka	subst:sg:gen:f	nazwa pospolita	etn.
+Tadżyjkom	Tadżyjka	subst:pl:dat:f	nazwa pospolita	etn.
+Tadżyjko	Tadżyjka	subst:sg:voc:f	nazwa pospolita	etn.
 Tadżycy	Tadżyk	subst:pl:nom:m1	nazwa pospolita	
 Tadżycy	Tadżyk	subst:pl:voc:m1	nazwa pospolita	
 Tadżykach	Tadżyk	subst:pl:loc:m1	nazwa pospolita	
@@ -5304,6 +5304,20 @@ Trzyciąż	Trzyciąż	subst:sg:nom:m3	nazwa geograficzna
 Trzyciążu	Trzyciąż	subst:sg:loc:m3	nazwa geograficzna	
 Trzyciążu	Trzyciąż	subst:sg:voc:m3	nazwa geograficzna	
 Trzyciąży	Trzyciąż	subst:pl:gen:m3	nazwa geograficzna	
+TS-ach	TS	subst:pl:loc:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+TS-ami	TS	subst:pl:inst:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+TS-em	TS	subst:sg:inst:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+TS-ie	TS	subst:sg:loc:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+TS-ie	TS	subst:sg:voc:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+TS-om	TS	subst:pl:dat:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+TS-owi	TS	subst:sg:dat:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+TS-ów	TS	subst:pl:gen:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+TS	TS	subst:sg:acc:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+TS	TS	subst:sg:nom:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+TS-u	TS	subst:sg:gen:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+TS-y	TS	subst:pl:acc:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+TS-y	TS	subst:pl:nom:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+TS-y	TS	subst:pl:voc:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
 Tse-tungach	Tse-tung	subst:pl:loc:m1	człon nazwiska	
 Tse-tungami	Tse-tung	subst:pl:inst:m1	człon nazwiska	
 Tse-tunga	Tse-tung	subst:sg:acc:m1	człon nazwiska	
@@ -5334,34 +5348,6 @@ T-shirtu	T-shirt	subst:sg:gen:m3	nazwa pospolita
 T-shirty	T-shirt	subst:pl:acc:m3	nazwa pospolita	
 T-shirty	T-shirt	subst:pl:nom:m3	nazwa pospolita	
 T-shirty	T-shirt	subst:pl:voc:m3	nazwa pospolita	
-TS-ach	TS:s1	subst:pl:loc:m3	nazwa instytucji	
-TS-ami	TS:s1	subst:pl:inst:m3	nazwa instytucji	
-TS-em	TS:s1	subst:sg:inst:m3	nazwa instytucji	
-TS-ie	TS:s1	subst:sg:loc:m3	nazwa instytucji	
-TS-ie	TS:s1	subst:sg:voc:m3	nazwa instytucji	
-TS-om	TS:s1	subst:pl:dat:m3	nazwa instytucji	
-TS-owi	TS:s1	subst:sg:dat:m3	nazwa instytucji	
-TS-ów	TS:s1	subst:pl:gen:m3	nazwa instytucji	
-TS	TS:s1	subst:sg:acc:m3	nazwa instytucji	
-TS	TS:s1	subst:sg:nom:m3	nazwa instytucji	
-TS-u	TS:s1	subst:sg:gen:m3	nazwa instytucji	
-TS-y	TS:s1	subst:pl:acc:m3	nazwa instytucji	
-TS-y	TS:s1	subst:pl:nom:m3	nazwa instytucji	
-TS-y	TS:s1	subst:pl:voc:m3	nazwa instytucji	
-TS-ach	TS:s2	subst:pl:loc:m3	nazwa firmy	
-TS-ami	TS:s2	subst:pl:inst:m3	nazwa firmy	
-TS-em	TS:s2	subst:sg:inst:m3	nazwa firmy	
-TS-ie	TS:s2	subst:sg:loc:m3	nazwa firmy	
-TS-ie	TS:s2	subst:sg:voc:m3	nazwa firmy	
-TS-om	TS:s2	subst:pl:dat:m3	nazwa firmy	
-TS-owi	TS:s2	subst:sg:dat:m3	nazwa firmy	
-TS-ów	TS:s2	subst:pl:gen:m3	nazwa firmy	
-TS	TS:s2	subst:sg:acc:m3	nazwa firmy	
-TS	TS:s2	subst:sg:nom:m3	nazwa firmy	
-TS-u	TS:s2	subst:sg:gen:m3	nazwa firmy	
-TS-y	TS:s2	subst:pl:acc:m3	nazwa firmy	
-TS-y	TS:s2	subst:pl:nom:m3	nazwa firmy	
-TS-y	TS:s2	subst:pl:voc:m3	nazwa firmy	
 Tuaregach	Tuareg	subst:pl:loc:m1	nazwa pospolita	
 Tuaregami	Tuareg	subst:pl:inst:m1	nazwa pospolita	
 Tuarega	Tuareg	subst:sg:acc:m1	nazwa pospolita	

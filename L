@@ -4705,34 +4705,20 @@ LP	LP:s1	subst:pl:inst:p3	nazwa organizacji
 LP	LP:s1	subst:pl:loc:p3	nazwa organizacji	
 LP	LP:s1	subst:pl:nom:p3	nazwa organizacji	
 LP	LP:s1	subst:pl:voc:p3	nazwa organizacji	
-LP	LP:s2	subst:pl:acc:n2	nazwa pospolita	
-LP	LP:s2	subst:pl:dat:n2	nazwa pospolita	
-LP	LP:s2	subst:pl:gen:n2	nazwa pospolita	
-LP	LP:s2	subst:pl:inst:n2	nazwa pospolita	
-LP	LP:s2	subst:pl:loc:n2	nazwa pospolita	
-LP	LP:s2	subst:pl:nom:n2	nazwa pospolita	
-LP	LP:s2	subst:pl:voc:n2	nazwa pospolita	
-LP	LP:s2	subst:sg:acc:n2	nazwa pospolita	
-LP	LP:s2	subst:sg:dat:n2	nazwa pospolita	
-LP	LP:s2	subst:sg:gen:n2	nazwa pospolita	
-LP	LP:s2	subst:sg:inst:n2	nazwa pospolita	
-LP	LP:s2	subst:sg:loc:n2	nazwa pospolita	
-LP	LP:s2	subst:sg:nom:n2	nazwa pospolita	
-LP	LP:s2	subst:sg:voc:n2	nazwa pospolita	
-LP	LP:s3	subst:pl:acc:n2	człon nazwy instytucji	
-LP	LP:s3	subst:pl:dat:n2	człon nazwy instytucji	
-LP	LP:s3	subst:pl:gen:n2	człon nazwy instytucji	
-LP	LP:s3	subst:pl:inst:n2	człon nazwy instytucji	
-LP	LP:s3	subst:pl:loc:n2	człon nazwy instytucji	
-LP	LP:s3	subst:pl:nom:n2	człon nazwy instytucji	
-LP	LP:s3	subst:pl:voc:n2	człon nazwy instytucji	
-LP	LP:s3	subst:sg:acc:n2	człon nazwy instytucji	
-LP	LP:s3	subst:sg:dat:n2	człon nazwy instytucji	
-LP	LP:s3	subst:sg:gen:n2	człon nazwy instytucji	
-LP	LP:s3	subst:sg:inst:n2	człon nazwy instytucji	
-LP	LP:s3	subst:sg:loc:n2	człon nazwy instytucji	
-LP	LP:s3	subst:sg:nom:n2	człon nazwy instytucji	
-LP	LP:s3	subst:sg:voc:n2	człon nazwy instytucji	
+LP	LP:s3	subst:pl:acc:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:pl:dat:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:pl:gen:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:pl:inst:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:pl:loc:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:pl:nom:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:pl:voc:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:acc:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:dat:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:gen:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:inst:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:loc:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:nom:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:voc:n2	nazwa pospolita|człon nazwy instytucji	
 LR	LR	subst:pl:acc:m3	nazwa pospolita	komp.
 LR	LR	subst:pl:dat:m3	nazwa pospolita	komp.
 LR	LR	subst:pl:gen:m3	nazwa pospolita	komp.

@@ -1438,6 +1438,34 @@ Adżarii	Adżaria	subst:sg:loc:f	nazwa geograficzna
 Adżario	Adżaria	subst:sg:voc:f	nazwa geograficzna	
 Adżariom	Adżaria	subst:pl:dat:f	nazwa geograficzna	
 Adżaryj	Adżaria	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+AF-ach	AF	subst:pl:loc:m3	nazwa organizacji|nazwa firmy	
+AF	AF	subst:pl:acc:f	nazwa organizacji|nazwa firmy	
+AF	AF	subst:pl:dat:f	nazwa organizacji|nazwa firmy	
+AF	AF	subst:pl:gen:f	nazwa organizacji|nazwa firmy	
+AF	AF	subst:pl:inst:f	nazwa organizacji|nazwa firmy	
+AF	AF	subst:pl:loc:f	nazwa organizacji|nazwa firmy	
+AF	AF	subst:pl:nom:f	nazwa organizacji|nazwa firmy	
+AF	AF	subst:pl:voc:f	nazwa organizacji|nazwa firmy	
+AF	AF	subst:sg:acc:f	nazwa organizacji|nazwa firmy	
+AF	AF	subst:sg:acc:m3	nazwa organizacji|nazwa firmy	
+AF	AF	subst:sg:dat:f	nazwa organizacji|nazwa firmy	
+AF	AF	subst:sg:gen:f	nazwa organizacji|nazwa firmy	
+AF	AF	subst:sg:inst:f	nazwa organizacji|nazwa firmy	
+AF	AF	subst:sg:loc:f	nazwa organizacji|nazwa firmy	
+AF	AF	subst:sg:nom:f	nazwa organizacji|nazwa firmy	
+AF	AF	subst:sg:nom:m3	nazwa organizacji|nazwa firmy	
+AF	AF	subst:sg:voc:f	nazwa organizacji|nazwa firmy	
+AF-ami	AF	subst:pl:inst:m3	nazwa organizacji|nazwa firmy	
+AF-em	AF	subst:sg:inst:m3	nazwa organizacji|nazwa firmy	
+AF-ie	AF	subst:sg:loc:m3	nazwa organizacji|nazwa firmy	
+AF-ie	AF	subst:sg:voc:m3	nazwa organizacji|nazwa firmy	
+AF-om	AF	subst:pl:dat:m3	nazwa organizacji|nazwa firmy	
+AF-owi	AF	subst:sg:dat:m3	nazwa organizacji|nazwa firmy	
+AF-ów	AF	subst:pl:gen:m3	nazwa organizacji|nazwa firmy	
+AF-u	AF	subst:sg:gen:m3	nazwa organizacji|nazwa firmy	
+AF-y	AF	subst:pl:acc:m3	nazwa organizacji|nazwa firmy	
+AF-y	AF	subst:pl:nom:m3	nazwa organizacji|nazwa firmy	
+AF-y	AF	subst:pl:voc:m3	nazwa organizacji|nazwa firmy	
 Afanasjewa	Afanasjew	subst:sg:acc:m1	nazwisko	
 Afanasjewa	Afanasjew	subst:sg:gen:m1	nazwisko	
 Afanasjewach	Afanasjew	subst:pl:loc:m1	nazwisko	
@@ -1678,62 +1706,6 @@ Afrykańczyków	Afrykańczyk	subst:pl:acc:m1	nazwa pospolita
 Afrykańczyków	Afrykańczyk	subst:pl:gen:m1	nazwa pospolita	
 Afrykańczyku	Afrykańczyk	subst:sg:loc:m1	nazwa pospolita	
 Afrykańczyku	Afrykańczyk	subst:sg:voc:m1	nazwa pospolita	
-AF-ach	AF:s1	subst:pl:loc:m3	nazwa organizacji	
-AF	AF:s1	subst:pl:acc:f	nazwa organizacji	
-AF	AF:s1	subst:pl:dat:f	nazwa organizacji	
-AF	AF:s1	subst:pl:gen:f	nazwa organizacji	
-AF	AF:s1	subst:pl:inst:f	nazwa organizacji	
-AF	AF:s1	subst:pl:loc:f	nazwa organizacji	
-AF	AF:s1	subst:pl:nom:f	nazwa organizacji	
-AF	AF:s1	subst:pl:voc:f	nazwa organizacji	
-AF	AF:s1	subst:sg:acc:f	nazwa organizacji	
-AF	AF:s1	subst:sg:acc:m3	nazwa organizacji	
-AF	AF:s1	subst:sg:dat:f	nazwa organizacji	
-AF	AF:s1	subst:sg:gen:f	nazwa organizacji	
-AF	AF:s1	subst:sg:inst:f	nazwa organizacji	
-AF	AF:s1	subst:sg:loc:f	nazwa organizacji	
-AF	AF:s1	subst:sg:nom:f	nazwa organizacji	
-AF	AF:s1	subst:sg:nom:m3	nazwa organizacji	
-AF	AF:s1	subst:sg:voc:f	nazwa organizacji	
-AF-ami	AF:s1	subst:pl:inst:m3	nazwa organizacji	
-AF-em	AF:s1	subst:sg:inst:m3	nazwa organizacji	
-AF-ie	AF:s1	subst:sg:loc:m3	nazwa organizacji	
-AF-ie	AF:s1	subst:sg:voc:m3	nazwa organizacji	
-AF-om	AF:s1	subst:pl:dat:m3	nazwa organizacji	
-AF-owi	AF:s1	subst:sg:dat:m3	nazwa organizacji	
-AF-ów	AF:s1	subst:pl:gen:m3	nazwa organizacji	
-AF-u	AF:s1	subst:sg:gen:m3	nazwa organizacji	
-AF-y	AF:s1	subst:pl:acc:m3	nazwa organizacji	
-AF-y	AF:s1	subst:pl:nom:m3	nazwa organizacji	
-AF-y	AF:s1	subst:pl:voc:m3	nazwa organizacji	
-AF-ach	AF:s2	subst:pl:loc:m3	nazwa firmy	
-AF	AF:s2	subst:pl:acc:f	nazwa firmy	
-AF	AF:s2	subst:pl:dat:f	nazwa firmy	
-AF	AF:s2	subst:pl:gen:f	nazwa firmy	
-AF	AF:s2	subst:pl:inst:f	nazwa firmy	
-AF	AF:s2	subst:pl:loc:f	nazwa firmy	
-AF	AF:s2	subst:pl:nom:f	nazwa firmy	
-AF	AF:s2	subst:pl:voc:f	nazwa firmy	
-AF	AF:s2	subst:sg:acc:f	nazwa firmy	
-AF	AF:s2	subst:sg:acc:m3	nazwa firmy	
-AF	AF:s2	subst:sg:dat:f	nazwa firmy	
-AF	AF:s2	subst:sg:gen:f	nazwa firmy	
-AF	AF:s2	subst:sg:inst:f	nazwa firmy	
-AF	AF:s2	subst:sg:loc:f	nazwa firmy	
-AF	AF:s2	subst:sg:nom:f	nazwa firmy	
-AF	AF:s2	subst:sg:nom:m3	nazwa firmy	
-AF	AF:s2	subst:sg:voc:f	nazwa firmy	
-AF-ami	AF:s2	subst:pl:inst:m3	nazwa firmy	
-AF-em	AF:s2	subst:sg:inst:m3	nazwa firmy	
-AF-ie	AF:s2	subst:sg:loc:m3	nazwa firmy	
-AF-ie	AF:s2	subst:sg:voc:m3	nazwa firmy	
-AF-om	AF:s2	subst:pl:dat:m3	nazwa firmy	
-AF-owi	AF:s2	subst:sg:dat:m3	nazwa firmy	
-AF-ów	AF:s2	subst:pl:gen:m3	nazwa firmy	
-AF-u	AF:s2	subst:sg:gen:m3	nazwa firmy	
-AF-y	AF:s2	subst:pl:acc:m3	nazwa firmy	
-AF-y	AF:s2	subst:pl:nom:m3	nazwa firmy	
-AF-y	AF:s2	subst:pl:voc:m3	nazwa firmy	
 Aftoniusza	Aftoniusz	subst:sg:acc:m1	imię	
 Aftoniusza	Aftoniusz	subst:sg:gen:m1	imię	
 Aftoniuszach	Aftoniusz	subst:pl:loc:m1	imię	
@@ -2276,34 +2248,20 @@ AI	AI:s1	subst:sg:nom:f	nazwa organizacji
 AI	AI:s1	subst:sg:nom:n2	nazwa organizacji	
 AI	AI:s1	subst:sg:voc:f	nazwa organizacji	
 AI	AI:s1	subst:sg:voc:n2	nazwa organizacji	
-AI	AI:s2	subst:pl:acc:f	nazwa pospolita	
-AI	AI:s2	subst:pl:dat:f	nazwa pospolita	
-AI	AI:s2	subst:pl:gen:f	nazwa pospolita	
-AI	AI:s2	subst:pl:inst:f	nazwa pospolita	
-AI	AI:s2	subst:pl:loc:f	nazwa pospolita	
-AI	AI:s2	subst:pl:nom:f	nazwa pospolita	
-AI	AI:s2	subst:pl:voc:f	nazwa pospolita	
-AI	AI:s2	subst:sg:acc:f	nazwa pospolita	
-AI	AI:s2	subst:sg:dat:f	nazwa pospolita	
-AI	AI:s2	subst:sg:gen:f	nazwa pospolita	
-AI	AI:s2	subst:sg:inst:f	nazwa pospolita	
-AI	AI:s2	subst:sg:loc:f	nazwa pospolita	
-AI	AI:s2	subst:sg:nom:f	nazwa pospolita	
-AI	AI:s2	subst:sg:voc:f	nazwa pospolita	
-AI	AI:s3	subst:pl:acc:f	nazwa firmy	
-AI	AI:s3	subst:pl:dat:f	nazwa firmy	
-AI	AI:s3	subst:pl:gen:f	nazwa firmy	
-AI	AI:s3	subst:pl:inst:f	nazwa firmy	
-AI	AI:s3	subst:pl:loc:f	nazwa firmy	
-AI	AI:s3	subst:pl:nom:f	nazwa firmy	
-AI	AI:s3	subst:pl:voc:f	nazwa firmy	
-AI	AI:s3	subst:sg:acc:f	nazwa firmy	
-AI	AI:s3	subst:sg:dat:f	nazwa firmy	
-AI	AI:s3	subst:sg:gen:f	nazwa firmy	
-AI	AI:s3	subst:sg:inst:f	nazwa firmy	
-AI	AI:s3	subst:sg:loc:f	nazwa firmy	
-AI	AI:s3	subst:sg:nom:f	nazwa firmy	
-AI	AI:s3	subst:sg:voc:f	nazwa firmy	
+AI	AI:s2	subst:pl:acc:f	nazwa pospolita|nazwa firmy	
+AI	AI:s2	subst:pl:dat:f	nazwa pospolita|nazwa firmy	
+AI	AI:s2	subst:pl:gen:f	nazwa pospolita|nazwa firmy	
+AI	AI:s2	subst:pl:inst:f	nazwa pospolita|nazwa firmy	
+AI	AI:s2	subst:pl:loc:f	nazwa pospolita|nazwa firmy	
+AI	AI:s2	subst:pl:nom:f	nazwa pospolita|nazwa firmy	
+AI	AI:s2	subst:pl:voc:f	nazwa pospolita|nazwa firmy	
+AI	AI:s2	subst:sg:acc:f	nazwa pospolita|nazwa firmy	
+AI	AI:s2	subst:sg:dat:f	nazwa pospolita|nazwa firmy	
+AI	AI:s2	subst:sg:gen:f	nazwa pospolita|nazwa firmy	
+AI	AI:s2	subst:sg:inst:f	nazwa pospolita|nazwa firmy	
+AI	AI:s2	subst:sg:loc:f	nazwa pospolita|nazwa firmy	
+AI	AI:s2	subst:sg:nom:f	nazwa pospolita|nazwa firmy	
+AI	AI:s2	subst:sg:voc:f	nazwa pospolita|nazwa firmy	
 Ajaksach	Ajax	subst:pl:loc:m3	człon nazwy organizacji	
 Ajaksami	Ajax	subst:pl:inst:m3	człon nazwy organizacji	
 Ajaksem	Ajax	subst:sg:inst:m3	człon nazwy organizacji	

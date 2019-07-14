@@ -141,6 +141,8 @@ yeti	yeti	subst:sg:inst:m2	nazwa pospolita
 yeti	yeti	subst:sg:loc:m2	nazwa pospolita	
 yeti	yeti	subst:sg:nom:m2	nazwa pospolita	
 yeti	yeti	subst:sg:voc:m2	nazwa pospolita	
+yhm	yhm	interj		
+yhy	yhy	interj		
 yin	yin	subst:pl:acc:n2	nazwa pospolita	
 yin	yin	subst:pl:dat:n2	nazwa pospolita	
 yin	yin	subst:pl:gen:n2	nazwa pospolita	
@@ -285,3 +287,4 @@ yuppie	yuppie	subst:sg:inst:m1	nazwa pospolita
 yuppie	yuppie	subst:sg:loc:m1	nazwa pospolita	
 yuppie	yuppie	subst:sg:nom:m1	nazwa pospolita	
 yuppie	yuppie	subst:sg:voc:m1	nazwa pospolita	
+yyy	yyy	interj		

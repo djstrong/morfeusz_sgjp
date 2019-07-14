@@ -1133,34 +1133,20 @@ Jamajczyków	Jamajczyk	subst:pl:acc:m1	nazwa pospolita
 Jamajczyków	Jamajczyk	subst:pl:gen:m1	nazwa pospolita	
 Jamajczyku	Jamajczyk	subst:sg:loc:m1	nazwa pospolita	
 Jamajczyku	Jamajczyk	subst:sg:voc:m1	nazwa pospolita	
-Jamajce	Jamajka:s1	subst:sg:dat:f	nazwa geograficzna	
-Jamajce	Jamajka:s1	subst:sg:loc:f	nazwa geograficzna	
-Jamajek	Jamajka:s1	subst:pl:gen:f	nazwa geograficzna	
-Jamajkach	Jamajka:s1	subst:pl:loc:f	nazwa geograficzna	
-Jamajka	Jamajka:s1	subst:sg:nom:f	nazwa geograficzna	
-Jamajkami	Jamajka:s1	subst:pl:inst:f	nazwa geograficzna	
-Jamajką	Jamajka:s1	subst:sg:inst:f	nazwa geograficzna	
-Jamajkę	Jamajka:s1	subst:sg:acc:f	nazwa geograficzna	
-Jamajki	Jamajka:s1	subst:pl:acc:f	nazwa geograficzna	
-Jamajki	Jamajka:s1	subst:pl:nom:f	nazwa geograficzna	
-Jamajki	Jamajka:s1	subst:pl:voc:f	nazwa geograficzna	
-Jamajki	Jamajka:s1	subst:sg:gen:f	nazwa geograficzna	
-Jamajko	Jamajka:s1	subst:sg:voc:f	nazwa geograficzna	
-Jamajkom	Jamajka:s1	subst:pl:dat:f	nazwa geograficzna	
-Jamajce	Jamajka:s2	subst:sg:dat:f	nazwa pospolita	
-Jamajce	Jamajka:s2	subst:sg:loc:f	nazwa pospolita	
-Jamajek	Jamajka:s2	subst:pl:gen:f	nazwa pospolita	
-Jamajkach	Jamajka:s2	subst:pl:loc:f	nazwa pospolita	
-Jamajka	Jamajka:s2	subst:sg:nom:f	nazwa pospolita	
-Jamajkami	Jamajka:s2	subst:pl:inst:f	nazwa pospolita	
-Jamajką	Jamajka:s2	subst:sg:inst:f	nazwa pospolita	
-Jamajkę	Jamajka:s2	subst:sg:acc:f	nazwa pospolita	
-Jamajki	Jamajka:s2	subst:pl:acc:f	nazwa pospolita	
-Jamajki	Jamajka:s2	subst:pl:nom:f	nazwa pospolita	
-Jamajki	Jamajka:s2	subst:pl:voc:f	nazwa pospolita	
-Jamajki	Jamajka:s2	subst:sg:gen:f	nazwa pospolita	
-Jamajko	Jamajka:s2	subst:sg:voc:f	nazwa pospolita	
-Jamajkom	Jamajka:s2	subst:pl:dat:f	nazwa pospolita	
+Jamajce	Jamajka	subst:sg:dat:f	nazwa geograficzna|nazwa pospolita	etn.
+Jamajce	Jamajka	subst:sg:loc:f	nazwa geograficzna|nazwa pospolita	etn.
+Jamajek	Jamajka	subst:pl:gen:f	nazwa geograficzna|nazwa pospolita	etn.
+Jamajkach	Jamajka	subst:pl:loc:f	nazwa geograficzna|nazwa pospolita	etn.
+Jamajka	Jamajka	subst:sg:nom:f	nazwa geograficzna|nazwa pospolita	etn.
+Jamajkami	Jamajka	subst:pl:inst:f	nazwa geograficzna|nazwa pospolita	etn.
+Jamajką	Jamajka	subst:sg:inst:f	nazwa geograficzna|nazwa pospolita	etn.
+Jamajkę	Jamajka	subst:sg:acc:f	nazwa geograficzna|nazwa pospolita	etn.
+Jamajki	Jamajka	subst:pl:acc:f	nazwa geograficzna|nazwa pospolita	etn.
+Jamajki	Jamajka	subst:pl:nom:f	nazwa geograficzna|nazwa pospolita	etn.
+Jamajki	Jamajka	subst:pl:voc:f	nazwa geograficzna|nazwa pospolita	etn.
+Jamajki	Jamajka	subst:sg:gen:f	nazwa geograficzna|nazwa pospolita	etn.
+Jamajko	Jamajka	subst:sg:voc:f	nazwa geograficzna|nazwa pospolita	etn.
+Jamajkom	Jamajka	subst:pl:dat:f	nazwa geograficzna|nazwa pospolita	etn.
 Jambrożego	Jambroży	subst:sg:acc:m1	imię	
 Jambrożego	Jambroży	subst:sg:gen:m1	imię	
 Jambroże	Jambroży	depr:pl:nom:m2	imię	
@@ -4943,22 +4929,6 @@ Jordanowy	Jordanów	subst:pl:nom:m3	nazwa geograficzna
 Jordanowy	Jordanów	subst:pl:voc:m3	nazwa geograficzna	
 Jordanów	Jordanów	subst:sg:acc:m3	nazwa geograficzna	
 Jordanów	Jordanów	subst:sg:nom:m3	nazwa geograficzna	
-Jordanach	Jordan:s1	subst:pl:loc:m1	imię	
-Jordana	Jordan:s1	subst:sg:acc:m1	imię	
-Jordana	Jordan:s1	subst:sg:gen:m1	imię	
-Jordanami	Jordan:s1	subst:pl:inst:m1	imię	
-Jordanem	Jordan:s1	subst:sg:inst:m1	imię	
-Jordanie	Jordan:s1	subst:sg:loc:m1	imię	
-Jordanie	Jordan:s1	subst:sg:voc:m1	imię	
-Jordan	Jordan:s1	subst:sg:nom:m1	imię	
-Jordanom	Jordan:s1	subst:pl:dat:m1	imię	
-Jordanowie	Jordan:s1	subst:pl:nom:m1	imię	
-Jordanowie	Jordan:s1	subst:pl:voc:m1	imię	
-Jordanowi	Jordan:s1	subst:sg:dat:m1	imię	
-Jordanów	Jordan:s1	subst:pl:acc:m1	imię	
-Jordanów	Jordan:s1	subst:pl:gen:m1	imię	
-Jordany	Jordan:s1	depr:pl:nom:m2	imię	
-Jordany	Jordan:s1	depr:pl:voc:m2	imię	
 Jordanach	Jordan:s2	subst:pl:loc:m3	nazwa geograficzna	
 Jordanami	Jordan:s2	subst:pl:inst:m3	nazwa geograficzna	
 Jordanem	Jordan:s2	subst:sg:inst:m3	nazwa geograficzna	
@@ -4973,38 +4943,22 @@ Jordanu	Jordan:s2	subst:sg:gen:m3	nazwa geograficzna
 Jordany	Jordan:s2	subst:pl:acc:m3	nazwa geograficzna	
 Jordany	Jordan:s2	subst:pl:nom:m3	nazwa geograficzna	
 Jordany	Jordan:s2	subst:pl:voc:m3	nazwa geograficzna	
-Jordanach	Jordan:s3	subst:pl:loc:m1	nazwisko	
-Jordana	Jordan:s3	subst:sg:acc:m1	nazwisko	
-Jordana	Jordan:s3	subst:sg:gen:m1	nazwisko	
-Jordanami	Jordan:s3	subst:pl:inst:m1	nazwisko	
-Jordanem	Jordan:s3	subst:sg:inst:m1	nazwisko	
-Jordanie	Jordan:s3	subst:sg:loc:m1	nazwisko	
-Jordanie	Jordan:s3	subst:sg:voc:m1	nazwisko	
-Jordan	Jordan:s3	subst:sg:nom:m1	nazwisko	
-Jordanom	Jordan:s3	subst:pl:dat:m1	nazwisko	
-Jordanowie	Jordan:s3	subst:pl:nom:m1	nazwisko	
-Jordanowie	Jordan:s3	subst:pl:voc:m1	nazwisko	
-Jordanowi	Jordan:s3	subst:sg:dat:m1	nazwisko	
-Jordanów	Jordan:s3	subst:pl:acc:m1	nazwisko	
-Jordanów	Jordan:s3	subst:pl:gen:m1	nazwisko	
-Jordany	Jordan:s3	depr:pl:nom:m2	nazwisko	
-Jordany	Jordan:s3	depr:pl:voc:m2	nazwisko	
-Jordanach	Jordan:s4	subst:pl:loc:m1	nazwisko	
-Jordana	Jordan:s4	subst:sg:acc:m1	nazwisko	
-Jordana	Jordan:s4	subst:sg:gen:m1	nazwisko	
-Jordanami	Jordan:s4	subst:pl:inst:m1	nazwisko	
-Jordanem	Jordan:s4	subst:sg:inst:m1	nazwisko	
-Jordanie	Jordan:s4	subst:sg:loc:m1	nazwisko	
-Jordanie	Jordan:s4	subst:sg:voc:m1	nazwisko	
-Jordan	Jordan:s4	subst:sg:nom:m1	nazwisko	
-Jordanom	Jordan:s4	subst:pl:dat:m1	nazwisko	
-Jordanowie	Jordan:s4	subst:pl:nom:m1	nazwisko	
-Jordanowie	Jordan:s4	subst:pl:voc:m1	nazwisko	
-Jordanowi	Jordan:s4	subst:sg:dat:m1	nazwisko	
-Jordanów	Jordan:s4	subst:pl:acc:m1	nazwisko	
-Jordanów	Jordan:s4	subst:pl:gen:m1	nazwisko	
-Jordany	Jordan:s4	depr:pl:nom:m2	nazwisko	
-Jordany	Jordan:s4	depr:pl:voc:m2	nazwisko	
+Jordanach	Jordan:s3	subst:pl:loc:m1	imię|nazwisko	
+Jordana	Jordan:s3	subst:sg:acc:m1	imię|nazwisko	
+Jordana	Jordan:s3	subst:sg:gen:m1	imię|nazwisko	
+Jordanami	Jordan:s3	subst:pl:inst:m1	imię|nazwisko	
+Jordanem	Jordan:s3	subst:sg:inst:m1	imię|nazwisko	
+Jordanie	Jordan:s3	subst:sg:loc:m1	imię|nazwisko	
+Jordanie	Jordan:s3	subst:sg:voc:m1	imię|nazwisko	
+Jordan	Jordan:s3	subst:sg:nom:m1	imię|nazwisko	
+Jordanom	Jordan:s3	subst:pl:dat:m1	imię|nazwisko	
+Jordanowie	Jordan:s3	subst:pl:nom:m1	imię|nazwisko	
+Jordanowie	Jordan:s3	subst:pl:voc:m1	imię|nazwisko	
+Jordanowi	Jordan:s3	subst:sg:dat:m1	imię|nazwisko	
+Jordanów	Jordan:s3	subst:pl:acc:m1	imię|nazwisko	
+Jordanów	Jordan:s3	subst:pl:gen:m1	imię|nazwisko	
+Jordany	Jordan:s3	depr:pl:nom:m2	imię|nazwisko	
+Jordany	Jordan:s3	depr:pl:voc:m2	imię|nazwisko	
 Jordańczycy	Jordańczyk	subst:pl:nom:m1	nazwa pospolita	
 Jordańczycy	Jordańczyk	subst:pl:voc:m1	nazwa pospolita	
 Jordańczykach	Jordańczyk	subst:pl:loc:m1	nazwa pospolita	

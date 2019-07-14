@@ -10932,6 +10932,34 @@ Młynarczyków	Młynarczyk	subst:pl:acc:m1	nazwisko
 Młynarczyków	Młynarczyk	subst:pl:gen:m1	nazwisko	
 Młynarczyku	Młynarczyk	subst:sg:loc:m1	nazwisko	
 Młynarczyku	Młynarczyk	subst:sg:voc:m1	nazwisko	
+MN-ach	MN	subst:pl:loc:m3	nazwa instytucji	
+MN-ami	MN	subst:pl:inst:m3	nazwa instytucji	
+MN-em	MN	subst:sg:inst:m3	nazwa instytucji	
+MN-ie	MN	subst:sg:loc:m3	nazwa instytucji	
+MN-ie	MN	subst:sg:voc:m3	nazwa instytucji	
+MN	MN	subst:pl:acc:n2	nazwa instytucji	
+MN	MN	subst:pl:dat:n2	nazwa instytucji	
+MN	MN	subst:pl:gen:n2	nazwa instytucji	
+MN	MN	subst:pl:inst:n2	nazwa instytucji	
+MN	MN	subst:pl:loc:n2	nazwa instytucji	
+MN	MN	subst:pl:nom:n2	nazwa instytucji	
+MN	MN	subst:pl:voc:n2	nazwa instytucji	
+MN	MN	subst:sg:acc:m3	nazwa instytucji	
+MN	MN	subst:sg:acc:n2	nazwa instytucji	
+MN	MN	subst:sg:dat:n2	nazwa instytucji	
+MN	MN	subst:sg:gen:n2	nazwa instytucji	
+MN	MN	subst:sg:inst:n2	nazwa instytucji	
+MN	MN	subst:sg:loc:n2	nazwa instytucji	
+MN	MN	subst:sg:nom:m3	nazwa instytucji	
+MN	MN	subst:sg:nom:n2	nazwa instytucji	
+MN	MN	subst:sg:voc:n2	nazwa instytucji	
+MN-om	MN	subst:pl:dat:m3	nazwa instytucji	
+MN-owi	MN	subst:sg:dat:m3	nazwa instytucji	
+MN-ów	MN	subst:pl:gen:m3	nazwa instytucji	
+MN-u	MN	subst:sg:gen:m3	nazwa instytucji	
+MN-y	MN	subst:pl:acc:m3	nazwa instytucji	
+MN-y	MN	subst:pl:nom:m3	nazwa instytucji	
+MN-y	MN	subst:pl:voc:m3	nazwa instytucji	
 Mnemosyne	Mnemosyne	subst:pl:acc:f	imię	mit.
 Mnemosyne	Mnemosyne	subst:pl:dat:f	imię	mit.
 Mnemosyne	Mnemosyne	subst:pl:gen:f	imię	mit.
@@ -11020,62 +11048,6 @@ Mniszkówny	Mniszkówna	subst:pl:acc:f	nazwisko
 Mniszkówny	Mniszkówna	subst:pl:nom:f	nazwisko	
 Mniszkówny	Mniszkówna	subst:pl:voc:f	nazwisko	
 Mniszkówny	Mniszkówna	subst:sg:gen:f	nazwisko	
-MN-ach	MN:s1	subst:pl:loc:m3	nazwa instytucji	
-MN-ami	MN:s1	subst:pl:inst:m3	nazwa instytucji	
-MN-em	MN:s1	subst:sg:inst:m3	nazwa instytucji	
-MN-ie	MN:s1	subst:sg:loc:m3	nazwa instytucji	
-MN-ie	MN:s1	subst:sg:voc:m3	nazwa instytucji	
-MN	MN:s1	subst:pl:acc:n2	nazwa instytucji	
-MN	MN:s1	subst:pl:dat:n2	nazwa instytucji	
-MN	MN:s1	subst:pl:gen:n2	nazwa instytucji	
-MN	MN:s1	subst:pl:inst:n2	nazwa instytucji	
-MN	MN:s1	subst:pl:loc:n2	nazwa instytucji	
-MN	MN:s1	subst:pl:nom:n2	nazwa instytucji	
-MN	MN:s1	subst:pl:voc:n2	nazwa instytucji	
-MN	MN:s1	subst:sg:acc:m3	nazwa instytucji	
-MN	MN:s1	subst:sg:acc:n2	nazwa instytucji	
-MN	MN:s1	subst:sg:dat:n2	nazwa instytucji	
-MN	MN:s1	subst:sg:gen:n2	nazwa instytucji	
-MN	MN:s1	subst:sg:inst:n2	nazwa instytucji	
-MN	MN:s1	subst:sg:loc:n2	nazwa instytucji	
-MN	MN:s1	subst:sg:nom:m3	nazwa instytucji	
-MN	MN:s1	subst:sg:nom:n2	nazwa instytucji	
-MN	MN:s1	subst:sg:voc:n2	nazwa instytucji	
-MN-om	MN:s1	subst:pl:dat:m3	nazwa instytucji	
-MN-owi	MN:s1	subst:sg:dat:m3	nazwa instytucji	
-MN-ów	MN:s1	subst:pl:gen:m3	nazwa instytucji	
-MN-u	MN:s1	subst:sg:gen:m3	nazwa instytucji	
-MN-y	MN:s1	subst:pl:acc:m3	nazwa instytucji	
-MN-y	MN:s1	subst:pl:nom:m3	nazwa instytucji	
-MN-y	MN:s1	subst:pl:voc:m3	nazwa instytucji	
-MN-ach	MN:s2	subst:pl:loc:m3	nazwa instytucji	
-MN-ami	MN:s2	subst:pl:inst:m3	nazwa instytucji	
-MN-em	MN:s2	subst:sg:inst:m3	nazwa instytucji	
-MN-ie	MN:s2	subst:sg:loc:m3	nazwa instytucji	
-MN-ie	MN:s2	subst:sg:voc:m3	nazwa instytucji	
-MN	MN:s2	subst:pl:acc:n2	nazwa instytucji	
-MN	MN:s2	subst:pl:dat:n2	nazwa instytucji	
-MN	MN:s2	subst:pl:gen:n2	nazwa instytucji	
-MN	MN:s2	subst:pl:inst:n2	nazwa instytucji	
-MN	MN:s2	subst:pl:loc:n2	nazwa instytucji	
-MN	MN:s2	subst:pl:nom:n2	nazwa instytucji	
-MN	MN:s2	subst:pl:voc:n2	nazwa instytucji	
-MN	MN:s2	subst:sg:acc:m3	nazwa instytucji	
-MN	MN:s2	subst:sg:acc:n2	nazwa instytucji	
-MN	MN:s2	subst:sg:dat:n2	nazwa instytucji	
-MN	MN:s2	subst:sg:gen:n2	nazwa instytucji	
-MN	MN:s2	subst:sg:inst:n2	nazwa instytucji	
-MN	MN:s2	subst:sg:loc:n2	nazwa instytucji	
-MN	MN:s2	subst:sg:nom:m3	nazwa instytucji	
-MN	MN:s2	subst:sg:nom:n2	nazwa instytucji	
-MN	MN:s2	subst:sg:voc:n2	nazwa instytucji	
-MN-om	MN:s2	subst:pl:dat:m3	nazwa instytucji	
-MN-owi	MN:s2	subst:sg:dat:m3	nazwa instytucji	
-MN-ów	MN:s2	subst:pl:gen:m3	nazwa instytucji	
-MN-u	MN:s2	subst:sg:gen:m3	nazwa instytucji	
-MN-y	MN:s2	subst:pl:acc:m3	nazwa instytucji	
-MN-y	MN:s2	subst:pl:nom:m3	nazwa instytucji	
-MN-y	MN:s2	subst:pl:voc:m3	nazwa instytucji	
 MO	MO	subst:pl:acc:f	nazwa organizacji	
 MO	MO	subst:pl:acc:n2	nazwa organizacji	
 MO	MO	subst:pl:dat:f	nazwa organizacji	
@@ -13361,34 +13333,20 @@ MP	MP:s2	subst:sg:inst:n2	nazwa organizacji
 MP	MP:s2	subst:sg:loc:n2	nazwa organizacji	
 MP	MP:s2	subst:sg:nom:n2	nazwa organizacji	
 MP	MP:s2	subst:sg:voc:n2	nazwa organizacji	
-MPW	MPW:s1	subst:pl:acc:n2	nazwa firmy	
-MPW	MPW:s1	subst:pl:dat:n2	nazwa firmy	
-MPW	MPW:s1	subst:pl:gen:n2	nazwa firmy	
-MPW	MPW:s1	subst:pl:inst:n2	nazwa firmy	
-MPW	MPW:s1	subst:pl:loc:n2	nazwa firmy	
-MPW	MPW:s1	subst:pl:nom:n2	nazwa firmy	
-MPW	MPW:s1	subst:pl:voc:n2	nazwa firmy	
-MPW	MPW:s1	subst:sg:acc:n2	nazwa firmy	
-MPW	MPW:s1	subst:sg:dat:n2	nazwa firmy	
-MPW	MPW:s1	subst:sg:gen:n2	nazwa firmy	
-MPW	MPW:s1	subst:sg:inst:n2	nazwa firmy	
-MPW	MPW:s1	subst:sg:loc:n2	nazwa firmy	
-MPW	MPW:s1	subst:sg:nom:n2	nazwa firmy	
-MPW	MPW:s1	subst:sg:voc:n2	nazwa firmy	
-MPW	MPW:s2	subst:pl:acc:n2	nazwa pospolita	
-MPW	MPW:s2	subst:pl:dat:n2	nazwa pospolita	
-MPW	MPW:s2	subst:pl:gen:n2	nazwa pospolita	
-MPW	MPW:s2	subst:pl:inst:n2	nazwa pospolita	
-MPW	MPW:s2	subst:pl:loc:n2	nazwa pospolita	
-MPW	MPW:s2	subst:pl:nom:n2	nazwa pospolita	
-MPW	MPW:s2	subst:pl:voc:n2	nazwa pospolita	
-MPW	MPW:s2	subst:sg:acc:n2	nazwa pospolita	
-MPW	MPW:s2	subst:sg:dat:n2	nazwa pospolita	
-MPW	MPW:s2	subst:sg:gen:n2	nazwa pospolita	
-MPW	MPW:s2	subst:sg:inst:n2	nazwa pospolita	
-MPW	MPW:s2	subst:sg:loc:n2	nazwa pospolita	
-MPW	MPW:s2	subst:sg:nom:n2	nazwa pospolita	
-MPW	MPW:s2	subst:sg:voc:n2	nazwa pospolita	
+MPW	MPW	subst:pl:acc:n2	nazwa pospolita|nazwa firmy	
+MPW	MPW	subst:pl:dat:n2	nazwa pospolita|nazwa firmy	
+MPW	MPW	subst:pl:gen:n2	nazwa pospolita|nazwa firmy	
+MPW	MPW	subst:pl:inst:n2	nazwa pospolita|nazwa firmy	
+MPW	MPW	subst:pl:loc:n2	nazwa pospolita|nazwa firmy	
+MPW	MPW	subst:pl:nom:n2	nazwa pospolita|nazwa firmy	
+MPW	MPW	subst:pl:voc:n2	nazwa pospolita|nazwa firmy	
+MPW	MPW	subst:sg:acc:n2	nazwa pospolita|nazwa firmy	
+MPW	MPW	subst:sg:dat:n2	nazwa pospolita|nazwa firmy	
+MPW	MPW	subst:sg:gen:n2	nazwa pospolita|nazwa firmy	
+MPW	MPW	subst:sg:inst:n2	nazwa pospolita|nazwa firmy	
+MPW	MPW	subst:sg:loc:n2	nazwa pospolita|nazwa firmy	
+MPW	MPW	subst:sg:nom:n2	nazwa pospolita|nazwa firmy	
+MPW	MPW	subst:sg:voc:n2	nazwa pospolita|nazwa firmy	
 Mrągowach	Mrągowo	subst:pl:loc:n2	nazwa geograficzna	
 Mrągowami	Mrągowo	subst:pl:inst:n2	nazwa geograficzna	
 Mrągowa	Mrągowo	subst:pl:acc:n2	nazwa geograficzna	
@@ -13613,6 +13571,34 @@ MRR-y	MRR	subst:pl:nom:m3	nazwa instytucji
 MRR-y	MRR	subst:pl:voc:m3	nazwa instytucji	
 MRR-ze	MRR	subst:sg:loc:m3	nazwa instytucji	
 MRR-ze	MRR	subst:sg:voc:m3	nazwa instytucji	
+MS-ach	MS	subst:pl:loc:m3	nazwa instytucji	
+MS-ami	MS	subst:pl:inst:m3	nazwa instytucji	
+MS-em	MS	subst:sg:inst:m3	nazwa instytucji	
+MS-ie	MS	subst:sg:loc:m3	nazwa instytucji	
+MS-ie	MS	subst:sg:voc:m3	nazwa instytucji	
+MS	MS	subst:pl:acc:n2	nazwa instytucji	
+MS	MS	subst:pl:dat:n2	nazwa instytucji	
+MS	MS	subst:pl:gen:n2	nazwa instytucji	
+MS	MS	subst:pl:inst:n2	nazwa instytucji	
+MS	MS	subst:pl:loc:n2	nazwa instytucji	
+MS	MS	subst:pl:nom:n2	nazwa instytucji	
+MS	MS	subst:pl:voc:n2	nazwa instytucji	
+MS	MS	subst:sg:acc:m3	nazwa instytucji	
+MS	MS	subst:sg:acc:n2	nazwa instytucji	
+MS	MS	subst:sg:dat:n2	nazwa instytucji	
+MS	MS	subst:sg:gen:n2	nazwa instytucji	
+MS	MS	subst:sg:inst:n2	nazwa instytucji	
+MS	MS	subst:sg:loc:n2	nazwa instytucji	
+MS	MS	subst:sg:nom:m3	nazwa instytucji	
+MS	MS	subst:sg:nom:n2	nazwa instytucji	
+MS	MS	subst:sg:voc:n2	nazwa instytucji	
+MS-om	MS	subst:pl:dat:m3	nazwa instytucji	
+MS-owi	MS	subst:sg:dat:m3	nazwa instytucji	
+MS-ów	MS	subst:pl:gen:m3	nazwa instytucji	
+MS-u	MS	subst:sg:gen:m3	nazwa instytucji	
+MS-y	MS	subst:pl:acc:m3	nazwa instytucji	
+MS-y	MS	subst:pl:nom:m3	nazwa instytucji	
+MS-y	MS	subst:pl:voc:m3	nazwa instytucji	
 MS-DOS-ach	MS-DOS	subst:pl:loc:m3	nazwa pospolita	komp.
 MS-DOS-ami	MS-DOS	subst:pl:inst:m3	nazwa pospolita	komp.
 MS-DOS-em	MS-DOS	subst:sg:inst:m3	nazwa pospolita	komp.
@@ -13641,62 +13627,6 @@ MSP	MSP	subst:sg:inst:n2	nazwa instytucji
 MSP	MSP	subst:sg:loc:n2	nazwa instytucji	
 MSP	MSP	subst:sg:nom:n2	nazwa instytucji	
 MSP	MSP	subst:sg:voc:n2	nazwa instytucji	
-MS-ach	MS:s1	subst:pl:loc:m3	nazwa instytucji	
-MS-ami	MS:s1	subst:pl:inst:m3	nazwa instytucji	
-MS-em	MS:s1	subst:sg:inst:m3	nazwa instytucji	
-MS-ie	MS:s1	subst:sg:loc:m3	nazwa instytucji	
-MS-ie	MS:s1	subst:sg:voc:m3	nazwa instytucji	
-MS	MS:s1	subst:pl:acc:n2	nazwa instytucji	
-MS	MS:s1	subst:pl:dat:n2	nazwa instytucji	
-MS	MS:s1	subst:pl:gen:n2	nazwa instytucji	
-MS	MS:s1	subst:pl:inst:n2	nazwa instytucji	
-MS	MS:s1	subst:pl:loc:n2	nazwa instytucji	
-MS	MS:s1	subst:pl:nom:n2	nazwa instytucji	
-MS	MS:s1	subst:pl:voc:n2	nazwa instytucji	
-MS	MS:s1	subst:sg:acc:m3	nazwa instytucji	
-MS	MS:s1	subst:sg:acc:n2	nazwa instytucji	
-MS	MS:s1	subst:sg:dat:n2	nazwa instytucji	
-MS	MS:s1	subst:sg:gen:n2	nazwa instytucji	
-MS	MS:s1	subst:sg:inst:n2	nazwa instytucji	
-MS	MS:s1	subst:sg:loc:n2	nazwa instytucji	
-MS	MS:s1	subst:sg:nom:m3	nazwa instytucji	
-MS	MS:s1	subst:sg:nom:n2	nazwa instytucji	
-MS	MS:s1	subst:sg:voc:n2	nazwa instytucji	
-MS-om	MS:s1	subst:pl:dat:m3	nazwa instytucji	
-MS-owi	MS:s1	subst:sg:dat:m3	nazwa instytucji	
-MS-ów	MS:s1	subst:pl:gen:m3	nazwa instytucji	
-MS-u	MS:s1	subst:sg:gen:m3	nazwa instytucji	
-MS-y	MS:s1	subst:pl:acc:m3	nazwa instytucji	
-MS-y	MS:s1	subst:pl:nom:m3	nazwa instytucji	
-MS-y	MS:s1	subst:pl:voc:m3	nazwa instytucji	
-MS-ach	MS:s2	subst:pl:loc:m3	nazwa instytucji	
-MS-ami	MS:s2	subst:pl:inst:m3	nazwa instytucji	
-MS-em	MS:s2	subst:sg:inst:m3	nazwa instytucji	
-MS-ie	MS:s2	subst:sg:loc:m3	nazwa instytucji	
-MS-ie	MS:s2	subst:sg:voc:m3	nazwa instytucji	
-MS	MS:s2	subst:pl:acc:n2	nazwa instytucji	
-MS	MS:s2	subst:pl:dat:n2	nazwa instytucji	
-MS	MS:s2	subst:pl:gen:n2	nazwa instytucji	
-MS	MS:s2	subst:pl:inst:n2	nazwa instytucji	
-MS	MS:s2	subst:pl:loc:n2	nazwa instytucji	
-MS	MS:s2	subst:pl:nom:n2	nazwa instytucji	
-MS	MS:s2	subst:pl:voc:n2	nazwa instytucji	
-MS	MS:s2	subst:sg:acc:m3	nazwa instytucji	
-MS	MS:s2	subst:sg:acc:n2	nazwa instytucji	
-MS	MS:s2	subst:sg:dat:n2	nazwa instytucji	
-MS	MS:s2	subst:sg:gen:n2	nazwa instytucji	
-MS	MS:s2	subst:sg:inst:n2	nazwa instytucji	
-MS	MS:s2	subst:sg:loc:n2	nazwa instytucji	
-MS	MS:s2	subst:sg:nom:m3	nazwa instytucji	
-MS	MS:s2	subst:sg:nom:n2	nazwa instytucji	
-MS	MS:s2	subst:sg:voc:n2	nazwa instytucji	
-MS-om	MS:s2	subst:pl:dat:m3	nazwa instytucji	
-MS-owi	MS:s2	subst:sg:dat:m3	nazwa instytucji	
-MS-ów	MS:s2	subst:pl:gen:m3	nazwa instytucji	
-MS-u	MS:s2	subst:sg:gen:m3	nazwa instytucji	
-MS-y	MS:s2	subst:pl:acc:m3	nazwa instytucji	
-MS-y	MS:s2	subst:pl:nom:m3	nazwa instytucji	
-MS-y	MS:s2	subst:pl:voc:m3	nazwa instytucji	
 Mstowach	Mstów	subst:pl:loc:m3	nazwa geograficzna	
 Mstowami	Mstów	subst:pl:inst:m3	nazwa geograficzna	
 Mstowa	Mstów	subst:sg:gen:m3	nazwa geograficzna	

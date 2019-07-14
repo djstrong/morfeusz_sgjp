@@ -7413,6 +7413,20 @@ KM-u	KM:s2	subst:sg:gen:m3	nazwa pospolita
 KM-y	KM:s2	subst:pl:acc:m3	nazwa pospolita	
 KM-y	KM:s2	subst:pl:nom:m3	nazwa pospolita	
 KM-y	KM:s2	subst:pl:voc:m3	nazwa pospolita	
+KNA	KNA	subst:pl:acc:f	nazwa firmy	
+KNA	KNA	subst:pl:dat:f	nazwa firmy	
+KNA	KNA	subst:pl:gen:f	nazwa firmy	
+KNA	KNA	subst:pl:inst:f	nazwa firmy	
+KNA	KNA	subst:pl:loc:f	nazwa firmy	
+KNA	KNA	subst:pl:nom:f	nazwa firmy	
+KNA	KNA	subst:pl:voc:f	nazwa firmy	
+KNA	KNA	subst:sg:acc:f	nazwa firmy	
+KNA	KNA	subst:sg:dat:f	nazwa firmy	
+KNA	KNA	subst:sg:gen:f	nazwa firmy	
+KNA	KNA	subst:sg:inst:f	nazwa firmy	
+KNA	KNA	subst:sg:loc:f	nazwa firmy	
+KNA	KNA	subst:sg:nom:f	nazwa firmy	
+KNA	KNA	subst:sg:voc:f	nazwa firmy	
 Knapiuszach	Knapiusz	subst:pl:loc:m1	nazwisko	
 Knapiusza	Knapiusz	subst:sg:acc:m1	nazwisko	
 Knapiusza	Knapiusz	subst:sg:gen:m1	nazwisko	
@@ -7431,34 +7445,6 @@ Knapiuszów	Knapiusz	subst:pl:acc:m1	nazwisko
 Knapiuszów	Knapiusz	subst:pl:gen:m1	nazwisko	
 Knapiuszu	Knapiusz	subst:sg:loc:m1	nazwisko	
 Knapiuszu	Knapiusz	subst:sg:voc:m1	nazwisko	
-KNA	KNA:s1	subst:pl:acc:f	nazwa firmy	
-KNA	KNA:s1	subst:pl:dat:f	nazwa firmy	
-KNA	KNA:s1	subst:pl:gen:f	nazwa firmy	
-KNA	KNA:s1	subst:pl:inst:f	nazwa firmy	
-KNA	KNA:s1	subst:pl:loc:f	nazwa firmy	
-KNA	KNA:s1	subst:pl:nom:f	nazwa firmy	
-KNA	KNA:s1	subst:pl:voc:f	nazwa firmy	
-KNA	KNA:s1	subst:sg:acc:f	nazwa firmy	
-KNA	KNA:s1	subst:sg:dat:f	nazwa firmy	
-KNA	KNA:s1	subst:sg:gen:f	nazwa firmy	
-KNA	KNA:s1	subst:sg:inst:f	nazwa firmy	
-KNA	KNA:s1	subst:sg:loc:f	nazwa firmy	
-KNA	KNA:s1	subst:sg:nom:f	nazwa firmy	
-KNA	KNA:s1	subst:sg:voc:f	nazwa firmy	
-KNA	KNA:s2	subst:pl:acc:f	nazwa firmy	
-KNA	KNA:s2	subst:pl:dat:f	nazwa firmy	
-KNA	KNA:s2	subst:pl:gen:f	nazwa firmy	
-KNA	KNA:s2	subst:pl:inst:f	nazwa firmy	
-KNA	KNA:s2	subst:pl:loc:f	nazwa firmy	
-KNA	KNA:s2	subst:pl:nom:f	nazwa firmy	
-KNA	KNA:s2	subst:pl:voc:f	nazwa firmy	
-KNA	KNA:s2	subst:sg:acc:f	nazwa firmy	
-KNA	KNA:s2	subst:sg:dat:f	nazwa firmy	
-KNA	KNA:s2	subst:sg:gen:f	nazwa firmy	
-KNA	KNA:s2	subst:sg:inst:f	nazwa firmy	
-KNA	KNA:s2	subst:sg:loc:f	nazwa firmy	
-KNA	KNA:s2	subst:sg:nom:f	nazwa firmy	
-KNA	KNA:s2	subst:sg:voc:f	nazwa firmy	
 Knesecie	Kneset	subst:sg:loc:m3	nazwa instytucji	
 Knesecie	Kneset	subst:sg:voc:m3	nazwa instytucji	
 Knesetach	Kneset	subst:pl:loc:m3	nazwa instytucji	
@@ -9622,20 +9608,20 @@ Koptów	Kopt	subst:pl:acc:m1	nazwa pospolita
 Koptów	Kopt	subst:pl:gen:m1	nazwa pospolita	
 Kopty	Kopt	depr:pl:nom:m2	nazwa pospolita	
 Kopty	Kopt	depr:pl:voc:m2	nazwa pospolita	
-Koptyjce	Koptyjka	subst:sg:dat:f	nazwa pospolita	
-Koptyjce	Koptyjka	subst:sg:loc:f	nazwa pospolita	
-Koptyjek	Koptyjka	subst:pl:gen:f	nazwa pospolita	
-Koptyjkach	Koptyjka	subst:pl:loc:f	nazwa pospolita	
-Koptyjka	Koptyjka	subst:sg:nom:f	nazwa pospolita	
-Koptyjkami	Koptyjka	subst:pl:inst:f	nazwa pospolita	
-Koptyjką	Koptyjka	subst:sg:inst:f	nazwa pospolita	
-Koptyjkę	Koptyjka	subst:sg:acc:f	nazwa pospolita	
-Koptyjki	Koptyjka	subst:pl:acc:f	nazwa pospolita	
-Koptyjki	Koptyjka	subst:pl:nom:f	nazwa pospolita	
-Koptyjki	Koptyjka	subst:pl:voc:f	nazwa pospolita	
-Koptyjki	Koptyjka	subst:sg:gen:f	nazwa pospolita	
-Koptyjko	Koptyjka	subst:sg:voc:f	nazwa pospolita	
-Koptyjkom	Koptyjka	subst:pl:dat:f	nazwa pospolita	
+Koptyjce	Koptyjka	subst:sg:dat:f	nazwa pospolita	etn.
+Koptyjce	Koptyjka	subst:sg:loc:f	nazwa pospolita	etn.
+Koptyjek	Koptyjka	subst:pl:gen:f	nazwa pospolita	etn.
+Koptyjkach	Koptyjka	subst:pl:loc:f	nazwa pospolita	etn.
+Koptyjka	Koptyjka	subst:sg:nom:f	nazwa pospolita	etn.
+Koptyjkami	Koptyjka	subst:pl:inst:f	nazwa pospolita	etn.
+Koptyjką	Koptyjka	subst:sg:inst:f	nazwa pospolita	etn.
+Koptyjkę	Koptyjka	subst:sg:acc:f	nazwa pospolita	etn.
+Koptyjki	Koptyjka	subst:pl:acc:f	nazwa pospolita	etn.
+Koptyjki	Koptyjka	subst:pl:nom:f	nazwa pospolita	etn.
+Koptyjki	Koptyjka	subst:pl:voc:f	nazwa pospolita	etn.
+Koptyjki	Koptyjka	subst:sg:gen:f	nazwa pospolita	etn.
+Koptyjko	Koptyjka	subst:sg:voc:f	nazwa pospolita	etn.
+Koptyjkom	Koptyjka	subst:pl:dat:f	nazwa pospolita	etn.
 KOR-ach	KOR	subst:pl:loc:m3	nazwa organizacji	
 KOR-ami	KOR	subst:pl:inst:m3	nazwa organizacji	
 KOR-em	KOR	subst:sg:inst:m3	nazwa organizacji	
@@ -16747,62 +16733,34 @@ KWP	KWP	subst:sg:nom:f	nazwa instytucji
 KWP	KWP	subst:sg:nom:n2	nazwa instytucji	
 KWP	KWP	subst:sg:voc:f	nazwa instytucji	
 KWP	KWP	subst:sg:voc:n2	nazwa instytucji	
-KW	KW:s1	subst:pl:acc:f	człon nazwy instytucji	
-KW	KW:s1	subst:pl:acc:n2	człon nazwy instytucji	
-KW	KW:s1	subst:pl:dat:f	człon nazwy instytucji	
-KW	KW:s1	subst:pl:dat:n2	człon nazwy instytucji	
-KW	KW:s1	subst:pl:gen:f	człon nazwy instytucji	
-KW	KW:s1	subst:pl:gen:n2	człon nazwy instytucji	
-KW	KW:s1	subst:pl:inst:f	człon nazwy instytucji	
-KW	KW:s1	subst:pl:inst:n2	człon nazwy instytucji	
-KW	KW:s1	subst:pl:loc:f	człon nazwy instytucji	
-KW	KW:s1	subst:pl:loc:n2	człon nazwy instytucji	
-KW	KW:s1	subst:pl:nom:f	człon nazwy instytucji	
-KW	KW:s1	subst:pl:nom:n2	człon nazwy instytucji	
-KW	KW:s1	subst:pl:voc:f	człon nazwy instytucji	
-KW	KW:s1	subst:pl:voc:n2	człon nazwy instytucji	
-KW	KW:s1	subst:sg:acc:f	człon nazwy instytucji	
-KW	KW:s1	subst:sg:acc:n2	człon nazwy instytucji	
-KW	KW:s1	subst:sg:dat:f	człon nazwy instytucji	
-KW	KW:s1	subst:sg:dat:n2	człon nazwy instytucji	
-KW	KW:s1	subst:sg:gen:f	człon nazwy instytucji	
-KW	KW:s1	subst:sg:gen:n2	człon nazwy instytucji	
-KW	KW:s1	subst:sg:inst:f	człon nazwy instytucji	
-KW	KW:s1	subst:sg:inst:n2	człon nazwy instytucji	
-KW	KW:s1	subst:sg:loc:f	człon nazwy instytucji	
-KW	KW:s1	subst:sg:loc:n2	człon nazwy instytucji	
-KW	KW:s1	subst:sg:nom:f	człon nazwy instytucji	
-KW	KW:s1	subst:sg:nom:n2	człon nazwy instytucji	
-KW	KW:s1	subst:sg:voc:f	człon nazwy instytucji	
-KW	KW:s1	subst:sg:voc:n2	człon nazwy instytucji	
-KW	KW:s2	subst:pl:acc:f	nazwa firmy	
-KW	KW:s2	subst:pl:acc:n2	nazwa firmy	
-KW	KW:s2	subst:pl:dat:f	nazwa firmy	
-KW	KW:s2	subst:pl:dat:n2	nazwa firmy	
-KW	KW:s2	subst:pl:gen:f	nazwa firmy	
-KW	KW:s2	subst:pl:gen:n2	nazwa firmy	
-KW	KW:s2	subst:pl:inst:f	nazwa firmy	
-KW	KW:s2	subst:pl:inst:n2	nazwa firmy	
-KW	KW:s2	subst:pl:loc:f	nazwa firmy	
-KW	KW:s2	subst:pl:loc:n2	nazwa firmy	
-KW	KW:s2	subst:pl:nom:f	nazwa firmy	
-KW	KW:s2	subst:pl:nom:n2	nazwa firmy	
-KW	KW:s2	subst:pl:voc:f	nazwa firmy	
-KW	KW:s2	subst:pl:voc:n2	nazwa firmy	
-KW	KW:s2	subst:sg:acc:f	nazwa firmy	
-KW	KW:s2	subst:sg:acc:n2	nazwa firmy	
-KW	KW:s2	subst:sg:dat:f	nazwa firmy	
-KW	KW:s2	subst:sg:dat:n2	nazwa firmy	
-KW	KW:s2	subst:sg:gen:f	nazwa firmy	
-KW	KW:s2	subst:sg:gen:n2	nazwa firmy	
-KW	KW:s2	subst:sg:inst:f	nazwa firmy	
-KW	KW:s2	subst:sg:inst:n2	nazwa firmy	
-KW	KW:s2	subst:sg:loc:f	nazwa firmy	
-KW	KW:s2	subst:sg:loc:n2	nazwa firmy	
-KW	KW:s2	subst:sg:nom:f	nazwa firmy	
-KW	KW:s2	subst:sg:nom:n2	nazwa firmy	
-KW	KW:s2	subst:sg:voc:f	nazwa firmy	
-KW	KW:s2	subst:sg:voc:n2	nazwa firmy	
+KW	KW:s1	subst:pl:acc:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:pl:acc:n2	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:pl:dat:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:pl:dat:n2	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:pl:gen:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:pl:gen:n2	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:pl:inst:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:pl:inst:n2	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:pl:loc:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:pl:loc:n2	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:pl:nom:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:pl:nom:n2	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:pl:voc:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:pl:voc:n2	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:acc:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:acc:n2	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:dat:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:dat:n2	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:gen:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:gen:n2	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:inst:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:inst:n2	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:loc:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:loc:n2	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:nom:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:nom:n2	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:voc:f	nazwa firmy|człon nazwy instytucji	
+KW	KW:s1	subst:sg:voc:n2	nazwa firmy|człon nazwy instytucji	
 KW	KW:s3	subst:pl:acc:m3	nazwa organizacji	
 KW	KW:s3	subst:pl:acc:n2	nazwa organizacji	
 KW	KW:s3	subst:pl:dat:m3	nazwa organizacji	
