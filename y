@@ -1,287 +1,287 @@
-yacht-clubach	yacht-club	subst:pl:loc:m3	pospolita	
-yacht-clubami	yacht-club	subst:pl:inst:m3	pospolita	
-yacht-clubem	yacht-club	subst:sg:inst:m3	pospolita	
-yacht-clubie	yacht-club	subst:sg:loc:m3	pospolita	
-yacht-clubie	yacht-club	subst:sg:voc:m3	pospolita	
-yacht-clubom	yacht-club	subst:pl:dat:m3	pospolita	
-yacht-clubowi	yacht-club	subst:sg:dat:m3	pospolita	
-yacht-clubów	yacht-club	subst:pl:gen:m3	pospolita	
-yacht-clubu	yacht-club	subst:sg:gen:m3	pospolita	
-yacht-club	yacht-club	subst:sg:acc:m3	pospolita	
-yacht-club	yacht-club	subst:sg:nom:m3	pospolita	
-yacht-cluby	yacht-club	subst:pl:acc:m3	pospolita	
-yacht-cluby	yacht-club	subst:pl:nom:m3	pospolita	
-yacht-cluby	yacht-club	subst:pl:voc:m3	pospolita	
-yachtingach	yachting	subst:pl:loc:m3	pospolita	
-yachtingami	yachting	subst:pl:inst:m3	pospolita	
-yachtingiem	yachting	subst:sg:inst:m3	pospolita	
-yachtingi	yachting	subst:pl:acc:m3	pospolita	
-yachtingi	yachting	subst:pl:nom:m3	pospolita	
-yachtingi	yachting	subst:pl:voc:m3	pospolita	
-yachtingom	yachting	subst:pl:dat:m3	pospolita	
-yachtingowi	yachting	subst:sg:dat:m3	pospolita	
-yachtingów	yachting	subst:pl:gen:m3	pospolita	
-yachtingu	yachting	subst:sg:gen:m3	pospolita	
-yachtingu	yachting	subst:sg:loc:m3	pospolita	
-yachtingu	yachting	subst:sg:voc:m3	pospolita	
-yachting	yachting	subst:sg:acc:m3	pospolita	
-yachting	yachting	subst:sg:nom:m3	pospolita	
-yakuzach	yakuza:s1	subst:pl:loc:f	pospolita	
-yakuzami	yakuza:s1	subst:pl:inst:f	pospolita	
-yakuza	yakuza:s1	subst:sg:nom:f	pospolita	
-yakuzą	yakuza:s1	subst:sg:inst:f	pospolita	
-yakuzę	yakuza:s1	subst:sg:acc:f	pospolita	
-yakuzie	yakuza:s1	subst:sg:dat:f	pospolita	
-yakuzie	yakuza:s1	subst:sg:loc:f	pospolita	
-yakuzom	yakuza:s1	subst:pl:dat:f	pospolita	
-yakuzo	yakuza:s1	subst:sg:voc:f	pospolita	
-yakuz	yakuza:s1	subst:pl:gen:f	pospolita	
-yakuzy	yakuza:s1	subst:pl:acc:f	pospolita	
-yakuzy	yakuza:s1	subst:pl:nom:f	pospolita	
-yakuzy	yakuza:s1	subst:pl:voc:f	pospolita	
-yakuzy	yakuza:s1	subst:sg:gen:f	pospolita	
-yakuzach	yakuza:s2	subst:pl:loc:m1	pospolita	
-yakuzami	yakuza:s2	subst:pl:inst:m1	pospolita	
-yakuza	yakuza:s2	subst:sg:nom:m1	pospolita	
-yakuzą	yakuza:s2	subst:sg:inst:m1	pospolita	
-yakuzę	yakuza:s2	subst:sg:acc:m1	pospolita	
-yakuzie	yakuza:s2	subst:sg:dat:m1	pospolita	
-yakuzie	yakuza:s2	subst:sg:loc:m1	pospolita	
-yakuzom	yakuza:s2	subst:pl:dat:m1	pospolita	
-yakuzowie	yakuza:s2	subst:pl:nom:m1	pospolita	
-yakuzowie	yakuza:s2	subst:pl:voc:m1	pospolita	
-yakuzo	yakuza:s2	subst:sg:voc:m1	pospolita	
-yakuzów	yakuza:s2	subst:pl:acc:m1	pospolita	
-yakuzów	yakuza:s2	subst:pl:gen:m1	pospolita	
-yakuzy	yakuza:s2	depr:pl:nom:m2	pospolita	
-yakuzy	yakuza:s2	depr:pl:voc:m2	pospolita	
-yakuzy	yakuza:s2	subst:sg:gen:m1	pospolita	
-yale	yale	subst:pl:acc:m3	pospolita	
-yale	yale	subst:pl:dat:m3	pospolita	
-yale	yale	subst:pl:gen:m3	pospolita	
-yale	yale	subst:pl:inst:m3	pospolita	
-yale	yale	subst:pl:loc:m3	pospolita	
-yale	yale	subst:pl:nom:m3	pospolita	
-yale	yale	subst:pl:voc:m3	pospolita	
-yale	yale	subst:sg:acc:m3	pospolita	
-yale	yale	subst:sg:dat:m3	pospolita	
-yale	yale	subst:sg:gen:m3	pospolita	
-yale	yale	subst:sg:inst:m3	pospolita	
-yale	yale	subst:sg:loc:m3	pospolita	
-yale	yale	subst:sg:nom:m3	pospolita	
-yale	yale	subst:sg:voc:m3	pospolita	
-yamahach	yamaha	subst:pl:loc:f	pospolita	
-yamahami	yamaha	subst:pl:inst:f	pospolita	
-yamaha	yamaha	subst:sg:nom:f	pospolita	
-yamahą	yamaha	subst:sg:inst:f	pospolita	
-yamahę	yamaha	subst:sg:acc:f	pospolita	
-yamahom	yamaha	subst:pl:dat:f	pospolita	
-yamaho	yamaha	subst:sg:voc:f	pospolita	
-yamah	yamaha	subst:pl:gen:f	pospolita	
-yamahy	yamaha	subst:pl:acc:f	pospolita	
-yamahy	yamaha	subst:pl:nom:f	pospolita	
-yamahy	yamaha	subst:pl:voc:f	pospolita	
-yamahy	yamaha	subst:sg:gen:f	pospolita	
-yamasze	yamaha	subst:sg:dat:f	pospolita	
-yamasze	yamaha	subst:sg:loc:f	pospolita	
-yang	yang	subst:pl:acc:n2	pospolita	
-yang	yang	subst:pl:dat:n2	pospolita	
-yang	yang	subst:pl:gen:n2	pospolita	
-yang	yang	subst:pl:inst:n2	pospolita	
-yang	yang	subst:pl:loc:n2	pospolita	
-yang	yang	subst:pl:nom:n2	pospolita	
-yang	yang	subst:pl:voc:n2	pospolita	
-yang	yang	subst:sg:acc:n2	pospolita	
-yang	yang	subst:sg:dat:n2	pospolita	
-yang	yang	subst:sg:gen:n2	pospolita	
-yang	yang	subst:sg:inst:n2	pospolita	
-yang	yang	subst:sg:loc:n2	pospolita	
-yang	yang	subst:sg:nom:n2	pospolita	
-yang	yang	subst:sg:voc:n2	pospolita	
-yardach	yard	subst:pl:loc:m3	pospolita	
-yardami	yard	subst:pl:inst:m3	pospolita	
-yarda	yard	subst:sg:gen:m3	pospolita	
-yardem	yard	subst:sg:inst:m3	pospolita	
-yardom	yard	subst:pl:dat:m3	pospolita	
-yardowi	yard	subst:sg:dat:m3	pospolita	
-yardów	yard	subst:pl:gen:m3	pospolita	
-yardu	yard	subst:sg:gen:m3	pospolita	
-yard	yard	subst:sg:acc:m3	pospolita	
-yard	yard	subst:sg:nom:m3	pospolita	
-yardy	yard	subst:pl:acc:m3	pospolita	
-yardy	yard	subst:pl:nom:m3	pospolita	
-yardy	yard	subst:pl:voc:m3	pospolita	
-yardzie	yard	subst:sg:loc:m3	pospolita	
-yardzie	yard	subst:sg:voc:m3	pospolita	
-yerbach	yerba	subst:pl:loc:f	pospolita	kulin.
-yerbami	yerba	subst:pl:inst:f	pospolita	kulin.
-yerba	yerba	subst:sg:nom:f	pospolita	kulin.
-yerbą	yerba	subst:sg:inst:f	pospolita	kulin.
-yerbę	yerba	subst:sg:acc:f	pospolita	kulin.
-yerbie	yerba	subst:sg:dat:f	pospolita	kulin.
-yerbie	yerba	subst:sg:loc:f	pospolita	kulin.
-yerbom	yerba	subst:pl:dat:f	pospolita	kulin.
-yerbo	yerba	subst:sg:voc:f	pospolita	kulin.
-yerb	yerba	subst:pl:gen:f	pospolita	kulin.
-yerby	yerba	subst:pl:acc:f	pospolita	kulin.
-yerby	yerba	subst:pl:nom:f	pospolita	kulin.
-yerby	yerba	subst:pl:voc:f	pospolita	kulin.
-yerby	yerba	subst:sg:gen:f	pospolita	kulin.
-yeti	yeti	subst:pl:acc:m2	pospolita	
-yeti	yeti	subst:pl:dat:m2	pospolita	
-yeti	yeti	subst:pl:gen:m2	pospolita	
-yeti	yeti	subst:pl:inst:m2	pospolita	
-yeti	yeti	subst:pl:loc:m2	pospolita	
-yeti	yeti	subst:pl:nom:m2	pospolita	
-yeti	yeti	subst:pl:voc:m2	pospolita	
-yeti	yeti	subst:sg:acc:m2	pospolita	
-yeti	yeti	subst:sg:dat:m2	pospolita	
-yeti	yeti	subst:sg:gen:m2	pospolita	
-yeti	yeti	subst:sg:inst:m2	pospolita	
-yeti	yeti	subst:sg:loc:m2	pospolita	
-yeti	yeti	subst:sg:nom:m2	pospolita	
-yeti	yeti	subst:sg:voc:m2	pospolita	
-yin	yin	subst:pl:acc:n2	pospolita	
-yin	yin	subst:pl:dat:n2	pospolita	
-yin	yin	subst:pl:gen:n2	pospolita	
-yin	yin	subst:pl:inst:n2	pospolita	
-yin	yin	subst:pl:loc:n2	pospolita	
-yin	yin	subst:pl:nom:n2	pospolita	
-yin	yin	subst:pl:voc:n2	pospolita	
-yin	yin	subst:sg:acc:n2	pospolita	
-yin	yin	subst:sg:dat:n2	pospolita	
-yin	yin	subst:sg:gen:n2	pospolita	
-yin	yin	subst:sg:inst:n2	pospolita	
-yin	yin	subst:sg:loc:n2	pospolita	
-yin	yin	subst:sg:nom:n2	pospolita	
-yin	yin	subst:sg:voc:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:pl:acc:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:pl:dat:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:pl:gen:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:pl:inst:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:pl:loc:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:pl:nom:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:pl:voc:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:sg:acc:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:sg:dat:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:sg:gen:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:sg:inst:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:sg:loc:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:sg:nom:n2	pospolita	
-ylang-ylang	ylang-ylang	subst:sg:voc:n2	pospolita	
-yorkach	york	subst:pl:loc:m2	pospolita	
-yorkami	york	subst:pl:inst:m2	pospolita	
-yorka	york	subst:sg:acc:m2	pospolita	
-yorka	york	subst:sg:gen:m2	pospolita	
-yorkiem	york	subst:sg:inst:m2	pospolita	
-yorki	york	subst:pl:acc:m2	pospolita	
-yorki	york	subst:pl:nom:m2	pospolita	
-yorki	york	subst:pl:voc:m2	pospolita	
-yorkom	york	subst:pl:dat:m2	pospolita	
-yorkowi	york	subst:sg:dat:m2	pospolita	
-yorków	york	subst:pl:gen:m2	pospolita	
-yorku	york	subst:sg:loc:m2	pospolita	
-yorku	york	subst:sg:voc:m2	pospolita	
-york	york	subst:sg:nom:m2	pospolita	
-yo-yo	yo-yo	subst:pl:acc:n2	pospolita	
-yo-yo	yo-yo	subst:pl:dat:n2	pospolita	
-yo-yo	yo-yo	subst:pl:gen:n2	pospolita	
-yo-yo	yo-yo	subst:pl:inst:n2	pospolita	
-yo-yo	yo-yo	subst:pl:loc:n2	pospolita	
-yo-yo	yo-yo	subst:pl:nom:n2	pospolita	
-yo-yo	yo-yo	subst:pl:voc:n2	pospolita	
-yo-yo	yo-yo	subst:sg:acc:n2	pospolita	
-yo-yo	yo-yo	subst:sg:dat:n2	pospolita	
-yo-yo	yo-yo	subst:sg:gen:n2	pospolita	
-yo-yo	yo-yo	subst:sg:inst:n2	pospolita	
-yo-yo	yo-yo	subst:sg:loc:n2	pospolita	
-yo-yo	yo-yo	subst:sg:nom:n2	pospolita	
-yo-yo	yo-yo	subst:sg:voc:n2	pospolita	
-ypsilonach	ypsilon	subst:pl:loc:m3	pospolita	
-ypsilonami	ypsilon	subst:pl:inst:m3	pospolita	
-ypsilonem	ypsilon	subst:sg:inst:m3	pospolita	
-ypsilonie	ypsilon	subst:sg:loc:m3	pospolita	
-ypsilonie	ypsilon	subst:sg:voc:m3	pospolita	
-ypsilonom	ypsilon	subst:pl:dat:m3	pospolita	
-ypsilonowi	ypsilon	subst:sg:dat:m3	pospolita	
-ypsilonów	ypsilon	subst:pl:gen:m3	pospolita	
-ypsilonu	ypsilon	subst:sg:gen:m3	pospolita	
-ypsilon	ypsilon	subst:pl:acc:n2	pospolita	
-ypsilon	ypsilon	subst:pl:dat:n2	pospolita	
-ypsilon	ypsilon	subst:pl:gen:n2	pospolita	
-ypsilon	ypsilon	subst:pl:inst:n2	pospolita	
-ypsilon	ypsilon	subst:pl:loc:n2	pospolita	
-ypsilon	ypsilon	subst:pl:nom:n2	pospolita	
-ypsilon	ypsilon	subst:pl:voc:n2	pospolita	
-ypsilon	ypsilon	subst:sg:acc:m3	pospolita	
-ypsilon	ypsilon	subst:sg:acc:n2	pospolita	
-ypsilon	ypsilon	subst:sg:dat:n2	pospolita	
-ypsilon	ypsilon	subst:sg:gen:n2	pospolita	
-ypsilon	ypsilon	subst:sg:inst:n2	pospolita	
-ypsilon	ypsilon	subst:sg:loc:n2	pospolita	
-ypsilon	ypsilon	subst:sg:nom:m3	pospolita	
-ypsilon	ypsilon	subst:sg:nom:n2	pospolita	
-ypsilon	ypsilon	subst:sg:voc:n2	pospolita	
-ypsilony	ypsilon	subst:pl:acc:m3	pospolita	
-ypsilony	ypsilon	subst:pl:nom:m3	pospolita	
-ypsilony	ypsilon	subst:pl:voc:m3	pospolita	
-yuppich	yuppi	subst:pl:acc:m1	pospolita	
-yuppich	yuppi	subst:pl:gen:m1	pospolita	
-yuppich	yuppi	subst:pl:loc:m1	pospolita	
-yuppiego	yuppi	subst:sg:acc:m1	pospolita	
-yuppiego	yuppi	subst:sg:gen:m1	pospolita	
-yuppiemu	yuppi	subst:sg:dat:m1	pospolita	
-yuppies	yuppi	depr:pl:nom:m2	pospolita	
-yuppies	yuppi	depr:pl:voc:m2	pospolita	
-yuppies	yuppi	subst:pl:nom:m1	pospolita	
-yuppies	yuppi	subst:pl:voc:m1	pospolita	
-yuppimi	yuppi	subst:pl:inst:m1	pospolita	
-yuppim	yuppi	subst:pl:dat:m1	pospolita	
-yuppim	yuppi	subst:sg:inst:m1	pospolita	
-yuppim	yuppi	subst:sg:loc:m1	pospolita	
-yuppi	yuppi	depr:pl:nom:m2	pospolita	
-yuppi	yuppi	depr:pl:voc:m2	pospolita	
-yuppi	yuppi	subst:pl:acc:m1	pospolita	
-yuppi	yuppi	subst:pl:dat:m1	pospolita	
-yuppi	yuppi	subst:pl:gen:m1	pospolita	
-yuppi	yuppi	subst:pl:inst:m1	pospolita	
-yuppi	yuppi	subst:pl:loc:m1	pospolita	
-yuppi	yuppi	subst:pl:nom:m1	pospolita	
-yuppi	yuppi	subst:pl:voc:m1	pospolita	
-yuppi	yuppi	subst:sg:acc:m1	pospolita	
-yuppi	yuppi	subst:sg:dat:m1	pospolita	
-yuppi	yuppi	subst:sg:gen:m1	pospolita	
-yuppi	yuppi	subst:sg:inst:m1	pospolita	
-yuppi	yuppi	subst:sg:loc:m1	pospolita	
-yuppi	yuppi	subst:sg:nom:m1	pospolita	
-yuppi	yuppi	subst:sg:voc:m1	pospolita	
-yuppiech	yuppie	subst:pl:acc:m1	pospolita	
-yuppiech	yuppie	subst:pl:gen:m1	pospolita	
-yuppiech	yuppie	subst:pl:loc:m1	pospolita	
-yuppiego	yuppie	subst:sg:acc:m1	pospolita	
-yuppiego	yuppie	subst:sg:gen:m1	pospolita	
-yuppiemi	yuppie	subst:pl:inst:m1	pospolita	
-yuppiemu	yuppie	subst:sg:dat:m1	pospolita	
-yuppiem	yuppie	subst:pl:dat:m1	pospolita	
-yuppiem	yuppie	subst:sg:inst:m1	pospolita	
-yuppiem	yuppie	subst:sg:loc:m1	pospolita	
-yuppies	yuppie	depr:pl:nom:m2	pospolita	
-yuppies	yuppie	depr:pl:voc:m2	pospolita	
-yuppies	yuppie	subst:pl:nom:m1	pospolita	
-yuppies	yuppie	subst:pl:voc:m1	pospolita	
-yuppie	yuppie	depr:pl:nom:m2	pospolita	
-yuppie	yuppie	depr:pl:voc:m2	pospolita	
-yuppie	yuppie	subst:pl:acc:m1	pospolita	
-yuppie	yuppie	subst:pl:dat:m1	pospolita	
-yuppie	yuppie	subst:pl:gen:m1	pospolita	
-yuppie	yuppie	subst:pl:inst:m1	pospolita	
-yuppie	yuppie	subst:pl:loc:m1	pospolita	
-yuppie	yuppie	subst:pl:nom:m1	pospolita	
-yuppie	yuppie	subst:pl:voc:m1	pospolita	
-yuppie	yuppie	subst:sg:acc:m1	pospolita	
-yuppie	yuppie	subst:sg:dat:m1	pospolita	
-yuppie	yuppie	subst:sg:gen:m1	pospolita	
-yuppie	yuppie	subst:sg:inst:m1	pospolita	
-yuppie	yuppie	subst:sg:loc:m1	pospolita	
-yuppie	yuppie	subst:sg:nom:m1	pospolita	
-yuppie	yuppie	subst:sg:voc:m1	pospolita	
+yacht-clubach	yacht-club	subst:pl:loc:m3	nazwa pospolita	
+yacht-clubami	yacht-club	subst:pl:inst:m3	nazwa pospolita	
+yacht-clubem	yacht-club	subst:sg:inst:m3	nazwa pospolita	
+yacht-clubie	yacht-club	subst:sg:loc:m3	nazwa pospolita	
+yacht-clubie	yacht-club	subst:sg:voc:m3	nazwa pospolita	
+yacht-clubom	yacht-club	subst:pl:dat:m3	nazwa pospolita	
+yacht-clubowi	yacht-club	subst:sg:dat:m3	nazwa pospolita	
+yacht-clubów	yacht-club	subst:pl:gen:m3	nazwa pospolita	
+yacht-clubu	yacht-club	subst:sg:gen:m3	nazwa pospolita	
+yacht-club	yacht-club	subst:sg:acc:m3	nazwa pospolita	
+yacht-club	yacht-club	subst:sg:nom:m3	nazwa pospolita	
+yacht-cluby	yacht-club	subst:pl:acc:m3	nazwa pospolita	
+yacht-cluby	yacht-club	subst:pl:nom:m3	nazwa pospolita	
+yacht-cluby	yacht-club	subst:pl:voc:m3	nazwa pospolita	
+yachtingach	yachting	subst:pl:loc:m3	nazwa pospolita	
+yachtingami	yachting	subst:pl:inst:m3	nazwa pospolita	
+yachtingiem	yachting	subst:sg:inst:m3	nazwa pospolita	
+yachtingi	yachting	subst:pl:acc:m3	nazwa pospolita	
+yachtingi	yachting	subst:pl:nom:m3	nazwa pospolita	
+yachtingi	yachting	subst:pl:voc:m3	nazwa pospolita	
+yachtingom	yachting	subst:pl:dat:m3	nazwa pospolita	
+yachtingowi	yachting	subst:sg:dat:m3	nazwa pospolita	
+yachtingów	yachting	subst:pl:gen:m3	nazwa pospolita	
+yachtingu	yachting	subst:sg:gen:m3	nazwa pospolita	
+yachtingu	yachting	subst:sg:loc:m3	nazwa pospolita	
+yachtingu	yachting	subst:sg:voc:m3	nazwa pospolita	
+yachting	yachting	subst:sg:acc:m3	nazwa pospolita	
+yachting	yachting	subst:sg:nom:m3	nazwa pospolita	
+yakuzach	yakuza:s1	subst:pl:loc:f	nazwa pospolita	
+yakuzami	yakuza:s1	subst:pl:inst:f	nazwa pospolita	
+yakuza	yakuza:s1	subst:sg:nom:f	nazwa pospolita	
+yakuzą	yakuza:s1	subst:sg:inst:f	nazwa pospolita	
+yakuzę	yakuza:s1	subst:sg:acc:f	nazwa pospolita	
+yakuzie	yakuza:s1	subst:sg:dat:f	nazwa pospolita	
+yakuzie	yakuza:s1	subst:sg:loc:f	nazwa pospolita	
+yakuzom	yakuza:s1	subst:pl:dat:f	nazwa pospolita	
+yakuzo	yakuza:s1	subst:sg:voc:f	nazwa pospolita	
+yakuz	yakuza:s1	subst:pl:gen:f	nazwa pospolita	
+yakuzy	yakuza:s1	subst:pl:acc:f	nazwa pospolita	
+yakuzy	yakuza:s1	subst:pl:nom:f	nazwa pospolita	
+yakuzy	yakuza:s1	subst:pl:voc:f	nazwa pospolita	
+yakuzy	yakuza:s1	subst:sg:gen:f	nazwa pospolita	
+yakuzach	yakuza:s2	subst:pl:loc:m1	nazwa pospolita	
+yakuzami	yakuza:s2	subst:pl:inst:m1	nazwa pospolita	
+yakuza	yakuza:s2	subst:sg:nom:m1	nazwa pospolita	
+yakuzą	yakuza:s2	subst:sg:inst:m1	nazwa pospolita	
+yakuzę	yakuza:s2	subst:sg:acc:m1	nazwa pospolita	
+yakuzie	yakuza:s2	subst:sg:dat:m1	nazwa pospolita	
+yakuzie	yakuza:s2	subst:sg:loc:m1	nazwa pospolita	
+yakuzom	yakuza:s2	subst:pl:dat:m1	nazwa pospolita	
+yakuzowie	yakuza:s2	subst:pl:nom:m1	nazwa pospolita	
+yakuzowie	yakuza:s2	subst:pl:voc:m1	nazwa pospolita	
+yakuzo	yakuza:s2	subst:sg:voc:m1	nazwa pospolita	
+yakuzów	yakuza:s2	subst:pl:acc:m1	nazwa pospolita	
+yakuzów	yakuza:s2	subst:pl:gen:m1	nazwa pospolita	
+yakuzy	yakuza:s2	depr:pl:nom:m2	nazwa pospolita	
+yakuzy	yakuza:s2	depr:pl:voc:m2	nazwa pospolita	
+yakuzy	yakuza:s2	subst:sg:gen:m1	nazwa pospolita	
+yale	yale	subst:pl:acc:m3	nazwa pospolita	
+yale	yale	subst:pl:dat:m3	nazwa pospolita	
+yale	yale	subst:pl:gen:m3	nazwa pospolita	
+yale	yale	subst:pl:inst:m3	nazwa pospolita	
+yale	yale	subst:pl:loc:m3	nazwa pospolita	
+yale	yale	subst:pl:nom:m3	nazwa pospolita	
+yale	yale	subst:pl:voc:m3	nazwa pospolita	
+yale	yale	subst:sg:acc:m3	nazwa pospolita	
+yale	yale	subst:sg:dat:m3	nazwa pospolita	
+yale	yale	subst:sg:gen:m3	nazwa pospolita	
+yale	yale	subst:sg:inst:m3	nazwa pospolita	
+yale	yale	subst:sg:loc:m3	nazwa pospolita	
+yale	yale	subst:sg:nom:m3	nazwa pospolita	
+yale	yale	subst:sg:voc:m3	nazwa pospolita	
+yamahach	yamaha	subst:pl:loc:f	nazwa pospolita	
+yamahami	yamaha	subst:pl:inst:f	nazwa pospolita	
+yamaha	yamaha	subst:sg:nom:f	nazwa pospolita	
+yamahą	yamaha	subst:sg:inst:f	nazwa pospolita	
+yamahę	yamaha	subst:sg:acc:f	nazwa pospolita	
+yamahom	yamaha	subst:pl:dat:f	nazwa pospolita	
+yamaho	yamaha	subst:sg:voc:f	nazwa pospolita	
+yamah	yamaha	subst:pl:gen:f	nazwa pospolita	
+yamahy	yamaha	subst:pl:acc:f	nazwa pospolita	
+yamahy	yamaha	subst:pl:nom:f	nazwa pospolita	
+yamahy	yamaha	subst:pl:voc:f	nazwa pospolita	
+yamahy	yamaha	subst:sg:gen:f	nazwa pospolita	
+yamasze	yamaha	subst:sg:dat:f	nazwa pospolita	
+yamasze	yamaha	subst:sg:loc:f	nazwa pospolita	
+yang	yang	subst:pl:acc:n2	nazwa pospolita	
+yang	yang	subst:pl:dat:n2	nazwa pospolita	
+yang	yang	subst:pl:gen:n2	nazwa pospolita	
+yang	yang	subst:pl:inst:n2	nazwa pospolita	
+yang	yang	subst:pl:loc:n2	nazwa pospolita	
+yang	yang	subst:pl:nom:n2	nazwa pospolita	
+yang	yang	subst:pl:voc:n2	nazwa pospolita	
+yang	yang	subst:sg:acc:n2	nazwa pospolita	
+yang	yang	subst:sg:dat:n2	nazwa pospolita	
+yang	yang	subst:sg:gen:n2	nazwa pospolita	
+yang	yang	subst:sg:inst:n2	nazwa pospolita	
+yang	yang	subst:sg:loc:n2	nazwa pospolita	
+yang	yang	subst:sg:nom:n2	nazwa pospolita	
+yang	yang	subst:sg:voc:n2	nazwa pospolita	
+yardach	yard	subst:pl:loc:m3	nazwa pospolita	
+yardami	yard	subst:pl:inst:m3	nazwa pospolita	
+yarda	yard	subst:sg:gen:m3	nazwa pospolita	
+yardem	yard	subst:sg:inst:m3	nazwa pospolita	
+yardom	yard	subst:pl:dat:m3	nazwa pospolita	
+yardowi	yard	subst:sg:dat:m3	nazwa pospolita	
+yardów	yard	subst:pl:gen:m3	nazwa pospolita	
+yardu	yard	subst:sg:gen:m3	nazwa pospolita	
+yard	yard	subst:sg:acc:m3	nazwa pospolita	
+yard	yard	subst:sg:nom:m3	nazwa pospolita	
+yardy	yard	subst:pl:acc:m3	nazwa pospolita	
+yardy	yard	subst:pl:nom:m3	nazwa pospolita	
+yardy	yard	subst:pl:voc:m3	nazwa pospolita	
+yardzie	yard	subst:sg:loc:m3	nazwa pospolita	
+yardzie	yard	subst:sg:voc:m3	nazwa pospolita	
+yerbach	yerba	subst:pl:loc:f	nazwa pospolita	kulin.
+yerbami	yerba	subst:pl:inst:f	nazwa pospolita	kulin.
+yerba	yerba	subst:sg:nom:f	nazwa pospolita	kulin.
+yerbą	yerba	subst:sg:inst:f	nazwa pospolita	kulin.
+yerbę	yerba	subst:sg:acc:f	nazwa pospolita	kulin.
+yerbie	yerba	subst:sg:dat:f	nazwa pospolita	kulin.
+yerbie	yerba	subst:sg:loc:f	nazwa pospolita	kulin.
+yerbom	yerba	subst:pl:dat:f	nazwa pospolita	kulin.
+yerbo	yerba	subst:sg:voc:f	nazwa pospolita	kulin.
+yerb	yerba	subst:pl:gen:f	nazwa pospolita	kulin.
+yerby	yerba	subst:pl:acc:f	nazwa pospolita	kulin.
+yerby	yerba	subst:pl:nom:f	nazwa pospolita	kulin.
+yerby	yerba	subst:pl:voc:f	nazwa pospolita	kulin.
+yerby	yerba	subst:sg:gen:f	nazwa pospolita	kulin.
+yeti	yeti	subst:pl:acc:m2	nazwa pospolita	
+yeti	yeti	subst:pl:dat:m2	nazwa pospolita	
+yeti	yeti	subst:pl:gen:m2	nazwa pospolita	
+yeti	yeti	subst:pl:inst:m2	nazwa pospolita	
+yeti	yeti	subst:pl:loc:m2	nazwa pospolita	
+yeti	yeti	subst:pl:nom:m2	nazwa pospolita	
+yeti	yeti	subst:pl:voc:m2	nazwa pospolita	
+yeti	yeti	subst:sg:acc:m2	nazwa pospolita	
+yeti	yeti	subst:sg:dat:m2	nazwa pospolita	
+yeti	yeti	subst:sg:gen:m2	nazwa pospolita	
+yeti	yeti	subst:sg:inst:m2	nazwa pospolita	
+yeti	yeti	subst:sg:loc:m2	nazwa pospolita	
+yeti	yeti	subst:sg:nom:m2	nazwa pospolita	
+yeti	yeti	subst:sg:voc:m2	nazwa pospolita	
+yin	yin	subst:pl:acc:n2	nazwa pospolita	
+yin	yin	subst:pl:dat:n2	nazwa pospolita	
+yin	yin	subst:pl:gen:n2	nazwa pospolita	
+yin	yin	subst:pl:inst:n2	nazwa pospolita	
+yin	yin	subst:pl:loc:n2	nazwa pospolita	
+yin	yin	subst:pl:nom:n2	nazwa pospolita	
+yin	yin	subst:pl:voc:n2	nazwa pospolita	
+yin	yin	subst:sg:acc:n2	nazwa pospolita	
+yin	yin	subst:sg:dat:n2	nazwa pospolita	
+yin	yin	subst:sg:gen:n2	nazwa pospolita	
+yin	yin	subst:sg:inst:n2	nazwa pospolita	
+yin	yin	subst:sg:loc:n2	nazwa pospolita	
+yin	yin	subst:sg:nom:n2	nazwa pospolita	
+yin	yin	subst:sg:voc:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:pl:acc:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:pl:dat:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:pl:gen:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:pl:inst:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:pl:loc:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:pl:nom:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:pl:voc:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:sg:acc:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:sg:dat:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:sg:gen:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:sg:inst:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:sg:loc:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:sg:nom:n2	nazwa pospolita	
+ylang-ylang	ylang-ylang	subst:sg:voc:n2	nazwa pospolita	
+yorkach	york	subst:pl:loc:m2	nazwa pospolita	
+yorkami	york	subst:pl:inst:m2	nazwa pospolita	
+yorka	york	subst:sg:acc:m2	nazwa pospolita	
+yorka	york	subst:sg:gen:m2	nazwa pospolita	
+yorkiem	york	subst:sg:inst:m2	nazwa pospolita	
+yorki	york	subst:pl:acc:m2	nazwa pospolita	
+yorki	york	subst:pl:nom:m2	nazwa pospolita	
+yorki	york	subst:pl:voc:m2	nazwa pospolita	
+yorkom	york	subst:pl:dat:m2	nazwa pospolita	
+yorkowi	york	subst:sg:dat:m2	nazwa pospolita	
+yorków	york	subst:pl:gen:m2	nazwa pospolita	
+yorku	york	subst:sg:loc:m2	nazwa pospolita	
+yorku	york	subst:sg:voc:m2	nazwa pospolita	
+york	york	subst:sg:nom:m2	nazwa pospolita	
+yo-yo	yo-yo	subst:pl:acc:n2	nazwa pospolita	
+yo-yo	yo-yo	subst:pl:dat:n2	nazwa pospolita	
+yo-yo	yo-yo	subst:pl:gen:n2	nazwa pospolita	
+yo-yo	yo-yo	subst:pl:inst:n2	nazwa pospolita	
+yo-yo	yo-yo	subst:pl:loc:n2	nazwa pospolita	
+yo-yo	yo-yo	subst:pl:nom:n2	nazwa pospolita	
+yo-yo	yo-yo	subst:pl:voc:n2	nazwa pospolita	
+yo-yo	yo-yo	subst:sg:acc:n2	nazwa pospolita	
+yo-yo	yo-yo	subst:sg:dat:n2	nazwa pospolita	
+yo-yo	yo-yo	subst:sg:gen:n2	nazwa pospolita	
+yo-yo	yo-yo	subst:sg:inst:n2	nazwa pospolita	
+yo-yo	yo-yo	subst:sg:loc:n2	nazwa pospolita	
+yo-yo	yo-yo	subst:sg:nom:n2	nazwa pospolita	
+yo-yo	yo-yo	subst:sg:voc:n2	nazwa pospolita	
+ypsilonach	ypsilon	subst:pl:loc:m3	nazwa pospolita	
+ypsilonami	ypsilon	subst:pl:inst:m3	nazwa pospolita	
+ypsilonem	ypsilon	subst:sg:inst:m3	nazwa pospolita	
+ypsilonie	ypsilon	subst:sg:loc:m3	nazwa pospolita	
+ypsilonie	ypsilon	subst:sg:voc:m3	nazwa pospolita	
+ypsilonom	ypsilon	subst:pl:dat:m3	nazwa pospolita	
+ypsilonowi	ypsilon	subst:sg:dat:m3	nazwa pospolita	
+ypsilonów	ypsilon	subst:pl:gen:m3	nazwa pospolita	
+ypsilonu	ypsilon	subst:sg:gen:m3	nazwa pospolita	
+ypsilon	ypsilon	subst:pl:acc:n2	nazwa pospolita	
+ypsilon	ypsilon	subst:pl:dat:n2	nazwa pospolita	
+ypsilon	ypsilon	subst:pl:gen:n2	nazwa pospolita	
+ypsilon	ypsilon	subst:pl:inst:n2	nazwa pospolita	
+ypsilon	ypsilon	subst:pl:loc:n2	nazwa pospolita	
+ypsilon	ypsilon	subst:pl:nom:n2	nazwa pospolita	
+ypsilon	ypsilon	subst:pl:voc:n2	nazwa pospolita	
+ypsilon	ypsilon	subst:sg:acc:m3	nazwa pospolita	
+ypsilon	ypsilon	subst:sg:acc:n2	nazwa pospolita	
+ypsilon	ypsilon	subst:sg:dat:n2	nazwa pospolita	
+ypsilon	ypsilon	subst:sg:gen:n2	nazwa pospolita	
+ypsilon	ypsilon	subst:sg:inst:n2	nazwa pospolita	
+ypsilon	ypsilon	subst:sg:loc:n2	nazwa pospolita	
+ypsilon	ypsilon	subst:sg:nom:m3	nazwa pospolita	
+ypsilon	ypsilon	subst:sg:nom:n2	nazwa pospolita	
+ypsilon	ypsilon	subst:sg:voc:n2	nazwa pospolita	
+ypsilony	ypsilon	subst:pl:acc:m3	nazwa pospolita	
+ypsilony	ypsilon	subst:pl:nom:m3	nazwa pospolita	
+ypsilony	ypsilon	subst:pl:voc:m3	nazwa pospolita	
+yuppich	yuppi	subst:pl:acc:m1	nazwa pospolita	
+yuppich	yuppi	subst:pl:gen:m1	nazwa pospolita	
+yuppich	yuppi	subst:pl:loc:m1	nazwa pospolita	
+yuppiego	yuppi	subst:sg:acc:m1	nazwa pospolita	
+yuppiego	yuppi	subst:sg:gen:m1	nazwa pospolita	
+yuppiemu	yuppi	subst:sg:dat:m1	nazwa pospolita	
+yuppies	yuppi	depr:pl:nom:m2	nazwa pospolita	
+yuppies	yuppi	depr:pl:voc:m2	nazwa pospolita	
+yuppies	yuppi	subst:pl:nom:m1	nazwa pospolita	
+yuppies	yuppi	subst:pl:voc:m1	nazwa pospolita	
+yuppimi	yuppi	subst:pl:inst:m1	nazwa pospolita	
+yuppim	yuppi	subst:pl:dat:m1	nazwa pospolita	
+yuppim	yuppi	subst:sg:inst:m1	nazwa pospolita	
+yuppim	yuppi	subst:sg:loc:m1	nazwa pospolita	
+yuppi	yuppi	depr:pl:nom:m2	nazwa pospolita	
+yuppi	yuppi	depr:pl:voc:m2	nazwa pospolita	
+yuppi	yuppi	subst:pl:acc:m1	nazwa pospolita	
+yuppi	yuppi	subst:pl:dat:m1	nazwa pospolita	
+yuppi	yuppi	subst:pl:gen:m1	nazwa pospolita	
+yuppi	yuppi	subst:pl:inst:m1	nazwa pospolita	
+yuppi	yuppi	subst:pl:loc:m1	nazwa pospolita	
+yuppi	yuppi	subst:pl:nom:m1	nazwa pospolita	
+yuppi	yuppi	subst:pl:voc:m1	nazwa pospolita	
+yuppi	yuppi	subst:sg:acc:m1	nazwa pospolita	
+yuppi	yuppi	subst:sg:dat:m1	nazwa pospolita	
+yuppi	yuppi	subst:sg:gen:m1	nazwa pospolita	
+yuppi	yuppi	subst:sg:inst:m1	nazwa pospolita	
+yuppi	yuppi	subst:sg:loc:m1	nazwa pospolita	
+yuppi	yuppi	subst:sg:nom:m1	nazwa pospolita	
+yuppi	yuppi	subst:sg:voc:m1	nazwa pospolita	
+yuppiech	yuppie	subst:pl:acc:m1	nazwa pospolita	
+yuppiech	yuppie	subst:pl:gen:m1	nazwa pospolita	
+yuppiech	yuppie	subst:pl:loc:m1	nazwa pospolita	
+yuppiego	yuppie	subst:sg:acc:m1	nazwa pospolita	
+yuppiego	yuppie	subst:sg:gen:m1	nazwa pospolita	
+yuppiemi	yuppie	subst:pl:inst:m1	nazwa pospolita	
+yuppiemu	yuppie	subst:sg:dat:m1	nazwa pospolita	
+yuppiem	yuppie	subst:pl:dat:m1	nazwa pospolita	
+yuppiem	yuppie	subst:sg:inst:m1	nazwa pospolita	
+yuppiem	yuppie	subst:sg:loc:m1	nazwa pospolita	
+yuppies	yuppie	depr:pl:nom:m2	nazwa pospolita	
+yuppies	yuppie	depr:pl:voc:m2	nazwa pospolita	
+yuppies	yuppie	subst:pl:nom:m1	nazwa pospolita	
+yuppies	yuppie	subst:pl:voc:m1	nazwa pospolita	
+yuppie	yuppie	depr:pl:nom:m2	nazwa pospolita	
+yuppie	yuppie	depr:pl:voc:m2	nazwa pospolita	
+yuppie	yuppie	subst:pl:acc:m1	nazwa pospolita	
+yuppie	yuppie	subst:pl:dat:m1	nazwa pospolita	
+yuppie	yuppie	subst:pl:gen:m1	nazwa pospolita	
+yuppie	yuppie	subst:pl:inst:m1	nazwa pospolita	
+yuppie	yuppie	subst:pl:loc:m1	nazwa pospolita	
+yuppie	yuppie	subst:pl:nom:m1	nazwa pospolita	
+yuppie	yuppie	subst:pl:voc:m1	nazwa pospolita	
+yuppie	yuppie	subst:sg:acc:m1	nazwa pospolita	
+yuppie	yuppie	subst:sg:dat:m1	nazwa pospolita	
+yuppie	yuppie	subst:sg:gen:m1	nazwa pospolita	
+yuppie	yuppie	subst:sg:inst:m1	nazwa pospolita	
+yuppie	yuppie	subst:sg:loc:m1	nazwa pospolita	
+yuppie	yuppie	subst:sg:nom:m1	nazwa pospolita	
+yuppie	yuppie	subst:sg:voc:m1	nazwa pospolita	

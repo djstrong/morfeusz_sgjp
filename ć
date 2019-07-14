@@ -1,17 +1,17 @@
-ćakrach	ćakra	subst:pl:loc:f	pospolita	
-ćakra	ćakra	subst:sg:nom:f	pospolita	
-ćakrami	ćakra	subst:pl:inst:f	pospolita	
-ćakrą	ćakra	subst:sg:inst:f	pospolita	
-ćakr	ćakra	subst:pl:gen:f	pospolita	
-ćakrę	ćakra	subst:sg:acc:f	pospolita	
-ćakro	ćakra	subst:sg:voc:f	pospolita	
-ćakrom	ćakra	subst:pl:dat:f	pospolita	
-ćakry	ćakra	subst:pl:acc:f	pospolita	
-ćakry	ćakra	subst:pl:nom:f	pospolita	
-ćakry	ćakra	subst:pl:voc:f	pospolita	
-ćakry	ćakra	subst:sg:gen:f	pospolita	
-ćakrze	ćakra	subst:sg:dat:f	pospolita	
-ćakrze	ćakra	subst:sg:loc:f	pospolita	
+ćakrach	ćakra	subst:pl:loc:f	nazwa pospolita	
+ćakra	ćakra	subst:sg:nom:f	nazwa pospolita	
+ćakrami	ćakra	subst:pl:inst:f	nazwa pospolita	
+ćakrą	ćakra	subst:sg:inst:f	nazwa pospolita	
+ćakr	ćakra	subst:pl:gen:f	nazwa pospolita	
+ćakrę	ćakra	subst:sg:acc:f	nazwa pospolita	
+ćakro	ćakra	subst:sg:voc:f	nazwa pospolita	
+ćakrom	ćakra	subst:pl:dat:f	nazwa pospolita	
+ćakry	ćakra	subst:pl:acc:f	nazwa pospolita	
+ćakry	ćakra	subst:pl:nom:f	nazwa pospolita	
+ćakry	ćakra	subst:pl:voc:f	nazwa pospolita	
+ćakry	ćakra	subst:sg:gen:f	nazwa pospolita	
+ćakrze	ćakra	subst:sg:dat:f	nazwa pospolita	
+ćakrze	ćakra	subst:sg:loc:f	nazwa pospolita	
 ćkacie	ćkać	fin:pl:sec:imperf		
 ćkać	ćkać	inf:imperf		
 ćka	ćkać	fin:sg:ter:imperf		
@@ -24,6 +24,7 @@
 ćkającego	ćkać	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćkającej	ćkać	pact:sg:gen.dat.loc:f:imperf:aff		
 ćkającemu	ćkać	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćkająco	ćkać	pacta		
 ćkających	ćkać	pact:pl:acc:m1.p1:imperf:aff		
 ćkających	ćkać	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćkający	ćkać	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -100,33 +101,33 @@
 ćkanymi	ćkać	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćkań	ćkać	ger:pl:gen:n2:imperf:aff		
 ćkasz	ćkać	fin:sg:sec:imperf		
-ćmach	ćma	subst:pl:loc:f	pospolita	
-ćma	ćma	subst:sg:nom:f	pospolita	
-ćmami	ćma	subst:pl:inst:f	pospolita	
-ćmą	ćma	subst:sg:inst:f	pospolita	
-ćmę	ćma	subst:sg:acc:f	pospolita	
-ćmie	ćma	subst:sg:dat:f	pospolita	
-ćmie	ćma	subst:sg:loc:f	pospolita	
-ćmo	ćma	subst:sg:voc:f	pospolita	
-ćmom	ćma	subst:pl:dat:f	pospolita	
-ćmy	ćma	subst:pl:acc:f	pospolita	
-ćmy	ćma	subst:pl:nom:f	pospolita	
-ćmy	ćma	subst:pl:voc:f	pospolita	
-ćmy	ćma	subst:sg:gen:f	pospolita	
-ćmawościach	ćmawość	subst:pl:loc:f		
-ćmawościami	ćmawość	subst:pl:inst:f		
-ćmawością	ćmawość	subst:sg:inst:f		
-ćmawości	ćmawość	subst:pl:acc:f		
-ćmawości	ćmawość	subst:pl:gen:f		
-ćmawości	ćmawość	subst:pl:nom:f		
-ćmawości	ćmawość	subst:pl:voc:f		
-ćmawości	ćmawość	subst:sg:dat:f		
-ćmawości	ćmawość	subst:sg:gen:f		
-ćmawości	ćmawość	subst:sg:loc:f		
-ćmawości	ćmawość	subst:sg:voc:f		
-ćmawościom	ćmawość	subst:pl:dat:f		
-ćmawość	ćmawość	subst:sg:acc:f		
-ćmawość	ćmawość	subst:sg:nom:f		
+ćmach	ćma	subst:pl:loc:f	nazwa pospolita	
+ćma	ćma	subst:sg:nom:f	nazwa pospolita	
+ćmami	ćma	subst:pl:inst:f	nazwa pospolita	
+ćmą	ćma	subst:sg:inst:f	nazwa pospolita	
+ćmę	ćma	subst:sg:acc:f	nazwa pospolita	
+ćmie	ćma	subst:sg:dat:f	nazwa pospolita	
+ćmie	ćma	subst:sg:loc:f	nazwa pospolita	
+ćmo	ćma	subst:sg:voc:f	nazwa pospolita	
+ćmom	ćma	subst:pl:dat:f	nazwa pospolita	
+ćmy	ćma	subst:pl:acc:f	nazwa pospolita	
+ćmy	ćma	subst:pl:nom:f	nazwa pospolita	
+ćmy	ćma	subst:pl:voc:f	nazwa pospolita	
+ćmy	ćma	subst:sg:gen:f	nazwa pospolita	
+ćmawościach	ćmawość	subst:pl:loc:f	nazwa pospolita	
+ćmawościami	ćmawość	subst:pl:inst:f	nazwa pospolita	
+ćmawością	ćmawość	subst:sg:inst:f	nazwa pospolita	
+ćmawości	ćmawość	subst:pl:acc:f	nazwa pospolita	
+ćmawości	ćmawość	subst:pl:gen:f	nazwa pospolita	
+ćmawości	ćmawość	subst:pl:nom:f	nazwa pospolita	
+ćmawości	ćmawość	subst:pl:voc:f	nazwa pospolita	
+ćmawości	ćmawość	subst:sg:dat:f	nazwa pospolita	
+ćmawości	ćmawość	subst:sg:gen:f	nazwa pospolita	
+ćmawości	ćmawość	subst:sg:loc:f	nazwa pospolita	
+ćmawości	ćmawość	subst:sg:voc:f	nazwa pospolita	
+ćmawościom	ćmawość	subst:pl:dat:f	nazwa pospolita	
+ćmawość	ćmawość	subst:sg:acc:f	nazwa pospolita	
+ćmawość	ćmawość	subst:sg:nom:f	nazwa pospolita	
 ćmawa	ćmawy	adj:sg:nom.voc:f:pos		
 ćmawą	ćmawy	adj:sg:acc:f:pos		
 ćmawą	ćmawy	adj:sg:inst:f:pos		
@@ -184,6 +185,7 @@
 ćmiącego	ćmić:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćmiącej	ćmić:v1	pact:sg:gen.dat.loc:f:imperf:aff		
 ćmiącemu	ćmić:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćmiąco	ćmić:v1	pacta		
 ćmiących	ćmić:v1	pact:pl:acc:m1.p1:imperf:aff		
 ćmiących	ćmić:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćmiący	ćmić:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -294,34 +296,34 @@
 ćmielowsko	ćmielowski	adja		
 ćmielowsku	ćmielowski	adjp		
 ćmielowsko	ćmielowsko	adv:pos		
-ćmielowskościach	ćmielowskość	subst:pl:loc:f		
-ćmielowskościami	ćmielowskość	subst:pl:inst:f		
-ćmielowskością	ćmielowskość	subst:sg:inst:f		
-ćmielowskości	ćmielowskość	subst:pl:acc:f		
-ćmielowskości	ćmielowskość	subst:pl:gen:f		
-ćmielowskości	ćmielowskość	subst:pl:nom:f		
-ćmielowskości	ćmielowskość	subst:pl:voc:f		
-ćmielowskości	ćmielowskość	subst:sg:dat:f		
-ćmielowskości	ćmielowskość	subst:sg:gen:f		
-ćmielowskości	ćmielowskość	subst:sg:loc:f		
-ćmielowskości	ćmielowskość	subst:sg:voc:f		
-ćmielowskościom	ćmielowskość	subst:pl:dat:f		
-ćmielowskość	ćmielowskość	subst:sg:acc:f		
-ćmielowskość	ćmielowskość	subst:sg:nom:f		
-ćmokach	ćmok	subst:pl:loc:m2	pospolita	
-ćmoka	ćmok	subst:sg:acc:m2	pospolita	
-ćmoka	ćmok	subst:sg:gen:m2	pospolita	
-ćmokami	ćmok	subst:pl:inst:m2	pospolita	
-ćmok	ćmok	subst:sg:nom:m2	pospolita	
-ćmoki	ćmok	subst:pl:acc:m2	pospolita	
-ćmoki	ćmok	subst:pl:nom:m2	pospolita	
-ćmoki	ćmok	subst:pl:voc:m2	pospolita	
-ćmokiem	ćmok	subst:sg:inst:m2	pospolita	
-ćmokom	ćmok	subst:pl:dat:m2	pospolita	
-ćmokowi	ćmok	subst:sg:dat:m2	pospolita	
-ćmoków	ćmok	subst:pl:gen:m2	pospolita	
-ćmoku	ćmok	subst:sg:loc:m2	pospolita	
-ćmoku	ćmok	subst:sg:voc:m2	pospolita	
+ćmielowskościach	ćmielowskość	subst:pl:loc:f	nazwa pospolita	
+ćmielowskościami	ćmielowskość	subst:pl:inst:f	nazwa pospolita	
+ćmielowskością	ćmielowskość	subst:sg:inst:f	nazwa pospolita	
+ćmielowskości	ćmielowskość	subst:pl:acc:f	nazwa pospolita	
+ćmielowskości	ćmielowskość	subst:pl:gen:f	nazwa pospolita	
+ćmielowskości	ćmielowskość	subst:pl:nom:f	nazwa pospolita	
+ćmielowskości	ćmielowskość	subst:pl:voc:f	nazwa pospolita	
+ćmielowskości	ćmielowskość	subst:sg:dat:f	nazwa pospolita	
+ćmielowskości	ćmielowskość	subst:sg:gen:f	nazwa pospolita	
+ćmielowskości	ćmielowskość	subst:sg:loc:f	nazwa pospolita	
+ćmielowskości	ćmielowskość	subst:sg:voc:f	nazwa pospolita	
+ćmielowskościom	ćmielowskość	subst:pl:dat:f	nazwa pospolita	
+ćmielowskość	ćmielowskość	subst:sg:acc:f	nazwa pospolita	
+ćmielowskość	ćmielowskość	subst:sg:nom:f	nazwa pospolita	
+ćmokach	ćmok	subst:pl:loc:m2	nazwa pospolita	
+ćmoka	ćmok	subst:sg:acc:m2	nazwa pospolita	
+ćmoka	ćmok	subst:sg:gen:m2	nazwa pospolita	
+ćmokami	ćmok	subst:pl:inst:m2	nazwa pospolita	
+ćmok	ćmok	subst:sg:nom:m2	nazwa pospolita	
+ćmoki	ćmok	subst:pl:acc:m2	nazwa pospolita	
+ćmoki	ćmok	subst:pl:nom:m2	nazwa pospolita	
+ćmoki	ćmok	subst:pl:voc:m2	nazwa pospolita	
+ćmokiem	ćmok	subst:sg:inst:m2	nazwa pospolita	
+ćmokom	ćmok	subst:pl:dat:m2	nazwa pospolita	
+ćmokowi	ćmok	subst:sg:dat:m2	nazwa pospolita	
+ćmoków	ćmok	subst:pl:gen:m2	nazwa pospolita	
+ćmoku	ćmok	subst:sg:loc:m2	nazwa pospolita	
+ćmoku	ćmok	subst:sg:voc:m2	nazwa pospolita	
 ćmokacie	ćmokać	fin:pl:sec:imperf		
 ćmokać	ćmokać	inf:imperf		
 ćmoka	ćmokać	fin:sg:ter:imperf		
@@ -334,6 +336,7 @@
 ćmokającego	ćmokać	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćmokającej	ćmokać	pact:sg:gen.dat.loc:f:imperf:aff		
 ćmokającemu	ćmokać	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćmokająco	ćmokać	pacta		
 ćmokających	ćmokać	pact:pl:acc:m1.p1:imperf:aff		
 ćmokających	ćmokać	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćmokający	ćmokać	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -506,24 +509,24 @@
 ćmym	ćmy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ćmym	ćmy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ćmymi	ćmy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ćpaczach	ćpacz	subst:pl:loc:m1	pospolita	pot.
-ćpacza	ćpacz	subst:sg:acc:m1	pospolita	pot.
-ćpacza	ćpacz	subst:sg:gen:m1	pospolita	pot.
-ćpaczami	ćpacz	subst:pl:inst:m1	pospolita	pot.
-ćpacz	ćpacz	subst:sg:nom:m1	pospolita	pot.
-ćpacze	ćpacz	depr:pl:nom:m2	pospolita	pot.
-ćpacze	ćpacz	depr:pl:voc:m2	pospolita	pot.
-ćpacze	ćpacz	subst:pl:nom:m1	pospolita	pot.
-ćpacze	ćpacz	subst:pl:voc:m1	pospolita	pot.
-ćpaczem	ćpacz	subst:sg:inst:m1	pospolita	pot.
-ćpaczom	ćpacz	subst:pl:dat:m1	pospolita	pot.
-ćpaczowi	ćpacz	subst:sg:dat:m1	pospolita	pot.
-ćpaczów	ćpacz	subst:pl:acc:m1	pospolita	pot.
-ćpaczów	ćpacz	subst:pl:gen:m1	pospolita	pot.
-ćpaczu	ćpacz	subst:sg:loc:m1	pospolita	pot.
-ćpaczu	ćpacz	subst:sg:voc:m1	pospolita	pot.
-ćpaczy	ćpacz	subst:pl:acc:m1	pospolita	pot.
-ćpaczy	ćpacz	subst:pl:gen:m1	pospolita	pot.
+ćpaczach	ćpacz	subst:pl:loc:m1	nazwa pospolita	pot.
+ćpacza	ćpacz	subst:sg:acc:m1	nazwa pospolita	pot.
+ćpacza	ćpacz	subst:sg:gen:m1	nazwa pospolita	pot.
+ćpaczami	ćpacz	subst:pl:inst:m1	nazwa pospolita	pot.
+ćpacz	ćpacz	subst:sg:nom:m1	nazwa pospolita	pot.
+ćpacze	ćpacz	depr:pl:nom:m2	nazwa pospolita	pot.
+ćpacze	ćpacz	depr:pl:voc:m2	nazwa pospolita	pot.
+ćpacze	ćpacz	subst:pl:nom:m1	nazwa pospolita	pot.
+ćpacze	ćpacz	subst:pl:voc:m1	nazwa pospolita	pot.
+ćpaczem	ćpacz	subst:sg:inst:m1	nazwa pospolita	pot.
+ćpaczom	ćpacz	subst:pl:dat:m1	nazwa pospolita	pot.
+ćpaczowi	ćpacz	subst:sg:dat:m1	nazwa pospolita	pot.
+ćpaczów	ćpacz	subst:pl:acc:m1	nazwa pospolita	pot.
+ćpaczów	ćpacz	subst:pl:gen:m1	nazwa pospolita	pot.
+ćpaczu	ćpacz	subst:sg:loc:m1	nazwa pospolita	pot.
+ćpaczu	ćpacz	subst:sg:voc:m1	nazwa pospolita	pot.
+ćpaczy	ćpacz	subst:pl:acc:m1	nazwa pospolita	pot.
+ćpaczy	ćpacz	subst:pl:gen:m1	nazwa pospolita	pot.
 ćpacie	ćpać	fin:pl:sec:imperf		
 ćpać	ćpać	inf:imperf		
 ćpa	ćpać	fin:sg:ter:imperf		
@@ -536,6 +539,7 @@
 ćpającego	ćpać	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćpającej	ćpać	pact:sg:gen.dat.loc:f:imperf:aff		
 ćpającemu	ćpać	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćpająco	ćpać	pacta		
 ćpających	ćpać	pact:pl:acc:m1.p1:imperf:aff		
 ćpających	ćpać	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćpający	ćpać	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -596,20 +600,20 @@
 ćpano	ćpać	imps:imperf		
 ćpań	ćpać	ger:pl:gen:n2:imperf:aff		
 ćpasz	ćpać	fin:sg:sec:imperf		
-ćpalniczościach	ćpalniczość	subst:pl:loc:f		
-ćpalniczościami	ćpalniczość	subst:pl:inst:f		
-ćpalniczością	ćpalniczość	subst:sg:inst:f		
-ćpalniczości	ćpalniczość	subst:pl:acc:f		
-ćpalniczości	ćpalniczość	subst:pl:gen:f		
-ćpalniczości	ćpalniczość	subst:pl:nom:f		
-ćpalniczości	ćpalniczość	subst:pl:voc:f		
-ćpalniczości	ćpalniczość	subst:sg:dat:f		
-ćpalniczości	ćpalniczość	subst:sg:gen:f		
-ćpalniczości	ćpalniczość	subst:sg:loc:f		
-ćpalniczości	ćpalniczość	subst:sg:voc:f		
-ćpalniczościom	ćpalniczość	subst:pl:dat:f		
-ćpalniczość	ćpalniczość	subst:sg:acc:f		
-ćpalniczość	ćpalniczość	subst:sg:nom:f		
+ćpalniczościach	ćpalniczość	subst:pl:loc:f	nazwa pospolita	
+ćpalniczościami	ćpalniczość	subst:pl:inst:f	nazwa pospolita	
+ćpalniczością	ćpalniczość	subst:sg:inst:f	nazwa pospolita	
+ćpalniczości	ćpalniczość	subst:pl:acc:f	nazwa pospolita	
+ćpalniczości	ćpalniczość	subst:pl:gen:f	nazwa pospolita	
+ćpalniczości	ćpalniczość	subst:pl:nom:f	nazwa pospolita	
+ćpalniczości	ćpalniczość	subst:pl:voc:f	nazwa pospolita	
+ćpalniczości	ćpalniczość	subst:sg:dat:f	nazwa pospolita	
+ćpalniczości	ćpalniczość	subst:sg:gen:f	nazwa pospolita	
+ćpalniczości	ćpalniczość	subst:sg:loc:f	nazwa pospolita	
+ćpalniczości	ćpalniczość	subst:sg:voc:f	nazwa pospolita	
+ćpalniczościom	ćpalniczość	subst:pl:dat:f	nazwa pospolita	
+ćpalniczość	ćpalniczość	subst:sg:acc:f	nazwa pospolita	
+ćpalniczość	ćpalniczość	subst:sg:nom:f	nazwa pospolita	
 ćpalnicza	ćpalniczy	adj:sg:nom.voc:f:pos		
 ćpalniczą	ćpalniczy	adj:sg:acc:f:pos		
 ćpalniczą	ćpalniczy	adj:sg:inst:f:pos		
@@ -634,36 +638,36 @@
 ćpalniczym	ćpalniczy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ćpalniczym	ćpalniczy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ćpalniczymi	ćpalniczy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ćpunach	ćpun	subst:pl:loc:m1	pospolita	pot.
-ćpuna	ćpun	subst:sg:acc:m1	pospolita	pot.
-ćpuna	ćpun	subst:sg:gen:m1	pospolita	pot.
-ćpunami	ćpun	subst:pl:inst:m1	pospolita	pot.
-ćpun	ćpun	subst:sg:nom:m1	pospolita	pot.
-ćpunem	ćpun	subst:sg:inst:m1	pospolita	pot.
-ćpuni	ćpun	subst:pl:nom:m1	pospolita	pot.
-ćpuni	ćpun	subst:pl:voc:m1	pospolita	pot.
-ćpunie	ćpun	subst:sg:loc:m1	pospolita	pot.
-ćpunie	ćpun	subst:sg:voc:m1	pospolita	pot.
-ćpunom	ćpun	subst:pl:dat:m1	pospolita	pot.
-ćpunowi	ćpun	subst:sg:dat:m1	pospolita	pot.
-ćpunów	ćpun	subst:pl:acc:m1	pospolita	pot.
-ćpunów	ćpun	subst:pl:gen:m1	pospolita	pot.
-ćpuny	ćpun	depr:pl:nom:m2	pospolita	pot.
-ćpuny	ćpun	depr:pl:voc:m2	pospolita	pot.
-ćpunce	ćpunka	subst:sg:dat:f	pospolita	
-ćpunce	ćpunka	subst:sg:loc:f	pospolita	
-ćpunek	ćpunka	subst:pl:gen:f	pospolita	
-ćpunkach	ćpunka	subst:pl:loc:f	pospolita	
-ćpunka	ćpunka	subst:sg:nom:f	pospolita	
-ćpunkami	ćpunka	subst:pl:inst:f	pospolita	
-ćpunką	ćpunka	subst:sg:inst:f	pospolita	
-ćpunkę	ćpunka	subst:sg:acc:f	pospolita	
-ćpunki	ćpunka	subst:pl:acc:f	pospolita	
-ćpunki	ćpunka	subst:pl:nom:f	pospolita	
-ćpunki	ćpunka	subst:pl:voc:f	pospolita	
-ćpunki	ćpunka	subst:sg:gen:f	pospolita	
-ćpunko	ćpunka	subst:sg:voc:f	pospolita	
-ćpunkom	ćpunka	subst:pl:dat:f	pospolita	
+ćpunach	ćpun	subst:pl:loc:m1	nazwa pospolita	pot.
+ćpuna	ćpun	subst:sg:acc:m1	nazwa pospolita	pot.
+ćpuna	ćpun	subst:sg:gen:m1	nazwa pospolita	pot.
+ćpunami	ćpun	subst:pl:inst:m1	nazwa pospolita	pot.
+ćpun	ćpun	subst:sg:nom:m1	nazwa pospolita	pot.
+ćpunem	ćpun	subst:sg:inst:m1	nazwa pospolita	pot.
+ćpuni	ćpun	subst:pl:nom:m1	nazwa pospolita	pot.
+ćpuni	ćpun	subst:pl:voc:m1	nazwa pospolita	pot.
+ćpunie	ćpun	subst:sg:loc:m1	nazwa pospolita	pot.
+ćpunie	ćpun	subst:sg:voc:m1	nazwa pospolita	pot.
+ćpunom	ćpun	subst:pl:dat:m1	nazwa pospolita	pot.
+ćpunowi	ćpun	subst:sg:dat:m1	nazwa pospolita	pot.
+ćpunów	ćpun	subst:pl:acc:m1	nazwa pospolita	pot.
+ćpunów	ćpun	subst:pl:gen:m1	nazwa pospolita	pot.
+ćpuny	ćpun	depr:pl:nom:m2	nazwa pospolita	pot.
+ćpuny	ćpun	depr:pl:voc:m2	nazwa pospolita	pot.
+ćpunce	ćpunka	subst:sg:dat:f	nazwa pospolita	
+ćpunce	ćpunka	subst:sg:loc:f	nazwa pospolita	
+ćpunek	ćpunka	subst:pl:gen:f	nazwa pospolita	
+ćpunkach	ćpunka	subst:pl:loc:f	nazwa pospolita	
+ćpunka	ćpunka	subst:sg:nom:f	nazwa pospolita	
+ćpunkami	ćpunka	subst:pl:inst:f	nazwa pospolita	
+ćpunką	ćpunka	subst:sg:inst:f	nazwa pospolita	
+ćpunkę	ćpunka	subst:sg:acc:f	nazwa pospolita	
+ćpunki	ćpunka	subst:pl:acc:f	nazwa pospolita	
+ćpunki	ćpunka	subst:pl:nom:f	nazwa pospolita	
+ćpunki	ćpunka	subst:pl:voc:f	nazwa pospolita	
+ćpunki	ćpunka	subst:sg:gen:f	nazwa pospolita	
+ćpunko	ćpunka	subst:sg:voc:f	nazwa pospolita	
+ćpunkom	ćpunka	subst:pl:dat:f	nazwa pospolita	
 ćpuńscy	ćpuński	adj:pl:nom.voc:m1.p1:pos		pot.
 ćpuńska	ćpuński	adj:sg:nom.voc:f:pos		pot.
 ćpuńską	ćpuński	adj:sg:acc:f:pos		pot.
@@ -690,48 +694,48 @@
 ćpuńsko	ćpuński	adja		pot.
 ćpuńsku	ćpuński	adjp		pot.
 ćpuńsko	ćpuńsko	adv:pos		
-ćpuńskościach	ćpuńskość	subst:pl:loc:f		pot.
-ćpuńskościami	ćpuńskość	subst:pl:inst:f		pot.
-ćpuńskością	ćpuńskość	subst:sg:inst:f		pot.
-ćpuńskości	ćpuńskość	subst:pl:acc:f		pot.
-ćpuńskości	ćpuńskość	subst:pl:gen:f		pot.
-ćpuńskości	ćpuńskość	subst:pl:nom:f		pot.
-ćpuńskości	ćpuńskość	subst:pl:voc:f		pot.
-ćpuńskości	ćpuńskość	subst:sg:dat:f		pot.
-ćpuńskości	ćpuńskość	subst:sg:gen:f		pot.
-ćpuńskości	ćpuńskość	subst:sg:loc:f		pot.
-ćpuńskości	ćpuńskość	subst:sg:voc:f		pot.
-ćpuńskościom	ćpuńskość	subst:pl:dat:f		pot.
-ćpuńskość	ćpuńskość	subst:sg:acc:f		pot.
-ćpuńskość	ćpuńskość	subst:sg:nom:f		pot.
-ćwiarteczce	ćwiarteczka	subst:sg:dat:f	pospolita	
-ćwiarteczce	ćwiarteczka	subst:sg:loc:f	pospolita	
-ćwiarteczek	ćwiarteczka	subst:pl:gen:f	pospolita	
-ćwiarteczkach	ćwiarteczka	subst:pl:loc:f	pospolita	
-ćwiarteczka	ćwiarteczka	subst:sg:nom:f	pospolita	
-ćwiarteczkami	ćwiarteczka	subst:pl:inst:f	pospolita	
-ćwiarteczką	ćwiarteczka	subst:sg:inst:f	pospolita	
-ćwiarteczkę	ćwiarteczka	subst:sg:acc:f	pospolita	
-ćwiarteczki	ćwiarteczka	subst:pl:acc:f	pospolita	
-ćwiarteczki	ćwiarteczka	subst:pl:nom:f	pospolita	
-ćwiarteczki	ćwiarteczka	subst:pl:voc:f	pospolita	
-ćwiarteczki	ćwiarteczka	subst:sg:gen:f	pospolita	
-ćwiarteczko	ćwiarteczka	subst:sg:voc:f	pospolita	
-ćwiarteczkom	ćwiarteczka	subst:pl:dat:f	pospolita	
-ćwiartce	ćwiartka	subst:sg:dat:f	pospolita	
-ćwiartce	ćwiartka	subst:sg:loc:f	pospolita	
-ćwiartek	ćwiartka	subst:pl:gen:f	pospolita	
-ćwiartkach	ćwiartka	subst:pl:loc:f	pospolita	
-ćwiartka	ćwiartka	subst:sg:nom:f	pospolita	
-ćwiartkami	ćwiartka	subst:pl:inst:f	pospolita	
-ćwiartką	ćwiartka	subst:sg:inst:f	pospolita	
-ćwiartkę	ćwiartka	subst:sg:acc:f	pospolita	
-ćwiartki	ćwiartka	subst:pl:acc:f	pospolita	
-ćwiartki	ćwiartka	subst:pl:nom:f	pospolita	
-ćwiartki	ćwiartka	subst:pl:voc:f	pospolita	
-ćwiartki	ćwiartka	subst:sg:gen:f	pospolita	
-ćwiartko	ćwiartka	subst:sg:voc:f	pospolita	
-ćwiartkom	ćwiartka	subst:pl:dat:f	pospolita	
+ćpuńskościach	ćpuńskość	subst:pl:loc:f	nazwa pospolita	pot.
+ćpuńskościami	ćpuńskość	subst:pl:inst:f	nazwa pospolita	pot.
+ćpuńskością	ćpuńskość	subst:sg:inst:f	nazwa pospolita	pot.
+ćpuńskości	ćpuńskość	subst:pl:acc:f	nazwa pospolita	pot.
+ćpuńskości	ćpuńskość	subst:pl:gen:f	nazwa pospolita	pot.
+ćpuńskości	ćpuńskość	subst:pl:nom:f	nazwa pospolita	pot.
+ćpuńskości	ćpuńskość	subst:pl:voc:f	nazwa pospolita	pot.
+ćpuńskości	ćpuńskość	subst:sg:dat:f	nazwa pospolita	pot.
+ćpuńskości	ćpuńskość	subst:sg:gen:f	nazwa pospolita	pot.
+ćpuńskości	ćpuńskość	subst:sg:loc:f	nazwa pospolita	pot.
+ćpuńskości	ćpuńskość	subst:sg:voc:f	nazwa pospolita	pot.
+ćpuńskościom	ćpuńskość	subst:pl:dat:f	nazwa pospolita	pot.
+ćpuńskość	ćpuńskość	subst:sg:acc:f	nazwa pospolita	pot.
+ćpuńskość	ćpuńskość	subst:sg:nom:f	nazwa pospolita	pot.
+ćwiarteczce	ćwiarteczka	subst:sg:dat:f	nazwa pospolita	
+ćwiarteczce	ćwiarteczka	subst:sg:loc:f	nazwa pospolita	
+ćwiarteczek	ćwiarteczka	subst:pl:gen:f	nazwa pospolita	
+ćwiarteczkach	ćwiarteczka	subst:pl:loc:f	nazwa pospolita	
+ćwiarteczka	ćwiarteczka	subst:sg:nom:f	nazwa pospolita	
+ćwiarteczkami	ćwiarteczka	subst:pl:inst:f	nazwa pospolita	
+ćwiarteczką	ćwiarteczka	subst:sg:inst:f	nazwa pospolita	
+ćwiarteczkę	ćwiarteczka	subst:sg:acc:f	nazwa pospolita	
+ćwiarteczki	ćwiarteczka	subst:pl:acc:f	nazwa pospolita	
+ćwiarteczki	ćwiarteczka	subst:pl:nom:f	nazwa pospolita	
+ćwiarteczki	ćwiarteczka	subst:pl:voc:f	nazwa pospolita	
+ćwiarteczki	ćwiarteczka	subst:sg:gen:f	nazwa pospolita	
+ćwiarteczko	ćwiarteczka	subst:sg:voc:f	nazwa pospolita	
+ćwiarteczkom	ćwiarteczka	subst:pl:dat:f	nazwa pospolita	
+ćwiartce	ćwiartka	subst:sg:dat:f	nazwa pospolita	
+ćwiartce	ćwiartka	subst:sg:loc:f	nazwa pospolita	
+ćwiartek	ćwiartka	subst:pl:gen:f	nazwa pospolita	
+ćwiartkach	ćwiartka	subst:pl:loc:f	nazwa pospolita	
+ćwiartka	ćwiartka	subst:sg:nom:f	nazwa pospolita	
+ćwiartkami	ćwiartka	subst:pl:inst:f	nazwa pospolita	
+ćwiartką	ćwiartka	subst:sg:inst:f	nazwa pospolita	
+ćwiartkę	ćwiartka	subst:sg:acc:f	nazwa pospolita	
+ćwiartki	ćwiartka	subst:pl:acc:f	nazwa pospolita	
+ćwiartki	ćwiartka	subst:pl:nom:f	nazwa pospolita	
+ćwiartki	ćwiartka	subst:pl:voc:f	nazwa pospolita	
+ćwiartki	ćwiartka	subst:sg:gen:f	nazwa pospolita	
+ćwiartko	ćwiartka	subst:sg:voc:f	nazwa pospolita	
+ćwiartkom	ćwiartka	subst:pl:dat:f	nazwa pospolita	
 ćwiartkować	ćwiartkować	inf:imperf		rzad.
 ćwiartkowaliby	ćwiartkować	cond:pl:m1.p1:ter:imperf		rzad.
 ćwiartkowalibyście	ćwiartkować	cond:pl:m1.p1:sec:imperf		rzad.
@@ -803,6 +807,7 @@
 ćwiartkującego	ćwiartkować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwiartkującej	ćwiartkować	pact:sg:gen.dat.loc:f:imperf:aff		
 ćwiartkującemu	ćwiartkować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwiartkująco	ćwiartkować	pacta		
 ćwiartkujących	ćwiartkować	pact:pl:acc:m1.p1:imperf:aff		
 ćwiartkujących	ćwiartkować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćwiartkujący	ćwiartkować	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -820,20 +825,20 @@
 ćwiartkujesz	ćwiartkować	fin:sg:sec:imperf		rzad.
 ćwiartkuję	ćwiartkować	fin:sg:pri:imperf		rzad.
 ćwiartkujmy	ćwiartkować	impt:pl:pri:imperf		rzad.
-ćwiartkowościach	ćwiartkowość	subst:pl:loc:f		
-ćwiartkowościami	ćwiartkowość	subst:pl:inst:f		
-ćwiartkowością	ćwiartkowość	subst:sg:inst:f		
-ćwiartkowości	ćwiartkowość	subst:pl:acc:f		
-ćwiartkowości	ćwiartkowość	subst:pl:gen:f		
-ćwiartkowości	ćwiartkowość	subst:pl:nom:f		
-ćwiartkowości	ćwiartkowość	subst:pl:voc:f		
-ćwiartkowości	ćwiartkowość	subst:sg:dat:f		
-ćwiartkowości	ćwiartkowość	subst:sg:gen:f		
-ćwiartkowości	ćwiartkowość	subst:sg:loc:f		
-ćwiartkowości	ćwiartkowość	subst:sg:voc:f		
-ćwiartkowościom	ćwiartkowość	subst:pl:dat:f		
-ćwiartkowość	ćwiartkowość	subst:sg:acc:f		
-ćwiartkowość	ćwiartkowość	subst:sg:nom:f		
+ćwiartkowościach	ćwiartkowość	subst:pl:loc:f	nazwa pospolita	
+ćwiartkowościami	ćwiartkowość	subst:pl:inst:f	nazwa pospolita	
+ćwiartkowością	ćwiartkowość	subst:sg:inst:f	nazwa pospolita	
+ćwiartkowości	ćwiartkowość	subst:pl:acc:f	nazwa pospolita	
+ćwiartkowości	ćwiartkowość	subst:pl:gen:f	nazwa pospolita	
+ćwiartkowości	ćwiartkowość	subst:pl:nom:f	nazwa pospolita	
+ćwiartkowości	ćwiartkowość	subst:pl:voc:f	nazwa pospolita	
+ćwiartkowości	ćwiartkowość	subst:sg:dat:f	nazwa pospolita	
+ćwiartkowości	ćwiartkowość	subst:sg:gen:f	nazwa pospolita	
+ćwiartkowości	ćwiartkowość	subst:sg:loc:f	nazwa pospolita	
+ćwiartkowości	ćwiartkowość	subst:sg:voc:f	nazwa pospolita	
+ćwiartkowościom	ćwiartkowość	subst:pl:dat:f	nazwa pospolita	
+ćwiartkowość	ćwiartkowość	subst:sg:acc:f	nazwa pospolita	
+ćwiartkowość	ćwiartkowość	subst:sg:nom:f	nazwa pospolita	
 ćwiartkowa	ćwiartkowy	adj:sg:nom.voc:f:pos		
 ćwiartkową	ćwiartkowy	adj:sg:acc:f:pos		
 ćwiartkową	ćwiartkowy	adj:sg:inst:f:pos		
@@ -929,6 +934,7 @@
 ćwiartującego	ćwiartować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwiartującej	ćwiartować	pact:sg:gen.dat.loc:f:imperf:aff		
 ćwiartującemu	ćwiartować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwiartująco	ćwiartować	pacta		
 ćwiartujących	ćwiartować	pact:pl:acc:m1.p1:imperf:aff		
 ćwiartujących	ćwiartować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćwiartujący	ćwiartować	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -946,49 +952,49 @@
 ćwiartujesz	ćwiartować	fin:sg:sec:imperf		
 ćwiartuję	ćwiartować	fin:sg:pri:imperf		
 ćwiartujmy	ćwiartować	impt:pl:pri:imperf		
-ćwiartówce	ćwiartówka	subst:sg:dat:f	pospolita	
-ćwiartówce	ćwiartówka	subst:sg:loc:f	pospolita	
-ćwiartówek	ćwiartówka	subst:pl:gen:f	pospolita	
-ćwiartówkach	ćwiartówka	subst:pl:loc:f	pospolita	
-ćwiartówka	ćwiartówka	subst:sg:nom:f	pospolita	
-ćwiartówkami	ćwiartówka	subst:pl:inst:f	pospolita	
-ćwiartówką	ćwiartówka	subst:sg:inst:f	pospolita	
-ćwiartówkę	ćwiartówka	subst:sg:acc:f	pospolita	
-ćwiartówki	ćwiartówka	subst:pl:acc:f	pospolita	
-ćwiartówki	ćwiartówka	subst:pl:nom:f	pospolita	
-ćwiartówki	ćwiartówka	subst:pl:voc:f	pospolita	
-ćwiartówki	ćwiartówka	subst:sg:gen:f	pospolita	
-ćwiartówko	ćwiartówka	subst:sg:voc:f	pospolita	
-ćwiartówkom	ćwiartówka	subst:pl:dat:f	pospolita	
-ćwiartuchen	ćwiartuchna	subst:pl:gen:f	pospolita	
-ćwiartuchnach	ćwiartuchna	subst:pl:loc:f	pospolita	
-ćwiartuchna	ćwiartuchna	subst:sg:nom:f	pospolita	
-ćwiartuchnami	ćwiartuchna	subst:pl:inst:f	pospolita	
-ćwiartuchną	ćwiartuchna	subst:sg:inst:f	pospolita	
-ćwiartuchnę	ćwiartuchna	subst:sg:acc:f	pospolita	
-ćwiartuchnie	ćwiartuchna	subst:sg:dat:f	pospolita	
-ćwiartuchnie	ćwiartuchna	subst:sg:loc:f	pospolita	
-ćwiartuchno	ćwiartuchna	subst:sg:voc:f	pospolita	
-ćwiartuchnom	ćwiartuchna	subst:pl:dat:f	pospolita	
-ćwiartuchny	ćwiartuchna	subst:pl:acc:f	pospolita	
-ćwiartuchny	ćwiartuchna	subst:pl:nom:f	pospolita	
-ćwiartuchny	ćwiartuchna	subst:pl:voc:f	pospolita	
-ćwiartuchny	ćwiartuchna	subst:sg:gen:f	pospolita	
-ćwiartulach	ćwiartula	subst:pl:loc:f	pospolita	
-ćwiartula	ćwiartula	subst:sg:nom:f	pospolita	
-ćwiartulami	ćwiartula	subst:pl:inst:f	pospolita	
-ćwiartulą	ćwiartula	subst:sg:inst:f	pospolita	
-ćwiartul	ćwiartula	subst:pl:gen:f	pospolita	char.
-ćwiartule	ćwiartula	subst:pl:acc:f	pospolita	
-ćwiartule	ćwiartula	subst:pl:nom:f	pospolita	
-ćwiartule	ćwiartula	subst:pl:voc:f	pospolita	
-ćwiartulę	ćwiartula	subst:sg:acc:f	pospolita	
-ćwiartuli	ćwiartula	subst:pl:gen:f	pospolita	hom.
-ćwiartuli	ćwiartula	subst:sg:dat:f	pospolita	
-ćwiartuli	ćwiartula	subst:sg:gen:f	pospolita	
-ćwiartuli	ćwiartula	subst:sg:loc:f	pospolita	
-ćwiartulo	ćwiartula	subst:sg:voc:f	pospolita	
-ćwiartulom	ćwiartula	subst:pl:dat:f	pospolita	
+ćwiartówce	ćwiartówka	subst:sg:dat:f	nazwa pospolita	
+ćwiartówce	ćwiartówka	subst:sg:loc:f	nazwa pospolita	
+ćwiartówek	ćwiartówka	subst:pl:gen:f	nazwa pospolita	
+ćwiartówkach	ćwiartówka	subst:pl:loc:f	nazwa pospolita	
+ćwiartówka	ćwiartówka	subst:sg:nom:f	nazwa pospolita	
+ćwiartówkami	ćwiartówka	subst:pl:inst:f	nazwa pospolita	
+ćwiartówką	ćwiartówka	subst:sg:inst:f	nazwa pospolita	
+ćwiartówkę	ćwiartówka	subst:sg:acc:f	nazwa pospolita	
+ćwiartówki	ćwiartówka	subst:pl:acc:f	nazwa pospolita	
+ćwiartówki	ćwiartówka	subst:pl:nom:f	nazwa pospolita	
+ćwiartówki	ćwiartówka	subst:pl:voc:f	nazwa pospolita	
+ćwiartówki	ćwiartówka	subst:sg:gen:f	nazwa pospolita	
+ćwiartówko	ćwiartówka	subst:sg:voc:f	nazwa pospolita	
+ćwiartówkom	ćwiartówka	subst:pl:dat:f	nazwa pospolita	
+ćwiartuchen	ćwiartuchna	subst:pl:gen:f	nazwa pospolita	
+ćwiartuchnach	ćwiartuchna	subst:pl:loc:f	nazwa pospolita	
+ćwiartuchna	ćwiartuchna	subst:sg:nom:f	nazwa pospolita	
+ćwiartuchnami	ćwiartuchna	subst:pl:inst:f	nazwa pospolita	
+ćwiartuchną	ćwiartuchna	subst:sg:inst:f	nazwa pospolita	
+ćwiartuchnę	ćwiartuchna	subst:sg:acc:f	nazwa pospolita	
+ćwiartuchnie	ćwiartuchna	subst:sg:dat:f	nazwa pospolita	
+ćwiartuchnie	ćwiartuchna	subst:sg:loc:f	nazwa pospolita	
+ćwiartuchno	ćwiartuchna	subst:sg:voc:f	nazwa pospolita	
+ćwiartuchnom	ćwiartuchna	subst:pl:dat:f	nazwa pospolita	
+ćwiartuchny	ćwiartuchna	subst:pl:acc:f	nazwa pospolita	
+ćwiartuchny	ćwiartuchna	subst:pl:nom:f	nazwa pospolita	
+ćwiartuchny	ćwiartuchna	subst:pl:voc:f	nazwa pospolita	
+ćwiartuchny	ćwiartuchna	subst:sg:gen:f	nazwa pospolita	
+ćwiartulach	ćwiartula	subst:pl:loc:f	nazwa pospolita	
+ćwiartula	ćwiartula	subst:sg:nom:f	nazwa pospolita	
+ćwiartulami	ćwiartula	subst:pl:inst:f	nazwa pospolita	
+ćwiartulą	ćwiartula	subst:sg:inst:f	nazwa pospolita	
+ćwiartul	ćwiartula	subst:pl:gen:f	nazwa pospolita	char.
+ćwiartule	ćwiartula	subst:pl:acc:f	nazwa pospolita	
+ćwiartule	ćwiartula	subst:pl:nom:f	nazwa pospolita	
+ćwiartule	ćwiartula	subst:pl:voc:f	nazwa pospolita	
+ćwiartulę	ćwiartula	subst:sg:acc:f	nazwa pospolita	
+ćwiartuli	ćwiartula	subst:pl:gen:f	nazwa pospolita	hom.
+ćwiartuli	ćwiartula	subst:sg:dat:f	nazwa pospolita	
+ćwiartuli	ćwiartula	subst:sg:gen:f	nazwa pospolita	
+ćwiartuli	ćwiartula	subst:sg:loc:f	nazwa pospolita	
+ćwiartulo	ćwiartula	subst:sg:voc:f	nazwa pospolita	
+ćwiartulom	ćwiartula	subst:pl:dat:f	nazwa pospolita	
 ćwichacie	ćwichać	fin:pl:sec:imperf		rzad.
 ćwichać	ćwichać	inf:imperf		rzad.
 ćwicha	ćwichać	fin:sg:ter:imperf		rzad.
@@ -1001,6 +1007,7 @@
 ćwichającego	ćwichać	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwichającej	ćwichać	pact:sg:gen.dat.loc:f:imperf:aff		
 ćwichającemu	ćwichać	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwichająco	ćwichać	pacta		
 ćwichających	ćwichać	pact:pl:acc:m1.p1:imperf:aff		
 ćwichających	ćwichać	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćwichający	ćwichać	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -1117,20 +1124,20 @@
 ćwichnijcie	ćwichnąć	impt:pl:sec:perf		przest.
 ćwichnij	ćwichnąć	impt:sg:sec:perf		przest.
 ćwichnijmy	ćwichnąć	impt:pl:pri:perf		przest.
-ćwiczebnościach	ćwiczebność	subst:pl:loc:f		
-ćwiczebnościami	ćwiczebność	subst:pl:inst:f		
-ćwiczebnością	ćwiczebność	subst:sg:inst:f		
-ćwiczebności	ćwiczebność	subst:pl:acc:f		
-ćwiczebności	ćwiczebność	subst:pl:gen:f		
-ćwiczebności	ćwiczebność	subst:pl:nom:f		
-ćwiczebności	ćwiczebność	subst:pl:voc:f		
-ćwiczebności	ćwiczebność	subst:sg:dat:f		
-ćwiczebności	ćwiczebność	subst:sg:gen:f		
-ćwiczebności	ćwiczebność	subst:sg:loc:f		
-ćwiczebności	ćwiczebność	subst:sg:voc:f		
-ćwiczebnościom	ćwiczebność	subst:pl:dat:f		
-ćwiczebność	ćwiczebność	subst:sg:acc:f		
-ćwiczebność	ćwiczebność	subst:sg:nom:f		
+ćwiczebnościach	ćwiczebność	subst:pl:loc:f	nazwa pospolita	
+ćwiczebnościami	ćwiczebność	subst:pl:inst:f	nazwa pospolita	
+ćwiczebnością	ćwiczebność	subst:sg:inst:f	nazwa pospolita	
+ćwiczebności	ćwiczebność	subst:pl:acc:f	nazwa pospolita	
+ćwiczebności	ćwiczebność	subst:pl:gen:f	nazwa pospolita	
+ćwiczebności	ćwiczebność	subst:pl:nom:f	nazwa pospolita	
+ćwiczebności	ćwiczebność	subst:pl:voc:f	nazwa pospolita	
+ćwiczebności	ćwiczebność	subst:sg:dat:f	nazwa pospolita	
+ćwiczebności	ćwiczebność	subst:sg:gen:f	nazwa pospolita	
+ćwiczebności	ćwiczebność	subst:sg:loc:f	nazwa pospolita	
+ćwiczebności	ćwiczebność	subst:sg:voc:f	nazwa pospolita	
+ćwiczebnościom	ćwiczebność	subst:pl:dat:f	nazwa pospolita	
+ćwiczebność	ćwiczebność	subst:sg:acc:f	nazwa pospolita	
+ćwiczebność	ćwiczebność	subst:sg:nom:f	nazwa pospolita	
 ćwiczebna	ćwiczebny	adj:sg:nom.voc:f:pos		
 ćwiczebną	ćwiczebny	adj:sg:acc:f:pos		
 ćwiczebną	ćwiczebny	adj:sg:inst:f:pos		
@@ -1155,55 +1162,55 @@
 ćwiczebnym	ćwiczebny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ćwiczebnym	ćwiczebny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ćwiczebnymi	ćwiczebny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ćwiczek	ćwiczek	subst:sg:acc:m3	pospolita	daw.
-ćwiczek	ćwiczek	subst:sg:nom:m3	pospolita	daw.
-ćwiczkach	ćwiczek	subst:pl:loc:m3	pospolita	daw.
-ćwiczka	ćwiczek	subst:sg:gen:m3	pospolita	daw.
-ćwiczkami	ćwiczek	subst:pl:inst:m3	pospolita	daw.
-ćwiczki	ćwiczek	subst:pl:acc:m3	pospolita	daw.
-ćwiczki	ćwiczek	subst:pl:nom:m3	pospolita	daw.
-ćwiczki	ćwiczek	subst:pl:voc:m3	pospolita	daw.
-ćwiczkiem	ćwiczek	subst:sg:inst:m3	pospolita	daw.
-ćwiczkom	ćwiczek	subst:pl:dat:m3	pospolita	daw.
-ćwiczkowi	ćwiczek	subst:sg:dat:m3	pospolita	daw.
-ćwiczków	ćwiczek	subst:pl:gen:m3	pospolita	daw.
-ćwiczku	ćwiczek	subst:sg:loc:m3	pospolita	daw.
-ćwiczku	ćwiczek	subst:sg:voc:m3	pospolita	daw.
-ćwiczeniach	ćwiczenia	subst:pl:loc:p3	pospolita	
-ćwiczenia	ćwiczenia	subst:pl:acc:p3	pospolita	
-ćwiczenia	ćwiczenia	subst:pl:nom:p3	pospolita	
-ćwiczenia	ćwiczenia	subst:pl:voc:p3	pospolita	
-ćwiczeniami	ćwiczenia	subst:pl:inst:p3	pospolita	
-ćwiczeniom	ćwiczenia	subst:pl:dat:p3	pospolita	
-ćwiczeń	ćwiczenia	subst:pl:gen:p3	pospolita	
-ćwiczeniach	ćwiczenie	subst:pl:loc:n2	pospolita	
-ćwiczenia	ćwiczenie	subst:pl:acc:n2	pospolita	
-ćwiczenia	ćwiczenie	subst:pl:nom:n2	pospolita	
-ćwiczenia	ćwiczenie	subst:pl:voc:n2	pospolita	
-ćwiczenia	ćwiczenie	subst:sg:gen:n2	pospolita	
-ćwiczeniami	ćwiczenie	subst:pl:inst:n2	pospolita	
-ćwiczenie	ćwiczenie	subst:sg:acc:n2	pospolita	
-ćwiczenie	ćwiczenie	subst:sg:nom:n2	pospolita	
-ćwiczenie	ćwiczenie	subst:sg:voc:n2	pospolita	
-ćwiczeniem	ćwiczenie	subst:sg:inst:n2	pospolita	
-ćwiczeniom	ćwiczenie	subst:pl:dat:n2	pospolita	
-ćwiczeniu	ćwiczenie	subst:sg:dat:n2	pospolita	
-ćwiczeniu	ćwiczenie	subst:sg:loc:n2	pospolita	
-ćwiczeń	ćwiczenie	subst:pl:gen:n2	pospolita	
-ćwiczeniowościach	ćwiczeniowość	subst:pl:loc:f		
-ćwiczeniowościami	ćwiczeniowość	subst:pl:inst:f		
-ćwiczeniowością	ćwiczeniowość	subst:sg:inst:f		
-ćwiczeniowości	ćwiczeniowość	subst:pl:acc:f		
-ćwiczeniowości	ćwiczeniowość	subst:pl:gen:f		
-ćwiczeniowości	ćwiczeniowość	subst:pl:nom:f		
-ćwiczeniowości	ćwiczeniowość	subst:pl:voc:f		
-ćwiczeniowości	ćwiczeniowość	subst:sg:dat:f		
-ćwiczeniowości	ćwiczeniowość	subst:sg:gen:f		
-ćwiczeniowości	ćwiczeniowość	subst:sg:loc:f		
-ćwiczeniowości	ćwiczeniowość	subst:sg:voc:f		
-ćwiczeniowościom	ćwiczeniowość	subst:pl:dat:f		
-ćwiczeniowość	ćwiczeniowość	subst:sg:acc:f		
-ćwiczeniowość	ćwiczeniowość	subst:sg:nom:f		
+ćwiczek	ćwiczek	subst:sg:acc:m3	nazwa pospolita	daw.
+ćwiczek	ćwiczek	subst:sg:nom:m3	nazwa pospolita	daw.
+ćwiczkach	ćwiczek	subst:pl:loc:m3	nazwa pospolita	daw.
+ćwiczka	ćwiczek	subst:sg:gen:m3	nazwa pospolita	daw.
+ćwiczkami	ćwiczek	subst:pl:inst:m3	nazwa pospolita	daw.
+ćwiczki	ćwiczek	subst:pl:acc:m3	nazwa pospolita	daw.
+ćwiczki	ćwiczek	subst:pl:nom:m3	nazwa pospolita	daw.
+ćwiczki	ćwiczek	subst:pl:voc:m3	nazwa pospolita	daw.
+ćwiczkiem	ćwiczek	subst:sg:inst:m3	nazwa pospolita	daw.
+ćwiczkom	ćwiczek	subst:pl:dat:m3	nazwa pospolita	daw.
+ćwiczkowi	ćwiczek	subst:sg:dat:m3	nazwa pospolita	daw.
+ćwiczków	ćwiczek	subst:pl:gen:m3	nazwa pospolita	daw.
+ćwiczku	ćwiczek	subst:sg:loc:m3	nazwa pospolita	daw.
+ćwiczku	ćwiczek	subst:sg:voc:m3	nazwa pospolita	daw.
+ćwiczeniach	ćwiczenia	subst:pl:loc:p3	nazwa pospolita	
+ćwiczenia	ćwiczenia	subst:pl:acc:p3	nazwa pospolita	
+ćwiczenia	ćwiczenia	subst:pl:nom:p3	nazwa pospolita	
+ćwiczenia	ćwiczenia	subst:pl:voc:p3	nazwa pospolita	
+ćwiczeniami	ćwiczenia	subst:pl:inst:p3	nazwa pospolita	
+ćwiczeniom	ćwiczenia	subst:pl:dat:p3	nazwa pospolita	
+ćwiczeń	ćwiczenia	subst:pl:gen:p3	nazwa pospolita	
+ćwiczeniach	ćwiczenie	subst:pl:loc:n2	nazwa pospolita	
+ćwiczenia	ćwiczenie	subst:pl:acc:n2	nazwa pospolita	
+ćwiczenia	ćwiczenie	subst:pl:nom:n2	nazwa pospolita	
+ćwiczenia	ćwiczenie	subst:pl:voc:n2	nazwa pospolita	
+ćwiczenia	ćwiczenie	subst:sg:gen:n2	nazwa pospolita	
+ćwiczeniami	ćwiczenie	subst:pl:inst:n2	nazwa pospolita	
+ćwiczenie	ćwiczenie	subst:sg:acc:n2	nazwa pospolita	
+ćwiczenie	ćwiczenie	subst:sg:nom:n2	nazwa pospolita	
+ćwiczenie	ćwiczenie	subst:sg:voc:n2	nazwa pospolita	
+ćwiczeniem	ćwiczenie	subst:sg:inst:n2	nazwa pospolita	
+ćwiczeniom	ćwiczenie	subst:pl:dat:n2	nazwa pospolita	
+ćwiczeniu	ćwiczenie	subst:sg:dat:n2	nazwa pospolita	
+ćwiczeniu	ćwiczenie	subst:sg:loc:n2	nazwa pospolita	
+ćwiczeń	ćwiczenie	subst:pl:gen:n2	nazwa pospolita	
+ćwiczeniowościach	ćwiczeniowość	subst:pl:loc:f	nazwa pospolita	
+ćwiczeniowościami	ćwiczeniowość	subst:pl:inst:f	nazwa pospolita	
+ćwiczeniowością	ćwiczeniowość	subst:sg:inst:f	nazwa pospolita	
+ćwiczeniowości	ćwiczeniowość	subst:pl:acc:f	nazwa pospolita	
+ćwiczeniowości	ćwiczeniowość	subst:pl:gen:f	nazwa pospolita	
+ćwiczeniowości	ćwiczeniowość	subst:pl:nom:f	nazwa pospolita	
+ćwiczeniowości	ćwiczeniowość	subst:pl:voc:f	nazwa pospolita	
+ćwiczeniowości	ćwiczeniowość	subst:sg:dat:f	nazwa pospolita	
+ćwiczeniowości	ćwiczeniowość	subst:sg:gen:f	nazwa pospolita	
+ćwiczeniowości	ćwiczeniowość	subst:sg:loc:f	nazwa pospolita	
+ćwiczeniowości	ćwiczeniowość	subst:sg:voc:f	nazwa pospolita	
+ćwiczeniowościom	ćwiczeniowość	subst:pl:dat:f	nazwa pospolita	
+ćwiczeniowość	ćwiczeniowość	subst:sg:acc:f	nazwa pospolita	
+ćwiczeniowość	ćwiczeniowość	subst:sg:nom:f	nazwa pospolita	
 ćwiczeniowa	ćwiczeniowy	adj:sg:nom.voc:f:pos		
 ćwiczeniową	ćwiczeniowy	adj:sg:acc:f:pos		
 ćwiczeniową	ćwiczeniowy	adj:sg:inst:f:pos		
@@ -1237,6 +1244,7 @@
 ćwiczącego	ćwiczyć	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwiczącej	ćwiczyć	pact:sg:gen.dat.loc:f:imperf:aff		
 ćwiczącemu	ćwiczyć	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwicząco	ćwiczyć	pacta		
 ćwiczących	ćwiczyć	pact:pl:acc:m1.p1:imperf:aff		
 ćwiczących	ćwiczyć	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćwiczący	ćwiczyć	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -1316,112 +1324,112 @@
 ćwiczyłyśmy	ćwiczyć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 ćwiczymy	ćwiczyć	fin:pl:pri:imperf		
 ćwiczysz	ćwiczyć	fin:sg:sec:imperf		
-ćwieczek	ćwieczek	subst:sg:acc:m3	pospolita	
-ćwieczek	ćwieczek	subst:sg:nom:m3	pospolita	
-ćwieczkach	ćwieczek	subst:pl:loc:m3	pospolita	
-ćwieczka	ćwieczek	subst:sg:gen:m3	pospolita	
-ćwieczkami	ćwieczek	subst:pl:inst:m3	pospolita	
-ćwieczki	ćwieczek	subst:pl:acc:m3	pospolita	
-ćwieczki	ćwieczek	subst:pl:nom:m3	pospolita	
-ćwieczki	ćwieczek	subst:pl:voc:m3	pospolita	
-ćwieczkiem	ćwieczek	subst:sg:inst:m3	pospolita	
-ćwieczkom	ćwieczek	subst:pl:dat:m3	pospolita	
-ćwieczkowi	ćwieczek	subst:sg:dat:m3	pospolita	
-ćwieczków	ćwieczek	subst:pl:gen:m3	pospolita	
-ćwieczku	ćwieczek	subst:sg:loc:m3	pospolita	
-ćwieczku	ćwieczek	subst:sg:voc:m3	pospolita	
-ćwieczkarzach	ćwieczkarz	subst:pl:loc:m1	pospolita	daw.
-ćwieczkarzach	ćwieczkarz	subst:pl:loc:m1	pospolita	daw.|rzad.
-ćwieczkarza	ćwieczkarz	subst:sg:acc:m1	pospolita	daw.
-ćwieczkarza	ćwieczkarz	subst:sg:acc:m1	pospolita	daw.|rzad.
-ćwieczkarza	ćwieczkarz	subst:sg:gen:m1	pospolita	daw.
-ćwieczkarza	ćwieczkarz	subst:sg:gen:m1	pospolita	daw.|rzad.
-ćwieczkarzami	ćwieczkarz	subst:pl:inst:m1	pospolita	daw.
-ćwieczkarzami	ćwieczkarz	subst:pl:inst:m1	pospolita	daw.|rzad.
-ćwieczkarz	ćwieczkarz	subst:sg:nom:m1	pospolita	daw.
-ćwieczkarz	ćwieczkarz	subst:sg:nom:m1	pospolita	daw.|rzad.
-ćwieczkarze	ćwieczkarz	depr:pl:nom:m2	pospolita	daw.
-ćwieczkarze	ćwieczkarz	depr:pl:nom:m2	pospolita	daw.|rzad.
-ćwieczkarze	ćwieczkarz	depr:pl:voc:m2	pospolita	daw.
-ćwieczkarze	ćwieczkarz	depr:pl:voc:m2	pospolita	daw.|rzad.
-ćwieczkarze	ćwieczkarz	subst:pl:nom:m1	pospolita	daw.
-ćwieczkarze	ćwieczkarz	subst:pl:nom:m1	pospolita	daw.|rzad.
-ćwieczkarze	ćwieczkarz	subst:pl:voc:m1	pospolita	daw.
-ćwieczkarze	ćwieczkarz	subst:pl:voc:m1	pospolita	daw.|rzad.
-ćwieczkarzem	ćwieczkarz	subst:sg:inst:m1	pospolita	daw.
-ćwieczkarzem	ćwieczkarz	subst:sg:inst:m1	pospolita	daw.|rzad.
-ćwieczkarzom	ćwieczkarz	subst:pl:dat:m1	pospolita	daw.
-ćwieczkarzom	ćwieczkarz	subst:pl:dat:m1	pospolita	daw.|rzad.
-ćwieczkarzowi	ćwieczkarz	subst:sg:dat:m1	pospolita	daw.
-ćwieczkarzowi	ćwieczkarz	subst:sg:dat:m1	pospolita	daw.|rzad.
-ćwieczkarzów	ćwieczkarz	subst:pl:acc:m1	pospolita	daw.|rzad.
-ćwieczkarzów	ćwieczkarz	subst:pl:gen:m1	pospolita	daw.|rzad.
-ćwieczkarzu	ćwieczkarz	subst:sg:loc:m1	pospolita	daw.
-ćwieczkarzu	ćwieczkarz	subst:sg:loc:m1	pospolita	daw.|rzad.
-ćwieczkarzu	ćwieczkarz	subst:sg:voc:m1	pospolita	daw.
-ćwieczkarzu	ćwieczkarz	subst:sg:voc:m1	pospolita	daw.|rzad.
-ćwieczkarzy	ćwieczkarz	subst:pl:acc:m1	pospolita	daw.
-ćwieczkarzy	ćwieczkarz	subst:pl:gen:m1	pospolita	daw.
-ćwiekach	ćwiek	subst:pl:loc:m3	pospolita	
-ćwieka	ćwiek	subst:sg:gen:m3	pospolita	
-ćwiekami	ćwiek	subst:pl:inst:m3	pospolita	
-ćwiek	ćwiek	subst:sg:acc:m3	pospolita	
-ćwiek	ćwiek	subst:sg:nom:m3	pospolita	
-ćwieki	ćwiek	subst:pl:acc:m3	pospolita	
-ćwieki	ćwiek	subst:pl:nom:m3	pospolita	
-ćwieki	ćwiek	subst:pl:voc:m3	pospolita	
-ćwiekiem	ćwiek	subst:sg:inst:m3	pospolita	
-ćwiekom	ćwiek	subst:pl:dat:m3	pospolita	
-ćwiekowi	ćwiek	subst:sg:dat:m3	pospolita	
-ćwieków	ćwiek	subst:pl:gen:m3	pospolita	
-ćwieku	ćwiek	subst:sg:loc:m3	pospolita	
-ćwieku	ćwiek	subst:sg:voc:m3	pospolita	
-ćwiekaczach	ćwiekacz	subst:pl:loc:m1	pospolita	
-ćwiekacza	ćwiekacz	subst:sg:acc:m1	pospolita	
-ćwiekacza	ćwiekacz	subst:sg:gen:m1	pospolita	
-ćwiekaczami	ćwiekacz	subst:pl:inst:m1	pospolita	
-ćwiekacz	ćwiekacz	subst:sg:nom:m1	pospolita	
-ćwiekacze	ćwiekacz	depr:pl:nom:m2	pospolita	
-ćwiekacze	ćwiekacz	depr:pl:voc:m2	pospolita	
-ćwiekacze	ćwiekacz	subst:pl:nom:m1	pospolita	
-ćwiekacze	ćwiekacz	subst:pl:voc:m1	pospolita	
-ćwiekaczem	ćwiekacz	subst:sg:inst:m1	pospolita	
-ćwiekaczom	ćwiekacz	subst:pl:dat:m1	pospolita	
-ćwiekaczowi	ćwiekacz	subst:sg:dat:m1	pospolita	
-ćwiekaczów	ćwiekacz	subst:pl:acc:m1	pospolita	
-ćwiekaczów	ćwiekacz	subst:pl:gen:m1	pospolita	
-ćwiekaczu	ćwiekacz	subst:sg:loc:m1	pospolita	
-ćwiekaczu	ćwiekacz	subst:sg:voc:m1	pospolita	
-ćwiekaczy	ćwiekacz	subst:pl:acc:m1	pospolita	
-ćwiekaczy	ćwiekacz	subst:pl:gen:m1	pospolita	
-ćwiekarce	ćwiekarka	subst:sg:dat:f	pospolita	
-ćwiekarce	ćwiekarka	subst:sg:loc:f	pospolita	
-ćwiekarek	ćwiekarka	subst:pl:gen:f	pospolita	
-ćwiekarkach	ćwiekarka	subst:pl:loc:f	pospolita	
-ćwiekarka	ćwiekarka	subst:sg:nom:f	pospolita	
-ćwiekarkami	ćwiekarka	subst:pl:inst:f	pospolita	
-ćwiekarką	ćwiekarka	subst:sg:inst:f	pospolita	
-ćwiekarkę	ćwiekarka	subst:sg:acc:f	pospolita	
-ćwiekarki	ćwiekarka	subst:pl:acc:f	pospolita	
-ćwiekarki	ćwiekarka	subst:pl:nom:f	pospolita	
-ćwiekarki	ćwiekarka	subst:pl:voc:f	pospolita	
-ćwiekarki	ćwiekarka	subst:sg:gen:f	pospolita	
-ćwiekarko	ćwiekarka	subst:sg:voc:f	pospolita	
-ćwiekarkom	ćwiekarka	subst:pl:dat:f	pospolita	
-ćwiekopisach	ćwiekopis	subst:pl:loc:m3	pospolita	
-ćwiekopisami	ćwiekopis	subst:pl:inst:m3	pospolita	
-ćwiekopis	ćwiekopis	subst:sg:acc:m3	pospolita	
-ćwiekopis	ćwiekopis	subst:sg:nom:m3	pospolita	
-ćwiekopisem	ćwiekopis	subst:sg:inst:m3	pospolita	
-ćwiekopisie	ćwiekopis	subst:sg:loc:m3	pospolita	
-ćwiekopisie	ćwiekopis	subst:sg:voc:m3	pospolita	
-ćwiekopisom	ćwiekopis	subst:pl:dat:m3	pospolita	
-ćwiekopisowi	ćwiekopis	subst:sg:dat:m3	pospolita	
-ćwiekopisów	ćwiekopis	subst:pl:gen:m3	pospolita	
-ćwiekopisu	ćwiekopis	subst:sg:gen:m3	pospolita	
-ćwiekopisy	ćwiekopis	subst:pl:acc:m3	pospolita	
-ćwiekopisy	ćwiekopis	subst:pl:nom:m3	pospolita	
-ćwiekopisy	ćwiekopis	subst:pl:voc:m3	pospolita	
+ćwieczek	ćwieczek	subst:sg:acc:m3	nazwa pospolita	
+ćwieczek	ćwieczek	subst:sg:nom:m3	nazwa pospolita	
+ćwieczkach	ćwieczek	subst:pl:loc:m3	nazwa pospolita	
+ćwieczka	ćwieczek	subst:sg:gen:m3	nazwa pospolita	
+ćwieczkami	ćwieczek	subst:pl:inst:m3	nazwa pospolita	
+ćwieczki	ćwieczek	subst:pl:acc:m3	nazwa pospolita	
+ćwieczki	ćwieczek	subst:pl:nom:m3	nazwa pospolita	
+ćwieczki	ćwieczek	subst:pl:voc:m3	nazwa pospolita	
+ćwieczkiem	ćwieczek	subst:sg:inst:m3	nazwa pospolita	
+ćwieczkom	ćwieczek	subst:pl:dat:m3	nazwa pospolita	
+ćwieczkowi	ćwieczek	subst:sg:dat:m3	nazwa pospolita	
+ćwieczków	ćwieczek	subst:pl:gen:m3	nazwa pospolita	
+ćwieczku	ćwieczek	subst:sg:loc:m3	nazwa pospolita	
+ćwieczku	ćwieczek	subst:sg:voc:m3	nazwa pospolita	
+ćwieczkarzach	ćwieczkarz	subst:pl:loc:m1	nazwa pospolita	daw.
+ćwieczkarzach	ćwieczkarz	subst:pl:loc:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarza	ćwieczkarz	subst:sg:acc:m1	nazwa pospolita	daw.
+ćwieczkarza	ćwieczkarz	subst:sg:acc:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarza	ćwieczkarz	subst:sg:gen:m1	nazwa pospolita	daw.
+ćwieczkarza	ćwieczkarz	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarzami	ćwieczkarz	subst:pl:inst:m1	nazwa pospolita	daw.
+ćwieczkarzami	ćwieczkarz	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarz	ćwieczkarz	subst:sg:nom:m1	nazwa pospolita	daw.
+ćwieczkarz	ćwieczkarz	subst:sg:nom:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarze	ćwieczkarz	depr:pl:nom:m2	nazwa pospolita	daw.
+ćwieczkarze	ćwieczkarz	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
+ćwieczkarze	ćwieczkarz	depr:pl:voc:m2	nazwa pospolita	daw.
+ćwieczkarze	ćwieczkarz	depr:pl:voc:m2	nazwa pospolita	daw.|rzad.
+ćwieczkarze	ćwieczkarz	subst:pl:nom:m1	nazwa pospolita	daw.
+ćwieczkarze	ćwieczkarz	subst:pl:nom:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarze	ćwieczkarz	subst:pl:voc:m1	nazwa pospolita	daw.
+ćwieczkarze	ćwieczkarz	subst:pl:voc:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarzem	ćwieczkarz	subst:sg:inst:m1	nazwa pospolita	daw.
+ćwieczkarzem	ćwieczkarz	subst:sg:inst:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarzom	ćwieczkarz	subst:pl:dat:m1	nazwa pospolita	daw.
+ćwieczkarzom	ćwieczkarz	subst:pl:dat:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarzowi	ćwieczkarz	subst:sg:dat:m1	nazwa pospolita	daw.
+ćwieczkarzowi	ćwieczkarz	subst:sg:dat:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarzów	ćwieczkarz	subst:pl:acc:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarzów	ćwieczkarz	subst:pl:gen:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarzu	ćwieczkarz	subst:sg:loc:m1	nazwa pospolita	daw.
+ćwieczkarzu	ćwieczkarz	subst:sg:loc:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarzu	ćwieczkarz	subst:sg:voc:m1	nazwa pospolita	daw.
+ćwieczkarzu	ćwieczkarz	subst:sg:voc:m1	nazwa pospolita	daw.|rzad.
+ćwieczkarzy	ćwieczkarz	subst:pl:acc:m1	nazwa pospolita	daw.
+ćwieczkarzy	ćwieczkarz	subst:pl:gen:m1	nazwa pospolita	daw.
+ćwiekach	ćwiek	subst:pl:loc:m3	nazwa pospolita	
+ćwieka	ćwiek	subst:sg:gen:m3	nazwa pospolita	
+ćwiekami	ćwiek	subst:pl:inst:m3	nazwa pospolita	
+ćwiek	ćwiek	subst:sg:acc:m3	nazwa pospolita	
+ćwiek	ćwiek	subst:sg:nom:m3	nazwa pospolita	
+ćwieki	ćwiek	subst:pl:acc:m3	nazwa pospolita	
+ćwieki	ćwiek	subst:pl:nom:m3	nazwa pospolita	
+ćwieki	ćwiek	subst:pl:voc:m3	nazwa pospolita	
+ćwiekiem	ćwiek	subst:sg:inst:m3	nazwa pospolita	
+ćwiekom	ćwiek	subst:pl:dat:m3	nazwa pospolita	
+ćwiekowi	ćwiek	subst:sg:dat:m3	nazwa pospolita	
+ćwieków	ćwiek	subst:pl:gen:m3	nazwa pospolita	
+ćwieku	ćwiek	subst:sg:loc:m3	nazwa pospolita	
+ćwieku	ćwiek	subst:sg:voc:m3	nazwa pospolita	
+ćwiekaczach	ćwiekacz	subst:pl:loc:m1	nazwa pospolita	
+ćwiekacza	ćwiekacz	subst:sg:acc:m1	nazwa pospolita	
+ćwiekacza	ćwiekacz	subst:sg:gen:m1	nazwa pospolita	
+ćwiekaczami	ćwiekacz	subst:pl:inst:m1	nazwa pospolita	
+ćwiekacz	ćwiekacz	subst:sg:nom:m1	nazwa pospolita	
+ćwiekacze	ćwiekacz	depr:pl:nom:m2	nazwa pospolita	
+ćwiekacze	ćwiekacz	depr:pl:voc:m2	nazwa pospolita	
+ćwiekacze	ćwiekacz	subst:pl:nom:m1	nazwa pospolita	
+ćwiekacze	ćwiekacz	subst:pl:voc:m1	nazwa pospolita	
+ćwiekaczem	ćwiekacz	subst:sg:inst:m1	nazwa pospolita	
+ćwiekaczom	ćwiekacz	subst:pl:dat:m1	nazwa pospolita	
+ćwiekaczowi	ćwiekacz	subst:sg:dat:m1	nazwa pospolita	
+ćwiekaczów	ćwiekacz	subst:pl:acc:m1	nazwa pospolita	
+ćwiekaczów	ćwiekacz	subst:pl:gen:m1	nazwa pospolita	
+ćwiekaczu	ćwiekacz	subst:sg:loc:m1	nazwa pospolita	
+ćwiekaczu	ćwiekacz	subst:sg:voc:m1	nazwa pospolita	
+ćwiekaczy	ćwiekacz	subst:pl:acc:m1	nazwa pospolita	
+ćwiekaczy	ćwiekacz	subst:pl:gen:m1	nazwa pospolita	
+ćwiekarce	ćwiekarka	subst:sg:dat:f	nazwa pospolita	
+ćwiekarce	ćwiekarka	subst:sg:loc:f	nazwa pospolita	
+ćwiekarek	ćwiekarka	subst:pl:gen:f	nazwa pospolita	
+ćwiekarkach	ćwiekarka	subst:pl:loc:f	nazwa pospolita	
+ćwiekarka	ćwiekarka	subst:sg:nom:f	nazwa pospolita	
+ćwiekarkami	ćwiekarka	subst:pl:inst:f	nazwa pospolita	
+ćwiekarką	ćwiekarka	subst:sg:inst:f	nazwa pospolita	
+ćwiekarkę	ćwiekarka	subst:sg:acc:f	nazwa pospolita	
+ćwiekarki	ćwiekarka	subst:pl:acc:f	nazwa pospolita	
+ćwiekarki	ćwiekarka	subst:pl:nom:f	nazwa pospolita	
+ćwiekarki	ćwiekarka	subst:pl:voc:f	nazwa pospolita	
+ćwiekarki	ćwiekarka	subst:sg:gen:f	nazwa pospolita	
+ćwiekarko	ćwiekarka	subst:sg:voc:f	nazwa pospolita	
+ćwiekarkom	ćwiekarka	subst:pl:dat:f	nazwa pospolita	
+ćwiekopisach	ćwiekopis	subst:pl:loc:m3	nazwa pospolita	
+ćwiekopisami	ćwiekopis	subst:pl:inst:m3	nazwa pospolita	
+ćwiekopis	ćwiekopis	subst:sg:acc:m3	nazwa pospolita	
+ćwiekopis	ćwiekopis	subst:sg:nom:m3	nazwa pospolita	
+ćwiekopisem	ćwiekopis	subst:sg:inst:m3	nazwa pospolita	
+ćwiekopisie	ćwiekopis	subst:sg:loc:m3	nazwa pospolita	
+ćwiekopisie	ćwiekopis	subst:sg:voc:m3	nazwa pospolita	
+ćwiekopisom	ćwiekopis	subst:pl:dat:m3	nazwa pospolita	
+ćwiekopisowi	ćwiekopis	subst:sg:dat:m3	nazwa pospolita	
+ćwiekopisów	ćwiekopis	subst:pl:gen:m3	nazwa pospolita	
+ćwiekopisu	ćwiekopis	subst:sg:gen:m3	nazwa pospolita	
+ćwiekopisy	ćwiekopis	subst:pl:acc:m3	nazwa pospolita	
+ćwiekopisy	ćwiekopis	subst:pl:nom:m3	nazwa pospolita	
+ćwiekopisy	ćwiekopis	subst:pl:voc:m3	nazwa pospolita	
 ćwiekować	ćwiekować	inf:imperf		
 ćwiekowaliby	ćwiekować	cond:pl:m1.p1:ter:imperf		
 ćwiekowalibyście	ćwiekować	cond:pl:m1.p1:sec:imperf		
@@ -1493,6 +1501,7 @@
 ćwiekującego	ćwiekować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwiekującej	ćwiekować	pact:sg:gen.dat.loc:f:imperf:aff		
 ćwiekującemu	ćwiekować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwiekująco	ćwiekować	pacta		
 ćwiekujących	ćwiekować	pact:pl:acc:m1.p1:imperf:aff		
 ćwiekujących	ćwiekować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćwiekujący	ćwiekować	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -1510,20 +1519,20 @@
 ćwiekujesz	ćwiekować	fin:sg:sec:imperf		
 ćwiekuję	ćwiekować	fin:sg:pri:imperf		
 ćwiekujmy	ćwiekować	impt:pl:pri:imperf		
-ćwiekowościach	ćwiekowość	subst:pl:loc:f		
-ćwiekowościami	ćwiekowość	subst:pl:inst:f		
-ćwiekowością	ćwiekowość	subst:sg:inst:f		
-ćwiekowości	ćwiekowość	subst:pl:acc:f		
-ćwiekowości	ćwiekowość	subst:pl:gen:f		
-ćwiekowości	ćwiekowość	subst:pl:nom:f		
-ćwiekowości	ćwiekowość	subst:pl:voc:f		
-ćwiekowości	ćwiekowość	subst:sg:dat:f		
-ćwiekowości	ćwiekowość	subst:sg:gen:f		
-ćwiekowości	ćwiekowość	subst:sg:loc:f		
-ćwiekowości	ćwiekowość	subst:sg:voc:f		
-ćwiekowościom	ćwiekowość	subst:pl:dat:f		
-ćwiekowość	ćwiekowość	subst:sg:acc:f		
-ćwiekowość	ćwiekowość	subst:sg:nom:f		
+ćwiekowościach	ćwiekowość	subst:pl:loc:f	nazwa pospolita	
+ćwiekowościami	ćwiekowość	subst:pl:inst:f	nazwa pospolita	
+ćwiekowością	ćwiekowość	subst:sg:inst:f	nazwa pospolita	
+ćwiekowości	ćwiekowość	subst:pl:acc:f	nazwa pospolita	
+ćwiekowości	ćwiekowość	subst:pl:gen:f	nazwa pospolita	
+ćwiekowości	ćwiekowość	subst:pl:nom:f	nazwa pospolita	
+ćwiekowości	ćwiekowość	subst:pl:voc:f	nazwa pospolita	
+ćwiekowości	ćwiekowość	subst:sg:dat:f	nazwa pospolita	
+ćwiekowości	ćwiekowość	subst:sg:gen:f	nazwa pospolita	
+ćwiekowości	ćwiekowość	subst:sg:loc:f	nazwa pospolita	
+ćwiekowości	ćwiekowość	subst:sg:voc:f	nazwa pospolita	
+ćwiekowościom	ćwiekowość	subst:pl:dat:f	nazwa pospolita	
+ćwiekowość	ćwiekowość	subst:sg:acc:f	nazwa pospolita	
+ćwiekowość	ćwiekowość	subst:sg:nom:f	nazwa pospolita	
 ćwiekowa	ćwiekowy	adj:sg:nom.voc:f:pos		
 ćwiekową	ćwiekowy	adj:sg:acc:f:pos		
 ćwiekową	ćwiekowy	adj:sg:inst:f:pos		
@@ -1548,34 +1557,34 @@
 ćwiekowym	ćwiekowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ćwiekowym	ćwiekowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ćwiekowymi	ćwiekowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ćwiekulcach	ćwiekulec	subst:pl:loc:m3	pospolita	
-ćwiekulca	ćwiekulec	subst:sg:gen:m3	pospolita	
-ćwiekulcami	ćwiekulec	subst:pl:inst:m3	pospolita	
-ćwiekulce	ćwiekulec	subst:pl:acc:m3	pospolita	
-ćwiekulce	ćwiekulec	subst:pl:nom:m3	pospolita	
-ćwiekulce	ćwiekulec	subst:pl:voc:m3	pospolita	
-ćwiekulcem	ćwiekulec	subst:sg:inst:m3	pospolita	
-ćwiekulcom	ćwiekulec	subst:pl:dat:m3	pospolita	
-ćwiekulcowi	ćwiekulec	subst:sg:dat:m3	pospolita	
-ćwiekulców	ćwiekulec	subst:pl:gen:m3	pospolita	
-ćwiekulcu	ćwiekulec	subst:sg:loc:m3	pospolita	
-ćwiekulcu	ćwiekulec	subst:sg:voc:m3	pospolita	
-ćwiekulec	ćwiekulec	subst:sg:acc:m3	pospolita	
-ćwiekulec	ćwiekulec	subst:sg:nom:m3	pospolita	
-ćwierciowościach	ćwierciowość	subst:pl:loc:f		
-ćwierciowościami	ćwierciowość	subst:pl:inst:f		
-ćwierciowością	ćwierciowość	subst:sg:inst:f		
-ćwierciowości	ćwierciowość	subst:pl:acc:f		
-ćwierciowości	ćwierciowość	subst:pl:gen:f		
-ćwierciowości	ćwierciowość	subst:pl:nom:f		
-ćwierciowości	ćwierciowość	subst:pl:voc:f		
-ćwierciowości	ćwierciowość	subst:sg:dat:f		
-ćwierciowości	ćwierciowość	subst:sg:gen:f		
-ćwierciowości	ćwierciowość	subst:sg:loc:f		
-ćwierciowości	ćwierciowość	subst:sg:voc:f		
-ćwierciowościom	ćwierciowość	subst:pl:dat:f		
-ćwierciowość	ćwierciowość	subst:sg:acc:f		
-ćwierciowość	ćwierciowość	subst:sg:nom:f		
+ćwiekulcach	ćwiekulec	subst:pl:loc:m3	nazwa pospolita	
+ćwiekulca	ćwiekulec	subst:sg:gen:m3	nazwa pospolita	
+ćwiekulcami	ćwiekulec	subst:pl:inst:m3	nazwa pospolita	
+ćwiekulce	ćwiekulec	subst:pl:acc:m3	nazwa pospolita	
+ćwiekulce	ćwiekulec	subst:pl:nom:m3	nazwa pospolita	
+ćwiekulce	ćwiekulec	subst:pl:voc:m3	nazwa pospolita	
+ćwiekulcem	ćwiekulec	subst:sg:inst:m3	nazwa pospolita	
+ćwiekulcom	ćwiekulec	subst:pl:dat:m3	nazwa pospolita	
+ćwiekulcowi	ćwiekulec	subst:sg:dat:m3	nazwa pospolita	
+ćwiekulców	ćwiekulec	subst:pl:gen:m3	nazwa pospolita	
+ćwiekulcu	ćwiekulec	subst:sg:loc:m3	nazwa pospolita	
+ćwiekulcu	ćwiekulec	subst:sg:voc:m3	nazwa pospolita	
+ćwiekulec	ćwiekulec	subst:sg:acc:m3	nazwa pospolita	
+ćwiekulec	ćwiekulec	subst:sg:nom:m3	nazwa pospolita	
+ćwierciowościach	ćwierciowość	subst:pl:loc:f	nazwa pospolita	
+ćwierciowościami	ćwierciowość	subst:pl:inst:f	nazwa pospolita	
+ćwierciowością	ćwierciowość	subst:sg:inst:f	nazwa pospolita	
+ćwierciowości	ćwierciowość	subst:pl:acc:f	nazwa pospolita	
+ćwierciowości	ćwierciowość	subst:pl:gen:f	nazwa pospolita	
+ćwierciowości	ćwierciowość	subst:pl:nom:f	nazwa pospolita	
+ćwierciowości	ćwierciowość	subst:pl:voc:f	nazwa pospolita	
+ćwierciowości	ćwierciowość	subst:sg:dat:f	nazwa pospolita	
+ćwierciowości	ćwierciowość	subst:sg:gen:f	nazwa pospolita	
+ćwierciowości	ćwierciowość	subst:sg:loc:f	nazwa pospolita	
+ćwierciowości	ćwierciowość	subst:sg:voc:f	nazwa pospolita	
+ćwierciowościom	ćwierciowość	subst:pl:dat:f	nazwa pospolita	
+ćwierciowość	ćwierciowość	subst:sg:acc:f	nazwa pospolita	
+ćwierciowość	ćwierciowość	subst:sg:nom:f	nazwa pospolita	
 ćwierciowa	ćwierciowy	adj:sg:nom.voc:f:pos		
 ćwierciową	ćwierciowy	adj:sg:acc:f:pos		
 ćwierciową	ćwierciowy	adj:sg:inst:f:pos		
@@ -1600,20 +1609,20 @@
 ćwierciowym	ćwierciowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ćwierciowym	ćwierciowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ćwierciowymi	ćwierciowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ćwierćarkuszowościach	ćwierćarkuszowość	subst:pl:loc:f		
-ćwierćarkuszowościami	ćwierćarkuszowość	subst:pl:inst:f		
-ćwierćarkuszowością	ćwierćarkuszowość	subst:sg:inst:f		
-ćwierćarkuszowości	ćwierćarkuszowość	subst:pl:acc:f		
-ćwierćarkuszowości	ćwierćarkuszowość	subst:pl:gen:f		
-ćwierćarkuszowości	ćwierćarkuszowość	subst:pl:nom:f		
-ćwierćarkuszowości	ćwierćarkuszowość	subst:pl:voc:f		
-ćwierćarkuszowości	ćwierćarkuszowość	subst:sg:dat:f		
-ćwierćarkuszowości	ćwierćarkuszowość	subst:sg:gen:f		
-ćwierćarkuszowości	ćwierćarkuszowość	subst:sg:loc:f		
-ćwierćarkuszowości	ćwierćarkuszowość	subst:sg:voc:f		
-ćwierćarkuszowościom	ćwierćarkuszowość	subst:pl:dat:f		
-ćwierćarkuszowość	ćwierćarkuszowość	subst:sg:acc:f		
-ćwierćarkuszowość	ćwierćarkuszowość	subst:sg:nom:f		
+ćwierćarkuszowościach	ćwierćarkuszowość	subst:pl:loc:f	nazwa pospolita	
+ćwierćarkuszowościami	ćwierćarkuszowość	subst:pl:inst:f	nazwa pospolita	
+ćwierćarkuszowością	ćwierćarkuszowość	subst:sg:inst:f	nazwa pospolita	
+ćwierćarkuszowości	ćwierćarkuszowość	subst:pl:acc:f	nazwa pospolita	
+ćwierćarkuszowości	ćwierćarkuszowość	subst:pl:gen:f	nazwa pospolita	
+ćwierćarkuszowości	ćwierćarkuszowość	subst:pl:nom:f	nazwa pospolita	
+ćwierćarkuszowości	ćwierćarkuszowość	subst:pl:voc:f	nazwa pospolita	
+ćwierćarkuszowości	ćwierćarkuszowość	subst:sg:dat:f	nazwa pospolita	
+ćwierćarkuszowości	ćwierćarkuszowość	subst:sg:gen:f	nazwa pospolita	
+ćwierćarkuszowości	ćwierćarkuszowość	subst:sg:loc:f	nazwa pospolita	
+ćwierćarkuszowości	ćwierćarkuszowość	subst:sg:voc:f	nazwa pospolita	
+ćwierćarkuszowościom	ćwierćarkuszowość	subst:pl:dat:f	nazwa pospolita	
+ćwierćarkuszowość	ćwierćarkuszowość	subst:sg:acc:f	nazwa pospolita	
+ćwierćarkuszowość	ćwierćarkuszowość	subst:sg:nom:f	nazwa pospolita	
 ćwierćarkuszowa	ćwierćarkuszowy	adj:sg:nom.voc:f:pos		
 ćwierćarkuszową	ćwierćarkuszowy	adj:sg:acc:f:pos		
 ćwierćarkuszową	ćwierćarkuszowy	adj:sg:inst:f:pos		
@@ -1638,92 +1647,92 @@
 ćwierćarkuszowym	ćwierćarkuszowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ćwierćarkuszowym	ćwierćarkuszowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ćwierćarkuszowymi	ćwierćarkuszowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ćwierćbeczek	ćwierćbeczek	subst:sg:acc:m3	pospolita	daw.
-ćwierćbeczek	ćwierćbeczek	subst:sg:nom:m3	pospolita	daw.
-ćwierćbeczkach	ćwierćbeczek	subst:pl:loc:m3	pospolita	daw.
-ćwierćbeczka	ćwierćbeczek	subst:sg:gen:m3	pospolita	daw.
-ćwierćbeczkami	ćwierćbeczek	subst:pl:inst:m3	pospolita	daw.
-ćwierćbeczki	ćwierćbeczek	subst:pl:acc:m3	pospolita	daw.
-ćwierćbeczki	ćwierćbeczek	subst:pl:nom:m3	pospolita	daw.
-ćwierćbeczki	ćwierćbeczek	subst:pl:voc:m3	pospolita	daw.
-ćwierćbeczkiem	ćwierćbeczek	subst:sg:inst:m3	pospolita	daw.
-ćwierćbeczkom	ćwierćbeczek	subst:pl:dat:m3	pospolita	daw.
-ćwierćbeczkowi	ćwierćbeczek	subst:sg:dat:m3	pospolita	daw.
-ćwierćbeczków	ćwierćbeczek	subst:pl:gen:m3	pospolita	daw.
-ćwierćbeczku	ćwierćbeczek	subst:sg:loc:m3	pospolita	daw.
-ćwierćbeczku	ćwierćbeczek	subst:sg:voc:m3	pospolita	daw.
-ćwierćdolarówce	ćwierćdolarówka	subst:sg:dat:f	pospolita	
-ćwierćdolarówce	ćwierćdolarówka	subst:sg:loc:f	pospolita	
-ćwierćdolarówek	ćwierćdolarówka	subst:pl:gen:f	pospolita	
-ćwierćdolarówkach	ćwierćdolarówka	subst:pl:loc:f	pospolita	
-ćwierćdolarówka	ćwierćdolarówka	subst:sg:nom:f	pospolita	
-ćwierćdolarówkami	ćwierćdolarówka	subst:pl:inst:f	pospolita	
-ćwierćdolarówką	ćwierćdolarówka	subst:sg:inst:f	pospolita	
-ćwierćdolarówkę	ćwierćdolarówka	subst:sg:acc:f	pospolita	
-ćwierćdolarówki	ćwierćdolarówka	subst:pl:acc:f	pospolita	
-ćwierćdolarówki	ćwierćdolarówka	subst:pl:nom:f	pospolita	
-ćwierćdolarówki	ćwierćdolarówka	subst:pl:voc:f	pospolita	
-ćwierćdolarówki	ćwierćdolarówka	subst:sg:gen:f	pospolita	
-ćwierćdolarówko	ćwierćdolarówka	subst:sg:voc:f	pospolita	
-ćwierćdolarówkom	ćwierćdolarówka	subst:pl:dat:f	pospolita	
-ćwierćfinalistach	ćwierćfinalista	subst:pl:loc:m1	pospolita	
-ćwierćfinalista	ćwierćfinalista	subst:sg:nom:m1	pospolita	
-ćwierćfinalistami	ćwierćfinalista	subst:pl:inst:m1	pospolita	
-ćwierćfinalistą	ćwierćfinalista	subst:sg:inst:m1	pospolita	
-ćwierćfinalistę	ćwierćfinalista	subst:sg:acc:m1	pospolita	
-ćwierćfinalisto	ćwierćfinalista	subst:sg:voc:m1	pospolita	
-ćwierćfinalistom	ćwierćfinalista	subst:pl:dat:m1	pospolita	
-ćwierćfinalistów	ćwierćfinalista	subst:pl:acc:m1	pospolita	
-ćwierćfinalistów	ćwierćfinalista	subst:pl:gen:m1	pospolita	
-ćwierćfinalisty	ćwierćfinalista	depr:pl:nom:m2	pospolita	
-ćwierćfinalisty	ćwierćfinalista	depr:pl:voc:m2	pospolita	
-ćwierćfinalisty	ćwierćfinalista	subst:sg:gen:m1	pospolita	
-ćwierćfinaliści	ćwierćfinalista	subst:pl:nom:m1	pospolita	
-ćwierćfinaliści	ćwierćfinalista	subst:pl:voc:m1	pospolita	
-ćwierćfinaliście	ćwierćfinalista	subst:sg:dat:m1	pospolita	
-ćwierćfinaliście	ćwierćfinalista	subst:sg:loc:m1	pospolita	
-ćwierćfinalistce	ćwierćfinalistka	subst:sg:dat:f	pospolita	
-ćwierćfinalistce	ćwierćfinalistka	subst:sg:loc:f	pospolita	
-ćwierćfinalistek	ćwierćfinalistka	subst:pl:gen:f	pospolita	
-ćwierćfinalistkach	ćwierćfinalistka	subst:pl:loc:f	pospolita	
-ćwierćfinalistka	ćwierćfinalistka	subst:sg:nom:f	pospolita	
-ćwierćfinalistkami	ćwierćfinalistka	subst:pl:inst:f	pospolita	
-ćwierćfinalistką	ćwierćfinalistka	subst:sg:inst:f	pospolita	
-ćwierćfinalistkę	ćwierćfinalistka	subst:sg:acc:f	pospolita	
-ćwierćfinalistki	ćwierćfinalistka	subst:pl:acc:f	pospolita	
-ćwierćfinalistki	ćwierćfinalistka	subst:pl:nom:f	pospolita	
-ćwierćfinalistki	ćwierćfinalistka	subst:pl:voc:f	pospolita	
-ćwierćfinalistki	ćwierćfinalistka	subst:sg:gen:f	pospolita	
-ćwierćfinalistko	ćwierćfinalistka	subst:sg:voc:f	pospolita	
-ćwierćfinalistkom	ćwierćfinalistka	subst:pl:dat:f	pospolita	
-ćwierćfinale	ćwierćfinał	subst:sg:loc:m3	pospolita	
-ćwierćfinale	ćwierćfinał	subst:sg:voc:m3	pospolita	
-ćwierćfinałach	ćwierćfinał	subst:pl:loc:m3	pospolita	
-ćwierćfinałami	ćwierćfinał	subst:pl:inst:m3	pospolita	
-ćwierćfinał	ćwierćfinał	subst:sg:acc:m3	pospolita	
-ćwierćfinał	ćwierćfinał	subst:sg:nom:m3	pospolita	
-ćwierćfinałem	ćwierćfinał	subst:sg:inst:m3	pospolita	
-ćwierćfinałom	ćwierćfinał	subst:pl:dat:m3	pospolita	
-ćwierćfinałowi	ćwierćfinał	subst:sg:dat:m3	pospolita	
-ćwierćfinałów	ćwierćfinał	subst:pl:gen:m3	pospolita	
-ćwierćfinału	ćwierćfinał	subst:sg:gen:m3	pospolita	
-ćwierćfinały	ćwierćfinał	subst:pl:acc:m3	pospolita	
-ćwierćfinały	ćwierćfinał	subst:pl:nom:m3	pospolita	
-ćwierćfinały	ćwierćfinał	subst:pl:voc:m3	pospolita	
-ćwierćfinałowościach	ćwierćfinałowość	subst:pl:loc:f		
-ćwierćfinałowościami	ćwierćfinałowość	subst:pl:inst:f		
-ćwierćfinałowością	ćwierćfinałowość	subst:sg:inst:f		
-ćwierćfinałowości	ćwierćfinałowość	subst:pl:acc:f		
-ćwierćfinałowości	ćwierćfinałowość	subst:pl:gen:f		
-ćwierćfinałowości	ćwierćfinałowość	subst:pl:nom:f		
-ćwierćfinałowości	ćwierćfinałowość	subst:pl:voc:f		
-ćwierćfinałowości	ćwierćfinałowość	subst:sg:dat:f		
-ćwierćfinałowości	ćwierćfinałowość	subst:sg:gen:f		
-ćwierćfinałowości	ćwierćfinałowość	subst:sg:loc:f		
-ćwierćfinałowości	ćwierćfinałowość	subst:sg:voc:f		
-ćwierćfinałowościom	ćwierćfinałowość	subst:pl:dat:f		
-ćwierćfinałowość	ćwierćfinałowość	subst:sg:acc:f		
-ćwierćfinałowość	ćwierćfinałowość	subst:sg:nom:f		
+ćwierćbeczek	ćwierćbeczek	subst:sg:acc:m3	nazwa pospolita	daw.
+ćwierćbeczek	ćwierćbeczek	subst:sg:nom:m3	nazwa pospolita	daw.
+ćwierćbeczkach	ćwierćbeczek	subst:pl:loc:m3	nazwa pospolita	daw.
+ćwierćbeczka	ćwierćbeczek	subst:sg:gen:m3	nazwa pospolita	daw.
+ćwierćbeczkami	ćwierćbeczek	subst:pl:inst:m3	nazwa pospolita	daw.
+ćwierćbeczki	ćwierćbeczek	subst:pl:acc:m3	nazwa pospolita	daw.
+ćwierćbeczki	ćwierćbeczek	subst:pl:nom:m3	nazwa pospolita	daw.
+ćwierćbeczki	ćwierćbeczek	subst:pl:voc:m3	nazwa pospolita	daw.
+ćwierćbeczkiem	ćwierćbeczek	subst:sg:inst:m3	nazwa pospolita	daw.
+ćwierćbeczkom	ćwierćbeczek	subst:pl:dat:m3	nazwa pospolita	daw.
+ćwierćbeczkowi	ćwierćbeczek	subst:sg:dat:m3	nazwa pospolita	daw.
+ćwierćbeczków	ćwierćbeczek	subst:pl:gen:m3	nazwa pospolita	daw.
+ćwierćbeczku	ćwierćbeczek	subst:sg:loc:m3	nazwa pospolita	daw.
+ćwierćbeczku	ćwierćbeczek	subst:sg:voc:m3	nazwa pospolita	daw.
+ćwierćdolarówce	ćwierćdolarówka	subst:sg:dat:f	nazwa pospolita	
+ćwierćdolarówce	ćwierćdolarówka	subst:sg:loc:f	nazwa pospolita	
+ćwierćdolarówek	ćwierćdolarówka	subst:pl:gen:f	nazwa pospolita	
+ćwierćdolarówkach	ćwierćdolarówka	subst:pl:loc:f	nazwa pospolita	
+ćwierćdolarówka	ćwierćdolarówka	subst:sg:nom:f	nazwa pospolita	
+ćwierćdolarówkami	ćwierćdolarówka	subst:pl:inst:f	nazwa pospolita	
+ćwierćdolarówką	ćwierćdolarówka	subst:sg:inst:f	nazwa pospolita	
+ćwierćdolarówkę	ćwierćdolarówka	subst:sg:acc:f	nazwa pospolita	
+ćwierćdolarówki	ćwierćdolarówka	subst:pl:acc:f	nazwa pospolita	
+ćwierćdolarówki	ćwierćdolarówka	subst:pl:nom:f	nazwa pospolita	
+ćwierćdolarówki	ćwierćdolarówka	subst:pl:voc:f	nazwa pospolita	
+ćwierćdolarówki	ćwierćdolarówka	subst:sg:gen:f	nazwa pospolita	
+ćwierćdolarówko	ćwierćdolarówka	subst:sg:voc:f	nazwa pospolita	
+ćwierćdolarówkom	ćwierćdolarówka	subst:pl:dat:f	nazwa pospolita	
+ćwierćfinalistach	ćwierćfinalista	subst:pl:loc:m1	nazwa pospolita	
+ćwierćfinalista	ćwierćfinalista	subst:sg:nom:m1	nazwa pospolita	
+ćwierćfinalistami	ćwierćfinalista	subst:pl:inst:m1	nazwa pospolita	
+ćwierćfinalistą	ćwierćfinalista	subst:sg:inst:m1	nazwa pospolita	
+ćwierćfinalistę	ćwierćfinalista	subst:sg:acc:m1	nazwa pospolita	
+ćwierćfinalisto	ćwierćfinalista	subst:sg:voc:m1	nazwa pospolita	
+ćwierćfinalistom	ćwierćfinalista	subst:pl:dat:m1	nazwa pospolita	
+ćwierćfinalistów	ćwierćfinalista	subst:pl:acc:m1	nazwa pospolita	
+ćwierćfinalistów	ćwierćfinalista	subst:pl:gen:m1	nazwa pospolita	
+ćwierćfinalisty	ćwierćfinalista	depr:pl:nom:m2	nazwa pospolita	
+ćwierćfinalisty	ćwierćfinalista	depr:pl:voc:m2	nazwa pospolita	
+ćwierćfinalisty	ćwierćfinalista	subst:sg:gen:m1	nazwa pospolita	
+ćwierćfinaliści	ćwierćfinalista	subst:pl:nom:m1	nazwa pospolita	
+ćwierćfinaliści	ćwierćfinalista	subst:pl:voc:m1	nazwa pospolita	
+ćwierćfinaliście	ćwierćfinalista	subst:sg:dat:m1	nazwa pospolita	
+ćwierćfinaliście	ćwierćfinalista	subst:sg:loc:m1	nazwa pospolita	
+ćwierćfinalistce	ćwierćfinalistka	subst:sg:dat:f	nazwa pospolita	
+ćwierćfinalistce	ćwierćfinalistka	subst:sg:loc:f	nazwa pospolita	
+ćwierćfinalistek	ćwierćfinalistka	subst:pl:gen:f	nazwa pospolita	
+ćwierćfinalistkach	ćwierćfinalistka	subst:pl:loc:f	nazwa pospolita	
+ćwierćfinalistka	ćwierćfinalistka	subst:sg:nom:f	nazwa pospolita	
+ćwierćfinalistkami	ćwierćfinalistka	subst:pl:inst:f	nazwa pospolita	
+ćwierćfinalistką	ćwierćfinalistka	subst:sg:inst:f	nazwa pospolita	
+ćwierćfinalistkę	ćwierćfinalistka	subst:sg:acc:f	nazwa pospolita	
+ćwierćfinalistki	ćwierćfinalistka	subst:pl:acc:f	nazwa pospolita	
+ćwierćfinalistki	ćwierćfinalistka	subst:pl:nom:f	nazwa pospolita	
+ćwierćfinalistki	ćwierćfinalistka	subst:pl:voc:f	nazwa pospolita	
+ćwierćfinalistki	ćwierćfinalistka	subst:sg:gen:f	nazwa pospolita	
+ćwierćfinalistko	ćwierćfinalistka	subst:sg:voc:f	nazwa pospolita	
+ćwierćfinalistkom	ćwierćfinalistka	subst:pl:dat:f	nazwa pospolita	
+ćwierćfinale	ćwierćfinał	subst:sg:loc:m3	nazwa pospolita	
+ćwierćfinale	ćwierćfinał	subst:sg:voc:m3	nazwa pospolita	
+ćwierćfinałach	ćwierćfinał	subst:pl:loc:m3	nazwa pospolita	
+ćwierćfinałami	ćwierćfinał	subst:pl:inst:m3	nazwa pospolita	
+ćwierćfinał	ćwierćfinał	subst:sg:acc:m3	nazwa pospolita	
+ćwierćfinał	ćwierćfinał	subst:sg:nom:m3	nazwa pospolita	
+ćwierćfinałem	ćwierćfinał	subst:sg:inst:m3	nazwa pospolita	
+ćwierćfinałom	ćwierćfinał	subst:pl:dat:m3	nazwa pospolita	
+ćwierćfinałowi	ćwierćfinał	subst:sg:dat:m3	nazwa pospolita	
+ćwierćfinałów	ćwierćfinał	subst:pl:gen:m3	nazwa pospolita	
+ćwierćfinału	ćwierćfinał	subst:sg:gen:m3	nazwa pospolita	
+ćwierćfinały	ćwierćfinał	subst:pl:acc:m3	nazwa pospolita	
+ćwierćfinały	ćwierćfinał	subst:pl:nom:m3	nazwa pospolita	
+ćwierćfinały	ćwierćfinał	subst:pl:voc:m3	nazwa pospolita	
+ćwierćfinałowościach	ćwierćfinałowość	subst:pl:loc:f	nazwa pospolita	
+ćwierćfinałowościami	ćwierćfinałowość	subst:pl:inst:f	nazwa pospolita	
+ćwierćfinałowością	ćwierćfinałowość	subst:sg:inst:f	nazwa pospolita	
+ćwierćfinałowości	ćwierćfinałowość	subst:pl:acc:f	nazwa pospolita	
+ćwierćfinałowości	ćwierćfinałowość	subst:pl:gen:f	nazwa pospolita	
+ćwierćfinałowości	ćwierćfinałowość	subst:pl:nom:f	nazwa pospolita	
+ćwierćfinałowości	ćwierćfinałowość	subst:pl:voc:f	nazwa pospolita	
+ćwierćfinałowości	ćwierćfinałowość	subst:sg:dat:f	nazwa pospolita	
+ćwierćfinałowości	ćwierćfinałowość	subst:sg:gen:f	nazwa pospolita	
+ćwierćfinałowości	ćwierćfinałowość	subst:sg:loc:f	nazwa pospolita	
+ćwierćfinałowości	ćwierćfinałowość	subst:sg:voc:f	nazwa pospolita	
+ćwierćfinałowościom	ćwierćfinałowość	subst:pl:dat:f	nazwa pospolita	
+ćwierćfinałowość	ćwierćfinałowość	subst:sg:acc:f	nazwa pospolita	
+ćwierćfinałowość	ćwierćfinałowość	subst:sg:nom:f	nazwa pospolita	
 ćwierćfinałowa	ćwierćfinałowy	adj:sg:nom.voc:f:pos		
 ćwierćfinałową	ćwierćfinałowy	adj:sg:acc:f:pos		
 ćwierćfinałową	ćwierćfinałowy	adj:sg:inst:f:pos		
@@ -1748,20 +1757,20 @@
 ćwierćfinałowym	ćwierćfinałowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ćwierćfinałowym	ćwierćfinałowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ćwierćfinałowymi	ćwierćfinałowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ćwierćgodzinnościach	ćwierćgodzinność	subst:pl:loc:f		
-ćwierćgodzinnościami	ćwierćgodzinność	subst:pl:inst:f		
-ćwierćgodzinnością	ćwierćgodzinność	subst:sg:inst:f		
-ćwierćgodzinności	ćwierćgodzinność	subst:pl:acc:f		
-ćwierćgodzinności	ćwierćgodzinność	subst:pl:gen:f		
-ćwierćgodzinności	ćwierćgodzinność	subst:pl:nom:f		
-ćwierćgodzinności	ćwierćgodzinność	subst:pl:voc:f		
-ćwierćgodzinności	ćwierćgodzinność	subst:sg:dat:f		
-ćwierćgodzinności	ćwierćgodzinność	subst:sg:gen:f		
-ćwierćgodzinności	ćwierćgodzinność	subst:sg:loc:f		
-ćwierćgodzinności	ćwierćgodzinność	subst:sg:voc:f		
-ćwierćgodzinnościom	ćwierćgodzinność	subst:pl:dat:f		
-ćwierćgodzinność	ćwierćgodzinność	subst:sg:acc:f		
-ćwierćgodzinność	ćwierćgodzinność	subst:sg:nom:f		
+ćwierćgodzinnościach	ćwierćgodzinność	subst:pl:loc:f	nazwa pospolita	
+ćwierćgodzinnościami	ćwierćgodzinność	subst:pl:inst:f	nazwa pospolita	
+ćwierćgodzinnością	ćwierćgodzinność	subst:sg:inst:f	nazwa pospolita	
+ćwierćgodzinności	ćwierćgodzinność	subst:pl:acc:f	nazwa pospolita	
+ćwierćgodzinności	ćwierćgodzinność	subst:pl:gen:f	nazwa pospolita	
+ćwierćgodzinności	ćwierćgodzinność	subst:pl:nom:f	nazwa pospolita	
+ćwierćgodzinności	ćwierćgodzinność	subst:pl:voc:f	nazwa pospolita	
+ćwierćgodzinności	ćwierćgodzinność	subst:sg:dat:f	nazwa pospolita	
+ćwierćgodzinności	ćwierćgodzinność	subst:sg:gen:f	nazwa pospolita	
+ćwierćgodzinności	ćwierćgodzinność	subst:sg:loc:f	nazwa pospolita	
+ćwierćgodzinności	ćwierćgodzinność	subst:sg:voc:f	nazwa pospolita	
+ćwierćgodzinnościom	ćwierćgodzinność	subst:pl:dat:f	nazwa pospolita	
+ćwierćgodzinność	ćwierćgodzinność	subst:sg:acc:f	nazwa pospolita	
+ćwierćgodzinność	ćwierćgodzinność	subst:sg:nom:f	nazwa pospolita	
 ćwierćgodzinna	ćwierćgodzinny	adj:sg:nom.voc:f:pos		
 ćwierćgodzinną	ćwierćgodzinny	adj:sg:acc:f:pos		
 ćwierćgodzinną	ćwierćgodzinny	adj:sg:inst:f:pos		
@@ -1786,94 +1795,94 @@
 ćwierćgodzinnym	ćwierćgodzinny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ćwierćgodzinnym	ćwierćgodzinny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ćwierćgodzinnymi	ćwierćgodzinny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ćwierćinteligenci	ćwierćinteligent	subst:pl:nom:m1	pospolita	lekcew.
-ćwierćinteligenci	ćwierćinteligent	subst:pl:voc:m1	pospolita	lekcew.
-ćwierćinteligencie	ćwierćinteligent	subst:sg:loc:m1	pospolita	lekcew.
-ćwierćinteligencie	ćwierćinteligent	subst:sg:voc:m1	pospolita	lekcew.
-ćwierćinteligentach	ćwierćinteligent	subst:pl:loc:m1	pospolita	lekcew.
-ćwierćinteligenta	ćwierćinteligent	subst:sg:acc:m1	pospolita	lekcew.
-ćwierćinteligenta	ćwierćinteligent	subst:sg:gen:m1	pospolita	lekcew.
-ćwierćinteligentami	ćwierćinteligent	subst:pl:inst:m1	pospolita	lekcew.
-ćwierćinteligent	ćwierćinteligent	subst:sg:nom:m1	pospolita	lekcew.
-ćwierćinteligentem	ćwierćinteligent	subst:sg:inst:m1	pospolita	lekcew.
-ćwierćinteligentom	ćwierćinteligent	subst:pl:dat:m1	pospolita	lekcew.
-ćwierćinteligentowi	ćwierćinteligent	subst:sg:dat:m1	pospolita	lekcew.
-ćwierćinteligentów	ćwierćinteligent	subst:pl:acc:m1	pospolita	lekcew.
-ćwierćinteligentów	ćwierćinteligent	subst:pl:gen:m1	pospolita	lekcew.
-ćwierćinteligenty	ćwierćinteligent	depr:pl:nom:m2	pospolita	lekcew.
-ćwierćinteligenty	ćwierćinteligent	depr:pl:voc:m2	pospolita	lekcew.
-ćwierćinteligentce	ćwierćinteligentka	subst:sg:dat:f	pospolita	lekcew.
-ćwierćinteligentce	ćwierćinteligentka	subst:sg:loc:f	pospolita	lekcew.
-ćwierćinteligentek	ćwierćinteligentka	subst:pl:gen:f	pospolita	lekcew.
-ćwierćinteligentkach	ćwierćinteligentka	subst:pl:loc:f	pospolita	lekcew.
-ćwierćinteligentka	ćwierćinteligentka	subst:sg:nom:f	pospolita	lekcew.
-ćwierćinteligentkami	ćwierćinteligentka	subst:pl:inst:f	pospolita	lekcew.
-ćwierćinteligentką	ćwierćinteligentka	subst:sg:inst:f	pospolita	lekcew.
-ćwierćinteligentkę	ćwierćinteligentka	subst:sg:acc:f	pospolita	lekcew.
-ćwierćinteligentki	ćwierćinteligentka	subst:pl:acc:f	pospolita	lekcew.
-ćwierćinteligentki	ćwierćinteligentka	subst:pl:nom:f	pospolita	lekcew.
-ćwierćinteligentki	ćwierćinteligentka	subst:pl:voc:f	pospolita	lekcew.
-ćwierćinteligentki	ćwierćinteligentka	subst:sg:gen:f	pospolita	lekcew.
-ćwierćinteligentko	ćwierćinteligentka	subst:sg:voc:f	pospolita	lekcew.
-ćwierćinteligentkom	ćwierćinteligentka	subst:pl:dat:f	pospolita	lekcew.
-ćwierćkolumnach	ćwierćkolumna	subst:pl:loc:f	pospolita	
-ćwierćkolumna	ćwierćkolumna	subst:sg:nom:f	pospolita	
-ćwierćkolumnami	ćwierćkolumna	subst:pl:inst:f	pospolita	
-ćwierćkolumną	ćwierćkolumna	subst:sg:inst:f	pospolita	
-ćwierćkolumn	ćwierćkolumna	subst:pl:gen:f	pospolita	
-ćwierćkolumnę	ćwierćkolumna	subst:sg:acc:f	pospolita	
-ćwierćkolumnie	ćwierćkolumna	subst:sg:dat:f	pospolita	
-ćwierćkolumnie	ćwierćkolumna	subst:sg:loc:f	pospolita	
-ćwierćkolumno	ćwierćkolumna	subst:sg:voc:f	pospolita	
-ćwierćkolumnom	ćwierćkolumna	subst:pl:dat:f	pospolita	
-ćwierćkolumny	ćwierćkolumna	subst:pl:acc:f	pospolita	
-ćwierćkolumny	ćwierćkolumna	subst:pl:nom:f	pospolita	
-ćwierćkolumny	ćwierćkolumna	subst:pl:voc:f	pospolita	
-ćwierćkolumny	ćwierćkolumna	subst:sg:gen:f	pospolita	
+ćwierćinteligenci	ćwierćinteligent	subst:pl:nom:m1	nazwa pospolita	lekcew.
+ćwierćinteligenci	ćwierćinteligent	subst:pl:voc:m1	nazwa pospolita	lekcew.
+ćwierćinteligencie	ćwierćinteligent	subst:sg:loc:m1	nazwa pospolita	lekcew.
+ćwierćinteligencie	ćwierćinteligent	subst:sg:voc:m1	nazwa pospolita	lekcew.
+ćwierćinteligentach	ćwierćinteligent	subst:pl:loc:m1	nazwa pospolita	lekcew.
+ćwierćinteligenta	ćwierćinteligent	subst:sg:acc:m1	nazwa pospolita	lekcew.
+ćwierćinteligenta	ćwierćinteligent	subst:sg:gen:m1	nazwa pospolita	lekcew.
+ćwierćinteligentami	ćwierćinteligent	subst:pl:inst:m1	nazwa pospolita	lekcew.
+ćwierćinteligent	ćwierćinteligent	subst:sg:nom:m1	nazwa pospolita	lekcew.
+ćwierćinteligentem	ćwierćinteligent	subst:sg:inst:m1	nazwa pospolita	lekcew.
+ćwierćinteligentom	ćwierćinteligent	subst:pl:dat:m1	nazwa pospolita	lekcew.
+ćwierćinteligentowi	ćwierćinteligent	subst:sg:dat:m1	nazwa pospolita	lekcew.
+ćwierćinteligentów	ćwierćinteligent	subst:pl:acc:m1	nazwa pospolita	lekcew.
+ćwierćinteligentów	ćwierćinteligent	subst:pl:gen:m1	nazwa pospolita	lekcew.
+ćwierćinteligenty	ćwierćinteligent	depr:pl:nom:m2	nazwa pospolita	lekcew.
+ćwierćinteligenty	ćwierćinteligent	depr:pl:voc:m2	nazwa pospolita	lekcew.
+ćwierćinteligentce	ćwierćinteligentka	subst:sg:dat:f	nazwa pospolita	lekcew.
+ćwierćinteligentce	ćwierćinteligentka	subst:sg:loc:f	nazwa pospolita	lekcew.
+ćwierćinteligentek	ćwierćinteligentka	subst:pl:gen:f	nazwa pospolita	lekcew.
+ćwierćinteligentkach	ćwierćinteligentka	subst:pl:loc:f	nazwa pospolita	lekcew.
+ćwierćinteligentka	ćwierćinteligentka	subst:sg:nom:f	nazwa pospolita	lekcew.
+ćwierćinteligentkami	ćwierćinteligentka	subst:pl:inst:f	nazwa pospolita	lekcew.
+ćwierćinteligentką	ćwierćinteligentka	subst:sg:inst:f	nazwa pospolita	lekcew.
+ćwierćinteligentkę	ćwierćinteligentka	subst:sg:acc:f	nazwa pospolita	lekcew.
+ćwierćinteligentki	ćwierćinteligentka	subst:pl:acc:f	nazwa pospolita	lekcew.
+ćwierćinteligentki	ćwierćinteligentka	subst:pl:nom:f	nazwa pospolita	lekcew.
+ćwierćinteligentki	ćwierćinteligentka	subst:pl:voc:f	nazwa pospolita	lekcew.
+ćwierćinteligentki	ćwierćinteligentka	subst:sg:gen:f	nazwa pospolita	lekcew.
+ćwierćinteligentko	ćwierćinteligentka	subst:sg:voc:f	nazwa pospolita	lekcew.
+ćwierćinteligentkom	ćwierćinteligentka	subst:pl:dat:f	nazwa pospolita	lekcew.
+ćwierćkolumnach	ćwierćkolumna	subst:pl:loc:f	nazwa pospolita	
+ćwierćkolumna	ćwierćkolumna	subst:sg:nom:f	nazwa pospolita	
+ćwierćkolumnami	ćwierćkolumna	subst:pl:inst:f	nazwa pospolita	
+ćwierćkolumną	ćwierćkolumna	subst:sg:inst:f	nazwa pospolita	
+ćwierćkolumn	ćwierćkolumna	subst:pl:gen:f	nazwa pospolita	
+ćwierćkolumnę	ćwierćkolumna	subst:sg:acc:f	nazwa pospolita	
+ćwierćkolumnie	ćwierćkolumna	subst:sg:dat:f	nazwa pospolita	
+ćwierćkolumnie	ćwierćkolumna	subst:sg:loc:f	nazwa pospolita	
+ćwierćkolumno	ćwierćkolumna	subst:sg:voc:f	nazwa pospolita	
+ćwierćkolumnom	ćwierćkolumna	subst:pl:dat:f	nazwa pospolita	
+ćwierćkolumny	ćwierćkolumna	subst:pl:acc:f	nazwa pospolita	
+ćwierćkolumny	ćwierćkolumna	subst:pl:nom:f	nazwa pospolita	
+ćwierćkolumny	ćwierćkolumna	subst:pl:voc:f	nazwa pospolita	
+ćwierćkolumny	ćwierćkolumna	subst:sg:gen:f	nazwa pospolita	
 ćwierć	ćwierć:n	num:comp		
 ćwierć	ćwierć:n	num:sg:nom.gen.dat.inst.acc.loc.voc:m1.m2.m3.f.n1.n2:rec		
-ćwierćnucie	ćwierćnuta	subst:sg:dat:f	pospolita	muz.
-ćwierćnucie	ćwierćnuta	subst:sg:loc:f	pospolita	muz.
-ćwierćnutach	ćwierćnuta	subst:pl:loc:f	pospolita	muz.
-ćwierćnuta	ćwierćnuta	subst:sg:nom:f	pospolita	muz.
-ćwierćnutami	ćwierćnuta	subst:pl:inst:f	pospolita	muz.
-ćwierćnutą	ćwierćnuta	subst:sg:inst:f	pospolita	muz.
-ćwierćnut	ćwierćnuta	subst:pl:gen:f	pospolita	muz.
-ćwierćnutę	ćwierćnuta	subst:sg:acc:f	pospolita	muz.
-ćwierćnuto	ćwierćnuta	subst:sg:voc:f	pospolita	muz.
-ćwierćnutom	ćwierćnuta	subst:pl:dat:f	pospolita	muz.
-ćwierćnuty	ćwierćnuta	subst:pl:acc:f	pospolita	muz.
-ćwierćnuty	ćwierćnuta	subst:pl:nom:f	pospolita	muz.
-ćwierćnuty	ćwierćnuta	subst:pl:voc:f	pospolita	muz.
-ćwierćnuty	ćwierćnuta	subst:sg:gen:f	pospolita	muz.
-ćwierćroczach	ćwierćrocze	subst:pl:loc:n2	pospolita	
-ćwierćrocza	ćwierćrocze	subst:pl:acc:n2	pospolita	
-ćwierćrocza	ćwierćrocze	subst:pl:nom:n2	pospolita	
-ćwierćrocza	ćwierćrocze	subst:pl:voc:n2	pospolita	
-ćwierćrocza	ćwierćrocze	subst:sg:gen:n2	pospolita	
-ćwierćroczami	ćwierćrocze	subst:pl:inst:n2	pospolita	
-ćwierćrocze	ćwierćrocze	subst:sg:acc:n2	pospolita	
-ćwierćrocze	ćwierćrocze	subst:sg:nom:n2	pospolita	
-ćwierćrocze	ćwierćrocze	subst:sg:voc:n2	pospolita	
-ćwierćroczem	ćwierćrocze	subst:sg:inst:n2	pospolita	
-ćwierćroczom	ćwierćrocze	subst:pl:dat:n2	pospolita	
-ćwierćroczu	ćwierćrocze	subst:sg:dat:n2	pospolita	
-ćwierćroczu	ćwierćrocze	subst:sg:loc:n2	pospolita	
-ćwierćroczy	ćwierćrocze	subst:pl:gen:n2	pospolita	
-ćwierćrocznościach	ćwierćroczność	subst:pl:loc:f		
-ćwierćrocznościami	ćwierćroczność	subst:pl:inst:f		
-ćwierćrocznością	ćwierćroczność	subst:sg:inst:f		
-ćwierćroczności	ćwierćroczność	subst:pl:acc:f		
-ćwierćroczności	ćwierćroczność	subst:pl:gen:f		
-ćwierćroczności	ćwierćroczność	subst:pl:nom:f		
-ćwierćroczności	ćwierćroczność	subst:pl:voc:f		
-ćwierćroczności	ćwierćroczność	subst:sg:dat:f		
-ćwierćroczności	ćwierćroczność	subst:sg:gen:f		
-ćwierćroczności	ćwierćroczność	subst:sg:loc:f		
-ćwierćroczności	ćwierćroczność	subst:sg:voc:f		
-ćwierćrocznościom	ćwierćroczność	subst:pl:dat:f		
-ćwierćroczność	ćwierćroczność	subst:sg:acc:f		
-ćwierćroczność	ćwierćroczność	subst:sg:nom:f		
+ćwierćnucie	ćwierćnuta	subst:sg:dat:f	nazwa pospolita	muz.
+ćwierćnucie	ćwierćnuta	subst:sg:loc:f	nazwa pospolita	muz.
+ćwierćnutach	ćwierćnuta	subst:pl:loc:f	nazwa pospolita	muz.
+ćwierćnuta	ćwierćnuta	subst:sg:nom:f	nazwa pospolita	muz.
+ćwierćnutami	ćwierćnuta	subst:pl:inst:f	nazwa pospolita	muz.
+ćwierćnutą	ćwierćnuta	subst:sg:inst:f	nazwa pospolita	muz.
+ćwierćnut	ćwierćnuta	subst:pl:gen:f	nazwa pospolita	muz.
+ćwierćnutę	ćwierćnuta	subst:sg:acc:f	nazwa pospolita	muz.
+ćwierćnuto	ćwierćnuta	subst:sg:voc:f	nazwa pospolita	muz.
+ćwierćnutom	ćwierćnuta	subst:pl:dat:f	nazwa pospolita	muz.
+ćwierćnuty	ćwierćnuta	subst:pl:acc:f	nazwa pospolita	muz.
+ćwierćnuty	ćwierćnuta	subst:pl:nom:f	nazwa pospolita	muz.
+ćwierćnuty	ćwierćnuta	subst:pl:voc:f	nazwa pospolita	muz.
+ćwierćnuty	ćwierćnuta	subst:sg:gen:f	nazwa pospolita	muz.
+ćwierćroczach	ćwierćrocze	subst:pl:loc:n2	nazwa pospolita	
+ćwierćrocza	ćwierćrocze	subst:pl:acc:n2	nazwa pospolita	
+ćwierćrocza	ćwierćrocze	subst:pl:nom:n2	nazwa pospolita	
+ćwierćrocza	ćwierćrocze	subst:pl:voc:n2	nazwa pospolita	
+ćwierćrocza	ćwierćrocze	subst:sg:gen:n2	nazwa pospolita	
+ćwierćroczami	ćwierćrocze	subst:pl:inst:n2	nazwa pospolita	
+ćwierćrocze	ćwierćrocze	subst:sg:acc:n2	nazwa pospolita	
+ćwierćrocze	ćwierćrocze	subst:sg:nom:n2	nazwa pospolita	
+ćwierćrocze	ćwierćrocze	subst:sg:voc:n2	nazwa pospolita	
+ćwierćroczem	ćwierćrocze	subst:sg:inst:n2	nazwa pospolita	
+ćwierćroczom	ćwierćrocze	subst:pl:dat:n2	nazwa pospolita	
+ćwierćroczu	ćwierćrocze	subst:sg:dat:n2	nazwa pospolita	
+ćwierćroczu	ćwierćrocze	subst:sg:loc:n2	nazwa pospolita	
+ćwierćroczy	ćwierćrocze	subst:pl:gen:n2	nazwa pospolita	
+ćwierćrocznościach	ćwierćroczność	subst:pl:loc:f	nazwa pospolita	
+ćwierćrocznościami	ćwierćroczność	subst:pl:inst:f	nazwa pospolita	
+ćwierćrocznością	ćwierćroczność	subst:sg:inst:f	nazwa pospolita	
+ćwierćroczności	ćwierćroczność	subst:pl:acc:f	nazwa pospolita	
+ćwierćroczności	ćwierćroczność	subst:pl:gen:f	nazwa pospolita	
+ćwierćroczności	ćwierćroczność	subst:pl:nom:f	nazwa pospolita	
+ćwierćroczności	ćwierćroczność	subst:pl:voc:f	nazwa pospolita	
+ćwierćroczności	ćwierćroczność	subst:sg:dat:f	nazwa pospolita	
+ćwierćroczności	ćwierćroczność	subst:sg:gen:f	nazwa pospolita	
+ćwierćroczności	ćwierćroczność	subst:sg:loc:f	nazwa pospolita	
+ćwierćroczności	ćwierćroczność	subst:sg:voc:f	nazwa pospolita	
+ćwierćrocznościom	ćwierćroczność	subst:pl:dat:f	nazwa pospolita	
+ćwierćroczność	ćwierćroczność	subst:sg:acc:f	nazwa pospolita	
+ćwierćroczność	ćwierćroczność	subst:sg:nom:f	nazwa pospolita	
 ćwierćroczna	ćwierćroczny	adj:sg:nom.voc:f:pos		
 ćwierćroczną	ćwierćroczny	adj:sg:acc:f:pos		
 ćwierćroczną	ćwierćroczny	adj:sg:inst:f:pos		
@@ -1898,76 +1907,76 @@
 ćwierćrocznym	ćwierćroczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ćwierćrocznym	ćwierćroczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ćwierćrocznymi	ćwierćroczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ćwierciach	ćwierć:s	subst:pl:loc:f	pospolita	
-ćwierciami	ćwierć:s	subst:pl:inst:f	pospolita	
-ćwiercią	ćwierć:s	subst:sg:inst:f	pospolita	
-ćwierci	ćwierć:s	subst:pl:acc:f	pospolita	
-ćwierci	ćwierć:s	subst:pl:gen:f	pospolita	
-ćwierci	ćwierć:s	subst:pl:nom:f	pospolita	
-ćwierci	ćwierć:s	subst:pl:voc:f	pospolita	
-ćwierci	ćwierć:s	subst:sg:dat:f	pospolita	
-ćwierci	ćwierć:s	subst:sg:gen:f	pospolita	
-ćwierci	ćwierć:s	subst:sg:loc:f	pospolita	
-ćwierci	ćwierć:s	subst:sg:voc:f	pospolita	
-ćwierciom	ćwierć:s	subst:pl:dat:f	pospolita	
-ćwierć	ćwierć:s	subst:sg:acc:f	pospolita	
-ćwierć	ćwierć:s	subst:sg:nom:f	pospolita	
-ćwierćtonach	ćwierćton	subst:pl:loc:m3	pospolita	
-ćwierćtonami	ćwierćton	subst:pl:inst:m3	pospolita	
-ćwierćton	ćwierćton	subst:sg:acc:m3	pospolita	
-ćwierćton	ćwierćton	subst:sg:nom:m3	pospolita	
-ćwierćtonem	ćwierćton	subst:sg:inst:m3	pospolita	
-ćwierćtonie	ćwierćton	subst:sg:loc:m3	pospolita	
-ćwierćtonie	ćwierćton	subst:sg:voc:m3	pospolita	
-ćwierćtonom	ćwierćton	subst:pl:dat:m3	pospolita	
-ćwierćtonowi	ćwierćton	subst:sg:dat:m3	pospolita	
-ćwierćtonów	ćwierćton	subst:pl:gen:m3	pospolita	
-ćwierćtonu	ćwierćton	subst:sg:gen:m3	pospolita	
-ćwierćtony	ćwierćton	subst:pl:acc:m3	pospolita	
-ćwierćtony	ćwierćton	subst:pl:nom:m3	pospolita	
-ćwierćtony	ćwierćton	subst:pl:voc:m3	pospolita	
-ćwierćwałek	ćwierćwałek	subst:sg:acc:m3	pospolita	
-ćwierćwałek	ćwierćwałek	subst:sg:nom:m3	pospolita	
-ćwierćwałkach	ćwierćwałek	subst:pl:loc:m3	pospolita	
-ćwierćwałka	ćwierćwałek	subst:sg:gen:m3	pospolita	
-ćwierćwałkami	ćwierćwałek	subst:pl:inst:m3	pospolita	
-ćwierćwałki	ćwierćwałek	subst:pl:acc:m3	pospolita	
-ćwierćwałki	ćwierćwałek	subst:pl:nom:m3	pospolita	
-ćwierćwałki	ćwierćwałek	subst:pl:voc:m3	pospolita	
-ćwierćwałkiem	ćwierćwałek	subst:sg:inst:m3	pospolita	
-ćwierćwałkom	ćwierćwałek	subst:pl:dat:m3	pospolita	
-ćwierćwałkowi	ćwierćwałek	subst:sg:dat:m3	pospolita	
-ćwierćwałków	ćwierćwałek	subst:pl:gen:m3	pospolita	
-ćwierćwałku	ćwierćwałek	subst:sg:loc:m3	pospolita	
-ćwierćwałku	ćwierćwałek	subst:sg:voc:m3	pospolita	
-ćwierćwieczach	ćwierćwiecze	subst:pl:loc:n2	pospolita	
-ćwierćwiecza	ćwierćwiecze	subst:pl:acc:n2	pospolita	
-ćwierćwiecza	ćwierćwiecze	subst:pl:nom:n2	pospolita	
-ćwierćwiecza	ćwierćwiecze	subst:pl:voc:n2	pospolita	
-ćwierćwiecza	ćwierćwiecze	subst:sg:gen:n2	pospolita	
-ćwierćwieczami	ćwierćwiecze	subst:pl:inst:n2	pospolita	
-ćwierćwiecze	ćwierćwiecze	subst:sg:acc:n2	pospolita	
-ćwierćwiecze	ćwierćwiecze	subst:sg:nom:n2	pospolita	
-ćwierćwiecze	ćwierćwiecze	subst:sg:voc:n2	pospolita	
-ćwierćwieczem	ćwierćwiecze	subst:sg:inst:n2	pospolita	
-ćwierćwieczom	ćwierćwiecze	subst:pl:dat:n2	pospolita	
-ćwierćwieczu	ćwierćwiecze	subst:sg:dat:n2	pospolita	
-ćwierćwieczu	ćwierćwiecze	subst:sg:loc:n2	pospolita	
-ćwierćwieczy	ćwierćwiecze	subst:pl:gen:n2	pospolita	
-ćwierćwiekowościach	ćwierćwiekowość	subst:pl:loc:f		
-ćwierćwiekowościami	ćwierćwiekowość	subst:pl:inst:f		
-ćwierćwiekowością	ćwierćwiekowość	subst:sg:inst:f		
-ćwierćwiekowości	ćwierćwiekowość	subst:pl:acc:f		
-ćwierćwiekowości	ćwierćwiekowość	subst:pl:gen:f		
-ćwierćwiekowości	ćwierćwiekowość	subst:pl:nom:f		
-ćwierćwiekowości	ćwierćwiekowość	subst:pl:voc:f		
-ćwierćwiekowości	ćwierćwiekowość	subst:sg:dat:f		
-ćwierćwiekowości	ćwierćwiekowość	subst:sg:gen:f		
-ćwierćwiekowości	ćwierćwiekowość	subst:sg:loc:f		
-ćwierćwiekowości	ćwierćwiekowość	subst:sg:voc:f		
-ćwierćwiekowościom	ćwierćwiekowość	subst:pl:dat:f		
-ćwierćwiekowość	ćwierćwiekowość	subst:sg:acc:f		
-ćwierćwiekowość	ćwierćwiekowość	subst:sg:nom:f		
+ćwierciach	ćwierć:s	subst:pl:loc:f	nazwa pospolita	
+ćwierciami	ćwierć:s	subst:pl:inst:f	nazwa pospolita	
+ćwiercią	ćwierć:s	subst:sg:inst:f	nazwa pospolita	
+ćwierci	ćwierć:s	subst:pl:acc:f	nazwa pospolita	
+ćwierci	ćwierć:s	subst:pl:gen:f	nazwa pospolita	
+ćwierci	ćwierć:s	subst:pl:nom:f	nazwa pospolita	
+ćwierci	ćwierć:s	subst:pl:voc:f	nazwa pospolita	
+ćwierci	ćwierć:s	subst:sg:dat:f	nazwa pospolita	
+ćwierci	ćwierć:s	subst:sg:gen:f	nazwa pospolita	
+ćwierci	ćwierć:s	subst:sg:loc:f	nazwa pospolita	
+ćwierci	ćwierć:s	subst:sg:voc:f	nazwa pospolita	
+ćwierciom	ćwierć:s	subst:pl:dat:f	nazwa pospolita	
+ćwierć	ćwierć:s	subst:sg:acc:f	nazwa pospolita	
+ćwierć	ćwierć:s	subst:sg:nom:f	nazwa pospolita	
+ćwierćtonach	ćwierćton	subst:pl:loc:m3	nazwa pospolita	
+ćwierćtonami	ćwierćton	subst:pl:inst:m3	nazwa pospolita	
+ćwierćton	ćwierćton	subst:sg:acc:m3	nazwa pospolita	
+ćwierćton	ćwierćton	subst:sg:nom:m3	nazwa pospolita	
+ćwierćtonem	ćwierćton	subst:sg:inst:m3	nazwa pospolita	
+ćwierćtonie	ćwierćton	subst:sg:loc:m3	nazwa pospolita	
+ćwierćtonie	ćwierćton	subst:sg:voc:m3	nazwa pospolita	
+ćwierćtonom	ćwierćton	subst:pl:dat:m3	nazwa pospolita	
+ćwierćtonowi	ćwierćton	subst:sg:dat:m3	nazwa pospolita	
+ćwierćtonów	ćwierćton	subst:pl:gen:m3	nazwa pospolita	
+ćwierćtonu	ćwierćton	subst:sg:gen:m3	nazwa pospolita	
+ćwierćtony	ćwierćton	subst:pl:acc:m3	nazwa pospolita	
+ćwierćtony	ćwierćton	subst:pl:nom:m3	nazwa pospolita	
+ćwierćtony	ćwierćton	subst:pl:voc:m3	nazwa pospolita	
+ćwierćwałek	ćwierćwałek	subst:sg:acc:m3	nazwa pospolita	
+ćwierćwałek	ćwierćwałek	subst:sg:nom:m3	nazwa pospolita	
+ćwierćwałkach	ćwierćwałek	subst:pl:loc:m3	nazwa pospolita	
+ćwierćwałka	ćwierćwałek	subst:sg:gen:m3	nazwa pospolita	
+ćwierćwałkami	ćwierćwałek	subst:pl:inst:m3	nazwa pospolita	
+ćwierćwałki	ćwierćwałek	subst:pl:acc:m3	nazwa pospolita	
+ćwierćwałki	ćwierćwałek	subst:pl:nom:m3	nazwa pospolita	
+ćwierćwałki	ćwierćwałek	subst:pl:voc:m3	nazwa pospolita	
+ćwierćwałkiem	ćwierćwałek	subst:sg:inst:m3	nazwa pospolita	
+ćwierćwałkom	ćwierćwałek	subst:pl:dat:m3	nazwa pospolita	
+ćwierćwałkowi	ćwierćwałek	subst:sg:dat:m3	nazwa pospolita	
+ćwierćwałków	ćwierćwałek	subst:pl:gen:m3	nazwa pospolita	
+ćwierćwałku	ćwierćwałek	subst:sg:loc:m3	nazwa pospolita	
+ćwierćwałku	ćwierćwałek	subst:sg:voc:m3	nazwa pospolita	
+ćwierćwieczach	ćwierćwiecze	subst:pl:loc:n2	nazwa pospolita	
+ćwierćwiecza	ćwierćwiecze	subst:pl:acc:n2	nazwa pospolita	
+ćwierćwiecza	ćwierćwiecze	subst:pl:nom:n2	nazwa pospolita	
+ćwierćwiecza	ćwierćwiecze	subst:pl:voc:n2	nazwa pospolita	
+ćwierćwiecza	ćwierćwiecze	subst:sg:gen:n2	nazwa pospolita	
+ćwierćwieczami	ćwierćwiecze	subst:pl:inst:n2	nazwa pospolita	
+ćwierćwiecze	ćwierćwiecze	subst:sg:acc:n2	nazwa pospolita	
+ćwierćwiecze	ćwierćwiecze	subst:sg:nom:n2	nazwa pospolita	
+ćwierćwiecze	ćwierćwiecze	subst:sg:voc:n2	nazwa pospolita	
+ćwierćwieczem	ćwierćwiecze	subst:sg:inst:n2	nazwa pospolita	
+ćwierćwieczom	ćwierćwiecze	subst:pl:dat:n2	nazwa pospolita	
+ćwierćwieczu	ćwierćwiecze	subst:sg:dat:n2	nazwa pospolita	
+ćwierćwieczu	ćwierćwiecze	subst:sg:loc:n2	nazwa pospolita	
+ćwierćwieczy	ćwierćwiecze	subst:pl:gen:n2	nazwa pospolita	
+ćwierćwiekowościach	ćwierćwiekowość	subst:pl:loc:f	nazwa pospolita	
+ćwierćwiekowościami	ćwierćwiekowość	subst:pl:inst:f	nazwa pospolita	
+ćwierćwiekowością	ćwierćwiekowość	subst:sg:inst:f	nazwa pospolita	
+ćwierćwiekowości	ćwierćwiekowość	subst:pl:acc:f	nazwa pospolita	
+ćwierćwiekowości	ćwierćwiekowość	subst:pl:gen:f	nazwa pospolita	
+ćwierćwiekowości	ćwierćwiekowość	subst:pl:nom:f	nazwa pospolita	
+ćwierćwiekowości	ćwierćwiekowość	subst:pl:voc:f	nazwa pospolita	
+ćwierćwiekowości	ćwierćwiekowość	subst:sg:dat:f	nazwa pospolita	
+ćwierćwiekowości	ćwierćwiekowość	subst:sg:gen:f	nazwa pospolita	
+ćwierćwiekowości	ćwierćwiekowość	subst:sg:loc:f	nazwa pospolita	
+ćwierćwiekowości	ćwierćwiekowość	subst:sg:voc:f	nazwa pospolita	
+ćwierćwiekowościom	ćwierćwiekowość	subst:pl:dat:f	nazwa pospolita	
+ćwierćwiekowość	ćwierćwiekowość	subst:sg:acc:f	nazwa pospolita	
+ćwierćwiekowość	ćwierćwiekowość	subst:sg:nom:f	nazwa pospolita	
 ćwierćwiekowa	ćwierćwiekowy	adj:sg:nom.voc:f:pos		
 ćwierćwiekową	ćwierćwiekowy	adj:sg:acc:f:pos		
 ćwierćwiekową	ćwierćwiekowy	adj:sg:inst:f:pos		
@@ -1992,20 +2001,20 @@
 ćwierćwiekowym	ćwierćwiekowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ćwierćwiekowym	ćwierćwiekowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ćwierćwiekowymi	ćwierćwiekowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ćwierkach	ćwierk	subst:pl:loc:m3	pospolita	
-ćwierkami	ćwierk	subst:pl:inst:m3	pospolita	
-ćwierk	ćwierk	subst:sg:acc:m3	pospolita	
-ćwierk	ćwierk	subst:sg:nom:m3	pospolita	
-ćwierki	ćwierk	subst:pl:acc:m3	pospolita	
-ćwierki	ćwierk	subst:pl:nom:m3	pospolita	
-ćwierki	ćwierk	subst:pl:voc:m3	pospolita	
-ćwierkiem	ćwierk	subst:sg:inst:m3	pospolita	
-ćwierkom	ćwierk	subst:pl:dat:m3	pospolita	
-ćwierkowi	ćwierk	subst:sg:dat:m3	pospolita	
-ćwierków	ćwierk	subst:pl:gen:m3	pospolita	
-ćwierku	ćwierk	subst:sg:gen:m3	pospolita	
-ćwierku	ćwierk	subst:sg:loc:m3	pospolita	
-ćwierku	ćwierk	subst:sg:voc:m3	pospolita	
+ćwierkach	ćwierk	subst:pl:loc:m3	nazwa pospolita	
+ćwierkami	ćwierk	subst:pl:inst:m3	nazwa pospolita	
+ćwierk	ćwierk	subst:sg:acc:m3	nazwa pospolita	
+ćwierk	ćwierk	subst:sg:nom:m3	nazwa pospolita	
+ćwierki	ćwierk	subst:pl:acc:m3	nazwa pospolita	
+ćwierki	ćwierk	subst:pl:nom:m3	nazwa pospolita	
+ćwierki	ćwierk	subst:pl:voc:m3	nazwa pospolita	
+ćwierkiem	ćwierk	subst:sg:inst:m3	nazwa pospolita	
+ćwierkom	ćwierk	subst:pl:dat:m3	nazwa pospolita	
+ćwierkowi	ćwierk	subst:sg:dat:m3	nazwa pospolita	
+ćwierków	ćwierk	subst:pl:gen:m3	nazwa pospolita	
+ćwierku	ćwierk	subst:sg:gen:m3	nazwa pospolita	
+ćwierku	ćwierk	subst:sg:loc:m3	nazwa pospolita	
+ćwierku	ćwierk	subst:sg:voc:m3	nazwa pospolita	
 ćwierkacie	ćwierkać	fin:pl:sec:imperf		
 ćwierkać	ćwierkać	inf:imperf		
 ćwierka	ćwierkać	fin:sg:ter:imperf		
@@ -2018,6 +2027,7 @@
 ćwierkającego	ćwierkać	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwierkającej	ćwierkać	pact:sg:gen.dat.loc:f:imperf:aff		
 ćwierkającemu	ćwierkać	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwierkająco	ćwierkać	pacta		
 ćwierkających	ćwierkać	pact:pl:acc:m1.p1:imperf:aff		
 ćwierkających	ćwierkać	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćwierkający	ćwierkać	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -2079,20 +2089,20 @@
 ćwierkań	ćwierkać	ger:pl:gen:n2:imperf:aff		
 ćwierkasz	ćwierkać	fin:sg:sec:imperf		
 ćwierkliwie	ćwierkliwie	adv:pos		
-ćwierkliwościach	ćwierkliwość	subst:pl:loc:f		
-ćwierkliwościami	ćwierkliwość	subst:pl:inst:f		
-ćwierkliwością	ćwierkliwość	subst:sg:inst:f		
-ćwierkliwości	ćwierkliwość	subst:pl:acc:f		
-ćwierkliwości	ćwierkliwość	subst:pl:gen:f		
-ćwierkliwości	ćwierkliwość	subst:pl:nom:f		
-ćwierkliwości	ćwierkliwość	subst:pl:voc:f		
-ćwierkliwości	ćwierkliwość	subst:sg:dat:f		
-ćwierkliwości	ćwierkliwość	subst:sg:gen:f		
-ćwierkliwości	ćwierkliwość	subst:sg:loc:f		
-ćwierkliwości	ćwierkliwość	subst:sg:voc:f		
-ćwierkliwościom	ćwierkliwość	subst:pl:dat:f		
-ćwierkliwość	ćwierkliwość	subst:sg:acc:f		
-ćwierkliwość	ćwierkliwość	subst:sg:nom:f		
+ćwierkliwościach	ćwierkliwość	subst:pl:loc:f	nazwa pospolita	
+ćwierkliwościami	ćwierkliwość	subst:pl:inst:f	nazwa pospolita	
+ćwierkliwością	ćwierkliwość	subst:sg:inst:f	nazwa pospolita	
+ćwierkliwości	ćwierkliwość	subst:pl:acc:f	nazwa pospolita	
+ćwierkliwości	ćwierkliwość	subst:pl:gen:f	nazwa pospolita	
+ćwierkliwości	ćwierkliwość	subst:pl:nom:f	nazwa pospolita	
+ćwierkliwości	ćwierkliwość	subst:pl:voc:f	nazwa pospolita	
+ćwierkliwości	ćwierkliwość	subst:sg:dat:f	nazwa pospolita	
+ćwierkliwości	ćwierkliwość	subst:sg:gen:f	nazwa pospolita	
+ćwierkliwości	ćwierkliwość	subst:sg:loc:f	nazwa pospolita	
+ćwierkliwości	ćwierkliwość	subst:sg:voc:f	nazwa pospolita	
+ćwierkliwościom	ćwierkliwość	subst:pl:dat:f	nazwa pospolita	
+ćwierkliwość	ćwierkliwość	subst:sg:acc:f	nazwa pospolita	
+ćwierkliwość	ćwierkliwość	subst:sg:nom:f	nazwa pospolita	
 ćwierkliwa	ćwierkliwy	adj:sg:nom.voc:f:pos		
 ćwierkliwą	ćwierkliwy	adj:sg:acc:f:pos		
 ćwierkliwą	ćwierkliwy	adj:sg:inst:f:pos		
@@ -2182,6 +2192,7 @@
 ćwierkocącego	ćwierkotać	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwierkocącej	ćwierkotać	pact:sg:gen.dat.loc:f:imperf:aff		
 ćwierkocącemu	ćwierkotać	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwierkocąco	ćwierkotać	pacta		
 ćwierkocących	ćwierkotać	pact:pl:acc:m1.p1:imperf:aff		
 ćwierkocących	ćwierkotać	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćwierkocący	ćwierkotać	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -2205,6 +2216,7 @@
 ćwierkoczącego	ćwierkotać	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwierkoczącej	ćwierkotać	pact:sg:gen.dat.loc:f:imperf:aff		
 ćwierkoczącemu	ćwierkotać	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwierkocząco	ćwierkotać	pacta		
 ćwierkoczących	ćwierkotać	pact:pl:acc:m1.p1:imperf:aff		
 ćwierkoczących	ćwierkotać	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćwierkoczący	ćwierkotać	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -2268,20 +2280,20 @@
 ćwierkotaniu	ćwierkotać	ger:sg:dat.loc:n2:imperf:aff		
 ćwierkotano	ćwierkotać	imps:imperf		
 ćwierkotań	ćwierkotać	ger:pl:gen:n2:imperf:aff		
-ćwiertniach	ćwiertnia	subst:pl:loc:f	pospolita	przest.
-ćwiertnia	ćwiertnia	subst:sg:nom:f	pospolita	przest.
-ćwiertniami	ćwiertnia	subst:pl:inst:f	pospolita	przest.
-ćwiertnią	ćwiertnia	subst:sg:inst:f	pospolita	przest.
-ćwiertni	ćwiertnia	subst:pl:gen:f	pospolita	przest.
-ćwiertni	ćwiertnia	subst:sg:dat:f	pospolita	przest.
-ćwiertni	ćwiertnia	subst:sg:gen:f	pospolita	przest.
-ćwiertni	ćwiertnia	subst:sg:loc:f	pospolita	przest.
-ćwiertnie	ćwiertnia	subst:pl:acc:f	pospolita	przest.
-ćwiertnie	ćwiertnia	subst:pl:nom:f	pospolita	przest.
-ćwiertnie	ćwiertnia	subst:pl:voc:f	pospolita	przest.
-ćwiertnię	ćwiertnia	subst:sg:acc:f	pospolita	przest.
-ćwiertnio	ćwiertnia	subst:sg:voc:f	pospolita	przest.
-ćwiertniom	ćwiertnia	subst:pl:dat:f	pospolita	przest.
+ćwiertniach	ćwiertnia	subst:pl:loc:f	nazwa pospolita	przest.
+ćwiertnia	ćwiertnia	subst:sg:nom:f	nazwa pospolita	przest.
+ćwiertniami	ćwiertnia	subst:pl:inst:f	nazwa pospolita	przest.
+ćwiertnią	ćwiertnia	subst:sg:inst:f	nazwa pospolita	przest.
+ćwiertni	ćwiertnia	subst:pl:gen:f	nazwa pospolita	przest.
+ćwiertni	ćwiertnia	subst:sg:dat:f	nazwa pospolita	przest.
+ćwiertni	ćwiertnia	subst:sg:gen:f	nazwa pospolita	przest.
+ćwiertni	ćwiertnia	subst:sg:loc:f	nazwa pospolita	przest.
+ćwiertnie	ćwiertnia	subst:pl:acc:f	nazwa pospolita	przest.
+ćwiertnie	ćwiertnia	subst:pl:nom:f	nazwa pospolita	przest.
+ćwiertnie	ćwiertnia	subst:pl:voc:f	nazwa pospolita	przest.
+ćwiertnię	ćwiertnia	subst:sg:acc:f	nazwa pospolita	przest.
+ćwiertnio	ćwiertnia	subst:sg:voc:f	nazwa pospolita	przest.
+ćwiertniom	ćwiertnia	subst:pl:dat:f	nazwa pospolita	przest.
 ćwiertować	ćwiertować	inf:imperf		przest.
 ćwiertowaliby	ćwiertować	cond:pl:m1.p1:ter:imperf		przest.
 ćwiertowalibyście	ćwiertować	cond:pl:m1.p1:sec:imperf		przest.
@@ -2353,6 +2365,7 @@
 ćwiertującego	ćwiertować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwiertującej	ćwiertować	pact:sg:gen.dat.loc:f:imperf:aff		
 ćwiertującemu	ćwiertować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwiertująco	ćwiertować	pacta		
 ćwiertujących	ćwiertować	pact:pl:acc:m1.p1:imperf:aff		
 ćwiertujących	ćwiertować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćwiertujący	ćwiertować	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -2382,6 +2395,7 @@
 ćwikającego	ćwikać	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwikającej	ćwikać	pact:sg:gen.dat.loc:f:imperf:aff		
 ćwikającemu	ćwikać	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwikająco	ćwikać	pacta		
 ćwikających	ćwikać	pact:pl:acc:m1.p1:imperf:aff		
 ćwikających	ćwikać	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćwikający	ćwikać	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -2442,34 +2456,34 @@
 ćwikano	ćwikać	imps:imperf		
 ćwikań	ćwikać	ger:pl:gen:n2:imperf:aff		
 ćwikasz	ćwikać	fin:sg:sec:imperf		
-ćwikieł	ćwikła	subst:pl:gen:f	pospolita	kulin.
-ćwikle	ćwikła	subst:sg:dat:f	pospolita	kulin.
-ćwikle	ćwikła	subst:sg:loc:f	pospolita	kulin.
-ćwikłach	ćwikła	subst:pl:loc:f	pospolita	kulin.
-ćwikła	ćwikła	subst:sg:nom:f	pospolita	kulin.
-ćwikłami	ćwikła	subst:pl:inst:f	pospolita	kulin.
-ćwikłą	ćwikła	subst:sg:inst:f	pospolita	kulin.
-ćwikłę	ćwikła	subst:sg:acc:f	pospolita	kulin.
-ćwikło	ćwikła	subst:sg:voc:f	pospolita	kulin.
-ćwikłom	ćwikła	subst:pl:dat:f	pospolita	kulin.
-ćwikły	ćwikła	subst:pl:acc:f	pospolita	kulin.
-ćwikły	ćwikła	subst:pl:nom:f	pospolita	kulin.
-ćwikły	ćwikła	subst:pl:voc:f	pospolita	kulin.
-ćwikły	ćwikła	subst:sg:gen:f	pospolita	kulin.
-ćwikłowościach	ćwikłowość	subst:pl:loc:f		
-ćwikłowościami	ćwikłowość	subst:pl:inst:f		
-ćwikłowością	ćwikłowość	subst:sg:inst:f		
-ćwikłowości	ćwikłowość	subst:pl:acc:f		
-ćwikłowości	ćwikłowość	subst:pl:gen:f		
-ćwikłowości	ćwikłowość	subst:pl:nom:f		
-ćwikłowości	ćwikłowość	subst:pl:voc:f		
-ćwikłowości	ćwikłowość	subst:sg:dat:f		
-ćwikłowości	ćwikłowość	subst:sg:gen:f		
-ćwikłowości	ćwikłowość	subst:sg:loc:f		
-ćwikłowości	ćwikłowość	subst:sg:voc:f		
-ćwikłowościom	ćwikłowość	subst:pl:dat:f		
-ćwikłowość	ćwikłowość	subst:sg:acc:f		
-ćwikłowość	ćwikłowość	subst:sg:nom:f		
+ćwikieł	ćwikła	subst:pl:gen:f	nazwa pospolita	kulin.
+ćwikle	ćwikła	subst:sg:dat:f	nazwa pospolita	kulin.
+ćwikle	ćwikła	subst:sg:loc:f	nazwa pospolita	kulin.
+ćwikłach	ćwikła	subst:pl:loc:f	nazwa pospolita	kulin.
+ćwikła	ćwikła	subst:sg:nom:f	nazwa pospolita	kulin.
+ćwikłami	ćwikła	subst:pl:inst:f	nazwa pospolita	kulin.
+ćwikłą	ćwikła	subst:sg:inst:f	nazwa pospolita	kulin.
+ćwikłę	ćwikła	subst:sg:acc:f	nazwa pospolita	kulin.
+ćwikło	ćwikła	subst:sg:voc:f	nazwa pospolita	kulin.
+ćwikłom	ćwikła	subst:pl:dat:f	nazwa pospolita	kulin.
+ćwikły	ćwikła	subst:pl:acc:f	nazwa pospolita	kulin.
+ćwikły	ćwikła	subst:pl:nom:f	nazwa pospolita	kulin.
+ćwikły	ćwikła	subst:pl:voc:f	nazwa pospolita	kulin.
+ćwikły	ćwikła	subst:sg:gen:f	nazwa pospolita	kulin.
+ćwikłowościach	ćwikłowość	subst:pl:loc:f	nazwa pospolita	
+ćwikłowościami	ćwikłowość	subst:pl:inst:f	nazwa pospolita	
+ćwikłowością	ćwikłowość	subst:sg:inst:f	nazwa pospolita	
+ćwikłowości	ćwikłowość	subst:pl:acc:f	nazwa pospolita	
+ćwikłowości	ćwikłowość	subst:pl:gen:f	nazwa pospolita	
+ćwikłowości	ćwikłowość	subst:pl:nom:f	nazwa pospolita	
+ćwikłowości	ćwikłowość	subst:pl:voc:f	nazwa pospolita	
+ćwikłowości	ćwikłowość	subst:sg:dat:f	nazwa pospolita	
+ćwikłowości	ćwikłowość	subst:sg:gen:f	nazwa pospolita	
+ćwikłowości	ćwikłowość	subst:sg:loc:f	nazwa pospolita	
+ćwikłowości	ćwikłowość	subst:sg:voc:f	nazwa pospolita	
+ćwikłowościom	ćwikłowość	subst:pl:dat:f	nazwa pospolita	
+ćwikłowość	ćwikłowość	subst:sg:acc:f	nazwa pospolita	
+ćwikłowość	ćwikłowość	subst:sg:nom:f	nazwa pospolita	
 ćwikłowa	ćwikłowy	adj:sg:nom.voc:f:pos		
 ćwikłową	ćwikłowy	adj:sg:acc:f:pos		
 ćwikłową	ćwikłowy	adj:sg:inst:f:pos		
@@ -2550,20 +2564,20 @@
 ćwiknijcie	ćwiknąć	impt:pl:sec:perf		rzad.
 ćwiknij	ćwiknąć	impt:sg:sec:perf		rzad.
 ćwiknijmy	ćwiknąć	impt:pl:pri:perf		rzad.
-ćwikowatościach	ćwikowatość	subst:pl:loc:f		przest.
-ćwikowatościami	ćwikowatość	subst:pl:inst:f		przest.
-ćwikowatością	ćwikowatość	subst:sg:inst:f		przest.
-ćwikowatości	ćwikowatość	subst:pl:acc:f		przest.
-ćwikowatości	ćwikowatość	subst:pl:gen:f		przest.
-ćwikowatości	ćwikowatość	subst:pl:nom:f		przest.
-ćwikowatości	ćwikowatość	subst:pl:voc:f		przest.
-ćwikowatości	ćwikowatość	subst:sg:dat:f		przest.
-ćwikowatości	ćwikowatość	subst:sg:gen:f		przest.
-ćwikowatości	ćwikowatość	subst:sg:loc:f		przest.
-ćwikowatości	ćwikowatość	subst:sg:voc:f		przest.
-ćwikowatościom	ćwikowatość	subst:pl:dat:f		przest.
-ćwikowatość	ćwikowatość	subst:sg:acc:f		przest.
-ćwikowatość	ćwikowatość	subst:sg:nom:f		przest.
+ćwikowatościach	ćwikowatość	subst:pl:loc:f	nazwa pospolita	przest.
+ćwikowatościami	ćwikowatość	subst:pl:inst:f	nazwa pospolita	przest.
+ćwikowatością	ćwikowatość	subst:sg:inst:f	nazwa pospolita	przest.
+ćwikowatości	ćwikowatość	subst:pl:acc:f	nazwa pospolita	przest.
+ćwikowatości	ćwikowatość	subst:pl:gen:f	nazwa pospolita	przest.
+ćwikowatości	ćwikowatość	subst:pl:nom:f	nazwa pospolita	przest.
+ćwikowatości	ćwikowatość	subst:pl:voc:f	nazwa pospolita	przest.
+ćwikowatości	ćwikowatość	subst:sg:dat:f	nazwa pospolita	przest.
+ćwikowatości	ćwikowatość	subst:sg:gen:f	nazwa pospolita	przest.
+ćwikowatości	ćwikowatość	subst:sg:loc:f	nazwa pospolita	przest.
+ćwikowatości	ćwikowatość	subst:sg:voc:f	nazwa pospolita	przest.
+ćwikowatościom	ćwikowatość	subst:pl:dat:f	nazwa pospolita	przest.
+ćwikowatość	ćwikowatość	subst:sg:acc:f	nazwa pospolita	przest.
+ćwikowatość	ćwikowatość	subst:sg:nom:f	nazwa pospolita	przest.
 ćwikowaci	ćwikowaty	adj:pl:nom.voc:m1.p1:pos		przest.
 ćwikowata	ćwikowaty	adj:sg:nom.voc:f:pos		przest.
 ćwikowatą	ćwikowaty	adj:sg:acc:f:pos		przest.
@@ -2588,36 +2602,36 @@
 ćwikowatym	ćwikowaty	adj:sg:inst:m1.m2.m3.n1.n2:pos		przest.
 ćwikowatym	ćwikowaty	adj:sg:loc:m1.m2.m3.n1.n2:pos		przest.
 ćwikowatymi	ćwikowaty	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest.
-ćwikach	ćwik:s1	subst:pl:loc:m1	pospolita	przest.
-ćwika	ćwik:s1	subst:sg:acc:m1	pospolita	przest.
-ćwika	ćwik:s1	subst:sg:gen:m1	pospolita	przest.
-ćwikami	ćwik:s1	subst:pl:inst:m1	pospolita	przest.
-ćwik	ćwik:s1	subst:sg:nom:m1	pospolita	przest.
-ćwiki	ćwik:s1	depr:pl:nom:m2	pospolita	przest.
-ćwiki	ćwik:s1	depr:pl:voc:m2	pospolita	przest.
-ćwikiem	ćwik:s1	subst:sg:inst:m1	pospolita	przest.
-ćwikom	ćwik:s1	subst:pl:dat:m1	pospolita	przest.
-ćwikowi	ćwik:s1	subst:sg:dat:m1	pospolita	przest.
-ćwikowie	ćwik:s1	subst:pl:nom:m1	pospolita	przest.
-ćwikowie	ćwik:s1	subst:pl:voc:m1	pospolita	przest.
-ćwików	ćwik:s1	subst:pl:acc:m1	pospolita	przest.
-ćwików	ćwik:s1	subst:pl:gen:m1	pospolita	przest.
-ćwiku	ćwik:s1	subst:sg:loc:m1	pospolita	przest.
-ćwiku	ćwik:s1	subst:sg:voc:m1	pospolita	przest.
-ćwikach	ćwik:s2	subst:pl:loc:m2	pospolita	daw.
-ćwika	ćwik:s2	subst:sg:acc:m2	pospolita	daw.
-ćwika	ćwik:s2	subst:sg:gen:m2	pospolita	daw.
-ćwikami	ćwik:s2	subst:pl:inst:m2	pospolita	daw.
-ćwik	ćwik:s2	subst:sg:nom:m2	pospolita	daw.
-ćwiki	ćwik:s2	subst:pl:acc:m2	pospolita	daw.
-ćwiki	ćwik:s2	subst:pl:nom:m2	pospolita	daw.
-ćwiki	ćwik:s2	subst:pl:voc:m2	pospolita	daw.
-ćwikiem	ćwik:s2	subst:sg:inst:m2	pospolita	daw.
-ćwikom	ćwik:s2	subst:pl:dat:m2	pospolita	daw.
-ćwikowi	ćwik:s2	subst:sg:dat:m2	pospolita	daw.
-ćwików	ćwik:s2	subst:pl:gen:m2	pospolita	daw.
-ćwiku	ćwik:s2	subst:sg:loc:m2	pospolita	daw.
-ćwiku	ćwik:s2	subst:sg:voc:m2	pospolita	daw.
+ćwikach	ćwik:s1	subst:pl:loc:m1	nazwa pospolita	przest.
+ćwika	ćwik:s1	subst:sg:acc:m1	nazwa pospolita	przest.
+ćwika	ćwik:s1	subst:sg:gen:m1	nazwa pospolita	przest.
+ćwikami	ćwik:s1	subst:pl:inst:m1	nazwa pospolita	przest.
+ćwik	ćwik:s1	subst:sg:nom:m1	nazwa pospolita	przest.
+ćwiki	ćwik:s1	depr:pl:nom:m2	nazwa pospolita	przest.
+ćwiki	ćwik:s1	depr:pl:voc:m2	nazwa pospolita	przest.
+ćwikiem	ćwik:s1	subst:sg:inst:m1	nazwa pospolita	przest.
+ćwikom	ćwik:s1	subst:pl:dat:m1	nazwa pospolita	przest.
+ćwikowi	ćwik:s1	subst:sg:dat:m1	nazwa pospolita	przest.
+ćwikowie	ćwik:s1	subst:pl:nom:m1	nazwa pospolita	przest.
+ćwikowie	ćwik:s1	subst:pl:voc:m1	nazwa pospolita	przest.
+ćwików	ćwik:s1	subst:pl:acc:m1	nazwa pospolita	przest.
+ćwików	ćwik:s1	subst:pl:gen:m1	nazwa pospolita	przest.
+ćwiku	ćwik:s1	subst:sg:loc:m1	nazwa pospolita	przest.
+ćwiku	ćwik:s1	subst:sg:voc:m1	nazwa pospolita	przest.
+ćwikach	ćwik:s2	subst:pl:loc:m2	nazwa pospolita	daw.
+ćwika	ćwik:s2	subst:sg:acc:m2	nazwa pospolita	daw.
+ćwika	ćwik:s2	subst:sg:gen:m2	nazwa pospolita	daw.
+ćwikami	ćwik:s2	subst:pl:inst:m2	nazwa pospolita	daw.
+ćwik	ćwik:s2	subst:sg:nom:m2	nazwa pospolita	daw.
+ćwiki	ćwik:s2	subst:pl:acc:m2	nazwa pospolita	daw.
+ćwiki	ćwik:s2	subst:pl:nom:m2	nazwa pospolita	daw.
+ćwiki	ćwik:s2	subst:pl:voc:m2	nazwa pospolita	daw.
+ćwikiem	ćwik:s2	subst:sg:inst:m2	nazwa pospolita	daw.
+ćwikom	ćwik:s2	subst:pl:dat:m2	nazwa pospolita	daw.
+ćwikowi	ćwik:s2	subst:sg:dat:m2	nazwa pospolita	daw.
+ćwików	ćwik:s2	subst:pl:gen:m2	nazwa pospolita	daw.
+ćwiku	ćwik:s2	subst:sg:loc:m2	nazwa pospolita	daw.
+ćwiku	ćwik:s2	subst:sg:voc:m2	nazwa pospolita	daw.
 ćwir	ćwir	interj		
 ćwirkacie	ćwirkać	fin:pl:sec:imperf		
 ćwirkać	ćwirkać	inf:imperf		
@@ -2631,6 +2645,7 @@
 ćwirkającego	ćwirkać	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
 ćwirkającej	ćwirkać	pact:sg:gen.dat.loc:f:imperf:aff		
 ćwirkającemu	ćwirkać	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ćwirkająco	ćwirkać	pacta		
 ćwirkających	ćwirkać	pact:pl:acc:m1.p1:imperf:aff		
 ćwirkających	ćwirkać	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ćwirkający	ćwirkać	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -2747,21 +2762,21 @@
 ćwirknijcie	ćwirknąć	impt:pl:sec:perf		
 ćwirknij	ćwirknąć	impt:sg:sec:perf		
 ćwirknijmy	ćwirknąć	impt:pl:pri:perf		
-ćwocy	ćwok	subst:pl:nom:m1	pospolita	pot.
-ćwocy	ćwok	subst:pl:voc:m1	pospolita	pot.
-ćwokach	ćwok	subst:pl:loc:m1	pospolita	pot.
-ćwoka	ćwok	subst:sg:acc:m1	pospolita	pot.
-ćwoka	ćwok	subst:sg:gen:m1	pospolita	pot.
-ćwokami	ćwok	subst:pl:inst:m1	pospolita	pot.
-ćwok	ćwok	subst:sg:nom:m1	pospolita	pot.
-ćwoki	ćwok	depr:pl:nom:m2	pospolita	pot.
-ćwoki	ćwok	depr:pl:voc:m2	pospolita	pot.
-ćwokiem	ćwok	subst:sg:inst:m1	pospolita	pot.
-ćwokom	ćwok	subst:pl:dat:m1	pospolita	pot.
-ćwokowi	ćwok	subst:sg:dat:m1	pospolita	pot.
-ćwokowie	ćwok	subst:pl:nom:m1	pospolita	pot.
-ćwokowie	ćwok	subst:pl:voc:m1	pospolita	pot.
-ćwoków	ćwok	subst:pl:acc:m1	pospolita	pot.
-ćwoków	ćwok	subst:pl:gen:m1	pospolita	pot.
-ćwoku	ćwok	subst:sg:loc:m1	pospolita	pot.
-ćwoku	ćwok	subst:sg:voc:m1	pospolita	pot.
+ćwocy	ćwok	subst:pl:nom:m1	nazwa pospolita	pot.
+ćwocy	ćwok	subst:pl:voc:m1	nazwa pospolita	pot.
+ćwokach	ćwok	subst:pl:loc:m1	nazwa pospolita	pot.
+ćwoka	ćwok	subst:sg:acc:m1	nazwa pospolita	pot.
+ćwoka	ćwok	subst:sg:gen:m1	nazwa pospolita	pot.
+ćwokami	ćwok	subst:pl:inst:m1	nazwa pospolita	pot.
+ćwok	ćwok	subst:sg:nom:m1	nazwa pospolita	pot.
+ćwoki	ćwok	depr:pl:nom:m2	nazwa pospolita	pot.
+ćwoki	ćwok	depr:pl:voc:m2	nazwa pospolita	pot.
+ćwokiem	ćwok	subst:sg:inst:m1	nazwa pospolita	pot.
+ćwokom	ćwok	subst:pl:dat:m1	nazwa pospolita	pot.
+ćwokowi	ćwok	subst:sg:dat:m1	nazwa pospolita	pot.
+ćwokowie	ćwok	subst:pl:nom:m1	nazwa pospolita	pot.
+ćwokowie	ćwok	subst:pl:voc:m1	nazwa pospolita	pot.
+ćwoków	ćwok	subst:pl:acc:m1	nazwa pospolita	pot.
+ćwoków	ćwok	subst:pl:gen:m1	nazwa pospolita	pot.
+ćwoku	ćwok	subst:sg:loc:m1	nazwa pospolita	pot.
+ćwoku	ćwok	subst:sg:voc:m1	nazwa pospolita	pot.

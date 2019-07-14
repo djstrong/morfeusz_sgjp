@@ -16,79 +16,79 @@ Jaabesów	Jaabes	subst:pl:acc:m1	imię
 Jaabesów	Jaabes	subst:pl:gen:m1	imię	
 Jaabesy	Jaabes	depr:pl:nom:m2	imię	
 Jaabesy	Jaabes	depr:pl:voc:m2	imię	
-Jabłonce	Jabłonka	subst:sg:dat:f	geograficzna	
-Jabłonce	Jabłonka	subst:sg:loc:f	geograficzna	
-Jabłonek	Jabłonka	subst:pl:gen:f	geograficzna	
-Jabłonkach	Jabłonka	subst:pl:loc:f	geograficzna	
-Jabłonka	Jabłonka	subst:sg:nom:f	geograficzna	
-Jabłonkami	Jabłonka	subst:pl:inst:f	geograficzna	
-Jabłonką	Jabłonka	subst:sg:inst:f	geograficzna	
-Jabłonkę	Jabłonka	subst:sg:acc:f	geograficzna	
-Jabłonki	Jabłonka	subst:pl:acc:f	geograficzna	
-Jabłonki	Jabłonka	subst:pl:nom:f	geograficzna	
-Jabłonki	Jabłonka	subst:pl:voc:f	geograficzna	
-Jabłonki	Jabłonka	subst:sg:gen:f	geograficzna	
-Jabłonko	Jabłonka	subst:sg:voc:f	geograficzna	
-Jabłonkom	Jabłonka	subst:pl:dat:f	geograficzna	
-Jabłonkowach	Jabłonków	subst:pl:loc:m3	geograficzna	
-Jabłonkowa	Jabłonków	subst:sg:gen:m3	geograficzna	
-Jabłonkowami	Jabłonków	subst:pl:inst:m3	geograficzna	
-Jabłonkowem	Jabłonków	subst:sg:inst:m3	geograficzna	
-Jabłonkowie	Jabłonków	subst:sg:loc:m3	geograficzna	
-Jabłonkowie	Jabłonków	subst:sg:voc:m3	geograficzna	
-Jabłonkowom	Jabłonków	subst:pl:dat:m3	geograficzna	
-Jabłonkowowi	Jabłonków	subst:sg:dat:m3	geograficzna	
-Jabłonkowów	Jabłonków	subst:pl:gen:m3	geograficzna	
-Jabłonkowu	Jabłonków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
-Jabłonkowy	Jabłonków	subst:pl:acc:m3	geograficzna	
-Jabłonkowy	Jabłonków	subst:pl:nom:m3	geograficzna	
-Jabłonkowy	Jabłonków	subst:pl:voc:m3	geograficzna	
-Jabłonków	Jabłonków	subst:sg:acc:m3	geograficzna	
-Jabłonków	Jabłonków	subst:sg:nom:m3	geograficzna	
-Jabłonnach	Jabłonna	subst:pl:loc:f	geograficzna	
-Jabłonna	Jabłonna	subst:sg:nom:f	geograficzna	
-Jabłonnami	Jabłonna	subst:pl:inst:f	geograficzna	
-Jabłonną	Jabłonna	subst:sg:inst:f	geograficzna	
-Jabłonnę	Jabłonna	subst:sg:acc:f	geograficzna	
-Jabłonnie	Jabłonna	subst:sg:dat:f	geograficzna	
-Jabłonnie	Jabłonna	subst:sg:loc:f	geograficzna	
-Jabłonn	Jabłonna	subst:pl:gen:f	geograficzna	
-Jabłonno	Jabłonna	subst:sg:voc:f	geograficzna	
-Jabłonnom	Jabłonna	subst:pl:dat:f	geograficzna	
-Jabłonny	Jabłonna	subst:pl:acc:f	geograficzna	
-Jabłonny	Jabłonna	subst:pl:nom:f	geograficzna	
-Jabłonny	Jabłonna	subst:pl:voc:f	geograficzna	
-Jabłonny	Jabłonna	subst:sg:gen:f	geograficzna	
-Jabłonowach	Jabłonowo	subst:pl:loc:n2	geograficzna	
-Jabłonowa	Jabłonowo	subst:pl:acc:n2	geograficzna	
-Jabłonowa	Jabłonowo	subst:pl:nom:n2	geograficzna	
-Jabłonowa	Jabłonowo	subst:pl:voc:n2	geograficzna	
-Jabłonowa	Jabłonowo	subst:sg:gen:n2	geograficzna	
-Jabłonowami	Jabłonowo	subst:pl:inst:n2	geograficzna	
-Jabłonowem	Jabłonowo	subst:sg:inst:n2	geograficzna	
-Jabłonowie	Jabłonowo	subst:sg:loc:n2	geograficzna	
-Jabłonow	Jabłonowo	subst:pl:gen:n2	geograficzna	
-Jabłonowo	Jabłonowo	subst:sg:acc:n2	geograficzna	
-Jabłonowo	Jabłonowo	subst:sg:nom:n2	geograficzna	
-Jabłonowo	Jabłonowo	subst:sg:voc:n2	geograficzna	
-Jabłonowom	Jabłonowo	subst:pl:dat:n2	geograficzna	
-Jabłonowów	Jabłonowo	subst:pl:gen:n2	geograficzna	
-Jabłonowu	Jabłonowo	subst:sg:dat:n2	geograficzna	
-Jabłonów	Jabłonowo	subst:pl:gen:n2	geograficzna	
-Jabłoniach	Jabłoń	subst:pl:loc:f	geograficzna	
-Jabłoniami	Jabłoń	subst:pl:inst:f	geograficzna	
-Jabłonią	Jabłoń	subst:sg:inst:f	geograficzna	
-Jabłonie	Jabłoń	subst:pl:acc:f	geograficzna	
-Jabłonie	Jabłoń	subst:pl:nom:f	geograficzna	
-Jabłonie	Jabłoń	subst:pl:voc:f	geograficzna	
-Jabłoni	Jabłoń	subst:pl:gen:f	geograficzna	
-Jabłoni	Jabłoń	subst:sg:dat:f	geograficzna	
-Jabłoni	Jabłoń	subst:sg:gen:f	geograficzna	
-Jabłoni	Jabłoń	subst:sg:loc:f	geograficzna	
-Jabłoni	Jabłoń	subst:sg:voc:f	geograficzna	
-Jabłoniom	Jabłoń	subst:pl:dat:f	geograficzna	
-Jabłoń	Jabłoń	subst:sg:acc:f	geograficzna	
-Jabłoń	Jabłoń	subst:sg:nom:f	geograficzna	
+Jabłonce	Jabłonka	subst:sg:dat:f	nazwa geograficzna	
+Jabłonce	Jabłonka	subst:sg:loc:f	nazwa geograficzna	
+Jabłonek	Jabłonka	subst:pl:gen:f	nazwa geograficzna	
+Jabłonkach	Jabłonka	subst:pl:loc:f	nazwa geograficzna	
+Jabłonka	Jabłonka	subst:sg:nom:f	nazwa geograficzna	
+Jabłonkami	Jabłonka	subst:pl:inst:f	nazwa geograficzna	
+Jabłonką	Jabłonka	subst:sg:inst:f	nazwa geograficzna	
+Jabłonkę	Jabłonka	subst:sg:acc:f	nazwa geograficzna	
+Jabłonki	Jabłonka	subst:pl:acc:f	nazwa geograficzna	
+Jabłonki	Jabłonka	subst:pl:nom:f	nazwa geograficzna	
+Jabłonki	Jabłonka	subst:pl:voc:f	nazwa geograficzna	
+Jabłonki	Jabłonka	subst:sg:gen:f	nazwa geograficzna	
+Jabłonko	Jabłonka	subst:sg:voc:f	nazwa geograficzna	
+Jabłonkom	Jabłonka	subst:pl:dat:f	nazwa geograficzna	
+Jabłonkowach	Jabłonków	subst:pl:loc:m3	nazwa geograficzna	
+Jabłonkowa	Jabłonków	subst:sg:gen:m3	nazwa geograficzna	
+Jabłonkowami	Jabłonków	subst:pl:inst:m3	nazwa geograficzna	
+Jabłonkowem	Jabłonków	subst:sg:inst:m3	nazwa geograficzna	
+Jabłonkowie	Jabłonków	subst:sg:loc:m3	nazwa geograficzna	
+Jabłonkowie	Jabłonków	subst:sg:voc:m3	nazwa geograficzna	
+Jabłonkowom	Jabłonków	subst:pl:dat:m3	nazwa geograficzna	
+Jabłonkowowi	Jabłonków	subst:sg:dat:m3	nazwa geograficzna	
+Jabłonkowów	Jabłonków	subst:pl:gen:m3	nazwa geograficzna	
+Jabłonkowu	Jabłonków	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Jabłonkowy	Jabłonków	subst:pl:acc:m3	nazwa geograficzna	
+Jabłonkowy	Jabłonków	subst:pl:nom:m3	nazwa geograficzna	
+Jabłonkowy	Jabłonków	subst:pl:voc:m3	nazwa geograficzna	
+Jabłonków	Jabłonków	subst:sg:acc:m3	nazwa geograficzna	
+Jabłonków	Jabłonków	subst:sg:nom:m3	nazwa geograficzna	
+Jabłonnach	Jabłonna	subst:pl:loc:f	nazwa geograficzna	
+Jabłonna	Jabłonna	subst:sg:nom:f	nazwa geograficzna	
+Jabłonnami	Jabłonna	subst:pl:inst:f	nazwa geograficzna	
+Jabłonną	Jabłonna	subst:sg:inst:f	nazwa geograficzna	
+Jabłonnę	Jabłonna	subst:sg:acc:f	nazwa geograficzna	
+Jabłonnie	Jabłonna	subst:sg:dat:f	nazwa geograficzna	
+Jabłonnie	Jabłonna	subst:sg:loc:f	nazwa geograficzna	
+Jabłonn	Jabłonna	subst:pl:gen:f	nazwa geograficzna	
+Jabłonno	Jabłonna	subst:sg:voc:f	nazwa geograficzna	
+Jabłonnom	Jabłonna	subst:pl:dat:f	nazwa geograficzna	
+Jabłonny	Jabłonna	subst:pl:acc:f	nazwa geograficzna	
+Jabłonny	Jabłonna	subst:pl:nom:f	nazwa geograficzna	
+Jabłonny	Jabłonna	subst:pl:voc:f	nazwa geograficzna	
+Jabłonny	Jabłonna	subst:sg:gen:f	nazwa geograficzna	
+Jabłonowach	Jabłonowo	subst:pl:loc:n2	nazwa geograficzna	
+Jabłonowa	Jabłonowo	subst:pl:acc:n2	nazwa geograficzna	
+Jabłonowa	Jabłonowo	subst:pl:nom:n2	nazwa geograficzna	
+Jabłonowa	Jabłonowo	subst:pl:voc:n2	nazwa geograficzna	
+Jabłonowa	Jabłonowo	subst:sg:gen:n2	nazwa geograficzna	
+Jabłonowami	Jabłonowo	subst:pl:inst:n2	nazwa geograficzna	
+Jabłonowem	Jabłonowo	subst:sg:inst:n2	nazwa geograficzna	
+Jabłonowie	Jabłonowo	subst:sg:loc:n2	nazwa geograficzna	
+Jabłonow	Jabłonowo	subst:pl:gen:n2	nazwa geograficzna	
+Jabłonowo	Jabłonowo	subst:sg:acc:n2	nazwa geograficzna	
+Jabłonowo	Jabłonowo	subst:sg:nom:n2	nazwa geograficzna	
+Jabłonowo	Jabłonowo	subst:sg:voc:n2	nazwa geograficzna	
+Jabłonowom	Jabłonowo	subst:pl:dat:n2	nazwa geograficzna	
+Jabłonowów	Jabłonowo	subst:pl:gen:n2	nazwa geograficzna	
+Jabłonowu	Jabłonowo	subst:sg:dat:n2	nazwa geograficzna	
+Jabłonów	Jabłonowo	subst:pl:gen:n2	nazwa geograficzna	
+Jabłoniach	Jabłoń	subst:pl:loc:f	nazwa geograficzna	
+Jabłoniami	Jabłoń	subst:pl:inst:f	nazwa geograficzna	
+Jabłonią	Jabłoń	subst:sg:inst:f	nazwa geograficzna	
+Jabłonie	Jabłoń	subst:pl:acc:f	nazwa geograficzna	
+Jabłonie	Jabłoń	subst:pl:nom:f	nazwa geograficzna	
+Jabłonie	Jabłoń	subst:pl:voc:f	nazwa geograficzna	
+Jabłoni	Jabłoń	subst:pl:gen:f	nazwa geograficzna	
+Jabłoni	Jabłoń	subst:sg:dat:f	nazwa geograficzna	
+Jabłoni	Jabłoń	subst:sg:gen:f	nazwa geograficzna	
+Jabłoni	Jabłoń	subst:sg:loc:f	nazwa geograficzna	
+Jabłoni	Jabłoń	subst:sg:voc:f	nazwa geograficzna	
+Jabłoniom	Jabłoń	subst:pl:dat:f	nazwa geograficzna	
+Jabłoń	Jabłoń	subst:sg:acc:f	nazwa geograficzna	
+Jabłoń	Jabłoń	subst:sg:nom:f	nazwa geograficzna	
 Jabłońska	Jabłońska	subst:sg:nom:f	nazwisko	
 Jabłońska	Jabłońska	subst:sg:voc:f	nazwisko	
 Jabłońską	Jabłońska	subst:sg:acc:f	nazwisko	
@@ -348,21 +348,21 @@ Jaczewskimi	Jaczewski	subst:pl:inst:m1	nazwisko
 Jaczewskim	Jaczewski	subst:pl:dat:m1	nazwisko	
 Jaczewskim	Jaczewski	subst:sg:inst:m1	nazwisko	
 Jaczewskim	Jaczewski	subst:sg:loc:m1	nazwisko	
-Jadowach	Jadów	subst:pl:loc:m3	geograficzna	
-Jadowa	Jadów	subst:sg:gen:m3	geograficzna	
-Jadowami	Jadów	subst:pl:inst:m3	geograficzna	
-Jadowem	Jadów	subst:sg:inst:m3	geograficzna	
-Jadowie	Jadów	subst:sg:loc:m3	geograficzna	
-Jadowie	Jadów	subst:sg:voc:m3	geograficzna	
-Jadowom	Jadów	subst:pl:dat:m3	geograficzna	
-Jadowowi	Jadów	subst:sg:dat:m3	geograficzna	
-Jadowów	Jadów	subst:pl:gen:m3	geograficzna	
-Jadowu	Jadów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
-Jadowy	Jadów	subst:pl:acc:m3	geograficzna	
-Jadowy	Jadów	subst:pl:nom:m3	geograficzna	
-Jadowy	Jadów	subst:pl:voc:m3	geograficzna	
-Jadów	Jadów	subst:sg:acc:m3	geograficzna	
-Jadów	Jadów	subst:sg:nom:m3	geograficzna	
+Jadowach	Jadów	subst:pl:loc:m3	nazwa geograficzna	
+Jadowa	Jadów	subst:sg:gen:m3	nazwa geograficzna	
+Jadowami	Jadów	subst:pl:inst:m3	nazwa geograficzna	
+Jadowem	Jadów	subst:sg:inst:m3	nazwa geograficzna	
+Jadowie	Jadów	subst:sg:loc:m3	nazwa geograficzna	
+Jadowie	Jadów	subst:sg:voc:m3	nazwa geograficzna	
+Jadowom	Jadów	subst:pl:dat:m3	nazwa geograficzna	
+Jadowowi	Jadów	subst:sg:dat:m3	nazwa geograficzna	
+Jadowów	Jadów	subst:pl:gen:m3	nazwa geograficzna	
+Jadowu	Jadów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Jadowy	Jadów	subst:pl:acc:m3	nazwa geograficzna	
+Jadowy	Jadów	subst:pl:nom:m3	nazwa geograficzna	
+Jadowy	Jadów	subst:pl:voc:m3	nazwa geograficzna	
+Jadów	Jadów	subst:sg:acc:m3	nazwa geograficzna	
+Jadów	Jadów	subst:sg:nom:m3	nazwa geograficzna	
 Jadwidze	Jadwiga	subst:sg:dat:f	imię	
 Jadwidze	Jadwiga	subst:sg:loc:f	imię	
 Jadwigach	Jadwiga	subst:pl:loc:f	imię	
@@ -424,7 +424,6 @@ Jadwiśkom	Jadwiśka	subst:pl:dat:f	imię
 Jadwiziek	Jadwiźka	subst:pl:gen:f	imię	
 Jadwiźce	Jadwiźka	subst:sg:dat:f	imię	
 Jadwiźce	Jadwiźka	subst:sg:loc:f	imię	
-Jadwiźek	Jadwiźka	subst:pl:gen:f	imię	
 Jadwiźkach	Jadwiźka	subst:pl:loc:f	imię	
 Jadwiźka	Jadwiźka	subst:sg:nom:f	imię	
 Jadwiźkami	Jadwiźka	subst:pl:inst:f	imię	
@@ -494,20 +493,20 @@ Jadźki	Jadźka	subst:pl:voc:f	imię
 Jadźki	Jadźka	subst:sg:gen:f	imię	
 Jadźko	Jadźka	subst:sg:voc:f	imię	
 Jadźkom	Jadźka	subst:pl:dat:f	imię	
-Jafach	Jafa	subst:pl:loc:f	geograficzna	
-Jafa	Jafa	subst:sg:nom:f	geograficzna	
-Jafami	Jafa	subst:pl:inst:f	geograficzna	
-Jafą	Jafa	subst:sg:inst:f	geograficzna	
-Jafę	Jafa	subst:sg:acc:f	geograficzna	
-Jafie	Jafa	subst:sg:dat:f	geograficzna	
-Jafie	Jafa	subst:sg:loc:f	geograficzna	
-Jaf	Jafa	subst:pl:gen:f	geograficzna	
-Jafo	Jafa	subst:sg:voc:f	geograficzna	
-Jafom	Jafa	subst:pl:dat:f	geograficzna	
-Jafy	Jafa	subst:pl:acc:f	geograficzna	
-Jafy	Jafa	subst:pl:nom:f	geograficzna	
-Jafy	Jafa	subst:pl:voc:f	geograficzna	
-Jafy	Jafa	subst:sg:gen:f	geograficzna	
+Jafach	Jafa	subst:pl:loc:f	nazwa geograficzna	
+Jafa	Jafa	subst:sg:nom:f	nazwa geograficzna	
+Jafami	Jafa	subst:pl:inst:f	nazwa geograficzna	
+Jafą	Jafa	subst:sg:inst:f	nazwa geograficzna	
+Jafę	Jafa	subst:sg:acc:f	nazwa geograficzna	
+Jafie	Jafa	subst:sg:dat:f	nazwa geograficzna	
+Jafie	Jafa	subst:sg:loc:f	nazwa geograficzna	
+Jaf	Jafa	subst:pl:gen:f	nazwa geograficzna	
+Jafo	Jafa	subst:sg:voc:f	nazwa geograficzna	
+Jafom	Jafa	subst:pl:dat:f	nazwa geograficzna	
+Jafy	Jafa	subst:pl:acc:f	nazwa geograficzna	
+Jafy	Jafa	subst:pl:nom:f	nazwa geograficzna	
+Jafy	Jafa	subst:pl:voc:f	nazwa geograficzna	
+Jafy	Jafa	subst:sg:gen:f	nazwa geograficzna	
 Jafecie	Jafet	subst:sg:loc:m1	imię	
 Jafecie	Jafet	subst:sg:voc:m1	imię	
 Jafeci	Jafet	subst:pl:nom:m1	imię	
@@ -556,37 +555,37 @@ Jaggery	Jagger	depr:pl:nom:m2	nazwisko
 Jaggery	Jagger	depr:pl:voc:m2	nazwisko	
 Jaggerze	Jagger	subst:sg:loc:m1	nazwisko	
 Jaggerze	Jagger	subst:sg:voc:m1	nazwisko	
-Jagiellonach	Jagiellon	subst:pl:loc:m1	członek rodu	
-Jagiellona	Jagiellon	subst:sg:acc:m1	członek rodu	
-Jagiellona	Jagiellon	subst:sg:gen:m1	członek rodu	
-Jagiellonami	Jagiellon	subst:pl:inst:m1	członek rodu	
-Jagiellonem	Jagiellon	subst:sg:inst:m1	członek rodu	
-Jagiellonie	Jagiellon	subst:sg:loc:m1	członek rodu	
-Jagiellonie	Jagiellon	subst:sg:voc:m1	członek rodu	
-Jagiellon	Jagiellon	subst:sg:nom:m1	członek rodu	
-Jagiellonom	Jagiellon	subst:pl:dat:m1	członek rodu	
-Jagiellonowie	Jagiellon	subst:pl:nom:m1	członek rodu	
-Jagiellonowie	Jagiellon	subst:pl:voc:m1	członek rodu	
-Jagiellonowi	Jagiellon	subst:sg:dat:m1	członek rodu	
-Jagiellonów	Jagiellon	subst:pl:acc:m1	członek rodu	
-Jagiellonów	Jagiellon	subst:pl:gen:m1	członek rodu	
-Jagiellony	Jagiellon	depr:pl:nom:m2	członek rodu	
-Jagiellony	Jagiellon	depr:pl:voc:m2	członek rodu	
-Jagielloniach	Jagiellonia	subst:pl:loc:f	organizacja	
-Jagiellonia	Jagiellonia	subst:sg:nom:f	organizacja	
-Jagielloniami	Jagiellonia	subst:pl:inst:f	organizacja	
-Jagiellonią	Jagiellonia	subst:sg:inst:f	organizacja	
-Jagiellonie	Jagiellonia	subst:pl:acc:f	organizacja	
-Jagiellonie	Jagiellonia	subst:pl:nom:f	organizacja	
-Jagiellonie	Jagiellonia	subst:pl:voc:f	organizacja	
-Jagiellonię	Jagiellonia	subst:sg:acc:f	organizacja	
-Jagiellonii	Jagiellonia	subst:pl:gen:f	organizacja	hom.
-Jagiellonii	Jagiellonia	subst:sg:dat:f	organizacja	
-Jagiellonii	Jagiellonia	subst:sg:gen:f	organizacja	
-Jagiellonii	Jagiellonia	subst:sg:loc:f	organizacja	
-Jagiellonij	Jagiellonia	subst:pl:gen:f	organizacja	arch.|char.
-Jagiellonio	Jagiellonia	subst:sg:voc:f	organizacja	
-Jagielloniom	Jagiellonia	subst:pl:dat:f	organizacja	
+Jagiellonach	Jagiellon	subst:pl:loc:m1	nazwa członka rodu	
+Jagiellona	Jagiellon	subst:sg:acc:m1	nazwa członka rodu	
+Jagiellona	Jagiellon	subst:sg:gen:m1	nazwa członka rodu	
+Jagiellonami	Jagiellon	subst:pl:inst:m1	nazwa członka rodu	
+Jagiellonem	Jagiellon	subst:sg:inst:m1	nazwa członka rodu	
+Jagiellonie	Jagiellon	subst:sg:loc:m1	nazwa członka rodu	
+Jagiellonie	Jagiellon	subst:sg:voc:m1	nazwa członka rodu	
+Jagiellon	Jagiellon	subst:sg:nom:m1	nazwa członka rodu	
+Jagiellonom	Jagiellon	subst:pl:dat:m1	nazwa członka rodu	
+Jagiellonowie	Jagiellon	subst:pl:nom:m1	nazwa członka rodu	
+Jagiellonowie	Jagiellon	subst:pl:voc:m1	nazwa członka rodu	
+Jagiellonowi	Jagiellon	subst:sg:dat:m1	nazwa członka rodu	
+Jagiellonów	Jagiellon	subst:pl:acc:m1	nazwa członka rodu	
+Jagiellonów	Jagiellon	subst:pl:gen:m1	nazwa członka rodu	
+Jagiellony	Jagiellon	depr:pl:nom:m2	nazwa członka rodu	
+Jagiellony	Jagiellon	depr:pl:voc:m2	nazwa członka rodu	
+Jagielloniach	Jagiellonia	subst:pl:loc:f	nazwa organizacji	
+Jagiellonia	Jagiellonia	subst:sg:nom:f	nazwa organizacji	
+Jagielloniami	Jagiellonia	subst:pl:inst:f	nazwa organizacji	
+Jagiellonią	Jagiellonia	subst:sg:inst:f	nazwa organizacji	
+Jagiellonie	Jagiellonia	subst:pl:acc:f	nazwa organizacji	
+Jagiellonie	Jagiellonia	subst:pl:nom:f	nazwa organizacji	
+Jagiellonie	Jagiellonia	subst:pl:voc:f	nazwa organizacji	
+Jagiellonię	Jagiellonia	subst:sg:acc:f	nazwa organizacji	
+Jagiellonii	Jagiellonia	subst:pl:gen:f	nazwa organizacji	hom.
+Jagiellonii	Jagiellonia	subst:sg:dat:f	nazwa organizacji	
+Jagiellonii	Jagiellonia	subst:sg:gen:f	nazwa organizacji	
+Jagiellonii	Jagiellonia	subst:sg:loc:f	nazwa organizacji	
+Jagiellonij	Jagiellonia	subst:pl:gen:f	nazwa organizacji	arch.|char.
+Jagiellonio	Jagiellonia	subst:sg:voc:f	nazwa organizacji	
+Jagielloniom	Jagiellonia	subst:pl:dat:f	nazwa organizacji	
 Jagiellonce	Jagiellonka	subst:sg:dat:f	przydomek	
 Jagiellonce	Jagiellonka	subst:sg:loc:f	przydomek	
 Jagiellonek	Jagiellonka	subst:pl:gen:f	przydomek	
@@ -905,21 +904,21 @@ Jakowlewów	Jakowlew	subst:pl:acc:m1	nazwisko
 Jakowlewów	Jakowlew	subst:pl:gen:m1	nazwisko	
 Jakowlewy	Jakowlew	depr:pl:nom:m2	nazwisko	
 Jakowlewy	Jakowlew	depr:pl:voc:m2	nazwisko	
-Jaktorowach	Jaktorów	subst:pl:loc:m3	geograficzna	
-Jaktorowa	Jaktorów	subst:sg:gen:m3	geograficzna	
-Jaktorowami	Jaktorów	subst:pl:inst:m3	geograficzna	
-Jaktorowem	Jaktorów	subst:sg:inst:m3	geograficzna	
-Jaktorowie	Jaktorów	subst:sg:loc:m3	geograficzna	
-Jaktorowie	Jaktorów	subst:sg:voc:m3	geograficzna	
-Jaktorowom	Jaktorów	subst:pl:dat:m3	geograficzna	
-Jaktorowowi	Jaktorów	subst:sg:dat:m3	geograficzna	
-Jaktorowów	Jaktorów	subst:pl:gen:m3	geograficzna	
-Jaktorowu	Jaktorów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
-Jaktorowy	Jaktorów	subst:pl:acc:m3	geograficzna	
-Jaktorowy	Jaktorów	subst:pl:nom:m3	geograficzna	
-Jaktorowy	Jaktorów	subst:pl:voc:m3	geograficzna	
-Jaktorów	Jaktorów	subst:sg:acc:m3	geograficzna	
-Jaktorów	Jaktorów	subst:sg:nom:m3	geograficzna	
+Jaktorowach	Jaktorów	subst:pl:loc:m3	nazwa geograficzna	
+Jaktorowa	Jaktorów	subst:sg:gen:m3	nazwa geograficzna	
+Jaktorowami	Jaktorów	subst:pl:inst:m3	nazwa geograficzna	
+Jaktorowem	Jaktorów	subst:sg:inst:m3	nazwa geograficzna	
+Jaktorowie	Jaktorów	subst:sg:loc:m3	nazwa geograficzna	
+Jaktorowie	Jaktorów	subst:sg:voc:m3	nazwa geograficzna	
+Jaktorowom	Jaktorów	subst:pl:dat:m3	nazwa geograficzna	
+Jaktorowowi	Jaktorów	subst:sg:dat:m3	nazwa geograficzna	
+Jaktorowów	Jaktorów	subst:pl:gen:m3	nazwa geograficzna	
+Jaktorowu	Jaktorów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Jaktorowy	Jaktorów	subst:pl:acc:m3	nazwa geograficzna	
+Jaktorowy	Jaktorów	subst:pl:nom:m3	nazwa geograficzna	
+Jaktorowy	Jaktorów	subst:pl:voc:m3	nazwa geograficzna	
+Jaktorów	Jaktorów	subst:sg:acc:m3	nazwa geograficzna	
+Jaktorów	Jaktorów	subst:sg:nom:m3	nazwa geograficzna	
 Jakubach	Jakub	subst:pl:loc:m1	imię	
 Jakuba	Jakub	subst:sg:acc:m1	imię	
 Jakuba	Jakub	subst:sg:gen:m1	imię	
@@ -1014,152 +1013,152 @@ Jakubowskimi	Jakubowski	subst:pl:inst:m1	nazwisko
 Jakubowskim	Jakubowski	subst:pl:dat:m1	nazwisko	
 Jakubowskim	Jakubowski	subst:sg:inst:m1	nazwisko	
 Jakubowskim	Jakubowski	subst:sg:loc:m1	nazwisko	
-Jakubowach	Jakubów	subst:pl:loc:m3	geograficzna	
-Jakubowa	Jakubów	subst:sg:gen:m3	geograficzna	
-Jakubowami	Jakubów	subst:pl:inst:m3	geograficzna	
-Jakubowem	Jakubów	subst:sg:inst:m3	geograficzna	
-Jakubowie	Jakubów	subst:sg:loc:m3	geograficzna	
-Jakubowie	Jakubów	subst:sg:voc:m3	geograficzna	
-Jakubowom	Jakubów	subst:pl:dat:m3	geograficzna	
-Jakubowowi	Jakubów	subst:sg:dat:m3	geograficzna	
-Jakubowów	Jakubów	subst:pl:gen:m3	geograficzna	
-Jakubowu	Jakubów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
-Jakubowy	Jakubów	subst:pl:acc:m3	geograficzna	
-Jakubowy	Jakubów	subst:pl:nom:m3	geograficzna	
-Jakubowy	Jakubów	subst:pl:voc:m3	geograficzna	
-Jakubów	Jakubów	subst:sg:acc:m3	geograficzna	
-Jakubów	Jakubów	subst:sg:nom:m3	geograficzna	
-Jakucjach	Jakucja	subst:pl:loc:f	geograficzna	
-Jakucja	Jakucja	subst:sg:nom:f	geograficzna	
-Jakucjami	Jakucja	subst:pl:inst:f	geograficzna	
-Jakucją	Jakucja	subst:sg:inst:f	geograficzna	
-Jakucje	Jakucja	subst:pl:acc:f	geograficzna	
-Jakucje	Jakucja	subst:pl:nom:f	geograficzna	
-Jakucje	Jakucja	subst:pl:voc:f	geograficzna	
-Jakucję	Jakucja	subst:sg:acc:f	geograficzna	
-Jakucji	Jakucja	subst:pl:gen:f	geograficzna	hom.
-Jakucji	Jakucja	subst:sg:dat:f	geograficzna	
-Jakucji	Jakucja	subst:sg:gen:f	geograficzna	
-Jakucji	Jakucja	subst:sg:loc:f	geograficzna	
-Jakucjo	Jakucja	subst:sg:voc:f	geograficzna	
-Jakucjom	Jakucja	subst:pl:dat:f	geograficzna	
-Jakucyj	Jakucja	subst:pl:gen:f	geograficzna	arch.|char.
-Jakuckach	Jakuck	subst:pl:loc:m3	geograficzna	
-Jakucka	Jakuck	subst:sg:gen:m3	geograficzna	
-Jakuckami	Jakuck	subst:pl:inst:m3	geograficzna	
-Jakuckiem	Jakuck	subst:sg:inst:m3	geograficzna	
-Jakucki	Jakuck	subst:pl:acc:m3	geograficzna	
-Jakucki	Jakuck	subst:pl:nom:m3	geograficzna	
-Jakucki	Jakuck	subst:pl:voc:m3	geograficzna	
-Jakuck	Jakuck	subst:sg:acc:m3	geograficzna	
-Jakuck	Jakuck	subst:sg:nom:m3	geograficzna	
-Jakuckom	Jakuck	subst:pl:dat:m3	geograficzna	
-Jakuckowi	Jakuck	subst:sg:dat:m3	geograficzna	
-Jakucków	Jakuck	subst:pl:gen:m3	geograficzna	
-Jakucku	Jakuck	subst:sg:loc:m3	geograficzna	
-Jakucku	Jakuck	subst:sg:voc:m3	geograficzna	
-Jakucie	Jakut	subst:sg:loc:m1	pospolita	
-Jakucie	Jakut	subst:sg:voc:m1	pospolita	
-Jakuci	Jakut	subst:pl:nom:m1	pospolita	
-Jakuci	Jakut	subst:pl:voc:m1	pospolita	
-Jakutach	Jakut	subst:pl:loc:m1	pospolita	
-Jakuta	Jakut	subst:sg:acc:m1	pospolita	
-Jakuta	Jakut	subst:sg:gen:m1	pospolita	
-Jakutami	Jakut	subst:pl:inst:m1	pospolita	
-Jakutem	Jakut	subst:sg:inst:m1	pospolita	
-Jakut	Jakut	subst:sg:nom:m1	pospolita	
-Jakutom	Jakut	subst:pl:dat:m1	pospolita	
-Jakutowi	Jakut	subst:sg:dat:m1	pospolita	
-Jakutów	Jakut	subst:pl:acc:m1	pospolita	
-Jakutów	Jakut	subst:pl:gen:m1	pospolita	
-Jakuty	Jakut	depr:pl:nom:m2	pospolita	
-Jakuty	Jakut	depr:pl:voc:m2	pospolita	
-Jakutce	Jakutka	subst:sg:dat:f	pospolita	
-Jakutce	Jakutka	subst:sg:loc:f	pospolita	
-Jakutek	Jakutka	subst:pl:gen:f	pospolita	
-Jakutkach	Jakutka	subst:pl:loc:f	pospolita	
-Jakutka	Jakutka	subst:sg:nom:f	pospolita	
-Jakutkami	Jakutka	subst:pl:inst:f	pospolita	
-Jakutką	Jakutka	subst:sg:inst:f	pospolita	
-Jakutkę	Jakutka	subst:sg:acc:f	pospolita	
-Jakutki	Jakutka	subst:pl:acc:f	pospolita	
-Jakutki	Jakutka	subst:pl:nom:f	pospolita	
-Jakutki	Jakutka	subst:pl:voc:f	pospolita	
-Jakutki	Jakutka	subst:sg:gen:f	pospolita	
-Jakutko	Jakutka	subst:sg:voc:f	pospolita	
-Jakutkom	Jakutka	subst:pl:dat:f	pospolita	
-JAL	JAL	subst:pl:acc:m3	firma	
-JAL	JAL	subst:pl:dat:m3	firma	
-JAL	JAL	subst:pl:gen:m3	firma	
-JAL	JAL	subst:pl:inst:m3	firma	
-JAL	JAL	subst:pl:loc:m3	firma	
-JAL	JAL	subst:pl:nom:m3	firma	
-JAL	JAL	subst:pl:voc:m3	firma	
-JAL	JAL	subst:sg:acc:m3	firma	
-JAL	JAL	subst:sg:dat:m3	firma	
-JAL	JAL	subst:sg:gen:m3	firma	
-JAL	JAL	subst:sg:inst:m3	firma	
-JAL	JAL	subst:sg:loc:m3	firma	
-JAL	JAL	subst:sg:nom:m3	firma	
-JAL	JAL	subst:sg:voc:m3	firma	
-Jałcie	Jałta	subst:sg:dat:f	geograficzna	
-Jałcie	Jałta	subst:sg:loc:f	geograficzna	
-Jałtach	Jałta	subst:pl:loc:f	geograficzna	
-Jałta	Jałta	subst:sg:nom:f	geograficzna	
-Jałtami	Jałta	subst:pl:inst:f	geograficzna	
-Jałtą	Jałta	subst:sg:inst:f	geograficzna	
-Jałtę	Jałta	subst:sg:acc:f	geograficzna	
-Jałt	Jałta	subst:pl:gen:f	geograficzna	
-Jałto	Jałta	subst:sg:voc:f	geograficzna	
-Jałtom	Jałta	subst:pl:dat:f	geograficzna	
-Jałty	Jałta	subst:pl:acc:f	geograficzna	
-Jałty	Jałta	subst:pl:nom:f	geograficzna	
-Jałty	Jałta	subst:pl:voc:f	geograficzna	
-Jałty	Jałta	subst:sg:gen:f	geograficzna	
-Jamajczycy	Jamajczyk	subst:pl:nom:m1	pospolita	
-Jamajczycy	Jamajczyk	subst:pl:voc:m1	pospolita	
-Jamajczykach	Jamajczyk	subst:pl:loc:m1	pospolita	
-Jamajczyka	Jamajczyk	subst:sg:acc:m1	pospolita	
-Jamajczyka	Jamajczyk	subst:sg:gen:m1	pospolita	
-Jamajczykami	Jamajczyk	subst:pl:inst:m1	pospolita	
-Jamajczykiem	Jamajczyk	subst:sg:inst:m1	pospolita	
-Jamajczyki	Jamajczyk	depr:pl:nom:m2	pospolita	
-Jamajczyki	Jamajczyk	depr:pl:voc:m2	pospolita	
-Jamajczyk	Jamajczyk	subst:sg:nom:m1	pospolita	
-Jamajczykom	Jamajczyk	subst:pl:dat:m1	pospolita	
-Jamajczykowi	Jamajczyk	subst:sg:dat:m1	pospolita	
-Jamajczyków	Jamajczyk	subst:pl:acc:m1	pospolita	
-Jamajczyków	Jamajczyk	subst:pl:gen:m1	pospolita	
-Jamajczyku	Jamajczyk	subst:sg:loc:m1	pospolita	
-Jamajczyku	Jamajczyk	subst:sg:voc:m1	pospolita	
-Jamajce	Jamajka:s1	subst:sg:dat:f	geograficzna	
-Jamajce	Jamajka:s1	subst:sg:loc:f	geograficzna	
-Jamajek	Jamajka:s1	subst:pl:gen:f	geograficzna	
-Jamajkach	Jamajka:s1	subst:pl:loc:f	geograficzna	
-Jamajka	Jamajka:s1	subst:sg:nom:f	geograficzna	
-Jamajkami	Jamajka:s1	subst:pl:inst:f	geograficzna	
-Jamajką	Jamajka:s1	subst:sg:inst:f	geograficzna	
-Jamajkę	Jamajka:s1	subst:sg:acc:f	geograficzna	
-Jamajki	Jamajka:s1	subst:pl:acc:f	geograficzna	
-Jamajki	Jamajka:s1	subst:pl:nom:f	geograficzna	
-Jamajki	Jamajka:s1	subst:pl:voc:f	geograficzna	
-Jamajki	Jamajka:s1	subst:sg:gen:f	geograficzna	
-Jamajko	Jamajka:s1	subst:sg:voc:f	geograficzna	
-Jamajkom	Jamajka:s1	subst:pl:dat:f	geograficzna	
-Jamajce	Jamajka:s2	subst:sg:dat:f	pospolita	
-Jamajce	Jamajka:s2	subst:sg:loc:f	pospolita	
-Jamajek	Jamajka:s2	subst:pl:gen:f	pospolita	
-Jamajkach	Jamajka:s2	subst:pl:loc:f	pospolita	
-Jamajka	Jamajka:s2	subst:sg:nom:f	pospolita	
-Jamajkami	Jamajka:s2	subst:pl:inst:f	pospolita	
-Jamajką	Jamajka:s2	subst:sg:inst:f	pospolita	
-Jamajkę	Jamajka:s2	subst:sg:acc:f	pospolita	
-Jamajki	Jamajka:s2	subst:pl:acc:f	pospolita	
-Jamajki	Jamajka:s2	subst:pl:nom:f	pospolita	
-Jamajki	Jamajka:s2	subst:pl:voc:f	pospolita	
-Jamajki	Jamajka:s2	subst:sg:gen:f	pospolita	
-Jamajko	Jamajka:s2	subst:sg:voc:f	pospolita	
-Jamajkom	Jamajka:s2	subst:pl:dat:f	pospolita	
+Jakubowach	Jakubów	subst:pl:loc:m3	nazwa geograficzna	
+Jakubowa	Jakubów	subst:sg:gen:m3	nazwa geograficzna	
+Jakubowami	Jakubów	subst:pl:inst:m3	nazwa geograficzna	
+Jakubowem	Jakubów	subst:sg:inst:m3	nazwa geograficzna	
+Jakubowie	Jakubów	subst:sg:loc:m3	nazwa geograficzna	
+Jakubowie	Jakubów	subst:sg:voc:m3	nazwa geograficzna	
+Jakubowom	Jakubów	subst:pl:dat:m3	nazwa geograficzna	
+Jakubowowi	Jakubów	subst:sg:dat:m3	nazwa geograficzna	
+Jakubowów	Jakubów	subst:pl:gen:m3	nazwa geograficzna	
+Jakubowu	Jakubów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Jakubowy	Jakubów	subst:pl:acc:m3	nazwa geograficzna	
+Jakubowy	Jakubów	subst:pl:nom:m3	nazwa geograficzna	
+Jakubowy	Jakubów	subst:pl:voc:m3	nazwa geograficzna	
+Jakubów	Jakubów	subst:sg:acc:m3	nazwa geograficzna	
+Jakubów	Jakubów	subst:sg:nom:m3	nazwa geograficzna	
+Jakucjach	Jakucja	subst:pl:loc:f	nazwa geograficzna	
+Jakucja	Jakucja	subst:sg:nom:f	nazwa geograficzna	
+Jakucjami	Jakucja	subst:pl:inst:f	nazwa geograficzna	
+Jakucją	Jakucja	subst:sg:inst:f	nazwa geograficzna	
+Jakucje	Jakucja	subst:pl:acc:f	nazwa geograficzna	
+Jakucje	Jakucja	subst:pl:nom:f	nazwa geograficzna	
+Jakucje	Jakucja	subst:pl:voc:f	nazwa geograficzna	
+Jakucję	Jakucja	subst:sg:acc:f	nazwa geograficzna	
+Jakucji	Jakucja	subst:pl:gen:f	nazwa geograficzna	hom.
+Jakucji	Jakucja	subst:sg:dat:f	nazwa geograficzna	
+Jakucji	Jakucja	subst:sg:gen:f	nazwa geograficzna	
+Jakucji	Jakucja	subst:sg:loc:f	nazwa geograficzna	
+Jakucjo	Jakucja	subst:sg:voc:f	nazwa geograficzna	
+Jakucjom	Jakucja	subst:pl:dat:f	nazwa geograficzna	
+Jakucyj	Jakucja	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+Jakuckach	Jakuck	subst:pl:loc:m3	nazwa geograficzna	
+Jakucka	Jakuck	subst:sg:gen:m3	nazwa geograficzna	
+Jakuckami	Jakuck	subst:pl:inst:m3	nazwa geograficzna	
+Jakuckiem	Jakuck	subst:sg:inst:m3	nazwa geograficzna	
+Jakucki	Jakuck	subst:pl:acc:m3	nazwa geograficzna	
+Jakucki	Jakuck	subst:pl:nom:m3	nazwa geograficzna	
+Jakucki	Jakuck	subst:pl:voc:m3	nazwa geograficzna	
+Jakuck	Jakuck	subst:sg:acc:m3	nazwa geograficzna	
+Jakuck	Jakuck	subst:sg:nom:m3	nazwa geograficzna	
+Jakuckom	Jakuck	subst:pl:dat:m3	nazwa geograficzna	
+Jakuckowi	Jakuck	subst:sg:dat:m3	nazwa geograficzna	
+Jakucków	Jakuck	subst:pl:gen:m3	nazwa geograficzna	
+Jakucku	Jakuck	subst:sg:loc:m3	nazwa geograficzna	
+Jakucku	Jakuck	subst:sg:voc:m3	nazwa geograficzna	
+Jakucie	Jakut	subst:sg:loc:m1	nazwa pospolita	
+Jakucie	Jakut	subst:sg:voc:m1	nazwa pospolita	
+Jakuci	Jakut	subst:pl:nom:m1	nazwa pospolita	
+Jakuci	Jakut	subst:pl:voc:m1	nazwa pospolita	
+Jakutach	Jakut	subst:pl:loc:m1	nazwa pospolita	
+Jakuta	Jakut	subst:sg:acc:m1	nazwa pospolita	
+Jakuta	Jakut	subst:sg:gen:m1	nazwa pospolita	
+Jakutami	Jakut	subst:pl:inst:m1	nazwa pospolita	
+Jakutem	Jakut	subst:sg:inst:m1	nazwa pospolita	
+Jakut	Jakut	subst:sg:nom:m1	nazwa pospolita	
+Jakutom	Jakut	subst:pl:dat:m1	nazwa pospolita	
+Jakutowi	Jakut	subst:sg:dat:m1	nazwa pospolita	
+Jakutów	Jakut	subst:pl:acc:m1	nazwa pospolita	
+Jakutów	Jakut	subst:pl:gen:m1	nazwa pospolita	
+Jakuty	Jakut	depr:pl:nom:m2	nazwa pospolita	
+Jakuty	Jakut	depr:pl:voc:m2	nazwa pospolita	
+Jakutce	Jakutka	subst:sg:dat:f	nazwa pospolita	
+Jakutce	Jakutka	subst:sg:loc:f	nazwa pospolita	
+Jakutek	Jakutka	subst:pl:gen:f	nazwa pospolita	
+Jakutkach	Jakutka	subst:pl:loc:f	nazwa pospolita	
+Jakutka	Jakutka	subst:sg:nom:f	nazwa pospolita	
+Jakutkami	Jakutka	subst:pl:inst:f	nazwa pospolita	
+Jakutką	Jakutka	subst:sg:inst:f	nazwa pospolita	
+Jakutkę	Jakutka	subst:sg:acc:f	nazwa pospolita	
+Jakutki	Jakutka	subst:pl:acc:f	nazwa pospolita	
+Jakutki	Jakutka	subst:pl:nom:f	nazwa pospolita	
+Jakutki	Jakutka	subst:pl:voc:f	nazwa pospolita	
+Jakutki	Jakutka	subst:sg:gen:f	nazwa pospolita	
+Jakutko	Jakutka	subst:sg:voc:f	nazwa pospolita	
+Jakutkom	Jakutka	subst:pl:dat:f	nazwa pospolita	
+JAL	JAL	subst:pl:acc:m3	nazwa firmy	
+JAL	JAL	subst:pl:dat:m3	nazwa firmy	
+JAL	JAL	subst:pl:gen:m3	nazwa firmy	
+JAL	JAL	subst:pl:inst:m3	nazwa firmy	
+JAL	JAL	subst:pl:loc:m3	nazwa firmy	
+JAL	JAL	subst:pl:nom:m3	nazwa firmy	
+JAL	JAL	subst:pl:voc:m3	nazwa firmy	
+JAL	JAL	subst:sg:acc:m3	nazwa firmy	
+JAL	JAL	subst:sg:dat:m3	nazwa firmy	
+JAL	JAL	subst:sg:gen:m3	nazwa firmy	
+JAL	JAL	subst:sg:inst:m3	nazwa firmy	
+JAL	JAL	subst:sg:loc:m3	nazwa firmy	
+JAL	JAL	subst:sg:nom:m3	nazwa firmy	
+JAL	JAL	subst:sg:voc:m3	nazwa firmy	
+Jałcie	Jałta	subst:sg:dat:f	nazwa geograficzna	
+Jałcie	Jałta	subst:sg:loc:f	nazwa geograficzna	
+Jałtach	Jałta	subst:pl:loc:f	nazwa geograficzna	
+Jałta	Jałta	subst:sg:nom:f	nazwa geograficzna	
+Jałtami	Jałta	subst:pl:inst:f	nazwa geograficzna	
+Jałtą	Jałta	subst:sg:inst:f	nazwa geograficzna	
+Jałtę	Jałta	subst:sg:acc:f	nazwa geograficzna	
+Jałt	Jałta	subst:pl:gen:f	nazwa geograficzna	
+Jałto	Jałta	subst:sg:voc:f	nazwa geograficzna	
+Jałtom	Jałta	subst:pl:dat:f	nazwa geograficzna	
+Jałty	Jałta	subst:pl:acc:f	nazwa geograficzna	
+Jałty	Jałta	subst:pl:nom:f	nazwa geograficzna	
+Jałty	Jałta	subst:pl:voc:f	nazwa geograficzna	
+Jałty	Jałta	subst:sg:gen:f	nazwa geograficzna	
+Jamajczycy	Jamajczyk	subst:pl:nom:m1	nazwa pospolita	
+Jamajczycy	Jamajczyk	subst:pl:voc:m1	nazwa pospolita	
+Jamajczykach	Jamajczyk	subst:pl:loc:m1	nazwa pospolita	
+Jamajczyka	Jamajczyk	subst:sg:acc:m1	nazwa pospolita	
+Jamajczyka	Jamajczyk	subst:sg:gen:m1	nazwa pospolita	
+Jamajczykami	Jamajczyk	subst:pl:inst:m1	nazwa pospolita	
+Jamajczykiem	Jamajczyk	subst:sg:inst:m1	nazwa pospolita	
+Jamajczyki	Jamajczyk	depr:pl:nom:m2	nazwa pospolita	
+Jamajczyki	Jamajczyk	depr:pl:voc:m2	nazwa pospolita	
+Jamajczyk	Jamajczyk	subst:sg:nom:m1	nazwa pospolita	
+Jamajczykom	Jamajczyk	subst:pl:dat:m1	nazwa pospolita	
+Jamajczykowi	Jamajczyk	subst:sg:dat:m1	nazwa pospolita	
+Jamajczyków	Jamajczyk	subst:pl:acc:m1	nazwa pospolita	
+Jamajczyków	Jamajczyk	subst:pl:gen:m1	nazwa pospolita	
+Jamajczyku	Jamajczyk	subst:sg:loc:m1	nazwa pospolita	
+Jamajczyku	Jamajczyk	subst:sg:voc:m1	nazwa pospolita	
+Jamajce	Jamajka:s1	subst:sg:dat:f	nazwa geograficzna	
+Jamajce	Jamajka:s1	subst:sg:loc:f	nazwa geograficzna	
+Jamajek	Jamajka:s1	subst:pl:gen:f	nazwa geograficzna	
+Jamajkach	Jamajka:s1	subst:pl:loc:f	nazwa geograficzna	
+Jamajka	Jamajka:s1	subst:sg:nom:f	nazwa geograficzna	
+Jamajkami	Jamajka:s1	subst:pl:inst:f	nazwa geograficzna	
+Jamajką	Jamajka:s1	subst:sg:inst:f	nazwa geograficzna	
+Jamajkę	Jamajka:s1	subst:sg:acc:f	nazwa geograficzna	
+Jamajki	Jamajka:s1	subst:pl:acc:f	nazwa geograficzna	
+Jamajki	Jamajka:s1	subst:pl:nom:f	nazwa geograficzna	
+Jamajki	Jamajka:s1	subst:pl:voc:f	nazwa geograficzna	
+Jamajki	Jamajka:s1	subst:sg:gen:f	nazwa geograficzna	
+Jamajko	Jamajka:s1	subst:sg:voc:f	nazwa geograficzna	
+Jamajkom	Jamajka:s1	subst:pl:dat:f	nazwa geograficzna	
+Jamajce	Jamajka:s2	subst:sg:dat:f	nazwa pospolita	
+Jamajce	Jamajka:s2	subst:sg:loc:f	nazwa pospolita	
+Jamajek	Jamajka:s2	subst:pl:gen:f	nazwa pospolita	
+Jamajkach	Jamajka:s2	subst:pl:loc:f	nazwa pospolita	
+Jamajka	Jamajka:s2	subst:sg:nom:f	nazwa pospolita	
+Jamajkami	Jamajka:s2	subst:pl:inst:f	nazwa pospolita	
+Jamajką	Jamajka:s2	subst:sg:inst:f	nazwa pospolita	
+Jamajkę	Jamajka:s2	subst:sg:acc:f	nazwa pospolita	
+Jamajki	Jamajka:s2	subst:pl:acc:f	nazwa pospolita	
+Jamajki	Jamajka:s2	subst:pl:nom:f	nazwa pospolita	
+Jamajki	Jamajka:s2	subst:pl:voc:f	nazwa pospolita	
+Jamajki	Jamajka:s2	subst:sg:gen:f	nazwa pospolita	
+Jamajko	Jamajka:s2	subst:sg:voc:f	nazwa pospolita	
+Jamajkom	Jamajka:s2	subst:pl:dat:f	nazwa pospolita	
 Jambrożego	Jambroży	subst:sg:acc:m1	imię	
 Jambrożego	Jambroży	subst:sg:gen:m1	imię	
 Jambroże	Jambroży	depr:pl:nom:m2	imię	
@@ -1192,21 +1191,37 @@ Jamesów	James	subst:pl:acc:m1	nazwisko
 Jamesów	James	subst:pl:gen:m1	nazwisko	
 Jamesy	James	depr:pl:nom:m2	nazwisko	
 Jamesy	James	depr:pl:voc:m2	nazwisko	
-Jamien	Jamno	subst:pl:gen:n2	geograficzna	
-Jamnach	Jamno	subst:pl:loc:n2	geograficzna	
-Jamna	Jamno	subst:pl:acc:n2	geograficzna	
-Jamna	Jamno	subst:pl:nom:n2	geograficzna	
-Jamna	Jamno	subst:pl:voc:n2	geograficzna	
-Jamna	Jamno	subst:sg:gen:n2	geograficzna	
-Jamnami	Jamno	subst:pl:inst:n2	geograficzna	
-Jamnem	Jamno	subst:sg:inst:n2	geograficzna	
-Jamnie	Jamno	subst:sg:loc:n2	geograficzna	
-Jamn	Jamno	subst:pl:gen:n2	geograficzna	
-Jamno	Jamno	subst:sg:acc:n2	geograficzna	
-Jamno	Jamno	subst:sg:nom:n2	geograficzna	
-Jamno	Jamno	subst:sg:voc:n2	geograficzna	
-Jamnom	Jamno	subst:pl:dat:n2	geograficzna	
-Jamnu	Jamno	subst:sg:dat:n2	geograficzna	
+Jamien	Jamno	subst:pl:gen:n2	nazwa geograficzna	
+Jamnach	Jamno	subst:pl:loc:n2	nazwa geograficzna	
+Jamna	Jamno	subst:pl:acc:n2	nazwa geograficzna	
+Jamna	Jamno	subst:pl:nom:n2	nazwa geograficzna	
+Jamna	Jamno	subst:pl:voc:n2	nazwa geograficzna	
+Jamna	Jamno	subst:sg:gen:n2	nazwa geograficzna	
+Jamnami	Jamno	subst:pl:inst:n2	nazwa geograficzna	
+Jamnem	Jamno	subst:sg:inst:n2	nazwa geograficzna	
+Jamnie	Jamno	subst:sg:loc:n2	nazwa geograficzna	
+Jamn	Jamno	subst:pl:gen:n2	nazwa geograficzna	
+Jamno	Jamno	subst:sg:acc:n2	nazwa geograficzna	
+Jamno	Jamno	subst:sg:nom:n2	nazwa geograficzna	
+Jamno	Jamno	subst:sg:voc:n2	nazwa geograficzna	
+Jamnom	Jamno	subst:pl:dat:n2	nazwa geograficzna	
+Jamnu	Jamno	subst:sg:dat:n2	nazwa geograficzna	
+Jamrozach	Jamróz	subst:pl:loc:m1	nazwisko	
+Jamroza	Jamróz	subst:sg:acc:m1	nazwisko	
+Jamroza	Jamróz	subst:sg:gen:m1	nazwisko	
+Jamrozami	Jamróz	subst:pl:inst:m1	nazwisko	
+Jamrozem	Jamróz	subst:sg:inst:m1	nazwisko	
+Jamrozie	Jamróz	subst:sg:loc:m1	nazwisko	
+Jamrozie	Jamróz	subst:sg:voc:m1	nazwisko	
+Jamrozom	Jamróz	subst:pl:dat:m1	nazwisko	
+Jamrozowie	Jamróz	subst:pl:nom:m1	nazwisko	
+Jamrozowie	Jamróz	subst:pl:voc:m1	nazwisko	
+Jamrozowi	Jamróz	subst:sg:dat:m1	nazwisko	
+Jamrozów	Jamróz	subst:pl:acc:m1	nazwisko	
+Jamrozów	Jamróz	subst:pl:gen:m1	nazwisko	
+Jamrozy	Jamróz	depr:pl:nom:m2	nazwisko	
+Jamrozy	Jamróz	depr:pl:voc:m2	nazwisko	
+Jamróz	Jamróz	subst:sg:nom:m1	nazwisko	
 Janach	Jan	subst:pl:loc:m1	imię	
 Jana	Jan	subst:sg:acc:m1	imię	
 Jana	Jan	subst:sg:gen:m1	imię	
@@ -1223,20 +1238,20 @@ Janów	Jan	subst:pl:acc:m1	imię
 Janów	Jan	subst:pl:gen:m1	imię	
 Jany	Jan	depr:pl:nom:m2	imię	
 Jany	Jan	depr:pl:voc:m2	imię	
-JANA	JANA	subst:pl:acc:f	instytucja	
-JANA	JANA	subst:pl:dat:f	instytucja	
-JANA	JANA	subst:pl:gen:f	instytucja	
-JANA	JANA	subst:pl:inst:f	instytucja	
-JANA	JANA	subst:pl:loc:f	instytucja	
-JANA	JANA	subst:pl:nom:f	instytucja	
-JANA	JANA	subst:pl:voc:f	instytucja	
-JANA	JANA	subst:sg:acc:f	instytucja	
-JANA	JANA	subst:sg:dat:f	instytucja	
-JANA	JANA	subst:sg:gen:f	instytucja	
-JANA	JANA	subst:sg:inst:f	instytucja	
-JANA	JANA	subst:sg:loc:f	instytucja	
-JANA	JANA	subst:sg:nom:f	instytucja	
-JANA	JANA	subst:sg:voc:f	instytucja	
+JANA	JANA	subst:pl:acc:f	nazwa instytucji	
+JANA	JANA	subst:pl:dat:f	nazwa instytucji	
+JANA	JANA	subst:pl:gen:f	nazwa instytucji	
+JANA	JANA	subst:pl:inst:f	nazwa instytucji	
+JANA	JANA	subst:pl:loc:f	nazwa instytucji	
+JANA	JANA	subst:pl:nom:f	nazwa instytucji	
+JANA	JANA	subst:pl:voc:f	nazwa instytucji	
+JANA	JANA	subst:sg:acc:f	nazwa instytucji	
+JANA	JANA	subst:sg:dat:f	nazwa instytucji	
+JANA	JANA	subst:sg:gen:f	nazwa instytucji	
+JANA	JANA	subst:sg:inst:f	nazwa instytucji	
+JANA	JANA	subst:sg:loc:f	nazwa instytucji	
+JANA	JANA	subst:sg:nom:f	nazwa instytucji	
+JANA	JANA	subst:sg:voc:f	nazwa instytucji	
 Janczakach	Janczak	subst:pl:loc:m1	nazwisko	
 Janczaka	Janczak	subst:sg:acc:m1	nazwisko	
 Janczaka	Janczak	subst:sg:gen:m1	nazwisko	
@@ -1344,20 +1359,20 @@ Janków	Janek	subst:pl:acc:m1	imię
 Janków	Janek	subst:pl:gen:m1	imię	
 Janku	Janek	subst:sg:loc:m1	imię	
 Janku	Janek	subst:sg:voc:m1	imię	
-Jangcy	Jangcy	subst:pl:acc:f	geograficzna	
-Jangcy	Jangcy	subst:pl:dat:f	geograficzna	
-Jangcy	Jangcy	subst:pl:gen:f	geograficzna	
-Jangcy	Jangcy	subst:pl:inst:f	geograficzna	
-Jangcy	Jangcy	subst:pl:loc:f	geograficzna	
-Jangcy	Jangcy	subst:pl:nom:f	geograficzna	
-Jangcy	Jangcy	subst:pl:voc:f	geograficzna	
-Jangcy	Jangcy	subst:sg:acc:f	geograficzna	
-Jangcy	Jangcy	subst:sg:dat:f	geograficzna	
-Jangcy	Jangcy	subst:sg:gen:f	geograficzna	
-Jangcy	Jangcy	subst:sg:inst:f	geograficzna	
-Jangcy	Jangcy	subst:sg:loc:f	geograficzna	
-Jangcy	Jangcy	subst:sg:nom:f	geograficzna	
-Jangcy	Jangcy	subst:sg:voc:f	geograficzna	
+Jangcy	Jangcy	subst:pl:acc:f	nazwa geograficzna	
+Jangcy	Jangcy	subst:pl:dat:f	nazwa geograficzna	
+Jangcy	Jangcy	subst:pl:gen:f	nazwa geograficzna	
+Jangcy	Jangcy	subst:pl:inst:f	nazwa geograficzna	
+Jangcy	Jangcy	subst:pl:loc:f	nazwa geograficzna	
+Jangcy	Jangcy	subst:pl:nom:f	nazwa geograficzna	
+Jangcy	Jangcy	subst:pl:voc:f	nazwa geograficzna	
+Jangcy	Jangcy	subst:sg:acc:f	nazwa geograficzna	
+Jangcy	Jangcy	subst:sg:dat:f	nazwa geograficzna	
+Jangcy	Jangcy	subst:sg:gen:f	nazwa geograficzna	
+Jangcy	Jangcy	subst:sg:inst:f	nazwa geograficzna	
+Jangcy	Jangcy	subst:sg:loc:f	nazwa geograficzna	
+Jangcy	Jangcy	subst:sg:nom:f	nazwa geograficzna	
+Jangcy	Jangcy	subst:sg:voc:f	nazwa geograficzna	
 Janiakach	Janiak	subst:pl:loc:m1	nazwisko	
 Janiaka	Janiak	subst:sg:acc:m1	nazwisko	
 Janiaka	Janiak	subst:sg:gen:m1	nazwisko	
@@ -1420,22 +1435,22 @@ Janików	Janik	subst:pl:acc:m1	nazwisko
 Janików	Janik	subst:pl:gen:m1	nazwisko	
 Janiku	Janik	subst:sg:loc:m1	nazwisko	
 Janiku	Janik	subst:sg:voc:m1	nazwisko	
-Janikowach	Janikowo	subst:pl:loc:n2	geograficzna	
-Janikowa	Janikowo	subst:pl:acc:n2	geograficzna	
-Janikowa	Janikowo	subst:pl:nom:n2	geograficzna	
-Janikowa	Janikowo	subst:pl:voc:n2	geograficzna	
-Janikowa	Janikowo	subst:sg:gen:n2	geograficzna	
-Janikowami	Janikowo	subst:pl:inst:n2	geograficzna	
-Janikowem	Janikowo	subst:sg:inst:n2	geograficzna	
-Janikowie	Janikowo	subst:sg:loc:n2	geograficzna	
-Janikow	Janikowo	subst:pl:gen:n2	geograficzna	
-Janikowo	Janikowo	subst:sg:acc:n2	geograficzna	
-Janikowo	Janikowo	subst:sg:nom:n2	geograficzna	
-Janikowo	Janikowo	subst:sg:voc:n2	geograficzna	
-Janikowom	Janikowo	subst:pl:dat:n2	geograficzna	
-Janikowów	Janikowo	subst:pl:gen:n2	geograficzna	
-Janikowu	Janikowo	subst:sg:dat:n2	geograficzna	
-Janików	Janikowo	subst:pl:gen:n2	geograficzna	
+Janikowach	Janikowo	subst:pl:loc:n2	nazwa geograficzna	
+Janikowa	Janikowo	subst:pl:acc:n2	nazwa geograficzna	
+Janikowa	Janikowo	subst:pl:nom:n2	nazwa geograficzna	
+Janikowa	Janikowo	subst:pl:voc:n2	nazwa geograficzna	
+Janikowa	Janikowo	subst:sg:gen:n2	nazwa geograficzna	
+Janikowami	Janikowo	subst:pl:inst:n2	nazwa geograficzna	
+Janikowem	Janikowo	subst:sg:inst:n2	nazwa geograficzna	
+Janikowie	Janikowo	subst:sg:loc:n2	nazwa geograficzna	
+Janikow	Janikowo	subst:pl:gen:n2	nazwa geograficzna	
+Janikowo	Janikowo	subst:sg:acc:n2	nazwa geograficzna	
+Janikowo	Janikowo	subst:sg:nom:n2	nazwa geograficzna	
+Janikowo	Janikowo	subst:sg:voc:n2	nazwa geograficzna	
+Janikowom	Janikowo	subst:pl:dat:n2	nazwa geograficzna	
+Janikowów	Janikowo	subst:pl:gen:n2	nazwa geograficzna	
+Janikowu	Janikowo	subst:sg:dat:n2	nazwa geograficzna	
+Janików	Janikowo	subst:pl:gen:n2	nazwa geograficzna	
 Janinach	Janina	subst:pl:loc:f	imię	
 Janina	Janina	subst:sg:nom:f	imię	
 Janinami	Janina	subst:pl:inst:f	imię	
@@ -1484,20 +1499,20 @@ Janisławów	Janisław	subst:pl:acc:m1	imię
 Janisławów	Janisław	subst:pl:gen:m1	imię	
 Janisławy	Janisław	depr:pl:nom:m2	imię	
 Janisławy	Janisław	depr:pl:voc:m2	imię	
-Janisławicach	Janisławice	subst:pl:loc:p2	geograficzna	rzad.
-Janisławicach	Janisławice	subst:pl:loc:p3	geograficzna	
-Janisławicami	Janisławice	subst:pl:inst:p2	geograficzna	rzad.
-Janisławicami	Janisławice	subst:pl:inst:p3	geograficzna	
-Janisławice	Janisławice	subst:pl:acc:p2	geograficzna	rzad.
-Janisławice	Janisławice	subst:pl:acc:p3	geograficzna	
-Janisławice	Janisławice	subst:pl:nom:p2	geograficzna	rzad.
-Janisławice	Janisławice	subst:pl:nom:p3	geograficzna	
-Janisławice	Janisławice	subst:pl:voc:p2	geograficzna	rzad.
-Janisławice	Janisławice	subst:pl:voc:p3	geograficzna	
-Janisławic	Janisławice	subst:pl:gen:p2	geograficzna	rzad.
-Janisławic	Janisławice	subst:pl:gen:p3	geograficzna	
-Janisławicom	Janisławice	subst:pl:dat:p2	geograficzna	rzad.
-Janisławicom	Janisławice	subst:pl:dat:p3	geograficzna	
+Janisławicach	Janisławice	subst:pl:loc:p2	nazwa geograficzna	rzad.
+Janisławicach	Janisławice	subst:pl:loc:p3	nazwa geograficzna	
+Janisławicami	Janisławice	subst:pl:inst:p2	nazwa geograficzna	rzad.
+Janisławicami	Janisławice	subst:pl:inst:p3	nazwa geograficzna	
+Janisławice	Janisławice	subst:pl:acc:p2	nazwa geograficzna	rzad.
+Janisławice	Janisławice	subst:pl:acc:p3	nazwa geograficzna	
+Janisławice	Janisławice	subst:pl:nom:p2	nazwa geograficzna	rzad.
+Janisławice	Janisławice	subst:pl:nom:p3	nazwa geograficzna	
+Janisławice	Janisławice	subst:pl:voc:p2	nazwa geograficzna	rzad.
+Janisławice	Janisławice	subst:pl:voc:p3	nazwa geograficzna	
+Janisławic	Janisławice	subst:pl:gen:p2	nazwa geograficzna	rzad.
+Janisławic	Janisławice	subst:pl:gen:p3	nazwa geograficzna	
+Janisławicom	Janisławice	subst:pl:dat:p2	nazwa geograficzna	rzad.
+Janisławicom	Janisławice	subst:pl:dat:p3	nazwa geograficzna	
 Janiszewska	Janiszewska	subst:sg:nom:f	nazwisko	
 Janiszewska	Janiszewska	subst:sg:voc:f	nazwisko	
 Janiszewską	Janiszewska	subst:sg:acc:f	nazwisko	
@@ -1542,36 +1557,36 @@ Janki	Janka	subst:pl:voc:f	imię
 Janki	Janka	subst:sg:gen:f	imię	
 Janko	Janka	subst:sg:voc:f	imię	
 Jankom	Janka	subst:pl:dat:f	imię	
-Jankesach	Jankes	subst:pl:loc:m1	pospolita	pot.|lekcew.
-Jankesa	Jankes	subst:sg:acc:m1	pospolita	pot.|lekcew.
-Jankesa	Jankes	subst:sg:gen:m1	pospolita	pot.|lekcew.
-Jankesami	Jankes	subst:pl:inst:m1	pospolita	pot.|lekcew.
-Jankesem	Jankes	subst:sg:inst:m1	pospolita	pot.|lekcew.
-Jankesie	Jankes	subst:sg:loc:m1	pospolita	pot.|lekcew.
-Jankesie	Jankes	subst:sg:voc:m1	pospolita	pot.|lekcew.
-Jankesi	Jankes	subst:pl:nom:m1	pospolita	pot.|lekcew.
-Jankesi	Jankes	subst:pl:voc:m1	pospolita	pot.|lekcew.
-Jankes	Jankes	subst:sg:nom:m1	pospolita	pot.|lekcew.
-Jankesom	Jankes	subst:pl:dat:m1	pospolita	pot.|lekcew.
-Jankesowi	Jankes	subst:sg:dat:m1	pospolita	pot.|lekcew.
-Jankesów	Jankes	subst:pl:acc:m1	pospolita	pot.|lekcew.
-Jankesów	Jankes	subst:pl:gen:m1	pospolita	pot.|lekcew.
-Jankesy	Jankes	depr:pl:nom:m2	pospolita	pot.|lekcew.
-Jankesy	Jankes	depr:pl:voc:m2	pospolita	pot.|lekcew.
-Jankesce	Jankeska	subst:sg:dat:f	pospolita	pot.|lekcew.
-Jankesce	Jankeska	subst:sg:loc:f	pospolita	pot.|lekcew.
-Jankesek	Jankeska	subst:pl:gen:f	pospolita	pot.|lekcew.
-Jankeskach	Jankeska	subst:pl:loc:f	pospolita	pot.|lekcew.
-Jankeska	Jankeska	subst:sg:nom:f	pospolita	pot.|lekcew.
-Jankeskami	Jankeska	subst:pl:inst:f	pospolita	pot.|lekcew.
-Jankeską	Jankeska	subst:sg:inst:f	pospolita	pot.|lekcew.
-Jankeskę	Jankeska	subst:sg:acc:f	pospolita	pot.|lekcew.
-Jankeski	Jankeska	subst:pl:acc:f	pospolita	pot.|lekcew.
-Jankeski	Jankeska	subst:pl:nom:f	pospolita	pot.|lekcew.
-Jankeski	Jankeska	subst:pl:voc:f	pospolita	pot.|lekcew.
-Jankeski	Jankeska	subst:sg:gen:f	pospolita	pot.|lekcew.
-Jankesko	Jankeska	subst:sg:voc:f	pospolita	pot.|lekcew.
-Jankeskom	Jankeska	subst:pl:dat:f	pospolita	pot.|lekcew.
+Jankesach	Jankes	subst:pl:loc:m1	nazwa pospolita	pot.|lekcew.
+Jankesa	Jankes	subst:sg:acc:m1	nazwa pospolita	pot.|lekcew.
+Jankesa	Jankes	subst:sg:gen:m1	nazwa pospolita	pot.|lekcew.
+Jankesami	Jankes	subst:pl:inst:m1	nazwa pospolita	pot.|lekcew.
+Jankesem	Jankes	subst:sg:inst:m1	nazwa pospolita	pot.|lekcew.
+Jankesie	Jankes	subst:sg:loc:m1	nazwa pospolita	pot.|lekcew.
+Jankesie	Jankes	subst:sg:voc:m1	nazwa pospolita	pot.|lekcew.
+Jankesi	Jankes	subst:pl:nom:m1	nazwa pospolita	pot.|lekcew.
+Jankesi	Jankes	subst:pl:voc:m1	nazwa pospolita	pot.|lekcew.
+Jankes	Jankes	subst:sg:nom:m1	nazwa pospolita	pot.|lekcew.
+Jankesom	Jankes	subst:pl:dat:m1	nazwa pospolita	pot.|lekcew.
+Jankesowi	Jankes	subst:sg:dat:m1	nazwa pospolita	pot.|lekcew.
+Jankesów	Jankes	subst:pl:acc:m1	nazwa pospolita	pot.|lekcew.
+Jankesów	Jankes	subst:pl:gen:m1	nazwa pospolita	pot.|lekcew.
+Jankesy	Jankes	depr:pl:nom:m2	nazwa pospolita	pot.|lekcew.
+Jankesy	Jankes	depr:pl:voc:m2	nazwa pospolita	pot.|lekcew.
+Jankesce	Jankeska	subst:sg:dat:f	nazwa pospolita	pot.|lekcew.
+Jankesce	Jankeska	subst:sg:loc:f	nazwa pospolita	pot.|lekcew.
+Jankesek	Jankeska	subst:pl:gen:f	nazwa pospolita	pot.|lekcew.
+Jankeskach	Jankeska	subst:pl:loc:f	nazwa pospolita	pot.|lekcew.
+Jankeska	Jankeska	subst:sg:nom:f	nazwa pospolita	pot.|lekcew.
+Jankeskami	Jankeska	subst:pl:inst:f	nazwa pospolita	pot.|lekcew.
+Jankeską	Jankeska	subst:sg:inst:f	nazwa pospolita	pot.|lekcew.
+Jankeskę	Jankeska	subst:sg:acc:f	nazwa pospolita	pot.|lekcew.
+Jankeski	Jankeska	subst:pl:acc:f	nazwa pospolita	pot.|lekcew.
+Jankeski	Jankeska	subst:pl:nom:f	nazwa pospolita	pot.|lekcew.
+Jankeski	Jankeska	subst:pl:voc:f	nazwa pospolita	pot.|lekcew.
+Jankeski	Jankeska	subst:sg:gen:f	nazwa pospolita	pot.|lekcew.
+Jankesko	Jankeska	subst:sg:voc:f	nazwa pospolita	pot.|lekcew.
+Jankeskom	Jankeska	subst:pl:dat:f	nazwa pospolita	pot.|lekcew.
 Jankielach	Jankiel	subst:pl:loc:m1	imię	
 Jankiela	Jankiel	subst:sg:acc:m1	imię	
 Jankiela	Jankiel	subst:sg:gen:m1	imię	
@@ -1686,13 +1701,13 @@ Janosików	Janosik	subst:pl:acc:m1	imię
 Janosików	Janosik	subst:pl:gen:m1	imię	
 Janosiku	Janosik	subst:sg:loc:m1	imię	
 Janosiku	Janosik	subst:sg:voc:m1	imię	
-Janostwa	Janostwo	subst:pl:acc:p1	pospolita	przest.
-Janostwa	Janostwo	subst:pl:gen:p1	pospolita	przest.
-Janostwem	Janostwo	subst:pl:inst:p1	pospolita	przest.
-Janostwo	Janostwo	subst:pl:nom:p1	pospolita	przest.
-Janostwo	Janostwo	subst:pl:voc:p1	pospolita	przest.
-Janostwu	Janostwo	subst:pl:dat:p1	pospolita	przest.
-Janostwu	Janostwo	subst:pl:loc:p1	pospolita	przest.
+Janostwa	Janostwo	subst:pl:acc:p1	nazwa pospolita	przest.
+Janostwa	Janostwo	subst:pl:gen:p1	nazwa pospolita	przest.
+Janostwem	Janostwo	subst:pl:inst:p1	nazwa pospolita	przest.
+Janostwo	Janostwo	subst:pl:nom:p1	nazwa pospolita	przest.
+Janostwo	Janostwo	subst:pl:voc:p1	nazwa pospolita	przest.
+Janostwu	Janostwo	subst:pl:dat:p1	nazwa pospolita	przest.
+Janostwu	Janostwo	subst:pl:loc:p1	nazwa pospolita	przest.
 Janoszach	Janosz	subst:pl:loc:m1	imię|nazwisko	
 Janosza	Janosz	subst:sg:acc:m1	imię|nazwisko	
 Janosza	Janosz	subst:sg:gen:m1	imię|nazwisko	
@@ -1711,20 +1726,20 @@ Janoszów	Janosz	subst:pl:acc:m1	imię|nazwisko
 Janoszów	Janosz	subst:pl:gen:m1	imię|nazwisko	
 Janoszu	Janosz	subst:sg:loc:m1	imię|nazwisko	
 Janoszu	Janosz	subst:sg:voc:m1	imię|nazwisko	
-Janowicach	Janowice	subst:pl:loc:p2	geograficzna	rzad.
-Janowicach	Janowice	subst:pl:loc:p3	geograficzna	
-Janowicami	Janowice	subst:pl:inst:p2	geograficzna	rzad.
-Janowicami	Janowice	subst:pl:inst:p3	geograficzna	
-Janowice	Janowice	subst:pl:acc:p2	geograficzna	rzad.
-Janowice	Janowice	subst:pl:acc:p3	geograficzna	
-Janowice	Janowice	subst:pl:nom:p2	geograficzna	rzad.
-Janowice	Janowice	subst:pl:nom:p3	geograficzna	
-Janowice	Janowice	subst:pl:voc:p2	geograficzna	rzad.
-Janowice	Janowice	subst:pl:voc:p3	geograficzna	
-Janowic	Janowice	subst:pl:gen:p2	geograficzna	rzad.
-Janowic	Janowice	subst:pl:gen:p3	geograficzna	
-Janowicom	Janowice	subst:pl:dat:p2	geograficzna	rzad.
-Janowicom	Janowice	subst:pl:dat:p3	geograficzna	
+Janowicach	Janowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
+Janowicach	Janowice	subst:pl:loc:p3	nazwa geograficzna	
+Janowicami	Janowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
+Janowicami	Janowice	subst:pl:inst:p3	nazwa geograficzna	
+Janowice	Janowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
+Janowice	Janowice	subst:pl:acc:p3	nazwa geograficzna	
+Janowice	Janowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
+Janowice	Janowice	subst:pl:nom:p3	nazwa geograficzna	
+Janowice	Janowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
+Janowice	Janowice	subst:pl:voc:p3	nazwa geograficzna	
+Janowic	Janowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
+Janowic	Janowice	subst:pl:gen:p3	nazwa geograficzna	
+Janowicom	Janowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
+Janowicom	Janowice	subst:pl:dat:p3	nazwa geograficzna	
 Janowiczach	Janowicz	subst:pl:loc:m1	nazwisko	
 Janowicza	Janowicz	subst:sg:acc:m1	nazwisko	
 Janowicza	Janowicz	subst:sg:gen:m1	nazwisko	
@@ -1743,22 +1758,22 @@ Janowiczów	Janowicz	subst:pl:acc:m1	nazwisko
 Janowiczów	Janowicz	subst:pl:gen:m1	nazwisko	
 Janowiczu	Janowicz	subst:sg:loc:m1	nazwisko	
 Janowiczu	Janowicz	subst:sg:voc:m1	nazwisko	
-Janowach	Janowo	subst:pl:loc:n2	geograficzna	
-Janowa	Janowo	subst:pl:acc:n2	geograficzna	
-Janowa	Janowo	subst:pl:nom:n2	geograficzna	
-Janowa	Janowo	subst:pl:voc:n2	geograficzna	
-Janowa	Janowo	subst:sg:gen:n2	geograficzna	
-Janowami	Janowo	subst:pl:inst:n2	geograficzna	
-Janowem	Janowo	subst:sg:inst:n2	geograficzna	
-Janowie	Janowo	subst:sg:loc:n2	geograficzna	
-Janow	Janowo	subst:pl:gen:n2	geograficzna	
-Janowo	Janowo	subst:sg:acc:n2	geograficzna	
-Janowo	Janowo	subst:sg:nom:n2	geograficzna	
-Janowo	Janowo	subst:sg:voc:n2	geograficzna	
-Janowom	Janowo	subst:pl:dat:n2	geograficzna	
-Janowów	Janowo	subst:pl:gen:n2	geograficzna	
-Janowu	Janowo	subst:sg:dat:n2	geograficzna	
-Janów	Janowo	subst:pl:gen:n2	geograficzna	
+Janowach	Janowo	subst:pl:loc:n2	nazwa geograficzna	
+Janowa	Janowo	subst:pl:acc:n2	nazwa geograficzna	
+Janowa	Janowo	subst:pl:nom:n2	nazwa geograficzna	
+Janowa	Janowo	subst:pl:voc:n2	nazwa geograficzna	
+Janowa	Janowo	subst:sg:gen:n2	nazwa geograficzna	
+Janowami	Janowo	subst:pl:inst:n2	nazwa geograficzna	
+Janowem	Janowo	subst:sg:inst:n2	nazwa geograficzna	
+Janowie	Janowo	subst:sg:loc:n2	nazwa geograficzna	
+Janow	Janowo	subst:pl:gen:n2	nazwa geograficzna	
+Janowo	Janowo	subst:sg:acc:n2	nazwa geograficzna	
+Janowo	Janowo	subst:sg:nom:n2	nazwa geograficzna	
+Janowo	Janowo	subst:sg:voc:n2	nazwa geograficzna	
+Janowom	Janowo	subst:pl:dat:n2	nazwa geograficzna	
+Janowów	Janowo	subst:pl:gen:n2	nazwa geograficzna	
+Janowu	Janowo	subst:sg:dat:n2	nazwa geograficzna	
+Janów	Janowo	subst:pl:gen:n2	nazwa geograficzna	
 Janowska	Janowska	subst:sg:nom:f	nazwisko	
 Janowska	Janowska	subst:sg:voc:f	nazwisko	
 Janowską	Janowska	subst:sg:acc:f	nazwisko	
@@ -1789,21 +1804,21 @@ Janowskimi	Janowski	subst:pl:inst:m1	nazwisko
 Janowskim	Janowski	subst:pl:dat:m1	nazwisko	
 Janowskim	Janowski	subst:sg:inst:m1	nazwisko	
 Janowskim	Janowski	subst:sg:loc:m1	nazwisko	
-Janowach	Janów:s1	subst:pl:loc:m3	geograficzna	
-Janowa	Janów:s1	subst:sg:gen:m3	geograficzna	
-Janowami	Janów:s1	subst:pl:inst:m3	geograficzna	
-Janowem	Janów:s1	subst:sg:inst:m3	geograficzna	
-Janowie	Janów:s1	subst:sg:loc:m3	geograficzna	
-Janowie	Janów:s1	subst:sg:voc:m3	geograficzna	
-Janowom	Janów:s1	subst:pl:dat:m3	geograficzna	
-Janowowi	Janów:s1	subst:sg:dat:m3	geograficzna	
-Janowów	Janów:s1	subst:pl:gen:m3	geograficzna	
-Janowu	Janów:s1	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
-Janowy	Janów:s1	subst:pl:acc:m3	geograficzna	
-Janowy	Janów:s1	subst:pl:nom:m3	geograficzna	
-Janowy	Janów:s1	subst:pl:voc:m3	geograficzna	
-Janów	Janów:s1	subst:sg:acc:m3	geograficzna	
-Janów	Janów:s1	subst:sg:nom:m3	geograficzna	
+Janowach	Janów:s1	subst:pl:loc:m3	nazwa geograficzna	
+Janowa	Janów:s1	subst:sg:gen:m3	nazwa geograficzna	
+Janowami	Janów:s1	subst:pl:inst:m3	nazwa geograficzna	
+Janowem	Janów:s1	subst:sg:inst:m3	nazwa geograficzna	
+Janowie	Janów:s1	subst:sg:loc:m3	nazwa geograficzna	
+Janowie	Janów:s1	subst:sg:voc:m3	nazwa geograficzna	
+Janowom	Janów:s1	subst:pl:dat:m3	nazwa geograficzna	
+Janowowi	Janów:s1	subst:sg:dat:m3	nazwa geograficzna	
+Janowów	Janów:s1	subst:pl:gen:m3	nazwa geograficzna	
+Janowu	Janów:s1	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Janowy	Janów:s1	subst:pl:acc:m3	nazwa geograficzna	
+Janowy	Janów:s1	subst:pl:nom:m3	nazwa geograficzna	
+Janowy	Janów:s1	subst:pl:voc:m3	nazwa geograficzna	
+Janów	Janów:s1	subst:sg:acc:m3	nazwa geograficzna	
+Janów	Janów:s1	subst:sg:nom:m3	nazwa geograficzna	
 Janowach	Janów:s2	subst:pl:loc:m1	nazwisko	
 Janowa	Janów:s2	subst:sg:acc:m1	nazwisko	
 Janowa	Janów:s2	subst:sg:gen:m1	nazwisko	
@@ -1996,51 +2011,51 @@ Januszewskimi	Januszewski	subst:pl:inst:m1	nazwisko
 Januszewskim	Januszewski	subst:pl:dat:m1	nazwisko	
 Januszewskim	Januszewski	subst:sg:inst:m1	nazwisko	
 Januszewskim	Januszewski	subst:sg:loc:m1	nazwisko	
-Japoniach	Japonia	subst:pl:loc:f	geograficzna	
-Japonia	Japonia	subst:sg:nom:f	geograficzna	
-Japoniami	Japonia	subst:pl:inst:f	geograficzna	
-Japonią	Japonia	subst:sg:inst:f	geograficzna	
-Japonie	Japonia	subst:pl:acc:f	geograficzna	
-Japonie	Japonia	subst:pl:nom:f	geograficzna	
-Japonie	Japonia	subst:pl:voc:f	geograficzna	
-Japonię	Japonia	subst:sg:acc:f	geograficzna	
-Japonii	Japonia	subst:pl:gen:f	geograficzna	hom.
-Japonii	Japonia	subst:sg:dat:f	geograficzna	
-Japonii	Japonia	subst:sg:gen:f	geograficzna	
-Japonii	Japonia	subst:sg:loc:f	geograficzna	
-Japonij	Japonia	subst:pl:gen:f	geograficzna	arch.|char.
-Japonio	Japonia	subst:sg:voc:f	geograficzna	
-Japoniom	Japonia	subst:pl:dat:f	geograficzna	
-Japonce	Japonka	subst:sg:dat:f	pospolita	
-Japonce	Japonka	subst:sg:loc:f	pospolita	
-Japonek	Japonka	subst:pl:gen:f	pospolita	
-Japonkach	Japonka	subst:pl:loc:f	pospolita	
-Japonka	Japonka	subst:sg:nom:f	pospolita	
-Japonkami	Japonka	subst:pl:inst:f	pospolita	
-Japonką	Japonka	subst:sg:inst:f	pospolita	
-Japonkę	Japonka	subst:sg:acc:f	pospolita	
-Japonki	Japonka	subst:pl:acc:f	pospolita	
-Japonki	Japonka	subst:pl:nom:f	pospolita	
-Japonki	Japonka	subst:pl:voc:f	pospolita	
-Japonki	Japonka	subst:sg:gen:f	pospolita	
-Japonko	Japonka	subst:sg:voc:f	pospolita	
-Japonkom	Japonka	subst:pl:dat:f	pospolita	
-Japończycy	Japończyk	subst:pl:nom:m1	pospolita	
-Japończycy	Japończyk	subst:pl:voc:m1	pospolita	
-Japończykach	Japończyk	subst:pl:loc:m1	pospolita	
-Japończyka	Japończyk	subst:sg:acc:m1	pospolita	
-Japończyka	Japończyk	subst:sg:gen:m1	pospolita	
-Japończykami	Japończyk	subst:pl:inst:m1	pospolita	
-Japończykiem	Japończyk	subst:sg:inst:m1	pospolita	
-Japończyki	Japończyk	depr:pl:nom:m2	pospolita	
-Japończyki	Japończyk	depr:pl:voc:m2	pospolita	
-Japończyk	Japończyk	subst:sg:nom:m1	pospolita	
-Japończykom	Japończyk	subst:pl:dat:m1	pospolita	
-Japończykowi	Japończyk	subst:sg:dat:m1	pospolita	
-Japończyków	Japończyk	subst:pl:acc:m1	pospolita	
-Japończyków	Japończyk	subst:pl:gen:m1	pospolita	
-Japończyku	Japończyk	subst:sg:loc:m1	pospolita	
-Japończyku	Japończyk	subst:sg:voc:m1	pospolita	
+Japoniach	Japonia	subst:pl:loc:f	nazwa geograficzna	
+Japonia	Japonia	subst:sg:nom:f	nazwa geograficzna	
+Japoniami	Japonia	subst:pl:inst:f	nazwa geograficzna	
+Japonią	Japonia	subst:sg:inst:f	nazwa geograficzna	
+Japonie	Japonia	subst:pl:acc:f	nazwa geograficzna	
+Japonie	Japonia	subst:pl:nom:f	nazwa geograficzna	
+Japonie	Japonia	subst:pl:voc:f	nazwa geograficzna	
+Japonię	Japonia	subst:sg:acc:f	nazwa geograficzna	
+Japonii	Japonia	subst:pl:gen:f	nazwa geograficzna	hom.
+Japonii	Japonia	subst:sg:dat:f	nazwa geograficzna	
+Japonii	Japonia	subst:sg:gen:f	nazwa geograficzna	
+Japonii	Japonia	subst:sg:loc:f	nazwa geograficzna	
+Japonij	Japonia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+Japonio	Japonia	subst:sg:voc:f	nazwa geograficzna	
+Japoniom	Japonia	subst:pl:dat:f	nazwa geograficzna	
+Japonce	Japonka	subst:sg:dat:f	nazwa pospolita	
+Japonce	Japonka	subst:sg:loc:f	nazwa pospolita	
+Japonek	Japonka	subst:pl:gen:f	nazwa pospolita	
+Japonkach	Japonka	subst:pl:loc:f	nazwa pospolita	
+Japonka	Japonka	subst:sg:nom:f	nazwa pospolita	
+Japonkami	Japonka	subst:pl:inst:f	nazwa pospolita	
+Japonką	Japonka	subst:sg:inst:f	nazwa pospolita	
+Japonkę	Japonka	subst:sg:acc:f	nazwa pospolita	
+Japonki	Japonka	subst:pl:acc:f	nazwa pospolita	
+Japonki	Japonka	subst:pl:nom:f	nazwa pospolita	
+Japonki	Japonka	subst:pl:voc:f	nazwa pospolita	
+Japonki	Japonka	subst:sg:gen:f	nazwa pospolita	
+Japonko	Japonka	subst:sg:voc:f	nazwa pospolita	
+Japonkom	Japonka	subst:pl:dat:f	nazwa pospolita	
+Japończycy	Japończyk	subst:pl:nom:m1	nazwa pospolita	
+Japończycy	Japończyk	subst:pl:voc:m1	nazwa pospolita	
+Japończykach	Japończyk	subst:pl:loc:m1	nazwa pospolita	
+Japończyka	Japończyk	subst:sg:acc:m1	nazwa pospolita	
+Japończyka	Japończyk	subst:sg:gen:m1	nazwa pospolita	
+Japończykami	Japończyk	subst:pl:inst:m1	nazwa pospolita	
+Japończykiem	Japończyk	subst:sg:inst:m1	nazwa pospolita	
+Japończyki	Japończyk	depr:pl:nom:m2	nazwa pospolita	
+Japończyki	Japończyk	depr:pl:voc:m2	nazwa pospolita	
+Japończyk	Japończyk	subst:sg:nom:m1	nazwa pospolita	
+Japończykom	Japończyk	subst:pl:dat:m1	nazwa pospolita	
+Japończykowi	Japończyk	subst:sg:dat:m1	nazwa pospolita	
+Japończyków	Japończyk	subst:pl:acc:m1	nazwa pospolita	
+Japończyków	Japończyk	subst:pl:gen:m1	nazwa pospolita	
+Japończyku	Japończyk	subst:sg:loc:m1	nazwa pospolita	
+Japończyku	Japończyk	subst:sg:voc:m1	nazwa pospolita	
 Jakiem	Jaques	subst:sg:inst:m1	nazwisko	
 Jaki	Jaques	depr:pl:nom:m2	nazwisko	
 Jaki	Jaques	depr:pl:voc:m2	nazwisko	
@@ -2074,20 +2089,20 @@ Jaraczów	Jaracz	subst:pl:acc:m1	nazwisko
 Jaraczów	Jaracz	subst:pl:gen:m1	nazwisko	
 Jaraczu	Jaracz	subst:sg:loc:m1	nazwisko	
 Jaraczu	Jaracz	subst:sg:voc:m1	nazwisko	
-Jaraczewach	Jaraczewo	subst:pl:loc:n2	geograficzna	
-Jaraczewa	Jaraczewo	subst:pl:acc:n2	geograficzna	
-Jaraczewa	Jaraczewo	subst:pl:nom:n2	geograficzna	
-Jaraczewa	Jaraczewo	subst:pl:voc:n2	geograficzna	
-Jaraczewa	Jaraczewo	subst:sg:gen:n2	geograficzna	
-Jaraczewami	Jaraczewo	subst:pl:inst:n2	geograficzna	
-Jaraczewem	Jaraczewo	subst:sg:inst:n2	geograficzna	
-Jaraczewie	Jaraczewo	subst:sg:loc:n2	geograficzna	
-Jaraczew	Jaraczewo	subst:pl:gen:n2	geograficzna	
-Jaraczewo	Jaraczewo	subst:sg:acc:n2	geograficzna	
-Jaraczewo	Jaraczewo	subst:sg:nom:n2	geograficzna	
-Jaraczewo	Jaraczewo	subst:sg:voc:n2	geograficzna	
-Jaraczewom	Jaraczewo	subst:pl:dat:n2	geograficzna	
-Jaraczewu	Jaraczewo	subst:sg:dat:n2	geograficzna	
+Jaraczewach	Jaraczewo	subst:pl:loc:n2	nazwa geograficzna	
+Jaraczewa	Jaraczewo	subst:pl:acc:n2	nazwa geograficzna	
+Jaraczewa	Jaraczewo	subst:pl:nom:n2	nazwa geograficzna	
+Jaraczewa	Jaraczewo	subst:pl:voc:n2	nazwa geograficzna	
+Jaraczewa	Jaraczewo	subst:sg:gen:n2	nazwa geograficzna	
+Jaraczewami	Jaraczewo	subst:pl:inst:n2	nazwa geograficzna	
+Jaraczewem	Jaraczewo	subst:sg:inst:n2	nazwa geograficzna	
+Jaraczewie	Jaraczewo	subst:sg:loc:n2	nazwa geograficzna	
+Jaraczew	Jaraczewo	subst:pl:gen:n2	nazwa geograficzna	
+Jaraczewo	Jaraczewo	subst:sg:acc:n2	nazwa geograficzna	
+Jaraczewo	Jaraczewo	subst:sg:nom:n2	nazwa geograficzna	
+Jaraczewo	Jaraczewo	subst:sg:voc:n2	nazwa geograficzna	
+Jaraczewom	Jaraczewo	subst:pl:dat:n2	nazwa geograficzna	
+Jaraczewu	Jaraczewo	subst:sg:dat:n2	nazwa geograficzna	
 Jaranowska	Jaranowska	subst:sg:nom:f	nazwisko	
 Jaranowska	Jaranowska	subst:sg:voc:f	nazwisko	
 Jaranowską	Jaranowska	subst:sg:acc:f	nazwisko	
@@ -2118,21 +2133,21 @@ Jaranowskimi	Jaranowski	subst:pl:inst:m1	nazwisko
 Jaranowskim	Jaranowski	subst:pl:dat:m1	nazwisko	
 Jaranowskim	Jaranowski	subst:sg:inst:m1	nazwisko	
 Jaranowskim	Jaranowski	subst:sg:loc:m1	nazwisko	
-Jarczowach	Jarczów	subst:pl:loc:m3	geograficzna	
-Jarczowa	Jarczów	subst:sg:gen:m3	geograficzna	
-Jarczowami	Jarczów	subst:pl:inst:m3	geograficzna	
-Jarczowem	Jarczów	subst:sg:inst:m3	geograficzna	
-Jarczowie	Jarczów	subst:sg:loc:m3	geograficzna	
-Jarczowie	Jarczów	subst:sg:voc:m3	geograficzna	
-Jarczowom	Jarczów	subst:pl:dat:m3	geograficzna	
-Jarczowowi	Jarczów	subst:sg:dat:m3	geograficzna	
-Jarczowów	Jarczów	subst:pl:gen:m3	geograficzna	
-Jarczowu	Jarczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
-Jarczowy	Jarczów	subst:pl:acc:m3	geograficzna	
-Jarczowy	Jarczów	subst:pl:nom:m3	geograficzna	
-Jarczowy	Jarczów	subst:pl:voc:m3	geograficzna	
-Jarczów	Jarczów	subst:sg:acc:m3	geograficzna	
-Jarczów	Jarczów	subst:sg:nom:m3	geograficzna	
+Jarczowach	Jarczów	subst:pl:loc:m3	nazwa geograficzna	
+Jarczowa	Jarczów	subst:sg:gen:m3	nazwa geograficzna	
+Jarczowami	Jarczów	subst:pl:inst:m3	nazwa geograficzna	
+Jarczowem	Jarczów	subst:sg:inst:m3	nazwa geograficzna	
+Jarczowie	Jarczów	subst:sg:loc:m3	nazwa geograficzna	
+Jarczowie	Jarczów	subst:sg:voc:m3	nazwa geograficzna	
+Jarczowom	Jarczów	subst:pl:dat:m3	nazwa geograficzna	
+Jarczowowi	Jarczów	subst:sg:dat:m3	nazwa geograficzna	
+Jarczowów	Jarczów	subst:pl:gen:m3	nazwa geograficzna	
+Jarczowu	Jarczów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Jarczowy	Jarczów	subst:pl:acc:m3	nazwa geograficzna	
+Jarczowy	Jarczów	subst:pl:nom:m3	nazwa geograficzna	
+Jarczowy	Jarczów	subst:pl:voc:m3	nazwa geograficzna	
+Jarczów	Jarczów	subst:sg:acc:m3	nazwa geograficzna	
+Jarczów	Jarczów	subst:sg:nom:m3	nazwa geograficzna	
 Jareczek	Jareczek	subst:sg:nom:m1	imię	
 Jareczkach	Jareczek	subst:pl:loc:m1	imię	
 Jareczka	Jareczek	subst:sg:acc:m1	imię	
@@ -2195,20 +2210,20 @@ Jarki	Jarka	subst:pl:voc:f	imię
 Jarki	Jarka	subst:sg:gen:f	imię	
 Jarko	Jarka	subst:sg:voc:f	imię	
 Jarkom	Jarka	subst:pl:dat:f	imię	
-Jarocinach	Jarocin	subst:pl:loc:m3	geograficzna	
-Jarocina	Jarocin	subst:sg:gen:m3	geograficzna	
-Jarocinami	Jarocin	subst:pl:inst:m3	geograficzna	
-Jarocinem	Jarocin	subst:sg:inst:m3	geograficzna	
-Jarocinie	Jarocin	subst:sg:loc:m3	geograficzna	
-Jarocinie	Jarocin	subst:sg:voc:m3	geograficzna	
-Jarocin	Jarocin	subst:sg:acc:m3	geograficzna	
-Jarocin	Jarocin	subst:sg:nom:m3	geograficzna	
-Jarocinom	Jarocin	subst:pl:dat:m3	geograficzna	
-Jarocinowi	Jarocin	subst:sg:dat:m3	geograficzna	
-Jarocinów	Jarocin	subst:pl:gen:m3	geograficzna	
-Jarociny	Jarocin	subst:pl:acc:m3	geograficzna	
-Jarociny	Jarocin	subst:pl:nom:m3	geograficzna	
-Jarociny	Jarocin	subst:pl:voc:m3	geograficzna	
+Jarocinach	Jarocin	subst:pl:loc:m3	nazwa geograficzna	
+Jarocina	Jarocin	subst:sg:gen:m3	nazwa geograficzna	
+Jarocinami	Jarocin	subst:pl:inst:m3	nazwa geograficzna	
+Jarocinem	Jarocin	subst:sg:inst:m3	nazwa geograficzna	
+Jarocinie	Jarocin	subst:sg:loc:m3	nazwa geograficzna	
+Jarocinie	Jarocin	subst:sg:voc:m3	nazwa geograficzna	
+Jarocin	Jarocin	subst:sg:acc:m3	nazwa geograficzna	
+Jarocin	Jarocin	subst:sg:nom:m3	nazwa geograficzna	
+Jarocinom	Jarocin	subst:pl:dat:m3	nazwa geograficzna	
+Jarocinowi	Jarocin	subst:sg:dat:m3	nazwa geograficzna	
+Jarocinów	Jarocin	subst:pl:gen:m3	nazwa geograficzna	
+Jarociny	Jarocin	subst:pl:acc:m3	nazwa geograficzna	
+Jarociny	Jarocin	subst:pl:nom:m3	nazwa geograficzna	
+Jarociny	Jarocin	subst:pl:voc:m3	nazwa geograficzna	
 Jarogniewach	Jarogniew	subst:pl:loc:m1	imię	
 Jarogniewa	Jarogniew	subst:sg:acc:m1	imię	
 Jarogniewa	Jarogniew	subst:sg:gen:m1	imię	
@@ -2319,21 +2334,21 @@ Jarosławów	Jarosław:s1	subst:pl:acc:m1	imię
 Jarosławów	Jarosław:s1	subst:pl:gen:m1	imię	
 Jarosławy	Jarosław:s1	depr:pl:nom:m2	imię	
 Jarosławy	Jarosław:s1	depr:pl:voc:m2	imię	
-Jarosławiach	Jarosław:s2	subst:pl:loc:m3	geograficzna	
-Jarosławia	Jarosław:s2	subst:sg:gen:m3	geograficzna	
-Jarosławiami	Jarosław:s2	subst:pl:inst:m3	geograficzna	
-Jarosławie	Jarosław:s2	subst:pl:acc:m3	geograficzna	
-Jarosławie	Jarosław:s2	subst:pl:nom:m3	geograficzna	
-Jarosławie	Jarosław:s2	subst:pl:voc:m3	geograficzna	
-Jarosławiem	Jarosław:s2	subst:sg:inst:m3	geograficzna	
-Jarosławi	Jarosław:s2	subst:pl:gen:m3	geograficzna	
-Jarosławiom	Jarosław:s2	subst:pl:dat:m3	geograficzna	
-Jarosławiowi	Jarosław:s2	subst:sg:dat:m3	geograficzna	
-Jarosławiów	Jarosław:s2	subst:pl:gen:m3	geograficzna	
-Jarosławiu	Jarosław:s2	subst:sg:loc:m3	geograficzna	
-Jarosławiu	Jarosław:s2	subst:sg:voc:m3	geograficzna	
-Jarosław	Jarosław:s2	subst:sg:acc:m3	geograficzna	
-Jarosław	Jarosław:s2	subst:sg:nom:m3	geograficzna	
+Jarosławiach	Jarosław:s2	subst:pl:loc:m3	nazwa geograficzna	
+Jarosławia	Jarosław:s2	subst:sg:gen:m3	nazwa geograficzna	
+Jarosławiami	Jarosław:s2	subst:pl:inst:m3	nazwa geograficzna	
+Jarosławie	Jarosław:s2	subst:pl:acc:m3	nazwa geograficzna	
+Jarosławie	Jarosław:s2	subst:pl:nom:m3	nazwa geograficzna	
+Jarosławie	Jarosław:s2	subst:pl:voc:m3	nazwa geograficzna	
+Jarosławiem	Jarosław:s2	subst:sg:inst:m3	nazwa geograficzna	
+Jarosławi	Jarosław:s2	subst:pl:gen:m3	nazwa geograficzna	
+Jarosławiom	Jarosław:s2	subst:pl:dat:m3	nazwa geograficzna	
+Jarosławiowi	Jarosław:s2	subst:sg:dat:m3	nazwa geograficzna	
+Jarosławiów	Jarosław:s2	subst:pl:gen:m3	nazwa geograficzna	
+Jarosławiu	Jarosław:s2	subst:sg:loc:m3	nazwa geograficzna	
+Jarosławiu	Jarosław:s2	subst:sg:voc:m3	nazwa geograficzna	
+Jarosław	Jarosław:s2	subst:sg:acc:m3	nazwa geograficzna	
+Jarosław	Jarosław:s2	subst:sg:nom:m3	nazwa geograficzna	
 Jarossych	Jarossy	subst:pl:acc:m1	nazwisko	
 Jarossych	Jarossy	subst:pl:gen:m1	nazwisko	
 Jarossych	Jarossy	subst:pl:loc:m1	nazwisko	
@@ -2663,35 +2678,35 @@ Jasieniców	Jasienica:s1	subst:pl:gen:m1	nazwisko|pseudonim
 Jasienicy	Jasienica:s1	subst:sg:dat:m1	nazwisko|pseudonim	
 Jasienicy	Jasienica:s1	subst:sg:gen:m1	nazwisko|pseudonim	
 Jasienicy	Jasienica:s1	subst:sg:loc:m1	nazwisko|pseudonim	
-Jasienicach	Jasienica:s2	subst:pl:loc:f	geograficzna	
-Jasienica	Jasienica:s2	subst:sg:nom:f	geograficzna	
-Jasienicami	Jasienica:s2	subst:pl:inst:f	geograficzna	
-Jasienicą	Jasienica:s2	subst:sg:inst:f	geograficzna	
-Jasienice	Jasienica:s2	subst:pl:acc:f	geograficzna	
-Jasienice	Jasienica:s2	subst:pl:nom:f	geograficzna	
-Jasienice	Jasienica:s2	subst:pl:voc:f	geograficzna	
-Jasienicę	Jasienica:s2	subst:sg:acc:f	geograficzna	
-Jasienic	Jasienica:s2	subst:pl:gen:f	geograficzna	
-Jasienico	Jasienica:s2	subst:sg:voc:f	geograficzna	
-Jasienicom	Jasienica:s2	subst:pl:dat:f	geograficzna	
-Jasienicy	Jasienica:s2	subst:sg:dat:f	geograficzna	
-Jasienicy	Jasienica:s2	subst:sg:gen:f	geograficzna	
-Jasienicy	Jasienica:s2	subst:sg:loc:f	geograficzna	
-Jasieniach	Jasień	subst:pl:loc:m3	geograficzna	
-Jasienia	Jasień	subst:sg:gen:m3	geograficzna	
-Jasieniami	Jasień	subst:pl:inst:m3	geograficzna	
-Jasienie	Jasień	subst:pl:acc:m3	geograficzna	
-Jasienie	Jasień	subst:pl:nom:m3	geograficzna	
-Jasienie	Jasień	subst:pl:voc:m3	geograficzna	
-Jasieniem	Jasień	subst:sg:inst:m3	geograficzna	
-Jasieni	Jasień	subst:pl:gen:m3	geograficzna	
-Jasieniom	Jasień	subst:pl:dat:m3	geograficzna	
-Jasieniowi	Jasień	subst:sg:dat:m3	geograficzna	
-Jasieniów	Jasień	subst:pl:gen:m3	geograficzna	
-Jasieniu	Jasień	subst:sg:loc:m3	geograficzna	
-Jasieniu	Jasień	subst:sg:voc:m3	geograficzna	
-Jasień	Jasień	subst:sg:acc:m3	geograficzna	
-Jasień	Jasień	subst:sg:nom:m3	geograficzna	
+Jasienicach	Jasienica:s2	subst:pl:loc:f	nazwa geograficzna	
+Jasienica	Jasienica:s2	subst:sg:nom:f	nazwa geograficzna	
+Jasienicami	Jasienica:s2	subst:pl:inst:f	nazwa geograficzna	
+Jasienicą	Jasienica:s2	subst:sg:inst:f	nazwa geograficzna	
+Jasienice	Jasienica:s2	subst:pl:acc:f	nazwa geograficzna	
+Jasienice	Jasienica:s2	subst:pl:nom:f	nazwa geograficzna	
+Jasienice	Jasienica:s2	subst:pl:voc:f	nazwa geograficzna	
+Jasienicę	Jasienica:s2	subst:sg:acc:f	nazwa geograficzna	
+Jasienic	Jasienica:s2	subst:pl:gen:f	nazwa geograficzna	
+Jasienico	Jasienica:s2	subst:sg:voc:f	nazwa geograficzna	
+Jasienicom	Jasienica:s2	subst:pl:dat:f	nazwa geograficzna	
+Jasienicy	Jasienica:s2	subst:sg:dat:f	nazwa geograficzna	
+Jasienicy	Jasienica:s2	subst:sg:gen:f	nazwa geograficzna	
+Jasienicy	Jasienica:s2	subst:sg:loc:f	nazwa geograficzna	
+Jasieniach	Jasień	subst:pl:loc:m3	nazwa geograficzna	
+Jasienia	Jasień	subst:sg:gen:m3	nazwa geograficzna	
+Jasieniami	Jasień	subst:pl:inst:m3	nazwa geograficzna	
+Jasienie	Jasień	subst:pl:acc:m3	nazwa geograficzna	
+Jasienie	Jasień	subst:pl:nom:m3	nazwa geograficzna	
+Jasienie	Jasień	subst:pl:voc:m3	nazwa geograficzna	
+Jasieniem	Jasień	subst:sg:inst:m3	nazwa geograficzna	
+Jasieni	Jasień	subst:pl:gen:m3	nazwa geograficzna	
+Jasieniom	Jasień	subst:pl:dat:m3	nazwa geograficzna	
+Jasieniowi	Jasień	subst:sg:dat:m3	nazwa geograficzna	
+Jasieniów	Jasień	subst:pl:gen:m3	nazwa geograficzna	
+Jasieniu	Jasień	subst:sg:loc:m3	nazwa geograficzna	
+Jasieniu	Jasień	subst:sg:voc:m3	nazwa geograficzna	
+Jasień	Jasień	subst:sg:acc:m3	nazwa geograficzna	
+Jasień	Jasień	subst:sg:nom:m3	nazwa geograficzna	
 Jasieńska	Jasieńska	subst:sg:nom:f	nazwisko	
 Jasieńska	Jasieńska	subst:sg:voc:f	nazwisko	
 Jasieńską	Jasieńska	subst:sg:acc:f	nazwisko	
@@ -2768,20 +2783,20 @@ Jasiów	Jasio	subst:pl:acc:m1	imię
 Jasiów	Jasio	subst:pl:gen:m1	imię	
 Jasiu	Jasio	subst:sg:loc:m1	imię	
 Jasiu	Jasio	subst:sg:voc:m1	imię	
-Jasionówce	Jasionówka	subst:sg:dat:f	geograficzna	
-Jasionówce	Jasionówka	subst:sg:loc:f	geograficzna	
-Jasionówek	Jasionówka	subst:pl:gen:f	geograficzna	
-Jasionówkach	Jasionówka	subst:pl:loc:f	geograficzna	
-Jasionówka	Jasionówka	subst:sg:nom:f	geograficzna	
-Jasionówkami	Jasionówka	subst:pl:inst:f	geograficzna	
-Jasionówką	Jasionówka	subst:sg:inst:f	geograficzna	
-Jasionówkę	Jasionówka	subst:sg:acc:f	geograficzna	
-Jasionówki	Jasionówka	subst:pl:acc:f	geograficzna	
-Jasionówki	Jasionówka	subst:pl:nom:f	geograficzna	
-Jasionówki	Jasionówka	subst:pl:voc:f	geograficzna	
-Jasionówki	Jasionówka	subst:sg:gen:f	geograficzna	
-Jasionówko	Jasionówka	subst:sg:voc:f	geograficzna	
-Jasionówkom	Jasionówka	subst:pl:dat:f	geograficzna	
+Jasionówce	Jasionówka	subst:sg:dat:f	nazwa geograficzna	
+Jasionówce	Jasionówka	subst:sg:loc:f	nazwa geograficzna	
+Jasionówek	Jasionówka	subst:pl:gen:f	nazwa geograficzna	
+Jasionówkach	Jasionówka	subst:pl:loc:f	nazwa geograficzna	
+Jasionówka	Jasionówka	subst:sg:nom:f	nazwa geograficzna	
+Jasionówkami	Jasionówka	subst:pl:inst:f	nazwa geograficzna	
+Jasionówką	Jasionówka	subst:sg:inst:f	nazwa geograficzna	
+Jasionówkę	Jasionówka	subst:sg:acc:f	nazwa geograficzna	
+Jasionówki	Jasionówka	subst:pl:acc:f	nazwa geograficzna	
+Jasionówki	Jasionówka	subst:pl:nom:f	nazwa geograficzna	
+Jasionówki	Jasionówka	subst:pl:voc:f	nazwa geograficzna	
+Jasionówki	Jasionówka	subst:sg:gen:f	nazwa geograficzna	
+Jasionówko	Jasionówka	subst:sg:voc:f	nazwa geograficzna	
+Jasionówkom	Jasionówka	subst:pl:dat:f	nazwa geograficzna	
 Jaskołdach	Jaskołd	subst:pl:loc:m1	imię	
 Jaskołda	Jaskołd	subst:sg:acc:m1	imię	
 Jaskołda	Jaskołd	subst:sg:gen:m1	imię	
@@ -2858,20 +2873,20 @@ Jaskulskimi	Jaskulski	subst:pl:inst:m1	nazwisko
 Jaskulskim	Jaskulski	subst:pl:dat:m1	nazwisko	
 Jaskulskim	Jaskulski	subst:sg:inst:m1	nazwisko	
 Jaskulskim	Jaskulski	subst:sg:loc:m1	nazwisko	
-Jaseł	Jasło	subst:pl:gen:n2	geograficzna	
-Jasłach	Jasło	subst:pl:loc:n2	geograficzna	
-Jasła	Jasło	subst:pl:acc:n2	geograficzna	
-Jasła	Jasło	subst:pl:nom:n2	geograficzna	
-Jasła	Jasło	subst:pl:voc:n2	geograficzna	
-Jasła	Jasło	subst:sg:gen:n2	geograficzna	
-Jasłami	Jasło	subst:pl:inst:n2	geograficzna	
-Jasłem	Jasło	subst:sg:inst:n2	geograficzna	
-Jasło	Jasło	subst:sg:acc:n2	geograficzna	
-Jasło	Jasło	subst:sg:nom:n2	geograficzna	
-Jasło	Jasło	subst:sg:voc:n2	geograficzna	
-Jasłom	Jasło	subst:pl:dat:n2	geograficzna	
-Jasłu	Jasło	subst:sg:dat:n2	geograficzna	
-Jaśle	Jasło	subst:sg:loc:n2	geograficzna	
+Jaseł	Jasło	subst:pl:gen:n2	nazwa geograficzna	
+Jasłach	Jasło	subst:pl:loc:n2	nazwa geograficzna	
+Jasła	Jasło	subst:pl:acc:n2	nazwa geograficzna	
+Jasła	Jasło	subst:pl:nom:n2	nazwa geograficzna	
+Jasła	Jasło	subst:pl:voc:n2	nazwa geograficzna	
+Jasła	Jasło	subst:sg:gen:n2	nazwa geograficzna	
+Jasłami	Jasło	subst:pl:inst:n2	nazwa geograficzna	
+Jasłem	Jasło	subst:sg:inst:n2	nazwa geograficzna	
+Jasło	Jasło	subst:sg:acc:n2	nazwa geograficzna	
+Jasło	Jasło	subst:sg:nom:n2	nazwa geograficzna	
+Jasło	Jasło	subst:sg:voc:n2	nazwa geograficzna	
+Jasłom	Jasło	subst:pl:dat:n2	nazwa geograficzna	
+Jasłu	Jasło	subst:sg:dat:n2	nazwa geograficzna	
+Jaśle	Jasło	subst:sg:loc:n2	nazwa geograficzna	
 Jasnorzewska	Jasnorzewska	subst:sg:nom:f	nazwisko	
 Jasnorzewska	Jasnorzewska	subst:sg:voc:f	nazwisko	
 Jasnorzewską	Jasnorzewska	subst:sg:acc:f	nazwisko	
@@ -2918,50 +2933,50 @@ Jaspersów	Jaspers	subst:pl:acc:m1	nazwisko
 Jaspersów	Jaspers	subst:pl:gen:m1	nazwisko	
 Jaspersy	Jaspers	depr:pl:nom:m2	nazwisko	
 Jaspersy	Jaspers	depr:pl:voc:m2	nazwisko	
-Jassach	Jassy	subst:pl:loc:p2	geograficzna	
-Jassach	Jassy	subst:pl:loc:p3	geograficzna	
-Jassami	Jassy	subst:pl:inst:p2	geograficzna	
-Jassami	Jassy	subst:pl:inst:p3	geograficzna	
-Jassom	Jassy	subst:pl:dat:p2	geograficzna	
-Jassom	Jassy	subst:pl:dat:p3	geograficzna	
-Jassów	Jassy	subst:pl:gen:p2	geograficzna	
-Jassów	Jassy	subst:pl:gen:p3	geograficzna	
-Jassy	Jassy	subst:pl:acc:p2	geograficzna	
-Jassy	Jassy	subst:pl:acc:p3	geograficzna	
-Jassy	Jassy	subst:pl:nom:p2	geograficzna	
-Jassy	Jassy	subst:pl:nom:p3	geograficzna	
-Jassy	Jassy	subst:pl:voc:p2	geograficzna	
-Jassy	Jassy	subst:pl:voc:p3	geograficzna	
-Jastarniach	Jastarnia	subst:pl:loc:f	geograficzna	
-Jastarnia	Jastarnia	subst:sg:nom:f	geograficzna	
-Jastarniami	Jastarnia	subst:pl:inst:f	geograficzna	
-Jastarnią	Jastarnia	subst:sg:inst:f	geograficzna	
-Jastarnie	Jastarnia	subst:pl:acc:f	geograficzna	
-Jastarnie	Jastarnia	subst:pl:nom:f	geograficzna	
-Jastarnie	Jastarnia	subst:pl:voc:f	geograficzna	
-Jastarnię	Jastarnia	subst:sg:acc:f	geograficzna	
-Jastarni	Jastarnia	subst:pl:gen:f	geograficzna	hom.
-Jastarni	Jastarnia	subst:sg:dat:f	geograficzna	
-Jastarni	Jastarnia	subst:sg:gen:f	geograficzna	
-Jastarni	Jastarnia	subst:sg:loc:f	geograficzna	
-Jastarnio	Jastarnia	subst:sg:voc:f	geograficzna	
-Jastarniom	Jastarnia	subst:pl:dat:f	geograficzna	
-Jastarń	Jastarnia	subst:pl:gen:f	geograficzna	char.
-Jastkowach	Jastków	subst:pl:loc:m3	geograficzna	
-Jastkowa	Jastków	subst:sg:gen:m3	geograficzna	
-Jastkowami	Jastków	subst:pl:inst:m3	geograficzna	
-Jastkowem	Jastków	subst:sg:inst:m3	geograficzna	
-Jastkowie	Jastków	subst:sg:loc:m3	geograficzna	
-Jastkowie	Jastków	subst:sg:voc:m3	geograficzna	
-Jastkowom	Jastków	subst:pl:dat:m3	geograficzna	
-Jastkowowi	Jastków	subst:sg:dat:m3	geograficzna	
-Jastkowów	Jastków	subst:pl:gen:m3	geograficzna	
-Jastkowu	Jastków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
-Jastkowy	Jastków	subst:pl:acc:m3	geograficzna	
-Jastkowy	Jastków	subst:pl:nom:m3	geograficzna	
-Jastkowy	Jastków	subst:pl:voc:m3	geograficzna	
-Jastków	Jastków	subst:sg:acc:m3	geograficzna	
-Jastków	Jastków	subst:sg:nom:m3	geograficzna	
+Jassach	Jassy	subst:pl:loc:p2	nazwa geograficzna	
+Jassach	Jassy	subst:pl:loc:p3	nazwa geograficzna	
+Jassami	Jassy	subst:pl:inst:p2	nazwa geograficzna	
+Jassami	Jassy	subst:pl:inst:p3	nazwa geograficzna	
+Jassom	Jassy	subst:pl:dat:p2	nazwa geograficzna	
+Jassom	Jassy	subst:pl:dat:p3	nazwa geograficzna	
+Jassów	Jassy	subst:pl:gen:p2	nazwa geograficzna	
+Jassów	Jassy	subst:pl:gen:p3	nazwa geograficzna	
+Jassy	Jassy	subst:pl:acc:p2	nazwa geograficzna	
+Jassy	Jassy	subst:pl:acc:p3	nazwa geograficzna	
+Jassy	Jassy	subst:pl:nom:p2	nazwa geograficzna	
+Jassy	Jassy	subst:pl:nom:p3	nazwa geograficzna	
+Jassy	Jassy	subst:pl:voc:p2	nazwa geograficzna	
+Jassy	Jassy	subst:pl:voc:p3	nazwa geograficzna	
+Jastarniach	Jastarnia	subst:pl:loc:f	nazwa geograficzna	
+Jastarnia	Jastarnia	subst:sg:nom:f	nazwa geograficzna	
+Jastarniami	Jastarnia	subst:pl:inst:f	nazwa geograficzna	
+Jastarnią	Jastarnia	subst:sg:inst:f	nazwa geograficzna	
+Jastarnie	Jastarnia	subst:pl:acc:f	nazwa geograficzna	
+Jastarnie	Jastarnia	subst:pl:nom:f	nazwa geograficzna	
+Jastarnie	Jastarnia	subst:pl:voc:f	nazwa geograficzna	
+Jastarnię	Jastarnia	subst:sg:acc:f	nazwa geograficzna	
+Jastarni	Jastarnia	subst:pl:gen:f	nazwa geograficzna	hom.
+Jastarni	Jastarnia	subst:sg:dat:f	nazwa geograficzna	
+Jastarni	Jastarnia	subst:sg:gen:f	nazwa geograficzna	
+Jastarni	Jastarnia	subst:sg:loc:f	nazwa geograficzna	
+Jastarnio	Jastarnia	subst:sg:voc:f	nazwa geograficzna	
+Jastarniom	Jastarnia	subst:pl:dat:f	nazwa geograficzna	
+Jastarń	Jastarnia	subst:pl:gen:f	nazwa geograficzna	char.
+Jastkowach	Jastków	subst:pl:loc:m3	nazwa geograficzna	
+Jastkowa	Jastków	subst:sg:gen:m3	nazwa geograficzna	
+Jastkowami	Jastków	subst:pl:inst:m3	nazwa geograficzna	
+Jastkowem	Jastków	subst:sg:inst:m3	nazwa geograficzna	
+Jastkowie	Jastków	subst:sg:loc:m3	nazwa geograficzna	
+Jastkowie	Jastków	subst:sg:voc:m3	nazwa geograficzna	
+Jastkowom	Jastków	subst:pl:dat:m3	nazwa geograficzna	
+Jastkowowi	Jastków	subst:sg:dat:m3	nazwa geograficzna	
+Jastkowów	Jastków	subst:pl:gen:m3	nazwa geograficzna	
+Jastkowu	Jastków	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Jastkowy	Jastków	subst:pl:acc:m3	nazwa geograficzna	
+Jastkowy	Jastków	subst:pl:nom:m3	nazwa geograficzna	
+Jastkowy	Jastków	subst:pl:voc:m3	nazwa geograficzna	
+Jastków	Jastków	subst:sg:acc:m3	nazwa geograficzna	
+Jastków	Jastków	subst:sg:nom:m3	nazwa geograficzna	
 Jastrunach	Jastrun	subst:pl:loc:m1	nazwisko	
 Jastruna	Jastrun	subst:sg:acc:m1	nazwisko	
 Jastruna	Jastrun	subst:sg:gen:m1	nazwisko	
@@ -3135,136 +3150,136 @@ Jaśkowskimi	Jaśkowski	subst:pl:inst:m1	nazwisko
 Jaśkowskim	Jaśkowski	subst:pl:dat:m1	nazwisko	
 Jaśkowskim	Jaśkowski	subst:sg:inst:m1	nazwisko	
 Jaśkowskim	Jaśkowski	subst:sg:loc:m1	nazwisko	
-Jaśliskach	Jaśliska	subst:pl:loc:p2	geograficzna	
-Jaśliskach	Jaśliska	subst:pl:loc:p3	geograficzna	
-Jaśliska	Jaśliska	subst:pl:acc:p2	geograficzna	
-Jaśliska	Jaśliska	subst:pl:acc:p3	geograficzna	
-Jaśliska	Jaśliska	subst:pl:nom:p2	geograficzna	
-Jaśliska	Jaśliska	subst:pl:nom:p3	geograficzna	
-Jaśliska	Jaśliska	subst:pl:voc:p2	geograficzna	
-Jaśliska	Jaśliska	subst:pl:voc:p3	geograficzna	
-Jaśliskami	Jaśliska	subst:pl:inst:p2	geograficzna	
-Jaśliskami	Jaśliska	subst:pl:inst:p3	geograficzna	
-Jaślisk	Jaśliska	subst:pl:gen:p2	geograficzna	
-Jaślisk	Jaśliska	subst:pl:gen:p3	geograficzna	
-Jaśliskom	Jaśliska	subst:pl:dat:p2	geograficzna	
-Jaśliskom	Jaśliska	subst:pl:dat:p3	geograficzna	
+Jaśliskach	Jaśliska	subst:pl:loc:p2	nazwa geograficzna	
+Jaśliskach	Jaśliska	subst:pl:loc:p3	nazwa geograficzna	
+Jaśliska	Jaśliska	subst:pl:acc:p2	nazwa geograficzna	
+Jaśliska	Jaśliska	subst:pl:acc:p3	nazwa geograficzna	
+Jaśliska	Jaśliska	subst:pl:nom:p2	nazwa geograficzna	
+Jaśliska	Jaśliska	subst:pl:nom:p3	nazwa geograficzna	
+Jaśliska	Jaśliska	subst:pl:voc:p2	nazwa geograficzna	
+Jaśliska	Jaśliska	subst:pl:voc:p3	nazwa geograficzna	
+Jaśliskami	Jaśliska	subst:pl:inst:p2	nazwa geograficzna	
+Jaśliskami	Jaśliska	subst:pl:inst:p3	nazwa geograficzna	
+Jaślisk	Jaśliska	subst:pl:gen:p2	nazwa geograficzna	
+Jaślisk	Jaśliska	subst:pl:gen:p3	nazwa geograficzna	
+Jaśliskom	Jaśliska	subst:pl:dat:p2	nazwa geograficzna	
+Jaśliskom	Jaśliska	subst:pl:dat:p3	nazwa geograficzna	
 JWP	Jaśnie_Wielmożna_Pani	brev:npun		daw.
 JWP	Jaśnie_Wielmożny_Pan	brev:npun		daw.
-Javach	Java	subst:pl:loc:f	język programowania	komp.
-Java	Java	subst:pl:acc:f	język programowania	komp.
-Java	Java	subst:pl:dat:f	język programowania	komp.
-Java	Java	subst:pl:gen:f	język programowania	komp.
-Java	Java	subst:pl:inst:f	język programowania	komp.
-Java	Java	subst:pl:loc:f	język programowania	komp.
-Java	Java	subst:pl:nom:f	język programowania	komp.
-Java	Java	subst:pl:voc:f	język programowania	komp.
-Java	Java	subst:sg:acc:f	język programowania	komp.
-Java	Java	subst:sg:dat:f	język programowania	komp.
-Java	Java	subst:sg:gen:f	język programowania	komp.
-Java	Java	subst:sg:inst:f	język programowania	komp.
-Java	Java	subst:sg:loc:f	język programowania	komp.
-Java	Java	subst:sg:nom:f	język programowania	komp.
-Java	Java	subst:sg:voc:f	język programowania	komp.
-Javami	Java	subst:pl:inst:f	język programowania	komp.
-Javą	Java	subst:sg:inst:f	język programowania	komp.
-Javę	Java	subst:sg:acc:f	język programowania	komp.
-Javie	Java	subst:sg:dat:f	język programowania	komp.
-Javie	Java	subst:sg:loc:f	język programowania	komp.
-Jav	Java	subst:pl:gen:f	język programowania	komp.
-Javo	Java	subst:sg:voc:f	język programowania	komp.
-Javom	Java	subst:pl:dat:f	język programowania	komp.
-Javy	Java	subst:pl:acc:f	język programowania	komp.
-Javy	Java	subst:pl:nom:f	język programowania	komp.
-Javy	Java	subst:pl:voc:f	język programowania	komp.
-Javy	Java	subst:sg:gen:f	język programowania	komp.
-JavaScripcie	JavaScript	subst:sg:loc:m3	język programowania	komp.
-JavaScripcie	JavaScript	subst:sg:voc:m3	język programowania	komp.
-JavaScriptach	JavaScript	subst:pl:loc:m3	język programowania	komp.
-JavaScriptami	JavaScript	subst:pl:inst:m3	język programowania	komp.
-JavaScriptem	JavaScript	subst:sg:inst:m3	język programowania	komp.
-JavaScript	JavaScript	subst:sg:acc:m3	język programowania	komp.
-JavaScript	JavaScript	subst:sg:nom:m3	język programowania	komp.
-JavaScriptom	JavaScript	subst:pl:dat:m3	język programowania	komp.
-JavaScriptowi	JavaScript	subst:sg:dat:m3	język programowania	komp.
-JavaScriptów	JavaScript	subst:pl:gen:m3	język programowania	komp.
-JavaScriptu	JavaScript	subst:sg:gen:m3	język programowania	komp.
-JavaScripty	JavaScript	subst:pl:acc:m3	język programowania	komp.
-JavaScripty	JavaScript	subst:pl:nom:m3	język programowania	komp.
-JavaScripty	JavaScript	subst:pl:voc:m3	język programowania	komp.
-Jawach	Jawa	subst:pl:loc:f	geograficzna	
-Jawa	Jawa	subst:sg:nom:f	geograficzna	
-Jawami	Jawa	subst:pl:inst:f	geograficzna	
-Jawą	Jawa	subst:sg:inst:f	geograficzna	
-Jawę	Jawa	subst:sg:acc:f	geograficzna	
-Jawie	Jawa	subst:sg:dat:f	geograficzna	
-Jawie	Jawa	subst:sg:loc:f	geograficzna	
-Jaw	Jawa	subst:pl:gen:f	geograficzna	
-Jawo	Jawa	subst:sg:voc:f	geograficzna	
-Jawom	Jawa	subst:pl:dat:f	geograficzna	
-Jawy	Jawa	subst:pl:acc:f	geograficzna	
-Jawy	Jawa	subst:pl:nom:f	geograficzna	
-Jawy	Jawa	subst:pl:voc:f	geograficzna	
-Jawy	Jawa	subst:sg:gen:f	geograficzna	
-Jawajczycy	Jawajczyk	subst:pl:nom:m1	pospolita	
-Jawajczycy	Jawajczyk	subst:pl:voc:m1	pospolita	
-Jawajczykach	Jawajczyk	subst:pl:loc:m1	pospolita	
-Jawajczyka	Jawajczyk	subst:sg:acc:m1	pospolita	
-Jawajczyka	Jawajczyk	subst:sg:gen:m1	pospolita	
-Jawajczykami	Jawajczyk	subst:pl:inst:m1	pospolita	
-Jawajczykiem	Jawajczyk	subst:sg:inst:m1	pospolita	
-Jawajczyki	Jawajczyk	depr:pl:nom:m2	pospolita	
-Jawajczyki	Jawajczyk	depr:pl:voc:m2	pospolita	
-Jawajczyk	Jawajczyk	subst:sg:nom:m1	pospolita	
-Jawajczykom	Jawajczyk	subst:pl:dat:m1	pospolita	
-Jawajczykowi	Jawajczyk	subst:sg:dat:m1	pospolita	
-Jawajczyków	Jawajczyk	subst:pl:acc:m1	pospolita	
-Jawajczyków	Jawajczyk	subst:pl:gen:m1	pospolita	
-Jawajczyku	Jawajczyk	subst:sg:loc:m1	pospolita	
-Jawajczyku	Jawajczyk	subst:sg:voc:m1	pospolita	
-Jawajce	Jawajka	subst:sg:dat:f	pospolita	
-Jawajce	Jawajka	subst:sg:loc:f	pospolita	
-Jawajek	Jawajka	subst:pl:gen:f	pospolita	
-Jawajkach	Jawajka	subst:pl:loc:f	pospolita	
-Jawajka	Jawajka	subst:sg:nom:f	pospolita	
-Jawajkami	Jawajka	subst:pl:inst:f	pospolita	
-Jawajką	Jawajka	subst:sg:inst:f	pospolita	
-Jawajkę	Jawajka	subst:sg:acc:f	pospolita	
-Jawajki	Jawajka	subst:pl:acc:f	pospolita	
-Jawajki	Jawajka	subst:pl:nom:f	pospolita	
-Jawajki	Jawajka	subst:pl:voc:f	pospolita	
-Jawajki	Jawajka	subst:sg:gen:f	pospolita	
-Jawajko	Jawajka	subst:sg:voc:f	pospolita	
-Jawajkom	Jawajka	subst:pl:dat:f	pospolita	
-Jawiszowicach	Jawiszowice	subst:pl:loc:p2	geograficzna	rzad.
-Jawiszowicach	Jawiszowice	subst:pl:loc:p3	geograficzna	
-Jawiszowicami	Jawiszowice	subst:pl:inst:p2	geograficzna	rzad.
-Jawiszowicami	Jawiszowice	subst:pl:inst:p3	geograficzna	
-Jawiszowice	Jawiszowice	subst:pl:acc:p2	geograficzna	rzad.
-Jawiszowice	Jawiszowice	subst:pl:acc:p3	geograficzna	
-Jawiszowice	Jawiszowice	subst:pl:nom:p2	geograficzna	rzad.
-Jawiszowice	Jawiszowice	subst:pl:nom:p3	geograficzna	
-Jawiszowice	Jawiszowice	subst:pl:voc:p2	geograficzna	rzad.
-Jawiszowice	Jawiszowice	subst:pl:voc:p3	geograficzna	
-Jawiszowic	Jawiszowice	subst:pl:gen:p2	geograficzna	rzad.
-Jawiszowic	Jawiszowice	subst:pl:gen:p3	geograficzna	
-Jawiszowicom	Jawiszowice	subst:pl:dat:p2	geograficzna	rzad.
-Jawiszowicom	Jawiszowice	subst:pl:dat:p3	geograficzna	
-Jaworowach	Jaworów	subst:pl:loc:m3	geograficzna	
-Jaworowa	Jaworów	subst:sg:gen:m3	geograficzna	
-Jaworowami	Jaworów	subst:pl:inst:m3	geograficzna	
-Jaworowem	Jaworów	subst:sg:inst:m3	geograficzna	
-Jaworowie	Jaworów	subst:sg:loc:m3	geograficzna	
-Jaworowie	Jaworów	subst:sg:voc:m3	geograficzna	
-Jaworowom	Jaworów	subst:pl:dat:m3	geograficzna	
-Jaworowowi	Jaworów	subst:sg:dat:m3	geograficzna	
-Jaworowów	Jaworów	subst:pl:gen:m3	geograficzna	
-Jaworowu	Jaworów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
-Jaworowy	Jaworów	subst:pl:acc:m3	geograficzna	
-Jaworowy	Jaworów	subst:pl:nom:m3	geograficzna	
-Jaworowy	Jaworów	subst:pl:voc:m3	geograficzna	
-Jaworów	Jaworów	subst:sg:acc:m3	geograficzna	
-Jaworów	Jaworów	subst:sg:nom:m3	geograficzna	
+Javach	Java	subst:pl:loc:f	nazwa języka programowania	komp.
+Java	Java	subst:pl:acc:f	nazwa języka programowania	komp.
+Java	Java	subst:pl:dat:f	nazwa języka programowania	komp.
+Java	Java	subst:pl:gen:f	nazwa języka programowania	komp.
+Java	Java	subst:pl:inst:f	nazwa języka programowania	komp.
+Java	Java	subst:pl:loc:f	nazwa języka programowania	komp.
+Java	Java	subst:pl:nom:f	nazwa języka programowania	komp.
+Java	Java	subst:pl:voc:f	nazwa języka programowania	komp.
+Java	Java	subst:sg:acc:f	nazwa języka programowania	komp.
+Java	Java	subst:sg:dat:f	nazwa języka programowania	komp.
+Java	Java	subst:sg:gen:f	nazwa języka programowania	komp.
+Java	Java	subst:sg:inst:f	nazwa języka programowania	komp.
+Java	Java	subst:sg:loc:f	nazwa języka programowania	komp.
+Java	Java	subst:sg:nom:f	nazwa języka programowania	komp.
+Java	Java	subst:sg:voc:f	nazwa języka programowania	komp.
+Javami	Java	subst:pl:inst:f	nazwa języka programowania	komp.
+Javą	Java	subst:sg:inst:f	nazwa języka programowania	komp.
+Javę	Java	subst:sg:acc:f	nazwa języka programowania	komp.
+Javie	Java	subst:sg:dat:f	nazwa języka programowania	komp.
+Javie	Java	subst:sg:loc:f	nazwa języka programowania	komp.
+Jav	Java	subst:pl:gen:f	nazwa języka programowania	komp.
+Javo	Java	subst:sg:voc:f	nazwa języka programowania	komp.
+Javom	Java	subst:pl:dat:f	nazwa języka programowania	komp.
+Javy	Java	subst:pl:acc:f	nazwa języka programowania	komp.
+Javy	Java	subst:pl:nom:f	nazwa języka programowania	komp.
+Javy	Java	subst:pl:voc:f	nazwa języka programowania	komp.
+Javy	Java	subst:sg:gen:f	nazwa języka programowania	komp.
+JavaScripcie	JavaScript	subst:sg:loc:m3	nazwa języka programowania	komp.
+JavaScripcie	JavaScript	subst:sg:voc:m3	nazwa języka programowania	komp.
+JavaScriptach	JavaScript	subst:pl:loc:m3	nazwa języka programowania	komp.
+JavaScriptami	JavaScript	subst:pl:inst:m3	nazwa języka programowania	komp.
+JavaScriptem	JavaScript	subst:sg:inst:m3	nazwa języka programowania	komp.
+JavaScript	JavaScript	subst:sg:acc:m3	nazwa języka programowania	komp.
+JavaScript	JavaScript	subst:sg:nom:m3	nazwa języka programowania	komp.
+JavaScriptom	JavaScript	subst:pl:dat:m3	nazwa języka programowania	komp.
+JavaScriptowi	JavaScript	subst:sg:dat:m3	nazwa języka programowania	komp.
+JavaScriptów	JavaScript	subst:pl:gen:m3	nazwa języka programowania	komp.
+JavaScriptu	JavaScript	subst:sg:gen:m3	nazwa języka programowania	komp.
+JavaScripty	JavaScript	subst:pl:acc:m3	nazwa języka programowania	komp.
+JavaScripty	JavaScript	subst:pl:nom:m3	nazwa języka programowania	komp.
+JavaScripty	JavaScript	subst:pl:voc:m3	nazwa języka programowania	komp.
+Jawach	Jawa	subst:pl:loc:f	nazwa geograficzna	
+Jawa	Jawa	subst:sg:nom:f	nazwa geograficzna	
+Jawami	Jawa	subst:pl:inst:f	nazwa geograficzna	
+Jawą	Jawa	subst:sg:inst:f	nazwa geograficzna	
+Jawę	Jawa	subst:sg:acc:f	nazwa geograficzna	
+Jawie	Jawa	subst:sg:dat:f	nazwa geograficzna	
+Jawie	Jawa	subst:sg:loc:f	nazwa geograficzna	
+Jaw	Jawa	subst:pl:gen:f	nazwa geograficzna	
+Jawo	Jawa	subst:sg:voc:f	nazwa geograficzna	
+Jawom	Jawa	subst:pl:dat:f	nazwa geograficzna	
+Jawy	Jawa	subst:pl:acc:f	nazwa geograficzna	
+Jawy	Jawa	subst:pl:nom:f	nazwa geograficzna	
+Jawy	Jawa	subst:pl:voc:f	nazwa geograficzna	
+Jawy	Jawa	subst:sg:gen:f	nazwa geograficzna	
+Jawajczycy	Jawajczyk	subst:pl:nom:m1	nazwa pospolita	
+Jawajczycy	Jawajczyk	subst:pl:voc:m1	nazwa pospolita	
+Jawajczykach	Jawajczyk	subst:pl:loc:m1	nazwa pospolita	
+Jawajczyka	Jawajczyk	subst:sg:acc:m1	nazwa pospolita	
+Jawajczyka	Jawajczyk	subst:sg:gen:m1	nazwa pospolita	
+Jawajczykami	Jawajczyk	subst:pl:inst:m1	nazwa pospolita	
+Jawajczykiem	Jawajczyk	subst:sg:inst:m1	nazwa pospolita	
+Jawajczyki	Jawajczyk	depr:pl:nom:m2	nazwa pospolita	
+Jawajczyki	Jawajczyk	depr:pl:voc:m2	nazwa pospolita	
+Jawajczyk	Jawajczyk	subst:sg:nom:m1	nazwa pospolita	
+Jawajczykom	Jawajczyk	subst:pl:dat:m1	nazwa pospolita	
+Jawajczykowi	Jawajczyk	subst:sg:dat:m1	nazwa pospolita	
+Jawajczyków	Jawajczyk	subst:pl:acc:m1	nazwa pospolita	
+Jawajczyków	Jawajczyk	subst:pl:gen:m1	nazwa pospolita	
+Jawajczyku	Jawajczyk	subst:sg:loc:m1	nazwa pospolita	
+Jawajczyku	Jawajczyk	subst:sg:voc:m1	nazwa pospolita	
+Jawajce	Jawajka	subst:sg:dat:f	nazwa pospolita	
+Jawajce	Jawajka	subst:sg:loc:f	nazwa pospolita	
+Jawajek	Jawajka	subst:pl:gen:f	nazwa pospolita	
+Jawajkach	Jawajka	subst:pl:loc:f	nazwa pospolita	
+Jawajka	Jawajka	subst:sg:nom:f	nazwa pospolita	
+Jawajkami	Jawajka	subst:pl:inst:f	nazwa pospolita	
+Jawajką	Jawajka	subst:sg:inst:f	nazwa pospolita	
+Jawajkę	Jawajka	subst:sg:acc:f	nazwa pospolita	
+Jawajki	Jawajka	subst:pl:acc:f	nazwa pospolita	
+Jawajki	Jawajka	subst:pl:nom:f	nazwa pospolita	
+Jawajki	Jawajka	subst:pl:voc:f	nazwa pospolita	
+Jawajki	Jawajka	subst:sg:gen:f	nazwa pospolita	
+Jawajko	Jawajka	subst:sg:voc:f	nazwa pospolita	
+Jawajkom	Jawajka	subst:pl:dat:f	nazwa pospolita	
+Jawiszowicach	Jawiszowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
+Jawiszowicach	Jawiszowice	subst:pl:loc:p3	nazwa geograficzna	
+Jawiszowicami	Jawiszowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
+Jawiszowicami	Jawiszowice	subst:pl:inst:p3	nazwa geograficzna	
+Jawiszowice	Jawiszowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
+Jawiszowice	Jawiszowice	subst:pl:acc:p3	nazwa geograficzna	
+Jawiszowice	Jawiszowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
+Jawiszowice	Jawiszowice	subst:pl:nom:p3	nazwa geograficzna	
+Jawiszowice	Jawiszowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
+Jawiszowice	Jawiszowice	subst:pl:voc:p3	nazwa geograficzna	
+Jawiszowic	Jawiszowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
+Jawiszowic	Jawiszowice	subst:pl:gen:p3	nazwa geograficzna	
+Jawiszowicom	Jawiszowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
+Jawiszowicom	Jawiszowice	subst:pl:dat:p3	nazwa geograficzna	
+Jaworowach	Jaworów	subst:pl:loc:m3	nazwa geograficzna	
+Jaworowa	Jaworów	subst:sg:gen:m3	nazwa geograficzna	
+Jaworowami	Jaworów	subst:pl:inst:m3	nazwa geograficzna	
+Jaworowem	Jaworów	subst:sg:inst:m3	nazwa geograficzna	
+Jaworowie	Jaworów	subst:sg:loc:m3	nazwa geograficzna	
+Jaworowie	Jaworów	subst:sg:voc:m3	nazwa geograficzna	
+Jaworowom	Jaworów	subst:pl:dat:m3	nazwa geograficzna	
+Jaworowowi	Jaworów	subst:sg:dat:m3	nazwa geograficzna	
+Jaworowów	Jaworów	subst:pl:gen:m3	nazwa geograficzna	
+Jaworowu	Jaworów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Jaworowy	Jaworów	subst:pl:acc:m3	nazwa geograficzna	
+Jaworowy	Jaworów	subst:pl:nom:m3	nazwa geograficzna	
+Jaworowy	Jaworów	subst:pl:voc:m3	nazwa geograficzna	
+Jaworów	Jaworów	subst:sg:acc:m3	nazwa geograficzna	
+Jaworów	Jaworów	subst:sg:nom:m3	nazwa geograficzna	
 Jaworska	Jaworska	subst:sg:nom:f	nazwisko	
 Jaworska	Jaworska	subst:sg:voc:f	nazwisko	
 Jaworską	Jaworska	subst:sg:acc:f	nazwisko	
@@ -3295,20 +3310,20 @@ Jaworskimi	Jaworski	subst:pl:inst:m1	nazwisko
 Jaworskim	Jaworski	subst:pl:dat:m1	nazwisko	
 Jaworskim	Jaworski	subst:sg:inst:m1	nazwisko	
 Jaworskim	Jaworski	subst:sg:loc:m1	nazwisko	
-Jaworznach	Jaworzno	subst:pl:loc:n2	geograficzna	
-Jaworzna	Jaworzno	subst:pl:acc:n2	geograficzna	
-Jaworzna	Jaworzno	subst:pl:nom:n2	geograficzna	
-Jaworzna	Jaworzno	subst:pl:voc:n2	geograficzna	
-Jaworzna	Jaworzno	subst:sg:gen:n2	geograficzna	
-Jaworznami	Jaworzno	subst:pl:inst:n2	geograficzna	
-Jaworznem	Jaworzno	subst:sg:inst:n2	geograficzna	
-Jaworznie	Jaworzno	subst:sg:loc:n2	geograficzna	
-Jaworzn	Jaworzno	subst:pl:gen:n2	geograficzna	
-Jaworzno	Jaworzno	subst:sg:acc:n2	geograficzna	
-Jaworzno	Jaworzno	subst:sg:nom:n2	geograficzna	
-Jaworzno	Jaworzno	subst:sg:voc:n2	geograficzna	
-Jaworznom	Jaworzno	subst:pl:dat:n2	geograficzna	
-Jaworznu	Jaworzno	subst:sg:dat:n2	geograficzna	
+Jaworznach	Jaworzno	subst:pl:loc:n2	nazwa geograficzna	
+Jaworzna	Jaworzno	subst:pl:acc:n2	nazwa geograficzna	
+Jaworzna	Jaworzno	subst:pl:nom:n2	nazwa geograficzna	
+Jaworzna	Jaworzno	subst:pl:voc:n2	nazwa geograficzna	
+Jaworzna	Jaworzno	subst:sg:gen:n2	nazwa geograficzna	
+Jaworznami	Jaworzno	subst:pl:inst:n2	nazwa geograficzna	
+Jaworznem	Jaworzno	subst:sg:inst:n2	nazwa geograficzna	
+Jaworznie	Jaworzno	subst:sg:loc:n2	nazwa geograficzna	
+Jaworzn	Jaworzno	subst:pl:gen:n2	nazwa geograficzna	
+Jaworzno	Jaworzno	subst:sg:acc:n2	nazwa geograficzna	
+Jaworzno	Jaworzno	subst:sg:nom:n2	nazwa geograficzna	
+Jaworzno	Jaworzno	subst:sg:voc:n2	nazwa geograficzna	
+Jaworznom	Jaworzno	subst:pl:dat:n2	nazwa geograficzna	
+Jaworznu	Jaworzno	subst:sg:dat:n2	nazwa geograficzna	
 Jaksie	Jaxa	subst:sg:dat:m1	nazwisko	
 Jaksie	Jaxa	subst:sg:loc:m1	nazwisko	
 Jaxach	Jaxa	subst:pl:loc:m1	nazwisko	
@@ -3359,48 +3374,48 @@ Jeanów	Jean	subst:pl:acc:m1	imię
 Jeanów	Jean	subst:pl:gen:m1	imię	
 Jeany	Jean	depr:pl:nom:m2	imię	
 Jeany	Jean	depr:pl:voc:m2	imię	
-Jedlniach	Jedlnia	subst:pl:loc:f	geograficzna	
-Jedlnia	Jedlnia	subst:sg:nom:f	geograficzna	
-Jedlniami	Jedlnia	subst:pl:inst:f	geograficzna	
-Jedlnią	Jedlnia	subst:sg:inst:f	geograficzna	
-Jedlnie	Jedlnia	subst:pl:acc:f	geograficzna	
-Jedlnie	Jedlnia	subst:pl:nom:f	geograficzna	
-Jedlnie	Jedlnia	subst:pl:voc:f	geograficzna	
-Jedlnię	Jedlnia	subst:sg:acc:f	geograficzna	
-Jedlni	Jedlnia	subst:pl:gen:f	geograficzna	
-Jedlni	Jedlnia	subst:sg:dat:f	geograficzna	
-Jedlni	Jedlnia	subst:sg:gen:f	geograficzna	
-Jedlni	Jedlnia	subst:sg:loc:f	geograficzna	
-Jedlnio	Jedlnia	subst:sg:voc:f	geograficzna	
-Jedlniom	Jedlnia	subst:pl:dat:f	geograficzna	
-Jednorożcach	Jednorożec	subst:pl:loc:m2	astr.	
-Jednorożca	Jednorożec	subst:sg:acc:m2	astr.	
-Jednorożca	Jednorożec	subst:sg:gen:m2	astr.	
-Jednorożcami	Jednorożec	subst:pl:inst:m2	astr.	
-Jednorożce	Jednorożec	subst:pl:acc:m2	astr.	
-Jednorożce	Jednorożec	subst:pl:nom:m2	astr.	
-Jednorożce	Jednorożec	subst:pl:voc:m2	astr.	
-Jednorożcem	Jednorożec	subst:sg:inst:m2	astr.	
-Jednorożcom	Jednorożec	subst:pl:dat:m2	astr.	
-Jednorożcowi	Jednorożec	subst:sg:dat:m2	astr.	
-Jednorożców	Jednorożec	subst:pl:gen:m2	astr.	
-Jednorożcu	Jednorożec	subst:sg:loc:m2	astr.	
-Jednorożcu	Jednorożec	subst:sg:voc:m2	astr.	
-Jednorożec	Jednorożec	subst:sg:nom:m2	astr.	
-Jedwabnego	Jedwabne	subst:sg:gen:n2	geograficzna	
-Jedwabne	Jedwabne	subst:pl:acc:n2	geograficzna	
-Jedwabne	Jedwabne	subst:pl:nom:n2	geograficzna	
-Jedwabne	Jedwabne	subst:pl:voc:n2	geograficzna	
-Jedwabne	Jedwabne	subst:sg:acc:n2	geograficzna	
-Jedwabne	Jedwabne	subst:sg:nom:n2	geograficzna	
-Jedwabne	Jedwabne	subst:sg:voc:n2	geograficzna	
-Jedwabnem	Jedwabne	subst:sg:inst:n2	geograficzna	
-Jedwabnem	Jedwabne	subst:sg:loc:n2	geograficzna	
-Jedwabnemu	Jedwabne	subst:sg:dat:n2	geograficzna	
-Jedwabnych	Jedwabne	subst:pl:gen:n2	geograficzna	
-Jedwabnych	Jedwabne	subst:pl:loc:n2	geograficzna	
-Jedwabnymi	Jedwabne	subst:pl:inst:n2	geograficzna	
-Jedwabnym	Jedwabne	subst:pl:dat:n2	geograficzna	
+Jedlniach	Jedlnia	subst:pl:loc:f	nazwa geograficzna	
+Jedlnia	Jedlnia	subst:sg:nom:f	nazwa geograficzna	
+Jedlniami	Jedlnia	subst:pl:inst:f	nazwa geograficzna	
+Jedlnią	Jedlnia	subst:sg:inst:f	nazwa geograficzna	
+Jedlnie	Jedlnia	subst:pl:acc:f	nazwa geograficzna	
+Jedlnie	Jedlnia	subst:pl:nom:f	nazwa geograficzna	
+Jedlnie	Jedlnia	subst:pl:voc:f	nazwa geograficzna	
+Jedlnię	Jedlnia	subst:sg:acc:f	nazwa geograficzna	
+Jedlni	Jedlnia	subst:pl:gen:f	nazwa geograficzna	
+Jedlni	Jedlnia	subst:sg:dat:f	nazwa geograficzna	
+Jedlni	Jedlnia	subst:sg:gen:f	nazwa geograficzna	
+Jedlni	Jedlnia	subst:sg:loc:f	nazwa geograficzna	
+Jedlnio	Jedlnia	subst:sg:voc:f	nazwa geograficzna	
+Jedlniom	Jedlnia	subst:pl:dat:f	nazwa geograficzna	
+Jednorożcach	Jednorożec	subst:pl:loc:m2	nazwa własna astronomiczna	
+Jednorożca	Jednorożec	subst:sg:acc:m2	nazwa własna astronomiczna	
+Jednorożca	Jednorożec	subst:sg:gen:m2	nazwa własna astronomiczna	
+Jednorożcami	Jednorożec	subst:pl:inst:m2	nazwa własna astronomiczna	
+Jednorożce	Jednorożec	subst:pl:acc:m2	nazwa własna astronomiczna	
+Jednorożce	Jednorożec	subst:pl:nom:m2	nazwa własna astronomiczna	
+Jednorożce	Jednorożec	subst:pl:voc:m2	nazwa własna astronomiczna	
+Jednorożcem	Jednorożec	subst:sg:inst:m2	nazwa własna astronomiczna	
+Jednorożcom	Jednorożec	subst:pl:dat:m2	nazwa własna astronomiczna	
+Jednorożcowi	Jednorożec	subst:sg:dat:m2	nazwa własna astronomiczna	
+Jednorożców	Jednorożec	subst:pl:gen:m2	nazwa własna astronomiczna	
+Jednorożcu	Jednorożec	subst:sg:loc:m2	nazwa własna astronomiczna	
+Jednorożcu	Jednorożec	subst:sg:voc:m2	nazwa własna astronomiczna	
+Jednorożec	Jednorożec	subst:sg:nom:m2	nazwa własna astronomiczna	
+Jedwabnego	Jedwabne	subst:sg:gen:n2	nazwa geograficzna	
+Jedwabne	Jedwabne	subst:pl:acc:n2	nazwa geograficzna	
+Jedwabne	Jedwabne	subst:pl:nom:n2	nazwa geograficzna	
+Jedwabne	Jedwabne	subst:pl:voc:n2	nazwa geograficzna	
+Jedwabne	Jedwabne	subst:sg:acc:n2	nazwa geograficzna	
+Jedwabne	Jedwabne	subst:sg:nom:n2	nazwa geograficzna	
+Jedwabne	Jedwabne	subst:sg:voc:n2	nazwa geograficzna	
+Jedwabnem	Jedwabne	subst:sg:inst:n2	nazwa geograficzna	
+Jedwabnem	Jedwabne	subst:sg:loc:n2	nazwa geograficzna	
+Jedwabnemu	Jedwabne	subst:sg:dat:n2	nazwa geograficzna	
+Jedwabnych	Jedwabne	subst:pl:gen:n2	nazwa geograficzna	
+Jedwabnych	Jedwabne	subst:pl:loc:n2	nazwa geograficzna	
+Jedwabnymi	Jedwabne	subst:pl:inst:n2	nazwa geograficzna	
+Jedwabnym	Jedwabne	subst:pl:dat:n2	nazwa geograficzna	
 Jeffersonach	Jefferson	subst:pl:loc:m1	nazwisko	
 Jeffersona	Jefferson	subst:sg:acc:m1	nazwisko	
 Jeffersona	Jefferson	subst:sg:gen:m1	nazwisko	
@@ -3518,21 +3533,21 @@ Jelcynów	Jelcyn	subst:pl:acc:m1	nazwisko
 Jelcynów	Jelcyn	subst:pl:gen:m1	nazwisko	
 Jelcyny	Jelcyn	depr:pl:nom:m2	nazwisko	
 Jelcyny	Jelcyn	depr:pl:voc:m2	nazwisko	
-Jelczach	Jelcz	subst:pl:loc:m3	geograficzna	
-Jelcza	Jelcz	subst:sg:gen:m3	geograficzna	
-Jelczami	Jelcz	subst:pl:inst:m3	geograficzna	
-Jelcze	Jelcz	subst:pl:acc:m3	geograficzna	
-Jelcze	Jelcz	subst:pl:nom:m3	geograficzna	
-Jelcze	Jelcz	subst:pl:voc:m3	geograficzna	
-Jelczem	Jelcz	subst:sg:inst:m3	geograficzna	
-Jelcz	Jelcz	subst:sg:acc:m3	geograficzna	
-Jelcz	Jelcz	subst:sg:nom:m3	geograficzna	
-Jelczom	Jelcz	subst:pl:dat:m3	geograficzna	
-Jelczowi	Jelcz	subst:sg:dat:m3	geograficzna	
-Jelczów	Jelcz	subst:pl:gen:m3	geograficzna	
-Jelczu	Jelcz	subst:sg:loc:m3	geograficzna	
-Jelczu	Jelcz	subst:sg:voc:m3	geograficzna	
-Jelczy	Jelcz	subst:pl:gen:m3	geograficzna	
+Jelczach	Jelcz	subst:pl:loc:m3	nazwa geograficzna	
+Jelcza	Jelcz	subst:sg:gen:m3	nazwa geograficzna	
+Jelczami	Jelcz	subst:pl:inst:m3	nazwa geograficzna	
+Jelcze	Jelcz	subst:pl:acc:m3	nazwa geograficzna	
+Jelcze	Jelcz	subst:pl:nom:m3	nazwa geograficzna	
+Jelcze	Jelcz	subst:pl:voc:m3	nazwa geograficzna	
+Jelczem	Jelcz	subst:sg:inst:m3	nazwa geograficzna	
+Jelcz	Jelcz	subst:sg:acc:m3	nazwa geograficzna	
+Jelcz	Jelcz	subst:sg:nom:m3	nazwa geograficzna	
+Jelczom	Jelcz	subst:pl:dat:m3	nazwa geograficzna	
+Jelczowi	Jelcz	subst:sg:dat:m3	nazwa geograficzna	
+Jelczów	Jelcz	subst:pl:gen:m3	nazwa geograficzna	
+Jelczu	Jelcz	subst:sg:loc:m3	nazwa geograficzna	
+Jelczu	Jelcz	subst:sg:voc:m3	nazwa geograficzna	
+Jelczy	Jelcz	subst:pl:gen:m3	nazwa geograficzna	
 Jelenach	Jelena	subst:pl:loc:f	imię	
 Jelena	Jelena	subst:sg:nom:f	imię	
 Jelenami	Jelena	subst:pl:inst:f	imię	
@@ -3547,34 +3562,34 @@ Jeleny	Jelena	subst:pl:acc:f	imię
 Jeleny	Jelena	subst:pl:nom:f	imię	
 Jeleny	Jelena	subst:pl:voc:f	imię	
 Jeleny	Jelena	subst:sg:gen:f	imię	
-Jeleniewach	Jeleniewo	subst:pl:loc:n2	geograficzna	
-Jeleniewa	Jeleniewo	subst:pl:acc:n2	geograficzna	
-Jeleniewa	Jeleniewo	subst:pl:nom:n2	geograficzna	
-Jeleniewa	Jeleniewo	subst:pl:voc:n2	geograficzna	
-Jeleniewa	Jeleniewo	subst:sg:gen:n2	geograficzna	
-Jeleniewami	Jeleniewo	subst:pl:inst:n2	geograficzna	
-Jeleniewem	Jeleniewo	subst:sg:inst:n2	geograficzna	
-Jeleniewie	Jeleniewo	subst:sg:loc:n2	geograficzna	
-Jeleniew	Jeleniewo	subst:pl:gen:n2	geograficzna	
-Jeleniewo	Jeleniewo	subst:sg:acc:n2	geograficzna	
-Jeleniewo	Jeleniewo	subst:sg:nom:n2	geograficzna	
-Jeleniewo	Jeleniewo	subst:sg:voc:n2	geograficzna	
-Jeleniewom	Jeleniewo	subst:pl:dat:n2	geograficzna	
-Jeleniewu	Jeleniewo	subst:sg:dat:n2	geograficzna	
-Jeleniogórskich	Jeleniogórskie	subst:pl:gen:n2	geograficzna	
-Jeleniogórskich	Jeleniogórskie	subst:pl:loc:n2	geograficzna	
-Jeleniogórskiego	Jeleniogórskie	subst:sg:gen:n2	geograficzna	
-Jeleniogórskie	Jeleniogórskie	subst:pl:acc:n2	geograficzna	
-Jeleniogórskie	Jeleniogórskie	subst:pl:nom:n2	geograficzna	
-Jeleniogórskie	Jeleniogórskie	subst:pl:voc:n2	geograficzna	
-Jeleniogórskie	Jeleniogórskie	subst:sg:acc:n2	geograficzna	
-Jeleniogórskie	Jeleniogórskie	subst:sg:nom:n2	geograficzna	
-Jeleniogórskie	Jeleniogórskie	subst:sg:voc:n2	geograficzna	
-Jeleniogórskiem	Jeleniogórskie	subst:sg:inst:n2	geograficzna	
-Jeleniogórskiem	Jeleniogórskie	subst:sg:loc:n2	geograficzna	
-Jeleniogórskiemu	Jeleniogórskie	subst:sg:dat:n2	geograficzna	
-Jeleniogórskimi	Jeleniogórskie	subst:pl:inst:n2	geograficzna	
-Jeleniogórskim	Jeleniogórskie	subst:pl:dat:n2	geograficzna	
+Jeleniewach	Jeleniewo	subst:pl:loc:n2	nazwa geograficzna	
+Jeleniewa	Jeleniewo	subst:pl:acc:n2	nazwa geograficzna	
+Jeleniewa	Jeleniewo	subst:pl:nom:n2	nazwa geograficzna	
+Jeleniewa	Jeleniewo	subst:pl:voc:n2	nazwa geograficzna	
+Jeleniewa	Jeleniewo	subst:sg:gen:n2	nazwa geograficzna	
+Jeleniewami	Jeleniewo	subst:pl:inst:n2	nazwa geograficzna	
+Jeleniewem	Jeleniewo	subst:sg:inst:n2	nazwa geograficzna	
+Jeleniewie	Jeleniewo	subst:sg:loc:n2	nazwa geograficzna	
+Jeleniew	Jeleniewo	subst:pl:gen:n2	nazwa geograficzna	
+Jeleniewo	Jeleniewo	subst:sg:acc:n2	nazwa geograficzna	
+Jeleniewo	Jeleniewo	subst:sg:nom:n2	nazwa geograficzna	
+Jeleniewo	Jeleniewo	subst:sg:voc:n2	nazwa geograficzna	
+Jeleniewom	Jeleniewo	subst:pl:dat:n2	nazwa geograficzna	
+Jeleniewu	Jeleniewo	subst:sg:dat:n2	nazwa geograficzna	
+Jeleniogórskich	Jeleniogórskie	subst:pl:gen:n2	nazwa geograficzna	
+Jeleniogórskich	Jeleniogórskie	subst:pl:loc:n2	nazwa geograficzna	
+Jeleniogórskiego	Jeleniogórskie	subst:sg:gen:n2	nazwa geograficzna	
+Jeleniogórskie	Jeleniogórskie	subst:pl:acc:n2	nazwa geograficzna	
+Jeleniogórskie	Jeleniogórskie	subst:pl:nom:n2	nazwa geograficzna	
+Jeleniogórskie	Jeleniogórskie	subst:pl:voc:n2	nazwa geograficzna	
+Jeleniogórskie	Jeleniogórskie	subst:sg:acc:n2	nazwa geograficzna	
+Jeleniogórskie	Jeleniogórskie	subst:sg:nom:n2	nazwa geograficzna	
+Jeleniogórskie	Jeleniogórskie	subst:sg:voc:n2	nazwa geograficzna	
+Jeleniogórskiem	Jeleniogórskie	subst:sg:inst:n2	nazwa geograficzna	
+Jeleniogórskiem	Jeleniogórskie	subst:sg:loc:n2	nazwa geograficzna	
+Jeleniogórskiemu	Jeleniogórskie	subst:sg:dat:n2	nazwa geograficzna	
+Jeleniogórskimi	Jeleniogórskie	subst:pl:inst:n2	nazwa geograficzna	
+Jeleniogórskim	Jeleniogórskie	subst:pl:dat:n2	nazwa geograficzna	
 Jeleńska	Jeleńska	subst:sg:nom:f	nazwisko	
 Jeleńska	Jeleńska	subst:sg:voc:f	nazwisko	
 Jeleńską	Jeleńska	subst:sg:acc:f	nazwisko	
@@ -3605,79 +3620,79 @@ Jeleńskimi	Jeleński	subst:pl:inst:m1	nazwisko
 Jeleńskim	Jeleński	subst:pl:dat:m1	nazwisko	
 Jeleńskim	Jeleński	subst:sg:inst:m1	nazwisko	
 Jeleńskim	Jeleński	subst:sg:loc:m1	nazwisko	
-Jeleśniach	Jeleśnia	subst:pl:loc:f	geograficzna	
-Jeleśnia	Jeleśnia	subst:sg:nom:f	geograficzna	
-Jeleśniami	Jeleśnia	subst:pl:inst:f	geograficzna	
-Jeleśnią	Jeleśnia	subst:sg:inst:f	geograficzna	
-Jeleśnie	Jeleśnia	subst:pl:acc:f	geograficzna	
-Jeleśnie	Jeleśnia	subst:pl:nom:f	geograficzna	
-Jeleśnie	Jeleśnia	subst:pl:voc:f	geograficzna	
-Jeleśnię	Jeleśnia	subst:sg:acc:f	geograficzna	
-Jeleśni	Jeleśnia	subst:pl:gen:f	geograficzna	
-Jeleśni	Jeleśnia	subst:sg:dat:f	geograficzna	
-Jeleśni	Jeleśnia	subst:sg:gen:f	geograficzna	
-Jeleśni	Jeleśnia	subst:sg:loc:f	geograficzna	
-Jeleśnio	Jeleśnia	subst:sg:voc:f	geograficzna	
-Jeleśniom	Jeleśnia	subst:pl:dat:f	geograficzna	
-Jemenach	Jemen	subst:pl:loc:m3	geograficzna	
-Jemenami	Jemen	subst:pl:inst:m3	geograficzna	
-Jemenem	Jemen	subst:sg:inst:m3	geograficzna	
-Jemenie	Jemen	subst:sg:loc:m3	geograficzna	
-Jemenie	Jemen	subst:sg:voc:m3	geograficzna	
-Jemen	Jemen	subst:sg:acc:m3	geograficzna	
-Jemen	Jemen	subst:sg:nom:m3	geograficzna	
-Jemenom	Jemen	subst:pl:dat:m3	geograficzna	
-Jemenowi	Jemen	subst:sg:dat:m3	geograficzna	
-Jemenów	Jemen	subst:pl:gen:m3	geograficzna	
-Jemenu	Jemen	subst:sg:gen:m3	geograficzna	
-Jemeny	Jemen	subst:pl:acc:m3	geograficzna	
-Jemeny	Jemen	subst:pl:nom:m3	geograficzna	
-Jemeny	Jemen	subst:pl:voc:m3	geograficzna	
-Jemeńczycy	Jemeńczyk	subst:pl:nom:m1	pospolita	
-Jemeńczycy	Jemeńczyk	subst:pl:voc:m1	pospolita	
-Jemeńczykach	Jemeńczyk	subst:pl:loc:m1	pospolita	
-Jemeńczyka	Jemeńczyk	subst:sg:acc:m1	pospolita	
-Jemeńczyka	Jemeńczyk	subst:sg:gen:m1	pospolita	
-Jemeńczykami	Jemeńczyk	subst:pl:inst:m1	pospolita	
-Jemeńczykiem	Jemeńczyk	subst:sg:inst:m1	pospolita	
-Jemeńczyki	Jemeńczyk	depr:pl:nom:m2	pospolita	
-Jemeńczyki	Jemeńczyk	depr:pl:voc:m2	pospolita	
-Jemeńczyk	Jemeńczyk	subst:sg:nom:m1	pospolita	
-Jemeńczykom	Jemeńczyk	subst:pl:dat:m1	pospolita	
-Jemeńczykowi	Jemeńczyk	subst:sg:dat:m1	pospolita	
-Jemeńczyków	Jemeńczyk	subst:pl:acc:m1	pospolita	
-Jemeńczyków	Jemeńczyk	subst:pl:gen:m1	pospolita	
-Jemeńczyku	Jemeńczyk	subst:sg:loc:m1	pospolita	
-Jemeńczyku	Jemeńczyk	subst:sg:voc:m1	pospolita	
-Jemielnicach	Jemielnica	subst:pl:loc:f	geograficzna	
-Jemielnica	Jemielnica	subst:sg:nom:f	geograficzna	
-Jemielnicami	Jemielnica	subst:pl:inst:f	geograficzna	
-Jemielnicą	Jemielnica	subst:sg:inst:f	geograficzna	
-Jemielnice	Jemielnica	subst:pl:acc:f	geograficzna	
-Jemielnice	Jemielnica	subst:pl:nom:f	geograficzna	
-Jemielnice	Jemielnica	subst:pl:voc:f	geograficzna	
-Jemielnicę	Jemielnica	subst:sg:acc:f	geograficzna	
-Jemielnic	Jemielnica	subst:pl:gen:f	geograficzna	
-Jemielnico	Jemielnica	subst:sg:voc:f	geograficzna	
-Jemielnicom	Jemielnica	subst:pl:dat:f	geograficzna	
-Jemielnicy	Jemielnica	subst:sg:dat:f	geograficzna	
-Jemielnicy	Jemielnica	subst:sg:gen:f	geograficzna	
-Jemielnicy	Jemielnica	subst:sg:loc:f	geograficzna	
-Jenisei	Jenisej	subst:pl:gen:m3	geograficzna	
-Jenisejach	Jenisej	subst:pl:loc:m3	geograficzna	
-Jenisejami	Jenisej	subst:pl:inst:m3	geograficzna	
-Jeniseje	Jenisej	subst:pl:acc:m3	geograficzna	
-Jeniseje	Jenisej	subst:pl:nom:m3	geograficzna	
-Jeniseje	Jenisej	subst:pl:voc:m3	geograficzna	
-Jenisejem	Jenisej	subst:sg:inst:m3	geograficzna	
-Jenisej	Jenisej	subst:sg:acc:m3	geograficzna	
-Jenisej	Jenisej	subst:sg:nom:m3	geograficzna	
-Jenisejom	Jenisej	subst:pl:dat:m3	geograficzna	
-Jenisejowi	Jenisej	subst:sg:dat:m3	geograficzna	
-Jenisejów	Jenisej	subst:pl:gen:m3	geograficzna	
-Jeniseju	Jenisej	subst:sg:gen:m3	geograficzna	
-Jeniseju	Jenisej	subst:sg:loc:m3	geograficzna	
-Jeniseju	Jenisej	subst:sg:voc:m3	geograficzna	
+Jeleśniach	Jeleśnia	subst:pl:loc:f	nazwa geograficzna	
+Jeleśnia	Jeleśnia	subst:sg:nom:f	nazwa geograficzna	
+Jeleśniami	Jeleśnia	subst:pl:inst:f	nazwa geograficzna	
+Jeleśnią	Jeleśnia	subst:sg:inst:f	nazwa geograficzna	
+Jeleśnie	Jeleśnia	subst:pl:acc:f	nazwa geograficzna	
+Jeleśnie	Jeleśnia	subst:pl:nom:f	nazwa geograficzna	
+Jeleśnie	Jeleśnia	subst:pl:voc:f	nazwa geograficzna	
+Jeleśnię	Jeleśnia	subst:sg:acc:f	nazwa geograficzna	
+Jeleśni	Jeleśnia	subst:pl:gen:f	nazwa geograficzna	
+Jeleśni	Jeleśnia	subst:sg:dat:f	nazwa geograficzna	
+Jeleśni	Jeleśnia	subst:sg:gen:f	nazwa geograficzna	
+Jeleśni	Jeleśnia	subst:sg:loc:f	nazwa geograficzna	
+Jeleśnio	Jeleśnia	subst:sg:voc:f	nazwa geograficzna	
+Jeleśniom	Jeleśnia	subst:pl:dat:f	nazwa geograficzna	
+Jemenach	Jemen	subst:pl:loc:m3	nazwa geograficzna	
+Jemenami	Jemen	subst:pl:inst:m3	nazwa geograficzna	
+Jemenem	Jemen	subst:sg:inst:m3	nazwa geograficzna	
+Jemenie	Jemen	subst:sg:loc:m3	nazwa geograficzna	
+Jemenie	Jemen	subst:sg:voc:m3	nazwa geograficzna	
+Jemen	Jemen	subst:sg:acc:m3	nazwa geograficzna	
+Jemen	Jemen	subst:sg:nom:m3	nazwa geograficzna	
+Jemenom	Jemen	subst:pl:dat:m3	nazwa geograficzna	
+Jemenowi	Jemen	subst:sg:dat:m3	nazwa geograficzna	
+Jemenów	Jemen	subst:pl:gen:m3	nazwa geograficzna	
+Jemenu	Jemen	subst:sg:gen:m3	nazwa geograficzna	
+Jemeny	Jemen	subst:pl:acc:m3	nazwa geograficzna	
+Jemeny	Jemen	subst:pl:nom:m3	nazwa geograficzna	
+Jemeny	Jemen	subst:pl:voc:m3	nazwa geograficzna	
+Jemeńczycy	Jemeńczyk	subst:pl:nom:m1	nazwa pospolita	
+Jemeńczycy	Jemeńczyk	subst:pl:voc:m1	nazwa pospolita	
+Jemeńczykach	Jemeńczyk	subst:pl:loc:m1	nazwa pospolita	
+Jemeńczyka	Jemeńczyk	subst:sg:acc:m1	nazwa pospolita	
+Jemeńczyka	Jemeńczyk	subst:sg:gen:m1	nazwa pospolita	
+Jemeńczykami	Jemeńczyk	subst:pl:inst:m1	nazwa pospolita	
+Jemeńczykiem	Jemeńczyk	subst:sg:inst:m1	nazwa pospolita	
+Jemeńczyki	Jemeńczyk	depr:pl:nom:m2	nazwa pospolita	
+Jemeńczyki	Jemeńczyk	depr:pl:voc:m2	nazwa pospolita	
+Jemeńczyk	Jemeńczyk	subst:sg:nom:m1	nazwa pospolita	
+Jemeńczykom	Jemeńczyk	subst:pl:dat:m1	nazwa pospolita	
+Jemeńczykowi	Jemeńczyk	subst:sg:dat:m1	nazwa pospolita	
+Jemeńczyków	Jemeńczyk	subst:pl:acc:m1	nazwa pospolita	
+Jemeńczyków	Jemeńczyk	subst:pl:gen:m1	nazwa pospolita	
+Jemeńczyku	Jemeńczyk	subst:sg:loc:m1	nazwa pospolita	
+Jemeńczyku	Jemeńczyk	subst:sg:voc:m1	nazwa pospolita	
+Jemielnicach	Jemielnica	subst:pl:loc:f	nazwa geograficzna	
+Jemielnica	Jemielnica	subst:sg:nom:f	nazwa geograficzna	
+Jemielnicami	Jemielnica	subst:pl:inst:f	nazwa geograficzna	
+Jemielnicą	Jemielnica	subst:sg:inst:f	nazwa geograficzna	
+Jemielnice	Jemielnica	subst:pl:acc:f	nazwa geograficzna	
+Jemielnice	Jemielnica	subst:pl:nom:f	nazwa geograficzna	
+Jemielnice	Jemielnica	subst:pl:voc:f	nazwa geograficzna	
+Jemielnicę	Jemielnica	subst:sg:acc:f	nazwa geograficzna	
+Jemielnic	Jemielnica	subst:pl:gen:f	nazwa geograficzna	
+Jemielnico	Jemielnica	subst:sg:voc:f	nazwa geograficzna	
+Jemielnicom	Jemielnica	subst:pl:dat:f	nazwa geograficzna	
+Jemielnicy	Jemielnica	subst:sg:dat:f	nazwa geograficzna	
+Jemielnicy	Jemielnica	subst:sg:gen:f	nazwa geograficzna	
+Jemielnicy	Jemielnica	subst:sg:loc:f	nazwa geograficzna	
+Jenisei	Jenisej	subst:pl:gen:m3	nazwa geograficzna	
+Jenisejach	Jenisej	subst:pl:loc:m3	nazwa geograficzna	
+Jenisejami	Jenisej	subst:pl:inst:m3	nazwa geograficzna	
+Jeniseje	Jenisej	subst:pl:acc:m3	nazwa geograficzna	
+Jeniseje	Jenisej	subst:pl:nom:m3	nazwa geograficzna	
+Jeniseje	Jenisej	subst:pl:voc:m3	nazwa geograficzna	
+Jenisejem	Jenisej	subst:sg:inst:m3	nazwa geograficzna	
+Jenisej	Jenisej	subst:sg:acc:m3	nazwa geograficzna	
+Jenisej	Jenisej	subst:sg:nom:m3	nazwa geograficzna	
+Jenisejom	Jenisej	subst:pl:dat:m3	nazwa geograficzna	
+Jenisejowi	Jenisej	subst:sg:dat:m3	nazwa geograficzna	
+Jenisejów	Jenisej	subst:pl:gen:m3	nazwa geograficzna	
+Jeniseju	Jenisej	subst:sg:gen:m3	nazwa geograficzna	
+Jeniseju	Jenisej	subst:sg:loc:m3	nazwa geograficzna	
+Jeniseju	Jenisej	subst:sg:voc:m3	nazwa geograficzna	
 Jenny	Jenny	subst:pl:acc:f	imię	
 Jenny	Jenny	subst:pl:dat:f	imię	
 Jenny	Jenny	subst:pl:gen:f	imię	
@@ -3776,62 +3791,62 @@ Jerosławy	Jerosława	subst:pl:acc:f	imię
 Jerosławy	Jerosława	subst:pl:nom:f	imię	
 Jerosławy	Jerosława	subst:pl:voc:f	imię	
 Jerosławy	Jerosława	subst:sg:gen:f	imię	
-Jerozolimach	Jerozolima	subst:pl:loc:f	geograficzna	
-Jerozolima	Jerozolima	subst:sg:nom:f	geograficzna	
-Jerozolimami	Jerozolima	subst:pl:inst:f	geograficzna	
-Jerozolimą	Jerozolima	subst:sg:inst:f	geograficzna	
-Jerozolimę	Jerozolima	subst:sg:acc:f	geograficzna	
-Jerozolimie	Jerozolima	subst:sg:dat:f	geograficzna	
-Jerozolimie	Jerozolima	subst:sg:loc:f	geograficzna	
-Jerozolim	Jerozolima	subst:pl:gen:f	geograficzna	
-Jerozolimo	Jerozolima	subst:sg:voc:f	geograficzna	
-Jerozolimom	Jerozolima	subst:pl:dat:f	geograficzna	
-Jerozolimy	Jerozolima	subst:pl:acc:f	geograficzna	
-Jerozolimy	Jerozolima	subst:pl:nom:f	geograficzna	
-Jerozolimy	Jerozolima	subst:pl:voc:f	geograficzna	
-Jerozolimy	Jerozolima	subst:sg:gen:f	geograficzna	
-Jeruzalem	Jeruzalem	subst:pl:acc:n2	geograficzna	
-Jeruzalem	Jeruzalem	subst:pl:dat:n2	geograficzna	
-Jeruzalem	Jeruzalem	subst:pl:gen:n2	geograficzna	
-Jeruzalem	Jeruzalem	subst:pl:inst:n2	geograficzna	
-Jeruzalem	Jeruzalem	subst:pl:loc:n2	geograficzna	
-Jeruzalem	Jeruzalem	subst:pl:nom:n2	geograficzna	
-Jeruzalem	Jeruzalem	subst:pl:voc:n2	geograficzna	
-Jeruzalem	Jeruzalem	subst:sg:acc:n2	geograficzna	
-Jeruzalem	Jeruzalem	subst:sg:dat:n2	geograficzna	
-Jeruzalem	Jeruzalem	subst:sg:gen:n2	geograficzna	
-Jeruzalem	Jeruzalem	subst:sg:inst:n2	geograficzna	
-Jeruzalem	Jeruzalem	subst:sg:loc:n2	geograficzna	
-Jeruzalem	Jeruzalem	subst:sg:nom:n2	geograficzna	
-Jeruzalem	Jeruzalem	subst:sg:voc:n2	geograficzna	
-Jerychach	Jerycho	subst:pl:loc:n2	geograficzna	
-Jerycha	Jerycho	subst:pl:acc:n2	geograficzna	
-Jerycha	Jerycho	subst:pl:nom:n2	geograficzna	
-Jerycha	Jerycho	subst:pl:voc:n2	geograficzna	
-Jerycha	Jerycho	subst:sg:gen:n2	geograficzna	
-Jerychami	Jerycho	subst:pl:inst:n2	geograficzna	
-Jerychem	Jerycho	subst:sg:inst:n2	geograficzna	
-Jerych	Jerycho	subst:pl:gen:n2	geograficzna	
-Jerycho	Jerycho	subst:sg:acc:n2	geograficzna	
-Jerycho	Jerycho	subst:sg:nom:n2	geograficzna	
-Jerycho	Jerycho	subst:sg:voc:n2	geograficzna	
-Jerychom	Jerycho	subst:pl:dat:n2	geograficzna	
-Jerychu	Jerycho	subst:sg:dat:n2	geograficzna	
-Jerychu	Jerycho	subst:sg:loc:n2	geograficzna	
-Jerzmanowicach	Jerzmanowice	subst:pl:loc:p2	geograficzna	rzad.
-Jerzmanowicach	Jerzmanowice	subst:pl:loc:p3	geograficzna	
-Jerzmanowicami	Jerzmanowice	subst:pl:inst:p2	geograficzna	rzad.
-Jerzmanowicami	Jerzmanowice	subst:pl:inst:p3	geograficzna	
-Jerzmanowice	Jerzmanowice	subst:pl:acc:p2	geograficzna	rzad.
-Jerzmanowice	Jerzmanowice	subst:pl:acc:p3	geograficzna	
-Jerzmanowice	Jerzmanowice	subst:pl:nom:p2	geograficzna	rzad.
-Jerzmanowice	Jerzmanowice	subst:pl:nom:p3	geograficzna	
-Jerzmanowice	Jerzmanowice	subst:pl:voc:p2	geograficzna	rzad.
-Jerzmanowice	Jerzmanowice	subst:pl:voc:p3	geograficzna	
-Jerzmanowic	Jerzmanowice	subst:pl:gen:p2	geograficzna	rzad.
-Jerzmanowic	Jerzmanowice	subst:pl:gen:p3	geograficzna	
-Jerzmanowicom	Jerzmanowice	subst:pl:dat:p2	geograficzna	rzad.
-Jerzmanowicom	Jerzmanowice	subst:pl:dat:p3	geograficzna	
+Jerozolimach	Jerozolima	subst:pl:loc:f	nazwa geograficzna	
+Jerozolima	Jerozolima	subst:sg:nom:f	nazwa geograficzna	
+Jerozolimami	Jerozolima	subst:pl:inst:f	nazwa geograficzna	
+Jerozolimą	Jerozolima	subst:sg:inst:f	nazwa geograficzna	
+Jerozolimę	Jerozolima	subst:sg:acc:f	nazwa geograficzna	
+Jerozolimie	Jerozolima	subst:sg:dat:f	nazwa geograficzna	
+Jerozolimie	Jerozolima	subst:sg:loc:f	nazwa geograficzna	
+Jerozolim	Jerozolima	subst:pl:gen:f	nazwa geograficzna	
+Jerozolimo	Jerozolima	subst:sg:voc:f	nazwa geograficzna	
+Jerozolimom	Jerozolima	subst:pl:dat:f	nazwa geograficzna	
+Jerozolimy	Jerozolima	subst:pl:acc:f	nazwa geograficzna	
+Jerozolimy	Jerozolima	subst:pl:nom:f	nazwa geograficzna	
+Jerozolimy	Jerozolima	subst:pl:voc:f	nazwa geograficzna	
+Jerozolimy	Jerozolima	subst:sg:gen:f	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:pl:acc:n2	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:pl:dat:n2	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:pl:gen:n2	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:pl:inst:n2	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:pl:loc:n2	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:pl:nom:n2	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:pl:voc:n2	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:sg:acc:n2	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:sg:dat:n2	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:sg:gen:n2	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:sg:inst:n2	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:sg:loc:n2	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:sg:nom:n2	nazwa geograficzna	
+Jeruzalem	Jeruzalem	subst:sg:voc:n2	nazwa geograficzna	
+Jerychach	Jerycho	subst:pl:loc:n2	nazwa geograficzna	
+Jerycha	Jerycho	subst:pl:acc:n2	nazwa geograficzna	
+Jerycha	Jerycho	subst:pl:nom:n2	nazwa geograficzna	
+Jerycha	Jerycho	subst:pl:voc:n2	nazwa geograficzna	
+Jerycha	Jerycho	subst:sg:gen:n2	nazwa geograficzna	
+Jerychami	Jerycho	subst:pl:inst:n2	nazwa geograficzna	
+Jerychem	Jerycho	subst:sg:inst:n2	nazwa geograficzna	
+Jerych	Jerycho	subst:pl:gen:n2	nazwa geograficzna	
+Jerycho	Jerycho	subst:sg:acc:n2	nazwa geograficzna	
+Jerycho	Jerycho	subst:sg:nom:n2	nazwa geograficzna	
+Jerycho	Jerycho	subst:sg:voc:n2	nazwa geograficzna	
+Jerychom	Jerycho	subst:pl:dat:n2	nazwa geograficzna	
+Jerychu	Jerycho	subst:sg:dat:n2	nazwa geograficzna	
+Jerychu	Jerycho	subst:sg:loc:n2	nazwa geograficzna	
+Jerzmanowicach	Jerzmanowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
+Jerzmanowicach	Jerzmanowice	subst:pl:loc:p3	nazwa geograficzna	
+Jerzmanowicami	Jerzmanowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
+Jerzmanowicami	Jerzmanowice	subst:pl:inst:p3	nazwa geograficzna	
+Jerzmanowice	Jerzmanowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
+Jerzmanowice	Jerzmanowice	subst:pl:acc:p3	nazwa geograficzna	
+Jerzmanowice	Jerzmanowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
+Jerzmanowice	Jerzmanowice	subst:pl:nom:p3	nazwa geograficzna	
+Jerzmanowice	Jerzmanowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
+Jerzmanowice	Jerzmanowice	subst:pl:voc:p3	nazwa geograficzna	
+Jerzmanowic	Jerzmanowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
+Jerzmanowic	Jerzmanowice	subst:pl:gen:p3	nazwa geograficzna	
+Jerzmanowicom	Jerzmanowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
+Jerzmanowicom	Jerzmanowice	subst:pl:dat:p3	nazwa geograficzna	
 Jerzego	Jerzy	subst:sg:acc:m1	imię	
 Jerzego	Jerzy	subst:sg:gen:m1	imię	
 Jerze	Jerzy	depr:pl:nom:m2	imię	
@@ -3963,20 +3978,50 @@ Jezajaszów	Jezajasz	subst:pl:acc:m1	imię
 Jezajaszów	Jezajasz	subst:pl:gen:m1	imię	
 Jezajaszu	Jezajasz	subst:sg:loc:m1	imię	
 Jezajaszu	Jezajasz	subst:sg:voc:m1	imię	
-Jezioranach	Jeziorany	subst:pl:loc:p2	geograficzna	rzad.
-Jezioranach	Jeziorany	subst:pl:loc:p3	geograficzna	
-Jezioranami	Jeziorany	subst:pl:inst:p2	geograficzna	rzad.
-Jezioranami	Jeziorany	subst:pl:inst:p3	geograficzna	
-Jezioran	Jeziorany	subst:pl:gen:p2	geograficzna	rzad.
-Jezioran	Jeziorany	subst:pl:gen:p3	geograficzna	
-Jezioranom	Jeziorany	subst:pl:dat:p2	geograficzna	rzad.
-Jezioranom	Jeziorany	subst:pl:dat:p3	geograficzna	
-Jeziorany	Jeziorany	subst:pl:acc:p2	geograficzna	rzad.
-Jeziorany	Jeziorany	subst:pl:acc:p3	geograficzna	
-Jeziorany	Jeziorany	subst:pl:nom:p2	geograficzna	rzad.
-Jeziorany	Jeziorany	subst:pl:nom:p3	geograficzna	
-Jeziorany	Jeziorany	subst:pl:voc:p2	geograficzna	rzad.
-Jeziorany	Jeziorany	subst:pl:voc:p3	geograficzna	
+Jezierna	Jezierna	subst:sg:nom:f	nazwisko	
+Jezierna	Jezierna	subst:sg:voc:f	nazwisko	
+Jezierną	Jezierna	subst:sg:acc:f	nazwisko	
+Jezierną	Jezierna	subst:sg:inst:f	nazwisko	
+Jezierne	Jezierna	subst:pl:acc:f	nazwisko	
+Jezierne	Jezierna	subst:pl:nom:f	nazwisko	
+Jezierne	Jezierna	subst:pl:voc:f	nazwisko	
+Jeziernej	Jezierna	subst:sg:dat:f	nazwisko	
+Jeziernej	Jezierna	subst:sg:gen:f	nazwisko	
+Jeziernej	Jezierna	subst:sg:loc:f	nazwisko	
+Jeziernych	Jezierna	subst:pl:gen:f	nazwisko	
+Jeziernych	Jezierna	subst:pl:loc:f	nazwisko	
+Jeziernymi	Jezierna	subst:pl:inst:f	nazwisko	
+Jeziernym	Jezierna	subst:pl:dat:f	nazwisko	
+Jeziernego	Jezierny	subst:sg:acc:m1	nazwisko	
+Jeziernego	Jezierny	subst:sg:gen:m1	nazwisko	
+Jezierne	Jezierny	depr:pl:nom:m2	nazwisko	
+Jezierne	Jezierny	depr:pl:voc:m2	nazwisko	
+Jeziernemu	Jezierny	subst:sg:dat:m1	nazwisko	
+Jezierni	Jezierny	subst:pl:nom:m1	nazwisko	
+Jezierni	Jezierny	subst:pl:voc:m1	nazwisko	
+Jeziernych	Jezierny	subst:pl:acc:m1	nazwisko	
+Jeziernych	Jezierny	subst:pl:gen:m1	nazwisko	
+Jeziernych	Jezierny	subst:pl:loc:m1	nazwisko	
+Jezierny	Jezierny	subst:sg:nom:m1	nazwisko	
+Jezierny	Jezierny	subst:sg:voc:m1	nazwisko	
+Jeziernymi	Jezierny	subst:pl:inst:m1	nazwisko	
+Jeziernym	Jezierny	subst:pl:dat:m1	nazwisko	
+Jeziernym	Jezierny	subst:sg:inst:m1	nazwisko	
+Jeziernym	Jezierny	subst:sg:loc:m1	nazwisko	
+Jezioranach	Jeziorany	subst:pl:loc:p2	nazwa geograficzna	rzad.
+Jezioranach	Jeziorany	subst:pl:loc:p3	nazwa geograficzna	
+Jezioranami	Jeziorany	subst:pl:inst:p2	nazwa geograficzna	rzad.
+Jezioranami	Jeziorany	subst:pl:inst:p3	nazwa geograficzna	
+Jezioran	Jeziorany	subst:pl:gen:p2	nazwa geograficzna	rzad.
+Jezioran	Jeziorany	subst:pl:gen:p3	nazwa geograficzna	
+Jezioranom	Jeziorany	subst:pl:dat:p2	nazwa geograficzna	rzad.
+Jezioranom	Jeziorany	subst:pl:dat:p3	nazwa geograficzna	
+Jeziorany	Jeziorany	subst:pl:acc:p2	nazwa geograficzna	rzad.
+Jeziorany	Jeziorany	subst:pl:acc:p3	nazwa geograficzna	
+Jeziorany	Jeziorany	subst:pl:nom:p2	nazwa geograficzna	rzad.
+Jeziorany	Jeziorany	subst:pl:nom:p3	nazwa geograficzna	
+Jeziorany	Jeziorany	subst:pl:voc:p2	nazwa geograficzna	rzad.
+Jeziorany	Jeziorany	subst:pl:voc:p3	nazwa geograficzna	
 Jeziorańska	Jeziorańska	subst:sg:nom:f	nazwisko	
 Jeziorańska	Jeziorańska	subst:sg:voc:f	nazwisko	
 Jeziorańską	Jeziorańska	subst:sg:acc:f	nazwisko	
@@ -4007,20 +4052,20 @@ Jeziorańskimi	Jeziorański	subst:pl:inst:m1	nazwisko
 Jeziorańskim	Jeziorański	subst:pl:dat:m1	nazwisko	
 Jeziorańskim	Jeziorański	subst:sg:inst:m1	nazwisko	
 Jeziorańskim	Jeziorański	subst:sg:loc:m1	nazwisko	
-Jeziornach	Jeziorna	subst:pl:loc:f	geograficzna	
-Jeziorna	Jeziorna	subst:sg:nom:f	geograficzna	
-Jeziornami	Jeziorna	subst:pl:inst:f	geograficzna	
-Jeziorną	Jeziorna	subst:sg:inst:f	geograficzna	
-Jeziornę	Jeziorna	subst:sg:acc:f	geograficzna	
-Jeziornie	Jeziorna	subst:sg:dat:f	geograficzna	
-Jeziornie	Jeziorna	subst:sg:loc:f	geograficzna	
-Jeziorn	Jeziorna	subst:pl:gen:f	geograficzna	
-Jeziorno	Jeziorna	subst:sg:voc:f	geograficzna	
-Jeziornom	Jeziorna	subst:pl:dat:f	geograficzna	
-Jeziorny	Jeziorna	subst:pl:acc:f	geograficzna	
-Jeziorny	Jeziorna	subst:pl:nom:f	geograficzna	
-Jeziorny	Jeziorna	subst:pl:voc:f	geograficzna	
-Jeziorny	Jeziorna	subst:sg:gen:f	geograficzna	
+Jeziornach	Jeziorna	subst:pl:loc:f	nazwa geograficzna	
+Jeziorna	Jeziorna	subst:sg:nom:f	nazwa geograficzna	
+Jeziornami	Jeziorna	subst:pl:inst:f	nazwa geograficzna	
+Jeziorną	Jeziorna	subst:sg:inst:f	nazwa geograficzna	
+Jeziornę	Jeziorna	subst:sg:acc:f	nazwa geograficzna	
+Jeziornie	Jeziorna	subst:sg:dat:f	nazwa geograficzna	
+Jeziornie	Jeziorna	subst:sg:loc:f	nazwa geograficzna	
+Jeziorn	Jeziorna	subst:pl:gen:f	nazwa geograficzna	
+Jeziorno	Jeziorna	subst:sg:voc:f	nazwa geograficzna	
+Jeziornom	Jeziorna	subst:pl:dat:f	nazwa geograficzna	
+Jeziorny	Jeziorna	subst:pl:acc:f	nazwa geograficzna	
+Jeziorny	Jeziorna	subst:pl:nom:f	nazwa geograficzna	
+Jeziorny	Jeziorna	subst:pl:voc:f	nazwa geograficzna	
+Jeziorny	Jeziorna	subst:sg:gen:f	nazwa geograficzna	
 J	jezioro	brev:pun		geogr.
 Jeziorska	Jeziorska	subst:sg:nom:f	nazwisko	
 Jeziorska	Jeziorska	subst:sg:voc:f	nazwisko	
@@ -4052,20 +4097,20 @@ Jeziorskimi	Jeziorski	subst:pl:inst:m1	nazwisko
 Jeziorskim	Jeziorski	subst:pl:dat:m1	nazwisko	
 Jeziorskim	Jeziorski	subst:sg:inst:m1	nazwisko	
 Jeziorskim	Jeziorski	subst:sg:loc:m1	nazwisko	
-Jeziorskach	Jeziorsko	subst:pl:loc:n2	geograficzna	
-Jeziorska	Jeziorsko	subst:pl:acc:n2	geograficzna	
-Jeziorska	Jeziorsko	subst:pl:nom:n2	geograficzna	
-Jeziorska	Jeziorsko	subst:pl:voc:n2	geograficzna	
-Jeziorska	Jeziorsko	subst:sg:gen:n2	geograficzna	
-Jeziorskami	Jeziorsko	subst:pl:inst:n2	geograficzna	
-Jeziorskiem	Jeziorsko	subst:sg:inst:n2	geograficzna	
-Jeziorsk	Jeziorsko	subst:pl:gen:n2	geograficzna	
-Jeziorsko	Jeziorsko	subst:sg:acc:n2	geograficzna	
-Jeziorsko	Jeziorsko	subst:sg:nom:n2	geograficzna	
-Jeziorsko	Jeziorsko	subst:sg:voc:n2	geograficzna	
-Jeziorskom	Jeziorsko	subst:pl:dat:n2	geograficzna	
-Jeziorsku	Jeziorsko	subst:sg:dat:n2	geograficzna	
-Jeziorsku	Jeziorsko	subst:sg:loc:n2	geograficzna	
+Jeziorskach	Jeziorsko	subst:pl:loc:n2	nazwa geograficzna	
+Jeziorska	Jeziorsko	subst:pl:acc:n2	nazwa geograficzna	
+Jeziorska	Jeziorsko	subst:pl:nom:n2	nazwa geograficzna	
+Jeziorska	Jeziorsko	subst:pl:voc:n2	nazwa geograficzna	
+Jeziorska	Jeziorsko	subst:sg:gen:n2	nazwa geograficzna	
+Jeziorskami	Jeziorsko	subst:pl:inst:n2	nazwa geograficzna	
+Jeziorskiem	Jeziorsko	subst:sg:inst:n2	nazwa geograficzna	
+Jeziorsk	Jeziorsko	subst:pl:gen:n2	nazwa geograficzna	
+Jeziorsko	Jeziorsko	subst:sg:acc:n2	nazwa geograficzna	
+Jeziorsko	Jeziorsko	subst:sg:nom:n2	nazwa geograficzna	
+Jeziorsko	Jeziorsko	subst:sg:voc:n2	nazwa geograficzna	
+Jeziorskom	Jeziorsko	subst:pl:dat:n2	nazwa geograficzna	
+Jeziorsku	Jeziorsko	subst:sg:dat:n2	nazwa geograficzna	
+Jeziorsku	Jeziorsko	subst:sg:loc:n2	nazwa geograficzna	
 Jezu	Jezu	interj		
 Jezu	Jezus	subst:sg:voc:m1	imię	
 Jezusach	Jezus	subst:pl:loc:m1	imię	
@@ -4084,49 +4129,49 @@ Jezusów	Jezus	subst:pl:acc:m1	imię
 Jezusów	Jezus	subst:pl:gen:m1	imię	
 Jezusy	Jezus	depr:pl:nom:m2	imię	
 Jezusy	Jezus	depr:pl:voc:m2	imię	
-Jeżewach	Jeżewo	subst:pl:loc:n2	geograficzna	
-Jeżewa	Jeżewo	subst:pl:acc:n2	geograficzna	
-Jeżewa	Jeżewo	subst:pl:nom:n2	geograficzna	
-Jeżewa	Jeżewo	subst:pl:voc:n2	geograficzna	
-Jeżewa	Jeżewo	subst:sg:gen:n2	geograficzna	
-Jeżewami	Jeżewo	subst:pl:inst:n2	geograficzna	
-Jeżewem	Jeżewo	subst:sg:inst:n2	geograficzna	
-Jeżewie	Jeżewo	subst:sg:loc:n2	geograficzna	
-Jeżew	Jeżewo	subst:pl:gen:n2	geograficzna	
-Jeżewo	Jeżewo	subst:sg:acc:n2	geograficzna	
-Jeżewo	Jeżewo	subst:sg:nom:n2	geograficzna	
-Jeżewo	Jeżewo	subst:sg:voc:n2	geograficzna	
-Jeżewom	Jeżewo	subst:pl:dat:n2	geograficzna	
-Jeżewu	Jeżewo	subst:sg:dat:n2	geograficzna	
-Jeżowach	Jeżów	subst:pl:loc:m3	geograficzna	
-Jeżowa	Jeżów	subst:sg:gen:m3	geograficzna	
-Jeżowami	Jeżów	subst:pl:inst:m3	geograficzna	
-Jeżowem	Jeżów	subst:sg:inst:m3	geograficzna	
-Jeżowie	Jeżów	subst:sg:loc:m3	geograficzna	
-Jeżowie	Jeżów	subst:sg:voc:m3	geograficzna	
-Jeżowom	Jeżów	subst:pl:dat:m3	geograficzna	
-Jeżowowi	Jeżów	subst:sg:dat:m3	geograficzna	
-Jeżowów	Jeżów	subst:pl:gen:m3	geograficzna	
-Jeżowu	Jeżów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
-Jeżowy	Jeżów	subst:pl:acc:m3	geograficzna	
-Jeżowy	Jeżów	subst:pl:nom:m3	geograficzna	
-Jeżowy	Jeżów	subst:pl:voc:m3	geograficzna	
-Jeżów	Jeżów	subst:sg:acc:m3	geograficzna	
-Jeżów	Jeżów	subst:sg:nom:m3	geograficzna	
-Jeżycach	Jeżyce	subst:pl:loc:p2	geograficzna	rzad.
-Jeżycach	Jeżyce	subst:pl:loc:p3	geograficzna	
-Jeżycami	Jeżyce	subst:pl:inst:p2	geograficzna	rzad.
-Jeżycami	Jeżyce	subst:pl:inst:p3	geograficzna	
-Jeżyce	Jeżyce	subst:pl:acc:p2	geograficzna	rzad.
-Jeżyce	Jeżyce	subst:pl:acc:p3	geograficzna	
-Jeżyce	Jeżyce	subst:pl:nom:p2	geograficzna	rzad.
-Jeżyce	Jeżyce	subst:pl:nom:p3	geograficzna	
-Jeżyce	Jeżyce	subst:pl:voc:p2	geograficzna	rzad.
-Jeżyce	Jeżyce	subst:pl:voc:p3	geograficzna	
-Jeżyc	Jeżyce	subst:pl:gen:p2	geograficzna	rzad.
-Jeżyc	Jeżyce	subst:pl:gen:p3	geograficzna	
-Jeżycom	Jeżyce	subst:pl:dat:p2	geograficzna	rzad.
-Jeżycom	Jeżyce	subst:pl:dat:p3	geograficzna	
+Jeżewach	Jeżewo	subst:pl:loc:n2	nazwa geograficzna	
+Jeżewa	Jeżewo	subst:pl:acc:n2	nazwa geograficzna	
+Jeżewa	Jeżewo	subst:pl:nom:n2	nazwa geograficzna	
+Jeżewa	Jeżewo	subst:pl:voc:n2	nazwa geograficzna	
+Jeżewa	Jeżewo	subst:sg:gen:n2	nazwa geograficzna	
+Jeżewami	Jeżewo	subst:pl:inst:n2	nazwa geograficzna	
+Jeżewem	Jeżewo	subst:sg:inst:n2	nazwa geograficzna	
+Jeżewie	Jeżewo	subst:sg:loc:n2	nazwa geograficzna	
+Jeżew	Jeżewo	subst:pl:gen:n2	nazwa geograficzna	
+Jeżewo	Jeżewo	subst:sg:acc:n2	nazwa geograficzna	
+Jeżewo	Jeżewo	subst:sg:nom:n2	nazwa geograficzna	
+Jeżewo	Jeżewo	subst:sg:voc:n2	nazwa geograficzna	
+Jeżewom	Jeżewo	subst:pl:dat:n2	nazwa geograficzna	
+Jeżewu	Jeżewo	subst:sg:dat:n2	nazwa geograficzna	
+Jeżowach	Jeżów	subst:pl:loc:m3	nazwa geograficzna	
+Jeżowa	Jeżów	subst:sg:gen:m3	nazwa geograficzna	
+Jeżowami	Jeżów	subst:pl:inst:m3	nazwa geograficzna	
+Jeżowem	Jeżów	subst:sg:inst:m3	nazwa geograficzna	
+Jeżowie	Jeżów	subst:sg:loc:m3	nazwa geograficzna	
+Jeżowie	Jeżów	subst:sg:voc:m3	nazwa geograficzna	
+Jeżowom	Jeżów	subst:pl:dat:m3	nazwa geograficzna	
+Jeżowowi	Jeżów	subst:sg:dat:m3	nazwa geograficzna	
+Jeżowów	Jeżów	subst:pl:gen:m3	nazwa geograficzna	
+Jeżowu	Jeżów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Jeżowy	Jeżów	subst:pl:acc:m3	nazwa geograficzna	
+Jeżowy	Jeżów	subst:pl:nom:m3	nazwa geograficzna	
+Jeżowy	Jeżów	subst:pl:voc:m3	nazwa geograficzna	
+Jeżów	Jeżów	subst:sg:acc:m3	nazwa geograficzna	
+Jeżów	Jeżów	subst:sg:nom:m3	nazwa geograficzna	
+Jeżycach	Jeżyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
+Jeżycach	Jeżyce	subst:pl:loc:p3	nazwa geograficzna	
+Jeżycami	Jeżyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
+Jeżycami	Jeżyce	subst:pl:inst:p3	nazwa geograficzna	
+Jeżyce	Jeżyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
+Jeżyce	Jeżyce	subst:pl:acc:p3	nazwa geograficzna	
+Jeżyce	Jeżyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
+Jeżyce	Jeżyce	subst:pl:nom:p3	nazwa geograficzna	
+Jeżyce	Jeżyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
+Jeżyce	Jeżyce	subst:pl:voc:p3	nazwa geograficzna	
+Jeżyc	Jeżyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
+Jeżyc	Jeżyce	subst:pl:gen:p3	nazwa geograficzna	
+Jeżycom	Jeżyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
+Jeżycom	Jeżyce	subst:pl:dat:p3	nazwa geograficzna	
 Jędrek	Jędrek	subst:sg:nom:m1	imię	
 Jędrkach	Jędrek	subst:pl:loc:m1	imię	
 Jędrka	Jędrek	subst:sg:acc:m1	imię	
@@ -4287,37 +4332,37 @@ Jędrzejewskimi	Jędrzejewski	subst:pl:inst:m1	nazwisko
 Jędrzejewskim	Jędrzejewski	subst:pl:dat:m1	nazwisko	
 Jędrzejewskim	Jędrzejewski	subst:sg:inst:m1	nazwisko	
 Jędrzejewskim	Jędrzejewski	subst:sg:loc:m1	nazwisko	
-Jędrzejowach	Jędrzejów	subst:pl:loc:m3	geograficzna	
-Jędrzejowa	Jędrzejów	subst:sg:gen:m3	geograficzna	
-Jędrzejowami	Jędrzejów	subst:pl:inst:m3	geograficzna	
-Jędrzejowem	Jędrzejów	subst:sg:inst:m3	geograficzna	
-Jędrzejowie	Jędrzejów	subst:sg:loc:m3	geograficzna	
-Jędrzejowie	Jędrzejów	subst:sg:voc:m3	geograficzna	
-Jędrzejowom	Jędrzejów	subst:pl:dat:m3	geograficzna	
-Jędrzejowowi	Jędrzejów	subst:sg:dat:m3	geograficzna	
-Jędrzejowów	Jędrzejów	subst:pl:gen:m3	geograficzna	
-Jędrzejowu	Jędrzejów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
-Jędrzejowy	Jędrzejów	subst:pl:acc:m3	geograficzna	
-Jędrzejowy	Jędrzejów	subst:pl:nom:m3	geograficzna	
-Jędrzejowy	Jędrzejów	subst:pl:voc:m3	geograficzna	
-Jędrzejów	Jędrzejów	subst:sg:acc:m3	geograficzna	
-Jędrzejów	Jędrzejów	subst:sg:nom:m3	geograficzna	
-Jiangach	Jiang	subst:pl:loc:m1	własna	człon_n._wł.
-Jianga	Jiang	subst:sg:acc:m1	własna	człon_n._wł.
-Jianga	Jiang	subst:sg:gen:m1	własna	człon_n._wł.
-Jiangami	Jiang	subst:pl:inst:m1	własna	człon_n._wł.
-Jiangiem	Jiang	subst:sg:inst:m1	własna	człon_n._wł.
-Jiangi	Jiang	depr:pl:nom:m2	własna	człon_n._wł.
-Jiangi	Jiang	depr:pl:voc:m2	własna	człon_n._wł.
-Jiang	Jiang	subst:sg:nom:m1	własna	człon_n._wł.
-Jiangom	Jiang	subst:pl:dat:m1	własna	człon_n._wł.
-Jiangowie	Jiang	subst:pl:nom:m1	własna	człon_n._wł.
-Jiangowie	Jiang	subst:pl:voc:m1	własna	człon_n._wł.
-Jiangowi	Jiang	subst:sg:dat:m1	własna	człon_n._wł.
-Jiangów	Jiang	subst:pl:acc:m1	własna	człon_n._wł.
-Jiangów	Jiang	subst:pl:gen:m1	własna	człon_n._wł.
-Jiangu	Jiang	subst:sg:loc:m1	własna	człon_n._wł.
-Jiangu	Jiang	subst:sg:voc:m1	własna	człon_n._wł.
+Jędrzejowach	Jędrzejów	subst:pl:loc:m3	nazwa geograficzna	
+Jędrzejowa	Jędrzejów	subst:sg:gen:m3	nazwa geograficzna	
+Jędrzejowami	Jędrzejów	subst:pl:inst:m3	nazwa geograficzna	
+Jędrzejowem	Jędrzejów	subst:sg:inst:m3	nazwa geograficzna	
+Jędrzejowie	Jędrzejów	subst:sg:loc:m3	nazwa geograficzna	
+Jędrzejowie	Jędrzejów	subst:sg:voc:m3	nazwa geograficzna	
+Jędrzejowom	Jędrzejów	subst:pl:dat:m3	nazwa geograficzna	
+Jędrzejowowi	Jędrzejów	subst:sg:dat:m3	nazwa geograficzna	
+Jędrzejowów	Jędrzejów	subst:pl:gen:m3	nazwa geograficzna	
+Jędrzejowu	Jędrzejów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Jędrzejowy	Jędrzejów	subst:pl:acc:m3	nazwa geograficzna	
+Jędrzejowy	Jędrzejów	subst:pl:nom:m3	nazwa geograficzna	
+Jędrzejowy	Jędrzejów	subst:pl:voc:m3	nazwa geograficzna	
+Jędrzejów	Jędrzejów	subst:sg:acc:m3	nazwa geograficzna	
+Jędrzejów	Jędrzejów	subst:sg:nom:m3	nazwa geograficzna	
+Jiangach	Jiang	subst:pl:loc:m1	człon nazwiska	
+Jianga	Jiang	subst:sg:acc:m1	człon nazwiska	
+Jianga	Jiang	subst:sg:gen:m1	człon nazwiska	
+Jiangami	Jiang	subst:pl:inst:m1	człon nazwiska	
+Jiangiem	Jiang	subst:sg:inst:m1	człon nazwiska	
+Jiangi	Jiang	depr:pl:nom:m2	człon nazwiska	
+Jiangi	Jiang	depr:pl:voc:m2	człon nazwiska	
+Jiang	Jiang	subst:sg:nom:m1	człon nazwiska	
+Jiangom	Jiang	subst:pl:dat:m1	człon nazwiska	
+Jiangowie	Jiang	subst:pl:nom:m1	człon nazwiska	
+Jiangowie	Jiang	subst:pl:voc:m1	człon nazwiska	
+Jiangowi	Jiang	subst:sg:dat:m1	człon nazwiska	
+Jiangów	Jiang	subst:pl:acc:m1	człon nazwiska	
+Jiangów	Jiang	subst:pl:gen:m1	człon nazwiska	
+Jiangu	Jiang	subst:sg:loc:m1	człon nazwiska	
+Jiangu	Jiang	subst:sg:voc:m1	człon nazwiska	
 Jimach	Jim	subst:pl:loc:m1	imię	
 Jima	Jim	subst:sg:acc:m1	imię	
 Jima	Jim	subst:sg:gen:m1	imię	
@@ -4626,20 +4671,20 @@ Johannesów	Johannes	subst:pl:acc:m1	imię
 Johannesów	Johannes	subst:pl:gen:m1	imię	
 Johannesy	Johannes	depr:pl:nom:m2	imię	
 Johannesy	Johannes	depr:pl:voc:m2	imię	
-Johannesburgach	Johannesburg	subst:pl:loc:m3	geograficzna	
-Johannesburga	Johannesburg	subst:sg:gen:m3	geograficzna	
-Johannesburgami	Johannesburg	subst:pl:inst:m3	geograficzna	
-Johannesburgiem	Johannesburg	subst:sg:inst:m3	geograficzna	
-Johannesburgi	Johannesburg	subst:pl:acc:m3	geograficzna	
-Johannesburgi	Johannesburg	subst:pl:nom:m3	geograficzna	
-Johannesburgi	Johannesburg	subst:pl:voc:m3	geograficzna	
-Johannesburg	Johannesburg	subst:sg:acc:m3	geograficzna	
-Johannesburg	Johannesburg	subst:sg:nom:m3	geograficzna	
-Johannesburgom	Johannesburg	subst:pl:dat:m3	geograficzna	
-Johannesburgowi	Johannesburg	subst:sg:dat:m3	geograficzna	
-Johannesburgów	Johannesburg	subst:pl:gen:m3	geograficzna	
-Johannesburgu	Johannesburg	subst:sg:loc:m3	geograficzna	
-Johannesburgu	Johannesburg	subst:sg:voc:m3	geograficzna	
+Johannesburgach	Johannesburg	subst:pl:loc:m3	nazwa geograficzna	
+Johannesburga	Johannesburg	subst:sg:gen:m3	nazwa geograficzna	
+Johannesburgami	Johannesburg	subst:pl:inst:m3	nazwa geograficzna	
+Johannesburgiem	Johannesburg	subst:sg:inst:m3	nazwa geograficzna	
+Johannesburgi	Johannesburg	subst:pl:acc:m3	nazwa geograficzna	
+Johannesburgi	Johannesburg	subst:pl:nom:m3	nazwa geograficzna	
+Johannesburgi	Johannesburg	subst:pl:voc:m3	nazwa geograficzna	
+Johannesburg	Johannesburg	subst:sg:acc:m3	nazwa geograficzna	
+Johannesburg	Johannesburg	subst:sg:nom:m3	nazwa geograficzna	
+Johannesburgom	Johannesburg	subst:pl:dat:m3	nazwa geograficzna	
+Johannesburgowi	Johannesburg	subst:sg:dat:m3	nazwa geograficzna	
+Johannesburgów	Johannesburg	subst:pl:gen:m3	nazwa geograficzna	
+Johannesburgu	Johannesburg	subst:sg:loc:m3	nazwa geograficzna	
+Johannesburgu	Johannesburg	subst:sg:voc:m3	nazwa geograficzna	
 Johnach	John	subst:pl:loc:m1	imię|nazwisko	
 Johna	John	subst:sg:acc:m1	imię|nazwisko	
 Johna	John	subst:sg:gen:m1	imię|nazwisko	
@@ -4672,47 +4717,20 @@ Johnsonów	Johnson	subst:pl:acc:m1	nazwisko
 Johnsonów	Johnson	subst:pl:gen:m1	nazwisko	
 Johnsony	Johnson	depr:pl:nom:m2	nazwisko	
 Johnsony	Johnson	depr:pl:voc:m2	nazwisko	
-Jokaiach	Jokai	subst:pl:loc:m1	nazwisko	
-Jokaia	Jokai	subst:sg:acc:m1	nazwisko	
-Jokaia	Jokai	subst:sg:gen:m1	nazwisko	
-Jokaiami	Jokai	subst:pl:inst:m1	nazwisko	
-Jokaich	Jokai	subst:pl:acc:m1	nazwisko	
-Jokaich	Jokai	subst:pl:gen:m1	nazwisko	
-Jokaich	Jokai	subst:pl:loc:m1	nazwisko	
-Jokaiego	Jokai	subst:sg:acc:m1	nazwisko	
-Jokaiego	Jokai	subst:sg:gen:m1	nazwisko	
-Jokaie	Jokai	depr:pl:nom:m2	nazwisko	
-Jokaie	Jokai	depr:pl:voc:m2	nazwisko	
-Jokaiem	Jokai	subst:sg:inst:m1	nazwisko	
-Jokaiemu	Jokai	subst:sg:dat:m1	nazwisko	
-Jokai	Jokai	subst:sg:nom:m1	nazwisko	
-Jokai	Jokai	subst:sg:voc:m1	nazwisko	
-Jokaimi	Jokai	subst:pl:inst:m1	nazwisko	
-Jokaim	Jokai	subst:pl:dat:m1	nazwisko	
-Jokaim	Jokai	subst:sg:inst:m1	nazwisko	
-Jokaim	Jokai	subst:sg:loc:m1	nazwisko	
-Jokaiom	Jokai	subst:pl:dat:m1	nazwisko	
-Jokaiowie	Jokai	subst:pl:nom:m1	nazwisko	
-Jokaiowie	Jokai	subst:pl:voc:m1	nazwisko	
-Jokaiowi	Jokai	subst:sg:dat:m1	nazwisko	
-Jokaiów	Jokai	subst:pl:acc:m1	nazwisko	
-Jokaiów	Jokai	subst:pl:gen:m1	nazwisko	
-Jokaiu	Jokai	subst:sg:loc:m1	nazwisko	
-Jokaiu	Jokai	subst:sg:voc:m1	nazwisko	
-Jokohamach	Jokohama	subst:pl:loc:f	geograficzna	
-Jokohama	Jokohama	subst:sg:nom:f	geograficzna	
-Jokohamami	Jokohama	subst:pl:inst:f	geograficzna	
-Jokohamą	Jokohama	subst:sg:inst:f	geograficzna	
-Jokohamę	Jokohama	subst:sg:acc:f	geograficzna	
-Jokohamie	Jokohama	subst:sg:dat:f	geograficzna	
-Jokohamie	Jokohama	subst:sg:loc:f	geograficzna	
-Jokoham	Jokohama	subst:pl:gen:f	geograficzna	
-Jokohamo	Jokohama	subst:sg:voc:f	geograficzna	
-Jokohamom	Jokohama	subst:pl:dat:f	geograficzna	
-Jokohamy	Jokohama	subst:pl:acc:f	geograficzna	
-Jokohamy	Jokohama	subst:pl:nom:f	geograficzna	
-Jokohamy	Jokohama	subst:pl:voc:f	geograficzna	
-Jokohamy	Jokohama	subst:sg:gen:f	geograficzna	
+Jokohamach	Jokohama	subst:pl:loc:f	nazwa geograficzna	
+Jokohama	Jokohama	subst:sg:nom:f	nazwa geograficzna	
+Jokohamami	Jokohama	subst:pl:inst:f	nazwa geograficzna	
+Jokohamą	Jokohama	subst:sg:inst:f	nazwa geograficzna	
+Jokohamę	Jokohama	subst:sg:acc:f	nazwa geograficzna	
+Jokohamie	Jokohama	subst:sg:dat:f	nazwa geograficzna	
+Jokohamie	Jokohama	subst:sg:loc:f	nazwa geograficzna	
+Jokoham	Jokohama	subst:pl:gen:f	nazwa geograficzna	
+Jokohamo	Jokohama	subst:sg:voc:f	nazwa geograficzna	
+Jokohamom	Jokohama	subst:pl:dat:f	nazwa geograficzna	
+Jokohamy	Jokohama	subst:pl:acc:f	nazwa geograficzna	
+Jokohamy	Jokohama	subst:pl:nom:f	nazwa geograficzna	
+Jokohamy	Jokohama	subst:pl:voc:f	nazwa geograficzna	
+Jokohamy	Jokohama	subst:sg:gen:f	nazwa geograficzna	
 Jolach	Jola	subst:pl:loc:f	imię	
 Jola	Jola	subst:sg:nom:f	imię	
 Jolami	Jola	subst:pl:inst:f	imię	
@@ -4805,37 +4823,37 @@ Jonesów	Jones	subst:pl:acc:m1	nazwisko
 Jonesów	Jones	subst:pl:gen:m1	nazwisko	
 Jonesy	Jones	depr:pl:nom:m2	nazwisko	
 Jonesy	Jones	depr:pl:voc:m2	nazwisko	
-Joniach	Jonia	subst:pl:loc:f	geograficzna	
-Jonia	Jonia	subst:sg:nom:f	geograficzna	
-Joniami	Jonia	subst:pl:inst:f	geograficzna	
-Jonią	Jonia	subst:sg:inst:f	geograficzna	
-Jonie	Jonia	subst:pl:acc:f	geograficzna	
-Jonie	Jonia	subst:pl:nom:f	geograficzna	
-Jonie	Jonia	subst:pl:voc:f	geograficzna	
-Jonię	Jonia	subst:sg:acc:f	geograficzna	
-Jonii	Jonia	subst:pl:gen:f	geograficzna	hom.
-Jonii	Jonia	subst:sg:dat:f	geograficzna	
-Jonii	Jonia	subst:sg:gen:f	geograficzna	
-Jonii	Jonia	subst:sg:loc:f	geograficzna	
-Jonij	Jonia	subst:pl:gen:f	geograficzna	arch.|char.
-Jonio	Jonia	subst:sg:voc:f	geograficzna	
-Joniom	Jonia	subst:pl:dat:f	geograficzna	
-Jonkowach	Jonkowo	subst:pl:loc:n2	geograficzna	
-Jonkowa	Jonkowo	subst:pl:acc:n2	geograficzna	
-Jonkowa	Jonkowo	subst:pl:nom:n2	geograficzna	
-Jonkowa	Jonkowo	subst:pl:voc:n2	geograficzna	
-Jonkowa	Jonkowo	subst:sg:gen:n2	geograficzna	
-Jonkowami	Jonkowo	subst:pl:inst:n2	geograficzna	
-Jonkowem	Jonkowo	subst:sg:inst:n2	geograficzna	
-Jonkowie	Jonkowo	subst:sg:loc:n2	geograficzna	
-Jonkow	Jonkowo	subst:pl:gen:n2	geograficzna	
-Jonkowo	Jonkowo	subst:sg:acc:n2	geograficzna	
-Jonkowo	Jonkowo	subst:sg:nom:n2	geograficzna	
-Jonkowo	Jonkowo	subst:sg:voc:n2	geograficzna	
-Jonkowom	Jonkowo	subst:pl:dat:n2	geograficzna	
-Jonkowów	Jonkowo	subst:pl:gen:n2	geograficzna	
-Jonkowu	Jonkowo	subst:sg:dat:n2	geograficzna	
-Jonków	Jonkowo	subst:pl:gen:n2	geograficzna	
+Joniach	Jonia	subst:pl:loc:f	nazwa geograficzna	
+Jonia	Jonia	subst:sg:nom:f	nazwa geograficzna	
+Joniami	Jonia	subst:pl:inst:f	nazwa geograficzna	
+Jonią	Jonia	subst:sg:inst:f	nazwa geograficzna	
+Jonie	Jonia	subst:pl:acc:f	nazwa geograficzna	
+Jonie	Jonia	subst:pl:nom:f	nazwa geograficzna	
+Jonie	Jonia	subst:pl:voc:f	nazwa geograficzna	
+Jonię	Jonia	subst:sg:acc:f	nazwa geograficzna	
+Jonii	Jonia	subst:pl:gen:f	nazwa geograficzna	hom.
+Jonii	Jonia	subst:sg:dat:f	nazwa geograficzna	
+Jonii	Jonia	subst:sg:gen:f	nazwa geograficzna	
+Jonii	Jonia	subst:sg:loc:f	nazwa geograficzna	
+Jonij	Jonia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+Jonio	Jonia	subst:sg:voc:f	nazwa geograficzna	
+Joniom	Jonia	subst:pl:dat:f	nazwa geograficzna	
+Jonkowach	Jonkowo	subst:pl:loc:n2	nazwa geograficzna	
+Jonkowa	Jonkowo	subst:pl:acc:n2	nazwa geograficzna	
+Jonkowa	Jonkowo	subst:pl:nom:n2	nazwa geograficzna	
+Jonkowa	Jonkowo	subst:pl:voc:n2	nazwa geograficzna	
+Jonkowa	Jonkowo	subst:sg:gen:n2	nazwa geograficzna	
+Jonkowami	Jonkowo	subst:pl:inst:n2	nazwa geograficzna	
+Jonkowem	Jonkowo	subst:sg:inst:n2	nazwa geograficzna	
+Jonkowie	Jonkowo	subst:sg:loc:n2	nazwa geograficzna	
+Jonkow	Jonkowo	subst:pl:gen:n2	nazwa geograficzna	
+Jonkowo	Jonkowo	subst:sg:acc:n2	nazwa geograficzna	
+Jonkowo	Jonkowo	subst:sg:nom:n2	nazwa geograficzna	
+Jonkowo	Jonkowo	subst:sg:voc:n2	nazwa geograficzna	
+Jonkowom	Jonkowo	subst:pl:dat:n2	nazwa geograficzna	
+Jonkowów	Jonkowo	subst:pl:gen:n2	nazwa geograficzna	
+Jonkowu	Jonkowo	subst:sg:dat:n2	nazwa geograficzna	
+Jonków	Jonkowo	subst:pl:gen:n2	nazwa geograficzna	
 Jontek	Jontek	subst:sg:nom:m1	imię	
 Jontkach	Jontek	subst:pl:loc:m1	imię	
 Jontka	Jontek	subst:sg:acc:m1	imię	
@@ -4852,50 +4870,50 @@ Jontków	Jontek	subst:pl:acc:m1	imię
 Jontków	Jontek	subst:pl:gen:m1	imię	
 Jontku	Jontek	subst:sg:loc:m1	imię	
 Jontku	Jontek	subst:sg:voc:m1	imię	
-Jordaniach	Jordania	subst:pl:loc:f	geograficzna	
-Jordania	Jordania	subst:sg:nom:f	geograficzna	
-Jordaniami	Jordania	subst:pl:inst:f	geograficzna	
-Jordanią	Jordania	subst:sg:inst:f	geograficzna	
-Jordanie	Jordania	subst:pl:acc:f	geograficzna	
-Jordanie	Jordania	subst:pl:nom:f	geograficzna	
-Jordanie	Jordania	subst:pl:voc:f	geograficzna	
-Jordanię	Jordania	subst:sg:acc:f	geograficzna	
-Jordanii	Jordania	subst:pl:gen:f	geograficzna	hom.
-Jordanii	Jordania	subst:sg:dat:f	geograficzna	
-Jordanii	Jordania	subst:sg:gen:f	geograficzna	
-Jordanii	Jordania	subst:sg:loc:f	geograficzna	
-Jordanij	Jordania	subst:pl:gen:f	geograficzna	arch.|char.
-Jordanio	Jordania	subst:sg:voc:f	geograficzna	
-Jordaniom	Jordania	subst:pl:dat:f	geograficzna	
-Jordance	Jordanka	subst:sg:dat:f	pospolita	
-Jordance	Jordanka	subst:sg:loc:f	pospolita	
-Jordanek	Jordanka	subst:pl:gen:f	pospolita	
-Jordankach	Jordanka	subst:pl:loc:f	pospolita	
-Jordanka	Jordanka	subst:sg:nom:f	pospolita	
-Jordankami	Jordanka	subst:pl:inst:f	pospolita	
-Jordanką	Jordanka	subst:sg:inst:f	pospolita	
-Jordankę	Jordanka	subst:sg:acc:f	pospolita	
-Jordanki	Jordanka	subst:pl:acc:f	pospolita	
-Jordanki	Jordanka	subst:pl:nom:f	pospolita	
-Jordanki	Jordanka	subst:pl:voc:f	pospolita	
-Jordanki	Jordanka	subst:sg:gen:f	pospolita	
-Jordanko	Jordanka	subst:sg:voc:f	pospolita	
-Jordankom	Jordanka	subst:pl:dat:f	pospolita	
-Jordanowach	Jordanów	subst:pl:loc:m3	geograficzna	
-Jordanowa	Jordanów	subst:sg:gen:m3	geograficzna	
-Jordanowami	Jordanów	subst:pl:inst:m3	geograficzna	
-Jordanowem	Jordanów	subst:sg:inst:m3	geograficzna	
-Jordanowie	Jordanów	subst:sg:loc:m3	geograficzna	
-Jordanowie	Jordanów	subst:sg:voc:m3	geograficzna	
-Jordanowom	Jordanów	subst:pl:dat:m3	geograficzna	
-Jordanowowi	Jordanów	subst:sg:dat:m3	geograficzna	
-Jordanowów	Jordanów	subst:pl:gen:m3	geograficzna	
-Jordanowu	Jordanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
-Jordanowy	Jordanów	subst:pl:acc:m3	geograficzna	
-Jordanowy	Jordanów	subst:pl:nom:m3	geograficzna	
-Jordanowy	Jordanów	subst:pl:voc:m3	geograficzna	
-Jordanów	Jordanów	subst:sg:acc:m3	geograficzna	
-Jordanów	Jordanów	subst:sg:nom:m3	geograficzna	
+Jordaniach	Jordania	subst:pl:loc:f	nazwa geograficzna	
+Jordania	Jordania	subst:sg:nom:f	nazwa geograficzna	
+Jordaniami	Jordania	subst:pl:inst:f	nazwa geograficzna	
+Jordanią	Jordania	subst:sg:inst:f	nazwa geograficzna	
+Jordanie	Jordania	subst:pl:acc:f	nazwa geograficzna	
+Jordanie	Jordania	subst:pl:nom:f	nazwa geograficzna	
+Jordanie	Jordania	subst:pl:voc:f	nazwa geograficzna	
+Jordanię	Jordania	subst:sg:acc:f	nazwa geograficzna	
+Jordanii	Jordania	subst:pl:gen:f	nazwa geograficzna	hom.
+Jordanii	Jordania	subst:sg:dat:f	nazwa geograficzna	
+Jordanii	Jordania	subst:sg:gen:f	nazwa geograficzna	
+Jordanii	Jordania	subst:sg:loc:f	nazwa geograficzna	
+Jordanij	Jordania	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+Jordanio	Jordania	subst:sg:voc:f	nazwa geograficzna	
+Jordaniom	Jordania	subst:pl:dat:f	nazwa geograficzna	
+Jordance	Jordanka	subst:sg:dat:f	nazwa pospolita	
+Jordance	Jordanka	subst:sg:loc:f	nazwa pospolita	
+Jordanek	Jordanka	subst:pl:gen:f	nazwa pospolita	
+Jordankach	Jordanka	subst:pl:loc:f	nazwa pospolita	
+Jordanka	Jordanka	subst:sg:nom:f	nazwa pospolita	
+Jordankami	Jordanka	subst:pl:inst:f	nazwa pospolita	
+Jordanką	Jordanka	subst:sg:inst:f	nazwa pospolita	
+Jordankę	Jordanka	subst:sg:acc:f	nazwa pospolita	
+Jordanki	Jordanka	subst:pl:acc:f	nazwa pospolita	
+Jordanki	Jordanka	subst:pl:nom:f	nazwa pospolita	
+Jordanki	Jordanka	subst:pl:voc:f	nazwa pospolita	
+Jordanki	Jordanka	subst:sg:gen:f	nazwa pospolita	
+Jordanko	Jordanka	subst:sg:voc:f	nazwa pospolita	
+Jordankom	Jordanka	subst:pl:dat:f	nazwa pospolita	
+Jordanowach	Jordanów	subst:pl:loc:m3	nazwa geograficzna	
+Jordanowa	Jordanów	subst:sg:gen:m3	nazwa geograficzna	
+Jordanowami	Jordanów	subst:pl:inst:m3	nazwa geograficzna	
+Jordanowem	Jordanów	subst:sg:inst:m3	nazwa geograficzna	
+Jordanowie	Jordanów	subst:sg:loc:m3	nazwa geograficzna	
+Jordanowie	Jordanów	subst:sg:voc:m3	nazwa geograficzna	
+Jordanowom	Jordanów	subst:pl:dat:m3	nazwa geograficzna	
+Jordanowowi	Jordanów	subst:sg:dat:m3	nazwa geograficzna	
+Jordanowów	Jordanów	subst:pl:gen:m3	nazwa geograficzna	
+Jordanowu	Jordanów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Jordanowy	Jordanów	subst:pl:acc:m3	nazwa geograficzna	
+Jordanowy	Jordanów	subst:pl:nom:m3	nazwa geograficzna	
+Jordanowy	Jordanów	subst:pl:voc:m3	nazwa geograficzna	
+Jordanów	Jordanów	subst:sg:acc:m3	nazwa geograficzna	
+Jordanów	Jordanów	subst:sg:nom:m3	nazwa geograficzna	
 Jordanach	Jordan:s1	subst:pl:loc:m1	imię	
 Jordana	Jordan:s1	subst:sg:acc:m1	imię	
 Jordana	Jordan:s1	subst:sg:gen:m1	imię	
@@ -4912,20 +4930,20 @@ Jordanów	Jordan:s1	subst:pl:acc:m1	imię
 Jordanów	Jordan:s1	subst:pl:gen:m1	imię	
 Jordany	Jordan:s1	depr:pl:nom:m2	imię	
 Jordany	Jordan:s1	depr:pl:voc:m2	imię	
-Jordanach	Jordan:s2	subst:pl:loc:m3	geograficzna	
-Jordanami	Jordan:s2	subst:pl:inst:m3	geograficzna	
-Jordanem	Jordan:s2	subst:sg:inst:m3	geograficzna	
-Jordanie	Jordan:s2	subst:sg:loc:m3	geograficzna	
-Jordanie	Jordan:s2	subst:sg:voc:m3	geograficzna	
-Jordan	Jordan:s2	subst:sg:acc:m3	geograficzna	
-Jordan	Jordan:s2	subst:sg:nom:m3	geograficzna	
-Jordanom	Jordan:s2	subst:pl:dat:m3	geograficzna	
-Jordanowi	Jordan:s2	subst:sg:dat:m3	geograficzna	
-Jordanów	Jordan:s2	subst:pl:gen:m3	geograficzna	
-Jordanu	Jordan:s2	subst:sg:gen:m3	geograficzna	
-Jordany	Jordan:s2	subst:pl:acc:m3	geograficzna	
-Jordany	Jordan:s2	subst:pl:nom:m3	geograficzna	
-Jordany	Jordan:s2	subst:pl:voc:m3	geograficzna	
+Jordanach	Jordan:s2	subst:pl:loc:m3	nazwa geograficzna	
+Jordanami	Jordan:s2	subst:pl:inst:m3	nazwa geograficzna	
+Jordanem	Jordan:s2	subst:sg:inst:m3	nazwa geograficzna	
+Jordanie	Jordan:s2	subst:sg:loc:m3	nazwa geograficzna	
+Jordanie	Jordan:s2	subst:sg:voc:m3	nazwa geograficzna	
+Jordan	Jordan:s2	subst:sg:acc:m3	nazwa geograficzna	
+Jordan	Jordan:s2	subst:sg:nom:m3	nazwa geograficzna	
+Jordanom	Jordan:s2	subst:pl:dat:m3	nazwa geograficzna	
+Jordanowi	Jordan:s2	subst:sg:dat:m3	nazwa geograficzna	
+Jordanów	Jordan:s2	subst:pl:gen:m3	nazwa geograficzna	
+Jordanu	Jordan:s2	subst:sg:gen:m3	nazwa geograficzna	
+Jordany	Jordan:s2	subst:pl:acc:m3	nazwa geograficzna	
+Jordany	Jordan:s2	subst:pl:nom:m3	nazwa geograficzna	
+Jordany	Jordan:s2	subst:pl:voc:m3	nazwa geograficzna	
 Jordanach	Jordan:s3	subst:pl:loc:m1	nazwisko	
 Jordana	Jordan:s3	subst:sg:acc:m1	nazwisko	
 Jordana	Jordan:s3	subst:sg:gen:m1	nazwisko	
@@ -4958,50 +4976,50 @@ Jordanów	Jordan:s4	subst:pl:acc:m1	nazwisko
 Jordanów	Jordan:s4	subst:pl:gen:m1	nazwisko	
 Jordany	Jordan:s4	depr:pl:nom:m2	nazwisko	
 Jordany	Jordan:s4	depr:pl:voc:m2	nazwisko	
-Jordańczycy	Jordańczyk	subst:pl:nom:m1	pospolita	
-Jordańczycy	Jordańczyk	subst:pl:voc:m1	pospolita	
-Jordańczykach	Jordańczyk	subst:pl:loc:m1	pospolita	
-Jordańczyka	Jordańczyk	subst:sg:acc:m1	pospolita	
-Jordańczyka	Jordańczyk	subst:sg:gen:m1	pospolita	
-Jordańczykami	Jordańczyk	subst:pl:inst:m1	pospolita	
-Jordańczykiem	Jordańczyk	subst:sg:inst:m1	pospolita	
-Jordańczyki	Jordańczyk	depr:pl:nom:m2	pospolita	
-Jordańczyki	Jordańczyk	depr:pl:voc:m2	pospolita	
-Jordańczyk	Jordańczyk	subst:sg:nom:m1	pospolita	
-Jordańczykom	Jordańczyk	subst:pl:dat:m1	pospolita	
-Jordańczykowi	Jordańczyk	subst:sg:dat:m1	pospolita	
-Jordańczyków	Jordańczyk	subst:pl:acc:m1	pospolita	
-Jordańczyków	Jordańczyk	subst:pl:gen:m1	pospolita	
-Jordańczyku	Jordańczyk	subst:sg:loc:m1	pospolita	
-Jordańczyku	Jordańczyk	subst:sg:voc:m1	pospolita	
-Jorkach	Jork	subst:pl:loc:m3	geograficzna	
-Jorkami	Jork	subst:pl:inst:m3	geograficzna	
-Jorkiem	Jork	subst:sg:inst:m3	geograficzna	
-Jorki	Jork	subst:pl:acc:m3	geograficzna	
-Jorki	Jork	subst:pl:nom:m3	geograficzna	
-Jorki	Jork	subst:pl:voc:m3	geograficzna	
-Jork	Jork	subst:sg:acc:m3	geograficzna	
-Jork	Jork	subst:sg:nom:m3	geograficzna	
-Jorkom	Jork	subst:pl:dat:m3	geograficzna	
-Jorkowi	Jork	subst:sg:dat:m3	geograficzna	
-Jorków	Jork	subst:pl:gen:m3	geograficzna	
-Jorku	Jork	subst:sg:gen:m3	geograficzna	
-Jorku	Jork	subst:sg:loc:m3	geograficzna	
-Jorku	Jork	subst:sg:voc:m3	geograficzna	
-Jorubach	Joruba	subst:pl:loc:f	geograficzna	
-Joruba	Joruba	subst:sg:nom:f	geograficzna	
-Jorubami	Joruba	subst:pl:inst:f	geograficzna	
-Jorubą	Joruba	subst:sg:inst:f	geograficzna	
-Jorubę	Joruba	subst:sg:acc:f	geograficzna	
-Jorubie	Joruba	subst:sg:dat:f	geograficzna	
-Jorubie	Joruba	subst:sg:loc:f	geograficzna	
-Jorub	Joruba	subst:pl:gen:f	geograficzna	
-Jorubo	Joruba	subst:sg:voc:f	geograficzna	
-Jorubom	Joruba	subst:pl:dat:f	geograficzna	
-Joruby	Joruba	subst:pl:acc:f	geograficzna	
-Joruby	Joruba	subst:pl:nom:f	geograficzna	
-Joruby	Joruba	subst:pl:voc:f	geograficzna	
-Joruby	Joruba	subst:sg:gen:f	geograficzna	
+Jordańczycy	Jordańczyk	subst:pl:nom:m1	nazwa pospolita	
+Jordańczycy	Jordańczyk	subst:pl:voc:m1	nazwa pospolita	
+Jordańczykach	Jordańczyk	subst:pl:loc:m1	nazwa pospolita	
+Jordańczyka	Jordańczyk	subst:sg:acc:m1	nazwa pospolita	
+Jordańczyka	Jordańczyk	subst:sg:gen:m1	nazwa pospolita	
+Jordańczykami	Jordańczyk	subst:pl:inst:m1	nazwa pospolita	
+Jordańczykiem	Jordańczyk	subst:sg:inst:m1	nazwa pospolita	
+Jordańczyki	Jordańczyk	depr:pl:nom:m2	nazwa pospolita	
+Jordańczyki	Jordańczyk	depr:pl:voc:m2	nazwa pospolita	
+Jordańczyk	Jordańczyk	subst:sg:nom:m1	nazwa pospolita	
+Jordańczykom	Jordańczyk	subst:pl:dat:m1	nazwa pospolita	
+Jordańczykowi	Jordańczyk	subst:sg:dat:m1	nazwa pospolita	
+Jordańczyków	Jordańczyk	subst:pl:acc:m1	nazwa pospolita	
+Jordańczyków	Jordańczyk	subst:pl:gen:m1	nazwa pospolita	
+Jordańczyku	Jordańczyk	subst:sg:loc:m1	nazwa pospolita	
+Jordańczyku	Jordańczyk	subst:sg:voc:m1	nazwa pospolita	
+Jorkach	Jork	subst:pl:loc:m3	nazwa geograficzna	
+Jorkami	Jork	subst:pl:inst:m3	nazwa geograficzna	
+Jorkiem	Jork	subst:sg:inst:m3	nazwa geograficzna	
+Jorki	Jork	subst:pl:acc:m3	nazwa geograficzna	
+Jorki	Jork	subst:pl:nom:m3	nazwa geograficzna	
+Jorki	Jork	subst:pl:voc:m3	nazwa geograficzna	
+Jork	Jork	subst:sg:acc:m3	nazwa geograficzna	
+Jork	Jork	subst:sg:nom:m3	nazwa geograficzna	
+Jorkom	Jork	subst:pl:dat:m3	nazwa geograficzna	
+Jorkowi	Jork	subst:sg:dat:m3	nazwa geograficzna	
+Jorków	Jork	subst:pl:gen:m3	nazwa geograficzna	
+Jorku	Jork	subst:sg:gen:m3	nazwa geograficzna	
+Jorku	Jork	subst:sg:loc:m3	nazwa geograficzna	
+Jorku	Jork	subst:sg:voc:m3	nazwa geograficzna	
+Jorubach	Joruba	subst:pl:loc:f	nazwa geograficzna	
+Joruba	Joruba	subst:sg:nom:f	nazwa geograficzna	
+Jorubami	Joruba	subst:pl:inst:f	nazwa geograficzna	
+Jorubą	Joruba	subst:sg:inst:f	nazwa geograficzna	
+Jorubę	Joruba	subst:sg:acc:f	nazwa geograficzna	
+Jorubie	Joruba	subst:sg:dat:f	nazwa geograficzna	
+Jorubie	Joruba	subst:sg:loc:f	nazwa geograficzna	
+Jorub	Joruba	subst:pl:gen:f	nazwa geograficzna	
+Jorubo	Joruba	subst:sg:voc:f	nazwa geograficzna	
+Jorubom	Joruba	subst:pl:dat:f	nazwa geograficzna	
+Joruby	Joruba	subst:pl:acc:f	nazwa geograficzna	
+Joruby	Joruba	subst:pl:nom:f	nazwa geograficzna	
+Joruby	Joruba	subst:pl:voc:f	nazwa geograficzna	
+Joruby	Joruba	subst:sg:gen:f	nazwa geograficzna	
 Jose	Jose	depr:pl:nom:m2	imię	
 Jose	Jose	depr:pl:voc:m2	imię	
 Jose	Jose	subst:pl:acc:m1	imię	
@@ -5118,21 +5136,21 @@ Joule’ów	Joule	subst:pl:acc:m1	nazwisko
 Joule’ów	Joule	subst:pl:gen:m1	nazwisko	
 Joule’u	Joule	subst:sg:loc:m1	nazwisko	
 Joule’u	Joule	subst:sg:voc:m1	nazwisko	
-Jowiszach	Jowisz:s1	subst:pl:loc:m2	astr.	
-Jowisza	Jowisz:s1	subst:sg:acc:m2	astr.	
-Jowisza	Jowisz:s1	subst:sg:gen:m2	astr.	
-Jowiszami	Jowisz:s1	subst:pl:inst:m2	astr.	
-Jowisze	Jowisz:s1	subst:pl:acc:m2	astr.	
-Jowisze	Jowisz:s1	subst:pl:nom:m2	astr.	
-Jowisze	Jowisz:s1	subst:pl:voc:m2	astr.	
-Jowiszem	Jowisz:s1	subst:sg:inst:m2	astr.	
-Jowisz	Jowisz:s1	subst:sg:nom:m2	astr.	
-Jowiszom	Jowisz:s1	subst:pl:dat:m2	astr.	
-Jowiszowi	Jowisz:s1	subst:sg:dat:m2	astr.	
-Jowiszów	Jowisz:s1	subst:pl:gen:m2	astr.	
-Jowiszu	Jowisz:s1	subst:sg:loc:m2	astr.	
-Jowiszu	Jowisz:s1	subst:sg:voc:m2	astr.	
-Jowiszy	Jowisz:s1	subst:pl:gen:m2	astr.	
+Jowiszach	Jowisz:s1	subst:pl:loc:m2	nazwa własna astronomiczna	
+Jowisza	Jowisz:s1	subst:sg:acc:m2	nazwa własna astronomiczna	
+Jowisza	Jowisz:s1	subst:sg:gen:m2	nazwa własna astronomiczna	
+Jowiszami	Jowisz:s1	subst:pl:inst:m2	nazwa własna astronomiczna	
+Jowisze	Jowisz:s1	subst:pl:acc:m2	nazwa własna astronomiczna	
+Jowisze	Jowisz:s1	subst:pl:nom:m2	nazwa własna astronomiczna	
+Jowisze	Jowisz:s1	subst:pl:voc:m2	nazwa własna astronomiczna	
+Jowiszem	Jowisz:s1	subst:sg:inst:m2	nazwa własna astronomiczna	
+Jowisz	Jowisz:s1	subst:sg:nom:m2	nazwa własna astronomiczna	
+Jowiszom	Jowisz:s1	subst:pl:dat:m2	nazwa własna astronomiczna	
+Jowiszowi	Jowisz:s1	subst:sg:dat:m2	nazwa własna astronomiczna	
+Jowiszów	Jowisz:s1	subst:pl:gen:m2	nazwa własna astronomiczna	
+Jowiszu	Jowisz:s1	subst:sg:loc:m2	nazwa własna astronomiczna	
+Jowiszu	Jowisz:s1	subst:sg:voc:m2	nazwa własna astronomiczna	
+Jowiszy	Jowisz:s1	subst:pl:gen:m2	nazwa własna astronomiczna	
 Jowiszach	Jowisz:s2	subst:pl:loc:m1	imię	mit.
 Jowisza	Jowisz:s2	subst:sg:acc:m1	imię	mit.
 Jowisza	Jowisz:s2	subst:sg:gen:m1	imię	mit.
@@ -5229,6 +5247,33 @@ Jozuowie	Jozue	subst:pl:nom:m1	imię
 Jozuowie	Jozue	subst:pl:voc:m1	imię	
 Jozuów	Jozue	subst:pl:acc:m1	imię	
 Jozuów	Jozue	subst:pl:gen:m1	imię	
+Jókaiach	Jókai	subst:pl:loc:m1	nazwisko	
+Jókaia	Jókai	subst:sg:acc:m1	nazwisko	
+Jókaia	Jókai	subst:sg:gen:m1	nazwisko	
+Jókaiami	Jókai	subst:pl:inst:m1	nazwisko	
+Jókaich	Jókai	subst:pl:acc:m1	nazwisko	
+Jókaich	Jókai	subst:pl:gen:m1	nazwisko	
+Jókaich	Jókai	subst:pl:loc:m1	nazwisko	
+Jókaiego	Jókai	subst:sg:acc:m1	nazwisko	
+Jókaiego	Jókai	subst:sg:gen:m1	nazwisko	
+Jókaie	Jókai	depr:pl:nom:m2	nazwisko	
+Jókaie	Jókai	depr:pl:voc:m2	nazwisko	
+Jókaiem	Jókai	subst:sg:inst:m1	nazwisko	
+Jókaiemu	Jókai	subst:sg:dat:m1	nazwisko	
+Jókai	Jókai	subst:sg:nom:m1	nazwisko	
+Jókai	Jókai	subst:sg:voc:m1	nazwisko	
+Jókaimi	Jókai	subst:pl:inst:m1	nazwisko	
+Jókaim	Jókai	subst:pl:dat:m1	nazwisko	
+Jókaim	Jókai	subst:sg:inst:m1	nazwisko	
+Jókaim	Jókai	subst:sg:loc:m1	nazwisko	
+Jókaiom	Jókai	subst:pl:dat:m1	nazwisko	
+Jókaiowie	Jókai	subst:pl:nom:m1	nazwisko	
+Jókaiowie	Jókai	subst:pl:voc:m1	nazwisko	
+Jókaiowi	Jókai	subst:sg:dat:m1	nazwisko	
+Jókaiów	Jókai	subst:pl:acc:m1	nazwisko	
+Jókaiów	Jókai	subst:pl:gen:m1	nazwisko	
+Jókaiu	Jókai	subst:sg:loc:m1	nazwisko	
+Jókaiu	Jókai	subst:sg:voc:m1	nazwisko	
 Józafacie	Józafat	subst:sg:loc:m1	imię	
 Józafacie	Józafat	subst:sg:voc:m1	imię	
 Józafaci	Józafat	subst:pl:nom:m1	imię	
@@ -5323,21 +5368,21 @@ Józefiny	Józefina	subst:pl:acc:f	imię
 Józefiny	Józefina	subst:pl:nom:f	imię	
 Józefiny	Józefina	subst:pl:voc:f	imię	
 Józefiny	Józefina	subst:sg:gen:f	imię	
-Józefowach	Józefów	subst:pl:loc:m3	geograficzna	
-Józefowa	Józefów	subst:sg:gen:m3	geograficzna	
-Józefowami	Józefów	subst:pl:inst:m3	geograficzna	
-Józefowem	Józefów	subst:sg:inst:m3	geograficzna	
-Józefowie	Józefów	subst:sg:loc:m3	geograficzna	
-Józefowie	Józefów	subst:sg:voc:m3	geograficzna	
-Józefowom	Józefów	subst:pl:dat:m3	geograficzna	
-Józefowowi	Józefów	subst:sg:dat:m3	geograficzna	
-Józefowów	Józefów	subst:pl:gen:m3	geograficzna	
-Józefowu	Józefów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
-Józefowy	Józefów	subst:pl:acc:m3	geograficzna	
-Józefowy	Józefów	subst:pl:nom:m3	geograficzna	
-Józefowy	Józefów	subst:pl:voc:m3	geograficzna	
-Józefów	Józefów	subst:sg:acc:m3	geograficzna	
-Józefów	Józefów	subst:sg:nom:m3	geograficzna	
+Józefowach	Józefów	subst:pl:loc:m3	nazwa geograficzna	
+Józefowa	Józefów	subst:sg:gen:m3	nazwa geograficzna	
+Józefowami	Józefów	subst:pl:inst:m3	nazwa geograficzna	
+Józefowem	Józefów	subst:sg:inst:m3	nazwa geograficzna	
+Józefowie	Józefów	subst:sg:loc:m3	nazwa geograficzna	
+Józefowie	Józefów	subst:sg:voc:m3	nazwa geograficzna	
+Józefowom	Józefów	subst:pl:dat:m3	nazwa geograficzna	
+Józefowowi	Józefów	subst:sg:dat:m3	nazwa geograficzna	
+Józefowów	Józefów	subst:pl:gen:m3	nazwa geograficzna	
+Józefowu	Józefów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Józefowy	Józefów	subst:pl:acc:m3	nazwa geograficzna	
+Józefowy	Józefów	subst:pl:nom:m3	nazwa geograficzna	
+Józefowy	Józefów	subst:pl:voc:m3	nazwa geograficzna	
+Józefów	Józefów	subst:sg:acc:m3	nazwa geograficzna	
+Józefów	Józefów	subst:sg:nom:m3	nazwa geograficzna	
 Józek	Józek	subst:sg:nom:m1	imię	
 Józkach	Józek	subst:pl:loc:m1	imię	
 Józka	Józek	subst:sg:acc:m1	imię	
@@ -5529,20 +5574,20 @@ Judy	Juda	depr:pl:voc:m2	imię
 Judy	Juda	subst:sg:gen:m1	imię	
 Judzie	Juda	subst:sg:dat:m1	imię	
 Judzie	Juda	subst:sg:loc:m1	imię	
-Judeach	Judea	subst:pl:loc:f	geograficzna	
-Judea	Judea	subst:sg:nom:f	geograficzna	
-Judeami	Judea	subst:pl:inst:f	geograficzna	
-Judeą	Judea	subst:sg:inst:f	geograficzna	
-Judee	Judea	subst:pl:acc:f	geograficzna	
-Judee	Judea	subst:pl:nom:f	geograficzna	
-Judee	Judea	subst:pl:voc:f	geograficzna	
-Judeę	Judea	subst:sg:acc:f	geograficzna	
-Judei	Judea	subst:pl:gen:f	geograficzna	
-Judei	Judea	subst:sg:dat:f	geograficzna	
-Judei	Judea	subst:sg:gen:f	geograficzna	
-Judei	Judea	subst:sg:loc:f	geograficzna	
-Judeo	Judea	subst:sg:voc:f	geograficzna	
-Judeom	Judea	subst:pl:dat:f	geograficzna	
+Judeach	Judea	subst:pl:loc:f	nazwa geograficzna	
+Judea	Judea	subst:sg:nom:f	nazwa geograficzna	
+Judeami	Judea	subst:pl:inst:f	nazwa geograficzna	
+Judeą	Judea	subst:sg:inst:f	nazwa geograficzna	
+Judee	Judea	subst:pl:acc:f	nazwa geograficzna	
+Judee	Judea	subst:pl:nom:f	nazwa geograficzna	
+Judee	Judea	subst:pl:voc:f	nazwa geograficzna	
+Judeę	Judea	subst:sg:acc:f	nazwa geograficzna	
+Judei	Judea	subst:pl:gen:f	nazwa geograficzna	
+Judei	Judea	subst:sg:dat:f	nazwa geograficzna	
+Judei	Judea	subst:sg:gen:f	nazwa geograficzna	
+Judei	Judea	subst:sg:loc:f	nazwa geograficzna	
+Judeo	Judea	subst:sg:voc:f	nazwa geograficzna	
+Judeom	Judea	subst:pl:dat:f	nazwa geograficzna	
 Judycie	Judyta	subst:sg:dat:f	imię	
 Judycie	Judyta	subst:sg:loc:f	imię	
 Judytach	Judyta	subst:pl:loc:f	imię	
@@ -5571,111 +5616,111 @@ Judytki	Judytka	subst:pl:voc:f	imię
 Judytki	Judytka	subst:sg:gen:f	imię	
 Judytko	Judytka	subst:sg:voc:f	imię	
 Judytkom	Judytka	subst:pl:dat:f	imię	
-Jugolach	Jugol	subst:pl:loc:m1	pospolita	
-Jugola	Jugol	subst:sg:acc:m1	pospolita	
-Jugola	Jugol	subst:sg:gen:m1	pospolita	
-Jugolami	Jugol	subst:pl:inst:m1	pospolita	
-Jugole	Jugol	depr:pl:nom:m2	pospolita	
-Jugole	Jugol	depr:pl:voc:m2	pospolita	
-Jugole	Jugol	subst:pl:nom:m1	pospolita	
-Jugole	Jugol	subst:pl:voc:m1	pospolita	
-Jugolem	Jugol	subst:sg:inst:m1	pospolita	
-Jugol	Jugol	subst:sg:nom:m1	pospolita	
-Jugolom	Jugol	subst:pl:dat:m1	pospolita	
-Jugolowi	Jugol	subst:sg:dat:m1	pospolita	
-Jugolów	Jugol	subst:pl:acc:m1	pospolita	
-Jugolów	Jugol	subst:pl:gen:m1	pospolita	
-Jugolu	Jugol	subst:sg:loc:m1	pospolita	
-Jugolu	Jugol	subst:sg:voc:m1	pospolita	
-Jugosławiach	Jugosławia	subst:pl:loc:f	geograficzna	
-Jugosławia	Jugosławia	subst:sg:nom:f	geograficzna	
-Jugosławiami	Jugosławia	subst:pl:inst:f	geograficzna	
-Jugosławią	Jugosławia	subst:sg:inst:f	geograficzna	
-Jugosławie	Jugosławia	subst:pl:acc:f	geograficzna	
-Jugosławie	Jugosławia	subst:pl:nom:f	geograficzna	
-Jugosławie	Jugosławia	subst:pl:voc:f	geograficzna	
-Jugosławię	Jugosławia	subst:sg:acc:f	geograficzna	
-Jugosławii	Jugosławia	subst:pl:gen:f	geograficzna	hom.
-Jugosławii	Jugosławia	subst:sg:dat:f	geograficzna	
-Jugosławii	Jugosławia	subst:sg:gen:f	geograficzna	
-Jugosławii	Jugosławia	subst:sg:loc:f	geograficzna	
-Jugosławij	Jugosławia	subst:pl:gen:f	geograficzna	arch.|char.
-Jugosławio	Jugosławia	subst:sg:voc:f	geograficzna	
-Jugosławiom	Jugosławia	subst:pl:dat:f	geograficzna	
-Jugosłowianach	Jugosłowianin	subst:pl:loc:m1	pospolita	
-Jugosłowianami	Jugosłowianin	subst:pl:inst:m1	pospolita	
-Jugosłowianie	Jugosłowianin	subst:pl:nom:m1	pospolita	
-Jugosłowianie	Jugosłowianin	subst:pl:voc:m1	pospolita	
-Jugosłowianina	Jugosłowianin	subst:sg:acc:m1	pospolita	
-Jugosłowianina	Jugosłowianin	subst:sg:gen:m1	pospolita	
-Jugosłowianinem	Jugosłowianin	subst:sg:inst:m1	pospolita	
-Jugosłowianinie	Jugosłowianin	subst:sg:loc:m1	pospolita	
-Jugosłowianinie	Jugosłowianin	subst:sg:voc:m1	pospolita	
-Jugosłowianin	Jugosłowianin	subst:sg:nom:m1	pospolita	
-Jugosłowianinowi	Jugosłowianin	subst:sg:dat:m1	pospolita	
-Jugosłowian	Jugosłowianin	subst:pl:acc:m1	pospolita	
-Jugosłowian	Jugosłowianin	subst:pl:gen:m1	pospolita	
-Jugosłowianom	Jugosłowianin	subst:pl:dat:m1	pospolita	
-Jugosłowiany	Jugosłowianin	depr:pl:nom:m2	pospolita	
-Jugosłowiany	Jugosłowianin	depr:pl:voc:m2	pospolita	
-Jugosłowiance	Jugosłowianka	subst:sg:dat:f	pospolita	
-Jugosłowiance	Jugosłowianka	subst:sg:loc:f	pospolita	
-Jugosłowianek	Jugosłowianka	subst:pl:gen:f	pospolita	
-Jugosłowiankach	Jugosłowianka	subst:pl:loc:f	pospolita	
-Jugosłowianka	Jugosłowianka	subst:sg:nom:f	pospolita	
-Jugosłowiankami	Jugosłowianka	subst:pl:inst:f	pospolita	
-Jugosłowianką	Jugosłowianka	subst:sg:inst:f	pospolita	
-Jugosłowiankę	Jugosłowianka	subst:sg:acc:f	pospolita	
-Jugosłowianki	Jugosłowianka	subst:pl:acc:f	pospolita	
-Jugosłowianki	Jugosłowianka	subst:pl:nom:f	pospolita	
-Jugosłowianki	Jugosłowianka	subst:pl:voc:f	pospolita	
-Jugosłowianki	Jugosłowianka	subst:sg:gen:f	pospolita	
-Jugosłowianko	Jugosłowianka	subst:sg:voc:f	pospolita	
-Jugosłowiankom	Jugosłowianka	subst:pl:dat:f	pospolita	
-Jukagirach	Jukagir	subst:pl:loc:m1	pospolita	
-Jukagira	Jukagir	subst:sg:acc:m1	pospolita	
-Jukagira	Jukagir	subst:sg:gen:m1	pospolita	
-Jukagirami	Jukagir	subst:pl:inst:m1	pospolita	
-Jukagirem	Jukagir	subst:sg:inst:m1	pospolita	
-Jukagir	Jukagir	subst:sg:nom:m1	pospolita	
-Jukagirom	Jukagir	subst:pl:dat:m1	pospolita	
-Jukagirowie	Jukagir	subst:pl:nom:m1	pospolita	
-Jukagirowie	Jukagir	subst:pl:voc:m1	pospolita	
-Jukagirowi	Jukagir	subst:sg:dat:m1	pospolita	
-Jukagirów	Jukagir	subst:pl:acc:m1	pospolita	
-Jukagirów	Jukagir	subst:pl:gen:m1	pospolita	
-Jukagiry	Jukagir	depr:pl:nom:m2	pospolita	
-Jukagiry	Jukagir	depr:pl:voc:m2	pospolita	
-Jukagirze	Jukagir	subst:sg:loc:m1	pospolita	
-Jukagirze	Jukagir	subst:sg:voc:m1	pospolita	
-Jukagirce	Jukagirka	subst:sg:dat:f	pospolita	
-Jukagirce	Jukagirka	subst:sg:loc:f	pospolita	
-Jukagirek	Jukagirka	subst:pl:gen:f	pospolita	
-Jukagirkach	Jukagirka	subst:pl:loc:f	pospolita	
-Jukagirka	Jukagirka	subst:sg:nom:f	pospolita	
-Jukagirkami	Jukagirka	subst:pl:inst:f	pospolita	
-Jukagirką	Jukagirka	subst:sg:inst:f	pospolita	
-Jukagirkę	Jukagirka	subst:sg:acc:f	pospolita	
-Jukagirki	Jukagirka	subst:pl:acc:f	pospolita	
-Jukagirki	Jukagirka	subst:pl:nom:f	pospolita	
-Jukagirki	Jukagirka	subst:pl:voc:f	pospolita	
-Jukagirki	Jukagirka	subst:sg:gen:f	pospolita	
-Jukagirko	Jukagirka	subst:sg:voc:f	pospolita	
-Jukagirkom	Jukagirka	subst:pl:dat:f	pospolita	
-Jukatanach	Jukatan	subst:pl:loc:m3	geograficzna	
-Jukatanami	Jukatan	subst:pl:inst:m3	geograficzna	
-Jukatanem	Jukatan	subst:sg:inst:m3	geograficzna	
-Jukatanie	Jukatan	subst:sg:loc:m3	geograficzna	
-Jukatanie	Jukatan	subst:sg:voc:m3	geograficzna	
-Jukatan	Jukatan	subst:sg:acc:m3	geograficzna	
-Jukatan	Jukatan	subst:sg:nom:m3	geograficzna	
-Jukatanom	Jukatan	subst:pl:dat:m3	geograficzna	
-Jukatanowi	Jukatan	subst:sg:dat:m3	geograficzna	
-Jukatanów	Jukatan	subst:pl:gen:m3	geograficzna	
-Jukatanu	Jukatan	subst:sg:gen:m3	geograficzna	
-Jukatany	Jukatan	subst:pl:acc:m3	geograficzna	
-Jukatany	Jukatan	subst:pl:nom:m3	geograficzna	
-Jukatany	Jukatan	subst:pl:voc:m3	geograficzna	
+Jugolach	Jugol	subst:pl:loc:m1	nazwa pospolita	
+Jugola	Jugol	subst:sg:acc:m1	nazwa pospolita	
+Jugola	Jugol	subst:sg:gen:m1	nazwa pospolita	
+Jugolami	Jugol	subst:pl:inst:m1	nazwa pospolita	
+Jugole	Jugol	depr:pl:nom:m2	nazwa pospolita	
+Jugole	Jugol	depr:pl:voc:m2	nazwa pospolita	
+Jugole	Jugol	subst:pl:nom:m1	nazwa pospolita	
+Jugole	Jugol	subst:pl:voc:m1	nazwa pospolita	
+Jugolem	Jugol	subst:sg:inst:m1	nazwa pospolita	
+Jugol	Jugol	subst:sg:nom:m1	nazwa pospolita	
+Jugolom	Jugol	subst:pl:dat:m1	nazwa pospolita	
+Jugolowi	Jugol	subst:sg:dat:m1	nazwa pospolita	
+Jugolów	Jugol	subst:pl:acc:m1	nazwa pospolita	
+Jugolów	Jugol	subst:pl:gen:m1	nazwa pospolita	
+Jugolu	Jugol	subst:sg:loc:m1	nazwa pospolita	
+Jugolu	Jugol	subst:sg:voc:m1	nazwa pospolita	
+Jugosławiach	Jugosławia	subst:pl:loc:f	nazwa geograficzna	
+Jugosławia	Jugosławia	subst:sg:nom:f	nazwa geograficzna	
+Jugosławiami	Jugosławia	subst:pl:inst:f	nazwa geograficzna	
+Jugosławią	Jugosławia	subst:sg:inst:f	nazwa geograficzna	
+Jugosławie	Jugosławia	subst:pl:acc:f	nazwa geograficzna	
+Jugosławie	Jugosławia	subst:pl:nom:f	nazwa geograficzna	
+Jugosławie	Jugosławia	subst:pl:voc:f	nazwa geograficzna	
+Jugosławię	Jugosławia	subst:sg:acc:f	nazwa geograficzna	
+Jugosławii	Jugosławia	subst:pl:gen:f	nazwa geograficzna	hom.
+Jugosławii	Jugosławia	subst:sg:dat:f	nazwa geograficzna	
+Jugosławii	Jugosławia	subst:sg:gen:f	nazwa geograficzna	
+Jugosławii	Jugosławia	subst:sg:loc:f	nazwa geograficzna	
+Jugosławij	Jugosławia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+Jugosławio	Jugosławia	subst:sg:voc:f	nazwa geograficzna	
+Jugosławiom	Jugosławia	subst:pl:dat:f	nazwa geograficzna	
+Jugosłowianach	Jugosłowianin	subst:pl:loc:m1	nazwa pospolita	
+Jugosłowianami	Jugosłowianin	subst:pl:inst:m1	nazwa pospolita	
+Jugosłowianie	Jugosłowianin	subst:pl:nom:m1	nazwa pospolita	
+Jugosłowianie	Jugosłowianin	subst:pl:voc:m1	nazwa pospolita	
+Jugosłowianina	Jugosłowianin	subst:sg:acc:m1	nazwa pospolita	
+Jugosłowianina	Jugosłowianin	subst:sg:gen:m1	nazwa pospolita	
+Jugosłowianinem	Jugosłowianin	subst:sg:inst:m1	nazwa pospolita	
+Jugosłowianinie	Jugosłowianin	subst:sg:loc:m1	nazwa pospolita	
+Jugosłowianinie	Jugosłowianin	subst:sg:voc:m1	nazwa pospolita	
+Jugosłowianin	Jugosłowianin	subst:sg:nom:m1	nazwa pospolita	
+Jugosłowianinowi	Jugosłowianin	subst:sg:dat:m1	nazwa pospolita	
+Jugosłowian	Jugosłowianin	subst:pl:acc:m1	nazwa pospolita	
+Jugosłowian	Jugosłowianin	subst:pl:gen:m1	nazwa pospolita	
+Jugosłowianom	Jugosłowianin	subst:pl:dat:m1	nazwa pospolita	
+Jugosłowiany	Jugosłowianin	depr:pl:nom:m2	nazwa pospolita	
+Jugosłowiany	Jugosłowianin	depr:pl:voc:m2	nazwa pospolita	
+Jugosłowiance	Jugosłowianka	subst:sg:dat:f	nazwa pospolita	
+Jugosłowiance	Jugosłowianka	subst:sg:loc:f	nazwa pospolita	
+Jugosłowianek	Jugosłowianka	subst:pl:gen:f	nazwa pospolita	
+Jugosłowiankach	Jugosłowianka	subst:pl:loc:f	nazwa pospolita	
+Jugosłowianka	Jugosłowianka	subst:sg:nom:f	nazwa pospolita	
+Jugosłowiankami	Jugosłowianka	subst:pl:inst:f	nazwa pospolita	
+Jugosłowianką	Jugosłowianka	subst:sg:inst:f	nazwa pospolita	
+Jugosłowiankę	Jugosłowianka	subst:sg:acc:f	nazwa pospolita	
+Jugosłowianki	Jugosłowianka	subst:pl:acc:f	nazwa pospolita	
+Jugosłowianki	Jugosłowianka	subst:pl:nom:f	nazwa pospolita	
+Jugosłowianki	Jugosłowianka	subst:pl:voc:f	nazwa pospolita	
+Jugosłowianki	Jugosłowianka	subst:sg:gen:f	nazwa pospolita	
+Jugosłowianko	Jugosłowianka	subst:sg:voc:f	nazwa pospolita	
+Jugosłowiankom	Jugosłowianka	subst:pl:dat:f	nazwa pospolita	
+Jukagirach	Jukagir	subst:pl:loc:m1	nazwa pospolita	
+Jukagira	Jukagir	subst:sg:acc:m1	nazwa pospolita	
+Jukagira	Jukagir	subst:sg:gen:m1	nazwa pospolita	
+Jukagirami	Jukagir	subst:pl:inst:m1	nazwa pospolita	
+Jukagirem	Jukagir	subst:sg:inst:m1	nazwa pospolita	
+Jukagir	Jukagir	subst:sg:nom:m1	nazwa pospolita	
+Jukagirom	Jukagir	subst:pl:dat:m1	nazwa pospolita	
+Jukagirowie	Jukagir	subst:pl:nom:m1	nazwa pospolita	
+Jukagirowie	Jukagir	subst:pl:voc:m1	nazwa pospolita	
+Jukagirowi	Jukagir	subst:sg:dat:m1	nazwa pospolita	
+Jukagirów	Jukagir	subst:pl:acc:m1	nazwa pospolita	
+Jukagirów	Jukagir	subst:pl:gen:m1	nazwa pospolita	
+Jukagiry	Jukagir	depr:pl:nom:m2	nazwa pospolita	
+Jukagiry	Jukagir	depr:pl:voc:m2	nazwa pospolita	
+Jukagirze	Jukagir	subst:sg:loc:m1	nazwa pospolita	
+Jukagirze	Jukagir	subst:sg:voc:m1	nazwa pospolita	
+Jukagirce	Jukagirka	subst:sg:dat:f	nazwa pospolita	
+Jukagirce	Jukagirka	subst:sg:loc:f	nazwa pospolita	
+Jukagirek	Jukagirka	subst:pl:gen:f	nazwa pospolita	
+Jukagirkach	Jukagirka	subst:pl:loc:f	nazwa pospolita	
+Jukagirka	Jukagirka	subst:sg:nom:f	nazwa pospolita	
+Jukagirkami	Jukagirka	subst:pl:inst:f	nazwa pospolita	
+Jukagirką	Jukagirka	subst:sg:inst:f	nazwa pospolita	
+Jukagirkę	Jukagirka	subst:sg:acc:f	nazwa pospolita	
+Jukagirki	Jukagirka	subst:pl:acc:f	nazwa pospolita	
+Jukagirki	Jukagirka	subst:pl:nom:f	nazwa pospolita	
+Jukagirki	Jukagirka	subst:pl:voc:f	nazwa pospolita	
+Jukagirki	Jukagirka	subst:sg:gen:f	nazwa pospolita	
+Jukagirko	Jukagirka	subst:sg:voc:f	nazwa pospolita	
+Jukagirkom	Jukagirka	subst:pl:dat:f	nazwa pospolita	
+Jukatanach	Jukatan	subst:pl:loc:m3	nazwa geograficzna	
+Jukatanami	Jukatan	subst:pl:inst:m3	nazwa geograficzna	
+Jukatanem	Jukatan	subst:sg:inst:m3	nazwa geograficzna	
+Jukatanie	Jukatan	subst:sg:loc:m3	nazwa geograficzna	
+Jukatanie	Jukatan	subst:sg:voc:m3	nazwa geograficzna	
+Jukatan	Jukatan	subst:sg:acc:m3	nazwa geograficzna	
+Jukatan	Jukatan	subst:sg:nom:m3	nazwa geograficzna	
+Jukatanom	Jukatan	subst:pl:dat:m3	nazwa geograficzna	
+Jukatanowi	Jukatan	subst:sg:dat:m3	nazwa geograficzna	
+Jukatanów	Jukatan	subst:pl:gen:m3	nazwa geograficzna	
+Jukatanu	Jukatan	subst:sg:gen:m3	nazwa geograficzna	
+Jukatany	Jukatan	subst:pl:acc:m3	nazwa geograficzna	
+Jukatany	Jukatan	subst:pl:nom:m3	nazwa geograficzna	
+Jukatany	Jukatan	subst:pl:voc:m3	nazwa geograficzna	
 Julach	Jul	subst:pl:loc:m1	imię	
 Jula	Jul	subst:sg:acc:m1	imię	
 Jula	Jul	subst:sg:gen:m1	imię	
@@ -6082,21 +6127,21 @@ Jurków	Jurek	subst:pl:acc:m1	imię|nazwisko
 Jurków	Jurek	subst:pl:gen:m1	imię|nazwisko	
 Jurku	Jurek	subst:sg:loc:m1	imię|nazwisko	
 Jurku	Jurek	subst:sg:voc:m1	imię|nazwisko	
-Jurgowach	Jurgów	subst:pl:loc:m3	geograficzna	
-Jurgowa	Jurgów	subst:sg:gen:m3	geograficzna	
-Jurgowami	Jurgów	subst:pl:inst:m3	geograficzna	
-Jurgowem	Jurgów	subst:sg:inst:m3	geograficzna	
-Jurgowie	Jurgów	subst:sg:loc:m3	geograficzna	
-Jurgowie	Jurgów	subst:sg:voc:m3	geograficzna	
-Jurgowom	Jurgów	subst:pl:dat:m3	geograficzna	
-Jurgowowi	Jurgów	subst:sg:dat:m3	geograficzna	
-Jurgowów	Jurgów	subst:pl:gen:m3	geograficzna	
-Jurgowu	Jurgów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
-Jurgowy	Jurgów	subst:pl:acc:m3	geograficzna	
-Jurgowy	Jurgów	subst:pl:nom:m3	geograficzna	
-Jurgowy	Jurgów	subst:pl:voc:m3	geograficzna	
-Jurgów	Jurgów	subst:sg:acc:m3	geograficzna	
-Jurgów	Jurgów	subst:sg:nom:m3	geograficzna	
+Jurgowach	Jurgów	subst:pl:loc:m3	nazwa geograficzna	
+Jurgowa	Jurgów	subst:sg:gen:m3	nazwa geograficzna	
+Jurgowami	Jurgów	subst:pl:inst:m3	nazwa geograficzna	
+Jurgowem	Jurgów	subst:sg:inst:m3	nazwa geograficzna	
+Jurgowie	Jurgów	subst:sg:loc:m3	nazwa geograficzna	
+Jurgowie	Jurgów	subst:sg:voc:m3	nazwa geograficzna	
+Jurgowom	Jurgów	subst:pl:dat:m3	nazwa geograficzna	
+Jurgowowi	Jurgów	subst:sg:dat:m3	nazwa geograficzna	
+Jurgowów	Jurgów	subst:pl:gen:m3	nazwa geograficzna	
+Jurgowu	Jurgów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
+Jurgowy	Jurgów	subst:pl:acc:m3	nazwa geograficzna	
+Jurgowy	Jurgów	subst:pl:nom:m3	nazwa geograficzna	
+Jurgowy	Jurgów	subst:pl:voc:m3	nazwa geograficzna	
+Jurgów	Jurgów	subst:sg:acc:m3	nazwa geograficzna	
+Jurgów	Jurgów	subst:sg:nom:m3	nazwa geograficzna	
 Jurijach	Jurij	subst:pl:loc:m1	imię	
 Jurija	Jurij	subst:sg:acc:m1	imię	
 Jurija	Jurij	subst:sg:gen:m1	imię	
@@ -6288,21 +6333,21 @@ Juszczyków	Juszczyk	subst:pl:acc:m1	nazwisko
 Juszczyków	Juszczyk	subst:pl:gen:m1	nazwisko	
 Juszczyku	Juszczyk	subst:sg:loc:m1	nazwisko	
 Juszczyku	Juszczyk	subst:sg:voc:m1	nazwisko	
-Jutlandiach	Jutlandia	subst:pl:loc:f	geograficzna	
-Jutlandia	Jutlandia	subst:sg:nom:f	geograficzna	
-Jutlandiami	Jutlandia	subst:pl:inst:f	geograficzna	
-Jutlandią	Jutlandia	subst:sg:inst:f	geograficzna	
-Jutlandie	Jutlandia	subst:pl:acc:f	geograficzna	
-Jutlandie	Jutlandia	subst:pl:nom:f	geograficzna	
-Jutlandie	Jutlandia	subst:pl:voc:f	geograficzna	
-Jutlandię	Jutlandia	subst:sg:acc:f	geograficzna	
-Jutlandii	Jutlandia	subst:pl:gen:f	geograficzna	hom.
-Jutlandii	Jutlandia	subst:sg:dat:f	geograficzna	
-Jutlandii	Jutlandia	subst:sg:gen:f	geograficzna	
-Jutlandii	Jutlandia	subst:sg:loc:f	geograficzna	
-Jutlandio	Jutlandia	subst:sg:voc:f	geograficzna	
-Jutlandiom	Jutlandia	subst:pl:dat:f	geograficzna	
-Jutlandyj	Jutlandia	subst:pl:gen:f	geograficzna	arch.|char.
+Jutlandiach	Jutlandia	subst:pl:loc:f	nazwa geograficzna	
+Jutlandia	Jutlandia	subst:sg:nom:f	nazwa geograficzna	
+Jutlandiami	Jutlandia	subst:pl:inst:f	nazwa geograficzna	
+Jutlandią	Jutlandia	subst:sg:inst:f	nazwa geograficzna	
+Jutlandie	Jutlandia	subst:pl:acc:f	nazwa geograficzna	
+Jutlandie	Jutlandia	subst:pl:nom:f	nazwa geograficzna	
+Jutlandie	Jutlandia	subst:pl:voc:f	nazwa geograficzna	
+Jutlandię	Jutlandia	subst:sg:acc:f	nazwa geograficzna	
+Jutlandii	Jutlandia	subst:pl:gen:f	nazwa geograficzna	hom.
+Jutlandii	Jutlandia	subst:sg:dat:f	nazwa geograficzna	
+Jutlandii	Jutlandia	subst:sg:gen:f	nazwa geograficzna	
+Jutlandii	Jutlandia	subst:sg:loc:f	nazwa geograficzna	
+Jutlandio	Jutlandia	subst:sg:voc:f	nazwa geograficzna	
+Jutlandiom	Jutlandia	subst:pl:dat:f	nazwa geograficzna	
+Jutlandyj	Jutlandia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Jr	Księga_Jeremiasza	brev:npun		
 Jer	Księga_Jeremiasza	brev:pun		
 Job	Księga_Joba	brev:npun		

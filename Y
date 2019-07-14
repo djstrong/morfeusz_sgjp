@@ -28,48 +28,48 @@ Yeatsów	Yeats	subst:pl:gen:m1	nazwisko
 Yeats	Yeats	subst:sg:nom:m1	nazwisko	
 Yeatsy	Yeats	depr:pl:nom:m2	nazwisko	
 Yeatsy	Yeats	depr:pl:voc:m2	nazwisko	
-YMCA	YMCA	subst:pl:acc:f	organizacja	
-YMCA	YMCA	subst:pl:acc:n2	organizacja	
-YMCA	YMCA	subst:pl:dat:f	organizacja	
-YMCA	YMCA	subst:pl:dat:n2	organizacja	
-YMCA	YMCA	subst:pl:gen:f	organizacja	
-YMCA	YMCA	subst:pl:gen:n2	organizacja	
-YMCA	YMCA	subst:pl:inst:f	organizacja	
-YMCA	YMCA	subst:pl:inst:n2	organizacja	
-YMCA	YMCA	subst:pl:loc:f	organizacja	
-YMCA	YMCA	subst:pl:loc:n2	organizacja	
-YMCA	YMCA	subst:pl:nom:f	organizacja	
-YMCA	YMCA	subst:pl:nom:n2	organizacja	
-YMCA	YMCA	subst:pl:voc:f	organizacja	
-YMCA	YMCA	subst:pl:voc:n2	organizacja	
-YMCA	YMCA	subst:sg:acc:f	organizacja	
-YMCA	YMCA	subst:sg:acc:n2	organizacja	
-YMCA	YMCA	subst:sg:dat:f	organizacja	
-YMCA	YMCA	subst:sg:dat:n2	organizacja	
-YMCA	YMCA	subst:sg:gen:f	organizacja	
-YMCA	YMCA	subst:sg:gen:n2	organizacja	
-YMCA	YMCA	subst:sg:inst:f	organizacja	
-YMCA	YMCA	subst:sg:inst:n2	organizacja	
-YMCA	YMCA	subst:sg:loc:f	organizacja	
-YMCA	YMCA	subst:sg:loc:n2	organizacja	
-YMCA	YMCA	subst:sg:nom:f	organizacja	
-YMCA	YMCA	subst:sg:nom:n2	organizacja	
-YMCA	YMCA	subst:sg:voc:f	organizacja	
-YMCA	YMCA	subst:sg:voc:n2	organizacja	
-Yorkach	York	subst:pl:loc:m3	geograficzna	
-Yorkami	York	subst:pl:inst:m3	geograficzna	
-Yorkiem	York	subst:sg:inst:m3	geograficzna	
-Yorki	York	subst:pl:acc:m3	geograficzna	
-Yorki	York	subst:pl:nom:m3	geograficzna	
-Yorki	York	subst:pl:voc:m3	geograficzna	
-Yorkom	York	subst:pl:dat:m3	geograficzna	
-Yorkowi	York	subst:sg:dat:m3	geograficzna	
-Yorków	York	subst:pl:gen:m3	geograficzna	
-Yorku	York	subst:sg:gen:m3	geograficzna	
-Yorku	York	subst:sg:loc:m3	geograficzna	
-Yorku	York	subst:sg:voc:m3	geograficzna	
-York	York	subst:sg:acc:m3	geograficzna	
-York	York	subst:sg:nom:m3	geograficzna	
+YMCA	YMCA	subst:pl:acc:f	nazwa organizacji	
+YMCA	YMCA	subst:pl:acc:n2	nazwa organizacji	
+YMCA	YMCA	subst:pl:dat:f	nazwa organizacji	
+YMCA	YMCA	subst:pl:dat:n2	nazwa organizacji	
+YMCA	YMCA	subst:pl:gen:f	nazwa organizacji	
+YMCA	YMCA	subst:pl:gen:n2	nazwa organizacji	
+YMCA	YMCA	subst:pl:inst:f	nazwa organizacji	
+YMCA	YMCA	subst:pl:inst:n2	nazwa organizacji	
+YMCA	YMCA	subst:pl:loc:f	nazwa organizacji	
+YMCA	YMCA	subst:pl:loc:n2	nazwa organizacji	
+YMCA	YMCA	subst:pl:nom:f	nazwa organizacji	
+YMCA	YMCA	subst:pl:nom:n2	nazwa organizacji	
+YMCA	YMCA	subst:pl:voc:f	nazwa organizacji	
+YMCA	YMCA	subst:pl:voc:n2	nazwa organizacji	
+YMCA	YMCA	subst:sg:acc:f	nazwa organizacji	
+YMCA	YMCA	subst:sg:acc:n2	nazwa organizacji	
+YMCA	YMCA	subst:sg:dat:f	nazwa organizacji	
+YMCA	YMCA	subst:sg:dat:n2	nazwa organizacji	
+YMCA	YMCA	subst:sg:gen:f	nazwa organizacji	
+YMCA	YMCA	subst:sg:gen:n2	nazwa organizacji	
+YMCA	YMCA	subst:sg:inst:f	nazwa organizacji	
+YMCA	YMCA	subst:sg:inst:n2	nazwa organizacji	
+YMCA	YMCA	subst:sg:loc:f	nazwa organizacji	
+YMCA	YMCA	subst:sg:loc:n2	nazwa organizacji	
+YMCA	YMCA	subst:sg:nom:f	nazwa organizacji	
+YMCA	YMCA	subst:sg:nom:n2	nazwa organizacji	
+YMCA	YMCA	subst:sg:voc:f	nazwa organizacji	
+YMCA	YMCA	subst:sg:voc:n2	nazwa organizacji	
+Yorkach	York	subst:pl:loc:m3	nazwa geograficzna	
+Yorkami	York	subst:pl:inst:m3	nazwa geograficzna	
+Yorkiem	York	subst:sg:inst:m3	nazwa geograficzna	
+Yorki	York	subst:pl:acc:m3	nazwa geograficzna	
+Yorki	York	subst:pl:nom:m3	nazwa geograficzna	
+Yorki	York	subst:pl:voc:m3	nazwa geograficzna	
+Yorkom	York	subst:pl:dat:m3	nazwa geograficzna	
+Yorkowi	York	subst:sg:dat:m3	nazwa geograficzna	
+Yorków	York	subst:pl:gen:m3	nazwa geograficzna	
+Yorku	York	subst:sg:gen:m3	nazwa geograficzna	
+Yorku	York	subst:sg:loc:m3	nazwa geograficzna	
+Yorku	York	subst:sg:voc:m3	nazwa geograficzna	
+York	York	subst:sg:acc:m3	nazwa geograficzna	
+York	York	subst:sg:nom:m3	nazwa geograficzna	
 Youngach	Young	subst:pl:loc:m1	nazwisko	
 Youngami	Young	subst:pl:inst:m1	nazwisko	
 Younga	Young	subst:sg:acc:m1	nazwisko	
@@ -86,45 +86,45 @@ Youngów	Young	subst:pl:gen:m1	nazwisko
 Youngu	Young	subst:sg:loc:m1	nazwisko	
 Youngu	Young	subst:sg:voc:m1	nazwisko	
 Young	Young	subst:sg:nom:m1	nazwisko	
-Ystad	Ystad	subst:pl:acc:n2	geograficzna	
-Ystad	Ystad	subst:pl:dat:n2	geograficzna	
-Ystad	Ystad	subst:pl:gen:n2	geograficzna	
-Ystad	Ystad	subst:pl:inst:n2	geograficzna	
-Ystad	Ystad	subst:pl:loc:n2	geograficzna	
-Ystad	Ystad	subst:pl:nom:n2	geograficzna	
-Ystad	Ystad	subst:pl:voc:n2	geograficzna	
-Ystad	Ystad	subst:sg:acc:n2	geograficzna	
-Ystad	Ystad	subst:sg:dat:n2	geograficzna	
-Ystad	Ystad	subst:sg:gen:n2	geograficzna	
-Ystad	Ystad	subst:sg:inst:n2	geograficzna	
-Ystad	Ystad	subst:sg:loc:n2	geograficzna	
-Ystad	Ystad	subst:sg:nom:n2	geograficzna	
-Ystad	Ystad	subst:sg:voc:n2	geograficzna	
-YWCA	YWCA	subst:pl:acc:f	organizacja	
-YWCA	YWCA	subst:pl:acc:n2	organizacja	
-YWCA	YWCA	subst:pl:dat:f	organizacja	
-YWCA	YWCA	subst:pl:dat:n2	organizacja	
-YWCA	YWCA	subst:pl:gen:f	organizacja	
-YWCA	YWCA	subst:pl:gen:n2	organizacja	
-YWCA	YWCA	subst:pl:inst:f	organizacja	
-YWCA	YWCA	subst:pl:inst:n2	organizacja	
-YWCA	YWCA	subst:pl:loc:f	organizacja	
-YWCA	YWCA	subst:pl:loc:n2	organizacja	
-YWCA	YWCA	subst:pl:nom:f	organizacja	
-YWCA	YWCA	subst:pl:nom:n2	organizacja	
-YWCA	YWCA	subst:pl:voc:f	organizacja	
-YWCA	YWCA	subst:pl:voc:n2	organizacja	
-YWCA	YWCA	subst:sg:acc:f	organizacja	
-YWCA	YWCA	subst:sg:acc:n2	organizacja	
-YWCA	YWCA	subst:sg:dat:f	organizacja	
-YWCA	YWCA	subst:sg:dat:n2	organizacja	
-YWCA	YWCA	subst:sg:gen:f	organizacja	
-YWCA	YWCA	subst:sg:gen:n2	organizacja	
-YWCA	YWCA	subst:sg:inst:f	organizacja	
-YWCA	YWCA	subst:sg:inst:n2	organizacja	
-YWCA	YWCA	subst:sg:loc:f	organizacja	
-YWCA	YWCA	subst:sg:loc:n2	organizacja	
-YWCA	YWCA	subst:sg:nom:f	organizacja	
-YWCA	YWCA	subst:sg:nom:n2	organizacja	
-YWCA	YWCA	subst:sg:voc:f	organizacja	
-YWCA	YWCA	subst:sg:voc:n2	organizacja	
+Ystad	Ystad	subst:pl:acc:n2	nazwa geograficzna	
+Ystad	Ystad	subst:pl:dat:n2	nazwa geograficzna	
+Ystad	Ystad	subst:pl:gen:n2	nazwa geograficzna	
+Ystad	Ystad	subst:pl:inst:n2	nazwa geograficzna	
+Ystad	Ystad	subst:pl:loc:n2	nazwa geograficzna	
+Ystad	Ystad	subst:pl:nom:n2	nazwa geograficzna	
+Ystad	Ystad	subst:pl:voc:n2	nazwa geograficzna	
+Ystad	Ystad	subst:sg:acc:n2	nazwa geograficzna	
+Ystad	Ystad	subst:sg:dat:n2	nazwa geograficzna	
+Ystad	Ystad	subst:sg:gen:n2	nazwa geograficzna	
+Ystad	Ystad	subst:sg:inst:n2	nazwa geograficzna	
+Ystad	Ystad	subst:sg:loc:n2	nazwa geograficzna	
+Ystad	Ystad	subst:sg:nom:n2	nazwa geograficzna	
+Ystad	Ystad	subst:sg:voc:n2	nazwa geograficzna	
+YWCA	YWCA	subst:pl:acc:f	nazwa organizacji	
+YWCA	YWCA	subst:pl:acc:n2	nazwa organizacji	
+YWCA	YWCA	subst:pl:dat:f	nazwa organizacji	
+YWCA	YWCA	subst:pl:dat:n2	nazwa organizacji	
+YWCA	YWCA	subst:pl:gen:f	nazwa organizacji	
+YWCA	YWCA	subst:pl:gen:n2	nazwa organizacji	
+YWCA	YWCA	subst:pl:inst:f	nazwa organizacji	
+YWCA	YWCA	subst:pl:inst:n2	nazwa organizacji	
+YWCA	YWCA	subst:pl:loc:f	nazwa organizacji	
+YWCA	YWCA	subst:pl:loc:n2	nazwa organizacji	
+YWCA	YWCA	subst:pl:nom:f	nazwa organizacji	
+YWCA	YWCA	subst:pl:nom:n2	nazwa organizacji	
+YWCA	YWCA	subst:pl:voc:f	nazwa organizacji	
+YWCA	YWCA	subst:pl:voc:n2	nazwa organizacji	
+YWCA	YWCA	subst:sg:acc:f	nazwa organizacji	
+YWCA	YWCA	subst:sg:acc:n2	nazwa organizacji	
+YWCA	YWCA	subst:sg:dat:f	nazwa organizacji	
+YWCA	YWCA	subst:sg:dat:n2	nazwa organizacji	
+YWCA	YWCA	subst:sg:gen:f	nazwa organizacji	
+YWCA	YWCA	subst:sg:gen:n2	nazwa organizacji	
+YWCA	YWCA	subst:sg:inst:f	nazwa organizacji	
+YWCA	YWCA	subst:sg:inst:n2	nazwa organizacji	
+YWCA	YWCA	subst:sg:loc:f	nazwa organizacji	
+YWCA	YWCA	subst:sg:loc:n2	nazwa organizacji	
+YWCA	YWCA	subst:sg:nom:f	nazwa organizacji	
+YWCA	YWCA	subst:sg:nom:n2	nazwa organizacji	
+YWCA	YWCA	subst:sg:voc:f	nazwa organizacji	
+YWCA	YWCA	subst:sg:voc:n2	nazwa organizacji	
