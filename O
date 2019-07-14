@@ -11982,7 +11982,7 @@ ONR-owskim	ONR-owski	adj:sg:loc:m1.m2.m3.n:pos
 ONR-owski	ONR-owski	adj:sg:acc:m3:pos		
 ONR-owski	ONR-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 ONR-owsko	ONR-owski	adja		
-ONR-owsku	ONR-owski	adjp		
+ONR-owsku	ONR-owski	adjp:dat		
 ONR-owsko	ONR-owsko	adv:pos		
 Ontario	Ontario	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
 Onuchowska	Onuchowska	subst:sg:nom:f	nazwisko	
@@ -12162,7 +12162,7 @@ ONZ-owskim	ONZ-owski	adj:sg:loc:m1.m2.m3.n:pos
 ONZ-owski	ONZ-owski	adj:sg:acc:m3:pos		
 ONZ-owski	ONZ-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 ONZ-owsko	ONZ-owski	adja		
-ONZ-owsku	ONZ-owski	adjp		
+ONZ-owsku	ONZ-owski	adjp:dat		
 ONZ-owsko	ONZ-owsko	adv:pos		
 OPA	OPA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa organizacji	
 OPA	OPA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji	
@@ -13867,7 +13867,7 @@ OPZZ-owskim	OPZZ-owski	adj:sg:loc:m1.m2.m3.n:pos
 OPZZ-owski	OPZZ-owski	adj:sg:acc:m3:pos		
 OPZZ-owski	OPZZ-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 OPZZ-owsko	OPZZ-owski	adja		
-OPZZ-owsku	OPZZ-owski	adjp		
+OPZZ-owsku	OPZZ-owski	adjp:dat		
 OPZZ-owsko	OPZZ-owsko	adv:pos		
 Oracka	Oracka	subst:sg:nom:f	nazwisko	
 Oracka	Oracka	subst:sg:voc:f	nazwisko	

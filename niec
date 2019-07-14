@@ -18034,7 +18034,7 @@ niecętkowatym	niecętkowaty	adj:sg:inst:m1.m2.m3.n:pos
 niecętkowatym	niecętkowaty	adj:sg:loc:m1.m2.m3.n:pos		
 niecętkowaty	niecętkowaty	adj:sg:acc:m3:pos		
 niecętkowaty	niecętkowaty	adj:sg:nom.voc:m1.m2.m3:pos		
-niech	niech	qub		
+niech	niech	part		
 niechabarowscy	niechabarowski	adj:pl:nom.voc:m1:pos		
 niechabarowska	niechabarowski	adj:sg:nom.voc:f:pos		
 niechabarowską	niechabarowski	adj:sg:acc:f:pos		
@@ -18333,8 +18333,8 @@ niechadeckości	niechadeckość	subst:sg:voc:f	nazwa pospolita
 niechadeckościom	niechadeckość	subst:pl:dat:f	nazwa pospolita	
 niechadeckość	niechadeckość	subst:sg:acc:f	nazwa pospolita	
 niechadeckość	niechadeckość	subst:sg:nom:f	nazwa pospolita	
-niechaj	niechaj	qub		
-niechajże	niechajże	qub		
+niechaj	niechaj	part		
+niechajże	niechajże	part		
 niechakascy	niechakaski	adj:pl:nom.voc:m1:pos		
 niechakaska	niechakaski	adj:sg:nom.voc:f:pos		
 niechakaską	niechakaski	adj:sg:acc:f:pos		
@@ -18991,7 +18991,7 @@ niechanowskim	niechanowski	adj:sg:loc:m1.m2.m3.n:pos
 niechanowski	niechanowski	adj:sg:acc:m3:pos		
 niechanowski	niechanowski	adj:sg:nom.voc:m1.m2.m3:pos		
 niechanowsko	niechanowski	adja		
-niechanowsku	niechanowski	adjp		
+niechanowsku	niechanowski	adjp:dat		
 niechanowsko	niechanowsko	adv:pos		
 niechanowskościach	niechanowskość	subst:pl:loc:f	nazwa pospolita	
 niechanowskościami	niechanowskość	subst:pl:inst:f	nazwa pospolita	
@@ -20170,7 +20170,7 @@ niechąsieńskości	niechąsieńskość	subst:sg:voc:f	nazwa pospolita
 niechąsieńskościom	niechąsieńskość	subst:pl:dat:f	nazwa pospolita	
 niechąsieńskość	niechąsieńskość	subst:sg:acc:f	nazwa pospolita	
 niechąsieńskość	niechąsieńskość	subst:sg:nom:f	nazwa pospolita	
-niechby	niechby	qub		
+niechby	niechby	part		
 niechcąco	niechcąco	adv		daw.
 niechcąca	niechcący:a	adj:sg:nom.voc:f:pos		
 niechcącą	niechcący:a	adj:sg:acc:f:pos		
@@ -22545,7 +22545,7 @@ niechlowskim	niechlowski	adj:sg:loc:m1.m2.m3.n:pos
 niechlowski	niechlowski	adj:sg:acc:m3:pos		
 niechlowski	niechlowski	adj:sg:nom.voc:m1.m2.m3:pos		
 niechlowsko	niechlowski	adja		
-niechlowsku	niechlowski	adjp		
+niechlowsku	niechlowski	adjp:dat		
 niechlowsko	niechlowsko	adv:pos		
 niechlowskościach	niechlowskość	subst:pl:loc:f	nazwa pospolita	
 niechlowskościami	niechlowskość	subst:pl:inst:f	nazwa pospolita	
@@ -30143,7 +30143,7 @@ niechyżym	niechyży	adj:sg:loc:m1.m2.m3.n:pos
 niechyży	niechyży	adj:pl:nom.voc:m1:pos		
 niechyży	niechyży	adj:sg:acc:m3:pos		
 niechyży	niechyży	adj:sg:nom.voc:m1.m2.m3:pos		
-niechże	niechże	qub		
+niechże	niechże	part		
 nieciałopalnościach	nieciałopalność	subst:pl:loc:f	nazwa pospolita	
 nieciałopalnościami	nieciałopalność	subst:pl:inst:f	nazwa pospolita	
 nieciałopalnością	nieciałopalność	subst:sg:inst:f	nazwa pospolita	

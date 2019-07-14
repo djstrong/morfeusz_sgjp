@@ -286,7 +286,7 @@ habsburskim	habsburski	adj:sg:inst:m1.m2.m3.n:pos
 habsburskim	habsburski	adj:sg:loc:m1.m2.m3.n:pos		
 habsburskimi	habsburski	adj:pl:inst:m1.m2.m3.f.n:pos		
 habsbursko	habsburski	adja		
-habsbursku	habsburski	adjp		
+habsbursku	habsburski	adjp:dat		
 habsbursko	habsbursko	adv:pos		
 habsburskościach	habsburskość	subst:pl:loc:f	nazwa pospolita	
 habsburskościami	habsburskość	subst:pl:inst:f	nazwa pospolita	
@@ -368,7 +368,7 @@ hackerskim	hackerski	adj:sg:inst:m1.m2.m3.n:pos
 hackerskim	hackerski	adj:sg:loc:m1.m2.m3.n:pos		
 hackerskimi	hackerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hackersko	hackerski	adja		
-hackersku	hackerski	adjp		
+hackersku	hackerski	adjp:dat		
 hackersko	hackersko	adv:pos		
 hackerskościach	hackerskość	subst:pl:loc:f	nazwa pospolita	
 hackerskościami	hackerskość	subst:pl:inst:f	nazwa pospolita	
@@ -505,7 +505,7 @@ haczowskim	haczowski	adj:sg:inst:m1.m2.m3.n:pos
 haczowskim	haczowski	adj:sg:loc:m1.m2.m3.n:pos		
 haczowskimi	haczowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 haczowsko	haczowski	adja		
-haczowsku	haczowski	adjp		
+haczowsku	haczowski	adjp:dat		
 haczowsko	haczowsko	adv:pos		
 haczowskościach	haczowskość	subst:pl:loc:f	nazwa pospolita	
 haczowskościami	haczowskość	subst:pl:inst:f	nazwa pospolita	
@@ -784,7 +784,7 @@ hadziackim	hadziacki	adj:sg:inst:m1.m2.m3.n:pos
 hadziackim	hadziacki	adj:sg:loc:m1.m2.m3.n:pos		
 hadziackimi	hadziacki	adj:pl:inst:m1.m2.m3.f.n:pos		
 hadziacko	hadziacki	adja		
-hadziacku	hadziacki	adjp		
+hadziacku	hadziacki	adjp:dat		
 hadziacko	hadziacko	adv:pos		
 hadziackościach	hadziackość	subst:pl:loc:f	nazwa pospolita	
 hadziackościami	hadziackość	subst:pl:inst:f	nazwa pospolita	
@@ -912,7 +912,7 @@ hafciarskim	hafciarski	adj:sg:inst:m1.m2.m3.n:pos
 hafciarskim	hafciarski	adj:sg:loc:m1.m2.m3.n:pos		
 hafciarskimi	hafciarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hafciarsko	hafciarski	adja		
-hafciarsku	hafciarski	adjp		
+hafciarsku	hafciarski	adjp:dat		
 hafciarsko	hafciarsko	adv:pos		
 hafciarskościach	hafciarskość	subst:pl:loc:f	nazwa pospolita	
 hafciarskościami	hafciarskość	subst:pl:inst:f	nazwa pospolita	
@@ -1383,7 +1383,7 @@ haitańskim	haitański	adj:sg:inst:m1.m2.m3.n:pos
 haitańskim	haitański	adj:sg:loc:m1.m2.m3.n:pos		
 haitańskimi	haitański	adj:pl:inst:m1.m2.m3.f.n:pos		
 haitańsko	haitański	adja		
-haitańsku	haitański	adjp		
+haitańsku	haitański	adjp:dat		
 haitańsko	haitańsko	adv:pos		
 haitańskościach	haitańskość	subst:pl:loc:f	nazwa pospolita	
 haitańskościami	haitańskość	subst:pl:inst:f	nazwa pospolita	
@@ -1543,7 +1543,7 @@ hajdamackim	hajdamacki	adj:sg:inst:m1.m2.m3.n:pos
 hajdamackim	hajdamacki	adj:sg:loc:m1.m2.m3.n:pos		
 hajdamackimi	hajdamacki	adj:pl:inst:m1.m2.m3.f.n:pos		
 hajdamacko	hajdamacki	adja		
-hajdamacku	hajdamacki	adjp		
+hajdamacku	hajdamacki	adjp:dat		
 hajdamacko	hajdamacko	adv:pos		
 hajdamackościach	hajdamackość	subst:pl:loc:f	nazwa pospolita	
 hajdamackościami	hajdamackość	subst:pl:inst:f	nazwa pospolita	
@@ -1754,7 +1754,7 @@ hajduckim	hajducki	adj:sg:inst:m1.m2.m3.n:pos
 hajduckim	hajducki	adj:sg:loc:m1.m2.m3.n:pos		
 hajduckimi	hajducki	adj:pl:inst:m1.m2.m3.f.n:pos		
 hajducko	hajducki	adja		
-hajducku	hajducki	adjp		
+hajducku	hajducki	adjp:dat		
 hajducko	hajducko	adv:pos		
 hajduckościach	hajduckość	subst:pl:loc:f	nazwa pospolita	
 hajduckościami	hajduckość	subst:pl:inst:f	nazwa pospolita	
@@ -1966,7 +1966,7 @@ hajfskim	hajfski	adj:sg:inst:m1.m2.m3.n:pos
 hajfskim	hajfski	adj:sg:loc:m1.m2.m3.n:pos		
 hajfskimi	hajfski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hajfsko	hajfski	adja		
-hajfsku	hajfski	adjp		
+hajfsku	hajfski	adjp:dat		
 hajfsko	hajfsko	adv:pos		
 hajfskościach	hajfskość	subst:pl:loc:f	nazwa pospolita	
 hajfskościami	hajfskość	subst:pl:inst:f	nazwa pospolita	
@@ -2111,7 +2111,7 @@ hajnowskim	hajnowski	adj:sg:inst:m1.m2.m3.n:pos
 hajnowskim	hajnowski	adj:sg:loc:m1.m2.m3.n:pos		
 hajnowskimi	hajnowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hajnowsko	hajnowski	adja		
-hajnowsku	hajnowski	adjp		
+hajnowsku	hajnowski	adjp:dat		
 hajnowsko	hajnowsko	adv:pos		
 hajnowskościach	hajnowskość	subst:pl:loc:f	nazwa pospolita	
 hajnowskościami	hajnowskość	subst:pl:inst:f	nazwa pospolita	
@@ -2432,7 +2432,7 @@ hakerskim	hakerski	adj:sg:inst:m1.m2.m3.n:pos
 hakerskim	hakerski	adj:sg:loc:m1.m2.m3.n:pos		
 hakerskimi	hakerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hakersko	hakerski	adja		
-hakersku	hakerski	adjp		
+hakersku	hakerski	adjp:dat		
 hakersko	hakersko	adv:pos		
 hakerskościach	hakerskość	subst:pl:loc:f	nazwa pospolita	
 hakerskościami	hakerskość	subst:pl:inst:f	nazwa pospolita	
@@ -3106,7 +3106,7 @@ halickim	halicki	adj:sg:inst:m1.m2.m3.n:pos
 halickim	halicki	adj:sg:loc:m1.m2.m3.n:pos		
 halickimi	halicki	adj:pl:inst:m1.m2.m3.f.n:pos		
 halicko	halicki	adja		
-halicku	halicki	adjp		
+halicku	halicki	adjp:dat		
 halicko	halicko	adv:pos		
 halickościach	halickość	subst:pl:loc:f	nazwa pospolita	
 halickościami	halickość	subst:pl:inst:f	nazwa pospolita	
@@ -3176,7 +3176,7 @@ halinowskim	halinowski	adj:sg:inst:m1.m2.m3.n:pos
 halinowskim	halinowski	adj:sg:loc:m1.m2.m3.n:pos		
 halinowskimi	halinowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 halinowsko	halinowski	adja		
-halinowsku	halinowski	adjp		
+halinowsku	halinowski	adjp:dat		
 halinowsko	halinowsko	adv:pos		
 halinowskościach	halinowskość	subst:pl:loc:f	nazwa pospolita	
 halinowskościami	halinowskość	subst:pl:inst:f	nazwa pospolita	
@@ -3910,7 +3910,7 @@ halsztackim	halsztacki	adj:sg:inst:m1.m2.m3.n:pos
 halsztackim	halsztacki	adj:sg:loc:m1.m2.m3.n:pos		
 halsztackimi	halsztacki	adj:pl:inst:m1.m2.m3.f.n:pos		
 halsztacko	halsztacki	adja		
-halsztacku	halsztacki	adjp		
+halsztacku	halsztacki	adjp:dat		
 halsztacko	halsztacko	adv:pos		
 halsztackościach	halsztackość	subst:pl:loc:f	nazwa pospolita	
 halsztackościami	halsztackość	subst:pl:inst:f	nazwa pospolita	
@@ -5210,7 +5210,7 @@ hamburskim	hamburski	adj:sg:inst:m1.m2.m3.n:pos
 hamburskim	hamburski	adj:sg:loc:m1.m2.m3.n:pos		
 hamburskimi	hamburski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hambursko	hamburski	adja		
-hambursku	hamburski	adjp		
+hambursku	hamburski	adjp:dat		
 hambursko	hambursko	adv:pos		
 hamburskościach	hamburskość	subst:pl:loc:f	nazwa pospolita	
 hamburskościami	hamburskość	subst:pl:inst:f	nazwa pospolita	
@@ -5270,7 +5270,7 @@ hamernickim	hamernicki	adj:sg:inst:m1.m2.m3.n:pos		przest.
 hamernickim	hamernicki	adj:sg:loc:m1.m2.m3.n:pos		przest.
 hamernickimi	hamernicki	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
 hamernicko	hamernicki	adja		przest.
-hamernicku	hamernicki	adjp		przest.
+hamernicku	hamernicki	adjp:dat		przest.
 hamernicko	hamernicko	adv:pos		
 hamernickościach	hamernickość	subst:pl:loc:f	nazwa pospolita	przest.
 hamernickościami	hamernickość	subst:pl:inst:f	nazwa pospolita	przest.
@@ -5329,7 +5329,7 @@ hamiltońskim	hamiltoński	adj:sg:inst:m1.m2.m3.n:pos
 hamiltońskim	hamiltoński	adj:sg:loc:m1.m2.m3.n:pos		
 hamiltońskimi	hamiltoński	adj:pl:inst:m1.m2.m3.f.n:pos		
 hamiltońsko	hamiltoński	adja		
-hamiltońsku	hamiltoński	adjp		
+hamiltońsku	hamiltoński	adjp:dat		
 hamiltońsko	hamiltońsko	adv:pos		
 hamiltońskościach	hamiltońskość	subst:pl:loc:f	nazwa pospolita	
 hamiltońskościami	hamiltońskość	subst:pl:inst:f	nazwa pospolita	
@@ -5451,7 +5451,7 @@ hamletowskim	hamletowski	adj:sg:inst:m1.m2.m3.n:pos
 hamletowskim	hamletowski	adj:sg:loc:m1.m2.m3.n:pos		
 hamletowskimi	hamletowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hamletowsko	hamletowski	adja		
-hamletowsku	hamletowski	adjp		
+hamletowsku	hamletowski	adjp:dat		
 hamletowsko	hamletowsko	adv:pos		
 hamletowskościach	hamletowskość	subst:pl:loc:f	nazwa pospolita	
 hamletowskościami	hamletowskość	subst:pl:inst:f	nazwa pospolita	
@@ -6076,7 +6076,7 @@ handlarskim	handlarski	adj:sg:inst:m1.m2.m3.n:pos
 handlarskim	handlarski	adj:sg:loc:m1.m2.m3.n:pos		
 handlarskimi	handlarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 handlarsko	handlarski	adja		
-handlarsku	handlarski	adjp		
+handlarsku	handlarski	adjp:dat		
 handlarsko	handlarsko	adv:pos		
 handlarskościach	handlarskość	subst:pl:loc:f	nazwa pospolita	
 handlarskościami	handlarskość	subst:pl:inst:f	nazwa pospolita	
@@ -6632,7 +6632,7 @@ hannińskim	hanniński	adj:sg:inst:m1.m2.m3.n:pos
 hannińskim	hanniński	adj:sg:loc:m1.m2.m3.n:pos		
 hannińskimi	hanniński	adj:pl:inst:m1.m2.m3.f.n:pos		
 hannińsko	hanniński	adja		
-hannińsku	hanniński	adjp		
+hannińsku	hanniński	adjp:dat		
 hannińsko	hannińsko	adv:pos		
 hannińskościach	hannińskość	subst:pl:loc:f	nazwa pospolita	
 hannińskościami	hannińskość	subst:pl:inst:f	nazwa pospolita	
@@ -6669,7 +6669,7 @@ hanojskim	hanojski	adj:sg:inst:m1.m2.m3.n:pos
 hanojskim	hanojski	adj:sg:loc:m1.m2.m3.n:pos		
 hanojskimi	hanojski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hanojsko	hanojski	adja		
-hanojsku	hanojski	adjp		
+hanojsku	hanojski	adjp:dat		
 hanojsko	hanojsko	adv:pos		
 hanojskościach	hanojskość	subst:pl:loc:f	nazwa pospolita	
 hanojskościami	hanojskość	subst:pl:inst:f	nazwa pospolita	
@@ -6740,7 +6740,7 @@ hanowerskim	hanowerski	adj:sg:inst:m1.m2.m3.n:pos
 hanowerskim	hanowerski	adj:sg:loc:m1.m2.m3.n:pos		
 hanowerskimi	hanowerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hanowersko	hanowerski	adja		
-hanowersku	hanowerski	adjp		
+hanowersku	hanowerski	adjp:dat		
 hanowersko	hanowersko	adv:pos		
 hanowerskościach	hanowerskość	subst:pl:loc:f	nazwa pospolita	
 hanowerskościami	hanowerskość	subst:pl:inst:f	nazwa pospolita	
@@ -6901,7 +6901,7 @@ hanzeatyckim	hanzeatycki	adj:sg:inst:m1.m2.m3.n:pos
 hanzeatyckim	hanzeatycki	adj:sg:loc:m1.m2.m3.n:pos		
 hanzeatyckimi	hanzeatycki	adj:pl:inst:m1.m2.m3.f.n:pos		
 hanzeatycko	hanzeatycki	adja		
-hanzeatycku	hanzeatycki	adjp		
+hanzeatycku	hanzeatycki	adjp:dat		
 hanzeatycko	hanzeatycko	adv:pos		
 hanzeatyckościach	hanzeatyckość	subst:pl:loc:f	nazwa pospolita	
 hanzeatyckościami	hanzeatyckość	subst:pl:inst:f	nazwa pospolita	
@@ -7090,7 +7090,7 @@ hańskim	hański	adj:sg:inst:m1.m2.m3.n:pos
 hańskim	hański	adj:sg:loc:m1.m2.m3.n:pos		
 hańskimi	hański	adj:pl:inst:m1.m2.m3.f.n:pos		
 hańsko	hański	adja		
-hańsku	hański	adjp		
+hańsku	hański	adjp:dat		
 hańsko	hańsko	adv:pos		
 hańskościach	hańskość	subst:pl:loc:f	nazwa pospolita	
 hańskościami	hańskość	subst:pl:inst:f	nazwa pospolita	
@@ -7212,7 +7212,7 @@ happenerskim	happenerski	adj:sg:inst:m1.m2.m3.n:pos
 happenerskim	happenerski	adj:sg:loc:m1.m2.m3.n:pos		
 happenerskimi	happenerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 happenersko	happenerski	adja		
-happenersku	happenerski	adjp		
+happenersku	happenerski	adjp:dat		
 happenersko	happenersko	adv:pos		
 happenerskościach	happenerskość	subst:pl:loc:f	nazwa pospolita	
 happenerskościami	happenerskość	subst:pl:inst:f	nazwa pospolita	
@@ -8094,7 +8094,7 @@ harceńskim	harceński	adj:sg:inst:m1.m2.m3.n:pos
 harceńskim	harceński	adj:sg:loc:m1.m2.m3.n:pos		
 harceńskimi	harceński	adj:pl:inst:m1.m2.m3.f.n:pos		
 harceńsko	harceński	adja		
-harceńsku	harceński	adjp		
+harceńsku	harceński	adjp:dat		
 harceńsko	harceńsko	adv:pos		
 harceńskościach	harceńskość	subst:pl:loc:f	nazwa pospolita	
 harceńskościami	harceńskość	subst:pl:inst:f	nazwa pospolita	
@@ -8142,7 +8142,7 @@ harcerskim	harcerski	adj:sg:inst:m1.m2.m3.n:pos
 harcerskim	harcerski	adj:sg:loc:m1.m2.m3.n:pos		
 harcerskimi	harcerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 harcersko	harcerski	adja		
-harcersku	harcerski	adjp		
+harcersku	harcerski	adjp:dat		
 harcersko	harcersko	adv:pos		
 harcerskościach	harcerskość	subst:pl:loc:f	nazwa pospolita	
 harcerskościami	harcerskość	subst:pl:inst:f	nazwa pospolita	
@@ -8960,7 +8960,7 @@ harfiarskim	harfiarski	adj:sg:inst:m1.m2.m3.n:pos
 harfiarskim	harfiarski	adj:sg:loc:m1.m2.m3.n:pos		
 harfiarskimi	harfiarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 harfiarsko	harfiarski	adja		
-harfiarsku	harfiarski	adjp		
+harfiarsku	harfiarski	adjp:dat		
 harfiarsko	harfiarsko	adv:pos		
 harfiarskościach	harfiarskość	subst:pl:loc:f	nazwa pospolita	
 harfiarskościami	harfiarskość	subst:pl:inst:f	nazwa pospolita	
@@ -10244,7 +10244,7 @@ harpagońskim	harpagoński	adj:sg:inst:m1.m2.m3.n:pos
 harpagońskim	harpagoński	adj:sg:loc:m1.m2.m3.n:pos		
 harpagońskimi	harpagoński	adj:pl:inst:m1.m2.m3.f.n:pos		
 harpagońsko	harpagoński	adja		
-harpagońsku	harpagoński	adjp		
+harpagońsku	harpagoński	adjp:dat		
 harpagońsko	harpagońsko	adv:pos		
 harpagońskościach	harpagońskość	subst:pl:loc:f	nazwa pospolita	
 harpagońskościami	harpagońskość	subst:pl:inst:f	nazwa pospolita	
@@ -10824,7 +10824,7 @@ harvardzkim	harvardzki	adj:sg:inst:m1.m2.m3.n:pos
 harvardzkim	harvardzki	adj:sg:loc:m1.m2.m3.n:pos		
 harvardzkimi	harvardzki	adj:pl:inst:m1.m2.m3.f.n:pos		
 harvardzko	harvardzki	adja		
-harvardzku	harvardzki	adjp		
+harvardzku	harvardzki	adjp:dat		
 harvardzko	harvardzko	adv:pos		
 harvardzkościach	harvardzkość	subst:pl:loc:f	nazwa pospolita	
 harvardzkościami	harvardzkość	subst:pl:inst:f	nazwa pospolita	
@@ -10861,7 +10861,7 @@ harwardzkim	harwardzki	adj:sg:inst:m1.m2.m3.n:pos
 harwardzkim	harwardzki	adj:sg:loc:m1.m2.m3.n:pos		
 harwardzkimi	harwardzki	adj:pl:inst:m1.m2.m3.f.n:pos		
 harwardzko	harwardzki	adja		
-harwardzku	harwardzki	adjp		
+harwardzku	harwardzki	adjp:dat		
 harwardzko	harwardzko	adv:pos		
 harwardzkościach	harwardzkość	subst:pl:loc:f	nazwa pospolita	
 harwardzkościami	harwardzkość	subst:pl:inst:f	nazwa pospolita	
@@ -11005,7 +11005,7 @@ haskim	haski	adj:sg:inst:m1.m2.m3.n:pos
 haskim	haski	adj:sg:loc:m1.m2.m3.n:pos		
 haskimi	haski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hasko	haski	adja		
-hasku	haski	adjp		
+hasku	haski	adjp:dat		
 hasko	hasko	adv:pos		
 haskościach	haskość	subst:pl:loc:f	nazwa pospolita	
 haskościami	haskość	subst:pl:inst:f	nazwa pospolita	
@@ -11212,7 +11212,7 @@ haszymidzkim	haszymidzki	adj:sg:inst:m1.m2.m3.n:pos
 haszymidzkim	haszymidzki	adj:sg:loc:m1.m2.m3.n:pos		
 haszymidzkimi	haszymidzki	adj:pl:inst:m1.m2.m3.f.n:pos		
 haszymidzko	haszymidzki	adja		
-haszymidzku	haszymidzki	adjp		
+haszymidzku	haszymidzki	adjp:dat		
 haszymidzko	haszymidzko	adv:pos		
 haszymidzkościach	haszymidzkość	subst:pl:loc:f	nazwa pospolita	
 haszymidzkościami	haszymidzkość	subst:pl:inst:f	nazwa pospolita	
@@ -11454,7 +11454,7 @@ hawajskim	hawajski	adj:sg:inst:m1.m2.m3.n:pos
 hawajskim	hawajski	adj:sg:loc:m1.m2.m3.n:pos		
 hawajskimi	hawajski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hawajsko	hawajski	adja		
-hawajsku	hawajski	adjp		
+hawajsku	hawajski	adjp:dat		
 hawajsko	hawajsko	adv:pos		
 hawajskościach	hawajskość	subst:pl:loc:f	nazwa pospolita	
 hawajskościami	hawajskość	subst:pl:inst:f	nazwa pospolita	
@@ -11560,7 +11560,7 @@ hawańskim	hawański	adj:sg:inst:m1.m2.m3.n:pos
 hawańskim	hawański	adj:sg:loc:m1.m2.m3.n:pos		
 hawańskimi	hawański	adj:pl:inst:m1.m2.m3.f.n:pos		
 hawańsko	hawański	adja		
-hawańsku	hawański	adjp		
+hawańsku	hawański	adjp:dat		
 hawańsko	hawańsko	adv:pos		
 hawańskościach	hawańskość	subst:pl:loc:f	nazwa pospolita	
 hawańskościami	hawańskość	subst:pl:inst:f	nazwa pospolita	
@@ -11632,7 +11632,7 @@ hawiarskim	hawiarski	adj:sg:inst:m1.m2.m3.n:pos
 hawiarskim	hawiarski	adj:sg:loc:m1.m2.m3.n:pos		
 hawiarskimi	hawiarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hawiarsko	hawiarski	adja		
-hawiarsku	hawiarski	adjp		
+hawiarsku	hawiarski	adjp:dat		
 hawiarsko	hawiarsko	adv:pos		
 hawiarskościach	hawiarskość	subst:pl:loc:f	nazwa pospolita	
 hawiarskościami	hawiarskość	subst:pl:inst:f	nazwa pospolita	
@@ -11995,7 +11995,7 @@ haźlaskim	haźlaski	adj:sg:inst:m1.m2.m3.n:pos
 haźlaskim	haźlaski	adj:sg:loc:m1.m2.m3.n:pos		
 haźlaskimi	haźlaski	adj:pl:inst:m1.m2.m3.f.n:pos		
 haźlasko	haźlaski	adja		
-haźlasku	haźlaski	adjp		
+haźlasku	haźlaski	adjp:dat		
 haźlasko	haźlasko	adv:pos		
 haźlaskościach	haźlaskość	subst:pl:loc:f	nazwa pospolita	
 haźlaskościami	haźlaskość	subst:pl:inst:f	nazwa pospolita	
@@ -12032,7 +12032,7 @@ hażlaskim	hażlaski	adj:sg:inst:m1.m2.m3.n:pos
 hażlaskim	hażlaski	adj:sg:loc:m1.m2.m3.n:pos		
 hażlaskimi	hażlaski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hażlasko	hażlaski	adja		
-hażlasku	hażlaski	adjp		
+hażlasku	hażlaski	adjp:dat		
 hażlasko	hażlasko	adv:pos		
 hażlaskościach	hażlaskość	subst:pl:loc:f	nazwa pospolita	
 hażlaskościami	hażlaskość	subst:pl:inst:f	nazwa pospolita	
@@ -12622,7 +12622,7 @@ hebrajskim	hebrajski:a	adj:sg:inst:m1.m2.m3.n:pos
 hebrajskim	hebrajski:a	adj:sg:loc:m1.m2.m3.n:pos		
 hebrajskimi	hebrajski:a	adj:pl:inst:m1.m2.m3.f.n:pos		
 hebrajsko	hebrajski:a	adja		
-hebrajsku	hebrajski:a	adjp		
+hebrajsku	hebrajski:a	adjp:dat		
 hebrajskich	hebrajski:s	subst:pl:gen:m3	nazwa pospolita	
 hebrajskich	hebrajski:s	subst:pl:loc:m3	nazwa pospolita	
 hebrajskiego	hebrajski:s	subst:sg:gen:m3	nazwa pospolita	
@@ -12716,7 +12716,7 @@ hebrydzkim	hebrydzki	adj:sg:inst:m1.m2.m3.n:pos
 hebrydzkim	hebrydzki	adj:sg:loc:m1.m2.m3.n:pos		
 hebrydzkimi	hebrydzki	adj:pl:inst:m1.m2.m3.f.n:pos		
 hebrydzko	hebrydzki	adja		
-hebrydzku	hebrydzki	adjp		
+hebrydzku	hebrydzki	adjp:dat		
 hebrydzko	hebrydzko	adv:pos		
 hebrydzkościach	hebrydzkość	subst:pl:loc:f	nazwa pospolita	
 hebrydzkościami	hebrydzkość	subst:pl:inst:f	nazwa pospolita	
@@ -12765,7 +12765,7 @@ hecarskim	hecarski	adj:sg:inst:m1.m2.m3.n:pos		przest.
 hecarskim	hecarski	adj:sg:loc:m1.m2.m3.n:pos		przest.
 hecarskimi	hecarski	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
 hecarsko	hecarski	adja		przest.
-hecarsku	hecarski	adjp		przest.
+hecarsku	hecarski	adjp:dat		przest.
 hecarsko	hecarsko	adv:pos		
 hecarskościach	hecarskość	subst:pl:loc:f	nazwa pospolita	przest.
 hecarskościami	hecarskość	subst:pl:inst:f	nazwa pospolita	przest.
@@ -13504,7 +13504,7 @@ heglistowskim	heglistowski	adj:sg:inst:m1.m2.m3.n:pos
 heglistowskim	heglistowski	adj:sg:loc:m1.m2.m3.n:pos		
 heglistowskimi	heglistowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 heglistowsko	heglistowski	adja		
-heglistowsku	heglistowski	adjp		
+heglistowsku	heglistowski	adjp:dat		
 heglistowsko	heglistowsko	adv:pos		
 heglistowskościach	heglistowskość	subst:pl:loc:f	nazwa pospolita	
 heglistowskościami	heglistowskość	subst:pl:inst:f	nazwa pospolita	
@@ -13552,7 +13552,7 @@ heglowskim	heglowski	adj:sg:inst:m1.m2.m3.n:pos
 heglowskim	heglowski	adj:sg:loc:m1.m2.m3.n:pos		
 heglowskimi	heglowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 heglowsko	heglowski	adja		
-heglowsku	heglowski	adjp		
+heglowsku	heglowski	adjp:dat		
 heglowsko	heglowsko	adv:pos		
 heglowskościach	heglowskość	subst:pl:loc:f	nazwa pospolita	
 heglowskościami	heglowskość	subst:pl:inst:f	nazwa pospolita	
@@ -13589,7 +13589,7 @@ heidelberskim	heidelberski	adj:sg:inst:m1.m2.m3.n:pos
 heidelberskim	heidelberski	adj:sg:loc:m1.m2.m3.n:pos		
 heidelberskimi	heidelberski	adj:pl:inst:m1.m2.m3.f.n:pos		
 heidelbersko	heidelberski	adja		
-heidelbersku	heidelberski	adjp		
+heidelbersku	heidelberski	adjp:dat		
 heidelbersko	heidelbersko	adv:pos		
 heidelberskościach	heidelberskość	subst:pl:loc:f	nazwa pospolita	
 heidelberskościami	heidelberskość	subst:pl:inst:f	nazwa pospolita	
@@ -13711,7 +13711,7 @@ hejterskim	hejterski	adj:sg:inst:m1.m2.m3.n:pos		pot.
 hejterskim	hejterski	adj:sg:loc:m1.m2.m3.n:pos		pot.
 hejterskimi	hejterski	adj:pl:inst:m1.m2.m3.f.n:pos		pot.
 hejtersko	hejterski	adja		pot.
-hejtersku	hejterski	adjp		pot.
+hejtersku	hejterski	adjp:dat		pot.
 hejtersko	hejtersko	adv:pos		pot.
 hejterskościach	hejterskość	subst:pl:loc:f		pot.
 hejterskościami	hejterskość	subst:pl:inst:f		pot.
@@ -14610,7 +14610,7 @@ helikońskim	helikoński	adj:sg:inst:m1.m2.m3.n:pos
 helikońskim	helikoński	adj:sg:loc:m1.m2.m3.n:pos		
 helikońskimi	helikoński	adj:pl:inst:m1.m2.m3.f.n:pos		
 helikońsko	helikoński	adja		
-helikońsku	helikoński	adjp		
+helikońsku	helikoński	adjp:dat		
 helikońsko	helikońsko	adv:pos		
 helikońskościach	helikońskość	subst:pl:loc:f	nazwa pospolita	
 helikońskościami	helikońskość	subst:pl:inst:f	nazwa pospolita	
@@ -15322,7 +15322,7 @@ helladzkim	helladzki	adj:sg:inst:m1.m2.m3.n:pos
 helladzkim	helladzki	adj:sg:loc:m1.m2.m3.n:pos		
 helladzkimi	helladzki	adj:pl:inst:m1.m2.m3.f.n:pos		
 helladzko	helladzki	adja		
-helladzku	helladzki	adjp		
+helladzku	helladzki	adjp:dat		
 helladzko	helladzko	adv:pos		
 helladzkościach	helladzkość	subst:pl:loc:f	nazwa pospolita	
 helladzkościami	helladzkość	subst:pl:inst:f	nazwa pospolita	
@@ -15564,7 +15564,7 @@ helleńskim	helleński	adj:sg:inst:m1.m2.m3.n:pos
 helleńskim	helleński	adj:sg:loc:m1.m2.m3.n:pos		
 helleńskimi	helleński	adj:pl:inst:m1.m2.m3.f.n:pos		
 helleńsko	helleński	adja		
-helleńsku	helleński	adjp		
+helleńsku	helleński	adjp:dat		
 helleńsko	helleńsko	adv:pos		
 helleńskościach	helleńskość	subst:pl:loc:f	nazwa pospolita	
 helleńskościami	helleńskość	subst:pl:inst:f	nazwa pospolita	
@@ -15848,7 +15848,7 @@ helsińskim	helsiński	adj:sg:inst:m1.m2.m3.n:pos
 helsińskim	helsiński	adj:sg:loc:m1.m2.m3.n:pos		
 helsińskimi	helsiński	adj:pl:inst:m1.m2.m3.f.n:pos		
 helsińsko	helsiński	adja		
-helsińsku	helsiński	adjp		
+helsińsku	helsiński	adjp:dat		
 helsińsko	helsińsko	adv:pos		
 helsińskościach	helsińskość	subst:pl:loc:f	nazwa pospolita	
 helsińskościami	helsińskość	subst:pl:inst:f	nazwa pospolita	
@@ -15885,7 +15885,7 @@ helskim	helski	adj:sg:inst:m1.m2.m3.n:pos
 helskim	helski	adj:sg:loc:m1.m2.m3.n:pos		
 helskimi	helski	adj:pl:inst:m1.m2.m3.f.n:pos		
 helsko	helski	adja		
-helsku	helski	adjp		
+helsku	helski	adjp:dat		
 helsko	helsko	adv:pos		
 helskościach	helskość	subst:pl:loc:f	nazwa pospolita	
 helskościami	helskość	subst:pl:inst:f	nazwa pospolita	
@@ -15922,7 +15922,7 @@ helweckim	helwecki	adj:sg:inst:m1.m2.m3.n:pos		przest.
 helweckim	helwecki	adj:sg:loc:m1.m2.m3.n:pos		przest.
 helweckimi	helwecki	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
 helwecko	helwecki	adja		przest.
-helwecku	helwecki	adjp		przest.
+helwecku	helwecki	adjp:dat		przest.
 helwecko	helwecko	adv:pos		
 helweckościach	helweckość	subst:pl:loc:f	nazwa pospolita	przest.
 helweckościami	helweckość	subst:pl:inst:f	nazwa pospolita	przest.
@@ -17191,7 +17191,7 @@ henrycjańskim	henrycjański	adj:sg:inst:m1.m2.m3.n:pos
 henrycjańskim	henrycjański	adj:sg:loc:m1.m2.m3.n:pos		
 henrycjańskimi	henrycjański	adj:pl:inst:m1.m2.m3.f.n:pos		
 henrycjańsko	henrycjański	adja		
-henrycjańsku	henrycjański	adjp		
+henrycjańsku	henrycjański	adjp:dat		
 henrycjańsko	henrycjańsko	adv:pos		
 henrycjańskościach	henrycjańskość	subst:pl:loc:f	nazwa pospolita	
 henrycjańskościami	henrycjańskość	subst:pl:inst:f	nazwa pospolita	
@@ -17228,7 +17228,7 @@ henrykowskim	henrykowski	adj:sg:inst:m1.m2.m3.n:pos
 henrykowskim	henrykowski	adj:sg:loc:m1.m2.m3.n:pos		
 henrykowskimi	henrykowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 henrykowsko	henrykowski	adja		
-henrykowsku	henrykowski	adjp		
+henrykowsku	henrykowski	adjp:dat		
 henrykowsko	henrykowsko	adv:pos		
 henrykowskościach	henrykowskość	subst:pl:loc:f	nazwa pospolita	
 henrykowskościami	henrykowskość	subst:pl:inst:f	nazwa pospolita	
@@ -17608,7 +17608,7 @@ heraklejskim	heraklejski	adj:sg:inst:m1.m2.m3.n:pos
 heraklejskim	heraklejski	adj:sg:loc:m1.m2.m3.n:pos		
 heraklejskimi	heraklejski	adj:pl:inst:m1.m2.m3.f.n:pos		
 heraklejsko	heraklejski	adja		
-heraklejsku	heraklejski	adjp		
+heraklejsku	heraklejski	adjp:dat		
 heraklejsko	heraklejsko	adv:pos		
 heraklejskościach	heraklejskość	subst:pl:loc:f	nazwa pospolita	
 heraklejskościami	heraklejskość	subst:pl:inst:f	nazwa pospolita	
@@ -17680,7 +17680,7 @@ heraklijskim	heraklijski	adj:sg:inst:m1.m2.m3.n:pos
 heraklijskim	heraklijski	adj:sg:loc:m1.m2.m3.n:pos		
 heraklijskimi	heraklijski	adj:pl:inst:m1.m2.m3.f.n:pos		
 heraklijsko	heraklijski	adja		
-heraklijsku	heraklijski	adjp		
+heraklijsku	heraklijski	adjp:dat		
 heraklijsko	heraklijsko	adv:pos		
 heraklijskościach	heraklijskość	subst:pl:loc:f	nazwa pospolita	
 heraklijskościami	heraklijskość	subst:pl:inst:f	nazwa pospolita	
@@ -17728,7 +17728,7 @@ heraklitejskim	heraklitejski	adj:sg:inst:m1.m2.m3.n:pos
 heraklitejskim	heraklitejski	adj:sg:loc:m1.m2.m3.n:pos		
 heraklitejskimi	heraklitejski	adj:pl:inst:m1.m2.m3.f.n:pos		
 heraklitejsko	heraklitejski	adja		
-heraklitejsku	heraklitejski	adjp		
+heraklitejsku	heraklitejski	adjp:dat		
 heraklitejsko	heraklitejsko	adv:pos		
 heraklitejskościach	heraklitejskość	subst:pl:loc:f	nazwa pospolita	
 heraklitejskościami	heraklitejskość	subst:pl:inst:f	nazwa pospolita	
@@ -18140,7 +18140,7 @@ herbertowskim	herbertowski	adj:sg:inst:m1.m2.m3.n:pos
 herbertowskim	herbertowski	adj:sg:loc:m1.m2.m3.n:pos		
 herbertowskimi	herbertowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 herbertowsko	herbertowski	adja		
-herbertowsku	herbertowski	adjp		
+herbertowsku	herbertowski	adjp:dat		
 herbertowsko	herbertowsko	adv:pos		
 herbertowskościach	herbertowskość	subst:pl:loc:f	nazwa pospolita	
 herbertowskościami	herbertowskość	subst:pl:inst:f	nazwa pospolita	
@@ -18562,7 +18562,7 @@ herbskim	herbski	adj:sg:inst:m1.m2.m3.n:pos
 herbskim	herbski	adj:sg:loc:m1.m2.m3.n:pos		
 herbskimi	herbski	adj:pl:inst:m1.m2.m3.f.n:pos		
 herbsko	herbski	adja		
-herbsku	herbski	adjp		
+herbsku	herbski	adjp:dat		
 herbsko	herbsko	adv:pos		
 herbskościach	herbskość	subst:pl:loc:f	nazwa pospolita	
 herbskościami	herbskość	subst:pl:inst:f	nazwa pospolita	
@@ -18610,7 +18610,7 @@ hercegowińskim	hercegowiński	adj:sg:inst:m1.m2.m3.n:pos
 hercegowińskim	hercegowiński	adj:sg:loc:m1.m2.m3.n:pos		
 hercegowińskimi	hercegowiński	adj:pl:inst:m1.m2.m3.f.n:pos		
 hercegowińsko	hercegowiński	adja		
-hercegowińsku	hercegowiński	adjp		
+hercegowińsku	hercegowiński	adjp:dat		
 hercegowińsko	hercegowińsko	adv:pos		
 hercegowińskościach	hercegowińskość	subst:pl:loc:f	nazwa pospolita	
 hercegowińskościami	hercegowińskość	subst:pl:inst:f	nazwa pospolita	
@@ -18725,7 +18725,7 @@ hercyńskim	hercyński	adj:sg:inst:m1.m2.m3.n:pos
 hercyńskim	hercyński	adj:sg:loc:m1.m2.m3.n:pos		
 hercyńskimi	hercyński	adj:pl:inst:m1.m2.m3.f.n:pos		
 hercyńsko	hercyński	adja		
-hercyńsku	hercyński	adjp		
+hercyńsku	hercyński	adjp:dat		
 hercyńsko	hercyńsko	adv:pos		
 hercyńskościach	hercyńskość	subst:pl:loc:f	nazwa pospolita	
 hercyńskościami	hercyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -18762,7 +18762,7 @@ heretyckim	heretycki	adj:sg:inst:m1.m2.m3.n:pos
 heretyckim	heretycki	adj:sg:loc:m1.m2.m3.n:pos		
 heretyckimi	heretycki	adj:pl:inst:m1.m2.m3.f.n:pos		
 heretycko	heretycki	adja		
-heretycku	heretycki	adjp		
+heretycku	heretycki	adjp:dat		
 heretycko	heretycko	adv:pos		
 heretyckościach	heretyckość	subst:pl:loc:f	nazwa pospolita	
 heretyckościami	heretyckość	subst:pl:inst:f	nazwa pospolita	
@@ -19755,7 +19755,7 @@ heroldowskim	heroldowski	adj:sg:inst:m1.m2.m3.n:pos
 heroldowskim	heroldowski	adj:sg:loc:m1.m2.m3.n:pos		
 heroldowskimi	heroldowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 heroldowsko	heroldowski	adja		
-heroldowsku	heroldowski	adjp		
+heroldowsku	heroldowski	adjp:dat		
 heroldowsko	heroldowsko	adv:pos		
 heroldowskościach	heroldowskość	subst:pl:loc:f	nazwa pospolita	
 heroldowskościami	heroldowskość	subst:pl:inst:f	nazwa pospolita	
@@ -20055,7 +20055,7 @@ heskim	heski	adj:sg:inst:m1.m2.m3.n:pos
 heskim	heski	adj:sg:loc:m1.m2.m3.n:pos		
 heskimi	heski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hesko	heski	adja		
-hesku	heski	adjp		
+hesku	heski	adjp:dat		
 hesko	hesko	adv:pos		
 heskościach	heskość	subst:pl:loc:f	nazwa pospolita	
 heskościami	heskość	subst:pl:inst:f	nazwa pospolita	
@@ -20127,7 +20127,7 @@ hesperyjskim	hesperyjski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 hesperyjskim	hesperyjski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 hesperyjskimi	hesperyjski	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 hesperyjsko	hesperyjski	adja		daw.
-hesperyjsku	hesperyjski	adjp		daw.
+hesperyjsku	hesperyjski	adjp:dat		daw.
 hesperyjsko	hesperyjsko	adv:pos		
 hesperyjskościach	hesperyjskość	subst:pl:loc:f	nazwa pospolita	daw.
 hesperyjskościami	hesperyjskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -21489,7 +21489,7 @@ hetmańskim	hetmański	adj:sg:inst:m1.m2.m3.n:pos
 hetmańskim	hetmański	adj:sg:loc:m1.m2.m3.n:pos		
 hetmańskimi	hetmański	adj:pl:inst:m1.m2.m3.f.n:pos		
 hetmańsko	hetmański	adja		
-hetmańsku	hetmański	adjp		
+hetmańsku	hetmański	adjp:dat		
 hetmańsko	hetmańsko	adv:pos		
 hetmańskościach	hetmańskość	subst:pl:loc:f	nazwa pospolita	
 hetmańskościami	hetmańskość	subst:pl:inst:f	nazwa pospolita	
@@ -21548,7 +21548,7 @@ hetyckim	hetycki	adj:sg:inst:m1.m2.m3.n:pos
 hetyckim	hetycki	adj:sg:loc:m1.m2.m3.n:pos		
 hetyckimi	hetycki	adj:pl:inst:m1.m2.m3.f.n:pos		
 hetycko	hetycki	adja		
-hetycku	hetycki	adjp		
+hetycku	hetycki	adjp:dat		
 hetycko	hetycko	adv:pos		
 hetyckościach	hetyckość	subst:pl:loc:f	nazwa pospolita	
 hetyckościami	hetyckość	subst:pl:inst:f	nazwa pospolita	
@@ -23689,7 +23689,7 @@ himalajskim	himalajski	adj:sg:inst:m1.m2.m3.n:pos
 himalajskim	himalajski	adj:sg:loc:m1.m2.m3.n:pos		
 himalajskimi	himalajski	adj:pl:inst:m1.m2.m3.f.n:pos		
 himalajsko	himalajski	adja		
-himalajsku	himalajski	adjp		
+himalajsku	himalajski	adjp:dat		
 himalajsko	himalajsko	adv:pos		
 himalajskościach	himalajskość	subst:pl:loc:f	nazwa pospolita	
 himalajskościami	himalajskość	subst:pl:inst:f	nazwa pospolita	
@@ -23750,7 +23750,7 @@ hindostańskim	hindostański	adj:sg:inst:m1.m2.m3.n:pos
 hindostańskim	hindostański	adj:sg:loc:m1.m2.m3.n:pos		
 hindostańskimi	hindostański	adj:pl:inst:m1.m2.m3.f.n:pos		
 hindostańsko	hindostański	adja		
-hindostańsku	hindostański	adjp		
+hindostańsku	hindostański	adjp:dat		
 hindostańsko	hindostańsko	adv:pos		
 hindostańskościach	hindostańskość	subst:pl:loc:f	nazwa pospolita	
 hindostańskościami	hindostańskość	subst:pl:inst:f	nazwa pospolita	
@@ -23890,7 +23890,7 @@ hinduskim	hinduski:a	adj:sg:inst:m1.m2.m3.n:pos
 hinduskim	hinduski:a	adj:sg:loc:m1.m2.m3.n:pos		
 hinduskimi	hinduski:a	adj:pl:inst:m1.m2.m3.f.n:pos		
 hindusko	hinduski:a	adja		
-hindusku	hinduski:a	adjp		
+hindusku	hinduski:a	adjp:dat		
 hinduskich	hinduski:s	subst:pl:gen:m3	nazwa pospolita	
 hinduskich	hinduski:s	subst:pl:loc:m3	nazwa pospolita	
 hinduskiego	hinduski:s	subst:sg:gen:m3	nazwa pospolita	
@@ -23940,7 +23940,7 @@ hindustańskim	hindustański	adj:sg:inst:m1.m2.m3.n:pos
 hindustańskim	hindustański	adj:sg:loc:m1.m2.m3.n:pos		
 hindustańskimi	hindustański	adj:pl:inst:m1.m2.m3.f.n:pos		
 hindustańsko	hindustański	adja		
-hindustańsku	hindustański	adjp		
+hindustańsku	hindustański	adjp:dat		
 hindustańsko	hindustańsko	adv:pos		
 hindustańskościach	hindustańskość	subst:pl:loc:f	nazwa pospolita	
 hindustańskościami	hindustańskość	subst:pl:inst:f	nazwa pospolita	
@@ -24284,7 +24284,7 @@ hiperborejskim	hiperborejski	adj:sg:inst:m1.m2.m3.n:pos
 hiperborejskim	hiperborejski	adj:sg:loc:m1.m2.m3.n:pos		
 hiperborejskimi	hiperborejski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hiperborejsko	hiperborejski	adja		
-hiperborejsku	hiperborejski	adjp		
+hiperborejsku	hiperborejski	adjp:dat		
 hiperborejsko	hiperborejsko	adv:pos		
 hiperborejskościach	hiperborejskość	subst:pl:loc:f	nazwa pospolita	
 hiperborejskościami	hiperborejskość	subst:pl:inst:f	nazwa pospolita	
@@ -25562,7 +25562,7 @@ hipisowskim	hipisowski	adj:sg:inst:m1.m2.m3.n:pos
 hipisowskim	hipisowski	adj:sg:loc:m1.m2.m3.n:pos		
 hipisowskimi	hipisowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hipisowsko	hipisowski	adja		
-hipisowsku	hipisowski	adjp		
+hipisowsku	hipisowski	adjp:dat		
 hipisowsko	hipisowsko	adv:pos		
 hipisowskościach	hipisowskość	subst:pl:loc:f	nazwa pospolita	
 hipisowskościami	hipisowskość	subst:pl:inst:f	nazwa pospolita	
@@ -25824,7 +25824,7 @@ hipnotyzerskim	hipnotyzerski	adj:sg:inst:m1.m2.m3.n:pos
 hipnotyzerskim	hipnotyzerski	adj:sg:loc:m1.m2.m3.n:pos		
 hipnotyzerskimi	hipnotyzerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hipnotyzersko	hipnotyzerski	adja		
-hipnotyzersku	hipnotyzerski	adjp		
+hipnotyzersku	hipnotyzerski	adjp:dat		
 hipnotyzersko	hipnotyzersko	adv:pos		
 hipnotyzerskościach	hipnotyzerskość	subst:pl:loc:f	nazwa pospolita	
 hipnotyzerskościami	hipnotyzerskość	subst:pl:inst:f	nazwa pospolita	
@@ -26552,7 +26552,7 @@ hipokryckim	hipokrycki	adj:sg:inst:m1.m2.m3.n:pos		przest.
 hipokryckim	hipokrycki	adj:sg:loc:m1.m2.m3.n:pos		przest.
 hipokryckimi	hipokrycki	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
 hipokrycko	hipokrycki	adja		przest.
-hipokrycku	hipokrycki	adjp		przest.
+hipokrycku	hipokrycki	adjp:dat		przest.
 hipokrycko	hipokrycko	adv:pos		
 hipokryckościach	hipokryckość	subst:pl:loc:f	nazwa pospolita	przest.
 hipokryckościami	hipokryckość	subst:pl:inst:f	nazwa pospolita	przest.
@@ -27657,7 +27657,7 @@ hippiesowskim	hippiesowski	adj:sg:inst:m1.m2.m3.n:pos
 hippiesowskim	hippiesowski	adj:sg:loc:m1.m2.m3.n:pos		
 hippiesowskimi	hippiesowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hippiesowsko	hippiesowski	adja		
-hippiesowsku	hippiesowski	adjp		
+hippiesowsku	hippiesowski	adjp:dat		
 hippiesowsko	hippiesowsko	adv:pos		
 hippiesowskościach	hippiesowskość	subst:pl:loc:f	nazwa pospolita	
 hippiesowskościami	hippiesowskość	subst:pl:inst:f	nazwa pospolita	
@@ -27717,7 +27717,7 @@ hippisowskim	hippisowski	adj:sg:inst:m1.m2.m3.n:pos
 hippisowskim	hippisowski	adj:sg:loc:m1.m2.m3.n:pos		
 hippisowskimi	hippisowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hippisowsko	hippisowski	adja		
-hippisowsku	hippisowski	adjp		
+hippisowsku	hippisowski	adjp:dat		
 hippisowsko	hippisowsko	adv:pos		
 hippisowskościach	hippisowskość	subst:pl:loc:f	nazwa pospolita	
 hippisowskościami	hippisowskość	subst:pl:inst:f	nazwa pospolita	
@@ -27870,7 +27870,7 @@ hipsterskim	hipsterski	adj:sg:inst:m1.m2.m3.n:pos
 hipsterskim	hipsterski	adj:sg:loc:m1.m2.m3.n:pos		
 hipsterskimi	hipsterski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hipstersko	hipsterski	adja		
-hipstersku	hipsterski	adjp		
+hipstersku	hipsterski	adjp:dat		
 hipstersko	hipstersko	adv:pos		
 hipsterskościach	hipsterskość	subst:pl:loc:f	nazwa pospolita	
 hipsterskościami	hipsterskość	subst:pl:inst:f	nazwa pospolita	
@@ -27975,7 +27975,7 @@ hiroszimskim	hiroszimski	adj:sg:inst:m1.m2.m3.n:pos
 hiroszimskim	hiroszimski	adj:sg:loc:m1.m2.m3.n:pos		
 hiroszimskimi	hiroszimski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hiroszimsko	hiroszimski	adja		
-hiroszimsku	hiroszimski	adjp		
+hiroszimsku	hiroszimski	adjp:dat		
 hiroszimsko	hiroszimsko	adv:pos		
 hiroszimskościach	hiroszimskość	subst:pl:loc:f	nazwa pospolita	
 hiroszimskościami	hiroszimskość	subst:pl:inst:f	nazwa pospolita	
@@ -28169,7 +28169,7 @@ hispanoamerykańskim	hispanoamerykański	adj:sg:inst:m1.m2.m3.n:pos
 hispanoamerykańskim	hispanoamerykański	adj:sg:loc:m1.m2.m3.n:pos		
 hispanoamerykańskimi	hispanoamerykański	adj:pl:inst:m1.m2.m3.f.n:pos		
 hispanoamerykańsko	hispanoamerykański	adja		
-hispanoamerykańsku	hispanoamerykański	adjp		
+hispanoamerykańsku	hispanoamerykański	adjp:dat		
 hispanoamerykańsko	hispanoamerykańsko	adv:pos		
 hispanoamerykańskościach	hispanoamerykańskość	subst:pl:loc:f	nazwa pospolita	
 hispanoamerykańskościami	hispanoamerykańskość	subst:pl:inst:f	nazwa pospolita	
@@ -28934,7 +28934,7 @@ historycznoliterackim	historycznoliteracki	adj:sg:inst:m1.m2.m3.n:pos
 historycznoliterackim	historycznoliteracki	adj:sg:loc:m1.m2.m3.n:pos		
 historycznoliterackimi	historycznoliteracki	adj:pl:inst:m1.m2.m3.f.n:pos		
 historycznoliteracko	historycznoliteracki	adja		
-historycznoliteracku	historycznoliteracki	adjp		
+historycznoliteracku	historycznoliteracki	adjp:dat		
 historycznoliteracko	historycznoliteracko	adv:pos		
 historycznoliterackościach	historycznoliterackość	subst:pl:loc:f	nazwa pospolita	
 historycznoliterackościami	historycznoliterackość	subst:pl:inst:f	nazwa pospolita	
@@ -29152,6 +29152,7 @@ hiszpanki	hiszpanka	subst:sg:gen:f	nazwa pospolita
 hiszpanko	hiszpanka	subst:sg:voc:f	nazwa pospolita	
 hiszpankom	hiszpanka	subst:pl:dat:f	nazwa pospolita	
 hiszpańscy	hiszpański:a	adj:pl:nom.voc:m1:pos		
+hiszpańska	hiszpański:a	adjp:gen		
 hiszpańska	hiszpański:a	adj:sg:nom.voc:f:pos		
 hiszpańską	hiszpański:a	adj:sg:acc:f:pos		
 hiszpańską	hiszpański:a	adj:sg:inst:f:pos		
@@ -29175,7 +29176,7 @@ hiszpańskim	hiszpański:a	adj:sg:inst:m1.m2.m3.n:pos
 hiszpańskim	hiszpański:a	adj:sg:loc:m1.m2.m3.n:pos		
 hiszpańskimi	hiszpański:a	adj:pl:inst:m1.m2.m3.f.n:pos		
 hiszpańsko	hiszpański:a	adja		
-hiszpańsku	hiszpański:a	adjp		
+hiszpańsku	hiszpański:a	adjp:dat		
 hiszpańskich	hiszpański:s	subst:pl:gen:m3	nazwa pospolita	
 hiszpańskich	hiszpański:s	subst:pl:loc:m3	nazwa pospolita	
 hiszpańskiego	hiszpański:s	subst:sg:gen:m3	nazwa pospolita	
@@ -29292,7 +29293,7 @@ hitlerowskim	hitlerowski	adj:sg:inst:m1.m2.m3.n:pos
 hitlerowskim	hitlerowski	adj:sg:loc:m1.m2.m3.n:pos		
 hitlerowskimi	hitlerowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hitlerowsko	hitlerowski	adja		
-hitlerowsku	hitlerowski	adjp		
+hitlerowsku	hitlerowski	adjp:dat		
 hitlerowsko	hitlerowsko	adv:pos		
 hitlerowskościach	hitlerowskość	subst:pl:loc:f	nazwa pospolita	
 hitlerowskościami	hitlerowskość	subst:pl:inst:f	nazwa pospolita	
@@ -29590,7 +29591,7 @@ hobbistowskim	hobbistowski	adj:sg:inst:m1.m2.m3.n:pos
 hobbistowskim	hobbistowski	adj:sg:loc:m1.m2.m3.n:pos		
 hobbistowskimi	hobbistowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hobbistowsko	hobbistowski	adja		
-hobbistowsku	hobbistowski	adjp		
+hobbistowsku	hobbistowski	adjp:dat		
 hobbistowsko	hobbistowsko	adv:pos		
 hobbistowskościach	hobbistowskość	subst:pl:loc:f	nazwa pospolita	
 hobbistowskościami	hobbistowskość	subst:pl:inst:f	nazwa pospolita	
@@ -29699,7 +29700,7 @@ hobbystowskim	hobbystowski	adj:sg:inst:m1.m2.m3.n:pos
 hobbystowskim	hobbystowski	adj:sg:loc:m1.m2.m3.n:pos		
 hobbystowskimi	hobbystowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hobbystowsko	hobbystowski	adja		
-hobbystowsku	hobbystowski	adjp		
+hobbystowsku	hobbystowski	adjp:dat		
 hobbystowsko	hobbystowsko	adv:pos		
 hobbystowskościach	hobbystowskość	subst:pl:loc:f	nazwa pospolita	
 hobbystowskościami	hobbystowskość	subst:pl:inst:f	nazwa pospolita	
@@ -29796,7 +29797,7 @@ hochsztaplerskim	hochsztaplerski	adj:sg:inst:m1.m2.m3.n:pos
 hochsztaplerskim	hochsztaplerski	adj:sg:loc:m1.m2.m3.n:pos		
 hochsztaplerskimi	hochsztaplerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hochsztaplersko	hochsztaplerski	adja		
-hochsztaplersku	hochsztaplerski	adjp		
+hochsztaplersku	hochsztaplerski	adjp:dat		
 hochsztaplersko	hochsztaplersko	adv:pos		
 hochsztaplerskościach	hochsztaplerskość	subst:pl:loc:f	nazwa pospolita	
 hochsztaplerskościami	hochsztaplerskość	subst:pl:inst:f	nazwa pospolita	
@@ -30479,6 +30480,7 @@ holendry	holender:s2	subst:pl:nom.acc.voc:m3	nazwa pospolita
 holendrze	holender:s2	subst:sg:loc:m3	nazwa pospolita	
 holendrze	holender:s2	subst:sg:voc:m3	nazwa pospolita	
 holenderscy	holenderski:a	adj:pl:nom.voc:m1:pos		
+holenderska	holenderski:a	adjp:gen		
 holenderska	holenderski:a	adj:sg:nom.voc:f:pos		
 holenderską	holenderski:a	adj:sg:acc:f:pos		
 holenderską	holenderski:a	adj:sg:inst:f:pos		
@@ -30502,7 +30504,7 @@ holenderskim	holenderski:a	adj:sg:inst:m1.m2.m3.n:pos
 holenderskim	holenderski:a	adj:sg:loc:m1.m2.m3.n:pos		
 holenderskimi	holenderski:a	adj:pl:inst:m1.m2.m3.f.n:pos		
 holendersko	holenderski:a	adja		
-holendersku	holenderski:a	adjp		
+holendersku	holenderski:a	adjp:dat		
 holenderskich	holenderski:s	subst:pl:gen:m3	nazwa pospolita	
 holenderskich	holenderski:s	subst:pl:loc:m3	nazwa pospolita	
 holenderskiego	holenderski:s	subst:sg:gen:m3	nazwa pospolita	
@@ -30738,7 +30740,7 @@ hollywoodzkim	hollywoodzki	adj:sg:inst:m1.m2.m3.n:pos
 hollywoodzkim	hollywoodzki	adj:sg:loc:m1.m2.m3.n:pos		
 hollywoodzkimi	hollywoodzki	adj:pl:inst:m1.m2.m3.f.n:pos		
 hollywoodzko	hollywoodzki	adja		
-hollywoodzku	hollywoodzki	adjp		
+hollywoodzku	hollywoodzki	adjp:dat		
 hollywoodzko	hollywoodzko	adv:pos		
 hollywoodzkościach	hollywoodzkość	subst:pl:loc:f	nazwa pospolita	
 hollywoodzkościami	hollywoodzkość	subst:pl:inst:f	nazwa pospolita	
@@ -30808,7 +30810,7 @@ holoceńskim	holoceński	adj:sg:inst:m1.m2.m3.n:pos
 holoceńskim	holoceński	adj:sg:loc:m1.m2.m3.n:pos		
 holoceńskimi	holoceński	adj:pl:inst:m1.m2.m3.f.n:pos		
 holoceńsko	holoceński	adja		
-holoceńsku	holoceński	adjp		
+holoceńsku	holoceński	adjp:dat		
 holoceńsko	holoceńsko	adv:pos		
 holoceńskościach	holoceńskość	subst:pl:loc:f	nazwa pospolita	
 holoceńskościami	holoceńskość	subst:pl:inst:f	nazwa pospolita	
@@ -31276,7 +31278,7 @@ holsztyńskim	holsztyński	adj:sg:inst:m1.m2.m3.n:pos
 holsztyńskim	holsztyński	adj:sg:loc:m1.m2.m3.n:pos		
 holsztyńskimi	holsztyński	adj:pl:inst:m1.m2.m3.f.n:pos		
 holsztyńsko	holsztyński	adja		
-holsztyńsku	holsztyński	adjp		
+holsztyńsku	holsztyński	adjp:dat		
 holsztyńsko	holsztyńsko	adv:pos		
 holsztyńskościach	holsztyńskość	subst:pl:loc:f	nazwa pospolita	
 holsztyńskościami	holsztyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -31921,7 +31923,7 @@ homelskim	homelski	adj:sg:inst:m1.m2.m3.n:pos
 homelskim	homelski	adj:sg:loc:m1.m2.m3.n:pos		
 homelskimi	homelski	adj:pl:inst:m1.m2.m3.f.n:pos		
 homelsko	homelski	adja		
-homelsku	homelski	adjp		
+homelsku	homelski	adjp:dat		
 homelsko	homelsko	adv:pos		
 homelskościach	homelskość	subst:pl:loc:f	nazwa pospolita	
 homelskościami	homelskość	subst:pl:inst:f	nazwa pospolita	
@@ -32226,7 +32228,7 @@ homerowskim	homerowski	adj:sg:inst:m1.m2.m3.n:pos
 homerowskim	homerowski	adj:sg:loc:m1.m2.m3.n:pos		
 homerowskimi	homerowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 homerowsko	homerowski	adja		
-homerowsku	homerowski	adjp		
+homerowsku	homerowski	adjp:dat		
 homerowsko	homerowsko	adv:pos		
 homerowskościach	homerowskość	subst:pl:loc:f	nazwa pospolita	
 homerowskościami	homerowskość	subst:pl:inst:f	nazwa pospolita	
@@ -32287,7 +32289,7 @@ homeryckim	homerycki	adj:sg:inst:m1.m2.m3.n:pos
 homeryckim	homerycki	adj:sg:loc:m1.m2.m3.n:pos		
 homeryckimi	homerycki	adj:pl:inst:m1.m2.m3.f.n:pos		
 homerycko	homerycki	adja		
-homerycku	homerycki	adjp		
+homerycku	homerycki	adjp:dat		
 homerycko	homerycko	adv:pos		
 homeryckościach	homeryckość	subst:pl:loc:f	nazwa pospolita	
 homeryckościami	homeryckość	subst:pl:inst:f	nazwa pospolita	
@@ -33741,7 +33743,7 @@ honduraskim	honduraski	adj:sg:inst:m1.m2.m3.n:pos
 honduraskim	honduraski	adj:sg:loc:m1.m2.m3.n:pos		
 honduraskimi	honduraski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hondurasko	honduraski	adja		
-hondurasku	honduraski	adjp		
+hondurasku	honduraski	adjp:dat		
 hondurasko	hondurasko	adv:pos		
 honduraskościach	honduraskość	subst:pl:loc:f	nazwa pospolita	
 honduraskościami	honduraskość	subst:pl:inst:f	nazwa pospolita	
@@ -33778,7 +33780,7 @@ hongkońskim	hongkoński	adj:sg:inst:m1.m2.m3.n:pos
 hongkońskim	hongkoński	adj:sg:loc:m1.m2.m3.n:pos		
 hongkońskimi	hongkoński	adj:pl:inst:m1.m2.m3.f.n:pos		
 hongkońsko	hongkoński	adja		
-hongkońsku	hongkoński	adjp		
+hongkońsku	hongkoński	adjp:dat		
 hongkońsko	hongkońsko	adv:pos		
 hongkońskościach	hongkońskość	subst:pl:loc:f	nazwa pospolita	
 hongkońskościami	hongkońskość	subst:pl:inst:f	nazwa pospolita	
@@ -33815,7 +33817,7 @@ honiarskim	honiarski	adj:sg:inst:m1.m2.m3.n:pos
 honiarskim	honiarski	adj:sg:loc:m1.m2.m3.n:pos		
 honiarskimi	honiarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 honiarsko	honiarski	adja		
-honiarsku	honiarski	adjp		
+honiarsku	honiarski	adjp:dat		
 honiarsko	honiarsko	adv:pos		
 honiarskościach	honiarskość	subst:pl:loc:f	nazwa pospolita	
 honiarskościami	honiarskość	subst:pl:inst:f	nazwa pospolita	
@@ -34487,7 +34489,7 @@ hopkami	hopki	subst:pl:inst:n:pt	nazwa pospolita
 hopki	hopki	subst:pl:nom.acc.voc:n:pt	nazwa pospolita	
 hopkom	hopki	subst:pl:dat:n:pt	nazwa pospolita	
 hopków	hopki	subst:pl:gen:n:pt	nazwa pospolita	
-hopla	hopla:b	burk		
+hopla	hopla:b	frag		
 hopla	hopla:i	interj		
 hoplach	hopla:s	subst:pl:loc:f	nazwa pospolita	rzad.
 hopla	hopla:s	subst:sg:nom:f	nazwa pospolita	rzad.
@@ -34826,7 +34828,7 @@ horacjańskim	horacjański	adj:sg:inst:m1.m2.m3.n:pos
 horacjańskim	horacjański	adj:sg:loc:m1.m2.m3.n:pos		
 horacjańskimi	horacjański	adj:pl:inst:m1.m2.m3.f.n:pos		
 horacjańsko	horacjański	adja		
-horacjańsku	horacjański	adjp		
+horacjańsku	horacjański	adjp:dat		
 horacjańsko	horacjańsko	adv:pos		
 horacjańskościach	horacjańskość	subst:pl:loc:f	nazwa pospolita	
 horacjańskościami	horacjańskość	subst:pl:inst:f	nazwa pospolita	
@@ -34863,7 +34865,7 @@ horacjuszowskim	horacjuszowski	adj:sg:inst:m1.m2.m3.n:pos
 horacjuszowskim	horacjuszowski	adj:sg:loc:m1.m2.m3.n:pos		
 horacjuszowskimi	horacjuszowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 horacjuszowsko	horacjuszowski	adja		
-horacjuszowsku	horacjuszowski	adjp		
+horacjuszowsku	horacjuszowski	adjp:dat		
 horacjuszowsko	horacjuszowsko	adv:pos		
 horacjuszowskościach	horacjuszowskość	subst:pl:loc:f	nazwa pospolita	
 horacjuszowskościami	horacjuszowskość	subst:pl:inst:f	nazwa pospolita	
@@ -35218,7 +35220,7 @@ horodelskim	horodelski	adj:sg:inst:m1.m2.m3.n:pos
 horodelskim	horodelski	adj:sg:loc:m1.m2.m3.n:pos		
 horodelskimi	horodelski	adj:pl:inst:m1.m2.m3.f.n:pos		
 horodelsko	horodelski	adja		
-horodelsku	horodelski	adjp		
+horodelsku	horodelski	adjp:dat		
 horodelsko	horodelsko	adv:pos		
 horodelskościach	horodelskość	subst:pl:loc:f	nazwa pospolita	
 horodelskościami	horodelskość	subst:pl:inst:f	nazwa pospolita	
@@ -35486,7 +35488,7 @@ horteksowskim	horteksowski	adj:sg:inst:m1.m2.m3.n:pos
 horteksowskim	horteksowski	adj:sg:loc:m1.m2.m3.n:pos		
 horteksowskimi	horteksowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 horteksowsko	horteksowski	adja		
-horteksowsku	horteksowski	adjp		
+horteksowsku	horteksowski	adjp:dat		
 horteksowsko	horteksowsko	adv:pos		
 horteksowskościach	horteksowskość	subst:pl:loc:f	nazwa pospolita	
 horteksowskościami	horteksowskość	subst:pl:inst:f	nazwa pospolita	
@@ -36095,7 +36097,7 @@ hospodarskim	hospodarski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 hospodarskim	hospodarski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 hospodarskimi	hospodarski	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 hospodarsko	hospodarski	adja		daw.
-hospodarsku	hospodarski	adjp		daw.
+hospodarsku	hospodarski	adjp:dat		daw.
 hospodarsko	hospodarsko	adv:pos		daw.
 hospodarskościach	hospodarskość	subst:pl:loc:f	nazwa pospolita	daw.
 hospodarskościami	hospodarskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -36155,7 +36157,7 @@ hospodyńskim	hospodyński	adj:sg:inst:m1.m2.m3.n:pos		daw.
 hospodyńskim	hospodyński	adj:sg:loc:m1.m2.m3.n:pos		daw.
 hospodyńskimi	hospodyński	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 hospodyńsko	hospodyński	adja		daw.
-hospodyńsku	hospodyński	adjp		daw.
+hospodyńsku	hospodyński	adjp:dat		daw.
 hospodyńsko	hospodyńsko	adv:pos		daw.
 hospodyńskościach	hospodyńskość	subst:pl:loc:f	nazwa pospolita	daw.
 hospodyńskościami	hospodyńskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -36340,7 +36342,7 @@ hotelarskim	hotelarski	adj:sg:inst:m1.m2.m3.n:pos
 hotelarskim	hotelarski	adj:sg:loc:m1.m2.m3.n:pos		
 hotelarskimi	hotelarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hotelarsko	hotelarski	adja		
-hotelarsku	hotelarski	adjp		
+hotelarsku	hotelarski	adjp:dat		
 hotelarsko	hotelarsko	adv:pos		
 hotelarskościach	hotelarskość	subst:pl:loc:f	nazwa pospolita	
 hotelarskościami	hotelarskość	subst:pl:inst:f	nazwa pospolita	
@@ -36548,7 +36550,7 @@ hotentockim	hotentocki	adj:sg:inst:m1.m2.m3.n:pos
 hotentockim	hotentocki	adj:sg:loc:m1.m2.m3.n:pos		
 hotentockimi	hotentocki	adj:pl:inst:m1.m2.m3.f.n:pos		
 hotentocko	hotentocki	adja		
-hotentocku	hotentocki	adjp		
+hotentocku	hotentocki	adjp:dat		
 hotentocko	hotentocko	adv:pos		
 hotentockościach	hotentockość	subst:pl:loc:f	nazwa pospolita	
 hotentockościami	hotentockość	subst:pl:inst:f	nazwa pospolita	
@@ -36764,7 +36766,7 @@ hrabiowskim	hrabiowski	adj:sg:inst:m1.m2.m3.n:pos
 hrabiowskim	hrabiowski	adj:sg:loc:m1.m2.m3.n:pos		
 hrabiowskimi	hrabiowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hrabiowsko	hrabiowski	adja		
-hrabiowsku	hrabiowski	adjp		
+hrabiowsku	hrabiowski	adjp:dat		
 hrabiowsko	hrabiowsko	adv:pos		
 hrabiowskościach	hrabiowskość	subst:pl:loc:f	nazwa pospolita	
 hrabiowskościami	hrabiowskość	subst:pl:inst:f	nazwa pospolita	
@@ -36801,7 +36803,7 @@ hrabskim	hrabski	adj:sg:inst:m1.m2.m3.n:pos
 hrabskim	hrabski	adj:sg:loc:m1.m2.m3.n:pos		
 hrabskimi	hrabski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hrabsko	hrabski	adja		
-hrabsku	hrabski	adjp		
+hrabsku	hrabski	adjp:dat		
 hrabsko	hrabsko	adv:pos		
 hrabskościach	hrabskość	subst:pl:loc:f	nazwa pospolita	
 hrabskościami	hrabskość	subst:pl:inst:f	nazwa pospolita	
@@ -36853,7 +36855,7 @@ hradczańskim	hradczański	adj:sg:inst:m1.m2.m3.n:pos
 hradczańskim	hradczański	adj:sg:loc:m1.m2.m3.n:pos		
 hradczańskimi	hradczański	adj:pl:inst:m1.m2.m3.f.n:pos		
 hradczańsko	hradczański	adja		
-hradczańsku	hradczański	adjp		
+hradczańsku	hradczański	adjp:dat		
 hradczańsko	hradczańsko	adv:pos		
 hradczańskościach	hradczańskość	subst:pl:loc:f	nazwa pospolita	
 hradczańskościami	hradczańskość	subst:pl:inst:f	nazwa pospolita	
@@ -36959,7 +36961,7 @@ hreczkosiejskim	hreczkosiejski	adj:sg:inst:m1.m2.m3.n:pos
 hreczkosiejskim	hreczkosiejski	adj:sg:loc:m1.m2.m3.n:pos		
 hreczkosiejskimi	hreczkosiejski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hreczkosiejsko	hreczkosiejski	adja		
-hreczkosiejsku	hreczkosiejski	adjp		
+hreczkosiejsku	hreczkosiejski	adjp:dat		
 hreczkosiejsko	hreczkosiejsko	adv:pos		
 hreczkosiejskościach	hreczkosiejskość	subst:pl:loc:f	nazwa pospolita	
 hreczkosiejskościami	hreczkosiejskość	subst:pl:inst:f	nazwa pospolita	
@@ -37054,7 +37056,7 @@ hrubieszowskim	hrubieszowski	adj:sg:inst:m1.m2.m3.n:pos
 hrubieszowskim	hrubieszowski	adj:sg:loc:m1.m2.m3.n:pos		
 hrubieszowskimi	hrubieszowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hrubieszowsko	hrubieszowski	adja		
-hrubieszowsku	hrubieszowski	adjp		
+hrubieszowsku	hrubieszowski	adjp:dat		
 hrubieszowsko	hrubieszowsko	adv:pos		
 hrubieszowskościach	hrubieszowskość	subst:pl:loc:f	nazwa pospolita	
 hrubieszowskościami	hrubieszowskość	subst:pl:inst:f	nazwa pospolita	
@@ -37372,7 +37374,7 @@ hucpiarskim	hucpiarski	adj:sg:inst:m1.m2.m3.n:pos
 hucpiarskim	hucpiarski	adj:sg:loc:m1.m2.m3.n:pos		
 hucpiarskimi	hucpiarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hucpiarsko	hucpiarski	adja		
-hucpiarsku	hucpiarski	adjp		
+hucpiarsku	hucpiarski	adjp:dat		
 hucpiarsko	hucpiarsko	adv:pos		
 hucpiarskościach	hucpiarskość	subst:pl:loc:f	nazwa pospolita	
 hucpiarskościami	hucpiarskość	subst:pl:inst:f	nazwa pospolita	
@@ -37433,7 +37435,7 @@ huculskim	huculski	adj:sg:inst:m1.m2.m3.n:pos
 huculskim	huculski	adj:sg:loc:m1.m2.m3.n:pos		
 huculskimi	huculski	adj:pl:inst:m1.m2.m3.f.n:pos		
 huculsko	huculski	adja		
-huculsku	huculski	adjp		
+huculsku	huculski	adjp:dat		
 huculsko	huculsko	adv:pos		
 huculskościach	huculskość	subst:pl:loc:f	nazwa pospolita	
 huculskościami	huculskość	subst:pl:inst:f	nazwa pospolita	
@@ -37709,7 +37711,7 @@ huczwiańskim	huczwiański	adj:sg:inst:m1.m2.m3.n:pos
 huczwiańskim	huczwiański	adj:sg:loc:m1.m2.m3.n:pos		
 huczwiańskimi	huczwiański	adj:pl:inst:m1.m2.m3.f.n:pos		
 huczwiańsko	huczwiański	adja		
-huczwiańsku	huczwiański	adjp		
+huczwiańsku	huczwiański	adjp:dat		
 huczwiańsko	huczwiańsko	adv:pos		
 huczwiańskościach	huczwiańskość	subst:pl:loc:f	nazwa pospolita	
 huczwiańskościami	huczwiańskość	subst:pl:inst:f	nazwa pospolita	
@@ -37746,7 +37748,7 @@ hudsońskim	hudsoński	adj:sg:inst:m1.m2.m3.n:pos
 hudsońskim	hudsoński	adj:sg:loc:m1.m2.m3.n:pos		
 hudsońskimi	hudsoński	adj:pl:inst:m1.m2.m3.f.n:pos		
 hudsońsko	hudsoński	adja		
-hudsońsku	hudsoński	adjp		
+hudsońsku	hudsoński	adjp:dat		
 hudsońsko	hudsońsko	adv:pos		
 hudsońskościach	hudsońskość	subst:pl:loc:f	nazwa pospolita	
 hudsońskościami	hudsońskość	subst:pl:inst:f	nazwa pospolita	
@@ -37896,7 +37898,7 @@ hugenockim	hugenocki	adj:sg:inst:m1.m2.m3.n:pos
 hugenockim	hugenocki	adj:sg:loc:m1.m2.m3.n:pos		
 hugenockimi	hugenocki	adj:pl:inst:m1.m2.m3.f.n:pos		
 hugenocko	hugenocki	adja		
-hugenocku	hugenocki	adjp		
+hugenocku	hugenocki	adjp:dat		
 hugenocko	hugenocko	adv:pos		
 hugenockościach	hugenockość	subst:pl:loc:f	nazwa pospolita	
 hugenockościami	hugenockość	subst:pl:inst:f	nazwa pospolita	
@@ -37945,7 +37947,7 @@ hugonockim	hugonocki	adj:sg:inst:m1.m2.m3.n:pos
 hugonockim	hugonocki	adj:sg:loc:m1.m2.m3.n:pos		
 hugonockimi	hugonocki	adj:pl:inst:m1.m2.m3.f.n:pos		
 hugonocko	hugonocki	adja		
-hugonocku	hugonocki	adjp		
+hugonocku	hugonocki	adjp:dat		
 hugonocko	hugonocko	adv:pos		
 hugonockościach	hugonockość	subst:pl:loc:f	nazwa pospolita	
 hugonockościami	hugonockość	subst:pl:inst:f	nazwa pospolita	
@@ -38262,7 +38264,7 @@ hukslejowskim	hukslejowski	adj:sg:inst:m1.m2.m3.n:pos
 hukslejowskim	hukslejowski	adj:sg:loc:m1.m2.m3.n:pos		
 hukslejowskimi	hukslejowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hukslejowsko	hukslejowski	adja		
-hukslejowsku	hukslejowski	adjp		
+hukslejowsku	hukslejowski	adjp:dat		
 hukslejowsko	hukslejowsko	adv:pos		
 hukslejowskościach	hukslejowskość	subst:pl:loc:f	nazwa pospolita	
 hukslejowskościami	hukslejowskość	subst:pl:inst:f	nazwa pospolita	
@@ -38301,7 +38303,7 @@ hulackim	hulacki	adj:sg:inst:m1.m2.m3.n:pos		daw.
 hulackim	hulacki	adj:sg:loc:m1.m2.m3.n:pos		daw.
 hulackimi	hulacki	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 hulacko	hulacki	adja		daw.
-hulacku	hulacki	adjp		daw.
+hulacku	hulacki	adjp:dat		daw.
 hulacko	hulacko	adv:pos		daw.
 hulackościach	hulackość	subst:pl:loc:f	nazwa pospolita	daw.
 hulackościami	hulackość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -38808,7 +38810,7 @@ hultajskim	hultajski	adj:sg:inst:m1.m2.m3.n:pos
 hultajskim	hultajski	adj:sg:loc:m1.m2.m3.n:pos		
 hultajskimi	hultajski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hultajsko	hultajski	adja		
-hultajsku	hultajski	adjp		
+hultajsku	hultajski	adjp:dat		
 hultajsko	hultajsko	adv:pos		przest.
 hultajskościach	hultajskość	subst:pl:loc:f	nazwa pospolita	
 hultajskościami	hultajskość	subst:pl:inst:f	nazwa pospolita	
@@ -39255,7 +39257,7 @@ humańskim	humański	adj:sg:inst:m1.m2.m3.n:pos
 humańskim	humański	adj:sg:loc:m1.m2.m3.n:pos		
 humańskimi	humański	adj:pl:inst:m1.m2.m3.f.n:pos		
 humańsko	humański	adja		
-humańsku	humański	adjp		
+humańsku	humański	adjp:dat		
 humańsko	humańsko	adv:pos		
 humańskościach	humańskość	subst:pl:loc:f	nazwa pospolita	
 humańskościami	humańskość	subst:pl:inst:f	nazwa pospolita	
@@ -39756,7 +39758,7 @@ humowskim	humowski	adj:sg:inst:m1.m2.m3.n:pos
 humowskim	humowski	adj:sg:loc:m1.m2.m3.n:pos		
 humowskimi	humowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 humowsko	humowski	adja		
-humowsku	humowski	adjp		
+humowsku	humowski	adjp:dat		
 humowsko	humowsko	adv:pos		
 humowskościach	humowskość	subst:pl:loc:f	nazwa pospolita	
 humowskościami	humowskość	subst:pl:inst:f	nazwa pospolita	
@@ -40014,7 +40016,7 @@ huńskim	huński	adj:sg:inst:m1.m2.m3.n:pos
 huńskim	huński	adj:sg:loc:m1.m2.m3.n:pos		
 huńskimi	huński	adj:pl:inst:m1.m2.m3.f.n:pos		
 huńsko	huński	adja		
-huńsku	huński	adjp		
+huńsku	huński	adjp:dat		
 huńsko	huńsko	adv:pos		
 huńskościach	huńskość	subst:pl:loc:f	nazwa pospolita	
 huńskościami	huńskość	subst:pl:inst:f	nazwa pospolita	
@@ -40553,7 +40555,7 @@ hurońskim	huroński	adj:sg:inst:m1.m2.m3.n:pos
 hurońskim	huroński	adj:sg:loc:m1.m2.m3.n:pos		
 hurońskimi	huroński	adj:pl:inst:m1.m2.m3.f.n:pos		
 hurońsko	huroński	adja		
-hurońsku	huroński	adjp		
+hurońsku	huroński	adjp:dat		
 hurońsko	hurońsko	adv:pos		
 hurońskościach	hurońskość	subst:pl:loc:f	nazwa pospolita	
 hurońskościami	hurońskość	subst:pl:inst:f	nazwa pospolita	
@@ -40936,7 +40938,7 @@ husarskim	husarski	adj:sg:inst:m1.m2.m3.n:pos
 husarskim	husarski	adj:sg:loc:m1.m2.m3.n:pos		
 husarskimi	husarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 husarsko	husarski	adja		
-husarsku	husarski	adjp		
+husarsku	husarski	adjp:dat		
 husarsko	husarsko	adv:pos		
 husarskościach	husarskość	subst:pl:loc:f	nazwa pospolita	
 husarskościami	husarskość	subst:pl:inst:f	nazwa pospolita	
@@ -41008,7 +41010,7 @@ husyckim	husycki	adj:sg:inst:m1.m2.m3.n:pos
 husyckim	husycki	adj:sg:loc:m1.m2.m3.n:pos		
 husyckimi	husycki	adj:pl:inst:m1.m2.m3.f.n:pos		
 husycko	husycki	adja		
-husycku	husycki	adjp		
+husycku	husycki	adjp:dat		
 husycko	husycko	adv:pos		
 husyckościach	husyckość	subst:pl:loc:f	nazwa pospolita	
 husyckościami	husyckość	subst:pl:inst:f	nazwa pospolita	
@@ -41068,7 +41070,7 @@ huszlewskim	huszlewski	adj:sg:inst:m1.m2.m3.n:pos
 huszlewskim	huszlewski	adj:sg:loc:m1.m2.m3.n:pos		
 huszlewskimi	huszlewski	adj:pl:inst:m1.m2.m3.f.n:pos		
 huszlewsko	huszlewski	adja		
-huszlewsku	huszlewski	adjp		
+huszlewsku	huszlewski	adjp:dat		
 huszlewsko	huszlewsko	adv:pos		
 huszlewskościach	huszlewskość	subst:pl:loc:f	nazwa pospolita	
 huszlewskościami	huszlewskość	subst:pl:inst:f	nazwa pospolita	
@@ -41309,7 +41311,7 @@ hutnickim	hutnicki	adj:sg:inst:m1.m2.m3.n:pos
 hutnickim	hutnicki	adj:sg:loc:m1.m2.m3.n:pos		
 hutnickimi	hutnicki	adj:pl:inst:m1.m2.m3.f.n:pos		
 hutnicko	hutnicki	adja		
-hutnicku	hutnicki	adjp		
+hutnicku	hutnicki	adjp:dat		
 hutnicko	hutnicko	adv:pos		
 hutnickościach	hutnickość	subst:pl:loc:f	nazwa pospolita	
 hutnickościami	hutnickość	subst:pl:inst:f	nazwa pospolita	
@@ -41426,7 +41428,7 @@ huzarskim	huzarski	adj:sg:inst:m1.m2.m3.n:pos
 huzarskim	huzarski	adj:sg:loc:m1.m2.m3.n:pos		
 huzarskimi	huzarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 huzarsko	huzarski	adja		
-huzarsku	huzarski	adjp		
+huzarsku	huzarski	adjp:dat		
 huzarsko	huzarsko	adv:pos		
 huzarskościach	huzarskość	subst:pl:loc:f	nazwa pospolita	
 huzarskościami	huzarskość	subst:pl:inst:f	nazwa pospolita	
@@ -41466,7 +41468,7 @@ hvarskim	hvarski	adj:sg:inst:m1.m2.m3.n:pos
 hvarskim	hvarski	adj:sg:loc:m1.m2.m3.n:pos		
 hvarskimi	hvarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hvarsko	hvarski	adja		
-hvarsku	hvarski	adjp		
+hvarsku	hvarski	adjp:dat		
 hvarsko	hvarsko	adv:pos		
 hvarskościach	hvarskość	subst:pl:loc:f	nazwa pospolita	
 hvarskościami	hvarskość	subst:pl:inst:f	nazwa pospolita	
@@ -41503,7 +41505,7 @@ hwarskim	hwarski	adj:sg:inst:m1.m2.m3.n:pos
 hwarskim	hwarski	adj:sg:loc:m1.m2.m3.n:pos		
 hwarskimi	hwarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hwarsko	hwarski	adja		
-hwarsku	hwarski	adjp		
+hwarsku	hwarski	adjp:dat		
 hwarsko	hwarsko	adv:pos		
 hwarskościach	hwarskość	subst:pl:loc:f	nazwa pospolita	
 hwarskościami	hwarskość	subst:pl:inst:f	nazwa pospolita	
@@ -41971,7 +41973,7 @@ hyclowskim	hyclowski	adj:sg:inst:m1.m2.m3.n:pos
 hyclowskim	hyclowski	adj:sg:loc:m1.m2.m3.n:pos		
 hyclowskimi	hyclowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hyclowsko	hyclowski	adja		
-hyclowsku	hyclowski	adjp		
+hyclowsku	hyclowski	adjp:dat		
 hyclowsko	hyclowsko	adv:pos		
 hyclowskościach	hyclowskość	subst:pl:loc:f	nazwa pospolita	
 hyclowskościami	hyclowskość	subst:pl:inst:f	nazwa pospolita	
@@ -45502,7 +45504,7 @@ hyżeńskim	hyżeński	adj:sg:inst:m1.m2.m3.n:pos
 hyżeńskim	hyżeński	adj:sg:loc:m1.m2.m3.n:pos		
 hyżeńskimi	hyżeński	adj:pl:inst:m1.m2.m3.f.n:pos		
 hyżeńsko	hyżeński	adja		
-hyżeńsku	hyżeński	adjp		
+hyżeńsku	hyżeński	adjp:dat		
 hyżeńsko	hyżeńsko	adv:pos		
 hyżeńskościach	hyżeńskość	subst:pl:loc:f	nazwa pospolita	
 hyżeńskościami	hyżeńskość	subst:pl:inst:f	nazwa pospolita	

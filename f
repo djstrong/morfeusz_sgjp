@@ -47,7 +47,7 @@ fabiańskim	fabiański	adj:sg:inst:m1.m2.m3.n:pos
 fabiańskim	fabiański	adj:sg:loc:m1.m2.m3.n:pos		
 fabiańskimi	fabiański	adj:pl:inst:m1.m2.m3.f.n:pos		
 fabiańsko	fabiański	adja		
-fabiańsku	fabiański	adjp		
+fabiańsku	fabiański	adjp:dat		
 fabiańsko	fabiańsko	adv:pos		
 fabiańskościach	fabiańskość	subst:pl:loc:f	nazwa pospolita	
 fabiańskościami	fabiańskość	subst:pl:inst:f	nazwa pospolita	
@@ -212,7 +212,7 @@ fabrykanckim	fabrykancki	adj:sg:inst:m1.m2.m3.n:pos
 fabrykanckim	fabrykancki	adj:sg:loc:m1.m2.m3.n:pos		
 fabrykanckimi	fabrykancki	adj:pl:inst:m1.m2.m3.f.n:pos		
 fabrykancko	fabrykancki	adja		
-fabrykancku	fabrykancki	adjp		
+fabrykancku	fabrykancki	adjp:dat		
 fabrykancko	fabrykancko	adv:pos		
 fabrykanckościach	fabrykanckość	subst:pl:loc:f	nazwa pospolita	
 fabrykanckościami	fabrykanckość	subst:pl:inst:f	nazwa pospolita	
@@ -1275,7 +1275,7 @@ facjendarskim	facjendarski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 facjendarskim	facjendarski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 facjendarskimi	facjendarski	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 facjendarsko	facjendarski	adja		daw.
-facjendarsku	facjendarski	adjp		daw.
+facjendarsku	facjendarski	adjp:dat		daw.
 facjendarsko	facjendarsko	adv:pos		daw.
 facjendarskościach	facjendarskość	subst:pl:loc:f	nazwa pospolita	daw.
 facjendarskościami	facjendarskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -1681,7 +1681,7 @@ fagasowskim	fagasowski	adj:sg:inst:m1.m2.m3.n:pos
 fagasowskim	fagasowski	adj:sg:loc:m1.m2.m3.n:pos		
 fagasowskimi	fagasowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fagasowsko	fagasowski	adja		
-fagasowsku	fagasowski	adjp		
+fagasowsku	fagasowski	adjp:dat		
 fagasowsko	fagasowsko	adv:pos		
 fagasowskościach	fagasowskość	subst:pl:loc:f	nazwa pospolita	
 fagasowskościami	fagasowskość	subst:pl:inst:f	nazwa pospolita	
@@ -2017,7 +2017,7 @@ fajansiarskim	fajansiarski	adj:sg:inst:m1.m2.m3.n:pos
 fajansiarskim	fajansiarski	adj:sg:loc:m1.m2.m3.n:pos		
 fajansiarskimi	fajansiarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fajansiarsko	fajansiarski	adja		
-fajansiarsku	fajansiarski	adjp		
+fajansiarsku	fajansiarski	adjp:dat		
 fajansiarsko	fajansiarsko	adv:pos		rzad.
 fajansiarskościach	fajansiarskość	subst:pl:loc:f	nazwa pospolita	
 fajansiarskościami	fajansiarskość	subst:pl:inst:f	nazwa pospolita	
@@ -2160,7 +2160,7 @@ fajczarskim	fajczarski	adj:sg:inst:m1.m2.m3.n:pos
 fajczarskim	fajczarski	adj:sg:loc:m1.m2.m3.n:pos		
 fajczarskimi	fajczarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fajczarsko	fajczarski	adja		
-fajczarsku	fajczarski	adjp		
+fajczarsku	fajczarski	adjp:dat		
 fajczarsko	fajczarsko	adv:pos		
 fajczarskościach	fajczarskość	subst:pl:loc:f	nazwa pospolita	
 fajczarskościami	fajczarskość	subst:pl:inst:f	nazwa pospolita	
@@ -3095,7 +3095,7 @@ fajsławickim	fajsławicki	adj:sg:inst:m1.m2.m3.n:pos
 fajsławickim	fajsławicki	adj:sg:loc:m1.m2.m3.n:pos		
 fajsławickimi	fajsławicki	adj:pl:inst:m1.m2.m3.f.n:pos		
 fajsławicko	fajsławicki	adja		
-fajsławicku	fajsławicki	adjp		
+fajsławicku	fajsławicki	adjp:dat		
 fajsławicko	fajsławicko	adv:pos		
 fajsławickościach	fajsławickość	subst:pl:loc:f	nazwa pospolita	
 fajsławickościami	fajsławickość	subst:pl:inst:f	nazwa pospolita	
@@ -3321,7 +3321,7 @@ fajumskim	fajumski	adj:sg:inst:m1.m2.m3.n:pos
 fajumskim	fajumski	adj:sg:loc:m1.m2.m3.n:pos		
 fajumskimi	fajumski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fajumsko	fajumski	adja		
-fajumsku	fajumski	adjp		
+fajumsku	fajumski	adjp:dat		
 fajumsko	fajumsko	adv:pos		
 fajumskościach	fajumskość	subst:pl:loc:f	nazwa pospolita	
 fajumskościami	fajumskość	subst:pl:inst:f	nazwa pospolita	
@@ -3498,7 +3498,7 @@ fakirskim	fakirski	adj:sg:inst:m1.m2.m3.n:pos
 fakirskim	fakirski	adj:sg:loc:m1.m2.m3.n:pos		
 fakirskimi	fakirski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fakirsko	fakirski	adja		
-fakirsku	fakirski	adjp		
+fakirsku	fakirski	adjp:dat		
 fakirsko	fakirsko	adv:pos		
 fakirskościach	fakirskość	subst:pl:loc:f	nazwa pospolita	
 fakirskościami	fakirskość	subst:pl:inst:f	nazwa pospolita	
@@ -4168,7 +4168,7 @@ faktorskim	faktorski	adj:sg:inst:m1.m2.m3.n:pos
 faktorskim	faktorski	adj:sg:loc:m1.m2.m3.n:pos		
 faktorskimi	faktorski	adj:pl:inst:m1.m2.m3.f.n:pos		
 faktorsko	faktorski	adja		
-faktorsku	faktorski	adjp		
+faktorsku	faktorski	adjp:dat		
 faktorsko	faktorsko	adv:pos		
 faktorskościach	faktorskość	subst:pl:loc:f	nazwa pospolita	
 faktorskościami	faktorskość	subst:pl:inst:f	nazwa pospolita	
@@ -4825,7 +4825,7 @@ falangistowskim	falangistowski	adj:sg:inst:m1.m2.m3.n:pos
 falangistowskim	falangistowski	adj:sg:loc:m1.m2.m3.n:pos		
 falangistowskimi	falangistowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 falangistowsko	falangistowski	adja		
-falangistowsku	falangistowski	adjp		
+falangistowsku	falangistowski	adjp:dat		
 falangistowsko	falangistowsko	adv:pos		
 falangistowskościach	falangistowskość	subst:pl:loc:f	nazwa pospolita	
 falangistowskościami	falangistowskość	subst:pl:inst:f	nazwa pospolita	
@@ -5296,7 +5296,7 @@ falenickim	falenicki	adj:sg:inst:m1.m2.m3.n:pos
 falenickim	falenicki	adj:sg:loc:m1.m2.m3.n:pos		
 falenickimi	falenicki	adj:pl:inst:m1.m2.m3.f.n:pos		
 falenicko	falenicki	adja		
-falenicku	falenicki	adjp		
+falenicku	falenicki	adjp:dat		
 falenicko	falenicko	adv:pos		
 falenickościach	falenickość	subst:pl:loc:f	nazwa pospolita	
 falenickościami	falenickość	subst:pl:inst:f	nazwa pospolita	
@@ -5424,7 +5424,7 @@ falklandzkim	falklandzki	adj:sg:inst:m1.m2.m3.n:pos
 falklandzkim	falklandzki	adj:sg:loc:m1.m2.m3.n:pos		
 falklandzkimi	falklandzki	adj:pl:inst:m1.m2.m3.f.n:pos		
 falklandzko	falklandzki	adja		
-falklandzku	falklandzki	adjp		
+falklandzku	falklandzki	adjp:dat		
 falklandzko	falklandzko	adv:pos		
 falklandzkościach	falklandzkość	subst:pl:loc:f	nazwa pospolita	
 falklandzkościami	falklandzkość	subst:pl:inst:f	nazwa pospolita	
@@ -6806,7 +6806,7 @@ fałkowskim	fałkowski	adj:sg:inst:m1.m2.m3.n:pos
 fałkowskim	fałkowski	adj:sg:loc:m1.m2.m3.n:pos		
 fałkowskimi	fałkowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fałkowsko	fałkowski	adja		
-fałkowsku	fałkowski	adjp		
+fałkowsku	fałkowski	adjp:dat		
 fałkowsko	fałkowsko	adv:pos		
 fałkowskościach	fałkowskość	subst:pl:loc:f	nazwa pospolita	
 fałkowskościami	fałkowskość	subst:pl:inst:f	nazwa pospolita	
@@ -6865,7 +6865,7 @@ fałszerskim	fałszerski	adj:sg:inst:m1.m2.m3.n:pos
 fałszerskim	fałszerski	adj:sg:loc:m1.m2.m3.n:pos		
 fałszerskimi	fałszerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fałszersko	fałszerski	adja		
-fałszersku	fałszerski	adjp		
+fałszersku	fałszerski	adjp:dat		
 fałszersko	fałszersko	adv:pos		
 fałszerskościach	fałszerskość	subst:pl:loc:f	nazwa pospolita	
 fałszerskościami	fałszerskość	subst:pl:inst:f	nazwa pospolita	
@@ -7360,7 +7360,7 @@ fanatyckim	fanatycki	adj:sg:inst:m1.m2.m3.n:pos		daw.
 fanatyckim	fanatycki	adj:sg:loc:m1.m2.m3.n:pos		daw.
 fanatyckimi	fanatycki	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 fanatycko	fanatycki	adja		daw.
-fanatycku	fanatycki	adjp		daw.
+fanatycku	fanatycki	adjp:dat		daw.
 fanatycko	fanatycko	adv:pos		
 fanatyckościach	fanatyckość	subst:pl:loc:f	nazwa pospolita	daw.
 fanatyckościami	fanatyckość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -7916,7 +7916,7 @@ fanowskim	fanowski	adj:sg:inst:m1.m2.m3.n:pos
 fanowskim	fanowski	adj:sg:loc:m1.m2.m3.n:pos		
 fanowskimi	fanowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fanowsko	fanowski	adja		
-fanowsku	fanowski	adjp		
+fanowsku	fanowski	adjp:dat		
 fanowsko	fanowsko	adv:pos		
 fanowskościach	fanowskość	subst:pl:loc:f	nazwa pospolita	
 fanowskościami	fanowskość	subst:pl:inst:f	nazwa pospolita	
@@ -8103,7 +8103,7 @@ fantastyckim	fantastycki	adj:sg:inst:m1.m2.m3.n:pos		daw.
 fantastyckim	fantastycki	adj:sg:loc:m1.m2.m3.n:pos		daw.
 fantastyckimi	fantastycki	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 fantastycko	fantastycki	adja		daw.
-fantastycku	fantastycki	adjp		daw.
+fantastycku	fantastycki	adjp:dat		daw.
 fantastycko	fantastycko	adv:pos		
 fantastyckościach	fantastyckość	subst:pl:loc:f	nazwa pospolita	daw.
 fantastyckościami	fantastyckość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -8500,7 +8500,7 @@ fantazjuszowskim	fantazjuszowski	adj:sg:inst:m1.m2.m3.n:pos		indyw.
 fantazjuszowskim	fantazjuszowski	adj:sg:loc:m1.m2.m3.n:pos		indyw.
 fantazjuszowskimi	fantazjuszowski	adj:pl:inst:m1.m2.m3.f.n:pos		indyw.
 fantazjuszowsko	fantazjuszowski	adja		indyw.
-fantazjuszowsku	fantazjuszowski	adjp		indyw.
+fantazjuszowsku	fantazjuszowski	adjp:dat		indyw.
 fantazjuszowsko	fantazjuszowsko	adv:pos		daw.
 fantazjuszowskościach	fantazjuszowskość	subst:pl:loc:f	nazwa pospolita	indyw.
 fantazjuszowskościami	fantazjuszowskość	subst:pl:inst:f	nazwa pospolita	indyw.
@@ -9303,7 +9303,7 @@ faraońskim	faraoński	adj:sg:inst:m1.m2.m3.n:pos
 faraońskim	faraoński	adj:sg:loc:m1.m2.m3.n:pos		
 faraońskimi	faraoński	adj:pl:inst:m1.m2.m3.f.n:pos		
 faraońsko	faraoński	adja		
-faraońsku	faraoński	adjp		
+faraońsku	faraoński	adjp:dat		
 faraońsko	faraońsko	adv:pos		
 faraońskościach	faraońskość	subst:pl:loc:f	nazwa pospolita	
 faraońskościami	faraońskość	subst:pl:inst:f	nazwa pospolita	
@@ -9364,7 +9364,7 @@ faraskim	faraski	adj:sg:inst:m1.m2.m3.n:pos
 faraskim	faraski	adj:sg:loc:m1.m2.m3.n:pos		
 faraskimi	faraski	adj:pl:inst:m1.m2.m3.f.n:pos		
 farasko	faraski	adja		
-farasku	faraski	adjp		
+farasku	faraski	adjp:dat		
 farasko	farasko	adv:pos		
 faraskościach	faraskość	subst:pl:loc:f	nazwa pospolita	
 faraskościami	faraskość	subst:pl:inst:f	nazwa pospolita	
@@ -9435,7 +9435,7 @@ farbiarskim	farbiarski	adj:sg:inst:m1.m2.m3.n:pos
 farbiarskim	farbiarski	adj:sg:loc:m1.m2.m3.n:pos		
 farbiarskimi	farbiarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 farbiarsko	farbiarski	adja		
-farbiarsku	farbiarski	adjp		
+farbiarsku	farbiarski	adjp:dat		
 farbiarsko	farbiarsko	adv:pos		
 farbiarskościach	farbiarskość	subst:pl:loc:f	nazwa pospolita	
 farbiarskościami	farbiarskość	subst:pl:inst:f	nazwa pospolita	
@@ -9618,7 +9618,7 @@ farbierskim	farbierski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 farbierskim	farbierski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 farbierskimi	farbierski	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 farbiersko	farbierski	adja		daw.
-farbiersku	farbierski	adjp		daw.
+farbiersku	farbierski	adjp:dat		daw.
 farbiersko	farbiersko	adv:pos		daw.
 farbierskościach	farbierskość	subst:pl:loc:f	nazwa pospolita	daw.
 farbierskościami	farbierskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -10195,7 +10195,7 @@ farerskim	farerski	adj:sg:inst:m1.m2.m3.n:pos
 farerskim	farerski	adj:sg:loc:m1.m2.m3.n:pos		
 farerskimi	farerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 farersko	farerski	adja		
-farersku	farerski	adjp		
+farersku	farerski	adjp:dat		
 farersko	farersko	adv:pos		
 farerskościach	farerskość	subst:pl:loc:f	nazwa pospolita	
 farerskościami	farerskość	subst:pl:inst:f	nazwa pospolita	
@@ -10715,7 +10715,7 @@ farmazońskim	farmazoński	adj:sg:inst:m1.m2.m3.n:pos
 farmazońskim	farmazoński	adj:sg:loc:m1.m2.m3.n:pos		
 farmazońskimi	farmazoński	adj:pl:inst:m1.m2.m3.f.n:pos		
 farmazońsko	farmazoński	adja		
-farmazońsku	farmazoński	adjp		
+farmazońsku	farmazoński	adjp:dat		
 farmazońsko	farmazońsko	adv:pos		
 farmazońskościach	farmazońskość	subst:pl:loc:f	nazwa pospolita	
 farmazońskościami	farmazońskość	subst:pl:inst:f	nazwa pospolita	
@@ -10780,7 +10780,7 @@ farmerskim	farmerski	adj:sg:inst:m1.m2.m3.n:pos
 farmerskim	farmerski	adj:sg:loc:m1.m2.m3.n:pos		
 farmerskimi	farmerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 farmersko	farmerski	adja		
-farmersku	farmerski	adjp		
+farmersku	farmerski	adjp:dat		
 farmersko	farmersko	adv:pos		
 farmerskościach	farmerskość	subst:pl:loc:f	nazwa pospolita	
 farmerskościami	farmerskość	subst:pl:inst:f	nazwa pospolita	
@@ -10993,7 +10993,7 @@ farskim	farski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 farskim	farski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 farskimi	farski	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 farsko	farski	adja		daw.
-farsku	farski	adjp		daw.
+farsku	farski	adjp:dat		daw.
 farsko	farsko	adv:pos		daw.
 farskościach	farskość	subst:pl:loc:f	nazwa pospolita	daw.
 farskościami	farskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -11554,7 +11554,7 @@ faryniarskim	faryniarski	adj:sg:inst:m1.m2.m3.n:pos		przest.
 faryniarskim	faryniarski	adj:sg:loc:m1.m2.m3.n:pos		przest.
 faryniarskimi	faryniarski	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
 faryniarsko	faryniarski	adja		przest.
-faryniarsku	faryniarski	adjp		przest.
+faryniarsku	faryniarski	adjp:dat		przest.
 faryniarsko	faryniarsko	adv:pos		
 faryniarskościach	faryniarskość	subst:pl:loc:f	nazwa pospolita	przest.
 faryniarskościami	faryniarskość	subst:pl:inst:f	nazwa pospolita	przest.
@@ -11722,7 +11722,7 @@ faryzejskim	faryzejski	adj:sg:inst:m1.m2.m3.n:pos
 faryzejskim	faryzejski	adj:sg:loc:m1.m2.m3.n:pos		
 faryzejskimi	faryzejski	adj:pl:inst:m1.m2.m3.f.n:pos		
 faryzejsko	faryzejski	adja		
-faryzejsku	faryzejski	adjp		
+faryzejsku	faryzejski	adjp:dat		
 faryzejsko	faryzejsko	adv:pos		
 faryzejskościach	faryzejskość	subst:pl:loc:f	nazwa pospolita	
 faryzejskościami	faryzejskość	subst:pl:inst:f	nazwa pospolita	
@@ -11877,7 +11877,7 @@ faryzeuszowskim	faryzeuszowski	adj:sg:inst:m1.m2.m3.n:pos
 faryzeuszowskim	faryzeuszowski	adj:sg:loc:m1.m2.m3.n:pos		
 faryzeuszowskimi	faryzeuszowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 faryzeuszowsko	faryzeuszowski	adja		
-faryzeuszowsku	faryzeuszowski	adjp		
+faryzeuszowsku	faryzeuszowski	adjp:dat		
 faryzeuszowsko	faryzeuszowsko	adv:pos		
 faryzeuszowskościach	faryzeuszowskość	subst:pl:loc:f	nazwa pospolita	
 faryzeuszowskościami	faryzeuszowskość	subst:pl:inst:f	nazwa pospolita	
@@ -12470,7 +12470,7 @@ fasoniarskim	fasoniarski	adj:sg:inst:m1.m2.m3.n:pos
 fasoniarskim	fasoniarski	adj:sg:loc:m1.m2.m3.n:pos		
 fasoniarskimi	fasoniarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fasoniarsko	fasoniarski	adja		
-fasoniarsku	fasoniarski	adjp		
+fasoniarsku	fasoniarski	adjp:dat		
 fasoniarsko	fasoniarsko	adv:pos		
 fasoniarskościach	fasoniarskość	subst:pl:loc:f	nazwa pospolita	
 fasoniarskościami	fasoniarskość	subst:pl:inst:f	nazwa pospolita	
@@ -13282,7 +13282,7 @@ faszystowskim	faszystowski	adj:sg:inst:m1.m2.m3.n:pos
 faszystowskim	faszystowski	adj:sg:loc:m1.m2.m3.n:pos		
 faszystowskimi	faszystowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 faszystowsko	faszystowski	adja		
-faszystowsku	faszystowski	adjp		
+faszystowsku	faszystowski	adjp:dat		
 faszystowsko	faszystowsko	adv:pos		
 faszystowskościach	faszystowskość	subst:pl:loc:f	nazwa pospolita	
 faszystowskościami	faszystowskość	subst:pl:inst:f	nazwa pospolita	
@@ -13675,7 +13675,7 @@ fatimskim	fatimski	adj:sg:inst:m1.m2.m3.n:pos
 fatimskim	fatimski	adj:sg:loc:m1.m2.m3.n:pos		
 fatimskimi	fatimski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fatimsko	fatimski	adja		
-fatimsku	fatimski	adjp		
+fatimsku	fatimski	adjp:dat		
 fatimsko	fatimsko	adv:pos		
 fatimskościach	fatimskość	subst:pl:loc:f	nazwa pospolita	
 fatimskościami	fatimskość	subst:pl:inst:f	nazwa pospolita	
@@ -13712,7 +13712,7 @@ fatjanowskim	fatjanowski	adj:sg:inst:m1.m2.m3.n:pos
 fatjanowskim	fatjanowski	adj:sg:loc:m1.m2.m3.n:pos		
 fatjanowskimi	fatjanowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fatjanowsko	fatjanowski	adja		
-fatjanowsku	fatjanowski	adjp		
+fatjanowsku	fatjanowski	adjp:dat		
 fatjanowsko	fatjanowsko	adv:pos		
 fatjanowskościach	fatjanowskość	subst:pl:loc:f	nazwa pospolita	
 fatjanowskościami	fatjanowskość	subst:pl:inst:f	nazwa pospolita	
@@ -14183,7 +14183,7 @@ faustowskim	faustowski	adj:sg:inst:m1.m2.m3.n:pos
 faustowskim	faustowski	adj:sg:loc:m1.m2.m3.n:pos		
 faustowskimi	faustowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 faustowsko	faustowski	adja		
-faustowsku	faustowski	adjp		
+faustowsku	faustowski	adjp:dat		
 faustowsko	faustowsko	adv:pos		
 faustowskościach	faustowskość	subst:pl:loc:f	nazwa pospolita	
 faustowskościami	faustowskość	subst:pl:inst:f	nazwa pospolita	
@@ -15115,7 +15115,7 @@ fechmistrzowskim	fechmistrzowski	adj:sg:inst:m1.m2.m3.n:pos
 fechmistrzowskim	fechmistrzowski	adj:sg:loc:m1.m2.m3.n:pos		
 fechmistrzowskimi	fechmistrzowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fechmistrzowsko	fechmistrzowski	adja		
-fechmistrzowsku	fechmistrzowski	adjp		
+fechmistrzowsku	fechmistrzowski	adjp:dat		
 fechmistrzowsko	fechmistrzowsko	adv:pos		
 fechmistrzowskościach	fechmistrzowskość	subst:pl:loc:f	nazwa pospolita	
 fechmistrzowskościami	fechmistrzowskość	subst:pl:inst:f	nazwa pospolita	
@@ -15152,7 +15152,7 @@ fechtarskim	fechtarski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 fechtarskim	fechtarski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 fechtarskimi	fechtarski	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 fechtarsko	fechtarski	adja		daw.
-fechtarsku	fechtarski	adjp		daw.
+fechtarsku	fechtarski	adjp:dat		daw.
 fechtarsko	fechtarsko	adv:pos		daw.
 fechtarskościach	fechtarskość	subst:pl:loc:f	nazwa pospolita	daw.
 fechtarskościami	fechtarskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -15202,7 +15202,7 @@ fechtmistrzowskim	fechtmistrzowski	adj:sg:inst:m1.m2.m3.n:pos
 fechtmistrzowskim	fechtmistrzowski	adj:sg:loc:m1.m2.m3.n:pos		
 fechtmistrzowskimi	fechtmistrzowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fechtmistrzowsko	fechtmistrzowski	adja		
-fechtmistrzowsku	fechtmistrzowski	adjp		
+fechtmistrzowsku	fechtmistrzowski	adjp:dat		
 fechtmistrzowsko	fechtmistrzowsko	adv:pos		
 fechtmistrzowskościach	fechtmistrzowskość	subst:pl:loc:f	nazwa pospolita	
 fechtmistrzowskościami	fechtmistrzowskość	subst:pl:inst:f	nazwa pospolita	
@@ -16573,7 +16573,7 @@ felczerskim	felczerski	adj:sg:inst:m1.m2.m3.n:pos
 felczerskim	felczerski	adj:sg:loc:m1.m2.m3.n:pos		
 felczerskimi	felczerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 felczersko	felczerski	adja		
-felczersku	felczerski	adjp		
+felczersku	felczerski	adjp:dat		
 felczersko	felczersko	adv:pos		
 felczerskościach	felczerskość	subst:pl:loc:f	nazwa pospolita	
 felczerskościami	felczerskość	subst:pl:inst:f	nazwa pospolita	
@@ -16671,7 +16671,7 @@ feldmarszałkowskim	feldmarszałkowski	adj:sg:inst:m1.m2.m3.n:pos
 feldmarszałkowskim	feldmarszałkowski	adj:sg:loc:m1.m2.m3.n:pos		
 feldmarszałkowskimi	feldmarszałkowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 feldmarszałkowsko	feldmarszałkowski	adja		
-feldmarszałkowsku	feldmarszałkowski	adjp		
+feldmarszałkowsku	feldmarszałkowski	adjp:dat		
 feldmarszałkowsko	feldmarszałkowsko	adv:pos		
 feldmarszałkowskościach	feldmarszałkowskość	subst:pl:loc:f	nazwa pospolita	
 feldmarszałkowskościami	feldmarszałkowskość	subst:pl:inst:f	nazwa pospolita	
@@ -17561,7 +17561,7 @@ fenickim	fenicki	adj:sg:inst:m1.m2.m3.n:pos
 fenickim	fenicki	adj:sg:loc:m1.m2.m3.n:pos		
 fenickimi	fenicki	adj:pl:inst:m1.m2.m3.f.n:pos		
 fenicko	fenicki	adja		
-fenicku	fenicki	adjp		
+fenicku	fenicki	adjp:dat		
 fenicko	fenicko	adv:pos		
 fenickościach	fenickość	subst:pl:loc:f	nazwa pospolita	
 fenickościami	fenickość	subst:pl:inst:f	nazwa pospolita	
@@ -18606,7 +18606,7 @@ fergańskim	fergański	adj:sg:inst:m1.m2.m3.n:pos
 fergańskim	fergański	adj:sg:loc:m1.m2.m3.n:pos		
 fergańskimi	fergański	adj:pl:inst:m1.m2.m3.f.n:pos		
 fergańsko	fergański	adja		
-fergańsku	fergański	adjp		
+fergańsku	fergański	adjp:dat		
 fergańsko	fergańsko	adv:pos		
 fergańskościach	fergańskość	subst:pl:loc:f	nazwa pospolita	
 fergańskościami	fergańskość	subst:pl:inst:f	nazwa pospolita	
@@ -18959,7 +18959,7 @@ fermerskim	fermerski	adj:sg:inst:m1.m2.m3.n:pos
 fermerskim	fermerski	adj:sg:loc:m1.m2.m3.n:pos		
 fermerskimi	fermerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fermersko	fermerski	adja		
-fermersku	fermerski	adjp		
+fermersku	fermerski	adjp:dat		
 fermersko	fermersko	adv:pos		
 fermerskościach	fermerskość	subst:pl:loc:f	nazwa pospolita	
 fermerskościami	fermerskość	subst:pl:inst:f	nazwa pospolita	
@@ -20108,7 +20108,7 @@ festyniarskim	festyniarski	adj:sg:inst:m1.m2.m3.n:pos
 festyniarskim	festyniarski	adj:sg:loc:m1.m2.m3.n:pos		
 festyniarskimi	festyniarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 festyniarsko	festyniarski	adja		
-festyniarsku	festyniarski	adjp		
+festyniarsku	festyniarski	adjp:dat		
 festyniarsko	festyniarsko	adv:pos		
 festyniarskościach	festyniarskość	subst:pl:loc:f	nazwa pospolita	
 festyniarskościami	festyniarskość	subst:pl:inst:f	nazwa pospolita	
@@ -20846,7 +20846,7 @@ fiakierskim	fiakierski	adj:sg:inst:m1.m2.m3.n:pos
 fiakierskim	fiakierski	adj:sg:loc:m1.m2.m3.n:pos		
 fiakierskimi	fiakierski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fiakiersko	fiakierski	adja		
-fiakiersku	fiakierski	adjp		
+fiakiersku	fiakierski	adjp:dat		
 fiakiersko	fiakiersko	adv:pos		
 fiakierskościach	fiakierskość	subst:pl:loc:f	nazwa pospolita	
 fiakierskościami	fiakierskość	subst:pl:inst:f	nazwa pospolita	
@@ -21010,7 +21010,7 @@ fiatowskim	fiatowski	adj:sg:inst:m1.m2.m3.n:pos
 fiatowskim	fiatowski	adj:sg:loc:m1.m2.m3.n:pos		
 fiatowskimi	fiatowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fiatowsko	fiatowski	adja		
-fiatowsku	fiatowski	adjp		
+fiatowsku	fiatowski	adjp:dat		
 fiatowsko	fiatowsko	adv:pos		
 fiatowskościach	fiatowskość	subst:pl:loc:f	nazwa pospolita	
 fiatowskościami	fiatowskość	subst:pl:inst:f	nazwa pospolita	
@@ -21509,7 +21509,7 @@ fidiaszowskim	fidiaszowski	adj:sg:inst:m1.m2.m3.n:pos
 fidiaszowskim	fidiaszowski	adj:sg:loc:m1.m2.m3.n:pos		
 fidiaszowskimi	fidiaszowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fidiaszowsko	fidiaszowski	adja		
-fidiaszowsku	fidiaszowski	adjp		
+fidiaszowsku	fidiaszowski	adjp:dat		
 fidiaszowsko	fidiaszowsko	adv:pos		
 fidiaszowskościach	fidiaszowskość	subst:pl:loc:f	nazwa pospolita	
 fidiaszowskościami	fidiaszowskość	subst:pl:inst:f	nazwa pospolita	
@@ -21644,7 +21644,7 @@ fidżyjskim	fidżyjski	adj:sg:inst:m1.m2.m3.n:pos
 fidżyjskim	fidżyjski	adj:sg:loc:m1.m2.m3.n:pos		
 fidżyjskimi	fidżyjski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fidżyjsko	fidżyjski	adja		
-fidżyjsku	fidżyjski	adjp		
+fidżyjsku	fidżyjski	adjp:dat		
 fidżyjsko	fidżyjsko	adv:pos		
 fidżyjskościach	fidżyjskość	subst:pl:loc:f	nazwa pospolita	
 fidżyjskościami	fidżyjskość	subst:pl:inst:f	nazwa pospolita	
@@ -21893,7 +21893,7 @@ figlarskim	figlarski	adj:sg:inst:m1.m2.m3.n:pos
 figlarskim	figlarski	adj:sg:loc:m1.m2.m3.n:pos		
 figlarskimi	figlarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 figlarsko	figlarski	adja		
-figlarsku	figlarski	adjp		
+figlarsku	figlarski	adjp:dat		
 figlarsko	figlarsko	adv:pos		
 figlarskościach	figlarskość	subst:pl:loc:f	nazwa pospolita	
 figlarskościami	figlarskość	subst:pl:inst:f	nazwa pospolita	
@@ -23377,7 +23377,7 @@ fiksujesz	fiksować:v3	fin:sg:sec:imperf		daw.
 fiksuję	fiksować:v3	fin:sg:pri:imperf		daw.
 fiksuj	fiksować:v3	impt:sg:sec:imperf		daw.
 fiksujmy	fiksować:v3	impt:pl:pri:imperf		daw.
-fiksum	fiksum	burk		
+fiksum	fiksum	frag		
 fiku	fiku	interj		
 fikusach	fikus	subst:pl:loc:m2	nazwa pospolita	bot.|pot.
 fikusach	fikus	subst:pl:loc:m3	nazwa pospolita	bot.
@@ -23532,7 +23532,7 @@ filadelfijskim	filadelfijski	adj:sg:inst:m1.m2.m3.n:pos
 filadelfijskim	filadelfijski	adj:sg:loc:m1.m2.m3.n:pos		
 filadelfijskimi	filadelfijski	adj:pl:inst:m1.m2.m3.f.n:pos		
 filadelfijsko	filadelfijski	adja		
-filadelfijsku	filadelfijski	adjp		
+filadelfijsku	filadelfijski	adjp:dat		
 filadelfijsko	filadelfijsko	adv:pos		
 filadelfijskościach	filadelfijskość	subst:pl:loc:f	nazwa pospolita	
 filadelfijskościami	filadelfijskość	subst:pl:inst:f	nazwa pospolita	
@@ -23716,7 +23716,7 @@ filareckim	filarecki	adj:sg:inst:m1.m2.m3.n:pos
 filareckim	filarecki	adj:sg:loc:m1.m2.m3.n:pos		
 filareckimi	filarecki	adj:pl:inst:m1.m2.m3.f.n:pos		
 filarecko	filarecki	adja		
-filarecku	filarecki	adjp		
+filarecku	filarecki	adjp:dat		
 filarecko	filarecko	adv:pos		
 filareckościach	filareckość	subst:pl:loc:f	nazwa pospolita	
 filareckościami	filareckość	subst:pl:inst:f	nazwa pospolita	
@@ -24509,7 +24509,7 @@ filhelleńskim	filhelleński	adj:sg:inst:m1.m2.m3.n:pos
 filhelleńskim	filhelleński	adj:sg:loc:m1.m2.m3.n:pos		
 filhelleńskimi	filhelleński	adj:pl:inst:m1.m2.m3.f.n:pos		
 filhelleńsko	filhelleński	adja		
-filhelleńsku	filhelleński	adjp		
+filhelleńsku	filhelleński	adjp:dat		
 filhelleńsko	filhelleńsko	adv:pos		
 filhelleńskościach	filhelleńskość	subst:pl:loc:f	nazwa pospolita	
 filhelleńskościami	filhelleńskość	subst:pl:inst:f	nazwa pospolita	
@@ -24939,7 +24939,7 @@ filipińskim	filipiński	adj:sg:inst:m1.m2.m3.n:pos
 filipińskim	filipiński	adj:sg:loc:m1.m2.m3.n:pos		
 filipińskimi	filipiński	adj:pl:inst:m1.m2.m3.f.n:pos		
 filipińsko	filipiński	adja		
-filipińsku	filipiński	adjp		
+filipińsku	filipiński	adjp:dat		
 filipińsko	filipińsko	adv:pos		
 filipińskościach	filipińskość	subst:pl:loc:f	nazwa pospolita	
 filipińskościami	filipińskość	subst:pl:inst:f	nazwa pospolita	
@@ -24988,7 +24988,7 @@ filipowskim	filipowski	adj:sg:inst:m1.m2.m3.n:pos
 filipowskim	filipowski	adj:sg:loc:m1.m2.m3.n:pos		
 filipowskimi	filipowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 filipowsko	filipowski	adja		
-filipowsku	filipowski	adjp		
+filipowsku	filipowski	adjp:dat		
 filipowsko	filipowsko	adv:pos		
 filipowskościach	filipowskość	subst:pl:loc:f	nazwa pospolita	
 filipowskościami	filipowskość	subst:pl:inst:f	nazwa pospolita	
@@ -25072,7 +25072,7 @@ filisterskim	filisterski	adj:sg:inst:m1.m2.m3.n:pos
 filisterskim	filisterski	adj:sg:loc:m1.m2.m3.n:pos		
 filisterskimi	filisterski	adj:pl:inst:m1.m2.m3.f.n:pos		
 filistersko	filisterski	adja		
-filistersku	filisterski	adjp		
+filistersku	filisterski	adjp:dat		
 filistersko	filistersko	adv:pos		
 filisterskościach	filisterskość	subst:pl:loc:f	nazwa pospolita	
 filisterskościami	filisterskość	subst:pl:inst:f	nazwa pospolita	
@@ -25192,7 +25192,7 @@ filistyńskim	filistyński	adj:sg:inst:m1.m2.m3.n:pos
 filistyńskim	filistyński	adj:sg:loc:m1.m2.m3.n:pos		
 filistyńskimi	filistyński	adj:pl:inst:m1.m2.m3.f.n:pos		
 filistyńsko	filistyński	adja		
-filistyńsku	filistyński	adjp		
+filistyńsku	filistyński	adjp:dat		
 filistyńsko	filistyńsko	adv:pos		
 filistyńskościach	filistyńskość	subst:pl:loc:f	nazwa pospolita	
 filistyńskościami	filistyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -25753,7 +25753,7 @@ filobułgarskim	filobułgarski	adj:sg:inst:m1.m2.m3.n:pos
 filobułgarskim	filobułgarski	adj:sg:loc:m1.m2.m3.n:pos		
 filobułgarskimi	filobułgarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 filobułgarsko	filobułgarski	adja		
-filobułgarsku	filobułgarski	adjp		
+filobułgarsku	filobułgarski	adjp:dat		
 filobułgarsko	filobułgarsko	adv:pos		
 filobułgarskościach	filobułgarskość	subst:pl:loc:f	nazwa pospolita	
 filobułgarskościami	filobułgarskość	subst:pl:inst:f	nazwa pospolita	
@@ -25845,7 +25845,7 @@ filofrancuskim	filofrancuski	adj:sg:inst:m1.m2.m3.n:pos
 filofrancuskim	filofrancuski	adj:sg:loc:m1.m2.m3.n:pos		
 filofrancuskimi	filofrancuski	adj:pl:inst:m1.m2.m3.f.n:pos		
 filofrancusko	filofrancuski	adja		
-filofrancusku	filofrancuski	adjp		
+filofrancusku	filofrancuski	adjp:dat		
 filofrancusko	filofrancusko	adv:pos		
 filofrancuskościach	filofrancuskość	subst:pl:loc:f	nazwa pospolita	
 filofrancuskościami	filofrancuskość	subst:pl:inst:f	nazwa pospolita	
@@ -26035,7 +26035,7 @@ filomackim	filomacki	adj:sg:inst:m1.m2.m3.n:pos
 filomackim	filomacki	adj:sg:loc:m1.m2.m3.n:pos		
 filomackimi	filomacki	adj:pl:inst:m1.m2.m3.f.n:pos		
 filomacko	filomacki	adja		
-filomacku	filomacki	adjp		
+filomacku	filomacki	adjp:dat		
 filomacko	filomacko	adv:pos		
 filomackościach	filomackość	subst:pl:loc:f	nazwa pospolita	
 filomackościami	filomackość	subst:pl:inst:f	nazwa pospolita	
@@ -26153,7 +26153,7 @@ filopolskim	filopolski	adj:sg:inst:m1.m2.m3.n:pos
 filopolskim	filopolski	adj:sg:loc:m1.m2.m3.n:pos		
 filopolskimi	filopolski	adj:pl:inst:m1.m2.m3.f.n:pos		
 filopolsko	filopolski	adja		
-filopolsku	filopolski	adjp		
+filopolsku	filopolski	adjp:dat		
 filopolsko	filopolsko	adv:pos		
 filopolskościach	filopolskość	subst:pl:loc:f	nazwa pospolita	
 filopolskościami	filopolskość	subst:pl:inst:f	nazwa pospolita	
@@ -26190,7 +26190,7 @@ filorosyjskim	filorosyjski	adj:sg:inst:m1.m2.m3.n:pos
 filorosyjskim	filorosyjski	adj:sg:loc:m1.m2.m3.n:pos		
 filorosyjskimi	filorosyjski	adj:pl:inst:m1.m2.m3.f.n:pos		
 filorosyjsko	filorosyjski	adja		
-filorosyjsku	filorosyjski	adjp		
+filorosyjsku	filorosyjski	adjp:dat		
 filorosyjskościach	filorosyjskość	subst:pl:loc:f	nazwa pospolita	
 filorosyjskościami	filorosyjskość	subst:pl:inst:f	nazwa pospolita	
 filorosyjskością	filorosyjskość	subst:sg:inst:f	nazwa pospolita	
@@ -26226,7 +26226,7 @@ filosemickim	filosemicki	adj:sg:inst:m1.m2.m3.n:pos
 filosemickim	filosemicki	adj:sg:loc:m1.m2.m3.n:pos		
 filosemickimi	filosemicki	adj:pl:inst:m1.m2.m3.f.n:pos		
 filosemicko	filosemicki	adja		
-filosemicku	filosemicki	adjp		
+filosemicku	filosemicki	adjp:dat		
 filosemicko	filosemicko	adv:pos		
 filosemickościach	filosemickość	subst:pl:loc:f	nazwa pospolita	
 filosemickościami	filosemickość	subst:pl:inst:f	nazwa pospolita	
@@ -26536,7 +26536,7 @@ filozofskim	filozofski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 filozofskim	filozofski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 filozofskimi	filozofski	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 filozofsko	filozofski	adja		daw.
-filozofsku	filozofski	adjp		daw.
+filozofsku	filozofski	adjp:dat		daw.
 filozofsko	filozofsko	adv:pos		daw.
 filozofskościach	filozofskość	subst:pl:loc:f	nazwa pospolita	daw.
 filozofskościami	filozofskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -26790,7 +26790,7 @@ filuckim	filucki	adj:sg:inst:m1.m2.m3.n:pos		daw.
 filuckim	filucki	adj:sg:loc:m1.m2.m3.n:pos		daw.
 filuckimi	filucki	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 filucko	filucki	adja		daw.
-filucku	filucki	adjp		daw.
+filucku	filucki	adjp:dat		daw.
 filucko	filucko	adv:pos		
 filuckościach	filuckość	subst:pl:loc:f	nazwa pospolita	daw.
 filuckościami	filuckość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -27027,7 +27027,7 @@ filuterskim	filuterski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 filuterskim	filuterski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 filuterskimi	filuterski	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 filutersko	filuterski	adja		daw.
-filutersku	filuterski	adjp		daw.
+filutersku	filuterski	adjp:dat		daw.
 filutersko	filutersko	adv:pos		daw.
 filuterskościach	filuterskość	subst:pl:loc:f	nazwa pospolita	daw.
 filuterskościami	filuterskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -28067,7 +28067,7 @@ finlandzkim	finlandzki	adj:sg:inst:m1.m2.m3.n:pos
 finlandzkim	finlandzki	adj:sg:loc:m1.m2.m3.n:pos		
 finlandzkimi	finlandzki	adj:pl:inst:m1.m2.m3.f.n:pos		
 finlandzko	finlandzki	adja		
-finlandzku	finlandzki	adjp		
+finlandzku	finlandzki	adjp:dat		
 finlandzko	finlandzko	adv:pos		
 finlandzkościach	finlandzkość	subst:pl:loc:f	nazwa pospolita	
 finlandzkościami	finlandzkość	subst:pl:inst:f	nazwa pospolita	
@@ -28127,6 +28127,7 @@ finwalów	finwal	subst:pl:gen:m2	nazwa pospolita	zool.
 finwalu	finwal	subst:sg:loc:m2	nazwa pospolita	zool.
 finwalu	finwal	subst:sg:voc:m2	nazwa pospolita	zool.
 fińscy	fiński:a	adj:pl:nom.voc:m1:pos		
+fińska	fiński:a	adjp:gen		
 fińska	fiński:a	adj:sg:nom.voc:f:pos		
 fińską	fiński:a	adj:sg:acc:f:pos		
 fińską	fiński:a	adj:sg:inst:f:pos		
@@ -28150,7 +28151,7 @@ fińskim	fiński:a	adj:sg:inst:m1.m2.m3.n:pos
 fińskim	fiński:a	adj:sg:loc:m1.m2.m3.n:pos		
 fińskimi	fiński:a	adj:pl:inst:m1.m2.m3.f.n:pos		
 fińsko	fiński:a	adja		
-fińsku	fiński:a	adjp		
+fińsku	fiński:a	adjp:dat		
 fińskich	fiński:s	subst:pl:gen:m3	nazwa pospolita	
 fińskich	fiński:s	subst:pl:loc:m3	nazwa pospolita	
 fińskie	fiński:s	subst:pl:nom.acc.voc:m3	nazwa pospolita	
@@ -29068,7 +29069,7 @@ firlejskim	firlejski	adj:sg:inst:m1.m2.m3.n:pos
 firlejskim	firlejski	adj:sg:loc:m1.m2.m3.n:pos		
 firlejskimi	firlejski	adj:pl:inst:m1.m2.m3.f.n:pos		
 firlejsko	firlejski	adja		
-firlejsku	firlejski	adjp		
+firlejsku	firlejski	adjp:dat		
 firlejsko	firlejsko	adv:pos		
 firlejskościach	firlejskość	subst:pl:loc:f	nazwa pospolita	
 firlejskościami	firlejskość	subst:pl:inst:f	nazwa pospolita	
@@ -31419,7 +31420,7 @@ fizylierskim	fizylierski	adj:sg:inst:m1.m2.m3.n:pos
 fizylierskim	fizylierski	adj:sg:loc:m1.m2.m3.n:pos		
 fizylierskimi	fizylierski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fizyliersko	fizylierski	adja		
-fizyliersku	fizylierski	adjp		
+fizyliersku	fizylierski	adjp:dat		
 fizyliersko	fizyliersko	adv:pos		
 fizylierskościach	fizylierskość	subst:pl:loc:f	nazwa pospolita	
 fizylierskościami	fizylierskość	subst:pl:inst:f	nazwa pospolita	
@@ -32454,7 +32455,7 @@ flamandzkim	flamandzki	adj:sg:inst:m1.m2.m3.n:pos
 flamandzkim	flamandzki	adj:sg:loc:m1.m2.m3.n:pos		
 flamandzkimi	flamandzki	adj:pl:inst:m1.m2.m3.f.n:pos		
 flamandzko	flamandzki	adja		
-flamandzku	flamandzki	adjp		
+flamandzku	flamandzki	adjp:dat		
 flamandzko	flamandzko	adv:pos		
 flamandzkościach	flamandzkość	subst:pl:loc:f	nazwa pospolita	
 flamandzkościami	flamandzkość	subst:pl:inst:f	nazwa pospolita	
@@ -32695,7 +32696,7 @@ flandryjskim	flandryjski	adj:sg:inst:m1.m2.m3.n:pos
 flandryjskim	flandryjski	adj:sg:loc:m1.m2.m3.n:pos		
 flandryjskimi	flandryjski	adj:pl:inst:m1.m2.m3.f.n:pos		
 flandryjsko	flandryjski	adja		
-flandryjsku	flandryjski	adjp		
+flandryjsku	flandryjski	adjp:dat		
 flandryjsko	flandryjsko	adv:pos		
 flandryjskościach	flandryjskość	subst:pl:loc:f	nazwa pospolita	
 flandryjskościami	flandryjskość	subst:pl:inst:f	nazwa pospolita	
@@ -32933,7 +32934,7 @@ flankierskim	flankierski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 flankierskim	flankierski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 flankierskimi	flankierski	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 flankiersko	flankierski	adja		daw.
-flankiersku	flankierski	adjp		daw.
+flankiersku	flankierski	adjp:dat		daw.
 flankiersko	flankiersko	adv:pos		daw.
 flankierskościach	flankierskość	subst:pl:loc:f	nazwa pospolita	daw.
 flankierskościami	flankierskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -33491,7 +33492,7 @@ flaubertowskim	flaubertowski	adj:sg:inst:m1.m2.m3.n:pos
 flaubertowskim	flaubertowski	adj:sg:loc:m1.m2.m3.n:pos		
 flaubertowskimi	flaubertowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 flaubertowsko	flaubertowski	adja		
-flaubertowsku	flaubertowski	adjp		
+flaubertowsku	flaubertowski	adjp:dat		
 flaubertowsko	flaubertowsko	adv:pos		
 flaubertowskościach	flaubertowskość	subst:pl:loc:f	nazwa pospolita	
 flaubertowskościami	flaubertowskość	subst:pl:inst:f	nazwa pospolita	
@@ -35019,7 +35020,7 @@ flirciarskim	flirciarski	adj:sg:inst:m1.m2.m3.n:pos
 flirciarskim	flirciarski	adj:sg:loc:m1.m2.m3.n:pos		
 flirciarskimi	flirciarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 flirciarsko	flirciarski	adja		
-flirciarsku	flirciarski	adjp		
+flirciarsku	flirciarski	adjp:dat		
 flirciarsko	flirciarsko	adv:pos		
 flirciarskościach	flirciarskość	subst:pl:loc:f	nazwa pospolita	
 flirciarskościami	flirciarskość	subst:pl:inst:f	nazwa pospolita	
@@ -35246,7 +35247,7 @@ flisackim	flisacki	adj:sg:inst:m1.m2.m3.n:pos
 flisackim	flisacki	adj:sg:loc:m1.m2.m3.n:pos		
 flisackimi	flisacki	adj:pl:inst:m1.m2.m3.f.n:pos		
 flisacko	flisacki	adja		
-flisacku	flisacki	adjp		
+flisacku	flisacki	adjp:dat		
 flisacko	flisacko	adv:pos		
 flisackościach	flisackość	subst:pl:loc:f	nazwa pospolita	
 flisackościami	flisackość	subst:pl:inst:f	nazwa pospolita	
@@ -35423,7 +35424,7 @@ flisowskim	flisowski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 flisowskim	flisowski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 flisowskimi	flisowski	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 flisowsko	flisowski	adja		daw.
-flisowsku	flisowski	adjp		daw.
+flisowsku	flisowski	adjp:dat		daw.
 flisowsko	flisowsko	adv:pos		daw.
 flisowskościach	flisowskość	subst:pl:loc:f	nazwa pospolita	daw.
 flisowskościami	flisowskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -36255,7 +36256,7 @@ florenckim	florencki	adj:sg:inst:m1.m2.m3.n:pos
 florenckim	florencki	adj:sg:loc:m1.m2.m3.n:pos		
 florenckimi	florencki	adj:pl:inst:m1.m2.m3.f.n:pos		
 florencko	florencki	adja		
-florencku	florencki	adjp		
+florencku	florencki	adjp:dat		
 florencko	florencko	adv:pos		
 florenckościach	florenckość	subst:pl:loc:f	nazwa pospolita	
 florenckościami	florenckość	subst:pl:inst:f	nazwa pospolita	
@@ -36316,7 +36317,7 @@ florentyńskim	florentyński	adj:sg:inst:m1.m2.m3.n:pos
 florentyńskim	florentyński	adj:sg:loc:m1.m2.m3.n:pos		
 florentyńskimi	florentyński	adj:pl:inst:m1.m2.m3.f.n:pos		
 florentyńsko	florentyński	adja		
-florentyńsku	florentyński	adjp		
+florentyńsku	florentyński	adjp:dat		
 florentyńsko	florentyńsko	adv:pos		
 florentyńskościach	florentyńskość	subst:pl:loc:f	nazwa pospolita	
 florentyńskościami	florentyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -36580,7 +36581,7 @@ floriańskim	floriański	adj:sg:inst:m1.m2.m3.n:pos
 floriańskim	floriański	adj:sg:loc:m1.m2.m3.n:pos		
 floriańskimi	floriański	adj:pl:inst:m1.m2.m3.f.n:pos		
 floriańsko	floriański	adja		
-floriańsku	floriański	adjp		
+floriańsku	floriański	adjp:dat		
 floriańsko	floriańsko	adv:pos		
 floriańskościach	floriańskość	subst:pl:loc:f	nazwa pospolita	
 floriańskościami	floriańskość	subst:pl:inst:f	nazwa pospolita	
@@ -36617,7 +36618,7 @@ florydzkim	florydzki	adj:sg:inst:m1.m2.m3.n:pos
 florydzkim	florydzki	adj:sg:loc:m1.m2.m3.n:pos		
 florydzkimi	florydzki	adj:pl:inst:m1.m2.m3.f.n:pos		
 florydzko	florydzki	adja		
-florydzku	florydzki	adjp		
+florydzku	florydzki	adjp:dat		
 florydzko	florydzko	adv:pos		
 florydzkościach	florydzkość	subst:pl:loc:f	nazwa pospolita	
 florydzkościami	florydzkość	subst:pl:inst:f	nazwa pospolita	
@@ -38204,7 +38205,7 @@ fogaraskim	fogaraski	adj:sg:inst:m1.m2.m3.n:pos
 fogaraskim	fogaraski	adj:sg:loc:m1.m2.m3.n:pos		
 fogaraskimi	fogaraski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fogarasko	fogaraski	adja		
-fogarasku	fogaraski	adjp		
+fogarasku	fogaraski	adjp:dat		
 fogarasko	fogarasko	adv:pos		
 fogaraskościach	fogaraskość	subst:pl:loc:f	nazwa pospolita	
 fogaraskościami	fogaraskość	subst:pl:inst:f	nazwa pospolita	
@@ -38279,7 +38280,7 @@ fokidyjskim	fokidyjski	adj:sg:inst:m1.m2.m3.n:pos
 fokidyjskim	fokidyjski	adj:sg:loc:m1.m2.m3.n:pos		
 fokidyjskimi	fokidyjski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fokidyjsko	fokidyjski	adja		
-fokidyjsku	fokidyjski	adjp		
+fokidyjsku	fokidyjski	adjp:dat		
 fokidyjsko	fokidyjsko	adv:pos		
 fokidyjskościach	fokidyjskość	subst:pl:loc:f	nazwa pospolita	
 fokidyjskościami	fokidyjskość	subst:pl:inst:f	nazwa pospolita	
@@ -38622,7 +38623,7 @@ folarskim	folarski	adj:sg:inst:m1.m2.m3.n:pos
 folarskim	folarski	adj:sg:loc:m1.m2.m3.n:pos		
 folarskimi	folarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 folarsko	folarski	adja		
-folarsku	folarski	adjp		
+folarsku	folarski	adjp:dat		
 folarsko	folarsko	adv:pos		
 folarskościach	folarskość	subst:pl:loc:f	nazwa pospolita	
 folarskościami	folarskość	subst:pl:inst:f	nazwa pospolita	
@@ -39433,7 +39434,7 @@ folsomskim	folsomski	adj:sg:inst:m1.m2.m3.n:pos
 folsomskim	folsomski	adj:sg:loc:m1.m2.m3.n:pos		
 folsomskimi	folsomski	adj:pl:inst:m1.m2.m3.f.n:pos		
 folsomsko	folsomski	adja		
-folsomsku	folsomski	adjp		
+folsomsku	folsomski	adjp:dat		
 folsomsko	folsomsko	adv:pos		
 folsomskościach	folsomskość	subst:pl:loc:f	nazwa pospolita	
 folsomskościami	folsomskość	subst:pl:inst:f	nazwa pospolita	
@@ -41984,7 +41985,7 @@ formierskim	formierski	adj:sg:inst:m1.m2.m3.n:pos
 formierskim	formierski	adj:sg:loc:m1.m2.m3.n:pos		
 formierskimi	formierski	adj:pl:inst:m1.m2.m3.f.n:pos		
 formiersko	formierski	adja		
-formiersku	formierski	adjp		
+formiersku	formierski	adjp:dat		
 formiersko	formiersko	adv:pos		
 formierskościach	formierskość	subst:pl:loc:f	nazwa pospolita	
 formierskościami	formierskość	subst:pl:inst:f	nazwa pospolita	
@@ -42648,7 +42649,7 @@ fornalskim	fornalski	adj:sg:inst:m1.m2.m3.n:pos
 fornalskim	fornalski	adj:sg:loc:m1.m2.m3.n:pos		
 fornalskimi	fornalski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fornalsko	fornalski	adja		
-fornalsku	fornalski	adjp		
+fornalsku	fornalski	adjp:dat		
 fornalsko	fornalsko	adv:pos		
 fornalskościach	fornalskość	subst:pl:loc:f	nazwa pospolita	
 fornalskościami	fornalskość	subst:pl:inst:f	nazwa pospolita	
@@ -42978,7 +42979,7 @@ fornirskim	fornirski	adj:sg:inst:m1.m2.m3.n:pos
 fornirskim	fornirski	adj:sg:loc:m1.m2.m3.n:pos		
 fornirskimi	fornirski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fornirsko	fornirski	adja		
-fornirsku	fornirski	adjp		
+fornirsku	fornirski	adjp:dat		
 fornirsko	fornirsko	adv:pos		
 fornirskościach	fornirskość	subst:pl:loc:f	nazwa pospolita	
 fornirskościami	fornirskość	subst:pl:inst:f	nazwa pospolita	
@@ -45859,7 +45860,7 @@ fotoamatorskim	fotoamatorski	adj:sg:inst:m1.m2.m3.n:pos
 fotoamatorskim	fotoamatorski	adj:sg:loc:m1.m2.m3.n:pos		
 fotoamatorskimi	fotoamatorski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fotoamatorsko	fotoamatorski	adja		
-fotoamatorsku	fotoamatorski	adjp		
+fotoamatorsku	fotoamatorski	adjp:dat		
 fotoamatorsko	fotoamatorsko	adv:pos		
 fotoamatorskościach	fotoamatorskość	subst:pl:loc:f	nazwa pospolita	
 fotoamatorskościami	fotoamatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -46900,7 +46901,7 @@ fotokopiarskim	fotokopiarski	adj:sg:inst:m1.m2.m3.n:pos
 fotokopiarskim	fotokopiarski	adj:sg:loc:m1.m2.m3.n:pos		
 fotokopiarskimi	fotokopiarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fotokopiarsko	fotokopiarski	adja		
-fotokopiarsku	fotokopiarski	adjp		
+fotokopiarsku	fotokopiarski	adjp:dat		
 fotokopiarsko	fotokopiarsko	adv:pos		
 fotokopiarskościach	fotokopiarskość	subst:pl:loc:f	nazwa pospolita	
 fotokopiarskościami	fotokopiarskość	subst:pl:inst:f	nazwa pospolita	
@@ -47731,7 +47732,7 @@ fotoreporterskim	fotoreporterski	adj:sg:inst:m1.m2.m3.n:pos
 fotoreporterskim	fotoreporterski	adj:sg:loc:m1.m2.m3.n:pos		
 fotoreporterskimi	fotoreporterski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fotoreportersko	fotoreporterski	adja		
-fotoreportersku	fotoreporterski	adjp		
+fotoreportersku	fotoreporterski	adjp:dat		
 fotoreportersko	fotoreportersko	adv:pos		
 fotoreporterskościach	fotoreporterskość	subst:pl:loc:f	nazwa pospolita	
 fotoreporterskościami	fotoreporterskość	subst:pl:inst:f	nazwa pospolita	
@@ -48421,7 +48422,7 @@ fourierowskim	fourierowski	adj:sg:inst:m1.m2.m3.n:pos
 fourierowskim	fourierowski	adj:sg:loc:m1.m2.m3.n:pos		
 fourierowskimi	fourierowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fourierowsko	fourierowski	adja		
-fourierowsku	fourierowski	adjp		
+fourierowsku	fourierowski	adjp:dat		
 fourierowsko	fourierowsko	adv:pos		
 fourierowskościach	fourierowskość	subst:pl:loc:f	nazwa pospolita	
 fourierowskościami	fourierowskość	subst:pl:inst:f	nazwa pospolita	
@@ -49036,7 +49037,7 @@ frajerskim	frajerski	adj:sg:inst:m1.m2.m3.n:pos
 frajerskim	frajerski	adj:sg:loc:m1.m2.m3.n:pos		
 frajerskimi	frajerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 frajersko	frajerski	adja		
-frajersku	frajerski	adjp		
+frajersku	frajerski	adjp:dat		
 frajersko	frajersko	adv:pos		
 frajerskościach	frajerskość	subst:pl:loc:f	nazwa pospolita	
 frajerskościami	frajerskość	subst:pl:inst:f	nazwa pospolita	
@@ -49406,7 +49407,7 @@ frampolskim	frampolski	adj:sg:inst:m1.m2.m3.n:pos
 frampolskim	frampolski	adj:sg:loc:m1.m2.m3.n:pos		
 frampolskimi	frampolski	adj:pl:inst:m1.m2.m3.f.n:pos		
 frampolsko	frampolski	adja		
-frampolsku	frampolski	adjp		
+frampolsku	frampolski	adjp:dat		
 frampolsko	frampolsko	adv:pos		
 frampolskościach	frampolskość	subst:pl:loc:f	nazwa pospolita	
 frampolskościami	frampolskość	subst:pl:inst:f	nazwa pospolita	
@@ -49546,7 +49547,7 @@ franciszkańskim	franciszkański	adj:sg:inst:m1.m2.m3.n:pos
 franciszkańskim	franciszkański	adj:sg:loc:m1.m2.m3.n:pos		
 franciszkańskimi	franciszkański	adj:pl:inst:m1.m2.m3.f.n:pos		
 franciszkańsko	franciszkański	adja		
-franciszkańsku	franciszkański	adjp		
+franciszkańsku	franciszkański	adjp:dat		
 franciszkańsko	franciszkańsko	adv:pos		
 franciszkańskościach	franciszkańskość	subst:pl:loc:f	nazwa pospolita	
 franciszkańskościami	franciszkańskość	subst:pl:inst:f	nazwa pospolita	
@@ -49596,6 +49597,7 @@ francowatym	francowaty	adj:sg:inst:m1.m2.m3.n:pos		pot.
 francowatym	francowaty	adj:sg:loc:m1.m2.m3.n:pos		pot.
 francowatymi	francowaty	adj:pl:inst:m1.m2.m3.f.n:pos		pot.
 francuscy	francuski:a	adj:pl:nom.voc:m1:pos		
+francuska	francuski:a	adjp:gen		
 francuska	francuski:a	adj:sg:nom.voc:f:pos		
 francuską	francuski:a	adj:sg:acc:f:pos		
 francuską	francuski:a	adj:sg:inst:f:pos		
@@ -49619,7 +49621,7 @@ francuskim	francuski:a	adj:sg:inst:m1.m2.m3.n:pos
 francuskim	francuski:a	adj:sg:loc:m1.m2.m3.n:pos		
 francuskimi	francuski:a	adj:pl:inst:m1.m2.m3.f.n:pos		
 francusko	francuski:a	adja		
-francusku	francuski:a	adjp		
+francusku	francuski:a	adjp:dat		
 francuskich	francuski:s	subst:pl:gen:m3	nazwa pospolita	
 francuskich	francuski:s	subst:pl:loc:m3	nazwa pospolita	
 francuskie	francuski:s	subst:pl:nom.acc.voc:m3	nazwa pospolita	
@@ -50059,7 +50061,7 @@ frankfurckim	frankfurcki	adj:sg:inst:m1.m2.m3.n:pos
 frankfurckim	frankfurcki	adj:sg:loc:m1.m2.m3.n:pos		
 frankfurckimi	frankfurcki	adj:pl:inst:m1.m2.m3.f.n:pos		
 frankfurcko	frankfurcki	adja		
-frankfurcku	frankfurcki	adjp		
+frankfurcku	frankfurcki	adjp:dat		
 frankfurcko	frankfurcko	adv:pos		
 frankfurckościach	frankfurckość	subst:pl:loc:f	nazwa pospolita	
 frankfurckościami	frankfurckość	subst:pl:inst:f	nazwa pospolita	
@@ -50119,7 +50121,7 @@ frankijskim	frankijski	adj:sg:inst:m1.m2.m3.n:pos
 frankijskim	frankijski	adj:sg:loc:m1.m2.m3.n:pos		
 frankijskimi	frankijski	adj:pl:inst:m1.m2.m3.f.n:pos		
 frankijsko	frankijski	adja		
-frankijsku	frankijski	adjp		
+frankijsku	frankijski	adjp:dat		
 frankijsko	frankijsko	adv:pos		
 frankijskościach	frankijskość	subst:pl:loc:f	nazwa pospolita	
 frankijskościami	frankijskość	subst:pl:inst:f	nazwa pospolita	
@@ -50168,7 +50170,7 @@ frankistowskim	frankistowski	adj:sg:inst:m1.m2.m3.n:pos
 frankistowskim	frankistowski	adj:sg:loc:m1.m2.m3.n:pos		
 frankistowskimi	frankistowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 frankistowsko	frankistowski	adja		
-frankistowsku	frankistowski	adjp		
+frankistowsku	frankistowski	adjp:dat		
 frankistowsko	frankistowsko	adv:pos		
 frankistowskościach	frankistowskość	subst:pl:loc:f	nazwa pospolita	
 frankistowskościami	frankistowskość	subst:pl:inst:f	nazwa pospolita	
@@ -50277,7 +50279,7 @@ frankofilskim	frankofilski	adj:sg:inst:m1.m2.m3.n:pos
 frankofilskim	frankofilski	adj:sg:loc:m1.m2.m3.n:pos		
 frankofilskimi	frankofilski	adj:pl:inst:m1.m2.m3.f.n:pos		
 frankofilsko	frankofilski	adja		
-frankofilsku	frankofilski	adjp		
+frankofilsku	frankofilski	adjp:dat		
 frankofilsko	frankofilsko	adv:pos		
 frankofilskościach	frankofilskość	subst:pl:loc:f	nazwa pospolita	
 frankofilskościami	frankofilskość	subst:pl:inst:f	nazwa pospolita	
@@ -50373,7 +50375,7 @@ frankofońskim	frankofoński	adj:sg:inst:m1.m2.m3.n:pos
 frankofońskim	frankofoński	adj:sg:loc:m1.m2.m3.n:pos		
 frankofońskimi	frankofoński	adj:pl:inst:m1.m2.m3.f.n:pos		
 frankofońsko	frankofoński	adja		
-frankofońsku	frankofoński	adjp		
+frankofońsku	frankofoński	adjp:dat		
 frankofońsko	frankofońsko	adv:pos		
 frankofońskościach	frankofońskość	subst:pl:loc:f	nazwa pospolita	
 frankofońskościami	frankofońskość	subst:pl:inst:f	nazwa pospolita	
@@ -50422,7 +50424,7 @@ frankońskim	frankoński	adj:sg:inst:m1.m2.m3.n:pos
 frankońskim	frankoński	adj:sg:loc:m1.m2.m3.n:pos		
 frankońskimi	frankoński	adj:pl:inst:m1.m2.m3.f.n:pos		
 frankońsko	frankoński	adja		
-frankońsku	frankoński	adjp		
+frankońsku	frankoński	adjp:dat		
 frankońsko	frankońsko	adv:pos		
 frankońskościach	frankońskość	subst:pl:loc:f	nazwa pospolita	
 frankońskościami	frankońskość	subst:pl:inst:f	nazwa pospolita	
@@ -50771,7 +50773,7 @@ frantowskim	frantowski	adj:sg:inst:m1.m2.m3.n:pos
 frantowskim	frantowski	adj:sg:loc:m1.m2.m3.n:pos		
 frantowskimi	frantowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 frantowsko	frantowski	adja		
-frantowsku	frantowski	adjp		
+frantowsku	frantowski	adjp:dat		
 frantowsko	frantowsko	adv:pos		
 frantowskościach	frantowskość	subst:pl:loc:f	nazwa pospolita	
 frantowskościami	frantowskość	subst:pl:inst:f	nazwa pospolita	
@@ -51744,7 +51746,7 @@ frażetowskim	frażetowski	adj:sg:inst:m1.m2.m3.n:pos
 frażetowskim	frażetowski	adj:sg:loc:m1.m2.m3.n:pos		
 frażetowskimi	frażetowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 frażetowsko	frażetowski	adja		
-frażetowsku	frażetowski	adjp		
+frażetowsku	frażetowski	adjp:dat		
 frażetowsko	frażetowsko	adv:pos		
 frażetowskościach	frażetowskość	subst:pl:loc:f	nazwa pospolita	
 frażetowskościami	frażetowskość	subst:pl:inst:f	nazwa pospolita	
@@ -51821,7 +51823,7 @@ freblowskim	freblowski	adj:sg:inst:m1.m2.m3.n:pos
 freblowskim	freblowski	adj:sg:loc:m1.m2.m3.n:pos		
 freblowskimi	freblowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 freblowsko	freblowski	adja		
-freblowsku	freblowski	adjp		
+freblowsku	freblowski	adjp:dat		
 freblowsko	freblowsko	adv:pos		
 freblowskościach	freblowskość	subst:pl:loc:f	nazwa pospolita	
 freblowskościami	freblowskość	subst:pl:inst:f	nazwa pospolita	
@@ -51882,7 +51884,7 @@ fredropolskim	fredropolski	adj:sg:inst:m1.m2.m3.n:pos
 fredropolskim	fredropolski	adj:sg:loc:m1.m2.m3.n:pos		
 fredropolskimi	fredropolski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fredropolsko	fredropolski	adja		
-fredropolsku	fredropolski	adjp		
+fredropolsku	fredropolski	adjp:dat		
 fredropolsko	fredropolsko	adv:pos		
 fredropolskościach	fredropolskość	subst:pl:loc:f	nazwa pospolita	
 fredropolskościami	fredropolskość	subst:pl:inst:f	nazwa pospolita	
@@ -51919,7 +51921,7 @@ fredrowskim	fredrowski	adj:sg:inst:m1.m2.m3.n:pos
 fredrowskim	fredrowski	adj:sg:loc:m1.m2.m3.n:pos		
 fredrowskimi	fredrowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fredrowsko	fredrowski	adja		
-fredrowsku	fredrowski	adjp		
+fredrowsku	fredrowski	adjp:dat		
 fredrowsko	fredrowsko	adv:pos		
 fredrowskościach	fredrowskość	subst:pl:loc:f	nazwa pospolita	
 fredrowskościami	fredrowskość	subst:pl:inst:f	nazwa pospolita	
@@ -52545,7 +52547,7 @@ freudowskim	freudowski	adj:sg:inst:m1.m2.m3.n:pos
 freudowskim	freudowski	adj:sg:loc:m1.m2.m3.n:pos		
 freudowskimi	freudowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 freudowsko	freudowski	adja		
-freudowsku	freudowski	adjp		
+freudowsku	freudowski	adjp:dat		
 freudowsko	freudowsko	adv:pos		
 freudowskościach	freudowskość	subst:pl:loc:f	nazwa pospolita	
 freudowskościami	freudowskość	subst:pl:inst:f	nazwa pospolita	
@@ -53022,7 +53024,7 @@ frędzlowatym	frędzlowaty	adj:pl:dat:m1.m2.m3.f.n:pos
 frędzlowatym	frędzlowaty	adj:sg:inst:m1.m2.m3.n:pos		
 frędzlowatym	frędzlowaty	adj:sg:loc:m1.m2.m3.n:pos		
 frędzlowatymi	frędzlowaty	adj:pl:inst:m1.m2.m3.f.n:pos		
-friko	friko	burk		pot.
+friko	friko	frag		pot.
 frimaire’ach	frimaire	subst:pl:loc:m3	nazwa pospolita	
 frimaire’a	frimaire	subst:sg:gen:m3	nazwa pospolita	
 frimaire’ami	frimaire	subst:pl:inst:m3	nazwa pospolita	
@@ -53058,7 +53060,7 @@ friulskim	friulski	adj:sg:inst:m1.m2.m3.n:pos
 friulskim	friulski	adj:sg:loc:m1.m2.m3.n:pos		
 friulskimi	friulski	adj:pl:inst:m1.m2.m3.f.n:pos		
 friulsko	friulski	adja		
-friulsku	friulski	adjp		
+friulsku	friulski	adjp:dat		
 friulsko	friulsko	adv:pos		
 friulskościach	friulskość	subst:pl:loc:f	nazwa pospolita	
 friulskościami	friulskość	subst:pl:inst:f	nazwa pospolita	
@@ -53095,7 +53097,7 @@ fromborskim	fromborski	adj:sg:inst:m1.m2.m3.n:pos
 fromborskim	fromborski	adj:sg:loc:m1.m2.m3.n:pos		
 fromborskimi	fromborski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fromborsko	fromborski	adja		
-fromborsku	fromborski	adjp		
+fromborsku	fromborski	adjp:dat		
 fromborsko	fromborsko	adv:pos		
 fromborskościach	fromborskość	subst:pl:loc:f	nazwa pospolita	
 fromborskościami	fromborskość	subst:pl:inst:f	nazwa pospolita	
@@ -53606,7 +53608,7 @@ froterskim	froterski	adj:sg:inst:m1.m2.m3.n:pos
 froterskim	froterski	adj:sg:loc:m1.m2.m3.n:pos		
 froterskimi	froterski	adj:pl:inst:m1.m2.m3.f.n:pos		
 frotersko	froterski	adja		
-frotersku	froterski	adjp		
+frotersku	froterski	adjp:dat		
 frotersko	frotersko	adv:pos		
 froterskościach	froterskość	subst:pl:loc:f	nazwa pospolita	
 froterskościami	froterskość	subst:pl:inst:f	nazwa pospolita	
@@ -54127,7 +54129,7 @@ frunzeńskim	frunzeński	adj:sg:inst:m1.m2.m3.n:pos
 frunzeńskim	frunzeński	adj:sg:loc:m1.m2.m3.n:pos		
 frunzeńskimi	frunzeński	adj:pl:inst:m1.m2.m3.f.n:pos		
 frunzeńsko	frunzeński	adja		
-frunzeńsku	frunzeński	adjp		
+frunzeńsku	frunzeński	adjp:dat		
 frunzeńsko	frunzeńsko	adv:pos		
 frunzeńskościach	frunzeńskość	subst:pl:loc:f	nazwa pospolita	
 frunzeńskościami	frunzeńskość	subst:pl:inst:f	nazwa pospolita	
@@ -54513,7 +54515,7 @@ fryburskim	fryburski	adj:sg:inst:m1.m2.m3.n:pos
 fryburskim	fryburski	adj:sg:loc:m1.m2.m3.n:pos		
 fryburskimi	fryburski	adj:pl:inst:m1.m2.m3.f.n:pos		
 frybursko	fryburski	adja		
-frybursku	fryburski	adjp		
+frybursku	fryburski	adjp:dat		
 frybursko	frybursko	adv:pos		
 fryburskościach	fryburskość	subst:pl:loc:f	nazwa pospolita	
 fryburskościami	fryburskość	subst:pl:inst:f	nazwa pospolita	
@@ -54682,7 +54684,7 @@ fryderycjańskim	fryderycjański	adj:sg:inst:m1.m2.m3.n:pos
 fryderycjańskim	fryderycjański	adj:sg:loc:m1.m2.m3.n:pos		
 fryderycjańskimi	fryderycjański	adj:pl:inst:m1.m2.m3.f.n:pos		
 fryderycjańsko	fryderycjański	adja		
-fryderycjańsku	fryderycjański	adjp		
+fryderycjańsku	fryderycjański	adjp:dat		
 fryderycjańsko	fryderycjańsko	adv:pos		
 fryderycjańskościach	fryderycjańskość	subst:pl:loc:f	nazwa pospolita	
 fryderycjańskościami	fryderycjańskość	subst:pl:inst:f	nazwa pospolita	
@@ -54841,7 +54843,7 @@ frygijskim	frygijski	adj:sg:inst:m1.m2.m3.n:pos
 frygijskim	frygijski	adj:sg:loc:m1.m2.m3.n:pos		
 frygijskimi	frygijski	adj:pl:inst:m1.m2.m3.f.n:pos		
 frygijsko	frygijski	adja		
-frygijsku	frygijski	adjp		
+frygijsku	frygijski	adjp:dat		
 frygijsko	frygijsko	adv:pos		
 frygijskościach	frygijskość	subst:pl:loc:f	nazwa pospolita	
 frygijskościami	frygijskość	subst:pl:inst:f	nazwa pospolita	
@@ -55446,7 +55448,7 @@ fryszerskim	fryszerski	adj:sg:inst:m1.m2.m3.n:pos		przest.
 fryszerskim	fryszerski	adj:sg:loc:m1.m2.m3.n:pos		przest.
 fryszerskimi	fryszerski	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
 fryszersko	fryszerski	adja		przest.
-fryszersku	fryszerski	adjp		przest.
+fryszersku	fryszerski	adjp:dat		przest.
 fryszersko	fryszersko	adv:pos		
 fryszerskościach	fryszerskość	subst:pl:loc:f	nazwa pospolita	przest.
 fryszerskościami	fryszerskość	subst:pl:inst:f	nazwa pospolita	przest.
@@ -55930,7 +55932,7 @@ fryzjerskim	fryzjerski	adj:sg:inst:m1.m2.m3.n:pos
 fryzjerskim	fryzjerski	adj:sg:loc:m1.m2.m3.n:pos		
 fryzjerskimi	fryzjerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fryzjersko	fryzjerski	adja		
-fryzjersku	fryzjerski	adjp		
+fryzjersku	fryzjerski	adjp:dat		
 fryzjersko	fryzjersko	adv:pos		
 fryzjerskościach	fryzjerskość	subst:pl:loc:f	nazwa pospolita	
 fryzjerskościami	fryzjerskość	subst:pl:inst:f	nazwa pospolita	
@@ -56179,7 +56181,7 @@ fryzyjskim	fryzyjski	adj:sg:inst:m1.m2.m3.n:pos
 fryzyjskim	fryzyjski	adj:sg:loc:m1.m2.m3.n:pos		
 fryzyjskimi	fryzyjski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fryzyjsko	fryzyjski	adja		
-fryzyjsku	fryzyjski	adjp		
+fryzyjsku	fryzyjski	adjp:dat		
 fryzyjsko	fryzyjsko	adv:pos		
 fryzyjskościach	fryzyjskość	subst:pl:loc:f	nazwa pospolita	
 fryzyjskościami	fryzyjskość	subst:pl:inst:f	nazwa pospolita	
@@ -56914,7 +56916,7 @@ fukierowskim	fukierowski	adj:sg:inst:m1.m2.m3.n:pos
 fukierowskim	fukierowski	adj:sg:loc:m1.m2.m3.n:pos		
 fukierowskimi	fukierowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fukierowsko	fukierowski	adja		
-fukierowsku	fukierowski	adjp		
+fukierowsku	fukierowski	adjp:dat		
 fukierowsko	fukierowsko	adv:pos		
 fukierowskościach	fukierowskość	subst:pl:loc:f	nazwa pospolita	
 fukierowskościami	fukierowskość	subst:pl:inst:f	nazwa pospolita	
@@ -57238,7 +57240,7 @@ fulerskim	fulerski	adj:sg:inst:m1.m2.m3.n:pos
 fulerskim	fulerski	adj:sg:loc:m1.m2.m3.n:pos		
 fulerskimi	fulerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fulersko	fulerski	adja		
-fulersku	fulerski	adjp		
+fulersku	fulerski	adjp:dat		
 fulersko	fulersko	adv:pos		
 fulerskościach	fulerskość	subst:pl:loc:f	nazwa pospolita	
 fulerskościami	fulerskość	subst:pl:inst:f	nazwa pospolita	
@@ -58020,7 +58022,7 @@ fundatorskim	fundatorski	adj:sg:inst:m1.m2.m3.n:pos
 fundatorskim	fundatorski	adj:sg:loc:m1.m2.m3.n:pos		
 fundatorskimi	fundatorski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fundatorsko	fundatorski	adja		
-fundatorsku	fundatorski	adjp		
+fundatorsku	fundatorski	adjp:dat		
 fundatorsko	fundatorsko	adv:pos		
 fundatorskościach	fundatorskość	subst:pl:loc:f	nazwa pospolita	
 fundatorskościami	fundatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -58057,7 +58059,7 @@ fundlandzkim	fundlandzki	adj:sg:inst:m1.m2.m3.n:pos
 fundlandzkim	fundlandzki	adj:sg:loc:m1.m2.m3.n:pos		
 fundlandzkimi	fundlandzki	adj:pl:inst:m1.m2.m3.f.n:pos		
 fundlandzko	fundlandzki	adja		
-fundlandzku	fundlandzki	adjp		
+fundlandzku	fundlandzki	adjp:dat		
 fundlandzko	fundlandzko	adv:pos		
 fundlandzkościach	fundlandzkość	subst:pl:loc:f	nazwa pospolita	
 fundlandzkościami	fundlandzkość	subst:pl:inst:f	nazwa pospolita	
@@ -59211,7 +59213,7 @@ furfanckim	furfancki	adj:sg:inst:m1.m2.m3.n:pos		przest.
 furfanckim	furfancki	adj:sg:loc:m1.m2.m3.n:pos		przest.
 furfanckimi	furfancki	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
 furfancko	furfancki	adja		przest.
-furfancku	furfancki	adjp		przest.
+furfancku	furfancki	adjp:dat		przest.
 furfancko	furfancko	adv:pos		
 furfanckościach	furfanckość	subst:pl:loc:f	nazwa pospolita	przest.
 furfanckościami	furfanckość	subst:pl:inst:f	nazwa pospolita	przest.
@@ -59696,7 +59698,7 @@ furiackim	furiacki	adj:sg:inst:m1.m2.m3.n:pos
 furiackim	furiacki	adj:sg:loc:m1.m2.m3.n:pos		
 furiackimi	furiacki	adj:pl:inst:m1.m2.m3.f.n:pos		
 furiacko	furiacki	adja		
-furiacku	furiacki	adjp		
+furiacku	furiacki	adjp:dat		
 furiacko	furiacko	adv:pos		
 furiackościach	furiackość	subst:pl:loc:f	nazwa pospolita	
 furiackościami	furiackość	subst:pl:inst:f	nazwa pospolita	
@@ -60257,7 +60259,7 @@ furmańskim	furmański	adj:sg:inst:m1.m2.m3.n:pos
 furmańskim	furmański	adj:sg:loc:m1.m2.m3.n:pos		
 furmańskimi	furmański	adj:pl:inst:m1.m2.m3.f.n:pos		
 furmańsko	furmański	adja		
-furmańsku	furmański	adjp		
+furmańsku	furmański	adjp:dat		
 furmańsko	furmańsko	adv:pos		
 furmańskościach	furmańskość	subst:pl:loc:f	nazwa pospolita	
 furmańskościami	furmańskość	subst:pl:inst:f	nazwa pospolita	
@@ -60629,7 +60631,7 @@ fuszerskim	fuszerski	adj:sg:inst:m1.m2.m3.n:pos
 fuszerskim	fuszerski	adj:sg:loc:m1.m2.m3.n:pos		
 fuszerskimi	fuszerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 fuszersko	fuszerski	adja		
-fuszersku	fuszerski	adjp		
+fuszersku	fuszerski	adjp:dat		
 fuszersko	fuszersko	adv:pos		
 fuszerskościach	fuszerskość	subst:pl:loc:f	nazwa pospolita	
 fuszerskościami	fuszerskość	subst:pl:inst:f	nazwa pospolita	
@@ -61241,7 +61243,7 @@ futrzarskim	futrzarski	adj:sg:inst:m1.m2.m3.n:pos
 futrzarskim	futrzarski	adj:sg:loc:m1.m2.m3.n:pos		
 futrzarskimi	futrzarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 futrzarsko	futrzarski	adja		
-futrzarsku	futrzarski	adjp		
+futrzarsku	futrzarski	adjp:dat		
 futrzarsko	futrzarsko	adv:pos		
 futrzarskościach	futrzarskość	subst:pl:loc:f	nazwa pospolita	
 futrzarskościami	futrzarskość	subst:pl:inst:f	nazwa pospolita	

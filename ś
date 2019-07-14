@@ -3822,7 +3822,7 @@
 ścieśnisz	ścieśnić	fin:sg:sec:perf		
 ścieśni	ścieśnić	fin:sg:ter:perf		
 ścieśniwszy	ścieśnić	pant:perf		
-ścież	ścież	burk		daw.
+ścież	ścież	frag		daw.
 ścieżach	ścieża	subst:pl:loc:f	nazwa pospolita	indyw.
 ścieżami	ścieża	subst:pl:inst:f	nazwa pospolita	indyw.
 ścieża	ścieża	subst:sg:nom:f	nazwa pospolita	indyw.
@@ -3834,7 +3834,7 @@
 ścież	ścieża	subst:pl:gen:f	nazwa pospolita	indyw.
 ścieży	ścieża	subst:sg:dat.loc:f	nazwa pospolita	indyw.
 ścieży	ścieża	subst:sg:gen:f	nazwa pospolita	indyw.
-ścieżaj	ścieżaj	burk		
+ścieżaj	ścieżaj	frag		
 ścieżeczce	ścieżeczka	subst:sg:dat.loc:f	nazwa pospolita	
 ścieżeczek	ścieżeczka	subst:pl:gen:f	nazwa pospolita	
 ścieżeczkach	ścieżeczka	subst:pl:loc:f	nazwa pospolita	
@@ -4051,7 +4051,7 @@
 ściętym	ścięty	adj:sg:loc:m1.m2.m3.n:pos		
 ścięty	ścięty	adj:sg:acc:m3:pos		
 ścięty	ścięty	adj:sg:nom.voc:m1.m2.m3:pos		
-ściężaj	ściężaj	burk		
+ściężaj	ściężaj	frag		
 ściężali	ściężały	adj:pl:nom.voc:m1:pos		
 ściężała	ściężały	adj:sg:nom.voc:f:pos		
 ściężałą	ściężały	adj:sg:acc:f:pos		
@@ -4565,7 +4565,7 @@
 ścinawski	ścinawski	adj:sg:acc:m3:pos		
 ścinawski	ścinawski	adj:sg:nom.voc:m1.m2.m3:pos		
 ścinawsko	ścinawski	adja		
-ścinawsku	ścinawski	adjp		
+ścinawsku	ścinawski	adjp:dat		
 ścinawsko	ścinawsko	adv:pos		
 ścinawskościach	ścinawskość	subst:pl:loc:f	nazwa pospolita	
 ścinawskościami	ścinawskość	subst:pl:inst:f	nazwa pospolita	
@@ -6672,7 +6672,7 @@
 śląski	śląski:a	adj:sg:acc:m3:pos		
 śląski	śląski:a	adj:sg:nom.voc:m1.m2.m3:pos		
 śląsko	śląski:a	adja		
-śląsku	śląski:a	adjp		
+śląsku	śląski:a	adjp:dat		
 śląskich	śląskie	subst:pl:gen:n:pt	nazwa pospolita	
 śląskich	śląskie	subst:pl:loc:n:pt	nazwa pospolita	
 śląskie	śląskie	subst:pl:nom.acc.voc:n:pt	nazwa pospolita	
@@ -7853,7 +7853,7 @@
 ślesiński	ślesiński	adj:sg:acc:m3:pos		
 ślesiński	ślesiński	adj:sg:nom.voc:m1.m2.m3:pos		
 ślesińsko	ślesiński	adja		
-ślesińsku	ślesiński	adjp		
+ślesińsku	ślesiński	adjp:dat		
 ślesińsko	ślesińsko	adv:pos		
 ślesińskościach	ślesińskość	subst:pl:loc:f	nazwa pospolita	
 ślesińskościami	ślesińskość	subst:pl:inst:f	nazwa pospolita	
@@ -8882,7 +8882,7 @@
 śliski	śliski	adj:sg:acc:m3:pos		
 śliski	śliski	adj:sg:nom.voc:m1.m2.m3:pos		
 ślisko	śliski	adja		
-ślisku	śliski	adjp		
+ślisku	śliski	adjp:dat		
 ślisko	ślisko	adv:pos		
 śliskościach	śliskość	subst:pl:loc:f	nazwa pospolita	
 śliskościami	śliskość	subst:pl:inst:f	nazwa pospolita	
@@ -8941,7 +8941,7 @@
 śliwicki	śliwicki	adj:sg:acc:m3:pos		
 śliwicki	śliwicki	adj:sg:nom.voc:m1.m2.m3:pos		
 śliwicko	śliwicki	adja		
-śliwicku	śliwicki	adjp		
+śliwicku	śliwicki	adjp:dat		
 śliwicko	śliwicko	adv:pos		
 śliwickościach	śliwickość	subst:pl:loc:f	nazwa pospolita	
 śliwickościami	śliwickość	subst:pl:inst:f	nazwa pospolita	
@@ -9242,7 +9242,7 @@
 ślizgarski	ślizgarski	adj:sg:acc:m3:pos		
 ślizgarski	ślizgarski	adj:sg:nom.voc:m1.m2.m3:pos		
 ślizgarsko	ślizgarski	adja		
-ślizgarsku	ślizgarski	adjp		
+ślizgarsku	ślizgarski	adjp:dat		
 ślizgarsko	ślizgarsko	adv:pos		
 ślizgarskościach	ślizgarskość	subst:pl:loc:f	nazwa pospolita	
 ślizgarskościami	ślizgarskość	subst:pl:inst:f	nazwa pospolita	
@@ -9922,7 +9922,7 @@
 ślusarski	ślusarski	adj:sg:acc:m3:pos		
 ślusarski	ślusarski	adj:sg:nom.voc:m1.m2.m3:pos		
 ślusarsko	ślusarski	adja		
-ślusarsku	ślusarski	adjp		
+ślusarsku	ślusarski	adjp:dat		
 ślusarsko	ślusarsko	adv:pos		
 ślusarskościach	ślusarskość	subst:pl:loc:f	nazwa pospolita	
 ślusarskościami	ślusarskość	subst:pl:inst:f	nazwa pospolita	
@@ -10694,7 +10694,7 @@
 śmiechulski	śmiechulski:a	adj:sg:acc:m3:pos		gwar.
 śmiechulski	śmiechulski:a	adj:sg:nom.voc:m1.m2.m3:pos		gwar.
 śmiechulsko	śmiechulski:a	adja		gwar.
-śmiechulsku	śmiechulski:a	adjp		gwar.
+śmiechulsku	śmiechulski:a	adjp:dat		gwar.
 śmiechulscy	śmiechulski:s	subst:pl:nom.voc:m1	nazwa pospolita	gwar.
 śmiechulskich	śmiechulski:s	subst:pl:gen.acc:m1	nazwa pospolita	gwar.
 śmiechulskich	śmiechulski:s	subst:pl:loc:m1	nazwa pospolita	gwar.
@@ -10755,7 +10755,7 @@
 śmieciarski	śmieciarski	adj:sg:acc:m3:pos		
 śmieciarski	śmieciarski	adj:sg:nom.voc:m1.m2.m3:pos		
 śmieciarsko	śmieciarski	adja		
-śmieciarsku	śmieciarski	adjp		
+śmieciarsku	śmieciarski	adjp:dat		
 śmieciarsko	śmieciarsko	adv:pos		
 śmieciarskościach	śmieciarskość	subst:pl:loc:f	nazwa pospolita	
 śmieciarskościami	śmieciarskość	subst:pl:inst:f	nazwa pospolita	
@@ -12458,7 +12458,7 @@
 śmigielski	śmigielski	adj:sg:acc:m3:pos		
 śmigielski	śmigielski	adj:sg:nom.voc:m1.m2.m3:pos		
 śmigielsko	śmigielski	adja		
-śmigielsku	śmigielski	adjp		
+śmigielsku	śmigielski	adjp:dat		
 śmigielsko	śmigielsko	adv:pos		
 śmigielskościach	śmigielskość	subst:pl:loc:f	nazwa pospolita	
 śmigielskościami	śmigielskość	subst:pl:inst:f	nazwa pospolita	
@@ -13208,7 +13208,7 @@
 śniadowski	śniadowski	adj:sg:acc:m3:pos		
 śniadowski	śniadowski	adj:sg:nom.voc:m1.m2.m3:pos		
 śniadowsko	śniadowski	adja		
-śniadowsku	śniadowski	adjp		
+śniadowsku	śniadowski	adjp:dat		
 śniadowsko	śniadowsko	adv:pos		
 śniadowskościach	śniadowskość	subst:pl:loc:f	nazwa pospolita	
 śniadowskościami	śniadowskość	subst:pl:inst:f	nazwa pospolita	
@@ -14833,7 +14833,7 @@
 śpiewacki	śpiewacki	adj:sg:acc:m3:pos		
 śpiewacki	śpiewacki	adj:sg:nom.voc:m1.m2.m3:pos		
 śpiewacko	śpiewacki	adja		
-śpiewacku	śpiewacki	adjp		
+śpiewacku	śpiewacki	adjp:dat		
 śpiewacko	śpiewacko	adv:pos		
 śpiewackościach	śpiewackość	subst:pl:loc:f	nazwa pospolita	
 śpiewackościami	śpiewackość	subst:pl:inst:f	nazwa pospolita	
@@ -15595,7 +15595,7 @@
 średniacki	średniacki	adj:sg:acc:m3:pos		
 średniacki	średniacki	adj:sg:nom.voc:m1.m2.m3:pos		
 średniacko	średniacki	adja		
-średniacku	średniacki	adjp		
+średniacku	średniacki	adjp:dat		
 średniacko	średniacko	adv:pos		
 średniackościach	średniackość	subst:pl:loc:f	nazwa pospolita	
 średniackościami	średniackość	subst:pl:inst:f	nazwa pospolita	
@@ -16080,7 +16080,7 @@
 średnioniemiecki	średnioniemiecki	adj:sg:acc:m3:pos		
 średnioniemiecki	średnioniemiecki	adj:sg:nom.voc:m1.m2.m3:pos		
 średnioniemiecko	średnioniemiecki	adja		
-średnioniemiecku	średnioniemiecki	adjp		
+średnioniemiecku	średnioniemiecki	adjp:dat		
 średnioniemiecko	średnioniemiecko	adv:pos		
 średnioniemieckościach	średnioniemieckość	subst:pl:loc:f	nazwa pospolita	
 średnioniemieckościami	średnioniemieckość	subst:pl:inst:f	nazwa pospolita	
@@ -16129,7 +16129,7 @@
 średniopolski	średniopolski	adj:sg:acc:m3:pos		
 średniopolski	średniopolski	adj:sg:nom.voc:m1.m2.m3:pos		
 średniopolsko	średniopolski	adja		
-średniopolsku	średniopolski	adjp		
+średniopolsku	średniopolski	adjp:dat		
 średniopolsko	średniopolsko	adv:pos		
 średniopolskościach	średniopolskość	subst:pl:loc:f	nazwa pospolita	
 średniopolskościami	średniopolskość	subst:pl:inst:f	nazwa pospolita	
@@ -16364,7 +16364,7 @@
 średnioszlachecki	średnioszlachecki	adj:sg:acc:m3:pos		
 średnioszlachecki	średnioszlachecki	adj:sg:nom.voc:m1.m2.m3:pos		
 średnioszlachecko	średnioszlachecki	adja		
-średnioszlachecku	średnioszlachecki	adjp		
+średnioszlachecku	średnioszlachecki	adjp:dat		
 średnioszlachecko	średnioszlachecko	adv:pos		
 średnioszlacheckościach	średnioszlacheckość	subst:pl:loc:f	nazwa pospolita	
 średnioszlacheckościami	średnioszlacheckość	subst:pl:inst:f	nazwa pospolita	
@@ -16795,7 +16795,7 @@
 średzki	średzki	adj:sg:acc:m3:pos		
 średzki	średzki	adj:sg:nom.voc:m1.m2.m3:pos		
 średzko	średzki	adja		
-średzku	średzki	adjp		
+średzku	średzki	adjp:dat		
 średzko	średzko	adv:pos		
 średzkościach	średzkość	subst:pl:loc:f	nazwa pospolita	
 średzkościami	średzkość	subst:pl:inst:f	nazwa pospolita	
@@ -16832,7 +16832,7 @@
 śremski	śremski	adj:sg:acc:m3:pos		
 śremski	śremski	adj:sg:nom.voc:m1.m2.m3:pos		
 śremsko	śremski	adja		
-śremsku	śremski	adjp		
+śremsku	śremski	adjp:dat		
 śremsko	śremsko	adv:pos		
 śremskościach	śremskość	subst:pl:loc:f	nazwa pospolita	
 śremskościami	śremskość	subst:pl:inst:f	nazwa pospolita	
@@ -17041,7 +17041,7 @@
 środkowoeuropejski	środkowoeuropejski	adj:sg:acc:m3:pos		
 środkowoeuropejski	środkowoeuropejski	adj:sg:nom.voc:m1.m2.m3:pos		
 środkowoeuropejsko	środkowoeuropejski	adja		
-środkowoeuropejsku	środkowoeuropejski	adjp		
+środkowoeuropejsku	środkowoeuropejski	adjp:dat		
 środkowoeuropejsko	środkowoeuropejsko	adv:pos		
 środkowoeuropejskościach	środkowoeuropejskość	subst:pl:loc:f	nazwa pospolita	
 środkowoeuropejskościami	środkowoeuropejskość	subst:pl:inst:f	nazwa pospolita	
@@ -17424,7 +17424,7 @@
 śródborowski	śródborowski	adj:sg:acc:m3:pos		
 śródborowski	śródborowski	adj:sg:nom.voc:m1.m2.m3:pos		
 śródborowsko	śródborowski	adja		
-śródborowsku	śródborowski	adjp		
+śródborowsku	śródborowski	adjp:dat		
 śródborowsko	śródborowsko	adv:pos		
 śródborowskościach	śródborowskość	subst:pl:loc:f	nazwa pospolita	
 śródborowskościami	śródborowskość	subst:pl:inst:f	nazwa pospolita	
@@ -17607,7 +17607,7 @@
 śródgórski	śródgórski	adj:sg:acc:m3:pos		
 śródgórski	śródgórski	adj:sg:nom.voc:m1.m2.m3:pos		
 śródgórsko	śródgórski	adja		
-śródgórsku	śródgórski	adjp		
+śródgórsku	śródgórski	adjp:dat		
 śródgórsko	śródgórsko	adv:pos		
 śródgórskościach	śródgórskość	subst:pl:loc:f	nazwa pospolita	
 śródgórskościami	śródgórskość	subst:pl:inst:f	nazwa pospolita	
@@ -17884,7 +17884,7 @@
 śródmiejski	śródmiejski	adj:sg:acc:m3:pos		
 śródmiejski	śródmiejski	adj:sg:nom.voc:m1.m2.m3:pos		
 śródmiejsko	śródmiejski	adja		
-śródmiejsku	śródmiejski	adjp		
+śródmiejsku	śródmiejski	adjp:dat		
 śródmiejsko	śródmiejsko	adv:pos		
 śródmiejskościach	śródmiejskość	subst:pl:loc:f	nazwa pospolita	
 śródmiejskościami	śródmiejskość	subst:pl:inst:f	nazwa pospolita	
@@ -17968,7 +17968,7 @@
 śródmorski	śródmorski	adj:sg:acc:m3:pos		
 śródmorski	śródmorski	adj:sg:nom.voc:m1.m2.m3:pos		
 śródmorsko	śródmorski	adja		
-śródmorsku	śródmorski	adjp		
+śródmorsku	śródmorski	adjp:dat		
 śródmorsko	śródmorsko	adv:pos		
 śródmorskościach	śródmorskość	subst:pl:loc:f	nazwa pospolita	
 śródmorskościami	śródmorskość	subst:pl:inst:f	nazwa pospolita	
@@ -18680,7 +18680,7 @@
 śródziemnomorski	śródziemnomorski	adj:sg:acc:m3:pos		
 śródziemnomorski	śródziemnomorski	adj:sg:nom.voc:m1.m2.m3:pos		
 śródziemnomorsko	śródziemnomorski	adja		
-śródziemnomorsku	śródziemnomorski	adjp		
+śródziemnomorsku	śródziemnomorski	adjp:dat		
 śródziemnomorsko	śródziemnomorsko	adv:pos		
 śródziemnomorskościach	śródziemnomorskość	subst:pl:loc:f	nazwa pospolita	
 śródziemnomorskościami	śródziemnomorskość	subst:pl:inst:f	nazwa pospolita	
@@ -21192,7 +21192,7 @@
 świątnicki	świątnicki	adj:sg:acc:m3:pos		
 świątnicki	świątnicki	adj:sg:nom.voc:m1.m2.m3:pos		
 świątnicko	świątnicki	adja		
-świątnicku	świątnicki	adjp		
+świątnicku	świątnicki	adjp:dat		
 świątnicko	świątnicko	adv:pos		
 świątnickościach	świątnickość	subst:pl:loc:f	nazwa pospolita	
 świątnickościami	świątnickość	subst:pl:inst:f	nazwa pospolita	
@@ -21508,7 +21508,7 @@
 świderski	świderski	adj:sg:acc:m3:pos		
 świderski	świderski	adj:sg:nom.voc:m1.m2.m3:pos		
 świdersko	świderski	adja		
-świdersku	świderski	adjp		
+świdersku	świderski	adjp:dat		
 świdersko	świdersko	adv:pos		
 świderskościach	świderskość	subst:pl:loc:f	nazwa pospolita	
 świderskościami	świderskość	subst:pl:inst:f	nazwa pospolita	
@@ -21545,7 +21545,7 @@
 świdnicki	świdnicki	adj:sg:acc:m3:pos		
 świdnicki	świdnicki	adj:sg:nom.voc:m1.m2.m3:pos		
 świdnicko	świdnicki	adja		
-świdnicku	świdnicki	adjp		
+świdnicku	świdnicki	adjp:dat		
 świdnicko	świdnicko	adv:pos		
 świdnickościach	świdnickość	subst:pl:loc:f	nazwa pospolita	
 świdnickościami	świdnickość	subst:pl:inst:f	nazwa pospolita	
@@ -21822,7 +21822,7 @@
 świdrzański	świdrzański	adj:sg:acc:m3:pos		
 świdrzański	świdrzański	adj:sg:nom.voc:m1.m2.m3:pos		
 świdrzańsko	świdrzański	adja		
-świdrzańsku	świdrzański	adjp		
+świdrzańsku	świdrzański	adjp:dat		
 świdrzańsko	świdrzańsko	adv:pos		
 świdrzańskościach	świdrzańskość	subst:pl:loc:f	nazwa pospolita	
 świdrzańskościami	świdrzańskość	subst:pl:inst:f	nazwa pospolita	
@@ -21968,7 +21968,7 @@
 świdwiński	świdwiński	adj:sg:acc:m3:pos		
 świdwiński	świdwiński	adj:sg:nom.voc:m1.m2.m3:pos		
 świdwińsko	świdwiński	adja		
-świdwińsku	świdwiński	adjp		
+świdwińsku	świdwiński	adjp:dat		
 świdwińsko	świdwińsko	adv:pos		
 świdwińskościach	świdwińskość	subst:pl:loc:f	nazwa pospolita	
 świdwińskościami	świdwińskość	subst:pl:inst:f	nazwa pospolita	
@@ -22005,7 +22005,7 @@
 świebodzicki	świebodzicki	adj:sg:acc:m3:pos		
 świebodzicki	świebodzicki	adj:sg:nom.voc:m1.m2.m3:pos		
 świebodzicko	świebodzicki	adja		
-świebodzicku	świebodzicki	adjp		
+świebodzicku	świebodzicki	adjp:dat		
 świebodzicko	świebodzicko	adv:pos		
 świebodzickościach	świebodzickość	subst:pl:loc:f	nazwa pospolita	
 świebodzickościami	świebodzickość	subst:pl:inst:f	nazwa pospolita	
@@ -22042,7 +22042,7 @@
 świebodziński	świebodziński	adj:sg:acc:m3:pos		
 świebodziński	świebodziński	adj:sg:nom.voc:m1.m2.m3:pos		
 świebodzińsko	świebodziński	adja		
-świebodzińsku	świebodziński	adjp		
+świebodzińsku	świebodziński	adjp:dat		
 świebodzińsko	świebodzińsko	adv:pos		
 świebodzińskościach	świebodzińskość	subst:pl:loc:f	nazwa pospolita	
 świebodzińskościami	świebodzińskość	subst:pl:inst:f	nazwa pospolita	
@@ -22532,7 +22532,7 @@
 świecki	świecki:a	adj:sg:acc:m3:pos		
 świecki	świecki:a	adj:sg:nom.voc:m1.m2.m3:pos		
 świecko	świecki:a	adja		
-świecku	świecki:a	adjp		
+świecku	świecki:a	adjp:dat		
 świeccy	świecki:s	subst:pl:nom.voc:m1	nazwa pospolita	
 świeckich	świecki:s	subst:pl:gen.acc:m1	nazwa pospolita	
 świeckich	świecki:s	subst:pl:loc:m1	nazwa pospolita	
@@ -22818,7 +22818,7 @@
 świedziebniański	świedziebniański	adj:sg:acc:m3:pos		
 świedziebniański	świedziebniański	adj:sg:nom.voc:m1.m2.m3:pos		
 świedziebniańsko	świedziebniański	adja		
-świedziebniańsku	świedziebniański	adjp		
+świedziebniańsku	świedziebniański	adjp:dat		
 świedziebniańsko	świedziebniańsko	adv:pos		
 świedziebniańskościach	świedziebniańskość	subst:pl:loc:f	nazwa pospolita	
 świedziebniańskościami	świedziebniańskość	subst:pl:inst:f	nazwa pospolita	
@@ -22855,7 +22855,7 @@
 świedziebski	świedziebski	adj:sg:acc:m3:pos		
 świedziebski	świedziebski	adj:sg:nom.voc:m1.m2.m3:pos		
 świedziebsko	świedziebski	adja		
-świedziebsku	świedziebski	adjp		
+świedziebsku	świedziebski	adjp:dat		
 świedziebsko	świedziebsko	adv:pos		
 świedziebskościach	świedziebskość	subst:pl:loc:f	nazwa pospolita	
 świedziebskościami	świedziebskość	subst:pl:inst:f	nazwa pospolita	
@@ -23180,7 +23180,7 @@
 świeradowski	świeradowski	adj:sg:acc:m3:pos		
 świeradowski	świeradowski	adj:sg:nom.voc:m1.m2.m3:pos		
 świeradowsko	świeradowski	adja		
-świeradowsku	świeradowski	adjp		
+świeradowsku	świeradowski	adjp:dat		
 świeradowsko	świeradowsko	adv:pos		
 świeradowskościach	świeradowskość	subst:pl:loc:f	nazwa pospolita	
 świeradowskościami	świeradowskość	subst:pl:inst:f	nazwa pospolita	
@@ -23348,7 +23348,7 @@
 świerczowski	świerczowski	adj:sg:acc:m3:pos		
 świerczowski	świerczowski	adj:sg:nom.voc:m1.m2.m3:pos		
 świerczowsko	świerczowski	adja		
-świerczowsku	świerczowski	adjp		
+świerczowsku	świerczowski	adjp:dat		
 świerczowsko	świerczowsko	adv:pos		
 świerczowskościach	świerczowskość	subst:pl:loc:f	nazwa pospolita	
 świerczowskościami	świerczowskość	subst:pl:inst:f	nazwa pospolita	
@@ -23782,7 +23782,7 @@
 świerklański	świerklański	adj:sg:acc:m3:pos		
 świerklański	świerklański	adj:sg:nom.voc:m1.m2.m3:pos		
 świerklańsko	świerklański	adja		
-świerklańsku	świerklański	adjp		
+świerklańsku	świerklański	adjp:dat		
 świerklańsko	świerklańsko	adv:pos		
 świerklańskościach	świerklańskość	subst:pl:loc:f	nazwa pospolita	
 świerklańskościami	świerklańskość	subst:pl:inst:f	nazwa pospolita	
@@ -24084,7 +24084,7 @@
 świerzawski	świerzawski	adj:sg:acc:m3:pos		
 świerzawski	świerzawski	adj:sg:nom.voc:m1.m2.m3:pos		
 świerzawsko	świerzawski	adja		
-świerzawsku	świerzawski	adjp		
+świerzawsku	świerzawski	adjp:dat		
 świerzawsko	świerzawsko	adv:pos		
 świerzawskościach	świerzawskość	subst:pl:loc:f	nazwa pospolita	
 świerzawskościami	świerzawskość	subst:pl:inst:f	nazwa pospolita	
@@ -24393,7 +24393,7 @@
 świerzeński	świerzeński	adj:sg:acc:m3:pos		
 świerzeński	świerzeński	adj:sg:nom.voc:m1.m2.m3:pos		
 świerzeńsko	świerzeński	adja		
-świerzeńsku	świerzeński	adjp		
+świerzeńsku	świerzeński	adjp:dat		
 świerzeńsko	świerzeńsko	adv:pos		
 świerzeńskościach	świerzeńskość	subst:pl:loc:f	nazwa pospolita	
 świerzeńskościami	świerzeńskość	subst:pl:inst:f	nazwa pospolita	
@@ -24474,7 +24474,7 @@
 świeszyński	świeszyński	adj:sg:acc:m3:pos		
 świeszyński	świeszyński	adj:sg:nom.voc:m1.m2.m3:pos		
 świeszyńsko	świeszyński	adja		
-świeszyńsku	świeszyński	adjp		
+świeszyńsku	świeszyński	adjp:dat		
 świeszyńsko	świeszyńsko	adv:pos		
 świeszyńskościach	świeszyńskość	subst:pl:loc:f	nazwa pospolita	
 świeszyńskościami	świeszyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -25813,7 +25813,7 @@
 święciechowski	święciechowski	adj:sg:acc:m3:pos		
 święciechowski	święciechowski	adj:sg:nom.voc:m1.m2.m3:pos		
 święciechowsko	święciechowski	adja		
-święciechowsku	święciechowski	adjp		
+święciechowsku	święciechowski	adjp:dat		
 święciechowsko	święciechowsko	adv:pos		
 święciechowskościach	święciechowskość	subst:pl:loc:f	nazwa pospolita	
 święciechowskościami	święciechowskość	subst:pl:inst:f	nazwa pospolita	
@@ -25917,7 +25917,7 @@
 świętajeński	świętajeński	adj:sg:acc:m3:pos		
 świętajeński	świętajeński	adj:sg:nom.voc:m1.m2.m3:pos		
 świętajeńsko	świętajeński	adja		
-świętajeńsku	świętajeński	adjp		
+świętajeńsku	świętajeński	adjp:dat		
 świętajeńsko	świętajeńsko	adv:pos		
 świętajeńskościach	świętajeńskość	subst:pl:loc:f	nazwa pospolita	
 świętajeńskościami	świętajeńskość	subst:pl:inst:f	nazwa pospolita	
@@ -26121,7 +26121,7 @@
 świętochłowicki	świętochłowicki	adj:sg:acc:m3:pos		
 świętochłowicki	świętochłowicki	adj:sg:nom.voc:m1.m2.m3:pos		
 świętochłowicko	świętochłowicki	adja		
-świętochłowicku	świętochłowicki	adjp		
+świętochłowicku	świętochłowicki	adjp:dat		
 świętochłowicko	świętochłowicko	adv:pos		
 świętochłowickościach	świętochłowickość	subst:pl:loc:f	nazwa pospolita	
 świętochłowickościami	świętochłowickość	subst:pl:inst:f	nazwa pospolita	
@@ -26204,7 +26204,7 @@
 świętojański	świętojański	adj:sg:acc:m3:pos		
 świętojański	świętojański	adj:sg:nom.voc:m1.m2.m3:pos		
 świętojańsko	świętojański	adja		
-świętojańsku	świętojański	adjp		
+świętojańsku	świętojański	adjp:dat		
 świętojańsko	świętojańsko	adv:pos		
 świętojańskościach	świętojańskość	subst:pl:loc:f	nazwa pospolita	
 świętojańskościami	świętojańskość	subst:pl:inst:f	nazwa pospolita	
@@ -26253,7 +26253,7 @@
 świętokatarzyński	świętokatarzyński	adj:sg:acc:m3:pos		
 świętokatarzyński	świętokatarzyński	adj:sg:nom.voc:m1.m2.m3:pos		
 świętokatarzyńsko	świętokatarzyński	adja		
-świętokatarzyńsku	świętokatarzyński	adjp		
+świętokatarzyńsku	świętokatarzyński	adjp:dat		
 świętokatarzyńsko	świętokatarzyńsko	adv:pos		
 świętokatarzyńskościach	świętokatarzyńskość	subst:pl:loc:f	nazwa pospolita	
 świętokatarzyńskościami	świętokatarzyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -26349,7 +26349,7 @@
 świętokradzki	świętokradzki	adj:sg:acc:m3:pos		
 świętokradzki	świętokradzki	adj:sg:nom.voc:m1.m2.m3:pos		
 świętokradzko	świętokradzki	adja		
-świętokradzku	świętokradzki	adjp		
+świętokradzku	świętokradzki	adjp:dat		
 świętokradzko	świętokradzko	adv:pos		
 świętokradzkościach	świętokradzkość	subst:pl:loc:f	nazwa pospolita	
 świętokradzkościami	świętokradzkość	subst:pl:inst:f	nazwa pospolita	
@@ -26407,7 +26407,7 @@
 świętokrzyski	świętokrzyski	adj:sg:acc:m3:pos		
 świętokrzyski	świętokrzyski	adj:sg:nom.voc:m1.m2.m3:pos		
 świętokrzysko	świętokrzyski	adja		
-świętokrzysku	świętokrzyski	adjp		
+świętokrzysku	świętokrzyski	adjp:dat		
 świętokrzysko	świętokrzysko	adv:pos		
 świętokrzyskościach	świętokrzyskość	subst:pl:loc:f	nazwa pospolita	
 świętokrzyskościami	świętokrzyskość	subst:pl:inst:f	nazwa pospolita	
@@ -26567,7 +26567,7 @@
 świętoszkowski	świętoszkowski	adj:sg:acc:m3:pos		rzad.
 świętoszkowski	świętoszkowski	adj:sg:nom.voc:m1.m2.m3:pos		rzad.
 świętoszkowsko	świętoszkowski	adja		rzad.
-świętoszkowsku	świętoszkowski	adjp		rzad.
+świętoszkowsku	świętoszkowski	adjp:dat		rzad.
 świętoszkowsko	świętoszkowsko	adv:pos		
 świętoszkowskościach	świętoszkowskość	subst:pl:loc:f	nazwa pospolita	
 świętoszkowskościami	świętoszkowskość	subst:pl:inst:f	nazwa pospolita	
@@ -26925,7 +26925,7 @@
 świnicki	świnicki	adj:sg:acc:m3:pos		
 świnicki	świnicki	adj:sg:nom.voc:m1.m2.m3:pos		
 świnicko	świnicki	adja		
-świnicku	świnicki	adjp		
+świnicku	świnicki	adjp:dat		
 świnicko	świnicko	adv:pos		
 świnickościach	świnickość	subst:pl:loc:f	nazwa pospolita	
 świnickościami	świnickość	subst:pl:inst:f	nazwa pospolita	
@@ -27035,7 +27035,7 @@
 świnieński	świnieński	adj:sg:acc:m3:pos		
 świnieński	świnieński	adj:sg:nom.voc:m1.m2.m3:pos		
 świnieńsko	świnieński	adja		
-świnieńsku	świnieński	adjp		
+świnieńsku	świnieński	adjp:dat		
 świnieńsko	świnieńsko	adv:pos		
 świnieńskościach	świnieńskość	subst:pl:loc:f	nazwa pospolita	
 świnieńskościami	świnieńskość	subst:pl:inst:f	nazwa pospolita	
@@ -27226,7 +27226,7 @@
 świnoujski	świnoujski	adj:sg:acc:m3:pos		
 świnoujski	świnoujski	adj:sg:nom.voc:m1.m2.m3:pos		
 świnoujsko	świnoujski	adja		
-świnoujsku	świnoujski	adjp		
+świnoujsku	świnoujski	adjp:dat		
 świnoujsko	świnoujsko	adv:pos		
 świnoujskościach	świnoujskość	subst:pl:loc:f	nazwa pospolita	
 świnoujskościami	świnoujskość	subst:pl:inst:f	nazwa pospolita	
@@ -27410,7 +27410,7 @@
 świński	świński	adj:sg:acc:m3:pos		
 świński	świński	adj:sg:nom.voc:m1.m2.m3:pos		
 świńsko	świński	adja		
-świńsku	świński	adjp		
+świńsku	świński	adjp:dat		
 świńsko	świńsko:d	adv:pos		
 świńskach	świńsko:s	subst:pl:loc:n:ncol	nazwa pospolita	
 świńskami	świńsko:s	subst:pl:inst:n:ncol	nazwa pospolita	

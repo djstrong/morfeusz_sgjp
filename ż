@@ -79,7 +79,7 @@
 żrąc	zrzeć	pcon:imperf		daw.
 żrą	zrzeć	fin:pl:ter:imperf		daw.
 żrę	zrzeć	fin:sg:pri:imperf		daw.
-ż	+ż	qub		
+ż	+ż	part		
 żabach	żaba	subst:pl:loc:f	nazwa pospolita	
 żabami	żaba	subst:pl:inst:f	nazwa pospolita	
 żaba	żaba	subst:sg:nom:f	nazwa pospolita	
@@ -212,7 +212,7 @@
 żabieński	żabieński	adj:sg:acc:m3:pos		
 żabieński	żabieński	adj:sg:nom.voc:m1.m2.m3:pos		
 żabieńsko	żabieński	adja		
-żabieńsku	żabieński	adjp		
+żabieńsku	żabieński	adjp:dat		
 żabieńsko	żabieńsko	adv:pos		
 żabieńskościach	żabieńskość	subst:pl:loc:f	nazwa pospolita	
 żabieńskościami	żabieńskość	subst:pl:inst:f	nazwa pospolita	
@@ -249,7 +249,7 @@
 żabikowski	żabikowski	adj:sg:acc:m3:pos		
 żabikowski	żabikowski	adj:sg:nom.voc:m1.m2.m3:pos		
 żabikowsko	żabikowski	adja		
-żabikowsku	żabikowski	adjp		
+żabikowsku	żabikowski	adjp:dat		
 żabikowsko	żabikowsko	adv:pos		
 żabikowskościach	żabikowskość	subst:pl:loc:f	nazwa pospolita	
 żabikowskościami	żabikowskość	subst:pl:inst:f	nazwa pospolita	
@@ -286,7 +286,7 @@
 żabiński	żabiński	adj:sg:acc:m3:pos		
 żabiński	żabiński	adj:sg:nom.voc:m1.m2.m3:pos		
 żabińsko	żabiński	adja		
-żabińsku	żabiński	adjp		
+żabińsku	żabiński	adjp:dat		
 żabińsko	żabińsko	adv:pos		
 żabińskościach	żabińskość	subst:pl:loc:f	nazwa pospolita	
 żabińskościami	żabińskość	subst:pl:inst:f	nazwa pospolita	
@@ -335,7 +335,7 @@
 żabiowolski	żabiowolski	adj:sg:acc:m3:pos		
 żabiowolski	żabiowolski	adj:sg:nom.voc:m1.m2.m3:pos		
 żabiowolsko	żabiowolski	adja		
-żabiowolsku	żabiowolski	adjp		
+żabiowolsku	żabiowolski	adjp:dat		
 żabiowolsko	żabiowolsko	adv:pos		
 żabiowolskościach	żabiowolskość	subst:pl:loc:f	nazwa pospolita	
 żabiowolskościami	żabiowolskość	subst:pl:inst:f	nazwa pospolita	
@@ -544,7 +544,7 @@
 żabojadzki	żabojadzki	adj:sg:acc:m3:pos		
 żabojadzki	żabojadzki	adj:sg:nom.voc:m1.m2.m3:pos		
 żabojadzko	żabojadzki	adja		
-żabojadzku	żabojadzki	adjp		
+żabojadzku	żabojadzki	adjp:dat		
 żabojadzko	żabojadzko	adv:pos		
 żabojadzkościach	żabojadzkość	subst:pl:loc:f	nazwa pospolita	
 żabojadzkościami	żabojadzkość	subst:pl:inst:f	nazwa pospolita	
@@ -1006,7 +1006,7 @@
 żagański	żagański	adj:sg:acc:m3:pos		
 żagański	żagański	adj:sg:nom.voc:m1.m2.m3:pos		
 żagańsko	żagański	adja		
-żagańsku	żagański	adjp		
+żagańsku	żagański	adjp:dat		
 żagańsko	żagańsko	adv:pos		
 żagańskościach	żagańskość	subst:pl:loc:f	nazwa pospolita	
 żagańskościami	żagańskość	subst:pl:inst:f	nazwa pospolita	
@@ -1589,7 +1589,7 @@
 żakardowski	żakardowski	adj:sg:acc:m3:pos		
 żakardowski	żakardowski	adj:sg:nom.voc:m1.m2.m3:pos		
 żakardowsko	żakardowski	adja		
-żakardowsku	żakardowski	adjp		
+żakardowsku	żakardowski	adjp:dat		
 żakardowsko	żakardowsko	adv:pos		
 żakardowskościach	żakardowskość	subst:pl:loc:f	nazwa pospolita	
 żakardowskościami	żakardowskość	subst:pl:inst:f	nazwa pospolita	
@@ -1957,7 +1957,7 @@
 żakowski	żakowski	adj:sg:acc:m3:pos		
 żakowski	żakowski	adj:sg:nom.voc:m1.m2.m3:pos		
 żakowsko	żakowski	adja		
-żakowsku	żakowski	adjp		
+żakowsku	żakowski	adjp:dat		
 żakowsko	żakowsko	adv:pos		
 żakowskościach	żakowskość	subst:pl:loc:f	nazwa pospolita	
 żakowskościami	żakowskość	subst:pl:inst:f	nazwa pospolita	
@@ -2017,7 +2017,7 @@
 żaku	żak:s3	subst:sg:voc:m3	nazwa pospolita	daw.
 żak	żak:s3	subst:sg:nom.acc:m3	nazwa pospolita	daw.
 żal	żal:d	adv		
-żali	żali	qub		daw.
+żali	żali	part		daw.
 żaląca	żalić	pact:sg:nom.voc:f:imperf:aff		
 żalącą	żalić	pact:sg:acc.inst:f:imperf:aff		
 żalącego	żalić	pact:sg:acc:m1.m2:imperf:aff		
@@ -2914,7 +2914,7 @@
 żandarmski	żandarmski	adj:sg:acc:m3:pos		
 żandarmski	żandarmski	adj:sg:nom.voc:m1.m2.m3:pos		
 żandarmsko	żandarmski	adja		
-żandarmsku	żandarmski	adjp		
+żandarmsku	żandarmski	adjp:dat		
 żandarmsko	żandarmsko	adv:pos		
 żandarmskościach	żandarmskość	subst:pl:loc:f	nazwa pospolita	
 żandarmskościami	żandarmskość	subst:pl:inst:f	nazwa pospolita	
@@ -3283,7 +3283,7 @@
 żarłocki	żarłocki	adj:sg:acc:m3:pos		
 żarłocki	żarłocki	adj:sg:nom.voc:m1.m2.m3:pos		
 żarłocko	żarłocki	adja		
-żarłocku	żarłocki	adjp		
+żarłocku	żarłocki	adjp:dat		
 żarłocko	żarłocko	adv:pos		
 żarłockościach	żarłockość	subst:pl:loc:f	nazwa pospolita	
 żarłockościami	żarłockość	subst:pl:inst:f	nazwa pospolita	
@@ -3510,7 +3510,7 @@
 żarnowiecki	żarnowiecki	adj:sg:acc:m3:pos		
 żarnowiecki	żarnowiecki	adj:sg:nom.voc:m1.m2.m3:pos		
 żarnowiecko	żarnowiecki	adja		
-żarnowiecku	żarnowiecki	adjp		
+żarnowiecku	żarnowiecki	adjp:dat		
 żarnowiecko	żarnowiecko	adv:pos		
 żarnowieckościach	żarnowieckość	subst:pl:loc:f	nazwa pospolita	
 żarnowieckościami	żarnowieckość	subst:pl:inst:f	nazwa pospolita	
@@ -3558,7 +3558,7 @@
 żarnowski	żarnowski	adj:sg:acc:m3:pos		
 żarnowski	żarnowski	adj:sg:nom.voc:m1.m2.m3:pos		
 żarnowsko	żarnowski	adja		
-żarnowsku	żarnowski	adjp		
+żarnowsku	żarnowski	adjp:dat		
 żarnowsko	żarnowsko	adv:pos		
 żarnowskościach	żarnowskość	subst:pl:loc:f	nazwa pospolita	
 żarnowskościami	żarnowskość	subst:pl:inst:f	nazwa pospolita	
@@ -3721,7 +3721,7 @@
 żarowski	żarowski	adj:sg:acc:m3:pos		
 żarowski	żarowski	adj:sg:nom.voc:m1.m2.m3:pos		
 żarowsko	żarowski	adja		
-żarowsku	żarowski	adjp		
+żarowsku	żarowski	adjp:dat		
 żarowsko	żarowsko	adv:pos		
 żarowskościach	żarowskość	subst:pl:loc:f	nazwa pospolita	
 żarowskościami	żarowskość	subst:pl:inst:f	nazwa pospolita	
@@ -3945,7 +3945,7 @@
 żarski	żarski	adj:sg:acc:m3:pos		
 żarski	żarski	adj:sg:nom.voc:m1.m2.m3:pos		
 żarsko	żarski	adja		
-żarsku	żarski	adjp		
+żarsku	żarski	adjp:dat		
 żarsko	żarsko	adv:pos		
 żarskościach	żarskość	subst:pl:loc:f	nazwa pospolita	
 żarskościami	żarskość	subst:pl:inst:f	nazwa pospolita	
@@ -5117,7 +5117,7 @@
 żbikowatym	żbikowaty	adj:sg:loc:m1.m2.m3.n:pos		
 żbikowaty	żbikowaty	adj:sg:acc:m3:pos		
 żbikowaty	żbikowaty	adj:sg:nom.voc:m1.m2.m3:pos		
-że	+że	qub		
+że	+że	part		
 żeberek	żeberko	subst:pl:gen:n:ncol	nazwa pospolita	
 żeberkach	żeberko	subst:pl:loc:n:ncol	nazwa pospolita	
 żeberkami	żeberko	subst:pl:inst:n:ncol	nazwa pospolita	
@@ -5257,7 +5257,7 @@
 żebracki	żebracki	adj:sg:acc:m3:pos		przest.
 żebracki	żebracki	adj:sg:nom.voc:m1.m2.m3:pos		przest.
 żebracko	żebracki	adja		przest.
-żebracku	żebracki	adjp		przest.
+żebracku	żebracki	adjp:dat		przest.
 żebracko	żebracko	adv:pos		
 żebrackościach	żebrackość	subst:pl:loc:f	nazwa pospolita	przest.
 żebrackościami	żebrackość	subst:pl:inst:f	nazwa pospolita	przest.
@@ -6052,7 +6052,7 @@
 żebrzycy	żebrzyca	subst:sg:gen:f	nazwa pospolita	
 żebrzyc	żebrzyca	subst:pl:gen:f	nazwa pospolita	
 żeby	żeby:c	comp		
-żeby	żeby:q	qub		
+żeby	żeby:q	part		
 żec	żec	inf:imperf		daw.
 żec	żec	inf:imperf		daw.|niezal.
 żeglibyście	żec	cond:pl:m1:sec:imperf		daw.
@@ -6279,7 +6279,7 @@
 żegiestowski	żegiestowski	adj:sg:acc:m3:pos		
 żegiestowski	żegiestowski	adj:sg:nom.voc:m1.m2.m3:pos		
 żegiestowsko	żegiestowski	adja		
-żegiestowsku	żegiestowski	adjp		
+żegiestowsku	żegiestowski	adjp:dat		
 żegiestowsko	żegiestowsko	adv:pos		
 żegiestowskościach	żegiestowskość	subst:pl:loc:f	nazwa pospolita	
 żegiestowskościami	żegiestowskość	subst:pl:inst:f	nazwa pospolita	
@@ -6338,7 +6338,7 @@
 żeglarski	żeglarski	adj:sg:acc:m3:pos		
 żeglarski	żeglarski	adj:sg:nom.voc:m1.m2.m3:pos		
 żeglarsko	żeglarski	adja		
-żeglarsku	żeglarski	adjp		
+żeglarsku	żeglarski	adjp:dat		
 żeglarsko	żeglarsko	adv:pos		
 żeglarskościach	żeglarskość	subst:pl:loc:f	nazwa pospolita	
 żeglarskościami	żeglarskość	subst:pl:inst:f	nazwa pospolita	
@@ -6811,7 +6811,7 @@
 żegociński	żegociński	adj:sg:acc:m3:pos		
 żegociński	żegociński	adj:sg:nom.voc:m1.m2.m3:pos		
 żegocińsko	żegociński	adja		
-żegocińsku	żegociński	adjp		
+żegocińsku	żegociński	adjp:dat		
 żegocińsko	żegocińsko	adv:pos		
 żegocińskościach	żegocińskość	subst:pl:loc:f	nazwa pospolita	
 żegocińskościami	żegocińskość	subst:pl:inst:f	nazwa pospolita	
@@ -7390,7 +7390,7 @@
 żelazkowski	żelazkowski	adj:sg:acc:m3:pos		
 żelazkowski	żelazkowski	adj:sg:nom.voc:m1.m2.m3:pos		
 żelazkowsko	żelazkowski	adja		
-żelazkowsku	żelazkowski	adjp		
+żelazkowsku	żelazkowski	adjp:dat		
 żelazkowsko	żelazkowsko	adv:pos		
 żelazkowskościach	żelazkowskość	subst:pl:loc:f	nazwa pospolita	
 żelazkowskościami	żelazkowskość	subst:pl:inst:f	nazwa pospolita	
@@ -8150,7 +8150,7 @@
 żelechowski	żelechowski	adj:sg:acc:m3:pos		
 żelechowski	żelechowski	adj:sg:nom.voc:m1.m2.m3:pos		
 żelechowsko	żelechowski	adja		
-żelechowsku	żelechowski	adjp		
+żelechowsku	żelechowski	adjp:dat		
 żelechowsko	żelechowsko	adv:pos		
 żelechowskościach	żelechowskość	subst:pl:loc:f	nazwa pospolita	
 żelechowskościami	żelechowskość	subst:pl:inst:f	nazwa pospolita	
@@ -8999,7 +8999,7 @@
 żeński	żeński	adj:sg:acc:m3:pos		
 żeński	żeński	adj:sg:nom.voc:m1.m2.m3:pos		
 żeńsko	żeński	adja		
-żeńsku	żeński	adjp		
+żeńsku	żeński	adjp:dat		
 ż	żeński	brev:pun		
 żeńsko	żeńsko	adv:pos		
 żeńskościach	żeńskość	subst:pl:loc:f	nazwa pospolita	
@@ -9059,7 +9059,7 @@
 żeń-szeniu	żeń-szeń	subst:sg:voc:m3	nazwa pospolita	
 żeń-szeni	żeń-szeń	subst:pl:gen:m3	nazwa pospolita	
 żeń-szeń	żeń-szeń	subst:sg:nom.acc:m3	nazwa pospolita	
-że	że:q	qub		
+że	że:q	part		
 żerach	żer	subst:pl:loc:m3	nazwa pospolita	
 żerami	żer	subst:pl:inst:m3	nazwa pospolita	
 żerem	żer	subst:sg:inst:m3	nazwa pospolita	
@@ -9184,7 +9184,7 @@
 żerański	żerański	adj:sg:acc:m3:pos		
 żerański	żerański	adj:sg:nom.voc:m1.m2.m3:pos		
 żerańsko	żerański	adja		
-żerańsku	żerański	adjp		
+żerańsku	żerański	adjp:dat		
 żerańsko	żerańsko	adv:pos		
 żerańskościach	żerańskość	subst:pl:loc:f	nazwa pospolita	
 żerańskościami	żerańskość	subst:pl:inst:f	nazwa pospolita	
@@ -9446,7 +9446,7 @@
 żerkowski	żerkowski	adj:sg:acc:m3:pos		
 żerkowski	żerkowski	adj:sg:nom.voc:m1.m2.m3:pos		
 żerkowsko	żerkowski	adja		
-żerkowsku	żerkowski	adjp		
+żerkowsku	żerkowski	adjp:dat		
 żerkowsko	żerkowsko	adv:pos		
 żerkowskościach	żerkowskość	subst:pl:loc:f	nazwa pospolita	
 żerkowskościami	żerkowskość	subst:pl:inst:f	nazwa pospolita	
@@ -11347,7 +11347,7 @@
 żmudzki	żmudzki	adj:sg:acc:m3:pos		
 żmudzki	żmudzki	adj:sg:nom.voc:m1.m2.m3:pos		
 żmudzko	żmudzki	adja		
-żmudzku	żmudzki	adjp		
+żmudzku	żmudzki	adjp:dat		
 żmudzko	żmudzko	adv:pos		
 żmudzkościach	żmudzkość	subst:pl:loc:f	nazwa pospolita	
 żmudzkościami	żmudzkość	subst:pl:inst:f	nazwa pospolita	
@@ -11435,7 +11435,7 @@
 żniński	żniński	adj:sg:acc:m3:pos		
 żniński	żniński	adj:sg:nom.voc:m1.m2.m3:pos		
 żnińsko	żniński	adja		
-żnińsku	żniński	adjp		
+żnińsku	żniński	adjp:dat		
 żnińsko	żnińsko	adv:pos		
 żnińskościach	żnińskość	subst:pl:loc:f	nazwa pospolita	
 żnińskościami	żnińskość	subst:pl:inst:f	nazwa pospolita	
@@ -11547,7 +11547,7 @@
 żniwiarski	żniwiarski	adj:sg:acc:m3:pos		
 żniwiarski	żniwiarski	adj:sg:nom.voc:m1.m2.m3:pos		
 żniwiarsko	żniwiarski	adja		
-żniwiarsku	żniwiarski	adjp		
+żniwiarsku	żniwiarski	adjp:dat		
 żniwiarsko	żniwiarsko	adv:pos		
 żniwiarskościach	żniwiarskość	subst:pl:loc:f	nazwa pospolita	
 żniwiarskościami	żniwiarskość	subst:pl:inst:f	nazwa pospolita	
@@ -11771,7 +11771,7 @@
 żoliborski	żoliborski	adj:sg:acc:m3:pos		
 żoliborski	żoliborski	adj:sg:nom.voc:m1.m2.m3:pos		
 żoliborsko	żoliborski	adja		
-żoliborsku	żoliborski	adjp		
+żoliborsku	żoliborski	adjp:dat		
 żoliborsko	żoliborsko	adv:pos		
 żoliborskościach	żoliborskość	subst:pl:loc:f	nazwa pospolita	
 żoliborskościami	żoliborskość	subst:pl:inst:f	nazwa pospolita	
@@ -12028,7 +12028,7 @@
 żołdacki	żołdacki	adj:sg:acc:m3:pos		
 żołdacki	żołdacki	adj:sg:nom.voc:m1.m2.m3:pos		
 żołdacko	żołdacki	adja		
-żołdacku	żołdacki	adjp		
+żołdacku	żołdacki	adjp:dat		
 żołdacko	żołdacko	adv:pos		
 żołdackościach	żołdackość	subst:pl:loc:f	nazwa pospolita	
 żołdackościami	żołdackość	subst:pl:inst:f	nazwa pospolita	
@@ -12395,7 +12395,7 @@
 żołnierski	żołnierski	adj:sg:acc:m3:pos		
 żołnierski	żołnierski	adj:sg:nom.voc:m1.m2.m3:pos		
 żołniersko	żołnierski	adja		
-żołniersku	żołnierski	adjp		
+żołniersku	żołnierski	adjp:dat		
 żołniersko	żołniersko	adv:pos		
 żołnierskościach	żołnierskość	subst:pl:loc:f	nazwa pospolita	
 żołnierskościami	żołnierskość	subst:pl:inst:f	nazwa pospolita	
@@ -12522,7 +12522,7 @@
 żołyński	żołyński	adj:sg:acc:m3:pos		
 żołyński	żołyński	adj:sg:nom.voc:m1.m2.m3:pos		
 żołyńsko	żołyński	adja		
-żołyńsku	żołyński	adjp		
+żołyńsku	żołyński	adjp:dat		
 żołyńsko	żołyńsko	adv:pos		
 żołyńskościach	żołyńskość	subst:pl:loc:f	nazwa pospolita	
 żołyńskościami	żołyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -12674,7 +12674,7 @@
 żonglerski	żonglerski	adj:sg:acc:m3:pos		
 żonglerski	żonglerski	adj:sg:nom.voc:m1.m2.m3:pos		
 żonglersko	żonglerski	adja		
-żonglersku	żonglerski	adjp		
+żonglersku	żonglerski	adjp:dat		
 żonglersko	żonglersko	adv:pos		
 żonglerskościach	żonglerskość	subst:pl:loc:f	nazwa pospolita	
 żonglerskościami	żonglerskość	subst:pl:inst:f	nazwa pospolita	
@@ -13069,7 +13069,7 @@
 żorski	żorski	adj:sg:acc:m3:pos		
 żorski	żorski	adj:sg:nom.voc:m1.m2.m3:pos		
 żorsko	żorski	adja		
-żorsku	żorski	adjp		
+żorsku	żorski	adjp:dat		
 żorsko	żorsko	adv:pos		
 żorskościach	żorskość	subst:pl:loc:f	nazwa pospolita	
 żorskościami	żorskość	subst:pl:inst:f	nazwa pospolita	
@@ -13594,7 +13594,7 @@
 żółkiewecki	żółkiewecki	adj:sg:acc:m3:pos		
 żółkiewecki	żółkiewecki	adj:sg:nom.voc:m1.m2.m3:pos		
 żółkiewecko	żółkiewecki	adja		
-żółkiewecku	żółkiewecki	adjp		
+żółkiewecku	żółkiewecki	adjp:dat		
 żółkiewecko	żółkiewecko	adv:pos		
 żółkieweckościach	żółkieweckość	subst:pl:loc:f	nazwa pospolita	
 żółkieweckościami	żółkieweckość	subst:pl:inst:f	nazwa pospolita	
@@ -13631,7 +13631,7 @@
 żółkiewski	żółkiewski	adj:sg:acc:m3:pos		
 żółkiewski	żółkiewski	adj:sg:nom.voc:m1.m2.m3:pos		
 żółkiewsko	żółkiewski	adja		
-żółkiewsku	żółkiewski	adjp		
+żółkiewsku	żółkiewski	adjp:dat		
 żółkiewsko	żółkiewsko	adv:pos		
 żółkiewskościach	żółkiewskość	subst:pl:loc:f	nazwa pospolita	
 żółkiewskościami	żółkiewskość	subst:pl:inst:f	nazwa pospolita	
@@ -15664,7 +15664,7 @@
 żórawiński	żórawiński	adj:sg:acc:m3:pos		
 żórawiński	żórawiński	adj:sg:nom.voc:m1.m2.m3:pos		
 żórawińsko	żórawiński	adja		
-żórawińsku	żórawiński	adjp		
+żórawińsku	żórawiński	adjp:dat		
 żórawińsko	żórawińsko	adv:pos		
 żórawińskościach	żórawińskość	subst:pl:loc:f	nazwa pospolita	
 żórawińskościami	żórawińskość	subst:pl:inst:f	nazwa pospolita	
@@ -16509,7 +16509,7 @@
 żukowicki	żukowicki	adj:sg:acc:m3:pos		
 żukowicki	żukowicki	adj:sg:nom.voc:m1.m2.m3:pos		
 żukowicko	żukowicki	adja		
-żukowicku	żukowicki	adjp		
+żukowicku	żukowicki	adjp:dat		
 żukowicko	żukowicko	adv:pos		
 żukowickościach	żukowickość	subst:pl:loc:f	nazwa pospolita	
 żukowickościami	żukowickość	subst:pl:inst:f	nazwa pospolita	
@@ -16557,7 +16557,7 @@
 żukowski	żukowski	adj:sg:acc:m3:pos		
 żukowski	żukowski	adj:sg:nom.voc:m1.m2.m3:pos		
 żukowsko	żukowski	adja		
-żukowsku	żukowski	adjp		
+żukowsku	żukowski	adjp:dat		
 żukowsko	żukowsko	adv:pos		
 żukowskościach	żukowskość	subst:pl:loc:f	nazwa pospolita	
 żukowskościami	żukowskość	subst:pl:inst:f	nazwa pospolita	
@@ -16713,7 +16713,7 @@
 żuławski	żuławski	adj:sg:acc:m3:pos		
 żuławski	żuławski	adj:sg:nom.voc:m1.m2.m3:pos		
 żuławsko	żuławski	adja		
-żuławsku	żuławski	adjp		
+żuławsku	żuławski	adjp:dat		
 żuławsko	żuławsko	adv:pos		
 żuławskościach	żuławskość	subst:pl:loc:f	nazwa pospolita	
 żuławskościami	żuławskość	subst:pl:inst:f	nazwa pospolita	
@@ -16890,7 +16890,7 @@
 żupański	żupański	adj:sg:acc:m3:pos		
 żupański	żupański	adj:sg:nom.voc:m1.m2.m3:pos		
 żupańsko	żupański	adja		
-żupańsku	żupański	adjp		
+żupańsku	żupański	adjp:dat		
 żupańsko	żupańsko	adv:pos		
 żupańskościach	żupańskość	subst:pl:loc:f	nazwa pospolita	
 żupańskościami	żupańskość	subst:pl:inst:f	nazwa pospolita	
@@ -17187,7 +17187,7 @@
 żurawicki	żurawicki	adj:sg:acc:m3:pos		
 żurawicki	żurawicki	adj:sg:nom.voc:m1.m2.m3:pos		
 żurawicko	żurawicki	adja		
-żurawicku	żurawicki	adjp		
+żurawicku	żurawicki	adjp:dat		
 żurawicko	żurawicko	adv:pos		
 żurawickościach	żurawickość	subst:pl:loc:f	nazwa pospolita	
 żurawickościami	żurawickość	subst:pl:inst:f	nazwa pospolita	
@@ -17633,7 +17633,7 @@
 żuromiński	żuromiński	adj:sg:acc:m3:pos		
 żuromiński	żuromiński	adj:sg:nom.voc:m1.m2.m3:pos		
 żuromińsko	żuromiński	adja		
-żuromińsku	żuromiński	adjp		
+żuromińsku	żuromiński	adjp:dat		
 żuromińsko	żuromińsko	adv:pos		
 żuromińskościach	żuromińskość	subst:pl:loc:f	nazwa pospolita	
 żuromińskościami	żuromińskość	subst:pl:inst:f	nazwa pospolita	
@@ -18713,7 +18713,7 @@
 żychliński	żychliński	adj:sg:acc:m3:pos		
 żychliński	żychliński	adj:sg:nom.voc:m1.m2.m3:pos		
 żychlińsko	żychliński	adja		
-żychlińsku	żychliński	adjp		
+żychlińsku	żychliński	adjp:dat		
 żychlińsko	żychlińsko	adv:pos		
 żychlińskościach	żychlińskość	subst:pl:loc:f	nazwa pospolita	
 żychlińskościami	żychlińskość	subst:pl:inst:f	nazwa pospolita	
@@ -19561,7 +19561,7 @@
 żydowski	żydowski	adj:sg:acc:m3:pos		
 żydowski	żydowski	adj:sg:nom.voc:m1.m2.m3:pos		
 żydowsko	żydowski	adja		
-żydowsku	żydowski	adjp		
+żydowsku	żydowski	adjp:dat		
 żydowsko	żydowsko	adv:pos		
 żydowskościach	żydowskość	subst:pl:loc:f	nazwa pospolita	
 żydowskościami	żydowskość	subst:pl:inst:f	nazwa pospolita	
@@ -20634,7 +20634,7 @@
 żyrakowski	żyrakowski	adj:sg:acc:m3:pos		
 żyrakowski	żyrakowski	adj:sg:nom.voc:m1.m2.m3:pos		
 żyrakowsko	żyrakowski	adja		
-żyrakowsku	żyrakowski	adjp		
+żyrakowsku	żyrakowski	adjp:dat		
 żyrakowsko	żyrakowsko	adv:pos		
 żyrakowskościach	żyrakowskość	subst:pl:loc:f	nazwa pospolita	
 żyrakowskościami	żyrakowskość	subst:pl:inst:f	nazwa pospolita	
@@ -20752,7 +20752,7 @@
 żyrardowski	żyrardowski	adj:sg:acc:m3:pos		
 żyrardowski	żyrardowski	adj:sg:nom.voc:m1.m2.m3:pos		
 żyrardowsko	żyrardowski	adja		
-żyrardowsku	żyrardowski	adjp		
+żyrardowsku	żyrardowski	adjp:dat		
 żyrardowsko	żyrardowsko	adv:pos		
 żyrardowskościach	żyrardowskość	subst:pl:loc:f	nazwa pospolita	
 żyrardowskościami	żyrardowskość	subst:pl:inst:f	nazwa pospolita	
@@ -21036,7 +21036,7 @@
 żyrzyński	żyrzyński	adj:sg:acc:m3:pos		
 żyrzyński	żyrzyński	adj:sg:nom.voc:m1.m2.m3:pos		
 żyrzyńsko	żyrzyński	adja		
-żyrzyńsku	żyrzyński	adjp		
+żyrzyńsku	żyrzyński	adjp:dat		
 żyrzyńsko	żyrzyńsko	adv:pos		
 żyrzyńskościach	żyrzyńskość	subst:pl:loc:f	nazwa pospolita	
 żyrzyńskościami	żyrzyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -21152,7 +21152,7 @@
 żytniański	żytniański	adj:sg:acc:m3:pos		
 żytniański	żytniański	adj:sg:nom.voc:m1.m2.m3:pos		
 żytniańsko	żytniański	adja		
-żytniańsku	żytniański	adjp		
+żytniańsku	żytniański	adjp:dat		
 żytniańsko	żytniańsko	adv:pos		
 żytniańskościach	żytniańskość	subst:pl:loc:f	nazwa pospolita	
 żytniańskościami	żytniańskość	subst:pl:inst:f	nazwa pospolita	
@@ -21277,7 +21277,7 @@
 żytomierski	żytomierski	adj:sg:acc:m3:pos		
 żytomierski	żytomierski	adj:sg:nom.voc:m1.m2.m3:pos		
 żytomiersko	żytomierski	adja		
-żytomiersku	żytomierski	adjp		
+żytomiersku	żytomierski	adjp:dat		
 żytomiersko	żytomiersko	adv:pos		
 żytomierskościach	żytomierskość	subst:pl:loc:f	nazwa pospolita	
 żytomierskościami	żytomierskość	subst:pl:inst:f	nazwa pospolita	
@@ -21359,7 +21359,7 @@
 żywicielski	żywicielski	adj:sg:acc:m3:pos		
 żywicielski	żywicielski	adj:sg:nom.voc:m1.m2.m3:pos		
 żywicielsko	żywicielski	adja		
-żywicielsku	żywicielski	adjp		
+żywicielsku	żywicielski	adjp:dat		
 żywicielsko	żywicielsko	adv:pos		
 żywicielskościach	żywicielskość	subst:pl:loc:f	nazwa pospolita	
 żywicielskościami	żywicielskość	subst:pl:inst:f	nazwa pospolita	
@@ -21601,7 +21601,7 @@
 żywiczarski	żywiczarski	adj:sg:acc:m3:pos		
 żywiczarski	żywiczarski	adj:sg:nom.voc:m1.m2.m3:pos		
 żywiczarsko	żywiczarski	adja		
-żywiczarsku	żywiczarski	adjp		
+żywiczarsku	żywiczarski	adjp:dat		
 żywiczarsko	żywiczarsko	adv:pos		
 żywiczarskościach	żywiczarskość	subst:pl:loc:f	nazwa pospolita	
 żywiczarskościami	żywiczarskość	subst:pl:inst:f	nazwa pospolita	
@@ -21786,7 +21786,7 @@
 żywiecki	żywiecki	adj:sg:acc:m3:pos		
 żywiecki	żywiecki	adj:sg:nom.voc:m1.m2.m3:pos		
 żywiecko	żywiecki	adja		
-żywiecku	żywiecki	adjp		
+żywiecku	żywiecki	adjp:dat		
 żywiecko	żywiecko	adv:pos		
 żywieckościach	żywieckość	subst:pl:loc:f	nazwa pospolita	
 żywieckościami	żywieckość	subst:pl:inst:f	nazwa pospolita	
@@ -22254,7 +22254,7 @@
 żywociarski	żywociarski	adj:sg:acc:m3:pos		
 żywociarski	żywociarski	adj:sg:nom.voc:m1.m2.m3:pos		
 żywociarsko	żywociarski	adja		
-żywociarsku	żywociarski	adjp		
+żywociarsku	żywociarski	adjp:dat		
 żywociarsko	żywociarsko	adv:pos		
 żywociarskościach	żywociarskość	subst:pl:loc:f	nazwa pospolita	
 żywociarskościami	żywociarskość	subst:pl:inst:f	nazwa pospolita	

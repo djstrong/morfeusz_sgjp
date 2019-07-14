@@ -6281,7 +6281,7 @@ Teksasów	Teksas	subst:pl:gen:m3	nazwa geograficzna
 Teksas	Teksas	subst:sg:nom.acc:m3	nazwa geograficzna	
 Teksasu	Teksas	subst:sg:gen:m3	nazwa geograficzna	
 Teksasy	Teksas	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
-Tel	Tel	burk		
+Tel	Tel	frag		
 Telakowcach	Telakowiec:s1	subst:pl:loc:m1	nazwisko	
 Telakowcami	Telakowiec:s1	subst:pl:inst:m1	nazwisko	
 Telakowca	Telakowiec:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -15039,7 +15039,7 @@ TPD-owskim	TPD-owski	adj:sg:loc:m1.m2.m3.n:pos
 TPD-owski	TPD-owski	adj:sg:acc:m3:pos		
 TPD-owski	TPD-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 TPD-owsko	TPD-owski	adja		
-TPD-owsku	TPD-owski	adjp		
+TPD-owsku	TPD-owski	adjp:dat		
 TPD-owsko	TPD-owsko	adv:pos		
 TPI	TPI	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 TPN-ach	TPN	subst:pl:loc:m3	nazwa geograficzna	

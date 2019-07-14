@@ -6529,7 +6529,7 @@ Janeczkom	Janeczko:s1	subst:pl:dat:m1	nazwisko
 Janeczkowie	Janeczko:s1	subst:pl:nom.voc:m1	nazwisko	
 Janeczków	Janeczko:s1	subst:pl:gen.acc:m1	nazwisko	
 Janeczko	Janeczko:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Janeiro	Janeiro	burk		
+Janeiro	Janeiro	frag		
 Janek	Janek:s1	subst:sg:nom:m1	imię	
 Jankach	Janek:s1	subst:pl:loc:m1	imię	
 Janka	Janek:s1	subst:sg:gen.acc:m1	imię	

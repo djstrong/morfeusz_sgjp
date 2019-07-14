@@ -2,7 +2,7 @@ LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
 Lm	Księga_Lamentacje	brev:npun		
 Lam	Księga_Lamentacje	brev:npun		
 Lb	Księga_Liczb	brev:npun		
-La	La	burk		
+La	La	frag		
 Labakach	Labak:s1	subst:pl:loc:m1	nazwisko	
 Labaka	Labak:s1	subst:sg:gen.acc:m1	nazwisko	
 Labakami	Labak:s1	subst:pl:inst:m1	nazwisko	
@@ -2803,7 +2803,7 @@ Laso	Lasa:s2	subst:sg:voc:f	nazwisko
 Lasom	Lasa:s2	subst:pl:dat:f	nazwisko	
 Lasy	Lasa:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Lasy	Lasa:s2	subst:sg:gen:f	nazwisko	
-Las	Las:b	burk		
+Las	Las:b	frag		
 Lasecka	Lasecka	subst:sg:nom:f	nazwisko	
 Lasecka	Lasecka	subst:sg:voc:f	nazwisko	
 Lasecką	Lasecka	subst:sg:acc:f	nazwisko	
@@ -4834,7 +4834,7 @@ Leandry	Leander	depr:pl:nom.acc.voc:m2	imię
 Leandrze	Leander	subst:sg:loc:m1	imię	
 Leandrze	Leander	subst:sg:voc:m1	imię	
 Leandrzy	Leander	subst:pl:nom.voc:m1	imię	
-Le	Le:b	burk		
+Le	Le:b	frag		
 Lebdach	Lebda:s1	subst:pl:loc:m1	nazwisko	
 Lebda	Lebda:s1	subst:sg:nom:m1	nazwisko	
 Lebdami	Lebda:s1	subst:pl:inst:m1	nazwisko	
@@ -8970,7 +8970,7 @@ Leonczuków	Leonczuk:s1	subst:pl:gen.acc:m1	nazwisko
 Leonczuku	Leonczuk:s1	subst:sg:loc:m1	nazwisko	
 Leonczuku	Leonczuk:s1	subst:sg:voc:m1	nazwisko	
 Leonczuk	Leonczuk:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Leone	Leone	burk		
+Leone	Leone	frag		
 Leonek	Leonek	subst:sg:nom:m1	imię	
 Leonkach	Leonek	subst:pl:loc:m1	imię	
 Leonka	Leonek	subst:sg:gen.acc:m1	imię	
@@ -19918,7 +19918,7 @@ Loso	Losa:s2	subst:sg:voc:f	nazwisko
 Losom	Losa:s2	subst:pl:dat:f	nazwisko	
 Losy	Losa:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Losy	Losa:s2	subst:sg:gen:f	nazwisko	
-Los	Los:b	burk		
+Los	Los:b	frag		
 Loseyach	Losey	subst:pl:loc:m1	nazwisko	
 Loseya	Losey	subst:sg:gen.acc:m1	nazwisko	
 Loseyami	Losey	subst:pl:inst:m1	nazwisko	

@@ -12250,7 +12250,7 @@ ZChN-owskim	ZChN-owski	adj:sg:loc:m1.m2.m3.n:pos
 ZChN-owski	ZChN-owski	adj:sg:acc:m3:pos		
 ZChN-owski	ZChN-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 ZChN-owsko	ZChN-owski	adja		
-ZChN-owsku	ZChN-owski	adjp		
+ZChN-owsku	ZChN-owski	adjp:dat		
 ZChN-owsko	ZChN-owsko	adv:pos		
 Zdancewiczach	Zdancewicz:s2	subst:pl:loc:m1	nazwisko	
 Zdancewiczami	Zdancewicz:s2	subst:pl:inst:m1	nazwisko	
@@ -22443,7 +22443,7 @@ ZOMO-wskim	ZOMO-wski	adj:sg:loc:m1.m2.m3.n:pos
 ZOMO-wski	ZOMO-wski	adj:sg:acc:m3:pos		
 ZOMO-wski	ZOMO-wski	adj:sg:nom.voc:m1.m2.m3:pos		
 ZOMO-wsko	ZOMO-wski	adja		
-ZOMO-wsku	ZOMO-wski	adjp		
+ZOMO-wsku	ZOMO-wski	adjp:dat		
 ZOMO-wsko	ZOMO-wsko	adv:pos		
 Zonenbergach	Zonenberg:s1	subst:pl:loc:m1	nazwisko	
 Zonenbergami	Zonenberg:s1	subst:pl:inst:m1	nazwisko	

@@ -616,7 +616,7 @@ laboranckim	laborancki	adj:pl:dat:m1.m2.m3.f.n:pos
 laboranckim	laborancki	adj:sg:inst:m1.m2.m3.n:pos		
 laboranckim	laborancki	adj:sg:loc:m1.m2.m3.n:pos		
 laborancko	laborancki	adja		
-laborancku	laborancki	adjp		
+laborancku	laborancki	adjp:dat		
 laborancko	laborancko	adv:pos		
 laboranckościach	laboranckość	subst:pl:loc:f	nazwa pospolita	
 laboranckościami	laboranckość	subst:pl:inst:f	nazwa pospolita	
@@ -745,7 +745,7 @@ labourzystowskim	labourzystowski	adj:pl:dat:m1.m2.m3.f.n:pos
 labourzystowskim	labourzystowski	adj:sg:inst:m1.m2.m3.n:pos		
 labourzystowskim	labourzystowski	adj:sg:loc:m1.m2.m3.n:pos		
 labourzystowsko	labourzystowski	adja		
-labourzystowsku	labourzystowski	adjp		
+labourzystowsku	labourzystowski	adjp:dat		
 labourzystowsko	labourzystowsko	adv:pos		
 labourzystowskościach	labourzystowskość	subst:pl:loc:f	nazwa pospolita	
 labourzystowskościami	labourzystowskość	subst:pl:inst:f	nazwa pospolita	
@@ -877,7 +877,7 @@ labradorskim	labradorski	adj:pl:dat:m1.m2.m3.f.n:pos
 labradorskim	labradorski	adj:sg:inst:m1.m2.m3.n:pos		
 labradorskim	labradorski	adj:sg:loc:m1.m2.m3.n:pos		
 labradorsko	labradorski	adja		
-labradorsku	labradorski	adjp		
+labradorsku	labradorski	adjp:dat		
 labradorsko	labradorsko	adv:pos		
 labradorskościach	labradorskość	subst:pl:loc:f	nazwa pospolita	
 labradorskościami	labradorskość	subst:pl:inst:f	nazwa pospolita	
@@ -953,7 +953,7 @@ laburzystowskim	laburzystowski	adj:pl:dat:m1.m2.m3.f.n:pos
 laburzystowskim	laburzystowski	adj:sg:inst:m1.m2.m3.n:pos		
 laburzystowskim	laburzystowski	adj:sg:loc:m1.m2.m3.n:pos		
 laburzystowsko	laburzystowski	adja		
-laburzystowsku	laburzystowski	adjp		
+laburzystowsku	laburzystowski	adjp:dat		
 laburzystowsko	laburzystowsko	adv:pos		
 laburzystowskościach	laburzystowskość	subst:pl:loc:f	nazwa pospolita	
 laburzystowskościami	laburzystowskość	subst:pl:inst:f	nazwa pospolita	
@@ -1002,7 +1002,7 @@ lacedemońskim	lacedemoński	adj:pl:dat:m1.m2.m3.f.n:pos
 lacedemońskim	lacedemoński	adj:sg:inst:m1.m2.m3.n:pos		
 lacedemońskim	lacedemoński	adj:sg:loc:m1.m2.m3.n:pos		
 lacedemońsko	lacedemoński	adja		
-lacedemońsku	lacedemoński	adjp		
+lacedemońsku	lacedemoński	adjp:dat		
 lacedemońsko	lacedemońsko	adv:pos		
 lacedemońskościach	lacedemońskość	subst:pl:loc:f	nazwa pospolita	
 lacedemońskościami	lacedemońskość	subst:pl:inst:f	nazwa pospolita	
@@ -1039,7 +1039,7 @@ laceńskim	laceński	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
 laceńskim	laceński	adj:sg:inst:m1.m2.m3.n:pos		daw.
 laceńskim	laceński	adj:sg:loc:m1.m2.m3.n:pos		daw.
 laceńsko	laceński	adja		daw.
-laceńsku	laceński	adjp		daw.
+laceńsku	laceński	adjp:dat		daw.
 laceńsko	laceńsko	adv:pos		daw.
 laceńskościach	laceńskość	subst:pl:loc:f	nazwa pospolita	daw.
 laceńskościami	laceńskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -1110,7 +1110,7 @@ lachowskim	lachowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lachowskim	lachowski	adj:sg:inst:m1.m2.m3.n:pos		
 lachowskim	lachowski	adj:sg:loc:m1.m2.m3.n:pos		
 lachowsko	lachowski	adja		
-lachowsku	lachowski	adjp		
+lachowsku	lachowski	adjp:dat		
 lachowsko	lachowsko	adv:pos		
 lachowskościach	lachowskość	subst:pl:loc:f	nazwa pospolita	
 lachowskościami	lachowskość	subst:pl:inst:f	nazwa pospolita	
@@ -1147,7 +1147,7 @@ lackim	lacki	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
 lackim	lacki	adj:sg:inst:m1.m2.m3.n:pos		daw.
 lackim	lacki	adj:sg:loc:m1.m2.m3.n:pos		daw.
 lacko	lacki	adja		daw.
-lacku	lacki	adjp		daw.
+lacku	lacki	adjp:dat		daw.
 lacko	lacko	adv:pos		
 lackościach	lackość	subst:pl:loc:f	nazwa pospolita	daw.
 lackościami	lackość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -1351,7 +1351,7 @@ ladacznym	ladaczny	adj:pl:dat:m1.m2.m3.f.n:pos
 ladacznym	ladaczny	adj:sg:inst:m1.m2.m3.n:pos		
 ladacznym	ladaczny	adj:sg:loc:m1.m2.m3.n:pos		
 lada	lada:p	prep:nom		
-lada	lada:q	qub		
+lada	lada:q	part		
 ladarzach	ladarz	subst:pl:loc:m1	nazwa pospolita	daw.
 ladarzach	ladarz	subst:pl:loc:m1	nazwa pospolita	daw.|rzad.
 ladarza	ladarz	subst:sg:gen.acc:m1	nazwa pospolita	daw.
@@ -1565,7 +1565,7 @@ ladyńskim	ladyński	adj:pl:dat:m1.m2.m3.f.n:pos
 ladyńskim	ladyński	adj:sg:inst:m1.m2.m3.n:pos		
 ladyńskim	ladyński	adj:sg:loc:m1.m2.m3.n:pos		
 ladyńsko	ladyński	adja		
-ladyńsku	ladyński	adjp		
+ladyńsku	ladyński	adjp:dat		
 ladyńsko	ladyńsko	adv:pos		
 ladyńskościach	ladyńskość	subst:pl:loc:f	nazwa pospolita	
 ladyńskościami	ladyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -1679,7 +1679,7 @@ lagoskim	lagoski	adj:pl:dat:m1.m2.m3.f.n:pos
 lagoskim	lagoski	adj:sg:inst:m1.m2.m3.n:pos		
 lagoskim	lagoski	adj:sg:loc:m1.m2.m3.n:pos		
 lagosko	lagoski	adja		
-lagosku	lagoski	adjp		
+lagosku	lagoski	adjp:dat		
 lagosko	lagosko	adv:pos		
 lagoskościach	lagoskość	subst:pl:loc:f	nazwa pospolita	
 lagoskościami	lagoskość	subst:pl:inst:f	nazwa pospolita	
@@ -1912,7 +1912,7 @@ laickim	laicki	adj:pl:dat:m1.m2.m3.f.n:pos
 laickim	laicki	adj:sg:inst:m1.m2.m3.n:pos		
 laickim	laicki	adj:sg:loc:m1.m2.m3.n:pos		
 laicko	laicki	adja		
-laicku	laicki	adjp		
+laicku	laicki	adjp:dat		
 laicko	laicko	adv:pos		
 laickościach	laickość	subst:pl:loc:f	nazwa pospolita	
 laickościami	laickość	subst:pl:inst:f	nazwa pospolita	
@@ -2901,7 +2901,7 @@ lakońskim	lakoński	adj:pl:dat:m1.m2.m3.f.n:pos
 lakońskim	lakoński	adj:sg:inst:m1.m2.m3.n:pos		
 lakońskim	lakoński	adj:sg:loc:m1.m2.m3.n:pos		
 lakońsko	lakoński	adja		
-lakońsku	lakoński	adjp		
+lakońsku	lakoński	adjp:dat		
 lakońsko	lakońsko	adv:pos		
 lakońskościach	lakońskość	subst:pl:loc:f	nazwa pospolita	
 lakońskościami	lakońskość	subst:pl:inst:f	nazwa pospolita	
@@ -3309,7 +3309,7 @@ laktoowowegetariańskim	laktoowowegetariański	adj:pl:dat:m1.m2.m3.f.n:pos
 laktoowowegetariańskim	laktoowowegetariański	adj:sg:inst:m1.m2.m3.n:pos		
 laktoowowegetariańskim	laktoowowegetariański	adj:sg:loc:m1.m2.m3.n:pos		
 laktoowowegetariańsko	laktoowowegetariański	adja		
-laktoowowegetariańsku	laktoowowegetariański	adjp		
+laktoowowegetariańsku	laktoowowegetariański	adjp:dat		
 laktoowowegetariańsko	laktoowowegetariańsko	adv:pos		
 laktoowowegetariańskościach	laktoowowegetariańskość	subst:pl:loc:f	nazwa pospolita	
 laktoowowegetariańskościami	laktoowowegetariańskość	subst:pl:inst:f	nazwa pospolita	
@@ -3392,7 +3392,7 @@ laktowegetariańskim	laktowegetariański	adj:pl:dat:m1.m2.m3.f.n:pos
 laktowegetariańskim	laktowegetariański	adj:sg:inst:m1.m2.m3.n:pos		
 laktowegetariańskim	laktowegetariański	adj:sg:loc:m1.m2.m3.n:pos		
 laktowegetariańsko	laktowegetariański	adja		
-laktowegetariańsku	laktowegetariański	adjp		
+laktowegetariańsku	laktowegetariański	adjp:dat		
 laktowegetariańsko	laktowegetariańsko	adv:pos		
 laktowegetariańskościach	laktowegetariańskość	subst:pl:loc:f	nazwa pospolita	
 laktowegetariańskościami	laktowegetariańskość	subst:pl:inst:f	nazwa pospolita	
@@ -3578,7 +3578,7 @@ lalkarskim	lalkarski	adj:pl:dat:m1.m2.m3.f.n:pos
 lalkarskim	lalkarski	adj:sg:inst:m1.m2.m3.n:pos		
 lalkarskim	lalkarski	adj:sg:loc:m1.m2.m3.n:pos		
 lalkarsko	lalkarski	adja		
-lalkarsku	lalkarski	adjp		
+lalkarsku	lalkarski	adjp:dat		
 lalkarsko	lalkarsko	adv:pos		
 lalkarskościach	lalkarskość	subst:pl:loc:f	nazwa pospolita	
 lalkarskościami	lalkarskość	subst:pl:inst:f	nazwa pospolita	
@@ -3805,7 +3805,7 @@ lamaickim	lamaicki	adj:pl:dat:m1.m2.m3.f.n:pos
 lamaickim	lamaicki	adj:sg:inst:m1.m2.m3.n:pos		
 lamaickim	lamaicki	adj:sg:loc:m1.m2.m3.n:pos		
 lamaicko	lamaicki	adja		
-lamaicku	lamaicki	adjp		
+lamaicku	lamaicki	adjp:dat		
 lamaicko	lamaicko	adv:pos		
 lamaickościach	lamaickość	subst:pl:loc:f	nazwa pospolita	
 lamaickościami	lamaickość	subst:pl:inst:f	nazwa pospolita	
@@ -3912,7 +3912,7 @@ lamajskim	lamajski	adj:pl:dat:m1.m2.m3.f.n:pos
 lamajskim	lamajski	adj:sg:inst:m1.m2.m3.n:pos		
 lamajskim	lamajski	adj:sg:loc:m1.m2.m3.n:pos		
 lamajsko	lamajski	adja		
-lamajsku	lamajski	adjp		
+lamajsku	lamajski	adjp:dat		
 lamajsko	lamajsko	adv:pos		
 lamajskościach	lamajskość	subst:pl:loc:f	nazwa pospolita	
 lamajskościami	lamajskość	subst:pl:inst:f	nazwa pospolita	
@@ -4481,7 +4481,7 @@ lamerskim	lamerski	adj:pl:dat:m1.m2.m3.f.n:pos		pot.
 lamerskim	lamerski	adj:sg:inst:m1.m2.m3.n:pos		pot.
 lamerskim	lamerski	adj:sg:loc:m1.m2.m3.n:pos		pot.
 lamersko	lamerski	adja		pot.
-lamersku	lamerski	adjp		pot.
+lamersku	lamerski	adjp:dat		pot.
 lamersko	lamersko	adv:pos		pot.
 lamerskościach	lamerskość	subst:pl:loc:f	nazwa pospolita	pot.
 lamerskościami	lamerskość	subst:pl:inst:f	nazwa pospolita	pot.
@@ -5216,7 +5216,7 @@ lampiarskim	lampiarski	adj:pl:dat:m1.m2.m3.f.n:pos
 lampiarskim	lampiarski	adj:sg:inst:m1.m2.m3.n:pos		
 lampiarskim	lampiarski	adj:sg:loc:m1.m2.m3.n:pos		
 lampiarsko	lampiarski	adja		
-lampiarsku	lampiarski	adjp		
+lampiarsku	lampiarski	adjp:dat		
 lampiarsko	lampiarsko	adv:pos		
 lampiarskościach	lampiarskość	subst:pl:loc:f	nazwa pospolita	
 lampiarskościami	lampiarskość	subst:pl:inst:f	nazwa pospolita	
@@ -5573,7 +5573,7 @@ lanckorońskim	lanckoroński	adj:pl:dat:m1.m2.m3.f.n:pos
 lanckorońskim	lanckoroński	adj:sg:inst:m1.m2.m3.n:pos		
 lanckorońskim	lanckoroński	adj:sg:loc:m1.m2.m3.n:pos		
 lanckorońsko	lanckoroński	adja		
-lanckorońsku	lanckoroński	adjp		
+lanckorońsku	lanckoroński	adjp:dat		
 lanckorońsko	lanckorońsko	adv:pos		
 lanckorońskościach	lanckorońskość	subst:pl:loc:f	nazwa pospolita	
 lanckorońskościami	lanckorońskość	subst:pl:inst:f	nazwa pospolita	
@@ -5942,7 +5942,7 @@ landsberskim	landsberski	adj:pl:dat:m1.m2.m3.f.n:pos
 landsberskim	landsberski	adj:sg:inst:m1.m2.m3.n:pos		
 landsberskim	landsberski	adj:sg:loc:m1.m2.m3.n:pos		
 landsbersko	landsberski	adja		
-landsbersku	landsberski	adjp		
+landsbersku	landsberski	adjp:dat		
 landsbersko	landsbersko	adv:pos		
 landsberskościach	landsberskość	subst:pl:loc:f	nazwa pospolita	
 landsberskościami	landsberskość	subst:pl:inst:f	nazwa pospolita	
@@ -6189,7 +6189,7 @@ langwedockim	langwedocki	adj:pl:dat:m1.m2.m3.f.n:pos
 langwedockim	langwedocki	adj:sg:inst:m1.m2.m3.n:pos		
 langwedockim	langwedocki	adj:sg:loc:m1.m2.m3.n:pos		
 langwedocko	langwedocki	adja		
-langwedocku	langwedocki	adjp		
+langwedocku	langwedocki	adjp:dat		
 langwedocko	langwedocko	adv:pos		
 langwedockościach	langwedockość	subst:pl:loc:f	nazwa pospolita	
 langwedockościami	langwedockość	subst:pl:inst:f	nazwa pospolita	
@@ -6282,7 +6282,7 @@ lankijskim	lankijski	adj:pl:dat:m1.m2.m3.f.n:pos
 lankijskim	lankijski	adj:sg:inst:m1.m2.m3.n:pos		
 lankijskim	lankijski	adj:sg:loc:m1.m2.m3.n:pos		
 lankijsko	lankijski	adja		
-lankijsku	lankijski	adjp		
+lankijsku	lankijski	adjp:dat		
 lankijsko	lankijsko	adv:pos		
 lankijskościach	lankijskość	subst:pl:loc:f	nazwa pospolita	
 lankijskościami	lankijskość	subst:pl:inst:f	nazwa pospolita	
@@ -6499,7 +6499,7 @@ lanserskim	lanserski	adj:pl:dat:m1.m2.m3.f.n:pos		pot.
 lanserskim	lanserski	adj:sg:inst:m1.m2.m3.n:pos		pot.
 lanserskim	lanserski	adj:sg:loc:m1.m2.m3.n:pos		pot.
 lansersko	lanserski	adja		pot.
-lansersku	lanserski	adjp		pot.
+lansersku	lanserski	adjp:dat		pot.
 lansersko	lansersko	adv:pos		pot.
 lanserskościach	lanserskość	subst:pl:loc:f	nazwa pospolita	pot.
 lanserskościami	lanserskość	subst:pl:inst:f	nazwa pospolita	pot.
@@ -6604,7 +6604,7 @@ lansjerskim	lansjerski	adj:pl:dat:m1.m2.m3.f.n:pos
 lansjerskim	lansjerski	adj:sg:inst:m1.m2.m3.n:pos		
 lansjerskim	lansjerski	adj:sg:loc:m1.m2.m3.n:pos		
 lansjersko	lansjerski	adja		
-lansjersku	lansjerski	adjp		
+lansjersku	lansjerski	adjp:dat		
 lansjersko	lansjersko	adv:pos		
 lansjerskościach	lansjerskość	subst:pl:loc:f	nazwa pospolita	
 lansjerskościami	lansjerskość	subst:pl:inst:f	nazwa pospolita	
@@ -6795,7 +6795,7 @@ laodycejskim	laodycejski	adj:pl:dat:m1.m2.m3.f.n:pos
 laodycejskim	laodycejski	adj:sg:inst:m1.m2.m3.n:pos		
 laodycejskim	laodycejski	adj:sg:loc:m1.m2.m3.n:pos		
 laodycejsko	laodycejski	adja		
-laodycejsku	laodycejski	adjp		
+laodycejsku	laodycejski	adjp:dat		
 laodycejsko	laodycejsko	adv:pos		
 laodycejskościach	laodycejskość	subst:pl:loc:f	nazwa pospolita	
 laodycejskościami	laodycejskość	subst:pl:inst:f	nazwa pospolita	
@@ -6867,7 +6867,7 @@ laotańskim	laotański	adj:pl:dat:m1.m2.m3.f.n:pos
 laotańskim	laotański	adj:sg:inst:m1.m2.m3.n:pos		
 laotańskim	laotański	adj:sg:loc:m1.m2.m3.n:pos		
 laotańsko	laotański	adja		
-laotańsku	laotański	adjp		
+laotańsku	laotański	adjp:dat		
 laotańsko	laotańsko	adv:pos		
 laotańskościach	laotańskość	subst:pl:loc:f	nazwa pospolita	
 laotańskościami	laotańskość	subst:pl:inst:f	nazwa pospolita	
@@ -7318,7 +7318,7 @@ lapońskim	lapoński	adj:pl:dat:m1.m2.m3.f.n:pos
 lapońskim	lapoński	adj:sg:inst:m1.m2.m3.n:pos		
 lapońskim	lapoński	adj:sg:loc:m1.m2.m3.n:pos		
 lapońsko	lapoński	adja		
-lapońsku	lapoński	adjp		
+lapońsku	lapoński	adjp:dat		
 lapońsko	lapońsko	adv:pos		
 lapońskościach	lapońskość	subst:pl:loc:f	nazwa pospolita	
 lapońskościami	lapońskość	subst:pl:inst:f	nazwa pospolita	
@@ -8136,7 +8136,7 @@ laskim	laski	adj:pl:dat:m1.m2.m3.f.n:pos
 laskim	laski	adj:sg:inst:m1.m2.m3.n:pos		
 laskim	laski	adj:sg:loc:m1.m2.m3.n:pos		
 lasko	laski	adja		
-lasku	laski	adjp		
+lasku	laski	adjp:dat		
 lasko	lasko	adv:pos		
 laskonodzy	laskonogi	adj:pl:nom.voc:m1:pos		
 laskonoga	laskonogi	adj:sg:nom.voc:f:pos		
@@ -8377,7 +8377,7 @@ laskowickim	laskowicki	adj:pl:dat:m1.m2.m3.f.n:pos
 laskowickim	laskowicki	adj:sg:inst:m1.m2.m3.n:pos		
 laskowickim	laskowicki	adj:sg:loc:m1.m2.m3.n:pos		
 laskowicko	laskowicki	adja		
-laskowicku	laskowicki	adjp		
+laskowicku	laskowicki	adjp:dat		
 laskowicko	laskowicko	adv:pos		
 laskowickościach	laskowickość	subst:pl:loc:f	nazwa pospolita	
 laskowickościami	laskowickość	subst:pl:inst:f	nazwa pospolita	
@@ -8641,7 +8641,7 @@ lasowskim	lasowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lasowskim	lasowski	adj:sg:inst:m1.m2.m3.n:pos		
 lasowskim	lasowski	adj:sg:loc:m1.m2.m3.n:pos		
 lasowsko	lasowski	adja		
-lasowsku	lasowski	adjp		
+lasowsku	lasowski	adjp:dat		
 lasowsko	lasowsko	adv:pos		
 lasowskościach	lasowskość	subst:pl:loc:f	nazwa pospolita	
 lasowskościami	lasowskość	subst:pl:inst:f	nazwa pospolita	
@@ -8756,7 +8756,7 @@ lastrykarskim	lastrykarski	adj:pl:dat:m1.m2.m3.f.n:pos
 lastrykarskim	lastrykarski	adj:sg:inst:m1.m2.m3.n:pos		
 lastrykarskim	lastrykarski	adj:sg:loc:m1.m2.m3.n:pos		
 lastrykarsko	lastrykarski	adja		
-lastrykarsku	lastrykarski	adjp		
+lastrykarsku	lastrykarski	adjp:dat		
 lastrykarsko	lastrykarsko	adv:pos		
 lastrykarskościach	lastrykarskość	subst:pl:loc:f	nazwa pospolita	
 lastrykarskościami	lastrykarskość	subst:pl:inst:f	nazwa pospolita	
@@ -9621,7 +9621,7 @@ lateńskim	lateński	adj:pl:dat:m1.m2.m3.f.n:pos
 lateńskim	lateński	adj:sg:inst:m1.m2.m3.n:pos		
 lateńskim	lateński	adj:sg:loc:m1.m2.m3.n:pos		
 lateńsko	lateński	adja		
-lateńsku	lateński	adjp		
+lateńsku	lateński	adjp:dat		
 lateńsko	lateńsko	adv:pos		
 lateńskościach	lateńskość	subst:pl:loc:f	nazwa pospolita	
 lateńskościami	lateńskość	subst:pl:inst:f	nazwa pospolita	
@@ -9706,7 +9706,7 @@ laterańskim	laterański	adj:pl:dat:m1.m2.m3.f.n:pos
 laterańskim	laterański	adj:sg:inst:m1.m2.m3.n:pos		
 laterańskim	laterański	adj:sg:loc:m1.m2.m3.n:pos		
 laterańsko	laterański	adja		
-laterańsku	laterański	adjp		
+laterańsku	laterański	adjp:dat		
 laterańsko	laterańsko	adv:pos		
 laterańskościach	laterańskość	subst:pl:loc:f	nazwa pospolita	
 laterańskościami	laterańskość	subst:pl:inst:f	nazwa pospolita	
@@ -9889,7 +9889,7 @@ latopisarskim	latopisarski	adj:pl:dat:m1.m2.m3.f.n:pos
 latopisarskim	latopisarski	adj:sg:inst:m1.m2.m3.n:pos		
 latopisarskim	latopisarski	adj:sg:loc:m1.m2.m3.n:pos		
 latopisarsko	latopisarski	adja		
-latopisarsku	latopisarski	adjp		
+latopisarsku	latopisarski	adjp:dat		
 latopisarsko	latopisarsko	adv:pos		
 latopisarskościach	latopisarskość	subst:pl:loc:f	nazwa pospolita	
 latopisarskościami	latopisarskość	subst:pl:inst:f	nazwa pospolita	
@@ -10562,7 +10562,7 @@ latynoamerykańskim	latynoamerykański	adj:pl:dat:m1.m2.m3.f.n:pos
 latynoamerykańskim	latynoamerykański	adj:sg:inst:m1.m2.m3.n:pos		
 latynoamerykańskim	latynoamerykański	adj:sg:loc:m1.m2.m3.n:pos		
 latynoamerykańsko	latynoamerykański	adja		
-latynoamerykańsku	latynoamerykański	adjp		
+latynoamerykańsku	latynoamerykański	adjp:dat		
 latynoamerykańsko	latynoamerykańsko	adv:pos		
 latynoamerykańskościach	latynoamerykańskość	subst:pl:loc:f	nazwa pospolita	
 latynoamerykańskościami	latynoamerykańskość	subst:pl:inst:f	nazwa pospolita	
@@ -10599,7 +10599,7 @@ latynoskim	latynoski	adj:pl:dat:m1.m2.m3.f.n:pos
 latynoskim	latynoski	adj:sg:inst:m1.m2.m3.n:pos		
 latynoskim	latynoski	adj:sg:loc:m1.m2.m3.n:pos		
 latynosko	latynoski	adja		
-latynosku	latynoski	adjp		
+latynosku	latynoski	adjp:dat		
 latynosko	latynosko	adv:pos		
 latynoskościach	latynoskość	subst:pl:loc:f	nazwa pospolita	
 latynoskościami	latynoskość	subst:pl:inst:f	nazwa pospolita	
@@ -10636,7 +10636,7 @@ latyńskim	latyński	adj:pl:dat:m1.m2.m3.f.n:pos
 latyńskim	latyński	adj:sg:inst:m1.m2.m3.n:pos		
 latyńskim	latyński	adj:sg:loc:m1.m2.m3.n:pos		
 latyńsko	latyński	adja		
-latyńsku	latyński	adjp		
+latyńsku	latyński	adjp:dat		
 latyńsko	latyńsko	adv:pos		
 latyńskościach	latyńskość	subst:pl:loc:f	nazwa pospolita	
 latyńskościami	latyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -11813,7 +11813,7 @@ lazarońskim	lazaroński	adj:pl:dat:m1.m2.m3.f.n:pos
 lazarońskim	lazaroński	adj:sg:inst:m1.m2.m3.n:pos		
 lazarońskim	lazaroński	adj:sg:loc:m1.m2.m3.n:pos		
 lazarońsko	lazaroński	adja		
-lazarońsku	lazaroński	adjp		
+lazarońsku	lazaroński	adjp:dat		
 lazarońsko	lazarońsko	adv:pos		
 lazarońskościach	lazarońskość	subst:pl:loc:f	nazwa pospolita	
 lazarońskościami	lazarońskość	subst:pl:inst:f	nazwa pospolita	
@@ -12176,7 +12176,7 @@ lądeckim	lądecki	adj:pl:dat:m1.m2.m3.f.n:pos
 lądeckim	lądecki	adj:sg:inst:m1.m2.m3.n:pos		
 lądeckim	lądecki	adj:sg:loc:m1.m2.m3.n:pos		
 lądecko	lądecki	adja		
-lądecku	lądecki	adjp		
+lądecku	lądecki	adjp:dat		
 lądecko	lądecko	adv:pos		
 lądeckościach	lądeckość	subst:pl:loc:f	nazwa pospolita	
 lądeckościami	lądeckość	subst:pl:inst:f	nazwa pospolita	
@@ -12863,7 +12863,7 @@ lechickim	lechicki	adj:pl:dat:m1.m2.m3.f.n:pos
 lechickim	lechicki	adj:sg:inst:m1.m2.m3.n:pos		
 lechickim	lechicki	adj:sg:loc:m1.m2.m3.n:pos		
 lechicko	lechicki	adja		
-lechicku	lechicki	adjp		
+lechicku	lechicki	adjp:dat		
 lechicko	lechicko	adv:pos		
 lechickościach	lechickość	subst:pl:loc:f	nazwa pospolita	
 lechickościami	lechickość	subst:pl:inst:f	nazwa pospolita	
@@ -13590,7 +13590,7 @@ lednickim	lednicki	adj:pl:dat:m1.m2.m3.f.n:pos
 lednickim	lednicki	adj:sg:inst:m1.m2.m3.n:pos		
 lednickim	lednicki	adj:sg:loc:m1.m2.m3.n:pos		
 lednicko	lednicki	adja		
-lednicku	lednicki	adjp		
+lednicku	lednicki	adjp:dat		
 lednicko	lednicko	adv:pos		
 lednickościach	lednickość	subst:pl:loc:f	nazwa pospolita	
 lednickościami	lednickość	subst:pl:inst:f	nazwa pospolita	
@@ -13605,11 +13605,11 @@ lednickość	lednickość	subst:sg:acc:f	nazwa pospolita
 lednickość	lednickość	subst:sg:nom:f	nazwa pospolita	
 ledwie	ledwie:c	comp		
 ledwie	ledwie:d	adv		
-ledwie	ledwie:q	qub		
+ledwie	ledwie:q	part		
 ledwo	ledwo:c	comp		
 ledwo	ledwo:d	adv		
-ledwo	ledwo:q	qub		
-ledwością	ledwością	burk		pot.
+ledwo	ledwo:q	part		
+ledwością	ledwością	frag		pot.
 ledziutcy	ledziutki	adj:pl:nom.voc:m1:pos		daw.
 ledziutka	ledziutki	adj:sg:nom.voc:f:pos		daw.
 ledziutką	ledziutki	adj:sg:acc:f:pos		daw.
@@ -14524,7 +14524,7 @@ legionowskim	legionowski	adj:pl:dat:m1.m2.m3.f.n:pos
 legionowskim	legionowski	adj:sg:inst:m1.m2.m3.n:pos		
 legionowskim	legionowski	adj:sg:loc:m1.m2.m3.n:pos		
 legionowsko	legionowski	adja		
-legionowsku	legionowski	adjp		
+legionowsku	legionowski	adjp:dat		
 legionowsko	legionowsko	adv:pos		
 legionowskościach	legionowskość	subst:pl:loc:f	nazwa pospolita	
 legionowskościami	legionowskość	subst:pl:inst:f	nazwa pospolita	
@@ -14795,7 +14795,7 @@ legitymistowskim	legitymistowski	adj:pl:dat:m1.m2.m3.f.n:pos
 legitymistowskim	legitymistowski	adj:sg:inst:m1.m2.m3.n:pos		
 legitymistowskim	legitymistowski	adj:sg:loc:m1.m2.m3.n:pos		
 legitymistowsko	legitymistowski	adja		
-legitymistowsku	legitymistowski	adjp		
+legitymistowsku	legitymistowski	adjp:dat		
 legitymistowsko	legitymistowsko	adv:pos		
 legitymistowskościach	legitymistowskość	subst:pl:loc:f	nazwa pospolita	
 legitymistowskościami	legitymistowskość	subst:pl:inst:f	nazwa pospolita	
@@ -15254,7 +15254,7 @@ legnickim	legnicki	adj:pl:dat:m1.m2.m3.f.n:pos
 legnickim	legnicki	adj:sg:inst:m1.m2.m3.n:pos		
 legnickim	legnicki	adj:sg:loc:m1.m2.m3.n:pos		
 legnicko	legnicki	adja		
-legnicku	legnicki	adjp		
+legnicku	legnicki	adjp:dat		
 legnicko	legnicko	adv:pos		
 legnickościach	legnickość	subst:pl:loc:f	nazwa pospolita	
 legnickościami	legnickość	subst:pl:inst:f	nazwa pospolita	
@@ -15471,7 +15471,7 @@ leguńskim	leguński	adj:pl:dat:m1.m2.m3.f.n:pos
 leguńskim	leguński	adj:sg:inst:m1.m2.m3.n:pos		
 leguńskim	leguński	adj:sg:loc:m1.m2.m3.n:pos		
 leguńsko	leguński	adja		
-leguńsku	leguński	adjp		
+leguńsku	leguński	adjp:dat		
 leguńsko	leguńsko	adv:pos		
 leguńskościach	leguńskość	subst:pl:loc:f	nazwa pospolita	
 leguńskościami	leguńskość	subst:pl:inst:f	nazwa pospolita	
@@ -15727,7 +15727,7 @@ lejdejskim	lejdejski	adj:pl:dat:m1.m2.m3.f.n:pos
 lejdejskim	lejdejski	adj:sg:inst:m1.m2.m3.n:pos		
 lejdejskim	lejdejski	adj:sg:loc:m1.m2.m3.n:pos		
 lejdejsko	lejdejski	adja		
-lejdejsku	lejdejski	adjp		
+lejdejsku	lejdejski	adjp:dat		
 lejdejsko	lejdejsko	adv:pos		
 lejdejskościach	lejdejskość	subst:pl:loc:f	nazwa pospolita	
 lejdejskościami	lejdejskość	subst:pl:inst:f	nazwa pospolita	
@@ -16156,7 +16156,7 @@ lekarskim	lekarski	adj:pl:dat:m1.m2.m3.f.n:pos
 lekarskim	lekarski	adj:sg:inst:m1.m2.m3.n:pos		
 lekarskim	lekarski	adj:sg:loc:m1.m2.m3.n:pos		
 lekarsko	lekarski	adja		
-lekarsku	lekarski	adjp		
+lekarsku	lekarski	adjp:dat		
 lekarsko	lekarsko	adv:pos		
 lekarskościach	lekarskość	subst:pl:loc:f	nazwa pospolita	
 lekarskościami	lekarskość	subst:pl:inst:f	nazwa pospolita	
@@ -16480,6 +16480,7 @@ lekcyjnym	lekcyjny	adj:pl:dat:m1.m2.m3.f.n:pos
 lekcyjnym	lekcyjny	adj:sg:inst:m1.m2.m3.n:pos		
 lekcyjnym	lekcyjny	adj:sg:loc:m1.m2.m3.n:pos		
 lekcy	lekki	adj:pl:nom.voc:m1:pos		
+lekka	lekki	adjp:gen		
 lekka	lekki	adj:sg:nom.voc:f:pos		
 lekką	lekki	adj:sg:acc:f:pos		
 lekką	lekki	adj:sg:inst:f:pos		
@@ -17375,7 +17376,7 @@ lekomańskim	lekomański	adj:pl:dat:m1.m2.m3.f.n:pos
 lekomańskim	lekomański	adj:sg:inst:m1.m2.m3.n:pos		
 lekomańskim	lekomański	adj:sg:loc:m1.m2.m3.n:pos		
 lekomańsko	lekomański	adja		
-lekomańsku	lekomański	adjp		
+lekomańsku	lekomański	adjp:dat		
 lekomańsko	lekomańsko	adv:pos		
 lekomańskościach	lekomańskość	subst:pl:loc:f	nazwa pospolita	
 lekomańskościami	lekomańskość	subst:pl:inst:f	nazwa pospolita	
@@ -18100,7 +18101,7 @@ lektorskim	lektorski	adj:pl:dat:m1.m2.m3.f.n:pos
 lektorskim	lektorski	adj:sg:inst:m1.m2.m3.n:pos		
 lektorskim	lektorski	adj:sg:loc:m1.m2.m3.n:pos		
 lektorsko	lektorski	adja		
-lektorsku	lektorski	adjp		
+lektorsku	lektorski	adjp:dat		
 lektorsko	lektorsko	adv:pos		
 lektorskościach	lektorskość	subst:pl:loc:f	nazwa pospolita	
 lektorskościami	lektorskość	subst:pl:inst:f	nazwa pospolita	
@@ -18444,7 +18445,7 @@ leliskim	leliski	adj:pl:dat:m1.m2.m3.f.n:pos
 leliskim	leliski	adj:sg:inst:m1.m2.m3.n:pos		
 leliskim	leliski	adj:sg:loc:m1.m2.m3.n:pos		
 lelisko	leliski	adja		
-lelisku	leliski	adjp		
+lelisku	leliski	adjp:dat		
 lelisko	lelisko	adv:pos		
 leliskościach	leliskość	subst:pl:loc:f	nazwa pospolita	
 leliskościami	leliskość	subst:pl:inst:f	nazwa pospolita	
@@ -18481,7 +18482,7 @@ lelkowskim	lelkowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lelkowskim	lelkowski	adj:sg:inst:m1.m2.m3.n:pos		
 lelkowskim	lelkowski	adj:sg:loc:m1.m2.m3.n:pos		
 lelkowsko	lelkowski	adja		
-lelkowsku	lelkowski	adjp		
+lelkowsku	lelkowski	adjp:dat		
 lelkowsko	lelkowsko	adv:pos		
 lelkowskościach	lelkowskość	subst:pl:loc:f	nazwa pospolita	
 lelkowskościami	lelkowskość	subst:pl:inst:f	nazwa pospolita	
@@ -18518,7 +18519,7 @@ lelowskim	lelowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lelowskim	lelowski	adj:sg:inst:m1.m2.m3.n:pos		
 lelowskim	lelowski	adj:sg:loc:m1.m2.m3.n:pos		
 lelowsko	lelowski	adja		
-lelowsku	lelowski	adjp		
+lelowsku	lelowski	adjp:dat		
 lelowsko	lelowsko	adv:pos		
 lelowskościach	lelowskość	subst:pl:loc:f	nazwa pospolita	
 lelowskościami	lelowskość	subst:pl:inst:f	nazwa pospolita	
@@ -18543,7 +18544,7 @@ leluję	leluja	subst:sg:acc:f	nazwa pospolita
 leluj	leluja	subst:pl:gen:f	nazwa pospolita	char.
 lelujo	leluja	subst:sg:voc:f	nazwa pospolita	
 lelujom	leluja	subst:pl:dat:f	nazwa pospolita	
-lelum	lelum	burk		
+lelum	lelum	frag		
 lemanach	leman	subst:pl:loc:m1	nazwa pospolita	
 lemana	leman	subst:sg:gen.acc:m1	nazwa pospolita	
 lemanami	leman	subst:pl:inst:m1	nazwa pospolita	
@@ -18845,7 +18846,7 @@ lendzielskim	lendzielski	adj:pl:dat:m1.m2.m3.f.n:pos
 lendzielskim	lendzielski	adj:sg:inst:m1.m2.m3.n:pos		
 lendzielskim	lendzielski	adj:sg:loc:m1.m2.m3.n:pos		
 lendzielsko	lendzielski	adja		
-lendzielsku	lendzielski	adjp		
+lendzielsku	lendzielski	adjp:dat		
 lendzielsko	lendzielsko	adv:pos		
 lendzielskościach	lendzielskość	subst:pl:loc:f	nazwa pospolita	
 lendzielskościami	lendzielskość	subst:pl:inst:f	nazwa pospolita	
@@ -19147,7 +19148,7 @@ leningradzkim	leningradzki	adj:pl:dat:m1.m2.m3.f.n:pos
 leningradzkim	leningradzki	adj:sg:inst:m1.m2.m3.n:pos		
 leningradzkim	leningradzki	adj:sg:loc:m1.m2.m3.n:pos		
 leningradzko	leningradzki	adja		
-leningradzku	leningradzki	adjp		
+leningradzku	leningradzki	adjp:dat		
 leningradzko	leningradzko	adv:pos		
 leningradzkościach	leningradzkość	subst:pl:loc:f	nazwa pospolita	
 leningradzkościami	leningradzkość	subst:pl:inst:f	nazwa pospolita	
@@ -19213,7 +19214,7 @@ leninowskim	leninowski	adj:pl:dat:m1.m2.m3.f.n:pos
 leninowskim	leninowski	adj:sg:inst:m1.m2.m3.n:pos		
 leninowskim	leninowski	adj:sg:loc:m1.m2.m3.n:pos		
 leninowsko	leninowski	adja		
-leninowsku	leninowski	adjp		
+leninowsku	leninowski	adjp:dat		
 leninowsko	leninowsko	adv:pos		
 leninowskościach	leninowskość	subst:pl:loc:f	nazwa pospolita	
 leninowskościami	leninowskość	subst:pl:inst:f	nazwa pospolita	
@@ -19949,7 +19950,7 @@ leonardowskim	leonardowski	adj:pl:dat:m1.m2.m3.f.n:pos
 leonardowskim	leonardowski	adj:sg:inst:m1.m2.m3.n:pos		
 leonardowskim	leonardowski	adj:sg:loc:m1.m2.m3.n:pos		
 leonardowsko	leonardowski	adja		
-leonardowsku	leonardowski	adjp		
+leonardowsku	leonardowski	adjp:dat		
 leonardowsko	leonardowsko	adv:pos		
 leonardowskościach	leonardowskość	subst:pl:loc:f	nazwa pospolita	
 leonardowskościami	leonardowskość	subst:pl:inst:f	nazwa pospolita	
@@ -19986,7 +19987,7 @@ leoncińskim	leonciński	adj:pl:dat:m1.m2.m3.f.n:pos
 leoncińskim	leonciński	adj:sg:inst:m1.m2.m3.n:pos		
 leoncińskim	leonciński	adj:sg:loc:m1.m2.m3.n:pos		
 leoncińsko	leonciński	adja		
-leoncińsku	leonciński	adjp		
+leoncińsku	leonciński	adjp:dat		
 leoncińsko	leoncińsko	adv:pos		
 leoncińskościach	leoncińskość	subst:pl:loc:f	nazwa pospolita	
 leoncińskościami	leoncińskość	subst:pl:inst:f	nazwa pospolita	
@@ -20045,7 +20046,7 @@ leonińskim	leoniński	adj:pl:dat:m1.m2.m3.f.n:pos
 leonińskim	leoniński	adj:sg:inst:m1.m2.m3.n:pos		
 leonińskim	leoniński	adj:sg:loc:m1.m2.m3.n:pos		
 leonińsko	leoniński	adja		
-leonińsku	leoniński	adjp		
+leonińsku	leoniński	adjp:dat		
 leonińsko	leonińsko	adv:pos		
 leonińskościach	leonińskość	subst:pl:loc:f	nazwa pospolita	
 leonińskościami	leonińskość	subst:pl:inst:f	nazwa pospolita	
@@ -20932,7 +20933,7 @@ lesbijskim	lesbijski	adj:pl:dat:m1.m2.m3.f.n:pos
 lesbijskim	lesbijski	adj:sg:inst:m1.m2.m3.n:pos		
 lesbijskim	lesbijski	adj:sg:loc:m1.m2.m3.n:pos		
 lesbijsko	lesbijski	adja		
-lesbijsku	lesbijski	adjp		
+lesbijsku	lesbijski	adjp:dat		
 lesbijsko	lesbijsko	adv:pos		
 lesbijskościach	lesbijskość	subst:pl:loc:f	nazwa pospolita	
 lesbijskościami	lesbijskość	subst:pl:inst:f	nazwa pospolita	
@@ -21179,7 +21180,7 @@ leskim	leski	adj:pl:dat:m1.m2.m3.f.n:pos
 leskim	leski	adj:sg:inst:m1.m2.m3.n:pos		
 leskim	leski	adj:sg:loc:m1.m2.m3.n:pos		
 lesko	leski	adja		
-lesku	leski	adjp		
+lesku	leski	adjp:dat		
 lesko	lesko	adv:pos		
 leskościach	leskość	subst:pl:loc:f	nazwa pospolita	
 leskościami	leskość	subst:pl:inst:f	nazwa pospolita	
@@ -21410,7 +21411,7 @@ leszczyńskim	leszczyński	adj:pl:dat:m1.m2.m3.f.n:pos
 leszczyńskim	leszczyński	adj:sg:inst:m1.m2.m3.n:pos		
 leszczyńskim	leszczyński	adj:sg:loc:m1.m2.m3.n:pos		
 leszczyńsko	leszczyński	adja		
-leszczyńsku	leszczyński	adjp		
+leszczyńsku	leszczyński	adjp:dat		
 leszczyńsko	leszczyńsko	adv:pos		
 leszczyńskościach	leszczyńskość	subst:pl:loc:f	nazwa pospolita	
 leszczyńskościami	leszczyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -21470,7 +21471,7 @@ lesznowolskim	lesznowolski	adj:pl:dat:m1.m2.m3.f.n:pos
 lesznowolskim	lesznowolski	adj:sg:inst:m1.m2.m3.n:pos		
 lesznowolskim	lesznowolski	adj:sg:loc:m1.m2.m3.n:pos		
 lesznowolsko	lesznowolski	adja		
-lesznowolsku	lesznowolski	adjp		
+lesznowolsku	lesznowolski	adjp:dat		
 lesznowolsko	lesznowolsko	adv:pos		
 lesznowolskościach	lesznowolskość	subst:pl:loc:f	nazwa pospolita	
 lesznowolskościami	lesznowolskość	subst:pl:inst:f	nazwa pospolita	
@@ -21653,7 +21654,7 @@ leśnickim	leśnicki	adj:pl:dat:m1.m2.m3.f.n:pos
 leśnickim	leśnicki	adj:sg:inst:m1.m2.m3.n:pos		
 leśnickim	leśnicki	adj:sg:loc:m1.m2.m3.n:pos		
 leśnicko	leśnicki	adja		
-leśnicku	leśnicki	adjp		
+leśnicku	leśnicki	adjp:dat		
 leśnicko	leśnicko	adv:pos		
 leśnickościach	leśnickość	subst:pl:loc:f	nazwa pospolita	
 leśnickościami	leśnickość	subst:pl:inst:f	nazwa pospolita	
@@ -21796,7 +21797,7 @@ leśnieńskim	leśnieński	adj:pl:dat:m1.m2.m3.f.n:pos
 leśnieńskim	leśnieński	adj:sg:inst:m1.m2.m3.n:pos		
 leśnieńskim	leśnieński	adj:sg:loc:m1.m2.m3.n:pos		
 leśnieńsko	leśnieński	adja		
-leśnieńsku	leśnieński	adjp		
+leśnieńsku	leśnieński	adjp:dat		
 leśnieńsko	leśnieńsko	adv:pos		
 leśnieńskościach	leśnieńskość	subst:pl:loc:f	nazwa pospolita	
 leśnieńskościami	leśnieńskość	subst:pl:inst:f	nazwa pospolita	
@@ -21845,7 +21846,7 @@ leśniowickim	leśniowicki	adj:pl:dat:m1.m2.m3.f.n:pos
 leśniowickim	leśniowicki	adj:sg:inst:m1.m2.m3.n:pos		
 leśniowickim	leśniowicki	adj:sg:loc:m1.m2.m3.n:pos		
 leśniowicko	leśniowicki	adja		
-leśniowicku	leśniowicki	adjp		
+leśniowicku	leśniowicki	adjp:dat		
 leśniowicko	leśniowicko	adv:pos		
 leśniowickościach	leśniowickość	subst:pl:loc:f	nazwa pospolita	
 leśniowickościami	leśniowickość	subst:pl:inst:f	nazwa pospolita	
@@ -22194,7 +22195,7 @@ letejskim	letejski	adj:pl:dat:m1.m2.m3.f.n:pos
 letejskim	letejski	adj:sg:inst:m1.m2.m3.n:pos		
 letejskim	letejski	adj:sg:loc:m1.m2.m3.n:pos		
 letejsko	letejski	adja		
-letejsku	letejski	adjp		
+letejsku	letejski	adjp:dat		
 letejsko	letejsko	adv:pos		
 letejskościach	letejskość	subst:pl:loc:f	nazwa pospolita	
 letejskościami	letejskość	subst:pl:inst:f	nazwa pospolita	
@@ -22690,7 +22691,7 @@ lewackim	lewacki	adj:pl:dat:m1.m2.m3.f.n:pos
 lewackim	lewacki	adj:sg:inst:m1.m2.m3.n:pos		
 lewackim	lewacki	adj:sg:loc:m1.m2.m3.n:pos		
 lewacko	lewacki	adja		
-lewacku	lewacki	adjp		
+lewacku	lewacki	adjp:dat		
 lewacko	lewacko	adv:pos		
 lewackościach	lewackość	subst:pl:loc:f	nazwa pospolita	
 lewackościami	lewackość	subst:pl:inst:f	nazwa pospolita	
@@ -22771,7 +22772,7 @@ lewaluaskim	lewaluaski	adj:pl:dat:m1.m2.m3.f.n:pos
 lewaluaskim	lewaluaski	adj:sg:inst:m1.m2.m3.n:pos		
 lewaluaskim	lewaluaski	adj:sg:loc:m1.m2.m3.n:pos		
 lewaluasko	lewaluaski	adja		
-lewaluasku	lewaluaski	adjp		
+lewaluasku	lewaluaski	adjp:dat		
 lewaluasko	lewaluasko	adv:pos		
 lewaluaskościach	lewaluaskość	subst:pl:loc:f	nazwa pospolita	
 lewaluaskościami	lewaluaskość	subst:pl:inst:f	nazwa pospolita	
@@ -22808,7 +22809,7 @@ lewanckim	lewancki	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
 lewanckim	lewancki	adj:sg:inst:m1.m2.m3.n:pos		daw.
 lewanckim	lewancki	adj:sg:loc:m1.m2.m3.n:pos		daw.
 lewancko	lewancki	adja		daw.
-lewancku	lewancki	adjp		daw.
+lewancku	lewancki	adjp:dat		daw.
 lewancko	lewancko	adv:pos		
 lewanckościach	lewanckość	subst:pl:loc:f	nazwa pospolita	daw.
 lewanckościami	lewanckość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -22867,7 +22868,7 @@ lewantyńskim	lewantyński	adj:pl:dat:m1.m2.m3.f.n:pos
 lewantyńskim	lewantyński	adj:sg:inst:m1.m2.m3.n:pos		
 lewantyńskim	lewantyński	adj:sg:loc:m1.m2.m3.n:pos		
 lewantyńsko	lewantyński	adja		
-lewantyńsku	lewantyński	adjp		
+lewantyńsku	lewantyński	adjp:dat		
 lewantyńsko	lewantyńsko	adv:pos		
 lewantyńskościach	lewantyńskość	subst:pl:loc:f	nazwa pospolita	
 lewantyńskościami	lewantyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -23105,7 +23106,7 @@ lewickim	lewicki	adj:pl:dat:m1.m2.m3.f.n:pos
 lewickim	lewicki	adj:sg:inst:m1.m2.m3.n:pos		
 lewickim	lewicki	adj:sg:loc:m1.m2.m3.n:pos		
 lewicko	lewicki	adja		
-lewicku	lewicki	adjp		
+lewicku	lewicki	adjp:dat		
 lewicko	lewicko	adv:pos		
 lewickościach	lewickość	subst:pl:loc:f	nazwa pospolita	
 lewickościami	lewickość	subst:pl:inst:f	nazwa pospolita	
@@ -23264,7 +23265,7 @@ lewińskim	lewiński	adj:pl:dat:m1.m2.m3.f.n:pos
 lewińskim	lewiński	adj:sg:inst:m1.m2.m3.n:pos		
 lewińskim	lewiński	adj:sg:loc:m1.m2.m3.n:pos		
 lewińsko	lewiński	adja		
-lewińsku	lewiński	adjp		
+lewińsku	lewiński	adjp:dat		
 lewińsko	lewińsko	adv:pos		
 lewińskościach	lewińskość	subst:pl:loc:f	nazwa pospolita	
 lewińskościami	lewińskość	subst:pl:inst:f	nazwa pospolita	
@@ -23998,7 +23999,7 @@ lezgińskim	lezgiński:a	adj:pl:dat:m1.m2.m3.f.n:pos
 lezgińskim	lezgiński:a	adj:sg:inst:m1.m2.m3.n:pos		
 lezgińskim	lezgiński:a	adj:sg:loc:m1.m2.m3.n:pos		
 lezgińsko	lezgiński:a	adja		
-lezgińsku	lezgiński:a	adjp		
+lezgińsku	lezgiński:a	adjp:dat		
 lezgińskich	lezgiński:s	subst:pl:gen:m3	nazwa pospolita	
 lezgińskich	lezgiński:s	subst:pl:loc:m3	nazwa pospolita	
 lezgińskiego	lezgiński:s	subst:sg:gen:m3	nazwa pospolita	
@@ -24163,7 +24164,7 @@ leżajskim	leżajski	adj:pl:dat:m1.m2.m3.f.n:pos
 leżajskim	leżajski	adj:sg:inst:m1.m2.m3.n:pos		
 leżajskim	leżajski	adj:sg:loc:m1.m2.m3.n:pos		
 leżajsko	leżajski	adja		
-leżajsku	leżajski	adjp		
+leżajsku	leżajski	adjp:dat		
 leżajsko	leżajsko	adv:pos		
 leżajskościach	leżajskość	subst:pl:loc:f	nazwa pospolita	
 leżajskościami	leżajskość	subst:pl:inst:f	nazwa pospolita	
@@ -24650,7 +24651,7 @@ lęborskim	lęborski	adj:pl:dat:m1.m2.m3.f.n:pos
 lęborskim	lęborski	adj:sg:inst:m1.m2.m3.n:pos		
 lęborskim	lęborski	adj:sg:loc:m1.m2.m3.n:pos		
 lęborsko	lęborski	adja		
-lęborsku	lęborski	adjp		
+lęborsku	lęborski	adjp:dat		
 lęborsko	lęborsko	adv:pos		
 lęborskościach	lęborskość	subst:pl:loc:f	nazwa pospolita	
 lęborskościami	lęborskość	subst:pl:inst:f	nazwa pospolita	
@@ -24698,7 +24699,7 @@ lędzińskim	lędziński	adj:pl:dat:m1.m2.m3.f.n:pos
 lędzińskim	lędziński	adj:sg:inst:m1.m2.m3.n:pos		
 lędzińskim	lędziński	adj:sg:loc:m1.m2.m3.n:pos		
 lędzińsko	lędziński	adja		
-lędzińsku	lędziński	adjp		
+lędzińsku	lędziński	adjp:dat		
 lędzińsko	lędzińsko	adv:pos		
 lędzińskościach	lędzińskość	subst:pl:loc:f	nazwa pospolita	
 lędzińskościami	lędzińskość	subst:pl:inst:f	nazwa pospolita	
@@ -25522,7 +25523,7 @@ libańskim	libański	adj:pl:dat:m1.m2.m3.f.n:pos
 libańskim	libański	adj:sg:inst:m1.m2.m3.n:pos		
 libańskim	libański	adj:sg:loc:m1.m2.m3.n:pos		
 libańsko	libański	adja		
-libańsku	libański	adjp		
+libańsku	libański	adjp:dat		
 libańsko	libańsko	adv:pos		
 libańskościach	libańskość	subst:pl:loc:f	nazwa pospolita	
 libańskościami	libańskość	subst:pl:inst:f	nazwa pospolita	
@@ -26032,7 +26033,7 @@ libertariańskim	libertariański	adj:pl:dat:m1.m2.m3.f.n:pos
 libertariańskim	libertariański	adj:sg:inst:m1.m2.m3.n:pos		
 libertariańskim	libertariański	adj:sg:loc:m1.m2.m3.n:pos		
 libertariańsko	libertariański	adja		
-libertariańsku	libertariański	adjp		
+libertariańsku	libertariański	adjp:dat		
 libertariańsko	libertariańsko	adv:pos		
 libertariańskościach	libertariańskość	subst:pl:loc:f	nazwa pospolita	
 libertariańskościami	libertariańskość	subst:pl:inst:f	nazwa pospolita	
@@ -26216,7 +26217,7 @@ libertyńskim	libertyński	adj:pl:dat:m1.m2.m3.f.n:pos
 libertyńskim	libertyński	adj:sg:inst:m1.m2.m3.n:pos		
 libertyńskim	libertyński	adj:sg:loc:m1.m2.m3.n:pos		
 libertyńsko	libertyński	adja		
-libertyńsku	libertyński	adjp		
+libertyńsku	libertyński	adjp:dat		
 libertyńsko	libertyńsko	adv:pos		
 libertyńskościach	libertyńskość	subst:pl:loc:f	nazwa pospolita	
 libertyńskościami	libertyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -26298,7 +26299,7 @@ liberyjskim	liberyjski	adj:pl:dat:m1.m2.m3.f.n:pos
 liberyjskim	liberyjski	adj:sg:inst:m1.m2.m3.n:pos		
 liberyjskim	liberyjski	adj:sg:loc:m1.m2.m3.n:pos		
 liberyjsko	liberyjski	adja		
-liberyjsku	liberyjski	adjp		
+liberyjsku	liberyjski	adjp:dat		
 liberyjsko	liberyjsko	adv:pos		
 liberyjskościach	liberyjskość	subst:pl:loc:f	nazwa pospolita	
 liberyjskościami	liberyjskość	subst:pl:inst:f	nazwa pospolita	
@@ -26335,7 +26336,7 @@ libiąskim	libiąski	adj:pl:dat:m1.m2.m3.f.n:pos
 libiąskim	libiąski	adj:sg:inst:m1.m2.m3.n:pos		
 libiąskim	libiąski	adj:sg:loc:m1.m2.m3.n:pos		
 libiąsko	libiąski	adja		
-libiąsku	libiąski	adjp		
+libiąsku	libiąski	adjp:dat		
 libiąsko	libiąsko	adv:pos		
 libiąskościach	libiąskość	subst:pl:loc:f	nazwa pospolita	
 libiąskościami	libiąskość	subst:pl:inst:f	nazwa pospolita	
@@ -26419,7 +26420,7 @@ libijskim	libijski	adj:pl:dat:m1.m2.m3.f.n:pos
 libijskim	libijski	adj:sg:inst:m1.m2.m3.n:pos		
 libijskim	libijski	adj:sg:loc:m1.m2.m3.n:pos		
 libijsko	libijski	adja		
-libijsku	libijski	adjp		
+libijsku	libijski	adjp:dat		
 libijsko	libijsko	adv:pos		
 libijskościach	libijskość	subst:pl:loc:f	nazwa pospolita	
 libijskościami	libijskość	subst:pl:inst:f	nazwa pospolita	
@@ -26547,7 +26548,7 @@ librewilskim	librewilski	adj:pl:dat:m1.m2.m3.f.n:pos
 librewilskim	librewilski	adj:sg:inst:m1.m2.m3.n:pos		
 librewilskim	librewilski	adj:sg:loc:m1.m2.m3.n:pos		
 librewilsko	librewilski	adja		
-librewilsku	librewilski	adjp		
+librewilsku	librewilski	adjp:dat		
 librewilsko	librewilsko	adv:pos		
 librewilskościach	librewilskość	subst:pl:loc:f	nazwa pospolita	
 librewilskościami	librewilskość	subst:pl:inst:f	nazwa pospolita	
@@ -26664,7 +26665,7 @@ licejskim	licejski	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
 licejskim	licejski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 licejskim	licejski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 licejsko	licejski	adja		daw.
-licejsku	licejski	adjp		daw.
+licejsku	licejski	adjp:dat		daw.
 licejsko	licejsko	adv:pos		daw.
 licejskościach	licejskość	subst:pl:loc:f	nazwa pospolita	daw.
 licejskościami	licejskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -26713,7 +26714,7 @@ licencjackim	licencjacki	adj:pl:dat:m1.m2.m3.f.n:pos
 licencjackim	licencjacki	adj:sg:inst:m1.m2.m3.n:pos		
 licencjackim	licencjacki	adj:sg:loc:m1.m2.m3.n:pos		
 licencjacko	licencjacki	adja		
-licencjacku	licencjacki	adjp		
+licencjacku	licencjacki	adjp:dat		
 licencjacko	licencjacko	adv:pos		
 licencjacie	licencjat:s1	subst:sg:loc:m1	nazwa pospolita	
 licencjacie	licencjat:s1	subst:sg:voc:m1	nazwa pospolita	
@@ -27093,7 +27094,7 @@ licheńskim	licheński	adj:pl:dat:m1.m2.m3.f.n:pos
 licheńskim	licheński	adj:sg:inst:m1.m2.m3.n:pos		
 licheńskim	licheński	adj:sg:loc:m1.m2.m3.n:pos		
 licheńsko	licheński	adja		
-licheńsku	licheński	adjp		
+licheńsku	licheński	adjp:dat		
 licheńsko	licheńsko	adv:pos		
 licheńskościach	licheńskość	subst:pl:loc:f	nazwa pospolita	
 licheńskościami	licheńskość	subst:pl:inst:f	nazwa pospolita	
@@ -27188,7 +27189,7 @@ lichnowskim	lichnowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lichnowskim	lichnowski	adj:sg:inst:m1.m2.m3.n:pos		
 lichnowskim	lichnowski	adj:sg:loc:m1.m2.m3.n:pos		
 lichnowsko	lichnowski	adja		
-lichnowsku	lichnowski	adjp		
+lichnowsku	lichnowski	adjp:dat		
 lichnowsko	lichnowsko	adv:pos		
 lichnowskościach	lichnowskość	subst:pl:loc:f	nazwa pospolita	
 lichnowskościami	lichnowskość	subst:pl:inst:f	nazwa pospolita	
@@ -27506,7 +27507,7 @@ lichwiarskim	lichwiarski	adj:pl:dat:m1.m2.m3.f.n:pos
 lichwiarskim	lichwiarski	adj:sg:inst:m1.m2.m3.n:pos		
 lichwiarskim	lichwiarski	adj:sg:loc:m1.m2.m3.n:pos		
 lichwiarsko	lichwiarski	adja		
-lichwiarsku	lichwiarski	adjp		
+lichwiarsku	lichwiarski	adjp:dat		
 lichwiarsko	lichwiarsko	adv:pos		
 lichwiarskościach	lichwiarskość	subst:pl:loc:f	nazwa pospolita	
 lichwiarskościami	lichwiarskość	subst:pl:inst:f	nazwa pospolita	
@@ -27942,7 +27943,7 @@ licyjskim	licyjski	adj:pl:dat:m1.m2.m3.f.n:pos
 licyjskim	licyjski	adj:sg:inst:m1.m2.m3.n:pos		
 licyjskim	licyjski	adj:sg:loc:m1.m2.m3.n:pos		
 licyjsko	licyjski	adja		
-licyjsku	licyjski	adjp		
+licyjsku	licyjski	adjp:dat		
 licyjsko	licyjsko	adv:pos		
 licyjskościach	licyjskość	subst:pl:loc:f	nazwa pospolita	
 licyjskościami	licyjskość	subst:pl:inst:f	nazwa pospolita	
@@ -29069,7 +29070,7 @@ lidyjskim	lidyjski	adj:pl:dat:m1.m2.m3.f.n:pos
 lidyjskim	lidyjski	adj:sg:inst:m1.m2.m3.n:pos		
 lidyjskim	lidyjski	adj:sg:loc:m1.m2.m3.n:pos		
 lidyjsko	lidyjski	adja		
-lidyjsku	lidyjski	adjp		
+lidyjsku	lidyjski	adjp:dat		
 lidyjsko	lidyjsko	adv:pos		
 lidyjskościach	lidyjskość	subst:pl:loc:f	nazwa pospolita	
 lidyjskościami	lidyjskość	subst:pl:inst:f	nazwa pospolita	
@@ -29117,7 +29118,7 @@ lidzbarskim	lidzbarski	adj:pl:dat:m1.m2.m3.f.n:pos
 lidzbarskim	lidzbarski	adj:sg:inst:m1.m2.m3.n:pos		
 lidzbarskim	lidzbarski	adj:sg:loc:m1.m2.m3.n:pos		
 lidzbarsko	lidzbarski	adja		
-lidzbarsku	lidzbarski	adjp		
+lidzbarsku	lidzbarski	adjp:dat		
 lidzbarsko	lidzbarsko	adv:pos		
 lidzbarskościach	lidzbarskość	subst:pl:loc:f	nazwa pospolita	
 lidzbarskościami	lidzbarskość	subst:pl:inst:f	nazwa pospolita	
@@ -29154,7 +29155,7 @@ lidzkim	lidzki	adj:pl:dat:m1.m2.m3.f.n:pos
 lidzkim	lidzki	adj:sg:inst:m1.m2.m3.n:pos		
 lidzkim	lidzki	adj:sg:loc:m1.m2.m3.n:pos		
 lidzko	lidzki	adja		
-lidzku	lidzki	adjp		
+lidzku	lidzki	adjp:dat		
 lidzko	lidzko	adv:pos		
 lidzkościach	lidzkość	subst:pl:loc:f	nazwa pospolita	
 lidzkościami	lidzkość	subst:pl:inst:f	nazwa pospolita	
@@ -30013,7 +30014,7 @@ liguryjskim	liguryjski	adj:pl:dat:m1.m2.m3.f.n:pos
 liguryjskim	liguryjski	adj:sg:inst:m1.m2.m3.n:pos		
 liguryjskim	liguryjski	adj:sg:loc:m1.m2.m3.n:pos		
 liguryjsko	liguryjski	adja		
-liguryjsku	liguryjski	adjp		
+liguryjsku	liguryjski	adjp:dat		
 liguryjsko	liguryjsko	adv:pos		
 liguryjskościach	liguryjskość	subst:pl:loc:f	nazwa pospolita	
 liguryjskościami	liguryjskość	subst:pl:inst:f	nazwa pospolita	
@@ -30141,7 +30142,7 @@ likaońskim	likaoński	adj:pl:dat:m1.m2.m3.f.n:pos
 likaońskim	likaoński	adj:sg:inst:m1.m2.m3.n:pos		
 likaońskim	likaoński	adj:sg:loc:m1.m2.m3.n:pos		
 likaońsko	likaoński	adja		
-likaońsku	likaoński	adjp		
+likaońsku	likaoński	adjp:dat		
 likaońsko	likaońsko	adv:pos		
 likaońskościach	likaońskość	subst:pl:loc:f	nazwa pospolita	
 likaońskościami	likaońskość	subst:pl:inst:f	nazwa pospolita	
@@ -30380,7 +30381,7 @@ liktorskim	liktorski	adj:pl:dat:m1.m2.m3.f.n:pos
 liktorskim	liktorski	adj:sg:inst:m1.m2.m3.n:pos		
 liktorskim	liktorski	adj:sg:loc:m1.m2.m3.n:pos		
 liktorsko	liktorski	adja		
-liktorsku	liktorski	adjp		
+liktorsku	liktorski	adjp:dat		
 liktorsko	liktorsko	adv:pos		
 liktorskościach	liktorskość	subst:pl:loc:f	nazwa pospolita	
 liktorskościami	liktorskość	subst:pl:inst:f	nazwa pospolita	
@@ -30488,7 +30489,7 @@ likwidatorskim	likwidatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 likwidatorskim	likwidatorski	adj:sg:inst:m1.m2.m3.n:pos		
 likwidatorskim	likwidatorski	adj:sg:loc:m1.m2.m3.n:pos		
 likwidatorsko	likwidatorski	adja		
-likwidatorsku	likwidatorski	adjp		
+likwidatorsku	likwidatorski	adjp:dat		
 likwidatorsko	likwidatorsko	adv:pos		
 likwidatorskościach	likwidatorskość	subst:pl:loc:f	nazwa pospolita	
 likwidatorskościami	likwidatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -31047,7 +31048,7 @@ liliowoniebieskim	liliowoniebieski	adj:pl:dat:m1.m2.m3.f.n:pos
 liliowoniebieskim	liliowoniebieski	adj:sg:inst:m1.m2.m3.n:pos		
 liliowoniebieskim	liliowoniebieski	adj:sg:loc:m1.m2.m3.n:pos		
 liliowoniebiesko	liliowoniebieski	adja		
-liliowoniebiesku	liliowoniebieski	adjp		
+liliowoniebiesku	liliowoniebieski	adjp:dat		
 liliowoniebiesko	liliowoniebiesko	adv:pos		
 liliowoniebieskościach	liliowoniebieskość	subst:pl:loc:f	nazwa pospolita	
 liliowoniebieskościami	liliowoniebieskość	subst:pl:inst:f	nazwa pospolita	
@@ -31238,7 +31239,7 @@ lilipuckim	lilipucki	adj:pl:dat:m1.m2.m3.f.n:pos		przest.
 lilipuckim	lilipucki	adj:sg:inst:m1.m2.m3.n:pos		przest.
 lilipuckim	lilipucki	adj:sg:loc:m1.m2.m3.n:pos		przest.
 lilipucko	lilipucki	adja		przest.
-lilipucku	lilipucki	adjp		przest.
+lilipucku	lilipucki	adjp:dat		przest.
 lilipucko	lilipucko	adv:pos		
 lilipuckościach	lilipuckość	subst:pl:loc:f	nazwa pospolita	przest.
 lilipuckościami	lilipuckość	subst:pl:inst:f	nazwa pospolita	przest.
@@ -31423,7 +31424,7 @@ limanowskim	limanowski	adj:pl:dat:m1.m2.m3.f.n:pos
 limanowskim	limanowski	adj:sg:inst:m1.m2.m3.n:pos		
 limanowskim	limanowski	adj:sg:loc:m1.m2.m3.n:pos		
 limanowsko	limanowski	adja		
-limanowsku	limanowski	adjp		
+limanowsku	limanowski	adjp:dat		
 limanowsko	limanowsko	adv:pos		
 limanowskościach	limanowskość	subst:pl:loc:f	nazwa pospolita	
 limanowskościami	limanowskość	subst:pl:inst:f	nazwa pospolita	
@@ -31565,7 +31566,7 @@ limburskim	limburski	adj:pl:dat:m1.m2.m3.f.n:pos
 limburskim	limburski	adj:sg:inst:m1.m2.m3.n:pos		
 limburskim	limburski	adj:sg:loc:m1.m2.m3.n:pos		
 limbursko	limburski	adja		
-limbursku	limburski	adjp		
+limbursku	limburski	adjp:dat		
 limbursko	limbursko	adv:pos		
 limburskościach	limburskość	subst:pl:loc:f	nazwa pospolita	
 limburskościami	limburskość	subst:pl:inst:f	nazwa pospolita	
@@ -32380,7 +32381,7 @@ limskim	limski	adj:pl:dat:m1.m2.m3.f.n:pos
 limskim	limski	adj:sg:inst:m1.m2.m3.n:pos		
 limskim	limski	adj:sg:loc:m1.m2.m3.n:pos		
 limsko	limski	adja		
-limsku	limski	adjp		
+limsku	limski	adjp:dat		
 limsko	limsko	adv:pos		
 limskościach	limskość	subst:pl:loc:f	nazwa pospolita	
 limskościami	limskość	subst:pl:inst:f	nazwa pospolita	
@@ -32955,7 +32956,7 @@ linierskim	linierski	adj:pl:dat:m1.m2.m3.f.n:pos
 linierskim	linierski	adj:sg:inst:m1.m2.m3.n:pos		
 linierskim	linierski	adj:sg:loc:m1.m2.m3.n:pos		
 liniersko	linierski	adja		
-liniersku	linierski	adjp		
+liniersku	linierski	adjp:dat		
 liniersko	liniersko	adv:pos		
 linierskościach	linierskość	subst:pl:loc:f	nazwa pospolita	
 linierskościami	linierskość	subst:pl:inst:f	nazwa pospolita	
@@ -33788,7 +33789,7 @@ lińskim	liński	adj:pl:dat:m1.m2.m3.f.n:pos
 lińskim	liński	adj:sg:inst:m1.m2.m3.n:pos		
 lińskim	liński	adj:sg:loc:m1.m2.m3.n:pos		
 lińsko	liński	adja		
-lińsku	liński	adjp		
+lińsku	liński	adjp:dat		
 lińsko	lińsko	adv:pos		
 lińskościach	lińskość	subst:pl:loc:f	nazwa pospolita	
 lińskościami	lińskość	subst:pl:inst:f	nazwa pospolita	
@@ -33972,7 +33973,7 @@ liońskim	lioński	adj:pl:dat:m1.m2.m3.f.n:pos
 liońskim	lioński	adj:sg:inst:m1.m2.m3.n:pos		
 liońskim	lioński	adj:sg:loc:m1.m2.m3.n:pos		
 liońsko	lioński	adja		
-liońsku	lioński	adjp		
+liońsku	lioński	adjp:dat		
 liońsko	liońsko	adv:pos		
 liońskościach	liońskość	subst:pl:loc:f	nazwa pospolita	
 liońskościami	liońskość	subst:pl:inst:f	nazwa pospolita	
@@ -34042,7 +34043,7 @@ lipawskim	lipawski	adj:pl:dat:m1.m2.m3.f.n:pos
 lipawskim	lipawski	adj:sg:inst:m1.m2.m3.n:pos		
 lipawskim	lipawski	adj:sg:loc:m1.m2.m3.n:pos		
 lipawsko	lipawski	adja		
-lipawsku	lipawski	adjp		
+lipawsku	lipawski	adjp:dat		
 lipawsko	lipawsko	adv:pos		
 lipawskościach	lipawskość	subst:pl:loc:f	nazwa pospolita	
 lipawskościami	lipawskość	subst:pl:inst:f	nazwa pospolita	
@@ -34147,7 +34148,7 @@ lipeckim	lipecki	adj:pl:dat:m1.m2.m3.f.n:pos
 lipeckim	lipecki	adj:sg:inst:m1.m2.m3.n:pos		
 lipeckim	lipecki	adj:sg:loc:m1.m2.m3.n:pos		
 lipecko	lipecki	adja		
-lipecku	lipecki	adjp		
+lipecku	lipecki	adjp:dat		
 lipecko	lipecko	adv:pos		
 lipeckościach	lipeckość	subst:pl:loc:f	nazwa pospolita	
 lipeckościami	lipeckość	subst:pl:inst:f	nazwa pospolita	
@@ -34195,7 +34196,7 @@ lipiańskim	lipiański	adj:pl:dat:m1.m2.m3.f.n:pos
 lipiańskim	lipiański	adj:sg:inst:m1.m2.m3.n:pos		
 lipiańskim	lipiański	adj:sg:loc:m1.m2.m3.n:pos		
 lipiańsko	lipiański	adja		
-lipiańsku	lipiański	adjp		
+lipiańsku	lipiański	adjp:dat		
 lipiańsko	lipiańsko	adv:pos		
 lipiańskościach	lipiańskość	subst:pl:loc:f	nazwa pospolita	
 lipiańskościami	lipiańskość	subst:pl:inst:f	nazwa pospolita	
@@ -34347,7 +34348,7 @@ lipieńskim	lipieński	adj:pl:dat:m1.m2.m3.f.n:pos
 lipieńskim	lipieński	adj:sg:inst:m1.m2.m3.n:pos		
 lipieńskim	lipieński	adj:sg:loc:m1.m2.m3.n:pos		
 lipieńsko	lipieński	adja		
-lipieńsku	lipieński	adjp		
+lipieńsku	lipieński	adjp:dat		
 lipieńsko	lipieńsko	adv:pos		
 lipieńskościach	lipieńskość	subst:pl:loc:f	nazwa pospolita	
 lipieńskościami	lipieńskość	subst:pl:inst:f	nazwa pospolita	
@@ -34547,7 +34548,7 @@ lipnickim	lipnicki	adj:pl:dat:m1.m2.m3.f.n:pos
 lipnickim	lipnicki	adj:sg:inst:m1.m2.m3.n:pos		
 lipnickim	lipnicki	adj:sg:loc:m1.m2.m3.n:pos		
 lipnicko	lipnicki	adja		
-lipnicku	lipnicki	adjp		
+lipnicku	lipnicki	adjp:dat		
 lipnicko	lipnicko	adv:pos		
 lipnickościach	lipnickość	subst:pl:loc:f	nazwa pospolita	
 lipnickościami	lipnickość	subst:pl:inst:f	nazwa pospolita	
@@ -34606,7 +34607,7 @@ lipnowskim	lipnowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lipnowskim	lipnowski	adj:sg:inst:m1.m2.m3.n:pos		
 lipnowskim	lipnowski	adj:sg:loc:m1.m2.m3.n:pos		
 lipnowsko	lipnowski	adja		
-lipnowsku	lipnowski	adjp		
+lipnowsku	lipnowski	adjp:dat		
 lipnowsko	lipnowsko	adv:pos		
 lipnowskościach	lipnowskość	subst:pl:loc:f	nazwa pospolita	
 lipnowskościami	lipnowskość	subst:pl:inst:f	nazwa pospolita	
@@ -34839,7 +34840,7 @@ lipowskim	lipowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lipowskim	lipowski	adj:sg:inst:m1.m2.m3.n:pos		
 lipowskim	lipowski	adj:sg:loc:m1.m2.m3.n:pos		
 lipowsko	lipowski	adja		
-lipowsku	lipowski	adjp		
+lipowsku	lipowski	adjp:dat		
 lipowsko	lipowsko	adv:pos		
 lipowskościach	lipowskość	subst:pl:loc:f	nazwa pospolita	
 lipowskościami	lipowskość	subst:pl:inst:f	nazwa pospolita	
@@ -34900,7 +34901,7 @@ lipskim	lipski	adj:pl:dat:m1.m2.m3.f.n:pos
 lipskim	lipski	adj:sg:inst:m1.m2.m3.n:pos		
 lipskim	lipski	adj:sg:loc:m1.m2.m3.n:pos		
 lipsko	lipski	adja		
-lipsku	lipski	adjp		
+lipsku	lipski	adjp:dat		
 lipsko	lipsko	adv:pos		
 lipskościach	lipskość	subst:pl:loc:f	nazwa pospolita	
 lipskościami	lipskość	subst:pl:inst:f	nazwa pospolita	
@@ -34948,7 +34949,7 @@ liptowskim	liptowski	adj:pl:dat:m1.m2.m3.f.n:pos
 liptowskim	liptowski	adj:sg:inst:m1.m2.m3.n:pos		
 liptowskim	liptowski	adj:sg:loc:m1.m2.m3.n:pos		
 liptowsko	liptowski	adja		
-liptowsku	liptowski	adjp		
+liptowsku	liptowski	adjp:dat		
 liptowsko	liptowsko	adv:pos		
 liptowskościach	liptowskość	subst:pl:loc:f	nazwa pospolita	
 liptowskościami	liptowskość	subst:pl:inst:f	nazwa pospolita	
@@ -34961,8 +34962,8 @@ liptowskości	liptowskość	subst:sg:voc:f	nazwa pospolita
 liptowskościom	liptowskość	subst:pl:dat:f	nazwa pospolita	
 liptowskość	liptowskość	subst:sg:acc:f	nazwa pospolita	
 liptowskość	liptowskość	subst:sg:nom:f	nazwa pospolita	
-li	li:q1	qub		przest.
-li	li:q2	qub		przest._dziś_książk.
+li	li:q1	part		przest.
+li	li:q2	part		przest._dziś_książk.
 lirach	lir	subst:pl:loc:m2	nazwa pospolita	
 lira	lir	subst:sg:gen.acc:m2	nazwa pospolita	
 lirami	lir	subst:pl:inst:m2	nazwa pospolita	
@@ -35612,7 +35613,7 @@ liskowskim	liskowski	adj:pl:dat:m1.m2.m3.f.n:pos
 liskowskim	liskowski	adj:sg:inst:m1.m2.m3.n:pos		
 liskowskim	liskowski	adj:sg:loc:m1.m2.m3.n:pos		
 liskowsko	liskowski	adja		
-liskowsku	liskowski	adjp		
+liskowsku	liskowski	adjp:dat		
 liskowsko	liskowsko	adv:pos		
 liskowskościach	liskowskość	subst:pl:loc:f	nazwa pospolita	
 liskowskościami	liskowskość	subst:pl:inst:f	nazwa pospolita	
@@ -35707,7 +35708,7 @@ lisowskim	lisowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lisowskim	lisowski	adj:sg:inst:m1.m2.m3.n:pos		
 lisowskim	lisowski	adj:sg:loc:m1.m2.m3.n:pos		
 lisowsko	lisowski	adja		
-lisowsku	lisowski	adjp		
+lisowsku	lisowski	adjp:dat		
 lisowsko	lisowsko	adv:pos		
 lisowskościach	lisowskość	subst:pl:loc:f	nazwa pospolita	
 lisowskościami	lisowskość	subst:pl:inst:f	nazwa pospolita	
@@ -37493,7 +37494,7 @@ literackim	literacki	adj:pl:dat:m1.m2.m3.f.n:pos
 literackim	literacki	adj:sg:inst:m1.m2.m3.n:pos		
 literackim	literacki	adj:sg:loc:m1.m2.m3.n:pos		
 literacko	literacki	adja		
-literacku	literacki	adjp		
+literacku	literacki	adjp:dat		
 literacko	literacko	adv:pos		
 literackościach	literackość	subst:pl:loc:f	nazwa pospolita	
 literackościami	literackość	subst:pl:inst:f	nazwa pospolita	
@@ -37940,6 +37941,7 @@ litewko	litewka	subst:sg:voc:f	nazwa pospolita	przest.
 litewkom	litewka	subst:pl:dat:f	nazwa pospolita	przest.
 lit	litewski	brev:pun		
 litewscy	litewski:a	adj:pl:nom.voc:m1:pos		
+litewska	litewski:a	adjp:gen		
 litewska	litewski:a	adj:sg:nom.voc:f:pos		
 litewską	litewski:a	adj:sg:acc:f:pos		
 litewską	litewski:a	adj:sg:inst:f:pos		
@@ -37963,7 +37965,7 @@ litewskim	litewski:a	adj:pl:dat:m1.m2.m3.f.n:pos
 litewskim	litewski:a	adj:sg:inst:m1.m2.m3.n:pos		
 litewskim	litewski:a	adj:sg:loc:m1.m2.m3.n:pos		
 litewsko	litewski:a	adja		
-litewsku	litewski:a	adjp		
+litewsku	litewski:a	adjp:dat		
 litewskich	litewski:s	subst:pl:gen:m3	nazwa pospolita	
 litewskich	litewski:s	subst:pl:loc:m3	nazwa pospolita	
 litewskiego	litewski:s	subst:sg:gen:m3	nazwa pospolita	
@@ -39429,7 +39431,7 @@ litwackim	litwacki	adj:pl:dat:m1.m2.m3.f.n:pos
 litwackim	litwacki	adj:sg:inst:m1.m2.m3.n:pos		
 litwackim	litwacki	adj:sg:loc:m1.m2.m3.n:pos		
 litwacko	litwacki	adja		
-litwacku	litwacki	adjp		
+litwacku	litwacki	adjp:dat		
 litwacko	litwacko	adv:pos		
 litwackościach	litwackość	subst:pl:loc:f	nazwa pospolita	
 litwackościami	litwackość	subst:pl:inst:f	nazwa pospolita	
@@ -39781,7 +39783,7 @@ liverpoolskim	liverpoolski	adj:pl:dat:m1.m2.m3.f.n:pos
 liverpoolskim	liverpoolski	adj:sg:inst:m1.m2.m3.n:pos		
 liverpoolskim	liverpoolski	adj:sg:loc:m1.m2.m3.n:pos		
 liverpoolsko	liverpoolski	adja		
-liverpoolsku	liverpoolski	adjp		
+liverpoolsku	liverpoolski	adjp:dat		
 liverpoolsko	liverpoolsko	adv:pos		
 liverpoolskościach	liverpoolskość	subst:pl:loc:f	nazwa pospolita	
 liverpoolskościami	liverpoolskość	subst:pl:inst:f	nazwa pospolita	
@@ -40010,7 +40012,7 @@ liwskim	liwski	adj:pl:dat:m1.m2.m3.f.n:pos
 liwskim	liwski	adj:sg:inst:m1.m2.m3.n:pos		
 liwskim	liwski	adj:sg:loc:m1.m2.m3.n:pos		
 liwsko	liwski	adja		
-liwsku	liwski	adjp		
+liwsku	liwski	adjp:dat		
 liwsko	liwsko	adv:pos		
 liwskościach	liwskość	subst:pl:loc:f	nazwa pospolita	
 liwskościami	liwskość	subst:pl:inst:f	nazwa pospolita	
@@ -40285,7 +40287,7 @@ lizbońskim	lizboński	adj:pl:dat:m1.m2.m3.f.n:pos
 lizbońskim	lizboński	adj:sg:inst:m1.m2.m3.n:pos		
 lizbońskim	lizboński	adj:sg:loc:m1.m2.m3.n:pos		
 lizbońsko	lizboński	adja		
-lizbońsku	lizboński	adjp		
+lizbońsku	lizboński	adjp:dat		
 lizbońsko	lizbońsko	adv:pos		
 lizbońskościach	lizbońskość	subst:pl:loc:f	nazwa pospolita	
 lizbońskościami	lizbońskość	subst:pl:inst:f	nazwa pospolita	
@@ -40857,7 +40859,7 @@ lizusowskim	lizusowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lizusowskim	lizusowski	adj:sg:inst:m1.m2.m3.n:pos		
 lizusowskim	lizusowski	adj:sg:loc:m1.m2.m3.n:pos		
 lizusowsko	lizusowski	adja		
-lizusowsku	lizusowski	adjp		
+lizusowsku	lizusowski	adjp:dat		
 lizusowsko	lizusowsko	adv:pos		
 lizusowskościach	lizusowskość	subst:pl:loc:f	nazwa pospolita	
 lizusowskościami	lizusowskość	subst:pl:inst:f	nazwa pospolita	
@@ -41129,7 +41131,7 @@ lniańskim	lniański	adj:pl:dat:m1.m2.m3.f.n:pos
 lniańskim	lniański	adj:sg:inst:m1.m2.m3.n:pos		
 lniańskim	lniański	adj:sg:loc:m1.m2.m3.n:pos		
 lniańsko	lniański	adja		
-lniańsku	lniański	adjp		
+lniańsku	lniański	adjp:dat		
 lniańsko	lniańsko	adv:pos		
 lniańskościach	lniańskość	subst:pl:loc:f	nazwa pospolita	
 lniańskościami	lniańskość	subst:pl:inst:f	nazwa pospolita	
@@ -41166,7 +41168,7 @@ lniarskim	lniarski	adj:pl:dat:m1.m2.m3.f.n:pos
 lniarskim	lniarski	adj:sg:inst:m1.m2.m3.n:pos		
 lniarskim	lniarski	adj:sg:loc:m1.m2.m3.n:pos		
 lniarsko	lniarski	adja		
-lniarsku	lniarski	adjp		
+lniarsku	lniarski	adjp:dat		
 lniarsko	lniarsko	adv:pos		
 lniarskościach	lniarskość	subst:pl:loc:f	nazwa pospolita	
 lniarskościami	lniarskość	subst:pl:inst:f	nazwa pospolita	
@@ -42645,7 +42647,7 @@ lodziarskim	lodziarski	adj:pl:dat:m1.m2.m3.f.n:pos
 lodziarskim	lodziarski	adj:sg:inst:m1.m2.m3.n:pos		
 lodziarskim	lodziarski	adj:sg:loc:m1.m2.m3.n:pos		
 lodziarsko	lodziarski	adja		
-lodziarsku	lodziarski	adjp		
+lodziarsku	lodziarski	adjp:dat		
 lodziarsko	lodziarsko	adv:pos		
 lodziarskościach	lodziarskość	subst:pl:loc:f	nazwa pospolita	
 lodziarskościami	lodziarskość	subst:pl:inst:f	nazwa pospolita	
@@ -44086,7 +44088,7 @@ lokajskim	lokajski	adj:pl:dat:m1.m2.m3.f.n:pos
 lokajskim	lokajski	adj:sg:inst:m1.m2.m3.n:pos		
 lokajskim	lokajski	adj:sg:loc:m1.m2.m3.n:pos		
 lokajsko	lokajski	adja		
-lokajsku	lokajski	adjp		
+lokajsku	lokajski	adjp:dat		
 lokajsko	lokajsko	adv:pos		
 lokajskościach	lokajskość	subst:pl:loc:f	nazwa pospolita	
 lokajskościami	lokajskość	subst:pl:inst:f	nazwa pospolita	
@@ -44408,7 +44410,7 @@ lokarneńskim	lokarneński	adj:pl:dat:m1.m2.m3.f.n:pos
 lokarneńskim	lokarneński	adj:sg:inst:m1.m2.m3.n:pos		
 lokarneńskim	lokarneński	adj:sg:loc:m1.m2.m3.n:pos		
 lokarneńsko	lokarneński	adja		
-lokarneńsku	lokarneński	adjp		
+lokarneńsku	lokarneński	adjp:dat		
 lokarneńsko	lokarneńsko	adv:pos		
 lokarneńskościach	lokarneńskość	subst:pl:loc:f	nazwa pospolita	
 lokarneńskościami	lokarneńskość	subst:pl:inst:f	nazwa pospolita	
@@ -44516,7 +44518,7 @@ lokatorskim	lokatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 lokatorskim	lokatorski	adj:sg:inst:m1.m2.m3.n:pos		
 lokatorskim	lokatorski	adj:sg:loc:m1.m2.m3.n:pos		
 lokatorsko	lokatorski	adja		
-lokatorsku	lokatorski	adjp		
+lokatorsku	lokatorski	adjp:dat		
 lokatorsko	lokatorsko	adv:pos		
 lokatorskościach	lokatorskość	subst:pl:loc:f	nazwa pospolita	
 lokatorskościami	lokatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -45034,7 +45036,7 @@ lokowskim	lokowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lokowskim	lokowski	adj:sg:inst:m1.m2.m3.n:pos		
 lokowskim	lokowski	adj:sg:loc:m1.m2.m3.n:pos		
 lokowsko	lokowski	adja		
-lokowsku	lokowski	adjp		
+lokowsku	lokowski	adjp:dat		
 lokowsko	lokowsko	adv:pos		
 lokowskościach	lokowskość	subst:pl:loc:f	nazwa pospolita	
 lokowskościami	lokowskość	subst:pl:inst:f	nazwa pospolita	
@@ -45310,7 +45312,7 @@ lombardzkim	lombardzki	adj:pl:dat:m1.m2.m3.f.n:pos
 lombardzkim	lombardzki	adj:sg:inst:m1.m2.m3.n:pos		
 lombardzkim	lombardzki	adj:sg:loc:m1.m2.m3.n:pos		
 lombardzko	lombardzki	adja		
-lombardzku	lombardzki	adjp		
+lombardzku	lombardzki	adjp:dat		
 lombardzko	lombardzko	adv:pos		
 lombardzkościach	lombardzkość	subst:pl:loc:f	nazwa pospolita	
 lombardzkościami	lombardzkość	subst:pl:inst:f	nazwa pospolita	
@@ -45380,7 +45382,7 @@ lombrozjańskim	lombrozjański	adj:pl:dat:m1.m2.m3.f.n:pos
 lombrozjańskim	lombrozjański	adj:sg:inst:m1.m2.m3.n:pos		
 lombrozjańskim	lombrozjański	adj:sg:loc:m1.m2.m3.n:pos		
 lombrozjańsko	lombrozjański	adja		
-lombrozjańsku	lombrozjański	adjp		
+lombrozjańsku	lombrozjański	adjp:dat		
 lombrozjańsko	lombrozjańsko	adv:pos		
 lombrozjańskościach	lombrozjańskość	subst:pl:loc:f	nazwa pospolita	
 lombrozjańskościami	lombrozjańskość	subst:pl:inst:f	nazwa pospolita	
@@ -45417,7 +45419,7 @@ lombrozowskim	lombrozowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lombrozowskim	lombrozowski	adj:sg:inst:m1.m2.m3.n:pos		
 lombrozowskim	lombrozowski	adj:sg:loc:m1.m2.m3.n:pos		
 lombrozowsko	lombrozowski	adja		
-lombrozowsku	lombrozowski	adjp		
+lombrozowsku	lombrozowski	adjp:dat		
 lombrozowsko	lombrozowsko	adv:pos		
 lombrozowskościach	lombrozowskość	subst:pl:loc:f	nazwa pospolita	
 lombrozowskościami	lombrozowskość	subst:pl:inst:f	nazwa pospolita	
@@ -45454,7 +45456,7 @@ lomejskim	lomejski	adj:pl:dat:m1.m2.m3.f.n:pos
 lomejskim	lomejski	adj:sg:inst:m1.m2.m3.n:pos		
 lomejskim	lomejski	adj:sg:loc:m1.m2.m3.n:pos		
 lomejsko	lomejski	adja		
-lomejsku	lomejski	adjp		
+lomejsku	lomejski	adjp:dat		
 lomejsko	lomejsko	adv:pos		
 lomejskościach	lomejskość	subst:pl:loc:f	nazwa pospolita	
 lomejskościami	lomejskość	subst:pl:inst:f	nazwa pospolita	
@@ -45550,7 +45552,7 @@ londyńskim	londyński	adj:pl:dat:m1.m2.m3.f.n:pos
 londyńskim	londyński	adj:sg:inst:m1.m2.m3.n:pos		
 londyńskim	londyński	adj:sg:loc:m1.m2.m3.n:pos		
 londyńsko	londyński	adja		
-londyńsku	londyński	adjp		
+londyńsku	londyński	adjp:dat		
 londyńsko	londyńsko	adv:pos		
 londyńskościach	londyńskość	subst:pl:loc:f	nazwa pospolita	
 londyńskościami	londyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -45611,7 +45613,7 @@ longobardzkim	longobardzki	adj:pl:dat:m1.m2.m3.f.n:pos
 longobardzkim	longobardzki	adj:sg:inst:m1.m2.m3.n:pos		
 longobardzkim	longobardzki	adj:sg:loc:m1.m2.m3.n:pos		
 longobardzko	longobardzki	adja		
-longobardzku	longobardzki	adjp		
+longobardzku	longobardzki	adjp:dat		
 longobardzko	longobardzko	adv:pos		
 longobardzkościach	longobardzkość	subst:pl:loc:f	nazwa pospolita	
 longobardzkościami	longobardzkość	subst:pl:inst:f	nazwa pospolita	
@@ -45968,7 +45970,7 @@ lordowskim	lordowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lordowskim	lordowski	adj:sg:inst:m1.m2.m3.n:pos		
 lordowskim	lordowski	adj:sg:loc:m1.m2.m3.n:pos		
 lordowsko	lordowski	adja		
-lordowsku	lordowski	adjp		
+lordowsku	lordowski	adjp:dat		
 lordowsko	lordowsko	adv:pos		
 lordowskościach	lordowskość	subst:pl:loc:f	nazwa pospolita	
 lordowskościami	lordowskość	subst:pl:inst:f	nazwa pospolita	
@@ -46060,7 +46062,7 @@ loretańskim	loretański	adj:pl:dat:m1.m2.m3.f.n:pos
 loretańskim	loretański	adj:sg:inst:m1.m2.m3.n:pos		
 loretańskim	loretański	adj:sg:loc:m1.m2.m3.n:pos		
 loretańsko	loretański	adja		
-loretańsku	loretański	adjp		
+loretańsku	loretański	adjp:dat		
 loretańsko	loretańsko	adv:pos		
 loretańskościach	loretańskość	subst:pl:loc:f	nazwa pospolita	
 loretańskościami	loretańskość	subst:pl:inst:f	nazwa pospolita	
@@ -46569,7 +46571,7 @@ lotaryńskim	lotaryński	adj:pl:dat:m1.m2.m3.f.n:pos
 lotaryńskim	lotaryński	adj:sg:inst:m1.m2.m3.n:pos		
 lotaryńskim	lotaryński	adj:sg:loc:m1.m2.m3.n:pos		
 lotaryńsko	lotaryński	adja		
-lotaryńsku	lotaryński	adjp		
+lotaryńsku	lotaryński	adjp:dat		
 lotaryńsko	lotaryńsko	adv:pos		
 lotaryńskościach	lotaryńskość	subst:pl:loc:f	nazwa pospolita	
 lotaryńskościami	lotaryńskość	subst:pl:inst:f	nazwa pospolita	
@@ -46697,7 +46699,7 @@ lotniarskim	lotniarski	adj:pl:dat:m1.m2.m3.f.n:pos
 lotniarskim	lotniarski	adj:sg:inst:m1.m2.m3.n:pos		
 lotniarskim	lotniarski	adj:sg:loc:m1.m2.m3.n:pos		
 lotniarsko	lotniarski	adja		
-lotniarsku	lotniarski	adjp		
+lotniarsku	lotniarski	adjp:dat		
 lotniarsko	lotniarsko	adv:pos		
 lotniarskościach	lotniarskość	subst:pl:loc:f	nazwa pospolita	
 lotniarskościami	lotniarskość	subst:pl:inst:f	nazwa pospolita	
@@ -47107,7 +47109,7 @@ lotowskim	lotowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lotowskim	lotowski	adj:sg:inst:m1.m2.m3.n:pos		
 lotowskim	lotowski	adj:sg:loc:m1.m2.m3.n:pos		
 lotowsko	lotowski	adja		
-lotowsku	lotowski	adjp		
+lotowsku	lotowski	adjp:dat		
 lotowsko	lotowsko	adv:pos		
 lotowskościach	lotowskość	subst:pl:loc:f	nazwa pospolita	
 lotowskościami	lotowskość	subst:pl:inst:f	nazwa pospolita	
@@ -47190,7 +47192,7 @@ lowańskim	lowański	adj:pl:dat:m1.m2.m3.f.n:pos
 lowańskim	lowański	adj:sg:inst:m1.m2.m3.n:pos		
 lowańskim	lowański	adj:sg:loc:m1.m2.m3.n:pos		
 lowańsko	lowański	adja		
-lowańsku	lowański	adjp		
+lowańsku	lowański	adjp:dat		
 lowańsko	lowańsko	adv:pos		
 lowańskościach	lowańskość	subst:pl:loc:f	nazwa pospolita	
 lowańskościami	lowańskość	subst:pl:inst:f	nazwa pospolita	
@@ -47239,7 +47241,7 @@ lowelasowskim	lowelasowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lowelasowskim	lowelasowski	adj:sg:inst:m1.m2.m3.n:pos		
 lowelasowskim	lowelasowski	adj:sg:loc:m1.m2.m3.n:pos		
 lowelasowsko	lowelasowski	adja		
-lowelasowsku	lowelasowski	adjp		
+lowelasowsku	lowelasowski	adjp:dat		
 lowelasowsko	lowelasowsko	adv:pos		
 lowelasowskościach	lowelasowskość	subst:pl:loc:f	nazwa pospolita	
 lowelasowskościami	lowelasowskość	subst:pl:inst:f	nazwa pospolita	
@@ -47287,7 +47289,7 @@ lozańskim	lozański	adj:pl:dat:m1.m2.m3.f.n:pos
 lozańskim	lozański	adj:sg:inst:m1.m2.m3.n:pos		
 lozańskim	lozański	adj:sg:loc:m1.m2.m3.n:pos		
 lozańsko	lozański	adja		
-lozańsku	lozański	adjp		
+lozańsku	lozański	adjp:dat		
 lozańsko	lozańsko	adv:pos		
 lozańskościach	lozańskość	subst:pl:loc:f	nazwa pospolita	
 lozańskościami	lozańskość	subst:pl:inst:f	nazwa pospolita	
@@ -48038,7 +48040,7 @@ luandzkim	luandzki	adj:pl:dat:m1.m2.m3.f.n:pos
 luandzkim	luandzki	adj:sg:inst:m1.m2.m3.n:pos		
 luandzkim	luandzki	adj:sg:loc:m1.m2.m3.n:pos		
 luandzko	luandzki	adja		
-luandzku	luandzki	adjp		
+luandzku	luandzki	adjp:dat		
 luandzko	luandzko	adv:pos		
 luandzkościach	luandzkość	subst:pl:loc:f	nazwa pospolita	
 luandzkościami	luandzkość	subst:pl:inst:f	nazwa pospolita	
@@ -48110,7 +48112,7 @@ lubaczowskim	lubaczowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lubaczowskim	lubaczowski	adj:sg:inst:m1.m2.m3.n:pos		
 lubaczowskim	lubaczowski	adj:sg:loc:m1.m2.m3.n:pos		
 lubaczowsko	lubaczowski	adja		
-lubaczowsku	lubaczowski	adjp		
+lubaczowsku	lubaczowski	adjp:dat		
 lubaczowsko	lubaczowsko	adv:pos		
 lubaczowskościach	lubaczowskość	subst:pl:loc:f	nazwa pospolita	
 lubaczowskościami	lubaczowskość	subst:pl:inst:f	nazwa pospolita	
@@ -48182,7 +48184,7 @@ lubańskim	lubański	adj:pl:dat:m1.m2.m3.f.n:pos
 lubańskim	lubański	adj:sg:inst:m1.m2.m3.n:pos		
 lubańskim	lubański	adj:sg:loc:m1.m2.m3.n:pos		
 lubańsko	lubański	adja		
-lubańsku	lubański	adjp		
+lubańsku	lubański	adjp:dat		
 lubańsko	lubańsko	adv:pos		
 lubańskościach	lubańskość	subst:pl:loc:f	nazwa pospolita	
 lubańskościami	lubańskość	subst:pl:inst:f	nazwa pospolita	
@@ -48242,7 +48244,7 @@ lubartowskim	lubartowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lubartowskim	lubartowski	adj:sg:inst:m1.m2.m3.n:pos		
 lubartowskim	lubartowski	adj:sg:loc:m1.m2.m3.n:pos		
 lubartowsko	lubartowski	adja		
-lubartowsku	lubartowski	adjp		
+lubartowsku	lubartowski	adjp:dat		
 lubartowsko	lubartowsko	adv:pos		
 lubartowskościach	lubartowskość	subst:pl:loc:f	nazwa pospolita	
 lubartowskościami	lubartowskość	subst:pl:inst:f	nazwa pospolita	
@@ -48279,7 +48281,7 @@ lubaskim	lubaski	adj:pl:dat:m1.m2.m3.f.n:pos
 lubaskim	lubaski	adj:sg:inst:m1.m2.m3.n:pos		
 lubaskim	lubaski	adj:sg:loc:m1.m2.m3.n:pos		
 lubasko	lubaski	adja		
-lubasku	lubaski	adjp		
+lubasku	lubaski	adjp:dat		
 lubasko	lubasko	adv:pos		
 lubaskościach	lubaskość	subst:pl:loc:f	nazwa pospolita	
 lubaskościami	lubaskość	subst:pl:inst:f	nazwa pospolita	
@@ -48327,7 +48329,7 @@ lubaweckim	lubawecki	adj:pl:dat:m1.m2.m3.f.n:pos
 lubaweckim	lubawecki	adj:sg:inst:m1.m2.m3.n:pos		
 lubaweckim	lubawecki	adj:sg:loc:m1.m2.m3.n:pos		
 lubawecko	lubawecki	adja		
-lubawecku	lubawecki	adjp		
+lubawecku	lubawecki	adjp:dat		
 lubawecko	lubawecko	adv:pos		
 lubaweckościach	lubaweckość	subst:pl:loc:f	nazwa pospolita	
 lubaweckościami	lubaweckość	subst:pl:inst:f	nazwa pospolita	
@@ -48364,7 +48366,7 @@ lubawskim	lubawski	adj:pl:dat:m1.m2.m3.f.n:pos
 lubawskim	lubawski	adj:sg:inst:m1.m2.m3.n:pos		
 lubawskim	lubawski	adj:sg:loc:m1.m2.m3.n:pos		
 lubawsko	lubawski	adja		
-lubawsku	lubawski	adjp		
+lubawsku	lubawski	adjp:dat		
 lubawsko	lubawsko	adv:pos		
 lubawskościach	lubawskość	subst:pl:loc:f	nazwa pospolita	
 lubawskościami	lubawskość	subst:pl:inst:f	nazwa pospolita	
@@ -48459,7 +48461,7 @@ lubeckim	lubecki	adj:pl:dat:m1.m2.m3.f.n:pos
 lubeckim	lubecki	adj:sg:inst:m1.m2.m3.n:pos		
 lubeckim	lubecki	adj:sg:loc:m1.m2.m3.n:pos		
 lubecko	lubecki	adja		
-lubecku	lubecki	adjp		
+lubecku	lubecki	adjp:dat		
 lubeckicie	lubeckit	subst:sg:loc:m3	nazwa pospolita	
 lubeckicie	lubeckit	subst:sg:voc:m3	nazwa pospolita	
 lubeckitach	lubeckit	subst:pl:loc:m3	nazwa pospolita	
@@ -48507,7 +48509,7 @@ lubelskim	lubelski	adj:pl:dat:m1.m2.m3.f.n:pos
 lubelskim	lubelski	adj:sg:inst:m1.m2.m3.n:pos		
 lubelskim	lubelski	adj:sg:loc:m1.m2.m3.n:pos		
 lubelsko	lubelski	adja		
-lubelsku	lubelski	adjp		
+lubelsku	lubelski	adjp:dat		
 lubelsko	lubelsko	adv:pos		
 lubelskościach	lubelskość	subst:pl:loc:f	nazwa pospolita	
 lubelskościami	lubelskość	subst:pl:inst:f	nazwa pospolita	
@@ -48555,7 +48557,7 @@ lubeńskim	lubeński	adj:pl:dat:m1.m2.m3.f.n:pos
 lubeńskim	lubeński	adj:sg:inst:m1.m2.m3.n:pos		
 lubeńskim	lubeński	adj:sg:loc:m1.m2.m3.n:pos		
 lubeńsko	lubeński	adja		
-lubeńsku	lubeński	adjp		
+lubeńsku	lubeński	adjp:dat		
 lubeńsko	lubeńsko	adv:pos		
 lubeńskościach	lubeńskość	subst:pl:loc:f	nazwa pospolita	
 lubeńskościami	lubeńskość	subst:pl:inst:f	nazwa pospolita	
@@ -48592,7 +48594,7 @@ luberskim	luberski	adj:pl:dat:m1.m2.m3.f.n:pos
 luberskim	luberski	adj:sg:inst:m1.m2.m3.n:pos		
 luberskim	luberski	adj:sg:loc:m1.m2.m3.n:pos		
 lubersko	luberski	adja		
-lubersku	luberski	adjp		
+lubersku	luberski	adjp:dat		
 lubersko	lubersko	adv:pos		
 luberskościach	luberskość	subst:pl:loc:f	nazwa pospolita	
 luberskościami	luberskość	subst:pl:inst:f	nazwa pospolita	
@@ -48629,7 +48631,7 @@ lubiąskim	lubiąski	adj:pl:dat:m1.m2.m3.f.n:pos
 lubiąskim	lubiąski	adj:sg:inst:m1.m2.m3.n:pos		
 lubiąskim	lubiąski	adj:sg:loc:m1.m2.m3.n:pos		
 lubiąsko	lubiąski	adja		
-lubiąsku	lubiąski	adjp		
+lubiąsku	lubiąski	adjp:dat		
 lubiąsko	lubiąsko	adv:pos		
 lubiąskościach	lubiąskość	subst:pl:loc:f	nazwa pospolita	
 lubiąskościami	lubiąskość	subst:pl:inst:f	nazwa pospolita	
@@ -48666,7 +48668,7 @@ lubichowskim	lubichowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lubichowskim	lubichowski	adj:sg:inst:m1.m2.m3.n:pos		
 lubichowskim	lubichowski	adj:sg:loc:m1.m2.m3.n:pos		
 lubichowsko	lubichowski	adja		
-lubichowsku	lubichowski	adjp		
+lubichowsku	lubichowski	adjp:dat		
 lubichowsko	lubichowsko	adv:pos		
 lubichowskościach	lubichowskość	subst:pl:loc:f	nazwa pospolita	
 lubichowskościami	lubichowskość	subst:pl:inst:f	nazwa pospolita	
@@ -48792,7 +48794,7 @@ lubieńskim	lubieński	adj:pl:dat:m1.m2.m3.f.n:pos
 lubieńskim	lubieński	adj:sg:inst:m1.m2.m3.n:pos		
 lubieńskim	lubieński	adj:sg:loc:m1.m2.m3.n:pos		
 lubieńsko	lubieński	adja		
-lubieńsku	lubieński	adjp		
+lubieńsku	lubieński	adjp:dat		
 lubieńsko	lubieńsko	adv:pos		
 lubieńskościach	lubieńskość	subst:pl:loc:f	nazwa pospolita	
 lubieńskościami	lubieńskość	subst:pl:inst:f	nazwa pospolita	
@@ -48829,7 +48831,7 @@ lubiewskim	lubiewski	adj:pl:dat:m1.m2.m3.f.n:pos
 lubiewskim	lubiewski	adj:sg:inst:m1.m2.m3.n:pos		
 lubiewskim	lubiewski	adj:sg:loc:m1.m2.m3.n:pos		
 lubiewsko	lubiewski	adja		
-lubiewsku	lubiewski	adjp		
+lubiewsku	lubiewski	adjp:dat		
 lubiewsko	lubiewsko	adv:pos		
 lubiewskościach	lubiewskość	subst:pl:loc:f	nazwa pospolita	
 lubiewskościami	lubiewskość	subst:pl:inst:f	nazwa pospolita	
@@ -48983,7 +48985,7 @@ lubińskim	lubiński	adj:pl:dat:m1.m2.m3.f.n:pos
 lubińskim	lubiński	adj:sg:inst:m1.m2.m3.n:pos		
 lubińskim	lubiński	adj:sg:loc:m1.m2.m3.n:pos		
 lubińsko	lubiński	adja		
-lubińsku	lubiński	adjp		
+lubińsku	lubiński	adjp:dat		
 lubińsko	lubińsko	adv:pos		
 lubińskościach	lubińskość	subst:pl:loc:f	nazwa pospolita	
 lubińskościami	lubińskość	subst:pl:inst:f	nazwa pospolita	
@@ -49020,7 +49022,7 @@ lubiszyńskim	lubiszyński	adj:pl:dat:m1.m2.m3.f.n:pos
 lubiszyńskim	lubiszyński	adj:sg:inst:m1.m2.m3.n:pos		
 lubiszyńskim	lubiszyński	adj:sg:loc:m1.m2.m3.n:pos		
 lubiszyńsko	lubiszyński	adja		
-lubiszyńsku	lubiszyński	adjp		
+lubiszyńsku	lubiszyński	adjp:dat		
 lubiszyńsko	lubiszyńsko	adv:pos		
 lubiszyńskościach	lubiszyńskość	subst:pl:loc:f	nazwa pospolita	
 lubiszyńskościami	lubiszyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -49080,7 +49082,7 @@ lublańskim	lublański	adj:pl:dat:m1.m2.m3.f.n:pos
 lublańskim	lublański	adj:sg:inst:m1.m2.m3.n:pos		
 lublańskim	lublański	adj:sg:loc:m1.m2.m3.n:pos		
 lublańsko	lublański	adja		
-lublańsku	lublański	adjp		
+lublańsku	lublański	adjp:dat		
 lublańsko	lublańsko	adv:pos		
 lublańskościach	lublańskość	subst:pl:loc:f	nazwa pospolita	
 lublańskościami	lublańskość	subst:pl:inst:f	nazwa pospolita	
@@ -49151,7 +49153,7 @@ lublinieckim	lubliniecki	adj:pl:dat:m1.m2.m3.f.n:pos
 lublinieckim	lubliniecki	adj:sg:inst:m1.m2.m3.n:pos		
 lublinieckim	lubliniecki	adj:sg:loc:m1.m2.m3.n:pos		
 lubliniecko	lubliniecki	adja		
-lubliniecku	lubliniecki	adjp		
+lubliniecku	lubliniecki	adjp:dat		
 lubliniecko	lubliniecko	adv:pos		
 lublinieckościach	lublinieckość	subst:pl:loc:f		
 lublinieckościami	lublinieckość	subst:pl:inst:f		
@@ -49222,7 +49224,7 @@ lubniewickim	lubniewicki	adj:pl:dat:m1.m2.m3.f.n:pos
 lubniewickim	lubniewicki	adj:sg:inst:m1.m2.m3.n:pos		
 lubniewickim	lubniewicki	adj:sg:loc:m1.m2.m3.n:pos		
 lubniewicko	lubniewicki	adja		
-lubniewicku	lubniewicki	adjp		
+lubniewicku	lubniewicki	adjp:dat		
 lubniewicko	lubniewicko	adv:pos		
 lubniewickościach	lubniewickość	subst:pl:loc:f	nazwa pospolita	
 lubniewickościami	lubniewickość	subst:pl:inst:f	nazwa pospolita	
@@ -49260,7 +49262,7 @@ lubocheńskim	lubocheński	adj:pl:dat:m1.m2.m3.f.n:pos
 lubocheńskim	lubocheński	adj:sg:inst:m1.m2.m3.n:pos		
 lubocheńskim	lubocheński	adj:sg:loc:m1.m2.m3.n:pos		
 lubocheńsko	lubocheński	adja		
-lubocheńsku	lubocheński	adjp		
+lubocheńsku	lubocheński	adjp:dat		
 lubocheńsko	lubocheńsko	adv:pos		
 lubocheńskościach	lubocheńskość	subst:pl:loc:f	nazwa pospolita	
 lubocheńskościami	lubocheńskość	subst:pl:inst:f	nazwa pospolita	
@@ -49298,7 +49300,7 @@ lubomierskim	lubomierski	adj:pl:dat:m1.m2.m3.f.n:pos
 lubomierskim	lubomierski	adj:sg:inst:m1.m2.m3.n:pos		
 lubomierskim	lubomierski	adj:sg:loc:m1.m2.m3.n:pos		
 lubomiersko	lubomierski	adja		
-lubomiersku	lubomierski	adjp		
+lubomiersku	lubomierski	adjp:dat		
 lubomiersko	lubomiersko	adv:pos		
 lubomierskościach	lubomierskość	subst:pl:loc:f	nazwa pospolita	
 lubomierskościami	lubomierskość	subst:pl:inst:f	nazwa pospolita	
@@ -49335,7 +49337,7 @@ lubomińskim	lubomiński	adj:pl:dat:m1.m2.m3.f.n:pos
 lubomińskim	lubomiński	adj:sg:inst:m1.m2.m3.n:pos		
 lubomińskim	lubomiński	adj:sg:loc:m1.m2.m3.n:pos		
 lubomińsko	lubomiński	adja		
-lubomińsku	lubomiński	adjp		
+lubomińsku	lubomiński	adjp:dat		
 lubomińsko	lubomińsko	adv:pos		
 lubomińskościach	lubomińskość	subst:pl:loc:f	nazwa pospolita	
 lubomińskościami	lubomińskość	subst:pl:inst:f	nazwa pospolita	
@@ -49372,7 +49374,7 @@ lubomskim	lubomski	adj:pl:dat:m1.m2.m3.f.n:pos
 lubomskim	lubomski	adj:sg:inst:m1.m2.m3.n:pos		
 lubomskim	lubomski	adj:sg:loc:m1.m2.m3.n:pos		
 lubomsko	lubomski	adja		
-lubomsku	lubomski	adjp		
+lubomsku	lubomski	adjp:dat		
 lubomsko	lubomsko	adv:pos		
 lubomskościach	lubomskość	subst:pl:loc:f	nazwa pospolita	
 lubomskościami	lubomskość	subst:pl:inst:f	nazwa pospolita	
@@ -49409,7 +49411,7 @@ lubońskim	luboński	adj:pl:dat:m1.m2.m3.f.n:pos
 lubońskim	luboński	adj:sg:inst:m1.m2.m3.n:pos		
 lubońskim	luboński	adj:sg:loc:m1.m2.m3.n:pos		
 lubońsko	luboński	adja		
-lubońsku	luboński	adjp		
+lubońsku	luboński	adjp:dat		
 lubońsko	lubońsko	adv:pos		
 lubońskościach	lubońskość	subst:pl:loc:f	nazwa pospolita	
 lubońskościami	lubońskość	subst:pl:inst:f	nazwa pospolita	
@@ -49457,7 +49459,7 @@ lubotyńskim	lubotyński	adj:pl:dat:m1.m2.m3.f.n:pos
 lubotyńskim	lubotyński	adj:sg:inst:m1.m2.m3.n:pos		
 lubotyńskim	lubotyński	adj:sg:loc:m1.m2.m3.n:pos		
 lubotyńsko	lubotyński	adja		
-lubotyńsku	lubotyński	adjp		
+lubotyńsku	lubotyński	adjp:dat		
 lubotyńsko	lubotyńsko	adv:pos		
 lubotyńskościach	lubotyńskość	subst:pl:loc:f	nazwa pospolita	
 lubotyńskościami	lubotyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -49633,7 +49635,7 @@ lubrzańskim	lubrzański	adj:pl:dat:m1.m2.m3.f.n:pos
 lubrzańskim	lubrzański	adj:sg:inst:m1.m2.m3.n:pos		
 lubrzańskim	lubrzański	adj:sg:loc:m1.m2.m3.n:pos		
 lubrzańsko	lubrzański	adja		
-lubrzańsku	lubrzański	adjp		
+lubrzańsku	lubrzański	adjp:dat		
 lubrzańsko	lubrzańsko	adv:pos		
 lubrzańskościach	lubrzańskość	subst:pl:loc:f	nazwa pospolita	
 lubrzańskościami	lubrzańskość	subst:pl:inst:f	nazwa pospolita	
@@ -49670,7 +49672,7 @@ lubskim	lubski	adj:pl:dat:m1.m2.m3.f.n:pos
 lubskim	lubski	adj:sg:inst:m1.m2.m3.n:pos		
 lubskim	lubski	adj:sg:loc:m1.m2.m3.n:pos		
 lubsko	lubski	adja		
-lubsku	lubski	adjp		
+lubsku	lubski	adjp:dat		
 lubsko	lubsko	adv:pos		
 lubskościach	lubskość	subst:pl:loc:f	nazwa pospolita	
 lubskościami	lubskość	subst:pl:inst:f	nazwa pospolita	
@@ -49707,7 +49709,7 @@ lubszańskim	lubszański	adj:pl:dat:m1.m2.m3.f.n:pos
 lubszańskim	lubszański	adj:sg:inst:m1.m2.m3.n:pos		
 lubszańskim	lubszański	adj:sg:loc:m1.m2.m3.n:pos		
 lubszańsko	lubszański	adja		
-lubszańsku	lubszański	adjp		
+lubszańsku	lubszański	adjp:dat		
 lubszańsko	lubszańsko	adv:pos		
 lubszańskościach	lubszańskość	subst:pl:loc:f	nazwa pospolita	
 lubszańskościami	lubszańskość	subst:pl:inst:f	nazwa pospolita	
@@ -49757,7 +49759,7 @@ lubuskim	lubuski	adj:pl:dat:m1.m2.m3.f.n:pos
 lubuskim	lubuski	adj:sg:inst:m1.m2.m3.n:pos		
 lubuskim	lubuski	adj:sg:loc:m1.m2.m3.n:pos		
 lubusko	lubuski	adja		
-lubusku	lubuski	adjp		
+lubusku	lubuski	adjp:dat		
 lubusko	lubusko	adv:pos		
 lubuskościach	lubuskość	subst:pl:loc:f	nazwa pospolita	
 lubuskościami	lubuskość	subst:pl:inst:f	nazwa pospolita	
@@ -49818,7 +49820,7 @@ lubyczańskim	lubyczański	adj:pl:dat:m1.m2.m3.f.n:pos
 lubyczańskim	lubyczański	adj:sg:inst:m1.m2.m3.n:pos		
 lubyczańskim	lubyczański	adj:sg:loc:m1.m2.m3.n:pos		
 lubyczańsko	lubyczański	adja		
-lubyczańsku	lubyczański	adjp		
+lubyczańsku	lubyczański	adjp:dat		
 lubyczańsko	lubyczańsko	adv:pos		
 lubyczańskościach	lubyczańskość	subst:pl:loc:f	nazwa pospolita	
 lubyczańskościami	lubyczańskość	subst:pl:inst:f	nazwa pospolita	
@@ -50376,7 +50378,7 @@ ludomańskim	ludomański	adj:pl:dat:m1.m2.m3.f.n:pos
 ludomańskim	ludomański	adj:sg:inst:m1.m2.m3.n:pos		
 ludomańskim	ludomański	adj:sg:loc:m1.m2.m3.n:pos		
 ludomańsko	ludomański	adja		
-ludomańsku	ludomański	adjp		
+ludomańsku	ludomański	adjp:dat		
 ludomańsko	ludomańsko	adv:pos		
 ludomańskościach	ludomańskość	subst:pl:loc:f	nazwa pospolita	
 ludomańskościami	ludomańskość	subst:pl:inst:f	nazwa pospolita	
@@ -50872,7 +50874,7 @@ ludwikowskim	ludwikowski	adj:pl:dat:m1.m2.m3.f.n:pos
 ludwikowskim	ludwikowski	adj:sg:inst:m1.m2.m3.n:pos		
 ludwikowskim	ludwikowski	adj:sg:loc:m1.m2.m3.n:pos		
 ludwikowsko	ludwikowski	adja		
-ludwikowsku	ludwikowski	adjp		
+ludwikowsku	ludwikowski	adjp:dat		
 ludwikowsko	ludwikowsko	adv:pos		
 ludwikowskościach	ludwikowskość	subst:pl:loc:f	nazwa pospolita	
 ludwikowskościami	ludwikowskość	subst:pl:inst:f	nazwa pospolita	
@@ -50909,7 +50911,7 @@ ludwińskim	ludwiński	adj:pl:dat:m1.m2.m3.f.n:pos
 ludwińskim	ludwiński	adj:sg:inst:m1.m2.m3.n:pos		
 ludwińskim	ludwiński	adj:sg:loc:m1.m2.m3.n:pos		
 ludwińsko	ludwiński	adja		
-ludwińsku	ludwiński	adjp		
+ludwińsku	ludwiński	adjp:dat		
 ludwińsko	ludwińsko	adv:pos		
 ludwińskościach	ludwińskość	subst:pl:loc:f	nazwa pospolita	
 ludwińskościami	ludwińskość	subst:pl:inst:f	nazwa pospolita	
@@ -50958,7 +50960,7 @@ ludwisarskim	ludwisarski	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
 ludwisarskim	ludwisarski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 ludwisarskim	ludwisarski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 ludwisarsko	ludwisarski	adja		daw.
-ludwisarsku	ludwisarski	adjp		daw.
+ludwisarsku	ludwisarski	adjp:dat		daw.
 ludwisarsko	ludwisarsko	adv:pos		
 ludwisarskościach	ludwisarskość	subst:pl:loc:f	nazwa pospolita	daw.
 ludwisarskościami	ludwisarskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -51110,7 +51112,7 @@ ludzkim	ludzki	adj:pl:dat:m1.m2.m3.f.n:pos
 ludzkim	ludzki	adj:sg:inst:m1.m2.m3.n:pos		
 ludzkim	ludzki	adj:sg:loc:m1.m2.m3.n:pos		
 ludzko	ludzki	adja		
-ludzku	ludzki	adjp		
+ludzku	ludzki	adjp:dat		
 ludzko	ludzko	adv:pos		przest.
 ludzkościach	ludzkość	subst:pl:loc:f	nazwa pospolita	
 ludzkościami	ludzkość	subst:pl:inst:f	nazwa pospolita	
@@ -51147,7 +51149,7 @@ ludźmierskim	ludźmierski	adj:pl:dat:m1.m2.m3.f.n:pos
 ludźmierskim	ludźmierski	adj:sg:inst:m1.m2.m3.n:pos		
 ludźmierskim	ludźmierski	adj:sg:loc:m1.m2.m3.n:pos		
 ludźmiersko	ludźmierski	adja		
-ludźmiersku	ludźmierski	adjp		
+ludźmiersku	ludźmierski	adjp:dat		
 ludźmiersko	ludźmiersko	adv:pos		
 ludźmierskościach	ludźmierskość	subst:pl:loc:f	nazwa pospolita	
 ludźmierskościami	ludźmierskość	subst:pl:inst:f	nazwa pospolita	
@@ -51883,6 +51885,7 @@ luksemburki	luksemburka	subst:sg:gen:f	nazwa pospolita
 luksemburko	luksemburka	subst:sg:voc:f	nazwa pospolita	
 luksemburkom	luksemburka	subst:pl:dat:f	nazwa pospolita	
 luksemburscy	luksemburski	adj:pl:nom.voc:m1:pos		
+luksemburska	luksemburski	adjp:gen		
 luksemburska	luksemburski	adj:sg:nom.voc:f:pos		
 luksemburską	luksemburski	adj:sg:acc:f:pos		
 luksemburską	luksemburski	adj:sg:inst:f:pos		
@@ -51906,7 +51909,7 @@ luksemburskim	luksemburski	adj:pl:dat:m1.m2.m3.f.n:pos
 luksemburskim	luksemburski	adj:sg:inst:m1.m2.m3.n:pos		
 luksemburskim	luksemburski	adj:sg:loc:m1.m2.m3.n:pos		
 luksembursko	luksemburski	adja		
-luksembursku	luksemburski	adjp		
+luksembursku	luksemburski	adjp:dat		
 luksembursko	luksembursko	adv:pos		
 luksemburskościach	luksemburskość	subst:pl:loc:f	nazwa pospolita	
 luksemburskościami	luksemburskość	subst:pl:inst:f	nazwa pospolita	
@@ -52366,7 +52369,7 @@ lumierowskim	lumierowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lumierowskim	lumierowski	adj:sg:inst:m1.m2.m3.n:pos		
 lumierowskim	lumierowski	adj:sg:loc:m1.m2.m3.n:pos		
 lumierowsko	lumierowski	adja		
-lumierowsku	lumierowski	adjp		
+lumierowsku	lumierowski	adjp:dat		
 lumierowsko	lumierowsko	adv:pos		
 lumierowskościach	lumierowskość	subst:pl:loc:f	nazwa pospolita	
 lumierowskościami	lumierowskość	subst:pl:inst:f	nazwa pospolita	
@@ -52474,7 +52477,7 @@ luminarskim	luminarski	adj:pl:dat:m1.m2.m3.f.n:pos
 luminarskim	luminarski	adj:sg:inst:m1.m2.m3.n:pos		
 luminarskim	luminarski	adj:sg:loc:m1.m2.m3.n:pos		
 luminarsko	luminarski	adja		
-luminarsku	luminarski	adjp		
+luminarsku	luminarski	adjp:dat		
 luminarsko	luminarsko	adv:pos		
 luminarskościach	luminarskość	subst:pl:loc:f	nazwa pospolita	
 luminarskościami	luminarskość	subst:pl:inst:f	nazwa pospolita	
@@ -52685,7 +52688,7 @@ lumpenproletariackim	lumpenproletariacki	adj:pl:dat:m1.m2.m3.f.n:pos
 lumpenproletariackim	lumpenproletariacki	adj:sg:inst:m1.m2.m3.n:pos		
 lumpenproletariackim	lumpenproletariacki	adj:sg:loc:m1.m2.m3.n:pos		
 lumpenproletariacko	lumpenproletariacki	adja		
-lumpenproletariacku	lumpenproletariacki	adjp		
+lumpenproletariacku	lumpenproletariacki	adjp:dat		
 lumpenproletariacko	lumpenproletariacko	adv:pos		
 lumpenproletariackościach	lumpenproletariackość	subst:pl:loc:f	nazwa pospolita	
 lumpenproletariackościami	lumpenproletariackość	subst:pl:inst:f	nazwa pospolita	
@@ -52768,7 +52771,7 @@ lumpiarskim	lumpiarski	adj:pl:dat:m1.m2.m3.f.n:pos
 lumpiarskim	lumpiarski	adj:sg:inst:m1.m2.m3.n:pos		
 lumpiarskim	lumpiarski	adj:sg:loc:m1.m2.m3.n:pos		
 lumpiarsko	lumpiarski	adja		
-lumpiarsku	lumpiarski	adjp		
+lumpiarsku	lumpiarski	adjp:dat		
 lumpiarsko	lumpiarsko	adv:pos		
 lumpiarskościach	lumpiarskość	subst:pl:loc:f	nazwa pospolita	
 lumpiarskościami	lumpiarskość	subst:pl:inst:f	nazwa pospolita	
@@ -52913,7 +52916,7 @@ lumpowskim	lumpowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lumpowskim	lumpowski	adj:sg:inst:m1.m2.m3.n:pos		
 lumpowskim	lumpowski	adj:sg:loc:m1.m2.m3.n:pos		
 lumpowsko	lumpowski	adja		
-lumpowsku	lumpowski	adjp		
+lumpowsku	lumpowski	adjp:dat		
 lumpowsko	lumpowsko	adv:pos		
 lumpowskościach	lumpowskość	subst:pl:loc:f	nazwa pospolita	
 lumpowskościami	lumpowskość	subst:pl:inst:f	nazwa pospolita	
@@ -53646,7 +53649,7 @@ lusackim	lusacki	adj:pl:dat:m1.m2.m3.f.n:pos
 lusackim	lusacki	adj:sg:inst:m1.m2.m3.n:pos		
 lusackim	lusacki	adj:sg:loc:m1.m2.m3.n:pos		
 lusacko	lusacki	adja		
-lusacku	lusacki	adjp		
+lusacku	lusacki	adjp:dat		
 lusacko	lusacko	adv:pos		
 lusackościach	lusackość	subst:pl:loc:f	nazwa pospolita	
 lusackościami	lusackość	subst:pl:inst:f	nazwa pospolita	
@@ -53683,7 +53686,7 @@ lusakijskim	lusakijski	adj:pl:dat:m1.m2.m3.f.n:pos
 lusakijskim	lusakijski	adj:sg:inst:m1.m2.m3.n:pos		
 lusakijskim	lusakijski	adj:sg:loc:m1.m2.m3.n:pos		
 lusakijsko	lusakijski	adja		
-lusakijsku	lusakijski	adjp		
+lusakijsku	lusakijski	adjp:dat		
 lusakijsko	lusakijsko	adv:pos		
 lusakijskościach	lusakijskość	subst:pl:loc:f	nazwa pospolita	
 lusakijskościami	lusakijskość	subst:pl:inst:f	nazwa pospolita	
@@ -53881,7 +53884,7 @@ lustratorskim	lustratorski	adj:pl:dat:m1.m2.m3.f.n:pos
 lustratorskim	lustratorski	adj:sg:inst:m1.m2.m3.n:pos		
 lustratorskim	lustratorski	adj:sg:loc:m1.m2.m3.n:pos		
 lustratorsko	lustratorski	adja		
-lustratorsku	lustratorski	adjp		
+lustratorsku	lustratorski	adjp:dat		
 lustratorsko	lustratorsko	adv:pos		
 lustratorskościach	lustratorskość	subst:pl:loc:f	nazwa pospolita	
 lustratorskościami	lustratorskość	subst:pl:inst:f	nazwa pospolita	
@@ -54549,7 +54552,7 @@ luterańskim	luterański	adj:pl:dat:m1.m2.m3.f.n:pos
 luterańskim	luterański	adj:sg:inst:m1.m2.m3.n:pos		
 luterańskim	luterański	adj:sg:loc:m1.m2.m3.n:pos		
 luterańsko	luterański	adja		
-luterańsku	luterański	adjp		
+luterańsku	luterański	adjp:dat		
 luterańsko	luterańsko	adv:pos		
 luterańskościach	luterańskość	subst:pl:loc:f	nazwa pospolita	
 luterańskościami	luterańskość	subst:pl:inst:f	nazwa pospolita	
@@ -54597,7 +54600,7 @@ luterskim	luterski	adj:pl:dat:m1.m2.m3.f.n:pos
 luterskim	luterski	adj:sg:inst:m1.m2.m3.n:pos		
 luterskim	luterski	adj:sg:loc:m1.m2.m3.n:pos		
 lutersko	luterski	adja		
-lutersku	luterski	adjp		
+lutersku	luterski	adjp:dat		
 lutersko	lutersko	adv:pos		
 luterskościach	luterskość	subst:pl:loc:f	nazwa pospolita	
 luterskościami	luterskość	subst:pl:inst:f	nazwa pospolita	
@@ -54829,7 +54832,7 @@ lutocińskim	lutociński	adj:pl:dat:m1.m2.m3.f.n:pos
 lutocińskim	lutociński	adj:sg:inst:m1.m2.m3.n:pos		
 lutocińskim	lutociński	adj:sg:loc:m1.m2.m3.n:pos		
 lutocińsko	lutociński	adja		
-lutocińsku	lutociński	adjp		
+lutocińsku	lutociński	adjp:dat		
 lutocińsko	lutocińsko	adv:pos		
 lutocińskościach	lutocińskość	subst:pl:loc:f	nazwa pospolita	
 lutocińskościami	lutocińskość	subst:pl:inst:f	nazwa pospolita	
@@ -54866,7 +54869,7 @@ lutomierskim	lutomierski	adj:pl:dat:m1.m2.m3.f.n:pos
 lutomierskim	lutomierski	adj:sg:inst:m1.m2.m3.n:pos		
 lutomierskim	lutomierski	adj:sg:loc:m1.m2.m3.n:pos		
 lutomiersko	lutomierski	adja		
-lutomiersku	lutomierski	adjp		
+lutomiersku	lutomierski	adjp:dat		
 lutomiersko	lutomiersko	adv:pos		
 lutomierskościach	lutomierskość	subst:pl:loc:f	nazwa pospolita	
 lutomierskościami	lutomierskość	subst:pl:inst:f	nazwa pospolita	
@@ -55047,7 +55050,7 @@ lutowiskim	lutowiski	adj:pl:dat:m1.m2.m3.f.n:pos
 lutowiskim	lutowiski	adj:sg:inst:m1.m2.m3.n:pos		
 lutowiskim	lutowiski	adj:sg:loc:m1.m2.m3.n:pos		
 lutowisko	lutowiski	adja		
-lutowisku	lutowiski	adjp		
+lutowisku	lutowiski	adjp:dat		
 lutowisko	lutowisko	adv:pos		
 lutowiskościach	lutowiskość	subst:pl:loc:f	nazwa pospolita	
 lutowiskościami	lutowiskość	subst:pl:inst:f	nazwa pospolita	
@@ -55487,7 +55490,7 @@ lututowskim	lututowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lututowskim	lututowski	adj:sg:inst:m1.m2.m3.n:pos		
 lututowskim	lututowski	adj:sg:loc:m1.m2.m3.n:pos		
 lututowsko	lututowski	adja		
-lututowsku	lututowski	adjp		
+lututowsku	lututowski	adjp:dat		
 lututowsko	lututowsko	adv:pos		
 lututowskościach	lututowskość	subst:pl:loc:f	nazwa pospolita	
 lututowskościami	lututowskość	subst:pl:inst:f	nazwa pospolita	
@@ -55626,7 +55629,7 @@ luzackim	luzacki	adj:pl:dat:m1.m2.m3.f.n:pos		pot.
 luzackim	luzacki	adj:sg:inst:m1.m2.m3.n:pos		pot.
 luzackim	luzacki	adj:sg:loc:m1.m2.m3.n:pos		pot.
 luzacko	luzacki	adja		pot.
-luzacku	luzacki	adjp		pot.
+luzacku	luzacki	adjp:dat		pot.
 luzacko	luzacko	adv:pos		
 luzackościach	luzackość	subst:pl:loc:f	nazwa pospolita	
 luzackościami	luzackość	subst:pl:inst:f	nazwa pospolita	
@@ -55718,7 +55721,7 @@ luzińskim	luziński	adj:pl:dat:m1.m2.m3.f.n:pos
 luzińskim	luziński	adj:sg:inst:m1.m2.m3.n:pos		
 luzińskim	luziński	adj:sg:loc:m1.m2.m3.n:pos		
 luzińsko	luziński	adja		
-luzińsku	luziński	adjp		
+luzińsku	luziński	adjp:dat		
 luzińsko	luzińsko	adv:pos		
 luzińskościach	luzińskość	subst:pl:loc:f	nazwa pospolita	
 luzińskościami	luzińskość	subst:pl:inst:f	nazwa pospolita	
@@ -56098,7 +56101,7 @@ lwowskim	lwowski	adj:pl:dat:m1.m2.m3.f.n:pos
 lwowskim	lwowski	adj:sg:inst:m1.m2.m3.n:pos		
 lwowskim	lwowski	adj:sg:loc:m1.m2.m3.n:pos		
 lwowsko	lwowski	adja		
-lwowsku	lwowski	adjp		
+lwowsku	lwowski	adjp:dat		
 lwowsko	lwowsko	adv:pos		
 lwowskościach	lwowskość	subst:pl:loc:f	nazwa pospolita	
 lwowskościami	lwowskość	subst:pl:inst:f	nazwa pospolita	
@@ -56135,7 +56138,7 @@ lwóweckim	lwówecki	adj:pl:dat:m1.m2.m3.f.n:pos
 lwóweckim	lwówecki	adj:sg:inst:m1.m2.m3.n:pos		
 lwóweckim	lwówecki	adj:sg:loc:m1.m2.m3.n:pos		
 lwówecko	lwówecki	adja		
-lwówecku	lwówecki	adjp		
+lwówecku	lwówecki	adjp:dat		
 lwówecko	lwówecko	adv:pos		
 lwóweckościach	lwóweckość	subst:pl:loc:f		
 lwóweckościami	lwóweckość	subst:pl:inst:f		
@@ -56230,7 +56233,7 @@ lyońskim	lyoński	adj:pl:dat:m1.m2.m3.f.n:pos
 lyońskim	lyoński	adj:sg:inst:m1.m2.m3.n:pos		
 lyońskim	lyoński	adj:sg:loc:m1.m2.m3.n:pos		
 lyońsko	lyoński	adja		
-lyońsku	lyoński	adjp		
+lyońsku	lyoński	adjp:dat		
 lyońsko	lyońsko	adv:pos		
 lyońskościach	lyońskość	subst:pl:loc:f	nazwa pospolita	
 lyońskościami	lyońskość	subst:pl:inst:f	nazwa pospolita	
@@ -56267,7 +56270,7 @@ lyseckim	lysecki	adj:pl:dat:m1.m2.m3.f.n:pos
 lyseckim	lysecki	adj:sg:inst:m1.m2.m3.n:pos		
 lyseckim	lysecki	adj:sg:loc:m1.m2.m3.n:pos		
 lysecko	lysecki	adja		
-lysecku	lysecki	adjp		
+lysecku	lysecki	adjp:dat		
 lyseckościach	lyseckość	subst:pl:loc:f	nazwa pospolita	
 lyseckościami	lyseckość	subst:pl:inst:f	nazwa pospolita	
 lyseckością	lyseckość	subst:sg:inst:f	nazwa pospolita	

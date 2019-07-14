@@ -830,7 +830,7 @@ edamskim	edamski	adj:sg:inst:m1.m2.m3.n:pos
 edamskim	edamski	adj:sg:loc:m1.m2.m3.n:pos		
 edamskimi	edamski	adj:pl:inst:m1.m2.m3.f.n:pos		
 edamsko	edamski	adja		
-edamsku	edamski	adjp		
+edamsku	edamski	adjp:dat		
 edamsko	edamsko	adv:pos		
 edamskościach	edamskość	subst:pl:loc:f	nazwa pospolita	
 edamskościami	edamskość	subst:pl:inst:f	nazwa pospolita	
@@ -878,7 +878,7 @@ edeńskim	edeński	adj:sg:inst:m1.m2.m3.n:pos
 edeńskim	edeński	adj:sg:loc:m1.m2.m3.n:pos		
 edeńskimi	edeński	adj:pl:inst:m1.m2.m3.f.n:pos		
 edeńsko	edeński	adja		
-edeńsku	edeński	adjp		
+edeńsku	edeński	adjp:dat		
 edeńsko	edeńsko	adv:pos		
 edeńskościach	edeńskość	subst:pl:loc:f	nazwa pospolita	
 edeńskościami	edeńskość	subst:pl:inst:f	nazwa pospolita	
@@ -926,7 +926,7 @@ edomickim	edomicki	adj:sg:inst:m1.m2.m3.n:pos
 edomickim	edomicki	adj:sg:loc:m1.m2.m3.n:pos		
 edomickimi	edomicki	adj:pl:inst:m1.m2.m3.f.n:pos		
 edomicko	edomicki	adja		
-edomicku	edomicki	adjp		
+edomicku	edomicki	adjp:dat		
 edomicko	edomicko	adv:pos		
 edomickościach	edomickość	subst:pl:loc:f	nazwa pospolita	
 edomickościami	edomickość	subst:pl:inst:f	nazwa pospolita	
@@ -963,7 +963,7 @@ edomskim	edomski	adj:sg:inst:m1.m2.m3.n:pos
 edomskim	edomski	adj:sg:loc:m1.m2.m3.n:pos		
 edomskimi	edomski	adj:pl:inst:m1.m2.m3.f.n:pos		
 edomsko	edomski	adja		
-edomsku	edomski	adjp		
+edomsku	edomski	adjp:dat		
 edomsko	edomsko	adv:pos		
 edomskościach	edomskość	subst:pl:loc:f	nazwa pospolita	
 edomskościami	edomskość	subst:pl:inst:f	nazwa pospolita	
@@ -1310,7 +1310,7 @@ edynburskim	edynburski	adj:sg:inst:m1.m2.m3.n:pos
 edynburskim	edynburski	adj:sg:loc:m1.m2.m3.n:pos		
 edynburskimi	edynburski	adj:pl:inst:m1.m2.m3.f.n:pos		
 edynbursko	edynburski	adja		
-edynbursku	edynburski	adjp		
+edynbursku	edynburski	adjp:dat		
 edynbursko	edynbursko	adv:pos		
 edynburskościach	edynburskość	subst:pl:loc:f	nazwa pospolita	
 edynburskościami	edynburskość	subst:pl:inst:f	nazwa pospolita	
@@ -1441,7 +1441,7 @@ edytorskim	edytorski	adj:sg:inst:m1.m2.m3.n:pos
 edytorskim	edytorski	adj:sg:loc:m1.m2.m3.n:pos		
 edytorskimi	edytorski	adj:pl:inst:m1.m2.m3.f.n:pos		
 edytorsko	edytorski	adja		
-edytorsku	edytorski	adjp		
+edytorsku	edytorski	adjp:dat		
 edytorsko	edytorsko	adv:pos		
 edytorskościach	edytorskość	subst:pl:loc:f	nazwa pospolita	
 edytorskościami	edytorskość	subst:pl:inst:f	nazwa pospolita	
@@ -1661,7 +1661,7 @@ efekciarskim	efekciarski	adj:sg:inst:m1.m2.m3.n:pos
 efekciarskim	efekciarski	adj:sg:loc:m1.m2.m3.n:pos		
 efekciarskimi	efekciarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 efekciarsko	efekciarski	adja		
-efekciarsku	efekciarski	adjp		
+efekciarsku	efekciarski	adjp:dat		
 efekciarsko	efekciarsko	adv:pos		
 efekciarskościach	efekciarskość	subst:pl:loc:f	nazwa pospolita	
 efekciarskościami	efekciarskość	subst:pl:inst:f	nazwa pospolita	
@@ -2195,7 +2195,7 @@ efeskim	efeski	adj:sg:inst:m1.m2.m3.n:pos
 efeskim	efeski	adj:sg:loc:m1.m2.m3.n:pos		
 efeskimi	efeski	adj:pl:inst:m1.m2.m3.f.n:pos		
 efesko	efeski	adja		
-efesku	efeski	adjp		
+efesku	efeski	adjp:dat		
 efesko	efesko	adv:pos		
 efeskościach	efeskość	subst:pl:loc:f	nazwa pospolita	
 efeskościami	efeskość	subst:pl:inst:f	nazwa pospolita	
@@ -2312,7 +2312,7 @@ efraimskim	efraimski	adj:sg:inst:m1.m2.m3.n:pos
 efraimskim	efraimski	adj:sg:loc:m1.m2.m3.n:pos		
 efraimskimi	efraimski	adj:pl:inst:m1.m2.m3.f.n:pos		
 efraimsko	efraimski	adja		
-efraimsku	efraimski	adjp		
+efraimsku	efraimski	adjp:dat		
 efraimsko	efraimsko	adv:pos		
 efraimskościach	efraimskość	subst:pl:loc:f	nazwa pospolita	
 efraimskościami	efraimskość	subst:pl:inst:f	nazwa pospolita	
@@ -2697,7 +2697,7 @@ egejskim	egejski	adj:sg:inst:m1.m2.m3.n:pos
 egejskim	egejski	adj:sg:loc:m1.m2.m3.n:pos		
 egejskimi	egejski	adj:pl:inst:m1.m2.m3.f.n:pos		
 egejsko	egejski	adja		
-egejsku	egejski	adjp		
+egejsku	egejski	adjp:dat		
 egejsko	egejsko	adv:pos		
 egejskościach	egejskość	subst:pl:loc:f	nazwa pospolita	
 egejskościami	egejskość	subst:pl:inst:f	nazwa pospolita	
@@ -2757,7 +2757,7 @@ egipskim	egipski	adj:sg:inst:m1.m2.m3.n:pos
 egipskim	egipski	adj:sg:loc:m1.m2.m3.n:pos		
 egipskimi	egipski	adj:pl:inst:m1.m2.m3.f.n:pos		
 egipsko	egipski	adja		
-egipsku	egipski	adjp		
+egipsku	egipski	adjp:dat		
 egipsko	egipsko	adv:pos		
 egipskościach	egipskość	subst:pl:loc:f	nazwa pospolita	
 egipskościami	egipskość	subst:pl:inst:f	nazwa pospolita	
@@ -3436,7 +3436,7 @@ egzaminatorskim	egzaminatorski	adj:sg:inst:m1.m2.m3.n:pos
 egzaminatorskim	egzaminatorski	adj:sg:loc:m1.m2.m3.n:pos		
 egzaminatorskimi	egzaminatorski	adj:pl:inst:m1.m2.m3.f.n:pos		
 egzaminatorsko	egzaminatorski	adja		
-egzaminatorsku	egzaminatorski	adjp		
+egzaminatorsku	egzaminatorski	adjp:dat		
 egzaminatorsko	egzaminatorsko	adv:pos		
 egzaminatorskościach	egzaminatorskość	subst:pl:loc:f	nazwa pospolita	
 egzaminatorskościami	egzaminatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -5518,7 +5518,7 @@ egzulanckim	egzulancki	adj:sg:inst:m1.m2.m3.n:pos		daw.
 egzulanckim	egzulancki	adj:sg:loc:m1.m2.m3.n:pos		daw.
 egzulanckimi	egzulancki	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 egzulancko	egzulancki	adja		daw.
-egzulancku	egzulancki	adjp		daw.
+egzulancku	egzulancki	adjp:dat		daw.
 egzulancko	egzulancko	adv:pos		
 egzulanckościach	egzulanckość	subst:pl:loc:f	nazwa pospolita	daw.
 egzulanckościami	egzulanckość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -5902,7 +5902,7 @@ einsteinowskim	einsteinowski	adj:sg:inst:m1.m2.m3.n:pos
 einsteinowskim	einsteinowski	adj:sg:loc:m1.m2.m3.n:pos		
 einsteinowskimi	einsteinowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 einsteinowsko	einsteinowski	adja		
-einsteinowsku	einsteinowski	adjp		
+einsteinowsku	einsteinowski	adjp:dat		
 einsteinowsko	einsteinowsko	adv:pos		
 einsteinowskościach	einsteinowskość	subst:pl:loc:f	nazwa pospolita	
 einsteinowskościami	einsteinowskość	subst:pl:inst:f	nazwa pospolita	
@@ -7189,7 +7189,7 @@ ekonomskim	ekonomski	adj:sg:inst:m1.m2.m3.n:pos
 ekonomskim	ekonomski	adj:sg:loc:m1.m2.m3.n:pos		
 ekonomskimi	ekonomski	adj:pl:inst:m1.m2.m3.f.n:pos		
 ekonomsko	ekonomski	adja		
-ekonomsku	ekonomski	adjp		
+ekonomsku	ekonomski	adjp:dat		
 ekonomsko	ekonomsko	adv:pos		
 ekonomskościach	ekonomskość	subst:pl:loc:f	nazwa pospolita	
 ekonomskościami	ekonomskość	subst:pl:inst:f	nazwa pospolita	
@@ -8432,7 +8432,7 @@ eksdywizorskim	eksdywizorski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 eksdywizorskim	eksdywizorski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 eksdywizorskimi	eksdywizorski	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 eksdywizorsko	eksdywizorski	adja		daw.
-eksdywizorsku	eksdywizorski	adjp		daw.
+eksdywizorsku	eksdywizorski	adjp:dat		daw.
 eksdywizorsko	eksdywizorsko	adv:pos		daw.
 eksdywizorskościach	eksdywizorskość	subst:pl:loc:f	nazwa pospolita	daw.
 eksdywizorskościami	eksdywizorskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -10136,7 +10136,7 @@ eksperckim	ekspercki	adj:sg:inst:m1.m2.m3.n:pos
 eksperckim	ekspercki	adj:sg:loc:m1.m2.m3.n:pos		
 eksperckimi	ekspercki	adj:pl:inst:m1.m2.m3.f.n:pos		
 ekspercko	ekspercki	adja		
-ekspercku	ekspercki	adjp		
+ekspercku	ekspercki	adjp:dat		
 ekspercko	ekspercko	adv:pos		
 eksperckościach	eksperckość	subst:pl:loc:f	nazwa pospolita	
 eksperckościami	eksperckość	subst:pl:inst:f	nazwa pospolita	
@@ -10359,7 +10359,7 @@ eksperymentatorskim	eksperymentatorski	adj:sg:inst:m1.m2.m3.n:pos
 eksperymentatorskim	eksperymentatorski	adj:sg:loc:m1.m2.m3.n:pos		
 eksperymentatorskimi	eksperymentatorski	adj:pl:inst:m1.m2.m3.f.n:pos		
 eksperymentatorsko	eksperymentatorski	adja		
-eksperymentatorsku	eksperymentatorski	adjp		
+eksperymentatorsku	eksperymentatorski	adjp:dat		
 eksperymentatorsko	eksperymentatorsko	adv:pos		
 eksperymentatorskościach	eksperymentatorskość	subst:pl:loc:f	nazwa pospolita	
 eksperymentatorskościami	eksperymentatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -11043,7 +11043,7 @@ eksploatatorskim	eksploatatorski	adj:sg:inst:m1.m2.m3.n:pos
 eksploatatorskim	eksploatatorski	adj:sg:loc:m1.m2.m3.n:pos		
 eksploatatorskimi	eksploatatorski	adj:pl:inst:m1.m2.m3.f.n:pos		
 eksploatatorsko	eksploatatorski	adja		
-eksploatatorsku	eksploatatorski	adjp		
+eksploatatorsku	eksploatatorski	adjp:dat		
 eksploatatorsko	eksploatatorsko	adv:pos		
 eksploatatorskościach	eksploatatorskość	subst:pl:loc:f	nazwa pospolita	
 eksploatatorskościami	eksploatatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -11313,7 +11313,7 @@ eksploratorskim	eksploratorski	adj:sg:inst:m1.m2.m3.n:pos
 eksploratorskim	eksploratorski	adj:sg:loc:m1.m2.m3.n:pos		
 eksploratorskimi	eksploratorski	adj:pl:inst:m1.m2.m3.f.n:pos		
 eksploratorsko	eksploratorski	adja		
-eksploratorsku	eksploratorski	adjp		
+eksploratorsku	eksploratorski	adjp:dat		
 eksploratorsko	eksploratorsko	adv:pos		
 eksploratorskościach	eksploratorskość	subst:pl:loc:f	nazwa pospolita	
 eksploratorskościami	eksploratorskość	subst:pl:inst:f	nazwa pospolita	
@@ -14003,7 +14003,7 @@ ekstrawaganckim	ekstrawagancki	adj:sg:inst:m1.m2.m3.n:pos
 ekstrawaganckim	ekstrawagancki	adj:sg:loc:m1.m2.m3.n:pos		
 ekstrawaganckimi	ekstrawagancki	adj:pl:inst:m1.m2.m3.f.n:pos		
 ekstrawagancko	ekstrawagancki	adja		
-ekstrawagancku	ekstrawagancki	adjp		
+ekstrawagancku	ekstrawagancki	adjp:dat		
 ekstrawagancko	ekstrawagancko	adv:pos		
 ekstrawaganckościach	ekstrawaganckość	subst:pl:loc:f	nazwa pospolita	
 ekstrawaganckościami	ekstrawaganckość	subst:pl:inst:f	nazwa pospolita	
@@ -14512,7 +14512,7 @@ eksulanckim	eksulancki	adj:sg:inst:m1.m2.m3.n:pos		daw.
 eksulanckim	eksulancki	adj:sg:loc:m1.m2.m3.n:pos		daw.
 eksulanckimi	eksulancki	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
 eksulancko	eksulancki	adja		daw.
-eksulancku	eksulancki	adjp		daw.
+eksulancku	eksulancki	adjp:dat		daw.
 eksulancko	eksulancko	adv:pos		
 eksulanckościach	eksulanckość	subst:pl:loc:f	nazwa pospolita	daw.
 eksulanckościami	eksulanckość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -14826,7 +14826,7 @@ ekwadorskim	ekwadorski	adj:sg:inst:m1.m2.m3.n:pos
 ekwadorskim	ekwadorski	adj:sg:loc:m1.m2.m3.n:pos		
 ekwadorskimi	ekwadorski	adj:pl:inst:m1.m2.m3.f.n:pos		
 ekwadorsko	ekwadorski	adja		
-ekwadorsku	ekwadorski	adjp		
+ekwadorsku	ekwadorski	adjp:dat		
 ekwadorsko	ekwadorsko	adv:pos		
 ekwadorskościach	ekwadorskość	subst:pl:loc:f	nazwa pospolita	
 ekwadorskościami	ekwadorskość	subst:pl:inst:f	nazwa pospolita	
@@ -15425,7 +15425,7 @@ elamickim	elamicki	adj:sg:inst:m1.m2.m3.n:pos
 elamickim	elamicki	adj:sg:loc:m1.m2.m3.n:pos		
 elamickimi	elamicki	adj:pl:inst:m1.m2.m3.f.n:pos		
 elamicko	elamicki	adja		
-elamicku	elamicki	adjp		
+elamicku	elamicki	adjp:dat		
 elamicko	elamicko	adv:pos		
 elamickościach	elamickość	subst:pl:loc:f	nazwa pospolita	
 elamickościami	elamickość	subst:pl:inst:f	nazwa pospolita	
@@ -15957,7 +15957,7 @@ elbląskim	elbląski	adj:sg:inst:m1.m2.m3.n:pos
 elbląskim	elbląski	adj:sg:loc:m1.m2.m3.n:pos		
 elbląskimi	elbląski	adj:pl:inst:m1.m2.m3.f.n:pos		
 elbląsko	elbląski	adja		
-elbląsku	elbląski	adjp		
+elbląsku	elbląski	adjp:dat		
 elbląsko	elbląsko	adv:pos		
 elbląskościach	elbląskość	subst:pl:loc:f	nazwa pospolita	
 elbląskościami	elbląskość	subst:pl:inst:f	nazwa pospolita	
@@ -16027,7 +16027,7 @@ eleackim	eleacki	adj:sg:inst:m1.m2.m3.n:pos
 eleackim	eleacki	adj:sg:loc:m1.m2.m3.n:pos		
 eleackimi	eleacki	adj:pl:inst:m1.m2.m3.f.n:pos		
 eleacko	eleacki	adja		
-eleacku	eleacki	adjp		
+eleacku	eleacki	adjp:dat		
 eleacko	eleacko	adv:pos		
 eleackościach	eleackość	subst:pl:loc:f	nazwa pospolita	
 eleackościami	eleackość	subst:pl:inst:f	nazwa pospolita	
@@ -16160,7 +16160,7 @@ eleganckim	elegancki	adj:sg:inst:m1.m2.m3.n:pos
 eleganckim	elegancki	adj:sg:loc:m1.m2.m3.n:pos		
 eleganckimi	elegancki	adj:pl:inst:m1.m2.m3.f.n:pos		
 elegancko	elegancki	adja		
-elegancku	elegancki	adjp		
+elegancku	elegancki	adjp:dat		
 elegantsi	elegancki	adj:pl:nom.voc:m1:com		
 elegantsza	elegancki	adj:sg:nom.voc:f:com		
 elegantszą	elegancki	adj:sg:acc:f:com		
@@ -16328,7 +16328,7 @@ elegiackim	elegiacki	adj:sg:inst:m1.m2.m3.n:pos
 elegiackim	elegiacki	adj:sg:loc:m1.m2.m3.n:pos		
 elegiackimi	elegiacki	adj:pl:inst:m1.m2.m3.f.n:pos		
 elegiacko	elegiacki	adja		
-elegiacku	elegiacki	adjp		
+elegiacku	elegiacki	adjp:dat		
 elegiacko	elegiacko	adv:pos		
 elegiackościach	elegiackość	subst:pl:loc:f	nazwa pospolita	
 elegiackościami	elegiackość	subst:pl:inst:f	nazwa pospolita	
@@ -16424,7 +16424,7 @@ elegikowi	elegik	subst:sg:dat:m1	nazwa pospolita
 elegików	elegik	subst:pl:gen.acc:m1	nazwa pospolita	
 elegiku	elegik	subst:sg:loc:m1	nazwa pospolita	
 elegiku	elegik	subst:sg:voc:m1	nazwa pospolita	
-eleison	eleison	burk		
+eleison	eleison	frag		
 elekcjach	elekcja	subst:pl:loc:f	nazwa pospolita	
 elekcja	elekcja	subst:sg:nom:f	nazwa pospolita	
 elekcjami	elekcja	subst:pl:inst:f	nazwa pospolita	
@@ -16578,7 +16578,7 @@ elektorskim	elektorski	adj:sg:inst:m1.m2.m3.n:pos
 elektorskim	elektorski	adj:sg:loc:m1.m2.m3.n:pos		
 elektorskimi	elektorski	adj:pl:inst:m1.m2.m3.f.n:pos		
 elektorsko	elektorski	adja		
-elektorsku	elektorski	adjp		
+elektorsku	elektorski	adjp:dat		
 elektorsko	elektorsko	adv:pos		
 elektorskościach	elektorskość	subst:pl:loc:f	nazwa pospolita	
 elektorskościami	elektorskość	subst:pl:inst:f	nazwa pospolita	
@@ -18856,7 +18856,7 @@ elektropajęczarskim	elektropajęczarski	adj:sg:inst:m1.m2.m3.n:pos
 elektropajęczarskim	elektropajęczarski	adj:sg:loc:m1.m2.m3.n:pos		
 elektropajęczarskimi	elektropajęczarski	adj:pl:inst:m1.m2.m3.f.n:pos		
 elektropajęczarsko	elektropajęczarski	adja		
-elektropajęczarsku	elektropajęczarski	adjp		
+elektropajęczarsku	elektropajęczarski	adjp:dat		
 elektropajęczarsko	elektropajęczarsko	adv:pos		
 elektropajęczarskościach	elektropajęczarskość	subst:pl:loc:f	nazwa pospolita	
 elektropajęczarskościami	elektropajęczarskość	subst:pl:inst:f	nazwa pospolita	
@@ -19789,7 +19789,7 @@ elektryzującym	elektryzujący	adj:pl:dat:m1.m2.m3.f.n:pos
 elektryzującym	elektryzujący	adj:sg:inst:m1.m2.m3.n:pos		
 elektryzującym	elektryzujący	adj:sg:loc:m1.m2.m3.n:pos		
 elektryzującymi	elektryzujący	adj:pl:inst:m1.m2.m3.f.n:pos		
-elemele	elemele	burk		
+elemele	elemele	frag		
 elemencie	element	subst:sg:loc:m3	nazwa pospolita	
 elemencie	element	subst:sg:voc:m3	nazwa pospolita	
 elementach	element	subst:pl:loc:m3	nazwa pospolita	
@@ -20030,7 +20030,7 @@ eleuzyńskim	eleuzyński	adj:sg:inst:m1.m2.m3.n:pos
 eleuzyńskim	eleuzyński	adj:sg:loc:m1.m2.m3.n:pos		
 eleuzyńskimi	eleuzyński	adj:pl:inst:m1.m2.m3.f.n:pos		
 eleuzyńsko	eleuzyński	adja		
-eleuzyńsku	eleuzyński	adjp		
+eleuzyńsku	eleuzyński	adjp:dat		
 eleuzyńsko	eleuzyńsko	adv:pos		
 eleuzyńskościach	eleuzyńskość	subst:pl:loc:f	nazwa pospolita	
 eleuzyńskościami	eleuzyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -20253,7 +20253,7 @@ elfickim	elficki	adj:sg:inst:m1.m2.m3.n:pos
 elfickim	elficki	adj:sg:loc:m1.m2.m3.n:pos		
 elfickimi	elficki	adj:pl:inst:m1.m2.m3.f.n:pos		
 elficko	elficki	adja		
-elficku	elficki	adjp		
+elficku	elficki	adjp:dat		
 elficko	elficko	adv:pos		
 elfickościach	elfickość	subst:pl:loc:f	nazwa pospolita	
 elfickościami	elfickość	subst:pl:inst:f	nazwa pospolita	
@@ -20415,7 +20415,7 @@ elijskim	elijski	adj:sg:inst:m1.m2.m3.n:pos
 elijskim	elijski	adj:sg:loc:m1.m2.m3.n:pos		
 elijskimi	elijski	adj:pl:inst:m1.m2.m3.f.n:pos		
 elijsko	elijski	adja		
-elijsku	elijski	adjp		
+elijsku	elijski	adjp:dat		
 elijsko	elijsko	adv:pos		
 elijskościach	elijskość	subst:pl:loc:f	nazwa pospolita	
 elijskościami	elijskość	subst:pl:inst:f	nazwa pospolita	
@@ -20963,7 +20963,7 @@ elizejskim	elizejski	adj:sg:inst:m1.m2.m3.n:pos
 elizejskim	elizejski	adj:sg:loc:m1.m2.m3.n:pos		
 elizejskimi	elizejski	adj:pl:inst:m1.m2.m3.f.n:pos		
 elizejsko	elizejski	adja		
-elizejsku	elizejski	adjp		
+elizejsku	elizejski	adjp:dat		
 elizejsko	elizejsko	adv:pos		
 elizejskościach	elizejskość	subst:pl:loc:f	nazwa pospolita	
 elizejskościami	elizejskość	subst:pl:inst:f	nazwa pospolita	
@@ -21385,7 +21385,7 @@ elzetesowskim	elzetesowski	adj:sg:inst:m1.m2.m3.n:pos
 elzetesowskim	elzetesowski	adj:sg:loc:m1.m2.m3.n:pos		
 elzetesowskimi	elzetesowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 elzetesowsko	elzetesowski	adja		
-elzetesowsku	elzetesowski	adjp		
+elzetesowsku	elzetesowski	adjp:dat		
 elzetesowsko	elzetesowsko	adv:pos		
 elzetesowskościach	elzetesowskość	subst:pl:loc:f	nazwa pospolita	
 elzetesowskościami	elzetesowskość	subst:pl:inst:f	nazwa pospolita	
@@ -21433,7 +21433,7 @@ elzewirskim	elzewirski	adj:sg:inst:m1.m2.m3.n:pos
 elzewirskim	elzewirski	adj:sg:loc:m1.m2.m3.n:pos		
 elzewirskimi	elzewirski	adj:pl:inst:m1.m2.m3.f.n:pos		
 elzewirsko	elzewirski	adja		
-elzewirsku	elzewirski	adjp		
+elzewirsku	elzewirski	adjp:dat		
 elzewirsko	elzewirsko	adv:pos		
 elzewirskościach	elzewirskość	subst:pl:loc:f	nazwa pospolita	
 elzewirskościami	elzewirskość	subst:pl:inst:f	nazwa pospolita	
@@ -21481,7 +21481,7 @@ elżbietańskim	elżbietański	adj:sg:inst:m1.m2.m3.n:pos
 elżbietańskim	elżbietański	adj:sg:loc:m1.m2.m3.n:pos		
 elżbietańskimi	elżbietański	adj:pl:inst:m1.m2.m3.f.n:pos		
 elżbietańsko	elżbietański	adja		
-elżbietańsku	elżbietański	adjp		
+elżbietańsku	elżbietański	adjp:dat		
 elżbietańsko	elżbietańsko	adv:pos		
 elżbietańskościach	elżbietańskość	subst:pl:loc:f	nazwa pospolita	
 elżbietańskościami	elżbietańskość	subst:pl:inst:f	nazwa pospolita	
@@ -21519,7 +21519,7 @@ ełckim	ełcki	adj:sg:inst:m1.m2.m3.n:pos
 ełckim	ełcki	adj:sg:loc:m1.m2.m3.n:pos		
 ełckimi	ełcki	adj:pl:inst:m1.m2.m3.f.n:pos		
 ełcko	ełcki	adja		
-ełcku	ełcki	adjp		
+ełcku	ełcki	adjp:dat		
 ełcko	ełcko	adv:pos		
 ełckościach	ełckość	subst:pl:loc:f	nazwa pospolita	
 ełckościami	ełckość	subst:pl:inst:f	nazwa pospolita	
@@ -21876,7 +21876,7 @@ emalierskim	emalierski	adj:sg:inst:m1.m2.m3.n:pos
 emalierskim	emalierski	adj:sg:loc:m1.m2.m3.n:pos		
 emalierskimi	emalierski	adj:pl:inst:m1.m2.m3.f.n:pos		
 emaliersko	emalierski	adja		
-emaliersku	emalierski	adjp		
+emaliersku	emalierski	adjp:dat		
 emaliersko	emaliersko	adv:pos		
 emalierskościach	emalierskość	subst:pl:loc:f	nazwa pospolita	
 emalierskościami	emalierskość	subst:pl:inst:f	nazwa pospolita	
@@ -22776,7 +22776,7 @@ ementalskim	ementalski	adj:sg:inst:m1.m2.m3.n:pos
 ementalskim	ementalski	adj:sg:loc:m1.m2.m3.n:pos		
 ementalskimi	ementalski	adj:pl:inst:m1.m2.m3.f.n:pos		
 ementalsko	ementalski	adja		
-ementalsku	ementalski	adjp		
+ementalsku	ementalski	adjp:dat		
 ementalsko	ementalsko	adv:pos		
 ementalskościach	ementalskość	subst:pl:loc:f	nazwa pospolita	
 ementalskościami	ementalskość	subst:pl:inst:f	nazwa pospolita	
@@ -22871,7 +22871,7 @@ emeryckim	emerycki	adj:sg:inst:m1.m2.m3.n:pos
 emeryckim	emerycki	adj:sg:loc:m1.m2.m3.n:pos		
 emeryckimi	emerycki	adj:pl:inst:m1.m2.m3.f.n:pos		
 emerycko	emerycki	adja		
-emerycku	emerycki	adjp		
+emerycku	emerycki	adjp:dat		
 emerycko	emerycko	adv:pos		
 emeryckościach	emeryckość	subst:pl:loc:f	nazwa pospolita	
 emeryckościami	emeryckość	subst:pl:inst:f	nazwa pospolita	
@@ -23287,7 +23287,7 @@ emigranckim	emigrancki	adj:sg:inst:m1.m2.m3.n:pos
 emigranckim	emigrancki	adj:sg:loc:m1.m2.m3.n:pos		
 emigranckimi	emigrancki	adj:pl:inst:m1.m2.m3.f.n:pos		
 emigrancko	emigrancki	adja		
-emigrancku	emigrancki	adjp		
+emigrancku	emigrancki	adjp:dat		
 emigrancko	emigrancko	adv:pos		
 emigranckościach	emigranckość	subst:pl:loc:f	nazwa pospolita	
 emigranckościami	emigranckość	subst:pl:inst:f	nazwa pospolita	
@@ -23357,7 +23357,7 @@ emigrańskim	emigrański	adj:sg:inst:m1.m2.m3.n:pos		indyw.
 emigrańskim	emigrański	adj:sg:loc:m1.m2.m3.n:pos		indyw.
 emigrańskimi	emigrański	adj:pl:inst:m1.m2.m3.f.n:pos		indyw.
 emigrańsko	emigrański	adja		indyw.
-emigrańsku	emigrański	adjp		indyw.
+emigrańsku	emigrański	adjp:dat		indyw.
 emigrańsko	emigrańsko	adv:pos		daw.
 emigrańskościach	emigrańskość	subst:pl:loc:f	nazwa pospolita	indyw.
 emigrańskościami	emigrańskość	subst:pl:inst:f	nazwa pospolita	indyw.
@@ -24090,7 +24090,7 @@ emorejskim	emorejski	adj:sg:inst:m1.m2.m3.n:pos
 emorejskim	emorejski	adj:sg:loc:m1.m2.m3.n:pos		
 emorejskimi	emorejski	adj:pl:inst:m1.m2.m3.f.n:pos		
 emorejsko	emorejski	adja		
-emorejsku	emorejski	adjp		
+emorejsku	emorejski	adjp:dat		
 emorejsko	emorejsko	adv:pos		
 emorejskościach	emorejskość	subst:pl:loc:f	nazwa pospolita	
 emorejskościami	emorejskość	subst:pl:inst:f	nazwa pospolita	
@@ -24280,7 +24280,7 @@ empirejskim	empirejski	adj:sg:inst:m1.m2.m3.n:pos
 empirejskim	empirejski	adj:sg:loc:m1.m2.m3.n:pos		
 empirejskimi	empirejski	adj:pl:inst:m1.m2.m3.f.n:pos		
 empirejsko	empirejski	adja		
-empirejsku	empirejski	adjp		
+empirejsku	empirejski	adjp:dat		
 empirejsko	empirejsko	adv:pos		
 empirejskościach	empirejskość	subst:pl:loc:f	nazwa pospolita	
 empirejskościami	empirejskość	subst:pl:inst:f	nazwa pospolita	
@@ -24595,7 +24595,7 @@ emskim	emski	adj:sg:inst:m1.m2.m3.n:pos
 emskim	emski	adj:sg:loc:m1.m2.m3.n:pos		
 emskimi	emski	adj:pl:inst:m1.m2.m3.f.n:pos		
 emsko	emski	adja		
-emsku	emski	adjp		
+emsku	emski	adjp:dat		
 emsko	emsko	adv:pos		
 emskościach	emskość	subst:pl:loc:f	nazwa pospolita	
 emskościami	emskość	subst:pl:inst:f	nazwa pospolita	
@@ -25194,7 +25194,7 @@ endeckim	endecki	adj:sg:inst:m1.m2.m3.n:pos
 endeckim	endecki	adj:sg:loc:m1.m2.m3.n:pos		
 endeckimi	endecki	adj:pl:inst:m1.m2.m3.f.n:pos		
 endecko	endecki	adja		
-endecku	endecki	adjp		
+endecku	endecki	adjp:dat		
 endecko	endecko	adv:pos		
 endeckościach	endeckość	subst:pl:loc:f	nazwa pospolita	
 endeckościami	endeckość	subst:pl:inst:f	nazwa pospolita	
@@ -26019,7 +26019,7 @@ enerdowskim	enerdowski	adj:sg:inst:m1.m2.m3.n:pos
 enerdowskim	enerdowski	adj:sg:loc:m1.m2.m3.n:pos		
 enerdowskimi	enerdowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 enerdowsko	enerdowski	adja		
-enerdowsku	enerdowski	adjp		
+enerdowsku	enerdowski	adjp:dat		
 enerdowsko	enerdowsko	adv:pos		
 enerdowskościach	enerdowskość	subst:pl:loc:f	nazwa pospolita	
 enerdowskościami	enerdowskość	subst:pl:inst:f	nazwa pospolita	
@@ -26056,7 +26056,7 @@ enerefowskim	enerefowski	adj:sg:inst:m1.m2.m3.n:pos
 enerefowskim	enerefowski	adj:sg:loc:m1.m2.m3.n:pos		
 enerefowskimi	enerefowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 enerefowsko	enerefowski	adja		
-enerefowsku	enerefowski	adjp		
+enerefowsku	enerefowski	adjp:dat		
 enerefowsko	enerefowsko	adv:pos		
 enerefowskościach	enerefowskość	subst:pl:loc:f	nazwa pospolita	
 enerefowskościami	enerefowskość	subst:pl:inst:f	nazwa pospolita	
@@ -26950,7 +26950,7 @@ enkawudowskim	enkawudowski	adj:sg:inst:m1.m2.m3.n:pos
 enkawudowskim	enkawudowski	adj:sg:loc:m1.m2.m3.n:pos		
 enkawudowskimi	enkawudowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 enkawudowsko	enkawudowski	adja		
-enkawudowsku	enkawudowski	adjp		
+enkawudowsku	enkawudowski	adjp:dat		
 enkawudowsko	enkawudowsko	adv:pos		
 enkawudowskościach	enkawudowskość	subst:pl:loc:f	nazwa pospolita	
 enkawudowskościami	enkawudowskość	subst:pl:inst:f	nazwa pospolita	
@@ -28301,7 +28301,7 @@ eoceńskim	eoceński	adj:sg:inst:m1.m2.m3.n:pos
 eoceńskim	eoceński	adj:sg:loc:m1.m2.m3.n:pos		
 eoceńskimi	eoceński	adj:pl:inst:m1.m2.m3.f.n:pos		
 eoceńsko	eoceński	adja		
-eoceńsku	eoceński	adjp		
+eoceńsku	eoceński	adjp:dat		
 eoceńsko	eoceńsko	adv:pos		
 eoceńskościach	eoceńskość	subst:pl:loc:f	nazwa pospolita	
 eoceńskościami	eoceńskość	subst:pl:inst:f	nazwa pospolita	
@@ -28465,7 +28465,7 @@ eolskim	eolski	adj:sg:inst:m1.m2.m3.n:pos
 eolskim	eolski	adj:sg:loc:m1.m2.m3.n:pos		
 eolskimi	eolski	adj:pl:inst:m1.m2.m3.f.n:pos		
 eolsko	eolski	adja		
-eolsku	eolski	adjp		
+eolsku	eolski	adjp:dat		
 eolsko	eolsko	adv:pos		
 eolskościach	eolskość	subst:pl:loc:f	nazwa pospolita	
 eolskościami	eolskość	subst:pl:inst:f	nazwa pospolita	
@@ -29093,7 +29093,7 @@ epickim	epicki	adj:sg:inst:m1.m2.m3.n:pos
 epickim	epicki	adj:sg:loc:m1.m2.m3.n:pos		
 epickimi	epicki	adj:pl:inst:m1.m2.m3.f.n:pos		
 epicko	epicki	adja		
-epicku	epicki	adjp		
+epicku	epicki	adjp:dat		
 epicko	epicko	adv:pos		
 epickościach	epickość	subst:pl:loc:f	nazwa pospolita	
 epickościami	epickość	subst:pl:inst:f	nazwa pospolita	
@@ -29662,7 +29662,7 @@ epigońskim	epigoński	adj:sg:inst:m1.m2.m3.n:pos
 epigońskim	epigoński	adj:sg:loc:m1.m2.m3.n:pos		
 epigońskimi	epigoński	adj:pl:inst:m1.m2.m3.f.n:pos		
 epigońsko	epigoński	adja		
-epigońsku	epigoński	adjp		
+epigońsku	epigoński	adjp:dat		
 epigońsko	epigońsko	adv:pos		
 epigońskościach	epigońskość	subst:pl:loc:f	nazwa pospolita	
 epigońskościami	epigońskość	subst:pl:inst:f	nazwa pospolita	
@@ -29961,7 +29961,7 @@ epikurejskim	epikurejski	adj:sg:inst:m1.m2.m3.n:pos
 epikurejskim	epikurejski	adj:sg:loc:m1.m2.m3.n:pos		
 epikurejskimi	epikurejski	adj:pl:inst:m1.m2.m3.f.n:pos		
 epikurejsko	epikurejski	adja		
-epikurejsku	epikurejski	adjp		
+epikurejsku	epikurejski	adjp:dat		
 epikurejsko	epikurejsko	adv:pos		
 epikurejskościach	epikurejskość	subst:pl:loc:f	nazwa pospolita	
 epikurejskościami	epikurejskość	subst:pl:inst:f	nazwa pospolita	
@@ -30401,7 +30401,7 @@ episjerskim	episjerski	adj:sg:inst:m1.m2.m3.n:pos		przest.
 episjerskim	episjerski	adj:sg:loc:m1.m2.m3.n:pos		przest.
 episjerskimi	episjerski	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
 episjersko	episjerski	adja		przest.
-episjersku	episjerski	adjp		przest.
+episjersku	episjerski	adjp:dat		przest.
 episjersko	episjersko	adv:pos		
 episjerskościach	episjerskość	subst:pl:loc:f	nazwa pospolita	przest.
 episjerskościami	episjerskość	subst:pl:inst:f	nazwa pospolita	przest.
@@ -31899,7 +31899,7 @@ erazmiańskim	erazmiański	adj:sg:inst:m1.m2.m3.n:pos
 erazmiańskim	erazmiański	adj:sg:loc:m1.m2.m3.n:pos		
 erazmiańskimi	erazmiański	adj:pl:inst:m1.m2.m3.f.n:pos		
 erazmiańsko	erazmiański	adja		
-erazmiańsku	erazmiański	adjp		
+erazmiańsku	erazmiański	adjp:dat		
 erazmiańsko	erazmiańsko	adv:pos		
 erazmiańskościach	erazmiańskość	subst:pl:loc:f	nazwa pospolita	
 erazmiańskościami	erazmiańskość	subst:pl:inst:f	nazwa pospolita	
@@ -31947,7 +31947,7 @@ erefenowskim	erefenowski	adj:sg:inst:m1.m2.m3.n:pos
 erefenowskim	erefenowski	adj:sg:loc:m1.m2.m3.n:pos		
 erefenowskimi	erefenowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 erefenowsko	erefenowski	adja		
-erefenowsku	erefenowski	adjp		
+erefenowsku	erefenowski	adjp:dat		
 erefenowsko	erefenowsko	adv:pos		
 erefenowskościach	erefenowskość	subst:pl:loc:f	nazwa pospolita	
 erefenowskościami	erefenowskość	subst:pl:inst:f	nazwa pospolita	
@@ -32042,7 +32042,7 @@ eremickim	eremicki	adj:sg:inst:m1.m2.m3.n:pos
 eremickim	eremicki	adj:sg:loc:m1.m2.m3.n:pos		
 eremickimi	eremicki	adj:pl:inst:m1.m2.m3.f.n:pos		
 eremicko	eremicki	adja		
-eremicku	eremicki	adjp		
+eremicku	eremicki	adjp:dat		
 eremicko	eremicko	adv:pos		
 eremickościach	eremickość	subst:pl:loc:f	nazwa pospolita	
 eremickościami	eremickość	subst:pl:inst:f	nazwa pospolita	
@@ -32134,7 +32134,7 @@ erewańskim	erewański	adj:sg:inst:m1.m2.m3.n:pos		rzad.
 erewańskim	erewański	adj:sg:loc:m1.m2.m3.n:pos		rzad.
 erewańskimi	erewański	adj:pl:inst:m1.m2.m3.f.n:pos		rzad.
 erewańsko	erewański	adja		rzad.
-erewańsku	erewański	adjp		rzad.
+erewańsku	erewański	adjp:dat		rzad.
 erewańsko	erewańsko	adv:pos		
 erewańskościach	erewańskość	subst:pl:loc:f	nazwa pospolita	rzad.
 erewańskościami	erewańskość	subst:pl:inst:f	nazwa pospolita	rzad.
@@ -32873,7 +32873,7 @@ erotografomańskim	erotografomański	adj:sg:inst:m1.m2.m3.n:pos
 erotografomańskim	erotografomański	adj:sg:loc:m1.m2.m3.n:pos		
 erotografomańskimi	erotografomański	adj:pl:inst:m1.m2.m3.f.n:pos		
 erotografomańsko	erotografomański	adja		
-erotografomańsku	erotografomański	adjp		
+erotografomańsku	erotografomański	adjp:dat		
 erotografomańsko	erotografomańsko	adv:pos		
 erotografomańskościach	erotografomańskość	subst:pl:loc:f	nazwa pospolita	
 erotografomańskościami	erotografomańskość	subst:pl:inst:f	nazwa pospolita	
@@ -32945,7 +32945,7 @@ erotomańskim	erotomański	adj:sg:inst:m1.m2.m3.n:pos
 erotomańskim	erotomański	adj:sg:loc:m1.m2.m3.n:pos		
 erotomańskimi	erotomański	adj:pl:inst:m1.m2.m3.f.n:pos		
 erotomańsko	erotomański	adja		
-erotomańsku	erotomański	adjp		
+erotomańsku	erotomański	adjp:dat		
 erotomańsko	erotomańsko	adv:pos		
 erotomańskościach	erotomańskość	subst:pl:loc:f	nazwa pospolita	
 erotomańskościami	erotomańskość	subst:pl:inst:f	nazwa pospolita	
@@ -33258,7 +33258,7 @@ ertebelskim	ertebelski	adj:sg:inst:m1.m2.m3.n:pos
 ertebelskim	ertebelski	adj:sg:loc:m1.m2.m3.n:pos		
 ertebelskimi	ertebelski	adj:pl:inst:m1.m2.m3.f.n:pos		
 ertebelsko	ertebelski	adja		
-ertebelsku	ertebelski	adjp		
+ertebelsku	ertebelski	adjp:dat		
 ertebelsko	ertebelsko	adv:pos		
 ertebelskościach	ertebelskość	subst:pl:loc:f	nazwa pospolita	
 ertebelskościami	ertebelskość	subst:pl:inst:f	nazwa pospolita	
@@ -33573,7 +33573,7 @@ erytrejskim	erytrejski	adj:sg:inst:m1.m2.m3.n:pos
 erytrejskim	erytrejski	adj:sg:loc:m1.m2.m3.n:pos		
 erytrejskimi	erytrejski	adj:pl:inst:m1.m2.m3.f.n:pos		
 erytrejsko	erytrejski	adja		
-erytrejsku	erytrejski	adjp		
+erytrejsku	erytrejski	adjp:dat		
 erytrejsko	erytrejsko	adv:pos		
 erytrejskościach	erytrejskość	subst:pl:loc:f	nazwa pospolita	
 erytrejskościami	erytrejskość	subst:pl:inst:f	nazwa pospolita	
@@ -33687,7 +33687,7 @@ erywańskim	erywański	adj:sg:inst:m1.m2.m3.n:pos
 erywańskim	erywański	adj:sg:loc:m1.m2.m3.n:pos		
 erywańskimi	erywański	adj:pl:inst:m1.m2.m3.f.n:pos		
 erywańsko	erywański	adja		
-erywańsku	erywański	adjp		
+erywańsku	erywański	adjp:dat		
 erywańsko	erywańsko	adv:pos		
 erywańskościach	erywańskość	subst:pl:loc:f	nazwa pospolita	
 erywańskościami	erywańskość	subst:pl:inst:f	nazwa pospolita	
@@ -33759,7 +33759,7 @@ esbeckim	esbecki	adj:sg:inst:m1.m2.m3.n:pos
 esbeckim	esbecki	adj:sg:loc:m1.m2.m3.n:pos		
 esbeckimi	esbecki	adj:pl:inst:m1.m2.m3.f.n:pos		
 esbecko	esbecki	adja		
-esbecku	esbecki	adjp		
+esbecku	esbecki	adjp:dat		
 esbecko	esbecko	adv:pos		
 esbeckościach	esbeckość	subst:pl:loc:f	nazwa pospolita	
 esbeckościami	esbeckość	subst:pl:inst:f	nazwa pospolita	
@@ -33903,7 +33903,7 @@ esdeckim	esdecki	adj:sg:inst:m1.m2.m3.n:pos
 esdeckim	esdecki	adj:sg:loc:m1.m2.m3.n:pos		
 esdeckimi	esdecki	adj:pl:inst:m1.m2.m3.f.n:pos		
 esdecko	esdecki	adja		
-esdecku	esdecki	adjp		
+esdecku	esdecki	adjp:dat		
 esdecko	esdecko	adv:pos		
 esdeckościach	esdeckość	subst:pl:loc:f	nazwa pospolita	
 esdeckościami	esdeckość	subst:pl:inst:f	nazwa pospolita	
@@ -34118,7 +34118,7 @@ eseldowskim	eseldowski	adj:sg:inst:m1.m2.m3.n:pos
 eseldowskim	eseldowski	adj:sg:loc:m1.m2.m3.n:pos		
 eseldowskimi	eseldowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 eseldowsko	eseldowski	adja		
-eseldowsku	eseldowski	adjp		
+eseldowsku	eseldowski	adjp:dat		
 eseldowsko	eseldowsko	adv:pos		
 eseldowskościach	eseldowskość	subst:pl:loc:f	nazwa pospolita	
 eseldowskościami	eseldowskość	subst:pl:inst:f	nazwa pospolita	
@@ -34155,7 +34155,7 @@ eselowskim	eselowski	adj:sg:inst:m1.m2.m3.n:pos
 eselowskim	eselowski	adj:sg:loc:m1.m2.m3.n:pos		
 eselowskimi	eselowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 eselowsko	eselowski	adja		
-eselowsku	eselowski	adjp		
+eselowsku	eselowski	adjp:dat		
 eselowsko	eselowsko	adv:pos		
 eselowskościach	eselowskość	subst:pl:loc:f	nazwa pospolita	
 eselowskościami	eselowskość	subst:pl:inst:f	nazwa pospolita	
@@ -34453,7 +34453,7 @@ eserowskim	eserowski	adj:sg:inst:m1.m2.m3.n:pos
 eserowskim	eserowski	adj:sg:loc:m1.m2.m3.n:pos		
 eserowskimi	eserowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 eserowsko	eserowski	adja		
-eserowsku	eserowski	adjp		
+eserowsku	eserowski	adjp:dat		
 eserowsko	eserowsko	adv:pos		
 eserowskościach	eserowskość	subst:pl:loc:f	nazwa pospolita	
 eserowskościami	eserowskość	subst:pl:inst:f	nazwa pospolita	
@@ -34524,7 +34524,7 @@ esesmańskim	esesmański	adj:sg:inst:m1.m2.m3.n:pos
 esesmańskim	esesmański	adj:sg:loc:m1.m2.m3.n:pos		
 esesmańskimi	esesmański	adj:pl:inst:m1.m2.m3.f.n:pos		
 esesmańsko	esesmański	adja		
-esesmańsku	esesmański	adjp		
+esesmańsku	esesmański	adjp:dat		
 esesmańsko	esesmańsko	adv:pos		
 esesmańskościach	esesmańskość	subst:pl:loc:f	nazwa pospolita	
 esesmańskościami	esesmańskość	subst:pl:inst:f	nazwa pospolita	
@@ -34574,7 +34574,7 @@ esesowskim	esesowski	adj:sg:inst:m1.m2.m3.n:pos
 esesowskim	esesowski	adj:sg:loc:m1.m2.m3.n:pos		
 esesowskimi	esesowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 esesowsko	esesowski	adja		
-esesowsku	esesowski	adjp		
+esesowsku	esesowski	adjp:dat		
 esesowsko	esesowsko	adv:pos		
 esesowskościach	esesowskość	subst:pl:loc:f	nazwa pospolita	
 esesowskościami	esesowskość	subst:pl:inst:f	nazwa pospolita	
@@ -34666,7 +34666,7 @@ eskaerowskim	eskaerowski	adj:sg:inst:m1.m2.m3.n:pos
 eskaerowskim	eskaerowski	adj:sg:loc:m1.m2.m3.n:pos		
 eskaerowskimi	eskaerowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 eskaerowsko	eskaerowski	adja		
-eskaerowsku	eskaerowski	adjp		
+eskaerowsku	eskaerowski	adjp:dat		
 eskaerowsko	eskaerowsko	adv:pos		
 eskaerowskościach	eskaerowskość	subst:pl:loc:f	nazwa pospolita	
 eskaerowskościami	eskaerowskość	subst:pl:inst:f	nazwa pospolita	
@@ -35124,7 +35124,7 @@ eskimoskim	eskimoski	adj:sg:inst:m1.m2.m3.n:pos
 eskimoskim	eskimoski	adj:sg:loc:m1.m2.m3.n:pos		
 eskimoskimi	eskimoski	adj:pl:inst:m1.m2.m3.f.n:pos		
 eskimosko	eskimoski	adja		
-eskimosku	eskimoski	adjp		
+eskimosku	eskimoski	adjp:dat		
 eskimosko	eskimosko	adv:pos		
 eskimoskościach	eskimoskość	subst:pl:loc:f	nazwa pospolita	
 eskimoskościami	eskimoskość	subst:pl:inst:f	nazwa pospolita	
@@ -35478,7 +35478,7 @@ eskulapskim	eskulapski	adj:sg:inst:m1.m2.m3.n:pos
 eskulapskim	eskulapski	adj:sg:loc:m1.m2.m3.n:pos		
 eskulapskimi	eskulapski	adj:pl:inst:m1.m2.m3.f.n:pos		
 eskulapsko	eskulapski	adja		
-eskulapsku	eskulapski	adjp		
+eskulapsku	eskulapski	adjp:dat		
 eskulapsko	eskulapsko	adv:pos		
 eskulapskościach	eskulapskość	subst:pl:loc:f	nazwa pospolita	
 eskulapskościami	eskulapskość	subst:pl:inst:f	nazwa pospolita	
@@ -35527,7 +35527,7 @@ esmańskim	esmański	adj:sg:inst:m1.m2.m3.n:pos
 esmańskim	esmański	adj:sg:loc:m1.m2.m3.n:pos		
 esmańskimi	esmański	adj:pl:inst:m1.m2.m3.f.n:pos		
 esmańsko	esmański	adja		
-esmańsku	esmański	adjp		
+esmańsku	esmański	adjp:dat		
 esmańsko	esmańsko	adv:pos		
 esmańskościach	esmańskość	subst:pl:loc:f	nazwa pospolita	
 esmańskościami	esmańskość	subst:pl:inst:f	nazwa pospolita	
@@ -35797,7 +35797,7 @@ esperanckim	esperancki	adj:sg:inst:m1.m2.m3.n:pos
 esperanckim	esperancki	adj:sg:loc:m1.m2.m3.n:pos		
 esperanckimi	esperancki	adj:pl:inst:m1.m2.m3.f.n:pos		
 esperancko	esperancki	adja		
-esperancku	esperancki	adjp		
+esperancku	esperancki	adjp:dat		
 esperancko	esperancko	adv:pos		
 esperanckościach	esperanckość	subst:pl:loc:f	nazwa pospolita	
 esperanckościami	esperanckość	subst:pl:inst:f	nazwa pospolita	
@@ -35905,7 +35905,7 @@ esseńskim	esseński	adj:sg:inst:m1.m2.m3.n:pos
 esseńskim	esseński	adj:sg:loc:m1.m2.m3.n:pos		
 esseńskimi	esseński	adj:pl:inst:m1.m2.m3.f.n:pos		
 esseńsko	esseński	adja		
-esseńsku	esseński	adjp		
+esseńsku	esseński	adjp:dat		
 esseńsko	esseńsko	adv:pos		
 esseńskościach	esseńskość	subst:pl:loc:f	nazwa pospolita	
 esseńskościami	esseńskość	subst:pl:inst:f	nazwa pospolita	
@@ -36234,6 +36234,7 @@ estokady	estokada	subst:pl:nom.acc.voc:f	nazwa pospolita
 estokady	estokada	subst:sg:gen:f	nazwa pospolita	
 estokadzie	estokada	subst:sg:dat.loc:f	nazwa pospolita	
 estońscy	estoński:a	adj:pl:nom.voc:m1:pos		
+estońska	estoński:a	adjp:gen		
 estońska	estoński:a	adj:sg:nom.voc:f:pos		
 estońską	estoński:a	adj:sg:acc:f:pos		
 estońską	estoński:a	adj:sg:inst:f:pos		
@@ -36257,7 +36258,7 @@ estońskim	estoński:a	adj:sg:inst:m1.m2.m3.n:pos
 estońskim	estoński:a	adj:sg:loc:m1.m2.m3.n:pos		
 estońskimi	estoński:a	adj:pl:inst:m1.m2.m3.f.n:pos		
 estońsko	estoński:a	adja		
-estońsku	estoński:a	adjp		
+estońsku	estoński:a	adjp:dat		
 estońskich	estoński:s	subst:pl:gen:m3	nazwa pospolita	jęz.
 estońskich	estoński:s	subst:pl:loc:m3	nazwa pospolita	jęz.
 estońskie	estoński:s	subst:pl:nom.acc.voc:m3	nazwa pospolita	jęz.
@@ -36467,7 +36468,7 @@ estremadurskim	estremadurski	adj:sg:inst:m1.m2.m3.n:pos
 estremadurskim	estremadurski	adj:sg:loc:m1.m2.m3.n:pos		
 estremadurskimi	estremadurski	adj:pl:inst:m1.m2.m3.f.n:pos		
 estremadursko	estremadurski	adja		
-estremadursku	estremadurski	adjp		
+estremadursku	estremadurski	adjp:dat		
 estremadursko	estremadursko	adv:pos		
 estremadurskościach	estremadurskość	subst:pl:loc:f	nazwa pospolita	
 estremadurskościami	estremadurskość	subst:pl:inst:f	nazwa pospolita	
@@ -37774,7 +37775,7 @@ etezyjskim	etezyjski	adj:sg:inst:m1.m2.m3.n:pos
 etezyjskim	etezyjski	adj:sg:loc:m1.m2.m3.n:pos		
 etezyjskimi	etezyjski	adj:pl:inst:m1.m2.m3.f.n:pos		
 etezyjsko	etezyjski	adja		
-etezyjsku	etezyjski	adjp		
+etezyjsku	etezyjski	adjp:dat		
 etezyjsko	etezyjsko	adv:pos		
 etezyjskościach	etezyjskość	subst:pl:loc:f	nazwa pospolita	
 etezyjskościami	etezyjskość	subst:pl:inst:f	nazwa pospolita	
@@ -37965,7 +37966,7 @@ etiopskim	etiopski	adj:sg:inst:m1.m2.m3.n:pos
 etiopskim	etiopski	adj:sg:loc:m1.m2.m3.n:pos		
 etiopskimi	etiopski	adj:pl:inst:m1.m2.m3.f.n:pos		
 etiopsko	etiopski	adja		
-etiopsku	etiopski	adjp		
+etiopsku	etiopski	adjp:dat		
 etiopsko	etiopsko	adv:pos		
 etiopskościach	etiopskość	subst:pl:loc:f	nazwa pospolita	
 etiopskościami	etiopskość	subst:pl:inst:f	nazwa pospolita	
@@ -38534,7 +38535,7 @@ etruskim	etruski	adj:sg:inst:m1.m2.m3.n:pos
 etruskim	etruski	adj:sg:loc:m1.m2.m3.n:pos		
 etruskimi	etruski	adj:pl:inst:m1.m2.m3.f.n:pos		
 etrusko	etruski	adja		
-etrusku	etruski	adjp		
+etrusku	etruski	adjp:dat		
 etrusko	etrusko	adv:pos		
 etruskolodzy	etruskolog	subst:pl:nom.voc:m1	nazwa pospolita	
 etruskologach	etruskolog	subst:pl:loc:m1	nazwa pospolita	
@@ -40251,7 +40252,7 @@ eurazjatyckim	eurazjatycki	adj:sg:inst:m1.m2.m3.n:pos
 eurazjatyckim	eurazjatycki	adj:sg:loc:m1.m2.m3.n:pos		
 eurazjatyckimi	eurazjatycki	adj:pl:inst:m1.m2.m3.f.n:pos		
 eurazjatycko	eurazjatycki	adja		
-eurazjatycku	eurazjatycki	adjp		
+eurazjatycku	eurazjatycki	adjp:dat		
 eurazjatycko	eurazjatycko	adv:pos		
 eurazjatyckościach	eurazjatyckość	subst:pl:loc:f	nazwa pospolita	
 eurazjatyckościami	eurazjatyckość	subst:pl:inst:f	nazwa pospolita	
@@ -40290,7 +40291,7 @@ euroamerykańskim	euroamerykański	adj:sg:inst:m1.m2.m3.n:pos
 euroamerykańskim	euroamerykański	adj:sg:loc:m1.m2.m3.n:pos		
 euroamerykańskimi	euroamerykański	adj:pl:inst:m1.m2.m3.f.n:pos		
 euroamerykańsko	euroamerykański	adja		
-euroamerykańsku	euroamerykański	adjp		
+euroamerykańsku	euroamerykański	adjp:dat		
 euroamerykańsko	euroamerykańsko	adv:pos		
 euroamerykańskościach	euroamerykańskość	subst:pl:loc:f	nazwa pospolita	
 euroamerykańskościami	euroamerykańskość	subst:pl:inst:f	nazwa pospolita	
@@ -40327,7 +40328,7 @@ euroatlantyckim	euroatlantycki	adj:sg:inst:m1.m2.m3.n:pos
 euroatlantyckim	euroatlantycki	adj:sg:loc:m1.m2.m3.n:pos		
 euroatlantyckimi	euroatlantycki	adj:pl:inst:m1.m2.m3.f.n:pos		
 euroatlantycko	euroatlantycki	adja		
-euroatlantycku	euroatlantycki	adjp		
+euroatlantycku	euroatlantycki	adjp:dat		
 euroatlantycko	euroatlantycko	adv:pos		
 euroatlantyckościach	euroatlantyckość	subst:pl:loc:f	nazwa pospolita	
 euroatlantyckościami	euroatlantyckość	subst:pl:inst:f	nazwa pospolita	
@@ -40364,7 +40365,7 @@ euroazjatyckim	euroazjatycki	adj:sg:inst:m1.m2.m3.n:pos
 euroazjatyckim	euroazjatycki	adj:sg:loc:m1.m2.m3.n:pos		
 euroazjatyckimi	euroazjatycki	adj:pl:inst:m1.m2.m3.f.n:pos		
 euroazjatycko	euroazjatycki	adja		
-euroazjatycku	euroazjatycki	adjp		
+euroazjatycku	euroazjatycki	adjp:dat		
 euroazjatycko	euroazjatycko	adv:pos		
 euroazjatyckościach	euroazjatyckość	subst:pl:loc:f	nazwa pospolita	
 euroazjatyckościami	euroazjatyckość	subst:pl:inst:f	nazwa pospolita	
@@ -41049,7 +41050,7 @@ europejskim	europejski	adj:sg:inst:m1.m2.m3.n:pos
 europejskim	europejski	adj:sg:loc:m1.m2.m3.n:pos		
 europejskimi	europejski	adj:pl:inst:m1.m2.m3.f.n:pos		
 europejsko	europejski	adja		
-europejsku	europejski	adjp		
+europejsku	europejski	adjp:dat		
 europejsko	europejsko	adv:pos		
 europejskościach	europejskość	subst:pl:loc:f	nazwa pospolita	
 europejskościami	europejskość	subst:pl:inst:f	nazwa pospolita	
@@ -42260,7 +42261,7 @@ ewangelickim	ewangelicki	adj:sg:inst:m1.m2.m3.n:pos
 ewangelickim	ewangelicki	adj:sg:loc:m1.m2.m3.n:pos		
 ewangelickimi	ewangelicki	adj:pl:inst:m1.m2.m3.f.n:pos		
 ewangelicko	ewangelicki	adja		
-ewangelicku	ewangelicki	adjp		
+ewangelicku	ewangelicki	adjp:dat		
 ewangelicko	ewangelicko	adv:pos		
 ewangelickościach	ewangelickość	subst:pl:loc:f	nazwa pospolita	
 ewangelickościami	ewangelickość	subst:pl:inst:f	nazwa pospolita	
@@ -42836,7 +42837,7 @@ ewenkijskim	ewenkijski	adj:sg:inst:m1.m2.m3.n:pos
 ewenkijskim	ewenkijski	adj:sg:loc:m1.m2.m3.n:pos		
 ewenkijskimi	ewenkijski	adj:pl:inst:m1.m2.m3.f.n:pos		
 ewenkijsko	ewenkijski	adja		
-ewenkijsku	ewenkijski	adjp		
+ewenkijsku	ewenkijski	adjp:dat		
 ewenkijsko	ewenkijsko	adv:pos		
 ewenkijskościach	ewenkijskość	subst:pl:loc:f	nazwa pospolita	
 ewenkijskościami	ewenkijskość	subst:pl:inst:f	nazwa pospolita	
@@ -42923,7 +42924,7 @@ eweńskim	eweński	adj:sg:inst:m1.m2.m3.n:pos
 eweńskim	eweński	adj:sg:loc:m1.m2.m3.n:pos		
 eweńskimi	eweński	adj:pl:inst:m1.m2.m3.f.n:pos		
 eweńsko	eweński	adja		
-eweńsku	eweński	adjp		
+eweńsku	eweński	adjp:dat		
 eweńsko	eweńsko	adv:pos		
 eweńskościach	eweńskość	subst:pl:loc:f	nazwa pospolita	
 eweńskościami	eweńskość	subst:pl:inst:f	nazwa pospolita	

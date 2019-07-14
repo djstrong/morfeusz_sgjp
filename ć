@@ -280,7 +280,7 @@
 ćmielowskim	ćmielowski	adj:sg:loc:m1.m2.m3.n:pos		
 ćmielowskimi	ćmielowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 ćmielowsko	ćmielowski	adja		
-ćmielowsku	ćmielowski	adjp		
+ćmielowsku	ćmielowski	adjp:dat		
 ćmielowsko	ćmielowsko	adv:pos		
 ćmielowskościach	ćmielowskość	subst:pl:loc:f	nazwa pospolita	
 ćmielowskościami	ćmielowskość	subst:pl:inst:f	nazwa pospolita	
@@ -657,7 +657,7 @@
 ćpuńskim	ćpuński	adj:sg:loc:m1.m2.m3.n:pos		pot.
 ćpuńskimi	ćpuński	adj:pl:inst:m1.m2.m3.f.n:pos		pot.
 ćpuńsko	ćpuński	adja		pot.
-ćpuńsku	ćpuński	adjp		pot.
+ćpuńsku	ćpuński	adjp:dat		pot.
 ćpuńsko	ćpuńsko	adv:pos		
 ćpuńskościach	ćpuńskość	subst:pl:loc:f	nazwa pospolita	pot.
 ćpuńskościami	ćpuńskość	subst:pl:inst:f	nazwa pospolita	pot.

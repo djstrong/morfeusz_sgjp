@@ -1597,7 +1597,7 @@ Addary	Addar	depr:pl:nom.acc.voc:m2	imię
 Addarze	Addar	subst:sg:loc:m1	imię	
 Addarze	Addar	subst:sg:voc:m1	imię	
 Addarzy	Addar	subst:pl:nom.voc:m1	imię	
-Addis	Addis	burk		
+Addis	Addis	frag		
 Adela	Adela	subst:sg:nom:f	imię	
 Adelach	Adela	subst:pl:loc:f	imię	
 Adel	Adela	subst:pl:gen:f	imię	char.
@@ -3065,7 +3065,7 @@ AK-owskim	AK-owski	adj:sg:inst:m1.m2.m3.n:pos
 AK-owskim	AK-owski	adj:sg:loc:m1.m2.m3.n:pos		
 AK-owskimi	AK-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
 AK-owsko	AK-owski	adja		
-AK-owsku	AK-owski	adjp		
+AK-owsku	AK-owski	adjp:dat		
 AK-owsko	AK-owsko	adv:pos		
 Akropolis	Akropolis	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa geograficzna	
 Aksamitowska	Aksamitowska	subst:sg:nom:f	nazwisko	
@@ -4978,7 +4978,7 @@ AL-owskim	AL-owski	adj:sg:inst:m1.m2.m3.n:pos
 AL-owskim	AL-owski	adj:sg:loc:m1.m2.m3.n:pos		
 AL-owskimi	AL-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
 AL-owsko	AL-owski	adja		
-AL-owsku	AL-owski	adjp		
+AL-owsku	AL-owski	adjp:dat		
 AL-owsko	AL-owsko	adv:pos		
 Alpiniana	Alpinian	subst:sg:gen.acc:m1	imię	
 Alpinianach	Alpinian	subst:pl:loc:m1	imię	
@@ -13476,7 +13476,7 @@ Aśki	Aśka	subst:pl:nom.acc.voc:f	imię
 Aśki	Aśka	subst:sg:gen:f	imię	
 Aśko	Aśka	subst:sg:voc:f	imię	
 Aśkom	Aśka	subst:pl:dat:f	imię	
-Ata	Ata:b	burk		
+Ata	Ata:b	frag		
 Atamana	Ataman:s1	subst:sg:gen.acc:m1	nazwisko	
 Atamanach	Ataman:s1	subst:pl:loc:m1	nazwisko	
 Atamanami	Ataman:s1	subst:pl:inst:m1	nazwisko	

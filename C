@@ -28405,7 +28405,7 @@ Cruisie	Cruise	subst:sg:loc:m1	nazwisko
 Cruisie	Cruise	subst:sg:voc:m1	nazwisko	
 Crusoe	Crusoe	depr:pl:nom.acc.voc:m2	nazwisko	lit.
 Crusoe	Crusoe	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko	lit.
-Cruz	Cruz	burk		
+Cruz	Cruz	frag		
 CRZZ-ach	CRZZ	subst:pl:loc:m3	nazwa organizacji	
 CRZZ-ami	CRZZ	subst:pl:inst:m3	nazwa organizacji	
 CRZZ	CRZZ	subst:sg:nom.acc:m3	nazwa organizacji	

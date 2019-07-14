@@ -99,7 +99,7 @@ VAT-owskim	VAT-owski	adj:sg:loc:m1.m2.m3.n:pos
 VAT-owski	VAT-owski	adj:sg:acc:m3:pos		
 VAT-owski	VAT-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 VAT-owsko	VAT-owski	adja		
-VAT-owsku	VAT-owski	adjp		
+VAT-owsku	VAT-owski	adjp:dat		
 VAT-owsko	VAT-owsko	adv:pos		
 VAT-owskościach	VAT-owskość	subst:pl:loc:f	nazwa pospolita	
 VAT-owskościami	VAT-owskość	subst:pl:inst:f	nazwa pospolita	
@@ -135,7 +135,7 @@ Vegom	Vega	subst:pl:dat:m1	człon nazwiska
 Vego	Vega	subst:sg:voc:m1	człon nazwiska	
 Vegowie	Vega	subst:pl:nom.voc:m1	człon nazwiska	
 Vegów	Vega	subst:pl:gen.acc:m1	człon nazwiska	
-Vegas	Vegas	burk		
+Vegas	Vegas	frag		
 Velazquezach	Velazquez	subst:pl:loc:m1	nazwisko	
 Velazquezami	Velazquez	subst:pl:inst:m1	nazwisko	
 Velazqueza	Velazquez	subst:sg:gen.acc:m1	nazwisko	

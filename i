@@ -22,7 +22,7 @@ iberoamerykańskim	iberoamerykański	adj:sg:inst:m1.m2.m3.n:pos
 iberoamerykańskim	iberoamerykański	adj:sg:loc:m1.m2.m3.n:pos		
 iberoamerykańskimi	iberoamerykański	adj:pl:inst:m1.m2.m3.f.n:pos		
 iberoamerykańsko	iberoamerykański	adja		
-iberoamerykańsku	iberoamerykański	adjp		
+iberoamerykańsku	iberoamerykański	adjp:dat		
 iberoamerykańsko	iberoamerykańsko	adv:pos		
 iberoamerykańskościach	iberoamerykańskość	subst:pl:loc:f	nazwa pospolita	
 iberoamerykańskościami	iberoamerykańskość	subst:pl:inst:f	nazwa pospolita	
@@ -59,7 +59,7 @@ iberyjskim	iberyjski	adj:sg:inst:m1.m2.m3.n:pos
 iberyjskim	iberyjski	adj:sg:loc:m1.m2.m3.n:pos		
 iberyjskimi	iberyjski	adj:pl:inst:m1.m2.m3.f.n:pos		
 iberyjsko	iberyjski	adja		
-iberyjsku	iberyjski	adjp		
+iberyjsku	iberyjski	adjp:dat		
 iberyjsko	iberyjsko	adv:pos		
 iberyjskościach	iberyjskość	subst:pl:loc:f	nazwa pospolita	
 iberyjskościami	iberyjskość	subst:pl:inst:f	nazwa pospolita	
@@ -264,7 +264,7 @@ iblowskim	iblowski	adj:sg:inst:m1.m2.m3.n:pos
 iblowskim	iblowski	adj:sg:loc:m1.m2.m3.n:pos		
 iblowskimi	iblowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 iblowsko	iblowski	adja		
-iblowsku	iblowski	adjp		
+iblowsku	iblowski	adjp:dat		
 iblowsko	iblowsko	adv:pos		
 iblowskościach	iblowskość	subst:pl:loc:f	nazwa pospolita	
 iblowskościami	iblowskość	subst:pl:inst:f	nazwa pospolita	
@@ -277,7 +277,7 @@ iblowskości	iblowskość	subst:sg:voc:f	nazwa pospolita
 iblowskościom	iblowskość	subst:pl:dat:f	nazwa pospolita	
 iblowskość	iblowskość	subst:sg:acc:f	nazwa pospolita	
 iblowskość	iblowskość	subst:sg:nom:f	nazwa pospolita	
-ibn	ibn	burk		
+ibn	ibn	frag		
 ibsenizmach	ibsenizm	subst:pl:loc:m3	nazwa pospolita	
 ibsenizmami	ibsenizm	subst:pl:inst:m3	nazwa pospolita	
 ibsenizmem	ibsenizm	subst:sg:inst:m3	nazwa pospolita	
@@ -313,7 +313,7 @@ ibsenowskim	ibsenowski	adj:sg:inst:m1.m2.m3.n:pos
 ibsenowskim	ibsenowski	adj:sg:loc:m1.m2.m3.n:pos		
 ibsenowskimi	ibsenowski	adj:pl:inst:m1.m2.m3.f.n:pos		
 ibsenowsko	ibsenowski	adja		
-ibsenowsku	ibsenowski	adjp		
+ibsenowsku	ibsenowski	adjp:dat		
 ibsenowsko	ibsenowsko	adv:pos		
 ibsenowskościach	ibsenowskość	subst:pl:loc:f	nazwa pospolita	
 ibsenowskościami	ibsenowskość	subst:pl:inst:f	nazwa pospolita	
@@ -348,7 +348,7 @@ ichmościami	ichmościowie	subst:pl:inst:m1:pt	nazwa pospolita	daw.
 ichmościom	ichmościowie	subst:pl:dat:m1:pt	nazwa pospolita	daw.
 ichmościowie	ichmościowie	subst:pl:nom.voc:m1:pt	nazwa pospolita	daw.
 ichmościów	ichmościowie	subst:pl:gen.acc:m1:pt	nazwa pospolita	daw.
-ichmość	ichmość:b	burk		
+ichmość	ichmość:b	frag		
 ichmość	ichmość:s	subst:pl:nom:m1:pt	nazwa pospolita	daw.
 ichneumonach	ichneumon	subst:pl:loc:m2	nazwa pospolita	
 ichneumona	ichneumon	subst:sg:gen.acc:m2	nazwa pospolita	
@@ -3706,7 +3706,7 @@ ignoranckim	ignorancki	adj:sg:inst:m1.m2.m3.n:pos
 ignoranckim	ignorancki	adj:sg:loc:m1.m2.m3.n:pos		
 ignoranckimi	ignorancki	adj:pl:inst:m1.m2.m3.f.n:pos		
 ignorancko	ignorancki	adja		
-ignorancku	ignorancki	adjp		
+ignorancku	ignorancki	adjp:dat		
 ignorancko	ignorancko	adv:pos		
 ignoranckościach	ignoranckość	subst:pl:loc:f	nazwa pospolita	
 ignoranckościami	ignoranckość	subst:pl:inst:f	nazwa pospolita	
@@ -3855,7 +3855,7 @@ igołomskim	igołomski	adj:sg:inst:m1.m2.m3.n:pos
 igołomskim	igołomski	adj:sg:loc:m1.m2.m3.n:pos		
 igołomskimi	igołomski	adj:pl:inst:m1.m2.m3.f.n:pos		
 igołomsko	igołomski	adja		
-igołomsku	igołomski	adjp		
+igołomsku	igołomski	adjp:dat		
 igołomsko	igołomsko	adv:pos		
 igołomskościach	igołomskość	subst:pl:loc:f	nazwa pospolita	
 igołomskościami	igołomskość	subst:pl:inst:f	nazwa pospolita	
@@ -4174,7 +4174,7 @@ ikariańskim	ikariański	adj:pl:dat:m1.m2.m3.f.n:pos
 ikariańskim	ikariański	adj:sg:inst:m1.m2.m3.n:pos		
 ikariańskim	ikariański	adj:sg:loc:m1.m2.m3.n:pos		
 ikariańsko	ikariański	adja		
-ikariańsku	ikariański	adjp		
+ikariańsku	ikariański	adjp:dat		
 ikariańsko	ikariańsko	adv:pos		
 ikariańskościach	ikariańskość	subst:pl:loc:f	nazwa pospolita	
 ikariańskościami	ikariańskość	subst:pl:inst:f	nazwa pospolita	
@@ -5004,7 +5004,7 @@ iliryjskim	iliryjski	adj:pl:dat:m1.m2.m3.f.n:pos
 iliryjskim	iliryjski	adj:sg:inst:m1.m2.m3.n:pos		
 iliryjskim	iliryjski	adj:sg:loc:m1.m2.m3.n:pos		
 iliryjsko	iliryjski	adja		
-iliryjsku	iliryjski	adjp		
+iliryjsku	iliryjski	adjp:dat		
 iliryjsko	iliryjsko	adv:pos		
 iliryjskościach	iliryjskość	subst:pl:loc:f	nazwa pospolita	
 iliryjskościami	iliryjskość	subst:pl:inst:f	nazwa pospolita	
@@ -5088,7 +5088,7 @@ illinojskim	illinojski	adj:pl:dat:m1.m2.m3.f.n:pos
 illinojskim	illinojski	adj:sg:inst:m1.m2.m3.n:pos		
 illinojskim	illinojski	adj:sg:loc:m1.m2.m3.n:pos		
 illinojsko	illinojski	adja		
-illinojsku	illinojski	adjp		
+illinojsku	illinojski	adjp:dat		
 illinojsko	illinojsko	adv:pos		
 illinojskościach	illinojskość	subst:pl:loc:f	nazwa pospolita	
 illinojskościami	illinojskość	subst:pl:inst:f	nazwa pospolita	
@@ -5777,7 +5777,7 @@ iluminatorskim	iluminatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 iluminatorskim	iluminatorski	adj:sg:inst:m1.m2.m3.n:pos		
 iluminatorskim	iluminatorski	adj:sg:loc:m1.m2.m3.n:pos		
 iluminatorsko	iluminatorski	adja		
-iluminatorsku	iluminatorski	adjp		
+iluminatorsku	iluminatorski	adjp:dat		
 iluminatorsko	iluminatorsko	adv:pos		
 iluminatorskościach	iluminatorskość	subst:pl:loc:f	nazwa pospolita	
 iluminatorskościami	iluminatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -6101,7 +6101,7 @@ ilustratorskim	ilustratorski	adj:pl:dat:m1.m2.m3.f.n:pos
 ilustratorskim	ilustratorski	adj:sg:inst:m1.m2.m3.n:pos		
 ilustratorskim	ilustratorski	adj:sg:loc:m1.m2.m3.n:pos		
 ilustratorsko	ilustratorski	adja		
-ilustratorsku	ilustratorski	adjp		
+ilustratorsku	ilustratorski	adjp:dat		
 ilustratorsko	ilustratorsko	adv:pos		
 ilustratorskościach	ilustratorskość	subst:pl:loc:f	nazwa pospolita	
 ilustratorskościami	ilustratorskość	subst:pl:inst:f	nazwa pospolita	
@@ -6516,7 +6516,7 @@ iławeckim	iławecki	adj:pl:dat:m1.m2.m3.f.n:pos
 iławeckim	iławecki	adj:sg:inst:m1.m2.m3.n:pos		
 iławeckim	iławecki	adj:sg:loc:m1.m2.m3.n:pos		
 iławecko	iławecki	adja		
-iławecku	iławecki	adjp		
+iławecku	iławecki	adjp:dat		
 iławecko	iławecko	adv:pos		
 iławeckościach	iławeckość	subst:pl:loc:f	nazwa pospolita	
 iławeckościami	iławeckość	subst:pl:inst:f	nazwa pospolita	
@@ -6576,7 +6576,7 @@ iławskim	iławski	adj:pl:dat:m1.m2.m3.f.n:pos
 iławskim	iławski	adj:sg:inst:m1.m2.m3.n:pos		
 iławskim	iławski	adj:sg:loc:m1.m2.m3.n:pos		
 iławsko	iławski	adja		
-iławsku	iławski	adjp		
+iławsku	iławski	adjp:dat		
 iławsko	iławsko	adv:pos		
 iławskościach	iławskość	subst:pl:loc:f	nazwa pospolita	
 iławskościami	iławskość	subst:pl:inst:f	nazwa pospolita	
@@ -6843,7 +6843,7 @@ iłowskim	iłowski	adj:pl:dat:m1.m2.m3.f.n:pos
 iłowskim	iłowski	adj:sg:inst:m1.m2.m3.n:pos		
 iłowskim	iłowski	adj:sg:loc:m1.m2.m3.n:pos		
 iłowsko	iłowski	adja		
-iłowsku	iłowski	adjp		
+iłowsku	iłowski	adjp:dat		
 iłowsko	iłowsko	adv:pos		
 iłowskościach	iłowskość	subst:pl:loc:f	nazwa pospolita	
 iłowskościami	iłowskość	subst:pl:inst:f	nazwa pospolita	
@@ -6937,7 +6937,7 @@ iłżeckim	iłżecki	adj:pl:dat:m1.m2.m3.f.n:pos
 iłżeckim	iłżecki	adj:sg:inst:m1.m2.m3.n:pos		
 iłżeckim	iłżecki	adj:sg:loc:m1.m2.m3.n:pos		
 iłżecko	iłżecki	adja		
-iłżecku	iłżecki	adjp		
+iłżecku	iłżecki	adjp:dat		
 iłżecko	iłżecko	adv:pos		
 iłżeckościach	iłżeckość	subst:pl:loc:f	nazwa pospolita	
 iłżeckościami	iłżeckość	subst:pl:inst:f	nazwa pospolita	
@@ -7899,7 +7899,7 @@ imieleńskim	imieleński	adj:pl:dat:m1.m2.m3.f.n:pos
 imieleńskim	imieleński	adj:sg:inst:m1.m2.m3.n:pos		
 imieleńskim	imieleński	adj:sg:loc:m1.m2.m3.n:pos		
 imieleńsko	imieleński	adja		
-imieleńsku	imieleński	adjp		
+imieleńsku	imieleński	adjp:dat		
 imieleńsko	imieleńsko	adv:pos		
 imieleńskościach	imieleńskość	subst:pl:loc:f	nazwa pospolita	
 imieleńskościami	imieleńskość	subst:pl:inst:f	nazwa pospolita	
@@ -7936,7 +7936,7 @@ imielińskim	imieliński	adj:pl:dat:m1.m2.m3.f.n:pos
 imielińskim	imieliński	adj:sg:inst:m1.m2.m3.n:pos		
 imielińskim	imieliński	adj:sg:loc:m1.m2.m3.n:pos		
 imielińsko	imieliński	adja		
-imielińsku	imieliński	adjp		
+imielińsku	imieliński	adjp:dat		
 imielińsko	imielińsko	adv:pos		
 imielińskościach	imielińskość	subst:pl:loc:f	nazwa pospolita	
 imielińskościami	imielińskość	subst:pl:inst:f	nazwa pospolita	
@@ -8294,7 +8294,7 @@ imigranckim	imigrancki	adj:pl:dat:m1.m2.m3.f.n:pos
 imigranckim	imigrancki	adj:sg:inst:m1.m2.m3.n:pos		
 imigranckim	imigrancki	adj:sg:loc:m1.m2.m3.n:pos		
 imigrancko	imigrancki	adja		
-imigrancku	imigrancki	adjp		
+imigrancku	imigrancki	adjp:dat		
 imigrancko	imigrancko	adv:pos		
 imigranckościach	imigranckość	subst:pl:loc:f	nazwa pospolita	
 imigranckościami	imigranckość	subst:pl:inst:f	nazwa pospolita	
@@ -8609,7 +8609,7 @@ imitatorskim	imitatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 imitatorskim	imitatorski	adj:sg:inst:m1.m2.m3.n:pos		
 imitatorskim	imitatorski	adj:sg:loc:m1.m2.m3.n:pos		
 imitatorsko	imitatorski	adja		
-imitatorsku	imitatorski	adjp		
+imitatorsku	imitatorski	adjp:dat		
 imitatorsko	imitatorsko	adv:pos		
 imitatorskościach	imitatorskość	subst:pl:loc:f	nazwa pospolita	
 imitatorskościami	imitatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -10292,7 +10292,7 @@ imperatorskim	imperatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 imperatorskim	imperatorski	adj:sg:inst:m1.m2.m3.n:pos		
 imperatorskim	imperatorski	adj:sg:loc:m1.m2.m3.n:pos		
 imperatorsko	imperatorski	adja		
-imperatorsku	imperatorski	adjp		
+imperatorsku	imperatorski	adjp:dat		
 imperatorsko	imperatorsko	adv:pos		
 imperatorskościach	imperatorskość	subst:pl:loc:f	nazwa pospolita	
 imperatorskościami	imperatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -10567,7 +10567,7 @@ impertynenckim	impertynencki	adj:pl:dat:m1.m2.m3.f.n:pos
 impertynenckim	impertynencki	adj:sg:inst:m1.m2.m3.n:pos		
 impertynenckim	impertynencki	adj:sg:loc:m1.m2.m3.n:pos		
 impertynencko	impertynencki	adja		
-impertynencku	impertynencki	adjp		
+impertynencku	impertynencki	adjp:dat		
 impertynencko	impertynencko	adv:pos		
 impertynenckościach	impertynenckość	subst:pl:loc:f	nazwa pospolita	
 impertynenckościami	impertynenckość	subst:pl:inst:f	nazwa pospolita	
@@ -11455,7 +11455,7 @@ importerskim	importerski	adj:pl:dat:m1.m2.m3.f.n:pos
 importerskim	importerski	adj:sg:inst:m1.m2.m3.n:pos		
 importerskim	importerski	adj:sg:loc:m1.m2.m3.n:pos		
 importersko	importerski	adja		
-importersku	importerski	adjp		
+importersku	importerski	adjp:dat		
 importersko	importersko	adv:pos		
 importerskościach	importerskość	subst:pl:loc:f	nazwa pospolita	
 importerskościami	importerskość	subst:pl:inst:f	nazwa pospolita	
@@ -11746,7 +11746,7 @@ impotenckim	impotencki	adj:pl:dat:m1.m2.m3.f.n:pos
 impotenckim	impotencki	adj:sg:inst:m1.m2.m3.n:pos		
 impotenckim	impotencki	adj:sg:loc:m1.m2.m3.n:pos		
 impotencko	impotencki	adja		
-impotencku	impotencki	adjp		
+impotencku	impotencki	adjp:dat		
 impotencko	impotencko	adv:pos		
 impotenckościach	impotenckość	subst:pl:loc:f	nazwa pospolita	
 impotenckościami	impotenckość	subst:pl:inst:f	nazwa pospolita	
@@ -12592,7 +12592,7 @@ improwizatorskim	improwizatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 improwizatorskim	improwizatorski	adj:sg:inst:m1.m2.m3.n:pos		
 improwizatorskim	improwizatorski	adj:sg:loc:m1.m2.m3.n:pos		
 improwizatorsko	improwizatorski	adja		
-improwizatorsku	improwizatorski	adjp		
+improwizatorsku	improwizatorski	adjp:dat		
 improwizatorsko	improwizatorsko	adv:pos		
 improwizatorskościach	improwizatorskość	subst:pl:loc:f	nazwa pospolita	
 improwizatorskościami	improwizatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -14460,7 +14460,7 @@ indiańskim	indiański	adj:pl:dat:m1.m2.m3.f.n:pos
 indiańskim	indiański	adj:sg:inst:m1.m2.m3.n:pos		
 indiańskim	indiański	adj:sg:loc:m1.m2.m3.n:pos		
 indiańsko	indiański	adja		
-indiańsku	indiański	adjp		
+indiańsku	indiański	adjp:dat		
 indiańsko	indiańsko	adv:pos		
 indiańskościach	indiańskość	subst:pl:loc:f	nazwa pospolita	
 indiańskościami	indiańskość	subst:pl:inst:f	nazwa pospolita	
@@ -14508,7 +14508,7 @@ indoaryjskim	indoaryjski	adj:pl:dat:m1.m2.m3.f.n:pos
 indoaryjskim	indoaryjski	adj:sg:inst:m1.m2.m3.n:pos		
 indoaryjskim	indoaryjski	adj:sg:loc:m1.m2.m3.n:pos		
 indoaryjsko	indoaryjski	adja		
-indoaryjsku	indoaryjski	adjp		
+indoaryjsku	indoaryjski	adjp:dat		
 indoaryjsko	indoaryjsko	adv:pos		
 indoaryjskościach	indoaryjskość	subst:pl:loc:f	nazwa pospolita	
 indoaryjskościami	indoaryjskość	subst:pl:inst:f	nazwa pospolita	
@@ -14545,7 +14545,7 @@ indochińskim	indochiński	adj:pl:dat:m1.m2.m3.f.n:pos
 indochińskim	indochiński	adj:sg:inst:m1.m2.m3.n:pos		
 indochińskim	indochiński	adj:sg:loc:m1.m2.m3.n:pos		
 indochińsko	indochiński	adja		
-indochińsku	indochiński	adjp		
+indochińsku	indochiński	adjp:dat		
 indochińsko	indochińsko	adv:pos		
 indochińskościach	indochińskość	subst:pl:loc:f	nazwa pospolita	
 indochińskościami	indochińskość	subst:pl:inst:f	nazwa pospolita	
@@ -14652,7 +14652,7 @@ indoeuropejskim	indoeuropejski	adj:pl:dat:m1.m2.m3.f.n:pos
 indoeuropejskim	indoeuropejski	adj:sg:inst:m1.m2.m3.n:pos		
 indoeuropejskim	indoeuropejski	adj:sg:loc:m1.m2.m3.n:pos		
 indoeuropejsko	indoeuropejski	adja		
-indoeuropejsku	indoeuropejski	adjp		
+indoeuropejsku	indoeuropejski	adjp:dat		
 ie	indoeuropejski	brev:pun		
 indoeuropejsko	indoeuropejsko	adv:pos		
 indoeuropejskościach	indoeuropejskość	subst:pl:loc:f	nazwa pospolita	
@@ -14690,7 +14690,7 @@ indogermańskim	indogermański	adj:pl:dat:m1.m2.m3.f.n:pos
 indogermańskim	indogermański	adj:sg:inst:m1.m2.m3.n:pos		
 indogermańskim	indogermański	adj:sg:loc:m1.m2.m3.n:pos		
 indogermańsko	indogermański	adja		
-indogermańsku	indogermański	adjp		
+indogermańsku	indogermański	adjp:dat		
 indogermańsko	indogermańsko	adv:pos		
 indogermańskościach	indogermańskość	subst:pl:loc:f	nazwa pospolita	
 indogermańskościami	indogermańskość	subst:pl:inst:f	nazwa pospolita	
@@ -14727,7 +14727,7 @@ indoirańskim	indoirański	adj:pl:dat:m1.m2.m3.f.n:pos
 indoirańskim	indoirański	adj:sg:inst:m1.m2.m3.n:pos		
 indoirańskim	indoirański	adj:sg:loc:m1.m2.m3.n:pos		
 indoirańsko	indoirański	adja		
-indoirańsku	indoirański	adjp		
+indoirańsku	indoirański	adjp:dat		
 indoirańsko	indoirańsko	adv:pos		
 indoirańskościach	indoirańskość	subst:pl:loc:f	nazwa pospolita	
 indoirańskościami	indoirańskość	subst:pl:inst:f	nazwa pospolita	
@@ -15019,7 +15019,7 @@ indonezyjskim	indonezyjski	adj:pl:dat:m1.m2.m3.f.n:pos
 indonezyjskim	indonezyjski	adj:sg:inst:m1.m2.m3.n:pos		
 indonezyjskim	indonezyjski	adj:sg:loc:m1.m2.m3.n:pos		
 indonezyjsko	indonezyjski	adja		
-indonezyjsku	indonezyjski	adjp		
+indonezyjsku	indonezyjski	adjp:dat		
 indonezyjsko	indonezyjsko	adv:pos		
 indonezyjskościach	indonezyjskość	subst:pl:loc:f	nazwa pospolita	
 indonezyjskościami	indonezyjskość	subst:pl:inst:f	nazwa pospolita	
@@ -15765,7 +15765,7 @@ indyckim	indycki	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
 indyckim	indycki	adj:sg:inst:m1.m2.m3.n:pos		daw.
 indyckim	indycki	adj:sg:loc:m1.m2.m3.n:pos		daw.
 indycko	indycki	adja		daw.
-indycku	indycki	adjp		daw.
+indycku	indycki	adjp:dat		daw.
 indyckościach	indyckość	subst:pl:loc:f	nazwa pospolita	daw.
 indyckościami	indyckość	subst:pl:inst:f	nazwa pospolita	daw.
 indyckością	indyckość	subst:sg:inst:f	nazwa pospolita	daw.
@@ -16139,7 +16139,7 @@ indyjskim	indyjski	adj:pl:dat:m1.m2.m3.f.n:pos
 indyjskim	indyjski	adj:sg:inst:m1.m2.m3.n:pos		
 indyjskim	indyjski	adj:sg:loc:m1.m2.m3.n:pos		
 indyjsko	indyjski	adja		
-indyjsku	indyjski	adjp		
+indyjsku	indyjski	adjp:dat		
 indyjsko	indyjsko	adv:pos		
 indyjskościach	indyjskość	subst:pl:loc:f	nazwa pospolita	
 indyjskościami	indyjskość	subst:pl:inst:f	nazwa pospolita	
@@ -16913,7 +16913,7 @@ infanteryjskim	infanteryjski	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
 infanteryjskim	infanteryjski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 infanteryjskim	infanteryjski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 infanteryjsko	infanteryjski	adja		daw.
-infanteryjsku	infanteryjski	adjp		daw.
+infanteryjsku	infanteryjski	adjp:dat		daw.
 infanteryjsko	infanteryjsko	adv:pos		
 infanteryjskościach	infanteryjskość	subst:pl:loc:f	nazwa pospolita	daw.
 infanteryjskościami	infanteryjskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -17869,7 +17869,7 @@ inflanckim	inflancki	adj:pl:dat:m1.m2.m3.f.n:pos
 inflanckim	inflancki	adj:sg:inst:m1.m2.m3.n:pos		
 inflanckim	inflancki	adj:sg:loc:m1.m2.m3.n:pos		
 inflancko	inflancki	adja		
-inflancku	inflancki	adjp		
+inflancku	inflancki	adjp:dat		
 inflancko	inflancko	adv:pos		
 inflanckościach	inflanckość	subst:pl:loc:f	nazwa pospolita	
 inflanckościami	inflanckość	subst:pl:inst:f	nazwa pospolita	
@@ -18092,7 +18092,7 @@ informatorskim	informatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 informatorskim	informatorski	adj:sg:inst:m1.m2.m3.n:pos		
 informatorskim	informatorski	adj:sg:loc:m1.m2.m3.n:pos		
 informatorsko	informatorski	adja		
-informatorsku	informatorski	adjp		
+informatorsku	informatorski	adjp:dat		
 informatorsko	informatorsko	adv:pos		
 informatorskościach	informatorskość	subst:pl:loc:f	nazwa pospolita	
 informatorskościami	informatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -18621,7 +18621,7 @@ infułackim	infułacki	adj:pl:dat:m1.m2.m3.f.n:pos
 infułackim	infułacki	adj:sg:inst:m1.m2.m3.n:pos		
 infułackim	infułacki	adj:sg:loc:m1.m2.m3.n:pos		
 infułacko	infułacki	adja		
-infułacku	infułacki	adjp		
+infułacku	infułacki	adjp:dat		
 infułacko	infułacko	adv:pos		
 infułackościach	infułackość	subst:pl:loc:f	nazwa pospolita	
 infułackościami	infułackość	subst:pl:inst:f	nazwa pospolita	
@@ -19607,7 +19607,7 @@ inicjatorskim	inicjatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 inicjatorskim	inicjatorski	adj:sg:inst:m1.m2.m3.n:pos		
 inicjatorskim	inicjatorski	adj:sg:loc:m1.m2.m3.n:pos		
 inicjatorsko	inicjatorski	adja		
-inicjatorsku	inicjatorski	adjp		
+inicjatorsku	inicjatorski	adjp:dat		
 inicjatorsko	inicjatorsko	adv:pos		
 inicjatorskościach	inicjatorskość	subst:pl:loc:f	nazwa pospolita	
 inicjatorskościami	inicjatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -20168,7 +20168,7 @@ inkasenckim	inkasencki	adj:pl:dat:m1.m2.m3.f.n:pos
 inkasenckim	inkasencki	adj:sg:inst:m1.m2.m3.n:pos		
 inkasenckim	inkasencki	adj:sg:loc:m1.m2.m3.n:pos		
 inkasencko	inkasencki	adja		
-inkasencku	inkasencki	adjp		
+inkasencku	inkasencki	adjp:dat		
 inkasencko	inkasencko	adv:pos		
 inkasenckościach	inkasenckość	subst:pl:loc:f	nazwa pospolita	
 inkasenckościami	inkasenckość	subst:pl:inst:f	nazwa pospolita	
@@ -20217,7 +20217,7 @@ inkaskim	inkaski	adj:pl:dat:m1.m2.m3.f.n:pos
 inkaskim	inkaski	adj:sg:inst:m1.m2.m3.n:pos		
 inkaskim	inkaski	adj:sg:loc:m1.m2.m3.n:pos		
 inkasko	inkaski	adja		
-inkasku	inkaski	adjp		
+inkasku	inkaski	adjp:dat		
 inkasko	inkasko	adv:pos		
 inkaskościach	inkaskość	subst:pl:loc:f	nazwa pospolita	
 inkaskościami	inkaskość	subst:pl:inst:f	nazwa pospolita	
@@ -21723,7 +21723,7 @@ inkwizytorskim	inkwizytorski	adj:pl:dat:m1.m2.m3.f.n:pos
 inkwizytorskim	inkwizytorski	adj:sg:inst:m1.m2.m3.n:pos		
 inkwizytorskim	inkwizytorski	adj:sg:loc:m1.m2.m3.n:pos		
 inkwizytorsko	inkwizytorski	adja		
-inkwizytorsku	inkwizytorski	adjp		
+inkwizytorsku	inkwizytorski	adjp:dat		
 inkwizytorsko	inkwizytorsko	adv:pos		
 inkwizytorskościach	inkwizytorskość	subst:pl:loc:f	nazwa pospolita	
 inkwizytorskościami	inkwizytorskość	subst:pl:inst:f	nazwa pospolita	
@@ -22018,7 +22018,7 @@ innosłowiańskim	innosłowiański	adj:pl:dat:m1.m2.m3.f.n:pos
 innosłowiańskim	innosłowiański	adj:sg:inst:m1.m2.m3.n:pos		
 innosłowiańskim	innosłowiański	adj:sg:loc:m1.m2.m3.n:pos		
 innosłowiańsko	innosłowiański	adja		
-innosłowiańsku	innosłowiański	adjp		
+innosłowiańsku	innosłowiański	adjp:dat		
 innosłowiańsko	innosłowiańsko	adv:pos		
 innosłowiańskościach	innosłowiańskość	subst:pl:loc:f	nazwa pospolita	
 innosłowiańskościami	innosłowiańskość	subst:pl:inst:f	nazwa pospolita	
@@ -22196,7 +22196,7 @@ innowatorskim	innowatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 innowatorskim	innowatorski	adj:sg:inst:m1.m2.m3.n:pos		
 innowatorskim	innowatorski	adj:sg:loc:m1.m2.m3.n:pos		
 innowatorsko	innowatorski	adja		
-innowatorsku	innowatorski	adjp		
+innowatorsku	innowatorski	adjp:dat		
 innowatorsko	innowatorsko	adv:pos		
 innowatorskościach	innowatorskość	subst:pl:loc:f	nazwa pospolita	
 innowatorskościami	innowatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -22290,7 +22290,7 @@ innoziemskim	innoziemski	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
 innoziemskim	innoziemski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 innoziemskim	innoziemski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 innoziemsko	innoziemski	adja		daw.
-innoziemsku	innoziemski	adjp		daw.
+innoziemsku	innoziemski	adjp:dat		daw.
 innoziemsko	innoziemsko	adv:pos		daw.
 innoziemskościach	innoziemskość	subst:pl:loc:f	nazwa pospolita	daw.
 innoziemskościami	innoziemskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -22327,7 +22327,7 @@ innsbruckim	innsbrucki	adj:pl:dat:m1.m2.m3.f.n:pos
 innsbruckim	innsbrucki	adj:sg:inst:m1.m2.m3.n:pos		
 innsbruckim	innsbrucki	adj:sg:loc:m1.m2.m3.n:pos		
 innsbrucko	innsbrucki	adja		
-innsbrucku	innsbrucki	adjp		
+innsbrucku	innsbrucki	adjp:dat		
 innsbrucko	innsbrucko	adv:pos		
 innsbruckościach	innsbruckość	subst:pl:loc:f	nazwa pospolita	
 innsbruckościami	innsbruckość	subst:pl:inst:f	nazwa pospolita	
@@ -22377,7 +22377,7 @@ innymi	inny:s	subst:pl:inst:m1	nazwa pospolita
 innym	inny:s	subst:pl:dat:m1	nazwa pospolita	
 innym	inny:s	subst:sg:inst:m1	nazwa pospolita	
 innym	inny:s	subst:sg:loc:m1	nazwa pospolita	
-ino	ino	qub		gwar.
+ino	ino	part		gwar.
 inoceramach	inoceram	subst:pl:loc:m2	nazwa pospolita	
 inocerama	inoceram	subst:sg:gen.acc:m2	nazwa pospolita	
 inoceramami	inoceram	subst:pl:inst:m2	nazwa pospolita	
@@ -22435,7 +22435,7 @@ inowłodzkim	inowłodzki	adj:pl:dat:m1.m2.m3.f.n:pos
 inowłodzkim	inowłodzki	adj:sg:inst:m1.m2.m3.n:pos		
 inowłodzkim	inowłodzki	adj:sg:loc:m1.m2.m3.n:pos		
 inowłodzko	inowłodzki	adja		
-inowłodzku	inowłodzki	adjp		
+inowłodzku	inowłodzki	adjp:dat		
 inowłodzko	inowłodzko	adv:pos		
 inowłodzkościach	inowłodzkość	subst:pl:loc:f	nazwa pospolita	
 inowłodzkościami	inowłodzkość	subst:pl:inst:f	nazwa pospolita	
@@ -22495,7 +22495,7 @@ inowrocławskim	inowrocławski	adj:pl:dat:m1.m2.m3.f.n:pos
 inowrocławskim	inowrocławski	adj:sg:inst:m1.m2.m3.n:pos		
 inowrocławskim	inowrocławski	adj:sg:loc:m1.m2.m3.n:pos		
 inowrocławsko	inowrocławski	adja		
-inowrocławsku	inowrocławski	adjp		
+inowrocławsku	inowrocławski	adjp:dat		
 inowrocławsko	inowrocławsko	adv:pos		
 inowrocławskościach	inowrocławskość	subst:pl:loc:f	nazwa pospolita	
 inowrocławskościami	inowrocławskość	subst:pl:inst:f	nazwa pospolita	
@@ -22555,7 +22555,7 @@ insbruckim	insbrucki	adj:pl:dat:m1.m2.m3.f.n:pos
 insbruckim	insbrucki	adj:sg:inst:m1.m2.m3.n:pos		
 insbruckim	insbrucki	adj:sg:loc:m1.m2.m3.n:pos		
 insbrucko	insbrucki	adja		
-insbrucku	insbrucki	adjp		
+insbrucku	insbrucki	adjp:dat		
 insbrucko	insbrucko	adv:pos		
 insbruckościach	insbruckość	subst:pl:loc:f	nazwa pospolita	
 insbruckościami	insbruckość	subst:pl:inst:f	nazwa pospolita	
@@ -22663,7 +22663,7 @@ inscenizatorskim	inscenizatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 inscenizatorskim	inscenizatorski	adj:sg:inst:m1.m2.m3.n:pos		
 inscenizatorskim	inscenizatorski	adj:sg:loc:m1.m2.m3.n:pos		
 inscenizatorsko	inscenizatorski	adja		
-inscenizatorsku	inscenizatorski	adjp		
+inscenizatorsku	inscenizatorski	adjp:dat		
 inscenizatorsko	inscenizatorsko	adv:pos		
 inscenizatorskościach	inscenizatorskość	subst:pl:loc:f	nazwa pospolita	
 inscenizatorskościami	inscenizatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -23540,7 +23540,7 @@ inspektorskim	inspektorski	adj:pl:dat:m1.m2.m3.f.n:pos
 inspektorskim	inspektorski	adj:sg:inst:m1.m2.m3.n:pos		
 inspektorskim	inspektorski	adj:sg:loc:m1.m2.m3.n:pos		
 inspektorsko	inspektorski	adja		
-inspektorsku	inspektorski	adjp		
+inspektorsku	inspektorski	adjp:dat		
 inspektorsko	inspektorsko	adv:pos		
 inspektorskościach	inspektorskość	subst:pl:loc:f	nazwa pospolita	
 inspektorskościami	inspektorskość	subst:pl:inst:f	nazwa pospolita	
@@ -23622,7 +23622,7 @@ inspicjenckim	inspicjencki	adj:pl:dat:m1.m2.m3.f.n:pos
 inspicjenckim	inspicjencki	adj:sg:inst:m1.m2.m3.n:pos		
 inspicjenckim	inspicjencki	adj:sg:loc:m1.m2.m3.n:pos		
 inspicjencko	inspicjencki	adja		
-inspicjencku	inspicjencki	adjp		
+inspicjencku	inspicjencki	adjp:dat		
 inspicjencko	inspicjencko	adv:pos		
 inspicjenckościach	inspicjenckość	subst:pl:loc:f	nazwa pospolita	
 inspicjenckościami	inspicjenckość	subst:pl:inst:f	nazwa pospolita	
@@ -23763,7 +23763,7 @@ inspiratorskim	inspiratorski	adj:pl:dat:m1.m2.m3.f.n:pos
 inspiratorskim	inspiratorski	adj:sg:inst:m1.m2.m3.n:pos		
 inspiratorskim	inspiratorski	adj:sg:loc:m1.m2.m3.n:pos		
 inspiratorsko	inspiratorski	adja		
-inspiratorsku	inspiratorski	adjp		
+inspiratorsku	inspiratorski	adjp:dat		
 inspiratorsko	inspiratorsko	adv:pos		
 inspiratorskościach	inspiratorskość	subst:pl:loc:f	nazwa pospolita	
 inspiratorskościami	inspiratorskość	subst:pl:inst:f	nazwa pospolita	
@@ -24006,7 +24006,7 @@ instalatorskim	instalatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 instalatorskim	instalatorski	adj:sg:inst:m1.m2.m3.n:pos		
 instalatorskim	instalatorski	adj:sg:loc:m1.m2.m3.n:pos		
 instalatorsko	instalatorski	adja		
-instalatorsku	instalatorski	adjp		
+instalatorsku	instalatorski	adjp:dat		
 instalatorsko	instalatorsko	adv:pos		
 instalatorskościach	instalatorskość	subst:pl:loc:f	nazwa pospolita	
 instalatorskościami	instalatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -24562,7 +24562,7 @@ instruktorskim	instruktorski	adj:pl:dat:m1.m2.m3.f.n:pos
 instruktorskim	instruktorski	adj:sg:inst:m1.m2.m3.n:pos		
 instruktorskim	instruktorski	adj:sg:loc:m1.m2.m3.n:pos		
 instruktorsko	instruktorski	adja		
-instruktorsku	instruktorski	adjp		
+instruktorsku	instruktorski	adjp:dat		
 instruktorsko	instruktorsko	adv:pos		
 instruktorskościach	instruktorskość	subst:pl:loc:f	nazwa pospolita	
 instruktorskościami	instruktorskość	subst:pl:inst:f	nazwa pospolita	
@@ -25284,7 +25284,7 @@ instygatorskim	instygatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 instygatorskim	instygatorski	adj:sg:inst:m1.m2.m3.n:pos		
 instygatorskim	instygatorski	adj:sg:loc:m1.m2.m3.n:pos		
 instygatorsko	instygatorski	adja		
-instygatorsku	instygatorski	adjp		
+instygatorsku	instygatorski	adjp:dat		
 instygatorsko	instygatorsko	adv:pos		
 instygatorskościach	instygatorskość	subst:pl:loc:f	nazwa pospolita	
 instygatorskościami	instygatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -25727,7 +25727,7 @@ instytuckim	instytucki	adj:pl:dat:m1.m2.m3.f.n:pos
 instytuckim	instytucki	adj:sg:inst:m1.m2.m3.n:pos		
 instytuckim	instytucki	adj:sg:loc:m1.m2.m3.n:pos		
 instytucko	instytucki	adja		
-instytucku	instytucki	adjp		
+instytucku	instytucki	adjp:dat		
 instytucko	instytucko	adv:pos		
 instytuckościach	instytuckość	subst:pl:loc:f	nazwa pospolita	
 instytuckościami	instytuckość	subst:pl:inst:f	nazwa pospolita	
@@ -26188,7 +26188,7 @@ insynuatorskim	insynuatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 insynuatorskim	insynuatorski	adj:sg:inst:m1.m2.m3.n:pos		
 insynuatorskim	insynuatorski	adj:sg:loc:m1.m2.m3.n:pos		
 insynuatorsko	insynuatorski	adja		
-insynuatorsku	insynuatorski	adjp		
+insynuatorsku	insynuatorski	adjp:dat		
 insynuatorsko	insynuatorsko	adv:pos		
 insynuatorskościach	insynuatorskość	subst:pl:loc:f	nazwa pospolita	
 insynuatorskościami	insynuatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -27183,7 +27183,7 @@ inteligenckim	inteligencki	adj:pl:dat:m1.m2.m3.f.n:pos
 inteligenckim	inteligencki	adj:sg:inst:m1.m2.m3.n:pos		
 inteligenckim	inteligencki	adj:sg:loc:m1.m2.m3.n:pos		
 inteligencko	inteligencki	adja		
-inteligencku	inteligencki	adjp		
+inteligencku	inteligencki	adjp:dat		
 inteligencko	inteligencko	adv:pos		
 inteligenckościach	inteligenckość	subst:pl:loc:f	nazwa pospolita	
 inteligenckościami	inteligenckość	subst:pl:inst:f	nazwa pospolita	
@@ -27303,7 +27303,7 @@ intelowskim	intelowski	adj:pl:dat:m1.m2.m3.f.n:pos
 intelowskim	intelowski	adj:sg:inst:m1.m2.m3.n:pos		
 intelowskim	intelowski	adj:sg:loc:m1.m2.m3.n:pos		
 intelowsko	intelowski	adja		
-intelowsku	intelowski	adjp		
+intelowsku	intelowski	adjp:dat		
 intelowsko	intelowsko	adv:pos		
 intelowskościach	intelowskość	subst:pl:loc:f	nazwa pospolita	
 intelowskościami	intelowskość	subst:pl:inst:f	nazwa pospolita	
@@ -27446,7 +27446,7 @@ intendenckim	intendencki	adj:pl:dat:m1.m2.m3.f.n:pos
 intendenckim	intendencki	adj:sg:inst:m1.m2.m3.n:pos		
 intendenckim	intendencki	adj:sg:loc:m1.m2.m3.n:pos		
 intendencko	intendencki	adja		
-intendencku	intendencki	adjp		
+intendencku	intendencki	adjp:dat		
 intendencko	intendencko	adv:pos		
 intendenckościach	intendenckość	subst:pl:loc:f	nazwa pospolita	
 intendenckościami	intendenckość	subst:pl:inst:f	nazwa pospolita	
@@ -29839,7 +29839,7 @@ internackim	internacki	adj:pl:dat:m1.m2.m3.f.n:pos
 internackim	internacki	adj:sg:inst:m1.m2.m3.n:pos		
 internackim	internacki	adj:sg:loc:m1.m2.m3.n:pos		
 internacko	internacki	adja		
-internacku	internacki	adjp		
+internacku	internacki	adjp:dat		
 internacko	internacko	adv:pos		
 internackościach	internackość	subst:pl:loc:f	nazwa pospolita	
 internackościami	internackość	subst:pl:inst:f	nazwa pospolita	
@@ -30764,7 +30764,7 @@ interpretatorskim	interpretatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 interpretatorskim	interpretatorski	adj:sg:inst:m1.m2.m3.n:pos		
 interpretatorskim	interpretatorski	adj:sg:loc:m1.m2.m3.n:pos		
 interpretatorsko	interpretatorski	adja		
-interpretatorsku	interpretatorski	adjp		
+interpretatorsku	interpretatorski	adjp:dat		
 interpretatorsko	interpretatorsko	adv:pos		
 interpretatorskościach	interpretatorskość	subst:pl:loc:f	nazwa pospolita	
 interpretatorskościami	interpretatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -32297,7 +32297,7 @@ introligatorskim	introligatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 introligatorskim	introligatorski	adj:sg:inst:m1.m2.m3.n:pos		
 introligatorskim	introligatorski	adj:sg:loc:m1.m2.m3.n:pos		
 introligatorsko	introligatorski	adja		
-introligatorsku	introligatorski	adjp		
+introligatorsku	introligatorski	adjp:dat		
 introligatorsko	introligatorsko	adv:pos		
 introligatorskościach	introligatorskość	subst:pl:loc:f	nazwa pospolita	
 introligatorskościami	introligatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -33078,7 +33078,7 @@ intryganckim	intrygancki	adj:pl:dat:m1.m2.m3.f.n:pos
 intryganckim	intrygancki	adj:sg:inst:m1.m2.m3.n:pos		
 intryganckim	intrygancki	adj:sg:loc:m1.m2.m3.n:pos		
 intrygancko	intrygancki	adja		
-intrygancku	intrygancki	adjp		
+intrygancku	intrygancki	adjp:dat		
 intrygancko	intrygancko	adv:pos		
 intryganckościach	intryganckość	subst:pl:loc:f	nazwa pospolita	
 intryganckościami	intryganckość	subst:pl:inst:f	nazwa pospolita	
@@ -33686,7 +33686,7 @@ inwalidzkim	inwalidzki	adj:pl:dat:m1.m2.m3.f.n:pos
 inwalidzkim	inwalidzki	adj:sg:inst:m1.m2.m3.n:pos		
 inwalidzkim	inwalidzki	adj:sg:loc:m1.m2.m3.n:pos		
 inwalidzko	inwalidzki	adja		
-inwalidzku	inwalidzki	adjp		
+inwalidzku	inwalidzki	adjp:dat		
 inwalidzko	inwalidzko	adv:pos		
 inwalidzkościach	inwalidzkość	subst:pl:loc:f	nazwa pospolita	
 inwalidzkościami	inwalidzkość	subst:pl:inst:f	nazwa pospolita	
@@ -34024,7 +34024,7 @@ inwentarskim	inwentarski	adj:pl:dat:m1.m2.m3.f.n:pos
 inwentarskim	inwentarski	adj:sg:inst:m1.m2.m3.n:pos		
 inwentarskim	inwentarski	adj:sg:loc:m1.m2.m3.n:pos		
 inwentarsko	inwentarski	adja		
-inwentarsku	inwentarski	adjp		
+inwentarsku	inwentarski	adjp:dat		
 inwentarsko	inwentarsko	adv:pos		
 inwentarskościach	inwentarskość	subst:pl:loc:f	nazwa pospolita	
 inwentarskościami	inwentarskość	subst:pl:inst:f	nazwa pospolita	
@@ -34120,7 +34120,7 @@ inwentaryzatorskim	inwentaryzatorski	adj:pl:dat:m1.m2.m3.f.n:pos
 inwentaryzatorskim	inwentaryzatorski	adj:sg:inst:m1.m2.m3.n:pos		
 inwentaryzatorskim	inwentaryzatorski	adj:sg:loc:m1.m2.m3.n:pos		
 inwentaryzatorsko	inwentaryzatorski	adja		
-inwentaryzatorsku	inwentaryzatorski	adjp		
+inwentaryzatorsku	inwentaryzatorski	adjp:dat		
 inwentaryzatorsko	inwentaryzatorsko	adv:pos		
 inwentaryzatorskościach	inwentaryzatorskość	subst:pl:loc:f	nazwa pospolita	
 inwentaryzatorskościami	inwentaryzatorskość	subst:pl:inst:f	nazwa pospolita	
@@ -34654,7 +34654,7 @@ inwestorskim	inwestorski	adj:pl:dat:m1.m2.m3.f.n:pos
 inwestorskim	inwestorski	adj:sg:inst:m1.m2.m3.n:pos		
 inwestorskim	inwestorski	adj:sg:loc:m1.m2.m3.n:pos		
 inwestorsko	inwestorski	adja		
-inwestorsku	inwestorski	adjp		
+inwestorsku	inwestorski	adjp:dat		
 inwestorsko	inwestorsko	adv:pos		
 inwestorskościach	inwestorskość	subst:pl:loc:f	nazwa pospolita	
 inwestorskościami	inwestorskość	subst:pl:inst:f	nazwa pospolita	
@@ -35539,7 +35539,7 @@ inżynierskim	inżynierski	adj:pl:dat:m1.m2.m3.f.n:pos
 inżynierskim	inżynierski	adj:sg:inst:m1.m2.m3.n:pos		
 inżynierskim	inżynierski	adj:sg:loc:m1.m2.m3.n:pos		
 inżyniersko	inżynierski	adja		
-inżyniersku	inżynierski	adjp		
+inżyniersku	inżynierski	adjp:dat		
 inżyniersko	inżyniersko	adv:pos		
 inżynierskościach	inżynierskość	subst:pl:loc:f	nazwa pospolita	
 inżynierskościami	inżynierskość	subst:pl:inst:f	nazwa pospolita	
@@ -35621,7 +35621,7 @@ ińskim	iński	adj:pl:dat:m1.m2.m3.f.n:pos
 ińskim	iński	adj:sg:inst:m1.m2.m3.n:pos		
 ińskim	iński	adj:sg:loc:m1.m2.m3.n:pos		
 ińsko	iński	adja		
-ińsku	iński	adjp		
+ińsku	iński	adjp:dat		
 ińsko	ińsko	adv:pos		
 ińskościach	ińskość	subst:pl:loc:f	nazwa pospolita	
 ińskościami	ińskość	subst:pl:inst:f	nazwa pospolita	
@@ -35715,7 +35715,7 @@ ipeenowskim	ipeenowski	adj:pl:dat:m1.m2.m3.f.n:pos
 ipeenowskim	ipeenowski	adj:sg:inst:m1.m2.m3.n:pos		
 ipeenowskim	ipeenowski	adj:sg:loc:m1.m2.m3.n:pos		
 ipeenowsko	ipeenowski	adja		
-ipeenowsku	ipeenowski	adjp		
+ipeenowsku	ipeenowski	adjp:dat		
 ipeenowsko	ipeenowsko	adv:pos		
 ipeenowskościach	ipeenowskość	subst:pl:loc:f	nazwa pospolita	
 ipeenowskościami	ipeenowskość	subst:pl:inst:f	nazwa pospolita	
@@ -35962,7 +35962,7 @@ ipsylonowi	ipsylon	subst:sg:dat:m3	nazwa pospolita
 ipsylonów	ipsylon	subst:pl:gen:m3	nazwa pospolita	
 ipsylonu	ipsylon	subst:sg:gen:m3	nazwa pospolita	
 ipsylony	ipsylon	subst:pl:nom.acc.voc:m3	nazwa pospolita	
-i	i:q	qub		
+i	i:q	part		
 iraccy	iracki	adj:pl:nom.voc:m1:pos		
 iracka	iracki	adj:sg:nom.voc:f:pos		
 iracką	iracki	adj:sg:acc:f:pos		
@@ -35987,7 +35987,7 @@ irackim	iracki	adj:pl:dat:m1.m2.m3.f.n:pos
 irackim	iracki	adj:sg:inst:m1.m2.m3.n:pos		
 irackim	iracki	adj:sg:loc:m1.m2.m3.n:pos		
 iracko	iracki	adja		
-iracku	iracki	adjp		
+iracku	iracki	adjp:dat		
 iracko	iracko	adv:pos		
 irackościach	irackość	subst:pl:loc:f	nazwa pospolita	
 irackościami	irackość	subst:pl:inst:f	nazwa pospolita	
@@ -36024,7 +36024,7 @@ irakijskim	irakijski	adj:pl:dat:m1.m2.m3.f.n:pos
 irakijskim	irakijski	adj:sg:inst:m1.m2.m3.n:pos		
 irakijskim	irakijski	adj:sg:loc:m1.m2.m3.n:pos		
 irakijsko	irakijski	adja		
-irakijsku	irakijski	adjp		
+irakijsku	irakijski	adjp:dat		
 irakijsko	irakijsko	adv:pos		
 irakijskościach	irakijskość	subst:pl:loc:f	nazwa pospolita	
 irakijskościami	irakijskość	subst:pl:inst:f	nazwa pospolita	
@@ -36155,7 +36155,7 @@ irańskim	irański	adj:pl:dat:m1.m2.m3.f.n:pos
 irańskim	irański	adj:sg:inst:m1.m2.m3.n:pos		
 irańskim	irański	adj:sg:loc:m1.m2.m3.n:pos		
 irańsko	irański	adja		
-irańsku	irański	adjp		
+irańsku	irański	adjp:dat		
 irańsko	irańsko	adv:pos		
 irańskościach	irańskość	subst:pl:loc:f	nazwa pospolita	
 irańskościami	irańskość	subst:pl:inst:f	nazwa pospolita	
@@ -36306,7 +36306,7 @@ irkuckim	irkucki	adj:pl:dat:m1.m2.m3.f.n:pos
 irkuckim	irkucki	adj:sg:inst:m1.m2.m3.n:pos		
 irkuckim	irkucki	adj:sg:loc:m1.m2.m3.n:pos		
 irkucko	irkucki	adja		
-irkucku	irkucki	adjp		
+irkucku	irkucki	adjp:dat		
 irkucko	irkucko	adv:pos		
 irkuckościach	irkuckość	subst:pl:loc:f	nazwa pospolita	
 irkuckościami	irkuckość	subst:pl:inst:f	nazwa pospolita	
@@ -36320,6 +36320,7 @@ irkuckościom	irkuckość	subst:pl:dat:f	nazwa pospolita
 irkuckość	irkuckość	subst:sg:acc:f	nazwa pospolita	
 irkuckość	irkuckość	subst:sg:nom:f	nazwa pospolita	
 irlandzcy	irlandzki	adj:pl:nom.voc:m1:pos		
+irlandzka	irlandzki	adjp:gen		
 irlandzka	irlandzki	adj:sg:nom.voc:f:pos		
 irlandzką	irlandzki	adj:sg:acc:f:pos		
 irlandzką	irlandzki	adj:sg:inst:f:pos		
@@ -36343,7 +36344,7 @@ irlandzkim	irlandzki	adj:pl:dat:m1.m2.m3.f.n:pos
 irlandzkim	irlandzki	adj:sg:inst:m1.m2.m3.n:pos		
 irlandzkim	irlandzki	adj:sg:loc:m1.m2.m3.n:pos		
 irlandzko	irlandzki	adja		
-irlandzku	irlandzki	adjp		
+irlandzku	irlandzki	adjp:dat		
 irlandzko	irlandzko	adv:pos		
 irlandzkościach	irlandzkość	subst:pl:loc:f	nazwa pospolita	
 irlandzkościami	irlandzkość	subst:pl:inst:f	nazwa pospolita	
@@ -36380,7 +36381,7 @@ irokeskim	irokeski	adj:pl:dat:m1.m2.m3.f.n:pos
 irokeskim	irokeski	adj:sg:inst:m1.m2.m3.n:pos		
 irokeskim	irokeski	adj:sg:loc:m1.m2.m3.n:pos		
 irokesko	irokeski	adja		
-irokesku	irokeski	adjp		
+irokesku	irokeski	adjp:dat		
 irokesko	irokesko	adv:pos		
 irokeskościach	irokeskość	subst:pl:loc:f	nazwa pospolita	
 irokeskościami	irokeskość	subst:pl:inst:f	nazwa pospolita	
@@ -38260,7 +38261,7 @@ islamickim	islamicki	adj:pl:dat:m1.m2.m3.f.n:pos		przest.
 islamickim	islamicki	adj:sg:inst:m1.m2.m3.n:pos		przest.
 islamickim	islamicki	adj:sg:loc:m1.m2.m3.n:pos		przest.
 islamicko	islamicki	adja		przest.
-islamicku	islamicki	adjp		przest.
+islamicku	islamicki	adjp:dat		przest.
 islamicko	islamicko	adv:pos		
 islamickościach	islamickość	subst:pl:loc:f	nazwa pospolita	przest.
 islamickościami	islamickość	subst:pl:inst:f	nazwa pospolita	przest.
@@ -38561,7 +38562,7 @@ islamskim	islamski	adj:pl:dat:m1.m2.m3.f.n:pos
 islamskim	islamski	adj:sg:inst:m1.m2.m3.n:pos		
 islamskim	islamski	adj:sg:loc:m1.m2.m3.n:pos		
 islamsko	islamski	adja		
-islamsku	islamski	adjp		
+islamsku	islamski	adjp:dat		
 islamsko	islamsko	adv:pos		
 islamskościach	islamskość	subst:pl:loc:f	nazwa pospolita	
 islamskościami	islamskość	subst:pl:inst:f	nazwa pospolita	
@@ -38598,7 +38599,7 @@ islandzkim	islandzki:a	adj:pl:dat:m1.m2.m3.f.n:pos
 islandzkim	islandzki:a	adj:sg:inst:m1.m2.m3.n:pos		
 islandzkim	islandzki:a	adj:sg:loc:m1.m2.m3.n:pos		
 islandzko	islandzki:a	adja		
-islandzku	islandzki:a	adjp		
+islandzku	islandzki:a	adjp:dat		
 islandzkich	islandzki:s	subst:pl:gen:m3	nazwa pospolita	
 islandzkich	islandzki:s	subst:pl:loc:m3	nazwa pospolita	
 islandzkiego	islandzki:s	subst:sg:gen:m3	nazwa pospolita	
@@ -38646,7 +38647,7 @@ ismailijskim	ismailijski	adj:pl:dat:m1.m2.m3.f.n:pos
 ismailijskim	ismailijski	adj:sg:inst:m1.m2.m3.n:pos		
 ismailijskim	ismailijski	adj:sg:loc:m1.m2.m3.n:pos		
 ismailijsko	ismailijski	adja		
-ismailijsku	ismailijski	adjp		
+ismailijsku	ismailijski	adjp:dat		
 ismailijsko	ismailijsko	adv:pos		
 ismailijskościach	ismailijskość	subst:pl:loc:f	nazwa pospolita	
 ismailijskościami	ismailijskość	subst:pl:inst:f	nazwa pospolita	
@@ -38706,7 +38707,7 @@ istebniańskim	istebniański	adj:pl:dat:m1.m2.m3.f.n:pos
 istebniańskim	istebniański	adj:sg:inst:m1.m2.m3.n:pos		
 istebniańskim	istebniański	adj:sg:loc:m1.m2.m3.n:pos		
 istebniańsko	istebniański	adja		
-istebniańsku	istebniański	adjp		
+istebniańsku	istebniański	adjp:dat		
 istebniańsko	istebniańsko	adv:pos		
 istebniańskościach	istebniańskość	subst:pl:loc:f	nazwa pospolita	
 istebniańskościami	istebniańskość	subst:pl:inst:f	nazwa pospolita	
@@ -38743,7 +38744,7 @@ istmijskim	istmijski	adj:pl:dat:m1.m2.m3.f.n:pos
 istmijskim	istmijski	adj:sg:inst:m1.m2.m3.n:pos		
 istmijskim	istmijski	adj:sg:loc:m1.m2.m3.n:pos		
 istmijsko	istmijski	adja		
-istmijsku	istmijski	adjp		
+istmijsku	istmijski	adjp:dat		
 istmijsko	istmijsko	adv:pos		
 istmijskościach	istmijskość	subst:pl:loc:f	nazwa pospolita	
 istmijskościami	istmijskość	subst:pl:inst:f	nazwa pospolita	
@@ -39081,7 +39082,7 @@ istotko	istotka	subst:sg:voc:f	nazwa pospolita
 istotkom	istotka	subst:pl:dat:f	nazwa pospolita	
 istotnie	istotnie:d	adv:pos		
 istotniej	istotnie:d	adv:com		
-istotnie	istotnie:q	qub		
+istotnie	istotnie:q	part		
 istotnościach	istotność	subst:pl:loc:f	nazwa pospolita	
 istotnościami	istotność	subst:pl:inst:f	nazwa pospolita	
 istotnością	istotność	subst:sg:inst:f	nazwa pospolita	
@@ -39200,7 +39201,7 @@ istryjskim	istryjski	adj:pl:dat:m1.m2.m3.f.n:pos
 istryjskim	istryjski	adj:sg:inst:m1.m2.m3.n:pos		
 istryjskim	istryjski	adj:sg:loc:m1.m2.m3.n:pos		
 istryjsko	istryjski	adja		
-istryjsku	istryjski	adjp		
+istryjsku	istryjski	adjp:dat		
 istryjsko	istryjsko	adv:pos		
 istryjskościach	istryjskość	subst:pl:loc:f	nazwa pospolita	
 istryjskościami	istryjskość	subst:pl:inst:f	nazwa pospolita	
@@ -39237,7 +39238,7 @@ iszymskim	iszymski	adj:pl:dat:m1.m2.m3.f.n:pos
 iszymskim	iszymski	adj:sg:inst:m1.m2.m3.n:pos		
 iszymskim	iszymski	adj:sg:loc:m1.m2.m3.n:pos		
 iszymsko	iszymski	adja		
-iszymsku	iszymski	adjp		
+iszymsku	iszymski	adjp:dat		
 iszymsko	iszymsko	adv:pos		
 iszymskościach	iszymskość	subst:pl:loc:f	nazwa pospolita	
 iszymskościami	iszymskość	subst:pl:inst:f	nazwa pospolita	
@@ -39440,7 +39441,7 @@ itackim	itacki	adj:pl:dat:m1.m2.m3.f.n:pos
 itackim	itacki	adj:sg:inst:m1.m2.m3.n:pos		
 itackim	itacki	adj:sg:loc:m1.m2.m3.n:pos		
 itacko	itacki	adja		
-itacku	itacki	adjp		
+itacku	itacki	adjp:dat		
 itacko	itacko	adv:pos		
 itackościach	itackość	subst:pl:loc:f	nazwa pospolita	
 itackościami	itackość	subst:pl:inst:f	nazwa pospolita	
@@ -39635,7 +39636,7 @@ italiańskim	italiański	adj:pl:dat:m1.m2.m3.f.n:pos
 italiańskim	italiański	adj:sg:inst:m1.m2.m3.n:pos		
 italiańskim	italiański	adj:sg:loc:m1.m2.m3.n:pos		
 italiańsko	italiański	adja		
-italiańsku	italiański	adjp		
+italiańsku	italiański	adjp:dat		
 italiańsko	italiańsko	adv:pos		
 italiańskościach	italiańskość	subst:pl:loc:f	nazwa pospolita	
 italiańskościami	italiańskość	subst:pl:inst:f	nazwa pospolita	
@@ -39677,7 +39678,7 @@ italijskim	italijski	adj:pl:dat:m1.m2.m3.f.n:pos
 italijskim	italijski	adj:sg:inst:m1.m2.m3.n:pos		
 italijskim	italijski	adj:sg:loc:m1.m2.m3.n:pos		
 italijsko	italijski	adja		
-italijsku	italijski	adjp		
+italijsku	italijski	adjp:dat		
 italijsko	italijsko	adv:pos		
 italijskościach	italijskość	subst:pl:loc:f	nazwa pospolita	
 italijskościami	italijskość	subst:pl:inst:f	nazwa pospolita	
@@ -39866,7 +39867,7 @@ italskim	italski	adj:pl:dat:m1.m2.m3.f.n:pos
 italskim	italski	adj:sg:inst:m1.m2.m3.n:pos		
 italskim	italski	adj:sg:loc:m1.m2.m3.n:pos		
 italsko	italski	adja		
-italsku	italski	adjp		
+italsku	italski	adjp:dat		
 italsko	italsko	adv:pos		
 italskościach	italskość	subst:pl:loc:f	nazwa pospolita	
 italskościami	italskość	subst:pl:inst:f	nazwa pospolita	
@@ -40149,7 +40150,7 @@ iwaniskim	iwaniski	adj:pl:dat:m1.m2.m3.f.n:pos
 iwaniskim	iwaniski	adj:sg:inst:m1.m2.m3.n:pos		
 iwaniskim	iwaniski	adj:sg:loc:m1.m2.m3.n:pos		
 iwanisko	iwaniski	adja		
-iwanisku	iwaniski	adjp		
+iwanisku	iwaniski	adjp:dat		
 iwanisko	iwanisko	adv:pos		
 iwaniskościach	iwaniskość	subst:pl:loc:f	nazwa pospolita	
 iwaniskościami	iwaniskość	subst:pl:inst:f	nazwa pospolita	
@@ -40186,7 +40187,7 @@ iwanowickim	iwanowicki	adj:pl:dat:m1.m2.m3.f.n:pos
 iwanowickim	iwanowicki	adj:sg:inst:m1.m2.m3.n:pos		
 iwanowickim	iwanowicki	adj:sg:loc:m1.m2.m3.n:pos		
 iwanowicko	iwanowicki	adja		
-iwanowicku	iwanowicki	adjp		
+iwanowicku	iwanowicki	adjp:dat		
 iwanowicko	iwanowicko	adv:pos		
 iwanowickościach	iwanowickość	subst:pl:loc:f	nazwa pospolita	
 iwanowickościami	iwanowickość	subst:pl:inst:f	nazwa pospolita	
@@ -40223,7 +40224,7 @@ iwierzyckim	iwierzycki	adj:pl:dat:m1.m2.m3.f.n:pos
 iwierzyckim	iwierzycki	adj:sg:inst:m1.m2.m3.n:pos		
 iwierzyckim	iwierzycki	adj:sg:loc:m1.m2.m3.n:pos		
 iwierzycko	iwierzycki	adja		
-iwierzycku	iwierzycki	adjp		
+iwierzycku	iwierzycki	adjp:dat		
 iwierzycko	iwierzycko	adv:pos		
 iwierzyckościach	iwierzyckość	subst:pl:loc:f	nazwa pospolita	
 iwierzyckościami	iwierzyckość	subst:pl:inst:f	nazwa pospolita	
@@ -40271,7 +40272,7 @@ iwkowskim	iwkowski	adj:pl:dat:m1.m2.m3.f.n:pos
 iwkowskim	iwkowski	adj:sg:inst:m1.m2.m3.n:pos		
 iwkowskim	iwkowski	adj:sg:loc:m1.m2.m3.n:pos		
 iwkowsko	iwkowski	adja		
-iwkowsku	iwkowski	adjp		
+iwkowsku	iwkowski	adjp:dat		
 iwkowsko	iwkowsko	adv:pos		
 iwkowskościach	iwkowskość	subst:pl:loc:f	nazwa pospolita	
 iwkowskościami	iwkowskość	subst:pl:inst:f	nazwa pospolita	
@@ -40308,7 +40309,7 @@ iwonickim	iwonicki	adj:pl:dat:m1.m2.m3.f.n:pos
 iwonickim	iwonicki	adj:sg:inst:m1.m2.m3.n:pos		
 iwonickim	iwonicki	adj:sg:loc:m1.m2.m3.n:pos		
 iwonicko	iwonicki	adja		
-iwonicku	iwonicki	adjp		
+iwonicku	iwonicki	adjp:dat		
 iwonicko	iwonicko	adv:pos		
 iwonickościach	iwonickość	subst:pl:loc:f	nazwa pospolita	
 iwonickościami	iwonickość	subst:pl:inst:f	nazwa pospolita	
@@ -40402,8 +40403,8 @@ izabelowymi	izabelowy	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
 izabelowym	izabelowy	adj:pl:dat:m1.m2.m3.f.n:pos		przest.
 izabelowym	izabelowy	adj:sg:inst:m1.m2.m3.n:pos		przest.
 izabelowym	izabelowy	adj:sg:loc:m1.m2.m3.n:pos		przest.
-izali	izali	qub		daw.
-izaliż	izaliż	qub		przest.
+izali	izali	part		daw.
+izaliż	izaliż	part		przest.
 izalobarach	izalobara	subst:pl:loc:f	nazwa pospolita	meteor.
 izalobara	izalobara	subst:sg:nom:f	nazwa pospolita	meteor.
 izalobarami	izalobara	subst:pl:inst:f	nazwa pospolita	meteor.
@@ -40528,7 +40529,7 @@ izbickim	izbicki	adj:pl:dat:m1.m2.m3.f.n:pos
 izbickim	izbicki	adj:sg:inst:m1.m2.m3.n:pos		
 izbickim	izbicki	adj:sg:loc:m1.m2.m3.n:pos		
 izbicko	izbicki	adja		
-izbicku	izbicki	adjp		
+izbicku	izbicki	adjp:dat		
 izbicko	izbicko	adv:pos		
 izbickościach	izbickość	subst:pl:loc:f	nazwa pospolita	
 izbickościami	izbickość	subst:pl:inst:f	nazwa pospolita	
@@ -40679,7 +40680,7 @@ izerskim	izerski	adj:pl:dat:m1.m2.m3.f.n:pos
 izerskim	izerski	adj:sg:inst:m1.m2.m3.n:pos		
 izerskim	izerski	adj:sg:loc:m1.m2.m3.n:pos		
 izersko	izerski	adja		
-izersku	izerski	adjp		
+izersku	izerski	adjp:dat		
 izersko	izersko	adv:pos		
 izerskościach	izerskość	subst:pl:loc:f	nazwa pospolita	
 izerskościami	izerskość	subst:pl:inst:f	nazwa pospolita	
@@ -42307,7 +42308,7 @@ izraelickim	izraelicki	adj:pl:dat:m1.m2.m3.f.n:pos
 izraelickim	izraelicki	adj:sg:inst:m1.m2.m3.n:pos		
 izraelickim	izraelicki	adj:sg:loc:m1.m2.m3.n:pos		
 izraelicko	izraelicki	adja		
-izraelicku	izraelicki	adjp		
+izraelicku	izraelicki	adjp:dat		
 izraelicko	izraelicko	adv:pos		
 izraelickościach	izraelickość	subst:pl:loc:f	nazwa pospolita	
 izraelickościami	izraelickość	subst:pl:inst:f	nazwa pospolita	
@@ -42367,7 +42368,7 @@ izraelskim	izraelski	adj:pl:dat:m1.m2.m3.f.n:pos
 izraelskim	izraelski	adj:sg:inst:m1.m2.m3.n:pos		
 izraelskim	izraelski	adj:sg:loc:m1.m2.m3.n:pos		
 izraelsko	izraelski	adja		
-izraelsku	izraelski	adjp		
+izraelsku	izraelski	adjp:dat		
 izraelsko	izraelsko	adv:pos		
 izraelskościach	izraelskość	subst:pl:loc:f	nazwa pospolita	
 izraelskościami	izraelskość	subst:pl:inst:f	nazwa pospolita	

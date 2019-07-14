@@ -125,7 +125,7 @@ quebeckim	quebecki	adj:sg:loc:m1.m2.m3.n:pos
 quebecki	quebecki	adj:sg:acc:m3:pos		
 quebecki	quebecki	adj:sg:nom.voc:m1.m2.m3:pos		
 quebecko	quebecki	adja		
-quebecku	quebecki	adjp		
+quebecku	quebecki	adjp:dat		
 quebecko	quebecko	adv:pos		
 quebeckościach	quebeckość	subst:pl:loc:f	nazwa pospolita	
 quebeckościami	quebeckość	subst:pl:inst:f	nazwa pospolita	
@@ -288,7 +288,7 @@ qumrańskim	qumrański	adj:sg:loc:m1.m2.m3.n:pos
 qumrański	qumrański	adj:sg:acc:m3:pos		
 qumrański	qumrański	adj:sg:nom.voc:m1.m2.m3:pos		
 qumrańsko	qumrański	adja		
-qumrańsku	qumrański	adjp		
+qumrańsku	qumrański	adjp:dat		
 qumrańsko	qumrańsko	adv:pos		
 qumrańskościach	qumrańskość	subst:pl:loc:f	nazwa pospolita	
 qumrańskościami	qumrańskość	subst:pl:inst:f	nazwa pospolita	

@@ -358,7 +358,7 @@ jabłoneckim	jabłonecki	adj:pl:dat:m1.m2.m3.f.n:pos
 jabłoneckim	jabłonecki	adj:sg:inst:m1.m2.m3.n:pos		
 jabłoneckim	jabłonecki	adj:sg:loc:m1.m2.m3.n:pos		
 jabłonecko	jabłonecki	adja		
-jabłonecku	jabłonecki	adjp		
+jabłonecku	jabłonecki	adjp:dat		
 jabłonecko	jabłonecko	adv:pos		
 jabłoneckościach	jabłoneckość	subst:pl:loc:f	nazwa pospolita	
 jabłoneckościami	jabłoneckość	subst:pl:inst:f	nazwa pospolita	
@@ -406,7 +406,7 @@ jabłoneńskim	jabłoneński	adj:pl:dat:m1.m2.m3.f.n:pos
 jabłoneńskim	jabłoneński	adj:sg:inst:m1.m2.m3.n:pos		
 jabłoneńskim	jabłoneński	adj:sg:loc:m1.m2.m3.n:pos		
 jabłoneńsko	jabłoneński	adja		
-jabłoneńsku	jabłoneński	adjp		
+jabłoneńsku	jabłoneński	adjp:dat		
 jabłoneńsko	jabłoneńsko	adv:pos		
 jabłoneńskościach	jabłoneńskość	subst:pl:loc:f	nazwa pospolita	
 jabłoneńskościami	jabłoneńskość	subst:pl:inst:f	nazwa pospolita	
@@ -500,7 +500,7 @@ jabłonkowskim	jabłonkowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jabłonkowskim	jabłonkowski	adj:sg:inst:m1.m2.m3.n:pos		
 jabłonkowskim	jabłonkowski	adj:sg:loc:m1.m2.m3.n:pos		
 jabłonkowsko	jabłonkowski	adja		
-jabłonkowsku	jabłonkowski	adjp		
+jabłonkowsku	jabłonkowski	adjp:dat		
 jabłonkowsko	jabłonkowsko	adv:pos		
 jabłonkowskościach	jabłonkowskość	subst:pl:loc:f	nazwa pospolita	
 jabłonkowskościami	jabłonkowskość	subst:pl:inst:f	nazwa pospolita	
@@ -561,7 +561,7 @@ jabłonowskim	jabłonowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jabłonowskim	jabłonowski	adj:sg:inst:m1.m2.m3.n:pos		
 jabłonowskim	jabłonowski	adj:sg:loc:m1.m2.m3.n:pos		
 jabłonowsko	jabłonowski	adja		
-jabłonowsku	jabłonowski	adjp		
+jabłonowsku	jabłonowski	adjp:dat		
 jabłonowsko	jabłonowsko	adv:pos		
 jabłonowskościach	jabłonowskość	subst:pl:loc:f	nazwa pospolita	
 jabłonowskościami	jabłonowskość	subst:pl:inst:f	nazwa pospolita	
@@ -609,7 +609,7 @@ jabłońskim	jabłoński	adj:pl:dat:m1.m2.m3.f.n:pos
 jabłońskim	jabłoński	adj:sg:inst:m1.m2.m3.n:pos		
 jabłońskim	jabłoński	adj:sg:loc:m1.m2.m3.n:pos		
 jabłońsko	jabłoński	adja		
-jabłońsku	jabłoński	adjp		
+jabłońsku	jabłoński	adjp:dat		
 jabłońsko	jabłońsko	adv:pos		
 jabłońskościach	jabłońskość	subst:pl:loc:f	nazwa pospolita	
 jabłońskościami	jabłońskość	subst:pl:inst:f	nazwa pospolita	
@@ -885,7 +885,7 @@ jaćwieskim	jaćwieski	adj:pl:dat:m1.m2.m3.f.n:pos
 jaćwieskim	jaćwieski	adj:sg:inst:m1.m2.m3.n:pos		
 jaćwieskim	jaćwieski	adj:sg:loc:m1.m2.m3.n:pos		
 jaćwiesko	jaćwieski	adja		
-jaćwiesku	jaćwieski	adjp		
+jaćwiesku	jaćwieski	adjp:dat		
 jaćwiesko	jaćwiesko	adv:pos		
 jaćwieskościach	jaćwieskość	subst:pl:loc:f	nazwa pospolita	
 jaćwieskościami	jaćwieskość	subst:pl:inst:f	nazwa pospolita	
@@ -1501,7 +1501,7 @@ jadowskim	jadowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jadowskim	jadowski	adj:sg:inst:m1.m2.m3.n:pos		
 jadowskim	jadowski	adj:sg:loc:m1.m2.m3.n:pos		
 jadowsko	jadowski	adja		
-jadowsku	jadowski	adjp		
+jadowsku	jadowski	adjp:dat		
 jadowsko	jadowsko	adv:pos		
 jadowskościach	jadowskość	subst:pl:loc:f	nazwa pospolita	
 jadowskościami	jadowskość	subst:pl:inst:f	nazwa pospolita	
@@ -1594,7 +1594,7 @@ jafetyckim	jafetycki	adj:pl:dat:m1.m2.m3.f.n:pos
 jafetyckim	jafetycki	adj:sg:inst:m1.m2.m3.n:pos		
 jafetyckim	jafetycki	adj:sg:loc:m1.m2.m3.n:pos		
 jafetycko	jafetycki	adja		
-jafetycku	jafetycki	adjp		
+jafetycku	jafetycki	adjp:dat		
 jafetycko	jafetycko	adv:pos		
 jafetyckościach	jafetyckość	subst:pl:loc:f	nazwa pospolita	
 jafetyckościami	jafetyckość	subst:pl:inst:f	nazwa pospolita	
@@ -1631,7 +1631,7 @@ jafskim	jafski	adj:pl:dat:m1.m2.m3.f.n:pos
 jafskim	jafski	adj:sg:inst:m1.m2.m3.n:pos		
 jafskim	jafski	adj:sg:loc:m1.m2.m3.n:pos		
 jafsko	jafski	adja		
-jafsku	jafski	adjp		
+jafsku	jafski	adjp:dat		
 jafsko	jafsko	adv:pos		
 jafskościach	jafskość	subst:pl:loc:f	nazwa pospolita	
 jafskościami	jafskość	subst:pl:inst:f	nazwa pospolita	
@@ -1679,7 +1679,7 @@ jagiellońskim	jagielloński	adj:pl:dat:m1.m2.m3.f.n:pos
 jagiellońskim	jagielloński	adj:sg:inst:m1.m2.m3.n:pos		
 jagiellońskim	jagielloński	adj:sg:loc:m1.m2.m3.n:pos		
 jagiellońsko	jagielloński	adja		
-jagiellońsku	jagielloński	adjp		
+jagiellońsku	jagielloński	adjp:dat		
 jagiellońsko	jagiellońsko	adv:pos		
 jagiellońskościach	jagiellońskość	subst:pl:loc:f	nazwa pospolita	
 jagiellońskościami	jagiellońskość	subst:pl:inst:f	nazwa pospolita	
@@ -2357,7 +2357,7 @@ jajcarskim	jajcarski	adj:pl:dat:m1.m2.m3.f.n:pos		pot.
 jajcarskim	jajcarski	adj:sg:inst:m1.m2.m3.n:pos		pot.
 jajcarskim	jajcarski	adj:sg:loc:m1.m2.m3.n:pos		pot.
 jajcarsko	jajcarski	adja		pot.
-jajcarsku	jajcarski	adjp		pot.
+jajcarsku	jajcarski	adjp:dat		pot.
 jajcarsko	jajcarsko	adv:pos		
 jajcarskościach	jajcarskość	subst:pl:loc:f	nazwa pospolita	pot.
 jajcarskościami	jajcarskość	subst:pl:inst:f	nazwa pospolita	pot.
@@ -2428,7 +2428,7 @@ jajczarskim	jajczarski	adj:pl:dat:m1.m2.m3.f.n:pos
 jajczarskim	jajczarski	adj:sg:inst:m1.m2.m3.n:pos		
 jajczarskim	jajczarski	adj:sg:loc:m1.m2.m3.n:pos		
 jajczarsko	jajczarski	adja		
-jajczarsku	jajczarski	adjp		
+jajczarsku	jajczarski	adjp:dat		
 jajczarsko	jajczarsko	adv:pos		
 jajczarskościach	jajczarskość	subst:pl:loc:f	nazwa pospolita	
 jajczarskościami	jajczarskość	subst:pl:inst:f	nazwa pospolita	
@@ -3098,7 +3098,7 @@ jak	jaka	subst:pl:gen:f	nazwa pospolita	gwar.
 jako	jaka	subst:sg:voc:f	nazwa pospolita	gwar.
 jakom	jaka	subst:pl:dat:f	nazwa pospolita	gwar.
 jakby	jakby:c	comp		
-jakby	jakby:q	qub		
+jakby	jakby:q	part		
 jak	jak:c	comp		
 jak	jak:d	adv:pos		
 jacy	jaki	adj:pl:nom.voc:m1:pos		
@@ -3345,7 +3345,7 @@ jakli	jakla	subst:sg:dat.loc:f	nazwa pospolita
 jakli	jakla	subst:sg:gen:f	nazwa pospolita	
 jaklo	jakla	subst:sg:voc:f	nazwa pospolita	
 jaklom	jakla	subst:pl:dat:f	nazwa pospolita	
-jako	jako:b	burk		
+jako	jako:b	frag		
 jakobiccy	jakobicki	adj:pl:nom.voc:m1:pos		
 jakobicka	jakobicki	adj:sg:nom.voc:f:pos		
 jakobicką	jakobicki	adj:sg:acc:f:pos		
@@ -3370,7 +3370,7 @@ jakobickim	jakobicki	adj:pl:dat:m1.m2.m3.f.n:pos
 jakobickim	jakobicki	adj:sg:inst:m1.m2.m3.n:pos		
 jakobickim	jakobicki	adj:sg:loc:m1.m2.m3.n:pos		
 jakobicko	jakobicki	adja		
-jakobicku	jakobicki	adjp		
+jakobicku	jakobicki	adjp:dat		
 jakobicko	jakobicko	adv:pos		
 jakobickościach	jakobickość	subst:pl:loc:f	nazwa pospolita	
 jakobickościami	jakobickość	subst:pl:inst:f	nazwa pospolita	
@@ -3441,7 +3441,7 @@ jakobińskim	jakobiński	adj:pl:dat:m1.m2.m3.f.n:pos
 jakobińskim	jakobiński	adj:sg:inst:m1.m2.m3.n:pos		
 jakobińskim	jakobiński	adj:sg:loc:m1.m2.m3.n:pos		
 jakobińsko	jakobiński	adja		
-jakobińsku	jakobiński	adjp		
+jakobińsku	jakobiński	adjp:dat		
 jakobińsko	jakobińsko	adv:pos		
 jakobińskościach	jakobińskość	subst:pl:loc:f	nazwa pospolita	
 jakobińskościami	jakobińskość	subst:pl:inst:f	nazwa pospolita	
@@ -3467,7 +3467,7 @@ jakobitów	jakobita	subst:pl:gen.acc:m1	nazwa pospolita
 jakobity	jakobita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jakobity	jakobita	subst:sg:gen:m1	nazwa pospolita	
 jakoby	jakoby:c	comp		książk.
-jakoby	jakoby:q	qub		książk.
+jakoby	jakoby:q	part		książk.
 jako	jako:c	comp		przest.
 jako	jako:j	conj		
 jakokolwiek	jakokolwiek	comp		daw.
@@ -3738,7 +3738,7 @@ jaktorowskim	jaktorowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jaktorowskim	jaktorowski	adj:sg:inst:m1.m2.m3.n:pos		
 jaktorowskim	jaktorowski	adj:sg:loc:m1.m2.m3.n:pos		
 jaktorowsko	jaktorowski	adja		
-jaktorowsku	jaktorowski	adjp		
+jaktorowsku	jaktorowski	adjp:dat		
 jaktorowsko	jaktorowsko	adv:pos		
 jaktorowskościach	jaktorowskość	subst:pl:loc:f	nazwa pospolita	
 jaktorowskościami	jaktorowskość	subst:pl:inst:f	nazwa pospolita	
@@ -3798,7 +3798,7 @@ jakubowskim	jakubowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jakubowskim	jakubowski	adj:sg:inst:m1.m2.m3.n:pos		
 jakubowskim	jakubowski	adj:sg:loc:m1.m2.m3.n:pos		
 jakubowsko	jakubowski	adja		
-jakubowsku	jakubowski	adjp		
+jakubowsku	jakubowski	adjp:dat		
 jakubowsko	jakubowsko	adv:pos		
 jakubowskościach	jakubowskość	subst:pl:loc:f	nazwa pospolita	
 jakubowskościami	jakubowskość	subst:pl:inst:f	nazwa pospolita	
@@ -3870,7 +3870,7 @@ jakuckim	jakucki	adj:pl:dat:m1.m2.m3.f.n:pos
 jakuckim	jakucki	adj:sg:inst:m1.m2.m3.n:pos		
 jakuckim	jakucki	adj:sg:loc:m1.m2.m3.n:pos		
 jakucko	jakucki	adja		
-jakucku	jakucki	adjp		
+jakucku	jakucki	adjp:dat		
 jakucko	jakucko	adv:pos		
 jakuckościach	jakuckość	subst:pl:loc:f	nazwa pospolita	
 jakuckościami	jakuckość	subst:pl:inst:f	nazwa pospolita	
@@ -3910,7 +3910,7 @@ jakuzzi	jakuzzi	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita
 jw	jak_wyżej	brev:pun		
 jakże	jakże	adv		
 jakżeby	jakżeby	adv		
-jakżeż	jakżeż	qub		
+jakżeż	jakżeż	part		
 jalapach	jalapa	subst:pl:loc:f	nazwa pospolita	bot.
 jalapa	jalapa	subst:sg:nom:f	nazwa pospolita	bot.
 jalapami	jalapa	subst:pl:inst:f	nazwa pospolita	bot.
@@ -4430,7 +4430,7 @@ jałtańskim	jałtański	adj:pl:dat:m1.m2.m3.f.n:pos
 jałtańskim	jałtański	adj:sg:inst:m1.m2.m3.n:pos		
 jałtańskim	jałtański	adj:sg:loc:m1.m2.m3.n:pos		
 jałtańsko	jałtański	adja		
-jałtańsku	jałtański	adjp		
+jałtańsku	jałtański	adjp:dat		
 jałtańsko	jałtańsko	adv:pos		
 jałtańskościach	jałtańskość	subst:pl:loc:f	nazwa pospolita	
 jałtańskościami	jałtańskość	subst:pl:inst:f	nazwa pospolita	
@@ -4443,7 +4443,7 @@ jałtańskości	jałtańskość	subst:sg:voc:f	nazwa pospolita
 jałtańskościom	jałtańskość	subst:pl:dat:f	nazwa pospolita	
 jałtańskość	jałtańskość	subst:sg:acc:f	nazwa pospolita	
 jałtańskość	jałtańskość	subst:sg:nom:f	nazwa pospolita	
-jam	jam	burk		
+jam	jam	frag		
 jamach	jama	subst:pl:loc:f	nazwa pospolita	
 jama	jama	subst:sg:nom:f	nazwa pospolita	
 jamami	jama	subst:pl:inst:f	nazwa pospolita	
@@ -4490,7 +4490,7 @@ jamajskim	jamajski	adj:pl:dat:m1.m2.m3.f.n:pos
 jamajskim	jamajski	adj:sg:inst:m1.m2.m3.n:pos		
 jamajskim	jamajski	adj:sg:loc:m1.m2.m3.n:pos		
 jamajsko	jamajski	adja		
-jamajsku	jamajski	adjp		
+jamajsku	jamajski	adjp:dat		
 jamajsko	jamajsko	adv:pos		
 jamajskościach	jamajskość	subst:pl:loc:f	nazwa pospolita	
 jamajskościami	jamajskość	subst:pl:inst:f	nazwa pospolita	
@@ -4527,7 +4527,7 @@ jamalskim	jamalski	adj:pl:dat:m1.m2.m3.f.n:pos
 jamalskim	jamalski	adj:sg:inst:m1.m2.m3.n:pos		
 jamalskim	jamalski	adj:sg:loc:m1.m2.m3.n:pos		
 jamalsko	jamalski	adja		
-jamalsku	jamalski	adjp		
+jamalsku	jamalski	adjp:dat		
 jamalsko	jamalsko	adv:pos		
 jamalskościach	jamalskość	subst:pl:loc:f	nazwa pospolita	
 jamalskościami	jamalskość	subst:pl:inst:f	nazwa pospolita	
@@ -4633,7 +4633,7 @@ jamieńskim	jamieński	adj:pl:dat:m1.m2.m3.f.n:pos
 jamieńskim	jamieński	adj:sg:inst:m1.m2.m3.n:pos		
 jamieńskim	jamieński	adj:sg:loc:m1.m2.m3.n:pos		
 jamieńsko	jamieński	adja		
-jamieńsku	jamieński	adjp		
+jamieńsku	jamieński	adjp:dat		
 jamieńsko	jamieńsko	adv:pos		
 jamieńskościach	jamieńskość	subst:pl:loc:f	nazwa pospolita	
 jamieńskościami	jamieńskość	subst:pl:inst:f	nazwa pospolita	
@@ -4941,7 +4941,7 @@ janczarskim	janczarski	adj:pl:dat:m1.m2.m3.f.n:pos
 janczarskim	janczarski	adj:sg:inst:m1.m2.m3.n:pos		
 janczarskim	janczarski	adj:sg:loc:m1.m2.m3.n:pos		
 janczarsko	janczarski	adja		
-janczarsku	janczarski	adjp		
+janczarsku	janczarski	adjp:dat		
 janczarsko	janczarsko	adv:pos		
 janczarskościach	janczarskość	subst:pl:loc:f	nazwa pospolita	
 janczarskościami	janczarskość	subst:pl:inst:f	nazwa pospolita	
@@ -4997,7 +4997,7 @@ janikowskim	janikowski	adj:pl:dat:m1.m2.m3.f.n:pos
 janikowskim	janikowski	adj:sg:inst:m1.m2.m3.n:pos		
 janikowskim	janikowski	adj:sg:loc:m1.m2.m3.n:pos		
 janikowsko	janikowski	adja		
-janikowsku	janikowski	adjp		
+janikowsku	janikowski	adjp:dat		
 janikowsko	janikowsko	adv:pos		
 janikowskościach	janikowskość	subst:pl:loc:f	nazwa pospolita	
 janikowskościami	janikowskość	subst:pl:inst:f	nazwa pospolita	
@@ -5034,7 +5034,7 @@ janisławickim	janisławicki	adj:pl:dat:m1.m2.m3.f.n:pos
 janisławickim	janisławicki	adj:sg:inst:m1.m2.m3.n:pos		
 janisławickim	janisławicki	adj:sg:loc:m1.m2.m3.n:pos		
 janisławicko	janisławicki	adja		
-janisławicku	janisławicki	adjp		
+janisławicku	janisławicki	adjp:dat		
 janisławicko	janisławicko	adv:pos		
 janisławickościach	janisławickość	subst:pl:loc:f	nazwa pospolita	
 janisławickościami	janisławickość	subst:pl:inst:f	nazwa pospolita	
@@ -5094,7 +5094,7 @@ jankeskim	jankeski	adj:pl:dat:m1.m2.m3.f.n:pos
 jankeskim	jankeski	adj:sg:inst:m1.m2.m3.n:pos		
 jankeskim	jankeski	adj:sg:loc:m1.m2.m3.n:pos		
 jankesko	jankeski	adja		
-jankesku	jankeski	adjp		
+jankesku	jankeski	adjp:dat		
 jankesko	jankesko	adv:pos		
 jankeskościach	jankeskość	subst:pl:loc:f	nazwa pospolita	
 jankeskościami	jankeskość	subst:pl:inst:f	nazwa pospolita	
@@ -5212,7 +5212,7 @@ janowickim	janowicki	adj:pl:dat:m1.m2.m3.f.n:pos
 janowickim	janowicki	adj:sg:inst:m1.m2.m3.n:pos		
 janowickim	janowicki	adj:sg:loc:m1.m2.m3.n:pos		
 janowicko	janowicki	adja		
-janowicku	janowicki	adjp		
+janowicku	janowicki	adjp:dat		
 janowicko	janowicko	adv:pos		
 janowickościach	janowickość	subst:pl:loc:f	nazwa pospolita	
 janowickościami	janowickość	subst:pl:inst:f	nazwa pospolita	
@@ -5271,7 +5271,7 @@ janowskim	janowski	adj:pl:dat:m1.m2.m3.f.n:pos
 janowskim	janowski	adj:sg:inst:m1.m2.m3.n:pos		
 janowskim	janowski	adj:sg:loc:m1.m2.m3.n:pos		
 janowsko	janowski	adja		
-janowsku	janowski	adjp		
+janowsku	janowski	adjp:dat		
 janowsko	janowsko	adv:pos		
 janowskościach	janowskość	subst:pl:loc:f	nazwa pospolita	
 janowskościami	janowskość	subst:pl:inst:f	nazwa pospolita	
@@ -5646,7 +5646,7 @@ japońskim	japoński:a	adj:pl:dat:m1.m2.m3.f.n:pos
 japońskim	japoński:a	adj:sg:inst:m1.m2.m3.n:pos		
 japońskim	japoński:a	adj:sg:loc:m1.m2.m3.n:pos		
 japońsko	japoński:a	adja		
-japońsku	japoński:a	adjp		
+japońsku	japoński:a	adjp:dat		
 japońskich	japoński:s	subst:pl:gen:m3	nazwa pospolita	
 japońskich	japoński:s	subst:pl:loc:m3	nazwa pospolita	
 japońskiego	japoński:s	subst:sg:gen:m3	nazwa pospolita	
@@ -5716,7 +5716,7 @@ jaraczewskim	jaraczewski	adj:pl:dat:m1.m2.m3.f.n:pos
 jaraczewskim	jaraczewski	adj:sg:inst:m1.m2.m3.n:pos		
 jaraczewskim	jaraczewski	adj:sg:loc:m1.m2.m3.n:pos		
 jaraczewsko	jaraczewski	adja		
-jaraczewsku	jaraczewski	adjp		
+jaraczewsku	jaraczewski	adjp:dat		
 jaraczewsko	jaraczewsko	adv:pos		
 jaraczewskościach	jaraczewskość	subst:pl:loc:f	nazwa pospolita	
 jaraczewskościami	jaraczewskość	subst:pl:inst:f	nazwa pospolita	
@@ -5864,7 +5864,7 @@ jarczowskim	jarczowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jarczowskim	jarczowski	adj:sg:inst:m1.m2.m3.n:pos		
 jarczowskim	jarczowski	adj:sg:loc:m1.m2.m3.n:pos		
 jarczowsko	jarczowski	adja		
-jarczowsku	jarczowski	adjp		
+jarczowsku	jarczowski	adjp:dat		
 jarczowsko	jarczowsko	adv:pos		
 jarczowskościach	jarczowskość	subst:pl:loc:f	nazwa pospolita	
 jarczowskościami	jarczowskość	subst:pl:inst:f	nazwa pospolita	
@@ -6505,7 +6505,7 @@ jarocińskim	jarociński	adj:pl:dat:m1.m2.m3.f.n:pos
 jarocińskim	jarociński	adj:sg:inst:m1.m2.m3.n:pos		
 jarocińskim	jarociński	adj:sg:loc:m1.m2.m3.n:pos		
 jarocińsko	jarociński	adja		
-jarocińsku	jarociński	adjp		
+jarocińsku	jarociński	adjp:dat		
 jarocińsko	jarocińsko	adv:pos		
 jarocińskościach	jarocińskość	subst:pl:loc:f	nazwa pospolita	
 jarocińskościami	jarocińskość	subst:pl:inst:f	nazwa pospolita	
@@ -6565,7 +6565,7 @@ jarosławskim	jarosławski	adj:pl:dat:m1.m2.m3.f.n:pos
 jarosławskim	jarosławski	adj:sg:inst:m1.m2.m3.n:pos		
 jarosławskim	jarosławski	adj:sg:loc:m1.m2.m3.n:pos		
 jarosławsko	jarosławski	adja		
-jarosławsku	jarosławski	adjp		
+jarosławsku	jarosławski	adjp:dat		
 jarosławsko	jarosławsko	adv:pos		
 jarosławskościach	jarosławskość	subst:pl:loc:f	nazwa pospolita	
 jarosławskościami	jarosławskość	subst:pl:inst:f	nazwa pospolita	
@@ -6897,7 +6897,7 @@ jarskim	jarski	adj:pl:dat:m1.m2.m3.f.n:pos
 jarskim	jarski	adj:sg:inst:m1.m2.m3.n:pos		
 jarskim	jarski	adj:sg:loc:m1.m2.m3.n:pos		
 jarsko	jarski	adja		
-jarsku	jarski	adjp		
+jarsku	jarski	adjp:dat		
 jarsko	jarsko	adv:pos		
 jarskościach	jarskość	subst:pl:loc:f	nazwa pospolita	
 jarskościami	jarskość	subst:pl:inst:f	nazwa pospolita	
@@ -7792,7 +7792,7 @@ jarzyniarskim	jarzyniarski	adj:pl:dat:m1.m2.m3.f.n:pos
 jarzyniarskim	jarzyniarski	adj:sg:inst:m1.m2.m3.n:pos		
 jarzyniarskim	jarzyniarski	adj:sg:loc:m1.m2.m3.n:pos		
 jarzyniarsko	jarzyniarski	adja		
-jarzyniarsku	jarzyniarski	adjp		
+jarzyniarsku	jarzyniarski	adjp:dat		
 jarzyniarsko	jarzyniarsko	adv:pos		
 jarzyniarskościach	jarzyniarskość	subst:pl:loc:f	nazwa pospolita	
 jarzyniarskościami	jarzyniarskość	subst:pl:inst:f	nazwa pospolita	
@@ -8045,7 +8045,7 @@ jasielskim	jasielski	adj:pl:dat:m1.m2.m3.f.n:pos
 jasielskim	jasielski	adj:sg:inst:m1.m2.m3.n:pos		
 jasielskim	jasielski	adj:sg:loc:m1.m2.m3.n:pos		
 jasielsko	jasielski	adja		
-jasielsku	jasielski	adjp		
+jasielsku	jasielski	adjp:dat		
 jasielsko	jasielsko	adv:pos		
 jasielskościach	jasielskość	subst:pl:loc:f	nazwa pospolita	
 jasielskościami	jasielskość	subst:pl:inst:f	nazwa pospolita	
@@ -8082,7 +8082,7 @@ jasienickim	jasienicki	adj:pl:dat:m1.m2.m3.f.n:pos
 jasienickim	jasienicki	adj:sg:inst:m1.m2.m3.n:pos		
 jasienickim	jasienicki	adj:sg:loc:m1.m2.m3.n:pos		
 jasienicko	jasienicki	adja		
-jasienicku	jasienicki	adjp		
+jasienicku	jasienicki	adjp:dat		
 jasienicko	jasienicko	adv:pos		
 jasienickościach	jasienickość	subst:pl:loc:f	nazwa pospolita	
 jasienickościami	jasienickość	subst:pl:inst:f	nazwa pospolita	
@@ -8141,7 +8141,7 @@ jasieńskim	jasieński	adj:pl:dat:m1.m2.m3.f.n:pos
 jasieńskim	jasieński	adj:sg:inst:m1.m2.m3.n:pos		
 jasieńskim	jasieński	adj:sg:loc:m1.m2.m3.n:pos		
 jasieńsko	jasieński	adja		
-jasieńsku	jasieński	adjp		
+jasieńsku	jasieński	adjp:dat		
 jasieńsko	jasieńsko	adv:pos		
 jasieńskościach	jasieńskość	subst:pl:loc:f	nazwa pospolita	
 jasieńskościami	jasieńskość	subst:pl:inst:f	nazwa pospolita	
@@ -8224,7 +8224,7 @@ jasionóweckim	jasionówecki	adj:pl:dat:m1.m2.m3.f.n:pos
 jasionóweckim	jasionówecki	adj:sg:inst:m1.m2.m3.n:pos		
 jasionóweckim	jasionówecki	adj:sg:loc:m1.m2.m3.n:pos		
 jasionówecko	jasionówecki	adja		
-jasionówecku	jasionówecki	adjp		
+jasionówecku	jasionówecki	adjp:dat		
 jasionówecko	jasionówecko	adv:pos		
 jasionóweckościach	jasionóweckość	subst:pl:loc:f	nazwa pospolita	
 jasionóweckościami	jasionóweckość	subst:pl:inst:f	nazwa pospolita	
@@ -8261,7 +8261,7 @@ jaskim	jaski	adj:pl:dat:m1.m2.m3.f.n:pos
 jaskim	jaski	adj:sg:inst:m1.m2.m3.n:pos		
 jaskim	jaski	adj:sg:loc:m1.m2.m3.n:pos		
 jasko	jaski	adja		
-jasku	jaski	adjp		
+jasku	jaski	adjp:dat		
 jaskier	jaskier	subst:sg:nom.acc:m3	nazwa pospolita	bot.
 jaskier	jaskier	subst:sg:nom:m2	nazwa pospolita	bot.|pot.
 jaskrach	jaskier	subst:pl:loc:m2	nazwa pospolita	bot.|pot.
@@ -9237,7 +9237,7 @@ jasnogórskim	jasnogórski	adj:pl:dat:m1.m2.m3.f.n:pos
 jasnogórskim	jasnogórski	adj:sg:inst:m1.m2.m3.n:pos		
 jasnogórskim	jasnogórski	adj:sg:loc:m1.m2.m3.n:pos		
 jasnogórsko	jasnogórski	adja		
-jasnogórsku	jasnogórski	adjp		
+jasnogórsku	jasnogórski	adjp:dat		
 jasnogórsko	jasnogórsko	adv:pos		
 jasnogórskościach	jasnogórskość	subst:pl:loc:f	nazwa pospolita	
 jasnogórskościami	jasnogórskość	subst:pl:inst:f	nazwa pospolita	
@@ -9484,7 +9484,7 @@ jasnoniebieskim	jasnoniebieski	adj:pl:dat:m1.m2.m3.f.n:pos
 jasnoniebieskim	jasnoniebieski	adj:sg:inst:m1.m2.m3.n:pos		
 jasnoniebieskim	jasnoniebieski	adj:sg:loc:m1.m2.m3.n:pos		
 jasnoniebiesko	jasnoniebieski	adja		
-jasnoniebiesku	jasnoniebieski	adjp		
+jasnoniebiesku	jasnoniebieski	adjp:dat		
 jasnoniebiesko	jasnoniebiesko	adv:pos		
 jasnoniebieskościach	jasnoniebieskość	subst:pl:loc:f	nazwa pospolita	
 jasnoniebieskościami	jasnoniebieskość	subst:pl:inst:f	nazwa pospolita	
@@ -10212,7 +10212,7 @@ jastarniańskim	jastarniański	adj:pl:dat:m1.m2.m3.f.n:pos
 jastarniańskim	jastarniański	adj:sg:inst:m1.m2.m3.n:pos		
 jastarniańskim	jastarniański	adj:sg:loc:m1.m2.m3.n:pos		
 jastarniańsko	jastarniański	adja		
-jastarniańsku	jastarniański	adjp		
+jastarniańsku	jastarniański	adjp:dat		
 jastarniańsko	jastarniańsko	adv:pos		
 jastarniańskościach	jastarniańskość	subst:pl:loc:f	nazwa pospolita	
 jastarniańskościami	jastarniańskość	subst:pl:inst:f	nazwa pospolita	
@@ -10249,7 +10249,7 @@ jastkowskim	jastkowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jastkowskim	jastkowski	adj:sg:inst:m1.m2.m3.n:pos		
 jastkowskim	jastkowski	adj:sg:loc:m1.m2.m3.n:pos		
 jastkowsko	jastkowski	adja		
-jastkowsku	jastkowski	adjp		
+jastkowsku	jastkowski	adjp:dat		
 jastkowsko	jastkowsko	adv:pos		
 jastkowskościach	jastkowskość	subst:pl:loc:f	nazwa pospolita	
 jastkowskościami	jastkowskość	subst:pl:inst:f	nazwa pospolita	
@@ -10286,7 +10286,7 @@ jastrowskim	jastrowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jastrowskim	jastrowski	adj:sg:inst:m1.m2.m3.n:pos		
 jastrowskim	jastrowski	adj:sg:loc:m1.m2.m3.n:pos		
 jastrowsko	jastrowski	adja		
-jastrowsku	jastrowski	adjp		
+jastrowsku	jastrowski	adjp:dat		
 jastrowsko	jastrowsko	adv:pos		
 jastrowskościach	jastrowskość	subst:pl:loc:f	nazwa pospolita	
 jastrowskościami	jastrowskość	subst:pl:inst:f	nazwa pospolita	
@@ -10462,7 +10462,7 @@ jastrzębiogórskim	jastrzębiogórski	adj:pl:dat:m1.m2.m3.f.n:pos
 jastrzębiogórskim	jastrzębiogórski	adj:sg:inst:m1.m2.m3.n:pos		
 jastrzębiogórskim	jastrzębiogórski	adj:sg:loc:m1.m2.m3.n:pos		
 jastrzębiogórsko	jastrzębiogórski	adja		
-jastrzębiogórsku	jastrzębiogórski	adjp		
+jastrzębiogórsku	jastrzębiogórski	adjp:dat		
 jastrzębiogórsko	jastrzębiogórsko	adv:pos		
 jastrzębiogórskościach	jastrzębiogórskość	subst:pl:loc:f	nazwa pospolita	
 jastrzębiogórskościami	jastrzębiogórskość	subst:pl:inst:f	nazwa pospolita	
@@ -10562,7 +10562,7 @@ jastrzębskim	jastrzębski	adj:pl:dat:m1.m2.m3.f.n:pos
 jastrzębskim	jastrzębski	adj:sg:inst:m1.m2.m3.n:pos		
 jastrzębskim	jastrzębski	adj:sg:loc:m1.m2.m3.n:pos		
 jastrzębsko	jastrzębski	adja		
-jastrzębsku	jastrzębski	adjp		
+jastrzębsku	jastrzębski	adjp:dat		
 jastrzębsko	jastrzębsko	adv:pos		
 jastrzębskościach	jastrzębskość	subst:pl:loc:f	nazwa pospolita	
 jastrzębskościami	jastrzębskość	subst:pl:inst:f	nazwa pospolita	
@@ -10909,7 +10909,7 @@ jaśliskim	jaśliski	adj:pl:dat:m1.m2.m3.f.n:pos
 jaśliskim	jaśliski	adj:sg:inst:m1.m2.m3.n:pos		
 jaśliskim	jaśliski	adj:sg:loc:m1.m2.m3.n:pos		
 jaślisko	jaśliski	adja		
-jaślisku	jaśliski	adjp		
+jaślisku	jaśliski	adjp:dat		
 jaślisko	jaślisko	adv:pos		
 jaśliskościach	jaśliskość	subst:pl:loc:f	nazwa pospolita	
 jaśliskościami	jaśliskość	subst:pl:inst:f	nazwa pospolita	
@@ -11280,7 +11280,7 @@ jaśniepańskim	jaśniepański	adj:pl:dat:m1.m2.m3.f.n:pos
 jaśniepańskim	jaśniepański	adj:sg:inst:m1.m2.m3.n:pos		
 jaśniepańskim	jaśniepański	adj:sg:loc:m1.m2.m3.n:pos		
 jaśniepańsko	jaśniepański	adja		
-jaśniepańsku	jaśniepański	adjp		
+jaśniepańsku	jaśniepański	adjp:dat		
 jaśniepańsko	jaśniepańsko	adv:pos		
 jaśniepańskościach	jaśniepańskość	subst:pl:loc:f	nazwa pospolita	
 jaśniepańskościami	jaśniepańskość	subst:pl:inst:f	nazwa pospolita	
@@ -11589,7 +11589,7 @@ jaundejskim	jaundejski	adj:pl:dat:m1.m2.m3.f.n:pos
 jaundejskim	jaundejski	adj:sg:inst:m1.m2.m3.n:pos		
 jaundejskim	jaundejski	adj:sg:loc:m1.m2.m3.n:pos		
 jaundejsko	jaundejski	adja		
-jaundejsku	jaundejski	adjp		
+jaundejsku	jaundejski	adjp:dat		
 jaundejsko	jaundejsko	adv:pos		
 jaundejskościach	jaundejskość	subst:pl:loc:f	nazwa pospolita	
 jaundejskościami	jaundejskość	subst:pl:inst:f	nazwa pospolita	
@@ -11659,7 +11659,7 @@ jawajskim	jawajski	adj:pl:dat:m1.m2.m3.f.n:pos
 jawajskim	jawajski	adj:sg:inst:m1.m2.m3.n:pos		
 jawajskim	jawajski	adj:sg:loc:m1.m2.m3.n:pos		
 jawajsko	jawajski	adja		
-jawajsku	jawajski	adjp		
+jawajsku	jawajski	adjp:dat		
 jawajsko	jawajsko	adv:pos		
 jawajskościach	jawajskość	subst:pl:loc:f	nazwa pospolita	
 jawajskościami	jawajskość	subst:pl:inst:f	nazwa pospolita	
@@ -11780,7 +11780,7 @@ jawiszowickim	jawiszowicki	adj:pl:dat:m1.m2.m3.f.n:pos
 jawiszowickim	jawiszowicki	adj:sg:inst:m1.m2.m3.n:pos		
 jawiszowickim	jawiszowicki	adj:sg:loc:m1.m2.m3.n:pos		
 jawiszowicko	jawiszowicki	adja		
-jawiszowicku	jawiszowicki	adjp		
+jawiszowicku	jawiszowicki	adjp:dat		
 jawiszowicko	jawiszowicko	adv:pos		
 jawiszowickościach	jawiszowickość	subst:pl:loc:f	nazwa pospolita	
 jawiszowickościami	jawiszowickość	subst:pl:inst:f	nazwa pospolita	
@@ -12027,7 +12027,7 @@ jaworowskim	jaworowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jaworowskim	jaworowski	adj:sg:inst:m1.m2.m3.n:pos		
 jaworowskim	jaworowski	adj:sg:loc:m1.m2.m3.n:pos		
 jaworowsko	jaworowski	adja		
-jaworowsku	jaworowski	adjp		
+jaworowsku	jaworowski	adjp:dat		
 jaworowsko	jaworowsko	adv:pos		
 jaworowskościach	jaworowskość	subst:pl:loc:f	nazwa pospolita	
 jaworowskościami	jaworowskość	subst:pl:inst:f	nazwa pospolita	
@@ -12088,7 +12088,7 @@ jaworskim	jaworski	adj:pl:dat:m1.m2.m3.f.n:pos
 jaworskim	jaworski	adj:sg:inst:m1.m2.m3.n:pos		
 jaworskim	jaworski	adj:sg:loc:m1.m2.m3.n:pos		
 jaworsko	jaworski	adja		
-jaworsku	jaworski	adjp		
+jaworsku	jaworski	adjp:dat		
 jaworsko	jaworsko	adv:pos		
 jaworskościach	jaworskość	subst:pl:loc:f	nazwa pospolita	
 jaworskościami	jaworskość	subst:pl:inst:f	nazwa pospolita	
@@ -12125,7 +12125,7 @@ jaworzańskim	jaworzański	adj:pl:dat:m1.m2.m3.f.n:pos
 jaworzańskim	jaworzański	adj:sg:inst:m1.m2.m3.n:pos		
 jaworzańskim	jaworzański	adj:sg:loc:m1.m2.m3.n:pos		
 jaworzańsko	jaworzański	adja		
-jaworzańsku	jaworzański	adjp		
+jaworzańsku	jaworzański	adjp:dat		
 jaworzańsko	jaworzańsko	adv:pos		
 jaworzańskościach	jaworzańskość	subst:pl:loc:f	nazwa pospolita	
 jaworzańskościami	jaworzańskość	subst:pl:inst:f	nazwa pospolita	
@@ -12185,7 +12185,7 @@ jaworzniańskim	jaworzniański	adj:pl:dat:m1.m2.m3.f.n:pos
 jaworzniańskim	jaworzniański	adj:sg:inst:m1.m2.m3.n:pos		
 jaworzniańskim	jaworzniański	adj:sg:loc:m1.m2.m3.n:pos		
 jaworzniańsko	jaworzniański	adja		
-jaworzniańsku	jaworzniański	adjp		
+jaworzniańsku	jaworzniański	adjp:dat		
 jaworzniańsko	jaworzniańsko	adv:pos		
 jaworzniańskościach	jaworzniańskość	subst:pl:loc:f	nazwa pospolita	
 jaworzniańskościami	jaworzniańskość	subst:pl:inst:f	nazwa pospolita	
@@ -12222,7 +12222,7 @@ jaworznickim	jaworznicki	adj:pl:dat:m1.m2.m3.f.n:pos
 jaworznickim	jaworznicki	adj:sg:inst:m1.m2.m3.n:pos		
 jaworznickim	jaworznicki	adj:sg:loc:m1.m2.m3.n:pos		
 jaworznicko	jaworznicki	adja		
-jaworznicku	jaworznicki	adjp		
+jaworznicku	jaworznicki	adjp:dat		
 jaworznickościach	jaworznickość	subst:pl:loc:f		
 jaworznickościami	jaworznickość	subst:pl:inst:f		
 jaworznickością	jaworznickość	subst:sg:inst:f		
@@ -12269,7 +12269,7 @@ jaworzyńskim	jaworzyński	adj:pl:dat:m1.m2.m3.f.n:pos
 jaworzyńskim	jaworzyński	adj:sg:inst:m1.m2.m3.n:pos		
 jaworzyńskim	jaworzyński	adj:sg:loc:m1.m2.m3.n:pos		
 jaworzyńsko	jaworzyński	adja		
-jaworzyńsku	jaworzyński	adjp		
+jaworzyńsku	jaworzyński	adjp:dat		
 jaworzyńsko	jaworzyńsko	adv:pos		
 jaworzyńskościach	jaworzyńskość	subst:pl:loc:f	nazwa pospolita	
 jaworzyńskościami	jaworzyńskość	subst:pl:inst:f	nazwa pospolita	
@@ -12598,7 +12598,7 @@ jazydzkim	jazydzki	adj:pl:dat:m1.m2.m3.f.n:pos		rel.
 jazydzkim	jazydzki	adj:sg:inst:m1.m2.m3.n:pos		rel.
 jazydzkim	jazydzki	adj:sg:loc:m1.m2.m3.n:pos		rel.
 jazydzko	jazydzki	adja		rel.
-jazydzku	jazydzki	adjp		rel.
+jazydzku	jazydzki	adjp:dat		rel.
 jazzach	jazz	subst:pl:loc:m3	nazwa pospolita	
 jazzami	jazz	subst:pl:inst:m3	nazwa pospolita	
 jazzem	jazz	subst:sg:inst:m3	nazwa pospolita	
@@ -14519,7 +14519,7 @@ jedleńskim	jedleński	adj:pl:dat:m1.m2.m3.f.n:pos
 jedleńskim	jedleński	adj:sg:inst:m1.m2.m3.n:pos		
 jedleńskim	jedleński	adj:sg:loc:m1.m2.m3.n:pos		
 jedleńsko	jedleński	adja		
-jedleńsku	jedleński	adjp		
+jedleńsku	jedleński	adjp:dat		
 jedleńsko	jedleńsko	adv:pos		
 jedleńskościach	jedleńskość	subst:pl:loc:f	nazwa pospolita	
 jedleńskościami	jedleńskość	subst:pl:inst:f	nazwa pospolita	
@@ -14681,7 +14681,7 @@ jedlińskim	jedliński	adj:pl:dat:m1.m2.m3.f.n:pos
 jedlińskim	jedliński	adj:sg:inst:m1.m2.m3.n:pos		
 jedlińskim	jedliński	adj:sg:loc:m1.m2.m3.n:pos		
 jedlińsko	jedliński	adja		
-jedlińsku	jedliński	adjp		
+jedlińsku	jedliński	adjp:dat		
 jedlińsko	jedlińsko	adv:pos		
 jedlińskościach	jedlińskość	subst:pl:loc:f	nazwa pospolita	
 jedlińskościami	jedlińskość	subst:pl:inst:f	nazwa pospolita	
@@ -15023,7 +15023,7 @@ jednakowości	jednakowość	subst:sg:voc:f	nazwa pospolita
 jednakowościom	jednakowość	subst:pl:dat:f	nazwa pospolita	
 jednakowość	jednakowość	subst:sg:acc:f	nazwa pospolita	
 jednakowość	jednakowość	subst:sg:nom:f	nazwa pospolita	
-jednakowoż	jednakowoż	qub		przest.
+jednakowoż	jednakowoż	part		przest.
 jednakowa	jednakowy	adj:sg:nom.voc:f:pos		
 jednakową	jednakowy	adj:sg:acc:f:pos		
 jednakową	jednakowy	adj:sg:inst:f:pos		
@@ -15048,9 +15048,9 @@ jednakowymi	jednakowy	adj:pl:inst:m1.m2.m3.f.n:pos
 jednakowym	jednakowy	adj:pl:dat:m1.m2.m3.f.n:pos		
 jednakowym	jednakowy	adj:sg:inst:m1.m2.m3.n:pos		
 jednakowym	jednakowy	adj:sg:loc:m1.m2.m3.n:pos		
-jednakoż	jednakoż	qub		
-jednak	jednak:q	qub		
-jednakże	jednakże	qub		
+jednakoż	jednakoż	part		
+jednak	jednak:q	part		
+jednakże	jednakże	part		
 jednanego	jednane	subst:sg:gen:n:ncol	nazwa pospolita	daw.
 jednane	jednane	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	daw.
 jednane	jednane	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	daw.
@@ -19384,7 +19384,7 @@ jednoprzęsłowymi	jednoprzęsłowy	adj:pl:inst:m1.m2.m3.f.n:pos
 jednoprzęsłowym	jednoprzęsłowy	adj:pl:dat:m1.m2.m3.f.n:pos		
 jednoprzęsłowym	jednoprzęsłowy	adj:sg:inst:m1.m2.m3.n:pos		
 jednoprzęsłowym	jednoprzęsłowy	adj:sg:loc:m1.m2.m3.n:pos		
-jedno	jedno:q	qub		daw.
+jedno	jedno:q	part		daw.
 jednoracy	jednoraki	adj:pl:nom.voc:m1:pos		
 jednoraka	jednoraki	adj:sg:nom.voc:f:pos		
 jednoraką	jednoraki	adj:sg:acc:f:pos		
@@ -22855,7 +22855,7 @@ jedwabieńskim	jedwabieński	adj:pl:dat:m1.m2.m3.f.n:pos
 jedwabieńskim	jedwabieński	adj:sg:inst:m1.m2.m3.n:pos		
 jedwabieńskim	jedwabieński	adj:sg:loc:m1.m2.m3.n:pos		
 jedwabieńsko	jedwabieński	adja		
-jedwabieńsku	jedwabieński	adjp		
+jedwabieńsku	jedwabieński	adjp:dat		
 jedwabieńsko	jedwabieńsko	adv:pos		
 jedwabieńskościach	jedwabieńskość	subst:pl:loc:f	nazwa pospolita	
 jedwabieńskościami	jedwabieńskość	subst:pl:inst:f	nazwa pospolita	
@@ -22903,7 +22903,7 @@ jedwabińskim	jedwabiński	adj:pl:dat:m1.m2.m3.f.n:pos
 jedwabińskim	jedwabiński	adj:sg:inst:m1.m2.m3.n:pos		
 jedwabińskim	jedwabiński	adj:sg:loc:m1.m2.m3.n:pos		
 jedwabińsko	jedwabiński	adja		
-jedwabińsku	jedwabiński	adjp		
+jedwabińsku	jedwabiński	adjp:dat		
 jedwabińsko	jedwabińsko	adv:pos		
 jedwabińskościach	jedwabińskość	subst:pl:loc:f	nazwa pospolita	
 jedwabińskościami	jedwabińskość	subst:pl:inst:f	nazwa pospolita	
@@ -23157,7 +23157,7 @@ jedynymi	jedyne	subst:pl:inst:n:ncol	nazwa pospolita
 jedynym	jedyne	subst:pl:dat:n:ncol	nazwa pospolita	
 jedynym	jedyne	subst:sg:inst:n:ncol	nazwa pospolita	
 jedynym	jedyne	subst:sg:loc:n:ncol	nazwa pospolita	
-jedynie	jedynie	qub		
+jedynie	jedynie	part		
 jedynce	jedynka	subst:sg:dat.loc:f	nazwa pospolita	
 jedynek	jedynka	subst:pl:gen:f	nazwa pospolita	
 jedynkach	jedynka	subst:pl:loc:f	nazwa pospolita	
@@ -23458,7 +23458,7 @@ jegierowskim	jegierowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jegierowskim	jegierowski	adj:sg:inst:m1.m2.m3.n:pos		
 jegierowskim	jegierowski	adj:sg:loc:m1.m2.m3.n:pos		
 jegierowsko	jegierowski	adja		
-jegierowsku	jegierowski	adjp		
+jegierowsku	jegierowski	adjp:dat		
 jegierowsko	jegierowsko	adv:pos		
 jegierowskościach	jegierowskość	subst:pl:loc:f	nazwa pospolita	
 jegierowskościami	jegierowskość	subst:pl:inst:f	nazwa pospolita	
@@ -23495,7 +23495,7 @@ jegierskim	jegierski	adj:pl:dat:m1.m2.m3.f.n:pos
 jegierskim	jegierski	adj:sg:inst:m1.m2.m3.n:pos		
 jegierskim	jegierski	adj:sg:loc:m1.m2.m3.n:pos		
 jegiersko	jegierski	adja		
-jegiersku	jegierski	adjp		
+jegiersku	jegierski	adjp:dat		
 jegiersko	jegiersko	adv:pos		
 jegierskościach	jegierskość	subst:pl:loc:f	nazwa pospolita	
 jegierskościami	jegierskość	subst:pl:inst:f	nazwa pospolita	
@@ -23636,7 +23636,7 @@ jehowickim	jehowicki	adj:pl:dat:m1.m2.m3.f.n:pos
 jehowickim	jehowicki	adj:sg:inst:m1.m2.m3.n:pos		
 jehowickim	jehowicki	adj:sg:loc:m1.m2.m3.n:pos		
 jehowicko	jehowicki	adja		
-jehowicku	jehowicki	adjp		
+jehowicku	jehowicki	adjp:dat		
 jehowicie	jehowita	subst:sg:dat.loc:m1	nazwa pospolita	
 jehowici	jehowita	subst:pl:nom.voc:m1	nazwa pospolita	
 jehowitach	jehowita	subst:pl:loc:m1	nazwa pospolita	
@@ -23774,7 +23774,7 @@ jelcynowskim	jelcynowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jelcynowskim	jelcynowski	adj:sg:inst:m1.m2.m3.n:pos		
 jelcynowskim	jelcynowski	adj:sg:loc:m1.m2.m3.n:pos		
 jelcynowsko	jelcynowski	adja		
-jelcynowsku	jelcynowski	adjp		
+jelcynowsku	jelcynowski	adjp:dat		
 jelcynowsko	jelcynowsko	adv:pos		
 jelcynowskościach	jelcynowskość	subst:pl:loc:f	nazwa pospolita	
 jelcynowskościami	jelcynowskość	subst:pl:inst:f	nazwa pospolita	
@@ -23833,7 +23833,7 @@ jelczańskim	jelczański	adj:pl:dat:m1.m2.m3.f.n:pos
 jelczańskim	jelczański	adj:sg:inst:m1.m2.m3.n:pos		
 jelczańskim	jelczański	adj:sg:loc:m1.m2.m3.n:pos		
 jelczańsko	jelczański	adja		
-jelczańsku	jelczański	adjp		
+jelczańsku	jelczański	adjp:dat		
 jelczańsko	jelczańsko	adv:pos		
 jelczańskościach	jelczańskość	subst:pl:loc:f	nazwa pospolita	
 jelczańskościami	jelczańskość	subst:pl:inst:f	nazwa pospolita	
@@ -23951,7 +23951,7 @@ jeleniewskim	jeleniewski	adj:pl:dat:m1.m2.m3.f.n:pos
 jeleniewskim	jeleniewski	adj:sg:inst:m1.m2.m3.n:pos		
 jeleniewskim	jeleniewski	adj:sg:loc:m1.m2.m3.n:pos		
 jeleniewsko	jeleniewski	adja		
-jeleniewsku	jeleniewski	adjp		
+jeleniewsku	jeleniewski	adjp:dat		
 jeleniewsko	jeleniewsko	adv:pos		
 jeleniewskościach	jeleniewskość	subst:pl:loc:f	nazwa pospolita	
 jeleniewskościami	jeleniewskość	subst:pl:inst:f	nazwa pospolita	
@@ -24009,7 +24009,7 @@ jeleniogórskim	jeleniogórski	adj:pl:dat:m1.m2.m3.f.n:pos
 jeleniogórskim	jeleniogórski	adj:sg:inst:m1.m2.m3.n:pos		
 jeleniogórskim	jeleniogórski	adj:sg:loc:m1.m2.m3.n:pos		
 jeleniogórsko	jeleniogórski	adja		
-jeleniogórsku	jeleniogórski	adjp		
+jeleniogórsku	jeleniogórski	adjp:dat		
 jeleniogórsko	jeleniogórsko	adv:pos		
 jeleniogórskościach	jeleniogórskość	subst:pl:loc:f	nazwa pospolita	
 jeleniogórskościami	jeleniogórskość	subst:pl:inst:f	nazwa pospolita	
@@ -24179,7 +24179,7 @@ jeleśniańskim	jeleśniański	adj:pl:dat:m1.m2.m3.f.n:pos
 jeleśniańskim	jeleśniański	adj:sg:inst:m1.m2.m3.n:pos		
 jeleśniańskim	jeleśniański	adj:sg:loc:m1.m2.m3.n:pos		
 jeleśniańsko	jeleśniański	adja		
-jeleśniańsku	jeleśniański	adjp		
+jeleśniańsku	jeleśniański	adjp:dat		
 jeleśniańsko	jeleśniańsko	adv:pos		
 jeleśniańskościach	jeleśniańskość	subst:pl:loc:f	nazwa pospolita	
 jeleśniańskościami	jeleśniańskość	subst:pl:inst:f	nazwa pospolita	
@@ -24227,7 +24227,7 @@ jeliciarskim	jeliciarski	adj:pl:dat:m1.m2.m3.f.n:pos
 jeliciarskim	jeliciarski	adj:sg:inst:m1.m2.m3.n:pos		
 jeliciarskim	jeliciarski	adj:sg:loc:m1.m2.m3.n:pos		
 jeliciarsko	jeliciarski	adja		
-jeliciarsku	jeliciarski	adjp		
+jeliciarsku	jeliciarski	adjp:dat		
 jeliciarsko	jeliciarsko	adv:pos		
 jeliciarskościach	jeliciarskość	subst:pl:loc:f	nazwa pospolita	
 jeliciarskościami	jeliciarskość	subst:pl:inst:f	nazwa pospolita	
@@ -24449,7 +24449,7 @@ jelonkowskim	jelonkowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jelonkowskim	jelonkowski	adj:sg:inst:m1.m2.m3.n:pos		
 jelonkowskim	jelonkowski	adj:sg:loc:m1.m2.m3.n:pos		
 jelonkowsko	jelonkowski	adja		
-jelonkowsku	jelonkowski	adjp		
+jelonkowsku	jelonkowski	adjp:dat		
 jelonkowsko	jelonkowsko	adv:pos		
 jelonkowskościach	jelonkowskość	subst:pl:loc:f	nazwa pospolita	
 jelonkowskościami	jelonkowskość	subst:pl:inst:f	nazwa pospolita	
@@ -24701,7 +24701,7 @@ jemeńskim	jemeński	adj:pl:dat:m1.m2.m3.f.n:pos
 jemeńskim	jemeński	adj:sg:inst:m1.m2.m3.n:pos		
 jemeńskim	jemeński	adj:sg:loc:m1.m2.m3.n:pos		
 jemeńsko	jemeński	adja		
-jemeńsku	jemeński	adjp		
+jemeńsku	jemeński	adjp:dat		
 jemeńsko	jemeńsko	adv:pos		
 jemeńskościach	jemeńskość	subst:pl:loc:f	nazwa pospolita	
 jemeńskościami	jemeńskość	subst:pl:inst:f	nazwa pospolita	
@@ -24738,7 +24738,7 @@ jemieleńskim	jemieleński	adj:pl:dat:m1.m2.m3.f.n:pos
 jemieleńskim	jemieleński	adj:sg:inst:m1.m2.m3.n:pos		
 jemieleńskim	jemieleński	adj:sg:loc:m1.m2.m3.n:pos		
 jemieleńsko	jemieleński	adja		
-jemieleńsku	jemieleński	adjp		
+jemieleńsku	jemieleński	adjp:dat		
 jemieleńsko	jemieleńsko	adv:pos		
 jemieleńskościach	jemieleńskość	subst:pl:loc:f	nazwa pospolita	
 jemieleńskościami	jemieleńskość	subst:pl:inst:f	nazwa pospolita	
@@ -24775,7 +24775,7 @@ jemielnickim	jemielnicki	adj:pl:dat:m1.m2.m3.f.n:pos
 jemielnickim	jemielnicki	adj:sg:inst:m1.m2.m3.n:pos		
 jemielnickim	jemielnicki	adj:sg:loc:m1.m2.m3.n:pos		
 jemielnicko	jemielnicki	adja		
-jemielnicku	jemielnicki	adjp		
+jemielnicku	jemielnicki	adjp:dat		
 jemielnicko	jemielnicko	adv:pos		
 jemielnickościach	jemielnickość	subst:pl:loc:f	nazwa pospolita	
 jemielnickościami	jemielnickość	subst:pl:inst:f	nazwa pospolita	
@@ -24924,7 +24924,7 @@ jenajskim	jenajski	adj:pl:dat:m1.m2.m3.f.n:pos
 jenajskim	jenajski	adj:sg:inst:m1.m2.m3.n:pos		
 jenajskim	jenajski	adj:sg:loc:m1.m2.m3.n:pos		
 jenajsko	jenajski	adja		
-jenajsku	jenajski	adjp		
+jenajsku	jenajski	adjp:dat		
 jenajsko	jenajsko	adv:pos		
 jenajskościach	jenajskość	subst:pl:loc:f	nazwa pospolita	
 jenajskościami	jenajskość	subst:pl:inst:f	nazwa pospolita	
@@ -25103,7 +25103,7 @@ jeneralskim	jeneralski	adj:pl:dat:m1.m2.m3.f.n:pos		przest.
 jeneralskim	jeneralski	adj:sg:inst:m1.m2.m3.n:pos		przest.
 jeneralskim	jeneralski	adj:sg:loc:m1.m2.m3.n:pos		przest.
 jeneralsko	jeneralski	adja		przest.
-jeneralsku	jeneralski	adjp		przest.
+jeneralsku	jeneralski	adjp:dat		przest.
 jeneralsko	jeneralsko	adv:pos		
 jeneralskościach	jeneralskość	subst:pl:loc:f	nazwa pospolita	przest.
 jeneralskościami	jeneralskość	subst:pl:inst:f	nazwa pospolita	przest.
@@ -25226,7 +25226,7 @@ jenieckim	jeniecki	adj:pl:dat:m1.m2.m3.f.n:pos
 jenieckim	jeniecki	adj:sg:inst:m1.m2.m3.n:pos		
 jenieckim	jeniecki	adj:sg:loc:m1.m2.m3.n:pos		
 jeniecko	jeniecki	adja		
-jeniecku	jeniecki	adjp		
+jeniecku	jeniecki	adjp:dat		
 jeniecko	jeniecko	adv:pos		
 jenieckościach	jenieckość	subst:pl:loc:f	nazwa pospolita	
 jenieckościami	jenieckość	subst:pl:inst:f	nazwa pospolita	
@@ -25273,7 +25273,7 @@ jenisejskim	jenisejski	adj:pl:dat:m1.m2.m3.f.n:pos
 jenisejskim	jenisejski	adj:sg:inst:m1.m2.m3.n:pos		
 jenisejskim	jenisejski	adj:sg:loc:m1.m2.m3.n:pos		
 jenisejsko	jenisejski	adja		
-jenisejsku	jenisejski	adjp		
+jenisejsku	jenisejski	adjp:dat		
 jenisejsko	jenisejsko	adv:pos		
 jenisejskościach	jenisejskość	subst:pl:loc:f	nazwa pospolita	
 jenisejskościami	jenisejskość	subst:pl:inst:f	nazwa pospolita	
@@ -25311,7 +25311,7 @@ jeniuszu	jeniusz:s2	subst:sg:gen:m3	nazwa pospolita	przest.
 jeniuszu	jeniusz:s2	subst:sg:loc:m3	nazwa pospolita	przest.
 jeniuszu	jeniusz:s2	subst:sg:voc:m3	nazwa pospolita	przest.
 jeniuszy	jeniusz:s2	subst:pl:gen:m3	nazwa pospolita	przest.
-jeno	jeno	qub		książk.
+jeno	jeno	part		książk.
 jenocie	jenot	subst:sg:loc:m2	nazwa pospolita	zool.
 jenocie	jenot	subst:sg:voc:m2	nazwa pospolita	zool.
 jenotach	jenot	subst:pl:loc:m2	nazwa pospolita	zool.
@@ -25348,7 +25348,7 @@ jeńskim	jeński	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
 jeńskim	jeński	adj:sg:inst:m1.m2.m3.n:pos		daw.
 jeńskim	jeński	adj:sg:loc:m1.m2.m3.n:pos		daw.
 jeńsko	jeński	adja		daw.
-jeńsku	jeński	adjp		daw.
+jeńsku	jeński	adjp:dat		daw.
 jeńsko	jeńsko	adv:pos		daw.
 jeńskościach	jeńskość	subst:pl:loc:f	nazwa pospolita	daw.
 jeńskościami	jeńskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -25536,7 +25536,7 @@ jerozolimskim	jerozolimski	adj:pl:dat:m1.m2.m3.f.n:pos
 jerozolimskim	jerozolimski	adj:sg:inst:m1.m2.m3.n:pos		
 jerozolimskim	jerozolimski	adj:sg:loc:m1.m2.m3.n:pos		
 jerozolimsko	jerozolimski	adja		
-jerozolimsku	jerozolimski	adjp		
+jerozolimsku	jerozolimski	adjp:dat		
 jerozolimsko	jerozolimsko	adv:pos		
 jerozolimskościach	jerozolimskość	subst:pl:loc:f	nazwa pospolita	
 jerozolimskościami	jerozolimskość	subst:pl:inst:f	nazwa pospolita	
@@ -25710,7 +25710,7 @@ jerseyskim	jerseyski	adj:pl:dat:m1.m2.m3.f.n:pos
 jerseyskim	jerseyski	adj:sg:inst:m1.m2.m3.n:pos		
 jerseyskim	jerseyski	adj:sg:loc:m1.m2.m3.n:pos		
 jerseysko	jerseyski	adja		
-jerseysku	jerseyski	adjp		
+jerseysku	jerseyski	adjp:dat		
 jerseysko	jerseysko	adv:pos		
 jerseyskościach	jerseyskość	subst:pl:loc:f	nazwa pospolita	
 jerseyskościami	jerseyskość	subst:pl:inst:f	nazwa pospolita	
@@ -25747,7 +25747,7 @@ jerychońskim	jerychoński	adj:pl:dat:m1.m2.m3.f.n:pos
 jerychońskim	jerychoński	adj:sg:inst:m1.m2.m3.n:pos		
 jerychońskim	jerychoński	adj:sg:loc:m1.m2.m3.n:pos		
 jerychońsko	jerychoński	adja		
-jerychońsku	jerychoński	adjp		
+jerychońsku	jerychoński	adjp:dat		
 jerychońsko	jerychońsko	adv:pos		
 jerychońskościach	jerychońskość	subst:pl:loc:f	nazwa pospolita	
 jerychońskościami	jerychońskość	subst:pl:inst:f	nazwa pospolita	
@@ -25784,7 +25784,7 @@ jerzmanowickim	jerzmanowicki	adj:pl:dat:m1.m2.m3.f.n:pos
 jerzmanowickim	jerzmanowicki	adj:sg:inst:m1.m2.m3.n:pos		
 jerzmanowickim	jerzmanowicki	adj:sg:loc:m1.m2.m3.n:pos		
 jerzmanowicko	jerzmanowicki	adja		
-jerzmanowicku	jerzmanowicki	adjp		
+jerzmanowicku	jerzmanowicki	adjp:dat		
 jerzmanowicko	jerzmanowicko	adv:pos		
 jerzmanowickościach	jerzmanowickość	subst:pl:loc:f	nazwa pospolita	
 jerzmanowickościami	jerzmanowickość	subst:pl:inst:f	nazwa pospolita	
@@ -25821,7 +25821,7 @@ jerzmanowskim	jerzmanowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jerzmanowskim	jerzmanowski	adj:sg:inst:m1.m2.m3.n:pos		
 jerzmanowskim	jerzmanowski	adj:sg:loc:m1.m2.m3.n:pos		
 jerzmanowsko	jerzmanowski	adja		
-jerzmanowsku	jerzmanowski	adjp		
+jerzmanowsku	jerzmanowski	adjp:dat		
 jerzmanowsko	jerzmanowsko	adv:pos		
 jerzmanowskościach	jerzmanowskość	subst:pl:loc:f	nazwa pospolita	
 jerzmanowskościami	jerzmanowskość	subst:pl:inst:f	nazwa pospolita	
@@ -26307,8 +26307,8 @@ jestestw	jestestwo	subst:pl:gen:n:ncol	nazwa pospolita
 jestestwo	jestestwo	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
 jestestwom	jestestwo	subst:pl:dat:n:ncol	nazwa pospolita	
 jestestwu	jestestwo	subst:sg:dat:n:ncol	nazwa pospolita	
-jeszcze	jeszcze	qub		
-jeszczeż	jeszczeż	qub		
+jeszcze	jeszcze	part		
+jeszczeż	jeszczeż	part		
 jeszibach	jesziba	subst:pl:loc:f	nazwa pospolita	
 jesziba	jesziba	subst:sg:nom:f	nazwa pospolita	
 jeszibami	jesziba	subst:pl:inst:f	nazwa pospolita	
@@ -26574,7 +26574,7 @@ jezierskim	jezierski	adj:pl:dat:m1.m2.m3.f.n:pos
 jezierskim	jezierski	adj:sg:inst:m1.m2.m3.n:pos		
 jezierskim	jezierski	adj:sg:loc:m1.m2.m3.n:pos		
 jeziersko	jezierski	adja		
-jeziersku	jezierski	adjp		
+jeziersku	jezierski	adjp:dat		
 jeziersko	jeziersko	adv:pos		
 jezierskościach	jezierskość	subst:pl:loc:f	nazwa pospolita	
 jezierskościami	jezierskość	subst:pl:inst:f	nazwa pospolita	
@@ -26657,7 +26657,7 @@ jeziorańskim	jeziorański	adj:pl:dat:m1.m2.m3.f.n:pos
 jeziorańskim	jeziorański	adj:sg:inst:m1.m2.m3.n:pos		
 jeziorańskim	jeziorański	adj:sg:loc:m1.m2.m3.n:pos		
 jeziorańsko	jeziorański	adja		
-jeziorańsku	jeziorański	adjp		
+jeziorańsku	jeziorański	adjp:dat		
 jeziorańsko	jeziorańsko	adv:pos		
 jeziorańskościach	jeziorańskość	subst:pl:loc:f	nazwa pospolita	
 jeziorańskościami	jeziorańskość	subst:pl:inst:f	nazwa pospolita	
@@ -26795,7 +26795,7 @@ jeziorzańskim	jeziorzański	adj:pl:dat:m1.m2.m3.f.n:pos
 jeziorzańskim	jeziorzański	adj:sg:inst:m1.m2.m3.n:pos		
 jeziorzańskim	jeziorzański	adj:sg:loc:m1.m2.m3.n:pos		
 jeziorzańsko	jeziorzański	adja		
-jeziorzańsku	jeziorzański	adjp		
+jeziorzańsku	jeziorzański	adjp:dat		
 jeziorzańsko	jeziorzańsko	adv:pos		
 jeziorzańskościach	jeziorzańskość	subst:pl:loc:f	nazwa pospolita	
 jeziorzańskościami	jeziorzańskość	subst:pl:inst:f	nazwa pospolita	
@@ -26877,7 +26877,7 @@ jezuickim	jezuicki	adj:pl:dat:m1.m2.m3.f.n:pos
 jezuickim	jezuicki	adj:sg:inst:m1.m2.m3.n:pos		
 jezuickim	jezuicki	adj:sg:loc:m1.m2.m3.n:pos		
 jezuicko	jezuicki	adja		
-jezuicku	jezuicki	adjp		
+jezuicku	jezuicki	adjp:dat		
 jezuicko	jezuicko	adv:pos		
 jezuickościach	jezuickość	subst:pl:loc:f	nazwa pospolita	
 jezuickościami	jezuickość	subst:pl:inst:f	nazwa pospolita	
@@ -27142,7 +27142,7 @@ jeździeckim	jeździecki	adj:pl:dat:m1.m2.m3.f.n:pos
 jeździeckim	jeździecki	adj:sg:inst:m1.m2.m3.n:pos		
 jeździeckim	jeździecki	adj:sg:loc:m1.m2.m3.n:pos		
 jeździecko	jeździecki	adja		
-jeździecku	jeździecki	adjp		
+jeździecku	jeździecki	adjp:dat		
 jeździecko	jeździecko	adv:pos		
 jeździeckościach	jeździeckość	subst:pl:loc:f	nazwa pospolita	
 jeździeckościami	jeździeckość	subst:pl:inst:f	nazwa pospolita	
@@ -27328,7 +27328,7 @@ jeżewskim	jeżewski	adj:pl:dat:m1.m2.m3.f.n:pos
 jeżewskim	jeżewski	adj:sg:inst:m1.m2.m3.n:pos		
 jeżewskim	jeżewski	adj:sg:loc:m1.m2.m3.n:pos		
 jeżewsko	jeżewski	adja		
-jeżewsku	jeżewski	adjp		
+jeżewsku	jeżewski	adjp:dat		
 jeżewsko	jeżewsko	adv:pos		
 jeżewskościach	jeżewskość	subst:pl:loc:f	nazwa pospolita	
 jeżewskościami	jeżewskość	subst:pl:inst:f	nazwa pospolita	
@@ -27562,7 +27562,7 @@ jeżowskim	jeżowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jeżowskim	jeżowski	adj:sg:inst:m1.m2.m3.n:pos		
 jeżowskim	jeżowski	adj:sg:loc:m1.m2.m3.n:pos		
 jeżowsko	jeżowski	adja		
-jeżowsku	jeżowski	adjp		
+jeżowsku	jeżowski	adjp:dat		
 jeżowsko	jeżowsko	adv:pos		
 jeżowskościach	jeżowskość	subst:pl:loc:f	nazwa pospolita	
 jeżowskościami	jeżowskość	subst:pl:inst:f	nazwa pospolita	
@@ -27714,7 +27714,7 @@ jeżyckim	jeżycki	adj:pl:dat:m1.m2.m3.f.n:pos
 jeżyckim	jeżycki	adj:sg:inst:m1.m2.m3.n:pos		
 jeżyckim	jeżycki	adj:sg:loc:m1.m2.m3.n:pos		
 jeżycko	jeżycki	adja		
-jeżycku	jeżycki	adjp		
+jeżycku	jeżycki	adjp:dat		
 jeżycko	jeżycko	adv:pos		
 jeżyckościach	jeżyckość	subst:pl:loc:f	nazwa pospolita	
 jeżyckościami	jeżyckość	subst:pl:inst:f	nazwa pospolita	
@@ -28301,7 +28301,7 @@ jędrzejewiczowskim	jędrzejewiczowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jędrzejewiczowskim	jędrzejewiczowski	adj:sg:inst:m1.m2.m3.n:pos		
 jędrzejewiczowskim	jędrzejewiczowski	adj:sg:loc:m1.m2.m3.n:pos		
 jędrzejewiczowsko	jędrzejewiczowski	adja		
-jędrzejewiczowsku	jędrzejewiczowski	adjp		
+jędrzejewiczowsku	jędrzejewiczowski	adjp:dat		
 jędrzejewiczowsko	jędrzejewiczowsko	adv:pos		
 jędrzejewiczowskościach	jędrzejewiczowskość	subst:pl:loc:f	nazwa pospolita	
 jędrzejewiczowskościami	jędrzejewiczowskość	subst:pl:inst:f	nazwa pospolita	
@@ -28361,7 +28361,7 @@ jędrzejowskim	jędrzejowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jędrzejowskim	jędrzejowski	adj:sg:inst:m1.m2.m3.n:pos		
 jędrzejowskim	jędrzejowski	adj:sg:loc:m1.m2.m3.n:pos		
 jędrzejowsko	jędrzejowski	adja		
-jędrzejowsku	jędrzejowski	adjp		
+jędrzejowsku	jędrzejowski	adjp:dat		
 jędrzejowsko	jędrzejowsko	adv:pos		
 jędrzejowskościach	jędrzejowskość	subst:pl:loc:f	nazwa pospolita	
 jędrzejowskościami	jędrzejowskość	subst:pl:inst:f	nazwa pospolita	
@@ -29545,7 +29545,7 @@ jodłowskim	jodłowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jodłowskim	jodłowski	adj:sg:inst:m1.m2.m3.n:pos		
 jodłowskim	jodłowski	adj:sg:loc:m1.m2.m3.n:pos		
 jodłowsko	jodłowski	adja		
-jodłowsku	jodłowski	adjp		
+jodłowsku	jodłowski	adjp:dat		
 jodłowsko	jodłowsko	adv:pos		
 jodłowskościach	jodłowskość	subst:pl:loc:f	nazwa pospolita	
 jodłowskościami	jodłowskość	subst:pl:inst:f	nazwa pospolita	
@@ -30086,7 +30086,7 @@ johannesburskim	johannesburski	adj:pl:dat:m1.m2.m3.f.n:pos
 johannesburskim	johannesburski	adj:sg:inst:m1.m2.m3.n:pos		
 johannesburskim	johannesburski	adj:sg:loc:m1.m2.m3.n:pos		
 johannesbursko	johannesburski	adja		
-johannesbursku	johannesburski	adjp		
+johannesbursku	johannesburski	adjp:dat		
 johannesbursko	johannesbursko	adv:pos		
 johannesburskościach	johannesburskość	subst:pl:loc:f	nazwa pospolita	
 johannesburskościami	johannesburskość	subst:pl:inst:f	nazwa pospolita	
@@ -30262,7 +30262,7 @@ jokohamskim	jokohamski	adj:pl:dat:m1.m2.m3.f.n:pos
 jokohamskim	jokohamski	adj:sg:inst:m1.m2.m3.n:pos		
 jokohamskim	jokohamski	adj:sg:loc:m1.m2.m3.n:pos		
 jokohamsko	jokohamski	adja		
-jokohamsku	jokohamski	adjp		
+jokohamsku	jokohamski	adjp:dat		
 jokohamsko	jokohamsko	adv:pos		
 jokohamskościach	jokohamskość	subst:pl:loc:f	nazwa pospolita	
 jokohamskościami	jokohamskość	subst:pl:inst:f	nazwa pospolita	
@@ -30414,7 +30414,7 @@ jonickim	jonicki	adj:pl:dat:m1.m2.m3.f.n:pos		przest.
 jonickim	jonicki	adj:sg:inst:m1.m2.m3.n:pos		przest.
 jonickim	jonicki	adj:sg:loc:m1.m2.m3.n:pos		przest.
 jonicko	jonicki	adja		przest.
-jonicku	jonicki	adjp		przest.
+jonicku	jonicki	adjp:dat		przest.
 jonicko	jonicko	adv:pos		
 jonickościach	jonickość	subst:pl:loc:f	nazwa pospolita	przest.
 jonickościami	jonickość	subst:pl:inst:f	nazwa pospolita	przest.
@@ -30656,7 +30656,7 @@ jonkowskim	jonkowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jonkowskim	jonkowski	adj:sg:inst:m1.m2.m3.n:pos		
 jonkowskim	jonkowski	adj:sg:loc:m1.m2.m3.n:pos		
 jonkowsko	jonkowski	adja		
-jonkowsku	jonkowski	adjp		
+jonkowsku	jonkowski	adjp:dat		
 jonkowsko	jonkowsko	adv:pos		
 jonkowskościach	jonkowskość	subst:pl:loc:f	nazwa pospolita	
 jonkowskościami	jonkowskość	subst:pl:inst:f	nazwa pospolita	
@@ -30829,7 +30829,7 @@ jońskim	joński	adj:pl:dat:m1.m2.m3.f.n:pos
 jońskim	joński	adj:sg:inst:m1.m2.m3.n:pos		
 jońskim	joński	adj:sg:loc:m1.m2.m3.n:pos		
 jońsko	joński	adja		
-jońsku	joński	adjp		
+jońsku	joński	adjp:dat		
 jońsko	jońsko	adv:pos		
 jońskościach	jońskość	subst:pl:loc:f	nazwa pospolita	
 jońskościami	jońskość	subst:pl:inst:f	nazwa pospolita	
@@ -30932,7 +30932,7 @@ jordanowskim	jordanowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jordanowskim	jordanowski	adj:sg:inst:m1.m2.m3.n:pos		
 jordanowskim	jordanowski	adj:sg:loc:m1.m2.m3.n:pos		
 jordanowsko	jordanowski	adja		
-jordanowsku	jordanowski	adjp		
+jordanowsku	jordanowski	adjp:dat		
 jordanowsko	jordanowsko	adv:pos		
 jordanowskościach	jordanowskość	subst:pl:loc:f	nazwa pospolita	
 jordanowskościami	jordanowskość	subst:pl:inst:f	nazwa pospolita	
@@ -30969,7 +30969,7 @@ jordańskim	jordański	adj:pl:dat:m1.m2.m3.f.n:pos
 jordańskim	jordański	adj:sg:inst:m1.m2.m3.n:pos		
 jordańskim	jordański	adj:sg:loc:m1.m2.m3.n:pos		
 jordańsko	jordański	adja		
-jordańsku	jordański	adjp		
+jordańsku	jordański	adjp:dat		
 jordańsko	jordańsko	adv:pos		
 jordańskościach	jordańskość	subst:pl:loc:f	nazwa pospolita	
 jordańskościami	jordańskość	subst:pl:inst:f	nazwa pospolita	
@@ -31006,7 +31006,7 @@ jorubijskim	jorubijski	adj:pl:dat:m1.m2.m3.f.n:pos
 jorubijskim	jorubijski	adj:sg:inst:m1.m2.m3.n:pos		
 jorubijskim	jorubijski	adj:sg:loc:m1.m2.m3.n:pos		
 jorubijsko	jorubijski	adja		
-jorubijsku	jorubijski	adjp		
+jorubijsku	jorubijski	adjp:dat		
 jorubijsko	jorubijsko	adv:pos		
 jorubijskościach	jorubijskość	subst:pl:loc:f	nazwa pospolita	
 jorubijskościami	jorubijskość	subst:pl:inst:f	nazwa pospolita	
@@ -31276,7 +31276,7 @@ józefińskim	józefiński	adj:pl:dat:m1.m2.m3.f.n:pos
 józefińskim	józefiński	adj:sg:inst:m1.m2.m3.n:pos		
 józefińskim	józefiński	adj:sg:loc:m1.m2.m3.n:pos		
 józefińsko	józefiński	adja		
-józefińsku	józefiński	adjp		
+józefińsku	józefiński	adjp:dat		
 józefińsko	józefińsko	adv:pos		
 józefińskościach	józefińskość	subst:pl:loc:f	nazwa pospolita	
 józefińskościami	józefińskość	subst:pl:inst:f	nazwa pospolita	
@@ -31313,7 +31313,7 @@ józefowskim	józefowski	adj:pl:dat:m1.m2.m3.f.n:pos
 józefowskim	józefowski	adj:sg:inst:m1.m2.m3.n:pos		
 józefowskim	józefowski	adj:sg:loc:m1.m2.m3.n:pos		
 józefowsko	józefowski	adja		
-józefowsku	józefowski	adjp		
+józefowsku	józefowski	adjp:dat		
 józefowsko	józefowsko	adv:pos		
 józefowskościach	józefowskość	subst:pl:loc:f	nazwa pospolita	
 józefowskościami	józefowskość	subst:pl:inst:f	nazwa pospolita	
@@ -31510,7 +31510,7 @@ jubilerskim	jubilerski	adj:pl:dat:m1.m2.m3.f.n:pos
 jubilerskim	jubilerski	adj:sg:inst:m1.m2.m3.n:pos		
 jubilerskim	jubilerski	adj:sg:loc:m1.m2.m3.n:pos		
 jubilersko	jubilerski	adja		
-jubilersku	jubilerski	adjp		
+jubilersku	jubilerski	adjp:dat		
 jubilersko	jubilersko	adv:pos		
 jubilerskościach	jubilerskość	subst:pl:loc:f	nazwa pospolita	
 jubilerskościami	jubilerskość	subst:pl:inst:f	nazwa pospolita	
@@ -32248,7 +32248,7 @@ judaszowskim	judaszowski	adj:pl:dat:m1.m2.m3.f.n:pos
 judaszowskim	judaszowski	adj:sg:inst:m1.m2.m3.n:pos		
 judaszowskim	judaszowski	adj:sg:loc:m1.m2.m3.n:pos		
 judaszowsko	judaszowski	adja		
-judaszowsku	judaszowski	adjp		
+judaszowsku	judaszowski	adjp:dat		
 judaszowsko	judaszowsko	adv:pos		
 judaszowskościach	judaszowskość	subst:pl:loc:f	nazwa pospolita	
 judaszowskościami	judaszowskość	subst:pl:inst:f	nazwa pospolita	
@@ -32346,7 +32346,7 @@ judejskim	judejski	adj:pl:dat:m1.m2.m3.f.n:pos
 judejskim	judejski	adj:sg:inst:m1.m2.m3.n:pos		
 judejskim	judejski	adj:sg:loc:m1.m2.m3.n:pos		
 judejsko	judejski	adja		
-judejsku	judejski	adjp		
+judejsku	judejski	adjp:dat		
 judejsko	judejsko	adv:pos		
 judejskościach	judejskość	subst:pl:loc:f	nazwa pospolita	
 judejskościami	judejskość	subst:pl:inst:f	nazwa pospolita	
@@ -32395,7 +32395,7 @@ judeochrześcijańskim	judeochrześcijański	adj:pl:dat:m1.m2.m3.f.n:pos
 judeochrześcijańskim	judeochrześcijański	adj:sg:inst:m1.m2.m3.n:pos		
 judeochrześcijańskim	judeochrześcijański	adj:sg:loc:m1.m2.m3.n:pos		
 judeochrześcijańsko	judeochrześcijański	adja		
-judeochrześcijańsku	judeochrześcijański	adjp		
+judeochrześcijańsku	judeochrześcijański	adjp:dat		
 judeochrześcijańsko	judeochrześcijańsko	adv:pos		
 judeochrześcijańskościach	judeochrześcijańskość	subst:pl:loc:f	nazwa pospolita	
 judeochrześcijańskościami	judeochrześcijańskość	subst:pl:inst:f	nazwa pospolita	
@@ -32432,7 +32432,7 @@ judeoromańskim	judeoromański	adj:pl:dat:m1.m2.m3.f.n:pos
 judeoromańskim	judeoromański	adj:sg:inst:m1.m2.m3.n:pos		
 judeoromańskim	judeoromański	adj:sg:loc:m1.m2.m3.n:pos		
 judeoromańsko	judeoromański	adja		
-judeoromańsku	judeoromański	adjp		
+judeoromańsku	judeoromański	adjp:dat		
 judeoromańsko	judeoromańsko	adv:pos		
 judeoromańskościach	judeoromańskość	subst:pl:loc:f	nazwa pospolita	
 judeoromańskościami	judeoromańskość	subst:pl:inst:f	nazwa pospolita	
@@ -32505,7 +32505,7 @@ judofilskim	judofilski	adj:pl:dat:m1.m2.m3.f.n:pos
 judofilskim	judofilski	adj:sg:inst:m1.m2.m3.n:pos		
 judofilskim	judofilski	adj:sg:loc:m1.m2.m3.n:pos		
 judofilsko	judofilski	adja		
-judofilsku	judofilski	adjp		
+judofilsku	judofilski	adjp:dat		
 judofilsko	judofilsko	adv:pos		
 judofilskościach	judofilskość	subst:pl:loc:f	nazwa pospolita	
 judofilskościami	judofilskość	subst:pl:inst:f	nazwa pospolita	
@@ -32770,7 +32770,7 @@ judzkim	judzki	adj:pl:dat:m1.m2.m3.f.n:pos
 judzkim	judzki	adj:sg:inst:m1.m2.m3.n:pos		
 judzkim	judzki	adj:sg:loc:m1.m2.m3.n:pos		
 judzko	judzki	adja		
-judzku	judzki	adjp		
+judzku	judzki	adjp:dat		
 judzko	judzko	adv:pos		
 judzkościach	judzkość	subst:pl:loc:f	nazwa pospolita	
 judzkościami	judzkość	subst:pl:inst:f	nazwa pospolita	
@@ -32841,7 +32841,7 @@ jugosłowiańskim	jugosłowiański	adj:pl:dat:m1.m2.m3.f.n:pos
 jugosłowiańskim	jugosłowiański	adj:sg:inst:m1.m2.m3.n:pos		
 jugosłowiańskim	jugosłowiański	adj:sg:loc:m1.m2.m3.n:pos		
 jugosłowiańsko	jugosłowiański	adja		
-jugosłowiańsku	jugosłowiański	adjp		
+jugosłowiańsku	jugosłowiański	adjp:dat		
 jugosłowiańsko	jugosłowiańsko	adv:pos		
 jugosłowiańskościach	jugosłowiańskość	subst:pl:loc:f	nazwa pospolita	
 jugosłowiańskościami	jugosłowiańskość	subst:pl:inst:f	nazwa pospolita	
@@ -32974,7 +32974,7 @@ juhaskim	juhaski	adj:pl:dat:m1.m2.m3.f.n:pos
 juhaskim	juhaski	adj:sg:inst:m1.m2.m3.n:pos		
 juhaskim	juhaski	adj:sg:loc:m1.m2.m3.n:pos		
 juhasko	juhaski	adja		
-juhasku	juhaski	adjp		
+juhasku	juhaski	adjp:dat		
 juhasko	juhasko	adv:pos		
 juhaskościach	juhaskość	subst:pl:loc:f	nazwa pospolita	
 juhaskościami	juhaskość	subst:pl:inst:f	nazwa pospolita	
@@ -33154,7 +33154,7 @@ jukagirskim	jukagirski	adj:pl:dat:m1.m2.m3.f.n:pos
 jukagirskim	jukagirski	adj:sg:inst:m1.m2.m3.n:pos		
 jukagirskim	jukagirski	adj:sg:loc:m1.m2.m3.n:pos		
 jukagirsko	jukagirski	adja		
-jukagirsku	jukagirski	adjp		
+jukagirsku	jukagirski	adjp:dat		
 jukagirsko	jukagirsko	adv:pos		
 jukagirskościach	jukagirskość	subst:pl:loc:f	nazwa pospolita	
 jukagirskościami	jukagirskość	subst:pl:inst:f	nazwa pospolita	
@@ -33191,7 +33191,7 @@ jukatańskim	jukatański	adj:pl:dat:m1.m2.m3.f.n:pos
 jukatańskim	jukatański	adj:sg:inst:m1.m2.m3.n:pos		
 jukatańskim	jukatański	adj:sg:loc:m1.m2.m3.n:pos		
 jukatańsko	jukatański	adja		
-jukatańsku	jukatański	adjp		
+jukatańsku	jukatański	adjp:dat		
 jukatańsko	jukatańsko	adv:pos		
 jukatańskościach	jukatańskość	subst:pl:loc:f	nazwa pospolita	
 jukatańskościami	jukatańskość	subst:pl:inst:f	nazwa pospolita	
@@ -33239,7 +33239,7 @@ jukońskim	jukoński	adj:pl:dat:m1.m2.m3.f.n:pos
 jukońskim	jukoński	adj:sg:inst:m1.m2.m3.n:pos		
 jukońskim	jukoński	adj:sg:loc:m1.m2.m3.n:pos		
 jukońsko	jukoński	adja		
-jukońsku	jukoński	adjp		
+jukońsku	jukoński	adjp:dat		
 jukońsko	jukońsko	adv:pos		
 jukońskościach	jukońskość	subst:pl:loc:f	nazwa pospolita	
 jukońskościami	jukońskość	subst:pl:inst:f	nazwa pospolita	
@@ -33311,7 +33311,7 @@ juliańskim	juliański	adj:pl:dat:m1.m2.m3.f.n:pos
 juliańskim	juliański	adj:sg:inst:m1.m2.m3.n:pos		
 juliańskim	juliański	adj:sg:loc:m1.m2.m3.n:pos		
 juliańsko	juliański	adja		
-juliańsku	juliański	adjp		
+juliańsku	juliański	adjp:dat		
 juliańsko	juliańsko	adv:pos		
 juliańskościach	juliańskość	subst:pl:loc:f	nazwa pospolita	
 juliańskościami	juliańskość	subst:pl:inst:f	nazwa pospolita	
@@ -33348,7 +33348,7 @@ julijskim	julijski	adj:pl:dat:m1.m2.m3.f.n:pos
 julijskim	julijski	adj:sg:inst:m1.m2.m3.n:pos		
 julijskim	julijski	adj:sg:loc:m1.m2.m3.n:pos		
 julijsko	julijski	adja		
-julijsku	julijski	adjp		
+julijsku	julijski	adjp:dat		
 julijsko	julijsko	adv:pos		
 julijskościach	julijskość	subst:pl:loc:f	nazwa pospolita	
 julijskościami	julijskość	subst:pl:inst:f	nazwa pospolita	
@@ -33554,7 +33554,7 @@ junackim	junacki	adj:pl:dat:m1.m2.m3.f.n:pos
 junackim	junacki	adj:sg:inst:m1.m2.m3.n:pos		
 junackim	junacki	adj:sg:loc:m1.m2.m3.n:pos		
 junacko	junacki	adja		
-junacku	junacki	adjp		
+junacku	junacki	adjp:dat		
 junacko	junacko	adv:pos		
 junackościach	junackość	subst:pl:loc:f	nazwa pospolita	
 junackościami	junackość	subst:pl:inst:f	nazwa pospolita	
@@ -33911,7 +33911,7 @@ juniorskim	juniorski	adj:pl:dat:m1.m2.m3.f.n:pos
 juniorskim	juniorski	adj:sg:inst:m1.m2.m3.n:pos		
 juniorskim	juniorski	adj:sg:loc:m1.m2.m3.n:pos		
 juniorsko	juniorski	adja		
-juniorsku	juniorski	adjp		
+juniorsku	juniorski	adjp:dat		
 juniorsko	juniorsko	adv:pos		
 juniorskościach	juniorskość	subst:pl:loc:f	nazwa pospolita	
 juniorskościami	juniorskość	subst:pl:inst:f	nazwa pospolita	
@@ -33983,7 +33983,7 @@ junkierskim	junkierski	adj:pl:dat:m1.m2.m3.f.n:pos
 junkierskim	junkierski	adj:sg:inst:m1.m2.m3.n:pos		
 junkierskim	junkierski	adj:sg:loc:m1.m2.m3.n:pos		
 junkiersko	junkierski	adja		
-junkiersku	junkierski	adjp		
+junkiersku	junkierski	adjp:dat		
 junkiersko	junkiersko	adv:pos		
 junkierskościach	junkierskość	subst:pl:loc:f	nazwa pospolita	
 junkierskościami	junkierskość	subst:pl:inst:f	nazwa pospolita	
@@ -34119,7 +34119,7 @@ jurackim	juracki	adj:pl:dat:m1.m2.m3.f.n:pos
 jurackim	juracki	adj:sg:inst:m1.m2.m3.n:pos		
 jurackim	juracki	adj:sg:loc:m1.m2.m3.n:pos		
 juracko	juracki	adja		
-juracku	juracki	adjp		
+juracku	juracki	adjp:dat		
 juracko	juracko	adv:pos		
 jurackościach	jurackość	subst:pl:loc:f	nazwa pospolita	
 jurackościami	jurackość	subst:pl:inst:f	nazwa pospolita	
@@ -34156,7 +34156,7 @@ jurajskim	jurajski	adj:pl:dat:m1.m2.m3.f.n:pos
 jurajskim	jurajski	adj:sg:inst:m1.m2.m3.n:pos		
 jurajskim	jurajski	adj:sg:loc:m1.m2.m3.n:pos		
 jurajsko	jurajski	adja		
-jurajsku	jurajski	adjp		
+jurajsku	jurajski	adjp:dat		
 jurajsko	jurajsko	adv:pos		
 jurajskościach	jurajskość	subst:pl:loc:f	nazwa pospolita	
 jurajskościami	jurajskość	subst:pl:inst:f	nazwa pospolita	
@@ -34262,7 +34262,7 @@ jurgowskim	jurgowski	adj:pl:dat:m1.m2.m3.f.n:pos
 jurgowskim	jurgowski	adj:sg:inst:m1.m2.m3.n:pos		
 jurgowskim	jurgowski	adj:sg:loc:m1.m2.m3.n:pos		
 jurgowsko	jurgowski	adja		
-jurgowsku	jurgowski	adjp		
+jurgowsku	jurgowski	adjp:dat		
 jurgowsko	jurgowsko	adv:pos		
 jurgowskościach	jurgowskość	subst:pl:loc:f	nazwa pospolita	
 jurgowskościami	jurgowskość	subst:pl:inst:f	nazwa pospolita	
@@ -34455,7 +34455,7 @@ jurorskim	jurorski	adj:pl:dat:m1.m2.m3.f.n:pos
 jurorskim	jurorski	adj:sg:inst:m1.m2.m3.n:pos		
 jurorskim	jurorski	adj:sg:loc:m1.m2.m3.n:pos		
 jurorsko	jurorski	adja		
-jurorsku	jurorski	adjp		
+jurorsku	jurorski	adjp:dat		
 jurorsko	jurorsko	adv:pos		
 jurorskościach	jurorskość	subst:pl:loc:f	nazwa pospolita	
 jurorskościami	jurorskość	subst:pl:inst:f	nazwa pospolita	
@@ -34843,7 +34843,7 @@ jurystowskim	jurystowski	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
 jurystowskim	jurystowski	adj:sg:inst:m1.m2.m3.n:pos		daw.
 jurystowskim	jurystowski	adj:sg:loc:m1.m2.m3.n:pos		daw.
 jurystowsko	jurystowski	adja		daw.
-jurystowsku	jurystowski	adjp		daw.
+jurystowsku	jurystowski	adjp:dat		daw.
 jurystowsko	jurystowsko	adv:pos		daw.
 jurystowskościach	jurystowskość	subst:pl:loc:f	nazwa pospolita	daw.
 jurystowskościami	jurystowskość	subst:pl:inst:f	nazwa pospolita	daw.
@@ -35277,7 +35277,7 @@ justyniańskim	justyniański	adj:pl:dat:m1.m2.m3.f.n:pos
 justyniańskim	justyniański	adj:sg:inst:m1.m2.m3.n:pos		
 justyniańskim	justyniański	adj:sg:loc:m1.m2.m3.n:pos		
 justyniańsko	justyniański	adja		
-justyniańsku	justyniański	adjp		
+justyniańsku	justyniański	adjp:dat		
 justyniańsko	justyniańsko	adv:pos		
 justyniańskościach	justyniańskość	subst:pl:loc:f	nazwa pospolita	
 justyniańskościami	justyniańskość	subst:pl:inst:f	nazwa pospolita	
@@ -35460,7 +35460,7 @@ jutlandzkim	jutlandzki	adj:pl:dat:m1.m2.m3.f.n:pos
 jutlandzkim	jutlandzki	adj:sg:inst:m1.m2.m3.n:pos		
 jutlandzkim	jutlandzki	adj:sg:loc:m1.m2.m3.n:pos		
 jutlandzko	jutlandzki	adja		
-jutlandzku	jutlandzki	adjp		
+jutlandzku	jutlandzki	adjp:dat		
 jutlandzko	jutlandzko	adv:pos		
 jutlandzkościach	jutlandzkość	subst:pl:loc:f	nazwa pospolita	
 jutlandzkościami	jutlandzkość	subst:pl:inst:f	nazwa pospolita	
@@ -35543,7 +35543,7 @@ jutrosińskim	jutrosiński	adj:pl:dat:m1.m2.m3.f.n:pos
 jutrosińskim	jutrosiński	adj:sg:inst:m1.m2.m3.n:pos		
 jutrosińskim	jutrosiński	adj:sg:loc:m1.m2.m3.n:pos		
 jutrosińsko	jutrosiński	adja		
-jutrosińsku	jutrosiński	adjp		
+jutrosińsku	jutrosiński	adjp:dat		
 jutrosińsko	jutrosińsko	adv:pos		
 jutrosińskościach	jutrosińskość	subst:pl:loc:f	nazwa pospolita	
 jutrosińskościami	jutrosińskość	subst:pl:inst:f	nazwa pospolita	
@@ -35879,10 +35879,10 @@ juzingów	juzing	subst:pl:gen:m3	nazwa pospolita
 juzingu	juzing	subst:sg:gen:m3	nazwa pospolita	
 juzingu	juzing	subst:sg:loc:m3	nazwa pospolita	
 juzingu	juzing	subst:sg:voc:m3	nazwa pospolita	
-już	już	qub		
-jużci	jużci	qub		
-jużciż	jużciż	qub		
-jużeż	jużeż	qub		
+już	już	part		
+jużci	jużci	part		
+jużciż	jużciż	part		
+jużeż	jużeż	part		
 jużynach	jużyna	subst:pl:loc:f	nazwa pospolita	daw.
 jużyna	jużyna	subst:sg:nom:f	nazwa pospolita	daw.
 jużynami	jużyna	subst:pl:inst:f	nazwa pospolita	daw.

@@ -5724,7 +5724,7 @@ NATO-wskim	NATO-wski	adj:sg:loc:m1.m2.m3.n:pos
 NATO-wski	NATO-wski	adj:sg:acc:m3:pos		
 NATO-wski	NATO-wski	adj:sg:nom.voc:m1.m2.m3:pos		
 NATO-wsko	NATO-wski	adja		
-NATO-wsku	NATO-wski	adjp		
+NATO-wsku	NATO-wski	adjp:dat		
 NATO-wsko	NATO-wsko	adv:pos		
 Naturalna	Naturalna	subst:sg:nom:f	nazwisko	
 Naturalna	Naturalna	subst:sg:voc:f	nazwisko	
@@ -7931,7 +7931,7 @@ Neumanowi	Neuman:s2	subst:sg:dat:m1	nazwisko
 Neumanów	Neuman:s2	subst:pl:gen.acc:m1	nazwisko	
 Neumany	Neuman:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Neuman	Neuman:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-New	New	burk		
+New	New	frag		
 Newach	Newa	subst:pl:loc:f	nazwa geograficzna	
 Newami	Newa	subst:pl:inst:f	nazwa geograficzna	
 Newa	Newa	subst:sg:nom:f	nazwa geograficzna	
@@ -18731,7 +18731,7 @@ NRD-owskim	NRD-owski	adj:sg:loc:m1.m2.m3.n:pos
 NRD-owski	NRD-owski	adj:sg:acc:m3:pos		
 NRD-owski	NRD-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 NRD-owsko	NRD-owski	adja		
-NRD-owsku	NRD-owski	adjp		
+NRD-owsku	NRD-owski	adjp:dat		
 NRD-owsko	NRD-owsko	adv:pos		
 NRD-owskościach	NRD-owskość	subst:pl:loc:f	nazwa pospolita	
 NRD-owskościami	NRD-owskość	subst:pl:inst:f	nazwa pospolita	
@@ -18780,7 +18780,7 @@ NRF-owskim	NRF-owski	adj:sg:loc:m1.m2.m3.n:pos
 NRF-owski	NRF-owski	adj:sg:acc:m3:pos		
 NRF-owski	NRF-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 NRF-owsko	NRF-owski	adja		
-NRF-owsku	NRF-owski	adjp		
+NRF-owsku	NRF-owski	adjp:dat		
 NRF-owsko	NRF-owsko	adv:pos		
 NRF-owskościach	NRF-owskość	subst:pl:loc:f	nazwa pospolita	
 NRF-owskościami	NRF-owskość	subst:pl:inst:f	nazwa pospolita	
@@ -18853,7 +18853,7 @@ NSZ-owskim	NSZ-owski	adj:sg:loc:m1.m2.m3.n:pos
 NSZ-owski	NSZ-owski	adj:sg:acc:m3:pos		
 NSZ-owski	NSZ-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 NSZ-owsko	NSZ-owski	adja		
-NSZ-owsku	NSZ-owski	adjp		
+NSZ-owsku	NSZ-owski	adjp:dat		
 NSZ-owsko	NSZ-owsko	adv:pos		
 NSZ-owskościach	NSZ-owskość	subst:pl:loc:f	nazwa pospolita	
 NSZ-owskościami	NSZ-owskość	subst:pl:inst:f	nazwa pospolita	

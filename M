@@ -13556,7 +13556,7 @@ Mancewiczów	Mancewicz:s2	subst:pl:gen.acc:m1	nazwisko
 Mancewiczu	Mancewicz:s2	subst:sg:loc:m1	nazwisko	
 Mancewiczu	Mancewicz:s2	subst:sg:voc:m1	nazwisko	
 Mancewicz	Mancewicz:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Manche	Manche	burk		
+Manche	Manche	frag		
 Manchesterach	Manchester	subst:pl:loc:m3	nazwa geograficzna	
 Manchesterami	Manchester	subst:pl:inst:m3	nazwa geograficzna	
 Manchesterem	Manchester	subst:sg:inst:m3	nazwa geograficzna	
@@ -17742,7 +17742,7 @@ Marino	Marina	subst:sg:voc:f	imię
 Marinom	Marina	subst:pl:dat:f	imię	
 Mariny	Marina	subst:pl:nom.acc.voc:f	imię	
 Mariny	Marina	subst:sg:gen:f	imię	
-Marino	Marino:b	burk		
+Marino	Marino:b	frag		
 Marino	Marino:s	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy geograficznej	
 Mariolach	Mariola	subst:pl:loc:f	imię	
 Mariola	Mariola	subst:sg:nom:f	imię	
@@ -53250,7 +53250,7 @@ Monrowii	Monrowia	subst:sg:gen:f	nazwa geograficzna
 Monrowij	Monrowia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Monrowiom	Monrowia	subst:pl:dat:f	nazwa geograficzna	
 Monrowio	Monrowia	subst:sg:voc:f	nazwa geograficzna	
-Mont	Mont	burk		
+Mont	Mont	frag		
 Montaigne’ach	Montaigne	subst:pl:loc:m1	nazwisko	
 Montaigne’ami	Montaigne	subst:pl:inst:m1	nazwisko	
 Montaigne’a	Montaigne	subst:sg:gen.acc:m1	nazwisko	
@@ -53286,7 +53286,7 @@ Montandów	Montand	subst:pl:gen.acc:m1	nazwisko
 Montandy	Montand	depr:pl:nom.acc.voc:m2	nazwisko	
 Montandzie	Montand	subst:sg:loc:m1	nazwisko	
 Montandzie	Montand	subst:sg:voc:m1	nazwisko	
-Monte	Monte	burk		
+Monte	Monte	frag		
 Montelupich	Montelupi	subst:pl:gen.acc:m1	nazwisko	
 Montelupich	Montelupi	subst:pl:loc:m1	nazwisko	
 Montelupiego	Montelupi	subst:sg:gen.acc:m1	nazwisko	
@@ -57070,7 +57070,7 @@ Motylskim	Motylski	subst:sg:inst:m1	nazwisko
 Motylskim	Motylski	subst:sg:loc:m1	nazwisko	
 Motylski	Motylski	subst:sg:nom:m1	nazwisko	
 Motylski	Motylski	subst:sg:voc:m1	nazwisko	
-Mount	Mount	burk		
+Mount	Mount	frag		
 Mountbattenach	Mountbatten	subst:pl:loc:m1	nazwisko	
 Mountbattenami	Mountbatten	subst:pl:inst:m1	nazwisko	
 Mountbattena	Mountbatten	subst:sg:gen.acc:m1	nazwisko	

@@ -14833,7 +14833,7 @@ RFN-owskim	RFN-owski	adj:sg:loc:m1.m2.m3.n:pos
 RFN-owski	RFN-owski	adj:sg:acc:m3:pos		
 RFN-owski	RFN-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 RFN-owsko	RFN-owski	adja		
-RFN-owsku	RFN-owski	adjp		
+RFN-owsku	RFN-owski	adjp:dat		
 RFN-owsko	RFN-owsko	adv:pos		
 Rgiele	Rgieł	subst:sg:loc:m1	imię	
 Rgiele	Rgieł	subst:sg:voc:m1	imię	
@@ -14925,7 +14925,7 @@ Richtery	Richter:s2	depr:pl:nom.acc.voc:m2	nazwisko
 Richterze	Richter:s2	subst:sg:loc:m1	nazwisko	
 Richterze	Richter:s2	subst:sg:voc:m1	nazwisko	
 Richter	Richter:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Rico	Rico	burk		
+Rico	Rico	frag		
 Riebandcie	Riebandt:s1	subst:sg:loc:m1	nazwisko	
 Riebandcie	Riebandt:s1	subst:sg:voc:m1	nazwisko	
 Riebandtach	Riebandt:s1	subst:pl:loc:m1	nazwisko	
@@ -15268,7 +15268,7 @@ Rink	Rink:s1	subst:sg:nom:m1	nazwisko
 Rinku	Rink:s1	subst:sg:loc:m1	nazwisko	
 Rinku	Rink:s1	subst:sg:voc:m1	nazwisko	
 Rink	Rink:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Rio	Rio	burk		
+Rio	Rio	frag		
 Rippelach	Rippel:s1	subst:pl:loc:m1	nazwisko	
 Rippelami	Rippel:s1	subst:pl:inst:m1	nazwisko	
 Rippela	Rippel:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -29612,7 +29612,7 @@ RWPG-owskim	RWPG-owski	adj:sg:loc:m1.m2.m3.n:pos
 RWPG-owski	RWPG-owski	adj:sg:acc:m3:pos		
 RWPG-owski	RWPG-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 RWPG-owsko	RWPG-owski	adja		
-RWPG-owsku	RWPG-owski	adjp		
+RWPG-owsku	RWPG-owski	adjp:dat		
 RWPG-owsko	RWPG-owsko	adv:pos		
 Rybacka	Rybacka	subst:sg:nom:f	nazwisko	
 Rybacka	Rybacka	subst:sg:voc:f	nazwisko	

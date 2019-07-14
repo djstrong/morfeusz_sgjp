@@ -7183,7 +7183,7 @@ PAN-owskim	PAN-owski	adj:sg:loc:m1.m2.m3.n:pos
 PAN-owski	PAN-owski	adj:sg:acc:m3:pos		
 PAN-owski	PAN-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 PAN-owsko	PAN-owski	adja		
-PAN-owsku	PAN-owski	adjp		
+PAN-owsku	PAN-owski	adjp:dat		
 PAN-owsko	PAN-owsko	adv:pos		
 Pantagruelach	Pantagruel	subst:pl:loc:m1	imię	
 Pantagruelami	Pantagruel	subst:pl:inst:m1	imię	
@@ -8069,7 +8069,7 @@ PAP-owskim	PAP-owski	adj:sg:loc:m1.m2.m3.n:pos
 PAP-owski	PAP-owski	adj:sg:acc:m3:pos		
 PAP-owski	PAP-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 PAP-owsko	PAP-owski	adja		
-PAP-owsku	PAP-owski	adjp		
+PAP-owsku	PAP-owski	adjp:dat		
 PAP-owsko	PAP-owsko	adv:pos		
 Paprocka	Paprocka	subst:sg:nom:f	nazwisko	
 Paprocka	Paprocka	subst:sg:voc:f	nazwisko	
@@ -14621,7 +14621,7 @@ Pauli	Pauli:s1	subst:sg:nom:m1	nazwisko
 Pauli	Pauli:s1	subst:sg:voc:m1	nazwisko	
 Paulowie	Pauli:s1	subst:pl:nom.voc:m1	nazwisko	
 Pauli	Pauli:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Paulo	Paulo	burk		
+Paulo	Paulo	frag		
 Paulach	Paul:s1	subst:pl:loc:m1	imię	
 Paulami	Paul:s1	subst:pl:inst:m1	imię	
 Paula	Paul:s1	subst:sg:gen.acc:m1	imię	
@@ -16475,7 +16475,7 @@ PAX-owskim	PAX-owski	adj:sg:loc:m1.m2.m3.n:pos
 PAX-owski	PAX-owski	adj:sg:acc:m3:pos		
 PAX-owski	PAX-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 PAX-owsko	PAX-owski	adja		
-PAX-owsku	PAX-owski	adjp		
+PAX-owsku	PAX-owski	adjp:dat		
 PAX-owsko	PAX-owsko	adv:pos		
 Pazdalska	Pazdalska	subst:sg:nom:f	nazwisko	
 Pazdalska	Pazdalska	subst:sg:voc:f	nazwisko	
@@ -19270,7 +19270,7 @@ Pendżabów	Pendżab	subst:pl:gen:m3	nazwa geograficzna
 Pendżab	Pendżab	subst:sg:nom.acc:m3	nazwa geograficzna	
 Pendżabu	Pendżab	subst:sg:gen:m3	nazwa geograficzna	
 Pendżaby	Pendżab	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
-Penh	Penh	burk		
+Penh	Penh	frag		
 Penkalach	Penkala:s2	subst:pl:loc:m1	nazwisko	
 Penkalami	Penkala:s2	subst:pl:inst:m1	nazwisko	
 Penkala	Penkala:s2	subst:sg:nom:m1	nazwisko	
@@ -23762,7 +23762,7 @@ PGR-owskim	PGR-owski	adj:sg:loc:m1.m2.m3.n:pos
 PGR-owski	PGR-owski	adj:sg:acc:m3:pos		
 PGR-owski	PGR-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 PGR-owsko	PGR-owski	adja		
-PGR-owsku	PGR-owski	adjp		
+PGR-owsku	PGR-owski	adjp:dat		
 PGR-owsko	PGR-owsko	adv:pos		
 PH	PH	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 Phamach	Pham:s1	subst:pl:loc:m1	nazwisko	
@@ -23830,7 +23830,7 @@ Phillipsów	Phillips:s1	subst:pl:gen.acc:m1	nazwisko
 Phillips	Phillips:s1	subst:sg:nom:m1	nazwisko	
 Phillipsy	Phillips:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Phillips	Phillips:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Phnom	Phnom	burk		
+Phnom	Phnom	frag		
 Piach	Pia	subst:pl:loc:f	imię	
 Piami	Pia	subst:pl:inst:f	imię	
 Pia	Pia	subst:sg:nom:f	imię	
@@ -36303,7 +36303,7 @@ PiS-owskim	PiS-owski	adj:sg:loc:m1.m2.m3.n:pos
 PiS-owski	PiS-owski	adj:sg:acc:m3:pos		
 PiS-owski	PiS-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 PiS-owsko	PiS-owski	adja		
-PiS-owsku	PiS-owski	adjp		
+PiS-owsku	PiS-owski	adjp:dat		
 PiS-owsko	PiS-owsko	adv:pos		
 PiS-owskościach	PiS-owskość	subst:pl:loc:f	nazwa pospolita	
 PiS-owskościami	PiS-owskość	subst:pl:inst:f	nazwa pospolita	
@@ -37761,7 +37761,7 @@ PIW-owskim	PIW-owski	adj:sg:loc:m1.m2.m3.n:pos
 PIW-owski	PIW-owski	adj:sg:acc:m3:pos		
 PIW-owski	PIW-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 PIW-owsko	PIW-owski	adja		
-PIW-owsku	PIW-owski	adjp		
+PIW-owsku	PIW-owski	adjp:dat		
 PIW-owsko	PIW-owsko	adv:pos		
 Pizach	Piza	subst:pl:loc:f	nazwa geograficzna	
 Pizami	Piza	subst:pl:inst:f	nazwa geograficzna	
@@ -38359,7 +38359,7 @@ Plaszczyk	Plaszczyk:s2	subst:sg:nom:m1	nazwisko
 Plaszczyku	Plaszczyk:s2	subst:sg:loc:m1	nazwisko	
 Plaszczyku	Plaszczyk:s2	subst:sg:voc:m1	nazwisko	
 Plaszczyk	Plaszczyk:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Plata	Plata:b	burk		
+Plata	Plata:b	frag		
 Placie	Plata:s1	subst:sg:dat.loc:f	człon nazwy geograficznej	
 Platach	Plata:s1	subst:pl:loc:f	człon nazwy geograficznej	
 Platami	Plata:s1	subst:pl:inst:f	człon nazwy geograficznej	
@@ -59192,7 +59192,7 @@ PPS-owskim	PPS-owski	adj:sg:loc:m1.m2.m3.n:pos
 PPS-owski	PPS-owski	adj:sg:acc:m3:pos		
 PPS-owski	PPS-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 PPS-owsko	PPS-owski	adja		
-PPS-owsku	PPS-owski	adjp		
+PPS-owsku	PPS-owski	adjp:dat		
 PPS-owsko	PPS-owsko	adv:pos		
 Prabucka	Prabucka	subst:sg:nom:f	nazwisko	
 Prabucka	Prabucka	subst:sg:voc:f	nazwisko	
@@ -61254,7 +61254,7 @@ PRL-owskim	PRL-owski	adj:sg:loc:m1.m2.m3.n:pos
 PRL-owski	PRL-owski	adj:sg:acc:m3:pos		
 PRL-owski	PRL-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 PRL-owsko	PRL-owski	adja		
-PRL-owsku	PRL-owski	adjp		
+PRL-owsku	PRL-owski	adjp:dat		
 PRL-owsko	PRL-owsko	adv:pos		
 Probach	Proba:s1	subst:pl:loc:m1	nazwisko	
 Probami	Proba:s1	subst:pl:inst:m1	nazwisko	
@@ -70179,7 +70179,7 @@ PSL-owskim	PSL-owski	adj:sg:loc:m1.m2.m3.n:pos
 PSL-owski	PSL-owski	adj:sg:acc:m3:pos		
 PSL-owski	PSL-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 PSL-owsko	PSL-owski	adja		
-PSL-owsku	PSL-owski	adjp		
+PSL-owsku	PSL-owski	adjp:dat		
 PSL-owsko	PSL-owsko	adv:pos		
 Psonakach	Psonak:s1	subst:pl:loc:m1	nazwisko	
 Psonakami	Psonak:s1	subst:pl:inst:m1	nazwisko	
@@ -71100,7 +71100,7 @@ PTTK-owskim	PTTK-owski	adj:sg:loc:m1.m2.m3.n:pos
 PTTK-owski	PTTK-owski	adj:sg:acc:m3:pos		
 PTTK-owski	PTTK-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 PTTK-owsko	PTTK-owski	adja		
-PTTK-owsku	PTTK-owski	adjp		
+PTTK-owsku	PTTK-owski	adjp:dat		
 PTTK-owsko	PTTK-owsko	adv:pos		
 PTTK-owskościach	PTTK-owskość	subst:pl:loc:f	nazwa pospolita	
 PTTK-owskościami	PTTK-owskość	subst:pl:inst:f	nazwa pospolita	
@@ -75531,7 +75531,7 @@ PWN-owskim	PWN-owski	adj:sg:loc:m1.m2.m3.n:pos
 PWN-owski	PWN-owski	adj:sg:acc:m3:pos		
 PWN-owski	PWN-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 PWN-owsko	PWN-owski	adja		
-PWN-owsku	PWN-owski	adjp		
+PWN-owsku	PWN-owski	adjp:dat		
 PWN-owsko	PWN-owsko	adv:pos		
 Pycek	Pycek:s1	subst:sg:nom:m1	nazwisko	
 Pyckach	Pycek:s1	subst:pl:loc:m1	nazwisko	
@@ -78207,7 +78207,7 @@ PZPR-owskim	PZPR-owski	adj:sg:loc:m1.m2.m3.n:pos
 PZPR-owski	PZPR-owski	adj:sg:acc:m3:pos		
 PZPR-owski	PZPR-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 PZPR-owsko	PZPR-owski	adja		
-PZPR-owsku	PZPR-owski	adjp		
+PZPR-owsku	PZPR-owski	adjp:dat		
 PZPR-owsko	PZPR-owsko	adv:pos		
 PZU	PZU	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa firmy	
 PZU	PZU	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa firmy	

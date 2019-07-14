@@ -2899,7 +2899,7 @@ Fasiczki	Fasiczka:s2	subst:pl:nom.acc.voc:f	nazwisko
 Fasiczki	Fasiczka:s2	subst:sg:gen:f	nazwisko	
 Fasiczko	Fasiczka:s2	subst:sg:voc:f	nazwisko	
 Fasiczkom	Fasiczka:s2	subst:pl:dat:f	nazwisko	
-Faso	Faso	burk		
+Faso	Faso	frag		
 Fassach	Fassa:s1	subst:pl:loc:m1	nazwisko	
 Fassa	Fassa:s1	subst:sg:nom:m1	nazwisko	
 Fassami	Fassa:s1	subst:pl:inst:m1	nazwisko	
@@ -14829,7 +14829,7 @@ Francików	Francik:s2	subst:pl:gen.acc:m1	nazwisko
 Franciku	Francik:s2	subst:sg:loc:m1	nazwisko	
 Franciku	Francik:s2	subst:sg:voc:m1	nazwisko	
 Francik	Francik:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Francisco	Francisco:b	burk		
+Francisco	Francisco:b	frag		
 Francisco	Francisco:s	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy geograficznej	
 Franciszczakach	Franciszczak:s1	subst:pl:loc:m1	nazwisko	
 Franciszczaka	Franciszczak:s1	subst:sg:gen.acc:m1	nazwisko	

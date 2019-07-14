@@ -4359,7 +4359,7 @@ Walli	Walla:s2	subst:sg:gen:f	nazwisko
 Wallom	Walla:s2	subst:pl:dat:f	nazwisko	
 Wallo	Walla:s2	subst:sg:voc:f	nazwisko	
 Wall	Walla:s2	subst:pl:gen:f	nazwisko	char.
-Wall	Wall:b	burk		
+Wall	Wall:b	frag		
 Wallekach	Wallek:s1	subst:pl:loc:m1	nazwisko	
 Wallekami	Wallek:s1	subst:pl:inst:m1	nazwisko	
 Walleka	Wallek:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -11326,7 +11326,7 @@ WAT-owskim	WAT-owski	adj:sg:loc:m1.m2.m3.n:pos
 WAT-owski	WAT-owski	adj:sg:acc:m3:pos		
 WAT-owski	WAT-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 WAT-owsko	WAT-owski	adja		
-WAT-owsku	WAT-owski	adjp		
+WAT-owsku	WAT-owski	adjp:dat		
 WAT-owsko	WAT-owsko	adv:pos		
 WAT-owskościach	WAT-owskość	subst:pl:loc:f	nazwa pospolita	
 WAT-owskościami	WAT-owskość	subst:pl:inst:f	nazwa pospolita	

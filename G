@@ -55845,7 +55845,7 @@ GUS-owskim	GUS-owski	adj:sg:inst:m1.m2.m3.n:pos
 GUS-owskim	GUS-owski	adj:sg:loc:m1.m2.m3.n:pos		
 GUS-owskimi	GUS-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
 GUS-owsko	GUS-owski	adja		
-GUS-owsku	GUS-owski	adjp		
+GUS-owsku	GUS-owski	adjp:dat		
 GUS-owsko	GUS-owsko	adv:pos		
 Gusach	Gus:s1	subst:pl:loc:m1	nazwisko	
 Gusa	Gus:s1	subst:sg:gen.acc:m1	nazwisko	

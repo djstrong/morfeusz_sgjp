@@ -7760,7 +7760,7 @@ Baniszów	Banisz:s1	subst:pl:gen.acc:m1	nazwisko
 Baniszu	Banisz:s1	subst:sg:loc:m1	nazwisko	
 Baniszu	Banisz:s1	subst:sg:voc:m1	nazwisko	
 Banisz	Banisz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Banja	Banja	burk		
+Banja	Banja	frag		
 Bankiewicza	Bankiewicz:s1	subst:sg:gen.acc:m1	nazwisko	
 Bankiewiczach	Bankiewicz:s1	subst:pl:loc:m1	nazwisko	
 Bankiewiczami	Bankiewicz:s1	subst:pl:inst:m1	nazwisko	
@@ -19263,7 +19263,7 @@ Bemowie	Bem:s1	subst:pl:nom.voc:m1	nazwisko
 Bemów	Bem:s1	subst:pl:gen.acc:m1	nazwisko	
 Bemy	Bem:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Bem	Bem:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Ben	Ben:b	burk		
+Ben	Ben:b	frag		
 Benbenek	Benbenek:s1	subst:sg:nom:m1	nazwisko	
 Benbenka	Benbenek:s1	subst:sg:gen.acc:m1	nazwisko	
 Benbenkach	Benbenek:s1	subst:pl:loc:m1	nazwisko	
@@ -59528,7 +59528,7 @@ Budźkom	Budźko:s1	subst:pl:dat:m1	nazwisko
 Budźkowie	Budźko:s1	subst:pl:nom.voc:m1	nazwisko	
 Budźków	Budźko:s1	subst:pl:gen.acc:m1	nazwisko	
 Budźko	Budźko:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Buenos	Buenos	burk		
+Buenos	Buenos	frag		
 Buffalo	Buffalo:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
 Buffalo	Buffalo:s2	depr:pl:nom.acc.voc:m2	człon przydomka	
 Buffalo	Buffalo:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	człon przydomka	
@@ -64211,7 +64211,7 @@ Burkiewiczów	Burkiewicz:s2	subst:pl:gen.acc:m1	nazwisko
 Burkiewiczu	Burkiewicz:s2	subst:sg:loc:m1	nazwisko	
 Burkiewiczu	Burkiewicz:s2	subst:sg:voc:m1	nazwisko	
 Burkiewicz	Burkiewicz:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Burkina	Burkina	burk		
+Burkina	Burkina	frag		
 Burkince	Burkinka	subst:sg:dat.loc:f	nazwa pospolita	
 Burkinek	Burkinka	subst:pl:gen:f	nazwa pospolita	
 Burkinka	Burkinka	subst:sg:nom:f	nazwa pospolita	

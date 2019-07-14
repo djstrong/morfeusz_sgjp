@@ -42,7 +42,7 @@ valpolicelli	valpolicella	subst:sg:dat.loc:f	nazwa pospolita
 valpolicelli	valpolicella	subst:sg:gen:f	nazwa pospolita	
 valpolicellom	valpolicella	subst:pl:dat:f	nazwa pospolita	
 valpolicello	valpolicella	subst:sg:voc:f	nazwa pospolita	
-van	van:b	burk		
+van	van:b	frag		
 vanach	van:s	subst:pl:loc:m2	nazwa pospolita	
 vanami	van:s	subst:pl:inst:m2	nazwa pospolita	
 vana	van:s	subst:sg:gen.acc:m2	nazwa pospolita	
@@ -149,7 +149,7 @@ vatowskim	vatowski	adj:sg:loc:m1.m2.m3.n:pos
 vatowski	vatowski	adj:sg:acc:m3:pos		
 vatowski	vatowski	adj:sg:nom.voc:m1.m2.m3:pos		
 vatowsko	vatowski	adja		
-vatowsku	vatowski	adjp		
+vatowsku	vatowski	adjp:dat		
 vatowsko	vatowsko	adv:pos		
 vatowskościach	vatowskość	subst:pl:loc:f	nazwa pospolita	
 vatowskościami	vatowskość	subst:pl:inst:f	nazwa pospolita	
@@ -287,7 +287,7 @@ vibrato	vibrato	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	muz.
 vibrato	vibrato	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	muz.
 vibratu	vibrato	subst:sg:dat:n:ncol	nazwa pospolita	muz.
 vibrat	vibrato	subst:pl:gen:n:ncol	nazwa pospolita	muz.
-vice	vice	burk		
+vice	vice	frag		
 video	video:a	adja		
 video	video:a	adj:pl:acc:m1:pos		
 video	video:a	adj:pl:acc:m2.m3.f.n:pos		
@@ -408,7 +408,7 @@ vipowskim	vipowski	adj:sg:loc:m1.m2.m3.n:pos
 vipowski	vipowski	adj:sg:acc:m3:pos		
 vipowski	vipowski	adj:sg:nom.voc:m1.m2.m3:pos		
 vipowsko	vipowski	adja		
-vipowsku	vipowski	adjp		
+vipowsku	vipowski	adjp:dat		
 vipowsko	vipowsko	adv:pos		
 vipowskościach	vipowskość	subst:pl:loc:f	nazwa pospolita	
 vipowskościami	vipowskość	subst:pl:inst:f	nazwa pospolita	
@@ -610,7 +610,7 @@ vomitorium	vomitorium	subst:sg:gen:n:ncol	nazwa pospolita
 vomitorium	vomitorium	subst:sg:inst:n:ncol	nazwa pospolita	
 vomitorium	vomitorium	subst:sg:loc:n:ncol	nazwa pospolita	
 vomitorium	vomitorium	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
-von	von	burk		
+von	von	frag		
 voodoo	voodoo	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
 voodoo	voodoo	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 votach	votum	subst:pl:loc:n:ncol	nazwa pospolita	
@@ -635,6 +635,6 @@ vouchery	voucher	subst:pl:nom.acc.voc:m3	nazwa pospolita
 voucherze	voucher	subst:sg:loc:m3	nazwa pospolita	
 voucherze	voucher	subst:sg:voc:m3	nazwa pospolita	
 vouvray	vouvray	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
-vulgo	vulgo	qub		daw.
+vulgo	vulgo	part		daw.
 vw	vw	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
 vw	vw	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
