@@ -484,6 +484,7 @@ video	video:s	subst:sg:nom:n2	pospolita
 video	video:s	subst:sg:voc:n2	pospolita	
 videów	video:s	subst:pl:gen:n2	pospolita	
 videu	video:s	subst:sg:dat:n2	pospolita	
+videu	video:s	subst:sg:loc:n2	pospolita	rzad.
 vihuelach	vihuela	subst:pl:loc:f	pospolita	muz.
 vihuelami	vihuela	subst:pl:inst:f	pospolita	muz.
 vihuela	vihuela	subst:sg:nom:f	pospolita	muz.
