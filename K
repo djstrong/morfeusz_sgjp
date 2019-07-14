@@ -12298,6 +12298,20 @@ Krasińskimi	Krasiński	subst:pl:inst:m1	nazwisko
 Krasińskim	Krasiński	subst:pl:dat:m1	nazwisko	
 Krasińskim	Krasiński	subst:sg:inst:m1	nazwisko	
 Krasińskim	Krasiński	subst:sg:loc:m1	nazwisko	
+Krasnego	Krasne	subst:sg:gen:n2	nazwa geograficzna	
+Krasne	Krasne	subst:pl:acc:n2	nazwa geograficzna	
+Krasne	Krasne	subst:pl:nom:n2	nazwa geograficzna	
+Krasne	Krasne	subst:pl:voc:n2	nazwa geograficzna	
+Krasne	Krasne	subst:sg:acc:n2	nazwa geograficzna	
+Krasne	Krasne	subst:sg:nom:n2	nazwa geograficzna	
+Krasne	Krasne	subst:sg:voc:n2	nazwa geograficzna	
+Krasnem	Krasne	subst:sg:inst:n2	nazwa geograficzna	
+Krasnem	Krasne	subst:sg:loc:n2	nazwa geograficzna	
+Krasnemu	Krasne	subst:sg:dat:n2	nazwa geograficzna	
+Krasnych	Krasne	subst:pl:gen:n2	nazwa geograficzna	
+Krasnych	Krasne	subst:pl:loc:n2	nazwa geograficzna	
+Krasnymi	Krasne	subst:pl:inst:n2	nazwa geograficzna	
+Krasnym	Krasne	subst:pl:dat:n2	nazwa geograficzna	
 Krasnodębska	Krasnodębska	subst:sg:nom:f	nazwisko	
 Krasnodębska	Krasnodębska	subst:sg:voc:f	nazwisko	
 Krasnodębską	Krasnodębska	subst:sg:acc:f	nazwisko	

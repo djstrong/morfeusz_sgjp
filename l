@@ -42674,6 +42674,7 @@ litery	litera	subst:pl:voc:f	nazwa pospolita
 litery	litera	subst:sg:gen:f	nazwa pospolita	
 literze	litera	subst:sg:dat:f	nazwa pospolita	
 literze	litera	subst:sg:loc:f	nazwa pospolita	
+lit	litera	brev:pun		
 literacinach	literacina	subst:pl:loc:f	nazwa pospolita	
 literacinach	literacina	subst:pl:loc:m1	nazwa pospolita	
 literacina	literacina	subst:sg:nom:f	nazwa pospolita	
@@ -42855,6 +42856,7 @@ literatury	literatura	subst:pl:voc:f	nazwa pospolita
 literatury	literatura	subst:sg:gen:f	nazwa pospolita	
 literaturze	literatura	subst:sg:dat:f	nazwa pospolita	
 literaturze	literatura	subst:sg:loc:f	nazwa pospolita	
+lit	literatura	brev:pun		
 literaturoznawcach	literaturoznawca	subst:pl:loc:m1	nazwa pospolita	
 literaturoznawca	literaturoznawca	subst:sg:nom:m1	nazwa pospolita	
 literaturoznawcami	literaturoznawca	subst:pl:inst:m1	nazwa pospolita	
@@ -43247,6 +43249,7 @@ litewki	litewka	subst:pl:voc:f	nazwa pospolita	przest.
 litewki	litewka	subst:sg:gen:f	nazwa pospolita	przest.
 litewko	litewka	subst:sg:voc:f	nazwa pospolita	przest.
 litewkom	litewka	subst:pl:dat:f	nazwa pospolita	przest.
+lit	litewski	brev:pun		
 litewscy	litewski:a	adj:pl:nom.voc:m1.p1:pos		
 litewska	litewski:a	adj:sg:nom.voc:f:pos		
 litewską	litewski:a	adj:sg:acc:f:pos		
@@ -61150,6 +61153,7 @@ lustracji	lustracja	subst:sg:loc:f	nazwa pospolita
 lustracjo	lustracja	subst:sg:voc:f	nazwa pospolita	
 lustracjom	lustracja	subst:pl:dat:f	nazwa pospolita	
 lustracyj	lustracja	subst:pl:gen:f	nazwa pospolita	arch.|char.
+lustracyjnie	lustracyjnie	adv:pos		
 lustracyjnościach	lustracyjność	subst:pl:loc:f	nazwa pospolita	
 lustracyjnościami	lustracyjność	subst:pl:inst:f	nazwa pospolita	
 lustracyjnością	lustracyjność	subst:sg:inst:f	nazwa pospolita	

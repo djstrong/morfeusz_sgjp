@@ -13725,6 +13725,7 @@ Bystrzycom	Bystrzyca	subst:pl:dat:f	nazwa geograficzna
 Bystrzycy	Bystrzyca	subst:sg:dat:f	nazwa geograficzna	
 Bystrzycy	Bystrzyca	subst:sg:gen:f	nazwa geograficzna	
 Bystrzycy	Bystrzyca	subst:sg:loc:f	nazwa geograficzna	
+BTW	by_the_way	brev:npun		
 Bytnica	Bytnica	subst:sg:nom:f	nazwa geograficzna	
 Bytnicach	Bytnica	subst:pl:loc:f	nazwa geograficzna	
 Bytnicami	Bytnica	subst:pl:inst:f	nazwa geograficzna	

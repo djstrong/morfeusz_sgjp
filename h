@@ -1,3 +1,4 @@
+h	godzina	brev:npun		
 habanerach	habanera	subst:pl:loc:f	nazwa pospolita	chor.
 habanera	habanera	subst:sg:nom:f	nazwa pospolita	chor.
 habanerami	habanera	subst:pl:inst:f	nazwa pospolita	chor.
@@ -227,6 +228,7 @@ habilitujesz	habilitować	fin:sg:sec:imperf.perf
 habilituję	habilitować	fin:sg:pri:imperf.perf		
 habilituj	habilitować	impt:sg:sec:imperf.perf		
 habilitujmy	habilitować	impt:pl:pri:imperf.perf		
+hab	habilitowany	brev:pun		
 habicie	habit	subst:sg:loc:m3	nazwa pospolita	
 habicie	habit	subst:sg:voc:m3	nazwa pospolita	
 habitach	habit	subst:pl:loc:m3	nazwa pospolita	
@@ -2321,6 +2323,20 @@ hajnowskości	hajnowskość	subst:sg:voc:f	nazwa pospolita
 hajnowskościom	hajnowskość	subst:pl:dat:f	nazwa pospolita	
 hajnowskość	hajnowskość	subst:sg:acc:f	nazwa pospolita	
 hajnowskość	hajnowskość	subst:sg:nom:f	nazwa pospolita	
+hajsach	hajs	subst:pl:loc:m3	nazwa pospolita	pot.
+hajsami	hajs	subst:pl:inst:m3	nazwa pospolita	pot.
+hajsem	hajs	subst:sg:inst:m3	nazwa pospolita	pot.
+hajs	hajs	subst:sg:acc:m3	nazwa pospolita	pot.
+hajs	hajs	subst:sg:nom:m3	nazwa pospolita	pot.
+hajsie	hajs	subst:sg:loc:m3	nazwa pospolita	pot.
+hajsie	hajs	subst:sg:voc:m3	nazwa pospolita	pot.
+hajsom	hajs	subst:pl:dat:m3	nazwa pospolita	pot.
+hajsowi	hajs	subst:sg:dat:m3	nazwa pospolita	pot.
+hajsów	hajs	subst:pl:gen:m3	nazwa pospolita	pot.
+hajsu	hajs	subst:sg:gen:m3	nazwa pospolita	pot.
+hajsy	hajs	subst:pl:acc:m3	nazwa pospolita	pot.
+hajsy	hajs	subst:pl:nom:m3	nazwa pospolita	pot.
+hajsy	hajs	subst:pl:voc:m3	nazwa pospolita	pot.
 hajach	haj:s	subst:pl:loc:m2	nazwa pospolita	
 hajach	haj:s	subst:pl:loc:m3	nazwa pospolita	rzad.
 haja	haj:s	subst:sg:acc:m2	nazwa pospolita	
@@ -2663,42 +2679,42 @@ hakerstwo	hakerstwo	subst:sg:nom:n2	nazwa pospolita
 hakerstwo	hakerstwo	subst:sg:voc:n2	nazwa pospolita	
 hakerstwom	hakerstwo	subst:pl:dat:n2	nazwa pospolita	
 hakerstwu	hakerstwo	subst:sg:dat:n2	nazwa pospolita	
-hakować	hakować	inf:imperf		przest.
-hakowaliby	hakować	cond:pl:m1.p1:ter:imperf		przest.
-hakowalibyście	hakować	cond:pl:m1.p1:sec:imperf		przest.
-hakowalibyśmy	hakować	cond:pl:m1.p1:pri:imperf		przest.
-hakowali	hakować	praet:pl:m1.p1:imperf		przest.
-hakowali	hakować	praet:pl:m1.p1:ter:imperf		przest.
-hakowaliście	hakować	praet:pl:m1.p1:sec:imperf		przest.
-hakowaliśmy	hakować	praet:pl:m1.p1:pri:imperf		przest.
-hakowałaby	hakować	cond:sg:f:ter:imperf		przest.
-hakowałabym	hakować	cond:sg:f:pri:imperf		przest.
-hakowałabyś	hakować	cond:sg:f:sec:imperf		przest.
-hakowała	hakować	praet:sg:f:imperf		przest.
-hakowała	hakować	praet:sg:f:ter:imperf		przest.
-hakowałam	hakować	praet:sg:f:pri:imperf		przest.
-hakowałaś	hakować	praet:sg:f:sec:imperf		przest.
-hakowałby	hakować	cond:sg:m1.m2.m3:ter:imperf		przest.
-hakowałbym	hakować	cond:sg:m1.m2.m3:pri:imperf		przest.
-hakowałbyś	hakować	cond:sg:m1.m2.m3:sec:imperf		przest.
-hakowałem	hakować	praet:sg:m1.m2.m3:pri:imperf		przest.
-hakowałeś	hakować	praet:sg:m1.m2.m3:sec:imperf		przest.
-hakował	hakować	praet:sg:m1.m2.m3:imperf		przest.
-hakował	hakować	praet:sg:m1.m2.m3:ter:imperf		przest.
-hakowałoby	hakować	cond:sg:n1.n2:ter:imperf		przest.
-hakowałobym	hakować	cond:sg:n1.n2:pri:imperf		przest.
-hakowałobyś	hakować	cond:sg:n1.n2:sec:imperf		przest.
-hakowało	hakować	praet:sg:n1.n2:imperf		przest.
-hakowało	hakować	praet:sg:n1.n2:ter:imperf		przest.
-hakowałom	hakować	praet:sg:n1.n2:pri:imperf		przest.
-hakowałoś	hakować	praet:sg:n1.n2:sec:imperf		przest.
-hakowałyby	hakować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
-hakowałybyście	hakować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
-hakowałybyśmy	hakować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
-hakowały	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		przest.
-hakowały	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
-hakowałyście	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
-hakowałyśmy	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+hakować	hakować	inf:imperf		
+hakowaliby	hakować	cond:pl:m1.p1:ter:imperf		
+hakowalibyście	hakować	cond:pl:m1.p1:sec:imperf		
+hakowalibyśmy	hakować	cond:pl:m1.p1:pri:imperf		
+hakowali	hakować	praet:pl:m1.p1:imperf		
+hakowali	hakować	praet:pl:m1.p1:ter:imperf		
+hakowaliście	hakować	praet:pl:m1.p1:sec:imperf		
+hakowaliśmy	hakować	praet:pl:m1.p1:pri:imperf		
+hakowałaby	hakować	cond:sg:f:ter:imperf		
+hakowałabym	hakować	cond:sg:f:pri:imperf		
+hakowałabyś	hakować	cond:sg:f:sec:imperf		
+hakowała	hakować	praet:sg:f:imperf		
+hakowała	hakować	praet:sg:f:ter:imperf		
+hakowałam	hakować	praet:sg:f:pri:imperf		
+hakowałaś	hakować	praet:sg:f:sec:imperf		
+hakowałby	hakować	cond:sg:m1.m2.m3:ter:imperf		
+hakowałbym	hakować	cond:sg:m1.m2.m3:pri:imperf		
+hakowałbyś	hakować	cond:sg:m1.m2.m3:sec:imperf		
+hakowałem	hakować	praet:sg:m1.m2.m3:pri:imperf		
+hakowałeś	hakować	praet:sg:m1.m2.m3:sec:imperf		
+hakował	hakować	praet:sg:m1.m2.m3:imperf		
+hakował	hakować	praet:sg:m1.m2.m3:ter:imperf		
+hakowałoby	hakować	cond:sg:n1.n2:ter:imperf		
+hakowałobym	hakować	cond:sg:n1.n2:pri:imperf		
+hakowałobyś	hakować	cond:sg:n1.n2:sec:imperf		
+hakowało	hakować	praet:sg:n1.n2:imperf		
+hakowało	hakować	praet:sg:n1.n2:ter:imperf		
+hakowałom	hakować	praet:sg:n1.n2:pri:imperf		
+hakowałoś	hakować	praet:sg:n1.n2:sec:imperf		
+hakowałyby	hakować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+hakowałybyście	hakować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+hakowałybyśmy	hakować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+hakowały	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+hakowały	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+hakowałyście	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+hakowałyśmy	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 hakowana	hakować	ppas:sg:nom.voc:f:imperf:aff		
 hakowaną	hakować	ppas:sg:acc.inst:f:imperf:aff		
 hakowanego	hakować	ppas:sg:acc:m1.m2:imperf:aff		
@@ -2716,7 +2732,7 @@ hakowaniem	hakować	ger:sg:inst:n2:imperf:aff
 hakowani	hakować	ppas:pl:nom.voc:m1.p1:imperf:aff		
 hakowaniom	hakować	ger:pl:dat:n2:imperf:aff		
 hakowaniu	hakować	ger:sg:dat.loc:n2:imperf:aff		
-hakowano	hakować	imps:imperf		przest.
+hakowano	hakować	imps:imperf		
 hakowanych	hakować	ppas:pl:acc:m1.p1:imperf:aff		
 hakowanych	hakować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 hakowany	hakować	ppas:sg:acc:m3:imperf:aff		
@@ -2733,7 +2749,7 @@ hakujące	hakować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 hakujące	hakować	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
 hakującej	hakować	pact:sg:gen.dat.loc:f:imperf:aff		
 hakującemu	hakować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-hakując	hakować	pcon:imperf		przest.
+hakując	hakować	pcon:imperf		
 hakująco	hakować	pacta		
 hakujących	hakować	pact:pl:acc:m1.p1:imperf:aff		
 hakujących	hakować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -2743,15 +2759,15 @@ hakujący	hakować	pact:sg:nom.voc:m1.m2.m3:imperf:aff
 hakującym	hakować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 hakującym	hakować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 hakującymi	hakować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-hakują	hakować	fin:pl:ter:imperf		przest.
-hakujcie	hakować	impt:pl:sec:imperf		przest.
-hakujecie	hakować	fin:pl:sec:imperf		przest.
-hakuje	hakować	fin:sg:ter:imperf		przest.
-hakujemy	hakować	fin:pl:pri:imperf		przest.
-hakujesz	hakować	fin:sg:sec:imperf		przest.
-hakuję	hakować	fin:sg:pri:imperf		przest.
-hakuj	hakować	impt:sg:sec:imperf		przest.
-hakujmy	hakować	impt:pl:pri:imperf		przest.
+hakują	hakować	fin:pl:ter:imperf		
+hakujcie	hakować	impt:pl:sec:imperf		
+hakujecie	hakować	fin:pl:sec:imperf		
+hakuje	hakować	fin:sg:ter:imperf		
+hakujemy	hakować	fin:pl:pri:imperf		
+hakujesz	hakować	fin:sg:sec:imperf		
+hakuję	hakować	fin:sg:pri:imperf		
+hakuj	hakować	impt:sg:sec:imperf		
+hakujmy	hakować	impt:pl:pri:imperf		
 hakowato	hakowato	adv:pos		
 hakowatościach	hakowatość	subst:pl:loc:f	nazwa pospolita	
 hakowatościami	hakowatość	subst:pl:inst:f	nazwa pospolita	
@@ -12413,6 +12429,20 @@ ha-szana	ha-szana	subst:sg:inst:n2	człon nazwy święta
 ha-szana	ha-szana	subst:sg:loc:n2	człon nazwy święta	
 ha-szana	ha-szana	subst:sg:nom:n2	człon nazwy święta	
 ha-szana	ha-szana	subst:sg:voc:n2	człon nazwy święta	
+hasztagach	hasztag	subst:pl:loc:m3	nazwa pospolita	
+hasztagami	hasztag	subst:pl:inst:m3	nazwa pospolita	
+hasztag	hasztag	subst:sg:acc:m3	nazwa pospolita	
+hasztag	hasztag	subst:sg:nom:m3	nazwa pospolita	
+hasztagiem	hasztag	subst:sg:inst:m3	nazwa pospolita	
+hasztagi	hasztag	subst:pl:acc:m3	nazwa pospolita	
+hasztagi	hasztag	subst:pl:nom:m3	nazwa pospolita	
+hasztagi	hasztag	subst:pl:voc:m3	nazwa pospolita	
+hasztagom	hasztag	subst:pl:dat:m3	nazwa pospolita	
+hasztagowi	hasztag	subst:sg:dat:m3	nazwa pospolita	
+hasztagów	hasztag	subst:pl:gen:m3	nazwa pospolita	
+hasztagu	hasztag	subst:sg:gen:m3	nazwa pospolita	
+hasztagu	hasztag	subst:sg:loc:m3	nazwa pospolita	
+hasztagu	hasztag	subst:sg:voc:m3	nazwa pospolita	
 haszymidzcy	haszymidzki	adj:pl:nom.voc:m1.p1:pos		
 haszymidzka	haszymidzki	adj:sg:nom.voc:f:pos		
 haszymidzką	haszymidzki	adj:sg:acc:f:pos		
@@ -15259,6 +15289,60 @@ hejterze	hejter	subst:sg:loc:m1	nazwa pospolita	pot.
 hejterze	hejter	subst:sg:voc:m1	nazwa pospolita	pot.
 hejterzy	hejter	subst:pl:nom:m1	nazwa pospolita	pot.
 hejterzy	hejter	subst:pl:voc:m1	nazwa pospolita	pot.
+hejterscy	hejterski	adj:pl:nom.voc:m1.p1:pos		pot.
+hejterska	hejterski	adj:sg:nom.voc:f:pos		pot.
+hejterską	hejterski	adj:sg:acc:f:pos		pot.
+hejterską	hejterski	adj:sg:inst:f:pos		pot.
+hejterskich	hejterski	adj:pl:acc:m1.p1:pos		pot.
+hejterskich	hejterski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+hejterskich	hejterski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+hejterskiego	hejterski	adj:sg:acc:m1.m2:pos		pot.
+hejterskiego	hejterski	adj:sg:gen:m1.m2.m3.n1.n2:pos		pot.
+hejterskie	hejterski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		pot.
+hejterskie	hejterski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		pot.
+hejterskie	hejterski	adj:sg:acc:n1.n2:pos		pot.
+hejterskie	hejterski	adj:sg:nom.voc:n1.n2:pos		pot.
+hejterskiej	hejterski	adj:sg:dat:f:pos		pot.
+hejterskiej	hejterski	adj:sg:gen:f:pos		pot.
+hejterskiej	hejterski	adj:sg:loc:f:pos		pot.
+hejterskiemu	hejterski	adj:sg:dat:m1.m2.m3.n1.n2:pos		pot.
+hejterski	hejterski	adj:sg:acc:m3:pos		pot.
+hejterski	hejterski	adj:sg:nom.voc:m1.m2.m3:pos		pot.
+hejterskim	hejterski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+hejterskim	hejterski	adj:sg:inst:m1.m2.m3.n1.n2:pos		pot.
+hejterskim	hejterski	adj:sg:loc:m1.m2.m3.n1.n2:pos		pot.
+hejterskimi	hejterski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+hejtersko	hejterski	adja		pot.
+hejtersku	hejterski	adjp		pot.
+hejtersko	hejtersko	adv:pos		pot.
+hejterskościach	hejterskość	subst:pl:loc:f		pot.
+hejterskościami	hejterskość	subst:pl:inst:f		pot.
+hejterskością	hejterskość	subst:sg:inst:f		pot.
+hejterskości	hejterskość	subst:pl:acc:f		pot.
+hejterskości	hejterskość	subst:pl:gen:f		pot.
+hejterskości	hejterskość	subst:pl:nom:f		pot.
+hejterskości	hejterskość	subst:pl:voc:f		pot.
+hejterskości	hejterskość	subst:sg:dat:f		pot.
+hejterskości	hejterskość	subst:sg:gen:f		pot.
+hejterskości	hejterskość	subst:sg:loc:f		pot.
+hejterskości	hejterskość	subst:sg:voc:f		pot.
+hejterskościom	hejterskość	subst:pl:dat:f		pot.
+hejterskość	hejterskość	subst:sg:acc:f		pot.
+hejterskość	hejterskość	subst:sg:nom:f		pot.
+hejterstwach	hejterstwo	subst:pl:loc:n2	nazwa pospolita	pot.
+hejterstwa	hejterstwo	subst:pl:acc:n2	nazwa pospolita	pot.
+hejterstwa	hejterstwo	subst:pl:nom:n2	nazwa pospolita	pot.
+hejterstwa	hejterstwo	subst:pl:voc:n2	nazwa pospolita	pot.
+hejterstwa	hejterstwo	subst:sg:gen:n2	nazwa pospolita	pot.
+hejterstwami	hejterstwo	subst:pl:inst:n2	nazwa pospolita	pot.
+hejterstwem	hejterstwo	subst:sg:inst:n2	nazwa pospolita	pot.
+hejterstw	hejterstwo	subst:pl:gen:n2	nazwa pospolita	pot.
+hejterstwie	hejterstwo	subst:sg:loc:n2	nazwa pospolita	pot.
+hejterstwo	hejterstwo	subst:sg:acc:n2	nazwa pospolita	pot.
+hejterstwo	hejterstwo	subst:sg:nom:n2	nazwa pospolita	pot.
+hejterstwo	hejterstwo	subst:sg:voc:n2	nazwa pospolita	pot.
+hejterstwom	hejterstwo	subst:pl:dat:n2	nazwa pospolita	pot.
+hejterstwu	hejterstwo	subst:sg:dat:n2	nazwa pospolita	pot.
 hejt	hejt:i	interj		gwar.|rzad.
 hejtować	hejtować	inf:imperf		pot.
 hejtowaliby	hejtować	cond:pl:m1.p1:ter:imperf		pot.
@@ -23271,6 +23355,45 @@ heteronomicznym	heteronomiczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 heteronomicznym	heteronomiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 heteronomicznym	heteronomiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 heteronomicznymi	heteronomiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+heteronormatywnie	heteronormatywnie	adv:pos		
+heteronormatywnościach	heteronormatywność	subst:pl:loc:f	nazwa pospolita	
+heteronormatywnościami	heteronormatywność	subst:pl:inst:f	nazwa pospolita	
+heteronormatywnością	heteronormatywność	subst:sg:inst:f	nazwa pospolita	
+heteronormatywności	heteronormatywność	subst:pl:acc:f	nazwa pospolita	
+heteronormatywności	heteronormatywność	subst:pl:gen:f	nazwa pospolita	
+heteronormatywności	heteronormatywność	subst:pl:nom:f	nazwa pospolita	
+heteronormatywności	heteronormatywność	subst:pl:voc:f	nazwa pospolita	
+heteronormatywności	heteronormatywność	subst:sg:dat:f	nazwa pospolita	
+heteronormatywności	heteronormatywność	subst:sg:gen:f	nazwa pospolita	
+heteronormatywności	heteronormatywność	subst:sg:loc:f	nazwa pospolita	
+heteronormatywności	heteronormatywność	subst:sg:voc:f	nazwa pospolita	
+heteronormatywnościom	heteronormatywność	subst:pl:dat:f	nazwa pospolita	
+heteronormatywność	heteronormatywność	subst:sg:acc:f	nazwa pospolita	
+heteronormatywność	heteronormatywność	subst:sg:nom:f	nazwa pospolita	
+heteronormatywna	heteronormatywny	adj:sg:nom.voc:f:pos		
+heteronormatywną	heteronormatywny	adj:sg:acc:f:pos		
+heteronormatywną	heteronormatywny	adj:sg:inst:f:pos		
+heteronormatywnego	heteronormatywny	adj:sg:acc:m1.m2:pos		
+heteronormatywnego	heteronormatywny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+heteronormatywne	heteronormatywny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+heteronormatywne	heteronormatywny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+heteronormatywne	heteronormatywny	adj:sg:acc:n1.n2:pos		
+heteronormatywne	heteronormatywny	adj:sg:nom.voc:n1.n2:pos		
+heteronormatywnej	heteronormatywny	adj:sg:dat:f:pos		
+heteronormatywnej	heteronormatywny	adj:sg:gen:f:pos		
+heteronormatywnej	heteronormatywny	adj:sg:loc:f:pos		
+heteronormatywnemu	heteronormatywny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+heteronormatywni	heteronormatywny	adj:pl:nom.voc:m1.p1:pos		
+heteronormatywno	heteronormatywny	adja		
+heteronormatywnych	heteronormatywny	adj:pl:acc:m1.p1:pos		
+heteronormatywnych	heteronormatywny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+heteronormatywnych	heteronormatywny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+heteronormatywny	heteronormatywny	adj:sg:acc:m3:pos		
+heteronormatywny	heteronormatywny	adj:sg:nom.voc:m1.m2.m3:pos		
+heteronormatywnym	heteronormatywny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+heteronormatywnym	heteronormatywny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+heteronormatywnym	heteronormatywny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+heteronormatywnymi	heteronormatywny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 heteroplastyce	heteroplastyka	subst:sg:dat:f	nazwa pospolita	
 heteroplastyce	heteroplastyka	subst:sg:loc:f	nazwa pospolita	
 heteroplastykach	heteroplastyka	subst:pl:loc:f	nazwa pospolita	

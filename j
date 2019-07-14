@@ -29714,6 +29714,7 @@ jezioro	jezioro	subst:sg:voc:n2	nazwa pospolita
 jeziorom	jezioro	subst:pl:dat:n2	nazwa pospolita	
 jezioru	jezioro	subst:sg:dat:n2	nazwa pospolita	
 jeziorze	jezioro	subst:sg:loc:n2	nazwa pospolita	
+jez	jezioro	brev:pun		geogr.
 jeziorowościach	jeziorowość	subst:pl:loc:f	nazwa pospolita	
 jeziorowościami	jeziorowość	subst:pl:inst:f	nazwa pospolita	
 jeziorowością	jeziorowość	subst:sg:inst:f	nazwa pospolita	

@@ -1311,6 +1311,8 @@ Inkathy	Inkatha	subst:pl:acc:f	nazwa organizacji
 Inkathy	Inkatha	subst:pl:nom:f	nazwa organizacji	
 Inkathy	Inkatha	subst:pl:voc:f	nazwa organizacji	
 Inkathy	Inkatha	subst:sg:gen:f	nazwa organizacji	
+IMHO	in_my_humble_opinion	brev:npun		
+IMO	in_my_opinion	brev:npun		
 Innocencie	Innocenta	subst:sg:dat:f	imię	
 Innocencie	Innocenta	subst:sg:loc:f	imię	
 Innocentach	Innocenta	subst:pl:loc:f	imię	
@@ -1607,8 +1609,20 @@ IPN-ami	IPN	subst:pl:inst:m3	nazwa instytucji
 IPN-em	IPN	subst:sg:inst:m3	nazwa instytucji	
 IPN-ie	IPN	subst:sg:loc:m3	nazwa instytucji	
 IPN-ie	IPN	subst:sg:voc:m3	nazwa instytucji	
+IPN	IPN	subst:pl:acc:m3	nazwa instytucji	
+IPN	IPN	subst:pl:dat:m3	nazwa instytucji	
+IPN	IPN	subst:pl:gen:m3	nazwa instytucji	
+IPN	IPN	subst:pl:inst:m3	nazwa instytucji	
+IPN	IPN	subst:pl:loc:m3	nazwa instytucji	
+IPN	IPN	subst:pl:nom:m3	nazwa instytucji	
+IPN	IPN	subst:pl:voc:m3	nazwa instytucji	
 IPN	IPN	subst:sg:acc:m3	nazwa instytucji	
+IPN	IPN	subst:sg:dat:m3	nazwa instytucji	
+IPN	IPN	subst:sg:gen:m3	nazwa instytucji	
+IPN	IPN	subst:sg:inst:m3	nazwa instytucji	
+IPN	IPN	subst:sg:loc:m3	nazwa instytucji	
 IPN	IPN	subst:sg:nom:m3	nazwa instytucji	
+IPN	IPN	subst:sg:voc:m3	nazwa instytucji	
 IPN-om	IPN	subst:pl:dat:m3	nazwa instytucji	
 IPN-owi	IPN	subst:sg:dat:m3	nazwa instytucji	
 IPN-ów	IPN	subst:pl:gen:m3	nazwa instytucji	

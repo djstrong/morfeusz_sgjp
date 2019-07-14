@@ -204,6 +204,45 @@ quebracho	quebracho	subst:sg:voc:n2	nazwa pospolita
 quebrach	quebracho	subst:pl:gen:n2	nazwa pospolita	
 quebrachu	quebracho	subst:sg:dat:n2	nazwa pospolita	
 quebrachu	quebracho	subst:sg:loc:n2	nazwa pospolita	
+queerowo	queerowo	adv:pos		
+queerowościach	queerowość	subst:pl:loc:f		
+queerowościami	queerowość	subst:pl:inst:f		
+queerowością	queerowość	subst:sg:inst:f		
+queerowościom	queerowość	subst:pl:dat:f		
+queerowości	queerowość	subst:pl:acc:f		
+queerowości	queerowość	subst:pl:gen:f		
+queerowości	queerowość	subst:pl:nom:f		
+queerowości	queerowość	subst:pl:voc:f		
+queerowości	queerowość	subst:sg:dat:f		
+queerowości	queerowość	subst:sg:gen:f		
+queerowości	queerowość	subst:sg:loc:f		
+queerowości	queerowość	subst:sg:voc:f		
+queerowość	queerowość	subst:sg:acc:f		
+queerowość	queerowość	subst:sg:nom:f		
+queerowa	queerowy	adj:sg:nom.voc:f:pos		
+queerową	queerowy	adj:sg:acc:f:pos		
+queerową	queerowy	adj:sg:inst:f:pos		
+queerowego	queerowy	adj:sg:acc:m1.m2:pos		
+queerowego	queerowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+queerowej	queerowy	adj:sg:dat:f:pos		
+queerowej	queerowy	adj:sg:gen:f:pos		
+queerowej	queerowy	adj:sg:loc:f:pos		
+queerowemu	queerowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+queerowe	queerowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+queerowe	queerowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+queerowe	queerowy	adj:sg:acc:n1.n2:pos		
+queerowe	queerowy	adj:sg:nom.voc:n1.n2:pos		
+queerowi	queerowy	adj:pl:nom.voc:m1.p1:pos		
+queerowo	queerowy	adja		
+queerowych	queerowy	adj:pl:acc:m1.p1:pos		
+queerowych	queerowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+queerowych	queerowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+queerowymi	queerowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+queerowym	queerowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+queerowym	queerowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+queerowym	queerowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+queerowy	queerowy	adj:sg:acc:m3:pos		
+queerowy	queerowy	adj:sg:nom.voc:m1.m2.m3:pos		
 quetzalach	quetzal	subst:pl:loc:m2	nazwa pospolita	
 quetzalami	quetzal	subst:pl:inst:m2	nazwa pospolita	
 quetzala	quetzal	subst:sg:acc:m2	nazwa pospolita	

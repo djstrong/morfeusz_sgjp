@@ -10087,6 +10087,7 @@ Postrożnym	Postrożny	subst:sg:inst:m1	nazwisko
 Postrożnym	Postrożny	subst:sg:loc:m1	nazwisko	
 Postrożny	Postrożny	subst:sg:nom:m1	nazwisko	
 Postrożny	Postrożny	subst:sg:voc:m1	nazwisko	
+PS	post_scriptum	brev:npun		
 Poświatowscy	Poświatowski	subst:pl:nom:m1	nazwisko	
 Poświatowscy	Poświatowski	subst:pl:voc:m1	nazwisko	
 Poświatowskich	Poświatowski	subst:pl:acc:m1	nazwisko	

@@ -52686,6 +52686,7 @@ fotografii	fotografia	subst:sg:loc:f	nazwa pospolita
 fotografij	fotografia	subst:pl:gen:f	nazwa pospolita	arch.|char.
 fotografio	fotografia	subst:sg:voc:f	nazwa pospolita	
 fotografiom	fotografia	subst:pl:dat:f	nazwa pospolita	
+fot	fotografia	brev:pun		
 fotograficzce	fotograficzka	subst:sg:dat:f	nazwa pospolita	
 fotograficzce	fotograficzka	subst:sg:loc:f	nazwa pospolita	
 fotograficzek	fotograficzka	subst:pl:gen:f	nazwa pospolita	
