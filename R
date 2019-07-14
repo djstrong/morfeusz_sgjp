@@ -363,7 +363,6 @@ Radociechami	Radociech	subst:pl:inst:m1	imię
 Radociecha	Radociech	subst:sg:gen.acc:m1	imię	
 Radociecha	Radociech	subst:sg:gen:m1	imię	
 Radociechem	Radociech	subst:sg:inst:m1	imię	
-Radocieche	Radociech	depr:pl:nom.acc.voc:m2	imię	
 Radociechom	Radociech	subst:pl:dat:m1	imię	
 Radociechowie	Radociech	subst:pl:nom.voc:m1	imię	
 Radociechowi	Radociech	subst:sg:dat:m1	imię	

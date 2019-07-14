@@ -7068,7 +7068,6 @@ Bożeciecha	Bożeciech	subst:sg:gen:m1	imię
 Bożeciechach	Bożeciech	subst:pl:loc:m1	imię	
 Bożeciechami	Bożeciech	subst:pl:inst:m1	imię	
 Bożeciech	Bożeciech	subst:sg:nom:m1	imię	
-Bożecieche	Bożeciech	depr:pl:nom.acc.voc:m2	imię	
 Bożeciechem	Bożeciech	subst:sg:inst:m1	imię	
 Bożeciechom	Bożeciech	subst:pl:dat:m1	imię	
 Bożeciechowi	Bożeciech	subst:sg:dat:m1	imię	
@@ -9403,7 +9402,6 @@ Bunschowie	Bunsch	subst:pl:nom.voc:m1	nazwisko
 Bunschów	Bunsch	subst:pl:gen.acc:m1	nazwisko	
 Bunschu	Bunsch	subst:sg:loc:m1	nazwisko	
 Bunschu	Bunsch	subst:sg:voc:m1	nazwisko	
-Bunschy	Bunsch	depr:pl:nom.acc.voc:m2	nazwisko	
 Bunsena	Bunsen	subst:sg:gen.acc:m1	nazwisko	
 Bunsena	Bunsen	subst:sg:gen:m1	nazwisko	
 Bunsenach	Bunsen	subst:pl:loc:m1	nazwisko	
@@ -9946,14 +9944,13 @@ Bykownia	Bykownia	subst:sg:nom:f	nazwa geograficzna
 Bykowniach	Bykownia	subst:pl:loc:f	nazwa geograficzna	
 Bykowniami	Bykownia	subst:pl:inst:f	nazwa geograficzna	
 Bykownią	Bykownia	subst:sg:inst:f	nazwa geograficzna	
-Bykowni	Bykownia	subst:pl:gen:f	nazwa geograficzna	hom.
+Bykowni	Bykownia	subst:pl:gen:f	nazwa geograficzna	
 Bykowni	Bykownia	subst:sg:dat.loc:f	nazwa geograficzna	
 Bykowni	Bykownia	subst:sg:gen:f	nazwa geograficzna	
 Bykownie	Bykownia	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Bykownię	Bykownia	subst:sg:acc:f	nazwa geograficzna	
 Bykownio	Bykownia	subst:sg:voc:f	nazwa geograficzna	
 Bykowniom	Bykownia	subst:pl:dat:f	nazwa geograficzna	
-Bykowń	Bykownia	subst:pl:gen:f	nazwa geograficzna	char.
 Bycy	Byk:s1	subst:pl:nom.voc:m1	nazwa pospolita	
 Byka	Byk:s1	subst:sg:gen.acc:m1	nazwa pospolita	
 Byka	Byk:s1	subst:sg:gen:m1	nazwa pospolita	

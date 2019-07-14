@@ -18069,6 +18069,16 @@ informacyjnymi	informacyjny	adj:pl:inst:m1.m2.m3.f.n:pos
 informacyjnym	informacyjny	adj:pl:dat:m1.m2.m3.f.n:pos		
 informacyjnym	informacyjny	adj:sg:inst:m1.m2.m3.n:pos		
 informacyjnym	informacyjny	adj:sg:loc:m1.m2.m3.n:pos		
+informatoriach	informatorium	subst:pl:loc:n:ncol	nazwa pospolita	biblt.
+informatoria	informatorium	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	biblt.
+informatoriami	informatorium	subst:pl:inst:n:ncol	nazwa pospolita	biblt.
+informatoriom	informatorium	subst:pl:dat:n:ncol	nazwa pospolita	biblt.
+informatoriów	informatorium	subst:pl:gen:n:ncol	nazwa pospolita	biblt.
+informatorium	informatorium	subst:sg:dat:n:ncol	nazwa pospolita	biblt.
+informatorium	informatorium	subst:sg:gen:n:ncol	nazwa pospolita	biblt.
+informatorium	informatorium	subst:sg:inst:n:ncol	nazwa pospolita	biblt.
+informatorium	informatorium	subst:sg:loc:n:ncol	nazwa pospolita	biblt.
+informatorium	informatorium	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	biblt.
 informatorce	informatorka	subst:sg:dat.loc:f	nazwa pospolita	
 informatorek	informatorka	subst:pl:gen:f	nazwa pospolita	
 informatorkach	informatorka	subst:pl:loc:f	nazwa pospolita	

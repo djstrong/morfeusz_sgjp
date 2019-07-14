@@ -12032,18 +12032,6 @@ ekspozyturom	ekspozytura	subst:pl:dat:f	nazwa pospolita
 ekspozytury	ekspozytura	subst:pl:nom.acc.voc:f	nazwa pospolita	
 ekspozytury	ekspozytura	subst:sg:gen:f	nazwa pospolita	
 ekspozyturze	ekspozytura	subst:sg:dat.loc:f	nazwa pospolita	
-ekspratriacjach	ekspratriacja	subst:pl:loc:f	nazwa pospolita	
-ekspratriacja	ekspratriacja	subst:sg:nom:f	nazwa pospolita	
-ekspratriacjami	ekspratriacja	subst:pl:inst:f	nazwa pospolita	
-ekspratriacją	ekspratriacja	subst:sg:inst:f	nazwa pospolita	
-ekspratriacje	ekspratriacja	subst:pl:nom.acc.voc:f	nazwa pospolita	
-ekspratriację	ekspratriacja	subst:sg:acc:f	nazwa pospolita	
-ekspratriacji	ekspratriacja	subst:pl:gen:f	nazwa pospolita	hom.
-ekspratriacji	ekspratriacja	subst:sg:dat.loc:f	nazwa pospolita	
-ekspratriacji	ekspratriacja	subst:sg:gen:f	nazwa pospolita	
-ekspratriacjo	ekspratriacja	subst:sg:voc:f	nazwa pospolita	
-ekspratriacjom	ekspratriacja	subst:pl:dat:f	nazwa pospolita	
-ekspratriacyj	ekspratriacja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 ekspresjach	ekspresja	subst:pl:loc:f	nazwa pospolita	
 ekspresja	ekspresja	subst:sg:nom:f	nazwa pospolita	
 ekspresjami	ekspresja	subst:pl:inst:f	nazwa pospolita	

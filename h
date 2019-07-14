@@ -18917,17 +18917,28 @@ hermafrodytom	hermafrodyta:s1	subst:pl:dat:f	nazwa pospolita
 hermafrodyty	hermafrodyta:s1	subst:pl:nom.acc.voc:f	nazwa pospolita	
 hermafrodyty	hermafrodyta:s1	subst:sg:gen:f	nazwa pospolita	
 hermafrodycie	hermafrodyta:s2	subst:sg:dat.loc:m1	nazwa pospolita	
+hermafrodycie	hermafrodyta:s2	subst:sg:dat.loc:m2	nazwa pospolita	
 hermafrodyci	hermafrodyta:s2	subst:pl:nom.voc:m1	nazwa pospolita	
 hermafrodytach	hermafrodyta:s2	subst:pl:loc:m1	nazwa pospolita	
+hermafrodytach	hermafrodyta:s2	subst:pl:loc:m2	nazwa pospolita	
 hermafrodyta	hermafrodyta:s2	subst:sg:nom:m1	nazwa pospolita	
+hermafrodyta	hermafrodyta:s2	subst:sg:nom:m2	nazwa pospolita	
 hermafrodytami	hermafrodyta:s2	subst:pl:inst:m1	nazwa pospolita	
+hermafrodytami	hermafrodyta:s2	subst:pl:inst:m2	nazwa pospolita	
 hermafrodytą	hermafrodyta:s2	subst:sg:inst:m1	nazwa pospolita	
+hermafrodytą	hermafrodyta:s2	subst:sg:inst:m2	nazwa pospolita	
 hermafrodytę	hermafrodyta:s2	subst:sg:acc:m1	nazwa pospolita	
+hermafrodytę	hermafrodyta:s2	subst:sg:acc:m2	nazwa pospolita	
 hermafrodyto	hermafrodyta:s2	subst:sg:voc:m1	nazwa pospolita	
+hermafrodyto	hermafrodyta:s2	subst:sg:voc:m2	nazwa pospolita	
 hermafrodytom	hermafrodyta:s2	subst:pl:dat:m1	nazwa pospolita	
+hermafrodytom	hermafrodyta:s2	subst:pl:dat:m2	nazwa pospolita	
 hermafrodytów	hermafrodyta:s2	subst:pl:gen.acc:m1	nazwa pospolita	
+hermafrodytów	hermafrodyta:s2	subst:pl:gen:m2	nazwa pospolita	
 hermafrodyty	hermafrodyta:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+hermafrodyty	hermafrodyta:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 hermafrodyty	hermafrodyta:s2	subst:sg:gen:m1	nazwa pospolita	
+hermafrodyty	hermafrodyta:s2	subst:sg:gen:m2	nazwa pospolita	
 hermafrodytycznościach	hermafrodytyczność	subst:pl:loc:f	nazwa pospolita	
 hermafrodytycznościami	hermafrodytyczność	subst:pl:inst:f	nazwa pospolita	
 hermafrodytycznością	hermafrodytyczność	subst:sg:inst:f	nazwa pospolita	
@@ -24946,9 +24957,10 @@ hipersomniami	hipersomnia	subst:pl:inst:f	nazwa pospolita
 hipersomnią	hipersomnia	subst:sg:inst:f	nazwa pospolita	
 hipersomnie	hipersomnia	subst:pl:nom.acc.voc:f	nazwa pospolita	
 hipersomnię	hipersomnia	subst:sg:acc:f	nazwa pospolita	
-hipersomni	hipersomnia	subst:pl:gen:f	nazwa pospolita	
-hipersomni	hipersomnia	subst:sg:dat.loc:f	nazwa pospolita	
-hipersomni	hipersomnia	subst:sg:gen:f	nazwa pospolita	
+hipersomnii	hipersomnia	subst:pl:gen:f	nazwa pospolita	hom.
+hipersomnii	hipersomnia	subst:sg:dat.loc:f	nazwa pospolita	
+hipersomnii	hipersomnia	subst:sg:gen:f	nazwa pospolita	
+hipersomnij	hipersomnia	subst:pl:gen:f	nazwa pospolita	arch.|char.
 hipersomnio	hipersomnia	subst:sg:voc:f	nazwa pospolita	
 hipersomniom	hipersomnia	subst:pl:dat:f	nazwa pospolita	
 hipersonicznościach	hipersoniczność	subst:pl:loc:f	nazwa pospolita	

@@ -17583,16 +17583,6 @@ lekozależności	lekozależność	subst:sg:voc:f	nazwa pospolita
 lekozależnościom	lekozależność	subst:pl:dat:f	nazwa pospolita	
 lekozależność	lekozależność	subst:sg:acc:f	nazwa pospolita	
 lekozależność	lekozależność	subst:sg:nom:f	nazwa pospolita	
-lekoznastwach	lekoznastwo	subst:pl:loc:n:ncol	nazwa pospolita	
-lekoznastwa	lekoznastwo	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
-lekoznastwa	lekoznastwo	subst:sg:gen:n:ncol	nazwa pospolita	
-lekoznastwami	lekoznastwo	subst:pl:inst:n:ncol	nazwa pospolita	
-lekoznastwem	lekoznastwo	subst:sg:inst:n:ncol	nazwa pospolita	
-lekoznastwie	lekoznastwo	subst:sg:loc:n:ncol	nazwa pospolita	
-lekoznastw	lekoznastwo	subst:pl:gen:n:ncol	nazwa pospolita	
-lekoznastwo	lekoznastwo	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
-lekoznastwom	lekoznastwo	subst:pl:dat:n:ncol	nazwa pospolita	
-lekoznastwu	lekoznastwo	subst:sg:dat:n:ncol	nazwa pospolita	
 lekoznawstwach	lekoznawstwo	subst:pl:loc:n:ncol	nazwa pospolita	
 lekoznawstwa	lekoznawstwo	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
 lekoznawstwa	lekoznawstwo	subst:sg:gen:n:ncol	nazwa pospolita	

@@ -52822,17 +52822,6 @@ frezarki	frezarka	subst:pl:nom.acc.voc:f	nazwa pospolita
 frezarki	frezarka	subst:sg:gen:f	nazwa pospolita	
 frezarko	frezarka	subst:sg:voc:f	nazwa pospolita	
 frezarkom	frezarka	subst:pl:dat:f	nazwa pospolita	
-frezarko-kopiarce	frezarko-kopiarka	subst:sg:dat.loc:f	nazwa pospolita	
-frezarko-kopiarek	frezarko-kopiarka	subst:pl:gen:f	nazwa pospolita	
-frezarko-kopiarkach	frezarko-kopiarka	subst:pl:loc:f	nazwa pospolita	
-frezarko-kopiarka	frezarko-kopiarka	subst:sg:nom:f	nazwa pospolita	
-frezarko-kopiarkami	frezarko-kopiarka	subst:pl:inst:f	nazwa pospolita	
-frezarko-kopiarką	frezarko-kopiarka	subst:sg:inst:f	nazwa pospolita	
-frezarko-kopiarkę	frezarko-kopiarka	subst:sg:acc:f	nazwa pospolita	
-frezarko-kopiarki	frezarko-kopiarka	subst:pl:nom.acc.voc:f	nazwa pospolita	
-frezarko-kopiarki	frezarko-kopiarka	subst:sg:gen:f	nazwa pospolita	
-frezarko-kopiarko	frezarko-kopiarka	subst:sg:voc:f	nazwa pospolita	
-frezarko-kopiarkom	frezarko-kopiarka	subst:pl:dat:f	nazwa pospolita	
 frezerach	frezer	subst:pl:loc:m1	nazwa pospolita	
 frezera	frezer	subst:sg:gen.acc:m1	nazwa pospolita	
 frezera	frezer	subst:sg:gen:m1	nazwa pospolita	

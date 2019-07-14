@@ -4476,17 +4476,6 @@ Cyziowie	Cyzio	subst:pl:nom.voc:m1	nazwisko
 Cyziów	Cyzio	subst:pl:gen.acc:m1	nazwisko	
 Cyziu	Cyzio	subst:sg:loc:m1	nazwisko	
 Cyziu	Cyzio	subst:sg:voc:m1	nazwisko	
-Czacach	Czaca	subst:pl:loc:f	nazwa geograficzna	
-Czaca	Czaca	subst:sg:nom:f	nazwa geograficzna	
-Czacami	Czaca	subst:pl:inst:f	nazwa geograficzna	
-Czacą	Czaca	subst:sg:inst:f	nazwa geograficzna	
-Czac	Czaca	subst:pl:gen:f	nazwa geograficzna	
-Czace	Czaca	subst:pl:nom.acc.voc:f	nazwa geograficzna	
-Czacę	Czaca	subst:sg:acc:f	nazwa geograficzna	
-Czaco	Czaca	subst:sg:voc:f	nazwa geograficzna	
-Czacom	Czaca	subst:pl:dat:f	nazwa geograficzna	
-Czacy	Czaca	subst:sg:dat.loc:f	nazwa geograficzna	
-Czacy	Czaca	subst:sg:gen:f	nazwa geograficzna	
 Czachowska	Czachowska	subst:sg:nom:f	nazwisko	
 Czachowska	Czachowska	subst:sg:voc:f	nazwisko	
 Czachowską	Czachowska	subst:sg:acc:f	nazwisko	
@@ -4546,6 +4535,17 @@ Czadu	Czad	subst:sg:gen:m3	nazwa geograficzna
 Czady	Czad	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Czadzie	Czad	subst:sg:loc:m3	nazwa geograficzna	
 Czadzie	Czad	subst:sg:voc:m3	nazwa geograficzna	
+Czadcach	Czadca	subst:pl:loc:f	nazwa geograficzna	
+Czadca	Czadca	subst:sg:nom:f	nazwa geograficzna	
+Czadcami	Czadca	subst:pl:inst:f	nazwa geograficzna	
+Czadcą	Czadca	subst:sg:inst:f	nazwa geograficzna	
+Czadc	Czadca	subst:pl:gen:f	nazwa geograficzna	
+Czadce	Czadca	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Czadcę	Czadca	subst:sg:acc:f	nazwa geograficzna	
+Czadco	Czadca	subst:sg:voc:f	nazwa geograficzna	
+Czadcom	Czadca	subst:pl:dat:f	nazwa geograficzna	
+Czadcy	Czadca	subst:sg:dat.loc:f	nazwa geograficzna	
+Czadcy	Czadca	subst:sg:gen:f	nazwa geograficzna	
 Czai	Czaja	subst:sg:dat.loc:m1	nazwisko	
 Czai	Czaja	subst:sg:gen:m1	nazwisko	
 Czajach	Czaja	subst:pl:loc:m1	nazwisko	
@@ -4943,6 +4943,20 @@ Czciborom	Czcibora	subst:pl:dat:f	imię
 Czcibory	Czcibora	subst:pl:nom.acc.voc:f	imię	
 Czcibory	Czcibora	subst:sg:gen:f	imię	
 Czciborze	Czcibora	subst:sg:dat.loc:f	imię	
+Czciborach	Czcibór	subst:pl:loc:m1	imię	
+Czcibora	Czcibór	subst:sg:gen.acc:m1	imię	
+Czcibora	Czcibór	subst:sg:gen:m1	imię	
+Czciborami	Czcibór	subst:pl:inst:m1	imię	
+Czciborem	Czcibór	subst:sg:inst:m1	imię	
+Czciborom	Czcibór	subst:pl:dat:m1	imię	
+Czciborowi	Czcibór	subst:sg:dat:m1	imię	
+Czciborowie	Czcibór	subst:pl:nom.voc:m1	imię	
+Czciborów	Czcibór	subst:pl:gen.acc:m1	imię	
+Czcibory	Czcibór	depr:pl:nom.acc.voc:m2	imię	
+Czciborze	Czcibór	subst:sg:loc:m1	imię	
+Czciborze	Czcibór	subst:sg:voc:m1	imię	
+Czciborzy	Czcibór	subst:pl:nom.voc:m1	imię	
+Czcibór	Czcibór	subst:sg:nom:m1	imię	
 Czciradach	Czcirad	subst:pl:loc:m1	imię	
 Czcirada	Czcirad	subst:sg:gen.acc:m1	imię	
 Czcirada	Czcirad	subst:sg:gen:m1	imię	

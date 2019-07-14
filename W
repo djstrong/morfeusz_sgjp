@@ -2015,31 +2015,19 @@ Weli	Wel	subst:sg:voc:f	nazwa geograficzna
 Welom	Wel	subst:pl:dat:f	nazwa geograficzna	
 Wel	Wel	subst:sg:acc:f	nazwa geograficzna	
 Wel	Wel	subst:sg:nom:f	nazwa geograficzna	
-Welach	Wela:s1	subst:pl:loc:f	imię	
-Welami	Wela:s1	subst:pl:inst:f	imię	
-Wela	Wela:s1	subst:sg:nom:f	imię	
-Welą	Wela:s1	subst:sg:inst:f	imię	
-Wele	Wela:s1	subst:pl:nom.acc.voc:f	imię	
-Welę	Wela:s1	subst:sg:acc:f	imię	
-Weli	Wela:s1	subst:pl:gen:f	imię	hom.
-Weli	Wela:s1	subst:sg:dat.loc:f	imię	
-Weli	Wela:s1	subst:sg:gen:f	imię	
-Welom	Wela:s1	subst:pl:dat:f	imię	
-Welo	Wela:s1	subst:sg:voc:f	imię	
-Welu	Wela:s1	subst:sg:voc:f	imię	
-Wel	Wela:s1	subst:pl:gen:f	imię	char.
-Welach	Wela:s2	subst:pl:loc:f	nazwa geograficzna	
-Welami	Wela:s2	subst:pl:inst:f	nazwa geograficzna	
-Wela	Wela:s2	subst:sg:nom:f	nazwa geograficzna	
-Welą	Wela:s2	subst:sg:inst:f	nazwa geograficzna	
-Wele	Wela:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
-Welę	Wela:s2	subst:sg:acc:f	nazwa geograficzna	
-Weli	Wela:s2	subst:pl:gen:f	nazwa geograficzna	hom.
-Weli	Wela:s2	subst:sg:dat.loc:f	nazwa geograficzna	
-Weli	Wela:s2	subst:sg:gen:f	nazwa geograficzna	
-Welom	Wela:s2	subst:pl:dat:f	nazwa geograficzna	
-Welo	Wela:s2	subst:sg:voc:f	nazwa geograficzna	
-Wel	Wela:s2	subst:pl:gen:f	nazwa geograficzna	char.
+Welach	Wela	subst:pl:loc:f	imię	
+Welami	Wela	subst:pl:inst:f	imię	
+Wela	Wela	subst:sg:nom:f	imię	
+Welą	Wela	subst:sg:inst:f	imię	
+Wele	Wela	subst:pl:nom.acc.voc:f	imię	
+Welę	Wela	subst:sg:acc:f	imię	
+Weli	Wela	subst:pl:gen:f	imię	hom.
+Weli	Wela	subst:sg:dat.loc:f	imię	
+Weli	Wela	subst:sg:gen:f	imię	
+Welom	Wela	subst:pl:dat:f	imię	
+Welo	Wela	subst:sg:voc:f	imię	
+Welu	Wela	subst:sg:voc:f	imię	
+Wel	Wela	subst:pl:gen:f	imię	char.
 Wellesach	Welles	subst:pl:loc:m1	nazwisko	
 Wellesami	Welles	subst:pl:inst:m1	nazwisko	
 Wellesa	Welles	subst:sg:gen.acc:m1	nazwisko	
@@ -7672,7 +7660,6 @@ Wszeciechami	Wszeciech	subst:pl:inst:m1	imię
 Wszeciecha	Wszeciech	subst:sg:gen.acc:m1	imię	
 Wszeciecha	Wszeciech	subst:sg:gen:m1	imię	
 Wszeciechem	Wszeciech	subst:sg:inst:m1	imię	
-Wszecieche	Wszeciech	depr:pl:nom.acc.voc:m2	imię	
 Wszeciechom	Wszeciech	subst:pl:dat:m1	imię	
 Wszeciechowie	Wszeciech	subst:pl:nom.voc:m1	imię	
 Wszeciechowi	Wszeciech	subst:sg:dat:m1	imię	

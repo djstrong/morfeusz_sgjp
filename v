@@ -20,6 +20,17 @@ vademecum	vademecum	subst:sg:gen:n:ncol	nazwa pospolita
 vademecum	vademecum	subst:sg:inst:n:ncol	nazwa pospolita	
 vademecum	vademecum	subst:sg:loc:n:ncol	nazwa pospolita	
 vademecum	vademecum	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
+validolach	validol	subst:pl:loc:m3	nazwa pospolita	
+validolami	validol	subst:pl:inst:m3	nazwa pospolita	
+validolem	validol	subst:sg:inst:m3	nazwa pospolita	
+validole	validol	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+validoli	validol	subst:pl:gen:m3	nazwa pospolita	
+validolom	validol	subst:pl:dat:m3	nazwa pospolita	
+validolowi	validol	subst:sg:dat:m3	nazwa pospolita	
+validolu	validol	subst:sg:gen:m3	nazwa pospolita	
+validolu	validol	subst:sg:loc:m3	nazwa pospolita	
+validolu	validol	subst:sg:voc:m3	nazwa pospolita	
+validol	validol	subst:sg:nom.acc:m3	nazwa pospolita	
 valpolicellach	valpolicella	subst:pl:loc:f	nazwa pospolita	
 valpolicellami	valpolicella	subst:pl:inst:f	nazwa pospolita	
 valpolicella	valpolicella	subst:sg:nom:f	nazwa pospolita	

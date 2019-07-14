@@ -748,7 +748,6 @@ Kalimachach	Kalimach	subst:pl:loc:m1	imię
 Kalimacha	Kalimach	subst:sg:gen.acc:m1	imię	
 Kalimacha	Kalimach	subst:sg:gen:m1	imię	
 Kalimachami	Kalimach	subst:pl:inst:m1	imię	
-Kalimache	Kalimach	depr:pl:nom.acc.voc:m2	imię	
 Kalimachem	Kalimach	subst:sg:inst:m1	imię	
 Kalimach	Kalimach	subst:sg:nom:m1	imię	
 Kalimachom	Kalimach	subst:pl:dat:m1	imię	

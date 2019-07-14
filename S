@@ -10635,17 +10635,17 @@ Symchów	Symcha:s1	subst:pl:gen.acc:m1	imię
 Symchy	Symcha:s1	depr:pl:nom.acc.voc:m2	imię	
 Symchy	Symcha:s1	subst:sg:gen:m1	imię	
 Symsze	Symcha:s1	subst:sg:dat.loc:m1	imię	
-Symchach	Symcha:s2	subst:pl:loc:f	imię	
-Symchami	Symcha:s2	subst:pl:inst:f	imię	
-Symcha	Symcha:s2	subst:sg:nom:f	imię	
-Symchą	Symcha:s2	subst:sg:inst:f	imię	
-Symchę	Symcha:s2	subst:sg:acc:f	imię	
-Symchom	Symcha:s2	subst:pl:dat:f	imię	
-Symcho	Symcha:s2	subst:sg:voc:f	imię	
-Symch	Symcha:s2	subst:pl:gen:f	imię	
-Symchy	Symcha:s2	subst:pl:nom.acc.voc:f	imię	
-Symchy	Symcha:s2	subst:sg:gen:f	imię	
-Symsze	Symcha:s2	subst:sg:dat.loc:f	imię	
+Symchach	Symcha:s2	subst:pl:loc:f	imię	rzad.
+Symchami	Symcha:s2	subst:pl:inst:f	imię	rzad.
+Symcha	Symcha:s2	subst:sg:nom:f	imię	rzad.
+Symchą	Symcha:s2	subst:sg:inst:f	imię	rzad.
+Symchę	Symcha:s2	subst:sg:acc:f	imię	rzad.
+Symchom	Symcha:s2	subst:pl:dat:f	imię	rzad.
+Symcho	Symcha:s2	subst:sg:voc:f	imię	rzad.
+Symch	Symcha:s2	subst:pl:gen:f	imię	rzad.
+Symchy	Symcha:s2	subst:pl:nom.acc.voc:f	imię	rzad.
+Symchy	Symcha:s2	subst:sg:gen:f	imię	rzad.
+Symsze	Symcha:s2	subst:sg:dat.loc:f	imię	rzad.
 Symeonach	Symeon	subst:pl:loc:m1	imię	
 Symeonami	Symeon	subst:pl:inst:m1	imię	
 Symeona	Symeon	subst:sg:gen.acc:m1	imię	
@@ -11773,7 +11773,6 @@ Szebachami	Szebach	subst:pl:inst:m1	imię
 Szebacha	Szebach	subst:sg:gen.acc:m1	imię	
 Szebacha	Szebach	subst:sg:gen:m1	imię	
 Szebachem	Szebach	subst:sg:inst:m1	imię	
-Szebache	Szebach	depr:pl:nom.acc.voc:m2	imię	
 Szebachom	Szebach	subst:pl:dat:m1	imię	
 Szebachowie	Szebach	subst:pl:nom.voc:m1	imię	
 Szebachowi	Szebach	subst:sg:dat:m1	imię	

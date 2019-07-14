@@ -2287,7 +2287,6 @@ Dobrociecha	Dobrociech	subst:sg:gen.acc:m1	imię
 Dobrociecha	Dobrociech	subst:sg:gen:m1	imię	
 Dobrociechami	Dobrociech	subst:pl:inst:m1	imię	
 Dobrociech	Dobrociech	subst:sg:nom:m1	imię	
-Dobrocieche	Dobrociech	depr:pl:nom.acc.voc:m2	imię	
 Dobrociechem	Dobrociech	subst:sg:inst:m1	imię	
 Dobrociechom	Dobrociech	subst:pl:dat:m1	imię	
 Dobrociechowi	Dobrociech	subst:sg:dat:m1	imię	
