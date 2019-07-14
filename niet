@@ -48461,24 +48461,56 @@ nietryndanie	tryndać	ger:sg:nom.acc:n:imperf:neg
 nietryndaniom	tryndać	ger:pl:dat:n:imperf:neg		
 nietryndaniu	tryndać	ger:sg:dat.loc:n:imperf:neg		
 nietryndań	tryndać	ger:pl:gen:n:imperf:neg		
-nietrynianiach	tryniać	ger:pl:loc:n:perf:neg		
-nietrynianiami	tryniać	ger:pl:inst:n:perf:neg		
-nietryniania	tryniać	ger:pl:nom.acc:n:perf:neg		
-nietryniania	tryniać	ger:sg:gen:n:perf:neg		
-nietrynianiem	tryniać	ger:sg:inst:n:perf:neg		
-nietrynianie	tryniać	ger:sg:nom.acc:n:perf:neg		
-nietrynianiom	tryniać	ger:pl:dat:n:perf:neg		
-nietrynianiu	tryniać	ger:sg:dat.loc:n:perf:neg		
-nietryniań	tryniać	ger:pl:gen:n:perf:neg		
-nietrynieniach	trynić	ger:pl:loc:n:perf:neg		
-nietrynieniami	trynić	ger:pl:inst:n:perf:neg		
-nietrynienia	trynić	ger:pl:nom.acc:n:perf:neg		
-nietrynienia	trynić	ger:sg:gen:n:perf:neg		
-nietrynieniem	trynić	ger:sg:inst:n:perf:neg		
-nietrynienie	trynić	ger:sg:nom.acc:n:perf:neg		
-nietrynieniom	trynić	ger:pl:dat:n:perf:neg		
-nietrynieniu	trynić	ger:sg:dat.loc:n:perf:neg		
-nietrynień	trynić	ger:pl:gen:n:perf:neg		
+nietryniająca	tryniać	pact:sg:nom.voc:f:imperf:neg		reg.
+nietryniającą	tryniać	pact:sg:acc.inst:f:imperf:neg		reg.
+nietryniającego	tryniać	pact:sg:acc:m1.m2:imperf:neg		reg.
+nietryniającego	tryniać	pact:sg:gen:m1.m2.m3.n:imperf:neg		reg.
+nietryniającej	tryniać	pact:sg:gen.dat.loc:f:imperf:neg		reg.
+nietryniającemu	tryniać	pact:sg:dat:m1.m2.m3.n:imperf:neg		reg.
+nietryniające	tryniać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		reg.
+nietryniające	tryniać	pact:sg:nom.acc.voc:n:imperf:neg		reg.
+nietryniających	tryniać	pact:pl:acc:m1:imperf:neg		reg.
+nietryniających	tryniać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		reg.
+nietryniającymi	tryniać	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		reg.
+nietryniającym	tryniać	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		reg.
+nietryniającym	tryniać	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		reg.
+nietryniający	tryniać	pact:pl:nom.voc:m1:imperf:neg		reg.
+nietryniający	tryniać	pact:sg:acc:m3:imperf:neg		reg.
+nietryniający	tryniać	pact:sg:nom.voc:m1.m2.m3:imperf:neg		reg.
+nietrynianiach	tryniać	ger:pl:loc:n:imperf:neg		reg.
+nietrynianiami	tryniać	ger:pl:inst:n:imperf:neg		reg.
+nietryniania	tryniać	ger:pl:nom.acc:n:imperf:neg		reg.
+nietryniania	tryniać	ger:sg:gen:n:imperf:neg		reg.
+nietrynianiem	tryniać	ger:sg:inst:n:imperf:neg		reg.
+nietrynianie	tryniać	ger:sg:nom.acc:n:imperf:neg		reg.
+nietrynianiom	tryniać	ger:pl:dat:n:imperf:neg		reg.
+nietrynianiu	tryniać	ger:sg:dat.loc:n:imperf:neg		reg.
+nietryniań	tryniać	ger:pl:gen:n:imperf:neg		reg.
+nietryniąca	trynić	pact:sg:nom.voc:f:imperf:neg		indyw.
+nietryniącą	trynić	pact:sg:acc.inst:f:imperf:neg		indyw.
+nietryniącego	trynić	pact:sg:acc:m1.m2:imperf:neg		indyw.
+nietryniącego	trynić	pact:sg:gen:m1.m2.m3.n:imperf:neg		indyw.
+nietryniącej	trynić	pact:sg:gen.dat.loc:f:imperf:neg		indyw.
+nietryniącemu	trynić	pact:sg:dat:m1.m2.m3.n:imperf:neg		indyw.
+nietryniące	trynić	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		indyw.
+nietryniące	trynić	pact:sg:nom.acc.voc:n:imperf:neg		indyw.
+nietryniących	trynić	pact:pl:acc:m1:imperf:neg		indyw.
+nietryniących	trynić	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		indyw.
+nietryniącymi	trynić	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		indyw.
+nietryniącym	trynić	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		indyw.
+nietryniącym	trynić	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		indyw.
+nietryniący	trynić	pact:pl:nom.voc:m1:imperf:neg		indyw.
+nietryniący	trynić	pact:sg:acc:m3:imperf:neg		indyw.
+nietryniący	trynić	pact:sg:nom.voc:m1.m2.m3:imperf:neg		indyw.
+nietrynieniach	trynić	ger:pl:loc:n:imperf:neg		indyw.
+nietrynieniami	trynić	ger:pl:inst:n:imperf:neg		indyw.
+nietrynienia	trynić	ger:pl:nom.acc:n:imperf:neg		indyw.
+nietrynienia	trynić	ger:sg:gen:n:imperf:neg		indyw.
+nietrynieniem	trynić	ger:sg:inst:n:imperf:neg		indyw.
+nietrynienie	trynić	ger:sg:nom.acc:n:imperf:neg		indyw.
+nietrynieniom	trynić	ger:pl:dat:n:imperf:neg		indyw.
+nietrynieniu	trynić	ger:sg:dat.loc:n:imperf:neg		indyw.
+nietrynień	trynić	ger:pl:gen:n:imperf:neg		indyw.
 nietrynknięciach	trynknąć	ger:pl:loc:n:perf:neg		
 nietrynknięciami	trynknąć	ger:pl:inst:n:perf:neg		
 nietrynknięcia	trynknąć	ger:pl:nom.acc:n:perf:neg		

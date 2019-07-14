@@ -638,17 +638,6 @@ Napoleonidy	Napoleonida	depr:pl:nom.acc.voc:m2	nazwa pospolita
 Napoleonidy	Napoleonida	subst:sg:gen:m1	nazwa pospolita	
 Napoleonidzie	Napoleonida	subst:sg:dat.loc:m1	nazwa pospolita	
 Napoleonidzi	Napoleonida	subst:pl:nom.voc:m1	nazwa pospolita	
-Napolitance	Napolitanka	subst:sg:dat.loc:f	nazwa pospolita	
-Napolitanek	Napolitanka	subst:pl:gen:f	nazwa pospolita	
-Napolitankach	Napolitanka	subst:pl:loc:f	nazwa pospolita	
-Napolitankami	Napolitanka	subst:pl:inst:f	nazwa pospolita	
-Napolitanka	Napolitanka	subst:sg:nom:f	nazwa pospolita	
-Napolitanką	Napolitanka	subst:sg:inst:f	nazwa pospolita	
-Napolitankę	Napolitanka	subst:sg:acc:f	nazwa pospolita	
-Napolitanki	Napolitanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
-Napolitanki	Napolitanka	subst:sg:gen:f	nazwa pospolita	
-Napolitankom	Napolitanka	subst:pl:dat:f	nazwa pospolita	
-Napolitanko	Napolitanka	subst:sg:voc:f	nazwa pospolita	
 Narbucie	Narbutt	subst:sg:loc:m1	nazwisko	
 Narbucie	Narbutt	subst:sg:voc:m1	nazwisko	
 Narbuttach	Narbutt	subst:pl:loc:m1	nazwisko	

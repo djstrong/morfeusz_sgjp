@@ -2252,15 +2252,31 @@ niefelicytujący	felicytować	pact:sg:nom.voc:m1.m2.m3:imperf:neg
 niefelicytującym	felicytować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
 niefelicytującym	felicytować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
 niefelicytującymi	felicytować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
-niefelietonowaniach	felietonować	ger:pl:loc:n:perf:neg		
-niefelietonowania	felietonować	ger:pl:nom.acc:n:perf:neg		
-niefelietonowania	felietonować	ger:sg:gen:n:perf:neg		
-niefelietonowaniami	felietonować	ger:pl:inst:n:perf:neg		
-niefelietonowanie	felietonować	ger:sg:nom.acc:n:perf:neg		
-niefelietonowaniem	felietonować	ger:sg:inst:n:perf:neg		
-niefelietonowaniom	felietonować	ger:pl:dat:n:perf:neg		
-niefelietonowaniu	felietonować	ger:sg:dat.loc:n:perf:neg		
-niefelietonowań	felietonować	ger:pl:gen:n:perf:neg		
+niefelietonowaniach	felietonować	ger:pl:loc:n:imperf:neg		
+niefelietonowania	felietonować	ger:pl:nom.acc:n:imperf:neg		
+niefelietonowania	felietonować	ger:sg:gen:n:imperf:neg		
+niefelietonowaniami	felietonować	ger:pl:inst:n:imperf:neg		
+niefelietonowanie	felietonować	ger:sg:nom.acc:n:imperf:neg		
+niefelietonowaniem	felietonować	ger:sg:inst:n:imperf:neg		
+niefelietonowaniom	felietonować	ger:pl:dat:n:imperf:neg		
+niefelietonowaniu	felietonować	ger:sg:dat.loc:n:imperf:neg		
+niefelietonowań	felietonować	ger:pl:gen:n:imperf:neg		
+niefelietonująca	felietonować	pact:sg:nom.voc:f:imperf:neg		rzad.
+niefelietonującą	felietonować	pact:sg:acc.inst:f:imperf:neg		rzad.
+niefelietonujące	felietonować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		rzad.
+niefelietonujące	felietonować	pact:sg:nom.acc.voc:n:imperf:neg		rzad.
+niefelietonującego	felietonować	pact:sg:acc:m1.m2:imperf:neg		rzad.
+niefelietonującego	felietonować	pact:sg:gen:m1.m2.m3.n:imperf:neg		rzad.
+niefelietonującej	felietonować	pact:sg:gen.dat.loc:f:imperf:neg		rzad.
+niefelietonującemu	felietonować	pact:sg:dat:m1.m2.m3.n:imperf:neg		rzad.
+niefelietonujących	felietonować	pact:pl:acc:m1:imperf:neg		rzad.
+niefelietonujących	felietonować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		rzad.
+niefelietonujący	felietonować	pact:pl:nom.voc:m1:imperf:neg		rzad.
+niefelietonujący	felietonować	pact:sg:acc:m3:imperf:neg		rzad.
+niefelietonujący	felietonować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		rzad.
+niefelietonującym	felietonować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		rzad.
+niefelietonującym	felietonować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		rzad.
+niefelietonującymi	felietonować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		rzad.
 niefeminizowana	feminizować	ppas:sg:nom.voc:f:imperf:neg		
 niefeminizowaną	feminizować	ppas:sg:acc.inst:f:imperf:neg		
 niefeminizowane	feminizować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
@@ -5184,31 +5200,47 @@ nieforsujący	forsować	pact:sg:nom.voc:m1.m2.m3:imperf:neg
 nieforsującym	forsować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
 nieforsującym	forsować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
 nieforsującymi	forsować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
-nieforsztelowana	forsztelować	ppas:sg:nom.voc:f:perf:neg		
-nieforsztelowaną	forsztelować	ppas:sg:acc.inst:f:perf:neg		
-nieforsztelowane	forsztelować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
-nieforsztelowane	forsztelować	ppas:sg:nom.acc.voc:n:perf:neg		
-nieforsztelowanego	forsztelować	ppas:sg:acc:m1.m2:perf:neg		
-nieforsztelowanego	forsztelować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
-nieforsztelowanej	forsztelować	ppas:sg:gen.dat.loc:f:perf:neg		
-nieforsztelowanemu	forsztelować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
-nieforsztelowaniach	forsztelować	ger:pl:loc:n:perf:neg		
-nieforsztelowania	forsztelować	ger:pl:nom.acc:n:perf:neg		
-nieforsztelowania	forsztelować	ger:sg:gen:n:perf:neg		
-nieforsztelowaniami	forsztelować	ger:pl:inst:n:perf:neg		
-nieforsztelowanie	forsztelować	ger:sg:nom.acc:n:perf:neg		
-nieforsztelowaniem	forsztelować	ger:sg:inst:n:perf:neg		
-nieforsztelowani	forsztelować	ppas:pl:nom.voc:m1:perf:neg		
-nieforsztelowaniom	forsztelować	ger:pl:dat:n:perf:neg		
-nieforsztelowaniu	forsztelować	ger:sg:dat.loc:n:perf:neg		
-nieforsztelowanych	forsztelować	ppas:pl:acc:m1:perf:neg		
-nieforsztelowanych	forsztelować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
-nieforsztelowany	forsztelować	ppas:sg:acc:m3:perf:neg		
-nieforsztelowany	forsztelować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
-nieforsztelowanym	forsztelować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
-nieforsztelowanym	forsztelować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
-nieforsztelowanymi	forsztelować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
-nieforsztelowań	forsztelować	ger:pl:gen:n:perf:neg		
+nieforsztelowana	forsztelować	ppas:sg:nom.voc:f:imperf.perf:neg		daw.
+nieforsztelowaną	forsztelować	ppas:sg:acc.inst:f:imperf.perf:neg		daw.
+nieforsztelowane	forsztelować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf.perf:neg		daw.
+nieforsztelowane	forsztelować	ppas:sg:nom.acc.voc:n:imperf.perf:neg		daw.
+nieforsztelowanego	forsztelować	ppas:sg:acc:m1.m2:imperf.perf:neg		daw.
+nieforsztelowanego	forsztelować	ppas:sg:gen:m1.m2.m3.n:imperf.perf:neg		daw.
+nieforsztelowanej	forsztelować	ppas:sg:gen.dat.loc:f:imperf.perf:neg		daw.
+nieforsztelowanemu	forsztelować	ppas:sg:dat:m1.m2.m3.n:imperf.perf:neg		daw.
+nieforsztelowaniach	forsztelować	ger:pl:loc:n:imperf.perf:neg		daw.
+nieforsztelowania	forsztelować	ger:pl:nom.acc:n:imperf.perf:neg		daw.
+nieforsztelowania	forsztelować	ger:sg:gen:n:imperf.perf:neg		daw.
+nieforsztelowaniami	forsztelować	ger:pl:inst:n:imperf.perf:neg		daw.
+nieforsztelowanie	forsztelować	ger:sg:nom.acc:n:imperf.perf:neg		daw.
+nieforsztelowaniem	forsztelować	ger:sg:inst:n:imperf.perf:neg		daw.
+nieforsztelowani	forsztelować	ppas:pl:nom.voc:m1:imperf.perf:neg		daw.
+nieforsztelowaniom	forsztelować	ger:pl:dat:n:imperf.perf:neg		daw.
+nieforsztelowaniu	forsztelować	ger:sg:dat.loc:n:imperf.perf:neg		daw.
+nieforsztelowanych	forsztelować	ppas:pl:acc:m1:imperf.perf:neg		daw.
+nieforsztelowanych	forsztelować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf.perf:neg		daw.
+nieforsztelowany	forsztelować	ppas:sg:acc:m3:imperf.perf:neg		daw.
+nieforsztelowany	forsztelować	ppas:sg:nom.voc:m1.m2.m3:imperf.perf:neg		daw.
+nieforsztelowanym	forsztelować	ppas:pl:dat:m1.m2.m3.f.n:imperf.perf:neg		daw.
+nieforsztelowanym	forsztelować	ppas:sg:inst.loc:m1.m2.m3.n:imperf.perf:neg		daw.
+nieforsztelowanymi	forsztelować	ppas:pl:inst:m1.m2.m3.f.n:imperf.perf:neg		daw.
+nieforsztelowań	forsztelować	ger:pl:gen:n:imperf.perf:neg		daw.
+nieforsztelująca	forsztelować	pact:sg:nom.voc:f:imperf:neg		daw.
+nieforsztelującą	forsztelować	pact:sg:acc.inst:f:imperf:neg		daw.
+nieforsztelujące	forsztelować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		daw.
+nieforsztelujące	forsztelować	pact:sg:nom.acc.voc:n:imperf:neg		daw.
+nieforsztelującego	forsztelować	pact:sg:acc:m1.m2:imperf:neg		daw.
+nieforsztelującego	forsztelować	pact:sg:gen:m1.m2.m3.n:imperf:neg		daw.
+nieforsztelującej	forsztelować	pact:sg:gen.dat.loc:f:imperf:neg		daw.
+nieforsztelującemu	forsztelować	pact:sg:dat:m1.m2.m3.n:imperf:neg		daw.
+nieforsztelujących	forsztelować	pact:pl:acc:m1:imperf:neg		daw.
+nieforsztelujących	forsztelować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		daw.
+nieforsztelujący	forsztelować	pact:pl:nom.voc:m1:imperf:neg		daw.
+nieforsztelujący	forsztelować	pact:sg:acc:m3:imperf:neg		daw.
+nieforsztelujący	forsztelować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		daw.
+nieforsztelującym	forsztelować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		daw.
+nieforsztelującym	forsztelować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		daw.
+nieforsztelującymi	forsztelować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		daw.
 nieforsztowana	forsztować	ppas:sg:nom.voc:f:imperf:neg		
 nieforsztowaną	forsztować	ppas:sg:acc.inst:f:imperf:neg		
 nieforsztowane	forsztować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		

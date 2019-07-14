@@ -5403,6 +5403,18 @@ Czernihowów	Czernihów	subst:pl:gen:m3	nazwa geograficzna
 Czernihowu	Czernihów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
 Czernihowy	Czernihów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Czernihów	Czernihów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Czerniowcach	Czerniowce	subst:pl:loc:n:pt	nazwa geograficzna	
+Czerniowcach	Czerniowce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Czerniowcami	Czerniowce	subst:pl:inst:n:pt	nazwa geograficzna	
+Czerniowcami	Czerniowce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Czerniowce	Czerniowce	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Czerniowce	Czerniowce	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+Czerniowcom	Czerniowce	subst:pl:dat:n:pt	nazwa geograficzna	
+Czerniowcom	Czerniowce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Czerniowców	Czerniowce	subst:pl:gen:n:pt	nazwa geograficzna	
+Czerniowców	Czerniowce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Czerniowiec	Czerniowce	subst:pl:gen:n:pt	nazwa geograficzna	
+Czerniowiec	Czerniowce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Czernomyrdinach	Czernomyrdin	subst:pl:loc:m1	nazwisko	
 Czernomyrdina	Czernomyrdin	subst:sg:gen.acc:m1	nazwisko	
 Czernomyrdina	Czernomyrdin	subst:sg:gen:m1	nazwisko	

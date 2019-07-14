@@ -27290,17 +27290,6 @@ hipotensyjnym	hipotensyjny	adj:pl:dat:m1.m2.m3.f.n:pos
 hipotensyjnym	hipotensyjny	adj:sg:inst:m1.m2.m3.n:pos		
 hipotensyjnym	hipotensyjny	adj:sg:loc:m1.m2.m3.n:pos		
 hipotensyjnymi	hipotensyjny	adj:pl:inst:m1.m2.m3.f.n:pos		
-hipoterapetce	hipoterapetka	subst:sg:dat.loc:f	nazwa pospolita	
-hipoterapetek	hipoterapetka	subst:pl:gen:f	nazwa pospolita	
-hipoterapetkach	hipoterapetka	subst:pl:loc:f	nazwa pospolita	
-hipoterapetka	hipoterapetka	subst:sg:nom:f	nazwa pospolita	
-hipoterapetkami	hipoterapetka	subst:pl:inst:f	nazwa pospolita	
-hipoterapetką	hipoterapetka	subst:sg:inst:f	nazwa pospolita	
-hipoterapetkę	hipoterapetka	subst:sg:acc:f	nazwa pospolita	
-hipoterapetki	hipoterapetka	subst:pl:nom.acc.voc:f	nazwa pospolita	
-hipoterapetki	hipoterapetka	subst:sg:gen:f	nazwa pospolita	
-hipoterapetko	hipoterapetka	subst:sg:voc:f	nazwa pospolita	
-hipoterapetkom	hipoterapetka	subst:pl:dat:f	nazwa pospolita	
 hipoterapeucie	hipoterapeuta	subst:sg:dat.loc:m1	nazwa pospolita	
 hipoterapeuci	hipoterapeuta	subst:pl:nom.voc:m1	nazwa pospolita	
 hipoterapeutach	hipoterapeuta	subst:pl:loc:m1	nazwa pospolita	
@@ -36646,6 +36635,7 @@ hrabio	hrabia	subst:sg:voc:m1	nazwa pospolita
 hrabiom	hrabia	subst:pl:dat:m1	nazwa pospolita	
 hrabiowie	hrabia	subst:pl:nom.voc:m1	nazwa pospolita	
 hrabiów	hrabia	subst:pl:gen.acc:m1	nazwa pospolita	
+hr	hrabia	brev:pun		
 hrabianeczce	hrabianeczka	subst:sg:dat.loc:f	nazwa pospolita	
 hrabianeczek	hrabianeczka	subst:pl:gen:f	nazwa pospolita	
 hrabianeczkach	hrabianeczka	subst:pl:loc:f	nazwa pospolita	
@@ -45243,17 +45233,6 @@ hyperbatonowi	hyperbaton	subst:sg:dat:m3	nazwa pospolita
 hyperbatonów	hyperbaton	subst:pl:gen:m3	nazwa pospolita	
 hyperbatonu	hyperbaton	subst:sg:gen:m3	nazwa pospolita	
 hyperbatony	hyperbaton	subst:pl:nom.acc.voc:m3	nazwa pospolita	
-hypochondryczce	hypochondryczka	subst:sg:dat.loc:f	nazwa pospolita	
-hypochondryczek	hypochondryczka	subst:pl:gen:f	nazwa pospolita	
-hypochondryczkach	hypochondryczka	subst:pl:loc:f	nazwa pospolita	
-hypochondryczka	hypochondryczka	subst:sg:nom:f	nazwa pospolita	
-hypochondryczkami	hypochondryczka	subst:pl:inst:f	nazwa pospolita	
-hypochondryczką	hypochondryczka	subst:sg:inst:f	nazwa pospolita	
-hypochondryczkę	hypochondryczka	subst:sg:acc:f	nazwa pospolita	
-hypochondryczki	hypochondryczka	subst:pl:nom.acc.voc:f	nazwa pospolita	
-hypochondryczki	hypochondryczka	subst:sg:gen:f	nazwa pospolita	
-hypochondryczko	hypochondryczka	subst:sg:voc:f	nazwa pospolita	
-hypochondryczkom	hypochondryczka	subst:pl:dat:f	nazwa pospolita	
 hypogeach	hypogeum	subst:pl:loc:n:ncol	nazwa pospolita	
 hypogea	hypogeum	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
 hypogeami	hypogeum	subst:pl:inst:n:ncol	nazwa pospolita	

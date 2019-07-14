@@ -9367,17 +9367,6 @@ Bundestagów	Bundestag	subst:pl:gen:m3	nazwa instytucji
 Bundestagu	Bundestag	subst:sg:gen:m3	nazwa instytucji	
 Bundestagu	Bundestag	subst:sg:loc:m3	nazwa instytucji	
 Bundestagu	Bundestag	subst:sg:voc:m3	nazwa instytucji	
-Bundestracie	Bundestrat	subst:sg:loc:m3	nazwa instytucji	
-Bundestracie	Bundestrat	subst:sg:voc:m3	nazwa instytucji	
-Bundestratach	Bundestrat	subst:pl:loc:m3	nazwa instytucji	
-Bundestratami	Bundestrat	subst:pl:inst:m3	nazwa instytucji	
-Bundestrat	Bundestrat	subst:sg:nom.acc:m3	nazwa instytucji	
-Bundestratem	Bundestrat	subst:sg:inst:m3	nazwa instytucji	
-Bundestratom	Bundestrat	subst:pl:dat:m3	nazwa instytucji	
-Bundestratowi	Bundestrat	subst:sg:dat:m3	nazwa instytucji	
-Bundestratów	Bundestrat	subst:pl:gen:m3	nazwa instytucji	
-Bundestratu	Bundestrat	subst:sg:gen:m3	nazwa instytucji	
-Bundestraty	Bundestrat	subst:pl:nom.acc.voc:m3	nazwa instytucji	
 Bundeswehra	Bundeswehra	subst:sg:nom:f	nazwa organizacji	
 Bundeswehrach	Bundeswehra	subst:pl:loc:f	nazwa organizacji	
 Bundeswehrami	Bundeswehra	subst:pl:inst:f	nazwa organizacji	

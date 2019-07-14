@@ -829,15 +829,31 @@ nieźrącym	źreć:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg
 nieźrący	źreć:v2	pact:pl:nom.voc:m1:imperf:neg		
 nieźrący	źreć:v2	pact:sg:acc:m3:imperf:neg		
 nieźrący	źreć:v2	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
-nieźródleniach	źródlić	ger:pl:loc:n:perf:neg		
-nieźródleniami	źródlić	ger:pl:inst:n:perf:neg		
-nieźródlenia	źródlić	ger:pl:nom.acc:n:perf:neg		
-nieźródlenia	źródlić	ger:sg:gen:n:perf:neg		
-nieźródleniem	źródlić	ger:sg:inst:n:perf:neg		
-nieźródlenie	źródlić	ger:sg:nom.acc:n:perf:neg		
-nieźródleniom	źródlić	ger:pl:dat:n:perf:neg		
-nieźródleniu	źródlić	ger:sg:dat.loc:n:perf:neg		
-nieźródleń	źródlić	ger:pl:gen:n:perf:neg		
+nieźródląca	źródlić	pact:sg:nom.voc:f:imperf:neg		daw.
+nieźródlącą	źródlić	pact:sg:acc.inst:f:imperf:neg		daw.
+nieźródlącego	źródlić	pact:sg:acc:m1.m2:imperf:neg		daw.
+nieźródlącego	źródlić	pact:sg:gen:m1.m2.m3.n:imperf:neg		daw.
+nieźródlącej	źródlić	pact:sg:gen.dat.loc:f:imperf:neg		daw.
+nieźródlącemu	źródlić	pact:sg:dat:m1.m2.m3.n:imperf:neg		daw.
+nieźródlące	źródlić	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		daw.
+nieźródlące	źródlić	pact:sg:nom.acc.voc:n:imperf:neg		daw.
+nieźródlących	źródlić	pact:pl:acc:m1:imperf:neg		daw.
+nieźródlących	źródlić	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		daw.
+nieźródlącymi	źródlić	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		daw.
+nieźródlącym	źródlić	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		daw.
+nieźródlącym	źródlić	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		daw.
+nieźródlący	źródlić	pact:pl:nom.voc:m1:imperf:neg		daw.
+nieźródlący	źródlić	pact:sg:acc:m3:imperf:neg		daw.
+nieźródlący	źródlić	pact:sg:nom.voc:m1.m2.m3:imperf:neg		daw.
+nieźródleniach	źródlić	ger:pl:loc:n:imperf:neg		daw.
+nieźródleniami	źródlić	ger:pl:inst:n:imperf:neg		daw.
+nieźródlenia	źródlić	ger:pl:nom.acc:n:imperf:neg		daw.
+nieźródlenia	źródlić	ger:sg:gen:n:imperf:neg		daw.
+nieźródleniem	źródlić	ger:sg:inst:n:imperf:neg		daw.
+nieźródlenie	źródlić	ger:sg:nom.acc:n:imperf:neg		daw.
+nieźródleniom	źródlić	ger:pl:dat:n:imperf:neg		daw.
+nieźródleniu	źródlić	ger:sg:dat.loc:n:imperf:neg		daw.
+nieźródleń	źródlić	ger:pl:gen:n:imperf:neg		daw.
 nieźrzejąca	źrzeć	pact:sg:nom.voc:f:imperf:neg		
 nieźrzejącą	źrzeć	pact:sg:acc.inst:f:imperf:neg		
 nieźrzejącego	źrzeć	pact:sg:acc:m1.m2:imperf:neg		

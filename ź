@@ -1041,62 +1041,79 @@
 źródlanym	źródlany	adj:sg:loc:m1.m2.m3.n:pos		
 źródlany	źródlany	adj:sg:acc:m3:pos		
 źródlany	źródlany	adj:sg:nom.voc:m1.m2.m3:pos		
-źródlą	źródlić	fin:pl:ter:perf		daw.
-źródleniach	źródlić	ger:pl:loc:n:perf:aff		
-źródleniami	źródlić	ger:pl:inst:n:perf:aff		
-źródlenia	źródlić	ger:pl:nom.acc:n:perf:aff		
-źródlenia	źródlić	ger:sg:gen:n:perf:aff		
-źródleniem	źródlić	ger:sg:inst:n:perf:aff		
-źródlenie	źródlić	ger:sg:nom.acc:n:perf:aff		
-źródleniom	źródlić	ger:pl:dat:n:perf:aff		
-źródleniu	źródlić	ger:sg:dat.loc:n:perf:aff		
-źródleń	źródlić	ger:pl:gen:n:perf:aff		
-źródlę	źródlić	fin:sg:pri:perf		daw.
-źródlicie	źródlić	fin:pl:sec:perf		daw.
-źródlić	źródlić	inf:perf		daw.
-źródlijcie	źródlić	impt:pl:sec:perf		daw.
-źródlijmy	źródlić	impt:pl:pri:perf		daw.
-źródlij	źródlić	impt:sg:sec:perf		daw.
-źródlilibyście	źródlić	cond:pl:m1:sec:perf		daw.
-źródlilibyśmy	źródlić	cond:pl:m1:pri:perf		daw.
-źródliliby	źródlić	cond:pl:m1:ter:perf		daw.
-źródliliście	źródlić	praet:pl:m1:sec:perf		daw.
-źródliliśmy	źródlić	praet:pl:m1:pri:perf		daw.
-źródlili	źródlić	praet:pl:m1:perf		daw.
-źródlili	źródlić	praet:pl:m1:ter:perf		daw.
-źródliłabym	źródlić	cond:sg:f:pri:perf		daw.
-źródliłabyś	źródlić	cond:sg:f:sec:perf		daw.
-źródliłaby	źródlić	cond:sg:f:ter:perf		daw.
-źródliłam	źródlić	praet:sg:f:pri:perf		daw.
-źródliłaś	źródlić	praet:sg:f:sec:perf		daw.
-źródliła	źródlić	praet:sg:f:perf		daw.
-źródliła	źródlić	praet:sg:f:ter:perf		daw.
-źródliłbym	źródlić	cond:sg:m1.m2.m3:pri:perf		daw.
-źródliłbyś	źródlić	cond:sg:m1.m2.m3:sec:perf		daw.
-źródliłby	źródlić	cond:sg:m1.m2.m3:ter:perf		daw.
-źródliłem	źródlić	praet:sg:m1.m2.m3:pri:perf		daw.
-źródliłeś	źródlić	praet:sg:m1.m2.m3:sec:perf		daw.
-źródliłobym	źródlić	cond:sg:n:pri:perf		daw.
-źródliłobyś	źródlić	cond:sg:n:sec:perf		daw.
-źródliłoby	źródlić	cond:sg:n:ter:perf		daw.
-źródliłom	źródlić	praet:sg:n:pri:perf		daw.
-źródliłoś	źródlić	praet:sg:n:sec:perf		daw.
-źródliło	źródlić	praet:sg:n:perf		daw.
-źródliło	źródlić	praet:sg:n:ter:perf		daw.
-źródliłybyście	źródlić	cond:pl:m2.m3.f.n:sec:perf		daw.
-źródliłybyśmy	źródlić	cond:pl:m2.m3.f.n:pri:perf		daw.
-źródliłyby	źródlić	cond:pl:m2.m3.f.n:ter:perf		daw.
-źródliłyście	źródlić	praet:pl:m2.m3.f.n:sec:perf		daw.
-źródliłyśmy	źródlić	praet:pl:m2.m3.f.n:pri:perf		daw.
-źródliły	źródlić	praet:pl:m2.m3.f.n:perf		daw.
-źródliły	źródlić	praet:pl:m2.m3.f.n:ter:perf		daw.
-źródlił	źródlić	praet:sg:m1.m2.m3:perf		daw.
-źródlił	źródlić	praet:sg:m1.m2.m3:ter:perf		daw.
-źródlimy	źródlić	fin:pl:pri:perf		daw.
-źródlisz	źródlić	fin:sg:sec:perf		daw.
-źródliwszy	źródlić	pant:perf		daw.
-źródli	źródlić	fin:sg:ter:perf		daw.
-źródlono	źródlić	imps:perf		daw.
+źródląca	źródlić	pact:sg:nom.voc:f:imperf:aff		daw.
+źródlącą	źródlić	pact:sg:acc.inst:f:imperf:aff		daw.
+źródlącego	źródlić	pact:sg:acc:m1.m2:imperf:aff		daw.
+źródlącego	źródlić	pact:sg:gen:m1.m2.m3.n:imperf:aff		daw.
+źródlącej	źródlić	pact:sg:gen.dat.loc:f:imperf:aff		daw.
+źródlącemu	źródlić	pact:sg:dat:m1.m2.m3.n:imperf:aff		daw.
+źródlące	źródlić	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		daw.
+źródlące	źródlić	pact:sg:nom.acc.voc:n:imperf:aff		daw.
+źródląco	źródlić	pacta		daw.
+źródlących	źródlić	pact:pl:acc:m1:imperf:aff		daw.
+źródlących	źródlić	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		daw.
+źródlącymi	źródlić	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		daw.
+źródlącym	źródlić	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		daw.
+źródlącym	źródlić	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		daw.
+źródlący	źródlić	pact:pl:nom.voc:m1:imperf:aff		daw.
+źródlący	źródlić	pact:sg:acc:m3:imperf:aff		daw.
+źródlący	źródlić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		daw.
+źródląc	źródlić	pcon:imperf		daw.
+źródlą	źródlić	fin:pl:ter:imperf		daw.
+źródleniach	źródlić	ger:pl:loc:n:imperf:aff		daw.
+źródleniami	źródlić	ger:pl:inst:n:imperf:aff		daw.
+źródlenia	źródlić	ger:pl:nom.acc:n:imperf:aff		daw.
+źródlenia	źródlić	ger:sg:gen:n:imperf:aff		daw.
+źródleniem	źródlić	ger:sg:inst:n:imperf:aff		daw.
+źródlenie	źródlić	ger:sg:nom.acc:n:imperf:aff		daw.
+źródleniom	źródlić	ger:pl:dat:n:imperf:aff		daw.
+źródleniu	źródlić	ger:sg:dat.loc:n:imperf:aff		daw.
+źródleń	źródlić	ger:pl:gen:n:imperf:aff		daw.
+źródlę	źródlić	fin:sg:pri:imperf		daw.
+źródlicie	źródlić	fin:pl:sec:imperf		daw.
+źródlić	źródlić	inf:imperf		daw.
+źródlijcie	źródlić	impt:pl:sec:imperf		daw.
+źródlijmy	źródlić	impt:pl:pri:imperf		daw.
+źródlij	źródlić	impt:sg:sec:imperf		daw.
+źródlilibyście	źródlić	cond:pl:m1:sec:imperf		daw.
+źródlilibyśmy	źródlić	cond:pl:m1:pri:imperf		daw.
+źródliliby	źródlić	cond:pl:m1:ter:imperf		daw.
+źródliliście	źródlić	praet:pl:m1:sec:imperf		daw.
+źródliliśmy	źródlić	praet:pl:m1:pri:imperf		daw.
+źródlili	źródlić	praet:pl:m1:imperf		daw.
+źródlili	źródlić	praet:pl:m1:ter:imperf		daw.
+źródliłabym	źródlić	cond:sg:f:pri:imperf		daw.
+źródliłabyś	źródlić	cond:sg:f:sec:imperf		daw.
+źródliłaby	źródlić	cond:sg:f:ter:imperf		daw.
+źródliłam	źródlić	praet:sg:f:pri:imperf		daw.
+źródliłaś	źródlić	praet:sg:f:sec:imperf		daw.
+źródliła	źródlić	praet:sg:f:imperf		daw.
+źródliła	źródlić	praet:sg:f:ter:imperf		daw.
+źródliłbym	źródlić	cond:sg:m1.m2.m3:pri:imperf		daw.
+źródliłbyś	źródlić	cond:sg:m1.m2.m3:sec:imperf		daw.
+źródliłby	źródlić	cond:sg:m1.m2.m3:ter:imperf		daw.
+źródliłem	źródlić	praet:sg:m1.m2.m3:pri:imperf		daw.
+źródliłeś	źródlić	praet:sg:m1.m2.m3:sec:imperf		daw.
+źródliłobym	źródlić	cond:sg:n:pri:imperf		daw.
+źródliłobyś	źródlić	cond:sg:n:sec:imperf		daw.
+źródliłoby	źródlić	cond:sg:n:ter:imperf		daw.
+źródliłom	źródlić	praet:sg:n:pri:imperf		daw.
+źródliłoś	źródlić	praet:sg:n:sec:imperf		daw.
+źródliło	źródlić	praet:sg:n:imperf		daw.
+źródliło	źródlić	praet:sg:n:ter:imperf		daw.
+źródliłybyście	źródlić	cond:pl:m2.m3.f.n:sec:imperf		daw.
+źródliłybyśmy	źródlić	cond:pl:m2.m3.f.n:pri:imperf		daw.
+źródliłyby	źródlić	cond:pl:m2.m3.f.n:ter:imperf		daw.
+źródliłyście	źródlić	praet:pl:m2.m3.f.n:sec:imperf		daw.
+źródliłyśmy	źródlić	praet:pl:m2.m3.f.n:pri:imperf		daw.
+źródliły	źródlić	praet:pl:m2.m3.f.n:imperf		daw.
+źródliły	źródlić	praet:pl:m2.m3.f.n:ter:imperf		daw.
+źródlił	źródlić	praet:sg:m1.m2.m3:imperf		daw.
+źródlił	źródlić	praet:sg:m1.m2.m3:ter:imperf		daw.
+źródlimy	źródlić	fin:pl:pri:imperf		daw.
+źródlisz	źródlić	fin:sg:sec:imperf		daw.
+źródli	źródlić	fin:sg:ter:imperf		daw.
+źródlono	źródlić	imps:imperf		daw.
 źródliskach	źródlisko	subst:pl:loc:n:ncol	nazwa pospolita	
 źródliskami	źródlisko	subst:pl:inst:n:ncol	nazwa pospolita	
 źródliska	źródlisko	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	

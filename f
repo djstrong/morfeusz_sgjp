@@ -8696,17 +8696,28 @@ fantnym	fantny	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
 fantnym	fantny	adj:sg:inst:m1.m2.m3.n:pos		daw.
 fantnym	fantny	adj:sg:loc:m1.m2.m3.n:pos		daw.
 fantnymi	fantny	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
+fantomach	fantom	subst:pl:loc:m2	nazwa pospolita	pot.
 fantomach	fantom	subst:pl:loc:m3	nazwa pospolita	
-fantoma	fantom	subst:sg:gen:m3	nazwa pospolita	
+fantoma	fantom	subst:sg:gen.acc:m2	nazwa pospolita	pot.
+fantoma	fantom	subst:sg:gen:m2	nazwa pospolita	pot.
+fantomami	fantom	subst:pl:inst:m2	nazwa pospolita	pot.
 fantomami	fantom	subst:pl:inst:m3	nazwa pospolita	
+fantomem	fantom	subst:sg:inst:m2	nazwa pospolita	pot.
 fantomem	fantom	subst:sg:inst:m3	nazwa pospolita	
 fantom	fantom	subst:sg:nom.acc:m3	nazwa pospolita	
+fantom	fantom	subst:sg:nom:m2	nazwa pospolita	pot.
+fantomie	fantom	subst:sg:loc:m2	nazwa pospolita	pot.
 fantomie	fantom	subst:sg:loc:m3	nazwa pospolita	
+fantomie	fantom	subst:sg:voc:m2	nazwa pospolita	pot.
 fantomie	fantom	subst:sg:voc:m3	nazwa pospolita	
+fantomom	fantom	subst:pl:dat:m2	nazwa pospolita	pot.
 fantomom	fantom	subst:pl:dat:m3	nazwa pospolita	
+fantomowi	fantom	subst:sg:dat:m2	nazwa pospolita	pot.
 fantomowi	fantom	subst:sg:dat:m3	nazwa pospolita	
+fantomów	fantom	subst:pl:gen:m2	nazwa pospolita	pot.
 fantomów	fantom	subst:pl:gen:m3	nazwa pospolita	
 fantomu	fantom	subst:sg:gen:m3	nazwa pospolita	
+fantomy	fantom	subst:pl:nom.acc.voc:m2	nazwa pospolita	pot.
 fantomy	fantom	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 fantomatycznie	fantomatycznie	adv:pos		
 fantomatycznościach	fantomatyczność	subst:pl:loc:f	nazwa pospolita	
@@ -17094,62 +17105,79 @@ felietonistyki	felietonistyka	subst:pl:nom.acc.voc:f	nazwa pospolita
 felietonistyki	felietonistyka	subst:sg:gen:f	nazwa pospolita	
 felietonistyko	felietonistyka	subst:sg:voc:f	nazwa pospolita	
 felietonistykom	felietonistyka	subst:pl:dat:f	nazwa pospolita	
-felietonować	felietonować	inf:perf		rzad.
-felietonowaliby	felietonować	cond:pl:m1:ter:perf		rzad.
-felietonowalibyście	felietonować	cond:pl:m1:sec:perf		rzad.
-felietonowalibyśmy	felietonować	cond:pl:m1:pri:perf		rzad.
-felietonowali	felietonować	praet:pl:m1:perf		rzad.
-felietonowali	felietonować	praet:pl:m1:ter:perf		rzad.
-felietonowaliście	felietonować	praet:pl:m1:sec:perf		rzad.
-felietonowaliśmy	felietonować	praet:pl:m1:pri:perf		rzad.
-felietonowałaby	felietonować	cond:sg:f:ter:perf		rzad.
-felietonowałabym	felietonować	cond:sg:f:pri:perf		rzad.
-felietonowałabyś	felietonować	cond:sg:f:sec:perf		rzad.
-felietonowała	felietonować	praet:sg:f:perf		rzad.
-felietonowała	felietonować	praet:sg:f:ter:perf		rzad.
-felietonowałam	felietonować	praet:sg:f:pri:perf		rzad.
-felietonowałaś	felietonować	praet:sg:f:sec:perf		rzad.
-felietonowałby	felietonować	cond:sg:m1.m2.m3:ter:perf		rzad.
-felietonowałbym	felietonować	cond:sg:m1.m2.m3:pri:perf		rzad.
-felietonowałbyś	felietonować	cond:sg:m1.m2.m3:sec:perf		rzad.
-felietonowałem	felietonować	praet:sg:m1.m2.m3:pri:perf		rzad.
-felietonowałeś	felietonować	praet:sg:m1.m2.m3:sec:perf		rzad.
-felietonował	felietonować	praet:sg:m1.m2.m3:perf		rzad.
-felietonował	felietonować	praet:sg:m1.m2.m3:ter:perf		rzad.
-felietonowałoby	felietonować	cond:sg:n:ter:perf		rzad.
-felietonowałobym	felietonować	cond:sg:n:pri:perf		rzad.
-felietonowałobyś	felietonować	cond:sg:n:sec:perf		rzad.
-felietonowało	felietonować	praet:sg:n:perf		rzad.
-felietonowało	felietonować	praet:sg:n:ter:perf		rzad.
-felietonowałom	felietonować	praet:sg:n:pri:perf		rzad.
-felietonowałoś	felietonować	praet:sg:n:sec:perf		rzad.
-felietonowałyby	felietonować	cond:pl:m2.m3.f.n:ter:perf		rzad.
-felietonowałybyście	felietonować	cond:pl:m2.m3.f.n:sec:perf		rzad.
-felietonowałybyśmy	felietonować	cond:pl:m2.m3.f.n:pri:perf		rzad.
-felietonowały	felietonować	praet:pl:m2.m3.f.n:perf		rzad.
-felietonowały	felietonować	praet:pl:m2.m3.f.n:ter:perf		rzad.
-felietonowałyście	felietonować	praet:pl:m2.m3.f.n:sec:perf		rzad.
-felietonowałyśmy	felietonować	praet:pl:m2.m3.f.n:pri:perf		rzad.
-felietonowaniach	felietonować	ger:pl:loc:n:perf:aff		
-felietonowania	felietonować	ger:pl:nom.acc:n:perf:aff		
-felietonowania	felietonować	ger:sg:gen:n:perf:aff		
-felietonowaniami	felietonować	ger:pl:inst:n:perf:aff		
-felietonowanie	felietonować	ger:sg:nom.acc:n:perf:aff		
-felietonowaniem	felietonować	ger:sg:inst:n:perf:aff		
-felietonowaniom	felietonować	ger:pl:dat:n:perf:aff		
-felietonowaniu	felietonować	ger:sg:dat.loc:n:perf:aff		
-felietonowano	felietonować	imps:perf		rzad.
-felietonowań	felietonować	ger:pl:gen:n:perf:aff		
-felietonowawszy	felietonować	pant:perf		rzad.
-felietonują	felietonować	fin:pl:ter:perf		rzad.
-felietonujcie	felietonować	impt:pl:sec:perf		rzad.
-felietonujecie	felietonować	fin:pl:sec:perf		rzad.
-felietonuje	felietonować	fin:sg:ter:perf		rzad.
-felietonujemy	felietonować	fin:pl:pri:perf		rzad.
-felietonujesz	felietonować	fin:sg:sec:perf		rzad.
-felietonuję	felietonować	fin:sg:pri:perf		rzad.
-felietonuj	felietonować	impt:sg:sec:perf		rzad.
-felietonujmy	felietonować	impt:pl:pri:perf		rzad.
+felietonować	felietonować	inf:imperf		rzad.
+felietonowaliby	felietonować	cond:pl:m1:ter:imperf		rzad.
+felietonowalibyście	felietonować	cond:pl:m1:sec:imperf		rzad.
+felietonowalibyśmy	felietonować	cond:pl:m1:pri:imperf		rzad.
+felietonowali	felietonować	praet:pl:m1:imperf		rzad.
+felietonowali	felietonować	praet:pl:m1:ter:imperf		rzad.
+felietonowaliście	felietonować	praet:pl:m1:sec:imperf		rzad.
+felietonowaliśmy	felietonować	praet:pl:m1:pri:imperf		rzad.
+felietonowałaby	felietonować	cond:sg:f:ter:imperf		rzad.
+felietonowałabym	felietonować	cond:sg:f:pri:imperf		rzad.
+felietonowałabyś	felietonować	cond:sg:f:sec:imperf		rzad.
+felietonowała	felietonować	praet:sg:f:imperf		rzad.
+felietonowała	felietonować	praet:sg:f:ter:imperf		rzad.
+felietonowałam	felietonować	praet:sg:f:pri:imperf		rzad.
+felietonowałaś	felietonować	praet:sg:f:sec:imperf		rzad.
+felietonowałby	felietonować	cond:sg:m1.m2.m3:ter:imperf		rzad.
+felietonowałbym	felietonować	cond:sg:m1.m2.m3:pri:imperf		rzad.
+felietonowałbyś	felietonować	cond:sg:m1.m2.m3:sec:imperf		rzad.
+felietonowałem	felietonować	praet:sg:m1.m2.m3:pri:imperf		rzad.
+felietonowałeś	felietonować	praet:sg:m1.m2.m3:sec:imperf		rzad.
+felietonował	felietonować	praet:sg:m1.m2.m3:imperf		rzad.
+felietonował	felietonować	praet:sg:m1.m2.m3:ter:imperf		rzad.
+felietonowałoby	felietonować	cond:sg:n:ter:imperf		rzad.
+felietonowałobym	felietonować	cond:sg:n:pri:imperf		rzad.
+felietonowałobyś	felietonować	cond:sg:n:sec:imperf		rzad.
+felietonowało	felietonować	praet:sg:n:imperf		rzad.
+felietonowało	felietonować	praet:sg:n:ter:imperf		rzad.
+felietonowałom	felietonować	praet:sg:n:pri:imperf		rzad.
+felietonowałoś	felietonować	praet:sg:n:sec:imperf		rzad.
+felietonowałyby	felietonować	cond:pl:m2.m3.f.n:ter:imperf		rzad.
+felietonowałybyście	felietonować	cond:pl:m2.m3.f.n:sec:imperf		rzad.
+felietonowałybyśmy	felietonować	cond:pl:m2.m3.f.n:pri:imperf		rzad.
+felietonowały	felietonować	praet:pl:m2.m3.f.n:imperf		rzad.
+felietonowały	felietonować	praet:pl:m2.m3.f.n:ter:imperf		rzad.
+felietonowałyście	felietonować	praet:pl:m2.m3.f.n:sec:imperf		rzad.
+felietonowałyśmy	felietonować	praet:pl:m2.m3.f.n:pri:imperf		rzad.
+felietonowaniach	felietonować	ger:pl:loc:n:imperf:aff		
+felietonowania	felietonować	ger:pl:nom.acc:n:imperf:aff		
+felietonowania	felietonować	ger:sg:gen:n:imperf:aff		
+felietonowaniami	felietonować	ger:pl:inst:n:imperf:aff		
+felietonowanie	felietonować	ger:sg:nom.acc:n:imperf:aff		
+felietonowaniem	felietonować	ger:sg:inst:n:imperf:aff		
+felietonowaniom	felietonować	ger:pl:dat:n:imperf:aff		
+felietonowaniu	felietonować	ger:sg:dat.loc:n:imperf:aff		
+felietonowano	felietonować	imps:imperf		rzad.
+felietonowań	felietonować	ger:pl:gen:n:imperf:aff		
+felietonująca	felietonować	pact:sg:nom.voc:f:imperf:aff		rzad.
+felietonującą	felietonować	pact:sg:acc.inst:f:imperf:aff		rzad.
+felietonujące	felietonować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		rzad.
+felietonujące	felietonować	pact:sg:nom.acc.voc:n:imperf:aff		rzad.
+felietonującego	felietonować	pact:sg:acc:m1.m2:imperf:aff		rzad.
+felietonującego	felietonować	pact:sg:gen:m1.m2.m3.n:imperf:aff		rzad.
+felietonującej	felietonować	pact:sg:gen.dat.loc:f:imperf:aff		rzad.
+felietonującemu	felietonować	pact:sg:dat:m1.m2.m3.n:imperf:aff		rzad.
+felietonując	felietonować	pcon:imperf		rzad.
+felietonująco	felietonować	pacta		rzad.
+felietonujących	felietonować	pact:pl:acc:m1:imperf:aff		rzad.
+felietonujących	felietonować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		rzad.
+felietonujący	felietonować	pact:pl:nom.voc:m1:imperf:aff		rzad.
+felietonujący	felietonować	pact:sg:acc:m3:imperf:aff		rzad.
+felietonujący	felietonować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		rzad.
+felietonującym	felietonować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		rzad.
+felietonującym	felietonować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		rzad.
+felietonującymi	felietonować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		rzad.
+felietonują	felietonować	fin:pl:ter:imperf		rzad.
+felietonujcie	felietonować	impt:pl:sec:imperf		rzad.
+felietonujecie	felietonować	fin:pl:sec:imperf		rzad.
+felietonuje	felietonować	fin:sg:ter:imperf		rzad.
+felietonujemy	felietonować	fin:pl:pri:imperf		rzad.
+felietonujesz	felietonować	fin:sg:sec:imperf		rzad.
+felietonuję	felietonować	fin:sg:pri:imperf		rzad.
+felietonuj	felietonować	impt:sg:sec:imperf		rzad.
+felietonujmy	felietonować	impt:pl:pri:imperf		rzad.
 felietonowaniach	felietonowanie	subst:pl:loc:n:ncol	nazwa pospolita	indyw.
 felietonowania	felietonowanie	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	indyw.
 felietonowania	felietonowanie	subst:sg:gen:n:ncol	nazwa pospolita	indyw.
@@ -43677,78 +43705,96 @@ forsztelacji	forsztelacja	subst:sg:gen:f	nazwa pospolita	daw.
 forsztelacjo	forsztelacja	subst:sg:voc:f	nazwa pospolita	daw.
 forsztelacjom	forsztelacja	subst:pl:dat:f	nazwa pospolita	daw.
 forsztelacyj	forsztelacja	subst:pl:gen:f	nazwa pospolita	arch.|char.|daw.
-forsztelować	forsztelować	inf:perf		daw.
-forsztelowaliby	forsztelować	cond:pl:m1:ter:perf		daw.
-forsztelowalibyście	forsztelować	cond:pl:m1:sec:perf		daw.
-forsztelowalibyśmy	forsztelować	cond:pl:m1:pri:perf		daw.
-forsztelowali	forsztelować	praet:pl:m1:perf		daw.
-forsztelowali	forsztelować	praet:pl:m1:ter:perf		daw.
-forsztelowaliście	forsztelować	praet:pl:m1:sec:perf		daw.
-forsztelowaliśmy	forsztelować	praet:pl:m1:pri:perf		daw.
-forsztelowałaby	forsztelować	cond:sg:f:ter:perf		daw.
-forsztelowałabym	forsztelować	cond:sg:f:pri:perf		daw.
-forsztelowałabyś	forsztelować	cond:sg:f:sec:perf		daw.
-forsztelowała	forsztelować	praet:sg:f:perf		daw.
-forsztelowała	forsztelować	praet:sg:f:ter:perf		daw.
-forsztelowałam	forsztelować	praet:sg:f:pri:perf		daw.
-forsztelowałaś	forsztelować	praet:sg:f:sec:perf		daw.
-forsztelowałby	forsztelować	cond:sg:m1.m2.m3:ter:perf		daw.
-forsztelowałbym	forsztelować	cond:sg:m1.m2.m3:pri:perf		daw.
-forsztelowałbyś	forsztelować	cond:sg:m1.m2.m3:sec:perf		daw.
-forsztelowałem	forsztelować	praet:sg:m1.m2.m3:pri:perf		daw.
-forsztelowałeś	forsztelować	praet:sg:m1.m2.m3:sec:perf		daw.
-forsztelował	forsztelować	praet:sg:m1.m2.m3:perf		daw.
-forsztelował	forsztelować	praet:sg:m1.m2.m3:ter:perf		daw.
-forsztelowałoby	forsztelować	cond:sg:n:ter:perf		daw.
-forsztelowałobym	forsztelować	cond:sg:n:pri:perf		daw.
-forsztelowałobyś	forsztelować	cond:sg:n:sec:perf		daw.
-forsztelowało	forsztelować	praet:sg:n:perf		daw.
-forsztelowało	forsztelować	praet:sg:n:ter:perf		daw.
-forsztelowałom	forsztelować	praet:sg:n:pri:perf		daw.
-forsztelowałoś	forsztelować	praet:sg:n:sec:perf		daw.
-forsztelowałyby	forsztelować	cond:pl:m2.m3.f.n:ter:perf		daw.
-forsztelowałybyście	forsztelować	cond:pl:m2.m3.f.n:sec:perf		daw.
-forsztelowałybyśmy	forsztelować	cond:pl:m2.m3.f.n:pri:perf		daw.
-forsztelowały	forsztelować	praet:pl:m2.m3.f.n:perf		daw.
-forsztelowały	forsztelować	praet:pl:m2.m3.f.n:ter:perf		daw.
-forsztelowałyście	forsztelować	praet:pl:m2.m3.f.n:sec:perf		daw.
-forsztelowałyśmy	forsztelować	praet:pl:m2.m3.f.n:pri:perf		daw.
-forsztelowana	forsztelować	ppas:sg:nom.voc:f:perf:aff		
-forsztelowaną	forsztelować	ppas:sg:acc.inst:f:perf:aff		
-forsztelowane	forsztelować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
-forsztelowane	forsztelować	ppas:sg:nom.acc.voc:n:perf:aff		
-forsztelowanego	forsztelować	ppas:sg:acc:m1.m2:perf:aff		
-forsztelowanego	forsztelować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
-forsztelowanej	forsztelować	ppas:sg:gen.dat.loc:f:perf:aff		
-forsztelowanemu	forsztelować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
-forsztelowaniach	forsztelować	ger:pl:loc:n:perf:aff		
-forsztelowania	forsztelować	ger:pl:nom.acc:n:perf:aff		
-forsztelowania	forsztelować	ger:sg:gen:n:perf:aff		
-forsztelowaniami	forsztelować	ger:pl:inst:n:perf:aff		
-forsztelowanie	forsztelować	ger:sg:nom.acc:n:perf:aff		
-forsztelowaniem	forsztelować	ger:sg:inst:n:perf:aff		
-forsztelowani	forsztelować	ppas:pl:nom.voc:m1:perf:aff		
-forsztelowaniom	forsztelować	ger:pl:dat:n:perf:aff		
-forsztelowaniu	forsztelować	ger:sg:dat.loc:n:perf:aff		
-forsztelowano	forsztelować	imps:perf		daw.
-forsztelowanych	forsztelować	ppas:pl:acc:m1:perf:aff		
-forsztelowanych	forsztelować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
-forsztelowany	forsztelować	ppas:sg:acc:m3:perf:aff		
-forsztelowany	forsztelować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
-forsztelowanym	forsztelować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
-forsztelowanym	forsztelować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
-forsztelowanymi	forsztelować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
-forsztelowań	forsztelować	ger:pl:gen:n:perf:aff		
+forsztelować	forsztelować	inf:imperf.perf		daw.
+forsztelowaliby	forsztelować	cond:pl:m1:ter:imperf.perf		daw.
+forsztelowalibyście	forsztelować	cond:pl:m1:sec:imperf.perf		daw.
+forsztelowalibyśmy	forsztelować	cond:pl:m1:pri:imperf.perf		daw.
+forsztelowali	forsztelować	praet:pl:m1:imperf.perf		daw.
+forsztelowali	forsztelować	praet:pl:m1:ter:imperf.perf		daw.
+forsztelowaliście	forsztelować	praet:pl:m1:sec:imperf.perf		daw.
+forsztelowaliśmy	forsztelować	praet:pl:m1:pri:imperf.perf		daw.
+forsztelowałaby	forsztelować	cond:sg:f:ter:imperf.perf		daw.
+forsztelowałabym	forsztelować	cond:sg:f:pri:imperf.perf		daw.
+forsztelowałabyś	forsztelować	cond:sg:f:sec:imperf.perf		daw.
+forsztelowała	forsztelować	praet:sg:f:imperf.perf		daw.
+forsztelowała	forsztelować	praet:sg:f:ter:imperf.perf		daw.
+forsztelowałam	forsztelować	praet:sg:f:pri:imperf.perf		daw.
+forsztelowałaś	forsztelować	praet:sg:f:sec:imperf.perf		daw.
+forsztelowałby	forsztelować	cond:sg:m1.m2.m3:ter:imperf.perf		daw.
+forsztelowałbym	forsztelować	cond:sg:m1.m2.m3:pri:imperf.perf		daw.
+forsztelowałbyś	forsztelować	cond:sg:m1.m2.m3:sec:imperf.perf		daw.
+forsztelowałem	forsztelować	praet:sg:m1.m2.m3:pri:imperf.perf		daw.
+forsztelowałeś	forsztelować	praet:sg:m1.m2.m3:sec:imperf.perf		daw.
+forsztelował	forsztelować	praet:sg:m1.m2.m3:imperf.perf		daw.
+forsztelował	forsztelować	praet:sg:m1.m2.m3:ter:imperf.perf		daw.
+forsztelowałoby	forsztelować	cond:sg:n:ter:imperf.perf		daw.
+forsztelowałobym	forsztelować	cond:sg:n:pri:imperf.perf		daw.
+forsztelowałobyś	forsztelować	cond:sg:n:sec:imperf.perf		daw.
+forsztelowało	forsztelować	praet:sg:n:imperf.perf		daw.
+forsztelowało	forsztelować	praet:sg:n:ter:imperf.perf		daw.
+forsztelowałom	forsztelować	praet:sg:n:pri:imperf.perf		daw.
+forsztelowałoś	forsztelować	praet:sg:n:sec:imperf.perf		daw.
+forsztelowałyby	forsztelować	cond:pl:m2.m3.f.n:ter:imperf.perf		daw.
+forsztelowałybyście	forsztelować	cond:pl:m2.m3.f.n:sec:imperf.perf		daw.
+forsztelowałybyśmy	forsztelować	cond:pl:m2.m3.f.n:pri:imperf.perf		daw.
+forsztelowały	forsztelować	praet:pl:m2.m3.f.n:imperf.perf		daw.
+forsztelowały	forsztelować	praet:pl:m2.m3.f.n:ter:imperf.perf		daw.
+forsztelowałyście	forsztelować	praet:pl:m2.m3.f.n:sec:imperf.perf		daw.
+forsztelowałyśmy	forsztelować	praet:pl:m2.m3.f.n:pri:imperf.perf		daw.
+forsztelowana	forsztelować	ppas:sg:nom.voc:f:imperf.perf:aff		daw.
+forsztelowaną	forsztelować	ppas:sg:acc.inst:f:imperf.perf:aff		daw.
+forsztelowane	forsztelować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf.perf:aff		daw.
+forsztelowane	forsztelować	ppas:sg:nom.acc.voc:n:imperf.perf:aff		daw.
+forsztelowanego	forsztelować	ppas:sg:acc:m1.m2:imperf.perf:aff		daw.
+forsztelowanego	forsztelować	ppas:sg:gen:m1.m2.m3.n:imperf.perf:aff		daw.
+forsztelowanej	forsztelować	ppas:sg:gen.dat.loc:f:imperf.perf:aff		daw.
+forsztelowanemu	forsztelować	ppas:sg:dat:m1.m2.m3.n:imperf.perf:aff		daw.
+forsztelowaniach	forsztelować	ger:pl:loc:n:imperf.perf:aff		daw.
+forsztelowania	forsztelować	ger:pl:nom.acc:n:imperf.perf:aff		daw.
+forsztelowania	forsztelować	ger:sg:gen:n:imperf.perf:aff		daw.
+forsztelowaniami	forsztelować	ger:pl:inst:n:imperf.perf:aff		daw.
+forsztelowanie	forsztelować	ger:sg:nom.acc:n:imperf.perf:aff		daw.
+forsztelowaniem	forsztelować	ger:sg:inst:n:imperf.perf:aff		daw.
+forsztelowani	forsztelować	ppas:pl:nom.voc:m1:imperf.perf:aff		daw.
+forsztelowaniom	forsztelować	ger:pl:dat:n:imperf.perf:aff		daw.
+forsztelowaniu	forsztelować	ger:sg:dat.loc:n:imperf.perf:aff		daw.
+forsztelowano	forsztelować	imps:imperf.perf		daw.
+forsztelowanych	forsztelować	ppas:pl:acc:m1:imperf.perf:aff		daw.
+forsztelowanych	forsztelować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf.perf:aff		daw.
+forsztelowany	forsztelować	ppas:sg:acc:m3:imperf.perf:aff		daw.
+forsztelowany	forsztelować	ppas:sg:nom.voc:m1.m2.m3:imperf.perf:aff		daw.
+forsztelowanym	forsztelować	ppas:pl:dat:m1.m2.m3.f.n:imperf.perf:aff		daw.
+forsztelowanym	forsztelować	ppas:sg:inst.loc:m1.m2.m3.n:imperf.perf:aff		daw.
+forsztelowanymi	forsztelować	ppas:pl:inst:m1.m2.m3.f.n:imperf.perf:aff		daw.
+forsztelowań	forsztelować	ger:pl:gen:n:imperf.perf:aff		daw.
 forsztelowawszy	forsztelować	pant:perf		daw.
-forsztelują	forsztelować	fin:pl:ter:perf		daw.
-forsztelujcie	forsztelować	impt:pl:sec:perf		daw.
-forsztelujecie	forsztelować	fin:pl:sec:perf		daw.
-forszteluje	forsztelować	fin:sg:ter:perf		daw.
-forsztelujemy	forsztelować	fin:pl:pri:perf		daw.
-forsztelujesz	forsztelować	fin:sg:sec:perf		daw.
-forszteluję	forsztelować	fin:sg:pri:perf		daw.
-forszteluj	forsztelować	impt:sg:sec:perf		daw.
-forsztelujmy	forsztelować	impt:pl:pri:perf		daw.
+forsztelująca	forsztelować	pact:sg:nom.voc:f:imperf:aff		daw.
+forsztelującą	forsztelować	pact:sg:acc.inst:f:imperf:aff		daw.
+forsztelujące	forsztelować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		daw.
+forsztelujące	forsztelować	pact:sg:nom.acc.voc:n:imperf:aff		daw.
+forsztelującego	forsztelować	pact:sg:acc:m1.m2:imperf:aff		daw.
+forsztelującego	forsztelować	pact:sg:gen:m1.m2.m3.n:imperf:aff		daw.
+forsztelującej	forsztelować	pact:sg:gen.dat.loc:f:imperf:aff		daw.
+forsztelującemu	forsztelować	pact:sg:dat:m1.m2.m3.n:imperf:aff		daw.
+forsztelując	forsztelować	pcon:imperf		daw.
+forsztelująco	forsztelować	pacta		daw.
+forsztelujących	forsztelować	pact:pl:acc:m1:imperf:aff		daw.
+forsztelujących	forsztelować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		daw.
+forsztelujący	forsztelować	pact:pl:nom.voc:m1:imperf:aff		daw.
+forsztelujący	forsztelować	pact:sg:acc:m3:imperf:aff		daw.
+forsztelujący	forsztelować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		daw.
+forsztelującym	forsztelować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		daw.
+forsztelującym	forsztelować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		daw.
+forsztelującymi	forsztelować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		daw.
+forsztelują	forsztelować	fin:pl:ter:imperf.perf		daw.
+forsztelujcie	forsztelować	impt:pl:sec:imperf.perf		daw.
+forsztelujecie	forsztelować	fin:pl:sec:imperf.perf		daw.
+forszteluje	forsztelować	fin:sg:ter:imperf.perf		daw.
+forsztelujemy	forsztelować	fin:pl:pri:imperf.perf		daw.
+forsztelujesz	forsztelować	fin:sg:sec:imperf.perf		daw.
+forszteluję	forsztelować	fin:sg:pri:imperf.perf		daw.
+forszteluj	forsztelować	impt:sg:sec:imperf.perf		daw.
+forsztelujmy	forsztelować	impt:pl:pri:imperf.perf		daw.
 forsztmanach	forsztman	subst:pl:loc:m1	nazwa pospolita	daw.
 forsztmana	forsztman	subst:sg:gen.acc:m1	nazwa pospolita	daw.
 forsztmana	forsztman	subst:sg:gen:m1	nazwa pospolita	daw.

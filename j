@@ -3356,6 +3356,7 @@ jakli	jakla	subst:sg:dat.loc:f	nazwa pospolita
 jakli	jakla	subst:sg:gen:f	nazwa pospolita	
 jaklo	jakla	subst:sg:voc:f	nazwa pospolita	
 jaklom	jakla	subst:pl:dat:f	nazwa pospolita	
+jako	jako:b	burk		
 jakobiccy	jakobicki	adj:pl:nom.voc:m1:pos		
 jakobicka	jakobicki	adj:sg:nom.voc:f:pos		
 jakobicką	jakobicki	adj:sg:acc:f:pos		
@@ -3479,7 +3480,7 @@ jakobity	jakobita	depr:pl:nom.acc.voc:m2	nazwa pospolita
 jakobity	jakobita	subst:sg:gen:m1	nazwa pospolita	
 jakoby	jakoby:c	comp		książk.
 jakoby	jakoby:q	qub		książk.
-jako	jako:d	adv		daw.
+jako	jako:c	comp		przest.
 jako	jako:j	conj		
 jakokolwiek	jakokolwiek	conj		daw.
 jakoli	jakoli	conj		daw.
@@ -30057,17 +30058,6 @@ johimbino	johimbina	subst:sg:voc:f	nazwa pospolita
 johimbinom	johimbina	subst:pl:dat:f	nazwa pospolita	
 johimbiny	johimbina	subst:pl:nom.acc.voc:f	nazwa pospolita	
 johimbiny	johimbina	subst:sg:gen:f	nazwa pospolita	
-johombinach	johombina	subst:pl:loc:f	nazwa pospolita	
-johombina	johombina	subst:sg:nom:f	nazwa pospolita	
-johombinami	johombina	subst:pl:inst:f	nazwa pospolita	
-johombiną	johombina	subst:sg:inst:f	nazwa pospolita	
-johombinę	johombina	subst:sg:acc:f	nazwa pospolita	
-johombinie	johombina	subst:sg:dat.loc:f	nazwa pospolita	
-johombin	johombina	subst:pl:gen:f	nazwa pospolita	
-johombino	johombina	subst:sg:voc:f	nazwa pospolita	
-johombinom	johombina	subst:pl:dat:f	nazwa pospolita	
-johombiny	johombina	subst:pl:nom.acc.voc:f	nazwa pospolita	
-johombiny	johombina	subst:sg:gen:f	nazwa pospolita	
 joincie	joint	subst:sg:loc:m2	nazwa pospolita	
 joincie	joint	subst:sg:voc:m2	nazwa pospolita	
 jointach	joint	subst:pl:loc:m2	nazwa pospolita	

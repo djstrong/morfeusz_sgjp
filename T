@@ -498,17 +498,6 @@ Tanganiki	Tanganika	subst:sg:gen:f	nazwa geograficzna
 Tanganikom	Tanganika	subst:pl:dat:f	nazwa geograficzna	
 Tanganiko	Tanganika	subst:sg:voc:f	nazwa geograficzna	
 Tanganik	Tanganika	subst:pl:gen:f	nazwa geograficzna	
-Tanguzce	Tanguzka	subst:sg:dat.loc:f	nazwa pospolita	
-Tanguzek	Tanguzka	subst:pl:gen:f	nazwa pospolita	
-Tanguzkach	Tanguzka	subst:pl:loc:f	nazwa pospolita	
-Tanguzkami	Tanguzka	subst:pl:inst:f	nazwa pospolita	
-Tanguzka	Tanguzka	subst:sg:nom:f	nazwa pospolita	
-Tanguzką	Tanguzka	subst:sg:inst:f	nazwa pospolita	
-Tanguzkę	Tanguzka	subst:sg:acc:f	nazwa pospolita	
-Tanguzki	Tanguzka	subst:pl:nom.acc.voc:f	nazwa pospolita	
-Tanguzki	Tanguzka	subst:sg:gen:f	nazwa pospolita	
-Tanguzkom	Tanguzka	subst:pl:dat:f	nazwa pospolita	
-Tanguzko	Tanguzka	subst:sg:voc:f	nazwa pospolita	
 Taniach	Tania	subst:pl:loc:f	imię	
 Taniami	Tania	subst:pl:inst:f	imię	
 Tania	Tania	subst:sg:nom:f	imię	
@@ -4118,6 +4107,17 @@ Tunguzowi	Tunguz	subst:sg:dat:m1	nazwa pospolita
 Tunguzów	Tunguz	subst:pl:gen.acc:m1	nazwa pospolita	
 Tunguz	Tunguz	subst:sg:nom:m1	nazwa pospolita	
 Tunguzy	Tunguz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Tunguzce	Tunguzka	subst:sg:dat.loc:f	nazwa pospolita	
+Tunguzek	Tunguzka	subst:pl:gen:f	nazwa pospolita	
+Tunguzkach	Tunguzka	subst:pl:loc:f	nazwa pospolita	
+Tunguzkami	Tunguzka	subst:pl:inst:f	nazwa pospolita	
+Tunguzka	Tunguzka	subst:sg:nom:f	nazwa pospolita	
+Tunguzką	Tunguzka	subst:sg:inst:f	nazwa pospolita	
+Tunguzkę	Tunguzka	subst:sg:acc:f	nazwa pospolita	
+Tunguzki	Tunguzka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+Tunguzki	Tunguzka	subst:sg:gen:f	nazwa pospolita	
+Tunguzkom	Tunguzka	subst:pl:dat:f	nazwa pospolita	
+Tunguzko	Tunguzka	subst:sg:voc:f	nazwa pospolita	
 Tunisach	Tunis	subst:pl:loc:m3	nazwa geograficzna	
 Tunisami	Tunis	subst:pl:inst:m3	nazwa geograficzna	
 Tunisem	Tunis	subst:sg:inst:m3	nazwa geograficzna	
