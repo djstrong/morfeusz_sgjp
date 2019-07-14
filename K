@@ -3913,16 +3913,17 @@ Kazimierzach	Kazimierza	subst:pl:loc:f	geograficzna
 Kazimierza	Kazimierza	subst:sg:nom:f	geograficzna	
 Kazimierzami	Kazimierza	subst:pl:inst:f	geograficzna	
 Kazimierzą	Kazimierza	subst:sg:inst:f	geograficzna	
+Kazimierze	Kazimierza	subst:pl:acc:f	geograficzna	
+Kazimierze	Kazimierza	subst:pl:nom:f	geograficzna	
+Kazimierze	Kazimierza	subst:pl:voc:f	geograficzna	
 Kazimierzę	Kazimierza	subst:sg:acc:f	geograficzna	
-Kazimierz	Kazimierza	subst:pl:gen:f	geograficzna	
+Kazimierz	Kazimierza	subst:pl:gen:f	geograficzna	char.
 Kazimierzo	Kazimierza	subst:sg:voc:f	geograficzna	
 Kazimierzom	Kazimierza	subst:pl:dat:f	geograficzna	
-Kazimierzy	Kazimierza	subst:pl:acc:f	geograficzna	
-Kazimierzy	Kazimierza	subst:pl:nom:f	geograficzna	
-Kazimierzy	Kazimierza	subst:pl:voc:f	geograficzna	
+Kazimierzy	Kazimierza	subst:pl:gen:f	geograficzna	hom.
+Kazimierzy	Kazimierza	subst:sg:dat:f	geograficzna	
 Kazimierzy	Kazimierza	subst:sg:gen:f	geograficzna	
-Kazimierzze	Kazimierza	subst:sg:dat:f	geograficzna	
-Kazimierzze	Kazimierza	subst:sg:loc:f	geograficzna	
+Kazimierzy	Kazimierza	subst:sg:loc:f	geograficzna	
 Kazimierzach	Kazimierz:s1	subst:pl:loc:m1	imię	
 Kazimierza	Kazimierz:s1	subst:sg:acc:m1	imię	
 Kazimierza	Kazimierz:s1	subst:sg:gen:m1	imię	

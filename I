@@ -1118,8 +1118,6 @@ Indra	Indra	subst:sg:nom:m1	imię	rel.
 Indrami	Indra	subst:pl:inst:m1	imię	rel.
 Indrą	Indra	subst:sg:inst:m1	imię	rel.
 Indrę	Indra	subst:sg:acc:m1	imię	rel.
-Indrie	Indra	subst:sg:dat:m1	imię	rel.
-Indrie	Indra	subst:sg:loc:m1	imię	rel.
 Indro	Indra	subst:sg:voc:m1	imię	rel.
 Indrom	Indra	subst:pl:dat:m1	imię	rel.
 Indrowie	Indra	subst:pl:nom:m1	imię	rel.
@@ -1129,6 +1127,8 @@ Indrów	Indra	subst:pl:gen:m1	imię	rel.
 Indry	Indra	depr:pl:nom:m2	imię	rel.
 Indry	Indra	depr:pl:voc:m2	imię	rel.
 Indry	Indra	subst:sg:gen:m1	imię	rel.
+Indrze	Indra	subst:sg:dat:m1	imię	rel.
+Indrze	Indra	subst:sg:loc:m1	imię	rel.
 Indusach	Indus:s1	subst:pl:loc:m1	pospolita	
 Indusa	Indus:s1	subst:sg:acc:m1	pospolita	
 Indusa	Indus:s1	subst:sg:gen:m1	pospolita	
