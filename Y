@@ -7,22 +7,19 @@ Yaninie	Yanina	subst:sg:dat.loc:f	imię
 Yaninom	Yanina	subst:pl:dat:f	imię	
 Yanino	Yanina	subst:sg:voc:f	imię	
 Yanin	Yanina	subst:pl:gen:f	imię	
-Yaniny	Yanina	subst:pl:nom.acc:f	imię	
-Yaniny	Yanina	subst:pl:voc:f	imię	
+Yaniny	Yanina	subst:pl:nom.acc.voc:f	imię	
 Yaniny	Yanina	subst:sg:gen:f	imię	
 Yeatsach	Yeats	subst:pl:loc:m1	nazwisko	
 Yeatsami	Yeats	subst:pl:inst:m1	nazwisko	
-Yeatsa	Yeats	subst:sg:acc:m1	nazwisko	
+Yeatsa	Yeats	subst:sg:gen.acc:m1	nazwisko	
 Yeatsa	Yeats	subst:sg:gen:m1	nazwisko	
 Yeatsem	Yeats	subst:sg:inst:m1	nazwisko	
 Yeatsie	Yeats	subst:sg:loc:m1	nazwisko	
 Yeatsie	Yeats	subst:sg:voc:m1	nazwisko	
 Yeatsom	Yeats	subst:pl:dat:m1	nazwisko	
-Yeatsowie	Yeats	subst:pl:nom:m1	nazwisko	
-Yeatsowie	Yeats	subst:pl:voc:m1	nazwisko	
+Yeatsowie	Yeats	subst:pl:nom.voc:m1	nazwisko	
 Yeatsowi	Yeats	subst:sg:dat:m1	nazwisko	
-Yeatsów	Yeats	subst:pl:acc:m1	nazwisko	
-Yeatsów	Yeats	subst:pl:gen:m1	nazwisko	
+Yeatsów	Yeats	subst:pl:gen.acc:m1	nazwisko	
 Yeats	Yeats	subst:sg:nom:m1	nazwisko	
 Yeatsy	Yeats	depr:pl:nom.acc.voc:m2	nazwisko	
 YMCA	YMCA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa organizacji	
@@ -30,28 +27,24 @@ YMCA	YMCA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji
 Yorkach	York	subst:pl:loc:m3	nazwa geograficzna	
 Yorkami	York	subst:pl:inst:m3	nazwa geograficzna	
 Yorkiem	York	subst:sg:inst:m3	nazwa geograficzna	
-Yorki	York	subst:pl:nom.acc:m3	nazwa geograficzna	
-Yorki	York	subst:pl:voc:m3	nazwa geograficzna	
+Yorki	York	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Yorkom	York	subst:pl:dat:m3	nazwa geograficzna	
 Yorkowi	York	subst:sg:dat:m3	nazwa geograficzna	
 Yorków	York	subst:pl:gen:m3	nazwa geograficzna	
 Yorku	York	subst:sg:gen:m3	nazwa geograficzna	
 Yorku	York	subst:sg:loc:m3	nazwa geograficzna	
 Yorku	York	subst:sg:voc:m3	nazwa geograficzna	
-York	York	subst:sg:acc:m3	nazwa geograficzna	
-York	York	subst:sg:nom:m3	nazwa geograficzna	
+York	York	subst:sg:nom.acc:m3	nazwa geograficzna	
 Youngach	Young	subst:pl:loc:m1	nazwisko	
 Youngami	Young	subst:pl:inst:m1	nazwisko	
-Younga	Young	subst:sg:acc:m1	nazwisko	
+Younga	Young	subst:sg:gen.acc:m1	nazwisko	
 Younga	Young	subst:sg:gen:m1	nazwisko	
 Youngiem	Young	subst:sg:inst:m1	nazwisko	
 Youngi	Young	depr:pl:nom.acc.voc:m2	nazwisko	
 Youngom	Young	subst:pl:dat:m1	nazwisko	
-Youngowie	Young	subst:pl:nom:m1	nazwisko	
-Youngowie	Young	subst:pl:voc:m1	nazwisko	
+Youngowie	Young	subst:pl:nom.voc:m1	nazwisko	
 Youngowi	Young	subst:sg:dat:m1	nazwisko	
-Youngów	Young	subst:pl:acc:m1	nazwisko	
-Youngów	Young	subst:pl:gen:m1	nazwisko	
+Youngów	Young	subst:pl:gen.acc:m1	nazwisko	
 Youngu	Young	subst:sg:loc:m1	nazwisko	
 Youngu	Young	subst:sg:voc:m1	nazwisko	
 Young	Young	subst:sg:nom:m1	nazwisko	

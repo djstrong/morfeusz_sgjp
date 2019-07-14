@@ -8,8 +8,7 @@
 Łab	Łaba	subst:pl:gen:f	nazwa geograficzna	
 Łabo	Łaba	subst:sg:voc:f	nazwa geograficzna	
 Łabom	Łaba	subst:pl:dat:f	nazwa geograficzna	
-Łaby	Łaba	subst:pl:nom.acc:f	nazwa geograficzna	
-Łaby	Łaba	subst:pl:voc:f	nazwa geograficzna	
+Łaby	Łaba	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łaby	Łaba	subst:sg:gen:f	nazwa geograficzna	
 Łabędzka	Łabędzka	subst:sg:nom:f	nazwisko	
 Łabędzka	Łabędzka	subst:sg:voc:f	nazwisko	
@@ -19,16 +18,13 @@
 Łabędzkich	Łabędzka	subst:pl:loc:f	nazwisko	
 Łabędzkiej	Łabędzka	subst:sg:dat.loc:f	nazwisko	
 Łabędzkiej	Łabędzka	subst:sg:gen:f	nazwisko	
-Łabędzkie	Łabędzka	subst:pl:nom.acc:f	nazwisko	
-Łabędzkie	Łabędzka	subst:pl:voc:f	nazwisko	
+Łabędzkie	Łabędzka	subst:pl:nom.acc.voc:f	nazwisko	
 Łabędzkimi	Łabędzka	subst:pl:inst:f	nazwisko	
 Łabędzkim	Łabędzka	subst:pl:dat:f	nazwisko	
-Łabędzcy	Łabędzki	subst:pl:nom:m1	nazwisko	
-Łabędzcy	Łabędzki	subst:pl:voc:m1	nazwisko	
-Łabędzkich	Łabędzki	subst:pl:acc:m1	nazwisko	
-Łabędzkich	Łabędzki	subst:pl:gen:m1	nazwisko	
+Łabędzcy	Łabędzki	subst:pl:nom.voc:m1	nazwisko	
+Łabędzkich	Łabędzki	subst:pl:gen.acc:m1	nazwisko	
 Łabędzkich	Łabędzki	subst:pl:loc:m1	nazwisko	
-Łabędzkiego	Łabędzki	subst:sg:acc:m1	nazwisko	
+Łabędzkiego	Łabędzki	subst:sg:gen.acc:m1	nazwisko	
 Łabędzkiego	Łabędzki	subst:sg:gen:m1	nazwisko	
 Łabędzkie	Łabędzki	depr:pl:nom.acc.voc:m2	nazwisko	
 Łabędzkiemu	Łabędzki	subst:sg:dat:m1	nazwisko	
@@ -44,53 +40,44 @@
 Łabiszynem	Łabiszyn	subst:sg:inst:m3	nazwa geograficzna	
 Łabiszynie	Łabiszyn	subst:sg:loc:m3	nazwa geograficzna	
 Łabiszynie	Łabiszyn	subst:sg:voc:m3	nazwa geograficzna	
-Łabiszyn	Łabiszyn	subst:sg:acc:m3	nazwa geograficzna	
-Łabiszyn	Łabiszyn	subst:sg:nom:m3	nazwa geograficzna	
+Łabiszyn	Łabiszyn	subst:sg:nom.acc:m3	nazwa geograficzna	
 Łabiszynom	Łabiszyn	subst:pl:dat:m3	nazwa geograficzna	
 Łabiszynowi	Łabiszyn	subst:sg:dat:m3	nazwa geograficzna	
 Łabiszynów	Łabiszyn	subst:pl:gen:m3	nazwa geograficzna	
-Łabiszyny	Łabiszyn	subst:pl:nom.acc:m3	nazwa geograficzna	
-Łabiszyny	Łabiszyn	subst:pl:voc:m3	nazwa geograficzna	
+Łabiszyny	Łabiszyn	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Ładysławach	Ładysław	subst:pl:loc:m1	imię	
-Ładysława	Ładysław	subst:sg:acc:m1	imię	
+Ładysława	Ładysław	subst:sg:gen.acc:m1	imię	
 Ładysława	Ładysław	subst:sg:gen:m1	imię	
 Ładysławami	Ładysław	subst:pl:inst:m1	imię	
 Ładysławem	Ładysław	subst:sg:inst:m1	imię	
 Ładysławie	Ładysław	subst:sg:loc:m1	imię	
 Ładysławie	Ładysław	subst:sg:voc:m1	imię	
-Ładysławi	Ładysław	subst:pl:nom:m1	imię	
-Ładysławi	Ładysław	subst:pl:voc:m1	imię	
+Ładysławi	Ładysław	subst:pl:nom.voc:m1	imię	
 Ładysław	Ładysław	subst:sg:nom:m1	imię	
 Ładysławom	Ładysław	subst:pl:dat:m1	imię	
-Ładysławowie	Ładysław	subst:pl:nom:m1	imię	
-Ładysławowie	Ładysław	subst:pl:voc:m1	imię	
+Ładysławowie	Ładysław	subst:pl:nom.voc:m1	imię	
 Ładysławowi	Ładysław	subst:sg:dat:m1	imię	
-Ładysławów	Ładysław	subst:pl:acc:m1	imię	
-Ładysławów	Ładysław	subst:pl:gen:m1	imię	
+Ładysławów	Ładysław	subst:pl:gen.acc:m1	imię	
 Ładysławy	Ładysław	depr:pl:nom.acc.voc:m2	imię	
 Ładyszach	Ładysz	subst:pl:loc:m1	nazwisko	
-Ładysza	Ładysz	subst:sg:acc:m1	nazwisko	
+Ładysza	Ładysz	subst:sg:gen.acc:m1	nazwisko	
 Ładysza	Ładysz	subst:sg:gen:m1	nazwisko	
 Ładyszami	Ładysz	subst:pl:inst:m1	nazwisko	
 Ładysze	Ładysz	depr:pl:nom.acc.voc:m2	nazwisko	
 Ładyszem	Ładysz	subst:sg:inst:m1	nazwisko	
 Ładysz	Ładysz	subst:sg:nom:m1	nazwisko	
 Ładyszom	Ładysz	subst:pl:dat:m1	nazwisko	
-Ładyszowie	Ładysz	subst:pl:nom:m1	nazwisko	
-Ładyszowie	Ładysz	subst:pl:voc:m1	nazwisko	
+Ładyszowie	Ładysz	subst:pl:nom.voc:m1	nazwisko	
 Ładyszowi	Ładysz	subst:sg:dat:m1	nazwisko	
-Ładyszów	Ładysz	subst:pl:acc:m1	nazwisko	
-Ładyszów	Ładysz	subst:pl:gen:m1	nazwisko	
+Ładyszów	Ładysz	subst:pl:gen.acc:m1	nazwisko	
 Ładyszu	Ładysz	subst:sg:loc:m1	nazwisko	
 Ładyszu	Ładysz	subst:sg:voc:m1	nazwisko	
 Ładzicach	Ładzice	subst:pl:loc:n:pt	nazwa geograficzna	
 Ładzicach	Ładzice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Ładzicami	Ładzice	subst:pl:inst:n:pt	nazwa geograficzna	
 Ładzicami	Ładzice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Ładzice	Ładzice	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Ładzice	Ładzice	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Ładzice	Ładzice	subst:pl:voc:n:pt	nazwa geograficzna	
-Ładzice	Ładzice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Ładzice	Ładzice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Ładzice	Ładzice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Ładzic	Ładzice	subst:pl:gen:n:pt	nazwa geograficzna	
 Ładzic	Ładzice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Ładzicom	Ładzice	subst:pl:dat:n:pt	nazwa geograficzna	
@@ -99,10 +86,8 @@
 Łagiewnikach	Łagiewniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Łagiewnikami	Łagiewniki	subst:pl:inst:n:pt	nazwa geograficzna	
 Łagiewnikami	Łagiewniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Łagiewniki	Łagiewniki	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łagiewniki	Łagiewniki	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łagiewniki	Łagiewniki	subst:pl:voc:n:pt	nazwa geograficzna	
-Łagiewniki	Łagiewniki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łagiewniki	Łagiewniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łagiewniki	Łagiewniki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łagiewnik	Łagiewniki	subst:pl:gen:n:pt	nazwa geograficzna	
 Łagiewnik	Łagiewniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łagiewnikom	Łagiewniki	subst:pl:dat:n:pt	nazwa geograficzna	
@@ -117,20 +102,15 @@
 Łagowowi	Łagów	subst:sg:dat:m3	nazwa geograficzna	
 Łagowów	Łagów	subst:pl:gen:m3	nazwa geograficzna	
 Łagowu	Łagów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
-Łagowy	Łagów	subst:pl:nom.acc:m3	nazwa geograficzna	
-Łagowy	Łagów	subst:pl:voc:m3	nazwa geograficzna	
-Łagów	Łagów	subst:sg:acc:m3	nazwa geograficzna	
-Łagów	Łagów	subst:sg:nom:m3	nazwa geograficzna	
-Łakomego	Łakomy	subst:sg:acc:m1	nazwisko	
+Łagowy	Łagów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Łagów	Łagów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Łakomego	Łakomy	subst:sg:gen.acc:m1	nazwisko	
 Łakomego	Łakomy	subst:sg:gen:m1	nazwisko	
 Łakome	Łakomy	depr:pl:nom.acc.voc:m2	nazwisko	
 Łakomemu	Łakomy	subst:sg:dat:m1	nazwisko	
-Łakomi	Łakomy	subst:pl:nom:m1	nazwisko	
-Łakomi	Łakomy	subst:pl:voc:m1	nazwisko	
-Łakomowie	Łakomy	subst:pl:nom:m1	nazwisko	
-Łakomowie	Łakomy	subst:pl:voc:m1	nazwisko	
-Łakomych	Łakomy	subst:pl:acc:m1	nazwisko	
-Łakomych	Łakomy	subst:pl:gen:m1	nazwisko	
+Łakomi	Łakomy	subst:pl:nom.voc:m1	nazwisko	
+Łakomowie	Łakomy	subst:pl:nom.voc:m1	nazwisko	
+Łakomych	Łakomy	subst:pl:gen.acc:m1	nazwisko	
 Łakomych	Łakomy	subst:pl:loc:m1	nazwisko	
 Łakomy	Łakomy	subst:sg:nom:m1	nazwisko	
 Łakomy	Łakomy	subst:sg:voc:m1	nazwisko	
@@ -142,10 +122,8 @@
 Łambinowicach	Łambinowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Łambinowicami	Łambinowice	subst:pl:inst:n:pt	nazwa geograficzna	
 Łambinowicami	Łambinowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Łambinowice	Łambinowice	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łambinowice	Łambinowice	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łambinowice	Łambinowice	subst:pl:voc:n:pt	nazwa geograficzna	
-Łambinowice	Łambinowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łambinowice	Łambinowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łambinowice	Łambinowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łambinowic	Łambinowice	subst:pl:gen:n:pt	nazwa geograficzna	
 Łambinowic	Łambinowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łambinowicom	Łambinowice	subst:pl:dat:n:pt	nazwa geograficzna	
@@ -156,13 +134,11 @@
 Łańcuta	Łańcut	subst:sg:gen:m3	nazwa geograficzna	
 Łańcutami	Łańcut	subst:pl:inst:m3	nazwa geograficzna	
 Łańcutem	Łańcut	subst:sg:inst:m3	nazwa geograficzna	
-Łańcut	Łańcut	subst:sg:acc:m3	nazwa geograficzna	
-Łańcut	Łańcut	subst:sg:nom:m3	nazwa geograficzna	
+Łańcut	Łańcut	subst:sg:nom.acc:m3	nazwa geograficzna	
 Łańcutom	Łańcut	subst:pl:dat:m3	nazwa geograficzna	
 Łańcutowi	Łańcut	subst:sg:dat:m3	nazwa geograficzna	
 Łańcutów	Łańcut	subst:pl:gen:m3	nazwa geograficzna	
-Łańcuty	Łańcut	subst:pl:nom.acc:m3	nazwa geograficzna	
-Łańcuty	Łańcut	subst:pl:voc:m3	nazwa geograficzna	
+Łańcuty	Łańcut	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Łapanowach	Łapanów	subst:pl:loc:m3	nazwa geograficzna	
 Łapanowa	Łapanów	subst:sg:gen:m3	nazwa geograficzna	
 Łapanowami	Łapanów	subst:pl:inst:m3	nazwa geograficzna	
@@ -173,10 +149,8 @@
 Łapanowowi	Łapanów	subst:sg:dat:m3	nazwa geograficzna	
 Łapanowów	Łapanów	subst:pl:gen:m3	nazwa geograficzna	
 Łapanowu	Łapanów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
-Łapanowy	Łapanów	subst:pl:nom.acc:m3	nazwa geograficzna	
-Łapanowy	Łapanów	subst:pl:voc:m3	nazwa geograficzna	
-Łapanów	Łapanów	subst:sg:acc:m3	nazwa geograficzna	
-Łapanów	Łapanów	subst:sg:nom:m3	nazwa geograficzna	
+Łapanowy	Łapanów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Łapanów	Łapanów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Łapińska	Łapińska	subst:sg:nom:f	nazwisko	
 Łapińska	Łapińska	subst:sg:voc:f	nazwisko	
 Łapińską	Łapińska	subst:sg:acc:f	nazwisko	
@@ -185,16 +159,13 @@
 Łapińskich	Łapińska	subst:pl:loc:f	nazwisko	
 Łapińskiej	Łapińska	subst:sg:dat.loc:f	nazwisko	
 Łapińskiej	Łapińska	subst:sg:gen:f	nazwisko	
-Łapińskie	Łapińska	subst:pl:nom.acc:f	nazwisko	
-Łapińskie	Łapińska	subst:pl:voc:f	nazwisko	
+Łapińskie	Łapińska	subst:pl:nom.acc.voc:f	nazwisko	
 Łapińskimi	Łapińska	subst:pl:inst:f	nazwisko	
 Łapińskim	Łapińska	subst:pl:dat:f	nazwisko	
-Łapińscy	Łapiński	subst:pl:nom:m1	nazwisko	
-Łapińscy	Łapiński	subst:pl:voc:m1	nazwisko	
-Łapińskich	Łapiński	subst:pl:acc:m1	nazwisko	
-Łapińskich	Łapiński	subst:pl:gen:m1	nazwisko	
+Łapińscy	Łapiński	subst:pl:nom.voc:m1	nazwisko	
+Łapińskich	Łapiński	subst:pl:gen.acc:m1	nazwisko	
 Łapińskich	Łapiński	subst:pl:loc:m1	nazwisko	
-Łapińskiego	Łapiński	subst:sg:acc:m1	nazwisko	
+Łapińskiego	Łapiński	subst:sg:gen.acc:m1	nazwisko	
 Łapińskiego	Łapiński	subst:sg:gen:m1	nazwisko	
 Łapińskie	Łapiński	depr:pl:nom.acc.voc:m2	nazwisko	
 Łapińskiemu	Łapiński	subst:sg:dat:m1	nazwisko	
@@ -208,10 +179,8 @@
 Łapszach	Łapsze	subst:pl:loc:n:pt	nazwa geograficzna	
 Łapszami	Łapsze	subst:pl:inst:n:pt	nazwa geograficzna	
 Łapszami	Łapsze	subst:pl:inst:n:pt	nazwa geograficzna	
-Łapsze	Łapsze	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łapsze	Łapsze	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łapsze	Łapsze	subst:pl:voc:n:pt	nazwa geograficzna	
-Łapsze	Łapsze	subst:pl:voc:n:pt	nazwa geograficzna	
+Łapsze	Łapsze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łapsze	Łapsze	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
 Łapszom	Łapsze	subst:pl:dat:n:pt	nazwa geograficzna	
 Łapszom	Łapsze	subst:pl:dat:n:pt	nazwa geograficzna	
 Łapszy	Łapsze	subst:pl:gen:n:pt	nazwa geograficzna	
@@ -224,29 +193,23 @@
 Łap	Łapy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łapom	Łapy	subst:pl:dat:n:pt	nazwa geograficzna	
 Łapom	Łapy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
-Łapy	Łapy	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łapy	Łapy	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łapy	Łapy	subst:pl:voc:n:pt	nazwa geograficzna	
-Łapy	Łapy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łapy	Łapy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łapy	Łapy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łaskach	Łask	subst:pl:loc:m3	nazwa geograficzna	
 Łaskami	Łask	subst:pl:inst:m3	nazwa geograficzna	
 Łaskiem	Łask	subst:sg:inst:m3	nazwa geograficzna	
-Łaski	Łask	subst:pl:nom.acc:m3	nazwa geograficzna	
-Łaski	Łask	subst:pl:voc:m3	nazwa geograficzna	
-Łask	Łask	subst:sg:acc:m3	nazwa geograficzna	
-Łask	Łask	subst:sg:nom:m3	nazwa geograficzna	
+Łaski	Łask	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Łask	Łask	subst:sg:nom.acc:m3	nazwa geograficzna	
 Łaskom	Łask	subst:pl:dat:m3	nazwa geograficzna	
 Łaskowi	Łask	subst:sg:dat:m3	nazwa geograficzna	
 Łasków	Łask	subst:pl:gen:m3	nazwa geograficzna	
 Łasku	Łask	subst:sg:gen:m3	nazwa geograficzna	
 Łasku	Łask	subst:sg:loc:m3	nazwa geograficzna	
 Łasku	Łask	subst:sg:voc:m3	nazwa geograficzna	
-Łascy	Łaski	subst:pl:nom:m1	nazwisko	
-Łascy	Łaski	subst:pl:voc:m1	nazwisko	
-Łaskich	Łaski	subst:pl:acc:m1	nazwisko	
-Łaskich	Łaski	subst:pl:gen:m1	nazwisko	
+Łascy	Łaski	subst:pl:nom.voc:m1	nazwisko	
+Łaskich	Łaski	subst:pl:gen.acc:m1	nazwisko	
 Łaskich	Łaski	subst:pl:loc:m1	nazwisko	
-Łaskiego	Łaski	subst:sg:acc:m1	nazwisko	
+Łaskiego	Łaski	subst:sg:gen.acc:m1	nazwisko	
 Łaskiego	Łaski	subst:sg:gen:m1	nazwisko	
 Łaskie	Łaski	depr:pl:nom.acc.voc:m2	nazwisko	
 Łaskiemu	Łaski	subst:sg:dat:m1	nazwisko	
@@ -266,98 +229,78 @@
 Łaszczowowi	Łaszczów	subst:sg:dat:m3	nazwa geograficzna	
 Łaszczowów	Łaszczów	subst:pl:gen:m3	nazwa geograficzna	
 Łaszczowu	Łaszczów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
-Łaszczowy	Łaszczów	subst:pl:nom.acc:m3	nazwa geograficzna	
-Łaszczowy	Łaszczów	subst:pl:voc:m3	nazwa geograficzna	
-Łaszczów	Łaszczów	subst:sg:acc:m3	nazwa geograficzna	
-Łaszczów	Łaszczów	subst:sg:nom:m3	nazwa geograficzna	
+Łaszczowy	Łaszczów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Łaszczów	Łaszczów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Ławniczakach	Ławniczak	subst:pl:loc:m1	nazwisko	
-Ławniczaka	Ławniczak	subst:sg:acc:m1	nazwisko	
+Ławniczaka	Ławniczak	subst:sg:gen.acc:m1	nazwisko	
 Ławniczaka	Ławniczak	subst:sg:gen:m1	nazwisko	
 Ławniczakami	Ławniczak	subst:pl:inst:m1	nazwisko	
 Ławniczakiem	Ławniczak	subst:sg:inst:m1	nazwisko	
 Ławniczaki	Ławniczak	depr:pl:nom.acc.voc:m2	nazwisko	
 Ławniczak	Ławniczak	subst:sg:nom:m1	nazwisko	
 Ławniczakom	Ławniczak	subst:pl:dat:m1	nazwisko	
-Ławniczakowie	Ławniczak	subst:pl:nom:m1	nazwisko	
-Ławniczakowie	Ławniczak	subst:pl:voc:m1	nazwisko	
+Ławniczakowie	Ławniczak	subst:pl:nom.voc:m1	nazwisko	
 Ławniczakowi	Ławniczak	subst:sg:dat:m1	nazwisko	
-Ławniczaków	Ławniczak	subst:pl:acc:m1	nazwisko	
-Ławniczaków	Ławniczak	subst:pl:gen:m1	nazwisko	
+Ławniczaków	Ławniczak	subst:pl:gen.acc:m1	nazwisko	
 Ławniczaku	Ławniczak	subst:sg:loc:m1	nazwisko	
 Ławniczaku	Ławniczak	subst:sg:voc:m1	nazwisko	
 Ławrientijach	Ławrientij	subst:pl:loc:m1	imię	
-Ławrientija	Ławrientij	subst:sg:acc:m1	imię	
+Ławrientija	Ławrientij	subst:sg:gen.acc:m1	imię	
 Ławrientija	Ławrientij	subst:sg:gen:m1	imię	
 Ławrientijami	Ławrientij	subst:pl:inst:m1	imię	
 Ławrientije	Ławrientij	depr:pl:nom.acc.voc:m2	imię	
-Ławrientije	Ławrientij	subst:pl:nom:m1	imię	
-Ławrientije	Ławrientij	subst:pl:voc:m1	imię	
+Ławrientije	Ławrientij	subst:pl:nom.voc:m1	imię	
 Ławrientijem	Ławrientij	subst:sg:inst:m1	imię	
 Ławrientij	Ławrientij	subst:sg:nom:m1	imię	
 Ławrientijom	Ławrientij	subst:pl:dat:m1	imię	
-Ławrientijowie	Ławrientij	subst:pl:nom:m1	imię	
-Ławrientijowie	Ławrientij	subst:pl:voc:m1	imię	
+Ławrientijowie	Ławrientij	subst:pl:nom.voc:m1	imię	
 Ławrientijowi	Ławrientij	subst:sg:dat:m1	imię	
-Ławrientijów	Ławrientij	subst:pl:acc:m1	imię	
-Ławrientijów	Ławrientij	subst:pl:gen:m1	imię	
+Ławrientijów	Ławrientij	subst:pl:gen.acc:m1	imię	
 Ławrientiju	Ławrientij	subst:sg:loc:m1	imię	
 Ławrientiju	Ławrientij	subst:sg:voc:m1	imię	
 Łazarkiewiczach	Łazarkiewicz	subst:pl:loc:m1	nazwisko	
-Łazarkiewicza	Łazarkiewicz	subst:sg:acc:m1	nazwisko	
+Łazarkiewicza	Łazarkiewicz	subst:sg:gen.acc:m1	nazwisko	
 Łazarkiewicza	Łazarkiewicz	subst:sg:gen:m1	nazwisko	
 Łazarkiewiczami	Łazarkiewicz	subst:pl:inst:m1	nazwisko	
 Łazarkiewicze	Łazarkiewicz	depr:pl:nom.acc.voc:m2	nazwisko	
-Łazarkiewicze	Łazarkiewicz	subst:pl:nom:m1	nazwisko	
-Łazarkiewicze	Łazarkiewicz	subst:pl:voc:m1	nazwisko	
+Łazarkiewicze	Łazarkiewicz	subst:pl:nom.voc:m1	nazwisko	
 Łazarkiewiczem	Łazarkiewicz	subst:sg:inst:m1	nazwisko	
 Łazarkiewicz	Łazarkiewicz	subst:sg:nom:m1	nazwisko	
 Łazarkiewiczom	Łazarkiewicz	subst:pl:dat:m1	nazwisko	
-Łazarkiewiczowie	Łazarkiewicz	subst:pl:nom:m1	nazwisko	
-Łazarkiewiczowie	Łazarkiewicz	subst:pl:voc:m1	nazwisko	
+Łazarkiewiczowie	Łazarkiewicz	subst:pl:nom.voc:m1	nazwisko	
 Łazarkiewiczowi	Łazarkiewicz	subst:sg:dat:m1	nazwisko	
-Łazarkiewiczów	Łazarkiewicz	subst:pl:acc:m1	nazwisko	
-Łazarkiewiczów	Łazarkiewicz	subst:pl:gen:m1	nazwisko	
+Łazarkiewiczów	Łazarkiewicz	subst:pl:gen.acc:m1	nazwisko	
 Łazarkiewiczu	Łazarkiewicz	subst:sg:loc:m1	nazwisko	
 Łazarkiewiczu	Łazarkiewicz	subst:sg:voc:m1	nazwisko	
 Łazarzach	Łazarz	subst:pl:loc:m1	imię	
-Łazarza	Łazarz	subst:sg:acc:m1	imię	
+Łazarza	Łazarz	subst:sg:gen.acc:m1	imię	
 Łazarza	Łazarz	subst:sg:gen:m1	imię	
 Łazarzami	Łazarz	subst:pl:inst:m1	imię	
 Łazarze	Łazarz	depr:pl:nom.acc.voc:m2	imię	
-Łazarze	Łazarz	subst:pl:nom:m1	imię	
-Łazarze	Łazarz	subst:pl:voc:m1	imię	
+Łazarze	Łazarz	subst:pl:nom.voc:m1	imię	
 Łazarzem	Łazarz	subst:sg:inst:m1	imię	
 Łazarz	Łazarz	subst:sg:nom:m1	imię	
 Łazarzom	Łazarz	subst:pl:dat:m1	imię	
-Łazarzowie	Łazarz	subst:pl:nom:m1	imię	
-Łazarzowie	Łazarz	subst:pl:voc:m1	imię	
+Łazarzowie	Łazarz	subst:pl:nom.voc:m1	imię	
 Łazarzowi	Łazarz	subst:sg:dat:m1	imię	
-Łazarzów	Łazarz	subst:pl:acc:m1	imię	
-Łazarzów	Łazarz	subst:pl:gen:m1	imię	
+Łazarzów	Łazarz	subst:pl:gen.acc:m1	imię	
 Łazarzu	Łazarz	subst:sg:loc:m1	imię	
 Łazarzu	Łazarz	subst:sg:voc:m1	imię	
-Łazarzy	Łazarz	subst:pl:acc:m1	imię	
-Łazarzy	Łazarz	subst:pl:gen:m1	imię	
+Łazarzy	Łazarz	subst:pl:gen.acc:m1	imię	
 Łazienek	Łazienki	subst:pl:gen:n:pt	nazwa geograficzna	
 Łazienek	Łazienki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łazienkach	Łazienki	subst:pl:loc:n:pt	nazwa geograficzna	
 Łazienkach	Łazienki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Łazienkami	Łazienki	subst:pl:inst:n:pt	nazwa geograficzna	
 Łazienkami	Łazienki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Łazienki	Łazienki	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łazienki	Łazienki	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łazienki	Łazienki	subst:pl:voc:n:pt	nazwa geograficzna	
-Łazienki	Łazienki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łazienki	Łazienki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łazienki	Łazienki	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łazienkom	Łazienki	subst:pl:dat:n:pt	nazwa geograficzna	
 Łazienkom	Łazienki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Łaziskach	Łaziska	subst:pl:loc:n:pt	nazwa geograficzna	
 Łaziskach	Łaziska	subst:pl:loc:n:pt	nazwa geograficzna	
-Łaziska	Łaziska	subst:pl:acc:n:pt	nazwa geograficzna	
-Łaziska	Łaziska	subst:pl:acc:n:pt	nazwa geograficzna	
-Łaziska	Łaziska	subst:pl:nom:n:pt	nazwa geograficzna	
-Łaziska	Łaziska	subst:pl:nom:n:pt	nazwa geograficzna	
-Łaziska	Łaziska	subst:pl:voc:n:pt	nazwa geograficzna	
-Łaziska	Łaziska	subst:pl:voc:n:pt	nazwa geograficzna	
+Łaziska	Łaziska	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łaziska	Łaziska	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
 Łaziskami	Łaziska	subst:pl:inst:n:pt	nazwa geograficzna	
 Łaziskami	Łaziska	subst:pl:inst:n:pt	nazwa geograficzna	
 Łazisk	Łaziska	subst:pl:gen:n:pt	nazwa geograficzna	
@@ -374,10 +317,8 @@
 Łazuki	Łazuka	subst:sg:gen:m1	nazwisko	
 Łazuko	Łazuka	subst:sg:voc:m1	nazwisko	
 Łazukom	Łazuka	subst:pl:dat:m1	nazwisko	
-Łazukowie	Łazuka	subst:pl:nom:m1	nazwisko	
-Łazukowie	Łazuka	subst:pl:voc:m1	nazwisko	
-Łazuków	Łazuka	subst:pl:acc:m1	nazwisko	
-Łazuków	Łazuka	subst:pl:gen:m1	nazwisko	
+Łazukowie	Łazuka	subst:pl:nom.voc:m1	nazwisko	
+Łazuków	Łazuka	subst:pl:gen.acc:m1	nazwisko	
 Łazach	Łazy	subst:pl:loc:n:pt	nazwa geograficzna	
 Łazach	Łazy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Łazami	Łazy	subst:pl:inst:n:pt	nazwa geograficzna	
@@ -386,10 +327,8 @@
 Łazom	Łazy	subst:pl:dat:n:pt	nazwa geograficzna	
 Łazom	Łazy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Łazów	Łazy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
-Łazy	Łazy	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łazy	Łazy	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łazy	Łazy	subst:pl:voc:n:pt	nazwa geograficzna	
-Łazy	Łazy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łazy	Łazy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łazy	Łazy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łączkowska	Łączkowska	subst:sg:nom:f	nazwisko	
 Łączkowska	Łączkowska	subst:sg:voc:f	nazwisko	
 Łączkowską	Łączkowska	subst:sg:acc:f	nazwisko	
@@ -398,16 +337,13 @@
 Łączkowskich	Łączkowska	subst:pl:loc:f	nazwisko	
 Łączkowskiej	Łączkowska	subst:sg:dat.loc:f	nazwisko	
 Łączkowskiej	Łączkowska	subst:sg:gen:f	nazwisko	
-Łączkowskie	Łączkowska	subst:pl:nom.acc:f	nazwisko	
-Łączkowskie	Łączkowska	subst:pl:voc:f	nazwisko	
+Łączkowskie	Łączkowska	subst:pl:nom.acc.voc:f	nazwisko	
 Łączkowskimi	Łączkowska	subst:pl:inst:f	nazwisko	
 Łączkowskim	Łączkowska	subst:pl:dat:f	nazwisko	
-Łączkowscy	Łączkowski	subst:pl:nom:m1	nazwisko	
-Łączkowscy	Łączkowski	subst:pl:voc:m1	nazwisko	
-Łączkowskich	Łączkowski	subst:pl:acc:m1	nazwisko	
-Łączkowskich	Łączkowski	subst:pl:gen:m1	nazwisko	
+Łączkowscy	Łączkowski	subst:pl:nom.voc:m1	nazwisko	
+Łączkowskich	Łączkowski	subst:pl:gen.acc:m1	nazwisko	
 Łączkowskich	Łączkowski	subst:pl:loc:m1	nazwisko	
-Łączkowskiego	Łączkowski	subst:sg:acc:m1	nazwisko	
+Łączkowskiego	Łączkowski	subst:sg:gen.acc:m1	nazwisko	
 Łączkowskiego	Łączkowski	subst:sg:gen:m1	nazwisko	
 Łączkowskie	Łączkowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Łączkowskiemu	Łączkowski	subst:sg:dat:m1	nazwisko	
@@ -425,16 +361,13 @@
 Łączyńskich	Łączyńska	subst:pl:loc:f	nazwisko	
 Łączyńskiej	Łączyńska	subst:sg:dat.loc:f	nazwisko	
 Łączyńskiej	Łączyńska	subst:sg:gen:f	nazwisko	
-Łączyńskie	Łączyńska	subst:pl:nom.acc:f	nazwisko	
-Łączyńskie	Łączyńska	subst:pl:voc:f	nazwisko	
+Łączyńskie	Łączyńska	subst:pl:nom.acc.voc:f	nazwisko	
 Łączyńskimi	Łączyńska	subst:pl:inst:f	nazwisko	
 Łączyńskim	Łączyńska	subst:pl:dat:f	nazwisko	
-Łączyńscy	Łączyński	subst:pl:nom:m1	nazwisko	
-Łączyńscy	Łączyński	subst:pl:voc:m1	nazwisko	
-Łączyńskich	Łączyński	subst:pl:acc:m1	nazwisko	
-Łączyńskich	Łączyński	subst:pl:gen:m1	nazwisko	
+Łączyńscy	Łączyński	subst:pl:nom.voc:m1	nazwisko	
+Łączyńskich	Łączyński	subst:pl:gen.acc:m1	nazwisko	
 Łączyńskich	Łączyński	subst:pl:loc:m1	nazwisko	
-Łączyńskiego	Łączyński	subst:sg:acc:m1	nazwisko	
+Łączyńskiego	Łączyński	subst:sg:gen.acc:m1	nazwisko	
 Łączyńskiego	Łączyński	subst:sg:gen:m1	nazwisko	
 Łączyńskie	Łączyński	depr:pl:nom.acc.voc:m2	nazwisko	
 Łączyńskiemu	Łączyński	subst:sg:dat:m1	nazwisko	
@@ -447,14 +380,12 @@
 ŁBR-ach	ŁBR	subst:pl:loc:m3	nazwa firmy	
 ŁBR-ami	ŁBR	subst:pl:inst:m3	nazwa firmy	
 ŁBR-em	ŁBR	subst:sg:inst:m3	nazwa firmy	
-ŁBR	ŁBR	subst:sg:acc:m3	nazwa firmy	
-ŁBR	ŁBR	subst:sg:nom:m3	nazwa firmy	
+ŁBR	ŁBR	subst:sg:nom.acc:m3	nazwa firmy	
 ŁBR-om	ŁBR	subst:pl:dat:m3	nazwa firmy	
 ŁBR-owi	ŁBR	subst:sg:dat:m3	nazwa firmy	
 ŁBR-ów	ŁBR	subst:pl:gen:m3	nazwa firmy	
 ŁBR-u	ŁBR	subst:sg:gen:m3	nazwa firmy	
-ŁBR-y	ŁBR	subst:pl:nom.acc:m3	nazwa firmy	
-ŁBR-y	ŁBR	subst:pl:voc:m3	nazwa firmy	
+ŁBR-y	ŁBR	subst:pl:nom.acc.voc:m3	nazwa firmy	
 ŁBR-ze	ŁBR	subst:sg:loc:m3	nazwa firmy	
 ŁBR-ze	ŁBR	subst:sg:voc:m3	nazwa firmy	
 Łebach	Łeba	subst:pl:loc:f	nazwa geograficzna	
@@ -466,28 +397,22 @@
 Łeb	Łeba	subst:pl:gen:f	nazwa geograficzna	
 Łebo	Łeba	subst:sg:voc:f	nazwa geograficzna	
 Łebom	Łeba	subst:pl:dat:f	nazwa geograficzna	
-Łeby	Łeba	subst:pl:nom.acc:f	nazwa geograficzna	
-Łeby	Łeba	subst:pl:voc:f	nazwa geograficzna	
+Łeby	Łeba	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łeby	Łeba	subst:sg:gen:f	nazwa geograficzna	
 Łebskach	Łebsko	subst:pl:loc:n:ncol	nazwa geograficzna	
-Łebska	Łebsko	subst:pl:acc:n:ncol	nazwa geograficzna	
-Łebska	Łebsko	subst:pl:nom:n:ncol	nazwa geograficzna	
-Łebska	Łebsko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Łebska	Łebsko	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
 Łebska	Łebsko	subst:sg:gen:n:ncol	nazwa geograficzna	
 Łebskami	Łebsko	subst:pl:inst:n:ncol	nazwa geograficzna	
 Łebskiem	Łebsko	subst:sg:inst:n:ncol	nazwa geograficzna	
 Łebsk	Łebsko	subst:pl:gen:n:ncol	nazwa geograficzna	
-Łebsko	Łebsko	subst:sg:acc:n:ncol	nazwa geograficzna	
-Łebsko	Łebsko	subst:sg:nom:n:ncol	nazwa geograficzna	
-Łebsko	Łebsko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Łebsko	Łebsko	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
 Łebskom	Łebsko	subst:pl:dat:n:ncol	nazwa geograficzna	
 Łebsku	Łebsko	subst:sg:dat:n:ncol	nazwa geograficzna	
 Łebsku	Łebsko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Łemkiniach	Łemkini	subst:pl:loc:f	nazwa pospolita	etn.
 Łemkiniami	Łemkini	subst:pl:inst:f	nazwa pospolita	etn.
 Łemkinią	Łemkini	subst:sg:inst:f	nazwa pospolita	etn.
-Łemkinie	Łemkini	subst:pl:nom.acc:f	nazwa pospolita	etn.
-Łemkinie	Łemkini	subst:pl:voc:f	nazwa pospolita	etn.
+Łemkinie	Łemkini	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
 Łemkinię	Łemkini	subst:sg:acc:f	nazwa pospolita	etn.
 Łemkini	Łemkini	subst:sg:dat.loc:f	nazwa pospolita	etn.
 Łemkini	Łemkini	subst:sg:gen:f	nazwa pospolita	etn.
@@ -496,18 +421,16 @@
 Łemkiniom	Łemkini	subst:pl:dat:f	nazwa pospolita	etn.
 Łemkiń	Łemkini	subst:pl:gen:f	nazwa pospolita	etn.
 Łemkach	Łemko	subst:pl:loc:m1	nazwa pospolita	
-Łemka	Łemko	subst:sg:acc:m1	nazwa pospolita	
+Łemka	Łemko	subst:sg:gen.acc:m1	nazwa pospolita	
 Łemka	Łemko	subst:sg:gen:m1	nazwa pospolita	
 Łemkami	Łemko	subst:pl:inst:m1	nazwa pospolita	
 Łemkiem	Łemko	subst:sg:inst:m1	nazwa pospolita	
 Łemki	Łemko	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Łemko	Łemko	subst:sg:nom:m1	nazwa pospolita	
 Łemkom	Łemko	subst:pl:dat:m1	nazwa pospolita	
-Łemkowie	Łemko	subst:pl:nom:m1	nazwa pospolita	
-Łemkowie	Łemko	subst:pl:voc:m1	nazwa pospolita	
+Łemkowie	Łemko	subst:pl:nom.voc:m1	nazwa pospolita	
 Łemkowi	Łemko	subst:sg:dat:m1	nazwa pospolita	
-Łemków	Łemko	subst:pl:acc:m1	nazwa pospolita	
-Łemków	Łemko	subst:pl:gen:m1	nazwa pospolita	
+Łemków	Łemko	subst:pl:gen.acc:m1	nazwa pospolita	
 Łemku	Łemko	subst:sg:loc:m1	nazwa pospolita	
 Łemku	Łemko	subst:sg:voc:m1	nazwa pospolita	
 Łemkowszczyznach	Łemkowszczyzna	subst:pl:loc:f	nazwa geograficzna	
@@ -518,8 +441,7 @@
 Łemkowszczyzn	Łemkowszczyzna	subst:pl:gen:f	nazwa geograficzna	
 Łemkowszczyzno	Łemkowszczyzna	subst:sg:voc:f	nazwa geograficzna	
 Łemkowszczyznom	Łemkowszczyzna	subst:pl:dat:f	nazwa geograficzna	
-Łemkowszczyzny	Łemkowszczyzna	subst:pl:nom.acc:f	nazwa geograficzna	
-Łemkowszczyzny	Łemkowszczyzna	subst:pl:voc:f	nazwa geograficzna	
+Łemkowszczyzny	Łemkowszczyzna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łemkowszczyzny	Łemkowszczyzna	subst:sg:gen:f	nazwa geograficzna	
 Łemkowszczyźnie	Łemkowszczyzna	subst:sg:dat.loc:f	nazwa geograficzna	
 Łempicka	Łempicka	subst:sg:nom:f	nazwisko	
@@ -530,16 +452,13 @@
 Łempickich	Łempicka	subst:pl:loc:f	nazwisko	
 Łempickiej	Łempicka	subst:sg:dat.loc:f	nazwisko	
 Łempickiej	Łempicka	subst:sg:gen:f	nazwisko	
-Łempickie	Łempicka	subst:pl:nom.acc:f	nazwisko	
-Łempickie	Łempicka	subst:pl:voc:f	nazwisko	
+Łempickie	Łempicka	subst:pl:nom.acc.voc:f	nazwisko	
 Łempickimi	Łempicka	subst:pl:inst:f	nazwisko	
 Łempickim	Łempicka	subst:pl:dat:f	nazwisko	
-Łempiccy	Łempicki	subst:pl:nom:m1	nazwisko	
-Łempiccy	Łempicki	subst:pl:voc:m1	nazwisko	
-Łempickich	Łempicki	subst:pl:acc:m1	nazwisko	
-Łempickich	Łempicki	subst:pl:gen:m1	nazwisko	
+Łempiccy	Łempicki	subst:pl:nom.voc:m1	nazwisko	
+Łempickich	Łempicki	subst:pl:gen.acc:m1	nazwisko	
 Łempickich	Łempicki	subst:pl:loc:m1	nazwisko	
-Łempickiego	Łempicki	subst:sg:acc:m1	nazwisko	
+Łempickiego	Łempicki	subst:sg:gen.acc:m1	nazwisko	
 Łempickiego	Łempicki	subst:sg:gen:m1	nazwisko	
 Łempickie	Łempicki	depr:pl:nom.acc.voc:m2	nazwisko	
 Łempickiemu	Łempicki	subst:sg:dat:m1	nazwisko	
@@ -550,18 +469,16 @@
 Łempickim	Łempicki	subst:sg:inst:m1	nazwisko	
 Łempickim	Łempicki	subst:sg:loc:m1	nazwisko	
 Łesiowach	Łesiów	subst:pl:loc:m1	nazwisko	
-Łesiowa	Łesiów	subst:sg:acc:m1	nazwisko	
+Łesiowa	Łesiów	subst:sg:gen.acc:m1	nazwisko	
 Łesiowa	Łesiów	subst:sg:gen:m1	nazwisko	
 Łesiowami	Łesiów	subst:pl:inst:m1	nazwisko	
 Łesiowem	Łesiów	subst:sg:inst:m1	nazwisko	
 Łesiowie	Łesiów	subst:sg:loc:m1	nazwisko	
 Łesiowie	Łesiów	subst:sg:voc:m1	nazwisko	
 Łesiowom	Łesiów	subst:pl:dat:m1	nazwisko	
-Łesiowowie	Łesiów	subst:pl:nom:m1	nazwisko	
-Łesiowowie	Łesiów	subst:pl:voc:m1	nazwisko	
+Łesiowowie	Łesiów	subst:pl:nom.voc:m1	nazwisko	
 Łesiowowi	Łesiów	subst:sg:dat:m1	nazwisko	
-Łesiowów	Łesiów	subst:pl:acc:m1	nazwisko	
-Łesiowów	Łesiów	subst:pl:gen:m1	nazwisko	
+Łesiowów	Łesiów	subst:pl:gen.acc:m1	nazwisko	
 Łesiowy	Łesiów	depr:pl:nom.acc.voc:m2	nazwisko	
 Łesiów	Łesiów	subst:sg:nom:m1	nazwisko	
 Łęczna	Łęczna	subst:sg:nom:f	nazwa geograficzna	
@@ -570,8 +487,7 @@
 Łęczną	Łęczna	subst:sg:inst:f	nazwa geograficzna	
 Łęcznej	Łęczna	subst:sg:dat.loc:f	nazwa geograficzna	
 Łęcznej	Łęczna	subst:sg:gen:f	nazwa geograficzna	
-Łęczne	Łęczna	subst:pl:nom.acc:f	nazwa geograficzna	
-Łęczne	Łęczna	subst:pl:voc:f	nazwa geograficzna	
+Łęczne	Łęczna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łęcznych	Łęczna	subst:pl:gen:f	nazwa geograficzna	
 Łęcznych	Łęczna	subst:pl:loc:f	nazwa geograficzna	
 Łęcznymi	Łęczna	subst:pl:inst:f	nazwa geograficzna	
@@ -580,8 +496,7 @@
 Łęczyca	Łęczyca	subst:sg:nom:f	nazwa geograficzna	
 Łęczycami	Łęczyca	subst:pl:inst:f	nazwa geograficzna	
 Łęczycą	Łęczyca	subst:sg:inst:f	nazwa geograficzna	
-Łęczyce	Łęczyca	subst:pl:nom.acc:f	nazwa geograficzna	
-Łęczyce	Łęczyca	subst:pl:voc:f	nazwa geograficzna	
+Łęczyce	Łęczyca	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łęczycę	Łęczyca	subst:sg:acc:f	nazwa geograficzna	
 Łęczyc	Łęczyca	subst:pl:gen:f	nazwa geograficzna	
 Łęczyco	Łęczyca	subst:sg:voc:f	nazwa geograficzna	
@@ -592,10 +507,8 @@
 Łęczycach	Łęczyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Łęczycami	Łęczyce	subst:pl:inst:n:pt	nazwa geograficzna	
 Łęczycami	Łęczyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Łęczyce	Łęczyce	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łęczyce	Łęczyce	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łęczyce	Łęczyce	subst:pl:voc:n:pt	nazwa geograficzna	
-Łęczyce	Łęczyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łęczyce	Łęczyce	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łęczyce	Łęczyce	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łęczyc	Łęczyce	subst:pl:gen:n:pt	nazwa geograficzna	
 Łęczyc	Łęczyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łęczycom	Łęczyce	subst:pl:dat:n:pt	nazwa geograficzna	
@@ -603,29 +516,21 @@
 Łęczyckich	Łęczyckie	subst:pl:gen:n:ncol	nazwa geograficzna	
 Łęczyckich	Łęczyckie	subst:pl:loc:n:ncol	nazwa geograficzna	
 Łęczyckiego	Łęczyckie	subst:sg:gen:n:ncol	nazwa geograficzna	
-Łęczyckie	Łęczyckie	subst:pl:acc:n:ncol	nazwa geograficzna	
-Łęczyckie	Łęczyckie	subst:pl:nom:n:ncol	nazwa geograficzna	
-Łęczyckie	Łęczyckie	subst:pl:voc:n:ncol	nazwa geograficzna	
-Łęczyckie	Łęczyckie	subst:sg:acc:n:ncol	nazwa geograficzna	
-Łęczyckie	Łęczyckie	subst:sg:nom:n:ncol	nazwa geograficzna	
-Łęczyckie	Łęczyckie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Łęczyckie	Łęczyckie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Łęczyckie	Łęczyckie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
 Łęczyckiem	Łęczyckie	subst:sg:inst:n:ncol	nazwa geograficzna	
 Łęczyckiem	Łęczyckie	subst:sg:loc:n:ncol	nazwa geograficzna	
 Łęczyckiemu	Łęczyckie	subst:sg:dat:n:ncol	nazwa geograficzna	
 Łęczyckimi	Łęczyckie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Łęczyckim	Łęczyckie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Łęgowach	Łęgowo	subst:pl:loc:n:ncol	nazwa geograficzna	
-Łęgowa	Łęgowo	subst:pl:acc:n:ncol	nazwa geograficzna	
-Łęgowa	Łęgowo	subst:pl:nom:n:ncol	nazwa geograficzna	
-Łęgowa	Łęgowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Łęgowa	Łęgowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
 Łęgowa	Łęgowo	subst:sg:gen:n:ncol	nazwa geograficzna	
 Łęgowami	Łęgowo	subst:pl:inst:n:ncol	nazwa geograficzna	
 Łęgowem	Łęgowo	subst:sg:inst:n:ncol	nazwa geograficzna	
 Łęgowie	Łęgowo	subst:sg:loc:n:ncol	nazwa geograficzna	
 Łęgow	Łęgowo	subst:pl:gen:n:ncol	nazwa geograficzna	
-Łęgowo	Łęgowo	subst:sg:acc:n:ncol	nazwa geograficzna	
-Łęgowo	Łęgowo	subst:sg:nom:n:ncol	nazwa geograficzna	
-Łęgowo	Łęgowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Łęgowo	Łęgowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
 Łęgowom	Łęgowo	subst:pl:dat:n:ncol	nazwa geograficzna	
 Łęgowów	Łęgowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Łęgowu	Łęgowo	subst:sg:dat:n:ncol	nazwa geograficzna	
@@ -636,8 +541,7 @@
 Łękami	Łęka	subst:pl:inst:f	nazwa geograficzna	
 Łęką	Łęka	subst:sg:inst:f	nazwa geograficzna	
 Łękę	Łęka	subst:sg:acc:f	nazwa geograficzna	
-Łęki	Łęka	subst:pl:nom.acc:f	nazwa geograficzna	
-Łęki	Łęka	subst:pl:voc:f	nazwa geograficzna	
+Łęki	Łęka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łęki	Łęka	subst:sg:gen:f	nazwa geograficzna	
 Łęk	Łęka	subst:pl:gen:f	nazwa geograficzna	
 Łęko	Łęka	subst:sg:voc:f	nazwa geograficzna	
@@ -646,8 +550,7 @@
 Łęknica	Łęknica	subst:sg:nom:f	nazwa geograficzna	
 Łęknicami	Łęknica	subst:pl:inst:f	nazwa geograficzna	
 Łęknicą	Łęknica	subst:sg:inst:f	nazwa geograficzna	
-Łęknice	Łęknica	subst:pl:nom.acc:f	nazwa geograficzna	
-Łęknice	Łęknica	subst:pl:voc:f	nazwa geograficzna	
+Łęknice	Łęknica	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łęknicę	Łęknica	subst:sg:acc:f	nazwa geograficzna	
 Łęknic	Łęknica	subst:pl:gen:f	nazwa geograficzna	
 Łęknico	Łęknica	subst:sg:voc:f	nazwa geograficzna	
@@ -655,22 +558,19 @@
 Łęknicy	Łęknica	subst:sg:dat.loc:f	nazwa geograficzna	
 Łęknicy	Łęknica	subst:sg:gen:f	nazwa geograficzna	
 Łękomirach	Łękomir	subst:pl:loc:m1	imię	
-Łękomira	Łękomir	subst:sg:acc:m1	imię	
+Łękomira	Łękomir	subst:sg:gen.acc:m1	imię	
 Łękomira	Łękomir	subst:sg:gen:m1	imię	
 Łękomirami	Łękomir	subst:pl:inst:m1	imię	
 Łękomirem	Łękomir	subst:sg:inst:m1	imię	
 Łękomir	Łękomir	subst:sg:nom:m1	imię	
 Łękomirom	Łękomir	subst:pl:dat:m1	imię	
-Łękomirowie	Łękomir	subst:pl:nom:m1	imię	
-Łękomirowie	Łękomir	subst:pl:voc:m1	imię	
+Łękomirowie	Łękomir	subst:pl:nom.voc:m1	imię	
 Łękomirowi	Łękomir	subst:sg:dat:m1	imię	
-Łękomirów	Łękomir	subst:pl:acc:m1	imię	
-Łękomirów	Łękomir	subst:pl:gen:m1	imię	
+Łękomirów	Łękomir	subst:pl:gen.acc:m1	imię	
 Łękomiry	Łękomir	depr:pl:nom.acc.voc:m2	imię	
 Łękomirze	Łękomir	subst:sg:loc:m1	imię	
 Łękomirze	Łękomir	subst:sg:voc:m1	imię	
-Łękomirzy	Łękomir	subst:pl:nom:m1	imię	
-Łękomirzy	Łękomir	subst:pl:voc:m1	imię	
+Łękomirzy	Łękomir	subst:pl:nom.voc:m1	imię	
 Łętowska	Łętowska	subst:sg:nom:f	nazwisko	
 Łętowska	Łętowska	subst:sg:voc:f	nazwisko	
 Łętowską	Łętowska	subst:sg:acc:f	nazwisko	
@@ -679,16 +579,13 @@
 Łętowskich	Łętowska	subst:pl:loc:f	nazwisko	
 Łętowskiej	Łętowska	subst:sg:dat.loc:f	nazwisko	
 Łętowskiej	Łętowska	subst:sg:gen:f	nazwisko	
-Łętowskie	Łętowska	subst:pl:nom.acc:f	nazwisko	
-Łętowskie	Łętowska	subst:pl:voc:f	nazwisko	
+Łętowskie	Łętowska	subst:pl:nom.acc.voc:f	nazwisko	
 Łętowskimi	Łętowska	subst:pl:inst:f	nazwisko	
 Łętowskim	Łętowska	subst:pl:dat:f	nazwisko	
-Łętowscy	Łętowski	subst:pl:nom:m1	nazwisko	
-Łętowscy	Łętowski	subst:pl:voc:m1	nazwisko	
-Łętowskich	Łętowski	subst:pl:acc:m1	nazwisko	
-Łętowskich	Łętowski	subst:pl:gen:m1	nazwisko	
+Łętowscy	Łętowski	subst:pl:nom.voc:m1	nazwisko	
+Łętowskich	Łętowski	subst:pl:gen.acc:m1	nazwisko	
 Łętowskich	Łętowski	subst:pl:loc:m1	nazwisko	
-Łętowskiego	Łętowski	subst:sg:acc:m1	nazwisko	
+Łętowskiego	Łętowski	subst:sg:gen.acc:m1	nazwisko	
 Łętowskiego	Łętowski	subst:sg:gen:m1	nazwisko	
 Łętowskie	Łętowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Łętowskiemu	Łętowski	subst:sg:dat:m1	nazwisko	
@@ -703,16 +600,13 @@
 ŁKS-em	ŁKS	subst:sg:inst:m3	nazwa organizacji	
 ŁKS-ie	ŁKS	subst:sg:loc:m3	nazwa organizacji	
 ŁKS-ie	ŁKS	subst:sg:voc:m3	nazwa organizacji	
-ŁKS	ŁKS	subst:sg:acc:m3	nazwa organizacji	
-ŁKS	ŁKS	subst:sg:nom:m3	nazwa organizacji	
+ŁKS	ŁKS	subst:sg:nom.acc:m3	nazwa organizacji	
 ŁKS-om	ŁKS	subst:pl:dat:m3	nazwa organizacji	
 ŁKS-owi	ŁKS	subst:sg:dat:m3	nazwa organizacji	
 ŁKS-ów	ŁKS	subst:pl:gen:m3	nazwa organizacji	
 ŁKS-u	ŁKS	subst:sg:gen:m3	nazwa organizacji	
-ŁKS-y	ŁKS	subst:pl:nom.acc:m3	nazwa organizacji	
-ŁKS-y	ŁKS	subst:pl:voc:m3	nazwa organizacji	
-Łobez	Łobez	subst:sg:acc:m3	nazwa geograficzna	
-Łobez	Łobez	subst:sg:nom:m3	nazwa geograficzna	
+ŁKS-y	ŁKS	subst:pl:nom.acc.voc:m3	nazwa organizacji	
+Łobez	Łobez	subst:sg:nom.acc:m3	nazwa geograficzna	
 Łobzach	Łobez	subst:pl:loc:m3	nazwa geograficzna	
 Łobza	Łobez	subst:sg:gen:m3	nazwa geograficzna	
 Łobzami	Łobez	subst:pl:inst:m3	nazwa geograficzna	
@@ -722,8 +616,7 @@
 Łobzom	Łobez	subst:pl:dat:m3	nazwa geograficzna	
 Łobzowi	Łobez	subst:sg:dat:m3	nazwa geograficzna	
 Łobzów	Łobez	subst:pl:gen:m3	nazwa geograficzna	
-Łobzy	Łobez	subst:pl:nom.acc:m3	nazwa geograficzna	
-Łobzy	Łobez	subst:pl:voc:m3	nazwa geograficzna	
+Łobzy	Łobez	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Łobzowach	Łobzów	subst:pl:loc:m3	nazwa geograficzna	
 Łobzowa	Łobzów	subst:sg:gen:m3	nazwa geograficzna	
 Łobzowami	Łobzów	subst:pl:inst:m3	nazwa geograficzna	
@@ -734,16 +627,13 @@
 Łobzowowi	Łobzów	subst:sg:dat:m3	nazwa geograficzna	
 Łobzowów	Łobzów	subst:pl:gen:m3	nazwa geograficzna	
 Łobzowu	Łobzów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
-Łobzowy	Łobzów	subst:pl:nom.acc:m3	nazwa geograficzna	
-Łobzowy	Łobzów	subst:pl:voc:m3	nazwa geograficzna	
-Łobzów	Łobzów	subst:sg:acc:m3	nazwa geograficzna	
-Łobzów	Łobzów	subst:sg:nom:m3	nazwa geograficzna	
+Łobzowy	Łobzów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Łobzów	Łobzów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Łobżenicach	Łobżenica	subst:pl:loc:f	nazwa geograficzna	
 Łobżenica	Łobżenica	subst:sg:nom:f	nazwa geograficzna	
 Łobżenicami	Łobżenica	subst:pl:inst:f	nazwa geograficzna	
 Łobżenicą	Łobżenica	subst:sg:inst:f	nazwa geograficzna	
-Łobżenice	Łobżenica	subst:pl:nom.acc:f	nazwa geograficzna	
-Łobżenice	Łobżenica	subst:pl:voc:f	nazwa geograficzna	
+Łobżenice	Łobżenica	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łobżenicę	Łobżenica	subst:sg:acc:f	nazwa geograficzna	
 Łobżenic	Łobżenica	subst:pl:gen:f	nazwa geograficzna	
 Łobżenico	Łobżenica	subst:sg:voc:f	nazwa geograficzna	
@@ -760,18 +650,14 @@
 Łochowowi	Łochów	subst:sg:dat:m3	nazwa geograficzna	
 Łochowów	Łochów	subst:pl:gen:m3	nazwa geograficzna	
 Łochowu	Łochów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
-Łochowy	Łochów	subst:pl:nom.acc:m3	nazwa geograficzna	
-Łochowy	Łochów	subst:pl:voc:m3	nazwa geograficzna	
-Łochów	Łochów	subst:sg:acc:m3	nazwa geograficzna	
-Łochów	Łochów	subst:sg:nom:m3	nazwa geograficzna	
+Łochowy	Łochów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Łochów	Łochów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Łodygowicach	Łodygowice	subst:pl:loc:n:pt	nazwa geograficzna	
 Łodygowicach	Łodygowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Łodygowicami	Łodygowice	subst:pl:inst:n:pt	nazwa geograficzna	
 Łodygowicami	Łodygowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Łodygowice	Łodygowice	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łodygowice	Łodygowice	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łodygowice	Łodygowice	subst:pl:voc:n:pt	nazwa geograficzna	
-Łodygowice	Łodygowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łodygowice	Łodygowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łodygowice	Łodygowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łodygowic	Łodygowice	subst:pl:gen:n:pt	nazwa geograficzna	
 Łodygowic	Łodygowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łodygowicom	Łodygowice	subst:pl:dat:n:pt	nazwa geograficzna	
@@ -784,16 +670,13 @@
 Łojewskich	Łojewska	subst:pl:loc:f	nazwisko	
 Łojewskiej	Łojewska	subst:sg:dat.loc:f	nazwisko	
 Łojewskiej	Łojewska	subst:sg:gen:f	nazwisko	
-Łojewskie	Łojewska	subst:pl:nom.acc:f	nazwisko	
-Łojewskie	Łojewska	subst:pl:voc:f	nazwisko	
+Łojewskie	Łojewska	subst:pl:nom.acc.voc:f	nazwisko	
 Łojewskimi	Łojewska	subst:pl:inst:f	nazwisko	
 Łojewskim	Łojewska	subst:pl:dat:f	nazwisko	
-Łojewscy	Łojewski	subst:pl:nom:m1	nazwisko	
-Łojewscy	Łojewski	subst:pl:voc:m1	nazwisko	
-Łojewskich	Łojewski	subst:pl:acc:m1	nazwisko	
-Łojewskich	Łojewski	subst:pl:gen:m1	nazwisko	
+Łojewscy	Łojewski	subst:pl:nom.voc:m1	nazwisko	
+Łojewskich	Łojewski	subst:pl:gen.acc:m1	nazwisko	
 Łojewskich	Łojewski	subst:pl:loc:m1	nazwisko	
-Łojewskiego	Łojewski	subst:sg:acc:m1	nazwisko	
+Łojewskiego	Łojewski	subst:sg:gen.acc:m1	nazwisko	
 Łojewskiego	Łojewski	subst:sg:gen:m1	nazwisko	
 Łojewskie	Łojewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Łojewskiemu	Łojewski	subst:sg:dat:m1	nazwisko	
@@ -805,17 +688,15 @@
 Łojewskim	Łojewski	subst:sg:loc:m1	nazwisko	
 Łokietek	Łokietek	subst:sg:nom:m1	przydomek	
 Łokietkach	Łokietek	subst:pl:loc:m1	przydomek	
-Łokietka	Łokietek	subst:sg:acc:m1	przydomek	
+Łokietka	Łokietek	subst:sg:gen.acc:m1	przydomek	
 Łokietka	Łokietek	subst:sg:gen:m1	przydomek	
 Łokietkami	Łokietek	subst:pl:inst:m1	przydomek	
 Łokietkiem	Łokietek	subst:sg:inst:m1	przydomek	
 Łokietki	Łokietek	depr:pl:nom.acc.voc:m2	przydomek	
 Łokietkom	Łokietek	subst:pl:dat:m1	przydomek	
-Łokietkowie	Łokietek	subst:pl:nom:m1	przydomek	
-Łokietkowie	Łokietek	subst:pl:voc:m1	przydomek	
+Łokietkowie	Łokietek	subst:pl:nom.voc:m1	przydomek	
 Łokietkowi	Łokietek	subst:sg:dat:m1	przydomek	
-Łokietków	Łokietek	subst:pl:acc:m1	przydomek	
-Łokietków	Łokietek	subst:pl:gen:m1	przydomek	
+Łokietków	Łokietek	subst:pl:gen.acc:m1	przydomek	
 Łokietku	Łokietek	subst:sg:loc:m1	przydomek	
 Łokietku	Łokietek	subst:sg:voc:m1	przydomek	
 Łokietkówien	Łokietkówna	subst:pl:gen:f	nazwisko	
@@ -827,8 +708,7 @@
 Łokietkównie	Łokietkówna	subst:sg:dat.loc:f	nazwisko	
 Łokietkówno	Łokietkówna	subst:sg:voc:f	nazwisko	
 Łokietkównom	Łokietkówna	subst:pl:dat:f	nazwisko	
-Łokietkówny	Łokietkówna	subst:pl:nom.acc:f	nazwisko	
-Łokietkówny	Łokietkówna	subst:pl:voc:f	nazwisko	
+Łokietkówny	Łokietkówna	subst:pl:nom.acc.voc:f	nazwisko	
 Łokietkówny	Łokietkówna	subst:sg:gen:f	nazwisko	
 Łomazach	Łomazy	subst:pl:loc:n:pt	nazwa geograficzna	
 Łomazach	Łomazy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
@@ -838,16 +718,13 @@
 Łomaz	Łomazy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łomazom	Łomazy	subst:pl:dat:n:pt	nazwa geograficzna	
 Łomazom	Łomazy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
-Łomazy	Łomazy	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łomazy	Łomazy	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łomazy	Łomazy	subst:pl:voc:n:pt	nazwa geograficzna	
-Łomazy	Łomazy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łomazy	Łomazy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łomazy	Łomazy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łomnicach	Łomnica	subst:pl:loc:f	nazwa geograficzna	
 Łomnica	Łomnica	subst:sg:nom:f	nazwa geograficzna	
 Łomnicami	Łomnica	subst:pl:inst:f	nazwa geograficzna	
 Łomnicą	Łomnica	subst:sg:inst:f	nazwa geograficzna	
-Łomnice	Łomnica	subst:pl:nom.acc:f	nazwa geograficzna	
-Łomnice	Łomnica	subst:pl:voc:f	nazwa geograficzna	
+Łomnice	Łomnica	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łomnicę	Łomnica	subst:sg:acc:f	nazwa geograficzna	
 Łomnic	Łomnica	subst:pl:gen:f	nazwa geograficzna	
 Łomnico	Łomnica	subst:sg:voc:f	nazwa geograficzna	
@@ -855,7 +732,7 @@
 Łomnicy	Łomnica	subst:sg:dat.loc:f	nazwa geograficzna	
 Łomnicy	Łomnica	subst:sg:gen:f	nazwa geograficzna	
 Łomonosowach	Łomonosow	subst:pl:loc:m1	nazwisko	
-Łomonosowa	Łomonosow	subst:sg:acc:m1	nazwisko	
+Łomonosowa	Łomonosow	subst:sg:gen.acc:m1	nazwisko	
 Łomonosowa	Łomonosow	subst:sg:gen:m1	nazwisko	
 Łomonosowami	Łomonosow	subst:pl:inst:m1	nazwisko	
 Łomonosowem	Łomonosow	subst:sg:inst:m1	nazwisko	
@@ -863,18 +740,15 @@
 Łomonosowie	Łomonosow	subst:sg:voc:m1	nazwisko	
 Łomonosow	Łomonosow	subst:sg:nom:m1	nazwisko	
 Łomonosowom	Łomonosow	subst:pl:dat:m1	nazwisko	
-Łomonosowowie	Łomonosow	subst:pl:nom:m1	nazwisko	
-Łomonosowowie	Łomonosow	subst:pl:voc:m1	nazwisko	
+Łomonosowowie	Łomonosow	subst:pl:nom.voc:m1	nazwisko	
 Łomonosowowi	Łomonosow	subst:sg:dat:m1	nazwisko	
-Łomonosowów	Łomonosow	subst:pl:acc:m1	nazwisko	
-Łomonosowów	Łomonosow	subst:pl:gen:m1	nazwisko	
+Łomonosowów	Łomonosow	subst:pl:gen.acc:m1	nazwisko	
 Łomonosowy	Łomonosow	depr:pl:nom.acc.voc:m2	nazwisko	
 Łomżach	Łomża	subst:pl:loc:f	nazwa geograficzna	
 Łomża	Łomża	subst:sg:nom:f	nazwa geograficzna	
 Łomżami	Łomża	subst:pl:inst:f	nazwa geograficzna	
 Łomżą	Łomża	subst:sg:inst:f	nazwa geograficzna	
-Łomże	Łomża	subst:pl:nom.acc:f	nazwa geograficzna	
-Łomże	Łomża	subst:pl:voc:f	nazwa geograficzna	
+Łomże	Łomża	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łomżę	Łomża	subst:sg:acc:f	nazwa geograficzna	
 Łomż	Łomża	subst:pl:gen:f	nazwa geograficzna	
 Łomżo	Łomża	subst:sg:voc:f	nazwa geograficzna	
@@ -884,12 +758,8 @@
 Łomżyńskich	Łomżyńskie	subst:pl:gen:n:ncol	nazwa geograficzna	
 Łomżyńskich	Łomżyńskie	subst:pl:loc:n:ncol	nazwa geograficzna	
 Łomżyńskiego	Łomżyńskie	subst:sg:gen:n:ncol	nazwa geograficzna	
-Łomżyńskie	Łomżyńskie	subst:pl:acc:n:ncol	nazwa geograficzna	
-Łomżyńskie	Łomżyńskie	subst:pl:nom:n:ncol	nazwa geograficzna	
-Łomżyńskie	Łomżyńskie	subst:pl:voc:n:ncol	nazwa geograficzna	
-Łomżyńskie	Łomżyńskie	subst:sg:acc:n:ncol	nazwa geograficzna	
-Łomżyńskie	Łomżyńskie	subst:sg:nom:n:ncol	nazwa geograficzna	
-Łomżyńskie	Łomżyńskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Łomżyńskie	Łomżyńskie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Łomżyńskie	Łomżyńskie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
 Łomżyńskiem	Łomżyńskie	subst:sg:inst:n:ncol	nazwa geograficzna	
 Łomżyńskiem	Łomżyńskie	subst:sg:loc:n:ncol	nazwa geograficzna	
 Łomżyńskiemu	Łomżyńskie	subst:sg:dat:n:ncol	nazwa geograficzna	
@@ -903,16 +773,13 @@
 Łopuszańskich	Łopuszańska	subst:pl:loc:f	nazwisko	
 Łopuszańskiej	Łopuszańska	subst:sg:dat.loc:f	nazwisko	
 Łopuszańskiej	Łopuszańska	subst:sg:gen:f	nazwisko	
-Łopuszańskie	Łopuszańska	subst:pl:nom.acc:f	nazwisko	
-Łopuszańskie	Łopuszańska	subst:pl:voc:f	nazwisko	
+Łopuszańskie	Łopuszańska	subst:pl:nom.acc.voc:f	nazwisko	
 Łopuszańskimi	Łopuszańska	subst:pl:inst:f	nazwisko	
 Łopuszańskim	Łopuszańska	subst:pl:dat:f	nazwisko	
-Łopuszańscy	Łopuszański	subst:pl:nom:m1	nazwisko	
-Łopuszańscy	Łopuszański	subst:pl:voc:m1	nazwisko	
-Łopuszańskich	Łopuszański	subst:pl:acc:m1	nazwisko	
-Łopuszańskich	Łopuszański	subst:pl:gen:m1	nazwisko	
+Łopuszańscy	Łopuszański	subst:pl:nom.voc:m1	nazwisko	
+Łopuszańskich	Łopuszański	subst:pl:gen.acc:m1	nazwisko	
 Łopuszańskich	Łopuszański	subst:pl:loc:m1	nazwisko	
-Łopuszańskiego	Łopuszański	subst:sg:acc:m1	nazwisko	
+Łopuszańskiego	Łopuszański	subst:sg:gen.acc:m1	nazwisko	
 Łopuszańskiego	Łopuszański	subst:sg:gen:m1	nazwisko	
 Łopuszańskie	Łopuszański	depr:pl:nom.acc.voc:m2	nazwisko	
 Łopuszańskiemu	Łopuszański	subst:sg:dat:m1	nazwisko	
@@ -926,26 +793,22 @@
 Łosicach	Łosice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Łosicami	Łosice	subst:pl:inst:n:pt	nazwa geograficzna	
 Łosicami	Łosice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Łosice	Łosice	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łosice	Łosice	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łosice	Łosice	subst:pl:voc:n:pt	nazwa geograficzna	
-Łosice	Łosice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łosice	Łosice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łosice	Łosice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łosic	Łosice	subst:pl:gen:n:pt	nazwa geograficzna	
 Łosic	Łosice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łosicom	Łosice	subst:pl:dat:n:pt	nazwa geograficzna	
 Łosicom	Łosice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Łosiach	Łoś	subst:pl:loc:m1	nazwisko	
-Łosia	Łoś	subst:sg:acc:m1	nazwisko	
+Łosia	Łoś	subst:sg:gen.acc:m1	nazwisko	
 Łosia	Łoś	subst:sg:gen:m1	nazwisko	
 Łosiami	Łoś	subst:pl:inst:m1	nazwisko	
 Łosie	Łoś	depr:pl:nom.acc.voc:m2	nazwisko	
 Łosiem	Łoś	subst:sg:inst:m1	nazwisko	
 Łosiom	Łoś	subst:pl:dat:m1	nazwisko	
-Łosiowie	Łoś	subst:pl:nom:m1	nazwisko	
-Łosiowie	Łoś	subst:pl:voc:m1	nazwisko	
+Łosiowie	Łoś	subst:pl:nom.voc:m1	nazwisko	
 Łosiowi	Łoś	subst:sg:dat:m1	nazwisko	
-Łosiów	Łoś	subst:pl:acc:m1	nazwisko	
-Łosiów	Łoś	subst:pl:gen:m1	nazwisko	
+Łosiów	Łoś	subst:pl:gen.acc:m1	nazwisko	
 Łosiu	Łoś	subst:sg:loc:m1	nazwisko	
 Łosiu	Łoś	subst:sg:voc:m1	nazwisko	
 Łoś	Łoś	subst:sg:nom:m1	nazwisko	
@@ -958,26 +821,22 @@
 Łotw	Łotwa	subst:pl:gen:f	nazwa geograficzna	
 Łotwo	Łotwa	subst:sg:voc:f	nazwa geograficzna	
 Łotwom	Łotwa	subst:pl:dat:f	nazwa geograficzna	
-Łotwy	Łotwa	subst:pl:nom.acc:f	nazwa geograficzna	
-Łotwy	Łotwa	subst:pl:voc:f	nazwa geograficzna	
+Łotwy	Łotwa	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łotwy	Łotwa	subst:sg:gen:f	nazwa geograficzna	
 Łotyszach	Łotysz	subst:pl:loc:m1	nazwa pospolita	
-Łotysza	Łotysz	subst:sg:acc:m1	nazwa pospolita	
+Łotysza	Łotysz	subst:sg:gen.acc:m1	nazwa pospolita	
 Łotysza	Łotysz	subst:sg:gen:m1	nazwa pospolita	
 Łotyszami	Łotysz	subst:pl:inst:m1	nazwa pospolita	
 Łotysze	Łotysz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-Łotysze	Łotysz	subst:pl:nom:m1	nazwa pospolita	
-Łotysze	Łotysz	subst:pl:voc:m1	nazwa pospolita	
+Łotysze	Łotysz	subst:pl:nom.voc:m1	nazwa pospolita	
 Łotyszem	Łotysz	subst:sg:inst:m1	nazwa pospolita	
 Łotysz	Łotysz	subst:sg:nom:m1	nazwa pospolita	
 Łotyszom	Łotysz	subst:pl:dat:m1	nazwa pospolita	
 Łotyszowi	Łotysz	subst:sg:dat:m1	nazwa pospolita	
-Łotyszów	Łotysz	subst:pl:acc:m1	nazwa pospolita	
-Łotyszów	Łotysz	subst:pl:gen:m1	nazwa pospolita	
+Łotyszów	Łotysz	subst:pl:gen.acc:m1	nazwa pospolita	
 Łotyszu	Łotysz	subst:sg:loc:m1	nazwa pospolita	
 Łotyszu	Łotysz	subst:sg:voc:m1	nazwa pospolita	
-Łotyszy	Łotysz	subst:pl:acc:m1	nazwa pospolita	
-Łotyszy	Łotysz	subst:pl:gen:m1	nazwa pospolita	
+Łotyszy	Łotysz	subst:pl:gen.acc:m1	nazwa pospolita	
 Łotyszce	Łotyszka	subst:sg:dat.loc:f	nazwa pospolita	
 Łotyszek	Łotyszka	subst:pl:gen:f	nazwa pospolita	
 Łotyszkach	Łotyszka	subst:pl:loc:f	nazwa pospolita	
@@ -985,20 +844,15 @@
 Łotyszkami	Łotyszka	subst:pl:inst:f	nazwa pospolita	
 Łotyszką	Łotyszka	subst:sg:inst:f	nazwa pospolita	
 Łotyszkę	Łotyszka	subst:sg:acc:f	nazwa pospolita	
-Łotyszki	Łotyszka	subst:pl:nom.acc:f	nazwa pospolita	
-Łotyszki	Łotyszka	subst:pl:voc:f	nazwa pospolita	
+Łotyszki	Łotyszka	subst:pl:nom.acc.voc:f	nazwa pospolita	
 Łotyszki	Łotyszka	subst:sg:gen:f	nazwa pospolita	
 Łotyszko	Łotyszka	subst:sg:voc:f	nazwa pospolita	
 Łotyszkom	Łotyszka	subst:pl:dat:f	nazwa pospolita	
 Łowickich	Łowickie	subst:pl:gen:n:ncol	nazwa geograficzna	
 Łowickich	Łowickie	subst:pl:loc:n:ncol	nazwa geograficzna	
 Łowickiego	Łowickie	subst:sg:gen:n:ncol	nazwa geograficzna	
-Łowickie	Łowickie	subst:pl:acc:n:ncol	nazwa geograficzna	
-Łowickie	Łowickie	subst:pl:nom:n:ncol	nazwa geograficzna	
-Łowickie	Łowickie	subst:pl:voc:n:ncol	nazwa geograficzna	
-Łowickie	Łowickie	subst:sg:acc:n:ncol	nazwa geograficzna	
-Łowickie	Łowickie	subst:sg:nom:n:ncol	nazwa geograficzna	
-Łowickie	Łowickie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Łowickie	Łowickie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Łowickie	Łowickie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
 Łowickiem	Łowickie	subst:sg:inst:n:ncol	nazwa geograficzna	
 Łowickiem	Łowickie	subst:sg:loc:n:ncol	nazwa geograficzna	
 Łowickiemu	Łowickie	subst:sg:dat:n:ncol	nazwa geograficzna	
@@ -1007,11 +861,9 @@
 Łowiczach	Łowicz	subst:pl:loc:m3	nazwa geograficzna	
 Łowicza	Łowicz	subst:sg:gen:m3	nazwa geograficzna	
 Łowiczami	Łowicz	subst:pl:inst:m3	nazwa geograficzna	
-Łowicze	Łowicz	subst:pl:nom.acc:m3	nazwa geograficzna	
-Łowicze	Łowicz	subst:pl:voc:m3	nazwa geograficzna	
+Łowicze	Łowicz	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Łowiczem	Łowicz	subst:sg:inst:m3	nazwa geograficzna	
-Łowicz	Łowicz	subst:sg:acc:m3	nazwa geograficzna	
-Łowicz	Łowicz	subst:sg:nom:m3	nazwa geograficzna	
+Łowicz	Łowicz	subst:sg:nom.acc:m3	nazwa geograficzna	
 Łowiczom	Łowicz	subst:pl:dat:m3	nazwa geograficzna	
 Łowiczowi	Łowicz	subst:sg:dat:m3	nazwa geograficzna	
 Łowiczów	Łowicz	subst:pl:gen:m3	nazwa geograficzna	
@@ -1020,17 +872,15 @@
 Łowiczy	Łowicz	subst:pl:gen:m3	nazwa geograficzna	
 Łowiczanach	Łowiczanin	subst:pl:loc:m1	nazwa pospolita	
 Łowiczanami	Łowiczanin	subst:pl:inst:m1	nazwa pospolita	
-Łowiczanie	Łowiczanin	subst:pl:nom:m1	nazwa pospolita	
-Łowiczanie	Łowiczanin	subst:pl:voc:m1	nazwa pospolita	
-Łowiczanina	Łowiczanin	subst:sg:acc:m1	nazwa pospolita	
+Łowiczanie	Łowiczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+Łowiczanina	Łowiczanin	subst:sg:gen.acc:m1	nazwa pospolita	
 Łowiczanina	Łowiczanin	subst:sg:gen:m1	nazwa pospolita	
 Łowiczaninem	Łowiczanin	subst:sg:inst:m1	nazwa pospolita	
 Łowiczaninie	Łowiczanin	subst:sg:loc:m1	nazwa pospolita	
 Łowiczaninie	Łowiczanin	subst:sg:voc:m1	nazwa pospolita	
 Łowiczanin	Łowiczanin	subst:sg:nom:m1	nazwa pospolita	
 Łowiczaninowi	Łowiczanin	subst:sg:dat:m1	nazwa pospolita	
-Łowiczan	Łowiczanin	subst:pl:acc:m1	nazwa pospolita	
-Łowiczan	Łowiczanin	subst:pl:gen:m1	nazwa pospolita	
+Łowiczan	Łowiczanin	subst:pl:gen.acc:m1	nazwa pospolita	
 Łowiczanom	Łowiczanin	subst:pl:dat:m1	nazwa pospolita	
 Łowiczany	Łowiczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Łowiczance	Łowiczanka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -1040,8 +890,7 @@
 Łowiczankami	Łowiczanka	subst:pl:inst:f	nazwa pospolita	
 Łowiczanką	Łowiczanka	subst:sg:inst:f	nazwa pospolita	
 Łowiczankę	Łowiczanka	subst:sg:acc:f	nazwa pospolita	
-Łowiczanki	Łowiczanka	subst:pl:nom.acc:f	nazwa pospolita	
-Łowiczanki	Łowiczanka	subst:pl:voc:f	nazwa pospolita	
+Łowiczanki	Łowiczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
 Łowiczanki	Łowiczanka	subst:sg:gen:f	nazwa pospolita	
 Łowiczanko	Łowiczanka	subst:sg:voc:f	nazwa pospolita	
 Łowiczankom	Łowiczanka	subst:pl:dat:f	nazwa pospolita	
@@ -1053,16 +902,13 @@
 Łozińskich	Łozińska	subst:pl:loc:f	nazwisko	
 Łozińskiej	Łozińska	subst:sg:dat.loc:f	nazwisko	
 Łozińskiej	Łozińska	subst:sg:gen:f	nazwisko	
-Łozińskie	Łozińska	subst:pl:nom.acc:f	nazwisko	
-Łozińskie	Łozińska	subst:pl:voc:f	nazwisko	
+Łozińskie	Łozińska	subst:pl:nom.acc.voc:f	nazwisko	
 Łozińskimi	Łozińska	subst:pl:inst:f	nazwisko	
 Łozińskim	Łozińska	subst:pl:dat:f	nazwisko	
-Łozińscy	Łoziński	subst:pl:nom:m1	nazwisko	
-Łozińscy	Łoziński	subst:pl:voc:m1	nazwisko	
-Łozińskich	Łoziński	subst:pl:acc:m1	nazwisko	
-Łozińskich	Łoziński	subst:pl:gen:m1	nazwisko	
+Łozińscy	Łoziński	subst:pl:nom.voc:m1	nazwisko	
+Łozińskich	Łoziński	subst:pl:gen.acc:m1	nazwisko	
 Łozińskich	Łoziński	subst:pl:loc:m1	nazwisko	
-Łozińskiego	Łoziński	subst:sg:acc:m1	nazwisko	
+Łozińskiego	Łoziński	subst:sg:gen.acc:m1	nazwisko	
 Łozińskiego	Łoziński	subst:sg:gen:m1	nazwisko	
 Łozińskie	Łoziński	depr:pl:nom.acc.voc:m2	nazwisko	
 Łozińskiemu	Łoziński	subst:sg:dat:m1	nazwisko	
@@ -1075,12 +921,8 @@
 Łódzkich	Łódzkie	subst:pl:gen:n:ncol	nazwa geograficzna	
 Łódzkich	Łódzkie	subst:pl:loc:n:ncol	nazwa geograficzna	
 Łódzkiego	Łódzkie	subst:sg:gen:n:ncol	nazwa geograficzna	
-Łódzkie	Łódzkie	subst:pl:acc:n:ncol	nazwa geograficzna	
-Łódzkie	Łódzkie	subst:pl:nom:n:ncol	nazwa geograficzna	
-Łódzkie	Łódzkie	subst:pl:voc:n:ncol	nazwa geograficzna	
-Łódzkie	Łódzkie	subst:sg:acc:n:ncol	nazwa geograficzna	
-Łódzkie	Łódzkie	subst:sg:nom:n:ncol	nazwa geograficzna	
-Łódzkie	Łódzkie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Łódzkie	Łódzkie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Łódzkie	Łódzkie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
 Łódzkiem	Łódzkie	subst:sg:inst:n:ncol	nazwa geograficzna	
 Łódzkiem	Łódzkie	subst:sg:loc:n:ncol	nazwa geograficzna	
 Łódzkiemu	Łódzkie	subst:sg:dat:n:ncol	nazwa geograficzna	
@@ -1089,8 +931,7 @@
 Łodziach	Łódź	subst:pl:loc:f	nazwa geograficzna	
 Łodziami	Łódź	subst:pl:inst:f	nazwa geograficzna	
 Łodzią	Łódź	subst:sg:inst:f	nazwa geograficzna	
-Łodzie	Łódź	subst:pl:nom.acc:f	nazwa geograficzna	
-Łodzie	Łódź	subst:pl:voc:f	nazwa geograficzna	
+Łodzie	Łódź	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łodzi	Łódź	subst:pl:gen:f	nazwa geograficzna	
 Łodzi	Łódź	subst:sg:dat.loc:f	nazwa geograficzna	
 Łodzi	Łódź	subst:sg:gen:f	nazwa geograficzna	
@@ -1105,8 +946,7 @@
 Łubiankami	Łubianka	subst:pl:inst:f	nazwa geograficzna	
 Łubianką	Łubianka	subst:sg:inst:f	nazwa geograficzna	
 Łubiankę	Łubianka	subst:sg:acc:f	nazwa geograficzna	
-Łubianki	Łubianka	subst:pl:nom.acc:f	nazwa geograficzna	
-Łubianki	Łubianka	subst:pl:voc:f	nazwa geograficzna	
+Łubianki	Łubianka	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łubianki	Łubianka	subst:sg:gen:f	nazwa geograficzna	
 Łubianko	Łubianka	subst:sg:voc:f	nazwa geograficzna	
 Łubiankom	Łubianka	subst:pl:dat:f	nazwa geograficzna	
@@ -1118,16 +958,13 @@
 Łubieńskich	Łubieńska	subst:pl:loc:f	nazwisko	
 Łubieńskiej	Łubieńska	subst:sg:dat.loc:f	nazwisko	
 Łubieńskiej	Łubieńska	subst:sg:gen:f	nazwisko	
-Łubieńskie	Łubieńska	subst:pl:nom.acc:f	nazwisko	
-Łubieńskie	Łubieńska	subst:pl:voc:f	nazwisko	
+Łubieńskie	Łubieńska	subst:pl:nom.acc.voc:f	nazwisko	
 Łubieńskimi	Łubieńska	subst:pl:inst:f	nazwisko	
 Łubieńskim	Łubieńska	subst:pl:dat:f	nazwisko	
-Łubieńscy	Łubieński	subst:pl:nom:m1	nazwisko	
-Łubieńscy	Łubieński	subst:pl:voc:m1	nazwisko	
-Łubieńskich	Łubieński	subst:pl:acc:m1	nazwisko	
-Łubieńskich	Łubieński	subst:pl:gen:m1	nazwisko	
+Łubieńscy	Łubieński	subst:pl:nom.voc:m1	nazwisko	
+Łubieńskich	Łubieński	subst:pl:gen.acc:m1	nazwisko	
 Łubieńskich	Łubieński	subst:pl:loc:m1	nazwisko	
-Łubieńskiego	Łubieński	subst:sg:acc:m1	nazwisko	
+Łubieńskiego	Łubieński	subst:sg:gen.acc:m1	nazwisko	
 Łubieńskiego	Łubieński	subst:sg:gen:m1	nazwisko	
 Łubieńskie	Łubieński	depr:pl:nom.acc.voc:m2	nazwisko	
 Łubieńskiemu	Łubieński	subst:sg:dat:m1	nazwisko	
@@ -1145,16 +982,13 @@
 Łubińskich	Łubińska	subst:pl:loc:f	nazwisko	
 Łubińskiej	Łubińska	subst:sg:dat.loc:f	nazwisko	
 Łubińskiej	Łubińska	subst:sg:gen:f	nazwisko	
-Łubińskie	Łubińska	subst:pl:nom.acc:f	nazwisko	
-Łubińskie	Łubińska	subst:pl:voc:f	nazwisko	
+Łubińskie	Łubińska	subst:pl:nom.acc.voc:f	nazwisko	
 Łubińskimi	Łubińska	subst:pl:inst:f	nazwisko	
 Łubińskim	Łubińska	subst:pl:dat:f	nazwisko	
-Łubińscy	Łubiński	subst:pl:nom:m1	nazwisko	
-Łubińscy	Łubiński	subst:pl:voc:m1	nazwisko	
-Łubińskich	Łubiński	subst:pl:acc:m1	nazwisko	
-Łubińskich	Łubiński	subst:pl:gen:m1	nazwisko	
+Łubińscy	Łubiński	subst:pl:nom.voc:m1	nazwisko	
+Łubińskich	Łubiński	subst:pl:gen.acc:m1	nazwisko	
 Łubińskich	Łubiński	subst:pl:loc:m1	nazwisko	
-Łubińskiego	Łubiński	subst:sg:acc:m1	nazwisko	
+Łubińskiego	Łubiński	subst:sg:gen.acc:m1	nazwisko	
 Łubińskiego	Łubiński	subst:sg:gen:m1	nazwisko	
 Łubińskie	Łubiński	depr:pl:nom.acc.voc:m2	nazwisko	
 Łubińskiemu	Łubiński	subst:sg:dat:m1	nazwisko	
@@ -1172,34 +1006,26 @@
 Łubnian	Łubniany	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łubnianom	Łubniany	subst:pl:dat:n:pt	nazwa geograficzna	
 Łubnianom	Łubniany	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
-Łubniany	Łubniany	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łubniany	Łubniany	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łubniany	Łubniany	subst:pl:voc:n:pt	nazwa geograficzna	
-Łubniany	Łubniany	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łubniany	Łubniany	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łubniany	Łubniany	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łubnicach	Łubnice	subst:pl:loc:n:pt	nazwa geograficzna	
 Łubnicach	Łubnice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Łubnicami	Łubnice	subst:pl:inst:n:pt	nazwa geograficzna	
 Łubnicami	Łubnice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Łubnice	Łubnice	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łubnice	Łubnice	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łubnice	Łubnice	subst:pl:voc:n:pt	nazwa geograficzna	
-Łubnice	Łubnice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łubnice	Łubnice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łubnice	Łubnice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łubnic	Łubnice	subst:pl:gen:n:pt	nazwa geograficzna	
 Łubnic	Łubnice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łubnicom	Łubnice	subst:pl:dat:n:pt	nazwa geograficzna	
 Łubnicom	Łubnice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Łubowach	Łubowo	subst:pl:loc:n:ncol	nazwa geograficzna	
-Łubowa	Łubowo	subst:pl:acc:n:ncol	nazwa geograficzna	
-Łubowa	Łubowo	subst:pl:nom:n:ncol	nazwa geograficzna	
-Łubowa	Łubowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Łubowa	Łubowo	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
 Łubowa	Łubowo	subst:sg:gen:n:ncol	nazwa geograficzna	
 Łubowami	Łubowo	subst:pl:inst:n:ncol	nazwa geograficzna	
 Łubowem	Łubowo	subst:sg:inst:n:ncol	nazwa geograficzna	
 Łubowie	Łubowo	subst:sg:loc:n:ncol	nazwa geograficzna	
 Łubow	Łubowo	subst:pl:gen:n:ncol	nazwa geograficzna	
-Łubowo	Łubowo	subst:sg:acc:n:ncol	nazwa geograficzna	
-Łubowo	Łubowo	subst:sg:nom:n:ncol	nazwa geograficzna	
-Łubowo	Łubowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Łubowo	Łubowo	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
 Łubowom	Łubowo	subst:pl:dat:n:ncol	nazwa geograficzna	
 Łubowów	Łubowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Łubowu	Łubowo	subst:sg:dat:n:ncol	nazwa geograficzna	
@@ -1208,8 +1034,7 @@
 Łucja	Łucja	subst:sg:nom:f	imię	
 Łucjami	Łucja	subst:pl:inst:f	imię	
 Łucją	Łucja	subst:sg:inst:f	imię	
-Łucje	Łucja	subst:pl:nom.acc:f	imię	
-Łucje	Łucja	subst:pl:voc:f	imię	
+Łucje	Łucja	subst:pl:nom.acc.voc:f	imię	
 Łucję	Łucja	subst:sg:acc:f	imię	
 Łucji	Łucja	subst:pl:gen:f	imię	hom.
 Łucji	Łucja	subst:sg:dat.loc:f	imię	
@@ -1218,7 +1043,7 @@
 Łucjom	Łucja	subst:pl:dat:f	imię	
 Łucyj	Łucja	subst:pl:gen:f	imię	arch.|char.
 Łucjanach	Łucjan	subst:pl:loc:m1	imię	
-Łucjana	Łucjan	subst:sg:acc:m1	imię	
+Łucjana	Łucjan	subst:sg:gen.acc:m1	imię	
 Łucjana	Łucjan	subst:sg:gen:m1	imię	
 Łucjanami	Łucjan	subst:pl:inst:m1	imię	
 Łucjanem	Łucjan	subst:sg:inst:m1	imię	
@@ -1226,55 +1051,46 @@
 Łucjanie	Łucjan	subst:sg:voc:m1	imię	
 Łucjan	Łucjan	subst:sg:nom:m1	imię	
 Łucjanom	Łucjan	subst:pl:dat:m1	imię	
-Łucjanowie	Łucjan	subst:pl:nom:m1	imię	
-Łucjanowie	Łucjan	subst:pl:voc:m1	imię	
+Łucjanowie	Łucjan	subst:pl:nom.voc:m1	imię	
 Łucjanowi	Łucjan	subst:sg:dat:m1	imię	
-Łucjanów	Łucjan	subst:pl:acc:m1	imię	
-Łucjanów	Łucjan	subst:pl:gen:m1	imię	
+Łucjanów	Łucjan	subst:pl:gen.acc:m1	imię	
 Łucjany	Łucjan	depr:pl:nom.acc.voc:m2	imię	
 Łucjuszach	Łucjusz	subst:pl:loc:m1	imię	
-Łucjusza	Łucjusz	subst:sg:acc:m1	imię	
+Łucjusza	Łucjusz	subst:sg:gen.acc:m1	imię	
 Łucjusza	Łucjusz	subst:sg:gen:m1	imię	
 Łucjuszami	Łucjusz	subst:pl:inst:m1	imię	
 Łucjusze	Łucjusz	depr:pl:nom.acc.voc:m2	imię	
-Łucjusze	Łucjusz	subst:pl:nom:m1	imię	
-Łucjusze	Łucjusz	subst:pl:voc:m1	imię	
+Łucjusze	Łucjusz	subst:pl:nom.voc:m1	imię	
 Łucjuszem	Łucjusz	subst:sg:inst:m1	imię	
 Łucjusz	Łucjusz	subst:sg:nom:m1	imię	
 Łucjuszom	Łucjusz	subst:pl:dat:m1	imię	
-Łucjuszowie	Łucjusz	subst:pl:nom:m1	imię	
-Łucjuszowie	Łucjusz	subst:pl:voc:m1	imię	
+Łucjuszowie	Łucjusz	subst:pl:nom.voc:m1	imię	
 Łucjuszowi	Łucjusz	subst:sg:dat:m1	imię	
-Łucjuszów	Łucjusz	subst:pl:acc:m1	imię	
-Łucjuszów	Łucjusz	subst:pl:gen:m1	imię	
+Łucjuszów	Łucjusz	subst:pl:gen.acc:m1	imię	
 Łucjuszu	Łucjusz	subst:sg:loc:m1	imię	
 Łucjuszu	Łucjusz	subst:sg:voc:m1	imię	
 Łuckach	Łuck	subst:pl:loc:m3	nazwa geograficzna	
 Łucka	Łuck	subst:sg:gen:m3	nazwa geograficzna	
 Łuckami	Łuck	subst:pl:inst:m3	nazwa geograficzna	
 Łuckiem	Łuck	subst:sg:inst:m3	nazwa geograficzna	
-Łucki	Łuck	subst:pl:nom.acc:m3	nazwa geograficzna	
-Łucki	Łuck	subst:pl:voc:m3	nazwa geograficzna	
-Łuck	Łuck	subst:sg:acc:m3	nazwa geograficzna	
-Łuck	Łuck	subst:sg:nom:m3	nazwa geograficzna	
+Łucki	Łuck	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Łuck	Łuck	subst:sg:nom.acc:m3	nazwa geograficzna	
 Łuckom	Łuck	subst:pl:dat:m3	nazwa geograficzna	
 Łuckowi	Łuck	subst:sg:dat:m3	nazwa geograficzna	
 Łucków	Łuck	subst:pl:gen:m3	nazwa geograficzna	
 Łucku	Łuck	subst:sg:loc:m3	nazwa geograficzna	
 Łucku	Łuck	subst:sg:voc:m3	nazwa geograficzna	
 Łuczakach	Łuczak	subst:pl:loc:m1	nazwisko	
-Łuczaka	Łuczak	subst:sg:acc:m1	nazwisko	
+Łuczaka	Łuczak	subst:sg:gen.acc:m1	nazwisko	
 Łuczaka	Łuczak	subst:sg:gen:m1	nazwisko	
 Łuczakami	Łuczak	subst:pl:inst:m1	nazwisko	
 Łuczakiem	Łuczak	subst:sg:inst:m1	nazwisko	
 Łuczaki	Łuczak	depr:pl:nom.acc.voc:m2	nazwisko	
 Łuczak	Łuczak	subst:sg:nom:m1	nazwisko	
 Łuczakom	Łuczak	subst:pl:dat:m1	nazwisko	
-Łuczakowie	Łuczak	subst:pl:nom:m1	nazwisko	
-Łuczakowie	Łuczak	subst:pl:voc:m1	nazwisko	
+Łuczakowie	Łuczak	subst:pl:nom.voc:m1	nazwisko	
 Łuczakowi	Łuczak	subst:sg:dat:m1	nazwisko	
-Łuczaków	Łuczak	subst:pl:acc:m1	nazwisko	
-Łuczaków	Łuczak	subst:pl:gen:m1	nazwisko	
+Łuczaków	Łuczak	subst:pl:gen.acc:m1	nazwisko	
 Łuczaku	Łuczak	subst:sg:loc:m1	nazwisko	
 Łuczaku	Łuczak	subst:sg:voc:m1	nazwisko	
 Łuczyńska	Łuczyńska	subst:sg:nom:f	nazwisko	
@@ -1285,16 +1101,13 @@
 Łuczyńskich	Łuczyńska	subst:pl:loc:f	nazwisko	
 Łuczyńskiej	Łuczyńska	subst:sg:dat.loc:f	nazwisko	
 Łuczyńskiej	Łuczyńska	subst:sg:gen:f	nazwisko	
-Łuczyńskie	Łuczyńska	subst:pl:nom.acc:f	nazwisko	
-Łuczyńskie	Łuczyńska	subst:pl:voc:f	nazwisko	
+Łuczyńskie	Łuczyńska	subst:pl:nom.acc.voc:f	nazwisko	
 Łuczyńskimi	Łuczyńska	subst:pl:inst:f	nazwisko	
 Łuczyńskim	Łuczyńska	subst:pl:dat:f	nazwisko	
-Łuczyńscy	Łuczyński	subst:pl:nom:m1	nazwisko	
-Łuczyńscy	Łuczyński	subst:pl:voc:m1	nazwisko	
-Łuczyńskich	Łuczyński	subst:pl:acc:m1	nazwisko	
-Łuczyńskich	Łuczyński	subst:pl:gen:m1	nazwisko	
+Łuczyńscy	Łuczyński	subst:pl:nom.voc:m1	nazwisko	
+Łuczyńskich	Łuczyński	subst:pl:gen.acc:m1	nazwisko	
 Łuczyńskich	Łuczyński	subst:pl:loc:m1	nazwisko	
-Łuczyńskiego	Łuczyński	subst:sg:acc:m1	nazwisko	
+Łuczyńskiego	Łuczyński	subst:sg:gen.acc:m1	nazwisko	
 Łuczyńskiego	Łuczyński	subst:sg:gen:m1	nazwisko	
 Łuczyńskie	Łuczyński	depr:pl:nom.acc.voc:m2	nazwisko	
 Łuczyńskiemu	Łuczyński	subst:sg:dat:m1	nazwisko	
@@ -1308,10 +1121,8 @@
 Ługańska	Ługańsk	subst:sg:gen:m3	nazwa geograficzna	
 Ługańskami	Ługańsk	subst:pl:inst:m3	nazwa geograficzna	
 Ługańskiem	Ługańsk	subst:sg:inst:m3	nazwa geograficzna	
-Ługański	Ługańsk	subst:pl:nom.acc:m3	nazwa geograficzna	
-Ługański	Ługańsk	subst:pl:voc:m3	nazwa geograficzna	
-Ługańsk	Ługańsk	subst:sg:acc:m3	nazwa geograficzna	
-Ługańsk	Ługańsk	subst:sg:nom:m3	nazwa geograficzna	
+Ługański	Ługańsk	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Ługańsk	Ługańsk	subst:sg:nom.acc:m3	nazwa geograficzna	
 Ługańskom	Ługańsk	subst:pl:dat:m3	nazwa geograficzna	
 Ługańskowi	Ługańsk	subst:sg:dat:m3	nazwa geograficzna	
 Ługańsków	Ługańsk	subst:pl:gen:m3	nazwa geograficzna	
@@ -1325,16 +1136,13 @@
 Ługowskich	Ługowska	subst:pl:loc:f	nazwisko	
 Ługowskiej	Ługowska	subst:sg:dat.loc:f	nazwisko	
 Ługowskiej	Ługowska	subst:sg:gen:f	nazwisko	
-Ługowskie	Ługowska	subst:pl:nom.acc:f	nazwisko	
-Ługowskie	Ługowska	subst:pl:voc:f	nazwisko	
+Ługowskie	Ługowska	subst:pl:nom.acc.voc:f	nazwisko	
 Ługowskimi	Ługowska	subst:pl:inst:f	nazwisko	
 Ługowskim	Ługowska	subst:pl:dat:f	nazwisko	
-Ługowscy	Ługowski	subst:pl:nom:m1	nazwisko	
-Ługowscy	Ługowski	subst:pl:voc:m1	nazwisko	
-Ługowskich	Ługowski	subst:pl:acc:m1	nazwisko	
-Ługowskich	Ługowski	subst:pl:gen:m1	nazwisko	
+Ługowscy	Ługowski	subst:pl:nom.voc:m1	nazwisko	
+Ługowskich	Ługowski	subst:pl:gen.acc:m1	nazwisko	
 Ługowskich	Ługowski	subst:pl:loc:m1	nazwisko	
-Ługowskiego	Ługowski	subst:sg:acc:m1	nazwisko	
+Ługowskiego	Ługowski	subst:sg:gen.acc:m1	nazwisko	
 Ługowskiego	Ługowski	subst:sg:gen:m1	nazwisko	
 Ługowskie	Ługowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Ługowskiemu	Ługowski	subst:sg:dat:m1	nazwisko	
@@ -1345,35 +1153,30 @@
 Ługowskim	Ługowski	subst:sg:inst:m1	nazwisko	
 Ługowskim	Ługowski	subst:sg:loc:m1	nazwisko	
 Łukasiewiczach	Łukasiewicz	subst:pl:loc:m1	nazwisko	
-Łukasiewicza	Łukasiewicz	subst:sg:acc:m1	nazwisko	
+Łukasiewicza	Łukasiewicz	subst:sg:gen.acc:m1	nazwisko	
 Łukasiewicza	Łukasiewicz	subst:sg:gen:m1	nazwisko	
 Łukasiewiczami	Łukasiewicz	subst:pl:inst:m1	nazwisko	
 Łukasiewicze	Łukasiewicz	depr:pl:nom.acc.voc:m2	nazwisko	
-Łukasiewicze	Łukasiewicz	subst:pl:nom:m1	nazwisko	
-Łukasiewicze	Łukasiewicz	subst:pl:voc:m1	nazwisko	
+Łukasiewicze	Łukasiewicz	subst:pl:nom.voc:m1	nazwisko	
 Łukasiewiczem	Łukasiewicz	subst:sg:inst:m1	nazwisko	
 Łukasiewicz	Łukasiewicz	subst:sg:nom:m1	nazwisko	
 Łukasiewiczom	Łukasiewicz	subst:pl:dat:m1	nazwisko	
-Łukasiewiczowie	Łukasiewicz	subst:pl:nom:m1	nazwisko	
-Łukasiewiczowie	Łukasiewicz	subst:pl:voc:m1	nazwisko	
+Łukasiewiczowie	Łukasiewicz	subst:pl:nom.voc:m1	nazwisko	
 Łukasiewiczowi	Łukasiewicz	subst:sg:dat:m1	nazwisko	
-Łukasiewiczów	Łukasiewicz	subst:pl:acc:m1	nazwisko	
-Łukasiewiczów	Łukasiewicz	subst:pl:gen:m1	nazwisko	
+Łukasiewiczów	Łukasiewicz	subst:pl:gen.acc:m1	nazwisko	
 Łukasiewiczu	Łukasiewicz	subst:sg:loc:m1	nazwisko	
 Łukasiewiczu	Łukasiewicz	subst:sg:voc:m1	nazwisko	
 Łukasikach	Łukasik	subst:pl:loc:m1	nazwisko	
-Łukasika	Łukasik	subst:sg:acc:m1	nazwisko	
+Łukasika	Łukasik	subst:sg:gen.acc:m1	nazwisko	
 Łukasika	Łukasik	subst:sg:gen:m1	nazwisko	
 Łukasikami	Łukasik	subst:pl:inst:m1	nazwisko	
 Łukasikiem	Łukasik	subst:sg:inst:m1	nazwisko	
 Łukasiki	Łukasik	depr:pl:nom.acc.voc:m2	nazwisko	
 Łukasik	Łukasik	subst:sg:nom:m1	nazwisko	
 Łukasikom	Łukasik	subst:pl:dat:m1	nazwisko	
-Łukasikowie	Łukasik	subst:pl:nom:m1	nazwisko	
-Łukasikowie	Łukasik	subst:pl:voc:m1	nazwisko	
+Łukasikowie	Łukasik	subst:pl:nom.voc:m1	nazwisko	
 Łukasikowi	Łukasik	subst:sg:dat:m1	nazwisko	
-Łukasików	Łukasik	subst:pl:acc:m1	nazwisko	
-Łukasików	Łukasik	subst:pl:gen:m1	nazwisko	
+Łukasików	Łukasik	subst:pl:gen.acc:m1	nazwisko	
 Łukasiku	Łukasik	subst:sg:loc:m1	nazwisko	
 Łukasiku	Łukasik	subst:sg:voc:m1	nazwisko	
 Łukasińska	Łukasińska	subst:sg:nom:f	nazwisko	
@@ -1384,16 +1187,13 @@
 Łukasińskich	Łukasińska	subst:pl:loc:f	nazwisko	
 Łukasińskiej	Łukasińska	subst:sg:dat.loc:f	nazwisko	
 Łukasińskiej	Łukasińska	subst:sg:gen:f	nazwisko	
-Łukasińskie	Łukasińska	subst:pl:nom.acc:f	nazwisko	
-Łukasińskie	Łukasińska	subst:pl:voc:f	nazwisko	
+Łukasińskie	Łukasińska	subst:pl:nom.acc.voc:f	nazwisko	
 Łukasińskimi	Łukasińska	subst:pl:inst:f	nazwisko	
 Łukasińskim	Łukasińska	subst:pl:dat:f	nazwisko	
-Łukasińscy	Łukasiński	subst:pl:nom:m1	nazwisko	
-Łukasińscy	Łukasiński	subst:pl:voc:m1	nazwisko	
-Łukasińskich	Łukasiński	subst:pl:acc:m1	nazwisko	
-Łukasińskich	Łukasiński	subst:pl:gen:m1	nazwisko	
+Łukasińscy	Łukasiński	subst:pl:nom.voc:m1	nazwisko	
+Łukasińskich	Łukasiński	subst:pl:gen.acc:m1	nazwisko	
 Łukasińskich	Łukasiński	subst:pl:loc:m1	nazwisko	
-Łukasińskiego	Łukasiński	subst:sg:acc:m1	nazwisko	
+Łukasińskiego	Łukasiński	subst:sg:gen.acc:m1	nazwisko	
 Łukasińskiego	Łukasiński	subst:sg:gen:m1	nazwisko	
 Łukasińskie	Łukasiński	depr:pl:nom.acc.voc:m2	nazwisko	
 Łukasińskiemu	Łukasiński	subst:sg:dat:m1	nazwisko	
@@ -1404,35 +1204,30 @@
 Łukasińskim	Łukasiński	subst:sg:inst:m1	nazwisko	
 Łukasińskim	Łukasiński	subst:sg:loc:m1	nazwisko	
 Łukaszach	Łukasz	subst:pl:loc:m1	imię	
-Łukasza	Łukasz	subst:sg:acc:m1	imię	
+Łukasza	Łukasz	subst:sg:gen.acc:m1	imię	
 Łukasza	Łukasz	subst:sg:gen:m1	imię	
 Łukaszami	Łukasz	subst:pl:inst:m1	imię	
 Łukasze	Łukasz	depr:pl:nom.acc.voc:m2	imię	
-Łukasze	Łukasz	subst:pl:nom:m1	imię	
-Łukasze	Łukasz	subst:pl:voc:m1	imię	
+Łukasze	Łukasz	subst:pl:nom.voc:m1	imię	
 Łukaszem	Łukasz	subst:sg:inst:m1	imię	
 Łukasz	Łukasz	subst:sg:nom:m1	imię	
 Łukaszom	Łukasz	subst:pl:dat:m1	imię	
-Łukaszowie	Łukasz	subst:pl:nom:m1	imię	
-Łukaszowie	Łukasz	subst:pl:voc:m1	imię	
+Łukaszowie	Łukasz	subst:pl:nom.voc:m1	imię	
 Łukaszowi	Łukasz	subst:sg:dat:m1	imię	
-Łukaszów	Łukasz	subst:pl:acc:m1	imię	
-Łukaszów	Łukasz	subst:pl:gen:m1	imię	
+Łukaszów	Łukasz	subst:pl:gen.acc:m1	imię	
 Łukaszu	Łukasz	subst:sg:loc:m1	imię	
 Łukaszu	Łukasz	subst:sg:voc:m1	imię	
 Łukaszek	Łukaszek	subst:sg:nom:m1	imię	
 Łukaszkach	Łukaszek	subst:pl:loc:m1	imię	
-Łukaszka	Łukaszek	subst:sg:acc:m1	imię	
+Łukaszka	Łukaszek	subst:sg:gen.acc:m1	imię	
 Łukaszka	Łukaszek	subst:sg:gen:m1	imię	
 Łukaszkami	Łukaszek	subst:pl:inst:m1	imię	
 Łukaszkiem	Łukaszek	subst:sg:inst:m1	imię	
 Łukaszki	Łukaszek	depr:pl:nom.acc.voc:m2	imię	
 Łukaszkom	Łukaszek	subst:pl:dat:m1	imię	
-Łukaszkowie	Łukaszek	subst:pl:nom:m1	imię	
-Łukaszkowie	Łukaszek	subst:pl:voc:m1	imię	
+Łukaszkowie	Łukaszek	subst:pl:nom.voc:m1	imię	
 Łukaszkowi	Łukaszek	subst:sg:dat:m1	imię	
-Łukaszków	Łukaszek	subst:pl:acc:m1	imię	
-Łukaszków	Łukaszek	subst:pl:gen:m1	imię	
+Łukaszków	Łukaszek	subst:pl:gen.acc:m1	imię	
 Łukaszku	Łukaszek	subst:sg:loc:m1	imię	
 Łukaszku	Łukaszek	subst:sg:voc:m1	imię	
 Łukaszence	Łukaszenko	subst:sg:dat.loc:m1	nazwisko	
@@ -1445,25 +1240,20 @@
 Łukaszenko	Łukaszenko	subst:sg:nom:m1	nazwisko	
 Łukaszenko	Łukaszenko	subst:sg:voc:m1	nazwisko	
 Łukaszenkom	Łukaszenko	subst:pl:dat:m1	nazwisko	
-Łukaszenkowie	Łukaszenko	subst:pl:nom:m1	nazwisko	
-Łukaszenkowie	Łukaszenko	subst:pl:voc:m1	nazwisko	
-Łukaszenków	Łukaszenko	subst:pl:acc:m1	nazwisko	
-Łukaszenków	Łukaszenko	subst:pl:gen:m1	nazwisko	
+Łukaszenkowie	Łukaszenko	subst:pl:nom.voc:m1	nazwisko	
+Łukaszenków	Łukaszenko	subst:pl:gen.acc:m1	nazwisko	
 Łukaszewiczach	Łukaszewicz	subst:pl:loc:m1	nazwisko	
-Łukaszewicza	Łukaszewicz	subst:sg:acc:m1	nazwisko	
+Łukaszewicza	Łukaszewicz	subst:sg:gen.acc:m1	nazwisko	
 Łukaszewicza	Łukaszewicz	subst:sg:gen:m1	nazwisko	
 Łukaszewiczami	Łukaszewicz	subst:pl:inst:m1	nazwisko	
 Łukaszewicze	Łukaszewicz	depr:pl:nom.acc.voc:m2	nazwisko	
-Łukaszewicze	Łukaszewicz	subst:pl:nom:m1	nazwisko	
-Łukaszewicze	Łukaszewicz	subst:pl:voc:m1	nazwisko	
+Łukaszewicze	Łukaszewicz	subst:pl:nom.voc:m1	nazwisko	
 Łukaszewiczem	Łukaszewicz	subst:sg:inst:m1	nazwisko	
 Łukaszewicz	Łukaszewicz	subst:sg:nom:m1	nazwisko	
 Łukaszewiczom	Łukaszewicz	subst:pl:dat:m1	nazwisko	
-Łukaszewiczowie	Łukaszewicz	subst:pl:nom:m1	nazwisko	
-Łukaszewiczowie	Łukaszewicz	subst:pl:voc:m1	nazwisko	
+Łukaszewiczowie	Łukaszewicz	subst:pl:nom.voc:m1	nazwisko	
 Łukaszewiczowi	Łukaszewicz	subst:sg:dat:m1	nazwisko	
-Łukaszewiczów	Łukaszewicz	subst:pl:acc:m1	nazwisko	
-Łukaszewiczów	Łukaszewicz	subst:pl:gen:m1	nazwisko	
+Łukaszewiczów	Łukaszewicz	subst:pl:gen.acc:m1	nazwisko	
 Łukaszewiczu	Łukaszewicz	subst:sg:loc:m1	nazwisko	
 Łukaszewiczu	Łukaszewicz	subst:sg:voc:m1	nazwisko	
 Łukaszewska	Łukaszewska	subst:sg:nom:f	nazwisko	
@@ -1474,16 +1264,13 @@
 Łukaszewskich	Łukaszewska	subst:pl:loc:f	nazwisko	
 Łukaszewskiej	Łukaszewska	subst:sg:dat.loc:f	nazwisko	
 Łukaszewskiej	Łukaszewska	subst:sg:gen:f	nazwisko	
-Łukaszewskie	Łukaszewska	subst:pl:nom.acc:f	nazwisko	
-Łukaszewskie	Łukaszewska	subst:pl:voc:f	nazwisko	
+Łukaszewskie	Łukaszewska	subst:pl:nom.acc.voc:f	nazwisko	
 Łukaszewskimi	Łukaszewska	subst:pl:inst:f	nazwisko	
 Łukaszewskim	Łukaszewska	subst:pl:dat:f	nazwisko	
-Łukaszewscy	Łukaszewski	subst:pl:nom:m1	nazwisko	
-Łukaszewscy	Łukaszewski	subst:pl:voc:m1	nazwisko	
-Łukaszewskich	Łukaszewski	subst:pl:acc:m1	nazwisko	
-Łukaszewskich	Łukaszewski	subst:pl:gen:m1	nazwisko	
+Łukaszewscy	Łukaszewski	subst:pl:nom.voc:m1	nazwisko	
+Łukaszewskich	Łukaszewski	subst:pl:gen.acc:m1	nazwisko	
 Łukaszewskich	Łukaszewski	subst:pl:loc:m1	nazwisko	
-Łukaszewskiego	Łukaszewski	subst:sg:acc:m1	nazwisko	
+Łukaszewskiego	Łukaszewski	subst:sg:gen.acc:m1	nazwisko	
 Łukaszewskiego	Łukaszewski	subst:sg:gen:m1	nazwisko	
 Łukaszewskie	Łukaszewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Łukaszewskiemu	Łukaszewski	subst:sg:dat:m1	nazwisko	
@@ -1501,16 +1288,13 @@
 Łukawskich	Łukawska	subst:pl:loc:f	nazwisko	
 Łukawskiej	Łukawska	subst:sg:dat.loc:f	nazwisko	
 Łukawskiej	Łukawska	subst:sg:gen:f	nazwisko	
-Łukawskie	Łukawska	subst:pl:nom.acc:f	nazwisko	
-Łukawskie	Łukawska	subst:pl:voc:f	nazwisko	
+Łukawskie	Łukawska	subst:pl:nom.acc.voc:f	nazwisko	
 Łukawskimi	Łukawska	subst:pl:inst:f	nazwisko	
 Łukawskim	Łukawska	subst:pl:dat:f	nazwisko	
-Łukawscy	Łukawski	subst:pl:nom:m1	nazwisko	
-Łukawscy	Łukawski	subst:pl:voc:m1	nazwisko	
-Łukawskich	Łukawski	subst:pl:acc:m1	nazwisko	
-Łukawskich	Łukawski	subst:pl:gen:m1	nazwisko	
+Łukawscy	Łukawski	subst:pl:nom.voc:m1	nazwisko	
+Łukawskich	Łukawski	subst:pl:gen.acc:m1	nazwisko	
 Łukawskich	Łukawski	subst:pl:loc:m1	nazwisko	
-Łukawskiego	Łukawski	subst:sg:acc:m1	nazwisko	
+Łukawskiego	Łukawski	subst:sg:gen.acc:m1	nazwisko	
 Łukawskiego	Łukawski	subst:sg:gen:m1	nazwisko	
 Łukawskie	Łukawski	depr:pl:nom.acc.voc:m2	nazwisko	
 Łukawskiemu	Łukawski	subst:sg:dat:m1	nazwisko	
@@ -1528,16 +1312,13 @@
 Łukomskich	Łukomska	subst:pl:loc:f	nazwisko	
 Łukomskiej	Łukomska	subst:sg:dat.loc:f	nazwisko	
 Łukomskiej	Łukomska	subst:sg:gen:f	nazwisko	
-Łukomskie	Łukomska	subst:pl:nom.acc:f	nazwisko	
-Łukomskie	Łukomska	subst:pl:voc:f	nazwisko	
+Łukomskie	Łukomska	subst:pl:nom.acc.voc:f	nazwisko	
 Łukomskimi	Łukomska	subst:pl:inst:f	nazwisko	
 Łukomskim	Łukomska	subst:pl:dat:f	nazwisko	
-Łukomscy	Łukomski	subst:pl:nom:m1	nazwisko	
-Łukomscy	Łukomski	subst:pl:voc:m1	nazwisko	
-Łukomskich	Łukomski	subst:pl:acc:m1	nazwisko	
-Łukomskich	Łukomski	subst:pl:gen:m1	nazwisko	
+Łukomscy	Łukomski	subst:pl:nom.voc:m1	nazwisko	
+Łukomskich	Łukomski	subst:pl:gen.acc:m1	nazwisko	
 Łukomskich	Łukomski	subst:pl:loc:m1	nazwisko	
-Łukomskiego	Łukomski	subst:sg:acc:m1	nazwisko	
+Łukomskiego	Łukomski	subst:sg:gen.acc:m1	nazwisko	
 Łukomskiego	Łukomski	subst:sg:gen:m1	nazwisko	
 Łukomskie	Łukomski	depr:pl:nom.acc.voc:m2	nazwisko	
 Łukomskiemu	Łukomski	subst:sg:dat:m1	nazwisko	
@@ -1551,8 +1332,7 @@
 Łukowica	Łukowica	subst:sg:nom:f	nazwa geograficzna	
 Łukowicami	Łukowica	subst:pl:inst:f	nazwa geograficzna	
 Łukowicą	Łukowica	subst:sg:inst:f	nazwa geograficzna	
-Łukowice	Łukowica	subst:pl:nom.acc:f	nazwa geograficzna	
-Łukowice	Łukowica	subst:pl:voc:f	nazwa geograficzna	
+Łukowice	Łukowica	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łukowicę	Łukowica	subst:sg:acc:f	nazwa geograficzna	
 Łukowic	Łukowica	subst:pl:gen:f	nazwa geograficzna	
 Łukowico	Łukowica	subst:sg:voc:f	nazwa geograficzna	
@@ -1569,10 +1349,8 @@
 Łukowowi	Łuków	subst:sg:dat:m3	nazwa geograficzna	
 Łukowów	Łuków	subst:pl:gen:m3	nazwa geograficzna	
 Łukowu	Łuków	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
-Łukowy	Łuków	subst:pl:nom.acc:m3	nazwa geograficzna	
-Łukowy	Łuków	subst:pl:voc:m3	nazwa geograficzna	
-Łuków	Łuków	subst:sg:acc:m3	nazwa geograficzna	
-Łuków	Łuków	subst:sg:nom:m3	nazwa geograficzna	
+Łukowy	Łuków	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Łuków	Łuków	subst:sg:nom.acc:m3	nazwa geograficzna	
 Łuniewska	Łuniewska	subst:sg:nom:f	nazwisko	
 Łuniewska	Łuniewska	subst:sg:voc:f	nazwisko	
 Łuniewską	Łuniewska	subst:sg:acc:f	nazwisko	
@@ -1581,16 +1359,13 @@
 Łuniewskich	Łuniewska	subst:pl:loc:f	nazwisko	
 Łuniewskiej	Łuniewska	subst:sg:dat.loc:f	nazwisko	
 Łuniewskiej	Łuniewska	subst:sg:gen:f	nazwisko	
-Łuniewskie	Łuniewska	subst:pl:nom.acc:f	nazwisko	
-Łuniewskie	Łuniewska	subst:pl:voc:f	nazwisko	
+Łuniewskie	Łuniewska	subst:pl:nom.acc.voc:f	nazwisko	
 Łuniewskimi	Łuniewska	subst:pl:inst:f	nazwisko	
 Łuniewskim	Łuniewska	subst:pl:dat:f	nazwisko	
-Łuniewscy	Łuniewski	subst:pl:nom:m1	nazwisko	
-Łuniewscy	Łuniewski	subst:pl:voc:m1	nazwisko	
-Łuniewskich	Łuniewski	subst:pl:acc:m1	nazwisko	
-Łuniewskich	Łuniewski	subst:pl:gen:m1	nazwisko	
+Łuniewscy	Łuniewski	subst:pl:nom.voc:m1	nazwisko	
+Łuniewskich	Łuniewski	subst:pl:gen.acc:m1	nazwisko	
 Łuniewskich	Łuniewski	subst:pl:loc:m1	nazwisko	
-Łuniewskiego	Łuniewski	subst:sg:acc:m1	nazwisko	
+Łuniewskiego	Łuniewski	subst:sg:gen.acc:m1	nazwisko	
 Łuniewskiego	Łuniewski	subst:sg:gen:m1	nazwisko	
 Łuniewskie	Łuniewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Łuniewskiemu	Łuniewski	subst:sg:dat:m1	nazwisko	
@@ -1610,10 +1385,8 @@
 Łupkowowi	Łupków	subst:sg:dat:m3	nazwa geograficzna	
 Łupkowów	Łupków	subst:pl:gen:m3	nazwa geograficzna	
 Łupkowu	Łupków	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
-Łupkowy	Łupków	subst:pl:nom.acc:m3	nazwa geograficzna	
-Łupkowy	Łupków	subst:pl:voc:m3	nazwa geograficzna	
-Łupków	Łupków	subst:sg:acc:m3	nazwa geograficzna	
-Łupków	Łupków	subst:sg:nom:m3	nazwa geograficzna	
+Łupkowy	Łupków	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Łupków	Łupków	subst:sg:nom.acc:m3	nazwa geograficzna	
 Łuszczyńska	Łuszczyńska	subst:sg:nom:f	nazwisko	
 Łuszczyńska	Łuszczyńska	subst:sg:voc:f	nazwisko	
 Łuszczyńską	Łuszczyńska	subst:sg:acc:f	nazwisko	
@@ -1622,16 +1395,13 @@
 Łuszczyńskich	Łuszczyńska	subst:pl:loc:f	nazwisko	
 Łuszczyńskiej	Łuszczyńska	subst:sg:dat.loc:f	nazwisko	
 Łuszczyńskiej	Łuszczyńska	subst:sg:gen:f	nazwisko	
-Łuszczyńskie	Łuszczyńska	subst:pl:nom.acc:f	nazwisko	
-Łuszczyńskie	Łuszczyńska	subst:pl:voc:f	nazwisko	
+Łuszczyńskie	Łuszczyńska	subst:pl:nom.acc.voc:f	nazwisko	
 Łuszczyńskimi	Łuszczyńska	subst:pl:inst:f	nazwisko	
 Łuszczyńskim	Łuszczyńska	subst:pl:dat:f	nazwisko	
-Łuszczyńscy	Łuszczyński	subst:pl:nom:m1	nazwisko	
-Łuszczyńscy	Łuszczyński	subst:pl:voc:m1	nazwisko	
-Łuszczyńskich	Łuszczyński	subst:pl:acc:m1	nazwisko	
-Łuszczyńskich	Łuszczyński	subst:pl:gen:m1	nazwisko	
+Łuszczyńscy	Łuszczyński	subst:pl:nom.voc:m1	nazwisko	
+Łuszczyńskich	Łuszczyński	subst:pl:gen.acc:m1	nazwisko	
 Łuszczyńskich	Łuszczyński	subst:pl:loc:m1	nazwisko	
-Łuszczyńskiego	Łuszczyński	subst:sg:acc:m1	nazwisko	
+Łuszczyńskiego	Łuszczyński	subst:sg:gen.acc:m1	nazwisko	
 Łuszczyńskiego	Łuszczyński	subst:sg:gen:m1	nazwisko	
 Łuszczyńskie	Łuszczyński	depr:pl:nom.acc.voc:m2	nazwisko	
 Łuszczyńskiemu	Łuszczyński	subst:sg:dat:m1	nazwisko	
@@ -1647,20 +1417,17 @@
 Łużną	Łużna	subst:sg:inst:f	nazwisko	
 Łużnej	Łużna	subst:sg:dat.loc:f	nazwisko	
 Łużnej	Łużna	subst:sg:gen:f	nazwisko	
-Łużne	Łużna	subst:pl:nom.acc:f	nazwisko	
-Łużne	Łużna	subst:pl:voc:f	nazwisko	
+Łużne	Łużna	subst:pl:nom.acc.voc:f	nazwisko	
 Łużnych	Łużna	subst:pl:gen:f	nazwisko	
 Łużnych	Łużna	subst:pl:loc:f	nazwisko	
 Łużnymi	Łużna	subst:pl:inst:f	nazwisko	
 Łużnym	Łużna	subst:pl:dat:f	nazwisko	
-Łużnego	Łużny	subst:sg:acc:m1	nazwisko	
+Łużnego	Łużny	subst:sg:gen.acc:m1	nazwisko	
 Łużnego	Łużny	subst:sg:gen:m1	nazwisko	
 Łużne	Łużny	depr:pl:nom.acc.voc:m2	nazwisko	
 Łużnemu	Łużny	subst:sg:dat:m1	nazwisko	
-Łużni	Łużny	subst:pl:nom:m1	nazwisko	
-Łużni	Łużny	subst:pl:voc:m1	nazwisko	
-Łużnych	Łużny	subst:pl:acc:m1	nazwisko	
-Łużnych	Łużny	subst:pl:gen:m1	nazwisko	
+Łużni	Łużny	subst:pl:nom.voc:m1	nazwisko	
+Łużnych	Łużny	subst:pl:gen.acc:m1	nazwisko	
 Łużnych	Łużny	subst:pl:loc:m1	nazwisko	
 Łużny	Łużny	subst:sg:nom:m1	nazwisko	
 Łużny	Łużny	subst:sg:voc:m1	nazwisko	
@@ -1672,27 +1439,23 @@
 Łużycach	Łużyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Łużycami	Łużyce	subst:pl:inst:n:pt	nazwa geograficzna	
 Łużycami	Łużyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Łużyce	Łużyce	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łużyce	Łużyce	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łużyce	Łużyce	subst:pl:voc:n:pt	nazwa geograficzna	
-Łużyce	Łużyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łużyce	Łużyce	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łużyce	Łużyce	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łużyc	Łużyce	subst:pl:gen:n:pt	nazwa geograficzna	
 Łużyc	Łużyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łużycom	Łużyce	subst:pl:dat:n:pt	nazwa geograficzna	
 Łużycom	Łużyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Łużyczanach	Łużyczanin	subst:pl:loc:m1	nazwa pospolita	
 Łużyczanami	Łużyczanin	subst:pl:inst:m1	nazwa pospolita	
-Łużyczanie	Łużyczanin	subst:pl:nom:m1	nazwa pospolita	
-Łużyczanie	Łużyczanin	subst:pl:voc:m1	nazwa pospolita	
-Łużyczanina	Łużyczanin	subst:sg:acc:m1	nazwa pospolita	
+Łużyczanie	Łużyczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+Łużyczanina	Łużyczanin	subst:sg:gen.acc:m1	nazwa pospolita	
 Łużyczanina	Łużyczanin	subst:sg:gen:m1	nazwa pospolita	
 Łużyczaninem	Łużyczanin	subst:sg:inst:m1	nazwa pospolita	
 Łużyczaninie	Łużyczanin	subst:sg:loc:m1	nazwa pospolita	
 Łużyczaninie	Łużyczanin	subst:sg:voc:m1	nazwa pospolita	
 Łużyczanin	Łużyczanin	subst:sg:nom:m1	nazwa pospolita	
 Łużyczaninowi	Łużyczanin	subst:sg:dat:m1	nazwa pospolita	
-Łużyczan	Łużyczanin	subst:pl:acc:m1	nazwa pospolita	
-Łużyczan	Łużyczanin	subst:pl:gen:m1	nazwa pospolita	
+Łużyczan	Łużyczanin	subst:pl:gen.acc:m1	nazwa pospolita	
 Łużyczanom	Łużyczanin	subst:pl:dat:m1	nazwa pospolita	
 Łużyczany	Łużyczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Łysence	Łysenko	subst:sg:dat.loc:m1	nazwisko	
@@ -1705,16 +1468,13 @@
 Łysenko	Łysenko	subst:sg:nom:m1	nazwisko	
 Łysenko	Łysenko	subst:sg:voc:m1	nazwisko	
 Łysenkom	Łysenko	subst:pl:dat:m1	nazwisko	
-Łysenkowie	Łysenko	subst:pl:nom:m1	nazwisko	
-Łysenkowie	Łysenko	subst:pl:voc:m1	nazwisko	
-Łysenków	Łysenko	subst:pl:acc:m1	nazwisko	
-Łysenków	Łysenko	subst:pl:gen:m1	nazwisko	
+Łysenkowie	Łysenko	subst:pl:nom.voc:m1	nazwisko	
+Łysenków	Łysenko	subst:pl:gen.acc:m1	nazwisko	
 Łysicach	Łysica	subst:pl:loc:f	nazwa geograficzna	
 Łysica	Łysica	subst:sg:nom:f	nazwa geograficzna	
 Łysicami	Łysica	subst:pl:inst:f	nazwa geograficzna	
 Łysicą	Łysica	subst:sg:inst:f	nazwa geograficzna	
-Łysice	Łysica	subst:pl:nom.acc:f	nazwa geograficzna	
-Łysice	Łysica	subst:pl:voc:f	nazwa geograficzna	
+Łysice	Łysica	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Łysicę	Łysica	subst:sg:acc:f	nazwa geograficzna	
 Łysic	Łysica	subst:pl:gen:f	nazwa geograficzna	
 Łysico	Łysica	subst:sg:voc:f	nazwa geograficzna	
@@ -1729,18 +1489,14 @@
 Łysogór	Łysogóry	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łysogórom	Łysogóry	subst:pl:dat:n:pt	nazwa geograficzna	
 Łysogórom	Łysogóry	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
-Łysogóry	Łysogóry	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łysogóry	Łysogóry	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łysogóry	Łysogóry	subst:pl:voc:n:pt	nazwa geograficzna	
-Łysogóry	Łysogóry	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łysogóry	Łysogóry	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łysogóry	Łysogóry	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łysomicach	Łysomice	subst:pl:loc:n:pt	nazwa geograficzna	
 Łysomicach	Łysomice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Łysomicami	Łysomice	subst:pl:inst:n:pt	nazwa geograficzna	
 Łysomicami	Łysomice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Łysomice	Łysomice	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łysomice	Łysomice	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łysomice	Łysomice	subst:pl:voc:n:pt	nazwa geograficzna	
-Łysomice	Łysomice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łysomice	Łysomice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łysomice	Łysomice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łysomic	Łysomice	subst:pl:gen:n:pt	nazwa geograficzna	
 Łysomic	Łysomice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łysomicom	Łysomice	subst:pl:dat:n:pt	nazwa geograficzna	
@@ -1749,10 +1505,8 @@
 Łyszkowicach	Łyszkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Łyszkowicami	Łyszkowice	subst:pl:inst:n:pt	nazwa geograficzna	
 Łyszkowicami	Łyszkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Łyszkowice	Łyszkowice	subst:pl:nom.acc:n:pt	nazwa geograficzna	
-Łyszkowice	Łyszkowice	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
-Łyszkowice	Łyszkowice	subst:pl:voc:n:pt	nazwa geograficzna	
-Łyszkowice	Łyszkowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Łyszkowice	Łyszkowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+Łyszkowice	Łyszkowice	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Łyszkowic	Łyszkowice	subst:pl:gen:n:pt	nazwa geograficzna	
 Łyszkowic	Łyszkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Łyszkowicom	Łyszkowice	subst:pl:dat:n:pt	nazwa geograficzna	
@@ -1765,16 +1519,13 @@
 Łyszkowskich	Łyszkowska	subst:pl:loc:f	nazwisko	
 Łyszkowskiej	Łyszkowska	subst:sg:dat.loc:f	nazwisko	
 Łyszkowskiej	Łyszkowska	subst:sg:gen:f	nazwisko	
-Łyszkowskie	Łyszkowska	subst:pl:nom.acc:f	nazwisko	
-Łyszkowskie	Łyszkowska	subst:pl:voc:f	nazwisko	
+Łyszkowskie	Łyszkowska	subst:pl:nom.acc.voc:f	nazwisko	
 Łyszkowskimi	Łyszkowska	subst:pl:inst:f	nazwisko	
 Łyszkowskim	Łyszkowska	subst:pl:dat:f	nazwisko	
-Łyszkowscy	Łyszkowski	subst:pl:nom:m1	nazwisko	
-Łyszkowscy	Łyszkowski	subst:pl:voc:m1	nazwisko	
-Łyszkowskich	Łyszkowski	subst:pl:acc:m1	nazwisko	
-Łyszkowskich	Łyszkowski	subst:pl:gen:m1	nazwisko	
+Łyszkowscy	Łyszkowski	subst:pl:nom.voc:m1	nazwisko	
+Łyszkowskich	Łyszkowski	subst:pl:gen.acc:m1	nazwisko	
 Łyszkowskich	Łyszkowski	subst:pl:loc:m1	nazwisko	
-Łyszkowskiego	Łyszkowski	subst:sg:acc:m1	nazwisko	
+Łyszkowskiego	Łyszkowski	subst:sg:gen.acc:m1	nazwisko	
 Łyszkowskiego	Łyszkowski	subst:sg:gen:m1	nazwisko	
 Łyszkowskie	Łyszkowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Łyszkowskiemu	Łyszkowski	subst:sg:dat:m1	nazwisko	

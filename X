@@ -1,11 +1,9 @@
-Xawerego	Xawery	subst:sg:acc:m1	imię	
+Xawerego	Xawery	subst:sg:gen.acc:m1	imię	
 Xawerego	Xawery	subst:sg:gen:m1	imię	
 Xaweremu	Xawery	subst:sg:dat:m1	imię	
 Xawere	Xawery	depr:pl:nom.acc.voc:m2	imię	
-Xawerowie	Xawery	subst:pl:nom:m1	imię	
-Xawerowie	Xawery	subst:pl:voc:m1	imię	
-Xawerych	Xawery	subst:pl:acc:m1	imię	
-Xawerych	Xawery	subst:pl:gen:m1	imię	
+Xawerowie	Xawery	subst:pl:nom.voc:m1	imię	
+Xawerych	Xawery	subst:pl:gen.acc:m1	imię	
 Xawerych	Xawery	subst:pl:loc:m1	imię	
 Xawerymi	Xawery	subst:pl:inst:m1	imię	
 Xawerym	Xawery	subst:pl:dat:m1	imię	
@@ -19,8 +17,7 @@ Xeniach	Xenia	subst:pl:loc:f	imię
 Xeniami	Xenia	subst:pl:inst:f	imię	
 Xenia	Xenia	subst:sg:nom:f	imię	
 Xenią	Xenia	subst:sg:inst:f	imię	
-Xenie	Xenia	subst:pl:nom.acc:f	imię	
-Xenie	Xenia	subst:pl:voc:f	imię	
+Xenie	Xenia	subst:pl:nom.acc.voc:f	imię	
 Xenię	Xenia	subst:sg:acc:f	imię	
 Xeniom	Xenia	subst:pl:dat:f	imię	
 Xenio	Xenia	subst:sg:voc:f	imię	
@@ -34,14 +31,12 @@ XML-ach	XML	subst:pl:loc:m2	nazwa pospolita	komp.
 XML-ach	XML	subst:pl:loc:m3	nazwa pospolita	komp.
 XML-ami	XML	subst:pl:inst:m2	nazwa pospolita	komp.
 XML-ami	XML	subst:pl:inst:m3	nazwa pospolita	komp.
-XML-a	XML	subst:sg:acc:m2	nazwa pospolita	komp.
+XML-a	XML	subst:sg:gen.acc:m2	nazwa pospolita	komp.
 XML-a	XML	subst:sg:gen:m2	nazwa pospolita	komp.
 XML-em	XML	subst:sg:inst:m2	nazwa pospolita	komp.
 XML-em	XML	subst:sg:inst:m3	nazwa pospolita	komp.
-XML-e	XML	subst:pl:nom.acc:m2	nazwa pospolita	komp.
-XML-e	XML	subst:pl:nom.acc:m3	nazwa pospolita	komp.
-XML-e	XML	subst:pl:voc:m2	nazwa pospolita	komp.
-XML-e	XML	subst:pl:voc:m3	nazwa pospolita	komp.
+XML-e	XML	subst:pl:nom.acc.voc:m2	nazwa pospolita	komp.
+XML-e	XML	subst:pl:nom.acc.voc:m3	nazwa pospolita	komp.
 XML-i	XML	subst:pl:gen:m3	nazwa pospolita	komp.
 XML-om	XML	subst:pl:dat:m2	nazwa pospolita	komp.
 XML-om	XML	subst:pl:dat:m3	nazwa pospolita	komp.
@@ -53,9 +48,8 @@ XML-u	XML	subst:sg:loc:m2	nazwa pospolita	komp.
 XML-u	XML	subst:sg:loc:m3	nazwa pospolita	komp.
 XML-u	XML	subst:sg:voc:m2	nazwa pospolita	komp.
 XML-u	XML	subst:sg:voc:m3	nazwa pospolita	komp.
-XML	XML	subst:sg:acc:m3	nazwa pospolita	komp.
+XML	XML	subst:sg:nom.acc:m3	nazwa pospolita	komp.
 XML	XML	subst:sg:nom:m2	nazwa pospolita	komp.
-XML	XML	subst:sg:nom:m3	nazwa pospolita	komp.
 Xymenach	Xymena	subst:pl:loc:f	imię	
 Xymenami	Xymena	subst:pl:inst:f	imię	
 Xymena	Xymena	subst:sg:nom:f	imię	
@@ -65,6 +59,5 @@ Xymenie	Xymena	subst:sg:dat.loc:f	imię
 Xymenom	Xymena	subst:pl:dat:f	imię	
 Xymeno	Xymena	subst:sg:voc:f	imię	
 Xymen	Xymena	subst:pl:gen:f	imię	
-Xymeny	Xymena	subst:pl:nom.acc:f	imię	
-Xymeny	Xymena	subst:pl:voc:f	imię	
+Xymeny	Xymena	subst:pl:nom.acc.voc:f	imię	
 Xymeny	Xymena	subst:sg:gen:f	imię	

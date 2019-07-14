@@ -1,22 +1,19 @@
 Vaclavach	Vaclav	subst:pl:loc:m1	imię	
 Vaclavami	Vaclav	subst:pl:inst:m1	imię	
-Vaclava	Vaclav	subst:sg:acc:m1	imię	
+Vaclava	Vaclav	subst:sg:gen.acc:m1	imię	
 Vaclava	Vaclav	subst:sg:gen:m1	imię	
 Vaclavem	Vaclav	subst:sg:inst:m1	imię	
 Vaclavie	Vaclav	subst:sg:loc:m1	imię	
 Vaclavie	Vaclav	subst:sg:voc:m1	imię	
 Vaclavom	Vaclav	subst:pl:dat:m1	imię	
-Vaclavowie	Vaclav	subst:pl:nom:m1	imię	
-Vaclavowie	Vaclav	subst:pl:voc:m1	imię	
+Vaclavowie	Vaclav	subst:pl:nom.voc:m1	imię	
 Vaclavowi	Vaclav	subst:sg:dat:m1	imię	
-Vaclavów	Vaclav	subst:pl:acc:m1	imię	
-Vaclavów	Vaclav	subst:pl:gen:m1	imię	
+Vaclavów	Vaclav	subst:pl:gen.acc:m1	imię	
 Vaclav	Vaclav	subst:sg:nom:m1	imię	
 Vaclavy	Vaclav	depr:pl:nom.acc.voc:m2	imię	
-Valérych	Valéry	subst:pl:acc:m1	nazwisko	
-Valérych	Valéry	subst:pl:gen:m1	nazwisko	
+Valérych	Valéry	subst:pl:gen.acc:m1	nazwisko	
 Valérych	Valéry	subst:pl:loc:m1	nazwisko	
-Valéry’ego	Valéry	subst:sg:acc:m1	nazwisko	
+Valéry’ego	Valéry	subst:sg:gen.acc:m1	nazwisko	
 Valéry’ego	Valéry	subst:sg:gen:m1	nazwisko	
 Valéry’emu	Valéry	subst:sg:dat:m1	nazwisko	
 Valéry’e	Valéry	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -24,8 +21,7 @@ Valérymi	Valéry	subst:pl:inst:m1	nazwisko
 Valérym	Valéry	subst:pl:dat:m1	nazwisko	
 Valérym	Valéry	subst:sg:inst:m1	nazwisko	
 Valérym	Valéry	subst:sg:loc:m1	nazwisko	
-Valéry	Valéry	subst:pl:nom:m1	nazwisko	
-Valéry	Valéry	subst:pl:voc:m1	nazwisko	
+Valéry	Valéry	subst:pl:nom.voc:m1	nazwisko	
 Valéry	Valéry	subst:sg:nom:m1	nazwisko	
 Valéry	Valéry	subst:sg:voc:m1	nazwisko	
 Vancouverach	Vancouver:s1	subst:pl:loc:m3	nazwa geograficzna	
@@ -35,41 +31,35 @@ Vancouverom	Vancouver:s1	subst:pl:dat:m3	nazwa geograficzna
 Vancouverowi	Vancouver:s1	subst:sg:dat:m3	nazwa geograficzna	
 Vancouverów	Vancouver:s1	subst:pl:gen:m3	nazwa geograficzna	
 Vancouveru	Vancouver:s1	subst:sg:gen:m3	nazwa geograficzna	
-Vancouver	Vancouver:s1	subst:sg:acc:m3	nazwa geograficzna	
-Vancouver	Vancouver:s1	subst:sg:nom:m3	nazwa geograficzna	
+Vancouver	Vancouver:s1	subst:sg:nom.acc:m3	nazwa geograficzna	
 Vancouver	Vancouver:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
-Vancouvery	Vancouver:s1	subst:pl:nom.acc:m3	nazwa geograficzna	
-Vancouvery	Vancouver:s1	subst:pl:voc:m3	nazwa geograficzna	
+Vancouvery	Vancouver:s1	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Vancouverze	Vancouver:s1	subst:sg:loc:m3	nazwa geograficzna	
 Vancouverze	Vancouver:s1	subst:sg:voc:m3	nazwa geograficzna	
 Vancouverach	Vancouver:s2	subst:pl:loc:m1	nazwisko	
 Vancouverami	Vancouver:s2	subst:pl:inst:m1	nazwisko	
-Vancouvera	Vancouver:s2	subst:sg:acc:m1	nazwisko	
+Vancouvera	Vancouver:s2	subst:sg:gen.acc:m1	nazwisko	
 Vancouvera	Vancouver:s2	subst:sg:gen:m1	nazwisko	
 Vancouverem	Vancouver:s2	subst:sg:inst:m1	nazwisko	
 Vancouverom	Vancouver:s2	subst:pl:dat:m1	nazwisko	
-Vancouverowie	Vancouver:s2	subst:pl:nom:m1	nazwisko	
-Vancouverowie	Vancouver:s2	subst:pl:voc:m1	nazwisko	
+Vancouverowie	Vancouver:s2	subst:pl:nom.voc:m1	nazwisko	
 Vancouverowi	Vancouver:s2	subst:sg:dat:m1	nazwisko	
-Vancouverów	Vancouver:s2	subst:pl:acc:m1	nazwisko	
-Vancouverów	Vancouver:s2	subst:pl:gen:m1	nazwisko	
+Vancouverów	Vancouver:s2	subst:pl:gen.acc:m1	nazwisko	
 Vancouver	Vancouver:s2	subst:sg:nom:m1	nazwisko	
 Vancouvery	Vancouver:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Vancouverze	Vancouver:s2	subst:sg:loc:m1	nazwisko	
 Vancouverze	Vancouver:s2	subst:sg:voc:m1	nazwisko	
 Vargasach	Vargas	subst:pl:loc:m1	nazwisko	
 Vargasami	Vargas	subst:pl:inst:m1	nazwisko	
-Vargasa	Vargas	subst:sg:acc:m1	nazwisko	
+Vargasa	Vargas	subst:sg:gen.acc:m1	nazwisko	
 Vargasa	Vargas	subst:sg:gen:m1	nazwisko	
 Vargasem	Vargas	subst:sg:inst:m1	nazwisko	
 Vargasie	Vargas	subst:sg:loc:m1	nazwisko	
 Vargasie	Vargas	subst:sg:voc:m1	nazwisko	
 Vargasom	Vargas	subst:pl:dat:m1	nazwisko	
-Vargasowie	Vargas	subst:pl:nom:m1	nazwisko	
-Vargasowie	Vargas	subst:pl:voc:m1	nazwisko	
+Vargasowie	Vargas	subst:pl:nom.voc:m1	nazwisko	
 Vargasowi	Vargas	subst:sg:dat:m1	nazwisko	
-Vargasów	Vargas	subst:pl:acc:m1	nazwisko	
-Vargasów	Vargas	subst:pl:gen:m1	nazwisko	
+Vargasów	Vargas	subst:pl:gen.acc:m1	nazwisko	
 Vargas	Vargas	subst:sg:nom:m1	nazwisko	
 Vargasy	Vargas	depr:pl:nom.acc.voc:m2	nazwisko	
 Vasco	Vasco	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -85,11 +75,9 @@ VAT-om	VAT	subst:pl:dat:m3	nazwa pospolita
 VAT-owi	VAT	subst:sg:dat:m3	nazwa pospolita	
 VAT-ów	VAT	subst:pl:gen:m3	nazwa pospolita	
 VAT-u	VAT	subst:sg:gen:m3	nazwa pospolita	
-VAT	VAT	subst:sg:acc:m3	nazwa pospolita	
-VAT	VAT	subst:sg:nom:m3	nazwa pospolita	
+VAT	VAT	subst:sg:nom.acc:m3	nazwa pospolita	
 VAT	VAT	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
-VAT-y	VAT	subst:pl:nom.acc:m3	nazwa pospolita	
-VAT-y	VAT	subst:pl:voc:m3	nazwa pospolita	
+VAT-y	VAT	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 VAT-owscy	VAT-owski	adj:pl:nom.voc:m1:pos		
 VAT-owska	VAT-owski	adj:sg:nom.voc:f:pos		
 VAT-owską	VAT-owski	adj:sg:acc:f:pos		
@@ -121,8 +109,7 @@ VAT-owskościami	VAT-owskość	subst:pl:inst:f	nazwa pospolita
 VAT-owskością	VAT-owskość	subst:sg:inst:f	nazwa pospolita	
 VAT-owskościom	VAT-owskość	subst:pl:dat:f	nazwa pospolita	
 VAT-owskości	VAT-owskość	subst:pl:gen:f	nazwa pospolita	
-VAT-owskości	VAT-owskość	subst:pl:nom.acc:f	nazwa pospolita	
-VAT-owskości	VAT-owskość	subst:pl:voc:f	nazwa pospolita	
+VAT-owskości	VAT-owskość	subst:pl:nom.acc.voc:f	nazwa pospolita	
 VAT-owskości	VAT-owskość	subst:sg:dat.loc:f	nazwa pospolita	
 VAT-owskości	VAT-owskość	subst:sg:gen:f	nazwa pospolita	
 VAT-owskości	VAT-owskość	subst:sg:voc:f	nazwa pospolita	
@@ -135,10 +122,8 @@ VCR-om	VCR	subst:pl:dat:m3	nazwa pospolita
 VCR-owi	VCR	subst:sg:dat:m3	nazwa pospolita	
 VCR-ów	VCR	subst:pl:gen:m3	nazwa pospolita	
 VCR-u	VCR	subst:sg:gen:m3	nazwa pospolita	
-VCR	VCR	subst:sg:acc:m3	nazwa pospolita	
-VCR	VCR	subst:sg:nom:m3	nazwa pospolita	
-VCR-y	VCR	subst:pl:nom.acc:m3	nazwa pospolita	
-VCR-y	VCR	subst:pl:voc:m3	nazwa pospolita	
+VCR	VCR	subst:sg:nom.acc:m3	nazwa pospolita	
+VCR-y	VCR	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 VCR-ze	VCR	subst:sg:loc:m3	nazwa pospolita	
 VCR-ze	VCR	subst:sg:voc:m3	nazwa pospolita	
 Vedze	Vega	subst:sg:dat.loc:m1	człon nazwiska	
@@ -151,24 +136,20 @@ Vegi	Vega	depr:pl:nom.acc.voc:m2	człon nazwiska
 Vegi	Vega	subst:sg:gen:m1	człon nazwiska	
 Vegom	Vega	subst:pl:dat:m1	człon nazwiska	
 Vego	Vega	subst:sg:voc:m1	człon nazwiska	
-Vegowie	Vega	subst:pl:nom:m1	człon nazwiska	
-Vegowie	Vega	subst:pl:voc:m1	człon nazwiska	
-Vegów	Vega	subst:pl:acc:m1	człon nazwiska	
-Vegów	Vega	subst:pl:gen:m1	człon nazwiska	
+Vegowie	Vega	subst:pl:nom.voc:m1	człon nazwiska	
+Vegów	Vega	subst:pl:gen.acc:m1	człon nazwiska	
 Vegas	Vegas	burk		
 Velazquezach	Velazquez	subst:pl:loc:m1	nazwisko	
 Velazquezami	Velazquez	subst:pl:inst:m1	nazwisko	
-Velazqueza	Velazquez	subst:sg:acc:m1	nazwisko	
+Velazqueza	Velazquez	subst:sg:gen.acc:m1	nazwisko	
 Velazqueza	Velazquez	subst:sg:gen:m1	nazwisko	
 Velazquezem	Velazquez	subst:sg:inst:m1	nazwisko	
 Velazquezie	Velazquez	subst:sg:loc:m1	nazwisko	
 Velazquezie	Velazquez	subst:sg:voc:m1	nazwisko	
 Velazquezom	Velazquez	subst:pl:dat:m1	nazwisko	
-Velazquezowie	Velazquez	subst:pl:nom:m1	nazwisko	
-Velazquezowie	Velazquez	subst:pl:voc:m1	nazwisko	
+Velazquezowie	Velazquez	subst:pl:nom.voc:m1	nazwisko	
 Velazquezowi	Velazquez	subst:sg:dat:m1	nazwisko	
-Velazquezów	Velazquez	subst:pl:acc:m1	nazwisko	
-Velazquezów	Velazquez	subst:pl:gen:m1	nazwisko	
+Velazquezów	Velazquez	subst:pl:gen.acc:m1	nazwisko	
 Velazquez	Velazquez	subst:sg:nom:m1	nazwisko	
 Velazquezy	Velazquez	depr:pl:nom.acc.voc:m2	nazwisko	
 Venclovach	Venclova	subst:pl:loc:m1	nazwisko	
@@ -179,33 +160,27 @@ Venclovę	Venclova	subst:sg:acc:m1	nazwisko
 Venclovie	Venclova	subst:sg:dat.loc:m1	nazwisko	
 Venclovom	Venclova	subst:pl:dat:m1	nazwisko	
 Venclovo	Venclova	subst:sg:voc:m1	nazwisko	
-Venclovowie	Venclova	subst:pl:nom:m1	nazwisko	
-Venclovowie	Venclova	subst:pl:voc:m1	nazwisko	
-Venclovów	Venclova	subst:pl:acc:m1	nazwisko	
-Venclovów	Venclova	subst:pl:gen:m1	nazwisko	
+Venclovowie	Venclova	subst:pl:nom.voc:m1	nazwisko	
+Venclovów	Venclova	subst:pl:gen.acc:m1	nazwisko	
 Venclovy	Venclova	depr:pl:nom.acc.voc:m2	nazwisko	
 Venclovy	Venclova	subst:sg:gen:m1	nazwisko	
 Ventzislavach	Ventzislav	subst:pl:loc:m1	imię	
 Ventzislavami	Ventzislav	subst:pl:inst:m1	imię	
-Ventzislava	Ventzislav	subst:sg:acc:m1	imię	
+Ventzislava	Ventzislav	subst:sg:gen.acc:m1	imię	
 Ventzislava	Ventzislav	subst:sg:gen:m1	imię	
 Ventzislavem	Ventzislav	subst:sg:inst:m1	imię	
 Ventzislavie	Ventzislav	subst:sg:loc:m1	imię	
 Ventzislavie	Ventzislav	subst:sg:voc:m1	imię	
-Ventzislavi	Ventzislav	subst:pl:nom:m1	imię	
-Ventzislavi	Ventzislav	subst:pl:voc:m1	imię	
+Ventzislavi	Ventzislav	subst:pl:nom.voc:m1	imię	
 Ventzislavom	Ventzislav	subst:pl:dat:m1	imię	
-Ventzislavowie	Ventzislav	subst:pl:nom:m1	imię	
-Ventzislavowie	Ventzislav	subst:pl:voc:m1	imię	
+Ventzislavowie	Ventzislav	subst:pl:nom.voc:m1	imię	
 Ventzislavowi	Ventzislav	subst:sg:dat:m1	imię	
-Ventzislavów	Ventzislav	subst:pl:acc:m1	imię	
-Ventzislavów	Ventzislav	subst:pl:gen:m1	imię	
+Ventzislavów	Ventzislav	subst:pl:gen.acc:m1	imię	
 Ventzislav	Ventzislav	subst:sg:nom:m1	imię	
 Ventzislavy	Ventzislav	depr:pl:nom.acc.voc:m2	imię	
-Verdich	Verdi	subst:pl:acc:m1	nazwisko	
-Verdich	Verdi	subst:pl:gen:m1	nazwisko	
+Verdich	Verdi	subst:pl:gen.acc:m1	nazwisko	
 Verdich	Verdi	subst:pl:loc:m1	nazwisko	
-Verdiego	Verdi	subst:sg:acc:m1	nazwisko	
+Verdiego	Verdi	subst:sg:gen.acc:m1	nazwisko	
 Verdiego	Verdi	subst:sg:gen:m1	nazwisko	
 Verdiemu	Verdi	subst:sg:dat:m1	nazwisko	
 Verdie	Verdi	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -213,39 +188,33 @@ Verdimi	Verdi	subst:pl:inst:m1	nazwisko
 Verdim	Verdi	subst:pl:dat:m1	nazwisko	
 Verdim	Verdi	subst:sg:inst:m1	nazwisko	
 Verdim	Verdi	subst:sg:loc:m1	nazwisko	
-Verdiowie	Verdi	subst:pl:nom:m1	nazwisko	
-Verdiowie	Verdi	subst:pl:voc:m1	nazwisko	
-Verdi	Verdi	subst:pl:nom:m1	nazwisko	
-Verdi	Verdi	subst:pl:voc:m1	nazwisko	
+Verdiowie	Verdi	subst:pl:nom.voc:m1	nazwisko	
+Verdi	Verdi	subst:pl:nom.voc:m1	nazwisko	
 Verdi	Verdi	subst:sg:nom:m1	nazwisko	
 Verdi	Verdi	subst:sg:voc:m1	nazwisko	
 Verdun	Verdun	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
 Verlaine’ach	Verlaine	subst:pl:loc:m1	nazwisko	
 Verlaine’ami	Verlaine	subst:pl:inst:m1	nazwisko	
-Verlaine’a	Verlaine	subst:sg:acc:m1	nazwisko	
+Verlaine’a	Verlaine	subst:sg:gen.acc:m1	nazwisko	
 Verlaine’a	Verlaine	subst:sg:gen:m1	nazwisko	
 Verlaine’em	Verlaine	subst:sg:inst:m1	nazwisko	
 Verlaine’om	Verlaine	subst:pl:dat:m1	nazwisko	
-Verlaine’owie	Verlaine	subst:pl:nom:m1	nazwisko	
-Verlaine’owie	Verlaine	subst:pl:voc:m1	nazwisko	
+Verlaine’owie	Verlaine	subst:pl:nom.voc:m1	nazwisko	
 Verlaine’owi	Verlaine	subst:sg:dat:m1	nazwisko	
-Verlaine’ów	Verlaine	subst:pl:acc:m1	nazwisko	
-Verlaine’ów	Verlaine	subst:pl:gen:m1	nazwisko	
+Verlaine’ów	Verlaine	subst:pl:gen.acc:m1	nazwisko	
 Verlaine	Verlaine	subst:sg:nom:m1	nazwisko	
 Verlaine’y	Verlaine	depr:pl:nom.acc.voc:m2	nazwisko	
 Verlainie	Verlaine	subst:sg:loc:m1	nazwisko	
 Verlainie	Verlaine	subst:sg:voc:m1	nazwisko	
 Vermeerach	Vermeer	subst:pl:loc:m1	nazwisko	
 Vermeerami	Vermeer	subst:pl:inst:m1	nazwisko	
-Vermeera	Vermeer	subst:sg:acc:m1	nazwisko	
+Vermeera	Vermeer	subst:sg:gen.acc:m1	nazwisko	
 Vermeera	Vermeer	subst:sg:gen:m1	nazwisko	
 Vermeerem	Vermeer	subst:sg:inst:m1	nazwisko	
 Vermeerom	Vermeer	subst:pl:dat:m1	nazwisko	
-Vermeerowie	Vermeer	subst:pl:nom:m1	nazwisko	
-Vermeerowie	Vermeer	subst:pl:voc:m1	nazwisko	
+Vermeerowie	Vermeer	subst:pl:nom.voc:m1	nazwisko	
 Vermeerowi	Vermeer	subst:sg:dat:m1	nazwisko	
-Vermeerów	Vermeer	subst:pl:acc:m1	nazwisko	
-Vermeerów	Vermeer	subst:pl:gen:m1	nazwisko	
+Vermeerów	Vermeer	subst:pl:gen.acc:m1	nazwisko	
 Vermeer	Vermeer	subst:sg:nom:m1	nazwisko	
 Vermeery	Vermeer	depr:pl:nom.acc.voc:m2	nazwisko	
 Vermeerze	Vermeer	subst:sg:loc:m1	nazwisko	
@@ -259,43 +228,37 @@ Vermontom	Vermont:s1	subst:pl:dat:m3	nazwa geograficzna
 Vermontowi	Vermont:s1	subst:sg:dat:m3	nazwa geograficzna	
 Vermontów	Vermont:s1	subst:pl:gen:m3	nazwa geograficzna	
 Vermontu	Vermont:s1	subst:sg:gen:m3	nazwa geograficzna	
-Vermont	Vermont:s1	subst:sg:acc:m3	nazwa geograficzna	
-Vermont	Vermont:s1	subst:sg:nom:m3	nazwa geograficzna	
-Vermonty	Vermont:s1	subst:pl:nom.acc:m3	nazwa geograficzna	
-Vermonty	Vermont:s1	subst:pl:voc:m3	nazwa geograficzna	
+Vermont	Vermont:s1	subst:sg:nom.acc:m3	nazwa geograficzna	
+Vermonty	Vermont:s1	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Vermoncie	Vermont:s2	subst:sg:loc:m1	nazwisko	
 Vermoncie	Vermont:s2	subst:sg:voc:m1	nazwisko	
 Vermontach	Vermont:s2	subst:pl:loc:m1	nazwisko	
 Vermontami	Vermont:s2	subst:pl:inst:m1	nazwisko	
-Vermonta	Vermont:s2	subst:sg:acc:m1	nazwisko	
+Vermonta	Vermont:s2	subst:sg:gen.acc:m1	nazwisko	
 Vermonta	Vermont:s2	subst:sg:gen:m1	nazwisko	
 Vermontem	Vermont:s2	subst:sg:inst:m1	nazwisko	
 Vermontom	Vermont:s2	subst:pl:dat:m1	nazwisko	
-Vermontowie	Vermont:s2	subst:pl:nom:m1	nazwisko	
-Vermontowie	Vermont:s2	subst:pl:voc:m1	nazwisko	
+Vermontowie	Vermont:s2	subst:pl:nom.voc:m1	nazwisko	
 Vermontowi	Vermont:s2	subst:sg:dat:m1	nazwisko	
-Vermontów	Vermont:s2	subst:pl:acc:m1	nazwisko	
-Vermontów	Vermont:s2	subst:pl:gen:m1	nazwisko	
+Vermontów	Vermont:s2	subst:pl:gen.acc:m1	nazwisko	
 Vermont	Vermont:s2	subst:sg:nom:m1	nazwisko	
 Vermonty	Vermont:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Verne’ach	Verne	subst:pl:loc:m1	nazwisko	
 Verne’ami	Verne	subst:pl:inst:m1	nazwisko	
-Verne’a	Verne	subst:sg:acc:m1	nazwisko	
+Verne’a	Verne	subst:sg:gen.acc:m1	nazwisko	
 Verne’a	Verne	subst:sg:gen:m1	nazwisko	
 Verne’em	Verne	subst:sg:inst:m1	nazwisko	
 Verne’om	Verne	subst:pl:dat:m1	nazwisko	
-Verne’owie	Verne	subst:pl:nom:m1	nazwisko	
-Verne’owie	Verne	subst:pl:voc:m1	nazwisko	
+Verne’owie	Verne	subst:pl:nom.voc:m1	nazwisko	
 Verne’owi	Verne	subst:sg:dat:m1	nazwisko	
-Verne’ów	Verne	subst:pl:acc:m1	nazwisko	
-Verne’ów	Verne	subst:pl:gen:m1	nazwisko	
+Verne’ów	Verne	subst:pl:gen.acc:m1	nazwisko	
 Verne	Verne	subst:sg:nom:m1	nazwisko	
 Verne’y	Verne	depr:pl:nom.acc.voc:m2	nazwisko	
 Vernie	Verne	subst:sg:loc:m1	nazwisko	
 Vernie	Verne	subst:sg:voc:m1	nazwisko	
 Veronesach	Veronese	subst:pl:loc:m1	nazwisko	
 Veronesami	Veronese	subst:pl:inst:m1	nazwisko	
-Veronesego	Veronese	subst:sg:acc:m1	nazwisko	
+Veronesego	Veronese	subst:sg:gen.acc:m1	nazwisko	
 Veronesego	Veronese	subst:sg:gen:m1	nazwisko	
 Veronesemu	Veronese	subst:sg:dat:m1	nazwisko	
 Veronesem	Veronese	subst:sg:inst:m1	nazwisko	
@@ -304,13 +267,11 @@ Veronese	Veronese	depr:pl:nom.acc.voc:m2	nazwisko
 Veronese	Veronese	subst:sg:nom:m1	nazwisko	
 Veronese	Veronese	subst:sg:voc:m1	nazwisko	
 Veronesom	Veronese	subst:pl:dat:m1	nazwisko	
-Veronesowie	Veronese	subst:pl:nom:m1	nazwisko	
-Veronesowie	Veronese	subst:pl:voc:m1	nazwisko	
-Veronesów	Veronese	subst:pl:acc:m1	nazwisko	
-Veronesów	Veronese	subst:pl:gen:m1	nazwisko	
+Veronesowie	Veronese	subst:pl:nom.voc:m1	nazwisko	
+Veronesów	Veronese	subst:pl:gen.acc:m1	nazwisko	
 Versacach	Versace	subst:pl:loc:m1	nazwisko	
 Versacami	Versace	subst:pl:inst:m1	nazwisko	
-Versacego	Versace	subst:sg:acc:m1	nazwisko	
+Versacego	Versace	subst:sg:gen.acc:m1	nazwisko	
 Versacego	Versace	subst:sg:gen:m1	nazwisko	
 Versacemu	Versace	subst:sg:dat:m1	nazwisko	
 Versacem	Versace	subst:sg:inst:m1	nazwisko	
@@ -320,14 +281,11 @@ Versace	Versace	subst:sg:nom:m1	nazwisko
 Versace	Versace	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko	
 Versace	Versace	subst:sg:voc:m1	nazwisko	
 Versacom	Versace	subst:pl:dat:m1	nazwisko	
-Versacowie	Versace	subst:pl:nom:m1	nazwisko	
-Versacowie	Versace	subst:pl:voc:m1	nazwisko	
-Versaców	Versace	subst:pl:acc:m1	nazwisko	
-Versaców	Versace	subst:pl:gen:m1	nazwisko	
-Vespuccich	Vespucci	subst:pl:acc:m1	nazwisko	
-Vespuccich	Vespucci	subst:pl:gen:m1	nazwisko	
+Versacowie	Versace	subst:pl:nom.voc:m1	nazwisko	
+Versaców	Versace	subst:pl:gen.acc:m1	nazwisko	
+Vespuccich	Vespucci	subst:pl:gen.acc:m1	nazwisko	
 Vespuccich	Vespucci	subst:pl:loc:m1	nazwisko	
-Vespucciego	Vespucci	subst:sg:acc:m1	nazwisko	
+Vespucciego	Vespucci	subst:sg:gen.acc:m1	nazwisko	
 Vespucciego	Vespucci	subst:sg:gen:m1	nazwisko	
 Vespucciemu	Vespucci	subst:sg:dat:m1	nazwisko	
 Vespuccie	Vespucci	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -335,16 +293,13 @@ Vespuccimi	Vespucci	subst:pl:inst:m1	nazwisko
 Vespuccim	Vespucci	subst:pl:dat:m1	nazwisko	
 Vespuccim	Vespucci	subst:sg:inst:m1	nazwisko	
 Vespuccim	Vespucci	subst:sg:loc:m1	nazwisko	
-Vespucciowie	Vespucci	subst:pl:nom:m1	nazwisko	
-Vespucciowie	Vespucci	subst:pl:voc:m1	nazwisko	
-Vespucci	Vespucci	subst:pl:nom:m1	nazwisko	
-Vespucci	Vespucci	subst:pl:voc:m1	nazwisko	
+Vespucciowie	Vespucci	subst:pl:nom.voc:m1	nazwisko	
+Vespucci	Vespucci	subst:pl:nom.voc:m1	nazwisko	
 Vespucci	Vespucci	subst:sg:nom:m1	nazwisko	
 Vespucci	Vespucci	subst:sg:voc:m1	nazwisko	
-Vetulanich	Vetulani	subst:pl:acc:m1	nazwisko	
-Vetulanich	Vetulani	subst:pl:gen:m1	nazwisko	
+Vetulanich	Vetulani	subst:pl:gen.acc:m1	nazwisko	
 Vetulanich	Vetulani	subst:pl:loc:m1	nazwisko	
-Vetulaniego	Vetulani	subst:sg:acc:m1	nazwisko	
+Vetulaniego	Vetulani	subst:sg:gen.acc:m1	nazwisko	
 Vetulaniego	Vetulani	subst:sg:gen:m1	nazwisko	
 Vetulaniemu	Vetulani	subst:sg:dat:m1	nazwisko	
 Vetulanie	Vetulani	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -352,10 +307,8 @@ Vetulanimi	Vetulani	subst:pl:inst:m1	nazwisko
 Vetulanim	Vetulani	subst:pl:dat:m1	nazwisko	
 Vetulanim	Vetulani	subst:sg:inst:m1	nazwisko	
 Vetulanim	Vetulani	subst:sg:loc:m1	nazwisko	
-Vetulaniowie	Vetulani	subst:pl:nom:m1	nazwisko	
-Vetulaniowie	Vetulani	subst:pl:voc:m1	nazwisko	
-Vetulani	Vetulani	subst:pl:nom:m1	nazwisko	
-Vetulani	Vetulani	subst:pl:voc:m1	nazwisko	
+Vetulaniowie	Vetulani	subst:pl:nom.voc:m1	nazwisko	
+Vetulani	Vetulani	subst:pl:nom.voc:m1	nazwisko	
 Vetulani	Vetulani	subst:sg:nom:m1	nazwisko	
 Vetulani	Vetulani	subst:sg:voc:m1	nazwisko	
 VGA	VGA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa pospolita	
@@ -368,11 +321,9 @@ VHF-om	VHF	subst:pl:dat:m3	nazwa pospolita
 VHF-owi	VHF	subst:sg:dat:m3	nazwa pospolita	
 VHF-ów	VHF	subst:pl:gen:m3	nazwa pospolita	
 VHF-u	VHF	subst:sg:gen:m3	nazwa pospolita	
-VHF	VHF	subst:sg:acc:m3	nazwa pospolita	
-VHF	VHF	subst:sg:nom:m3	nazwa pospolita	
+VHF	VHF	subst:sg:nom.acc:m3	nazwa pospolita	
 VHF	VHF	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
-VHF-y	VHF	subst:pl:nom.acc:m3	nazwa pospolita	
-VHF-y	VHF	subst:pl:voc:m3	nazwa pospolita	
+VHF-y	VHF	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 VHS-ach	VHS	subst:pl:loc:m3	nazwa pospolita	
 VHS-ami	VHS	subst:pl:inst:m3	nazwa pospolita	
 VHS-em	VHS	subst:sg:inst:m3	nazwa pospolita	
@@ -382,25 +333,21 @@ VHS-om	VHS	subst:pl:dat:m3	nazwa pospolita
 VHS-owi	VHS	subst:sg:dat:m3	nazwa pospolita	
 VHS-ów	VHS	subst:pl:gen:m3	nazwa pospolita	
 VHS-u	VHS	subst:sg:gen:m3	nazwa pospolita	
-VHS	VHS	subst:sg:acc:m3	nazwa pospolita	
-VHS	VHS	subst:sg:nom:m3	nazwa pospolita	
+VHS	VHS	subst:sg:nom.acc:m3	nazwa pospolita	
 VHS	VHS	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
-VHS-y	VHS	subst:pl:nom.acc:m3	nazwa pospolita	
-VHS-y	VHS	subst:pl:voc:m3	nazwa pospolita	
+VHS-y	VHS	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 Vicach	Vico	subst:pl:loc:m1	nazwisko	
 Vicami	Vico	subst:pl:inst:m1	nazwisko	
-Vica	Vico	subst:sg:acc:m1	nazwisko	
+Vica	Vico	subst:sg:gen.acc:m1	nazwisko	
 Vica	Vico	subst:sg:gen:m1	nazwisko	
 Vicom	Vico	subst:pl:dat:m1	nazwisko	
 Vico	Vico	depr:pl:nom.acc.voc:m2	nazwisko	
 Vico	Vico	subst:sg:nom:m1	nazwisko	
 Vico	Vico	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko	
 Vico	Vico	subst:sg:voc:m1	nazwisko	
-Vicowie	Vico	subst:pl:nom:m1	nazwisko	
-Vicowie	Vico	subst:pl:voc:m1	nazwisko	
+Vicowie	Vico	subst:pl:nom.voc:m1	nazwisko	
 Vicowi	Vico	subst:sg:dat:m1	nazwisko	
-Viców	Vico	subst:pl:acc:m1	nazwisko	
-Viców	Vico	subst:pl:gen:m1	nazwisko	
+Viców	Vico	subst:pl:gen.acc:m1	nazwisko	
 Vicu	Vico	subst:sg:loc:m1	nazwisko	
 Vikiem	Vico	subst:sg:inst:m1	nazwisko	
 Viki	Vico	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -408,8 +355,7 @@ Victoriach	Victoria	subst:pl:loc:f	imię
 Victoriami	Victoria	subst:pl:inst:f	imię	
 Victoria	Victoria	subst:sg:nom:f	imię	
 Victorią	Victoria	subst:sg:inst:f	imię	
-Victorie	Victoria	subst:pl:nom.acc:f	imię	
-Victorie	Victoria	subst:pl:voc:f	imię	
+Victorie	Victoria	subst:pl:nom.acc.voc:f	imię	
 Victorię	Victoria	subst:sg:acc:f	imię	
 Victorii	Victoria	subst:pl:gen:f	imię	hom.
 Victorii	Victoria	subst:sg:dat.loc:f	imię	
@@ -428,8 +374,7 @@ Violetę	Violeta	subst:sg:acc:f	imię
 Violetom	Violeta	subst:pl:dat:f	imię	
 Violeto	Violeta	subst:sg:voc:f	imię	
 Violet	Violeta	subst:pl:gen:f	imię	
-Violety	Violeta	subst:pl:nom.acc:f	imię	
-Violety	Violeta	subst:pl:voc:f	imię	
+Violety	Violeta	subst:pl:nom.acc.voc:f	imię	
 Violety	Violeta	subst:sg:gen:f	imię	
 Violetcie	Violetta	subst:sg:dat.loc:f	imię	
 Violettach	Violetta	subst:pl:loc:f	imię	
@@ -440,30 +385,26 @@ Violettę	Violetta	subst:sg:acc:f	imię
 Violettom	Violetta	subst:pl:dat:f	imię	
 Violetto	Violetta	subst:sg:voc:f	imię	
 Violett	Violetta	subst:pl:gen:f	imię	
-Violetty	Violetta	subst:pl:nom.acc:f	imię	
-Violetty	Violetta	subst:pl:voc:f	imię	
+Violetty	Violetta	subst:pl:nom.acc.voc:f	imię	
 Violetty	Violetta	subst:sg:gen:f	imię	
 VIP-ach	VIP	subst:pl:loc:m1	nazwa pospolita	
 VIP-ami	VIP	subst:pl:inst:m1	nazwa pospolita	
-VIP-a	VIP	subst:sg:acc:m1	nazwa pospolita	
+VIP-a	VIP	subst:sg:gen.acc:m1	nazwa pospolita	
 VIP-a	VIP	subst:sg:gen:m1	nazwa pospolita	
 VIP-em	VIP	subst:sg:inst:m1	nazwa pospolita	
 VIP-ie	VIP	subst:sg:loc:m1	nazwa pospolita	
 VIP-ie	VIP	subst:sg:voc:m1	nazwa pospolita	
 VIP-om	VIP	subst:pl:dat:m1	nazwa pospolita	
-VIP-owie	VIP	subst:pl:nom:m1	nazwa pospolita	
-VIP-owie	VIP	subst:pl:voc:m1	nazwa pospolita	
+VIP-owie	VIP	subst:pl:nom.voc:m1	nazwa pospolita	
 VIP-owi	VIP	subst:sg:dat:m1	nazwa pospolita	
-VIP-ów	VIP	subst:pl:acc:m1	nazwa pospolita	
-VIP-ów	VIP	subst:pl:gen:m1	nazwa pospolita	
+VIP-ów	VIP	subst:pl:gen.acc:m1	nazwa pospolita	
 VIP	VIP	subst:sg:nom:m1	nazwa pospolita	
 VIP-y	VIP	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Virginiach	Virginia	subst:pl:loc:f	nazwa geograficzna	
 Virginiami	Virginia	subst:pl:inst:f	nazwa geograficzna	
 Virginia	Virginia	subst:sg:nom:f	nazwa geograficzna	
 Virginią	Virginia	subst:sg:inst:f	nazwa geograficzna	
-Virginie	Virginia	subst:pl:nom.acc:f	nazwa geograficzna	
-Virginie	Virginia	subst:pl:voc:f	nazwa geograficzna	
+Virginie	Virginia	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Virginię	Virginia	subst:sg:acc:f	nazwa geograficzna	
 Virginii	Virginia	subst:pl:gen:f	nazwa geograficzna	hom.
 Virginii	Virginia	subst:sg:dat.loc:f	nazwa geograficzna	
@@ -471,10 +412,9 @@ Virginii	Virginia	subst:sg:gen:f	nazwa geograficzna
 Virginij	Virginia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Virginiom	Virginia	subst:pl:dat:f	nazwa geograficzna	
 Virginio	Virginia	subst:sg:voc:f	nazwa geograficzna	
-Viscontich	Visconti	subst:pl:acc:m1	nazwisko	
-Viscontich	Visconti	subst:pl:gen:m1	nazwisko	
+Viscontich	Visconti	subst:pl:gen.acc:m1	nazwisko	
 Viscontich	Visconti	subst:pl:loc:m1	nazwisko	
-Viscontiego	Visconti	subst:sg:acc:m1	nazwisko	
+Viscontiego	Visconti	subst:sg:gen.acc:m1	nazwisko	
 Viscontiego	Visconti	subst:sg:gen:m1	nazwisko	
 Viscontiemu	Visconti	subst:sg:dat:m1	nazwisko	
 Viscontie	Visconti	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -482,16 +422,13 @@ Viscontimi	Visconti	subst:pl:inst:m1	nazwisko
 Viscontim	Visconti	subst:pl:dat:m1	nazwisko	
 Viscontim	Visconti	subst:sg:inst:m1	nazwisko	
 Viscontim	Visconti	subst:sg:loc:m1	nazwisko	
-Viscontiowie	Visconti	subst:pl:nom:m1	nazwisko	
-Viscontiowie	Visconti	subst:pl:voc:m1	nazwisko	
-Visconti	Visconti	subst:pl:nom:m1	nazwisko	
-Visconti	Visconti	subst:pl:voc:m1	nazwisko	
+Viscontiowie	Visconti	subst:pl:nom.voc:m1	nazwisko	
+Visconti	Visconti	subst:pl:nom.voc:m1	nazwisko	
 Visconti	Visconti	subst:sg:nom:m1	nazwisko	
 Visconti	Visconti	subst:sg:voc:m1	nazwisko	
-Vivaldich	Vivaldi	subst:pl:acc:m1	nazwisko	
-Vivaldich	Vivaldi	subst:pl:gen:m1	nazwisko	
+Vivaldich	Vivaldi	subst:pl:gen.acc:m1	nazwisko	
 Vivaldich	Vivaldi	subst:pl:loc:m1	nazwisko	
-Vivaldiego	Vivaldi	subst:sg:acc:m1	nazwisko	
+Vivaldiego	Vivaldi	subst:sg:gen.acc:m1	nazwisko	
 Vivaldiego	Vivaldi	subst:sg:gen:m1	nazwisko	
 Vivaldiemu	Vivaldi	subst:sg:dat:m1	nazwisko	
 Vivaldie	Vivaldi	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -499,23 +436,19 @@ Vivaldimi	Vivaldi	subst:pl:inst:m1	nazwisko
 Vivaldim	Vivaldi	subst:pl:dat:m1	nazwisko	
 Vivaldim	Vivaldi	subst:sg:inst:m1	nazwisko	
 Vivaldim	Vivaldi	subst:sg:loc:m1	nazwisko	
-Vivaldiowie	Vivaldi	subst:pl:nom:m1	nazwisko	
-Vivaldiowie	Vivaldi	subst:pl:voc:m1	nazwisko	
-Vivaldi	Vivaldi	subst:pl:nom:m1	nazwisko	
-Vivaldi	Vivaldi	subst:pl:voc:m1	nazwisko	
+Vivaldiowie	Vivaldi	subst:pl:nom.voc:m1	nazwisko	
+Vivaldi	Vivaldi	subst:pl:nom.voc:m1	nazwisko	
 Vivaldi	Vivaldi	subst:sg:nom:m1	nazwisko	
 Vivaldi	Vivaldi	subst:sg:voc:m1	nazwisko	
 Vladimirach	Vladimir	subst:pl:loc:m1	imię	
 Vladimirami	Vladimir	subst:pl:inst:m1	imię	
-Vladimira	Vladimir	subst:sg:acc:m1	imię	
+Vladimira	Vladimir	subst:sg:gen.acc:m1	imię	
 Vladimira	Vladimir	subst:sg:gen:m1	imię	
 Vladimirem	Vladimir	subst:sg:inst:m1	imię	
 Vladimirom	Vladimir	subst:pl:dat:m1	imię	
-Vladimirowie	Vladimir	subst:pl:nom:m1	imię	
-Vladimirowie	Vladimir	subst:pl:voc:m1	imię	
+Vladimirowie	Vladimir	subst:pl:nom.voc:m1	imię	
 Vladimirowi	Vladimir	subst:sg:dat:m1	imię	
-Vladimirów	Vladimir	subst:pl:acc:m1	imię	
-Vladimirów	Vladimir	subst:pl:gen:m1	imię	
+Vladimirów	Vladimir	subst:pl:gen.acc:m1	imię	
 Vladimir	Vladimir	subst:sg:nom:m1	imię	
 Vladimiry	Vladimir	depr:pl:nom.acc.voc:m2	imię	
 Vladimirze	Vladimir	subst:sg:loc:m1	imię	
@@ -524,46 +457,40 @@ V	vocativus	brev:pun		jęz.
 Vogel	Vogel	subst:sg:nom:m1	nazwisko	
 Voglach	Vogel	subst:pl:loc:m1	nazwisko	
 Voglami	Vogel	subst:pl:inst:m1	nazwisko	
-Vogla	Vogel	subst:sg:acc:m1	nazwisko	
+Vogla	Vogel	subst:sg:gen.acc:m1	nazwisko	
 Vogla	Vogel	subst:sg:gen:m1	nazwisko	
 Voglem	Vogel	subst:sg:inst:m1	nazwisko	
 Vogle	Vogel	depr:pl:nom.acc.voc:m2	nazwisko	
 Voglom	Vogel	subst:pl:dat:m1	nazwisko	
-Voglowie	Vogel	subst:pl:nom:m1	nazwisko	
-Voglowie	Vogel	subst:pl:voc:m1	nazwisko	
+Voglowie	Vogel	subst:pl:nom.voc:m1	nazwisko	
 Voglowi	Vogel	subst:sg:dat:m1	nazwisko	
-Voglów	Vogel	subst:pl:acc:m1	nazwisko	
-Voglów	Vogel	subst:pl:gen:m1	nazwisko	
+Voglów	Vogel	subst:pl:gen.acc:m1	nazwisko	
 Voglu	Vogel	subst:sg:loc:m1	nazwisko	
 Voglu	Vogel	subst:sg:voc:m1	nazwisko	
 Voigcie	Voigt	subst:sg:loc:m1	nazwisko	
 Voigcie	Voigt	subst:sg:voc:m1	nazwisko	
 Voigtach	Voigt	subst:pl:loc:m1	nazwisko	
 Voigtami	Voigt	subst:pl:inst:m1	nazwisko	
-Voigta	Voigt	subst:sg:acc:m1	nazwisko	
+Voigta	Voigt	subst:sg:gen.acc:m1	nazwisko	
 Voigta	Voigt	subst:sg:gen:m1	nazwisko	
 Voigtem	Voigt	subst:sg:inst:m1	nazwisko	
 Voigtom	Voigt	subst:pl:dat:m1	nazwisko	
-Voigtowie	Voigt	subst:pl:nom:m1	nazwisko	
-Voigtowie	Voigt	subst:pl:voc:m1	nazwisko	
+Voigtowie	Voigt	subst:pl:nom.voc:m1	nazwisko	
 Voigtowi	Voigt	subst:sg:dat:m1	nazwisko	
-Voigtów	Voigt	subst:pl:acc:m1	nazwisko	
-Voigtów	Voigt	subst:pl:gen:m1	nazwisko	
+Voigtów	Voigt	subst:pl:gen.acc:m1	nazwisko	
 Voigt	Voigt	subst:sg:nom:m1	nazwisko	
 Voigty	Voigt	depr:pl:nom.acc.voc:m2	nazwisko	
 Voicie	Voit	subst:sg:loc:m1	nazwisko	
 Voicie	Voit	subst:sg:voc:m1	nazwisko	
 Voitach	Voit	subst:pl:loc:m1	nazwisko	
 Voitami	Voit	subst:pl:inst:m1	nazwisko	
-Voita	Voit	subst:sg:acc:m1	nazwisko	
+Voita	Voit	subst:sg:gen.acc:m1	nazwisko	
 Voita	Voit	subst:sg:gen:m1	nazwisko	
 Voitem	Voit	subst:sg:inst:m1	nazwisko	
 Voitom	Voit	subst:pl:dat:m1	nazwisko	
-Voitowie	Voit	subst:pl:nom:m1	nazwisko	
-Voitowie	Voit	subst:pl:voc:m1	nazwisko	
+Voitowie	Voit	subst:pl:nom.voc:m1	nazwisko	
 Voitowi	Voit	subst:sg:dat:m1	nazwisko	
-Voitów	Voit	subst:pl:acc:m1	nazwisko	
-Voitów	Voit	subst:pl:gen:m1	nazwisko	
+Voitów	Voit	subst:pl:gen.acc:m1	nazwisko	
 Voit	Voit	subst:sg:nom:m1	nazwisko	
 Voity	Voit	depr:pl:nom.acc.voc:m2	nazwisko	
 Volcie	Volta	subst:sg:dat.loc:m1	nazwisko	
@@ -574,31 +501,25 @@ Voltą	Volta	subst:sg:inst:m1	nazwisko
 Voltę	Volta	subst:sg:acc:m1	nazwisko	
 Voltom	Volta	subst:pl:dat:m1	nazwisko	
 Volto	Volta	subst:sg:voc:m1	nazwisko	
-Voltowie	Volta	subst:pl:nom:m1	nazwisko	
-Voltowie	Volta	subst:pl:voc:m1	nazwisko	
-Voltów	Volta	subst:pl:acc:m1	nazwisko	
-Voltów	Volta	subst:pl:gen:m1	nazwisko	
+Voltowie	Volta	subst:pl:nom.voc:m1	nazwisko	
+Voltów	Volta	subst:pl:gen.acc:m1	nazwisko	
 Volty	Volta	depr:pl:nom.acc.voc:m2	nazwisko	
 Volty	Volta	subst:sg:gen:m1	nazwisko	
 V-pociskach	V-pocisk	subst:pl:loc:m3	nazwa pospolita	
 V-pociskami	V-pocisk	subst:pl:inst:m3	nazwa pospolita	
 V-pociskiem	V-pocisk	subst:sg:inst:m3	nazwa pospolita	
-V-pociski	V-pocisk	subst:pl:nom.acc:m3	nazwa pospolita	
-V-pociski	V-pocisk	subst:pl:voc:m3	nazwa pospolita	
+V-pociski	V-pocisk	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 V-pociskom	V-pocisk	subst:pl:dat:m3	nazwa pospolita	
 V-pociskowi	V-pocisk	subst:sg:dat:m3	nazwa pospolita	
 V-pocisków	V-pocisk	subst:pl:gen:m3	nazwa pospolita	
 V-pocisku	V-pocisk	subst:sg:gen:m3	nazwa pospolita	
 V-pocisku	V-pocisk	subst:sg:loc:m3	nazwa pospolita	
 V-pocisku	V-pocisk	subst:sg:voc:m3	nazwa pospolita	
-V-pocisk	V-pocisk	subst:sg:acc:m3	nazwa pospolita	
-V-pocisk	V-pocisk	subst:sg:nom:m3	nazwa pospolita	
-Vranitzcy	Vranitzky	subst:pl:nom:m1	nazwisko	
-Vranitzcy	Vranitzky	subst:pl:voc:m1	nazwisko	
-Vranitzkich	Vranitzky	subst:pl:acc:m1	nazwisko	
-Vranitzkich	Vranitzky	subst:pl:gen:m1	nazwisko	
+V-pocisk	V-pocisk	subst:sg:nom.acc:m3	nazwa pospolita	
+Vranitzcy	Vranitzky	subst:pl:nom.voc:m1	nazwisko	
+Vranitzkich	Vranitzky	subst:pl:gen.acc:m1	nazwisko	
 Vranitzkich	Vranitzky	subst:pl:loc:m1	nazwisko	
-Vranitzkiego	Vranitzky	subst:sg:acc:m1	nazwisko	
+Vranitzkiego	Vranitzky	subst:sg:gen.acc:m1	nazwisko	
 Vranitzkiego	Vranitzky	subst:sg:gen:m1	nazwisko	
 Vranitzkiemu	Vranitzky	subst:sg:dat:m1	nazwisko	
 Vranitzkie	Vranitzky	depr:pl:nom.acc.voc:m2	nazwisko	

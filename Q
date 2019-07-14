@@ -3,7 +3,7 @@ QAL	QAL	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa firmy
 Quasimodach	Quasimodo	subst:pl:loc:m1	nazwisko	
 Quasimodami	Quasimodo	subst:pl:inst:m1	nazwisko	
 Quasimoda	Quasimodo	depr:pl:nom.acc.voc:m2	nazwisko	
-Quasimoda	Quasimodo	subst:sg:acc:m1	nazwisko	
+Quasimoda	Quasimodo	subst:sg:gen.acc:m1	nazwisko	
 Quasimoda	Quasimodo	subst:sg:gen:m1	nazwisko	
 Quasimodem	Quasimodo	subst:sg:inst:m1	nazwisko	
 Quasimodom	Quasimodo	subst:pl:dat:m1	nazwisko	
@@ -11,52 +11,44 @@ Quasimodo	Quasimodo	depr:pl:nom.acc.voc:m2	nazwisko
 Quasimodo	Quasimodo	subst:sg:nom:m1	nazwisko	
 Quasimodo	Quasimodo	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko	
 Quasimodo	Quasimodo	subst:sg:voc:m1	nazwisko	
-Quasimodowie	Quasimodo	subst:pl:nom:m1	nazwisko	
-Quasimodowie	Quasimodo	subst:pl:voc:m1	nazwisko	
+Quasimodowie	Quasimodo	subst:pl:nom.voc:m1	nazwisko	
 Quasimodowi	Quasimodo	subst:sg:dat:m1	nazwisko	
-Quasimodów	Quasimodo	subst:pl:acc:m1	nazwisko	
-Quasimodów	Quasimodo	subst:pl:gen:m1	nazwisko	
+Quasimodów	Quasimodo	subst:pl:gen.acc:m1	nazwisko	
 Quasimodzie	Quasimodo	subst:sg:loc:m1	nazwisko	
 Quebecach	Quebec	subst:pl:loc:m3	nazwa geograficzna	
 Quebecami	Quebec	subst:pl:inst:m3	nazwa geograficzna	
 Quebecom	Quebec	subst:pl:dat:m3	nazwa geograficzna	
 Quebecowi	Quebec	subst:sg:dat:m3	nazwa geograficzna	
 Quebeców	Quebec	subst:pl:gen:m3	nazwa geograficzna	
-Quebec	Quebec	subst:sg:acc:m3	nazwa geograficzna	
-Quebec	Quebec	subst:sg:nom:m3	nazwa geograficzna	
+Quebec	Quebec	subst:sg:nom.acc:m3	nazwa geograficzna	
 Quebecu	Quebec	subst:sg:gen:m3	nazwa geograficzna	
 Quebecu	Quebec	subst:sg:loc:m3	nazwa geograficzna	
 Quebecu	Quebec	subst:sg:voc:m3	nazwa geograficzna	
 Quebekiem	Quebec	subst:sg:inst:m3	nazwa geograficzna	
-Quebeki	Quebec	subst:pl:nom.acc:m3	nazwa geograficzna	
-Quebeki	Quebec	subst:pl:voc:m3	nazwa geograficzna	
+Quebeki	Quebec	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Quinnach	Quinn	subst:pl:loc:m1	nazwisko	
 Quinnami	Quinn	subst:pl:inst:m1	nazwisko	
-Quinna	Quinn	subst:sg:acc:m1	nazwisko	
+Quinna	Quinn	subst:sg:gen.acc:m1	nazwisko	
 Quinna	Quinn	subst:sg:gen:m1	nazwisko	
 Quinnem	Quinn	subst:sg:inst:m1	nazwisko	
 Quinnie	Quinn	subst:sg:loc:m1	nazwisko	
 Quinnie	Quinn	subst:sg:voc:m1	nazwisko	
 Quinnom	Quinn	subst:pl:dat:m1	nazwisko	
-Quinnowie	Quinn	subst:pl:nom:m1	nazwisko	
-Quinnowie	Quinn	subst:pl:voc:m1	nazwisko	
+Quinnowie	Quinn	subst:pl:nom.voc:m1	nazwisko	
 Quinnowi	Quinn	subst:sg:dat:m1	nazwisko	
-Quinnów	Quinn	subst:pl:acc:m1	nazwisko	
-Quinnów	Quinn	subst:pl:gen:m1	nazwisko	
+Quinnów	Quinn	subst:pl:gen.acc:m1	nazwisko	
 Quinn	Quinn	subst:sg:nom:m1	nazwisko	
 Quinny	Quinn	depr:pl:nom.acc.voc:m2	nazwisko	
 Quislingach	Quisling	subst:pl:loc:m1	nazwisko	
 Quislingami	Quisling	subst:pl:inst:m1	nazwisko	
-Quislinga	Quisling	subst:sg:acc:m1	nazwisko	
+Quislinga	Quisling	subst:sg:gen.acc:m1	nazwisko	
 Quislinga	Quisling	subst:sg:gen:m1	nazwisko	
 Quislingiem	Quisling	subst:sg:inst:m1	nazwisko	
 Quislingi	Quisling	depr:pl:nom.acc.voc:m2	nazwisko	
 Quislingom	Quisling	subst:pl:dat:m1	nazwisko	
-Quislingowie	Quisling	subst:pl:nom:m1	nazwisko	
-Quislingowie	Quisling	subst:pl:voc:m1	nazwisko	
+Quislingowie	Quisling	subst:pl:nom.voc:m1	nazwisko	
 Quislingowi	Quisling	subst:sg:dat:m1	nazwisko	
-Quislingów	Quisling	subst:pl:acc:m1	nazwisko	
-Quislingów	Quisling	subst:pl:gen:m1	nazwisko	
+Quislingów	Quisling	subst:pl:gen.acc:m1	nazwisko	
 Quisling	Quisling	subst:sg:nom:m1	nazwisko	
 Quislingu	Quisling	subst:sg:loc:m1	nazwisko	
 Quislingu	Quisling	subst:sg:voc:m1	nazwisko	
