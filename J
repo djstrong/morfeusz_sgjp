@@ -17980,6 +17980,17 @@ Jeziornych	Jeziorna:s2	subst:pl:gen:f	nazwisko
 Jeziornych	Jeziorna:s2	subst:pl:loc:f	nazwisko	
 Jeziornymi	Jeziorna:s2	subst:pl:inst:f	nazwisko	
 Jeziornym	Jeziorna:s2	subst:pl:dat:f	nazwisko	
+Jeziorna	Jeziorna:s3	subst:sg:nom:f	nazwa geograficzna	
+Jeziorna	Jeziorna:s3	subst:sg:voc:f	nazwa geograficzna	
+Jeziorną	Jeziorna:s3	subst:sg:acc:f	nazwa geograficzna	
+Jeziorną	Jeziorna:s3	subst:sg:inst:f	nazwa geograficzna	
+Jeziorne	Jeziorna:s3	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Jeziornej	Jeziorna:s3	subst:sg:dat.loc:f	nazwa geograficzna	
+Jeziornej	Jeziorna:s3	subst:sg:gen:f	nazwa geograficzna	
+Jeziornych	Jeziorna:s3	subst:pl:gen:f	nazwa geograficzna	
+Jeziornych	Jeziorna:s3	subst:pl:loc:f	nazwa geograficzna	
+Jeziornymi	Jeziorna:s3	subst:pl:inst:f	nazwa geograficzna	
+Jeziornym	Jeziorna:s3	subst:pl:dat:f	nazwa geograficzna	
 Jeziornego	Jeziorny:s1	subst:sg:gen.acc:m1	nazwisko	
 Jeziorne	Jeziorny:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Jeziornemu	Jeziorny:s1	subst:sg:dat:m1	nazwisko	

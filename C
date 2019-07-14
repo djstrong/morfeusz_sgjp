@@ -7891,18 +7891,6 @@ Chełkowskim	Chełkowski	subst:pl:dat:m1	nazwisko
 Chełkowskim	Chełkowski	subst:sg:inst:m1	nazwisko	
 Chełkowskim	Chełkowski	subst:sg:loc:m1	nazwisko	
 Chełkowskimi	Chełkowski	subst:pl:inst:m1	nazwisko	
-Chełmach	Chełm	subst:pl:loc:m3	nazwa geograficzna	
-Chełma	Chełm	subst:sg:gen:m3	nazwa geograficzna	
-Chełmami	Chełm	subst:pl:inst:m3	nazwa geograficzna	
-Chełm	Chełm	subst:sg:nom.acc:m3	nazwa geograficzna	
-Chełmem	Chełm	subst:sg:inst:m3	nazwa geograficzna	
-Chełmie	Chełm	subst:sg:loc:m3	nazwa geograficzna	
-Chełmie	Chełm	subst:sg:voc:m3	nazwa geograficzna	
-Chełmom	Chełm	subst:pl:dat:m3	nazwa geograficzna	
-Chełmowi	Chełm	subst:sg:dat:m3	nazwa geograficzna	
-Chełmów	Chełm	subst:pl:gen:m3	nazwa geograficzna	
-Chełmu	Chełm	subst:sg:gen:m3	nazwa geograficzna	
-Chełmy	Chełm	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Chełmecka	Chełmecka	subst:sg:nom:f	nazwisko	
 Chełmecka	Chełmecka	subst:sg:voc:f	nazwisko	
 Chełmecką	Chełmecka	subst:sg:acc:f	nazwisko	
@@ -8099,6 +8087,28 @@ Chełmowskim	Chełmowski	subst:pl:dat:m1	nazwisko
 Chełmowskim	Chełmowski	subst:sg:inst:m1	nazwisko	
 Chełmowskim	Chełmowski	subst:sg:loc:m1	nazwisko	
 Chełmowskimi	Chełmowski	subst:pl:inst:m1	nazwisko	
+Chełmach	Chełm:s1	subst:pl:loc:m3	nazwa geograficzna	
+Chełma	Chełm:s1	subst:sg:gen:m3	nazwa geograficzna	
+Chełmami	Chełm:s1	subst:pl:inst:m3	nazwa geograficzna	
+Chełm	Chełm:s1	subst:sg:nom.acc:m3	nazwa geograficzna	
+Chełmem	Chełm:s1	subst:sg:inst:m3	nazwa geograficzna	
+Chełmie	Chełm:s1	subst:sg:loc:m3	nazwa geograficzna	
+Chełmie	Chełm:s1	subst:sg:voc:m3	nazwa geograficzna	
+Chełmom	Chełm:s1	subst:pl:dat:m3	nazwa geograficzna	
+Chełmowi	Chełm:s1	subst:sg:dat:m3	nazwa geograficzna	
+Chełmów	Chełm:s1	subst:pl:gen:m3	nazwa geograficzna	
+Chełmy	Chełm:s1	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Chełmach	Chełm:s2	subst:pl:loc:m3	nazwa geograficzna	
+Chełmami	Chełm:s2	subst:pl:inst:m3	nazwa geograficzna	
+Chełm	Chełm:s2	subst:sg:nom.acc:m3	nazwa geograficzna	
+Chełmem	Chełm:s2	subst:sg:inst:m3	nazwa geograficzna	
+Chełmie	Chełm:s2	subst:sg:loc:m3	nazwa geograficzna	
+Chełmie	Chełm:s2	subst:sg:voc:m3	nazwa geograficzna	
+Chełmom	Chełm:s2	subst:pl:dat:m3	nazwa geograficzna	
+Chełmowi	Chełm:s2	subst:sg:dat:m3	nazwa geograficzna	
+Chełmów	Chełm:s2	subst:pl:gen:m3	nazwa geograficzna	
+Chełmu	Chełm:s2	subst:sg:gen:m3	nazwa geograficzna	
+Chełmy	Chełm:s2	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Chełmskich	Chełmskie	subst:pl:gen:n:ncol	nazwa geograficzna	
 Chełmskich	Chełmskie	subst:pl:loc:n:ncol	nazwa geograficzna	
 Chełmskie	Chełmskie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
