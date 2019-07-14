@@ -5710,6 +5710,7 @@ Mauritius	Mauritius	subst:sg:nom:m3	nazwa geograficzna
 Mauritiusom	Mauritius	subst:pl:dat:m3	nazwa geograficzna	
 Mauritiusowi	Mauritius	subst:sg:dat:m3	nazwa geograficzna	
 Mauritiusów	Mauritius	subst:pl:gen:m3	nazwa geograficzna	
+Mauritiusu	Mauritius	subst:sg:gen:m3	nazwa geograficzna	
 Mauritiusy	Mauritius	subst:pl:acc:m3	nazwa geograficzna	
 Mauritiusy	Mauritius	subst:pl:nom:m3	nazwa geograficzna	
 Mauritiusy	Mauritius	subst:pl:voc:m3	nazwa geograficzna	

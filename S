@@ -6300,6 +6300,13 @@ Skopii	Skopie	subst:pl:gen:n2	nazwa geograficzna
 Skopiom	Skopie	subst:pl:dat:n2	nazwa geograficzna	
 Skopiu	Skopie	subst:sg:dat:n2	nazwa geograficzna	
 Skopiu	Skopie	subst:sg:loc:n2	nazwa geograficzna	
+Skopjach	Skopje	subst:pl:loc:n2	nazwa geograficzna	
+Skopjami	Skopje	subst:pl:inst:n2	nazwa geograficzna	
+Skopja	Skopje	subst:pl:acc:n2	nazwa geograficzna	
+Skopja	Skopje	subst:pl:nom:n2	nazwa geograficzna	
+Skopja	Skopje	subst:pl:voc:n2	nazwa geograficzna	
+Skopja	Skopje	subst:sg:gen:n2	nazwa geograficzna	
+Skopjem	Skopje	subst:sg:inst:n2	nazwa geograficzna	
 Skopje	Skopje	subst:pl:acc:n2	nazwa geograficzna	
 Skopje	Skopje	subst:pl:dat:n2	nazwa geograficzna	
 Skopje	Skopje	subst:pl:gen:n2	nazwa geograficzna	
@@ -6314,6 +6321,10 @@ Skopje	Skopje	subst:sg:inst:n2	nazwa geograficzna
 Skopje	Skopje	subst:sg:loc:n2	nazwa geograficzna	
 Skopje	Skopje	subst:sg:nom:n2	nazwa geograficzna	
 Skopje	Skopje	subst:sg:voc:n2	nazwa geograficzna	
+Skopji	Skopje	subst:pl:gen:n2	nazwa geograficzna	
+Skopjom	Skopje	subst:pl:dat:n2	nazwa geograficzna	
+Skopju	Skopje	subst:sg:dat:n2	nazwa geograficzna	
+Skopju	Skopje	subst:sg:loc:n2	nazwa geograficzna	
 Skoroszycach	Skoroszyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
 Skoroszycach	Skoroszyce	subst:pl:loc:p3	nazwa geograficzna	
 Skoroszycami	Skoroszyce	subst:pl:inst:p2	nazwa geograficzna	rzad.

@@ -3978,20 +3978,20 @@ halogenowym	halogenowy	adj:sg:inst:m1.m2.m3.n1.n2:pos
 halogenowym	halogenowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 halogenowymi	halogenowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 halo	halo:i	interj		
-halonach	halon	subst:pl:loc:m3	nazwa pospolita	
-halonami	halon	subst:pl:inst:m3	nazwa pospolita	
-halonem	halon	subst:sg:inst:m3	nazwa pospolita	
-halon	halon	subst:sg:acc:m3	nazwa pospolita	
-halon	halon	subst:sg:nom:m3	nazwa pospolita	
-halonie	halon	subst:sg:loc:m3	nazwa pospolita	
-halonie	halon	subst:sg:voc:m3	nazwa pospolita	
-halonom	halon	subst:pl:dat:m3	nazwa pospolita	
-halonowi	halon	subst:sg:dat:m3	nazwa pospolita	
-halonów	halon	subst:pl:gen:m3	nazwa pospolita	
-halonu	halon	subst:sg:gen:m3	nazwa pospolita	
-halony	halon	subst:pl:acc:m3	nazwa pospolita	
-halony	halon	subst:pl:nom:m3	nazwa pospolita	
-halony	halon	subst:pl:voc:m3	nazwa pospolita	
+halonach	halon	subst:pl:loc:m3	nazwa pospolita	chem.
+halonami	halon	subst:pl:inst:m3	nazwa pospolita	chem.
+halonem	halon	subst:sg:inst:m3	nazwa pospolita	chem.
+halon	halon	subst:sg:acc:m3	nazwa pospolita	chem.
+halon	halon	subst:sg:nom:m3	nazwa pospolita	chem.
+halonie	halon	subst:sg:loc:m3	nazwa pospolita	chem.
+halonie	halon	subst:sg:voc:m3	nazwa pospolita	chem.
+halonom	halon	subst:pl:dat:m3	nazwa pospolita	chem.
+halonowi	halon	subst:sg:dat:m3	nazwa pospolita	chem.
+halonów	halon	subst:pl:gen:m3	nazwa pospolita	chem.
+halonu	halon	subst:sg:gen:m3	nazwa pospolita	chem.
+halony	halon	subst:pl:acc:m3	nazwa pospolita	chem.
+halony	halon	subst:pl:nom:m3	nazwa pospolita	chem.
+halony	halon	subst:pl:voc:m3	nazwa pospolita	chem.
 halonowo	halonowo	adv:pos		
 halonowościach	halonowość	subst:pl:loc:f	nazwa pospolita	
 halonowościami	halonowość	subst:pl:inst:f	nazwa pospolita	

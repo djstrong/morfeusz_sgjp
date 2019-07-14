@@ -9923,6 +9923,14 @@ Portorykańczyków	Portorykańczyk	subst:pl:gen:m1	nazwa pospolita
 Portorykańczyk	Portorykańczyk	subst:sg:nom:m1	nazwa pospolita	
 Portorykańczyku	Portorykańczyk	subst:sg:loc:m1	nazwa pospolita	
 Portorykańczyku	Portorykańczyk	subst:sg:voc:m1	nazwa pospolita	
+Portorykach	Portoryko	subst:pl:loc:n2	nazwa geograficzna	
+Portorykami	Portoryko	subst:pl:inst:n2	nazwa geograficzna	
+Portoryka	Portoryko	subst:pl:acc:n2	nazwa geograficzna	
+Portoryka	Portoryko	subst:pl:nom:n2	nazwa geograficzna	
+Portoryka	Portoryko	subst:pl:voc:n2	nazwa geograficzna	
+Portoryka	Portoryko	subst:sg:gen:n2	nazwa geograficzna	
+Portorykiem	Portoryko	subst:sg:inst:n2	nazwa geograficzna	
+Portorykom	Portoryko	subst:pl:dat:n2	nazwa geograficzna	
 Portoryko	Portoryko	subst:pl:acc:n2	nazwa geograficzna	
 Portoryko	Portoryko	subst:pl:dat:n2	nazwa geograficzna	
 Portoryko	Portoryko	subst:pl:gen:n2	nazwa geograficzna	
@@ -9937,6 +9945,9 @@ Portoryko	Portoryko	subst:sg:inst:n2	nazwa geograficzna
 Portoryko	Portoryko	subst:sg:loc:n2	nazwa geograficzna	
 Portoryko	Portoryko	subst:sg:nom:n2	nazwa geograficzna	
 Portoryko	Portoryko	subst:sg:voc:n2	nazwa geograficzna	
+Portoryk	Portoryko	subst:pl:gen:n2	nazwa geograficzna	
+Portoryku	Portoryko	subst:sg:dat:n2	nazwa geograficzna	
+Portoryku	Portoryko	subst:sg:loc:n2	nazwa geograficzna	
 Portugalczycy	Portugalczyk	subst:pl:nom:m1	nazwa pospolita	
 Portugalczycy	Portugalczyk	subst:pl:voc:m1	nazwa pospolita	
 Portugalczykach	Portugalczyk	subst:pl:loc:m1	nazwa pospolita	

@@ -29337,6 +29337,31 @@ endorfiny	endorfina	subst:pl:acc:f	nazwa pospolita
 endorfiny	endorfina	subst:pl:nom:f	nazwa pospolita	
 endorfiny	endorfina	subst:pl:voc:f	nazwa pospolita	
 endorfiny	endorfina	subst:sg:gen:f	nazwa pospolita	
+endorfinowo	endorfinowo	adv:pos		
+endorfinowa	endorfinowy	adj:sg:nom.voc:f:pos		
+endorfinową	endorfinowy	adj:sg:acc:f:pos		
+endorfinową	endorfinowy	adj:sg:inst:f:pos		
+endorfinowe	endorfinowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+endorfinowe	endorfinowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+endorfinowe	endorfinowy	adj:sg:acc:n1.n2:pos		
+endorfinowe	endorfinowy	adj:sg:nom.voc:n1.n2:pos		
+endorfinowego	endorfinowy	adj:sg:acc:m1.m2:pos		
+endorfinowego	endorfinowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+endorfinowej	endorfinowy	adj:sg:dat:f:pos		
+endorfinowej	endorfinowy	adj:sg:gen:f:pos		
+endorfinowej	endorfinowy	adj:sg:loc:f:pos		
+endorfinowemu	endorfinowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+endorfinowi	endorfinowy	adj:pl:nom.voc:m1.p1:pos		
+endorfinowo	endorfinowy	adja		
+endorfinowych	endorfinowy	adj:pl:acc:m1.p1:pos		
+endorfinowych	endorfinowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+endorfinowych	endorfinowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+endorfinowy	endorfinowy	adj:sg:acc:m3:pos		
+endorfinowy	endorfinowy	adj:sg:nom.voc:m1.m2.m3:pos		
+endorfinowym	endorfinowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+endorfinowym	endorfinowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+endorfinowym	endorfinowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+endorfinowymi	endorfinowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 endoskopach	endoskop	subst:pl:loc:m3	nazwa pospolita	
 endoskopami	endoskop	subst:pl:inst:m3	nazwa pospolita	
 endoskopem	endoskop	subst:sg:inst:m3	nazwa pospolita	

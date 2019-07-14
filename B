@@ -4841,6 +4841,27 @@ Berno	Berno	subst:sg:nom:n2	nazwa geograficzna
 Berno	Berno	subst:sg:voc:n2	nazwa geograficzna	
 Bernom	Berno	subst:pl:dat:n2	nazwa geograficzna	
 Bernu	Berno	subst:sg:dat:n2	nazwa geograficzna	
+Bernoulle	Bernoulli	depr:pl:nom:m2	nazwisko	
+Bernoulle	Bernoulli	depr:pl:voc:m2	nazwisko	
+Bernoullego	Bernoulli	subst:sg:acc:m1	nazwisko	
+Bernoullego	Bernoulli	subst:sg:gen:m1	nazwisko	
+Bernoullemu	Bernoulli	subst:sg:dat:m1	nazwisko	
+Bernoulli	Bernoulli	subst:pl:nom:m1	nazwisko	
+Bernoulli	Bernoulli	subst:pl:voc:m1	nazwisko	
+Bernoulli	Bernoulli	subst:sg:nom:m1	nazwisko	
+Bernoulli	Bernoulli	subst:sg:voc:m1	nazwisko	
+Bernoullich	Bernoulli	subst:pl:acc:m1	nazwisko	
+Bernoullich	Bernoulli	subst:pl:gen:m1	nazwisko	
+Bernoullich	Bernoulli	subst:pl:loc:m1	nazwisko	
+Bernoullie	Bernoulli	depr:pl:nom:m2	nazwisko	
+Bernoullie	Bernoulli	depr:pl:voc:m2	nazwisko	
+Bernoulliego	Bernoulli	subst:sg:acc:m1	nazwisko	
+Bernoulliego	Bernoulli	subst:sg:gen:m1	nazwisko	
+Bernoulliemu	Bernoulli	subst:sg:dat:m1	nazwisko	
+Bernoullim	Bernoulli	subst:pl:dat:m1	nazwisko	
+Bernoullim	Bernoulli	subst:sg:inst:m1	nazwisko	
+Bernoullim	Bernoulli	subst:sg:loc:m1	nazwisko	
+Bernoullimi	Bernoulli	subst:pl:inst:m1	nazwisko	
 Berci	Bert	subst:pl:nom:m1	imię	
 Berci	Bert	subst:pl:voc:m1	imię	
 Bercie	Bert	subst:sg:loc:m1	imię	
