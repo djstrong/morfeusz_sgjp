@@ -351,6 +351,17 @@ Kadmonowie	Kadmon	subst:pl:nom.voc:m1	imię
 Kadmonowi	Kadmon	subst:sg:dat:m1	imię	
 Kadmonów	Kadmon	subst:pl:gen.acc:m1	imię	
 Kadmony	Kadmon	depr:pl:nom.acc.voc:m2	imię	
+Kadyksach	Kadyks	subst:pl:loc:m3	nazwa geograficzna	
+Kadyksami	Kadyks	subst:pl:inst:m3	nazwa geograficzna	
+Kadyksem	Kadyks	subst:sg:inst:m3	nazwa geograficzna	
+Kadyksie	Kadyks	subst:sg:loc:m3	nazwa geograficzna	
+Kadyksie	Kadyks	subst:sg:voc:m3	nazwa geograficzna	
+Kadyks	Kadyks	subst:sg:nom.acc:m3	nazwa geograficzna	
+Kadyksom	Kadyks	subst:pl:dat:m3	nazwa geograficzna	
+Kadyksowi	Kadyks	subst:sg:dat:m3	nazwa geograficzna	
+Kadyksów	Kadyks	subst:pl:gen:m3	nazwa geograficzna	
+Kadyksu	Kadyks	subst:sg:gen:m3	nazwa geograficzna	
+Kadyksy	Kadyks	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Kadyszach	Kadysz	subst:pl:loc:m1	imię	
 Kadysza	Kadysz	subst:sg:gen.acc:m1	imię	
 Kadyszami	Kadysz	subst:pl:inst:m1	imię	

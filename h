@@ -6100,6 +6100,18 @@ handlarzu	handlarz	subst:sg:loc:m1	nazwa pospolita	rzad.
 handlarzu	handlarz	subst:sg:voc:m1	nazwa pospolita	
 handlarzu	handlarz	subst:sg:voc:m1	nazwa pospolita	rzad.
 handlarzy	handlarz	subst:pl:gen.acc:m1	nazwa pospolita	
+handlarzynach	handlarzyna	subst:pl:loc:m1	nazwa pospolita	
+handlarzyna	handlarzyna	subst:sg:nom:m1	nazwa pospolita	
+handlarzynami	handlarzyna	subst:pl:inst:m1	nazwa pospolita	
+handlarzyną	handlarzyna	subst:sg:inst:m1	nazwa pospolita	
+handlarzynę	handlarzyna	subst:sg:acc:m1	nazwa pospolita	
+handlarzynie	handlarzyna	subst:sg:dat.loc:m1	nazwa pospolita	
+handlarzyni	handlarzyna	subst:pl:nom.voc:m1	nazwa pospolita	
+handlarzyno	handlarzyna	subst:sg:voc:m1	nazwa pospolita	
+handlarzynom	handlarzyna	subst:pl:dat:m1	nazwa pospolita	
+handlarzynów	handlarzyna	subst:pl:gen.acc:m1	nazwa pospolita	
+handlarzyny	handlarzyna	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+handlarzyny	handlarzyna	subst:sg:gen:m1	nazwa pospolita	
 handlować	handlować	inf:imperf		
 handlowaliby	handlować	cond:pl:m1:ter:imperf		
 handlowalibyście	handlować	cond:pl:m1:sec:imperf		
