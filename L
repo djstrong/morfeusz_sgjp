@@ -289,6 +289,29 @@ Lanki	Lanka	subst:pl:nom.acc.voc:f	człon nazwy geograficznej
 Lanki	Lanka	subst:sg:gen:f	człon nazwy geograficznej	
 Lanko	Lanka	subst:sg:voc:f	człon nazwy geograficznej	
 Lankom	Lanka	subst:pl:dat:f	człon nazwy geograficznej	
+Lankijczycy	Lankijczyk	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Lankijczykach	Lankijczyk	subst:pl:loc:m1	nazwa pospolita	etn.
+Lankijczyka	Lankijczyk	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Lankijczykami	Lankijczyk	subst:pl:inst:m1	nazwa pospolita	etn.
+Lankijczykiem	Lankijczyk	subst:sg:inst:m1	nazwa pospolita	etn.
+Lankijczyki	Lankijczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+Lankijczyk	Lankijczyk	subst:sg:nom:m1	nazwa pospolita	etn.
+Lankijczykom	Lankijczyk	subst:pl:dat:m1	nazwa pospolita	etn.
+Lankijczykowi	Lankijczyk	subst:sg:dat:m1	nazwa pospolita	etn.
+Lankijczyków	Lankijczyk	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Lankijczyku	Lankijczyk	subst:sg:loc:m1	nazwa pospolita	etn.
+Lankijczyku	Lankijczyk	subst:sg:voc:m1	nazwa pospolita	etn.
+Lankijce	Lankijka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+Lankijek	Lankijka	subst:pl:gen:f	nazwa pospolita	etn.
+Lankijkach	Lankijka	subst:pl:loc:f	nazwa pospolita	etn.
+Lankijka	Lankijka	subst:sg:nom:f	nazwa pospolita	etn.
+Lankijkami	Lankijka	subst:pl:inst:f	nazwa pospolita	etn.
+Lankijką	Lankijka	subst:sg:inst:f	nazwa pospolita	etn.
+Lankijkę	Lankijka	subst:sg:acc:f	nazwa pospolita	etn.
+Lankijki	Lankijka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+Lankijki	Lankijka	subst:sg:gen:f	nazwa pospolita	etn.
+Lankijko	Lankijka	subst:sg:voc:f	nazwa pospolita	etn.
+Lankijkom	Lankijka	subst:pl:dat:f	nazwa pospolita	etn.
 Laodyceach	Laodycea	subst:pl:loc:f	nazwa geograficzna	
 Laodycea	Laodycea	subst:sg:nom:f	nazwa geograficzna	
 Laodyceami	Laodycea	subst:pl:inst:f	nazwa geograficzna	

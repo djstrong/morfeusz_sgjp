@@ -32376,6 +32376,7 @@ lineażem	lineaż	subst:sg:inst:m3	nazwa pospolita
 lineaż	lineaż	subst:sg:nom.acc:m3	nazwa pospolita	
 lineażom	lineaż	subst:pl:dat:m3	nazwa pospolita	
 lineażowi	lineaż	subst:sg:dat:m3	nazwa pospolita	
+lineażów	lineaż	subst:pl:gen:m3	nazwa pospolita	
 lineażu	lineaż	subst:sg:gen:m3	nazwa pospolita	
 lineażu	lineaż	subst:sg:loc:m3	nazwa pospolita	
 lineażu	lineaż	subst:sg:voc:m3	nazwa pospolita	
@@ -51094,7 +51095,17 @@ luftujesz	luftować	fin:sg:sec:imperf
 luftuję	luftować	fin:sg:pri:imperf		
 luftuj	luftować	impt:sg:sec:imperf		
 luftujmy	luftować	impt:pl:pri:imperf		
+lugerach	luger	subst:pl:loc:m3	nazwa pospolita	
+lugera	luger	subst:sg:gen:m3	nazwa pospolita	
+lugerami	luger	subst:pl:inst:m3	nazwa pospolita	
+lugerem	luger	subst:sg:inst:m3	nazwa pospolita	
 luger	luger	subst:sg:nom.acc:m3	nazwa pospolita	
+lugerom	luger	subst:pl:dat:m3	nazwa pospolita	
+lugerowi	luger	subst:sg:dat:m3	nazwa pospolita	
+lugerów	luger	subst:pl:gen:m3	nazwa pospolita	
+lugery	luger	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+lugerze	luger	subst:sg:loc:m3	nazwa pospolita	
+lugerze	luger	subst:sg:voc:m3	nazwa pospolita	
 lugrach	luger	subst:pl:loc:m3	nazwa pospolita	
 lugra	luger	subst:sg:gen:m3	nazwa pospolita	
 lugrami	luger	subst:pl:inst:m3	nazwa pospolita	

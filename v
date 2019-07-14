@@ -173,17 +173,17 @@ vectr	vectra	subst:pl:gen:f	nazwa pospolita
 vectry	vectra	subst:pl:nom.acc.voc:f	nazwa pospolita	
 vectry	vectra	subst:sg:gen:f	nazwa pospolita	
 vectrze	vectra	subst:sg:dat.loc:f	nazwa pospolita	
-vedetcie	vedetta	subst:sg:dat.loc:f	nazwa pospolita	
-vedettach	vedetta	subst:pl:loc:f	nazwa pospolita	
-vedettami	vedetta	subst:pl:inst:f	nazwa pospolita	
-vedetta	vedetta	subst:sg:nom:f	nazwa pospolita	
-vedettą	vedetta	subst:sg:inst:f	nazwa pospolita	
-vedettę	vedetta	subst:sg:acc:f	nazwa pospolita	
-vedettom	vedetta	subst:pl:dat:f	nazwa pospolita	
-vedetto	vedetta	subst:sg:voc:f	nazwa pospolita	
-vedett	vedetta	subst:pl:gen:f	nazwa pospolita	
-vedetty	vedetta	subst:pl:nom.acc.voc:f	nazwa pospolita	
-vedetty	vedetta	subst:sg:gen:f	nazwa pospolita	
+vedetcie	vedetta	subst:sg:dat.loc:f	nazwa pospolita	wojsk.
+vedettach	vedetta	subst:pl:loc:f	nazwa pospolita	wojsk.
+vedettami	vedetta	subst:pl:inst:f	nazwa pospolita	wojsk.
+vedetta	vedetta	subst:sg:nom:f	nazwa pospolita	wojsk.
+vedettą	vedetta	subst:sg:inst:f	nazwa pospolita	wojsk.
+vedettę	vedetta	subst:sg:acc:f	nazwa pospolita	wojsk.
+vedettom	vedetta	subst:pl:dat:f	nazwa pospolita	wojsk.
+vedetto	vedetta	subst:sg:voc:f	nazwa pospolita	wojsk.
+vedett	vedetta	subst:pl:gen:f	nazwa pospolita	wojsk.
+vedetty	vedetta	subst:pl:nom.acc.voc:f	nazwa pospolita	wojsk.
+vedetty	vedetta	subst:sg:gen:f	nazwa pospolita	wojsk.
 vel	vel	conj		
 velariach	velarium	subst:pl:loc:n:ncol	nazwa pospolita	
 velariami	velarium	subst:pl:inst:n:ncol	nazwa pospolita	

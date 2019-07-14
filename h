@@ -11023,6 +11023,7 @@ haszyszów	haszysz	subst:pl:gen:m3	nazwa pospolita
 haszyszu	haszysz	subst:sg:gen:m3	nazwa pospolita	
 haszyszu	haszysz	subst:sg:loc:m3	nazwa pospolita	
 haszyszu	haszysz	subst:sg:voc:m3	nazwa pospolita	
+haszyszy	haszysz	subst:pl:gen:m3	nazwa pospolita	
 haszyszowościach	haszyszowość	subst:pl:loc:f	nazwa pospolita	
 haszyszowościami	haszyszowość	subst:pl:inst:f	nazwa pospolita	
 haszyszowością	haszyszowość	subst:sg:inst:f	nazwa pospolita	
@@ -38931,17 +38932,29 @@ humanizujesz	humanizować	fin:sg:sec:imperf
 humanizuję	humanizować	fin:sg:pri:imperf		
 humanizuj	humanizować	impt:sg:sec:imperf		
 humanizujmy	humanizować	impt:pl:pri:imperf		
+humanoidach	humanoid	subst:pl:loc:m1	nazwa pospolita	
 humanoidach	humanoid	subst:pl:loc:m2	nazwa pospolita	
+humanoida	humanoid	subst:sg:gen.acc:m1	nazwa pospolita	
 humanoida	humanoid	subst:sg:gen.acc:m2	nazwa pospolita	
+humanoidami	humanoid	subst:pl:inst:m1	nazwa pospolita	
 humanoidami	humanoid	subst:pl:inst:m2	nazwa pospolita	
+humanoidem	humanoid	subst:sg:inst:m1	nazwa pospolita	
 humanoidem	humanoid	subst:sg:inst:m2	nazwa pospolita	
+humanoid	humanoid	subst:sg:nom:m1	nazwa pospolita	
 humanoid	humanoid	subst:sg:nom:m2	nazwa pospolita	
+humanoidom	humanoid	subst:pl:dat:m1	nazwa pospolita	
 humanoidom	humanoid	subst:pl:dat:m2	nazwa pospolita	
+humanoidowi	humanoid	subst:sg:dat:m1	nazwa pospolita	
 humanoidowi	humanoid	subst:sg:dat:m2	nazwa pospolita	
+humanoidów	humanoid	subst:pl:gen.acc:m1	nazwa pospolita	
 humanoidów	humanoid	subst:pl:gen:m2	nazwa pospolita	
+humanoidy	humanoid	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 humanoidy	humanoid	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+humanoidzie	humanoid	subst:sg:loc:m1	nazwa pospolita	
 humanoidzie	humanoid	subst:sg:loc:m2	nazwa pospolita	
+humanoidzie	humanoid	subst:sg:voc:m1	nazwa pospolita	
 humanoidzie	humanoid	subst:sg:voc:m2	nazwa pospolita	
+humanoidzi	humanoid	subst:pl:nom.voc:m1	nazwa pospolita	
 humanoidalnościach	humanoidalność	subst:pl:loc:f	nazwa pospolita	
 humanoidalnościami	humanoidalność	subst:pl:inst:f	nazwa pospolita	
 humanoidalnością	humanoidalność	subst:sg:inst:f	nazwa pospolita	

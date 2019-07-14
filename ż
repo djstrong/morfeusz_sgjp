@@ -19343,18 +19343,6 @@
 żył	żyć	praet:sg:m1.m2.m3:imperf		
 żył	żyć	praet:sg:m1.m2.m3:ter:imperf		
 żyto	żyć	imps:imperf		
-żydach	żyd	subst:pl:loc:m1	nazwa pospolita	
-żydami	żyd	subst:pl:inst:m1	nazwa pospolita	
-żyda	żyd	subst:sg:gen.acc:m1	nazwa pospolita	
-żydem	żyd	subst:sg:inst:m1	nazwa pospolita	
-żydom	żyd	subst:pl:dat:m1	nazwa pospolita	
-żydowi	żyd	subst:sg:dat:m1	nazwa pospolita	
-żydów	żyd	subst:pl:gen.acc:m1	nazwa pospolita	
-żydy	żyd	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-żydzie	żyd	subst:sg:loc:m1	nazwa pospolita	
-żydzie	żyd	subst:sg:voc:m1	nazwa pospolita	
-żydzi	żyd	subst:pl:nom.voc:m1	nazwa pospolita	
-żyd	żyd	subst:sg:nom:m1	nazwa pospolita	
 żydek	żydek	subst:sg:nom:m1	nazwa pospolita	
 żydkach	żydek	subst:pl:loc:m1	nazwa pospolita	
 żydkami	żydek	subst:pl:inst:m1	nazwa pospolita	
@@ -19592,6 +19580,29 @@
 żydówki	żydówka	subst:sg:gen:f	nazwa pospolita	
 żydówkom	żydówka	subst:pl:dat:f	nazwa pospolita	
 żydówko	żydówka	subst:sg:voc:f	nazwa pospolita	
+żydach	żyd:s1	subst:pl:loc:m1	nazwa pospolita	
+żydami	żyd:s1	subst:pl:inst:m1	nazwa pospolita	
+żyda	żyd:s1	subst:sg:gen.acc:m1	nazwa pospolita	
+żydem	żyd:s1	subst:sg:inst:m1	nazwa pospolita	
+żydom	żyd:s1	subst:pl:dat:m1	nazwa pospolita	
+żydowi	żyd:s1	subst:sg:dat:m1	nazwa pospolita	
+żydów	żyd:s1	subst:pl:gen.acc:m1	nazwa pospolita	
+żydy	żyd:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+żydzie	żyd:s1	subst:sg:loc:m1	nazwa pospolita	
+żydzie	żyd:s1	subst:sg:voc:m1	nazwa pospolita	
+żydzi	żyd:s1	subst:pl:nom.voc:m1	nazwa pospolita	
+żyd	żyd:s1	subst:sg:nom:m1	nazwa pospolita	
+żydach	żyd:s2	subst:pl:loc:m2	nazwa pospolita	przest.
+żydami	żyd:s2	subst:pl:inst:m2	nazwa pospolita	przest.
+żyda	żyd:s2	subst:sg:gen.acc:m2	nazwa pospolita	przest.
+żydem	żyd:s2	subst:sg:inst:m2	nazwa pospolita	przest.
+żydom	żyd:s2	subst:pl:dat:m2	nazwa pospolita	przest.
+żydowi	żyd:s2	subst:sg:dat:m2	nazwa pospolita	przest.
+żydów	żyd:s2	subst:pl:gen:m2	nazwa pospolita	przest.
+żydy	żyd:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	przest.
+żydzie	żyd:s2	subst:sg:loc:m2	nazwa pospolita	przest.
+żydzie	żyd:s2	subst:sg:voc:m2	nazwa pospolita	przest.
+żyd	żyd:s2	subst:sg:nom:m2	nazwa pospolita	przest.
 żydząca	żydzić	pact:sg:nom.voc:f:imperf:aff		
 żydzącą	żydzić	pact:sg:acc.inst:f:imperf:aff		
 żydzącego	żydzić	pact:sg:acc:m1.m2:imperf:aff		

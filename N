@@ -114,11 +114,13 @@ Nadia	Nadia	subst:sg:nom:f	imię
 Nadią	Nadia	subst:sg:inst:f	imię	
 Nadie	Nadia	subst:pl:nom.acc.voc:f	imię	
 Nadię	Nadia	subst:sg:acc:f	imię	
+Nadii	Nadia	subst:pl:gen:f	imię	
 Nadii	Nadia	subst:pl:gen:f	imię	hom.
 Nadii	Nadia	subst:sg:dat.loc:f	imię	
 Nadii	Nadia	subst:sg:gen:f	imię	
 Nadiom	Nadia	subst:pl:dat:f	imię	
 Nadio	Nadia	subst:sg:voc:f	imię	
+Nadiu	Nadia	subst:sg:voc:f	imię	
 Nadyj	Nadia	subst:pl:gen:f	imię	arch.|char.
 Nadieżdach	Nadieżda	subst:pl:loc:f	imię	
 Nadieżdami	Nadieżda	subst:pl:inst:f	imię	

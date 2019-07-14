@@ -155,18 +155,18 @@ Idzikowskim	Idzikowski	subst:pl:dat:m1	nazwisko
 Idzikowskim	Idzikowski	subst:sg:inst:m1	nazwisko	
 Idzikowskim	Idzikowski	subst:sg:loc:m1	nazwisko	
 Idzikowskimi	Idzikowski	subst:pl:inst:m1	nazwisko	
-Ifigeniach	Ifigenia	subst:pl:loc:f	imię	
-Ifigenia	Ifigenia	subst:sg:nom:f	imię	
-Ifigeniami	Ifigenia	subst:pl:inst:f	imię	
-Ifigenią	Ifigenia	subst:sg:inst:f	imię	
-Ifigenie	Ifigenia	subst:pl:nom.acc.voc:f	imię	
-Ifigenię	Ifigenia	subst:sg:acc:f	imię	
-Ifigenii	Ifigenia	subst:pl:gen:f	imię	hom.
-Ifigenii	Ifigenia	subst:sg:dat.loc:f	imię	
-Ifigenii	Ifigenia	subst:sg:gen:f	imię	
-Ifigenij	Ifigenia	subst:pl:gen:f	imię	arch.|char.
-Ifigenio	Ifigenia	subst:sg:voc:f	imię	
-Ifigeniom	Ifigenia	subst:pl:dat:f	imię	
+Ifigeniach	Ifigenia	subst:pl:loc:f	imię	mit.
+Ifigenia	Ifigenia	subst:sg:nom:f	imię	mit.
+Ifigeniami	Ifigenia	subst:pl:inst:f	imię	mit.
+Ifigenią	Ifigenia	subst:sg:inst:f	imię	mit.
+Ifigenie	Ifigenia	subst:pl:nom.acc.voc:f	imię	mit.
+Ifigenię	Ifigenia	subst:sg:acc:f	imię	mit.
+Ifigenii	Ifigenia	subst:pl:gen:f	imię	hom.|mit.
+Ifigenii	Ifigenia	subst:sg:dat.loc:f	imię	mit.
+Ifigenii	Ifigenia	subst:sg:gen:f	imię	mit.
+Ifigenij	Ifigenia	subst:pl:gen:f	imię	arch.|char.|mit.
+Ifigenio	Ifigenia	subst:sg:voc:f	imię	mit.
+Ifigeniom	Ifigenia	subst:pl:dat:f	imię	mit.
 IFOR-ach	IFOR	subst:pl:loc:m3	nazwa organizacji	
 IFOR-ami	IFOR	subst:pl:inst:m3	nazwa organizacji	
 IFOR-em	IFOR	subst:sg:inst:m3	nazwa organizacji	
@@ -447,12 +447,12 @@ Ilja	Ilja	subst:sg:nom:m1	imię
 Iljami	Ilja	subst:pl:inst:m1	imię	
 Ilją	Ilja	subst:sg:inst:m1	imię	
 Ilje	Ilja	depr:pl:nom.acc.voc:m2	imię	
-Ilje	Ilja	subst:pl:nom.voc:m1	imię	
 Ilję	Ilja	subst:sg:acc:m1	imię	
 Ilji	Ilja	subst:sg:dat.loc:m1	imię	
 Ilji	Ilja	subst:sg:gen:m1	imię	
 Iljo	Ilja	subst:sg:voc:m1	imię	
 Iljom	Ilja	subst:pl:dat:m1	imię	
+Iljowie	Ilja	subst:pl:nom.voc:m1	imię	
 Iljów	Ilja	subst:pl:gen.acc:m1	imię	
 Iljiczach	Iljicz	subst:pl:loc:m1	patronimicum	
 Iljicza	Iljicz	subst:sg:gen.acc:m1	patronimicum	

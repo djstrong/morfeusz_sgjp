@@ -14223,7 +14223,8 @@ favelami	favela	subst:pl:inst:f	nazwa pospolita
 favelą	favela	subst:sg:inst:f	nazwa pospolita	
 favele	favela	subst:pl:nom.acc.voc:f	nazwa pospolita	
 favelę	favela	subst:sg:acc:f	nazwa pospolita	
-faveli	favela	subst:pl:gen:f	nazwa pospolita	
+favel	favela	subst:pl:gen:f	nazwa pospolita	char.
+faveli	favela	subst:pl:gen:f	nazwa pospolita	hom.
 faveli	favela	subst:sg:dat.loc:f	nazwa pospolita	
 faveli	favela	subst:sg:gen:f	nazwa pospolita	
 favelo	favela	subst:sg:voc:f	nazwa pospolita	
@@ -19376,6 +19377,7 @@ ferromagnetycznym	ferromagnetyczny	adj:sg:inst:m1.m2.m3.n:pos
 ferromagnetycznym	ferromagnetyczny	adj:sg:loc:m1.m2.m3.n:pos		
 ferromagnetycznymi	ferromagnetyczny	adj:pl:inst:m1.m2.m3.f.n:pos		
 ferromagnetykach	ferromagnetyk	subst:pl:loc:m3	nazwa pospolita	
+ferromagnetyka	ferromagnetyk	subst:sg:gen:m3	nazwa pospolita	
 ferromagnetykami	ferromagnetyk	subst:pl:inst:m3	nazwa pospolita	
 ferromagnetyk	ferromagnetyk	subst:sg:nom.acc:m3	nazwa pospolita	
 ferromagnetykiem	ferromagnetyk	subst:sg:inst:m3	nazwa pospolita	
@@ -31677,6 +31679,7 @@ fladerkujesz	fladerkować	fin:sg:sec:imperf
 fladerkuję	fladerkować	fin:sg:pri:imperf		
 fladerkuj	fladerkować	impt:sg:sec:imperf		
 fladerkujmy	fladerkować	impt:pl:pri:imperf		
+flader	fladra	subst:pl:gen:f	nazwa pospolita	łow.
 fladrach	fladra	subst:pl:loc:f	nazwa pospolita	łow.
 fladra	fladra	subst:sg:nom:f	nazwa pospolita	łow.
 fladrami	fladra	subst:pl:inst:f	nazwa pospolita	łow.

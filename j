@@ -24000,6 +24000,7 @@ jeleniem	jeleń:s2	subst:sg:inst:m1	nazwa pospolita
 jeleni	jeleń:s2	subst:pl:gen.acc:m1	nazwa pospolita	
 jeleniom	jeleń:s2	subst:pl:dat:m1	nazwa pospolita	
 jeleniowi	jeleń:s2	subst:sg:dat:m1	nazwa pospolita	
+jeleniów	jeleń:s2	subst:pl:gen.acc:m1	nazwa pospolita	
 jeleniu	jeleń:s2	subst:sg:loc:m1	nazwa pospolita	
 jeleniu	jeleń:s2	subst:sg:voc:m1	nazwa pospolita	
 jeleń	jeleń:s2	subst:sg:nom:m1	nazwa pospolita	
