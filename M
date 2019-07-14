@@ -5683,6 +5683,36 @@ Mauretanii	Mauretania	subst:sg:loc:f	nazwa geograficzna
 Mauretanij	Mauretania	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Mauretanio	Mauretania	subst:sg:voc:f	nazwa geograficzna	
 Mauretaniom	Mauretania	subst:pl:dat:f	nazwa geograficzna	
+Mauretance	Mauretanka	subst:sg:dat:f	nazwa pospolita	
+Mauretance	Mauretanka	subst:sg:loc:f	nazwa pospolita	
+Mauretanek	Mauretanka	subst:pl:gen:f	nazwa pospolita	
+Mauretankach	Mauretanka	subst:pl:loc:f	nazwa pospolita	
+Mauretanka	Mauretanka	subst:sg:nom:f	nazwa pospolita	
+Mauretankami	Mauretanka	subst:pl:inst:f	nazwa pospolita	
+Mauretanką	Mauretanka	subst:sg:inst:f	nazwa pospolita	
+Mauretankę	Mauretanka	subst:sg:acc:f	nazwa pospolita	
+Mauretanki	Mauretanka	subst:pl:acc:f	nazwa pospolita	
+Mauretanki	Mauretanka	subst:pl:nom:f	nazwa pospolita	
+Mauretanki	Mauretanka	subst:pl:voc:f	nazwa pospolita	
+Mauretanki	Mauretanka	subst:sg:gen:f	nazwa pospolita	
+Mauretanko	Mauretanka	subst:sg:voc:f	nazwa pospolita	
+Mauretankom	Mauretanka	subst:pl:dat:f	nazwa pospolita	
+Mauretańczycy	Mauretańczyk	subst:pl:nom:m1	nazwa pospolita	
+Mauretańczycy	Mauretańczyk	subst:pl:voc:m1	nazwa pospolita	
+Mauretańczykach	Mauretańczyk	subst:pl:loc:m1	nazwa pospolita	
+Mauretańczyka	Mauretańczyk	subst:sg:acc:m1	nazwa pospolita	
+Mauretańczyka	Mauretańczyk	subst:sg:gen:m1	nazwa pospolita	
+Mauretańczykami	Mauretańczyk	subst:pl:inst:m1	nazwa pospolita	
+Mauretańczykiem	Mauretańczyk	subst:sg:inst:m1	nazwa pospolita	
+Mauretańczyki	Mauretańczyk	depr:pl:nom:m2	nazwa pospolita	
+Mauretańczyki	Mauretańczyk	depr:pl:voc:m2	nazwa pospolita	
+Mauretańczyk	Mauretańczyk	subst:sg:nom:m1	nazwa pospolita	
+Mauretańczykom	Mauretańczyk	subst:pl:dat:m1	nazwa pospolita	
+Mauretańczykowi	Mauretańczyk	subst:sg:dat:m1	nazwa pospolita	
+Mauretańczyków	Mauretańczyk	subst:pl:acc:m1	nazwa pospolita	
+Mauretańczyków	Mauretańczyk	subst:pl:gen:m1	nazwa pospolita	
+Mauretańczyku	Mauretańczyk	subst:sg:loc:m1	nazwa pospolita	
+Mauretańczyku	Mauretańczyk	subst:sg:voc:m1	nazwa pospolita	
 Mauriacach	Mauriac	subst:pl:loc:m1	nazwisko	
 Mauriaca	Mauriac	subst:sg:acc:m1	nazwisko	
 Mauriaca	Mauriac	subst:sg:gen:m1	nazwisko	

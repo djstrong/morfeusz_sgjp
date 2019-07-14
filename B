@@ -13075,6 +13075,36 @@ Burgundio	Burgundia	subst:sg:voc:f	nazwa geograficzna
 Burgundiom	Burgundia	subst:pl:dat:f	nazwa geograficzna	
 Burgundyj	Burgundia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Burkina	Burkina	burk		
+Burkince	Burkinka	subst:sg:dat:f	nazwa pospolita	
+Burkince	Burkinka	subst:sg:loc:f	nazwa pospolita	
+Burkinek	Burkinka	subst:pl:gen:f	nazwa pospolita	
+Burkinka	Burkinka	subst:sg:nom:f	nazwa pospolita	
+Burkinkach	Burkinka	subst:pl:loc:f	nazwa pospolita	
+Burkinkami	Burkinka	subst:pl:inst:f	nazwa pospolita	
+Burkinką	Burkinka	subst:sg:inst:f	nazwa pospolita	
+Burkinkę	Burkinka	subst:sg:acc:f	nazwa pospolita	
+Burkinki	Burkinka	subst:pl:acc:f	nazwa pospolita	
+Burkinki	Burkinka	subst:pl:nom:f	nazwa pospolita	
+Burkinki	Burkinka	subst:pl:voc:f	nazwa pospolita	
+Burkinki	Burkinka	subst:sg:gen:f	nazwa pospolita	
+Burkinko	Burkinka	subst:sg:voc:f	nazwa pospolita	
+Burkinkom	Burkinka	subst:pl:dat:f	nazwa pospolita	
+Burkińczycy	Burkińczyk	subst:pl:nom:m1	nazwa pospolita	
+Burkińczycy	Burkińczyk	subst:pl:voc:m1	nazwa pospolita	
+Burkińczyka	Burkińczyk	subst:sg:acc:m1	nazwa pospolita	
+Burkińczyka	Burkińczyk	subst:sg:gen:m1	nazwa pospolita	
+Burkińczykach	Burkińczyk	subst:pl:loc:m1	nazwa pospolita	
+Burkińczykami	Burkińczyk	subst:pl:inst:m1	nazwa pospolita	
+Burkińczyk	Burkińczyk	subst:sg:nom:m1	nazwa pospolita	
+Burkińczyki	Burkińczyk	depr:pl:nom:m2	nazwa pospolita	
+Burkińczyki	Burkińczyk	depr:pl:voc:m2	nazwa pospolita	
+Burkińczykiem	Burkińczyk	subst:sg:inst:m1	nazwa pospolita	
+Burkińczykom	Burkińczyk	subst:pl:dat:m1	nazwa pospolita	
+Burkińczykowi	Burkińczyk	subst:sg:dat:m1	nazwa pospolita	
+Burkińczyków	Burkińczyk	subst:pl:acc:m1	nazwa pospolita	
+Burkińczyków	Burkińczyk	subst:pl:gen:m1	nazwa pospolita	
+Burkińczyku	Burkińczyk	subst:sg:loc:m1	nazwa pospolita	
+Burkińczyku	Burkińczyk	subst:sg:voc:m1	nazwa pospolita	
 Burma	Burma	subst:sg:nom:f	nazwa geograficzna	hist.
 Burmach	Burma	subst:pl:loc:f	nazwa geograficzna	hist.
 Burmami	Burma	subst:pl:inst:f	nazwa geograficzna	hist.

@@ -3527,6 +3527,36 @@ Homery	Homer	depr:pl:nom:m2	imię
 Homery	Homer	depr:pl:voc:m2	imię	
 Homerze	Homer	subst:sg:loc:m1	imię	
 Homerze	Homer	subst:sg:voc:m1	imię	
+Honduranach	Honduranin	subst:pl:loc:m1	nazwa pospolita	bibl.
+Honduranami	Honduranin	subst:pl:inst:m1	nazwa pospolita	bibl.
+Honduran	Honduranin	subst:pl:acc:m1	nazwa pospolita	bibl.
+Honduran	Honduranin	subst:pl:gen:m1	nazwa pospolita	bibl.
+Honduranie	Honduranin	subst:pl:nom:m1	nazwa pospolita	bibl.
+Honduranie	Honduranin	subst:pl:voc:m1	nazwa pospolita	bibl.
+Honduranina	Honduranin	subst:sg:acc:m1	nazwa pospolita	bibl.
+Honduranina	Honduranin	subst:sg:gen:m1	nazwa pospolita	bibl.
+Honduraninem	Honduranin	subst:sg:inst:m1	nazwa pospolita	bibl.
+Honduranin	Honduranin	subst:sg:nom:m1	nazwa pospolita	bibl.
+Honduraninie	Honduranin	subst:sg:loc:m1	nazwa pospolita	bibl.
+Honduraninie	Honduranin	subst:sg:voc:m1	nazwa pospolita	bibl.
+Honduraninowi	Honduranin	subst:sg:dat:m1	nazwa pospolita	bibl.
+Honduranom	Honduranin	subst:pl:dat:m1	nazwa pospolita	bibl.
+Hondurany	Honduranin	depr:pl:nom:m2	nazwa pospolita	bibl.
+Hondurany	Honduranin	depr:pl:voc:m2	nazwa pospolita	bibl.
+Hondurance	Honduranka	subst:sg:dat:f	nazwa pospolita	
+Hondurance	Honduranka	subst:sg:loc:f	nazwa pospolita	
+Honduranek	Honduranka	subst:pl:gen:f	nazwa pospolita	
+Hondurankach	Honduranka	subst:pl:loc:f	nazwa pospolita	
+Honduranka	Honduranka	subst:sg:nom:f	nazwa pospolita	
+Hondurankami	Honduranka	subst:pl:inst:f	nazwa pospolita	
+Honduranką	Honduranka	subst:sg:inst:f	nazwa pospolita	
+Hondurankę	Honduranka	subst:sg:acc:f	nazwa pospolita	
+Honduranki	Honduranka	subst:pl:acc:f	nazwa pospolita	
+Honduranki	Honduranka	subst:pl:nom:f	nazwa pospolita	
+Honduranki	Honduranka	subst:pl:voc:f	nazwa pospolita	
+Honduranki	Honduranka	subst:sg:gen:f	nazwa pospolita	
+Honduranko	Honduranka	subst:sg:voc:f	nazwa pospolita	
+Hondurankom	Honduranka	subst:pl:dat:f	nazwa pospolita	
 Hondurasach	Honduras	subst:pl:loc:m3	nazwa geograficzna	
 Hondurasami	Honduras	subst:pl:inst:m3	nazwa geograficzna	
 Hondurasem	Honduras	subst:sg:inst:m3	nazwa geograficzna	
