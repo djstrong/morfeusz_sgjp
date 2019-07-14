@@ -2139,6 +2139,18 @@ Orffowie	Orff	subst:pl:nom.voc:m1	nazwisko
 Orffowi	Orff	subst:sg:dat:m1	nazwisko	
 Orffów	Orff	subst:pl:gen.acc:m1	nazwisko	
 Orffy	Orff	depr:pl:nom.acc.voc:m2	nazwisko	
+Organistach	Organista	subst:pl:loc:m1	nazwisko	
+Organistami	Organista	subst:pl:inst:m1	nazwisko	
+Organista	Organista	subst:sg:nom:m1	nazwisko	
+Organistą	Organista	subst:sg:inst:m1	nazwisko	
+Organistę	Organista	subst:sg:acc:m1	nazwisko	
+Organistom	Organista	subst:pl:dat:m1	nazwisko	
+Organisto	Organista	subst:sg:voc:m1	nazwisko	
+Organistowie	Organista	subst:pl:nom.voc:m1	nazwisko	
+Organistów	Organista	subst:pl:gen.acc:m1	nazwisko	
+Organisty	Organista	depr:pl:nom.acc.voc:m2	nazwisko	
+Organisty	Organista	subst:sg:gen:m1	nazwisko	
+Organiście	Organista	subst:sg:dat.loc:m1	nazwisko	
 Orienburgach	Orienburg	subst:pl:loc:m3	nazwa geograficzna	
 Orienburgami	Orienburg	subst:pl:inst:m3	nazwa geograficzna	
 Orienburga	Orienburg	subst:sg:gen:m3	nazwa geograficzna	

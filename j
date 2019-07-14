@@ -11164,18 +11164,29 @@ jaśnieoświeconości	jaśnieoświeconość	subst:sg:voc:f	nazwa pospolita	daw.
 jaśnieoświeconościom	jaśnieoświeconość	subst:pl:dat:f	nazwa pospolita	daw.
 jaśnieoświeconość	jaśnieoświeconość	subst:sg:acc:f	nazwa pospolita	daw.
 jaśnieoświeconość	jaśnieoświeconość	subst:sg:nom:f	nazwa pospolita	daw.
-jaśniepanach	jaśniepan	subst:pl:loc:m1	nazwa pospolita	
-jaśniepana	jaśniepan	subst:sg:gen.acc:m1	nazwa pospolita	
-jaśniepanami	jaśniepan	subst:pl:inst:m1	nazwa pospolita	
-jaśniepanem	jaśniepan	subst:sg:inst:m1	nazwa pospolita	
-jaśniepanie	jaśniepan	subst:sg:voc:m1	nazwa pospolita	
-jaśniepan	jaśniepan	subst:sg:nom:m1	nazwa pospolita	
-jaśniepanom	jaśniepan	subst:pl:dat:m1	nazwa pospolita	
-jaśniepanowie	jaśniepan	subst:pl:nom.voc:m1	nazwa pospolita	
-jaśniepanów	jaśniepan	subst:pl:gen.acc:m1	nazwa pospolita	
-jaśniepanu	jaśniepan	subst:sg:dat:m1	nazwa pospolita	
-jaśniepanu	jaśniepan	subst:sg:loc:m1	nazwa pospolita	
-jaśniepany	jaśniepan	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+jaśniepanach	jaśniepan	subst:pl:loc:m1	nazwa pospolita	hist.
+jaśniepana	jaśniepan	subst:sg:gen.acc:m1	nazwa pospolita	hist.
+jaśniepanami	jaśniepan	subst:pl:inst:m1	nazwa pospolita	hist.
+jaśniepanem	jaśniepan	subst:sg:inst:m1	nazwa pospolita	hist.
+jaśniepanie	jaśniepan	subst:sg:voc:m1	nazwa pospolita	hist.
+jaśniepan	jaśniepan	subst:sg:nom:m1	nazwa pospolita	hist.
+jaśniepanom	jaśniepan	subst:pl:dat:m1	nazwa pospolita	hist.
+jaśniepanowie	jaśniepan	subst:pl:nom.voc:m1	nazwa pospolita	hist.
+jaśniepanów	jaśniepan	subst:pl:gen.acc:m1	nazwa pospolita	hist.
+jaśniepanu	jaśniepan	subst:sg:dat:m1	nazwa pospolita	hist.
+jaśniepanu	jaśniepan	subst:sg:loc:m1	nazwa pospolita	hist.
+jaśniepany	jaśniepan	depr:pl:nom.acc.voc:m2	nazwa pospolita	hist.
+jaśniepaniach	jaśniepani	subst:pl:loc:f	nazwa pospolita	daw.
+jaśniepaniami	jaśniepani	subst:pl:inst:f	nazwa pospolita	daw.
+jaśniepanią	jaśniepani	subst:sg:acc:f	nazwa pospolita	daw.
+jaśniepanią	jaśniepani	subst:sg:inst:f	nazwa pospolita	daw.
+jaśniepanie	jaśniepani	subst:pl:nom.acc.voc:f	nazwa pospolita	daw.
+jaśniepani	jaśniepani	subst:sg:dat.loc:f	nazwa pospolita	daw.
+jaśniepani	jaśniepani	subst:sg:gen:f	nazwa pospolita	daw.
+jaśniepani	jaśniepani	subst:sg:nom:f	nazwa pospolita	daw.
+jaśniepani	jaśniepani	subst:sg:voc:f	nazwa pospolita	daw.
+jaśniepaniom	jaśniepani	subst:pl:dat:f	nazwa pospolita	daw.
+jaśniepań	jaśniepani	subst:pl:gen:f	nazwa pospolita	daw.
 jaśniepańscy	jaśniepański	adj:pl:nom.voc:m1:pos		
 jaśniepańska	jaśniepański	adj:sg:nom.voc:f:pos		
 jaśniepańską	jaśniepański	adj:sg:acc:f:pos		

@@ -825,6 +825,18 @@ Kaliskiem	Kaliskie	subst:sg:loc:n:ncol	nazwa geograficzna
 Kaliskiemu	Kaliskie	subst:sg:dat:n:ncol	nazwa geograficzna	
 Kaliskimi	Kaliskie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Kaliskim	Kaliskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Kalistach	Kalista	subst:pl:loc:m1	nazwisko	
+Kalista	Kalista	subst:sg:nom:m1	nazwisko	
+Kalistami	Kalista	subst:pl:inst:m1	nazwisko	
+Kalistą	Kalista	subst:sg:inst:m1	nazwisko	
+Kalistę	Kalista	subst:sg:acc:m1	nazwisko	
+Kalisto	Kalista	subst:sg:voc:m1	nazwisko	
+Kalistom	Kalista	subst:pl:dat:m1	nazwisko	
+Kalistowie	Kalista	subst:pl:nom.voc:m1	nazwisko	
+Kalistów	Kalista	subst:pl:gen.acc:m1	nazwisko	
+Kalisty	Kalista	depr:pl:nom.acc.voc:m2	nazwisko	
+Kalisty	Kalista	subst:sg:gen:m1	nazwisko	
+Kaliście	Kalista	subst:sg:dat.loc:m1	nazwisko	
 Kalistracie	Kalistrat	subst:sg:loc:m1	imię	
 Kalistracie	Kalistrat	subst:sg:voc:m1	imię	
 Kalistraci	Kalistrat	subst:pl:nom.voc:m1	imię	

@@ -5846,6 +5846,47 @@ nieaprowidujących	aprowidować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg
 nieaprowidującym	aprowidować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
 nieaprowidującym	aprowidować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
 nieaprowidującymi	aprowidować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+nieaprowizowana	aprowizować	ppas:sg:nom.voc:f:imperf:neg		przest.
+nieaprowizowaną	aprowizować	ppas:sg:acc.inst:f:imperf:neg		przest.
+nieaprowizowane	aprowizować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		przest.
+nieaprowizowane	aprowizować	ppas:sg:nom.acc.voc:n:imperf:neg		przest.
+nieaprowizowanego	aprowizować	ppas:sg:acc:m1.m2:imperf:neg		przest.
+nieaprowizowanego	aprowizować	ppas:sg:gen:m1.m2.m3.n:imperf:neg		przest.
+nieaprowizowanej	aprowizować	ppas:sg:gen.dat.loc:f:imperf:neg		przest.
+nieaprowizowanemu	aprowizować	ppas:sg:dat:m1.m2.m3.n:imperf:neg		przest.
+nieaprowizowania	aprowizować	ger:pl:nom.acc:n:imperf:neg		przest.
+nieaprowizowania	aprowizować	ger:sg:gen:n:imperf:neg		przest.
+nieaprowizowaniach	aprowizować	ger:pl:loc:n:imperf:neg		przest.
+nieaprowizowaniami	aprowizować	ger:pl:inst:n:imperf:neg		przest.
+nieaprowizowani	aprowizować	ppas:pl:nom.voc:m1:imperf:neg		przest.
+nieaprowizowanie	aprowizować	ger:sg:nom.acc:n:imperf:neg		przest.
+nieaprowizowaniem	aprowizować	ger:sg:inst:n:imperf:neg		przest.
+nieaprowizowaniom	aprowizować	ger:pl:dat:n:imperf:neg		przest.
+nieaprowizowaniu	aprowizować	ger:sg:dat.loc:n:imperf:neg		przest.
+nieaprowizowany	aprowizować	ppas:sg:acc:m3:imperf:neg		przest.
+nieaprowizowany	aprowizować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		przest.
+nieaprowizowanych	aprowizować	ppas:pl:acc:m1:imperf:neg		przest.
+nieaprowizowanych	aprowizować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		przest.
+nieaprowizowanym	aprowizować	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		przest.
+nieaprowizowanym	aprowizować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		przest.
+nieaprowizowanymi	aprowizować	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		przest.
+nieaprowizowań	aprowizować	ger:pl:gen:n:imperf:neg		przest.
+nieaprowizująca	aprowizować	pact:sg:nom.voc:f:imperf:neg		przest.
+nieaprowizującą	aprowizować	pact:sg:acc.inst:f:imperf:neg		przest.
+nieaprowizujące	aprowizować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		przest.
+nieaprowizujące	aprowizować	pact:sg:nom.acc.voc:n:imperf:neg		przest.
+nieaprowizującego	aprowizować	pact:sg:acc:m1.m2:imperf:neg		przest.
+nieaprowizującego	aprowizować	pact:sg:gen:m1.m2.m3.n:imperf:neg		przest.
+nieaprowizującej	aprowizować	pact:sg:gen.dat.loc:f:imperf:neg		przest.
+nieaprowizującemu	aprowizować	pact:sg:dat:m1.m2.m3.n:imperf:neg		przest.
+nieaprowizujący	aprowizować	pact:pl:nom.voc:m1:imperf:neg		przest.
+nieaprowizujący	aprowizować	pact:sg:acc:m3:imperf:neg		przest.
+nieaprowizujący	aprowizować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		przest.
+nieaprowizujących	aprowizować	pact:pl:acc:m1:imperf:neg		przest.
+nieaprowizujących	aprowizować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		przest.
+nieaprowizującym	aprowizować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		przest.
+nieaprowizującym	aprowizować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		przest.
+nieaprowizującymi	aprowizować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		przest.
 niearabizowana	arabizować	ppas:sg:nom.voc:f:imperf:neg		
 niearabizowaną	arabizować	ppas:sg:acc.inst:f:imperf:neg		
 niearabizowane	arabizować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
