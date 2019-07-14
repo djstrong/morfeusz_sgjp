@@ -11,22 +11,22 @@ TAB-ie	TAB	subst:sg:voc:m3	nazwa pospolita
 TAB-om	TAB	subst:pl:dat:m3	nazwa pospolita	
 TAB-owi	TAB	subst:sg:dat:m3	nazwa pospolita	
 TAB-ów	TAB	subst:pl:gen:m3	nazwa pospolita	
-TAB	TAB	subst:pl:acc:n2	nazwa pospolita	
-TAB	TAB	subst:pl:dat:n2	nazwa pospolita	
-TAB	TAB	subst:pl:gen:n2	nazwa pospolita	
-TAB	TAB	subst:pl:inst:n2	nazwa pospolita	
-TAB	TAB	subst:pl:loc:n2	nazwa pospolita	
-TAB	TAB	subst:pl:nom:n2	nazwa pospolita	
-TAB	TAB	subst:pl:voc:n2	nazwa pospolita	
+TAB	TAB	subst:pl:acc:n:ncol	nazwa pospolita	
+TAB	TAB	subst:pl:dat:n:ncol	nazwa pospolita	
+TAB	TAB	subst:pl:gen:n:ncol	nazwa pospolita	
+TAB	TAB	subst:pl:inst:n:ncol	nazwa pospolita	
+TAB	TAB	subst:pl:loc:n:ncol	nazwa pospolita	
+TAB	TAB	subst:pl:nom:n:ncol	nazwa pospolita	
+TAB	TAB	subst:pl:voc:n:ncol	nazwa pospolita	
 TAB	TAB	subst:sg:acc:m3	nazwa pospolita	
-TAB	TAB	subst:sg:acc:n2	nazwa pospolita	
-TAB	TAB	subst:sg:dat:n2	nazwa pospolita	
-TAB	TAB	subst:sg:gen:n2	nazwa pospolita	
-TAB	TAB	subst:sg:inst:n2	nazwa pospolita	
-TAB	TAB	subst:sg:loc:n2	nazwa pospolita	
+TAB	TAB	subst:sg:acc:n:ncol	nazwa pospolita	
+TAB	TAB	subst:sg:dat:n:ncol	nazwa pospolita	
+TAB	TAB	subst:sg:gen:n:ncol	nazwa pospolita	
+TAB	TAB	subst:sg:inst:n:ncol	nazwa pospolita	
+TAB	TAB	subst:sg:loc:n:ncol	nazwa pospolita	
 TAB	TAB	subst:sg:nom:m3	nazwa pospolita	
-TAB	TAB	subst:sg:nom:n2	nazwa pospolita	
-TAB	TAB	subst:sg:voc:n2	nazwa pospolita	
+TAB	TAB	subst:sg:nom:n:ncol	nazwa pospolita	
+TAB	TAB	subst:sg:voc:n:ncol	nazwa pospolita	
 TAB-u	TAB	subst:sg:gen:m3	nazwa pospolita	
 TAB-y	TAB	subst:pl:acc:m3	nazwa pospolita	
 TAB-y	TAB	subst:pl:nom:m3	nazwa pospolita	
@@ -268,20 +268,20 @@ Tasze	Taha	subst:sg:dat:m1	nazwisko
 Tasze	Taha	subst:sg:loc:m1	nazwisko	
 Taże	Taha	subst:sg:dat:m1	nazwisko	
 Taże	Taha	subst:sg:loc:m1	nazwisko	
-Tahiti	Tahiti	subst:pl:acc:n2	nazwa geograficzna	
-Tahiti	Tahiti	subst:pl:dat:n2	nazwa geograficzna	
-Tahiti	Tahiti	subst:pl:gen:n2	nazwa geograficzna	
-Tahiti	Tahiti	subst:pl:inst:n2	nazwa geograficzna	
-Tahiti	Tahiti	subst:pl:loc:n2	nazwa geograficzna	
-Tahiti	Tahiti	subst:pl:nom:n2	nazwa geograficzna	
-Tahiti	Tahiti	subst:pl:voc:n2	nazwa geograficzna	
-Tahiti	Tahiti	subst:sg:acc:n2	nazwa geograficzna	
-Tahiti	Tahiti	subst:sg:dat:n2	nazwa geograficzna	
-Tahiti	Tahiti	subst:sg:gen:n2	nazwa geograficzna	
-Tahiti	Tahiti	subst:sg:inst:n2	nazwa geograficzna	
-Tahiti	Tahiti	subst:sg:loc:n2	nazwa geograficzna	
-Tahiti	Tahiti	subst:sg:nom:n2	nazwa geograficzna	
-Tahiti	Tahiti	subst:sg:voc:n2	nazwa geograficzna	
+Tahiti	Tahiti	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tahiti	Tahiti	subst:pl:dat:n:ncol	nazwa geograficzna	
+Tahiti	Tahiti	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tahiti	Tahiti	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tahiti	Tahiti	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tahiti	Tahiti	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tahiti	Tahiti	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tahiti	Tahiti	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tahiti	Tahiti	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tahiti	Tahiti	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tahiti	Tahiti	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tahiti	Tahiti	subst:sg:loc:n:ncol	nazwa geograficzna	
+Tahiti	Tahiti	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tahiti	Tahiti	subst:sg:voc:n:ncol	nazwa geograficzna	
 Taine’ach	Taine	subst:pl:loc:m1	nazwisko	
 Taine’ami	Taine	subst:pl:inst:m1	nazwisko	
 Taine’a	Taine	subst:sg:acc:m1	nazwisko	
@@ -860,20 +860,20 @@ Tarasów	Taras	subst:pl:gen:m1	imię
 Taras	Taras	subst:sg:nom:m1	imię	
 Tarasy	Taras	depr:pl:nom:m2	imię	
 Tarasy	Taras	depr:pl:voc:m2	imię	
-Tarcach	Tarce	subst:pl:loc:p2	nazwa geograficzna	
-Tarcach	Tarce	subst:pl:loc:p3	nazwa geograficzna	
-Tarcami	Tarce	subst:pl:inst:p2	nazwa geograficzna	
-Tarcami	Tarce	subst:pl:inst:p3	nazwa geograficzna	
-Tarce	Tarce	subst:pl:acc:p2	nazwa geograficzna	
-Tarce	Tarce	subst:pl:acc:p3	nazwa geograficzna	
-Tarce	Tarce	subst:pl:nom:p2	nazwa geograficzna	
-Tarce	Tarce	subst:pl:nom:p3	nazwa geograficzna	
-Tarce	Tarce	subst:pl:voc:p2	nazwa geograficzna	
-Tarce	Tarce	subst:pl:voc:p3	nazwa geograficzna	
-Tarcom	Tarce	subst:pl:dat:p2	nazwa geograficzna	
-Tarcom	Tarce	subst:pl:dat:p3	nazwa geograficzna	
-Tarzec	Tarce	subst:pl:gen:p2	nazwa geograficzna	
-Tarzec	Tarce	subst:pl:gen:p3	nazwa geograficzna	
+Tarcach	Tarce	subst:pl:loc:n:pt	nazwa geograficzna	
+Tarcach	Tarce	subst:pl:loc:n:pt	nazwa geograficzna	
+Tarcami	Tarce	subst:pl:inst:n:pt	nazwa geograficzna	
+Tarcami	Tarce	subst:pl:inst:n:pt	nazwa geograficzna	
+Tarce	Tarce	subst:pl:acc:n:pt	nazwa geograficzna	
+Tarce	Tarce	subst:pl:acc:n:pt	nazwa geograficzna	
+Tarce	Tarce	subst:pl:nom:n:pt	nazwa geograficzna	
+Tarce	Tarce	subst:pl:nom:n:pt	nazwa geograficzna	
+Tarce	Tarce	subst:pl:voc:n:pt	nazwa geograficzna	
+Tarce	Tarce	subst:pl:voc:n:pt	nazwa geograficzna	
+Tarcom	Tarce	subst:pl:dat:n:pt	nazwa geograficzna	
+Tarcom	Tarce	subst:pl:dat:n:pt	nazwa geograficzna	
+Tarzec	Tarce	subst:pl:gen:n:pt	nazwa geograficzna	
+Tarzec	Tarce	subst:pl:gen:n:pt	nazwa geograficzna	
 Tarczynach	Tarczyn	subst:pl:loc:m3	nazwa geograficzna	
 Tarczynami	Tarczyn	subst:pl:inst:m3	nazwa geograficzna	
 Tarczyna	Tarczyn	subst:sg:gen:m3	nazwa geograficzna	
@@ -1006,20 +1006,20 @@ Tarnobrzeg	Tarnobrzeg	subst:sg:nom:m3	nazwa geograficzna
 Tarnobrzegu	Tarnobrzeg	subst:sg:gen:m3	nazwa geograficzna	
 Tarnobrzegu	Tarnobrzeg	subst:sg:loc:m3	nazwa geograficzna	
 Tarnobrzegu	Tarnobrzeg	subst:sg:voc:m3	nazwa geograficzna	
-Tarnobrzeskich	Tarnobrzeskie	subst:pl:gen:n2	nazwa geograficzna	
-Tarnobrzeskich	Tarnobrzeskie	subst:pl:loc:n2	nazwa geograficzna	
-Tarnobrzeskiego	Tarnobrzeskie	subst:sg:gen:n2	nazwa geograficzna	
-Tarnobrzeskiem	Tarnobrzeskie	subst:sg:inst:n2	nazwa geograficzna	
-Tarnobrzeskiem	Tarnobrzeskie	subst:sg:loc:n2	nazwa geograficzna	
-Tarnobrzeskiemu	Tarnobrzeskie	subst:sg:dat:n2	nazwa geograficzna	
-Tarnobrzeskie	Tarnobrzeskie	subst:pl:acc:n2	nazwa geograficzna	
-Tarnobrzeskie	Tarnobrzeskie	subst:pl:nom:n2	nazwa geograficzna	
-Tarnobrzeskie	Tarnobrzeskie	subst:pl:voc:n2	nazwa geograficzna	
-Tarnobrzeskie	Tarnobrzeskie	subst:sg:acc:n2	nazwa geograficzna	
-Tarnobrzeskie	Tarnobrzeskie	subst:sg:nom:n2	nazwa geograficzna	
-Tarnobrzeskie	Tarnobrzeskie	subst:sg:voc:n2	nazwa geograficzna	
-Tarnobrzeskimi	Tarnobrzeskie	subst:pl:inst:n2	nazwa geograficzna	
-Tarnobrzeskim	Tarnobrzeskie	subst:pl:dat:n2	nazwa geograficzna	
+Tarnobrzeskich	Tarnobrzeskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tarnobrzeskich	Tarnobrzeskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tarnobrzeskiego	Tarnobrzeskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tarnobrzeskiem	Tarnobrzeskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tarnobrzeskiem	Tarnobrzeskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Tarnobrzeskiemu	Tarnobrzeskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tarnobrzeskie	Tarnobrzeskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tarnobrzeskie	Tarnobrzeskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tarnobrzeskie	Tarnobrzeskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tarnobrzeskie	Tarnobrzeskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tarnobrzeskie	Tarnobrzeskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tarnobrzeskie	Tarnobrzeskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Tarnobrzeskimi	Tarnobrzeskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tarnobrzeskim	Tarnobrzeskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Tarnopolach	Tarnopol	subst:pl:loc:m3	nazwa geograficzna	
 Tarnopolami	Tarnopol	subst:pl:inst:m3	nazwa geograficzna	
 Tarnopola	Tarnopol	subst:sg:gen:m3	nazwa geograficzna	
@@ -1035,22 +1035,22 @@ Tarnopol	Tarnopol	subst:sg:acc:m3	nazwa geograficzna
 Tarnopol	Tarnopol	subst:sg:nom:m3	nazwa geograficzna	
 Tarnopolu	Tarnopol	subst:sg:loc:m3	nazwa geograficzna	
 Tarnopolu	Tarnopol	subst:sg:voc:m3	nazwa geograficzna	
-Tarnowach	Tarnowo	subst:pl:loc:n2	nazwa geograficzna	
-Tarnowami	Tarnowo	subst:pl:inst:n2	nazwa geograficzna	
-Tarnowa	Tarnowo	subst:pl:acc:n2	nazwa geograficzna	
-Tarnowa	Tarnowo	subst:pl:nom:n2	nazwa geograficzna	
-Tarnowa	Tarnowo	subst:pl:voc:n2	nazwa geograficzna	
-Tarnowa	Tarnowo	subst:sg:gen:n2	nazwa geograficzna	
-Tarnowem	Tarnowo	subst:sg:inst:n2	nazwa geograficzna	
-Tarnowie	Tarnowo	subst:sg:loc:n2	nazwa geograficzna	
-Tarnowom	Tarnowo	subst:pl:dat:n2	nazwa geograficzna	
-Tarnowo	Tarnowo	subst:sg:acc:n2	nazwa geograficzna	
-Tarnowo	Tarnowo	subst:sg:nom:n2	nazwa geograficzna	
-Tarnowo	Tarnowo	subst:sg:voc:n2	nazwa geograficzna	
-Tarnowów	Tarnowo	subst:pl:gen:n2	nazwa geograficzna	
-Tarnow	Tarnowo	subst:pl:gen:n2	nazwa geograficzna	
-Tarnowu	Tarnowo	subst:sg:dat:n2	nazwa geograficzna	
-Tarnów	Tarnowo	subst:pl:gen:n2	nazwa geograficzna	
+Tarnowach	Tarnowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tarnowami	Tarnowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tarnowa	Tarnowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tarnowa	Tarnowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tarnowa	Tarnowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tarnowa	Tarnowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tarnowem	Tarnowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tarnowie	Tarnowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Tarnowom	Tarnowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Tarnowo	Tarnowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tarnowo	Tarnowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tarnowo	Tarnowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Tarnowów	Tarnowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tarnow	Tarnowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tarnowu	Tarnowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tarnów	Tarnowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Tarnowscy	Tarnowski	subst:pl:nom:m1	nazwisko	
 Tarnowscy	Tarnowski	subst:pl:voc:m1	nazwisko	
 Tarnowskich	Tarnowski	subst:pl:acc:m1	nazwisko	
@@ -1067,20 +1067,20 @@ Tarnowskim	Tarnowski	subst:sg:inst:m1	nazwisko
 Tarnowskim	Tarnowski	subst:sg:loc:m1	nazwisko	
 Tarnowski	Tarnowski	subst:sg:nom:m1	nazwisko	
 Tarnowski	Tarnowski	subst:sg:voc:m1	nazwisko	
-Tarnowskich	Tarnowskie	subst:pl:gen:n2	nazwa geograficzna	
-Tarnowskich	Tarnowskie	subst:pl:loc:n2	nazwa geograficzna	
-Tarnowskiego	Tarnowskie	subst:sg:gen:n2	nazwa geograficzna	
-Tarnowskiem	Tarnowskie	subst:sg:inst:n2	nazwa geograficzna	
-Tarnowskiem	Tarnowskie	subst:sg:loc:n2	nazwa geograficzna	
-Tarnowskiemu	Tarnowskie	subst:sg:dat:n2	nazwa geograficzna	
-Tarnowskie	Tarnowskie	subst:pl:acc:n2	nazwa geograficzna	
-Tarnowskie	Tarnowskie	subst:pl:nom:n2	nazwa geograficzna	
-Tarnowskie	Tarnowskie	subst:pl:voc:n2	nazwa geograficzna	
-Tarnowskie	Tarnowskie	subst:sg:acc:n2	nazwa geograficzna	
-Tarnowskie	Tarnowskie	subst:sg:nom:n2	nazwa geograficzna	
-Tarnowskie	Tarnowskie	subst:sg:voc:n2	nazwa geograficzna	
-Tarnowskimi	Tarnowskie	subst:pl:inst:n2	nazwa geograficzna	
-Tarnowskim	Tarnowskie	subst:pl:dat:n2	nazwa geograficzna	
+Tarnowskich	Tarnowskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tarnowskich	Tarnowskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tarnowskiego	Tarnowskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tarnowskiem	Tarnowskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tarnowskiem	Tarnowskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Tarnowskiemu	Tarnowskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tarnowskie	Tarnowskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tarnowskie	Tarnowskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tarnowskie	Tarnowskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tarnowskie	Tarnowskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tarnowskie	Tarnowskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tarnowskie	Tarnowskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Tarnowskimi	Tarnowskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tarnowskim	Tarnowskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Tarnowach	Tarnów	subst:pl:loc:m3	nazwa geograficzna	
 Tarnowami	Tarnów	subst:pl:inst:m3	nazwa geograficzna	
 Tarnowa	Tarnów	subst:sg:gen:m3	nazwa geograficzna	
@@ -1324,20 +1324,20 @@ Tatiany	Tatiana	subst:pl:acc:f	imię
 Tatiany	Tatiana	subst:pl:nom:f	imię	
 Tatiany	Tatiana	subst:pl:voc:f	imię	
 Tatiany	Tatiana	subst:sg:gen:f	imię	
-Tatrach	Tatry	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Tatrach	Tatry	subst:pl:loc:p3	nazwa geograficzna	
-Tatrami	Tatry	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Tatrami	Tatry	subst:pl:inst:p3	nazwa geograficzna	
-Tatrom	Tatry	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Tatrom	Tatry	subst:pl:dat:p3	nazwa geograficzna	
-Tatr	Tatry	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Tatr	Tatry	subst:pl:gen:p3	nazwa geograficzna	
-Tatry	Tatry	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Tatry	Tatry	subst:pl:acc:p3	nazwa geograficzna	
-Tatry	Tatry	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Tatry	Tatry	subst:pl:nom:p3	nazwa geograficzna	
-Tatry	Tatry	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Tatry	Tatry	subst:pl:voc:p3	nazwa geograficzna	
+Tatrach	Tatry	subst:pl:loc:n:pt	nazwa geograficzna	
+Tatrach	Tatry	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Tatrami	Tatry	subst:pl:inst:n:pt	nazwa geograficzna	
+Tatrami	Tatry	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Tatrom	Tatry	subst:pl:dat:n:pt	nazwa geograficzna	
+Tatrom	Tatry	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Tatr	Tatry	subst:pl:gen:n:pt	nazwa geograficzna	
+Tatr	Tatry	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Tatry	Tatry	subst:pl:acc:n:pt	nazwa geograficzna	
+Tatry	Tatry	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Tatry	Tatry	subst:pl:nom:n:pt	nazwa geograficzna	
+Tatry	Tatry	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Tatry	Tatry	subst:pl:voc:n:pt	nazwa geograficzna	
+Tatry	Tatry	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Taurydach	Tauryda	subst:pl:loc:f	nazwa geograficzna	
 Taurydami	Tauryda	subst:pl:inst:f	nazwa geograficzna	
 Tauryda	Tauryda	subst:sg:nom:f	nazwa geograficzna	
@@ -1368,20 +1368,20 @@ Taylory	Taylor	depr:pl:nom:m2	nazwisko
 Taylory	Taylor	depr:pl:voc:m2	nazwisko	
 Taylorze	Taylor	subst:sg:loc:m1	nazwisko	
 Taylorze	Taylor	subst:sg:voc:m1	nazwisko	
-Tbilisi	Tbilisi	subst:pl:acc:n2	nazwa geograficzna	
-Tbilisi	Tbilisi	subst:pl:dat:n2	nazwa geograficzna	
-Tbilisi	Tbilisi	subst:pl:gen:n2	nazwa geograficzna	
-Tbilisi	Tbilisi	subst:pl:inst:n2	nazwa geograficzna	
-Tbilisi	Tbilisi	subst:pl:loc:n2	nazwa geograficzna	
-Tbilisi	Tbilisi	subst:pl:nom:n2	nazwa geograficzna	
-Tbilisi	Tbilisi	subst:pl:voc:n2	nazwa geograficzna	
-Tbilisi	Tbilisi	subst:sg:acc:n2	nazwa geograficzna	
-Tbilisi	Tbilisi	subst:sg:dat:n2	nazwa geograficzna	
-Tbilisi	Tbilisi	subst:sg:gen:n2	nazwa geograficzna	
-Tbilisi	Tbilisi	subst:sg:inst:n2	nazwa geograficzna	
-Tbilisi	Tbilisi	subst:sg:loc:n2	nazwa geograficzna	
-Tbilisi	Tbilisi	subst:sg:nom:n2	nazwa geograficzna	
-Tbilisi	Tbilisi	subst:sg:voc:n2	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:pl:dat:n:ncol	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:sg:loc:n:ncol	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tbilisi	Tbilisi	subst:sg:voc:n:ncol	nazwa geograficzna	
 Tczewach	Tczew	subst:pl:loc:m3	nazwa geograficzna	
 Tczewami	Tczew	subst:pl:inst:m3	nazwa geograficzna	
 Tczewa	Tczew	subst:sg:gen:m3	nazwa geograficzna	
@@ -1411,20 +1411,20 @@ Tczowy	Tczów	subst:pl:nom:m3	nazwa geograficzna
 Tczowy	Tczów	subst:pl:voc:m3	nazwa geograficzna	
 Tczów	Tczów	subst:sg:acc:m3	nazwa geograficzna	
 Tczów	Tczów	subst:sg:nom:m3	nazwa geograficzna	
-Tebach	Teby	subst:pl:loc:p2	nazwa geograficzna	rzad.|hist.
-Tebach	Teby	subst:pl:loc:p3	nazwa geograficzna	hist.
-Tebami	Teby	subst:pl:inst:p2	nazwa geograficzna	rzad.|hist.
-Tebami	Teby	subst:pl:inst:p3	nazwa geograficzna	hist.
-Tebom	Teby	subst:pl:dat:p2	nazwa geograficzna	rzad.|hist.
-Tebom	Teby	subst:pl:dat:p3	nazwa geograficzna	hist.
-Teb	Teby	subst:pl:gen:p2	nazwa geograficzna	rzad.|hist.
-Teb	Teby	subst:pl:gen:p3	nazwa geograficzna	hist.
-Teby	Teby	subst:pl:acc:p2	nazwa geograficzna	rzad.|hist.
-Teby	Teby	subst:pl:acc:p3	nazwa geograficzna	hist.
-Teby	Teby	subst:pl:nom:p2	nazwa geograficzna	rzad.|hist.
-Teby	Teby	subst:pl:nom:p3	nazwa geograficzna	hist.
-Teby	Teby	subst:pl:voc:p2	nazwa geograficzna	rzad.|hist.
-Teby	Teby	subst:pl:voc:p3	nazwa geograficzna	hist.
+Tebach	Teby	subst:pl:loc:n:pt	nazwa geograficzna	hist.
+Tebach	Teby	subst:pl:loc:n:pt	nazwa geograficzna	rzad.|hist.
+Tebami	Teby	subst:pl:inst:n:pt	nazwa geograficzna	hist.
+Tebami	Teby	subst:pl:inst:n:pt	nazwa geograficzna	rzad.|hist.
+Tebom	Teby	subst:pl:dat:n:pt	nazwa geograficzna	hist.
+Tebom	Teby	subst:pl:dat:n:pt	nazwa geograficzna	rzad.|hist.
+Teb	Teby	subst:pl:gen:n:pt	nazwa geograficzna	hist.
+Teb	Teby	subst:pl:gen:n:pt	nazwa geograficzna	rzad.|hist.
+Teby	Teby	subst:pl:acc:n:pt	nazwa geograficzna	hist.
+Teby	Teby	subst:pl:acc:n:pt	nazwa geograficzna	rzad.|hist.
+Teby	Teby	subst:pl:nom:n:pt	nazwa geograficzna	hist.
+Teby	Teby	subst:pl:nom:n:pt	nazwa geograficzna	rzad.|hist.
+Teby	Teby	subst:pl:voc:n:pt	nazwa geograficzna	hist.
+Teby	Teby	subst:pl:voc:n:pt	nazwa geograficzna	rzad.|hist.
 Teheranach	Teheran	subst:pl:loc:m3	nazwa geograficzna	
 Teheranami	Teheran	subst:pl:inst:m3	nazwa geograficzna	
 Teheranem	Teheran	subst:sg:inst:m3	nazwa geograficzna	
@@ -1654,20 +1654,20 @@ Temistoklesów	Temistokles	subst:pl:gen:m1	imię
 Temistokles	Temistokles	subst:sg:nom:m1	imię	
 Temistoklesy	Temistokles	depr:pl:nom:m2	imię	
 Temistoklesy	Temistokles	depr:pl:voc:m2	imię	
-Tennessee	Tennessee	subst:pl:acc:n2	nazwa geograficzna	
-Tennessee	Tennessee	subst:pl:dat:n2	nazwa geograficzna	
-Tennessee	Tennessee	subst:pl:gen:n2	nazwa geograficzna	
-Tennessee	Tennessee	subst:pl:inst:n2	nazwa geograficzna	
-Tennessee	Tennessee	subst:pl:loc:n2	nazwa geograficzna	
-Tennessee	Tennessee	subst:pl:nom:n2	nazwa geograficzna	
-Tennessee	Tennessee	subst:pl:voc:n2	nazwa geograficzna	
-Tennessee	Tennessee	subst:sg:acc:n2	nazwa geograficzna	
-Tennessee	Tennessee	subst:sg:dat:n2	nazwa geograficzna	
-Tennessee	Tennessee	subst:sg:gen:n2	nazwa geograficzna	
-Tennessee	Tennessee	subst:sg:inst:n2	nazwa geograficzna	
-Tennessee	Tennessee	subst:sg:loc:n2	nazwa geograficzna	
-Tennessee	Tennessee	subst:sg:nom:n2	nazwa geograficzna	
-Tennessee	Tennessee	subst:sg:voc:n2	nazwa geograficzna	
+Tennessee	Tennessee	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tennessee	Tennessee	subst:pl:dat:n:ncol	nazwa geograficzna	
+Tennessee	Tennessee	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tennessee	Tennessee	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tennessee	Tennessee	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tennessee	Tennessee	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tennessee	Tennessee	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tennessee	Tennessee	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tennessee	Tennessee	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tennessee	Tennessee	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tennessee	Tennessee	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tennessee	Tennessee	subst:sg:loc:n:ncol	nazwa geograficzna	
+Tennessee	Tennessee	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tennessee	Tennessee	subst:sg:voc:n:ncol	nazwa geograficzna	
 Tennysonach	Tennyson	subst:pl:loc:m1	nazwisko	
 Tennysonami	Tennyson	subst:pl:inst:m1	nazwisko	
 Tennysona	Tennyson	subst:sg:acc:m1	nazwisko	
@@ -2127,20 +2127,20 @@ Terleckim	Terlecki	subst:sg:inst:m1	nazwisko
 Terleckim	Terlecki	subst:sg:loc:m1	nazwisko	
 Terlecki	Terlecki	subst:sg:nom:m1	nazwisko	
 Terlecki	Terlecki	subst:sg:voc:m1	nazwisko	
-Termopilach	Termopile	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Termopilach	Termopile	subst:pl:loc:p3	nazwa geograficzna	
-Termopilami	Termopile	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Termopilami	Termopile	subst:pl:inst:p3	nazwa geograficzna	
-Termopile	Termopile	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Termopile	Termopile	subst:pl:acc:p3	nazwa geograficzna	
-Termopile	Termopile	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Termopile	Termopile	subst:pl:nom:p3	nazwa geograficzna	
-Termopile	Termopile	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Termopile	Termopile	subst:pl:voc:p3	nazwa geograficzna	
-Termopili	Termopile	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Termopili	Termopile	subst:pl:gen:p3	nazwa geograficzna	
-Termopilom	Termopile	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Termopilom	Termopile	subst:pl:dat:p3	nazwa geograficzna	
+Termopilach	Termopile	subst:pl:loc:n:pt	nazwa geograficzna	
+Termopilach	Termopile	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Termopilami	Termopile	subst:pl:inst:n:pt	nazwa geograficzna	
+Termopilami	Termopile	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Termopile	Termopile	subst:pl:acc:n:pt	nazwa geograficzna	
+Termopile	Termopile	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Termopile	Termopile	subst:pl:nom:n:pt	nazwa geograficzna	
+Termopile	Termopile	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Termopile	Termopile	subst:pl:voc:n:pt	nazwa geograficzna	
+Termopile	Termopile	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Termopili	Termopile	subst:pl:gen:n:pt	nazwa geograficzna	
+Termopili	Termopile	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Termopilom	Termopile	subst:pl:dat:n:pt	nazwa geograficzna	
+Termopilom	Termopile	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Tertulianach	Tertulian	subst:pl:loc:m1	imię	
 Tertulianami	Tertulian	subst:pl:inst:m1	imię	
 Tertuliana	Tertulian	subst:sg:acc:m1	imię	
@@ -2205,33 +2205,33 @@ Tesalonikom	Tesalonika	subst:pl:dat:f	nazwa geograficzna	hist.
 Tesaloniko	Tesalonika	subst:sg:voc:f	nazwa geograficzna	hist.
 Tesalonik	Tesalonika	subst:pl:gen:f	nazwa geograficzna	hist.
 Tesco	Tesco	subst:pl:acc:m3	nazwa firmy	
-Tesco	Tesco	subst:pl:acc:n2	nazwa firmy	
+Tesco	Tesco	subst:pl:acc:n:ncol	nazwa firmy	
 Tesco	Tesco	subst:pl:dat:m3	nazwa firmy	
-Tesco	Tesco	subst:pl:dat:n2	nazwa firmy	
+Tesco	Tesco	subst:pl:dat:n:ncol	nazwa firmy	
 Tesco	Tesco	subst:pl:gen:m3	nazwa firmy	
-Tesco	Tesco	subst:pl:gen:n2	nazwa firmy	
+Tesco	Tesco	subst:pl:gen:n:ncol	nazwa firmy	
 Tesco	Tesco	subst:pl:inst:m3	nazwa firmy	
-Tesco	Tesco	subst:pl:inst:n2	nazwa firmy	
+Tesco	Tesco	subst:pl:inst:n:ncol	nazwa firmy	
 Tesco	Tesco	subst:pl:loc:m3	nazwa firmy	
-Tesco	Tesco	subst:pl:loc:n2	nazwa firmy	
+Tesco	Tesco	subst:pl:loc:n:ncol	nazwa firmy	
 Tesco	Tesco	subst:pl:nom:m3	nazwa firmy	
-Tesco	Tesco	subst:pl:nom:n2	nazwa firmy	
+Tesco	Tesco	subst:pl:nom:n:ncol	nazwa firmy	
 Tesco	Tesco	subst:pl:voc:m3	nazwa firmy	
-Tesco	Tesco	subst:pl:voc:n2	nazwa firmy	
+Tesco	Tesco	subst:pl:voc:n:ncol	nazwa firmy	
 Tesco	Tesco	subst:sg:acc:m3	nazwa firmy	
-Tesco	Tesco	subst:sg:acc:n2	nazwa firmy	
+Tesco	Tesco	subst:sg:acc:n:ncol	nazwa firmy	
 Tesco	Tesco	subst:sg:dat:m3	nazwa firmy	
-Tesco	Tesco	subst:sg:dat:n2	nazwa firmy	
+Tesco	Tesco	subst:sg:dat:n:ncol	nazwa firmy	
 Tesco	Tesco	subst:sg:gen:m3	nazwa firmy	
-Tesco	Tesco	subst:sg:gen:n2	nazwa firmy	
+Tesco	Tesco	subst:sg:gen:n:ncol	nazwa firmy	
 Tesco	Tesco	subst:sg:inst:m3	nazwa firmy	
-Tesco	Tesco	subst:sg:inst:n2	nazwa firmy	
+Tesco	Tesco	subst:sg:inst:n:ncol	nazwa firmy	
 Tesco	Tesco	subst:sg:loc:m3	nazwa firmy	
-Tesco	Tesco	subst:sg:loc:n2	nazwa firmy	
+Tesco	Tesco	subst:sg:loc:n:ncol	nazwa firmy	
 Tesco	Tesco	subst:sg:nom:m3	nazwa firmy	
-Tesco	Tesco	subst:sg:nom:n2	nazwa firmy	
+Tesco	Tesco	subst:sg:nom:n:ncol	nazwa firmy	
 Tesco	Tesco	subst:sg:voc:m3	nazwa firmy	
-Tesco	Tesco	subst:sg:voc:n2	nazwa firmy	
+Tesco	Tesco	subst:sg:voc:n:ncol	nazwa firmy	
 Tesiach	Tesia	subst:pl:loc:f	imię	
 Tesiami	Tesia	subst:pl:inst:f	imię	
 Tesia	Tesia	subst:sg:nom:f	imię	
@@ -2247,13 +2247,13 @@ Tesi	Tesia	subst:sg:gen:f	imię
 Tesi	Tesia	subst:sg:loc:f	imię	
 Tesiu	Tesia	subst:sg:voc:f	imię	
 Teś	Tesia	subst:pl:gen:f	imię	char.
-Tesmoforiach	Tesmoforie	subst:pl:loc:p3	nazwa święta	hist.
-Tesmoforiami	Tesmoforie	subst:pl:inst:p3	nazwa święta	hist.
-Tesmoforie	Tesmoforie	subst:pl:acc:p3	nazwa święta	hist.
-Tesmoforie	Tesmoforie	subst:pl:nom:p3	nazwa święta	hist.
-Tesmoforie	Tesmoforie	subst:pl:voc:p3	nazwa święta	hist.
-Tesmoforiom	Tesmoforie	subst:pl:dat:p3	nazwa święta	hist.
-Tesmoforiów	Tesmoforie	subst:pl:gen:p3	nazwa święta	hist.
+Tesmoforiach	Tesmoforie	subst:pl:loc:n:pt	nazwa święta	hist.
+Tesmoforiami	Tesmoforie	subst:pl:inst:n:pt	nazwa święta	hist.
+Tesmoforie	Tesmoforie	subst:pl:acc:n:pt	nazwa święta	hist.
+Tesmoforie	Tesmoforie	subst:pl:nom:n:pt	nazwa święta	hist.
+Tesmoforie	Tesmoforie	subst:pl:voc:n:pt	nazwa święta	hist.
+Tesmoforiom	Tesmoforie	subst:pl:dat:n:pt	nazwa święta	hist.
+Tesmoforiów	Tesmoforie	subst:pl:gen:n:pt	nazwa święta	hist.
 Tet	Tet	subst:pl:acc:m3	nazwa święta	
 Tet	Tet	subst:pl:dat:m3	nazwa święta	
 Tet	Tet	subst:pl:gen:m3	nazwa święta	
@@ -2383,33 +2383,33 @@ Tęgomirze	Tęgomir	subst:sg:voc:m1	imię
 Tęgomirzy	Tęgomir	subst:pl:nom:m1	imię	
 Tęgomirzy	Tęgomir	subst:pl:voc:m1	imię	
 TGV	TGV	subst:pl:acc:m3	marka	
-TGV	TGV	subst:pl:acc:n2	marka	
+TGV	TGV	subst:pl:acc:n:ncol	marka	
 TGV	TGV	subst:pl:dat:m3	marka	
-TGV	TGV	subst:pl:dat:n2	marka	
+TGV	TGV	subst:pl:dat:n:ncol	marka	
 TGV	TGV	subst:pl:gen:m3	marka	
-TGV	TGV	subst:pl:gen:n2	marka	
+TGV	TGV	subst:pl:gen:n:ncol	marka	
 TGV	TGV	subst:pl:inst:m3	marka	
-TGV	TGV	subst:pl:inst:n2	marka	
+TGV	TGV	subst:pl:inst:n:ncol	marka	
 TGV	TGV	subst:pl:loc:m3	marka	
-TGV	TGV	subst:pl:loc:n2	marka	
+TGV	TGV	subst:pl:loc:n:ncol	marka	
 TGV	TGV	subst:pl:nom:m3	marka	
-TGV	TGV	subst:pl:nom:n2	marka	
+TGV	TGV	subst:pl:nom:n:ncol	marka	
 TGV	TGV	subst:pl:voc:m3	marka	
-TGV	TGV	subst:pl:voc:n2	marka	
+TGV	TGV	subst:pl:voc:n:ncol	marka	
 TGV	TGV	subst:sg:acc:m3	marka	
-TGV	TGV	subst:sg:acc:n2	marka	
+TGV	TGV	subst:sg:acc:n:ncol	marka	
 TGV	TGV	subst:sg:dat:m3	marka	
-TGV	TGV	subst:sg:dat:n2	marka	
+TGV	TGV	subst:sg:dat:n:ncol	marka	
 TGV	TGV	subst:sg:gen:m3	marka	
-TGV	TGV	subst:sg:gen:n2	marka	
+TGV	TGV	subst:sg:gen:n:ncol	marka	
 TGV	TGV	subst:sg:inst:m3	marka	
-TGV	TGV	subst:sg:inst:n2	marka	
+TGV	TGV	subst:sg:inst:n:ncol	marka	
 TGV	TGV	subst:sg:loc:m3	marka	
-TGV	TGV	subst:sg:loc:n2	marka	
+TGV	TGV	subst:sg:loc:n:ncol	marka	
 TGV	TGV	subst:sg:nom:m3	marka	
-TGV	TGV	subst:sg:nom:n2	marka	
+TGV	TGV	subst:sg:nom:n:ncol	marka	
 TGV	TGV	subst:sg:voc:m3	marka	
-TGV	TGV	subst:sg:voc:n2	marka	
+TGV	TGV	subst:sg:voc:n:ncol	marka	
 Thackerayach	Thackeray	subst:pl:loc:m1	nazwisko	
 Thackerayami	Thackeray	subst:pl:inst:m1	nazwisko	
 Thackeraya	Thackeray	subst:sg:acc:m1	nazwisko	
@@ -2814,22 +2814,22 @@ TKJ-otu	TKJ	subst:sg:gen:m3	nazwa organizacji
 TKJ-oty	TKJ	subst:pl:acc:m3	nazwa organizacji	
 TKJ-oty	TKJ	subst:pl:nom:m3	nazwa organizacji	
 TKJ-oty	TKJ	subst:pl:voc:m3	nazwa organizacji	
-TKJ	TKJ	subst:pl:acc:n2	nazwa organizacji	
-TKJ	TKJ	subst:pl:dat:n2	nazwa organizacji	
-TKJ	TKJ	subst:pl:gen:n2	nazwa organizacji	
-TKJ	TKJ	subst:pl:inst:n2	nazwa organizacji	
-TKJ	TKJ	subst:pl:loc:n2	nazwa organizacji	
-TKJ	TKJ	subst:pl:nom:n2	nazwa organizacji	
-TKJ	TKJ	subst:pl:voc:n2	nazwa organizacji	
+TKJ	TKJ	subst:pl:acc:n:ncol	nazwa organizacji	
+TKJ	TKJ	subst:pl:dat:n:ncol	nazwa organizacji	
+TKJ	TKJ	subst:pl:gen:n:ncol	nazwa organizacji	
+TKJ	TKJ	subst:pl:inst:n:ncol	nazwa organizacji	
+TKJ	TKJ	subst:pl:loc:n:ncol	nazwa organizacji	
+TKJ	TKJ	subst:pl:nom:n:ncol	nazwa organizacji	
+TKJ	TKJ	subst:pl:voc:n:ncol	nazwa organizacji	
 TKJ	TKJ	subst:sg:acc:m3	nazwa organizacji	
-TKJ	TKJ	subst:sg:acc:n2	nazwa organizacji	
-TKJ	TKJ	subst:sg:dat:n2	nazwa organizacji	
-TKJ	TKJ	subst:sg:gen:n2	nazwa organizacji	
-TKJ	TKJ	subst:sg:inst:n2	nazwa organizacji	
-TKJ	TKJ	subst:sg:loc:n2	nazwa organizacji	
+TKJ	TKJ	subst:sg:acc:n:ncol	nazwa organizacji	
+TKJ	TKJ	subst:sg:dat:n:ncol	nazwa organizacji	
+TKJ	TKJ	subst:sg:gen:n:ncol	nazwa organizacji	
+TKJ	TKJ	subst:sg:inst:n:ncol	nazwa organizacji	
+TKJ	TKJ	subst:sg:loc:n:ncol	nazwa organizacji	
 TKJ	TKJ	subst:sg:nom:m3	nazwa organizacji	
-TKJ	TKJ	subst:sg:nom:n2	nazwa organizacji	
-TKJ	TKJ	subst:sg:voc:n2	nazwa organizacji	
+TKJ	TKJ	subst:sg:nom:n:ncol	nazwa organizacji	
+TKJ	TKJ	subst:sg:voc:n:ncol	nazwa organizacji	
 TKKF-ach	TKKF	subst:pl:loc:m3	nazwa organizacji	
 TKKF-ami	TKKF	subst:pl:inst:m3	nazwa organizacji	
 TKKF-em	TKKF	subst:sg:inst:m3	nazwa organizacji	
@@ -2838,42 +2838,42 @@ TKKF-ie	TKKF	subst:sg:voc:m3	nazwa organizacji
 TKKF-om	TKKF	subst:pl:dat:m3	nazwa organizacji	
 TKKF-owi	TKKF	subst:sg:dat:m3	nazwa organizacji	
 TKKF-ów	TKKF	subst:pl:gen:m3	nazwa organizacji	
-TKKF	TKKF	subst:pl:acc:n2	nazwa organizacji	
-TKKF	TKKF	subst:pl:dat:n2	nazwa organizacji	
-TKKF	TKKF	subst:pl:gen:n2	nazwa organizacji	
-TKKF	TKKF	subst:pl:inst:n2	nazwa organizacji	
-TKKF	TKKF	subst:pl:loc:n2	nazwa organizacji	
-TKKF	TKKF	subst:pl:nom:n2	nazwa organizacji	
-TKKF	TKKF	subst:pl:voc:n2	nazwa organizacji	
+TKKF	TKKF	subst:pl:acc:n:ncol	nazwa organizacji	
+TKKF	TKKF	subst:pl:dat:n:ncol	nazwa organizacji	
+TKKF	TKKF	subst:pl:gen:n:ncol	nazwa organizacji	
+TKKF	TKKF	subst:pl:inst:n:ncol	nazwa organizacji	
+TKKF	TKKF	subst:pl:loc:n:ncol	nazwa organizacji	
+TKKF	TKKF	subst:pl:nom:n:ncol	nazwa organizacji	
+TKKF	TKKF	subst:pl:voc:n:ncol	nazwa organizacji	
 TKKF	TKKF	subst:sg:acc:m3	nazwa organizacji	
-TKKF	TKKF	subst:sg:acc:n2	nazwa organizacji	
-TKKF	TKKF	subst:sg:dat:n2	nazwa organizacji	
-TKKF	TKKF	subst:sg:gen:n2	nazwa organizacji	
-TKKF	TKKF	subst:sg:inst:n2	nazwa organizacji	
-TKKF	TKKF	subst:sg:loc:n2	nazwa organizacji	
+TKKF	TKKF	subst:sg:acc:n:ncol	nazwa organizacji	
+TKKF	TKKF	subst:sg:dat:n:ncol	nazwa organizacji	
+TKKF	TKKF	subst:sg:gen:n:ncol	nazwa organizacji	
+TKKF	TKKF	subst:sg:inst:n:ncol	nazwa organizacji	
+TKKF	TKKF	subst:sg:loc:n:ncol	nazwa organizacji	
 TKKF	TKKF	subst:sg:nom:m3	nazwa organizacji	
-TKKF	TKKF	subst:sg:nom:n2	nazwa organizacji	
-TKKF	TKKF	subst:sg:voc:n2	nazwa organizacji	
+TKKF	TKKF	subst:sg:nom:n:ncol	nazwa organizacji	
+TKKF	TKKF	subst:sg:voc:n:ncol	nazwa organizacji	
 TKKF-u	TKKF	subst:sg:gen:m3	nazwa organizacji	
 TKKF-y	TKKF	subst:pl:acc:m3	nazwa organizacji	
 TKKF-y	TKKF	subst:pl:nom:m3	nazwa organizacji	
 TKKF-y	TKKF	subst:pl:voc:m3	nazwa organizacji	
-Tłuchowach	Tłuchowo	subst:pl:loc:n2	nazwa geograficzna	
-Tłuchowami	Tłuchowo	subst:pl:inst:n2	nazwa geograficzna	
-Tłuchowa	Tłuchowo	subst:pl:acc:n2	nazwa geograficzna	
-Tłuchowa	Tłuchowo	subst:pl:nom:n2	nazwa geograficzna	
-Tłuchowa	Tłuchowo	subst:pl:voc:n2	nazwa geograficzna	
-Tłuchowa	Tłuchowo	subst:sg:gen:n2	nazwa geograficzna	
-Tłuchowem	Tłuchowo	subst:sg:inst:n2	nazwa geograficzna	
-Tłuchowie	Tłuchowo	subst:sg:loc:n2	nazwa geograficzna	
-Tłuchowom	Tłuchowo	subst:pl:dat:n2	nazwa geograficzna	
-Tłuchowo	Tłuchowo	subst:sg:acc:n2	nazwa geograficzna	
-Tłuchowo	Tłuchowo	subst:sg:nom:n2	nazwa geograficzna	
-Tłuchowo	Tłuchowo	subst:sg:voc:n2	nazwa geograficzna	
-Tłuchowów	Tłuchowo	subst:pl:gen:n2	nazwa geograficzna	
-Tłuchow	Tłuchowo	subst:pl:gen:n2	nazwa geograficzna	
-Tłuchowu	Tłuchowo	subst:sg:dat:n2	nazwa geograficzna	
-Tłuchów	Tłuchowo	subst:pl:gen:n2	nazwa geograficzna	
+Tłuchowach	Tłuchowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tłuchowami	Tłuchowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tłuchowa	Tłuchowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tłuchowa	Tłuchowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tłuchowa	Tłuchowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tłuchowa	Tłuchowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tłuchowem	Tłuchowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tłuchowie	Tłuchowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Tłuchowom	Tłuchowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Tłuchowo	Tłuchowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tłuchowo	Tłuchowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tłuchowo	Tłuchowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Tłuchowów	Tłuchowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tłuchow	Tłuchowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tłuchowu	Tłuchowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tłuchów	Tłuchowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Tłuszczach	Tłuszcz	subst:pl:loc:m3	nazwa geograficzna	
 Tłuszczami	Tłuszcz	subst:pl:inst:m3	nazwa geograficzna	
 Tłuszcza	Tłuszcz	subst:sg:gen:m3	nazwa geograficzna	
@@ -2888,34 +2888,34 @@ Tłuszcz	Tłuszcz	subst:sg:acc:m3	nazwa geograficzna
 Tłuszcz	Tłuszcz	subst:sg:nom:m3	nazwa geograficzna	
 Tłuszczu	Tłuszcz	subst:sg:loc:m3	nazwa geograficzna	
 Tłuszczu	Tłuszcz	subst:sg:voc:m3	nazwa geograficzna	
-TNT	TNT	subst:pl:acc:n2	nazwa firmy	
-TNT	TNT	subst:pl:dat:n2	nazwa firmy	
-TNT	TNT	subst:pl:gen:n2	nazwa firmy	
-TNT	TNT	subst:pl:inst:n2	nazwa firmy	
-TNT	TNT	subst:pl:loc:n2	nazwa firmy	
-TNT	TNT	subst:pl:nom:n2	nazwa firmy	
-TNT	TNT	subst:pl:voc:n2	nazwa firmy	
-TNT	TNT	subst:sg:acc:n2	nazwa firmy	
-TNT	TNT	subst:sg:dat:n2	nazwa firmy	
-TNT	TNT	subst:sg:gen:n2	nazwa firmy	
-TNT	TNT	subst:sg:inst:n2	nazwa firmy	
-TNT	TNT	subst:sg:loc:n2	nazwa firmy	
-TNT	TNT	subst:sg:nom:n2	nazwa firmy	
-TNT	TNT	subst:sg:voc:n2	nazwa firmy	
-Tobago	Tobago	subst:pl:acc:n2	nazwa geograficzna	
-Tobago	Tobago	subst:pl:dat:n2	nazwa geograficzna	
-Tobago	Tobago	subst:pl:gen:n2	nazwa geograficzna	
-Tobago	Tobago	subst:pl:inst:n2	nazwa geograficzna	
-Tobago	Tobago	subst:pl:loc:n2	nazwa geograficzna	
-Tobago	Tobago	subst:pl:nom:n2	nazwa geograficzna	
-Tobago	Tobago	subst:pl:voc:n2	nazwa geograficzna	
-Tobago	Tobago	subst:sg:acc:n2	nazwa geograficzna	
-Tobago	Tobago	subst:sg:dat:n2	nazwa geograficzna	
-Tobago	Tobago	subst:sg:gen:n2	nazwa geograficzna	
-Tobago	Tobago	subst:sg:inst:n2	nazwa geograficzna	
-Tobago	Tobago	subst:sg:loc:n2	nazwa geograficzna	
-Tobago	Tobago	subst:sg:nom:n2	nazwa geograficzna	
-Tobago	Tobago	subst:sg:voc:n2	nazwa geograficzna	
+TNT	TNT	subst:pl:acc:n:ncol	nazwa firmy	
+TNT	TNT	subst:pl:dat:n:ncol	nazwa firmy	
+TNT	TNT	subst:pl:gen:n:ncol	nazwa firmy	
+TNT	TNT	subst:pl:inst:n:ncol	nazwa firmy	
+TNT	TNT	subst:pl:loc:n:ncol	nazwa firmy	
+TNT	TNT	subst:pl:nom:n:ncol	nazwa firmy	
+TNT	TNT	subst:pl:voc:n:ncol	nazwa firmy	
+TNT	TNT	subst:sg:acc:n:ncol	nazwa firmy	
+TNT	TNT	subst:sg:dat:n:ncol	nazwa firmy	
+TNT	TNT	subst:sg:gen:n:ncol	nazwa firmy	
+TNT	TNT	subst:sg:inst:n:ncol	nazwa firmy	
+TNT	TNT	subst:sg:loc:n:ncol	nazwa firmy	
+TNT	TNT	subst:sg:nom:n:ncol	nazwa firmy	
+TNT	TNT	subst:sg:voc:n:ncol	nazwa firmy	
+Tobago	Tobago	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tobago	Tobago	subst:pl:dat:n:ncol	nazwa geograficzna	
+Tobago	Tobago	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tobago	Tobago	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tobago	Tobago	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tobago	Tobago	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tobago	Tobago	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tobago	Tobago	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tobago	Tobago	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tobago	Tobago	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tobago	Tobago	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tobago	Tobago	subst:sg:loc:n:ncol	nazwa geograficzna	
+Tobago	Tobago	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tobago	Tobago	subst:sg:voc:n:ncol	nazwa geograficzna	
 Tobiaszach	Tobiasz	subst:pl:loc:m1	imię	
 Tobiaszami	Tobiasz	subst:pl:inst:m1	imię	
 Tobiasza	Tobiasz	subst:sg:acc:m1	imię	
@@ -3092,34 +3092,34 @@ Tokarzów	Tokarz	subst:pl:gen:m1	nazwisko
 Tokarz	Tokarz	subst:sg:nom:m1	nazwisko	
 Tokarzu	Tokarz	subst:sg:loc:m1	nazwisko	
 Tokarzu	Tokarz	subst:sg:voc:m1	nazwisko	
-Tokio	Tokio	subst:pl:acc:n2	nazwa geograficzna	
-Tokio	Tokio	subst:pl:dat:n2	nazwa geograficzna	
-Tokio	Tokio	subst:pl:gen:n2	nazwa geograficzna	
-Tokio	Tokio	subst:pl:inst:n2	nazwa geograficzna	
-Tokio	Tokio	subst:pl:loc:n2	nazwa geograficzna	
-Tokio	Tokio	subst:pl:nom:n2	nazwa geograficzna	
-Tokio	Tokio	subst:pl:voc:n2	nazwa geograficzna	
-Tokio	Tokio	subst:sg:acc:n2	nazwa geograficzna	
-Tokio	Tokio	subst:sg:dat:n2	nazwa geograficzna	
-Tokio	Tokio	subst:sg:gen:n2	nazwa geograficzna	
-Tokio	Tokio	subst:sg:inst:n2	nazwa geograficzna	
-Tokio	Tokio	subst:sg:loc:n2	nazwa geograficzna	
-Tokio	Tokio	subst:sg:nom:n2	nazwa geograficzna	
-Tokio	Tokio	subst:sg:voc:n2	nazwa geograficzna	
-Toledo	Toledo	subst:pl:acc:n2	nazwa geograficzna	
-Toledo	Toledo	subst:pl:dat:n2	nazwa geograficzna	
-Toledo	Toledo	subst:pl:gen:n2	nazwa geograficzna	
-Toledo	Toledo	subst:pl:inst:n2	nazwa geograficzna	
-Toledo	Toledo	subst:pl:loc:n2	nazwa geograficzna	
-Toledo	Toledo	subst:pl:nom:n2	nazwa geograficzna	
-Toledo	Toledo	subst:pl:voc:n2	nazwa geograficzna	
-Toledo	Toledo	subst:sg:acc:n2	nazwa geograficzna	
-Toledo	Toledo	subst:sg:dat:n2	nazwa geograficzna	
-Toledo	Toledo	subst:sg:gen:n2	nazwa geograficzna	
-Toledo	Toledo	subst:sg:inst:n2	nazwa geograficzna	
-Toledo	Toledo	subst:sg:loc:n2	nazwa geograficzna	
-Toledo	Toledo	subst:sg:nom:n2	nazwa geograficzna	
-Toledo	Toledo	subst:sg:voc:n2	nazwa geograficzna	
+Tokio	Tokio	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tokio	Tokio	subst:pl:dat:n:ncol	nazwa geograficzna	
+Tokio	Tokio	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tokio	Tokio	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tokio	Tokio	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tokio	Tokio	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tokio	Tokio	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tokio	Tokio	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tokio	Tokio	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tokio	Tokio	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tokio	Tokio	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tokio	Tokio	subst:sg:loc:n:ncol	nazwa geograficzna	
+Tokio	Tokio	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tokio	Tokio	subst:sg:voc:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Toledo	Toledo	subst:sg:voc:n:ncol	nazwa geograficzna	
 Tolek	Tolek	subst:sg:nom:m1	imię	
 Tolkach	Tolek	subst:pl:loc:m1	imię	
 Tolkami	Tolek	subst:pl:inst:m1	imię	
@@ -3218,20 +3218,20 @@ Tolkienów	Tolkien	subst:pl:gen:m1	nazwisko
 Tolkien	Tolkien	subst:sg:nom:m1	nazwisko	
 Tolkieny	Tolkien	depr:pl:nom:m2	nazwisko	
 Tolkieny	Tolkien	depr:pl:voc:m2	nazwisko	
-Tolkmickach	Tolkmicko	subst:pl:loc:n2	nazwa geograficzna	
-Tolkmickami	Tolkmicko	subst:pl:inst:n2	nazwa geograficzna	
-Tolkmicka	Tolkmicko	subst:pl:acc:n2	nazwa geograficzna	
-Tolkmicka	Tolkmicko	subst:pl:nom:n2	nazwa geograficzna	
-Tolkmicka	Tolkmicko	subst:pl:voc:n2	nazwa geograficzna	
-Tolkmicka	Tolkmicko	subst:sg:gen:n2	nazwa geograficzna	
-Tolkmickiem	Tolkmicko	subst:sg:inst:n2	nazwa geograficzna	
-Tolkmickom	Tolkmicko	subst:pl:dat:n2	nazwa geograficzna	
-Tolkmicko	Tolkmicko	subst:sg:acc:n2	nazwa geograficzna	
-Tolkmicko	Tolkmicko	subst:sg:nom:n2	nazwa geograficzna	
-Tolkmicko	Tolkmicko	subst:sg:voc:n2	nazwa geograficzna	
-Tolkmick	Tolkmicko	subst:pl:gen:n2	nazwa geograficzna	
-Tolkmicku	Tolkmicko	subst:sg:dat:n2	nazwa geograficzna	
-Tolkmicku	Tolkmicko	subst:sg:loc:n2	nazwa geograficzna	
+Tolkmickach	Tolkmicko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tolkmickami	Tolkmicko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tolkmicka	Tolkmicko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tolkmicka	Tolkmicko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tolkmicka	Tolkmicko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tolkmicka	Tolkmicko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tolkmickiem	Tolkmicko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tolkmickom	Tolkmicko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Tolkmicko	Tolkmicko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tolkmicko	Tolkmicko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tolkmicko	Tolkmicko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Tolkmick	Tolkmicko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tolkmicku	Tolkmicko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tolkmicku	Tolkmicko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Tolach	Tolo	subst:pl:loc:m1	imię	
 Tolami	Tolo	subst:pl:inst:m1	imię	
 Tola	Tolo	subst:sg:acc:m1	imię	
@@ -3457,20 +3457,20 @@ Tomków	Tomek	subst:pl:acc:m1	imię
 Tomków	Tomek	subst:pl:gen:m1	imię	
 Tomku	Tomek	subst:sg:loc:m1	imię	
 Tomku	Tomek	subst:sg:voc:m1	imię	
-Tomicach	Tomice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Tomicach	Tomice	subst:pl:loc:p3	nazwa geograficzna	
-Tomicami	Tomice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Tomicami	Tomice	subst:pl:inst:p3	nazwa geograficzna	
-Tomice	Tomice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Tomice	Tomice	subst:pl:acc:p3	nazwa geograficzna	
-Tomice	Tomice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Tomice	Tomice	subst:pl:nom:p3	nazwa geograficzna	
-Tomice	Tomice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Tomice	Tomice	subst:pl:voc:p3	nazwa geograficzna	
-Tomicom	Tomice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Tomicom	Tomice	subst:pl:dat:p3	nazwa geograficzna	
-Tomic	Tomice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Tomic	Tomice	subst:pl:gen:p3	nazwa geograficzna	
+Tomicach	Tomice	subst:pl:loc:n:pt	nazwa geograficzna	
+Tomicach	Tomice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Tomicami	Tomice	subst:pl:inst:n:pt	nazwa geograficzna	
+Tomicami	Tomice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Tomice	Tomice	subst:pl:acc:n:pt	nazwa geograficzna	
+Tomice	Tomice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Tomice	Tomice	subst:pl:nom:n:pt	nazwa geograficzna	
+Tomice	Tomice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Tomice	Tomice	subst:pl:voc:n:pt	nazwa geograficzna	
+Tomice	Tomice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Tomicom	Tomice	subst:pl:dat:n:pt	nazwa geograficzna	
+Tomicom	Tomice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Tomic	Tomice	subst:pl:gen:n:pt	nazwa geograficzna	
+Tomic	Tomice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Tomile	Tomił	subst:sg:loc:m1	imię	
 Tomile	Tomił	subst:sg:voc:m1	imię	
 Tomiłach	Tomił	subst:pl:loc:m1	imię	
@@ -3567,34 +3567,34 @@ Tomusiów	Tomuś	subst:pl:gen:m1	imię
 Tomusiu	Tomuś	subst:sg:loc:m1	imię	
 Tomusiu	Tomuś	subst:sg:voc:m1	imię	
 Tomuś	Tomuś	subst:sg:nom:m1	imię	
-Tonga	Tonga	subst:pl:acc:n2	nazwa geograficzna	
-Tonga	Tonga	subst:pl:dat:n2	nazwa geograficzna	
-Tonga	Tonga	subst:pl:gen:n2	nazwa geograficzna	
-Tonga	Tonga	subst:pl:inst:n2	nazwa geograficzna	
-Tonga	Tonga	subst:pl:loc:n2	nazwa geograficzna	
-Tonga	Tonga	subst:pl:nom:n2	nazwa geograficzna	
-Tonga	Tonga	subst:pl:voc:n2	nazwa geograficzna	
-Tonga	Tonga	subst:sg:acc:n2	nazwa geograficzna	
-Tonga	Tonga	subst:sg:dat:n2	nazwa geograficzna	
-Tonga	Tonga	subst:sg:gen:n2	nazwa geograficzna	
-Tonga	Tonga	subst:sg:inst:n2	nazwa geograficzna	
-Tonga	Tonga	subst:sg:loc:n2	nazwa geograficzna	
-Tonga	Tonga	subst:sg:nom:n2	nazwa geograficzna	
-Tonga	Tonga	subst:sg:voc:n2	nazwa geograficzna	
-Tongach	Tongo	subst:pl:loc:n2	nazwa geograficzna	
-Tongami	Tongo	subst:pl:inst:n2	nazwa geograficzna	
-Tonga	Tongo	subst:pl:acc:n2	nazwa geograficzna	
-Tonga	Tongo	subst:pl:nom:n2	nazwa geograficzna	
-Tonga	Tongo	subst:pl:voc:n2	nazwa geograficzna	
-Tonga	Tongo	subst:sg:gen:n2	nazwa geograficzna	
-Tongiem	Tongo	subst:sg:inst:n2	nazwa geograficzna	
-Tongom	Tongo	subst:pl:dat:n2	nazwa geograficzna	
-Tongo	Tongo	subst:sg:acc:n2	nazwa geograficzna	
-Tongo	Tongo	subst:sg:nom:n2	nazwa geograficzna	
-Tongo	Tongo	subst:sg:voc:n2	nazwa geograficzna	
-Tong	Tongo	subst:pl:gen:n2	nazwa geograficzna	
-Tongu	Tongo	subst:sg:dat:n2	nazwa geograficzna	
-Tongu	Tongo	subst:sg:loc:n2	nazwa geograficzna	
+Tonga	Tonga	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tonga	Tonga	subst:pl:dat:n:ncol	nazwa geograficzna	
+Tonga	Tonga	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tonga	Tonga	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tonga	Tonga	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tonga	Tonga	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tonga	Tonga	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tonga	Tonga	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tonga	Tonga	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tonga	Tonga	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tonga	Tonga	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tonga	Tonga	subst:sg:loc:n:ncol	nazwa geograficzna	
+Tonga	Tonga	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tonga	Tonga	subst:sg:voc:n:ncol	nazwa geograficzna	
+Tongach	Tongo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tongami	Tongo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tonga	Tongo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tonga	Tongo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tonga	Tongo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tonga	Tongo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tongiem	Tongo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tongom	Tongo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Tongo	Tongo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tongo	Tongo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tongo	Tongo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Tong	Tongo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tongu	Tongo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tongu	Tongo	subst:sg:loc:n:ncol	nazwa geograficzna	
 Tonich	Toni	subst:pl:acc:m1	imię	
 Tonich	Toni	subst:pl:gen:m1	imię	
 Tonich	Toni	subst:pl:loc:m1	imię	
@@ -3677,22 +3677,22 @@ TOPR-em	TOPR	subst:sg:inst:m3	nazwa organizacji
 TOPR-om	TOPR	subst:pl:dat:m3	nazwa organizacji	
 TOPR-owi	TOPR	subst:sg:dat:m3	nazwa organizacji	
 TOPR-ów	TOPR	subst:pl:gen:m3	nazwa organizacji	
-TOPR	TOPR	subst:pl:acc:n2	nazwa organizacji	
-TOPR	TOPR	subst:pl:dat:n2	nazwa organizacji	
-TOPR	TOPR	subst:pl:gen:n2	nazwa organizacji	
-TOPR	TOPR	subst:pl:inst:n2	nazwa organizacji	
-TOPR	TOPR	subst:pl:loc:n2	nazwa organizacji	
-TOPR	TOPR	subst:pl:nom:n2	nazwa organizacji	
-TOPR	TOPR	subst:pl:voc:n2	nazwa organizacji	
+TOPR	TOPR	subst:pl:acc:n:ncol	nazwa organizacji	
+TOPR	TOPR	subst:pl:dat:n:ncol	nazwa organizacji	
+TOPR	TOPR	subst:pl:gen:n:ncol	nazwa organizacji	
+TOPR	TOPR	subst:pl:inst:n:ncol	nazwa organizacji	
+TOPR	TOPR	subst:pl:loc:n:ncol	nazwa organizacji	
+TOPR	TOPR	subst:pl:nom:n:ncol	nazwa organizacji	
+TOPR	TOPR	subst:pl:voc:n:ncol	nazwa organizacji	
 TOPR	TOPR	subst:sg:acc:m3	nazwa organizacji	
-TOPR	TOPR	subst:sg:acc:n2	nazwa organizacji	
-TOPR	TOPR	subst:sg:dat:n2	nazwa organizacji	
-TOPR	TOPR	subst:sg:gen:n2	nazwa organizacji	
-TOPR	TOPR	subst:sg:inst:n2	nazwa organizacji	
-TOPR	TOPR	subst:sg:loc:n2	nazwa organizacji	
+TOPR	TOPR	subst:sg:acc:n:ncol	nazwa organizacji	
+TOPR	TOPR	subst:sg:dat:n:ncol	nazwa organizacji	
+TOPR	TOPR	subst:sg:gen:n:ncol	nazwa organizacji	
+TOPR	TOPR	subst:sg:inst:n:ncol	nazwa organizacji	
+TOPR	TOPR	subst:sg:loc:n:ncol	nazwa organizacji	
 TOPR	TOPR	subst:sg:nom:m3	nazwa organizacji	
-TOPR	TOPR	subst:sg:nom:n2	nazwa organizacji	
-TOPR	TOPR	subst:sg:voc:n2	nazwa organizacji	
+TOPR	TOPR	subst:sg:nom:n:ncol	nazwa organizacji	
+TOPR	TOPR	subst:sg:voc:n:ncol	nazwa organizacji	
 TOPR-u	TOPR	subst:sg:gen:m3	nazwa organizacji	
 TOPR-y	TOPR	subst:pl:acc:m3	nazwa organizacji	
 TOPR-y	TOPR	subst:pl:nom:m3	nazwa organizacji	
@@ -3727,20 +3727,20 @@ Torkatu	Torkat	subst:sg:gen:m3	nazwa własna budowli
 Torkaty	Torkat	subst:pl:acc:m3	nazwa własna budowli	
 Torkaty	Torkat	subst:pl:nom:m3	nazwa własna budowli	
 Torkaty	Torkat	subst:pl:voc:m3	nazwa własna budowli	
-Toronto	Toronto	subst:pl:acc:n2	nazwa geograficzna	
-Toronto	Toronto	subst:pl:dat:n2	nazwa geograficzna	
-Toronto	Toronto	subst:pl:gen:n2	nazwa geograficzna	
-Toronto	Toronto	subst:pl:inst:n2	nazwa geograficzna	
-Toronto	Toronto	subst:pl:loc:n2	nazwa geograficzna	
-Toronto	Toronto	subst:pl:nom:n2	nazwa geograficzna	
-Toronto	Toronto	subst:pl:voc:n2	nazwa geograficzna	
-Toronto	Toronto	subst:sg:acc:n2	nazwa geograficzna	
-Toronto	Toronto	subst:sg:dat:n2	nazwa geograficzna	
-Toronto	Toronto	subst:sg:gen:n2	nazwa geograficzna	
-Toronto	Toronto	subst:sg:inst:n2	nazwa geograficzna	
-Toronto	Toronto	subst:sg:loc:n2	nazwa geograficzna	
-Toronto	Toronto	subst:sg:nom:n2	nazwa geograficzna	
-Toronto	Toronto	subst:sg:voc:n2	nazwa geograficzna	
+Toronto	Toronto	subst:pl:acc:n:ncol	nazwa geograficzna	
+Toronto	Toronto	subst:pl:dat:n:ncol	nazwa geograficzna	
+Toronto	Toronto	subst:pl:gen:n:ncol	nazwa geograficzna	
+Toronto	Toronto	subst:pl:inst:n:ncol	nazwa geograficzna	
+Toronto	Toronto	subst:pl:loc:n:ncol	nazwa geograficzna	
+Toronto	Toronto	subst:pl:nom:n:ncol	nazwa geograficzna	
+Toronto	Toronto	subst:pl:voc:n:ncol	nazwa geograficzna	
+Toronto	Toronto	subst:sg:acc:n:ncol	nazwa geograficzna	
+Toronto	Toronto	subst:sg:dat:n:ncol	nazwa geograficzna	
+Toronto	Toronto	subst:sg:gen:n:ncol	nazwa geograficzna	
+Toronto	Toronto	subst:sg:inst:n:ncol	nazwa geograficzna	
+Toronto	Toronto	subst:sg:loc:n:ncol	nazwa geograficzna	
+Toronto	Toronto	subst:sg:nom:n:ncol	nazwa geograficzna	
+Toronto	Toronto	subst:sg:voc:n:ncol	nazwa geograficzna	
 Torpecie	Torpet	subst:sg:loc:m1	imię	
 Torpecie	Torpet	subst:sg:voc:m1	imię	
 Torpeci	Torpet	subst:pl:nom:m1	imię	
@@ -3790,20 +3790,20 @@ Toruniu	Toruń	subst:sg:loc:m3	nazwa geograficzna
 Toruniu	Toruń	subst:sg:voc:m3	nazwa geograficzna	
 Toruń	Toruń	subst:sg:acc:m3	nazwa geograficzna	
 Toruń	Toruń	subst:sg:nom:m3	nazwa geograficzna	
-Toruńskich	Toruńskie	subst:pl:gen:n2	nazwa geograficzna	
-Toruńskich	Toruńskie	subst:pl:loc:n2	nazwa geograficzna	
-Toruńskiego	Toruńskie	subst:sg:gen:n2	nazwa geograficzna	
-Toruńskiem	Toruńskie	subst:sg:inst:n2	nazwa geograficzna	
-Toruńskiem	Toruńskie	subst:sg:loc:n2	nazwa geograficzna	
-Toruńskiemu	Toruńskie	subst:sg:dat:n2	nazwa geograficzna	
-Toruńskie	Toruńskie	subst:pl:acc:n2	nazwa geograficzna	
-Toruńskie	Toruńskie	subst:pl:nom:n2	nazwa geograficzna	
-Toruńskie	Toruńskie	subst:pl:voc:n2	nazwa geograficzna	
-Toruńskie	Toruńskie	subst:sg:acc:n2	nazwa geograficzna	
-Toruńskie	Toruńskie	subst:sg:nom:n2	nazwa geograficzna	
-Toruńskie	Toruńskie	subst:sg:voc:n2	nazwa geograficzna	
-Toruńskimi	Toruńskie	subst:pl:inst:n2	nazwa geograficzna	
-Toruńskim	Toruńskie	subst:pl:dat:n2	nazwa geograficzna	
+Toruńskich	Toruńskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Toruńskich	Toruńskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Toruńskiego	Toruńskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Toruńskiem	Toruńskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Toruńskiem	Toruńskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Toruńskiemu	Toruńskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Toruńskie	Toruńskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Toruńskie	Toruńskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Toruńskie	Toruńskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Toruńskie	Toruńskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Toruńskie	Toruńskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Toruńskie	Toruńskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Toruńskimi	Toruńskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Toruńskim	Toruńskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Torwarach	Torwar	subst:pl:loc:m3	nazwa własna budowli	
 Torwarami	Torwar	subst:pl:inst:m3	nazwa własna budowli	
 Torwarem	Torwar	subst:sg:inst:m3	nazwa własna budowli	
@@ -4025,80 +4025,80 @@ TOZ-ie	TOZ	subst:sg:voc:m3	nazwa organizacji
 TOZ-om	TOZ	subst:pl:dat:m3	nazwa organizacji	
 TOZ-owi	TOZ	subst:sg:dat:m3	nazwa organizacji	
 TOZ-ów	TOZ	subst:pl:gen:m3	nazwa organizacji	
-TOZ	TOZ	subst:pl:acc:n2	nazwa organizacji	
-TOZ	TOZ	subst:pl:dat:n2	nazwa organizacji	
-TOZ	TOZ	subst:pl:gen:n2	nazwa organizacji	
-TOZ	TOZ	subst:pl:inst:n2	nazwa organizacji	
-TOZ	TOZ	subst:pl:loc:n2	nazwa organizacji	
-TOZ	TOZ	subst:pl:nom:n2	nazwa organizacji	
-TOZ	TOZ	subst:pl:voc:n2	nazwa organizacji	
+TOZ	TOZ	subst:pl:acc:n:ncol	nazwa organizacji	
+TOZ	TOZ	subst:pl:dat:n:ncol	nazwa organizacji	
+TOZ	TOZ	subst:pl:gen:n:ncol	nazwa organizacji	
+TOZ	TOZ	subst:pl:inst:n:ncol	nazwa organizacji	
+TOZ	TOZ	subst:pl:loc:n:ncol	nazwa organizacji	
+TOZ	TOZ	subst:pl:nom:n:ncol	nazwa organizacji	
+TOZ	TOZ	subst:pl:voc:n:ncol	nazwa organizacji	
 TOZ	TOZ	subst:sg:acc:m3	nazwa organizacji	
-TOZ	TOZ	subst:sg:acc:n2	nazwa organizacji	
-TOZ	TOZ	subst:sg:dat:n2	nazwa organizacji	
-TOZ	TOZ	subst:sg:gen:n2	nazwa organizacji	
-TOZ	TOZ	subst:sg:inst:n2	nazwa organizacji	
-TOZ	TOZ	subst:sg:loc:n2	nazwa organizacji	
+TOZ	TOZ	subst:sg:acc:n:ncol	nazwa organizacji	
+TOZ	TOZ	subst:sg:dat:n:ncol	nazwa organizacji	
+TOZ	TOZ	subst:sg:gen:n:ncol	nazwa organizacji	
+TOZ	TOZ	subst:sg:inst:n:ncol	nazwa organizacji	
+TOZ	TOZ	subst:sg:loc:n:ncol	nazwa organizacji	
 TOZ	TOZ	subst:sg:nom:m3	nazwa organizacji	
-TOZ	TOZ	subst:sg:nom:n2	nazwa organizacji	
-TOZ	TOZ	subst:sg:voc:n2	nazwa organizacji	
+TOZ	TOZ	subst:sg:nom:n:ncol	nazwa organizacji	
+TOZ	TOZ	subst:sg:voc:n:ncol	nazwa organizacji	
 TOZ-u	TOZ	subst:sg:gen:m3	nazwa organizacji	
 TOZ-y	TOZ	subst:pl:acc:m3	nazwa organizacji	
 TOZ-y	TOZ	subst:pl:nom:m3	nazwa organizacji	
 TOZ-y	TOZ	subst:pl:voc:m3	nazwa organizacji	
-TPD	TPD	subst:pl:acc:n2	nazwa organizacji	
-TPD	TPD	subst:pl:dat:n2	nazwa organizacji	
-TPD	TPD	subst:pl:gen:n2	nazwa organizacji	
-TPD	TPD	subst:pl:inst:n2	nazwa organizacji	
-TPD	TPD	subst:pl:loc:n2	nazwa organizacji	
-TPD	TPD	subst:pl:nom:n2	nazwa organizacji	
-TPD	TPD	subst:pl:voc:n2	nazwa organizacji	
-TPD	TPD	subst:sg:acc:n2	nazwa organizacji	
-TPD	TPD	subst:sg:dat:n2	nazwa organizacji	
-TPD	TPD	subst:sg:gen:n2	nazwa organizacji	
-TPD	TPD	subst:sg:inst:n2	nazwa organizacji	
-TPD	TPD	subst:sg:loc:n2	nazwa organizacji	
-TPD	TPD	subst:sg:nom:n2	nazwa organizacji	
-TPD	TPD	subst:sg:voc:n2	nazwa organizacji	
-TPD-owscy	TPD-owski	adj:pl:nom.voc:m1.p1:pos		
+TPD	TPD	subst:pl:acc:n:ncol	nazwa organizacji	
+TPD	TPD	subst:pl:dat:n:ncol	nazwa organizacji	
+TPD	TPD	subst:pl:gen:n:ncol	nazwa organizacji	
+TPD	TPD	subst:pl:inst:n:ncol	nazwa organizacji	
+TPD	TPD	subst:pl:loc:n:ncol	nazwa organizacji	
+TPD	TPD	subst:pl:nom:n:ncol	nazwa organizacji	
+TPD	TPD	subst:pl:voc:n:ncol	nazwa organizacji	
+TPD	TPD	subst:sg:acc:n:ncol	nazwa organizacji	
+TPD	TPD	subst:sg:dat:n:ncol	nazwa organizacji	
+TPD	TPD	subst:sg:gen:n:ncol	nazwa organizacji	
+TPD	TPD	subst:sg:inst:n:ncol	nazwa organizacji	
+TPD	TPD	subst:sg:loc:n:ncol	nazwa organizacji	
+TPD	TPD	subst:sg:nom:n:ncol	nazwa organizacji	
+TPD	TPD	subst:sg:voc:n:ncol	nazwa organizacji	
+TPD-owscy	TPD-owski	adj:pl:nom.voc:m1:pos		
 TPD-owska	TPD-owski	adj:sg:nom.voc:f:pos		
 TPD-owską	TPD-owski	adj:sg:acc:f:pos		
 TPD-owską	TPD-owski	adj:sg:inst:f:pos		
-TPD-owskich	TPD-owski	adj:pl:acc:m1.p1:pos		
-TPD-owskich	TPD-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-TPD-owskich	TPD-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+TPD-owskich	TPD-owski	adj:pl:acc:m1:pos		
+TPD-owskich	TPD-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+TPD-owskich	TPD-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
 TPD-owskiego	TPD-owski	adj:sg:acc:m1.m2:pos		
-TPD-owskiego	TPD-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+TPD-owskiego	TPD-owski	adj:sg:gen:m1.m2.m3.n:pos		
 TPD-owskiej	TPD-owski	adj:sg:dat:f:pos		
 TPD-owskiej	TPD-owski	adj:sg:gen:f:pos		
 TPD-owskiej	TPD-owski	adj:sg:loc:f:pos		
-TPD-owskiemu	TPD-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-TPD-owskie	TPD-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-TPD-owskie	TPD-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-TPD-owskie	TPD-owski	adj:sg:acc:n1.n2:pos		
-TPD-owskie	TPD-owski	adj:sg:nom.voc:n1.n2:pos		
-TPD-owskimi	TPD-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-TPD-owskim	TPD-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-TPD-owskim	TPD-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-TPD-owskim	TPD-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+TPD-owskiemu	TPD-owski	adj:sg:dat:m1.m2.m3.n:pos		
+TPD-owskie	TPD-owski	adj:pl:acc:m2.m3.f.n:pos		
+TPD-owskie	TPD-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+TPD-owskie	TPD-owski	adj:sg:acc:n:pos		
+TPD-owskie	TPD-owski	adj:sg:nom.voc:n:pos		
+TPD-owskimi	TPD-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
+TPD-owskim	TPD-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+TPD-owskim	TPD-owski	adj:sg:inst:m1.m2.m3.n:pos		
+TPD-owskim	TPD-owski	adj:sg:loc:m1.m2.m3.n:pos		
 TPD-owski	TPD-owski	adj:sg:acc:m3:pos		
 TPD-owski	TPD-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 TPD-owsko	TPD-owski	adja		
 TPD-owsku	TPD-owski	adjp		
 TPD-owsko	TPD-owsko	adv:pos		
-TPI	TPI	subst:pl:acc:n2	nazwa pospolita	
-TPI	TPI	subst:pl:dat:n2	nazwa pospolita	
-TPI	TPI	subst:pl:gen:n2	nazwa pospolita	
-TPI	TPI	subst:pl:inst:n2	nazwa pospolita	
-TPI	TPI	subst:pl:loc:n2	nazwa pospolita	
-TPI	TPI	subst:pl:nom:n2	nazwa pospolita	
-TPI	TPI	subst:pl:voc:n2	nazwa pospolita	
-TPI	TPI	subst:sg:acc:n2	nazwa pospolita	
-TPI	TPI	subst:sg:dat:n2	nazwa pospolita	
-TPI	TPI	subst:sg:gen:n2	nazwa pospolita	
-TPI	TPI	subst:sg:inst:n2	nazwa pospolita	
-TPI	TPI	subst:sg:loc:n2	nazwa pospolita	
-TPI	TPI	subst:sg:nom:n2	nazwa pospolita	
-TPI	TPI	subst:sg:voc:n2	nazwa pospolita	
+TPI	TPI	subst:pl:acc:n:ncol	nazwa pospolita	
+TPI	TPI	subst:pl:dat:n:ncol	nazwa pospolita	
+TPI	TPI	subst:pl:gen:n:ncol	nazwa pospolita	
+TPI	TPI	subst:pl:inst:n:ncol	nazwa pospolita	
+TPI	TPI	subst:pl:loc:n:ncol	nazwa pospolita	
+TPI	TPI	subst:pl:nom:n:ncol	nazwa pospolita	
+TPI	TPI	subst:pl:voc:n:ncol	nazwa pospolita	
+TPI	TPI	subst:sg:acc:n:ncol	nazwa pospolita	
+TPI	TPI	subst:sg:dat:n:ncol	nazwa pospolita	
+TPI	TPI	subst:sg:gen:n:ncol	nazwa pospolita	
+TPI	TPI	subst:sg:inst:n:ncol	nazwa pospolita	
+TPI	TPI	subst:sg:loc:n:ncol	nazwa pospolita	
+TPI	TPI	subst:sg:nom:n:ncol	nazwa pospolita	
+TPI	TPI	subst:sg:voc:n:ncol	nazwa pospolita	
 TPN-ach	TPN	subst:pl:loc:m3	nazwa geograficzna	
 TPN-ami	TPN	subst:pl:inst:m3	nazwa geograficzna	
 TPN-em	TPN	subst:sg:inst:m3	nazwa geograficzna	
@@ -4119,70 +4119,70 @@ TPPR-em	TPPR	subst:sg:inst:m3	nazwa organizacji
 TPPR-om	TPPR	subst:pl:dat:m3	nazwa organizacji	
 TPPR-owi	TPPR	subst:sg:dat:m3	nazwa organizacji	
 TPPR-ów	TPPR	subst:pl:gen:m3	nazwa organizacji	
-TPPR	TPPR	subst:pl:acc:n2	nazwa organizacji	
-TPPR	TPPR	subst:pl:dat:n2	nazwa organizacji	
-TPPR	TPPR	subst:pl:gen:n2	nazwa organizacji	
-TPPR	TPPR	subst:pl:inst:n2	nazwa organizacji	
-TPPR	TPPR	subst:pl:loc:n2	nazwa organizacji	
-TPPR	TPPR	subst:pl:nom:n2	nazwa organizacji	
-TPPR	TPPR	subst:pl:voc:n2	nazwa organizacji	
+TPPR	TPPR	subst:pl:acc:n:ncol	nazwa organizacji	
+TPPR	TPPR	subst:pl:dat:n:ncol	nazwa organizacji	
+TPPR	TPPR	subst:pl:gen:n:ncol	nazwa organizacji	
+TPPR	TPPR	subst:pl:inst:n:ncol	nazwa organizacji	
+TPPR	TPPR	subst:pl:loc:n:ncol	nazwa organizacji	
+TPPR	TPPR	subst:pl:nom:n:ncol	nazwa organizacji	
+TPPR	TPPR	subst:pl:voc:n:ncol	nazwa organizacji	
 TPPR	TPPR	subst:sg:acc:m3	nazwa organizacji	
-TPPR	TPPR	subst:sg:acc:n2	nazwa organizacji	
-TPPR	TPPR	subst:sg:dat:n2	nazwa organizacji	
-TPPR	TPPR	subst:sg:gen:n2	nazwa organizacji	
-TPPR	TPPR	subst:sg:inst:n2	nazwa organizacji	
-TPPR	TPPR	subst:sg:loc:n2	nazwa organizacji	
+TPPR	TPPR	subst:sg:acc:n:ncol	nazwa organizacji	
+TPPR	TPPR	subst:sg:dat:n:ncol	nazwa organizacji	
+TPPR	TPPR	subst:sg:gen:n:ncol	nazwa organizacji	
+TPPR	TPPR	subst:sg:inst:n:ncol	nazwa organizacji	
+TPPR	TPPR	subst:sg:loc:n:ncol	nazwa organizacji	
 TPPR	TPPR	subst:sg:nom:m3	nazwa organizacji	
-TPPR	TPPR	subst:sg:nom:n2	nazwa organizacji	
-TPPR	TPPR	subst:sg:voc:n2	nazwa organizacji	
+TPPR	TPPR	subst:sg:nom:n:ncol	nazwa organizacji	
+TPPR	TPPR	subst:sg:voc:n:ncol	nazwa organizacji	
 TPPR-u	TPPR	subst:sg:gen:m3	nazwa organizacji	
 TPPR-y	TPPR	subst:pl:acc:m3	nazwa organizacji	
 TPPR-y	TPPR	subst:pl:nom:m3	nazwa organizacji	
 TPPR-y	TPPR	subst:pl:voc:m3	nazwa organizacji	
 TPPR-ze	TPPR	subst:sg:loc:m3	nazwa organizacji	
 TPPR-ze	TPPR	subst:sg:voc:m3	nazwa organizacji	
-TP	TP:s1	subst:pl:acc:n2	nazwa organizacji	
-TP	TP:s1	subst:pl:dat:n2	nazwa organizacji	
-TP	TP:s1	subst:pl:gen:n2	nazwa organizacji	
-TP	TP:s1	subst:pl:inst:n2	nazwa organizacji	
-TP	TP:s1	subst:pl:loc:n2	nazwa organizacji	
-TP	TP:s1	subst:pl:nom:n2	nazwa organizacji	
-TP	TP:s1	subst:pl:voc:n2	nazwa organizacji	
-TP	TP:s1	subst:sg:acc:n2	nazwa organizacji	
-TP	TP:s1	subst:sg:dat:n2	nazwa organizacji	
-TP	TP:s1	subst:sg:gen:n2	nazwa organizacji	
-TP	TP:s1	subst:sg:inst:n2	nazwa organizacji	
-TP	TP:s1	subst:sg:loc:n2	nazwa organizacji	
-TP	TP:s1	subst:sg:nom:n2	nazwa organizacji	
-TP	TP:s1	subst:sg:voc:n2	nazwa organizacji	
+TP	TP:s1	subst:pl:acc:n:ncol	nazwa organizacji	
+TP	TP:s1	subst:pl:dat:n:ncol	nazwa organizacji	
+TP	TP:s1	subst:pl:gen:n:ncol	nazwa organizacji	
+TP	TP:s1	subst:pl:inst:n:ncol	nazwa organizacji	
+TP	TP:s1	subst:pl:loc:n:ncol	nazwa organizacji	
+TP	TP:s1	subst:pl:nom:n:ncol	nazwa organizacji	
+TP	TP:s1	subst:pl:voc:n:ncol	nazwa organizacji	
+TP	TP:s1	subst:sg:acc:n:ncol	nazwa organizacji	
+TP	TP:s1	subst:sg:dat:n:ncol	nazwa organizacji	
+TP	TP:s1	subst:sg:gen:n:ncol	nazwa organizacji	
+TP	TP:s1	subst:sg:inst:n:ncol	nazwa organizacji	
+TP	TP:s1	subst:sg:loc:n:ncol	nazwa organizacji	
+TP	TP:s1	subst:sg:nom:n:ncol	nazwa organizacji	
+TP	TP:s1	subst:sg:voc:n:ncol	nazwa organizacji	
 TP	TP:s2	subst:pl:acc:f	nazwa firmy	
-TP	TP:s2	subst:pl:acc:n2	nazwa firmy	
+TP	TP:s2	subst:pl:acc:n:ncol	nazwa firmy	
 TP	TP:s2	subst:pl:dat:f	nazwa firmy	
-TP	TP:s2	subst:pl:dat:n2	nazwa firmy	
+TP	TP:s2	subst:pl:dat:n:ncol	nazwa firmy	
 TP	TP:s2	subst:pl:gen:f	nazwa firmy	
-TP	TP:s2	subst:pl:gen:n2	nazwa firmy	
+TP	TP:s2	subst:pl:gen:n:ncol	nazwa firmy	
 TP	TP:s2	subst:pl:inst:f	nazwa firmy	
-TP	TP:s2	subst:pl:inst:n2	nazwa firmy	
+TP	TP:s2	subst:pl:inst:n:ncol	nazwa firmy	
 TP	TP:s2	subst:pl:loc:f	nazwa firmy	
-TP	TP:s2	subst:pl:loc:n2	nazwa firmy	
+TP	TP:s2	subst:pl:loc:n:ncol	nazwa firmy	
 TP	TP:s2	subst:pl:nom:f	nazwa firmy	
-TP	TP:s2	subst:pl:nom:n2	nazwa firmy	
+TP	TP:s2	subst:pl:nom:n:ncol	nazwa firmy	
 TP	TP:s2	subst:pl:voc:f	nazwa firmy	
-TP	TP:s2	subst:pl:voc:n2	nazwa firmy	
+TP	TP:s2	subst:pl:voc:n:ncol	nazwa firmy	
 TP	TP:s2	subst:sg:acc:f	nazwa firmy	
-TP	TP:s2	subst:sg:acc:n2	nazwa firmy	
+TP	TP:s2	subst:sg:acc:n:ncol	nazwa firmy	
 TP	TP:s2	subst:sg:dat:f	nazwa firmy	
-TP	TP:s2	subst:sg:dat:n2	nazwa firmy	
+TP	TP:s2	subst:sg:dat:n:ncol	nazwa firmy	
 TP	TP:s2	subst:sg:gen:f	nazwa firmy	
-TP	TP:s2	subst:sg:gen:n2	nazwa firmy	
+TP	TP:s2	subst:sg:gen:n:ncol	nazwa firmy	
 TP	TP:s2	subst:sg:inst:f	nazwa firmy	
-TP	TP:s2	subst:sg:inst:n2	nazwa firmy	
+TP	TP:s2	subst:sg:inst:n:ncol	nazwa firmy	
 TP	TP:s2	subst:sg:loc:f	nazwa firmy	
-TP	TP:s2	subst:sg:loc:n2	nazwa firmy	
+TP	TP:s2	subst:sg:loc:n:ncol	nazwa firmy	
 TP	TP:s2	subst:sg:nom:f	nazwa firmy	
-TP	TP:s2	subst:sg:nom:n2	nazwa firmy	
+TP	TP:s2	subst:sg:nom:n:ncol	nazwa firmy	
 TP	TP:s2	subst:sg:voc:f	nazwa firmy	
-TP	TP:s2	subst:sg:voc:n2	nazwa firmy	
+TP	TP:s2	subst:sg:voc:n:ncol	nazwa firmy	
 Tracjach	Tracja	subst:pl:loc:f	nazwa geograficzna	hist.
 Tracjami	Tracja	subst:pl:inst:f	nazwa geograficzna	hist.
 Tracja	Tracja	subst:sg:nom:f	nazwa geograficzna	hist.
@@ -4375,20 +4375,20 @@ Trawińskim	Trawiński	subst:sg:inst:m1	nazwisko
 Trawińskim	Trawiński	subst:sg:loc:m1	nazwisko	
 Trawiński	Trawiński	subst:sg:nom:m1	nazwisko	
 Trawiński	Trawiński	subst:sg:voc:m1	nazwisko	
-Trawnikach	Trawniki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Trawnikach	Trawniki	subst:pl:loc:p3	nazwa geograficzna	
-Trawnikami	Trawniki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Trawnikami	Trawniki	subst:pl:inst:p3	nazwa geograficzna	
-Trawniki	Trawniki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Trawniki	Trawniki	subst:pl:acc:p3	nazwa geograficzna	
-Trawniki	Trawniki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Trawniki	Trawniki	subst:pl:nom:p3	nazwa geograficzna	
-Trawniki	Trawniki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Trawniki	Trawniki	subst:pl:voc:p3	nazwa geograficzna	
-Trawnikom	Trawniki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Trawnikom	Trawniki	subst:pl:dat:p3	nazwa geograficzna	
-Trawnik	Trawniki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Trawnik	Trawniki	subst:pl:gen:p3	nazwa geograficzna	
+Trawnikach	Trawniki	subst:pl:loc:n:pt	nazwa geograficzna	
+Trawnikach	Trawniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Trawnikami	Trawniki	subst:pl:inst:n:pt	nazwa geograficzna	
+Trawnikami	Trawniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Trawniki	Trawniki	subst:pl:acc:n:pt	nazwa geograficzna	
+Trawniki	Trawniki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Trawniki	Trawniki	subst:pl:nom:n:pt	nazwa geograficzna	
+Trawniki	Trawniki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Trawniki	Trawniki	subst:pl:voc:n:pt	nazwa geograficzna	
+Trawniki	Trawniki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Trawnikom	Trawniki	subst:pl:dat:n:pt	nazwa geograficzna	
+Trawnikom	Trawniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Trawnik	Trawniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Trawnik	Trawniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Treblince	Treblinka	subst:sg:dat:f	nazwa geograficzna	
 Treblince	Treblinka	subst:sg:loc:f	nazwa geograficzna	
 Treblinek	Treblinka	subst:pl:gen:f	nazwa geograficzna	
@@ -4523,20 +4523,20 @@ Trobriandki	Trobriandka	subst:pl:voc:f	nazwa pospolita	etn.
 Trobriandki	Trobriandka	subst:sg:gen:f	nazwa pospolita	etn.
 Trobriandkom	Trobriandka	subst:pl:dat:f	nazwa pospolita	etn.
 Trobriandko	Trobriandka	subst:sg:voc:f	nazwa pospolita	etn.
-Trobriandach	Trobriandy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Trobriandach	Trobriandy	subst:pl:loc:p3	nazwa geograficzna	
-Trobriandami	Trobriandy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Trobriandami	Trobriandy	subst:pl:inst:p3	nazwa geograficzna	
-Trobriandom	Trobriandy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Trobriandom	Trobriandy	subst:pl:dat:p3	nazwa geograficzna	
-Trobriandów	Trobriandy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Trobriandów	Trobriandy	subst:pl:gen:p3	nazwa geograficzna	
-Trobriandy	Trobriandy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Trobriandy	Trobriandy	subst:pl:acc:p3	nazwa geograficzna	
-Trobriandy	Trobriandy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Trobriandy	Trobriandy	subst:pl:nom:p3	nazwa geograficzna	
-Trobriandy	Trobriandy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Trobriandy	Trobriandy	subst:pl:voc:p3	nazwa geograficzna	
+Trobriandach	Trobriandy	subst:pl:loc:n:pt	nazwa geograficzna	
+Trobriandach	Trobriandy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Trobriandami	Trobriandy	subst:pl:inst:n:pt	nazwa geograficzna	
+Trobriandami	Trobriandy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Trobriandom	Trobriandy	subst:pl:dat:n:pt	nazwa geograficzna	
+Trobriandom	Trobriandy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Trobriandów	Trobriandy	subst:pl:gen:n:pt	nazwa geograficzna	
+Trobriandów	Trobriandy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Trobriandy	Trobriandy	subst:pl:acc:n:pt	nazwa geograficzna	
+Trobriandy	Trobriandy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Trobriandy	Trobriandy	subst:pl:nom:n:pt	nazwa geograficzna	
+Trobriandy	Trobriandy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Trobriandy	Trobriandy	subst:pl:voc:n:pt	nazwa geograficzna	
+Trobriandy	Trobriandy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Trocka	Trocka	subst:sg:nom:f	nazwisko	
 Trocka	Trocka	subst:sg:voc:f	nazwisko	
 Trocką	Trocka	subst:sg:acc:f	nazwisko	
@@ -4647,20 +4647,20 @@ Trojanowy	Trojanów	subst:pl:nom:m3	nazwa geograficzna
 Trojanowy	Trojanów	subst:pl:voc:m3	nazwa geograficzna	
 Trojanów	Trojanów	subst:sg:acc:m3	nazwa geograficzna	
 Trojanów	Trojanów	subst:sg:nom:m3	nazwa geograficzna	
-Trokach	Troki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Trokach	Troki	subst:pl:loc:p3	nazwa geograficzna	
-Trokami	Troki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Trokami	Troki	subst:pl:inst:p3	nazwa geograficzna	
-Troki	Troki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Troki	Troki	subst:pl:acc:p3	nazwa geograficzna	
-Troki	Troki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Troki	Troki	subst:pl:nom:p3	nazwa geograficzna	
-Troki	Troki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Troki	Troki	subst:pl:voc:p3	nazwa geograficzna	
-Trokom	Troki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Trokom	Troki	subst:pl:dat:p3	nazwa geograficzna	
-Trok	Troki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Trok	Troki	subst:pl:gen:p3	nazwa geograficzna	
+Trokach	Troki	subst:pl:loc:n:pt	nazwa geograficzna	
+Trokach	Troki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Trokami	Troki	subst:pl:inst:n:pt	nazwa geograficzna	
+Trokami	Troki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Troki	Troki	subst:pl:acc:n:pt	nazwa geograficzna	
+Troki	Troki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Troki	Troki	subst:pl:nom:n:pt	nazwa geograficzna	
+Troki	Troki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Troki	Troki	subst:pl:voc:n:pt	nazwa geograficzna	
+Troki	Troki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Trokom	Troki	subst:pl:dat:n:pt	nazwa geograficzna	
+Trokom	Troki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Trok	Troki	subst:pl:gen:n:pt	nazwa geograficzna	
+Trok	Troki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Troszynach	Troszyn	subst:pl:loc:m3	nazwa geograficzna	
 Troszynami	Troszyn	subst:pl:inst:m3	nazwa geograficzna	
 Troszyna	Troszyn	subst:sg:gen:m3	nazwa geograficzna	
@@ -4675,20 +4675,20 @@ Troszyn	Troszyn	subst:sg:nom:m3	nazwa geograficzna
 Troszyny	Troszyn	subst:pl:acc:m3	nazwa geograficzna	
 Troszyny	Troszyn	subst:pl:nom:m3	nazwa geograficzna	
 Troszyny	Troszyn	subst:pl:voc:m3	nazwa geograficzna	
-Trójmiastach	Trójmiasto	subst:pl:loc:n2	nazwa geograficzna	
-Trójmiastami	Trójmiasto	subst:pl:inst:n2	nazwa geograficzna	
-Trójmiasta	Trójmiasto	subst:pl:acc:n2	nazwa geograficzna	
-Trójmiasta	Trójmiasto	subst:pl:nom:n2	nazwa geograficzna	
-Trójmiasta	Trójmiasto	subst:pl:voc:n2	nazwa geograficzna	
-Trójmiasta	Trójmiasto	subst:sg:gen:n2	nazwa geograficzna	
-Trójmiastem	Trójmiasto	subst:sg:inst:n2	nazwa geograficzna	
-Trójmiastom	Trójmiasto	subst:pl:dat:n2	nazwa geograficzna	
-Trójmiasto	Trójmiasto	subst:sg:acc:n2	nazwa geograficzna	
-Trójmiasto	Trójmiasto	subst:sg:nom:n2	nazwa geograficzna	
-Trójmiasto	Trójmiasto	subst:sg:voc:n2	nazwa geograficzna	
-Trójmiast	Trójmiasto	subst:pl:gen:n2	nazwa geograficzna	
-Trójmiastu	Trójmiasto	subst:sg:dat:n2	nazwa geograficzna	
-Trójmieście	Trójmiasto	subst:sg:loc:n2	nazwa geograficzna	
+Trójmiastach	Trójmiasto	subst:pl:loc:n:ncol	nazwa geograficzna	
+Trójmiastami	Trójmiasto	subst:pl:inst:n:ncol	nazwa geograficzna	
+Trójmiasta	Trójmiasto	subst:pl:acc:n:ncol	nazwa geograficzna	
+Trójmiasta	Trójmiasto	subst:pl:nom:n:ncol	nazwa geograficzna	
+Trójmiasta	Trójmiasto	subst:pl:voc:n:ncol	nazwa geograficzna	
+Trójmiasta	Trójmiasto	subst:sg:gen:n:ncol	nazwa geograficzna	
+Trójmiastem	Trójmiasto	subst:sg:inst:n:ncol	nazwa geograficzna	
+Trójmiastom	Trójmiasto	subst:pl:dat:n:ncol	nazwa geograficzna	
+Trójmiasto	Trójmiasto	subst:sg:acc:n:ncol	nazwa geograficzna	
+Trójmiasto	Trójmiasto	subst:sg:nom:n:ncol	nazwa geograficzna	
+Trójmiasto	Trójmiasto	subst:sg:voc:n:ncol	nazwa geograficzna	
+Trójmiast	Trójmiasto	subst:pl:gen:n:ncol	nazwa geograficzna	
+Trójmiastu	Trójmiasto	subst:sg:dat:n:ncol	nazwa geograficzna	
+Trójmieście	Trójmiasto	subst:sg:loc:n:ncol	nazwa geograficzna	
 Trubieccy	Trubieckoj	subst:pl:nom:m1	nazwisko	
 Trubieccy	Trubieckoj	subst:pl:voc:m1	nazwisko	
 Trubieckich	Trubieckoj	subst:pl:acc:m1	nazwisko	
@@ -5041,20 +5041,20 @@ Trzcińskim	Trzciński	subst:sg:inst:m1	nazwisko
 Trzcińskim	Trzciński	subst:sg:loc:m1	nazwisko	
 Trzciński	Trzciński	subst:sg:nom:m1	nazwisko	
 Trzciński	Trzciński	subst:sg:voc:m1	nazwisko	
-Trzcińskach	Trzcińsko	subst:pl:loc:n2	nazwa geograficzna	
-Trzcińskami	Trzcińsko	subst:pl:inst:n2	nazwa geograficzna	
-Trzcińska	Trzcińsko	subst:pl:acc:n2	nazwa geograficzna	
-Trzcińska	Trzcińsko	subst:pl:nom:n2	nazwa geograficzna	
-Trzcińska	Trzcińsko	subst:pl:voc:n2	nazwa geograficzna	
-Trzcińska	Trzcińsko	subst:sg:gen:n2	nazwa geograficzna	
-Trzcińskiem	Trzcińsko	subst:sg:inst:n2	nazwa geograficzna	
-Trzcińskom	Trzcińsko	subst:pl:dat:n2	nazwa geograficzna	
-Trzcińsko	Trzcińsko	subst:sg:acc:n2	nazwa geograficzna	
-Trzcińsko	Trzcińsko	subst:sg:nom:n2	nazwa geograficzna	
-Trzcińsko	Trzcińsko	subst:sg:voc:n2	nazwa geograficzna	
-Trzcińsk	Trzcińsko	subst:pl:gen:n2	nazwa geograficzna	
-Trzcińsku	Trzcińsko	subst:sg:dat:n2	nazwa geograficzna	
-Trzcińsku	Trzcińsko	subst:sg:loc:n2	nazwa geograficzna	
+Trzcińskach	Trzcińsko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Trzcińskami	Trzcińsko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Trzcińska	Trzcińsko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Trzcińska	Trzcińsko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Trzcińska	Trzcińsko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Trzcińska	Trzcińsko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Trzcińskiem	Trzcińsko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Trzcińskom	Trzcińsko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Trzcińsko	Trzcińsko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Trzcińsko	Trzcińsko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Trzcińsko	Trzcińsko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Trzcińsk	Trzcińsko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Trzcińsku	Trzcińsko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Trzcińsku	Trzcińsko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Trzebiatowach	Trzebiatów	subst:pl:loc:m3	nazwa geograficzna	
 Trzebiatowami	Trzebiatów	subst:pl:inst:m3	nazwa geograficzna	
 Trzebiatowa	Trzebiatów	subst:sg:gen:m3	nazwa geograficzna	
@@ -5229,20 +5229,20 @@ Trzebowitów	Trzebowit	subst:pl:gen:m1	imię
 Trzebowit	Trzebowit	subst:sg:nom:m1	imię	
 Trzebowity	Trzebowit	depr:pl:nom:m2	imię	
 Trzebowity	Trzebowit	depr:pl:voc:m2	imię	
-Trzebowniskach	Trzebownisko	subst:pl:loc:n2	nazwa geograficzna	
-Trzebowniskami	Trzebownisko	subst:pl:inst:n2	nazwa geograficzna	
-Trzebowniska	Trzebownisko	subst:pl:acc:n2	nazwa geograficzna	
-Trzebowniska	Trzebownisko	subst:pl:nom:n2	nazwa geograficzna	
-Trzebowniska	Trzebownisko	subst:pl:voc:n2	nazwa geograficzna	
-Trzebowniska	Trzebownisko	subst:sg:gen:n2	nazwa geograficzna	
-Trzebowniskiem	Trzebownisko	subst:sg:inst:n2	nazwa geograficzna	
-Trzebowniskom	Trzebownisko	subst:pl:dat:n2	nazwa geograficzna	
-Trzebownisko	Trzebownisko	subst:sg:acc:n2	nazwa geograficzna	
-Trzebownisko	Trzebownisko	subst:sg:nom:n2	nazwa geograficzna	
-Trzebownisko	Trzebownisko	subst:sg:voc:n2	nazwa geograficzna	
-Trzebownisk	Trzebownisko	subst:pl:gen:n2	nazwa geograficzna	
-Trzebownisku	Trzebownisko	subst:sg:dat:n2	nazwa geograficzna	
-Trzebownisku	Trzebownisko	subst:sg:loc:n2	nazwa geograficzna	
+Trzebowniskach	Trzebownisko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Trzebowniskami	Trzebownisko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Trzebowniska	Trzebownisko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Trzebowniska	Trzebownisko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Trzebowniska	Trzebownisko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Trzebowniska	Trzebownisko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Trzebowniskiem	Trzebownisko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Trzebowniskom	Trzebownisko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Trzebownisko	Trzebownisko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Trzebownisko	Trzebownisko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Trzebownisko	Trzebownisko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Trzebownisk	Trzebownisko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Trzebownisku	Trzebownisko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Trzebownisku	Trzebownisko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Trzeciakach	Trzeciak	subst:pl:loc:m1	nazwisko	
 Trzeciakami	Trzeciak	subst:pl:inst:m1	nazwisko	
 Trzeciaka	Trzeciak	subst:sg:acc:m1	nazwisko	
@@ -5461,20 +5461,20 @@ Tudorze	Tudor	subst:sg:loc:m1	nazwisko
 Tudorze	Tudor	subst:sg:voc:m1	nazwisko	
 Tudorzy	Tudor	subst:pl:nom:m1	nazwisko	
 Tudorzy	Tudor	subst:pl:voc:m1	nazwisko	
-Tuhanowiczach	Tuhanowicze	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Tuhanowiczach	Tuhanowicze	subst:pl:loc:p3	nazwa geograficzna	
-Tuhanowiczami	Tuhanowicze	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Tuhanowiczami	Tuhanowicze	subst:pl:inst:p3	nazwa geograficzna	
-Tuhanowicze	Tuhanowicze	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Tuhanowicze	Tuhanowicze	subst:pl:acc:p3	nazwa geograficzna	
-Tuhanowicze	Tuhanowicze	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Tuhanowicze	Tuhanowicze	subst:pl:nom:p3	nazwa geograficzna	
-Tuhanowicze	Tuhanowicze	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Tuhanowicze	Tuhanowicze	subst:pl:voc:p3	nazwa geograficzna	
-Tuhanowiczom	Tuhanowicze	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Tuhanowiczom	Tuhanowicze	subst:pl:dat:p3	nazwa geograficzna	
-Tuhanowicz	Tuhanowicze	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Tuhanowicz	Tuhanowicze	subst:pl:gen:p3	nazwa geograficzna	
+Tuhanowiczach	Tuhanowicze	subst:pl:loc:n:pt	nazwa geograficzna	
+Tuhanowiczach	Tuhanowicze	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Tuhanowiczami	Tuhanowicze	subst:pl:inst:n:pt	nazwa geograficzna	
+Tuhanowiczami	Tuhanowicze	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Tuhanowicze	Tuhanowicze	subst:pl:acc:n:pt	nazwa geograficzna	
+Tuhanowicze	Tuhanowicze	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Tuhanowicze	Tuhanowicze	subst:pl:nom:n:pt	nazwa geograficzna	
+Tuhanowicze	Tuhanowicze	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Tuhanowicze	Tuhanowicze	subst:pl:voc:n:pt	nazwa geograficzna	
+Tuhanowicze	Tuhanowicze	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Tuhanowiczom	Tuhanowicze	subst:pl:dat:n:pt	nazwa geograficzna	
+Tuhanowiczom	Tuhanowicze	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Tuhanowicz	Tuhanowicze	subst:pl:gen:n:pt	nazwa geograficzna	
+Tuhanowicz	Tuhanowicze	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Tukidydesach	Tukidydes	subst:pl:loc:m1	imię	
 Tukidydesami	Tukidydes	subst:pl:inst:m1	imię	
 Tukidydesa	Tukidydes	subst:sg:acc:m1	imię	
@@ -5536,20 +5536,20 @@ Tuły	Tuła	subst:pl:acc:f	nazwa geograficzna
 Tuły	Tuła	subst:pl:nom:f	nazwa geograficzna	
 Tuły	Tuła	subst:pl:voc:f	nazwa geograficzna	
 Tuły	Tuła	subst:sg:gen:f	nazwa geograficzna	
-Tułowicach	Tułowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Tułowicach	Tułowice	subst:pl:loc:p3	nazwa geograficzna	
-Tułowicami	Tułowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Tułowicami	Tułowice	subst:pl:inst:p3	nazwa geograficzna	
-Tułowice	Tułowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Tułowice	Tułowice	subst:pl:acc:p3	nazwa geograficzna	
-Tułowice	Tułowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Tułowice	Tułowice	subst:pl:nom:p3	nazwa geograficzna	
-Tułowice	Tułowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Tułowice	Tułowice	subst:pl:voc:p3	nazwa geograficzna	
-Tułowicom	Tułowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Tułowicom	Tułowice	subst:pl:dat:p3	nazwa geograficzna	
-Tułowic	Tułowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Tułowic	Tułowice	subst:pl:gen:p3	nazwa geograficzna	
+Tułowicach	Tułowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Tułowicach	Tułowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Tułowicami	Tułowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Tułowicami	Tułowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Tułowice	Tułowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Tułowice	Tułowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Tułowice	Tułowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Tułowice	Tułowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Tułowice	Tułowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Tułowice	Tułowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Tułowicom	Tułowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Tułowicom	Tułowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Tułowic	Tułowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Tułowic	Tułowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Tunezjach	Tunezja	subst:pl:loc:f	nazwa geograficzna	
 Tunezjami	Tunezja	subst:pl:inst:f	nazwa geograficzna	
 Tunezja	Tunezja	subst:sg:nom:f	nazwa geograficzna	
@@ -5611,20 +5611,20 @@ Tunisu	Tunis	subst:sg:gen:m3	nazwa geograficzna
 Tunisy	Tunis	subst:pl:acc:m3	nazwa geograficzna	
 Tunisy	Tunis	subst:pl:nom:m3	nazwa geograficzna	
 Tunisy	Tunis	subst:pl:voc:m3	nazwa geograficzna	
-Tuplicach	Tuplice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Tuplicach	Tuplice	subst:pl:loc:p3	nazwa geograficzna	
-Tuplicami	Tuplice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Tuplicami	Tuplice	subst:pl:inst:p3	nazwa geograficzna	
-Tuplice	Tuplice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Tuplice	Tuplice	subst:pl:acc:p3	nazwa geograficzna	
-Tuplice	Tuplice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Tuplice	Tuplice	subst:pl:nom:p3	nazwa geograficzna	
-Tuplice	Tuplice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Tuplice	Tuplice	subst:pl:voc:p3	nazwa geograficzna	
-Tuplicom	Tuplice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Tuplicom	Tuplice	subst:pl:dat:p3	nazwa geograficzna	
-Tuplic	Tuplice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Tuplic	Tuplice	subst:pl:gen:p3	nazwa geograficzna	
+Tuplicach	Tuplice	subst:pl:loc:n:pt	nazwa geograficzna	
+Tuplicach	Tuplice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Tuplicami	Tuplice	subst:pl:inst:n:pt	nazwa geograficzna	
+Tuplicami	Tuplice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Tuplice	Tuplice	subst:pl:acc:n:pt	nazwa geograficzna	
+Tuplice	Tuplice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Tuplice	Tuplice	subst:pl:nom:n:pt	nazwa geograficzna	
+Tuplice	Tuplice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Tuplice	Tuplice	subst:pl:voc:n:pt	nazwa geograficzna	
+Tuplice	Tuplice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Tuplicom	Tuplice	subst:pl:dat:n:pt	nazwa geograficzna	
+Tuplicom	Tuplice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Tuplic	Tuplice	subst:pl:gen:n:pt	nazwa geograficzna	
+Tuplic	Tuplice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Tupolewach	Tupolew	subst:pl:loc:m1	nazwisko	
 Tupolewami	Tupolew	subst:pl:inst:m1	nazwisko	
 Tupolewa	Tupolew	subst:sg:acc:m1	nazwisko	
@@ -5647,22 +5647,22 @@ TUR-em	TUR	subst:sg:inst:m3	nazwa organizacji
 TUR-om	TUR	subst:pl:dat:m3	nazwa organizacji	
 TUR-owi	TUR	subst:sg:dat:m3	nazwa organizacji	
 TUR-ów	TUR	subst:pl:gen:m3	nazwa organizacji	
-TUR	TUR	subst:pl:acc:n2	nazwa organizacji	
-TUR	TUR	subst:pl:dat:n2	nazwa organizacji	
-TUR	TUR	subst:pl:gen:n2	nazwa organizacji	
-TUR	TUR	subst:pl:inst:n2	nazwa organizacji	
-TUR	TUR	subst:pl:loc:n2	nazwa organizacji	
-TUR	TUR	subst:pl:nom:n2	nazwa organizacji	
-TUR	TUR	subst:pl:voc:n2	nazwa organizacji	
+TUR	TUR	subst:pl:acc:n:ncol	nazwa organizacji	
+TUR	TUR	subst:pl:dat:n:ncol	nazwa organizacji	
+TUR	TUR	subst:pl:gen:n:ncol	nazwa organizacji	
+TUR	TUR	subst:pl:inst:n:ncol	nazwa organizacji	
+TUR	TUR	subst:pl:loc:n:ncol	nazwa organizacji	
+TUR	TUR	subst:pl:nom:n:ncol	nazwa organizacji	
+TUR	TUR	subst:pl:voc:n:ncol	nazwa organizacji	
 TUR	TUR	subst:sg:acc:m3	nazwa organizacji	
-TUR	TUR	subst:sg:acc:n2	nazwa organizacji	
-TUR	TUR	subst:sg:dat:n2	nazwa organizacji	
-TUR	TUR	subst:sg:gen:n2	nazwa organizacji	
-TUR	TUR	subst:sg:inst:n2	nazwa organizacji	
-TUR	TUR	subst:sg:loc:n2	nazwa organizacji	
+TUR	TUR	subst:sg:acc:n:ncol	nazwa organizacji	
+TUR	TUR	subst:sg:dat:n:ncol	nazwa organizacji	
+TUR	TUR	subst:sg:gen:n:ncol	nazwa organizacji	
+TUR	TUR	subst:sg:inst:n:ncol	nazwa organizacji	
+TUR	TUR	subst:sg:loc:n:ncol	nazwa organizacji	
 TUR	TUR	subst:sg:nom:m3	nazwa organizacji	
-TUR	TUR	subst:sg:nom:n2	nazwa organizacji	
-TUR	TUR	subst:sg:voc:n2	nazwa organizacji	
+TUR	TUR	subst:sg:nom:n:ncol	nazwa organizacji	
+TUR	TUR	subst:sg:voc:n:ncol	nazwa organizacji	
 TUR-u	TUR	subst:sg:gen:m3	nazwa organizacji	
 TUR-y	TUR	subst:pl:acc:m3	nazwa organizacji	
 TUR-y	TUR	subst:pl:nom:m3	nazwa organizacji	
@@ -5974,20 +5974,20 @@ Turkowskim	Turkowski	subst:sg:inst:m1	nazwisko
 Turkowskim	Turkowski	subst:sg:loc:m1	nazwisko	
 Turkowski	Turkowski	subst:sg:nom:m1	nazwisko	
 Turkowski	Turkowski	subst:sg:voc:m1	nazwisko	
-Turku	Turku	subst:pl:acc:n2	nazwa geograficzna	
-Turku	Turku	subst:pl:dat:n2	nazwa geograficzna	
-Turku	Turku	subst:pl:gen:n2	nazwa geograficzna	
-Turku	Turku	subst:pl:inst:n2	nazwa geograficzna	
-Turku	Turku	subst:pl:loc:n2	nazwa geograficzna	
-Turku	Turku	subst:pl:nom:n2	nazwa geograficzna	
-Turku	Turku	subst:pl:voc:n2	nazwa geograficzna	
-Turku	Turku	subst:sg:acc:n2	nazwa geograficzna	
-Turku	Turku	subst:sg:dat:n2	nazwa geograficzna	
-Turku	Turku	subst:sg:gen:n2	nazwa geograficzna	
-Turku	Turku	subst:sg:inst:n2	nazwa geograficzna	
-Turku	Turku	subst:sg:loc:n2	nazwa geograficzna	
-Turku	Turku	subst:sg:nom:n2	nazwa geograficzna	
-Turku	Turku	subst:sg:voc:n2	nazwa geograficzna	
+Turku	Turku	subst:pl:acc:n:ncol	nazwa geograficzna	
+Turku	Turku	subst:pl:dat:n:ncol	nazwa geograficzna	
+Turku	Turku	subst:pl:gen:n:ncol	nazwa geograficzna	
+Turku	Turku	subst:pl:inst:n:ncol	nazwa geograficzna	
+Turku	Turku	subst:pl:loc:n:ncol	nazwa geograficzna	
+Turku	Turku	subst:pl:nom:n:ncol	nazwa geograficzna	
+Turku	Turku	subst:pl:voc:n:ncol	nazwa geograficzna	
+Turku	Turku	subst:sg:acc:n:ncol	nazwa geograficzna	
+Turku	Turku	subst:sg:dat:n:ncol	nazwa geograficzna	
+Turku	Turku	subst:sg:gen:n:ncol	nazwa geograficzna	
+Turku	Turku	subst:sg:inst:n:ncol	nazwa geograficzna	
+Turku	Turku	subst:sg:loc:n:ncol	nazwa geograficzna	
+Turku	Turku	subst:sg:nom:n:ncol	nazwa geograficzna	
+Turku	Turku	subst:sg:voc:n:ncol	nazwa geograficzna	
 Turnauach	Turnau	subst:pl:loc:m1	nazwisko	
 Turnauami	Turnau	subst:pl:inst:m1	nazwisko	
 Turnaua	Turnau	subst:sg:acc:m1	nazwisko	
@@ -6320,33 +6320,33 @@ TVP	TVP	subst:sg:loc:f	nazwa firmy
 TVP	TVP	subst:sg:nom:f	nazwa firmy	
 TVP	TVP	subst:sg:voc:f	nazwa firmy	
 TW	TW	subst:pl:acc:m3	nazwa instytucji	
-TW	TW	subst:pl:acc:n2	nazwa instytucji	
+TW	TW	subst:pl:acc:n:ncol	nazwa instytucji	
 TW	TW	subst:pl:dat:m3	nazwa instytucji	
-TW	TW	subst:pl:dat:n2	nazwa instytucji	
+TW	TW	subst:pl:dat:n:ncol	nazwa instytucji	
 TW	TW	subst:pl:gen:m3	nazwa instytucji	
-TW	TW	subst:pl:gen:n2	nazwa instytucji	
+TW	TW	subst:pl:gen:n:ncol	nazwa instytucji	
 TW	TW	subst:pl:inst:m3	nazwa instytucji	
-TW	TW	subst:pl:inst:n2	nazwa instytucji	
+TW	TW	subst:pl:inst:n:ncol	nazwa instytucji	
 TW	TW	subst:pl:loc:m3	nazwa instytucji	
-TW	TW	subst:pl:loc:n2	nazwa instytucji	
+TW	TW	subst:pl:loc:n:ncol	nazwa instytucji	
 TW	TW	subst:pl:nom:m3	nazwa instytucji	
-TW	TW	subst:pl:nom:n2	nazwa instytucji	
+TW	TW	subst:pl:nom:n:ncol	nazwa instytucji	
 TW	TW	subst:pl:voc:m3	nazwa instytucji	
-TW	TW	subst:pl:voc:n2	nazwa instytucji	
+TW	TW	subst:pl:voc:n:ncol	nazwa instytucji	
 TW	TW	subst:sg:acc:m3	nazwa instytucji	
-TW	TW	subst:sg:acc:n2	nazwa instytucji	
+TW	TW	subst:sg:acc:n:ncol	nazwa instytucji	
 TW	TW	subst:sg:dat:m3	nazwa instytucji	
-TW	TW	subst:sg:dat:n2	nazwa instytucji	
+TW	TW	subst:sg:dat:n:ncol	nazwa instytucji	
 TW	TW	subst:sg:gen:m3	nazwa instytucji	
-TW	TW	subst:sg:gen:n2	nazwa instytucji	
+TW	TW	subst:sg:gen:n:ncol	nazwa instytucji	
 TW	TW	subst:sg:inst:m3	nazwa instytucji	
-TW	TW	subst:sg:inst:n2	nazwa instytucji	
+TW	TW	subst:sg:inst:n:ncol	nazwa instytucji	
 TW	TW	subst:sg:loc:m3	nazwa instytucji	
-TW	TW	subst:sg:loc:n2	nazwa instytucji	
+TW	TW	subst:sg:loc:n:ncol	nazwa instytucji	
 TW	TW	subst:sg:nom:m3	nazwa instytucji	
-TW	TW	subst:sg:nom:n2	nazwa instytucji	
+TW	TW	subst:sg:nom:n:ncol	nazwa instytucji	
 TW	TW	subst:sg:voc:m3	nazwa instytucji	
-TW	TW	subst:sg:voc:n2	nazwa instytucji	
+TW	TW	subst:sg:voc:n:ncol	nazwa instytucji	
 TWA	TWA	subst:pl:acc:f	nazwa firmy	
 TWA	TWA	subst:pl:acc:m3	nazwa firmy	
 TWA	TWA	subst:pl:dat:f	nazwa firmy	
@@ -6453,20 +6453,20 @@ Twery	Twer	subst:pl:nom:m3	nazwa geograficzna
 Twery	Twer	subst:pl:voc:m3	nazwa geograficzna	
 Twerze	Twer	subst:sg:loc:m3	nazwa geograficzna	
 Twerze	Twer	subst:sg:voc:m3	nazwa geograficzna	
-Tworek	Tworki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Tworek	Tworki	subst:pl:gen:p3	nazwa geograficzna	
-Tworkach	Tworki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Tworkach	Tworki	subst:pl:loc:p3	nazwa geograficzna	
-Tworkami	Tworki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Tworkami	Tworki	subst:pl:inst:p3	nazwa geograficzna	
-Tworki	Tworki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Tworki	Tworki	subst:pl:acc:p3	nazwa geograficzna	
-Tworki	Tworki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Tworki	Tworki	subst:pl:nom:p3	nazwa geograficzna	
-Tworki	Tworki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Tworki	Tworki	subst:pl:voc:p3	nazwa geograficzna	
-Tworkom	Tworki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Tworkom	Tworki	subst:pl:dat:p3	nazwa geograficzna	
+Tworek	Tworki	subst:pl:gen:n:pt	nazwa geograficzna	
+Tworek	Tworki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Tworkach	Tworki	subst:pl:loc:n:pt	nazwa geograficzna	
+Tworkach	Tworki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Tworkami	Tworki	subst:pl:inst:n:pt	nazwa geograficzna	
+Tworkami	Tworki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Tworki	Tworki	subst:pl:acc:n:pt	nazwa geograficzna	
+Tworki	Tworki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Tworki	Tworki	subst:pl:nom:n:pt	nazwa geograficzna	
+Tworki	Tworki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Tworki	Tworki	subst:pl:voc:n:pt	nazwa geograficzna	
+Tworki	Tworki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Tworkom	Tworki	subst:pl:dat:n:pt	nazwa geograficzna	
+Tworkom	Tworki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Tworogach	Tworóg	subst:pl:loc:m3	nazwa geograficzna	
 Tworogami	Tworóg	subst:pl:inst:m3	nazwa geograficzna	
 Tworoga	Tworóg	subst:sg:gen:m3	nazwa geograficzna	
@@ -6531,20 +6531,20 @@ Tworzysławy	Tworzysława	subst:pl:acc:f	imię
 Tworzysławy	Tworzysława	subst:pl:nom:f	imię	
 Tworzysławy	Tworzysława	subst:pl:voc:f	imię	
 Tworzysławy	Tworzysława	subst:sg:gen:f	imię	
-TWP	TWP	subst:pl:acc:n2	nazwa instytucji	
-TWP	TWP	subst:pl:dat:n2	nazwa instytucji	
-TWP	TWP	subst:pl:gen:n2	nazwa instytucji	
-TWP	TWP	subst:pl:inst:n2	nazwa instytucji	
-TWP	TWP	subst:pl:loc:n2	nazwa instytucji	
-TWP	TWP	subst:pl:nom:n2	nazwa instytucji	
-TWP	TWP	subst:pl:voc:n2	nazwa instytucji	
-TWP	TWP	subst:sg:acc:n2	nazwa instytucji	
-TWP	TWP	subst:sg:dat:n2	nazwa instytucji	
-TWP	TWP	subst:sg:gen:n2	nazwa instytucji	
-TWP	TWP	subst:sg:inst:n2	nazwa instytucji	
-TWP	TWP	subst:sg:loc:n2	nazwa instytucji	
-TWP	TWP	subst:sg:nom:n2	nazwa instytucji	
-TWP	TWP	subst:sg:voc:n2	nazwa instytucji	
+TWP	TWP	subst:pl:acc:n:ncol	nazwa instytucji	
+TWP	TWP	subst:pl:dat:n:ncol	nazwa instytucji	
+TWP	TWP	subst:pl:gen:n:ncol	nazwa instytucji	
+TWP	TWP	subst:pl:inst:n:ncol	nazwa instytucji	
+TWP	TWP	subst:pl:loc:n:ncol	nazwa instytucji	
+TWP	TWP	subst:pl:nom:n:ncol	nazwa instytucji	
+TWP	TWP	subst:pl:voc:n:ncol	nazwa instytucji	
+TWP	TWP	subst:sg:acc:n:ncol	nazwa instytucji	
+TWP	TWP	subst:sg:dat:n:ncol	nazwa instytucji	
+TWP	TWP	subst:sg:gen:n:ncol	nazwa instytucji	
+TWP	TWP	subst:sg:inst:n:ncol	nazwa instytucji	
+TWP	TWP	subst:sg:loc:n:ncol	nazwa instytucji	
+TWP	TWP	subst:sg:nom:n:ncol	nazwa instytucji	
+TWP	TWP	subst:sg:voc:n:ncol	nazwa instytucji	
 Tyber	Tyber	subst:sg:acc:m3	nazwa geograficzna	
 Tyber	Tyber	subst:sg:nom:m3	nazwa geograficzna	
 Tybrach	Tyber	subst:pl:loc:m3	nazwa geograficzna	
@@ -6729,36 +6729,36 @@ Tychonów	Tychon	subst:pl:gen:m1	imię
 Tychon	Tychon	subst:sg:nom:m1	imię	
 Tychony	Tychon	depr:pl:nom:m2	imię	
 Tychony	Tychon	depr:pl:voc:m2	imię	
-Tychowach	Tychowo	subst:pl:loc:n2	nazwa geograficzna	
-Tychowami	Tychowo	subst:pl:inst:n2	nazwa geograficzna	
-Tychowa	Tychowo	subst:pl:acc:n2	nazwa geograficzna	
-Tychowa	Tychowo	subst:pl:nom:n2	nazwa geograficzna	
-Tychowa	Tychowo	subst:pl:voc:n2	nazwa geograficzna	
-Tychowa	Tychowo	subst:sg:gen:n2	nazwa geograficzna	
-Tychowem	Tychowo	subst:sg:inst:n2	nazwa geograficzna	
-Tychowie	Tychowo	subst:sg:loc:n2	nazwa geograficzna	
-Tychowom	Tychowo	subst:pl:dat:n2	nazwa geograficzna	
-Tychowo	Tychowo	subst:sg:acc:n2	nazwa geograficzna	
-Tychowo	Tychowo	subst:sg:nom:n2	nazwa geograficzna	
-Tychowo	Tychowo	subst:sg:voc:n2	nazwa geograficzna	
-Tychowów	Tychowo	subst:pl:gen:n2	nazwa geograficzna	
-Tychow	Tychowo	subst:pl:gen:n2	nazwa geograficzna	
-Tychowu	Tychowo	subst:sg:dat:n2	nazwa geograficzna	
-Tychów	Tychowo	subst:pl:gen:n2	nazwa geograficzna	
-Tychach	Tychy	subst:pl:loc:p2	nazwa geograficzna	reg.
-Tychach	Tychy	subst:pl:loc:p3	nazwa geograficzna	
-Tychami	Tychy	subst:pl:inst:p2	nazwa geograficzna	reg.
-Tychami	Tychy	subst:pl:inst:p3	nazwa geograficzna	
-Tychom	Tychy	subst:pl:dat:p2	nazwa geograficzna	reg.
-Tychom	Tychy	subst:pl:dat:p3	nazwa geograficzna	
-Tychów	Tychy	subst:pl:gen:p2	nazwa geograficzna	reg.
-Tych	Tychy	subst:pl:gen:p3	nazwa geograficzna	
-Tychy	Tychy	subst:pl:acc:p2	nazwa geograficzna	reg.
-Tychy	Tychy	subst:pl:acc:p3	nazwa geograficzna	
-Tychy	Tychy	subst:pl:nom:p2	nazwa geograficzna	reg.
-Tychy	Tychy	subst:pl:nom:p3	nazwa geograficzna	
-Tychy	Tychy	subst:pl:voc:p2	nazwa geograficzna	reg.
-Tychy	Tychy	subst:pl:voc:p3	nazwa geograficzna	
+Tychowach	Tychowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tychowami	Tychowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tychowa	Tychowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tychowa	Tychowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tychowa	Tychowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tychowa	Tychowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tychowem	Tychowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tychowie	Tychowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Tychowom	Tychowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Tychowo	Tychowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tychowo	Tychowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tychowo	Tychowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Tychowów	Tychowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tychow	Tychowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tychowu	Tychowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tychów	Tychowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tychach	Tychy	subst:pl:loc:n:pt	nazwa geograficzna	
+Tychach	Tychy	subst:pl:loc:n:pt	nazwa geograficzna	reg.
+Tychami	Tychy	subst:pl:inst:n:pt	nazwa geograficzna	
+Tychami	Tychy	subst:pl:inst:n:pt	nazwa geograficzna	reg.
+Tychom	Tychy	subst:pl:dat:n:pt	nazwa geograficzna	
+Tychom	Tychy	subst:pl:dat:n:pt	nazwa geograficzna	reg.
+Tychów	Tychy	subst:pl:gen:n:pt	nazwa geograficzna	reg.
+Tych	Tychy	subst:pl:gen:n:pt	nazwa geograficzna	
+Tychy	Tychy	subst:pl:acc:n:pt	nazwa geograficzna	
+Tychy	Tychy	subst:pl:acc:n:pt	nazwa geograficzna	reg.
+Tychy	Tychy	subst:pl:nom:n:pt	nazwa geograficzna	
+Tychy	Tychy	subst:pl:nom:n:pt	nazwa geograficzna	reg.
+Tychy	Tychy	subst:pl:voc:n:pt	nazwa geograficzna	
+Tychy	Tychy	subst:pl:voc:n:pt	nazwa geograficzna	reg.
 Tycjanach	Tycjan	subst:pl:loc:m1	imię	
 Tycjanami	Tycjan	subst:pl:inst:m1	imię	
 Tycjana	Tycjan	subst:sg:acc:m1	imię	
@@ -6956,13 +6956,13 @@ Tymoteuszów	Tymoteusz	subst:pl:gen:m1	imię
 Tymoteusz	Tymoteusz	subst:sg:nom:m1	imię	
 Tymoteuszu	Tymoteusz	subst:sg:loc:m1	imię	
 Tymoteuszu	Tymoteusz	subst:sg:voc:m1	imię	
-Tymoteuszostwa	Tymoteuszostwo	subst:pl:acc:p1	nazwa pospolita	przest.
-Tymoteuszostwa	Tymoteuszostwo	subst:pl:gen:p1	nazwa pospolita	przest.
-Tymoteuszostwem	Tymoteuszostwo	subst:pl:inst:p1	nazwa pospolita	przest.
-Tymoteuszostwo	Tymoteuszostwo	subst:pl:nom:p1	nazwa pospolita	przest.
-Tymoteuszostwo	Tymoteuszostwo	subst:pl:voc:p1	nazwa pospolita	przest.
-Tymoteuszostwu	Tymoteuszostwo	subst:pl:dat:p1	nazwa pospolita	przest.
-Tymoteuszostwu	Tymoteuszostwo	subst:pl:loc:p1	nazwa pospolita	przest.
+Tymoteuszostwa	Tymoteuszostwo	subst:pl:acc:m1:pt	nazwa pospolita	przest.
+Tymoteuszostwa	Tymoteuszostwo	subst:pl:gen:m1:pt	nazwa pospolita	przest.
+Tymoteuszostwem	Tymoteuszostwo	subst:pl:inst:m1:pt	nazwa pospolita	przest.
+Tymoteuszostwo	Tymoteuszostwo	subst:pl:nom:m1:pt	nazwa pospolita	przest.
+Tymoteuszostwo	Tymoteuszostwo	subst:pl:voc:m1:pt	nazwa pospolita	przest.
+Tymoteuszostwu	Tymoteuszostwo	subst:pl:dat:m1:pt	nazwa pospolita	przest.
+Tymoteuszostwu	Tymoteuszostwo	subst:pl:loc:m1:pt	nazwa pospolita	przest.
 Tyniec	Tyniec	subst:sg:acc:m3	nazwa geograficzna	
 Tyniec	Tyniec	subst:sg:nom:m3	nazwa geograficzna	
 Tyńcach	Tyniec	subst:pl:loc:m3	nazwa geograficzna	
@@ -7007,22 +7007,22 @@ Tyrmandy	Tyrmand	depr:pl:nom:m2	nazwisko
 Tyrmandy	Tyrmand	depr:pl:voc:m2	nazwisko	
 Tyrmandzie	Tyrmand	subst:sg:loc:m1	nazwisko	
 Tyrmandzie	Tyrmand	subst:sg:voc:m1	nazwisko	
-Tyrnowach	Tyrnowo	subst:pl:loc:n2	nazwa geograficzna	
-Tyrnowami	Tyrnowo	subst:pl:inst:n2	nazwa geograficzna	
-Tyrnowa	Tyrnowo	subst:pl:acc:n2	nazwa geograficzna	
-Tyrnowa	Tyrnowo	subst:pl:nom:n2	nazwa geograficzna	
-Tyrnowa	Tyrnowo	subst:pl:voc:n2	nazwa geograficzna	
-Tyrnowa	Tyrnowo	subst:sg:gen:n2	nazwa geograficzna	
-Tyrnowem	Tyrnowo	subst:sg:inst:n2	nazwa geograficzna	
-Tyrnowie	Tyrnowo	subst:sg:loc:n2	nazwa geograficzna	
-Tyrnowom	Tyrnowo	subst:pl:dat:n2	nazwa geograficzna	
-Tyrnowo	Tyrnowo	subst:sg:acc:n2	nazwa geograficzna	
-Tyrnowo	Tyrnowo	subst:sg:nom:n2	nazwa geograficzna	
-Tyrnowo	Tyrnowo	subst:sg:voc:n2	nazwa geograficzna	
-Tyrnowów	Tyrnowo	subst:pl:gen:n2	nazwa geograficzna	
-Tyrnow	Tyrnowo	subst:pl:gen:n2	nazwa geograficzna	
-Tyrnowu	Tyrnowo	subst:sg:dat:n2	nazwa geograficzna	
-Tyrnów	Tyrnowo	subst:pl:gen:n2	nazwa geograficzna	
+Tyrnowach	Tyrnowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Tyrnowami	Tyrnowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Tyrnowa	Tyrnowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Tyrnowa	Tyrnowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Tyrnowa	Tyrnowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Tyrnowa	Tyrnowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Tyrnowem	Tyrnowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Tyrnowie	Tyrnowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Tyrnowom	Tyrnowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Tyrnowo	Tyrnowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Tyrnowo	Tyrnowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Tyrnowo	Tyrnowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Tyrnowów	Tyrnowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tyrnow	Tyrnowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Tyrnowu	Tyrnowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Tyrnów	Tyrnowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Tyrolach	Tyrol	subst:pl:loc:m3	nazwa geograficzna	
 Tyrolami	Tyrol	subst:pl:inst:m3	nazwa geograficzna	
 Tyrolem	Tyrol	subst:sg:inst:m3	nazwa geograficzna	
@@ -7074,22 +7074,22 @@ Tyszkiewiczów	Tyszkiewicz	subst:pl:gen:m1	nazwisko
 Tyszkiewicz	Tyszkiewicz	subst:sg:nom:m1	nazwisko	
 Tyszkiewiczu	Tyszkiewicz	subst:sg:loc:m1	nazwisko	
 Tyszkiewiczu	Tyszkiewicz	subst:sg:voc:m1	nazwisko	
-Tyszowcach	Tyszowce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Tyszowcach	Tyszowce	subst:pl:loc:p3	nazwa geograficzna	
-Tyszowcami	Tyszowce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Tyszowcami	Tyszowce	subst:pl:inst:p3	nazwa geograficzna	
-Tyszowce	Tyszowce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Tyszowce	Tyszowce	subst:pl:acc:p3	nazwa geograficzna	
-Tyszowce	Tyszowce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Tyszowce	Tyszowce	subst:pl:nom:p3	nazwa geograficzna	
-Tyszowce	Tyszowce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Tyszowce	Tyszowce	subst:pl:voc:p3	nazwa geograficzna	
-Tyszowcom	Tyszowce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Tyszowcom	Tyszowce	subst:pl:dat:p3	nazwa geograficzna	
-Tyszowców	Tyszowce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Tyszowców	Tyszowce	subst:pl:gen:p3	nazwa geograficzna	
-Tyszowiec	Tyszowce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Tyszowiec	Tyszowce	subst:pl:gen:p3	nazwa geograficzna	
+Tyszowcach	Tyszowce	subst:pl:loc:n:pt	nazwa geograficzna	
+Tyszowcach	Tyszowce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Tyszowcami	Tyszowce	subst:pl:inst:n:pt	nazwa geograficzna	
+Tyszowcami	Tyszowce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Tyszowce	Tyszowce	subst:pl:acc:n:pt	nazwa geograficzna	
+Tyszowce	Tyszowce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Tyszowce	Tyszowce	subst:pl:nom:n:pt	nazwa geograficzna	
+Tyszowce	Tyszowce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Tyszowce	Tyszowce	subst:pl:voc:n:pt	nazwa geograficzna	
+Tyszowce	Tyszowce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Tyszowcom	Tyszowce	subst:pl:dat:n:pt	nazwa geograficzna	
+Tyszowcom	Tyszowce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Tyszowców	Tyszowce	subst:pl:gen:n:pt	nazwa geograficzna	
+Tyszowców	Tyszowce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Tyszowiec	Tyszowce	subst:pl:gen:n:pt	nazwa geograficzna	
+Tyszowiec	Tyszowce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Tytusach	Tytus	subst:pl:loc:m1	imię	
 Tytusami	Tytus	subst:pl:inst:m1	imię	
 Tytusa	Tytus	subst:sg:acc:m1	imię	
@@ -7138,17 +7138,17 @@ Tyzenhauzów	Tyzenhauz	subst:pl:gen:m1	nazwisko
 Tyzenhauz	Tyzenhauz	subst:sg:nom:m1	nazwisko	
 Tyzenhauzy	Tyzenhauz	depr:pl:nom:m2	nazwisko	
 Tyzenhauzy	Tyzenhauz	depr:pl:voc:m2	nazwisko	
-TZSP	TZSP	subst:pl:acc:n2	nazwa organizacji	
-TZSP	TZSP	subst:pl:dat:n2	nazwa organizacji	
-TZSP	TZSP	subst:pl:gen:n2	nazwa organizacji	
-TZSP	TZSP	subst:pl:inst:n2	nazwa organizacji	
-TZSP	TZSP	subst:pl:loc:n2	nazwa organizacji	
-TZSP	TZSP	subst:pl:nom:n2	nazwa organizacji	
-TZSP	TZSP	subst:pl:voc:n2	nazwa organizacji	
-TZSP	TZSP	subst:sg:acc:n2	nazwa organizacji	
-TZSP	TZSP	subst:sg:dat:n2	nazwa organizacji	
-TZSP	TZSP	subst:sg:gen:n2	nazwa organizacji	
-TZSP	TZSP	subst:sg:inst:n2	nazwa organizacji	
-TZSP	TZSP	subst:sg:loc:n2	nazwa organizacji	
-TZSP	TZSP	subst:sg:nom:n2	nazwa organizacji	
-TZSP	TZSP	subst:sg:voc:n2	nazwa organizacji	
+TZSP	TZSP	subst:pl:acc:n:ncol	nazwa organizacji	
+TZSP	TZSP	subst:pl:dat:n:ncol	nazwa organizacji	
+TZSP	TZSP	subst:pl:gen:n:ncol	nazwa organizacji	
+TZSP	TZSP	subst:pl:inst:n:ncol	nazwa organizacji	
+TZSP	TZSP	subst:pl:loc:n:ncol	nazwa organizacji	
+TZSP	TZSP	subst:pl:nom:n:ncol	nazwa organizacji	
+TZSP	TZSP	subst:pl:voc:n:ncol	nazwa organizacji	
+TZSP	TZSP	subst:sg:acc:n:ncol	nazwa organizacji	
+TZSP	TZSP	subst:sg:dat:n:ncol	nazwa organizacji	
+TZSP	TZSP	subst:sg:gen:n:ncol	nazwa organizacji	
+TZSP	TZSP	subst:sg:inst:n:ncol	nazwa organizacji	
+TZSP	TZSP	subst:sg:loc:n:ncol	nazwa organizacji	
+TZSP	TZSP	subst:sg:nom:n:ncol	nazwa organizacji	
+TZSP	TZSP	subst:sg:voc:n:ncol	nazwa organizacji	

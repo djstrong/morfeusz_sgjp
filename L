@@ -67,36 +67,36 @@ Lachowiczów	Lachowicz	subst:pl:acc:m1	nazwisko
 Lachowiczów	Lachowicz	subst:pl:gen:m1	nazwisko	
 Lachowiczu	Lachowicz	subst:sg:loc:m1	nazwisko	
 Lachowiczu	Lachowicz	subst:sg:voc:m1	nazwisko	
-Lachowach	Lachowo	subst:pl:loc:n2	nazwa geograficzna	
-Lachowa	Lachowo	subst:pl:acc:n2	nazwa geograficzna	
-Lachowa	Lachowo	subst:pl:nom:n2	nazwa geograficzna	
-Lachowa	Lachowo	subst:pl:voc:n2	nazwa geograficzna	
-Lachowa	Lachowo	subst:sg:gen:n2	nazwa geograficzna	
-Lachowami	Lachowo	subst:pl:inst:n2	nazwa geograficzna	
-Lachowem	Lachowo	subst:sg:inst:n2	nazwa geograficzna	
-Lachowie	Lachowo	subst:sg:loc:n2	nazwa geograficzna	
-Lachow	Lachowo	subst:pl:gen:n2	nazwa geograficzna	
-Lachowo	Lachowo	subst:sg:acc:n2	nazwa geograficzna	
-Lachowo	Lachowo	subst:sg:nom:n2	nazwa geograficzna	
-Lachowo	Lachowo	subst:sg:voc:n2	nazwa geograficzna	
-Lachowom	Lachowo	subst:pl:dat:n2	nazwa geograficzna	
-Lachowów	Lachowo	subst:pl:gen:n2	nazwa geograficzna	
-Lachowu	Lachowo	subst:sg:dat:n2	nazwa geograficzna	
-Lachów	Lachowo	subst:pl:gen:n2	nazwa geograficzna	
-Lagos	Lagos	subst:pl:acc:n2	nazwa geograficzna	
-Lagos	Lagos	subst:pl:dat:n2	nazwa geograficzna	
-Lagos	Lagos	subst:pl:gen:n2	nazwa geograficzna	
-Lagos	Lagos	subst:pl:inst:n2	nazwa geograficzna	
-Lagos	Lagos	subst:pl:loc:n2	nazwa geograficzna	
-Lagos	Lagos	subst:pl:nom:n2	nazwa geograficzna	
-Lagos	Lagos	subst:pl:voc:n2	nazwa geograficzna	
-Lagos	Lagos	subst:sg:acc:n2	nazwa geograficzna	
-Lagos	Lagos	subst:sg:dat:n2	nazwa geograficzna	
-Lagos	Lagos	subst:sg:gen:n2	nazwa geograficzna	
-Lagos	Lagos	subst:sg:inst:n2	nazwa geograficzna	
-Lagos	Lagos	subst:sg:loc:n2	nazwa geograficzna	
-Lagos	Lagos	subst:sg:nom:n2	nazwa geograficzna	
-Lagos	Lagos	subst:sg:voc:n2	nazwa geograficzna	
+Lachowach	Lachowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lachowa	Lachowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lachowa	Lachowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lachowa	Lachowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Lachowa	Lachowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lachowami	Lachowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lachowem	Lachowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lachowie	Lachowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Lachow	Lachowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lachowo	Lachowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lachowo	Lachowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lachowo	Lachowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Lachowom	Lachowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lachowów	Lachowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lachowu	Lachowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lachów	Lachowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:pl:voc:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:sg:loc:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lagos	Lagos	subst:sg:voc:n:ncol	nazwa geograficzna	
 Laine’ach	Laine	subst:pl:loc:m1	nazwisko	
 Laine’a	Laine	subst:sg:acc:m1	nazwisko	
 Laine’a	Laine	subst:sg:gen:m1	nazwisko	
@@ -536,20 +536,20 @@ Larysy	Larysa	subst:pl:nom:f	imię
 Larysy	Larysa	subst:pl:voc:f	imię	
 Larysy	Larysa	subst:sg:gen:f	imię	
 Las	Las	burk		
-Laskowicach	Laskowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Laskowicach	Laskowice	subst:pl:loc:p3	nazwa geograficzna	
-Laskowicami	Laskowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Laskowicami	Laskowice	subst:pl:inst:p3	nazwa geograficzna	
-Laskowice	Laskowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Laskowice	Laskowice	subst:pl:acc:p3	nazwa geograficzna	
-Laskowice	Laskowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Laskowice	Laskowice	subst:pl:nom:p3	nazwa geograficzna	
-Laskowice	Laskowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Laskowice	Laskowice	subst:pl:voc:p3	nazwa geograficzna	
-Laskowic	Laskowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Laskowic	Laskowice	subst:pl:gen:p3	nazwa geograficzna	
-Laskowicom	Laskowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Laskowicom	Laskowice	subst:pl:dat:p3	nazwa geograficzna	
+Laskowicach	Laskowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Laskowicach	Laskowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Laskowicami	Laskowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Laskowicami	Laskowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Laskowice	Laskowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Laskowice	Laskowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Laskowice	Laskowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Laskowice	Laskowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Laskowice	Laskowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Laskowice	Laskowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Laskowic	Laskowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Laskowic	Laskowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Laskowicom	Laskowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Laskowicom	Laskowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Laskowska	Laskowska	subst:sg:nom:f	nazwisko	
 Laskowska	Laskowska	subst:sg:voc:f	nazwisko	
 Laskowską	Laskowska	subst:sg:acc:f	nazwisko	
@@ -642,20 +642,20 @@ Laszków	Laszek	subst:pl:acc:m1	nazwa pospolita	daw.
 Laszków	Laszek	subst:pl:gen:m1	nazwa pospolita	daw.
 Laszku	Laszek	subst:sg:loc:m1	nazwa pospolita	daw.
 Laszku	Laszek	subst:sg:voc:m1	nazwa pospolita	daw.
-Lasząt	Laszę	subst:pl:gen:n1	nazwa pospolita	daw.
-Laszęcia	Laszę	subst:sg:gen:n1	nazwa pospolita	daw.
-Laszęciem	Laszę	subst:sg:inst:n1	nazwa pospolita	daw.
-Laszęciu	Laszę	subst:sg:dat:n1	nazwa pospolita	daw.
-Laszęciu	Laszę	subst:sg:loc:n1	nazwa pospolita	daw.
-Laszę	Laszę	subst:sg:acc:n1	nazwa pospolita	daw.
-Laszę	Laszę	subst:sg:nom:n1	nazwa pospolita	daw.
-Laszę	Laszę	subst:sg:voc:n1	nazwa pospolita	daw.
-Laszętach	Laszę	subst:pl:loc:n1	nazwa pospolita	daw.
-Laszęta	Laszę	subst:pl:acc:n1	nazwa pospolita	daw.
-Laszęta	Laszę	subst:pl:nom:n1	nazwa pospolita	daw.
-Laszęta	Laszę	subst:pl:voc:n1	nazwa pospolita	daw.
-Laszętami	Laszę	subst:pl:inst:n1	nazwa pospolita	daw.
-Laszętom	Laszę	subst:pl:dat:n1	nazwa pospolita	daw.
+Lasząt	Laszę	subst:pl:gen:n:col	nazwa pospolita	daw.
+Laszęcia	Laszę	subst:sg:gen:n:col	nazwa pospolita	daw.
+Laszęciem	Laszę	subst:sg:inst:n:col	nazwa pospolita	daw.
+Laszęciu	Laszę	subst:sg:dat:n:col	nazwa pospolita	daw.
+Laszęciu	Laszę	subst:sg:loc:n:col	nazwa pospolita	daw.
+Laszę	Laszę	subst:sg:acc:n:col	nazwa pospolita	daw.
+Laszę	Laszę	subst:sg:nom:n:col	nazwa pospolita	daw.
+Laszę	Laszę	subst:sg:voc:n:col	nazwa pospolita	daw.
+Laszętach	Laszę	subst:pl:loc:n:col	nazwa pospolita	daw.
+Laszęta	Laszę	subst:pl:acc:n:col	nazwa pospolita	daw.
+Laszęta	Laszę	subst:pl:nom:n:col	nazwa pospolita	daw.
+Laszęta	Laszę	subst:pl:voc:n:col	nazwa pospolita	daw.
+Laszętami	Laszę	subst:pl:inst:n:col	nazwa pospolita	daw.
+Laszętom	Laszę	subst:pl:dat:n:col	nazwa pospolita	daw.
 Laszce	Laszka	subst:sg:dat:f	nazwa pospolita	daw.
 Laszce	Laszka	subst:sg:loc:f	nazwa pospolita	daw.
 Laszek	Laszka	subst:pl:gen:f	nazwa pospolita	daw.
@@ -859,20 +859,20 @@ Lawrence’y	Lawrence:s1	depr:pl:nom:m2	nazwisko
 Lawrence’y	Lawrence:s1	depr:pl:voc:m2	nazwisko	
 Lawrensie	Lawrence:s1	subst:sg:loc:m1	nazwisko	
 Lawrensie	Lawrence:s1	subst:sg:voc:m1	nazwisko	
-Lawrence	Lawrence:s2	subst:pl:acc:n2	nazwa geograficzna	
-Lawrence	Lawrence:s2	subst:pl:dat:n2	nazwa geograficzna	
-Lawrence	Lawrence:s2	subst:pl:gen:n2	nazwa geograficzna	
-Lawrence	Lawrence:s2	subst:pl:inst:n2	nazwa geograficzna	
-Lawrence	Lawrence:s2	subst:pl:loc:n2	nazwa geograficzna	
-Lawrence	Lawrence:s2	subst:pl:nom:n2	nazwa geograficzna	
-Lawrence	Lawrence:s2	subst:pl:voc:n2	nazwa geograficzna	
-Lawrence	Lawrence:s2	subst:sg:acc:n2	nazwa geograficzna	
-Lawrence	Lawrence:s2	subst:sg:dat:n2	nazwa geograficzna	
-Lawrence	Lawrence:s2	subst:sg:gen:n2	nazwa geograficzna	
-Lawrence	Lawrence:s2	subst:sg:inst:n2	nazwa geograficzna	
-Lawrence	Lawrence:s2	subst:sg:loc:n2	nazwa geograficzna	
-Lawrence	Lawrence:s2	subst:sg:nom:n2	nazwa geograficzna	
-Lawrence	Lawrence:s2	subst:sg:voc:n2	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:pl:voc:n:ncol	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:sg:loc:n:ncol	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lawrence	Lawrence:s2	subst:sg:voc:n:ncol	nazwa geograficzna	
 Laksie	Laxa	subst:sg:dat:m1	nazwisko	
 Laksie	Laxa	subst:sg:loc:m1	nazwisko	
 Laxach	Laxa	subst:pl:loc:m1	nazwisko	
@@ -903,48 +903,48 @@ Lądkowi	Lądek	subst:sg:dat:m3	nazwa geograficzna
 Lądków	Lądek	subst:pl:gen:m3	nazwa geograficzna	
 Lądku	Lądek	subst:sg:loc:m3	nazwa geograficzna	
 Lądku	Lądek	subst:sg:voc:m3	nazwa geograficzna	
-LC	LC	subst:pl:acc:n2	nazwa pospolita	
-LC	LC	subst:pl:dat:n2	nazwa pospolita	
-LC	LC	subst:pl:gen:n2	nazwa pospolita	
-LC	LC	subst:pl:inst:n2	nazwa pospolita	
-LC	LC	subst:pl:loc:n2	nazwa pospolita	
-LC	LC	subst:pl:nom:n2	nazwa pospolita	
-LC	LC	subst:pl:voc:n2	nazwa pospolita	
-LC	LC	subst:sg:acc:n2	nazwa pospolita	
-LC	LC	subst:sg:dat:n2	nazwa pospolita	
-LC	LC	subst:sg:gen:n2	nazwa pospolita	
-LC	LC	subst:sg:inst:n2	nazwa pospolita	
-LC	LC	subst:sg:loc:n2	nazwa pospolita	
-LC	LC	subst:sg:nom:n2	nazwa pospolita	
-LC	LC	subst:sg:voc:n2	nazwa pospolita	
+LC	LC	subst:pl:acc:n:ncol	nazwa pospolita	
+LC	LC	subst:pl:dat:n:ncol	nazwa pospolita	
+LC	LC	subst:pl:gen:n:ncol	nazwa pospolita	
+LC	LC	subst:pl:inst:n:ncol	nazwa pospolita	
+LC	LC	subst:pl:loc:n:ncol	nazwa pospolita	
+LC	LC	subst:pl:nom:n:ncol	nazwa pospolita	
+LC	LC	subst:pl:voc:n:ncol	nazwa pospolita	
+LC	LC	subst:sg:acc:n:ncol	nazwa pospolita	
+LC	LC	subst:sg:dat:n:ncol	nazwa pospolita	
+LC	LC	subst:sg:gen:n:ncol	nazwa pospolita	
+LC	LC	subst:sg:inst:n:ncol	nazwa pospolita	
+LC	LC	subst:sg:loc:n:ncol	nazwa pospolita	
+LC	LC	subst:sg:nom:n:ncol	nazwa pospolita	
+LC	LC	subst:sg:voc:n:ncol	nazwa pospolita	
 LCD	LCD	subst:pl:acc:m3	nazwa pospolita	
-LCD	LCD	subst:pl:acc:n2	nazwa pospolita	
+LCD	LCD	subst:pl:acc:n:ncol	nazwa pospolita	
 LCD	LCD	subst:pl:dat:m3	nazwa pospolita	
-LCD	LCD	subst:pl:dat:n2	nazwa pospolita	
+LCD	LCD	subst:pl:dat:n:ncol	nazwa pospolita	
 LCD	LCD	subst:pl:gen:m3	nazwa pospolita	
-LCD	LCD	subst:pl:gen:n2	nazwa pospolita	
+LCD	LCD	subst:pl:gen:n:ncol	nazwa pospolita	
 LCD	LCD	subst:pl:inst:m3	nazwa pospolita	
-LCD	LCD	subst:pl:inst:n2	nazwa pospolita	
+LCD	LCD	subst:pl:inst:n:ncol	nazwa pospolita	
 LCD	LCD	subst:pl:loc:m3	nazwa pospolita	
-LCD	LCD	subst:pl:loc:n2	nazwa pospolita	
+LCD	LCD	subst:pl:loc:n:ncol	nazwa pospolita	
 LCD	LCD	subst:pl:nom:m3	nazwa pospolita	
-LCD	LCD	subst:pl:nom:n2	nazwa pospolita	
+LCD	LCD	subst:pl:nom:n:ncol	nazwa pospolita	
 LCD	LCD	subst:pl:voc:m3	nazwa pospolita	
-LCD	LCD	subst:pl:voc:n2	nazwa pospolita	
+LCD	LCD	subst:pl:voc:n:ncol	nazwa pospolita	
 LCD	LCD	subst:sg:acc:m3	nazwa pospolita	
-LCD	LCD	subst:sg:acc:n2	nazwa pospolita	
+LCD	LCD	subst:sg:acc:n:ncol	nazwa pospolita	
 LCD	LCD	subst:sg:dat:m3	nazwa pospolita	
-LCD	LCD	subst:sg:dat:n2	nazwa pospolita	
+LCD	LCD	subst:sg:dat:n:ncol	nazwa pospolita	
 LCD	LCD	subst:sg:gen:m3	nazwa pospolita	
-LCD	LCD	subst:sg:gen:n2	nazwa pospolita	
+LCD	LCD	subst:sg:gen:n:ncol	nazwa pospolita	
 LCD	LCD	subst:sg:inst:m3	nazwa pospolita	
-LCD	LCD	subst:sg:inst:n2	nazwa pospolita	
+LCD	LCD	subst:sg:inst:n:ncol	nazwa pospolita	
 LCD	LCD	subst:sg:loc:m3	nazwa pospolita	
-LCD	LCD	subst:sg:loc:n2	nazwa pospolita	
+LCD	LCD	subst:sg:loc:n:ncol	nazwa pospolita	
 LCD	LCD	subst:sg:nom:m3	nazwa pospolita	
-LCD	LCD	subst:sg:nom:n2	nazwa pospolita	
+LCD	LCD	subst:sg:nom:n:ncol	nazwa pospolita	
 LCD	LCD	subst:sg:voc:m3	nazwa pospolita	
-LCD	LCD	subst:sg:voc:n2	nazwa pospolita	
+LCD	LCD	subst:sg:voc:n:ncol	nazwa pospolita	
 LDL-ach	LDL	subst:pl:loc:m3	nazwa pospolita	
 LDL-ami	LDL	subst:pl:inst:m3	nazwa pospolita	
 LDL-e	LDL	subst:pl:acc:m3	nazwa pospolita	
@@ -960,20 +960,20 @@ LDL-u	LDL	subst:sg:gen:m3	nazwa pospolita
 LDL-u	LDL	subst:sg:loc:m3	nazwa pospolita	
 LDL-u	LDL	subst:sg:voc:m3	nazwa pospolita	
 Le	Le	burk		
-LE	LE	subst:pl:acc:n2	nazwa pospolita	
-LE	LE	subst:pl:dat:n2	nazwa pospolita	
-LE	LE	subst:pl:gen:n2	nazwa pospolita	
-LE	LE	subst:pl:inst:n2	nazwa pospolita	
-LE	LE	subst:pl:loc:n2	nazwa pospolita	
-LE	LE	subst:pl:nom:n2	nazwa pospolita	
-LE	LE	subst:pl:voc:n2	nazwa pospolita	
-LE	LE	subst:sg:acc:n2	nazwa pospolita	
-LE	LE	subst:sg:dat:n2	nazwa pospolita	
-LE	LE	subst:sg:gen:n2	nazwa pospolita	
-LE	LE	subst:sg:inst:n2	nazwa pospolita	
-LE	LE	subst:sg:loc:n2	nazwa pospolita	
-LE	LE	subst:sg:nom:n2	nazwa pospolita	
-LE	LE	subst:sg:voc:n2	nazwa pospolita	
+LE	LE	subst:pl:acc:n:ncol	nazwa pospolita	
+LE	LE	subst:pl:dat:n:ncol	nazwa pospolita	
+LE	LE	subst:pl:gen:n:ncol	nazwa pospolita	
+LE	LE	subst:pl:inst:n:ncol	nazwa pospolita	
+LE	LE	subst:pl:loc:n:ncol	nazwa pospolita	
+LE	LE	subst:pl:nom:n:ncol	nazwa pospolita	
+LE	LE	subst:pl:voc:n:ncol	nazwa pospolita	
+LE	LE	subst:sg:acc:n:ncol	nazwa pospolita	
+LE	LE	subst:sg:dat:n:ncol	nazwa pospolita	
+LE	LE	subst:sg:gen:n:ncol	nazwa pospolita	
+LE	LE	subst:sg:inst:n:ncol	nazwa pospolita	
+LE	LE	subst:sg:loc:n:ncol	nazwa pospolita	
+LE	LE	subst:sg:nom:n:ncol	nazwa pospolita	
+LE	LE	subst:sg:voc:n:ncol	nazwa pospolita	
 Leach	Lea	subst:pl:loc:f	imię	
 Lea	Lea	subst:sg:nom:f	imię	
 Leami	Lea	subst:pl:inst:f	imię	
@@ -1257,20 +1257,20 @@ Lee	Lee:s1	subst:sg:inst:m1	nazwisko
 Lee	Lee:s1	subst:sg:loc:m1	nazwisko	
 Lee	Lee:s1	subst:sg:nom:m1	nazwisko	
 Lee	Lee:s1	subst:sg:voc:m1	nazwisko	
-Lee	Lee:s2	subst:pl:acc:n2	marka|nazwa geograficzna	
-Lee	Lee:s2	subst:pl:dat:n2	marka|nazwa geograficzna	
-Lee	Lee:s2	subst:pl:gen:n2	marka|nazwa geograficzna	
-Lee	Lee:s2	subst:pl:inst:n2	marka|nazwa geograficzna	
-Lee	Lee:s2	subst:pl:loc:n2	marka|nazwa geograficzna	
-Lee	Lee:s2	subst:pl:nom:n2	marka|nazwa geograficzna	
-Lee	Lee:s2	subst:pl:voc:n2	marka|nazwa geograficzna	
-Lee	Lee:s2	subst:sg:acc:n2	marka|nazwa geograficzna	
-Lee	Lee:s2	subst:sg:dat:n2	marka|nazwa geograficzna	
-Lee	Lee:s2	subst:sg:gen:n2	marka|nazwa geograficzna	
-Lee	Lee:s2	subst:sg:inst:n2	marka|nazwa geograficzna	
-Lee	Lee:s2	subst:sg:loc:n2	marka|nazwa geograficzna	
-Lee	Lee:s2	subst:sg:nom:n2	marka|nazwa geograficzna	
-Lee	Lee:s2	subst:sg:voc:n2	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:pl:acc:n:ncol	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:pl:dat:n:ncol	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:pl:gen:n:ncol	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:pl:inst:n:ncol	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:pl:loc:n:ncol	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:pl:nom:n:ncol	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:pl:voc:n:ncol	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:sg:acc:n:ncol	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:sg:dat:n:ncol	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:sg:gen:n:ncol	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:sg:inst:n:ncol	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:sg:loc:n:ncol	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:sg:nom:n:ncol	marka|nazwa geograficzna	
+Lee	Lee:s2	subst:sg:voc:n:ncol	marka|nazwa geograficzna	
 Leeuwenhoekach	Leeuwenhoek	subst:pl:loc:m1	nazwisko	
 Leeuwenhoeka	Leeuwenhoek	subst:sg:acc:m1	nazwisko	
 Leeuwenhoeka	Leeuwenhoek	subst:sg:gen:m1	nazwisko	
@@ -1303,22 +1303,22 @@ Lefebvre’y	Lefebvre	depr:pl:nom:m2	nazwisko
 Lefebvre’y	Lefebvre	depr:pl:voc:m2	nazwisko	
 Lefebvrze	Lefebvre	subst:sg:loc:m1	nazwisko	
 Lefebvrze	Lefebvre	subst:sg:voc:m1	nazwisko	
-Legionowach	Legionowo	subst:pl:loc:n2	nazwa geograficzna	
-Legionowa	Legionowo	subst:pl:acc:n2	nazwa geograficzna	
-Legionowa	Legionowo	subst:pl:nom:n2	nazwa geograficzna	
-Legionowa	Legionowo	subst:pl:voc:n2	nazwa geograficzna	
-Legionowa	Legionowo	subst:sg:gen:n2	nazwa geograficzna	
-Legionowami	Legionowo	subst:pl:inst:n2	nazwa geograficzna	
-Legionowem	Legionowo	subst:sg:inst:n2	nazwa geograficzna	
-Legionowie	Legionowo	subst:sg:loc:n2	nazwa geograficzna	
-Legionow	Legionowo	subst:pl:gen:n2	nazwa geograficzna	
-Legionowo	Legionowo	subst:sg:acc:n2	nazwa geograficzna	
-Legionowo	Legionowo	subst:sg:nom:n2	nazwa geograficzna	
-Legionowo	Legionowo	subst:sg:voc:n2	nazwa geograficzna	
-Legionowom	Legionowo	subst:pl:dat:n2	nazwa geograficzna	
-Legionowów	Legionowo	subst:pl:gen:n2	nazwa geograficzna	
-Legionowu	Legionowo	subst:sg:dat:n2	nazwa geograficzna	
-Legionów	Legionowo	subst:pl:gen:n2	nazwa geograficzna	
+Legionowach	Legionowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Legionowa	Legionowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Legionowa	Legionowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Legionowa	Legionowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Legionowa	Legionowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Legionowami	Legionowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Legionowem	Legionowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Legionowie	Legionowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Legionow	Legionowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Legionowo	Legionowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Legionowo	Legionowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Legionowo	Legionowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Legionowom	Legionowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Legionowów	Legionowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Legionowu	Legionowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Legionów	Legionowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Legnicach	Legnica	subst:pl:loc:f	nazwa geograficzna	
 Legnica	Legnica	subst:sg:nom:f	nazwa geograficzna	
 Legnicami	Legnica	subst:pl:inst:f	nazwa geograficzna	
@@ -1333,20 +1333,20 @@ Legnicom	Legnica	subst:pl:dat:f	nazwa geograficzna
 Legnicy	Legnica	subst:sg:dat:f	nazwa geograficzna	
 Legnicy	Legnica	subst:sg:gen:f	nazwa geograficzna	
 Legnicy	Legnica	subst:sg:loc:f	nazwa geograficzna	
-Legnickich	Legnickie	subst:pl:gen:n2	nazwa geograficzna	
-Legnickich	Legnickie	subst:pl:loc:n2	nazwa geograficzna	
-Legnickiego	Legnickie	subst:sg:gen:n2	nazwa geograficzna	
-Legnickie	Legnickie	subst:pl:acc:n2	nazwa geograficzna	
-Legnickie	Legnickie	subst:pl:nom:n2	nazwa geograficzna	
-Legnickie	Legnickie	subst:pl:voc:n2	nazwa geograficzna	
-Legnickie	Legnickie	subst:sg:acc:n2	nazwa geograficzna	
-Legnickie	Legnickie	subst:sg:nom:n2	nazwa geograficzna	
-Legnickie	Legnickie	subst:sg:voc:n2	nazwa geograficzna	
-Legnickiem	Legnickie	subst:sg:inst:n2	nazwa geograficzna	
-Legnickiem	Legnickie	subst:sg:loc:n2	nazwa geograficzna	
-Legnickiemu	Legnickie	subst:sg:dat:n2	nazwa geograficzna	
-Legnickimi	Legnickie	subst:pl:inst:n2	nazwa geograficzna	
-Legnickim	Legnickie	subst:pl:dat:n2	nazwa geograficzna	
+Legnickich	Legnickie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Legnickich	Legnickie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Legnickiego	Legnickie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Legnickie	Legnickie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Legnickie	Legnickie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Legnickie	Legnickie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Legnickie	Legnickie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Legnickie	Legnickie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Legnickie	Legnickie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Legnickiem	Legnickie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Legnickiem	Legnickie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Legnickiemu	Legnickie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Legnickimi	Legnickie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Legnickim	Legnickie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Leharach	Lehar	subst:pl:loc:m1	nazwisko	
 Lehara	Lehar	subst:sg:acc:m1	nazwisko	
 Lehara	Lehar	subst:sg:gen:m1	nazwisko	
@@ -1443,22 +1443,22 @@ Lelewelów	Lelewel	subst:pl:acc:m1	nazwisko
 Lelewelów	Lelewel	subst:pl:gen:m1	nazwisko	
 Lelewelu	Lelewel	subst:sg:loc:m1	nazwisko	
 Lelewelu	Lelewel	subst:sg:voc:m1	nazwisko	
-Lelkowach	Lelkowo	subst:pl:loc:n2	nazwa geograficzna	
-Lelkowa	Lelkowo	subst:pl:acc:n2	nazwa geograficzna	
-Lelkowa	Lelkowo	subst:pl:nom:n2	nazwa geograficzna	
-Lelkowa	Lelkowo	subst:pl:voc:n2	nazwa geograficzna	
-Lelkowa	Lelkowo	subst:sg:gen:n2	nazwa geograficzna	
-Lelkowami	Lelkowo	subst:pl:inst:n2	nazwa geograficzna	
-Lelkowem	Lelkowo	subst:sg:inst:n2	nazwa geograficzna	
-Lelkowie	Lelkowo	subst:sg:loc:n2	nazwa geograficzna	
-Lelkow	Lelkowo	subst:pl:gen:n2	nazwa geograficzna	
-Lelkowo	Lelkowo	subst:sg:acc:n2	nazwa geograficzna	
-Lelkowo	Lelkowo	subst:sg:nom:n2	nazwa geograficzna	
-Lelkowo	Lelkowo	subst:sg:voc:n2	nazwa geograficzna	
-Lelkowom	Lelkowo	subst:pl:dat:n2	nazwa geograficzna	
-Lelkowów	Lelkowo	subst:pl:gen:n2	nazwa geograficzna	
-Lelkowu	Lelkowo	subst:sg:dat:n2	nazwa geograficzna	
-Lelków	Lelkowo	subst:pl:gen:n2	nazwa geograficzna	
+Lelkowach	Lelkowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lelkowa	Lelkowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lelkowa	Lelkowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lelkowa	Lelkowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Lelkowa	Lelkowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lelkowami	Lelkowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lelkowem	Lelkowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lelkowie	Lelkowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Lelkow	Lelkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lelkowo	Lelkowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lelkowo	Lelkowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lelkowo	Lelkowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Lelkowom	Lelkowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lelkowów	Lelkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lelkowu	Lelkowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lelków	Lelkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Lelouchach	Lelouch	subst:pl:loc:m1	nazwisko	
 Leloucha	Lelouch	subst:sg:acc:m1	nazwisko	
 Leloucha	Lelouch	subst:sg:gen:m1	nazwisko	
@@ -1630,20 +1630,20 @@ Leningrady	Leningrad	subst:pl:nom:m3	nazwa geograficzna
 Leningrady	Leningrad	subst:pl:voc:m3	nazwa geograficzna	
 Leningradzie	Leningrad	subst:sg:loc:m3	nazwa geograficzna	
 Leningradzie	Leningrad	subst:sg:voc:m3	nazwa geograficzna	
-Lenino	Lenino	subst:pl:acc:n2	nazwa geograficzna	
-Lenino	Lenino	subst:pl:dat:n2	nazwa geograficzna	
-Lenino	Lenino	subst:pl:gen:n2	nazwa geograficzna	
-Lenino	Lenino	subst:pl:inst:n2	nazwa geograficzna	
-Lenino	Lenino	subst:pl:loc:n2	nazwa geograficzna	
-Lenino	Lenino	subst:pl:nom:n2	nazwa geograficzna	
-Lenino	Lenino	subst:pl:voc:n2	nazwa geograficzna	
-Lenino	Lenino	subst:sg:acc:n2	nazwa geograficzna	
-Lenino	Lenino	subst:sg:dat:n2	nazwa geograficzna	
-Lenino	Lenino	subst:sg:gen:n2	nazwa geograficzna	
-Lenino	Lenino	subst:sg:inst:n2	nazwa geograficzna	
-Lenino	Lenino	subst:sg:loc:n2	nazwa geograficzna	
-Lenino	Lenino	subst:sg:nom:n2	nazwa geograficzna	
-Lenino	Lenino	subst:sg:voc:n2	nazwa geograficzna	
+Lenino	Lenino	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lenino	Lenino	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lenino	Lenino	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lenino	Lenino	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lenino	Lenino	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lenino	Lenino	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lenino	Lenino	subst:pl:voc:n:ncol	nazwa geograficzna	
+Lenino	Lenino	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lenino	Lenino	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lenino	Lenino	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lenino	Lenino	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lenino	Lenino	subst:sg:loc:n:ncol	nazwa geograficzna	
+Lenino	Lenino	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lenino	Lenino	subst:sg:voc:n:ncol	nazwa geograficzna	
 Lennonach	Lennon	subst:pl:loc:m1	nazwisko	
 Lennona	Lennon	subst:sg:acc:m1	nazwisko	
 Lennona	Lennon	subst:sg:gen:m1	nazwisko	
@@ -2145,20 +2145,20 @@ Lesiów	Lesio	subst:pl:acc:m1	imię
 Lesiów	Lesio	subst:pl:gen:m1	imię	
 Lesiu	Lesio	subst:sg:loc:m1	imię	
 Lesiu	Lesio	subst:sg:voc:m1	imię	
-Leskach	Lesko	subst:pl:loc:n2	nazwa geograficzna	
-Leska	Lesko	subst:pl:acc:n2	nazwa geograficzna	
-Leska	Lesko	subst:pl:nom:n2	nazwa geograficzna	
-Leska	Lesko	subst:pl:voc:n2	nazwa geograficzna	
-Leska	Lesko	subst:sg:gen:n2	nazwa geograficzna	
-Leskami	Lesko	subst:pl:inst:n2	nazwa geograficzna	
-Leskiem	Lesko	subst:sg:inst:n2	nazwa geograficzna	
-Lesk	Lesko	subst:pl:gen:n2	nazwa geograficzna	
-Lesko	Lesko	subst:sg:acc:n2	nazwa geograficzna	
-Lesko	Lesko	subst:sg:nom:n2	nazwa geograficzna	
-Lesko	Lesko	subst:sg:voc:n2	nazwa geograficzna	
-Leskom	Lesko	subst:pl:dat:n2	nazwa geograficzna	
-Lesku	Lesko	subst:sg:dat:n2	nazwa geograficzna	
-Lesku	Lesko	subst:sg:loc:n2	nazwa geograficzna	
+Leskach	Lesko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Leska	Lesko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Leska	Lesko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Leska	Lesko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Leska	Lesko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Leskami	Lesko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Leskiem	Lesko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lesk	Lesko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lesko	Lesko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lesko	Lesko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lesko	Lesko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Leskom	Lesko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lesku	Lesko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lesku	Lesko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Lesławach	Lesław	subst:pl:loc:m1	imię	
 Lesława	Lesław	subst:sg:acc:m1	imię	
 Lesława	Lesław	subst:sg:gen:m1	imię	
@@ -2205,20 +2205,20 @@ Lessingów	Lessing	subst:pl:acc:m1	nazwisko
 Lessingów	Lessing	subst:pl:gen:m1	nazwisko	
 Lessingu	Lessing	subst:sg:loc:m1	nazwisko	
 Lessingu	Lessing	subst:sg:voc:m1	nazwisko	
-Leszczynach	Leszczyny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Leszczynach	Leszczyny	subst:pl:loc:p3	nazwa geograficzna	
-Leszczynami	Leszczyny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Leszczynami	Leszczyny	subst:pl:inst:p3	nazwa geograficzna	
-Leszczyn	Leszczyny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Leszczyn	Leszczyny	subst:pl:gen:p3	nazwa geograficzna	
-Leszczynom	Leszczyny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Leszczynom	Leszczyny	subst:pl:dat:p3	nazwa geograficzna	
-Leszczyny	Leszczyny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Leszczyny	Leszczyny	subst:pl:acc:p3	nazwa geograficzna	
-Leszczyny	Leszczyny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Leszczyny	Leszczyny	subst:pl:nom:p3	nazwa geograficzna	
-Leszczyny	Leszczyny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Leszczyny	Leszczyny	subst:pl:voc:p3	nazwa geograficzna	
+Leszczynach	Leszczyny	subst:pl:loc:n:pt	nazwa geograficzna	
+Leszczynach	Leszczyny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Leszczynami	Leszczyny	subst:pl:inst:n:pt	nazwa geograficzna	
+Leszczynami	Leszczyny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Leszczyn	Leszczyny	subst:pl:gen:n:pt	nazwa geograficzna	
+Leszczyn	Leszczyny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Leszczynom	Leszczyny	subst:pl:dat:n:pt	nazwa geograficzna	
+Leszczynom	Leszczyny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Leszczyny	Leszczyny	subst:pl:acc:n:pt	nazwa geograficzna	
+Leszczyny	Leszczyny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Leszczyny	Leszczyny	subst:pl:nom:n:pt	nazwa geograficzna	
+Leszczyny	Leszczyny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Leszczyny	Leszczyny	subst:pl:voc:n:pt	nazwa geograficzna	
+Leszczyny	Leszczyny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Leszczyńska	Leszczyńska	subst:sg:nom:f	nazwisko	
 Leszczyńska	Leszczyńska	subst:sg:voc:f	nazwisko	
 Leszczyńską	Leszczyńska	subst:sg:acc:f	nazwisko	
@@ -2249,20 +2249,20 @@ Leszczyńskimi	Leszczyński	subst:pl:inst:m1	nazwisko
 Leszczyńskim	Leszczyński	subst:pl:dat:m1	nazwisko	
 Leszczyńskim	Leszczyński	subst:sg:inst:m1	nazwisko	
 Leszczyńskim	Leszczyński	subst:sg:loc:m1	nazwisko	
-Leszczyńskich	Leszczyńskie	subst:pl:gen:n2	nazwa geograficzna	
-Leszczyńskich	Leszczyńskie	subst:pl:loc:n2	nazwa geograficzna	
-Leszczyńskiego	Leszczyńskie	subst:sg:gen:n2	nazwa geograficzna	
-Leszczyńskie	Leszczyńskie	subst:pl:acc:n2	nazwa geograficzna	
-Leszczyńskie	Leszczyńskie	subst:pl:nom:n2	nazwa geograficzna	
-Leszczyńskie	Leszczyńskie	subst:pl:voc:n2	nazwa geograficzna	
-Leszczyńskie	Leszczyńskie	subst:sg:acc:n2	nazwa geograficzna	
-Leszczyńskie	Leszczyńskie	subst:sg:nom:n2	nazwa geograficzna	
-Leszczyńskie	Leszczyńskie	subst:sg:voc:n2	nazwa geograficzna	
-Leszczyńskiem	Leszczyńskie	subst:sg:inst:n2	nazwa geograficzna	
-Leszczyńskiem	Leszczyńskie	subst:sg:loc:n2	nazwa geograficzna	
-Leszczyńskiemu	Leszczyńskie	subst:sg:dat:n2	nazwa geograficzna	
-Leszczyńskimi	Leszczyńskie	subst:pl:inst:n2	nazwa geograficzna	
-Leszczyńskim	Leszczyńskie	subst:pl:dat:n2	nazwa geograficzna	
+Leszczyńskich	Leszczyńskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Leszczyńskich	Leszczyńskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Leszczyńskiego	Leszczyńskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Leszczyńskie	Leszczyńskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Leszczyńskie	Leszczyńskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Leszczyńskie	Leszczyńskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Leszczyńskie	Leszczyńskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Leszczyńskie	Leszczyńskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Leszczyńskie	Leszczyńskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Leszczyńskiem	Leszczyńskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Leszczyńskiem	Leszczyńskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Leszczyńskiemu	Leszczyńskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Leszczyńskimi	Leszczyńskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Leszczyńskim	Leszczyńskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Leszek	Leszek	subst:sg:nom:m1	imię	
 Leszkach	Leszek	subst:pl:loc:m1	imię	
 Leszka	Leszek	subst:sg:acc:m1	imię	
@@ -2279,20 +2279,20 @@ Leszków	Leszek	subst:pl:acc:m1	imię
 Leszków	Leszek	subst:pl:gen:m1	imię	
 Leszku	Leszek	subst:sg:loc:m1	imię	
 Leszku	Leszek	subst:sg:voc:m1	imię	
-Lesznach	Leszno	subst:pl:loc:n2	nazwa geograficzna	
-Leszna	Leszno	subst:pl:acc:n2	nazwa geograficzna	
-Leszna	Leszno	subst:pl:nom:n2	nazwa geograficzna	
-Leszna	Leszno	subst:pl:voc:n2	nazwa geograficzna	
-Leszna	Leszno	subst:sg:gen:n2	nazwa geograficzna	
-Lesznami	Leszno	subst:pl:inst:n2	nazwa geograficzna	
-Lesznem	Leszno	subst:sg:inst:n2	nazwa geograficzna	
-Lesznie	Leszno	subst:sg:loc:n2	nazwa geograficzna	
-Leszn	Leszno	subst:pl:gen:n2	nazwa geograficzna	
-Leszno	Leszno	subst:sg:acc:n2	nazwa geograficzna	
-Leszno	Leszno	subst:sg:nom:n2	nazwa geograficzna	
-Leszno	Leszno	subst:sg:voc:n2	nazwa geograficzna	
-Lesznom	Leszno	subst:pl:dat:n2	nazwa geograficzna	
-Lesznu	Leszno	subst:sg:dat:n2	nazwa geograficzna	
+Lesznach	Leszno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Leszna	Leszno	subst:pl:acc:n:ncol	nazwa geograficzna	
+Leszna	Leszno	subst:pl:nom:n:ncol	nazwa geograficzna	
+Leszna	Leszno	subst:pl:voc:n:ncol	nazwa geograficzna	
+Leszna	Leszno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lesznami	Leszno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lesznem	Leszno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lesznie	Leszno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Leszn	Leszno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Leszno	Leszno	subst:sg:acc:n:ncol	nazwa geograficzna	
+Leszno	Leszno	subst:sg:nom:n:ncol	nazwa geograficzna	
+Leszno	Leszno	subst:sg:voc:n:ncol	nazwa geograficzna	
+Lesznom	Leszno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lesznu	Leszno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Lesiach	Leś	subst:pl:loc:m1	imię|nazwisko	
 Lesia	Leś	subst:sg:acc:m1	imię|nazwisko	
 Lesia	Leś	subst:sg:gen:m1	imię|nazwisko	
@@ -2387,20 +2387,20 @@ Leśniewskimi	Leśniewski	subst:pl:inst:m1	nazwisko
 Leśniewskim	Leśniewski	subst:pl:dat:m1	nazwisko	
 Leśniewskim	Leśniewski	subst:sg:inst:m1	nazwisko	
 Leśniewskim	Leśniewski	subst:sg:loc:m1	nazwisko	
-Leśniowicach	Leśniowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Leśniowicach	Leśniowice	subst:pl:loc:p3	nazwa geograficzna	
-Leśniowicami	Leśniowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Leśniowicami	Leśniowice	subst:pl:inst:p3	nazwa geograficzna	
-Leśniowice	Leśniowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Leśniowice	Leśniowice	subst:pl:acc:p3	nazwa geograficzna	
-Leśniowice	Leśniowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Leśniowice	Leśniowice	subst:pl:nom:p3	nazwa geograficzna	
-Leśniowice	Leśniowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Leśniowice	Leśniowice	subst:pl:voc:p3	nazwa geograficzna	
-Leśniowic	Leśniowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Leśniowic	Leśniowice	subst:pl:gen:p3	nazwa geograficzna	
-Leśniowicom	Leśniowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Leśniowicom	Leśniowice	subst:pl:dat:p3	nazwa geograficzna	
+Leśniowicach	Leśniowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Leśniowicach	Leśniowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Leśniowicami	Leśniowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Leśniowicami	Leśniowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Leśniowice	Leśniowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Leśniowice	Leśniowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Leśniowice	Leśniowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Leśniowice	Leśniowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Leśniowice	Leśniowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Leśniowice	Leśniowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Leśniowic	Leśniowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Leśniowic	Leśniowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Leśniowicom	Leśniowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Leśniowicom	Leśniowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 LET-cie	LETTA	subst:sg:dat:f	nazwa instytucji	
 LET-cie	LETTA	subst:sg:loc:f	nazwa instytucji	
 LETT-ach	LETTA	subst:pl:loc:f	nazwa instytucji	
@@ -2646,34 +2646,34 @@ Lędzian	Lędzianin	subst:pl:gen:m1	nazwa pospolita
 Lędzianom	Lędzianin	subst:pl:dat:m1	nazwa pospolita	
 Lędziany	Lędzianin	depr:pl:nom:m2	nazwa pospolita	
 Lędziany	Lędzianin	depr:pl:voc:m2	nazwa pospolita	
-Lędzinach	Lędziny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Lędzinach	Lędziny	subst:pl:loc:p3	nazwa geograficzna	
-Lędzinami	Lędziny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Lędzinami	Lędziny	subst:pl:inst:p3	nazwa geograficzna	
-Lędzin	Lędziny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Lędzin	Lędziny	subst:pl:gen:p3	nazwa geograficzna	
-Lędzinom	Lędziny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Lędzinom	Lędziny	subst:pl:dat:p3	nazwa geograficzna	
-Lędziny	Lędziny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Lędziny	Lędziny	subst:pl:acc:p3	nazwa geograficzna	
-Lędziny	Lędziny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Lędziny	Lędziny	subst:pl:nom:p3	nazwa geograficzna	
-Lędziny	Lędziny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Lędziny	Lędziny	subst:pl:voc:p3	nazwa geograficzna	
-LH	LH	subst:pl:acc:n2	nazwa pospolita	
-LH	LH	subst:pl:dat:n2	nazwa pospolita	
-LH	LH	subst:pl:gen:n2	nazwa pospolita	
-LH	LH	subst:pl:inst:n2	nazwa pospolita	
-LH	LH	subst:pl:loc:n2	nazwa pospolita	
-LH	LH	subst:pl:nom:n2	nazwa pospolita	
-LH	LH	subst:pl:voc:n2	nazwa pospolita	
-LH	LH	subst:sg:acc:n2	nazwa pospolita	
-LH	LH	subst:sg:dat:n2	nazwa pospolita	
-LH	LH	subst:sg:gen:n2	nazwa pospolita	
-LH	LH	subst:sg:inst:n2	nazwa pospolita	
-LH	LH	subst:sg:loc:n2	nazwa pospolita	
-LH	LH	subst:sg:nom:n2	nazwa pospolita	
-LH	LH	subst:sg:voc:n2	nazwa pospolita	
+Lędzinach	Lędziny	subst:pl:loc:n:pt	nazwa geograficzna	
+Lędzinach	Lędziny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Lędzinami	Lędziny	subst:pl:inst:n:pt	nazwa geograficzna	
+Lędzinami	Lędziny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Lędzin	Lędziny	subst:pl:gen:n:pt	nazwa geograficzna	
+Lędzin	Lędziny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Lędzinom	Lędziny	subst:pl:dat:n:pt	nazwa geograficzna	
+Lędzinom	Lędziny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Lędziny	Lędziny	subst:pl:acc:n:pt	nazwa geograficzna	
+Lędziny	Lędziny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Lędziny	Lędziny	subst:pl:nom:n:pt	nazwa geograficzna	
+Lędziny	Lędziny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Lędziny	Lędziny	subst:pl:voc:n:pt	nazwa geograficzna	
+Lędziny	Lędziny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+LH	LH	subst:pl:acc:n:ncol	nazwa pospolita	
+LH	LH	subst:pl:dat:n:ncol	nazwa pospolita	
+LH	LH	subst:pl:gen:n:ncol	nazwa pospolita	
+LH	LH	subst:pl:inst:n:ncol	nazwa pospolita	
+LH	LH	subst:pl:loc:n:ncol	nazwa pospolita	
+LH	LH	subst:pl:nom:n:ncol	nazwa pospolita	
+LH	LH	subst:pl:voc:n:ncol	nazwa pospolita	
+LH	LH	subst:sg:acc:n:ncol	nazwa pospolita	
+LH	LH	subst:sg:dat:n:ncol	nazwa pospolita	
+LH	LH	subst:sg:gen:n:ncol	nazwa pospolita	
+LH	LH	subst:sg:inst:n:ncol	nazwa pospolita	
+LH	LH	subst:sg:loc:n:ncol	nazwa pospolita	
+LH	LH	subst:sg:nom:n:ncol	nazwa pospolita	
+LH	LH	subst:sg:voc:n:ncol	nazwa pospolita	
 Libanach	Liban	subst:pl:loc:m3	nazwa geograficzna	
 Libanami	Liban	subst:pl:inst:m3	nazwa geograficzna	
 Libanem	Liban	subst:sg:inst:m3	nazwa geograficzna	
@@ -3250,49 +3250,49 @@ Limanowskimi	Limanowski	subst:pl:inst:m1	nazwisko
 Limanowskim	Limanowski	subst:pl:dat:m1	nazwisko	
 Limanowskim	Limanowski	subst:sg:inst:m1	nazwisko	
 Limanowskim	Limanowski	subst:sg:loc:m1	nazwisko	
-Limanowskich	Limanowskie	subst:pl:gen:n2	nazwa geograficzna	
-Limanowskich	Limanowskie	subst:pl:loc:n2	nazwa geograficzna	
-Limanowskiego	Limanowskie	subst:sg:gen:n2	nazwa geograficzna	
-Limanowskie	Limanowskie	subst:pl:acc:n2	nazwa geograficzna	
-Limanowskie	Limanowskie	subst:pl:nom:n2	nazwa geograficzna	
-Limanowskie	Limanowskie	subst:pl:voc:n2	nazwa geograficzna	
-Limanowskie	Limanowskie	subst:sg:acc:n2	nazwa geograficzna	
-Limanowskie	Limanowskie	subst:sg:nom:n2	nazwa geograficzna	
-Limanowskie	Limanowskie	subst:sg:voc:n2	nazwa geograficzna	
-Limanowskiem	Limanowskie	subst:sg:inst:n2	nazwa geograficzna	
-Limanowskiem	Limanowskie	subst:sg:loc:n2	nazwa geograficzna	
-Limanowskiemu	Limanowskie	subst:sg:dat:n2	nazwa geograficzna	
-Limanowskimi	Limanowskie	subst:pl:inst:n2	nazwa geograficzna	
-Limanowskim	Limanowskie	subst:pl:dat:n2	nazwa geograficzna	
+Limanowskich	Limanowskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Limanowskich	Limanowskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Limanowskiego	Limanowskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Limanowskie	Limanowskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Limanowskie	Limanowskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Limanowskie	Limanowskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Limanowskie	Limanowskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Limanowskie	Limanowskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Limanowskie	Limanowskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Limanowskiem	Limanowskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Limanowskiem	Limanowskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Limanowskiemu	Limanowskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Limanowskimi	Limanowskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Limanowskim	Limanowskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Ltd	limited	brev:pun		
 Limpopo	Limpopo	subst:pl:acc:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:pl:acc:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:pl:acc:n:ncol	nazwa geograficzna	
 Limpopo	Limpopo	subst:pl:dat:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:pl:dat:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:pl:dat:n:ncol	nazwa geograficzna	
 Limpopo	Limpopo	subst:pl:gen:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:pl:gen:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Limpopo	Limpopo	subst:pl:inst:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:pl:inst:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:pl:inst:n:ncol	nazwa geograficzna	
 Limpopo	Limpopo	subst:pl:loc:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:pl:loc:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:pl:loc:n:ncol	nazwa geograficzna	
 Limpopo	Limpopo	subst:pl:nom:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:pl:nom:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:pl:nom:n:ncol	nazwa geograficzna	
 Limpopo	Limpopo	subst:pl:voc:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:pl:voc:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:pl:voc:n:ncol	nazwa geograficzna	
 Limpopo	Limpopo	subst:sg:acc:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:sg:acc:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:sg:acc:n:ncol	nazwa geograficzna	
 Limpopo	Limpopo	subst:sg:dat:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:sg:dat:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Limpopo	Limpopo	subst:sg:gen:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:sg:gen:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:sg:gen:n:ncol	nazwa geograficzna	
 Limpopo	Limpopo	subst:sg:inst:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:sg:inst:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:sg:inst:n:ncol	nazwa geograficzna	
 Limpopo	Limpopo	subst:sg:loc:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:sg:loc:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:sg:loc:n:ncol	nazwa geograficzna	
 Limpopo	Limpopo	subst:sg:nom:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:sg:nom:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:sg:nom:n:ncol	nazwa geograficzna	
 Limpopo	Limpopo	subst:sg:voc:f	nazwa geograficzna	
-Limpopo	Limpopo	subst:sg:voc:n2	nazwa geograficzna	
+Limpopo	Limpopo	subst:sg:voc:n:ncol	nazwa geograficzna	
 Lincolnach	Lincoln	subst:pl:loc:m1	nazwisko	
 Lincolna	Lincoln	subst:sg:acc:m1	nazwisko	
 Lincolna	Lincoln	subst:sg:gen:m1	nazwisko	
@@ -3525,20 +3525,20 @@ Lipskimi	Lipski	subst:pl:inst:m1	nazwisko
 Lipskim	Lipski	subst:pl:dat:m1	nazwisko	
 Lipskim	Lipski	subst:sg:inst:m1	nazwisko	
 Lipskim	Lipski	subst:sg:loc:m1	nazwisko	
-Lipskach	Lipsko	subst:pl:loc:n2	nazwa geograficzna	
-Lipska	Lipsko	subst:pl:acc:n2	nazwa geograficzna	
-Lipska	Lipsko	subst:pl:nom:n2	nazwa geograficzna	
-Lipska	Lipsko	subst:pl:voc:n2	nazwa geograficzna	
-Lipska	Lipsko	subst:sg:gen:n2	nazwa geograficzna	
-Lipskami	Lipsko	subst:pl:inst:n2	nazwa geograficzna	
-Lipskiem	Lipsko	subst:sg:inst:n2	nazwa geograficzna	
-Lipsk	Lipsko	subst:pl:gen:n2	nazwa geograficzna	
-Lipsko	Lipsko	subst:sg:acc:n2	nazwa geograficzna	
-Lipsko	Lipsko	subst:sg:nom:n2	nazwa geograficzna	
-Lipsko	Lipsko	subst:sg:voc:n2	nazwa geograficzna	
-Lipskom	Lipsko	subst:pl:dat:n2	nazwa geograficzna	
-Lipsku	Lipsko	subst:sg:dat:n2	nazwa geograficzna	
-Lipsku	Lipsko	subst:sg:loc:n2	nazwa geograficzna	
+Lipskach	Lipsko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lipska	Lipsko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lipska	Lipsko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lipska	Lipsko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Lipska	Lipsko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lipskami	Lipsko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lipskiem	Lipsko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lipsk	Lipsko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lipsko	Lipsko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lipsko	Lipsko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lipsko	Lipsko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Lipskom	Lipsko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lipsku	Lipsko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lipsku	Lipsko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Liptacy	Liptak	subst:pl:nom:m1	nazwa pospolita	
 Liptacy	Liptak	subst:pl:voc:m1	nazwa pospolita	
 Liptakach	Liptak	subst:pl:loc:m1	nazwa pospolita	
@@ -3997,20 +3997,20 @@ LN-u	LN	subst:sg:gen:m3	nazwa organizacji
 LN-y	LN	subst:pl:acc:m3	nazwa organizacji	
 LN-y	LN	subst:pl:nom:m3	nazwa organizacji	
 LN-y	LN	subst:pl:voc:m3	nazwa organizacji	
-LO	LO	subst:pl:acc:n2	nazwa pospolita	
-LO	LO	subst:pl:dat:n2	nazwa pospolita	
-LO	LO	subst:pl:gen:n2	nazwa pospolita	
-LO	LO	subst:pl:inst:n2	nazwa pospolita	
-LO	LO	subst:pl:loc:n2	nazwa pospolita	
-LO	LO	subst:pl:nom:n2	nazwa pospolita	
-LO	LO	subst:pl:voc:n2	nazwa pospolita	
-LO	LO	subst:sg:acc:n2	nazwa pospolita	
-LO	LO	subst:sg:dat:n2	nazwa pospolita	
-LO	LO	subst:sg:gen:n2	nazwa pospolita	
-LO	LO	subst:sg:inst:n2	nazwa pospolita	
-LO	LO	subst:sg:loc:n2	nazwa pospolita	
-LO	LO	subst:sg:nom:n2	nazwa pospolita	
-LO	LO	subst:sg:voc:n2	nazwa pospolita	
+LO	LO	subst:pl:acc:n:ncol	nazwa pospolita	
+LO	LO	subst:pl:dat:n:ncol	nazwa pospolita	
+LO	LO	subst:pl:gen:n:ncol	nazwa pospolita	
+LO	LO	subst:pl:inst:n:ncol	nazwa pospolita	
+LO	LO	subst:pl:loc:n:ncol	nazwa pospolita	
+LO	LO	subst:pl:nom:n:ncol	nazwa pospolita	
+LO	LO	subst:pl:voc:n:ncol	nazwa pospolita	
+LO	LO	subst:sg:acc:n:ncol	nazwa pospolita	
+LO	LO	subst:sg:dat:n:ncol	nazwa pospolita	
+LO	LO	subst:sg:gen:n:ncol	nazwa pospolita	
+LO	LO	subst:sg:inst:n:ncol	nazwa pospolita	
+LO	LO	subst:sg:loc:n:ncol	nazwa pospolita	
+LO	LO	subst:sg:nom:n:ncol	nazwa pospolita	
+LO	LO	subst:sg:voc:n:ncol	nazwa pospolita	
 Loarach	Loara	subst:pl:loc:f	nazwa geograficzna	
 Loara	Loara	subst:sg:nom:f	nazwa geograficzna	
 Loarami	Loara	subst:pl:inst:f	nazwa geograficzna	
@@ -4516,20 +4516,20 @@ Lorentzów	Lorentz	subst:pl:acc:m1	nazwisko
 Lorentzów	Lorentz	subst:pl:gen:m1	nazwisko	
 Lorentzu	Lorentz	subst:sg:loc:m1	nazwisko	
 Lorentzu	Lorentz	subst:sg:voc:m1	nazwisko	
-Loreto	Loreto	subst:pl:acc:n2	nazwa geograficzna	
-Loreto	Loreto	subst:pl:dat:n2	nazwa geograficzna	
-Loreto	Loreto	subst:pl:gen:n2	nazwa geograficzna	
-Loreto	Loreto	subst:pl:inst:n2	nazwa geograficzna	
-Loreto	Loreto	subst:pl:loc:n2	nazwa geograficzna	
-Loreto	Loreto	subst:pl:nom:n2	nazwa geograficzna	
-Loreto	Loreto	subst:pl:voc:n2	nazwa geograficzna	
-Loreto	Loreto	subst:sg:acc:n2	nazwa geograficzna	
-Loreto	Loreto	subst:sg:dat:n2	nazwa geograficzna	
-Loreto	Loreto	subst:sg:gen:n2	nazwa geograficzna	
-Loreto	Loreto	subst:sg:inst:n2	nazwa geograficzna	
-Loreto	Loreto	subst:sg:loc:n2	nazwa geograficzna	
-Loreto	Loreto	subst:sg:nom:n2	nazwa geograficzna	
-Loreto	Loreto	subst:sg:voc:n2	nazwa geograficzna	
+Loreto	Loreto	subst:pl:acc:n:ncol	nazwa geograficzna	
+Loreto	Loreto	subst:pl:dat:n:ncol	nazwa geograficzna	
+Loreto	Loreto	subst:pl:gen:n:ncol	nazwa geograficzna	
+Loreto	Loreto	subst:pl:inst:n:ncol	nazwa geograficzna	
+Loreto	Loreto	subst:pl:loc:n:ncol	nazwa geograficzna	
+Loreto	Loreto	subst:pl:nom:n:ncol	nazwa geograficzna	
+Loreto	Loreto	subst:pl:voc:n:ncol	nazwa geograficzna	
+Loreto	Loreto	subst:sg:acc:n:ncol	nazwa geograficzna	
+Loreto	Loreto	subst:sg:dat:n:ncol	nazwa geograficzna	
+Loreto	Loreto	subst:sg:gen:n:ncol	nazwa geograficzna	
+Loreto	Loreto	subst:sg:inst:n:ncol	nazwa geograficzna	
+Loreto	Loreto	subst:sg:loc:n:ncol	nazwa geograficzna	
+Loreto	Loreto	subst:sg:nom:n:ncol	nazwa geograficzna	
+Loreto	Loreto	subst:sg:voc:n:ncol	nazwa geograficzna	
 Loretcie	Loretta	subst:sg:dat:f	imię	
 Loretcie	Loretta	subst:sg:loc:f	imię	
 Lorettach	Loretta	subst:pl:loc:f	imię	
@@ -4642,20 +4642,20 @@ Louisiany	Louisiana	subst:pl:acc:f	nazwa geograficzna
 Louisiany	Louisiana	subst:pl:nom:f	nazwa geograficzna	
 Louisiany	Louisiana	subst:pl:voc:f	nazwa geograficzna	
 Louisiany	Louisiana	subst:sg:gen:f	nazwa geograficzna	
-Lourdes	Lourdes	subst:pl:acc:n2	nazwa geograficzna	
-Lourdes	Lourdes	subst:pl:dat:n2	nazwa geograficzna	
-Lourdes	Lourdes	subst:pl:gen:n2	nazwa geograficzna	
-Lourdes	Lourdes	subst:pl:inst:n2	nazwa geograficzna	
-Lourdes	Lourdes	subst:pl:loc:n2	nazwa geograficzna	
-Lourdes	Lourdes	subst:pl:nom:n2	nazwa geograficzna	
-Lourdes	Lourdes	subst:pl:voc:n2	nazwa geograficzna	
-Lourdes	Lourdes	subst:sg:acc:n2	nazwa geograficzna	
-Lourdes	Lourdes	subst:sg:dat:n2	nazwa geograficzna	
-Lourdes	Lourdes	subst:sg:gen:n2	nazwa geograficzna	
-Lourdes	Lourdes	subst:sg:inst:n2	nazwa geograficzna	
-Lourdes	Lourdes	subst:sg:loc:n2	nazwa geograficzna	
-Lourdes	Lourdes	subst:sg:nom:n2	nazwa geograficzna	
-Lourdes	Lourdes	subst:sg:voc:n2	nazwa geograficzna	
+Lourdes	Lourdes	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lourdes	Lourdes	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lourdes	Lourdes	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lourdes	Lourdes	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lourdes	Lourdes	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lourdes	Lourdes	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lourdes	Lourdes	subst:pl:voc:n:ncol	nazwa geograficzna	
+Lourdes	Lourdes	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lourdes	Lourdes	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lourdes	Lourdes	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lourdes	Lourdes	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lourdes	Lourdes	subst:sg:loc:n:ncol	nazwa geograficzna	
+Lourdes	Lourdes	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lourdes	Lourdes	subst:sg:voc:n:ncol	nazwa geograficzna	
 Lozannach	Lozanna	subst:pl:loc:f	nazwa geograficzna	
 Lozanna	Lozanna	subst:sg:nom:f	nazwa geograficzna	
 Lozannami	Lozanna	subst:pl:inst:f	nazwa geograficzna	
@@ -4698,27 +4698,27 @@ LPR-y	LPR	subst:pl:nom:m3	nazwa organizacji
 LPR-y	LPR	subst:pl:voc:m3	nazwa organizacji	
 LPR-ze	LPR	subst:sg:loc:m3	nazwa organizacji	
 LPR-ze	LPR	subst:sg:voc:m3	nazwa organizacji	
-LP	LP:s1	subst:pl:acc:p3	nazwa organizacji	
-LP	LP:s1	subst:pl:dat:p3	nazwa organizacji	
-LP	LP:s1	subst:pl:gen:p3	nazwa organizacji	
-LP	LP:s1	subst:pl:inst:p3	nazwa organizacji	
-LP	LP:s1	subst:pl:loc:p3	nazwa organizacji	
-LP	LP:s1	subst:pl:nom:p3	nazwa organizacji	
-LP	LP:s1	subst:pl:voc:p3	nazwa organizacji	
-LP	LP:s3	subst:pl:acc:n2	nazwa pospolita|człon nazwy instytucji	
-LP	LP:s3	subst:pl:dat:n2	nazwa pospolita|człon nazwy instytucji	
-LP	LP:s3	subst:pl:gen:n2	nazwa pospolita|człon nazwy instytucji	
-LP	LP:s3	subst:pl:inst:n2	nazwa pospolita|człon nazwy instytucji	
-LP	LP:s3	subst:pl:loc:n2	nazwa pospolita|człon nazwy instytucji	
-LP	LP:s3	subst:pl:nom:n2	nazwa pospolita|człon nazwy instytucji	
-LP	LP:s3	subst:pl:voc:n2	nazwa pospolita|człon nazwy instytucji	
-LP	LP:s3	subst:sg:acc:n2	nazwa pospolita|człon nazwy instytucji	
-LP	LP:s3	subst:sg:dat:n2	nazwa pospolita|człon nazwy instytucji	
-LP	LP:s3	subst:sg:gen:n2	nazwa pospolita|człon nazwy instytucji	
-LP	LP:s3	subst:sg:inst:n2	nazwa pospolita|człon nazwy instytucji	
-LP	LP:s3	subst:sg:loc:n2	nazwa pospolita|człon nazwy instytucji	
-LP	LP:s3	subst:sg:nom:n2	nazwa pospolita|człon nazwy instytucji	
-LP	LP:s3	subst:sg:voc:n2	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s1	subst:pl:acc:n:pt	nazwa organizacji	
+LP	LP:s1	subst:pl:dat:n:pt	nazwa organizacji	
+LP	LP:s1	subst:pl:gen:n:pt	nazwa organizacji	
+LP	LP:s1	subst:pl:inst:n:pt	nazwa organizacji	
+LP	LP:s1	subst:pl:loc:n:pt	nazwa organizacji	
+LP	LP:s1	subst:pl:nom:n:pt	nazwa organizacji	
+LP	LP:s1	subst:pl:voc:n:pt	nazwa organizacji	
+LP	LP:s3	subst:pl:acc:n:ncol	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:pl:dat:n:ncol	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:pl:gen:n:ncol	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:pl:inst:n:ncol	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:pl:loc:n:ncol	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:pl:nom:n:ncol	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:pl:voc:n:ncol	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:acc:n:ncol	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:dat:n:ncol	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:gen:n:ncol	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:inst:n:ncol	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:loc:n:ncol	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:nom:n:ncol	nazwa pospolita|człon nazwy instytucji	
+LP	LP:s3	subst:sg:voc:n:ncol	nazwa pospolita|człon nazwy instytucji	
 LR	LR	subst:pl:acc:m3	nazwa pospolita	komp.
 LR	LR	subst:pl:dat:m3	nazwa pospolita	komp.
 LR	LR	subst:pl:gen:m3	nazwa pospolita	komp.
@@ -4733,20 +4733,20 @@ LR	LR	subst:sg:inst:m3	nazwa pospolita	komp.
 LR	LR	subst:sg:loc:m3	nazwa pospolita	komp.
 LR	LR	subst:sg:nom:m3	nazwa pospolita	komp.
 LR	LR	subst:sg:voc:m3	nazwa pospolita	komp.
-LSD	LSD	subst:pl:acc:n2	nazwa pospolita	
-LSD	LSD	subst:pl:dat:n2	nazwa pospolita	
-LSD	LSD	subst:pl:gen:n2	nazwa pospolita	
-LSD	LSD	subst:pl:inst:n2	nazwa pospolita	
-LSD	LSD	subst:pl:loc:n2	nazwa pospolita	
-LSD	LSD	subst:pl:nom:n2	nazwa pospolita	
-LSD	LSD	subst:pl:voc:n2	nazwa pospolita	
-LSD	LSD	subst:sg:acc:n2	nazwa pospolita	
-LSD	LSD	subst:sg:dat:n2	nazwa pospolita	
-LSD	LSD	subst:sg:gen:n2	nazwa pospolita	
-LSD	LSD	subst:sg:inst:n2	nazwa pospolita	
-LSD	LSD	subst:sg:loc:n2	nazwa pospolita	
-LSD	LSD	subst:sg:nom:n2	nazwa pospolita	
-LSD	LSD	subst:sg:voc:n2	nazwa pospolita	
+LSD	LSD	subst:pl:acc:n:ncol	nazwa pospolita	
+LSD	LSD	subst:pl:dat:n:ncol	nazwa pospolita	
+LSD	LSD	subst:pl:gen:n:ncol	nazwa pospolita	
+LSD	LSD	subst:pl:inst:n:ncol	nazwa pospolita	
+LSD	LSD	subst:pl:loc:n:ncol	nazwa pospolita	
+LSD	LSD	subst:pl:nom:n:ncol	nazwa pospolita	
+LSD	LSD	subst:pl:voc:n:ncol	nazwa pospolita	
+LSD	LSD	subst:sg:acc:n:ncol	nazwa pospolita	
+LSD	LSD	subst:sg:dat:n:ncol	nazwa pospolita	
+LSD	LSD	subst:sg:gen:n:ncol	nazwa pospolita	
+LSD	LSD	subst:sg:inst:n:ncol	nazwa pospolita	
+LSD	LSD	subst:sg:loc:n:ncol	nazwa pospolita	
+LSD	LSD	subst:sg:nom:n:ncol	nazwa pospolita	
+LSD	LSD	subst:sg:voc:n:ncol	nazwa pospolita	
 Luandach	Luanda	subst:pl:loc:f	nazwa geograficzna	
 Luanda	Luanda	subst:sg:nom:f	nazwa geograficzna	
 Luandami	Luanda	subst:pl:inst:f	nazwa geograficzna	
@@ -4894,20 +4894,20 @@ Lubeki	Lubeka	subst:sg:gen:f	nazwa geograficzna
 Lubek	Lubeka	subst:pl:gen:f	nazwa geograficzna	
 Lubeko	Lubeka	subst:sg:voc:f	nazwa geograficzna	
 Lubekom	Lubeka	subst:pl:dat:f	nazwa geograficzna	
-Lubelskich	Lubelskie	subst:pl:gen:n2	nazwa geograficzna	
-Lubelskich	Lubelskie	subst:pl:loc:n2	nazwa geograficzna	
-Lubelskiego	Lubelskie	subst:sg:gen:n2	nazwa geograficzna	
-Lubelskie	Lubelskie	subst:pl:acc:n2	nazwa geograficzna	
-Lubelskie	Lubelskie	subst:pl:nom:n2	nazwa geograficzna	
-Lubelskie	Lubelskie	subst:pl:voc:n2	nazwa geograficzna	
-Lubelskie	Lubelskie	subst:sg:acc:n2	nazwa geograficzna	
-Lubelskie	Lubelskie	subst:sg:nom:n2	nazwa geograficzna	
-Lubelskie	Lubelskie	subst:sg:voc:n2	nazwa geograficzna	
-Lubelskiem	Lubelskie	subst:sg:inst:n2	nazwa geograficzna	
-Lubelskiem	Lubelskie	subst:sg:loc:n2	nazwa geograficzna	
-Lubelskiemu	Lubelskie	subst:sg:dat:n2	nazwa geograficzna	
-Lubelskimi	Lubelskie	subst:pl:inst:n2	nazwa geograficzna	
-Lubelskim	Lubelskie	subst:pl:dat:n2	nazwa geograficzna	
+Lubelskich	Lubelskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lubelskich	Lubelskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lubelskiego	Lubelskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lubelskie	Lubelskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lubelskie	Lubelskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lubelskie	Lubelskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Lubelskie	Lubelskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lubelskie	Lubelskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lubelskie	Lubelskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Lubelskiem	Lubelskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lubelskiem	Lubelskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Lubelskiemu	Lubelskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lubelskimi	Lubelskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lubelskim	Lubelskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Lubelszczyznach	Lubelszczyzna	subst:pl:loc:f	nazwa geograficzna	
 Lubelszczyzna	Lubelszczyzna	subst:sg:nom:f	nazwa geograficzna	
 Lubelszczyznami	Lubelszczyzna	subst:pl:inst:f	nazwa geograficzna	
@@ -4968,22 +4968,22 @@ Lubiążów	Lubiąż	subst:pl:gen:m3	nazwa geograficzna
 Lubiążu	Lubiąż	subst:sg:loc:m3	nazwa geograficzna	
 Lubiążu	Lubiąż	subst:sg:voc:m3	nazwa geograficzna	
 Lubiąży	Lubiąż	subst:pl:gen:m3	nazwa geograficzna	
-Lubichowach	Lubichowo	subst:pl:loc:n2	nazwa geograficzna	
-Lubichowa	Lubichowo	subst:pl:acc:n2	nazwa geograficzna	
-Lubichowa	Lubichowo	subst:pl:nom:n2	nazwa geograficzna	
-Lubichowa	Lubichowo	subst:pl:voc:n2	nazwa geograficzna	
-Lubichowa	Lubichowo	subst:sg:gen:n2	nazwa geograficzna	
-Lubichowami	Lubichowo	subst:pl:inst:n2	nazwa geograficzna	
-Lubichowem	Lubichowo	subst:sg:inst:n2	nazwa geograficzna	
-Lubichowie	Lubichowo	subst:sg:loc:n2	nazwa geograficzna	
-Lubichow	Lubichowo	subst:pl:gen:n2	nazwa geograficzna	
-Lubichowo	Lubichowo	subst:sg:acc:n2	nazwa geograficzna	
-Lubichowo	Lubichowo	subst:sg:nom:n2	nazwa geograficzna	
-Lubichowo	Lubichowo	subst:sg:voc:n2	nazwa geograficzna	
-Lubichowom	Lubichowo	subst:pl:dat:n2	nazwa geograficzna	
-Lubichowów	Lubichowo	subst:pl:gen:n2	nazwa geograficzna	
-Lubichowu	Lubichowo	subst:sg:dat:n2	nazwa geograficzna	
-Lubichów	Lubichowo	subst:pl:gen:n2	nazwa geograficzna	
+Lubichowach	Lubichowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lubichowa	Lubichowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lubichowa	Lubichowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lubichowa	Lubichowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Lubichowa	Lubichowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lubichowami	Lubichowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lubichowem	Lubichowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lubichowie	Lubichowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Lubichow	Lubichowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lubichowo	Lubichowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lubichowo	Lubichowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lubichowo	Lubichowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Lubichowom	Lubichowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lubichowów	Lubichowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lubichowu	Lubichowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lubichów	Lubichowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Lubieniach	Lubień	subst:pl:loc:m3	nazwa geograficzna	
 Lubienia	Lubień	subst:sg:gen:m3	nazwa geograficzna	
 Lubieniami	Lubień	subst:pl:inst:m3	nazwa geograficzna	
@@ -4999,20 +4999,20 @@ Lubieniu	Lubień	subst:sg:loc:m3	nazwa geograficzna
 Lubieniu	Lubień	subst:sg:voc:m3	nazwa geograficzna	
 Lubień	Lubień	subst:sg:acc:m3	nazwa geograficzna	
 Lubień	Lubień	subst:sg:nom:m3	nazwa geograficzna	
-Lubiewach	Lubiewo	subst:pl:loc:n2	nazwa geograficzna	
-Lubiewa	Lubiewo	subst:pl:acc:n2	nazwa geograficzna	
-Lubiewa	Lubiewo	subst:pl:nom:n2	nazwa geograficzna	
-Lubiewa	Lubiewo	subst:pl:voc:n2	nazwa geograficzna	
-Lubiewa	Lubiewo	subst:sg:gen:n2	nazwa geograficzna	
-Lubiewami	Lubiewo	subst:pl:inst:n2	nazwa geograficzna	
-Lubiewem	Lubiewo	subst:sg:inst:n2	nazwa geograficzna	
-Lubiewie	Lubiewo	subst:sg:loc:n2	nazwa geograficzna	
-Lubiew	Lubiewo	subst:pl:gen:n2	nazwa geograficzna	
-Lubiewo	Lubiewo	subst:sg:acc:n2	nazwa geograficzna	
-Lubiewo	Lubiewo	subst:sg:nom:n2	nazwa geograficzna	
-Lubiewo	Lubiewo	subst:sg:voc:n2	nazwa geograficzna	
-Lubiewom	Lubiewo	subst:pl:dat:n2	nazwa geograficzna	
-Lubiewu	Lubiewo	subst:sg:dat:n2	nazwa geograficzna	
+Lubiewach	Lubiewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lubiewa	Lubiewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lubiewa	Lubiewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lubiewa	Lubiewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Lubiewa	Lubiewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lubiewami	Lubiewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lubiewem	Lubiewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lubiewie	Lubiewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Lubiew	Lubiewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lubiewo	Lubiewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lubiewo	Lubiewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lubiewo	Lubiewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Lubiewom	Lubiewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lubiewu	Lubiewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Lubinach	Lubin	subst:pl:loc:m3	nazwa geograficzna	
 Lubina	Lubin	subst:sg:gen:m3	nazwa geograficzna	
 Lubinami	Lubin	subst:pl:inst:m3	nazwa geograficzna	
@@ -5083,20 +5083,20 @@ Lublińcowi	Lubliniec	subst:sg:dat:m3	nazwa geograficzna
 Lublińców	Lubliniec	subst:pl:gen:m3	nazwa geograficzna	
 Lublińcu	Lubliniec	subst:sg:loc:m3	nazwa geograficzna	
 Lublińcu	Lubliniec	subst:sg:voc:m3	nazwa geograficzna	
-Lubniewicach	Lubniewice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Lubniewicach	Lubniewice	subst:pl:loc:p3	nazwa geograficzna	
-Lubniewicami	Lubniewice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Lubniewicami	Lubniewice	subst:pl:inst:p3	nazwa geograficzna	
-Lubniewice	Lubniewice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Lubniewice	Lubniewice	subst:pl:acc:p3	nazwa geograficzna	
-Lubniewice	Lubniewice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Lubniewice	Lubniewice	subst:pl:nom:p3	nazwa geograficzna	
-Lubniewice	Lubniewice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Lubniewice	Lubniewice	subst:pl:voc:p3	nazwa geograficzna	
-Lubniewic	Lubniewice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Lubniewic	Lubniewice	subst:pl:gen:p3	nazwa geograficzna	
-Lubniewicom	Lubniewice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Lubniewicom	Lubniewice	subst:pl:dat:p3	nazwa geograficzna	
+Lubniewicach	Lubniewice	subst:pl:loc:n:pt	nazwa geograficzna	
+Lubniewicach	Lubniewice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Lubniewicami	Lubniewice	subst:pl:inst:n:pt	nazwa geograficzna	
+Lubniewicami	Lubniewice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Lubniewice	Lubniewice	subst:pl:acc:n:pt	nazwa geograficzna	
+Lubniewice	Lubniewice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Lubniewice	Lubniewice	subst:pl:nom:n:pt	nazwa geograficzna	
+Lubniewice	Lubniewice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Lubniewice	Lubniewice	subst:pl:voc:n:pt	nazwa geograficzna	
+Lubniewice	Lubniewice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Lubniewic	Lubniewice	subst:pl:gen:n:pt	nazwa geograficzna	
+Lubniewic	Lubniewice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Lubniewicom	Lubniewice	subst:pl:dat:n:pt	nazwa geograficzna	
+Lubniewicom	Lubniewice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Lubochniach	Lubochnia	subst:pl:loc:f	nazwa geograficzna	
 Lubochnia	Lubochnia	subst:sg:nom:f	nazwa geograficzna	
 Lubochniami	Lubochnia	subst:pl:inst:f	nazwa geograficzna	
@@ -5301,34 +5301,34 @@ Lubotyniu	Lubotyń	subst:sg:loc:m3	nazwa geograficzna
 Lubotyniu	Lubotyń	subst:sg:voc:m3	nazwa geograficzna	
 Lubotyń	Lubotyń	subst:sg:acc:m3	nazwa geograficzna	
 Lubotyń	Lubotyń	subst:sg:nom:m3	nazwa geograficzna	
-Lubskach	Lubsko	subst:pl:loc:n2	nazwa geograficzna	
-Lubska	Lubsko	subst:pl:acc:n2	nazwa geograficzna	
-Lubska	Lubsko	subst:pl:nom:n2	nazwa geograficzna	
-Lubska	Lubsko	subst:pl:voc:n2	nazwa geograficzna	
-Lubska	Lubsko	subst:sg:gen:n2	nazwa geograficzna	
-Lubskami	Lubsko	subst:pl:inst:n2	nazwa geograficzna	
-Lubskiem	Lubsko	subst:sg:inst:n2	nazwa geograficzna	
-Lubsk	Lubsko	subst:pl:gen:n2	nazwa geograficzna	
-Lubsko	Lubsko	subst:sg:acc:n2	nazwa geograficzna	
-Lubsko	Lubsko	subst:sg:nom:n2	nazwa geograficzna	
-Lubsko	Lubsko	subst:sg:voc:n2	nazwa geograficzna	
-Lubskom	Lubsko	subst:pl:dat:n2	nazwa geograficzna	
-Lubsku	Lubsko	subst:sg:dat:n2	nazwa geograficzna	
-Lubsku	Lubsko	subst:sg:loc:n2	nazwa geograficzna	
-Lubuskich	Lubuskie	subst:pl:gen:n2	nazwa geograficzna	
-Lubuskich	Lubuskie	subst:pl:loc:n2	nazwa geograficzna	
-Lubuskiego	Lubuskie	subst:sg:gen:n2	nazwa geograficzna	
-Lubuskie	Lubuskie	subst:pl:acc:n2	nazwa geograficzna	
-Lubuskie	Lubuskie	subst:pl:nom:n2	nazwa geograficzna	
-Lubuskie	Lubuskie	subst:pl:voc:n2	nazwa geograficzna	
-Lubuskie	Lubuskie	subst:sg:acc:n2	nazwa geograficzna	
-Lubuskie	Lubuskie	subst:sg:nom:n2	nazwa geograficzna	
-Lubuskie	Lubuskie	subst:sg:voc:n2	nazwa geograficzna	
-Lubuskiem	Lubuskie	subst:sg:inst:n2	nazwa geograficzna	
-Lubuskiem	Lubuskie	subst:sg:loc:n2	nazwa geograficzna	
-Lubuskiemu	Lubuskie	subst:sg:dat:n2	nazwa geograficzna	
-Lubuskimi	Lubuskie	subst:pl:inst:n2	nazwa geograficzna	
-Lubuskim	Lubuskie	subst:pl:dat:n2	nazwa geograficzna	
+Lubskach	Lubsko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lubska	Lubsko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lubska	Lubsko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lubska	Lubsko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Lubska	Lubsko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lubskami	Lubsko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lubskiem	Lubsko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lubsk	Lubsko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lubsko	Lubsko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lubsko	Lubsko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lubsko	Lubsko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Lubskom	Lubsko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lubsku	Lubsko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lubsku	Lubsko	subst:sg:loc:n:ncol	nazwa geograficzna	
+Lubuskich	Lubuskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lubuskich	Lubuskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lubuskiego	Lubuskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lubuskie	Lubuskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lubuskie	Lubuskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lubuskie	Lubuskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Lubuskie	Lubuskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lubuskie	Lubuskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lubuskie	Lubuskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Lubuskiem	Lubuskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lubuskiem	Lubuskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Lubuskiemu	Lubuskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lubuskimi	Lubuskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lubuskim	Lubuskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Lubuszanach	Lubuszanin	subst:pl:loc:m1	nazwa pospolita	
 Lubuszanami	Lubuszanin	subst:pl:inst:m1	nazwa pospolita	
 Lubuszanie	Lubuszanin	subst:pl:nom:m1	nazwa pospolita	
@@ -6093,22 +6093,22 @@ Lumierze	Lumiere	subst:sg:voc:m1	nazwisko
 Lundach	Lund	subst:pl:loc:m3	nazwa geograficzna	
 Lundami	Lund	subst:pl:inst:m3	nazwa geograficzna	
 Lundem	Lund	subst:sg:inst:m3	nazwa geograficzna	
-Lund	Lund	subst:pl:acc:n2	nazwa geograficzna	
-Lund	Lund	subst:pl:dat:n2	nazwa geograficzna	
-Lund	Lund	subst:pl:gen:n2	nazwa geograficzna	
-Lund	Lund	subst:pl:inst:n2	nazwa geograficzna	
-Lund	Lund	subst:pl:loc:n2	nazwa geograficzna	
-Lund	Lund	subst:pl:nom:n2	nazwa geograficzna	
-Lund	Lund	subst:pl:voc:n2	nazwa geograficzna	
+Lund	Lund	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lund	Lund	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lund	Lund	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lund	Lund	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lund	Lund	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lund	Lund	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lund	Lund	subst:pl:voc:n:ncol	nazwa geograficzna	
 Lund	Lund	subst:sg:acc:m3	nazwa geograficzna	
-Lund	Lund	subst:sg:acc:n2	nazwa geograficzna	
-Lund	Lund	subst:sg:dat:n2	nazwa geograficzna	
-Lund	Lund	subst:sg:gen:n2	nazwa geograficzna	
-Lund	Lund	subst:sg:inst:n2	nazwa geograficzna	
-Lund	Lund	subst:sg:loc:n2	nazwa geograficzna	
+Lund	Lund	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lund	Lund	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lund	Lund	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lund	Lund	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lund	Lund	subst:sg:loc:n:ncol	nazwa geograficzna	
 Lund	Lund	subst:sg:nom:m3	nazwa geograficzna	
-Lund	Lund	subst:sg:nom:n2	nazwa geograficzna	
-Lund	Lund	subst:sg:voc:n2	nazwa geograficzna	
+Lund	Lund	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lund	Lund	subst:sg:voc:n:ncol	nazwa geograficzna	
 Lundom	Lund	subst:pl:dat:m3	nazwa geograficzna	
 Lundowi	Lund	subst:sg:dat:m3	nazwa geograficzna	
 Lundów	Lund	subst:pl:gen:m3	nazwa geograficzna	
@@ -6375,20 +6375,20 @@ Lutosławskimi	Lutosławski	subst:pl:inst:m1	nazwisko
 Lutosławskim	Lutosławski	subst:pl:dat:m1	nazwisko	
 Lutosławskim	Lutosławski	subst:sg:inst:m1	nazwisko	
 Lutosławskim	Lutosławski	subst:sg:loc:m1	nazwisko	
-Lutowiskach	Lutowiska	subst:pl:loc:p2	nazwa geograficzna	
-Lutowiskach	Lutowiska	subst:pl:loc:p3	nazwa geograficzna	
-Lutowiska	Lutowiska	subst:pl:acc:p2	nazwa geograficzna	
-Lutowiska	Lutowiska	subst:pl:acc:p3	nazwa geograficzna	
-Lutowiska	Lutowiska	subst:pl:nom:p2	nazwa geograficzna	
-Lutowiska	Lutowiska	subst:pl:nom:p3	nazwa geograficzna	
-Lutowiska	Lutowiska	subst:pl:voc:p2	nazwa geograficzna	
-Lutowiska	Lutowiska	subst:pl:voc:p3	nazwa geograficzna	
-Lutowiskami	Lutowiska	subst:pl:inst:p2	nazwa geograficzna	
-Lutowiskami	Lutowiska	subst:pl:inst:p3	nazwa geograficzna	
-Lutowisk	Lutowiska	subst:pl:gen:p2	nazwa geograficzna	
-Lutowisk	Lutowiska	subst:pl:gen:p3	nazwa geograficzna	
-Lutowiskom	Lutowiska	subst:pl:dat:p2	nazwa geograficzna	
-Lutowiskom	Lutowiska	subst:pl:dat:p3	nazwa geograficzna	
+Lutowiskach	Lutowiska	subst:pl:loc:n:pt	nazwa geograficzna	
+Lutowiskach	Lutowiska	subst:pl:loc:n:pt	nazwa geograficzna	
+Lutowiska	Lutowiska	subst:pl:acc:n:pt	nazwa geograficzna	
+Lutowiska	Lutowiska	subst:pl:acc:n:pt	nazwa geograficzna	
+Lutowiska	Lutowiska	subst:pl:nom:n:pt	nazwa geograficzna	
+Lutowiska	Lutowiska	subst:pl:nom:n:pt	nazwa geograficzna	
+Lutowiska	Lutowiska	subst:pl:voc:n:pt	nazwa geograficzna	
+Lutowiska	Lutowiska	subst:pl:voc:n:pt	nazwa geograficzna	
+Lutowiskami	Lutowiska	subst:pl:inst:n:pt	nazwa geograficzna	
+Lutowiskami	Lutowiska	subst:pl:inst:n:pt	nazwa geograficzna	
+Lutowisk	Lutowiska	subst:pl:gen:n:pt	nazwa geograficzna	
+Lutowisk	Lutowiska	subst:pl:gen:n:pt	nazwa geograficzna	
+Lutowiskom	Lutowiska	subst:pl:dat:n:pt	nazwa geograficzna	
+Lutowiskom	Lutowiska	subst:pl:dat:n:pt	nazwa geograficzna	
 Lututowach	Lututów	subst:pl:loc:m3	nazwa geograficzna	
 Lututowa	Lututów	subst:sg:gen:m3	nazwa geograficzna	
 Lututowami	Lututów	subst:pl:inst:m3	nazwa geograficzna	
@@ -6434,20 +6434,20 @@ Luwry	Luwr	subst:pl:nom:m3	nazwa własna budowli
 Luwry	Luwr	subst:pl:voc:m3	nazwa własna budowli	
 Luwrze	Luwr	subst:sg:loc:m3	nazwa własna budowli	
 Luwrze	Luwr	subst:sg:voc:m3	nazwa własna budowli	
-Lwowskich	Lwowskie	subst:pl:gen:n2	nazwa geograficzna	
-Lwowskich	Lwowskie	subst:pl:loc:n2	nazwa geograficzna	
-Lwowskiego	Lwowskie	subst:sg:gen:n2	nazwa geograficzna	
-Lwowskie	Lwowskie	subst:pl:acc:n2	nazwa geograficzna	
-Lwowskie	Lwowskie	subst:pl:nom:n2	nazwa geograficzna	
-Lwowskie	Lwowskie	subst:pl:voc:n2	nazwa geograficzna	
-Lwowskie	Lwowskie	subst:sg:acc:n2	nazwa geograficzna	
-Lwowskie	Lwowskie	subst:sg:nom:n2	nazwa geograficzna	
-Lwowskie	Lwowskie	subst:sg:voc:n2	nazwa geograficzna	
-Lwowskiem	Lwowskie	subst:sg:inst:n2	nazwa geograficzna	
-Lwowskiem	Lwowskie	subst:sg:loc:n2	nazwa geograficzna	
-Lwowskiemu	Lwowskie	subst:sg:dat:n2	nazwa geograficzna	
-Lwowskimi	Lwowskie	subst:pl:inst:n2	nazwa geograficzna	
-Lwowskim	Lwowskie	subst:pl:dat:n2	nazwa geograficzna	
+Lwowskich	Lwowskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lwowskich	Lwowskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lwowskiego	Lwowskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lwowskie	Lwowskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Lwowskie	Lwowskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Lwowskie	Lwowskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Lwowskie	Lwowskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Lwowskie	Lwowskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Lwowskie	Lwowskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Lwowskiem	Lwowskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lwowskiem	Lwowskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Lwowskiemu	Lwowskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Lwowskimi	Lwowskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lwowskim	Lwowskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Lwowach	Lwów	subst:pl:loc:m3	nazwa geograficzna	
 Lwowa	Lwów	subst:sg:gen:m3	nazwa geograficzna	
 Lwowami	Lwów	subst:pl:inst:m3	nazwa geograficzna	
@@ -6507,46 +6507,46 @@ Lyonu	Lyon	subst:sg:gen:m3	nazwa geograficzna
 Lyony	Lyon	subst:pl:acc:m3	nazwa geograficzna	
 Lyony	Lyon	subst:pl:nom:m3	nazwa geograficzna	
 Lyony	Lyon	subst:pl:voc:m3	nazwa geograficzna	
-Lysek	Lyski	subst:pl:gen:p2	nazwa geograficzna	
-Lysek	Lyski	subst:pl:gen:p3	nazwa geograficzna	
-Lyskach	Lyski	subst:pl:loc:p2	nazwa geograficzna	
-Lyskach	Lyski	subst:pl:loc:p3	nazwa geograficzna	
-Lyskami	Lyski	subst:pl:inst:p2	nazwa geograficzna	
-Lyskami	Lyski	subst:pl:inst:p3	nazwa geograficzna	
-Lyski	Lyski	subst:pl:acc:p2	nazwa geograficzna	
-Lyski	Lyski	subst:pl:acc:p3	nazwa geograficzna	
-Lyski	Lyski	subst:pl:nom:p2	nazwa geograficzna	
-Lyski	Lyski	subst:pl:nom:p3	nazwa geograficzna	
-Lyski	Lyski	subst:pl:voc:p2	nazwa geograficzna	
-Lyski	Lyski	subst:pl:voc:p3	nazwa geograficzna	
-Lyskom	Lyski	subst:pl:dat:p2	nazwa geograficzna	
-Lyskom	Lyski	subst:pl:dat:p3	nazwa geograficzna	
-LZ	LZ	subst:pl:acc:n2	nazwa pospolita	
-LZ	LZ	subst:pl:dat:n2	nazwa pospolita	
-LZ	LZ	subst:pl:gen:n2	nazwa pospolita	
-LZ	LZ	subst:pl:inst:n2	nazwa pospolita	
-LZ	LZ	subst:pl:loc:n2	nazwa pospolita	
-LZ	LZ	subst:pl:nom:n2	nazwa pospolita	
-LZ	LZ	subst:pl:voc:n2	nazwa pospolita	
-LZ	LZ	subst:sg:acc:n2	nazwa pospolita	
-LZ	LZ	subst:sg:dat:n2	nazwa pospolita	
-LZ	LZ	subst:sg:gen:n2	nazwa pospolita	
-LZ	LZ	subst:sg:inst:n2	nazwa pospolita	
-LZ	LZ	subst:sg:loc:n2	nazwa pospolita	
-LZ	LZ	subst:sg:nom:n2	nazwa pospolita	
-LZ	LZ	subst:sg:voc:n2	nazwa pospolita	
+Lysek	Lyski	subst:pl:gen:n:pt	nazwa geograficzna	
+Lysek	Lyski	subst:pl:gen:n:pt	nazwa geograficzna	
+Lyskach	Lyski	subst:pl:loc:n:pt	nazwa geograficzna	
+Lyskach	Lyski	subst:pl:loc:n:pt	nazwa geograficzna	
+Lyskami	Lyski	subst:pl:inst:n:pt	nazwa geograficzna	
+Lyskami	Lyski	subst:pl:inst:n:pt	nazwa geograficzna	
+Lyski	Lyski	subst:pl:acc:n:pt	nazwa geograficzna	
+Lyski	Lyski	subst:pl:acc:n:pt	nazwa geograficzna	
+Lyski	Lyski	subst:pl:nom:n:pt	nazwa geograficzna	
+Lyski	Lyski	subst:pl:nom:n:pt	nazwa geograficzna	
+Lyski	Lyski	subst:pl:voc:n:pt	nazwa geograficzna	
+Lyski	Lyski	subst:pl:voc:n:pt	nazwa geograficzna	
+Lyskom	Lyski	subst:pl:dat:n:pt	nazwa geograficzna	
+Lyskom	Lyski	subst:pl:dat:n:pt	nazwa geograficzna	
+LZ	LZ	subst:pl:acc:n:ncol	nazwa pospolita	
+LZ	LZ	subst:pl:dat:n:ncol	nazwa pospolita	
+LZ	LZ	subst:pl:gen:n:ncol	nazwa pospolita	
+LZ	LZ	subst:pl:inst:n:ncol	nazwa pospolita	
+LZ	LZ	subst:pl:loc:n:ncol	nazwa pospolita	
+LZ	LZ	subst:pl:nom:n:ncol	nazwa pospolita	
+LZ	LZ	subst:pl:voc:n:ncol	nazwa pospolita	
+LZ	LZ	subst:sg:acc:n:ncol	nazwa pospolita	
+LZ	LZ	subst:sg:dat:n:ncol	nazwa pospolita	
+LZ	LZ	subst:sg:gen:n:ncol	nazwa pospolita	
+LZ	LZ	subst:sg:inst:n:ncol	nazwa pospolita	
+LZ	LZ	subst:sg:loc:n:ncol	nazwa pospolita	
+LZ	LZ	subst:sg:nom:n:ncol	nazwa pospolita	
+LZ	LZ	subst:sg:voc:n:ncol	nazwa pospolita	
 LZS-ach	LZS	subst:pl:loc:m3	nazwa organizacji	
 LZS-ami	LZS	subst:pl:inst:m3	nazwa organizacji	
 LZS-em	LZS	subst:sg:inst:m3	nazwa organizacji	
 LZS-ie	LZS	subst:sg:loc:m3	nazwa organizacji	
 LZS-ie	LZS	subst:sg:voc:m3	nazwa organizacji	
-LZS	LZS	subst:pl:acc:p3	nazwa organizacji	
-LZS	LZS	subst:pl:dat:p3	nazwa organizacji	
-LZS	LZS	subst:pl:gen:p3	nazwa organizacji	
-LZS	LZS	subst:pl:inst:p3	nazwa organizacji	
-LZS	LZS	subst:pl:loc:p3	nazwa organizacji	
-LZS	LZS	subst:pl:nom:p3	nazwa organizacji	
-LZS	LZS	subst:pl:voc:p3	nazwa organizacji	
+LZS	LZS	subst:pl:acc:n:pt	nazwa organizacji	
+LZS	LZS	subst:pl:dat:n:pt	nazwa organizacji	
+LZS	LZS	subst:pl:gen:n:pt	nazwa organizacji	
+LZS	LZS	subst:pl:inst:n:pt	nazwa organizacji	
+LZS	LZS	subst:pl:loc:n:pt	nazwa organizacji	
+LZS	LZS	subst:pl:nom:n:pt	nazwa organizacji	
+LZS	LZS	subst:pl:voc:n:pt	nazwa organizacji	
 LZS	LZS	subst:sg:acc:m3	nazwa organizacji	
 LZS	LZS	subst:sg:nom:m3	nazwa organizacji	
 LZS-om	LZS	subst:pl:dat:m3	nazwa organizacji	

@@ -1,17 +1,17 @@
-BA	BA	subst:pl:acc:n2	nazwa firmy	
-BA	BA	subst:pl:dat:n2	nazwa firmy	
-BA	BA	subst:pl:gen:n2	nazwa firmy	
-BA	BA	subst:pl:inst:n2	nazwa firmy	
-BA	BA	subst:pl:loc:n2	nazwa firmy	
-BA	BA	subst:pl:nom:n2	nazwa firmy	
-BA	BA	subst:pl:voc:n2	nazwa firmy	
-BA	BA	subst:sg:acc:n2	nazwa firmy	
-BA	BA	subst:sg:dat:n2	nazwa firmy	
-BA	BA	subst:sg:gen:n2	nazwa firmy	
-BA	BA	subst:sg:inst:n2	nazwa firmy	
-BA	BA	subst:sg:loc:n2	nazwa firmy	
-BA	BA	subst:sg:nom:n2	nazwa firmy	
-BA	BA	subst:sg:voc:n2	nazwa firmy	
+BA	BA	subst:pl:acc:n:ncol	nazwa firmy	
+BA	BA	subst:pl:dat:n:ncol	nazwa firmy	
+BA	BA	subst:pl:gen:n:ncol	nazwa firmy	
+BA	BA	subst:pl:inst:n:ncol	nazwa firmy	
+BA	BA	subst:pl:loc:n:ncol	nazwa firmy	
+BA	BA	subst:pl:nom:n:ncol	nazwa firmy	
+BA	BA	subst:pl:voc:n:ncol	nazwa firmy	
+BA	BA	subst:sg:acc:n:ncol	nazwa firmy	
+BA	BA	subst:sg:dat:n:ncol	nazwa firmy	
+BA	BA	subst:sg:gen:n:ncol	nazwa firmy	
+BA	BA	subst:sg:inst:n:ncol	nazwa firmy	
+BA	BA	subst:sg:loc:n:ncol	nazwa firmy	
+BA	BA	subst:sg:nom:n:ncol	nazwa firmy	
+BA	BA	subst:sg:voc:n:ncol	nazwa firmy	
 BAAS-ach	BAAS	subst:pl:loc:m3	nazwa organizacji	
 BAAS-ami	BAAS	subst:pl:inst:m3	nazwa organizacji	
 BAAS	BAAS	subst:pl:acc:f	nazwa organizacji	
@@ -54,20 +54,20 @@ Babel	Babel	subst:sg:inst:f	nazwa własna budowli	bibl.
 Babel	Babel	subst:sg:loc:f	nazwa własna budowli	bibl.
 Babel	Babel	subst:sg:nom:f	nazwa własna budowli	bibl.
 Babel	Babel	subst:sg:voc:f	nazwa własna budowli	bibl.
-Babicach	Babice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Babicach	Babice	subst:pl:loc:p3	nazwa geograficzna	
-Babicami	Babice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Babicami	Babice	subst:pl:inst:p3	nazwa geograficzna	
-Babic	Babice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Babic	Babice	subst:pl:gen:p3	nazwa geograficzna	
-Babice	Babice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Babice	Babice	subst:pl:acc:p3	nazwa geograficzna	
-Babice	Babice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Babice	Babice	subst:pl:nom:p3	nazwa geograficzna	
-Babice	Babice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Babice	Babice	subst:pl:voc:p3	nazwa geograficzna	
-Babicom	Babice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Babicom	Babice	subst:pl:dat:p3	nazwa geograficzna	
+Babicach	Babice	subst:pl:loc:n:pt	nazwa geograficzna	
+Babicach	Babice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Babicami	Babice	subst:pl:inst:n:pt	nazwa geograficzna	
+Babicami	Babice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Babic	Babice	subst:pl:gen:n:pt	nazwa geograficzna	
+Babic	Babice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Babice	Babice	subst:pl:acc:n:pt	nazwa geograficzna	
+Babice	Babice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Babice	Babice	subst:pl:nom:n:pt	nazwa geograficzna	
+Babice	Babice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Babice	Babice	subst:pl:voc:n:pt	nazwa geograficzna	
+Babice	Babice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Babicom	Babice	subst:pl:dat:n:pt	nazwa geograficzna	
+Babicom	Babice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Babilonach	Babilon	subst:pl:loc:m3	nazwa geograficzna	hist.
 Babilonami	Babilon	subst:pl:inst:m3	nazwa geograficzna	hist.
 Babilon	Babilon	subst:sg:acc:m3	nazwa geograficzna	hist.
@@ -142,20 +142,20 @@ Baborowy	Baborów	subst:pl:nom:m3	nazwa geograficzna
 Baborowy	Baborów	subst:pl:voc:m3	nazwa geograficzna	
 Baborów	Baborów	subst:sg:acc:m3	nazwa geograficzna	
 Baborów	Baborów	subst:sg:nom:m3	nazwa geograficzna	
-Baboszewa	Baboszewo	subst:pl:acc:n2	nazwa geograficzna	
-Baboszewa	Baboszewo	subst:pl:nom:n2	nazwa geograficzna	
-Baboszewa	Baboszewo	subst:pl:voc:n2	nazwa geograficzna	
-Baboszewa	Baboszewo	subst:sg:gen:n2	nazwa geograficzna	
-Baboszewach	Baboszewo	subst:pl:loc:n2	nazwa geograficzna	
-Baboszewami	Baboszewo	subst:pl:inst:n2	nazwa geograficzna	
-Baboszew	Baboszewo	subst:pl:gen:n2	nazwa geograficzna	
-Baboszewem	Baboszewo	subst:sg:inst:n2	nazwa geograficzna	
-Baboszewie	Baboszewo	subst:sg:loc:n2	nazwa geograficzna	
-Baboszewo	Baboszewo	subst:sg:acc:n2	nazwa geograficzna	
-Baboszewo	Baboszewo	subst:sg:nom:n2	nazwa geograficzna	
-Baboszewo	Baboszewo	subst:sg:voc:n2	nazwa geograficzna	
-Baboszewom	Baboszewo	subst:pl:dat:n2	nazwa geograficzna	
-Baboszewu	Baboszewo	subst:sg:dat:n2	nazwa geograficzna	
+Baboszewa	Baboszewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Baboszewa	Baboszewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Baboszewa	Baboszewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Baboszewa	Baboszewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Baboszewach	Baboszewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Baboszewami	Baboszewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Baboszew	Baboszewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Baboszewem	Baboszewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Baboszewie	Baboszewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Baboszewo	Baboszewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Baboszewo	Baboszewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Baboszewo	Baboszewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Baboszewom	Baboszewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Baboszewu	Baboszewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Bacciarelle	Bacciarelli	depr:pl:nom:m2	nazwisko	
 Bacciarelle	Bacciarelli	depr:pl:voc:m2	nazwisko	
 Bacciarellego	Bacciarelli	subst:sg:acc:m1	nazwisko	
@@ -357,20 +357,20 @@ Baczyńskim	Baczyński	subst:pl:dat:m1	nazwisko
 Baczyńskim	Baczyński	subst:sg:inst:m1	nazwisko	
 Baczyńskim	Baczyński	subst:sg:loc:m1	nazwisko	
 Baczyńskimi	Baczyński	subst:pl:inst:m1	nazwisko	
-Baćkowicach	Baćkowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Baćkowicach	Baćkowice	subst:pl:loc:p3	nazwa geograficzna	
-Baćkowicami	Baćkowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Baćkowicami	Baćkowice	subst:pl:inst:p3	nazwa geograficzna	
-Baćkowic	Baćkowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Baćkowic	Baćkowice	subst:pl:gen:p3	nazwa geograficzna	
-Baćkowice	Baćkowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Baćkowice	Baćkowice	subst:pl:acc:p3	nazwa geograficzna	
-Baćkowice	Baćkowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Baćkowice	Baćkowice	subst:pl:nom:p3	nazwa geograficzna	
-Baćkowice	Baćkowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Baćkowice	Baćkowice	subst:pl:voc:p3	nazwa geograficzna	
-Baćkowicom	Baćkowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Baćkowicom	Baćkowice	subst:pl:dat:p3	nazwa geograficzna	
+Baćkowicach	Baćkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Baćkowicach	Baćkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Baćkowicami	Baćkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Baćkowicami	Baćkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Baćkowic	Baćkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Baćkowic	Baćkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Baćkowice	Baćkowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Baćkowice	Baćkowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Baćkowice	Baćkowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Baćkowice	Baćkowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Baćkowice	Baćkowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Baćkowice	Baćkowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Baćkowicom	Baćkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Baćkowicom	Baćkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Badena	Baden	subst:sg:acc:m1	nazwisko	
 Badena	Baden	subst:sg:gen:m1	nazwisko	
 Badenach	Baden	subst:pl:loc:m1	nazwisko	
@@ -554,20 +554,20 @@ Bahamki	Bahamka	subst:pl:voc:f	nazwa pospolita
 Bahamki	Bahamka	subst:sg:gen:f	nazwa pospolita	
 Bahamko	Bahamka	subst:sg:voc:f	nazwa pospolita	
 Bahamkom	Bahamka	subst:pl:dat:f	nazwa pospolita	
-Bahamach	Bahamy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bahamach	Bahamy	subst:pl:loc:p3	nazwa geograficzna	
-Bahamami	Bahamy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bahamami	Bahamy	subst:pl:inst:p3	nazwa geograficzna	
-Bahamom	Bahamy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bahamom	Bahamy	subst:pl:dat:p3	nazwa geograficzna	
-Bahamów	Bahamy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bahamów	Bahamy	subst:pl:gen:p3	nazwa geograficzna	
-Bahamy	Bahamy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bahamy	Bahamy	subst:pl:acc:p3	nazwa geograficzna	
-Bahamy	Bahamy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bahamy	Bahamy	subst:pl:nom:p3	nazwa geograficzna	
-Bahamy	Bahamy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bahamy	Bahamy	subst:pl:voc:p3	nazwa geograficzna	
+Bahamach	Bahamy	subst:pl:loc:n:pt	nazwa geograficzna	
+Bahamach	Bahamy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bahamami	Bahamy	subst:pl:inst:n:pt	nazwa geograficzna	
+Bahamami	Bahamy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bahamom	Bahamy	subst:pl:dat:n:pt	nazwa geograficzna	
+Bahamom	Bahamy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Bahamów	Bahamy	subst:pl:gen:n:pt	nazwa geograficzna	
+Bahamów	Bahamy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bahamy	Bahamy	subst:pl:acc:n:pt	nazwa geograficzna	
+Bahamy	Bahamy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bahamy	Bahamy	subst:pl:nom:n:pt	nazwa geograficzna	
+Bahamy	Bahamy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bahamy	Bahamy	subst:pl:voc:n:pt	nazwa geograficzna	
+Bahamy	Bahamy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Bahrajnach	Bahrajn	subst:pl:loc:m3	nazwa geograficzna	
 Bahrajnami	Bahrajn	subst:pl:inst:m3	nazwa geograficzna	
 Bahrajn	Bahrajn	subst:sg:acc:m3	nazwa geograficzna	
@@ -671,20 +671,20 @@ Bajramy	Bajram	subst:pl:acc:m3	nazwa święta
 Bajramy	Bajram	subst:pl:nom:m3	nazwa święta	
 Bajramy	Bajram	subst:pl:voc:m3	nazwa święta	
 B	bajt	brev:npun		komp.
-Bakałarzewa	Bakałarzewo	subst:pl:acc:n2	nazwa geograficzna	
-Bakałarzewa	Bakałarzewo	subst:pl:nom:n2	nazwa geograficzna	
-Bakałarzewa	Bakałarzewo	subst:pl:voc:n2	nazwa geograficzna	
-Bakałarzewa	Bakałarzewo	subst:sg:gen:n2	nazwa geograficzna	
-Bakałarzewach	Bakałarzewo	subst:pl:loc:n2	nazwa geograficzna	
-Bakałarzewami	Bakałarzewo	subst:pl:inst:n2	nazwa geograficzna	
-Bakałarzew	Bakałarzewo	subst:pl:gen:n2	nazwa geograficzna	
-Bakałarzewem	Bakałarzewo	subst:sg:inst:n2	nazwa geograficzna	
-Bakałarzewie	Bakałarzewo	subst:sg:loc:n2	nazwa geograficzna	
-Bakałarzewo	Bakałarzewo	subst:sg:acc:n2	nazwa geograficzna	
-Bakałarzewo	Bakałarzewo	subst:sg:nom:n2	nazwa geograficzna	
-Bakałarzewo	Bakałarzewo	subst:sg:voc:n2	nazwa geograficzna	
-Bakałarzewom	Bakałarzewo	subst:pl:dat:n2	nazwa geograficzna	
-Bakałarzewu	Bakałarzewo	subst:sg:dat:n2	nazwa geograficzna	
+Bakałarzewa	Bakałarzewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bakałarzewa	Bakałarzewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bakałarzewa	Bakałarzewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bakałarzewa	Bakałarzewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bakałarzewach	Bakałarzewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bakałarzewami	Bakałarzewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bakałarzew	Bakałarzewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bakałarzewem	Bakałarzewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bakałarzewie	Bakałarzewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bakałarzewo	Bakałarzewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bakałarzewo	Bakałarzewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bakałarzewo	Bakałarzewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Bakałarzewom	Bakałarzewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bakałarzewu	Bakałarzewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Bakchusa	Bakchus	subst:sg:acc:m1	imię	
 Bakchusa	Bakchus	subst:sg:gen:m1	imię	
 Bakchusach	Bakchus	subst:pl:loc:m1	imię	
@@ -703,20 +703,20 @@ Bakchusów	Bakchus	subst:pl:acc:m1	imię
 Bakchusów	Bakchus	subst:pl:gen:m1	imię	
 Bakchusy	Bakchus	depr:pl:nom:m2	imię	
 Bakchusy	Bakchus	depr:pl:voc:m2	imię	
-Baku	Baku	subst:pl:acc:n2	nazwa geograficzna	
-Baku	Baku	subst:pl:dat:n2	nazwa geograficzna	
-Baku	Baku	subst:pl:gen:n2	nazwa geograficzna	
-Baku	Baku	subst:pl:inst:n2	nazwa geograficzna	
-Baku	Baku	subst:pl:loc:n2	nazwa geograficzna	
-Baku	Baku	subst:pl:nom:n2	nazwa geograficzna	
-Baku	Baku	subst:pl:voc:n2	nazwa geograficzna	
-Baku	Baku	subst:sg:acc:n2	nazwa geograficzna	
-Baku	Baku	subst:sg:dat:n2	nazwa geograficzna	
-Baku	Baku	subst:sg:gen:n2	nazwa geograficzna	
-Baku	Baku	subst:sg:inst:n2	nazwa geograficzna	
-Baku	Baku	subst:sg:loc:n2	nazwa geograficzna	
-Baku	Baku	subst:sg:nom:n2	nazwa geograficzna	
-Baku	Baku	subst:sg:voc:n2	nazwa geograficzna	
+Baku	Baku	subst:pl:acc:n:ncol	nazwa geograficzna	
+Baku	Baku	subst:pl:dat:n:ncol	nazwa geograficzna	
+Baku	Baku	subst:pl:gen:n:ncol	nazwa geograficzna	
+Baku	Baku	subst:pl:inst:n:ncol	nazwa geograficzna	
+Baku	Baku	subst:pl:loc:n:ncol	nazwa geograficzna	
+Baku	Baku	subst:pl:nom:n:ncol	nazwa geograficzna	
+Baku	Baku	subst:pl:voc:n:ncol	nazwa geograficzna	
+Baku	Baku	subst:sg:acc:n:ncol	nazwa geograficzna	
+Baku	Baku	subst:sg:dat:n:ncol	nazwa geograficzna	
+Baku	Baku	subst:sg:gen:n:ncol	nazwa geograficzna	
+Baku	Baku	subst:sg:inst:n:ncol	nazwa geograficzna	
+Baku	Baku	subst:sg:loc:n:ncol	nazwa geograficzna	
+Baku	Baku	subst:sg:nom:n:ncol	nazwa geograficzna	
+Baku	Baku	subst:sg:voc:n:ncol	nazwa geograficzna	
 Balatonach	Balaton	subst:pl:loc:m3	nazwa geograficzna	
 Balatonami	Balaton	subst:pl:inst:m3	nazwa geograficzna	
 Balaton	Balaton	subst:sg:acc:m3	nazwa geograficzna	
@@ -967,20 +967,20 @@ Balzaków	Balzak	subst:pl:acc:m1	nazwisko
 Balzaków	Balzak	subst:pl:gen:m1	nazwisko	
 Balzaku	Balzak	subst:sg:loc:m1	nazwisko	
 Balzaku	Balzak	subst:sg:voc:m1	nazwisko	
-Bałkanach	Bałkany	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bałkanach	Bałkany	subst:pl:loc:p3	nazwa geograficzna	
-Bałkanami	Bałkany	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bałkanami	Bałkany	subst:pl:inst:p3	nazwa geograficzna	
-Bałkanom	Bałkany	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bałkanom	Bałkany	subst:pl:dat:p3	nazwa geograficzna	
-Bałkanów	Bałkany	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bałkanów	Bałkany	subst:pl:gen:p3	nazwa geograficzna	
-Bałkany	Bałkany	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bałkany	Bałkany	subst:pl:acc:p3	nazwa geograficzna	
-Bałkany	Bałkany	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bałkany	Bałkany	subst:pl:nom:p3	nazwa geograficzna	
-Bałkany	Bałkany	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bałkany	Bałkany	subst:pl:voc:p3	nazwa geograficzna	
+Bałkanach	Bałkany	subst:pl:loc:n:pt	nazwa geograficzna	
+Bałkanach	Bałkany	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bałkanami	Bałkany	subst:pl:inst:n:pt	nazwa geograficzna	
+Bałkanami	Bałkany	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bałkanom	Bałkany	subst:pl:dat:n:pt	nazwa geograficzna	
+Bałkanom	Bałkany	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Bałkanów	Bałkany	subst:pl:gen:n:pt	nazwa geograficzna	
+Bałkanów	Bałkany	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bałkany	Bałkany	subst:pl:acc:n:pt	nazwa geograficzna	
+Bałkany	Bałkany	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bałkany	Bałkany	subst:pl:nom:n:pt	nazwa geograficzna	
+Bałkany	Bałkany	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bałkany	Bałkany	subst:pl:voc:n:pt	nazwa geograficzna	
+Bałkany	Bałkany	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Bałkaria	Bałkaria	subst:sg:nom:f	nazwa geograficzna	
 Bałkariach	Bałkaria	subst:pl:loc:f	nazwa geograficzna	
 Bałkariami	Bałkaria	subst:pl:inst:f	nazwa geograficzna	
@@ -1451,22 +1451,22 @@ Barabaszów	Barabasz	subst:pl:acc:m1	imię
 Barabaszów	Barabasz	subst:pl:gen:m1	imię	
 Barabaszu	Barabasz	subst:sg:loc:m1	imię	
 Barabaszu	Barabasz	subst:sg:voc:m1	imię	
-Baranowa	Baranowo	subst:pl:acc:n2	nazwa geograficzna	
-Baranowa	Baranowo	subst:pl:nom:n2	nazwa geograficzna	
-Baranowa	Baranowo	subst:pl:voc:n2	nazwa geograficzna	
-Baranowa	Baranowo	subst:sg:gen:n2	nazwa geograficzna	
-Baranowach	Baranowo	subst:pl:loc:n2	nazwa geograficzna	
-Baranowami	Baranowo	subst:pl:inst:n2	nazwa geograficzna	
-Baranow	Baranowo	subst:pl:gen:n2	nazwa geograficzna	
-Baranowem	Baranowo	subst:sg:inst:n2	nazwa geograficzna	
-Baranowie	Baranowo	subst:sg:loc:n2	nazwa geograficzna	
-Baranowo	Baranowo	subst:sg:acc:n2	nazwa geograficzna	
-Baranowo	Baranowo	subst:sg:nom:n2	nazwa geograficzna	
-Baranowo	Baranowo	subst:sg:voc:n2	nazwa geograficzna	
-Baranowom	Baranowo	subst:pl:dat:n2	nazwa geograficzna	
-Baranowów	Baranowo	subst:pl:gen:n2	nazwa geograficzna	
-Baranowu	Baranowo	subst:sg:dat:n2	nazwa geograficzna	
-Baranów	Baranowo	subst:pl:gen:n2	nazwa geograficzna	
+Baranowa	Baranowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Baranowa	Baranowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Baranowa	Baranowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Baranowa	Baranowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Baranowach	Baranowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Baranowami	Baranowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Baranow	Baranowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Baranowem	Baranowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Baranowie	Baranowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Baranowo	Baranowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Baranowo	Baranowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Baranowo	Baranowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Baranowom	Baranowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Baranowów	Baranowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Baranowu	Baranowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Baranów	Baranowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Baranowska	Baranowska	subst:sg:nom:f	nazwisko	
 Baranowska	Baranowska	subst:sg:voc:f	nazwisko	
 Baranowską	Baranowska	subst:sg:acc:f	nazwisko	
@@ -1720,20 +1720,20 @@ Barcikowskim	Barcikowski	subst:pl:dat:m1	nazwisko
 Barcikowskim	Barcikowski	subst:sg:inst:m1	nazwisko	
 Barcikowskim	Barcikowski	subst:sg:loc:m1	nazwisko	
 Barcikowskimi	Barcikowski	subst:pl:inst:m1	nazwisko	
-Barczewa	Barczewo	subst:pl:acc:n2	nazwa geograficzna	
-Barczewa	Barczewo	subst:pl:nom:n2	nazwa geograficzna	
-Barczewa	Barczewo	subst:pl:voc:n2	nazwa geograficzna	
-Barczewa	Barczewo	subst:sg:gen:n2	nazwa geograficzna	
-Barczewach	Barczewo	subst:pl:loc:n2	nazwa geograficzna	
-Barczewami	Barczewo	subst:pl:inst:n2	nazwa geograficzna	
-Barczew	Barczewo	subst:pl:gen:n2	nazwa geograficzna	
-Barczewem	Barczewo	subst:sg:inst:n2	nazwa geograficzna	
-Barczewie	Barczewo	subst:sg:loc:n2	nazwa geograficzna	
-Barczewo	Barczewo	subst:sg:acc:n2	nazwa geograficzna	
-Barczewo	Barczewo	subst:sg:nom:n2	nazwa geograficzna	
-Barczewo	Barczewo	subst:sg:voc:n2	nazwa geograficzna	
-Barczewom	Barczewo	subst:pl:dat:n2	nazwa geograficzna	
-Barczewu	Barczewo	subst:sg:dat:n2	nazwa geograficzna	
+Barczewa	Barczewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Barczewa	Barczewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Barczewa	Barczewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Barczewa	Barczewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Barczewach	Barczewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Barczewami	Barczewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Barczew	Barczewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Barczewem	Barczewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Barczewie	Barczewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Barczewo	Barczewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Barczewo	Barczewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Barczewo	Barczewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Barczewom	Barczewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Barczewu	Barczewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Bardini	Bardini	subst:pl:nom:m1	nazwisko	
 Bardini	Bardini	subst:pl:voc:m1	nazwisko	
 Bardini	Bardini	subst:sg:nom:m1	nazwisko	
@@ -2167,20 +2167,20 @@ Bartoszewskim	Bartoszewski	subst:pl:dat:m1	nazwisko
 Bartoszewskim	Bartoszewski	subst:sg:inst:m1	nazwisko	
 Bartoszewskim	Bartoszewski	subst:sg:loc:m1	nazwisko	
 Bartoszewskimi	Bartoszewski	subst:pl:inst:m1	nazwisko	
-Bartoszycach	Bartoszyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bartoszycach	Bartoszyce	subst:pl:loc:p3	nazwa geograficzna	
-Bartoszycami	Bartoszyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bartoszycami	Bartoszyce	subst:pl:inst:p3	nazwa geograficzna	
-Bartoszyc	Bartoszyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bartoszyc	Bartoszyce	subst:pl:gen:p3	nazwa geograficzna	
-Bartoszyce	Bartoszyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bartoszyce	Bartoszyce	subst:pl:acc:p3	nazwa geograficzna	
-Bartoszyce	Bartoszyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bartoszyce	Bartoszyce	subst:pl:nom:p3	nazwa geograficzna	
-Bartoszyce	Bartoszyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bartoszyce	Bartoszyce	subst:pl:voc:p3	nazwa geograficzna	
-Bartoszycom	Bartoszyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bartoszycom	Bartoszyce	subst:pl:dat:p3	nazwa geograficzna	
+Bartoszycach	Bartoszyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Bartoszycach	Bartoszyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bartoszycami	Bartoszyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Bartoszycami	Bartoszyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bartoszyc	Bartoszyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Bartoszyc	Bartoszyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bartoszyce	Bartoszyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Bartoszyce	Bartoszyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bartoszyce	Bartoszyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Bartoszyce	Bartoszyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bartoszyce	Bartoszyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Bartoszyce	Bartoszyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Bartoszycom	Bartoszyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Bartoszycom	Bartoszyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Bartóka	Bartók	subst:sg:acc:m1	nazwisko	
 Bartóka	Bartók	subst:sg:gen:m1	nazwisko	
 Bartókach	Bartók	subst:pl:loc:m1	nazwisko	
@@ -2231,20 +2231,20 @@ Baruchu	Baruch	subst:sg:loc:m1	imię|nazwisko
 Baruchu	Baruch	subst:sg:voc:m1	imię|nazwisko	
 Baruchy	Baruch	depr:pl:nom:m2	imię|nazwisko	
 Baruchy	Baruch	depr:pl:voc:m2	imię|nazwisko	
-Barwicach	Barwice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Barwicach	Barwice	subst:pl:loc:p3	nazwa geograficzna	
-Barwicami	Barwice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Barwicami	Barwice	subst:pl:inst:p3	nazwa geograficzna	
-Barwic	Barwice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Barwic	Barwice	subst:pl:gen:p3	nazwa geograficzna	
-Barwice	Barwice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Barwice	Barwice	subst:pl:acc:p3	nazwa geograficzna	
-Barwice	Barwice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Barwice	Barwice	subst:pl:nom:p3	nazwa geograficzna	
-Barwice	Barwice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Barwice	Barwice	subst:pl:voc:p3	nazwa geograficzna	
-Barwicom	Barwice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Barwicom	Barwice	subst:pl:dat:p3	nazwa geograficzna	
+Barwicach	Barwice	subst:pl:loc:n:pt	nazwa geograficzna	
+Barwicach	Barwice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Barwicami	Barwice	subst:pl:inst:n:pt	nazwa geograficzna	
+Barwicami	Barwice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Barwic	Barwice	subst:pl:gen:n:pt	nazwa geograficzna	
+Barwic	Barwice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Barwice	Barwice	subst:pl:acc:n:pt	nazwa geograficzna	
+Barwice	Barwice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Barwice	Barwice	subst:pl:nom:n:pt	nazwa geograficzna	
+Barwice	Barwice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Barwice	Barwice	subst:pl:voc:n:pt	nazwa geograficzna	
+Barwice	Barwice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Barwicom	Barwice	subst:pl:dat:n:pt	nazwa geograficzna	
+Barwicom	Barwice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Barysznikowa	Barysznikow	subst:sg:acc:m1	nazwisko	
 Barysznikowa	Barysznikow	subst:sg:gen:m1	nazwisko	
 Barysznikowach	Barysznikow	subst:pl:loc:m1	nazwisko	
@@ -2869,22 +2869,22 @@ Bączkowskim	Bączkowski	subst:pl:dat:m1	nazwisko
 Bączkowskim	Bączkowski	subst:sg:inst:m1	nazwisko	
 Bączkowskim	Bączkowski	subst:sg:loc:m1	nazwisko	
 Bączkowskimi	Bączkowski	subst:pl:inst:m1	nazwisko	
-Bądkowa	Bądkowo	subst:pl:acc:n2	nazwa geograficzna	
-Bądkowa	Bądkowo	subst:pl:nom:n2	nazwa geograficzna	
-Bądkowa	Bądkowo	subst:pl:voc:n2	nazwa geograficzna	
-Bądkowa	Bądkowo	subst:sg:gen:n2	nazwa geograficzna	
-Bądkowach	Bądkowo	subst:pl:loc:n2	nazwa geograficzna	
-Bądkowami	Bądkowo	subst:pl:inst:n2	nazwa geograficzna	
-Bądkow	Bądkowo	subst:pl:gen:n2	nazwa geograficzna	
-Bądkowem	Bądkowo	subst:sg:inst:n2	nazwa geograficzna	
-Bądkowie	Bądkowo	subst:sg:loc:n2	nazwa geograficzna	
-Bądkowo	Bądkowo	subst:sg:acc:n2	nazwa geograficzna	
-Bądkowo	Bądkowo	subst:sg:nom:n2	nazwa geograficzna	
-Bądkowo	Bądkowo	subst:sg:voc:n2	nazwa geograficzna	
-Bądkowom	Bądkowo	subst:pl:dat:n2	nazwa geograficzna	
-Bądkowów	Bądkowo	subst:pl:gen:n2	nazwa geograficzna	
-Bądkowu	Bądkowo	subst:sg:dat:n2	nazwa geograficzna	
-Bądków	Bądkowo	subst:pl:gen:n2	nazwa geograficzna	
+Bądkowa	Bądkowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bądkowa	Bądkowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bądkowa	Bądkowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bądkowa	Bądkowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bądkowach	Bądkowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bądkowami	Bądkowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bądkow	Bądkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bądkowem	Bądkowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bądkowie	Bądkowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bądkowo	Bądkowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bądkowo	Bądkowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bądkowo	Bądkowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Bądkowom	Bądkowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bądkowów	Bądkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bądkowu	Bądkowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bądków	Bądkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Bądzimira	Bądzimir	subst:sg:acc:m1	imię	
 Bądzimira	Bądzimir	subst:sg:gen:m1	imię	
 Bądzimirach	Bądzimir	subst:pl:loc:m1	imię	
@@ -2966,48 +2966,48 @@ Bąkowy	Bąków	subst:pl:nom:m3	nazwa geograficzna
 Bąkowy	Bąków	subst:pl:voc:m3	nazwa geograficzna	
 Bąków	Bąków	subst:sg:acc:m3	nazwa geograficzna	
 Bąków	Bąków	subst:sg:nom:m3	nazwa geograficzna	
-BBC	BBC	subst:pl:acc:n2	nazwa firmy	
-BBC	BBC	subst:pl:dat:n2	nazwa firmy	
-BBC	BBC	subst:pl:gen:n2	nazwa firmy	
-BBC	BBC	subst:pl:inst:n2	nazwa firmy	
-BBC	BBC	subst:pl:loc:n2	nazwa firmy	
-BBC	BBC	subst:pl:nom:n2	nazwa firmy	
-BBC	BBC	subst:pl:voc:n2	nazwa firmy	
-BBC	BBC	subst:sg:acc:n2	nazwa firmy	
-BBC	BBC	subst:sg:dat:n2	nazwa firmy	
-BBC	BBC	subst:sg:gen:n2	nazwa firmy	
-BBC	BBC	subst:sg:inst:n2	nazwa firmy	
-BBC	BBC	subst:sg:loc:n2	nazwa firmy	
-BBC	BBC	subst:sg:nom:n2	nazwa firmy	
-BBC	BBC	subst:sg:voc:n2	nazwa firmy	
+BBC	BBC	subst:pl:acc:n:ncol	nazwa firmy	
+BBC	BBC	subst:pl:dat:n:ncol	nazwa firmy	
+BBC	BBC	subst:pl:gen:n:ncol	nazwa firmy	
+BBC	BBC	subst:pl:inst:n:ncol	nazwa firmy	
+BBC	BBC	subst:pl:loc:n:ncol	nazwa firmy	
+BBC	BBC	subst:pl:nom:n:ncol	nazwa firmy	
+BBC	BBC	subst:pl:voc:n:ncol	nazwa firmy	
+BBC	BBC	subst:sg:acc:n:ncol	nazwa firmy	
+BBC	BBC	subst:sg:dat:n:ncol	nazwa firmy	
+BBC	BBC	subst:sg:gen:n:ncol	nazwa firmy	
+BBC	BBC	subst:sg:inst:n:ncol	nazwa firmy	
+BBC	BBC	subst:sg:loc:n:ncol	nazwa firmy	
+BBC	BBC	subst:sg:nom:n:ncol	nazwa firmy	
+BBC	BBC	subst:sg:voc:n:ncol	nazwa firmy	
 BBK	BBK	subst:pl:acc:m3	nazwa firmy	
-BBK	BBK	subst:pl:acc:n2	nazwa firmy	
+BBK	BBK	subst:pl:acc:n:ncol	nazwa firmy	
 BBK	BBK	subst:pl:dat:m3	nazwa firmy	
-BBK	BBK	subst:pl:dat:n2	nazwa firmy	
+BBK	BBK	subst:pl:dat:n:ncol	nazwa firmy	
 BBK	BBK	subst:pl:gen:m3	nazwa firmy	
-BBK	BBK	subst:pl:gen:n2	nazwa firmy	
+BBK	BBK	subst:pl:gen:n:ncol	nazwa firmy	
 BBK	BBK	subst:pl:inst:m3	nazwa firmy	
-BBK	BBK	subst:pl:inst:n2	nazwa firmy	
+BBK	BBK	subst:pl:inst:n:ncol	nazwa firmy	
 BBK	BBK	subst:pl:loc:m3	nazwa firmy	
-BBK	BBK	subst:pl:loc:n2	nazwa firmy	
+BBK	BBK	subst:pl:loc:n:ncol	nazwa firmy	
 BBK	BBK	subst:pl:nom:m3	nazwa firmy	
-BBK	BBK	subst:pl:nom:n2	nazwa firmy	
+BBK	BBK	subst:pl:nom:n:ncol	nazwa firmy	
 BBK	BBK	subst:pl:voc:m3	nazwa firmy	
-BBK	BBK	subst:pl:voc:n2	nazwa firmy	
+BBK	BBK	subst:pl:voc:n:ncol	nazwa firmy	
 BBK	BBK	subst:sg:acc:m3	nazwa firmy	
-BBK	BBK	subst:sg:acc:n2	nazwa firmy	
+BBK	BBK	subst:sg:acc:n:ncol	nazwa firmy	
 BBK	BBK	subst:sg:dat:m3	nazwa firmy	
-BBK	BBK	subst:sg:dat:n2	nazwa firmy	
+BBK	BBK	subst:sg:dat:n:ncol	nazwa firmy	
 BBK	BBK	subst:sg:gen:m3	nazwa firmy	
-BBK	BBK	subst:sg:gen:n2	nazwa firmy	
+BBK	BBK	subst:sg:gen:n:ncol	nazwa firmy	
 BBK	BBK	subst:sg:inst:m3	nazwa firmy	
-BBK	BBK	subst:sg:inst:n2	nazwa firmy	
+BBK	BBK	subst:sg:inst:n:ncol	nazwa firmy	
 BBK	BBK	subst:sg:loc:m3	nazwa firmy	
-BBK	BBK	subst:sg:loc:n2	nazwa firmy	
+BBK	BBK	subst:sg:loc:n:ncol	nazwa firmy	
 BBK	BBK	subst:sg:nom:m3	nazwa firmy	
-BBK	BBK	subst:sg:nom:n2	nazwa firmy	
+BBK	BBK	subst:sg:nom:n:ncol	nazwa firmy	
 BBK	BBK	subst:sg:voc:m3	nazwa firmy	
-BBK	BBK	subst:sg:voc:n2	nazwa firmy	
+BBK	BBK	subst:sg:voc:n:ncol	nazwa firmy	
 BBWR-ach	BBWR	subst:pl:loc:m3	nazwa organizacji	
 BBWR-ami	BBWR	subst:pl:inst:m3	nazwa organizacji	
 BBWR	BBWR	subst:sg:acc:m3	nazwa organizacji	
@@ -3037,40 +3037,40 @@ BC	BC	subst:sg:loc:m3	nazwa firmy
 BC	BC	subst:sg:nom:m3	nazwa firmy	
 BC	BC	subst:sg:voc:m3	nazwa firmy	
 BCG	BCG	subst:pl:acc:f	nazwa pospolita	
-BCG	BCG	subst:pl:acc:n2	nazwa pospolita	
+BCG	BCG	subst:pl:acc:n:ncol	nazwa pospolita	
 BCG	BCG	subst:pl:dat:f	nazwa pospolita	
-BCG	BCG	subst:pl:dat:n2	nazwa pospolita	
+BCG	BCG	subst:pl:dat:n:ncol	nazwa pospolita	
 BCG	BCG	subst:pl:gen:f	nazwa pospolita	
-BCG	BCG	subst:pl:gen:n2	nazwa pospolita	
+BCG	BCG	subst:pl:gen:n:ncol	nazwa pospolita	
 BCG	BCG	subst:pl:inst:f	nazwa pospolita	
-BCG	BCG	subst:pl:inst:n2	nazwa pospolita	
+BCG	BCG	subst:pl:inst:n:ncol	nazwa pospolita	
 BCG	BCG	subst:pl:loc:f	nazwa pospolita	
-BCG	BCG	subst:pl:loc:n2	nazwa pospolita	
+BCG	BCG	subst:pl:loc:n:ncol	nazwa pospolita	
 BCG	BCG	subst:pl:nom:f	nazwa pospolita	
-BCG	BCG	subst:pl:nom:n2	nazwa pospolita	
+BCG	BCG	subst:pl:nom:n:ncol	nazwa pospolita	
 BCG	BCG	subst:pl:voc:f	nazwa pospolita	
-BCG	BCG	subst:pl:voc:n2	nazwa pospolita	
+BCG	BCG	subst:pl:voc:n:ncol	nazwa pospolita	
 BCG	BCG	subst:sg:acc:f	nazwa pospolita	
-BCG	BCG	subst:sg:acc:n2	nazwa pospolita	
+BCG	BCG	subst:sg:acc:n:ncol	nazwa pospolita	
 BCG	BCG	subst:sg:dat:f	nazwa pospolita	
-BCG	BCG	subst:sg:dat:n2	nazwa pospolita	
+BCG	BCG	subst:sg:dat:n:ncol	nazwa pospolita	
 BCG	BCG	subst:sg:gen:f	nazwa pospolita	
-BCG	BCG	subst:sg:gen:n2	nazwa pospolita	
+BCG	BCG	subst:sg:gen:n:ncol	nazwa pospolita	
 BCG	BCG	subst:sg:inst:f	nazwa pospolita	
-BCG	BCG	subst:sg:inst:n2	nazwa pospolita	
+BCG	BCG	subst:sg:inst:n:ncol	nazwa pospolita	
 BCG	BCG	subst:sg:loc:f	nazwa pospolita	
-BCG	BCG	subst:sg:loc:n2	nazwa pospolita	
+BCG	BCG	subst:sg:loc:n:ncol	nazwa pospolita	
 BCG	BCG	subst:sg:nom:f	nazwa pospolita	
-BCG	BCG	subst:sg:nom:n2	nazwa pospolita	
+BCG	BCG	subst:sg:nom:n:ncol	nazwa pospolita	
 BCG	BCG	subst:sg:voc:f	nazwa pospolita	
-BCG	BCG	subst:sg:voc:n2	nazwa pospolita	
-BCh	BCh	subst:pl:acc:p3	nazwa organizacji	
-BCh	BCh	subst:pl:dat:p3	nazwa organizacji	
-BCh	BCh	subst:pl:gen:p3	nazwa organizacji	
-BCh	BCh	subst:pl:inst:p3	nazwa organizacji	
-BCh	BCh	subst:pl:loc:p3	nazwa organizacji	
-BCh	BCh	subst:pl:nom:p3	nazwa organizacji	
-BCh	BCh	subst:pl:voc:p3	nazwa organizacji	
+BCG	BCG	subst:sg:voc:n:ncol	nazwa pospolita	
+BCh	BCh	subst:pl:acc:n:pt	nazwa organizacji	
+BCh	BCh	subst:pl:dat:n:pt	nazwa organizacji	
+BCh	BCh	subst:pl:gen:n:pt	nazwa organizacji	
+BCh	BCh	subst:pl:inst:n:pt	nazwa organizacji	
+BCh	BCh	subst:pl:loc:n:pt	nazwa organizacji	
+BCh	BCh	subst:pl:nom:n:pt	nazwa organizacji	
+BCh	BCh	subst:pl:voc:n:pt	nazwa organizacji	
 BDK	BDK	subst:pl:acc:m3	nazwa firmy	
 BDK	BDK	subst:pl:dat:m3	nazwa firmy	
 BDK	BDK	subst:pl:gen:m3	nazwa firmy	
@@ -3823,20 +3823,20 @@ Bełchatowy	Bełchatów	subst:pl:nom:m3	nazwa geograficzna
 Bełchatowy	Bełchatów	subst:pl:voc:m3	nazwa geograficzna	
 Bełchatów	Bełchatów	subst:sg:acc:m3	nazwa geograficzna	
 Bełchatów	Bełchatów	subst:sg:nom:m3	nazwa geograficzna	
-Bełdanach	Bełdany	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bełdanach	Bełdany	subst:pl:loc:p3	nazwa geograficzna	
-Bełdanami	Bełdany	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bełdanami	Bełdany	subst:pl:inst:p3	nazwa geograficzna	
-Bełdan	Bełdany	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bełdan	Bełdany	subst:pl:gen:p3	nazwa geograficzna	
-Bełdanom	Bełdany	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bełdanom	Bełdany	subst:pl:dat:p3	nazwa geograficzna	
-Bełdany	Bełdany	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bełdany	Bełdany	subst:pl:acc:p3	nazwa geograficzna	
-Bełdany	Bełdany	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bełdany	Bełdany	subst:pl:nom:p3	nazwa geograficzna	
-Bełdany	Bełdany	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bełdany	Bełdany	subst:pl:voc:p3	nazwa geograficzna	
+Bełdanach	Bełdany	subst:pl:loc:n:pt	nazwa geograficzna	
+Bełdanach	Bełdany	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bełdanami	Bełdany	subst:pl:inst:n:pt	nazwa geograficzna	
+Bełdanami	Bełdany	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bełdan	Bełdany	subst:pl:gen:n:pt	nazwa geograficzna	
+Bełdan	Bełdany	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bełdanom	Bełdany	subst:pl:dat:n:pt	nazwa geograficzna	
+Bełdanom	Bełdany	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Bełdany	Bełdany	subst:pl:acc:n:pt	nazwa geograficzna	
+Bełdany	Bełdany	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bełdany	Bełdany	subst:pl:nom:n:pt	nazwa geograficzna	
+Bełdany	Bełdany	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bełdany	Bełdany	subst:pl:voc:n:pt	nazwa geograficzna	
+Bełdany	Bełdany	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Bełżca	Bełżec	subst:sg:gen:m3	nazwa geograficzna	
 Bełżcach	Bełżec	subst:pl:loc:m3	nazwa geograficzna	
 Bełżcami	Bełżec	subst:pl:inst:m3	nazwa geograficzna	
@@ -3851,20 +3851,20 @@ Bełżcu	Bełżec	subst:sg:loc:m3	nazwa geograficzna
 Bełżcu	Bełżec	subst:sg:voc:m3	nazwa geograficzna	
 Bełżec	Bełżec	subst:sg:acc:m3	nazwa geograficzna	
 Bełżec	Bełżec	subst:sg:nom:m3	nazwa geograficzna	
-Bełżycach	Bełżyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bełżycach	Bełżyce	subst:pl:loc:p3	nazwa geograficzna	
-Bełżycami	Bełżyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bełżycami	Bełżyce	subst:pl:inst:p3	nazwa geograficzna	
-Bełżyc	Bełżyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bełżyc	Bełżyce	subst:pl:gen:p3	nazwa geograficzna	
-Bełżyce	Bełżyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bełżyce	Bełżyce	subst:pl:acc:p3	nazwa geograficzna	
-Bełżyce	Bełżyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bełżyce	Bełżyce	subst:pl:nom:p3	nazwa geograficzna	
-Bełżyce	Bełżyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bełżyce	Bełżyce	subst:pl:voc:p3	nazwa geograficzna	
-Bełżycom	Bełżyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bełżycom	Bełżyce	subst:pl:dat:p3	nazwa geograficzna	
+Bełżycach	Bełżyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Bełżycach	Bełżyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bełżycami	Bełżyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Bełżycami	Bełżyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bełżyc	Bełżyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Bełżyc	Bełżyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bełżyce	Bełżyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Bełżyce	Bełżyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bełżyce	Bełżyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Bełżyce	Bełżyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bełżyce	Bełżyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Bełżyce	Bełżyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Bełżycom	Bełżyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Bełżycom	Bełżyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Bema	Bem	subst:sg:acc:m1	nazwisko	
 Bema	Bem	subst:sg:gen:m1	nazwisko	
 Bemach	Bem	subst:pl:loc:m1	nazwisko	
@@ -4437,20 +4437,20 @@ Berentów	Berent	subst:pl:acc:m1	nazwisko
 Berentów	Berent	subst:pl:gen:m1	nazwisko	
 Berenty	Berent	depr:pl:nom:m2	nazwisko	
 Berenty	Berent	depr:pl:voc:m2	nazwisko	
-Beresteczek	Beresteczko	subst:pl:gen:n2	nazwa geograficzna	
-Beresteczka	Beresteczko	subst:pl:acc:n2	nazwa geograficzna	
-Beresteczka	Beresteczko	subst:pl:nom:n2	nazwa geograficzna	
-Beresteczka	Beresteczko	subst:pl:voc:n2	nazwa geograficzna	
-Beresteczka	Beresteczko	subst:sg:gen:n2	nazwa geograficzna	
-Beresteczkach	Beresteczko	subst:pl:loc:n2	nazwa geograficzna	
-Beresteczkami	Beresteczko	subst:pl:inst:n2	nazwa geograficzna	
-Beresteczkiem	Beresteczko	subst:sg:inst:n2	nazwa geograficzna	
-Beresteczko	Beresteczko	subst:sg:acc:n2	nazwa geograficzna	
-Beresteczko	Beresteczko	subst:sg:nom:n2	nazwa geograficzna	
-Beresteczko	Beresteczko	subst:sg:voc:n2	nazwa geograficzna	
-Beresteczkom	Beresteczko	subst:pl:dat:n2	nazwa geograficzna	
-Beresteczku	Beresteczko	subst:sg:dat:n2	nazwa geograficzna	
-Beresteczku	Beresteczko	subst:sg:loc:n2	nazwa geograficzna	
+Beresteczek	Beresteczko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Beresteczka	Beresteczko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Beresteczka	Beresteczko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Beresteczka	Beresteczko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Beresteczka	Beresteczko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Beresteczkach	Beresteczko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Beresteczkami	Beresteczko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Beresteczkiem	Beresteczko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Beresteczko	Beresteczko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Beresteczko	Beresteczko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Beresteczko	Beresteczko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Beresteczkom	Beresteczko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Beresteczku	Beresteczko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Beresteczku	Beresteczko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Beresia	Bereś	subst:sg:acc:m1	nazwisko	
 Beresia	Bereś	subst:sg:gen:m1	nazwisko	
 Beresiach	Bereś	subst:pl:loc:m1	nazwisko	
@@ -4593,20 +4593,20 @@ Beringów	Bering	subst:pl:acc:m1	nazwisko
 Beringów	Bering	subst:pl:gen:m1	nazwisko	
 Beringu	Bering	subst:sg:loc:m1	nazwisko	
 Beringu	Bering	subst:sg:voc:m1	nazwisko	
-Berkeley	Berkeley:s1	subst:pl:acc:n2	nazwa geograficzna	
-Berkeley	Berkeley:s1	subst:pl:dat:n2	nazwa geograficzna	
-Berkeley	Berkeley:s1	subst:pl:gen:n2	nazwa geograficzna	
-Berkeley	Berkeley:s1	subst:pl:inst:n2	nazwa geograficzna	
-Berkeley	Berkeley:s1	subst:pl:loc:n2	nazwa geograficzna	
-Berkeley	Berkeley:s1	subst:pl:nom:n2	nazwa geograficzna	
-Berkeley	Berkeley:s1	subst:pl:voc:n2	nazwa geograficzna	
-Berkeley	Berkeley:s1	subst:sg:acc:n2	nazwa geograficzna	
-Berkeley	Berkeley:s1	subst:sg:dat:n2	nazwa geograficzna	
-Berkeley	Berkeley:s1	subst:sg:gen:n2	nazwa geograficzna	
-Berkeley	Berkeley:s1	subst:sg:inst:n2	nazwa geograficzna	
-Berkeley	Berkeley:s1	subst:sg:loc:n2	nazwa geograficzna	
-Berkeley	Berkeley:s1	subst:sg:nom:n2	nazwa geograficzna	
-Berkeley	Berkeley:s1	subst:sg:voc:n2	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:pl:acc:n:ncol	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:pl:nom:n:ncol	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:pl:voc:n:ncol	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:sg:acc:n:ncol	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:sg:nom:n:ncol	nazwa geograficzna	
+Berkeley	Berkeley:s1	subst:sg:voc:n:ncol	nazwa geograficzna	
 Berkeleya	Berkeley:s2	subst:sg:acc:m1	nazwisko	
 Berkeleya	Berkeley:s2	subst:sg:gen:m1	nazwisko	
 Berkeleyach	Berkeley:s2	subst:pl:loc:m1	nazwisko	
@@ -4689,20 +4689,20 @@ Bermanów	Berman	subst:pl:acc:m1	imię
 Bermanów	Berman	subst:pl:gen:m1	imię	
 Bermany	Berman	depr:pl:nom:m2	imię	
 Bermany	Berman	depr:pl:voc:m2	imię	
-Bermudach	Bermudy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bermudach	Bermudy	subst:pl:loc:p3	nazwa geograficzna	
-Bermudami	Bermudy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bermudami	Bermudy	subst:pl:inst:p3	nazwa geograficzna	
-Bermudom	Bermudy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bermudom	Bermudy	subst:pl:dat:p3	nazwa geograficzna	
-Bermudów	Bermudy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bermudów	Bermudy	subst:pl:gen:p3	nazwa geograficzna	
-Bermudy	Bermudy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bermudy	Bermudy	subst:pl:acc:p3	nazwa geograficzna	
-Bermudy	Bermudy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bermudy	Bermudy	subst:pl:nom:p3	nazwa geograficzna	
-Bermudy	Bermudy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bermudy	Bermudy	subst:pl:voc:p3	nazwa geograficzna	
+Bermudach	Bermudy	subst:pl:loc:n:pt	nazwa geograficzna	
+Bermudach	Bermudy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bermudami	Bermudy	subst:pl:inst:n:pt	nazwa geograficzna	
+Bermudami	Bermudy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bermudom	Bermudy	subst:pl:dat:n:pt	nazwa geograficzna	
+Bermudom	Bermudy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Bermudów	Bermudy	subst:pl:gen:n:pt	nazwa geograficzna	
+Bermudów	Bermudy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bermudy	Bermudy	subst:pl:acc:n:pt	nazwa geograficzna	
+Bermudy	Bermudy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bermudy	Bermudy	subst:pl:nom:n:pt	nazwa geograficzna	
+Bermudy	Bermudy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bermudy	Bermudy	subst:pl:voc:n:pt	nazwa geograficzna	
+Bermudy	Bermudy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Bernadecie	Bernadeta	subst:sg:dat:f	imię	
 Bernadecie	Bernadeta	subst:sg:loc:f	imię	
 Bernadeta	Bernadeta	subst:sg:nom:f	imię	
@@ -4827,20 +4827,20 @@ Berninim	Bernini	subst:sg:loc:m1	nazwisko
 Berninimi	Bernini	subst:pl:inst:m1	nazwisko	
 Berniniowie	Bernini	subst:pl:nom:m1	nazwisko	
 Berniniowie	Bernini	subst:pl:voc:m1	nazwisko	
-Berna	Berno	subst:pl:acc:n2	nazwa geograficzna	
-Berna	Berno	subst:pl:nom:n2	nazwa geograficzna	
-Berna	Berno	subst:pl:voc:n2	nazwa geograficzna	
-Berna	Berno	subst:sg:gen:n2	nazwa geograficzna	
-Bernach	Berno	subst:pl:loc:n2	nazwa geograficzna	
-Bernami	Berno	subst:pl:inst:n2	nazwa geograficzna	
-Bern	Berno	subst:pl:gen:n2	nazwa geograficzna	
-Bernem	Berno	subst:sg:inst:n2	nazwa geograficzna	
-Bernie	Berno	subst:sg:loc:n2	nazwa geograficzna	
-Berno	Berno	subst:sg:acc:n2	nazwa geograficzna	
-Berno	Berno	subst:sg:nom:n2	nazwa geograficzna	
-Berno	Berno	subst:sg:voc:n2	nazwa geograficzna	
-Bernom	Berno	subst:pl:dat:n2	nazwa geograficzna	
-Bernu	Berno	subst:sg:dat:n2	nazwa geograficzna	
+Berna	Berno	subst:pl:acc:n:ncol	nazwa geograficzna	
+Berna	Berno	subst:pl:nom:n:ncol	nazwa geograficzna	
+Berna	Berno	subst:pl:voc:n:ncol	nazwa geograficzna	
+Berna	Berno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bernach	Berno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bernami	Berno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bern	Berno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bernem	Berno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bernie	Berno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Berno	Berno	subst:sg:acc:n:ncol	nazwa geograficzna	
+Berno	Berno	subst:sg:nom:n:ncol	nazwa geograficzna	
+Berno	Berno	subst:sg:voc:n:ncol	nazwa geograficzna	
+Bernom	Berno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bernu	Berno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Bernoulle	Bernoulli	depr:pl:nom:m2	nazwisko	
 Bernoulle	Bernoulli	depr:pl:voc:m2	nazwisko	
 Bernoullego	Bernoulli	subst:sg:acc:m1	nazwisko	
@@ -5019,20 +5019,20 @@ Betiny	Betina	subst:pl:acc:f	nazwisko
 Betiny	Betina	subst:pl:nom:f	nazwisko	
 Betiny	Betina	subst:pl:voc:f	nazwisko	
 Betiny	Betina	subst:sg:gen:f	nazwisko	
-Betlejem	Betlejem	subst:pl:acc:n2	nazwa geograficzna	
-Betlejem	Betlejem	subst:pl:dat:n2	nazwa geograficzna	
-Betlejem	Betlejem	subst:pl:gen:n2	nazwa geograficzna	
-Betlejem	Betlejem	subst:pl:inst:n2	nazwa geograficzna	
-Betlejem	Betlejem	subst:pl:loc:n2	nazwa geograficzna	
-Betlejem	Betlejem	subst:pl:nom:n2	nazwa geograficzna	
-Betlejem	Betlejem	subst:pl:voc:n2	nazwa geograficzna	
-Betlejem	Betlejem	subst:sg:acc:n2	nazwa geograficzna	
-Betlejem	Betlejem	subst:sg:dat:n2	nazwa geograficzna	
-Betlejem	Betlejem	subst:sg:gen:n2	nazwa geograficzna	
-Betlejem	Betlejem	subst:sg:inst:n2	nazwa geograficzna	
-Betlejem	Betlejem	subst:sg:loc:n2	nazwa geograficzna	
-Betlejem	Betlejem	subst:sg:nom:n2	nazwa geograficzna	
-Betlejem	Betlejem	subst:sg:voc:n2	nazwa geograficzna	
+Betlejem	Betlejem	subst:pl:acc:n:ncol	nazwa geograficzna	
+Betlejem	Betlejem	subst:pl:dat:n:ncol	nazwa geograficzna	
+Betlejem	Betlejem	subst:pl:gen:n:ncol	nazwa geograficzna	
+Betlejem	Betlejem	subst:pl:inst:n:ncol	nazwa geograficzna	
+Betlejem	Betlejem	subst:pl:loc:n:ncol	nazwa geograficzna	
+Betlejem	Betlejem	subst:pl:nom:n:ncol	nazwa geograficzna	
+Betlejem	Betlejem	subst:pl:voc:n:ncol	nazwa geograficzna	
+Betlejem	Betlejem	subst:sg:acc:n:ncol	nazwa geograficzna	
+Betlejem	Betlejem	subst:sg:dat:n:ncol	nazwa geograficzna	
+Betlejem	Betlejem	subst:sg:gen:n:ncol	nazwa geograficzna	
+Betlejem	Betlejem	subst:sg:inst:n:ncol	nazwa geograficzna	
+Betlejem	Betlejem	subst:sg:loc:n:ncol	nazwa geograficzna	
+Betlejem	Betlejem	subst:sg:nom:n:ncol	nazwa geograficzna	
+Betlejem	Betlejem	subst:sg:voc:n:ncol	nazwa geograficzna	
 Betsaida	Betsaida	subst:sg:nom:f	nazwa geograficzna	
 Betsaidach	Betsaida	subst:pl:loc:f	nazwa geograficzna	
 Betsaidami	Betsaida	subst:pl:inst:f	nazwa geograficzna	
@@ -5093,103 +5093,103 @@ Będziny	Będzin	subst:pl:acc:m3	nazwa geograficzna
 Będziny	Będzin	subst:pl:nom:m3	nazwa geograficzna	
 Będziny	Będzin	subst:pl:voc:m3	nazwa geograficzna	
 BFG	BFG	subst:pl:acc:m3	nazwa instytucji	
-BFG	BFG	subst:pl:acc:n2	nazwa instytucji	
+BFG	BFG	subst:pl:acc:n:ncol	nazwa instytucji	
 BFG	BFG	subst:pl:dat:m3	nazwa instytucji	
-BFG	BFG	subst:pl:dat:n2	nazwa instytucji	
+BFG	BFG	subst:pl:dat:n:ncol	nazwa instytucji	
 BFG	BFG	subst:pl:gen:m3	nazwa instytucji	
-BFG	BFG	subst:pl:gen:n2	nazwa instytucji	
+BFG	BFG	subst:pl:gen:n:ncol	nazwa instytucji	
 BFG	BFG	subst:pl:inst:m3	nazwa instytucji	
-BFG	BFG	subst:pl:inst:n2	nazwa instytucji	
+BFG	BFG	subst:pl:inst:n:ncol	nazwa instytucji	
 BFG	BFG	subst:pl:loc:m3	nazwa instytucji	
-BFG	BFG	subst:pl:loc:n2	nazwa instytucji	
+BFG	BFG	subst:pl:loc:n:ncol	nazwa instytucji	
 BFG	BFG	subst:pl:nom:m3	nazwa instytucji	
-BFG	BFG	subst:pl:nom:n2	nazwa instytucji	
+BFG	BFG	subst:pl:nom:n:ncol	nazwa instytucji	
 BFG	BFG	subst:pl:voc:m3	nazwa instytucji	
-BFG	BFG	subst:pl:voc:n2	nazwa instytucji	
+BFG	BFG	subst:pl:voc:n:ncol	nazwa instytucji	
 BFG	BFG	subst:sg:acc:m3	nazwa instytucji	
-BFG	BFG	subst:sg:acc:n2	nazwa instytucji	
+BFG	BFG	subst:sg:acc:n:ncol	nazwa instytucji	
 BFG	BFG	subst:sg:dat:m3	nazwa instytucji	
-BFG	BFG	subst:sg:dat:n2	nazwa instytucji	
+BFG	BFG	subst:sg:dat:n:ncol	nazwa instytucji	
 BFG	BFG	subst:sg:gen:m3	nazwa instytucji	
-BFG	BFG	subst:sg:gen:n2	nazwa instytucji	
+BFG	BFG	subst:sg:gen:n:ncol	nazwa instytucji	
 BFG	BFG	subst:sg:inst:m3	nazwa instytucji	
-BFG	BFG	subst:sg:inst:n2	nazwa instytucji	
+BFG	BFG	subst:sg:inst:n:ncol	nazwa instytucji	
 BFG	BFG	subst:sg:loc:m3	nazwa instytucji	
-BFG	BFG	subst:sg:loc:n2	nazwa instytucji	
+BFG	BFG	subst:sg:loc:n:ncol	nazwa instytucji	
 BFG	BFG	subst:sg:nom:m3	nazwa instytucji	
-BFG	BFG	subst:sg:nom:n2	nazwa instytucji	
+BFG	BFG	subst:sg:nom:n:ncol	nazwa instytucji	
 BFG	BFG	subst:sg:voc:m3	nazwa instytucji	
-BFG	BFG	subst:sg:voc:n2	nazwa instytucji	
+BFG	BFG	subst:sg:voc:n:ncol	nazwa instytucji	
 BG	BG	subst:pl:acc:m3	nazwa firmy	
-BG	BG	subst:pl:acc:n2	nazwa firmy	
+BG	BG	subst:pl:acc:n:ncol	nazwa firmy	
 BG	BG	subst:pl:dat:m3	nazwa firmy	
-BG	BG	subst:pl:dat:n2	nazwa firmy	
+BG	BG	subst:pl:dat:n:ncol	nazwa firmy	
 BG	BG	subst:pl:gen:m3	nazwa firmy	
-BG	BG	subst:pl:gen:n2	nazwa firmy	
+BG	BG	subst:pl:gen:n:ncol	nazwa firmy	
 BG	BG	subst:pl:inst:m3	nazwa firmy	
-BG	BG	subst:pl:inst:n2	nazwa firmy	
+BG	BG	subst:pl:inst:n:ncol	nazwa firmy	
 BG	BG	subst:pl:loc:m3	nazwa firmy	
-BG	BG	subst:pl:loc:n2	nazwa firmy	
+BG	BG	subst:pl:loc:n:ncol	nazwa firmy	
 BG	BG	subst:pl:nom:m3	nazwa firmy	
-BG	BG	subst:pl:nom:n2	nazwa firmy	
+BG	BG	subst:pl:nom:n:ncol	nazwa firmy	
 BG	BG	subst:pl:voc:m3	nazwa firmy	
-BG	BG	subst:pl:voc:n2	nazwa firmy	
+BG	BG	subst:pl:voc:n:ncol	nazwa firmy	
 BG	BG	subst:sg:acc:m3	nazwa firmy	
-BG	BG	subst:sg:acc:n2	nazwa firmy	
+BG	BG	subst:sg:acc:n:ncol	nazwa firmy	
 BG	BG	subst:sg:dat:m3	nazwa firmy	
-BG	BG	subst:sg:dat:n2	nazwa firmy	
+BG	BG	subst:sg:dat:n:ncol	nazwa firmy	
 BG	BG	subst:sg:gen:m3	nazwa firmy	
-BG	BG	subst:sg:gen:n2	nazwa firmy	
+BG	BG	subst:sg:gen:n:ncol	nazwa firmy	
 BG	BG	subst:sg:inst:m3	nazwa firmy	
-BG	BG	subst:sg:inst:n2	nazwa firmy	
+BG	BG	subst:sg:inst:n:ncol	nazwa firmy	
 BG	BG	subst:sg:loc:m3	nazwa firmy	
-BG	BG	subst:sg:loc:n2	nazwa firmy	
+BG	BG	subst:sg:loc:n:ncol	nazwa firmy	
 BG	BG	subst:sg:nom:m3	nazwa firmy	
-BG	BG	subst:sg:nom:n2	nazwa firmy	
+BG	BG	subst:sg:nom:n:ncol	nazwa firmy	
 BG	BG	subst:sg:voc:m3	nazwa firmy	
-BG	BG	subst:sg:voc:n2	nazwa firmy	
+BG	BG	subst:sg:voc:n:ncol	nazwa firmy	
 BGK	BGK	subst:pl:acc:m3	nazwa firmy	
-BGK	BGK	subst:pl:acc:n2	nazwa firmy	
+BGK	BGK	subst:pl:acc:n:ncol	nazwa firmy	
 BGK	BGK	subst:pl:dat:m3	nazwa firmy	
-BGK	BGK	subst:pl:dat:n2	nazwa firmy	
+BGK	BGK	subst:pl:dat:n:ncol	nazwa firmy	
 BGK	BGK	subst:pl:gen:m3	nazwa firmy	
-BGK	BGK	subst:pl:gen:n2	nazwa firmy	
+BGK	BGK	subst:pl:gen:n:ncol	nazwa firmy	
 BGK	BGK	subst:pl:inst:m3	nazwa firmy	
-BGK	BGK	subst:pl:inst:n2	nazwa firmy	
+BGK	BGK	subst:pl:inst:n:ncol	nazwa firmy	
 BGK	BGK	subst:pl:loc:m3	nazwa firmy	
-BGK	BGK	subst:pl:loc:n2	nazwa firmy	
+BGK	BGK	subst:pl:loc:n:ncol	nazwa firmy	
 BGK	BGK	subst:pl:nom:m3	nazwa firmy	
-BGK	BGK	subst:pl:nom:n2	nazwa firmy	
+BGK	BGK	subst:pl:nom:n:ncol	nazwa firmy	
 BGK	BGK	subst:pl:voc:m3	nazwa firmy	
-BGK	BGK	subst:pl:voc:n2	nazwa firmy	
+BGK	BGK	subst:pl:voc:n:ncol	nazwa firmy	
 BGK	BGK	subst:sg:acc:m3	nazwa firmy	
-BGK	BGK	subst:sg:acc:n2	nazwa firmy	
+BGK	BGK	subst:sg:acc:n:ncol	nazwa firmy	
 BGK	BGK	subst:sg:dat:m3	nazwa firmy	
-BGK	BGK	subst:sg:dat:n2	nazwa firmy	
+BGK	BGK	subst:sg:dat:n:ncol	nazwa firmy	
 BGK	BGK	subst:sg:gen:m3	nazwa firmy	
-BGK	BGK	subst:sg:gen:n2	nazwa firmy	
+BGK	BGK	subst:sg:gen:n:ncol	nazwa firmy	
 BGK	BGK	subst:sg:inst:m3	nazwa firmy	
-BGK	BGK	subst:sg:inst:n2	nazwa firmy	
+BGK	BGK	subst:sg:inst:n:ncol	nazwa firmy	
 BGK	BGK	subst:sg:loc:m3	nazwa firmy	
-BGK	BGK	subst:sg:loc:n2	nazwa firmy	
+BGK	BGK	subst:sg:loc:n:ncol	nazwa firmy	
 BGK	BGK	subst:sg:nom:m3	nazwa firmy	
-BGK	BGK	subst:sg:nom:n2	nazwa firmy	
+BGK	BGK	subst:sg:nom:n:ncol	nazwa firmy	
 BGK	BGK	subst:sg:voc:m3	nazwa firmy	
-BGK	BGK	subst:sg:voc:n2	nazwa firmy	
-BGW	BGW	subst:pl:acc:n2	nazwa instytucji	
-BGW	BGW	subst:pl:dat:n2	nazwa instytucji	
-BGW	BGW	subst:pl:gen:n2	nazwa instytucji	
-BGW	BGW	subst:pl:inst:n2	nazwa instytucji	
-BGW	BGW	subst:pl:loc:n2	nazwa instytucji	
-BGW	BGW	subst:pl:nom:n2	nazwa instytucji	
-BGW	BGW	subst:pl:voc:n2	nazwa instytucji	
-BGW	BGW	subst:sg:acc:n2	nazwa instytucji	
-BGW	BGW	subst:sg:dat:n2	nazwa instytucji	
-BGW	BGW	subst:sg:gen:n2	nazwa instytucji	
-BGW	BGW	subst:sg:inst:n2	nazwa instytucji	
-BGW	BGW	subst:sg:loc:n2	nazwa instytucji	
-BGW	BGW	subst:sg:nom:n2	nazwa instytucji	
-BGW	BGW	subst:sg:voc:n2	nazwa instytucji	
+BGK	BGK	subst:sg:voc:n:ncol	nazwa firmy	
+BGW	BGW	subst:pl:acc:n:ncol	nazwa instytucji	
+BGW	BGW	subst:pl:dat:n:ncol	nazwa instytucji	
+BGW	BGW	subst:pl:gen:n:ncol	nazwa instytucji	
+BGW	BGW	subst:pl:inst:n:ncol	nazwa instytucji	
+BGW	BGW	subst:pl:loc:n:ncol	nazwa instytucji	
+BGW	BGW	subst:pl:nom:n:ncol	nazwa instytucji	
+BGW	BGW	subst:pl:voc:n:ncol	nazwa instytucji	
+BGW	BGW	subst:sg:acc:n:ncol	nazwa instytucji	
+BGW	BGW	subst:sg:dat:n:ncol	nazwa instytucji	
+BGW	BGW	subst:sg:gen:n:ncol	nazwa instytucji	
+BGW	BGW	subst:sg:inst:n:ncol	nazwa instytucji	
+BGW	BGW	subst:sg:loc:n:ncol	nazwa instytucji	
+BGW	BGW	subst:sg:nom:n:ncol	nazwa instytucji	
+BGW	BGW	subst:sg:voc:n:ncol	nazwa instytucji	
 BGŻ-ach	BGŻ	subst:pl:loc:m3	nazwa firmy	
 BGŻ-ami	BGŻ	subst:pl:inst:m3	nazwa firmy	
 BGŻ	BGŻ	subst:sg:acc:m3	nazwa firmy	
@@ -5215,89 +5215,89 @@ BGŻ-y	BGŻ	subst:pl:acc:m3	nazwa firmy
 BGŻ-y	BGŻ	subst:pl:nom:m3	nazwa firmy	
 BGŻ-y	BGŻ	subst:pl:voc:m3	nazwa firmy	
 BH	BH	subst:pl:acc:m3	nazwa firmy	
-BH	BH	subst:pl:acc:n2	nazwa firmy	
+BH	BH	subst:pl:acc:n:ncol	nazwa firmy	
 BH	BH	subst:pl:dat:m3	nazwa firmy	
-BH	BH	subst:pl:dat:n2	nazwa firmy	
+BH	BH	subst:pl:dat:n:ncol	nazwa firmy	
 BH	BH	subst:pl:gen:m3	nazwa firmy	
-BH	BH	subst:pl:gen:n2	nazwa firmy	
+BH	BH	subst:pl:gen:n:ncol	nazwa firmy	
 BH	BH	subst:pl:inst:m3	nazwa firmy	
-BH	BH	subst:pl:inst:n2	nazwa firmy	
+BH	BH	subst:pl:inst:n:ncol	nazwa firmy	
 BH	BH	subst:pl:loc:m3	nazwa firmy	
-BH	BH	subst:pl:loc:n2	nazwa firmy	
+BH	BH	subst:pl:loc:n:ncol	nazwa firmy	
 BH	BH	subst:pl:nom:m3	nazwa firmy	
-BH	BH	subst:pl:nom:n2	nazwa firmy	
+BH	BH	subst:pl:nom:n:ncol	nazwa firmy	
 BH	BH	subst:pl:voc:m3	nazwa firmy	
-BH	BH	subst:pl:voc:n2	nazwa firmy	
+BH	BH	subst:pl:voc:n:ncol	nazwa firmy	
 BH	BH	subst:sg:acc:m3	nazwa firmy	
-BH	BH	subst:sg:acc:n2	nazwa firmy	
+BH	BH	subst:sg:acc:n:ncol	nazwa firmy	
 BH	BH	subst:sg:dat:m3	nazwa firmy	
-BH	BH	subst:sg:dat:n2	nazwa firmy	
+BH	BH	subst:sg:dat:n:ncol	nazwa firmy	
 BH	BH	subst:sg:gen:m3	nazwa firmy	
-BH	BH	subst:sg:gen:n2	nazwa firmy	
+BH	BH	subst:sg:gen:n:ncol	nazwa firmy	
 BH	BH	subst:sg:inst:m3	nazwa firmy	
-BH	BH	subst:sg:inst:n2	nazwa firmy	
+BH	BH	subst:sg:inst:n:ncol	nazwa firmy	
 BH	BH	subst:sg:loc:m3	nazwa firmy	
-BH	BH	subst:sg:loc:n2	nazwa firmy	
+BH	BH	subst:sg:loc:n:ncol	nazwa firmy	
 BH	BH	subst:sg:nom:m3	nazwa firmy	
-BH	BH	subst:sg:nom:n2	nazwa firmy	
+BH	BH	subst:sg:nom:n:ncol	nazwa firmy	
 BH	BH	subst:sg:voc:m3	nazwa firmy	
-BH	BH	subst:sg:voc:n2	nazwa firmy	
+BH	BH	subst:sg:voc:n:ncol	nazwa firmy	
 BHK	BHK	subst:pl:acc:m3	nazwa firmy	
-BHK	BHK	subst:pl:acc:n2	nazwa firmy	
+BHK	BHK	subst:pl:acc:n:ncol	nazwa firmy	
 BHK	BHK	subst:pl:dat:m3	nazwa firmy	
-BHK	BHK	subst:pl:dat:n2	nazwa firmy	
+BHK	BHK	subst:pl:dat:n:ncol	nazwa firmy	
 BHK	BHK	subst:pl:gen:m3	nazwa firmy	
-BHK	BHK	subst:pl:gen:n2	nazwa firmy	
+BHK	BHK	subst:pl:gen:n:ncol	nazwa firmy	
 BHK	BHK	subst:pl:inst:m3	nazwa firmy	
-BHK	BHK	subst:pl:inst:n2	nazwa firmy	
+BHK	BHK	subst:pl:inst:n:ncol	nazwa firmy	
 BHK	BHK	subst:pl:loc:m3	nazwa firmy	
-BHK	BHK	subst:pl:loc:n2	nazwa firmy	
+BHK	BHK	subst:pl:loc:n:ncol	nazwa firmy	
 BHK	BHK	subst:pl:nom:m3	nazwa firmy	
-BHK	BHK	subst:pl:nom:n2	nazwa firmy	
+BHK	BHK	subst:pl:nom:n:ncol	nazwa firmy	
 BHK	BHK	subst:pl:voc:m3	nazwa firmy	
-BHK	BHK	subst:pl:voc:n2	nazwa firmy	
+BHK	BHK	subst:pl:voc:n:ncol	nazwa firmy	
 BHK	BHK	subst:sg:acc:m3	nazwa firmy	
-BHK	BHK	subst:sg:acc:n2	nazwa firmy	
+BHK	BHK	subst:sg:acc:n:ncol	nazwa firmy	
 BHK	BHK	subst:sg:dat:m3	nazwa firmy	
-BHK	BHK	subst:sg:dat:n2	nazwa firmy	
+BHK	BHK	subst:sg:dat:n:ncol	nazwa firmy	
 BHK	BHK	subst:sg:gen:m3	nazwa firmy	
-BHK	BHK	subst:sg:gen:n2	nazwa firmy	
+BHK	BHK	subst:sg:gen:n:ncol	nazwa firmy	
 BHK	BHK	subst:sg:inst:m3	nazwa firmy	
-BHK	BHK	subst:sg:inst:n2	nazwa firmy	
+BHK	BHK	subst:sg:inst:n:ncol	nazwa firmy	
 BHK	BHK	subst:sg:loc:m3	nazwa firmy	
-BHK	BHK	subst:sg:loc:n2	nazwa firmy	
+BHK	BHK	subst:sg:loc:n:ncol	nazwa firmy	
 BHK	BHK	subst:sg:nom:m3	nazwa firmy	
-BHK	BHK	subst:sg:nom:n2	nazwa firmy	
+BHK	BHK	subst:sg:nom:n:ncol	nazwa firmy	
 BHK	BHK	subst:sg:voc:m3	nazwa firmy	
-BHK	BHK	subst:sg:voc:n2	nazwa firmy	
-BHP	BHP	subst:pl:acc:n2	nazwa pospolita	
-BHP	BHP	subst:pl:dat:n2	nazwa pospolita	
-BHP	BHP	subst:pl:gen:n2	nazwa pospolita	
-BHP	BHP	subst:pl:inst:n2	nazwa pospolita	
-BHP	BHP	subst:pl:loc:n2	nazwa pospolita	
-BHP	BHP	subst:pl:nom:n2	nazwa pospolita	
-BHP	BHP	subst:pl:voc:n2	nazwa pospolita	
-BHP	BHP	subst:sg:acc:n2	nazwa pospolita	
-BHP	BHP	subst:sg:dat:n2	nazwa pospolita	
-BHP	BHP	subst:sg:gen:n2	nazwa pospolita	
-BHP	BHP	subst:sg:inst:n2	nazwa pospolita	
-BHP	BHP	subst:sg:loc:n2	nazwa pospolita	
-BHP	BHP	subst:sg:nom:n2	nazwa pospolita	
-BHP	BHP	subst:sg:voc:n2	nazwa pospolita	
-Bialskich	Bialskie	subst:pl:gen:n2	nazwa geograficzna	
-Bialskich	Bialskie	subst:pl:loc:n2	nazwa geograficzna	
-Bialskie	Bialskie	subst:pl:acc:n2	nazwa geograficzna	
-Bialskie	Bialskie	subst:pl:nom:n2	nazwa geograficzna	
-Bialskie	Bialskie	subst:pl:voc:n2	nazwa geograficzna	
-Bialskie	Bialskie	subst:sg:acc:n2	nazwa geograficzna	
-Bialskie	Bialskie	subst:sg:nom:n2	nazwa geograficzna	
-Bialskie	Bialskie	subst:sg:voc:n2	nazwa geograficzna	
-Bialskiego	Bialskie	subst:sg:gen:n2	nazwa geograficzna	
-Bialskiem	Bialskie	subst:sg:inst:n2	nazwa geograficzna	
-Bialskiem	Bialskie	subst:sg:loc:n2	nazwa geograficzna	
-Bialskiemu	Bialskie	subst:sg:dat:n2	nazwa geograficzna	
-Bialskim	Bialskie	subst:pl:dat:n2	nazwa geograficzna	
-Bialskimi	Bialskie	subst:pl:inst:n2	nazwa geograficzna	
+BHK	BHK	subst:sg:voc:n:ncol	nazwa firmy	
+BHP	BHP	subst:pl:acc:n:ncol	nazwa pospolita	
+BHP	BHP	subst:pl:dat:n:ncol	nazwa pospolita	
+BHP	BHP	subst:pl:gen:n:ncol	nazwa pospolita	
+BHP	BHP	subst:pl:inst:n:ncol	nazwa pospolita	
+BHP	BHP	subst:pl:loc:n:ncol	nazwa pospolita	
+BHP	BHP	subst:pl:nom:n:ncol	nazwa pospolita	
+BHP	BHP	subst:pl:voc:n:ncol	nazwa pospolita	
+BHP	BHP	subst:sg:acc:n:ncol	nazwa pospolita	
+BHP	BHP	subst:sg:dat:n:ncol	nazwa pospolita	
+BHP	BHP	subst:sg:gen:n:ncol	nazwa pospolita	
+BHP	BHP	subst:sg:inst:n:ncol	nazwa pospolita	
+BHP	BHP	subst:sg:loc:n:ncol	nazwa pospolita	
+BHP	BHP	subst:sg:nom:n:ncol	nazwa pospolita	
+BHP	BHP	subst:sg:voc:n:ncol	nazwa pospolita	
+Bialskich	Bialskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bialskich	Bialskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bialskie	Bialskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bialskie	Bialskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bialskie	Bialskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bialskie	Bialskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bialskie	Bialskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bialskie	Bialskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Bialskiego	Bialskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bialskiem	Bialskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bialskiem	Bialskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bialskiemu	Bialskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bialskim	Bialskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bialskimi	Bialskie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Biała	Biała	subst:sg:nom:f	człon nazwy geograficznej	
 Biała	Biała	subst:sg:voc:f	człon nazwy geograficznej	
 Białą	Biała	subst:sg:acc:f	człon nazwy geograficznej	
@@ -5433,20 +5433,20 @@ Białkowskim	Białkowski	subst:pl:dat:m1	nazwisko
 Białkowskim	Białkowski	subst:sg:inst:m1	nazwisko	
 Białkowskim	Białkowski	subst:sg:loc:m1	nazwisko	
 Białkowskimi	Białkowski	subst:pl:inst:m1	nazwisko	
-Białobrzegach	Białobrzegi	subst:pl:loc:p2	nazwa geograficzna	
-Białobrzegach	Białobrzegi	subst:pl:loc:p3	nazwa geograficzna	
-Białobrzegami	Białobrzegi	subst:pl:inst:p2	nazwa geograficzna	
-Białobrzegami	Białobrzegi	subst:pl:inst:p3	nazwa geograficzna	
-Białobrzegi	Białobrzegi	subst:pl:acc:p2	nazwa geograficzna	
-Białobrzegi	Białobrzegi	subst:pl:acc:p3	nazwa geograficzna	
-Białobrzegi	Białobrzegi	subst:pl:nom:p2	nazwa geograficzna	
-Białobrzegi	Białobrzegi	subst:pl:nom:p3	nazwa geograficzna	
-Białobrzegi	Białobrzegi	subst:pl:voc:p2	nazwa geograficzna	
-Białobrzegi	Białobrzegi	subst:pl:voc:p3	nazwa geograficzna	
-Białobrzegom	Białobrzegi	subst:pl:dat:p2	nazwa geograficzna	
-Białobrzegom	Białobrzegi	subst:pl:dat:p3	nazwa geograficzna	
-Białobrzegów	Białobrzegi	subst:pl:gen:p2	nazwa geograficzna	
-Białobrzegów	Białobrzegi	subst:pl:gen:p3	nazwa geograficzna	
+Białobrzegach	Białobrzegi	subst:pl:loc:n:pt	nazwa geograficzna	
+Białobrzegach	Białobrzegi	subst:pl:loc:n:pt	nazwa geograficzna	
+Białobrzegami	Białobrzegi	subst:pl:inst:n:pt	nazwa geograficzna	
+Białobrzegami	Białobrzegi	subst:pl:inst:n:pt	nazwa geograficzna	
+Białobrzegi	Białobrzegi	subst:pl:acc:n:pt	nazwa geograficzna	
+Białobrzegi	Białobrzegi	subst:pl:acc:n:pt	nazwa geograficzna	
+Białobrzegi	Białobrzegi	subst:pl:nom:n:pt	nazwa geograficzna	
+Białobrzegi	Białobrzegi	subst:pl:nom:n:pt	nazwa geograficzna	
+Białobrzegi	Białobrzegi	subst:pl:voc:n:pt	nazwa geograficzna	
+Białobrzegi	Białobrzegi	subst:pl:voc:n:pt	nazwa geograficzna	
+Białobrzegom	Białobrzegi	subst:pl:dat:n:pt	nazwa geograficzna	
+Białobrzegom	Białobrzegi	subst:pl:dat:n:pt	nazwa geograficzna	
+Białobrzegów	Białobrzegi	subst:pl:gen:n:pt	nazwa geograficzna	
+Białobrzegów	Białobrzegi	subst:pl:gen:n:pt	nazwa geograficzna	
 Białogardach	Białogard	subst:pl:loc:m3	nazwa geograficzna	
 Białogardami	Białogard	subst:pl:inst:m3	nazwa geograficzna	
 Białogard	Białogard	subst:sg:acc:m3	nazwa geograficzna	
@@ -5549,20 +5549,20 @@ Białostocczyzny	Białostocczyzna	subst:pl:voc:f	nazwa geograficzna
 Białostocczyzny	Białostocczyzna	subst:sg:gen:f	nazwa geograficzna	
 Białostocczyźnie	Białostocczyzna	subst:sg:dat:f	nazwa geograficzna	
 Białostocczyźnie	Białostocczyzna	subst:sg:loc:f	nazwa geograficzna	
-Białostockich	Białostockie	subst:pl:gen:n2	nazwa geograficzna	
-Białostockich	Białostockie	subst:pl:loc:n2	nazwa geograficzna	
-Białostockie	Białostockie	subst:pl:acc:n2	nazwa geograficzna	
-Białostockie	Białostockie	subst:pl:nom:n2	nazwa geograficzna	
-Białostockie	Białostockie	subst:pl:voc:n2	nazwa geograficzna	
-Białostockie	Białostockie	subst:sg:acc:n2	nazwa geograficzna	
-Białostockie	Białostockie	subst:sg:nom:n2	nazwa geograficzna	
-Białostockie	Białostockie	subst:sg:voc:n2	nazwa geograficzna	
-Białostockiego	Białostockie	subst:sg:gen:n2	nazwa geograficzna	
-Białostockiem	Białostockie	subst:sg:inst:n2	nazwa geograficzna	
-Białostockiem	Białostockie	subst:sg:loc:n2	nazwa geograficzna	
-Białostockiemu	Białostockie	subst:sg:dat:n2	nazwa geograficzna	
-Białostockim	Białostockie	subst:pl:dat:n2	nazwa geograficzna	
-Białostockimi	Białostockie	subst:pl:inst:n2	nazwa geograficzna	
+Białostockich	Białostockie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Białostockich	Białostockie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Białostockie	Białostockie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Białostockie	Białostockie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Białostockie	Białostockie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Białostockie	Białostockie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Białostockie	Białostockie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Białostockie	Białostockie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Białostockiego	Białostockie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Białostockiem	Białostockie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Białostockiem	Białostockie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Białostockiemu	Białostockie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Białostockim	Białostockie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Białostockimi	Białostockie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Białoszewska	Białoszewska	subst:sg:nom:f	nazwisko	
 Białoszewska	Białoszewska	subst:sg:voc:f	nazwisko	
 Białoszewską	Białoszewska	subst:sg:acc:f	nazwisko	
@@ -5757,20 +5757,20 @@ Bielów	Biel	subst:pl:acc:m1	nazwisko
 Bielów	Biel	subst:pl:gen:m1	nazwisko	
 Bielu	Biel	subst:sg:loc:m1	nazwisko	
 Bielu	Biel	subst:sg:voc:m1	nazwisko	
-Bielanach	Bielany	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bielanach	Bielany	subst:pl:loc:p3	nazwa geograficzna	
-Bielanami	Bielany	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bielanami	Bielany	subst:pl:inst:p3	nazwa geograficzna	
-Bielan	Bielany	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bielan	Bielany	subst:pl:gen:p3	nazwa geograficzna	
-Bielanom	Bielany	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bielanom	Bielany	subst:pl:dat:p3	nazwa geograficzna	
-Bielany	Bielany	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bielany	Bielany	subst:pl:acc:p3	nazwa geograficzna	
-Bielany	Bielany	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bielany	Bielany	subst:pl:nom:p3	nazwa geograficzna	
-Bielany	Bielany	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bielany	Bielany	subst:pl:voc:p3	nazwa geograficzna	
+Bielanach	Bielany	subst:pl:loc:n:pt	nazwa geograficzna	
+Bielanach	Bielany	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bielanami	Bielany	subst:pl:inst:n:pt	nazwa geograficzna	
+Bielanami	Bielany	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bielan	Bielany	subst:pl:gen:n:pt	nazwa geograficzna	
+Bielan	Bielany	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bielanom	Bielany	subst:pl:dat:n:pt	nazwa geograficzna	
+Bielanom	Bielany	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Bielany	Bielany	subst:pl:acc:n:pt	nazwa geograficzna	
+Bielany	Bielany	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bielany	Bielany	subst:pl:nom:n:pt	nazwa geograficzna	
+Bielany	Bielany	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bielany	Bielany	subst:pl:voc:n:pt	nazwa geograficzna	
+Bielany	Bielany	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Bielawna	Bielawna	subst:sg:nom:f	nazwisko	
 Bielawna	Bielawna	subst:sg:voc:f	nazwisko	
 Bielawną	Bielawna	subst:sg:acc:f	nazwisko	
@@ -5831,34 +5831,34 @@ Bieleckim	Bielecki	subst:pl:dat:m1	nazwisko
 Bieleckim	Bielecki	subst:sg:inst:m1	nazwisko	
 Bieleckim	Bielecki	subst:sg:loc:m1	nazwisko	
 Bieleckimi	Bielecki	subst:pl:inst:m1	nazwisko	
-Bielicach	Bielice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bielicach	Bielice	subst:pl:loc:p3	nazwa geograficzna	
-Bielicami	Bielice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bielicami	Bielice	subst:pl:inst:p3	nazwa geograficzna	
-Bielic	Bielice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bielic	Bielice	subst:pl:gen:p3	nazwa geograficzna	
-Bielice	Bielice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bielice	Bielice	subst:pl:acc:p3	nazwa geograficzna	
-Bielice	Bielice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bielice	Bielice	subst:pl:nom:p3	nazwa geograficzna	
-Bielice	Bielice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bielice	Bielice	subst:pl:voc:p3	nazwa geograficzna	
-Bielicom	Bielice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bielicom	Bielice	subst:pl:dat:p3	nazwa geograficzna	
-Bielinach	Bieliny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bielinach	Bieliny	subst:pl:loc:p3	nazwa geograficzna	
-Bielinami	Bieliny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bielinami	Bieliny	subst:pl:inst:p3	nazwa geograficzna	
-Bielin	Bieliny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bielin	Bieliny	subst:pl:gen:p3	nazwa geograficzna	
-Bielinom	Bieliny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bielinom	Bieliny	subst:pl:dat:p3	nazwa geograficzna	
-Bieliny	Bieliny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bieliny	Bieliny	subst:pl:acc:p3	nazwa geograficzna	
-Bieliny	Bieliny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bieliny	Bieliny	subst:pl:nom:p3	nazwa geograficzna	
-Bieliny	Bieliny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bieliny	Bieliny	subst:pl:voc:p3	nazwa geograficzna	
+Bielicach	Bielice	subst:pl:loc:n:pt	nazwa geograficzna	
+Bielicach	Bielice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bielicami	Bielice	subst:pl:inst:n:pt	nazwa geograficzna	
+Bielicami	Bielice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bielic	Bielice	subst:pl:gen:n:pt	nazwa geograficzna	
+Bielic	Bielice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bielice	Bielice	subst:pl:acc:n:pt	nazwa geograficzna	
+Bielice	Bielice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bielice	Bielice	subst:pl:nom:n:pt	nazwa geograficzna	
+Bielice	Bielice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bielice	Bielice	subst:pl:voc:n:pt	nazwa geograficzna	
+Bielice	Bielice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Bielicom	Bielice	subst:pl:dat:n:pt	nazwa geograficzna	
+Bielicom	Bielice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Bielinach	Bieliny	subst:pl:loc:n:pt	nazwa geograficzna	
+Bielinach	Bieliny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bielinami	Bieliny	subst:pl:inst:n:pt	nazwa geograficzna	
+Bielinami	Bieliny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bielin	Bieliny	subst:pl:gen:n:pt	nazwa geograficzna	
+Bielin	Bieliny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bielinom	Bieliny	subst:pl:dat:n:pt	nazwa geograficzna	
+Bielinom	Bieliny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Bieliny	Bieliny	subst:pl:acc:n:pt	nazwa geograficzna	
+Bieliny	Bieliny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bieliny	Bieliny	subst:pl:nom:n:pt	nazwa geograficzna	
+Bieliny	Bieliny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bieliny	Bieliny	subst:pl:voc:n:pt	nazwa geograficzna	
+Bieliny	Bieliny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Bielińska	Bielińska	subst:sg:nom:f	nazwisko	
 Bielińska	Bielińska	subst:sg:voc:f	nazwisko	
 Bielińską	Bielińska	subst:sg:acc:f	nazwisko	
@@ -5903,34 +5903,34 @@ Bielskowi	Bielsk	subst:sg:dat:m3	nazwa geograficzna
 Bielsków	Bielsk	subst:pl:gen:m3	nazwa geograficzna	
 Bielsku	Bielsk	subst:sg:loc:m3	nazwa geograficzna	
 Bielsku	Bielsk	subst:sg:voc:m3	nazwa geograficzna	
-Bielskich	Bielskie	subst:pl:gen:n2	nazwa geograficzna	
-Bielskich	Bielskie	subst:pl:loc:n2	nazwa geograficzna	
-Bielskie	Bielskie	subst:pl:acc:n2	nazwa geograficzna	
-Bielskie	Bielskie	subst:pl:nom:n2	nazwa geograficzna	
-Bielskie	Bielskie	subst:pl:voc:n2	nazwa geograficzna	
-Bielskie	Bielskie	subst:sg:acc:n2	nazwa geograficzna	
-Bielskie	Bielskie	subst:sg:nom:n2	nazwa geograficzna	
-Bielskie	Bielskie	subst:sg:voc:n2	nazwa geograficzna	
-Bielskiego	Bielskie	subst:sg:gen:n2	nazwa geograficzna	
-Bielskiem	Bielskie	subst:sg:inst:n2	nazwa geograficzna	
-Bielskiem	Bielskie	subst:sg:loc:n2	nazwa geograficzna	
-Bielskiemu	Bielskie	subst:sg:dat:n2	nazwa geograficzna	
-Bielskim	Bielskie	subst:pl:dat:n2	nazwa geograficzna	
-Bielskimi	Bielskie	subst:pl:inst:n2	nazwa geograficzna	
-Bielska	Bielsko	subst:pl:acc:n2	nazwa geograficzna	
-Bielska	Bielsko	subst:pl:nom:n2	nazwa geograficzna	
-Bielska	Bielsko	subst:pl:voc:n2	nazwa geograficzna	
-Bielska	Bielsko	subst:sg:gen:n2	nazwa geograficzna	
-Bielskach	Bielsko	subst:pl:loc:n2	nazwa geograficzna	
-Bielskami	Bielsko	subst:pl:inst:n2	nazwa geograficzna	
-Bielsk	Bielsko	subst:pl:gen:n2	nazwa geograficzna	
-Bielskiem	Bielsko	subst:sg:inst:n2	nazwa geograficzna	
-Bielsko	Bielsko	subst:sg:acc:n2	nazwa geograficzna	
-Bielsko	Bielsko	subst:sg:nom:n2	nazwa geograficzna	
-Bielsko	Bielsko	subst:sg:voc:n2	nazwa geograficzna	
-Bielskom	Bielsko	subst:pl:dat:n2	nazwa geograficzna	
-Bielsku	Bielsko	subst:sg:dat:n2	nazwa geograficzna	
-Bielsku	Bielsko	subst:sg:loc:n2	nazwa geograficzna	
+Bielskich	Bielskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bielskich	Bielskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bielskie	Bielskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bielskie	Bielskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bielskie	Bielskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bielskie	Bielskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bielskie	Bielskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bielskie	Bielskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Bielskiego	Bielskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bielskiem	Bielskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bielskiem	Bielskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bielskiemu	Bielskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bielskim	Bielskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bielskimi	Bielskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bielska	Bielsko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bielska	Bielsko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bielska	Bielsko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bielska	Bielsko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bielskach	Bielsko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bielskami	Bielsko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bielsk	Bielsko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bielskiem	Bielsko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bielsko	Bielsko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bielsko	Bielsko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bielsko	Bielsko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Bielskom	Bielsko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bielsku	Bielsko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bielsku	Bielsko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Bieniek	Bieniek	subst:sg:nom:m1	nazwisko	
 Bieńka	Bieniek	subst:sg:acc:m1	nazwisko	
 Bieńka	Bieniek	subst:sg:gen:m1	nazwisko	
@@ -6086,20 +6086,20 @@ Bierutowy	Bierutów	subst:pl:nom:m3	nazwa geograficzna
 Bierutowy	Bierutów	subst:pl:voc:m3	nazwa geograficzna	
 Bierutów	Bierutów	subst:sg:acc:m3	nazwa geograficzna	
 Bierutów	Bierutów	subst:sg:nom:m3	nazwa geograficzna	
-Bieszczadach	Bieszczady	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bieszczadach	Bieszczady	subst:pl:loc:p3	nazwa geograficzna	
-Bieszczadami	Bieszczady	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bieszczadami	Bieszczady	subst:pl:inst:p3	nazwa geograficzna	
-Bieszczad	Bieszczady	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bieszczadom	Bieszczady	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bieszczadom	Bieszczady	subst:pl:dat:p3	nazwa geograficzna	
-Bieszczadów	Bieszczady	subst:pl:gen:p3	nazwa geograficzna	
-Bieszczady	Bieszczady	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bieszczady	Bieszczady	subst:pl:acc:p3	nazwa geograficzna	
-Bieszczady	Bieszczady	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bieszczady	Bieszczady	subst:pl:nom:p3	nazwa geograficzna	
-Bieszczady	Bieszczady	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bieszczady	Bieszczady	subst:pl:voc:p3	nazwa geograficzna	
+Bieszczadach	Bieszczady	subst:pl:loc:n:pt	nazwa geograficzna	
+Bieszczadach	Bieszczady	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bieszczadami	Bieszczady	subst:pl:inst:n:pt	nazwa geograficzna	
+Bieszczadami	Bieszczady	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bieszczad	Bieszczady	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bieszczadom	Bieszczady	subst:pl:dat:n:pt	nazwa geograficzna	
+Bieszczadom	Bieszczady	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Bieszczadów	Bieszczady	subst:pl:gen:n:pt	nazwa geograficzna	
+Bieszczady	Bieszczady	subst:pl:acc:n:pt	nazwa geograficzna	
+Bieszczady	Bieszczady	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bieszczady	Bieszczady	subst:pl:nom:n:pt	nazwa geograficzna	
+Bieszczady	Bieszczady	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bieszczady	Bieszczady	subst:pl:voc:n:pt	nazwa geograficzna	
+Bieszczady	Bieszczady	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Bieżanowa	Bieżanów	subst:sg:gen:m3	nazwa geograficzna	
 Bieżanowach	Bieżanów	subst:pl:loc:m3	nazwa geograficzna	
 Bieżanowami	Bieżanów	subst:pl:inst:m3	nazwa geograficzna	
@@ -6297,20 +6297,20 @@ BIOS-u	BIOS	subst:sg:gen:m3	nazwa pospolita	komp.
 BIOS-y	BIOS	subst:pl:acc:m3	nazwa pospolita	komp.
 BIOS-y	BIOS	subst:pl:nom:m3	nazwa pospolita	komp.
 BIOS-y	BIOS	subst:pl:voc:m3	nazwa pospolita	komp.
-Birkenau	Birkenau	subst:pl:acc:n2	nazwa geograficzna	hist.
-Birkenau	Birkenau	subst:pl:dat:n2	nazwa geograficzna	hist.
-Birkenau	Birkenau	subst:pl:gen:n2	nazwa geograficzna	hist.
-Birkenau	Birkenau	subst:pl:inst:n2	nazwa geograficzna	hist.
-Birkenau	Birkenau	subst:pl:loc:n2	nazwa geograficzna	hist.
-Birkenau	Birkenau	subst:pl:nom:n2	nazwa geograficzna	hist.
-Birkenau	Birkenau	subst:pl:voc:n2	nazwa geograficzna	hist.
-Birkenau	Birkenau	subst:sg:acc:n2	nazwa geograficzna	hist.
-Birkenau	Birkenau	subst:sg:dat:n2	nazwa geograficzna	hist.
-Birkenau	Birkenau	subst:sg:gen:n2	nazwa geograficzna	hist.
-Birkenau	Birkenau	subst:sg:inst:n2	nazwa geograficzna	hist.
-Birkenau	Birkenau	subst:sg:loc:n2	nazwa geograficzna	hist.
-Birkenau	Birkenau	subst:sg:nom:n2	nazwa geograficzna	hist.
-Birkenau	Birkenau	subst:sg:voc:n2	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:pl:acc:n:ncol	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:pl:dat:n:ncol	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:pl:gen:n:ncol	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:pl:inst:n:ncol	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:pl:loc:n:ncol	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:pl:nom:n:ncol	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:pl:voc:n:ncol	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:sg:acc:n:ncol	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:sg:dat:n:ncol	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:sg:gen:n:ncol	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:sg:inst:n:ncol	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:sg:loc:n:ncol	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:sg:nom:n:ncol	nazwa geograficzna	hist.
+Birkenau	Birkenau	subst:sg:voc:n:ncol	nazwa geograficzna	hist.
 Birma	Birma	subst:sg:nom:f	nazwa geograficzna	
 Birmach	Birma	subst:pl:loc:f	nazwa geograficzna	
 Birmami	Birma	subst:pl:inst:f	nazwa geograficzna	
@@ -6340,47 +6340,47 @@ Birminghamy	Birmingham	subst:pl:acc:m3	nazwa geograficzna
 Birminghamy	Birmingham	subst:pl:nom:m3	nazwa geograficzna	
 Birminghamy	Birmingham	subst:pl:voc:m3	nazwa geograficzna	
 BISE	BISE	subst:pl:acc:m3	nazwa firmy	
-BISE	BISE	subst:pl:acc:n2	nazwa firmy	
+BISE	BISE	subst:pl:acc:n:ncol	nazwa firmy	
 BISE	BISE	subst:pl:dat:m3	nazwa firmy	
-BISE	BISE	subst:pl:dat:n2	nazwa firmy	
+BISE	BISE	subst:pl:dat:n:ncol	nazwa firmy	
 BISE	BISE	subst:pl:gen:m3	nazwa firmy	
-BISE	BISE	subst:pl:gen:n2	nazwa firmy	
+BISE	BISE	subst:pl:gen:n:ncol	nazwa firmy	
 BISE	BISE	subst:pl:inst:m3	nazwa firmy	
-BISE	BISE	subst:pl:inst:n2	nazwa firmy	
+BISE	BISE	subst:pl:inst:n:ncol	nazwa firmy	
 BISE	BISE	subst:pl:loc:m3	nazwa firmy	
-BISE	BISE	subst:pl:loc:n2	nazwa firmy	
+BISE	BISE	subst:pl:loc:n:ncol	nazwa firmy	
 BISE	BISE	subst:pl:nom:m3	nazwa firmy	
-BISE	BISE	subst:pl:nom:n2	nazwa firmy	
+BISE	BISE	subst:pl:nom:n:ncol	nazwa firmy	
 BISE	BISE	subst:pl:voc:m3	nazwa firmy	
-BISE	BISE	subst:pl:voc:n2	nazwa firmy	
+BISE	BISE	subst:pl:voc:n:ncol	nazwa firmy	
 BISE	BISE	subst:sg:acc:m3	nazwa firmy	
-BISE	BISE	subst:sg:acc:n2	nazwa firmy	
+BISE	BISE	subst:sg:acc:n:ncol	nazwa firmy	
 BISE	BISE	subst:sg:dat:m3	nazwa firmy	
-BISE	BISE	subst:sg:dat:n2	nazwa firmy	
+BISE	BISE	subst:sg:dat:n:ncol	nazwa firmy	
 BISE	BISE	subst:sg:gen:m3	nazwa firmy	
-BISE	BISE	subst:sg:gen:n2	nazwa firmy	
+BISE	BISE	subst:sg:gen:n:ncol	nazwa firmy	
 BISE	BISE	subst:sg:inst:m3	nazwa firmy	
-BISE	BISE	subst:sg:inst:n2	nazwa firmy	
+BISE	BISE	subst:sg:inst:n:ncol	nazwa firmy	
 BISE	BISE	subst:sg:loc:m3	nazwa firmy	
-BISE	BISE	subst:sg:loc:n2	nazwa firmy	
+BISE	BISE	subst:sg:loc:n:ncol	nazwa firmy	
 BISE	BISE	subst:sg:nom:m3	nazwa firmy	
-BISE	BISE	subst:sg:nom:n2	nazwa firmy	
+BISE	BISE	subst:sg:nom:n:ncol	nazwa firmy	
 BISE	BISE	subst:sg:voc:m3	nazwa firmy	
-BISE	BISE	subst:sg:voc:n2	nazwa firmy	
-Biskupicach	Biskupice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Biskupicach	Biskupice	subst:pl:loc:p3	nazwa geograficzna	
-Biskupicami	Biskupice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Biskupicami	Biskupice	subst:pl:inst:p3	nazwa geograficzna	
-Biskupic	Biskupice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Biskupic	Biskupice	subst:pl:gen:p3	nazwa geograficzna	
-Biskupice	Biskupice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Biskupice	Biskupice	subst:pl:acc:p3	nazwa geograficzna	
-Biskupice	Biskupice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Biskupice	Biskupice	subst:pl:nom:p3	nazwa geograficzna	
-Biskupice	Biskupice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Biskupice	Biskupice	subst:pl:voc:p3	nazwa geograficzna	
-Biskupicom	Biskupice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Biskupicom	Biskupice	subst:pl:dat:p3	nazwa geograficzna	
+BISE	BISE	subst:sg:voc:n:ncol	nazwa firmy	
+Biskupicach	Biskupice	subst:pl:loc:n:pt	nazwa geograficzna	
+Biskupicach	Biskupice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Biskupicami	Biskupice	subst:pl:inst:n:pt	nazwa geograficzna	
+Biskupicami	Biskupice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Biskupic	Biskupice	subst:pl:gen:n:pt	nazwa geograficzna	
+Biskupic	Biskupice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Biskupice	Biskupice	subst:pl:acc:n:pt	nazwa geograficzna	
+Biskupice	Biskupice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Biskupice	Biskupice	subst:pl:nom:n:pt	nazwa geograficzna	
+Biskupice	Biskupice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Biskupice	Biskupice	subst:pl:voc:n:pt	nazwa geograficzna	
+Biskupice	Biskupice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Biskupicom	Biskupice	subst:pl:dat:n:pt	nazwa geograficzna	
+Biskupicom	Biskupice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Biskupina	Biskupin	subst:sg:gen:m3	nazwa geograficzna	
 Biskupinach	Biskupin	subst:pl:loc:m3	nazwa geograficzna	
 Biskupinami	Biskupin	subst:pl:inst:m3	nazwa geograficzna	
@@ -6455,34 +6455,34 @@ Bittnerówny	Bittnerówna	subst:pl:acc:f	nazwisko
 Bittnerówny	Bittnerówna	subst:pl:nom:f	nazwisko	
 Bittnerówny	Bittnerówna	subst:pl:voc:f	nazwisko	
 Bittnerówny	Bittnerówna	subst:sg:gen:f	nazwisko	
-Bizancja	Bizancjum	subst:pl:acc:n2	nazwa geograficzna	hist.
-Bizancja	Bizancjum	subst:pl:nom:n2	nazwa geograficzna	hist.
-Bizancja	Bizancjum	subst:pl:voc:n2	nazwa geograficzna	hist.
-Bizancjach	Bizancjum	subst:pl:loc:n2	nazwa geograficzna	hist.
-Bizancjami	Bizancjum	subst:pl:inst:n2	nazwa geograficzna	hist.
-Bizancjom	Bizancjum	subst:pl:dat:n2	nazwa geograficzna	hist.
-Bizancjów	Bizancjum	subst:pl:gen:n2	nazwa geograficzna	hist.
-Bizancjum	Bizancjum	subst:pl:acc:n2	nazwa geograficzna	rzad.|hist.
-Bizancjum	Bizancjum	subst:pl:dat:n2	nazwa geograficzna	rzad.|hist.
-Bizancjum	Bizancjum	subst:pl:gen:n2	nazwa geograficzna	rzad.|hist.
-Bizancjum	Bizancjum	subst:pl:inst:n2	nazwa geograficzna	rzad.|hist.
-Bizancjum	Bizancjum	subst:pl:loc:n2	nazwa geograficzna	rzad.|hist.
-Bizancjum	Bizancjum	subst:pl:nom:n2	nazwa geograficzna	rzad.|hist.
-Bizancjum	Bizancjum	subst:pl:voc:n2	nazwa geograficzna	rzad.|hist.
-Bizancjum	Bizancjum	subst:sg:acc:n2	nazwa geograficzna	hist.
-Bizancjum	Bizancjum	subst:sg:acc:n2	nazwa geograficzna	rzad.|hist.
-Bizancjum	Bizancjum	subst:sg:dat:n2	nazwa geograficzna	hist.
-Bizancjum	Bizancjum	subst:sg:dat:n2	nazwa geograficzna	rzad.|hist.
-Bizancjum	Bizancjum	subst:sg:gen:n2	nazwa geograficzna	hist.
-Bizancjum	Bizancjum	subst:sg:gen:n2	nazwa geograficzna	rzad.|hist.
-Bizancjum	Bizancjum	subst:sg:inst:n2	nazwa geograficzna	hist.
-Bizancjum	Bizancjum	subst:sg:inst:n2	nazwa geograficzna	rzad.|hist.
-Bizancjum	Bizancjum	subst:sg:loc:n2	nazwa geograficzna	hist.
-Bizancjum	Bizancjum	subst:sg:loc:n2	nazwa geograficzna	rzad.|hist.
-Bizancjum	Bizancjum	subst:sg:nom:n2	nazwa geograficzna	hist.
-Bizancjum	Bizancjum	subst:sg:nom:n2	nazwa geograficzna	rzad.|hist.
-Bizancjum	Bizancjum	subst:sg:voc:n2	nazwa geograficzna	hist.
-Bizancjum	Bizancjum	subst:sg:voc:n2	nazwa geograficzna	rzad.|hist.
+Bizancja	Bizancjum	subst:pl:acc:n:ncol	nazwa geograficzna	hist.
+Bizancja	Bizancjum	subst:pl:nom:n:ncol	nazwa geograficzna	hist.
+Bizancja	Bizancjum	subst:pl:voc:n:ncol	nazwa geograficzna	hist.
+Bizancjach	Bizancjum	subst:pl:loc:n:ncol	nazwa geograficzna	hist.
+Bizancjami	Bizancjum	subst:pl:inst:n:ncol	nazwa geograficzna	hist.
+Bizancjom	Bizancjum	subst:pl:dat:n:ncol	nazwa geograficzna	hist.
+Bizancjów	Bizancjum	subst:pl:gen:n:ncol	nazwa geograficzna	hist.
+Bizancjum	Bizancjum	subst:pl:acc:n:ncol	nazwa geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:pl:dat:n:ncol	nazwa geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:pl:gen:n:ncol	nazwa geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:pl:inst:n:ncol	nazwa geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:pl:loc:n:ncol	nazwa geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:pl:nom:n:ncol	nazwa geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:pl:voc:n:ncol	nazwa geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:sg:acc:n:ncol	nazwa geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:acc:n:ncol	nazwa geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:sg:dat:n:ncol	nazwa geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:dat:n:ncol	nazwa geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:sg:gen:n:ncol	nazwa geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:gen:n:ncol	nazwa geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:sg:inst:n:ncol	nazwa geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:inst:n:ncol	nazwa geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:sg:loc:n:ncol	nazwa geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:loc:n:ncol	nazwa geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:sg:nom:n:ncol	nazwa geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:nom:n:ncol	nazwa geograficzna	rzad.|hist.
+Bizancjum	Bizancjum	subst:sg:voc:n:ncol	nazwa geograficzna	hist.
+Bizancjum	Bizancjum	subst:sg:voc:n:ncol	nazwa geograficzna	rzad.|hist.
 BJ	BJ	subst:pl:acc:f	nazwa instytucji	
 BJ	BJ	subst:pl:dat:f	nazwa instytucji	
 BJ	BJ	subst:pl:gen:f	nazwa instytucji	
@@ -6732,13 +6732,13 @@ Bliźniaków	Bliźniak	subst:pl:acc:m1	nazwa pospolita
 Bliźniaków	Bliźniak	subst:pl:gen:m1	nazwa pospolita	
 Bliźniaku	Bliźniak	subst:sg:loc:m1	nazwa pospolita	
 Bliźniaku	Bliźniak	subst:sg:voc:m1	nazwa pospolita	
-Bliźniąt	Bliźnięta	subst:pl:gen:p2	nazwa własna astronomiczna	
-Bliźnięta	Bliźnięta	subst:pl:acc:p2	nazwa własna astronomiczna	
-Bliźnięta	Bliźnięta	subst:pl:nom:p2	nazwa własna astronomiczna	
-Bliźnięta	Bliźnięta	subst:pl:voc:p2	nazwa własna astronomiczna	
-Bliźniętach	Bliźnięta	subst:pl:loc:p2	nazwa własna astronomiczna	
-Bliźniętami	Bliźnięta	subst:pl:inst:p2	nazwa własna astronomiczna	
-Bliźniętom	Bliźnięta	subst:pl:dat:p2	nazwa własna astronomiczna	
+Bliźniąt	Bliźnięta	subst:pl:gen:n:pt	nazwa własna astronomiczna	
+Bliźnięta	Bliźnięta	subst:pl:acc:n:pt	nazwa własna astronomiczna	
+Bliźnięta	Bliźnięta	subst:pl:nom:n:pt	nazwa własna astronomiczna	
+Bliźnięta	Bliźnięta	subst:pl:voc:n:pt	nazwa własna astronomiczna	
+Bliźniętach	Bliźnięta	subst:pl:loc:n:pt	nazwa własna astronomiczna	
+Bliźniętami	Bliźnięta	subst:pl:inst:n:pt	nazwa własna astronomiczna	
+Bliźniętom	Bliźnięta	subst:pl:dat:n:pt	nazwa własna astronomiczna	
 Bliżyna	Bliżyn	subst:sg:gen:m3	nazwa geograficzna	
 Bliżynach	Bliżyn	subst:pl:loc:m3	nazwa geograficzna	
 Bliżynami	Bliżyn	subst:pl:inst:m3	nazwa geograficzna	
@@ -6833,20 +6833,20 @@ Błażejewskim	Błażejewski	subst:pl:dat:m1	nazwisko
 Błażejewskim	Błażejewski	subst:sg:inst:m1	nazwisko	
 Błażejewskim	Błażejewski	subst:sg:loc:m1	nazwisko	
 Błażejewskimi	Błażejewski	subst:pl:inst:m1	nazwisko	
-Błędowicach	Błędowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Błędowicach	Błędowice	subst:pl:loc:p3	nazwa geograficzna	
-Błędowicami	Błędowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Błędowicami	Błędowice	subst:pl:inst:p3	nazwa geograficzna	
-Błędowic	Błędowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Błędowic	Błędowice	subst:pl:gen:p3	nazwa geograficzna	
-Błędowice	Błędowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Błędowice	Błędowice	subst:pl:acc:p3	nazwa geograficzna	
-Błędowice	Błędowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Błędowice	Błędowice	subst:pl:nom:p3	nazwa geograficzna	
-Błędowice	Błędowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Błędowice	Błędowice	subst:pl:voc:p3	nazwa geograficzna	
-Błędowicom	Błędowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Błędowicom	Błędowice	subst:pl:dat:p3	nazwa geograficzna	
+Błędowicach	Błędowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Błędowicach	Błędowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Błędowicami	Błędowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Błędowicami	Błędowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Błędowic	Błędowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Błędowic	Błędowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Błędowice	Błędowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Błędowice	Błędowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Błędowice	Błędowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Błędowice	Błędowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Błędowice	Błędowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Błędowice	Błędowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Błędowicom	Błędowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Błędowicom	Błędowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Błędowa	Błędów	subst:sg:gen:m3	nazwa geograficzna	
 Błędowach	Błędów	subst:pl:loc:m3	nazwa geograficzna	
 Błędowami	Błędów	subst:pl:inst:m3	nazwa geograficzna	
@@ -6951,33 +6951,33 @@ Błyszczu	Błyszcz	subst:sg:voc:m3	nazwa geograficzna
 Błyszczu	Błyszcz	subst:sg:voc:m3	nazwa geograficzna	rzad.
 Błyszczy	Błyszcz	subst:pl:gen:m3	nazwa geograficzna	
 BMW	BMW	subst:pl:acc:m3	marka|nazwa firmy	
-BMW	BMW	subst:pl:acc:n2	marka|nazwa firmy	
+BMW	BMW	subst:pl:acc:n:ncol	marka|nazwa firmy	
 BMW	BMW	subst:pl:dat:m3	marka|nazwa firmy	
-BMW	BMW	subst:pl:dat:n2	marka|nazwa firmy	
+BMW	BMW	subst:pl:dat:n:ncol	marka|nazwa firmy	
 BMW	BMW	subst:pl:gen:m3	marka|nazwa firmy	
-BMW	BMW	subst:pl:gen:n2	marka|nazwa firmy	
+BMW	BMW	subst:pl:gen:n:ncol	marka|nazwa firmy	
 BMW	BMW	subst:pl:inst:m3	marka|nazwa firmy	
-BMW	BMW	subst:pl:inst:n2	marka|nazwa firmy	
+BMW	BMW	subst:pl:inst:n:ncol	marka|nazwa firmy	
 BMW	BMW	subst:pl:loc:m3	marka|nazwa firmy	
-BMW	BMW	subst:pl:loc:n2	marka|nazwa firmy	
+BMW	BMW	subst:pl:loc:n:ncol	marka|nazwa firmy	
 BMW	BMW	subst:pl:nom:m3	marka|nazwa firmy	
-BMW	BMW	subst:pl:nom:n2	marka|nazwa firmy	
+BMW	BMW	subst:pl:nom:n:ncol	marka|nazwa firmy	
 BMW	BMW	subst:pl:voc:m3	marka|nazwa firmy	
-BMW	BMW	subst:pl:voc:n2	marka|nazwa firmy	
+BMW	BMW	subst:pl:voc:n:ncol	marka|nazwa firmy	
 BMW	BMW	subst:sg:acc:m3	marka|nazwa firmy	
-BMW	BMW	subst:sg:acc:n2	marka|nazwa firmy	
+BMW	BMW	subst:sg:acc:n:ncol	marka|nazwa firmy	
 BMW	BMW	subst:sg:dat:m3	marka|nazwa firmy	
-BMW	BMW	subst:sg:dat:n2	marka|nazwa firmy	
+BMW	BMW	subst:sg:dat:n:ncol	marka|nazwa firmy	
 BMW	BMW	subst:sg:gen:m3	marka|nazwa firmy	
-BMW	BMW	subst:sg:gen:n2	marka|nazwa firmy	
+BMW	BMW	subst:sg:gen:n:ncol	marka|nazwa firmy	
 BMW	BMW	subst:sg:inst:m3	marka|nazwa firmy	
-BMW	BMW	subst:sg:inst:n2	marka|nazwa firmy	
+BMW	BMW	subst:sg:inst:n:ncol	marka|nazwa firmy	
 BMW	BMW	subst:sg:loc:m3	marka|nazwa firmy	
-BMW	BMW	subst:sg:loc:n2	marka|nazwa firmy	
+BMW	BMW	subst:sg:loc:n:ncol	marka|nazwa firmy	
 BMW	BMW	subst:sg:nom:m3	marka|nazwa firmy	
-BMW	BMW	subst:sg:nom:n2	marka|nazwa firmy	
+BMW	BMW	subst:sg:nom:n:ncol	marka|nazwa firmy	
 BMW	BMW	subst:sg:voc:m3	marka|nazwa firmy	
-BMW	BMW	subst:sg:voc:n2	marka|nazwa firmy	
+BMW	BMW	subst:sg:voc:n:ncol	marka|nazwa firmy	
 BN-ach	BN	subst:pl:loc:m3	nazwa instytucji	
 BN-ami	BN	subst:pl:inst:m3	nazwa instytucji	
 BN	BN	subst:sg:acc:m3	nazwa instytucji	
@@ -7069,64 +7069,64 @@ Bobińskim	Bobiński	subst:pl:dat:m1	nazwisko
 Bobińskim	Bobiński	subst:sg:inst:m1	nazwisko	
 Bobińskim	Bobiński	subst:sg:loc:m1	nazwisko	
 Bobińskimi	Bobiński	subst:pl:inst:m1	nazwisko	
-Bobolicach	Bobolice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bobolicach	Bobolice	subst:pl:loc:p3	nazwa geograficzna	
-Bobolicami	Bobolice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bobolicami	Bobolice	subst:pl:inst:p3	nazwa geograficzna	
-Bobolic	Bobolice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bobolic	Bobolice	subst:pl:gen:p3	nazwa geograficzna	
-Bobolice	Bobolice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bobolice	Bobolice	subst:pl:acc:p3	nazwa geograficzna	
-Bobolice	Bobolice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bobolice	Bobolice	subst:pl:nom:p3	nazwa geograficzna	
-Bobolice	Bobolice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bobolice	Bobolice	subst:pl:voc:p3	nazwa geograficzna	
-Bobolicom	Bobolice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bobolicom	Bobolice	subst:pl:dat:p3	nazwa geograficzna	
-Bobrowicach	Bobrowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bobrowicach	Bobrowice	subst:pl:loc:p3	nazwa geograficzna	
-Bobrowicami	Bobrowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bobrowicami	Bobrowice	subst:pl:inst:p3	nazwa geograficzna	
-Bobrowic	Bobrowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bobrowic	Bobrowice	subst:pl:gen:p3	nazwa geograficzna	
-Bobrowice	Bobrowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bobrowice	Bobrowice	subst:pl:acc:p3	nazwa geograficzna	
-Bobrowice	Bobrowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bobrowice	Bobrowice	subst:pl:nom:p3	nazwa geograficzna	
-Bobrowice	Bobrowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bobrowice	Bobrowice	subst:pl:voc:p3	nazwa geograficzna	
-Bobrowicom	Bobrowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bobrowicom	Bobrowice	subst:pl:dat:p3	nazwa geograficzna	
-Bobrownikach	Bobrowniki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bobrownikach	Bobrowniki	subst:pl:loc:p3	nazwa geograficzna	
-Bobrownikami	Bobrowniki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bobrownikami	Bobrowniki	subst:pl:inst:p3	nazwa geograficzna	
-Bobrownik	Bobrowniki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bobrownik	Bobrowniki	subst:pl:gen:p3	nazwa geograficzna	
-Bobrowniki	Bobrowniki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bobrowniki	Bobrowniki	subst:pl:acc:p3	nazwa geograficzna	
-Bobrowniki	Bobrowniki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bobrowniki	Bobrowniki	subst:pl:nom:p3	nazwa geograficzna	
-Bobrowniki	Bobrowniki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bobrowniki	Bobrowniki	subst:pl:voc:p3	nazwa geograficzna	
-Bobrownikom	Bobrowniki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bobrownikom	Bobrowniki	subst:pl:dat:p3	nazwa geograficzna	
-Bobrowa	Bobrowo	subst:pl:acc:n2	nazwa geograficzna	
-Bobrowa	Bobrowo	subst:pl:nom:n2	nazwa geograficzna	
-Bobrowa	Bobrowo	subst:pl:voc:n2	nazwa geograficzna	
-Bobrowa	Bobrowo	subst:sg:gen:n2	nazwa geograficzna	
-Bobrowach	Bobrowo	subst:pl:loc:n2	nazwa geograficzna	
-Bobrowami	Bobrowo	subst:pl:inst:n2	nazwa geograficzna	
-Bobrow	Bobrowo	subst:pl:gen:n2	nazwa geograficzna	
-Bobrowem	Bobrowo	subst:sg:inst:n2	nazwa geograficzna	
-Bobrowie	Bobrowo	subst:sg:loc:n2	nazwa geograficzna	
-Bobrowo	Bobrowo	subst:sg:acc:n2	nazwa geograficzna	
-Bobrowo	Bobrowo	subst:sg:nom:n2	nazwa geograficzna	
-Bobrowo	Bobrowo	subst:sg:voc:n2	nazwa geograficzna	
-Bobrowom	Bobrowo	subst:pl:dat:n2	nazwa geograficzna	
-Bobrowów	Bobrowo	subst:pl:gen:n2	nazwa geograficzna	
-Bobrowu	Bobrowo	subst:sg:dat:n2	nazwa geograficzna	
-Bobrów	Bobrowo	subst:pl:gen:n2	nazwa geograficzna	
+Bobolicach	Bobolice	subst:pl:loc:n:pt	nazwa geograficzna	
+Bobolicach	Bobolice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bobolicami	Bobolice	subst:pl:inst:n:pt	nazwa geograficzna	
+Bobolicami	Bobolice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bobolic	Bobolice	subst:pl:gen:n:pt	nazwa geograficzna	
+Bobolic	Bobolice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bobolice	Bobolice	subst:pl:acc:n:pt	nazwa geograficzna	
+Bobolice	Bobolice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bobolice	Bobolice	subst:pl:nom:n:pt	nazwa geograficzna	
+Bobolice	Bobolice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bobolice	Bobolice	subst:pl:voc:n:pt	nazwa geograficzna	
+Bobolice	Bobolice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Bobolicom	Bobolice	subst:pl:dat:n:pt	nazwa geograficzna	
+Bobolicom	Bobolice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Bobrowicach	Bobrowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Bobrowicach	Bobrowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bobrowicami	Bobrowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Bobrowicami	Bobrowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bobrowic	Bobrowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Bobrowic	Bobrowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bobrowice	Bobrowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Bobrowice	Bobrowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bobrowice	Bobrowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Bobrowice	Bobrowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bobrowice	Bobrowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Bobrowice	Bobrowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Bobrowicom	Bobrowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Bobrowicom	Bobrowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Bobrownikach	Bobrowniki	subst:pl:loc:n:pt	nazwa geograficzna	
+Bobrownikach	Bobrowniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bobrownikami	Bobrowniki	subst:pl:inst:n:pt	nazwa geograficzna	
+Bobrownikami	Bobrowniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bobrownik	Bobrowniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Bobrownik	Bobrowniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bobrowniki	Bobrowniki	subst:pl:acc:n:pt	nazwa geograficzna	
+Bobrowniki	Bobrowniki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bobrowniki	Bobrowniki	subst:pl:nom:n:pt	nazwa geograficzna	
+Bobrowniki	Bobrowniki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bobrowniki	Bobrowniki	subst:pl:voc:n:pt	nazwa geograficzna	
+Bobrowniki	Bobrowniki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Bobrownikom	Bobrowniki	subst:pl:dat:n:pt	nazwa geograficzna	
+Bobrownikom	Bobrowniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Bobrowa	Bobrowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bobrowa	Bobrowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bobrowa	Bobrowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bobrowa	Bobrowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bobrowach	Bobrowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bobrowami	Bobrowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bobrow	Bobrowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bobrowem	Bobrowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bobrowie	Bobrowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bobrowo	Bobrowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bobrowo	Bobrowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bobrowo	Bobrowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Bobrowom	Bobrowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bobrowów	Bobrowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bobrowu	Bobrowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bobrów	Bobrowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Bobrowska	Bobrowska	subst:sg:nom:f	nazwisko	
 Bobrowska	Bobrowska	subst:sg:voc:f	nazwisko	
 Bobrowską	Bobrowska	subst:sg:acc:f	nazwisko	
@@ -7328,20 +7328,20 @@ Boczowy	Boczów	subst:pl:nom:m3	nazwa geograficzna
 Boczowy	Boczów	subst:pl:voc:m3	nazwa geograficzna	
 Boczów	Boczów	subst:sg:acc:m3	nazwa geograficzna	
 Boczów	Boczów	subst:sg:nom:m3	nazwa geograficzna	
-Bociek	Boćki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bociek	Boćki	subst:pl:gen:p3	nazwa geograficzna	
-Boćkach	Boćki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Boćkach	Boćki	subst:pl:loc:p3	nazwa geograficzna	
-Boćkami	Boćki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Boćkami	Boćki	subst:pl:inst:p3	nazwa geograficzna	
-Boćki	Boćki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Boćki	Boćki	subst:pl:acc:p3	nazwa geograficzna	
-Boćki	Boćki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Boćki	Boćki	subst:pl:nom:p3	nazwa geograficzna	
-Boćki	Boćki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Boćki	Boćki	subst:pl:voc:p3	nazwa geograficzna	
-Boćkom	Boćki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Boćkom	Boćki	subst:pl:dat:p3	nazwa geograficzna	
+Bociek	Boćki	subst:pl:gen:n:pt	nazwa geograficzna	
+Bociek	Boćki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Boćkach	Boćki	subst:pl:loc:n:pt	nazwa geograficzna	
+Boćkach	Boćki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Boćkami	Boćki	subst:pl:inst:n:pt	nazwa geograficzna	
+Boćkami	Boćki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Boćki	Boćki	subst:pl:acc:n:pt	nazwa geograficzna	
+Boćki	Boćki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Boćki	Boćki	subst:pl:nom:n:pt	nazwa geograficzna	
+Boćki	Boćki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Boćki	Boćki	subst:pl:voc:n:pt	nazwa geograficzna	
+Boćki	Boćki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Boćkom	Boćki	subst:pl:dat:n:pt	nazwa geograficzna	
+Boćkom	Boćki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Bodoni	Bodoni	subst:sg:acc:m3	nazwa kroju pisma	
 Bodoni	Bodoni	subst:sg:nom:m3	nazwa kroju pisma	
 Bodoni	Bodoni	subst:sg:voc:m3	nazwa kroju pisma	
@@ -7446,20 +7446,20 @@ Boecklinów	Boecklin	subst:pl:acc:m1	nazwisko
 Boecklinów	Boecklin	subst:pl:gen:m1	nazwisko	
 Boeckliny	Boecklin	depr:pl:nom:m2	nazwisko	
 Boeckliny	Boecklin	depr:pl:voc:m2	nazwisko	
-Bogaczowicach	Bogaczowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bogaczowicach	Bogaczowice	subst:pl:loc:p3	nazwa geograficzna	
-Bogaczowicami	Bogaczowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bogaczowicami	Bogaczowice	subst:pl:inst:p3	nazwa geograficzna	
-Bogaczowic	Bogaczowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bogaczowic	Bogaczowice	subst:pl:gen:p3	nazwa geograficzna	
-Bogaczowice	Bogaczowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bogaczowice	Bogaczowice	subst:pl:acc:p3	nazwa geograficzna	
-Bogaczowice	Bogaczowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bogaczowice	Bogaczowice	subst:pl:nom:p3	nazwa geograficzna	
-Bogaczowice	Bogaczowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bogaczowice	Bogaczowice	subst:pl:voc:p3	nazwa geograficzna	
-Bogaczowicom	Bogaczowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bogaczowicom	Bogaczowice	subst:pl:dat:p3	nazwa geograficzna	
+Bogaczowicach	Bogaczowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Bogaczowicach	Bogaczowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bogaczowicami	Bogaczowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Bogaczowicami	Bogaczowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bogaczowic	Bogaczowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Bogaczowic	Bogaczowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bogaczowice	Bogaczowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Bogaczowice	Bogaczowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bogaczowice	Bogaczowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Bogaczowice	Bogaczowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bogaczowice	Bogaczowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Bogaczowice	Bogaczowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Bogaczowicom	Bogaczowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Bogaczowicom	Bogaczowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Bogarodzica	Bogarodzica	subst:sg:nom:f	tytuł	
 Bogarodzicach	Bogarodzica	subst:pl:loc:f	tytuł	
 Bogarodzicami	Bogarodzica	subst:pl:inst:f	tytuł	
@@ -8212,22 +8212,22 @@ Bojanów	Bojan	subst:pl:acc:m1	imię	daw.|mit.
 Bojanów	Bojan	subst:pl:gen:m1	imię	daw.|mit.
 Bojany	Bojan	depr:pl:nom:m2	imię	daw.|mit.
 Bojany	Bojan	depr:pl:voc:m2	imię	daw.|mit.
-Bojanowa	Bojanowo	subst:pl:acc:n2	nazwa geograficzna	
-Bojanowa	Bojanowo	subst:pl:nom:n2	nazwa geograficzna	
-Bojanowa	Bojanowo	subst:pl:voc:n2	nazwa geograficzna	
-Bojanowa	Bojanowo	subst:sg:gen:n2	nazwa geograficzna	
-Bojanowach	Bojanowo	subst:pl:loc:n2	nazwa geograficzna	
-Bojanowami	Bojanowo	subst:pl:inst:n2	nazwa geograficzna	
-Bojanow	Bojanowo	subst:pl:gen:n2	nazwa geograficzna	
-Bojanowem	Bojanowo	subst:sg:inst:n2	nazwa geograficzna	
-Bojanowie	Bojanowo	subst:sg:loc:n2	nazwa geograficzna	
-Bojanowo	Bojanowo	subst:sg:acc:n2	nazwa geograficzna	
-Bojanowo	Bojanowo	subst:sg:nom:n2	nazwa geograficzna	
-Bojanowo	Bojanowo	subst:sg:voc:n2	nazwa geograficzna	
-Bojanowom	Bojanowo	subst:pl:dat:n2	nazwa geograficzna	
-Bojanowów	Bojanowo	subst:pl:gen:n2	nazwa geograficzna	
-Bojanowu	Bojanowo	subst:sg:dat:n2	nazwa geograficzna	
-Bojanów	Bojanowo	subst:pl:gen:n2	nazwa geograficzna	
+Bojanowa	Bojanowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bojanowa	Bojanowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bojanowa	Bojanowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bojanowa	Bojanowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bojanowach	Bojanowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bojanowami	Bojanowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bojanow	Bojanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bojanowem	Bojanowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bojanowie	Bojanowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bojanowo	Bojanowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bojanowo	Bojanowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bojanowo	Bojanowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Bojanowom	Bojanowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bojanowów	Bojanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bojanowu	Bojanowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bojanów	Bojanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Bojanowa	Bojanów	subst:sg:gen:m3	nazwa geograficzna	
 Bojanowach	Bojanów	subst:pl:loc:m3	nazwa geograficzna	
 Bojanowami	Bojanów	subst:pl:inst:m3	nazwa geograficzna	
@@ -8432,20 +8432,20 @@ Bolesławiowi	Bolesław:s2	subst:sg:dat:m3	nazwa geograficzna
 Bolesławiów	Bolesław:s2	subst:pl:gen:m3	nazwa geograficzna	
 Bolesławiu	Bolesław:s2	subst:sg:loc:m3	nazwa geograficzna	
 Bolesławiu	Bolesław:s2	subst:sg:voc:m3	nazwa geograficzna	
-Boleszkowicach	Boleszkowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Boleszkowicach	Boleszkowice	subst:pl:loc:p3	nazwa geograficzna	
-Boleszkowicami	Boleszkowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Boleszkowicami	Boleszkowice	subst:pl:inst:p3	nazwa geograficzna	
-Boleszkowic	Boleszkowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Boleszkowic	Boleszkowice	subst:pl:gen:p3	nazwa geograficzna	
-Boleszkowice	Boleszkowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Boleszkowice	Boleszkowice	subst:pl:acc:p3	nazwa geograficzna	
-Boleszkowice	Boleszkowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Boleszkowice	Boleszkowice	subst:pl:nom:p3	nazwa geograficzna	
-Boleszkowice	Boleszkowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Boleszkowice	Boleszkowice	subst:pl:voc:p3	nazwa geograficzna	
-Boleszkowicom	Boleszkowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Boleszkowicom	Boleszkowice	subst:pl:dat:p3	nazwa geograficzna	
+Boleszkowicach	Boleszkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Boleszkowicach	Boleszkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Boleszkowicami	Boleszkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Boleszkowicami	Boleszkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Boleszkowic	Boleszkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Boleszkowic	Boleszkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Boleszkowice	Boleszkowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Boleszkowice	Boleszkowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Boleszkowice	Boleszkowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Boleszkowice	Boleszkowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Boleszkowice	Boleszkowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Boleszkowice	Boleszkowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Boleszkowicom	Boleszkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Boleszkowicom	Boleszkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Boleyna	Boleyn	subst:sg:acc:m1	nazwisko	
 Boleyna	Boleyn	subst:sg:gen:m1	nazwisko	
 Boleynach	Boleyn	subst:pl:loc:m1	nazwisko	
@@ -8740,20 +8740,20 @@ Bonifacym	Bonifacy	subst:pl:dat:m1	imię
 Bonifacym	Bonifacy	subst:sg:inst:m1	imię	
 Bonifacym	Bonifacy	subst:sg:loc:m1	imię	
 Bonifacymi	Bonifacy	subst:pl:inst:m1	imię	
-Bonn	Bonn	subst:pl:acc:n2	nazwa geograficzna	
-Bonn	Bonn	subst:pl:dat:n2	nazwa geograficzna	
-Bonn	Bonn	subst:pl:gen:n2	nazwa geograficzna	
-Bonn	Bonn	subst:pl:inst:n2	nazwa geograficzna	
-Bonn	Bonn	subst:pl:loc:n2	nazwa geograficzna	
-Bonn	Bonn	subst:pl:nom:n2	nazwa geograficzna	
-Bonn	Bonn	subst:pl:voc:n2	nazwa geograficzna	
-Bonn	Bonn	subst:sg:acc:n2	nazwa geograficzna	
-Bonn	Bonn	subst:sg:dat:n2	nazwa geograficzna	
-Bonn	Bonn	subst:sg:gen:n2	nazwa geograficzna	
-Bonn	Bonn	subst:sg:inst:n2	nazwa geograficzna	
-Bonn	Bonn	subst:sg:loc:n2	nazwa geograficzna	
-Bonn	Bonn	subst:sg:nom:n2	nazwa geograficzna	
-Bonn	Bonn	subst:sg:voc:n2	nazwa geograficzna	
+Bonn	Bonn	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bonn	Bonn	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bonn	Bonn	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bonn	Bonn	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bonn	Bonn	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bonn	Bonn	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bonn	Bonn	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bonn	Bonn	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bonn	Bonn	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bonn	Bonn	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bonn	Bonn	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bonn	Bonn	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bonn	Bonn	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bonn	Bonn	subst:sg:voc:n:ncol	nazwa geograficzna	
 Bończa	Bończa	subst:sg:nom:m1	imię	
 Bończach	Bończa	subst:pl:loc:m1	imię	
 Bończami	Bończa	subst:pl:inst:m1	imię	
@@ -8814,20 +8814,20 @@ Boratyńskim	Boratyński	subst:pl:dat:m1	nazwisko
 Boratyńskim	Boratyński	subst:sg:inst:m1	nazwisko	
 Boratyńskim	Boratyński	subst:sg:loc:m1	nazwisko	
 Boratyńskimi	Boratyński	subst:pl:inst:m1	nazwisko	
-Bordeaux	Bordeaux	subst:pl:acc:n2	nazwa geograficzna	
-Bordeaux	Bordeaux	subst:pl:dat:n2	nazwa geograficzna	
-Bordeaux	Bordeaux	subst:pl:gen:n2	nazwa geograficzna	
-Bordeaux	Bordeaux	subst:pl:inst:n2	nazwa geograficzna	
-Bordeaux	Bordeaux	subst:pl:loc:n2	nazwa geograficzna	
-Bordeaux	Bordeaux	subst:pl:nom:n2	nazwa geograficzna	
-Bordeaux	Bordeaux	subst:pl:voc:n2	nazwa geograficzna	
-Bordeaux	Bordeaux	subst:sg:acc:n2	nazwa geograficzna	
-Bordeaux	Bordeaux	subst:sg:dat:n2	nazwa geograficzna	
-Bordeaux	Bordeaux	subst:sg:gen:n2	nazwa geograficzna	
-Bordeaux	Bordeaux	subst:sg:inst:n2	nazwa geograficzna	
-Bordeaux	Bordeaux	subst:sg:loc:n2	nazwa geograficzna	
-Bordeaux	Bordeaux	subst:sg:nom:n2	nazwa geograficzna	
-Bordeaux	Bordeaux	subst:sg:voc:n2	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bordeaux	Bordeaux	subst:sg:voc:n:ncol	nazwa geograficzna	
 Borejce	Borejko	subst:sg:dat:m1	nazwisko	
 Borejce	Borejko	subst:sg:loc:m1	nazwisko	
 Borejkach	Borejko	subst:pl:loc:m1	nazwisko	
@@ -8876,20 +8876,20 @@ Borgiowie	Borgia	subst:pl:nom:m1	nazwisko
 Borgiowie	Borgia	subst:pl:voc:m1	nazwisko	
 Borgiów	Borgia	subst:pl:acc:m1	nazwisko	
 Borgiów	Borgia	subst:pl:gen:m1	nazwisko	
-Borkowicach	Borkowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Borkowicach	Borkowice	subst:pl:loc:p3	nazwa geograficzna	
-Borkowicami	Borkowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Borkowicami	Borkowice	subst:pl:inst:p3	nazwa geograficzna	
-Borkowic	Borkowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Borkowic	Borkowice	subst:pl:gen:p3	nazwa geograficzna	
-Borkowice	Borkowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Borkowice	Borkowice	subst:pl:acc:p3	nazwa geograficzna	
-Borkowice	Borkowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Borkowice	Borkowice	subst:pl:nom:p3	nazwa geograficzna	
-Borkowice	Borkowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Borkowice	Borkowice	subst:pl:voc:p3	nazwa geograficzna	
-Borkowicom	Borkowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Borkowicom	Borkowice	subst:pl:dat:p3	nazwa geograficzna	
+Borkowicach	Borkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Borkowicach	Borkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Borkowicami	Borkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Borkowicami	Borkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Borkowic	Borkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Borkowic	Borkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Borkowice	Borkowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Borkowice	Borkowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Borkowice	Borkowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Borkowice	Borkowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Borkowice	Borkowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Borkowice	Borkowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Borkowicom	Borkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Borkowicom	Borkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Borkowska	Borkowska	subst:sg:nom:f	nazwisko	
 Borkowska	Borkowska	subst:sg:voc:f	nazwisko	
 Borkowską	Borkowska	subst:sg:acc:f	nazwisko	
@@ -8950,20 +8950,20 @@ Borny	Borna	subst:pl:acc:f	nazwa geograficzna
 Borny	Borna	subst:pl:nom:f	nazwa geograficzna	
 Borny	Borna	subst:pl:voc:f	nazwa geograficzna	
 Borny	Borna	subst:sg:gen:f	nazwa geograficzna	
-Borneo	Borneo	subst:pl:acc:n2	nazwa geograficzna	
-Borneo	Borneo	subst:pl:dat:n2	nazwa geograficzna	
-Borneo	Borneo	subst:pl:gen:n2	nazwa geograficzna	
-Borneo	Borneo	subst:pl:inst:n2	nazwa geograficzna	
-Borneo	Borneo	subst:pl:loc:n2	nazwa geograficzna	
-Borneo	Borneo	subst:pl:nom:n2	nazwa geograficzna	
-Borneo	Borneo	subst:pl:voc:n2	nazwa geograficzna	
-Borneo	Borneo	subst:sg:acc:n2	nazwa geograficzna	
-Borneo	Borneo	subst:sg:dat:n2	nazwa geograficzna	
-Borneo	Borneo	subst:sg:gen:n2	nazwa geograficzna	
-Borneo	Borneo	subst:sg:inst:n2	nazwa geograficzna	
-Borneo	Borneo	subst:sg:loc:n2	nazwa geograficzna	
-Borneo	Borneo	subst:sg:nom:n2	nazwa geograficzna	
-Borneo	Borneo	subst:sg:voc:n2	nazwa geograficzna	
+Borneo	Borneo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Borneo	Borneo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Borneo	Borneo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Borneo	Borneo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Borneo	Borneo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Borneo	Borneo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Borneo	Borneo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Borneo	Borneo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Borneo	Borneo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Borneo	Borneo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Borneo	Borneo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Borneo	Borneo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Borneo	Borneo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Borneo	Borneo	subst:sg:voc:n:ncol	nazwa geograficzna	
 Bornholmach	Bornholm	subst:pl:loc:m3	nazwa geograficzna	
 Bornholmami	Bornholm	subst:pl:inst:m3	nazwa geograficzna	
 Bornholm	Bornholm	subst:sg:acc:m3	nazwa geograficzna	
@@ -8994,31 +8994,31 @@ Borodinów	Borodin	subst:pl:acc:m1	nazwisko
 Borodinów	Borodin	subst:pl:gen:m1	nazwisko	
 Borodiny	Borodin	depr:pl:nom:m2	nazwisko	
 Borodiny	Borodin	depr:pl:voc:m2	nazwisko	
-Borodina	Borodino	subst:pl:acc:n2	nazwa geograficzna	
-Borodina	Borodino	subst:pl:nom:n2	nazwa geograficzna	
-Borodina	Borodino	subst:pl:voc:n2	nazwa geograficzna	
-Borodina	Borodino	subst:sg:gen:n2	nazwa geograficzna	
-Borodinach	Borodino	subst:pl:loc:n2	nazwa geograficzna	
-Borodinami	Borodino	subst:pl:inst:n2	nazwa geograficzna	
-Borodin	Borodino	subst:pl:gen:n2	nazwa geograficzna	
-Borodinem	Borodino	subst:sg:inst:n2	nazwa geograficzna	
-Borodinie	Borodino	subst:sg:loc:n2	nazwa geograficzna	
-Borodino	Borodino	subst:pl:acc:n2	nazwa geograficzna	
-Borodino	Borodino	subst:pl:dat:n2	nazwa geograficzna	
-Borodino	Borodino	subst:pl:gen:n2	nazwa geograficzna	
-Borodino	Borodino	subst:pl:inst:n2	nazwa geograficzna	
-Borodino	Borodino	subst:pl:loc:n2	nazwa geograficzna	
-Borodino	Borodino	subst:pl:nom:n2	nazwa geograficzna	
-Borodino	Borodino	subst:pl:voc:n2	nazwa geograficzna	
-Borodino	Borodino	subst:sg:acc:n2	nazwa geograficzna	
-Borodino	Borodino	subst:sg:dat:n2	nazwa geograficzna	
-Borodino	Borodino	subst:sg:gen:n2	nazwa geograficzna	
-Borodino	Borodino	subst:sg:inst:n2	nazwa geograficzna	
-Borodino	Borodino	subst:sg:loc:n2	nazwa geograficzna	
-Borodino	Borodino	subst:sg:nom:n2	nazwa geograficzna	
-Borodino	Borodino	subst:sg:voc:n2	nazwa geograficzna	
-Borodinom	Borodino	subst:pl:dat:n2	nazwa geograficzna	
-Borodinu	Borodino	subst:sg:dat:n2	nazwa geograficzna	
+Borodina	Borodino	subst:pl:acc:n:ncol	nazwa geograficzna	
+Borodina	Borodino	subst:pl:nom:n:ncol	nazwa geograficzna	
+Borodina	Borodino	subst:pl:voc:n:ncol	nazwa geograficzna	
+Borodina	Borodino	subst:sg:gen:n:ncol	nazwa geograficzna	
+Borodinach	Borodino	subst:pl:loc:n:ncol	nazwa geograficzna	
+Borodinami	Borodino	subst:pl:inst:n:ncol	nazwa geograficzna	
+Borodin	Borodino	subst:pl:gen:n:ncol	nazwa geograficzna	
+Borodinem	Borodino	subst:sg:inst:n:ncol	nazwa geograficzna	
+Borodinie	Borodino	subst:sg:loc:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:pl:acc:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:pl:dat:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:pl:gen:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:pl:inst:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:pl:loc:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:pl:nom:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:pl:voc:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:sg:acc:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:sg:dat:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:sg:gen:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:sg:inst:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:sg:loc:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:sg:nom:n:ncol	nazwa geograficzna	
+Borodino	Borodino	subst:sg:voc:n:ncol	nazwa geograficzna	
+Borodinom	Borodino	subst:pl:dat:n:ncol	nazwa geograficzna	
+Borodinu	Borodino	subst:sg:dat:n:ncol	nazwa geograficzna	
 Boromeusza	Boromeusz	subst:sg:acc:m1	imię	
 Boromeusza	Boromeusz	subst:sg:gen:m1	imię	
 Boromeuszach	Boromeusz	subst:pl:loc:m1	imię	
@@ -9312,22 +9312,22 @@ Borzywoju	Borzywoj	subst:sg:loc:m1	imię
 Borzywoju	Borzywoj	subst:sg:voc:m1	imię	
 BOS-ach	BOS	subst:pl:loc:m3	nazwa organizacji	
 BOS-ami	BOS	subst:pl:inst:m3	nazwa organizacji	
-BOS	BOS	subst:pl:acc:n2	nazwa organizacji	
-BOS	BOS	subst:pl:dat:n2	nazwa organizacji	
-BOS	BOS	subst:pl:gen:n2	nazwa organizacji	
-BOS	BOS	subst:pl:inst:n2	nazwa organizacji	
-BOS	BOS	subst:pl:loc:n2	nazwa organizacji	
-BOS	BOS	subst:pl:nom:n2	nazwa organizacji	
-BOS	BOS	subst:pl:voc:n2	nazwa organizacji	
+BOS	BOS	subst:pl:acc:n:ncol	nazwa organizacji	
+BOS	BOS	subst:pl:dat:n:ncol	nazwa organizacji	
+BOS	BOS	subst:pl:gen:n:ncol	nazwa organizacji	
+BOS	BOS	subst:pl:inst:n:ncol	nazwa organizacji	
+BOS	BOS	subst:pl:loc:n:ncol	nazwa organizacji	
+BOS	BOS	subst:pl:nom:n:ncol	nazwa organizacji	
+BOS	BOS	subst:pl:voc:n:ncol	nazwa organizacji	
 BOS	BOS	subst:sg:acc:m3	nazwa organizacji	
-BOS	BOS	subst:sg:acc:n2	nazwa organizacji	
-BOS	BOS	subst:sg:dat:n2	nazwa organizacji	
-BOS	BOS	subst:sg:gen:n2	nazwa organizacji	
-BOS	BOS	subst:sg:inst:n2	nazwa organizacji	
-BOS	BOS	subst:sg:loc:n2	nazwa organizacji	
+BOS	BOS	subst:sg:acc:n:ncol	nazwa organizacji	
+BOS	BOS	subst:sg:dat:n:ncol	nazwa organizacji	
+BOS	BOS	subst:sg:gen:n:ncol	nazwa organizacji	
+BOS	BOS	subst:sg:inst:n:ncol	nazwa organizacji	
+BOS	BOS	subst:sg:loc:n:ncol	nazwa organizacji	
 BOS	BOS	subst:sg:nom:m3	nazwa organizacji	
-BOS	BOS	subst:sg:nom:n2	nazwa organizacji	
-BOS	BOS	subst:sg:voc:n2	nazwa organizacji	
+BOS	BOS	subst:sg:nom:n:ncol	nazwa organizacji	
+BOS	BOS	subst:sg:voc:n:ncol	nazwa organizacji	
 BOS-em	BOS	subst:sg:inst:m3	nazwa organizacji	
 BOS-ie	BOS	subst:sg:loc:m3	nazwa organizacji	
 BOS-ie	BOS	subst:sg:voc:m3	nazwa organizacji	
@@ -9767,33 +9767,33 @@ Borze	Bór	subst:sg:loc:m1	nazwisko
 Borze	Bór	subst:sg:voc:m1	nazwisko	
 Bór	Bór	subst:sg:nom:m1	nazwisko	
 BPH	BPH	subst:pl:acc:m3	nazwa firmy	
-BPH	BPH	subst:pl:acc:n2	nazwa firmy	
+BPH	BPH	subst:pl:acc:n:ncol	nazwa firmy	
 BPH	BPH	subst:pl:dat:m3	nazwa firmy	
-BPH	BPH	subst:pl:dat:n2	nazwa firmy	
+BPH	BPH	subst:pl:dat:n:ncol	nazwa firmy	
 BPH	BPH	subst:pl:gen:m3	nazwa firmy	
-BPH	BPH	subst:pl:gen:n2	nazwa firmy	
+BPH	BPH	subst:pl:gen:n:ncol	nazwa firmy	
 BPH	BPH	subst:pl:inst:m3	nazwa firmy	
-BPH	BPH	subst:pl:inst:n2	nazwa firmy	
+BPH	BPH	subst:pl:inst:n:ncol	nazwa firmy	
 BPH	BPH	subst:pl:loc:m3	nazwa firmy	
-BPH	BPH	subst:pl:loc:n2	nazwa firmy	
+BPH	BPH	subst:pl:loc:n:ncol	nazwa firmy	
 BPH	BPH	subst:pl:nom:m3	nazwa firmy	
-BPH	BPH	subst:pl:nom:n2	nazwa firmy	
+BPH	BPH	subst:pl:nom:n:ncol	nazwa firmy	
 BPH	BPH	subst:pl:voc:m3	nazwa firmy	
-BPH	BPH	subst:pl:voc:n2	nazwa firmy	
+BPH	BPH	subst:pl:voc:n:ncol	nazwa firmy	
 BPH	BPH	subst:sg:acc:m3	nazwa firmy	
-BPH	BPH	subst:sg:acc:n2	nazwa firmy	
+BPH	BPH	subst:sg:acc:n:ncol	nazwa firmy	
 BPH	BPH	subst:sg:dat:m3	nazwa firmy	
-BPH	BPH	subst:sg:dat:n2	nazwa firmy	
+BPH	BPH	subst:sg:dat:n:ncol	nazwa firmy	
 BPH	BPH	subst:sg:gen:m3	nazwa firmy	
-BPH	BPH	subst:sg:gen:n2	nazwa firmy	
+BPH	BPH	subst:sg:gen:n:ncol	nazwa firmy	
 BPH	BPH	subst:sg:inst:m3	nazwa firmy	
-BPH	BPH	subst:sg:inst:n2	nazwa firmy	
+BPH	BPH	subst:sg:inst:n:ncol	nazwa firmy	
 BPH	BPH	subst:sg:loc:m3	nazwa firmy	
-BPH	BPH	subst:sg:loc:n2	nazwa firmy	
+BPH	BPH	subst:sg:loc:n:ncol	nazwa firmy	
 BPH	BPH	subst:sg:nom:m3	nazwa firmy	
-BPH	BPH	subst:sg:nom:n2	nazwa firmy	
+BPH	BPH	subst:sg:nom:n:ncol	nazwa firmy	
 BPH	BPH	subst:sg:voc:m3	nazwa firmy	
-BPH	BPH	subst:sg:voc:n2	nazwa firmy	
+BPH	BPH	subst:sg:voc:n:ncol	nazwa firmy	
 BPS-ach	BPS	subst:pl:loc:m3	nazwa firmy	
 BPS-ami	BPS	subst:pl:inst:m3	nazwa firmy	
 BPS	BPS	subst:sg:acc:m3	nazwa firmy	
@@ -9809,61 +9809,61 @@ BPS-y	BPS	subst:pl:acc:m3	nazwa firmy
 BPS-y	BPS	subst:pl:nom:m3	nazwa firmy	
 BPS-y	BPS	subst:pl:voc:m3	nazwa firmy	
 BP	BP:s1	subst:pl:acc:m3	nazwa firmy	
-BP	BP:s1	subst:pl:acc:n2	nazwa firmy	
+BP	BP:s1	subst:pl:acc:n:ncol	nazwa firmy	
 BP	BP:s1	subst:pl:dat:m3	nazwa firmy	
-BP	BP:s1	subst:pl:dat:n2	nazwa firmy	
+BP	BP:s1	subst:pl:dat:n:ncol	nazwa firmy	
 BP	BP:s1	subst:pl:gen:m3	nazwa firmy	
-BP	BP:s1	subst:pl:gen:n2	nazwa firmy	
+BP	BP:s1	subst:pl:gen:n:ncol	nazwa firmy	
 BP	BP:s1	subst:pl:inst:m3	nazwa firmy	
-BP	BP:s1	subst:pl:inst:n2	nazwa firmy	
+BP	BP:s1	subst:pl:inst:n:ncol	nazwa firmy	
 BP	BP:s1	subst:pl:loc:m3	nazwa firmy	
-BP	BP:s1	subst:pl:loc:n2	nazwa firmy	
+BP	BP:s1	subst:pl:loc:n:ncol	nazwa firmy	
 BP	BP:s1	subst:pl:nom:m3	nazwa firmy	
-BP	BP:s1	subst:pl:nom:n2	nazwa firmy	
+BP	BP:s1	subst:pl:nom:n:ncol	nazwa firmy	
 BP	BP:s1	subst:pl:voc:m3	nazwa firmy	
-BP	BP:s1	subst:pl:voc:n2	nazwa firmy	
+BP	BP:s1	subst:pl:voc:n:ncol	nazwa firmy	
 BP	BP:s1	subst:sg:acc:m3	nazwa firmy	
-BP	BP:s1	subst:sg:acc:n2	nazwa firmy	
+BP	BP:s1	subst:sg:acc:n:ncol	nazwa firmy	
 BP	BP:s1	subst:sg:dat:m3	nazwa firmy	
-BP	BP:s1	subst:sg:dat:n2	nazwa firmy	
+BP	BP:s1	subst:sg:dat:n:ncol	nazwa firmy	
 BP	BP:s1	subst:sg:gen:m3	nazwa firmy	
-BP	BP:s1	subst:sg:gen:n2	nazwa firmy	
+BP	BP:s1	subst:sg:gen:n:ncol	nazwa firmy	
 BP	BP:s1	subst:sg:inst:m3	nazwa firmy	
-BP	BP:s1	subst:sg:inst:n2	nazwa firmy	
+BP	BP:s1	subst:sg:inst:n:ncol	nazwa firmy	
 BP	BP:s1	subst:sg:loc:m3	nazwa firmy	
-BP	BP:s1	subst:sg:loc:n2	nazwa firmy	
+BP	BP:s1	subst:sg:loc:n:ncol	nazwa firmy	
 BP	BP:s1	subst:sg:nom:m3	nazwa firmy	
-BP	BP:s1	subst:sg:nom:n2	nazwa firmy	
+BP	BP:s1	subst:sg:nom:n:ncol	nazwa firmy	
 BP	BP:s1	subst:sg:voc:m3	nazwa firmy	
-BP	BP:s1	subst:sg:voc:n2	nazwa firmy	
+BP	BP:s1	subst:sg:voc:n:ncol	nazwa firmy	
 BP	BP:s5	subst:pl:acc:f	nazwa instytucji	
-BP	BP:s5	subst:pl:acc:n2	nazwa instytucji	
+BP	BP:s5	subst:pl:acc:n:ncol	nazwa instytucji	
 BP	BP:s5	subst:pl:dat:f	nazwa instytucji	
-BP	BP:s5	subst:pl:dat:n2	nazwa instytucji	
+BP	BP:s5	subst:pl:dat:n:ncol	nazwa instytucji	
 BP	BP:s5	subst:pl:gen:f	nazwa instytucji	
-BP	BP:s5	subst:pl:gen:n2	nazwa instytucji	
+BP	BP:s5	subst:pl:gen:n:ncol	nazwa instytucji	
 BP	BP:s5	subst:pl:inst:f	nazwa instytucji	
-BP	BP:s5	subst:pl:inst:n2	nazwa instytucji	
+BP	BP:s5	subst:pl:inst:n:ncol	nazwa instytucji	
 BP	BP:s5	subst:pl:loc:f	nazwa instytucji	
-BP	BP:s5	subst:pl:loc:n2	nazwa instytucji	
+BP	BP:s5	subst:pl:loc:n:ncol	nazwa instytucji	
 BP	BP:s5	subst:pl:nom:f	nazwa instytucji	
-BP	BP:s5	subst:pl:nom:n2	nazwa instytucji	
+BP	BP:s5	subst:pl:nom:n:ncol	nazwa instytucji	
 BP	BP:s5	subst:pl:voc:f	nazwa instytucji	
-BP	BP:s5	subst:pl:voc:n2	nazwa instytucji	
+BP	BP:s5	subst:pl:voc:n:ncol	nazwa instytucji	
 BP	BP:s5	subst:sg:acc:f	nazwa instytucji	
-BP	BP:s5	subst:sg:acc:n2	nazwa instytucji	
+BP	BP:s5	subst:sg:acc:n:ncol	nazwa instytucji	
 BP	BP:s5	subst:sg:dat:f	nazwa instytucji	
-BP	BP:s5	subst:sg:dat:n2	nazwa instytucji	
+BP	BP:s5	subst:sg:dat:n:ncol	nazwa instytucji	
 BP	BP:s5	subst:sg:gen:f	nazwa instytucji	
-BP	BP:s5	subst:sg:gen:n2	nazwa instytucji	
+BP	BP:s5	subst:sg:gen:n:ncol	nazwa instytucji	
 BP	BP:s5	subst:sg:inst:f	nazwa instytucji	
-BP	BP:s5	subst:sg:inst:n2	nazwa instytucji	
+BP	BP:s5	subst:sg:inst:n:ncol	nazwa instytucji	
 BP	BP:s5	subst:sg:loc:f	nazwa instytucji	
-BP	BP:s5	subst:sg:loc:n2	nazwa instytucji	
+BP	BP:s5	subst:sg:loc:n:ncol	nazwa instytucji	
 BP	BP:s5	subst:sg:nom:f	nazwa instytucji	
-BP	BP:s5	subst:sg:nom:n2	nazwa instytucji	
+BP	BP:s5	subst:sg:nom:n:ncol	nazwa instytucji	
 BP	BP:s5	subst:sg:voc:f	nazwa instytucji	
-BP	BP:s5	subst:sg:voc:n2	nazwa instytucji	
+BP	BP:s5	subst:sg:voc:n:ncol	nazwa instytucji	
 BR-ach	BR	subst:pl:loc:m3	człon nazwy instytucji	
 BR-ami	BR	subst:pl:inst:m3	człon nazwy instytucji	
 BR	BR	subst:sg:acc:m3	człon nazwy instytucji	
@@ -10221,20 +10221,20 @@ Branieckim	Braniecki	subst:pl:dat:m1	nazwisko
 Branieckim	Braniecki	subst:sg:inst:m1	nazwisko	
 Branieckim	Braniecki	subst:sg:loc:m1	nazwisko	
 Branieckimi	Braniecki	subst:pl:inst:m1	nazwisko	
-Braniewa	Braniewo	subst:pl:acc:n2	nazwa geograficzna	
-Braniewa	Braniewo	subst:pl:nom:n2	nazwa geograficzna	
-Braniewa	Braniewo	subst:pl:voc:n2	nazwa geograficzna	
-Braniewa	Braniewo	subst:sg:gen:n2	nazwa geograficzna	
-Braniewach	Braniewo	subst:pl:loc:n2	nazwa geograficzna	
-Braniewami	Braniewo	subst:pl:inst:n2	nazwa geograficzna	
-Braniew	Braniewo	subst:pl:gen:n2	nazwa geograficzna	
-Braniewem	Braniewo	subst:sg:inst:n2	nazwa geograficzna	
-Braniewie	Braniewo	subst:sg:loc:n2	nazwa geograficzna	
-Braniewo	Braniewo	subst:sg:acc:n2	nazwa geograficzna	
-Braniewo	Braniewo	subst:sg:nom:n2	nazwa geograficzna	
-Braniewo	Braniewo	subst:sg:voc:n2	nazwa geograficzna	
-Braniewom	Braniewo	subst:pl:dat:n2	nazwa geograficzna	
-Braniewu	Braniewo	subst:sg:dat:n2	nazwa geograficzna	
+Braniewa	Braniewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Braniewa	Braniewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Braniewa	Braniewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Braniewa	Braniewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Braniewach	Braniewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Braniewami	Braniewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Braniew	Braniewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Braniewem	Braniewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Braniewie	Braniewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Braniewo	Braniewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Braniewo	Braniewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Braniewo	Braniewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Braniewom	Braniewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Braniewu	Braniewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Brantôme’a	Brantôme	subst:sg:acc:m1	nazwisko	
 Brantôme’a	Brantôme	subst:sg:gen:m1	nazwisko	
 Brantôme’ach	Brantôme	subst:pl:loc:m1	nazwisko	
@@ -10435,20 +10435,20 @@ Brazylijki	Brazylijka	subst:pl:voc:f	nazwa pospolita
 Brazylijki	Brazylijka	subst:sg:gen:f	nazwa pospolita	
 Brazylijko	Brazylijka	subst:sg:voc:f	nazwa pospolita	
 Brazylijkom	Brazylijka	subst:pl:dat:f	nazwa pospolita	
-Brazzaville	Brazzaville	subst:pl:acc:n2	nazwa geograficzna	
-Brazzaville	Brazzaville	subst:pl:dat:n2	nazwa geograficzna	
-Brazzaville	Brazzaville	subst:pl:gen:n2	nazwa geograficzna	
-Brazzaville	Brazzaville	subst:pl:inst:n2	nazwa geograficzna	
-Brazzaville	Brazzaville	subst:pl:loc:n2	nazwa geograficzna	
-Brazzaville	Brazzaville	subst:pl:nom:n2	nazwa geograficzna	
-Brazzaville	Brazzaville	subst:pl:voc:n2	nazwa geograficzna	
-Brazzaville	Brazzaville	subst:sg:acc:n2	nazwa geograficzna	
-Brazzaville	Brazzaville	subst:sg:dat:n2	nazwa geograficzna	
-Brazzaville	Brazzaville	subst:sg:gen:n2	nazwa geograficzna	
-Brazzaville	Brazzaville	subst:sg:inst:n2	nazwa geograficzna	
-Brazzaville	Brazzaville	subst:sg:loc:n2	nazwa geograficzna	
-Brazzaville	Brazzaville	subst:sg:nom:n2	nazwa geograficzna	
-Brazzaville	Brazzaville	subst:sg:voc:n2	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:pl:acc:n:ncol	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:pl:dat:n:ncol	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:pl:gen:n:ncol	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:pl:inst:n:ncol	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:pl:loc:n:ncol	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:pl:nom:n:ncol	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:pl:voc:n:ncol	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:sg:acc:n:ncol	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:sg:dat:n:ncol	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:sg:gen:n:ncol	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:sg:inst:n:ncol	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:sg:loc:n:ncol	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:sg:nom:n:ncol	nazwa geograficzna	
+Brazzaville	Brazzaville	subst:sg:voc:n:ncol	nazwa geograficzna	
 BRBM-ach	BRBM	subst:pl:loc:m3	nazwa firmy	
 BRBM-ami	BRBM	subst:pl:inst:m3	nazwa firmy	
 BRBM	BRBM	subst:sg:acc:m3	nazwa firmy	
@@ -10477,33 +10477,33 @@ Brdy	Brda	subst:sg:gen:f	nazwa geograficzna
 Brdzie	Brda	subst:sg:dat:f	nazwa geograficzna	
 Brdzie	Brda	subst:sg:loc:f	nazwa geograficzna	
 BRE	BRE	subst:pl:acc:m3	nazwa firmy	
-BRE	BRE	subst:pl:acc:n2	nazwa firmy	
+BRE	BRE	subst:pl:acc:n:ncol	nazwa firmy	
 BRE	BRE	subst:pl:dat:m3	nazwa firmy	
-BRE	BRE	subst:pl:dat:n2	nazwa firmy	
+BRE	BRE	subst:pl:dat:n:ncol	nazwa firmy	
 BRE	BRE	subst:pl:gen:m3	nazwa firmy	
-BRE	BRE	subst:pl:gen:n2	nazwa firmy	
+BRE	BRE	subst:pl:gen:n:ncol	nazwa firmy	
 BRE	BRE	subst:pl:inst:m3	nazwa firmy	
-BRE	BRE	subst:pl:inst:n2	nazwa firmy	
+BRE	BRE	subst:pl:inst:n:ncol	nazwa firmy	
 BRE	BRE	subst:pl:loc:m3	nazwa firmy	
-BRE	BRE	subst:pl:loc:n2	nazwa firmy	
+BRE	BRE	subst:pl:loc:n:ncol	nazwa firmy	
 BRE	BRE	subst:pl:nom:m3	nazwa firmy	
-BRE	BRE	subst:pl:nom:n2	nazwa firmy	
+BRE	BRE	subst:pl:nom:n:ncol	nazwa firmy	
 BRE	BRE	subst:pl:voc:m3	nazwa firmy	
-BRE	BRE	subst:pl:voc:n2	nazwa firmy	
+BRE	BRE	subst:pl:voc:n:ncol	nazwa firmy	
 BRE	BRE	subst:sg:acc:m3	nazwa firmy	
-BRE	BRE	subst:sg:acc:n2	nazwa firmy	
+BRE	BRE	subst:sg:acc:n:ncol	nazwa firmy	
 BRE	BRE	subst:sg:dat:m3	nazwa firmy	
-BRE	BRE	subst:sg:dat:n2	nazwa firmy	
+BRE	BRE	subst:sg:dat:n:ncol	nazwa firmy	
 BRE	BRE	subst:sg:gen:m3	nazwa firmy	
-BRE	BRE	subst:sg:gen:n2	nazwa firmy	
+BRE	BRE	subst:sg:gen:n:ncol	nazwa firmy	
 BRE	BRE	subst:sg:inst:m3	nazwa firmy	
-BRE	BRE	subst:sg:inst:n2	nazwa firmy	
+BRE	BRE	subst:sg:inst:n:ncol	nazwa firmy	
 BRE	BRE	subst:sg:loc:m3	nazwa firmy	
-BRE	BRE	subst:sg:loc:n2	nazwa firmy	
+BRE	BRE	subst:sg:loc:n:ncol	nazwa firmy	
 BRE	BRE	subst:sg:nom:m3	nazwa firmy	
-BRE	BRE	subst:sg:nom:n2	nazwa firmy	
+BRE	BRE	subst:sg:nom:n:ncol	nazwa firmy	
 BRE	BRE	subst:sg:voc:m3	nazwa firmy	
-BRE	BRE	subst:sg:voc:n2	nazwa firmy	
+BRE	BRE	subst:sg:voc:n:ncol	nazwa firmy	
 Brechcie	Brecht	subst:sg:loc:m1	nazwisko	
 Brechcie	Brecht	subst:sg:voc:m1	nazwisko	
 Brechta	Brecht	subst:sg:acc:m1	nazwisko	
@@ -10750,20 +10750,20 @@ Brittenów	Britten	subst:pl:acc:m1	nazwisko
 Brittenów	Britten	subst:pl:gen:m1	nazwisko	
 Britteny	Britten	depr:pl:nom:m2	nazwisko	
 Britteny	Britten	depr:pl:voc:m2	nazwisko	
-Bren	Brno	subst:pl:gen:n2	nazwa geograficzna	
-Brna	Brno	subst:pl:acc:n2	nazwa geograficzna	
-Brna	Brno	subst:pl:nom:n2	nazwa geograficzna	
-Brna	Brno	subst:pl:voc:n2	nazwa geograficzna	
-Brna	Brno	subst:sg:gen:n2	nazwa geograficzna	
-Brnach	Brno	subst:pl:loc:n2	nazwa geograficzna	
-Brnami	Brno	subst:pl:inst:n2	nazwa geograficzna	
-Brnem	Brno	subst:sg:inst:n2	nazwa geograficzna	
-Brnie	Brno	subst:sg:loc:n2	nazwa geograficzna	
-Brno	Brno	subst:sg:acc:n2	nazwa geograficzna	
-Brno	Brno	subst:sg:nom:n2	nazwa geograficzna	
-Brno	Brno	subst:sg:voc:n2	nazwa geograficzna	
-Brnom	Brno	subst:pl:dat:n2	nazwa geograficzna	
-Brnu	Brno	subst:sg:dat:n2	nazwa geograficzna	
+Bren	Brno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Brna	Brno	subst:pl:acc:n:ncol	nazwa geograficzna	
+Brna	Brno	subst:pl:nom:n:ncol	nazwa geograficzna	
+Brna	Brno	subst:pl:voc:n:ncol	nazwa geograficzna	
+Brna	Brno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Brnach	Brno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Brnami	Brno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Brnem	Brno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Brnie	Brno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Brno	Brno	subst:sg:acc:n:ncol	nazwa geograficzna	
+Brno	Brno	subst:sg:nom:n:ncol	nazwa geograficzna	
+Brno	Brno	subst:sg:voc:n:ncol	nazwa geograficzna	
+Brnom	Brno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Brnu	Brno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Broadwayach	Broadway	subst:pl:loc:m3	nazwa geograficzna	
 Broadwayami	Broadway	subst:pl:inst:m3	nazwa geograficzna	
 Broadway	Broadway	subst:sg:acc:m3	nazwa geograficzna	
@@ -11121,20 +11121,20 @@ Bronki	Bronka	subst:pl:voc:f	imię
 Bronki	Bronka	subst:sg:gen:f	imię	
 Bronko	Bronka	subst:sg:voc:f	imię	
 Bronkom	Bronka	subst:pl:dat:f	imię	
-Bronowicach	Bronowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Bronowicach	Bronowice	subst:pl:loc:p3	nazwa geograficzna	
-Bronowicami	Bronowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Bronowicami	Bronowice	subst:pl:inst:p3	nazwa geograficzna	
-Bronowic	Bronowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Bronowic	Bronowice	subst:pl:gen:p3	nazwa geograficzna	
-Bronowice	Bronowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Bronowice	Bronowice	subst:pl:acc:p3	nazwa geograficzna	
-Bronowice	Bronowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Bronowice	Bronowice	subst:pl:nom:p3	nazwa geograficzna	
-Bronowice	Bronowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Bronowice	Bronowice	subst:pl:voc:p3	nazwa geograficzna	
-Bronowicom	Bronowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Bronowicom	Bronowice	subst:pl:dat:p3	nazwa geograficzna	
+Bronowicach	Bronowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Bronowicach	Bronowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Bronowicami	Bronowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Bronowicami	Bronowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Bronowic	Bronowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Bronowic	Bronowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Bronowice	Bronowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Bronowice	Bronowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Bronowice	Bronowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Bronowice	Bronowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Bronowice	Bronowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Bronowice	Bronowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Bronowicom	Bronowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Bronowicom	Bronowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Brontë	Brontë	subst:pl:acc:f	nazwisko	
 Brontë	Brontë	subst:pl:dat:f	nazwisko	
 Brontë	Brontë	subst:pl:gen:f	nazwisko	
@@ -11246,20 +11246,20 @@ Brożym	Broży	subst:pl:dat:m1	imię
 Brożym	Broży	subst:sg:inst:m1	imię	
 Brożym	Broży	subst:sg:loc:m1	imię	
 Brożymi	Broży	subst:pl:inst:m1	imię	
-Bródna	Bródno	subst:pl:acc:n2	nazwa geograficzna	
-Bródna	Bródno	subst:pl:nom:n2	nazwa geograficzna	
-Bródna	Bródno	subst:pl:voc:n2	nazwa geograficzna	
-Bródna	Bródno	subst:sg:gen:n2	nazwa geograficzna	
-Bródnach	Bródno	subst:pl:loc:n2	nazwa geograficzna	
-Bródnami	Bródno	subst:pl:inst:n2	nazwa geograficzna	
-Bródn	Bródno	subst:pl:gen:n2	nazwa geograficzna	
-Bródnem	Bródno	subst:sg:inst:n2	nazwa geograficzna	
-Bródnie	Bródno	subst:sg:loc:n2	nazwa geograficzna	
-Bródno	Bródno	subst:sg:acc:n2	nazwa geograficzna	
-Bródno	Bródno	subst:sg:nom:n2	nazwa geograficzna	
-Bródno	Bródno	subst:sg:voc:n2	nazwa geograficzna	
-Bródnom	Bródno	subst:pl:dat:n2	nazwa geograficzna	
-Bródnu	Bródno	subst:sg:dat:n2	nazwa geograficzna	
+Bródna	Bródno	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bródna	Bródno	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bródna	Bródno	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bródna	Bródno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bródnach	Bródno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bródnami	Bródno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bródn	Bródno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bródnem	Bródno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bródnie	Bródno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bródno	Bródno	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bródno	Bródno	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bródno	Bródno	subst:sg:voc:n:ncol	nazwa geograficzna	
+Bródnom	Bródno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bródnu	Bródno	subst:sg:dat:n:ncol	nazwa geograficzna	
 BRR-ach	BRR	subst:pl:loc:m3	nazwa firmy	
 BRR-ami	BRR	subst:pl:inst:m3	nazwa firmy	
 BRR	BRR	subst:sg:acc:m3	nazwa firmy	
@@ -11616,20 +11616,20 @@ Brzegów	Brzeg	subst:pl:gen:m3	nazwa geograficzna
 Brzegu	Brzeg	subst:sg:gen:m3	nazwa geograficzna	
 Brzegu	Brzeg	subst:sg:loc:m3	nazwa geograficzna	
 Brzegu	Brzeg	subst:sg:voc:m3	nazwa geograficzna	
-Brzeska	Brzesko	subst:pl:acc:n2	nazwa geograficzna	
-Brzeska	Brzesko	subst:pl:nom:n2	nazwa geograficzna	
-Brzeska	Brzesko	subst:pl:voc:n2	nazwa geograficzna	
-Brzeska	Brzesko	subst:sg:gen:n2	nazwa geograficzna	
-Brzeskach	Brzesko	subst:pl:loc:n2	nazwa geograficzna	
-Brzeskami	Brzesko	subst:pl:inst:n2	nazwa geograficzna	
-Brzesk	Brzesko	subst:pl:gen:n2	nazwa geograficzna	
-Brzeskiem	Brzesko	subst:sg:inst:n2	nazwa geograficzna	
-Brzesko	Brzesko	subst:sg:acc:n2	nazwa geograficzna	
-Brzesko	Brzesko	subst:sg:nom:n2	nazwa geograficzna	
-Brzesko	Brzesko	subst:sg:voc:n2	nazwa geograficzna	
-Brzeskom	Brzesko	subst:pl:dat:n2	nazwa geograficzna	
-Brzesku	Brzesko	subst:sg:dat:n2	nazwa geograficzna	
-Brzesku	Brzesko	subst:sg:loc:n2	nazwa geograficzna	
+Brzeska	Brzesko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Brzeska	Brzesko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Brzeska	Brzesko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Brzeska	Brzesko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Brzeskach	Brzesko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Brzeskami	Brzesko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Brzesk	Brzesko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Brzeskiem	Brzesko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Brzesko	Brzesko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Brzesko	Brzesko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Brzesko	Brzesko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Brzeskom	Brzesko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Brzesku	Brzesko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Brzesku	Brzesko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Brześcia	Brześć	subst:sg:gen:m3	nazwa geograficzna	
 Brześciach	Brześć	subst:pl:loc:m3	nazwa geograficzna	
 Brześciami	Brześć	subst:pl:inst:m3	nazwa geograficzna	
@@ -11659,20 +11659,20 @@ Brzezinki	Brzezinka	subst:pl:voc:f	nazwa geograficzna
 Brzezinki	Brzezinka	subst:sg:gen:f	nazwa geograficzna	
 Brzezinko	Brzezinka	subst:sg:voc:f	nazwa geograficzna	
 Brzezinkom	Brzezinka	subst:pl:dat:f	nazwa geograficzna	
-Brzezinach	Brzeziny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Brzezinach	Brzeziny	subst:pl:loc:p3	nazwa geograficzna	
-Brzezinami	Brzeziny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Brzezinami	Brzeziny	subst:pl:inst:p3	nazwa geograficzna	
-Brzezin	Brzeziny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Brzezin	Brzeziny	subst:pl:gen:p3	nazwa geograficzna	
-Brzezinom	Brzeziny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Brzezinom	Brzeziny	subst:pl:dat:p3	nazwa geograficzna	
-Brzeziny	Brzeziny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Brzeziny	Brzeziny	subst:pl:acc:p3	nazwa geograficzna	
-Brzeziny	Brzeziny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Brzeziny	Brzeziny	subst:pl:nom:p3	nazwa geograficzna	
-Brzeziny	Brzeziny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Brzeziny	Brzeziny	subst:pl:voc:p3	nazwa geograficzna	
+Brzezinach	Brzeziny	subst:pl:loc:n:pt	nazwa geograficzna	
+Brzezinach	Brzeziny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Brzezinami	Brzeziny	subst:pl:inst:n:pt	nazwa geograficzna	
+Brzezinami	Brzeziny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Brzezin	Brzeziny	subst:pl:gen:n:pt	nazwa geograficzna	
+Brzezin	Brzeziny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Brzezinom	Brzeziny	subst:pl:dat:n:pt	nazwa geograficzna	
+Brzezinom	Brzeziny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Brzeziny	Brzeziny	subst:pl:acc:n:pt	nazwa geograficzna	
+Brzeziny	Brzeziny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Brzeziny	Brzeziny	subst:pl:nom:n:pt	nazwa geograficzna	
+Brzeziny	Brzeziny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Brzeziny	Brzeziny	subst:pl:voc:n:pt	nazwa geograficzna	
+Brzeziny	Brzeziny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Brzezińska	Brzezińska	subst:sg:nom:f	nazwisko	
 Brzezińska	Brzezińska	subst:sg:voc:f	nazwisko	
 Brzezińską	Brzezińska	subst:sg:acc:f	nazwisko	
@@ -11703,20 +11703,20 @@ Brzezińskim	Brzeziński	subst:pl:dat:m1	nazwisko
 Brzezińskim	Brzeziński	subst:sg:inst:m1	nazwisko	
 Brzezińskim	Brzeziński	subst:sg:loc:m1	nazwisko	
 Brzezińskimi	Brzeziński	subst:pl:inst:m1	nazwisko	
-Brzeziec	Brzeźce	subst:pl:gen:p2	nazwa geograficzna	
-Brzeziec	Brzeźce	subst:pl:gen:p3	nazwa geograficzna	
-Brzeźcach	Brzeźce	subst:pl:loc:p2	nazwa geograficzna	
-Brzeźcach	Brzeźce	subst:pl:loc:p3	nazwa geograficzna	
-Brzeźcami	Brzeźce	subst:pl:inst:p2	nazwa geograficzna	
-Brzeźcami	Brzeźce	subst:pl:inst:p3	nazwa geograficzna	
-Brzeźce	Brzeźce	subst:pl:acc:p2	nazwa geograficzna	
-Brzeźce	Brzeźce	subst:pl:acc:p3	nazwa geograficzna	
-Brzeźce	Brzeźce	subst:pl:nom:p2	nazwa geograficzna	
-Brzeźce	Brzeźce	subst:pl:nom:p3	nazwa geograficzna	
-Brzeźce	Brzeźce	subst:pl:voc:p2	nazwa geograficzna	
-Brzeźce	Brzeźce	subst:pl:voc:p3	nazwa geograficzna	
-Brzeźcom	Brzeźce	subst:pl:dat:p2	nazwa geograficzna	
-Brzeźcom	Brzeźce	subst:pl:dat:p3	nazwa geograficzna	
+Brzeziec	Brzeźce	subst:pl:gen:n:pt	nazwa geograficzna	
+Brzeziec	Brzeźce	subst:pl:gen:n:pt	nazwa geograficzna	
+Brzeźcach	Brzeźce	subst:pl:loc:n:pt	nazwa geograficzna	
+Brzeźcach	Brzeźce	subst:pl:loc:n:pt	nazwa geograficzna	
+Brzeźcami	Brzeźce	subst:pl:inst:n:pt	nazwa geograficzna	
+Brzeźcami	Brzeźce	subst:pl:inst:n:pt	nazwa geograficzna	
+Brzeźce	Brzeźce	subst:pl:acc:n:pt	nazwa geograficzna	
+Brzeźce	Brzeźce	subst:pl:acc:n:pt	nazwa geograficzna	
+Brzeźce	Brzeźce	subst:pl:nom:n:pt	nazwa geograficzna	
+Brzeźce	Brzeźce	subst:pl:nom:n:pt	nazwa geograficzna	
+Brzeźce	Brzeźce	subst:pl:voc:n:pt	nazwa geograficzna	
+Brzeźce	Brzeźce	subst:pl:voc:n:pt	nazwa geograficzna	
+Brzeźcom	Brzeźce	subst:pl:dat:n:pt	nazwa geograficzna	
+Brzeźcom	Brzeźce	subst:pl:dat:n:pt	nazwa geograficzna	
 Brzeźnica	Brzeźnica	subst:sg:nom:f	nazwa geograficzna	
 Brzeźnicach	Brzeźnica	subst:pl:loc:f	nazwa geograficzna	
 Brzeźnicami	Brzeźnica	subst:pl:inst:f	nazwa geograficzna	
@@ -11808,118 +11808,118 @@ BS-u	BS	subst:sg:gen:m3	nazwa firmy
 BS-y	BS	subst:pl:acc:m3	nazwa firmy	
 BS-y	BS	subst:pl:nom:m3	nazwa firmy	
 BS-y	BS	subst:pl:voc:m3	nazwa firmy	
-BSA	BSA	subst:pl:acc:n2	nazwa organizacji	
-BSA	BSA	subst:pl:dat:n2	nazwa organizacji	
-BSA	BSA	subst:pl:gen:n2	nazwa organizacji	
-BSA	BSA	subst:pl:inst:n2	nazwa organizacji	
-BSA	BSA	subst:pl:loc:n2	nazwa organizacji	
-BSA	BSA	subst:pl:nom:n2	nazwa organizacji	
-BSA	BSA	subst:pl:voc:n2	nazwa organizacji	
-BSA	BSA	subst:sg:acc:n2	nazwa organizacji	
-BSA	BSA	subst:sg:dat:n2	nazwa organizacji	
-BSA	BSA	subst:sg:gen:n2	nazwa organizacji	
-BSA	BSA	subst:sg:inst:n2	nazwa organizacji	
-BSA	BSA	subst:sg:loc:n2	nazwa organizacji	
-BSA	BSA	subst:sg:nom:n2	nazwa organizacji	
-BSA	BSA	subst:sg:voc:n2	nazwa organizacji	
-BSE	BSE	subst:pl:acc:n2	nazwa pospolita	
-BSE	BSE	subst:pl:dat:n2	nazwa pospolita	
-BSE	BSE	subst:pl:gen:n2	nazwa pospolita	
-BSE	BSE	subst:pl:inst:n2	nazwa pospolita	
-BSE	BSE	subst:pl:loc:n2	nazwa pospolita	
-BSE	BSE	subst:pl:nom:n2	nazwa pospolita	
-BSE	BSE	subst:pl:voc:n2	nazwa pospolita	
-BSE	BSE	subst:sg:acc:n2	nazwa pospolita	
-BSE	BSE	subst:sg:dat:n2	nazwa pospolita	
-BSE	BSE	subst:sg:gen:n2	nazwa pospolita	
-BSE	BSE	subst:sg:inst:n2	nazwa pospolita	
-BSE	BSE	subst:sg:loc:n2	nazwa pospolita	
-BSE	BSE	subst:sg:nom:n2	nazwa pospolita	
-BSE	BSE	subst:sg:voc:n2	nazwa pospolita	
+BSA	BSA	subst:pl:acc:n:ncol	nazwa organizacji	
+BSA	BSA	subst:pl:dat:n:ncol	nazwa organizacji	
+BSA	BSA	subst:pl:gen:n:ncol	nazwa organizacji	
+BSA	BSA	subst:pl:inst:n:ncol	nazwa organizacji	
+BSA	BSA	subst:pl:loc:n:ncol	nazwa organizacji	
+BSA	BSA	subst:pl:nom:n:ncol	nazwa organizacji	
+BSA	BSA	subst:pl:voc:n:ncol	nazwa organizacji	
+BSA	BSA	subst:sg:acc:n:ncol	nazwa organizacji	
+BSA	BSA	subst:sg:dat:n:ncol	nazwa organizacji	
+BSA	BSA	subst:sg:gen:n:ncol	nazwa organizacji	
+BSA	BSA	subst:sg:inst:n:ncol	nazwa organizacji	
+BSA	BSA	subst:sg:loc:n:ncol	nazwa organizacji	
+BSA	BSA	subst:sg:nom:n:ncol	nazwa organizacji	
+BSA	BSA	subst:sg:voc:n:ncol	nazwa organizacji	
+BSE	BSE	subst:pl:acc:n:ncol	nazwa pospolita	
+BSE	BSE	subst:pl:dat:n:ncol	nazwa pospolita	
+BSE	BSE	subst:pl:gen:n:ncol	nazwa pospolita	
+BSE	BSE	subst:pl:inst:n:ncol	nazwa pospolita	
+BSE	BSE	subst:pl:loc:n:ncol	nazwa pospolita	
+BSE	BSE	subst:pl:nom:n:ncol	nazwa pospolita	
+BSE	BSE	subst:pl:voc:n:ncol	nazwa pospolita	
+BSE	BSE	subst:sg:acc:n:ncol	nazwa pospolita	
+BSE	BSE	subst:sg:dat:n:ncol	nazwa pospolita	
+BSE	BSE	subst:sg:gen:n:ncol	nazwa pospolita	
+BSE	BSE	subst:sg:inst:n:ncol	nazwa pospolita	
+BSE	BSE	subst:sg:loc:n:ncol	nazwa pospolita	
+BSE	BSE	subst:sg:nom:n:ncol	nazwa pospolita	
+BSE	BSE	subst:sg:voc:n:ncol	nazwa pospolita	
 BSK	BSK	subst:pl:acc:m3	nazwa pospolita	
-BSK	BSK	subst:pl:acc:n2	nazwa pospolita	
+BSK	BSK	subst:pl:acc:n:ncol	nazwa pospolita	
 BSK	BSK	subst:pl:dat:m3	nazwa pospolita	
-BSK	BSK	subst:pl:dat:n2	nazwa pospolita	
+BSK	BSK	subst:pl:dat:n:ncol	nazwa pospolita	
 BSK	BSK	subst:pl:gen:m3	nazwa pospolita	
-BSK	BSK	subst:pl:gen:n2	nazwa pospolita	
+BSK	BSK	subst:pl:gen:n:ncol	nazwa pospolita	
 BSK	BSK	subst:pl:inst:m3	nazwa pospolita	
-BSK	BSK	subst:pl:inst:n2	nazwa pospolita	
+BSK	BSK	subst:pl:inst:n:ncol	nazwa pospolita	
 BSK	BSK	subst:pl:loc:m3	nazwa pospolita	
-BSK	BSK	subst:pl:loc:n2	nazwa pospolita	
+BSK	BSK	subst:pl:loc:n:ncol	nazwa pospolita	
 BSK	BSK	subst:pl:nom:m3	nazwa pospolita	
-BSK	BSK	subst:pl:nom:n2	nazwa pospolita	
+BSK	BSK	subst:pl:nom:n:ncol	nazwa pospolita	
 BSK	BSK	subst:pl:voc:m3	nazwa pospolita	
-BSK	BSK	subst:pl:voc:n2	nazwa pospolita	
+BSK	BSK	subst:pl:voc:n:ncol	nazwa pospolita	
 BSK	BSK	subst:sg:acc:m3	nazwa pospolita	
-BSK	BSK	subst:sg:acc:n2	nazwa pospolita	
+BSK	BSK	subst:sg:acc:n:ncol	nazwa pospolita	
 BSK	BSK	subst:sg:dat:m3	nazwa pospolita	
-BSK	BSK	subst:sg:dat:n2	nazwa pospolita	
+BSK	BSK	subst:sg:dat:n:ncol	nazwa pospolita	
 BSK	BSK	subst:sg:gen:m3	nazwa pospolita	
-BSK	BSK	subst:sg:gen:n2	nazwa pospolita	
+BSK	BSK	subst:sg:gen:n:ncol	nazwa pospolita	
 BSK	BSK	subst:sg:inst:m3	nazwa pospolita	
-BSK	BSK	subst:sg:inst:n2	nazwa pospolita	
+BSK	BSK	subst:sg:inst:n:ncol	nazwa pospolita	
 BSK	BSK	subst:sg:loc:m3	nazwa pospolita	
-BSK	BSK	subst:sg:loc:n2	nazwa pospolita	
+BSK	BSK	subst:sg:loc:n:ncol	nazwa pospolita	
 BSK	BSK	subst:sg:nom:m3	nazwa pospolita	
-BSK	BSK	subst:sg:nom:n2	nazwa pospolita	
+BSK	BSK	subst:sg:nom:n:ncol	nazwa pospolita	
 BSK	BSK	subst:sg:voc:m3	nazwa pospolita	
-BSK	BSK	subst:sg:voc:n2	nazwa pospolita	
+BSK	BSK	subst:sg:voc:n:ncol	nazwa pospolita	
 BSP	BSP:s1	subst:pl:acc:m3	nazwa firmy	
-BSP	BSP:s1	subst:pl:acc:n2	nazwa firmy	
+BSP	BSP:s1	subst:pl:acc:n:ncol	nazwa firmy	
 BSP	BSP:s1	subst:pl:dat:m3	nazwa firmy	
-BSP	BSP:s1	subst:pl:dat:n2	nazwa firmy	
+BSP	BSP:s1	subst:pl:dat:n:ncol	nazwa firmy	
 BSP	BSP:s1	subst:pl:gen:m3	nazwa firmy	
-BSP	BSP:s1	subst:pl:gen:n2	nazwa firmy	
+BSP	BSP:s1	subst:pl:gen:n:ncol	nazwa firmy	
 BSP	BSP:s1	subst:pl:inst:m3	nazwa firmy	
-BSP	BSP:s1	subst:pl:inst:n2	nazwa firmy	
+BSP	BSP:s1	subst:pl:inst:n:ncol	nazwa firmy	
 BSP	BSP:s1	subst:pl:loc:m3	nazwa firmy	
-BSP	BSP:s1	subst:pl:loc:n2	nazwa firmy	
+BSP	BSP:s1	subst:pl:loc:n:ncol	nazwa firmy	
 BSP	BSP:s1	subst:pl:nom:m3	nazwa firmy	
-BSP	BSP:s1	subst:pl:nom:n2	nazwa firmy	
+BSP	BSP:s1	subst:pl:nom:n:ncol	nazwa firmy	
 BSP	BSP:s1	subst:pl:voc:m3	nazwa firmy	
-BSP	BSP:s1	subst:pl:voc:n2	nazwa firmy	
+BSP	BSP:s1	subst:pl:voc:n:ncol	nazwa firmy	
 BSP	BSP:s1	subst:sg:acc:m3	nazwa firmy	
-BSP	BSP:s1	subst:sg:acc:n2	nazwa firmy	
+BSP	BSP:s1	subst:sg:acc:n:ncol	nazwa firmy	
 BSP	BSP:s1	subst:sg:dat:m3	nazwa firmy	
-BSP	BSP:s1	subst:sg:dat:n2	nazwa firmy	
+BSP	BSP:s1	subst:sg:dat:n:ncol	nazwa firmy	
 BSP	BSP:s1	subst:sg:gen:m3	nazwa firmy	
-BSP	BSP:s1	subst:sg:gen:n2	nazwa firmy	
+BSP	BSP:s1	subst:sg:gen:n:ncol	nazwa firmy	
 BSP	BSP:s1	subst:sg:inst:m3	nazwa firmy	
-BSP	BSP:s1	subst:sg:inst:n2	nazwa firmy	
+BSP	BSP:s1	subst:sg:inst:n:ncol	nazwa firmy	
 BSP	BSP:s1	subst:sg:loc:m3	nazwa firmy	
-BSP	BSP:s1	subst:sg:loc:n2	nazwa firmy	
+BSP	BSP:s1	subst:sg:loc:n:ncol	nazwa firmy	
 BSP	BSP:s1	subst:sg:nom:m3	nazwa firmy	
-BSP	BSP:s1	subst:sg:nom:n2	nazwa firmy	
+BSP	BSP:s1	subst:sg:nom:n:ncol	nazwa firmy	
 BSP	BSP:s1	subst:sg:voc:m3	nazwa firmy	
-BSP	BSP:s1	subst:sg:voc:n2	nazwa firmy	
+BSP	BSP:s1	subst:sg:voc:n:ncol	nazwa firmy	
 BSP	BSP:s2	subst:pl:acc:f	nazwa organizacji	
-BSP	BSP:s2	subst:pl:acc:n2	nazwa organizacji	
+BSP	BSP:s2	subst:pl:acc:n:ncol	nazwa organizacji	
 BSP	BSP:s2	subst:pl:dat:f	nazwa organizacji	
-BSP	BSP:s2	subst:pl:dat:n2	nazwa organizacji	
+BSP	BSP:s2	subst:pl:dat:n:ncol	nazwa organizacji	
 BSP	BSP:s2	subst:pl:gen:f	nazwa organizacji	
-BSP	BSP:s2	subst:pl:gen:n2	nazwa organizacji	
+BSP	BSP:s2	subst:pl:gen:n:ncol	nazwa organizacji	
 BSP	BSP:s2	subst:pl:inst:f	nazwa organizacji	
-BSP	BSP:s2	subst:pl:inst:n2	nazwa organizacji	
+BSP	BSP:s2	subst:pl:inst:n:ncol	nazwa organizacji	
 BSP	BSP:s2	subst:pl:loc:f	nazwa organizacji	
-BSP	BSP:s2	subst:pl:loc:n2	nazwa organizacji	
+BSP	BSP:s2	subst:pl:loc:n:ncol	nazwa organizacji	
 BSP	BSP:s2	subst:pl:nom:f	nazwa organizacji	
-BSP	BSP:s2	subst:pl:nom:n2	nazwa organizacji	
+BSP	BSP:s2	subst:pl:nom:n:ncol	nazwa organizacji	
 BSP	BSP:s2	subst:pl:voc:f	nazwa organizacji	
-BSP	BSP:s2	subst:pl:voc:n2	nazwa organizacji	
+BSP	BSP:s2	subst:pl:voc:n:ncol	nazwa organizacji	
 BSP	BSP:s2	subst:sg:acc:f	nazwa organizacji	
-BSP	BSP:s2	subst:sg:acc:n2	nazwa organizacji	
+BSP	BSP:s2	subst:sg:acc:n:ncol	nazwa organizacji	
 BSP	BSP:s2	subst:sg:dat:f	nazwa organizacji	
-BSP	BSP:s2	subst:sg:dat:n2	nazwa organizacji	
+BSP	BSP:s2	subst:sg:dat:n:ncol	nazwa organizacji	
 BSP	BSP:s2	subst:sg:gen:f	nazwa organizacji	
-BSP	BSP:s2	subst:sg:gen:n2	nazwa organizacji	
+BSP	BSP:s2	subst:sg:gen:n:ncol	nazwa organizacji	
 BSP	BSP:s2	subst:sg:inst:f	nazwa organizacji	
-BSP	BSP:s2	subst:sg:inst:n2	nazwa organizacji	
+BSP	BSP:s2	subst:sg:inst:n:ncol	nazwa organizacji	
 BSP	BSP:s2	subst:sg:loc:f	nazwa organizacji	
-BSP	BSP:s2	subst:sg:loc:n2	nazwa organizacji	
+BSP	BSP:s2	subst:sg:loc:n:ncol	nazwa organizacji	
 BSP	BSP:s2	subst:sg:nom:f	nazwa organizacji	
-BSP	BSP:s2	subst:sg:nom:n2	nazwa organizacji	
+BSP	BSP:s2	subst:sg:nom:n:ncol	nazwa organizacji	
 BSP	BSP:s2	subst:sg:voc:f	nazwa organizacji	
-BSP	BSP:s2	subst:sg:voc:n2	nazwa organizacji	
+BSP	BSP:s2	subst:sg:voc:n:ncol	nazwa organizacji	
 BSR-ach	BSR	subst:pl:loc:m3	nazwa firmy	
 BSR-ami	BSR	subst:pl:inst:m3	nazwa firmy	
 BSR	BSR	subst:sg:acc:m3	nazwa firmy	
@@ -12144,20 +12144,20 @@ Budryków	Budryk	subst:pl:acc:m1	nazwisko
 Budryków	Budryk	subst:pl:gen:m1	nazwisko	
 Budryku	Budryk	subst:sg:loc:m1	nazwisko	
 Budryku	Budryk	subst:sg:voc:m1	nazwisko	
-Budziejowicach	Budziejowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Budziejowicach	Budziejowice	subst:pl:loc:p3	nazwa geograficzna	
-Budziejowicami	Budziejowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Budziejowicami	Budziejowice	subst:pl:inst:p3	nazwa geograficzna	
-Budziejowic	Budziejowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Budziejowic	Budziejowice	subst:pl:gen:p3	nazwa geograficzna	
-Budziejowice	Budziejowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Budziejowice	Budziejowice	subst:pl:acc:p3	nazwa geograficzna	
-Budziejowice	Budziejowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Budziejowice	Budziejowice	subst:pl:nom:p3	nazwa geograficzna	
-Budziejowice	Budziejowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Budziejowice	Budziejowice	subst:pl:voc:p3	nazwa geograficzna	
-Budziejowicom	Budziejowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Budziejowicom	Budziejowice	subst:pl:dat:p3	nazwa geograficzna	
+Budziejowicach	Budziejowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Budziejowicach	Budziejowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Budziejowicami	Budziejowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Budziejowicami	Budziejowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Budziejowic	Budziejowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Budziejowic	Budziejowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Budziejowice	Budziejowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Budziejowice	Budziejowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Budziejowice	Budziejowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Budziejowice	Budziejowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Budziejowice	Budziejowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Budziejowice	Budziejowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Budziejowicom	Budziejowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Budziejowicom	Budziejowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Budzigniewa	Budzigniew	subst:sg:acc:m1	imię	
 Budzigniewa	Budzigniew	subst:sg:gen:m1	imię	
 Budzigniewach	Budzigniew	subst:pl:loc:m1	imię	
@@ -12365,20 +12365,20 @@ Budzyniu	Budzyń	subst:sg:voc:m3	nazwa geograficzna
 Budzyń	Budzyń	subst:sg:acc:m3	nazwa geograficzna	
 Budzyń	Budzyń	subst:sg:nom:m3	nazwa geograficzna	
 Buenos	Buenos	burk		
-Buffalo	Buffalo:s1	subst:pl:acc:n2	nazwa geograficzna	
-Buffalo	Buffalo:s1	subst:pl:dat:n2	nazwa geograficzna	
-Buffalo	Buffalo:s1	subst:pl:gen:n2	nazwa geograficzna	
-Buffalo	Buffalo:s1	subst:pl:inst:n2	nazwa geograficzna	
-Buffalo	Buffalo:s1	subst:pl:loc:n2	nazwa geograficzna	
-Buffalo	Buffalo:s1	subst:pl:nom:n2	nazwa geograficzna	
-Buffalo	Buffalo:s1	subst:pl:voc:n2	nazwa geograficzna	
-Buffalo	Buffalo:s1	subst:sg:acc:n2	nazwa geograficzna	
-Buffalo	Buffalo:s1	subst:sg:dat:n2	nazwa geograficzna	
-Buffalo	Buffalo:s1	subst:sg:gen:n2	nazwa geograficzna	
-Buffalo	Buffalo:s1	subst:sg:inst:n2	nazwa geograficzna	
-Buffalo	Buffalo:s1	subst:sg:loc:n2	nazwa geograficzna	
-Buffalo	Buffalo:s1	subst:sg:nom:n2	nazwa geograficzna	
-Buffalo	Buffalo:s1	subst:sg:voc:n2	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:pl:acc:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:pl:nom:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:pl:voc:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:sg:acc:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:sg:nom:n:ncol	nazwa geograficzna	
+Buffalo	Buffalo:s1	subst:sg:voc:n:ncol	nazwa geograficzna	
 Buffalo	Buffalo:s2	depr:pl:nom:m2	człon przydomka	
 Buffalo	Buffalo:s2	depr:pl:voc:m2	człon przydomka	
 Buffalo	Buffalo:s2	subst:pl:acc:m1	człon przydomka	
@@ -12608,22 +12608,22 @@ Bukowcu	Bukowiec	subst:sg:loc:m3	nazwa geograficzna
 Bukowcu	Bukowiec	subst:sg:voc:m3	nazwa geograficzna	
 Bukowiec	Bukowiec	subst:sg:acc:m3	nazwa geograficzna	
 Bukowiec	Bukowiec	subst:sg:nom:m3	nazwa geograficzna	
-Bukowa	Bukowo	subst:pl:acc:n2	nazwa geograficzna	
-Bukowa	Bukowo	subst:pl:nom:n2	nazwa geograficzna	
-Bukowa	Bukowo	subst:pl:voc:n2	nazwa geograficzna	
-Bukowa	Bukowo	subst:sg:gen:n2	nazwa geograficzna	
-Bukowach	Bukowo	subst:pl:loc:n2	nazwa geograficzna	
-Bukowami	Bukowo	subst:pl:inst:n2	nazwa geograficzna	
-Bukow	Bukowo	subst:pl:gen:n2	nazwa geograficzna	
-Bukowem	Bukowo	subst:sg:inst:n2	nazwa geograficzna	
-Bukowie	Bukowo	subst:sg:loc:n2	nazwa geograficzna	
-Bukowo	Bukowo	subst:sg:acc:n2	nazwa geograficzna	
-Bukowo	Bukowo	subst:sg:nom:n2	nazwa geograficzna	
-Bukowo	Bukowo	subst:sg:voc:n2	nazwa geograficzna	
-Bukowom	Bukowo	subst:pl:dat:n2	nazwa geograficzna	
-Bukowów	Bukowo	subst:pl:gen:n2	nazwa geograficzna	
-Bukowu	Bukowo	subst:sg:dat:n2	nazwa geograficzna	
-Buków	Bukowo	subst:pl:gen:n2	nazwa geograficzna	
+Bukowa	Bukowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bukowa	Bukowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bukowa	Bukowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bukowa	Bukowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bukowach	Bukowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bukowami	Bukowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bukow	Bukowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bukowem	Bukowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bukowie	Bukowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bukowo	Bukowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bukowo	Bukowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bukowo	Bukowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Bukowom	Bukowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bukowów	Bukowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bukowu	Bukowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Buków	Bukowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Bukowscy	Bukowski	subst:pl:nom:m1	nazwisko	
 Bukowscy	Bukowski	subst:pl:voc:m1	nazwisko	
 Bukowski	Bukowski	subst:sg:nom:m1	nazwisko	
@@ -12640,36 +12640,36 @@ Bukowskim	Bukowski	subst:pl:dat:m1	nazwisko
 Bukowskim	Bukowski	subst:sg:inst:m1	nazwisko	
 Bukowskim	Bukowski	subst:sg:loc:m1	nazwisko	
 Bukowskimi	Bukowski	subst:pl:inst:m1	nazwisko	
-Bukowska	Bukowsko	subst:pl:acc:n2	nazwa geograficzna	
-Bukowska	Bukowsko	subst:pl:nom:n2	nazwa geograficzna	
-Bukowska	Bukowsko	subst:pl:voc:n2	nazwa geograficzna	
-Bukowska	Bukowsko	subst:sg:gen:n2	nazwa geograficzna	
-Bukowskach	Bukowsko	subst:pl:loc:n2	nazwa geograficzna	
-Bukowskami	Bukowsko	subst:pl:inst:n2	nazwa geograficzna	
-Bukowsk	Bukowsko	subst:pl:gen:n2	nazwa geograficzna	
-Bukowskiem	Bukowsko	subst:sg:inst:n2	nazwa geograficzna	
-Bukowsko	Bukowsko	subst:sg:acc:n2	nazwa geograficzna	
-Bukowsko	Bukowsko	subst:sg:nom:n2	nazwa geograficzna	
-Bukowsko	Bukowsko	subst:sg:voc:n2	nazwa geograficzna	
-Bukowskom	Bukowsko	subst:pl:dat:n2	nazwa geograficzna	
-Bukowsku	Bukowsko	subst:sg:dat:n2	nazwa geograficzna	
-Bukowsku	Bukowsko	subst:sg:loc:n2	nazwa geograficzna	
-Bulkowa	Bulkowo	subst:pl:acc:n2	nazwa geograficzna	
-Bulkowa	Bulkowo	subst:pl:nom:n2	nazwa geograficzna	
-Bulkowa	Bulkowo	subst:pl:voc:n2	nazwa geograficzna	
-Bulkowa	Bulkowo	subst:sg:gen:n2	nazwa geograficzna	
-Bulkowach	Bulkowo	subst:pl:loc:n2	nazwa geograficzna	
-Bulkowami	Bulkowo	subst:pl:inst:n2	nazwa geograficzna	
-Bulkow	Bulkowo	subst:pl:gen:n2	nazwa geograficzna	
-Bulkowem	Bulkowo	subst:sg:inst:n2	nazwa geograficzna	
-Bulkowie	Bulkowo	subst:sg:loc:n2	nazwa geograficzna	
-Bulkowo	Bulkowo	subst:sg:acc:n2	nazwa geograficzna	
-Bulkowo	Bulkowo	subst:sg:nom:n2	nazwa geograficzna	
-Bulkowo	Bulkowo	subst:sg:voc:n2	nazwa geograficzna	
-Bulkowom	Bulkowo	subst:pl:dat:n2	nazwa geograficzna	
-Bulkowów	Bulkowo	subst:pl:gen:n2	nazwa geograficzna	
-Bulkowu	Bulkowo	subst:sg:dat:n2	nazwa geograficzna	
-Bulków	Bulkowo	subst:pl:gen:n2	nazwa geograficzna	
+Bukowska	Bukowsko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bukowska	Bukowsko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bukowska	Bukowsko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bukowska	Bukowsko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bukowskach	Bukowsko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bukowskami	Bukowsko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bukowsk	Bukowsko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bukowskiem	Bukowsko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bukowsko	Bukowsko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bukowsko	Bukowsko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bukowsko	Bukowsko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Bukowskom	Bukowsko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bukowsku	Bukowsko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bukowsku	Bukowsko	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bulkowa	Bulkowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bulkowa	Bulkowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bulkowa	Bulkowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bulkowa	Bulkowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bulkowach	Bulkowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bulkowami	Bulkowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Bulkow	Bulkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bulkowem	Bulkowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bulkowie	Bulkowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bulkowo	Bulkowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bulkowo	Bulkowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bulkowo	Bulkowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Bulkowom	Bulkowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bulkowów	Bulkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bulkowu	Bulkowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bulków	Bulkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Bullocka	Bullock	subst:sg:acc:m1	nazwisko	
 Bullocka	Bullock	subst:sg:gen:m1	nazwisko	
 Bullockach	Bullock	subst:pl:loc:m1	nazwisko	
@@ -13013,20 +13013,20 @@ Burchardy	Burchard	depr:pl:nom:m2	imię
 Burchardy	Burchard	depr:pl:voc:m2	imię	
 Burchardzie	Burchard	subst:sg:loc:m1	imię	
 Burchardzie	Burchard	subst:sg:voc:m1	imię	
-Burgas	Burgas	subst:pl:acc:n2	nazwa geograficzna	
-Burgas	Burgas	subst:pl:dat:n2	nazwa geograficzna	
-Burgas	Burgas	subst:pl:gen:n2	nazwa geograficzna	
-Burgas	Burgas	subst:pl:inst:n2	nazwa geograficzna	
-Burgas	Burgas	subst:pl:loc:n2	nazwa geograficzna	
-Burgas	Burgas	subst:pl:nom:n2	nazwa geograficzna	
-Burgas	Burgas	subst:pl:voc:n2	nazwa geograficzna	
-Burgas	Burgas	subst:sg:acc:n2	nazwa geograficzna	
-Burgas	Burgas	subst:sg:dat:n2	nazwa geograficzna	
-Burgas	Burgas	subst:sg:gen:n2	nazwa geograficzna	
-Burgas	Burgas	subst:sg:inst:n2	nazwa geograficzna	
-Burgas	Burgas	subst:sg:loc:n2	nazwa geograficzna	
-Burgas	Burgas	subst:sg:nom:n2	nazwa geograficzna	
-Burgas	Burgas	subst:sg:voc:n2	nazwa geograficzna	
+Burgas	Burgas	subst:pl:acc:n:ncol	nazwa geograficzna	
+Burgas	Burgas	subst:pl:dat:n:ncol	nazwa geograficzna	
+Burgas	Burgas	subst:pl:gen:n:ncol	nazwa geograficzna	
+Burgas	Burgas	subst:pl:inst:n:ncol	nazwa geograficzna	
+Burgas	Burgas	subst:pl:loc:n:ncol	nazwa geograficzna	
+Burgas	Burgas	subst:pl:nom:n:ncol	nazwa geograficzna	
+Burgas	Burgas	subst:pl:voc:n:ncol	nazwa geograficzna	
+Burgas	Burgas	subst:sg:acc:n:ncol	nazwa geograficzna	
+Burgas	Burgas	subst:sg:dat:n:ncol	nazwa geograficzna	
+Burgas	Burgas	subst:sg:gen:n:ncol	nazwa geograficzna	
+Burgas	Burgas	subst:sg:inst:n:ncol	nazwa geograficzna	
+Burgas	Burgas	subst:sg:loc:n:ncol	nazwa geograficzna	
+Burgas	Burgas	subst:sg:nom:n:ncol	nazwa geograficzna	
+Burgas	Burgas	subst:sg:voc:n:ncol	nazwa geograficzna	
 Burgunda	Burgund	subst:sg:acc:m1	nazwa pospolita	
 Burgunda	Burgund	subst:sg:gen:m1	nazwa pospolita	
 Burgundach	Burgund	subst:pl:loc:m1	nazwa pospolita	
@@ -13277,20 +13277,20 @@ Bushów	Bush	subst:pl:acc:m1	nazwisko
 Bushów	Bush	subst:pl:gen:m1	nazwisko	
 Bushu	Bush	subst:sg:loc:m1	nazwisko	
 Bushu	Bush	subst:sg:voc:m1	nazwisko	
-Buska	Busko	subst:pl:acc:n2	nazwa geograficzna	
-Buska	Busko	subst:pl:nom:n2	nazwa geograficzna	
-Buska	Busko	subst:pl:voc:n2	nazwa geograficzna	
-Buska	Busko	subst:sg:gen:n2	nazwa geograficzna	
-Buskach	Busko	subst:pl:loc:n2	nazwa geograficzna	
-Buskami	Busko	subst:pl:inst:n2	nazwa geograficzna	
-Busk	Busko	subst:pl:gen:n2	nazwa geograficzna	
-Buskiem	Busko	subst:sg:inst:n2	nazwa geograficzna	
-Busko	Busko	subst:sg:acc:n2	nazwa geograficzna	
-Busko	Busko	subst:sg:nom:n2	nazwa geograficzna	
-Busko	Busko	subst:sg:voc:n2	nazwa geograficzna	
-Buskom	Busko	subst:pl:dat:n2	nazwa geograficzna	
-Busku	Busko	subst:sg:dat:n2	nazwa geograficzna	
-Busku	Busko	subst:sg:loc:n2	nazwa geograficzna	
+Buska	Busko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Buska	Busko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Buska	Busko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Buska	Busko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Buskach	Busko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Buskami	Busko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Busk	Busko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Buskiem	Busko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Busko	Busko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Busko	Busko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Busko	Busko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Buskom	Busko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Busku	Busko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Busku	Busko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Buszmana	Buszman	subst:sg:acc:m1	nazwa pospolita	
 Buszmana	Buszman	subst:sg:gen:m1	nazwa pospolita	
 Buszmanach	Buszman	subst:pl:loc:m1	nazwa pospolita	
@@ -13462,79 +13462,79 @@ Bużanom	Bużanin	subst:pl:dat:m1	nazwa pospolita
 Bużany	Bużanin	depr:pl:nom:m2	nazwa pospolita	
 Bużany	Bużanin	depr:pl:voc:m2	nazwa pospolita	
 BW	BW	subst:pl:acc:m3	nazwa firmy	
-BW	BW	subst:pl:acc:n2	nazwa firmy	
+BW	BW	subst:pl:acc:n:ncol	nazwa firmy	
 BW	BW	subst:pl:dat:m3	nazwa firmy	
-BW	BW	subst:pl:dat:n2	nazwa firmy	
+BW	BW	subst:pl:dat:n:ncol	nazwa firmy	
 BW	BW	subst:pl:gen:m3	nazwa firmy	
-BW	BW	subst:pl:gen:n2	nazwa firmy	
+BW	BW	subst:pl:gen:n:ncol	nazwa firmy	
 BW	BW	subst:pl:inst:m3	nazwa firmy	
-BW	BW	subst:pl:inst:n2	nazwa firmy	
+BW	BW	subst:pl:inst:n:ncol	nazwa firmy	
 BW	BW	subst:pl:loc:m3	nazwa firmy	
-BW	BW	subst:pl:loc:n2	nazwa firmy	
+BW	BW	subst:pl:loc:n:ncol	nazwa firmy	
 BW	BW	subst:pl:nom:m3	nazwa firmy	
-BW	BW	subst:pl:nom:n2	nazwa firmy	
+BW	BW	subst:pl:nom:n:ncol	nazwa firmy	
 BW	BW	subst:pl:voc:m3	nazwa firmy	
-BW	BW	subst:pl:voc:n2	nazwa firmy	
+BW	BW	subst:pl:voc:n:ncol	nazwa firmy	
 BW	BW	subst:sg:acc:m3	nazwa firmy	
-BW	BW	subst:sg:acc:n2	nazwa firmy	
+BW	BW	subst:sg:acc:n:ncol	nazwa firmy	
 BW	BW	subst:sg:dat:m3	nazwa firmy	
-BW	BW	subst:sg:dat:n2	nazwa firmy	
+BW	BW	subst:sg:dat:n:ncol	nazwa firmy	
 BW	BW	subst:sg:gen:m3	nazwa firmy	
-BW	BW	subst:sg:gen:n2	nazwa firmy	
+BW	BW	subst:sg:gen:n:ncol	nazwa firmy	
 BW	BW	subst:sg:inst:m3	nazwa firmy	
-BW	BW	subst:sg:inst:n2	nazwa firmy	
+BW	BW	subst:sg:inst:n:ncol	nazwa firmy	
 BW	BW	subst:sg:loc:m3	nazwa firmy	
-BW	BW	subst:sg:loc:n2	nazwa firmy	
+BW	BW	subst:sg:loc:n:ncol	nazwa firmy	
 BW	BW	subst:sg:nom:m3	nazwa firmy	
-BW	BW	subst:sg:nom:n2	nazwa firmy	
+BW	BW	subst:sg:nom:n:ncol	nazwa firmy	
 BW	BW	subst:sg:voc:m3	nazwa firmy	
-BW	BW	subst:sg:voc:n2	nazwa firmy	
+BW	BW	subst:sg:voc:n:ncol	nazwa firmy	
 BWE	BWE	subst:pl:acc:m3	nazwa firmy	
-BWE	BWE	subst:pl:acc:n2	nazwa firmy	
+BWE	BWE	subst:pl:acc:n:ncol	nazwa firmy	
 BWE	BWE	subst:pl:dat:m3	nazwa firmy	
-BWE	BWE	subst:pl:dat:n2	nazwa firmy	
+BWE	BWE	subst:pl:dat:n:ncol	nazwa firmy	
 BWE	BWE	subst:pl:gen:m3	nazwa firmy	
-BWE	BWE	subst:pl:gen:n2	nazwa firmy	
+BWE	BWE	subst:pl:gen:n:ncol	nazwa firmy	
 BWE	BWE	subst:pl:inst:m3	nazwa firmy	
-BWE	BWE	subst:pl:inst:n2	nazwa firmy	
+BWE	BWE	subst:pl:inst:n:ncol	nazwa firmy	
 BWE	BWE	subst:pl:loc:m3	nazwa firmy	
-BWE	BWE	subst:pl:loc:n2	nazwa firmy	
+BWE	BWE	subst:pl:loc:n:ncol	nazwa firmy	
 BWE	BWE	subst:pl:nom:m3	nazwa firmy	
-BWE	BWE	subst:pl:nom:n2	nazwa firmy	
+BWE	BWE	subst:pl:nom:n:ncol	nazwa firmy	
 BWE	BWE	subst:pl:voc:m3	nazwa firmy	
-BWE	BWE	subst:pl:voc:n2	nazwa firmy	
+BWE	BWE	subst:pl:voc:n:ncol	nazwa firmy	
 BWE	BWE	subst:sg:acc:m3	nazwa firmy	
-BWE	BWE	subst:sg:acc:n2	nazwa firmy	
+BWE	BWE	subst:sg:acc:n:ncol	nazwa firmy	
 BWE	BWE	subst:sg:dat:m3	nazwa firmy	
-BWE	BWE	subst:sg:dat:n2	nazwa firmy	
+BWE	BWE	subst:sg:dat:n:ncol	nazwa firmy	
 BWE	BWE	subst:sg:gen:m3	nazwa firmy	
-BWE	BWE	subst:sg:gen:n2	nazwa firmy	
+BWE	BWE	subst:sg:gen:n:ncol	nazwa firmy	
 BWE	BWE	subst:sg:inst:m3	nazwa firmy	
-BWE	BWE	subst:sg:inst:n2	nazwa firmy	
+BWE	BWE	subst:sg:inst:n:ncol	nazwa firmy	
 BWE	BWE	subst:sg:loc:m3	nazwa firmy	
-BWE	BWE	subst:sg:loc:n2	nazwa firmy	
+BWE	BWE	subst:sg:loc:n:ncol	nazwa firmy	
 BWE	BWE	subst:sg:nom:m3	nazwa firmy	
-BWE	BWE	subst:sg:nom:n2	nazwa firmy	
+BWE	BWE	subst:sg:nom:n:ncol	nazwa firmy	
 BWE	BWE	subst:sg:voc:m3	nazwa firmy	
-BWE	BWE	subst:sg:voc:n2	nazwa firmy	
+BWE	BWE	subst:sg:voc:n:ncol	nazwa firmy	
 BWZ-ach	BWZ	subst:pl:loc:m3	nazwa instytucji	
 BWZ-ami	BWZ	subst:pl:inst:m3	nazwa instytucji	
-BWZ	BWZ	subst:pl:acc:n2	nazwa instytucji	
-BWZ	BWZ	subst:pl:dat:n2	nazwa instytucji	
-BWZ	BWZ	subst:pl:gen:n2	nazwa instytucji	
-BWZ	BWZ	subst:pl:inst:n2	nazwa instytucji	
-BWZ	BWZ	subst:pl:loc:n2	nazwa instytucji	
-BWZ	BWZ	subst:pl:nom:n2	nazwa instytucji	
-BWZ	BWZ	subst:pl:voc:n2	nazwa instytucji	
+BWZ	BWZ	subst:pl:acc:n:ncol	nazwa instytucji	
+BWZ	BWZ	subst:pl:dat:n:ncol	nazwa instytucji	
+BWZ	BWZ	subst:pl:gen:n:ncol	nazwa instytucji	
+BWZ	BWZ	subst:pl:inst:n:ncol	nazwa instytucji	
+BWZ	BWZ	subst:pl:loc:n:ncol	nazwa instytucji	
+BWZ	BWZ	subst:pl:nom:n:ncol	nazwa instytucji	
+BWZ	BWZ	subst:pl:voc:n:ncol	nazwa instytucji	
 BWZ	BWZ	subst:sg:acc:m3	nazwa instytucji	
-BWZ	BWZ	subst:sg:acc:n2	nazwa instytucji	
-BWZ	BWZ	subst:sg:dat:n2	nazwa instytucji	
-BWZ	BWZ	subst:sg:gen:n2	nazwa instytucji	
-BWZ	BWZ	subst:sg:inst:n2	nazwa instytucji	
-BWZ	BWZ	subst:sg:loc:n2	nazwa instytucji	
+BWZ	BWZ	subst:sg:acc:n:ncol	nazwa instytucji	
+BWZ	BWZ	subst:sg:dat:n:ncol	nazwa instytucji	
+BWZ	BWZ	subst:sg:gen:n:ncol	nazwa instytucji	
+BWZ	BWZ	subst:sg:inst:n:ncol	nazwa instytucji	
+BWZ	BWZ	subst:sg:loc:n:ncol	nazwa instytucji	
 BWZ	BWZ	subst:sg:nom:m3	nazwa instytucji	
-BWZ	BWZ	subst:sg:nom:n2	nazwa instytucji	
-BWZ	BWZ	subst:sg:voc:n2	nazwa instytucji	
+BWZ	BWZ	subst:sg:nom:n:ncol	nazwa instytucji	
+BWZ	BWZ	subst:sg:voc:n:ncol	nazwa instytucji	
 BWZ-ecie	BWZ	subst:sg:loc:m3	nazwa instytucji	
 BWZ-ecie	BWZ	subst:sg:voc:m3	nazwa instytucji	
 BWZ-em	BWZ	subst:sg:inst:m3	nazwa instytucji	
@@ -13555,20 +13555,20 @@ BWZ-u	BWZ	subst:sg:gen:m3	nazwa instytucji
 BWZ-y	BWZ	subst:pl:acc:m3	nazwa instytucji	
 BWZ-y	BWZ	subst:pl:nom:m3	nazwa instytucji	
 BWZ-y	BWZ	subst:pl:voc:m3	nazwa instytucji	
-Bydgoskich	Bydgoskie	subst:pl:gen:n2	nazwa geograficzna	
-Bydgoskich	Bydgoskie	subst:pl:loc:n2	nazwa geograficzna	
-Bydgoskie	Bydgoskie	subst:pl:acc:n2	nazwa geograficzna	
-Bydgoskie	Bydgoskie	subst:pl:nom:n2	nazwa geograficzna	
-Bydgoskie	Bydgoskie	subst:pl:voc:n2	nazwa geograficzna	
-Bydgoskie	Bydgoskie	subst:sg:acc:n2	nazwa geograficzna	
-Bydgoskie	Bydgoskie	subst:sg:nom:n2	nazwa geograficzna	
-Bydgoskie	Bydgoskie	subst:sg:voc:n2	nazwa geograficzna	
-Bydgoskiego	Bydgoskie	subst:sg:gen:n2	nazwa geograficzna	
-Bydgoskiem	Bydgoskie	subst:sg:inst:n2	nazwa geograficzna	
-Bydgoskiem	Bydgoskie	subst:sg:loc:n2	nazwa geograficzna	
-Bydgoskiemu	Bydgoskie	subst:sg:dat:n2	nazwa geograficzna	
-Bydgoskim	Bydgoskie	subst:pl:dat:n2	nazwa geograficzna	
-Bydgoskimi	Bydgoskie	subst:pl:inst:n2	nazwa geograficzna	
+Bydgoskich	Bydgoskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Bydgoskich	Bydgoskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Bydgoskie	Bydgoskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Bydgoskie	Bydgoskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Bydgoskie	Bydgoskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Bydgoskie	Bydgoskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Bydgoskie	Bydgoskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Bydgoskie	Bydgoskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Bydgoskiego	Bydgoskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Bydgoskiem	Bydgoskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Bydgoskiem	Bydgoskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Bydgoskiemu	Bydgoskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Bydgoskim	Bydgoskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Bydgoskimi	Bydgoskie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Bydgoszczach	Bydgoszcz	subst:pl:loc:f	nazwa geograficzna	
 Bydgoszczami	Bydgoszcz	subst:pl:inst:f	nazwa geograficzna	
 Bydgoszczą	Bydgoszcz	subst:sg:inst:f	nazwa geograficzna	

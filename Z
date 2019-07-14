@@ -73,20 +73,20 @@ Zabłockim	Zabłocki	subst:sg:inst:m1	nazwisko
 Zabłockim	Zabłocki	subst:sg:loc:m1	nazwisko	
 Zabłocki	Zabłocki	subst:sg:nom:m1	nazwisko	
 Zabłocki	Zabłocki	subst:sg:voc:m1	nazwisko	
-Zabłociec	Zabłotce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Zabłociec	Zabłotce	subst:pl:gen:p3	nazwa geograficzna	
-Zabłotcach	Zabłotce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Zabłotcach	Zabłotce	subst:pl:loc:p3	nazwa geograficzna	
-Zabłotcami	Zabłotce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Zabłotcami	Zabłotce	subst:pl:inst:p3	nazwa geograficzna	
-Zabłotce	Zabłotce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Zabłotce	Zabłotce	subst:pl:acc:p3	nazwa geograficzna	
-Zabłotce	Zabłotce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Zabłotce	Zabłotce	subst:pl:nom:p3	nazwa geograficzna	
-Zabłotce	Zabłotce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Zabłotce	Zabłotce	subst:pl:voc:p3	nazwa geograficzna	
-Zabłotcom	Zabłotce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Zabłotcom	Zabłotce	subst:pl:dat:p3	nazwa geograficzna	
+Zabłociec	Zabłotce	subst:pl:gen:n:pt	nazwa geograficzna	
+Zabłociec	Zabłotce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Zabłotcach	Zabłotce	subst:pl:loc:n:pt	nazwa geograficzna	
+Zabłotcach	Zabłotce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Zabłotcami	Zabłotce	subst:pl:inst:n:pt	nazwa geograficzna	
+Zabłotcami	Zabłotce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Zabłotce	Zabłotce	subst:pl:acc:n:pt	nazwa geograficzna	
+Zabłotce	Zabłotce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Zabłotce	Zabłotce	subst:pl:nom:n:pt	nazwa geograficzna	
+Zabłotce	Zabłotce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Zabłotce	Zabłotce	subst:pl:voc:n:pt	nazwa geograficzna	
+Zabłotce	Zabłotce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Zabłotcom	Zabłotce	subst:pl:dat:n:pt	nazwa geograficzna	
+Zabłotcom	Zabłotce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Zabłotna	Zabłotna	subst:sg:nom:f	nazwisko	
 Zabłotna	Zabłotna	subst:sg:voc:f	nazwisko	
 Zabłotną	Zabłotna	subst:sg:acc:f	nazwisko	
@@ -207,20 +207,20 @@ Zaborowy	Zaborów	subst:pl:nom:m3	nazwa geograficzna
 Zaborowy	Zaborów	subst:pl:voc:m3	nazwa geograficzna	
 Zaborów	Zaborów	subst:sg:acc:m3	nazwa geograficzna	
 Zaborów	Zaborów	subst:sg:nom:m3	nazwa geograficzna	
-Zabrzach	Zabrze	subst:pl:loc:n2	nazwa geograficzna	
-Zabrzami	Zabrze	subst:pl:inst:n2	nazwa geograficzna	
-Zabrza	Zabrze	subst:pl:acc:n2	nazwa geograficzna	
-Zabrza	Zabrze	subst:pl:nom:n2	nazwa geograficzna	
-Zabrza	Zabrze	subst:pl:voc:n2	nazwa geograficzna	
-Zabrza	Zabrze	subst:sg:gen:n2	nazwa geograficzna	
-Zabrzem	Zabrze	subst:sg:inst:n2	nazwa geograficzna	
-Zabrze	Zabrze	subst:sg:acc:n2	nazwa geograficzna	
-Zabrze	Zabrze	subst:sg:nom:n2	nazwa geograficzna	
-Zabrze	Zabrze	subst:sg:voc:n2	nazwa geograficzna	
-Zabrzom	Zabrze	subst:pl:dat:n2	nazwa geograficzna	
-Zabrzu	Zabrze	subst:sg:dat:n2	nazwa geograficzna	
-Zabrzu	Zabrze	subst:sg:loc:n2	nazwa geograficzna	
-Zabrzy	Zabrze	subst:pl:gen:n2	nazwa geograficzna	
+Zabrzach	Zabrze	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zabrzami	Zabrze	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zabrza	Zabrze	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zabrza	Zabrze	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zabrza	Zabrze	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zabrza	Zabrze	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zabrzem	Zabrze	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zabrze	Zabrze	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zabrze	Zabrze	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zabrze	Zabrze	subst:sg:voc:n:ncol	nazwa geograficzna	
+Zabrzom	Zabrze	subst:pl:dat:n:ncol	nazwa geograficzna	
+Zabrzu	Zabrze	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zabrzu	Zabrze	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zabrzy	Zabrze	subst:pl:gen:n:ncol	nazwa geograficzna	
 Zachariaszach	Zachariasz	subst:pl:loc:m1	imię	
 Zachariaszami	Zachariasz	subst:pl:inst:m1	imię	
 Zachariasza	Zachariasz	subst:sg:acc:m1	imię	
@@ -363,13 +363,13 @@ Zadury	Zadura	depr:pl:voc:m2	nazwisko
 Zadury	Zadura	subst:sg:gen:m1	nazwisko	
 Zadurze	Zadura	subst:sg:dat:m1	nazwisko	
 Zadurze	Zadura	subst:sg:loc:m1	nazwisko	
-Zaduszek	Zaduszki	subst:pl:gen:p3	nazwa święta	rel.
-Zaduszkach	Zaduszki	subst:pl:loc:p3	nazwa święta	rel.
-Zaduszkami	Zaduszki	subst:pl:inst:p3	nazwa święta	rel.
-Zaduszki	Zaduszki	subst:pl:acc:p3	nazwa święta	rel.
-Zaduszki	Zaduszki	subst:pl:nom:p3	nazwa święta	rel.
-Zaduszki	Zaduszki	subst:pl:voc:p3	nazwa święta	rel.
-Zaduszkom	Zaduszki	subst:pl:dat:p3	nazwa święta	rel.
+Zaduszek	Zaduszki	subst:pl:gen:n:pt	nazwa święta	rel.
+Zaduszkach	Zaduszki	subst:pl:loc:n:pt	nazwa święta	rel.
+Zaduszkami	Zaduszki	subst:pl:inst:n:pt	nazwa święta	rel.
+Zaduszki	Zaduszki	subst:pl:acc:n:pt	nazwa święta	rel.
+Zaduszki	Zaduszki	subst:pl:nom:n:pt	nazwa święta	rel.
+Zaduszki	Zaduszki	subst:pl:voc:n:pt	nazwa święta	rel.
+Zaduszkom	Zaduszki	subst:pl:dat:n:pt	nazwa święta	rel.
 Zadzimiach	Zadzim	subst:pl:loc:m3	nazwa geograficzna	
 Zadzimiami	Zadzim	subst:pl:inst:m3	nazwa geograficzna	
 Zadzimia	Zadzim	subst:sg:gen:m3	nazwa geograficzna	
@@ -639,20 +639,20 @@ Zajkowskim	Zajkowski	subst:sg:inst:m1	nazwisko
 Zajkowskim	Zajkowski	subst:sg:loc:m1	nazwisko	
 Zajkowski	Zajkowski	subst:sg:nom:m1	nazwisko	
 Zajkowski	Zajkowski	subst:sg:voc:m1	nazwisko	
-Zakaukaziach	Zakaukazie	subst:pl:loc:n2	nazwa geograficzna	
-Zakaukaziami	Zakaukazie	subst:pl:inst:n2	nazwa geograficzna	
-Zakaukazia	Zakaukazie	subst:pl:acc:n2	nazwa geograficzna	
-Zakaukazia	Zakaukazie	subst:pl:nom:n2	nazwa geograficzna	
-Zakaukazia	Zakaukazie	subst:pl:voc:n2	nazwa geograficzna	
-Zakaukazia	Zakaukazie	subst:sg:gen:n2	nazwa geograficzna	
-Zakaukaziem	Zakaukazie	subst:sg:inst:n2	nazwa geograficzna	
-Zakaukazie	Zakaukazie	subst:sg:acc:n2	nazwa geograficzna	
-Zakaukazie	Zakaukazie	subst:sg:nom:n2	nazwa geograficzna	
-Zakaukazie	Zakaukazie	subst:sg:voc:n2	nazwa geograficzna	
-Zakaukaziom	Zakaukazie	subst:pl:dat:n2	nazwa geograficzna	
-Zakaukaziu	Zakaukazie	subst:sg:dat:n2	nazwa geograficzna	
-Zakaukaziu	Zakaukazie	subst:sg:loc:n2	nazwa geograficzna	
-Zakaukazi	Zakaukazie	subst:pl:gen:n2	nazwa geograficzna	
+Zakaukaziach	Zakaukazie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zakaukaziami	Zakaukazie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zakaukazia	Zakaukazie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zakaukazia	Zakaukazie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zakaukazia	Zakaukazie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zakaukazia	Zakaukazie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zakaukaziem	Zakaukazie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zakaukazie	Zakaukazie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zakaukazie	Zakaukazie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zakaukazie	Zakaukazie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Zakaukaziom	Zakaukazie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Zakaukaziu	Zakaukazie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zakaukaziu	Zakaukazie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zakaukazi	Zakaukazie	subst:pl:gen:n:ncol	nazwa geograficzna	
 Zakliczynach	Zakliczyn	subst:pl:loc:m3	nazwa geograficzna	
 Zakliczynami	Zakliczyn	subst:pl:inst:m3	nazwa geograficzna	
 Zakliczyna	Zakliczyn	subst:sg:gen:m3	nazwa geograficzna	
@@ -682,20 +682,20 @@ Zaklikowy	Zaklików	subst:pl:nom:m3	nazwa geograficzna
 Zaklikowy	Zaklików	subst:pl:voc:m3	nazwa geograficzna	
 Zaklików	Zaklików	subst:sg:acc:m3	nazwa geograficzna	
 Zaklików	Zaklików	subst:sg:nom:m3	nazwa geograficzna	
-Zakopanego	Zakopane	subst:sg:gen:n2	nazwa geograficzna	
-Zakopanemu	Zakopane	subst:sg:dat:n2	nazwa geograficzna	
-Zakopanem	Zakopane	subst:sg:inst:n2	nazwa geograficzna	
-Zakopanem	Zakopane	subst:sg:loc:n2	nazwa geograficzna	
-Zakopane	Zakopane	subst:pl:acc:n2	nazwa geograficzna	
-Zakopane	Zakopane	subst:pl:nom:n2	nazwa geograficzna	
-Zakopane	Zakopane	subst:pl:voc:n2	nazwa geograficzna	
-Zakopane	Zakopane	subst:sg:acc:n2	nazwa geograficzna	
-Zakopane	Zakopane	subst:sg:nom:n2	nazwa geograficzna	
-Zakopane	Zakopane	subst:sg:voc:n2	nazwa geograficzna	
-Zakopanych	Zakopane	subst:pl:gen:n2	nazwa geograficzna	
-Zakopanych	Zakopane	subst:pl:loc:n2	nazwa geograficzna	
-Zakopanymi	Zakopane	subst:pl:inst:n2	nazwa geograficzna	
-Zakopanym	Zakopane	subst:pl:dat:n2	nazwa geograficzna	
+Zakopanego	Zakopane	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zakopanemu	Zakopane	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zakopanem	Zakopane	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zakopanem	Zakopane	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zakopane	Zakopane	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zakopane	Zakopane	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zakopane	Zakopane	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zakopane	Zakopane	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zakopane	Zakopane	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zakopane	Zakopane	subst:sg:voc:n:ncol	nazwa geograficzna	
+Zakopanych	Zakopane	subst:pl:gen:n:ncol	nazwa geograficzna	
+Zakopanych	Zakopane	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zakopanymi	Zakopane	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zakopanym	Zakopane	subst:pl:dat:n:ncol	nazwa geograficzna	
 Zakościelna	Zakościelna	subst:sg:nom:f	nazwisko	
 Zakościelna	Zakościelna	subst:sg:voc:f	nazwisko	
 Zakościelną	Zakościelna	subst:sg:acc:f	nazwisko	
@@ -741,20 +741,20 @@ Zakroczymiu	Zakroczym	subst:sg:voc:m3	nazwa geograficzna
 Zakroczymi	Zakroczym	subst:pl:gen:m3	nazwa geograficzna	
 Zakroczym	Zakroczym	subst:sg:acc:m3	nazwa geograficzna	
 Zakroczym	Zakroczym	subst:sg:nom:m3	nazwa geograficzna	
-Zakrzewach	Zakrzewo	subst:pl:loc:n2	nazwa geograficzna	
-Zakrzewami	Zakrzewo	subst:pl:inst:n2	nazwa geograficzna	
-Zakrzewa	Zakrzewo	subst:pl:acc:n2	nazwa geograficzna	
-Zakrzewa	Zakrzewo	subst:pl:nom:n2	nazwa geograficzna	
-Zakrzewa	Zakrzewo	subst:pl:voc:n2	nazwa geograficzna	
-Zakrzewa	Zakrzewo	subst:sg:gen:n2	nazwa geograficzna	
-Zakrzewem	Zakrzewo	subst:sg:inst:n2	nazwa geograficzna	
-Zakrzewie	Zakrzewo	subst:sg:loc:n2	nazwa geograficzna	
-Zakrzewom	Zakrzewo	subst:pl:dat:n2	nazwa geograficzna	
-Zakrzewo	Zakrzewo	subst:sg:acc:n2	nazwa geograficzna	
-Zakrzewo	Zakrzewo	subst:sg:nom:n2	nazwa geograficzna	
-Zakrzewo	Zakrzewo	subst:sg:voc:n2	nazwa geograficzna	
-Zakrzewu	Zakrzewo	subst:sg:dat:n2	nazwa geograficzna	
-Zakrzew	Zakrzewo	subst:pl:gen:n2	nazwa geograficzna	
+Zakrzewach	Zakrzewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zakrzewami	Zakrzewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zakrzewa	Zakrzewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zakrzewa	Zakrzewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zakrzewa	Zakrzewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zakrzewa	Zakrzewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zakrzewem	Zakrzewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zakrzewie	Zakrzewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zakrzewom	Zakrzewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Zakrzewo	Zakrzewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zakrzewo	Zakrzewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zakrzewo	Zakrzewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Zakrzewu	Zakrzewo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zakrzew	Zakrzewo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Zakrzewska	Zakrzewska	subst:sg:nom:f	nazwisko	
 Zakrzewska	Zakrzewska	subst:sg:voc:f	nazwisko	
 Zakrzewską	Zakrzewska	subst:sg:acc:f	nazwisko	
@@ -860,20 +860,20 @@ Zaleśnym	Zaleśny	subst:sg:inst:m1	nazwisko
 Zaleśnym	Zaleśny	subst:sg:loc:m1	nazwisko	
 Zaleśny	Zaleśny	subst:sg:nom:m1	nazwisko	
 Zaleśny	Zaleśny	subst:sg:voc:m1	nazwisko	
-Zalewach	Zalewo	subst:pl:loc:n2	nazwa geograficzna	
-Zalewami	Zalewo	subst:pl:inst:n2	nazwa geograficzna	
-Zalewa	Zalewo	subst:pl:acc:n2	nazwa geograficzna	
-Zalewa	Zalewo	subst:pl:nom:n2	nazwa geograficzna	
-Zalewa	Zalewo	subst:pl:voc:n2	nazwa geograficzna	
-Zalewa	Zalewo	subst:sg:gen:n2	nazwa geograficzna	
-Zalewem	Zalewo	subst:sg:inst:n2	nazwa geograficzna	
-Zalewie	Zalewo	subst:sg:loc:n2	nazwa geograficzna	
-Zalewom	Zalewo	subst:pl:dat:n2	nazwa geograficzna	
-Zalewo	Zalewo	subst:sg:acc:n2	nazwa geograficzna	
-Zalewo	Zalewo	subst:sg:nom:n2	nazwa geograficzna	
-Zalewo	Zalewo	subst:sg:voc:n2	nazwa geograficzna	
-Zalewu	Zalewo	subst:sg:dat:n2	nazwa geograficzna	
-Zalew	Zalewo	subst:pl:gen:n2	nazwa geograficzna	
+Zalewach	Zalewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zalewami	Zalewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zalewa	Zalewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zalewa	Zalewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zalewa	Zalewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zalewa	Zalewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zalewem	Zalewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zalewie	Zalewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zalewom	Zalewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Zalewo	Zalewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zalewo	Zalewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zalewo	Zalewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Zalewu	Zalewo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zalew	Zalewo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Zalewska	Zalewska	subst:sg:nom:f	nazwisko	
 Zalewska	Zalewska	subst:sg:voc:f	nazwisko	
 Zalewską	Zalewska	subst:sg:acc:f	nazwisko	
@@ -964,20 +964,20 @@ Załęskim	Załęski	subst:sg:inst:m1	nazwisko
 Załęskim	Załęski	subst:sg:loc:m1	nazwisko	
 Załęski	Załęski	subst:sg:nom:m1	nazwisko	
 Załęski	Załęski	subst:sg:voc:m1	nazwisko	
-Załężach	Załęże	subst:pl:loc:n2	nazwa geograficzna	
-Załężami	Załęże	subst:pl:inst:n2	nazwa geograficzna	
-Załęża	Załęże	subst:pl:acc:n2	nazwa geograficzna	
-Załęża	Załęże	subst:pl:nom:n2	nazwa geograficzna	
-Załęża	Załęże	subst:pl:voc:n2	nazwa geograficzna	
-Załęża	Załęże	subst:sg:gen:n2	nazwa geograficzna	
-Załężem	Załęże	subst:sg:inst:n2	nazwa geograficzna	
-Załęże	Załęże	subst:sg:acc:n2	nazwa geograficzna	
-Załęże	Załęże	subst:sg:nom:n2	nazwa geograficzna	
-Załęże	Załęże	subst:sg:voc:n2	nazwa geograficzna	
-Załężom	Załęże	subst:pl:dat:n2	nazwa geograficzna	
-Załężu	Załęże	subst:sg:dat:n2	nazwa geograficzna	
-Załężu	Załęże	subst:sg:loc:n2	nazwa geograficzna	
-Załęży	Załęże	subst:pl:gen:n2	nazwa geograficzna	
+Załężach	Załęże	subst:pl:loc:n:ncol	nazwa geograficzna	
+Załężami	Załęże	subst:pl:inst:n:ncol	nazwa geograficzna	
+Załęża	Załęże	subst:pl:acc:n:ncol	nazwa geograficzna	
+Załęża	Załęże	subst:pl:nom:n:ncol	nazwa geograficzna	
+Załęża	Załęże	subst:pl:voc:n:ncol	nazwa geograficzna	
+Załęża	Załęże	subst:sg:gen:n:ncol	nazwa geograficzna	
+Załężem	Załęże	subst:sg:inst:n:ncol	nazwa geograficzna	
+Załęże	Załęże	subst:sg:acc:n:ncol	nazwa geograficzna	
+Załęże	Załęże	subst:sg:nom:n:ncol	nazwa geograficzna	
+Załęże	Załęże	subst:sg:voc:n:ncol	nazwa geograficzna	
+Załężom	Załęże	subst:pl:dat:n:ncol	nazwa geograficzna	
+Załężu	Załęże	subst:sg:dat:n:ncol	nazwa geograficzna	
+Załężu	Załęże	subst:sg:loc:n:ncol	nazwa geograficzna	
+Załęży	Załęże	subst:pl:gen:n:ncol	nazwa geograficzna	
 Załuska	Załuska:s1	subst:sg:nom:f	nazwisko	
 Załuska	Załuska:s1	subst:sg:voc:f	nazwisko	
 Załuską	Załuska:s1	subst:sg:acc:f	nazwisko	
@@ -1144,20 +1144,20 @@ Zamojskim	Zamojski	subst:sg:inst:m1	nazwisko
 Zamojskim	Zamojski	subst:sg:loc:m1	nazwisko	
 Zamojski	Zamojski	subst:sg:nom:m1	nazwisko	
 Zamojski	Zamojski	subst:sg:voc:m1	nazwisko	
-Zamojskich	Zamojskie	subst:pl:gen:n2	nazwa geograficzna	
-Zamojskich	Zamojskie	subst:pl:loc:n2	nazwa geograficzna	
-Zamojskiego	Zamojskie	subst:sg:gen:n2	nazwa geograficzna	
-Zamojskiemu	Zamojskie	subst:sg:dat:n2	nazwa geograficzna	
-Zamojskiem	Zamojskie	subst:sg:inst:n2	nazwa geograficzna	
-Zamojskiem	Zamojskie	subst:sg:loc:n2	nazwa geograficzna	
-Zamojskie	Zamojskie	subst:pl:acc:n2	nazwa geograficzna	
-Zamojskie	Zamojskie	subst:pl:nom:n2	nazwa geograficzna	
-Zamojskie	Zamojskie	subst:pl:voc:n2	nazwa geograficzna	
-Zamojskie	Zamojskie	subst:sg:acc:n2	nazwa geograficzna	
-Zamojskie	Zamojskie	subst:sg:nom:n2	nazwa geograficzna	
-Zamojskie	Zamojskie	subst:sg:voc:n2	nazwa geograficzna	
-Zamojskimi	Zamojskie	subst:pl:inst:n2	nazwa geograficzna	
-Zamojskim	Zamojskie	subst:pl:dat:n2	nazwa geograficzna	
+Zamojskich	Zamojskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Zamojskich	Zamojskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zamojskiego	Zamojskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zamojskiemu	Zamojskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zamojskiem	Zamojskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zamojskiem	Zamojskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zamojskie	Zamojskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zamojskie	Zamojskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zamojskie	Zamojskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zamojskie	Zamojskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zamojskie	Zamojskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zamojskie	Zamojskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Zamojskimi	Zamojskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zamojskim	Zamojskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Zamościach	Zamość	subst:pl:loc:m3	nazwa geograficzna	
 Zamościami	Zamość	subst:pl:inst:m3	nazwa geograficzna	
 Zamościa	Zamość	subst:sg:gen:m3	nazwa geograficzna	
@@ -1265,34 +1265,34 @@ Zanzibar	Zanzibar	subst:sg:acc:m3	nazwa geograficzna
 Zanzibar	Zanzibar	subst:sg:nom:m3	nazwa geograficzna	
 Zanzibarze	Zanzibar	subst:sg:loc:m3	nazwa geograficzna	
 Zanzibarze	Zanzibar	subst:sg:voc:m3	nazwa geograficzna	
-Zaodrzach	Zaodrze	subst:pl:loc:n2	nazwa geograficzna	
-Zaodrzami	Zaodrze	subst:pl:inst:n2	nazwa geograficzna	
-Zaodrza	Zaodrze	subst:pl:acc:n2	nazwa geograficzna	
-Zaodrza	Zaodrze	subst:pl:nom:n2	nazwa geograficzna	
-Zaodrza	Zaodrze	subst:pl:voc:n2	nazwa geograficzna	
-Zaodrza	Zaodrze	subst:sg:gen:n2	nazwa geograficzna	
-Zaodrzem	Zaodrze	subst:sg:inst:n2	nazwa geograficzna	
-Zaodrze	Zaodrze	subst:sg:acc:n2	nazwa geograficzna	
-Zaodrze	Zaodrze	subst:sg:nom:n2	nazwa geograficzna	
-Zaodrze	Zaodrze	subst:sg:voc:n2	nazwa geograficzna	
-Zaodrzom	Zaodrze	subst:pl:dat:n2	nazwa geograficzna	
-Zaodrzu	Zaodrze	subst:sg:dat:n2	nazwa geograficzna	
-Zaodrzu	Zaodrze	subst:sg:loc:n2	nazwa geograficzna	
-Zaodrzy	Zaodrze	subst:pl:gen:n2	nazwa geograficzna	
-Zaolziach	Zaolzie	subst:pl:loc:n2	nazwa geograficzna	
-Zaolziami	Zaolzie	subst:pl:inst:n2	nazwa geograficzna	
-Zaolzia	Zaolzie	subst:pl:acc:n2	nazwa geograficzna	
-Zaolzia	Zaolzie	subst:pl:nom:n2	nazwa geograficzna	
-Zaolzia	Zaolzie	subst:pl:voc:n2	nazwa geograficzna	
-Zaolzia	Zaolzie	subst:sg:gen:n2	nazwa geograficzna	
-Zaolziem	Zaolzie	subst:sg:inst:n2	nazwa geograficzna	
-Zaolzie	Zaolzie	subst:sg:acc:n2	nazwa geograficzna	
-Zaolzie	Zaolzie	subst:sg:nom:n2	nazwa geograficzna	
-Zaolzie	Zaolzie	subst:sg:voc:n2	nazwa geograficzna	
-Zaolziom	Zaolzie	subst:pl:dat:n2	nazwa geograficzna	
-Zaolziu	Zaolzie	subst:sg:dat:n2	nazwa geograficzna	
-Zaolziu	Zaolzie	subst:sg:loc:n2	nazwa geograficzna	
-Zaolzi	Zaolzie	subst:pl:gen:n2	nazwa geograficzna	
+Zaodrzach	Zaodrze	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zaodrzami	Zaodrze	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zaodrza	Zaodrze	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zaodrza	Zaodrze	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zaodrza	Zaodrze	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zaodrza	Zaodrze	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zaodrzem	Zaodrze	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zaodrze	Zaodrze	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zaodrze	Zaodrze	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zaodrze	Zaodrze	subst:sg:voc:n:ncol	nazwa geograficzna	
+Zaodrzom	Zaodrze	subst:pl:dat:n:ncol	nazwa geograficzna	
+Zaodrzu	Zaodrze	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zaodrzu	Zaodrze	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zaodrzy	Zaodrze	subst:pl:gen:n:ncol	nazwa geograficzna	
+Zaolziach	Zaolzie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zaolziami	Zaolzie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zaolzia	Zaolzie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zaolzia	Zaolzie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zaolzia	Zaolzie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zaolzia	Zaolzie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zaolziem	Zaolzie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zaolzie	Zaolzie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zaolzie	Zaolzie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zaolzie	Zaolzie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Zaolziom	Zaolzie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Zaolziu	Zaolzie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zaolziu	Zaolzie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zaolzi	Zaolzie	subst:pl:gen:n:ncol	nazwa geograficzna	
 Zaorska	Zaorska	subst:sg:nom:f	nazwisko	
 Zaorska	Zaorska	subst:sg:voc:f	nazwisko	
 Zaorską	Zaorska	subst:sg:acc:f	nazwisko	
@@ -1323,20 +1323,20 @@ Zaorskim	Zaorski	subst:sg:inst:m1	nazwisko
 Zaorskim	Zaorski	subst:sg:loc:m1	nazwisko	
 Zaorski	Zaorski	subst:sg:nom:m1	nazwisko	
 Zaorski	Zaorski	subst:sg:voc:m1	nazwisko	
-Zapolicach	Zapolice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Zapolicach	Zapolice	subst:pl:loc:p3	nazwa geograficzna	
-Zapolicami	Zapolice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Zapolicami	Zapolice	subst:pl:inst:p3	nazwa geograficzna	
-Zapolice	Zapolice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Zapolice	Zapolice	subst:pl:acc:p3	nazwa geograficzna	
-Zapolice	Zapolice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Zapolice	Zapolice	subst:pl:nom:p3	nazwa geograficzna	
-Zapolice	Zapolice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Zapolice	Zapolice	subst:pl:voc:p3	nazwa geograficzna	
-Zapolicom	Zapolice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Zapolicom	Zapolice	subst:pl:dat:p3	nazwa geograficzna	
-Zapolic	Zapolice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Zapolic	Zapolice	subst:pl:gen:p3	nazwa geograficzna	
+Zapolicach	Zapolice	subst:pl:loc:n:pt	nazwa geograficzna	
+Zapolicach	Zapolice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Zapolicami	Zapolice	subst:pl:inst:n:pt	nazwa geograficzna	
+Zapolicami	Zapolice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Zapolice	Zapolice	subst:pl:acc:n:pt	nazwa geograficzna	
+Zapolice	Zapolice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Zapolice	Zapolice	subst:pl:nom:n:pt	nazwa geograficzna	
+Zapolice	Zapolice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Zapolice	Zapolice	subst:pl:voc:n:pt	nazwa geograficzna	
+Zapolice	Zapolice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Zapolicom	Zapolice	subst:pl:dat:n:pt	nazwa geograficzna	
+Zapolicom	Zapolice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Zapolic	Zapolice	subst:pl:gen:n:pt	nazwa geograficzna	
+Zapolic	Zapolice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Zapolska	Zapolska	subst:sg:nom:f	nazwisko	
 Zapolska	Zapolska	subst:sg:voc:f	nazwisko	
 Zapolską	Zapolska	subst:sg:acc:f	nazwisko	
@@ -1383,20 +1383,20 @@ Zápolyowie	Zápolya	subst:pl:voc:m1	nazwisko
 Zápolyo	Zápolya	subst:sg:voc:m1	nazwisko	
 Zápolyów	Zápolya	subst:pl:acc:m1	nazwisko	
 Zápolyów	Zápolya	subst:pl:gen:m1	nazwisko	
-Zaporożach	Zaporoże	subst:pl:loc:n2	nazwa geograficzna	
-Zaporożami	Zaporoże	subst:pl:inst:n2	nazwa geograficzna	
-Zaporoża	Zaporoże	subst:pl:acc:n2	nazwa geograficzna	
-Zaporoża	Zaporoże	subst:pl:nom:n2	nazwa geograficzna	
-Zaporoża	Zaporoże	subst:pl:voc:n2	nazwa geograficzna	
-Zaporoża	Zaporoże	subst:sg:gen:n2	nazwa geograficzna	
-Zaporożem	Zaporoże	subst:sg:inst:n2	nazwa geograficzna	
-Zaporoże	Zaporoże	subst:sg:acc:n2	nazwa geograficzna	
-Zaporoże	Zaporoże	subst:sg:nom:n2	nazwa geograficzna	
-Zaporoże	Zaporoże	subst:sg:voc:n2	nazwa geograficzna	
-Zaporożom	Zaporoże	subst:pl:dat:n2	nazwa geograficzna	
-Zaporożu	Zaporoże	subst:sg:dat:n2	nazwa geograficzna	
-Zaporożu	Zaporoże	subst:sg:loc:n2	nazwa geograficzna	
-Zaporoży	Zaporoże	subst:pl:gen:n2	nazwa geograficzna	
+Zaporożach	Zaporoże	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zaporożami	Zaporoże	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zaporoża	Zaporoże	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zaporoża	Zaporoże	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zaporoża	Zaporoże	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zaporoża	Zaporoże	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zaporożem	Zaporoże	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zaporoże	Zaporoże	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zaporoże	Zaporoże	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zaporoże	Zaporoże	subst:sg:voc:n:ncol	nazwa geograficzna	
+Zaporożom	Zaporoże	subst:pl:dat:n:ncol	nazwa geograficzna	
+Zaporożu	Zaporoże	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zaporożu	Zaporoże	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zaporoży	Zaporoże	subst:pl:gen:n:ncol	nazwa geograficzna	
 Zaporożcach	Zaporożec	subst:pl:loc:m1	nazwa pospolita	
 Zaporożcami	Zaporożec	subst:pl:inst:m1	nazwa pospolita	
 Zaporożca	Zaporożec	subst:sg:acc:m1	nazwa pospolita	
@@ -1567,20 +1567,20 @@ Zarszyny	Zarszyn	subst:pl:nom:m3	nazwa geograficzna
 Zarszyny	Zarszyn	subst:pl:voc:m3	nazwa geograficzna	
 Zarszyn	Zarszyn	subst:sg:acc:m3	nazwa geograficzna	
 Zarszyn	Zarszyn	subst:sg:nom:m3	nazwa geograficzna	
-Zarytego	Zaryte	subst:sg:gen:n2	nazwa geograficzna	
-Zarytemu	Zaryte	subst:sg:dat:n2	nazwa geograficzna	
-Zarytem	Zaryte	subst:sg:inst:n2	nazwa geograficzna	
-Zarytem	Zaryte	subst:sg:loc:n2	nazwa geograficzna	
-Zaryte	Zaryte	subst:pl:acc:n2	nazwa geograficzna	
-Zaryte	Zaryte	subst:pl:nom:n2	nazwa geograficzna	
-Zaryte	Zaryte	subst:pl:voc:n2	nazwa geograficzna	
-Zaryte	Zaryte	subst:sg:acc:n2	nazwa geograficzna	
-Zaryte	Zaryte	subst:sg:nom:n2	nazwa geograficzna	
-Zaryte	Zaryte	subst:sg:voc:n2	nazwa geograficzna	
-Zarytych	Zaryte	subst:pl:gen:n2	nazwa geograficzna	
-Zarytych	Zaryte	subst:pl:loc:n2	nazwa geograficzna	
-Zarytymi	Zaryte	subst:pl:inst:n2	nazwa geograficzna	
-Zarytym	Zaryte	subst:pl:dat:n2	nazwa geograficzna	
+Zarytego	Zaryte	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zarytemu	Zaryte	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zarytem	Zaryte	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zarytem	Zaryte	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zaryte	Zaryte	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zaryte	Zaryte	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zaryte	Zaryte	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zaryte	Zaryte	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zaryte	Zaryte	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zaryte	Zaryte	subst:sg:voc:n:ncol	nazwa geograficzna	
+Zarytych	Zaryte	subst:pl:gen:n:ncol	nazwa geograficzna	
+Zarytych	Zaryte	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zarytymi	Zaryte	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zarytym	Zaryte	subst:pl:dat:n:ncol	nazwa geograficzna	
 Zarzece	Zarzeka	subst:sg:dat:f	nazwa geograficzna	
 Zarzece	Zarzeka	subst:sg:loc:f	nazwa geograficzna	
 Zarzekach	Zarzeka	subst:pl:loc:f	nazwa geograficzna	
@@ -1791,20 +1791,20 @@ Zawadzkim	Zawadzki	subst:sg:inst:m1	nazwisko
 Zawadzkim	Zawadzki	subst:sg:loc:m1	nazwisko	
 Zawadzki	Zawadzki	subst:sg:nom:m1	nazwisko	
 Zawadzki	Zawadzki	subst:sg:voc:m1	nazwisko	
-Zawadzkich	Zawadzkie	subst:pl:gen:n2	nazwa geograficzna	
-Zawadzkich	Zawadzkie	subst:pl:loc:n2	nazwa geograficzna	
-Zawadzkiego	Zawadzkie	subst:sg:gen:n2	nazwa geograficzna	
-Zawadzkiemu	Zawadzkie	subst:sg:dat:n2	nazwa geograficzna	
-Zawadzkiem	Zawadzkie	subst:sg:inst:n2	nazwa geograficzna	
-Zawadzkiem	Zawadzkie	subst:sg:loc:n2	nazwa geograficzna	
-Zawadzkie	Zawadzkie	subst:pl:acc:n2	nazwa geograficzna	
-Zawadzkie	Zawadzkie	subst:pl:nom:n2	nazwa geograficzna	
-Zawadzkie	Zawadzkie	subst:pl:voc:n2	nazwa geograficzna	
-Zawadzkie	Zawadzkie	subst:sg:acc:n2	nazwa geograficzna	
-Zawadzkie	Zawadzkie	subst:sg:nom:n2	nazwa geograficzna	
-Zawadzkie	Zawadzkie	subst:sg:voc:n2	nazwa geograficzna	
-Zawadzkimi	Zawadzkie	subst:pl:inst:n2	nazwa geograficzna	
-Zawadzkim	Zawadzkie	subst:pl:dat:n2	nazwa geograficzna	
+Zawadzkich	Zawadzkie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Zawadzkich	Zawadzkie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zawadzkiego	Zawadzkie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zawadzkiemu	Zawadzkie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zawadzkiem	Zawadzkie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zawadzkiem	Zawadzkie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zawadzkie	Zawadzkie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zawadzkie	Zawadzkie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zawadzkie	Zawadzkie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zawadzkie	Zawadzkie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zawadzkie	Zawadzkie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zawadzkie	Zawadzkie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Zawadzkimi	Zawadzkie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zawadzkim	Zawadzkie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Zawichostach	Zawichost	subst:pl:loc:m3	nazwa geograficzna	
 Zawichostami	Zawichost	subst:pl:inst:m3	nazwa geograficzna	
 Zawichostem	Zawichost	subst:sg:inst:m3	nazwa geograficzna	
@@ -1910,20 +1910,20 @@ Zawraty	Zawrat	subst:pl:nom:m3	nazwa geograficzna
 Zawraty	Zawrat	subst:pl:voc:m3	nazwa geograficzna	
 Zawrat	Zawrat	subst:sg:acc:m3	nazwa geograficzna	
 Zawrat	Zawrat	subst:sg:nom:m3	nazwa geograficzna	
-Ząbkowicach	Ząbkowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Ząbkowicach	Ząbkowice	subst:pl:loc:p3	nazwa geograficzna	
-Ząbkowicami	Ząbkowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Ząbkowicami	Ząbkowice	subst:pl:inst:p3	nazwa geograficzna	
-Ząbkowice	Ząbkowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Ząbkowice	Ząbkowice	subst:pl:acc:p3	nazwa geograficzna	
-Ząbkowice	Ząbkowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Ząbkowice	Ząbkowice	subst:pl:nom:p3	nazwa geograficzna	
-Ząbkowice	Ząbkowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Ząbkowice	Ząbkowice	subst:pl:voc:p3	nazwa geograficzna	
-Ząbkowicom	Ząbkowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Ząbkowicom	Ząbkowice	subst:pl:dat:p3	nazwa geograficzna	
-Ząbkowic	Ząbkowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Ząbkowic	Ząbkowice	subst:pl:gen:p3	nazwa geograficzna	
+Ząbkowicach	Ząbkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Ząbkowicach	Ząbkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ząbkowicami	Ząbkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Ząbkowicami	Ząbkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ząbkowice	Ząbkowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Ząbkowice	Ząbkowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Ząbkowice	Ząbkowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Ząbkowice	Ząbkowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Ząbkowice	Ząbkowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Ząbkowice	Ząbkowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Ząbkowicom	Ząbkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Ząbkowicom	Ząbkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ząbkowic	Ząbkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Ząbkowic	Ząbkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Zbarażach	Zbaraż	subst:pl:loc:m3	nazwa geograficzna	
 Zbarażami	Zbaraż	subst:pl:inst:m3	nazwa geograficzna	
 Zbaraża	Zbaraż	subst:sg:gen:m3	nazwa geograficzna	
@@ -1970,20 +1970,20 @@ Zbigniewów	Zbigniew	subst:pl:gen:m1	imię
 Zbigniewy	Zbigniew	depr:pl:nom:m2	imię	
 Zbigniewy	Zbigniew	depr:pl:voc:m2	imię	
 Zbigniew	Zbigniew	subst:sg:nom:m1	imię	
-Zblewach	Zblewo	subst:pl:loc:n2	nazwa geograficzna	
-Zblewami	Zblewo	subst:pl:inst:n2	nazwa geograficzna	
-Zblewa	Zblewo	subst:pl:acc:n2	nazwa geograficzna	
-Zblewa	Zblewo	subst:pl:nom:n2	nazwa geograficzna	
-Zblewa	Zblewo	subst:pl:voc:n2	nazwa geograficzna	
-Zblewa	Zblewo	subst:sg:gen:n2	nazwa geograficzna	
-Zblewem	Zblewo	subst:sg:inst:n2	nazwa geograficzna	
-Zblewie	Zblewo	subst:sg:loc:n2	nazwa geograficzna	
-Zblewom	Zblewo	subst:pl:dat:n2	nazwa geograficzna	
-Zblewo	Zblewo	subst:sg:acc:n2	nazwa geograficzna	
-Zblewo	Zblewo	subst:sg:nom:n2	nazwa geograficzna	
-Zblewo	Zblewo	subst:sg:voc:n2	nazwa geograficzna	
-Zblewu	Zblewo	subst:sg:dat:n2	nazwa geograficzna	
-Zblew	Zblewo	subst:pl:gen:n2	nazwa geograficzna	
+Zblewach	Zblewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zblewami	Zblewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zblewa	Zblewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zblewa	Zblewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zblewa	Zblewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zblewa	Zblewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zblewem	Zblewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zblewie	Zblewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zblewom	Zblewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Zblewo	Zblewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zblewo	Zblewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zblewo	Zblewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Zblewu	Zblewo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zblew	Zblewo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Zborowska	Zborowska	subst:sg:nom:f	nazwisko	
 Zborowska	Zborowska	subst:sg:voc:f	nazwisko	
 Zborowską	Zborowska	subst:sg:acc:f	nazwisko	
@@ -2078,20 +2078,20 @@ Zbrosławów	Zbrosław	subst:pl:gen:m1	imię
 Zbrosławy	Zbrosław	depr:pl:nom:m2	imię	
 Zbrosławy	Zbrosław	depr:pl:voc:m2	imię	
 Zbrosław	Zbrosław	subst:sg:nom:m1	imię	
-Zbrosławicach	Zbrosławice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Zbrosławicach	Zbrosławice	subst:pl:loc:p3	nazwa geograficzna	
-Zbrosławicami	Zbrosławice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Zbrosławicami	Zbrosławice	subst:pl:inst:p3	nazwa geograficzna	
-Zbrosławice	Zbrosławice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Zbrosławice	Zbrosławice	subst:pl:acc:p3	nazwa geograficzna	
-Zbrosławice	Zbrosławice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Zbrosławice	Zbrosławice	subst:pl:nom:p3	nazwa geograficzna	
-Zbrosławice	Zbrosławice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Zbrosławice	Zbrosławice	subst:pl:voc:p3	nazwa geograficzna	
-Zbrosławicom	Zbrosławice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Zbrosławicom	Zbrosławice	subst:pl:dat:p3	nazwa geograficzna	
-Zbrosławic	Zbrosławice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Zbrosławic	Zbrosławice	subst:pl:gen:p3	nazwa geograficzna	
+Zbrosławicach	Zbrosławice	subst:pl:loc:n:pt	nazwa geograficzna	
+Zbrosławicach	Zbrosławice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Zbrosławicami	Zbrosławice	subst:pl:inst:n:pt	nazwa geograficzna	
+Zbrosławicami	Zbrosławice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Zbrosławice	Zbrosławice	subst:pl:acc:n:pt	nazwa geograficzna	
+Zbrosławice	Zbrosławice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Zbrosławice	Zbrosławice	subst:pl:nom:n:pt	nazwa geograficzna	
+Zbrosławice	Zbrosławice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Zbrosławice	Zbrosławice	subst:pl:voc:n:pt	nazwa geograficzna	
+Zbrosławice	Zbrosławice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Zbrosławicom	Zbrosławice	subst:pl:dat:n:pt	nazwa geograficzna	
+Zbrosławicom	Zbrosławice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Zbrosławic	Zbrosławice	subst:pl:gen:n:pt	nazwa geograficzna	
+Zbrosławic	Zbrosławice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Zbruczach	Zbrucz	subst:pl:loc:m3	nazwa geograficzna	
 Zbruczach	Zbrucz	subst:pl:loc:m3	nazwa geograficzna	rzad.
 Zbruczami	Zbrucz	subst:pl:inst:m3	nazwa geograficzna	
@@ -2354,43 +2354,43 @@ ZChN-u	ZChN	subst:sg:gen:m3	nazwa organizacji
 ZChN-y	ZChN	subst:pl:acc:m3	nazwa organizacji	
 ZChN-y	ZChN	subst:pl:nom:m3	nazwa organizacji	
 ZChN-y	ZChN	subst:pl:voc:m3	nazwa organizacji	
-ZChN	ZChN	subst:pl:acc:n2	nazwa organizacji	pot.
-ZChN	ZChN	subst:pl:dat:n2	nazwa organizacji	pot.
-ZChN	ZChN	subst:pl:gen:n2	nazwa organizacji	pot.
-ZChN	ZChN	subst:pl:inst:n2	nazwa organizacji	pot.
-ZChN	ZChN	subst:pl:loc:n2	nazwa organizacji	pot.
-ZChN	ZChN	subst:pl:nom:n2	nazwa organizacji	pot.
-ZChN	ZChN	subst:pl:voc:n2	nazwa organizacji	pot.
+ZChN	ZChN	subst:pl:acc:n:ncol	nazwa organizacji	pot.
+ZChN	ZChN	subst:pl:dat:n:ncol	nazwa organizacji	pot.
+ZChN	ZChN	subst:pl:gen:n:ncol	nazwa organizacji	pot.
+ZChN	ZChN	subst:pl:inst:n:ncol	nazwa organizacji	pot.
+ZChN	ZChN	subst:pl:loc:n:ncol	nazwa organizacji	pot.
+ZChN	ZChN	subst:pl:nom:n:ncol	nazwa organizacji	pot.
+ZChN	ZChN	subst:pl:voc:n:ncol	nazwa organizacji	pot.
 ZChN	ZChN	subst:sg:acc:m3	nazwa organizacji	
-ZChN	ZChN	subst:sg:acc:n2	nazwa organizacji	pot.
-ZChN	ZChN	subst:sg:dat:n2	nazwa organizacji	pot.
-ZChN	ZChN	subst:sg:gen:n2	nazwa organizacji	pot.
-ZChN	ZChN	subst:sg:inst:n2	nazwa organizacji	pot.
-ZChN	ZChN	subst:sg:loc:n2	nazwa organizacji	pot.
+ZChN	ZChN	subst:sg:acc:n:ncol	nazwa organizacji	pot.
+ZChN	ZChN	subst:sg:dat:n:ncol	nazwa organizacji	pot.
+ZChN	ZChN	subst:sg:gen:n:ncol	nazwa organizacji	pot.
+ZChN	ZChN	subst:sg:inst:n:ncol	nazwa organizacji	pot.
+ZChN	ZChN	subst:sg:loc:n:ncol	nazwa organizacji	pot.
 ZChN	ZChN	subst:sg:nom:m3	nazwa organizacji	
-ZChN	ZChN	subst:sg:nom:n2	nazwa organizacji	pot.
-ZChN	ZChN	subst:sg:voc:n2	nazwa organizacji	pot.
-ZChN-owscy	ZChN-owski	adj:pl:nom.voc:m1.p1:pos		
+ZChN	ZChN	subst:sg:nom:n:ncol	nazwa organizacji	pot.
+ZChN	ZChN	subst:sg:voc:n:ncol	nazwa organizacji	pot.
+ZChN-owscy	ZChN-owski	adj:pl:nom.voc:m1:pos		
 ZChN-owska	ZChN-owski	adj:sg:nom.voc:f:pos		
 ZChN-owską	ZChN-owski	adj:sg:acc:f:pos		
 ZChN-owską	ZChN-owski	adj:sg:inst:f:pos		
-ZChN-owskich	ZChN-owski	adj:pl:acc:m1.p1:pos		
-ZChN-owskich	ZChN-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ZChN-owskich	ZChN-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+ZChN-owskich	ZChN-owski	adj:pl:acc:m1:pos		
+ZChN-owskich	ZChN-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+ZChN-owskich	ZChN-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
 ZChN-owskiego	ZChN-owski	adj:sg:acc:m1.m2:pos		
-ZChN-owskiego	ZChN-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+ZChN-owskiego	ZChN-owski	adj:sg:gen:m1.m2.m3.n:pos		
 ZChN-owskiej	ZChN-owski	adj:sg:dat:f:pos		
 ZChN-owskiej	ZChN-owski	adj:sg:gen:f:pos		
 ZChN-owskiej	ZChN-owski	adj:sg:loc:f:pos		
-ZChN-owskiemu	ZChN-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-ZChN-owskie	ZChN-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-ZChN-owskie	ZChN-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-ZChN-owskie	ZChN-owski	adj:sg:acc:n1.n2:pos		
-ZChN-owskie	ZChN-owski	adj:sg:nom.voc:n1.n2:pos		
-ZChN-owskimi	ZChN-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ZChN-owskim	ZChN-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ZChN-owskim	ZChN-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-ZChN-owskim	ZChN-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+ZChN-owskiemu	ZChN-owski	adj:sg:dat:m1.m2.m3.n:pos		
+ZChN-owskie	ZChN-owski	adj:pl:acc:m2.m3.f.n:pos		
+ZChN-owskie	ZChN-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+ZChN-owskie	ZChN-owski	adj:sg:acc:n:pos		
+ZChN-owskie	ZChN-owski	adj:sg:nom.voc:n:pos		
+ZChN-owskimi	ZChN-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
+ZChN-owskim	ZChN-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+ZChN-owskim	ZChN-owski	adj:sg:inst:m1.m2.m3.n:pos		
+ZChN-owskim	ZChN-owski	adj:sg:loc:m1.m2.m3.n:pos		
 ZChN-owski	ZChN-owski	adj:sg:acc:m3:pos		
 ZChN-owski	ZChN-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 ZChN-owsko	ZChN-owski	adja		
@@ -2488,27 +2488,27 @@ Zdrojewskim	Zdrojewski	subst:sg:inst:m1	nazwisko
 Zdrojewskim	Zdrojewski	subst:sg:loc:m1	nazwisko	
 Zdrojewski	Zdrojewski	subst:sg:nom:m1	nazwisko	
 Zdrojewski	Zdrojewski	subst:sg:voc:m1	nazwisko	
-Zdunach	Zduny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Zdunach	Zduny	subst:pl:loc:p3	nazwa geograficzna	
-Zdunami	Zduny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Zdunami	Zduny	subst:pl:inst:p3	nazwa geograficzna	
-Zdunom	Zduny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Zdunom	Zduny	subst:pl:dat:p3	nazwa geograficzna	
-Zduny	Zduny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Zduny	Zduny	subst:pl:acc:p3	nazwa geograficzna	
-Zduny	Zduny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Zduny	Zduny	subst:pl:nom:p3	nazwa geograficzna	
-Zduny	Zduny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Zduny	Zduny	subst:pl:voc:p3	nazwa geograficzna	
-Zdun	Zduny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Zdun	Zduny	subst:pl:gen:p3	nazwa geograficzna	
-Z-dach	Z-dy	subst:pl:loc:p3	nazwa pospolita	
-Z-dami	Z-dy	subst:pl:inst:p3	nazwa pospolita	
-Z-dom	Z-dy	subst:pl:dat:p3	nazwa pospolita	
-Z-dów	Z-dy	subst:pl:gen:p3	nazwa pospolita	
-Z-dy	Z-dy	subst:pl:acc:p3	nazwa pospolita	
-Z-dy	Z-dy	subst:pl:nom:p3	nazwa pospolita	
-Z-dy	Z-dy	subst:pl:voc:p3	nazwa pospolita	
+Zdunach	Zduny	subst:pl:loc:n:pt	nazwa geograficzna	
+Zdunach	Zduny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Zdunami	Zduny	subst:pl:inst:n:pt	nazwa geograficzna	
+Zdunami	Zduny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Zdunom	Zduny	subst:pl:dat:n:pt	nazwa geograficzna	
+Zdunom	Zduny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Zduny	Zduny	subst:pl:acc:n:pt	nazwa geograficzna	
+Zduny	Zduny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Zduny	Zduny	subst:pl:nom:n:pt	nazwa geograficzna	
+Zduny	Zduny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Zduny	Zduny	subst:pl:voc:n:pt	nazwa geograficzna	
+Zduny	Zduny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Zdun	Zduny	subst:pl:gen:n:pt	nazwa geograficzna	
+Zdun	Zduny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Z-dach	Z-dy	subst:pl:loc:n:pt	nazwa pospolita	
+Z-dami	Z-dy	subst:pl:inst:n:pt	nazwa pospolita	
+Z-dom	Z-dy	subst:pl:dat:n:pt	nazwa pospolita	
+Z-dów	Z-dy	subst:pl:gen:n:pt	nazwa pospolita	
+Z-dy	Z-dy	subst:pl:acc:n:pt	nazwa pospolita	
+Z-dy	Z-dy	subst:pl:nom:n:pt	nazwa pospolita	
+Z-dy	Z-dy	subst:pl:voc:n:pt	nazwa pospolita	
 Zdziborach	Zdzibor	subst:pl:loc:m1	imię	
 Zdziborami	Zdzibor	subst:pl:inst:m1	imię	
 Zdzibora	Zdzibor	subst:sg:acc:m1	imię	
@@ -2589,20 +2589,20 @@ Zdziechowskim	Zdziechowski	subst:sg:inst:m1	nazwisko
 Zdziechowskim	Zdziechowski	subst:sg:loc:m1	nazwisko	
 Zdziechowski	Zdziechowski	subst:sg:nom:m1	nazwisko	
 Zdziechowski	Zdziechowski	subst:sg:voc:m1	nazwisko	
-Zdzieszowicach	Zdzieszowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Zdzieszowicach	Zdzieszowice	subst:pl:loc:p3	nazwa geograficzna	
-Zdzieszowicami	Zdzieszowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Zdzieszowicami	Zdzieszowice	subst:pl:inst:p3	nazwa geograficzna	
-Zdzieszowice	Zdzieszowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Zdzieszowice	Zdzieszowice	subst:pl:acc:p3	nazwa geograficzna	
-Zdzieszowice	Zdzieszowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Zdzieszowice	Zdzieszowice	subst:pl:nom:p3	nazwa geograficzna	
-Zdzieszowice	Zdzieszowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Zdzieszowice	Zdzieszowice	subst:pl:voc:p3	nazwa geograficzna	
-Zdzieszowicom	Zdzieszowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Zdzieszowicom	Zdzieszowice	subst:pl:dat:p3	nazwa geograficzna	
-Zdzieszowic	Zdzieszowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Zdzieszowic	Zdzieszowice	subst:pl:gen:p3	nazwa geograficzna	
+Zdzieszowicach	Zdzieszowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Zdzieszowicach	Zdzieszowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Zdzieszowicami	Zdzieszowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Zdzieszowicami	Zdzieszowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Zdzieszowice	Zdzieszowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Zdzieszowice	Zdzieszowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Zdzieszowice	Zdzieszowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Zdzieszowice	Zdzieszowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Zdzieszowice	Zdzieszowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Zdzieszowice	Zdzieszowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Zdzieszowicom	Zdzieszowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Zdzieszowicom	Zdzieszowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Zdzieszowic	Zdzieszowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Zdzieszowic	Zdzieszowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Zdzimirach	Zdzimir	subst:pl:loc:m1	imię	
 Zdzimirami	Zdzimir	subst:pl:inst:m1	imię	
 Zdzimira	Zdzimir	subst:sg:acc:m1	imię	
@@ -2764,20 +2764,20 @@ Zdziwojów	Zdziwoj	subst:pl:gen:m1	imię
 Zdziwoju	Zdziwoj	subst:sg:loc:m1	imię	
 Zdziwoju	Zdziwoj	subst:sg:voc:m1	imię	
 Zdziwoj	Zdziwoj	subst:sg:nom:m1	imię	
-ZEA	ZEA	subst:pl:acc:p2	nazwa geograficzna	
-ZEA	ZEA	subst:pl:acc:p3	nazwa geograficzna	
-ZEA	ZEA	subst:pl:dat:p2	nazwa geograficzna	
-ZEA	ZEA	subst:pl:dat:p3	nazwa geograficzna	
-ZEA	ZEA	subst:pl:gen:p2	nazwa geograficzna	
-ZEA	ZEA	subst:pl:gen:p3	nazwa geograficzna	
-ZEA	ZEA	subst:pl:inst:p2	nazwa geograficzna	
-ZEA	ZEA	subst:pl:inst:p3	nazwa geograficzna	
-ZEA	ZEA	subst:pl:loc:p2	nazwa geograficzna	
-ZEA	ZEA	subst:pl:loc:p3	nazwa geograficzna	
-ZEA	ZEA	subst:pl:nom:p2	nazwa geograficzna	
-ZEA	ZEA	subst:pl:nom:p3	nazwa geograficzna	
-ZEA	ZEA	subst:pl:voc:p2	nazwa geograficzna	
-ZEA	ZEA	subst:pl:voc:p3	nazwa geograficzna	
+ZEA	ZEA	subst:pl:acc:n:pt	nazwa geograficzna	
+ZEA	ZEA	subst:pl:acc:n:pt	nazwa geograficzna	
+ZEA	ZEA	subst:pl:dat:n:pt	nazwa geograficzna	
+ZEA	ZEA	subst:pl:dat:n:pt	nazwa geograficzna	
+ZEA	ZEA	subst:pl:gen:n:pt	nazwa geograficzna	
+ZEA	ZEA	subst:pl:gen:n:pt	nazwa geograficzna	
+ZEA	ZEA	subst:pl:inst:n:pt	nazwa geograficzna	
+ZEA	ZEA	subst:pl:inst:n:pt	nazwa geograficzna	
+ZEA	ZEA	subst:pl:loc:n:pt	nazwa geograficzna	
+ZEA	ZEA	subst:pl:loc:n:pt	nazwa geograficzna	
+ZEA	ZEA	subst:pl:nom:n:pt	nazwa geograficzna	
+ZEA	ZEA	subst:pl:nom:n:pt	nazwa geograficzna	
+ZEA	ZEA	subst:pl:voc:n:pt	nazwa geograficzna	
+ZEA	ZEA	subst:pl:voc:n:pt	nazwa geograficzna	
 Zebedeuszach	Zebedeusz	subst:pl:loc:m1	imię	
 Zebedeuszami	Zebedeusz	subst:pl:inst:m1	imię	
 Zebedeusza	Zebedeusz	subst:sg:acc:m1	imię	
@@ -2796,20 +2796,20 @@ Zebedeuszów	Zebedeusz	subst:pl:gen:m1	imię
 Zebedeuszu	Zebedeusz	subst:sg:loc:m1	imię	
 Zebedeuszu	Zebedeusz	subst:sg:voc:m1	imię	
 Zebedeusz	Zebedeusz	subst:sg:nom:m1	imię	
-Zebrzydowicach	Zebrzydowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Zebrzydowicach	Zebrzydowice	subst:pl:loc:p3	nazwa geograficzna	
-Zebrzydowicami	Zebrzydowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Zebrzydowicami	Zebrzydowice	subst:pl:inst:p3	nazwa geograficzna	
-Zebrzydowice	Zebrzydowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Zebrzydowice	Zebrzydowice	subst:pl:acc:p3	nazwa geograficzna	
-Zebrzydowice	Zebrzydowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Zebrzydowice	Zebrzydowice	subst:pl:nom:p3	nazwa geograficzna	
-Zebrzydowice	Zebrzydowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Zebrzydowice	Zebrzydowice	subst:pl:voc:p3	nazwa geograficzna	
-Zebrzydowicom	Zebrzydowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Zebrzydowicom	Zebrzydowice	subst:pl:dat:p3	nazwa geograficzna	
-Zebrzydowic	Zebrzydowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Zebrzydowic	Zebrzydowice	subst:pl:gen:p3	nazwa geograficzna	
+Zebrzydowicach	Zebrzydowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Zebrzydowicach	Zebrzydowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Zebrzydowicami	Zebrzydowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Zebrzydowicami	Zebrzydowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Zebrzydowice	Zebrzydowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Zebrzydowice	Zebrzydowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Zebrzydowice	Zebrzydowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Zebrzydowice	Zebrzydowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Zebrzydowice	Zebrzydowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Zebrzydowice	Zebrzydowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Zebrzydowicom	Zebrzydowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Zebrzydowicom	Zebrzydowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Zebrzydowic	Zebrzydowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Zebrzydowic	Zebrzydowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Zebrzydowska	Zebrzydowska	subst:sg:nom:f	nazwisko	
 Zebrzydowska	Zebrzydowska	subst:sg:voc:f	nazwisko	
 Zebrzydowską	Zebrzydowska	subst:sg:acc:f	nazwisko	
@@ -3092,20 +3092,20 @@ Zembrzuskim	Zembrzuski	subst:sg:inst:m1	nazwisko
 Zembrzuskim	Zembrzuski	subst:sg:loc:m1	nazwisko	
 Zembrzuski	Zembrzuski	subst:sg:nom:m1	nazwisko	
 Zembrzuski	Zembrzuski	subst:sg:voc:m1	nazwisko	
-Zembrzycach	Zembrzyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Zembrzycach	Zembrzyce	subst:pl:loc:p3	nazwa geograficzna	
-Zembrzycami	Zembrzyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Zembrzycami	Zembrzyce	subst:pl:inst:p3	nazwa geograficzna	
-Zembrzyce	Zembrzyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Zembrzyce	Zembrzyce	subst:pl:acc:p3	nazwa geograficzna	
-Zembrzyce	Zembrzyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Zembrzyce	Zembrzyce	subst:pl:nom:p3	nazwa geograficzna	
-Zembrzyce	Zembrzyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Zembrzyce	Zembrzyce	subst:pl:voc:p3	nazwa geograficzna	
-Zembrzycom	Zembrzyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Zembrzycom	Zembrzyce	subst:pl:dat:p3	nazwa geograficzna	
-Zembrzyc	Zembrzyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Zembrzyc	Zembrzyce	subst:pl:gen:p3	nazwa geograficzna	
+Zembrzycach	Zembrzyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Zembrzycach	Zembrzyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Zembrzycami	Zembrzyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Zembrzycami	Zembrzyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Zembrzyce	Zembrzyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Zembrzyce	Zembrzyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Zembrzyce	Zembrzyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Zembrzyce	Zembrzyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Zembrzyce	Zembrzyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Zembrzyce	Zembrzyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Zembrzycom	Zembrzyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Zembrzycom	Zembrzyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Zembrzyc	Zembrzyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Zembrzyc	Zembrzyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Zenaidach	Zenaida	subst:pl:loc:f	imię	
 Zenaidami	Zenaida	subst:pl:inst:f	imię	
 Zenaida	Zenaida	subst:sg:nom:f	imię	
@@ -3269,34 +3269,34 @@ Zeusów	Zeus	subst:pl:gen:m1	imię	mit.
 Zeusy	Zeus	depr:pl:nom:m2	imię	mit.
 Zeusy	Zeus	depr:pl:voc:m2	imię	mit.
 Zeus	Zeus	subst:sg:nom:m1	imię	mit.
-Zębowicach	Zębowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Zębowicach	Zębowice	subst:pl:loc:p3	nazwa geograficzna	
-Zębowicami	Zębowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Zębowicami	Zębowice	subst:pl:inst:p3	nazwa geograficzna	
-Zębowice	Zębowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Zębowice	Zębowice	subst:pl:acc:p3	nazwa geograficzna	
-Zębowice	Zębowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Zębowice	Zębowice	subst:pl:nom:p3	nazwa geograficzna	
-Zębowice	Zębowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Zębowice	Zębowice	subst:pl:voc:p3	nazwa geograficzna	
-Zębowicom	Zębowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Zębowicom	Zębowice	subst:pl:dat:p3	nazwa geograficzna	
-Zębowic	Zębowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Zębowic	Zębowice	subst:pl:gen:p3	nazwa geograficzna	
-ZGH	ZGH	subst:pl:acc:n2	nazwa firmy	
-ZGH	ZGH	subst:pl:dat:n2	nazwa firmy	
-ZGH	ZGH	subst:pl:gen:n2	nazwa firmy	
-ZGH	ZGH	subst:pl:inst:n2	nazwa firmy	
-ZGH	ZGH	subst:pl:loc:n2	nazwa firmy	
-ZGH	ZGH	subst:pl:nom:n2	nazwa firmy	
-ZGH	ZGH	subst:pl:voc:n2	nazwa firmy	
-ZGH	ZGH	subst:sg:acc:n2	nazwa firmy	
-ZGH	ZGH	subst:sg:dat:n2	nazwa firmy	
-ZGH	ZGH	subst:sg:gen:n2	nazwa firmy	
-ZGH	ZGH	subst:sg:inst:n2	nazwa firmy	
-ZGH	ZGH	subst:sg:loc:n2	nazwa firmy	
-ZGH	ZGH	subst:sg:nom:n2	nazwa firmy	
-ZGH	ZGH	subst:sg:voc:n2	nazwa firmy	
+Zębowicach	Zębowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Zębowicach	Zębowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Zębowicami	Zębowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Zębowicami	Zębowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Zębowice	Zębowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Zębowice	Zębowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Zębowice	Zębowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Zębowice	Zębowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Zębowice	Zębowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Zębowice	Zębowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Zębowicom	Zębowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Zębowicom	Zębowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Zębowic	Zębowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Zębowic	Zębowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+ZGH	ZGH	subst:pl:acc:n:ncol	nazwa firmy	
+ZGH	ZGH	subst:pl:dat:n:ncol	nazwa firmy	
+ZGH	ZGH	subst:pl:gen:n:ncol	nazwa firmy	
+ZGH	ZGH	subst:pl:inst:n:ncol	nazwa firmy	
+ZGH	ZGH	subst:pl:loc:n:ncol	nazwa firmy	
+ZGH	ZGH	subst:pl:nom:n:ncol	nazwa firmy	
+ZGH	ZGH	subst:pl:voc:n:ncol	nazwa firmy	
+ZGH	ZGH	subst:sg:acc:n:ncol	nazwa firmy	
+ZGH	ZGH	subst:sg:dat:n:ncol	nazwa firmy	
+ZGH	ZGH	subst:sg:gen:n:ncol	nazwa firmy	
+ZGH	ZGH	subst:sg:inst:n:ncol	nazwa firmy	
+ZGH	ZGH	subst:sg:loc:n:ncol	nazwa firmy	
+ZGH	ZGH	subst:sg:nom:n:ncol	nazwa firmy	
+ZGH	ZGH	subst:sg:voc:n:ncol	nazwa firmy	
 Zgierzach	Zgierz	subst:pl:loc:m3	nazwa geograficzna	
 Zgierzach	Zgierz	subst:pl:loc:m3	nazwa geograficzna	rzad.
 Zgierzami	Zgierz	subst:pl:inst:m3	nazwa geograficzna	
@@ -3354,33 +3354,33 @@ Zgółkowych	Zgółkowa	subst:pl:loc:f	nazwisko
 Zgółkowymi	Zgółkowa	subst:pl:inst:f	nazwisko	
 Zgółkowym	Zgółkowa	subst:pl:dat:f	nazwisko	
 ZHP	ZHP	subst:pl:acc:m3	nazwa organizacji	
-ZHP	ZHP	subst:pl:acc:n2	nazwa organizacji	
+ZHP	ZHP	subst:pl:acc:n:ncol	nazwa organizacji	
 ZHP	ZHP	subst:pl:dat:m3	nazwa organizacji	
-ZHP	ZHP	subst:pl:dat:n2	nazwa organizacji	
+ZHP	ZHP	subst:pl:dat:n:ncol	nazwa organizacji	
 ZHP	ZHP	subst:pl:gen:m3	nazwa organizacji	
-ZHP	ZHP	subst:pl:gen:n2	nazwa organizacji	
+ZHP	ZHP	subst:pl:gen:n:ncol	nazwa organizacji	
 ZHP	ZHP	subst:pl:inst:m3	nazwa organizacji	
-ZHP	ZHP	subst:pl:inst:n2	nazwa organizacji	
+ZHP	ZHP	subst:pl:inst:n:ncol	nazwa organizacji	
 ZHP	ZHP	subst:pl:loc:m3	nazwa organizacji	
-ZHP	ZHP	subst:pl:loc:n2	nazwa organizacji	
+ZHP	ZHP	subst:pl:loc:n:ncol	nazwa organizacji	
 ZHP	ZHP	subst:pl:nom:m3	nazwa organizacji	
-ZHP	ZHP	subst:pl:nom:n2	nazwa organizacji	
+ZHP	ZHP	subst:pl:nom:n:ncol	nazwa organizacji	
 ZHP	ZHP	subst:pl:voc:m3	nazwa organizacji	
-ZHP	ZHP	subst:pl:voc:n2	nazwa organizacji	
+ZHP	ZHP	subst:pl:voc:n:ncol	nazwa organizacji	
 ZHP	ZHP	subst:sg:acc:m3	nazwa organizacji	
-ZHP	ZHP	subst:sg:acc:n2	nazwa organizacji	
+ZHP	ZHP	subst:sg:acc:n:ncol	nazwa organizacji	
 ZHP	ZHP	subst:sg:dat:m3	nazwa organizacji	
-ZHP	ZHP	subst:sg:dat:n2	nazwa organizacji	
+ZHP	ZHP	subst:sg:dat:n:ncol	nazwa organizacji	
 ZHP	ZHP	subst:sg:gen:m3	nazwa organizacji	
-ZHP	ZHP	subst:sg:gen:n2	nazwa organizacji	
+ZHP	ZHP	subst:sg:gen:n:ncol	nazwa organizacji	
 ZHP	ZHP	subst:sg:inst:m3	nazwa organizacji	
-ZHP	ZHP	subst:sg:inst:n2	nazwa organizacji	
+ZHP	ZHP	subst:sg:inst:n:ncol	nazwa organizacji	
 ZHP	ZHP	subst:sg:loc:m3	nazwa organizacji	
-ZHP	ZHP	subst:sg:loc:n2	nazwa organizacji	
+ZHP	ZHP	subst:sg:loc:n:ncol	nazwa organizacji	
 ZHP	ZHP	subst:sg:nom:m3	nazwa organizacji	
-ZHP	ZHP	subst:sg:nom:n2	nazwa organizacji	
+ZHP	ZHP	subst:sg:nom:n:ncol	nazwa organizacji	
 ZHP	ZHP	subst:sg:voc:m3	nazwa organizacji	
-ZHP	ZHP	subst:sg:voc:n2	nazwa organizacji	
+ZHP	ZHP	subst:sg:voc:n:ncol	nazwa organizacji	
 ZHRach	ZHR	subst:pl:loc:m3	nazwa organizacji	
 ZHRami	ZHR	subst:pl:inst:m3	nazwa organizacji	
 ZHRem	ZHR	subst:sg:inst:m3	nazwa organizacji	
@@ -3485,20 +3485,20 @@ Zielonki	Zielonka	subst:pl:voc:f	nazwa geograficzna
 Zielonki	Zielonka	subst:sg:gen:f	nazwa geograficzna	
 Zielonkom	Zielonka	subst:pl:dat:f	nazwa geograficzna	
 Zielonko	Zielonka	subst:sg:voc:f	nazwa geograficzna	
-Zielonogórskich	Zielonogórskie	subst:pl:gen:n2	nazwa geograficzna	
-Zielonogórskich	Zielonogórskie	subst:pl:loc:n2	nazwa geograficzna	
-Zielonogórskiego	Zielonogórskie	subst:sg:gen:n2	nazwa geograficzna	
-Zielonogórskiemu	Zielonogórskie	subst:sg:dat:n2	nazwa geograficzna	
-Zielonogórskiem	Zielonogórskie	subst:sg:inst:n2	nazwa geograficzna	
-Zielonogórskiem	Zielonogórskie	subst:sg:loc:n2	nazwa geograficzna	
-Zielonogórskie	Zielonogórskie	subst:pl:acc:n2	nazwa geograficzna	
-Zielonogórskie	Zielonogórskie	subst:pl:nom:n2	nazwa geograficzna	
-Zielonogórskie	Zielonogórskie	subst:pl:voc:n2	nazwa geograficzna	
-Zielonogórskie	Zielonogórskie	subst:sg:acc:n2	nazwa geograficzna	
-Zielonogórskie	Zielonogórskie	subst:sg:nom:n2	nazwa geograficzna	
-Zielonogórskie	Zielonogórskie	subst:sg:voc:n2	nazwa geograficzna	
-Zielonogórskimi	Zielonogórskie	subst:pl:inst:n2	nazwa geograficzna	
-Zielonogórskim	Zielonogórskie	subst:pl:dat:n2	nazwa geograficzna	
+Zielonogórskich	Zielonogórskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Zielonogórskich	Zielonogórskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zielonogórskiego	Zielonogórskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zielonogórskiemu	Zielonogórskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zielonogórskiem	Zielonogórskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zielonogórskiem	Zielonogórskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zielonogórskie	Zielonogórskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zielonogórskie	Zielonogórskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zielonogórskie	Zielonogórskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zielonogórskie	Zielonogórskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zielonogórskie	Zielonogórskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zielonogórskie	Zielonogórskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Zielonogórskimi	Zielonogórskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zielonogórskim	Zielonogórskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Ziembińska	Ziembińska	subst:sg:nom:f	nazwisko	
 Ziembińska	Ziembińska	subst:sg:voc:f	nazwisko	
 Ziembińską	Ziembińska	subst:sg:acc:f	nazwisko	
@@ -3623,34 +3623,34 @@ Ziębów	Zięba	subst:pl:gen:m1	nazwisko
 Zięby	Zięba	depr:pl:nom:m2	nazwisko	
 Zięby	Zięba	depr:pl:voc:m2	nazwisko	
 Zięby	Zięba	subst:sg:gen:m1	nazwisko	
-Ziębicach	Ziębice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Ziębicach	Ziębice	subst:pl:loc:p3	nazwa geograficzna	
-Ziębicami	Ziębice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Ziębicami	Ziębice	subst:pl:inst:p3	nazwa geograficzna	
-Ziębice	Ziębice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Ziębice	Ziębice	subst:pl:acc:p3	nazwa geograficzna	
-Ziębice	Ziębice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Ziębice	Ziębice	subst:pl:nom:p3	nazwa geograficzna	
-Ziębice	Ziębice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Ziębice	Ziębice	subst:pl:voc:p3	nazwa geograficzna	
-Ziębicom	Ziębice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Ziębicom	Ziębice	subst:pl:dat:p3	nazwa geograficzna	
-Ziębic	Ziębice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Ziębic	Ziębice	subst:pl:gen:p3	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:pl:acc:n2	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:pl:dat:n2	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:pl:gen:n2	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:pl:inst:n2	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:pl:loc:n2	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:pl:nom:n2	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:pl:voc:n2	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:sg:acc:n2	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:sg:dat:n2	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:sg:gen:n2	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:sg:inst:n2	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:sg:loc:n2	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:sg:nom:n2	nazwa geograficzna	
-Zimbabwe	Zimbabwe	subst:sg:voc:n2	nazwa geograficzna	
+Ziębicach	Ziębice	subst:pl:loc:n:pt	nazwa geograficzna	
+Ziębicach	Ziębice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ziębicami	Ziębice	subst:pl:inst:n:pt	nazwa geograficzna	
+Ziębicami	Ziębice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ziębice	Ziębice	subst:pl:acc:n:pt	nazwa geograficzna	
+Ziębice	Ziębice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Ziębice	Ziębice	subst:pl:nom:n:pt	nazwa geograficzna	
+Ziębice	Ziębice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Ziębice	Ziębice	subst:pl:voc:n:pt	nazwa geograficzna	
+Ziębice	Ziębice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Ziębicom	Ziębice	subst:pl:dat:n:pt	nazwa geograficzna	
+Ziębicom	Ziębice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ziębic	Ziębice	subst:pl:gen:n:pt	nazwa geograficzna	
+Ziębic	Ziębice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Zimbabwe	Zimbabwe	subst:pl:acc:n:ncol	nazwa geograficzna	
+Zimbabwe	Zimbabwe	subst:pl:dat:n:ncol	nazwa geograficzna	
+Zimbabwe	Zimbabwe	subst:pl:gen:n:ncol	nazwa geograficzna	
+Zimbabwe	Zimbabwe	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zimbabwe	Zimbabwe	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zimbabwe	Zimbabwe	subst:pl:nom:n:ncol	nazwa geograficzna	
+Zimbabwe	Zimbabwe	subst:pl:voc:n:ncol	nazwa geograficzna	
+Zimbabwe	Zimbabwe	subst:sg:acc:n:ncol	nazwa geograficzna	
+Zimbabwe	Zimbabwe	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zimbabwe	Zimbabwe	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zimbabwe	Zimbabwe	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zimbabwe	Zimbabwe	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zimbabwe	Zimbabwe	subst:sg:nom:n:ncol	nazwa geograficzna	
+Zimbabwe	Zimbabwe	subst:sg:voc:n:ncol	nazwa geograficzna	
 Zimermanach	Zimerman	subst:pl:loc:m1	nazwisko	
 Zimermanami	Zimerman	subst:pl:inst:m1	nazwisko	
 Zimermana	Zimerman	subst:sg:acc:m1	nazwisko	
@@ -3916,61 +3916,61 @@ Ziutki	Ziutka	subst:sg:gen:f	imię
 Ziutkom	Ziutka	subst:pl:dat:f	imię	
 Ziutko	Ziutka	subst:sg:voc:f	imię	
 ZK	ZK	subst:pl:acc:m3	nazwa pospolita	
-ZK	ZK	subst:pl:acc:n2	nazwa pospolita	
+ZK	ZK	subst:pl:acc:n:ncol	nazwa pospolita	
 ZK	ZK	subst:pl:dat:m3	nazwa pospolita	
-ZK	ZK	subst:pl:dat:n2	nazwa pospolita	
+ZK	ZK	subst:pl:dat:n:ncol	nazwa pospolita	
 ZK	ZK	subst:pl:gen:m3	nazwa pospolita	
-ZK	ZK	subst:pl:gen:n2	nazwa pospolita	
+ZK	ZK	subst:pl:gen:n:ncol	nazwa pospolita	
 ZK	ZK	subst:pl:inst:m3	nazwa pospolita	
-ZK	ZK	subst:pl:inst:n2	nazwa pospolita	
+ZK	ZK	subst:pl:inst:n:ncol	nazwa pospolita	
 ZK	ZK	subst:pl:loc:m3	nazwa pospolita	
-ZK	ZK	subst:pl:loc:n2	nazwa pospolita	
+ZK	ZK	subst:pl:loc:n:ncol	nazwa pospolita	
 ZK	ZK	subst:pl:nom:m3	nazwa pospolita	
-ZK	ZK	subst:pl:nom:n2	nazwa pospolita	
+ZK	ZK	subst:pl:nom:n:ncol	nazwa pospolita	
 ZK	ZK	subst:pl:voc:m3	nazwa pospolita	
-ZK	ZK	subst:pl:voc:n2	nazwa pospolita	
+ZK	ZK	subst:pl:voc:n:ncol	nazwa pospolita	
 ZK	ZK	subst:sg:acc:m3	nazwa pospolita	
-ZK	ZK	subst:sg:acc:n2	nazwa pospolita	
+ZK	ZK	subst:sg:acc:n:ncol	nazwa pospolita	
 ZK	ZK	subst:sg:dat:m3	nazwa pospolita	
-ZK	ZK	subst:sg:dat:n2	nazwa pospolita	
+ZK	ZK	subst:sg:dat:n:ncol	nazwa pospolita	
 ZK	ZK	subst:sg:gen:m3	nazwa pospolita	
-ZK	ZK	subst:sg:gen:n2	nazwa pospolita	
+ZK	ZK	subst:sg:gen:n:ncol	nazwa pospolita	
 ZK	ZK	subst:sg:inst:m3	nazwa pospolita	
-ZK	ZK	subst:sg:inst:n2	nazwa pospolita	
+ZK	ZK	subst:sg:inst:n:ncol	nazwa pospolita	
 ZK	ZK	subst:sg:loc:m3	nazwa pospolita	
-ZK	ZK	subst:sg:loc:n2	nazwa pospolita	
+ZK	ZK	subst:sg:loc:n:ncol	nazwa pospolita	
 ZK	ZK	subst:sg:nom:m3	nazwa pospolita	
-ZK	ZK	subst:sg:nom:n2	nazwa pospolita	
+ZK	ZK	subst:sg:nom:n:ncol	nazwa pospolita	
 ZK	ZK	subst:sg:voc:m3	nazwa pospolita	
-ZK	ZK	subst:sg:voc:n2	nazwa pospolita	
+ZK	ZK	subst:sg:voc:n:ncol	nazwa pospolita	
 ZLP	ZLP	subst:pl:acc:m3	nazwa organizacji	
-ZLP	ZLP	subst:pl:acc:n2	nazwa organizacji	
+ZLP	ZLP	subst:pl:acc:n:ncol	nazwa organizacji	
 ZLP	ZLP	subst:pl:dat:m3	nazwa organizacji	
-ZLP	ZLP	subst:pl:dat:n2	nazwa organizacji	
+ZLP	ZLP	subst:pl:dat:n:ncol	nazwa organizacji	
 ZLP	ZLP	subst:pl:gen:m3	nazwa organizacji	
-ZLP	ZLP	subst:pl:gen:n2	nazwa organizacji	
+ZLP	ZLP	subst:pl:gen:n:ncol	nazwa organizacji	
 ZLP	ZLP	subst:pl:inst:m3	nazwa organizacji	
-ZLP	ZLP	subst:pl:inst:n2	nazwa organizacji	
+ZLP	ZLP	subst:pl:inst:n:ncol	nazwa organizacji	
 ZLP	ZLP	subst:pl:loc:m3	nazwa organizacji	
-ZLP	ZLP	subst:pl:loc:n2	nazwa organizacji	
+ZLP	ZLP	subst:pl:loc:n:ncol	nazwa organizacji	
 ZLP	ZLP	subst:pl:nom:m3	nazwa organizacji	
-ZLP	ZLP	subst:pl:nom:n2	nazwa organizacji	
+ZLP	ZLP	subst:pl:nom:n:ncol	nazwa organizacji	
 ZLP	ZLP	subst:pl:voc:m3	nazwa organizacji	
-ZLP	ZLP	subst:pl:voc:n2	nazwa organizacji	
+ZLP	ZLP	subst:pl:voc:n:ncol	nazwa organizacji	
 ZLP	ZLP	subst:sg:acc:m3	nazwa organizacji	
-ZLP	ZLP	subst:sg:acc:n2	nazwa organizacji	
+ZLP	ZLP	subst:sg:acc:n:ncol	nazwa organizacji	
 ZLP	ZLP	subst:sg:dat:m3	nazwa organizacji	
-ZLP	ZLP	subst:sg:dat:n2	nazwa organizacji	
+ZLP	ZLP	subst:sg:dat:n:ncol	nazwa organizacji	
 ZLP	ZLP	subst:sg:gen:m3	nazwa organizacji	
-ZLP	ZLP	subst:sg:gen:n2	nazwa organizacji	
+ZLP	ZLP	subst:sg:gen:n:ncol	nazwa organizacji	
 ZLP	ZLP	subst:sg:inst:m3	nazwa organizacji	
-ZLP	ZLP	subst:sg:inst:n2	nazwa organizacji	
+ZLP	ZLP	subst:sg:inst:n:ncol	nazwa organizacji	
 ZLP	ZLP	subst:sg:loc:m3	nazwa organizacji	
-ZLP	ZLP	subst:sg:loc:n2	nazwa organizacji	
+ZLP	ZLP	subst:sg:loc:n:ncol	nazwa organizacji	
 ZLP	ZLP	subst:sg:nom:m3	nazwa organizacji	
-ZLP	ZLP	subst:sg:nom:n2	nazwa organizacji	
+ZLP	ZLP	subst:sg:nom:n:ncol	nazwa organizacji	
 ZLP	ZLP	subst:sg:voc:m3	nazwa organizacji	
-ZLP	ZLP	subst:sg:voc:n2	nazwa organizacji	
+ZLP	ZLP	subst:sg:voc:n:ncol	nazwa organizacji	
 Złoczowach	Złoczów	subst:pl:loc:m3	nazwa geograficzna	
 Złoczowami	Złoczów	subst:pl:inst:m3	nazwa geograficzna	
 Złoczowa	Złoczów	subst:sg:gen:m3	nazwa geograficzna	
@@ -3986,20 +3986,20 @@ Złoczowy	Złoczów	subst:pl:nom:m3	nazwa geograficzna
 Złoczowy	Złoczów	subst:pl:voc:m3	nazwa geograficzna	
 Złoczów	Złoczów	subst:sg:acc:m3	nazwa geograficzna	
 Złoczów	Złoczów	subst:sg:nom:m3	nazwa geograficzna	
-Złotnikach	Złotniki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Złotnikach	Złotniki	subst:pl:loc:p3	nazwa geograficzna	
-Złotnikami	Złotniki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Złotnikami	Złotniki	subst:pl:inst:p3	nazwa geograficzna	
-Złotniki	Złotniki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Złotniki	Złotniki	subst:pl:acc:p3	nazwa geograficzna	
-Złotniki	Złotniki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Złotniki	Złotniki	subst:pl:nom:p3	nazwa geograficzna	
-Złotniki	Złotniki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Złotniki	Złotniki	subst:pl:voc:p3	nazwa geograficzna	
-Złotnikom	Złotniki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Złotnikom	Złotniki	subst:pl:dat:p3	nazwa geograficzna	
-Złotnik	Złotniki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Złotnik	Złotniki	subst:pl:gen:p3	nazwa geograficzna	
+Złotnikach	Złotniki	subst:pl:loc:n:pt	nazwa geograficzna	
+Złotnikach	Złotniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Złotnikami	Złotniki	subst:pl:inst:n:pt	nazwa geograficzna	
+Złotnikami	Złotniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Złotniki	Złotniki	subst:pl:acc:n:pt	nazwa geograficzna	
+Złotniki	Złotniki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Złotniki	Złotniki	subst:pl:nom:n:pt	nazwa geograficzna	
+Złotniki	Złotniki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Złotniki	Złotniki	subst:pl:voc:n:pt	nazwa geograficzna	
+Złotniki	Złotniki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Złotnikom	Złotniki	subst:pl:dat:n:pt	nazwa geograficzna	
+Złotnikom	Złotniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Złotnik	Złotniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Złotnik	Złotniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Złotoryi	Złotoryja	subst:pl:gen:f	nazwa geograficzna	hom.
 Złotoryi	Złotoryja	subst:sg:dat:f	nazwa geograficzna	
 Złotoryi	Złotoryja	subst:sg:gen:f	nazwa geograficzna	
@@ -4030,48 +4030,48 @@ Złotowy	Złotów	subst:pl:nom:m3	nazwa geograficzna
 Złotowy	Złotów	subst:pl:voc:m3	nazwa geograficzna	
 Złotów	Złotów	subst:sg:acc:m3	nazwa geograficzna	
 Złotów	Złotów	subst:sg:nom:m3	nazwa geograficzna	
-Zmartwychwstaniach	Zmartwychwstanie	subst:pl:loc:n2	nazwa święta	
-Zmartwychwstaniami	Zmartwychwstanie	subst:pl:inst:n2	nazwa święta	
-Zmartwychwstania	Zmartwychwstanie	subst:pl:acc:n2	nazwa święta	
-Zmartwychwstania	Zmartwychwstanie	subst:pl:nom:n2	nazwa święta	
-Zmartwychwstania	Zmartwychwstanie	subst:pl:voc:n2	nazwa święta	
-Zmartwychwstania	Zmartwychwstanie	subst:sg:gen:n2	nazwa święta	
-Zmartwychwstaniem	Zmartwychwstanie	subst:sg:inst:n2	nazwa święta	
-Zmartwychwstanie	Zmartwychwstanie	subst:sg:acc:n2	nazwa święta	
-Zmartwychwstanie	Zmartwychwstanie	subst:sg:nom:n2	nazwa święta	
-Zmartwychwstanie	Zmartwychwstanie	subst:sg:voc:n2	nazwa święta	
-Zmartwychwstaniom	Zmartwychwstanie	subst:pl:dat:n2	nazwa święta	
-Zmartwychwstaniu	Zmartwychwstanie	subst:sg:dat:n2	nazwa święta	
-Zmartwychwstaniu	Zmartwychwstanie	subst:sg:loc:n2	nazwa święta	
-Zmartwychwstani	Zmartwychwstanie	subst:pl:gen:n2	nazwa święta	
+Zmartwychwstaniach	Zmartwychwstanie	subst:pl:loc:n:ncol	nazwa święta	
+Zmartwychwstaniami	Zmartwychwstanie	subst:pl:inst:n:ncol	nazwa święta	
+Zmartwychwstania	Zmartwychwstanie	subst:pl:acc:n:ncol	nazwa święta	
+Zmartwychwstania	Zmartwychwstanie	subst:pl:nom:n:ncol	nazwa święta	
+Zmartwychwstania	Zmartwychwstanie	subst:pl:voc:n:ncol	nazwa święta	
+Zmartwychwstania	Zmartwychwstanie	subst:sg:gen:n:ncol	nazwa święta	
+Zmartwychwstaniem	Zmartwychwstanie	subst:sg:inst:n:ncol	nazwa święta	
+Zmartwychwstanie	Zmartwychwstanie	subst:sg:acc:n:ncol	nazwa święta	
+Zmartwychwstanie	Zmartwychwstanie	subst:sg:nom:n:ncol	nazwa święta	
+Zmartwychwstanie	Zmartwychwstanie	subst:sg:voc:n:ncol	nazwa święta	
+Zmartwychwstaniom	Zmartwychwstanie	subst:pl:dat:n:ncol	nazwa święta	
+Zmartwychwstaniu	Zmartwychwstanie	subst:sg:dat:n:ncol	nazwa święta	
+Zmartwychwstaniu	Zmartwychwstanie	subst:sg:loc:n:ncol	nazwa święta	
+Zmartwychwstani	Zmartwychwstanie	subst:pl:gen:n:ncol	nazwa święta	
 ZMP	ZMP	subst:pl:acc:m3	nazwa organizacji	
-ZMP	ZMP	subst:pl:acc:n2	nazwa organizacji	
+ZMP	ZMP	subst:pl:acc:n:ncol	nazwa organizacji	
 ZMP	ZMP	subst:pl:dat:m3	nazwa organizacji	
-ZMP	ZMP	subst:pl:dat:n2	nazwa organizacji	
+ZMP	ZMP	subst:pl:dat:n:ncol	nazwa organizacji	
 ZMP	ZMP	subst:pl:gen:m3	nazwa organizacji	
-ZMP	ZMP	subst:pl:gen:n2	nazwa organizacji	
+ZMP	ZMP	subst:pl:gen:n:ncol	nazwa organizacji	
 ZMP	ZMP	subst:pl:inst:m3	nazwa organizacji	
-ZMP	ZMP	subst:pl:inst:n2	nazwa organizacji	
+ZMP	ZMP	subst:pl:inst:n:ncol	nazwa organizacji	
 ZMP	ZMP	subst:pl:loc:m3	nazwa organizacji	
-ZMP	ZMP	subst:pl:loc:n2	nazwa organizacji	
+ZMP	ZMP	subst:pl:loc:n:ncol	nazwa organizacji	
 ZMP	ZMP	subst:pl:nom:m3	nazwa organizacji	
-ZMP	ZMP	subst:pl:nom:n2	nazwa organizacji	
+ZMP	ZMP	subst:pl:nom:n:ncol	nazwa organizacji	
 ZMP	ZMP	subst:pl:voc:m3	nazwa organizacji	
-ZMP	ZMP	subst:pl:voc:n2	nazwa organizacji	
+ZMP	ZMP	subst:pl:voc:n:ncol	nazwa organizacji	
 ZMP	ZMP	subst:sg:acc:m3	nazwa organizacji	
-ZMP	ZMP	subst:sg:acc:n2	nazwa organizacji	
+ZMP	ZMP	subst:sg:acc:n:ncol	nazwa organizacji	
 ZMP	ZMP	subst:sg:dat:m3	nazwa organizacji	
-ZMP	ZMP	subst:sg:dat:n2	nazwa organizacji	
+ZMP	ZMP	subst:sg:dat:n:ncol	nazwa organizacji	
 ZMP	ZMP	subst:sg:gen:m3	nazwa organizacji	
-ZMP	ZMP	subst:sg:gen:n2	nazwa organizacji	
+ZMP	ZMP	subst:sg:gen:n:ncol	nazwa organizacji	
 ZMP	ZMP	subst:sg:inst:m3	nazwa organizacji	
-ZMP	ZMP	subst:sg:inst:n2	nazwa organizacji	
+ZMP	ZMP	subst:sg:inst:n:ncol	nazwa organizacji	
 ZMP	ZMP	subst:sg:loc:m3	nazwa organizacji	
-ZMP	ZMP	subst:sg:loc:n2	nazwa organizacji	
+ZMP	ZMP	subst:sg:loc:n:ncol	nazwa organizacji	
 ZMP	ZMP	subst:sg:nom:m3	nazwa organizacji	
-ZMP	ZMP	subst:sg:nom:n2	nazwa organizacji	
+ZMP	ZMP	subst:sg:nom:n:ncol	nazwa organizacji	
 ZMP	ZMP	subst:sg:voc:m3	nazwa organizacji	
-ZMP	ZMP	subst:sg:voc:n2	nazwa organizacji	
+ZMP	ZMP	subst:sg:voc:n:ncol	nazwa organizacji	
 ZMS-ach	ZMS	subst:pl:loc:m3	nazwa organizacji|nazwa instytucji	
 ZMS-ami	ZMS	subst:pl:inst:m3	nazwa organizacji|nazwa instytucji	
 ZMS-em	ZMS	subst:sg:inst:m3	nazwa organizacji|nazwa instytucji	
@@ -4117,33 +4117,33 @@ Znanieckim	Znaniecki	subst:sg:loc:m1	nazwisko
 Znaniecki	Znaniecki	subst:sg:nom:m1	nazwisko	
 Znaniecki	Znaniecki	subst:sg:voc:m1	nazwisko	
 ZNP	ZNP	subst:pl:acc:m3	nazwa organizacji	
-ZNP	ZNP	subst:pl:acc:n2	nazwa organizacji	
+ZNP	ZNP	subst:pl:acc:n:ncol	nazwa organizacji	
 ZNP	ZNP	subst:pl:dat:m3	nazwa organizacji	
-ZNP	ZNP	subst:pl:dat:n2	nazwa organizacji	
+ZNP	ZNP	subst:pl:dat:n:ncol	nazwa organizacji	
 ZNP	ZNP	subst:pl:gen:m3	nazwa organizacji	
-ZNP	ZNP	subst:pl:gen:n2	nazwa organizacji	
+ZNP	ZNP	subst:pl:gen:n:ncol	nazwa organizacji	
 ZNP	ZNP	subst:pl:inst:m3	nazwa organizacji	
-ZNP	ZNP	subst:pl:inst:n2	nazwa organizacji	
+ZNP	ZNP	subst:pl:inst:n:ncol	nazwa organizacji	
 ZNP	ZNP	subst:pl:loc:m3	nazwa organizacji	
-ZNP	ZNP	subst:pl:loc:n2	nazwa organizacji	
+ZNP	ZNP	subst:pl:loc:n:ncol	nazwa organizacji	
 ZNP	ZNP	subst:pl:nom:m3	nazwa organizacji	
-ZNP	ZNP	subst:pl:nom:n2	nazwa organizacji	
+ZNP	ZNP	subst:pl:nom:n:ncol	nazwa organizacji	
 ZNP	ZNP	subst:pl:voc:m3	nazwa organizacji	
-ZNP	ZNP	subst:pl:voc:n2	nazwa organizacji	
+ZNP	ZNP	subst:pl:voc:n:ncol	nazwa organizacji	
 ZNP	ZNP	subst:sg:acc:m3	nazwa organizacji	
-ZNP	ZNP	subst:sg:acc:n2	nazwa organizacji	
+ZNP	ZNP	subst:sg:acc:n:ncol	nazwa organizacji	
 ZNP	ZNP	subst:sg:dat:m3	nazwa organizacji	
-ZNP	ZNP	subst:sg:dat:n2	nazwa organizacji	
+ZNP	ZNP	subst:sg:dat:n:ncol	nazwa organizacji	
 ZNP	ZNP	subst:sg:gen:m3	nazwa organizacji	
-ZNP	ZNP	subst:sg:gen:n2	nazwa organizacji	
+ZNP	ZNP	subst:sg:gen:n:ncol	nazwa organizacji	
 ZNP	ZNP	subst:sg:inst:m3	nazwa organizacji	
-ZNP	ZNP	subst:sg:inst:n2	nazwa organizacji	
+ZNP	ZNP	subst:sg:inst:n:ncol	nazwa organizacji	
 ZNP	ZNP	subst:sg:loc:m3	nazwa organizacji	
-ZNP	ZNP	subst:sg:loc:n2	nazwa organizacji	
+ZNP	ZNP	subst:sg:loc:n:ncol	nazwa organizacji	
 ZNP	ZNP	subst:sg:nom:m3	nazwa organizacji	
-ZNP	ZNP	subst:sg:nom:n2	nazwa organizacji	
+ZNP	ZNP	subst:sg:nom:n:ncol	nazwa organizacji	
 ZNP	ZNP	subst:sg:voc:m3	nazwa organizacji	
-ZNP	ZNP	subst:sg:voc:n2	nazwa organizacji	
+ZNP	ZNP	subst:sg:voc:n:ncol	nazwa organizacji	
 Zochach	Zocha	subst:pl:loc:f	imię	
 Zochami	Zocha	subst:pl:inst:f	imię	
 Zocha	Zocha	subst:sg:nom:f	imię	
@@ -4217,41 +4217,41 @@ ZOM-y	ZOM	subst:pl:nom:m3	nazwa firmy
 ZOM-y	ZOM	subst:pl:voc:m3	nazwa firmy	
 ZOM	ZOM	subst:sg:acc:m3	nazwa firmy	
 ZOM	ZOM	subst:sg:nom:m3	nazwa firmy	
-ZOMO	ZOMO	subst:pl:acc:n2	nazwa organizacji	
-ZOMO	ZOMO	subst:pl:dat:n2	nazwa organizacji	
-ZOMO	ZOMO	subst:pl:gen:n2	nazwa organizacji	
-ZOMO	ZOMO	subst:pl:inst:n2	nazwa organizacji	
-ZOMO	ZOMO	subst:pl:loc:n2	nazwa organizacji	
-ZOMO	ZOMO	subst:pl:nom:n2	nazwa organizacji	
-ZOMO	ZOMO	subst:pl:voc:n2	nazwa organizacji	
-ZOMO	ZOMO	subst:sg:acc:n2	nazwa organizacji	
-ZOMO	ZOMO	subst:sg:dat:n2	nazwa organizacji	
-ZOMO	ZOMO	subst:sg:gen:n2	nazwa organizacji	
-ZOMO	ZOMO	subst:sg:inst:n2	nazwa organizacji	
-ZOMO	ZOMO	subst:sg:loc:n2	nazwa organizacji	
-ZOMO	ZOMO	subst:sg:nom:n2	nazwa organizacji	
-ZOMO	ZOMO	subst:sg:voc:n2	nazwa organizacji	
-ZOMO-wscy	ZOMO-wski	adj:pl:nom.voc:m1.p1:pos		
+ZOMO	ZOMO	subst:pl:acc:n:ncol	nazwa organizacji	
+ZOMO	ZOMO	subst:pl:dat:n:ncol	nazwa organizacji	
+ZOMO	ZOMO	subst:pl:gen:n:ncol	nazwa organizacji	
+ZOMO	ZOMO	subst:pl:inst:n:ncol	nazwa organizacji	
+ZOMO	ZOMO	subst:pl:loc:n:ncol	nazwa organizacji	
+ZOMO	ZOMO	subst:pl:nom:n:ncol	nazwa organizacji	
+ZOMO	ZOMO	subst:pl:voc:n:ncol	nazwa organizacji	
+ZOMO	ZOMO	subst:sg:acc:n:ncol	nazwa organizacji	
+ZOMO	ZOMO	subst:sg:dat:n:ncol	nazwa organizacji	
+ZOMO	ZOMO	subst:sg:gen:n:ncol	nazwa organizacji	
+ZOMO	ZOMO	subst:sg:inst:n:ncol	nazwa organizacji	
+ZOMO	ZOMO	subst:sg:loc:n:ncol	nazwa organizacji	
+ZOMO	ZOMO	subst:sg:nom:n:ncol	nazwa organizacji	
+ZOMO	ZOMO	subst:sg:voc:n:ncol	nazwa organizacji	
+ZOMO-wscy	ZOMO-wski	adj:pl:nom.voc:m1:pos		
 ZOMO-wska	ZOMO-wski	adj:sg:nom.voc:f:pos		
 ZOMO-wską	ZOMO-wski	adj:sg:acc:f:pos		
 ZOMO-wską	ZOMO-wski	adj:sg:inst:f:pos		
-ZOMO-wskich	ZOMO-wski	adj:pl:acc:m1.p1:pos		
-ZOMO-wskich	ZOMO-wski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ZOMO-wskich	ZOMO-wski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+ZOMO-wskich	ZOMO-wski	adj:pl:acc:m1:pos		
+ZOMO-wskich	ZOMO-wski	adj:pl:gen:m1.m2.m3.f.n:pos		
+ZOMO-wskich	ZOMO-wski	adj:pl:loc:m1.m2.m3.f.n:pos		
 ZOMO-wskiego	ZOMO-wski	adj:sg:acc:m1.m2:pos		
-ZOMO-wskiego	ZOMO-wski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+ZOMO-wskiego	ZOMO-wski	adj:sg:gen:m1.m2.m3.n:pos		
 ZOMO-wskiej	ZOMO-wski	adj:sg:dat:f:pos		
 ZOMO-wskiej	ZOMO-wski	adj:sg:gen:f:pos		
 ZOMO-wskiej	ZOMO-wski	adj:sg:loc:f:pos		
-ZOMO-wskiemu	ZOMO-wski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-ZOMO-wskie	ZOMO-wski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-ZOMO-wskie	ZOMO-wski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-ZOMO-wskie	ZOMO-wski	adj:sg:acc:n1.n2:pos		
-ZOMO-wskie	ZOMO-wski	adj:sg:nom.voc:n1.n2:pos		
-ZOMO-wskimi	ZOMO-wski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ZOMO-wskim	ZOMO-wski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ZOMO-wskim	ZOMO-wski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-ZOMO-wskim	ZOMO-wski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+ZOMO-wskiemu	ZOMO-wski	adj:sg:dat:m1.m2.m3.n:pos		
+ZOMO-wskie	ZOMO-wski	adj:pl:acc:m2.m3.f.n:pos		
+ZOMO-wskie	ZOMO-wski	adj:pl:nom.voc:m2.m3.f.n:pos		
+ZOMO-wskie	ZOMO-wski	adj:sg:acc:n:pos		
+ZOMO-wskie	ZOMO-wski	adj:sg:nom.voc:n:pos		
+ZOMO-wskimi	ZOMO-wski	adj:pl:inst:m1.m2.m3.f.n:pos		
+ZOMO-wskim	ZOMO-wski	adj:pl:dat:m1.m2.m3.f.n:pos		
+ZOMO-wskim	ZOMO-wski	adj:sg:inst:m1.m2.m3.n:pos		
+ZOMO-wskim	ZOMO-wski	adj:sg:loc:m1.m2.m3.n:pos		
 ZOMO-wski	ZOMO-wski	adj:sg:acc:m3:pos		
 ZOMO-wski	ZOMO-wski	adj:sg:nom.voc:m1.m2.m3:pos		
 ZOMO-wsko	ZOMO-wski	adja		
@@ -4402,134 +4402,134 @@ ZSL-owi	ZSL	subst:sg:dat:m3	nazwa organizacji
 ZSL-u	ZSL	subst:sg:gen:m3	nazwa organizacji	
 ZSL-u	ZSL	subst:sg:loc:m3	nazwa organizacji	
 ZSL-u	ZSL	subst:sg:voc:m3	nazwa organizacji	
-ZSL	ZSL	subst:pl:acc:n2	nazwa organizacji	
-ZSL	ZSL	subst:pl:dat:n2	nazwa organizacji	
-ZSL	ZSL	subst:pl:gen:n2	nazwa organizacji	
-ZSL	ZSL	subst:pl:inst:n2	nazwa organizacji	
-ZSL	ZSL	subst:pl:loc:n2	nazwa organizacji	
-ZSL	ZSL	subst:pl:nom:n2	nazwa organizacji	
-ZSL	ZSL	subst:pl:voc:n2	nazwa organizacji	
+ZSL	ZSL	subst:pl:acc:n:ncol	nazwa organizacji	
+ZSL	ZSL	subst:pl:dat:n:ncol	nazwa organizacji	
+ZSL	ZSL	subst:pl:gen:n:ncol	nazwa organizacji	
+ZSL	ZSL	subst:pl:inst:n:ncol	nazwa organizacji	
+ZSL	ZSL	subst:pl:loc:n:ncol	nazwa organizacji	
+ZSL	ZSL	subst:pl:nom:n:ncol	nazwa organizacji	
+ZSL	ZSL	subst:pl:voc:n:ncol	nazwa organizacji	
 ZSL	ZSL	subst:sg:acc:m3	nazwa organizacji	
-ZSL	ZSL	subst:sg:acc:n2	nazwa organizacji	
-ZSL	ZSL	subst:sg:dat:n2	nazwa organizacji	
-ZSL	ZSL	subst:sg:gen:n2	nazwa organizacji	
-ZSL	ZSL	subst:sg:inst:n2	nazwa organizacji	
-ZSL	ZSL	subst:sg:loc:n2	nazwa organizacji	
+ZSL	ZSL	subst:sg:acc:n:ncol	nazwa organizacji	
+ZSL	ZSL	subst:sg:dat:n:ncol	nazwa organizacji	
+ZSL	ZSL	subst:sg:gen:n:ncol	nazwa organizacji	
+ZSL	ZSL	subst:sg:inst:n:ncol	nazwa organizacji	
+ZSL	ZSL	subst:sg:loc:n:ncol	nazwa organizacji	
 ZSL	ZSL	subst:sg:nom:m3	nazwa organizacji	
-ZSL	ZSL	subst:sg:nom:n2	nazwa organizacji	
-ZSL	ZSL	subst:sg:voc:n2	nazwa organizacji	
+ZSL	ZSL	subst:sg:nom:n:ncol	nazwa organizacji	
+ZSL	ZSL	subst:sg:voc:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:pl:acc:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:pl:acc:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:pl:acc:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:pl:dat:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:pl:dat:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:pl:dat:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:pl:gen:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:pl:gen:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:pl:gen:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:pl:inst:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:pl:inst:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:pl:inst:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:pl:loc:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:pl:loc:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:pl:loc:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:pl:nom:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:pl:nom:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:pl:nom:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:pl:voc:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:pl:voc:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:pl:voc:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:sg:acc:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:sg:acc:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:sg:acc:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:sg:dat:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:sg:dat:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:sg:dat:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:sg:gen:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:sg:gen:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:sg:gen:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:sg:inst:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:sg:inst:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:sg:inst:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:sg:loc:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:sg:loc:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:sg:loc:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:sg:nom:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:sg:nom:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:sg:nom:n:ncol	nazwa organizacji	
 ZSMP	ZSMP	subst:sg:voc:m3	nazwa organizacji	
-ZSMP	ZSMP	subst:sg:voc:n2	nazwa organizacji	
+ZSMP	ZSMP	subst:sg:voc:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:pl:acc:m3	nazwa organizacji	
-ZSP	ZSP	subst:pl:acc:n2	nazwa organizacji	
+ZSP	ZSP	subst:pl:acc:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:pl:dat:m3	nazwa organizacji	
-ZSP	ZSP	subst:pl:dat:n2	nazwa organizacji	
+ZSP	ZSP	subst:pl:dat:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:pl:gen:m3	nazwa organizacji	
-ZSP	ZSP	subst:pl:gen:n2	nazwa organizacji	
+ZSP	ZSP	subst:pl:gen:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:pl:inst:m3	nazwa organizacji	
-ZSP	ZSP	subst:pl:inst:n2	nazwa organizacji	
+ZSP	ZSP	subst:pl:inst:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:pl:loc:m3	nazwa organizacji	
-ZSP	ZSP	subst:pl:loc:n2	nazwa organizacji	
+ZSP	ZSP	subst:pl:loc:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:pl:nom:m3	nazwa organizacji	
-ZSP	ZSP	subst:pl:nom:n2	nazwa organizacji	
+ZSP	ZSP	subst:pl:nom:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:pl:voc:m3	nazwa organizacji	
-ZSP	ZSP	subst:pl:voc:n2	nazwa organizacji	
+ZSP	ZSP	subst:pl:voc:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:sg:acc:m3	nazwa organizacji	
-ZSP	ZSP	subst:sg:acc:n2	nazwa organizacji	
+ZSP	ZSP	subst:sg:acc:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:sg:dat:m3	nazwa organizacji	
-ZSP	ZSP	subst:sg:dat:n2	nazwa organizacji	
+ZSP	ZSP	subst:sg:dat:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:sg:gen:m3	nazwa organizacji	
-ZSP	ZSP	subst:sg:gen:n2	nazwa organizacji	
+ZSP	ZSP	subst:sg:gen:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:sg:inst:m3	nazwa organizacji	
-ZSP	ZSP	subst:sg:inst:n2	nazwa organizacji	
+ZSP	ZSP	subst:sg:inst:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:sg:loc:m3	nazwa organizacji	
-ZSP	ZSP	subst:sg:loc:n2	nazwa organizacji	
+ZSP	ZSP	subst:sg:loc:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:sg:nom:m3	nazwa organizacji	
-ZSP	ZSP	subst:sg:nom:n2	nazwa organizacji	
+ZSP	ZSP	subst:sg:nom:n:ncol	nazwa organizacji	
 ZSP	ZSP	subst:sg:voc:m3	nazwa organizacji	
-ZSP	ZSP	subst:sg:voc:n2	nazwa organizacji	
+ZSP	ZSP	subst:sg:voc:n:ncol	nazwa organizacji	
 ZSRR	ZSRR	subst:pl:acc:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:pl:acc:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:pl:acc:n:ncol	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:pl:dat:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:pl:dat:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:pl:dat:n:ncol	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:pl:gen:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:pl:gen:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:pl:gen:n:ncol	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:pl:inst:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:pl:inst:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:pl:inst:n:ncol	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:pl:loc:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:pl:loc:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:pl:loc:n:ncol	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:pl:nom:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:pl:nom:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:pl:nom:n:ncol	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:pl:voc:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:pl:voc:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:pl:voc:n:ncol	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:sg:acc:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:sg:acc:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:sg:acc:n:ncol	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:sg:dat:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:sg:dat:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:sg:dat:n:ncol	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:sg:gen:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:sg:gen:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:sg:gen:n:ncol	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:sg:inst:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:sg:inst:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:sg:inst:n:ncol	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:sg:loc:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:sg:loc:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:sg:loc:n:ncol	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:sg:nom:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:sg:nom:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:sg:nom:n:ncol	nazwa geograficzna	pot.
 ZSRR	ZSRR	subst:sg:voc:m3	nazwa geograficzna	
-ZSRR	ZSRR	subst:sg:voc:n2	nazwa geograficzna	pot.
+ZSRR	ZSRR	subst:sg:voc:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:pl:acc:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:pl:acc:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:pl:acc:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:pl:dat:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:pl:dat:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:pl:dat:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:pl:gen:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:pl:gen:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:pl:gen:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:pl:inst:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:pl:inst:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:pl:inst:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:pl:loc:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:pl:loc:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:pl:loc:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:pl:nom:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:pl:nom:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:pl:nom:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:pl:voc:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:pl:voc:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:pl:voc:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:sg:acc:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:sg:acc:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:sg:acc:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:sg:dat:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:sg:dat:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:sg:dat:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:sg:gen:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:sg:gen:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:sg:gen:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:sg:inst:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:sg:inst:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:sg:inst:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:sg:loc:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:sg:loc:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:sg:loc:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:sg:nom:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:sg:nom:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:sg:nom:n:ncol	nazwa geograficzna	pot.
 ZSSR	ZSSR	subst:sg:voc:m3	nazwa geograficzna	
-ZSSR	ZSSR	subst:sg:voc:n2	nazwa geograficzna	pot.
+ZSSR	ZSSR	subst:sg:voc:n:ncol	nazwa geograficzna	pot.
 ZSZ-ach	ZSZ	subst:pl:loc:m3	nazwa pospolita	
 ZSZ-ami	ZSZ	subst:pl:inst:m3	nazwa pospolita	
 ZSZ-ecie	ZSZ	subst:sg:loc:m3	nazwa pospolita	

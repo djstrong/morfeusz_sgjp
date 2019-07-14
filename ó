@@ -1,5 +1,5 @@
 ód	oda	subst:pl:gen:f	nazwa pospolita	
-ócz	oko:s2	subst:pl:gen:n1	nazwa pospolita	anat.|daw.|rzad.
+ócz	oko:s2	subst:pl:gen:n:col	nazwa pospolita	anat.|daw.|rzad.
 órzcie	orać	impt:pl:sec:imperf		
 órzmy	orać	impt:pl:pri:imperf		
 órz	orać	impt:sg:sec:imperf		
@@ -18,13 +18,13 @@
 ósemkom	ósemka	subst:pl:dat:f	nazwa pospolita	
 ósemko	ósemka	subst:sg:voc:f	nazwa pospolita	
 ósemkować	ósemkować	inf:imperf		
-ósemkowaliby	ósemkować	cond:pl:m1.p1:ter:imperf		
-ósemkowalibyście	ósemkować	cond:pl:m1.p1:sec:imperf		
-ósemkowalibyśmy	ósemkować	cond:pl:m1.p1:pri:imperf		
-ósemkowali	ósemkować	praet:pl:m1.p1:imperf		
-ósemkowali	ósemkować	praet:pl:m1.p1:ter:imperf		
-ósemkowaliście	ósemkować	praet:pl:m1.p1:sec:imperf		
-ósemkowaliśmy	ósemkować	praet:pl:m1.p1:pri:imperf		
+ósemkowaliby	ósemkować	cond:pl:m1:ter:imperf		
+ósemkowalibyście	ósemkować	cond:pl:m1:sec:imperf		
+ósemkowalibyśmy	ósemkować	cond:pl:m1:pri:imperf		
+ósemkowali	ósemkować	praet:pl:m1:imperf		
+ósemkowali	ósemkować	praet:pl:m1:ter:imperf		
+ósemkowaliście	ósemkować	praet:pl:m1:sec:imperf		
+ósemkowaliśmy	ósemkować	praet:pl:m1:pri:imperf		
 ósemkowałabym	ósemkować	cond:sg:f:pri:imperf		
 ósemkowałaby	ósemkować	cond:sg:f:ter:imperf		
 ósemkowałabyś	ósemkować	cond:sg:f:sec:imperf		
@@ -37,64 +37,64 @@
 ósemkowałbyś	ósemkować	cond:sg:m1.m2.m3:sec:imperf		
 ósemkowałem	ósemkować	praet:sg:m1.m2.m3:pri:imperf		
 ósemkowałeś	ósemkować	praet:sg:m1.m2.m3:sec:imperf		
-ósemkowałobym	ósemkować	cond:sg:n1.n2:pri:imperf		
-ósemkowałoby	ósemkować	cond:sg:n1.n2:ter:imperf		
-ósemkowałobyś	ósemkować	cond:sg:n1.n2:sec:imperf		
-ósemkowałom	ósemkować	praet:sg:n1.n2:pri:imperf		
-ósemkowało	ósemkować	praet:sg:n1.n2:imperf		
-ósemkowało	ósemkować	praet:sg:n1.n2:ter:imperf		
-ósemkowałoś	ósemkować	praet:sg:n1.n2:sec:imperf		
+ósemkowałobym	ósemkować	cond:sg:n:pri:imperf		
+ósemkowałoby	ósemkować	cond:sg:n:ter:imperf		
+ósemkowałobyś	ósemkować	cond:sg:n:sec:imperf		
+ósemkowałom	ósemkować	praet:sg:n:pri:imperf		
+ósemkowało	ósemkować	praet:sg:n:imperf		
+ósemkowało	ósemkować	praet:sg:n:ter:imperf		
+ósemkowałoś	ósemkować	praet:sg:n:sec:imperf		
 ósemkował	ósemkować	praet:sg:m1.m2.m3:imperf		
 ósemkował	ósemkować	praet:sg:m1.m2.m3:ter:imperf		
-ósemkowałyby	ósemkować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
-ósemkowałybyście	ósemkować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
-ósemkowałybyśmy	ósemkować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-ósemkowały	ósemkować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
-ósemkowały	ósemkować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
-ósemkowałyście	ósemkować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
-ósemkowałyśmy	ósemkować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+ósemkowałyby	ósemkować	cond:pl:m2.m3.f.n:ter:imperf		
+ósemkowałybyście	ósemkować	cond:pl:m2.m3.f.n:sec:imperf		
+ósemkowałybyśmy	ósemkować	cond:pl:m2.m3.f.n:pri:imperf		
+ósemkowały	ósemkować	praet:pl:m2.m3.f.n:imperf		
+ósemkowały	ósemkować	praet:pl:m2.m3.f.n:ter:imperf		
+ósemkowałyście	ósemkować	praet:pl:m2.m3.f.n:sec:imperf		
+ósemkowałyśmy	ósemkować	praet:pl:m2.m3.f.n:pri:imperf		
 ósemkowana	ósemkować	ppas:sg:nom.voc:f:imperf:aff		
 ósemkowaną	ósemkować	ppas:sg:acc.inst:f:imperf:aff		
 ósemkowanego	ósemkować	ppas:sg:acc:m1.m2:imperf:aff		
-ósemkowanego	ósemkować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+ósemkowanego	ósemkować	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
 ósemkowanej	ósemkować	ppas:sg:gen.dat.loc:f:imperf:aff		
-ósemkowanemu	ósemkować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-ósemkowane	ósemkować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-ósemkowane	ósemkować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-ósemkowaniach	ósemkować	ger:pl:loc:n2:imperf:aff		
-ósemkowaniami	ósemkować	ger:pl:inst:n2:imperf:aff		
-ósemkowania	ósemkować	ger:pl:nom.acc:n2:imperf:aff		
-ósemkowania	ósemkować	ger:sg:gen:n2:imperf:aff		
-ósemkowaniem	ósemkować	ger:sg:inst:n2:imperf:aff		
-ósemkowanie	ósemkować	ger:sg:nom.acc:n2:imperf:aff		
-ósemkowaniom	ósemkować	ger:pl:dat:n2:imperf:aff		
-ósemkowani	ósemkować	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ósemkowaniu	ósemkować	ger:sg:dat.loc:n2:imperf:aff		
+ósemkowanemu	ósemkować	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+ósemkowane	ósemkować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+ósemkowane	ósemkować	ppas:sg:nom.acc.voc:n:imperf:aff		
+ósemkowaniach	ósemkować	ger:pl:loc:n:imperf:aff		
+ósemkowaniami	ósemkować	ger:pl:inst:n:imperf:aff		
+ósemkowania	ósemkować	ger:pl:nom.acc:n:imperf:aff		
+ósemkowania	ósemkować	ger:sg:gen:n:imperf:aff		
+ósemkowaniem	ósemkować	ger:sg:inst:n:imperf:aff		
+ósemkowanie	ósemkować	ger:sg:nom.acc:n:imperf:aff		
+ósemkowaniom	ósemkować	ger:pl:dat:n:imperf:aff		
+ósemkowani	ósemkować	ppas:pl:nom.voc:m1:imperf:aff		
+ósemkowaniu	ósemkować	ger:sg:dat.loc:n:imperf:aff		
 ósemkowano	ósemkować	imps:imperf		
-ósemkowanych	ósemkować	ppas:pl:acc:m1.p1:imperf:aff		
-ósemkowanych	ósemkować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ósemkowanymi	ósemkować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ósemkowanym	ósemkować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ósemkowanym	ósemkować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+ósemkowanych	ósemkować	ppas:pl:acc:m1:imperf:aff		
+ósemkowanych	ósemkować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+ósemkowanymi	ósemkować	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+ósemkowanym	ósemkować	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+ósemkowanym	ósemkować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
 ósemkowany	ósemkować	ppas:sg:acc:m3:imperf:aff		
 ósemkowany	ósemkować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-ósemkowań	ósemkować	ger:pl:gen:n2:imperf:aff		
+ósemkowań	ósemkować	ger:pl:gen:n:imperf:aff		
 ósemkująca	ósemkować	pact:sg:nom.voc:f:imperf:aff		
 ósemkującą	ósemkować	pact:sg:acc.inst:f:imperf:aff		
 ósemkującego	ósemkować	pact:sg:acc:m1.m2:imperf:aff		
-ósemkującego	ósemkować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+ósemkującego	ósemkować	pact:sg:gen:m1.m2.m3.n:imperf:aff		
 ósemkującej	ósemkować	pact:sg:gen.dat.loc:f:imperf:aff		
-ósemkującemu	ósemkować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-ósemkujące	ósemkować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-ósemkujące	ósemkować	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+ósemkującemu	ósemkować	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+ósemkujące	ósemkować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+ósemkujące	ósemkować	pact:sg:nom.acc.voc:n:imperf:aff		
 ósemkująco	ósemkować	pacta		
 ósemkując	ósemkować	pcon:imperf		
-ósemkujących	ósemkować	pact:pl:acc:m1.p1:imperf:aff		
-ósemkujących	ósemkować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ósemkującymi	ósemkować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ósemkującym	ósemkować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ósemkującym	ósemkować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-ósemkujący	ósemkować	pact:pl:nom.voc:m1.p1:imperf:aff		
+ósemkujących	ósemkować	pact:pl:acc:m1:imperf:aff		
+ósemkujących	ósemkować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+ósemkującymi	ósemkować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+ósemkującym	ósemkować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+ósemkującym	ósemkować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+ósemkujący	ósemkować	pact:pl:nom.voc:m1:imperf:aff		
 ósemkujący	ósemkować	pact:sg:acc:m3:imperf:aff		
 ósemkujący	ósemkować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 ósemkują	ósemkować	fin:pl:ter:imperf		
@@ -124,24 +124,24 @@
 ósemkową	ósemkowy	adj:sg:acc:f:pos		
 ósemkową	ósemkowy	adj:sg:inst:f:pos		
 ósemkowego	ósemkowy	adj:sg:acc:m1.m2:pos		
-ósemkowego	ósemkowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+ósemkowego	ósemkowy	adj:sg:gen:m1.m2.m3.n:pos		
 ósemkowej	ósemkowy	adj:sg:dat:f:pos		
 ósemkowej	ósemkowy	adj:sg:gen:f:pos		
 ósemkowej	ósemkowy	adj:sg:loc:f:pos		
-ósemkowemu	ósemkowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-ósemkowe	ósemkowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-ósemkowe	ósemkowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-ósemkowe	ósemkowy	adj:sg:acc:n1.n2:pos		
-ósemkowe	ósemkowy	adj:sg:nom.voc:n1.n2:pos		
-ósemkowi	ósemkowy	adj:pl:nom.voc:m1.p1:pos		
+ósemkowemu	ósemkowy	adj:sg:dat:m1.m2.m3.n:pos		
+ósemkowe	ósemkowy	adj:pl:acc:m2.m3.f.n:pos		
+ósemkowe	ósemkowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+ósemkowe	ósemkowy	adj:sg:acc:n:pos		
+ósemkowe	ósemkowy	adj:sg:nom.voc:n:pos		
+ósemkowi	ósemkowy	adj:pl:nom.voc:m1:pos		
 ósemkowo	ósemkowy	adja		
-ósemkowych	ósemkowy	adj:pl:acc:m1.p1:pos		
-ósemkowych	ósemkowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ósemkowych	ósemkowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ósemkowymi	ósemkowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ósemkowym	ósemkowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ósemkowym	ósemkowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-ósemkowym	ósemkowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+ósemkowych	ósemkowy	adj:pl:acc:m1:pos		
+ósemkowych	ósemkowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+ósemkowych	ósemkowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+ósemkowymi	ósemkowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+ósemkowym	ósemkowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+ósemkowym	ósemkowy	adj:sg:inst:m1.m2.m3.n:pos		
+ósemkowym	ósemkowy	adj:sg:loc:m1.m2.m3.n:pos		
 ósemkowy	ósemkowy	adj:sg:acc:m3:pos		
 ósemkowy	ósemkowy	adj:sg:nom.voc:m1.m2.m3:pos		
 ósma	ósma	subst:sg:nom:f	nazwa pospolita	
@@ -266,26 +266,26 @@
 ósmą	ósmy:a	adj:sg:acc:f:pos		
 ósmą	ósmy:a	adj:sg:inst:f:pos		
 ósmego	ósmy:a	adj:sg:acc:m1.m2:pos		
-ósmego	ósmy:a	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+ósmego	ósmy:a	adj:sg:gen:m1.m2.m3.n:pos		
 ósmej	ósmy:a	adj:sg:dat:f:pos		
 ósmej	ósmy:a	adj:sg:gen:f:pos		
 ósmej	ósmy:a	adj:sg:loc:f:pos		
-ósmemu	ósmy:a	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-ósme	ósmy:a	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-ósme	ósmy:a	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-ósme	ósmy:a	adj:sg:acc:n1.n2:pos		
-ósme	ósmy:a	adj:sg:nom.voc:n1.n2:pos		
+ósmemu	ósmy:a	adj:sg:dat:m1.m2.m3.n:pos		
+ósme	ósmy:a	adj:pl:acc:m2.m3.f.n:pos		
+ósme	ósmy:a	adj:pl:nom.voc:m2.m3.f.n:pos		
+ósme	ósmy:a	adj:sg:acc:n:pos		
+ósme	ósmy:a	adj:sg:nom.voc:n:pos		
 ósmo	ósmy:a	adja		
-ósmych	ósmy:a	adj:pl:acc:m1.p1:pos		
-ósmych	ósmy:a	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ósmych	ósmy:a	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ósmymi	ósmy:a	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ósmym	ósmy:a	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ósmym	ósmy:a	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-ósmym	ósmy:a	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+ósmych	ósmy:a	adj:pl:acc:m1:pos		
+ósmych	ósmy:a	adj:pl:gen:m1.m2.m3.f.n:pos		
+ósmych	ósmy:a	adj:pl:loc:m1.m2.m3.f.n:pos		
+ósmymi	ósmy:a	adj:pl:inst:m1.m2.m3.f.n:pos		
+ósmym	ósmy:a	adj:pl:dat:m1.m2.m3.f.n:pos		
+ósmym	ósmy:a	adj:sg:inst:m1.m2.m3.n:pos		
+ósmym	ósmy:a	adj:sg:loc:m1.m2.m3.n:pos		
 ósmy	ósmy:a	adj:sg:acc:m3:pos		
 ósmy	ósmy:a	adj:sg:nom.voc:m1.m2.m3:pos		
-óśmi	ósmy:a	adj:pl:nom.voc:m1.p1:pos		
+óśmi	ósmy:a	adj:pl:nom.voc:m1:pos		
 ósmego	ósmy:s	subst:sg:acc:m2	nazwa pospolita	
 ósmego	ósmy:s	subst:sg:gen:m2	nazwa pospolita	
 ósmego	ósmy:s	subst:sg:gen:m3	nazwa pospolita	
@@ -334,24 +334,24 @@
 ówczasową	ówczasowy	adj:sg:acc:f:pos		daw.
 ówczasową	ówczasowy	adj:sg:inst:f:pos		daw.
 ówczasowego	ówczasowy	adj:sg:acc:m1.m2:pos		daw.
-ówczasowego	ówczasowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		daw.
+ówczasowego	ówczasowy	adj:sg:gen:m1.m2.m3.n:pos		daw.
 ówczasowej	ówczasowy	adj:sg:dat:f:pos		daw.
 ówczasowej	ówczasowy	adj:sg:gen:f:pos		daw.
 ówczasowej	ówczasowy	adj:sg:loc:f:pos		daw.
-ówczasowemu	ówczasowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		daw.
-ówczasowe	ówczasowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		daw.
-ówczasowe	ówczasowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		daw.
-ówczasowe	ówczasowy	adj:sg:acc:n1.n2:pos		daw.
-ówczasowe	ówczasowy	adj:sg:nom.voc:n1.n2:pos		daw.
-ówczasowi	ówczasowy	adj:pl:nom.voc:m1.p1:pos		daw.
+ówczasowemu	ówczasowy	adj:sg:dat:m1.m2.m3.n:pos		daw.
+ówczasowe	ówczasowy	adj:pl:acc:m2.m3.f.n:pos		daw.
+ówczasowe	ówczasowy	adj:pl:nom.voc:m2.m3.f.n:pos		daw.
+ówczasowe	ówczasowy	adj:sg:acc:n:pos		daw.
+ówczasowe	ówczasowy	adj:sg:nom.voc:n:pos		daw.
+ówczasowi	ówczasowy	adj:pl:nom.voc:m1:pos		daw.
 ówczasowo	ówczasowy	adja		daw.
-ówczasowych	ówczasowy	adj:pl:acc:m1.p1:pos		daw.
-ówczasowych	ówczasowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
-ówczasowych	ówczasowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
-ówczasowymi	ówczasowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
-ówczasowym	ówczasowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
-ówczasowym	ówczasowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		daw.
-ówczasowym	ówczasowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		daw.
+ówczasowych	ówczasowy	adj:pl:acc:m1:pos		daw.
+ówczasowych	ówczasowy	adj:pl:gen:m1.m2.m3.f.n:pos		daw.
+ówczasowych	ówczasowy	adj:pl:loc:m1.m2.m3.f.n:pos		daw.
+ówczasowymi	ówczasowy	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
+ówczasowym	ówczasowy	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
+ówczasowym	ówczasowy	adj:sg:inst:m1.m2.m3.n:pos		daw.
+ówczasowym	ówczasowy	adj:sg:loc:m1.m2.m3.n:pos		daw.
 ówczasowy	ówczasowy	adj:sg:acc:m3:pos		daw.
 ówczasowy	ówczasowy	adj:sg:nom.voc:m1.m2.m3:pos		daw.
 ówczesnościach	ówczesność	subst:pl:loc:f	nazwa pospolita	
@@ -372,26 +372,26 @@
 ówczesną	ówczesny	adj:sg:acc:f:pos		
 ówczesną	ówczesny	adj:sg:inst:f:pos		
 ówczesnego	ówczesny	adj:sg:acc:m1.m2:pos		
-ówczesnego	ówczesny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+ówczesnego	ówczesny	adj:sg:gen:m1.m2.m3.n:pos		
 ówczesnej	ówczesny	adj:sg:dat:f:pos		
 ówczesnej	ówczesny	adj:sg:gen:f:pos		
 ówczesnej	ówczesny	adj:sg:loc:f:pos		
-ówczesnemu	ówczesny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-ówczesne	ówczesny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-ówczesne	ówczesny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-ówczesne	ówczesny	adj:sg:acc:n1.n2:pos		
-ówczesne	ówczesny	adj:sg:nom.voc:n1.n2:pos		
+ówczesnemu	ówczesny	adj:sg:dat:m1.m2.m3.n:pos		
+ówczesne	ówczesny	adj:pl:acc:m2.m3.f.n:pos		
+ówczesne	ówczesny	adj:pl:nom.voc:m2.m3.f.n:pos		
+ówczesne	ówczesny	adj:sg:acc:n:pos		
+ówczesne	ówczesny	adj:sg:nom.voc:n:pos		
 ówczesno	ówczesny	adja		
-ówczesnych	ówczesny	adj:pl:acc:m1.p1:pos		
-ówczesnych	ówczesny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ówczesnych	ówczesny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ówczesnymi	ówczesny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ówczesnym	ówczesny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ówczesnym	ówczesny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-ówczesnym	ówczesny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+ówczesnych	ówczesny	adj:pl:acc:m1:pos		
+ówczesnych	ówczesny	adj:pl:gen:m1.m2.m3.f.n:pos		
+ówczesnych	ówczesny	adj:pl:loc:m1.m2.m3.f.n:pos		
+ówczesnymi	ówczesny	adj:pl:inst:m1.m2.m3.f.n:pos		
+ówczesnym	ówczesny	adj:pl:dat:m1.m2.m3.f.n:pos		
+ówczesnym	ówczesny	adj:sg:inst:m1.m2.m3.n:pos		
+ówczesnym	ówczesny	adj:sg:loc:m1.m2.m3.n:pos		
 ówczesny	ówczesny	adj:sg:acc:m3:pos		
 ówczesny	ówczesny	adj:sg:nom.voc:m1.m2.m3:pos		
-ówcześni	ówczesny	adj:pl:nom.voc:m1.p1:pos		
+ówcześni	ówczesny	adj:pl:nom.voc:m1:pos		
 ówcześnie	ówcześnie	adv:pos		
 ówdzie	ówdzie	adv		
 ówże	ówże	adj:sg:acc:m3:pos		

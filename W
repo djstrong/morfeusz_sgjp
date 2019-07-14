@@ -209,20 +209,20 @@ Wadimów	Wadim	subst:pl:gen:m1	imię
 Wadim	Wadim	subst:sg:nom:m1	imię	
 Wadimy	Wadim	depr:pl:nom:m2	imię	
 Wadimy	Wadim	depr:pl:voc:m2	imię	
-Wadowicach	Wadowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wadowicach	Wadowice	subst:pl:loc:p3	nazwa geograficzna	
-Wadowicami	Wadowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wadowicami	Wadowice	subst:pl:inst:p3	nazwa geograficzna	
-Wadowice	Wadowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wadowice	Wadowice	subst:pl:acc:p3	nazwa geograficzna	
-Wadowice	Wadowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wadowice	Wadowice	subst:pl:nom:p3	nazwa geograficzna	
-Wadowice	Wadowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wadowice	Wadowice	subst:pl:voc:p3	nazwa geograficzna	
-Wadowicom	Wadowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wadowicom	Wadowice	subst:pl:dat:p3	nazwa geograficzna	
-Wadowic	Wadowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wadowic	Wadowice	subst:pl:gen:p3	nazwa geograficzna	
+Wadowicach	Wadowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Wadowicach	Wadowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wadowicami	Wadowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Wadowicami	Wadowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wadowice	Wadowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Wadowice	Wadowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wadowice	Wadowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Wadowice	Wadowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wadowice	Wadowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Wadowice	Wadowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Wadowicom	Wadowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Wadowicom	Wadowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wadowic	Wadowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Wadowic	Wadowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Wadowach	Wadów	subst:pl:loc:m3	nazwa geograficzna	
 Wadowami	Wadów	subst:pl:inst:m3	nazwa geograficzna	
 Wadowa	Wadów	subst:sg:gen:m3	nazwa geograficzna	
@@ -1057,20 +1057,20 @@ Wałbrzych	Wałbrzych	subst:sg:nom:m3	nazwa geograficzna
 Wałbrzychy	Wałbrzych	subst:pl:acc:m3	nazwa geograficzna	
 Wałbrzychy	Wałbrzych	subst:pl:nom:m3	nazwa geograficzna	
 Wałbrzychy	Wałbrzych	subst:pl:voc:m3	nazwa geograficzna	
-Wałbrzyskich	Wałbrzyskie	subst:pl:gen:n2	nazwa geograficzna	
-Wałbrzyskich	Wałbrzyskie	subst:pl:loc:n2	nazwa geograficzna	
-Wałbrzyskiego	Wałbrzyskie	subst:sg:gen:n2	nazwa geograficzna	
-Wałbrzyskiemu	Wałbrzyskie	subst:sg:dat:n2	nazwa geograficzna	
-Wałbrzyskiem	Wałbrzyskie	subst:sg:inst:n2	nazwa geograficzna	
-Wałbrzyskiem	Wałbrzyskie	subst:sg:loc:n2	nazwa geograficzna	
-Wałbrzyskie	Wałbrzyskie	subst:pl:acc:n2	nazwa geograficzna	
-Wałbrzyskie	Wałbrzyskie	subst:pl:nom:n2	nazwa geograficzna	
-Wałbrzyskie	Wałbrzyskie	subst:pl:voc:n2	nazwa geograficzna	
-Wałbrzyskie	Wałbrzyskie	subst:sg:acc:n2	nazwa geograficzna	
-Wałbrzyskie	Wałbrzyskie	subst:sg:nom:n2	nazwa geograficzna	
-Wałbrzyskie	Wałbrzyskie	subst:sg:voc:n2	nazwa geograficzna	
-Wałbrzyskimi	Wałbrzyskie	subst:pl:inst:n2	nazwa geograficzna	
-Wałbrzyskim	Wałbrzyskie	subst:pl:dat:n2	nazwa geograficzna	
+Wałbrzyskich	Wałbrzyskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Wałbrzyskich	Wałbrzyskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wałbrzyskiego	Wałbrzyskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wałbrzyskiemu	Wałbrzyskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wałbrzyskiem	Wałbrzyskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wałbrzyskiem	Wałbrzyskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wałbrzyskie	Wałbrzyskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Wałbrzyskie	Wałbrzyskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Wałbrzyskie	Wałbrzyskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Wałbrzyskie	Wałbrzyskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Wałbrzyskie	Wałbrzyskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Wałbrzyskie	Wałbrzyskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Wałbrzyskimi	Wałbrzyskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wałbrzyskim	Wałbrzyskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Wałczach	Wałcz	subst:pl:loc:m3	nazwa geograficzna	
 Wałczami	Wałcz	subst:pl:inst:m3	nazwa geograficzna	
 Wałcza	Wałcz	subst:sg:gen:m3	nazwa geograficzna	
@@ -1437,20 +1437,20 @@ Warnery	Warner	depr:pl:nom:m2	nazwisko
 Warnery	Warner	depr:pl:voc:m2	nazwisko	
 Warnerze	Warner	subst:sg:loc:m1	nazwisko	
 Warnerze	Warner	subst:sg:voc:m1	nazwisko	
-Warnicach	Warnice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Warnicach	Warnice	subst:pl:loc:p3	nazwa geograficzna	
-Warnicami	Warnice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Warnicami	Warnice	subst:pl:inst:p3	nazwa geograficzna	
-Warnice	Warnice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Warnice	Warnice	subst:pl:acc:p3	nazwa geograficzna	
-Warnice	Warnice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Warnice	Warnice	subst:pl:nom:p3	nazwa geograficzna	
-Warnice	Warnice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Warnice	Warnice	subst:pl:voc:p3	nazwa geograficzna	
-Warnicom	Warnice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Warnicom	Warnice	subst:pl:dat:p3	nazwa geograficzna	
-Warnic	Warnice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Warnic	Warnice	subst:pl:gen:p3	nazwa geograficzna	
+Warnicach	Warnice	subst:pl:loc:n:pt	nazwa geograficzna	
+Warnicach	Warnice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Warnicami	Warnice	subst:pl:inst:n:pt	nazwa geograficzna	
+Warnicami	Warnice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Warnice	Warnice	subst:pl:acc:n:pt	nazwa geograficzna	
+Warnice	Warnice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Warnice	Warnice	subst:pl:nom:n:pt	nazwa geograficzna	
+Warnice	Warnice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Warnice	Warnice	subst:pl:voc:n:pt	nazwa geograficzna	
+Warnice	Warnice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Warnicom	Warnice	subst:pl:dat:n:pt	nazwa geograficzna	
+Warnicom	Warnice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Warnic	Warnice	subst:pl:gen:n:pt	nazwa geograficzna	
+Warnic	Warnice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Warrenach	Warren	subst:pl:loc:m1	nazwisko	
 Warrenami	Warren	subst:pl:inst:m1	nazwisko	
 Warrena	Warren	subst:sg:acc:m1	nazwisko	
@@ -1511,20 +1511,20 @@ Warszawy	Warszawa	subst:pl:acc:f	nazwa geograficzna
 Warszawy	Warszawa	subst:pl:nom:f	nazwa geograficzna	
 Warszawy	Warszawa	subst:pl:voc:f	nazwa geograficzna	
 Warszawy	Warszawa	subst:sg:gen:f	nazwa geograficzna	
-Warszawskich	Warszawskie	subst:pl:gen:n2	nazwa geograficzna	
-Warszawskich	Warszawskie	subst:pl:loc:n2	nazwa geograficzna	
-Warszawskiego	Warszawskie	subst:sg:gen:n2	nazwa geograficzna	
-Warszawskiemu	Warszawskie	subst:sg:dat:n2	nazwa geograficzna	
-Warszawskiem	Warszawskie	subst:sg:inst:n2	nazwa geograficzna	
-Warszawskiem	Warszawskie	subst:sg:loc:n2	nazwa geograficzna	
-Warszawskie	Warszawskie	subst:pl:acc:n2	nazwa geograficzna	
-Warszawskie	Warszawskie	subst:pl:nom:n2	nazwa geograficzna	
-Warszawskie	Warszawskie	subst:pl:voc:n2	nazwa geograficzna	
-Warszawskie	Warszawskie	subst:sg:acc:n2	nazwa geograficzna	
-Warszawskie	Warszawskie	subst:sg:nom:n2	nazwa geograficzna	
-Warszawskie	Warszawskie	subst:sg:voc:n2	nazwa geograficzna	
-Warszawskimi	Warszawskie	subst:pl:inst:n2	nazwa geograficzna	
-Warszawskim	Warszawskie	subst:pl:dat:n2	nazwa geograficzna	
+Warszawskich	Warszawskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Warszawskich	Warszawskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Warszawskiego	Warszawskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Warszawskiemu	Warszawskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Warszawskiem	Warszawskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Warszawskiem	Warszawskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Warszawskie	Warszawskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Warszawskie	Warszawskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Warszawskie	Warszawskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Warszawskie	Warszawskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Warszawskie	Warszawskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Warszawskie	Warszawskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Warszawskimi	Warszawskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Warszawskim	Warszawskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Warcie	Warta	subst:sg:dat:f	nazwa geograficzna	
 Warcie	Warta	subst:sg:loc:f	nazwa geograficzna	
 Wartach	Warta	subst:pl:loc:f	nazwa geograficzna	
@@ -1553,20 +1553,20 @@ Wartburgu	Wartburg	subst:sg:loc:m3	nazwa geograficzna
 Wartburgu	Wartburg	subst:sg:voc:m3	nazwa geograficzna	
 Wartburg	Wartburg	subst:sg:acc:m3	nazwa geograficzna	
 Wartburg	Wartburg	subst:sg:nom:m3	nazwa geograficzna	
-Wartkowicach	Wartkowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wartkowicach	Wartkowice	subst:pl:loc:p3	nazwa geograficzna	
-Wartkowicami	Wartkowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wartkowicami	Wartkowice	subst:pl:inst:p3	nazwa geograficzna	
-Wartkowice	Wartkowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wartkowice	Wartkowice	subst:pl:acc:p3	nazwa geograficzna	
-Wartkowice	Wartkowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wartkowice	Wartkowice	subst:pl:nom:p3	nazwa geograficzna	
-Wartkowice	Wartkowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wartkowice	Wartkowice	subst:pl:voc:p3	nazwa geograficzna	
-Wartkowicom	Wartkowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wartkowicom	Wartkowice	subst:pl:dat:p3	nazwa geograficzna	
-Wartkowic	Wartkowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wartkowic	Wartkowice	subst:pl:gen:p3	nazwa geograficzna	
+Wartkowicach	Wartkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Wartkowicach	Wartkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wartkowicami	Wartkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Wartkowicami	Wartkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wartkowice	Wartkowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Wartkowice	Wartkowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wartkowice	Wartkowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Wartkowice	Wartkowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wartkowice	Wartkowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Wartkowice	Wartkowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Wartkowicom	Wartkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Wartkowicom	Wartkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wartkowic	Wartkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Wartkowic	Wartkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Warwarach	Warwara	subst:pl:loc:f	imię	
 Warwarami	Warwara	subst:pl:inst:f	imię	
 Warwara	Warwara	subst:sg:nom:f	imię	
@@ -1920,68 +1920,68 @@ WAT-y	WAT	subst:pl:acc:m3	nazwa instytucji
 WAT-y	WAT	subst:pl:nom:m3	nazwa instytucji	
 WAT-y	WAT	subst:pl:voc:m3	nazwa instytucji	
 Watergate	Watergate	subst:pl:acc:f	nazwa geograficzna	
-Watergate	Watergate	subst:pl:acc:n2	nazwa geograficzna	
+Watergate	Watergate	subst:pl:acc:n:ncol	nazwa geograficzna	
 Watergate	Watergate	subst:pl:dat:f	nazwa geograficzna	
-Watergate	Watergate	subst:pl:dat:n2	nazwa geograficzna	
+Watergate	Watergate	subst:pl:dat:n:ncol	nazwa geograficzna	
 Watergate	Watergate	subst:pl:gen:f	nazwa geograficzna	
-Watergate	Watergate	subst:pl:gen:n2	nazwa geograficzna	
+Watergate	Watergate	subst:pl:gen:n:ncol	nazwa geograficzna	
 Watergate	Watergate	subst:pl:inst:f	nazwa geograficzna	
-Watergate	Watergate	subst:pl:inst:n2	nazwa geograficzna	
+Watergate	Watergate	subst:pl:inst:n:ncol	nazwa geograficzna	
 Watergate	Watergate	subst:pl:loc:f	nazwa geograficzna	
-Watergate	Watergate	subst:pl:loc:n2	nazwa geograficzna	
+Watergate	Watergate	subst:pl:loc:n:ncol	nazwa geograficzna	
 Watergate	Watergate	subst:pl:nom:f	nazwa geograficzna	
-Watergate	Watergate	subst:pl:nom:n2	nazwa geograficzna	
+Watergate	Watergate	subst:pl:nom:n:ncol	nazwa geograficzna	
 Watergate	Watergate	subst:pl:voc:f	nazwa geograficzna	
-Watergate	Watergate	subst:pl:voc:n2	nazwa geograficzna	
+Watergate	Watergate	subst:pl:voc:n:ncol	nazwa geograficzna	
 Watergate	Watergate	subst:sg:acc:f	nazwa geograficzna	
-Watergate	Watergate	subst:sg:acc:n2	nazwa geograficzna	
+Watergate	Watergate	subst:sg:acc:n:ncol	nazwa geograficzna	
 Watergate	Watergate	subst:sg:dat:f	nazwa geograficzna	
-Watergate	Watergate	subst:sg:dat:n2	nazwa geograficzna	
+Watergate	Watergate	subst:sg:dat:n:ncol	nazwa geograficzna	
 Watergate	Watergate	subst:sg:gen:f	nazwa geograficzna	
-Watergate	Watergate	subst:sg:gen:n2	nazwa geograficzna	
+Watergate	Watergate	subst:sg:gen:n:ncol	nazwa geograficzna	
 Watergate	Watergate	subst:sg:inst:f	nazwa geograficzna	
-Watergate	Watergate	subst:sg:inst:n2	nazwa geograficzna	
+Watergate	Watergate	subst:sg:inst:n:ncol	nazwa geograficzna	
 Watergate	Watergate	subst:sg:loc:f	nazwa geograficzna	
-Watergate	Watergate	subst:sg:loc:n2	nazwa geograficzna	
+Watergate	Watergate	subst:sg:loc:n:ncol	nazwa geograficzna	
 Watergate	Watergate	subst:sg:nom:f	nazwa geograficzna	
-Watergate	Watergate	subst:sg:nom:n2	nazwa geograficzna	
+Watergate	Watergate	subst:sg:nom:n:ncol	nazwa geograficzna	
 Watergate	Watergate	subst:sg:voc:f	nazwa geograficzna	
-Watergate	Watergate	subst:sg:voc:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:pl:acc:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:pl:dat:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:pl:gen:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:pl:inst:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:pl:loc:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:pl:nom:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:pl:voc:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:sg:acc:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:sg:dat:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:sg:gen:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:sg:inst:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:sg:loc:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:sg:nom:n2	nazwa geograficzna	
-Waterloo	Waterloo	subst:sg:voc:n2	nazwa geograficzna	
-WAT-owscy	WAT-owski	adj:pl:nom.voc:m1.p1:pos		
+Watergate	Watergate	subst:sg:voc:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Waterloo	Waterloo	subst:sg:voc:n:ncol	nazwa geograficzna	
+WAT-owscy	WAT-owski	adj:pl:nom.voc:m1:pos		
 WAT-owska	WAT-owski	adj:sg:nom.voc:f:pos		
 WAT-owską	WAT-owski	adj:sg:acc:f:pos		
 WAT-owską	WAT-owski	adj:sg:inst:f:pos		
-WAT-owskich	WAT-owski	adj:pl:acc:m1.p1:pos		
-WAT-owskich	WAT-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-WAT-owskich	WAT-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+WAT-owskich	WAT-owski	adj:pl:acc:m1:pos		
+WAT-owskich	WAT-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+WAT-owskich	WAT-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
 WAT-owskiego	WAT-owski	adj:sg:acc:m1.m2:pos		
-WAT-owskiego	WAT-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+WAT-owskiego	WAT-owski	adj:sg:gen:m1.m2.m3.n:pos		
 WAT-owskiej	WAT-owski	adj:sg:dat:f:pos		
 WAT-owskiej	WAT-owski	adj:sg:gen:f:pos		
 WAT-owskiej	WAT-owski	adj:sg:loc:f:pos		
-WAT-owskiemu	WAT-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-WAT-owskie	WAT-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-WAT-owskie	WAT-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-WAT-owskie	WAT-owski	adj:sg:acc:n1.n2:pos		
-WAT-owskie	WAT-owski	adj:sg:nom.voc:n1.n2:pos		
-WAT-owskimi	WAT-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-WAT-owskim	WAT-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-WAT-owskim	WAT-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-WAT-owskim	WAT-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+WAT-owskiemu	WAT-owski	adj:sg:dat:m1.m2.m3.n:pos		
+WAT-owskie	WAT-owski	adj:pl:acc:m2.m3.f.n:pos		
+WAT-owskie	WAT-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+WAT-owskie	WAT-owski	adj:sg:acc:n:pos		
+WAT-owskie	WAT-owski	adj:sg:nom.voc:n:pos		
+WAT-owskimi	WAT-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
+WAT-owskim	WAT-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+WAT-owskim	WAT-owski	adj:sg:inst:m1.m2.m3.n:pos		
+WAT-owskim	WAT-owski	adj:sg:loc:m1.m2.m3.n:pos		
 WAT-owski	WAT-owski	adj:sg:acc:m3:pos		
 WAT-owski	WAT-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 WAT-owsko	WAT-owski	adja		
@@ -2251,20 +2251,20 @@ Wągrowcu	Wągrowiec	subst:sg:loc:m3	nazwa geograficzna
 Wągrowcu	Wągrowiec	subst:sg:voc:m3	nazwa geograficzna	
 Wągrowiec	Wągrowiec	subst:sg:acc:m3	nazwa geograficzna	
 Wągrowiec	Wągrowiec	subst:sg:nom:m3	nazwa geograficzna	
-Wąsewach	Wąsewo	subst:pl:loc:n2	nazwa geograficzna	
-Wąsewami	Wąsewo	subst:pl:inst:n2	nazwa geograficzna	
-Wąsewa	Wąsewo	subst:pl:acc:n2	nazwa geograficzna	
-Wąsewa	Wąsewo	subst:pl:nom:n2	nazwa geograficzna	
-Wąsewa	Wąsewo	subst:pl:voc:n2	nazwa geograficzna	
-Wąsewa	Wąsewo	subst:sg:gen:n2	nazwa geograficzna	
-Wąsewem	Wąsewo	subst:sg:inst:n2	nazwa geograficzna	
-Wąsewie	Wąsewo	subst:sg:loc:n2	nazwa geograficzna	
-Wąsewom	Wąsewo	subst:pl:dat:n2	nazwa geograficzna	
-Wąsewo	Wąsewo	subst:sg:acc:n2	nazwa geograficzna	
-Wąsewo	Wąsewo	subst:sg:nom:n2	nazwa geograficzna	
-Wąsewo	Wąsewo	subst:sg:voc:n2	nazwa geograficzna	
-Wąsewu	Wąsewo	subst:sg:dat:n2	nazwa geograficzna	
-Wąsew	Wąsewo	subst:pl:gen:n2	nazwa geograficzna	
+Wąsewach	Wąsewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wąsewami	Wąsewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wąsewa	Wąsewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Wąsewa	Wąsewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Wąsewa	Wąsewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Wąsewa	Wąsewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wąsewem	Wąsewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wąsewie	Wąsewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wąsewom	Wąsewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Wąsewo	Wąsewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Wąsewo	Wąsewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Wąsewo	Wąsewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Wąsewu	Wąsewo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wąsew	Wąsewo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Wąsowiczach	Wąsowicz	subst:pl:loc:m1	nazwisko	
 Wąsowiczami	Wąsowicz	subst:pl:inst:m1	nazwisko	
 Wąsowicza	Wąsowicz	subst:sg:acc:m1	nazwisko	
@@ -2328,33 +2328,33 @@ Wąwolnicy	Wąwolnica	subst:sg:dat:f	nazwa geograficzna
 Wąwolnicy	Wąwolnica	subst:sg:gen:f	nazwa geograficzna	
 Wąwolnicy	Wąwolnica	subst:sg:loc:f	nazwa geograficzna	
 WBK	WBK	subst:pl:acc:m3	nazwa firmy	
-WBK	WBK	subst:pl:acc:n2	nazwa firmy	
+WBK	WBK	subst:pl:acc:n:ncol	nazwa firmy	
 WBK	WBK	subst:pl:dat:m3	nazwa firmy	
-WBK	WBK	subst:pl:dat:n2	nazwa firmy	
+WBK	WBK	subst:pl:dat:n:ncol	nazwa firmy	
 WBK	WBK	subst:pl:gen:m3	nazwa firmy	
-WBK	WBK	subst:pl:gen:n2	nazwa firmy	
+WBK	WBK	subst:pl:gen:n:ncol	nazwa firmy	
 WBK	WBK	subst:pl:inst:m3	nazwa firmy	
-WBK	WBK	subst:pl:inst:n2	nazwa firmy	
+WBK	WBK	subst:pl:inst:n:ncol	nazwa firmy	
 WBK	WBK	subst:pl:loc:m3	nazwa firmy	
-WBK	WBK	subst:pl:loc:n2	nazwa firmy	
+WBK	WBK	subst:pl:loc:n:ncol	nazwa firmy	
 WBK	WBK	subst:pl:nom:m3	nazwa firmy	
-WBK	WBK	subst:pl:nom:n2	nazwa firmy	
+WBK	WBK	subst:pl:nom:n:ncol	nazwa firmy	
 WBK	WBK	subst:pl:voc:m3	nazwa firmy	
-WBK	WBK	subst:pl:voc:n2	nazwa firmy	
+WBK	WBK	subst:pl:voc:n:ncol	nazwa firmy	
 WBK	WBK	subst:sg:acc:m3	nazwa firmy	
-WBK	WBK	subst:sg:acc:n2	nazwa firmy	
+WBK	WBK	subst:sg:acc:n:ncol	nazwa firmy	
 WBK	WBK	subst:sg:dat:m3	nazwa firmy	
-WBK	WBK	subst:sg:dat:n2	nazwa firmy	
+WBK	WBK	subst:sg:dat:n:ncol	nazwa firmy	
 WBK	WBK	subst:sg:gen:m3	nazwa firmy	
-WBK	WBK	subst:sg:gen:n2	nazwa firmy	
+WBK	WBK	subst:sg:gen:n:ncol	nazwa firmy	
 WBK	WBK	subst:sg:inst:m3	nazwa firmy	
-WBK	WBK	subst:sg:inst:n2	nazwa firmy	
+WBK	WBK	subst:sg:inst:n:ncol	nazwa firmy	
 WBK	WBK	subst:sg:loc:m3	nazwa firmy	
-WBK	WBK	subst:sg:loc:n2	nazwa firmy	
+WBK	WBK	subst:sg:loc:n:ncol	nazwa firmy	
 WBK	WBK	subst:sg:nom:m3	nazwa firmy	
-WBK	WBK	subst:sg:nom:n2	nazwa firmy	
+WBK	WBK	subst:sg:nom:n:ncol	nazwa firmy	
 WBK	WBK	subst:sg:voc:m3	nazwa firmy	
-WBK	WBK	subst:sg:voc:n2	nazwa firmy	
+WBK	WBK	subst:sg:voc:n:ncol	nazwa firmy	
 WBZ-ach	WBZ	subst:pl:loc:m3	nazwa firmy	
 WBZ-ami	WBZ	subst:pl:inst:m3	nazwa firmy	
 WBZ-ecie	WBZ	subst:sg:loc:m3	nazwa firmy	
@@ -2379,20 +2379,20 @@ WBZ	WBZ	subst:sg:nom:m3	nazwa firmy
 WBZ-y	WBZ	subst:pl:acc:m3	nazwa firmy	
 WBZ-y	WBZ	subst:pl:nom:m3	nazwa firmy	
 WBZ-y	WBZ	subst:pl:voc:m3	nazwa firmy	
-WC	WC	subst:pl:acc:n2	nazwa pospolita	
-WC	WC	subst:pl:dat:n2	nazwa pospolita	
-WC	WC	subst:pl:gen:n2	nazwa pospolita	
-WC	WC	subst:pl:inst:n2	nazwa pospolita	
-WC	WC	subst:pl:loc:n2	nazwa pospolita	
-WC	WC	subst:pl:nom:n2	nazwa pospolita	
-WC	WC	subst:pl:voc:n2	nazwa pospolita	
-WC	WC	subst:sg:acc:n2	nazwa pospolita	
-WC	WC	subst:sg:dat:n2	nazwa pospolita	
-WC	WC	subst:sg:gen:n2	nazwa pospolita	
-WC	WC	subst:sg:inst:n2	nazwa pospolita	
-WC	WC	subst:sg:loc:n2	nazwa pospolita	
-WC	WC	subst:sg:nom:n2	nazwa pospolita	
-WC	WC	subst:sg:voc:n2	nazwa pospolita	
+WC	WC	subst:pl:acc:n:ncol	nazwa pospolita	
+WC	WC	subst:pl:dat:n:ncol	nazwa pospolita	
+WC	WC	subst:pl:gen:n:ncol	nazwa pospolita	
+WC	WC	subst:pl:inst:n:ncol	nazwa pospolita	
+WC	WC	subst:pl:loc:n:ncol	nazwa pospolita	
+WC	WC	subst:pl:nom:n:ncol	nazwa pospolita	
+WC	WC	subst:pl:voc:n:ncol	nazwa pospolita	
+WC	WC	subst:sg:acc:n:ncol	nazwa pospolita	
+WC	WC	subst:sg:dat:n:ncol	nazwa pospolita	
+WC	WC	subst:sg:gen:n:ncol	nazwa pospolita	
+WC	WC	subst:sg:inst:n:ncol	nazwa pospolita	
+WC	WC	subst:sg:loc:n:ncol	nazwa pospolita	
+WC	WC	subst:sg:nom:n:ncol	nazwa pospolita	
+WC	WC	subst:sg:voc:n:ncol	nazwa pospolita	
 Wcisłach	Wcisło	subst:pl:loc:m1	nazwisko	
 Wcisłami	Wcisło	subst:pl:inst:m1	nazwisko	
 Wcisłą	Wcisło	subst:sg:inst:m1	nazwisko	
@@ -2623,22 +2623,22 @@ Weizsaeckery	Weizsaecker	depr:pl:nom:m2	nazwisko
 Weizsaeckery	Weizsaecker	depr:pl:voc:m2	nazwisko	
 Weizsaeckerze	Weizsaecker	subst:sg:loc:m1	nazwisko	
 Weizsaeckerze	Weizsaecker	subst:sg:voc:m1	nazwisko	
-Wejherowach	Wejherowo	subst:pl:loc:n2	nazwa geograficzna	
-Wejherowami	Wejherowo	subst:pl:inst:n2	nazwa geograficzna	
-Wejherowa	Wejherowo	subst:pl:acc:n2	nazwa geograficzna	
-Wejherowa	Wejherowo	subst:pl:nom:n2	nazwa geograficzna	
-Wejherowa	Wejherowo	subst:pl:voc:n2	nazwa geograficzna	
-Wejherowa	Wejherowo	subst:sg:gen:n2	nazwa geograficzna	
-Wejherowem	Wejherowo	subst:sg:inst:n2	nazwa geograficzna	
-Wejherowie	Wejherowo	subst:sg:loc:n2	nazwa geograficzna	
-Wejherowom	Wejherowo	subst:pl:dat:n2	nazwa geograficzna	
-Wejherowo	Wejherowo	subst:sg:acc:n2	nazwa geograficzna	
-Wejherowo	Wejherowo	subst:sg:nom:n2	nazwa geograficzna	
-Wejherowo	Wejherowo	subst:sg:voc:n2	nazwa geograficzna	
-Wejherowów	Wejherowo	subst:pl:gen:n2	nazwa geograficzna	
-Wejherowu	Wejherowo	subst:sg:dat:n2	nazwa geograficzna	
-Wejherow	Wejherowo	subst:pl:gen:n2	nazwa geograficzna	
-Wejherów	Wejherowo	subst:pl:gen:n2	nazwa geograficzna	
+Wejherowach	Wejherowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wejherowami	Wejherowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wejherowa	Wejherowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Wejherowa	Wejherowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Wejherowa	Wejherowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Wejherowa	Wejherowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wejherowem	Wejherowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wejherowie	Wejherowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wejherowom	Wejherowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Wejherowo	Wejherowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Wejherowo	Wejherowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Wejherowo	Wejherowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Wejherowów	Wejherowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Wejherowu	Wejherowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wejherow	Wejherowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Wejherów	Wejherowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Welach	Wel	subst:pl:loc:f	nazwa geograficzna	
 Welami	Wel	subst:pl:inst:f	nazwa geograficzna	
 Welą	Wel	subst:sg:inst:f	nazwa geograficzna	
@@ -2746,20 +2746,20 @@ Wełtawy	Wełtawa	subst:pl:acc:f	nazwa geograficzna
 Wełtawy	Wełtawa	subst:pl:nom:f	nazwa geograficzna	
 Wełtawy	Wełtawa	subst:pl:voc:f	nazwa geograficzna	
 Wełtawy	Wełtawa	subst:sg:gen:f	nazwa geograficzna	
-Wembley	Wembley	subst:pl:acc:n2	nazwa geograficzna	
-Wembley	Wembley	subst:pl:dat:n2	nazwa geograficzna	
-Wembley	Wembley	subst:pl:gen:n2	nazwa geograficzna	
-Wembley	Wembley	subst:pl:inst:n2	nazwa geograficzna	
-Wembley	Wembley	subst:pl:loc:n2	nazwa geograficzna	
-Wembley	Wembley	subst:pl:nom:n2	nazwa geograficzna	
-Wembley	Wembley	subst:pl:voc:n2	nazwa geograficzna	
-Wembley	Wembley	subst:sg:acc:n2	nazwa geograficzna	
-Wembley	Wembley	subst:sg:dat:n2	nazwa geograficzna	
-Wembley	Wembley	subst:sg:gen:n2	nazwa geograficzna	
-Wembley	Wembley	subst:sg:inst:n2	nazwa geograficzna	
-Wembley	Wembley	subst:sg:loc:n2	nazwa geograficzna	
-Wembley	Wembley	subst:sg:nom:n2	nazwa geograficzna	
-Wembley	Wembley	subst:sg:voc:n2	nazwa geograficzna	
+Wembley	Wembley	subst:pl:acc:n:ncol	nazwa geograficzna	
+Wembley	Wembley	subst:pl:dat:n:ncol	nazwa geograficzna	
+Wembley	Wembley	subst:pl:gen:n:ncol	nazwa geograficzna	
+Wembley	Wembley	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wembley	Wembley	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wembley	Wembley	subst:pl:nom:n:ncol	nazwa geograficzna	
+Wembley	Wembley	subst:pl:voc:n:ncol	nazwa geograficzna	
+Wembley	Wembley	subst:sg:acc:n:ncol	nazwa geograficzna	
+Wembley	Wembley	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wembley	Wembley	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wembley	Wembley	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wembley	Wembley	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wembley	Wembley	subst:sg:nom:n:ncol	nazwa geograficzna	
+Wembley	Wembley	subst:sg:voc:n:ncol	nazwa geograficzna	
 Wenancjuszach	Wenancjusz	subst:pl:loc:m1	imię	
 Wenancjuszami	Wenancjusz	subst:pl:inst:m1	imię	
 Wenancjusza	Wenancjusz	subst:sg:acc:m1	imię	
@@ -2990,20 +2990,20 @@ Wery	Wera	subst:pl:voc:f	imię
 Wery	Wera	subst:sg:gen:f	imię	
 Werze	Wera	subst:sg:dat:f	imię	
 Werze	Wera	subst:sg:loc:f	imię	
-Werbkowicach	Werbkowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Werbkowicach	Werbkowice	subst:pl:loc:p3	nazwa geograficzna	
-Werbkowicami	Werbkowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Werbkowicami	Werbkowice	subst:pl:inst:p3	nazwa geograficzna	
-Werbkowice	Werbkowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Werbkowice	Werbkowice	subst:pl:acc:p3	nazwa geograficzna	
-Werbkowice	Werbkowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Werbkowice	Werbkowice	subst:pl:nom:p3	nazwa geograficzna	
-Werbkowice	Werbkowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Werbkowice	Werbkowice	subst:pl:voc:p3	nazwa geograficzna	
-Werbkowicom	Werbkowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Werbkowicom	Werbkowice	subst:pl:dat:p3	nazwa geograficzna	
-Werbkowic	Werbkowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Werbkowic	Werbkowice	subst:pl:gen:p3	nazwa geograficzna	
+Werbkowicach	Werbkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Werbkowicach	Werbkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Werbkowicami	Werbkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Werbkowicami	Werbkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Werbkowice	Werbkowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Werbkowice	Werbkowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Werbkowice	Werbkowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Werbkowice	Werbkowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Werbkowice	Werbkowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Werbkowice	Werbkowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Werbkowicom	Werbkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Werbkowicom	Werbkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Werbkowic	Werbkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Werbkowic	Werbkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Werciach	Wercia	subst:pl:loc:f	imię	
 Werciami	Wercia	subst:pl:inst:f	imię	
 Wercia	Wercia	subst:sg:nom:f	imię	
@@ -3246,20 +3246,20 @@ Wespazjanów	Wespazjan	subst:pl:gen:m1	imię
 Wespazjan	Wespazjan	subst:sg:nom:m1	imię	
 Wespazjany	Wespazjan	depr:pl:nom:m2	imię	
 Wespazjany	Wespazjan	depr:pl:voc:m2	imię	
-Westerplatte	Westerplatte	subst:pl:acc:n2	nazwa geograficzna	
-Westerplatte	Westerplatte	subst:pl:dat:n2	nazwa geograficzna	
-Westerplatte	Westerplatte	subst:pl:gen:n2	nazwa geograficzna	
-Westerplatte	Westerplatte	subst:pl:inst:n2	nazwa geograficzna	
-Westerplatte	Westerplatte	subst:pl:loc:n2	nazwa geograficzna	
-Westerplatte	Westerplatte	subst:pl:nom:n2	nazwa geograficzna	
-Westerplatte	Westerplatte	subst:pl:voc:n2	nazwa geograficzna	
-Westerplatte	Westerplatte	subst:sg:acc:n2	nazwa geograficzna	
-Westerplatte	Westerplatte	subst:sg:dat:n2	nazwa geograficzna	
-Westerplatte	Westerplatte	subst:sg:gen:n2	nazwa geograficzna	
-Westerplatte	Westerplatte	subst:sg:inst:n2	nazwa geograficzna	
-Westerplatte	Westerplatte	subst:sg:loc:n2	nazwa geograficzna	
-Westerplatte	Westerplatte	subst:sg:nom:n2	nazwa geograficzna	
-Westerplatte	Westerplatte	subst:sg:voc:n2	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:pl:acc:n:ncol	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:pl:dat:n:ncol	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:pl:gen:n:ncol	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:pl:inst:n:ncol	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:pl:loc:n:ncol	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:pl:nom:n:ncol	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:pl:voc:n:ncol	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:sg:acc:n:ncol	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:sg:dat:n:ncol	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:sg:gen:n:ncol	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:sg:inst:n:ncol	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:sg:loc:n:ncol	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:sg:nom:n:ncol	nazwa geograficzna	
+Westerplatte	Westerplatte	subst:sg:voc:n:ncol	nazwa geograficzna	
 Westfaliach	Westfalia	subst:pl:loc:f	nazwa geograficzna	
 Westfaliami	Westfalia	subst:pl:inst:f	nazwa geograficzna	
 Westfalia	Westfalia	subst:sg:nom:f	nazwa geograficzna	
@@ -3391,20 +3391,20 @@ Węgierki	Węgierka	subst:pl:voc:f	nazwa pospolita
 Węgierki	Węgierka	subst:sg:gen:f	nazwa pospolita	
 Węgierkom	Węgierka	subst:pl:dat:f	nazwa pospolita	
 Węgierko	Węgierka	subst:sg:voc:f	nazwa pospolita	
-Węgorzewach	Węgorzewo	subst:pl:loc:n2	nazwa geograficzna	
-Węgorzewami	Węgorzewo	subst:pl:inst:n2	nazwa geograficzna	
-Węgorzewa	Węgorzewo	subst:pl:acc:n2	nazwa geograficzna	
-Węgorzewa	Węgorzewo	subst:pl:nom:n2	nazwa geograficzna	
-Węgorzewa	Węgorzewo	subst:pl:voc:n2	nazwa geograficzna	
-Węgorzewa	Węgorzewo	subst:sg:gen:n2	nazwa geograficzna	
-Węgorzewem	Węgorzewo	subst:sg:inst:n2	nazwa geograficzna	
-Węgorzewie	Węgorzewo	subst:sg:loc:n2	nazwa geograficzna	
-Węgorzewom	Węgorzewo	subst:pl:dat:n2	nazwa geograficzna	
-Węgorzewo	Węgorzewo	subst:sg:acc:n2	nazwa geograficzna	
-Węgorzewo	Węgorzewo	subst:sg:nom:n2	nazwa geograficzna	
-Węgorzewo	Węgorzewo	subst:sg:voc:n2	nazwa geograficzna	
-Węgorzewu	Węgorzewo	subst:sg:dat:n2	nazwa geograficzna	
-Węgorzew	Węgorzewo	subst:pl:gen:n2	nazwa geograficzna	
+Węgorzewach	Węgorzewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Węgorzewami	Węgorzewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Węgorzewa	Węgorzewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Węgorzewa	Węgorzewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Węgorzewa	Węgorzewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Węgorzewa	Węgorzewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Węgorzewem	Węgorzewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Węgorzewie	Węgorzewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Węgorzewom	Węgorzewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Węgorzewo	Węgorzewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Węgorzewo	Węgorzewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Węgorzewo	Węgorzewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Węgorzewu	Węgorzewo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Węgorzew	Węgorzewo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Węgrowach	Węgrów	subst:pl:loc:m3	nazwa geograficzna	
 Węgrowami	Węgrów	subst:pl:inst:m3	nazwa geograficzna	
 Węgrowa	Węgrów	subst:sg:gen:m3	nazwa geograficzna	
@@ -3420,34 +3420,34 @@ Węgrowy	Węgrów	subst:pl:nom:m3	nazwa geograficzna
 Węgrowy	Węgrów	subst:pl:voc:m3	nazwa geograficzna	
 Węgrów	Węgrów	subst:sg:acc:m3	nazwa geograficzna	
 Węgrów	Węgrów	subst:sg:nom:m3	nazwa geograficzna	
-Węgier	Węgry	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Węgier	Węgry	subst:pl:gen:p3	nazwa geograficzna	
-Węgrami	Węgry	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Węgrami	Węgry	subst:pl:inst:p3	nazwa geograficzna	
-Węgrom	Węgry	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Węgrom	Węgry	subst:pl:dat:p3	nazwa geograficzna	
-Węgry	Węgry	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Węgry	Węgry	subst:pl:acc:p3	nazwa geograficzna	
-Węgry	Węgry	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Węgry	Węgry	subst:pl:nom:p3	nazwa geograficzna	
-Węgry	Węgry	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Węgry	Węgry	subst:pl:voc:p3	nazwa geograficzna	
-Węgrzech	Węgry	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Węgrzech	Węgry	subst:pl:loc:p3	nazwa geograficzna	
-Węgrzcach	Węgrzce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Węgrzcach	Węgrzce	subst:pl:loc:p3	nazwa geograficzna	
-Węgrzcami	Węgrzce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Węgrzcami	Węgrzce	subst:pl:inst:p3	nazwa geograficzna	
-Węgrzce	Węgrzce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Węgrzce	Węgrzce	subst:pl:acc:p3	nazwa geograficzna	
-Węgrzce	Węgrzce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Węgrzce	Węgrzce	subst:pl:nom:p3	nazwa geograficzna	
-Węgrzce	Węgrzce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Węgrzce	Węgrzce	subst:pl:voc:p3	nazwa geograficzna	
-Węgrzcom	Węgrzce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Węgrzcom	Węgrzce	subst:pl:dat:p3	nazwa geograficzna	
-Węgrzec	Węgrzce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Węgrzec	Węgrzce	subst:pl:gen:p3	nazwa geograficzna	
+Węgier	Węgry	subst:pl:gen:n:pt	nazwa geograficzna	
+Węgier	Węgry	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Węgrami	Węgry	subst:pl:inst:n:pt	nazwa geograficzna	
+Węgrami	Węgry	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Węgrom	Węgry	subst:pl:dat:n:pt	nazwa geograficzna	
+Węgrom	Węgry	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Węgry	Węgry	subst:pl:acc:n:pt	nazwa geograficzna	
+Węgry	Węgry	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Węgry	Węgry	subst:pl:nom:n:pt	nazwa geograficzna	
+Węgry	Węgry	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Węgry	Węgry	subst:pl:voc:n:pt	nazwa geograficzna	
+Węgry	Węgry	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Węgrzech	Węgry	subst:pl:loc:n:pt	nazwa geograficzna	
+Węgrzech	Węgry	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Węgrzcach	Węgrzce	subst:pl:loc:n:pt	nazwa geograficzna	
+Węgrzcach	Węgrzce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Węgrzcami	Węgrzce	subst:pl:inst:n:pt	nazwa geograficzna	
+Węgrzcami	Węgrzce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Węgrzce	Węgrzce	subst:pl:acc:n:pt	nazwa geograficzna	
+Węgrzce	Węgrzce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Węgrzce	Węgrzce	subst:pl:nom:n:pt	nazwa geograficzna	
+Węgrzce	Węgrzce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Węgrzce	Węgrzce	subst:pl:voc:n:pt	nazwa geograficzna	
+Węgrzce	Węgrzce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Węgrzcom	Węgrzce	subst:pl:dat:n:pt	nazwa geograficzna	
+Węgrzcom	Węgrzce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Węgrzec	Węgrzce	subst:pl:gen:n:pt	nazwa geograficzna	
+Węgrzec	Węgrzce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Węgrzynowska	Węgrzynowska	subst:sg:nom:f	nazwisko	
 Węgrzynowska	Węgrzynowska	subst:sg:voc:f	nazwisko	
 Węgrzynowską	Węgrzynowska	subst:sg:acc:f	nazwisko	
@@ -3552,20 +3552,20 @@ WF	WF	subst:sg:nom:m3	nazwa pospolita
 WF-y	WF	subst:pl:acc:m3	nazwa pospolita	
 WF-y	WF	subst:pl:nom:m3	nazwa pospolita	
 WF-y	WF	subst:pl:voc:m3	nazwa pospolita	
-WFSW	WFSW	subst:pl:acc:n2	nazwa organizacji	
-WFSW	WFSW	subst:pl:dat:n2	nazwa organizacji	
-WFSW	WFSW	subst:pl:gen:n2	nazwa organizacji	
-WFSW	WFSW	subst:pl:inst:n2	nazwa organizacji	
-WFSW	WFSW	subst:pl:loc:n2	nazwa organizacji	
-WFSW	WFSW	subst:pl:nom:n2	nazwa organizacji	
-WFSW	WFSW	subst:pl:voc:n2	nazwa organizacji	
-WFSW	WFSW	subst:sg:acc:n2	nazwa organizacji	
-WFSW	WFSW	subst:sg:dat:n2	nazwa organizacji	
-WFSW	WFSW	subst:sg:gen:n2	nazwa organizacji	
-WFSW	WFSW	subst:sg:inst:n2	nazwa organizacji	
-WFSW	WFSW	subst:sg:loc:n2	nazwa organizacji	
-WFSW	WFSW	subst:sg:nom:n2	nazwa organizacji	
-WFSW	WFSW	subst:sg:voc:n2	nazwa organizacji	
+WFSW	WFSW	subst:pl:acc:n:ncol	nazwa organizacji	
+WFSW	WFSW	subst:pl:dat:n:ncol	nazwa organizacji	
+WFSW	WFSW	subst:pl:gen:n:ncol	nazwa organizacji	
+WFSW	WFSW	subst:pl:inst:n:ncol	nazwa organizacji	
+WFSW	WFSW	subst:pl:loc:n:ncol	nazwa organizacji	
+WFSW	WFSW	subst:pl:nom:n:ncol	nazwa organizacji	
+WFSW	WFSW	subst:pl:voc:n:ncol	nazwa organizacji	
+WFSW	WFSW	subst:sg:acc:n:ncol	nazwa organizacji	
+WFSW	WFSW	subst:sg:dat:n:ncol	nazwa organizacji	
+WFSW	WFSW	subst:sg:gen:n:ncol	nazwa organizacji	
+WFSW	WFSW	subst:sg:inst:n:ncol	nazwa organizacji	
+WFSW	WFSW	subst:sg:loc:n:ncol	nazwa organizacji	
+WFSW	WFSW	subst:sg:nom:n:ncol	nazwa organizacji	
+WFSW	WFSW	subst:sg:voc:n:ncol	nazwa organizacji	
 WFTU	WFTU	subst:pl:acc:f	nazwa organizacji	
 WFTU	WFTU	subst:pl:dat:f	nazwa organizacji	
 WFTU	WFTU	subst:pl:gen:f	nazwa organizacji	
@@ -3644,20 +3644,20 @@ Whitmannów	Whitmann	subst:pl:gen:m1	nazwisko
 Whitmann	Whitmann	subst:sg:nom:m1	nazwisko	
 Whitmanny	Whitmann	depr:pl:nom:m2	nazwisko	
 Whitmanny	Whitmann	depr:pl:voc:m2	nazwisko	
-WHO	WHO	subst:pl:acc:n2	nazwa organizacji	
-WHO	WHO	subst:pl:dat:n2	nazwa organizacji	
-WHO	WHO	subst:pl:gen:n2	nazwa organizacji	
-WHO	WHO	subst:pl:inst:n2	nazwa organizacji	
-WHO	WHO	subst:pl:loc:n2	nazwa organizacji	
-WHO	WHO	subst:pl:nom:n2	nazwa organizacji	
-WHO	WHO	subst:pl:voc:n2	nazwa organizacji	
-WHO	WHO	subst:sg:acc:n2	nazwa organizacji	
-WHO	WHO	subst:sg:dat:n2	nazwa organizacji	
-WHO	WHO	subst:sg:gen:n2	nazwa organizacji	
-WHO	WHO	subst:sg:inst:n2	nazwa organizacji	
-WHO	WHO	subst:sg:loc:n2	nazwa organizacji	
-WHO	WHO	subst:sg:nom:n2	nazwa organizacji	
-WHO	WHO	subst:sg:voc:n2	nazwa organizacji	
+WHO	WHO	subst:pl:acc:n:ncol	nazwa organizacji	
+WHO	WHO	subst:pl:dat:n:ncol	nazwa organizacji	
+WHO	WHO	subst:pl:gen:n:ncol	nazwa organizacji	
+WHO	WHO	subst:pl:inst:n:ncol	nazwa organizacji	
+WHO	WHO	subst:pl:loc:n:ncol	nazwa organizacji	
+WHO	WHO	subst:pl:nom:n:ncol	nazwa organizacji	
+WHO	WHO	subst:pl:voc:n:ncol	nazwa organizacji	
+WHO	WHO	subst:sg:acc:n:ncol	nazwa organizacji	
+WHO	WHO	subst:sg:dat:n:ncol	nazwa organizacji	
+WHO	WHO	subst:sg:gen:n:ncol	nazwa organizacji	
+WHO	WHO	subst:sg:inst:n:ncol	nazwa organizacji	
+WHO	WHO	subst:sg:loc:n:ncol	nazwa organizacji	
+WHO	WHO	subst:sg:nom:n:ncol	nazwa organizacji	
+WHO	WHO	subst:sg:voc:n:ncol	nazwa organizacji	
 Wiaczesławach	Wiaczesław	subst:pl:loc:m1	imię	
 Wiaczesławami	Wiaczesław	subst:pl:inst:m1	imię	
 Wiaczesława	Wiaczesław	subst:sg:acc:m1	imię	
@@ -3946,36 +3946,36 @@ Wieleniu	Wieleń	subst:sg:voc:m3	nazwa geograficzna
 Wieleni	Wieleń	subst:pl:gen:m3	nazwa geograficzna	
 Wieleń	Wieleń	subst:sg:acc:m3	nazwa geograficzna	
 Wieleń	Wieleń	subst:sg:nom:m3	nazwa geograficzna	
-Wielgomłynach	Wielgomłyny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wielgomłynach	Wielgomłyny	subst:pl:loc:p3	nazwa geograficzna	
-Wielgomłynami	Wielgomłyny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wielgomłynami	Wielgomłyny	subst:pl:inst:p3	nazwa geograficzna	
-Wielgomłynom	Wielgomłyny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wielgomłynom	Wielgomłyny	subst:pl:dat:p3	nazwa geograficzna	
-Wielgomłynów	Wielgomłyny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wielgomłynów	Wielgomłyny	subst:pl:gen:p3	nazwa geograficzna	
-Wielgomłyny	Wielgomłyny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wielgomłyny	Wielgomłyny	subst:pl:acc:p3	nazwa geograficzna	
-Wielgomłyny	Wielgomłyny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wielgomłyny	Wielgomłyny	subst:pl:nom:p3	nazwa geograficzna	
-Wielgomłyny	Wielgomłyny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wielgomłyny	Wielgomłyny	subst:pl:voc:p3	nazwa geograficzna	
-Wielichowach	Wielichowo	subst:pl:loc:n2	nazwa geograficzna	
-Wielichowami	Wielichowo	subst:pl:inst:n2	nazwa geograficzna	
-Wielichowa	Wielichowo	subst:pl:acc:n2	nazwa geograficzna	
-Wielichowa	Wielichowo	subst:pl:nom:n2	nazwa geograficzna	
-Wielichowa	Wielichowo	subst:pl:voc:n2	nazwa geograficzna	
-Wielichowa	Wielichowo	subst:sg:gen:n2	nazwa geograficzna	
-Wielichowem	Wielichowo	subst:sg:inst:n2	nazwa geograficzna	
-Wielichowie	Wielichowo	subst:sg:loc:n2	nazwa geograficzna	
-Wielichowom	Wielichowo	subst:pl:dat:n2	nazwa geograficzna	
-Wielichowo	Wielichowo	subst:sg:acc:n2	nazwa geograficzna	
-Wielichowo	Wielichowo	subst:sg:nom:n2	nazwa geograficzna	
-Wielichowo	Wielichowo	subst:sg:voc:n2	nazwa geograficzna	
-Wielichowów	Wielichowo	subst:pl:gen:n2	nazwa geograficzna	
-Wielichowu	Wielichowo	subst:sg:dat:n2	nazwa geograficzna	
-Wielichow	Wielichowo	subst:pl:gen:n2	nazwa geograficzna	
-Wielichów	Wielichowo	subst:pl:gen:n2	nazwa geograficzna	
+Wielgomłynach	Wielgomłyny	subst:pl:loc:n:pt	nazwa geograficzna	
+Wielgomłynach	Wielgomłyny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wielgomłynami	Wielgomłyny	subst:pl:inst:n:pt	nazwa geograficzna	
+Wielgomłynami	Wielgomłyny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wielgomłynom	Wielgomłyny	subst:pl:dat:n:pt	nazwa geograficzna	
+Wielgomłynom	Wielgomłyny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wielgomłynów	Wielgomłyny	subst:pl:gen:n:pt	nazwa geograficzna	
+Wielgomłynów	Wielgomłyny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Wielgomłyny	Wielgomłyny	subst:pl:acc:n:pt	nazwa geograficzna	
+Wielgomłyny	Wielgomłyny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wielgomłyny	Wielgomłyny	subst:pl:nom:n:pt	nazwa geograficzna	
+Wielgomłyny	Wielgomłyny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wielgomłyny	Wielgomłyny	subst:pl:voc:n:pt	nazwa geograficzna	
+Wielgomłyny	Wielgomłyny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Wielichowach	Wielichowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wielichowami	Wielichowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wielichowa	Wielichowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Wielichowa	Wielichowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Wielichowa	Wielichowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Wielichowa	Wielichowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wielichowem	Wielichowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wielichowie	Wielichowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wielichowom	Wielichowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Wielichowo	Wielichowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Wielichowo	Wielichowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Wielichowo	Wielichowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Wielichowów	Wielichowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Wielichowu	Wielichowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wielichow	Wielichowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Wielichów	Wielichowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Wieliczce	Wieliczka	subst:sg:dat:f	nazwa geograficzna	
 Wieliczce	Wieliczka	subst:sg:loc:f	nazwa geograficzna	
 Wieliczek	Wieliczka	subst:pl:gen:f	nazwa geograficzna	
@@ -4005,20 +4005,20 @@ Wielimiu	Wielim	subst:sg:voc:m3	nazwa organizacji
 Wielimi	Wielim	subst:pl:gen:m3	nazwa organizacji	
 Wielim	Wielim	subst:sg:acc:m3	nazwa organizacji	
 Wielim	Wielim	subst:sg:nom:m3	nazwa organizacji	
-Wielimiach	Wielimie	subst:pl:loc:n2	nazwa geograficzna	
-Wielimiami	Wielimie	subst:pl:inst:n2	nazwa geograficzna	
-Wielimia	Wielimie	subst:pl:acc:n2	nazwa geograficzna	
-Wielimia	Wielimie	subst:pl:nom:n2	nazwa geograficzna	
-Wielimia	Wielimie	subst:pl:voc:n2	nazwa geograficzna	
-Wielimia	Wielimie	subst:sg:gen:n2	nazwa geograficzna	
-Wielimiem	Wielimie	subst:sg:inst:n2	nazwa geograficzna	
-Wielimie	Wielimie	subst:sg:acc:n2	nazwa geograficzna	
-Wielimie	Wielimie	subst:sg:nom:n2	nazwa geograficzna	
-Wielimie	Wielimie	subst:sg:voc:n2	nazwa geograficzna	
-Wielimiom	Wielimie	subst:pl:dat:n2	nazwa geograficzna	
-Wielimiu	Wielimie	subst:sg:dat:n2	nazwa geograficzna	
-Wielimiu	Wielimie	subst:sg:loc:n2	nazwa geograficzna	
-Wielimi	Wielimie	subst:pl:gen:n2	nazwa geograficzna	
+Wielimiach	Wielimie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wielimiami	Wielimie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wielimia	Wielimie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Wielimia	Wielimie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Wielimia	Wielimie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Wielimia	Wielimie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wielimiem	Wielimie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wielimie	Wielimie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Wielimie	Wielimie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Wielimie	Wielimie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Wielimiom	Wielimie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Wielimiu	Wielimie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wielimiu	Wielimie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wielimi	Wielimie	subst:pl:gen:n:ncol	nazwa geograficzna	
 Wielisławach	Wielisław	subst:pl:loc:m1	imię	
 Wielisławami	Wielisław	subst:pl:inst:m1	imię	
 Wielisława	Wielisław	subst:sg:acc:m1	imię	
@@ -4480,20 +4480,20 @@ Wierzchosławy	Wierzchosława	subst:pl:acc:f	imię
 Wierzchosławy	Wierzchosława	subst:pl:nom:f	imię	
 Wierzchosławy	Wierzchosława	subst:pl:voc:f	imię	
 Wierzchosławy	Wierzchosława	subst:sg:gen:f	imię	
-Wierzchosławicach	Wierzchosławice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wierzchosławicach	Wierzchosławice	subst:pl:loc:p3	nazwa geograficzna	
-Wierzchosławicami	Wierzchosławice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wierzchosławicami	Wierzchosławice	subst:pl:inst:p3	nazwa geograficzna	
-Wierzchosławice	Wierzchosławice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wierzchosławice	Wierzchosławice	subst:pl:acc:p3	nazwa geograficzna	
-Wierzchosławice	Wierzchosławice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wierzchosławice	Wierzchosławice	subst:pl:nom:p3	nazwa geograficzna	
-Wierzchosławice	Wierzchosławice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wierzchosławice	Wierzchosławice	subst:pl:voc:p3	nazwa geograficzna	
-Wierzchosławicom	Wierzchosławice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wierzchosławicom	Wierzchosławice	subst:pl:dat:p3	nazwa geograficzna	
-Wierzchosławic	Wierzchosławice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wierzchosławic	Wierzchosławice	subst:pl:gen:p3	nazwa geograficzna	
+Wierzchosławicach	Wierzchosławice	subst:pl:loc:n:pt	nazwa geograficzna	
+Wierzchosławicach	Wierzchosławice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wierzchosławicami	Wierzchosławice	subst:pl:inst:n:pt	nazwa geograficzna	
+Wierzchosławicami	Wierzchosławice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wierzchosławice	Wierzchosławice	subst:pl:acc:n:pt	nazwa geograficzna	
+Wierzchosławice	Wierzchosławice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wierzchosławice	Wierzchosławice	subst:pl:nom:n:pt	nazwa geograficzna	
+Wierzchosławice	Wierzchosławice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wierzchosławice	Wierzchosławice	subst:pl:voc:n:pt	nazwa geograficzna	
+Wierzchosławice	Wierzchosławice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Wierzchosławicom	Wierzchosławice	subst:pl:dat:n:pt	nazwa geograficzna	
+Wierzchosławicom	Wierzchosławice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wierzchosławic	Wierzchosławice	subst:pl:gen:n:pt	nazwa geograficzna	
+Wierzchosławic	Wierzchosławice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Wierzchowska	Wierzchowska	subst:sg:nom:f	nazwisko	
 Wierzchowska	Wierzchowska	subst:sg:voc:f	nazwisko	
 Wierzchowską	Wierzchowska	subst:sg:acc:f	nazwisko	
@@ -4614,20 +4614,20 @@ Wierzyńskim	Wierzyński	subst:sg:inst:m1	nazwisko
 Wierzyńskim	Wierzyński	subst:sg:loc:m1	nazwisko	
 Wierzyński	Wierzyński	subst:sg:nom:m1	nazwisko	
 Wierzyński	Wierzyński	subst:sg:voc:m1	nazwisko	
-Wiesbaden	Wiesbaden	subst:pl:acc:n2	nazwa geograficzna	
-Wiesbaden	Wiesbaden	subst:pl:dat:n2	nazwa geograficzna	
-Wiesbaden	Wiesbaden	subst:pl:gen:n2	nazwa geograficzna	
-Wiesbaden	Wiesbaden	subst:pl:inst:n2	nazwa geograficzna	
-Wiesbaden	Wiesbaden	subst:pl:loc:n2	nazwa geograficzna	
-Wiesbaden	Wiesbaden	subst:pl:nom:n2	nazwa geograficzna	
-Wiesbaden	Wiesbaden	subst:pl:voc:n2	nazwa geograficzna	
-Wiesbaden	Wiesbaden	subst:sg:acc:n2	nazwa geograficzna	
-Wiesbaden	Wiesbaden	subst:sg:dat:n2	nazwa geograficzna	
-Wiesbaden	Wiesbaden	subst:sg:gen:n2	nazwa geograficzna	
-Wiesbaden	Wiesbaden	subst:sg:inst:n2	nazwa geograficzna	
-Wiesbaden	Wiesbaden	subst:sg:loc:n2	nazwa geograficzna	
-Wiesbaden	Wiesbaden	subst:sg:nom:n2	nazwa geograficzna	
-Wiesbaden	Wiesbaden	subst:sg:voc:n2	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:pl:acc:n:ncol	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:pl:dat:n:ncol	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:pl:gen:n:ncol	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:pl:nom:n:ncol	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:pl:voc:n:ncol	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:sg:acc:n:ncol	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:sg:nom:n:ncol	nazwa geograficzna	
+Wiesbaden	Wiesbaden	subst:sg:voc:n:ncol	nazwa geograficzna	
 Wieselach	Wiesel	subst:pl:loc:m1	nazwisko	
 Wieselami	Wiesel	subst:pl:inst:m1	nazwisko	
 Wiesela	Wiesel	subst:sg:acc:m1	nazwisko	
@@ -4795,20 +4795,20 @@ Wietnamki	Wietnamka	subst:pl:voc:f	nazwa pospolita
 Wietnamki	Wietnamka	subst:sg:gen:f	nazwa pospolita	
 Wietnamkom	Wietnamka	subst:pl:dat:f	nazwa pospolita	
 Wietnamko	Wietnamka	subst:sg:voc:f	nazwa pospolita	
-Wietrzychowicach	Wietrzychowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wietrzychowicach	Wietrzychowice	subst:pl:loc:p3	nazwa geograficzna	
-Wietrzychowicami	Wietrzychowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wietrzychowicami	Wietrzychowice	subst:pl:inst:p3	nazwa geograficzna	
-Wietrzychowice	Wietrzychowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wietrzychowice	Wietrzychowice	subst:pl:acc:p3	nazwa geograficzna	
-Wietrzychowice	Wietrzychowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wietrzychowice	Wietrzychowice	subst:pl:nom:p3	nazwa geograficzna	
-Wietrzychowice	Wietrzychowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wietrzychowice	Wietrzychowice	subst:pl:voc:p3	nazwa geograficzna	
-Wietrzychowicom	Wietrzychowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wietrzychowicom	Wietrzychowice	subst:pl:dat:p3	nazwa geograficzna	
-Wietrzychowic	Wietrzychowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wietrzychowic	Wietrzychowice	subst:pl:gen:p3	nazwa geograficzna	
+Wietrzychowicach	Wietrzychowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Wietrzychowicach	Wietrzychowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wietrzychowicami	Wietrzychowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Wietrzychowicami	Wietrzychowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wietrzychowice	Wietrzychowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Wietrzychowice	Wietrzychowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wietrzychowice	Wietrzychowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Wietrzychowice	Wietrzychowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wietrzychowice	Wietrzychowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Wietrzychowice	Wietrzychowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Wietrzychowicom	Wietrzychowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Wietrzychowicom	Wietrzychowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wietrzychowic	Wietrzychowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Wietrzychowic	Wietrzychowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Więcemile	Więcemił	subst:sg:loc:m1	imię	
 Więcemile	Więcemił	subst:sg:voc:m1	imię	
 Więcemiłach	Więcemił	subst:pl:loc:m1	imię	
@@ -4995,20 +4995,20 @@ Wiganny	Wiganna	subst:pl:acc:f	imię
 Wiganny	Wiganna	subst:pl:nom:f	imię	
 Wiganny	Wiganna	subst:pl:voc:f	imię	
 Wiganny	Wiganna	subst:sg:gen:f	imię	
-Wigier	Wigry	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wigier	Wigry	subst:pl:gen:p3	nazwa geograficzna	
-Wigrach	Wigry	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wigrach	Wigry	subst:pl:loc:p3	nazwa geograficzna	
-Wigrami	Wigry	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wigrami	Wigry	subst:pl:inst:p3	nazwa geograficzna	
-Wigrom	Wigry	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wigrom	Wigry	subst:pl:dat:p3	nazwa geograficzna	
-Wigry	Wigry	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wigry	Wigry	subst:pl:acc:p3	nazwa geograficzna	
-Wigry	Wigry	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wigry	Wigry	subst:pl:nom:p3	nazwa geograficzna	
-Wigry	Wigry	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wigry	Wigry	subst:pl:voc:p3	nazwa geograficzna	
+Wigier	Wigry	subst:pl:gen:n:pt	nazwa geograficzna	
+Wigier	Wigry	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Wigrach	Wigry	subst:pl:loc:n:pt	nazwa geograficzna	
+Wigrach	Wigry	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wigrami	Wigry	subst:pl:inst:n:pt	nazwa geograficzna	
+Wigrami	Wigry	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wigrom	Wigry	subst:pl:dat:n:pt	nazwa geograficzna	
+Wigrom	Wigry	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wigry	Wigry	subst:pl:acc:n:pt	nazwa geograficzna	
+Wigry	Wigry	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wigry	Wigry	subst:pl:nom:n:pt	nazwa geograficzna	
+Wigry	Wigry	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wigry	Wigry	subst:pl:voc:n:pt	nazwa geograficzna	
+Wigry	Wigry	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Wigurach	Wigura	subst:pl:loc:m1	nazwisko	
 Wigurami	Wigura	subst:pl:inst:m1	nazwisko	
 Wigura	Wigura	subst:sg:nom:m1	nazwisko	
@@ -5227,20 +5227,20 @@ Wiktusi	Wiktusia	subst:sg:dat:f	imię
 Wiktusi	Wiktusia	subst:sg:gen:f	imię	
 Wiktusi	Wiktusia	subst:sg:loc:f	imię	
 Wiktuś	Wiktusia	subst:pl:gen:f	imię	char.
-Wilamowicach	Wilamowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wilamowicach	Wilamowice	subst:pl:loc:p3	nazwa geograficzna	
-Wilamowicami	Wilamowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wilamowicami	Wilamowice	subst:pl:inst:p3	nazwa geograficzna	
-Wilamowice	Wilamowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wilamowice	Wilamowice	subst:pl:acc:p3	nazwa geograficzna	
-Wilamowice	Wilamowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wilamowice	Wilamowice	subst:pl:nom:p3	nazwa geograficzna	
-Wilamowice	Wilamowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wilamowice	Wilamowice	subst:pl:voc:p3	nazwa geograficzna	
-Wilamowicom	Wilamowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wilamowicom	Wilamowice	subst:pl:dat:p3	nazwa geograficzna	
-Wilamowic	Wilamowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wilamowic	Wilamowice	subst:pl:gen:p3	nazwa geograficzna	
+Wilamowicach	Wilamowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Wilamowicach	Wilamowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wilamowicami	Wilamowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Wilamowicami	Wilamowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wilamowice	Wilamowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Wilamowice	Wilamowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wilamowice	Wilamowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Wilamowice	Wilamowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wilamowice	Wilamowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Wilamowice	Wilamowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Wilamowicom	Wilamowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Wilamowicom	Wilamowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wilamowic	Wilamowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Wilamowic	Wilamowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Wilanowach	Wilanów	subst:pl:loc:m3	nazwa geograficzna	
 Wilanowami	Wilanów	subst:pl:inst:m3	nazwa geograficzna	
 Wilanowa	Wilanów	subst:sg:gen:m3	nazwa geograficzna	
@@ -5394,20 +5394,20 @@ Wilków	Wilek	subst:pl:acc:m1	imię
 Wilków	Wilek	subst:pl:gen:m1	imię	
 Wilku	Wilek	subst:sg:loc:m1	imię	
 Wilku	Wilek	subst:sg:voc:m1	imię	
-Wileńskich	Wileńskie	subst:pl:gen:n2	nazwa geograficzna	
-Wileńskich	Wileńskie	subst:pl:loc:n2	nazwa geograficzna	
-Wileńskiego	Wileńskie	subst:sg:gen:n2	nazwa geograficzna	
-Wileńskiemu	Wileńskie	subst:sg:dat:n2	nazwa geograficzna	
-Wileńskiem	Wileńskie	subst:sg:inst:n2	nazwa geograficzna	
-Wileńskiem	Wileńskie	subst:sg:loc:n2	nazwa geograficzna	
-Wileńskie	Wileńskie	subst:pl:acc:n2	nazwa geograficzna	
-Wileńskie	Wileńskie	subst:pl:nom:n2	nazwa geograficzna	
-Wileńskie	Wileńskie	subst:pl:voc:n2	nazwa geograficzna	
-Wileńskie	Wileńskie	subst:sg:acc:n2	nazwa geograficzna	
-Wileńskie	Wileńskie	subst:sg:nom:n2	nazwa geograficzna	
-Wileńskie	Wileńskie	subst:sg:voc:n2	nazwa geograficzna	
-Wileńskimi	Wileńskie	subst:pl:inst:n2	nazwa geograficzna	
-Wileńskim	Wileńskie	subst:pl:dat:n2	nazwa geograficzna	
+Wileńskich	Wileńskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Wileńskich	Wileńskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wileńskiego	Wileńskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wileńskiemu	Wileńskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wileńskiem	Wileńskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wileńskiem	Wileńskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wileńskie	Wileńskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Wileńskie	Wileńskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Wileńskie	Wileńskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Wileńskie	Wileńskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Wileńskie	Wileńskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Wileńskie	Wileńskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Wileńskimi	Wileńskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wileńskim	Wileńskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Wileńszczyznach	Wileńszczyzna	subst:pl:loc:f	nazwa geograficzna	
 Wileńszczyznami	Wileńszczyzna	subst:pl:inst:f	nazwa geograficzna	
 Wileńszczyzna	Wileńszczyzna	subst:sg:nom:f	nazwa geograficzna	
@@ -5636,20 +5636,20 @@ Wilkołazkim	Wilkołazki	subst:sg:inst:m1	nazwisko
 Wilkołazkim	Wilkołazki	subst:sg:loc:m1	nazwisko	
 Wilkołazki	Wilkołazki	subst:sg:nom:m1	nazwisko	
 Wilkołazki	Wilkołazki	subst:sg:voc:m1	nazwisko	
-Wilkowicach	Wilkowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wilkowicach	Wilkowice	subst:pl:loc:p3	nazwa geograficzna	
-Wilkowicami	Wilkowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wilkowicami	Wilkowice	subst:pl:inst:p3	nazwa geograficzna	
-Wilkowice	Wilkowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wilkowice	Wilkowice	subst:pl:acc:p3	nazwa geograficzna	
-Wilkowice	Wilkowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wilkowice	Wilkowice	subst:pl:nom:p3	nazwa geograficzna	
-Wilkowice	Wilkowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wilkowice	Wilkowice	subst:pl:voc:p3	nazwa geograficzna	
-Wilkowicom	Wilkowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wilkowicom	Wilkowice	subst:pl:dat:p3	nazwa geograficzna	
-Wilkowic	Wilkowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wilkowic	Wilkowice	subst:pl:gen:p3	nazwa geograficzna	
+Wilkowicach	Wilkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Wilkowicach	Wilkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wilkowicami	Wilkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Wilkowicami	Wilkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wilkowice	Wilkowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Wilkowice	Wilkowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wilkowice	Wilkowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Wilkowice	Wilkowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wilkowice	Wilkowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Wilkowice	Wilkowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Wilkowicom	Wilkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Wilkowicom	Wilkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wilkowic	Wilkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Wilkowic	Wilkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Wilkowach	Wilków	subst:pl:loc:m3	nazwa geograficzna	
 Wilkowami	Wilków	subst:pl:inst:m3	nazwa geograficzna	
 Wilkowa	Wilków	subst:sg:gen:m3	nazwa geograficzna	
@@ -5729,20 +5729,20 @@ Willysów	Willys	subst:pl:gen:m1	nazwisko
 Willys	Willys	subst:sg:nom:m1	nazwisko	
 Willysy	Willys	depr:pl:nom:m2	nazwisko	
 Willysy	Willys	depr:pl:voc:m2	nazwisko	
-Wilnach	Wilno	subst:pl:loc:n2	nazwa geograficzna	
-Wilnami	Wilno	subst:pl:inst:n2	nazwa geograficzna	
-Wilna	Wilno	subst:pl:acc:n2	nazwa geograficzna	
-Wilna	Wilno	subst:pl:nom:n2	nazwa geograficzna	
-Wilna	Wilno	subst:pl:voc:n2	nazwa geograficzna	
-Wilna	Wilno	subst:sg:gen:n2	nazwa geograficzna	
-Wilnem	Wilno	subst:sg:inst:n2	nazwa geograficzna	
-Wilnie	Wilno	subst:sg:loc:n2	nazwa geograficzna	
-Wilnom	Wilno	subst:pl:dat:n2	nazwa geograficzna	
-Wilno	Wilno	subst:sg:acc:n2	nazwa geograficzna	
-Wilno	Wilno	subst:sg:nom:n2	nazwa geograficzna	
-Wilno	Wilno	subst:sg:voc:n2	nazwa geograficzna	
-Wilnu	Wilno	subst:sg:dat:n2	nazwa geograficzna	
-Wiln	Wilno	subst:pl:gen:n2	nazwa geograficzna	
+Wilnach	Wilno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wilnami	Wilno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wilna	Wilno	subst:pl:acc:n:ncol	nazwa geograficzna	
+Wilna	Wilno	subst:pl:nom:n:ncol	nazwa geograficzna	
+Wilna	Wilno	subst:pl:voc:n:ncol	nazwa geograficzna	
+Wilna	Wilno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wilnem	Wilno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wilnie	Wilno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wilnom	Wilno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Wilno	Wilno	subst:sg:acc:n:ncol	nazwa geograficzna	
+Wilno	Wilno	subst:sg:nom:n:ncol	nazwa geograficzna	
+Wilno	Wilno	subst:sg:voc:n:ncol	nazwa geograficzna	
+Wilnu	Wilno	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wiln	Wilno	subst:pl:gen:n:ncol	nazwa geograficzna	
 Wilsonach	Wilson	subst:pl:loc:m1	nazwisko	
 Wilsonami	Wilson	subst:pl:inst:m1	nazwisko	
 Wilsona	Wilson	subst:sg:acc:m1	nazwisko	
@@ -5941,20 +5941,20 @@ Winiarskim	Winiarski	subst:sg:inst:m1	nazwisko
 Winiarskim	Winiarski	subst:sg:loc:m1	nazwisko	
 Winiarski	Winiarski	subst:sg:nom:m1	nazwisko	
 Winiarski	Winiarski	subst:sg:voc:m1	nazwisko	
-Winiarach	Winiary	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Winiarach	Winiary	subst:pl:loc:p3	nazwa geograficzna	
-Winiarami	Winiary	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Winiarami	Winiary	subst:pl:inst:p3	nazwa geograficzna	
-Winiarom	Winiary	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Winiarom	Winiary	subst:pl:dat:p3	nazwa geograficzna	
-Winiar	Winiary	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Winiar	Winiary	subst:pl:gen:p3	nazwa geograficzna	
-Winiary	Winiary	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Winiary	Winiary	subst:pl:acc:p3	nazwa geograficzna	
-Winiary	Winiary	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Winiary	Winiary	subst:pl:nom:p3	nazwa geograficzna	
-Winiary	Winiary	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Winiary	Winiary	subst:pl:voc:p3	nazwa geograficzna	
+Winiarach	Winiary	subst:pl:loc:n:pt	nazwa geograficzna	
+Winiarach	Winiary	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Winiarami	Winiary	subst:pl:inst:n:pt	nazwa geograficzna	
+Winiarami	Winiary	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Winiarom	Winiary	subst:pl:dat:n:pt	nazwa geograficzna	
+Winiarom	Winiary	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Winiar	Winiary	subst:pl:gen:n:pt	nazwa geograficzna	
+Winiar	Winiary	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Winiary	Winiary	subst:pl:acc:n:pt	nazwa geograficzna	
+Winiary	Winiary	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Winiary	Winiary	subst:pl:nom:n:pt	nazwa geograficzna	
+Winiary	Winiary	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Winiary	Winiary	subst:pl:voc:n:pt	nazwa geograficzna	
+Winiary	Winiary	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Winicjuszach	Winicjusz	subst:pl:loc:m1	imię	
 Winicjuszami	Winicjusz	subst:pl:inst:m1	imię	
 Winicjusza	Winicjusz	subst:sg:acc:m1	imię	
@@ -6033,20 +6033,20 @@ Winnickim	Winnicki	subst:sg:inst:m1	nazwisko
 Winnickim	Winnicki	subst:sg:loc:m1	nazwisko	
 Winnicki	Winnicki	subst:sg:nom:m1	nazwisko	
 Winnicki	Winnicki	subst:sg:voc:m1	nazwisko	
-Wińskach	Wińsko	subst:pl:loc:n2	nazwa geograficzna	
-Wińskami	Wińsko	subst:pl:inst:n2	nazwa geograficzna	
-Wińska	Wińsko	subst:pl:acc:n2	nazwa geograficzna	
-Wińska	Wińsko	subst:pl:nom:n2	nazwa geograficzna	
-Wińska	Wińsko	subst:pl:voc:n2	nazwa geograficzna	
-Wińska	Wińsko	subst:sg:gen:n2	nazwa geograficzna	
-Wińskiem	Wińsko	subst:sg:inst:n2	nazwa geograficzna	
-Wińskom	Wińsko	subst:pl:dat:n2	nazwa geograficzna	
-Wińsko	Wińsko	subst:sg:acc:n2	nazwa geograficzna	
-Wińsko	Wińsko	subst:sg:nom:n2	nazwa geograficzna	
-Wińsko	Wińsko	subst:sg:voc:n2	nazwa geograficzna	
-Wińsku	Wińsko	subst:sg:dat:n2	nazwa geograficzna	
-Wińsku	Wińsko	subst:sg:loc:n2	nazwa geograficzna	
-Wińsk	Wińsko	subst:pl:gen:n2	nazwa geograficzna	
+Wińskach	Wińsko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wińskami	Wińsko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wińska	Wińsko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Wińska	Wińsko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Wińska	Wińsko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Wińska	Wińsko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wińskiem	Wińsko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wińskom	Wińsko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Wińsko	Wińsko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Wińsko	Wińsko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Wińsko	Wińsko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Wińsku	Wińsko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wińsku	Wińsko	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wińsk	Wińsko	subst:pl:gen:n:ncol	nazwa geograficzna	
 Wiolecie	Wioleta	subst:sg:dat:f	imię	
 Wiolecie	Wioleta	subst:sg:loc:f	imię	
 Wioletach	Wioleta	subst:pl:loc:f	imię	
@@ -6199,33 +6199,33 @@ Wirtembergij	Wirtembergia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Wirtembergiom	Wirtembergia	subst:pl:dat:f	nazwa geograficzna	
 Wirtembergio	Wirtembergia	subst:sg:voc:f	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:pl:acc:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:pl:acc:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:pl:acc:n:ncol	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:pl:dat:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:pl:dat:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:pl:dat:n:ncol	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:pl:gen:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:pl:gen:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:pl:gen:n:ncol	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:pl:inst:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:pl:inst:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:pl:inst:n:ncol	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:pl:loc:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:pl:loc:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:pl:loc:n:ncol	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:pl:nom:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:pl:nom:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:pl:nom:n:ncol	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:pl:voc:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:pl:voc:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:pl:voc:n:ncol	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:sg:acc:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:sg:acc:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:sg:acc:n:ncol	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:sg:dat:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:sg:dat:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:sg:dat:n:ncol	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:sg:gen:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:sg:gen:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:sg:gen:n:ncol	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:sg:inst:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:sg:inst:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:sg:inst:n:ncol	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:sg:loc:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:sg:loc:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:sg:loc:n:ncol	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:sg:nom:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:sg:nom:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:sg:nom:n:ncol	nazwa geograficzna	
 Wisconsin	Wisconsin	subst:sg:voc:m3	nazwa geograficzna	
-Wisconsin	Wisconsin	subst:sg:voc:n2	nazwa geograficzna	
+Wisconsin	Wisconsin	subst:sg:voc:n:ncol	nazwa geograficzna	
 Wiseł	Wisła	subst:pl:gen:f	nazwa geograficzna	
 Wisłach	Wisła	subst:pl:loc:f	nazwa geograficzna	
 Wisłami	Wisła	subst:pl:inst:f	nazwa geograficzna	
@@ -6333,20 +6333,20 @@ Wiszni	Wisznia	subst:pl:gen:f	nazwa geograficzna	hom.
 Wiszni	Wisznia	subst:sg:dat:f	nazwa geograficzna	
 Wiszni	Wisznia	subst:sg:gen:f	nazwa geograficzna	
 Wiszni	Wisznia	subst:sg:loc:f	nazwa geograficzna	
-Wisznicach	Wisznice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wisznicach	Wisznice	subst:pl:loc:p3	nazwa geograficzna	
-Wisznicami	Wisznice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wisznicami	Wisznice	subst:pl:inst:p3	nazwa geograficzna	
-Wisznice	Wisznice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wisznice	Wisznice	subst:pl:acc:p3	nazwa geograficzna	
-Wisznice	Wisznice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wisznice	Wisznice	subst:pl:nom:p3	nazwa geograficzna	
-Wisznice	Wisznice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wisznice	Wisznice	subst:pl:voc:p3	nazwa geograficzna	
-Wisznicom	Wisznice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wisznicom	Wisznice	subst:pl:dat:p3	nazwa geograficzna	
-Wisznic	Wisznice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wisznic	Wisznice	subst:pl:gen:p3	nazwa geograficzna	
+Wisznicach	Wisznice	subst:pl:loc:n:pt	nazwa geograficzna	
+Wisznicach	Wisznice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wisznicami	Wisznice	subst:pl:inst:n:pt	nazwa geograficzna	
+Wisznicami	Wisznice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wisznice	Wisznice	subst:pl:acc:n:pt	nazwa geograficzna	
+Wisznice	Wisznice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wisznice	Wisznice	subst:pl:nom:n:pt	nazwa geograficzna	
+Wisznice	Wisznice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wisznice	Wisznice	subst:pl:voc:n:pt	nazwa geograficzna	
+Wisznice	Wisznice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Wisznicom	Wisznice	subst:pl:dat:n:pt	nazwa geograficzna	
+Wisznicom	Wisznice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wisznic	Wisznice	subst:pl:gen:n:pt	nazwa geograficzna	
+Wisznic	Wisznice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Wiszniewska	Wiszniewska	subst:sg:nom:f	nazwisko	
 Wiszniewska	Wiszniewska	subst:sg:voc:f	nazwisko	
 Wiszniewską	Wiszniewska	subst:sg:acc:f	nazwisko	
@@ -6453,20 +6453,20 @@ Wiślic	Wiślica	subst:pl:gen:f	nazwa geograficzna
 Wiślicy	Wiślica	subst:sg:dat:f	nazwa geograficzna	
 Wiślicy	Wiślica	subst:sg:gen:f	nazwa geograficzna	
 Wiślicy	Wiślica	subst:sg:loc:f	nazwa geograficzna	
-Wiśniewach	Wiśniewo	subst:pl:loc:n2	nazwa geograficzna	
-Wiśniewami	Wiśniewo	subst:pl:inst:n2	nazwa geograficzna	
-Wiśniewa	Wiśniewo	subst:pl:acc:n2	nazwa geograficzna	
-Wiśniewa	Wiśniewo	subst:pl:nom:n2	nazwa geograficzna	
-Wiśniewa	Wiśniewo	subst:pl:voc:n2	nazwa geograficzna	
-Wiśniewa	Wiśniewo	subst:sg:gen:n2	nazwa geograficzna	
-Wiśniewem	Wiśniewo	subst:sg:inst:n2	nazwa geograficzna	
-Wiśniewie	Wiśniewo	subst:sg:loc:n2	nazwa geograficzna	
-Wiśniewom	Wiśniewo	subst:pl:dat:n2	nazwa geograficzna	
-Wiśniewo	Wiśniewo	subst:sg:acc:n2	nazwa geograficzna	
-Wiśniewo	Wiśniewo	subst:sg:nom:n2	nazwa geograficzna	
-Wiśniewo	Wiśniewo	subst:sg:voc:n2	nazwa geograficzna	
-Wiśniewu	Wiśniewo	subst:sg:dat:n2	nazwa geograficzna	
-Wiśniew	Wiśniewo	subst:pl:gen:n2	nazwa geograficzna	
+Wiśniewach	Wiśniewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wiśniewami	Wiśniewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wiśniewa	Wiśniewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Wiśniewa	Wiśniewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Wiśniewa	Wiśniewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Wiśniewa	Wiśniewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wiśniewem	Wiśniewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wiśniewie	Wiśniewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wiśniewom	Wiśniewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Wiśniewo	Wiśniewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Wiśniewo	Wiśniewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Wiśniewo	Wiśniewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Wiśniewu	Wiśniewo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wiśniew	Wiśniewo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Wiśniewska	Wiśniewska	subst:sg:nom:f	nazwisko	
 Wiśniewska	Wiśniewska	subst:sg:voc:f	nazwisko	
 Wiśniewską	Wiśniewska	subst:sg:acc:f	nazwisko	
@@ -6659,22 +6659,22 @@ Witkiewiczów	Witkiewicz	subst:pl:gen:m1	nazwisko
 Witkiewiczu	Witkiewicz	subst:sg:loc:m1	nazwisko	
 Witkiewiczu	Witkiewicz	subst:sg:voc:m1	nazwisko	
 Witkiewicz	Witkiewicz	subst:sg:nom:m1	nazwisko	
-Witkowach	Witkowo	subst:pl:loc:n2	nazwa geograficzna	
-Witkowami	Witkowo	subst:pl:inst:n2	nazwa geograficzna	
-Witkowa	Witkowo	subst:pl:acc:n2	nazwa geograficzna	
-Witkowa	Witkowo	subst:pl:nom:n2	nazwa geograficzna	
-Witkowa	Witkowo	subst:pl:voc:n2	nazwa geograficzna	
-Witkowa	Witkowo	subst:sg:gen:n2	nazwa geograficzna	
-Witkowem	Witkowo	subst:sg:inst:n2	nazwa geograficzna	
-Witkowie	Witkowo	subst:sg:loc:n2	nazwa geograficzna	
-Witkowom	Witkowo	subst:pl:dat:n2	nazwa geograficzna	
-Witkowo	Witkowo	subst:sg:acc:n2	nazwa geograficzna	
-Witkowo	Witkowo	subst:sg:nom:n2	nazwa geograficzna	
-Witkowo	Witkowo	subst:sg:voc:n2	nazwa geograficzna	
-Witkowów	Witkowo	subst:pl:gen:n2	nazwa geograficzna	
-Witkowu	Witkowo	subst:sg:dat:n2	nazwa geograficzna	
-Witkow	Witkowo	subst:pl:gen:n2	nazwa geograficzna	
-Witków	Witkowo	subst:pl:gen:n2	nazwa geograficzna	
+Witkowach	Witkowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Witkowami	Witkowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Witkowa	Witkowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Witkowa	Witkowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Witkowa	Witkowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Witkowa	Witkowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Witkowem	Witkowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Witkowie	Witkowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Witkowom	Witkowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Witkowo	Witkowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Witkowo	Witkowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Witkowo	Witkowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Witkowów	Witkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Witkowu	Witkowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Witkow	Witkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Witków	Witkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Witkowska	Witkowska	subst:sg:nom:f	nazwisko	
 Witkowska	Witkowska	subst:sg:voc:f	nazwisko	
 Witkowską	Witkowska	subst:sg:acc:f	nazwisko	
@@ -6988,20 +6988,20 @@ Wizygotów	Wizygot	subst:pl:gen:m1	nazwa pospolita
 Wizygot	Wizygot	subst:sg:nom:m1	nazwa pospolita	
 Wizygoty	Wizygot	depr:pl:nom:m2	nazwa pospolita	
 Wizygoty	Wizygot	depr:pl:voc:m2	nazwa pospolita	
-WKD	WKD	subst:pl:acc:n2	nazwa firmy	
-WKD	WKD	subst:pl:dat:n2	nazwa firmy	
-WKD	WKD	subst:pl:gen:n2	nazwa firmy	
-WKD	WKD	subst:pl:inst:n2	nazwa firmy	
-WKD	WKD	subst:pl:loc:n2	nazwa firmy	
-WKD	WKD	subst:pl:nom:n2	nazwa firmy	
-WKD	WKD	subst:pl:voc:n2	nazwa firmy	
-WKD	WKD	subst:sg:acc:n2	nazwa firmy	
-WKD	WKD	subst:sg:dat:n2	nazwa firmy	
-WKD	WKD	subst:sg:gen:n2	nazwa firmy	
-WKD	WKD	subst:sg:inst:n2	nazwa firmy	
-WKD	WKD	subst:sg:loc:n2	nazwa firmy	
-WKD	WKD	subst:sg:nom:n2	nazwa firmy	
-WKD	WKD	subst:sg:voc:n2	nazwa firmy	
+WKD	WKD	subst:pl:acc:n:ncol	nazwa firmy	
+WKD	WKD	subst:pl:dat:n:ncol	nazwa firmy	
+WKD	WKD	subst:pl:gen:n:ncol	nazwa firmy	
+WKD	WKD	subst:pl:inst:n:ncol	nazwa firmy	
+WKD	WKD	subst:pl:loc:n:ncol	nazwa firmy	
+WKD	WKD	subst:pl:nom:n:ncol	nazwa firmy	
+WKD	WKD	subst:pl:voc:n:ncol	nazwa firmy	
+WKD	WKD	subst:sg:acc:n:ncol	nazwa firmy	
+WKD	WKD	subst:sg:dat:n:ncol	nazwa firmy	
+WKD	WKD	subst:sg:gen:n:ncol	nazwa firmy	
+WKD	WKD	subst:sg:inst:n:ncol	nazwa firmy	
+WKD	WKD	subst:sg:loc:n:ncol	nazwa firmy	
+WKD	WKD	subst:sg:nom:n:ncol	nazwa firmy	
+WKD	WKD	subst:sg:voc:n:ncol	nazwa firmy	
 WKR-ach	WKR	subst:pl:loc:m3	nazwa pospolita	
 WKR-ami	WKR	subst:pl:inst:m3	nazwa pospolita	
 WKR-em	WKR	subst:sg:inst:m3	nazwa pospolita	
@@ -7031,33 +7031,33 @@ Wkry	Wkra	subst:sg:gen:f	nazwa geograficzna
 Wkrze	Wkra	subst:sg:dat:f	nazwa geograficzna	
 Wkrze	Wkra	subst:sg:loc:f	nazwa geograficzna	
 WKU	WKU	subst:pl:acc:f	nazwa instytucji	
-WKU	WKU	subst:pl:acc:n2	nazwa instytucji	
+WKU	WKU	subst:pl:acc:n:ncol	nazwa instytucji	
 WKU	WKU	subst:pl:dat:f	nazwa instytucji	
-WKU	WKU	subst:pl:dat:n2	nazwa instytucji	
+WKU	WKU	subst:pl:dat:n:ncol	nazwa instytucji	
 WKU	WKU	subst:pl:gen:f	nazwa instytucji	
-WKU	WKU	subst:pl:gen:n2	nazwa instytucji	
+WKU	WKU	subst:pl:gen:n:ncol	nazwa instytucji	
 WKU	WKU	subst:pl:inst:f	nazwa instytucji	
-WKU	WKU	subst:pl:inst:n2	nazwa instytucji	
+WKU	WKU	subst:pl:inst:n:ncol	nazwa instytucji	
 WKU	WKU	subst:pl:loc:f	nazwa instytucji	
-WKU	WKU	subst:pl:loc:n2	nazwa instytucji	
+WKU	WKU	subst:pl:loc:n:ncol	nazwa instytucji	
 WKU	WKU	subst:pl:nom:f	nazwa instytucji	
-WKU	WKU	subst:pl:nom:n2	nazwa instytucji	
+WKU	WKU	subst:pl:nom:n:ncol	nazwa instytucji	
 WKU	WKU	subst:pl:voc:f	nazwa instytucji	
-WKU	WKU	subst:pl:voc:n2	nazwa instytucji	
+WKU	WKU	subst:pl:voc:n:ncol	nazwa instytucji	
 WKU	WKU	subst:sg:acc:f	nazwa instytucji	
-WKU	WKU	subst:sg:acc:n2	nazwa instytucji	
+WKU	WKU	subst:sg:acc:n:ncol	nazwa instytucji	
 WKU	WKU	subst:sg:dat:f	nazwa instytucji	
-WKU	WKU	subst:sg:dat:n2	nazwa instytucji	
+WKU	WKU	subst:sg:dat:n:ncol	nazwa instytucji	
 WKU	WKU	subst:sg:gen:f	nazwa instytucji	
-WKU	WKU	subst:sg:gen:n2	nazwa instytucji	
+WKU	WKU	subst:sg:gen:n:ncol	nazwa instytucji	
 WKU	WKU	subst:sg:inst:f	nazwa instytucji	
-WKU	WKU	subst:sg:inst:n2	nazwa instytucji	
+WKU	WKU	subst:sg:inst:n:ncol	nazwa instytucji	
 WKU	WKU	subst:sg:loc:f	nazwa instytucji	
-WKU	WKU	subst:sg:loc:n2	nazwa instytucji	
+WKU	WKU	subst:sg:loc:n:ncol	nazwa instytucji	
 WKU	WKU	subst:sg:nom:f	nazwa instytucji	
-WKU	WKU	subst:sg:nom:n2	nazwa instytucji	
+WKU	WKU	subst:sg:nom:n:ncol	nazwa instytucji	
 WKU	WKU	subst:sg:voc:f	nazwa instytucji	
-WKU	WKU	subst:sg:voc:n2	nazwa instytucji	
+WKU	WKU	subst:sg:voc:n:ncol	nazwa instytucji	
 Wlazła	Wlazła	subst:sg:nom:f	nazwisko	
 Wlazła	Wlazła	subst:sg:voc:f	nazwisko	
 Wlazłą	Wlazła	subst:sg:acc:f	nazwisko	
@@ -7258,22 +7258,22 @@ Władysławy	Władysława	subst:pl:acc:f	imię
 Władysławy	Władysława	subst:pl:nom:f	imię	
 Władysławy	Władysława	subst:pl:voc:f	imię	
 Władysławy	Władysława	subst:sg:gen:f	imię	
-Władysławowach	Władysławowo	subst:pl:loc:n2	nazwa geograficzna	
-Władysławowami	Władysławowo	subst:pl:inst:n2	nazwa geograficzna	
-Władysławowa	Władysławowo	subst:pl:acc:n2	nazwa geograficzna	
-Władysławowa	Władysławowo	subst:pl:nom:n2	nazwa geograficzna	
-Władysławowa	Władysławowo	subst:pl:voc:n2	nazwa geograficzna	
-Władysławowa	Władysławowo	subst:sg:gen:n2	nazwa geograficzna	
-Władysławowem	Władysławowo	subst:sg:inst:n2	nazwa geograficzna	
-Władysławowie	Władysławowo	subst:sg:loc:n2	nazwa geograficzna	
-Władysławowom	Władysławowo	subst:pl:dat:n2	nazwa geograficzna	
-Władysławowo	Władysławowo	subst:sg:acc:n2	nazwa geograficzna	
-Władysławowo	Władysławowo	subst:sg:nom:n2	nazwa geograficzna	
-Władysławowo	Władysławowo	subst:sg:voc:n2	nazwa geograficzna	
-Władysławowów	Władysławowo	subst:pl:gen:n2	nazwa geograficzna	
-Władysławowu	Władysławowo	subst:sg:dat:n2	nazwa geograficzna	
-Władysławow	Władysławowo	subst:pl:gen:n2	nazwa geograficzna	
-Władysławów	Władysławowo	subst:pl:gen:n2	nazwa geograficzna	
+Władysławowach	Władysławowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Władysławowami	Władysławowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Władysławowa	Władysławowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Władysławowa	Władysławowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Władysławowa	Władysławowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Władysławowa	Władysławowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Władysławowem	Władysławowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Władysławowie	Władysławowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Władysławowom	Władysławowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Władysławowo	Władysławowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Władysławowo	Władysławowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Władysławowo	Władysławowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Władysławowów	Władysławowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Władysławowu	Władysławowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Władysławow	Władysławowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Władysławów	Władysławowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Władysławowach	Władysławów	subst:pl:loc:m3	nazwa geograficzna	
 Władysławowami	Władysławów	subst:pl:inst:m3	nazwa geograficzna	
 Władysławowa	Władysławów	subst:sg:gen:m3	nazwa geograficzna	
@@ -7368,34 +7368,34 @@ Włochy	Włoch	depr:pl:nom:m2	nazwa pospolita
 Włochy	Włoch	depr:pl:voc:m2	nazwa pospolita	
 Włosi	Włoch	subst:pl:nom:m1	nazwa pospolita	
 Włosi	Włoch	subst:pl:voc:m1	nazwa pospolita	
-Włochami	Włochy:s1	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Włochami	Włochy:s1	subst:pl:inst:p3	nazwa geograficzna	
-Włochom	Włochy:s1	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Włochom	Włochy:s1	subst:pl:dat:p3	nazwa geograficzna	
-Włoch	Włochy:s1	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Włoch	Włochy:s1	subst:pl:gen:p3	nazwa geograficzna	
-Włochy	Włochy:s1	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Włochy	Włochy:s1	subst:pl:acc:p3	nazwa geograficzna	
-Włochy	Włochy:s1	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Włochy	Włochy:s1	subst:pl:nom:p3	nazwa geograficzna	
-Włochy	Włochy:s1	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Włochy	Włochy:s1	subst:pl:voc:p3	nazwa geograficzna	
-Włoszech	Włochy:s1	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Włoszech	Włochy:s1	subst:pl:loc:p3	nazwa geograficzna	
-Włochach	Włochy:s2	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Włochach	Włochy:s2	subst:pl:loc:p3	nazwa geograficzna	
-Włochami	Włochy:s2	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Włochami	Włochy:s2	subst:pl:inst:p3	nazwa geograficzna	
-Włochom	Włochy:s2	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Włochom	Włochy:s2	subst:pl:dat:p3	nazwa geograficzna	
-Włoch	Włochy:s2	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Włoch	Włochy:s2	subst:pl:gen:p3	nazwa geograficzna	
-Włochy	Włochy:s2	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Włochy	Włochy:s2	subst:pl:acc:p3	nazwa geograficzna	
-Włochy	Włochy:s2	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Włochy	Włochy:s2	subst:pl:nom:p3	nazwa geograficzna	
-Włochy	Włochy:s2	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Włochy	Włochy:s2	subst:pl:voc:p3	nazwa geograficzna	
+Włochami	Włochy:s1	subst:pl:inst:n:pt	nazwa geograficzna	
+Włochami	Włochy:s1	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Włochom	Włochy:s1	subst:pl:dat:n:pt	nazwa geograficzna	
+Włochom	Włochy:s1	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Włoch	Włochy:s1	subst:pl:gen:n:pt	nazwa geograficzna	
+Włoch	Włochy:s1	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Włochy	Włochy:s1	subst:pl:acc:n:pt	nazwa geograficzna	
+Włochy	Włochy:s1	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Włochy	Włochy:s1	subst:pl:nom:n:pt	nazwa geograficzna	
+Włochy	Włochy:s1	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Włochy	Włochy:s1	subst:pl:voc:n:pt	nazwa geograficzna	
+Włochy	Włochy:s1	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Włoszech	Włochy:s1	subst:pl:loc:n:pt	nazwa geograficzna	
+Włoszech	Włochy:s1	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Włochach	Włochy:s2	subst:pl:loc:n:pt	nazwa geograficzna	
+Włochach	Włochy:s2	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Włochami	Włochy:s2	subst:pl:inst:n:pt	nazwa geograficzna	
+Włochami	Włochy:s2	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Włochom	Włochy:s2	subst:pl:dat:n:pt	nazwa geograficzna	
+Włochom	Włochy:s2	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Włoch	Włochy:s2	subst:pl:gen:n:pt	nazwa geograficzna	
+Włoch	Włochy:s2	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Włochy	Włochy:s2	subst:pl:acc:n:pt	nazwa geograficzna	
+Włochy	Włochy:s2	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Włochy	Włochy:s2	subst:pl:nom:n:pt	nazwa geograficzna	
+Włochy	Włochy:s2	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Włochy	Włochy:s2	subst:pl:voc:n:pt	nazwa geograficzna	
+Włochy	Włochy:s2	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Włocławek	Włocławek	subst:sg:acc:m3	nazwa geograficzna	
 Włocławek	Włocławek	subst:sg:nom:m3	nazwa geograficzna	
 Włocławkach	Włocławek	subst:pl:loc:m3	nazwa geograficzna	
@@ -7410,20 +7410,20 @@ Włocławkowi	Włocławek	subst:sg:dat:m3	nazwa geograficzna
 Włocławków	Włocławek	subst:pl:gen:m3	nazwa geograficzna	
 Włocławku	Włocławek	subst:sg:loc:m3	nazwa geograficzna	
 Włocławku	Włocławek	subst:sg:voc:m3	nazwa geograficzna	
-Włocławskich	Włocławskie	subst:pl:gen:n2	nazwa geograficzna	
-Włocławskich	Włocławskie	subst:pl:loc:n2	nazwa geograficzna	
-Włocławskiego	Włocławskie	subst:sg:gen:n2	nazwa geograficzna	
-Włocławskiemu	Włocławskie	subst:sg:dat:n2	nazwa geograficzna	
-Włocławskiem	Włocławskie	subst:sg:inst:n2	nazwa geograficzna	
-Włocławskiem	Włocławskie	subst:sg:loc:n2	nazwa geograficzna	
-Włocławskie	Włocławskie	subst:pl:acc:n2	nazwa geograficzna	
-Włocławskie	Włocławskie	subst:pl:nom:n2	nazwa geograficzna	
-Włocławskie	Włocławskie	subst:pl:voc:n2	nazwa geograficzna	
-Włocławskie	Włocławskie	subst:sg:acc:n2	nazwa geograficzna	
-Włocławskie	Włocławskie	subst:sg:nom:n2	nazwa geograficzna	
-Włocławskie	Włocławskie	subst:sg:voc:n2	nazwa geograficzna	
-Włocławskimi	Włocławskie	subst:pl:inst:n2	nazwa geograficzna	
-Włocławskim	Włocławskie	subst:pl:dat:n2	nazwa geograficzna	
+Włocławskich	Włocławskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Włocławskich	Włocławskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Włocławskiego	Włocławskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Włocławskiemu	Włocławskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Włocławskiem	Włocławskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Włocławskiem	Włocławskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Włocławskie	Włocławskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Włocławskie	Włocławskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Włocławskie	Włocławskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Włocławskie	Włocławskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Włocławskie	Włocławskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Włocławskie	Włocławskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Włocławskimi	Włocławskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Włocławskim	Włocławskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Włodarczykach	Włodarczyk	subst:pl:loc:m1	nazwisko	
 Włodarczykami	Włodarczyk	subst:pl:inst:m1	nazwisko	
 Włodarczyka	Włodarczyk	subst:sg:acc:m1	nazwisko	
@@ -7550,20 +7550,20 @@ Włodkowskim	Włodkowski	subst:sg:inst:m1	nazwisko
 Włodkowskim	Włodkowski	subst:sg:loc:m1	nazwisko	
 Włodkowski	Włodkowski	subst:sg:nom:m1	nazwisko	
 Włodkowski	Włodkowski	subst:sg:voc:m1	nazwisko	
-Włodowicach	Włodowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Włodowicach	Włodowice	subst:pl:loc:p3	nazwa geograficzna	
-Włodowicami	Włodowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Włodowicami	Włodowice	subst:pl:inst:p3	nazwa geograficzna	
-Włodowice	Włodowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Włodowice	Włodowice	subst:pl:acc:p3	nazwa geograficzna	
-Włodowice	Włodowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Włodowice	Włodowice	subst:pl:nom:p3	nazwa geograficzna	
-Włodowice	Włodowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Włodowice	Włodowice	subst:pl:voc:p3	nazwa geograficzna	
-Włodowicom	Włodowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Włodowicom	Włodowice	subst:pl:dat:p3	nazwa geograficzna	
-Włodowic	Włodowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Włodowic	Włodowice	subst:pl:gen:p3	nazwa geograficzna	
+Włodowicach	Włodowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Włodowicach	Włodowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Włodowicami	Włodowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Włodowicami	Włodowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Włodowice	Włodowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Włodowice	Włodowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Włodowice	Włodowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Włodowice	Włodowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Włodowice	Włodowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Włodowice	Włodowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Włodowicom	Włodowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Włodowicom	Włodowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Włodowic	Włodowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Włodowic	Włodowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Włodzimierzach	Włodzimierz:s1	subst:pl:loc:m1	imię	
 Włodzimierzami	Włodzimierz:s1	subst:pl:inst:m1	imię	
 Włodzimierza	Włodzimierz:s1	subst:sg:acc:m1	imię	
@@ -7663,20 +7663,20 @@ Włodziwojów	Włodziwoj	subst:pl:gen:m1	imię
 Włodziwoju	Włodziwoj	subst:sg:loc:m1	imię	
 Włodziwoju	Włodziwoj	subst:sg:voc:m1	imię	
 Włodziwoj	Włodziwoj	subst:sg:nom:m1	imię	
-Włoszakowicach	Włoszakowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Włoszakowicach	Włoszakowice	subst:pl:loc:p3	nazwa geograficzna	
-Włoszakowicami	Włoszakowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Włoszakowicami	Włoszakowice	subst:pl:inst:p3	nazwa geograficzna	
-Włoszakowice	Włoszakowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Włoszakowice	Włoszakowice	subst:pl:acc:p3	nazwa geograficzna	
-Włoszakowice	Włoszakowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Włoszakowice	Włoszakowice	subst:pl:nom:p3	nazwa geograficzna	
-Włoszakowice	Włoszakowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Włoszakowice	Włoszakowice	subst:pl:voc:p3	nazwa geograficzna	
-Włoszakowicom	Włoszakowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Włoszakowicom	Włoszakowice	subst:pl:dat:p3	nazwa geograficzna	
-Włoszakowic	Włoszakowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Włoszakowic	Włoszakowice	subst:pl:gen:p3	nazwa geograficzna	
+Włoszakowicach	Włoszakowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Włoszakowicach	Włoszakowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Włoszakowicami	Włoszakowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Włoszakowicami	Włoszakowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Włoszakowice	Włoszakowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Włoszakowice	Włoszakowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Włoszakowice	Włoszakowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Włoszakowice	Włoszakowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Włoszakowice	Włoszakowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Włoszakowice	Włoszakowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Włoszakowicom	Włoszakowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Włoszakowicom	Włoszakowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Włoszakowic	Włoszakowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Włoszakowic	Włoszakowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Włoszczowach	Włoszczowa	subst:pl:loc:f	nazwa geograficzna	
 Włoszczowami	Włoszczowa	subst:pl:inst:f	nazwa geograficzna	
 Włoszczowa	Włoszczowa	subst:sg:nom:f	nazwa geograficzna	
@@ -7706,35 +7706,35 @@ Włoszki	Włoszka	subst:sg:gen:f	nazwa pospolita
 Włoszkom	Włoszka	subst:pl:dat:f	nazwa pospolita	
 Włoszko	Włoszka	subst:sg:voc:f	nazwa pospolita	
 Włoszyskach	Włoszysko	subst:pl:loc:m1	nazwa pospolita	rzad.
-Włoszyskach	Włoszysko	subst:pl:loc:n2	nazwa pospolita	
+Włoszyskach	Włoszysko	subst:pl:loc:n:ncol	nazwa pospolita	
 Włoszyskami	Włoszysko	subst:pl:inst:m1	nazwa pospolita	rzad.
-Włoszyskami	Włoszysko	subst:pl:inst:n2	nazwa pospolita	
+Włoszyskami	Włoszysko	subst:pl:inst:n:ncol	nazwa pospolita	
 Włoszyska	Włoszysko	depr:pl:nom:m2	nazwa pospolita	rzad.
 Włoszyska	Włoszysko	depr:pl:voc:m2	nazwa pospolita	rzad.
-Włoszyska	Włoszysko	subst:pl:acc:n2	nazwa pospolita	
+Włoszyska	Włoszysko	subst:pl:acc:n:ncol	nazwa pospolita	
 Włoszyska	Włoszysko	subst:pl:nom:m1	nazwa pospolita	rzad.
-Włoszyska	Włoszysko	subst:pl:nom:n2	nazwa pospolita	
+Włoszyska	Włoszysko	subst:pl:nom:n:ncol	nazwa pospolita	
 Włoszyska	Włoszysko	subst:pl:voc:m1	nazwa pospolita	rzad.
-Włoszyska	Włoszysko	subst:pl:voc:n2	nazwa pospolita	
+Włoszyska	Włoszysko	subst:pl:voc:n:ncol	nazwa pospolita	
 Włoszyska	Włoszysko	subst:sg:acc:m1	nazwa pospolita	rzad.
 Włoszyska	Włoszysko	subst:sg:gen:m1	nazwa pospolita	rzad.
-Włoszyska	Włoszysko	subst:sg:gen:n2	nazwa pospolita	
+Włoszyska	Włoszysko	subst:sg:gen:n:ncol	nazwa pospolita	
 Włoszyskiem	Włoszysko	subst:sg:inst:m1	nazwa pospolita	rzad.
-Włoszyskiem	Włoszysko	subst:sg:inst:n2	nazwa pospolita	
+Włoszyskiem	Włoszysko	subst:sg:inst:n:ncol	nazwa pospolita	
 Włoszyskom	Włoszysko	subst:pl:dat:m1	nazwa pospolita	rzad.
-Włoszyskom	Włoszysko	subst:pl:dat:n2	nazwa pospolita	
-Włoszysko	Włoszysko	subst:sg:acc:n2	nazwa pospolita	
+Włoszyskom	Włoszysko	subst:pl:dat:n:ncol	nazwa pospolita	
+Włoszysko	Włoszysko	subst:sg:acc:n:ncol	nazwa pospolita	
 Włoszysko	Włoszysko	subst:sg:nom:m1	nazwa pospolita	rzad.
-Włoszysko	Włoszysko	subst:sg:nom:n2	nazwa pospolita	
+Włoszysko	Włoszysko	subst:sg:nom:n:ncol	nazwa pospolita	
 Włoszysko	Włoszysko	subst:sg:voc:m1	nazwa pospolita	rzad.
-Włoszysko	Włoszysko	subst:sg:voc:n2	nazwa pospolita	
+Włoszysko	Włoszysko	subst:sg:voc:n:ncol	nazwa pospolita	
 Włoszysków	Włoszysko	subst:pl:acc:m1	nazwa pospolita	rzad.
 Włoszysków	Włoszysko	subst:pl:gen:m1	nazwa pospolita	rzad.
 Włoszysku	Włoszysko	subst:sg:dat:m1	nazwa pospolita	rzad.
-Włoszysku	Włoszysko	subst:sg:dat:n2	nazwa pospolita	
+Włoszysku	Włoszysko	subst:sg:dat:n:ncol	nazwa pospolita	
 Włoszysku	Włoszysko	subst:sg:loc:m1	nazwa pospolita	rzad.
-Włoszysku	Włoszysko	subst:sg:loc:n2	nazwa pospolita	
-Włoszysk	Włoszysko	subst:pl:gen:n2	nazwa pospolita	
+Włoszysku	Włoszysko	subst:sg:loc:n:ncol	nazwa pospolita	
+Włoszysk	Włoszysko	subst:pl:gen:n:ncol	nazwa pospolita	
 Włościborach	Włościbor	subst:pl:loc:m1	imię	
 Włościborami	Włościbor	subst:pl:inst:m1	imię	
 Włościbora	Włościbor	subst:sg:acc:m1	imię	
@@ -7786,61 +7786,61 @@ Włościsławy	Włościsława	subst:pl:nom:f	imię
 Włościsławy	Włościsława	subst:pl:voc:f	imię	
 Włościsławy	Włościsława	subst:sg:gen:f	imię	
 WMO	WMO	subst:pl:acc:f	nazwa organizacji	
-WMO	WMO	subst:pl:acc:n2	nazwa organizacji	
+WMO	WMO	subst:pl:acc:n:ncol	nazwa organizacji	
 WMO	WMO	subst:pl:dat:f	nazwa organizacji	
-WMO	WMO	subst:pl:dat:n2	nazwa organizacji	
+WMO	WMO	subst:pl:dat:n:ncol	nazwa organizacji	
 WMO	WMO	subst:pl:gen:f	nazwa organizacji	
-WMO	WMO	subst:pl:gen:n2	nazwa organizacji	
+WMO	WMO	subst:pl:gen:n:ncol	nazwa organizacji	
 WMO	WMO	subst:pl:inst:f	nazwa organizacji	
-WMO	WMO	subst:pl:inst:n2	nazwa organizacji	
+WMO	WMO	subst:pl:inst:n:ncol	nazwa organizacji	
 WMO	WMO	subst:pl:loc:f	nazwa organizacji	
-WMO	WMO	subst:pl:loc:n2	nazwa organizacji	
+WMO	WMO	subst:pl:loc:n:ncol	nazwa organizacji	
 WMO	WMO	subst:pl:nom:f	nazwa organizacji	
-WMO	WMO	subst:pl:nom:n2	nazwa organizacji	
+WMO	WMO	subst:pl:nom:n:ncol	nazwa organizacji	
 WMO	WMO	subst:pl:voc:f	nazwa organizacji	
-WMO	WMO	subst:pl:voc:n2	nazwa organizacji	
+WMO	WMO	subst:pl:voc:n:ncol	nazwa organizacji	
 WMO	WMO	subst:sg:acc:f	nazwa organizacji	
-WMO	WMO	subst:sg:acc:n2	nazwa organizacji	
+WMO	WMO	subst:sg:acc:n:ncol	nazwa organizacji	
 WMO	WMO	subst:sg:dat:f	nazwa organizacji	
-WMO	WMO	subst:sg:dat:n2	nazwa organizacji	
+WMO	WMO	subst:sg:dat:n:ncol	nazwa organizacji	
 WMO	WMO	subst:sg:gen:f	nazwa organizacji	
-WMO	WMO	subst:sg:gen:n2	nazwa organizacji	
+WMO	WMO	subst:sg:gen:n:ncol	nazwa organizacji	
 WMO	WMO	subst:sg:inst:f	nazwa organizacji	
-WMO	WMO	subst:sg:inst:n2	nazwa organizacji	
+WMO	WMO	subst:sg:inst:n:ncol	nazwa organizacji	
 WMO	WMO	subst:sg:loc:f	nazwa organizacji	
-WMO	WMO	subst:sg:loc:n2	nazwa organizacji	
+WMO	WMO	subst:sg:loc:n:ncol	nazwa organizacji	
 WMO	WMO	subst:sg:nom:f	nazwa organizacji	
-WMO	WMO	subst:sg:nom:n2	nazwa organizacji	
+WMO	WMO	subst:sg:nom:n:ncol	nazwa organizacji	
 WMO	WMO	subst:sg:voc:f	nazwa organizacji	
-WMO	WMO	subst:sg:voc:n2	nazwa organizacji	
+WMO	WMO	subst:sg:voc:n:ncol	nazwa organizacji	
 WNP	WNP	subst:pl:acc:f	nazwa organizacji	
-WNP	WNP	subst:pl:acc:n2	nazwa organizacji	
+WNP	WNP	subst:pl:acc:n:ncol	nazwa organizacji	
 WNP	WNP	subst:pl:dat:f	nazwa organizacji	
-WNP	WNP	subst:pl:dat:n2	nazwa organizacji	
+WNP	WNP	subst:pl:dat:n:ncol	nazwa organizacji	
 WNP	WNP	subst:pl:gen:f	nazwa organizacji	
-WNP	WNP	subst:pl:gen:n2	nazwa organizacji	
+WNP	WNP	subst:pl:gen:n:ncol	nazwa organizacji	
 WNP	WNP	subst:pl:inst:f	nazwa organizacji	
-WNP	WNP	subst:pl:inst:n2	nazwa organizacji	
+WNP	WNP	subst:pl:inst:n:ncol	nazwa organizacji	
 WNP	WNP	subst:pl:loc:f	nazwa organizacji	
-WNP	WNP	subst:pl:loc:n2	nazwa organizacji	
+WNP	WNP	subst:pl:loc:n:ncol	nazwa organizacji	
 WNP	WNP	subst:pl:nom:f	nazwa organizacji	
-WNP	WNP	subst:pl:nom:n2	nazwa organizacji	
+WNP	WNP	subst:pl:nom:n:ncol	nazwa organizacji	
 WNP	WNP	subst:pl:voc:f	nazwa organizacji	
-WNP	WNP	subst:pl:voc:n2	nazwa organizacji	
+WNP	WNP	subst:pl:voc:n:ncol	nazwa organizacji	
 WNP	WNP	subst:sg:acc:f	nazwa organizacji	
-WNP	WNP	subst:sg:acc:n2	nazwa organizacji	
+WNP	WNP	subst:sg:acc:n:ncol	nazwa organizacji	
 WNP	WNP	subst:sg:dat:f	nazwa organizacji	
-WNP	WNP	subst:sg:dat:n2	nazwa organizacji	
+WNP	WNP	subst:sg:dat:n:ncol	nazwa organizacji	
 WNP	WNP	subst:sg:gen:f	nazwa organizacji	
-WNP	WNP	subst:sg:gen:n2	nazwa organizacji	
+WNP	WNP	subst:sg:gen:n:ncol	nazwa organizacji	
 WNP	WNP	subst:sg:inst:f	nazwa organizacji	
-WNP	WNP	subst:sg:inst:n2	nazwa organizacji	
+WNP	WNP	subst:sg:inst:n:ncol	nazwa organizacji	
 WNP	WNP	subst:sg:loc:f	nazwa organizacji	
-WNP	WNP	subst:sg:loc:n2	nazwa organizacji	
+WNP	WNP	subst:sg:loc:n:ncol	nazwa organizacji	
 WNP	WNP	subst:sg:nom:f	nazwa organizacji	
-WNP	WNP	subst:sg:nom:n2	nazwa organizacji	
+WNP	WNP	subst:sg:nom:n:ncol	nazwa organizacji	
 WNP	WNP	subst:sg:voc:f	nazwa organizacji	
-WNP	WNP	subst:sg:voc:n2	nazwa organizacji	
+WNP	WNP	subst:sg:voc:n:ncol	nazwa organizacji	
 Wodnicy	Wodnik:s1	subst:pl:nom:m1	nazwa pospolita	
 Wodnicy	Wodnik:s1	subst:pl:voc:m1	nazwa pospolita	
 Wodnikach	Wodnik:s1	subst:pl:loc:m1	nazwa pospolita	
@@ -8028,20 +8028,20 @@ Wojciechy	Wojciecha	subst:pl:voc:f	imię
 Wojciechy	Wojciecha	subst:sg:gen:f	imię	
 Wojciesze	Wojciecha	subst:sg:dat:f	imię	
 Wojciesze	Wojciecha	subst:sg:loc:f	imię	
-Wojciechowicach	Wojciechowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wojciechowicach	Wojciechowice	subst:pl:loc:p3	nazwa geograficzna	
-Wojciechowicami	Wojciechowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wojciechowicami	Wojciechowice	subst:pl:inst:p3	nazwa geograficzna	
-Wojciechowice	Wojciechowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wojciechowice	Wojciechowice	subst:pl:acc:p3	nazwa geograficzna	
-Wojciechowice	Wojciechowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wojciechowice	Wojciechowice	subst:pl:nom:p3	nazwa geograficzna	
-Wojciechowice	Wojciechowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wojciechowice	Wojciechowice	subst:pl:voc:p3	nazwa geograficzna	
-Wojciechowicom	Wojciechowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wojciechowicom	Wojciechowice	subst:pl:dat:p3	nazwa geograficzna	
-Wojciechowic	Wojciechowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wojciechowic	Wojciechowice	subst:pl:gen:p3	nazwa geograficzna	
+Wojciechowicach	Wojciechowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Wojciechowicach	Wojciechowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wojciechowicami	Wojciechowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Wojciechowicami	Wojciechowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wojciechowice	Wojciechowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Wojciechowice	Wojciechowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wojciechowice	Wojciechowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Wojciechowice	Wojciechowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wojciechowice	Wojciechowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Wojciechowice	Wojciechowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Wojciechowicom	Wojciechowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Wojciechowicom	Wojciechowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wojciechowic	Wojciechowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Wojciechowic	Wojciechowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Wojciechowska	Wojciechowska	subst:sg:nom:f	nazwisko	
 Wojciechowska	Wojciechowska	subst:sg:voc:f	nazwisko	
 Wojciechowską	Wojciechowska	subst:sg:acc:f	nazwisko	
@@ -8305,20 +8305,20 @@ Wojsławy	Wojsława	subst:pl:acc:f	imię
 Wojsławy	Wojsława	subst:pl:nom:f	imię	
 Wojsławy	Wojsława	subst:pl:voc:f	imię	
 Wojsławy	Wojsława	subst:sg:gen:f	imię	
-Wojsławicach	Wojsławice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wojsławicach	Wojsławice	subst:pl:loc:p3	nazwa geograficzna	
-Wojsławicami	Wojsławice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wojsławicami	Wojsławice	subst:pl:inst:p3	nazwa geograficzna	
-Wojsławice	Wojsławice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wojsławice	Wojsławice	subst:pl:acc:p3	nazwa geograficzna	
-Wojsławice	Wojsławice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wojsławice	Wojsławice	subst:pl:nom:p3	nazwa geograficzna	
-Wojsławice	Wojsławice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wojsławice	Wojsławice	subst:pl:voc:p3	nazwa geograficzna	
-Wojsławicom	Wojsławice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wojsławicom	Wojsławice	subst:pl:dat:p3	nazwa geograficzna	
-Wojsławic	Wojsławice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wojsławic	Wojsławice	subst:pl:gen:p3	nazwa geograficzna	
+Wojsławicach	Wojsławice	subst:pl:loc:n:pt	nazwa geograficzna	
+Wojsławicach	Wojsławice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wojsławicami	Wojsławice	subst:pl:inst:n:pt	nazwa geograficzna	
+Wojsławicami	Wojsławice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wojsławice	Wojsławice	subst:pl:acc:n:pt	nazwa geograficzna	
+Wojsławice	Wojsławice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wojsławice	Wojsławice	subst:pl:nom:n:pt	nazwa geograficzna	
+Wojsławice	Wojsławice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wojsławice	Wojsławice	subst:pl:voc:n:pt	nazwa geograficzna	
+Wojsławice	Wojsławice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Wojsławicom	Wojsławice	subst:pl:dat:n:pt	nazwa geograficzna	
+Wojsławicom	Wojsławice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wojsławic	Wojsławice	subst:pl:gen:n:pt	nazwa geograficzna	
+Wojsławic	Wojsławice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Wojtasińska	Wojtasińska	subst:sg:nom:f	nazwisko	
 Wojtasińska	Wojtasińska	subst:sg:voc:f	nazwisko	
 Wojtasińską	Wojtasińska	subst:sg:acc:f	nazwisko	
@@ -9056,20 +9056,20 @@ Wołyniu	Wołyń	subst:sg:voc:m3	nazwa geograficzna
 Wołyni	Wołyń	subst:pl:gen:m3	nazwa geograficzna	
 Wołyń	Wołyń	subst:sg:acc:m3	nazwa geograficzna	
 Wołyń	Wołyń	subst:sg:nom:m3	nazwa geograficzna	
-Wołyniec	Wołyńce	subst:pl:gen:p2	nazwa geograficzna	
-Wołyniec	Wołyńce	subst:pl:gen:p3	nazwa geograficzna	
-Wołyńcach	Wołyńce	subst:pl:loc:p2	nazwa geograficzna	
-Wołyńcach	Wołyńce	subst:pl:loc:p3	nazwa geograficzna	
-Wołyńcami	Wołyńce	subst:pl:inst:p2	nazwa geograficzna	
-Wołyńcami	Wołyńce	subst:pl:inst:p3	nazwa geograficzna	
-Wołyńce	Wołyńce	subst:pl:acc:p2	nazwa geograficzna	
-Wołyńce	Wołyńce	subst:pl:acc:p3	nazwa geograficzna	
-Wołyńce	Wołyńce	subst:pl:nom:p2	nazwa geograficzna	
-Wołyńce	Wołyńce	subst:pl:nom:p3	nazwa geograficzna	
-Wołyńce	Wołyńce	subst:pl:voc:p2	nazwa geograficzna	
-Wołyńce	Wołyńce	subst:pl:voc:p3	nazwa geograficzna	
-Wołyńcom	Wołyńce	subst:pl:dat:p2	nazwa geograficzna	
-Wołyńcom	Wołyńce	subst:pl:dat:p3	nazwa geograficzna	
+Wołyniec	Wołyńce	subst:pl:gen:n:pt	nazwa geograficzna	
+Wołyniec	Wołyńce	subst:pl:gen:n:pt	nazwa geograficzna	
+Wołyńcach	Wołyńce	subst:pl:loc:n:pt	nazwa geograficzna	
+Wołyńcach	Wołyńce	subst:pl:loc:n:pt	nazwa geograficzna	
+Wołyńcami	Wołyńce	subst:pl:inst:n:pt	nazwa geograficzna	
+Wołyńcami	Wołyńce	subst:pl:inst:n:pt	nazwa geograficzna	
+Wołyńce	Wołyńce	subst:pl:acc:n:pt	nazwa geograficzna	
+Wołyńce	Wołyńce	subst:pl:acc:n:pt	nazwa geograficzna	
+Wołyńce	Wołyńce	subst:pl:nom:n:pt	nazwa geograficzna	
+Wołyńce	Wołyńce	subst:pl:nom:n:pt	nazwa geograficzna	
+Wołyńce	Wołyńce	subst:pl:voc:n:pt	nazwa geograficzna	
+Wołyńce	Wołyńce	subst:pl:voc:n:pt	nazwa geograficzna	
+Wołyńcom	Wołyńce	subst:pl:dat:n:pt	nazwa geograficzna	
+Wołyńcom	Wołyńce	subst:pl:dat:n:pt	nazwa geograficzna	
 Wołżskich	Wołżskij	subst:pl:gen:m3	nazwa geograficzna	
 Wołżskich	Wołżskij	subst:pl:loc:m3	nazwa geograficzna	
 Wołżskiego	Wołżskij	subst:sg:gen:m3	nazwa geograficzna	
@@ -9459,20 +9459,20 @@ Woźnickim	Woźnicki	subst:sg:inst:m1	nazwisko
 Woźnickim	Woźnicki	subst:sg:loc:m1	nazwisko	
 Woźnicki	Woźnicki	subst:sg:nom:m1	nazwisko	
 Woźnicki	Woźnicki	subst:sg:voc:m1	nazwisko	
-Woźnikach	Woźniki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Woźnikach	Woźniki	subst:pl:loc:p3	nazwa geograficzna	
-Woźnikami	Woźniki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Woźnikami	Woźniki	subst:pl:inst:p3	nazwa geograficzna	
-Woźniki	Woźniki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Woźniki	Woźniki	subst:pl:acc:p3	nazwa geograficzna	
-Woźniki	Woźniki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Woźniki	Woźniki	subst:pl:nom:p3	nazwa geograficzna	
-Woźniki	Woźniki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Woźniki	Woźniki	subst:pl:voc:p3	nazwa geograficzna	
-Woźnikom	Woźniki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Woźnikom	Woźniki	subst:pl:dat:p3	nazwa geograficzna	
-Woźnik	Woźniki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Woźnik	Woźniki	subst:pl:gen:p3	nazwa geograficzna	
+Woźnikach	Woźniki	subst:pl:loc:n:pt	nazwa geograficzna	
+Woźnikach	Woźniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Woźnikami	Woźniki	subst:pl:inst:n:pt	nazwa geograficzna	
+Woźnikami	Woźniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Woźniki	Woźniki	subst:pl:acc:n:pt	nazwa geograficzna	
+Woźniki	Woźniki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Woźniki	Woźniki	subst:pl:nom:n:pt	nazwa geograficzna	
+Woźniki	Woźniki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Woźniki	Woźniki	subst:pl:voc:n:pt	nazwa geograficzna	
+Woźniki	Woźniki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Woźnikom	Woźniki	subst:pl:dat:n:pt	nazwa geograficzna	
+Woźnikom	Woźniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Woźnik	Woźniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Woźnik	Woźniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Woźnego	Woźny	subst:sg:acc:m1	nazwisko	
 Woźnego	Woźny	subst:sg:gen:m1	nazwisko	
 Woźnemu	Woźny	subst:sg:dat:m1	nazwisko	
@@ -9613,20 +9613,20 @@ Wólki	Wólka	subst:pl:voc:f	nazwa geograficzna
 Wólki	Wólka	subst:sg:gen:f	nazwa geograficzna	
 Wólkom	Wólka	subst:pl:dat:f	nazwa geograficzna	
 Wólko	Wólka	subst:sg:voc:f	nazwa geograficzna	
-WP	WP	subst:pl:acc:n2	nazwa organizacji	
-WP	WP	subst:pl:dat:n2	nazwa organizacji	
-WP	WP	subst:pl:gen:n2	nazwa organizacji	
-WP	WP	subst:pl:inst:n2	nazwa organizacji	
-WP	WP	subst:pl:loc:n2	nazwa organizacji	
-WP	WP	subst:pl:nom:n2	nazwa organizacji	
-WP	WP	subst:pl:voc:n2	nazwa organizacji	
-WP	WP	subst:sg:acc:n2	nazwa organizacji	
-WP	WP	subst:sg:dat:n2	nazwa organizacji	
-WP	WP	subst:sg:gen:n2	nazwa organizacji	
-WP	WP	subst:sg:inst:n2	nazwa organizacji	
-WP	WP	subst:sg:loc:n2	nazwa organizacji	
-WP	WP	subst:sg:nom:n2	nazwa organizacji	
-WP	WP	subst:sg:voc:n2	nazwa organizacji	
+WP	WP	subst:pl:acc:n:ncol	nazwa organizacji	
+WP	WP	subst:pl:dat:n:ncol	nazwa organizacji	
+WP	WP	subst:pl:gen:n:ncol	nazwa organizacji	
+WP	WP	subst:pl:inst:n:ncol	nazwa organizacji	
+WP	WP	subst:pl:loc:n:ncol	nazwa organizacji	
+WP	WP	subst:pl:nom:n:ncol	nazwa organizacji	
+WP	WP	subst:pl:voc:n:ncol	nazwa organizacji	
+WP	WP	subst:sg:acc:n:ncol	nazwa organizacji	
+WP	WP	subst:sg:dat:n:ncol	nazwa organizacji	
+WP	WP	subst:sg:gen:n:ncol	nazwa organizacji	
+WP	WP	subst:sg:inst:n:ncol	nazwa organizacji	
+WP	WP	subst:sg:loc:n:ncol	nazwa organizacji	
+WP	WP	subst:sg:nom:n:ncol	nazwa organizacji	
+WP	WP	subst:sg:voc:n:ncol	nazwa organizacji	
 Wrangel	Wrangel	subst:sg:nom:m1	nazwisko	
 Wranglach	Wrangel	subst:pl:loc:m1	nazwisko	
 Wranglami	Wrangel	subst:pl:inst:m1	nazwisko	
@@ -9683,35 +9683,35 @@ WRN-owi	WRN:s1	subst:sg:dat:m3	nazwa organizacji
 WRN-ów	WRN:s1	subst:pl:gen:m3	nazwa organizacji	
 WRN-u	WRN:s1	subst:sg:gen:m3	nazwa organizacji	
 WRN	WRN:s1	subst:pl:acc:f	nazwa organizacji	
-WRN	WRN:s1	subst:pl:acc:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:pl:acc:n:ncol	nazwa organizacji	pot.
 WRN	WRN:s1	subst:pl:dat:f	nazwa organizacji	
-WRN	WRN:s1	subst:pl:dat:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:pl:dat:n:ncol	nazwa organizacji	pot.
 WRN	WRN:s1	subst:pl:gen:f	nazwa organizacji	
-WRN	WRN:s1	subst:pl:gen:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:pl:gen:n:ncol	nazwa organizacji	pot.
 WRN	WRN:s1	subst:pl:inst:f	nazwa organizacji	
-WRN	WRN:s1	subst:pl:inst:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:pl:inst:n:ncol	nazwa organizacji	pot.
 WRN	WRN:s1	subst:pl:loc:f	nazwa organizacji	
-WRN	WRN:s1	subst:pl:loc:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:pl:loc:n:ncol	nazwa organizacji	pot.
 WRN	WRN:s1	subst:pl:nom:f	nazwa organizacji	
-WRN	WRN:s1	subst:pl:nom:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:pl:nom:n:ncol	nazwa organizacji	pot.
 WRN	WRN:s1	subst:pl:voc:f	nazwa organizacji	
-WRN	WRN:s1	subst:pl:voc:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:pl:voc:n:ncol	nazwa organizacji	pot.
 WRN	WRN:s1	subst:sg:acc:f	nazwa organizacji	
 WRN	WRN:s1	subst:sg:acc:m3	nazwa organizacji	
-WRN	WRN:s1	subst:sg:acc:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:sg:acc:n:ncol	nazwa organizacji	pot.
 WRN	WRN:s1	subst:sg:dat:f	nazwa organizacji	
-WRN	WRN:s1	subst:sg:dat:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:sg:dat:n:ncol	nazwa organizacji	pot.
 WRN	WRN:s1	subst:sg:gen:f	nazwa organizacji	
-WRN	WRN:s1	subst:sg:gen:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:sg:gen:n:ncol	nazwa organizacji	pot.
 WRN	WRN:s1	subst:sg:inst:f	nazwa organizacji	
-WRN	WRN:s1	subst:sg:inst:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:sg:inst:n:ncol	nazwa organizacji	pot.
 WRN	WRN:s1	subst:sg:loc:f	nazwa organizacji	
-WRN	WRN:s1	subst:sg:loc:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:sg:loc:n:ncol	nazwa organizacji	pot.
 WRN	WRN:s1	subst:sg:nom:f	nazwa organizacji	
 WRN	WRN:s1	subst:sg:nom:m3	nazwa organizacji	
-WRN	WRN:s1	subst:sg:nom:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:sg:nom:n:ncol	nazwa organizacji	pot.
 WRN	WRN:s1	subst:sg:voc:f	nazwa organizacji	
-WRN	WRN:s1	subst:sg:voc:n2	nazwa organizacji	pot.
+WRN	WRN:s1	subst:sg:voc:n:ncol	nazwa organizacji	pot.
 WRN-y	WRN:s1	subst:pl:acc:m3	nazwa organizacji	
 WRN-y	WRN:s1	subst:pl:nom:m3	nazwa organizacji	
 WRN-y	WRN:s1	subst:pl:voc:m3	nazwa organizacji	
@@ -9762,20 +9762,20 @@ Wrocławiu	Wrocław	subst:sg:voc:m3	nazwa geograficzna
 Wrocławi	Wrocław	subst:pl:gen:m3	nazwa geograficzna	
 Wrocław	Wrocław	subst:sg:acc:m3	nazwa geograficzna	
 Wrocław	Wrocław	subst:sg:nom:m3	nazwa geograficzna	
-Wrocławskich	Wrocławskie	subst:pl:gen:n2	nazwa geograficzna	
-Wrocławskich	Wrocławskie	subst:pl:loc:n2	nazwa geograficzna	
-Wrocławskiego	Wrocławskie	subst:sg:gen:n2	nazwa geograficzna	
-Wrocławskiemu	Wrocławskie	subst:sg:dat:n2	nazwa geograficzna	
-Wrocławskiem	Wrocławskie	subst:sg:inst:n2	nazwa geograficzna	
-Wrocławskiem	Wrocławskie	subst:sg:loc:n2	nazwa geograficzna	
-Wrocławskie	Wrocławskie	subst:pl:acc:n2	nazwa geograficzna	
-Wrocławskie	Wrocławskie	subst:pl:nom:n2	nazwa geograficzna	
-Wrocławskie	Wrocławskie	subst:pl:voc:n2	nazwa geograficzna	
-Wrocławskie	Wrocławskie	subst:sg:acc:n2	nazwa geograficzna	
-Wrocławskie	Wrocławskie	subst:sg:nom:n2	nazwa geograficzna	
-Wrocławskie	Wrocławskie	subst:sg:voc:n2	nazwa geograficzna	
-Wrocławskimi	Wrocławskie	subst:pl:inst:n2	nazwa geograficzna	
-Wrocławskim	Wrocławskie	subst:pl:dat:n2	nazwa geograficzna	
+Wrocławskich	Wrocławskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Wrocławskich	Wrocławskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wrocławskiego	Wrocławskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wrocławskiemu	Wrocławskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wrocławskiem	Wrocławskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wrocławskiem	Wrocławskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wrocławskie	Wrocławskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Wrocławskie	Wrocławskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Wrocławskie	Wrocławskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Wrocławskie	Wrocławskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Wrocławskie	Wrocławskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Wrocławskie	Wrocławskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Wrocławskimi	Wrocławskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wrocławskim	Wrocławskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 WRON-ach	WRON	subst:pl:loc:m3	nazwa organizacji	
 WRON-ami	WRON	subst:pl:inst:m3	nazwa organizacji	
 WRON-em	WRON	subst:sg:inst:m3	nazwa organizacji	
@@ -9820,20 +9820,20 @@ Wronów	Wrona	subst:pl:gen:m1	nazwisko
 Wrony	Wrona	depr:pl:nom:m2	nazwisko	
 Wrony	Wrona	depr:pl:voc:m2	nazwisko	
 Wrony	Wrona	subst:sg:gen:m1	nazwisko	
-Wronek	Wronki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wronek	Wronki	subst:pl:gen:p3	nazwa geograficzna	
-Wronkach	Wronki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wronkach	Wronki	subst:pl:loc:p3	nazwa geograficzna	
-Wronkami	Wronki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wronkami	Wronki	subst:pl:inst:p3	nazwa geograficzna	
-Wronki	Wronki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wronki	Wronki	subst:pl:acc:p3	nazwa geograficzna	
-Wronki	Wronki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wronki	Wronki	subst:pl:nom:p3	nazwa geograficzna	
-Wronki	Wronki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wronki	Wronki	subst:pl:voc:p3	nazwa geograficzna	
-Wronkom	Wronki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wronkom	Wronki	subst:pl:dat:p3	nazwa geograficzna	
+Wronek	Wronki	subst:pl:gen:n:pt	nazwa geograficzna	
+Wronek	Wronki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Wronkach	Wronki	subst:pl:loc:n:pt	nazwa geograficzna	
+Wronkach	Wronki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wronkami	Wronki	subst:pl:inst:n:pt	nazwa geograficzna	
+Wronkami	Wronki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wronki	Wronki	subst:pl:acc:n:pt	nazwa geograficzna	
+Wronki	Wronki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wronki	Wronki	subst:pl:nom:n:pt	nazwa geograficzna	
+Wronki	Wronki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wronki	Wronki	subst:pl:voc:n:pt	nazwa geograficzna	
+Wronki	Wronki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Wronkom	Wronki	subst:pl:dat:n:pt	nazwa geograficzna	
+Wronkom	Wronki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Wrońska	Wrońska	subst:sg:nom:f	nazwisko	
 Wrońska	Wrońska	subst:sg:voc:f	nazwisko	
 Wrońską	Wrońska	subst:sg:acc:f	nazwisko	
@@ -10052,20 +10052,20 @@ Wrześniewskim	Wrześniewski	subst:sg:inst:m1	nazwisko
 Wrześniewskim	Wrześniewski	subst:sg:loc:m1	nazwisko	
 Wrześniewski	Wrześniewski	subst:sg:nom:m1	nazwisko	
 Wrześniewski	Wrześniewski	subst:sg:voc:m1	nazwisko	
-WSI	WSI	subst:pl:acc:n2	nazwa organizacji	
-WSI	WSI	subst:pl:dat:n2	nazwa organizacji	
-WSI	WSI	subst:pl:gen:n2	nazwa organizacji	
-WSI	WSI	subst:pl:inst:n2	nazwa organizacji	
-WSI	WSI	subst:pl:loc:n2	nazwa organizacji	
-WSI	WSI	subst:pl:nom:n2	nazwa organizacji	
-WSI	WSI	subst:pl:voc:n2	nazwa organizacji	
-WSI	WSI	subst:sg:acc:n2	nazwa organizacji	
-WSI	WSI	subst:sg:dat:n2	nazwa organizacji	
-WSI	WSI	subst:sg:gen:n2	nazwa organizacji	
-WSI	WSI	subst:sg:inst:n2	nazwa organizacji	
-WSI	WSI	subst:sg:loc:n2	nazwa organizacji	
-WSI	WSI	subst:sg:nom:n2	nazwa organizacji	
-WSI	WSI	subst:sg:voc:n2	nazwa organizacji	
+WSI	WSI	subst:pl:acc:n:ncol	nazwa organizacji	
+WSI	WSI	subst:pl:dat:n:ncol	nazwa organizacji	
+WSI	WSI	subst:pl:gen:n:ncol	nazwa organizacji	
+WSI	WSI	subst:pl:inst:n:ncol	nazwa organizacji	
+WSI	WSI	subst:pl:loc:n:ncol	nazwa organizacji	
+WSI	WSI	subst:pl:nom:n:ncol	nazwa organizacji	
+WSI	WSI	subst:pl:voc:n:ncol	nazwa organizacji	
+WSI	WSI	subst:sg:acc:n:ncol	nazwa organizacji	
+WSI	WSI	subst:sg:dat:n:ncol	nazwa organizacji	
+WSI	WSI	subst:sg:gen:n:ncol	nazwa organizacji	
+WSI	WSI	subst:sg:inst:n:ncol	nazwa organizacji	
+WSI	WSI	subst:sg:loc:n:ncol	nazwa organizacji	
+WSI	WSI	subst:sg:nom:n:ncol	nazwa organizacji	
+WSI	WSI	subst:sg:voc:n:ncol	nazwa organizacji	
 WSiP-ach	WSiP	subst:pl:loc:m3	nazwa firmy	
 WSiP-ami	WSiP	subst:pl:inst:m3	nazwa firmy	
 WSiP-em	WSiP	subst:sg:inst:m3	nazwa firmy	
@@ -10075,46 +10075,46 @@ WSiP-om	WSiP	subst:pl:dat:m3	nazwa firmy
 WSiP-owi	WSiP	subst:sg:dat:m3	nazwa firmy	
 WSiP-ów	WSiP	subst:pl:gen:m3	nazwa firmy	
 WSiP-u	WSiP	subst:sg:gen:m3	nazwa firmy	
-WSiP	WSiP	subst:pl:acc:p3	nazwa firmy	
-WSiP	WSiP	subst:pl:dat:p3	nazwa firmy	
-WSiP	WSiP	subst:pl:gen:p3	nazwa firmy	
-WSiP	WSiP	subst:pl:inst:p3	nazwa firmy	
-WSiP	WSiP	subst:pl:loc:p3	nazwa firmy	
-WSiP	WSiP	subst:pl:nom:p3	nazwa firmy	
-WSiP	WSiP	subst:pl:voc:p3	nazwa firmy	
+WSiP	WSiP	subst:pl:acc:n:pt	nazwa firmy	
+WSiP	WSiP	subst:pl:dat:n:pt	nazwa firmy	
+WSiP	WSiP	subst:pl:gen:n:pt	nazwa firmy	
+WSiP	WSiP	subst:pl:inst:n:pt	nazwa firmy	
+WSiP	WSiP	subst:pl:loc:n:pt	nazwa firmy	
+WSiP	WSiP	subst:pl:nom:n:pt	nazwa firmy	
+WSiP	WSiP	subst:pl:voc:n:pt	nazwa firmy	
 WSiP	WSiP	subst:sg:acc:m3	nazwa firmy	
 WSiP	WSiP	subst:sg:nom:m3	nazwa firmy	
 WSiP-y	WSiP	subst:pl:acc:m3	nazwa firmy	
 WSiP-y	WSiP	subst:pl:nom:m3	nazwa firmy	
 WSiP-y	WSiP	subst:pl:voc:m3	nazwa firmy	
 WSK	WSK	subst:pl:acc:f	nazwa firmy	
-WSK	WSK	subst:pl:acc:n2	nazwa firmy	
+WSK	WSK	subst:pl:acc:n:ncol	nazwa firmy	
 WSK	WSK	subst:pl:dat:f	nazwa firmy	
-WSK	WSK	subst:pl:dat:n2	nazwa firmy	
+WSK	WSK	subst:pl:dat:n:ncol	nazwa firmy	
 WSK	WSK	subst:pl:gen:f	nazwa firmy	
-WSK	WSK	subst:pl:gen:n2	nazwa firmy	
+WSK	WSK	subst:pl:gen:n:ncol	nazwa firmy	
 WSK	WSK	subst:pl:inst:f	nazwa firmy	
-WSK	WSK	subst:pl:inst:n2	nazwa firmy	
+WSK	WSK	subst:pl:inst:n:ncol	nazwa firmy	
 WSK	WSK	subst:pl:loc:f	nazwa firmy	
-WSK	WSK	subst:pl:loc:n2	nazwa firmy	
+WSK	WSK	subst:pl:loc:n:ncol	nazwa firmy	
 WSK	WSK	subst:pl:nom:f	nazwa firmy	
-WSK	WSK	subst:pl:nom:n2	nazwa firmy	
+WSK	WSK	subst:pl:nom:n:ncol	nazwa firmy	
 WSK	WSK	subst:pl:voc:f	nazwa firmy	
-WSK	WSK	subst:pl:voc:n2	nazwa firmy	
+WSK	WSK	subst:pl:voc:n:ncol	nazwa firmy	
 WSK	WSK	subst:sg:acc:f	nazwa firmy	
-WSK	WSK	subst:sg:acc:n2	nazwa firmy	
+WSK	WSK	subst:sg:acc:n:ncol	nazwa firmy	
 WSK	WSK	subst:sg:dat:f	nazwa firmy	
-WSK	WSK	subst:sg:dat:n2	nazwa firmy	
+WSK	WSK	subst:sg:dat:n:ncol	nazwa firmy	
 WSK	WSK	subst:sg:gen:f	nazwa firmy	
-WSK	WSK	subst:sg:gen:n2	nazwa firmy	
+WSK	WSK	subst:sg:gen:n:ncol	nazwa firmy	
 WSK	WSK	subst:sg:inst:f	nazwa firmy	
-WSK	WSK	subst:sg:inst:n2	nazwa firmy	
+WSK	WSK	subst:sg:inst:n:ncol	nazwa firmy	
 WSK	WSK	subst:sg:loc:f	nazwa firmy	
-WSK	WSK	subst:sg:loc:n2	nazwa firmy	
+WSK	WSK	subst:sg:loc:n:ncol	nazwa firmy	
 WSK	WSK	subst:sg:nom:f	nazwa firmy	
-WSK	WSK	subst:sg:nom:n2	nazwa firmy	
+WSK	WSK	subst:sg:nom:n:ncol	nazwa firmy	
 WSK	WSK	subst:sg:voc:f	nazwa firmy	
-WSK	WSK	subst:sg:voc:n2	nazwa firmy	
+WSK	WSK	subst:sg:voc:n:ncol	nazwa firmy	
 WSM-ach	WSM	subst:pl:loc:m3	nazwa instytucji	
 WSM-ami	WSM	subst:pl:inst:m3	nazwa instytucji	
 WSM-em	WSM	subst:sg:inst:m3	nazwa instytucji	
@@ -10130,61 +10130,61 @@ WSM-y	WSM	subst:pl:acc:m3	nazwa instytucji
 WSM-y	WSM	subst:pl:nom:m3	nazwa instytucji	
 WSM-y	WSM	subst:pl:voc:m3	nazwa instytucji	
 WSP	WSP	subst:pl:acc:f	nazwa instytucji	
-WSP	WSP	subst:pl:acc:n2	nazwa instytucji	
+WSP	WSP	subst:pl:acc:n:ncol	nazwa instytucji	
 WSP	WSP	subst:pl:dat:f	nazwa instytucji	
-WSP	WSP	subst:pl:dat:n2	nazwa instytucji	
+WSP	WSP	subst:pl:dat:n:ncol	nazwa instytucji	
 WSP	WSP	subst:pl:gen:f	nazwa instytucji	
-WSP	WSP	subst:pl:gen:n2	nazwa instytucji	
+WSP	WSP	subst:pl:gen:n:ncol	nazwa instytucji	
 WSP	WSP	subst:pl:inst:f	nazwa instytucji	
-WSP	WSP	subst:pl:inst:n2	nazwa instytucji	
+WSP	WSP	subst:pl:inst:n:ncol	nazwa instytucji	
 WSP	WSP	subst:pl:loc:f	nazwa instytucji	
-WSP	WSP	subst:pl:loc:n2	nazwa instytucji	
+WSP	WSP	subst:pl:loc:n:ncol	nazwa instytucji	
 WSP	WSP	subst:pl:nom:f	nazwa instytucji	
-WSP	WSP	subst:pl:nom:n2	nazwa instytucji	
+WSP	WSP	subst:pl:nom:n:ncol	nazwa instytucji	
 WSP	WSP	subst:pl:voc:f	nazwa instytucji	
-WSP	WSP	subst:pl:voc:n2	nazwa instytucji	
+WSP	WSP	subst:pl:voc:n:ncol	nazwa instytucji	
 WSP	WSP	subst:sg:acc:f	nazwa instytucji	
-WSP	WSP	subst:sg:acc:n2	nazwa instytucji	
+WSP	WSP	subst:sg:acc:n:ncol	nazwa instytucji	
 WSP	WSP	subst:sg:dat:f	nazwa instytucji	
-WSP	WSP	subst:sg:dat:n2	nazwa instytucji	
+WSP	WSP	subst:sg:dat:n:ncol	nazwa instytucji	
 WSP	WSP	subst:sg:gen:f	nazwa instytucji	
-WSP	WSP	subst:sg:gen:n2	nazwa instytucji	
+WSP	WSP	subst:sg:gen:n:ncol	nazwa instytucji	
 WSP	WSP	subst:sg:inst:f	nazwa instytucji	
-WSP	WSP	subst:sg:inst:n2	nazwa instytucji	
+WSP	WSP	subst:sg:inst:n:ncol	nazwa instytucji	
 WSP	WSP	subst:sg:loc:f	nazwa instytucji	
-WSP	WSP	subst:sg:loc:n2	nazwa instytucji	
+WSP	WSP	subst:sg:loc:n:ncol	nazwa instytucji	
 WSP	WSP	subst:sg:nom:f	nazwa instytucji	
-WSP	WSP	subst:sg:nom:n2	nazwa instytucji	
+WSP	WSP	subst:sg:nom:n:ncol	nazwa instytucji	
 WSP	WSP	subst:sg:voc:f	nazwa instytucji	
-WSP	WSP	subst:sg:voc:n2	nazwa instytucji	
+WSP	WSP	subst:sg:voc:n:ncol	nazwa instytucji	
 WSW	WSW	subst:pl:acc:m3	nazwa instytucji	
-WSW	WSW	subst:pl:acc:n2	nazwa instytucji	
+WSW	WSW	subst:pl:acc:n:ncol	nazwa instytucji	
 WSW	WSW	subst:pl:dat:m3	nazwa instytucji	
-WSW	WSW	subst:pl:dat:n2	nazwa instytucji	
+WSW	WSW	subst:pl:dat:n:ncol	nazwa instytucji	
 WSW	WSW	subst:pl:gen:m3	nazwa instytucji	
-WSW	WSW	subst:pl:gen:n2	nazwa instytucji	
+WSW	WSW	subst:pl:gen:n:ncol	nazwa instytucji	
 WSW	WSW	subst:pl:inst:m3	nazwa instytucji	
-WSW	WSW	subst:pl:inst:n2	nazwa instytucji	
+WSW	WSW	subst:pl:inst:n:ncol	nazwa instytucji	
 WSW	WSW	subst:pl:loc:m3	nazwa instytucji	
-WSW	WSW	subst:pl:loc:n2	nazwa instytucji	
+WSW	WSW	subst:pl:loc:n:ncol	nazwa instytucji	
 WSW	WSW	subst:pl:nom:m3	nazwa instytucji	
-WSW	WSW	subst:pl:nom:n2	nazwa instytucji	
+WSW	WSW	subst:pl:nom:n:ncol	nazwa instytucji	
 WSW	WSW	subst:pl:voc:m3	nazwa instytucji	
-WSW	WSW	subst:pl:voc:n2	nazwa instytucji	
+WSW	WSW	subst:pl:voc:n:ncol	nazwa instytucji	
 WSW	WSW	subst:sg:acc:m3	nazwa instytucji	
-WSW	WSW	subst:sg:acc:n2	nazwa instytucji	
+WSW	WSW	subst:sg:acc:n:ncol	nazwa instytucji	
 WSW	WSW	subst:sg:dat:m3	nazwa instytucji	
-WSW	WSW	subst:sg:dat:n2	nazwa instytucji	
+WSW	WSW	subst:sg:dat:n:ncol	nazwa instytucji	
 WSW	WSW	subst:sg:gen:m3	nazwa instytucji	
-WSW	WSW	subst:sg:gen:n2	nazwa instytucji	
+WSW	WSW	subst:sg:gen:n:ncol	nazwa instytucji	
 WSW	WSW	subst:sg:inst:m3	nazwa instytucji	
-WSW	WSW	subst:sg:inst:n2	nazwa instytucji	
+WSW	WSW	subst:sg:inst:n:ncol	nazwa instytucji	
 WSW	WSW	subst:sg:loc:m3	nazwa instytucji	
-WSW	WSW	subst:sg:loc:n2	nazwa instytucji	
+WSW	WSW	subst:sg:loc:n:ncol	nazwa instytucji	
 WSW	WSW	subst:sg:nom:m3	nazwa instytucji	
-WSW	WSW	subst:sg:nom:n2	nazwa instytucji	
+WSW	WSW	subst:sg:nom:n:ncol	nazwa instytucji	
 WSW	WSW	subst:sg:voc:m3	nazwa instytucji	
-WSW	WSW	subst:sg:voc:n2	nazwa instytucji	
+WSW	WSW	subst:sg:voc:n:ncol	nazwa instytucji	
 Wszebądach	Wszebąd	subst:pl:loc:m1	imię	
 Wszebądami	Wszebąd	subst:pl:inst:m1	imię	
 Wszebąda	Wszebąd	subst:sg:acc:m1	imię	
@@ -10351,48 +10351,48 @@ Wszołów	Wszoła	subst:pl:gen:m1	nazwisko
 Wszoły	Wszoła	depr:pl:nom:m2	nazwisko	
 Wszoły	Wszoła	depr:pl:voc:m2	nazwisko	
 Wszoły	Wszoła	subst:sg:gen:m1	nazwisko	
-WTC	WTC	subst:pl:acc:n2	nazwa własna budowli	
-WTC	WTC	subst:pl:dat:n2	nazwa własna budowli	
-WTC	WTC	subst:pl:gen:n2	nazwa własna budowli	
-WTC	WTC	subst:pl:inst:n2	nazwa własna budowli	
-WTC	WTC	subst:pl:loc:n2	nazwa własna budowli	
-WTC	WTC	subst:pl:nom:n2	nazwa własna budowli	
-WTC	WTC	subst:pl:voc:n2	nazwa własna budowli	
-WTC	WTC	subst:sg:acc:n2	nazwa własna budowli	
-WTC	WTC	subst:sg:dat:n2	nazwa własna budowli	
-WTC	WTC	subst:sg:gen:n2	nazwa własna budowli	
-WTC	WTC	subst:sg:inst:n2	nazwa własna budowli	
-WTC	WTC	subst:sg:loc:n2	nazwa własna budowli	
-WTC	WTC	subst:sg:nom:n2	nazwa własna budowli	
-WTC	WTC	subst:sg:voc:n2	nazwa własna budowli	
+WTC	WTC	subst:pl:acc:n:ncol	nazwa własna budowli	
+WTC	WTC	subst:pl:dat:n:ncol	nazwa własna budowli	
+WTC	WTC	subst:pl:gen:n:ncol	nazwa własna budowli	
+WTC	WTC	subst:pl:inst:n:ncol	nazwa własna budowli	
+WTC	WTC	subst:pl:loc:n:ncol	nazwa własna budowli	
+WTC	WTC	subst:pl:nom:n:ncol	nazwa własna budowli	
+WTC	WTC	subst:pl:voc:n:ncol	nazwa własna budowli	
+WTC	WTC	subst:sg:acc:n:ncol	nazwa własna budowli	
+WTC	WTC	subst:sg:dat:n:ncol	nazwa własna budowli	
+WTC	WTC	subst:sg:gen:n:ncol	nazwa własna budowli	
+WTC	WTC	subst:sg:inst:n:ncol	nazwa własna budowli	
+WTC	WTC	subst:sg:loc:n:ncol	nazwa własna budowli	
+WTC	WTC	subst:sg:nom:n:ncol	nazwa własna budowli	
+WTC	WTC	subst:sg:voc:n:ncol	nazwa własna budowli	
 WTO	WTO	subst:pl:acc:m3	nazwa organizacji	
-WTO	WTO	subst:pl:acc:n2	nazwa organizacji	
+WTO	WTO	subst:pl:acc:n:ncol	nazwa organizacji	
 WTO	WTO	subst:pl:dat:m3	nazwa organizacji	
-WTO	WTO	subst:pl:dat:n2	nazwa organizacji	
+WTO	WTO	subst:pl:dat:n:ncol	nazwa organizacji	
 WTO	WTO	subst:pl:gen:m3	nazwa organizacji	
-WTO	WTO	subst:pl:gen:n2	nazwa organizacji	
+WTO	WTO	subst:pl:gen:n:ncol	nazwa organizacji	
 WTO	WTO	subst:pl:inst:m3	nazwa organizacji	
-WTO	WTO	subst:pl:inst:n2	nazwa organizacji	
+WTO	WTO	subst:pl:inst:n:ncol	nazwa organizacji	
 WTO	WTO	subst:pl:loc:m3	nazwa organizacji	
-WTO	WTO	subst:pl:loc:n2	nazwa organizacji	
+WTO	WTO	subst:pl:loc:n:ncol	nazwa organizacji	
 WTO	WTO	subst:pl:nom:m3	nazwa organizacji	
-WTO	WTO	subst:pl:nom:n2	nazwa organizacji	
+WTO	WTO	subst:pl:nom:n:ncol	nazwa organizacji	
 WTO	WTO	subst:pl:voc:m3	nazwa organizacji	
-WTO	WTO	subst:pl:voc:n2	nazwa organizacji	
+WTO	WTO	subst:pl:voc:n:ncol	nazwa organizacji	
 WTO	WTO	subst:sg:acc:m3	nazwa organizacji	
-WTO	WTO	subst:sg:acc:n2	nazwa organizacji	
+WTO	WTO	subst:sg:acc:n:ncol	nazwa organizacji	
 WTO	WTO	subst:sg:dat:m3	nazwa organizacji	
-WTO	WTO	subst:sg:dat:n2	nazwa organizacji	
+WTO	WTO	subst:sg:dat:n:ncol	nazwa organizacji	
 WTO	WTO	subst:sg:gen:m3	nazwa organizacji	
-WTO	WTO	subst:sg:gen:n2	nazwa organizacji	
+WTO	WTO	subst:sg:gen:n:ncol	nazwa organizacji	
 WTO	WTO	subst:sg:inst:m3	nazwa organizacji	
-WTO	WTO	subst:sg:inst:n2	nazwa organizacji	
+WTO	WTO	subst:sg:inst:n:ncol	nazwa organizacji	
 WTO	WTO	subst:sg:loc:m3	nazwa organizacji	
-WTO	WTO	subst:sg:loc:n2	nazwa organizacji	
+WTO	WTO	subst:sg:loc:n:ncol	nazwa organizacji	
 WTO	WTO	subst:sg:nom:m3	nazwa organizacji	
-WTO	WTO	subst:sg:nom:n2	nazwa organizacji	
+WTO	WTO	subst:sg:nom:n:ncol	nazwa organizacji	
 WTO	WTO	subst:sg:voc:m3	nazwa organizacji	
-WTO	WTO	subst:sg:voc:n2	nazwa organizacji	
+WTO	WTO	subst:sg:voc:n:ncol	nazwa organizacji	
 Wujcach	Wujec	subst:pl:loc:m1	nazwisko	
 Wujcami	Wujec	subst:pl:inst:m1	nazwisko	
 Wujca	Wujec	subst:sg:acc:m1	nazwisko	
@@ -10409,20 +10409,20 @@ Wujców	Wujec	subst:pl:gen:m1	nazwisko
 Wujcu	Wujec	subst:sg:loc:m1	nazwisko	
 Wujcu	Wujec	subst:sg:voc:m1	nazwisko	
 Wujec	Wujec	subst:sg:nom:m1	nazwisko	
-Wuksnikach	Wuksniki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wuksnikach	Wuksniki	subst:pl:loc:p3	nazwa geograficzna	
-Wuksnikami	Wuksniki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wuksnikami	Wuksniki	subst:pl:inst:p3	nazwa geograficzna	
-Wuksniki	Wuksniki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wuksniki	Wuksniki	subst:pl:acc:p3	nazwa geograficzna	
-Wuksniki	Wuksniki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wuksniki	Wuksniki	subst:pl:nom:p3	nazwa geograficzna	
-Wuksniki	Wuksniki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wuksniki	Wuksniki	subst:pl:voc:p3	nazwa geograficzna	
-Wuksnikom	Wuksniki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wuksnikom	Wuksniki	subst:pl:dat:p3	nazwa geograficzna	
-Wuksnik	Wuksniki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wuksnik	Wuksniki	subst:pl:gen:p3	nazwa geograficzna	
+Wuksnikach	Wuksniki	subst:pl:loc:n:pt	nazwa geograficzna	
+Wuksnikach	Wuksniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wuksnikami	Wuksniki	subst:pl:inst:n:pt	nazwa geograficzna	
+Wuksnikami	Wuksniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wuksniki	Wuksniki	subst:pl:acc:n:pt	nazwa geograficzna	
+Wuksniki	Wuksniki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wuksniki	Wuksniki	subst:pl:nom:n:pt	nazwa geograficzna	
+Wuksniki	Wuksniki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wuksniki	Wuksniki	subst:pl:voc:n:pt	nazwa geograficzna	
+Wuksniki	Wuksniki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Wuksnikom	Wuksniki	subst:pl:dat:n:pt	nazwa geograficzna	
+Wuksnikom	Wuksniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wuksnik	Wuksniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Wuksnik	Wuksniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Wulgacie	Wulgata	subst:sg:dat:f	tytuł	
 Wulgacie	Wulgata	subst:sg:loc:f	tytuł	
 Wulgatach	Wulgata	subst:pl:loc:f	tytuł	
@@ -10575,20 +10575,20 @@ Wyczółkowskim	Wyczółkowski	subst:sg:inst:m1	nazwisko
 Wyczółkowskim	Wyczółkowski	subst:sg:loc:m1	nazwisko	
 Wyczółkowski	Wyczółkowski	subst:sg:nom:m1	nazwisko	
 Wyczółkowski	Wyczółkowski	subst:sg:voc:m1	nazwisko	
-Wydminach	Wydminy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wydminach	Wydminy	subst:pl:loc:p3	nazwa geograficzna	
-Wydminami	Wydminy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wydminami	Wydminy	subst:pl:inst:p3	nazwa geograficzna	
-Wydminom	Wydminy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wydminom	Wydminy	subst:pl:dat:p3	nazwa geograficzna	
-Wydmin	Wydminy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wydmin	Wydminy	subst:pl:gen:p3	nazwa geograficzna	
-Wydminy	Wydminy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wydminy	Wydminy	subst:pl:acc:p3	nazwa geograficzna	
-Wydminy	Wydminy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wydminy	Wydminy	subst:pl:nom:p3	nazwa geograficzna	
-Wydminy	Wydminy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wydminy	Wydminy	subst:pl:voc:p3	nazwa geograficzna	
+Wydminach	Wydminy	subst:pl:loc:n:pt	nazwa geograficzna	
+Wydminach	Wydminy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wydminami	Wydminy	subst:pl:inst:n:pt	nazwa geograficzna	
+Wydminami	Wydminy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wydminom	Wydminy	subst:pl:dat:n:pt	nazwa geograficzna	
+Wydminom	Wydminy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wydmin	Wydminy	subst:pl:gen:n:pt	nazwa geograficzna	
+Wydmin	Wydminy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Wydminy	Wydminy	subst:pl:acc:n:pt	nazwa geograficzna	
+Wydminy	Wydminy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wydminy	Wydminy	subst:pl:nom:n:pt	nazwa geograficzna	
+Wydminy	Wydminy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wydminy	Wydminy	subst:pl:voc:n:pt	nazwa geograficzna	
+Wydminy	Wydminy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Wydrzyńska	Wydrzyńska	subst:sg:nom:f	nazwisko	
 Wydrzyńska	Wydrzyńska	subst:sg:voc:f	nazwisko	
 Wydrzyńską	Wydrzyńska	subst:sg:acc:f	nazwisko	
@@ -10693,20 +10693,20 @@ Wysockim	Wysocki	subst:sg:inst:m1	nazwisko
 Wysockim	Wysocki	subst:sg:loc:m1	nazwisko	
 Wysocki	Wysocki	subst:sg:nom:m1	nazwisko	
 Wysocki	Wysocki	subst:sg:voc:m1	nazwisko	
-Wysokich	Wysokie	subst:pl:gen:n2	nazwa geograficzna	
-Wysokich	Wysokie	subst:pl:loc:n2	nazwa geograficzna	
-Wysokiego	Wysokie	subst:sg:gen:n2	nazwa geograficzna	
-Wysokiemu	Wysokie	subst:sg:dat:n2	nazwa geograficzna	
-Wysokiem	Wysokie	subst:sg:inst:n2	nazwa geograficzna	
-Wysokiem	Wysokie	subst:sg:loc:n2	nazwa geograficzna	
-Wysokie	Wysokie	subst:pl:acc:n2	nazwa geograficzna	
-Wysokie	Wysokie	subst:pl:nom:n2	nazwa geograficzna	
-Wysokie	Wysokie	subst:pl:voc:n2	nazwa geograficzna	
-Wysokie	Wysokie	subst:sg:acc:n2	nazwa geograficzna	
-Wysokie	Wysokie	subst:sg:nom:n2	nazwa geograficzna	
-Wysokie	Wysokie	subst:sg:voc:n2	nazwa geograficzna	
-Wysokimi	Wysokie	subst:pl:inst:n2	nazwa geograficzna	
-Wysokim	Wysokie	subst:pl:dat:n2	nazwa geograficzna	
+Wysokich	Wysokie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Wysokich	Wysokie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wysokiego	Wysokie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wysokiemu	Wysokie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wysokiem	Wysokie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wysokiem	Wysokie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wysokie	Wysokie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Wysokie	Wysokie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Wysokie	Wysokie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Wysokie	Wysokie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Wysokie	Wysokie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Wysokie	Wysokie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Wysokimi	Wysokie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wysokim	Wysokie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Wysokińska	Wysokińska	subst:sg:nom:f	nazwisko	
 Wysokińska	Wysokińska	subst:sg:voc:f	nazwisko	
 Wysokińską	Wysokińska	subst:sg:acc:f	nazwisko	
@@ -10952,20 +10952,20 @@ Wyszyńskim	Wyszyński	subst:sg:inst:m1	nazwisko
 Wyszyńskim	Wyszyński	subst:sg:loc:m1	nazwisko	
 Wyszyński	Wyszyński	subst:sg:nom:m1	nazwisko	
 Wyszyński	Wyszyński	subst:sg:voc:m1	nazwisko	
-Wyśmierzycach	Wyśmierzyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Wyśmierzycach	Wyśmierzyce	subst:pl:loc:p3	nazwa geograficzna	
-Wyśmierzycami	Wyśmierzyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Wyśmierzycami	Wyśmierzyce	subst:pl:inst:p3	nazwa geograficzna	
-Wyśmierzyce	Wyśmierzyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Wyśmierzyce	Wyśmierzyce	subst:pl:acc:p3	nazwa geograficzna	
-Wyśmierzyce	Wyśmierzyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Wyśmierzyce	Wyśmierzyce	subst:pl:nom:p3	nazwa geograficzna	
-Wyśmierzyce	Wyśmierzyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Wyśmierzyce	Wyśmierzyce	subst:pl:voc:p3	nazwa geograficzna	
-Wyśmierzycom	Wyśmierzyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Wyśmierzycom	Wyśmierzyce	subst:pl:dat:p3	nazwa geograficzna	
-Wyśmierzyc	Wyśmierzyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Wyśmierzyc	Wyśmierzyce	subst:pl:gen:p3	nazwa geograficzna	
+Wyśmierzycach	Wyśmierzyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Wyśmierzycach	Wyśmierzyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Wyśmierzycami	Wyśmierzyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Wyśmierzycami	Wyśmierzyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Wyśmierzyce	Wyśmierzyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Wyśmierzyce	Wyśmierzyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Wyśmierzyce	Wyśmierzyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Wyśmierzyce	Wyśmierzyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Wyśmierzyce	Wyśmierzyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Wyśmierzyce	Wyśmierzyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Wyśmierzycom	Wyśmierzyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Wyśmierzycom	Wyśmierzyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Wyśmierzyc	Wyśmierzyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Wyśmierzyc	Wyśmierzyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Wywrocie	Wywrót	subst:sg:loc:m2	imię	
 Wywrocie	Wywrót	subst:sg:voc:m2	imię	
 Wywrotach	Wywrót	subst:pl:loc:m2	imię	
@@ -10994,24 +10994,24 @@ W-Z	W-Z	subst:sg:inst:f	nazwa pospolita
 W-Z	W-Z	subst:sg:loc:f	nazwa pospolita	
 W-Z	W-Z	subst:sg:nom:f	nazwa pospolita	
 W-Z	W-Z	subst:sg:voc:f	nazwa pospolita	
-WZA	WZA	subst:pl:acc:n2	nazwa pospolita	
-WZA	WZA	subst:pl:dat:n2	nazwa pospolita	
-WZA	WZA	subst:pl:gen:n2	nazwa pospolita	
-WZA	WZA	subst:pl:inst:n2	nazwa pospolita	
-WZA	WZA	subst:pl:loc:n2	nazwa pospolita	
-WZA	WZA	subst:pl:nom:n2	nazwa pospolita	
-WZA	WZA	subst:pl:voc:n2	nazwa pospolita	
-WZA	WZA	subst:sg:acc:n2	nazwa pospolita	
-WZA	WZA	subst:sg:dat:n2	nazwa pospolita	
-WZA	WZA	subst:sg:gen:n2	nazwa pospolita	
-WZA	WZA	subst:sg:inst:n2	nazwa pospolita	
-WZA	WZA	subst:sg:loc:n2	nazwa pospolita	
-WZA	WZA	subst:sg:nom:n2	nazwa pospolita	
-WZA	WZA	subst:sg:voc:n2	nazwa pospolita	
-WZiZT	WZiZT	subst:pl:acc:p3	nazwa pospolita	
-WZiZT	WZiZT	subst:pl:dat:p3	nazwa pospolita	
-WZiZT	WZiZT	subst:pl:gen:p3	nazwa pospolita	
-WZiZT	WZiZT	subst:pl:inst:p3	nazwa pospolita	
-WZiZT	WZiZT	subst:pl:loc:p3	nazwa pospolita	
-WZiZT	WZiZT	subst:pl:nom:p3	nazwa pospolita	
-WZiZT	WZiZT	subst:pl:voc:p3	nazwa pospolita	
+WZA	WZA	subst:pl:acc:n:ncol	nazwa pospolita	
+WZA	WZA	subst:pl:dat:n:ncol	nazwa pospolita	
+WZA	WZA	subst:pl:gen:n:ncol	nazwa pospolita	
+WZA	WZA	subst:pl:inst:n:ncol	nazwa pospolita	
+WZA	WZA	subst:pl:loc:n:ncol	nazwa pospolita	
+WZA	WZA	subst:pl:nom:n:ncol	nazwa pospolita	
+WZA	WZA	subst:pl:voc:n:ncol	nazwa pospolita	
+WZA	WZA	subst:sg:acc:n:ncol	nazwa pospolita	
+WZA	WZA	subst:sg:dat:n:ncol	nazwa pospolita	
+WZA	WZA	subst:sg:gen:n:ncol	nazwa pospolita	
+WZA	WZA	subst:sg:inst:n:ncol	nazwa pospolita	
+WZA	WZA	subst:sg:loc:n:ncol	nazwa pospolita	
+WZA	WZA	subst:sg:nom:n:ncol	nazwa pospolita	
+WZA	WZA	subst:sg:voc:n:ncol	nazwa pospolita	
+WZiZT	WZiZT	subst:pl:acc:n:pt	nazwa pospolita	
+WZiZT	WZiZT	subst:pl:dat:n:pt	nazwa pospolita	
+WZiZT	WZiZT	subst:pl:gen:n:pt	nazwa pospolita	
+WZiZT	WZiZT	subst:pl:inst:n:pt	nazwa pospolita	
+WZiZT	WZiZT	subst:pl:loc:n:pt	nazwa pospolita	
+WZiZT	WZiZT	subst:pl:nom:n:pt	nazwa pospolita	
+WZiZT	WZiZT	subst:pl:voc:n:pt	nazwa pospolita	

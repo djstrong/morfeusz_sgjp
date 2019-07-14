@@ -131,20 +131,20 @@ Nadborze	Nadbor	subst:sg:loc:m1	imię
 Nadborze	Nadbor	subst:sg:voc:m1	imię	
 Nadborzy	Nadbor	subst:pl:nom:m1	imię	
 Nadborzy	Nadbor	subst:pl:voc:m1	imię	
-Naddniestrzach	Naddniestrze	subst:pl:loc:n2	nazwa geograficzna	
-Naddniestrzami	Naddniestrze	subst:pl:inst:n2	nazwa geograficzna	
-Naddniestrza	Naddniestrze	subst:pl:acc:n2	nazwa geograficzna	
-Naddniestrza	Naddniestrze	subst:pl:nom:n2	nazwa geograficzna	
-Naddniestrza	Naddniestrze	subst:pl:voc:n2	nazwa geograficzna	
-Naddniestrza	Naddniestrze	subst:sg:gen:n2	nazwa geograficzna	
-Naddniestrzem	Naddniestrze	subst:sg:inst:n2	nazwa geograficzna	
-Naddniestrze	Naddniestrze	subst:sg:acc:n2	nazwa geograficzna	
-Naddniestrze	Naddniestrze	subst:sg:nom:n2	nazwa geograficzna	
-Naddniestrze	Naddniestrze	subst:sg:voc:n2	nazwa geograficzna	
-Naddniestrzom	Naddniestrze	subst:pl:dat:n2	nazwa geograficzna	
-Naddniestrzu	Naddniestrze	subst:sg:dat:n2	nazwa geograficzna	
-Naddniestrzu	Naddniestrze	subst:sg:loc:n2	nazwa geograficzna	
-Naddniestrzy	Naddniestrze	subst:pl:gen:n2	nazwa geograficzna	
+Naddniestrzach	Naddniestrze	subst:pl:loc:n:ncol	nazwa geograficzna	
+Naddniestrzami	Naddniestrze	subst:pl:inst:n:ncol	nazwa geograficzna	
+Naddniestrza	Naddniestrze	subst:pl:acc:n:ncol	nazwa geograficzna	
+Naddniestrza	Naddniestrze	subst:pl:nom:n:ncol	nazwa geograficzna	
+Naddniestrza	Naddniestrze	subst:pl:voc:n:ncol	nazwa geograficzna	
+Naddniestrza	Naddniestrze	subst:sg:gen:n:ncol	nazwa geograficzna	
+Naddniestrzem	Naddniestrze	subst:sg:inst:n:ncol	nazwa geograficzna	
+Naddniestrze	Naddniestrze	subst:sg:acc:n:ncol	nazwa geograficzna	
+Naddniestrze	Naddniestrze	subst:sg:nom:n:ncol	nazwa geograficzna	
+Naddniestrze	Naddniestrze	subst:sg:voc:n:ncol	nazwa geograficzna	
+Naddniestrzom	Naddniestrze	subst:pl:dat:n:ncol	nazwa geograficzna	
+Naddniestrzu	Naddniestrze	subst:sg:dat:n:ncol	nazwa geograficzna	
+Naddniestrzu	Naddniestrze	subst:sg:loc:n:ncol	nazwa geograficzna	
+Naddniestrzy	Naddniestrze	subst:pl:gen:n:ncol	nazwa geograficzna	
 Nadiach	Nadia	subst:pl:loc:f	imię	
 Nadiami	Nadia	subst:pl:inst:f	imię	
 Nadia	Nadia	subst:sg:nom:f	imię	
@@ -192,20 +192,20 @@ Nadmirze	Nadmir	subst:sg:loc:m1	imię
 Nadmirze	Nadmir	subst:sg:voc:m1	imię	
 Nadmirzy	Nadmir	subst:pl:nom:m1	imię	
 Nadmirzy	Nadmir	subst:pl:voc:m1	imię	
-Nadodrzach	Nadodrze	subst:pl:loc:n2	nazwa geograficzna	
-Nadodrzami	Nadodrze	subst:pl:inst:n2	nazwa geograficzna	
-Nadodrza	Nadodrze	subst:pl:acc:n2	nazwa geograficzna	
-Nadodrza	Nadodrze	subst:pl:nom:n2	nazwa geograficzna	
-Nadodrza	Nadodrze	subst:pl:voc:n2	nazwa geograficzna	
-Nadodrza	Nadodrze	subst:sg:gen:n2	nazwa geograficzna	
-Nadodrzem	Nadodrze	subst:sg:inst:n2	nazwa geograficzna	
-Nadodrze	Nadodrze	subst:sg:acc:n2	nazwa geograficzna	
-Nadodrze	Nadodrze	subst:sg:nom:n2	nazwa geograficzna	
-Nadodrze	Nadodrze	subst:sg:voc:n2	nazwa geograficzna	
-Nadodrzom	Nadodrze	subst:pl:dat:n2	nazwa geograficzna	
-Nadodrzu	Nadodrze	subst:sg:dat:n2	nazwa geograficzna	
-Nadodrzu	Nadodrze	subst:sg:loc:n2	nazwa geograficzna	
-Nadodrzy	Nadodrze	subst:pl:gen:n2	nazwa geograficzna	
+Nadodrzach	Nadodrze	subst:pl:loc:n:ncol	nazwa geograficzna	
+Nadodrzami	Nadodrze	subst:pl:inst:n:ncol	nazwa geograficzna	
+Nadodrza	Nadodrze	subst:pl:acc:n:ncol	nazwa geograficzna	
+Nadodrza	Nadodrze	subst:pl:nom:n:ncol	nazwa geograficzna	
+Nadodrza	Nadodrze	subst:pl:voc:n:ncol	nazwa geograficzna	
+Nadodrza	Nadodrze	subst:sg:gen:n:ncol	nazwa geograficzna	
+Nadodrzem	Nadodrze	subst:sg:inst:n:ncol	nazwa geograficzna	
+Nadodrze	Nadodrze	subst:sg:acc:n:ncol	nazwa geograficzna	
+Nadodrze	Nadodrze	subst:sg:nom:n:ncol	nazwa geograficzna	
+Nadodrze	Nadodrze	subst:sg:voc:n:ncol	nazwa geograficzna	
+Nadodrzom	Nadodrze	subst:pl:dat:n:ncol	nazwa geograficzna	
+Nadodrzu	Nadodrze	subst:sg:dat:n:ncol	nazwa geograficzna	
+Nadodrzu	Nadodrze	subst:sg:loc:n:ncol	nazwa geograficzna	
+Nadodrzy	Nadodrze	subst:pl:gen:n:ncol	nazwa geograficzna	
 Nadolna	Nadolna	subst:sg:nom:f	nazwisko	
 Nadolna	Nadolna	subst:sg:voc:f	nazwisko	
 Nadolną	Nadolna	subst:sg:acc:f	nazwisko	
@@ -353,34 +353,34 @@ Naftali	Naftali	subst:sg:nom:m1	imię
 Naftali	Naftali	subst:sg:voc:m1	imię	
 Naftalowie	Naftali	subst:pl:nom:m1	imię	
 Naftalowie	Naftali	subst:pl:voc:m1	imię	
-Nagasaki	Nagasaki	subst:pl:acc:n2	nazwa geograficzna	
-Nagasaki	Nagasaki	subst:pl:dat:n2	nazwa geograficzna	
-Nagasaki	Nagasaki	subst:pl:gen:n2	nazwa geograficzna	
-Nagasaki	Nagasaki	subst:pl:inst:n2	nazwa geograficzna	
-Nagasaki	Nagasaki	subst:pl:loc:n2	nazwa geograficzna	
-Nagasaki	Nagasaki	subst:pl:nom:n2	nazwa geograficzna	
-Nagasaki	Nagasaki	subst:pl:voc:n2	nazwa geograficzna	
-Nagasaki	Nagasaki	subst:sg:acc:n2	nazwa geograficzna	
-Nagasaki	Nagasaki	subst:sg:dat:n2	nazwa geograficzna	
-Nagasaki	Nagasaki	subst:sg:gen:n2	nazwa geograficzna	
-Nagasaki	Nagasaki	subst:sg:inst:n2	nazwa geograficzna	
-Nagasaki	Nagasaki	subst:sg:loc:n2	nazwa geograficzna	
-Nagasaki	Nagasaki	subst:sg:nom:n2	nazwa geograficzna	
-Nagasaki	Nagasaki	subst:sg:voc:n2	nazwa geograficzna	
-Nagłowicach	Nagłowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Nagłowicach	Nagłowice	subst:pl:loc:p3	nazwa geograficzna	
-Nagłowicami	Nagłowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Nagłowicami	Nagłowice	subst:pl:inst:p3	nazwa geograficzna	
-Nagłowice	Nagłowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Nagłowice	Nagłowice	subst:pl:acc:p3	nazwa geograficzna	
-Nagłowice	Nagłowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Nagłowice	Nagłowice	subst:pl:nom:p3	nazwa geograficzna	
-Nagłowice	Nagłowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Nagłowice	Nagłowice	subst:pl:voc:p3	nazwa geograficzna	
-Nagłowic	Nagłowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Nagłowic	Nagłowice	subst:pl:gen:p3	nazwa geograficzna	
-Nagłowicom	Nagłowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Nagłowicom	Nagłowice	subst:pl:dat:p3	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:pl:acc:n:ncol	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:pl:dat:n:ncol	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:pl:gen:n:ncol	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:pl:inst:n:ncol	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:pl:loc:n:ncol	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:pl:nom:n:ncol	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:pl:voc:n:ncol	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:sg:acc:n:ncol	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:sg:dat:n:ncol	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:sg:gen:n:ncol	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:sg:inst:n:ncol	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:sg:loc:n:ncol	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:sg:nom:n:ncol	nazwa geograficzna	
+Nagasaki	Nagasaki	subst:sg:voc:n:ncol	nazwa geograficzna	
+Nagłowicach	Nagłowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Nagłowicach	Nagłowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Nagłowicami	Nagłowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Nagłowicami	Nagłowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Nagłowice	Nagłowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Nagłowice	Nagłowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Nagłowice	Nagłowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Nagłowice	Nagłowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Nagłowice	Nagłowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Nagłowice	Nagłowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Nagłowic	Nagłowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Nagłowic	Nagłowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Nagłowicom	Nagłowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Nagłowicom	Nagłowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Nagórna	Nagórna	subst:sg:nom:f	nazwisko	
 Nagórna	Nagórna	subst:sg:voc:f	nazwisko	
 Nagórną	Nagórna	subst:sg:acc:f	nazwisko	
@@ -459,20 +459,20 @@ Naipaulów	Naipaul	subst:pl:acc:m1	nazwisko
 Naipaulów	Naipaul	subst:pl:gen:m1	nazwisko	
 Naipaulu	Naipaul	subst:sg:loc:m1	nazwisko	
 Naipaulu	Naipaul	subst:sg:voc:m1	nazwisko	
-Nairobi	Nairobi	subst:pl:acc:n2	nazwa geograficzna	
-Nairobi	Nairobi	subst:pl:dat:n2	nazwa geograficzna	
-Nairobi	Nairobi	subst:pl:gen:n2	nazwa geograficzna	
-Nairobi	Nairobi	subst:pl:inst:n2	nazwa geograficzna	
-Nairobi	Nairobi	subst:pl:loc:n2	nazwa geograficzna	
-Nairobi	Nairobi	subst:pl:nom:n2	nazwa geograficzna	
-Nairobi	Nairobi	subst:pl:voc:n2	nazwa geograficzna	
-Nairobi	Nairobi	subst:sg:acc:n2	nazwa geograficzna	
-Nairobi	Nairobi	subst:sg:dat:n2	nazwa geograficzna	
-Nairobi	Nairobi	subst:sg:gen:n2	nazwa geograficzna	
-Nairobi	Nairobi	subst:sg:inst:n2	nazwa geograficzna	
-Nairobi	Nairobi	subst:sg:loc:n2	nazwa geograficzna	
-Nairobi	Nairobi	subst:sg:nom:n2	nazwa geograficzna	
-Nairobi	Nairobi	subst:sg:voc:n2	nazwa geograficzna	
+Nairobi	Nairobi	subst:pl:acc:n:ncol	nazwa geograficzna	
+Nairobi	Nairobi	subst:pl:dat:n:ncol	nazwa geograficzna	
+Nairobi	Nairobi	subst:pl:gen:n:ncol	nazwa geograficzna	
+Nairobi	Nairobi	subst:pl:inst:n:ncol	nazwa geograficzna	
+Nairobi	Nairobi	subst:pl:loc:n:ncol	nazwa geograficzna	
+Nairobi	Nairobi	subst:pl:nom:n:ncol	nazwa geograficzna	
+Nairobi	Nairobi	subst:pl:voc:n:ncol	nazwa geograficzna	
+Nairobi	Nairobi	subst:sg:acc:n:ncol	nazwa geograficzna	
+Nairobi	Nairobi	subst:sg:dat:n:ncol	nazwa geograficzna	
+Nairobi	Nairobi	subst:sg:gen:n:ncol	nazwa geograficzna	
+Nairobi	Nairobi	subst:sg:inst:n:ncol	nazwa geograficzna	
+Nairobi	Nairobi	subst:sg:loc:n:ncol	nazwa geograficzna	
+Nairobi	Nairobi	subst:sg:nom:n:ncol	nazwa geograficzna	
+Nairobi	Nairobi	subst:sg:voc:n:ncol	nazwa geograficzna	
 Nai	Naja:s1	subst:pl:gen:f	nazwisko	hom.
 Nai	Naja:s1	subst:sg:dat:f	nazwisko	
 Nai	Naja:s1	subst:sg:gen:f	nazwisko	
@@ -505,20 +505,20 @@ Najowie	Naja:s2	subst:pl:voc:m1	nazwisko
 Najów	Naja:s2	subst:pl:acc:m1	nazwisko	
 Najów	Naja:s2	subst:pl:gen:m1	nazwisko	
 NMP	Najświętsza_Maryja_Panna	brev:npun		
-Nakieł	Nakło	subst:pl:gen:n2	nazwa geograficzna	
-Nakle	Nakło	subst:sg:loc:n2	nazwa geograficzna	
-Nakłach	Nakło	subst:pl:loc:n2	nazwa geograficzna	
-Nakłami	Nakło	subst:pl:inst:n2	nazwa geograficzna	
-Nakła	Nakło	subst:pl:acc:n2	nazwa geograficzna	
-Nakła	Nakło	subst:pl:nom:n2	nazwa geograficzna	
-Nakła	Nakło	subst:pl:voc:n2	nazwa geograficzna	
-Nakła	Nakło	subst:sg:gen:n2	nazwa geograficzna	
-Nakłem	Nakło	subst:sg:inst:n2	nazwa geograficzna	
-Nakłom	Nakło	subst:pl:dat:n2	nazwa geograficzna	
-Nakło	Nakło	subst:sg:acc:n2	nazwa geograficzna	
-Nakło	Nakło	subst:sg:nom:n2	nazwa geograficzna	
-Nakło	Nakło	subst:sg:voc:n2	nazwa geograficzna	
-Nakłu	Nakło	subst:sg:dat:n2	nazwa geograficzna	
+Nakieł	Nakło	subst:pl:gen:n:ncol	nazwa geograficzna	
+Nakle	Nakło	subst:sg:loc:n:ncol	nazwa geograficzna	
+Nakłach	Nakło	subst:pl:loc:n:ncol	nazwa geograficzna	
+Nakłami	Nakło	subst:pl:inst:n:ncol	nazwa geograficzna	
+Nakła	Nakło	subst:pl:acc:n:ncol	nazwa geograficzna	
+Nakła	Nakło	subst:pl:nom:n:ncol	nazwa geograficzna	
+Nakła	Nakło	subst:pl:voc:n:ncol	nazwa geograficzna	
+Nakła	Nakło	subst:sg:gen:n:ncol	nazwa geograficzna	
+Nakłem	Nakło	subst:sg:inst:n:ncol	nazwa geograficzna	
+Nakłom	Nakło	subst:pl:dat:n:ncol	nazwa geograficzna	
+Nakło	Nakło	subst:sg:acc:n:ncol	nazwa geograficzna	
+Nakło	Nakło	subst:sg:nom:n:ncol	nazwa geograficzna	
+Nakło	Nakło	subst:sg:voc:n:ncol	nazwa geograficzna	
+Nakłu	Nakło	subst:sg:dat:n:ncol	nazwa geograficzna	
 Nakoneczna	Nakoneczna	subst:sg:nom:f	nazwisko	
 Nakoneczna	Nakoneczna	subst:sg:voc:f	nazwisko	
 Nakoneczną	Nakoneczna	subst:sg:acc:f	nazwisko	
@@ -732,20 +732,20 @@ Nansenów	Nansen	subst:pl:acc:m1	nazwisko
 Nansenów	Nansen	subst:pl:gen:m1	nazwisko	
 Nanseny	Nansen	depr:pl:nom:m2	nazwisko	
 Nanseny	Nansen	depr:pl:voc:m2	nazwisko	
-Nantes	Nantes	subst:pl:acc:n2	nazwa geograficzna	
-Nantes	Nantes	subst:pl:dat:n2	nazwa geograficzna	
-Nantes	Nantes	subst:pl:gen:n2	nazwa geograficzna	
-Nantes	Nantes	subst:pl:inst:n2	nazwa geograficzna	
-Nantes	Nantes	subst:pl:loc:n2	nazwa geograficzna	
-Nantes	Nantes	subst:pl:nom:n2	nazwa geograficzna	
-Nantes	Nantes	subst:pl:voc:n2	nazwa geograficzna	
-Nantes	Nantes	subst:sg:acc:n2	nazwa geograficzna	
-Nantes	Nantes	subst:sg:dat:n2	nazwa geograficzna	
-Nantes	Nantes	subst:sg:gen:n2	nazwa geograficzna	
-Nantes	Nantes	subst:sg:inst:n2	nazwa geograficzna	
-Nantes	Nantes	subst:sg:loc:n2	nazwa geograficzna	
-Nantes	Nantes	subst:sg:nom:n2	nazwa geograficzna	
-Nantes	Nantes	subst:sg:voc:n2	nazwa geograficzna	
+Nantes	Nantes	subst:pl:acc:n:ncol	nazwa geograficzna	
+Nantes	Nantes	subst:pl:dat:n:ncol	nazwa geograficzna	
+Nantes	Nantes	subst:pl:gen:n:ncol	nazwa geograficzna	
+Nantes	Nantes	subst:pl:inst:n:ncol	nazwa geograficzna	
+Nantes	Nantes	subst:pl:loc:n:ncol	nazwa geograficzna	
+Nantes	Nantes	subst:pl:nom:n:ncol	nazwa geograficzna	
+Nantes	Nantes	subst:pl:voc:n:ncol	nazwa geograficzna	
+Nantes	Nantes	subst:sg:acc:n:ncol	nazwa geograficzna	
+Nantes	Nantes	subst:sg:dat:n:ncol	nazwa geograficzna	
+Nantes	Nantes	subst:sg:gen:n:ncol	nazwa geograficzna	
+Nantes	Nantes	subst:sg:inst:n:ncol	nazwa geograficzna	
+Nantes	Nantes	subst:sg:loc:n:ncol	nazwa geograficzna	
+Nantes	Nantes	subst:sg:nom:n:ncol	nazwa geograficzna	
+Nantes	Nantes	subst:sg:voc:n:ncol	nazwa geograficzna	
 NAP-ach	NAP	subst:pl:loc:m3	nazwa organizacji	
 NAP-ami	NAP	subst:pl:inst:m3	nazwa organizacji	
 NAP-em	NAP	subst:sg:inst:m3	nazwa organizacji	
@@ -960,20 +960,20 @@ Naruszewiczów	Naruszewicz	subst:pl:acc:m1	nazwisko
 Naruszewiczów	Naruszewicz	subst:pl:gen:m1	nazwisko	
 Naruszewiczu	Naruszewicz	subst:sg:loc:m1	nazwisko	
 Naruszewiczu	Naruszewicz	subst:sg:voc:m1	nazwisko	
-Naruszewach	Naruszewo	subst:pl:loc:n2	nazwa geograficzna	
-Naruszewami	Naruszewo	subst:pl:inst:n2	nazwa geograficzna	
-Naruszewa	Naruszewo	subst:pl:acc:n2	nazwa geograficzna	
-Naruszewa	Naruszewo	subst:pl:nom:n2	nazwa geograficzna	
-Naruszewa	Naruszewo	subst:pl:voc:n2	nazwa geograficzna	
-Naruszewa	Naruszewo	subst:sg:gen:n2	nazwa geograficzna	
-Naruszewem	Naruszewo	subst:sg:inst:n2	nazwa geograficzna	
-Naruszewie	Naruszewo	subst:sg:loc:n2	nazwa geograficzna	
-Naruszew	Naruszewo	subst:pl:gen:n2	nazwa geograficzna	
-Naruszewom	Naruszewo	subst:pl:dat:n2	nazwa geograficzna	
-Naruszewo	Naruszewo	subst:sg:acc:n2	nazwa geograficzna	
-Naruszewo	Naruszewo	subst:sg:nom:n2	nazwa geograficzna	
-Naruszewo	Naruszewo	subst:sg:voc:n2	nazwa geograficzna	
-Naruszewu	Naruszewo	subst:sg:dat:n2	nazwa geograficzna	
+Naruszewach	Naruszewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Naruszewami	Naruszewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Naruszewa	Naruszewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Naruszewa	Naruszewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Naruszewa	Naruszewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Naruszewa	Naruszewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Naruszewem	Naruszewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Naruszewie	Naruszewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Naruszew	Naruszewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Naruszewom	Naruszewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Naruszewo	Naruszewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Naruszewo	Naruszewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Naruszewo	Naruszewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Naruszewu	Naruszewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Narutowiczach	Narutowicz	subst:pl:loc:m1	nazwisko	
 Narutowiczami	Narutowicz	subst:pl:inst:m1	nazwisko	
 Narutowicza	Narutowicz	subst:sg:acc:m1	nazwisko	
@@ -1256,54 +1256,54 @@ Nataszy	Natasza	subst:sg:dat:f	imię
 Nataszy	Natasza	subst:sg:gen:f	imię	
 Nataszy	Natasza	subst:sg:loc:f	imię	
 NATO	NATO	subst:pl:acc:f	nazwa organizacji	
-NATO	NATO	subst:pl:acc:n2	nazwa organizacji	
+NATO	NATO	subst:pl:acc:n:ncol	nazwa organizacji	
 NATO	NATO	subst:pl:dat:f	nazwa organizacji	
-NATO	NATO	subst:pl:dat:n2	nazwa organizacji	
+NATO	NATO	subst:pl:dat:n:ncol	nazwa organizacji	
 NATO	NATO	subst:pl:gen:f	nazwa organizacji	
-NATO	NATO	subst:pl:gen:n2	nazwa organizacji	
+NATO	NATO	subst:pl:gen:n:ncol	nazwa organizacji	
 NATO	NATO	subst:pl:inst:f	nazwa organizacji	
-NATO	NATO	subst:pl:inst:n2	nazwa organizacji	
+NATO	NATO	subst:pl:inst:n:ncol	nazwa organizacji	
 NATO	NATO	subst:pl:loc:f	nazwa organizacji	
-NATO	NATO	subst:pl:loc:n2	nazwa organizacji	
+NATO	NATO	subst:pl:loc:n:ncol	nazwa organizacji	
 NATO	NATO	subst:pl:nom:f	nazwa organizacji	
-NATO	NATO	subst:pl:nom:n2	nazwa organizacji	
+NATO	NATO	subst:pl:nom:n:ncol	nazwa organizacji	
 NATO	NATO	subst:pl:voc:f	nazwa organizacji	
-NATO	NATO	subst:pl:voc:n2	nazwa organizacji	
+NATO	NATO	subst:pl:voc:n:ncol	nazwa organizacji	
 NATO	NATO	subst:sg:acc:f	nazwa organizacji	
-NATO	NATO	subst:sg:acc:n2	nazwa organizacji	
+NATO	NATO	subst:sg:acc:n:ncol	nazwa organizacji	
 NATO	NATO	subst:sg:dat:f	nazwa organizacji	
-NATO	NATO	subst:sg:dat:n2	nazwa organizacji	
+NATO	NATO	subst:sg:dat:n:ncol	nazwa organizacji	
 NATO	NATO	subst:sg:gen:f	nazwa organizacji	
-NATO	NATO	subst:sg:gen:n2	nazwa organizacji	
+NATO	NATO	subst:sg:gen:n:ncol	nazwa organizacji	
 NATO	NATO	subst:sg:inst:f	nazwa organizacji	
-NATO	NATO	subst:sg:inst:n2	nazwa organizacji	
+NATO	NATO	subst:sg:inst:n:ncol	nazwa organizacji	
 NATO	NATO	subst:sg:loc:f	nazwa organizacji	
-NATO	NATO	subst:sg:loc:n2	nazwa organizacji	
+NATO	NATO	subst:sg:loc:n:ncol	nazwa organizacji	
 NATO	NATO	subst:sg:nom:f	nazwa organizacji	
-NATO	NATO	subst:sg:nom:n2	nazwa organizacji	
+NATO	NATO	subst:sg:nom:n:ncol	nazwa organizacji	
 NATO	NATO	subst:sg:voc:f	nazwa organizacji	
-NATO	NATO	subst:sg:voc:n2	nazwa organizacji	
-NATO-wscy	NATO-wski	adj:pl:nom.voc:m1.p1:pos		
+NATO	NATO	subst:sg:voc:n:ncol	nazwa organizacji	
+NATO-wscy	NATO-wski	adj:pl:nom.voc:m1:pos		
 NATO-wska	NATO-wski	adj:sg:nom.voc:f:pos		
 NATO-wską	NATO-wski	adj:sg:acc:f:pos		
 NATO-wską	NATO-wski	adj:sg:inst:f:pos		
-NATO-wskich	NATO-wski	adj:pl:acc:m1.p1:pos		
-NATO-wskich	NATO-wski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-NATO-wskich	NATO-wski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+NATO-wskich	NATO-wski	adj:pl:acc:m1:pos		
+NATO-wskich	NATO-wski	adj:pl:gen:m1.m2.m3.f.n:pos		
+NATO-wskich	NATO-wski	adj:pl:loc:m1.m2.m3.f.n:pos		
 NATO-wskiego	NATO-wski	adj:sg:acc:m1.m2:pos		
-NATO-wskiego	NATO-wski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+NATO-wskiego	NATO-wski	adj:sg:gen:m1.m2.m3.n:pos		
 NATO-wskiej	NATO-wski	adj:sg:dat:f:pos		
 NATO-wskiej	NATO-wski	adj:sg:gen:f:pos		
 NATO-wskiej	NATO-wski	adj:sg:loc:f:pos		
-NATO-wskiemu	NATO-wski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-NATO-wskie	NATO-wski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-NATO-wskie	NATO-wski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-NATO-wskie	NATO-wski	adj:sg:acc:n1.n2:pos		
-NATO-wskie	NATO-wski	adj:sg:nom.voc:n1.n2:pos		
-NATO-wskimi	NATO-wski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-NATO-wskim	NATO-wski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-NATO-wskim	NATO-wski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-NATO-wskim	NATO-wski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+NATO-wskiemu	NATO-wski	adj:sg:dat:m1.m2.m3.n:pos		
+NATO-wskie	NATO-wski	adj:pl:acc:m2.m3.f.n:pos		
+NATO-wskie	NATO-wski	adj:pl:nom.voc:m2.m3.f.n:pos		
+NATO-wskie	NATO-wski	adj:sg:acc:n:pos		
+NATO-wskie	NATO-wski	adj:sg:nom.voc:n:pos		
+NATO-wskimi	NATO-wski	adj:pl:inst:m1.m2.m3.f.n:pos		
+NATO-wskim	NATO-wski	adj:pl:dat:m1.m2.m3.f.n:pos		
+NATO-wskim	NATO-wski	adj:sg:inst:m1.m2.m3.n:pos		
+NATO-wskim	NATO-wski	adj:sg:loc:m1.m2.m3.n:pos		
 NATO-wski	NATO-wski	adj:sg:acc:m3:pos		
 NATO-wski	NATO-wski	adj:sg:nom.voc:m1.m2.m3:pos		
 NATO-wsko	NATO-wski	adja		
@@ -1489,62 +1489,62 @@ Nazaretu	Nazaret	subst:sg:gen:m3	nazwa geograficzna
 Nazarety	Nazaret	subst:pl:acc:m3	nazwa geograficzna	
 Nazarety	Nazaret	subst:pl:nom:m3	nazwa geograficzna	
 Nazarety	Nazaret	subst:pl:voc:m3	nazwa geograficzna	
-NBA	NBA	subst:pl:acc:n2	nazwa organizacji	sport.
-NBA	NBA	subst:pl:dat:n2	nazwa organizacji	sport.
-NBA	NBA	subst:pl:gen:n2	nazwa organizacji	sport.
-NBA	NBA	subst:pl:inst:n2	nazwa organizacji	sport.
-NBA	NBA	subst:pl:loc:n2	nazwa organizacji	sport.
-NBA	NBA	subst:pl:nom:n2	nazwa organizacji	sport.
-NBA	NBA	subst:pl:voc:n2	nazwa organizacji	sport.
-NBA	NBA	subst:sg:acc:n2	nazwa organizacji	sport.
-NBA	NBA	subst:sg:dat:n2	nazwa organizacji	sport.
-NBA	NBA	subst:sg:gen:n2	nazwa organizacji	sport.
-NBA	NBA	subst:sg:inst:n2	nazwa organizacji	sport.
-NBA	NBA	subst:sg:loc:n2	nazwa organizacji	sport.
-NBA	NBA	subst:sg:nom:n2	nazwa organizacji	sport.
-NBA	NBA	subst:sg:voc:n2	nazwa organizacji	sport.
-NBC	NBC	subst:pl:acc:n2	nazwa firmy	
-NBC	NBC	subst:pl:dat:n2	nazwa firmy	
-NBC	NBC	subst:pl:gen:n2	nazwa firmy	
-NBC	NBC	subst:pl:inst:n2	nazwa firmy	
-NBC	NBC	subst:pl:loc:n2	nazwa firmy	
-NBC	NBC	subst:pl:nom:n2	nazwa firmy	
-NBC	NBC	subst:pl:voc:n2	nazwa firmy	
-NBC	NBC	subst:sg:acc:n2	nazwa firmy	
-NBC	NBC	subst:sg:dat:n2	nazwa firmy	
-NBC	NBC	subst:sg:gen:n2	nazwa firmy	
-NBC	NBC	subst:sg:inst:n2	nazwa firmy	
-NBC	NBC	subst:sg:loc:n2	nazwa firmy	
-NBC	NBC	subst:sg:nom:n2	nazwa firmy	
-NBC	NBC	subst:sg:voc:n2	nazwa firmy	
+NBA	NBA	subst:pl:acc:n:ncol	nazwa organizacji	sport.
+NBA	NBA	subst:pl:dat:n:ncol	nazwa organizacji	sport.
+NBA	NBA	subst:pl:gen:n:ncol	nazwa organizacji	sport.
+NBA	NBA	subst:pl:inst:n:ncol	nazwa organizacji	sport.
+NBA	NBA	subst:pl:loc:n:ncol	nazwa organizacji	sport.
+NBA	NBA	subst:pl:nom:n:ncol	nazwa organizacji	sport.
+NBA	NBA	subst:pl:voc:n:ncol	nazwa organizacji	sport.
+NBA	NBA	subst:sg:acc:n:ncol	nazwa organizacji	sport.
+NBA	NBA	subst:sg:dat:n:ncol	nazwa organizacji	sport.
+NBA	NBA	subst:sg:gen:n:ncol	nazwa organizacji	sport.
+NBA	NBA	subst:sg:inst:n:ncol	nazwa organizacji	sport.
+NBA	NBA	subst:sg:loc:n:ncol	nazwa organizacji	sport.
+NBA	NBA	subst:sg:nom:n:ncol	nazwa organizacji	sport.
+NBA	NBA	subst:sg:voc:n:ncol	nazwa organizacji	sport.
+NBC	NBC	subst:pl:acc:n:ncol	nazwa firmy	
+NBC	NBC	subst:pl:dat:n:ncol	nazwa firmy	
+NBC	NBC	subst:pl:gen:n:ncol	nazwa firmy	
+NBC	NBC	subst:pl:inst:n:ncol	nazwa firmy	
+NBC	NBC	subst:pl:loc:n:ncol	nazwa firmy	
+NBC	NBC	subst:pl:nom:n:ncol	nazwa firmy	
+NBC	NBC	subst:pl:voc:n:ncol	nazwa firmy	
+NBC	NBC	subst:sg:acc:n:ncol	nazwa firmy	
+NBC	NBC	subst:sg:dat:n:ncol	nazwa firmy	
+NBC	NBC	subst:sg:gen:n:ncol	nazwa firmy	
+NBC	NBC	subst:sg:inst:n:ncol	nazwa firmy	
+NBC	NBC	subst:sg:loc:n:ncol	nazwa firmy	
+NBC	NBC	subst:sg:nom:n:ncol	nazwa firmy	
+NBC	NBC	subst:sg:voc:n:ncol	nazwa firmy	
 NBP	NBP	subst:pl:acc:m3	nazwa instytucji	
-NBP	NBP	subst:pl:acc:n2	nazwa instytucji	pot.
+NBP	NBP	subst:pl:acc:n:ncol	nazwa instytucji	pot.
 NBP	NBP	subst:pl:dat:m3	nazwa instytucji	
-NBP	NBP	subst:pl:dat:n2	nazwa instytucji	pot.
+NBP	NBP	subst:pl:dat:n:ncol	nazwa instytucji	pot.
 NBP	NBP	subst:pl:gen:m3	nazwa instytucji	
-NBP	NBP	subst:pl:gen:n2	nazwa instytucji	pot.
+NBP	NBP	subst:pl:gen:n:ncol	nazwa instytucji	pot.
 NBP	NBP	subst:pl:inst:m3	nazwa instytucji	
-NBP	NBP	subst:pl:inst:n2	nazwa instytucji	pot.
+NBP	NBP	subst:pl:inst:n:ncol	nazwa instytucji	pot.
 NBP	NBP	subst:pl:loc:m3	nazwa instytucji	
-NBP	NBP	subst:pl:loc:n2	nazwa instytucji	pot.
+NBP	NBP	subst:pl:loc:n:ncol	nazwa instytucji	pot.
 NBP	NBP	subst:pl:nom:m3	nazwa instytucji	
-NBP	NBP	subst:pl:nom:n2	nazwa instytucji	pot.
+NBP	NBP	subst:pl:nom:n:ncol	nazwa instytucji	pot.
 NBP	NBP	subst:pl:voc:m3	nazwa instytucji	
-NBP	NBP	subst:pl:voc:n2	nazwa instytucji	pot.
+NBP	NBP	subst:pl:voc:n:ncol	nazwa instytucji	pot.
 NBP	NBP	subst:sg:acc:m3	nazwa instytucji	
-NBP	NBP	subst:sg:acc:n2	nazwa instytucji	pot.
+NBP	NBP	subst:sg:acc:n:ncol	nazwa instytucji	pot.
 NBP	NBP	subst:sg:dat:m3	nazwa instytucji	
-NBP	NBP	subst:sg:dat:n2	nazwa instytucji	pot.
+NBP	NBP	subst:sg:dat:n:ncol	nazwa instytucji	pot.
 NBP	NBP	subst:sg:gen:m3	nazwa instytucji	
-NBP	NBP	subst:sg:gen:n2	nazwa instytucji	pot.
+NBP	NBP	subst:sg:gen:n:ncol	nazwa instytucji	pot.
 NBP	NBP	subst:sg:inst:m3	nazwa instytucji	
-NBP	NBP	subst:sg:inst:n2	nazwa instytucji	pot.
+NBP	NBP	subst:sg:inst:n:ncol	nazwa instytucji	pot.
 NBP	NBP	subst:sg:loc:m3	nazwa instytucji	
-NBP	NBP	subst:sg:loc:n2	nazwa instytucji	pot.
+NBP	NBP	subst:sg:loc:n:ncol	nazwa instytucji	pot.
 NBP	NBP	subst:sg:nom:m3	nazwa instytucji	
-NBP	NBP	subst:sg:nom:n2	nazwa instytucji	pot.
+NBP	NBP	subst:sg:nom:n:ncol	nazwa instytucji	pot.
 NBP	NBP	subst:sg:voc:m3	nazwa instytucji	
-NBP	NBP	subst:sg:voc:n2	nazwa instytucji	pot.
+NBP	NBP	subst:sg:voc:n:ncol	nazwa instytucji	pot.
 NCL	NCL	subst:pl:acc:f	nazwa instytucji	
 NCL	NCL	subst:pl:acc:m3	nazwa instytucji	
 NCL	NCL	subst:pl:dat:f	nazwa instytucji	
@@ -1574,33 +1574,33 @@ NCL	NCL	subst:sg:nom:m3	nazwa instytucji
 NCL	NCL	subst:sg:voc:f	nazwa instytucji	
 NCL	NCL	subst:sg:voc:m3	nazwa instytucji	
 ND	ND	subst:pl:acc:f	nazwa organizacji	
-ND	ND	subst:pl:acc:n2	nazwa organizacji	
+ND	ND	subst:pl:acc:n:ncol	nazwa organizacji	
 ND	ND	subst:pl:dat:f	nazwa organizacji	
-ND	ND	subst:pl:dat:n2	nazwa organizacji	
+ND	ND	subst:pl:dat:n:ncol	nazwa organizacji	
 ND	ND	subst:pl:gen:f	nazwa organizacji	
-ND	ND	subst:pl:gen:n2	nazwa organizacji	
+ND	ND	subst:pl:gen:n:ncol	nazwa organizacji	
 ND	ND	subst:pl:inst:f	nazwa organizacji	
-ND	ND	subst:pl:inst:n2	nazwa organizacji	
+ND	ND	subst:pl:inst:n:ncol	nazwa organizacji	
 ND	ND	subst:pl:loc:f	nazwa organizacji	
-ND	ND	subst:pl:loc:n2	nazwa organizacji	
+ND	ND	subst:pl:loc:n:ncol	nazwa organizacji	
 ND	ND	subst:pl:nom:f	nazwa organizacji	
-ND	ND	subst:pl:nom:n2	nazwa organizacji	
+ND	ND	subst:pl:nom:n:ncol	nazwa organizacji	
 ND	ND	subst:pl:voc:f	nazwa organizacji	
-ND	ND	subst:pl:voc:n2	nazwa organizacji	
+ND	ND	subst:pl:voc:n:ncol	nazwa organizacji	
 ND	ND	subst:sg:acc:f	nazwa organizacji	
-ND	ND	subst:sg:acc:n2	nazwa organizacji	
+ND	ND	subst:sg:acc:n:ncol	nazwa organizacji	
 ND	ND	subst:sg:dat:f	nazwa organizacji	
-ND	ND	subst:sg:dat:n2	nazwa organizacji	
+ND	ND	subst:sg:dat:n:ncol	nazwa organizacji	
 ND	ND	subst:sg:gen:f	nazwa organizacji	
-ND	ND	subst:sg:gen:n2	nazwa organizacji	
+ND	ND	subst:sg:gen:n:ncol	nazwa organizacji	
 ND	ND	subst:sg:inst:f	nazwa organizacji	
-ND	ND	subst:sg:inst:n2	nazwa organizacji	
+ND	ND	subst:sg:inst:n:ncol	nazwa organizacji	
 ND	ND	subst:sg:loc:f	nazwa organizacji	
-ND	ND	subst:sg:loc:n2	nazwa organizacji	
+ND	ND	subst:sg:loc:n:ncol	nazwa organizacji	
 ND	ND	subst:sg:nom:f	nazwa organizacji	
-ND	ND	subst:sg:nom:n2	nazwa organizacji	
+ND	ND	subst:sg:nom:n:ncol	nazwa organizacji	
 ND	ND	subst:sg:voc:f	nazwa organizacji	
-ND	ND	subst:sg:voc:n2	nazwa organizacji	
+ND	ND	subst:sg:voc:n:ncol	nazwa organizacji	
 Neapolach	Neapol	subst:pl:loc:m3	nazwa geograficzna	
 Neapolami	Neapol	subst:pl:inst:m3	nazwa geograficzna	
 Neapolem	Neapol	subst:sg:inst:m3	nazwa geograficzna	
@@ -1673,20 +1673,20 @@ NEC-owi	NEC	subst:sg:dat:m3	nazwa firmy
 NEC-ów	NEC	subst:pl:gen:m3	nazwa firmy	
 NEC-u	NEC	subst:sg:loc:m3	nazwa firmy	
 NEC-u	NEC	subst:sg:voc:m3	nazwa firmy	
-Neckach	Necko	subst:pl:loc:n2	nazwa geograficzna	
-Neckami	Necko	subst:pl:inst:n2	nazwa geograficzna	
-Necka	Necko	subst:pl:acc:n2	nazwa geograficzna	
-Necka	Necko	subst:pl:nom:n2	nazwa geograficzna	
-Necka	Necko	subst:pl:voc:n2	nazwa geograficzna	
-Necka	Necko	subst:sg:gen:n2	nazwa geograficzna	
-Neckiem	Necko	subst:sg:inst:n2	nazwa geograficzna	
-Neck	Necko	subst:pl:gen:n2	nazwa geograficzna	
-Neckom	Necko	subst:pl:dat:n2	nazwa geograficzna	
-Necko	Necko	subst:sg:acc:n2	nazwa geograficzna	
-Necko	Necko	subst:sg:nom:n2	nazwa geograficzna	
-Necko	Necko	subst:sg:voc:n2	nazwa geograficzna	
-Necku	Necko	subst:sg:dat:n2	nazwa geograficzna	
-Necku	Necko	subst:sg:loc:n2	nazwa geograficzna	
+Neckach	Necko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Neckami	Necko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Necka	Necko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Necka	Necko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Necka	Necko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Necka	Necko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Neckiem	Necko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Neck	Necko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Neckom	Necko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Necko	Necko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Necko	Necko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Necko	Necko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Necku	Necko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Necku	Necko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Neferetiti	Neferetiti	subst:pl:acc:f	imię	
 Neferetiti	Neferetiti	subst:pl:dat:f	imię	
 Neferetiti	Neferetiti	subst:pl:gen:f	imię	
@@ -2183,47 +2183,47 @@ Nędzy	Nędza	subst:sg:dat:m1	nazwisko
 Nędzy	Nędza	subst:sg:gen:m1	nazwisko	
 Nędzy	Nędza	subst:sg:loc:m1	nazwisko	
 NFI	NFI	subst:pl:acc:m3	nazwa organizacji	
-NFI	NFI	subst:pl:acc:n2	nazwa organizacji	pot.
+NFI	NFI	subst:pl:acc:n:ncol	nazwa organizacji	pot.
 NFI	NFI	subst:pl:dat:m3	nazwa organizacji	
-NFI	NFI	subst:pl:dat:n2	nazwa organizacji	pot.
+NFI	NFI	subst:pl:dat:n:ncol	nazwa organizacji	pot.
 NFI	NFI	subst:pl:gen:m3	nazwa organizacji	
-NFI	NFI	subst:pl:gen:n2	nazwa organizacji	pot.
+NFI	NFI	subst:pl:gen:n:ncol	nazwa organizacji	pot.
 NFI	NFI	subst:pl:inst:m3	nazwa organizacji	
-NFI	NFI	subst:pl:inst:n2	nazwa organizacji	pot.
+NFI	NFI	subst:pl:inst:n:ncol	nazwa organizacji	pot.
 NFI	NFI	subst:pl:loc:m3	nazwa organizacji	
-NFI	NFI	subst:pl:loc:n2	nazwa organizacji	pot.
+NFI	NFI	subst:pl:loc:n:ncol	nazwa organizacji	pot.
 NFI	NFI	subst:pl:nom:m3	nazwa organizacji	
-NFI	NFI	subst:pl:nom:n2	nazwa organizacji	pot.
+NFI	NFI	subst:pl:nom:n:ncol	nazwa organizacji	pot.
 NFI	NFI	subst:pl:voc:m3	nazwa organizacji	
-NFI	NFI	subst:pl:voc:n2	nazwa organizacji	pot.
+NFI	NFI	subst:pl:voc:n:ncol	nazwa organizacji	pot.
 NFI	NFI	subst:sg:acc:m3	nazwa organizacji	
-NFI	NFI	subst:sg:acc:n2	nazwa organizacji	pot.
+NFI	NFI	subst:sg:acc:n:ncol	nazwa organizacji	pot.
 NFI	NFI	subst:sg:dat:m3	nazwa organizacji	
-NFI	NFI	subst:sg:dat:n2	nazwa organizacji	pot.
+NFI	NFI	subst:sg:dat:n:ncol	nazwa organizacji	pot.
 NFI	NFI	subst:sg:gen:m3	nazwa organizacji	
-NFI	NFI	subst:sg:gen:n2	nazwa organizacji	pot.
+NFI	NFI	subst:sg:gen:n:ncol	nazwa organizacji	pot.
 NFI	NFI	subst:sg:inst:m3	nazwa organizacji	
-NFI	NFI	subst:sg:inst:n2	nazwa organizacji	pot.
+NFI	NFI	subst:sg:inst:n:ncol	nazwa organizacji	pot.
 NFI	NFI	subst:sg:loc:m3	nazwa organizacji	
-NFI	NFI	subst:sg:loc:n2	nazwa organizacji	pot.
+NFI	NFI	subst:sg:loc:n:ncol	nazwa organizacji	pot.
 NFI	NFI	subst:sg:nom:m3	nazwa organizacji	
-NFI	NFI	subst:sg:nom:n2	nazwa organizacji	pot.
+NFI	NFI	subst:sg:nom:n:ncol	nazwa organizacji	pot.
 NFI	NFI	subst:sg:voc:m3	nazwa organizacji	
-NFI	NFI	subst:sg:voc:n2	nazwa organizacji	pot.
-Ngwane	Ngwane	subst:pl:acc:n2	nazwa geograficzna	
-Ngwane	Ngwane	subst:pl:dat:n2	nazwa geograficzna	
-Ngwane	Ngwane	subst:pl:gen:n2	nazwa geograficzna	
-Ngwane	Ngwane	subst:pl:inst:n2	nazwa geograficzna	
-Ngwane	Ngwane	subst:pl:loc:n2	nazwa geograficzna	
-Ngwane	Ngwane	subst:pl:nom:n2	nazwa geograficzna	
-Ngwane	Ngwane	subst:pl:voc:n2	nazwa geograficzna	
-Ngwane	Ngwane	subst:sg:acc:n2	nazwa geograficzna	
-Ngwane	Ngwane	subst:sg:dat:n2	nazwa geograficzna	
-Ngwane	Ngwane	subst:sg:gen:n2	nazwa geograficzna	
-Ngwane	Ngwane	subst:sg:inst:n2	nazwa geograficzna	
-Ngwane	Ngwane	subst:sg:loc:n2	nazwa geograficzna	
-Ngwane	Ngwane	subst:sg:nom:n2	nazwa geograficzna	
-Ngwane	Ngwane	subst:sg:voc:n2	nazwa geograficzna	
+NFI	NFI	subst:sg:voc:n:ncol	nazwa organizacji	pot.
+Ngwane	Ngwane	subst:pl:acc:n:ncol	nazwa geograficzna	
+Ngwane	Ngwane	subst:pl:dat:n:ncol	nazwa geograficzna	
+Ngwane	Ngwane	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ngwane	Ngwane	subst:pl:inst:n:ncol	nazwa geograficzna	
+Ngwane	Ngwane	subst:pl:loc:n:ncol	nazwa geograficzna	
+Ngwane	Ngwane	subst:pl:nom:n:ncol	nazwa geograficzna	
+Ngwane	Ngwane	subst:pl:voc:n:ncol	nazwa geograficzna	
+Ngwane	Ngwane	subst:sg:acc:n:ncol	nazwa geograficzna	
+Ngwane	Ngwane	subst:sg:dat:n:ncol	nazwa geograficzna	
+Ngwane	Ngwane	subst:sg:gen:n:ncol	nazwa geograficzna	
+Ngwane	Ngwane	subst:sg:inst:n:ncol	nazwa geograficzna	
+Ngwane	Ngwane	subst:sg:loc:n:ncol	nazwa geograficzna	
+Ngwane	Ngwane	subst:sg:nom:n:ncol	nazwa geograficzna	
+Ngwane	Ngwane	subst:sg:voc:n:ncol	nazwa geograficzna	
 NHL-ach	NHL	subst:pl:loc:m3	nazwa organizacji	sport.
 NHL-ami	NHL	subst:pl:inst:m3	nazwa organizacji	sport.
 NHL-em	NHL	subst:sg:inst:m3	nazwa organizacji	sport.
@@ -2298,20 +2298,20 @@ Nidy	Nida	subst:pl:voc:f	nazwa geograficzna
 Nidy	Nida	subst:sg:gen:f	nazwa geograficzna	
 Nidzie	Nida	subst:sg:dat:f	nazwa geograficzna	
 Nidzie	Nida	subst:sg:loc:f	nazwa geograficzna	
-Niderlandach	Niderlandy	subst:pl:loc:p2	nazwa geograficzna	rzad.|hist.
-Niderlandach	Niderlandy	subst:pl:loc:p3	nazwa geograficzna	hist.
-Niderlandami	Niderlandy	subst:pl:inst:p2	nazwa geograficzna	rzad.|hist.
-Niderlandami	Niderlandy	subst:pl:inst:p3	nazwa geograficzna	hist.
-Niderlandom	Niderlandy	subst:pl:dat:p2	nazwa geograficzna	rzad.|hist.
-Niderlandom	Niderlandy	subst:pl:dat:p3	nazwa geograficzna	hist.
-Niderlandów	Niderlandy	subst:pl:gen:p2	nazwa geograficzna	rzad.|hist.
-Niderlandów	Niderlandy	subst:pl:gen:p3	nazwa geograficzna	hist.
-Niderlandy	Niderlandy	subst:pl:acc:p2	nazwa geograficzna	rzad.|hist.
-Niderlandy	Niderlandy	subst:pl:acc:p3	nazwa geograficzna	hist.
-Niderlandy	Niderlandy	subst:pl:nom:p2	nazwa geograficzna	rzad.|hist.
-Niderlandy	Niderlandy	subst:pl:nom:p3	nazwa geograficzna	hist.
-Niderlandy	Niderlandy	subst:pl:voc:p2	nazwa geograficzna	rzad.|hist.
-Niderlandy	Niderlandy	subst:pl:voc:p3	nazwa geograficzna	hist.
+Niderlandach	Niderlandy	subst:pl:loc:n:pt	nazwa geograficzna	hist.
+Niderlandach	Niderlandy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.|hist.
+Niderlandami	Niderlandy	subst:pl:inst:n:pt	nazwa geograficzna	hist.
+Niderlandami	Niderlandy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.|hist.
+Niderlandom	Niderlandy	subst:pl:dat:n:pt	nazwa geograficzna	hist.
+Niderlandom	Niderlandy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.|hist.
+Niderlandów	Niderlandy	subst:pl:gen:n:pt	nazwa geograficzna	hist.
+Niderlandów	Niderlandy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.|hist.
+Niderlandy	Niderlandy	subst:pl:acc:n:pt	nazwa geograficzna	hist.
+Niderlandy	Niderlandy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.|hist.
+Niderlandy	Niderlandy	subst:pl:nom:n:pt	nazwa geograficzna	hist.
+Niderlandy	Niderlandy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.|hist.
+Niderlandy	Niderlandy	subst:pl:voc:n:pt	nazwa geograficzna	hist.
+Niderlandy	Niderlandy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.|hist.
 Nidzicach	Nidzica	subst:pl:loc:f	nazwa geograficzna	
 Nidzicami	Nidzica	subst:pl:inst:f	nazwa geograficzna	
 Nidzica	Nidzica	subst:sg:nom:f	nazwa geograficzna	
@@ -2341,22 +2341,22 @@ Nieborowy	Nieborów	subst:pl:nom:m3	nazwa geograficzna
 Nieborowy	Nieborów	subst:pl:voc:m3	nazwa geograficzna	
 Nieborów	Nieborów	subst:sg:acc:m3	nazwa geograficzna	
 Nieborów	Nieborów	subst:sg:nom:m3	nazwa geograficzna	
-Niechanowach	Niechanowo	subst:pl:loc:n2	nazwa geograficzna	
-Niechanowami	Niechanowo	subst:pl:inst:n2	nazwa geograficzna	
-Niechanowa	Niechanowo	subst:pl:acc:n2	nazwa geograficzna	
-Niechanowa	Niechanowo	subst:pl:nom:n2	nazwa geograficzna	
-Niechanowa	Niechanowo	subst:pl:voc:n2	nazwa geograficzna	
-Niechanowa	Niechanowo	subst:sg:gen:n2	nazwa geograficzna	
-Niechanowem	Niechanowo	subst:sg:inst:n2	nazwa geograficzna	
-Niechanowie	Niechanowo	subst:sg:loc:n2	nazwa geograficzna	
-Niechanow	Niechanowo	subst:pl:gen:n2	nazwa geograficzna	
-Niechanowom	Niechanowo	subst:pl:dat:n2	nazwa geograficzna	
-Niechanowo	Niechanowo	subst:sg:acc:n2	nazwa geograficzna	
-Niechanowo	Niechanowo	subst:sg:nom:n2	nazwa geograficzna	
-Niechanowo	Niechanowo	subst:sg:voc:n2	nazwa geograficzna	
-Niechanowów	Niechanowo	subst:pl:gen:n2	nazwa geograficzna	
-Niechanowu	Niechanowo	subst:sg:dat:n2	nazwa geograficzna	
-Niechanów	Niechanowo	subst:pl:gen:n2	nazwa geograficzna	
+Niechanowach	Niechanowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Niechanowami	Niechanowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Niechanowa	Niechanowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Niechanowa	Niechanowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Niechanowa	Niechanowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Niechanowa	Niechanowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Niechanowem	Niechanowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Niechanowie	Niechanowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Niechanow	Niechanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Niechanowom	Niechanowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Niechanowo	Niechanowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Niechanowo	Niechanowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Niechanowo	Niechanowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Niechanowów	Niechanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Niechanowu	Niechanowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Niechanów	Niechanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Niechlowach	Niechlów	subst:pl:loc:m3	nazwa geograficzna	
 Niechlowami	Niechlów	subst:pl:inst:m3	nazwa geograficzna	
 Niechlowa	Niechlów	subst:sg:gen:m3	nazwa geograficzna	
@@ -2408,20 +2408,20 @@ Niedamirze	Niedamir	subst:sg:loc:m1	imię
 Niedamirze	Niedamir	subst:sg:voc:m1	imię	
 Niedamirzy	Niedamir	subst:pl:nom:m1	imię	
 Niedamirzy	Niedamir	subst:pl:voc:m1	imię	
-Niedobczycach	Niedobczyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Niedobczycach	Niedobczyce	subst:pl:loc:p3	nazwa geograficzna	
-Niedobczycami	Niedobczyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Niedobczycami	Niedobczyce	subst:pl:inst:p3	nazwa geograficzna	
-Niedobczyce	Niedobczyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Niedobczyce	Niedobczyce	subst:pl:acc:p3	nazwa geograficzna	
-Niedobczyce	Niedobczyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Niedobczyce	Niedobczyce	subst:pl:nom:p3	nazwa geograficzna	
-Niedobczyce	Niedobczyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Niedobczyce	Niedobczyce	subst:pl:voc:p3	nazwa geograficzna	
-Niedobczyc	Niedobczyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Niedobczyc	Niedobczyce	subst:pl:gen:p3	nazwa geograficzna	
-Niedobczycom	Niedobczyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Niedobczycom	Niedobczyce	subst:pl:dat:p3	nazwa geograficzna	
+Niedobczycach	Niedobczyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Niedobczycach	Niedobczyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Niedobczycami	Niedobczyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Niedobczycami	Niedobczyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Niedobczyce	Niedobczyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Niedobczyce	Niedobczyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Niedobczyce	Niedobczyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Niedobczyce	Niedobczyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Niedobczyce	Niedobczyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Niedobczyce	Niedobczyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Niedobczyc	Niedobczyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Niedobczyc	Niedobczyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Niedobczycom	Niedobczyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Niedobczycom	Niedobczyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Niedrzwicach	Niedrzwica	subst:pl:loc:f	nazwa geograficzna	
 Niedrzwicami	Niedrzwica	subst:pl:inst:f	nazwa geograficzna	
 Niedrzwica	Niedrzwica	subst:sg:nom:f	nazwa geograficzna	
@@ -2574,20 +2574,20 @@ Niegosławy	Niegosława	subst:pl:acc:f	imię
 Niegosławy	Niegosława	subst:pl:nom:f	imię	
 Niegosławy	Niegosława	subst:pl:voc:f	imię	
 Niegosławy	Niegosława	subst:sg:gen:f	imię	
-Niegosławicach	Niegosławice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Niegosławicach	Niegosławice	subst:pl:loc:p3	nazwa geograficzna	
-Niegosławicami	Niegosławice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Niegosławicami	Niegosławice	subst:pl:inst:p3	nazwa geograficzna	
-Niegosławice	Niegosławice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Niegosławice	Niegosławice	subst:pl:acc:p3	nazwa geograficzna	
-Niegosławice	Niegosławice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Niegosławice	Niegosławice	subst:pl:nom:p3	nazwa geograficzna	
-Niegosławice	Niegosławice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Niegosławice	Niegosławice	subst:pl:voc:p3	nazwa geograficzna	
-Niegosławic	Niegosławice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Niegosławic	Niegosławice	subst:pl:gen:p3	nazwa geograficzna	
-Niegosławicom	Niegosławice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Niegosławicom	Niegosławice	subst:pl:dat:p3	nazwa geograficzna	
+Niegosławicach	Niegosławice	subst:pl:loc:n:pt	nazwa geograficzna	
+Niegosławicach	Niegosławice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Niegosławicami	Niegosławice	subst:pl:inst:n:pt	nazwa geograficzna	
+Niegosławicami	Niegosławice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Niegosławice	Niegosławice	subst:pl:acc:n:pt	nazwa geograficzna	
+Niegosławice	Niegosławice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Niegosławice	Niegosławice	subst:pl:nom:n:pt	nazwa geograficzna	
+Niegosławice	Niegosławice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Niegosławice	Niegosławice	subst:pl:voc:n:pt	nazwa geograficzna	
+Niegosławice	Niegosławice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Niegosławic	Niegosławice	subst:pl:gen:n:pt	nazwa geograficzna	
+Niegosławic	Niegosławice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Niegosławicom	Niegosławice	subst:pl:dat:n:pt	nazwa geograficzna	
+Niegosławicom	Niegosławice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Niekrasowach	Niekrasow	subst:pl:loc:m1	nazwisko	
 Niekrasowami	Niekrasow	subst:pl:inst:m1	nazwisko	
 Niekrasowa	Niekrasow	subst:sg:acc:m1	nazwisko	
@@ -2622,20 +2622,20 @@ Niemcewiczów	Niemcewicz	subst:pl:acc:m1	nazwisko
 Niemcewiczów	Niemcewicz	subst:pl:gen:m1	nazwisko	
 Niemcewiczu	Niemcewicz	subst:sg:loc:m1	nazwisko	
 Niemcewiczu	Niemcewicz	subst:sg:voc:m1	nazwisko	
-Niemcami	Niemcy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Niemcami	Niemcy	subst:pl:inst:p3	nazwa geograficzna	
-Niemcom	Niemcy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Niemcom	Niemcy	subst:pl:dat:p3	nazwa geograficzna	
-Niemcy	Niemcy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Niemcy	Niemcy	subst:pl:acc:p3	nazwa geograficzna	
-Niemcy	Niemcy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Niemcy	Niemcy	subst:pl:nom:p3	nazwa geograficzna	
-Niemcy	Niemcy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Niemcy	Niemcy	subst:pl:voc:p3	nazwa geograficzna	
-Niemczech	Niemcy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Niemczech	Niemcy	subst:pl:loc:p3	nazwa geograficzna	
-Niemiec	Niemcy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Niemiec	Niemcy	subst:pl:gen:p3	nazwa geograficzna	
+Niemcami	Niemcy	subst:pl:inst:n:pt	nazwa geograficzna	
+Niemcami	Niemcy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Niemcom	Niemcy	subst:pl:dat:n:pt	nazwa geograficzna	
+Niemcom	Niemcy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Niemcy	Niemcy	subst:pl:acc:n:pt	nazwa geograficzna	
+Niemcy	Niemcy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Niemcy	Niemcy	subst:pl:nom:n:pt	nazwa geograficzna	
+Niemcy	Niemcy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Niemcy	Niemcy	subst:pl:voc:n:pt	nazwa geograficzna	
+Niemcy	Niemcy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Niemczech	Niemcy	subst:pl:loc:n:pt	nazwa geograficzna	
+Niemczech	Niemcy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Niemiec	Niemcy	subst:pl:gen:n:pt	nazwa geograficzna	
+Niemiec	Niemcy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Niemczurach	Niemczura	subst:pl:loc:m1	nazwisko	
 Niemczurami	Niemczura	subst:pl:inst:m1	nazwisko	
 Niemczura	Niemczura	subst:sg:nom:m1	nazwisko	
@@ -2669,35 +2669,35 @@ Niemczyków	Niemczyk	subst:pl:gen:m1	nazwisko
 Niemczyku	Niemczyk	subst:sg:loc:m1	nazwisko	
 Niemczyku	Niemczyk	subst:sg:voc:m1	nazwisko	
 Niemczyskach	Niemczysko	subst:pl:loc:m1	nazwa pospolita	rzad.
-Niemczyskach	Niemczysko	subst:pl:loc:n2	nazwa pospolita	
+Niemczyskach	Niemczysko	subst:pl:loc:n:ncol	nazwa pospolita	
 Niemczyskami	Niemczysko	subst:pl:inst:m1	nazwa pospolita	rzad.
-Niemczyskami	Niemczysko	subst:pl:inst:n2	nazwa pospolita	
+Niemczyskami	Niemczysko	subst:pl:inst:n:ncol	nazwa pospolita	
 Niemczyska	Niemczysko	depr:pl:nom:m2	nazwa pospolita	rzad.
 Niemczyska	Niemczysko	depr:pl:voc:m2	nazwa pospolita	rzad.
-Niemczyska	Niemczysko	subst:pl:acc:n2	nazwa pospolita	
+Niemczyska	Niemczysko	subst:pl:acc:n:ncol	nazwa pospolita	
 Niemczyska	Niemczysko	subst:pl:nom:m1	nazwa pospolita	rzad.
-Niemczyska	Niemczysko	subst:pl:nom:n2	nazwa pospolita	
+Niemczyska	Niemczysko	subst:pl:nom:n:ncol	nazwa pospolita	
 Niemczyska	Niemczysko	subst:pl:voc:m1	nazwa pospolita	rzad.
-Niemczyska	Niemczysko	subst:pl:voc:n2	nazwa pospolita	
+Niemczyska	Niemczysko	subst:pl:voc:n:ncol	nazwa pospolita	
 Niemczyska	Niemczysko	subst:sg:acc:m1	nazwa pospolita	rzad.
 Niemczyska	Niemczysko	subst:sg:gen:m1	nazwa pospolita	rzad.
-Niemczyska	Niemczysko	subst:sg:gen:n2	nazwa pospolita	
+Niemczyska	Niemczysko	subst:sg:gen:n:ncol	nazwa pospolita	
 Niemczyskiem	Niemczysko	subst:sg:inst:m1	nazwa pospolita	rzad.
-Niemczyskiem	Niemczysko	subst:sg:inst:n2	nazwa pospolita	
-Niemczysk	Niemczysko	subst:pl:gen:n2	nazwa pospolita	
+Niemczyskiem	Niemczysko	subst:sg:inst:n:ncol	nazwa pospolita	
+Niemczysk	Niemczysko	subst:pl:gen:n:ncol	nazwa pospolita	
 Niemczyskom	Niemczysko	subst:pl:dat:m1	nazwa pospolita	rzad.
-Niemczyskom	Niemczysko	subst:pl:dat:n2	nazwa pospolita	
-Niemczysko	Niemczysko	subst:sg:acc:n2	nazwa pospolita	
+Niemczyskom	Niemczysko	subst:pl:dat:n:ncol	nazwa pospolita	
+Niemczysko	Niemczysko	subst:sg:acc:n:ncol	nazwa pospolita	
 Niemczysko	Niemczysko	subst:sg:nom:m1	nazwa pospolita	rzad.
-Niemczysko	Niemczysko	subst:sg:nom:n2	nazwa pospolita	
+Niemczysko	Niemczysko	subst:sg:nom:n:ncol	nazwa pospolita	
 Niemczysko	Niemczysko	subst:sg:voc:m1	nazwa pospolita	rzad.
-Niemczysko	Niemczysko	subst:sg:voc:n2	nazwa pospolita	
+Niemczysko	Niemczysko	subst:sg:voc:n:ncol	nazwa pospolita	
 Niemczysków	Niemczysko	subst:pl:acc:m1	nazwa pospolita	rzad.
 Niemczysków	Niemczysko	subst:pl:gen:m1	nazwa pospolita	rzad.
 Niemczysku	Niemczysko	subst:sg:dat:m1	nazwa pospolita	rzad.
-Niemczysku	Niemczysko	subst:sg:dat:n2	nazwa pospolita	
+Niemczysku	Niemczysko	subst:sg:dat:n:ncol	nazwa pospolita	
 Niemczysku	Niemczysko	subst:sg:loc:m1	nazwa pospolita	rzad.
-Niemczysku	Niemczysko	subst:sg:loc:n2	nazwa pospolita	
+Niemczysku	Niemczysko	subst:sg:loc:n:ncol	nazwa pospolita	
 Niemeczce	Niemeczka	subst:sg:dat:f	nazwa pospolita	
 Niemeczce	Niemeczka	subst:sg:loc:f	nazwa pospolita	
 Niemeczek	Niemeczka	subst:pl:gen:f	nazwa pospolita	
@@ -2897,20 +2897,20 @@ Nieńcu	Nieniec	subst:sg:loc:m1	nazwa pospolita
 Nieńcu	Nieniec	subst:sg:voc:m1	nazwa pospolita	
 Nieńcy	Nieniec	subst:pl:nom:m1	nazwa pospolita	
 Nieńcy	Nieniec	subst:pl:voc:m1	nazwa pospolita	
-Niepołomicach	Niepołomice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Niepołomicach	Niepołomice	subst:pl:loc:p3	nazwa geograficzna	
-Niepołomicami	Niepołomice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Niepołomicami	Niepołomice	subst:pl:inst:p3	nazwa geograficzna	
-Niepołomice	Niepołomice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Niepołomice	Niepołomice	subst:pl:acc:p3	nazwa geograficzna	
-Niepołomice	Niepołomice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Niepołomice	Niepołomice	subst:pl:nom:p3	nazwa geograficzna	
-Niepołomice	Niepołomice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Niepołomice	Niepołomice	subst:pl:voc:p3	nazwa geograficzna	
-Niepołomic	Niepołomice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Niepołomic	Niepołomice	subst:pl:gen:p3	nazwa geograficzna	
-Niepołomicom	Niepołomice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Niepołomicom	Niepołomice	subst:pl:dat:p3	nazwa geograficzna	
+Niepołomicach	Niepołomice	subst:pl:loc:n:pt	nazwa geograficzna	
+Niepołomicach	Niepołomice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Niepołomicami	Niepołomice	subst:pl:inst:n:pt	nazwa geograficzna	
+Niepołomicami	Niepołomice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Niepołomice	Niepołomice	subst:pl:acc:n:pt	nazwa geograficzna	
+Niepołomice	Niepołomice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Niepołomice	Niepołomice	subst:pl:nom:n:pt	nazwa geograficzna	
+Niepołomice	Niepołomice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Niepołomice	Niepołomice	subst:pl:voc:n:pt	nazwa geograficzna	
+Niepołomice	Niepołomice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Niepołomic	Niepołomice	subst:pl:gen:n:pt	nazwa geograficzna	
+Niepołomic	Niepołomice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Niepołomicom	Niepołomice	subst:pl:dat:n:pt	nazwa geograficzna	
+Niepołomicom	Niepołomice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Niesiołowska	Niesiołowska	subst:sg:nom:f	nazwisko	
 Niesiołowska	Niesiołowska	subst:sg:voc:f	nazwisko	
 Niesiołowską	Niesiołowska	subst:sg:acc:f	nazwisko	
@@ -3614,20 +3614,20 @@ Niro	Niro	subst:sg:inst:m1	nazwisko
 Niro	Niro	subst:sg:loc:m1	nazwisko	
 Niro	Niro	subst:sg:nom:m1	nazwisko	
 Niro	Niro	subst:sg:voc:m1	nazwisko	
-Niskach	Nisko	subst:pl:loc:n2	nazwa geograficzna	
-Niskami	Nisko	subst:pl:inst:n2	nazwa geograficzna	
-Niska	Nisko	subst:pl:acc:n2	nazwa geograficzna	
-Niska	Nisko	subst:pl:nom:n2	nazwa geograficzna	
-Niska	Nisko	subst:pl:voc:n2	nazwa geograficzna	
-Niska	Nisko	subst:sg:gen:n2	nazwa geograficzna	
-Niskiem	Nisko	subst:sg:inst:n2	nazwa geograficzna	
-Nisk	Nisko	subst:pl:gen:n2	nazwa geograficzna	
-Niskom	Nisko	subst:pl:dat:n2	nazwa geograficzna	
-Nisko	Nisko	subst:sg:acc:n2	nazwa geograficzna	
-Nisko	Nisko	subst:sg:nom:n2	nazwa geograficzna	
-Nisko	Nisko	subst:sg:voc:n2	nazwa geograficzna	
-Nisku	Nisko	subst:sg:dat:n2	nazwa geograficzna	
-Nisku	Nisko	subst:sg:loc:n2	nazwa geograficzna	
+Niskach	Nisko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Niskami	Nisko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Niska	Nisko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Niska	Nisko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Niska	Nisko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Niska	Nisko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Niskiem	Nisko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Nisk	Nisko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Niskom	Nisko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Nisko	Nisko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Nisko	Nisko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Nisko	Nisko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Nisku	Nisko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Nisku	Nisko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Nitschach	Nitsch	subst:pl:loc:m1	nazwisko	
 Nitschami	Nitsch	subst:pl:inst:m1	nazwisko	
 Nitscha	Nitsch	subst:sg:acc:m1	nazwisko	
@@ -3644,20 +3644,20 @@ Nitschów	Nitsch	subst:pl:acc:m1	nazwisko
 Nitschów	Nitsch	subst:pl:gen:m1	nazwisko	
 Nitschu	Nitsch	subst:sg:loc:m1	nazwisko	
 Nitschu	Nitsch	subst:sg:voc:m1	nazwisko	
-Niwiskach	Niwiska	subst:pl:loc:p2	nazwa geograficzna	
-Niwiskach	Niwiska	subst:pl:loc:p3	nazwa geograficzna	
-Niwiskami	Niwiska	subst:pl:inst:p2	nazwa geograficzna	
-Niwiskami	Niwiska	subst:pl:inst:p3	nazwa geograficzna	
-Niwiska	Niwiska	subst:pl:acc:p2	nazwa geograficzna	
-Niwiska	Niwiska	subst:pl:acc:p3	nazwa geograficzna	
-Niwiska	Niwiska	subst:pl:nom:p2	nazwa geograficzna	
-Niwiska	Niwiska	subst:pl:nom:p3	nazwa geograficzna	
-Niwiska	Niwiska	subst:pl:voc:p2	nazwa geograficzna	
-Niwiska	Niwiska	subst:pl:voc:p3	nazwa geograficzna	
-Niwisk	Niwiska	subst:pl:gen:p2	nazwa geograficzna	
-Niwisk	Niwiska	subst:pl:gen:p3	nazwa geograficzna	
-Niwiskom	Niwiska	subst:pl:dat:p2	nazwa geograficzna	
-Niwiskom	Niwiska	subst:pl:dat:p3	nazwa geograficzna	
+Niwiskach	Niwiska	subst:pl:loc:n:pt	nazwa geograficzna	
+Niwiskach	Niwiska	subst:pl:loc:n:pt	nazwa geograficzna	
+Niwiskami	Niwiska	subst:pl:inst:n:pt	nazwa geograficzna	
+Niwiskami	Niwiska	subst:pl:inst:n:pt	nazwa geograficzna	
+Niwiska	Niwiska	subst:pl:acc:n:pt	nazwa geograficzna	
+Niwiska	Niwiska	subst:pl:acc:n:pt	nazwa geograficzna	
+Niwiska	Niwiska	subst:pl:nom:n:pt	nazwa geograficzna	
+Niwiska	Niwiska	subst:pl:nom:n:pt	nazwa geograficzna	
+Niwiska	Niwiska	subst:pl:voc:n:pt	nazwa geograficzna	
+Niwiska	Niwiska	subst:pl:voc:n:pt	nazwa geograficzna	
+Niwisk	Niwiska	subst:pl:gen:n:pt	nazwa geograficzna	
+Niwisk	Niwiska	subst:pl:gen:n:pt	nazwa geograficzna	
+Niwiskom	Niwiska	subst:pl:dat:n:pt	nazwa geograficzna	
+Niwiskom	Niwiska	subst:pl:dat:n:pt	nazwa geograficzna	
 Nixonach	Nixon	subst:pl:loc:m1	nazwisko	
 Nixonami	Nixon	subst:pl:inst:m1	nazwisko	
 Nixona	Nixon	subst:sg:acc:m1	nazwisko	
@@ -3753,20 +3753,20 @@ NKOl-owi	NKOl	subst:sg:dat:m3	nazwa organizacji
 NKOl-u	NKOl	subst:sg:gen:m3	nazwa organizacji	
 NKOl-u	NKOl	subst:sg:loc:m3	nazwa organizacji	
 NKOl-u	NKOl	subst:sg:voc:m3	nazwa organizacji	
-NKWD	NKWD	subst:pl:acc:n2	nazwa organizacji	
-NKWD	NKWD	subst:pl:dat:n2	nazwa organizacji	
-NKWD	NKWD	subst:pl:gen:n2	nazwa organizacji	
-NKWD	NKWD	subst:pl:inst:n2	nazwa organizacji	
-NKWD	NKWD	subst:pl:loc:n2	nazwa organizacji	
-NKWD	NKWD	subst:pl:nom:n2	nazwa organizacji	
-NKWD	NKWD	subst:pl:voc:n2	nazwa organizacji	
-NKWD	NKWD	subst:sg:acc:n2	nazwa organizacji	
-NKWD	NKWD	subst:sg:dat:n2	nazwa organizacji	
-NKWD	NKWD	subst:sg:gen:n2	nazwa organizacji	
-NKWD	NKWD	subst:sg:inst:n2	nazwa organizacji	
-NKWD	NKWD	subst:sg:loc:n2	nazwa organizacji	
-NKWD	NKWD	subst:sg:nom:n2	nazwa organizacji	
-NKWD	NKWD	subst:sg:voc:n2	nazwa organizacji	
+NKWD	NKWD	subst:pl:acc:n:ncol	nazwa organizacji	
+NKWD	NKWD	subst:pl:dat:n:ncol	nazwa organizacji	
+NKWD	NKWD	subst:pl:gen:n:ncol	nazwa organizacji	
+NKWD	NKWD	subst:pl:inst:n:ncol	nazwa organizacji	
+NKWD	NKWD	subst:pl:loc:n:ncol	nazwa organizacji	
+NKWD	NKWD	subst:pl:nom:n:ncol	nazwa organizacji	
+NKWD	NKWD	subst:pl:voc:n:ncol	nazwa organizacji	
+NKWD	NKWD	subst:sg:acc:n:ncol	nazwa organizacji	
+NKWD	NKWD	subst:sg:dat:n:ncol	nazwa organizacji	
+NKWD	NKWD	subst:sg:gen:n:ncol	nazwa organizacji	
+NKWD	NKWD	subst:sg:inst:n:ncol	nazwa organizacji	
+NKWD	NKWD	subst:sg:loc:n:ncol	nazwa organizacji	
+NKWD	NKWD	subst:sg:nom:n:ncol	nazwa organizacji	
+NKWD	NKWD	subst:sg:voc:n:ncol	nazwa organizacji	
 NMT	NMT	subst:pl:acc:m3	nazwa pospolita	
 NMT	NMT	subst:pl:dat:m3	nazwa pospolita	
 NMT	NMT	subst:pl:gen:m3	nazwa pospolita	
@@ -3827,20 +3827,20 @@ Noblów	Nobel	subst:pl:acc:m1	nazwisko
 Noblów	Nobel	subst:pl:gen:m1	nazwisko	
 Noblu	Nobel	subst:sg:loc:m1	nazwisko	
 Noblu	Nobel	subst:sg:voc:m1	nazwisko	
-Nobiliach	Nobilium	subst:pl:loc:n2	człon nazwy instytucji	
-Nobiliami	Nobilium	subst:pl:inst:n2	człon nazwy instytucji	
-Nobilia	Nobilium	subst:pl:acc:n2	człon nazwy instytucji	
-Nobilia	Nobilium	subst:pl:nom:n2	człon nazwy instytucji	
-Nobilia	Nobilium	subst:pl:voc:n2	człon nazwy instytucji	
-Nobiliom	Nobilium	subst:pl:dat:n2	człon nazwy instytucji	
-Nobiliów	Nobilium	subst:pl:gen:n2	człon nazwy instytucji	
-Nobilium	Nobilium	subst:sg:acc:n2	człon nazwy instytucji	
-Nobilium	Nobilium	subst:sg:dat:n2	człon nazwy instytucji	
-Nobilium	Nobilium	subst:sg:gen:n2	człon nazwy instytucji	
-Nobilium	Nobilium	subst:sg:inst:n2	człon nazwy instytucji	
-Nobilium	Nobilium	subst:sg:loc:n2	człon nazwy instytucji	
-Nobilium	Nobilium	subst:sg:nom:n2	człon nazwy instytucji	
-Nobilium	Nobilium	subst:sg:voc:n2	człon nazwy instytucji	
+Nobiliach	Nobilium	subst:pl:loc:n:ncol	człon nazwy instytucji	
+Nobiliami	Nobilium	subst:pl:inst:n:ncol	człon nazwy instytucji	
+Nobilia	Nobilium	subst:pl:acc:n:ncol	człon nazwy instytucji	
+Nobilia	Nobilium	subst:pl:nom:n:ncol	człon nazwy instytucji	
+Nobilia	Nobilium	subst:pl:voc:n:ncol	człon nazwy instytucji	
+Nobiliom	Nobilium	subst:pl:dat:n:ncol	człon nazwy instytucji	
+Nobiliów	Nobilium	subst:pl:gen:n:ncol	człon nazwy instytucji	
+Nobilium	Nobilium	subst:sg:acc:n:ncol	człon nazwy instytucji	
+Nobilium	Nobilium	subst:sg:dat:n:ncol	człon nazwy instytucji	
+Nobilium	Nobilium	subst:sg:gen:n:ncol	człon nazwy instytucji	
+Nobilium	Nobilium	subst:sg:inst:n:ncol	człon nazwy instytucji	
+Nobilium	Nobilium	subst:sg:loc:n:ncol	człon nazwy instytucji	
+Nobilium	Nobilium	subst:sg:nom:n:ncol	człon nazwy instytucji	
+Nobilium	Nobilium	subst:sg:voc:n:ncol	człon nazwy instytucji	
 Noach	Noe	subst:pl:loc:m1	imię	bibl.
 Noami	Noe	subst:pl:inst:m1	imię	bibl.
 Noego	Noe	subst:sg:acc:m1	imię	bibl.
@@ -4391,20 +4391,20 @@ Nowakowskim	Nowakowski	subst:sg:inst:m1	nazwisko
 Nowakowskim	Nowakowski	subst:sg:loc:m1	nazwisko	
 Nowakowski	Nowakowski	subst:sg:nom:m1	nazwisko	
 Nowakowski	Nowakowski	subst:sg:voc:m1	nazwisko	
-Nowego	Nowe	subst:sg:gen:n2	nazwa geograficzna	
-Nowem	Nowe	subst:sg:inst:n2	nazwa geograficzna	
-Nowem	Nowe	subst:sg:loc:n2	nazwa geograficzna	
-Nowemu	Nowe	subst:sg:dat:n2	nazwa geograficzna	
-Nowe	Nowe	subst:pl:acc:n2	nazwa geograficzna	
-Nowe	Nowe	subst:pl:nom:n2	nazwa geograficzna	
-Nowe	Nowe	subst:pl:voc:n2	nazwa geograficzna	
-Nowe	Nowe	subst:sg:acc:n2	nazwa geograficzna	
-Nowe	Nowe	subst:sg:nom:n2	nazwa geograficzna	
-Nowe	Nowe	subst:sg:voc:n2	nazwa geograficzna	
-Nowych	Nowe	subst:pl:gen:n2	nazwa geograficzna	
-Nowych	Nowe	subst:pl:loc:n2	nazwa geograficzna	
-Nowymi	Nowe	subst:pl:inst:n2	nazwa geograficzna	
-Nowym	Nowe	subst:pl:dat:n2	nazwa geograficzna	
+Nowego	Nowe	subst:sg:gen:n:ncol	nazwa geograficzna	
+Nowem	Nowe	subst:sg:inst:n:ncol	nazwa geograficzna	
+Nowem	Nowe	subst:sg:loc:n:ncol	nazwa geograficzna	
+Nowemu	Nowe	subst:sg:dat:n:ncol	nazwa geograficzna	
+Nowe	Nowe	subst:pl:acc:n:ncol	nazwa geograficzna	
+Nowe	Nowe	subst:pl:nom:n:ncol	nazwa geograficzna	
+Nowe	Nowe	subst:pl:voc:n:ncol	nazwa geograficzna	
+Nowe	Nowe	subst:sg:acc:n:ncol	nazwa geograficzna	
+Nowe	Nowe	subst:sg:nom:n:ncol	nazwa geograficzna	
+Nowe	Nowe	subst:sg:voc:n:ncol	nazwa geograficzna	
+Nowych	Nowe	subst:pl:gen:n:ncol	nazwa geograficzna	
+Nowych	Nowe	subst:pl:loc:n:ncol	nazwa geograficzna	
+Nowymi	Nowe	subst:pl:inst:n:ncol	nazwa geograficzna	
+Nowym	Nowe	subst:pl:dat:n:ncol	nazwa geograficzna	
 Nowicka	Nowicka	subst:sg:nom:f	nazwisko	
 Nowicka	Nowicka	subst:sg:voc:f	nazwisko	
 Nowicką	Nowicka	subst:sg:acc:f	nazwisko	
@@ -4569,34 +4569,34 @@ Nowogródkowi	Nowogródek	subst:sg:dat:m3	nazwa geograficzna
 Nowogródków	Nowogródek	subst:pl:gen:m3	nazwa geograficzna	
 Nowogródku	Nowogródek	subst:sg:loc:m3	nazwa geograficzna	
 Nowogródku	Nowogródek	subst:sg:voc:m3	nazwa geograficzna	
-Nowogródzkich	Nowogródzkie	subst:pl:gen:n2	nazwa geograficzna	
-Nowogródzkich	Nowogródzkie	subst:pl:loc:n2	nazwa geograficzna	
-Nowogródzkiego	Nowogródzkie	subst:sg:gen:n2	nazwa geograficzna	
-Nowogródzkiem	Nowogródzkie	subst:sg:inst:n2	nazwa geograficzna	
-Nowogródzkiem	Nowogródzkie	subst:sg:loc:n2	nazwa geograficzna	
-Nowogródzkiemu	Nowogródzkie	subst:sg:dat:n2	nazwa geograficzna	
-Nowogródzkie	Nowogródzkie	subst:pl:acc:n2	nazwa geograficzna	
-Nowogródzkie	Nowogródzkie	subst:pl:nom:n2	nazwa geograficzna	
-Nowogródzkie	Nowogródzkie	subst:pl:voc:n2	nazwa geograficzna	
-Nowogródzkie	Nowogródzkie	subst:sg:acc:n2	nazwa geograficzna	
-Nowogródzkie	Nowogródzkie	subst:sg:nom:n2	nazwa geograficzna	
-Nowogródzkie	Nowogródzkie	subst:sg:voc:n2	nazwa geograficzna	
-Nowogródzkimi	Nowogródzkie	subst:pl:inst:n2	nazwa geograficzna	
-Nowogródzkim	Nowogródzkie	subst:pl:dat:n2	nazwa geograficzna	
-Nowosądeckich	Nowosądeckie	subst:pl:gen:n2	nazwa geograficzna	
-Nowosądeckich	Nowosądeckie	subst:pl:loc:n2	nazwa geograficzna	
-Nowosądeckiego	Nowosądeckie	subst:sg:gen:n2	nazwa geograficzna	
-Nowosądeckiem	Nowosądeckie	subst:sg:inst:n2	nazwa geograficzna	
-Nowosądeckiem	Nowosądeckie	subst:sg:loc:n2	nazwa geograficzna	
-Nowosądeckiemu	Nowosądeckie	subst:sg:dat:n2	nazwa geograficzna	
-Nowosądeckie	Nowosądeckie	subst:pl:acc:n2	nazwa geograficzna	
-Nowosądeckie	Nowosądeckie	subst:pl:nom:n2	nazwa geograficzna	
-Nowosądeckie	Nowosądeckie	subst:pl:voc:n2	nazwa geograficzna	
-Nowosądeckie	Nowosądeckie	subst:sg:acc:n2	nazwa geograficzna	
-Nowosądeckie	Nowosądeckie	subst:sg:nom:n2	nazwa geograficzna	
-Nowosądeckie	Nowosądeckie	subst:sg:voc:n2	nazwa geograficzna	
-Nowosądeckimi	Nowosądeckie	subst:pl:inst:n2	nazwa geograficzna	
-Nowosądeckim	Nowosądeckie	subst:pl:dat:n2	nazwa geograficzna	
+Nowogródzkich	Nowogródzkie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Nowogródzkich	Nowogródzkie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Nowogródzkiego	Nowogródzkie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Nowogródzkiem	Nowogródzkie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Nowogródzkiem	Nowogródzkie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Nowogródzkiemu	Nowogródzkie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Nowogródzkie	Nowogródzkie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Nowogródzkie	Nowogródzkie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Nowogródzkie	Nowogródzkie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Nowogródzkie	Nowogródzkie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Nowogródzkie	Nowogródzkie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Nowogródzkie	Nowogródzkie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Nowogródzkimi	Nowogródzkie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Nowogródzkim	Nowogródzkie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Nowosądeckich	Nowosądeckie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Nowosądeckich	Nowosądeckie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Nowosądeckiego	Nowosądeckie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Nowosądeckiem	Nowosądeckie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Nowosądeckiem	Nowosądeckie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Nowosądeckiemu	Nowosądeckie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Nowosądeckie	Nowosądeckie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Nowosądeckie	Nowosądeckie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Nowosądeckie	Nowosądeckie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Nowosądeckie	Nowosądeckie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Nowosądeckie	Nowosądeckie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Nowosądeckie	Nowosądeckie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Nowosądeckimi	Nowosądeckie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Nowosądeckim	Nowosądeckie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Nowosielska	Nowosielska	subst:sg:nom:f	nazwisko	
 Nowosielska	Nowosielska	subst:sg:voc:f	nazwisko	
 Nowosielską	Nowosielska	subst:sg:acc:f	nazwisko	
@@ -4751,33 +4751,33 @@ Nowozelandkom	Nowozelandka	subst:pl:dat:f	nazwa pospolita
 Nowozelandko	Nowozelandka	subst:sg:voc:f	nazwa pospolita	
 NT	Nowy_Testament	brev:npun		
 NPD	NPD	subst:pl:acc:f	nazwa organizacji	
-NPD	NPD	subst:pl:acc:n2	nazwa organizacji	
+NPD	NPD	subst:pl:acc:n:ncol	nazwa organizacji	
 NPD	NPD	subst:pl:dat:f	nazwa organizacji	
-NPD	NPD	subst:pl:dat:n2	nazwa organizacji	
+NPD	NPD	subst:pl:dat:n:ncol	nazwa organizacji	
 NPD	NPD	subst:pl:gen:f	nazwa organizacji	
-NPD	NPD	subst:pl:gen:n2	nazwa organizacji	
+NPD	NPD	subst:pl:gen:n:ncol	nazwa organizacji	
 NPD	NPD	subst:pl:inst:f	nazwa organizacji	
-NPD	NPD	subst:pl:inst:n2	nazwa organizacji	
+NPD	NPD	subst:pl:inst:n:ncol	nazwa organizacji	
 NPD	NPD	subst:pl:loc:f	nazwa organizacji	
-NPD	NPD	subst:pl:loc:n2	nazwa organizacji	
+NPD	NPD	subst:pl:loc:n:ncol	nazwa organizacji	
 NPD	NPD	subst:pl:nom:f	nazwa organizacji	
-NPD	NPD	subst:pl:nom:n2	nazwa organizacji	
+NPD	NPD	subst:pl:nom:n:ncol	nazwa organizacji	
 NPD	NPD	subst:pl:voc:f	nazwa organizacji	
-NPD	NPD	subst:pl:voc:n2	nazwa organizacji	
+NPD	NPD	subst:pl:voc:n:ncol	nazwa organizacji	
 NPD	NPD	subst:sg:acc:f	nazwa organizacji	
-NPD	NPD	subst:sg:acc:n2	nazwa organizacji	
+NPD	NPD	subst:sg:acc:n:ncol	nazwa organizacji	
 NPD	NPD	subst:sg:dat:f	nazwa organizacji	
-NPD	NPD	subst:sg:dat:n2	nazwa organizacji	
+NPD	NPD	subst:sg:dat:n:ncol	nazwa organizacji	
 NPD	NPD	subst:sg:gen:f	nazwa organizacji	
-NPD	NPD	subst:sg:gen:n2	nazwa organizacji	
+NPD	NPD	subst:sg:gen:n:ncol	nazwa organizacji	
 NPD	NPD	subst:sg:inst:f	nazwa organizacji	
-NPD	NPD	subst:sg:inst:n2	nazwa organizacji	
+NPD	NPD	subst:sg:inst:n:ncol	nazwa organizacji	
 NPD	NPD	subst:sg:loc:f	nazwa organizacji	
-NPD	NPD	subst:sg:loc:n2	nazwa organizacji	
+NPD	NPD	subst:sg:loc:n:ncol	nazwa organizacji	
 NPD	NPD	subst:sg:nom:f	nazwa organizacji	
-NPD	NPD	subst:sg:nom:n2	nazwa organizacji	
+NPD	NPD	subst:sg:nom:n:ncol	nazwa organizacji	
 NPD	NPD	subst:sg:voc:f	nazwa organizacji	
-NPD	NPD	subst:sg:voc:n2	nazwa organizacji	
+NPD	NPD	subst:sg:voc:n:ncol	nazwa organizacji	
 NRA	NRA	subst:pl:acc:f	nazwa organizacji	
 NRA	NRA	subst:pl:dat:f	nazwa organizacji	
 NRA	NRA	subst:pl:gen:f	nazwa organizacji	
@@ -4793,54 +4793,54 @@ NRA	NRA	subst:sg:loc:f	nazwa organizacji
 NRA	NRA	subst:sg:nom:f	nazwa organizacji	
 NRA	NRA	subst:sg:voc:f	nazwa organizacji	
 NRD	NRD	subst:pl:acc:f	nazwa geograficzna	
-NRD	NRD	subst:pl:acc:n2	nazwa geograficzna	
+NRD	NRD	subst:pl:acc:n:ncol	nazwa geograficzna	
 NRD	NRD	subst:pl:dat:f	nazwa geograficzna	
-NRD	NRD	subst:pl:dat:n2	nazwa geograficzna	
+NRD	NRD	subst:pl:dat:n:ncol	nazwa geograficzna	
 NRD	NRD	subst:pl:gen:f	nazwa geograficzna	
-NRD	NRD	subst:pl:gen:n2	nazwa geograficzna	
+NRD	NRD	subst:pl:gen:n:ncol	nazwa geograficzna	
 NRD	NRD	subst:pl:inst:f	nazwa geograficzna	
-NRD	NRD	subst:pl:inst:n2	nazwa geograficzna	
+NRD	NRD	subst:pl:inst:n:ncol	nazwa geograficzna	
 NRD	NRD	subst:pl:loc:f	nazwa geograficzna	
-NRD	NRD	subst:pl:loc:n2	nazwa geograficzna	
+NRD	NRD	subst:pl:loc:n:ncol	nazwa geograficzna	
 NRD	NRD	subst:pl:nom:f	nazwa geograficzna	
-NRD	NRD	subst:pl:nom:n2	nazwa geograficzna	
+NRD	NRD	subst:pl:nom:n:ncol	nazwa geograficzna	
 NRD	NRD	subst:pl:voc:f	nazwa geograficzna	
-NRD	NRD	subst:pl:voc:n2	nazwa geograficzna	
+NRD	NRD	subst:pl:voc:n:ncol	nazwa geograficzna	
 NRD	NRD	subst:sg:acc:f	nazwa geograficzna	
-NRD	NRD	subst:sg:acc:n2	nazwa geograficzna	
+NRD	NRD	subst:sg:acc:n:ncol	nazwa geograficzna	
 NRD	NRD	subst:sg:dat:f	nazwa geograficzna	
-NRD	NRD	subst:sg:dat:n2	nazwa geograficzna	
+NRD	NRD	subst:sg:dat:n:ncol	nazwa geograficzna	
 NRD	NRD	subst:sg:gen:f	nazwa geograficzna	
-NRD	NRD	subst:sg:gen:n2	nazwa geograficzna	
+NRD	NRD	subst:sg:gen:n:ncol	nazwa geograficzna	
 NRD	NRD	subst:sg:inst:f	nazwa geograficzna	
-NRD	NRD	subst:sg:inst:n2	nazwa geograficzna	
+NRD	NRD	subst:sg:inst:n:ncol	nazwa geograficzna	
 NRD	NRD	subst:sg:loc:f	nazwa geograficzna	
-NRD	NRD	subst:sg:loc:n2	nazwa geograficzna	
+NRD	NRD	subst:sg:loc:n:ncol	nazwa geograficzna	
 NRD	NRD	subst:sg:nom:f	nazwa geograficzna	
-NRD	NRD	subst:sg:nom:n2	nazwa geograficzna	
+NRD	NRD	subst:sg:nom:n:ncol	nazwa geograficzna	
 NRD	NRD	subst:sg:voc:f	nazwa geograficzna	
-NRD	NRD	subst:sg:voc:n2	nazwa geograficzna	
-NRD-owscy	NRD-owski	adj:pl:nom.voc:m1.p1:pos		
+NRD	NRD	subst:sg:voc:n:ncol	nazwa geograficzna	
+NRD-owscy	NRD-owski	adj:pl:nom.voc:m1:pos		
 NRD-owska	NRD-owski	adj:sg:nom.voc:f:pos		
 NRD-owską	NRD-owski	adj:sg:acc:f:pos		
 NRD-owską	NRD-owski	adj:sg:inst:f:pos		
-NRD-owskich	NRD-owski	adj:pl:acc:m1.p1:pos		
-NRD-owskich	NRD-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-NRD-owskich	NRD-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+NRD-owskich	NRD-owski	adj:pl:acc:m1:pos		
+NRD-owskich	NRD-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+NRD-owskich	NRD-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
 NRD-owskiego	NRD-owski	adj:sg:acc:m1.m2:pos		
-NRD-owskiego	NRD-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+NRD-owskiego	NRD-owski	adj:sg:gen:m1.m2.m3.n:pos		
 NRD-owskiej	NRD-owski	adj:sg:dat:f:pos		
 NRD-owskiej	NRD-owski	adj:sg:gen:f:pos		
 NRD-owskiej	NRD-owski	adj:sg:loc:f:pos		
-NRD-owskiemu	NRD-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-NRD-owskie	NRD-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-NRD-owskie	NRD-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-NRD-owskie	NRD-owski	adj:sg:acc:n1.n2:pos		
-NRD-owskie	NRD-owski	adj:sg:nom.voc:n1.n2:pos		
-NRD-owskimi	NRD-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-NRD-owskim	NRD-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-NRD-owskim	NRD-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-NRD-owskim	NRD-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+NRD-owskiemu	NRD-owski	adj:sg:dat:m1.m2.m3.n:pos		
+NRD-owskie	NRD-owski	adj:pl:acc:m2.m3.f.n:pos		
+NRD-owskie	NRD-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+NRD-owskie	NRD-owski	adj:sg:acc:n:pos		
+NRD-owskie	NRD-owski	adj:sg:nom.voc:n:pos		
+NRD-owskimi	NRD-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
+NRD-owskim	NRD-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+NRD-owskim	NRD-owski	adj:sg:inst:m1.m2.m3.n:pos		
+NRD-owskim	NRD-owski	adj:sg:loc:m1.m2.m3.n:pos		
 NRD-owski	NRD-owski	adj:sg:acc:m3:pos		
 NRD-owski	NRD-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 NRD-owsko	NRD-owski	adja		
@@ -4888,27 +4888,27 @@ NRF-u	NRF	subst:sg:gen:m3	nazwa geograficzna
 NRF-y	NRF	subst:pl:acc:m3	nazwa geograficzna	
 NRF-y	NRF	subst:pl:nom:m3	nazwa geograficzna	
 NRF-y	NRF	subst:pl:voc:m3	nazwa geograficzna	
-NRF-owscy	NRF-owski	adj:pl:nom.voc:m1.p1:pos		
+NRF-owscy	NRF-owski	adj:pl:nom.voc:m1:pos		
 NRF-owska	NRF-owski	adj:sg:nom.voc:f:pos		
 NRF-owską	NRF-owski	adj:sg:acc:f:pos		
 NRF-owską	NRF-owski	adj:sg:inst:f:pos		
-NRF-owskich	NRF-owski	adj:pl:acc:m1.p1:pos		
-NRF-owskich	NRF-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-NRF-owskich	NRF-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+NRF-owskich	NRF-owski	adj:pl:acc:m1:pos		
+NRF-owskich	NRF-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+NRF-owskich	NRF-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
 NRF-owskiego	NRF-owski	adj:sg:acc:m1.m2:pos		
-NRF-owskiego	NRF-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+NRF-owskiego	NRF-owski	adj:sg:gen:m1.m2.m3.n:pos		
 NRF-owskiej	NRF-owski	adj:sg:dat:f:pos		
 NRF-owskiej	NRF-owski	adj:sg:gen:f:pos		
 NRF-owskiej	NRF-owski	adj:sg:loc:f:pos		
-NRF-owskiemu	NRF-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-NRF-owskie	NRF-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-NRF-owskie	NRF-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-NRF-owskie	NRF-owski	adj:sg:acc:n1.n2:pos		
-NRF-owskie	NRF-owski	adj:sg:nom.voc:n1.n2:pos		
-NRF-owskimi	NRF-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-NRF-owskim	NRF-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-NRF-owskim	NRF-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-NRF-owskim	NRF-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+NRF-owskiemu	NRF-owski	adj:sg:dat:m1.m2.m3.n:pos		
+NRF-owskie	NRF-owski	adj:pl:acc:m2.m3.f.n:pos		
+NRF-owskie	NRF-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+NRF-owskie	NRF-owski	adj:sg:acc:n:pos		
+NRF-owskie	NRF-owski	adj:sg:nom.voc:n:pos		
+NRF-owskimi	NRF-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
+NRF-owskim	NRF-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+NRF-owskim	NRF-owski	adj:sg:inst:m1.m2.m3.n:pos		
+NRF-owskim	NRF-owski	adj:sg:loc:m1.m2.m3.n:pos		
 NRF-owski	NRF-owski	adj:sg:acc:m3:pos		
 NRF-owski	NRF-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 NRF-owsko	NRF-owski	adja		
@@ -4929,61 +4929,61 @@ NRF-owskościom	NRF-owskość	subst:pl:dat:f	nazwa pospolita
 NRF-owskość	NRF-owskość	subst:sg:acc:f	nazwa pospolita	
 NRF-owskość	NRF-owskość	subst:sg:nom:f	nazwa pospolita	
 NSA	NSA	subst:pl:acc:m3	nazwa instytucji	
-NSA	NSA	subst:pl:acc:n2	nazwa instytucji	
+NSA	NSA	subst:pl:acc:n:ncol	nazwa instytucji	
 NSA	NSA	subst:pl:dat:m3	nazwa instytucji	
-NSA	NSA	subst:pl:dat:n2	nazwa instytucji	
+NSA	NSA	subst:pl:dat:n:ncol	nazwa instytucji	
 NSA	NSA	subst:pl:gen:m3	nazwa instytucji	
-NSA	NSA	subst:pl:gen:n2	nazwa instytucji	
+NSA	NSA	subst:pl:gen:n:ncol	nazwa instytucji	
 NSA	NSA	subst:pl:inst:m3	nazwa instytucji	
-NSA	NSA	subst:pl:inst:n2	nazwa instytucji	
+NSA	NSA	subst:pl:inst:n:ncol	nazwa instytucji	
 NSA	NSA	subst:pl:loc:m3	nazwa instytucji	
-NSA	NSA	subst:pl:loc:n2	nazwa instytucji	
+NSA	NSA	subst:pl:loc:n:ncol	nazwa instytucji	
 NSA	NSA	subst:pl:nom:m3	nazwa instytucji	
-NSA	NSA	subst:pl:nom:n2	nazwa instytucji	
+NSA	NSA	subst:pl:nom:n:ncol	nazwa instytucji	
 NSA	NSA	subst:pl:voc:m3	nazwa instytucji	
-NSA	NSA	subst:pl:voc:n2	nazwa instytucji	
+NSA	NSA	subst:pl:voc:n:ncol	nazwa instytucji	
 NSA	NSA	subst:sg:acc:m3	nazwa instytucji	
-NSA	NSA	subst:sg:acc:n2	nazwa instytucji	
+NSA	NSA	subst:sg:acc:n:ncol	nazwa instytucji	
 NSA	NSA	subst:sg:dat:m3	nazwa instytucji	
-NSA	NSA	subst:sg:dat:n2	nazwa instytucji	
+NSA	NSA	subst:sg:dat:n:ncol	nazwa instytucji	
 NSA	NSA	subst:sg:gen:m3	nazwa instytucji	
-NSA	NSA	subst:sg:gen:n2	nazwa instytucji	
+NSA	NSA	subst:sg:gen:n:ncol	nazwa instytucji	
 NSA	NSA	subst:sg:inst:m3	nazwa instytucji	
-NSA	NSA	subst:sg:inst:n2	nazwa instytucji	
+NSA	NSA	subst:sg:inst:n:ncol	nazwa instytucji	
 NSA	NSA	subst:sg:loc:m3	nazwa instytucji	
-NSA	NSA	subst:sg:loc:n2	nazwa instytucji	
+NSA	NSA	subst:sg:loc:n:ncol	nazwa instytucji	
 NSA	NSA	subst:sg:nom:m3	nazwa instytucji	
-NSA	NSA	subst:sg:nom:n2	nazwa instytucji	
+NSA	NSA	subst:sg:nom:n:ncol	nazwa instytucji	
 NSA	NSA	subst:sg:voc:m3	nazwa instytucji	
-NSA	NSA	subst:sg:voc:n2	nazwa instytucji	
+NSA	NSA	subst:sg:voc:n:ncol	nazwa instytucji	
 NSDAP	NSDAP	subst:pl:acc:f	nazwa organizacji	
-NSDAP	NSDAP	subst:pl:acc:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:pl:acc:n:ncol	nazwa organizacji	
 NSDAP	NSDAP	subst:pl:dat:f	nazwa organizacji	
-NSDAP	NSDAP	subst:pl:dat:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:pl:dat:n:ncol	nazwa organizacji	
 NSDAP	NSDAP	subst:pl:gen:f	nazwa organizacji	
-NSDAP	NSDAP	subst:pl:gen:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:pl:gen:n:ncol	nazwa organizacji	
 NSDAP	NSDAP	subst:pl:inst:f	nazwa organizacji	
-NSDAP	NSDAP	subst:pl:inst:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:pl:inst:n:ncol	nazwa organizacji	
 NSDAP	NSDAP	subst:pl:loc:f	nazwa organizacji	
-NSDAP	NSDAP	subst:pl:loc:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:pl:loc:n:ncol	nazwa organizacji	
 NSDAP	NSDAP	subst:pl:nom:f	nazwa organizacji	
-NSDAP	NSDAP	subst:pl:nom:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:pl:nom:n:ncol	nazwa organizacji	
 NSDAP	NSDAP	subst:pl:voc:f	nazwa organizacji	
-NSDAP	NSDAP	subst:pl:voc:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:pl:voc:n:ncol	nazwa organizacji	
 NSDAP	NSDAP	subst:sg:acc:f	nazwa organizacji	
-NSDAP	NSDAP	subst:sg:acc:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:sg:acc:n:ncol	nazwa organizacji	
 NSDAP	NSDAP	subst:sg:dat:f	nazwa organizacji	
-NSDAP	NSDAP	subst:sg:dat:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:sg:dat:n:ncol	nazwa organizacji	
 NSDAP	NSDAP	subst:sg:gen:f	nazwa organizacji	
-NSDAP	NSDAP	subst:sg:gen:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:sg:gen:n:ncol	nazwa organizacji	
 NSDAP	NSDAP	subst:sg:inst:f	nazwa organizacji	
-NSDAP	NSDAP	subst:sg:inst:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:sg:inst:n:ncol	nazwa organizacji	
 NSDAP	NSDAP	subst:sg:loc:f	nazwa organizacji	
-NSDAP	NSDAP	subst:sg:loc:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:sg:loc:n:ncol	nazwa organizacji	
 NSDAP	NSDAP	subst:sg:nom:f	nazwa organizacji	
-NSDAP	NSDAP	subst:sg:nom:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:sg:nom:n:ncol	nazwa organizacji	
 NSDAP	NSDAP	subst:sg:voc:f	nazwa organizacji	
-NSDAP	NSDAP	subst:sg:voc:n2	nazwa organizacji	
+NSDAP	NSDAP	subst:sg:voc:n:ncol	nazwa organizacji	
 NSDAP-owcach	NSDAP-owiec	subst:pl:loc:m1	nazwa pospolita	
 NSDAP-owcami	NSDAP-owiec	subst:pl:inst:m1	nazwa pospolita	
 NSDAP-owca	NSDAP-owiec	subst:sg:acc:m1	nazwa pospolita	
@@ -5025,27 +5025,27 @@ NSZ-u	NSZ	subst:sg:gen:m3	nazwa organizacji
 NSZ-y	NSZ	subst:pl:acc:m3	nazwa organizacji	
 NSZ-y	NSZ	subst:pl:nom:m3	nazwa organizacji	
 NSZ-y	NSZ	subst:pl:voc:m3	nazwa organizacji	
-NSZ-owscy	NSZ-owski	adj:pl:nom.voc:m1.p1:pos		
+NSZ-owscy	NSZ-owski	adj:pl:nom.voc:m1:pos		
 NSZ-owska	NSZ-owski	adj:sg:nom.voc:f:pos		
 NSZ-owską	NSZ-owski	adj:sg:acc:f:pos		
 NSZ-owską	NSZ-owski	adj:sg:inst:f:pos		
-NSZ-owskich	NSZ-owski	adj:pl:acc:m1.p1:pos		
-NSZ-owskich	NSZ-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-NSZ-owskich	NSZ-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+NSZ-owskich	NSZ-owski	adj:pl:acc:m1:pos		
+NSZ-owskich	NSZ-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+NSZ-owskich	NSZ-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
 NSZ-owskiego	NSZ-owski	adj:sg:acc:m1.m2:pos		
-NSZ-owskiego	NSZ-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+NSZ-owskiego	NSZ-owski	adj:sg:gen:m1.m2.m3.n:pos		
 NSZ-owskiej	NSZ-owski	adj:sg:dat:f:pos		
 NSZ-owskiej	NSZ-owski	adj:sg:gen:f:pos		
 NSZ-owskiej	NSZ-owski	adj:sg:loc:f:pos		
-NSZ-owskiemu	NSZ-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-NSZ-owskie	NSZ-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-NSZ-owskie	NSZ-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-NSZ-owskie	NSZ-owski	adj:sg:acc:n1.n2:pos		
-NSZ-owskie	NSZ-owski	adj:sg:nom.voc:n1.n2:pos		
-NSZ-owskimi	NSZ-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-NSZ-owskim	NSZ-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-NSZ-owskim	NSZ-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-NSZ-owskim	NSZ-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+NSZ-owskiemu	NSZ-owski	adj:sg:dat:m1.m2.m3.n:pos		
+NSZ-owskie	NSZ-owski	adj:pl:acc:m2.m3.f.n:pos		
+NSZ-owskie	NSZ-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+NSZ-owskie	NSZ-owski	adj:sg:acc:n:pos		
+NSZ-owskie	NSZ-owski	adj:sg:nom.voc:n:pos		
+NSZ-owskimi	NSZ-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
+NSZ-owskim	NSZ-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+NSZ-owskim	NSZ-owski	adj:sg:inst:m1.m2.m3.n:pos		
+NSZ-owskim	NSZ-owski	adj:sg:loc:m1.m2.m3.n:pos		
 NSZ-owski	NSZ-owski	adj:sg:acc:m3:pos		
 NSZ-owski	NSZ-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 NSZ-owsko	NSZ-owski	adja		
@@ -5200,34 +5200,34 @@ Nurzyńskim	Nurzyński	subst:sg:inst:m1	nazwisko
 Nurzyńskim	Nurzyński	subst:sg:loc:m1	nazwisko	
 Nurzyński	Nurzyński	subst:sg:nom:m1	nazwisko	
 Nurzyński	Nurzyński	subst:sg:voc:m1	nazwisko	
-NW	NW	subst:pl:acc:n2	nazwa pospolita	
-NW	NW	subst:pl:dat:n2	nazwa pospolita	
-NW	NW	subst:pl:gen:n2	nazwa pospolita	
-NW	NW	subst:pl:inst:n2	nazwa pospolita	
-NW	NW	subst:pl:loc:n2	nazwa pospolita	
-NW	NW	subst:pl:nom:n2	nazwa pospolita	
-NW	NW	subst:pl:voc:n2	nazwa pospolita	
-NW	NW	subst:sg:acc:n2	nazwa pospolita	
-NW	NW	subst:sg:dat:n2	nazwa pospolita	
-NW	NW	subst:sg:gen:n2	nazwa pospolita	
-NW	NW	subst:sg:inst:n2	nazwa pospolita	
-NW	NW	subst:sg:loc:n2	nazwa pospolita	
-NW	NW	subst:sg:nom:n2	nazwa pospolita	
-NW	NW	subst:sg:voc:n2	nazwa pospolita	
-NWZA	NWZA	subst:pl:acc:n2	nazwa pospolita	
-NWZA	NWZA	subst:pl:dat:n2	nazwa pospolita	
-NWZA	NWZA	subst:pl:gen:n2	nazwa pospolita	
-NWZA	NWZA	subst:pl:inst:n2	nazwa pospolita	
-NWZA	NWZA	subst:pl:loc:n2	nazwa pospolita	
-NWZA	NWZA	subst:pl:nom:n2	nazwa pospolita	
-NWZA	NWZA	subst:pl:voc:n2	nazwa pospolita	
-NWZA	NWZA	subst:sg:acc:n2	nazwa pospolita	
-NWZA	NWZA	subst:sg:dat:n2	nazwa pospolita	
-NWZA	NWZA	subst:sg:gen:n2	nazwa pospolita	
-NWZA	NWZA	subst:sg:inst:n2	nazwa pospolita	
-NWZA	NWZA	subst:sg:loc:n2	nazwa pospolita	
-NWZA	NWZA	subst:sg:nom:n2	nazwa pospolita	
-NWZA	NWZA	subst:sg:voc:n2	nazwa pospolita	
+NW	NW	subst:pl:acc:n:ncol	nazwa pospolita	
+NW	NW	subst:pl:dat:n:ncol	nazwa pospolita	
+NW	NW	subst:pl:gen:n:ncol	nazwa pospolita	
+NW	NW	subst:pl:inst:n:ncol	nazwa pospolita	
+NW	NW	subst:pl:loc:n:ncol	nazwa pospolita	
+NW	NW	subst:pl:nom:n:ncol	nazwa pospolita	
+NW	NW	subst:pl:voc:n:ncol	nazwa pospolita	
+NW	NW	subst:sg:acc:n:ncol	nazwa pospolita	
+NW	NW	subst:sg:dat:n:ncol	nazwa pospolita	
+NW	NW	subst:sg:gen:n:ncol	nazwa pospolita	
+NW	NW	subst:sg:inst:n:ncol	nazwa pospolita	
+NW	NW	subst:sg:loc:n:ncol	nazwa pospolita	
+NW	NW	subst:sg:nom:n:ncol	nazwa pospolita	
+NW	NW	subst:sg:voc:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:pl:acc:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:pl:dat:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:pl:gen:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:pl:inst:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:pl:loc:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:pl:nom:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:pl:voc:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:sg:acc:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:sg:dat:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:sg:gen:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:sg:inst:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:sg:loc:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:sg:nom:n:ncol	nazwa pospolita	
+NWZA	NWZA	subst:sg:voc:n:ncol	nazwa pospolita	
 Nysach	Nysa	subst:pl:loc:f	nazwa geograficzna	
 Nysami	Nysa	subst:pl:inst:f	nazwa geograficzna	
 Nysa	Nysa	subst:sg:nom:f	nazwa geograficzna	
@@ -5293,22 +5293,22 @@ NZS-ami	NZS	subst:pl:inst:m3	nazwa organizacji
 NZS-em	NZS	subst:sg:inst:m3	nazwa organizacji	
 NZS-ie	NZS	subst:sg:loc:m3	nazwa organizacji	
 NZS-ie	NZS	subst:sg:voc:m3	nazwa organizacji	
-NZS	NZS	subst:pl:acc:n2	nazwa organizacji	
-NZS	NZS	subst:pl:dat:n2	nazwa organizacji	
-NZS	NZS	subst:pl:gen:n2	nazwa organizacji	
-NZS	NZS	subst:pl:inst:n2	nazwa organizacji	
-NZS	NZS	subst:pl:loc:n2	nazwa organizacji	
-NZS	NZS	subst:pl:nom:n2	nazwa organizacji	
-NZS	NZS	subst:pl:voc:n2	nazwa organizacji	
+NZS	NZS	subst:pl:acc:n:ncol	nazwa organizacji	
+NZS	NZS	subst:pl:dat:n:ncol	nazwa organizacji	
+NZS	NZS	subst:pl:gen:n:ncol	nazwa organizacji	
+NZS	NZS	subst:pl:inst:n:ncol	nazwa organizacji	
+NZS	NZS	subst:pl:loc:n:ncol	nazwa organizacji	
+NZS	NZS	subst:pl:nom:n:ncol	nazwa organizacji	
+NZS	NZS	subst:pl:voc:n:ncol	nazwa organizacji	
 NZS	NZS	subst:sg:acc:m3	nazwa organizacji	
-NZS	NZS	subst:sg:acc:n2	nazwa organizacji	
-NZS	NZS	subst:sg:dat:n2	nazwa organizacji	
-NZS	NZS	subst:sg:gen:n2	nazwa organizacji	
-NZS	NZS	subst:sg:inst:n2	nazwa organizacji	
-NZS	NZS	subst:sg:loc:n2	nazwa organizacji	
+NZS	NZS	subst:sg:acc:n:ncol	nazwa organizacji	
+NZS	NZS	subst:sg:dat:n:ncol	nazwa organizacji	
+NZS	NZS	subst:sg:gen:n:ncol	nazwa organizacji	
+NZS	NZS	subst:sg:inst:n:ncol	nazwa organizacji	
+NZS	NZS	subst:sg:loc:n:ncol	nazwa organizacji	
 NZS	NZS	subst:sg:nom:m3	nazwa organizacji	
-NZS	NZS	subst:sg:nom:n2	nazwa organizacji	
-NZS	NZS	subst:sg:voc:n2	nazwa organizacji	
+NZS	NZS	subst:sg:nom:n:ncol	nazwa organizacji	
+NZS	NZS	subst:sg:voc:n:ncol	nazwa organizacji	
 NZS-om	NZS	subst:pl:dat:m3	nazwa organizacji	
 NZS-owi	NZS	subst:sg:dat:m3	nazwa organizacji	
 NZS-ów	NZS	subst:pl:gen:m3	nazwa organizacji	

@@ -28,22 +28,22 @@
 Żabickim	Żabicki	subst:sg:loc:m1	nazwisko	
 Żabicki	Żabicki	subst:sg:nom:m1	nazwisko	
 Żabicki	Żabicki	subst:sg:voc:m1	nazwisko	
-Żabikowach	Żabikowo	subst:pl:loc:n2	nazwa geograficzna	
-Żabikowami	Żabikowo	subst:pl:inst:n2	nazwa geograficzna	
-Żabikowa	Żabikowo	subst:pl:acc:n2	nazwa geograficzna	
-Żabikowa	Żabikowo	subst:pl:nom:n2	nazwa geograficzna	
-Żabikowa	Żabikowo	subst:pl:voc:n2	nazwa geograficzna	
-Żabikowa	Żabikowo	subst:sg:gen:n2	nazwa geograficzna	
-Żabikowem	Żabikowo	subst:sg:inst:n2	nazwa geograficzna	
-Żabikowie	Żabikowo	subst:sg:loc:n2	nazwa geograficzna	
-Żabikowom	Żabikowo	subst:pl:dat:n2	nazwa geograficzna	
-Żabikowo	Żabikowo	subst:sg:acc:n2	nazwa geograficzna	
-Żabikowo	Żabikowo	subst:sg:nom:n2	nazwa geograficzna	
-Żabikowo	Żabikowo	subst:sg:voc:n2	nazwa geograficzna	
-Żabikowów	Żabikowo	subst:pl:gen:n2	nazwa geograficzna	
-Żabikowu	Żabikowo	subst:sg:dat:n2	nazwa geograficzna	
-Żabikow	Żabikowo	subst:pl:gen:n2	nazwa geograficzna	
-Żabików	Żabikowo	subst:pl:gen:n2	nazwa geograficzna	
+Żabikowach	Żabikowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Żabikowami	Żabikowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Żabikowa	Żabikowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Żabikowa	Żabikowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Żabikowa	Żabikowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Żabikowa	Żabikowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Żabikowem	Żabikowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Żabikowie	Żabikowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Żabikowom	Żabikowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Żabikowo	Żabikowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Żabikowo	Żabikowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Żabikowo	Żabikowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Żabikowów	Żabikowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Żabikowu	Żabikowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Żabikow	Żabikowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Żabików	Żabikowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Żabińska	Żabińska	subst:sg:nom:f	nazwisko	
 Żabińska	Żabińska	subst:sg:voc:f	nazwisko	
 Żabińską	Żabińska	subst:sg:acc:f	nazwisko	
@@ -279,20 +279,20 @@
 Żarowy	Żarów	subst:pl:voc:m3	nazwa geograficzna	
 Żarów	Żarów	subst:sg:acc:m3	nazwa geograficzna	
 Żarów	Żarów	subst:sg:nom:m3	nazwa geograficzna	
-Żarach	Żary	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Żarach	Żary	subst:pl:loc:p3	nazwa geograficzna	
-Żarami	Żary	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Żarami	Żary	subst:pl:inst:p3	nazwa geograficzna	
-Żarom	Żary	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Żarom	Żary	subst:pl:dat:p3	nazwa geograficzna	
-Żary	Żary	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Żary	Żary	subst:pl:acc:p3	nazwa geograficzna	
-Żary	Żary	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Żary	Żary	subst:pl:nom:p3	nazwa geograficzna	
-Żary	Żary	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Żary	Żary	subst:pl:voc:p3	nazwa geograficzna	
-Żar	Żary	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Żar	Żary	subst:pl:gen:p3	nazwa geograficzna	
+Żarach	Żary	subst:pl:loc:n:pt	nazwa geograficzna	
+Żarach	Żary	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Żarami	Żary	subst:pl:inst:n:pt	nazwa geograficzna	
+Żarami	Żary	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Żarom	Żary	subst:pl:dat:n:pt	nazwa geograficzna	
+Żarom	Żary	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Żary	Żary	subst:pl:acc:n:pt	nazwa geograficzna	
+Żary	Żary	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Żary	Żary	subst:pl:nom:n:pt	nazwa geograficzna	
+Żary	Żary	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Żary	Żary	subst:pl:voc:n:pt	nazwa geograficzna	
+Żary	Żary	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Żar	Żary	subst:pl:gen:n:pt	nazwa geograficzna	
+Żar	Żary	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Żbikowska	Żbikowska	subst:sg:nom:f	nazwisko	
 Żbikowska	Żbikowska	subst:sg:voc:f	nazwisko	
 Żbikowską	Żbikowska	subst:sg:acc:f	nazwisko	
@@ -978,20 +978,20 @@
 Żołyni	Żołynia	subst:sg:gen:f	nazwa geograficzna	
 Żołyni	Żołynia	subst:sg:loc:f	nazwa geograficzna	
 Żołyń	Żołynia	subst:pl:gen:f	nazwa geograficzna	char.
-Żorach	Żory	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Żorach	Żory	subst:pl:loc:p3	nazwa geograficzna	
-Żorami	Żory	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Żorami	Żory	subst:pl:inst:p3	nazwa geograficzna	
-Żorom	Żory	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Żorom	Żory	subst:pl:dat:p3	nazwa geograficzna	
-Żory	Żory	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Żory	Żory	subst:pl:acc:p3	nazwa geograficzna	
-Żory	Żory	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Żory	Żory	subst:pl:nom:p3	nazwa geograficzna	
-Żory	Żory	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Żory	Żory	subst:pl:voc:p3	nazwa geograficzna	
-Żor	Żory	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Żor	Żory	subst:pl:gen:p3	nazwa geograficzna	
+Żorach	Żory	subst:pl:loc:n:pt	nazwa geograficzna	
+Żorach	Żory	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Żorami	Żory	subst:pl:inst:n:pt	nazwa geograficzna	
+Żorami	Żory	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Żorom	Żory	subst:pl:dat:n:pt	nazwa geograficzna	
+Żorom	Żory	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Żory	Żory	subst:pl:acc:n:pt	nazwa geograficzna	
+Żory	Żory	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Żory	Żory	subst:pl:nom:n:pt	nazwa geograficzna	
+Żory	Żory	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Żory	Żory	subst:pl:voc:n:pt	nazwa geograficzna	
+Żory	Żory	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Żor	Żory	subst:pl:gen:n:pt	nazwa geograficzna	
+Żor	Żory	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Żółkiewce	Żółkiewka	subst:sg:dat:f	nazwa geograficzna	
 Żółkiewce	Żółkiewka	subst:sg:loc:f	nazwa geograficzna	
 Żółkiewek	Żółkiewka	subst:pl:gen:f	nazwa geograficzna	
@@ -1142,36 +1142,36 @@
 Żukowy	Żukow	depr:pl:nom:m2	nazwisko	
 Żukowy	Żukow	depr:pl:voc:m2	nazwisko	
 Żukow	Żukow	subst:sg:nom:m1	nazwisko	
-Żukowicach	Żukowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Żukowicach	Żukowice	subst:pl:loc:p3	nazwa geograficzna	
-Żukowicami	Żukowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Żukowicami	Żukowice	subst:pl:inst:p3	nazwa geograficzna	
-Żukowice	Żukowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Żukowice	Żukowice	subst:pl:acc:p3	nazwa geograficzna	
-Żukowice	Żukowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Żukowice	Żukowice	subst:pl:nom:p3	nazwa geograficzna	
-Żukowice	Żukowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Żukowice	Żukowice	subst:pl:voc:p3	nazwa geograficzna	
-Żukowicom	Żukowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Żukowicom	Żukowice	subst:pl:dat:p3	nazwa geograficzna	
-Żukowic	Żukowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Żukowic	Żukowice	subst:pl:gen:p3	nazwa geograficzna	
-Żukowach	Żukowo	subst:pl:loc:n2	nazwa geograficzna	
-Żukowami	Żukowo	subst:pl:inst:n2	nazwa geograficzna	
-Żukowa	Żukowo	subst:pl:acc:n2	nazwa geograficzna	
-Żukowa	Żukowo	subst:pl:nom:n2	nazwa geograficzna	
-Żukowa	Żukowo	subst:pl:voc:n2	nazwa geograficzna	
-Żukowa	Żukowo	subst:sg:gen:n2	nazwa geograficzna	
-Żukowem	Żukowo	subst:sg:inst:n2	nazwa geograficzna	
-Żukowie	Żukowo	subst:sg:loc:n2	nazwa geograficzna	
-Żukowom	Żukowo	subst:pl:dat:n2	nazwa geograficzna	
-Żukowo	Żukowo	subst:sg:acc:n2	nazwa geograficzna	
-Żukowo	Żukowo	subst:sg:nom:n2	nazwa geograficzna	
-Żukowo	Żukowo	subst:sg:voc:n2	nazwa geograficzna	
-Żukowów	Żukowo	subst:pl:gen:n2	nazwa geograficzna	
-Żukowu	Żukowo	subst:sg:dat:n2	nazwa geograficzna	
-Żukow	Żukowo	subst:pl:gen:n2	nazwa geograficzna	
-Żuków	Żukowo	subst:pl:gen:n2	nazwa geograficzna	
+Żukowicach	Żukowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Żukowicach	Żukowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Żukowicami	Żukowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Żukowicami	Żukowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Żukowice	Żukowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Żukowice	Żukowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Żukowice	Żukowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Żukowice	Żukowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Żukowice	Żukowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Żukowice	Żukowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Żukowicom	Żukowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Żukowicom	Żukowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Żukowic	Żukowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Żukowic	Żukowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Żukowach	Żukowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Żukowami	Żukowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Żukowa	Żukowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Żukowa	Żukowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Żukowa	Żukowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Żukowa	Żukowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Żukowem	Żukowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Żukowie	Żukowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Żukowom	Żukowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Żukowo	Żukowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Żukowo	Żukowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Żukowo	Żukowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Żukowów	Żukowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Żukowu	Żukowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Żukow	Żukowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Żuków	Żukowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Żukowscy	Żukowski	subst:pl:nom:m1	nazwisko	
 Żukowscy	Żukowski	subst:pl:voc:m1	nazwisko	
 Żukowskich	Żukowski	subst:pl:acc:m1	nazwisko	
@@ -1310,20 +1310,20 @@
 Żwirko	Żwirko	subst:sg:voc:m1	nazwisko	
 Żwirków	Żwirko	subst:pl:acc:m1	nazwisko	
 Żwirków	Żwirko	subst:pl:gen:m1	nazwisko	
-ŻW	ŻW:s1	subst:pl:acc:n2	nazwa organizacji	
-ŻW	ŻW:s1	subst:pl:dat:n2	nazwa organizacji	
-ŻW	ŻW:s1	subst:pl:gen:n2	nazwa organizacji	
-ŻW	ŻW:s1	subst:pl:inst:n2	nazwa organizacji	
-ŻW	ŻW:s1	subst:pl:loc:n2	nazwa organizacji	
-ŻW	ŻW:s1	subst:pl:nom:n2	nazwa organizacji	
-ŻW	ŻW:s1	subst:pl:voc:n2	nazwa organizacji	
-ŻW	ŻW:s1	subst:sg:acc:n2	nazwa organizacji	
-ŻW	ŻW:s1	subst:sg:dat:n2	nazwa organizacji	
-ŻW	ŻW:s1	subst:sg:gen:n2	nazwa organizacji	
-ŻW	ŻW:s1	subst:sg:inst:n2	nazwa organizacji	
-ŻW	ŻW:s1	subst:sg:loc:n2	nazwa organizacji	
-ŻW	ŻW:s1	subst:sg:nom:n2	nazwa organizacji	
-ŻW	ŻW:s1	subst:sg:voc:n2	nazwa organizacji	
+ŻW	ŻW:s1	subst:pl:acc:n:ncol	nazwa organizacji	
+ŻW	ŻW:s1	subst:pl:dat:n:ncol	nazwa organizacji	
+ŻW	ŻW:s1	subst:pl:gen:n:ncol	nazwa organizacji	
+ŻW	ŻW:s1	subst:pl:inst:n:ncol	nazwa organizacji	
+ŻW	ŻW:s1	subst:pl:loc:n:ncol	nazwa organizacji	
+ŻW	ŻW:s1	subst:pl:nom:n:ncol	nazwa organizacji	
+ŻW	ŻW:s1	subst:pl:voc:n:ncol	nazwa organizacji	
+ŻW	ŻW:s1	subst:sg:acc:n:ncol	nazwa organizacji	
+ŻW	ŻW:s1	subst:sg:dat:n:ncol	nazwa organizacji	
+ŻW	ŻW:s1	subst:sg:gen:n:ncol	nazwa organizacji	
+ŻW	ŻW:s1	subst:sg:inst:n:ncol	nazwa organizacji	
+ŻW	ŻW:s1	subst:sg:loc:n:ncol	nazwa organizacji	
+ŻW	ŻW:s1	subst:sg:nom:n:ncol	nazwa organizacji	
+ŻW	ŻW:s1	subst:sg:voc:n:ncol	nazwa organizacji	
 ŻW	ŻW:s2	subst:pl:acc:f	nazwa organizacji	
 ŻW	ŻW:s2	subst:pl:dat:f	nazwa organizacji	
 ŻW	ŻW:s2	subst:pl:gen:f	nazwa organizacji	
@@ -1460,22 +1460,22 @@
 Żydowiny	Żydowin	depr:pl:nom:m2	nazwa pospolita	
 Żydowiny	Żydowin	depr:pl:voc:m2	nazwa pospolita	
 Żydowin	Żydowin	subst:sg:nom:m1	nazwa pospolita	
-Żydowach	Żydowo	subst:pl:loc:n2	nazwa geograficzna	
-Żydowami	Żydowo	subst:pl:inst:n2	nazwa geograficzna	
-Żydowa	Żydowo	subst:pl:acc:n2	nazwa geograficzna	
-Żydowa	Żydowo	subst:pl:nom:n2	nazwa geograficzna	
-Żydowa	Żydowo	subst:pl:voc:n2	nazwa geograficzna	
-Żydowa	Żydowo	subst:sg:gen:n2	nazwa geograficzna	
-Żydowem	Żydowo	subst:sg:inst:n2	nazwa geograficzna	
-Żydowie	Żydowo	subst:sg:loc:n2	nazwa geograficzna	
-Żydowom	Żydowo	subst:pl:dat:n2	nazwa geograficzna	
-Żydowo	Żydowo	subst:sg:acc:n2	nazwa geograficzna	
-Żydowo	Żydowo	subst:sg:nom:n2	nazwa geograficzna	
-Żydowo	Żydowo	subst:sg:voc:n2	nazwa geograficzna	
-Żydowów	Żydowo	subst:pl:gen:n2	nazwa geograficzna	
-Żydowu	Żydowo	subst:sg:dat:n2	nazwa geograficzna	
-Żydow	Żydowo	subst:pl:gen:n2	nazwa geograficzna	
-Żydów	Żydowo	subst:pl:gen:n2	nazwa geograficzna	
+Żydowach	Żydowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Żydowami	Żydowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Żydowa	Żydowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Żydowa	Żydowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Żydowa	Żydowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Żydowa	Żydowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Żydowem	Żydowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Żydowie	Żydowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Żydowom	Żydowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Żydowo	Żydowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Żydowo	Żydowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Żydowo	Żydowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Żydowów	Żydowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Żydowu	Żydowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Żydow	Żydowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Żydów	Żydowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Żydóweczce	Żydóweczka	subst:sg:dat:f	nazwa pospolita	
 Żydóweczce	Żydóweczka	subst:sg:loc:f	nazwa pospolita	
 Żydóweczek	Żydóweczka	subst:pl:gen:f	nazwa pospolita	
@@ -1520,34 +1520,34 @@
 Żydziaku	Żydziak	subst:sg:loc:m1	nazwa pospolita	pogard.
 Żydziaku	Żydziak	subst:sg:voc:m1	nazwa pospolita	pogard.
 Żydziak	Żydziak	subst:sg:nom:m1	nazwa pospolita	pogard.
-Żydziątek	Żydziątko	subst:pl:gen:n2	nazwa pospolita	
-Żydziątkach	Żydziątko	subst:pl:loc:n2	nazwa pospolita	
-Żydziątkami	Żydziątko	subst:pl:inst:n2	nazwa pospolita	
-Żydziątka	Żydziątko	subst:pl:acc:n2	nazwa pospolita	
-Żydziątka	Żydziątko	subst:pl:nom:n2	nazwa pospolita	
-Żydziątka	Żydziątko	subst:pl:voc:n2	nazwa pospolita	
-Żydziątka	Żydziątko	subst:sg:gen:n2	nazwa pospolita	
-Żydziątkiem	Żydziątko	subst:sg:inst:n2	nazwa pospolita	
-Żydziątkom	Żydziątko	subst:pl:dat:n2	nazwa pospolita	
-Żydziątko	Żydziątko	subst:sg:acc:n2	nazwa pospolita	
-Żydziątko	Żydziątko	subst:sg:nom:n2	nazwa pospolita	
-Żydziątko	Żydziątko	subst:sg:voc:n2	nazwa pospolita	
-Żydziątku	Żydziątko	subst:sg:dat:n2	nazwa pospolita	
-Żydziątku	Żydziątko	subst:sg:loc:n2	nazwa pospolita	
-Żydziąt	Żydzię	subst:pl:gen:n1	nazwa pospolita	
-Żydzięcia	Żydzię	subst:sg:gen:n1	nazwa pospolita	
-Żydzięciem	Żydzię	subst:sg:inst:n1	nazwa pospolita	
-Żydzięciu	Żydzię	subst:sg:dat:n1	nazwa pospolita	
-Żydzięciu	Żydzię	subst:sg:loc:n1	nazwa pospolita	
-Żydziętach	Żydzię	subst:pl:loc:n1	nazwa pospolita	
-Żydziętami	Żydzię	subst:pl:inst:n1	nazwa pospolita	
-Żydzięta	Żydzię	subst:pl:acc:n1	nazwa pospolita	
-Żydzięta	Żydzię	subst:pl:nom:n1	nazwa pospolita	
-Żydzięta	Żydzię	subst:pl:voc:n1	nazwa pospolita	
-Żydziętom	Żydzię	subst:pl:dat:n1	nazwa pospolita	
-Żydzię	Żydzię	subst:sg:acc:n1	nazwa pospolita	
-Żydzię	Żydzię	subst:sg:nom:n1	nazwa pospolita	
-Żydzię	Żydzię	subst:sg:voc:n1	nazwa pospolita	
+Żydziątek	Żydziątko	subst:pl:gen:n:ncol	nazwa pospolita	
+Żydziątkach	Żydziątko	subst:pl:loc:n:ncol	nazwa pospolita	
+Żydziątkami	Żydziątko	subst:pl:inst:n:ncol	nazwa pospolita	
+Żydziątka	Żydziątko	subst:pl:acc:n:ncol	nazwa pospolita	
+Żydziątka	Żydziątko	subst:pl:nom:n:ncol	nazwa pospolita	
+Żydziątka	Żydziątko	subst:pl:voc:n:ncol	nazwa pospolita	
+Żydziątka	Żydziątko	subst:sg:gen:n:ncol	nazwa pospolita	
+Żydziątkiem	Żydziątko	subst:sg:inst:n:ncol	nazwa pospolita	
+Żydziątkom	Żydziątko	subst:pl:dat:n:ncol	nazwa pospolita	
+Żydziątko	Żydziątko	subst:sg:acc:n:ncol	nazwa pospolita	
+Żydziątko	Żydziątko	subst:sg:nom:n:ncol	nazwa pospolita	
+Żydziątko	Żydziątko	subst:sg:voc:n:ncol	nazwa pospolita	
+Żydziątku	Żydziątko	subst:sg:dat:n:ncol	nazwa pospolita	
+Żydziątku	Żydziątko	subst:sg:loc:n:ncol	nazwa pospolita	
+Żydziąt	Żydzię	subst:pl:gen:n:col	nazwa pospolita	
+Żydzięcia	Żydzię	subst:sg:gen:n:col	nazwa pospolita	
+Żydzięciem	Żydzię	subst:sg:inst:n:col	nazwa pospolita	
+Żydzięciu	Żydzię	subst:sg:dat:n:col	nazwa pospolita	
+Żydzięciu	Żydzię	subst:sg:loc:n:col	nazwa pospolita	
+Żydziętach	Żydzię	subst:pl:loc:n:col	nazwa pospolita	
+Żydziętami	Żydzię	subst:pl:inst:n:col	nazwa pospolita	
+Żydzięta	Żydzię	subst:pl:acc:n:col	nazwa pospolita	
+Żydzięta	Żydzię	subst:pl:nom:n:col	nazwa pospolita	
+Żydzięta	Żydzię	subst:pl:voc:n:col	nazwa pospolita	
+Żydziętom	Żydzię	subst:pl:dat:n:col	nazwa pospolita	
+Żydzię	Żydzię	subst:sg:acc:n:col	nazwa pospolita	
+Żydzię	Żydzię	subst:sg:nom:n:col	nazwa pospolita	
+Żydzię	Żydzię	subst:sg:voc:n:col	nazwa pospolita	
 Żydzinach	Żydzina	subst:pl:loc:m1	nazwa pospolita	pogard.
 Żydzinami	Żydzina	subst:pl:inst:m1	nazwa pospolita	pogard.
 Żydzina	Żydzina	subst:sg:nom:m1	nazwa pospolita	pogard.
@@ -1565,35 +1565,35 @@
 Żydziny	Żydzina	depr:pl:voc:m2	nazwa pospolita	pogard.
 Żydziny	Żydzina	subst:sg:gen:m1	nazwa pospolita	pogard.
 Żydziskach	Żydzisko	subst:pl:loc:m1	nazwa pospolita	rzad.
-Żydziskach	Żydzisko	subst:pl:loc:n2	nazwa pospolita	
+Żydziskach	Żydzisko	subst:pl:loc:n:ncol	nazwa pospolita	
 Żydziskami	Żydzisko	subst:pl:inst:m1	nazwa pospolita	rzad.
-Żydziskami	Żydzisko	subst:pl:inst:n2	nazwa pospolita	
+Żydziskami	Żydzisko	subst:pl:inst:n:ncol	nazwa pospolita	
 Żydziska	Żydzisko	depr:pl:nom:m2	nazwa pospolita	rzad.
 Żydziska	Żydzisko	depr:pl:voc:m2	nazwa pospolita	rzad.
-Żydziska	Żydzisko	subst:pl:acc:n2	nazwa pospolita	
+Żydziska	Żydzisko	subst:pl:acc:n:ncol	nazwa pospolita	
 Żydziska	Żydzisko	subst:pl:nom:m1	nazwa pospolita	rzad.
-Żydziska	Żydzisko	subst:pl:nom:n2	nazwa pospolita	
+Żydziska	Żydzisko	subst:pl:nom:n:ncol	nazwa pospolita	
 Żydziska	Żydzisko	subst:pl:voc:m1	nazwa pospolita	rzad.
-Żydziska	Żydzisko	subst:pl:voc:n2	nazwa pospolita	
+Żydziska	Żydzisko	subst:pl:voc:n:ncol	nazwa pospolita	
 Żydziska	Żydzisko	subst:sg:acc:m1	nazwa pospolita	rzad.
 Żydziska	Żydzisko	subst:sg:gen:m1	nazwa pospolita	rzad.
-Żydziska	Żydzisko	subst:sg:gen:n2	nazwa pospolita	
+Żydziska	Żydzisko	subst:sg:gen:n:ncol	nazwa pospolita	
 Żydziskiem	Żydzisko	subst:sg:inst:m1	nazwa pospolita	rzad.
-Żydziskiem	Żydzisko	subst:sg:inst:n2	nazwa pospolita	
+Żydziskiem	Żydzisko	subst:sg:inst:n:ncol	nazwa pospolita	
 Żydziskom	Żydzisko	subst:pl:dat:m1	nazwa pospolita	rzad.
-Żydziskom	Żydzisko	subst:pl:dat:n2	nazwa pospolita	
-Żydzisko	Żydzisko	subst:sg:acc:n2	nazwa pospolita	
+Żydziskom	Żydzisko	subst:pl:dat:n:ncol	nazwa pospolita	
+Żydzisko	Żydzisko	subst:sg:acc:n:ncol	nazwa pospolita	
 Żydzisko	Żydzisko	subst:sg:nom:m1	nazwa pospolita	rzad.
-Żydzisko	Żydzisko	subst:sg:nom:n2	nazwa pospolita	
+Żydzisko	Żydzisko	subst:sg:nom:n:ncol	nazwa pospolita	
 Żydzisko	Żydzisko	subst:sg:voc:m1	nazwa pospolita	rzad.
-Żydzisko	Żydzisko	subst:sg:voc:n2	nazwa pospolita	
+Żydzisko	Żydzisko	subst:sg:voc:n:ncol	nazwa pospolita	
 Żydzisków	Żydzisko	subst:pl:acc:m1	nazwa pospolita	rzad.
 Żydzisków	Żydzisko	subst:pl:gen:m1	nazwa pospolita	rzad.
 Żydzisku	Żydzisko	subst:sg:dat:m1	nazwa pospolita	rzad.
-Żydzisku	Żydzisko	subst:sg:dat:n2	nazwa pospolita	
+Żydzisku	Żydzisko	subst:sg:dat:n:ncol	nazwa pospolita	
 Żydzisku	Żydzisko	subst:sg:loc:m1	nazwa pospolita	rzad.
-Żydzisku	Żydzisko	subst:sg:loc:n2	nazwa pospolita	
-Żydzisk	Żydzisko	subst:pl:gen:n2	nazwa pospolita	
+Żydzisku	Żydzisko	subst:sg:loc:n:ncol	nazwa pospolita	
+Żydzisk	Żydzisko	subst:pl:gen:n:ncol	nazwa pospolita	
 Żylisach	Żylis	subst:pl:loc:m1	nazwisko	
 Żylisami	Żylis	subst:pl:inst:m1	nazwisko	
 Żylisa	Żylis	subst:sg:acc:m1	nazwisko	
@@ -1778,30 +1778,30 @@
 Żywisławy	Żywisława	subst:sg:gen:f	imię	
 Żywisław	Żywisława	subst:pl:gen:f	imię	
 ŻZW	ŻZW	subst:pl:acc:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:pl:acc:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:pl:acc:n:ncol	nazwa organizacji	
 ŻZW	ŻZW	subst:pl:dat:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:pl:dat:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:pl:dat:n:ncol	nazwa organizacji	
 ŻZW	ŻZW	subst:pl:gen:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:pl:gen:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:pl:gen:n:ncol	nazwa organizacji	
 ŻZW	ŻZW	subst:pl:inst:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:pl:inst:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:pl:inst:n:ncol	nazwa organizacji	
 ŻZW	ŻZW	subst:pl:loc:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:pl:loc:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:pl:loc:n:ncol	nazwa organizacji	
 ŻZW	ŻZW	subst:pl:nom:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:pl:nom:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:pl:nom:n:ncol	nazwa organizacji	
 ŻZW	ŻZW	subst:pl:voc:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:pl:voc:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:pl:voc:n:ncol	nazwa organizacji	
 ŻZW	ŻZW	subst:sg:acc:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:sg:acc:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:sg:acc:n:ncol	nazwa organizacji	
 ŻZW	ŻZW	subst:sg:dat:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:sg:dat:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:sg:dat:n:ncol	nazwa organizacji	
 ŻZW	ŻZW	subst:sg:gen:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:sg:gen:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:sg:gen:n:ncol	nazwa organizacji	
 ŻZW	ŻZW	subst:sg:inst:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:sg:inst:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:sg:inst:n:ncol	nazwa organizacji	
 ŻZW	ŻZW	subst:sg:loc:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:sg:loc:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:sg:loc:n:ncol	nazwa organizacji	
 ŻZW	ŻZW	subst:sg:nom:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:sg:nom:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:sg:nom:n:ncol	nazwa organizacji	
 ŻZW	ŻZW	subst:sg:voc:m3	nazwa organizacji	
-ŻZW	ŻZW	subst:sg:voc:n2	nazwa organizacji	
+ŻZW	ŻZW	subst:sg:voc:n:ncol	nazwa organizacji	

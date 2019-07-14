@@ -159,20 +159,20 @@ Raciborzu	Racibórz	subst:sg:voc:m3	nazwa geograficzna
 Raciborzy	Racibórz	subst:pl:gen:m3	nazwa geograficzna	
 Racibórz	Racibórz	subst:sg:acc:m3	nazwa geograficzna	
 Racibórz	Racibórz	subst:sg:nom:m3	nazwa geograficzna	
-Raciechowicach	Raciechowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Raciechowicach	Raciechowice	subst:pl:loc:p3	nazwa geograficzna	
-Raciechowicami	Raciechowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Raciechowicami	Raciechowice	subst:pl:inst:p3	nazwa geograficzna	
-Raciechowice	Raciechowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Raciechowice	Raciechowice	subst:pl:acc:p3	nazwa geograficzna	
-Raciechowice	Raciechowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Raciechowice	Raciechowice	subst:pl:nom:p3	nazwa geograficzna	
-Raciechowice	Raciechowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Raciechowice	Raciechowice	subst:pl:voc:p3	nazwa geograficzna	
-Raciechowicom	Raciechowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Raciechowicom	Raciechowice	subst:pl:dat:p3	nazwa geograficzna	
-Raciechowic	Raciechowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Raciechowic	Raciechowice	subst:pl:gen:p3	nazwa geograficzna	
+Raciechowicach	Raciechowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Raciechowicach	Raciechowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Raciechowicami	Raciechowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Raciechowicami	Raciechowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Raciechowice	Raciechowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Raciechowice	Raciechowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Raciechowice	Raciechowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Raciechowice	Raciechowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Raciechowice	Raciechowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Raciechowice	Raciechowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Raciechowicom	Raciechowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Raciechowicom	Raciechowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Raciechowic	Raciechowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Raciechowic	Raciechowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Racimirach	Racimir	subst:pl:loc:m1	imię	
 Racimirami	Racimir	subst:pl:inst:m1	imię	
 Racimira	Racimir	subst:sg:acc:m1	imię	
@@ -225,20 +225,20 @@ Racisławów	Racisław	subst:pl:gen:m1	imię
 Racisław	Racisław	subst:sg:nom:m1	imię	
 Racisławy	Racisław	depr:pl:nom:m2	imię	
 Racisławy	Racisław	depr:pl:voc:m2	imię	
-Racławicach	Racławice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Racławicach	Racławice	subst:pl:loc:p3	nazwa geograficzna	
-Racławicami	Racławice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Racławicami	Racławice	subst:pl:inst:p3	nazwa geograficzna	
-Racławice	Racławice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Racławice	Racławice	subst:pl:acc:p3	nazwa geograficzna	
-Racławice	Racławice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Racławice	Racławice	subst:pl:nom:p3	nazwa geograficzna	
-Racławice	Racławice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Racławice	Racławice	subst:pl:voc:p3	nazwa geograficzna	
-Racławicom	Racławice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Racławicom	Racławice	subst:pl:dat:p3	nazwa geograficzna	
-Racławic	Racławice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Racławic	Racławice	subst:pl:gen:p3	nazwa geograficzna	
+Racławicach	Racławice	subst:pl:loc:n:pt	nazwa geograficzna	
+Racławicach	Racławice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Racławicami	Racławice	subst:pl:inst:n:pt	nazwa geograficzna	
+Racławicami	Racławice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Racławice	Racławice	subst:pl:acc:n:pt	nazwa geograficzna	
+Racławice	Racławice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Racławice	Racławice	subst:pl:nom:n:pt	nazwa geograficzna	
+Racławice	Racławice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Racławice	Racławice	subst:pl:voc:n:pt	nazwa geograficzna	
+Racławice	Racławice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Racławicom	Racławice	subst:pl:dat:n:pt	nazwa geograficzna	
+Racławicom	Racławice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Racławic	Racławice	subst:pl:gen:n:pt	nazwa geograficzna	
+Racławic	Racławice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Raczkowska	Raczkowska	subst:sg:nom:f	nazwisko	
 Raczkowska	Raczkowska	subst:sg:voc:f	nazwisko	
 Raczkowską	Raczkowska	subst:sg:acc:f	nazwisko	
@@ -548,34 +548,34 @@ Radomirze	Radomir	subst:sg:loc:m1	imię
 Radomirze	Radomir	subst:sg:voc:m1	imię	
 Radomirzy	Radomir	subst:pl:nom:m1	imię	
 Radomirzy	Radomir	subst:pl:voc:m1	imię	
-Radomskich	Radomskie	subst:pl:gen:n2	nazwa geograficzna	
-Radomskich	Radomskie	subst:pl:loc:n2	nazwa geograficzna	
-Radomskiego	Radomskie	subst:sg:gen:n2	nazwa geograficzna	
-Radomskiem	Radomskie	subst:sg:inst:n2	nazwa geograficzna	
-Radomskiem	Radomskie	subst:sg:loc:n2	nazwa geograficzna	
-Radomskiemu	Radomskie	subst:sg:dat:n2	nazwa geograficzna	
-Radomskie	Radomskie	subst:pl:acc:n2	nazwa geograficzna	
-Radomskie	Radomskie	subst:pl:nom:n2	nazwa geograficzna	
-Radomskie	Radomskie	subst:pl:voc:n2	nazwa geograficzna	
-Radomskie	Radomskie	subst:sg:acc:n2	nazwa geograficzna	
-Radomskie	Radomskie	subst:sg:nom:n2	nazwa geograficzna	
-Radomskie	Radomskie	subst:sg:voc:n2	nazwa geograficzna	
-Radomskimi	Radomskie	subst:pl:inst:n2	nazwa geograficzna	
-Radomskim	Radomskie	subst:pl:dat:n2	nazwa geograficzna	
-Radomskach	Radomsko	subst:pl:loc:n2	nazwa geograficzna	
-Radomskami	Radomsko	subst:pl:inst:n2	nazwa geograficzna	
-Radomska	Radomsko	subst:pl:acc:n2	nazwa geograficzna	
-Radomska	Radomsko	subst:pl:nom:n2	nazwa geograficzna	
-Radomska	Radomsko	subst:pl:voc:n2	nazwa geograficzna	
-Radomska	Radomsko	subst:sg:gen:n2	nazwa geograficzna	
-Radomskiem	Radomsko	subst:sg:inst:n2	nazwa geograficzna	
-Radomskom	Radomsko	subst:pl:dat:n2	nazwa geograficzna	
-Radomsko	Radomsko	subst:sg:acc:n2	nazwa geograficzna	
-Radomsko	Radomsko	subst:sg:nom:n2	nazwa geograficzna	
-Radomsko	Radomsko	subst:sg:voc:n2	nazwa geograficzna	
-Radomsk	Radomsko	subst:pl:gen:n2	nazwa geograficzna	
-Radomsku	Radomsko	subst:sg:dat:n2	nazwa geograficzna	
-Radomsku	Radomsko	subst:sg:loc:n2	nazwa geograficzna	
+Radomskich	Radomskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Radomskich	Radomskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Radomskiego	Radomskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Radomskiem	Radomskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Radomskiem	Radomskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Radomskiemu	Radomskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Radomskie	Radomskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Radomskie	Radomskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Radomskie	Radomskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Radomskie	Radomskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Radomskie	Radomskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Radomskie	Radomskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Radomskimi	Radomskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Radomskim	Radomskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Radomskach	Radomsko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Radomskami	Radomsko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Radomska	Radomsko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Radomska	Radomsko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Radomska	Radomsko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Radomska	Radomsko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Radomskiem	Radomsko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Radomskom	Radomsko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Radomsko	Radomsko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Radomsko	Radomsko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Radomsko	Radomsko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Radomsk	Radomsko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Radomsku	Radomsko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Radomsku	Radomsko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Radomysłach	Radomysł	subst:pl:loc:m1	imię	
 Radomysłami	Radomysł	subst:pl:inst:m1	imię	
 Radomysła	Radomysł	subst:sg:acc:m1	imię	
@@ -653,20 +653,20 @@ Radosty	Radost	depr:pl:nom:m2	imię
 Radosty	Radost	depr:pl:voc:m2	imię	
 Radoście	Radost	subst:sg:loc:m1	imię	
 Radoście	Radost	subst:sg:voc:m1	imię	
-Radoszycach	Radoszyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Radoszycach	Radoszyce	subst:pl:loc:p3	nazwa geograficzna	
-Radoszycami	Radoszyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Radoszycami	Radoszyce	subst:pl:inst:p3	nazwa geograficzna	
-Radoszyce	Radoszyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Radoszyce	Radoszyce	subst:pl:acc:p3	nazwa geograficzna	
-Radoszyce	Radoszyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Radoszyce	Radoszyce	subst:pl:nom:p3	nazwa geograficzna	
-Radoszyce	Radoszyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Radoszyce	Radoszyce	subst:pl:voc:p3	nazwa geograficzna	
-Radoszycom	Radoszyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Radoszycom	Radoszyce	subst:pl:dat:p3	nazwa geograficzna	
-Radoszyc	Radoszyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Radoszyc	Radoszyce	subst:pl:gen:p3	nazwa geograficzna	
+Radoszycach	Radoszyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Radoszycach	Radoszyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Radoszycami	Radoszyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Radoszycami	Radoszyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Radoszyce	Radoszyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Radoszyce	Radoszyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Radoszyce	Radoszyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Radoszyce	Radoszyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Radoszyce	Radoszyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Radoszyce	Radoszyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Radoszycom	Radoszyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Radoszycom	Radoszyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Radoszyc	Radoszyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Radoszyc	Radoszyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Radovanach	Radovan	subst:pl:loc:m1	imię	
 Radovanami	Radovan	subst:pl:inst:m1	imię	
 Radovana	Radovan	subst:sg:acc:m1	imię	
@@ -701,36 +701,36 @@ Radowitów	Radowit	subst:pl:gen:m1	imię
 Radowit	Radowit	subst:sg:nom:m1	imię	
 Radowity	Radowit	depr:pl:nom:m2	imię	
 Radowity	Radowit	depr:pl:voc:m2	imię	
-Radowach	Radowo	subst:pl:loc:n2	nazwa geograficzna	
-Radowami	Radowo	subst:pl:inst:n2	nazwa geograficzna	
-Radowa	Radowo	subst:pl:acc:n2	nazwa geograficzna	
-Radowa	Radowo	subst:pl:nom:n2	nazwa geograficzna	
-Radowa	Radowo	subst:pl:voc:n2	nazwa geograficzna	
-Radowa	Radowo	subst:sg:gen:n2	nazwa geograficzna	
-Radowem	Radowo	subst:sg:inst:n2	nazwa geograficzna	
-Radowie	Radowo	subst:sg:loc:n2	nazwa geograficzna	
-Radowom	Radowo	subst:pl:dat:n2	nazwa geograficzna	
-Radowo	Radowo	subst:sg:acc:n2	nazwa geograficzna	
-Radowo	Radowo	subst:sg:nom:n2	nazwa geograficzna	
-Radowo	Radowo	subst:sg:voc:n2	nazwa geograficzna	
-Radowów	Radowo	subst:pl:gen:n2	nazwa geograficzna	
-Radow	Radowo	subst:pl:gen:n2	nazwa geograficzna	
-Radowu	Radowo	subst:sg:dat:n2	nazwa geograficzna	
-Radów	Radowo	subst:pl:gen:n2	nazwa geograficzna	
-Radwanicach	Radwanice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Radwanicach	Radwanice	subst:pl:loc:p3	nazwa geograficzna	
-Radwanicami	Radwanice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Radwanicami	Radwanice	subst:pl:inst:p3	nazwa geograficzna	
-Radwanice	Radwanice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Radwanice	Radwanice	subst:pl:acc:p3	nazwa geograficzna	
-Radwanice	Radwanice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Radwanice	Radwanice	subst:pl:nom:p3	nazwa geograficzna	
-Radwanice	Radwanice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Radwanice	Radwanice	subst:pl:voc:p3	nazwa geograficzna	
-Radwanicom	Radwanice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Radwanicom	Radwanice	subst:pl:dat:p3	nazwa geograficzna	
-Radwanic	Radwanice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Radwanic	Radwanice	subst:pl:gen:p3	nazwa geograficzna	
+Radowach	Radowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Radowami	Radowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Radowa	Radowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Radowa	Radowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Radowa	Radowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Radowa	Radowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Radowem	Radowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Radowie	Radowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Radowom	Radowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Radowo	Radowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Radowo	Radowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Radowo	Radowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Radowów	Radowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Radow	Radowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Radowu	Radowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Radów	Radowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Radwanicach	Radwanice	subst:pl:loc:n:pt	nazwa geograficzna	
+Radwanicach	Radwanice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Radwanicami	Radwanice	subst:pl:inst:n:pt	nazwa geograficzna	
+Radwanicami	Radwanice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Radwanice	Radwanice	subst:pl:acc:n:pt	nazwa geograficzna	
+Radwanice	Radwanice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Radwanice	Radwanice	subst:pl:nom:n:pt	nazwa geograficzna	
+Radwanice	Radwanice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Radwanice	Radwanice	subst:pl:voc:n:pt	nazwa geograficzna	
+Radwanice	Radwanice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Radwanicom	Radwanice	subst:pl:dat:n:pt	nazwa geograficzna	
+Radwanicom	Radwanice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Radwanic	Radwanice	subst:pl:gen:n:pt	nazwa geograficzna	
+Radwanic	Radwanice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Radwańska	Radwańska	subst:sg:nom:f	nazwisko	
 Radwańska	Radwańska	subst:sg:voc:f	nazwisko	
 Radwańską	Radwańska	subst:sg:acc:f	nazwisko	
@@ -761,22 +761,22 @@ Radwańskim	Radwański	subst:sg:inst:m1	nazwisko
 Radwańskim	Radwański	subst:sg:loc:m1	nazwisko	
 Radwański	Radwański	subst:sg:nom:m1	nazwisko	
 Radwański	Radwański	subst:sg:voc:m1	nazwisko	
-Radzanowach	Radzanowo	subst:pl:loc:n2	nazwa geograficzna	
-Radzanowami	Radzanowo	subst:pl:inst:n2	nazwa geograficzna	
-Radzanowa	Radzanowo	subst:pl:acc:n2	nazwa geograficzna	
-Radzanowa	Radzanowo	subst:pl:nom:n2	nazwa geograficzna	
-Radzanowa	Radzanowo	subst:pl:voc:n2	nazwa geograficzna	
-Radzanowa	Radzanowo	subst:sg:gen:n2	nazwa geograficzna	
-Radzanowem	Radzanowo	subst:sg:inst:n2	nazwa geograficzna	
-Radzanowie	Radzanowo	subst:sg:loc:n2	nazwa geograficzna	
-Radzanowom	Radzanowo	subst:pl:dat:n2	nazwa geograficzna	
-Radzanowo	Radzanowo	subst:sg:acc:n2	nazwa geograficzna	
-Radzanowo	Radzanowo	subst:sg:nom:n2	nazwa geograficzna	
-Radzanowo	Radzanowo	subst:sg:voc:n2	nazwa geograficzna	
-Radzanowów	Radzanowo	subst:pl:gen:n2	nazwa geograficzna	
-Radzanow	Radzanowo	subst:pl:gen:n2	nazwa geograficzna	
-Radzanowu	Radzanowo	subst:sg:dat:n2	nazwa geograficzna	
-Radzanów	Radzanowo	subst:pl:gen:n2	nazwa geograficzna	
+Radzanowach	Radzanowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Radzanowami	Radzanowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Radzanowa	Radzanowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Radzanowa	Radzanowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Radzanowa	Radzanowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Radzanowa	Radzanowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Radzanowem	Radzanowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Radzanowie	Radzanowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Radzanowom	Radzanowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Radzanowo	Radzanowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Radzanowo	Radzanowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Radzanowo	Radzanowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Radzanowów	Radzanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Radzanow	Radzanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Radzanowu	Radzanowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Radzanów	Radzanowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Radzanowach	Radzanów	subst:pl:loc:m3	nazwa geograficzna	
 Radzanowami	Radzanów	subst:pl:inst:m3	nazwa geograficzna	
 Radzanowa	Radzanów	subst:sg:gen:m3	nazwa geograficzna	
@@ -822,20 +822,20 @@ Radziejewskim	Radziejewski	subst:sg:inst:m1	nazwisko
 Radziejewskim	Radziejewski	subst:sg:loc:m1	nazwisko	
 Radziejewski	Radziejewski	subst:sg:nom:m1	nazwisko	
 Radziejewski	Radziejewski	subst:sg:voc:m1	nazwisko	
-Radziejowicach	Radziejowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Radziejowicach	Radziejowice	subst:pl:loc:p3	nazwa geograficzna	
-Radziejowicami	Radziejowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Radziejowicami	Radziejowice	subst:pl:inst:p3	nazwa geograficzna	
-Radziejowice	Radziejowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Radziejowice	Radziejowice	subst:pl:acc:p3	nazwa geograficzna	
-Radziejowice	Radziejowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Radziejowice	Radziejowice	subst:pl:nom:p3	nazwa geograficzna	
-Radziejowice	Radziejowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Radziejowice	Radziejowice	subst:pl:voc:p3	nazwa geograficzna	
-Radziejowicom	Radziejowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Radziejowicom	Radziejowice	subst:pl:dat:p3	nazwa geograficzna	
-Radziejowic	Radziejowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Radziejowic	Radziejowice	subst:pl:gen:p3	nazwa geograficzna	
+Radziejowicach	Radziejowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Radziejowicach	Radziejowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Radziejowicami	Radziejowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Radziejowicami	Radziejowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Radziejowice	Radziejowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Radziejowice	Radziejowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Radziejowice	Radziejowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Radziejowice	Radziejowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Radziejowice	Radziejowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Radziejowice	Radziejowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Radziejowicom	Radziejowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Radziejowicom	Radziejowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Radziejowic	Radziejowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Radziejowic	Radziejowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Radziejowach	Radziejów	subst:pl:loc:m3	nazwa geograficzna	
 Radziejowami	Radziejów	subst:pl:inst:m3	nazwa geograficzna	
 Radziejowa	Radziejów	subst:sg:gen:m3	nazwa geograficzna	
@@ -851,20 +851,20 @@ Radziejowy	Radziejów	subst:pl:nom:m3	nazwa geograficzna
 Radziejowy	Radziejów	subst:pl:voc:m3	nazwa geograficzna	
 Radziejów	Radziejów	subst:sg:acc:m3	nazwa geograficzna	
 Radziejów	Radziejów	subst:sg:nom:m3	nazwa geograficzna	
-Radziemicach	Radziemice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Radziemicach	Radziemice	subst:pl:loc:p3	nazwa geograficzna	
-Radziemicami	Radziemice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Radziemicami	Radziemice	subst:pl:inst:p3	nazwa geograficzna	
-Radziemice	Radziemice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Radziemice	Radziemice	subst:pl:acc:p3	nazwa geograficzna	
-Radziemice	Radziemice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Radziemice	Radziemice	subst:pl:nom:p3	nazwa geograficzna	
-Radziemice	Radziemice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Radziemice	Radziemice	subst:pl:voc:p3	nazwa geograficzna	
-Radziemicom	Radziemice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Radziemicom	Radziemice	subst:pl:dat:p3	nazwa geograficzna	
-Radziemic	Radziemice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Radziemic	Radziemice	subst:pl:gen:p3	nazwa geograficzna	
+Radziemicach	Radziemice	subst:pl:loc:n:pt	nazwa geograficzna	
+Radziemicach	Radziemice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Radziemicami	Radziemice	subst:pl:inst:n:pt	nazwa geograficzna	
+Radziemicami	Radziemice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Radziemice	Radziemice	subst:pl:acc:n:pt	nazwa geograficzna	
+Radziemice	Radziemice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Radziemice	Radziemice	subst:pl:nom:n:pt	nazwa geograficzna	
+Radziemice	Radziemice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Radziemice	Radziemice	subst:pl:voc:n:pt	nazwa geograficzna	
+Radziemice	Radziemice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Radziemicom	Radziemice	subst:pl:dat:n:pt	nazwa geograficzna	
+Radziemicom	Radziemice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Radziemic	Radziemice	subst:pl:gen:n:pt	nazwa geograficzna	
+Radziemic	Radziemice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Radzikowska	Radzikowska	subst:sg:nom:f	nazwisko	
 Radzikowska	Radzikowska	subst:sg:voc:f	nazwisko	
 Radzikowską	Radzikowska	subst:sg:acc:f	nazwisko	
@@ -1245,22 +1245,22 @@ RAI-e	RAI	subst:pl:voc:m3	nazwa firmy
 RAI-i	RAI	subst:pl:gen:m3	nazwa firmy	
 RAI-om	RAI	subst:pl:dat:m3	nazwa firmy	
 RAI-owi	RAI	subst:sg:dat:m3	nazwa firmy	
-RAI	RAI	subst:pl:acc:n2	nazwa firmy	
-RAI	RAI	subst:pl:dat:n2	nazwa firmy	
-RAI	RAI	subst:pl:gen:n2	nazwa firmy	
-RAI	RAI	subst:pl:inst:n2	nazwa firmy	
-RAI	RAI	subst:pl:loc:n2	nazwa firmy	
-RAI	RAI	subst:pl:nom:n2	nazwa firmy	
-RAI	RAI	subst:pl:voc:n2	nazwa firmy	
+RAI	RAI	subst:pl:acc:n:ncol	nazwa firmy	
+RAI	RAI	subst:pl:dat:n:ncol	nazwa firmy	
+RAI	RAI	subst:pl:gen:n:ncol	nazwa firmy	
+RAI	RAI	subst:pl:inst:n:ncol	nazwa firmy	
+RAI	RAI	subst:pl:loc:n:ncol	nazwa firmy	
+RAI	RAI	subst:pl:nom:n:ncol	nazwa firmy	
+RAI	RAI	subst:pl:voc:n:ncol	nazwa firmy	
 RAI	RAI	subst:sg:acc:m3	nazwa firmy	
-RAI	RAI	subst:sg:acc:n2	nazwa firmy	
-RAI	RAI	subst:sg:dat:n2	nazwa firmy	
-RAI	RAI	subst:sg:gen:n2	nazwa firmy	
-RAI	RAI	subst:sg:inst:n2	nazwa firmy	
-RAI	RAI	subst:sg:loc:n2	nazwa firmy	
+RAI	RAI	subst:sg:acc:n:ncol	nazwa firmy	
+RAI	RAI	subst:sg:dat:n:ncol	nazwa firmy	
+RAI	RAI	subst:sg:gen:n:ncol	nazwa firmy	
+RAI	RAI	subst:sg:inst:n:ncol	nazwa firmy	
+RAI	RAI	subst:sg:loc:n:ncol	nazwa firmy	
 RAI	RAI	subst:sg:nom:m3	nazwa firmy	
-RAI	RAI	subst:sg:nom:n2	nazwa firmy	
-RAI	RAI	subst:sg:voc:n2	nazwa firmy	
+RAI	RAI	subst:sg:nom:n:ncol	nazwa firmy	
+RAI	RAI	subst:sg:voc:n:ncol	nazwa firmy	
 RAI-u	RAI	subst:sg:gen:m3	nazwa firmy	
 RAI-u	RAI	subst:sg:loc:m3	nazwa firmy	
 RAI-u	RAI	subst:sg:voc:m3	nazwa firmy	
@@ -1440,34 +1440,34 @@ Rakoczy	Rakoczy	subst:pl:nom:m1	nazwisko
 Rakoczy	Rakoczy	subst:pl:voc:m1	nazwisko	
 Rakoczy	Rakoczy	subst:sg:nom:m1	nazwisko	
 Rakoczy	Rakoczy	subst:sg:voc:m1	nazwisko	
-Rakoniewicach	Rakoniewice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Rakoniewicach	Rakoniewice	subst:pl:loc:p3	nazwa geograficzna	
-Rakoniewicami	Rakoniewice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Rakoniewicami	Rakoniewice	subst:pl:inst:p3	nazwa geograficzna	
-Rakoniewice	Rakoniewice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Rakoniewice	Rakoniewice	subst:pl:acc:p3	nazwa geograficzna	
-Rakoniewice	Rakoniewice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Rakoniewice	Rakoniewice	subst:pl:nom:p3	nazwa geograficzna	
-Rakoniewice	Rakoniewice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Rakoniewice	Rakoniewice	subst:pl:voc:p3	nazwa geograficzna	
-Rakoniewicom	Rakoniewice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Rakoniewicom	Rakoniewice	subst:pl:dat:p3	nazwa geograficzna	
-Rakoniewic	Rakoniewice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Rakoniewic	Rakoniewice	subst:pl:gen:p3	nazwa geograficzna	
-Rakowicach	Rakowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Rakowicach	Rakowice	subst:pl:loc:p3	nazwa geograficzna	
-Rakowicami	Rakowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Rakowicami	Rakowice	subst:pl:inst:p3	nazwa geograficzna	
-Rakowice	Rakowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Rakowice	Rakowice	subst:pl:acc:p3	nazwa geograficzna	
-Rakowice	Rakowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Rakowice	Rakowice	subst:pl:nom:p3	nazwa geograficzna	
-Rakowice	Rakowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Rakowice	Rakowice	subst:pl:voc:p3	nazwa geograficzna	
-Rakowicom	Rakowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Rakowicom	Rakowice	subst:pl:dat:p3	nazwa geograficzna	
-Rakowic	Rakowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Rakowic	Rakowice	subst:pl:gen:p3	nazwa geograficzna	
+Rakoniewicach	Rakoniewice	subst:pl:loc:n:pt	nazwa geograficzna	
+Rakoniewicach	Rakoniewice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Rakoniewicami	Rakoniewice	subst:pl:inst:n:pt	nazwa geograficzna	
+Rakoniewicami	Rakoniewice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Rakoniewice	Rakoniewice	subst:pl:acc:n:pt	nazwa geograficzna	
+Rakoniewice	Rakoniewice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Rakoniewice	Rakoniewice	subst:pl:nom:n:pt	nazwa geograficzna	
+Rakoniewice	Rakoniewice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Rakoniewice	Rakoniewice	subst:pl:voc:n:pt	nazwa geograficzna	
+Rakoniewice	Rakoniewice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Rakoniewicom	Rakoniewice	subst:pl:dat:n:pt	nazwa geograficzna	
+Rakoniewicom	Rakoniewice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Rakoniewic	Rakoniewice	subst:pl:gen:n:pt	nazwa geograficzna	
+Rakoniewic	Rakoniewice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Rakowicach	Rakowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Rakowicach	Rakowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Rakowicami	Rakowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Rakowicami	Rakowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Rakowice	Rakowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Rakowice	Rakowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Rakowice	Rakowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Rakowice	Rakowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Rakowice	Rakowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Rakowice	Rakowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Rakowicom	Rakowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Rakowicom	Rakowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Rakowic	Rakowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Rakowic	Rakowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Rakowcach	Rakowiec	subst:pl:loc:m3	nazwa geograficzna	
 Rakowcami	Rakowiec	subst:pl:inst:m3	nazwa geograficzna	
 Rakowca	Rakowiec	subst:sg:gen:m3	nazwa geograficzna	
@@ -2077,20 +2077,20 @@ Ravelów	Ravel	subst:pl:gen:m1	nazwisko
 Ravel	Ravel	subst:sg:nom:m1	nazwisko	
 Ravelu	Ravel	subst:sg:loc:m1	nazwisko	
 Ravelu	Ravel	subst:sg:voc:m1	nazwisko	
-Ravensbrück	Ravensbrück	subst:pl:acc:n2	nazwa geograficzna	
-Ravensbrück	Ravensbrück	subst:pl:dat:n2	nazwa geograficzna	
-Ravensbrück	Ravensbrück	subst:pl:gen:n2	nazwa geograficzna	
-Ravensbrück	Ravensbrück	subst:pl:inst:n2	nazwa geograficzna	
-Ravensbrück	Ravensbrück	subst:pl:loc:n2	nazwa geograficzna	
-Ravensbrück	Ravensbrück	subst:pl:nom:n2	nazwa geograficzna	
-Ravensbrück	Ravensbrück	subst:pl:voc:n2	nazwa geograficzna	
-Ravensbrück	Ravensbrück	subst:sg:acc:n2	nazwa geograficzna	
-Ravensbrück	Ravensbrück	subst:sg:dat:n2	nazwa geograficzna	
-Ravensbrück	Ravensbrück	subst:sg:gen:n2	nazwa geograficzna	
-Ravensbrück	Ravensbrück	subst:sg:inst:n2	nazwa geograficzna	
-Ravensbrück	Ravensbrück	subst:sg:loc:n2	nazwa geograficzna	
-Ravensbrück	Ravensbrück	subst:sg:nom:n2	nazwa geograficzna	
-Ravensbrück	Ravensbrück	subst:sg:voc:n2	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:pl:acc:n:ncol	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:pl:dat:n:ncol	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:pl:inst:n:ncol	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:pl:loc:n:ncol	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:pl:nom:n:ncol	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:pl:voc:n:ncol	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:sg:acc:n:ncol	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:sg:dat:n:ncol	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:sg:gen:n:ncol	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:sg:inst:n:ncol	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:sg:loc:n:ncol	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:sg:nom:n:ncol	nazwa geograficzna	
+Ravensbrück	Ravensbrück	subst:sg:voc:n:ncol	nazwa geograficzna	
 Rawach	Rawa	subst:pl:loc:f	nazwa geograficzna	
 Rawami	Rawa	subst:pl:inst:f	nazwa geograficzna	
 Rawa	Rawa	subst:sg:nom:f	nazwa geograficzna	
@@ -2147,20 +2147,20 @@ Rawiczu	Rawicz	subst:sg:loc:m3	nazwa geograficzna	rzad.
 Rawiczu	Rawicz	subst:sg:voc:m3	nazwa geograficzna	
 Rawiczu	Rawicz	subst:sg:voc:m3	nazwa geograficzna	rzad.
 Rawiczy	Rawicz	subst:pl:gen:m3	nazwa geograficzna	
-RCA	RCA	subst:pl:acc:n2	nazwa firmy	
-RCA	RCA	subst:pl:dat:n2	nazwa firmy	
-RCA	RCA	subst:pl:gen:n2	nazwa firmy	
-RCA	RCA	subst:pl:inst:n2	nazwa firmy	
-RCA	RCA	subst:pl:loc:n2	nazwa firmy	
-RCA	RCA	subst:pl:nom:n2	nazwa firmy	
-RCA	RCA	subst:pl:voc:n2	nazwa firmy	
-RCA	RCA	subst:sg:acc:n2	nazwa firmy	
-RCA	RCA	subst:sg:dat:n2	nazwa firmy	
-RCA	RCA	subst:sg:gen:n2	nazwa firmy	
-RCA	RCA	subst:sg:inst:n2	nazwa firmy	
-RCA	RCA	subst:sg:loc:n2	nazwa firmy	
-RCA	RCA	subst:sg:nom:n2	nazwa firmy	
-RCA	RCA	subst:sg:voc:n2	nazwa firmy	
+RCA	RCA	subst:pl:acc:n:ncol	nazwa firmy	
+RCA	RCA	subst:pl:dat:n:ncol	nazwa firmy	
+RCA	RCA	subst:pl:gen:n:ncol	nazwa firmy	
+RCA	RCA	subst:pl:inst:n:ncol	nazwa firmy	
+RCA	RCA	subst:pl:loc:n:ncol	nazwa firmy	
+RCA	RCA	subst:pl:nom:n:ncol	nazwa firmy	
+RCA	RCA	subst:pl:voc:n:ncol	nazwa firmy	
+RCA	RCA	subst:sg:acc:n:ncol	nazwa firmy	
+RCA	RCA	subst:sg:dat:n:ncol	nazwa firmy	
+RCA	RCA	subst:sg:gen:n:ncol	nazwa firmy	
+RCA	RCA	subst:sg:inst:n:ncol	nazwa firmy	
+RCA	RCA	subst:sg:loc:n:ncol	nazwa firmy	
+RCA	RCA	subst:sg:nom:n:ncol	nazwa firmy	
+RCA	RCA	subst:sg:voc:n:ncol	nazwa firmy	
 RdR-ach	RdR	subst:pl:loc:m3	nazwa organizacji	
 RdR-ami	RdR	subst:pl:inst:m3	nazwa organizacji	
 RdR-em	RdR	subst:sg:inst:m3	nazwa organizacji	
@@ -2176,33 +2176,33 @@ RdR-y	RdR	subst:pl:voc:m3	nazwa organizacji
 RdR-ze	RdR	subst:sg:loc:m3	nazwa organizacji	
 RdR-ze	RdR	subst:sg:voc:m3	nazwa organizacji	
 RE	RE	subst:pl:acc:f	nazwa organizacji	
-RE	RE	subst:pl:acc:n2	nazwa organizacji	
+RE	RE	subst:pl:acc:n:ncol	nazwa organizacji	
 RE	RE	subst:pl:dat:f	nazwa organizacji	
-RE	RE	subst:pl:dat:n2	nazwa organizacji	
+RE	RE	subst:pl:dat:n:ncol	nazwa organizacji	
 RE	RE	subst:pl:gen:f	nazwa organizacji	
-RE	RE	subst:pl:gen:n2	nazwa organizacji	
+RE	RE	subst:pl:gen:n:ncol	nazwa organizacji	
 RE	RE	subst:pl:inst:f	nazwa organizacji	
-RE	RE	subst:pl:inst:n2	nazwa organizacji	
+RE	RE	subst:pl:inst:n:ncol	nazwa organizacji	
 RE	RE	subst:pl:loc:f	nazwa organizacji	
-RE	RE	subst:pl:loc:n2	nazwa organizacji	
+RE	RE	subst:pl:loc:n:ncol	nazwa organizacji	
 RE	RE	subst:pl:nom:f	nazwa organizacji	
-RE	RE	subst:pl:nom:n2	nazwa organizacji	
+RE	RE	subst:pl:nom:n:ncol	nazwa organizacji	
 RE	RE	subst:pl:voc:f	nazwa organizacji	
-RE	RE	subst:pl:voc:n2	nazwa organizacji	
+RE	RE	subst:pl:voc:n:ncol	nazwa organizacji	
 RE	RE	subst:sg:acc:f	nazwa organizacji	
-RE	RE	subst:sg:acc:n2	nazwa organizacji	
+RE	RE	subst:sg:acc:n:ncol	nazwa organizacji	
 RE	RE	subst:sg:dat:f	nazwa organizacji	
-RE	RE	subst:sg:dat:n2	nazwa organizacji	
+RE	RE	subst:sg:dat:n:ncol	nazwa organizacji	
 RE	RE	subst:sg:gen:f	nazwa organizacji	
-RE	RE	subst:sg:gen:n2	nazwa organizacji	
+RE	RE	subst:sg:gen:n:ncol	nazwa organizacji	
 RE	RE	subst:sg:inst:f	nazwa organizacji	
-RE	RE	subst:sg:inst:n2	nazwa organizacji	
+RE	RE	subst:sg:inst:n:ncol	nazwa organizacji	
 RE	RE	subst:sg:loc:f	nazwa organizacji	
-RE	RE	subst:sg:loc:n2	nazwa organizacji	
+RE	RE	subst:sg:loc:n:ncol	nazwa organizacji	
 RE	RE	subst:sg:nom:f	nazwa organizacji	
-RE	RE	subst:sg:nom:n2	nazwa organizacji	
+RE	RE	subst:sg:nom:n:ncol	nazwa organizacji	
 RE	RE	subst:sg:voc:f	nazwa organizacji	
-RE	RE	subst:sg:voc:n2	nazwa organizacji	
+RE	RE	subst:sg:voc:n:ncol	nazwa organizacji	
 Reaganach	Reagan	subst:pl:loc:m1	nazwisko	
 Reaganami	Reagan	subst:pl:inst:m1	nazwisko	
 Reagana	Reagan	subst:sg:acc:m1	nazwisko	
@@ -2797,20 +2797,20 @@ Renoiry	Renoir	depr:pl:nom:m2	nazwisko
 Renoiry	Renoir	depr:pl:voc:m2	nazwisko	
 Renoirze	Renoir	subst:sg:loc:m1	nazwisko	
 Renoirze	Renoir	subst:sg:voc:m1	nazwisko	
-Reskach	Resko	subst:pl:loc:n2	nazwa geograficzna	
-Reskami	Resko	subst:pl:inst:n2	nazwa geograficzna	
-Reska	Resko	subst:pl:acc:n2	nazwa geograficzna	
-Reska	Resko	subst:pl:nom:n2	nazwa geograficzna	
-Reska	Resko	subst:pl:voc:n2	nazwa geograficzna	
-Reska	Resko	subst:sg:gen:n2	nazwa geograficzna	
-Reskiem	Resko	subst:sg:inst:n2	nazwa geograficzna	
-Reskom	Resko	subst:pl:dat:n2	nazwa geograficzna	
-Resko	Resko	subst:sg:acc:n2	nazwa geograficzna	
-Resko	Resko	subst:sg:nom:n2	nazwa geograficzna	
-Resko	Resko	subst:sg:voc:n2	nazwa geograficzna	
-Resk	Resko	subst:pl:gen:n2	nazwa geograficzna	
-Resku	Resko	subst:sg:dat:n2	nazwa geograficzna	
-Resku	Resko	subst:sg:loc:n2	nazwa geograficzna	
+Reskach	Resko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Reskami	Resko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Reska	Resko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Reska	Resko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Reska	Resko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Reska	Resko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Reskiem	Resko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Reskom	Resko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Resko	Resko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Resko	Resko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Resko	Resko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Resk	Resko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Resku	Resko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Resku	Resko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Resnais’go	Resnais	subst:sg:acc:m1	nazwisko	
 Resnais’go	Resnais	subst:sg:gen:m1	nazwisko	
 Resnais’m	Resnais	subst:sg:inst:m1	nazwisko	
@@ -2986,20 +2986,20 @@ Rębiszów	Rębisz	subst:pl:gen:m1	nazwisko
 Rębisz	Rębisz	subst:sg:nom:m1	nazwisko	
 Rębiszu	Rębisz	subst:sg:loc:m1	nazwisko	
 Rębiszu	Rębisz	subst:sg:voc:m1	nazwisko	
-Rędzinach	Rędziny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Rędzinach	Rędziny	subst:pl:loc:p3	nazwa geograficzna	
-Rędzinami	Rędziny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Rędzinami	Rędziny	subst:pl:inst:p3	nazwa geograficzna	
-Rędzinom	Rędziny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Rędzinom	Rędziny	subst:pl:dat:p3	nazwa geograficzna	
-Rędzin	Rędziny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Rędzin	Rędziny	subst:pl:gen:p3	nazwa geograficzna	
-Rędziny	Rędziny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Rędziny	Rędziny	subst:pl:acc:p3	nazwa geograficzna	
-Rędziny	Rędziny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Rędziny	Rędziny	subst:pl:nom:p3	nazwa geograficzna	
-Rędziny	Rędziny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Rędziny	Rędziny	subst:pl:voc:p3	nazwa geograficzna	
+Rędzinach	Rędziny	subst:pl:loc:n:pt	nazwa geograficzna	
+Rędzinach	Rędziny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Rędzinami	Rędziny	subst:pl:inst:n:pt	nazwa geograficzna	
+Rędzinami	Rędziny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Rędzinom	Rędziny	subst:pl:dat:n:pt	nazwa geograficzna	
+Rędzinom	Rędziny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Rędzin	Rędziny	subst:pl:gen:n:pt	nazwa geograficzna	
+Rędzin	Rędziny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Rędziny	Rędziny	subst:pl:acc:n:pt	nazwa geograficzna	
+Rędziny	Rędziny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Rędziny	Rędziny	subst:pl:nom:n:pt	nazwa geograficzna	
+Rędziny	Rędziny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Rędziny	Rędziny	subst:pl:voc:n:pt	nazwa geograficzna	
+Rędziny	Rędziny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 RFN-ach	RFN	subst:pl:loc:m3	nazwa geograficzna	
 RFN-ami	RFN	subst:pl:inst:m3	nazwa geograficzna	
 RFN-em	RFN	subst:sg:inst:m3	nazwa geograficzna	
@@ -3014,27 +3014,27 @@ RFN-u	RFN	subst:sg:gen:m3	nazwa geograficzna
 RFN-y	RFN	subst:pl:acc:m3	nazwa geograficzna	
 RFN-y	RFN	subst:pl:nom:m3	nazwa geograficzna	
 RFN-y	RFN	subst:pl:voc:m3	nazwa geograficzna	
-RFN-owscy	RFN-owski	adj:pl:nom.voc:m1.p1:pos		
+RFN-owscy	RFN-owski	adj:pl:nom.voc:m1:pos		
 RFN-owska	RFN-owski	adj:sg:nom.voc:f:pos		
 RFN-owską	RFN-owski	adj:sg:acc:f:pos		
 RFN-owską	RFN-owski	adj:sg:inst:f:pos		
-RFN-owskich	RFN-owski	adj:pl:acc:m1.p1:pos		
-RFN-owskich	RFN-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-RFN-owskich	RFN-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+RFN-owskich	RFN-owski	adj:pl:acc:m1:pos		
+RFN-owskich	RFN-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+RFN-owskich	RFN-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
 RFN-owskiego	RFN-owski	adj:sg:acc:m1.m2:pos		
-RFN-owskiego	RFN-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+RFN-owskiego	RFN-owski	adj:sg:gen:m1.m2.m3.n:pos		
 RFN-owskiej	RFN-owski	adj:sg:dat:f:pos		
 RFN-owskiej	RFN-owski	adj:sg:gen:f:pos		
 RFN-owskiej	RFN-owski	adj:sg:loc:f:pos		
-RFN-owskiemu	RFN-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-RFN-owskie	RFN-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-RFN-owskie	RFN-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-RFN-owskie	RFN-owski	adj:sg:acc:n1.n2:pos		
-RFN-owskie	RFN-owski	adj:sg:nom.voc:n1.n2:pos		
-RFN-owskimi	RFN-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-RFN-owskim	RFN-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-RFN-owskim	RFN-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-RFN-owskim	RFN-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+RFN-owskiemu	RFN-owski	adj:sg:dat:m1.m2.m3.n:pos		
+RFN-owskie	RFN-owski	adj:pl:acc:m2.m3.f.n:pos		
+RFN-owskie	RFN-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+RFN-owskie	RFN-owski	adj:sg:acc:n:pos		
+RFN-owskie	RFN-owski	adj:sg:nom.voc:n:pos		
+RFN-owskimi	RFN-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
+RFN-owskim	RFN-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+RFN-owskim	RFN-owski	adj:sg:inst:m1.m2.m3.n:pos		
+RFN-owskim	RFN-owski	adj:sg:loc:m1.m2.m3.n:pos		
 RFN-owski	RFN-owski	adj:sg:acc:m3:pos		
 RFN-owski	RFN-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 RFN-owsko	RFN-owski	adja		
@@ -3057,47 +3057,47 @@ Rgieł	Rgieł	subst:sg:nom:m1	imię
 Rgieły	Rgieł	depr:pl:nom:m2	imię	
 Rgieły	Rgieł	depr:pl:voc:m2	imię	
 RGO	RGO	subst:pl:acc:f	nazwa organizacji	
-RGO	RGO	subst:pl:acc:n2	nazwa organizacji	
+RGO	RGO	subst:pl:acc:n:ncol	nazwa organizacji	
 RGO	RGO	subst:pl:dat:f	nazwa organizacji	
-RGO	RGO	subst:pl:dat:n2	nazwa organizacji	
+RGO	RGO	subst:pl:dat:n:ncol	nazwa organizacji	
 RGO	RGO	subst:pl:gen:f	nazwa organizacji	
-RGO	RGO	subst:pl:gen:n2	nazwa organizacji	
+RGO	RGO	subst:pl:gen:n:ncol	nazwa organizacji	
 RGO	RGO	subst:pl:inst:f	nazwa organizacji	
-RGO	RGO	subst:pl:inst:n2	nazwa organizacji	
+RGO	RGO	subst:pl:inst:n:ncol	nazwa organizacji	
 RGO	RGO	subst:pl:loc:f	nazwa organizacji	
-RGO	RGO	subst:pl:loc:n2	nazwa organizacji	
+RGO	RGO	subst:pl:loc:n:ncol	nazwa organizacji	
 RGO	RGO	subst:pl:nom:f	nazwa organizacji	
-RGO	RGO	subst:pl:nom:n2	nazwa organizacji	
+RGO	RGO	subst:pl:nom:n:ncol	nazwa organizacji	
 RGO	RGO	subst:pl:voc:f	nazwa organizacji	
-RGO	RGO	subst:pl:voc:n2	nazwa organizacji	
+RGO	RGO	subst:pl:voc:n:ncol	nazwa organizacji	
 RGO	RGO	subst:sg:acc:f	nazwa organizacji	
-RGO	RGO	subst:sg:acc:n2	nazwa organizacji	
+RGO	RGO	subst:sg:acc:n:ncol	nazwa organizacji	
 RGO	RGO	subst:sg:dat:f	nazwa organizacji	
-RGO	RGO	subst:sg:dat:n2	nazwa organizacji	
+RGO	RGO	subst:sg:dat:n:ncol	nazwa organizacji	
 RGO	RGO	subst:sg:gen:f	nazwa organizacji	
-RGO	RGO	subst:sg:gen:n2	nazwa organizacji	
+RGO	RGO	subst:sg:gen:n:ncol	nazwa organizacji	
 RGO	RGO	subst:sg:inst:f	nazwa organizacji	
-RGO	RGO	subst:sg:inst:n2	nazwa organizacji	
+RGO	RGO	subst:sg:inst:n:ncol	nazwa organizacji	
 RGO	RGO	subst:sg:loc:f	nazwa organizacji	
-RGO	RGO	subst:sg:loc:n2	nazwa organizacji	
+RGO	RGO	subst:sg:loc:n:ncol	nazwa organizacji	
 RGO	RGO	subst:sg:nom:f	nazwa organizacji	
-RGO	RGO	subst:sg:nom:n2	nazwa organizacji	
+RGO	RGO	subst:sg:nom:n:ncol	nazwa organizacji	
 RGO	RGO	subst:sg:voc:f	nazwa organizacji	
-RGO	RGO	subst:sg:voc:n2	nazwa organizacji	
-Rh	Rh	subst:pl:acc:n2	nazwa pospolita	
-Rh	Rh	subst:pl:dat:n2	nazwa pospolita	
-Rh	Rh	subst:pl:gen:n2	nazwa pospolita	
-Rh	Rh	subst:pl:inst:n2	nazwa pospolita	
-Rh	Rh	subst:pl:loc:n2	nazwa pospolita	
-Rh	Rh	subst:pl:nom:n2	nazwa pospolita	
-Rh	Rh	subst:pl:voc:n2	nazwa pospolita	
-Rh	Rh	subst:sg:acc:n2	nazwa pospolita	
-Rh	Rh	subst:sg:dat:n2	nazwa pospolita	
-Rh	Rh	subst:sg:gen:n2	nazwa pospolita	
-Rh	Rh	subst:sg:inst:n2	nazwa pospolita	
-Rh	Rh	subst:sg:loc:n2	nazwa pospolita	
-Rh	Rh	subst:sg:nom:n2	nazwa pospolita	
-Rh	Rh	subst:sg:voc:n2	nazwa pospolita	
+RGO	RGO	subst:sg:voc:n:ncol	nazwa organizacji	
+Rh	Rh	subst:pl:acc:n:ncol	nazwa pospolita	
+Rh	Rh	subst:pl:dat:n:ncol	nazwa pospolita	
+Rh	Rh	subst:pl:gen:n:ncol	nazwa pospolita	
+Rh	Rh	subst:pl:inst:n:ncol	nazwa pospolita	
+Rh	Rh	subst:pl:loc:n:ncol	nazwa pospolita	
+Rh	Rh	subst:pl:nom:n:ncol	nazwa pospolita	
+Rh	Rh	subst:pl:voc:n:ncol	nazwa pospolita	
+Rh	Rh	subst:sg:acc:n:ncol	nazwa pospolita	
+Rh	Rh	subst:sg:dat:n:ncol	nazwa pospolita	
+Rh	Rh	subst:sg:gen:n:ncol	nazwa pospolita	
+Rh	Rh	subst:sg:inst:n:ncol	nazwa pospolita	
+Rh	Rh	subst:sg:loc:n:ncol	nazwa pospolita	
+Rh	Rh	subst:sg:nom:n:ncol	nazwa pospolita	
+Rh	Rh	subst:sg:voc:n:ncol	nazwa pospolita	
 Riazaniach	Riazań	subst:pl:loc:m3	nazwa geograficzna	
 Riazaniami	Riazań	subst:pl:inst:m3	nazwa geograficzna	
 Riazania	Riazań	subst:sg:gen:m3	nazwa geograficzna	
@@ -3375,54 +3375,54 @@ RMF-ie	RMF	subst:sg:voc:m3	nazwa firmy
 RMF-om	RMF	subst:pl:dat:m3	nazwa firmy	
 RMF-owi	RMF	subst:sg:dat:m3	nazwa firmy	
 RMF-ów	RMF	subst:pl:gen:m3	nazwa firmy	
-RMF	RMF	subst:pl:acc:n2	nazwa firmy	
-RMF	RMF	subst:pl:dat:n2	nazwa firmy	
-RMF	RMF	subst:pl:gen:n2	nazwa firmy	
-RMF	RMF	subst:pl:inst:n2	nazwa firmy	
-RMF	RMF	subst:pl:loc:n2	nazwa firmy	
-RMF	RMF	subst:pl:nom:n2	nazwa firmy	
-RMF	RMF	subst:pl:voc:n2	nazwa firmy	
+RMF	RMF	subst:pl:acc:n:ncol	nazwa firmy	
+RMF	RMF	subst:pl:dat:n:ncol	nazwa firmy	
+RMF	RMF	subst:pl:gen:n:ncol	nazwa firmy	
+RMF	RMF	subst:pl:inst:n:ncol	nazwa firmy	
+RMF	RMF	subst:pl:loc:n:ncol	nazwa firmy	
+RMF	RMF	subst:pl:nom:n:ncol	nazwa firmy	
+RMF	RMF	subst:pl:voc:n:ncol	nazwa firmy	
 RMF	RMF	subst:sg:acc:m3	nazwa firmy	
-RMF	RMF	subst:sg:acc:n2	nazwa firmy	
-RMF	RMF	subst:sg:dat:n2	nazwa firmy	
-RMF	RMF	subst:sg:gen:n2	nazwa firmy	
-RMF	RMF	subst:sg:inst:n2	nazwa firmy	
-RMF	RMF	subst:sg:loc:n2	nazwa firmy	
+RMF	RMF	subst:sg:acc:n:ncol	nazwa firmy	
+RMF	RMF	subst:sg:dat:n:ncol	nazwa firmy	
+RMF	RMF	subst:sg:gen:n:ncol	nazwa firmy	
+RMF	RMF	subst:sg:inst:n:ncol	nazwa firmy	
+RMF	RMF	subst:sg:loc:n:ncol	nazwa firmy	
 RMF	RMF	subst:sg:nom:m3	nazwa firmy	
-RMF	RMF	subst:sg:nom:n2	nazwa firmy	
-RMF	RMF	subst:sg:voc:n2	nazwa firmy	
+RMF	RMF	subst:sg:nom:n:ncol	nazwa firmy	
+RMF	RMF	subst:sg:voc:n:ncol	nazwa firmy	
 RMF-u	RMF	subst:sg:gen:m3	nazwa firmy	
 RMF-y	RMF	subst:pl:acc:m3	nazwa firmy	
 RMF-y	RMF	subst:pl:nom:m3	nazwa firmy	
 RMF-y	RMF	subst:pl:voc:m3	nazwa firmy	
 RNA	RNA	subst:pl:acc:m3	nazwa pospolita	
-RNA	RNA	subst:pl:acc:n2	nazwa pospolita	
+RNA	RNA	subst:pl:acc:n:ncol	nazwa pospolita	
 RNA	RNA	subst:pl:dat:m3	nazwa pospolita	
-RNA	RNA	subst:pl:dat:n2	nazwa pospolita	
+RNA	RNA	subst:pl:dat:n:ncol	nazwa pospolita	
 RNA	RNA	subst:pl:gen:m3	nazwa pospolita	
-RNA	RNA	subst:pl:gen:n2	nazwa pospolita	
+RNA	RNA	subst:pl:gen:n:ncol	nazwa pospolita	
 RNA	RNA	subst:pl:inst:m3	nazwa pospolita	
-RNA	RNA	subst:pl:inst:n2	nazwa pospolita	
+RNA	RNA	subst:pl:inst:n:ncol	nazwa pospolita	
 RNA	RNA	subst:pl:loc:m3	nazwa pospolita	
-RNA	RNA	subst:pl:loc:n2	nazwa pospolita	
+RNA	RNA	subst:pl:loc:n:ncol	nazwa pospolita	
 RNA	RNA	subst:pl:nom:m3	nazwa pospolita	
-RNA	RNA	subst:pl:nom:n2	nazwa pospolita	
+RNA	RNA	subst:pl:nom:n:ncol	nazwa pospolita	
 RNA	RNA	subst:pl:voc:m3	nazwa pospolita	
-RNA	RNA	subst:pl:voc:n2	nazwa pospolita	
+RNA	RNA	subst:pl:voc:n:ncol	nazwa pospolita	
 RNA	RNA	subst:sg:acc:m3	nazwa pospolita	
-RNA	RNA	subst:sg:acc:n2	nazwa pospolita	
+RNA	RNA	subst:sg:acc:n:ncol	nazwa pospolita	
 RNA	RNA	subst:sg:dat:m3	nazwa pospolita	
-RNA	RNA	subst:sg:dat:n2	nazwa pospolita	
+RNA	RNA	subst:sg:dat:n:ncol	nazwa pospolita	
 RNA	RNA	subst:sg:gen:m3	nazwa pospolita	
-RNA	RNA	subst:sg:gen:n2	nazwa pospolita	
+RNA	RNA	subst:sg:gen:n:ncol	nazwa pospolita	
 RNA	RNA	subst:sg:inst:m3	nazwa pospolita	
-RNA	RNA	subst:sg:inst:n2	nazwa pospolita	
+RNA	RNA	subst:sg:inst:n:ncol	nazwa pospolita	
 RNA	RNA	subst:sg:loc:m3	nazwa pospolita	
-RNA	RNA	subst:sg:loc:n2	nazwa pospolita	
+RNA	RNA	subst:sg:loc:n:ncol	nazwa pospolita	
 RNA	RNA	subst:sg:nom:m3	nazwa pospolita	
-RNA	RNA	subst:sg:nom:n2	nazwa pospolita	
+RNA	RNA	subst:sg:nom:n:ncol	nazwa pospolita	
 RNA	RNA	subst:sg:voc:m3	nazwa pospolita	
-RNA	RNA	subst:sg:voc:n2	nazwa pospolita	
+RNA	RNA	subst:sg:voc:n:ncol	nazwa pospolita	
 RN-ach	RN:s1	subst:pl:loc:m3	nazwa organizacji	
 RN-ami	RN:s1	subst:pl:inst:m3	nazwa organizacji	
 RN-em	RN:s1	subst:sg:inst:m3	nazwa organizacji	
@@ -3997,22 +3997,22 @@ Rogery	Roger	depr:pl:nom:m2	imię
 Rogery	Roger	depr:pl:voc:m2	imię	
 Rogerze	Roger	subst:sg:loc:m1	imię	
 Rogerze	Roger	subst:sg:voc:m1	imię	
-Rogowach	Rogowo	subst:pl:loc:n2	nazwa geograficzna	
-Rogowami	Rogowo	subst:pl:inst:n2	nazwa geograficzna	
-Rogowa	Rogowo	subst:pl:acc:n2	nazwa geograficzna	
-Rogowa	Rogowo	subst:pl:nom:n2	nazwa geograficzna	
-Rogowa	Rogowo	subst:pl:voc:n2	nazwa geograficzna	
-Rogowa	Rogowo	subst:sg:gen:n2	nazwa geograficzna	
-Rogowem	Rogowo	subst:sg:inst:n2	nazwa geograficzna	
-Rogowie	Rogowo	subst:sg:loc:n2	nazwa geograficzna	
-Rogowom	Rogowo	subst:pl:dat:n2	nazwa geograficzna	
-Rogowo	Rogowo	subst:sg:acc:n2	nazwa geograficzna	
-Rogowo	Rogowo	subst:sg:nom:n2	nazwa geograficzna	
-Rogowo	Rogowo	subst:sg:voc:n2	nazwa geograficzna	
-Rogowów	Rogowo	subst:pl:gen:n2	nazwa geograficzna	
-Rogow	Rogowo	subst:pl:gen:n2	nazwa geograficzna	
-Rogowu	Rogowo	subst:sg:dat:n2	nazwa geograficzna	
-Rogów	Rogowo	subst:pl:gen:n2	nazwa geograficzna	
+Rogowach	Rogowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Rogowami	Rogowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Rogowa	Rogowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Rogowa	Rogowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Rogowa	Rogowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Rogowa	Rogowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Rogowem	Rogowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Rogowie	Rogowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Rogowom	Rogowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Rogowo	Rogowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Rogowo	Rogowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Rogowo	Rogowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Rogowów	Rogowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Rogow	Rogowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Rogowu	Rogowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Rogów	Rogowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Rogowska	Rogowska	subst:sg:nom:f	nazwisko	
 Rogowska	Rogowska	subst:sg:voc:f	nazwisko	
 Rogowską	Rogowska	subst:sg:acc:f	nazwisko	
@@ -4162,34 +4162,34 @@ Roguskim	Roguski	subst:sg:inst:m1	nazwisko
 Roguskim	Roguski	subst:sg:loc:m1	nazwisko	
 Roguski	Roguski	subst:sg:nom:m1	nazwisko	
 Roguski	Roguski	subst:sg:voc:m1	nazwisko	
-Rojewach	Rojewo	subst:pl:loc:n2	nazwa geograficzna	
-Rojewami	Rojewo	subst:pl:inst:n2	nazwa geograficzna	
-Rojewa	Rojewo	subst:pl:acc:n2	nazwa geograficzna	
-Rojewa	Rojewo	subst:pl:nom:n2	nazwa geograficzna	
-Rojewa	Rojewo	subst:pl:voc:n2	nazwa geograficzna	
-Rojewa	Rojewo	subst:sg:gen:n2	nazwa geograficzna	
-Rojewem	Rojewo	subst:sg:inst:n2	nazwa geograficzna	
-Rojewie	Rojewo	subst:sg:loc:n2	nazwa geograficzna	
-Rojewom	Rojewo	subst:pl:dat:n2	nazwa geograficzna	
-Rojewo	Rojewo	subst:sg:acc:n2	nazwa geograficzna	
-Rojewo	Rojewo	subst:sg:nom:n2	nazwa geograficzna	
-Rojewo	Rojewo	subst:sg:voc:n2	nazwa geograficzna	
-Rojew	Rojewo	subst:pl:gen:n2	nazwa geograficzna	
-Rojewu	Rojewo	subst:sg:dat:n2	nazwa geograficzna	
-Rokicinach	Rokiciny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Rokicinach	Rokiciny	subst:pl:loc:p3	nazwa geograficzna	
-Rokicinami	Rokiciny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Rokicinami	Rokiciny	subst:pl:inst:p3	nazwa geograficzna	
-Rokicinom	Rokiciny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Rokicinom	Rokiciny	subst:pl:dat:p3	nazwa geograficzna	
-Rokicin	Rokiciny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Rokicin	Rokiciny	subst:pl:gen:p3	nazwa geograficzna	
-Rokiciny	Rokiciny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Rokiciny	Rokiciny	subst:pl:acc:p3	nazwa geograficzna	
-Rokiciny	Rokiciny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Rokiciny	Rokiciny	subst:pl:nom:p3	nazwa geograficzna	
-Rokiciny	Rokiciny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Rokiciny	Rokiciny	subst:pl:voc:p3	nazwa geograficzna	
+Rojewach	Rojewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Rojewami	Rojewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Rojewa	Rojewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Rojewa	Rojewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Rojewa	Rojewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Rojewa	Rojewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Rojewem	Rojewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Rojewie	Rojewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Rojewom	Rojewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Rojewo	Rojewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Rojewo	Rojewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Rojewo	Rojewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Rojew	Rojewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Rojewu	Rojewo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Rokicinach	Rokiciny	subst:pl:loc:n:pt	nazwa geograficzna	
+Rokicinach	Rokiciny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Rokicinami	Rokiciny	subst:pl:inst:n:pt	nazwa geograficzna	
+Rokicinami	Rokiciny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Rokicinom	Rokiciny	subst:pl:dat:n:pt	nazwa geograficzna	
+Rokicinom	Rokiciny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Rokicin	Rokiciny	subst:pl:gen:n:pt	nazwa geograficzna	
+Rokicin	Rokiciny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Rokiciny	Rokiciny	subst:pl:acc:n:pt	nazwa geograficzna	
+Rokiciny	Rokiciny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Rokiciny	Rokiciny	subst:pl:nom:n:pt	nazwa geograficzna	
+Rokiciny	Rokiciny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Rokiciny	Rokiciny	subst:pl:voc:n:pt	nazwa geograficzna	
+Rokiciny	Rokiciny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Rokicka	Rokicka	subst:sg:nom:f	nazwisko	
 Rokicka	Rokicka	subst:sg:voc:f	nazwisko	
 Rokicką	Rokicka	subst:sg:acc:f	nazwisko	
@@ -4250,20 +4250,20 @@ Rokitów	Rokita	subst:pl:gen:m1	nazwisko
 Rokity	Rokita	depr:pl:nom:m2	nazwisko	
 Rokity	Rokita	depr:pl:voc:m2	nazwisko	
 Rokity	Rokita	subst:sg:gen:m1	nazwisko	
-Rokitek	Rokitki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Rokitek	Rokitki	subst:pl:gen:p3	nazwa geograficzna	
-Rokitkach	Rokitki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Rokitkach	Rokitki	subst:pl:loc:p3	nazwa geograficzna	
-Rokitkami	Rokitki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Rokitkami	Rokitki	subst:pl:inst:p3	nazwa geograficzna	
-Rokitki	Rokitki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Rokitki	Rokitki	subst:pl:acc:p3	nazwa geograficzna	
-Rokitki	Rokitki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Rokitki	Rokitki	subst:pl:nom:p3	nazwa geograficzna	
-Rokitki	Rokitki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Rokitki	Rokitki	subst:pl:voc:p3	nazwa geograficzna	
-Rokitkom	Rokitki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Rokitkom	Rokitki	subst:pl:dat:p3	nazwa geograficzna	
+Rokitek	Rokitki	subst:pl:gen:n:pt	nazwa geograficzna	
+Rokitek	Rokitki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Rokitkach	Rokitki	subst:pl:loc:n:pt	nazwa geograficzna	
+Rokitkach	Rokitki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Rokitkami	Rokitki	subst:pl:inst:n:pt	nazwa geograficzna	
+Rokitkami	Rokitki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Rokitki	Rokitki	subst:pl:acc:n:pt	nazwa geograficzna	
+Rokitki	Rokitki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Rokitki	Rokitki	subst:pl:nom:n:pt	nazwa geograficzna	
+Rokitki	Rokitki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Rokitki	Rokitki	subst:pl:voc:n:pt	nazwa geograficzna	
+Rokitki	Rokitki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Rokitkom	Rokitki	subst:pl:dat:n:pt	nazwa geograficzna	
+Rokitkom	Rokitki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Roksanach	Roksana	subst:pl:loc:f	imię	
 Roksanami	Roksana	subst:pl:inst:f	imię	
 Roksana	Roksana	subst:sg:nom:f	imię	
@@ -4751,47 +4751,47 @@ ROP-y	ROP	subst:pl:acc:m3	nazwa organizacji
 ROP-y	ROP	subst:pl:nom:m3	nazwa organizacji	
 ROP-y	ROP	subst:pl:voc:m3	nazwa organizacji	
 ROPCiO	ROPCiO	subst:pl:acc:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:pl:acc:n2	nazwa organizacji	
+ROPCiO	ROPCiO	subst:pl:acc:n:ncol	nazwa organizacji	
 ROPCiO	ROPCiO	subst:pl:dat:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:pl:dat:n2	nazwa organizacji	
+ROPCiO	ROPCiO	subst:pl:dat:n:ncol	nazwa organizacji	
 ROPCiO	ROPCiO	subst:pl:gen:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:pl:gen:n2	nazwa organizacji	
+ROPCiO	ROPCiO	subst:pl:gen:n:ncol	nazwa organizacji	
 ROPCiO	ROPCiO	subst:pl:inst:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:pl:inst:n2	nazwa organizacji	
+ROPCiO	ROPCiO	subst:pl:inst:n:ncol	nazwa organizacji	
 ROPCiO	ROPCiO	subst:pl:loc:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:pl:loc:n2	nazwa organizacji	
+ROPCiO	ROPCiO	subst:pl:loc:n:ncol	nazwa organizacji	
 ROPCiO	ROPCiO	subst:pl:nom:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:pl:nom:n2	nazwa organizacji	
+ROPCiO	ROPCiO	subst:pl:nom:n:ncol	nazwa organizacji	
 ROPCiO	ROPCiO	subst:pl:voc:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:pl:voc:n2	nazwa organizacji	
+ROPCiO	ROPCiO	subst:pl:voc:n:ncol	nazwa organizacji	
 ROPCiO	ROPCiO	subst:sg:acc:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:sg:acc:n2	nazwa organizacji	
+ROPCiO	ROPCiO	subst:sg:acc:n:ncol	nazwa organizacji	
 ROPCiO	ROPCiO	subst:sg:dat:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:sg:dat:n2	nazwa organizacji	
+ROPCiO	ROPCiO	subst:sg:dat:n:ncol	nazwa organizacji	
 ROPCiO	ROPCiO	subst:sg:gen:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:sg:gen:n2	nazwa organizacji	
+ROPCiO	ROPCiO	subst:sg:gen:n:ncol	nazwa organizacji	
 ROPCiO	ROPCiO	subst:sg:inst:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:sg:inst:n2	nazwa organizacji	
+ROPCiO	ROPCiO	subst:sg:inst:n:ncol	nazwa organizacji	
 ROPCiO	ROPCiO	subst:sg:loc:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:sg:loc:n2	nazwa organizacji	
+ROPCiO	ROPCiO	subst:sg:loc:n:ncol	nazwa organizacji	
 ROPCiO	ROPCiO	subst:sg:nom:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:sg:nom:n2	nazwa organizacji	
+ROPCiO	ROPCiO	subst:sg:nom:n:ncol	nazwa organizacji	
 ROPCiO	ROPCiO	subst:sg:voc:m3	nazwa organizacji	
-ROPCiO	ROPCiO	subst:sg:voc:n2	nazwa organizacji	
-Ropczycach	Ropczyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Ropczycach	Ropczyce	subst:pl:loc:p3	nazwa geograficzna	
-Ropczycami	Ropczyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Ropczycami	Ropczyce	subst:pl:inst:p3	nazwa geograficzna	
-Ropczyce	Ropczyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Ropczyce	Ropczyce	subst:pl:acc:p3	nazwa geograficzna	
-Ropczyce	Ropczyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Ropczyce	Ropczyce	subst:pl:nom:p3	nazwa geograficzna	
-Ropczyce	Ropczyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Ropczyce	Ropczyce	subst:pl:voc:p3	nazwa geograficzna	
-Ropczycom	Ropczyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Ropczycom	Ropczyce	subst:pl:dat:p3	nazwa geograficzna	
-Ropczyc	Ropczyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Ropczyc	Ropczyce	subst:pl:gen:p3	nazwa geograficzna	
+ROPCiO	ROPCiO	subst:sg:voc:n:ncol	nazwa organizacji	
+Ropczycach	Ropczyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Ropczycach	Ropczyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ropczycami	Ropczyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Ropczycami	Ropczyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ropczyce	Ropczyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Ropczyce	Ropczyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Ropczyce	Ropczyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Ropczyce	Ropczyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Ropczyce	Ropczyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Ropczyce	Ropczyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Ropczycom	Ropczyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Ropczycom	Ropczyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ropczyc	Ropczyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Ropczyc	Ropczyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Ropelewska	Ropelewska	subst:sg:nom:f	nazwisko	
 Ropelewska	Ropelewska	subst:sg:voc:f	nazwisko	
 Ropelewską	Ropelewska	subst:sg:acc:f	nazwisko	
@@ -5120,20 +5120,20 @@ Rostworowskim	Rostworowski	subst:sg:inst:m1	nazwisko
 Rostworowskim	Rostworowski	subst:sg:loc:m1	nazwisko	
 Rostworowski	Rostworowski	subst:sg:nom:m1	nazwisko	
 Rostworowski	Rostworowski	subst:sg:voc:m1	nazwisko	
-Rosz	Rosz	subst:pl:acc:n2	człon nazwy święta	
-Rosz	Rosz	subst:pl:dat:n2	człon nazwy święta	
-Rosz	Rosz	subst:pl:gen:n2	człon nazwy święta	
-Rosz	Rosz	subst:pl:inst:n2	człon nazwy święta	
-Rosz	Rosz	subst:pl:loc:n2	człon nazwy święta	
-Rosz	Rosz	subst:pl:nom:n2	człon nazwy święta	
-Rosz	Rosz	subst:pl:voc:n2	człon nazwy święta	
-Rosz	Rosz	subst:sg:acc:n2	człon nazwy święta	
-Rosz	Rosz	subst:sg:dat:n2	człon nazwy święta	
-Rosz	Rosz	subst:sg:gen:n2	człon nazwy święta	
-Rosz	Rosz	subst:sg:inst:n2	człon nazwy święta	
-Rosz	Rosz	subst:sg:loc:n2	człon nazwy święta	
-Rosz	Rosz	subst:sg:nom:n2	człon nazwy święta	
-Rosz	Rosz	subst:sg:voc:n2	człon nazwy święta	
+Rosz	Rosz	subst:pl:acc:n:ncol	człon nazwy święta	
+Rosz	Rosz	subst:pl:dat:n:ncol	człon nazwy święta	
+Rosz	Rosz	subst:pl:gen:n:ncol	człon nazwy święta	
+Rosz	Rosz	subst:pl:inst:n:ncol	człon nazwy święta	
+Rosz	Rosz	subst:pl:loc:n:ncol	człon nazwy święta	
+Rosz	Rosz	subst:pl:nom:n:ncol	człon nazwy święta	
+Rosz	Rosz	subst:pl:voc:n:ncol	człon nazwy święta	
+Rosz	Rosz	subst:sg:acc:n:ncol	człon nazwy święta	
+Rosz	Rosz	subst:sg:dat:n:ncol	człon nazwy święta	
+Rosz	Rosz	subst:sg:gen:n:ncol	człon nazwy święta	
+Rosz	Rosz	subst:sg:inst:n:ncol	człon nazwy święta	
+Rosz	Rosz	subst:sg:loc:n:ncol	człon nazwy święta	
+Rosz	Rosz	subst:sg:nom:n:ncol	człon nazwy święta	
+Rosz	Rosz	subst:sg:voc:n:ncol	człon nazwy święta	
 Roszakach	Roszak	subst:pl:loc:m1	nazwisko	
 Roszakami	Roszak	subst:pl:inst:m1	nazwisko	
 Roszaka	Roszak	subst:sg:acc:m1	nazwisko	
@@ -5244,20 +5244,20 @@ Rościsławy	Rościsława	subst:pl:acc:f	imię
 Rościsławy	Rościsława	subst:pl:nom:f	imię	
 Rościsławy	Rościsława	subst:pl:voc:f	imię	
 Rościsławy	Rościsława	subst:sg:gen:f	imię	
-Rościszewach	Rościszewo	subst:pl:loc:n2	nazwa geograficzna	
-Rościszewami	Rościszewo	subst:pl:inst:n2	nazwa geograficzna	
-Rościszewa	Rościszewo	subst:pl:acc:n2	nazwa geograficzna	
-Rościszewa	Rościszewo	subst:pl:nom:n2	nazwa geograficzna	
-Rościszewa	Rościszewo	subst:pl:voc:n2	nazwa geograficzna	
-Rościszewa	Rościszewo	subst:sg:gen:n2	nazwa geograficzna	
-Rościszewem	Rościszewo	subst:sg:inst:n2	nazwa geograficzna	
-Rościszewie	Rościszewo	subst:sg:loc:n2	nazwa geograficzna	
-Rościszewom	Rościszewo	subst:pl:dat:n2	nazwa geograficzna	
-Rościszewo	Rościszewo	subst:sg:acc:n2	nazwa geograficzna	
-Rościszewo	Rościszewo	subst:sg:nom:n2	nazwa geograficzna	
-Rościszewo	Rościszewo	subst:sg:voc:n2	nazwa geograficzna	
-Rościszew	Rościszewo	subst:pl:gen:n2	nazwa geograficzna	
-Rościszewu	Rościszewo	subst:sg:dat:n2	nazwa geograficzna	
+Rościszewach	Rościszewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Rościszewami	Rościszewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Rościszewa	Rościszewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Rościszewa	Rościszewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Rościszewa	Rościszewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Rościszewa	Rościszewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Rościszewem	Rościszewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Rościszewie	Rościszewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Rościszewom	Rościszewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Rościszewo	Rościszewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Rościszewo	Rościszewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Rościszewo	Rościszewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Rościszew	Rościszewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Rościszewu	Rościszewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Rocie	Roth	subst:sg:loc:m1	nazwisko	
 Rocie	Roth	subst:sg:voc:m1	nazwisko	
 Rothach	Roth	subst:pl:loc:m1	nazwisko	
@@ -5457,20 +5457,20 @@ Rozalki	Rozalka	subst:pl:voc:f	imię
 Rozalki	Rozalka	subst:sg:gen:f	imię	
 Rozalkom	Rozalka	subst:pl:dat:f	imię	
 Rozalko	Rozalka	subst:sg:voc:f	imię	
-Rozewiach	Rozewie	subst:pl:loc:n2	nazwa geograficzna	
-Rozewiami	Rozewie	subst:pl:inst:n2	nazwa geograficzna	
-Rozewia	Rozewie	subst:pl:acc:n2	nazwa geograficzna	
-Rozewia	Rozewie	subst:pl:nom:n2	nazwa geograficzna	
-Rozewia	Rozewie	subst:pl:voc:n2	nazwa geograficzna	
-Rozewia	Rozewie	subst:sg:gen:n2	nazwa geograficzna	
-Rozewiem	Rozewie	subst:sg:inst:n2	nazwa geograficzna	
-Rozewie	Rozewie	subst:sg:acc:n2	nazwa geograficzna	
-Rozewie	Rozewie	subst:sg:nom:n2	nazwa geograficzna	
-Rozewie	Rozewie	subst:sg:voc:n2	nazwa geograficzna	
-Rozewiom	Rozewie	subst:pl:dat:n2	nazwa geograficzna	
-Rozewi	Rozewie	subst:pl:gen:n2	nazwa geograficzna	
-Rozewiu	Rozewie	subst:sg:dat:n2	nazwa geograficzna	
-Rozewiu	Rozewie	subst:sg:loc:n2	nazwa geograficzna	
+Rozewiach	Rozewie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Rozewiami	Rozewie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Rozewia	Rozewie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Rozewia	Rozewie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Rozewia	Rozewie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Rozewia	Rozewie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Rozewiem	Rozewie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Rozewie	Rozewie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Rozewie	Rozewie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Rozewie	Rozewie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Rozewiom	Rozewie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Rozewi	Rozewie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Rozewiu	Rozewie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Rozewiu	Rozewie	subst:sg:loc:n:ncol	nazwa geograficzna	
 Rozłucka	Rozłucka	subst:sg:nom:f	nazwisko	
 Rozłucka	Rozłucka	subst:sg:voc:f	nazwisko	
 Rozłucką	Rozłucka	subst:sg:acc:f	nazwisko	
@@ -5501,20 +5501,20 @@ Rozłuckim	Rozłucki	subst:sg:inst:m1	nazwisko
 Rozłuckim	Rozłucki	subst:sg:loc:m1	nazwisko	
 Rozłucki	Rozłucki	subst:sg:nom:m1	nazwisko	
 Rozłucki	Rozłucki	subst:sg:voc:m1	nazwisko	
-Roztoczach	Roztocze	subst:pl:loc:n2	nazwa geograficzna	
-Roztoczami	Roztocze	subst:pl:inst:n2	nazwa geograficzna	
-Roztocza	Roztocze	subst:pl:acc:n2	nazwa geograficzna	
-Roztocza	Roztocze	subst:pl:nom:n2	nazwa geograficzna	
-Roztocza	Roztocze	subst:pl:voc:n2	nazwa geograficzna	
-Roztocza	Roztocze	subst:sg:gen:n2	nazwa geograficzna	
-Roztoczem	Roztocze	subst:sg:inst:n2	nazwa geograficzna	
-Roztocze	Roztocze	subst:sg:acc:n2	nazwa geograficzna	
-Roztocze	Roztocze	subst:sg:nom:n2	nazwa geograficzna	
-Roztocze	Roztocze	subst:sg:voc:n2	nazwa geograficzna	
-Roztoczom	Roztocze	subst:pl:dat:n2	nazwa geograficzna	
-Roztoczu	Roztocze	subst:sg:dat:n2	nazwa geograficzna	
-Roztoczu	Roztocze	subst:sg:loc:n2	nazwa geograficzna	
-Roztoczy	Roztocze	subst:pl:gen:n2	nazwa geograficzna	
+Roztoczach	Roztocze	subst:pl:loc:n:ncol	nazwa geograficzna	
+Roztoczami	Roztocze	subst:pl:inst:n:ncol	nazwa geograficzna	
+Roztocza	Roztocze	subst:pl:acc:n:ncol	nazwa geograficzna	
+Roztocza	Roztocze	subst:pl:nom:n:ncol	nazwa geograficzna	
+Roztocza	Roztocze	subst:pl:voc:n:ncol	nazwa geograficzna	
+Roztocza	Roztocze	subst:sg:gen:n:ncol	nazwa geograficzna	
+Roztoczem	Roztocze	subst:sg:inst:n:ncol	nazwa geograficzna	
+Roztocze	Roztocze	subst:sg:acc:n:ncol	nazwa geograficzna	
+Roztocze	Roztocze	subst:sg:nom:n:ncol	nazwa geograficzna	
+Roztocze	Roztocze	subst:sg:voc:n:ncol	nazwa geograficzna	
+Roztoczom	Roztocze	subst:pl:dat:n:ncol	nazwa geograficzna	
+Roztoczu	Roztocze	subst:sg:dat:n:ncol	nazwa geograficzna	
+Roztoczu	Roztocze	subst:sg:loc:n:ncol	nazwa geograficzna	
+Roztoczy	Roztocze	subst:pl:gen:n:ncol	nazwa geograficzna	
 Roztoce	Roztoka	subst:sg:dat:f	nazwa geograficzna	
 Roztoce	Roztoka	subst:sg:loc:f	nazwa geograficzna	
 Roztokach	Roztoka	subst:pl:loc:f	nazwa geograficzna	
@@ -5649,20 +5649,20 @@ Rómmlów	Rómmel	subst:pl:acc:m1	nazwisko
 Rómmlów	Rómmel	subst:pl:gen:m1	nazwisko	
 Rómmlu	Rómmel	subst:sg:loc:m1	nazwisko	
 Rómmlu	Rómmel	subst:sg:voc:m1	nazwisko	
-Równego	Równe	subst:sg:gen:n2	nazwa geograficzna	
-Równem	Równe	subst:sg:inst:n2	nazwa geograficzna	
-Równem	Równe	subst:sg:loc:n2	nazwa geograficzna	
-Równemu	Równe	subst:sg:dat:n2	nazwa geograficzna	
-Równe	Równe	subst:pl:acc:n2	nazwa geograficzna	
-Równe	Równe	subst:pl:nom:n2	nazwa geograficzna	
-Równe	Równe	subst:pl:voc:n2	nazwa geograficzna	
-Równe	Równe	subst:sg:acc:n2	nazwa geograficzna	
-Równe	Równe	subst:sg:nom:n2	nazwa geograficzna	
-Równe	Równe	subst:sg:voc:n2	nazwa geograficzna	
-Równych	Równe	subst:pl:gen:n2	nazwa geograficzna	
-Równych	Równe	subst:pl:loc:n2	nazwa geograficzna	
-Równymi	Równe	subst:pl:inst:n2	nazwa geograficzna	
-Równym	Równe	subst:pl:dat:n2	nazwa geograficzna	
+Równego	Równe	subst:sg:gen:n:ncol	nazwa geograficzna	
+Równem	Równe	subst:sg:inst:n:ncol	nazwa geograficzna	
+Równem	Równe	subst:sg:loc:n:ncol	nazwa geograficzna	
+Równemu	Równe	subst:sg:dat:n:ncol	nazwa geograficzna	
+Równe	Równe	subst:pl:acc:n:ncol	nazwa geograficzna	
+Równe	Równe	subst:pl:nom:n:ncol	nazwa geograficzna	
+Równe	Równe	subst:pl:voc:n:ncol	nazwa geograficzna	
+Równe	Równe	subst:sg:acc:n:ncol	nazwa geograficzna	
+Równe	Równe	subst:sg:nom:n:ncol	nazwa geograficzna	
+Równe	Równe	subst:sg:voc:n:ncol	nazwa geograficzna	
+Równych	Równe	subst:pl:gen:n:ncol	nazwa geograficzna	
+Równych	Równe	subst:pl:loc:n:ncol	nazwa geograficzna	
+Równymi	Równe	subst:pl:inst:n:ncol	nazwa geograficzna	
+Równym	Równe	subst:pl:dat:n:ncol	nazwa geograficzna	
 Róziach	Rózia	subst:pl:loc:f	imię	
 Róziami	Rózia	subst:pl:inst:f	imię	
 Rózia	Rózia	subst:sg:nom:f	imię	
@@ -5869,75 +5869,75 @@ RPU	RPU	subst:sg:loc:m3	nazwa instytucji
 RPU	RPU	subst:sg:nom:m3	nazwa instytucji	
 RPU	RPU	subst:sg:voc:m3	nazwa instytucji	
 RSHA	RSHA	subst:pl:acc:m3	nazwa instytucji	
-RSHA	RSHA	subst:pl:acc:n2	nazwa instytucji	
+RSHA	RSHA	subst:pl:acc:n:ncol	nazwa instytucji	
 RSHA	RSHA	subst:pl:dat:m3	nazwa instytucji	
-RSHA	RSHA	subst:pl:dat:n2	nazwa instytucji	
+RSHA	RSHA	subst:pl:dat:n:ncol	nazwa instytucji	
 RSHA	RSHA	subst:pl:gen:m3	nazwa instytucji	
-RSHA	RSHA	subst:pl:gen:n2	nazwa instytucji	
+RSHA	RSHA	subst:pl:gen:n:ncol	nazwa instytucji	
 RSHA	RSHA	subst:pl:inst:m3	nazwa instytucji	
-RSHA	RSHA	subst:pl:inst:n2	nazwa instytucji	
+RSHA	RSHA	subst:pl:inst:n:ncol	nazwa instytucji	
 RSHA	RSHA	subst:pl:loc:m3	nazwa instytucji	
-RSHA	RSHA	subst:pl:loc:n2	nazwa instytucji	
+RSHA	RSHA	subst:pl:loc:n:ncol	nazwa instytucji	
 RSHA	RSHA	subst:pl:nom:m3	nazwa instytucji	
-RSHA	RSHA	subst:pl:nom:n2	nazwa instytucji	
+RSHA	RSHA	subst:pl:nom:n:ncol	nazwa instytucji	
 RSHA	RSHA	subst:pl:voc:m3	nazwa instytucji	
-RSHA	RSHA	subst:pl:voc:n2	nazwa instytucji	
+RSHA	RSHA	subst:pl:voc:n:ncol	nazwa instytucji	
 RSHA	RSHA	subst:sg:acc:m3	nazwa instytucji	
-RSHA	RSHA	subst:sg:acc:n2	nazwa instytucji	
+RSHA	RSHA	subst:sg:acc:n:ncol	nazwa instytucji	
 RSHA	RSHA	subst:sg:dat:m3	nazwa instytucji	
-RSHA	RSHA	subst:sg:dat:n2	nazwa instytucji	
+RSHA	RSHA	subst:sg:dat:n:ncol	nazwa instytucji	
 RSHA	RSHA	subst:sg:gen:m3	nazwa instytucji	
-RSHA	RSHA	subst:sg:gen:n2	nazwa instytucji	
+RSHA	RSHA	subst:sg:gen:n:ncol	nazwa instytucji	
 RSHA	RSHA	subst:sg:inst:m3	nazwa instytucji	
-RSHA	RSHA	subst:sg:inst:n2	nazwa instytucji	
+RSHA	RSHA	subst:sg:inst:n:ncol	nazwa instytucji	
 RSHA	RSHA	subst:sg:loc:m3	nazwa instytucji	
-RSHA	RSHA	subst:sg:loc:n2	nazwa instytucji	
+RSHA	RSHA	subst:sg:loc:n:ncol	nazwa instytucji	
 RSHA	RSHA	subst:sg:nom:m3	nazwa instytucji	
-RSHA	RSHA	subst:sg:nom:n2	nazwa instytucji	
+RSHA	RSHA	subst:sg:nom:n:ncol	nazwa instytucji	
 RSHA	RSHA	subst:sg:voc:m3	nazwa instytucji	
-RSHA	RSHA	subst:sg:voc:n2	nazwa instytucji	
+RSHA	RSHA	subst:sg:voc:n:ncol	nazwa instytucji	
 RSW	RSW	subst:pl:acc:f	nazwa instytucji	
-RSW	RSW	subst:pl:acc:n2	nazwa instytucji	
+RSW	RSW	subst:pl:acc:n:ncol	nazwa instytucji	
 RSW	RSW	subst:pl:dat:f	nazwa instytucji	
-RSW	RSW	subst:pl:dat:n2	nazwa instytucji	
+RSW	RSW	subst:pl:dat:n:ncol	nazwa instytucji	
 RSW	RSW	subst:pl:gen:f	nazwa instytucji	
-RSW	RSW	subst:pl:gen:n2	nazwa instytucji	
+RSW	RSW	subst:pl:gen:n:ncol	nazwa instytucji	
 RSW	RSW	subst:pl:inst:f	nazwa instytucji	
-RSW	RSW	subst:pl:inst:n2	nazwa instytucji	
+RSW	RSW	subst:pl:inst:n:ncol	nazwa instytucji	
 RSW	RSW	subst:pl:loc:f	nazwa instytucji	
-RSW	RSW	subst:pl:loc:n2	nazwa instytucji	
+RSW	RSW	subst:pl:loc:n:ncol	nazwa instytucji	
 RSW	RSW	subst:pl:nom:f	nazwa instytucji	
-RSW	RSW	subst:pl:nom:n2	nazwa instytucji	
+RSW	RSW	subst:pl:nom:n:ncol	nazwa instytucji	
 RSW	RSW	subst:pl:voc:f	nazwa instytucji	
-RSW	RSW	subst:pl:voc:n2	nazwa instytucji	
+RSW	RSW	subst:pl:voc:n:ncol	nazwa instytucji	
 RSW	RSW	subst:sg:acc:f	nazwa instytucji	
-RSW	RSW	subst:sg:acc:n2	nazwa instytucji	
+RSW	RSW	subst:sg:acc:n:ncol	nazwa instytucji	
 RSW	RSW	subst:sg:dat:f	nazwa instytucji	
-RSW	RSW	subst:sg:dat:n2	nazwa instytucji	
+RSW	RSW	subst:sg:dat:n:ncol	nazwa instytucji	
 RSW	RSW	subst:sg:gen:f	nazwa instytucji	
-RSW	RSW	subst:sg:gen:n2	nazwa instytucji	
+RSW	RSW	subst:sg:gen:n:ncol	nazwa instytucji	
 RSW	RSW	subst:sg:inst:f	nazwa instytucji	
-RSW	RSW	subst:sg:inst:n2	nazwa instytucji	
+RSW	RSW	subst:sg:inst:n:ncol	nazwa instytucji	
 RSW	RSW	subst:sg:loc:f	nazwa instytucji	
-RSW	RSW	subst:sg:loc:n2	nazwa instytucji	
+RSW	RSW	subst:sg:loc:n:ncol	nazwa instytucji	
 RSW	RSW	subst:sg:nom:f	nazwa instytucji	
-RSW	RSW	subst:sg:nom:n2	nazwa instytucji	
+RSW	RSW	subst:sg:nom:n:ncol	nazwa instytucji	
 RSW	RSW	subst:sg:voc:f	nazwa instytucji	
-RSW	RSW	subst:sg:voc:n2	nazwa instytucji	
-RTV	RTV	subst:pl:acc:n2	nazwa pospolita	
-RTV	RTV	subst:pl:dat:n2	nazwa pospolita	
-RTV	RTV	subst:pl:gen:n2	nazwa pospolita	
-RTV	RTV	subst:pl:inst:n2	nazwa pospolita	
-RTV	RTV	subst:pl:loc:n2	nazwa pospolita	
-RTV	RTV	subst:pl:nom:n2	nazwa pospolita	
-RTV	RTV	subst:pl:voc:n2	nazwa pospolita	
-RTV	RTV	subst:sg:acc:n2	nazwa pospolita	
-RTV	RTV	subst:sg:dat:n2	nazwa pospolita	
-RTV	RTV	subst:sg:gen:n2	nazwa pospolita	
-RTV	RTV	subst:sg:inst:n2	nazwa pospolita	
-RTV	RTV	subst:sg:loc:n2	nazwa pospolita	
-RTV	RTV	subst:sg:nom:n2	nazwa pospolita	
-RTV	RTV	subst:sg:voc:n2	nazwa pospolita	
+RSW	RSW	subst:sg:voc:n:ncol	nazwa instytucji	
+RTV	RTV	subst:pl:acc:n:ncol	nazwa pospolita	
+RTV	RTV	subst:pl:dat:n:ncol	nazwa pospolita	
+RTV	RTV	subst:pl:gen:n:ncol	nazwa pospolita	
+RTV	RTV	subst:pl:inst:n:ncol	nazwa pospolita	
+RTV	RTV	subst:pl:loc:n:ncol	nazwa pospolita	
+RTV	RTV	subst:pl:nom:n:ncol	nazwa pospolita	
+RTV	RTV	subst:pl:voc:n:ncol	nazwa pospolita	
+RTV	RTV	subst:sg:acc:n:ncol	nazwa pospolita	
+RTV	RTV	subst:sg:dat:n:ncol	nazwa pospolita	
+RTV	RTV	subst:sg:gen:n:ncol	nazwa pospolita	
+RTV	RTV	subst:sg:inst:n:ncol	nazwa pospolita	
+RTV	RTV	subst:sg:loc:n:ncol	nazwa pospolita	
+RTV	RTV	subst:sg:nom:n:ncol	nazwa pospolita	
+RTV	RTV	subst:sg:voc:n:ncol	nazwa pospolita	
 Ruandach	Ruanda	subst:pl:loc:f	nazwa geograficzna	
 Ruandami	Ruanda	subst:pl:inst:f	nazwa geograficzna	
 Ruanda	Ruanda	subst:sg:nom:f	nazwa geograficzna	
@@ -6046,20 +6046,20 @@ Ruchu	Ruch	subst:sg:voc:m3	człon nazwy organizacji
 Ruchy	Ruch	subst:pl:acc:m3	człon nazwy organizacji	
 Ruchy	Ruch	subst:pl:nom:m3	człon nazwy organizacji	
 Ruchy	Ruch	subst:pl:voc:m3	człon nazwy organizacji	
-Rucianego	Ruciane	subst:sg:gen:n2	nazwa geograficzna	
-Rucianem	Ruciane	subst:sg:inst:n2	nazwa geograficzna	
-Rucianem	Ruciane	subst:sg:loc:n2	nazwa geograficzna	
-Rucianemu	Ruciane	subst:sg:dat:n2	nazwa geograficzna	
-Ruciane	Ruciane	subst:pl:acc:n2	nazwa geograficzna	
-Ruciane	Ruciane	subst:pl:nom:n2	nazwa geograficzna	
-Ruciane	Ruciane	subst:pl:voc:n2	nazwa geograficzna	
-Ruciane	Ruciane	subst:sg:acc:n2	nazwa geograficzna	
-Ruciane	Ruciane	subst:sg:nom:n2	nazwa geograficzna	
-Ruciane	Ruciane	subst:sg:voc:n2	nazwa geograficzna	
-Rucianych	Ruciane	subst:pl:gen:n2	nazwa geograficzna	
-Rucianych	Ruciane	subst:pl:loc:n2	nazwa geograficzna	
-Rucianymi	Ruciane	subst:pl:inst:n2	nazwa geograficzna	
-Rucianym	Ruciane	subst:pl:dat:n2	nazwa geograficzna	
+Rucianego	Ruciane	subst:sg:gen:n:ncol	nazwa geograficzna	
+Rucianem	Ruciane	subst:sg:inst:n:ncol	nazwa geograficzna	
+Rucianem	Ruciane	subst:sg:loc:n:ncol	nazwa geograficzna	
+Rucianemu	Ruciane	subst:sg:dat:n:ncol	nazwa geograficzna	
+Ruciane	Ruciane	subst:pl:acc:n:ncol	nazwa geograficzna	
+Ruciane	Ruciane	subst:pl:nom:n:ncol	nazwa geograficzna	
+Ruciane	Ruciane	subst:pl:voc:n:ncol	nazwa geograficzna	
+Ruciane	Ruciane	subst:sg:acc:n:ncol	nazwa geograficzna	
+Ruciane	Ruciane	subst:sg:nom:n:ncol	nazwa geograficzna	
+Ruciane	Ruciane	subst:sg:voc:n:ncol	nazwa geograficzna	
+Rucianych	Ruciane	subst:pl:gen:n:ncol	nazwa geograficzna	
+Rucianych	Ruciane	subst:pl:loc:n:ncol	nazwa geograficzna	
+Rucianymi	Ruciane	subst:pl:inst:n:ncol	nazwa geograficzna	
+Rucianym	Ruciane	subst:pl:dat:n:ncol	nazwa geograficzna	
 Rucińska	Rucińska	subst:sg:nom:f	nazwisko	
 Rucińska	Rucińska	subst:sg:voc:f	nazwisko	
 Rucińską	Rucińska	subst:sg:acc:f	nazwisko	
@@ -6194,20 +6194,20 @@ Rudnickim	Rudnicki	subst:sg:inst:m1	nazwisko
 Rudnickim	Rudnicki	subst:sg:loc:m1	nazwisko	
 Rudnicki	Rudnicki	subst:sg:nom:m1	nazwisko	
 Rudnicki	Rudnicki	subst:sg:voc:m1	nazwisko	
-Rudnikach	Rudniki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Rudnikach	Rudniki	subst:pl:loc:p3	nazwa geograficzna	
-Rudnikami	Rudniki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Rudnikami	Rudniki	subst:pl:inst:p3	nazwa geograficzna	
-Rudniki	Rudniki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Rudniki	Rudniki	subst:pl:acc:p3	nazwa geograficzna	
-Rudniki	Rudniki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Rudniki	Rudniki	subst:pl:nom:p3	nazwa geograficzna	
-Rudniki	Rudniki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Rudniki	Rudniki	subst:pl:voc:p3	nazwa geograficzna	
-Rudnikom	Rudniki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Rudnikom	Rudniki	subst:pl:dat:p3	nazwa geograficzna	
-Rudnik	Rudniki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Rudnik	Rudniki	subst:pl:gen:p3	nazwa geograficzna	
+Rudnikach	Rudniki	subst:pl:loc:n:pt	nazwa geograficzna	
+Rudnikach	Rudniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Rudnikami	Rudniki	subst:pl:inst:n:pt	nazwa geograficzna	
+Rudnikami	Rudniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Rudniki	Rudniki	subst:pl:acc:n:pt	nazwa geograficzna	
+Rudniki	Rudniki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Rudniki	Rudniki	subst:pl:nom:n:pt	nazwa geograficzna	
+Rudniki	Rudniki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Rudniki	Rudniki	subst:pl:voc:n:pt	nazwa geograficzna	
+Rudniki	Rudniki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Rudnikom	Rudniki	subst:pl:dat:n:pt	nazwa geograficzna	
+Rudnikom	Rudniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Rudnik	Rudniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Rudnik	Rudniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Rudolfach	Rudolf	subst:pl:loc:m1	imię	
 Rudolfami	Rudolf	subst:pl:inst:m1	imię	
 Rudolfa	Rudolf	subst:sg:acc:m1	imię	
@@ -6571,20 +6571,20 @@ Rumunki	Rumunka	subst:pl:voc:f	nazwa pospolita
 Rumunki	Rumunka	subst:sg:gen:f	nazwa pospolita	
 Rumunkom	Rumunka	subst:pl:dat:f	nazwa pospolita	
 Rumunko	Rumunka	subst:sg:voc:f	nazwa pospolita	
-Rumach	Rumy	subst:pl:loc:p2	nazwa geograficzna	
-Rumach	Rumy	subst:pl:loc:p3	nazwa geograficzna	
-Rumami	Rumy	subst:pl:inst:p2	nazwa geograficzna	
-Rumami	Rumy	subst:pl:inst:p3	nazwa geograficzna	
-Rumom	Rumy	subst:pl:dat:p2	nazwa geograficzna	
-Rumom	Rumy	subst:pl:dat:p3	nazwa geograficzna	
-Rumów	Rumy	subst:pl:gen:p2	nazwa geograficzna	
-Rumów	Rumy	subst:pl:gen:p3	nazwa geograficzna	
-Rumy	Rumy	subst:pl:acc:p2	nazwa geograficzna	
-Rumy	Rumy	subst:pl:acc:p3	nazwa geograficzna	
-Rumy	Rumy	subst:pl:nom:p2	nazwa geograficzna	
-Rumy	Rumy	subst:pl:nom:p3	nazwa geograficzna	
-Rumy	Rumy	subst:pl:voc:p2	nazwa geograficzna	
-Rumy	Rumy	subst:pl:voc:p3	nazwa geograficzna	
+Rumach	Rumy	subst:pl:loc:n:pt	nazwa geograficzna	
+Rumach	Rumy	subst:pl:loc:n:pt	nazwa geograficzna	
+Rumami	Rumy	subst:pl:inst:n:pt	nazwa geograficzna	
+Rumami	Rumy	subst:pl:inst:n:pt	nazwa geograficzna	
+Rumom	Rumy	subst:pl:dat:n:pt	nazwa geograficzna	
+Rumom	Rumy	subst:pl:dat:n:pt	nazwa geograficzna	
+Rumów	Rumy	subst:pl:gen:n:pt	nazwa geograficzna	
+Rumów	Rumy	subst:pl:gen:n:pt	nazwa geograficzna	
+Rumy	Rumy	subst:pl:acc:n:pt	nazwa geograficzna	
+Rumy	Rumy	subst:pl:acc:n:pt	nazwa geograficzna	
+Rumy	Rumy	subst:pl:nom:n:pt	nazwa geograficzna	
+Rumy	Rumy	subst:pl:nom:n:pt	nazwa geograficzna	
+Rumy	Rumy	subst:pl:voc:n:pt	nazwa geograficzna	
+Rumy	Rumy	subst:pl:voc:n:pt	nazwa geograficzna	
 RUP-ach	RUP	subst:pl:loc:m3	nazwa instytucji	
 RUP-ami	RUP	subst:pl:inst:m3	nazwa instytucji	
 RUP-em	RUP	subst:sg:inst:m3	nazwa instytucji	
@@ -7008,69 +7008,69 @@ Rwandy	Rwanda	subst:pl:voc:f	nazwa geograficzna
 Rwandy	Rwanda	subst:sg:gen:f	nazwa geograficzna	
 Rwandzie	Rwanda	subst:sg:dat:f	nazwa geograficzna	
 Rwandzie	Rwanda	subst:sg:loc:f	nazwa geograficzna	
-RWE	RWE	subst:pl:acc:n2	nazwa instytucji	
-RWE	RWE	subst:pl:dat:n2	nazwa instytucji	
-RWE	RWE	subst:pl:gen:n2	nazwa instytucji	
-RWE	RWE	subst:pl:inst:n2	nazwa instytucji	
-RWE	RWE	subst:pl:loc:n2	nazwa instytucji	
-RWE	RWE	subst:pl:nom:n2	nazwa instytucji	
-RWE	RWE	subst:pl:voc:n2	nazwa instytucji	
-RWE	RWE	subst:sg:acc:n2	nazwa instytucji	
-RWE	RWE	subst:sg:dat:n2	nazwa instytucji	
-RWE	RWE	subst:sg:gen:n2	nazwa instytucji	
-RWE	RWE	subst:sg:inst:n2	nazwa instytucji	
-RWE	RWE	subst:sg:loc:n2	nazwa instytucji	
-RWE	RWE	subst:sg:nom:n2	nazwa instytucji	
-RWE	RWE	subst:sg:voc:n2	nazwa instytucji	
+RWE	RWE	subst:pl:acc:n:ncol	nazwa instytucji	
+RWE	RWE	subst:pl:dat:n:ncol	nazwa instytucji	
+RWE	RWE	subst:pl:gen:n:ncol	nazwa instytucji	
+RWE	RWE	subst:pl:inst:n:ncol	nazwa instytucji	
+RWE	RWE	subst:pl:loc:n:ncol	nazwa instytucji	
+RWE	RWE	subst:pl:nom:n:ncol	nazwa instytucji	
+RWE	RWE	subst:pl:voc:n:ncol	nazwa instytucji	
+RWE	RWE	subst:sg:acc:n:ncol	nazwa instytucji	
+RWE	RWE	subst:sg:dat:n:ncol	nazwa instytucji	
+RWE	RWE	subst:sg:gen:n:ncol	nazwa instytucji	
+RWE	RWE	subst:sg:inst:n:ncol	nazwa instytucji	
+RWE	RWE	subst:sg:loc:n:ncol	nazwa instytucji	
+RWE	RWE	subst:sg:nom:n:ncol	nazwa instytucji	
+RWE	RWE	subst:sg:voc:n:ncol	nazwa instytucji	
 RWPG	RWPG	subst:pl:acc:f	nazwa organizacji	
-RWPG	RWPG	subst:pl:acc:n2	nazwa organizacji	
+RWPG	RWPG	subst:pl:acc:n:ncol	nazwa organizacji	
 RWPG	RWPG	subst:pl:dat:f	nazwa organizacji	
-RWPG	RWPG	subst:pl:dat:n2	nazwa organizacji	
+RWPG	RWPG	subst:pl:dat:n:ncol	nazwa organizacji	
 RWPG	RWPG	subst:pl:gen:f	nazwa organizacji	
-RWPG	RWPG	subst:pl:gen:n2	nazwa organizacji	
+RWPG	RWPG	subst:pl:gen:n:ncol	nazwa organizacji	
 RWPG	RWPG	subst:pl:inst:f	nazwa organizacji	
-RWPG	RWPG	subst:pl:inst:n2	nazwa organizacji	
+RWPG	RWPG	subst:pl:inst:n:ncol	nazwa organizacji	
 RWPG	RWPG	subst:pl:loc:f	nazwa organizacji	
-RWPG	RWPG	subst:pl:loc:n2	nazwa organizacji	
+RWPG	RWPG	subst:pl:loc:n:ncol	nazwa organizacji	
 RWPG	RWPG	subst:pl:nom:f	nazwa organizacji	
-RWPG	RWPG	subst:pl:nom:n2	nazwa organizacji	
+RWPG	RWPG	subst:pl:nom:n:ncol	nazwa organizacji	
 RWPG	RWPG	subst:pl:voc:f	nazwa organizacji	
-RWPG	RWPG	subst:pl:voc:n2	nazwa organizacji	
+RWPG	RWPG	subst:pl:voc:n:ncol	nazwa organizacji	
 RWPG	RWPG	subst:sg:acc:f	nazwa organizacji	
-RWPG	RWPG	subst:sg:acc:n2	nazwa organizacji	
+RWPG	RWPG	subst:sg:acc:n:ncol	nazwa organizacji	
 RWPG	RWPG	subst:sg:dat:f	nazwa organizacji	
-RWPG	RWPG	subst:sg:dat:n2	nazwa organizacji	
+RWPG	RWPG	subst:sg:dat:n:ncol	nazwa organizacji	
 RWPG	RWPG	subst:sg:gen:f	nazwa organizacji	
-RWPG	RWPG	subst:sg:gen:n2	nazwa organizacji	
+RWPG	RWPG	subst:sg:gen:n:ncol	nazwa organizacji	
 RWPG	RWPG	subst:sg:inst:f	nazwa organizacji	
-RWPG	RWPG	subst:sg:inst:n2	nazwa organizacji	
+RWPG	RWPG	subst:sg:inst:n:ncol	nazwa organizacji	
 RWPG	RWPG	subst:sg:loc:f	nazwa organizacji	
-RWPG	RWPG	subst:sg:loc:n2	nazwa organizacji	
+RWPG	RWPG	subst:sg:loc:n:ncol	nazwa organizacji	
 RWPG	RWPG	subst:sg:nom:f	nazwa organizacji	
-RWPG	RWPG	subst:sg:nom:n2	nazwa organizacji	
+RWPG	RWPG	subst:sg:nom:n:ncol	nazwa organizacji	
 RWPG	RWPG	subst:sg:voc:f	nazwa organizacji	
-RWPG	RWPG	subst:sg:voc:n2	nazwa organizacji	
-RWPG-owscy	RWPG-owski	adj:pl:nom.voc:m1.p1:pos		
+RWPG	RWPG	subst:sg:voc:n:ncol	nazwa organizacji	
+RWPG-owscy	RWPG-owski	adj:pl:nom.voc:m1:pos		
 RWPG-owska	RWPG-owski	adj:sg:nom.voc:f:pos		
 RWPG-owską	RWPG-owski	adj:sg:acc:f:pos		
 RWPG-owską	RWPG-owski	adj:sg:inst:f:pos		
-RWPG-owskich	RWPG-owski	adj:pl:acc:m1.p1:pos		
-RWPG-owskich	RWPG-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-RWPG-owskich	RWPG-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+RWPG-owskich	RWPG-owski	adj:pl:acc:m1:pos		
+RWPG-owskich	RWPG-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+RWPG-owskich	RWPG-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
 RWPG-owskiego	RWPG-owski	adj:sg:acc:m1.m2:pos		
-RWPG-owskiego	RWPG-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+RWPG-owskiego	RWPG-owski	adj:sg:gen:m1.m2.m3.n:pos		
 RWPG-owskiej	RWPG-owski	adj:sg:dat:f:pos		
 RWPG-owskiej	RWPG-owski	adj:sg:gen:f:pos		
 RWPG-owskiej	RWPG-owski	adj:sg:loc:f:pos		
-RWPG-owskiemu	RWPG-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-RWPG-owskie	RWPG-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-RWPG-owskie	RWPG-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-RWPG-owskie	RWPG-owski	adj:sg:acc:n1.n2:pos		
-RWPG-owskie	RWPG-owski	adj:sg:nom.voc:n1.n2:pos		
-RWPG-owskimi	RWPG-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-RWPG-owskim	RWPG-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-RWPG-owskim	RWPG-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-RWPG-owskim	RWPG-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+RWPG-owskiemu	RWPG-owski	adj:sg:dat:m1.m2.m3.n:pos		
+RWPG-owskie	RWPG-owski	adj:pl:acc:m2.m3.f.n:pos		
+RWPG-owskie	RWPG-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+RWPG-owskie	RWPG-owski	adj:sg:acc:n:pos		
+RWPG-owskie	RWPG-owski	adj:sg:nom.voc:n:pos		
+RWPG-owskimi	RWPG-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
+RWPG-owskim	RWPG-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+RWPG-owskim	RWPG-owski	adj:sg:inst:m1.m2.m3.n:pos		
+RWPG-owskim	RWPG-owski	adj:sg:loc:m1.m2.m3.n:pos		
 RWPG-owski	RWPG-owski	adj:sg:acc:m3:pos		
 RWPG-owski	RWPG-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 RWPG-owsko	RWPG-owski	adja		
@@ -7122,20 +7122,20 @@ Rybarczyków	Rybarczyk	subst:pl:gen:m1	nazwisko
 Rybarczyk	Rybarczyk	subst:sg:nom:m1	nazwisko	
 Rybarczyku	Rybarczyk	subst:sg:loc:m1	nazwisko	
 Rybarczyku	Rybarczyk	subst:sg:voc:m1	nazwisko	
-Rybczewicach	Rybczewice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Rybczewicach	Rybczewice	subst:pl:loc:p3	nazwa geograficzna	
-Rybczewicami	Rybczewice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Rybczewicami	Rybczewice	subst:pl:inst:p3	nazwa geograficzna	
-Rybczewice	Rybczewice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Rybczewice	Rybczewice	subst:pl:acc:p3	nazwa geograficzna	
-Rybczewice	Rybczewice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Rybczewice	Rybczewice	subst:pl:nom:p3	nazwa geograficzna	
-Rybczewice	Rybczewice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Rybczewice	Rybczewice	subst:pl:voc:p3	nazwa geograficzna	
-Rybczewicom	Rybczewice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Rybczewicom	Rybczewice	subst:pl:dat:p3	nazwa geograficzna	
-Rybczewic	Rybczewice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Rybczewic	Rybczewice	subst:pl:gen:p3	nazwa geograficzna	
+Rybczewicach	Rybczewice	subst:pl:loc:n:pt	nazwa geograficzna	
+Rybczewicach	Rybczewice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Rybczewicami	Rybczewice	subst:pl:inst:n:pt	nazwa geograficzna	
+Rybczewicami	Rybczewice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Rybczewice	Rybczewice	subst:pl:acc:n:pt	nazwa geograficzna	
+Rybczewice	Rybczewice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Rybczewice	Rybczewice	subst:pl:nom:n:pt	nazwa geograficzna	
+Rybczewice	Rybczewice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Rybczewice	Rybczewice	subst:pl:voc:n:pt	nazwa geograficzna	
+Rybczewice	Rybczewice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Rybczewicom	Rybczewice	subst:pl:dat:n:pt	nazwa geograficzna	
+Rybczewicom	Rybczewice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Rybczewic	Rybczewice	subst:pl:gen:n:pt	nazwa geograficzna	
+Rybczewic	Rybczewice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Rybczyńska	Rybczyńska	subst:sg:nom:f	nazwisko	
 Rybczyńska	Rybczyńska	subst:sg:voc:f	nazwisko	
 Rybczyńską	Rybczyńska	subst:sg:acc:f	nazwisko	
@@ -7240,20 +7240,20 @@ Rybnik	Rybnik	subst:sg:acc:m3	nazwa geograficzna
 Rybnik	Rybnik	subst:sg:nom:m3	nazwa geograficzna	
 Rybniku	Rybnik	subst:sg:loc:m3	nazwa geograficzna	
 Rybniku	Rybnik	subst:sg:voc:m3	nazwa geograficzna	
-Rybach	Ryby	subst:pl:loc:p2	nazwa własna astronomiczna	rzad.
-Rybach	Ryby	subst:pl:loc:p3	nazwa własna astronomiczna	
-Rybami	Ryby	subst:pl:inst:p2	nazwa własna astronomiczna	rzad.
-Rybami	Ryby	subst:pl:inst:p3	nazwa własna astronomiczna	
-Rybom	Ryby	subst:pl:dat:p2	nazwa własna astronomiczna	rzad.
-Rybom	Ryby	subst:pl:dat:p3	nazwa własna astronomiczna	
-Ryb	Ryby	subst:pl:gen:p2	nazwa własna astronomiczna	rzad.
-Ryb	Ryby	subst:pl:gen:p3	nazwa własna astronomiczna	
-Ryby	Ryby	subst:pl:acc:p2	nazwa własna astronomiczna	rzad.
-Ryby	Ryby	subst:pl:acc:p3	nazwa własna astronomiczna	
-Ryby	Ryby	subst:pl:nom:p2	nazwa własna astronomiczna	rzad.
-Ryby	Ryby	subst:pl:nom:p3	nazwa własna astronomiczna	
-Ryby	Ryby	subst:pl:voc:p2	nazwa własna astronomiczna	rzad.
-Ryby	Ryby	subst:pl:voc:p3	nazwa własna astronomiczna	
+Rybach	Ryby	subst:pl:loc:n:pt	nazwa własna astronomiczna	
+Rybach	Ryby	subst:pl:loc:n:pt	nazwa własna astronomiczna	rzad.
+Rybami	Ryby	subst:pl:inst:n:pt	nazwa własna astronomiczna	
+Rybami	Ryby	subst:pl:inst:n:pt	nazwa własna astronomiczna	rzad.
+Rybom	Ryby	subst:pl:dat:n:pt	nazwa własna astronomiczna	
+Rybom	Ryby	subst:pl:dat:n:pt	nazwa własna astronomiczna	rzad.
+Ryb	Ryby	subst:pl:gen:n:pt	nazwa własna astronomiczna	
+Ryb	Ryby	subst:pl:gen:n:pt	nazwa własna astronomiczna	rzad.
+Ryby	Ryby	subst:pl:acc:n:pt	nazwa własna astronomiczna	
+Ryby	Ryby	subst:pl:acc:n:pt	nazwa własna astronomiczna	rzad.
+Ryby	Ryby	subst:pl:nom:n:pt	nazwa własna astronomiczna	
+Ryby	Ryby	subst:pl:nom:n:pt	nazwa własna astronomiczna	rzad.
+Ryby	Ryby	subst:pl:voc:n:pt	nazwa własna astronomiczna	
+Ryby	Ryby	subst:pl:voc:n:pt	nazwa własna astronomiczna	rzad.
 Rychlewska	Rychlewska	subst:sg:nom:f	nazwisko	
 Rychlewska	Rychlewska	subst:sg:voc:f	nazwisko	
 Rychlewską	Rychlewska	subst:sg:acc:f	nazwisko	
@@ -7284,20 +7284,20 @@ Rychlewskim	Rychlewski	subst:sg:inst:m1	nazwisko
 Rychlewskim	Rychlewski	subst:sg:loc:m1	nazwisko	
 Rychlewski	Rychlewski	subst:sg:nom:m1	nazwisko	
 Rychlewski	Rychlewski	subst:sg:voc:m1	nazwisko	
-Rychlikach	Rychliki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Rychlikach	Rychliki	subst:pl:loc:p3	nazwa geograficzna	
-Rychlikami	Rychliki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Rychlikami	Rychliki	subst:pl:inst:p3	nazwa geograficzna	
-Rychliki	Rychliki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Rychliki	Rychliki	subst:pl:acc:p3	nazwa geograficzna	
-Rychliki	Rychliki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Rychliki	Rychliki	subst:pl:nom:p3	nazwa geograficzna	
-Rychliki	Rychliki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Rychliki	Rychliki	subst:pl:voc:p3	nazwa geograficzna	
-Rychlikom	Rychliki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Rychlikom	Rychliki	subst:pl:dat:p3	nazwa geograficzna	
-Rychlik	Rychliki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Rychlik	Rychliki	subst:pl:gen:p3	nazwa geograficzna	
+Rychlikach	Rychliki	subst:pl:loc:n:pt	nazwa geograficzna	
+Rychlikach	Rychliki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Rychlikami	Rychliki	subst:pl:inst:n:pt	nazwa geograficzna	
+Rychlikami	Rychliki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Rychliki	Rychliki	subst:pl:acc:n:pt	nazwa geograficzna	
+Rychliki	Rychliki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Rychliki	Rychliki	subst:pl:nom:n:pt	nazwa geograficzna	
+Rychliki	Rychliki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Rychliki	Rychliki	subst:pl:voc:n:pt	nazwa geograficzna	
+Rychliki	Rychliki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Rychlikom	Rychliki	subst:pl:dat:n:pt	nazwa geograficzna	
+Rychlikom	Rychliki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Rychlik	Rychliki	subst:pl:gen:n:pt	nazwa geograficzna	
+Rychlik	Rychliki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Rychwale	Rychwał	subst:sg:loc:m3	nazwa geograficzna	
 Rychwale	Rychwał	subst:sg:voc:m3	nazwa geograficzna	
 Rychwałach	Rychwał	subst:pl:loc:m3	nazwa geograficzna	
@@ -7326,20 +7326,20 @@ Rychwałdy	Rychwałd	subst:pl:nom:m3	nazwa geograficzna
 Rychwałdy	Rychwałd	subst:pl:voc:m3	nazwa geograficzna	
 Rychwałdzie	Rychwałd	subst:sg:loc:m3	nazwa geograficzna	
 Rychwałdzie	Rychwałd	subst:sg:voc:m3	nazwa geograficzna	
-Rydułtowach	Rydułtowy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Rydułtowach	Rydułtowy	subst:pl:loc:p3	nazwa geograficzna	
-Rydułtowami	Rydułtowy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Rydułtowami	Rydułtowy	subst:pl:inst:p3	nazwa geograficzna	
-Rydułtowom	Rydułtowy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Rydułtowom	Rydułtowy	subst:pl:dat:p3	nazwa geograficzna	
-Rydułtowy	Rydułtowy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Rydułtowy	Rydułtowy	subst:pl:acc:p3	nazwa geograficzna	
-Rydułtowy	Rydułtowy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Rydułtowy	Rydułtowy	subst:pl:nom:p3	nazwa geograficzna	
-Rydułtowy	Rydułtowy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Rydułtowy	Rydułtowy	subst:pl:voc:p3	nazwa geograficzna	
-Rydułtów	Rydułtowy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Rydułtów	Rydułtowy	subst:pl:gen:p3	nazwa geograficzna	
+Rydułtowach	Rydułtowy	subst:pl:loc:n:pt	nazwa geograficzna	
+Rydułtowach	Rydułtowy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Rydułtowami	Rydułtowy	subst:pl:inst:n:pt	nazwa geograficzna	
+Rydułtowami	Rydułtowy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Rydułtowom	Rydułtowy	subst:pl:dat:n:pt	nazwa geograficzna	
+Rydułtowom	Rydułtowy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Rydułtowy	Rydułtowy	subst:pl:acc:n:pt	nazwa geograficzna	
+Rydułtowy	Rydułtowy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Rydułtowy	Rydułtowy	subst:pl:nom:n:pt	nazwa geograficzna	
+Rydułtowy	Rydułtowy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Rydułtowy	Rydułtowy	subst:pl:voc:n:pt	nazwa geograficzna	
+Rydułtowy	Rydułtowy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Rydułtów	Rydułtowy	subst:pl:gen:n:pt	nazwa geograficzna	
+Rydułtów	Rydułtowy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Rydzach	Rydz	subst:pl:loc:m1	nazwisko	
 Rydzami	Rydz	subst:pl:inst:m1	nazwisko	
 Rydza	Rydz	subst:sg:acc:m1	nazwisko	
@@ -7400,20 +7400,20 @@ Rygi	Ryga	subst:sg:gen:f	nazwa geograficzna
 Rygom	Ryga	subst:pl:dat:f	nazwa geograficzna	
 Rygo	Ryga	subst:sg:voc:f	nazwa geograficzna	
 Ryg	Ryga	subst:pl:gen:f	nazwa geograficzna	
-Ryglicach	Ryglice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Ryglicach	Ryglice	subst:pl:loc:p3	nazwa geograficzna	
-Ryglicami	Ryglice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Ryglicami	Ryglice	subst:pl:inst:p3	nazwa geograficzna	
-Ryglice	Ryglice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Ryglice	Ryglice	subst:pl:acc:p3	nazwa geograficzna	
-Ryglice	Ryglice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Ryglice	Ryglice	subst:pl:nom:p3	nazwa geograficzna	
-Ryglice	Ryglice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Ryglice	Ryglice	subst:pl:voc:p3	nazwa geograficzna	
-Ryglicom	Ryglice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Ryglicom	Ryglice	subst:pl:dat:p3	nazwa geograficzna	
-Ryglic	Ryglice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Ryglic	Ryglice	subst:pl:gen:p3	nazwa geograficzna	
+Ryglicach	Ryglice	subst:pl:loc:n:pt	nazwa geograficzna	
+Ryglicach	Ryglice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ryglicami	Ryglice	subst:pl:inst:n:pt	nazwa geograficzna	
+Ryglicami	Ryglice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ryglice	Ryglice	subst:pl:acc:n:pt	nazwa geograficzna	
+Ryglice	Ryglice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Ryglice	Ryglice	subst:pl:nom:n:pt	nazwa geograficzna	
+Ryglice	Ryglice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Ryglice	Ryglice	subst:pl:voc:n:pt	nazwa geograficzna	
+Ryglice	Ryglice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Ryglicom	Ryglice	subst:pl:dat:n:pt	nazwa geograficzna	
+Ryglicom	Ryglice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ryglic	Ryglice	subst:pl:gen:n:pt	nazwa geograficzna	
+Ryglic	Ryglice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Rygobercie	Rygobert	subst:sg:loc:m1	imię	
 Rygobercie	Rygobert	subst:sg:voc:m1	imię	
 Rygoberci	Rygobert	subst:pl:nom:m1	imię	
@@ -7432,34 +7432,34 @@ Rygobertów	Rygobert	subst:pl:gen:m1	imię
 Rygobert	Rygobert	subst:sg:nom:m1	imię	
 Rygoberty	Rygobert	depr:pl:nom:m2	imię	
 Rygoberty	Rygobert	depr:pl:voc:m2	imię	
-Ryjewach	Ryjewo	subst:pl:loc:n2	nazwa geograficzna	
-Ryjewami	Ryjewo	subst:pl:inst:n2	nazwa geograficzna	
-Ryjewa	Ryjewo	subst:pl:acc:n2	nazwa geograficzna	
-Ryjewa	Ryjewo	subst:pl:nom:n2	nazwa geograficzna	
-Ryjewa	Ryjewo	subst:pl:voc:n2	nazwa geograficzna	
-Ryjewa	Ryjewo	subst:sg:gen:n2	nazwa geograficzna	
-Ryjewem	Ryjewo	subst:sg:inst:n2	nazwa geograficzna	
-Ryjewie	Ryjewo	subst:sg:loc:n2	nazwa geograficzna	
-Ryjewom	Ryjewo	subst:pl:dat:n2	nazwa geograficzna	
-Ryjewo	Ryjewo	subst:sg:acc:n2	nazwa geograficzna	
-Ryjewo	Ryjewo	subst:sg:nom:n2	nazwa geograficzna	
-Ryjewo	Ryjewo	subst:sg:voc:n2	nazwa geograficzna	
-Ryjew	Ryjewo	subst:pl:gen:n2	nazwa geograficzna	
-Ryjewu	Ryjewo	subst:sg:dat:n2	nazwa geograficzna	
-Rykach	Ryki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Rykach	Ryki	subst:pl:loc:p3	nazwa geograficzna	
-Rykami	Ryki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Rykami	Ryki	subst:pl:inst:p3	nazwa geograficzna	
-Ryki	Ryki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Ryki	Ryki	subst:pl:acc:p3	nazwa geograficzna	
-Ryki	Ryki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Ryki	Ryki	subst:pl:nom:p3	nazwa geograficzna	
-Ryki	Ryki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Ryki	Ryki	subst:pl:voc:p3	nazwa geograficzna	
-Rykom	Ryki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Rykom	Ryki	subst:pl:dat:p3	nazwa geograficzna	
-Ryk	Ryki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Ryk	Ryki	subst:pl:gen:p3	nazwa geograficzna	
+Ryjewach	Ryjewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Ryjewami	Ryjewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Ryjewa	Ryjewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Ryjewa	Ryjewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Ryjewa	Ryjewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Ryjewa	Ryjewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Ryjewem	Ryjewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Ryjewie	Ryjewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Ryjewom	Ryjewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Ryjewo	Ryjewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Ryjewo	Ryjewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Ryjewo	Ryjewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Ryjew	Ryjewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ryjewu	Ryjewo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Rykach	Ryki	subst:pl:loc:n:pt	nazwa geograficzna	
+Rykach	Ryki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Rykami	Ryki	subst:pl:inst:n:pt	nazwa geograficzna	
+Rykami	Ryki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ryki	Ryki	subst:pl:acc:n:pt	nazwa geograficzna	
+Ryki	Ryki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Ryki	Ryki	subst:pl:nom:n:pt	nazwa geograficzna	
+Ryki	Ryki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Ryki	Ryki	subst:pl:voc:n:pt	nazwa geograficzna	
+Ryki	Ryki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Rykom	Ryki	subst:pl:dat:n:pt	nazwa geograficzna	
+Rykom	Ryki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ryk	Ryki	subst:pl:gen:n:pt	nazwa geograficzna	
+Ryk	Ryki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Rykowska	Rykowska	subst:sg:nom:f	nazwisko	
 Rykowska	Rykowska	subst:sg:voc:f	nazwisko	
 Rykowską	Rykowska	subst:sg:acc:f	nazwisko	
@@ -7738,20 +7738,20 @@ Rysiówny	Rysiówna	subst:pl:acc:f	nazwisko
 Rysiówny	Rysiówna	subst:pl:nom:f	nazwisko	
 Rysiówny	Rysiówna	subst:pl:voc:f	nazwisko	
 Rysiówny	Rysiówna	subst:sg:gen:f	nazwisko	
-Rysach	Rysy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Rysach	Rysy	subst:pl:loc:p3	nazwa geograficzna	
-Rysami	Rysy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Rysami	Rysy	subst:pl:inst:p3	nazwa geograficzna	
-Rysom	Rysy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Rysom	Rysy	subst:pl:dat:p3	nazwa geograficzna	
-Rysów	Rysy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Rysów	Rysy	subst:pl:gen:p3	nazwa geograficzna	
-Rysy	Rysy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Rysy	Rysy	subst:pl:acc:p3	nazwa geograficzna	
-Rysy	Rysy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Rysy	Rysy	subst:pl:nom:p3	nazwa geograficzna	
-Rysy	Rysy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Rysy	Rysy	subst:pl:voc:p3	nazwa geograficzna	
+Rysach	Rysy	subst:pl:loc:n:pt	nazwa geograficzna	
+Rysach	Rysy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Rysami	Rysy	subst:pl:inst:n:pt	nazwa geograficzna	
+Rysami	Rysy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Rysom	Rysy	subst:pl:dat:n:pt	nazwa geograficzna	
+Rysom	Rysy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Rysów	Rysy	subst:pl:gen:n:pt	nazwa geograficzna	
+Rysów	Rysy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Rysy	Rysy	subst:pl:acc:n:pt	nazwa geograficzna	
+Rysy	Rysy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Rysy	Rysy	subst:pl:nom:n:pt	nazwa geograficzna	
+Rysy	Rysy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Rysy	Rysy	subst:pl:voc:n:pt	nazwa geograficzna	
+Rysy	Rysy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Ryszardach	Ryszard	subst:pl:loc:m1	imię	
 Ryszardami	Ryszard	subst:pl:inst:m1	imię	
 Ryszarda	Ryszard	subst:sg:acc:m1	imię	
@@ -7830,20 +7830,20 @@ Rysiów	Ryś	subst:pl:gen:m1	imię
 Rysiu	Ryś	subst:sg:loc:m1	imię	
 Rysiu	Ryś	subst:sg:voc:m1	imię	
 Ryś	Ryś	subst:sg:nom:m1	imię	
-Rytrach	Rytro	subst:pl:loc:n2	nazwa geograficzna	
-Rytrami	Rytro	subst:pl:inst:n2	nazwa geograficzna	
-Rytra	Rytro	subst:pl:acc:n2	nazwa geograficzna	
-Rytra	Rytro	subst:pl:nom:n2	nazwa geograficzna	
-Rytra	Rytro	subst:pl:voc:n2	nazwa geograficzna	
-Rytra	Rytro	subst:sg:gen:n2	nazwa geograficzna	
-Rytrem	Rytro	subst:sg:inst:n2	nazwa geograficzna	
-Rytrom	Rytro	subst:pl:dat:n2	nazwa geograficzna	
-Rytro	Rytro	subst:sg:acc:n2	nazwa geograficzna	
-Rytro	Rytro	subst:sg:nom:n2	nazwa geograficzna	
-Rytro	Rytro	subst:sg:voc:n2	nazwa geograficzna	
-Rytr	Rytro	subst:pl:gen:n2	nazwa geograficzna	
-Rytru	Rytro	subst:sg:dat:n2	nazwa geograficzna	
-Rytrze	Rytro	subst:sg:loc:n2	nazwa geograficzna	
+Rytrach	Rytro	subst:pl:loc:n:ncol	nazwa geograficzna	
+Rytrami	Rytro	subst:pl:inst:n:ncol	nazwa geograficzna	
+Rytra	Rytro	subst:pl:acc:n:ncol	nazwa geograficzna	
+Rytra	Rytro	subst:pl:nom:n:ncol	nazwa geograficzna	
+Rytra	Rytro	subst:pl:voc:n:ncol	nazwa geograficzna	
+Rytra	Rytro	subst:sg:gen:n:ncol	nazwa geograficzna	
+Rytrem	Rytro	subst:sg:inst:n:ncol	nazwa geograficzna	
+Rytrom	Rytro	subst:pl:dat:n:ncol	nazwa geograficzna	
+Rytro	Rytro	subst:sg:acc:n:ncol	nazwa geograficzna	
+Rytro	Rytro	subst:sg:nom:n:ncol	nazwa geograficzna	
+Rytro	Rytro	subst:sg:voc:n:ncol	nazwa geograficzna	
+Rytr	Rytro	subst:pl:gen:n:ncol	nazwa geograficzna	
+Rytru	Rytro	subst:sg:dat:n:ncol	nazwa geograficzna	
+Rytrze	Rytro	subst:sg:loc:n:ncol	nazwa geograficzna	
 Rywinach	Rywin	subst:pl:loc:m1	nazwisko	
 Rywinami	Rywin	subst:pl:inst:m1	nazwisko	
 Rywina	Rywin	subst:sg:acc:m1	nazwisko	
@@ -8108,20 +8108,20 @@ Rzesz	Rzesza	subst:pl:gen:f	człon nazwy własnej
 Rzeszy	Rzesza	subst:sg:dat:f	człon nazwy własnej	
 Rzeszy	Rzesza	subst:sg:gen:f	człon nazwy własnej	
 Rzeszy	Rzesza	subst:sg:loc:f	człon nazwy własnej	
-Rzeszowskich	Rzeszowskie	subst:pl:gen:n2	nazwa geograficzna	
-Rzeszowskich	Rzeszowskie	subst:pl:loc:n2	nazwa geograficzna	
-Rzeszowskiego	Rzeszowskie	subst:sg:gen:n2	nazwa geograficzna	
-Rzeszowskiem	Rzeszowskie	subst:sg:inst:n2	nazwa geograficzna	
-Rzeszowskiem	Rzeszowskie	subst:sg:loc:n2	nazwa geograficzna	
-Rzeszowskiemu	Rzeszowskie	subst:sg:dat:n2	nazwa geograficzna	
-Rzeszowskie	Rzeszowskie	subst:pl:acc:n2	nazwa geograficzna	
-Rzeszowskie	Rzeszowskie	subst:pl:nom:n2	nazwa geograficzna	
-Rzeszowskie	Rzeszowskie	subst:pl:voc:n2	nazwa geograficzna	
-Rzeszowskie	Rzeszowskie	subst:sg:acc:n2	nazwa geograficzna	
-Rzeszowskie	Rzeszowskie	subst:sg:nom:n2	nazwa geograficzna	
-Rzeszowskie	Rzeszowskie	subst:sg:voc:n2	nazwa geograficzna	
-Rzeszowskimi	Rzeszowskie	subst:pl:inst:n2	nazwa geograficzna	
-Rzeszowskim	Rzeszowskie	subst:pl:dat:n2	nazwa geograficzna	
+Rzeszowskich	Rzeszowskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Rzeszowskich	Rzeszowskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Rzeszowskiego	Rzeszowskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Rzeszowskiem	Rzeszowskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Rzeszowskiem	Rzeszowskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Rzeszowskiemu	Rzeszowskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Rzeszowskie	Rzeszowskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Rzeszowskie	Rzeszowskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Rzeszowskie	Rzeszowskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Rzeszowskie	Rzeszowskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Rzeszowskie	Rzeszowskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Rzeszowskie	Rzeszowskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Rzeszowskimi	Rzeszowskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Rzeszowskim	Rzeszowskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Rzeszowszczyznach	Rzeszowszczyzna	subst:pl:loc:f	nazwa geograficzna	
 Rzeszowszczyznami	Rzeszowszczyzna	subst:pl:inst:f	nazwa geograficzna	
 Rzeszowszczyzna	Rzeszowszczyzna	subst:sg:nom:f	nazwa geograficzna	

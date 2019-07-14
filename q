@@ -47,68 +47,68 @@ quadowa	quadowy	adj:sg:nom.voc:f:pos
 quadową	quadowy	adj:sg:acc:f:pos		
 quadową	quadowy	adj:sg:inst:f:pos		
 quadowego	quadowy	adj:sg:acc:m1.m2:pos		
-quadowego	quadowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+quadowego	quadowy	adj:sg:gen:m1.m2.m3.n:pos		
 quadowej	quadowy	adj:sg:dat:f:pos		
 quadowej	quadowy	adj:sg:gen:f:pos		
 quadowej	quadowy	adj:sg:loc:f:pos		
-quadowemu	quadowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-quadowe	quadowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-quadowe	quadowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-quadowe	quadowy	adj:sg:acc:n1.n2:pos		
-quadowe	quadowy	adj:sg:nom.voc:n1.n2:pos		
-quadowi	quadowy	adj:pl:nom.voc:m1.p1:pos		
+quadowemu	quadowy	adj:sg:dat:m1.m2.m3.n:pos		
+quadowe	quadowy	adj:pl:acc:m2.m3.f.n:pos		
+quadowe	quadowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+quadowe	quadowy	adj:sg:acc:n:pos		
+quadowe	quadowy	adj:sg:nom.voc:n:pos		
+quadowi	quadowy	adj:pl:nom.voc:m1:pos		
 quadowo	quadowy	adja		
-quadowych	quadowy	adj:pl:acc:m1.p1:pos		
-quadowych	quadowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-quadowych	quadowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-quadowymi	quadowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-quadowym	quadowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-quadowym	quadowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-quadowym	quadowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+quadowych	quadowy	adj:pl:acc:m1:pos		
+quadowych	quadowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+quadowych	quadowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+quadowymi	quadowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+quadowym	quadowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+quadowym	quadowy	adj:sg:inst:m1.m2.m3.n:pos		
+quadowym	quadowy	adj:sg:loc:m1.m2.m3.n:pos		
 quadowy	quadowy	adj:sg:acc:m3:pos		
 quadowy	quadowy	adj:sg:nom.voc:m1.m2.m3:pos		
-quadriennale	quadriennale	subst:pl:acc:n2	nazwa pospolita	
-quadriennale	quadriennale	subst:pl:dat:n2	nazwa pospolita	
-quadriennale	quadriennale	subst:pl:gen:n2	nazwa pospolita	
-quadriennale	quadriennale	subst:pl:inst:n2	nazwa pospolita	
-quadriennale	quadriennale	subst:pl:loc:n2	nazwa pospolita	
-quadriennale	quadriennale	subst:pl:nom:n2	nazwa pospolita	
-quadriennale	quadriennale	subst:pl:voc:n2	nazwa pospolita	
-quadriennale	quadriennale	subst:sg:acc:n2	nazwa pospolita	
-quadriennale	quadriennale	subst:sg:dat:n2	nazwa pospolita	
-quadriennale	quadriennale	subst:sg:gen:n2	nazwa pospolita	
-quadriennale	quadriennale	subst:sg:inst:n2	nazwa pospolita	
-quadriennale	quadriennale	subst:sg:loc:n2	nazwa pospolita	
-quadriennale	quadriennale	subst:sg:nom:n2	nazwa pospolita	
-quadriennale	quadriennale	subst:sg:voc:n2	nazwa pospolita	
-quadriviach	quadrivium	subst:pl:loc:n2	nazwa pospolita	
-quadriviami	quadrivium	subst:pl:inst:n2	nazwa pospolita	
-quadrivia	quadrivium	subst:pl:acc:n2	nazwa pospolita	
-quadrivia	quadrivium	subst:pl:nom:n2	nazwa pospolita	
-quadrivia	quadrivium	subst:pl:voc:n2	nazwa pospolita	
-quadriviom	quadrivium	subst:pl:dat:n2	nazwa pospolita	
-quadriviów	quadrivium	subst:pl:gen:n2	nazwa pospolita	
-quadrivium	quadrivium	subst:sg:acc:n2	nazwa pospolita	
-quadrivium	quadrivium	subst:sg:dat:n2	nazwa pospolita	
-quadrivium	quadrivium	subst:sg:gen:n2	nazwa pospolita	
-quadrivium	quadrivium	subst:sg:inst:n2	nazwa pospolita	
-quadrivium	quadrivium	subst:sg:loc:n2	nazwa pospolita	
-quadrivium	quadrivium	subst:sg:nom:n2	nazwa pospolita	
-quadrivium	quadrivium	subst:sg:voc:n2	nazwa pospolita	
-quantach	quantum	subst:pl:loc:n2	nazwa pospolita	
-quantami	quantum	subst:pl:inst:n2	nazwa pospolita	
-quanta	quantum	subst:pl:acc:n2	nazwa pospolita	
-quanta	quantum	subst:pl:nom:n2	nazwa pospolita	
-quanta	quantum	subst:pl:voc:n2	nazwa pospolita	
-quantom	quantum	subst:pl:dat:n2	nazwa pospolita	
-quantów	quantum	subst:pl:gen:n2	nazwa pospolita	
-quantum	quantum	subst:sg:acc:n2	nazwa pospolita	
-quantum	quantum	subst:sg:dat:n2	nazwa pospolita	
-quantum	quantum	subst:sg:gen:n2	nazwa pospolita	
-quantum	quantum	subst:sg:inst:n2	nazwa pospolita	
-quantum	quantum	subst:sg:loc:n2	nazwa pospolita	
-quantum	quantum	subst:sg:nom:n2	nazwa pospolita	
-quantum	quantum	subst:sg:voc:n2	nazwa pospolita	
+quadriennale	quadriennale	subst:pl:acc:n:ncol	nazwa pospolita	
+quadriennale	quadriennale	subst:pl:dat:n:ncol	nazwa pospolita	
+quadriennale	quadriennale	subst:pl:gen:n:ncol	nazwa pospolita	
+quadriennale	quadriennale	subst:pl:inst:n:ncol	nazwa pospolita	
+quadriennale	quadriennale	subst:pl:loc:n:ncol	nazwa pospolita	
+quadriennale	quadriennale	subst:pl:nom:n:ncol	nazwa pospolita	
+quadriennale	quadriennale	subst:pl:voc:n:ncol	nazwa pospolita	
+quadriennale	quadriennale	subst:sg:acc:n:ncol	nazwa pospolita	
+quadriennale	quadriennale	subst:sg:dat:n:ncol	nazwa pospolita	
+quadriennale	quadriennale	subst:sg:gen:n:ncol	nazwa pospolita	
+quadriennale	quadriennale	subst:sg:inst:n:ncol	nazwa pospolita	
+quadriennale	quadriennale	subst:sg:loc:n:ncol	nazwa pospolita	
+quadriennale	quadriennale	subst:sg:nom:n:ncol	nazwa pospolita	
+quadriennale	quadriennale	subst:sg:voc:n:ncol	nazwa pospolita	
+quadriviach	quadrivium	subst:pl:loc:n:ncol	nazwa pospolita	
+quadriviami	quadrivium	subst:pl:inst:n:ncol	nazwa pospolita	
+quadrivia	quadrivium	subst:pl:acc:n:ncol	nazwa pospolita	
+quadrivia	quadrivium	subst:pl:nom:n:ncol	nazwa pospolita	
+quadrivia	quadrivium	subst:pl:voc:n:ncol	nazwa pospolita	
+quadriviom	quadrivium	subst:pl:dat:n:ncol	nazwa pospolita	
+quadriviów	quadrivium	subst:pl:gen:n:ncol	nazwa pospolita	
+quadrivium	quadrivium	subst:sg:acc:n:ncol	nazwa pospolita	
+quadrivium	quadrivium	subst:sg:dat:n:ncol	nazwa pospolita	
+quadrivium	quadrivium	subst:sg:gen:n:ncol	nazwa pospolita	
+quadrivium	quadrivium	subst:sg:inst:n:ncol	nazwa pospolita	
+quadrivium	quadrivium	subst:sg:loc:n:ncol	nazwa pospolita	
+quadrivium	quadrivium	subst:sg:nom:n:ncol	nazwa pospolita	
+quadrivium	quadrivium	subst:sg:voc:n:ncol	nazwa pospolita	
+quantach	quantum	subst:pl:loc:n:ncol	nazwa pospolita	
+quantami	quantum	subst:pl:inst:n:ncol	nazwa pospolita	
+quanta	quantum	subst:pl:acc:n:ncol	nazwa pospolita	
+quanta	quantum	subst:pl:nom:n:ncol	nazwa pospolita	
+quanta	quantum	subst:pl:voc:n:ncol	nazwa pospolita	
+quantom	quantum	subst:pl:dat:n:ncol	nazwa pospolita	
+quantów	quantum	subst:pl:gen:n:ncol	nazwa pospolita	
+quantum	quantum	subst:sg:acc:n:ncol	nazwa pospolita	
+quantum	quantum	subst:sg:dat:n:ncol	nazwa pospolita	
+quantum	quantum	subst:sg:gen:n:ncol	nazwa pospolita	
+quantum	quantum	subst:sg:inst:n:ncol	nazwa pospolita	
+quantum	quantum	subst:sg:loc:n:ncol	nazwa pospolita	
+quantum	quantum	subst:sg:nom:n:ncol	nazwa pospolita	
+quantum	quantum	subst:sg:voc:n:ncol	nazwa pospolita	
 quasimodach	quasimodo	subst:pl:loc:m1	nazwa pospolita	
 quasimodami	quasimodo	subst:pl:inst:m1	nazwa pospolita	
 quasimoda	quasimodo	depr:pl:nom:m2	nazwa pospolita	
@@ -125,52 +125,52 @@ quasimodowi	quasimodo	subst:sg:dat:m1	nazwa pospolita
 quasimodów	quasimodo	subst:pl:acc:m1	nazwa pospolita	
 quasimodów	quasimodo	subst:pl:gen:m1	nazwa pospolita	
 quasimodzie	quasimodo	subst:sg:loc:m1	nazwa pospolita	
-quattrocencie	quattrocento	subst:sg:loc:n2	nazwa pospolita	
-quattrocentach	quattrocento	subst:pl:loc:n2	nazwa pospolita	
-quattrocentami	quattrocento	subst:pl:inst:n2	nazwa pospolita	
-quattrocenta	quattrocento	subst:pl:acc:n2	nazwa pospolita	
-quattrocenta	quattrocento	subst:pl:nom:n2	nazwa pospolita	
-quattrocenta	quattrocento	subst:pl:voc:n2	nazwa pospolita	
-quattrocenta	quattrocento	subst:sg:gen:n2	nazwa pospolita	
-quattrocentem	quattrocento	subst:sg:inst:n2	nazwa pospolita	
-quattrocentom	quattrocento	subst:pl:dat:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:pl:acc:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:pl:dat:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:pl:gen:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:pl:inst:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:pl:loc:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:pl:nom:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:pl:voc:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:sg:acc:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:sg:dat:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:sg:gen:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:sg:inst:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:sg:loc:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:sg:nom:n2	nazwa pospolita	
-quattrocento	quattrocento	subst:sg:voc:n2	nazwa pospolita	
-quattrocent	quattrocento	subst:pl:gen:n2	nazwa pospolita	
-quattrocentu	quattrocento	subst:sg:dat:n2	nazwa pospolita	
-quebeccy	quebecki	adj:pl:nom.voc:m1.p1:pos		
+quattrocencie	quattrocento	subst:sg:loc:n:ncol	nazwa pospolita	
+quattrocentach	quattrocento	subst:pl:loc:n:ncol	nazwa pospolita	
+quattrocentami	quattrocento	subst:pl:inst:n:ncol	nazwa pospolita	
+quattrocenta	quattrocento	subst:pl:acc:n:ncol	nazwa pospolita	
+quattrocenta	quattrocento	subst:pl:nom:n:ncol	nazwa pospolita	
+quattrocenta	quattrocento	subst:pl:voc:n:ncol	nazwa pospolita	
+quattrocenta	quattrocento	subst:sg:gen:n:ncol	nazwa pospolita	
+quattrocentem	quattrocento	subst:sg:inst:n:ncol	nazwa pospolita	
+quattrocentom	quattrocento	subst:pl:dat:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:pl:acc:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:pl:dat:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:pl:gen:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:pl:inst:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:pl:loc:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:pl:nom:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:pl:voc:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:sg:acc:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:sg:dat:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:sg:gen:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:sg:inst:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:sg:loc:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:sg:nom:n:ncol	nazwa pospolita	
+quattrocento	quattrocento	subst:sg:voc:n:ncol	nazwa pospolita	
+quattrocent	quattrocento	subst:pl:gen:n:ncol	nazwa pospolita	
+quattrocentu	quattrocento	subst:sg:dat:n:ncol	nazwa pospolita	
+quebeccy	quebecki	adj:pl:nom.voc:m1:pos		
 quebecka	quebecki	adj:sg:nom.voc:f:pos		
 quebecką	quebecki	adj:sg:acc:f:pos		
 quebecką	quebecki	adj:sg:inst:f:pos		
-quebeckich	quebecki	adj:pl:acc:m1.p1:pos		
-quebeckich	quebecki	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-quebeckich	quebecki	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+quebeckich	quebecki	adj:pl:acc:m1:pos		
+quebeckich	quebecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+quebeckich	quebecki	adj:pl:loc:m1.m2.m3.f.n:pos		
 quebeckiego	quebecki	adj:sg:acc:m1.m2:pos		
-quebeckiego	quebecki	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+quebeckiego	quebecki	adj:sg:gen:m1.m2.m3.n:pos		
 quebeckiej	quebecki	adj:sg:dat:f:pos		
 quebeckiej	quebecki	adj:sg:gen:f:pos		
 quebeckiej	quebecki	adj:sg:loc:f:pos		
-quebeckiemu	quebecki	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-quebeckie	quebecki	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-quebeckie	quebecki	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-quebeckie	quebecki	adj:sg:acc:n1.n2:pos		
-quebeckie	quebecki	adj:sg:nom.voc:n1.n2:pos		
-quebeckimi	quebecki	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-quebeckim	quebecki	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-quebeckim	quebecki	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-quebeckim	quebecki	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+quebeckiemu	quebecki	adj:sg:dat:m1.m2.m3.n:pos		
+quebeckie	quebecki	adj:pl:acc:m2.m3.f.n:pos		
+quebeckie	quebecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+quebeckie	quebecki	adj:sg:acc:n:pos		
+quebeckie	quebecki	adj:sg:nom.voc:n:pos		
+quebeckimi	quebecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+quebeckim	quebecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+quebeckim	quebecki	adj:sg:inst:m1.m2.m3.n:pos		
+quebeckim	quebecki	adj:sg:loc:m1.m2.m3.n:pos		
 quebecki	quebecki	adj:sg:acc:m3:pos		
 quebecki	quebecki	adj:sg:nom.voc:m1.m2.m3:pos		
 quebecko	quebecki	adja		
@@ -190,20 +190,20 @@ quebeckości	quebeckość	subst:sg:loc:f	nazwa pospolita
 quebeckości	quebeckość	subst:sg:voc:f	nazwa pospolita	
 quebeckość	quebeckość	subst:sg:acc:f	nazwa pospolita	
 quebeckość	quebeckość	subst:sg:nom:f	nazwa pospolita	
-quebrachach	quebracho	subst:pl:loc:n2	nazwa pospolita	
-quebrachami	quebracho	subst:pl:inst:n2	nazwa pospolita	
-quebracha	quebracho	subst:pl:acc:n2	nazwa pospolita	
-quebracha	quebracho	subst:pl:nom:n2	nazwa pospolita	
-quebracha	quebracho	subst:pl:voc:n2	nazwa pospolita	
-quebracha	quebracho	subst:sg:gen:n2	nazwa pospolita	
-quebrachem	quebracho	subst:sg:inst:n2	nazwa pospolita	
-quebrachom	quebracho	subst:pl:dat:n2	nazwa pospolita	
-quebracho	quebracho	subst:sg:acc:n2	nazwa pospolita	
-quebracho	quebracho	subst:sg:nom:n2	nazwa pospolita	
-quebracho	quebracho	subst:sg:voc:n2	nazwa pospolita	
-quebrach	quebracho	subst:pl:gen:n2	nazwa pospolita	
-quebrachu	quebracho	subst:sg:dat:n2	nazwa pospolita	
-quebrachu	quebracho	subst:sg:loc:n2	nazwa pospolita	
+quebrachach	quebracho	subst:pl:loc:n:ncol	nazwa pospolita	
+quebrachami	quebracho	subst:pl:inst:n:ncol	nazwa pospolita	
+quebracha	quebracho	subst:pl:acc:n:ncol	nazwa pospolita	
+quebracha	quebracho	subst:pl:nom:n:ncol	nazwa pospolita	
+quebracha	quebracho	subst:pl:voc:n:ncol	nazwa pospolita	
+quebracha	quebracho	subst:sg:gen:n:ncol	nazwa pospolita	
+quebrachem	quebracho	subst:sg:inst:n:ncol	nazwa pospolita	
+quebrachom	quebracho	subst:pl:dat:n:ncol	nazwa pospolita	
+quebracho	quebracho	subst:sg:acc:n:ncol	nazwa pospolita	
+quebracho	quebracho	subst:sg:nom:n:ncol	nazwa pospolita	
+quebracho	quebracho	subst:sg:voc:n:ncol	nazwa pospolita	
+quebrach	quebracho	subst:pl:gen:n:ncol	nazwa pospolita	
+quebrachu	quebracho	subst:sg:dat:n:ncol	nazwa pospolita	
+quebrachu	quebracho	subst:sg:loc:n:ncol	nazwa pospolita	
 queerowo	queerowo	adv:pos		
 queerowościach	queerowość	subst:pl:loc:f		
 queerowościami	queerowość	subst:pl:inst:f		
@@ -223,24 +223,24 @@ queerowa	queerowy	adj:sg:nom.voc:f:pos
 queerową	queerowy	adj:sg:acc:f:pos		
 queerową	queerowy	adj:sg:inst:f:pos		
 queerowego	queerowy	adj:sg:acc:m1.m2:pos		
-queerowego	queerowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+queerowego	queerowy	adj:sg:gen:m1.m2.m3.n:pos		
 queerowej	queerowy	adj:sg:dat:f:pos		
 queerowej	queerowy	adj:sg:gen:f:pos		
 queerowej	queerowy	adj:sg:loc:f:pos		
-queerowemu	queerowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-queerowe	queerowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-queerowe	queerowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-queerowe	queerowy	adj:sg:acc:n1.n2:pos		
-queerowe	queerowy	adj:sg:nom.voc:n1.n2:pos		
-queerowi	queerowy	adj:pl:nom.voc:m1.p1:pos		
+queerowemu	queerowy	adj:sg:dat:m1.m2.m3.n:pos		
+queerowe	queerowy	adj:pl:acc:m2.m3.f.n:pos		
+queerowe	queerowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+queerowe	queerowy	adj:sg:acc:n:pos		
+queerowe	queerowy	adj:sg:nom.voc:n:pos		
+queerowi	queerowy	adj:pl:nom.voc:m1:pos		
 queerowo	queerowy	adja		
-queerowych	queerowy	adj:pl:acc:m1.p1:pos		
-queerowych	queerowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-queerowych	queerowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-queerowymi	queerowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-queerowym	queerowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-queerowym	queerowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-queerowym	queerowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+queerowych	queerowy	adj:pl:acc:m1:pos		
+queerowych	queerowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+queerowych	queerowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+queerowymi	queerowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+queerowym	queerowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+queerowym	queerowy	adj:sg:inst:m1.m2.m3.n:pos		
+queerowym	queerowy	adj:sg:loc:m1.m2.m3.n:pos		
 queerowy	queerowy	adj:sg:acc:m3:pos		
 queerowy	queerowy	adj:sg:nom.voc:m1.m2.m3:pos		
 quetzalach	quetzal	subst:pl:loc:m2	nazwa pospolita	
@@ -285,20 +285,20 @@ quickstep	quickstep	subst:sg:nom:m2	nazwa pospolita
 quickstepy	quickstep	subst:pl:acc:m2	nazwa pospolita	
 quickstepy	quickstep	subst:pl:nom:m2	nazwa pospolita	
 quickstepy	quickstep	subst:pl:voc:m2	nazwa pospolita	
-quipu	quipu	subst:pl:acc:n2	nazwa pospolita	
-quipu	quipu	subst:pl:dat:n2	nazwa pospolita	
-quipu	quipu	subst:pl:gen:n2	nazwa pospolita	
-quipu	quipu	subst:pl:inst:n2	nazwa pospolita	
-quipu	quipu	subst:pl:loc:n2	nazwa pospolita	
-quipu	quipu	subst:pl:nom:n2	nazwa pospolita	
-quipu	quipu	subst:pl:voc:n2	nazwa pospolita	
-quipu	quipu	subst:sg:acc:n2	nazwa pospolita	
-quipu	quipu	subst:sg:dat:n2	nazwa pospolita	
-quipu	quipu	subst:sg:gen:n2	nazwa pospolita	
-quipu	quipu	subst:sg:inst:n2	nazwa pospolita	
-quipu	quipu	subst:sg:loc:n2	nazwa pospolita	
-quipu	quipu	subst:sg:nom:n2	nazwa pospolita	
-quipu	quipu	subst:sg:voc:n2	nazwa pospolita	
+quipu	quipu	subst:pl:acc:n:ncol	nazwa pospolita	
+quipu	quipu	subst:pl:dat:n:ncol	nazwa pospolita	
+quipu	quipu	subst:pl:gen:n:ncol	nazwa pospolita	
+quipu	quipu	subst:pl:inst:n:ncol	nazwa pospolita	
+quipu	quipu	subst:pl:loc:n:ncol	nazwa pospolita	
+quipu	quipu	subst:pl:nom:n:ncol	nazwa pospolita	
+quipu	quipu	subst:pl:voc:n:ncol	nazwa pospolita	
+quipu	quipu	subst:sg:acc:n:ncol	nazwa pospolita	
+quipu	quipu	subst:sg:dat:n:ncol	nazwa pospolita	
+quipu	quipu	subst:sg:gen:n:ncol	nazwa pospolita	
+quipu	quipu	subst:sg:inst:n:ncol	nazwa pospolita	
+quipu	quipu	subst:sg:loc:n:ncol	nazwa pospolita	
+quipu	quipu	subst:sg:nom:n:ncol	nazwa pospolita	
+quipu	quipu	subst:sg:voc:n:ncol	nazwa pospolita	
 quizach	quiz	subst:pl:loc:m3	nazwa pospolita	
 quizami	quiz	subst:pl:inst:m3	nazwa pospolita	
 quizem	quiz	subst:sg:inst:m3	nazwa pospolita	
@@ -331,47 +331,47 @@ quizowa	quizowy	adj:sg:nom.voc:f:pos
 quizową	quizowy	adj:sg:acc:f:pos		
 quizową	quizowy	adj:sg:inst:f:pos		
 quizowego	quizowy	adj:sg:acc:m1.m2:pos		
-quizowego	quizowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+quizowego	quizowy	adj:sg:gen:m1.m2.m3.n:pos		
 quizowej	quizowy	adj:sg:dat:f:pos		
 quizowej	quizowy	adj:sg:gen:f:pos		
 quizowej	quizowy	adj:sg:loc:f:pos		
-quizowemu	quizowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-quizowe	quizowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-quizowe	quizowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-quizowe	quizowy	adj:sg:acc:n1.n2:pos		
-quizowe	quizowy	adj:sg:nom.voc:n1.n2:pos		
-quizowi	quizowy	adj:pl:nom.voc:m1.p1:pos		
+quizowemu	quizowy	adj:sg:dat:m1.m2.m3.n:pos		
+quizowe	quizowy	adj:pl:acc:m2.m3.f.n:pos		
+quizowe	quizowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+quizowe	quizowy	adj:sg:acc:n:pos		
+quizowe	quizowy	adj:sg:nom.voc:n:pos		
+quizowi	quizowy	adj:pl:nom.voc:m1:pos		
 quizowo	quizowy	adja		
-quizowych	quizowy	adj:pl:acc:m1.p1:pos		
-quizowych	quizowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-quizowych	quizowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-quizowymi	quizowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-quizowym	quizowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-quizowym	quizowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-quizowym	quizowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+quizowych	quizowy	adj:pl:acc:m1:pos		
+quizowych	quizowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+quizowych	quizowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+quizowymi	quizowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+quizowym	quizowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+quizowym	quizowy	adj:sg:inst:m1.m2.m3.n:pos		
+quizowym	quizowy	adj:sg:loc:m1.m2.m3.n:pos		
 quizowy	quizowy	adj:sg:acc:m3:pos		
 quizowy	quizowy	adj:sg:nom.voc:m1.m2.m3:pos		
-qumrańscy	qumrański	adj:pl:nom.voc:m1.p1:pos		
+qumrańscy	qumrański	adj:pl:nom.voc:m1:pos		
 qumrańska	qumrański	adj:sg:nom.voc:f:pos		
 qumrańską	qumrański	adj:sg:acc:f:pos		
 qumrańską	qumrański	adj:sg:inst:f:pos		
-qumrańskich	qumrański	adj:pl:acc:m1.p1:pos		
-qumrańskich	qumrański	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-qumrańskich	qumrański	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+qumrańskich	qumrański	adj:pl:acc:m1:pos		
+qumrańskich	qumrański	adj:pl:gen:m1.m2.m3.f.n:pos		
+qumrańskich	qumrański	adj:pl:loc:m1.m2.m3.f.n:pos		
 qumrańskiego	qumrański	adj:sg:acc:m1.m2:pos		
-qumrańskiego	qumrański	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+qumrańskiego	qumrański	adj:sg:gen:m1.m2.m3.n:pos		
 qumrańskiej	qumrański	adj:sg:dat:f:pos		
 qumrańskiej	qumrański	adj:sg:gen:f:pos		
 qumrańskiej	qumrański	adj:sg:loc:f:pos		
-qumrańskiemu	qumrański	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-qumrańskie	qumrański	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-qumrańskie	qumrański	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-qumrańskie	qumrański	adj:sg:acc:n1.n2:pos		
-qumrańskie	qumrański	adj:sg:nom.voc:n1.n2:pos		
-qumrańskimi	qumrański	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-qumrańskim	qumrański	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-qumrańskim	qumrański	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-qumrańskim	qumrański	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+qumrańskiemu	qumrański	adj:sg:dat:m1.m2.m3.n:pos		
+qumrańskie	qumrański	adj:pl:acc:m2.m3.f.n:pos		
+qumrańskie	qumrański	adj:pl:nom.voc:m2.m3.f.n:pos		
+qumrańskie	qumrański	adj:sg:acc:n:pos		
+qumrańskie	qumrański	adj:sg:nom.voc:n:pos		
+qumrańskimi	qumrański	adj:pl:inst:m1.m2.m3.f.n:pos		
+qumrańskim	qumrański	adj:pl:dat:m1.m2.m3.f.n:pos		
+qumrańskim	qumrański	adj:sg:inst:m1.m2.m3.n:pos		
+qumrańskim	qumrański	adj:sg:loc:m1.m2.m3.n:pos		
 qumrański	qumrański	adj:sg:acc:m3:pos		
 qumrański	qumrański	adj:sg:nom.voc:m1.m2.m3:pos		
 qumrańsko	qumrański	adja		
@@ -405,17 +405,17 @@ quodlibetu	quodlibet	subst:sg:gen:m3	nazwa pospolita
 quodlibety	quodlibet	subst:pl:acc:m3	nazwa pospolita	
 quodlibety	quodlibet	subst:pl:nom:m3	nazwa pospolita	
 quodlibety	quodlibet	subst:pl:voc:m3	nazwa pospolita	
-quorach	quorum	subst:pl:loc:n2	nazwa pospolita	
-quorami	quorum	subst:pl:inst:n2	nazwa pospolita	
-quora	quorum	subst:pl:acc:n2	nazwa pospolita	
-quora	quorum	subst:pl:nom:n2	nazwa pospolita	
-quora	quorum	subst:pl:voc:n2	nazwa pospolita	
-quorom	quorum	subst:pl:dat:n2	nazwa pospolita	
-quorów	quorum	subst:pl:gen:n2	nazwa pospolita	
-quorum	quorum	subst:sg:acc:n2	nazwa pospolita	
-quorum	quorum	subst:sg:dat:n2	nazwa pospolita	
-quorum	quorum	subst:sg:gen:n2	nazwa pospolita	
-quorum	quorum	subst:sg:inst:n2	nazwa pospolita	
-quorum	quorum	subst:sg:loc:n2	nazwa pospolita	
-quorum	quorum	subst:sg:nom:n2	nazwa pospolita	
-quorum	quorum	subst:sg:voc:n2	nazwa pospolita	
+quorach	quorum	subst:pl:loc:n:ncol	nazwa pospolita	
+quorami	quorum	subst:pl:inst:n:ncol	nazwa pospolita	
+quora	quorum	subst:pl:acc:n:ncol	nazwa pospolita	
+quora	quorum	subst:pl:nom:n:ncol	nazwa pospolita	
+quora	quorum	subst:pl:voc:n:ncol	nazwa pospolita	
+quorom	quorum	subst:pl:dat:n:ncol	nazwa pospolita	
+quorów	quorum	subst:pl:gen:n:ncol	nazwa pospolita	
+quorum	quorum	subst:sg:acc:n:ncol	nazwa pospolita	
+quorum	quorum	subst:sg:dat:n:ncol	nazwa pospolita	
+quorum	quorum	subst:sg:gen:n:ncol	nazwa pospolita	
+quorum	quorum	subst:sg:inst:n:ncol	nazwa pospolita	
+quorum	quorum	subst:sg:loc:n:ncol	nazwa pospolita	
+quorum	quorum	subst:sg:nom:n:ncol	nazwa pospolita	
+quorum	quorum	subst:sg:voc:n:ncol	nazwa pospolita	

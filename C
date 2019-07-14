@@ -2,33 +2,33 @@ Copyright © 2007–2017 Zygmunt Saloni, Włodzimierz Gruszczyński, Marcin
 CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
 CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 C	C	subst:pl:acc:m3	nazwa języka programowania	komp.
-C	C	subst:pl:acc:n2	nazwa języka programowania	komp.
+C	C	subst:pl:acc:n:ncol	nazwa języka programowania	komp.
 C	C	subst:pl:dat:m3	nazwa języka programowania	komp.
-C	C	subst:pl:dat:n2	nazwa języka programowania	komp.
+C	C	subst:pl:dat:n:ncol	nazwa języka programowania	komp.
 C	C	subst:pl:gen:m3	nazwa języka programowania	komp.
-C	C	subst:pl:gen:n2	nazwa języka programowania	komp.
+C	C	subst:pl:gen:n:ncol	nazwa języka programowania	komp.
 C	C	subst:pl:inst:m3	nazwa języka programowania	komp.
-C	C	subst:pl:inst:n2	nazwa języka programowania	komp.
+C	C	subst:pl:inst:n:ncol	nazwa języka programowania	komp.
 C	C	subst:pl:loc:m3	nazwa języka programowania	komp.
-C	C	subst:pl:loc:n2	nazwa języka programowania	komp.
+C	C	subst:pl:loc:n:ncol	nazwa języka programowania	komp.
 C	C	subst:pl:nom:m3	nazwa języka programowania	komp.
-C	C	subst:pl:nom:n2	nazwa języka programowania	komp.
+C	C	subst:pl:nom:n:ncol	nazwa języka programowania	komp.
 C	C	subst:pl:voc:m3	nazwa języka programowania	komp.
-C	C	subst:pl:voc:n2	nazwa języka programowania	komp.
+C	C	subst:pl:voc:n:ncol	nazwa języka programowania	komp.
 C	C	subst:sg:acc:m3	nazwa języka programowania	komp.
-C	C	subst:sg:acc:n2	nazwa języka programowania	komp.
+C	C	subst:sg:acc:n:ncol	nazwa języka programowania	komp.
 C	C	subst:sg:dat:m3	nazwa języka programowania	komp.
-C	C	subst:sg:dat:n2	nazwa języka programowania	komp.
+C	C	subst:sg:dat:n:ncol	nazwa języka programowania	komp.
 C	C	subst:sg:gen:m3	nazwa języka programowania	komp.
-C	C	subst:sg:gen:n2	nazwa języka programowania	komp.
+C	C	subst:sg:gen:n:ncol	nazwa języka programowania	komp.
 C	C	subst:sg:inst:m3	nazwa języka programowania	komp.
-C	C	subst:sg:inst:n2	nazwa języka programowania	komp.
+C	C	subst:sg:inst:n:ncol	nazwa języka programowania	komp.
 C	C	subst:sg:loc:m3	nazwa języka programowania	komp.
-C	C	subst:sg:loc:n2	nazwa języka programowania	komp.
+C	C	subst:sg:loc:n:ncol	nazwa języka programowania	komp.
 C	C	subst:sg:nom:m3	nazwa języka programowania	komp.
-C	C	subst:sg:nom:n2	nazwa języka programowania	komp.
+C	C	subst:sg:nom:n:ncol	nazwa języka programowania	komp.
 C	C	subst:sg:voc:m3	nazwa języka programowania	komp.
-C	C	subst:sg:voc:n2	nazwa języka programowania	komp.
+C	C	subst:sg:voc:n:ncol	nazwa języka programowania	komp.
 Cackowska	Cackowska	subst:sg:nom:f	nazwisko	
 Cackowska	Cackowska	subst:sg:voc:f	nazwisko	
 Cackowską	Cackowska	subst:sg:acc:f	nazwisko	
@@ -132,20 +132,20 @@ Caillois	Caillois	subst:sg:inst:m1	nazwisko
 Caillois	Caillois	subst:sg:loc:m1	nazwisko	
 Caillois	Caillois	subst:sg:nom:m1	nazwisko	
 Caillois	Caillois	subst:sg:voc:m1	nazwisko	
-Calais	Calais	subst:pl:acc:n2	nazwa geograficzna	
-Calais	Calais	subst:pl:dat:n2	nazwa geograficzna	
-Calais	Calais	subst:pl:gen:n2	nazwa geograficzna	
-Calais	Calais	subst:pl:inst:n2	nazwa geograficzna	
-Calais	Calais	subst:pl:loc:n2	nazwa geograficzna	
-Calais	Calais	subst:pl:nom:n2	nazwa geograficzna	
-Calais	Calais	subst:pl:voc:n2	nazwa geograficzna	
-Calais	Calais	subst:sg:acc:n2	nazwa geograficzna	
-Calais	Calais	subst:sg:dat:n2	nazwa geograficzna	
-Calais	Calais	subst:sg:gen:n2	nazwa geograficzna	
-Calais	Calais	subst:sg:inst:n2	nazwa geograficzna	
-Calais	Calais	subst:sg:loc:n2	nazwa geograficzna	
-Calais	Calais	subst:sg:nom:n2	nazwa geograficzna	
-Calais	Calais	subst:sg:voc:n2	nazwa geograficzna	
+Calais	Calais	subst:pl:acc:n:ncol	nazwa geograficzna	
+Calais	Calais	subst:pl:dat:n:ncol	nazwa geograficzna	
+Calais	Calais	subst:pl:gen:n:ncol	nazwa geograficzna	
+Calais	Calais	subst:pl:inst:n:ncol	nazwa geograficzna	
+Calais	Calais	subst:pl:loc:n:ncol	nazwa geograficzna	
+Calais	Calais	subst:pl:nom:n:ncol	nazwa geograficzna	
+Calais	Calais	subst:pl:voc:n:ncol	nazwa geograficzna	
+Calais	Calais	subst:sg:acc:n:ncol	nazwa geograficzna	
+Calais	Calais	subst:sg:dat:n:ncol	nazwa geograficzna	
+Calais	Calais	subst:sg:gen:n:ncol	nazwa geograficzna	
+Calais	Calais	subst:sg:inst:n:ncol	nazwa geograficzna	
+Calais	Calais	subst:sg:loc:n:ncol	nazwa geograficzna	
+Calais	Calais	subst:sg:nom:n:ncol	nazwa geograficzna	
+Calais	Calais	subst:sg:voc:n:ncol	nazwa geograficzna	
 Calderona	Calderon	subst:sg:acc:m1	nazwisko	
 Calderona	Calderon	subst:sg:gen:m1	nazwisko	
 Calderonach	Calderon	subst:pl:loc:m1	nazwisko	
@@ -178,20 +178,20 @@ Caldwellów	Caldwell	subst:pl:acc:m1	nazwisko
 Caldwellów	Caldwell	subst:pl:gen:m1	nazwisko	
 Caldwellu	Caldwell	subst:sg:loc:m1	nazwisko	
 Caldwellu	Caldwell	subst:sg:voc:m1	nazwisko	
-Calgary	Calgary	subst:pl:acc:n2	nazwa geograficzna	
-Calgary	Calgary	subst:pl:dat:n2	nazwa geograficzna	
-Calgary	Calgary	subst:pl:gen:n2	nazwa geograficzna	
-Calgary	Calgary	subst:pl:inst:n2	nazwa geograficzna	
-Calgary	Calgary	subst:pl:loc:n2	nazwa geograficzna	
-Calgary	Calgary	subst:pl:nom:n2	nazwa geograficzna	
-Calgary	Calgary	subst:pl:voc:n2	nazwa geograficzna	
-Calgary	Calgary	subst:sg:acc:n2	nazwa geograficzna	
-Calgary	Calgary	subst:sg:dat:n2	nazwa geograficzna	
-Calgary	Calgary	subst:sg:gen:n2	nazwa geograficzna	
-Calgary	Calgary	subst:sg:inst:n2	nazwa geograficzna	
-Calgary	Calgary	subst:sg:loc:n2	nazwa geograficzna	
-Calgary	Calgary	subst:sg:nom:n2	nazwa geograficzna	
-Calgary	Calgary	subst:sg:voc:n2	nazwa geograficzna	
+Calgary	Calgary	subst:pl:acc:n:ncol	nazwa geograficzna	
+Calgary	Calgary	subst:pl:dat:n:ncol	nazwa geograficzna	
+Calgary	Calgary	subst:pl:gen:n:ncol	nazwa geograficzna	
+Calgary	Calgary	subst:pl:inst:n:ncol	nazwa geograficzna	
+Calgary	Calgary	subst:pl:loc:n:ncol	nazwa geograficzna	
+Calgary	Calgary	subst:pl:nom:n:ncol	nazwa geograficzna	
+Calgary	Calgary	subst:pl:voc:n:ncol	nazwa geograficzna	
+Calgary	Calgary	subst:sg:acc:n:ncol	nazwa geograficzna	
+Calgary	Calgary	subst:sg:dat:n:ncol	nazwa geograficzna	
+Calgary	Calgary	subst:sg:gen:n:ncol	nazwa geograficzna	
+Calgary	Calgary	subst:sg:inst:n:ncol	nazwa geograficzna	
+Calgary	Calgary	subst:sg:loc:n:ncol	nazwa geograficzna	
+Calgary	Calgary	subst:sg:nom:n:ncol	nazwa geograficzna	
+Calgary	Calgary	subst:sg:voc:n:ncol	nazwa geograficzna	
 Caligula	Caligula	subst:sg:nom:m1	imię	
 Caligulach	Caligula	subst:pl:loc:m1	imię	
 Caligulami	Caligula	subst:pl:inst:m1	imię	
@@ -279,33 +279,33 @@ CAM-y	CAM	subst:pl:acc:m3	nazwa pospolita
 CAM-y	CAM	subst:pl:nom:m3	nazwa pospolita	
 CAM-y	CAM	subst:pl:voc:m3	nazwa pospolita	
 Cambridge	Cambridge	subst:pl:acc:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:pl:acc:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:pl:acc:n:ncol	nazwa geograficzna	
 Cambridge	Cambridge	subst:pl:dat:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:pl:dat:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:pl:dat:n:ncol	nazwa geograficzna	
 Cambridge	Cambridge	subst:pl:gen:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:pl:gen:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:pl:gen:n:ncol	nazwa geograficzna	
 Cambridge	Cambridge	subst:pl:inst:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:pl:inst:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:pl:inst:n:ncol	nazwa geograficzna	
 Cambridge	Cambridge	subst:pl:loc:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:pl:loc:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:pl:loc:n:ncol	nazwa geograficzna	
 Cambridge	Cambridge	subst:pl:nom:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:pl:nom:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:pl:nom:n:ncol	nazwa geograficzna	
 Cambridge	Cambridge	subst:pl:voc:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:pl:voc:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:pl:voc:n:ncol	nazwa geograficzna	
 Cambridge	Cambridge	subst:sg:acc:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:sg:acc:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:sg:acc:n:ncol	nazwa geograficzna	
 Cambridge	Cambridge	subst:sg:dat:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:sg:dat:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:sg:dat:n:ncol	nazwa geograficzna	
 Cambridge	Cambridge	subst:sg:gen:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:sg:gen:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:sg:gen:n:ncol	nazwa geograficzna	
 Cambridge	Cambridge	subst:sg:inst:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:sg:inst:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:sg:inst:n:ncol	nazwa geograficzna	
 Cambridge	Cambridge	subst:sg:loc:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:sg:loc:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:sg:loc:n:ncol	nazwa geograficzna	
 Cambridge	Cambridge	subst:sg:nom:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:sg:nom:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:sg:nom:n:ncol	nazwa geograficzna	
 Cambridge	Cambridge	subst:sg:voc:m3	nazwa geograficzna	
-Cambridge	Cambridge	subst:sg:voc:n2	nazwa geograficzna	
+Cambridge	Cambridge	subst:sg:voc:n:ncol	nazwa geograficzna	
 Campbella	Campbell	subst:sg:acc:m1	nazwisko	
 Campbella	Campbell	subst:sg:gen:m1	nazwisko	
 Campbellach	Campbell	subst:pl:loc:m1	nazwisko	
@@ -382,20 +382,20 @@ Candidy	Candida	subst:pl:voc:f	nazwa kroju pisma	poligr.
 Candidy	Candida	subst:sg:gen:f	nazwa kroju pisma	poligr.
 Candidzie	Candida	subst:sg:dat:f	nazwa kroju pisma	poligr.
 Candidzie	Candida	subst:sg:loc:f	nazwa kroju pisma	poligr.
-Cannes	Cannes	subst:pl:acc:n2	nazwa geograficzna	
-Cannes	Cannes	subst:pl:dat:n2	nazwa geograficzna	
-Cannes	Cannes	subst:pl:gen:n2	nazwa geograficzna	
-Cannes	Cannes	subst:pl:inst:n2	nazwa geograficzna	
-Cannes	Cannes	subst:pl:loc:n2	nazwa geograficzna	
-Cannes	Cannes	subst:pl:nom:n2	nazwa geograficzna	
-Cannes	Cannes	subst:pl:voc:n2	nazwa geograficzna	
-Cannes	Cannes	subst:sg:acc:n2	nazwa geograficzna	
-Cannes	Cannes	subst:sg:dat:n2	nazwa geograficzna	
-Cannes	Cannes	subst:sg:gen:n2	nazwa geograficzna	
-Cannes	Cannes	subst:sg:inst:n2	nazwa geograficzna	
-Cannes	Cannes	subst:sg:loc:n2	nazwa geograficzna	
-Cannes	Cannes	subst:sg:nom:n2	nazwa geograficzna	
-Cannes	Cannes	subst:sg:voc:n2	nazwa geograficzna	
+Cannes	Cannes	subst:pl:acc:n:ncol	nazwa geograficzna	
+Cannes	Cannes	subst:pl:dat:n:ncol	nazwa geograficzna	
+Cannes	Cannes	subst:pl:gen:n:ncol	nazwa geograficzna	
+Cannes	Cannes	subst:pl:inst:n:ncol	nazwa geograficzna	
+Cannes	Cannes	subst:pl:loc:n:ncol	nazwa geograficzna	
+Cannes	Cannes	subst:pl:nom:n:ncol	nazwa geograficzna	
+Cannes	Cannes	subst:pl:voc:n:ncol	nazwa geograficzna	
+Cannes	Cannes	subst:sg:acc:n:ncol	nazwa geograficzna	
+Cannes	Cannes	subst:sg:dat:n:ncol	nazwa geograficzna	
+Cannes	Cannes	subst:sg:gen:n:ncol	nazwa geograficzna	
+Cannes	Cannes	subst:sg:inst:n:ncol	nazwa geograficzna	
+Cannes	Cannes	subst:sg:loc:n:ncol	nazwa geograficzna	
+Cannes	Cannes	subst:sg:nom:n:ncol	nazwa geograficzna	
+Cannes	Cannes	subst:sg:voc:n:ncol	nazwa geograficzna	
 Canossa	Canossa	subst:sg:nom:f	nazwa geograficzna	
 Canossach	Canossa	subst:pl:loc:f	nazwa geograficzna	
 Canossami	Canossa	subst:pl:inst:f	nazwa geograficzna	
@@ -454,20 +454,20 @@ Capote’ów	Capote	subst:pl:acc:m1	nazwisko
 Capote’ów	Capote	subst:pl:gen:m1	nazwisko	
 Capote’y	Capote	depr:pl:nom:m2	nazwisko	
 Capote’y	Capote	depr:pl:voc:m2	nazwisko	
-Capri	Capri	subst:pl:acc:n2	nazwa geograficzna	
-Capri	Capri	subst:pl:dat:n2	nazwa geograficzna	
-Capri	Capri	subst:pl:gen:n2	nazwa geograficzna	
-Capri	Capri	subst:pl:inst:n2	nazwa geograficzna	
-Capri	Capri	subst:pl:loc:n2	nazwa geograficzna	
-Capri	Capri	subst:pl:nom:n2	nazwa geograficzna	
-Capri	Capri	subst:pl:voc:n2	nazwa geograficzna	
-Capri	Capri	subst:sg:acc:n2	nazwa geograficzna	
-Capri	Capri	subst:sg:dat:n2	nazwa geograficzna	
-Capri	Capri	subst:sg:gen:n2	nazwa geograficzna	
-Capri	Capri	subst:sg:inst:n2	nazwa geograficzna	
-Capri	Capri	subst:sg:loc:n2	nazwa geograficzna	
-Capri	Capri	subst:sg:nom:n2	nazwa geograficzna	
-Capri	Capri	subst:sg:voc:n2	nazwa geograficzna	
+Capri	Capri	subst:pl:acc:n:ncol	nazwa geograficzna	
+Capri	Capri	subst:pl:dat:n:ncol	nazwa geograficzna	
+Capri	Capri	subst:pl:gen:n:ncol	nazwa geograficzna	
+Capri	Capri	subst:pl:inst:n:ncol	nazwa geograficzna	
+Capri	Capri	subst:pl:loc:n:ncol	nazwa geograficzna	
+Capri	Capri	subst:pl:nom:n:ncol	nazwa geograficzna	
+Capri	Capri	subst:pl:voc:n:ncol	nazwa geograficzna	
+Capri	Capri	subst:sg:acc:n:ncol	nazwa geograficzna	
+Capri	Capri	subst:sg:dat:n:ncol	nazwa geograficzna	
+Capri	Capri	subst:sg:gen:n:ncol	nazwa geograficzna	
+Capri	Capri	subst:sg:inst:n:ncol	nazwa geograficzna	
+Capri	Capri	subst:sg:loc:n:ncol	nazwa geograficzna	
+Capri	Capri	subst:sg:nom:n:ncol	nazwa geograficzna	
+Capri	Capri	subst:sg:voc:n:ncol	nazwa geograficzna	
 Capria	Caprio	subst:sg:acc:m1	nazwisko	
 Capria	Caprio	subst:sg:gen:m1	nazwisko	
 Capriach	Caprio	subst:pl:loc:m1	nazwisko	
@@ -484,20 +484,20 @@ Capriowie	Caprio	subst:pl:voc:m1	nazwisko
 Capriów	Caprio	subst:pl:acc:m1	nazwisko	
 Capriów	Caprio	subst:pl:gen:m1	nazwisko	
 Capriu	Caprio	subst:sg:loc:m1	nazwisko	
-Caracas	Caracas	subst:pl:acc:n2	nazwa geograficzna	
-Caracas	Caracas	subst:pl:dat:n2	nazwa geograficzna	
-Caracas	Caracas	subst:pl:gen:n2	nazwa geograficzna	
-Caracas	Caracas	subst:pl:inst:n2	nazwa geograficzna	
-Caracas	Caracas	subst:pl:loc:n2	nazwa geograficzna	
-Caracas	Caracas	subst:pl:nom:n2	nazwa geograficzna	
-Caracas	Caracas	subst:pl:voc:n2	nazwa geograficzna	
-Caracas	Caracas	subst:sg:acc:n2	nazwa geograficzna	
-Caracas	Caracas	subst:sg:dat:n2	nazwa geograficzna	
-Caracas	Caracas	subst:sg:gen:n2	nazwa geograficzna	
-Caracas	Caracas	subst:sg:inst:n2	nazwa geograficzna	
-Caracas	Caracas	subst:sg:loc:n2	nazwa geograficzna	
-Caracas	Caracas	subst:sg:nom:n2	nazwa geograficzna	
-Caracas	Caracas	subst:sg:voc:n2	nazwa geograficzna	
+Caracas	Caracas	subst:pl:acc:n:ncol	nazwa geograficzna	
+Caracas	Caracas	subst:pl:dat:n:ncol	nazwa geograficzna	
+Caracas	Caracas	subst:pl:gen:n:ncol	nazwa geograficzna	
+Caracas	Caracas	subst:pl:inst:n:ncol	nazwa geograficzna	
+Caracas	Caracas	subst:pl:loc:n:ncol	nazwa geograficzna	
+Caracas	Caracas	subst:pl:nom:n:ncol	nazwa geograficzna	
+Caracas	Caracas	subst:pl:voc:n:ncol	nazwa geograficzna	
+Caracas	Caracas	subst:sg:acc:n:ncol	nazwa geograficzna	
+Caracas	Caracas	subst:sg:dat:n:ncol	nazwa geograficzna	
+Caracas	Caracas	subst:sg:gen:n:ncol	nazwa geograficzna	
+Caracas	Caracas	subst:sg:inst:n:ncol	nazwa geograficzna	
+Caracas	Caracas	subst:sg:loc:n:ncol	nazwa geograficzna	
+Caracas	Caracas	subst:sg:nom:n:ncol	nazwa geograficzna	
+Caracas	Caracas	subst:sg:voc:n:ncol	nazwa geograficzna	
 Caravaggia	Caravaggio	subst:sg:acc:m1	nazwisko	
 Caravaggia	Caravaggio	subst:sg:gen:m1	nazwisko	
 Caravaggiach	Caravaggio	subst:pl:loc:m1	nazwisko	
@@ -608,20 +608,20 @@ Carlosów	Carlos	subst:pl:acc:m1	imię
 Carlosów	Carlos	subst:pl:gen:m1	imię	
 Carlosy	Carlos	depr:pl:nom:m2	imię	
 Carlosy	Carlos	depr:pl:voc:m2	imię	
-Carlo	Carlo:s1	subst:pl:acc:n2	nazwa geograficzna	
-Carlo	Carlo:s1	subst:pl:dat:n2	nazwa geograficzna	
-Carlo	Carlo:s1	subst:pl:gen:n2	nazwa geograficzna	
-Carlo	Carlo:s1	subst:pl:inst:n2	nazwa geograficzna	
-Carlo	Carlo:s1	subst:pl:loc:n2	nazwa geograficzna	
-Carlo	Carlo:s1	subst:pl:nom:n2	nazwa geograficzna	
-Carlo	Carlo:s1	subst:pl:voc:n2	nazwa geograficzna	
-Carlo	Carlo:s1	subst:sg:acc:n2	nazwa geograficzna	
-Carlo	Carlo:s1	subst:sg:dat:n2	nazwa geograficzna	
-Carlo	Carlo:s1	subst:sg:gen:n2	nazwa geograficzna	
-Carlo	Carlo:s1	subst:sg:inst:n2	nazwa geograficzna	
-Carlo	Carlo:s1	subst:sg:loc:n2	nazwa geograficzna	
-Carlo	Carlo:s1	subst:sg:nom:n2	nazwa geograficzna	
-Carlo	Carlo:s1	subst:sg:voc:n2	nazwa geograficzna	
+Carlo	Carlo:s1	subst:pl:acc:n:ncol	nazwa geograficzna	
+Carlo	Carlo:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+Carlo	Carlo:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+Carlo	Carlo:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+Carlo	Carlo:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+Carlo	Carlo:s1	subst:pl:nom:n:ncol	nazwa geograficzna	
+Carlo	Carlo:s1	subst:pl:voc:n:ncol	nazwa geograficzna	
+Carlo	Carlo:s1	subst:sg:acc:n:ncol	nazwa geograficzna	
+Carlo	Carlo:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+Carlo	Carlo:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+Carlo	Carlo:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+Carlo	Carlo:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+Carlo	Carlo:s1	subst:sg:nom:n:ncol	nazwa geograficzna	
+Carlo	Carlo:s1	subst:sg:voc:n:ncol	nazwa geograficzna	
 Carla	Carlo:s2	subst:sg:acc:m1	imię	
 Carla	Carlo:s2	subst:sg:gen:m1	imię	
 Carlach	Carlo:s2	subst:pl:loc:m1	imię	
@@ -863,22 +863,22 @@ Caziny	Cazin	depr:pl:nom:m2	nazwisko
 Caziny	Cazin	depr:pl:voc:m2	nazwisko	
 CBOS-ach	CBOS	subst:pl:loc:m3	nazwa organizacji	
 CBOS-ami	CBOS	subst:pl:inst:m3	nazwa organizacji	
-CBOS	CBOS	subst:pl:acc:n2	nazwa organizacji	
-CBOS	CBOS	subst:pl:dat:n2	nazwa organizacji	
-CBOS	CBOS	subst:pl:gen:n2	nazwa organizacji	
-CBOS	CBOS	subst:pl:inst:n2	nazwa organizacji	
-CBOS	CBOS	subst:pl:loc:n2	nazwa organizacji	
-CBOS	CBOS	subst:pl:nom:n2	nazwa organizacji	
-CBOS	CBOS	subst:pl:voc:n2	nazwa organizacji	
+CBOS	CBOS	subst:pl:acc:n:ncol	nazwa organizacji	
+CBOS	CBOS	subst:pl:dat:n:ncol	nazwa organizacji	
+CBOS	CBOS	subst:pl:gen:n:ncol	nazwa organizacji	
+CBOS	CBOS	subst:pl:inst:n:ncol	nazwa organizacji	
+CBOS	CBOS	subst:pl:loc:n:ncol	nazwa organizacji	
+CBOS	CBOS	subst:pl:nom:n:ncol	nazwa organizacji	
+CBOS	CBOS	subst:pl:voc:n:ncol	nazwa organizacji	
 CBOS	CBOS	subst:sg:acc:m3	nazwa organizacji	
-CBOS	CBOS	subst:sg:acc:n2	nazwa organizacji	
-CBOS	CBOS	subst:sg:dat:n2	nazwa organizacji	
-CBOS	CBOS	subst:sg:gen:n2	nazwa organizacji	
-CBOS	CBOS	subst:sg:inst:n2	nazwa organizacji	
-CBOS	CBOS	subst:sg:loc:n2	nazwa organizacji	
+CBOS	CBOS	subst:sg:acc:n:ncol	nazwa organizacji	
+CBOS	CBOS	subst:sg:dat:n:ncol	nazwa organizacji	
+CBOS	CBOS	subst:sg:gen:n:ncol	nazwa organizacji	
+CBOS	CBOS	subst:sg:inst:n:ncol	nazwa organizacji	
+CBOS	CBOS	subst:sg:loc:n:ncol	nazwa organizacji	
 CBOS	CBOS	subst:sg:nom:m3	nazwa organizacji	
-CBOS	CBOS	subst:sg:nom:n2	nazwa organizacji	
-CBOS	CBOS	subst:sg:voc:n2	nazwa organizacji	
+CBOS	CBOS	subst:sg:nom:n:ncol	nazwa organizacji	
+CBOS	CBOS	subst:sg:voc:n:ncol	nazwa organizacji	
 CBOS-em	CBOS	subst:sg:inst:m3	nazwa organizacji	
 CBOS-ie	CBOS	subst:sg:loc:m3	nazwa organizacji	
 CBOS-ie	CBOS	subst:sg:voc:m3	nazwa organizacji	
@@ -889,49 +889,49 @@ CBOS-u	CBOS	subst:sg:gen:m3	nazwa organizacji
 CBOS-y	CBOS	subst:pl:acc:m3	nazwa organizacji	
 CBOS-y	CBOS	subst:pl:nom:m3	nazwa organizacji	
 CBOS-y	CBOS	subst:pl:voc:m3	nazwa organizacji	
-CB-radia	CB-radio	subst:pl:acc:n2	nazwa pospolita	
-CB-radia	CB-radio	subst:pl:nom:n2	nazwa pospolita	
-CB-radia	CB-radio	subst:pl:voc:n2	nazwa pospolita	
-CB-radia	CB-radio	subst:sg:gen:n2	nazwa pospolita	
-CB-radiach	CB-radio	subst:pl:loc:n2	nazwa pospolita	
-CB-radiami	CB-radio	subst:pl:inst:n2	nazwa pospolita	
-CB-radiem	CB-radio	subst:sg:inst:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:pl:acc:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:pl:dat:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:pl:gen:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:pl:inst:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:pl:loc:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:pl:nom:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:pl:voc:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:sg:acc:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:sg:dat:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:sg:gen:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:sg:inst:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:sg:loc:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:sg:nom:n2	nazwa pospolita	
-CB-radio	CB-radio	subst:sg:voc:n2	nazwa pospolita	
-CB-radiom	CB-radio	subst:pl:dat:n2	nazwa pospolita	
-CB-radiów	CB-radio	subst:pl:gen:n2	nazwa pospolita	
-CB-radiu	CB-radio	subst:sg:dat:n2	nazwa pospolita	
-CB-radiu	CB-radio	subst:sg:loc:n2	nazwa pospolita	
+CB-radia	CB-radio	subst:pl:acc:n:ncol	nazwa pospolita	
+CB-radia	CB-radio	subst:pl:nom:n:ncol	nazwa pospolita	
+CB-radia	CB-radio	subst:pl:voc:n:ncol	nazwa pospolita	
+CB-radia	CB-radio	subst:sg:gen:n:ncol	nazwa pospolita	
+CB-radiach	CB-radio	subst:pl:loc:n:ncol	nazwa pospolita	
+CB-radiami	CB-radio	subst:pl:inst:n:ncol	nazwa pospolita	
+CB-radiem	CB-radio	subst:sg:inst:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:pl:acc:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:pl:dat:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:pl:gen:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:pl:inst:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:pl:loc:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:pl:nom:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:pl:voc:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:sg:acc:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:sg:dat:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:sg:gen:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:sg:inst:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:sg:loc:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:sg:nom:n:ncol	nazwa pospolita	
+CB-radio	CB-radio	subst:sg:voc:n:ncol	nazwa pospolita	
+CB-radiom	CB-radio	subst:pl:dat:n:ncol	nazwa pospolita	
+CB-radiów	CB-radio	subst:pl:gen:n:ncol	nazwa pospolita	
+CB-radiu	CB-radio	subst:sg:dat:n:ncol	nazwa pospolita	
+CB-radiu	CB-radio	subst:sg:loc:n:ncol	nazwa pospolita	
 CBS-ach	CBS	subst:pl:loc:m3	nazwa organizacji|nazwa firmy	
 CBS-ami	CBS	subst:pl:inst:m3	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:pl:acc:n2	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:pl:dat:n2	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:pl:gen:n2	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:pl:inst:n2	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:pl:loc:n2	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:pl:nom:n2	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:pl:voc:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:acc:n:ncol	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:dat:n:ncol	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:gen:n:ncol	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:inst:n:ncol	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:loc:n:ncol	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:nom:n:ncol	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:pl:voc:n:ncol	nazwa organizacji|nazwa firmy	
 CBS	CBS	subst:sg:acc:m3	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:sg:acc:n2	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:sg:dat:n2	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:sg:gen:n2	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:sg:inst:n2	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:sg:loc:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:acc:n:ncol	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:dat:n:ncol	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:gen:n:ncol	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:inst:n:ncol	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:loc:n:ncol	nazwa organizacji|nazwa firmy	
 CBS	CBS	subst:sg:nom:m3	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:sg:nom:n2	nazwa organizacji|nazwa firmy	
-CBS	CBS	subst:sg:voc:n2	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:nom:n:ncol	nazwa organizacji|nazwa firmy	
+CBS	CBS	subst:sg:voc:n:ncol	nazwa organizacji|nazwa firmy	
 CBS-em	CBS	subst:sg:inst:m3	nazwa organizacji|nazwa firmy	
 CBS-ie	CBS	subst:sg:loc:m3	nazwa organizacji|nazwa firmy	
 CBS-ie	CBS	subst:sg:voc:m3	nazwa organizacji|nazwa firmy	
@@ -943,33 +943,33 @@ CBS-y	CBS	subst:pl:acc:m3	nazwa organizacji|nazwa firmy
 CBS-y	CBS	subst:pl:nom:m3	nazwa organizacji|nazwa firmy	
 CBS-y	CBS	subst:pl:voc:m3	nazwa organizacji|nazwa firmy	
 CD	CD	subst:pl:acc:m3	nazwa pospolita	
-CD	CD	subst:pl:acc:n2	nazwa pospolita	
+CD	CD	subst:pl:acc:n:ncol	nazwa pospolita	
 CD	CD	subst:pl:dat:m3	nazwa pospolita	
-CD	CD	subst:pl:dat:n2	nazwa pospolita	
+CD	CD	subst:pl:dat:n:ncol	nazwa pospolita	
 CD	CD	subst:pl:gen:m3	nazwa pospolita	
-CD	CD	subst:pl:gen:n2	nazwa pospolita	
+CD	CD	subst:pl:gen:n:ncol	nazwa pospolita	
 CD	CD	subst:pl:inst:m3	nazwa pospolita	
-CD	CD	subst:pl:inst:n2	nazwa pospolita	
+CD	CD	subst:pl:inst:n:ncol	nazwa pospolita	
 CD	CD	subst:pl:loc:m3	nazwa pospolita	
-CD	CD	subst:pl:loc:n2	nazwa pospolita	
+CD	CD	subst:pl:loc:n:ncol	nazwa pospolita	
 CD	CD	subst:pl:nom:m3	nazwa pospolita	
-CD	CD	subst:pl:nom:n2	nazwa pospolita	
+CD	CD	subst:pl:nom:n:ncol	nazwa pospolita	
 CD	CD	subst:pl:voc:m3	nazwa pospolita	
-CD	CD	subst:pl:voc:n2	nazwa pospolita	
+CD	CD	subst:pl:voc:n:ncol	nazwa pospolita	
 CD	CD	subst:sg:acc:m3	nazwa pospolita	
-CD	CD	subst:sg:acc:n2	nazwa pospolita	
+CD	CD	subst:sg:acc:n:ncol	nazwa pospolita	
 CD	CD	subst:sg:dat:m3	nazwa pospolita	
-CD	CD	subst:sg:dat:n2	nazwa pospolita	
+CD	CD	subst:sg:dat:n:ncol	nazwa pospolita	
 CD	CD	subst:sg:gen:m3	nazwa pospolita	
-CD	CD	subst:sg:gen:n2	nazwa pospolita	
+CD	CD	subst:sg:gen:n:ncol	nazwa pospolita	
 CD	CD	subst:sg:inst:m3	nazwa pospolita	
-CD	CD	subst:sg:inst:n2	nazwa pospolita	
+CD	CD	subst:sg:inst:n:ncol	nazwa pospolita	
 CD	CD	subst:sg:loc:m3	nazwa pospolita	
-CD	CD	subst:sg:loc:n2	nazwa pospolita	
+CD	CD	subst:sg:loc:n:ncol	nazwa pospolita	
 CD	CD	subst:sg:nom:m3	nazwa pospolita	
-CD	CD	subst:sg:nom:n2	nazwa pospolita	
+CD	CD	subst:sg:nom:n:ncol	nazwa pospolita	
 CD	CD	subst:sg:voc:m3	nazwa pospolita	
-CD	CD	subst:sg:voc:n2	nazwa pospolita	
+CD	CD	subst:sg:voc:n:ncol	nazwa pospolita	
 CD-ROM-ach	CD-ROM	subst:pl:loc:m3	nazwa pospolita	komp.
 CD-ROM-ami	CD-ROM	subst:pl:inst:m3	nazwa pospolita	komp.
 CD-ROM	CD-ROM	subst:sg:acc:m3	nazwa pospolita	komp.
@@ -985,33 +985,33 @@ CD-ROM-y	CD-ROM	subst:pl:acc:m3	nazwa pospolita	komp.
 CD-ROM-y	CD-ROM	subst:pl:nom:m3	nazwa pospolita	komp.
 CD-ROM-y	CD-ROM	subst:pl:voc:m3	nazwa pospolita	komp.
 CDU	CDU	subst:pl:acc:f	nazwa organizacji	
-CDU	CDU	subst:pl:acc:n2	nazwa organizacji	
+CDU	CDU	subst:pl:acc:n:ncol	nazwa organizacji	
 CDU	CDU	subst:pl:dat:f	nazwa organizacji	
-CDU	CDU	subst:pl:dat:n2	nazwa organizacji	
+CDU	CDU	subst:pl:dat:n:ncol	nazwa organizacji	
 CDU	CDU	subst:pl:gen:f	nazwa organizacji	
-CDU	CDU	subst:pl:gen:n2	nazwa organizacji	
+CDU	CDU	subst:pl:gen:n:ncol	nazwa organizacji	
 CDU	CDU	subst:pl:inst:f	nazwa organizacji	
-CDU	CDU	subst:pl:inst:n2	nazwa organizacji	
+CDU	CDU	subst:pl:inst:n:ncol	nazwa organizacji	
 CDU	CDU	subst:pl:loc:f	nazwa organizacji	
-CDU	CDU	subst:pl:loc:n2	nazwa organizacji	
+CDU	CDU	subst:pl:loc:n:ncol	nazwa organizacji	
 CDU	CDU	subst:pl:nom:f	nazwa organizacji	
-CDU	CDU	subst:pl:nom:n2	nazwa organizacji	
+CDU	CDU	subst:pl:nom:n:ncol	nazwa organizacji	
 CDU	CDU	subst:pl:voc:f	nazwa organizacji	
-CDU	CDU	subst:pl:voc:n2	nazwa organizacji	
+CDU	CDU	subst:pl:voc:n:ncol	nazwa organizacji	
 CDU	CDU	subst:sg:acc:f	nazwa organizacji	
-CDU	CDU	subst:sg:acc:n2	nazwa organizacji	
+CDU	CDU	subst:sg:acc:n:ncol	nazwa organizacji	
 CDU	CDU	subst:sg:dat:f	nazwa organizacji	
-CDU	CDU	subst:sg:dat:n2	nazwa organizacji	
+CDU	CDU	subst:sg:dat:n:ncol	nazwa organizacji	
 CDU	CDU	subst:sg:gen:f	nazwa organizacji	
-CDU	CDU	subst:sg:gen:n2	nazwa organizacji	
+CDU	CDU	subst:sg:gen:n:ncol	nazwa organizacji	
 CDU	CDU	subst:sg:inst:f	nazwa organizacji	
-CDU	CDU	subst:sg:inst:n2	nazwa organizacji	
+CDU	CDU	subst:sg:inst:n:ncol	nazwa organizacji	
 CDU	CDU	subst:sg:loc:f	nazwa organizacji	
-CDU	CDU	subst:sg:loc:n2	nazwa organizacji	
+CDU	CDU	subst:sg:loc:n:ncol	nazwa organizacji	
 CDU	CDU	subst:sg:nom:f	nazwa organizacji	
-CDU	CDU	subst:sg:nom:n2	nazwa organizacji	
+CDU	CDU	subst:sg:nom:n:ncol	nazwa organizacji	
 CDU	CDU	subst:sg:voc:f	nazwa organizacji	
-CDU	CDU	subst:sg:voc:n2	nazwa organizacji	
+CDU	CDU	subst:sg:voc:n:ncol	nazwa organizacji	
 Ceauşescu	Ceauşescu	depr:pl:nom:m2	nazwisko	
 Ceauşescu	Ceauşescu	depr:pl:voc:m2	nazwisko	
 Ceauşescu	Ceauşescu	subst:pl:acc:m1	nazwisko	
@@ -1670,20 +1670,20 @@ Cervantesów	Cervantes	subst:pl:acc:m1	nazwisko
 Cervantesów	Cervantes	subst:pl:gen:m1	nazwisko	
 Cervantesy	Cervantes	depr:pl:nom:m2	nazwisko	
 Cervantesy	Cervantes	depr:pl:voc:m2	nazwisko	
-Cewicach	Cewice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Cewicach	Cewice	subst:pl:loc:p3	nazwa geograficzna	
-Cewicami	Cewice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Cewicami	Cewice	subst:pl:inst:p3	nazwa geograficzna	
-Cewic	Cewice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Cewic	Cewice	subst:pl:gen:p3	nazwa geograficzna	
-Cewice	Cewice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Cewice	Cewice	subst:pl:acc:p3	nazwa geograficzna	
-Cewice	Cewice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Cewice	Cewice	subst:pl:nom:p3	nazwa geograficzna	
-Cewice	Cewice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Cewice	Cewice	subst:pl:voc:p3	nazwa geograficzna	
-Cewicom	Cewice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Cewicom	Cewice	subst:pl:dat:p3	nazwa geograficzna	
+Cewicach	Cewice	subst:pl:loc:n:pt	nazwa geograficzna	
+Cewicach	Cewice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Cewicami	Cewice	subst:pl:inst:n:pt	nazwa geograficzna	
+Cewicami	Cewice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Cewic	Cewice	subst:pl:gen:n:pt	nazwa geograficzna	
+Cewic	Cewice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Cewice	Cewice	subst:pl:acc:n:pt	nazwa geograficzna	
+Cewice	Cewice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Cewice	Cewice	subst:pl:nom:n:pt	nazwa geograficzna	
+Cewice	Cewice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Cewice	Cewice	subst:pl:voc:n:pt	nazwa geograficzna	
+Cewice	Cewice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Cewicom	Cewice	subst:pl:dat:n:pt	nazwa geograficzna	
+Cewicom	Cewice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Cezanne’a	Cezanne	subst:sg:acc:m1	nazwisko	
 Cezanne’a	Cezanne	subst:sg:gen:m1	nazwisko	
 Cezanne’ach	Cezanne	subst:pl:loc:m1	nazwisko	
@@ -1767,47 +1767,47 @@ Cezaryny	Cezaryna	subst:pl:nom:f	imię
 Cezaryny	Cezaryna	subst:pl:voc:f	imię	
 Cezaryny	Cezaryna	subst:sg:gen:f	imię	
 CFC	CFC	subst:pl:acc:m3	nazwa organizacji	
-CFC	CFC	subst:pl:acc:n2	nazwa organizacji	
+CFC	CFC	subst:pl:acc:n:ncol	nazwa organizacji	
 CFC	CFC	subst:pl:dat:m3	nazwa organizacji	
-CFC	CFC	subst:pl:dat:n2	nazwa organizacji	
+CFC	CFC	subst:pl:dat:n:ncol	nazwa organizacji	
 CFC	CFC	subst:pl:gen:m3	nazwa organizacji	
-CFC	CFC	subst:pl:gen:n2	nazwa organizacji	
+CFC	CFC	subst:pl:gen:n:ncol	nazwa organizacji	
 CFC	CFC	subst:pl:inst:m3	nazwa organizacji	
-CFC	CFC	subst:pl:inst:n2	nazwa organizacji	
+CFC	CFC	subst:pl:inst:n:ncol	nazwa organizacji	
 CFC	CFC	subst:pl:loc:m3	nazwa organizacji	
-CFC	CFC	subst:pl:loc:n2	nazwa organizacji	
+CFC	CFC	subst:pl:loc:n:ncol	nazwa organizacji	
 CFC	CFC	subst:pl:nom:m3	nazwa organizacji	
-CFC	CFC	subst:pl:nom:n2	nazwa organizacji	
+CFC	CFC	subst:pl:nom:n:ncol	nazwa organizacji	
 CFC	CFC	subst:pl:voc:m3	nazwa organizacji	
-CFC	CFC	subst:pl:voc:n2	nazwa organizacji	
+CFC	CFC	subst:pl:voc:n:ncol	nazwa organizacji	
 CFC	CFC	subst:sg:acc:m3	nazwa organizacji	
-CFC	CFC	subst:sg:acc:n2	nazwa organizacji	
+CFC	CFC	subst:sg:acc:n:ncol	nazwa organizacji	
 CFC	CFC	subst:sg:dat:m3	nazwa organizacji	
-CFC	CFC	subst:sg:dat:n2	nazwa organizacji	
+CFC	CFC	subst:sg:dat:n:ncol	nazwa organizacji	
 CFC	CFC	subst:sg:gen:m3	nazwa organizacji	
-CFC	CFC	subst:sg:gen:n2	nazwa organizacji	
+CFC	CFC	subst:sg:gen:n:ncol	nazwa organizacji	
 CFC	CFC	subst:sg:inst:m3	nazwa organizacji	
-CFC	CFC	subst:sg:inst:n2	nazwa organizacji	
+CFC	CFC	subst:sg:inst:n:ncol	nazwa organizacji	
 CFC	CFC	subst:sg:loc:m3	nazwa organizacji	
-CFC	CFC	subst:sg:loc:n2	nazwa organizacji	
+CFC	CFC	subst:sg:loc:n:ncol	nazwa organizacji	
 CFC	CFC	subst:sg:nom:m3	nazwa organizacji	
-CFC	CFC	subst:sg:nom:n2	nazwa organizacji	
+CFC	CFC	subst:sg:nom:n:ncol	nazwa organizacji	
 CFC	CFC	subst:sg:voc:m3	nazwa organizacji	
-CFC	CFC	subst:sg:voc:n2	nazwa organizacji	
-CGS	CGS	subst:pl:acc:n2	nazwa pospolita	
-CGS	CGS	subst:pl:dat:n2	nazwa pospolita	
-CGS	CGS	subst:pl:gen:n2	nazwa pospolita	
-CGS	CGS	subst:pl:inst:n2	nazwa pospolita	
-CGS	CGS	subst:pl:loc:n2	nazwa pospolita	
-CGS	CGS	subst:pl:nom:n2	nazwa pospolita	
-CGS	CGS	subst:pl:voc:n2	nazwa pospolita	
-CGS	CGS	subst:sg:acc:n2	nazwa pospolita	
-CGS	CGS	subst:sg:dat:n2	nazwa pospolita	
-CGS	CGS	subst:sg:gen:n2	nazwa pospolita	
-CGS	CGS	subst:sg:inst:n2	nazwa pospolita	
-CGS	CGS	subst:sg:loc:n2	nazwa pospolita	
-CGS	CGS	subst:sg:nom:n2	nazwa pospolita	
-CGS	CGS	subst:sg:voc:n2	nazwa pospolita	
+CFC	CFC	subst:sg:voc:n:ncol	nazwa organizacji	
+CGS	CGS	subst:pl:acc:n:ncol	nazwa pospolita	
+CGS	CGS	subst:pl:dat:n:ncol	nazwa pospolita	
+CGS	CGS	subst:pl:gen:n:ncol	nazwa pospolita	
+CGS	CGS	subst:pl:inst:n:ncol	nazwa pospolita	
+CGS	CGS	subst:pl:loc:n:ncol	nazwa pospolita	
+CGS	CGS	subst:pl:nom:n:ncol	nazwa pospolita	
+CGS	CGS	subst:pl:voc:n:ncol	nazwa pospolita	
+CGS	CGS	subst:sg:acc:n:ncol	nazwa pospolita	
+CGS	CGS	subst:sg:dat:n:ncol	nazwa pospolita	
+CGS	CGS	subst:sg:gen:n:ncol	nazwa pospolita	
+CGS	CGS	subst:sg:inst:n:ncol	nazwa pospolita	
+CGS	CGS	subst:sg:loc:n:ncol	nazwa pospolita	
+CGS	CGS	subst:sg:nom:n:ncol	nazwa pospolita	
+CGS	CGS	subst:sg:voc:n:ncol	nazwa pospolita	
 Chabówce	Chabówka	subst:sg:dat:f	nazwa geograficzna	
 Chabówce	Chabówka	subst:sg:loc:f	nazwa geograficzna	
 Chabówek	Chabówka	subst:pl:gen:f	nazwa geograficzna	
@@ -2249,20 +2249,20 @@ Charyzjuszów	Charyzjusz	subst:pl:acc:m1	imię
 Charyzjuszów	Charyzjusz	subst:pl:gen:m1	imię	
 Charyzjuszu	Charyzjusz	subst:sg:loc:m1	imię	
 Charyzjuszu	Charyzjusz	subst:sg:voc:m1	imię	
-Charzykowach	Charzykowy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Charzykowach	Charzykowy	subst:pl:loc:p3	nazwa geograficzna	
-Charzykowami	Charzykowy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Charzykowami	Charzykowy	subst:pl:inst:p3	nazwa geograficzna	
-Charzykowom	Charzykowy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Charzykowom	Charzykowy	subst:pl:dat:p3	nazwa geograficzna	
-Charzykowy	Charzykowy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Charzykowy	Charzykowy	subst:pl:acc:p3	nazwa geograficzna	
-Charzykowy	Charzykowy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Charzykowy	Charzykowy	subst:pl:nom:p3	nazwa geograficzna	
-Charzykowy	Charzykowy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Charzykowy	Charzykowy	subst:pl:voc:p3	nazwa geograficzna	
-Charzyków	Charzykowy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Charzyków	Charzykowy	subst:pl:gen:p3	nazwa geograficzna	
+Charzykowach	Charzykowy	subst:pl:loc:n:pt	nazwa geograficzna	
+Charzykowach	Charzykowy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Charzykowami	Charzykowy	subst:pl:inst:n:pt	nazwa geograficzna	
+Charzykowami	Charzykowy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Charzykowom	Charzykowy	subst:pl:dat:n:pt	nazwa geograficzna	
+Charzykowom	Charzykowy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Charzykowy	Charzykowy	subst:pl:acc:n:pt	nazwa geograficzna	
+Charzykowy	Charzykowy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Charzykowy	Charzykowy	subst:pl:nom:n:pt	nazwa geograficzna	
+Charzykowy	Charzykowy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Charzykowy	Charzykowy	subst:pl:voc:n:pt	nazwa geograficzna	
+Charzykowy	Charzykowy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Charzyków	Charzykowy	subst:pl:gen:n:pt	nazwa geograficzna	
+Charzyków	Charzykowy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Chasbułatowa	Chasbułatow	subst:sg:acc:m1	nazwisko	
 Chasbułatowa	Chasbułatow	subst:sg:gen:m1	nazwisko	
 Chasbułatowach	Chasbułatow	subst:pl:loc:m1	nazwisko	
@@ -2340,33 +2340,33 @@ Chawy	Chawa	subst:pl:nom:f	imię
 Chawy	Chawa	subst:pl:voc:f	imię	
 Chawy	Chawa	subst:sg:gen:f	imię	
 ChD	ChD	subst:pl:acc:f	nazwa organizacji	
-ChD	ChD	subst:pl:acc:n2	nazwa organizacji	
+ChD	ChD	subst:pl:acc:n:ncol	nazwa organizacji	
 ChD	ChD	subst:pl:dat:f	nazwa organizacji	
-ChD	ChD	subst:pl:dat:n2	nazwa organizacji	
+ChD	ChD	subst:pl:dat:n:ncol	nazwa organizacji	
 ChD	ChD	subst:pl:gen:f	nazwa organizacji	
-ChD	ChD	subst:pl:gen:n2	nazwa organizacji	
+ChD	ChD	subst:pl:gen:n:ncol	nazwa organizacji	
 ChD	ChD	subst:pl:inst:f	nazwa organizacji	
-ChD	ChD	subst:pl:inst:n2	nazwa organizacji	
+ChD	ChD	subst:pl:inst:n:ncol	nazwa organizacji	
 ChD	ChD	subst:pl:loc:f	nazwa organizacji	
-ChD	ChD	subst:pl:loc:n2	nazwa organizacji	
+ChD	ChD	subst:pl:loc:n:ncol	nazwa organizacji	
 ChD	ChD	subst:pl:nom:f	nazwa organizacji	
-ChD	ChD	subst:pl:nom:n2	nazwa organizacji	
+ChD	ChD	subst:pl:nom:n:ncol	nazwa organizacji	
 ChD	ChD	subst:pl:voc:f	nazwa organizacji	
-ChD	ChD	subst:pl:voc:n2	nazwa organizacji	
+ChD	ChD	subst:pl:voc:n:ncol	nazwa organizacji	
 ChD	ChD	subst:sg:acc:f	nazwa organizacji	
-ChD	ChD	subst:sg:acc:n2	nazwa organizacji	
+ChD	ChD	subst:sg:acc:n:ncol	nazwa organizacji	
 ChD	ChD	subst:sg:dat:f	nazwa organizacji	
-ChD	ChD	subst:sg:dat:n2	nazwa organizacji	
+ChD	ChD	subst:sg:dat:n:ncol	nazwa organizacji	
 ChD	ChD	subst:sg:gen:f	nazwa organizacji	
-ChD	ChD	subst:sg:gen:n2	nazwa organizacji	
+ChD	ChD	subst:sg:gen:n:ncol	nazwa organizacji	
 ChD	ChD	subst:sg:inst:f	nazwa organizacji	
-ChD	ChD	subst:sg:inst:n2	nazwa organizacji	
+ChD	ChD	subst:sg:inst:n:ncol	nazwa organizacji	
 ChD	ChD	subst:sg:loc:f	nazwa organizacji	
-ChD	ChD	subst:sg:loc:n2	nazwa organizacji	
+ChD	ChD	subst:sg:loc:n:ncol	nazwa organizacji	
 ChD	ChD	subst:sg:nom:f	nazwa organizacji	
-ChD	ChD	subst:sg:nom:n2	nazwa organizacji	
+ChD	ChD	subst:sg:nom:n:ncol	nazwa organizacji	
 ChD	ChD	subst:sg:voc:f	nazwa organizacji	
-ChD	ChD	subst:sg:voc:n2	nazwa organizacji	
+ChD	ChD	subst:sg:voc:n:ncol	nazwa organizacji	
 Chełmach	Chełm	subst:pl:loc:m3	nazwa geograficzna	
 Chełma	Chełm	subst:sg:gen:m3	nazwa geograficzna	
 Chełmami	Chełm	subst:pl:inst:m3	nazwa geograficzna	
@@ -2395,21 +2395,21 @@ Chełmkowi	Chełmek	subst:sg:dat:m3	nazwa geograficzna
 Chełmków	Chełmek	subst:pl:gen:m3	nazwa geograficzna	
 Chełmku	Chełmek	subst:sg:loc:m3	nazwa geograficzna	
 Chełmku	Chełmek	subst:sg:voc:m3	nazwa geograficzna	
-Chełmien	Chełmno	subst:pl:gen:n2	nazwa geograficzna	
-Chełmnach	Chełmno	subst:pl:loc:n2	nazwa geograficzna	
-Chełmna	Chełmno	subst:pl:acc:n2	nazwa geograficzna	
-Chełmna	Chełmno	subst:pl:nom:n2	nazwa geograficzna	
-Chełmna	Chełmno	subst:pl:voc:n2	nazwa geograficzna	
-Chełmna	Chełmno	subst:sg:gen:n2	nazwa geograficzna	
-Chełmnami	Chełmno	subst:pl:inst:n2	nazwa geograficzna	
-Chełmn	Chełmno	subst:pl:gen:n2	nazwa geograficzna	
-Chełmnem	Chełmno	subst:sg:inst:n2	nazwa geograficzna	
-Chełmnie	Chełmno	subst:sg:loc:n2	nazwa geograficzna	
-Chełmno	Chełmno	subst:sg:acc:n2	nazwa geograficzna	
-Chełmno	Chełmno	subst:sg:nom:n2	nazwa geograficzna	
-Chełmno	Chełmno	subst:sg:voc:n2	nazwa geograficzna	
-Chełmnom	Chełmno	subst:pl:dat:n2	nazwa geograficzna	
-Chełmnu	Chełmno	subst:sg:dat:n2	nazwa geograficzna	
+Chełmien	Chełmno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Chełmnach	Chełmno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Chełmna	Chełmno	subst:pl:acc:n:ncol	nazwa geograficzna	
+Chełmna	Chełmno	subst:pl:nom:n:ncol	nazwa geograficzna	
+Chełmna	Chełmno	subst:pl:voc:n:ncol	nazwa geograficzna	
+Chełmna	Chełmno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Chełmnami	Chełmno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Chełmn	Chełmno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Chełmnem	Chełmno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Chełmnie	Chełmno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Chełmno	Chełmno	subst:sg:acc:n:ncol	nazwa geograficzna	
+Chełmno	Chełmno	subst:sg:nom:n:ncol	nazwa geograficzna	
+Chełmno	Chełmno	subst:sg:voc:n:ncol	nazwa geograficzna	
+Chełmnom	Chełmno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Chełmnu	Chełmno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Chełmońska	Chełmońska	subst:sg:nom:f	nazwisko	
 Chełmońska	Chełmońska	subst:sg:voc:f	nazwisko	
 Chełmońską	Chełmońska	subst:sg:acc:f	nazwisko	
@@ -2440,20 +2440,20 @@ Chełmońskim	Chełmoński	subst:pl:dat:m1	nazwisko
 Chełmońskim	Chełmoński	subst:sg:inst:m1	nazwisko	
 Chełmońskim	Chełmoński	subst:sg:loc:m1	nazwisko	
 Chełmońskimi	Chełmoński	subst:pl:inst:m1	nazwisko	
-Chełmskich	Chełmskie	subst:pl:gen:n2	nazwa geograficzna	
-Chełmskich	Chełmskie	subst:pl:loc:n2	nazwa geograficzna	
-Chełmskie	Chełmskie	subst:pl:acc:n2	nazwa geograficzna	
-Chełmskie	Chełmskie	subst:pl:nom:n2	nazwa geograficzna	
-Chełmskie	Chełmskie	subst:pl:voc:n2	nazwa geograficzna	
-Chełmskie	Chełmskie	subst:sg:acc:n2	nazwa geograficzna	
-Chełmskie	Chełmskie	subst:sg:nom:n2	nazwa geograficzna	
-Chełmskie	Chełmskie	subst:sg:voc:n2	nazwa geograficzna	
-Chełmskiego	Chełmskie	subst:sg:gen:n2	nazwa geograficzna	
-Chełmskiem	Chełmskie	subst:sg:inst:n2	nazwa geograficzna	
-Chełmskiem	Chełmskie	subst:sg:loc:n2	nazwa geograficzna	
-Chełmskiemu	Chełmskie	subst:sg:dat:n2	nazwa geograficzna	
-Chełmskim	Chełmskie	subst:pl:dat:n2	nazwa geograficzna	
-Chełmskimi	Chełmskie	subst:pl:inst:n2	nazwa geograficzna	
+Chełmskich	Chełmskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Chełmskich	Chełmskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Chełmskie	Chełmskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Chełmskie	Chełmskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Chełmskie	Chełmskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Chełmskie	Chełmskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Chełmskie	Chełmskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Chełmskie	Chełmskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Chełmskiego	Chełmskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Chełmskiem	Chełmskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Chełmskiem	Chełmskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Chełmskiemu	Chełmskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Chełmskim	Chełmskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Chełmskimi	Chełmskie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Chełmszczyznach	Chełmszczyzna	subst:pl:loc:f	nazwa geograficzna	
 Chełmszczyzna	Chełmszczyzna	subst:sg:nom:f	nazwa geograficzna	
 Chełmszczyznami	Chełmszczyzna	subst:pl:inst:f	nazwa geograficzna	
@@ -2516,48 +2516,48 @@ Chevaliery	Chevalier	depr:pl:nom:m2	nazwisko
 Chevaliery	Chevalier	depr:pl:voc:m2	nazwisko	
 Chevalierze	Chevalier	subst:sg:loc:m1	nazwisko	
 Chevalierze	Chevalier	subst:sg:voc:m1	nazwisko	
-Chęcinach	Chęciny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Chęcinach	Chęciny	subst:pl:loc:p3	nazwa geograficzna	
-Chęcinami	Chęciny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Chęcinami	Chęciny	subst:pl:inst:p3	nazwa geograficzna	
-Chęcin	Chęciny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Chęcin	Chęciny	subst:pl:gen:p3	nazwa geograficzna	
-Chęcinom	Chęciny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Chęcinom	Chęciny	subst:pl:dat:p3	nazwa geograficzna	
-Chęciny	Chęciny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Chęciny	Chęciny	subst:pl:acc:p3	nazwa geograficzna	
-Chęciny	Chęciny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Chęciny	Chęciny	subst:pl:nom:p3	nazwa geograficzna	
-Chęciny	Chęciny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Chęciny	Chęciny	subst:pl:voc:p3	nazwa geograficzna	
-Chicago	Chicago	subst:pl:acc:n2	nazwa geograficzna	
-Chicago	Chicago	subst:pl:dat:n2	nazwa geograficzna	
-Chicago	Chicago	subst:pl:gen:n2	nazwa geograficzna	
-Chicago	Chicago	subst:pl:inst:n2	nazwa geograficzna	
-Chicago	Chicago	subst:pl:loc:n2	nazwa geograficzna	
-Chicago	Chicago	subst:pl:nom:n2	nazwa geograficzna	
-Chicago	Chicago	subst:pl:voc:n2	nazwa geograficzna	
-Chicago	Chicago	subst:sg:acc:n2	nazwa geograficzna	
-Chicago	Chicago	subst:sg:dat:n2	nazwa geograficzna	
-Chicago	Chicago	subst:sg:gen:n2	nazwa geograficzna	
-Chicago	Chicago	subst:sg:inst:n2	nazwa geograficzna	
-Chicago	Chicago	subst:sg:loc:n2	nazwa geograficzna	
-Chicago	Chicago	subst:sg:nom:n2	nazwa geograficzna	
-Chicago	Chicago	subst:sg:voc:n2	nazwa geograficzna	
-Chile	Chile	subst:pl:acc:n2	nazwa geograficzna	
-Chile	Chile	subst:pl:dat:n2	nazwa geograficzna	
-Chile	Chile	subst:pl:gen:n2	nazwa geograficzna	
-Chile	Chile	subst:pl:inst:n2	nazwa geograficzna	
-Chile	Chile	subst:pl:loc:n2	nazwa geograficzna	
-Chile	Chile	subst:pl:nom:n2	nazwa geograficzna	
-Chile	Chile	subst:pl:voc:n2	nazwa geograficzna	
-Chile	Chile	subst:sg:acc:n2	nazwa geograficzna	
-Chile	Chile	subst:sg:dat:n2	nazwa geograficzna	
-Chile	Chile	subst:sg:gen:n2	nazwa geograficzna	
-Chile	Chile	subst:sg:inst:n2	nazwa geograficzna	
-Chile	Chile	subst:sg:loc:n2	nazwa geograficzna	
-Chile	Chile	subst:sg:nom:n2	nazwa geograficzna	
-Chile	Chile	subst:sg:voc:n2	nazwa geograficzna	
+Chęcinach	Chęciny	subst:pl:loc:n:pt	nazwa geograficzna	
+Chęcinach	Chęciny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Chęcinami	Chęciny	subst:pl:inst:n:pt	nazwa geograficzna	
+Chęcinami	Chęciny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Chęcin	Chęciny	subst:pl:gen:n:pt	nazwa geograficzna	
+Chęcin	Chęciny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Chęcinom	Chęciny	subst:pl:dat:n:pt	nazwa geograficzna	
+Chęcinom	Chęciny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Chęciny	Chęciny	subst:pl:acc:n:pt	nazwa geograficzna	
+Chęciny	Chęciny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Chęciny	Chęciny	subst:pl:nom:n:pt	nazwa geograficzna	
+Chęciny	Chęciny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Chęciny	Chęciny	subst:pl:voc:n:pt	nazwa geograficzna	
+Chęciny	Chęciny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Chicago	Chicago	subst:pl:acc:n:ncol	nazwa geograficzna	
+Chicago	Chicago	subst:pl:dat:n:ncol	nazwa geograficzna	
+Chicago	Chicago	subst:pl:gen:n:ncol	nazwa geograficzna	
+Chicago	Chicago	subst:pl:inst:n:ncol	nazwa geograficzna	
+Chicago	Chicago	subst:pl:loc:n:ncol	nazwa geograficzna	
+Chicago	Chicago	subst:pl:nom:n:ncol	nazwa geograficzna	
+Chicago	Chicago	subst:pl:voc:n:ncol	nazwa geograficzna	
+Chicago	Chicago	subst:sg:acc:n:ncol	nazwa geograficzna	
+Chicago	Chicago	subst:sg:dat:n:ncol	nazwa geograficzna	
+Chicago	Chicago	subst:sg:gen:n:ncol	nazwa geograficzna	
+Chicago	Chicago	subst:sg:inst:n:ncol	nazwa geograficzna	
+Chicago	Chicago	subst:sg:loc:n:ncol	nazwa geograficzna	
+Chicago	Chicago	subst:sg:nom:n:ncol	nazwa geograficzna	
+Chicago	Chicago	subst:sg:voc:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:pl:acc:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:pl:dat:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:pl:gen:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:pl:inst:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:pl:loc:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:pl:nom:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:pl:voc:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:sg:acc:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:sg:dat:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:sg:gen:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:sg:inst:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:sg:loc:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:sg:nom:n:ncol	nazwa geograficzna	
+Chile	Chile	subst:sg:voc:n:ncol	nazwa geograficzna	
 Chilijczycy	Chilijczyk	subst:pl:nom:m1	nazwa pospolita	
 Chilijczycy	Chilijczyk	subst:pl:voc:m1	nazwa pospolita	
 Chilijczykach	Chilijczyk	subst:pl:loc:m1	nazwa pospolita	
@@ -2602,20 +2602,20 @@ Chinki	Chinka	subst:pl:voc:f	nazwa pospolita
 Chinki	Chinka	subst:sg:gen:f	nazwa pospolita	
 Chinko	Chinka	subst:sg:voc:f	nazwa pospolita	
 Chinkom	Chinka	subst:pl:dat:f	nazwa pospolita	
-Chinach	Chiny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Chinach	Chiny	subst:pl:loc:p3	nazwa geograficzna	
-Chinami	Chiny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Chinami	Chiny	subst:pl:inst:p3	nazwa geograficzna	
-Chin	Chiny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Chin	Chiny	subst:pl:gen:p3	nazwa geograficzna	
-Chinom	Chiny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Chinom	Chiny	subst:pl:dat:p3	nazwa geograficzna	
-Chiny	Chiny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Chiny	Chiny	subst:pl:acc:p3	nazwa geograficzna	
-Chiny	Chiny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Chiny	Chiny	subst:pl:nom:p3	nazwa geograficzna	
-Chiny	Chiny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Chiny	Chiny	subst:pl:voc:p3	nazwa geograficzna	
+Chinach	Chiny	subst:pl:loc:n:pt	nazwa geograficzna	
+Chinach	Chiny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Chinami	Chiny	subst:pl:inst:n:pt	nazwa geograficzna	
+Chinami	Chiny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Chin	Chiny	subst:pl:gen:n:pt	nazwa geograficzna	
+Chin	Chiny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Chinom	Chiny	subst:pl:dat:n:pt	nazwa geograficzna	
+Chinom	Chiny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Chiny	Chiny	subst:pl:acc:n:pt	nazwa geograficzna	
+Chiny	Chiny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Chiny	Chiny	subst:pl:nom:n:pt	nazwa geograficzna	
+Chiny	Chiny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Chiny	Chiny	subst:pl:voc:n:pt	nazwa geograficzna	
+Chiny	Chiny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Chińczycy	Chińczyk	subst:pl:nom:m1	nazwa pospolita	
 Chińczycy	Chińczyk	subst:pl:voc:m1	nazwa pospolita	
 Chińczykach	Chińczyk	subst:pl:loc:m1	nazwa pospolita	
@@ -2664,34 +2664,34 @@ Chirico	Chirico	subst:sg:inst:m1	nazwisko
 Chirico	Chirico	subst:sg:loc:m1	nazwisko	
 Chirico	Chirico	subst:sg:nom:m1	nazwisko	
 Chirico	Chirico	subst:sg:voc:m1	nazwisko	
-Chlewiskach	Chlewiska	subst:pl:loc:p2	nazwa geograficzna	
-Chlewiskach	Chlewiska	subst:pl:loc:p3	nazwa geograficzna	
-Chlewiska	Chlewiska	subst:pl:acc:p2	nazwa geograficzna	
-Chlewiska	Chlewiska	subst:pl:acc:p3	nazwa geograficzna	
-Chlewiska	Chlewiska	subst:pl:nom:p2	nazwa geograficzna	
-Chlewiska	Chlewiska	subst:pl:nom:p3	nazwa geograficzna	
-Chlewiska	Chlewiska	subst:pl:voc:p2	nazwa geograficzna	
-Chlewiska	Chlewiska	subst:pl:voc:p3	nazwa geograficzna	
-Chlewiskami	Chlewiska	subst:pl:inst:p2	nazwa geograficzna	
-Chlewiskami	Chlewiska	subst:pl:inst:p3	nazwa geograficzna	
-Chlewisk	Chlewiska	subst:pl:gen:p2	nazwa geograficzna	
-Chlewisk	Chlewiska	subst:pl:gen:p3	nazwa geograficzna	
-Chlewiskom	Chlewiska	subst:pl:dat:p2	nazwa geograficzna	
-Chlewiskom	Chlewiska	subst:pl:dat:p3	nazwa geograficzna	
-Chłopicach	Chłopice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Chłopicach	Chłopice	subst:pl:loc:p3	nazwa geograficzna	
-Chłopicami	Chłopice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Chłopicami	Chłopice	subst:pl:inst:p3	nazwa geograficzna	
-Chłopic	Chłopice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Chłopic	Chłopice	subst:pl:gen:p3	nazwa geograficzna	
-Chłopice	Chłopice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Chłopice	Chłopice	subst:pl:acc:p3	nazwa geograficzna	
-Chłopice	Chłopice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Chłopice	Chłopice	subst:pl:nom:p3	nazwa geograficzna	
-Chłopice	Chłopice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Chłopice	Chłopice	subst:pl:voc:p3	nazwa geograficzna	
-Chłopicom	Chłopice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Chłopicom	Chłopice	subst:pl:dat:p3	nazwa geograficzna	
+Chlewiskach	Chlewiska	subst:pl:loc:n:pt	nazwa geograficzna	
+Chlewiskach	Chlewiska	subst:pl:loc:n:pt	nazwa geograficzna	
+Chlewiska	Chlewiska	subst:pl:acc:n:pt	nazwa geograficzna	
+Chlewiska	Chlewiska	subst:pl:acc:n:pt	nazwa geograficzna	
+Chlewiska	Chlewiska	subst:pl:nom:n:pt	nazwa geograficzna	
+Chlewiska	Chlewiska	subst:pl:nom:n:pt	nazwa geograficzna	
+Chlewiska	Chlewiska	subst:pl:voc:n:pt	nazwa geograficzna	
+Chlewiska	Chlewiska	subst:pl:voc:n:pt	nazwa geograficzna	
+Chlewiskami	Chlewiska	subst:pl:inst:n:pt	nazwa geograficzna	
+Chlewiskami	Chlewiska	subst:pl:inst:n:pt	nazwa geograficzna	
+Chlewisk	Chlewiska	subst:pl:gen:n:pt	nazwa geograficzna	
+Chlewisk	Chlewiska	subst:pl:gen:n:pt	nazwa geograficzna	
+Chlewiskom	Chlewiska	subst:pl:dat:n:pt	nazwa geograficzna	
+Chlewiskom	Chlewiska	subst:pl:dat:n:pt	nazwa geograficzna	
+Chłopicach	Chłopice	subst:pl:loc:n:pt	nazwa geograficzna	
+Chłopicach	Chłopice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Chłopicami	Chłopice	subst:pl:inst:n:pt	nazwa geograficzna	
+Chłopicami	Chłopice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Chłopic	Chłopice	subst:pl:gen:n:pt	nazwa geograficzna	
+Chłopic	Chłopice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Chłopice	Chłopice	subst:pl:acc:n:pt	nazwa geograficzna	
+Chłopice	Chłopice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Chłopice	Chłopice	subst:pl:nom:n:pt	nazwa geograficzna	
+Chłopice	Chłopice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Chłopice	Chłopice	subst:pl:voc:n:pt	nazwa geograficzna	
+Chłopice	Chłopice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Chłopicom	Chłopice	subst:pl:dat:n:pt	nazwa geograficzna	
+Chłopicom	Chłopice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Chłopiccy	Chłopicki	subst:pl:nom:m1	nazwisko	
 Chłopiccy	Chłopicki	subst:pl:voc:m1	nazwisko	
 Chłopickich	Chłopicki	subst:pl:acc:m1	nazwisko	
@@ -2784,20 +2784,20 @@ Chmielnickim	Chmielnicki	subst:pl:dat:m1	nazwisko
 Chmielnickim	Chmielnicki	subst:sg:inst:m1	nazwisko	
 Chmielnickim	Chmielnicki	subst:sg:loc:m1	nazwisko	
 Chmielnickimi	Chmielnicki	subst:pl:inst:m1	nazwisko	
-Chmielnach	Chmielno	subst:pl:loc:n2	nazwa geograficzna	
-Chmielna	Chmielno	subst:pl:acc:n2	nazwa geograficzna	
-Chmielna	Chmielno	subst:pl:nom:n2	nazwa geograficzna	
-Chmielna	Chmielno	subst:pl:voc:n2	nazwa geograficzna	
-Chmielna	Chmielno	subst:sg:gen:n2	nazwa geograficzna	
-Chmielnami	Chmielno	subst:pl:inst:n2	nazwa geograficzna	
-Chmieln	Chmielno	subst:pl:gen:n2	nazwa geograficzna	
-Chmielnem	Chmielno	subst:sg:inst:n2	nazwa geograficzna	
-Chmielnie	Chmielno	subst:sg:loc:n2	nazwa geograficzna	
-Chmielno	Chmielno	subst:sg:acc:n2	nazwa geograficzna	
-Chmielno	Chmielno	subst:sg:nom:n2	nazwa geograficzna	
-Chmielno	Chmielno	subst:sg:voc:n2	nazwa geograficzna	
-Chmielnom	Chmielno	subst:pl:dat:n2	nazwa geograficzna	
-Chmielnu	Chmielno	subst:sg:dat:n2	nazwa geograficzna	
+Chmielnach	Chmielno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Chmielna	Chmielno	subst:pl:acc:n:ncol	nazwa geograficzna	
+Chmielna	Chmielno	subst:pl:nom:n:ncol	nazwa geograficzna	
+Chmielna	Chmielno	subst:pl:voc:n:ncol	nazwa geograficzna	
+Chmielna	Chmielno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Chmielnami	Chmielno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Chmieln	Chmielno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Chmielnem	Chmielno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Chmielnie	Chmielno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Chmielno	Chmielno	subst:sg:acc:n:ncol	nazwa geograficzna	
+Chmielno	Chmielno	subst:sg:nom:n:ncol	nazwa geograficzna	
+Chmielno	Chmielno	subst:sg:voc:n:ncol	nazwa geograficzna	
+Chmielnom	Chmielno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Chmielnu	Chmielno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Chmielowska	Chmielowska	subst:sg:nom:f	nazwisko	
 Chmielowska	Chmielowska	subst:sg:voc:f	nazwisko	
 Chmielowską	Chmielowska	subst:sg:acc:f	nazwisko	
@@ -2942,20 +2942,20 @@ Chocimiowi	Chocim	subst:sg:dat:m3	nazwa geograficzna
 Chocimiów	Chocim	subst:pl:gen:m3	nazwa geograficzna	
 Chocimiu	Chocim	subst:sg:loc:m3	nazwa geograficzna	
 Chocimiu	Chocim	subst:sg:voc:m3	nazwa geograficzna	
-Choczewach	Choczewo	subst:pl:loc:n2	nazwa geograficzna	
-Choczewa	Choczewo	subst:pl:acc:n2	nazwa geograficzna	
-Choczewa	Choczewo	subst:pl:nom:n2	nazwa geograficzna	
-Choczewa	Choczewo	subst:pl:voc:n2	nazwa geograficzna	
-Choczewa	Choczewo	subst:sg:gen:n2	nazwa geograficzna	
-Choczewami	Choczewo	subst:pl:inst:n2	nazwa geograficzna	
-Choczew	Choczewo	subst:pl:gen:n2	nazwa geograficzna	
-Choczewem	Choczewo	subst:sg:inst:n2	nazwa geograficzna	
-Choczewie	Choczewo	subst:sg:loc:n2	nazwa geograficzna	
-Choczewo	Choczewo	subst:sg:acc:n2	nazwa geograficzna	
-Choczewo	Choczewo	subst:sg:nom:n2	nazwa geograficzna	
-Choczewo	Choczewo	subst:sg:voc:n2	nazwa geograficzna	
-Choczewom	Choczewo	subst:pl:dat:n2	nazwa geograficzna	
-Choczewu	Choczewo	subst:sg:dat:n2	nazwa geograficzna	
+Choczewach	Choczewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Choczewa	Choczewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Choczewa	Choczewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Choczewa	Choczewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Choczewa	Choczewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Choczewami	Choczewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Choczew	Choczewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Choczewem	Choczewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Choczewie	Choczewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Choczewo	Choczewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Choczewo	Choczewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Choczewo	Choczewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Choczewom	Choczewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Choczewu	Choczewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Chodczach	Chodecz	subst:pl:loc:m3	nazwa geograficzna	
 Chodcza	Chodecz	subst:sg:gen:m3	nazwa geograficzna	
 Chodczami	Chodecz	subst:pl:inst:m3	nazwa geograficzna	
@@ -3125,20 +3125,20 @@ Chojnackim	Chojnacki	subst:pl:dat:m1	nazwisko
 Chojnackim	Chojnacki	subst:sg:inst:m1	nazwisko	
 Chojnackim	Chojnacki	subst:sg:loc:m1	nazwisko	
 Chojnackimi	Chojnacki	subst:pl:inst:m1	nazwisko	
-Chojnicach	Chojnice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Chojnicach	Chojnice	subst:pl:loc:p3	nazwa geograficzna	
-Chojnicami	Chojnice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Chojnicami	Chojnice	subst:pl:inst:p3	nazwa geograficzna	
-Chojnic	Chojnice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Chojnic	Chojnice	subst:pl:gen:p3	nazwa geograficzna	
-Chojnice	Chojnice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Chojnice	Chojnice	subst:pl:acc:p3	nazwa geograficzna	
-Chojnice	Chojnice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Chojnice	Chojnice	subst:pl:nom:p3	nazwa geograficzna	
-Chojnice	Chojnice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Chojnice	Chojnice	subst:pl:voc:p3	nazwa geograficzna	
-Chojnicom	Chojnice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Chojnicom	Chojnice	subst:pl:dat:p3	nazwa geograficzna	
+Chojnicach	Chojnice	subst:pl:loc:n:pt	nazwa geograficzna	
+Chojnicach	Chojnice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Chojnicami	Chojnice	subst:pl:inst:n:pt	nazwa geograficzna	
+Chojnicami	Chojnice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Chojnic	Chojnice	subst:pl:gen:n:pt	nazwa geograficzna	
+Chojnic	Chojnice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Chojnice	Chojnice	subst:pl:acc:n:pt	nazwa geograficzna	
+Chojnice	Chojnice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Chojnice	Chojnice	subst:pl:nom:n:pt	nazwa geograficzna	
+Chojnice	Chojnice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Chojnice	Chojnice	subst:pl:voc:n:pt	nazwa geograficzna	
+Chojnice	Chojnice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Chojnicom	Chojnice	subst:pl:dat:n:pt	nazwa geograficzna	
+Chojnicom	Chojnice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Chojnowach	Chojnów	subst:pl:loc:m3	nazwa geograficzna	
 Chojnowa	Chojnów	subst:sg:gen:m3	nazwa geograficzna	
 Chojnowami	Chojnów	subst:pl:inst:m3	nazwa geograficzna	
@@ -3701,34 +3701,34 @@ Chrzanowy	Chrzanów	subst:pl:nom:m3	nazwa geograficzna
 Chrzanowy	Chrzanów	subst:pl:voc:m3	nazwa geograficzna	
 Chrzanów	Chrzanów	subst:sg:acc:m3	nazwa geograficzna	
 Chrzanów	Chrzanów	subst:sg:nom:m3	nazwa geograficzna	
-Chrząstowicach	Chrząstowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Chrząstowicach	Chrząstowice	subst:pl:loc:p3	nazwa geograficzna	
-Chrząstowicami	Chrząstowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Chrząstowicami	Chrząstowice	subst:pl:inst:p3	nazwa geograficzna	
-Chrząstowic	Chrząstowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Chrząstowic	Chrząstowice	subst:pl:gen:p3	nazwa geograficzna	
-Chrząstowice	Chrząstowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Chrząstowice	Chrząstowice	subst:pl:acc:p3	nazwa geograficzna	
-Chrząstowice	Chrząstowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Chrząstowice	Chrząstowice	subst:pl:nom:p3	nazwa geograficzna	
-Chrząstowice	Chrząstowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Chrząstowice	Chrząstowice	subst:pl:voc:p3	nazwa geograficzna	
-Chrząstowicom	Chrząstowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Chrząstowicom	Chrząstowice	subst:pl:dat:p3	nazwa geograficzna	
-Chrzypskach	Chrzypsko	subst:pl:loc:n2	nazwa geograficzna	
-Chrzypska	Chrzypsko	subst:pl:acc:n2	nazwa geograficzna	
-Chrzypska	Chrzypsko	subst:pl:nom:n2	nazwa geograficzna	
-Chrzypska	Chrzypsko	subst:pl:voc:n2	nazwa geograficzna	
-Chrzypska	Chrzypsko	subst:sg:gen:n2	nazwa geograficzna	
-Chrzypskami	Chrzypsko	subst:pl:inst:n2	nazwa geograficzna	
-Chrzypsk	Chrzypsko	subst:pl:gen:n2	nazwa geograficzna	
-Chrzypskiem	Chrzypsko	subst:sg:inst:n2	nazwa geograficzna	
-Chrzypsko	Chrzypsko	subst:sg:acc:n2	nazwa geograficzna	
-Chrzypsko	Chrzypsko	subst:sg:nom:n2	nazwa geograficzna	
-Chrzypsko	Chrzypsko	subst:sg:voc:n2	nazwa geograficzna	
-Chrzypskom	Chrzypsko	subst:pl:dat:n2	nazwa geograficzna	
-Chrzypsku	Chrzypsko	subst:sg:dat:n2	nazwa geograficzna	
-Chrzypsku	Chrzypsko	subst:sg:loc:n2	nazwa geograficzna	
+Chrząstowicach	Chrząstowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Chrząstowicach	Chrząstowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Chrząstowicami	Chrząstowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Chrząstowicami	Chrząstowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Chrząstowic	Chrząstowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Chrząstowic	Chrząstowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Chrząstowice	Chrząstowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Chrząstowice	Chrząstowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Chrząstowice	Chrząstowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Chrząstowice	Chrząstowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Chrząstowice	Chrząstowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Chrząstowice	Chrząstowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Chrząstowicom	Chrząstowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Chrząstowicom	Chrząstowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Chrzypskach	Chrzypsko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Chrzypska	Chrzypsko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Chrzypska	Chrzypsko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Chrzypska	Chrzypsko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Chrzypska	Chrzypsko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Chrzypskami	Chrzypsko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Chrzypsk	Chrzypsko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Chrzypskiem	Chrzypsko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Chrzypsko	Chrzypsko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Chrzypsko	Chrzypsko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Chrzypsko	Chrzypsko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Chrzypskom	Chrzypsko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Chrzypsku	Chrzypsko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Chrzypsku	Chrzypsko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Chude	Chudy	depr:pl:nom:m2	nazwisko	
 Chude	Chudy	depr:pl:voc:m2	nazwisko	
 Chudego	Chudy	subst:sg:acc:m1	nazwisko	
@@ -3891,20 +3891,20 @@ Chwalisławy	Chwalisława	subst:pl:acc:f	imię
 Chwalisławy	Chwalisława	subst:pl:nom:f	imię	
 Chwalisławy	Chwalisława	subst:pl:voc:f	imię	
 Chwalisławy	Chwalisława	subst:sg:gen:f	imię	
-Chwałowicach	Chwałowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Chwałowicach	Chwałowice	subst:pl:loc:p3	nazwa geograficzna	
-Chwałowicami	Chwałowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Chwałowicami	Chwałowice	subst:pl:inst:p3	nazwa geograficzna	
-Chwałowic	Chwałowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Chwałowic	Chwałowice	subst:pl:gen:p3	nazwa geograficzna	
-Chwałowice	Chwałowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Chwałowice	Chwałowice	subst:pl:acc:p3	nazwa geograficzna	
-Chwałowice	Chwałowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Chwałowice	Chwałowice	subst:pl:nom:p3	nazwa geograficzna	
-Chwałowice	Chwałowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Chwałowice	Chwałowice	subst:pl:voc:p3	nazwa geograficzna	
-Chwałowicom	Chwałowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Chwałowicom	Chwałowice	subst:pl:dat:p3	nazwa geograficzna	
+Chwałowicach	Chwałowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Chwałowicach	Chwałowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Chwałowicami	Chwałowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Chwałowicami	Chwałowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Chwałowic	Chwałowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Chwałowic	Chwałowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Chwałowice	Chwałowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Chwałowice	Chwałowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Chwałowice	Chwałowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Chwałowice	Chwałowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Chwałowice	Chwałowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Chwałowice	Chwałowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Chwałowicom	Chwałowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Chwałowicom	Chwałowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Chwinach	Chwin	subst:pl:loc:m1	nazwisko	
 Chwina	Chwin	subst:sg:acc:m1	nazwisko	
 Chwina	Chwin	subst:sg:gen:m1	nazwisko	
@@ -3997,48 +3997,48 @@ Chynowy	Chynów	subst:pl:nom:m3	nazwa geograficzna
 Chynowy	Chynów	subst:pl:voc:m3	nazwa geograficzna	
 Chynów	Chynów	subst:sg:acc:m3	nazwa geograficzna	
 Chynów	Chynów	subst:sg:nom:m3	nazwa geograficzna	
-Chyżne	Chyżne	subst:pl:acc:n2	nazwa geograficzna	
-Chyżne	Chyżne	subst:pl:nom:n2	nazwa geograficzna	
-Chyżne	Chyżne	subst:pl:voc:n2	nazwa geograficzna	
-Chyżne	Chyżne	subst:sg:acc:n2	nazwa geograficzna	
-Chyżne	Chyżne	subst:sg:nom:n2	nazwa geograficzna	
-Chyżne	Chyżne	subst:sg:voc:n2	nazwa geograficzna	
-Chyżnego	Chyżne	subst:sg:gen:n2	nazwa geograficzna	
-Chyżnem	Chyżne	subst:sg:inst:n2	nazwa geograficzna	
-Chyżnem	Chyżne	subst:sg:loc:n2	nazwa geograficzna	
-Chyżnemu	Chyżne	subst:sg:dat:n2	nazwa geograficzna	
-Chyżnych	Chyżne	subst:pl:gen:n2	nazwa geograficzna	
-Chyżnych	Chyżne	subst:pl:loc:n2	nazwa geograficzna	
-Chyżnym	Chyżne	subst:pl:dat:n2	nazwa geograficzna	
-Chyżnymi	Chyżne	subst:pl:inst:n2	nazwa geograficzna	
+Chyżne	Chyżne	subst:pl:acc:n:ncol	nazwa geograficzna	
+Chyżne	Chyżne	subst:pl:nom:n:ncol	nazwa geograficzna	
+Chyżne	Chyżne	subst:pl:voc:n:ncol	nazwa geograficzna	
+Chyżne	Chyżne	subst:sg:acc:n:ncol	nazwa geograficzna	
+Chyżne	Chyżne	subst:sg:nom:n:ncol	nazwa geograficzna	
+Chyżne	Chyżne	subst:sg:voc:n:ncol	nazwa geograficzna	
+Chyżnego	Chyżne	subst:sg:gen:n:ncol	nazwa geograficzna	
+Chyżnem	Chyżne	subst:sg:inst:n:ncol	nazwa geograficzna	
+Chyżnem	Chyżne	subst:sg:loc:n:ncol	nazwa geograficzna	
+Chyżnemu	Chyżne	subst:sg:dat:n:ncol	nazwa geograficzna	
+Chyżnych	Chyżne	subst:pl:gen:n:ncol	nazwa geograficzna	
+Chyżnych	Chyżne	subst:pl:loc:n:ncol	nazwa geograficzna	
+Chyżnym	Chyżne	subst:pl:dat:n:ncol	nazwa geograficzna	
+Chyżnymi	Chyżne	subst:pl:inst:n:ncol	nazwa geograficzna	
 CIA	CIA	subst:pl:acc:f	nazwa instytucji	
-CIA	CIA	subst:pl:acc:n2	nazwa instytucji	
+CIA	CIA	subst:pl:acc:n:ncol	nazwa instytucji	
 CIA	CIA	subst:pl:dat:f	nazwa instytucji	
-CIA	CIA	subst:pl:dat:n2	nazwa instytucji	
+CIA	CIA	subst:pl:dat:n:ncol	nazwa instytucji	
 CIA	CIA	subst:pl:gen:f	nazwa instytucji	
-CIA	CIA	subst:pl:gen:n2	nazwa instytucji	
+CIA	CIA	subst:pl:gen:n:ncol	nazwa instytucji	
 CIA	CIA	subst:pl:inst:f	nazwa instytucji	
-CIA	CIA	subst:pl:inst:n2	nazwa instytucji	
+CIA	CIA	subst:pl:inst:n:ncol	nazwa instytucji	
 CIA	CIA	subst:pl:loc:f	nazwa instytucji	
-CIA	CIA	subst:pl:loc:n2	nazwa instytucji	
+CIA	CIA	subst:pl:loc:n:ncol	nazwa instytucji	
 CIA	CIA	subst:pl:nom:f	nazwa instytucji	
-CIA	CIA	subst:pl:nom:n2	nazwa instytucji	
+CIA	CIA	subst:pl:nom:n:ncol	nazwa instytucji	
 CIA	CIA	subst:pl:voc:f	nazwa instytucji	
-CIA	CIA	subst:pl:voc:n2	nazwa instytucji	
+CIA	CIA	subst:pl:voc:n:ncol	nazwa instytucji	
 CIA	CIA	subst:sg:acc:f	nazwa instytucji	
-CIA	CIA	subst:sg:acc:n2	nazwa instytucji	
+CIA	CIA	subst:sg:acc:n:ncol	nazwa instytucji	
 CIA	CIA	subst:sg:dat:f	nazwa instytucji	
-CIA	CIA	subst:sg:dat:n2	nazwa instytucji	
+CIA	CIA	subst:sg:dat:n:ncol	nazwa instytucji	
 CIA	CIA	subst:sg:gen:f	nazwa instytucji	
-CIA	CIA	subst:sg:gen:n2	nazwa instytucji	
+CIA	CIA	subst:sg:gen:n:ncol	nazwa instytucji	
 CIA	CIA	subst:sg:inst:f	nazwa instytucji	
-CIA	CIA	subst:sg:inst:n2	nazwa instytucji	
+CIA	CIA	subst:sg:inst:n:ncol	nazwa instytucji	
 CIA	CIA	subst:sg:loc:f	nazwa instytucji	
-CIA	CIA	subst:sg:loc:n2	nazwa instytucji	
+CIA	CIA	subst:sg:loc:n:ncol	nazwa instytucji	
 CIA	CIA	subst:sg:nom:f	nazwa instytucji	
-CIA	CIA	subst:sg:nom:n2	nazwa instytucji	
+CIA	CIA	subst:sg:nom:n:ncol	nazwa instytucji	
 CIA	CIA	subst:sg:voc:f	nazwa instytucji	
-CIA	CIA	subst:sg:voc:n2	nazwa instytucji	
+CIA	CIA	subst:sg:voc:n:ncol	nazwa instytucji	
 Ciborach	Cibor	subst:pl:loc:m1	imię	
 Cibora	Cibor	subst:sg:acc:m1	imię	
 Cibora	Cibor	subst:sg:gen:m1	imię	
@@ -4151,20 +4151,20 @@ Cichym	Cichy	subst:sg:loc:m1	nazwisko
 Cichymi	Cichy	subst:pl:inst:m1	nazwisko	
 Cisi	Cichy	subst:pl:nom:m1	nazwisko	
 Cisi	Cichy	subst:pl:voc:m1	nazwisko	
-Ciechanowskich	Ciechanowskie	subst:pl:gen:n2	nazwa geograficzna	
-Ciechanowskich	Ciechanowskie	subst:pl:loc:n2	nazwa geograficzna	
-Ciechanowskie	Ciechanowskie	subst:pl:acc:n2	nazwa geograficzna	
-Ciechanowskie	Ciechanowskie	subst:pl:nom:n2	nazwa geograficzna	
-Ciechanowskie	Ciechanowskie	subst:pl:voc:n2	nazwa geograficzna	
-Ciechanowskie	Ciechanowskie	subst:sg:acc:n2	nazwa geograficzna	
-Ciechanowskie	Ciechanowskie	subst:sg:nom:n2	nazwa geograficzna	
-Ciechanowskie	Ciechanowskie	subst:sg:voc:n2	nazwa geograficzna	
-Ciechanowskiego	Ciechanowskie	subst:sg:gen:n2	nazwa geograficzna	
-Ciechanowskiem	Ciechanowskie	subst:sg:inst:n2	nazwa geograficzna	
-Ciechanowskiem	Ciechanowskie	subst:sg:loc:n2	nazwa geograficzna	
-Ciechanowskiemu	Ciechanowskie	subst:sg:dat:n2	nazwa geograficzna	
-Ciechanowskim	Ciechanowskie	subst:pl:dat:n2	nazwa geograficzna	
-Ciechanowskimi	Ciechanowskie	subst:pl:inst:n2	nazwa geograficzna	
+Ciechanowskich	Ciechanowskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ciechanowskich	Ciechanowskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Ciechanowskie	Ciechanowskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Ciechanowskie	Ciechanowskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Ciechanowskie	Ciechanowskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Ciechanowskie	Ciechanowskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Ciechanowskie	Ciechanowskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Ciechanowskie	Ciechanowskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Ciechanowskiego	Ciechanowskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Ciechanowskiem	Ciechanowskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Ciechanowskiem	Ciechanowskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Ciechanowskiemu	Ciechanowskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Ciechanowskim	Ciechanowskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Ciechanowskimi	Ciechanowskie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Ciechanowach	Ciechanów	subst:pl:loc:m3	nazwa geograficzna	
 Ciechanowa	Ciechanów	subst:sg:gen:m3	nazwa geograficzna	
 Ciechanowami	Ciechanów	subst:pl:inst:m3	nazwa geograficzna	
@@ -4319,34 +4319,34 @@ Ciepielowy	Ciepielów	subst:pl:nom:m3	nazwa geograficzna
 Ciepielowy	Ciepielów	subst:pl:voc:m3	nazwa geograficzna	
 Ciepielów	Ciepielów	subst:sg:acc:m3	nazwa geograficzna	
 Ciepielów	Ciepielów	subst:sg:nom:m3	nazwa geograficzna	
-Cieplicach	Cieplice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Cieplicach	Cieplice	subst:pl:loc:p3	nazwa geograficzna	
-Cieplicami	Cieplice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Cieplicami	Cieplice	subst:pl:inst:p3	nazwa geograficzna	
-Cieplic	Cieplice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Cieplic	Cieplice	subst:pl:gen:p3	nazwa geograficzna	
-Cieplice	Cieplice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Cieplice	Cieplice	subst:pl:acc:p3	nazwa geograficzna	
-Cieplice	Cieplice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Cieplice	Cieplice	subst:pl:nom:p3	nazwa geograficzna	
-Cieplice	Cieplice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Cieplice	Cieplice	subst:pl:voc:p3	nazwa geograficzna	
-Cieplicom	Cieplice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Cieplicom	Cieplice	subst:pl:dat:p3	nazwa geograficzna	
-Ciepłowodach	Ciepłowody	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Ciepłowodach	Ciepłowody	subst:pl:loc:p3	nazwa geograficzna	
-Ciepłowodami	Ciepłowody	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Ciepłowodami	Ciepłowody	subst:pl:inst:p3	nazwa geograficzna	
-Ciepłowodom	Ciepłowody	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Ciepłowodom	Ciepłowody	subst:pl:dat:p3	nazwa geograficzna	
-Ciepłowody	Ciepłowody	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Ciepłowody	Ciepłowody	subst:pl:acc:p3	nazwa geograficzna	
-Ciepłowody	Ciepłowody	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Ciepłowody	Ciepłowody	subst:pl:nom:p3	nazwa geograficzna	
-Ciepłowody	Ciepłowody	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Ciepłowody	Ciepłowody	subst:pl:voc:p3	nazwa geograficzna	
-Ciepłowód	Ciepłowody	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Ciepłowód	Ciepłowody	subst:pl:gen:p3	nazwa geograficzna	
+Cieplicach	Cieplice	subst:pl:loc:n:pt	nazwa geograficzna	
+Cieplicach	Cieplice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Cieplicami	Cieplice	subst:pl:inst:n:pt	nazwa geograficzna	
+Cieplicami	Cieplice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Cieplic	Cieplice	subst:pl:gen:n:pt	nazwa geograficzna	
+Cieplic	Cieplice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Cieplice	Cieplice	subst:pl:acc:n:pt	nazwa geograficzna	
+Cieplice	Cieplice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Cieplice	Cieplice	subst:pl:nom:n:pt	nazwa geograficzna	
+Cieplice	Cieplice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Cieplice	Cieplice	subst:pl:voc:n:pt	nazwa geograficzna	
+Cieplice	Cieplice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Cieplicom	Cieplice	subst:pl:dat:n:pt	nazwa geograficzna	
+Cieplicom	Cieplice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ciepłowodach	Ciepłowody	subst:pl:loc:n:pt	nazwa geograficzna	
+Ciepłowodach	Ciepłowody	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ciepłowodami	Ciepłowody	subst:pl:inst:n:pt	nazwa geograficzna	
+Ciepłowodami	Ciepłowody	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ciepłowodom	Ciepłowody	subst:pl:dat:n:pt	nazwa geograficzna	
+Ciepłowodom	Ciepłowody	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ciepłowody	Ciepłowody	subst:pl:acc:n:pt	nazwa geograficzna	
+Ciepłowody	Ciepłowody	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Ciepłowody	Ciepłowody	subst:pl:nom:n:pt	nazwa geograficzna	
+Ciepłowody	Ciepłowody	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Ciepłowody	Ciepłowody	subst:pl:voc:n:pt	nazwa geograficzna	
+Ciepłowody	Ciepłowody	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Ciepłowód	Ciepłowody	subst:pl:gen:n:pt	nazwa geograficzna	
+Ciepłowód	Ciepłowody	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Ciepłowska	Ciepłowska	subst:sg:nom:f	nazwisko	
 Ciepłowska	Ciepłowska	subst:sg:voc:f	nazwisko	
 Ciepłowską	Ciepłowska	subst:sg:acc:f	nazwisko	
@@ -4507,20 +4507,20 @@ Cieszynów	Cieszyn	subst:pl:gen:m3	nazwa geograficzna
 Cieszyny	Cieszyn	subst:pl:acc:m3	nazwa geograficzna	
 Cieszyny	Cieszyn	subst:pl:nom:m3	nazwa geograficzna	
 Cieszyny	Cieszyn	subst:pl:voc:m3	nazwa geograficzna	
-Cieszyńskich	Cieszyńskie	subst:pl:gen:n2	nazwa geograficzna	
-Cieszyńskich	Cieszyńskie	subst:pl:loc:n2	nazwa geograficzna	
-Cieszyńskie	Cieszyńskie	subst:pl:acc:n2	nazwa geograficzna	
-Cieszyńskie	Cieszyńskie	subst:pl:nom:n2	nazwa geograficzna	
-Cieszyńskie	Cieszyńskie	subst:pl:voc:n2	nazwa geograficzna	
-Cieszyńskie	Cieszyńskie	subst:sg:acc:n2	nazwa geograficzna	
-Cieszyńskie	Cieszyńskie	subst:sg:nom:n2	nazwa geograficzna	
-Cieszyńskie	Cieszyńskie	subst:sg:voc:n2	nazwa geograficzna	
-Cieszyńskiego	Cieszyńskie	subst:sg:gen:n2	nazwa geograficzna	
-Cieszyńskiem	Cieszyńskie	subst:sg:inst:n2	nazwa geograficzna	
-Cieszyńskiem	Cieszyńskie	subst:sg:loc:n2	nazwa geograficzna	
-Cieszyńskiemu	Cieszyńskie	subst:sg:dat:n2	nazwa geograficzna	
-Cieszyńskim	Cieszyńskie	subst:pl:dat:n2	nazwa geograficzna	
-Cieszyńskimi	Cieszyńskie	subst:pl:inst:n2	nazwa geograficzna	
+Cieszyńskich	Cieszyńskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Cieszyńskich	Cieszyńskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Cieszyńskie	Cieszyńskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Cieszyńskie	Cieszyńskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Cieszyńskie	Cieszyńskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Cieszyńskie	Cieszyńskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Cieszyńskie	Cieszyńskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Cieszyńskie	Cieszyńskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Cieszyńskiego	Cieszyńskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Cieszyńskiem	Cieszyńskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Cieszyńskiem	Cieszyńskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Cieszyńskiemu	Cieszyńskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Cieszyńskim	Cieszyńskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Cieszyńskimi	Cieszyńskie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Cieszyradach	Cieszyrad	subst:pl:loc:m1	imię	
 Cieszyrada	Cieszyrad	subst:sg:acc:m1	imię	
 Cieszyrada	Cieszyrad	subst:sg:gen:m1	imię	
@@ -4694,20 +4694,20 @@ Cieślińskim	Cieśliński	subst:sg:inst:m1	nazwisko
 Cieślińskim	Cieśliński	subst:sg:loc:m1	nazwisko	
 Cieślińskimi	Cieśliński	subst:pl:inst:m1	nazwisko	
 C	cieśnina	brev:pun		geogr.
-Ciężkowicach	Ciężkowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Ciężkowicach	Ciężkowice	subst:pl:loc:p3	nazwa geograficzna	
-Ciężkowicami	Ciężkowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Ciężkowicami	Ciężkowice	subst:pl:inst:p3	nazwa geograficzna	
-Ciężkowic	Ciężkowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Ciężkowic	Ciężkowice	subst:pl:gen:p3	nazwa geograficzna	
-Ciężkowice	Ciężkowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Ciężkowice	Ciężkowice	subst:pl:acc:p3	nazwa geograficzna	
-Ciężkowice	Ciężkowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Ciężkowice	Ciężkowice	subst:pl:nom:p3	nazwa geograficzna	
-Ciężkowice	Ciężkowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Ciężkowice	Ciężkowice	subst:pl:voc:p3	nazwa geograficzna	
-Ciężkowicom	Ciężkowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Ciężkowicom	Ciężkowice	subst:pl:dat:p3	nazwa geograficzna	
+Ciężkowicach	Ciężkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Ciężkowicach	Ciężkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ciężkowicami	Ciężkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Ciężkowicami	Ciężkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ciężkowic	Ciężkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Ciężkowic	Ciężkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Ciężkowice	Ciężkowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Ciężkowice	Ciężkowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Ciężkowice	Ciężkowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Ciężkowice	Ciężkowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Ciężkowice	Ciężkowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Ciężkowice	Ciężkowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Ciężkowicom	Ciężkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Ciężkowicom	Ciężkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Cimoszewiczach	Cimoszewicz	subst:pl:loc:m1	nazwisko	
 Cimoszewicza	Cimoszewicz	subst:sg:acc:m1	nazwisko	
 Cimoszewicza	Cimoszewicz	subst:sg:gen:m1	nazwisko	
@@ -4726,20 +4726,20 @@ Cimoszewiczów	Cimoszewicz	subst:pl:acc:m1	nazwisko
 Cimoszewiczów	Cimoszewicz	subst:pl:gen:m1	nazwisko	
 Cimoszewiczu	Cimoszewicz	subst:sg:loc:m1	nazwisko	
 Cimoszewiczu	Cimoszewicz	subst:sg:voc:m1	nazwisko	
-CINTE	CINTE	subst:pl:acc:n2	nazwa instytucji	
-CINTE	CINTE	subst:pl:dat:n2	nazwa instytucji	
-CINTE	CINTE	subst:pl:gen:n2	nazwa instytucji	
-CINTE	CINTE	subst:pl:inst:n2	nazwa instytucji	
-CINTE	CINTE	subst:pl:loc:n2	nazwa instytucji	
-CINTE	CINTE	subst:pl:nom:n2	nazwa instytucji	
-CINTE	CINTE	subst:pl:voc:n2	nazwa instytucji	
-CINTE	CINTE	subst:sg:acc:n2	nazwa instytucji	
-CINTE	CINTE	subst:sg:dat:n2	nazwa instytucji	
-CINTE	CINTE	subst:sg:gen:n2	nazwa instytucji	
-CINTE	CINTE	subst:sg:inst:n2	nazwa instytucji	
-CINTE	CINTE	subst:sg:loc:n2	nazwa instytucji	
-CINTE	CINTE	subst:sg:nom:n2	nazwa instytucji	
-CINTE	CINTE	subst:sg:voc:n2	nazwa instytucji	
+CINTE	CINTE	subst:pl:acc:n:ncol	nazwa instytucji	
+CINTE	CINTE	subst:pl:dat:n:ncol	nazwa instytucji	
+CINTE	CINTE	subst:pl:gen:n:ncol	nazwa instytucji	
+CINTE	CINTE	subst:pl:inst:n:ncol	nazwa instytucji	
+CINTE	CINTE	subst:pl:loc:n:ncol	nazwa instytucji	
+CINTE	CINTE	subst:pl:nom:n:ncol	nazwa instytucji	
+CINTE	CINTE	subst:pl:voc:n:ncol	nazwa instytucji	
+CINTE	CINTE	subst:sg:acc:n:ncol	nazwa instytucji	
+CINTE	CINTE	subst:sg:dat:n:ncol	nazwa instytucji	
+CINTE	CINTE	subst:sg:gen:n:ncol	nazwa instytucji	
+CINTE	CINTE	subst:sg:inst:n:ncol	nazwa instytucji	
+CINTE	CINTE	subst:sg:loc:n:ncol	nazwa instytucji	
+CINTE	CINTE	subst:sg:nom:n:ncol	nazwa instytucji	
+CINTE	CINTE	subst:sg:voc:n:ncol	nazwa instytucji	
 Ciszewska	Ciszewska	subst:sg:nom:f	nazwisko	
 Ciszewska	Ciszewska	subst:sg:voc:f	nazwisko	
 Ciszewską	Ciszewska	subst:sg:acc:f	nazwisko	
@@ -4812,48 +4812,48 @@ CK	CK	subst:sg:inst:m3	nazwa organizacji
 CK	CK	subst:sg:loc:m3	nazwa organizacji	
 CK	CK	subst:sg:nom:m3	nazwa organizacji	
 CK	CK	subst:sg:voc:m3	nazwa organizacji	
-CKU	CKU	subst:pl:acc:n2	nazwa organizacji	
-CKU	CKU	subst:pl:dat:n2	nazwa organizacji	
-CKU	CKU	subst:pl:gen:n2	nazwa organizacji	
-CKU	CKU	subst:pl:inst:n2	nazwa organizacji	
-CKU	CKU	subst:pl:loc:n2	nazwa organizacji	
-CKU	CKU	subst:pl:nom:n2	nazwa organizacji	
-CKU	CKU	subst:pl:voc:n2	nazwa organizacji	
-CKU	CKU	subst:sg:acc:n2	nazwa organizacji	
-CKU	CKU	subst:sg:dat:n2	nazwa organizacji	
-CKU	CKU	subst:sg:gen:n2	nazwa organizacji	
-CKU	CKU	subst:sg:inst:n2	nazwa organizacji	
-CKU	CKU	subst:sg:loc:n2	nazwa organizacji	
-CKU	CKU	subst:sg:nom:n2	nazwa organizacji	
-CKU	CKU	subst:sg:voc:n2	nazwa organizacji	
+CKU	CKU	subst:pl:acc:n:ncol	nazwa organizacji	
+CKU	CKU	subst:pl:dat:n:ncol	nazwa organizacji	
+CKU	CKU	subst:pl:gen:n:ncol	nazwa organizacji	
+CKU	CKU	subst:pl:inst:n:ncol	nazwa organizacji	
+CKU	CKU	subst:pl:loc:n:ncol	nazwa organizacji	
+CKU	CKU	subst:pl:nom:n:ncol	nazwa organizacji	
+CKU	CKU	subst:pl:voc:n:ncol	nazwa organizacji	
+CKU	CKU	subst:sg:acc:n:ncol	nazwa organizacji	
+CKU	CKU	subst:sg:dat:n:ncol	nazwa organizacji	
+CKU	CKU	subst:sg:gen:n:ncol	nazwa organizacji	
+CKU	CKU	subst:sg:inst:n:ncol	nazwa organizacji	
+CKU	CKU	subst:sg:loc:n:ncol	nazwa organizacji	
+CKU	CKU	subst:sg:nom:n:ncol	nazwa organizacji	
+CKU	CKU	subst:sg:voc:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:pl:acc:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:pl:acc:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:pl:acc:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:pl:dat:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:pl:dat:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:pl:dat:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:pl:gen:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:pl:gen:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:pl:gen:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:pl:inst:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:pl:inst:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:pl:inst:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:pl:loc:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:pl:loc:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:pl:loc:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:pl:nom:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:pl:nom:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:pl:nom:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:pl:voc:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:pl:voc:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:pl:voc:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:sg:acc:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:sg:acc:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:sg:acc:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:sg:dat:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:sg:dat:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:sg:dat:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:sg:gen:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:sg:gen:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:sg:gen:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:sg:inst:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:sg:inst:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:sg:inst:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:sg:loc:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:sg:loc:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:sg:loc:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:sg:nom:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:sg:nom:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:sg:nom:n:ncol	nazwa organizacji	
 CKŻP	CKŻP	subst:sg:voc:m3	nazwa organizacji	
-CKŻP	CKŻP	subst:sg:voc:n2	nazwa organizacji	
+CKŻP	CKŻP	subst:sg:voc:n:ncol	nazwa organizacji	
 Clairach	Clair	subst:pl:loc:m1	nazwisko	
 Claira	Clair	subst:sg:acc:m1	nazwisko	
 Claira	Clair	subst:sg:gen:m1	nazwisko	
@@ -5002,20 +5002,20 @@ CNN-u	CNN	subst:sg:gen:m3	nazwa firmy
 CNN-y	CNN	subst:pl:acc:m3	nazwa firmy	
 CNN-y	CNN	subst:pl:nom:m3	nazwa firmy	
 CNN-y	CNN	subst:pl:voc:m3	nazwa firmy	
-CO	CO	subst:pl:acc:n2	nazwa pospolita	
-CO	CO	subst:pl:dat:n2	nazwa pospolita	
-CO	CO	subst:pl:gen:n2	nazwa pospolita	
-CO	CO	subst:pl:inst:n2	nazwa pospolita	
-CO	CO	subst:pl:loc:n2	nazwa pospolita	
-CO	CO	subst:pl:nom:n2	nazwa pospolita	
-CO	CO	subst:pl:voc:n2	nazwa pospolita	
-CO	CO	subst:sg:acc:n2	nazwa pospolita	
-CO	CO	subst:sg:dat:n2	nazwa pospolita	
-CO	CO	subst:sg:gen:n2	nazwa pospolita	
-CO	CO	subst:sg:inst:n2	nazwa pospolita	
-CO	CO	subst:sg:loc:n2	nazwa pospolita	
-CO	CO	subst:sg:nom:n2	nazwa pospolita	
-CO	CO	subst:sg:voc:n2	nazwa pospolita	
+CO	CO	subst:pl:acc:n:ncol	nazwa pospolita	
+CO	CO	subst:pl:dat:n:ncol	nazwa pospolita	
+CO	CO	subst:pl:gen:n:ncol	nazwa pospolita	
+CO	CO	subst:pl:inst:n:ncol	nazwa pospolita	
+CO	CO	subst:pl:loc:n:ncol	nazwa pospolita	
+CO	CO	subst:pl:nom:n:ncol	nazwa pospolita	
+CO	CO	subst:pl:voc:n:ncol	nazwa pospolita	
+CO	CO	subst:sg:acc:n:ncol	nazwa pospolita	
+CO	CO	subst:sg:dat:n:ncol	nazwa pospolita	
+CO	CO	subst:sg:gen:n:ncol	nazwa pospolita	
+CO	CO	subst:sg:inst:n:ncol	nazwa pospolita	
+CO	CO	subst:sg:loc:n:ncol	nazwa pospolita	
+CO	CO	subst:sg:nom:n:ncol	nazwa pospolita	
+CO	CO	subst:sg:voc:n:ncol	nazwa pospolita	
 Cobolach	Cobol	subst:pl:loc:m3	nazwa języka programowania	komp.
 Cobola	Cobol	subst:sg:gen:m3	nazwa języka programowania	komp.
 Cobolami	Cobol	subst:pl:inst:m3	nazwa języka programowania	komp.
@@ -5094,62 +5094,62 @@ Collinsów	Collins	subst:pl:acc:m1	nazwisko
 Collinsów	Collins	subst:pl:gen:m1	nazwisko	
 Collinsy	Collins	depr:pl:nom:m2	nazwisko	
 Collinsy	Collins	depr:pl:voc:m2	nazwisko	
-Colorado	Colorado:s1	subst:pl:acc:n2	nazwa geograficzna	
-Colorado	Colorado:s1	subst:pl:dat:n2	nazwa geograficzna	
-Colorado	Colorado:s1	subst:pl:gen:n2	nazwa geograficzna	
-Colorado	Colorado:s1	subst:pl:inst:n2	nazwa geograficzna	
-Colorado	Colorado:s1	subst:pl:loc:n2	nazwa geograficzna	
-Colorado	Colorado:s1	subst:pl:nom:n2	nazwa geograficzna	
-Colorado	Colorado:s1	subst:pl:voc:n2	nazwa geograficzna	
-Colorado	Colorado:s1	subst:sg:acc:n2	nazwa geograficzna	
-Colorado	Colorado:s1	subst:sg:dat:n2	nazwa geograficzna	
-Colorado	Colorado:s1	subst:sg:gen:n2	nazwa geograficzna	
-Colorado	Colorado:s1	subst:sg:inst:n2	nazwa geograficzna	
-Colorado	Colorado:s1	subst:sg:loc:n2	nazwa geograficzna	
-Colorado	Colorado:s1	subst:sg:nom:n2	nazwa geograficzna	
-Colorado	Colorado:s1	subst:sg:voc:n2	nazwa geograficzna	
+Colorado	Colorado:s1	subst:pl:acc:n:ncol	nazwa geograficzna	
+Colorado	Colorado:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+Colorado	Colorado:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+Colorado	Colorado:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+Colorado	Colorado:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+Colorado	Colorado:s1	subst:pl:nom:n:ncol	nazwa geograficzna	
+Colorado	Colorado:s1	subst:pl:voc:n:ncol	nazwa geograficzna	
+Colorado	Colorado:s1	subst:sg:acc:n:ncol	nazwa geograficzna	
+Colorado	Colorado:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+Colorado	Colorado:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+Colorado	Colorado:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+Colorado	Colorado:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+Colorado	Colorado:s1	subst:sg:nom:n:ncol	nazwa geograficzna	
+Colorado	Colorado:s1	subst:sg:voc:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:pl:acc:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:pl:acc:n2	nazwa geograficzna	
+Colorado	Colorado:s2	subst:pl:acc:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:pl:dat:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:pl:dat:n2	nazwa geograficzna	
+Colorado	Colorado:s2	subst:pl:dat:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:pl:gen:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:pl:gen:n2	nazwa geograficzna	
+Colorado	Colorado:s2	subst:pl:gen:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:pl:inst:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:pl:inst:n2	nazwa geograficzna	
+Colorado	Colorado:s2	subst:pl:inst:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:pl:loc:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:pl:loc:n2	nazwa geograficzna	
+Colorado	Colorado:s2	subst:pl:loc:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:pl:nom:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:pl:nom:n2	nazwa geograficzna	
+Colorado	Colorado:s2	subst:pl:nom:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:pl:voc:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:pl:voc:n2	nazwa geograficzna	
+Colorado	Colorado:s2	subst:pl:voc:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:sg:acc:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:sg:acc:n2	nazwa geograficzna	
+Colorado	Colorado:s2	subst:sg:acc:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:sg:dat:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:sg:dat:n2	nazwa geograficzna	
+Colorado	Colorado:s2	subst:sg:dat:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:sg:gen:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:sg:gen:n2	nazwa geograficzna	
+Colorado	Colorado:s2	subst:sg:gen:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:sg:inst:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:sg:inst:n2	nazwa geograficzna	
+Colorado	Colorado:s2	subst:sg:inst:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:sg:loc:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:sg:loc:n2	nazwa geograficzna	
+Colorado	Colorado:s2	subst:sg:loc:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:sg:nom:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:sg:nom:n2	nazwa geograficzna	
+Colorado	Colorado:s2	subst:sg:nom:n:ncol	nazwa geograficzna	
 Colorado	Colorado:s2	subst:sg:voc:f	nazwa geograficzna	
-Colorado	Colorado:s2	subst:sg:voc:n2	nazwa geograficzna	
-Colosseach	Colosseum	subst:pl:loc:n2	nazwa własna budowli	
-Colossea	Colosseum	subst:pl:acc:n2	nazwa własna budowli	
-Colossea	Colosseum	subst:pl:nom:n2	nazwa własna budowli	
-Colossea	Colosseum	subst:pl:voc:n2	nazwa własna budowli	
-Colosseami	Colosseum	subst:pl:inst:n2	nazwa własna budowli	
-Colosseom	Colosseum	subst:pl:dat:n2	nazwa własna budowli	
-Colosseów	Colosseum	subst:pl:gen:n2	nazwa własna budowli	
-Colosseum	Colosseum	subst:sg:acc:n2	nazwa własna budowli	
-Colosseum	Colosseum	subst:sg:dat:n2	nazwa własna budowli	
-Colosseum	Colosseum	subst:sg:gen:n2	nazwa własna budowli	
-Colosseum	Colosseum	subst:sg:inst:n2	nazwa własna budowli	
-Colosseum	Colosseum	subst:sg:loc:n2	nazwa własna budowli	
-Colosseum	Colosseum	subst:sg:nom:n2	nazwa własna budowli	
-Colosseum	Colosseum	subst:sg:voc:n2	nazwa własna budowli	
+Colorado	Colorado:s2	subst:sg:voc:n:ncol	nazwa geograficzna	
+Colosseach	Colosseum	subst:pl:loc:n:ncol	nazwa własna budowli	
+Colossea	Colosseum	subst:pl:acc:n:ncol	nazwa własna budowli	
+Colossea	Colosseum	subst:pl:nom:n:ncol	nazwa własna budowli	
+Colossea	Colosseum	subst:pl:voc:n:ncol	nazwa własna budowli	
+Colosseami	Colosseum	subst:pl:inst:n:ncol	nazwa własna budowli	
+Colosseom	Colosseum	subst:pl:dat:n:ncol	nazwa własna budowli	
+Colosseów	Colosseum	subst:pl:gen:n:ncol	nazwa własna budowli	
+Colosseum	Colosseum	subst:sg:acc:n:ncol	nazwa własna budowli	
+Colosseum	Colosseum	subst:sg:dat:n:ncol	nazwa własna budowli	
+Colosseum	Colosseum	subst:sg:gen:n:ncol	nazwa własna budowli	
+Colosseum	Colosseum	subst:sg:inst:n:ncol	nazwa własna budowli	
+Colosseum	Colosseum	subst:sg:loc:n:ncol	nazwa własna budowli	
+Colosseum	Colosseum	subst:sg:nom:n:ncol	nazwa własna budowli	
+Colosseum	Colosseum	subst:sg:voc:n:ncol	nazwa własna budowli	
 Columbiach	Columbia	subst:pl:loc:f	nazwa geograficzna	
 Columbia	Columbia	subst:sg:nom:f	nazwa geograficzna	
 Columbiami	Columbia	subst:pl:inst:f	nazwa geograficzna	
@@ -5543,20 +5543,20 @@ CPN-u	CPN	subst:sg:gen:m3	nazwa firmy
 CPN-y	CPN	subst:pl:acc:m3	nazwa firmy	
 CPN-y	CPN	subst:pl:nom:m3	nazwa firmy	
 CPN-y	CPN	subst:pl:voc:m3	nazwa firmy	
-CPU	CPU	subst:pl:acc:n2	nazwa pospolita	
-CPU	CPU	subst:pl:dat:n2	nazwa pospolita	
-CPU	CPU	subst:pl:gen:n2	nazwa pospolita	
-CPU	CPU	subst:pl:inst:n2	nazwa pospolita	
-CPU	CPU	subst:pl:loc:n2	nazwa pospolita	
-CPU	CPU	subst:pl:nom:n2	nazwa pospolita	
-CPU	CPU	subst:pl:voc:n2	nazwa pospolita	
-CPU	CPU	subst:sg:acc:n2	nazwa pospolita	
-CPU	CPU	subst:sg:dat:n2	nazwa pospolita	
-CPU	CPU	subst:sg:gen:n2	nazwa pospolita	
-CPU	CPU	subst:sg:inst:n2	nazwa pospolita	
-CPU	CPU	subst:sg:loc:n2	nazwa pospolita	
-CPU	CPU	subst:sg:nom:n2	nazwa pospolita	
-CPU	CPU	subst:sg:voc:n2	nazwa pospolita	
+CPU	CPU	subst:pl:acc:n:ncol	nazwa pospolita	
+CPU	CPU	subst:pl:dat:n:ncol	nazwa pospolita	
+CPU	CPU	subst:pl:gen:n:ncol	nazwa pospolita	
+CPU	CPU	subst:pl:inst:n:ncol	nazwa pospolita	
+CPU	CPU	subst:pl:loc:n:ncol	nazwa pospolita	
+CPU	CPU	subst:pl:nom:n:ncol	nazwa pospolita	
+CPU	CPU	subst:pl:voc:n:ncol	nazwa pospolita	
+CPU	CPU	subst:sg:acc:n:ncol	nazwa pospolita	
+CPU	CPU	subst:sg:dat:n:ncol	nazwa pospolita	
+CPU	CPU	subst:sg:gen:n:ncol	nazwa pospolita	
+CPU	CPU	subst:sg:inst:n:ncol	nazwa pospolita	
+CPU	CPU	subst:sg:loc:n:ncol	nazwa pospolita	
+CPU	CPU	subst:sg:nom:n:ncol	nazwa pospolita	
+CPU	CPU	subst:sg:voc:n:ncol	nazwa pospolita	
 Cracoviach	Cracovia	subst:pl:loc:f	nazwa organizacji	
 Cracovia	Cracovia	subst:sg:nom:f	nazwa organizacji	
 Cracoviami	Cracovia	subst:pl:inst:f	nazwa organizacji	
@@ -5710,33 +5710,33 @@ CRZZ-y	CRZZ	subst:pl:acc:m3	nazwa organizacji
 CRZZ-y	CRZZ	subst:pl:nom:m3	nazwa organizacji	
 CRZZ-y	CRZZ	subst:pl:voc:m3	nazwa organizacji	
 CSU	CSU	subst:pl:acc:f	nazwa organizacji	
-CSU	CSU	subst:pl:acc:n2	nazwa organizacji	
+CSU	CSU	subst:pl:acc:n:ncol	nazwa organizacji	
 CSU	CSU	subst:pl:dat:f	nazwa organizacji	
-CSU	CSU	subst:pl:dat:n2	nazwa organizacji	
+CSU	CSU	subst:pl:dat:n:ncol	nazwa organizacji	
 CSU	CSU	subst:pl:gen:f	nazwa organizacji	
-CSU	CSU	subst:pl:gen:n2	nazwa organizacji	
+CSU	CSU	subst:pl:gen:n:ncol	nazwa organizacji	
 CSU	CSU	subst:pl:inst:f	nazwa organizacji	
-CSU	CSU	subst:pl:inst:n2	nazwa organizacji	
+CSU	CSU	subst:pl:inst:n:ncol	nazwa organizacji	
 CSU	CSU	subst:pl:loc:f	nazwa organizacji	
-CSU	CSU	subst:pl:loc:n2	nazwa organizacji	
+CSU	CSU	subst:pl:loc:n:ncol	nazwa organizacji	
 CSU	CSU	subst:pl:nom:f	nazwa organizacji	
-CSU	CSU	subst:pl:nom:n2	nazwa organizacji	
+CSU	CSU	subst:pl:nom:n:ncol	nazwa organizacji	
 CSU	CSU	subst:pl:voc:f	nazwa organizacji	
-CSU	CSU	subst:pl:voc:n2	nazwa organizacji	
+CSU	CSU	subst:pl:voc:n:ncol	nazwa organizacji	
 CSU	CSU	subst:sg:acc:f	nazwa organizacji	
-CSU	CSU	subst:sg:acc:n2	nazwa organizacji	
+CSU	CSU	subst:sg:acc:n:ncol	nazwa organizacji	
 CSU	CSU	subst:sg:dat:f	nazwa organizacji	
-CSU	CSU	subst:sg:dat:n2	nazwa organizacji	
+CSU	CSU	subst:sg:dat:n:ncol	nazwa organizacji	
 CSU	CSU	subst:sg:gen:f	nazwa organizacji	
-CSU	CSU	subst:sg:gen:n2	nazwa organizacji	
+CSU	CSU	subst:sg:gen:n:ncol	nazwa organizacji	
 CSU	CSU	subst:sg:inst:f	nazwa organizacji	
-CSU	CSU	subst:sg:inst:n2	nazwa organizacji	
+CSU	CSU	subst:sg:inst:n:ncol	nazwa organizacji	
 CSU	CSU	subst:sg:loc:f	nazwa organizacji	
-CSU	CSU	subst:sg:loc:n2	nazwa organizacji	
+CSU	CSU	subst:sg:loc:n:ncol	nazwa organizacji	
 CSU	CSU	subst:sg:nom:f	nazwa organizacji	
-CSU	CSU	subst:sg:nom:n2	nazwa organizacji	
+CSU	CSU	subst:sg:nom:n:ncol	nazwa organizacji	
 CSU	CSU	subst:sg:voc:f	nazwa organizacji	
-CSU	CSU	subst:sg:voc:n2	nazwa organizacji	
+CSU	CSU	subst:sg:voc:n:ncol	nazwa organizacji	
 CTV	CTV	subst:pl:acc:f	nazwa pospolita|nazwa firmy	
 CTV	CTV	subst:pl:dat:f	nazwa pospolita|nazwa firmy	
 CTV	CTV	subst:pl:gen:f	nazwa pospolita|nazwa firmy	
@@ -5815,20 +5815,20 @@ Curzonów	Curzon	subst:pl:acc:m1	nazwisko
 Curzonów	Curzon	subst:pl:gen:m1	nazwisko	
 Curzony	Curzon	depr:pl:nom:m2	nazwisko	
 Curzony	Curzon	depr:pl:voc:m2	nazwisko	
-CV	CV	subst:pl:acc:n2	nazwa pospolita	
-CV	CV	subst:pl:dat:n2	nazwa pospolita	
-CV	CV	subst:pl:gen:n2	nazwa pospolita	
-CV	CV	subst:pl:inst:n2	nazwa pospolita	
-CV	CV	subst:pl:loc:n2	nazwa pospolita	
-CV	CV	subst:pl:nom:n2	nazwa pospolita	
-CV	CV	subst:pl:voc:n2	nazwa pospolita	
-CV	CV	subst:sg:acc:n2	nazwa pospolita	
-CV	CV	subst:sg:dat:n2	nazwa pospolita	
-CV	CV	subst:sg:gen:n2	nazwa pospolita	
-CV	CV	subst:sg:inst:n2	nazwa pospolita	
-CV	CV	subst:sg:loc:n2	nazwa pospolita	
-CV	CV	subst:sg:nom:n2	nazwa pospolita	
-CV	CV	subst:sg:voc:n2	nazwa pospolita	
+CV	CV	subst:pl:acc:n:ncol	nazwa pospolita	
+CV	CV	subst:pl:dat:n:ncol	nazwa pospolita	
+CV	CV	subst:pl:gen:n:ncol	nazwa pospolita	
+CV	CV	subst:pl:inst:n:ncol	nazwa pospolita	
+CV	CV	subst:pl:loc:n:ncol	nazwa pospolita	
+CV	CV	subst:pl:nom:n:ncol	nazwa pospolita	
+CV	CV	subst:pl:voc:n:ncol	nazwa pospolita	
+CV	CV	subst:sg:acc:n:ncol	nazwa pospolita	
+CV	CV	subst:sg:dat:n:ncol	nazwa pospolita	
+CV	CV	subst:sg:gen:n:ncol	nazwa pospolita	
+CV	CV	subst:sg:inst:n:ncol	nazwa pospolita	
+CV	CV	subst:sg:loc:n:ncol	nazwa pospolita	
+CV	CV	subst:sg:nom:n:ncol	nazwa pospolita	
+CV	CV	subst:sg:voc:n:ncol	nazwa pospolita	
 Cwecie	Cweta	subst:sg:dat:f	imię	
 Cwecie	Cweta	subst:sg:loc:f	imię	
 Cwetach	Cweta	subst:pl:loc:f	imię	
@@ -6039,20 +6039,20 @@ Cyganiaku	Cyganiak	subst:sg:loc:m1	nazwa pospolita	pot.
 Cyganiaku	Cyganiak	subst:sg:loc:m2	nazwa pospolita	pot.
 Cyganiaku	Cyganiak	subst:sg:voc:m1	nazwa pospolita	pot.
 Cyganiaku	Cyganiak	subst:sg:voc:m2	nazwa pospolita	pot.
-Cyganiątek	Cyganiątko	subst:pl:gen:n2	nazwa pospolita	
-Cyganiątkach	Cyganiątko	subst:pl:loc:n2	nazwa pospolita	
-Cyganiątka	Cyganiątko	subst:pl:acc:n2	nazwa pospolita	
-Cyganiątka	Cyganiątko	subst:pl:nom:n2	nazwa pospolita	
-Cyganiątka	Cyganiątko	subst:pl:voc:n2	nazwa pospolita	
-Cyganiątka	Cyganiątko	subst:sg:gen:n2	nazwa pospolita	
-Cyganiątkami	Cyganiątko	subst:pl:inst:n2	nazwa pospolita	
-Cyganiątkiem	Cyganiątko	subst:sg:inst:n2	nazwa pospolita	
-Cyganiątko	Cyganiątko	subst:sg:acc:n2	nazwa pospolita	
-Cyganiątko	Cyganiątko	subst:sg:nom:n2	nazwa pospolita	
-Cyganiątko	Cyganiątko	subst:sg:voc:n2	nazwa pospolita	
-Cyganiątkom	Cyganiątko	subst:pl:dat:n2	nazwa pospolita	
-Cyganiątku	Cyganiątko	subst:sg:dat:n2	nazwa pospolita	
-Cyganiątku	Cyganiątko	subst:sg:loc:n2	nazwa pospolita	
+Cyganiątek	Cyganiątko	subst:pl:gen:n:ncol	nazwa pospolita	
+Cyganiątkach	Cyganiątko	subst:pl:loc:n:ncol	nazwa pospolita	
+Cyganiątka	Cyganiątko	subst:pl:acc:n:ncol	nazwa pospolita	
+Cyganiątka	Cyganiątko	subst:pl:nom:n:ncol	nazwa pospolita	
+Cyganiątka	Cyganiątko	subst:pl:voc:n:ncol	nazwa pospolita	
+Cyganiątka	Cyganiątko	subst:sg:gen:n:ncol	nazwa pospolita	
+Cyganiątkami	Cyganiątko	subst:pl:inst:n:ncol	nazwa pospolita	
+Cyganiątkiem	Cyganiątko	subst:sg:inst:n:ncol	nazwa pospolita	
+Cyganiątko	Cyganiątko	subst:sg:acc:n:ncol	nazwa pospolita	
+Cyganiątko	Cyganiątko	subst:sg:nom:n:ncol	nazwa pospolita	
+Cyganiątko	Cyganiątko	subst:sg:voc:n:ncol	nazwa pospolita	
+Cyganiątkom	Cyganiątko	subst:pl:dat:n:ncol	nazwa pospolita	
+Cyganiątku	Cyganiątko	subst:sg:dat:n:ncol	nazwa pospolita	
+Cyganiątku	Cyganiątko	subst:sg:loc:n:ncol	nazwa pospolita	
 Cyganichach	Cyganicha	subst:pl:loc:f	nazwa pospolita	
 Cyganicha	Cyganicha	subst:sg:nom:f	nazwa pospolita	
 Cyganichami	Cyganicha	subst:pl:inst:f	nazwa pospolita	
@@ -6744,20 +6744,20 @@ Czarkowskim	Czarkowski	subst:pl:dat:m1	nazwisko
 Czarkowskim	Czarkowski	subst:sg:inst:m1	nazwisko	
 Czarkowskim	Czarkowski	subst:sg:loc:m1	nazwisko	
 Czarkowskimi	Czarkowski	subst:pl:inst:m1	nazwisko	
-Czarne	Czarne	subst:pl:acc:n2	nazwa geograficzna	
-Czarne	Czarne	subst:pl:nom:n2	nazwa geograficzna	
-Czarne	Czarne	subst:pl:voc:n2	nazwa geograficzna	
-Czarne	Czarne	subst:sg:acc:n2	nazwa geograficzna	
-Czarne	Czarne	subst:sg:nom:n2	nazwa geograficzna	
-Czarne	Czarne	subst:sg:voc:n2	nazwa geograficzna	
-Czarnego	Czarne	subst:sg:gen:n2	nazwa geograficzna	
-Czarnem	Czarne	subst:sg:inst:n2	nazwa geograficzna	
-Czarnem	Czarne	subst:sg:loc:n2	nazwa geograficzna	
-Czarnemu	Czarne	subst:sg:dat:n2	nazwa geograficzna	
-Czarnych	Czarne	subst:pl:gen:n2	nazwa geograficzna	
-Czarnych	Czarne	subst:pl:loc:n2	nazwa geograficzna	
-Czarnym	Czarne	subst:pl:dat:n2	nazwa geograficzna	
-Czarnymi	Czarne	subst:pl:inst:n2	nazwa geograficzna	
+Czarne	Czarne	subst:pl:acc:n:ncol	nazwa geograficzna	
+Czarne	Czarne	subst:pl:nom:n:ncol	nazwa geograficzna	
+Czarne	Czarne	subst:pl:voc:n:ncol	nazwa geograficzna	
+Czarne	Czarne	subst:sg:acc:n:ncol	nazwa geograficzna	
+Czarne	Czarne	subst:sg:nom:n:ncol	nazwa geograficzna	
+Czarne	Czarne	subst:sg:voc:n:ncol	nazwa geograficzna	
+Czarnego	Czarne	subst:sg:gen:n:ncol	nazwa geograficzna	
+Czarnem	Czarne	subst:sg:inst:n:ncol	nazwa geograficzna	
+Czarnem	Czarne	subst:sg:loc:n:ncol	nazwa geograficzna	
+Czarnemu	Czarne	subst:sg:dat:n:ncol	nazwa geograficzna	
+Czarnych	Czarne	subst:pl:gen:n:ncol	nazwa geograficzna	
+Czarnych	Czarne	subst:pl:loc:n:ncol	nazwa geograficzna	
+Czarnym	Czarne	subst:pl:dat:n:ncol	nazwa geograficzna	
+Czarnymi	Czarne	subst:pl:inst:n:ncol	nazwa geograficzna	
 Czarnecka	Czarnecka	subst:sg:nom:f	nazwisko	
 Czarnecka	Czarnecka	subst:sg:voc:f	nazwisko	
 Czarnecką	Czarnecka	subst:sg:acc:f	nazwisko	
@@ -6921,22 +6921,22 @@ Czarnolasy	Czarnolas	subst:pl:nom:m3	nazwa geograficzna
 Czarnolasy	Czarnolas	subst:pl:voc:m3	nazwa geograficzna	
 Czarnolesie	Czarnolas	subst:sg:loc:m3	nazwa geograficzna	
 Czarnolesie	Czarnolas	subst:sg:voc:m3	nazwa geograficzna	
-Czarnowach	Czarnowo	subst:pl:loc:n2	nazwa geograficzna	
-Czarnowa	Czarnowo	subst:pl:acc:n2	nazwa geograficzna	
-Czarnowa	Czarnowo	subst:pl:nom:n2	nazwa geograficzna	
-Czarnowa	Czarnowo	subst:pl:voc:n2	nazwa geograficzna	
-Czarnowa	Czarnowo	subst:sg:gen:n2	nazwa geograficzna	
-Czarnowami	Czarnowo	subst:pl:inst:n2	nazwa geograficzna	
-Czarnow	Czarnowo	subst:pl:gen:n2	nazwa geograficzna	
-Czarnowem	Czarnowo	subst:sg:inst:n2	nazwa geograficzna	
-Czarnowie	Czarnowo	subst:sg:loc:n2	nazwa geograficzna	
-Czarnowo	Czarnowo	subst:sg:acc:n2	nazwa geograficzna	
-Czarnowo	Czarnowo	subst:sg:nom:n2	nazwa geograficzna	
-Czarnowo	Czarnowo	subst:sg:voc:n2	nazwa geograficzna	
-Czarnowom	Czarnowo	subst:pl:dat:n2	nazwa geograficzna	
-Czarnowów	Czarnowo	subst:pl:gen:n2	nazwa geograficzna	
-Czarnowu	Czarnowo	subst:sg:dat:n2	nazwa geograficzna	
-Czarnów	Czarnowo	subst:pl:gen:n2	nazwa geograficzna	
+Czarnowach	Czarnowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Czarnowa	Czarnowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Czarnowa	Czarnowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Czarnowa	Czarnowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Czarnowa	Czarnowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Czarnowami	Czarnowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Czarnow	Czarnowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Czarnowem	Czarnowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Czarnowie	Czarnowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Czarnowo	Czarnowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Czarnowo	Czarnowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Czarnowo	Czarnowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Czarnowom	Czarnowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Czarnowów	Czarnowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Czarnowu	Czarnowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Czarnów	Czarnowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Czartoryska	Czartoryska	subst:sg:nom:f	nazwisko	
 Czartoryska	Czartoryska	subst:sg:voc:f	nazwisko	
 Czartoryską	Czartoryska	subst:sg:acc:f	nazwisko	
@@ -7080,20 +7080,20 @@ Czciradzi	Czcirad	subst:pl:nom:m1	imię
 Czciradzi	Czcirad	subst:pl:voc:m1	imię	
 Czciradzie	Czcirad	subst:sg:loc:m1	imię	
 Czciradzie	Czcirad	subst:sg:voc:m1	imię	
-CZD	CZD	subst:pl:acc:n2	nazwa instytucji	
-CZD	CZD	subst:pl:dat:n2	nazwa instytucji	
-CZD	CZD	subst:pl:gen:n2	nazwa instytucji	
-CZD	CZD	subst:pl:inst:n2	nazwa instytucji	
-CZD	CZD	subst:pl:loc:n2	nazwa instytucji	
-CZD	CZD	subst:pl:nom:n2	nazwa instytucji	
-CZD	CZD	subst:pl:voc:n2	nazwa instytucji	
-CZD	CZD	subst:sg:acc:n2	nazwa instytucji	
-CZD	CZD	subst:sg:dat:n2	nazwa instytucji	
-CZD	CZD	subst:sg:gen:n2	nazwa instytucji	
-CZD	CZD	subst:sg:inst:n2	nazwa instytucji	
-CZD	CZD	subst:sg:loc:n2	nazwa instytucji	
-CZD	CZD	subst:sg:nom:n2	nazwa instytucji	
-CZD	CZD	subst:sg:voc:n2	nazwa instytucji	
+CZD	CZD	subst:pl:acc:n:ncol	nazwa instytucji	
+CZD	CZD	subst:pl:dat:n:ncol	nazwa instytucji	
+CZD	CZD	subst:pl:gen:n:ncol	nazwa instytucji	
+CZD	CZD	subst:pl:inst:n:ncol	nazwa instytucji	
+CZD	CZD	subst:pl:loc:n:ncol	nazwa instytucji	
+CZD	CZD	subst:pl:nom:n:ncol	nazwa instytucji	
+CZD	CZD	subst:pl:voc:n:ncol	nazwa instytucji	
+CZD	CZD	subst:sg:acc:n:ncol	nazwa instytucji	
+CZD	CZD	subst:sg:dat:n:ncol	nazwa instytucji	
+CZD	CZD	subst:sg:gen:n:ncol	nazwa instytucji	
+CZD	CZD	subst:sg:inst:n:ncol	nazwa instytucji	
+CZD	CZD	subst:sg:loc:n:ncol	nazwa instytucji	
+CZD	CZD	subst:sg:nom:n:ncol	nazwa instytucji	
+CZD	CZD	subst:sg:voc:n:ncol	nazwa instytucji	
 Czechaszach	Czechasz	subst:pl:loc:m1	imię	
 Czechasza	Czechasz	subst:sg:acc:m1	imię	
 Czechasza	Czechasz	subst:sg:gen:m1	imię	
@@ -7193,20 +7193,20 @@ Czechowów	Czechow	subst:pl:acc:m1	nazwisko
 Czechowów	Czechow	subst:pl:gen:m1	nazwisko	
 Czechowy	Czechow	depr:pl:nom:m2	nazwisko	
 Czechowy	Czechow	depr:pl:voc:m2	nazwisko	
-Czechowicach	Czechowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Czechowicach	Czechowice	subst:pl:loc:p3	nazwa geograficzna	
-Czechowicami	Czechowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Czechowicami	Czechowice	subst:pl:inst:p3	nazwa geograficzna	
-Czechowic	Czechowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Czechowic	Czechowice	subst:pl:gen:p3	nazwa geograficzna	
-Czechowice	Czechowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Czechowice	Czechowice	subst:pl:acc:p3	nazwa geograficzna	
-Czechowice	Czechowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Czechowice	Czechowice	subst:pl:nom:p3	nazwa geograficzna	
-Czechowice	Czechowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Czechowice	Czechowice	subst:pl:voc:p3	nazwa geograficzna	
-Czechowicom	Czechowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Czechowicom	Czechowice	subst:pl:dat:p3	nazwa geograficzna	
+Czechowicach	Czechowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Czechowicach	Czechowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Czechowicami	Czechowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Czechowicami	Czechowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Czechowic	Czechowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Czechowic	Czechowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Czechowice	Czechowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Czechowice	Czechowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Czechowice	Czechowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Czechowice	Czechowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Czechowice	Czechowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Czechowice	Czechowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Czechowicom	Czechowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Czechowicom	Czechowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Czechowiczach	Czechowicz	subst:pl:loc:m1	nazwisko	
 Czechowicza	Czechowicz	subst:sg:acc:m1	nazwisko	
 Czechowicza	Czechowicz	subst:sg:gen:m1	nazwisko	
@@ -7287,20 +7287,20 @@ Czechu	Czech:s2	subst:sg:loc:m1	nazwisko
 Czechu	Czech:s2	subst:sg:voc:m1	nazwisko	
 Czechy	Czech:s2	depr:pl:nom:m2	nazwisko	
 Czechy	Czech:s2	depr:pl:voc:m2	nazwisko	
-Czechach	Czechy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Czechach	Czechy	subst:pl:loc:p3	nazwa geograficzna	
-Czechami	Czechy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Czechami	Czechy	subst:pl:inst:p3	nazwa geograficzna	
-Czech	Czechy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Czech	Czechy	subst:pl:gen:p3	nazwa geograficzna	
-Czechom	Czechy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Czechom	Czechy	subst:pl:dat:p3	nazwa geograficzna	
-Czechy	Czechy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Czechy	Czechy	subst:pl:acc:p3	nazwa geograficzna	
-Czechy	Czechy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Czechy	Czechy	subst:pl:nom:p3	nazwa geograficzna	
-Czechy	Czechy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Czechy	Czechy	subst:pl:voc:p3	nazwa geograficzna	
+Czechach	Czechy	subst:pl:loc:n:pt	nazwa geograficzna	
+Czechach	Czechy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Czechami	Czechy	subst:pl:inst:n:pt	nazwa geograficzna	
+Czechami	Czechy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Czech	Czechy	subst:pl:gen:n:pt	nazwa geograficzna	
+Czech	Czechy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Czechom	Czechy	subst:pl:dat:n:pt	nazwa geograficzna	
+Czechom	Czechy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Czechy	Czechy	subst:pl:acc:n:pt	nazwa geograficzna	
+Czechy	Czechy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Czechy	Czechy	subst:pl:nom:n:pt	nazwa geograficzna	
+Czechy	Czechy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Czechy	Czechy	subst:pl:voc:n:pt	nazwa geograficzna	
+Czechy	Czechy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Czeczenach	Czeczen	subst:pl:loc:m1	nazwa pospolita	
 Czeczena	Czeczen	subst:sg:acc:m1	nazwa pospolita	
 Czeczena	Czeczen	subst:sg:gen:m1	nazwa pospolita	
@@ -7394,20 +7394,20 @@ Czeczottów	Czeczott	subst:pl:acc:m1	nazwisko
 Czeczottów	Czeczott	subst:pl:gen:m1	nazwisko	
 Czeczotty	Czeczott	depr:pl:nom:m2	nazwisko	
 Czeczotty	Czeczott	depr:pl:voc:m2	nazwisko	
-Czemiernikach	Czemierniki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Czemiernikach	Czemierniki	subst:pl:loc:p3	nazwa geograficzna	
-Czemiernikami	Czemierniki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Czemiernikami	Czemierniki	subst:pl:inst:p3	nazwa geograficzna	
-Czemiernik	Czemierniki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Czemiernik	Czemierniki	subst:pl:gen:p3	nazwa geograficzna	
-Czemierniki	Czemierniki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Czemierniki	Czemierniki	subst:pl:acc:p3	nazwa geograficzna	
-Czemierniki	Czemierniki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Czemierniki	Czemierniki	subst:pl:nom:p3	nazwa geograficzna	
-Czemierniki	Czemierniki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Czemierniki	Czemierniki	subst:pl:voc:p3	nazwa geograficzna	
-Czemiernikom	Czemierniki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Czemiernikom	Czemierniki	subst:pl:dat:p3	nazwa geograficzna	
+Czemiernikach	Czemierniki	subst:pl:loc:n:pt	nazwa geograficzna	
+Czemiernikach	Czemierniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Czemiernikami	Czemierniki	subst:pl:inst:n:pt	nazwa geograficzna	
+Czemiernikami	Czemierniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Czemiernik	Czemierniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Czemiernik	Czemierniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Czemierniki	Czemierniki	subst:pl:acc:n:pt	nazwa geograficzna	
+Czemierniki	Czemierniki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Czemierniki	Czemierniki	subst:pl:nom:n:pt	nazwa geograficzna	
+Czemierniki	Czemierniki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Czemierniki	Czemierniki	subst:pl:voc:n:pt	nazwa geograficzna	
+Czemierniki	Czemierniki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Czemiernikom	Czemierniki	subst:pl:dat:n:pt	nazwa geograficzna	
+Czemiernikom	Czemierniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Czempiniach	Czempiń	subst:pl:loc:m3	nazwa geograficzna	
 Czempinia	Czempiń	subst:sg:gen:m3	nazwa geograficzna	
 Czempiniami	Czempiń	subst:pl:inst:m3	nazwa geograficzna	
@@ -7572,20 +7572,20 @@ Czernicom	Czernica	subst:pl:dat:f	nazwa geograficzna
 Czernicy	Czernica	subst:sg:dat:f	nazwa geograficzna	
 Czernicy	Czernica	subst:sg:gen:f	nazwa geograficzna	
 Czernicy	Czernica	subst:sg:loc:f	nazwa geograficzna	
-Czernicach	Czernice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Czernicach	Czernice	subst:pl:loc:p3	nazwa geograficzna	
-Czernicami	Czernice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Czernicami	Czernice	subst:pl:inst:p3	nazwa geograficzna	
-Czernic	Czernice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Czernic	Czernice	subst:pl:gen:p3	nazwa geograficzna	
-Czernice	Czernice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Czernice	Czernice	subst:pl:acc:p3	nazwa geograficzna	
-Czernice	Czernice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Czernice	Czernice	subst:pl:nom:p3	nazwa geograficzna	
-Czernice	Czernice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Czernice	Czernice	subst:pl:voc:p3	nazwa geograficzna	
-Czernicom	Czernice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Czernicom	Czernice	subst:pl:dat:p3	nazwa geograficzna	
+Czernicach	Czernice	subst:pl:loc:n:pt	nazwa geograficzna	
+Czernicach	Czernice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Czernicami	Czernice	subst:pl:inst:n:pt	nazwa geograficzna	
+Czernicami	Czernice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Czernic	Czernice	subst:pl:gen:n:pt	nazwa geograficzna	
+Czernic	Czernice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Czernice	Czernice	subst:pl:acc:n:pt	nazwa geograficzna	
+Czernice	Czernice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Czernice	Czernice	subst:pl:nom:n:pt	nazwa geograficzna	
+Czernice	Czernice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Czernice	Czernice	subst:pl:voc:n:pt	nazwa geograficzna	
+Czernice	Czernice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Czernicom	Czernice	subst:pl:dat:n:pt	nazwa geograficzna	
+Czernicom	Czernice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Czernichowach	Czernichów	subst:pl:loc:m3	nazwa geograficzna	
 Czernichowa	Czernichów	subst:sg:gen:m3	nazwa geograficzna	
 Czernichowami	Czernichów	subst:pl:inst:m3	nazwa geograficzna	
@@ -7601,34 +7601,34 @@ Czernichowy	Czernichów	subst:pl:nom:m3	nazwa geograficzna
 Czernichowy	Czernichów	subst:pl:voc:m3	nazwa geograficzna	
 Czernichów	Czernichów	subst:sg:acc:m3	nazwa geograficzna	
 Czernichów	Czernichów	subst:sg:nom:m3	nazwa geograficzna	
-Czerniejewach	Czerniejewo	subst:pl:loc:n2	nazwa geograficzna	
-Czerniejewa	Czerniejewo	subst:pl:acc:n2	nazwa geograficzna	
-Czerniejewa	Czerniejewo	subst:pl:nom:n2	nazwa geograficzna	
-Czerniejewa	Czerniejewo	subst:pl:voc:n2	nazwa geograficzna	
-Czerniejewa	Czerniejewo	subst:sg:gen:n2	nazwa geograficzna	
-Czerniejewami	Czerniejewo	subst:pl:inst:n2	nazwa geograficzna	
-Czerniejew	Czerniejewo	subst:pl:gen:n2	nazwa geograficzna	
-Czerniejewem	Czerniejewo	subst:sg:inst:n2	nazwa geograficzna	
-Czerniejewie	Czerniejewo	subst:sg:loc:n2	nazwa geograficzna	
-Czerniejewo	Czerniejewo	subst:sg:acc:n2	nazwa geograficzna	
-Czerniejewo	Czerniejewo	subst:sg:nom:n2	nazwa geograficzna	
-Czerniejewo	Czerniejewo	subst:sg:voc:n2	nazwa geograficzna	
-Czerniejewom	Czerniejewo	subst:pl:dat:n2	nazwa geograficzna	
-Czerniejewu	Czerniejewo	subst:sg:dat:n2	nazwa geograficzna	
-Czerniewicach	Czerniewice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Czerniewicach	Czerniewice	subst:pl:loc:p3	nazwa geograficzna	
-Czerniewicami	Czerniewice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Czerniewicami	Czerniewice	subst:pl:inst:p3	nazwa geograficzna	
-Czerniewic	Czerniewice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Czerniewic	Czerniewice	subst:pl:gen:p3	nazwa geograficzna	
-Czerniewice	Czerniewice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Czerniewice	Czerniewice	subst:pl:acc:p3	nazwa geograficzna	
-Czerniewice	Czerniewice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Czerniewice	Czerniewice	subst:pl:nom:p3	nazwa geograficzna	
-Czerniewice	Czerniewice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Czerniewice	Czerniewice	subst:pl:voc:p3	nazwa geograficzna	
-Czerniewicom	Czerniewice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Czerniewicom	Czerniewice	subst:pl:dat:p3	nazwa geograficzna	
+Czerniejewach	Czerniejewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Czerniejewa	Czerniejewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Czerniejewa	Czerniejewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Czerniejewa	Czerniejewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Czerniejewa	Czerniejewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Czerniejewami	Czerniejewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Czerniejew	Czerniejewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Czerniejewem	Czerniejewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Czerniejewie	Czerniejewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Czerniejewo	Czerniejewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Czerniejewo	Czerniejewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Czerniejewo	Czerniejewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Czerniejewom	Czerniejewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Czerniejewu	Czerniejewo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Czerniewicach	Czerniewice	subst:pl:loc:n:pt	nazwa geograficzna	
+Czerniewicach	Czerniewice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Czerniewicami	Czerniewice	subst:pl:inst:n:pt	nazwa geograficzna	
+Czerniewicami	Czerniewice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Czerniewic	Czerniewice	subst:pl:gen:n:pt	nazwa geograficzna	
+Czerniewic	Czerniewice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Czerniewice	Czerniewice	subst:pl:acc:n:pt	nazwa geograficzna	
+Czerniewice	Czerniewice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Czerniewice	Czerniewice	subst:pl:nom:n:pt	nazwa geograficzna	
+Czerniewice	Czerniewice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Czerniewice	Czerniewice	subst:pl:voc:n:pt	nazwa geograficzna	
+Czerniewice	Czerniewice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Czerniewicom	Czerniewice	subst:pl:dat:n:pt	nazwa geograficzna	
+Czerniewicom	Czerniewice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Czernihowach	Czernihów	subst:pl:loc:m3	nazwa geograficzna	
 Czernihowa	Czernihów	subst:sg:gen:m3	nazwa geograficzna	
 Czernihowami	Czernihów	subst:pl:inst:m3	nazwa geograficzna	
@@ -7892,20 +7892,20 @@ Częstochowy	Częstochowa	subst:pl:nom:f	nazwa geograficzna
 Częstochowy	Częstochowa	subst:pl:voc:f	nazwa geograficzna	
 Częstochowy	Częstochowa	subst:sg:gen:f	nazwa geograficzna	
 Częstochów	Częstochowa	subst:pl:gen:f	nazwa geograficzna	
-Częstochowskich	Częstochowskie	subst:pl:gen:n2	nazwa geograficzna	
-Częstochowskich	Częstochowskie	subst:pl:loc:n2	nazwa geograficzna	
-Częstochowskie	Częstochowskie	subst:pl:acc:n2	nazwa geograficzna	
-Częstochowskie	Częstochowskie	subst:pl:nom:n2	nazwa geograficzna	
-Częstochowskie	Częstochowskie	subst:pl:voc:n2	nazwa geograficzna	
-Częstochowskie	Częstochowskie	subst:sg:acc:n2	nazwa geograficzna	
-Częstochowskie	Częstochowskie	subst:sg:nom:n2	nazwa geograficzna	
-Częstochowskie	Częstochowskie	subst:sg:voc:n2	nazwa geograficzna	
-Częstochowskiego	Częstochowskie	subst:sg:gen:n2	nazwa geograficzna	
-Częstochowskiem	Częstochowskie	subst:sg:inst:n2	nazwa geograficzna	
-Częstochowskiem	Częstochowskie	subst:sg:loc:n2	nazwa geograficzna	
-Częstochowskiemu	Częstochowskie	subst:sg:dat:n2	nazwa geograficzna	
-Częstochowskim	Częstochowskie	subst:pl:dat:n2	nazwa geograficzna	
-Częstochowskimi	Częstochowskie	subst:pl:inst:n2	nazwa geograficzna	
+Częstochowskich	Częstochowskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Częstochowskich	Częstochowskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Częstochowskie	Częstochowskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Częstochowskie	Częstochowskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Częstochowskie	Częstochowskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Częstochowskie	Częstochowskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Częstochowskie	Częstochowskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Częstochowskie	Częstochowskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Częstochowskiego	Częstochowskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Częstochowskiem	Częstochowskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Częstochowskiem	Częstochowskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Częstochowskiemu	Częstochowskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Częstochowskim	Częstochowskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Częstochowskimi	Częstochowskie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Częstogniewach	Częstogniew	subst:pl:loc:m1	imię	
 Częstogniewa	Częstogniew	subst:sg:acc:m1	imię	
 Częstogniewa	Częstogniew	subst:sg:gen:m1	imię	
@@ -7987,20 +7987,20 @@ Człuchowy	Człuchów	subst:pl:nom:m3	nazwa geograficzna
 Człuchowy	Człuchów	subst:pl:voc:m3	nazwa geograficzna	
 Człuchów	Człuchów	subst:sg:acc:m3	nazwa geograficzna	
 Człuchów	Człuchów	subst:sg:nom:m3	nazwa geograficzna	
-CZMP	CZMP	subst:pl:acc:n2	nazwa instytucji	
-CZMP	CZMP	subst:pl:dat:n2	nazwa instytucji	
-CZMP	CZMP	subst:pl:gen:n2	nazwa instytucji	
-CZMP	CZMP	subst:pl:inst:n2	nazwa instytucji	
-CZMP	CZMP	subst:pl:loc:n2	nazwa instytucji	
-CZMP	CZMP	subst:pl:nom:n2	nazwa instytucji	
-CZMP	CZMP	subst:pl:voc:n2	nazwa instytucji	
-CZMP	CZMP	subst:sg:acc:n2	nazwa instytucji	
-CZMP	CZMP	subst:sg:dat:n2	nazwa instytucji	
-CZMP	CZMP	subst:sg:gen:n2	nazwa instytucji	
-CZMP	CZMP	subst:sg:inst:n2	nazwa instytucji	
-CZMP	CZMP	subst:sg:loc:n2	nazwa instytucji	
-CZMP	CZMP	subst:sg:nom:n2	nazwa instytucji	
-CZMP	CZMP	subst:sg:voc:n2	nazwa instytucji	
+CZMP	CZMP	subst:pl:acc:n:ncol	nazwa instytucji	
+CZMP	CZMP	subst:pl:dat:n:ncol	nazwa instytucji	
+CZMP	CZMP	subst:pl:gen:n:ncol	nazwa instytucji	
+CZMP	CZMP	subst:pl:inst:n:ncol	nazwa instytucji	
+CZMP	CZMP	subst:pl:loc:n:ncol	nazwa instytucji	
+CZMP	CZMP	subst:pl:nom:n:ncol	nazwa instytucji	
+CZMP	CZMP	subst:pl:voc:n:ncol	nazwa instytucji	
+CZMP	CZMP	subst:sg:acc:n:ncol	nazwa instytucji	
+CZMP	CZMP	subst:sg:dat:n:ncol	nazwa instytucji	
+CZMP	CZMP	subst:sg:gen:n:ncol	nazwa instytucji	
+CZMP	CZMP	subst:sg:inst:n:ncol	nazwa instytucji	
+CZMP	CZMP	subst:sg:loc:n:ncol	nazwa instytucji	
+CZMP	CZMP	subst:sg:nom:n:ncol	nazwa instytucji	
+CZMP	CZMP	subst:sg:voc:n:ncol	nazwa instytucji	
 Czorsztynach	Czorsztyn	subst:pl:loc:m3	nazwa geograficzna	
 Czorsztyna	Czorsztyn	subst:sg:gen:m3	nazwa geograficzna	
 Czorsztynami	Czorsztyn	subst:pl:inst:m3	nazwa geograficzna	

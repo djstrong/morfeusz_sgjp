@@ -473,20 +473,20 @@ Galbraithów	Galbraith	subst:pl:acc:m1	nazwisko
 Galbraithów	Galbraith	subst:pl:gen:m1	nazwisko	
 Galbraithy	Galbraith	depr:pl:nom:m2	nazwisko	
 Galbraithy	Galbraith	depr:pl:voc:m2	nazwisko	
-Galewicach	Galewice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Galewicach	Galewice	subst:pl:loc:p3	nazwa geograficzna	
-Galewicami	Galewice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Galewicami	Galewice	subst:pl:inst:p3	nazwa geograficzna	
-Galewice	Galewice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Galewice	Galewice	subst:pl:acc:p3	nazwa geograficzna	
-Galewice	Galewice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Galewice	Galewice	subst:pl:nom:p3	nazwa geograficzna	
-Galewice	Galewice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Galewice	Galewice	subst:pl:voc:p3	nazwa geograficzna	
-Galewic	Galewice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Galewic	Galewice	subst:pl:gen:p3	nazwa geograficzna	
-Galewicom	Galewice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Galewicom	Galewice	subst:pl:dat:p3	nazwa geograficzna	
+Galewicach	Galewice	subst:pl:loc:n:pt	nazwa geograficzna	
+Galewicach	Galewice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Galewicami	Galewice	subst:pl:inst:n:pt	nazwa geograficzna	
+Galewicami	Galewice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Galewice	Galewice	subst:pl:acc:n:pt	nazwa geograficzna	
+Galewice	Galewice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Galewice	Galewice	subst:pl:nom:n:pt	nazwa geograficzna	
+Galewice	Galewice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Galewice	Galewice	subst:pl:voc:n:pt	nazwa geograficzna	
+Galewice	Galewice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Galewic	Galewice	subst:pl:gen:n:pt	nazwa geograficzna	
+Galewic	Galewice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Galewicom	Galewice	subst:pl:dat:n:pt	nazwa geograficzna	
+Galewicom	Galewice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Galeze	Galezy	depr:pl:nom:m2	imię	
 Galeze	Galezy	depr:pl:voc:m2	imię	
 Galezego	Galezy	subst:sg:acc:m1	imię	
@@ -1106,20 +1106,20 @@ Gardy	Gard	depr:pl:nom:m2	nazwisko
 Gardy	Gard	depr:pl:voc:m2	nazwisko	
 Gardzie	Gard	subst:sg:loc:m1	nazwisko	
 Gardzie	Gard	subst:sg:voc:m1	nazwisko	
-Gardzienicach	Gardzienice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gardzienicach	Gardzienice	subst:pl:loc:p3	nazwa geograficzna	
-Gardzienicami	Gardzienice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gardzienicami	Gardzienice	subst:pl:inst:p3	nazwa geograficzna	
-Gardzienice	Gardzienice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Gardzienice	Gardzienice	subst:pl:acc:p3	nazwa geograficzna	
-Gardzienice	Gardzienice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Gardzienice	Gardzienice	subst:pl:nom:p3	nazwa geograficzna	
-Gardzienice	Gardzienice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Gardzienice	Gardzienice	subst:pl:voc:p3	nazwa geograficzna	
-Gardzienic	Gardzienice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gardzienic	Gardzienice	subst:pl:gen:p3	nazwa geograficzna	
-Gardzienicom	Gardzienice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gardzienicom	Gardzienice	subst:pl:dat:p3	nazwa geograficzna	
+Gardzienicach	Gardzienice	subst:pl:loc:n:pt	nazwa geograficzna	
+Gardzienicach	Gardzienice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gardzienicami	Gardzienice	subst:pl:inst:n:pt	nazwa geograficzna	
+Gardzienicami	Gardzienice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gardzienice	Gardzienice	subst:pl:acc:n:pt	nazwa geograficzna	
+Gardzienice	Gardzienice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Gardzienice	Gardzienice	subst:pl:nom:n:pt	nazwa geograficzna	
+Gardzienice	Gardzienice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Gardzienice	Gardzienice	subst:pl:voc:n:pt	nazwa geograficzna	
+Gardzienice	Gardzienice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Gardzienic	Gardzienice	subst:pl:gen:n:pt	nazwa geograficzna	
+Gardzienic	Gardzienice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Gardzienicom	Gardzienice	subst:pl:dat:n:pt	nazwa geograficzna	
+Gardzienicom	Gardzienice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Gargantuach	Gargantua	subst:pl:loc:m1	imię	lit.
 Gargantua	Gargantua	subst:sg:nom:m1	imię	lit.
 Gargantuami	Gargantua	subst:pl:inst:m1	imię	lit.
@@ -1247,20 +1247,20 @@ Gasparze	Gaspar	subst:sg:loc:m1	imię
 Gasparze	Gaspar	subst:sg:voc:m1	imię	
 Gasparzy	Gaspar	subst:pl:nom:m1	imię	
 Gasparzy	Gaspar	subst:pl:voc:m1	imię	
-Gaszowicach	Gaszowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gaszowicach	Gaszowice	subst:pl:loc:p3	nazwa geograficzna	
-Gaszowicami	Gaszowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gaszowicami	Gaszowice	subst:pl:inst:p3	nazwa geograficzna	
-Gaszowice	Gaszowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Gaszowice	Gaszowice	subst:pl:acc:p3	nazwa geograficzna	
-Gaszowice	Gaszowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Gaszowice	Gaszowice	subst:pl:nom:p3	nazwa geograficzna	
-Gaszowice	Gaszowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Gaszowice	Gaszowice	subst:pl:voc:p3	nazwa geograficzna	
-Gaszowic	Gaszowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gaszowic	Gaszowice	subst:pl:gen:p3	nazwa geograficzna	
-Gaszowicom	Gaszowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gaszowicom	Gaszowice	subst:pl:dat:p3	nazwa geograficzna	
+Gaszowicach	Gaszowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Gaszowicach	Gaszowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gaszowicami	Gaszowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Gaszowicami	Gaszowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gaszowice	Gaszowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Gaszowice	Gaszowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Gaszowice	Gaszowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Gaszowice	Gaszowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Gaszowice	Gaszowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Gaszowice	Gaszowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Gaszowic	Gaszowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Gaszowic	Gaszowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Gaszowicom	Gaszowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Gaszowicom	Gaszowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Gatesach	Gates	subst:pl:loc:m1	nazwisko	
 Gatesa	Gates	subst:sg:acc:m1	nazwisko	
 Gatesa	Gates	subst:sg:gen:m1	nazwisko	
@@ -1282,22 +1282,22 @@ GAT-cie	GATT	subst:sg:voc:m3	nazwa pospolita
 GATT-ach	GATT	subst:pl:loc:m3	nazwa pospolita	
 GATT-ami	GATT	subst:pl:inst:m3	nazwa pospolita	
 GATT-em	GATT	subst:sg:inst:m3	nazwa pospolita	
-GATT	GATT	subst:pl:acc:n2	nazwa pospolita	
-GATT	GATT	subst:pl:dat:n2	nazwa pospolita	
-GATT	GATT	subst:pl:gen:n2	nazwa pospolita	
-GATT	GATT	subst:pl:inst:n2	nazwa pospolita	
-GATT	GATT	subst:pl:loc:n2	nazwa pospolita	
-GATT	GATT	subst:pl:nom:n2	nazwa pospolita	
-GATT	GATT	subst:pl:voc:n2	nazwa pospolita	
+GATT	GATT	subst:pl:acc:n:ncol	nazwa pospolita	
+GATT	GATT	subst:pl:dat:n:ncol	nazwa pospolita	
+GATT	GATT	subst:pl:gen:n:ncol	nazwa pospolita	
+GATT	GATT	subst:pl:inst:n:ncol	nazwa pospolita	
+GATT	GATT	subst:pl:loc:n:ncol	nazwa pospolita	
+GATT	GATT	subst:pl:nom:n:ncol	nazwa pospolita	
+GATT	GATT	subst:pl:voc:n:ncol	nazwa pospolita	
 GATT	GATT	subst:sg:acc:m3	nazwa pospolita	
-GATT	GATT	subst:sg:acc:n2	nazwa pospolita	
-GATT	GATT	subst:sg:dat:n2	nazwa pospolita	
-GATT	GATT	subst:sg:gen:n2	nazwa pospolita	
-GATT	GATT	subst:sg:inst:n2	nazwa pospolita	
-GATT	GATT	subst:sg:loc:n2	nazwa pospolita	
+GATT	GATT	subst:sg:acc:n:ncol	nazwa pospolita	
+GATT	GATT	subst:sg:dat:n:ncol	nazwa pospolita	
+GATT	GATT	subst:sg:gen:n:ncol	nazwa pospolita	
+GATT	GATT	subst:sg:inst:n:ncol	nazwa pospolita	
+GATT	GATT	subst:sg:loc:n:ncol	nazwa pospolita	
 GATT	GATT	subst:sg:nom:m3	nazwa pospolita	
-GATT	GATT	subst:sg:nom:n2	nazwa pospolita	
-GATT	GATT	subst:sg:voc:n2	nazwa pospolita	
+GATT	GATT	subst:sg:nom:n:ncol	nazwa pospolita	
+GATT	GATT	subst:sg:voc:n:ncol	nazwa pospolita	
 GATT-om	GATT	subst:pl:dat:m3	nazwa pospolita	
 GATT-owi	GATT	subst:sg:dat:m3	nazwa pospolita	
 GATT-ów	GATT	subst:pl:gen:m3	nazwa pospolita	
@@ -1528,20 +1528,20 @@ Gawłowskim	Gawłowski	subst:pl:dat:m1	nazwisko
 Gawłowskim	Gawłowski	subst:sg:inst:m1	nazwisko	
 Gawłowskim	Gawłowski	subst:sg:loc:m1	nazwisko	
 Gawłowskimi	Gawłowski	subst:pl:inst:m1	nazwisko	
-Gaworzycach	Gaworzyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gaworzycach	Gaworzyce	subst:pl:loc:p3	nazwa geograficzna	
-Gaworzycami	Gaworzyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gaworzycami	Gaworzyce	subst:pl:inst:p3	nazwa geograficzna	
-Gaworzyce	Gaworzyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Gaworzyce	Gaworzyce	subst:pl:acc:p3	nazwa geograficzna	
-Gaworzyce	Gaworzyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Gaworzyce	Gaworzyce	subst:pl:nom:p3	nazwa geograficzna	
-Gaworzyce	Gaworzyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Gaworzyce	Gaworzyce	subst:pl:voc:p3	nazwa geograficzna	
-Gaworzyc	Gaworzyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gaworzyc	Gaworzyce	subst:pl:gen:p3	nazwa geograficzna	
-Gaworzycom	Gaworzyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gaworzycom	Gaworzyce	subst:pl:dat:p3	nazwa geograficzna	
+Gaworzycach	Gaworzyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Gaworzycach	Gaworzyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gaworzycami	Gaworzyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Gaworzycami	Gaworzyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gaworzyce	Gaworzyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Gaworzyce	Gaworzyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Gaworzyce	Gaworzyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Gaworzyce	Gaworzyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Gaworzyce	Gaworzyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Gaworzyce	Gaworzyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Gaworzyc	Gaworzyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Gaworzyc	Gaworzyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Gaworzycom	Gaworzyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Gaworzycom	Gaworzyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Gawronach	Gawron	subst:pl:loc:m1	nazwisko	
 Gawrona	Gawron	subst:sg:acc:m1	nazwisko	
 Gawrona	Gawron	subst:sg:gen:m1	nazwisko	
@@ -1724,33 +1724,33 @@ GBH	GBH	subst:sg:loc:m3	nazwa firmy
 GBH	GBH	subst:sg:nom:m3	nazwa firmy	
 GBH	GBH	subst:sg:voc:m3	nazwa firmy	
 GBW	GBW	subst:pl:acc:m3	nazwa firmy	
-GBW	GBW	subst:pl:acc:n2	nazwa firmy	
+GBW	GBW	subst:pl:acc:n:ncol	nazwa firmy	
 GBW	GBW	subst:pl:dat:m3	nazwa firmy	
-GBW	GBW	subst:pl:dat:n2	nazwa firmy	
+GBW	GBW	subst:pl:dat:n:ncol	nazwa firmy	
 GBW	GBW	subst:pl:gen:m3	nazwa firmy	
-GBW	GBW	subst:pl:gen:n2	nazwa firmy	
+GBW	GBW	subst:pl:gen:n:ncol	nazwa firmy	
 GBW	GBW	subst:pl:inst:m3	nazwa firmy	
-GBW	GBW	subst:pl:inst:n2	nazwa firmy	
+GBW	GBW	subst:pl:inst:n:ncol	nazwa firmy	
 GBW	GBW	subst:pl:loc:m3	nazwa firmy	
-GBW	GBW	subst:pl:loc:n2	nazwa firmy	
+GBW	GBW	subst:pl:loc:n:ncol	nazwa firmy	
 GBW	GBW	subst:pl:nom:m3	nazwa firmy	
-GBW	GBW	subst:pl:nom:n2	nazwa firmy	
+GBW	GBW	subst:pl:nom:n:ncol	nazwa firmy	
 GBW	GBW	subst:pl:voc:m3	nazwa firmy	
-GBW	GBW	subst:pl:voc:n2	nazwa firmy	
+GBW	GBW	subst:pl:voc:n:ncol	nazwa firmy	
 GBW	GBW	subst:sg:acc:m3	nazwa firmy	
-GBW	GBW	subst:sg:acc:n2	nazwa firmy	
+GBW	GBW	subst:sg:acc:n:ncol	nazwa firmy	
 GBW	GBW	subst:sg:dat:m3	nazwa firmy	
-GBW	GBW	subst:sg:dat:n2	nazwa firmy	
+GBW	GBW	subst:sg:dat:n:ncol	nazwa firmy	
 GBW	GBW	subst:sg:gen:m3	nazwa firmy	
-GBW	GBW	subst:sg:gen:n2	nazwa firmy	
+GBW	GBW	subst:sg:gen:n:ncol	nazwa firmy	
 GBW	GBW	subst:sg:inst:m3	nazwa firmy	
-GBW	GBW	subst:sg:inst:n2	nazwa firmy	
+GBW	GBW	subst:sg:inst:n:ncol	nazwa firmy	
 GBW	GBW	subst:sg:loc:m3	nazwa firmy	
-GBW	GBW	subst:sg:loc:n2	nazwa firmy	
+GBW	GBW	subst:sg:loc:n:ncol	nazwa firmy	
 GBW	GBW	subst:sg:nom:m3	nazwa firmy	
-GBW	GBW	subst:sg:nom:n2	nazwa firmy	
+GBW	GBW	subst:sg:nom:n:ncol	nazwa firmy	
 GBW	GBW	subst:sg:voc:m3	nazwa firmy	
-GBW	GBW	subst:sg:voc:n2	nazwa firmy	
+GBW	GBW	subst:sg:voc:n:ncol	nazwa firmy	
 Gdańskach	Gdańsk	subst:pl:loc:m3	nazwa geograficzna	
 Gdańska	Gdańsk	subst:sg:gen:m3	nazwa geograficzna	
 Gdańskami	Gdańsk	subst:pl:inst:m3	nazwa geograficzna	
@@ -1765,20 +1765,20 @@ Gdańskowi	Gdańsk	subst:sg:dat:m3	nazwa geograficzna
 Gdańsków	Gdańsk	subst:pl:gen:m3	nazwa geograficzna	
 Gdańsku	Gdańsk	subst:sg:loc:m3	nazwa geograficzna	
 Gdańsku	Gdańsk	subst:sg:voc:m3	nazwa geograficzna	
-Gdańskich	Gdańskie	subst:pl:gen:n2	nazwa geograficzna	
-Gdańskich	Gdańskie	subst:pl:loc:n2	nazwa geograficzna	
-Gdańskie	Gdańskie	subst:pl:acc:n2	nazwa geograficzna	
-Gdańskie	Gdańskie	subst:pl:nom:n2	nazwa geograficzna	
-Gdańskie	Gdańskie	subst:pl:voc:n2	nazwa geograficzna	
-Gdańskie	Gdańskie	subst:sg:acc:n2	nazwa geograficzna	
-Gdańskie	Gdańskie	subst:sg:nom:n2	nazwa geograficzna	
-Gdańskie	Gdańskie	subst:sg:voc:n2	nazwa geograficzna	
-Gdańskiego	Gdańskie	subst:sg:gen:n2	nazwa geograficzna	
-Gdańskiem	Gdańskie	subst:sg:inst:n2	nazwa geograficzna	
-Gdańskiem	Gdańskie	subst:sg:loc:n2	nazwa geograficzna	
-Gdańskiemu	Gdańskie	subst:sg:dat:n2	nazwa geograficzna	
-Gdańskim	Gdańskie	subst:pl:dat:n2	nazwa geograficzna	
-Gdańskimi	Gdańskie	subst:pl:inst:n2	nazwa geograficzna	
+Gdańskich	Gdańskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gdańskich	Gdańskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Gdańskie	Gdańskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Gdańskie	Gdańskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Gdańskie	Gdańskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Gdańskie	Gdańskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Gdańskie	Gdańskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Gdańskie	Gdańskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Gdańskiego	Gdańskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Gdańskiem	Gdańskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Gdańskiem	Gdańskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Gdańskiemu	Gdańskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Gdańskim	Gdańskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Gdańskimi	Gdańskie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Gdowach	Gdów	subst:pl:loc:m3	nazwa geograficzna	
 Gdowa	Gdów	subst:sg:gen:m3	nazwa geograficzna	
 Gdowami	Gdów	subst:pl:inst:m3	nazwa geograficzna	
@@ -2433,20 +2433,20 @@ Gębalowie	Gębala	subst:pl:nom:m1	nazwisko
 Gębalowie	Gębala	subst:pl:voc:m1	nazwisko	
 Gębalów	Gębala	subst:pl:acc:m1	nazwisko	
 Gębalów	Gębala	subst:pl:gen:m1	nazwisko	
-Gębicach	Gębice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gębicach	Gębice	subst:pl:loc:p3	nazwa geograficzna	
-Gębicami	Gębice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gębicami	Gębice	subst:pl:inst:p3	nazwa geograficzna	
-Gębice	Gębice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Gębice	Gębice	subst:pl:acc:p3	nazwa geograficzna	
-Gębice	Gębice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Gębice	Gębice	subst:pl:nom:p3	nazwa geograficzna	
-Gębice	Gębice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Gębice	Gębice	subst:pl:voc:p3	nazwa geograficzna	
-Gębic	Gębice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gębic	Gębice	subst:pl:gen:p3	nazwa geograficzna	
-Gębicom	Gębice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gębicom	Gębice	subst:pl:dat:p3	nazwa geograficzna	
+Gębicach	Gębice	subst:pl:loc:n:pt	nazwa geograficzna	
+Gębicach	Gębice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gębicami	Gębice	subst:pl:inst:n:pt	nazwa geograficzna	
+Gębicami	Gębice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gębice	Gębice	subst:pl:acc:n:pt	nazwa geograficzna	
+Gębice	Gębice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Gębice	Gębice	subst:pl:nom:n:pt	nazwa geograficzna	
+Gębice	Gębice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Gębice	Gębice	subst:pl:voc:n:pt	nazwa geograficzna	
+Gębice	Gębice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Gębic	Gębice	subst:pl:gen:n:pt	nazwa geograficzna	
+Gębic	Gębice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Gębicom	Gębice	subst:pl:dat:n:pt	nazwa geograficzna	
+Gębicom	Gębice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Gębikach	Gębik	subst:pl:loc:m1	nazwisko	
 Gębika	Gębik	subst:sg:acc:m1	nazwisko	
 Gębika	Gębik	subst:sg:gen:m1	nazwisko	
@@ -2523,20 +2523,20 @@ Gibraltary	Gibraltar	subst:pl:nom:m3	nazwa geograficzna
 Gibraltary	Gibraltar	subst:pl:voc:m3	nazwa geograficzna	
 Gibraltarze	Gibraltar	subst:sg:loc:m3	nazwa geograficzna	
 Gibraltarze	Gibraltar	subst:sg:voc:m3	nazwa geograficzna	
-Gibach	Giby	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gibach	Giby	subst:pl:loc:p3	nazwa geograficzna	
-Gibami	Giby	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gibami	Giby	subst:pl:inst:p3	nazwa geograficzna	
-Gib	Giby	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gib	Giby	subst:pl:gen:p3	nazwa geograficzna	
-Gibom	Giby	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gibom	Giby	subst:pl:dat:p3	nazwa geograficzna	
-Giby	Giby	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Giby	Giby	subst:pl:acc:p3	nazwa geograficzna	
-Giby	Giby	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Giby	Giby	subst:pl:nom:p3	nazwa geograficzna	
-Giby	Giby	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Giby	Giby	subst:pl:voc:p3	nazwa geograficzna	
+Gibach	Giby	subst:pl:loc:n:pt	nazwa geograficzna	
+Gibach	Giby	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gibami	Giby	subst:pl:inst:n:pt	nazwa geograficzna	
+Gibami	Giby	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gib	Giby	subst:pl:gen:n:pt	nazwa geograficzna	
+Gib	Giby	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Gibom	Giby	subst:pl:dat:n:pt	nazwa geograficzna	
+Gibom	Giby	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Giby	Giby	subst:pl:acc:n:pt	nazwa geograficzna	
+Giby	Giby	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Giby	Giby	subst:pl:nom:n:pt	nazwa geograficzna	
+Giby	Giby	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Giby	Giby	subst:pl:voc:n:pt	nazwa geograficzna	
+Giby	Giby	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Gide’ach	Gide	subst:pl:loc:m1	nazwisko	
 Gide’a	Gide	subst:sg:acc:m1	nazwisko	
 Gide’a	Gide	subst:sg:gen:m1	nazwisko	
@@ -2721,20 +2721,20 @@ Gieńki	Gieńka	subst:pl:voc:f	imię
 Gieńki	Gieńka	subst:sg:gen:f	imię	
 Gieńko	Gieńka	subst:sg:voc:f	imię	
 Gieńkom	Gieńka	subst:pl:dat:f	imię	
-Gierałtowicach	Gierałtowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gierałtowicach	Gierałtowice	subst:pl:loc:p3	nazwa geograficzna	
-Gierałtowicami	Gierałtowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gierałtowicami	Gierałtowice	subst:pl:inst:p3	nazwa geograficzna	
-Gierałtowice	Gierałtowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Gierałtowice	Gierałtowice	subst:pl:acc:p3	nazwa geograficzna	
-Gierałtowice	Gierałtowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Gierałtowice	Gierałtowice	subst:pl:nom:p3	nazwa geograficzna	
-Gierałtowice	Gierałtowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Gierałtowice	Gierałtowice	subst:pl:voc:p3	nazwa geograficzna	
-Gierałtowic	Gierałtowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gierałtowic	Gierałtowice	subst:pl:gen:p3	nazwa geograficzna	
-Gierałtowicom	Gierałtowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gierałtowicom	Gierałtowice	subst:pl:dat:p3	nazwa geograficzna	
+Gierałtowicach	Gierałtowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Gierałtowicach	Gierałtowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gierałtowicami	Gierałtowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Gierałtowicami	Gierałtowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gierałtowice	Gierałtowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Gierałtowice	Gierałtowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Gierałtowice	Gierałtowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Gierałtowice	Gierałtowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Gierałtowice	Gierałtowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Gierałtowice	Gierałtowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Gierałtowic	Gierałtowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Gierałtowic	Gierałtowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Gierałtowicom	Gierałtowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Gierałtowicom	Gierałtowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Gierek	Gierek	subst:sg:nom:m1	nazwisko	
 Gierkach	Gierek	subst:pl:loc:m1	nazwisko	
 Gierka	Gierek	subst:sg:acc:m1	nazwisko	
@@ -2908,20 +2908,20 @@ Gillespiem	Gillespie	subst:sg:inst:m1	nazwisko
 Gillespiem	Gillespie	subst:sg:loc:m1	nazwisko	
 Gillespiemi	Gillespie	subst:pl:inst:m1	nazwisko	
 Gillespiemu	Gillespie	subst:sg:dat:m1	nazwisko	
-Gilowicach	Gilowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gilowicach	Gilowice	subst:pl:loc:p3	nazwa geograficzna	
-Gilowicami	Gilowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gilowicami	Gilowice	subst:pl:inst:p3	nazwa geograficzna	
-Gilowice	Gilowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Gilowice	Gilowice	subst:pl:acc:p3	nazwa geograficzna	
-Gilowice	Gilowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Gilowice	Gilowice	subst:pl:nom:p3	nazwa geograficzna	
-Gilowice	Gilowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Gilowice	Gilowice	subst:pl:voc:p3	nazwa geograficzna	
-Gilowic	Gilowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gilowic	Gilowice	subst:pl:gen:p3	nazwa geograficzna	
-Gilowicom	Gilowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gilowicom	Gilowice	subst:pl:dat:p3	nazwa geograficzna	
+Gilowicach	Gilowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Gilowicach	Gilowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gilowicami	Gilowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Gilowicami	Gilowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gilowice	Gilowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Gilowice	Gilowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Gilowice	Gilowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Gilowice	Gilowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Gilowice	Gilowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Gilowice	Gilowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Gilowic	Gilowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Gilowic	Gilowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Gilowicom	Gilowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Gilowicom	Gilowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Ginsbergach	Ginsberg	subst:pl:loc:m1	nazwisko	
 Ginsberga	Ginsberg	subst:sg:acc:m1	nazwisko	
 Ginsberga	Ginsberg	subst:sg:gen:m1	nazwisko	
@@ -3126,20 +3126,20 @@ Gizińskim	Giziński	subst:pl:dat:m1	nazwisko
 Gizińskim	Giziński	subst:sg:inst:m1	nazwisko	
 Gizińskim	Giziński	subst:sg:loc:m1	nazwisko	
 Gizińskimi	Giziński	subst:pl:inst:m1	nazwisko	
-Giżyckach	Giżycko	subst:pl:loc:n2	nazwa geograficzna	
-Giżycka	Giżycko	subst:pl:acc:n2	nazwa geograficzna	
-Giżycka	Giżycko	subst:pl:nom:n2	nazwa geograficzna	
-Giżycka	Giżycko	subst:pl:voc:n2	nazwa geograficzna	
-Giżycka	Giżycko	subst:sg:gen:n2	nazwa geograficzna	
-Giżyckami	Giżycko	subst:pl:inst:n2	nazwa geograficzna	
-Giżyck	Giżycko	subst:pl:gen:n2	nazwa geograficzna	
-Giżyckiem	Giżycko	subst:sg:inst:n2	nazwa geograficzna	
-Giżycko	Giżycko	subst:sg:acc:n2	nazwa geograficzna	
-Giżycko	Giżycko	subst:sg:nom:n2	nazwa geograficzna	
-Giżycko	Giżycko	subst:sg:voc:n2	nazwa geograficzna	
-Giżyckom	Giżycko	subst:pl:dat:n2	nazwa geograficzna	
-Giżycku	Giżycko	subst:sg:dat:n2	nazwa geograficzna	
-Giżycku	Giżycko	subst:sg:loc:n2	nazwa geograficzna	
+Giżyckach	Giżycko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Giżycka	Giżycko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Giżycka	Giżycko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Giżycka	Giżycko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Giżycka	Giżycko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Giżyckami	Giżycko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Giżyck	Giżycko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Giżyckiem	Giżycko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Giżycko	Giżycko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Giżycko	Giżycko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Giżycko	Giżycko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Giżyckom	Giżycko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Giżycku	Giżycko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Giżycku	Giżycko	subst:sg:loc:n:ncol	nazwa geograficzna	
 GKS-ach	GKS	subst:pl:loc:m3	nazwa organizacji	
 GKS-ami	GKS	subst:pl:inst:m3	nazwa organizacji	
 GKS-em	GKS	subst:sg:inst:m3	nazwa organizacji	
@@ -3212,20 +3212,20 @@ Glapińskim	Glapiński	subst:pl:dat:m1	nazwisko
 Glapińskim	Glapiński	subst:sg:inst:m1	nazwisko	
 Glapińskim	Glapiński	subst:sg:loc:m1	nazwisko	
 Glapińskimi	Glapiński	subst:pl:inst:m1	nazwisko	
-Glasgow	Glasgow	subst:pl:acc:n2	nazwa geograficzna	
-Glasgow	Glasgow	subst:pl:dat:n2	nazwa geograficzna	
-Glasgow	Glasgow	subst:pl:gen:n2	nazwa geograficzna	
-Glasgow	Glasgow	subst:pl:inst:n2	nazwa geograficzna	
-Glasgow	Glasgow	subst:pl:loc:n2	nazwa geograficzna	
-Glasgow	Glasgow	subst:pl:nom:n2	nazwa geograficzna	
-Glasgow	Glasgow	subst:pl:voc:n2	nazwa geograficzna	
-Glasgow	Glasgow	subst:sg:acc:n2	nazwa geograficzna	
-Glasgow	Glasgow	subst:sg:dat:n2	nazwa geograficzna	
-Glasgow	Glasgow	subst:sg:gen:n2	nazwa geograficzna	
-Glasgow	Glasgow	subst:sg:inst:n2	nazwa geograficzna	
-Glasgow	Glasgow	subst:sg:loc:n2	nazwa geograficzna	
-Glasgow	Glasgow	subst:sg:nom:n2	nazwa geograficzna	
-Glasgow	Glasgow	subst:sg:voc:n2	nazwa geograficzna	
+Glasgow	Glasgow	subst:pl:acc:n:ncol	nazwa geograficzna	
+Glasgow	Glasgow	subst:pl:dat:n:ncol	nazwa geograficzna	
+Glasgow	Glasgow	subst:pl:gen:n:ncol	nazwa geograficzna	
+Glasgow	Glasgow	subst:pl:inst:n:ncol	nazwa geograficzna	
+Glasgow	Glasgow	subst:pl:loc:n:ncol	nazwa geograficzna	
+Glasgow	Glasgow	subst:pl:nom:n:ncol	nazwa geograficzna	
+Glasgow	Glasgow	subst:pl:voc:n:ncol	nazwa geograficzna	
+Glasgow	Glasgow	subst:sg:acc:n:ncol	nazwa geograficzna	
+Glasgow	Glasgow	subst:sg:dat:n:ncol	nazwa geograficzna	
+Glasgow	Glasgow	subst:sg:gen:n:ncol	nazwa geograficzna	
+Glasgow	Glasgow	subst:sg:inst:n:ncol	nazwa geograficzna	
+Glasgow	Glasgow	subst:sg:loc:n:ncol	nazwa geograficzna	
+Glasgow	Glasgow	subst:sg:nom:n:ncol	nazwa geograficzna	
+Glasgow	Glasgow	subst:sg:voc:n:ncol	nazwa geograficzna	
 Glebach	Gleb	subst:pl:loc:m1	imię	
 Gleba	Gleb	subst:sg:acc:m1	imię	
 Gleba	Gleb	subst:sg:gen:m1	imię	
@@ -3288,20 +3288,20 @@ Glińskim	Gliński	subst:pl:dat:m1	nazwisko
 Glińskim	Gliński	subst:sg:inst:m1	nazwisko	
 Glińskim	Gliński	subst:sg:loc:m1	nazwisko	
 Glińskimi	Gliński	subst:pl:inst:m1	nazwisko	
-Gliwicach	Gliwice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gliwicach	Gliwice	subst:pl:loc:p3	nazwa geograficzna	
-Gliwicami	Gliwice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gliwicami	Gliwice	subst:pl:inst:p3	nazwa geograficzna	
-Gliwice	Gliwice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Gliwice	Gliwice	subst:pl:acc:p3	nazwa geograficzna	
-Gliwice	Gliwice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Gliwice	Gliwice	subst:pl:nom:p3	nazwa geograficzna	
-Gliwice	Gliwice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Gliwice	Gliwice	subst:pl:voc:p3	nazwa geograficzna	
-Gliwic	Gliwice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gliwic	Gliwice	subst:pl:gen:p3	nazwa geograficzna	
-Gliwicom	Gliwice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gliwicom	Gliwice	subst:pl:dat:p3	nazwa geograficzna	
+Gliwicach	Gliwice	subst:pl:loc:n:pt	nazwa geograficzna	
+Gliwicach	Gliwice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gliwicami	Gliwice	subst:pl:inst:n:pt	nazwa geograficzna	
+Gliwicami	Gliwice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gliwice	Gliwice	subst:pl:acc:n:pt	nazwa geograficzna	
+Gliwice	Gliwice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Gliwice	Gliwice	subst:pl:nom:n:pt	nazwa geograficzna	
+Gliwice	Gliwice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Gliwice	Gliwice	subst:pl:voc:n:pt	nazwa geograficzna	
+Gliwice	Gliwice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Gliwic	Gliwice	subst:pl:gen:n:pt	nazwa geograficzna	
+Gliwic	Gliwice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Gliwicom	Gliwice	subst:pl:dat:n:pt	nazwa geograficzna	
+Gliwicom	Gliwice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Glogerach	Gloger	subst:pl:loc:m1	nazwisko	
 Glogera	Gloger	subst:sg:acc:m1	nazwisko	
 Glogera	Gloger	subst:sg:gen:m1	nazwisko	
@@ -3367,20 +3367,20 @@ Glucków	Gluck	subst:pl:acc:m1	nazwisko
 Glucków	Gluck	subst:pl:gen:m1	nazwisko	
 Glucku	Gluck	subst:sg:loc:m1	nazwisko	
 Glucku	Gluck	subst:sg:voc:m1	nazwisko	
-Głębokich	Głębokie	subst:pl:gen:n2	nazwa geograficzna	
-Głębokich	Głębokie	subst:pl:loc:n2	nazwa geograficzna	
-Głębokie	Głębokie	subst:pl:acc:n2	nazwa geograficzna	
-Głębokie	Głębokie	subst:pl:nom:n2	nazwa geograficzna	
-Głębokie	Głębokie	subst:pl:voc:n2	nazwa geograficzna	
-Głębokie	Głębokie	subst:sg:acc:n2	nazwa geograficzna	
-Głębokie	Głębokie	subst:sg:nom:n2	nazwa geograficzna	
-Głębokie	Głębokie	subst:sg:voc:n2	nazwa geograficzna	
-Głębokiego	Głębokie	subst:sg:gen:n2	nazwa geograficzna	
-Głębokiem	Głębokie	subst:sg:inst:n2	nazwa geograficzna	
-Głębokiem	Głębokie	subst:sg:loc:n2	nazwa geograficzna	
-Głębokiemu	Głębokie	subst:sg:dat:n2	nazwa geograficzna	
-Głębokim	Głębokie	subst:pl:dat:n2	nazwa geograficzna	
-Głębokimi	Głębokie	subst:pl:inst:n2	nazwa geograficzna	
+Głębokich	Głębokie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Głębokich	Głębokie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Głębokie	Głębokie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Głębokie	Głębokie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Głębokie	Głębokie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Głębokie	Głębokie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Głębokie	Głębokie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Głębokie	Głębokie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Głębokiego	Głębokie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Głębokiem	Głębokie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Głębokiem	Głębokie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Głębokiemu	Głębokie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Głębokim	Głębokie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Głębokimi	Głębokie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Głogoczowach	Głogoczów	subst:pl:loc:m3	nazwa geograficzna	
 Głogoczowa	Głogoczów	subst:sg:gen:m3	nazwa geograficzna	
 Głogoczowami	Głogoczów	subst:pl:inst:m3	nazwa geograficzna	
@@ -3486,48 +3486,48 @@ Głowińskim	Głowiński	subst:pl:dat:m1	nazwisko
 Głowińskim	Głowiński	subst:sg:inst:m1	nazwisko	
 Głowińskim	Głowiński	subst:sg:loc:m1	nazwisko	
 Głowińskimi	Głowiński	subst:pl:inst:m1	nazwisko	
-Główczycach	Główczyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Główczycach	Główczyce	subst:pl:loc:p3	nazwa geograficzna	
-Główczycami	Główczyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Główczycami	Główczyce	subst:pl:inst:p3	nazwa geograficzna	
-Główczyce	Główczyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Główczyce	Główczyce	subst:pl:acc:p3	nazwa geograficzna	
-Główczyce	Główczyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Główczyce	Główczyce	subst:pl:nom:p3	nazwa geograficzna	
-Główczyce	Główczyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Główczyce	Główczyce	subst:pl:voc:p3	nazwa geograficzna	
-Główczyc	Główczyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Główczyc	Główczyce	subst:pl:gen:p3	nazwa geograficzna	
-Główczycom	Główczyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Główczycom	Główczyce	subst:pl:dat:p3	nazwa geograficzna	
-Głubczycach	Głubczyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Głubczycach	Głubczyce	subst:pl:loc:p3	nazwa geograficzna	
-Głubczycami	Głubczyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Głubczycami	Głubczyce	subst:pl:inst:p3	nazwa geograficzna	
-Głubczyce	Głubczyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Głubczyce	Głubczyce	subst:pl:acc:p3	nazwa geograficzna	
-Głubczyce	Głubczyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Głubczyce	Głubczyce	subst:pl:nom:p3	nazwa geograficzna	
-Głubczyce	Głubczyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Głubczyce	Głubczyce	subst:pl:voc:p3	nazwa geograficzna	
-Głubczyc	Głubczyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Głubczyc	Głubczyce	subst:pl:gen:p3	nazwa geograficzna	
-Głubczycom	Głubczyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Głubczycom	Głubczyce	subst:pl:dat:p3	nazwa geograficzna	
-Głuchołazach	Głuchołazy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Głuchołazach	Głuchołazy	subst:pl:loc:p3	nazwa geograficzna	
-Głuchołazami	Głuchołazy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Głuchołazami	Głuchołazy	subst:pl:inst:p3	nazwa geograficzna	
-Głuchołaz	Głuchołazy	subst:pl:gen:p3	nazwa geograficzna	
-Głuchołazom	Głuchołazy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Głuchołazom	Głuchołazy	subst:pl:dat:p3	nazwa geograficzna	
-Głuchołazów	Głuchołazy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Głuchołazy	Głuchołazy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Głuchołazy	Głuchołazy	subst:pl:acc:p3	nazwa geograficzna	
-Głuchołazy	Głuchołazy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Głuchołazy	Głuchołazy	subst:pl:nom:p3	nazwa geograficzna	
-Głuchołazy	Głuchołazy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Głuchołazy	Głuchołazy	subst:pl:voc:p3	nazwa geograficzna	
+Główczycach	Główczyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Główczycach	Główczyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Główczycami	Główczyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Główczycami	Główczyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Główczyce	Główczyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Główczyce	Główczyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Główczyce	Główczyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Główczyce	Główczyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Główczyce	Główczyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Główczyce	Główczyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Główczyc	Główczyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Główczyc	Główczyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Główczycom	Główczyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Główczycom	Główczyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Głubczycach	Głubczyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Głubczycach	Głubczyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Głubczycami	Głubczyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Głubczycami	Głubczyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Głubczyce	Głubczyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Głubczyce	Głubczyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Głubczyce	Głubczyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Głubczyce	Głubczyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Głubczyce	Głubczyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Głubczyce	Głubczyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Głubczyc	Głubczyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Głubczyc	Głubczyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Głubczycom	Głubczyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Głubczycom	Głubczyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Głuchołazach	Głuchołazy	subst:pl:loc:n:pt	nazwa geograficzna	
+Głuchołazach	Głuchołazy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Głuchołazami	Głuchołazy	subst:pl:inst:n:pt	nazwa geograficzna	
+Głuchołazami	Głuchołazy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Głuchołaz	Głuchołazy	subst:pl:gen:n:pt	nazwa geograficzna	
+Głuchołazom	Głuchołazy	subst:pl:dat:n:pt	nazwa geograficzna	
+Głuchołazom	Głuchołazy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Głuchołazów	Głuchołazy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Głuchołazy	Głuchołazy	subst:pl:acc:n:pt	nazwa geograficzna	
+Głuchołazy	Głuchołazy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Głuchołazy	Głuchołazy	subst:pl:nom:n:pt	nazwa geograficzna	
+Głuchołazy	Głuchołazy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Głuchołazy	Głuchołazy	subst:pl:voc:n:pt	nazwa geograficzna	
+Głuchołazy	Głuchołazy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Głuchowach	Głuchów	subst:pl:loc:m3	nazwa geograficzna	
 Głuchowa	Głuchów	subst:sg:gen:m3	nazwa geograficzna	
 Głuchowami	Głuchów	subst:pl:inst:m3	nazwa geograficzna	
@@ -3571,20 +3571,20 @@ GM-u	GM	subst:sg:gen:m3	nazwa firmy
 GM-y	GM	subst:pl:acc:m3	nazwa firmy	
 GM-y	GM	subst:pl:nom:m3	nazwa firmy	
 GM-y	GM	subst:pl:voc:m3	nazwa firmy	
-GMC	GMC	subst:pl:acc:n2	nazwa firmy	
-GMC	GMC	subst:pl:dat:n2	nazwa firmy	
-GMC	GMC	subst:pl:gen:n2	nazwa firmy	
-GMC	GMC	subst:pl:inst:n2	nazwa firmy	
-GMC	GMC	subst:pl:loc:n2	nazwa firmy	
-GMC	GMC	subst:pl:nom:n2	nazwa firmy	
-GMC	GMC	subst:pl:voc:n2	nazwa firmy	
-GMC	GMC	subst:sg:acc:n2	nazwa firmy	
-GMC	GMC	subst:sg:dat:n2	nazwa firmy	
-GMC	GMC	subst:sg:gen:n2	nazwa firmy	
-GMC	GMC	subst:sg:inst:n2	nazwa firmy	
-GMC	GMC	subst:sg:loc:n2	nazwa firmy	
-GMC	GMC	subst:sg:nom:n2	nazwa firmy	
-GMC	GMC	subst:sg:voc:n2	nazwa firmy	
+GMC	GMC	subst:pl:acc:n:ncol	nazwa firmy	
+GMC	GMC	subst:pl:dat:n:ncol	nazwa firmy	
+GMC	GMC	subst:pl:gen:n:ncol	nazwa firmy	
+GMC	GMC	subst:pl:inst:n:ncol	nazwa firmy	
+GMC	GMC	subst:pl:loc:n:ncol	nazwa firmy	
+GMC	GMC	subst:pl:nom:n:ncol	nazwa firmy	
+GMC	GMC	subst:pl:voc:n:ncol	nazwa firmy	
+GMC	GMC	subst:sg:acc:n:ncol	nazwa firmy	
+GMC	GMC	subst:sg:dat:n:ncol	nazwa firmy	
+GMC	GMC	subst:sg:gen:n:ncol	nazwa firmy	
+GMC	GMC	subst:sg:inst:n:ncol	nazwa firmy	
+GMC	GMC	subst:sg:loc:n:ncol	nazwa firmy	
+GMC	GMC	subst:sg:nom:n:ncol	nazwa firmy	
+GMC	GMC	subst:sg:voc:n:ncol	nazwa firmy	
 Gnaszynach	Gnaszyn	subst:pl:loc:m3	nazwa geograficzna	
 Gnaszyna	Gnaszyn	subst:sg:gen:m3	nazwa geograficzna	
 Gnaszynami	Gnaszyn	subst:pl:inst:m3	nazwa geograficzna	
@@ -3615,22 +3615,22 @@ Gneisenauów	Gneisenau	subst:pl:acc:m1	nazwisko
 Gneisenauów	Gneisenau	subst:pl:gen:m1	nazwisko	
 Gneisenauy	Gneisenau	depr:pl:nom:m2	nazwisko	
 Gneisenauy	Gneisenau	depr:pl:voc:m2	nazwisko	
-Gniewkowach	Gniewkowo	subst:pl:loc:n2	nazwa geograficzna	
-Gniewkowa	Gniewkowo	subst:pl:acc:n2	nazwa geograficzna	
-Gniewkowa	Gniewkowo	subst:pl:nom:n2	nazwa geograficzna	
-Gniewkowa	Gniewkowo	subst:pl:voc:n2	nazwa geograficzna	
-Gniewkowa	Gniewkowo	subst:sg:gen:n2	nazwa geograficzna	
-Gniewkowami	Gniewkowo	subst:pl:inst:n2	nazwa geograficzna	
-Gniewkowem	Gniewkowo	subst:sg:inst:n2	nazwa geograficzna	
-Gniewkow	Gniewkowo	subst:pl:gen:n2	nazwa geograficzna	
-Gniewkowie	Gniewkowo	subst:sg:loc:n2	nazwa geograficzna	
-Gniewkowo	Gniewkowo	subst:sg:acc:n2	nazwa geograficzna	
-Gniewkowo	Gniewkowo	subst:sg:nom:n2	nazwa geograficzna	
-Gniewkowo	Gniewkowo	subst:sg:voc:n2	nazwa geograficzna	
-Gniewkowom	Gniewkowo	subst:pl:dat:n2	nazwa geograficzna	
-Gniewkowów	Gniewkowo	subst:pl:gen:n2	nazwa geograficzna	
-Gniewkowu	Gniewkowo	subst:sg:dat:n2	nazwa geograficzna	
-Gniewków	Gniewkowo	subst:pl:gen:n2	nazwa geograficzna	
+Gniewkowach	Gniewkowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Gniewkowa	Gniewkowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Gniewkowa	Gniewkowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Gniewkowa	Gniewkowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Gniewkowa	Gniewkowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Gniewkowami	Gniewkowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Gniewkowem	Gniewkowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Gniewkow	Gniewkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gniewkowie	Gniewkowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Gniewkowo	Gniewkowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Gniewkowo	Gniewkowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Gniewkowo	Gniewkowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Gniewkowom	Gniewkowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Gniewkowów	Gniewkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gniewkowu	Gniewkowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Gniewków	Gniewkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Gniewomirach	Gniewomir	subst:pl:loc:m1	imię	
 Gniewomira	Gniewomir	subst:sg:acc:m1	imię	
 Gniewomira	Gniewomir	subst:sg:gen:m1	imię	
@@ -3682,20 +3682,20 @@ Gniewoszowy	Gniewoszów	subst:pl:nom:m3	nazwa geograficzna
 Gniewoszowy	Gniewoszów	subst:pl:voc:m3	nazwa geograficzna	
 Gniewoszów	Gniewoszów	subst:sg:acc:m3	nazwa geograficzna	
 Gniewoszów	Gniewoszów	subst:sg:nom:m3	nazwa geograficzna	
-Gnieznach	Gniezno	subst:pl:loc:n2	nazwa geograficzna	
-Gniezna	Gniezno	subst:pl:acc:n2	nazwa geograficzna	
-Gniezna	Gniezno	subst:pl:nom:n2	nazwa geograficzna	
-Gniezna	Gniezno	subst:pl:voc:n2	nazwa geograficzna	
-Gniezna	Gniezno	subst:sg:gen:n2	nazwa geograficzna	
-Gnieznami	Gniezno	subst:pl:inst:n2	nazwa geograficzna	
-Gnieznem	Gniezno	subst:sg:inst:n2	nazwa geograficzna	
-Gniezn	Gniezno	subst:pl:gen:n2	nazwa geograficzna	
-Gniezno	Gniezno	subst:sg:acc:n2	nazwa geograficzna	
-Gniezno	Gniezno	subst:sg:nom:n2	nazwa geograficzna	
-Gniezno	Gniezno	subst:sg:voc:n2	nazwa geograficzna	
-Gnieznom	Gniezno	subst:pl:dat:n2	nazwa geograficzna	
-Gnieznu	Gniezno	subst:sg:dat:n2	nazwa geograficzna	
-Gnieźnie	Gniezno	subst:sg:loc:n2	nazwa geograficzna	
+Gnieznach	Gniezno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Gniezna	Gniezno	subst:pl:acc:n:ncol	nazwa geograficzna	
+Gniezna	Gniezno	subst:pl:nom:n:ncol	nazwa geograficzna	
+Gniezna	Gniezno	subst:pl:voc:n:ncol	nazwa geograficzna	
+Gniezna	Gniezno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Gnieznami	Gniezno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Gnieznem	Gniezno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Gniezn	Gniezno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gniezno	Gniezno	subst:sg:acc:n:ncol	nazwa geograficzna	
+Gniezno	Gniezno	subst:sg:nom:n:ncol	nazwa geograficzna	
+Gniezno	Gniezno	subst:sg:voc:n:ncol	nazwa geograficzna	
+Gnieznom	Gniezno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Gnieznu	Gniezno	subst:sg:dat:n:ncol	nazwa geograficzna	
+Gnieźnie	Gniezno	subst:sg:loc:n:ncol	nazwa geograficzna	
 Goarach	Goar	subst:pl:loc:m1	imię	
 Goara	Goar	subst:sg:acc:m1	imię	
 Goara	Goar	subst:sg:gen:m1	imię	
@@ -3715,33 +3715,33 @@ Goarze	Goar	subst:sg:voc:m1	imię
 Goarzy	Goar	subst:pl:nom:m1	imię	
 Goarzy	Goar	subst:pl:voc:m1	imię	
 Gobi	Gobi	subst:pl:acc:f	nazwa geograficzna	
-Gobi	Gobi	subst:pl:acc:n2	nazwa geograficzna	
+Gobi	Gobi	subst:pl:acc:n:ncol	nazwa geograficzna	
 Gobi	Gobi	subst:pl:dat:f	nazwa geograficzna	
-Gobi	Gobi	subst:pl:dat:n2	nazwa geograficzna	
+Gobi	Gobi	subst:pl:dat:n:ncol	nazwa geograficzna	
 Gobi	Gobi	subst:pl:gen:f	nazwa geograficzna	
-Gobi	Gobi	subst:pl:gen:n2	nazwa geograficzna	
+Gobi	Gobi	subst:pl:gen:n:ncol	nazwa geograficzna	
 Gobi	Gobi	subst:pl:inst:f	nazwa geograficzna	
-Gobi	Gobi	subst:pl:inst:n2	nazwa geograficzna	
+Gobi	Gobi	subst:pl:inst:n:ncol	nazwa geograficzna	
 Gobi	Gobi	subst:pl:loc:f	nazwa geograficzna	
-Gobi	Gobi	subst:pl:loc:n2	nazwa geograficzna	
+Gobi	Gobi	subst:pl:loc:n:ncol	nazwa geograficzna	
 Gobi	Gobi	subst:pl:nom:f	nazwa geograficzna	
-Gobi	Gobi	subst:pl:nom:n2	nazwa geograficzna	
+Gobi	Gobi	subst:pl:nom:n:ncol	nazwa geograficzna	
 Gobi	Gobi	subst:pl:voc:f	nazwa geograficzna	
-Gobi	Gobi	subst:pl:voc:n2	nazwa geograficzna	
+Gobi	Gobi	subst:pl:voc:n:ncol	nazwa geograficzna	
 Gobi	Gobi	subst:sg:acc:f	nazwa geograficzna	
-Gobi	Gobi	subst:sg:acc:n2	nazwa geograficzna	
+Gobi	Gobi	subst:sg:acc:n:ncol	nazwa geograficzna	
 Gobi	Gobi	subst:sg:dat:f	nazwa geograficzna	
-Gobi	Gobi	subst:sg:dat:n2	nazwa geograficzna	
+Gobi	Gobi	subst:sg:dat:n:ncol	nazwa geograficzna	
 Gobi	Gobi	subst:sg:gen:f	nazwa geograficzna	
-Gobi	Gobi	subst:sg:gen:n2	nazwa geograficzna	
+Gobi	Gobi	subst:sg:gen:n:ncol	nazwa geograficzna	
 Gobi	Gobi	subst:sg:inst:f	nazwa geograficzna	
-Gobi	Gobi	subst:sg:inst:n2	nazwa geograficzna	
+Gobi	Gobi	subst:sg:inst:n:ncol	nazwa geograficzna	
 Gobi	Gobi	subst:sg:loc:f	nazwa geograficzna	
-Gobi	Gobi	subst:sg:loc:n2	nazwa geograficzna	
+Gobi	Gobi	subst:sg:loc:n:ncol	nazwa geograficzna	
 Gobi	Gobi	subst:sg:nom:f	nazwa geograficzna	
-Gobi	Gobi	subst:sg:nom:n2	nazwa geograficzna	
+Gobi	Gobi	subst:sg:nom:n:ncol	nazwa geograficzna	
 Gobi	Gobi	subst:sg:voc:f	nazwa geograficzna	
-Gobi	Gobi	subst:sg:voc:n2	nazwa geograficzna	
+Gobi	Gobi	subst:sg:voc:n:ncol	nazwa geograficzna	
 Gocisławach	Gocisław	subst:pl:loc:m1	imię	
 Gocisława	Gocisław	subst:sg:acc:m1	imię	
 Gocisława	Gocisław	subst:sg:gen:m1	imię	
@@ -3790,20 +3790,20 @@ Gocłowskim	Gocłowski	subst:pl:dat:m1	nazwisko
 Gocłowskim	Gocłowski	subst:sg:inst:m1	nazwisko	
 Gocłowskim	Gocłowski	subst:sg:loc:m1	nazwisko	
 Gocłowskimi	Gocłowski	subst:pl:inst:m1	nazwisko	
-Goczałkowicach	Goczałkowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Goczałkowicach	Goczałkowice	subst:pl:loc:p3	nazwa geograficzna	
-Goczałkowicami	Goczałkowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Goczałkowicami	Goczałkowice	subst:pl:inst:p3	nazwa geograficzna	
-Goczałkowice	Goczałkowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Goczałkowice	Goczałkowice	subst:pl:acc:p3	nazwa geograficzna	
-Goczałkowice	Goczałkowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Goczałkowice	Goczałkowice	subst:pl:nom:p3	nazwa geograficzna	
-Goczałkowice	Goczałkowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Goczałkowice	Goczałkowice	subst:pl:voc:p3	nazwa geograficzna	
-Goczałkowic	Goczałkowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Goczałkowic	Goczałkowice	subst:pl:gen:p3	nazwa geograficzna	
-Goczałkowicom	Goczałkowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Goczałkowicom	Goczałkowice	subst:pl:dat:p3	nazwa geograficzna	
+Goczałkowicach	Goczałkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Goczałkowicach	Goczałkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Goczałkowicami	Goczałkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Goczałkowicami	Goczałkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Goczałkowice	Goczałkowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Goczałkowice	Goczałkowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Goczałkowice	Goczałkowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Goczałkowice	Goczałkowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Goczałkowice	Goczałkowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Goczałkowice	Goczałkowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Goczałkowic	Goczałkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Goczałkowic	Goczałkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Goczałkowicom	Goczałkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Goczałkowicom	Goczałkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Godebska	Godebska	subst:sg:nom:f	nazwisko	
 Godebska	Godebska	subst:sg:voc:f	nazwisko	
 Godebską	Godebska	subst:sg:acc:f	nazwisko	
@@ -3852,22 +3852,22 @@ Godfrydzie	Godfryd	subst:sg:loc:m1	imię
 Godfrydzie	Godfryd	subst:sg:voc:m1	imię	
 Godfrydzi	Godfryd	subst:pl:nom:m1	imię	
 Godfrydzi	Godfryd	subst:pl:voc:m1	imię	
-Godkowach	Godkowo	subst:pl:loc:n2	nazwa geograficzna	
-Godkowa	Godkowo	subst:pl:acc:n2	nazwa geograficzna	
-Godkowa	Godkowo	subst:pl:nom:n2	nazwa geograficzna	
-Godkowa	Godkowo	subst:pl:voc:n2	nazwa geograficzna	
-Godkowa	Godkowo	subst:sg:gen:n2	nazwa geograficzna	
-Godkowami	Godkowo	subst:pl:inst:n2	nazwa geograficzna	
-Godkowem	Godkowo	subst:sg:inst:n2	nazwa geograficzna	
-Godkow	Godkowo	subst:pl:gen:n2	nazwa geograficzna	
-Godkowie	Godkowo	subst:sg:loc:n2	nazwa geograficzna	
-Godkowo	Godkowo	subst:sg:acc:n2	nazwa geograficzna	
-Godkowo	Godkowo	subst:sg:nom:n2	nazwa geograficzna	
-Godkowo	Godkowo	subst:sg:voc:n2	nazwa geograficzna	
-Godkowom	Godkowo	subst:pl:dat:n2	nazwa geograficzna	
-Godkowów	Godkowo	subst:pl:gen:n2	nazwa geograficzna	
-Godkowu	Godkowo	subst:sg:dat:n2	nazwa geograficzna	
-Godków	Godkowo	subst:pl:gen:n2	nazwa geograficzna	
+Godkowach	Godkowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Godkowa	Godkowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Godkowa	Godkowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Godkowa	Godkowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Godkowa	Godkowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Godkowami	Godkowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Godkowem	Godkowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Godkow	Godkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Godkowie	Godkowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Godkowo	Godkowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Godkowo	Godkowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Godkowo	Godkowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Godkowom	Godkowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Godkowów	Godkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Godkowu	Godkowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Godków	Godkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Godlewska	Godlewska	subst:sg:nom:f	nazwisko	
 Godlewska	Godlewska	subst:sg:voc:f	nazwisko	
 Godlewską	Godlewska	subst:sg:acc:f	nazwisko	
@@ -4199,20 +4199,20 @@ Golańskim	Golański	subst:pl:dat:m1	nazwisko
 Golańskim	Golański	subst:sg:inst:m1	nazwisko	
 Golańskim	Golański	subst:sg:loc:m1	nazwisko	
 Golańskimi	Golański	subst:pl:inst:m1	nazwisko	
-Golczewach	Golczewo	subst:pl:loc:n2	nazwa geograficzna	
-Golczewa	Golczewo	subst:pl:acc:n2	nazwa geograficzna	
-Golczewa	Golczewo	subst:pl:nom:n2	nazwa geograficzna	
-Golczewa	Golczewo	subst:pl:voc:n2	nazwa geograficzna	
-Golczewa	Golczewo	subst:sg:gen:n2	nazwa geograficzna	
-Golczewami	Golczewo	subst:pl:inst:n2	nazwa geograficzna	
-Golczewem	Golczewo	subst:sg:inst:n2	nazwa geograficzna	
-Golczew	Golczewo	subst:pl:gen:n2	nazwa geograficzna	
-Golczewie	Golczewo	subst:sg:loc:n2	nazwa geograficzna	
-Golczewo	Golczewo	subst:sg:acc:n2	nazwa geograficzna	
-Golczewo	Golczewo	subst:sg:nom:n2	nazwa geograficzna	
-Golczewo	Golczewo	subst:sg:voc:n2	nazwa geograficzna	
-Golczewom	Golczewo	subst:pl:dat:n2	nazwa geograficzna	
-Golczewu	Golczewo	subst:sg:dat:n2	nazwa geograficzna	
+Golczewach	Golczewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Golczewa	Golczewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Golczewa	Golczewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Golczewa	Golczewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Golczewa	Golczewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Golczewami	Golczewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Golczewem	Golczewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Golczew	Golczewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Golczewie	Golczewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Golczewo	Golczewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Golczewo	Golczewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Golczewo	Golczewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Golczewom	Golczewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Golczewu	Golczewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Goldach	Golda	subst:pl:loc:f	imię	
 Golda	Golda	subst:sg:nom:f	imię	
 Goldami	Golda	subst:pl:inst:f	imię	
@@ -4720,20 +4720,20 @@ Gomułkowie	Gomułka	subst:pl:nom:m1	nazwisko
 Gomułkowie	Gomułka	subst:pl:voc:m1	nazwisko	
 Gomułków	Gomułka	subst:pl:acc:m1	nazwisko	
 Gomułków	Gomułka	subst:pl:gen:m1	nazwisko	
-Gomunicach	Gomunice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gomunicach	Gomunice	subst:pl:loc:p3	nazwa geograficzna	
-Gomunicami	Gomunice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gomunicami	Gomunice	subst:pl:inst:p3	nazwa geograficzna	
-Gomunice	Gomunice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Gomunice	Gomunice	subst:pl:acc:p3	nazwa geograficzna	
-Gomunice	Gomunice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Gomunice	Gomunice	subst:pl:nom:p3	nazwa geograficzna	
-Gomunice	Gomunice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Gomunice	Gomunice	subst:pl:voc:p3	nazwa geograficzna	
-Gomunic	Gomunice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gomunic	Gomunice	subst:pl:gen:p3	nazwa geograficzna	
-Gomunicom	Gomunice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gomunicom	Gomunice	subst:pl:dat:p3	nazwa geograficzna	
+Gomunicach	Gomunice	subst:pl:loc:n:pt	nazwa geograficzna	
+Gomunicach	Gomunice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gomunicami	Gomunice	subst:pl:inst:n:pt	nazwa geograficzna	
+Gomunicami	Gomunice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gomunice	Gomunice	subst:pl:acc:n:pt	nazwa geograficzna	
+Gomunice	Gomunice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Gomunice	Gomunice	subst:pl:nom:n:pt	nazwa geograficzna	
+Gomunice	Gomunice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Gomunice	Gomunice	subst:pl:voc:n:pt	nazwa geograficzna	
+Gomunice	Gomunice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Gomunic	Gomunice	subst:pl:gen:n:pt	nazwa geograficzna	
+Gomunic	Gomunice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Gomunicom	Gomunice	subst:pl:dat:n:pt	nazwa geograficzna	
+Gomunicom	Gomunice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Goncourcie	Goncourt	subst:sg:loc:m1	nazwisko	
 Goncourcie	Goncourt	subst:sg:voc:m1	nazwisko	
 Goncourtach	Goncourt	subst:pl:loc:m1	nazwisko	
@@ -4780,8 +4780,8 @@ Gontarskim	Gontarski	subst:pl:dat:m1	nazwisko
 Gontarskim	Gontarski	subst:sg:inst:m1	nazwisko	
 Gontarskim	Gontarski	subst:sg:loc:m1	nazwisko	
 Gontarskimi	Gontarski	subst:pl:inst:m1	nazwisko	
-Googlach	Google	subst:pl:loc:p3	marka|człon nazwy firmy	pot.
-Googlami	Google	subst:pl:inst:p3	marka|człon nazwy firmy	pot.
+Googlach	Google	subst:pl:loc:n:pt	marka|człon nazwy firmy	pot.
+Googlami	Google	subst:pl:inst:n:pt	marka|człon nazwy firmy	pot.
 Google’ach	Google	subst:pl:loc:m3	marka|człon nazwy firmy	
 Google’a	Google	subst:sg:gen:m3	marka|człon nazwy firmy	
 Google’ami	Google	subst:pl:inst:m3	marka|człon nazwy firmy	
@@ -4789,9 +4789,9 @@ Google’e	Google	subst:pl:acc:m3	marka|człon nazwy firmy
 Google’e	Google	subst:pl:nom:m3	marka|człon nazwy firmy	
 Google’e	Google	subst:pl:voc:m3	marka|człon nazwy firmy	
 Google’em	Google	subst:sg:inst:m3	marka|człon nazwy firmy	
-Google	Google	subst:pl:acc:p3	marka|człon nazwy firmy	pot.
-Google	Google	subst:pl:nom:p3	marka|człon nazwy firmy	pot.
-Google	Google	subst:pl:voc:p3	marka|człon nazwy firmy	pot.
+Google	Google	subst:pl:acc:n:pt	marka|człon nazwy firmy	pot.
+Google	Google	subst:pl:nom:n:pt	marka|człon nazwy firmy	pot.
+Google	Google	subst:pl:voc:n:pt	marka|człon nazwy firmy	pot.
 Google	Google	subst:sg:acc:m3	marka|człon nazwy firmy	
 Google	Google	subst:sg:nom:m3	marka|człon nazwy firmy	
 Google’i	Google	subst:pl:gen:m3	marka|człon nazwy firmy	
@@ -4799,8 +4799,8 @@ Google’om	Google	subst:pl:dat:m3	marka|człon nazwy firmy
 Google’owi	Google	subst:sg:dat:m3	marka|człon nazwy firmy	
 Google’u	Google	subst:sg:loc:m3	marka|człon nazwy firmy	
 Google’u	Google	subst:sg:voc:m3	marka|człon nazwy firmy	
-Googli	Google	subst:pl:gen:p3	marka|człon nazwy firmy	pot.
-Googlom	Google	subst:pl:dat:p3	marka|człon nazwy firmy	pot.
+Googli	Google	subst:pl:gen:n:pt	marka|człon nazwy firmy	pot.
+Googlom	Google	subst:pl:dat:n:pt	marka|człon nazwy firmy	pot.
 Goplanach	Goplanin	subst:pl:loc:m1	nazwa pospolita	
 Goplanami	Goplanin	subst:pl:inst:m1	nazwa pospolita	
 Goplan	Goplanin	subst:pl:acc:m1	nazwa pospolita	
@@ -4817,20 +4817,20 @@ Goplaninowi	Goplanin	subst:sg:dat:m1	nazwa pospolita
 Goplanom	Goplanin	subst:pl:dat:m1	nazwa pospolita	
 Goplany	Goplanin	depr:pl:nom:m2	nazwa pospolita	
 Goplany	Goplanin	depr:pl:voc:m2	nazwa pospolita	
-Gopeł	Gopło	subst:pl:gen:n2	nazwa geograficzna	
-Gople	Gopło	subst:sg:loc:n2	nazwa geograficzna	
-Gopłach	Gopło	subst:pl:loc:n2	nazwa geograficzna	
-Gopła	Gopło	subst:pl:acc:n2	nazwa geograficzna	
-Gopła	Gopło	subst:pl:nom:n2	nazwa geograficzna	
-Gopła	Gopło	subst:pl:voc:n2	nazwa geograficzna	
-Gopła	Gopło	subst:sg:gen:n2	nazwa geograficzna	
-Gopłami	Gopło	subst:pl:inst:n2	nazwa geograficzna	
-Gopłem	Gopło	subst:sg:inst:n2	nazwa geograficzna	
-Gopło	Gopło	subst:sg:acc:n2	nazwa geograficzna	
-Gopło	Gopło	subst:sg:nom:n2	nazwa geograficzna	
-Gopło	Gopło	subst:sg:voc:n2	nazwa geograficzna	
-Gopłom	Gopło	subst:pl:dat:n2	nazwa geograficzna	
-Gopłu	Gopło	subst:sg:dat:n2	nazwa geograficzna	
+Gopeł	Gopło	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gople	Gopło	subst:sg:loc:n:ncol	nazwa geograficzna	
+Gopłach	Gopło	subst:pl:loc:n:ncol	nazwa geograficzna	
+Gopła	Gopło	subst:pl:acc:n:ncol	nazwa geograficzna	
+Gopła	Gopło	subst:pl:nom:n:ncol	nazwa geograficzna	
+Gopła	Gopło	subst:pl:voc:n:ncol	nazwa geograficzna	
+Gopła	Gopło	subst:sg:gen:n:ncol	nazwa geograficzna	
+Gopłami	Gopło	subst:pl:inst:n:ncol	nazwa geograficzna	
+Gopłem	Gopło	subst:sg:inst:n:ncol	nazwa geograficzna	
+Gopło	Gopło	subst:sg:acc:n:ncol	nazwa geograficzna	
+Gopło	Gopło	subst:sg:nom:n:ncol	nazwa geograficzna	
+Gopło	Gopło	subst:sg:voc:n:ncol	nazwa geograficzna	
+Gopłom	Gopło	subst:pl:dat:n:ncol	nazwa geograficzna	
+Gopłu	Gopło	subst:sg:dat:n:ncol	nazwa geograficzna	
 GOPR-ach	GOPR	subst:pl:loc:m3	nazwa organizacji	
 GOPR-ami	GOPR	subst:pl:inst:m3	nazwa organizacji	
 GOPR-em	GOPR	subst:sg:inst:m3	nazwa organizacji	
@@ -4877,20 +4877,20 @@ Gorbaczowów	Gorbaczow	subst:pl:acc:m1	nazwisko
 Gorbaczowów	Gorbaczow	subst:pl:gen:m1	nazwisko	
 Gorbaczowy	Gorbaczow	depr:pl:nom:m2	nazwisko	
 Gorbaczowy	Gorbaczow	depr:pl:voc:m2	nazwisko	
-Gorcach	Gorce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gorcach	Gorce	subst:pl:loc:p3	nazwa geograficzna	
-Gorcami	Gorce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gorcami	Gorce	subst:pl:inst:p3	nazwa geograficzna	
-Gorce	Gorce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Gorce	Gorce	subst:pl:acc:p3	nazwa geograficzna	
-Gorce	Gorce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Gorce	Gorce	subst:pl:nom:p3	nazwa geograficzna	
-Gorce	Gorce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Gorce	Gorce	subst:pl:voc:p3	nazwa geograficzna	
-Gorcom	Gorce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gorcom	Gorce	subst:pl:dat:p3	nazwa geograficzna	
-Gorców	Gorce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gorców	Gorce	subst:pl:gen:p3	nazwa geograficzna	
+Gorcach	Gorce	subst:pl:loc:n:pt	nazwa geograficzna	
+Gorcach	Gorce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gorcami	Gorce	subst:pl:inst:n:pt	nazwa geograficzna	
+Gorcami	Gorce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gorce	Gorce	subst:pl:acc:n:pt	nazwa geograficzna	
+Gorce	Gorce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Gorce	Gorce	subst:pl:nom:n:pt	nazwa geograficzna	
+Gorce	Gorce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Gorce	Gorce	subst:pl:voc:n:pt	nazwa geograficzna	
+Gorce	Gorce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Gorcom	Gorce	subst:pl:dat:n:pt	nazwa geograficzna	
+Gorcom	Gorce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Gorców	Gorce	subst:pl:gen:n:pt	nazwa geograficzna	
+Gorców	Gorce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Gorgoncjuszach	Gorgoncjusz	subst:pl:loc:m1	imię	
 Gorgoncjusza	Gorgoncjusz	subst:sg:acc:m1	imię	
 Gorgoncjusza	Gorgoncjusz	subst:sg:gen:m1	imię	
@@ -4925,20 +4925,20 @@ Gorkim	Gorki	subst:pl:dat:m1	nazwisko
 Gorkim	Gorki	subst:sg:inst:m1	nazwisko	
 Gorkim	Gorki	subst:sg:loc:m1	nazwisko	
 Gorkimi	Gorki	subst:pl:inst:m1	nazwisko	
-Gorlicach	Gorlice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gorlicach	Gorlice	subst:pl:loc:p3	nazwa geograficzna	
-Gorlicami	Gorlice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gorlicami	Gorlice	subst:pl:inst:p3	nazwa geograficzna	
-Gorlice	Gorlice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Gorlice	Gorlice	subst:pl:acc:p3	nazwa geograficzna	
-Gorlice	Gorlice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Gorlice	Gorlice	subst:pl:nom:p3	nazwa geograficzna	
-Gorlice	Gorlice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Gorlice	Gorlice	subst:pl:voc:p3	nazwa geograficzna	
-Gorlic	Gorlice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gorlic	Gorlice	subst:pl:gen:p3	nazwa geograficzna	
-Gorlicom	Gorlice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gorlicom	Gorlice	subst:pl:dat:p3	nazwa geograficzna	
+Gorlicach	Gorlice	subst:pl:loc:n:pt	nazwa geograficzna	
+Gorlicach	Gorlice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gorlicami	Gorlice	subst:pl:inst:n:pt	nazwa geograficzna	
+Gorlicami	Gorlice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gorlice	Gorlice	subst:pl:acc:n:pt	nazwa geograficzna	
+Gorlice	Gorlice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Gorlice	Gorlice	subst:pl:nom:n:pt	nazwa geograficzna	
+Gorlice	Gorlice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Gorlice	Gorlice	subst:pl:voc:n:pt	nazwa geograficzna	
+Gorlice	Gorlice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Gorlic	Gorlice	subst:pl:gen:n:pt	nazwa geograficzna	
+Gorlic	Gorlice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Gorlicom	Gorlice	subst:pl:dat:n:pt	nazwa geograficzna	
+Gorlicom	Gorlice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Goryszewska	Goryszewska	subst:sg:nom:f	nazwisko	
 Goryszewska	Goryszewska	subst:sg:voc:f	nazwisko	
 Goryszewską	Goryszewska	subst:sg:acc:f	nazwisko	
@@ -4969,20 +4969,20 @@ Goryszewskim	Goryszewski	subst:pl:dat:m1	nazwisko
 Goryszewskim	Goryszewski	subst:sg:inst:m1	nazwisko	
 Goryszewskim	Goryszewski	subst:sg:loc:m1	nazwisko	
 Goryszewskimi	Goryszewski	subst:pl:inst:m1	nazwisko	
-Gorzkowicach	Gorzkowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gorzkowicach	Gorzkowice	subst:pl:loc:p3	nazwa geograficzna	
-Gorzkowicami	Gorzkowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gorzkowicami	Gorzkowice	subst:pl:inst:p3	nazwa geograficzna	
-Gorzkowice	Gorzkowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Gorzkowice	Gorzkowice	subst:pl:acc:p3	nazwa geograficzna	
-Gorzkowice	Gorzkowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Gorzkowice	Gorzkowice	subst:pl:nom:p3	nazwa geograficzna	
-Gorzkowice	Gorzkowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Gorzkowice	Gorzkowice	subst:pl:voc:p3	nazwa geograficzna	
-Gorzkowic	Gorzkowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gorzkowic	Gorzkowice	subst:pl:gen:p3	nazwa geograficzna	
-Gorzkowicom	Gorzkowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gorzkowicom	Gorzkowice	subst:pl:dat:p3	nazwa geograficzna	
+Gorzkowicach	Gorzkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Gorzkowicach	Gorzkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gorzkowicami	Gorzkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Gorzkowicami	Gorzkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gorzkowice	Gorzkowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Gorzkowice	Gorzkowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Gorzkowice	Gorzkowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Gorzkowice	Gorzkowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Gorzkowice	Gorzkowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Gorzkowice	Gorzkowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Gorzkowic	Gorzkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Gorzkowic	Gorzkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Gorzkowicom	Gorzkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Gorzkowicom	Gorzkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Gorzkowach	Gorzków	subst:pl:loc:m3	nazwa geograficzna	
 Gorzkowa	Gorzków	subst:sg:gen:m3	nazwa geograficzna	
 Gorzkowami	Gorzków	subst:pl:inst:m3	nazwa geograficzna	
@@ -4998,20 +4998,20 @@ Gorzkowy	Gorzków	subst:pl:nom:m3	nazwa geograficzna
 Gorzkowy	Gorzków	subst:pl:voc:m3	nazwa geograficzna	
 Gorzków	Gorzków	subst:sg:acc:m3	nazwa geograficzna	
 Gorzków	Gorzków	subst:sg:nom:m3	nazwa geograficzna	
-Gorzowskich	Gorzowskie	subst:pl:gen:n2	nazwa geograficzna	
-Gorzowskich	Gorzowskie	subst:pl:loc:n2	nazwa geograficzna	
-Gorzowskiego	Gorzowskie	subst:sg:gen:n2	nazwa geograficzna	
-Gorzowskie	Gorzowskie	subst:pl:acc:n2	nazwa geograficzna	
-Gorzowskie	Gorzowskie	subst:pl:nom:n2	nazwa geograficzna	
-Gorzowskie	Gorzowskie	subst:pl:voc:n2	nazwa geograficzna	
-Gorzowskie	Gorzowskie	subst:sg:acc:n2	nazwa geograficzna	
-Gorzowskie	Gorzowskie	subst:sg:nom:n2	nazwa geograficzna	
-Gorzowskie	Gorzowskie	subst:sg:voc:n2	nazwa geograficzna	
-Gorzowskiem	Gorzowskie	subst:sg:inst:n2	nazwa geograficzna	
-Gorzowskiem	Gorzowskie	subst:sg:loc:n2	nazwa geograficzna	
-Gorzowskiemu	Gorzowskie	subst:sg:dat:n2	nazwa geograficzna	
-Gorzowskim	Gorzowskie	subst:pl:dat:n2	nazwa geograficzna	
-Gorzowskimi	Gorzowskie	subst:pl:inst:n2	nazwa geograficzna	
+Gorzowskich	Gorzowskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gorzowskich	Gorzowskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Gorzowskiego	Gorzowskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Gorzowskie	Gorzowskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Gorzowskie	Gorzowskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Gorzowskie	Gorzowskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Gorzowskie	Gorzowskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Gorzowskie	Gorzowskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Gorzowskie	Gorzowskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Gorzowskiem	Gorzowskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Gorzowskiem	Gorzowskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Gorzowskiemu	Gorzowskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Gorzowskim	Gorzowskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Gorzowskimi	Gorzowskie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Gorzowach	Gorzów	subst:pl:loc:m3	nazwa geograficzna	
 Gorzowa	Gorzów	subst:sg:gen:m3	nazwa geograficzna	
 Gorzowami	Gorzów	subst:pl:inst:m3	nazwa geograficzna	
@@ -5041,20 +5041,20 @@ Gorzupi	Gorzupia	subst:sg:gen:f	nazwa geograficzna
 Gorzupi	Gorzupia	subst:sg:loc:f	nazwa geograficzna	
 Gorzupio	Gorzupia	subst:sg:voc:f	nazwa geograficzna	
 Gorzupiom	Gorzupia	subst:pl:dat:f	nazwa geograficzna	
-Gorzycach	Gorzyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gorzycach	Gorzyce	subst:pl:loc:p3	nazwa geograficzna	
-Gorzycami	Gorzyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gorzycami	Gorzyce	subst:pl:inst:p3	nazwa geograficzna	
-Gorzyce	Gorzyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Gorzyce	Gorzyce	subst:pl:acc:p3	nazwa geograficzna	
-Gorzyce	Gorzyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Gorzyce	Gorzyce	subst:pl:nom:p3	nazwa geograficzna	
-Gorzyce	Gorzyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Gorzyce	Gorzyce	subst:pl:voc:p3	nazwa geograficzna	
-Gorzyc	Gorzyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gorzyc	Gorzyce	subst:pl:gen:p3	nazwa geograficzna	
-Gorzycom	Gorzyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gorzycom	Gorzyce	subst:pl:dat:p3	nazwa geograficzna	
+Gorzycach	Gorzyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Gorzycach	Gorzyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gorzycami	Gorzyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Gorzycami	Gorzyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gorzyce	Gorzyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Gorzyce	Gorzyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Gorzyce	Gorzyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Gorzyce	Gorzyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Gorzyce	Gorzyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Gorzyce	Gorzyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Gorzyc	Gorzyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Gorzyc	Gorzyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Gorzycom	Gorzyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Gorzycom	Gorzyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Gorzysławach	Gorzysław	subst:pl:loc:m1	imię	
 Gorzysława	Gorzysław	subst:sg:acc:m1	imię	
 Gorzysława	Gorzysław	subst:sg:gen:m1	imię	
@@ -5223,22 +5223,22 @@ Gościeradowy	Gościeradów	subst:pl:nom:m3	nazwa geograficzna
 Gościeradowy	Gościeradów	subst:pl:voc:m3	nazwa geograficzna	
 Gościeradów	Gościeradów	subst:sg:acc:m3	nazwa geograficzna	
 Gościeradów	Gościeradów	subst:sg:nom:m3	nazwa geograficzna	
-Gościkowach	Gościkowo	subst:pl:loc:n2	nazwa geograficzna	
-Gościkowa	Gościkowo	subst:pl:acc:n2	nazwa geograficzna	
-Gościkowa	Gościkowo	subst:pl:nom:n2	nazwa geograficzna	
-Gościkowa	Gościkowo	subst:pl:voc:n2	nazwa geograficzna	
-Gościkowa	Gościkowo	subst:sg:gen:n2	nazwa geograficzna	
-Gościkowami	Gościkowo	subst:pl:inst:n2	nazwa geograficzna	
-Gościkowem	Gościkowo	subst:sg:inst:n2	nazwa geograficzna	
-Gościkow	Gościkowo	subst:pl:gen:n2	nazwa geograficzna	
-Gościkowie	Gościkowo	subst:sg:loc:n2	nazwa geograficzna	
-Gościkowo	Gościkowo	subst:sg:acc:n2	nazwa geograficzna	
-Gościkowo	Gościkowo	subst:sg:nom:n2	nazwa geograficzna	
-Gościkowo	Gościkowo	subst:sg:voc:n2	nazwa geograficzna	
-Gościkowom	Gościkowo	subst:pl:dat:n2	nazwa geograficzna	
-Gościkowów	Gościkowo	subst:pl:gen:n2	nazwa geograficzna	
-Gościkowu	Gościkowo	subst:sg:dat:n2	nazwa geograficzna	
-Gościków	Gościkowo	subst:pl:gen:n2	nazwa geograficzna	
+Gościkowach	Gościkowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Gościkowa	Gościkowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Gościkowa	Gościkowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Gościkowa	Gościkowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Gościkowa	Gościkowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Gościkowami	Gościkowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Gościkowem	Gościkowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Gościkow	Gościkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gościkowie	Gościkowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Gościkowo	Gościkowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Gościkowo	Gościkowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Gościkowo	Gościkowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Gościkowom	Gościkowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Gościkowów	Gościkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gościkowu	Gościkowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Gościków	Gościkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Gościmile	Gościmił	subst:sg:loc:m1	imię	
 Gościmile	Gościmił	subst:sg:voc:m1	imię	
 Gościmiłach	Gościmił	subst:pl:loc:m1	imię	
@@ -5527,22 +5527,22 @@ Gowarczowy	Gowarczów	subst:pl:nom:m3	nazwa geograficzna
 Gowarczowy	Gowarczów	subst:pl:voc:m3	nazwa geograficzna	
 Gowarczów	Gowarczów	subst:sg:acc:m3	nazwa geograficzna	
 Gowarczów	Gowarczów	subst:sg:nom:m3	nazwa geograficzna	
-Goworowach	Goworowo	subst:pl:loc:n2	nazwa geograficzna	
-Goworowa	Goworowo	subst:pl:acc:n2	nazwa geograficzna	
-Goworowa	Goworowo	subst:pl:nom:n2	nazwa geograficzna	
-Goworowa	Goworowo	subst:pl:voc:n2	nazwa geograficzna	
-Goworowa	Goworowo	subst:sg:gen:n2	nazwa geograficzna	
-Goworowami	Goworowo	subst:pl:inst:n2	nazwa geograficzna	
-Goworowem	Goworowo	subst:sg:inst:n2	nazwa geograficzna	
-Goworow	Goworowo	subst:pl:gen:n2	nazwa geograficzna	
-Goworowie	Goworowo	subst:sg:loc:n2	nazwa geograficzna	
-Goworowo	Goworowo	subst:sg:acc:n2	nazwa geograficzna	
-Goworowo	Goworowo	subst:sg:nom:n2	nazwa geograficzna	
-Goworowo	Goworowo	subst:sg:voc:n2	nazwa geograficzna	
-Goworowom	Goworowo	subst:pl:dat:n2	nazwa geograficzna	
-Goworowów	Goworowo	subst:pl:gen:n2	nazwa geograficzna	
-Goworowu	Goworowo	subst:sg:dat:n2	nazwa geograficzna	
-Goworów	Goworowo	subst:pl:gen:n2	nazwa geograficzna	
+Goworowach	Goworowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Goworowa	Goworowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Goworowa	Goworowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Goworowa	Goworowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Goworowa	Goworowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Goworowami	Goworowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Goworowem	Goworowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Goworow	Goworowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Goworowie	Goworowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Goworowo	Goworowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Goworowo	Goworowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Goworowo	Goworowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Goworowom	Goworowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Goworowów	Goworowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Goworowu	Goworowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Goworów	Goworowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Goi	Goya	subst:sg:dat:m1	nazwisko	
 Goi	Goya	subst:sg:gen:m1	nazwisko	
 Goi	Goya	subst:sg:loc:m1	nazwisko	
@@ -5573,22 +5573,22 @@ Gozdnicom	Gozdnica	subst:pl:dat:f	nazwa geograficzna
 Gozdnicy	Gozdnica	subst:sg:dat:f	nazwa geograficzna	
 Gozdnicy	Gozdnica	subst:sg:gen:f	nazwa geograficzna	
 Gozdnicy	Gozdnica	subst:sg:loc:f	nazwa geograficzna	
-Gozdowach	Gozdowo	subst:pl:loc:n2	nazwa geograficzna	
-Gozdowa	Gozdowo	subst:pl:acc:n2	nazwa geograficzna	
-Gozdowa	Gozdowo	subst:pl:nom:n2	nazwa geograficzna	
-Gozdowa	Gozdowo	subst:pl:voc:n2	nazwa geograficzna	
-Gozdowa	Gozdowo	subst:sg:gen:n2	nazwa geograficzna	
-Gozdowami	Gozdowo	subst:pl:inst:n2	nazwa geograficzna	
-Gozdowem	Gozdowo	subst:sg:inst:n2	nazwa geograficzna	
-Gozdow	Gozdowo	subst:pl:gen:n2	nazwa geograficzna	
-Gozdowie	Gozdowo	subst:sg:loc:n2	nazwa geograficzna	
-Gozdowo	Gozdowo	subst:sg:acc:n2	nazwa geograficzna	
-Gozdowo	Gozdowo	subst:sg:nom:n2	nazwa geograficzna	
-Gozdowo	Gozdowo	subst:sg:voc:n2	nazwa geograficzna	
-Gozdowom	Gozdowo	subst:pl:dat:n2	nazwa geograficzna	
-Gozdowów	Gozdowo	subst:pl:gen:n2	nazwa geograficzna	
-Gozdowu	Gozdowo	subst:sg:dat:n2	nazwa geograficzna	
-Gozdów	Gozdowo	subst:pl:gen:n2	nazwa geograficzna	
+Gozdowach	Gozdowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Gozdowa	Gozdowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Gozdowa	Gozdowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Gozdowa	Gozdowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Gozdowa	Gozdowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Gozdowami	Gozdowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Gozdowem	Gozdowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Gozdow	Gozdowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gozdowie	Gozdowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Gozdowo	Gozdowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Gozdowo	Gozdowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Gozdowo	Gozdowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Gozdowom	Gozdowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Gozdowów	Gozdowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gozdowu	Gozdowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Gozdów	Gozdowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Górach	Góra	subst:pl:loc:m1	nazwisko	
 Góra	Góra	subst:sg:nom:m1	nazwisko	
 Górami	Góra	subst:pl:inst:m1	nazwisko	
@@ -5759,22 +5759,22 @@ Górnym	Górny	subst:pl:dat:m1	nazwisko
 Górnym	Górny	subst:sg:inst:m1	nazwisko	
 Górnym	Górny	subst:sg:loc:m1	nazwisko	
 Górnymi	Górny	subst:pl:inst:m1	nazwisko	
-Górowach	Górowo	subst:pl:loc:n2	nazwa geograficzna	
-Górowa	Górowo	subst:pl:acc:n2	nazwa geograficzna	
-Górowa	Górowo	subst:pl:nom:n2	nazwa geograficzna	
-Górowa	Górowo	subst:pl:voc:n2	nazwa geograficzna	
-Górowa	Górowo	subst:sg:gen:n2	nazwa geograficzna	
-Górowami	Górowo	subst:pl:inst:n2	nazwa geograficzna	
-Górowem	Górowo	subst:sg:inst:n2	nazwa geograficzna	
-Górow	Górowo	subst:pl:gen:n2	nazwa geograficzna	
-Górowie	Górowo	subst:sg:loc:n2	nazwa geograficzna	
-Górowo	Górowo	subst:sg:acc:n2	nazwa geograficzna	
-Górowo	Górowo	subst:sg:nom:n2	nazwa geograficzna	
-Górowo	Górowo	subst:sg:voc:n2	nazwa geograficzna	
-Górowom	Górowo	subst:pl:dat:n2	nazwa geograficzna	
-Górowów	Górowo	subst:pl:gen:n2	nazwa geograficzna	
-Górowu	Górowo	subst:sg:dat:n2	nazwa geograficzna	
-Górów	Górowo	subst:pl:gen:n2	nazwa geograficzna	
+Górowach	Górowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Górowa	Górowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Górowa	Górowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Górowa	Górowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Górowa	Górowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Górowami	Górowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Górowem	Górowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Górow	Górowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Górowie	Górowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Górowo	Górowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Górowo	Górowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Górowo	Górowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Górowom	Górowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Górowów	Górowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Górowu	Górowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Górów	Górowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Górscy	Górski	subst:pl:nom:m1	nazwisko	
 Górscy	Górski	subst:pl:voc:m1	nazwisko	
 Górskich	Górski	subst:pl:acc:m1	nazwisko	
@@ -5919,20 +5919,20 @@ GPS-u	GPS	subst:sg:gen:m3	nazwa pospolita
 GPS-y	GPS	subst:pl:acc:m3	nazwa pospolita	
 GPS-y	GPS	subst:pl:nom:m3	nazwa pospolita	
 GPS-y	GPS	subst:pl:voc:m3	nazwa pospolita	
-GPU	GPU	subst:pl:acc:n2	nazwa organizacji	
-GPU	GPU	subst:pl:dat:n2	nazwa organizacji	
-GPU	GPU	subst:pl:gen:n2	nazwa organizacji	
-GPU	GPU	subst:pl:inst:n2	nazwa organizacji	
-GPU	GPU	subst:pl:loc:n2	nazwa organizacji	
-GPU	GPU	subst:pl:nom:n2	nazwa organizacji	
-GPU	GPU	subst:pl:voc:n2	nazwa organizacji	
-GPU	GPU	subst:sg:acc:n2	nazwa organizacji	
-GPU	GPU	subst:sg:dat:n2	nazwa organizacji	
-GPU	GPU	subst:sg:gen:n2	nazwa organizacji	
-GPU	GPU	subst:sg:inst:n2	nazwa organizacji	
-GPU	GPU	subst:sg:loc:n2	nazwa organizacji	
-GPU	GPU	subst:sg:nom:n2	nazwa organizacji	
-GPU	GPU	subst:sg:voc:n2	nazwa organizacji	
+GPU	GPU	subst:pl:acc:n:ncol	nazwa organizacji	
+GPU	GPU	subst:pl:dat:n:ncol	nazwa organizacji	
+GPU	GPU	subst:pl:gen:n:ncol	nazwa organizacji	
+GPU	GPU	subst:pl:inst:n:ncol	nazwa organizacji	
+GPU	GPU	subst:pl:loc:n:ncol	nazwa organizacji	
+GPU	GPU	subst:pl:nom:n:ncol	nazwa organizacji	
+GPU	GPU	subst:pl:voc:n:ncol	nazwa organizacji	
+GPU	GPU	subst:sg:acc:n:ncol	nazwa organizacji	
+GPU	GPU	subst:sg:dat:n:ncol	nazwa organizacji	
+GPU	GPU	subst:sg:gen:n:ncol	nazwa organizacji	
+GPU	GPU	subst:sg:inst:n:ncol	nazwa organizacji	
+GPU	GPU	subst:sg:loc:n:ncol	nazwa organizacji	
+GPU	GPU	subst:sg:nom:n:ncol	nazwa organizacji	
+GPU	GPU	subst:sg:voc:n:ncol	nazwa organizacji	
 Grabarczykach	Grabarczyk	subst:pl:loc:m1	nazwisko	
 Grabarczyka	Grabarczyk	subst:sg:acc:m1	nazwisko	
 Grabarczyka	Grabarczyk	subst:sg:gen:m1	nazwisko	
@@ -6023,22 +6023,22 @@ Grabnym	Grabny	subst:pl:dat:m1	nazwisko
 Grabnym	Grabny	subst:sg:inst:m1	nazwisko	
 Grabnym	Grabny	subst:sg:loc:m1	nazwisko	
 Grabnymi	Grabny	subst:pl:inst:m1	nazwisko	
-Grabowach	Grabowo	subst:pl:loc:n2	nazwa geograficzna	
-Grabowa	Grabowo	subst:pl:acc:n2	nazwa geograficzna	
-Grabowa	Grabowo	subst:pl:nom:n2	nazwa geograficzna	
-Grabowa	Grabowo	subst:pl:voc:n2	nazwa geograficzna	
-Grabowa	Grabowo	subst:sg:gen:n2	nazwa geograficzna	
-Grabowami	Grabowo	subst:pl:inst:n2	nazwa geograficzna	
-Grabowem	Grabowo	subst:sg:inst:n2	nazwa geograficzna	
-Grabow	Grabowo	subst:pl:gen:n2	nazwa geograficzna	
-Grabowie	Grabowo	subst:sg:loc:n2	nazwa geograficzna	
-Grabowo	Grabowo	subst:sg:acc:n2	nazwa geograficzna	
-Grabowo	Grabowo	subst:sg:nom:n2	nazwa geograficzna	
-Grabowo	Grabowo	subst:sg:voc:n2	nazwa geograficzna	
-Grabowom	Grabowo	subst:pl:dat:n2	nazwa geograficzna	
-Grabowów	Grabowo	subst:pl:gen:n2	nazwa geograficzna	
-Grabowu	Grabowo	subst:sg:dat:n2	nazwa geograficzna	
-Grabów	Grabowo	subst:pl:gen:n2	nazwa geograficzna	
+Grabowach	Grabowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Grabowa	Grabowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Grabowa	Grabowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Grabowa	Grabowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Grabowa	Grabowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Grabowami	Grabowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Grabowem	Grabowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Grabow	Grabowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Grabowie	Grabowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Grabowo	Grabowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Grabowo	Grabowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Grabowo	Grabowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Grabowom	Grabowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Grabowów	Grabowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Grabowu	Grabowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Grabów	Grabowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Grabowska	Grabowska	subst:sg:nom:f	nazwisko	
 Grabowska	Grabowska	subst:sg:voc:f	nazwisko	
 Grabowską	Grabowska	subst:sg:acc:f	nazwisko	
@@ -6239,20 +6239,20 @@ Grahamów	Graham	subst:pl:acc:m1	nazwisko
 Grahamów	Graham	subst:pl:gen:m1	nazwisko	
 Grahamy	Graham	depr:pl:nom:m2	nazwisko	
 Grahamy	Graham	depr:pl:voc:m2	nazwisko	
-Grajewach	Grajewo	subst:pl:loc:n2	nazwa geograficzna	
-Grajewa	Grajewo	subst:pl:acc:n2	nazwa geograficzna	
-Grajewa	Grajewo	subst:pl:nom:n2	nazwa geograficzna	
-Grajewa	Grajewo	subst:pl:voc:n2	nazwa geograficzna	
-Grajewa	Grajewo	subst:sg:gen:n2	nazwa geograficzna	
-Grajewami	Grajewo	subst:pl:inst:n2	nazwa geograficzna	
-Grajewem	Grajewo	subst:sg:inst:n2	nazwa geograficzna	
-Grajew	Grajewo	subst:pl:gen:n2	nazwa geograficzna	
-Grajewie	Grajewo	subst:sg:loc:n2	nazwa geograficzna	
-Grajewo	Grajewo	subst:sg:acc:n2	nazwa geograficzna	
-Grajewo	Grajewo	subst:sg:nom:n2	nazwa geograficzna	
-Grajewo	Grajewo	subst:sg:voc:n2	nazwa geograficzna	
-Grajewom	Grajewo	subst:pl:dat:n2	nazwa geograficzna	
-Grajewu	Grajewo	subst:sg:dat:n2	nazwa geograficzna	
+Grajewach	Grajewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Grajewa	Grajewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Grajewa	Grajewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Grajewa	Grajewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Grajewa	Grajewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Grajewami	Grajewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Grajewem	Grajewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Grajew	Grajewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Grajewie	Grajewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Grajewo	Grajewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Grajewo	Grajewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Grajewo	Grajewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Grajewom	Grajewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Grajewu	Grajewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Gralcach	Gralec	subst:pl:loc:m1	nazwisko	
 Gralca	Gralec	subst:sg:acc:m1	nazwisko	
 Gralca	Gralec	subst:sg:gen:m1	nazwisko	
@@ -6287,22 +6287,22 @@ Gramscim	Gramsci	subst:sg:loc:m1	nazwisko
 Gramscimi	Gramsci	subst:pl:inst:m1	nazwisko	
 Gramsciowie	Gramsci	subst:pl:nom:m1	nazwisko	
 Gramsciowie	Gramsci	subst:pl:voc:m1	nazwisko	
-Granowach	Granowo	subst:pl:loc:n2	nazwa geograficzna	
-Granowa	Granowo	subst:pl:acc:n2	nazwa geograficzna	
-Granowa	Granowo	subst:pl:nom:n2	nazwa geograficzna	
-Granowa	Granowo	subst:pl:voc:n2	nazwa geograficzna	
-Granowa	Granowo	subst:sg:gen:n2	nazwa geograficzna	
-Granowami	Granowo	subst:pl:inst:n2	nazwa geograficzna	
-Granowem	Granowo	subst:sg:inst:n2	nazwa geograficzna	
-Granow	Granowo	subst:pl:gen:n2	nazwa geograficzna	
-Granowie	Granowo	subst:sg:loc:n2	nazwa geograficzna	
-Granowo	Granowo	subst:sg:acc:n2	nazwa geograficzna	
-Granowo	Granowo	subst:sg:nom:n2	nazwa geograficzna	
-Granowo	Granowo	subst:sg:voc:n2	nazwa geograficzna	
-Granowom	Granowo	subst:pl:dat:n2	nazwa geograficzna	
-Granowów	Granowo	subst:pl:gen:n2	nazwa geograficzna	
-Granowu	Granowo	subst:sg:dat:n2	nazwa geograficzna	
-Granów	Granowo	subst:pl:gen:n2	nazwa geograficzna	
+Granowach	Granowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Granowa	Granowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Granowa	Granowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Granowa	Granowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Granowa	Granowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Granowami	Granowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Granowem	Granowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Granow	Granowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Granowie	Granowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Granowo	Granowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Granowo	Granowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Granowo	Granowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Granowom	Granowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Granowów	Granowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Granowu	Granowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Granów	Granowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Grancie	Grant	subst:sg:loc:m1	nazwisko	
 Grancie	Grant	subst:sg:voc:m1	nazwisko	
 Grantach	Grant	subst:pl:loc:m1	nazwisko	
@@ -6461,22 +6461,22 @@ Greczynkom	Greczynka	subst:pl:dat:f	nazwa pospolita
 Greenpeace’ach	Greenpeace	subst:pl:loc:m3	nazwa organizacji	
 Greenpeace’ami	Greenpeace	subst:pl:inst:m3	nazwa organizacji	
 Greenpeace’em	Greenpeace	subst:sg:inst:m3	nazwa organizacji	
-Greenpeace	Greenpeace	subst:pl:acc:n2	nazwa organizacji	
-Greenpeace	Greenpeace	subst:pl:dat:n2	nazwa organizacji	
-Greenpeace	Greenpeace	subst:pl:gen:n2	nazwa organizacji	
-Greenpeace	Greenpeace	subst:pl:inst:n2	nazwa organizacji	
-Greenpeace	Greenpeace	subst:pl:loc:n2	nazwa organizacji	
-Greenpeace	Greenpeace	subst:pl:nom:n2	nazwa organizacji	
-Greenpeace	Greenpeace	subst:pl:voc:n2	nazwa organizacji	
+Greenpeace	Greenpeace	subst:pl:acc:n:ncol	nazwa organizacji	
+Greenpeace	Greenpeace	subst:pl:dat:n:ncol	nazwa organizacji	
+Greenpeace	Greenpeace	subst:pl:gen:n:ncol	nazwa organizacji	
+Greenpeace	Greenpeace	subst:pl:inst:n:ncol	nazwa organizacji	
+Greenpeace	Greenpeace	subst:pl:loc:n:ncol	nazwa organizacji	
+Greenpeace	Greenpeace	subst:pl:nom:n:ncol	nazwa organizacji	
+Greenpeace	Greenpeace	subst:pl:voc:n:ncol	nazwa organizacji	
 Greenpeace	Greenpeace	subst:sg:acc:m3	nazwa organizacji	
-Greenpeace	Greenpeace	subst:sg:acc:n2	nazwa organizacji	
-Greenpeace	Greenpeace	subst:sg:dat:n2	nazwa organizacji	
-Greenpeace	Greenpeace	subst:sg:gen:n2	nazwa organizacji	
-Greenpeace	Greenpeace	subst:sg:inst:n2	nazwa organizacji	
-Greenpeace	Greenpeace	subst:sg:loc:n2	nazwa organizacji	
+Greenpeace	Greenpeace	subst:sg:acc:n:ncol	nazwa organizacji	
+Greenpeace	Greenpeace	subst:sg:dat:n:ncol	nazwa organizacji	
+Greenpeace	Greenpeace	subst:sg:gen:n:ncol	nazwa organizacji	
+Greenpeace	Greenpeace	subst:sg:inst:n:ncol	nazwa organizacji	
+Greenpeace	Greenpeace	subst:sg:loc:n:ncol	nazwa organizacji	
 Greenpeace	Greenpeace	subst:sg:nom:m3	nazwa organizacji	
-Greenpeace	Greenpeace	subst:sg:nom:n2	nazwa organizacji	
-Greenpeace	Greenpeace	subst:sg:voc:n2	nazwa organizacji	
+Greenpeace	Greenpeace	subst:sg:nom:n:ncol	nazwa organizacji	
+Greenpeace	Greenpeace	subst:sg:voc:n:ncol	nazwa organizacji	
 Greenpeace’om	Greenpeace	subst:pl:dat:m3	nazwa organizacji	
 Greenpeace’owi	Greenpeace	subst:sg:dat:m3	nazwa organizacji	
 Greenpeace’ów	Greenpeace	subst:pl:gen:m3	nazwa organizacji	
@@ -6486,20 +6486,20 @@ Greenpeace’y	Greenpeace	subst:pl:nom:m3	nazwa organizacji
 Greenpeace’y	Greenpeace	subst:pl:voc:m3	nazwa organizacji	
 Greenpeasie	Greenpeace	subst:sg:loc:m3	nazwa organizacji	
 Greenpeasie	Greenpeace	subst:sg:voc:m3	nazwa organizacji	
-Greenwich	Greenwich	subst:pl:acc:n2	nazwa geograficzna	
-Greenwich	Greenwich	subst:pl:dat:n2	nazwa geograficzna	
-Greenwich	Greenwich	subst:pl:gen:n2	nazwa geograficzna	
-Greenwich	Greenwich	subst:pl:inst:n2	nazwa geograficzna	
-Greenwich	Greenwich	subst:pl:loc:n2	nazwa geograficzna	
-Greenwich	Greenwich	subst:pl:nom:n2	nazwa geograficzna	
-Greenwich	Greenwich	subst:pl:voc:n2	nazwa geograficzna	
-Greenwich	Greenwich	subst:sg:acc:n2	nazwa geograficzna	
-Greenwich	Greenwich	subst:sg:dat:n2	nazwa geograficzna	
-Greenwich	Greenwich	subst:sg:gen:n2	nazwa geograficzna	
-Greenwich	Greenwich	subst:sg:inst:n2	nazwa geograficzna	
-Greenwich	Greenwich	subst:sg:loc:n2	nazwa geograficzna	
-Greenwich	Greenwich	subst:sg:nom:n2	nazwa geograficzna	
-Greenwich	Greenwich	subst:sg:voc:n2	nazwa geograficzna	
+Greenwich	Greenwich	subst:pl:acc:n:ncol	nazwa geograficzna	
+Greenwich	Greenwich	subst:pl:dat:n:ncol	nazwa geograficzna	
+Greenwich	Greenwich	subst:pl:gen:n:ncol	nazwa geograficzna	
+Greenwich	Greenwich	subst:pl:inst:n:ncol	nazwa geograficzna	
+Greenwich	Greenwich	subst:pl:loc:n:ncol	nazwa geograficzna	
+Greenwich	Greenwich	subst:pl:nom:n:ncol	nazwa geograficzna	
+Greenwich	Greenwich	subst:pl:voc:n:ncol	nazwa geograficzna	
+Greenwich	Greenwich	subst:sg:acc:n:ncol	nazwa geograficzna	
+Greenwich	Greenwich	subst:sg:dat:n:ncol	nazwa geograficzna	
+Greenwich	Greenwich	subst:sg:gen:n:ncol	nazwa geograficzna	
+Greenwich	Greenwich	subst:sg:inst:n:ncol	nazwa geograficzna	
+Greenwich	Greenwich	subst:sg:loc:n:ncol	nazwa geograficzna	
+Greenwich	Greenwich	subst:sg:nom:n:ncol	nazwa geograficzna	
+Greenwich	Greenwich	subst:sg:voc:n:ncol	nazwa geograficzna	
 Grecy	Grek	subst:pl:nom:m1	nazwa pospolita	
 Grecy	Grek	subst:pl:voc:m1	nazwa pospolita	
 Grekach	Grek	subst:pl:loc:m1	nazwa pospolita	
@@ -6575,20 +6575,20 @@ Grenlandki	Grenlandka	subst:pl:voc:f	nazwa pospolita
 Grenlandki	Grenlandka	subst:sg:gen:f	nazwa pospolita	
 Grenlandko	Grenlandka	subst:sg:voc:f	nazwa pospolita	
 Grenlandkom	Grenlandka	subst:pl:dat:f	nazwa pospolita	
-Grenoble	Grenoble	subst:pl:acc:n2	nazwa geograficzna	
-Grenoble	Grenoble	subst:pl:dat:n2	nazwa geograficzna	
-Grenoble	Grenoble	subst:pl:gen:n2	nazwa geograficzna	
-Grenoble	Grenoble	subst:pl:inst:n2	nazwa geograficzna	
-Grenoble	Grenoble	subst:pl:loc:n2	nazwa geograficzna	
-Grenoble	Grenoble	subst:pl:nom:n2	nazwa geograficzna	
-Grenoble	Grenoble	subst:pl:voc:n2	nazwa geograficzna	
-Grenoble	Grenoble	subst:sg:acc:n2	nazwa geograficzna	
-Grenoble	Grenoble	subst:sg:dat:n2	nazwa geograficzna	
-Grenoble	Grenoble	subst:sg:gen:n2	nazwa geograficzna	
-Grenoble	Grenoble	subst:sg:inst:n2	nazwa geograficzna	
-Grenoble	Grenoble	subst:sg:loc:n2	nazwa geograficzna	
-Grenoble	Grenoble	subst:sg:nom:n2	nazwa geograficzna	
-Grenoble	Grenoble	subst:sg:voc:n2	nazwa geograficzna	
+Grenoble	Grenoble	subst:pl:acc:n:ncol	nazwa geograficzna	
+Grenoble	Grenoble	subst:pl:dat:n:ncol	nazwa geograficzna	
+Grenoble	Grenoble	subst:pl:gen:n:ncol	nazwa geograficzna	
+Grenoble	Grenoble	subst:pl:inst:n:ncol	nazwa geograficzna	
+Grenoble	Grenoble	subst:pl:loc:n:ncol	nazwa geograficzna	
+Grenoble	Grenoble	subst:pl:nom:n:ncol	nazwa geograficzna	
+Grenoble	Grenoble	subst:pl:voc:n:ncol	nazwa geograficzna	
+Grenoble	Grenoble	subst:sg:acc:n:ncol	nazwa geograficzna	
+Grenoble	Grenoble	subst:sg:dat:n:ncol	nazwa geograficzna	
+Grenoble	Grenoble	subst:sg:gen:n:ncol	nazwa geograficzna	
+Grenoble	Grenoble	subst:sg:inst:n:ncol	nazwa geograficzna	
+Grenoble	Grenoble	subst:sg:loc:n:ncol	nazwa geograficzna	
+Grenoble	Grenoble	subst:sg:nom:n:ncol	nazwa geograficzna	
+Grenoble	Grenoble	subst:sg:voc:n:ncol	nazwa geograficzna	
 Greshamach	Gresham	subst:pl:loc:m1	nazwisko	
 Greshama	Gresham	subst:sg:acc:m1	nazwisko	
 Greshama	Gresham	subst:sg:gen:m1	nazwisko	
@@ -6634,20 +6634,20 @@ Grębkowy	Grębków	subst:pl:nom:m3	nazwa geograficzna
 Grębkowy	Grębków	subst:pl:voc:m3	nazwa geograficzna	
 Grębków	Grębków	subst:sg:acc:m3	nazwa geograficzna	
 Grębków	Grębków	subst:sg:nom:m3	nazwa geograficzna	
-Grębocicach	Grębocice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Grębocicach	Grębocice	subst:pl:loc:p3	nazwa geograficzna	
-Grębocicami	Grębocice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Grębocicami	Grębocice	subst:pl:inst:p3	nazwa geograficzna	
-Grębocice	Grębocice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Grębocice	Grębocice	subst:pl:acc:p3	nazwa geograficzna	
-Grębocice	Grębocice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Grębocice	Grębocice	subst:pl:nom:p3	nazwa geograficzna	
-Grębocice	Grębocice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Grębocice	Grębocice	subst:pl:voc:p3	nazwa geograficzna	
-Grębocic	Grębocice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Grębocic	Grębocice	subst:pl:gen:p3	nazwa geograficzna	
-Grębocicom	Grębocice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Grębocicom	Grębocice	subst:pl:dat:p3	nazwa geograficzna	
+Grębocicach	Grębocice	subst:pl:loc:n:pt	nazwa geograficzna	
+Grębocicach	Grębocice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Grębocicami	Grębocice	subst:pl:inst:n:pt	nazwa geograficzna	
+Grębocicami	Grębocice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Grębocice	Grębocice	subst:pl:acc:n:pt	nazwa geograficzna	
+Grębocice	Grębocice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Grębocice	Grębocice	subst:pl:nom:n:pt	nazwa geograficzna	
+Grębocice	Grębocice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Grębocice	Grębocice	subst:pl:voc:n:pt	nazwa geograficzna	
+Grębocice	Grębocice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Grębocic	Grębocice	subst:pl:gen:n:pt	nazwa geograficzna	
+Grębocic	Grębocice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Grębocicom	Grębocice	subst:pl:dat:n:pt	nazwa geograficzna	
+Grębocicom	Grębocice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Gręboszowach	Gręboszów	subst:pl:loc:m3	nazwa geograficzna	
 Gręboszowa	Gręboszów	subst:sg:gen:m3	nazwa geograficzna	
 Gręboszowami	Gręboszów	subst:pl:inst:m3	nazwa geograficzna	
@@ -6964,20 +6964,20 @@ Grodkowy	Grodków	subst:pl:nom:m3	nazwa geograficzna
 Grodkowy	Grodków	subst:pl:voc:m3	nazwa geograficzna	
 Grodków	Grodków	subst:sg:acc:m3	nazwa geograficzna	
 Grodków	Grodków	subst:sg:nom:m3	nazwa geograficzna	
-Grodnach	Grodno	subst:pl:loc:n2	nazwa geograficzna	
-Grodna	Grodno	subst:pl:acc:n2	nazwa geograficzna	
-Grodna	Grodno	subst:pl:nom:n2	nazwa geograficzna	
-Grodna	Grodno	subst:pl:voc:n2	nazwa geograficzna	
-Grodna	Grodno	subst:sg:gen:n2	nazwa geograficzna	
-Grodnami	Grodno	subst:pl:inst:n2	nazwa geograficzna	
-Grodnem	Grodno	subst:sg:inst:n2	nazwa geograficzna	
-Grodn	Grodno	subst:pl:gen:n2	nazwa geograficzna	
-Grodnie	Grodno	subst:sg:loc:n2	nazwa geograficzna	
-Grodno	Grodno	subst:sg:acc:n2	nazwa geograficzna	
-Grodno	Grodno	subst:sg:nom:n2	nazwa geograficzna	
-Grodno	Grodno	subst:sg:voc:n2	nazwa geograficzna	
-Grodnom	Grodno	subst:pl:dat:n2	nazwa geograficzna	
-Grodnu	Grodno	subst:sg:dat:n2	nazwa geograficzna	
+Grodnach	Grodno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Grodna	Grodno	subst:pl:acc:n:ncol	nazwa geograficzna	
+Grodna	Grodno	subst:pl:nom:n:ncol	nazwa geograficzna	
+Grodna	Grodno	subst:pl:voc:n:ncol	nazwa geograficzna	
+Grodna	Grodno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Grodnami	Grodno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Grodnem	Grodno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Grodn	Grodno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Grodnie	Grodno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Grodno	Grodno	subst:sg:acc:n:ncol	nazwa geograficzna	
+Grodno	Grodno	subst:sg:nom:n:ncol	nazwa geograficzna	
+Grodno	Grodno	subst:sg:voc:n:ncol	nazwa geograficzna	
+Grodnom	Grodno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Grodnu	Grodno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Grodziskach	Grodzisk	subst:pl:loc:m3	nazwa geograficzna	
 Grodziska	Grodzisk	subst:sg:gen:m3	nazwa geograficzna	
 Grodziskami	Grodzisk	subst:pl:inst:m3	nazwa geograficzna	
@@ -6992,20 +6992,20 @@ Grodziskowi	Grodzisk	subst:sg:dat:m3	nazwa geograficzna
 Grodzisków	Grodzisk	subst:pl:gen:m3	nazwa geograficzna	
 Grodzisku	Grodzisk	subst:sg:loc:m3	nazwa geograficzna	
 Grodzisku	Grodzisk	subst:sg:voc:m3	nazwa geograficzna	
-Grodziskach	Grodzisko	subst:pl:loc:n2	nazwa geograficzna	
-Grodziska	Grodzisko	subst:pl:acc:n2	nazwa geograficzna	
-Grodziska	Grodzisko	subst:pl:nom:n2	nazwa geograficzna	
-Grodziska	Grodzisko	subst:pl:voc:n2	nazwa geograficzna	
-Grodziska	Grodzisko	subst:sg:gen:n2	nazwa geograficzna	
-Grodziskami	Grodzisko	subst:pl:inst:n2	nazwa geograficzna	
-Grodzisk	Grodzisko	subst:pl:gen:n2	nazwa geograficzna	
-Grodziskiem	Grodzisko	subst:sg:inst:n2	nazwa geograficzna	
-Grodzisko	Grodzisko	subst:sg:acc:n2	nazwa geograficzna	
-Grodzisko	Grodzisko	subst:sg:nom:n2	nazwa geograficzna	
-Grodzisko	Grodzisko	subst:sg:voc:n2	nazwa geograficzna	
-Grodziskom	Grodzisko	subst:pl:dat:n2	nazwa geograficzna	
-Grodzisku	Grodzisko	subst:sg:dat:n2	nazwa geograficzna	
-Grodzisku	Grodzisko	subst:sg:loc:n2	nazwa geograficzna	
+Grodziskach	Grodzisko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Grodziska	Grodzisko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Grodziska	Grodzisko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Grodziska	Grodzisko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Grodziska	Grodzisko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Grodziskami	Grodzisko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Grodzisk	Grodzisko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Grodziskiem	Grodzisko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Grodzisko	Grodzisko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Grodzisko	Grodzisko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Grodzisko	Grodzisko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Grodziskom	Grodzisko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Grodzisku	Grodzisko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Grodzisku	Grodzisko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Grodzisławach	Grodzisław	subst:pl:loc:m1	imię	
 Grodzisława	Grodzisław	subst:sg:acc:m1	imię	
 Grodzisława	Grodzisław	subst:sg:gen:m1	imię	
@@ -7072,20 +7072,20 @@ Gromykowie	Gromyko	subst:pl:nom:m1	nazwisko
 Gromykowie	Gromyko	subst:pl:voc:m1	nazwisko	
 Gromyków	Gromyko	subst:pl:acc:m1	nazwisko	
 Gromyków	Gromyko	subst:pl:gen:m1	nazwisko	
-Groningen	Groningen	subst:pl:acc:n2	nazwa geograficzna	
-Groningen	Groningen	subst:pl:dat:n2	nazwa geograficzna	
-Groningen	Groningen	subst:pl:gen:n2	nazwa geograficzna	
-Groningen	Groningen	subst:pl:inst:n2	nazwa geograficzna	
-Groningen	Groningen	subst:pl:loc:n2	nazwa geograficzna	
-Groningen	Groningen	subst:pl:nom:n2	nazwa geograficzna	
-Groningen	Groningen	subst:pl:voc:n2	nazwa geograficzna	
-Groningen	Groningen	subst:sg:acc:n2	nazwa geograficzna	
-Groningen	Groningen	subst:sg:dat:n2	nazwa geograficzna	
-Groningen	Groningen	subst:sg:gen:n2	nazwa geograficzna	
-Groningen	Groningen	subst:sg:inst:n2	nazwa geograficzna	
-Groningen	Groningen	subst:sg:loc:n2	nazwa geograficzna	
-Groningen	Groningen	subst:sg:nom:n2	nazwa geograficzna	
-Groningen	Groningen	subst:sg:voc:n2	nazwa geograficzna	
+Groningen	Groningen	subst:pl:acc:n:ncol	nazwa geograficzna	
+Groningen	Groningen	subst:pl:dat:n:ncol	nazwa geograficzna	
+Groningen	Groningen	subst:pl:gen:n:ncol	nazwa geograficzna	
+Groningen	Groningen	subst:pl:inst:n:ncol	nazwa geograficzna	
+Groningen	Groningen	subst:pl:loc:n:ncol	nazwa geograficzna	
+Groningen	Groningen	subst:pl:nom:n:ncol	nazwa geograficzna	
+Groningen	Groningen	subst:pl:voc:n:ncol	nazwa geograficzna	
+Groningen	Groningen	subst:sg:acc:n:ncol	nazwa geograficzna	
+Groningen	Groningen	subst:sg:dat:n:ncol	nazwa geograficzna	
+Groningen	Groningen	subst:sg:gen:n:ncol	nazwa geograficzna	
+Groningen	Groningen	subst:sg:inst:n:ncol	nazwa geograficzna	
+Groningen	Groningen	subst:sg:loc:n:ncol	nazwa geograficzna	
+Groningen	Groningen	subst:sg:nom:n:ncol	nazwa geograficzna	
+Groningen	Groningen	subst:sg:voc:n:ncol	nazwa geograficzna	
 Gronkiewiczach	Gronkiewicz	subst:pl:loc:m1	nazwisko	
 Gronkiewicza	Gronkiewicz	subst:sg:acc:m1	nazwisko	
 Gronkiewicza	Gronkiewicz	subst:sg:gen:m1	nazwisko	
@@ -7104,22 +7104,22 @@ Gronkiewiczów	Gronkiewicz	subst:pl:acc:m1	nazwisko
 Gronkiewiczów	Gronkiewicz	subst:pl:gen:m1	nazwisko	
 Gronkiewiczu	Gronkiewicz	subst:sg:loc:m1	nazwisko	
 Gronkiewiczu	Gronkiewicz	subst:sg:voc:m1	nazwisko	
-Gronowach	Gronowo	subst:pl:loc:n2	nazwa geograficzna	
-Gronowa	Gronowo	subst:pl:acc:n2	nazwa geograficzna	
-Gronowa	Gronowo	subst:pl:nom:n2	nazwa geograficzna	
-Gronowa	Gronowo	subst:pl:voc:n2	nazwa geograficzna	
-Gronowa	Gronowo	subst:sg:gen:n2	nazwa geograficzna	
-Gronowami	Gronowo	subst:pl:inst:n2	nazwa geograficzna	
-Gronowem	Gronowo	subst:sg:inst:n2	nazwa geograficzna	
-Gronow	Gronowo	subst:pl:gen:n2	nazwa geograficzna	
-Gronowie	Gronowo	subst:sg:loc:n2	nazwa geograficzna	
-Gronowo	Gronowo	subst:sg:acc:n2	nazwa geograficzna	
-Gronowo	Gronowo	subst:sg:nom:n2	nazwa geograficzna	
-Gronowo	Gronowo	subst:sg:voc:n2	nazwa geograficzna	
-Gronowom	Gronowo	subst:pl:dat:n2	nazwa geograficzna	
-Gronowów	Gronowo	subst:pl:gen:n2	nazwa geograficzna	
-Gronowu	Gronowo	subst:sg:dat:n2	nazwa geograficzna	
-Gronów	Gronowo	subst:pl:gen:n2	nazwa geograficzna	
+Gronowach	Gronowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Gronowa	Gronowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Gronowa	Gronowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Gronowa	Gronowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Gronowa	Gronowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Gronowami	Gronowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Gronowem	Gronowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Gronow	Gronowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gronowie	Gronowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Gronowo	Gronowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Gronowo	Gronowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Gronowo	Gronowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Gronowom	Gronowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Gronowów	Gronowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gronowu	Gronowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Gronów	Gronowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Gropiusach	Gropius	subst:pl:loc:m1	nazwisko	
 Gropiusa	Gropius	subst:sg:acc:m1	nazwisko	
 Gropiusa	Gropius	subst:sg:gen:m1	nazwisko	
@@ -7152,20 +7152,20 @@ Grossów	Gross	subst:pl:acc:m1	nazwisko
 Grossów	Gross	subst:pl:gen:m1	nazwisko	
 Grossy	Gross	depr:pl:nom:m2	nazwisko	
 Grossy	Gross	depr:pl:voc:m2	nazwisko	
-Gross-Rosen	Gross-Rosen	subst:pl:acc:n2	nazwa geograficzna	
-Gross-Rosen	Gross-Rosen	subst:pl:dat:n2	nazwa geograficzna	
-Gross-Rosen	Gross-Rosen	subst:pl:gen:n2	nazwa geograficzna	
-Gross-Rosen	Gross-Rosen	subst:pl:inst:n2	nazwa geograficzna	
-Gross-Rosen	Gross-Rosen	subst:pl:loc:n2	nazwa geograficzna	
-Gross-Rosen	Gross-Rosen	subst:pl:nom:n2	nazwa geograficzna	
-Gross-Rosen	Gross-Rosen	subst:pl:voc:n2	nazwa geograficzna	
-Gross-Rosen	Gross-Rosen	subst:sg:acc:n2	nazwa geograficzna	
-Gross-Rosen	Gross-Rosen	subst:sg:dat:n2	nazwa geograficzna	
-Gross-Rosen	Gross-Rosen	subst:sg:gen:n2	nazwa geograficzna	
-Gross-Rosen	Gross-Rosen	subst:sg:inst:n2	nazwa geograficzna	
-Gross-Rosen	Gross-Rosen	subst:sg:loc:n2	nazwa geograficzna	
-Gross-Rosen	Gross-Rosen	subst:sg:nom:n2	nazwa geograficzna	
-Gross-Rosen	Gross-Rosen	subst:sg:voc:n2	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:pl:acc:n:ncol	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:pl:dat:n:ncol	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:pl:inst:n:ncol	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:pl:loc:n:ncol	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:pl:nom:n:ncol	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:pl:voc:n:ncol	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:sg:acc:n:ncol	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:sg:dat:n:ncol	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:sg:gen:n:ncol	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:sg:inst:n:ncol	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:sg:loc:n:ncol	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:sg:nom:n:ncol	nazwa geograficzna	
+Gross-Rosen	Gross-Rosen	subst:sg:voc:n:ncol	nazwa geograficzna	
 Grocie	Grot	subst:sg:loc:m1	nazwisko	
 Grocie	Grot	subst:sg:voc:m1	nazwisko	
 Grotach	Grot	subst:pl:loc:m1	nazwisko	
@@ -7515,20 +7515,20 @@ Grybowy	Grybów	subst:pl:nom:m3	nazwa geograficzna
 Grybowy	Grybów	subst:pl:voc:m3	nazwa geograficzna	
 Grybów	Grybów	subst:sg:acc:m3	nazwa geograficzna	
 Grybów	Grybów	subst:sg:nom:m3	nazwa geograficzna	
-Gryficach	Gryfice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Gryficach	Gryfice	subst:pl:loc:p3	nazwa geograficzna	
-Gryficami	Gryfice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Gryficami	Gryfice	subst:pl:inst:p3	nazwa geograficzna	
-Gryfice	Gryfice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Gryfice	Gryfice	subst:pl:acc:p3	nazwa geograficzna	
-Gryfice	Gryfice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Gryfice	Gryfice	subst:pl:nom:p3	nazwa geograficzna	
-Gryfice	Gryfice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Gryfice	Gryfice	subst:pl:voc:p3	nazwa geograficzna	
-Gryfic	Gryfice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Gryfic	Gryfice	subst:pl:gen:p3	nazwa geograficzna	
-Gryficom	Gryfice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Gryficom	Gryfice	subst:pl:dat:p3	nazwa geograficzna	
+Gryficach	Gryfice	subst:pl:loc:n:pt	nazwa geograficzna	
+Gryficach	Gryfice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Gryficami	Gryfice	subst:pl:inst:n:pt	nazwa geograficzna	
+Gryficami	Gryfice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Gryfice	Gryfice	subst:pl:acc:n:pt	nazwa geograficzna	
+Gryfice	Gryfice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Gryfice	Gryfice	subst:pl:nom:n:pt	nazwa geograficzna	
+Gryfice	Gryfice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Gryfice	Gryfice	subst:pl:voc:n:pt	nazwa geograficzna	
+Gryfice	Gryfice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Gryfic	Gryfice	subst:pl:gen:n:pt	nazwa geograficzna	
+Gryfic	Gryfice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Gryficom	Gryfice	subst:pl:dat:n:pt	nazwa geograficzna	
+Gryficom	Gryfice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Gryfowach	Gryfów	subst:pl:loc:m3	nazwa geograficzna	
 Gryfowa	Gryfów	subst:sg:gen:m3	nazwa geograficzna	
 Gryfowami	Gryfów	subst:pl:inst:m3	nazwa geograficzna	
@@ -8165,29 +8165,29 @@ GUS-u	GUS	subst:sg:gen:m3	nazwa instytucji
 GUS-y	GUS	subst:pl:acc:m3	nazwa instytucji	
 GUS-y	GUS	subst:pl:nom:m3	nazwa instytucji	
 GUS-y	GUS	subst:pl:voc:m3	nazwa instytucji	
-GUS-owscy	GUS-owski	adj:pl:nom.voc:m1.p1:pos		
+GUS-owscy	GUS-owski	adj:pl:nom.voc:m1:pos		
 GUS-owska	GUS-owski	adj:sg:nom.voc:f:pos		
 GUS-owską	GUS-owski	adj:sg:acc:f:pos		
 GUS-owską	GUS-owski	adj:sg:inst:f:pos		
-GUS-owskich	GUS-owski	adj:pl:acc:m1.p1:pos		
-GUS-owskich	GUS-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-GUS-owskich	GUS-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+GUS-owskich	GUS-owski	adj:pl:acc:m1:pos		
+GUS-owskich	GUS-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+GUS-owskich	GUS-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
 GUS-owskiego	GUS-owski	adj:sg:acc:m1.m2:pos		
-GUS-owskiego	GUS-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
-GUS-owskie	GUS-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-GUS-owskie	GUS-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-GUS-owskie	GUS-owski	adj:sg:acc:n1.n2:pos		
-GUS-owskie	GUS-owski	adj:sg:nom.voc:n1.n2:pos		
+GUS-owskiego	GUS-owski	adj:sg:gen:m1.m2.m3.n:pos		
+GUS-owskie	GUS-owski	adj:pl:acc:m2.m3.f.n:pos		
+GUS-owskie	GUS-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+GUS-owskie	GUS-owski	adj:sg:acc:n:pos		
+GUS-owskie	GUS-owski	adj:sg:nom.voc:n:pos		
 GUS-owskiej	GUS-owski	adj:sg:dat:f:pos		
 GUS-owskiej	GUS-owski	adj:sg:gen:f:pos		
 GUS-owskiej	GUS-owski	adj:sg:loc:f:pos		
-GUS-owskiemu	GUS-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+GUS-owskiemu	GUS-owski	adj:sg:dat:m1.m2.m3.n:pos		
 GUS-owski	GUS-owski	adj:sg:acc:m3:pos		
 GUS-owski	GUS-owski	adj:sg:nom.voc:m1.m2.m3:pos		
-GUS-owskim	GUS-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-GUS-owskim	GUS-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-GUS-owskim	GUS-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-GUS-owskimi	GUS-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+GUS-owskim	GUS-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+GUS-owskim	GUS-owski	adj:sg:inst:m1.m2.m3.n:pos		
+GUS-owskim	GUS-owski	adj:sg:loc:m1.m2.m3.n:pos		
+GUS-owskimi	GUS-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
 GUS-owsko	GUS-owski	adja		
 GUS-owsku	GUS-owski	adjp		
 GUS-owsko	GUS-owsko	adv:pos		

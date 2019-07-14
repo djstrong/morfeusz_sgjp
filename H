@@ -185,20 +185,20 @@ Haitańczyków	Haitańczyk	subst:pl:acc:m1	nazwa pospolita
 Haitańczyków	Haitańczyk	subst:pl:gen:m1	nazwa pospolita	
 Haitańczyku	Haitańczyk	subst:sg:loc:m1	nazwa pospolita	
 Haitańczyku	Haitańczyk	subst:sg:voc:m1	nazwa pospolita	
-Haiti	Haiti	subst:pl:acc:n2	nazwa geograficzna	
-Haiti	Haiti	subst:pl:dat:n2	nazwa geograficzna	
-Haiti	Haiti	subst:pl:gen:n2	nazwa geograficzna	
-Haiti	Haiti	subst:pl:inst:n2	nazwa geograficzna	
-Haiti	Haiti	subst:pl:loc:n2	nazwa geograficzna	
-Haiti	Haiti	subst:pl:nom:n2	nazwa geograficzna	
-Haiti	Haiti	subst:pl:voc:n2	nazwa geograficzna	
-Haiti	Haiti	subst:sg:acc:n2	nazwa geograficzna	
-Haiti	Haiti	subst:sg:dat:n2	nazwa geograficzna	
-Haiti	Haiti	subst:sg:gen:n2	nazwa geograficzna	
-Haiti	Haiti	subst:sg:inst:n2	nazwa geograficzna	
-Haiti	Haiti	subst:sg:loc:n2	nazwa geograficzna	
-Haiti	Haiti	subst:sg:nom:n2	nazwa geograficzna	
-Haiti	Haiti	subst:sg:voc:n2	nazwa geograficzna	
+Haiti	Haiti	subst:pl:acc:n:ncol	nazwa geograficzna	
+Haiti	Haiti	subst:pl:dat:n:ncol	nazwa geograficzna	
+Haiti	Haiti	subst:pl:gen:n:ncol	nazwa geograficzna	
+Haiti	Haiti	subst:pl:inst:n:ncol	nazwa geograficzna	
+Haiti	Haiti	subst:pl:loc:n:ncol	nazwa geograficzna	
+Haiti	Haiti	subst:pl:nom:n:ncol	nazwa geograficzna	
+Haiti	Haiti	subst:pl:voc:n:ncol	nazwa geograficzna	
+Haiti	Haiti	subst:sg:acc:n:ncol	nazwa geograficzna	
+Haiti	Haiti	subst:sg:dat:n:ncol	nazwa geograficzna	
+Haiti	Haiti	subst:sg:gen:n:ncol	nazwa geograficzna	
+Haiti	Haiti	subst:sg:inst:n:ncol	nazwa geograficzna	
+Haiti	Haiti	subst:sg:loc:n:ncol	nazwa geograficzna	
+Haiti	Haiti	subst:sg:nom:n:ncol	nazwa geograficzna	
+Haiti	Haiti	subst:sg:voc:n:ncol	nazwa geograficzna	
 Hajdukowa	Hajdukowa	subst:sg:nom:f	nazwisko	
 Hajdukowa	Hajdukowa	subst:sg:voc:f	nazwisko	
 Hajdukową	Hajdukowa	subst:sg:acc:f	nazwisko	
@@ -344,20 +344,20 @@ Halleyów	Halley	subst:pl:acc:m1	nazwisko
 Halleyów	Halley	subst:pl:gen:m1	nazwisko	
 Halleyu	Halley	subst:sg:loc:m1	nazwisko	
 Halleyu	Halley	subst:sg:voc:m1	nazwisko	
-Halloween	Halloween	subst:pl:acc:n2	nazwa pospolita	
-Halloween	Halloween	subst:pl:dat:n2	nazwa pospolita	
-Halloween	Halloween	subst:pl:gen:n2	nazwa pospolita	
-Halloween	Halloween	subst:pl:inst:n2	nazwa pospolita	
-Halloween	Halloween	subst:pl:loc:n2	nazwa pospolita	
-Halloween	Halloween	subst:pl:nom:n2	nazwa pospolita	
-Halloween	Halloween	subst:pl:voc:n2	nazwa pospolita	
-Halloween	Halloween	subst:sg:acc:n2	nazwa pospolita	
-Halloween	Halloween	subst:sg:dat:n2	nazwa pospolita	
-Halloween	Halloween	subst:sg:gen:n2	nazwa pospolita	
-Halloween	Halloween	subst:sg:inst:n2	nazwa pospolita	
-Halloween	Halloween	subst:sg:loc:n2	nazwa pospolita	
-Halloween	Halloween	subst:sg:nom:n2	nazwa pospolita	
-Halloween	Halloween	subst:sg:voc:n2	nazwa pospolita	
+Halloween	Halloween	subst:pl:acc:n:ncol	nazwa pospolita	
+Halloween	Halloween	subst:pl:dat:n:ncol	nazwa pospolita	
+Halloween	Halloween	subst:pl:gen:n:ncol	nazwa pospolita	
+Halloween	Halloween	subst:pl:inst:n:ncol	nazwa pospolita	
+Halloween	Halloween	subst:pl:loc:n:ncol	nazwa pospolita	
+Halloween	Halloween	subst:pl:nom:n:ncol	nazwa pospolita	
+Halloween	Halloween	subst:pl:voc:n:ncol	nazwa pospolita	
+Halloween	Halloween	subst:sg:acc:n:ncol	nazwa pospolita	
+Halloween	Halloween	subst:sg:dat:n:ncol	nazwa pospolita	
+Halloween	Halloween	subst:sg:gen:n:ncol	nazwa pospolita	
+Halloween	Halloween	subst:sg:inst:n:ncol	nazwa pospolita	
+Halloween	Halloween	subst:sg:loc:n:ncol	nazwa pospolita	
+Halloween	Halloween	subst:sg:nom:n:ncol	nazwa pospolita	
+Halloween	Halloween	subst:sg:voc:n:ncol	nazwa pospolita	
 Halszce	Halszka	subst:sg:dat:f	imię	
 Halszce	Halszka	subst:sg:loc:f	imię	
 Halszek	Halszka	subst:pl:gen:f	imię	
@@ -447,20 +447,20 @@ Hammurabim	Hammurabi	subst:sg:loc:m1	imię
 Hammurabimi	Hammurabi	subst:pl:inst:m1	imię	
 Hammurabiowie	Hammurabi	subst:pl:nom:m1	imię	
 Hammurabiowie	Hammurabi	subst:pl:voc:m1	imię	
-Hampshire	Hampshire	subst:pl:acc:n2	człon nazwy geograficznej	
-Hampshire	Hampshire	subst:pl:dat:n2	człon nazwy geograficznej	
-Hampshire	Hampshire	subst:pl:gen:n2	człon nazwy geograficznej	
-Hampshire	Hampshire	subst:pl:inst:n2	człon nazwy geograficznej	
-Hampshire	Hampshire	subst:pl:loc:n2	człon nazwy geograficznej	
-Hampshire	Hampshire	subst:pl:nom:n2	człon nazwy geograficznej	
-Hampshire	Hampshire	subst:pl:voc:n2	człon nazwy geograficznej	
-Hampshire	Hampshire	subst:sg:acc:n2	człon nazwy geograficznej	
-Hampshire	Hampshire	subst:sg:dat:n2	człon nazwy geograficznej	
-Hampshire	Hampshire	subst:sg:gen:n2	człon nazwy geograficznej	
-Hampshire	Hampshire	subst:sg:inst:n2	człon nazwy geograficznej	
-Hampshire	Hampshire	subst:sg:loc:n2	człon nazwy geograficznej	
-Hampshire	Hampshire	subst:sg:nom:n2	człon nazwy geograficznej	
-Hampshire	Hampshire	subst:sg:voc:n2	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:pl:acc:n:ncol	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:pl:dat:n:ncol	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:pl:gen:n:ncol	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:pl:inst:n:ncol	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:pl:loc:n:ncol	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:pl:nom:n:ncol	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:pl:voc:n:ncol	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:sg:acc:n:ncol	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:sg:dat:n:ncol	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:sg:gen:n:ncol	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:sg:inst:n:ncol	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:sg:loc:n:ncol	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:sg:nom:n:ncol	człon nazwy geograficznej	
+Hampshire	Hampshire	subst:sg:voc:n:ncol	człon nazwy geograficznej	
 Hamsunach	Hamsun	subst:pl:loc:m1	nazwisko	
 Hamsuna	Hamsun	subst:sg:acc:m1	nazwisko	
 Hamsuna	Hamsun	subst:sg:gen:m1	nazwisko	
@@ -584,20 +584,20 @@ Hannibalów	Hannibal	subst:pl:acc:m1	imię
 Hannibalów	Hannibal	subst:pl:gen:m1	imię	
 Hannibalu	Hannibal	subst:sg:loc:m1	imię	
 Hannibalu	Hannibal	subst:sg:voc:m1	imię	
-Hanoi	Hanoi	subst:pl:acc:n2	nazwa geograficzna	
-Hanoi	Hanoi	subst:pl:dat:n2	nazwa geograficzna	
-Hanoi	Hanoi	subst:pl:gen:n2	nazwa geograficzna	
-Hanoi	Hanoi	subst:pl:inst:n2	nazwa geograficzna	
-Hanoi	Hanoi	subst:pl:loc:n2	nazwa geograficzna	
-Hanoi	Hanoi	subst:pl:nom:n2	nazwa geograficzna	
-Hanoi	Hanoi	subst:pl:voc:n2	nazwa geograficzna	
-Hanoi	Hanoi	subst:sg:acc:n2	nazwa geograficzna	
-Hanoi	Hanoi	subst:sg:dat:n2	nazwa geograficzna	
-Hanoi	Hanoi	subst:sg:gen:n2	nazwa geograficzna	
-Hanoi	Hanoi	subst:sg:inst:n2	nazwa geograficzna	
-Hanoi	Hanoi	subst:sg:loc:n2	nazwa geograficzna	
-Hanoi	Hanoi	subst:sg:nom:n2	nazwa geograficzna	
-Hanoi	Hanoi	subst:sg:voc:n2	nazwa geograficzna	
+Hanoi	Hanoi	subst:pl:acc:n:ncol	nazwa geograficzna	
+Hanoi	Hanoi	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hanoi	Hanoi	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hanoi	Hanoi	subst:pl:inst:n:ncol	nazwa geograficzna	
+Hanoi	Hanoi	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hanoi	Hanoi	subst:pl:nom:n:ncol	nazwa geograficzna	
+Hanoi	Hanoi	subst:pl:voc:n:ncol	nazwa geograficzna	
+Hanoi	Hanoi	subst:sg:acc:n:ncol	nazwa geograficzna	
+Hanoi	Hanoi	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hanoi	Hanoi	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hanoi	Hanoi	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hanoi	Hanoi	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hanoi	Hanoi	subst:sg:nom:n:ncol	nazwa geograficzna	
+Hanoi	Hanoi	subst:sg:voc:n:ncol	nazwa geograficzna	
 Hanowerach	Hanower	subst:pl:loc:m3	nazwa geograficzna	
 Hanowerami	Hanower	subst:pl:inst:m3	nazwa geograficzna	
 Hanowerem	Hanower	subst:sg:inst:m3	nazwa geograficzna	
@@ -1019,20 +1019,20 @@ Hawajczyków	Hawajczyk	subst:pl:acc:m1	nazwa pospolita
 Hawajczyków	Hawajczyk	subst:pl:gen:m1	nazwa pospolita	
 Hawajczyku	Hawajczyk	subst:sg:loc:m1	nazwa pospolita	
 Hawajczyku	Hawajczyk	subst:sg:voc:m1	nazwa pospolita	
-Hawajach	Hawaje	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Hawajach	Hawaje	subst:pl:loc:p3	nazwa geograficzna	
-Hawajami	Hawaje	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Hawajami	Hawaje	subst:pl:inst:p3	nazwa geograficzna	
-Hawaje	Hawaje	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Hawaje	Hawaje	subst:pl:acc:p3	nazwa geograficzna	
-Hawaje	Hawaje	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Hawaje	Hawaje	subst:pl:nom:p3	nazwa geograficzna	
-Hawaje	Hawaje	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Hawaje	Hawaje	subst:pl:voc:p3	nazwa geograficzna	
-Hawajom	Hawaje	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Hawajom	Hawaje	subst:pl:dat:p3	nazwa geograficzna	
-Hawajów	Hawaje	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Hawajów	Hawaje	subst:pl:gen:p3	nazwa geograficzna	
+Hawajach	Hawaje	subst:pl:loc:n:pt	nazwa geograficzna	
+Hawajach	Hawaje	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hawajami	Hawaje	subst:pl:inst:n:pt	nazwa geograficzna	
+Hawajami	Hawaje	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hawaje	Hawaje	subst:pl:acc:n:pt	nazwa geograficzna	
+Hawaje	Hawaje	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Hawaje	Hawaje	subst:pl:nom:n:pt	nazwa geograficzna	
+Hawaje	Hawaje	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Hawaje	Hawaje	subst:pl:voc:n:pt	nazwa geograficzna	
+Hawaje	Hawaje	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Hawajom	Hawaje	subst:pl:dat:n:pt	nazwa geograficzna	
+Hawajom	Hawaje	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Hawajów	Hawaje	subst:pl:gen:n:pt	nazwa geograficzna	
+Hawajów	Hawaje	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Hawajce	Hawajka	subst:sg:dat:f	nazwa pospolita	
 Hawajce	Hawajka	subst:sg:loc:f	nazwa pospolita	
 Hawajek	Hawajka	subst:pl:gen:f	nazwa pospolita	
@@ -1105,48 +1105,48 @@ HB	HB	subst:sg:inst:m3	nazwa pospolita
 HB	HB	subst:sg:loc:m3	nazwa pospolita	
 HB	HB	subst:sg:nom:m3	nazwa pospolita	
 HB	HB	subst:sg:voc:m3	nazwa pospolita	
-HBO	HBO	subst:pl:acc:n2	nazwa firmy	
-HBO	HBO	subst:pl:dat:n2	nazwa firmy	
-HBO	HBO	subst:pl:gen:n2	nazwa firmy	
-HBO	HBO	subst:pl:inst:n2	nazwa firmy	
-HBO	HBO	subst:pl:loc:n2	nazwa firmy	
-HBO	HBO	subst:pl:nom:n2	nazwa firmy	
-HBO	HBO	subst:pl:voc:n2	nazwa firmy	
-HBO	HBO	subst:sg:acc:n2	nazwa firmy	
-HBO	HBO	subst:sg:dat:n2	nazwa firmy	
-HBO	HBO	subst:sg:gen:n2	nazwa firmy	
-HBO	HBO	subst:sg:inst:n2	nazwa firmy	
-HBO	HBO	subst:sg:loc:n2	nazwa firmy	
-HBO	HBO	subst:sg:nom:n2	nazwa firmy	
-HBO	HBO	subst:sg:voc:n2	nazwa firmy	
+HBO	HBO	subst:pl:acc:n:ncol	nazwa firmy	
+HBO	HBO	subst:pl:dat:n:ncol	nazwa firmy	
+HBO	HBO	subst:pl:gen:n:ncol	nazwa firmy	
+HBO	HBO	subst:pl:inst:n:ncol	nazwa firmy	
+HBO	HBO	subst:pl:loc:n:ncol	nazwa firmy	
+HBO	HBO	subst:pl:nom:n:ncol	nazwa firmy	
+HBO	HBO	subst:pl:voc:n:ncol	nazwa firmy	
+HBO	HBO	subst:sg:acc:n:ncol	nazwa firmy	
+HBO	HBO	subst:sg:dat:n:ncol	nazwa firmy	
+HBO	HBO	subst:sg:gen:n:ncol	nazwa firmy	
+HBO	HBO	subst:sg:inst:n:ncol	nazwa firmy	
+HBO	HBO	subst:sg:loc:n:ncol	nazwa firmy	
+HBO	HBO	subst:sg:nom:n:ncol	nazwa firmy	
+HBO	HBO	subst:sg:voc:n:ncol	nazwa firmy	
 HDD	HDD	subst:pl:acc:m3	nazwa pospolita	komp.
-HDD	HDD	subst:pl:acc:n2	nazwa pospolita	komp.
+HDD	HDD	subst:pl:acc:n:ncol	nazwa pospolita	komp.
 HDD	HDD	subst:pl:dat:m3	nazwa pospolita	komp.
-HDD	HDD	subst:pl:dat:n2	nazwa pospolita	komp.
+HDD	HDD	subst:pl:dat:n:ncol	nazwa pospolita	komp.
 HDD	HDD	subst:pl:gen:m3	nazwa pospolita	komp.
-HDD	HDD	subst:pl:gen:n2	nazwa pospolita	komp.
+HDD	HDD	subst:pl:gen:n:ncol	nazwa pospolita	komp.
 HDD	HDD	subst:pl:inst:m3	nazwa pospolita	komp.
-HDD	HDD	subst:pl:inst:n2	nazwa pospolita	komp.
+HDD	HDD	subst:pl:inst:n:ncol	nazwa pospolita	komp.
 HDD	HDD	subst:pl:loc:m3	nazwa pospolita	komp.
-HDD	HDD	subst:pl:loc:n2	nazwa pospolita	komp.
+HDD	HDD	subst:pl:loc:n:ncol	nazwa pospolita	komp.
 HDD	HDD	subst:pl:nom:m3	nazwa pospolita	komp.
-HDD	HDD	subst:pl:nom:n2	nazwa pospolita	komp.
+HDD	HDD	subst:pl:nom:n:ncol	nazwa pospolita	komp.
 HDD	HDD	subst:pl:voc:m3	nazwa pospolita	komp.
-HDD	HDD	subst:pl:voc:n2	nazwa pospolita	komp.
+HDD	HDD	subst:pl:voc:n:ncol	nazwa pospolita	komp.
 HDD	HDD	subst:sg:acc:m3	nazwa pospolita	komp.
-HDD	HDD	subst:sg:acc:n2	nazwa pospolita	komp.
+HDD	HDD	subst:sg:acc:n:ncol	nazwa pospolita	komp.
 HDD	HDD	subst:sg:dat:m3	nazwa pospolita	komp.
-HDD	HDD	subst:sg:dat:n2	nazwa pospolita	komp.
+HDD	HDD	subst:sg:dat:n:ncol	nazwa pospolita	komp.
 HDD	HDD	subst:sg:gen:m3	nazwa pospolita	komp.
-HDD	HDD	subst:sg:gen:n2	nazwa pospolita	komp.
+HDD	HDD	subst:sg:gen:n:ncol	nazwa pospolita	komp.
 HDD	HDD	subst:sg:inst:m3	nazwa pospolita	komp.
-HDD	HDD	subst:sg:inst:n2	nazwa pospolita	komp.
+HDD	HDD	subst:sg:inst:n:ncol	nazwa pospolita	komp.
 HDD	HDD	subst:sg:loc:m3	nazwa pospolita	komp.
-HDD	HDD	subst:sg:loc:n2	nazwa pospolita	komp.
+HDD	HDD	subst:sg:loc:n:ncol	nazwa pospolita	komp.
 HDD	HDD	subst:sg:nom:m3	nazwa pospolita	komp.
-HDD	HDD	subst:sg:nom:n2	nazwa pospolita	komp.
+HDD	HDD	subst:sg:nom:n:ncol	nazwa pospolita	komp.
 HDD	HDD	subst:sg:voc:m3	nazwa pospolita	komp.
-HDD	HDD	subst:sg:voc:n2	nazwa pospolita	komp.
+HDD	HDD	subst:sg:voc:n:ncol	nazwa pospolita	komp.
 HDL-ach	HDL	subst:pl:loc:m3	nazwa pospolita	
 HDL-ami	HDL	subst:pl:inst:m3	nazwa pospolita	
 HDL-e	HDL	subst:pl:acc:m3	nazwa pospolita	
@@ -1206,33 +1206,33 @@ Heaneyów	Heaney	subst:pl:gen:m1	nazwisko
 Heaneyu	Heaney	subst:sg:loc:m1	nazwisko	
 Heaneyu	Heaney	subst:sg:voc:m1	nazwisko	
 Heathrow	Heathrow	subst:pl:acc:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:pl:acc:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:pl:acc:n:ncol	nazwa geograficzna	
 Heathrow	Heathrow	subst:pl:dat:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:pl:dat:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:pl:dat:n:ncol	nazwa geograficzna	
 Heathrow	Heathrow	subst:pl:gen:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:pl:gen:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:pl:gen:n:ncol	nazwa geograficzna	
 Heathrow	Heathrow	subst:pl:inst:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:pl:inst:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:pl:inst:n:ncol	nazwa geograficzna	
 Heathrow	Heathrow	subst:pl:loc:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:pl:loc:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:pl:loc:n:ncol	nazwa geograficzna	
 Heathrow	Heathrow	subst:pl:nom:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:pl:nom:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:pl:nom:n:ncol	nazwa geograficzna	
 Heathrow	Heathrow	subst:pl:voc:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:pl:voc:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:pl:voc:n:ncol	nazwa geograficzna	
 Heathrow	Heathrow	subst:sg:acc:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:sg:acc:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:sg:acc:n:ncol	nazwa geograficzna	
 Heathrow	Heathrow	subst:sg:dat:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:sg:dat:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:sg:dat:n:ncol	nazwa geograficzna	
 Heathrow	Heathrow	subst:sg:gen:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:sg:gen:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:sg:gen:n:ncol	nazwa geograficzna	
 Heathrow	Heathrow	subst:sg:inst:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:sg:inst:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:sg:inst:n:ncol	nazwa geograficzna	
 Heathrow	Heathrow	subst:sg:loc:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:sg:loc:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:sg:loc:n:ncol	nazwa geograficzna	
 Heathrow	Heathrow	subst:sg:nom:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:sg:nom:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:sg:nom:n:ncol	nazwa geograficzna	
 Heathrow	Heathrow	subst:sg:voc:m3	nazwa geograficzna	
-Heathrow	Heathrow	subst:sg:voc:n2	nazwa geograficzna	
+Heathrow	Heathrow	subst:sg:voc:n:ncol	nazwa geograficzna	
 Hebrajczycy	Hebrajczyk	subst:pl:nom:m1	nazwa pospolita	
 Hebrajczycy	Hebrajczyk	subst:pl:voc:m1	nazwa pospolita	
 Hebrajczykach	Hebrajczyk	subst:pl:loc:m1	nazwa pospolita	
@@ -1263,20 +1263,20 @@ Hebronu	Hebron	subst:sg:gen:m3	nazwa geograficzna
 Hebrony	Hebron	subst:pl:acc:m3	nazwa geograficzna	
 Hebrony	Hebron	subst:pl:nom:m3	nazwa geograficzna	
 Hebrony	Hebron	subst:pl:voc:m3	nazwa geograficzna	
-Hebrydach	Hebrydy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Hebrydach	Hebrydy	subst:pl:loc:p3	nazwa geograficzna	
-Hebrydami	Hebrydy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Hebrydami	Hebrydy	subst:pl:inst:p3	nazwa geograficzna	
-Hebrydom	Hebrydy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Hebrydom	Hebrydy	subst:pl:dat:p3	nazwa geograficzna	
-Hebrydów	Hebrydy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Hebrydów	Hebrydy	subst:pl:gen:p3	nazwa geograficzna	
-Hebrydy	Hebrydy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Hebrydy	Hebrydy	subst:pl:acc:p3	nazwa geograficzna	
-Hebrydy	Hebrydy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Hebrydy	Hebrydy	subst:pl:nom:p3	nazwa geograficzna	
-Hebrydy	Hebrydy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Hebrydy	Hebrydy	subst:pl:voc:p3	nazwa geograficzna	
+Hebrydach	Hebrydy	subst:pl:loc:n:pt	nazwa geograficzna	
+Hebrydach	Hebrydy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Hebrydami	Hebrydy	subst:pl:inst:n:pt	nazwa geograficzna	
+Hebrydami	Hebrydy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Hebrydom	Hebrydy	subst:pl:dat:n:pt	nazwa geograficzna	
+Hebrydom	Hebrydy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Hebrydów	Hebrydy	subst:pl:gen:n:pt	nazwa geograficzna	
+Hebrydów	Hebrydy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Hebrydy	Hebrydy	subst:pl:acc:n:pt	nazwa geograficzna	
+Hebrydy	Hebrydy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Hebrydy	Hebrydy	subst:pl:nom:n:pt	nazwa geograficzna	
+Hebrydy	Hebrydy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Hebrydy	Hebrydy	subst:pl:voc:n:pt	nazwa geograficzna	
+Hebrydy	Hebrydy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Hefajstosach	Hefajstos	subst:pl:loc:m1	imię	mit.
 Hefajstosa	Hefajstos	subst:sg:acc:m1	imię	mit.
 Hefajstosa	Hefajstos	subst:sg:gen:m1	imię	mit.
@@ -1596,20 +1596,20 @@ Heloizy	Heloiza	subst:pl:acc:f	imię
 Heloizy	Heloiza	subst:pl:nom:f	imię	
 Heloizy	Heloiza	subst:pl:voc:f	imię	
 Heloizy	Heloiza	subst:sg:gen:f	imię	
-Helsinek	Helsinki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Helsinek	Helsinki	subst:pl:gen:p3	nazwa geograficzna	
-Helsinkach	Helsinki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Helsinkach	Helsinki	subst:pl:loc:p3	nazwa geograficzna	
-Helsinkami	Helsinki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Helsinkami	Helsinki	subst:pl:inst:p3	nazwa geograficzna	
-Helsinki	Helsinki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Helsinki	Helsinki	subst:pl:acc:p3	nazwa geograficzna	
-Helsinki	Helsinki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Helsinki	Helsinki	subst:pl:nom:p3	nazwa geograficzna	
-Helsinki	Helsinki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Helsinki	Helsinki	subst:pl:voc:p3	nazwa geograficzna	
-Helsinkom	Helsinki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Helsinkom	Helsinki	subst:pl:dat:p3	nazwa geograficzna	
+Helsinek	Helsinki	subst:pl:gen:n:pt	nazwa geograficzna	
+Helsinek	Helsinki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Helsinkach	Helsinki	subst:pl:loc:n:pt	nazwa geograficzna	
+Helsinkach	Helsinki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Helsinkami	Helsinki	subst:pl:inst:n:pt	nazwa geograficzna	
+Helsinkami	Helsinki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Helsinki	Helsinki	subst:pl:acc:n:pt	nazwa geograficzna	
+Helsinki	Helsinki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Helsinki	Helsinki	subst:pl:nom:n:pt	nazwa geograficzna	
+Helsinki	Helsinki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Helsinki	Helsinki	subst:pl:voc:n:pt	nazwa geograficzna	
+Helsinki	Helsinki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Helsinkom	Helsinki	subst:pl:dat:n:pt	nazwa geograficzna	
+Helsinkom	Helsinki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Helusiach	Helusia	subst:pl:loc:f	imię	
 Helusia	Helusia	subst:sg:nom:f	imię	
 Helusiami	Helusia	subst:pl:inst:f	imię	
@@ -2633,20 +2633,20 @@ Hillary	Hillary	subst:sg:inst:f	imię
 Hillary	Hillary	subst:sg:loc:f	imię	
 Hillary	Hillary	subst:sg:nom:f	imię	
 Hillary	Hillary	subst:sg:voc:f	imię	
-Himalajach	Himalaje	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Himalajach	Himalaje	subst:pl:loc:p3	nazwa geograficzna	
-Himalajami	Himalaje	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Himalajami	Himalaje	subst:pl:inst:p3	nazwa geograficzna	
-Himalaje	Himalaje	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Himalaje	Himalaje	subst:pl:acc:p3	nazwa geograficzna	
-Himalaje	Himalaje	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Himalaje	Himalaje	subst:pl:nom:p3	nazwa geograficzna	
-Himalaje	Himalaje	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Himalaje	Himalaje	subst:pl:voc:p3	nazwa geograficzna	
-Himalajom	Himalaje	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Himalajom	Himalaje	subst:pl:dat:p3	nazwa geograficzna	
-Himalajów	Himalaje	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Himalajów	Himalaje	subst:pl:gen:p3	nazwa geograficzna	
+Himalajach	Himalaje	subst:pl:loc:n:pt	nazwa geograficzna	
+Himalajach	Himalaje	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Himalajami	Himalaje	subst:pl:inst:n:pt	nazwa geograficzna	
+Himalajami	Himalaje	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Himalaje	Himalaje	subst:pl:acc:n:pt	nazwa geograficzna	
+Himalaje	Himalaje	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Himalaje	Himalaje	subst:pl:nom:n:pt	nazwa geograficzna	
+Himalaje	Himalaje	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Himalaje	Himalaje	subst:pl:voc:n:pt	nazwa geograficzna	
+Himalaje	Himalaje	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Himalajom	Himalaje	subst:pl:dat:n:pt	nazwa geograficzna	
+Himalajom	Himalaje	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Himalajów	Himalaje	subst:pl:gen:n:pt	nazwa geograficzna	
+Himalajów	Himalaje	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Himilsbachach	Himilsbach	subst:pl:loc:m1	nazwisko	
 Himilsbacha	Himilsbach	subst:sg:acc:m1	nazwisko	
 Himilsbacha	Himilsbach	subst:sg:gen:m1	nazwisko	
@@ -3026,20 +3026,20 @@ Hitlerze	Hitler	subst:sg:loc:m1	nazwisko
 Hitlerze	Hitler	subst:sg:voc:m1	nazwisko	
 Hitlerzy	Hitler	subst:pl:nom:m1	nazwisko	
 Hitlerzy	Hitler	subst:pl:voc:m1	nazwisko	
-Hitlerjugend	Hitlerjugend	subst:pl:acc:n2	nazwa organizacji	
-Hitlerjugend	Hitlerjugend	subst:pl:dat:n2	nazwa organizacji	
-Hitlerjugend	Hitlerjugend	subst:pl:gen:n2	nazwa organizacji	
-Hitlerjugend	Hitlerjugend	subst:pl:inst:n2	nazwa organizacji	
-Hitlerjugend	Hitlerjugend	subst:pl:loc:n2	nazwa organizacji	
-Hitlerjugend	Hitlerjugend	subst:pl:nom:n2	nazwa organizacji	
-Hitlerjugend	Hitlerjugend	subst:pl:voc:n2	nazwa organizacji	
-Hitlerjugend	Hitlerjugend	subst:sg:acc:n2	nazwa organizacji	
-Hitlerjugend	Hitlerjugend	subst:sg:dat:n2	nazwa organizacji	
-Hitlerjugend	Hitlerjugend	subst:sg:gen:n2	nazwa organizacji	
-Hitlerjugend	Hitlerjugend	subst:sg:inst:n2	nazwa organizacji	
-Hitlerjugend	Hitlerjugend	subst:sg:loc:n2	nazwa organizacji	
-Hitlerjugend	Hitlerjugend	subst:sg:nom:n2	nazwa organizacji	
-Hitlerjugend	Hitlerjugend	subst:sg:voc:n2	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:pl:acc:n:ncol	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:pl:dat:n:ncol	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:pl:gen:n:ncol	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:pl:inst:n:ncol	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:pl:loc:n:ncol	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:pl:nom:n:ncol	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:pl:voc:n:ncol	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:sg:acc:n:ncol	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:sg:dat:n:ncol	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:sg:gen:n:ncol	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:sg:inst:n:ncol	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:sg:loc:n:ncol	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:sg:nom:n:ncol	nazwa organizacji	
+Hitlerjugend	Hitlerjugend	subst:sg:voc:n:ncol	nazwa organizacji	
 HIV-ach	HIV	subst:pl:loc:m2	nazwa pospolita	pot.
 HIV-ach	HIV	subst:pl:loc:m3	nazwa pospolita	
 HIV-a	HIV	subst:sg:acc:m2	nazwa pospolita	pot.
@@ -3048,23 +3048,23 @@ HIV-ami	HIV	subst:pl:inst:m2	nazwa pospolita	pot.
 HIV-ami	HIV	subst:pl:inst:m3	nazwa pospolita	
 HIV-em	HIV	subst:sg:inst:m2	nazwa pospolita	pot.
 HIV-em	HIV	subst:sg:inst:m3	nazwa pospolita	
-HIV	HIV	subst:pl:acc:n2	nazwa pospolita	
-HIV	HIV	subst:pl:dat:n2	nazwa pospolita	
-HIV	HIV	subst:pl:gen:n2	nazwa pospolita	
-HIV	HIV	subst:pl:inst:n2	nazwa pospolita	
-HIV	HIV	subst:pl:loc:n2	nazwa pospolita	
-HIV	HIV	subst:pl:nom:n2	nazwa pospolita	
-HIV	HIV	subst:pl:voc:n2	nazwa pospolita	
+HIV	HIV	subst:pl:acc:n:ncol	nazwa pospolita	
+HIV	HIV	subst:pl:dat:n:ncol	nazwa pospolita	
+HIV	HIV	subst:pl:gen:n:ncol	nazwa pospolita	
+HIV	HIV	subst:pl:inst:n:ncol	nazwa pospolita	
+HIV	HIV	subst:pl:loc:n:ncol	nazwa pospolita	
+HIV	HIV	subst:pl:nom:n:ncol	nazwa pospolita	
+HIV	HIV	subst:pl:voc:n:ncol	nazwa pospolita	
 HIV	HIV	subst:sg:acc:m3	nazwa pospolita	
-HIV	HIV	subst:sg:acc:n2	nazwa pospolita	
-HIV	HIV	subst:sg:dat:n2	nazwa pospolita	
-HIV	HIV	subst:sg:gen:n2	nazwa pospolita	
-HIV	HIV	subst:sg:inst:n2	nazwa pospolita	
-HIV	HIV	subst:sg:loc:n2	nazwa pospolita	
+HIV	HIV	subst:sg:acc:n:ncol	nazwa pospolita	
+HIV	HIV	subst:sg:dat:n:ncol	nazwa pospolita	
+HIV	HIV	subst:sg:gen:n:ncol	nazwa pospolita	
+HIV	HIV	subst:sg:inst:n:ncol	nazwa pospolita	
+HIV	HIV	subst:sg:loc:n:ncol	nazwa pospolita	
 HIV	HIV	subst:sg:nom:m2	nazwa pospolita	pot.
 HIV	HIV	subst:sg:nom:m3	nazwa pospolita	
-HIV	HIV	subst:sg:nom:n2	nazwa pospolita	
-HIV	HIV	subst:sg:voc:n2	nazwa pospolita	
+HIV	HIV	subst:sg:nom:n:ncol	nazwa pospolita	
+HIV	HIV	subst:sg:voc:n:ncol	nazwa pospolita	
 HIV-ie	HIV	subst:sg:loc:m2	nazwa pospolita	pot.
 HIV-ie	HIV	subst:sg:loc:m3	nazwa pospolita	
 HIV-ie	HIV	subst:sg:voc:m2	nazwa pospolita	pot.
@@ -3335,20 +3335,20 @@ Holenderki	Holenderka	subst:pl:voc:f	nazwa pospolita
 Holenderki	Holenderka	subst:sg:gen:f	nazwa pospolita	
 Holenderko	Holenderka	subst:sg:voc:f	nazwa pospolita	
 Holenderkom	Holenderka	subst:pl:dat:f	nazwa pospolita	
-Holi	Holi	subst:pl:acc:n2	nazwa święta	
-Holi	Holi	subst:pl:dat:n2	nazwa święta	
-Holi	Holi	subst:pl:gen:n2	nazwa święta	
-Holi	Holi	subst:pl:inst:n2	nazwa święta	
-Holi	Holi	subst:pl:loc:n2	nazwa święta	
-Holi	Holi	subst:pl:nom:n2	nazwa święta	
-Holi	Holi	subst:pl:voc:n2	nazwa święta	
-Holi	Holi	subst:sg:acc:n2	nazwa święta	
-Holi	Holi	subst:sg:dat:n2	nazwa święta	
-Holi	Holi	subst:sg:gen:n2	nazwa święta	
-Holi	Holi	subst:sg:inst:n2	nazwa święta	
-Holi	Holi	subst:sg:loc:n2	nazwa święta	
-Holi	Holi	subst:sg:nom:n2	nazwa święta	
-Holi	Holi	subst:sg:voc:n2	nazwa święta	
+Holi	Holi	subst:pl:acc:n:ncol	nazwa święta	
+Holi	Holi	subst:pl:dat:n:ncol	nazwa święta	
+Holi	Holi	subst:pl:gen:n:ncol	nazwa święta	
+Holi	Holi	subst:pl:inst:n:ncol	nazwa święta	
+Holi	Holi	subst:pl:loc:n:ncol	nazwa święta	
+Holi	Holi	subst:pl:nom:n:ncol	nazwa święta	
+Holi	Holi	subst:pl:voc:n:ncol	nazwa święta	
+Holi	Holi	subst:sg:acc:n:ncol	nazwa święta	
+Holi	Holi	subst:sg:dat:n:ncol	nazwa święta	
+Holi	Holi	subst:sg:gen:n:ncol	nazwa święta	
+Holi	Holi	subst:sg:inst:n:ncol	nazwa święta	
+Holi	Holi	subst:sg:loc:n:ncol	nazwa święta	
+Holi	Holi	subst:sg:nom:n:ncol	nazwa święta	
+Holi	Holi	subst:sg:voc:n:ncol	nazwa święta	
 Hollandach	Holland	subst:pl:loc:m1	nazwisko	
 Hollanda	Holland	subst:sg:acc:m1	nazwisko	
 Hollanda	Holland	subst:sg:gen:m1	nazwisko	
@@ -3617,20 +3617,20 @@ Hongkongów	Hongkong	subst:pl:gen:m3	nazwa geograficzna
 Hongkongu	Hongkong	subst:sg:gen:m3	nazwa geograficzna	
 Hongkongu	Hongkong	subst:sg:loc:m3	nazwa geograficzna	
 Hongkongu	Hongkong	subst:sg:voc:m3	nazwa geograficzna	
-Honolulu	Honolulu	subst:pl:acc:n2	nazwa geograficzna	
-Honolulu	Honolulu	subst:pl:dat:n2	nazwa geograficzna	
-Honolulu	Honolulu	subst:pl:gen:n2	nazwa geograficzna	
-Honolulu	Honolulu	subst:pl:inst:n2	nazwa geograficzna	
-Honolulu	Honolulu	subst:pl:loc:n2	nazwa geograficzna	
-Honolulu	Honolulu	subst:pl:nom:n2	nazwa geograficzna	
-Honolulu	Honolulu	subst:pl:voc:n2	nazwa geograficzna	
-Honolulu	Honolulu	subst:sg:acc:n2	nazwa geograficzna	
-Honolulu	Honolulu	subst:sg:dat:n2	nazwa geograficzna	
-Honolulu	Honolulu	subst:sg:gen:n2	nazwa geograficzna	
-Honolulu	Honolulu	subst:sg:inst:n2	nazwa geograficzna	
-Honolulu	Honolulu	subst:sg:loc:n2	nazwa geograficzna	
-Honolulu	Honolulu	subst:sg:nom:n2	nazwa geograficzna	
-Honolulu	Honolulu	subst:sg:voc:n2	nazwa geograficzna	
+Honolulu	Honolulu	subst:pl:acc:n:ncol	nazwa geograficzna	
+Honolulu	Honolulu	subst:pl:dat:n:ncol	nazwa geograficzna	
+Honolulu	Honolulu	subst:pl:gen:n:ncol	nazwa geograficzna	
+Honolulu	Honolulu	subst:pl:inst:n:ncol	nazwa geograficzna	
+Honolulu	Honolulu	subst:pl:loc:n:ncol	nazwa geograficzna	
+Honolulu	Honolulu	subst:pl:nom:n:ncol	nazwa geograficzna	
+Honolulu	Honolulu	subst:pl:voc:n:ncol	nazwa geograficzna	
+Honolulu	Honolulu	subst:sg:acc:n:ncol	nazwa geograficzna	
+Honolulu	Honolulu	subst:sg:dat:n:ncol	nazwa geograficzna	
+Honolulu	Honolulu	subst:sg:gen:n:ncol	nazwa geograficzna	
+Honolulu	Honolulu	subst:sg:inst:n:ncol	nazwa geograficzna	
+Honolulu	Honolulu	subst:sg:loc:n:ncol	nazwa geograficzna	
+Honolulu	Honolulu	subst:sg:nom:n:ncol	nazwa geograficzna	
+Honolulu	Honolulu	subst:sg:voc:n:ncol	nazwa geograficzna	
 Honoracie	Honorat	subst:sg:loc:m1	imię	
 Honoracie	Honorat	subst:sg:voc:m1	imię	
 Honoraci	Honorat	subst:pl:nom:m1	imię	
@@ -3850,20 +3850,20 @@ Hornu	Horn	subst:sg:gen:m3	nazwa geograficzna
 Horny	Horn	subst:pl:acc:m3	nazwa geograficzna	
 Horny	Horn	subst:pl:nom:m3	nazwa geograficzna	
 Horny	Horn	subst:pl:voc:m3	nazwa geograficzna	
-Horodeł	Horodło	subst:pl:gen:n2	nazwa geograficzna	
-Horodle	Horodło	subst:sg:loc:n2	nazwa geograficzna	
-Horodłach	Horodło	subst:pl:loc:n2	nazwa geograficzna	
-Horodła	Horodło	subst:pl:acc:n2	nazwa geograficzna	
-Horodła	Horodło	subst:pl:nom:n2	nazwa geograficzna	
-Horodła	Horodło	subst:pl:voc:n2	nazwa geograficzna	
-Horodła	Horodło	subst:sg:gen:n2	nazwa geograficzna	
-Horodłami	Horodło	subst:pl:inst:n2	nazwa geograficzna	
-Horodłem	Horodło	subst:sg:inst:n2	nazwa geograficzna	
-Horodło	Horodło	subst:sg:acc:n2	nazwa geograficzna	
-Horodło	Horodło	subst:sg:nom:n2	nazwa geograficzna	
-Horodło	Horodło	subst:sg:voc:n2	nazwa geograficzna	
-Horodłom	Horodło	subst:pl:dat:n2	nazwa geograficzna	
-Horodłu	Horodło	subst:sg:dat:n2	nazwa geograficzna	
+Horodeł	Horodło	subst:pl:gen:n:ncol	nazwa geograficzna	
+Horodle	Horodło	subst:sg:loc:n:ncol	nazwa geograficzna	
+Horodłach	Horodło	subst:pl:loc:n:ncol	nazwa geograficzna	
+Horodła	Horodło	subst:pl:acc:n:ncol	nazwa geograficzna	
+Horodła	Horodło	subst:pl:nom:n:ncol	nazwa geograficzna	
+Horodła	Horodło	subst:pl:voc:n:ncol	nazwa geograficzna	
+Horodła	Horodło	subst:sg:gen:n:ncol	nazwa geograficzna	
+Horodłami	Horodło	subst:pl:inst:n:ncol	nazwa geograficzna	
+Horodłem	Horodło	subst:sg:inst:n:ncol	nazwa geograficzna	
+Horodło	Horodło	subst:sg:acc:n:ncol	nazwa geograficzna	
+Horodło	Horodło	subst:sg:nom:n:ncol	nazwa geograficzna	
+Horodło	Horodło	subst:sg:voc:n:ncol	nazwa geograficzna	
+Horodłom	Horodło	subst:pl:dat:n:ncol	nazwa geograficzna	
+Horodłu	Horodło	subst:sg:dat:n:ncol	nazwa geograficzna	
 Horowitzach	Horowitz	subst:pl:loc:m1	nazwisko	
 Horowitza	Horowitz	subst:sg:acc:m1	nazwisko	
 Horowitza	Horowitz	subst:sg:gen:m1	nazwisko	
@@ -4042,33 +4042,33 @@ Hozjuszów	Hozjusz	subst:pl:gen:m1	nazwisko
 Hozjuszu	Hozjusz	subst:sg:loc:m1	nazwisko	
 Hozjuszu	Hozjusz	subst:sg:voc:m1	nazwisko	
 HP	HP	subst:pl:acc:m3	nazwa firmy	
-HP	HP	subst:pl:acc:n2	nazwa firmy	
+HP	HP	subst:pl:acc:n:ncol	nazwa firmy	
 HP	HP	subst:pl:dat:m3	nazwa firmy	
-HP	HP	subst:pl:dat:n2	nazwa firmy	
+HP	HP	subst:pl:dat:n:ncol	nazwa firmy	
 HP	HP	subst:pl:gen:m3	nazwa firmy	
-HP	HP	subst:pl:gen:n2	nazwa firmy	
+HP	HP	subst:pl:gen:n:ncol	nazwa firmy	
 HP	HP	subst:pl:inst:m3	nazwa firmy	
-HP	HP	subst:pl:inst:n2	nazwa firmy	
+HP	HP	subst:pl:inst:n:ncol	nazwa firmy	
 HP	HP	subst:pl:loc:m3	nazwa firmy	
-HP	HP	subst:pl:loc:n2	nazwa firmy	
+HP	HP	subst:pl:loc:n:ncol	nazwa firmy	
 HP	HP	subst:pl:nom:m3	nazwa firmy	
-HP	HP	subst:pl:nom:n2	nazwa firmy	
+HP	HP	subst:pl:nom:n:ncol	nazwa firmy	
 HP	HP	subst:pl:voc:m3	nazwa firmy	
-HP	HP	subst:pl:voc:n2	nazwa firmy	
+HP	HP	subst:pl:voc:n:ncol	nazwa firmy	
 HP	HP	subst:sg:acc:m3	nazwa firmy	
-HP	HP	subst:sg:acc:n2	nazwa firmy	
+HP	HP	subst:sg:acc:n:ncol	nazwa firmy	
 HP	HP	subst:sg:dat:m3	nazwa firmy	
-HP	HP	subst:sg:dat:n2	nazwa firmy	
+HP	HP	subst:sg:dat:n:ncol	nazwa firmy	
 HP	HP	subst:sg:gen:m3	nazwa firmy	
-HP	HP	subst:sg:gen:n2	nazwa firmy	
+HP	HP	subst:sg:gen:n:ncol	nazwa firmy	
 HP	HP	subst:sg:inst:m3	nazwa firmy	
-HP	HP	subst:sg:inst:n2	nazwa firmy	
+HP	HP	subst:sg:inst:n:ncol	nazwa firmy	
 HP	HP	subst:sg:loc:m3	nazwa firmy	
-HP	HP	subst:sg:loc:n2	nazwa firmy	
+HP	HP	subst:sg:loc:n:ncol	nazwa firmy	
 HP	HP	subst:sg:nom:m3	nazwa firmy	
-HP	HP	subst:sg:nom:n2	nazwa firmy	
+HP	HP	subst:sg:nom:n:ncol	nazwa firmy	
 HP	HP	subst:sg:voc:m3	nazwa firmy	
-HP	HP	subst:sg:voc:n2	nazwa firmy	
+HP	HP	subst:sg:voc:n:ncol	nazwa firmy	
 Hrabalach	Hrabal	subst:pl:loc:m1	nazwisko	
 Hrabala	Hrabal	subst:sg:acc:m1	nazwisko	
 Hrabala	Hrabal	subst:sg:gen:m1	nazwisko	
@@ -4085,34 +4085,34 @@ Hrabalów	Hrabal	subst:pl:acc:m1	nazwisko
 Hrabalów	Hrabal	subst:pl:gen:m1	nazwisko	
 Hrabalu	Hrabal	subst:sg:loc:m1	nazwisko	
 Hrabalu	Hrabal	subst:sg:voc:m1	nazwisko	
-Hradczanach	Hradczany	subst:pl:loc:p2	nazwa własna budowli	rzad.
-Hradczanach	Hradczany	subst:pl:loc:p3	nazwa własna budowli	
-Hradczanami	Hradczany	subst:pl:inst:p2	nazwa własna budowli	rzad.
-Hradczanami	Hradczany	subst:pl:inst:p3	nazwa własna budowli	
-Hradczanom	Hradczany	subst:pl:dat:p2	nazwa własna budowli	rzad.
-Hradczanom	Hradczany	subst:pl:dat:p3	nazwa własna budowli	
-Hradczanów	Hradczany	subst:pl:gen:p2	nazwa własna budowli	rzad.
-Hradczanów	Hradczany	subst:pl:gen:p3	nazwa własna budowli	
-Hradczany	Hradczany	subst:pl:acc:p2	nazwa własna budowli	rzad.
-Hradczany	Hradczany	subst:pl:acc:p3	nazwa własna budowli	
-Hradczany	Hradczany	subst:pl:nom:p2	nazwa własna budowli	rzad.
-Hradczany	Hradczany	subst:pl:nom:p3	nazwa własna budowli	
-Hradczany	Hradczany	subst:pl:voc:p2	nazwa własna budowli	rzad.
-Hradczany	Hradczany	subst:pl:voc:p3	nazwa własna budowli	
-Hrebennego	Hrebenne	subst:sg:gen:n2	nazwa geograficzna	
-Hrebenne	Hrebenne	subst:pl:acc:n2	nazwa geograficzna	
-Hrebenne	Hrebenne	subst:pl:nom:n2	nazwa geograficzna	
-Hrebenne	Hrebenne	subst:pl:voc:n2	nazwa geograficzna	
-Hrebenne	Hrebenne	subst:sg:acc:n2	nazwa geograficzna	
-Hrebenne	Hrebenne	subst:sg:nom:n2	nazwa geograficzna	
-Hrebenne	Hrebenne	subst:sg:voc:n2	nazwa geograficzna	
-Hrebennem	Hrebenne	subst:sg:inst:n2	nazwa geograficzna	
-Hrebennem	Hrebenne	subst:sg:loc:n2	nazwa geograficzna	
-Hrebennemu	Hrebenne	subst:sg:dat:n2	nazwa geograficzna	
-Hrebennych	Hrebenne	subst:pl:gen:n2	nazwa geograficzna	
-Hrebennych	Hrebenne	subst:pl:loc:n2	nazwa geograficzna	
-Hrebennym	Hrebenne	subst:pl:dat:n2	nazwa geograficzna	
-Hrebennymi	Hrebenne	subst:pl:inst:n2	nazwa geograficzna	
+Hradczanach	Hradczany	subst:pl:loc:n:pt	nazwa własna budowli	
+Hradczanach	Hradczany	subst:pl:loc:n:pt	nazwa własna budowli	rzad.
+Hradczanami	Hradczany	subst:pl:inst:n:pt	nazwa własna budowli	
+Hradczanami	Hradczany	subst:pl:inst:n:pt	nazwa własna budowli	rzad.
+Hradczanom	Hradczany	subst:pl:dat:n:pt	nazwa własna budowli	
+Hradczanom	Hradczany	subst:pl:dat:n:pt	nazwa własna budowli	rzad.
+Hradczanów	Hradczany	subst:pl:gen:n:pt	nazwa własna budowli	
+Hradczanów	Hradczany	subst:pl:gen:n:pt	nazwa własna budowli	rzad.
+Hradczany	Hradczany	subst:pl:acc:n:pt	nazwa własna budowli	
+Hradczany	Hradczany	subst:pl:acc:n:pt	nazwa własna budowli	rzad.
+Hradczany	Hradczany	subst:pl:nom:n:pt	nazwa własna budowli	
+Hradczany	Hradczany	subst:pl:nom:n:pt	nazwa własna budowli	rzad.
+Hradczany	Hradczany	subst:pl:voc:n:pt	nazwa własna budowli	
+Hradczany	Hradczany	subst:pl:voc:n:pt	nazwa własna budowli	rzad.
+Hrebennego	Hrebenne	subst:sg:gen:n:ncol	nazwa geograficzna	
+Hrebenne	Hrebenne	subst:pl:acc:n:ncol	nazwa geograficzna	
+Hrebenne	Hrebenne	subst:pl:nom:n:ncol	nazwa geograficzna	
+Hrebenne	Hrebenne	subst:pl:voc:n:ncol	nazwa geograficzna	
+Hrebenne	Hrebenne	subst:sg:acc:n:ncol	nazwa geograficzna	
+Hrebenne	Hrebenne	subst:sg:nom:n:ncol	nazwa geograficzna	
+Hrebenne	Hrebenne	subst:sg:voc:n:ncol	nazwa geograficzna	
+Hrebennem	Hrebenne	subst:sg:inst:n:ncol	nazwa geograficzna	
+Hrebennem	Hrebenne	subst:sg:loc:n:ncol	nazwa geograficzna	
+Hrebennemu	Hrebenne	subst:sg:dat:n:ncol	nazwa geograficzna	
+Hrebennych	Hrebenne	subst:pl:gen:n:ncol	nazwa geograficzna	
+Hrebennych	Hrebenne	subst:pl:loc:n:ncol	nazwa geograficzna	
+Hrebennym	Hrebenne	subst:pl:dat:n:ncol	nazwa geograficzna	
+Hrebennymi	Hrebenne	subst:pl:inst:n:ncol	nazwa geograficzna	
 Hrubieszowach	Hrubieszów	subst:pl:loc:m3	nazwa geograficzna	
 Hrubieszowa	Hrubieszów	subst:sg:gen:m3	nazwa geograficzna	
 Hrubieszowami	Hrubieszów	subst:pl:inst:m3	nazwa geograficzna	
@@ -4437,20 +4437,20 @@ Humboldtów	Humboldt	subst:pl:acc:m1	nazwisko
 Humboldtów	Humboldt	subst:pl:gen:m1	nazwisko	
 Humboldty	Humboldt	depr:pl:nom:m2	nazwisko	
 Humboldty	Humboldt	depr:pl:voc:m2	nazwisko	
-Humennego	Humenne	subst:sg:gen:n2	nazwa geograficzna	
-Humenne	Humenne	subst:pl:acc:n2	nazwa geograficzna	
-Humenne	Humenne	subst:pl:nom:n2	nazwa geograficzna	
-Humenne	Humenne	subst:pl:voc:n2	nazwa geograficzna	
-Humenne	Humenne	subst:sg:acc:n2	nazwa geograficzna	
-Humenne	Humenne	subst:sg:nom:n2	nazwa geograficzna	
-Humenne	Humenne	subst:sg:voc:n2	nazwa geograficzna	
-Humennem	Humenne	subst:sg:inst:n2	nazwa geograficzna	
-Humennem	Humenne	subst:sg:loc:n2	nazwa geograficzna	
-Humennemu	Humenne	subst:sg:dat:n2	nazwa geograficzna	
-Humennych	Humenne	subst:pl:gen:n2	nazwa geograficzna	
-Humennych	Humenne	subst:pl:loc:n2	nazwa geograficzna	
-Humennym	Humenne	subst:pl:dat:n2	nazwa geograficzna	
-Humennymi	Humenne	subst:pl:inst:n2	nazwa geograficzna	
+Humennego	Humenne	subst:sg:gen:n:ncol	nazwa geograficzna	
+Humenne	Humenne	subst:pl:acc:n:ncol	nazwa geograficzna	
+Humenne	Humenne	subst:pl:nom:n:ncol	nazwa geograficzna	
+Humenne	Humenne	subst:pl:voc:n:ncol	nazwa geograficzna	
+Humenne	Humenne	subst:sg:acc:n:ncol	nazwa geograficzna	
+Humenne	Humenne	subst:sg:nom:n:ncol	nazwa geograficzna	
+Humenne	Humenne	subst:sg:voc:n:ncol	nazwa geograficzna	
+Humennem	Humenne	subst:sg:inst:n:ncol	nazwa geograficzna	
+Humennem	Humenne	subst:sg:loc:n:ncol	nazwa geograficzna	
+Humennemu	Humenne	subst:sg:dat:n:ncol	nazwa geograficzna	
+Humennych	Humenne	subst:pl:gen:n:ncol	nazwa geograficzna	
+Humennych	Humenne	subst:pl:loc:n:ncol	nazwa geograficzna	
+Humennym	Humenne	subst:pl:dat:n:ncol	nazwa geograficzna	
+Humennymi	Humenne	subst:pl:inst:n:ncol	nazwa geograficzna	
 Humienna	Humienna	subst:sg:nom:f	nazwisko	
 Humienna	Humienna	subst:sg:voc:f	nazwisko	
 Humienną	Humienna	subst:sg:acc:f	nazwisko	

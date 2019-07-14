@@ -1,33 +1,33 @@
 All rights reserved.
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
 Aachen	Aachen	subst:pl:acc:m3	nazwa geograficzna	
-Aachen	Aachen	subst:pl:acc:n2	nazwa geograficzna	
+Aachen	Aachen	subst:pl:acc:n:ncol	nazwa geograficzna	
 Aachen	Aachen	subst:pl:dat:m3	nazwa geograficzna	
-Aachen	Aachen	subst:pl:dat:n2	nazwa geograficzna	
+Aachen	Aachen	subst:pl:dat:n:ncol	nazwa geograficzna	
 Aachen	Aachen	subst:pl:gen:m3	nazwa geograficzna	
-Aachen	Aachen	subst:pl:gen:n2	nazwa geograficzna	
+Aachen	Aachen	subst:pl:gen:n:ncol	nazwa geograficzna	
 Aachen	Aachen	subst:pl:inst:m3	nazwa geograficzna	
-Aachen	Aachen	subst:pl:inst:n2	nazwa geograficzna	
+Aachen	Aachen	subst:pl:inst:n:ncol	nazwa geograficzna	
 Aachen	Aachen	subst:pl:loc:m3	nazwa geograficzna	
-Aachen	Aachen	subst:pl:loc:n2	nazwa geograficzna	
+Aachen	Aachen	subst:pl:loc:n:ncol	nazwa geograficzna	
 Aachen	Aachen	subst:pl:nom:m3	nazwa geograficzna	
-Aachen	Aachen	subst:pl:nom:n2	nazwa geograficzna	
+Aachen	Aachen	subst:pl:nom:n:ncol	nazwa geograficzna	
 Aachen	Aachen	subst:pl:voc:m3	nazwa geograficzna	
-Aachen	Aachen	subst:pl:voc:n2	nazwa geograficzna	
+Aachen	Aachen	subst:pl:voc:n:ncol	nazwa geograficzna	
 Aachen	Aachen	subst:sg:acc:m3	nazwa geograficzna	
-Aachen	Aachen	subst:sg:acc:n2	nazwa geograficzna	
+Aachen	Aachen	subst:sg:acc:n:ncol	nazwa geograficzna	
 Aachen	Aachen	subst:sg:dat:m3	nazwa geograficzna	
-Aachen	Aachen	subst:sg:dat:n2	nazwa geograficzna	
+Aachen	Aachen	subst:sg:dat:n:ncol	nazwa geograficzna	
 Aachen	Aachen	subst:sg:gen:m3	nazwa geograficzna	
-Aachen	Aachen	subst:sg:gen:n2	nazwa geograficzna	
+Aachen	Aachen	subst:sg:gen:n:ncol	nazwa geograficzna	
 Aachen	Aachen	subst:sg:inst:m3	nazwa geograficzna	
-Aachen	Aachen	subst:sg:inst:n2	nazwa geograficzna	
+Aachen	Aachen	subst:sg:inst:n:ncol	nazwa geograficzna	
 Aachen	Aachen	subst:sg:loc:m3	nazwa geograficzna	
-Aachen	Aachen	subst:sg:loc:n2	nazwa geograficzna	
+Aachen	Aachen	subst:sg:loc:n:ncol	nazwa geograficzna	
 Aachen	Aachen	subst:sg:nom:m3	nazwa geograficzna	
-Aachen	Aachen	subst:sg:nom:n2	nazwa geograficzna	
+Aachen	Aachen	subst:sg:nom:n:ncol	nazwa geograficzna	
 Aachen	Aachen	subst:sg:voc:m3	nazwa geograficzna	
-Aachen	Aachen	subst:sg:voc:n2	nazwa geograficzna	
+Aachen	Aachen	subst:sg:voc:n:ncol	nazwa geograficzna	
 AAP	AAP	subst:pl:acc:f	nazwa instytucji	
 AAP	AAP	subst:pl:dat:f	nazwa instytucji	
 AAP	AAP	subst:pl:gen:f	nazwa instytucji	
@@ -60,41 +60,41 @@ Aaronów	Aaron	subst:pl:acc:m1	imię
 Aaronów	Aaron	subst:pl:gen:m1	imię	
 Aarony	Aaron	depr:pl:nom:m2	imię	
 Aarony	Aaron	depr:pl:voc:m2	imię	
-AA	AA:s1	subst:pl:acc:p1	nazwa organizacji	
-AA	AA:s1	subst:pl:dat:p1	nazwa organizacji	
-AA	AA:s1	subst:pl:gen:p1	nazwa organizacji	
-AA	AA:s1	subst:pl:inst:p1	nazwa organizacji	
-AA	AA:s1	subst:pl:loc:p1	nazwa organizacji	
-AA	AA:s1	subst:pl:nom:p1	nazwa organizacji	
-AA	AA:s1	subst:pl:voc:p1	nazwa organizacji	
+AA	AA:s1	subst:pl:acc:m1:pt	nazwa organizacji	
+AA	AA:s1	subst:pl:dat:m1:pt	nazwa organizacji	
+AA	AA:s1	subst:pl:gen:m1:pt	nazwa organizacji	
+AA	AA:s1	subst:pl:inst:m1:pt	nazwa organizacji	
+AA	AA:s1	subst:pl:loc:m1:pt	nazwa organizacji	
+AA	AA:s1	subst:pl:nom:m1:pt	nazwa organizacji	
+AA	AA:s1	subst:pl:voc:m1:pt	nazwa organizacji	
 AA	AA:s2	subst:pl:acc:m3	nazwa firmy	
-AA	AA:s2	subst:pl:acc:n2	nazwa firmy	
+AA	AA:s2	subst:pl:acc:n:ncol	nazwa firmy	
 AA	AA:s2	subst:pl:dat:m3	nazwa firmy	
-AA	AA:s2	subst:pl:dat:n2	nazwa firmy	
+AA	AA:s2	subst:pl:dat:n:ncol	nazwa firmy	
 AA	AA:s2	subst:pl:gen:m3	nazwa firmy	
-AA	AA:s2	subst:pl:gen:n2	nazwa firmy	
+AA	AA:s2	subst:pl:gen:n:ncol	nazwa firmy	
 AA	AA:s2	subst:pl:inst:m3	nazwa firmy	
-AA	AA:s2	subst:pl:inst:n2	nazwa firmy	
+AA	AA:s2	subst:pl:inst:n:ncol	nazwa firmy	
 AA	AA:s2	subst:pl:loc:m3	nazwa firmy	
-AA	AA:s2	subst:pl:loc:n2	nazwa firmy	
+AA	AA:s2	subst:pl:loc:n:ncol	nazwa firmy	
 AA	AA:s2	subst:pl:nom:m3	nazwa firmy	
-AA	AA:s2	subst:pl:nom:n2	nazwa firmy	
+AA	AA:s2	subst:pl:nom:n:ncol	nazwa firmy	
 AA	AA:s2	subst:pl:voc:m3	nazwa firmy	
-AA	AA:s2	subst:pl:voc:n2	nazwa firmy	
+AA	AA:s2	subst:pl:voc:n:ncol	nazwa firmy	
 AA	AA:s2	subst:sg:acc:m3	nazwa firmy	
-AA	AA:s2	subst:sg:acc:n2	nazwa firmy	
+AA	AA:s2	subst:sg:acc:n:ncol	nazwa firmy	
 AA	AA:s2	subst:sg:dat:m3	nazwa firmy	
-AA	AA:s2	subst:sg:dat:n2	nazwa firmy	
+AA	AA:s2	subst:sg:dat:n:ncol	nazwa firmy	
 AA	AA:s2	subst:sg:gen:m3	nazwa firmy	
-AA	AA:s2	subst:sg:gen:n2	nazwa firmy	
+AA	AA:s2	subst:sg:gen:n:ncol	nazwa firmy	
 AA	AA:s2	subst:sg:inst:m3	nazwa firmy	
-AA	AA:s2	subst:sg:inst:n2	nazwa firmy	
+AA	AA:s2	subst:sg:inst:n:ncol	nazwa firmy	
 AA	AA:s2	subst:sg:loc:m3	nazwa firmy	
-AA	AA:s2	subst:sg:loc:n2	nazwa firmy	
+AA	AA:s2	subst:sg:loc:n:ncol	nazwa firmy	
 AA	AA:s2	subst:sg:nom:m3	nazwa firmy	
-AA	AA:s2	subst:sg:nom:n2	nazwa firmy	
+AA	AA:s2	subst:sg:nom:n:ncol	nazwa firmy	
 AA	AA:s2	subst:sg:voc:m3	nazwa firmy	
-AA	AA:s2	subst:sg:voc:n2	nazwa firmy	
+AA	AA:s2	subst:sg:voc:n:ncol	nazwa firmy	
 Abakanowicza	Abakanowicz	subst:sg:acc:m1	nazwisko	
 Abakanowicza	Abakanowicz	subst:sg:gen:m1	nazwisko	
 Abakanowicz	Abakanowicz	subst:sg:nom:m1	nazwisko	
@@ -113,20 +113,20 @@ Abakanowiczów	Abakanowicz	subst:pl:acc:m1	nazwisko
 Abakanowiczów	Abakanowicz	subst:pl:gen:m1	nazwisko	
 Abakanowiczu	Abakanowicz	subst:sg:loc:m1	nazwisko	
 Abakanowiczu	Abakanowicz	subst:sg:voc:m1	nazwisko	
-ABB	ABB	subst:pl:acc:n2	nazwa firmy	
-ABB	ABB	subst:pl:dat:n2	nazwa firmy	
-ABB	ABB	subst:pl:gen:n2	nazwa firmy	
-ABB	ABB	subst:pl:inst:n2	nazwa firmy	
-ABB	ABB	subst:pl:loc:n2	nazwa firmy	
-ABB	ABB	subst:pl:nom:n2	nazwa firmy	
-ABB	ABB	subst:pl:voc:n2	nazwa firmy	
-ABB	ABB	subst:sg:acc:n2	nazwa firmy	
-ABB	ABB	subst:sg:dat:n2	nazwa firmy	
-ABB	ABB	subst:sg:gen:n2	nazwa firmy	
-ABB	ABB	subst:sg:inst:n2	nazwa firmy	
-ABB	ABB	subst:sg:loc:n2	nazwa firmy	
-ABB	ABB	subst:sg:nom:n2	nazwa firmy	
-ABB	ABB	subst:sg:voc:n2	nazwa firmy	
+ABB	ABB	subst:pl:acc:n:ncol	nazwa firmy	
+ABB	ABB	subst:pl:dat:n:ncol	nazwa firmy	
+ABB	ABB	subst:pl:gen:n:ncol	nazwa firmy	
+ABB	ABB	subst:pl:inst:n:ncol	nazwa firmy	
+ABB	ABB	subst:pl:loc:n:ncol	nazwa firmy	
+ABB	ABB	subst:pl:nom:n:ncol	nazwa firmy	
+ABB	ABB	subst:pl:voc:n:ncol	nazwa firmy	
+ABB	ABB	subst:sg:acc:n:ncol	nazwa firmy	
+ABB	ABB	subst:sg:dat:n:ncol	nazwa firmy	
+ABB	ABB	subst:sg:gen:n:ncol	nazwa firmy	
+ABB	ABB	subst:sg:inst:n:ncol	nazwa firmy	
+ABB	ABB	subst:sg:loc:n:ncol	nazwa firmy	
+ABB	ABB	subst:sg:nom:n:ncol	nazwa firmy	
+ABB	ABB	subst:sg:voc:n:ncol	nazwa firmy	
 ABBA	ABBA	subst:sg:nom:f	nazwa własna	
 ABB	ABBA	subst:pl:gen:f	nazwa własna	
 ABB-ach	ABBA	subst:pl:loc:f	nazwa własna	
@@ -141,20 +141,20 @@ ABB-y	ABBA	subst:pl:acc:f	nazwa własna
 ABB-y	ABBA	subst:pl:nom:f	nazwa własna	
 ABB-y	ABBA	subst:pl:voc:f	nazwa własna	
 ABB-y	ABBA	subst:sg:gen:f	nazwa własna	
-ABC	ABC	subst:pl:acc:n2	nazwa firmy	
-ABC	ABC	subst:pl:dat:n2	nazwa firmy	
-ABC	ABC	subst:pl:gen:n2	nazwa firmy	
-ABC	ABC	subst:pl:inst:n2	nazwa firmy	
-ABC	ABC	subst:pl:loc:n2	nazwa firmy	
-ABC	ABC	subst:pl:nom:n2	nazwa firmy	
-ABC	ABC	subst:pl:voc:n2	nazwa firmy	
-ABC	ABC	subst:sg:acc:n2	nazwa firmy	
-ABC	ABC	subst:sg:dat:n2	nazwa firmy	
-ABC	ABC	subst:sg:gen:n2	nazwa firmy	
-ABC	ABC	subst:sg:inst:n2	nazwa firmy	
-ABC	ABC	subst:sg:loc:n2	nazwa firmy	
-ABC	ABC	subst:sg:nom:n2	nazwa firmy	
-ABC	ABC	subst:sg:voc:n2	nazwa firmy	
+ABC	ABC	subst:pl:acc:n:ncol	nazwa firmy	
+ABC	ABC	subst:pl:dat:n:ncol	nazwa firmy	
+ABC	ABC	subst:pl:gen:n:ncol	nazwa firmy	
+ABC	ABC	subst:pl:inst:n:ncol	nazwa firmy	
+ABC	ABC	subst:pl:loc:n:ncol	nazwa firmy	
+ABC	ABC	subst:pl:nom:n:ncol	nazwa firmy	
+ABC	ABC	subst:pl:voc:n:ncol	nazwa firmy	
+ABC	ABC	subst:sg:acc:n:ncol	nazwa firmy	
+ABC	ABC	subst:sg:dat:n:ncol	nazwa firmy	
+ABC	ABC	subst:sg:gen:n:ncol	nazwa firmy	
+ABC	ABC	subst:sg:inst:n:ncol	nazwa firmy	
+ABC	ABC	subst:sg:loc:n:ncol	nazwa firmy	
+ABC	ABC	subst:sg:nom:n:ncol	nazwa firmy	
+ABC	ABC	subst:sg:voc:n:ncol	nazwa firmy	
 Abchaza	Abchaz	subst:sg:acc:m1	nazwa pospolita	etn.
 Abchaza	Abchaz	subst:sg:gen:m1	nazwa pospolita	etn.
 Abchaz	Abchaz	subst:sg:nom:m1	nazwa pospolita	etn.
@@ -553,20 +553,20 @@ Absalonów	Absalon	subst:pl:acc:m1	imię
 Absalonów	Absalon	subst:pl:gen:m1	imię	
 Absalony	Absalon	depr:pl:nom:m2	imię	
 Absalony	Absalon	depr:pl:voc:m2	imię	
-AC	AC	subst:pl:acc:n2	nazwa pospolita	
-AC	AC	subst:pl:dat:n2	nazwa pospolita	
-AC	AC	subst:pl:gen:n2	nazwa pospolita	
-AC	AC	subst:pl:inst:n2	nazwa pospolita	
-AC	AC	subst:pl:loc:n2	nazwa pospolita	
-AC	AC	subst:pl:nom:n2	nazwa pospolita	
-AC	AC	subst:pl:voc:n2	nazwa pospolita	
-AC	AC	subst:sg:acc:n2	nazwa pospolita	
-AC	AC	subst:sg:dat:n2	nazwa pospolita	
-AC	AC	subst:sg:gen:n2	nazwa pospolita	
-AC	AC	subst:sg:inst:n2	nazwa pospolita	
-AC	AC	subst:sg:loc:n2	nazwa pospolita	
-AC	AC	subst:sg:nom:n2	nazwa pospolita	
-AC	AC	subst:sg:voc:n2	nazwa pospolita	
+AC	AC	subst:pl:acc:n:ncol	nazwa pospolita	
+AC	AC	subst:pl:dat:n:ncol	nazwa pospolita	
+AC	AC	subst:pl:gen:n:ncol	nazwa pospolita	
+AC	AC	subst:pl:inst:n:ncol	nazwa pospolita	
+AC	AC	subst:pl:loc:n:ncol	nazwa pospolita	
+AC	AC	subst:pl:nom:n:ncol	nazwa pospolita	
+AC	AC	subst:pl:voc:n:ncol	nazwa pospolita	
+AC	AC	subst:sg:acc:n:ncol	nazwa pospolita	
+AC	AC	subst:sg:dat:n:ncol	nazwa pospolita	
+AC	AC	subst:sg:gen:n:ncol	nazwa pospolita	
+AC	AC	subst:sg:inst:n:ncol	nazwa pospolita	
+AC	AC	subst:sg:loc:n:ncol	nazwa pospolita	
+AC	AC	subst:sg:nom:n:ncol	nazwa pospolita	
+AC	AC	subst:sg:voc:n:ncol	nazwa pospolita	
 A	accusativus	brev:pun		jęz.
 Achacjusza	Achacjusz	subst:sg:acc:m1	imię	
 Achacjusza	Achacjusz	subst:sg:gen:m1	imię	
@@ -1305,33 +1305,33 @@ Adonisów	Adonis	subst:pl:gen:m1	imię	mit.
 Adonisy	Adonis	depr:pl:nom:m2	imię	mit.
 Adonisy	Adonis	depr:pl:voc:m2	imię	mit.
 ADP	ADP	subst:pl:acc:m3	nazwa pospolita	
-ADP	ADP	subst:pl:acc:n2	nazwa pospolita	
+ADP	ADP	subst:pl:acc:n:ncol	nazwa pospolita	
 ADP	ADP	subst:pl:dat:m3	nazwa pospolita	
-ADP	ADP	subst:pl:dat:n2	nazwa pospolita	
+ADP	ADP	subst:pl:dat:n:ncol	nazwa pospolita	
 ADP	ADP	subst:pl:gen:m3	nazwa pospolita	
-ADP	ADP	subst:pl:gen:n2	nazwa pospolita	
+ADP	ADP	subst:pl:gen:n:ncol	nazwa pospolita	
 ADP	ADP	subst:pl:inst:m3	nazwa pospolita	
-ADP	ADP	subst:pl:inst:n2	nazwa pospolita	
+ADP	ADP	subst:pl:inst:n:ncol	nazwa pospolita	
 ADP	ADP	subst:pl:loc:m3	nazwa pospolita	
-ADP	ADP	subst:pl:loc:n2	nazwa pospolita	
+ADP	ADP	subst:pl:loc:n:ncol	nazwa pospolita	
 ADP	ADP	subst:pl:nom:m3	nazwa pospolita	
-ADP	ADP	subst:pl:nom:n2	nazwa pospolita	
+ADP	ADP	subst:pl:nom:n:ncol	nazwa pospolita	
 ADP	ADP	subst:pl:voc:m3	nazwa pospolita	
-ADP	ADP	subst:pl:voc:n2	nazwa pospolita	
+ADP	ADP	subst:pl:voc:n:ncol	nazwa pospolita	
 ADP	ADP	subst:sg:acc:m3	nazwa pospolita	
-ADP	ADP	subst:sg:acc:n2	nazwa pospolita	
+ADP	ADP	subst:sg:acc:n:ncol	nazwa pospolita	
 ADP	ADP	subst:sg:dat:m3	nazwa pospolita	
-ADP	ADP	subst:sg:dat:n2	nazwa pospolita	
+ADP	ADP	subst:sg:dat:n:ncol	nazwa pospolita	
 ADP	ADP	subst:sg:gen:m3	nazwa pospolita	
-ADP	ADP	subst:sg:gen:n2	nazwa pospolita	
+ADP	ADP	subst:sg:gen:n:ncol	nazwa pospolita	
 ADP	ADP	subst:sg:inst:m3	nazwa pospolita	
-ADP	ADP	subst:sg:inst:n2	nazwa pospolita	
+ADP	ADP	subst:sg:inst:n:ncol	nazwa pospolita	
 ADP	ADP	subst:sg:loc:m3	nazwa pospolita	
-ADP	ADP	subst:sg:loc:n2	nazwa pospolita	
+ADP	ADP	subst:sg:loc:n:ncol	nazwa pospolita	
 ADP	ADP	subst:sg:nom:m3	nazwa pospolita	
-ADP	ADP	subst:sg:nom:n2	nazwa pospolita	
+ADP	ADP	subst:sg:nom:n:ncol	nazwa pospolita	
 ADP	ADP	subst:sg:voc:m3	nazwa pospolita	
-ADP	ADP	subst:sg:voc:n2	nazwa pospolita	
+ADP	ADP	subst:sg:voc:n:ncol	nazwa pospolita	
 Adria	Adria	subst:sg:nom:f	imię	
 Adriach	Adria	subst:pl:loc:f	imię	
 Adriami	Adria	subst:pl:inst:f	imię	
@@ -1559,33 +1559,33 @@ Afgańczyków	Afgańczyk	subst:pl:gen:m1	nazwa pospolita
 Afgańczyku	Afgańczyk	subst:sg:loc:m1	nazwa pospolita	
 Afgańczyku	Afgańczyk	subst:sg:voc:m1	nazwa pospolita	
 AFP	AFP	subst:pl:acc:f	nazwa firmy	
-AFP	AFP	subst:pl:acc:n2	nazwa firmy	
+AFP	AFP	subst:pl:acc:n:ncol	nazwa firmy	
 AFP	AFP	subst:pl:dat:f	nazwa firmy	
-AFP	AFP	subst:pl:dat:n2	nazwa firmy	
+AFP	AFP	subst:pl:dat:n:ncol	nazwa firmy	
 AFP	AFP	subst:pl:gen:f	nazwa firmy	
-AFP	AFP	subst:pl:gen:n2	nazwa firmy	
+AFP	AFP	subst:pl:gen:n:ncol	nazwa firmy	
 AFP	AFP	subst:pl:inst:f	nazwa firmy	
-AFP	AFP	subst:pl:inst:n2	nazwa firmy	
+AFP	AFP	subst:pl:inst:n:ncol	nazwa firmy	
 AFP	AFP	subst:pl:loc:f	nazwa firmy	
-AFP	AFP	subst:pl:loc:n2	nazwa firmy	
+AFP	AFP	subst:pl:loc:n:ncol	nazwa firmy	
 AFP	AFP	subst:pl:nom:f	nazwa firmy	
-AFP	AFP	subst:pl:nom:n2	nazwa firmy	
+AFP	AFP	subst:pl:nom:n:ncol	nazwa firmy	
 AFP	AFP	subst:pl:voc:f	nazwa firmy	
-AFP	AFP	subst:pl:voc:n2	nazwa firmy	
+AFP	AFP	subst:pl:voc:n:ncol	nazwa firmy	
 AFP	AFP	subst:sg:acc:f	nazwa firmy	
-AFP	AFP	subst:sg:acc:n2	nazwa firmy	
+AFP	AFP	subst:sg:acc:n:ncol	nazwa firmy	
 AFP	AFP	subst:sg:dat:f	nazwa firmy	
-AFP	AFP	subst:sg:dat:n2	nazwa firmy	
+AFP	AFP	subst:sg:dat:n:ncol	nazwa firmy	
 AFP	AFP	subst:sg:gen:f	nazwa firmy	
-AFP	AFP	subst:sg:gen:n2	nazwa firmy	
+AFP	AFP	subst:sg:gen:n:ncol	nazwa firmy	
 AFP	AFP	subst:sg:inst:f	nazwa firmy	
-AFP	AFP	subst:sg:inst:n2	nazwa firmy	
+AFP	AFP	subst:sg:inst:n:ncol	nazwa firmy	
 AFP	AFP	subst:sg:loc:f	nazwa firmy	
-AFP	AFP	subst:sg:loc:n2	nazwa firmy	
+AFP	AFP	subst:sg:loc:n:ncol	nazwa firmy	
 AFP	AFP	subst:sg:nom:f	nazwa firmy	
-AFP	AFP	subst:sg:nom:n2	nazwa firmy	
+AFP	AFP	subst:sg:nom:n:ncol	nazwa firmy	
 AFP	AFP	subst:sg:voc:f	nazwa firmy	
-AFP	AFP	subst:sg:voc:n2	nazwa firmy	
+AFP	AFP	subst:sg:voc:n:ncol	nazwa firmy	
 Afroamerykanach	Afroamerykanin	subst:pl:loc:m1	nazwa pospolita	
 Afroamerykanami	Afroamerykanin	subst:pl:inst:m1	nazwa pospolita	
 Afroamerykanie	Afroamerykanin	subst:pl:nom:m1	nazwa pospolita	
@@ -1864,27 +1864,27 @@ Agatoników	Agatonik	subst:pl:acc:m1	imię
 Agatoników	Agatonik	subst:pl:gen:m1	imię	
 Agatoniku	Agatonik	subst:sg:loc:m1	imię	
 Agatoniku	Agatonik	subst:sg:voc:m1	imię	
-AGD	AGD	subst:pl:acc:p3	nazwa pospolita	
-AGD	AGD	subst:pl:dat:p3	nazwa pospolita	
-AGD	AGD	subst:pl:gen:p3	nazwa pospolita	
-AGD	AGD	subst:pl:inst:p3	nazwa pospolita	
-AGD	AGD	subst:pl:loc:p3	nazwa pospolita	
-AGD	AGD	subst:pl:nom:p3	nazwa pospolita	
-AGD	AGD	subst:pl:voc:p3	nazwa pospolita	
-Age	Age	subst:pl:acc:n2	człon nazwy własnej	
-Age	Age	subst:pl:dat:n2	człon nazwy własnej	
-Age	Age	subst:pl:gen:n2	człon nazwy własnej	
-Age	Age	subst:pl:inst:n2	człon nazwy własnej	
-Age	Age	subst:pl:loc:n2	człon nazwy własnej	
-Age	Age	subst:pl:nom:n2	człon nazwy własnej	
-Age	Age	subst:pl:voc:n2	człon nazwy własnej	
-Age	Age	subst:sg:acc:n2	człon nazwy własnej	
-Age	Age	subst:sg:dat:n2	człon nazwy własnej	
-Age	Age	subst:sg:gen:n2	człon nazwy własnej	
-Age	Age	subst:sg:inst:n2	człon nazwy własnej	
-Age	Age	subst:sg:loc:n2	człon nazwy własnej	
-Age	Age	subst:sg:nom:n2	człon nazwy własnej	
-Age	Age	subst:sg:voc:n2	człon nazwy własnej	
+AGD	AGD	subst:pl:acc:n:pt	nazwa pospolita	
+AGD	AGD	subst:pl:dat:n:pt	nazwa pospolita	
+AGD	AGD	subst:pl:gen:n:pt	nazwa pospolita	
+AGD	AGD	subst:pl:inst:n:pt	nazwa pospolita	
+AGD	AGD	subst:pl:loc:n:pt	nazwa pospolita	
+AGD	AGD	subst:pl:nom:n:pt	nazwa pospolita	
+AGD	AGD	subst:pl:voc:n:pt	nazwa pospolita	
+Age	Age	subst:pl:acc:n:ncol	człon nazwy własnej	
+Age	Age	subst:pl:dat:n:ncol	człon nazwy własnej	
+Age	Age	subst:pl:gen:n:ncol	człon nazwy własnej	
+Age	Age	subst:pl:inst:n:ncol	człon nazwy własnej	
+Age	Age	subst:pl:loc:n:ncol	człon nazwy własnej	
+Age	Age	subst:pl:nom:n:ncol	człon nazwy własnej	
+Age	Age	subst:pl:voc:n:ncol	człon nazwy własnej	
+Age	Age	subst:sg:acc:n:ncol	człon nazwy własnej	
+Age	Age	subst:sg:dat:n:ncol	człon nazwy własnej	
+Age	Age	subst:sg:gen:n:ncol	człon nazwy własnej	
+Age	Age	subst:sg:inst:n:ncol	człon nazwy własnej	
+Age	Age	subst:sg:loc:n:ncol	człon nazwy własnej	
+Age	Age	subst:sg:nom:n:ncol	człon nazwy własnej	
+Age	Age	subst:sg:voc:n:ncol	człon nazwy własnej	
 Agenora	Agenor	subst:sg:acc:m1	imię	
 Agenora	Agenor	subst:sg:gen:m1	imię	
 Agenorach	Agenor	subst:pl:loc:m1	imię	
@@ -1958,33 +1958,33 @@ Aggeuszów	Aggeusz	subst:pl:gen:m1	imię	bibl.
 Aggeuszu	Aggeusz	subst:sg:loc:m1	imię	bibl.
 Aggeuszu	Aggeusz	subst:sg:voc:m1	imię	bibl.
 AGH	AGH	subst:pl:acc:f	nazwa instytucji	
-AGH	AGH	subst:pl:acc:n2	nazwa instytucji	
+AGH	AGH	subst:pl:acc:n:ncol	nazwa instytucji	
 AGH	AGH	subst:pl:dat:f	nazwa instytucji	
-AGH	AGH	subst:pl:dat:n2	nazwa instytucji	
+AGH	AGH	subst:pl:dat:n:ncol	nazwa instytucji	
 AGH	AGH	subst:pl:gen:f	nazwa instytucji	
-AGH	AGH	subst:pl:gen:n2	nazwa instytucji	
+AGH	AGH	subst:pl:gen:n:ncol	nazwa instytucji	
 AGH	AGH	subst:pl:inst:f	nazwa instytucji	
-AGH	AGH	subst:pl:inst:n2	nazwa instytucji	
+AGH	AGH	subst:pl:inst:n:ncol	nazwa instytucji	
 AGH	AGH	subst:pl:loc:f	nazwa instytucji	
-AGH	AGH	subst:pl:loc:n2	nazwa instytucji	
+AGH	AGH	subst:pl:loc:n:ncol	nazwa instytucji	
 AGH	AGH	subst:pl:nom:f	nazwa instytucji	
-AGH	AGH	subst:pl:nom:n2	nazwa instytucji	
+AGH	AGH	subst:pl:nom:n:ncol	nazwa instytucji	
 AGH	AGH	subst:pl:voc:f	nazwa instytucji	
-AGH	AGH	subst:pl:voc:n2	nazwa instytucji	
+AGH	AGH	subst:pl:voc:n:ncol	nazwa instytucji	
 AGH	AGH	subst:sg:acc:f	nazwa instytucji	
-AGH	AGH	subst:sg:acc:n2	nazwa instytucji	
+AGH	AGH	subst:sg:acc:n:ncol	nazwa instytucji	
 AGH	AGH	subst:sg:dat:f	nazwa instytucji	
-AGH	AGH	subst:sg:dat:n2	nazwa instytucji	
+AGH	AGH	subst:sg:dat:n:ncol	nazwa instytucji	
 AGH	AGH	subst:sg:gen:f	nazwa instytucji	
-AGH	AGH	subst:sg:gen:n2	nazwa instytucji	
+AGH	AGH	subst:sg:gen:n:ncol	nazwa instytucji	
 AGH	AGH	subst:sg:inst:f	nazwa instytucji	
-AGH	AGH	subst:sg:inst:n2	nazwa instytucji	
+AGH	AGH	subst:sg:inst:n:ncol	nazwa instytucji	
 AGH	AGH	subst:sg:loc:f	nazwa instytucji	
-AGH	AGH	subst:sg:loc:n2	nazwa instytucji	
+AGH	AGH	subst:sg:loc:n:ncol	nazwa instytucji	
 AGH	AGH	subst:sg:nom:f	nazwa instytucji	
-AGH	AGH	subst:sg:nom:n2	nazwa instytucji	
+AGH	AGH	subst:sg:nom:n:ncol	nazwa instytucji	
 AGH	AGH	subst:sg:voc:f	nazwa instytucji	
-AGH	AGH	subst:sg:voc:n2	nazwa instytucji	
+AGH	AGH	subst:sg:voc:n:ncol	nazwa instytucji	
 Adze	Agha	subst:sg:dat:m1	imię	
 Adze	Agha	subst:sg:loc:m1	imię	
 Agha	Agha	subst:sg:nom:m1	imię	
@@ -2128,34 +2128,34 @@ AIDS-a	AIDS	subst:sg:gen:m2	nazwa pospolita
 AIDS-ach	AIDS	subst:pl:loc:m2	nazwa pospolita	
 AIDS-ach	AIDS	subst:pl:loc:m3	nazwa pospolita	
 AIDS	AIDS	subst:pl:acc:m3	nazwa pospolita	
-AIDS	AIDS	subst:pl:acc:n2	nazwa pospolita	
+AIDS	AIDS	subst:pl:acc:n:ncol	nazwa pospolita	
 AIDS	AIDS	subst:pl:dat:m3	nazwa pospolita	
-AIDS	AIDS	subst:pl:dat:n2	nazwa pospolita	
+AIDS	AIDS	subst:pl:dat:n:ncol	nazwa pospolita	
 AIDS	AIDS	subst:pl:gen:m3	nazwa pospolita	
-AIDS	AIDS	subst:pl:gen:n2	nazwa pospolita	
+AIDS	AIDS	subst:pl:gen:n:ncol	nazwa pospolita	
 AIDS	AIDS	subst:pl:inst:m3	nazwa pospolita	
-AIDS	AIDS	subst:pl:inst:n2	nazwa pospolita	
+AIDS	AIDS	subst:pl:inst:n:ncol	nazwa pospolita	
 AIDS	AIDS	subst:pl:loc:m3	nazwa pospolita	
-AIDS	AIDS	subst:pl:loc:n2	nazwa pospolita	
+AIDS	AIDS	subst:pl:loc:n:ncol	nazwa pospolita	
 AIDS	AIDS	subst:pl:nom:m3	nazwa pospolita	
-AIDS	AIDS	subst:pl:nom:n2	nazwa pospolita	
+AIDS	AIDS	subst:pl:nom:n:ncol	nazwa pospolita	
 AIDS	AIDS	subst:pl:voc:m3	nazwa pospolita	
-AIDS	AIDS	subst:pl:voc:n2	nazwa pospolita	
+AIDS	AIDS	subst:pl:voc:n:ncol	nazwa pospolita	
 AIDS	AIDS	subst:sg:acc:m3	nazwa pospolita	
-AIDS	AIDS	subst:sg:acc:n2	nazwa pospolita	
+AIDS	AIDS	subst:sg:acc:n:ncol	nazwa pospolita	
 AIDS	AIDS	subst:sg:dat:m3	nazwa pospolita	
-AIDS	AIDS	subst:sg:dat:n2	nazwa pospolita	
+AIDS	AIDS	subst:sg:dat:n:ncol	nazwa pospolita	
 AIDS	AIDS	subst:sg:gen:m3	nazwa pospolita	
-AIDS	AIDS	subst:sg:gen:n2	nazwa pospolita	
+AIDS	AIDS	subst:sg:gen:n:ncol	nazwa pospolita	
 AIDS	AIDS	subst:sg:inst:m3	nazwa pospolita	
-AIDS	AIDS	subst:sg:inst:n2	nazwa pospolita	
+AIDS	AIDS	subst:sg:inst:n:ncol	nazwa pospolita	
 AIDS	AIDS	subst:sg:loc:m3	nazwa pospolita	
-AIDS	AIDS	subst:sg:loc:n2	nazwa pospolita	
+AIDS	AIDS	subst:sg:loc:n:ncol	nazwa pospolita	
 AIDS	AIDS	subst:sg:nom:m2	nazwa pospolita	
 AIDS	AIDS	subst:sg:nom:m3	nazwa pospolita	
-AIDS	AIDS	subst:sg:nom:n2	nazwa pospolita	
+AIDS	AIDS	subst:sg:nom:n:ncol	nazwa pospolita	
 AIDS	AIDS	subst:sg:voc:m3	nazwa pospolita	
-AIDS	AIDS	subst:sg:voc:n2	nazwa pospolita	
+AIDS	AIDS	subst:sg:voc:n:ncol	nazwa pospolita	
 AIDS-ami	AIDS	subst:pl:inst:m2	nazwa pospolita	
 AIDS-ami	AIDS	subst:pl:inst:m3	nazwa pospolita	
 AIDS-em	AIDS	subst:sg:inst:m2	nazwa pospolita	
@@ -2206,48 +2206,48 @@ AIF-y	AIF	subst:pl:acc:m3	nazwa firmy
 AIF-y	AIF	subst:pl:nom:m3	nazwa firmy	
 AIF-y	AIF	subst:pl:voc:m3	nazwa firmy	
 Aires	Aires:b	burk		
-Aires	Aires:s	subst:pl:acc:n2	człon nazwy geograficznej	
-Aires	Aires:s	subst:pl:dat:n2	człon nazwy geograficznej	
-Aires	Aires:s	subst:pl:gen:n2	człon nazwy geograficznej	
-Aires	Aires:s	subst:pl:inst:n2	człon nazwy geograficznej	
-Aires	Aires:s	subst:pl:loc:n2	człon nazwy geograficznej	
-Aires	Aires:s	subst:pl:nom:n2	człon nazwy geograficznej	
-Aires	Aires:s	subst:pl:voc:n2	człon nazwy geograficznej	
-Aires	Aires:s	subst:sg:acc:n2	człon nazwy geograficznej	
-Aires	Aires:s	subst:sg:dat:n2	człon nazwy geograficznej	
-Aires	Aires:s	subst:sg:gen:n2	człon nazwy geograficznej	
-Aires	Aires:s	subst:sg:inst:n2	człon nazwy geograficznej	
-Aires	Aires:s	subst:sg:loc:n2	człon nazwy geograficznej	
-Aires	Aires:s	subst:sg:nom:n2	człon nazwy geograficznej	
-Aires	Aires:s	subst:sg:voc:n2	człon nazwy geograficznej	
+Aires	Aires:s	subst:pl:acc:n:ncol	człon nazwy geograficznej	
+Aires	Aires:s	subst:pl:dat:n:ncol	człon nazwy geograficznej	
+Aires	Aires:s	subst:pl:gen:n:ncol	człon nazwy geograficznej	
+Aires	Aires:s	subst:pl:inst:n:ncol	człon nazwy geograficznej	
+Aires	Aires:s	subst:pl:loc:n:ncol	człon nazwy geograficznej	
+Aires	Aires:s	subst:pl:nom:n:ncol	człon nazwy geograficznej	
+Aires	Aires:s	subst:pl:voc:n:ncol	człon nazwy geograficznej	
+Aires	Aires:s	subst:sg:acc:n:ncol	człon nazwy geograficznej	
+Aires	Aires:s	subst:sg:dat:n:ncol	człon nazwy geograficznej	
+Aires	Aires:s	subst:sg:gen:n:ncol	człon nazwy geograficznej	
+Aires	Aires:s	subst:sg:inst:n:ncol	człon nazwy geograficznej	
+Aires	Aires:s	subst:sg:loc:n:ncol	człon nazwy geograficznej	
+Aires	Aires:s	subst:sg:nom:n:ncol	człon nazwy geograficznej	
+Aires	Aires:s	subst:sg:voc:n:ncol	człon nazwy geograficznej	
 AI	AI:s1	subst:pl:acc:f	nazwa organizacji	
-AI	AI:s1	subst:pl:acc:n2	nazwa organizacji	
+AI	AI:s1	subst:pl:acc:n:ncol	nazwa organizacji	
 AI	AI:s1	subst:pl:dat:f	nazwa organizacji	
-AI	AI:s1	subst:pl:dat:n2	nazwa organizacji	
+AI	AI:s1	subst:pl:dat:n:ncol	nazwa organizacji	
 AI	AI:s1	subst:pl:gen:f	nazwa organizacji	
-AI	AI:s1	subst:pl:gen:n2	nazwa organizacji	
+AI	AI:s1	subst:pl:gen:n:ncol	nazwa organizacji	
 AI	AI:s1	subst:pl:inst:f	nazwa organizacji	
-AI	AI:s1	subst:pl:inst:n2	nazwa organizacji	
+AI	AI:s1	subst:pl:inst:n:ncol	nazwa organizacji	
 AI	AI:s1	subst:pl:loc:f	nazwa organizacji	
-AI	AI:s1	subst:pl:loc:n2	nazwa organizacji	
+AI	AI:s1	subst:pl:loc:n:ncol	nazwa organizacji	
 AI	AI:s1	subst:pl:nom:f	nazwa organizacji	
-AI	AI:s1	subst:pl:nom:n2	nazwa organizacji	
+AI	AI:s1	subst:pl:nom:n:ncol	nazwa organizacji	
 AI	AI:s1	subst:pl:voc:f	nazwa organizacji	
-AI	AI:s1	subst:pl:voc:n2	nazwa organizacji	
+AI	AI:s1	subst:pl:voc:n:ncol	nazwa organizacji	
 AI	AI:s1	subst:sg:acc:f	nazwa organizacji	
-AI	AI:s1	subst:sg:acc:n2	nazwa organizacji	
+AI	AI:s1	subst:sg:acc:n:ncol	nazwa organizacji	
 AI	AI:s1	subst:sg:dat:f	nazwa organizacji	
-AI	AI:s1	subst:sg:dat:n2	nazwa organizacji	
+AI	AI:s1	subst:sg:dat:n:ncol	nazwa organizacji	
 AI	AI:s1	subst:sg:gen:f	nazwa organizacji	
-AI	AI:s1	subst:sg:gen:n2	nazwa organizacji	
+AI	AI:s1	subst:sg:gen:n:ncol	nazwa organizacji	
 AI	AI:s1	subst:sg:inst:f	nazwa organizacji	
-AI	AI:s1	subst:sg:inst:n2	nazwa organizacji	
+AI	AI:s1	subst:sg:inst:n:ncol	nazwa organizacji	
 AI	AI:s1	subst:sg:loc:f	nazwa organizacji	
-AI	AI:s1	subst:sg:loc:n2	nazwa organizacji	
+AI	AI:s1	subst:sg:loc:n:ncol	nazwa organizacji	
 AI	AI:s1	subst:sg:nom:f	nazwa organizacji	
-AI	AI:s1	subst:sg:nom:n2	nazwa organizacji	
+AI	AI:s1	subst:sg:nom:n:ncol	nazwa organizacji	
 AI	AI:s1	subst:sg:voc:f	nazwa organizacji	
-AI	AI:s1	subst:sg:voc:n2	nazwa organizacji	
+AI	AI:s1	subst:sg:voc:n:ncol	nazwa organizacji	
 AI	AI:s2	subst:pl:acc:f	nazwa pospolita|nazwa firmy	
 AI	AI:s2	subst:pl:dat:f	nazwa pospolita|nazwa firmy	
 AI	AI:s2	subst:pl:gen:f	nazwa pospolita|nazwa firmy	
@@ -2327,33 +2327,33 @@ Ajudahy	Ajudah	subst:pl:acc:m3	nazwa geograficzna
 Ajudahy	Ajudah	subst:pl:nom:m3	nazwa geograficzna	
 Ajudahy	Ajudah	subst:pl:voc:m3	nazwa geograficzna	
 AK	AK	subst:pl:acc:f	nazwa organizacji	
-AK	AK	subst:pl:acc:n2	nazwa organizacji	
+AK	AK	subst:pl:acc:n:ncol	nazwa organizacji	
 AK	AK	subst:pl:dat:f	nazwa organizacji	
-AK	AK	subst:pl:dat:n2	nazwa organizacji	
+AK	AK	subst:pl:dat:n:ncol	nazwa organizacji	
 AK	AK	subst:pl:gen:f	nazwa organizacji	
-AK	AK	subst:pl:gen:n2	nazwa organizacji	
+AK	AK	subst:pl:gen:n:ncol	nazwa organizacji	
 AK	AK	subst:pl:inst:f	nazwa organizacji	
-AK	AK	subst:pl:inst:n2	nazwa organizacji	
+AK	AK	subst:pl:inst:n:ncol	nazwa organizacji	
 AK	AK	subst:pl:loc:f	nazwa organizacji	
-AK	AK	subst:pl:loc:n2	nazwa organizacji	
+AK	AK	subst:pl:loc:n:ncol	nazwa organizacji	
 AK	AK	subst:pl:nom:f	nazwa organizacji	
-AK	AK	subst:pl:nom:n2	nazwa organizacji	
+AK	AK	subst:pl:nom:n:ncol	nazwa organizacji	
 AK	AK	subst:pl:voc:f	nazwa organizacji	
-AK	AK	subst:pl:voc:n2	nazwa organizacji	
+AK	AK	subst:pl:voc:n:ncol	nazwa organizacji	
 AK	AK	subst:sg:acc:f	nazwa organizacji	
-AK	AK	subst:sg:acc:n2	nazwa organizacji	
+AK	AK	subst:sg:acc:n:ncol	nazwa organizacji	
 AK	AK	subst:sg:dat:f	nazwa organizacji	
-AK	AK	subst:sg:dat:n2	nazwa organizacji	
+AK	AK	subst:sg:dat:n:ncol	nazwa organizacji	
 AK	AK	subst:sg:gen:f	nazwa organizacji	
-AK	AK	subst:sg:gen:n2	nazwa organizacji	
+AK	AK	subst:sg:gen:n:ncol	nazwa organizacji	
 AK	AK	subst:sg:inst:f	nazwa organizacji	
-AK	AK	subst:sg:inst:n2	nazwa organizacji	
+AK	AK	subst:sg:inst:n:ncol	nazwa organizacji	
 AK	AK	subst:sg:loc:f	nazwa organizacji	
-AK	AK	subst:sg:loc:n2	nazwa organizacji	
+AK	AK	subst:sg:loc:n:ncol	nazwa organizacji	
 AK	AK	subst:sg:nom:f	nazwa organizacji	
-AK	AK	subst:sg:nom:n2	nazwa organizacji	
+AK	AK	subst:sg:nom:n:ncol	nazwa organizacji	
 AK	AK	subst:sg:voc:f	nazwa organizacji	
-AK	AK	subst:sg:voc:n2	nazwa organizacji	
+AK	AK	subst:sg:voc:n:ncol	nazwa organizacji	
 Akacjusza	Akacjusz	subst:sg:acc:m1	imię	
 Akacjusza	Akacjusz	subst:sg:gen:m1	imię	
 Akacjuszach	Akacjusz	subst:pl:loc:m1	imię	
@@ -2417,29 +2417,29 @@ AK-owcy	AK-owiec	subst:pl:nom:m1	nazwa pospolita
 AK-owcy	AK-owiec	subst:pl:voc:m1	nazwa pospolita	
 AK-owcze	AK-owiec	subst:sg:voc:m1	nazwa pospolita	
 AK-owiec	AK-owiec	subst:sg:nom:m1	nazwa pospolita	
-AK-owscy	AK-owski	adj:pl:nom.voc:m1.p1:pos		
+AK-owscy	AK-owski	adj:pl:nom.voc:m1:pos		
 AK-owska	AK-owski	adj:sg:nom.voc:f:pos		
 AK-owską	AK-owski	adj:sg:acc:f:pos		
 AK-owską	AK-owski	adj:sg:inst:f:pos		
 AK-owski	AK-owski	adj:sg:acc:m3:pos		
 AK-owski	AK-owski	adj:sg:nom.voc:m1.m2.m3:pos		
-AK-owskich	AK-owski	adj:pl:acc:m1.p1:pos		
-AK-owskich	AK-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-AK-owskich	AK-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-AK-owskie	AK-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-AK-owskie	AK-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-AK-owskie	AK-owski	adj:sg:acc:n1.n2:pos		
-AK-owskie	AK-owski	adj:sg:nom.voc:n1.n2:pos		
+AK-owskich	AK-owski	adj:pl:acc:m1:pos		
+AK-owskich	AK-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+AK-owskich	AK-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
+AK-owskie	AK-owski	adj:pl:acc:m2.m3.f.n:pos		
+AK-owskie	AK-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+AK-owskie	AK-owski	adj:sg:acc:n:pos		
+AK-owskie	AK-owski	adj:sg:nom.voc:n:pos		
 AK-owskiego	AK-owski	adj:sg:acc:m1.m2:pos		
-AK-owskiego	AK-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+AK-owskiego	AK-owski	adj:sg:gen:m1.m2.m3.n:pos		
 AK-owskiej	AK-owski	adj:sg:dat:f:pos		
 AK-owskiej	AK-owski	adj:sg:gen:f:pos		
 AK-owskiej	AK-owski	adj:sg:loc:f:pos		
-AK-owskiemu	AK-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-AK-owskim	AK-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-AK-owskim	AK-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-AK-owskim	AK-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-AK-owskimi	AK-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+AK-owskiemu	AK-owski	adj:sg:dat:m1.m2.m3.n:pos		
+AK-owskim	AK-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+AK-owskim	AK-owski	adj:sg:inst:m1.m2.m3.n:pos		
+AK-owskim	AK-owski	adj:sg:loc:m1.m2.m3.n:pos		
+AK-owskimi	AK-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
 AK-owsko	AK-owski	adja		
 AK-owsku	AK-owski	adjp		
 AK-owsko	AK-owsko	adv:pos		
@@ -2536,35 +2536,35 @@ Alu	Al	subst:sg:loc:m1	imię
 Alu	Al	subst:sg:voc:m1	imię	
 AL-ach	AL	subst:pl:loc:m3	nazwa organizacji	
 AL	AL	subst:pl:acc:f	nazwa organizacji	
-AL	AL	subst:pl:acc:n2	nazwa organizacji	
+AL	AL	subst:pl:acc:n:ncol	nazwa organizacji	
 AL	AL	subst:pl:dat:f	nazwa organizacji	
-AL	AL	subst:pl:dat:n2	nazwa organizacji	
+AL	AL	subst:pl:dat:n:ncol	nazwa organizacji	
 AL	AL	subst:pl:gen:f	nazwa organizacji	
-AL	AL	subst:pl:gen:n2	nazwa organizacji	
+AL	AL	subst:pl:gen:n:ncol	nazwa organizacji	
 AL	AL	subst:pl:inst:f	nazwa organizacji	
-AL	AL	subst:pl:inst:n2	nazwa organizacji	
+AL	AL	subst:pl:inst:n:ncol	nazwa organizacji	
 AL	AL	subst:pl:loc:f	nazwa organizacji	
-AL	AL	subst:pl:loc:n2	nazwa organizacji	
+AL	AL	subst:pl:loc:n:ncol	nazwa organizacji	
 AL	AL	subst:pl:nom:f	nazwa organizacji	
-AL	AL	subst:pl:nom:n2	nazwa organizacji	
+AL	AL	subst:pl:nom:n:ncol	nazwa organizacji	
 AL	AL	subst:pl:voc:f	nazwa organizacji	
-AL	AL	subst:pl:voc:n2	nazwa organizacji	
+AL	AL	subst:pl:voc:n:ncol	nazwa organizacji	
 AL	AL	subst:sg:acc:f	nazwa organizacji	
 AL	AL	subst:sg:acc:m3	nazwa organizacji	
-AL	AL	subst:sg:acc:n2	nazwa organizacji	
+AL	AL	subst:sg:acc:n:ncol	nazwa organizacji	
 AL	AL	subst:sg:dat:f	nazwa organizacji	
-AL	AL	subst:sg:dat:n2	nazwa organizacji	
+AL	AL	subst:sg:dat:n:ncol	nazwa organizacji	
 AL	AL	subst:sg:gen:f	nazwa organizacji	
-AL	AL	subst:sg:gen:n2	nazwa organizacji	
+AL	AL	subst:sg:gen:n:ncol	nazwa organizacji	
 AL	AL	subst:sg:inst:f	nazwa organizacji	
-AL	AL	subst:sg:inst:n2	nazwa organizacji	
+AL	AL	subst:sg:inst:n:ncol	nazwa organizacji	
 AL	AL	subst:sg:loc:f	nazwa organizacji	
-AL	AL	subst:sg:loc:n2	nazwa organizacji	
+AL	AL	subst:sg:loc:n:ncol	nazwa organizacji	
 AL	AL	subst:sg:nom:f	nazwa organizacji	
 AL	AL	subst:sg:nom:m3	nazwa organizacji	
-AL	AL	subst:sg:nom:n2	nazwa organizacji	
+AL	AL	subst:sg:nom:n:ncol	nazwa organizacji	
 AL	AL	subst:sg:voc:f	nazwa organizacji	
-AL	AL	subst:sg:voc:n2	nazwa organizacji	
+AL	AL	subst:sg:voc:n:ncol	nazwa organizacji	
 AL-ami	AL	subst:pl:inst:m3	nazwa organizacji	
 AL-e	AL	subst:pl:acc:m3	nazwa organizacji	
 AL-e	AL	subst:pl:nom:m3	nazwa organizacji	
@@ -3160,20 +3160,20 @@ Aleksym	Aleksy	subst:pl:dat:m1	imię
 Aleksym	Aleksy	subst:sg:inst:m1	imię	
 Aleksym	Aleksy	subst:sg:loc:m1	imię	
 Aleksymi	Aleksy	subst:pl:inst:m1	imię	
-Aleutach	Aleuty	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Aleutach	Aleuty	subst:pl:loc:p3	nazwa geograficzna	
-Aleutami	Aleuty	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Aleutami	Aleuty	subst:pl:inst:p3	nazwa geograficzna	
-Aleutom	Aleuty	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Aleutom	Aleuty	subst:pl:dat:p3	nazwa geograficzna	
-Aleutów	Aleuty	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Aleutów	Aleuty	subst:pl:gen:p3	nazwa geograficzna	
-Aleuty	Aleuty	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Aleuty	Aleuty	subst:pl:acc:p3	nazwa geograficzna	
-Aleuty	Aleuty	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Aleuty	Aleuty	subst:pl:nom:p3	nazwa geograficzna	
-Aleuty	Aleuty	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Aleuty	Aleuty	subst:pl:voc:p3	nazwa geograficzna	
+Aleutach	Aleuty	subst:pl:loc:n:pt	nazwa geograficzna	
+Aleutach	Aleuty	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Aleutami	Aleuty	subst:pl:inst:n:pt	nazwa geograficzna	
+Aleutami	Aleuty	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Aleutom	Aleuty	subst:pl:dat:n:pt	nazwa geograficzna	
+Aleutom	Aleuty	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Aleutów	Aleuty	subst:pl:gen:n:pt	nazwa geograficzna	
+Aleutów	Aleuty	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Aleuty	Aleuty	subst:pl:acc:n:pt	nazwa geograficzna	
+Aleuty	Aleuty	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Aleuty	Aleuty	subst:pl:nom:n:pt	nazwa geograficzna	
+Aleuty	Aleuty	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Aleuty	Aleuty	subst:pl:voc:n:pt	nazwa geograficzna	
+Aleuty	Aleuty	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Alfa	Alf	subst:sg:acc:m1	imię	
 Alfa	Alf	subst:sg:gen:m1	imię	
 Alfach	Alf	subst:pl:loc:m1	imię	
@@ -3711,29 +3711,29 @@ AL-owcy	AL-owiec	subst:pl:nom:m1	nazwa pospolita
 AL-owcy	AL-owiec	subst:pl:voc:m1	nazwa pospolita	
 AL-owcze	AL-owiec	subst:sg:voc:m1	nazwa pospolita	
 AL-owiec	AL-owiec	subst:sg:nom:m1	nazwa pospolita	
-AL-owscy	AL-owski	adj:pl:nom.voc:m1.p1:pos		
+AL-owscy	AL-owski	adj:pl:nom.voc:m1:pos		
 AL-owska	AL-owski	adj:sg:nom.voc:f:pos		
 AL-owską	AL-owski	adj:sg:acc:f:pos		
 AL-owską	AL-owski	adj:sg:inst:f:pos		
 AL-owski	AL-owski	adj:sg:acc:m3:pos		
 AL-owski	AL-owski	adj:sg:nom.voc:m1.m2.m3:pos		
-AL-owskich	AL-owski	adj:pl:acc:m1.p1:pos		
-AL-owskich	AL-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-AL-owskich	AL-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-AL-owskie	AL-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-AL-owskie	AL-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-AL-owskie	AL-owski	adj:sg:acc:n1.n2:pos		
-AL-owskie	AL-owski	adj:sg:nom.voc:n1.n2:pos		
+AL-owskich	AL-owski	adj:pl:acc:m1:pos		
+AL-owskich	AL-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+AL-owskich	AL-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
+AL-owskie	AL-owski	adj:pl:acc:m2.m3.f.n:pos		
+AL-owskie	AL-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+AL-owskie	AL-owski	adj:sg:acc:n:pos		
+AL-owskie	AL-owski	adj:sg:nom.voc:n:pos		
 AL-owskiego	AL-owski	adj:sg:acc:m1.m2:pos		
-AL-owskiego	AL-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+AL-owskiego	AL-owski	adj:sg:gen:m1.m2.m3.n:pos		
 AL-owskiej	AL-owski	adj:sg:dat:f:pos		
 AL-owskiej	AL-owski	adj:sg:gen:f:pos		
 AL-owskiej	AL-owski	adj:sg:loc:f:pos		
-AL-owskiemu	AL-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-AL-owskim	AL-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-AL-owskim	AL-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-AL-owskim	AL-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-AL-owskimi	AL-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+AL-owskiemu	AL-owski	adj:sg:dat:m1.m2.m3.n:pos		
+AL-owskim	AL-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+AL-owskim	AL-owski	adj:sg:inst:m1.m2.m3.n:pos		
+AL-owskim	AL-owski	adj:sg:loc:m1.m2.m3.n:pos		
+AL-owskimi	AL-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
 AL-owsko	AL-owski	adja		
 AL-owsku	AL-owski	adjp		
 AL-owsko	AL-owsko	adv:pos		
@@ -3769,20 +3769,20 @@ Alpuhary	Alpuhara	subst:pl:voc:f	nazwa geograficzna
 Alpuhary	Alpuhara	subst:sg:gen:f	nazwa geograficzna	
 Alpuharze	Alpuhara	subst:sg:dat:f	nazwa geograficzna	
 Alpuharze	Alpuhara	subst:sg:loc:f	nazwa geograficzna	
-Alpach	Alpy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Alpach	Alpy	subst:pl:loc:p3	nazwa geograficzna	
-Alp	Alpy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Alp	Alpy	subst:pl:gen:p3	nazwa geograficzna	
-Alpami	Alpy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Alpami	Alpy	subst:pl:inst:p3	nazwa geograficzna	
-Alpom	Alpy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Alpom	Alpy	subst:pl:dat:p3	nazwa geograficzna	
-Alpy	Alpy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Alpy	Alpy	subst:pl:acc:p3	nazwa geograficzna	
-Alpy	Alpy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Alpy	Alpy	subst:pl:nom:p3	nazwa geograficzna	
-Alpy	Alpy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Alpy	Alpy	subst:pl:voc:p3	nazwa geograficzna	
+Alpach	Alpy	subst:pl:loc:n:pt	nazwa geograficzna	
+Alpach	Alpy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Alp	Alpy	subst:pl:gen:n:pt	nazwa geograficzna	
+Alp	Alpy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Alpami	Alpy	subst:pl:inst:n:pt	nazwa geograficzna	
+Alpami	Alpy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Alpom	Alpy	subst:pl:dat:n:pt	nazwa geograficzna	
+Alpom	Alpy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Alpy	Alpy	subst:pl:acc:n:pt	nazwa geograficzna	
+Alpy	Alpy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Alpy	Alpy	subst:pl:nom:n:pt	nazwa geograficzna	
+Alpy	Alpy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Alpy	Alpy	subst:pl:voc:n:pt	nazwa geograficzna	
+Alpy	Alpy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Alusia	Alusia	subst:sg:nom:f	imię	
 Alusiach	Alusia	subst:pl:loc:f	imię	
 Alusi	Alusia	subst:pl:gen:f	imię	hom.|rzad.
@@ -4951,20 +4951,20 @@ Andrzejewskim	Andrzejewski	subst:pl:dat:m1	nazwisko
 Andrzejewskim	Andrzejewski	subst:sg:inst:m1	nazwisko	
 Andrzejewskim	Andrzejewski	subst:sg:loc:m1	nazwisko	
 Andrzejewskimi	Andrzejewski	subst:pl:inst:m1	nazwisko	
-Andach	Andy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Andach	Andy	subst:pl:loc:p3	nazwa geograficzna	
-Andami	Andy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Andami	Andy	subst:pl:inst:p3	nazwa geograficzna	
-Andom	Andy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Andom	Andy	subst:pl:dat:p3	nazwa geograficzna	
-Andów	Andy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Andów	Andy	subst:pl:gen:p3	nazwa geograficzna	
-Andy	Andy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Andy	Andy	subst:pl:acc:p3	nazwa geograficzna	
-Andy	Andy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Andy	Andy	subst:pl:nom:p3	nazwa geograficzna	
-Andy	Andy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Andy	Andy	subst:pl:voc:p3	nazwa geograficzna	
+Andach	Andy	subst:pl:loc:n:pt	nazwa geograficzna	
+Andach	Andy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Andami	Andy	subst:pl:inst:n:pt	nazwa geograficzna	
+Andami	Andy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Andom	Andy	subst:pl:dat:n:pt	nazwa geograficzna	
+Andom	Andy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Andów	Andy	subst:pl:gen:n:pt	nazwa geograficzna	
+Andów	Andy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Andy	Andy	subst:pl:acc:n:pt	nazwa geograficzna	
+Andy	Andy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Andy	Andy	subst:pl:nom:n:pt	nazwa geograficzna	
+Andy	Andy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Andy	Andy	subst:pl:voc:n:pt	nazwa geograficzna	
+Andy	Andy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Andzia	Andzia	subst:sg:nom:f	imię	
 Andziach	Andzia	subst:pl:loc:f	imię	
 Andziami	Andzia	subst:pl:inst:f	imię	
@@ -5069,20 +5069,20 @@ Angeli	Angela	subst:sg:loc:f	imię
 Angelo	Angela	subst:sg:voc:f	imię	
 Angelom	Angela	subst:pl:dat:f	imię	
 Angelu	Angela	subst:sg:voc:f	imię	
-Angeles	Angeles	subst:pl:acc:n2	człon nazwy geograficznej	
-Angeles	Angeles	subst:pl:dat:n2	człon nazwy geograficznej	
-Angeles	Angeles	subst:pl:gen:n2	człon nazwy geograficznej	
-Angeles	Angeles	subst:pl:inst:n2	człon nazwy geograficznej	
-Angeles	Angeles	subst:pl:loc:n2	człon nazwy geograficznej	
-Angeles	Angeles	subst:pl:nom:n2	człon nazwy geograficznej	
-Angeles	Angeles	subst:pl:voc:n2	człon nazwy geograficznej	
-Angeles	Angeles	subst:sg:acc:n2	człon nazwy geograficznej	
-Angeles	Angeles	subst:sg:dat:n2	człon nazwy geograficznej	
-Angeles	Angeles	subst:sg:gen:n2	człon nazwy geograficznej	
-Angeles	Angeles	subst:sg:inst:n2	człon nazwy geograficznej	
-Angeles	Angeles	subst:sg:loc:n2	człon nazwy geograficznej	
-Angeles	Angeles	subst:sg:nom:n2	człon nazwy geograficznej	
-Angeles	Angeles	subst:sg:voc:n2	człon nazwy geograficznej	
+Angeles	Angeles	subst:pl:acc:n:ncol	człon nazwy geograficznej	
+Angeles	Angeles	subst:pl:dat:n:ncol	człon nazwy geograficznej	
+Angeles	Angeles	subst:pl:gen:n:ncol	człon nazwy geograficznej	
+Angeles	Angeles	subst:pl:inst:n:ncol	człon nazwy geograficznej	
+Angeles	Angeles	subst:pl:loc:n:ncol	człon nazwy geograficznej	
+Angeles	Angeles	subst:pl:nom:n:ncol	człon nazwy geograficznej	
+Angeles	Angeles	subst:pl:voc:n:ncol	człon nazwy geograficznej	
+Angeles	Angeles	subst:sg:acc:n:ncol	człon nazwy geograficznej	
+Angeles	Angeles	subst:sg:dat:n:ncol	człon nazwy geograficznej	
+Angeles	Angeles	subst:sg:gen:n:ncol	człon nazwy geograficznej	
+Angeles	Angeles	subst:sg:inst:n:ncol	człon nazwy geograficznej	
+Angeles	Angeles	subst:sg:loc:n:ncol	człon nazwy geograficznej	
+Angeles	Angeles	subst:sg:nom:n:ncol	człon nazwy geograficznej	
+Angeles	Angeles	subst:sg:voc:n:ncol	człon nazwy geograficznej	
 Angelica	Angelico	subst:sg:acc:m1	imię	
 Angelica	Angelico	subst:sg:gen:m1	imię	
 Angelicach	Angelico	subst:pl:loc:m1	imię	
@@ -5577,33 +5577,33 @@ ANS-y	ANSA	subst:pl:nom:f	nazwa firmy
 ANS-y	ANSA	subst:pl:voc:f	nazwa firmy	
 ANS-y	ANSA	subst:sg:gen:f	nazwa firmy	
 ANSI	ANSI	subst:pl:acc:m3	nazwa instytucji	
-ANSI	ANSI	subst:pl:acc:n2	nazwa instytucji	
+ANSI	ANSI	subst:pl:acc:n:ncol	nazwa instytucji	
 ANSI	ANSI	subst:pl:dat:m3	nazwa instytucji	
-ANSI	ANSI	subst:pl:dat:n2	nazwa instytucji	
+ANSI	ANSI	subst:pl:dat:n:ncol	nazwa instytucji	
 ANSI	ANSI	subst:pl:gen:m3	nazwa instytucji	
-ANSI	ANSI	subst:pl:gen:n2	nazwa instytucji	
+ANSI	ANSI	subst:pl:gen:n:ncol	nazwa instytucji	
 ANSI	ANSI	subst:pl:inst:m3	nazwa instytucji	
-ANSI	ANSI	subst:pl:inst:n2	nazwa instytucji	
+ANSI	ANSI	subst:pl:inst:n:ncol	nazwa instytucji	
 ANSI	ANSI	subst:pl:loc:m3	nazwa instytucji	
-ANSI	ANSI	subst:pl:loc:n2	nazwa instytucji	
+ANSI	ANSI	subst:pl:loc:n:ncol	nazwa instytucji	
 ANSI	ANSI	subst:pl:nom:m3	nazwa instytucji	
-ANSI	ANSI	subst:pl:nom:n2	nazwa instytucji	
+ANSI	ANSI	subst:pl:nom:n:ncol	nazwa instytucji	
 ANSI	ANSI	subst:pl:voc:m3	nazwa instytucji	
-ANSI	ANSI	subst:pl:voc:n2	nazwa instytucji	
+ANSI	ANSI	subst:pl:voc:n:ncol	nazwa instytucji	
 ANSI	ANSI	subst:sg:acc:m3	nazwa instytucji	
-ANSI	ANSI	subst:sg:acc:n2	nazwa instytucji	
+ANSI	ANSI	subst:sg:acc:n:ncol	nazwa instytucji	
 ANSI	ANSI	subst:sg:dat:m3	nazwa instytucji	
-ANSI	ANSI	subst:sg:dat:n2	nazwa instytucji	
+ANSI	ANSI	subst:sg:dat:n:ncol	nazwa instytucji	
 ANSI	ANSI	subst:sg:gen:m3	nazwa instytucji	
-ANSI	ANSI	subst:sg:gen:n2	nazwa instytucji	
+ANSI	ANSI	subst:sg:gen:n:ncol	nazwa instytucji	
 ANSI	ANSI	subst:sg:inst:m3	nazwa instytucji	
-ANSI	ANSI	subst:sg:inst:n2	nazwa instytucji	
+ANSI	ANSI	subst:sg:inst:n:ncol	nazwa instytucji	
 ANSI	ANSI	subst:sg:loc:m3	nazwa instytucji	
-ANSI	ANSI	subst:sg:loc:n2	nazwa instytucji	
+ANSI	ANSI	subst:sg:loc:n:ncol	nazwa instytucji	
 ANSI	ANSI	subst:sg:nom:m3	nazwa instytucji	
-ANSI	ANSI	subst:sg:nom:n2	nazwa instytucji	
+ANSI	ANSI	subst:sg:nom:n:ncol	nazwa instytucji	
 ANSI	ANSI	subst:sg:voc:m3	nazwa instytucji	
-ANSI	ANSI	subst:sg:voc:n2	nazwa instytucji	
+ANSI	ANSI	subst:sg:voc:n:ncol	nazwa instytucji	
 Antarktyda	Antarktyda	subst:sg:nom:f	nazwa geograficzna	
 Antarktydach	Antarktyda	subst:pl:loc:f	nazwa geograficzna	
 Antarktydami	Antarktyda	subst:pl:inst:f	nazwa geograficzna	
@@ -5925,20 +5925,20 @@ Antygony	Antygona	subst:pl:acc:f	imię	mit.
 Antygony	Antygona	subst:pl:nom:f	imię	mit.
 Antygony	Antygona	subst:pl:voc:f	imię	mit.
 Antygony	Antygona	subst:sg:gen:f	imię	mit.
-Antylach	Antyle	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Antylach	Antyle	subst:pl:loc:p3	nazwa geograficzna	
-Antylami	Antyle	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Antylami	Antyle	subst:pl:inst:p3	nazwa geograficzna	
-Antyle	Antyle	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Antyle	Antyle	subst:pl:acc:p3	nazwa geograficzna	
-Antyle	Antyle	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Antyle	Antyle	subst:pl:nom:p3	nazwa geograficzna	
-Antyle	Antyle	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Antyle	Antyle	subst:pl:voc:p3	nazwa geograficzna	
-Antyli	Antyle	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Antyli	Antyle	subst:pl:gen:p3	nazwa geograficzna	
-Antylom	Antyle	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Antylom	Antyle	subst:pl:dat:p3	nazwa geograficzna	
+Antylach	Antyle	subst:pl:loc:n:pt	nazwa geograficzna	
+Antylach	Antyle	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Antylami	Antyle	subst:pl:inst:n:pt	nazwa geograficzna	
+Antylami	Antyle	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Antyle	Antyle	subst:pl:acc:n:pt	nazwa geograficzna	
+Antyle	Antyle	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Antyle	Antyle	subst:pl:nom:n:pt	nazwa geograficzna	
+Antyle	Antyle	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Antyle	Antyle	subst:pl:voc:n:pt	nazwa geograficzna	
+Antyle	Antyle	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Antyli	Antyle	subst:pl:gen:n:pt	nazwa geograficzna	
+Antyli	Antyle	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Antylom	Antyle	subst:pl:dat:n:pt	nazwa geograficzna	
+Antylom	Antyle	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Antyma	Antym	subst:sg:acc:m1	imię	
 Antyma	Antym	subst:sg:gen:m1	imię	
 Antymach	Antym	subst:pl:loc:m1	imię	
@@ -6140,20 +6140,20 @@ Apatory	Apator	subst:pl:nom:m3	nazwa organizacji
 Apatory	Apator	subst:pl:voc:m3	nazwa organizacji	
 Apatorze	Apator	subst:sg:loc:m3	nazwa organizacji	
 Apatorze	Apator	subst:sg:voc:m3	nazwa organizacji	
-Apeninach	Apeniny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Apeninach	Apeniny	subst:pl:loc:p3	nazwa geograficzna	
-Apeninami	Apeniny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Apeninami	Apeniny	subst:pl:inst:p3	nazwa geograficzna	
-Apeninom	Apeniny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Apeninom	Apeniny	subst:pl:dat:p3	nazwa geograficzna	
-Apeninów	Apeniny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Apeninów	Apeniny	subst:pl:gen:p3	nazwa geograficzna	
-Apeniny	Apeniny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Apeniny	Apeniny	subst:pl:acc:p3	nazwa geograficzna	
-Apeniny	Apeniny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Apeniny	Apeniny	subst:pl:nom:p3	nazwa geograficzna	
-Apeniny	Apeniny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Apeniny	Apeniny	subst:pl:voc:p3	nazwa geograficzna	
+Apeninach	Apeniny	subst:pl:loc:n:pt	nazwa geograficzna	
+Apeninach	Apeniny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Apeninami	Apeniny	subst:pl:inst:n:pt	nazwa geograficzna	
+Apeninami	Apeniny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Apeninom	Apeniny	subst:pl:dat:n:pt	nazwa geograficzna	
+Apeninom	Apeniny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Apeninów	Apeniny	subst:pl:gen:n:pt	nazwa geograficzna	
+Apeninów	Apeniny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Apeniny	Apeniny	subst:pl:acc:n:pt	nazwa geograficzna	
+Apeniny	Apeniny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Apeniny	Apeniny	subst:pl:nom:n:pt	nazwa geograficzna	
+Apeniny	Apeniny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Apeniny	Apeniny	subst:pl:voc:n:pt	nazwa geograficzna	
+Apeniny	Apeniny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 API	API	subst:pl:acc:m3	nazwa pospolita	komp.
 API	API	subst:pl:dat:m3	nazwa pospolita	komp.
 API	API	subst:pl:gen:m3	nazwa pospolita	komp.
@@ -6331,20 +6331,20 @@ Apoloniuszów	Apoloniusz	subst:pl:acc:m1	imię
 Apoloniuszów	Apoloniusz	subst:pl:gen:m1	imię	
 Apoloniuszu	Apoloniusz	subst:sg:loc:m1	imię	
 Apoloniuszu	Apoloniusz	subst:sg:voc:m1	imię	
-Appalachach	Appalachy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Appalachach	Appalachy	subst:pl:loc:p3	nazwa geograficzna	
-Appalachami	Appalachy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Appalachami	Appalachy	subst:pl:inst:p3	nazwa geograficzna	
-Appalachom	Appalachy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Appalachom	Appalachy	subst:pl:dat:p3	nazwa geograficzna	
-Appalachów	Appalachy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Appalachów	Appalachy	subst:pl:gen:p3	nazwa geograficzna	
-Appalachy	Appalachy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Appalachy	Appalachy	subst:pl:acc:p3	nazwa geograficzna	
-Appalachy	Appalachy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Appalachy	Appalachy	subst:pl:nom:p3	nazwa geograficzna	
-Appalachy	Appalachy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Appalachy	Appalachy	subst:pl:voc:p3	nazwa geograficzna	
+Appalachach	Appalachy	subst:pl:loc:n:pt	nazwa geograficzna	
+Appalachach	Appalachy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Appalachami	Appalachy	subst:pl:inst:n:pt	nazwa geograficzna	
+Appalachami	Appalachy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Appalachom	Appalachy	subst:pl:dat:n:pt	nazwa geograficzna	
+Appalachom	Appalachy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Appalachów	Appalachy	subst:pl:gen:n:pt	nazwa geograficzna	
+Appalachów	Appalachy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Appalachy	Appalachy	subst:pl:acc:n:pt	nazwa geograficzna	
+Appalachy	Appalachy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Appalachy	Appalachy	subst:pl:nom:n:pt	nazwa geograficzna	
+Appalachy	Appalachy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Appalachy	Appalachy	subst:pl:voc:n:pt	nazwa geograficzna	
+Appalachy	Appalachy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Apresjana	Apresjan	subst:sg:acc:m1	nazwisko	
 Apresjana	Apresjan	subst:sg:gen:m1	nazwisko	
 Apresjanach	Apresjan	subst:pl:loc:m1	nazwisko	
@@ -6388,33 +6388,33 @@ APS-y	APS	subst:pl:acc:m3	nazwa pospolita
 APS-y	APS	subst:pl:nom:m3	nazwa pospolita	
 APS-y	APS	subst:pl:voc:m3	nazwa pospolita	
 AP	AP:s1	subst:pl:acc:f	nazwa instytucji	
-AP	AP:s1	subst:pl:acc:n2	nazwa instytucji	
+AP	AP:s1	subst:pl:acc:n:ncol	nazwa instytucji	
 AP	AP:s1	subst:pl:dat:f	nazwa instytucji	
-AP	AP:s1	subst:pl:dat:n2	nazwa instytucji	
+AP	AP:s1	subst:pl:dat:n:ncol	nazwa instytucji	
 AP	AP:s1	subst:pl:gen:f	nazwa instytucji	
-AP	AP:s1	subst:pl:gen:n2	nazwa instytucji	
+AP	AP:s1	subst:pl:gen:n:ncol	nazwa instytucji	
 AP	AP:s1	subst:pl:inst:f	nazwa instytucji	
-AP	AP:s1	subst:pl:inst:n2	nazwa instytucji	
+AP	AP:s1	subst:pl:inst:n:ncol	nazwa instytucji	
 AP	AP:s1	subst:pl:loc:f	nazwa instytucji	
-AP	AP:s1	subst:pl:loc:n2	nazwa instytucji	
+AP	AP:s1	subst:pl:loc:n:ncol	nazwa instytucji	
 AP	AP:s1	subst:pl:nom:f	nazwa instytucji	
-AP	AP:s1	subst:pl:nom:n2	nazwa instytucji	
+AP	AP:s1	subst:pl:nom:n:ncol	nazwa instytucji	
 AP	AP:s1	subst:pl:voc:f	nazwa instytucji	
-AP	AP:s1	subst:pl:voc:n2	nazwa instytucji	
+AP	AP:s1	subst:pl:voc:n:ncol	nazwa instytucji	
 AP	AP:s1	subst:sg:acc:f	nazwa instytucji	
-AP	AP:s1	subst:sg:acc:n2	nazwa instytucji	
+AP	AP:s1	subst:sg:acc:n:ncol	nazwa instytucji	
 AP	AP:s1	subst:sg:dat:f	nazwa instytucji	
-AP	AP:s1	subst:sg:dat:n2	nazwa instytucji	
+AP	AP:s1	subst:sg:dat:n:ncol	nazwa instytucji	
 AP	AP:s1	subst:sg:gen:f	nazwa instytucji	
-AP	AP:s1	subst:sg:gen:n2	nazwa instytucji	
+AP	AP:s1	subst:sg:gen:n:ncol	nazwa instytucji	
 AP	AP:s1	subst:sg:inst:f	nazwa instytucji	
-AP	AP:s1	subst:sg:inst:n2	nazwa instytucji	
+AP	AP:s1	subst:sg:inst:n:ncol	nazwa instytucji	
 AP	AP:s1	subst:sg:loc:f	nazwa instytucji	
-AP	AP:s1	subst:sg:loc:n2	nazwa instytucji	
+AP	AP:s1	subst:sg:loc:n:ncol	nazwa instytucji	
 AP	AP:s1	subst:sg:nom:f	nazwa instytucji	
-AP	AP:s1	subst:sg:nom:n2	nazwa instytucji	
+AP	AP:s1	subst:sg:nom:n:ncol	nazwa instytucji	
 AP	AP:s1	subst:sg:voc:f	nazwa instytucji	
-AP	AP:s1	subst:sg:voc:n2	nazwa instytucji	
+AP	AP:s1	subst:sg:voc:n:ncol	nazwa instytucji	
 AP	AP:s2	subst:pl:acc:f	nazwa instytucji	
 AP	AP:s2	subst:pl:dat:f	nazwa instytucji	
 AP	AP:s2	subst:pl:gen:f	nazwa instytucji	
@@ -6854,20 +6854,20 @@ Argolidy	Argolida	subst:pl:voc:f	nazwa geograficzna
 Argolidy	Argolida	subst:sg:gen:f	nazwa geograficzna	
 Argolidzie	Argolida	subst:sg:dat:f	nazwa geograficzna	
 Argolidzie	Argolida	subst:sg:loc:f	nazwa geograficzna	
-Argos	Argos:s1	subst:pl:acc:n2	nazwa geograficzna	
-Argos	Argos:s1	subst:pl:dat:n2	nazwa geograficzna	
-Argos	Argos:s1	subst:pl:gen:n2	nazwa geograficzna	
-Argos	Argos:s1	subst:pl:inst:n2	nazwa geograficzna	
-Argos	Argos:s1	subst:pl:loc:n2	nazwa geograficzna	
-Argos	Argos:s1	subst:pl:nom:n2	nazwa geograficzna	
-Argos	Argos:s1	subst:pl:voc:n2	nazwa geograficzna	
-Argos	Argos:s1	subst:sg:acc:n2	nazwa geograficzna	
-Argos	Argos:s1	subst:sg:dat:n2	nazwa geograficzna	
-Argos	Argos:s1	subst:sg:gen:n2	nazwa geograficzna	
-Argos	Argos:s1	subst:sg:inst:n2	nazwa geograficzna	
-Argos	Argos:s1	subst:sg:loc:n2	nazwa geograficzna	
-Argos	Argos:s1	subst:sg:nom:n2	nazwa geograficzna	
-Argos	Argos:s1	subst:sg:voc:n2	nazwa geograficzna	
+Argos	Argos:s1	subst:pl:acc:n:ncol	nazwa geograficzna	
+Argos	Argos:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+Argos	Argos:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+Argos	Argos:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+Argos	Argos:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+Argos	Argos:s1	subst:pl:nom:n:ncol	nazwa geograficzna	
+Argos	Argos:s1	subst:pl:voc:n:ncol	nazwa geograficzna	
+Argos	Argos:s1	subst:sg:acc:n:ncol	nazwa geograficzna	
+Argos	Argos:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+Argos	Argos:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+Argos	Argos:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+Argos	Argos:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+Argos	Argos:s1	subst:sg:nom:n:ncol	nazwa geograficzna	
+Argos	Argos:s1	subst:sg:voc:n:ncol	nazwa geograficzna	
 Argosa	Argos:s2	subst:sg:acc:m2	imię	mit.
 Argosa	Argos:s2	subst:sg:gen:m2	imię	mit.
 Argosach	Argos:s2	subst:pl:loc:m2	imię	mit.
@@ -7052,33 +7052,33 @@ Arkadym	Arkady	subst:sg:inst:m1	imię
 Arkadym	Arkady	subst:sg:loc:m1	imię	
 Arkadymi	Arkady	subst:pl:inst:m1	imię	
 Arkansas	Arkansas:s1	subst:pl:acc:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:pl:acc:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:pl:acc:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s1	subst:pl:dat:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:pl:dat:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s1	subst:pl:gen:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:pl:gen:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s1	subst:pl:inst:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:pl:inst:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s1	subst:pl:loc:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:pl:loc:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s1	subst:pl:nom:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:pl:nom:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:pl:nom:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s1	subst:pl:voc:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:pl:voc:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:pl:voc:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s1	subst:sg:acc:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:sg:acc:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:sg:acc:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s1	subst:sg:dat:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:sg:dat:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s1	subst:sg:gen:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:sg:gen:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s1	subst:sg:inst:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:sg:inst:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s1	subst:sg:loc:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:sg:loc:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s1	subst:sg:nom:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:sg:nom:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:sg:nom:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s1	subst:sg:voc:m3	nazwa geograficzna	
-Arkansas	Arkansas:s1	subst:sg:voc:n2	nazwa geograficzna	
+Arkansas	Arkansas:s1	subst:sg:voc:n:ncol	nazwa geograficzna	
 Arkansas	Arkansas:s2	subst:pl:acc:f	nazwa geograficzna	
 Arkansas	Arkansas:s2	subst:pl:acc:m3	nazwa geograficzna	
 Arkansas	Arkansas:s2	subst:pl:dat:f	nazwa geograficzna	
@@ -7107,20 +7107,20 @@ Arkansas	Arkansas:s2	subst:sg:nom:f	nazwa geograficzna
 Arkansas	Arkansas:s2	subst:sg:nom:m3	nazwa geograficzna	
 Arkansas	Arkansas:s2	subst:sg:voc:f	nazwa geograficzna	
 Arkansas	Arkansas:s2	subst:sg:voc:m3	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:pl:acc:n2	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:pl:dat:n2	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:pl:gen:n2	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:pl:inst:n2	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:pl:loc:n2	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:pl:nom:n2	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:pl:voc:n2	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:sg:acc:n2	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:sg:dat:n2	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:sg:gen:n2	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:sg:inst:n2	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:sg:loc:n2	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:sg:nom:n2	nazwa geograficzna	
-Arkansas	Arkansas:s3	subst:sg:voc:n2	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:pl:acc:n:ncol	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:pl:dat:n:ncol	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:pl:gen:n:ncol	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:pl:inst:n:ncol	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:pl:loc:n:ncol	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:pl:nom:n:ncol	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:pl:voc:n:ncol	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:sg:acc:n:ncol	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:sg:dat:n:ncol	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:sg:gen:n:ncol	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:sg:inst:n:ncol	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:sg:loc:n:ncol	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:sg:nom:n:ncol	nazwa geograficzna	
+Arkansas	Arkansas:s3	subst:sg:voc:n:ncol	nazwa geograficzna	
 Arktyce	Arktyka	subst:sg:dat:f	nazwa geograficzna	
 Arktyce	Arktyka	subst:sg:loc:f	nazwa geograficzna	
 Arktyka	Arktyka	subst:sg:nom:f	nazwa geograficzna	
@@ -7272,22 +7272,22 @@ Armstrongu	Armstrong	subst:sg:loc:m1	nazwisko
 Armstrongu	Armstrong	subst:sg:voc:m1	nazwisko	
 Arnhemach	Arnhem	subst:pl:loc:m3	nazwa geograficzna	
 Arnhemami	Arnhem	subst:pl:inst:m3	nazwa geograficzna	
-Arnhem	Arnhem	subst:pl:acc:n2	nazwa geograficzna	
-Arnhem	Arnhem	subst:pl:dat:n2	nazwa geograficzna	
-Arnhem	Arnhem	subst:pl:gen:n2	nazwa geograficzna	
-Arnhem	Arnhem	subst:pl:inst:n2	nazwa geograficzna	
-Arnhem	Arnhem	subst:pl:loc:n2	nazwa geograficzna	
-Arnhem	Arnhem	subst:pl:nom:n2	nazwa geograficzna	
-Arnhem	Arnhem	subst:pl:voc:n2	nazwa geograficzna	
+Arnhem	Arnhem	subst:pl:acc:n:ncol	nazwa geograficzna	
+Arnhem	Arnhem	subst:pl:dat:n:ncol	nazwa geograficzna	
+Arnhem	Arnhem	subst:pl:gen:n:ncol	nazwa geograficzna	
+Arnhem	Arnhem	subst:pl:inst:n:ncol	nazwa geograficzna	
+Arnhem	Arnhem	subst:pl:loc:n:ncol	nazwa geograficzna	
+Arnhem	Arnhem	subst:pl:nom:n:ncol	nazwa geograficzna	
+Arnhem	Arnhem	subst:pl:voc:n:ncol	nazwa geograficzna	
 Arnhem	Arnhem	subst:sg:acc:m3	nazwa geograficzna	
-Arnhem	Arnhem	subst:sg:acc:n2	nazwa geograficzna	
-Arnhem	Arnhem	subst:sg:dat:n2	nazwa geograficzna	
-Arnhem	Arnhem	subst:sg:gen:n2	nazwa geograficzna	
-Arnhem	Arnhem	subst:sg:inst:n2	nazwa geograficzna	
-Arnhem	Arnhem	subst:sg:loc:n2	nazwa geograficzna	
+Arnhem	Arnhem	subst:sg:acc:n:ncol	nazwa geograficzna	
+Arnhem	Arnhem	subst:sg:dat:n:ncol	nazwa geograficzna	
+Arnhem	Arnhem	subst:sg:gen:n:ncol	nazwa geograficzna	
+Arnhem	Arnhem	subst:sg:inst:n:ncol	nazwa geograficzna	
+Arnhem	Arnhem	subst:sg:loc:n:ncol	nazwa geograficzna	
 Arnhem	Arnhem	subst:sg:nom:m3	nazwa geograficzna	
-Arnhem	Arnhem	subst:sg:nom:n2	nazwa geograficzna	
-Arnhem	Arnhem	subst:sg:voc:n2	nazwa geograficzna	
+Arnhem	Arnhem	subst:sg:nom:n:ncol	nazwa geograficzna	
+Arnhem	Arnhem	subst:sg:voc:n:ncol	nazwa geograficzna	
 Arnhemem	Arnhem	subst:sg:inst:m3	nazwa geograficzna	
 Arnhemie	Arnhem	subst:sg:loc:m3	nazwa geograficzna	
 Arnhemie	Arnhem	subst:sg:voc:m3	nazwa geograficzna	
@@ -8076,20 +8076,20 @@ Ateny	Atena	subst:pl:acc:f	imię	mit.
 Ateny	Atena	subst:pl:nom:f	imię	mit.
 Ateny	Atena	subst:pl:voc:f	imię	mit.
 Ateny	Atena	subst:sg:gen:f	imię	mit.
-Atenea	Ateneum	subst:pl:acc:n2	nazwa instytucji	
-Atenea	Ateneum	subst:pl:nom:n2	nazwa instytucji	
-Atenea	Ateneum	subst:pl:voc:n2	nazwa instytucji	
-Ateneach	Ateneum	subst:pl:loc:n2	nazwa instytucji	
-Ateneami	Ateneum	subst:pl:inst:n2	nazwa instytucji	
-Ateneom	Ateneum	subst:pl:dat:n2	nazwa instytucji	
-Ateneów	Ateneum	subst:pl:gen:n2	nazwa instytucji	
-Ateneum	Ateneum	subst:sg:acc:n2	nazwa instytucji	
-Ateneum	Ateneum	subst:sg:dat:n2	nazwa instytucji	
-Ateneum	Ateneum	subst:sg:gen:n2	nazwa instytucji	
-Ateneum	Ateneum	subst:sg:inst:n2	nazwa instytucji	
-Ateneum	Ateneum	subst:sg:loc:n2	nazwa instytucji	
-Ateneum	Ateneum	subst:sg:nom:n2	nazwa instytucji	
-Ateneum	Ateneum	subst:sg:voc:n2	nazwa instytucji	
+Atenea	Ateneum	subst:pl:acc:n:ncol	nazwa instytucji	
+Atenea	Ateneum	subst:pl:nom:n:ncol	nazwa instytucji	
+Atenea	Ateneum	subst:pl:voc:n:ncol	nazwa instytucji	
+Ateneach	Ateneum	subst:pl:loc:n:ncol	nazwa instytucji	
+Ateneami	Ateneum	subst:pl:inst:n:ncol	nazwa instytucji	
+Ateneom	Ateneum	subst:pl:dat:n:ncol	nazwa instytucji	
+Ateneów	Ateneum	subst:pl:gen:n:ncol	nazwa instytucji	
+Ateneum	Ateneum	subst:sg:acc:n:ncol	nazwa instytucji	
+Ateneum	Ateneum	subst:sg:dat:n:ncol	nazwa instytucji	
+Ateneum	Ateneum	subst:sg:gen:n:ncol	nazwa instytucji	
+Ateneum	Ateneum	subst:sg:inst:n:ncol	nazwa instytucji	
+Ateneum	Ateneum	subst:sg:loc:n:ncol	nazwa instytucji	
+Ateneum	Ateneum	subst:sg:nom:n:ncol	nazwa instytucji	
+Ateneum	Ateneum	subst:sg:voc:n:ncol	nazwa instytucji	
 Atence	Atenka	subst:sg:dat:f	nazwa pospolita	
 Atence	Atenka	subst:sg:loc:f	nazwa pospolita	
 Atenek	Atenka	subst:pl:gen:f	nazwa pospolita	
@@ -8104,20 +8104,20 @@ Atenki	Atenka	subst:pl:voc:f	nazwa pospolita
 Atenki	Atenka	subst:sg:gen:f	nazwa pospolita	
 Atenko	Atenka	subst:sg:voc:f	nazwa pospolita	
 Atenkom	Atenka	subst:pl:dat:f	nazwa pospolita	
-Atenach	Ateny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Atenach	Ateny	subst:pl:loc:p3	nazwa geograficzna	
-Atenami	Ateny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Atenami	Ateny	subst:pl:inst:p3	nazwa geograficzna	
-Aten	Ateny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Aten	Ateny	subst:pl:gen:p3	nazwa geograficzna	
-Atenom	Ateny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Atenom	Ateny	subst:pl:dat:p3	nazwa geograficzna	
-Ateny	Ateny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Ateny	Ateny	subst:pl:acc:p3	nazwa geograficzna	
-Ateny	Ateny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Ateny	Ateny	subst:pl:nom:p3	nazwa geograficzna	
-Ateny	Ateny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Ateny	Ateny	subst:pl:voc:p3	nazwa geograficzna	
+Atenach	Ateny	subst:pl:loc:n:pt	nazwa geograficzna	
+Atenach	Ateny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Atenami	Ateny	subst:pl:inst:n:pt	nazwa geograficzna	
+Atenami	Ateny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Aten	Ateny	subst:pl:gen:n:pt	nazwa geograficzna	
+Aten	Ateny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Atenom	Ateny	subst:pl:dat:n:pt	nazwa geograficzna	
+Atenom	Ateny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ateny	Ateny	subst:pl:acc:n:pt	nazwa geograficzna	
+Ateny	Ateny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Ateny	Ateny	subst:pl:nom:n:pt	nazwa geograficzna	
+Ateny	Ateny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Ateny	Ateny	subst:pl:voc:n:pt	nazwa geograficzna	
+Ateny	Ateny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Ateńczycy	Ateńczyk	subst:pl:nom:m1	nazwa pospolita	
 Ateńczycy	Ateńczyk	subst:pl:voc:m1	nazwa pospolita	
 Ateńczyka	Ateńczyk	subst:sg:acc:m1	nazwa pospolita	
@@ -8149,33 +8149,33 @@ Athabaski	Athabasca	subst:pl:nom:f	nazwa geograficzna
 Athabaski	Athabasca	subst:pl:voc:f	nazwa geograficzna	
 Athabaski	Athabasca	subst:sg:gen:f	nazwa geograficzna	
 ATK	ATK	subst:pl:acc:f	nazwa instytucji	
-ATK	ATK	subst:pl:acc:n2	nazwa instytucji	
+ATK	ATK	subst:pl:acc:n:ncol	nazwa instytucji	
 ATK	ATK	subst:pl:dat:f	nazwa instytucji	
-ATK	ATK	subst:pl:dat:n2	nazwa instytucji	
+ATK	ATK	subst:pl:dat:n:ncol	nazwa instytucji	
 ATK	ATK	subst:pl:gen:f	nazwa instytucji	
-ATK	ATK	subst:pl:gen:n2	nazwa instytucji	
+ATK	ATK	subst:pl:gen:n:ncol	nazwa instytucji	
 ATK	ATK	subst:pl:inst:f	nazwa instytucji	
-ATK	ATK	subst:pl:inst:n2	nazwa instytucji	
+ATK	ATK	subst:pl:inst:n:ncol	nazwa instytucji	
 ATK	ATK	subst:pl:loc:f	nazwa instytucji	
-ATK	ATK	subst:pl:loc:n2	nazwa instytucji	
+ATK	ATK	subst:pl:loc:n:ncol	nazwa instytucji	
 ATK	ATK	subst:pl:nom:f	nazwa instytucji	
-ATK	ATK	subst:pl:nom:n2	nazwa instytucji	
+ATK	ATK	subst:pl:nom:n:ncol	nazwa instytucji	
 ATK	ATK	subst:pl:voc:f	nazwa instytucji	
-ATK	ATK	subst:pl:voc:n2	nazwa instytucji	
+ATK	ATK	subst:pl:voc:n:ncol	nazwa instytucji	
 ATK	ATK	subst:sg:acc:f	nazwa instytucji	
-ATK	ATK	subst:sg:acc:n2	nazwa instytucji	
+ATK	ATK	subst:sg:acc:n:ncol	nazwa instytucji	
 ATK	ATK	subst:sg:dat:f	nazwa instytucji	
-ATK	ATK	subst:sg:dat:n2	nazwa instytucji	
+ATK	ATK	subst:sg:dat:n:ncol	nazwa instytucji	
 ATK	ATK	subst:sg:gen:f	nazwa instytucji	
-ATK	ATK	subst:sg:gen:n2	nazwa instytucji	
+ATK	ATK	subst:sg:gen:n:ncol	nazwa instytucji	
 ATK	ATK	subst:sg:inst:f	nazwa instytucji	
-ATK	ATK	subst:sg:inst:n2	nazwa instytucji	
+ATK	ATK	subst:sg:inst:n:ncol	nazwa instytucji	
 ATK	ATK	subst:sg:loc:f	nazwa instytucji	
-ATK	ATK	subst:sg:loc:n2	nazwa instytucji	
+ATK	ATK	subst:sg:loc:n:ncol	nazwa instytucji	
 ATK	ATK	subst:sg:nom:f	nazwa instytucji	
-ATK	ATK	subst:sg:nom:n2	nazwa instytucji	
+ATK	ATK	subst:sg:nom:n:ncol	nazwa instytucji	
 ATK	ATK	subst:sg:voc:f	nazwa instytucji	
-ATK	ATK	subst:sg:voc:n2	nazwa instytucji	
+ATK	ATK	subst:sg:voc:n:ncol	nazwa instytucji	
 Atce	Atka	subst:sg:dat:f	imię	
 Atce	Atka	subst:sg:loc:f	imię	
 Atek	Atka	subst:pl:gen:f	imię	
@@ -8291,47 +8291,47 @@ Atlasy	Atlas:s2	subst:pl:acc:m3	nazwa geograficzna
 Atlasy	Atlas:s2	subst:pl:nom:m3	nazwa geograficzna	
 Atlasy	Atlas:s2	subst:pl:voc:m3	nazwa geograficzna	
 ATP	ATP	subst:pl:acc:m3	nazwa pospolita	
-ATP	ATP	subst:pl:acc:n2	nazwa pospolita	
+ATP	ATP	subst:pl:acc:n:ncol	nazwa pospolita	
 ATP	ATP	subst:pl:dat:m3	nazwa pospolita	
-ATP	ATP	subst:pl:dat:n2	nazwa pospolita	
+ATP	ATP	subst:pl:dat:n:ncol	nazwa pospolita	
 ATP	ATP	subst:pl:gen:m3	nazwa pospolita	
-ATP	ATP	subst:pl:gen:n2	nazwa pospolita	
+ATP	ATP	subst:pl:gen:n:ncol	nazwa pospolita	
 ATP	ATP	subst:pl:inst:m3	nazwa pospolita	
-ATP	ATP	subst:pl:inst:n2	nazwa pospolita	
+ATP	ATP	subst:pl:inst:n:ncol	nazwa pospolita	
 ATP	ATP	subst:pl:loc:m3	nazwa pospolita	
-ATP	ATP	subst:pl:loc:n2	nazwa pospolita	
+ATP	ATP	subst:pl:loc:n:ncol	nazwa pospolita	
 ATP	ATP	subst:pl:nom:m3	nazwa pospolita	
-ATP	ATP	subst:pl:nom:n2	nazwa pospolita	
+ATP	ATP	subst:pl:nom:n:ncol	nazwa pospolita	
 ATP	ATP	subst:pl:voc:m3	nazwa pospolita	
-ATP	ATP	subst:pl:voc:n2	nazwa pospolita	
+ATP	ATP	subst:pl:voc:n:ncol	nazwa pospolita	
 ATP	ATP	subst:sg:acc:m3	nazwa pospolita	
-ATP	ATP	subst:sg:acc:n2	nazwa pospolita	
+ATP	ATP	subst:sg:acc:n:ncol	nazwa pospolita	
 ATP	ATP	subst:sg:dat:m3	nazwa pospolita	
-ATP	ATP	subst:sg:dat:n2	nazwa pospolita	
+ATP	ATP	subst:sg:dat:n:ncol	nazwa pospolita	
 ATP	ATP	subst:sg:gen:m3	nazwa pospolita	
-ATP	ATP	subst:sg:gen:n2	nazwa pospolita	
+ATP	ATP	subst:sg:gen:n:ncol	nazwa pospolita	
 ATP	ATP	subst:sg:inst:m3	nazwa pospolita	
-ATP	ATP	subst:sg:inst:n2	nazwa pospolita	
+ATP	ATP	subst:sg:inst:n:ncol	nazwa pospolita	
 ATP	ATP	subst:sg:loc:m3	nazwa pospolita	
-ATP	ATP	subst:sg:loc:n2	nazwa pospolita	
+ATP	ATP	subst:sg:loc:n:ncol	nazwa pospolita	
 ATP	ATP	subst:sg:nom:m3	nazwa pospolita	
-ATP	ATP	subst:sg:nom:n2	nazwa pospolita	
+ATP	ATP	subst:sg:nom:n:ncol	nazwa pospolita	
 ATP	ATP	subst:sg:voc:m3	nazwa pospolita	
-ATP	ATP	subst:sg:voc:n2	nazwa pospolita	
-ATT	ATT	subst:pl:acc:n2	nazwa firmy	
-ATT	ATT	subst:pl:dat:n2	nazwa firmy	
-ATT	ATT	subst:pl:gen:n2	nazwa firmy	
-ATT	ATT	subst:pl:inst:n2	nazwa firmy	
-ATT	ATT	subst:pl:loc:n2	nazwa firmy	
-ATT	ATT	subst:pl:nom:n2	nazwa firmy	
-ATT	ATT	subst:pl:voc:n2	nazwa firmy	
-ATT	ATT	subst:sg:acc:n2	nazwa firmy	
-ATT	ATT	subst:sg:dat:n2	nazwa firmy	
-ATT	ATT	subst:sg:gen:n2	nazwa firmy	
-ATT	ATT	subst:sg:inst:n2	nazwa firmy	
-ATT	ATT	subst:sg:loc:n2	nazwa firmy	
-ATT	ATT	subst:sg:nom:n2	nazwa firmy	
-ATT	ATT	subst:sg:voc:n2	nazwa firmy	
+ATP	ATP	subst:sg:voc:n:ncol	nazwa pospolita	
+ATT	ATT	subst:pl:acc:n:ncol	nazwa firmy	
+ATT	ATT	subst:pl:dat:n:ncol	nazwa firmy	
+ATT	ATT	subst:pl:gen:n:ncol	nazwa firmy	
+ATT	ATT	subst:pl:inst:n:ncol	nazwa firmy	
+ATT	ATT	subst:pl:loc:n:ncol	nazwa firmy	
+ATT	ATT	subst:pl:nom:n:ncol	nazwa firmy	
+ATT	ATT	subst:pl:voc:n:ncol	nazwa firmy	
+ATT	ATT	subst:sg:acc:n:ncol	nazwa firmy	
+ATT	ATT	subst:sg:dat:n:ncol	nazwa firmy	
+ATT	ATT	subst:sg:gen:n:ncol	nazwa firmy	
+ATT	ATT	subst:sg:inst:n:ncol	nazwa firmy	
+ATT	ATT	subst:sg:loc:n:ncol	nazwa firmy	
+ATT	ATT	subst:sg:nom:n:ncol	nazwa firmy	
+ATT	ATT	subst:sg:voc:n:ncol	nazwa firmy	
 Attenborough	Attenborough	depr:pl:nom:m2	nazwisko	
 Attenborough	Attenborough	depr:pl:voc:m2	nazwisko	
 Attenborough	Attenborough	subst:pl:acc:m1	nazwisko	
@@ -8674,20 +8674,20 @@ Aurory	Aurora	subst:pl:voc:f	imię
 Aurory	Aurora	subst:sg:gen:f	imię	
 Aurorze	Aurora	subst:sg:dat:f	imię	
 Aurorze	Aurora	subst:sg:loc:f	imię	
-Auschwitz	Auschwitz	subst:pl:acc:n2	nazwa geograficzna	hist.
-Auschwitz	Auschwitz	subst:pl:dat:n2	nazwa geograficzna	hist.
-Auschwitz	Auschwitz	subst:pl:gen:n2	nazwa geograficzna	hist.
-Auschwitz	Auschwitz	subst:pl:inst:n2	nazwa geograficzna	hist.
-Auschwitz	Auschwitz	subst:pl:loc:n2	nazwa geograficzna	hist.
-Auschwitz	Auschwitz	subst:pl:nom:n2	nazwa geograficzna	hist.
-Auschwitz	Auschwitz	subst:pl:voc:n2	nazwa geograficzna	hist.
-Auschwitz	Auschwitz	subst:sg:acc:n2	nazwa geograficzna	hist.
-Auschwitz	Auschwitz	subst:sg:dat:n2	nazwa geograficzna	hist.
-Auschwitz	Auschwitz	subst:sg:gen:n2	nazwa geograficzna	hist.
-Auschwitz	Auschwitz	subst:sg:inst:n2	nazwa geograficzna	hist.
-Auschwitz	Auschwitz	subst:sg:loc:n2	nazwa geograficzna	hist.
-Auschwitz	Auschwitz	subst:sg:nom:n2	nazwa geograficzna	hist.
-Auschwitz	Auschwitz	subst:sg:voc:n2	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:pl:acc:n:ncol	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:pl:dat:n:ncol	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:pl:gen:n:ncol	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:pl:inst:n:ncol	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:pl:loc:n:ncol	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:pl:nom:n:ncol	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:pl:voc:n:ncol	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:sg:acc:n:ncol	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:sg:dat:n:ncol	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:sg:gen:n:ncol	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:sg:inst:n:ncol	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:sg:loc:n:ncol	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:sg:nom:n:ncol	nazwa geograficzna	hist.
+Auschwitz	Auschwitz	subst:sg:voc:n:ncol	nazwa geograficzna	hist.
 Austena	Austen	subst:sg:acc:m1	nazwisko	
 Austena	Austen	subst:sg:gen:m1	nazwisko	
 Austenach	Austen	subst:pl:loc:m1	nazwisko	
@@ -8704,20 +8704,20 @@ Austenów	Austen	subst:pl:acc:m1	nazwisko
 Austenów	Austen	subst:pl:gen:m1	nazwisko	
 Austeny	Austen	depr:pl:nom:m2	nazwisko	
 Austeny	Austen	depr:pl:voc:m2	nazwisko	
-Austerlitz	Austerlitz	subst:pl:acc:n2	nazwa geograficzna	hist.
-Austerlitz	Austerlitz	subst:pl:dat:n2	nazwa geograficzna	hist.
-Austerlitz	Austerlitz	subst:pl:gen:n2	nazwa geograficzna	hist.
-Austerlitz	Austerlitz	subst:pl:inst:n2	nazwa geograficzna	hist.
-Austerlitz	Austerlitz	subst:pl:loc:n2	nazwa geograficzna	hist.
-Austerlitz	Austerlitz	subst:pl:nom:n2	nazwa geograficzna	hist.
-Austerlitz	Austerlitz	subst:pl:voc:n2	nazwa geograficzna	hist.
-Austerlitz	Austerlitz	subst:sg:acc:n2	nazwa geograficzna	hist.
-Austerlitz	Austerlitz	subst:sg:dat:n2	nazwa geograficzna	hist.
-Austerlitz	Austerlitz	subst:sg:gen:n2	nazwa geograficzna	hist.
-Austerlitz	Austerlitz	subst:sg:inst:n2	nazwa geograficzna	hist.
-Austerlitz	Austerlitz	subst:sg:loc:n2	nazwa geograficzna	hist.
-Austerlitz	Austerlitz	subst:sg:nom:n2	nazwa geograficzna	hist.
-Austerlitz	Austerlitz	subst:sg:voc:n2	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:pl:acc:n:ncol	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:pl:dat:n:ncol	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:pl:gen:n:ncol	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:pl:inst:n:ncol	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:pl:loc:n:ncol	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:pl:nom:n:ncol	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:pl:voc:n:ncol	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:sg:acc:n:ncol	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:sg:dat:n:ncol	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:sg:gen:n:ncol	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:sg:inst:n:ncol	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:sg:loc:n:ncol	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:sg:nom:n:ncol	nazwa geograficzna	hist.
+Austerlitz	Austerlitz	subst:sg:voc:n:ncol	nazwa geograficzna	hist.
 Austina	Austin	subst:sg:acc:m1	nazwisko	
 Austina	Austin	subst:sg:gen:m1	nazwisko	
 Austinach	Austin	subst:pl:loc:m1	nazwisko	
@@ -8824,20 +8824,20 @@ Austriaków	Austriak	subst:pl:acc:m1	nazwa pospolita
 Austriaków	Austriak	subst:pl:gen:m1	nazwa pospolita	
 Austriaku	Austriak	subst:sg:loc:m1	nazwa pospolita	
 Austriaku	Austriak	subst:sg:voc:m1	nazwa pospolita	
-Austro-Węgier	Austro-Węgry	subst:pl:gen:p2	nazwa geograficzna	rzad.|hist.
-Austro-Węgier	Austro-Węgry	subst:pl:gen:p3	nazwa geograficzna	hist.
-Austro-Węgrami	Austro-Węgry	subst:pl:inst:p2	nazwa geograficzna	rzad.|hist.
-Austro-Węgrami	Austro-Węgry	subst:pl:inst:p3	nazwa geograficzna	hist.
-Austro-Węgrom	Austro-Węgry	subst:pl:dat:p2	nazwa geograficzna	rzad.|hist.
-Austro-Węgrom	Austro-Węgry	subst:pl:dat:p3	nazwa geograficzna	hist.
-Austro-Węgry	Austro-Węgry	subst:pl:acc:p2	nazwa geograficzna	rzad.|hist.
-Austro-Węgry	Austro-Węgry	subst:pl:acc:p3	nazwa geograficzna	hist.
-Austro-Węgry	Austro-Węgry	subst:pl:nom:p2	nazwa geograficzna	rzad.|hist.
-Austro-Węgry	Austro-Węgry	subst:pl:nom:p3	nazwa geograficzna	hist.
-Austro-Węgry	Austro-Węgry	subst:pl:voc:p2	nazwa geograficzna	rzad.|hist.
-Austro-Węgry	Austro-Węgry	subst:pl:voc:p3	nazwa geograficzna	hist.
-Austro-Węgrzech	Austro-Węgry	subst:pl:loc:p2	nazwa geograficzna	rzad.|hist.
-Austro-Węgrzech	Austro-Węgry	subst:pl:loc:p3	nazwa geograficzna	hist.
+Austro-Węgier	Austro-Węgry	subst:pl:gen:n:pt	nazwa geograficzna	hist.
+Austro-Węgier	Austro-Węgry	subst:pl:gen:n:pt	nazwa geograficzna	rzad.|hist.
+Austro-Węgrami	Austro-Węgry	subst:pl:inst:n:pt	nazwa geograficzna	hist.
+Austro-Węgrami	Austro-Węgry	subst:pl:inst:n:pt	nazwa geograficzna	rzad.|hist.
+Austro-Węgrom	Austro-Węgry	subst:pl:dat:n:pt	nazwa geograficzna	hist.
+Austro-Węgrom	Austro-Węgry	subst:pl:dat:n:pt	nazwa geograficzna	rzad.|hist.
+Austro-Węgry	Austro-Węgry	subst:pl:acc:n:pt	nazwa geograficzna	hist.
+Austro-Węgry	Austro-Węgry	subst:pl:acc:n:pt	nazwa geograficzna	rzad.|hist.
+Austro-Węgry	Austro-Węgry	subst:pl:nom:n:pt	nazwa geograficzna	hist.
+Austro-Węgry	Austro-Węgry	subst:pl:nom:n:pt	nazwa geograficzna	rzad.|hist.
+Austro-Węgry	Austro-Węgry	subst:pl:voc:n:pt	nazwa geograficzna	hist.
+Austro-Węgry	Austro-Węgry	subst:pl:voc:n:pt	nazwa geograficzna	rzad.|hist.
+Austro-Węgrzech	Austro-Węgry	subst:pl:loc:n:pt	nazwa geograficzna	hist.
+Austro-Węgrzech	Austro-Węgry	subst:pl:loc:n:pt	nazwa geograficzna	rzad.|hist.
 Avia	Avia	subst:sg:nom:f	marka	
 Aviach	Avia	subst:pl:loc:f	marka	
 Aviami	Avia	subst:pl:inst:f	marka	
@@ -9178,20 +9178,20 @@ Azory	Azor	subst:pl:nom:m2	imię
 Azory	Azor	subst:pl:voc:m2	imię	
 Azorze	Azor	subst:sg:loc:m2	imię	
 Azorze	Azor	subst:sg:voc:m2	imię	
-Azorach	Azory	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Azorach	Azory	subst:pl:loc:p3	nazwa geograficzna	
-Azorami	Azory	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Azorami	Azory	subst:pl:inst:p3	nazwa geograficzna	
-Azorom	Azory	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Azorom	Azory	subst:pl:dat:p3	nazwa geograficzna	
-Azorów	Azory	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Azorów	Azory	subst:pl:gen:p3	nazwa geograficzna	
-Azory	Azory	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Azory	Azory	subst:pl:acc:p3	nazwa geograficzna	
-Azory	Azory	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Azory	Azory	subst:pl:nom:p3	nazwa geograficzna	
-Azory	Azory	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Azory	Azory	subst:pl:voc:p3	nazwa geograficzna	
+Azorach	Azory	subst:pl:loc:n:pt	nazwa geograficzna	
+Azorach	Azory	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Azorami	Azory	subst:pl:inst:n:pt	nazwa geograficzna	
+Azorami	Azory	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Azorom	Azory	subst:pl:dat:n:pt	nazwa geograficzna	
+Azorom	Azory	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Azorów	Azory	subst:pl:gen:n:pt	nazwa geograficzna	
+Azorów	Azory	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Azory	Azory	subst:pl:acc:n:pt	nazwa geograficzna	
+Azory	Azory	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Azory	Azory	subst:pl:nom:n:pt	nazwa geograficzna	
+Azory	Azory	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Azory	Azory	subst:pl:voc:n:pt	nazwa geograficzna	
+Azory	Azory	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 AZS-ach	AZS	subst:pl:loc:m3	nazwa organizacji	
 AZS-ami	AZS	subst:pl:inst:m3	nazwa organizacji	
 AZS	AZS	subst:sg:acc:m3	nazwa organizacji	

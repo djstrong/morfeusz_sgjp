@@ -13,33 +13,33 @@ UAM-y	UAM	subst:pl:acc:m3	nazwa instytucji
 UAM-y	UAM	subst:pl:nom:m3	nazwa instytucji	
 UAM-y	UAM	subst:pl:voc:m3	nazwa instytucji	
 UB	UB	subst:pl:acc:m3	nazwa instytucji	
-UB	UB	subst:pl:acc:n2	nazwa instytucji	
+UB	UB	subst:pl:acc:n:ncol	nazwa instytucji	
 UB	UB	subst:pl:dat:m3	nazwa instytucji	
-UB	UB	subst:pl:dat:n2	nazwa instytucji	
+UB	UB	subst:pl:dat:n:ncol	nazwa instytucji	
 UB	UB	subst:pl:gen:m3	nazwa instytucji	
-UB	UB	subst:pl:gen:n2	nazwa instytucji	
+UB	UB	subst:pl:gen:n:ncol	nazwa instytucji	
 UB	UB	subst:pl:inst:m3	nazwa instytucji	
-UB	UB	subst:pl:inst:n2	nazwa instytucji	
+UB	UB	subst:pl:inst:n:ncol	nazwa instytucji	
 UB	UB	subst:pl:loc:m3	nazwa instytucji	
-UB	UB	subst:pl:loc:n2	nazwa instytucji	
+UB	UB	subst:pl:loc:n:ncol	nazwa instytucji	
 UB	UB	subst:pl:nom:m3	nazwa instytucji	
-UB	UB	subst:pl:nom:n2	nazwa instytucji	
+UB	UB	subst:pl:nom:n:ncol	nazwa instytucji	
 UB	UB	subst:pl:voc:m3	nazwa instytucji	
-UB	UB	subst:pl:voc:n2	nazwa instytucji	
+UB	UB	subst:pl:voc:n:ncol	nazwa instytucji	
 UB	UB	subst:sg:acc:m3	nazwa instytucji	
-UB	UB	subst:sg:acc:n2	nazwa instytucji	
+UB	UB	subst:sg:acc:n:ncol	nazwa instytucji	
 UB	UB	subst:sg:dat:m3	nazwa instytucji	
-UB	UB	subst:sg:dat:n2	nazwa instytucji	
+UB	UB	subst:sg:dat:n:ncol	nazwa instytucji	
 UB	UB	subst:sg:gen:m3	nazwa instytucji	
-UB	UB	subst:sg:gen:n2	nazwa instytucji	
+UB	UB	subst:sg:gen:n:ncol	nazwa instytucji	
 UB	UB	subst:sg:inst:m3	nazwa instytucji	
-UB	UB	subst:sg:inst:n2	nazwa instytucji	
+UB	UB	subst:sg:inst:n:ncol	nazwa instytucji	
 UB	UB	subst:sg:loc:m3	nazwa instytucji	
-UB	UB	subst:sg:loc:n2	nazwa instytucji	
+UB	UB	subst:sg:loc:n:ncol	nazwa instytucji	
 UB	UB	subst:sg:nom:m3	nazwa instytucji	
-UB	UB	subst:sg:nom:n2	nazwa instytucji	
+UB	UB	subst:sg:nom:n:ncol	nazwa instytucji	
 UB	UB	subst:sg:voc:m3	nazwa instytucji	
-UB	UB	subst:sg:voc:n2	nazwa instytucji	
+UB	UB	subst:sg:voc:n:ncol	nazwa instytucji	
 Ubaldach	Ubald	subst:pl:loc:m1	imię	
 Ubaldami	Ubald	subst:pl:inst:m1	imię	
 Ubalda	Ubald	subst:sg:acc:m1	imię	
@@ -105,47 +105,47 @@ Ubysław	Ubysław	subst:sg:nom:m1	imię
 Ubysławy	Ubysław	depr:pl:nom:m2	imię	
 Ubysławy	Ubysław	depr:pl:voc:m2	imię	
 UC	UC	subst:pl:acc:m3	nazwa instytucji	
-UC	UC	subst:pl:acc:n2	nazwa instytucji	
+UC	UC	subst:pl:acc:n:ncol	nazwa instytucji	
 UC	UC	subst:pl:dat:m3	nazwa instytucji	
-UC	UC	subst:pl:dat:n2	nazwa instytucji	
+UC	UC	subst:pl:dat:n:ncol	nazwa instytucji	
 UC	UC	subst:pl:gen:m3	nazwa instytucji	
-UC	UC	subst:pl:gen:n2	nazwa instytucji	
+UC	UC	subst:pl:gen:n:ncol	nazwa instytucji	
 UC	UC	subst:pl:inst:m3	nazwa instytucji	
-UC	UC	subst:pl:inst:n2	nazwa instytucji	
+UC	UC	subst:pl:inst:n:ncol	nazwa instytucji	
 UC	UC	subst:pl:loc:m3	nazwa instytucji	
-UC	UC	subst:pl:loc:n2	nazwa instytucji	
+UC	UC	subst:pl:loc:n:ncol	nazwa instytucji	
 UC	UC	subst:pl:nom:m3	nazwa instytucji	
-UC	UC	subst:pl:nom:n2	nazwa instytucji	
+UC	UC	subst:pl:nom:n:ncol	nazwa instytucji	
 UC	UC	subst:pl:voc:m3	nazwa instytucji	
-UC	UC	subst:pl:voc:n2	nazwa instytucji	
+UC	UC	subst:pl:voc:n:ncol	nazwa instytucji	
 UC	UC	subst:sg:acc:m3	nazwa instytucji	
-UC	UC	subst:sg:acc:n2	nazwa instytucji	
+UC	UC	subst:sg:acc:n:ncol	nazwa instytucji	
 UC	UC	subst:sg:dat:m3	nazwa instytucji	
-UC	UC	subst:sg:dat:n2	nazwa instytucji	
+UC	UC	subst:sg:dat:n:ncol	nazwa instytucji	
 UC	UC	subst:sg:gen:m3	nazwa instytucji	
-UC	UC	subst:sg:gen:n2	nazwa instytucji	
+UC	UC	subst:sg:gen:n:ncol	nazwa instytucji	
 UC	UC	subst:sg:inst:m3	nazwa instytucji	
-UC	UC	subst:sg:inst:n2	nazwa instytucji	
+UC	UC	subst:sg:inst:n:ncol	nazwa instytucji	
 UC	UC	subst:sg:loc:m3	nazwa instytucji	
-UC	UC	subst:sg:loc:n2	nazwa instytucji	
+UC	UC	subst:sg:loc:n:ncol	nazwa instytucji	
 UC	UC	subst:sg:nom:m3	nazwa instytucji	
-UC	UC	subst:sg:nom:n2	nazwa instytucji	
+UC	UC	subst:sg:nom:n:ncol	nazwa instytucji	
 UC	UC	subst:sg:voc:m3	nazwa instytucji	
-UC	UC	subst:sg:voc:n2	nazwa instytucji	
-Udine	Udine	subst:pl:acc:n2	nazwa geograficzna	
-Udine	Udine	subst:pl:dat:n2	nazwa geograficzna	
-Udine	Udine	subst:pl:gen:n2	nazwa geograficzna	
-Udine	Udine	subst:pl:inst:n2	nazwa geograficzna	
-Udine	Udine	subst:pl:loc:n2	nazwa geograficzna	
-Udine	Udine	subst:pl:nom:n2	nazwa geograficzna	
-Udine	Udine	subst:pl:voc:n2	nazwa geograficzna	
-Udine	Udine	subst:sg:acc:n2	nazwa geograficzna	
-Udine	Udine	subst:sg:dat:n2	nazwa geograficzna	
-Udine	Udine	subst:sg:gen:n2	nazwa geograficzna	
-Udine	Udine	subst:sg:inst:n2	nazwa geograficzna	
-Udine	Udine	subst:sg:loc:n2	nazwa geograficzna	
-Udine	Udine	subst:sg:nom:n2	nazwa geograficzna	
-Udine	Udine	subst:sg:voc:n2	nazwa geograficzna	
+UC	UC	subst:sg:voc:n:ncol	nazwa instytucji	
+Udine	Udine	subst:pl:acc:n:ncol	nazwa geograficzna	
+Udine	Udine	subst:pl:dat:n:ncol	nazwa geograficzna	
+Udine	Udine	subst:pl:gen:n:ncol	nazwa geograficzna	
+Udine	Udine	subst:pl:inst:n:ncol	nazwa geograficzna	
+Udine	Udine	subst:pl:loc:n:ncol	nazwa geograficzna	
+Udine	Udine	subst:pl:nom:n:ncol	nazwa geograficzna	
+Udine	Udine	subst:pl:voc:n:ncol	nazwa geograficzna	
+Udine	Udine	subst:sg:acc:n:ncol	nazwa geograficzna	
+Udine	Udine	subst:sg:dat:n:ncol	nazwa geograficzna	
+Udine	Udine	subst:sg:gen:n:ncol	nazwa geograficzna	
+Udine	Udine	subst:sg:inst:n:ncol	nazwa geograficzna	
+Udine	Udine	subst:sg:loc:n:ncol	nazwa geograficzna	
+Udine	Udine	subst:sg:nom:n:ncol	nazwa geograficzna	
+Udine	Udine	subst:sg:voc:n:ncol	nazwa geograficzna	
 Udmurcjach	Udmurcja	subst:pl:loc:f	nazwa geograficzna	
 Udmurcjami	Udmurcja	subst:pl:inst:f	nazwa geograficzna	
 Udmurcja	Udmurcja	subst:sg:nom:f	nazwa geograficzna	
@@ -162,33 +162,33 @@ Udmurcjom	Udmurcja	subst:pl:dat:f	nazwa geograficzna
 Udmurcjo	Udmurcja	subst:sg:voc:f	nazwa geograficzna	
 Udmurcyj	Udmurcja	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 UE	UE	subst:pl:acc:f	nazwa organizacji	
-UE	UE	subst:pl:acc:n2	nazwa organizacji	
+UE	UE	subst:pl:acc:n:ncol	nazwa organizacji	
 UE	UE	subst:pl:dat:f	nazwa organizacji	
-UE	UE	subst:pl:dat:n2	nazwa organizacji	
+UE	UE	subst:pl:dat:n:ncol	nazwa organizacji	
 UE	UE	subst:pl:gen:f	nazwa organizacji	
-UE	UE	subst:pl:gen:n2	nazwa organizacji	
+UE	UE	subst:pl:gen:n:ncol	nazwa organizacji	
 UE	UE	subst:pl:inst:f	nazwa organizacji	
-UE	UE	subst:pl:inst:n2	nazwa organizacji	
+UE	UE	subst:pl:inst:n:ncol	nazwa organizacji	
 UE	UE	subst:pl:loc:f	nazwa organizacji	
-UE	UE	subst:pl:loc:n2	nazwa organizacji	
+UE	UE	subst:pl:loc:n:ncol	nazwa organizacji	
 UE	UE	subst:pl:nom:f	nazwa organizacji	
-UE	UE	subst:pl:nom:n2	nazwa organizacji	
+UE	UE	subst:pl:nom:n:ncol	nazwa organizacji	
 UE	UE	subst:pl:voc:f	nazwa organizacji	
-UE	UE	subst:pl:voc:n2	nazwa organizacji	
+UE	UE	subst:pl:voc:n:ncol	nazwa organizacji	
 UE	UE	subst:sg:acc:f	nazwa organizacji	
-UE	UE	subst:sg:acc:n2	nazwa organizacji	
+UE	UE	subst:sg:acc:n:ncol	nazwa organizacji	
 UE	UE	subst:sg:dat:f	nazwa organizacji	
-UE	UE	subst:sg:dat:n2	nazwa organizacji	
+UE	UE	subst:sg:dat:n:ncol	nazwa organizacji	
 UE	UE	subst:sg:gen:f	nazwa organizacji	
-UE	UE	subst:sg:gen:n2	nazwa organizacji	
+UE	UE	subst:sg:gen:n:ncol	nazwa organizacji	
 UE	UE	subst:sg:inst:f	nazwa organizacji	
-UE	UE	subst:sg:inst:n2	nazwa organizacji	
+UE	UE	subst:sg:inst:n:ncol	nazwa organizacji	
 UE	UE	subst:sg:loc:f	nazwa organizacji	
-UE	UE	subst:sg:loc:n2	nazwa organizacji	
+UE	UE	subst:sg:loc:n:ncol	nazwa organizacji	
 UE	UE	subst:sg:nom:f	nazwa organizacji	
-UE	UE	subst:sg:nom:n2	nazwa organizacji	
+UE	UE	subst:sg:nom:n:ncol	nazwa organizacji	
 UE	UE	subst:sg:voc:f	nazwa organizacji	
-UE	UE	subst:sg:voc:n2	nazwa organizacji	
+UE	UE	subst:sg:voc:n:ncol	nazwa organizacji	
 UEF-ach	UEFA	subst:pl:loc:f	nazwa organizacji	
 UEF-ami	UEFA	subst:pl:inst:f	nazwa organizacji	
 UEFA	UEFA	subst:sg:nom:f	nazwa organizacji	
@@ -217,48 +217,48 @@ Ufy	Ufa	subst:pl:acc:f	nazwa geograficzna
 Ufy	Ufa	subst:pl:nom:f	nazwa geograficzna	
 Ufy	Ufa	subst:pl:voc:f	nazwa geograficzna	
 Ufy	Ufa	subst:sg:gen:f	nazwa geograficzna	
-UFO	UFO	subst:pl:acc:n2	nazwa pospolita	
-UFO	UFO	subst:pl:dat:n2	nazwa pospolita	
-UFO	UFO	subst:pl:gen:n2	nazwa pospolita	
-UFO	UFO	subst:pl:inst:n2	nazwa pospolita	
-UFO	UFO	subst:pl:loc:n2	nazwa pospolita	
-UFO	UFO	subst:pl:nom:n2	nazwa pospolita	
-UFO	UFO	subst:pl:voc:n2	nazwa pospolita	
-UFO	UFO	subst:sg:acc:n2	nazwa pospolita	
-UFO	UFO	subst:sg:dat:n2	nazwa pospolita	
-UFO	UFO	subst:sg:gen:n2	nazwa pospolita	
-UFO	UFO	subst:sg:inst:n2	nazwa pospolita	
-UFO	UFO	subst:sg:loc:n2	nazwa pospolita	
-UFO	UFO	subst:sg:nom:n2	nazwa pospolita	
-UFO	UFO	subst:sg:voc:n2	nazwa pospolita	
+UFO	UFO	subst:pl:acc:n:ncol	nazwa pospolita	
+UFO	UFO	subst:pl:dat:n:ncol	nazwa pospolita	
+UFO	UFO	subst:pl:gen:n:ncol	nazwa pospolita	
+UFO	UFO	subst:pl:inst:n:ncol	nazwa pospolita	
+UFO	UFO	subst:pl:loc:n:ncol	nazwa pospolita	
+UFO	UFO	subst:pl:nom:n:ncol	nazwa pospolita	
+UFO	UFO	subst:pl:voc:n:ncol	nazwa pospolita	
+UFO	UFO	subst:sg:acc:n:ncol	nazwa pospolita	
+UFO	UFO	subst:sg:dat:n:ncol	nazwa pospolita	
+UFO	UFO	subst:sg:gen:n:ncol	nazwa pospolita	
+UFO	UFO	subst:sg:inst:n:ncol	nazwa pospolita	
+UFO	UFO	subst:sg:loc:n:ncol	nazwa pospolita	
+UFO	UFO	subst:sg:nom:n:ncol	nazwa pospolita	
+UFO	UFO	subst:sg:voc:n:ncol	nazwa pospolita	
 UG	UG	subst:pl:acc:m3	nazwa instytucji	
-UG	UG	subst:pl:acc:n2	nazwa instytucji	
+UG	UG	subst:pl:acc:n:ncol	nazwa instytucji	
 UG	UG	subst:pl:dat:m3	nazwa instytucji	
-UG	UG	subst:pl:dat:n2	nazwa instytucji	
+UG	UG	subst:pl:dat:n:ncol	nazwa instytucji	
 UG	UG	subst:pl:gen:m3	nazwa instytucji	
-UG	UG	subst:pl:gen:n2	nazwa instytucji	
+UG	UG	subst:pl:gen:n:ncol	nazwa instytucji	
 UG	UG	subst:pl:inst:m3	nazwa instytucji	
-UG	UG	subst:pl:inst:n2	nazwa instytucji	
+UG	UG	subst:pl:inst:n:ncol	nazwa instytucji	
 UG	UG	subst:pl:loc:m3	nazwa instytucji	
-UG	UG	subst:pl:loc:n2	nazwa instytucji	
+UG	UG	subst:pl:loc:n:ncol	nazwa instytucji	
 UG	UG	subst:pl:nom:m3	nazwa instytucji	
-UG	UG	subst:pl:nom:n2	nazwa instytucji	
+UG	UG	subst:pl:nom:n:ncol	nazwa instytucji	
 UG	UG	subst:pl:voc:m3	nazwa instytucji	
-UG	UG	subst:pl:voc:n2	nazwa instytucji	
+UG	UG	subst:pl:voc:n:ncol	nazwa instytucji	
 UG	UG	subst:sg:acc:m3	nazwa instytucji	
-UG	UG	subst:sg:acc:n2	nazwa instytucji	
+UG	UG	subst:sg:acc:n:ncol	nazwa instytucji	
 UG	UG	subst:sg:dat:m3	nazwa instytucji	
-UG	UG	subst:sg:dat:n2	nazwa instytucji	
+UG	UG	subst:sg:dat:n:ncol	nazwa instytucji	
 UG	UG	subst:sg:gen:m3	nazwa instytucji	
-UG	UG	subst:sg:gen:n2	nazwa instytucji	
+UG	UG	subst:sg:gen:n:ncol	nazwa instytucji	
 UG	UG	subst:sg:inst:m3	nazwa instytucji	
-UG	UG	subst:sg:inst:n2	nazwa instytucji	
+UG	UG	subst:sg:inst:n:ncol	nazwa instytucji	
 UG	UG	subst:sg:loc:m3	nazwa instytucji	
-UG	UG	subst:sg:loc:n2	nazwa instytucji	
+UG	UG	subst:sg:loc:n:ncol	nazwa instytucji	
 UG	UG	subst:sg:nom:m3	nazwa instytucji	
-UG	UG	subst:sg:nom:n2	nazwa instytucji	
+UG	UG	subst:sg:nom:n:ncol	nazwa instytucji	
 UG	UG	subst:sg:voc:m3	nazwa instytucji	
-UG	UG	subst:sg:voc:n2	nazwa instytucji	
+UG	UG	subst:sg:voc:n:ncol	nazwa instytucji	
 Ugandach	Uganda	subst:pl:loc:f	nazwa geograficzna	
 Ugandami	Uganda	subst:pl:inst:f	nazwa geograficzna	
 Uganda	Uganda	subst:sg:nom:f	nazwa geograficzna	
@@ -303,20 +303,20 @@ Ugandyjki	Ugandyjka	subst:pl:voc:f	nazwa pospolita
 Ugandyjki	Ugandyjka	subst:sg:gen:f	nazwa pospolita	
 Ugandyjkom	Ugandyjka	subst:pl:dat:f	nazwa pospolita	
 Ugandyjko	Ugandyjka	subst:sg:voc:f	nazwa pospolita	
-UHT	UHT	subst:pl:acc:n2	nazwa pospolita	
-UHT	UHT	subst:pl:dat:n2	nazwa pospolita	
-UHT	UHT	subst:pl:gen:n2	nazwa pospolita	
-UHT	UHT	subst:pl:inst:n2	nazwa pospolita	
-UHT	UHT	subst:pl:loc:n2	nazwa pospolita	
-UHT	UHT	subst:pl:nom:n2	nazwa pospolita	
-UHT	UHT	subst:pl:voc:n2	nazwa pospolita	
-UHT	UHT	subst:sg:acc:n2	nazwa pospolita	
-UHT	UHT	subst:sg:dat:n2	nazwa pospolita	
-UHT	UHT	subst:sg:gen:n2	nazwa pospolita	
-UHT	UHT	subst:sg:inst:n2	nazwa pospolita	
-UHT	UHT	subst:sg:loc:n2	nazwa pospolita	
-UHT	UHT	subst:sg:nom:n2	nazwa pospolita	
-UHT	UHT	subst:sg:voc:n2	nazwa pospolita	
+UHT	UHT	subst:pl:acc:n:ncol	nazwa pospolita	
+UHT	UHT	subst:pl:dat:n:ncol	nazwa pospolita	
+UHT	UHT	subst:pl:gen:n:ncol	nazwa pospolita	
+UHT	UHT	subst:pl:inst:n:ncol	nazwa pospolita	
+UHT	UHT	subst:pl:loc:n:ncol	nazwa pospolita	
+UHT	UHT	subst:pl:nom:n:ncol	nazwa pospolita	
+UHT	UHT	subst:pl:voc:n:ncol	nazwa pospolita	
+UHT	UHT	subst:sg:acc:n:ncol	nazwa pospolita	
+UHT	UHT	subst:sg:dat:n:ncol	nazwa pospolita	
+UHT	UHT	subst:sg:gen:n:ncol	nazwa pospolita	
+UHT	UHT	subst:sg:inst:n:ncol	nazwa pospolita	
+UHT	UHT	subst:sg:loc:n:ncol	nazwa pospolita	
+UHT	UHT	subst:sg:nom:n:ncol	nazwa pospolita	
+UHT	UHT	subst:sg:voc:n:ncol	nazwa pospolita	
 UJ-ocie	UJ	subst:sg:loc:m3	nazwa instytucji	
 UJ-ocie	UJ	subst:sg:voc:m3	nazwa instytucji	
 UJ-otach	UJ	subst:pl:loc:m3	nazwa instytucji	
@@ -461,33 +461,33 @@ Ukrainki	Ukrainka	subst:sg:gen:f	nazwa pospolita
 Ukrainkom	Ukrainka	subst:pl:dat:f	nazwa pospolita	
 Ukrainko	Ukrainka	subst:sg:voc:f	nazwa pospolita	
 UKSW	UKSW	subst:pl:acc:m3	nazwa instytucji	
-UKSW	UKSW	subst:pl:acc:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:pl:acc:n:ncol	nazwa instytucji	pot.
 UKSW	UKSW	subst:pl:dat:m3	nazwa instytucji	
-UKSW	UKSW	subst:pl:dat:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:pl:dat:n:ncol	nazwa instytucji	pot.
 UKSW	UKSW	subst:pl:gen:m3	nazwa instytucji	
-UKSW	UKSW	subst:pl:gen:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:pl:gen:n:ncol	nazwa instytucji	pot.
 UKSW	UKSW	subst:pl:inst:m3	nazwa instytucji	
-UKSW	UKSW	subst:pl:inst:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:pl:inst:n:ncol	nazwa instytucji	pot.
 UKSW	UKSW	subst:pl:loc:m3	nazwa instytucji	
-UKSW	UKSW	subst:pl:loc:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:pl:loc:n:ncol	nazwa instytucji	pot.
 UKSW	UKSW	subst:pl:nom:m3	nazwa instytucji	
-UKSW	UKSW	subst:pl:nom:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:pl:nom:n:ncol	nazwa instytucji	pot.
 UKSW	UKSW	subst:pl:voc:m3	nazwa instytucji	
-UKSW	UKSW	subst:pl:voc:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:pl:voc:n:ncol	nazwa instytucji	pot.
 UKSW	UKSW	subst:sg:acc:m3	nazwa instytucji	
-UKSW	UKSW	subst:sg:acc:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:sg:acc:n:ncol	nazwa instytucji	pot.
 UKSW	UKSW	subst:sg:dat:m3	nazwa instytucji	
-UKSW	UKSW	subst:sg:dat:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:sg:dat:n:ncol	nazwa instytucji	pot.
 UKSW	UKSW	subst:sg:gen:m3	nazwa instytucji	
-UKSW	UKSW	subst:sg:gen:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:sg:gen:n:ncol	nazwa instytucji	pot.
 UKSW	UKSW	subst:sg:inst:m3	nazwa instytucji	
-UKSW	UKSW	subst:sg:inst:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:sg:inst:n:ncol	nazwa instytucji	pot.
 UKSW	UKSW	subst:sg:loc:m3	nazwa instytucji	
-UKSW	UKSW	subst:sg:loc:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:sg:loc:n:ncol	nazwa instytucji	pot.
 UKSW	UKSW	subst:sg:nom:m3	nazwa instytucji	
-UKSW	UKSW	subst:sg:nom:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:sg:nom:n:ncol	nazwa instytucji	pot.
 UKSW	UKSW	subst:sg:voc:m3	nazwa instytucji	
-UKSW	UKSW	subst:sg:voc:n2	nazwa instytucji	pot.
+UKSW	UKSW	subst:sg:voc:n:ncol	nazwa instytucji	pot.
 UKW	UKW	subst:pl:acc:m3	nazwa instytucji	
 UKW	UKW	subst:pl:dat:m3	nazwa instytucji	
 UKW	UKW	subst:pl:gen:m3	nazwa instytucji	
@@ -711,33 +711,33 @@ Ulstery	Ulster	subst:pl:voc:m3	nazwa geograficzna
 Ulsterze	Ulster	subst:sg:loc:m3	nazwa geograficzna	
 Ulsterze	Ulster	subst:sg:voc:m3	nazwa geograficzna	
 UŁ	UŁ	subst:pl:acc:m3	nazwa instytucji	
-UŁ	UŁ	subst:pl:acc:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:pl:acc:n:ncol	nazwa instytucji	pot.
 UŁ	UŁ	subst:pl:dat:m3	nazwa instytucji	
-UŁ	UŁ	subst:pl:dat:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:pl:dat:n:ncol	nazwa instytucji	pot.
 UŁ	UŁ	subst:pl:gen:m3	nazwa instytucji	
-UŁ	UŁ	subst:pl:gen:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:pl:gen:n:ncol	nazwa instytucji	pot.
 UŁ	UŁ	subst:pl:inst:m3	nazwa instytucji	
-UŁ	UŁ	subst:pl:inst:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:pl:inst:n:ncol	nazwa instytucji	pot.
 UŁ	UŁ	subst:pl:loc:m3	nazwa instytucji	
-UŁ	UŁ	subst:pl:loc:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:pl:loc:n:ncol	nazwa instytucji	pot.
 UŁ	UŁ	subst:pl:nom:m3	nazwa instytucji	
-UŁ	UŁ	subst:pl:nom:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:pl:nom:n:ncol	nazwa instytucji	pot.
 UŁ	UŁ	subst:pl:voc:m3	nazwa instytucji	
-UŁ	UŁ	subst:pl:voc:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:pl:voc:n:ncol	nazwa instytucji	pot.
 UŁ	UŁ	subst:sg:acc:m3	nazwa instytucji	
-UŁ	UŁ	subst:sg:acc:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:sg:acc:n:ncol	nazwa instytucji	pot.
 UŁ	UŁ	subst:sg:dat:m3	nazwa instytucji	
-UŁ	UŁ	subst:sg:dat:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:sg:dat:n:ncol	nazwa instytucji	pot.
 UŁ	UŁ	subst:sg:gen:m3	nazwa instytucji	
-UŁ	UŁ	subst:sg:gen:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:sg:gen:n:ncol	nazwa instytucji	pot.
 UŁ	UŁ	subst:sg:inst:m3	nazwa instytucji	
-UŁ	UŁ	subst:sg:inst:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:sg:inst:n:ncol	nazwa instytucji	pot.
 UŁ	UŁ	subst:sg:loc:m3	nazwa instytucji	
-UŁ	UŁ	subst:sg:loc:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:sg:loc:n:ncol	nazwa instytucji	pot.
 UŁ	UŁ	subst:sg:nom:m3	nazwa instytucji	
-UŁ	UŁ	subst:sg:nom:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:sg:nom:n:ncol	nazwa instytucji	pot.
 UŁ	UŁ	subst:sg:voc:m3	nazwa instytucji	
-UŁ	UŁ	subst:sg:voc:n2	nazwa instytucji	pot.
+UŁ	UŁ	subst:sg:voc:n:ncol	nazwa instytucji	pot.
 Ułan	Ułan	subst:pl:acc:m3	człon nazwy geograficznej	
 Ułan	Ułan	subst:pl:dat:m3	człon nazwy geograficznej	
 Ułan	Ułan	subst:pl:gen:m3	człon nazwy geograficznej	
@@ -828,33 +828,33 @@ Umery	Umer	depr:pl:voc:m2	nazwisko
 Umerze	Umer	subst:sg:loc:m1	nazwisko	
 Umerze	Umer	subst:sg:voc:m1	nazwisko	
 UMK	UMK	subst:pl:acc:m3	nazwa instytucji	
-UMK	UMK	subst:pl:acc:n2	nazwa instytucji	pot.
+UMK	UMK	subst:pl:acc:n:ncol	nazwa instytucji	pot.
 UMK	UMK	subst:pl:dat:m3	nazwa instytucji	
-UMK	UMK	subst:pl:dat:n2	nazwa instytucji	pot.
+UMK	UMK	subst:pl:dat:n:ncol	nazwa instytucji	pot.
 UMK	UMK	subst:pl:gen:m3	nazwa instytucji	
-UMK	UMK	subst:pl:gen:n2	nazwa instytucji	pot.
+UMK	UMK	subst:pl:gen:n:ncol	nazwa instytucji	pot.
 UMK	UMK	subst:pl:inst:m3	nazwa instytucji	
-UMK	UMK	subst:pl:inst:n2	nazwa instytucji	pot.
+UMK	UMK	subst:pl:inst:n:ncol	nazwa instytucji	pot.
 UMK	UMK	subst:pl:loc:m3	nazwa instytucji	
-UMK	UMK	subst:pl:loc:n2	nazwa instytucji	pot.
+UMK	UMK	subst:pl:loc:n:ncol	nazwa instytucji	pot.
 UMK	UMK	subst:pl:nom:m3	nazwa instytucji	
-UMK	UMK	subst:pl:nom:n2	nazwa instytucji	pot.
+UMK	UMK	subst:pl:nom:n:ncol	nazwa instytucji	pot.
 UMK	UMK	subst:pl:voc:m3	nazwa instytucji	
-UMK	UMK	subst:pl:voc:n2	nazwa instytucji	pot.
+UMK	UMK	subst:pl:voc:n:ncol	nazwa instytucji	pot.
 UMK	UMK	subst:sg:acc:m3	nazwa instytucji	
-UMK	UMK	subst:sg:acc:n2	nazwa instytucji	pot.
+UMK	UMK	subst:sg:acc:n:ncol	nazwa instytucji	pot.
 UMK	UMK	subst:sg:dat:m3	nazwa instytucji	
-UMK	UMK	subst:sg:dat:n2	nazwa instytucji	pot.
+UMK	UMK	subst:sg:dat:n:ncol	nazwa instytucji	pot.
 UMK	UMK	subst:sg:gen:m3	nazwa instytucji	
-UMK	UMK	subst:sg:gen:n2	nazwa instytucji	pot.
+UMK	UMK	subst:sg:gen:n:ncol	nazwa instytucji	pot.
 UMK	UMK	subst:sg:inst:m3	nazwa instytucji	
-UMK	UMK	subst:sg:inst:n2	nazwa instytucji	pot.
+UMK	UMK	subst:sg:inst:n:ncol	nazwa instytucji	pot.
 UMK	UMK	subst:sg:loc:m3	nazwa instytucji	
-UMK	UMK	subst:sg:loc:n2	nazwa instytucji	pot.
+UMK	UMK	subst:sg:loc:n:ncol	nazwa instytucji	pot.
 UMK	UMK	subst:sg:nom:m3	nazwa instytucji	
-UMK	UMK	subst:sg:nom:n2	nazwa instytucji	pot.
+UMK	UMK	subst:sg:nom:n:ncol	nazwa instytucji	pot.
 UMK	UMK	subst:sg:voc:m3	nazwa instytucji	
-UMK	UMK	subst:sg:voc:n2	nazwa instytucji	pot.
+UMK	UMK	subst:sg:voc:n:ncol	nazwa instytucji	pot.
 UMTS-ach	UMTS	subst:pl:loc:m3	nazwa pospolita	
 UMTS-ami	UMTS	subst:pl:inst:m3	nazwa pospolita	
 UMTS-em	UMTS	subst:sg:inst:m3	nazwa pospolita	
@@ -870,19 +870,19 @@ UMTS-y	UMTS	subst:pl:acc:m3	nazwa pospolita
 UMTS-y	UMTS	subst:pl:nom:m3	nazwa pospolita	
 UMTS-y	UMTS	subst:pl:voc:m3	nazwa pospolita	
 UN	UN	subst:pl:acc:m3	nazwa organizacji	
-UN	UN	subst:pl:acc:p3	nazwa organizacji	
+UN	UN	subst:pl:acc:n:pt	nazwa organizacji	
 UN	UN	subst:pl:dat:m3	nazwa organizacji	
-UN	UN	subst:pl:dat:p3	nazwa organizacji	
+UN	UN	subst:pl:dat:n:pt	nazwa organizacji	
 UN	UN	subst:pl:gen:m3	nazwa organizacji	
-UN	UN	subst:pl:gen:p3	nazwa organizacji	
+UN	UN	subst:pl:gen:n:pt	nazwa organizacji	
 UN	UN	subst:pl:inst:m3	nazwa organizacji	
-UN	UN	subst:pl:inst:p3	nazwa organizacji	
+UN	UN	subst:pl:inst:n:pt	nazwa organizacji	
 UN	UN	subst:pl:loc:m3	nazwa organizacji	
-UN	UN	subst:pl:loc:p3	nazwa organizacji	
+UN	UN	subst:pl:loc:n:pt	nazwa organizacji	
 UN	UN	subst:pl:nom:m3	nazwa organizacji	
-UN	UN	subst:pl:nom:p3	nazwa organizacji	
+UN	UN	subst:pl:nom:n:pt	nazwa organizacji	
 UN	UN	subst:pl:voc:m3	nazwa organizacji	
-UN	UN	subst:pl:voc:p3	nazwa organizacji	
+UN	UN	subst:pl:voc:n:pt	nazwa organizacji	
 UN	UN	subst:sg:acc:m3	nazwa organizacji	
 UN	UN	subst:sg:dat:m3	nazwa organizacji	
 UN	UN	subst:sg:gen:m3	nazwa organizacji	
@@ -907,33 +907,33 @@ Undset	Undset	subst:sg:nom:m1	nazwisko
 Undsety	Undset	depr:pl:nom:m2	nazwisko	
 Undsety	Undset	depr:pl:voc:m2	nazwisko	
 UNESCO	UNESCO	subst:pl:acc:f	nazwa organizacji	
-UNESCO	UNESCO	subst:pl:acc:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:pl:acc:n:ncol	nazwa organizacji	
 UNESCO	UNESCO	subst:pl:dat:f	nazwa organizacji	
-UNESCO	UNESCO	subst:pl:dat:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:pl:dat:n:ncol	nazwa organizacji	
 UNESCO	UNESCO	subst:pl:gen:f	nazwa organizacji	
-UNESCO	UNESCO	subst:pl:gen:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:pl:gen:n:ncol	nazwa organizacji	
 UNESCO	UNESCO	subst:pl:inst:f	nazwa organizacji	
-UNESCO	UNESCO	subst:pl:inst:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:pl:inst:n:ncol	nazwa organizacji	
 UNESCO	UNESCO	subst:pl:loc:f	nazwa organizacji	
-UNESCO	UNESCO	subst:pl:loc:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:pl:loc:n:ncol	nazwa organizacji	
 UNESCO	UNESCO	subst:pl:nom:f	nazwa organizacji	
-UNESCO	UNESCO	subst:pl:nom:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:pl:nom:n:ncol	nazwa organizacji	
 UNESCO	UNESCO	subst:pl:voc:f	nazwa organizacji	
-UNESCO	UNESCO	subst:pl:voc:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:pl:voc:n:ncol	nazwa organizacji	
 UNESCO	UNESCO	subst:sg:acc:f	nazwa organizacji	
-UNESCO	UNESCO	subst:sg:acc:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:sg:acc:n:ncol	nazwa organizacji	
 UNESCO	UNESCO	subst:sg:dat:f	nazwa organizacji	
-UNESCO	UNESCO	subst:sg:dat:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:sg:dat:n:ncol	nazwa organizacji	
 UNESCO	UNESCO	subst:sg:gen:f	nazwa organizacji	
-UNESCO	UNESCO	subst:sg:gen:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:sg:gen:n:ncol	nazwa organizacji	
 UNESCO	UNESCO	subst:sg:inst:f	nazwa organizacji	
-UNESCO	UNESCO	subst:sg:inst:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:sg:inst:n:ncol	nazwa organizacji	
 UNESCO	UNESCO	subst:sg:loc:f	nazwa organizacji	
-UNESCO	UNESCO	subst:sg:loc:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:sg:loc:n:ncol	nazwa organizacji	
 UNESCO	UNESCO	subst:sg:nom:f	nazwa organizacji	
-UNESCO	UNESCO	subst:sg:nom:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:sg:nom:n:ncol	nazwa organizacji	
 UNESCO	UNESCO	subst:sg:voc:f	nazwa organizacji	
-UNESCO	UNESCO	subst:sg:voc:n2	nazwa organizacji	
+UNESCO	UNESCO	subst:sg:voc:n:ncol	nazwa organizacji	
 Unglerach	Ungler	subst:pl:loc:m1	nazwisko	
 Unglerami	Ungler	subst:pl:inst:m1	nazwisko	
 Unglera	Ungler	subst:sg:acc:m1	nazwisko	
@@ -1141,33 +1141,33 @@ UNIX-y	UNIX	subst:pl:acc:m2	nazwa oprogramowania	komp.
 UNIX-y	UNIX	subst:pl:nom:m2	nazwa oprogramowania	komp.
 UNIX-y	UNIX	subst:pl:voc:m2	nazwa oprogramowania	komp.
 UNO	UNO	subst:pl:acc:f	nazwa organizacji	
-UNO	UNO	subst:pl:acc:n2	nazwa organizacji	
+UNO	UNO	subst:pl:acc:n:ncol	nazwa organizacji	
 UNO	UNO	subst:pl:dat:f	nazwa organizacji	
-UNO	UNO	subst:pl:dat:n2	nazwa organizacji	
+UNO	UNO	subst:pl:dat:n:ncol	nazwa organizacji	
 UNO	UNO	subst:pl:gen:f	nazwa organizacji	
-UNO	UNO	subst:pl:gen:n2	nazwa organizacji	
+UNO	UNO	subst:pl:gen:n:ncol	nazwa organizacji	
 UNO	UNO	subst:pl:inst:f	nazwa organizacji	
-UNO	UNO	subst:pl:inst:n2	nazwa organizacji	
+UNO	UNO	subst:pl:inst:n:ncol	nazwa organizacji	
 UNO	UNO	subst:pl:loc:f	nazwa organizacji	
-UNO	UNO	subst:pl:loc:n2	nazwa organizacji	
+UNO	UNO	subst:pl:loc:n:ncol	nazwa organizacji	
 UNO	UNO	subst:pl:nom:f	nazwa organizacji	
-UNO	UNO	subst:pl:nom:n2	nazwa organizacji	
+UNO	UNO	subst:pl:nom:n:ncol	nazwa organizacji	
 UNO	UNO	subst:pl:voc:f	nazwa organizacji	
-UNO	UNO	subst:pl:voc:n2	nazwa organizacji	
+UNO	UNO	subst:pl:voc:n:ncol	nazwa organizacji	
 UNO	UNO	subst:sg:acc:f	nazwa organizacji	
-UNO	UNO	subst:sg:acc:n2	nazwa organizacji	
+UNO	UNO	subst:sg:acc:n:ncol	nazwa organizacji	
 UNO	UNO	subst:sg:dat:f	nazwa organizacji	
-UNO	UNO	subst:sg:dat:n2	nazwa organizacji	
+UNO	UNO	subst:sg:dat:n:ncol	nazwa organizacji	
 UNO	UNO	subst:sg:gen:f	nazwa organizacji	
-UNO	UNO	subst:sg:gen:n2	nazwa organizacji	
+UNO	UNO	subst:sg:gen:n:ncol	nazwa organizacji	
 UNO	UNO	subst:sg:inst:f	nazwa organizacji	
-UNO	UNO	subst:sg:inst:n2	nazwa organizacji	
+UNO	UNO	subst:sg:inst:n:ncol	nazwa organizacji	
 UNO	UNO	subst:sg:loc:f	nazwa organizacji	
-UNO	UNO	subst:sg:loc:n2	nazwa organizacji	
+UNO	UNO	subst:sg:loc:n:ncol	nazwa organizacji	
 UNO	UNO	subst:sg:nom:f	nazwa organizacji	
-UNO	UNO	subst:sg:nom:n2	nazwa organizacji	
+UNO	UNO	subst:sg:nom:n:ncol	nazwa organizacji	
 UNO	UNO	subst:sg:voc:f	nazwa organizacji	
-UNO	UNO	subst:sg:voc:n2	nazwa organizacji	
+UNO	UNO	subst:sg:voc:n:ncol	nazwa organizacji	
 UNRRA	UNRRA	subst:pl:acc:f	nazwa organizacji	
 UNRRA	UNRRA	subst:pl:dat:f	nazwa organizacji	
 UNRRA	UNRRA	subst:pl:gen:f	nazwa organizacji	
@@ -1207,33 +1207,33 @@ UNZ-y	UNZ	subst:pl:acc:m3	nazwa instytucji
 UNZ-y	UNZ	subst:pl:nom:m3	nazwa instytucji	
 UNZ-y	UNZ	subst:pl:voc:m3	nazwa instytucji	
 UO	UO	subst:pl:acc:m3	nazwa instytucji	
-UO	UO	subst:pl:acc:n2	nazwa instytucji	
+UO	UO	subst:pl:acc:n:ncol	nazwa instytucji	
 UO	UO	subst:pl:dat:m3	nazwa instytucji	
-UO	UO	subst:pl:dat:n2	nazwa instytucji	
+UO	UO	subst:pl:dat:n:ncol	nazwa instytucji	
 UO	UO	subst:pl:gen:m3	nazwa instytucji	
-UO	UO	subst:pl:gen:n2	nazwa instytucji	
+UO	UO	subst:pl:gen:n:ncol	nazwa instytucji	
 UO	UO	subst:pl:inst:m3	nazwa instytucji	
-UO	UO	subst:pl:inst:n2	nazwa instytucji	
+UO	UO	subst:pl:inst:n:ncol	nazwa instytucji	
 UO	UO	subst:pl:loc:m3	nazwa instytucji	
-UO	UO	subst:pl:loc:n2	nazwa instytucji	
+UO	UO	subst:pl:loc:n:ncol	nazwa instytucji	
 UO	UO	subst:pl:nom:m3	nazwa instytucji	
-UO	UO	subst:pl:nom:n2	nazwa instytucji	
+UO	UO	subst:pl:nom:n:ncol	nazwa instytucji	
 UO	UO	subst:pl:voc:m3	nazwa instytucji	
-UO	UO	subst:pl:voc:n2	nazwa instytucji	
+UO	UO	subst:pl:voc:n:ncol	nazwa instytucji	
 UO	UO	subst:sg:acc:m3	nazwa instytucji	
-UO	UO	subst:sg:acc:n2	nazwa instytucji	
+UO	UO	subst:sg:acc:n:ncol	nazwa instytucji	
 UO	UO	subst:sg:dat:m3	nazwa instytucji	
-UO	UO	subst:sg:dat:n2	nazwa instytucji	
+UO	UO	subst:sg:dat:n:ncol	nazwa instytucji	
 UO	UO	subst:sg:gen:m3	nazwa instytucji	
-UO	UO	subst:sg:gen:n2	nazwa instytucji	
+UO	UO	subst:sg:gen:n:ncol	nazwa instytucji	
 UO	UO	subst:sg:inst:m3	nazwa instytucji	
-UO	UO	subst:sg:inst:n2	nazwa instytucji	
+UO	UO	subst:sg:inst:n:ncol	nazwa instytucji	
 UO	UO	subst:sg:loc:m3	nazwa instytucji	
-UO	UO	subst:sg:loc:n2	nazwa instytucji	
+UO	UO	subst:sg:loc:n:ncol	nazwa instytucji	
 UO	UO	subst:sg:nom:m3	nazwa instytucji	
-UO	UO	subst:sg:nom:n2	nazwa instytucji	
+UO	UO	subst:sg:nom:n:ncol	nazwa instytucji	
 UO	UO	subst:sg:voc:m3	nazwa instytucji	
-UO	UO	subst:sg:voc:n2	nazwa instytucji	
+UO	UO	subst:sg:voc:n:ncol	nazwa instytucji	
 UOP-ach	UOP	subst:pl:loc:m3	nazwa instytucji	
 UOP-ami	UOP	subst:pl:inst:m3	nazwa instytucji	
 UOP-em	UOP	subst:sg:inst:m3	nazwa instytucji	
@@ -1261,61 +1261,61 @@ UOP-y	UOP	subst:pl:acc:m3	nazwa instytucji
 UOP-y	UOP	subst:pl:nom:m3	nazwa instytucji	
 UOP-y	UOP	subst:pl:voc:m3	nazwa instytucji	
 UP	UP	subst:pl:acc:f	nazwa organizacji	
-UP	UP	subst:pl:acc:n2	nazwa organizacji	
+UP	UP	subst:pl:acc:n:ncol	nazwa organizacji	
 UP	UP	subst:pl:dat:f	nazwa organizacji	
-UP	UP	subst:pl:dat:n2	nazwa organizacji	
+UP	UP	subst:pl:dat:n:ncol	nazwa organizacji	
 UP	UP	subst:pl:gen:f	nazwa organizacji	
-UP	UP	subst:pl:gen:n2	nazwa organizacji	
+UP	UP	subst:pl:gen:n:ncol	nazwa organizacji	
 UP	UP	subst:pl:inst:f	nazwa organizacji	
-UP	UP	subst:pl:inst:n2	nazwa organizacji	
+UP	UP	subst:pl:inst:n:ncol	nazwa organizacji	
 UP	UP	subst:pl:loc:f	nazwa organizacji	
-UP	UP	subst:pl:loc:n2	nazwa organizacji	
+UP	UP	subst:pl:loc:n:ncol	nazwa organizacji	
 UP	UP	subst:pl:nom:f	nazwa organizacji	
-UP	UP	subst:pl:nom:n2	nazwa organizacji	
+UP	UP	subst:pl:nom:n:ncol	nazwa organizacji	
 UP	UP	subst:pl:voc:f	nazwa organizacji	
-UP	UP	subst:pl:voc:n2	nazwa organizacji	
+UP	UP	subst:pl:voc:n:ncol	nazwa organizacji	
 UP	UP	subst:sg:acc:f	nazwa organizacji	
-UP	UP	subst:sg:acc:n2	nazwa organizacji	
+UP	UP	subst:sg:acc:n:ncol	nazwa organizacji	
 UP	UP	subst:sg:dat:f	nazwa organizacji	
-UP	UP	subst:sg:dat:n2	nazwa organizacji	
+UP	UP	subst:sg:dat:n:ncol	nazwa organizacji	
 UP	UP	subst:sg:gen:f	nazwa organizacji	
-UP	UP	subst:sg:gen:n2	nazwa organizacji	
+UP	UP	subst:sg:gen:n:ncol	nazwa organizacji	
 UP	UP	subst:sg:inst:f	nazwa organizacji	
-UP	UP	subst:sg:inst:n2	nazwa organizacji	
+UP	UP	subst:sg:inst:n:ncol	nazwa organizacji	
 UP	UP	subst:sg:loc:f	nazwa organizacji	
-UP	UP	subst:sg:loc:n2	nazwa organizacji	
+UP	UP	subst:sg:loc:n:ncol	nazwa organizacji	
 UP	UP	subst:sg:nom:f	nazwa organizacji	
-UP	UP	subst:sg:nom:n2	nazwa organizacji	
+UP	UP	subst:sg:nom:n:ncol	nazwa organizacji	
 UP	UP	subst:sg:voc:f	nazwa organizacji	
-UP	UP	subst:sg:voc:n2	nazwa organizacji	
+UP	UP	subst:sg:voc:n:ncol	nazwa organizacji	
 UPA	UPA	subst:pl:acc:f	nazwa organizacji	
-UPA	UPA	subst:pl:acc:n2	nazwa organizacji	
+UPA	UPA	subst:pl:acc:n:ncol	nazwa organizacji	
 UPA	UPA	subst:pl:dat:f	nazwa organizacji	
-UPA	UPA	subst:pl:dat:n2	nazwa organizacji	
+UPA	UPA	subst:pl:dat:n:ncol	nazwa organizacji	
 UPA	UPA	subst:pl:gen:f	nazwa organizacji	
-UPA	UPA	subst:pl:gen:n2	nazwa organizacji	
+UPA	UPA	subst:pl:gen:n:ncol	nazwa organizacji	
 UPA	UPA	subst:pl:inst:f	nazwa organizacji	
-UPA	UPA	subst:pl:inst:n2	nazwa organizacji	
+UPA	UPA	subst:pl:inst:n:ncol	nazwa organizacji	
 UPA	UPA	subst:pl:loc:f	nazwa organizacji	
-UPA	UPA	subst:pl:loc:n2	nazwa organizacji	
+UPA	UPA	subst:pl:loc:n:ncol	nazwa organizacji	
 UPA	UPA	subst:pl:nom:f	nazwa organizacji	
-UPA	UPA	subst:pl:nom:n2	nazwa organizacji	
+UPA	UPA	subst:pl:nom:n:ncol	nazwa organizacji	
 UPA	UPA	subst:pl:voc:f	nazwa organizacji	
-UPA	UPA	subst:pl:voc:n2	nazwa organizacji	
+UPA	UPA	subst:pl:voc:n:ncol	nazwa organizacji	
 UPA	UPA	subst:sg:acc:f	nazwa organizacji	
-UPA	UPA	subst:sg:acc:n2	nazwa organizacji	
+UPA	UPA	subst:sg:acc:n:ncol	nazwa organizacji	
 UPA	UPA	subst:sg:dat:f	nazwa organizacji	
-UPA	UPA	subst:sg:dat:n2	nazwa organizacji	
+UPA	UPA	subst:sg:dat:n:ncol	nazwa organizacji	
 UPA	UPA	subst:sg:gen:f	nazwa organizacji	
-UPA	UPA	subst:sg:gen:n2	nazwa organizacji	
+UPA	UPA	subst:sg:gen:n:ncol	nazwa organizacji	
 UPA	UPA	subst:sg:inst:f	nazwa organizacji	
-UPA	UPA	subst:sg:inst:n2	nazwa organizacji	
+UPA	UPA	subst:sg:inst:n:ncol	nazwa organizacji	
 UPA	UPA	subst:sg:loc:f	nazwa organizacji	
-UPA	UPA	subst:sg:loc:n2	nazwa organizacji	
+UPA	UPA	subst:sg:loc:n:ncol	nazwa organizacji	
 UPA	UPA	subst:sg:nom:f	nazwa organizacji	
-UPA	UPA	subst:sg:nom:n2	nazwa organizacji	
+UPA	UPA	subst:sg:nom:n:ncol	nazwa organizacji	
 UPA	UPA	subst:sg:voc:f	nazwa organizacji	
-UPA	UPA	subst:sg:voc:n2	nazwa organizacji	
+UPA	UPA	subst:sg:voc:n:ncol	nazwa organizacji	
 Updike’ach	Updike	subst:pl:loc:m1	nazwisko	
 Updike’ami	Updike	subst:pl:inst:m1	nazwisko	
 Updike’a	Updike	subst:sg:acc:m1	nazwisko	
@@ -1333,33 +1333,33 @@ Updikiem	Updike	subst:sg:inst:m1	nazwisko
 Updiki	Updike	depr:pl:nom:m2	nazwisko	
 Updiki	Updike	depr:pl:voc:m2	nazwisko	
 UPI	UPI	subst:pl:acc:m3	nazwa instytucji	
-UPI	UPI	subst:pl:acc:n2	nazwa instytucji	
+UPI	UPI	subst:pl:acc:n:ncol	nazwa instytucji	
 UPI	UPI	subst:pl:dat:m3	nazwa instytucji	
-UPI	UPI	subst:pl:dat:n2	nazwa instytucji	
+UPI	UPI	subst:pl:dat:n:ncol	nazwa instytucji	
 UPI	UPI	subst:pl:gen:m3	nazwa instytucji	
-UPI	UPI	subst:pl:gen:n2	nazwa instytucji	
+UPI	UPI	subst:pl:gen:n:ncol	nazwa instytucji	
 UPI	UPI	subst:pl:inst:m3	nazwa instytucji	
-UPI	UPI	subst:pl:inst:n2	nazwa instytucji	
+UPI	UPI	subst:pl:inst:n:ncol	nazwa instytucji	
 UPI	UPI	subst:pl:loc:m3	nazwa instytucji	
-UPI	UPI	subst:pl:loc:n2	nazwa instytucji	
+UPI	UPI	subst:pl:loc:n:ncol	nazwa instytucji	
 UPI	UPI	subst:pl:nom:m3	nazwa instytucji	
-UPI	UPI	subst:pl:nom:n2	nazwa instytucji	
+UPI	UPI	subst:pl:nom:n:ncol	nazwa instytucji	
 UPI	UPI	subst:pl:voc:m3	nazwa instytucji	
-UPI	UPI	subst:pl:voc:n2	nazwa instytucji	
+UPI	UPI	subst:pl:voc:n:ncol	nazwa instytucji	
 UPI	UPI	subst:sg:acc:m3	nazwa instytucji	
-UPI	UPI	subst:sg:acc:n2	nazwa instytucji	
+UPI	UPI	subst:sg:acc:n:ncol	nazwa instytucji	
 UPI	UPI	subst:sg:dat:m3	nazwa instytucji	
-UPI	UPI	subst:sg:dat:n2	nazwa instytucji	
+UPI	UPI	subst:sg:dat:n:ncol	nazwa instytucji	
 UPI	UPI	subst:sg:gen:m3	nazwa instytucji	
-UPI	UPI	subst:sg:gen:n2	nazwa instytucji	
+UPI	UPI	subst:sg:gen:n:ncol	nazwa instytucji	
 UPI	UPI	subst:sg:inst:m3	nazwa instytucji	
-UPI	UPI	subst:sg:inst:n2	nazwa instytucji	
+UPI	UPI	subst:sg:inst:n:ncol	nazwa instytucji	
 UPI	UPI	subst:sg:loc:m3	nazwa instytucji	
-UPI	UPI	subst:sg:loc:n2	nazwa instytucji	
+UPI	UPI	subst:sg:loc:n:ncol	nazwa instytucji	
 UPI	UPI	subst:sg:nom:m3	nazwa instytucji	
-UPI	UPI	subst:sg:nom:n2	nazwa instytucji	
+UPI	UPI	subst:sg:nom:n:ncol	nazwa instytucji	
 UPI	UPI	subst:sg:voc:m3	nazwa instytucji	
-UPI	UPI	subst:sg:voc:n2	nazwa instytucji	
+UPI	UPI	subst:sg:voc:n:ncol	nazwa instytucji	
 Uppsalach	Uppsala	subst:pl:loc:f	nazwa geograficzna	
 Uppsalami	Uppsala	subst:pl:inst:f	nazwa geograficzna	
 Uppsala	Uppsala	subst:sg:nom:f	nazwa geograficzna	
@@ -1418,33 +1418,33 @@ UPS-y	UPS	subst:pl:acc:m3	nazwa pospolita
 UPS-y	UPS	subst:pl:nom:m3	nazwa pospolita	
 UPS-y	UPS	subst:pl:voc:m3	nazwa pospolita	
 UPT	UPT	subst:pl:acc:m3	nazwa instytucji	
-UPT	UPT	subst:pl:acc:n2	nazwa instytucji	
+UPT	UPT	subst:pl:acc:n:ncol	nazwa instytucji	
 UPT	UPT	subst:pl:dat:m3	nazwa instytucji	
-UPT	UPT	subst:pl:dat:n2	nazwa instytucji	
+UPT	UPT	subst:pl:dat:n:ncol	nazwa instytucji	
 UPT	UPT	subst:pl:gen:m3	nazwa instytucji	
-UPT	UPT	subst:pl:gen:n2	nazwa instytucji	
+UPT	UPT	subst:pl:gen:n:ncol	nazwa instytucji	
 UPT	UPT	subst:pl:inst:m3	nazwa instytucji	
-UPT	UPT	subst:pl:inst:n2	nazwa instytucji	
+UPT	UPT	subst:pl:inst:n:ncol	nazwa instytucji	
 UPT	UPT	subst:pl:loc:m3	nazwa instytucji	
-UPT	UPT	subst:pl:loc:n2	nazwa instytucji	
+UPT	UPT	subst:pl:loc:n:ncol	nazwa instytucji	
 UPT	UPT	subst:pl:nom:m3	nazwa instytucji	
-UPT	UPT	subst:pl:nom:n2	nazwa instytucji	
+UPT	UPT	subst:pl:nom:n:ncol	nazwa instytucji	
 UPT	UPT	subst:pl:voc:m3	nazwa instytucji	
-UPT	UPT	subst:pl:voc:n2	nazwa instytucji	
+UPT	UPT	subst:pl:voc:n:ncol	nazwa instytucji	
 UPT	UPT	subst:sg:acc:m3	nazwa instytucji	
-UPT	UPT	subst:sg:acc:n2	nazwa instytucji	
+UPT	UPT	subst:sg:acc:n:ncol	nazwa instytucji	
 UPT	UPT	subst:sg:dat:m3	nazwa instytucji	
-UPT	UPT	subst:sg:dat:n2	nazwa instytucji	
+UPT	UPT	subst:sg:dat:n:ncol	nazwa instytucji	
 UPT	UPT	subst:sg:gen:m3	nazwa instytucji	
-UPT	UPT	subst:sg:gen:n2	nazwa instytucji	
+UPT	UPT	subst:sg:gen:n:ncol	nazwa instytucji	
 UPT	UPT	subst:sg:inst:m3	nazwa instytucji	
-UPT	UPT	subst:sg:inst:n2	nazwa instytucji	
+UPT	UPT	subst:sg:inst:n:ncol	nazwa instytucji	
 UPT	UPT	subst:sg:loc:m3	nazwa instytucji	
-UPT	UPT	subst:sg:loc:n2	nazwa instytucji	
+UPT	UPT	subst:sg:loc:n:ncol	nazwa instytucji	
 UPT	UPT	subst:sg:nom:m3	nazwa instytucji	
-UPT	UPT	subst:sg:nom:n2	nazwa instytucji	
+UPT	UPT	subst:sg:nom:n:ncol	nazwa instytucji	
 UPT	UPT	subst:sg:voc:m3	nazwa instytucji	
-UPT	UPT	subst:sg:voc:n2	nazwa instytucji	
+UPT	UPT	subst:sg:voc:n:ncol	nazwa instytucji	
 Uralach	Ural	subst:pl:loc:m3	nazwa geograficzna	
 Uralami	Ural	subst:pl:inst:m3	nazwa geograficzna	
 Uralem	Ural	subst:sg:inst:m3	nazwa geograficzna	
@@ -1937,76 +1937,76 @@ US-u	US	subst:sg:gen:m3	nazwa instytucji
 US-y	US	subst:pl:acc:m3	nazwa instytucji	
 US-y	US	subst:pl:nom:m3	nazwa instytucji	
 US-y	US	subst:pl:voc:m3	nazwa instytucji	
-USA	USA	subst:pl:acc:p2	nazwa geograficzna	
-USA	USA	subst:pl:acc:p3	nazwa geograficzna	
-USA	USA	subst:pl:dat:p2	nazwa geograficzna	
-USA	USA	subst:pl:dat:p3	nazwa geograficzna	
-USA	USA	subst:pl:gen:p2	nazwa geograficzna	
-USA	USA	subst:pl:gen:p3	nazwa geograficzna	
-USA	USA	subst:pl:inst:p2	nazwa geograficzna	
-USA	USA	subst:pl:inst:p3	nazwa geograficzna	
-USA	USA	subst:pl:loc:p2	nazwa geograficzna	
-USA	USA	subst:pl:loc:p3	nazwa geograficzna	
-USA	USA	subst:pl:nom:p2	nazwa geograficzna	
-USA	USA	subst:pl:nom:p3	nazwa geograficzna	
-USA	USA	subst:pl:voc:p2	nazwa geograficzna	
-USA	USA	subst:pl:voc:p3	nazwa geograficzna	
-USB	USB	subst:pl:acc:n2	nazwa pospolita	komp.
-USB	USB	subst:pl:dat:n2	nazwa pospolita	komp.
-USB	USB	subst:pl:gen:n2	nazwa pospolita	komp.
-USB	USB	subst:pl:inst:n2	nazwa pospolita	komp.
-USB	USB	subst:pl:loc:n2	nazwa pospolita	komp.
-USB	USB	subst:pl:nom:n2	nazwa pospolita	komp.
-USB	USB	subst:pl:voc:n2	nazwa pospolita	komp.
-USB	USB	subst:sg:acc:n2	nazwa pospolita	komp.
-USB	USB	subst:sg:dat:n2	nazwa pospolita	komp.
-USB	USB	subst:sg:gen:n2	nazwa pospolita	komp.
-USB	USB	subst:sg:inst:n2	nazwa pospolita	komp.
-USB	USB	subst:sg:loc:n2	nazwa pospolita	komp.
-USB	USB	subst:sg:nom:n2	nazwa pospolita	komp.
-USB	USB	subst:sg:voc:n2	nazwa pospolita	komp.
+USA	USA	subst:pl:acc:n:pt	nazwa geograficzna	
+USA	USA	subst:pl:acc:n:pt	nazwa geograficzna	
+USA	USA	subst:pl:dat:n:pt	nazwa geograficzna	
+USA	USA	subst:pl:dat:n:pt	nazwa geograficzna	
+USA	USA	subst:pl:gen:n:pt	nazwa geograficzna	
+USA	USA	subst:pl:gen:n:pt	nazwa geograficzna	
+USA	USA	subst:pl:inst:n:pt	nazwa geograficzna	
+USA	USA	subst:pl:inst:n:pt	nazwa geograficzna	
+USA	USA	subst:pl:loc:n:pt	nazwa geograficzna	
+USA	USA	subst:pl:loc:n:pt	nazwa geograficzna	
+USA	USA	subst:pl:nom:n:pt	nazwa geograficzna	
+USA	USA	subst:pl:nom:n:pt	nazwa geograficzna	
+USA	USA	subst:pl:voc:n:pt	nazwa geograficzna	
+USA	USA	subst:pl:voc:n:pt	nazwa geograficzna	
+USB	USB	subst:pl:acc:n:ncol	nazwa pospolita	komp.
+USB	USB	subst:pl:dat:n:ncol	nazwa pospolita	komp.
+USB	USB	subst:pl:gen:n:ncol	nazwa pospolita	komp.
+USB	USB	subst:pl:inst:n:ncol	nazwa pospolita	komp.
+USB	USB	subst:pl:loc:n:ncol	nazwa pospolita	komp.
+USB	USB	subst:pl:nom:n:ncol	nazwa pospolita	komp.
+USB	USB	subst:pl:voc:n:ncol	nazwa pospolita	komp.
+USB	USB	subst:sg:acc:n:ncol	nazwa pospolita	komp.
+USB	USB	subst:sg:dat:n:ncol	nazwa pospolita	komp.
+USB	USB	subst:sg:gen:n:ncol	nazwa pospolita	komp.
+USB	USB	subst:sg:inst:n:ncol	nazwa pospolita	komp.
+USB	USB	subst:sg:loc:n:ncol	nazwa pospolita	komp.
+USB	USB	subst:sg:nom:n:ncol	nazwa pospolita	komp.
+USB	USB	subst:sg:voc:n:ncol	nazwa pospolita	komp.
 USC	USC	subst:pl:acc:m3	nazwa instytucji	
-USC	USC	subst:pl:acc:n2	nazwa instytucji	pot.
+USC	USC	subst:pl:acc:n:ncol	nazwa instytucji	pot.
 USC	USC	subst:pl:dat:m3	nazwa instytucji	
-USC	USC	subst:pl:dat:n2	nazwa instytucji	pot.
+USC	USC	subst:pl:dat:n:ncol	nazwa instytucji	pot.
 USC	USC	subst:pl:gen:m3	nazwa instytucji	
-USC	USC	subst:pl:gen:n2	nazwa instytucji	pot.
+USC	USC	subst:pl:gen:n:ncol	nazwa instytucji	pot.
 USC	USC	subst:pl:inst:m3	nazwa instytucji	
-USC	USC	subst:pl:inst:n2	nazwa instytucji	pot.
+USC	USC	subst:pl:inst:n:ncol	nazwa instytucji	pot.
 USC	USC	subst:pl:loc:m3	nazwa instytucji	
-USC	USC	subst:pl:loc:n2	nazwa instytucji	pot.
+USC	USC	subst:pl:loc:n:ncol	nazwa instytucji	pot.
 USC	USC	subst:pl:nom:m3	nazwa instytucji	
-USC	USC	subst:pl:nom:n2	nazwa instytucji	pot.
+USC	USC	subst:pl:nom:n:ncol	nazwa instytucji	pot.
 USC	USC	subst:pl:voc:m3	nazwa instytucji	
-USC	USC	subst:pl:voc:n2	nazwa instytucji	pot.
+USC	USC	subst:pl:voc:n:ncol	nazwa instytucji	pot.
 USC	USC	subst:sg:acc:m3	nazwa instytucji	
-USC	USC	subst:sg:acc:n2	nazwa instytucji	pot.
+USC	USC	subst:sg:acc:n:ncol	nazwa instytucji	pot.
 USC	USC	subst:sg:dat:m3	nazwa instytucji	
-USC	USC	subst:sg:dat:n2	nazwa instytucji	pot.
+USC	USC	subst:sg:dat:n:ncol	nazwa instytucji	pot.
 USC	USC	subst:sg:gen:m3	nazwa instytucji	
-USC	USC	subst:sg:gen:n2	nazwa instytucji	pot.
+USC	USC	subst:sg:gen:n:ncol	nazwa instytucji	pot.
 USC	USC	subst:sg:inst:m3	nazwa instytucji	
-USC	USC	subst:sg:inst:n2	nazwa instytucji	pot.
+USC	USC	subst:sg:inst:n:ncol	nazwa instytucji	pot.
 USC	USC	subst:sg:loc:m3	nazwa instytucji	
-USC	USC	subst:sg:loc:n2	nazwa instytucji	pot.
+USC	USC	subst:sg:loc:n:ncol	nazwa instytucji	pot.
 USC	USC	subst:sg:nom:m3	nazwa instytucji	
-USC	USC	subst:sg:nom:n2	nazwa instytucji	pot.
+USC	USC	subst:sg:nom:n:ncol	nazwa instytucji	pot.
 USC	USC	subst:sg:voc:m3	nazwa instytucji	
-USC	USC	subst:sg:voc:n2	nazwa instytucji	pot.
-USG	USG	subst:pl:acc:n2	nazwa pospolita	
-USG	USG	subst:pl:dat:n2	nazwa pospolita	
-USG	USG	subst:pl:gen:n2	nazwa pospolita	
-USG	USG	subst:pl:inst:n2	nazwa pospolita	
-USG	USG	subst:pl:loc:n2	nazwa pospolita	
-USG	USG	subst:pl:nom:n2	nazwa pospolita	
-USG	USG	subst:pl:voc:n2	nazwa pospolita	
-USG	USG	subst:sg:acc:n2	nazwa pospolita	
-USG	USG	subst:sg:dat:n2	nazwa pospolita	
-USG	USG	subst:sg:gen:n2	nazwa pospolita	
-USG	USG	subst:sg:inst:n2	nazwa pospolita	
-USG	USG	subst:sg:loc:n2	nazwa pospolita	
-USG	USG	subst:sg:nom:n2	nazwa pospolita	
-USG	USG	subst:sg:voc:n2	nazwa pospolita	
+USC	USC	subst:sg:voc:n:ncol	nazwa instytucji	pot.
+USG	USG	subst:pl:acc:n:ncol	nazwa pospolita	
+USG	USG	subst:pl:dat:n:ncol	nazwa pospolita	
+USG	USG	subst:pl:gen:n:ncol	nazwa pospolita	
+USG	USG	subst:pl:inst:n:ncol	nazwa pospolita	
+USG	USG	subst:pl:loc:n:ncol	nazwa pospolita	
+USG	USG	subst:pl:nom:n:ncol	nazwa pospolita	
+USG	USG	subst:pl:voc:n:ncol	nazwa pospolita	
+USG	USG	subst:sg:acc:n:ncol	nazwa pospolita	
+USG	USG	subst:sg:dat:n:ncol	nazwa pospolita	
+USG	USG	subst:sg:gen:n:ncol	nazwa pospolita	
+USG	USG	subst:sg:inst:n:ncol	nazwa pospolita	
+USG	USG	subst:sg:loc:n:ncol	nazwa pospolita	
+USG	USG	subst:sg:nom:n:ncol	nazwa pospolita	
+USG	USG	subst:sg:voc:n:ncol	nazwa pospolita	
 U	ustawa	brev:pun		
 Ustce	Ustka	subst:sg:dat:f	nazwa geograficzna	
 Ustce	Ustka	subst:sg:loc:f	nazwa geograficzna	
@@ -2036,20 +2036,20 @@ Ustroniu	Ustroń	subst:sg:loc:m3	nazwa geograficzna
 Ustroniu	Ustroń	subst:sg:voc:m3	nazwa geograficzna	
 Ustroń	Ustroń	subst:sg:acc:m3	nazwa geograficzna	
 Ustroń	Ustroń	subst:sg:nom:m3	nazwa geograficzna	
-Ustrzykach	Ustrzyki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Ustrzykach	Ustrzyki	subst:pl:loc:p3	nazwa geograficzna	
-Ustrzykami	Ustrzyki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Ustrzykami	Ustrzyki	subst:pl:inst:p3	nazwa geograficzna	
-Ustrzyki	Ustrzyki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Ustrzyki	Ustrzyki	subst:pl:acc:p3	nazwa geograficzna	
-Ustrzyki	Ustrzyki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Ustrzyki	Ustrzyki	subst:pl:nom:p3	nazwa geograficzna	
-Ustrzyki	Ustrzyki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Ustrzyki	Ustrzyki	subst:pl:voc:p3	nazwa geograficzna	
-Ustrzykom	Ustrzyki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Ustrzykom	Ustrzyki	subst:pl:dat:p3	nazwa geograficzna	
-Ustrzyk	Ustrzyki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Ustrzyk	Ustrzyki	subst:pl:gen:p3	nazwa geograficzna	
+Ustrzykach	Ustrzyki	subst:pl:loc:n:pt	nazwa geograficzna	
+Ustrzykach	Ustrzyki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ustrzykami	Ustrzyki	subst:pl:inst:n:pt	nazwa geograficzna	
+Ustrzykami	Ustrzyki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ustrzyki	Ustrzyki	subst:pl:acc:n:pt	nazwa geograficzna	
+Ustrzyki	Ustrzyki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Ustrzyki	Ustrzyki	subst:pl:nom:n:pt	nazwa geograficzna	
+Ustrzyki	Ustrzyki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Ustrzyki	Ustrzyki	subst:pl:voc:n:pt	nazwa geograficzna	
+Ustrzyki	Ustrzyki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Ustrzykom	Ustrzyki	subst:pl:dat:n:pt	nazwa geograficzna	
+Ustrzykom	Ustrzyki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ustrzyk	Ustrzyki	subst:pl:gen:n:pt	nazwa geograficzna	
+Ustrzyk	Ustrzyki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 UŚ-ach	UŚ	subst:pl:loc:m3	nazwa instytucji	
 UŚ-ami	UŚ	subst:pl:inst:m3	nazwa instytucji	
 UŚ-em	UŚ	subst:sg:inst:m3	nazwa instytucji	
@@ -2093,20 +2093,20 @@ UŚl	UŚl	subst:sg:nom:m3	nazwa instytucji
 UŚl-u	UŚl	subst:sg:gen:m3	nazwa instytucji	
 UŚl-u	UŚl	subst:sg:loc:m3	nazwa instytucji	
 UŚl-u	UŚl	subst:sg:voc:m3	nazwa instytucji	
-Utah	Utah	subst:pl:acc:n2	nazwa geograficzna	
-Utah	Utah	subst:pl:dat:n2	nazwa geograficzna	
-Utah	Utah	subst:pl:gen:n2	nazwa geograficzna	
-Utah	Utah	subst:pl:inst:n2	nazwa geograficzna	
-Utah	Utah	subst:pl:loc:n2	nazwa geograficzna	
-Utah	Utah	subst:pl:nom:n2	nazwa geograficzna	
-Utah	Utah	subst:pl:voc:n2	nazwa geograficzna	
-Utah	Utah	subst:sg:acc:n2	nazwa geograficzna	
-Utah	Utah	subst:sg:dat:n2	nazwa geograficzna	
-Utah	Utah	subst:sg:gen:n2	nazwa geograficzna	
-Utah	Utah	subst:sg:inst:n2	nazwa geograficzna	
-Utah	Utah	subst:sg:loc:n2	nazwa geograficzna	
-Utah	Utah	subst:sg:nom:n2	nazwa geograficzna	
-Utah	Utah	subst:sg:voc:n2	nazwa geograficzna	
+Utah	Utah	subst:pl:acc:n:ncol	nazwa geograficzna	
+Utah	Utah	subst:pl:dat:n:ncol	nazwa geograficzna	
+Utah	Utah	subst:pl:gen:n:ncol	nazwa geograficzna	
+Utah	Utah	subst:pl:inst:n:ncol	nazwa geograficzna	
+Utah	Utah	subst:pl:loc:n:ncol	nazwa geograficzna	
+Utah	Utah	subst:pl:nom:n:ncol	nazwa geograficzna	
+Utah	Utah	subst:pl:voc:n:ncol	nazwa geograficzna	
+Utah	Utah	subst:sg:acc:n:ncol	nazwa geograficzna	
+Utah	Utah	subst:sg:dat:n:ncol	nazwa geograficzna	
+Utah	Utah	subst:sg:gen:n:ncol	nazwa geograficzna	
+Utah	Utah	subst:sg:inst:n:ncol	nazwa geograficzna	
+Utah	Utah	subst:sg:loc:n:ncol	nazwa geograficzna	
+Utah	Utah	subst:sg:nom:n:ncol	nazwa geograficzna	
+Utah	Utah	subst:sg:voc:n:ncol	nazwa geograficzna	
 UTP	UTP	subst:pl:acc:m3	nazwa instytucji	
 UTP	UTP	subst:pl:dat:m3	nazwa instytucji	
 UTP	UTP	subst:pl:gen:m3	nazwa instytucji	
@@ -2166,33 +2166,33 @@ UV	UV	subst:sg:loc:m3	nazwa pospolita
 UV	UV	subst:sg:nom:m3	nazwa pospolita	
 UV	UV	subst:sg:voc:m3	nazwa pospolita	
 UwB	UwB	subst:pl:acc:m3	nazwa instytucji	
-UwB	UwB	subst:pl:acc:n2	nazwa instytucji	pot.
+UwB	UwB	subst:pl:acc:n:ncol	nazwa instytucji	pot.
 UwB	UwB	subst:pl:dat:m3	nazwa instytucji	
-UwB	UwB	subst:pl:dat:n2	nazwa instytucji	pot.
+UwB	UwB	subst:pl:dat:n:ncol	nazwa instytucji	pot.
 UwB	UwB	subst:pl:gen:m3	nazwa instytucji	
-UwB	UwB	subst:pl:gen:n2	nazwa instytucji	pot.
+UwB	UwB	subst:pl:gen:n:ncol	nazwa instytucji	pot.
 UwB	UwB	subst:pl:inst:m3	nazwa instytucji	
-UwB	UwB	subst:pl:inst:n2	nazwa instytucji	pot.
+UwB	UwB	subst:pl:inst:n:ncol	nazwa instytucji	pot.
 UwB	UwB	subst:pl:loc:m3	nazwa instytucji	
-UwB	UwB	subst:pl:loc:n2	nazwa instytucji	pot.
+UwB	UwB	subst:pl:loc:n:ncol	nazwa instytucji	pot.
 UwB	UwB	subst:pl:nom:m3	nazwa instytucji	
-UwB	UwB	subst:pl:nom:n2	nazwa instytucji	pot.
+UwB	UwB	subst:pl:nom:n:ncol	nazwa instytucji	pot.
 UwB	UwB	subst:pl:voc:m3	nazwa instytucji	
-UwB	UwB	subst:pl:voc:n2	nazwa instytucji	pot.
+UwB	UwB	subst:pl:voc:n:ncol	nazwa instytucji	pot.
 UwB	UwB	subst:sg:acc:m3	nazwa instytucji	
-UwB	UwB	subst:sg:acc:n2	nazwa instytucji	pot.
+UwB	UwB	subst:sg:acc:n:ncol	nazwa instytucji	pot.
 UwB	UwB	subst:sg:dat:m3	nazwa instytucji	
-UwB	UwB	subst:sg:dat:n2	nazwa instytucji	pot.
+UwB	UwB	subst:sg:dat:n:ncol	nazwa instytucji	pot.
 UwB	UwB	subst:sg:gen:m3	nazwa instytucji	
-UwB	UwB	subst:sg:gen:n2	nazwa instytucji	pot.
+UwB	UwB	subst:sg:gen:n:ncol	nazwa instytucji	pot.
 UwB	UwB	subst:sg:inst:m3	nazwa instytucji	
-UwB	UwB	subst:sg:inst:n2	nazwa instytucji	pot.
+UwB	UwB	subst:sg:inst:n:ncol	nazwa instytucji	pot.
 UwB	UwB	subst:sg:loc:m3	nazwa instytucji	
-UwB	UwB	subst:sg:loc:n2	nazwa instytucji	pot.
+UwB	UwB	subst:sg:loc:n:ncol	nazwa instytucji	pot.
 UwB	UwB	subst:sg:nom:m3	nazwa instytucji	
-UwB	UwB	subst:sg:nom:n2	nazwa instytucji	pot.
+UwB	UwB	subst:sg:nom:n:ncol	nazwa instytucji	pot.
 UwB	UwB	subst:sg:voc:m3	nazwa instytucji	
-UwB	UwB	subst:sg:voc:n2	nazwa instytucji	pot.
+UwB	UwB	subst:sg:voc:n:ncol	nazwa instytucji	pot.
 UWM-ach	UWM	subst:pl:loc:m3	nazwa instytucji	
 UWM-ami	UWM	subst:pl:inst:m3	nazwa instytucji	
 UWM-em	UWM	subst:sg:inst:m3	nazwa instytucji	
@@ -2222,61 +2222,61 @@ UWr-y	UWr	subst:pl:voc:m3	nazwa instytucji
 UWr-ze	UWr	subst:sg:loc:m3	nazwa instytucji	
 UWr-ze	UWr	subst:sg:voc:m3	nazwa instytucji	
 UW	UW:s1	subst:pl:acc:f	nazwa organizacji	
-UW	UW:s1	subst:pl:acc:n2	nazwa organizacji	
+UW	UW:s1	subst:pl:acc:n:ncol	nazwa organizacji	
 UW	UW:s1	subst:pl:dat:f	nazwa organizacji	
-UW	UW:s1	subst:pl:dat:n2	nazwa organizacji	
+UW	UW:s1	subst:pl:dat:n:ncol	nazwa organizacji	
 UW	UW:s1	subst:pl:gen:f	nazwa organizacji	
-UW	UW:s1	subst:pl:gen:n2	nazwa organizacji	
+UW	UW:s1	subst:pl:gen:n:ncol	nazwa organizacji	
 UW	UW:s1	subst:pl:inst:f	nazwa organizacji	
-UW	UW:s1	subst:pl:inst:n2	nazwa organizacji	
+UW	UW:s1	subst:pl:inst:n:ncol	nazwa organizacji	
 UW	UW:s1	subst:pl:loc:f	nazwa organizacji	
-UW	UW:s1	subst:pl:loc:n2	nazwa organizacji	
+UW	UW:s1	subst:pl:loc:n:ncol	nazwa organizacji	
 UW	UW:s1	subst:pl:nom:f	nazwa organizacji	
-UW	UW:s1	subst:pl:nom:n2	nazwa organizacji	
+UW	UW:s1	subst:pl:nom:n:ncol	nazwa organizacji	
 UW	UW:s1	subst:pl:voc:f	nazwa organizacji	
-UW	UW:s1	subst:pl:voc:n2	nazwa organizacji	
+UW	UW:s1	subst:pl:voc:n:ncol	nazwa organizacji	
 UW	UW:s1	subst:sg:acc:f	nazwa organizacji	
-UW	UW:s1	subst:sg:acc:n2	nazwa organizacji	
+UW	UW:s1	subst:sg:acc:n:ncol	nazwa organizacji	
 UW	UW:s1	subst:sg:dat:f	nazwa organizacji	
-UW	UW:s1	subst:sg:dat:n2	nazwa organizacji	
+UW	UW:s1	subst:sg:dat:n:ncol	nazwa organizacji	
 UW	UW:s1	subst:sg:gen:f	nazwa organizacji	
-UW	UW:s1	subst:sg:gen:n2	nazwa organizacji	
+UW	UW:s1	subst:sg:gen:n:ncol	nazwa organizacji	
 UW	UW:s1	subst:sg:inst:f	nazwa organizacji	
-UW	UW:s1	subst:sg:inst:n2	nazwa organizacji	
+UW	UW:s1	subst:sg:inst:n:ncol	nazwa organizacji	
 UW	UW:s1	subst:sg:loc:f	nazwa organizacji	
-UW	UW:s1	subst:sg:loc:n2	nazwa organizacji	
+UW	UW:s1	subst:sg:loc:n:ncol	nazwa organizacji	
 UW	UW:s1	subst:sg:nom:f	nazwa organizacji	
-UW	UW:s1	subst:sg:nom:n2	nazwa organizacji	
+UW	UW:s1	subst:sg:nom:n:ncol	nazwa organizacji	
 UW	UW:s1	subst:sg:voc:f	nazwa organizacji	
-UW	UW:s1	subst:sg:voc:n2	nazwa organizacji	
+UW	UW:s1	subst:sg:voc:n:ncol	nazwa organizacji	
 UW	UW:s2	subst:pl:acc:m3	nazwa instytucji	
-UW	UW:s2	subst:pl:acc:n2	nazwa instytucji	
+UW	UW:s2	subst:pl:acc:n:ncol	nazwa instytucji	
 UW	UW:s2	subst:pl:dat:m3	nazwa instytucji	
-UW	UW:s2	subst:pl:dat:n2	nazwa instytucji	
+UW	UW:s2	subst:pl:dat:n:ncol	nazwa instytucji	
 UW	UW:s2	subst:pl:gen:m3	nazwa instytucji	
-UW	UW:s2	subst:pl:gen:n2	nazwa instytucji	
+UW	UW:s2	subst:pl:gen:n:ncol	nazwa instytucji	
 UW	UW:s2	subst:pl:inst:m3	nazwa instytucji	
-UW	UW:s2	subst:pl:inst:n2	nazwa instytucji	
+UW	UW:s2	subst:pl:inst:n:ncol	nazwa instytucji	
 UW	UW:s2	subst:pl:loc:m3	nazwa instytucji	
-UW	UW:s2	subst:pl:loc:n2	nazwa instytucji	
+UW	UW:s2	subst:pl:loc:n:ncol	nazwa instytucji	
 UW	UW:s2	subst:pl:nom:m3	nazwa instytucji	
-UW	UW:s2	subst:pl:nom:n2	nazwa instytucji	
+UW	UW:s2	subst:pl:nom:n:ncol	nazwa instytucji	
 UW	UW:s2	subst:pl:voc:m3	nazwa instytucji	
-UW	UW:s2	subst:pl:voc:n2	nazwa instytucji	
+UW	UW:s2	subst:pl:voc:n:ncol	nazwa instytucji	
 UW	UW:s2	subst:sg:acc:m3	nazwa instytucji	
-UW	UW:s2	subst:sg:acc:n2	nazwa instytucji	
+UW	UW:s2	subst:sg:acc:n:ncol	nazwa instytucji	
 UW	UW:s2	subst:sg:dat:m3	nazwa instytucji	
-UW	UW:s2	subst:sg:dat:n2	nazwa instytucji	
+UW	UW:s2	subst:sg:dat:n:ncol	nazwa instytucji	
 UW	UW:s2	subst:sg:gen:m3	nazwa instytucji	
-UW	UW:s2	subst:sg:gen:n2	nazwa instytucji	
+UW	UW:s2	subst:sg:gen:n:ncol	nazwa instytucji	
 UW	UW:s2	subst:sg:inst:m3	nazwa instytucji	
-UW	UW:s2	subst:sg:inst:n2	nazwa instytucji	
+UW	UW:s2	subst:sg:inst:n:ncol	nazwa instytucji	
 UW	UW:s2	subst:sg:loc:m3	nazwa instytucji	
-UW	UW:s2	subst:sg:loc:n2	nazwa instytucji	
+UW	UW:s2	subst:sg:loc:n:ncol	nazwa instytucji	
 UW	UW:s2	subst:sg:nom:m3	nazwa instytucji	
-UW	UW:s2	subst:sg:nom:n2	nazwa instytucji	
+UW	UW:s2	subst:sg:nom:n:ncol	nazwa instytucji	
 UW	UW:s2	subst:sg:voc:m3	nazwa instytucji	
-UW	UW:s2	subst:sg:voc:n2	nazwa instytucji	
+UW	UW:s2	subst:sg:voc:n:ncol	nazwa instytucji	
 UZ-ecie	UZ	subst:sg:loc:m3	nazwa instytucji	
 UZ-ecie	UZ	subst:sg:voc:m3	nazwa instytucji	
 UZ-etach	UZ	subst:pl:loc:m3	nazwa instytucji	

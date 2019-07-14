@@ -13,20 +13,20 @@ DAB-u	DAB	subst:sg:gen:m3	nazwa pospolita
 DAB-y	DAB	subst:pl:acc:m3	nazwa pospolita	
 DAB-y	DAB	subst:pl:nom:m3	nazwa pospolita	
 DAB-y	DAB	subst:pl:voc:m3	nazwa pospolita	
-Dachau	Dachau	subst:pl:acc:n2	nazwa geograficzna	
-Dachau	Dachau	subst:pl:dat:n2	nazwa geograficzna	
-Dachau	Dachau	subst:pl:gen:n2	nazwa geograficzna	
-Dachau	Dachau	subst:pl:inst:n2	nazwa geograficzna	
-Dachau	Dachau	subst:pl:loc:n2	nazwa geograficzna	
-Dachau	Dachau	subst:pl:nom:n2	nazwa geograficzna	
-Dachau	Dachau	subst:pl:voc:n2	nazwa geograficzna	
-Dachau	Dachau	subst:sg:acc:n2	nazwa geograficzna	
-Dachau	Dachau	subst:sg:dat:n2	nazwa geograficzna	
-Dachau	Dachau	subst:sg:gen:n2	nazwa geograficzna	
-Dachau	Dachau	subst:sg:inst:n2	nazwa geograficzna	
-Dachau	Dachau	subst:sg:loc:n2	nazwa geograficzna	
-Dachau	Dachau	subst:sg:nom:n2	nazwa geograficzna	
-Dachau	Dachau	subst:sg:voc:n2	nazwa geograficzna	
+Dachau	Dachau	subst:pl:acc:n:ncol	nazwa geograficzna	
+Dachau	Dachau	subst:pl:dat:n:ncol	nazwa geograficzna	
+Dachau	Dachau	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dachau	Dachau	subst:pl:inst:n:ncol	nazwa geograficzna	
+Dachau	Dachau	subst:pl:loc:n:ncol	nazwa geograficzna	
+Dachau	Dachau	subst:pl:nom:n:ncol	nazwa geograficzna	
+Dachau	Dachau	subst:pl:voc:n:ncol	nazwa geograficzna	
+Dachau	Dachau	subst:sg:acc:n:ncol	nazwa geograficzna	
+Dachau	Dachau	subst:sg:dat:n:ncol	nazwa geograficzna	
+Dachau	Dachau	subst:sg:gen:n:ncol	nazwa geograficzna	
+Dachau	Dachau	subst:sg:inst:n:ncol	nazwa geograficzna	
+Dachau	Dachau	subst:sg:loc:n:ncol	nazwa geograficzna	
+Dachau	Dachau	subst:sg:nom:n:ncol	nazwa geograficzna	
+Dachau	Dachau	subst:sg:voc:n:ncol	nazwa geograficzna	
 Dacjach	Dacja	subst:pl:loc:f	nazwa geograficzna	hist.
 Dacja	Dacja	subst:sg:nom:f	nazwa geograficzna	hist.
 Dacjami	Dacja	subst:pl:inst:f	nazwa geograficzna	hist.
@@ -365,20 +365,20 @@ Dalemirze	Dalemir	subst:sg:loc:m1	imię
 Dalemirze	Dalemir	subst:sg:voc:m1	imię	
 Dalemirzy	Dalemir	subst:pl:nom:m1	imię	
 Dalemirzy	Dalemir	subst:pl:voc:m1	imię	
-Daleszycach	Daleszyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Daleszycach	Daleszyce	subst:pl:loc:p3	nazwa geograficzna	
-Daleszycami	Daleszyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Daleszycami	Daleszyce	subst:pl:inst:p3	nazwa geograficzna	
-Daleszyc	Daleszyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Daleszyc	Daleszyce	subst:pl:gen:p3	nazwa geograficzna	
-Daleszyce	Daleszyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Daleszyce	Daleszyce	subst:pl:acc:p3	nazwa geograficzna	
-Daleszyce	Daleszyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Daleszyce	Daleszyce	subst:pl:nom:p3	nazwa geograficzna	
-Daleszyce	Daleszyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Daleszyce	Daleszyce	subst:pl:voc:p3	nazwa geograficzna	
-Daleszycom	Daleszyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Daleszycom	Daleszyce	subst:pl:dat:p3	nazwa geograficzna	
+Daleszycach	Daleszyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Daleszycach	Daleszyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Daleszycami	Daleszyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Daleszycami	Daleszyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Daleszyc	Daleszyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Daleszyc	Daleszyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Daleszyce	Daleszyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Daleszyce	Daleszyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Daleszyce	Daleszyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Daleszyce	Daleszyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Daleszyce	Daleszyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Daleszyce	Daleszyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Daleszycom	Daleszyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Daleszycom	Daleszyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Dale	Dali	depr:pl:nom:m2	nazwisko	
 Dale	Dali	depr:pl:voc:m2	nazwisko	
 Dalego	Dali	subst:sg:acc:m1	nazwisko	
@@ -428,20 +428,20 @@ Dalikowy	Dalików	subst:pl:nom:m3	nazwa geograficzna
 Dalikowy	Dalików	subst:pl:voc:m3	nazwa geograficzna	
 Dalików	Dalików	subst:sg:acc:m3	nazwa geograficzna	
 Dalików	Dalików	subst:sg:nom:m3	nazwa geograficzna	
-Dallas	Dallas	subst:pl:acc:n2	nazwa geograficzna	
-Dallas	Dallas	subst:pl:dat:n2	nazwa geograficzna	
-Dallas	Dallas	subst:pl:gen:n2	nazwa geograficzna	
-Dallas	Dallas	subst:pl:inst:n2	nazwa geograficzna	
-Dallas	Dallas	subst:pl:loc:n2	nazwa geograficzna	
-Dallas	Dallas	subst:pl:nom:n2	nazwa geograficzna	
-Dallas	Dallas	subst:pl:voc:n2	nazwa geograficzna	
-Dallas	Dallas	subst:sg:acc:n2	nazwa geograficzna	
-Dallas	Dallas	subst:sg:dat:n2	nazwa geograficzna	
-Dallas	Dallas	subst:sg:gen:n2	nazwa geograficzna	
-Dallas	Dallas	subst:sg:inst:n2	nazwa geograficzna	
-Dallas	Dallas	subst:sg:loc:n2	nazwa geograficzna	
-Dallas	Dallas	subst:sg:nom:n2	nazwa geograficzna	
-Dallas	Dallas	subst:sg:voc:n2	nazwa geograficzna	
+Dallas	Dallas	subst:pl:acc:n:ncol	nazwa geograficzna	
+Dallas	Dallas	subst:pl:dat:n:ncol	nazwa geograficzna	
+Dallas	Dallas	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dallas	Dallas	subst:pl:inst:n:ncol	nazwa geograficzna	
+Dallas	Dallas	subst:pl:loc:n:ncol	nazwa geograficzna	
+Dallas	Dallas	subst:pl:nom:n:ncol	nazwa geograficzna	
+Dallas	Dallas	subst:pl:voc:n:ncol	nazwa geograficzna	
+Dallas	Dallas	subst:sg:acc:n:ncol	nazwa geograficzna	
+Dallas	Dallas	subst:sg:dat:n:ncol	nazwa geograficzna	
+Dallas	Dallas	subst:sg:gen:n:ncol	nazwa geograficzna	
+Dallas	Dallas	subst:sg:inst:n:ncol	nazwa geograficzna	
+Dallas	Dallas	subst:sg:loc:n:ncol	nazwa geograficzna	
+Dallas	Dallas	subst:sg:nom:n:ncol	nazwa geograficzna	
+Dallas	Dallas	subst:sg:voc:n:ncol	nazwa geograficzna	
 Dalmacjach	Dalmacja	subst:pl:loc:f	nazwa geograficzna	
 Dalmacja	Dalmacja	subst:sg:nom:f	nazwa geograficzna	
 Dalmacjami	Dalmacja	subst:pl:inst:f	nazwa geograficzna	
@@ -898,20 +898,20 @@ Danuty	Danuta	subst:pl:acc:f	imię
 Danuty	Danuta	subst:pl:nom:f	imię	
 Danuty	Danuta	subst:pl:voc:f	imię	
 Danuty	Danuta	subst:sg:gen:f	imię	
-Dardanelach	Dardanele	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Dardanelach	Dardanele	subst:pl:loc:p3	nazwa geograficzna	
-Dardanelami	Dardanele	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Dardanelami	Dardanele	subst:pl:inst:p3	nazwa geograficzna	
-Dardanele	Dardanele	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Dardanele	Dardanele	subst:pl:acc:p3	nazwa geograficzna	
-Dardanele	Dardanele	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Dardanele	Dardanele	subst:pl:nom:p3	nazwa geograficzna	
-Dardanele	Dardanele	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Dardanele	Dardanele	subst:pl:voc:p3	nazwa geograficzna	
-Dardaneli	Dardanele	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Dardaneli	Dardanele	subst:pl:gen:p3	nazwa geograficzna	
-Dardanelom	Dardanele	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Dardanelom	Dardanele	subst:pl:dat:p3	nazwa geograficzna	
+Dardanelach	Dardanele	subst:pl:loc:n:pt	nazwa geograficzna	
+Dardanelach	Dardanele	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Dardanelami	Dardanele	subst:pl:inst:n:pt	nazwa geograficzna	
+Dardanelami	Dardanele	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Dardanele	Dardanele	subst:pl:acc:n:pt	nazwa geograficzna	
+Dardanele	Dardanele	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Dardanele	Dardanele	subst:pl:nom:n:pt	nazwa geograficzna	
+Dardanele	Dardanele	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Dardanele	Dardanele	subst:pl:voc:n:pt	nazwa geograficzna	
+Dardanele	Dardanele	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Dardaneli	Dardanele	subst:pl:gen:n:pt	nazwa geograficzna	
+Dardaneli	Dardanele	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Dardanelom	Dardanele	subst:pl:dat:n:pt	nazwa geograficzna	
+Dardanelom	Dardanele	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Dariach	Daria	subst:pl:loc:f	imię	
 Daria	Daria	subst:sg:nom:f	imię	
 Dariami	Daria	subst:pl:inst:f	imię	
@@ -945,22 +945,22 @@ Dariuszów	Dariusz	subst:pl:acc:m1	imię
 Dariuszów	Dariusz	subst:pl:gen:m1	imię	
 Dariuszu	Dariusz	subst:sg:loc:m1	imię	
 Dariuszu	Dariusz	subst:sg:voc:m1	imię	
-Darłowach	Darłowo	subst:pl:loc:n2	nazwa geograficzna	
-Darłowa	Darłowo	subst:pl:acc:n2	nazwa geograficzna	
-Darłowa	Darłowo	subst:pl:nom:n2	nazwa geograficzna	
-Darłowa	Darłowo	subst:pl:voc:n2	nazwa geograficzna	
-Darłowa	Darłowo	subst:sg:gen:n2	nazwa geograficzna	
-Darłowami	Darłowo	subst:pl:inst:n2	nazwa geograficzna	
-Darłow	Darłowo	subst:pl:gen:n2	nazwa geograficzna	
-Darłowem	Darłowo	subst:sg:inst:n2	nazwa geograficzna	
-Darłowie	Darłowo	subst:sg:loc:n2	nazwa geograficzna	
-Darłowo	Darłowo	subst:sg:acc:n2	nazwa geograficzna	
-Darłowo	Darłowo	subst:sg:nom:n2	nazwa geograficzna	
-Darłowo	Darłowo	subst:sg:voc:n2	nazwa geograficzna	
-Darłowom	Darłowo	subst:pl:dat:n2	nazwa geograficzna	
-Darłowów	Darłowo	subst:pl:gen:n2	nazwa geograficzna	
-Darłowu	Darłowo	subst:sg:dat:n2	nazwa geograficzna	
-Darłów	Darłowo	subst:pl:gen:n2	nazwa geograficzna	
+Darłowach	Darłowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Darłowa	Darłowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Darłowa	Darłowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Darłowa	Darłowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Darłowa	Darłowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Darłowami	Darłowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Darłow	Darłowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Darłowem	Darłowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Darłowie	Darłowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Darłowo	Darłowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Darłowo	Darłowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Darłowo	Darłowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Darłowom	Darłowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Darłowów	Darłowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Darłowu	Darłowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Darłów	Darłowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Darwinach	Darwin	subst:pl:loc:m1	nazwisko	
 Darwina	Darwin	subst:sg:acc:m1	nazwisko	
 Darwina	Darwin	subst:sg:gen:m1	nazwisko	
@@ -1100,20 +1100,20 @@ Davisów	Davis	subst:pl:acc:m1	imię|nazwisko
 Davisów	Davis	subst:pl:gen:m1	imię|nazwisko	
 Davisy	Davis	depr:pl:nom:m2	imię|nazwisko	
 Davisy	Davis	depr:pl:voc:m2	imię|nazwisko	
-Davos	Davos	subst:pl:acc:n2	nazwa geograficzna	
-Davos	Davos	subst:pl:dat:n2	nazwa geograficzna	
-Davos	Davos	subst:pl:gen:n2	nazwa geograficzna	
-Davos	Davos	subst:pl:inst:n2	nazwa geograficzna	
-Davos	Davos	subst:pl:loc:n2	nazwa geograficzna	
-Davos	Davos	subst:pl:nom:n2	nazwa geograficzna	
-Davos	Davos	subst:pl:voc:n2	nazwa geograficzna	
-Davos	Davos	subst:sg:acc:n2	nazwa geograficzna	
-Davos	Davos	subst:sg:dat:n2	nazwa geograficzna	
-Davos	Davos	subst:sg:gen:n2	nazwa geograficzna	
-Davos	Davos	subst:sg:inst:n2	nazwa geograficzna	
-Davos	Davos	subst:sg:loc:n2	nazwa geograficzna	
-Davos	Davos	subst:sg:nom:n2	nazwa geograficzna	
-Davos	Davos	subst:sg:voc:n2	nazwa geograficzna	
+Davos	Davos	subst:pl:acc:n:ncol	nazwa geograficzna	
+Davos	Davos	subst:pl:dat:n:ncol	nazwa geograficzna	
+Davos	Davos	subst:pl:gen:n:ncol	nazwa geograficzna	
+Davos	Davos	subst:pl:inst:n:ncol	nazwa geograficzna	
+Davos	Davos	subst:pl:loc:n:ncol	nazwa geograficzna	
+Davos	Davos	subst:pl:nom:n:ncol	nazwa geograficzna	
+Davos	Davos	subst:pl:voc:n:ncol	nazwa geograficzna	
+Davos	Davos	subst:sg:acc:n:ncol	nazwa geograficzna	
+Davos	Davos	subst:sg:dat:n:ncol	nazwa geograficzna	
+Davos	Davos	subst:sg:gen:n:ncol	nazwa geograficzna	
+Davos	Davos	subst:sg:inst:n:ncol	nazwa geograficzna	
+Davos	Davos	subst:sg:loc:n:ncol	nazwa geograficzna	
+Davos	Davos	subst:sg:nom:n:ncol	nazwa geograficzna	
+Davos	Davos	subst:sg:voc:n:ncol	nazwa geograficzna	
 Dawidach	Dawid	subst:pl:loc:m1	imię	
 Dawida	Dawid	subst:sg:acc:m1	imię	
 Dawida	Dawid	subst:sg:gen:m1	imię	
@@ -1176,20 +1176,20 @@ Dawidziaków	Dawidziak	subst:pl:acc:m1	nazwisko
 Dawidziaków	Dawidziak	subst:pl:gen:m1	nazwisko	
 Dawidziaku	Dawidziak	subst:sg:loc:m1	nazwisko	
 Dawidziaku	Dawidziak	subst:sg:voc:m1	nazwisko	
-Dąbiach	Dąbie	subst:pl:loc:n2	nazwa geograficzna	
-Dąbia	Dąbie	subst:pl:acc:n2	nazwa geograficzna	
-Dąbia	Dąbie	subst:pl:nom:n2	nazwa geograficzna	
-Dąbia	Dąbie	subst:pl:voc:n2	nazwa geograficzna	
-Dąbia	Dąbie	subst:sg:gen:n2	nazwa geograficzna	
-Dąbiami	Dąbie	subst:pl:inst:n2	nazwa geograficzna	
-Dąbi	Dąbie	subst:pl:gen:n2	nazwa geograficzna	
-Dąbie	Dąbie	subst:sg:acc:n2	nazwa geograficzna	
-Dąbie	Dąbie	subst:sg:nom:n2	nazwa geograficzna	
-Dąbie	Dąbie	subst:sg:voc:n2	nazwa geograficzna	
-Dąbiem	Dąbie	subst:sg:inst:n2	nazwa geograficzna	
-Dąbiom	Dąbie	subst:pl:dat:n2	nazwa geograficzna	
-Dąbiu	Dąbie	subst:sg:dat:n2	nazwa geograficzna	
-Dąbiu	Dąbie	subst:sg:loc:n2	nazwa geograficzna	
+Dąbiach	Dąbie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Dąbia	Dąbie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Dąbia	Dąbie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Dąbia	Dąbie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Dąbia	Dąbie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Dąbiami	Dąbie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Dąbi	Dąbie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dąbie	Dąbie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Dąbie	Dąbie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Dąbie	Dąbie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Dąbiem	Dąbie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Dąbiom	Dąbie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Dąbiu	Dąbie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Dąbiu	Dąbie	subst:sg:loc:n:ncol	nazwa geograficzna	
 Dąbkowska	Dąbkowska	subst:sg:nom:f	nazwisko	
 Dąbkowska	Dąbkowska	subst:sg:voc:f	nazwisko	
 Dąbkowską	Dąbkowska	subst:sg:acc:f	nazwisko	
@@ -1220,20 +1220,20 @@ Dąbkowskim	Dąbkowski	subst:pl:dat:m1	nazwisko
 Dąbkowskim	Dąbkowski	subst:sg:inst:m1	nazwisko	
 Dąbkowskim	Dąbkowski	subst:sg:loc:m1	nazwisko	
 Dąbkowskimi	Dąbkowski	subst:pl:inst:m1	nazwisko	
-Dąbrowicach	Dąbrowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Dąbrowicach	Dąbrowice	subst:pl:loc:p3	nazwa geograficzna	
-Dąbrowicami	Dąbrowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Dąbrowicami	Dąbrowice	subst:pl:inst:p3	nazwa geograficzna	
-Dąbrowic	Dąbrowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Dąbrowic	Dąbrowice	subst:pl:gen:p3	nazwa geograficzna	
-Dąbrowice	Dąbrowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Dąbrowice	Dąbrowice	subst:pl:acc:p3	nazwa geograficzna	
-Dąbrowice	Dąbrowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Dąbrowice	Dąbrowice	subst:pl:nom:p3	nazwa geograficzna	
-Dąbrowice	Dąbrowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Dąbrowice	Dąbrowice	subst:pl:voc:p3	nazwa geograficzna	
-Dąbrowicom	Dąbrowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Dąbrowicom	Dąbrowice	subst:pl:dat:p3	nazwa geograficzna	
+Dąbrowicach	Dąbrowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Dąbrowicach	Dąbrowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Dąbrowicami	Dąbrowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Dąbrowicami	Dąbrowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Dąbrowic	Dąbrowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Dąbrowic	Dąbrowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Dąbrowice	Dąbrowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Dąbrowice	Dąbrowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Dąbrowice	Dąbrowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Dąbrowice	Dąbrowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Dąbrowice	Dąbrowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Dąbrowice	Dąbrowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Dąbrowicom	Dąbrowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Dąbrowicom	Dąbrowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Dąbrowna	Dąbrowna	subst:sg:nom:f	nazwisko	
 Dąbrowna	Dąbrowna	subst:sg:voc:f	nazwisko	
 Dąbrowną	Dąbrowna	subst:sg:acc:f	nazwisko	
@@ -1309,89 +1309,89 @@ Dąbrówki	Dąbrówka	subst:sg:gen:f	imię|nazwa geograficzna
 Dąbrówko	Dąbrówka	subst:sg:voc:f	imię|nazwa geograficzna	
 Dąbrówkom	Dąbrówka	subst:pl:dat:f	imię|nazwa geograficzna	
 DBG	DBG	subst:pl:acc:m3	nazwa firmy	
-DBG	DBG	subst:pl:acc:n2	nazwa firmy	
+DBG	DBG	subst:pl:acc:n:ncol	nazwa firmy	
 DBG	DBG	subst:pl:dat:m3	nazwa firmy	
-DBG	DBG	subst:pl:dat:n2	nazwa firmy	
+DBG	DBG	subst:pl:dat:n:ncol	nazwa firmy	
 DBG	DBG	subst:pl:gen:m3	nazwa firmy	
-DBG	DBG	subst:pl:gen:n2	nazwa firmy	
+DBG	DBG	subst:pl:gen:n:ncol	nazwa firmy	
 DBG	DBG	subst:pl:inst:m3	nazwa firmy	
-DBG	DBG	subst:pl:inst:n2	nazwa firmy	
+DBG	DBG	subst:pl:inst:n:ncol	nazwa firmy	
 DBG	DBG	subst:pl:loc:m3	nazwa firmy	
-DBG	DBG	subst:pl:loc:n2	nazwa firmy	
+DBG	DBG	subst:pl:loc:n:ncol	nazwa firmy	
 DBG	DBG	subst:pl:nom:m3	nazwa firmy	
-DBG	DBG	subst:pl:nom:n2	nazwa firmy	
+DBG	DBG	subst:pl:nom:n:ncol	nazwa firmy	
 DBG	DBG	subst:pl:voc:m3	nazwa firmy	
-DBG	DBG	subst:pl:voc:n2	nazwa firmy	
+DBG	DBG	subst:pl:voc:n:ncol	nazwa firmy	
 DBG	DBG	subst:sg:acc:m3	nazwa firmy	
-DBG	DBG	subst:sg:acc:n2	nazwa firmy	
+DBG	DBG	subst:sg:acc:n:ncol	nazwa firmy	
 DBG	DBG	subst:sg:dat:m3	nazwa firmy	
-DBG	DBG	subst:sg:dat:n2	nazwa firmy	
+DBG	DBG	subst:sg:dat:n:ncol	nazwa firmy	
 DBG	DBG	subst:sg:gen:m3	nazwa firmy	
-DBG	DBG	subst:sg:gen:n2	nazwa firmy	
+DBG	DBG	subst:sg:gen:n:ncol	nazwa firmy	
 DBG	DBG	subst:sg:inst:m3	nazwa firmy	
-DBG	DBG	subst:sg:inst:n2	nazwa firmy	
+DBG	DBG	subst:sg:inst:n:ncol	nazwa firmy	
 DBG	DBG	subst:sg:loc:m3	nazwa firmy	
-DBG	DBG	subst:sg:loc:n2	nazwa firmy	
+DBG	DBG	subst:sg:loc:n:ncol	nazwa firmy	
 DBG	DBG	subst:sg:nom:m3	nazwa firmy	
-DBG	DBG	subst:sg:nom:n2	nazwa firmy	
+DBG	DBG	subst:sg:nom:n:ncol	nazwa firmy	
 DBG	DBG	subst:sg:voc:m3	nazwa firmy	
-DBG	DBG	subst:sg:voc:n2	nazwa firmy	
+DBG	DBG	subst:sg:voc:n:ncol	nazwa firmy	
 DBP	DBP	subst:pl:acc:m3	nazwa firmy	
-DBP	DBP	subst:pl:acc:n2	nazwa firmy	
+DBP	DBP	subst:pl:acc:n:ncol	nazwa firmy	
 DBP	DBP	subst:pl:dat:m3	nazwa firmy	
-DBP	DBP	subst:pl:dat:n2	nazwa firmy	
+DBP	DBP	subst:pl:dat:n:ncol	nazwa firmy	
 DBP	DBP	subst:pl:gen:m3	nazwa firmy	
-DBP	DBP	subst:pl:gen:n2	nazwa firmy	
+DBP	DBP	subst:pl:gen:n:ncol	nazwa firmy	
 DBP	DBP	subst:pl:inst:m3	nazwa firmy	
-DBP	DBP	subst:pl:inst:n2	nazwa firmy	
+DBP	DBP	subst:pl:inst:n:ncol	nazwa firmy	
 DBP	DBP	subst:pl:loc:m3	nazwa firmy	
-DBP	DBP	subst:pl:loc:n2	nazwa firmy	
+DBP	DBP	subst:pl:loc:n:ncol	nazwa firmy	
 DBP	DBP	subst:pl:nom:m3	nazwa firmy	
-DBP	DBP	subst:pl:nom:n2	nazwa firmy	
+DBP	DBP	subst:pl:nom:n:ncol	nazwa firmy	
 DBP	DBP	subst:pl:voc:m3	nazwa firmy	
-DBP	DBP	subst:pl:voc:n2	nazwa firmy	
+DBP	DBP	subst:pl:voc:n:ncol	nazwa firmy	
 DBP	DBP	subst:sg:acc:m3	nazwa firmy	
-DBP	DBP	subst:sg:acc:n2	nazwa firmy	
+DBP	DBP	subst:sg:acc:n:ncol	nazwa firmy	
 DBP	DBP	subst:sg:dat:m3	nazwa firmy	
-DBP	DBP	subst:sg:dat:n2	nazwa firmy	
+DBP	DBP	subst:sg:dat:n:ncol	nazwa firmy	
 DBP	DBP	subst:sg:gen:m3	nazwa firmy	
-DBP	DBP	subst:sg:gen:n2	nazwa firmy	
+DBP	DBP	subst:sg:gen:n:ncol	nazwa firmy	
 DBP	DBP	subst:sg:inst:m3	nazwa firmy	
-DBP	DBP	subst:sg:inst:n2	nazwa firmy	
+DBP	DBP	subst:sg:inst:n:ncol	nazwa firmy	
 DBP	DBP	subst:sg:loc:m3	nazwa firmy	
-DBP	DBP	subst:sg:loc:n2	nazwa firmy	
+DBP	DBP	subst:sg:loc:n:ncol	nazwa firmy	
 DBP	DBP	subst:sg:nom:m3	nazwa firmy	
-DBP	DBP	subst:sg:nom:n2	nazwa firmy	
+DBP	DBP	subst:sg:nom:n:ncol	nazwa firmy	
 DBP	DBP	subst:sg:voc:m3	nazwa firmy	
-DBP	DBP	subst:sg:voc:n2	nazwa firmy	
+DBP	DBP	subst:sg:voc:n:ncol	nazwa firmy	
 DDT	DDT	subst:pl:acc:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:pl:acc:n2	nazwa pospolita	
+DDT	DDT	subst:pl:acc:n:ncol	nazwa pospolita	
 DDT	DDT	subst:pl:dat:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:pl:dat:n2	nazwa pospolita	
+DDT	DDT	subst:pl:dat:n:ncol	nazwa pospolita	
 DDT	DDT	subst:pl:gen:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:pl:gen:n2	nazwa pospolita	
+DDT	DDT	subst:pl:gen:n:ncol	nazwa pospolita	
 DDT	DDT	subst:pl:inst:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:pl:inst:n2	nazwa pospolita	
+DDT	DDT	subst:pl:inst:n:ncol	nazwa pospolita	
 DDT	DDT	subst:pl:loc:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:pl:loc:n2	nazwa pospolita	
+DDT	DDT	subst:pl:loc:n:ncol	nazwa pospolita	
 DDT	DDT	subst:pl:nom:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:pl:nom:n2	nazwa pospolita	
+DDT	DDT	subst:pl:nom:n:ncol	nazwa pospolita	
 DDT	DDT	subst:pl:voc:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:pl:voc:n2	nazwa pospolita	
+DDT	DDT	subst:pl:voc:n:ncol	nazwa pospolita	
 DDT	DDT	subst:sg:acc:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:sg:acc:n2	nazwa pospolita	
+DDT	DDT	subst:sg:acc:n:ncol	nazwa pospolita	
 DDT	DDT	subst:sg:dat:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:sg:dat:n2	nazwa pospolita	
+DDT	DDT	subst:sg:dat:n:ncol	nazwa pospolita	
 DDT	DDT	subst:sg:gen:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:sg:gen:n2	nazwa pospolita	
+DDT	DDT	subst:sg:gen:n:ncol	nazwa pospolita	
 DDT	DDT	subst:sg:inst:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:sg:inst:n2	nazwa pospolita	
+DDT	DDT	subst:sg:inst:n:ncol	nazwa pospolita	
 DDT	DDT	subst:sg:loc:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:sg:loc:n2	nazwa pospolita	
+DDT	DDT	subst:sg:loc:n:ncol	nazwa pospolita	
 DDT	DDT	subst:sg:nom:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:sg:nom:n2	nazwa pospolita	
+DDT	DDT	subst:sg:nom:n:ncol	nazwa pospolita	
 DDT	DDT	subst:sg:voc:m3	nazwa pospolita	rzad.
-DDT	DDT	subst:sg:voc:n2	nazwa pospolita	
+DDT	DDT	subst:sg:voc:n:ncol	nazwa pospolita	
 Deanach	Dean	subst:pl:loc:m1	imię|nazwisko	
 Deana	Dean	subst:sg:acc:m1	imię|nazwisko	
 Deana	Dean	subst:sg:gen:m1	imię|nazwisko	
@@ -1677,20 +1677,20 @@ Delawary	Delawar	depr:pl:nom:m2	nazwa pospolita
 Delawary	Delawar	depr:pl:voc:m2	nazwa pospolita	
 Delawarze	Delawar	subst:sg:loc:m1	nazwa pospolita	
 Delawarze	Delawar	subst:sg:voc:m1	nazwa pospolita	
-Delaware	Delaware:s1	subst:pl:acc:n2	nazwa geograficzna	
-Delaware	Delaware:s1	subst:pl:dat:n2	nazwa geograficzna	
-Delaware	Delaware:s1	subst:pl:gen:n2	nazwa geograficzna	
-Delaware	Delaware:s1	subst:pl:inst:n2	nazwa geograficzna	
-Delaware	Delaware:s1	subst:pl:loc:n2	nazwa geograficzna	
-Delaware	Delaware:s1	subst:pl:nom:n2	nazwa geograficzna	
-Delaware	Delaware:s1	subst:pl:voc:n2	nazwa geograficzna	
-Delaware	Delaware:s1	subst:sg:acc:n2	nazwa geograficzna	
-Delaware	Delaware:s1	subst:sg:dat:n2	nazwa geograficzna	
-Delaware	Delaware:s1	subst:sg:gen:n2	nazwa geograficzna	
-Delaware	Delaware:s1	subst:sg:inst:n2	nazwa geograficzna	
-Delaware	Delaware:s1	subst:sg:loc:n2	nazwa geograficzna	
-Delaware	Delaware:s1	subst:sg:nom:n2	nazwa geograficzna	
-Delaware	Delaware:s1	subst:sg:voc:n2	nazwa geograficzna	
+Delaware	Delaware:s1	subst:pl:acc:n:ncol	nazwa geograficzna	
+Delaware	Delaware:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+Delaware	Delaware:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+Delaware	Delaware:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+Delaware	Delaware:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+Delaware	Delaware:s1	subst:pl:nom:n:ncol	nazwa geograficzna	
+Delaware	Delaware:s1	subst:pl:voc:n:ncol	nazwa geograficzna	
+Delaware	Delaware:s1	subst:sg:acc:n:ncol	nazwa geograficzna	
+Delaware	Delaware:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+Delaware	Delaware:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+Delaware	Delaware:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+Delaware	Delaware:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+Delaware	Delaware:s1	subst:sg:nom:n:ncol	nazwa geograficzna	
+Delaware	Delaware:s1	subst:sg:voc:n:ncol	nazwa geograficzna	
 Delaware	Delaware:s2	subst:pl:acc:f	nazwa geograficzna	
 Delaware	Delaware:s2	subst:pl:dat:f	nazwa geograficzna	
 Delaware	Delaware:s2	subst:pl:gen:f	nazwa geograficzna	
@@ -1751,20 +1751,20 @@ Delfiny	Delfina	subst:pl:acc:f	imię
 Delfiny	Delfina	subst:pl:nom:f	imię	
 Delfiny	Delfina	subst:pl:voc:f	imię	
 Delfiny	Delfina	subst:sg:gen:f	imię	
-Delhi	Delhi	subst:pl:acc:n2	nazwa geograficzna	
-Delhi	Delhi	subst:pl:dat:n2	nazwa geograficzna	
-Delhi	Delhi	subst:pl:gen:n2	nazwa geograficzna	
-Delhi	Delhi	subst:pl:inst:n2	nazwa geograficzna	
-Delhi	Delhi	subst:pl:loc:n2	nazwa geograficzna	
-Delhi	Delhi	subst:pl:nom:n2	nazwa geograficzna	
-Delhi	Delhi	subst:pl:voc:n2	nazwa geograficzna	
-Delhi	Delhi	subst:sg:acc:n2	nazwa geograficzna	
-Delhi	Delhi	subst:sg:dat:n2	nazwa geograficzna	
-Delhi	Delhi	subst:sg:gen:n2	nazwa geograficzna	
-Delhi	Delhi	subst:sg:inst:n2	nazwa geograficzna	
-Delhi	Delhi	subst:sg:loc:n2	nazwa geograficzna	
-Delhi	Delhi	subst:sg:nom:n2	nazwa geograficzna	
-Delhi	Delhi	subst:sg:voc:n2	nazwa geograficzna	
+Delhi	Delhi	subst:pl:acc:n:ncol	nazwa geograficzna	
+Delhi	Delhi	subst:pl:dat:n:ncol	nazwa geograficzna	
+Delhi	Delhi	subst:pl:gen:n:ncol	nazwa geograficzna	
+Delhi	Delhi	subst:pl:inst:n:ncol	nazwa geograficzna	
+Delhi	Delhi	subst:pl:loc:n:ncol	nazwa geograficzna	
+Delhi	Delhi	subst:pl:nom:n:ncol	nazwa geograficzna	
+Delhi	Delhi	subst:pl:voc:n:ncol	nazwa geograficzna	
+Delhi	Delhi	subst:sg:acc:n:ncol	nazwa geograficzna	
+Delhi	Delhi	subst:sg:dat:n:ncol	nazwa geograficzna	
+Delhi	Delhi	subst:sg:gen:n:ncol	nazwa geograficzna	
+Delhi	Delhi	subst:sg:inst:n:ncol	nazwa geograficzna	
+Delhi	Delhi	subst:sg:loc:n:ncol	nazwa geograficzna	
+Delhi	Delhi	subst:sg:nom:n:ncol	nazwa geograficzna	
+Delhi	Delhi	subst:sg:voc:n:ncol	nazwa geograficzna	
 Delibes’ach	Delibes	subst:pl:loc:m1	nazwisko	
 Delibes’a	Delibes	subst:sg:acc:m1	nazwisko	
 Delibes’a	Delibes	subst:sg:gen:m1	nazwisko	
@@ -2031,33 +2031,33 @@ Deneuve	Deneuve:s2	subst:sg:voc:f	nazwisko
 Denverach	Denver	subst:pl:loc:m3	nazwa geograficzna	
 Denverami	Denver	subst:pl:inst:m3	nazwa geograficzna	
 Denver	Denver	subst:pl:acc:m3	nazwa geograficzna	
-Denver	Denver	subst:pl:acc:n2	nazwa geograficzna	
+Denver	Denver	subst:pl:acc:n:ncol	nazwa geograficzna	
 Denver	Denver	subst:pl:dat:m3	nazwa geograficzna	
-Denver	Denver	subst:pl:dat:n2	nazwa geograficzna	
+Denver	Denver	subst:pl:dat:n:ncol	nazwa geograficzna	
 Denver	Denver	subst:pl:gen:m3	nazwa geograficzna	
-Denver	Denver	subst:pl:gen:n2	nazwa geograficzna	
+Denver	Denver	subst:pl:gen:n:ncol	nazwa geograficzna	
 Denver	Denver	subst:pl:inst:m3	nazwa geograficzna	
-Denver	Denver	subst:pl:inst:n2	nazwa geograficzna	
+Denver	Denver	subst:pl:inst:n:ncol	nazwa geograficzna	
 Denver	Denver	subst:pl:loc:m3	nazwa geograficzna	
-Denver	Denver	subst:pl:loc:n2	nazwa geograficzna	
+Denver	Denver	subst:pl:loc:n:ncol	nazwa geograficzna	
 Denver	Denver	subst:pl:nom:m3	nazwa geograficzna	
-Denver	Denver	subst:pl:nom:n2	nazwa geograficzna	
+Denver	Denver	subst:pl:nom:n:ncol	nazwa geograficzna	
 Denver	Denver	subst:pl:voc:m3	nazwa geograficzna	
-Denver	Denver	subst:pl:voc:n2	nazwa geograficzna	
+Denver	Denver	subst:pl:voc:n:ncol	nazwa geograficzna	
 Denver	Denver	subst:sg:acc:m3	nazwa geograficzna	
-Denver	Denver	subst:sg:acc:n2	nazwa geograficzna	
+Denver	Denver	subst:sg:acc:n:ncol	nazwa geograficzna	
 Denver	Denver	subst:sg:dat:m3	nazwa geograficzna	
-Denver	Denver	subst:sg:dat:n2	nazwa geograficzna	
+Denver	Denver	subst:sg:dat:n:ncol	nazwa geograficzna	
 Denver	Denver	subst:sg:gen:m3	nazwa geograficzna	
-Denver	Denver	subst:sg:gen:n2	nazwa geograficzna	
+Denver	Denver	subst:sg:gen:n:ncol	nazwa geograficzna	
 Denver	Denver	subst:sg:inst:m3	nazwa geograficzna	
-Denver	Denver	subst:sg:inst:n2	nazwa geograficzna	
+Denver	Denver	subst:sg:inst:n:ncol	nazwa geograficzna	
 Denver	Denver	subst:sg:loc:m3	nazwa geograficzna	
-Denver	Denver	subst:sg:loc:n2	nazwa geograficzna	
+Denver	Denver	subst:sg:loc:n:ncol	nazwa geograficzna	
 Denver	Denver	subst:sg:nom:m3	nazwa geograficzna	
-Denver	Denver	subst:sg:nom:n2	nazwa geograficzna	
+Denver	Denver	subst:sg:nom:n:ncol	nazwa geograficzna	
 Denver	Denver	subst:sg:voc:m3	nazwa geograficzna	
-Denver	Denver	subst:sg:voc:n2	nazwa geograficzna	
+Denver	Denver	subst:sg:voc:n:ncol	nazwa geograficzna	
 Denverem	Denver	subst:sg:inst:m3	nazwa geograficzna	
 Denverom	Denver	subst:pl:dat:m3	nazwa geograficzna	
 Denverowi	Denver	subst:sg:dat:m3	nazwa geograficzna	
@@ -2174,20 +2174,20 @@ Descartes’ów	Descartes	subst:pl:acc:m1	nazwisko
 Descartes’ów	Descartes	subst:pl:gen:m1	nazwisko	
 Descartes’y	Descartes	depr:pl:nom:m2	nazwisko	
 Descartes’y	Descartes	depr:pl:voc:m2	nazwisko	
-Detroit	Detroit	subst:pl:acc:n2	nazwa geograficzna	
-Detroit	Detroit	subst:pl:dat:n2	nazwa geograficzna	
-Detroit	Detroit	subst:pl:gen:n2	nazwa geograficzna	
-Detroit	Detroit	subst:pl:inst:n2	nazwa geograficzna	
-Detroit	Detroit	subst:pl:loc:n2	nazwa geograficzna	
-Detroit	Detroit	subst:pl:nom:n2	nazwa geograficzna	
-Detroit	Detroit	subst:pl:voc:n2	nazwa geograficzna	
-Detroit	Detroit	subst:sg:acc:n2	nazwa geograficzna	
-Detroit	Detroit	subst:sg:dat:n2	nazwa geograficzna	
-Detroit	Detroit	subst:sg:gen:n2	nazwa geograficzna	
-Detroit	Detroit	subst:sg:inst:n2	nazwa geograficzna	
-Detroit	Detroit	subst:sg:loc:n2	nazwa geograficzna	
-Detroit	Detroit	subst:sg:nom:n2	nazwa geograficzna	
-Detroit	Detroit	subst:sg:voc:n2	nazwa geograficzna	
+Detroit	Detroit	subst:pl:acc:n:ncol	nazwa geograficzna	
+Detroit	Detroit	subst:pl:dat:n:ncol	nazwa geograficzna	
+Detroit	Detroit	subst:pl:gen:n:ncol	nazwa geograficzna	
+Detroit	Detroit	subst:pl:inst:n:ncol	nazwa geograficzna	
+Detroit	Detroit	subst:pl:loc:n:ncol	nazwa geograficzna	
+Detroit	Detroit	subst:pl:nom:n:ncol	nazwa geograficzna	
+Detroit	Detroit	subst:pl:voc:n:ncol	nazwa geograficzna	
+Detroit	Detroit	subst:sg:acc:n:ncol	nazwa geograficzna	
+Detroit	Detroit	subst:sg:dat:n:ncol	nazwa geograficzna	
+Detroit	Detroit	subst:sg:gen:n:ncol	nazwa geograficzna	
+Detroit	Detroit	subst:sg:inst:n:ncol	nazwa geograficzna	
+Detroit	Detroit	subst:sg:loc:n:ncol	nazwa geograficzna	
+Detroit	Detroit	subst:sg:nom:n:ncol	nazwa geograficzna	
+Detroit	Detroit	subst:sg:voc:n:ncol	nazwa geograficzna	
 DEM	Deutsche_Mark	brev:npun		
 Dewajtisach	Dewajtis	subst:pl:loc:m3	imię	
 Dewajtisa	Dewajtis	subst:sg:gen:m3	imię	
@@ -2280,20 +2280,20 @@ Dęby	Dęba	subst:pl:acc:f	nazwa geograficzna
 Dęby	Dęba	subst:pl:nom:f	nazwa geograficzna	
 Dęby	Dęba	subst:pl:voc:f	nazwa geograficzna	
 Dęby	Dęba	subst:sg:gen:f	nazwa geograficzna	
-Dębe	Dębe	subst:pl:acc:n2	nazwa geograficzna	
-Dębe	Dębe	subst:pl:nom:n2	nazwa geograficzna	
-Dębe	Dębe	subst:pl:voc:n2	nazwa geograficzna	
-Dębe	Dębe	subst:sg:acc:n2	nazwa geograficzna	
-Dębe	Dębe	subst:sg:nom:n2	nazwa geograficzna	
-Dębe	Dębe	subst:sg:voc:n2	nazwa geograficzna	
-Dębego	Dębe	subst:sg:gen:n2	nazwa geograficzna	
-Dębem	Dębe	subst:sg:inst:n2	nazwa geograficzna	
-Dębem	Dębe	subst:sg:loc:n2	nazwa geograficzna	
-Dębemu	Dębe	subst:sg:dat:n2	nazwa geograficzna	
-Dębych	Dębe	subst:pl:gen:n2	nazwa geograficzna	
-Dębych	Dębe	subst:pl:loc:n2	nazwa geograficzna	
-Dębym	Dębe	subst:pl:dat:n2	nazwa geograficzna	
-Dębymi	Dębe	subst:pl:inst:n2	nazwa geograficzna	
+Dębe	Dębe	subst:pl:acc:n:ncol	nazwa geograficzna	
+Dębe	Dębe	subst:pl:nom:n:ncol	nazwa geograficzna	
+Dębe	Dębe	subst:pl:voc:n:ncol	nazwa geograficzna	
+Dębe	Dębe	subst:sg:acc:n:ncol	nazwa geograficzna	
+Dębe	Dębe	subst:sg:nom:n:ncol	nazwa geograficzna	
+Dębe	Dębe	subst:sg:voc:n:ncol	nazwa geograficzna	
+Dębego	Dębe	subst:sg:gen:n:ncol	nazwa geograficzna	
+Dębem	Dębe	subst:sg:inst:n:ncol	nazwa geograficzna	
+Dębem	Dębe	subst:sg:loc:n:ncol	nazwa geograficzna	
+Dębemu	Dębe	subst:sg:dat:n:ncol	nazwa geograficzna	
+Dębych	Dębe	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dębych	Dębe	subst:pl:loc:n:ncol	nazwa geograficzna	
+Dębym	Dębe	subst:pl:dat:n:ncol	nazwa geograficzna	
+Dębymi	Dębe	subst:pl:inst:n:ncol	nazwa geograficzna	
 Dębicach	Dębica	subst:pl:loc:f	nazwa geograficzna	
 Dębica	Dębica	subst:sg:nom:f	nazwa geograficzna	
 Dębicami	Dębica	subst:pl:inst:f	nazwa geograficzna	
@@ -2633,14 +2633,14 @@ Dionizji	Dionizja	subst:sg:loc:f	imię
 Dionizjo	Dionizja	subst:sg:voc:f	imię	
 Dionizjom	Dionizja	subst:pl:dat:f	imię	
 Dionizyj	Dionizja	subst:pl:gen:f	imię	arch.|char.
-Dionizjach	Dionizje	subst:pl:loc:p3	nazwa święta	
-Dionizjami	Dionizje	subst:pl:inst:p3	nazwa święta	
-Dionizje	Dionizje	subst:pl:acc:p3	nazwa święta	
-Dionizje	Dionizje	subst:pl:nom:p3	nazwa święta	
-Dionizje	Dionizje	subst:pl:voc:p3	nazwa święta	
-Dionizji	Dionizje	subst:pl:gen:p3	nazwa święta	
-Dionizjom	Dionizje	subst:pl:dat:p3	nazwa święta	
-Dionizjów	Dionizje	subst:pl:gen:p3	nazwa święta	
+Dionizjach	Dionizje	subst:pl:loc:n:pt	nazwa święta	
+Dionizjami	Dionizje	subst:pl:inst:n:pt	nazwa święta	
+Dionizje	Dionizje	subst:pl:acc:n:pt	nazwa święta	
+Dionizje	Dionizje	subst:pl:nom:n:pt	nazwa święta	
+Dionizje	Dionizje	subst:pl:voc:n:pt	nazwa święta	
+Dionizji	Dionizje	subst:pl:gen:n:pt	nazwa święta	
+Dionizjom	Dionizje	subst:pl:dat:n:pt	nazwa święta	
+Dionizjów	Dionizje	subst:pl:gen:n:pt	nazwa święta	
 Dionizjuszach	Dionizjusz	subst:pl:loc:m1	imię	
 Dionizjusza	Dionizjusz	subst:sg:acc:m1	imię	
 Dionizjusza	Dionizjusz	subst:sg:gen:m1	imię	
@@ -2707,20 +2707,20 @@ Diory	Diora	subst:pl:voc:f	nazwa firmy
 Diory	Diora	subst:sg:gen:f	nazwa firmy	
 Diorze	Diora	subst:sg:dat:f	nazwa firmy	
 Diorze	Diora	subst:sg:loc:f	nazwa firmy	
-Discovery	Discovery	subst:pl:acc:n2	nazwa firmy	
-Discovery	Discovery	subst:pl:dat:n2	nazwa firmy	
-Discovery	Discovery	subst:pl:gen:n2	nazwa firmy	
-Discovery	Discovery	subst:pl:inst:n2	nazwa firmy	
-Discovery	Discovery	subst:pl:loc:n2	nazwa firmy	
-Discovery	Discovery	subst:pl:nom:n2	nazwa firmy	
-Discovery	Discovery	subst:pl:voc:n2	nazwa firmy	
-Discovery	Discovery	subst:sg:acc:n2	nazwa firmy	
-Discovery	Discovery	subst:sg:dat:n2	nazwa firmy	
-Discovery	Discovery	subst:sg:gen:n2	nazwa firmy	
-Discovery	Discovery	subst:sg:inst:n2	nazwa firmy	
-Discovery	Discovery	subst:sg:loc:n2	nazwa firmy	
-Discovery	Discovery	subst:sg:nom:n2	nazwa firmy	
-Discovery	Discovery	subst:sg:voc:n2	nazwa firmy	
+Discovery	Discovery	subst:pl:acc:n:ncol	nazwa firmy	
+Discovery	Discovery	subst:pl:dat:n:ncol	nazwa firmy	
+Discovery	Discovery	subst:pl:gen:n:ncol	nazwa firmy	
+Discovery	Discovery	subst:pl:inst:n:ncol	nazwa firmy	
+Discovery	Discovery	subst:pl:loc:n:ncol	nazwa firmy	
+Discovery	Discovery	subst:pl:nom:n:ncol	nazwa firmy	
+Discovery	Discovery	subst:pl:voc:n:ncol	nazwa firmy	
+Discovery	Discovery	subst:sg:acc:n:ncol	nazwa firmy	
+Discovery	Discovery	subst:sg:dat:n:ncol	nazwa firmy	
+Discovery	Discovery	subst:sg:gen:n:ncol	nazwa firmy	
+Discovery	Discovery	subst:sg:inst:n:ncol	nazwa firmy	
+Discovery	Discovery	subst:sg:loc:n:ncol	nazwa firmy	
+Discovery	Discovery	subst:sg:nom:n:ncol	nazwa firmy	
+Discovery	Discovery	subst:sg:voc:n:ncol	nazwa firmy	
 Disnejowska	Disnejowska	subst:sg:nom:f	nazwisko	
 Disnejowska	Disnejowska	subst:sg:voc:f	nazwisko	
 Disnejowską	Disnejowska	subst:sg:acc:f	nazwisko	
@@ -2983,33 +2983,33 @@ Dmowskim	Dmowski	subst:sg:inst:m1	nazwisko
 Dmowskim	Dmowski	subst:sg:loc:m1	nazwisko	
 Dmowskimi	Dmowski	subst:pl:inst:m1	nazwisko	
 DNA	DNA	subst:pl:acc:m3	nazwa pospolita	
-DNA	DNA	subst:pl:acc:n2	nazwa pospolita	
+DNA	DNA	subst:pl:acc:n:ncol	nazwa pospolita	
 DNA	DNA	subst:pl:dat:m3	nazwa pospolita	
-DNA	DNA	subst:pl:dat:n2	nazwa pospolita	
+DNA	DNA	subst:pl:dat:n:ncol	nazwa pospolita	
 DNA	DNA	subst:pl:gen:m3	nazwa pospolita	
-DNA	DNA	subst:pl:gen:n2	nazwa pospolita	
+DNA	DNA	subst:pl:gen:n:ncol	nazwa pospolita	
 DNA	DNA	subst:pl:inst:m3	nazwa pospolita	
-DNA	DNA	subst:pl:inst:n2	nazwa pospolita	
+DNA	DNA	subst:pl:inst:n:ncol	nazwa pospolita	
 DNA	DNA	subst:pl:loc:m3	nazwa pospolita	
-DNA	DNA	subst:pl:loc:n2	nazwa pospolita	
+DNA	DNA	subst:pl:loc:n:ncol	nazwa pospolita	
 DNA	DNA	subst:pl:nom:m3	nazwa pospolita	
-DNA	DNA	subst:pl:nom:n2	nazwa pospolita	
+DNA	DNA	subst:pl:nom:n:ncol	nazwa pospolita	
 DNA	DNA	subst:pl:voc:m3	nazwa pospolita	
-DNA	DNA	subst:pl:voc:n2	nazwa pospolita	
+DNA	DNA	subst:pl:voc:n:ncol	nazwa pospolita	
 DNA	DNA	subst:sg:acc:m3	nazwa pospolita	
-DNA	DNA	subst:sg:acc:n2	nazwa pospolita	
+DNA	DNA	subst:sg:acc:n:ncol	nazwa pospolita	
 DNA	DNA	subst:sg:dat:m3	nazwa pospolita	
-DNA	DNA	subst:sg:dat:n2	nazwa pospolita	
+DNA	DNA	subst:sg:dat:n:ncol	nazwa pospolita	
 DNA	DNA	subst:sg:gen:m3	nazwa pospolita	
-DNA	DNA	subst:sg:gen:n2	nazwa pospolita	
+DNA	DNA	subst:sg:gen:n:ncol	nazwa pospolita	
 DNA	DNA	subst:sg:inst:m3	nazwa pospolita	
-DNA	DNA	subst:sg:inst:n2	nazwa pospolita	
+DNA	DNA	subst:sg:inst:n:ncol	nazwa pospolita	
 DNA	DNA	subst:sg:loc:m3	nazwa pospolita	
-DNA	DNA	subst:sg:loc:n2	nazwa pospolita	
+DNA	DNA	subst:sg:loc:n:ncol	nazwa pospolita	
 DNA	DNA	subst:sg:nom:m3	nazwa pospolita	
-DNA	DNA	subst:sg:nom:n2	nazwa pospolita	
+DNA	DNA	subst:sg:nom:n:ncol	nazwa pospolita	
 DNA	DNA	subst:sg:voc:m3	nazwa pospolita	
-DNA	DNA	subst:sg:voc:n2	nazwa pospolita	
+DNA	DNA	subst:sg:voc:n:ncol	nazwa pospolita	
 Dnieprach	Dniepr	subst:pl:loc:m3	nazwa geograficzna	
 Dnieprami	Dniepr	subst:pl:inst:m3	nazwa geograficzna	
 Dniepr	Dniepr	subst:sg:acc:m3	nazwa geograficzna	
@@ -3052,20 +3052,20 @@ Dniestry	Dniestr	subst:pl:nom:m3	nazwa geograficzna
 Dniestry	Dniestr	subst:pl:voc:m3	nazwa geograficzna	
 Dniestrze	Dniestr	subst:sg:loc:m3	nazwa geograficzna	
 Dniestrze	Dniestr	subst:sg:voc:m3	nazwa geograficzna	
-Dobczycach	Dobczyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Dobczycach	Dobczyce	subst:pl:loc:p3	nazwa geograficzna	
-Dobczycami	Dobczyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Dobczycami	Dobczyce	subst:pl:inst:p3	nazwa geograficzna	
-Dobczyc	Dobczyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Dobczyc	Dobczyce	subst:pl:gen:p3	nazwa geograficzna	
-Dobczyce	Dobczyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Dobczyce	Dobczyce	subst:pl:acc:p3	nazwa geograficzna	
-Dobczyce	Dobczyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Dobczyce	Dobczyce	subst:pl:nom:p3	nazwa geograficzna	
-Dobczyce	Dobczyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Dobczyce	Dobczyce	subst:pl:voc:p3	nazwa geograficzna	
-Dobczycom	Dobczyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Dobczycom	Dobczyce	subst:pl:dat:p3	nazwa geograficzna	
+Dobczycach	Dobczyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Dobczycach	Dobczyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Dobczycami	Dobczyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Dobczycami	Dobczyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Dobczyc	Dobczyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Dobczyc	Dobczyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Dobczyce	Dobczyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Dobczyce	Dobczyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Dobczyce	Dobczyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Dobczyce	Dobczyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Dobczyce	Dobczyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Dobczyce	Dobczyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Dobczycom	Dobczyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Dobczycom	Dobczyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Dobiegniewach	Dobiegniew:s1	subst:pl:loc:m1	imię	
 Dobiegniewa	Dobiegniew:s1	subst:sg:acc:m1	imię	
 Dobiegniewa	Dobiegniew:s1	subst:sg:gen:m1	imię	
@@ -3440,20 +3440,20 @@ Dobrosławy	Dobrosława	subst:pl:acc:f	imię
 Dobrosławy	Dobrosława	subst:pl:nom:f	imię	
 Dobrosławy	Dobrosława	subst:pl:voc:f	imię	
 Dobrosławy	Dobrosława	subst:sg:gen:f	imię	
-Dobroszycach	Dobroszyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Dobroszycach	Dobroszyce	subst:pl:loc:p3	nazwa geograficzna	
-Dobroszycami	Dobroszyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Dobroszycami	Dobroszyce	subst:pl:inst:p3	nazwa geograficzna	
-Dobroszyc	Dobroszyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Dobroszyc	Dobroszyce	subst:pl:gen:p3	nazwa geograficzna	
-Dobroszyce	Dobroszyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Dobroszyce	Dobroszyce	subst:pl:acc:p3	nazwa geograficzna	
-Dobroszyce	Dobroszyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Dobroszyce	Dobroszyce	subst:pl:nom:p3	nazwa geograficzna	
-Dobroszyce	Dobroszyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Dobroszyce	Dobroszyce	subst:pl:voc:p3	nazwa geograficzna	
-Dobroszycom	Dobroszyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Dobroszycom	Dobroszyce	subst:pl:dat:p3	nazwa geograficzna	
+Dobroszycach	Dobroszyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Dobroszycach	Dobroszyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Dobroszycami	Dobroszyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Dobroszycami	Dobroszyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Dobroszyc	Dobroszyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Dobroszyc	Dobroszyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Dobroszyce	Dobroszyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Dobroszyce	Dobroszyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Dobroszyce	Dobroszyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Dobroszyce	Dobroszyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Dobroszyce	Dobroszyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Dobroszyce	Dobroszyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Dobroszycom	Dobroszyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Dobroszycom	Dobroszyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Dobrowiestach	Dobrowiest	subst:pl:loc:m1	imię	
 Dobrowiesta	Dobrowiest	subst:sg:acc:m1	imię	
 Dobrowiesta	Dobrowiest	subst:sg:gen:m1	imię	
@@ -3572,20 +3572,20 @@ Dobrymirze	Dobrymir	subst:sg:loc:m1	imię
 Dobrymirze	Dobrymir	subst:sg:voc:m1	imię	
 Dobrymirzy	Dobrymir	subst:pl:nom:m1	imię	
 Dobrymirzy	Dobrymir	subst:pl:voc:m1	imię	
-Dobryszycach	Dobryszyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Dobryszycach	Dobryszyce	subst:pl:loc:p3	nazwa geograficzna	
-Dobryszycami	Dobryszyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Dobryszycami	Dobryszyce	subst:pl:inst:p3	nazwa geograficzna	
-Dobryszyc	Dobryszyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Dobryszyc	Dobryszyce	subst:pl:gen:p3	nazwa geograficzna	
-Dobryszyce	Dobryszyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Dobryszyce	Dobryszyce	subst:pl:acc:p3	nazwa geograficzna	
-Dobryszyce	Dobryszyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Dobryszyce	Dobryszyce	subst:pl:nom:p3	nazwa geograficzna	
-Dobryszyce	Dobryszyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Dobryszyce	Dobryszyce	subst:pl:voc:p3	nazwa geograficzna	
-Dobryszycom	Dobryszyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Dobryszycom	Dobryszyce	subst:pl:dat:p3	nazwa geograficzna	
+Dobryszycach	Dobryszyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Dobryszycach	Dobryszyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Dobryszycami	Dobryszyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Dobryszycami	Dobryszyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Dobryszyc	Dobryszyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Dobryszyc	Dobryszyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Dobryszyce	Dobryszyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Dobryszyce	Dobryszyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Dobryszyce	Dobryszyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Dobryszyce	Dobryszyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Dobryszyce	Dobryszyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Dobryszyce	Dobryszyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Dobryszycom	Dobryszyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Dobryszycom	Dobryszyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Dobrzeniach	Dobrzeń	subst:pl:loc:m3	nazwa geograficzna	
 Dobrzenia	Dobrzeń	subst:sg:gen:m3	nazwa geograficzna	
 Dobrzeniami	Dobrzeń	subst:pl:inst:m3	nazwa geograficzna	
@@ -3615,20 +3615,20 @@ Dobrzycom	Dobrzyca	subst:pl:dat:f	nazwa geograficzna
 Dobrzycy	Dobrzyca	subst:sg:dat:f	nazwa geograficzna	
 Dobrzycy	Dobrzyca	subst:sg:gen:f	nazwa geograficzna	
 Dobrzycy	Dobrzyca	subst:sg:loc:f	nazwa geograficzna	
-Dobrzyniewach	Dobrzyniewo	subst:pl:loc:n2	nazwa geograficzna	
-Dobrzyniewa	Dobrzyniewo	subst:pl:acc:n2	nazwa geograficzna	
-Dobrzyniewa	Dobrzyniewo	subst:pl:nom:n2	nazwa geograficzna	
-Dobrzyniewa	Dobrzyniewo	subst:pl:voc:n2	nazwa geograficzna	
-Dobrzyniewa	Dobrzyniewo	subst:sg:gen:n2	nazwa geograficzna	
-Dobrzyniewami	Dobrzyniewo	subst:pl:inst:n2	nazwa geograficzna	
-Dobrzyniew	Dobrzyniewo	subst:pl:gen:n2	nazwa geograficzna	
-Dobrzyniewem	Dobrzyniewo	subst:sg:inst:n2	nazwa geograficzna	
-Dobrzyniewie	Dobrzyniewo	subst:sg:loc:n2	nazwa geograficzna	
-Dobrzyniewo	Dobrzyniewo	subst:sg:acc:n2	nazwa geograficzna	
-Dobrzyniewo	Dobrzyniewo	subst:sg:nom:n2	nazwa geograficzna	
-Dobrzyniewo	Dobrzyniewo	subst:sg:voc:n2	nazwa geograficzna	
-Dobrzyniewom	Dobrzyniewo	subst:pl:dat:n2	nazwa geograficzna	
-Dobrzyniewu	Dobrzyniewo	subst:sg:dat:n2	nazwa geograficzna	
+Dobrzyniewach	Dobrzyniewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Dobrzyniewa	Dobrzyniewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Dobrzyniewa	Dobrzyniewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Dobrzyniewa	Dobrzyniewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Dobrzyniewa	Dobrzyniewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Dobrzyniewami	Dobrzyniewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Dobrzyniew	Dobrzyniewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dobrzyniewem	Dobrzyniewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Dobrzyniewie	Dobrzyniewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Dobrzyniewo	Dobrzyniewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Dobrzyniewo	Dobrzyniewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Dobrzyniewo	Dobrzyniewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Dobrzyniewom	Dobrzyniewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Dobrzyniewu	Dobrzyniewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Dobrzyniach	Dobrzyń	subst:pl:loc:m3	nazwa geograficzna	
 Dobrzynia	Dobrzyń	subst:sg:gen:m3	nazwa geograficzna	
 Dobrzyniami	Dobrzyń	subst:pl:inst:m3	nazwa geograficzna	
@@ -3675,33 +3675,33 @@ Dobrzyńskim	Dobrzyński	subst:sg:inst:m1	nazwisko
 Dobrzyńskim	Dobrzyński	subst:sg:loc:m1	nazwisko	
 Dobrzyńskimi	Dobrzyński	subst:pl:inst:m1	nazwisko	
 DOKP	DOKP	subst:pl:acc:f	nazwa firmy	
-DOKP	DOKP	subst:pl:acc:n2	nazwa firmy	
+DOKP	DOKP	subst:pl:acc:n:ncol	nazwa firmy	
 DOKP	DOKP	subst:pl:dat:f	nazwa firmy	
-DOKP	DOKP	subst:pl:dat:n2	nazwa firmy	
+DOKP	DOKP	subst:pl:dat:n:ncol	nazwa firmy	
 DOKP	DOKP	subst:pl:gen:f	nazwa firmy	
-DOKP	DOKP	subst:pl:gen:n2	nazwa firmy	
+DOKP	DOKP	subst:pl:gen:n:ncol	nazwa firmy	
 DOKP	DOKP	subst:pl:inst:f	nazwa firmy	
-DOKP	DOKP	subst:pl:inst:n2	nazwa firmy	
+DOKP	DOKP	subst:pl:inst:n:ncol	nazwa firmy	
 DOKP	DOKP	subst:pl:loc:f	nazwa firmy	
-DOKP	DOKP	subst:pl:loc:n2	nazwa firmy	
+DOKP	DOKP	subst:pl:loc:n:ncol	nazwa firmy	
 DOKP	DOKP	subst:pl:nom:f	nazwa firmy	
-DOKP	DOKP	subst:pl:nom:n2	nazwa firmy	
+DOKP	DOKP	subst:pl:nom:n:ncol	nazwa firmy	
 DOKP	DOKP	subst:pl:voc:f	nazwa firmy	
-DOKP	DOKP	subst:pl:voc:n2	nazwa firmy	
+DOKP	DOKP	subst:pl:voc:n:ncol	nazwa firmy	
 DOKP	DOKP	subst:sg:acc:f	nazwa firmy	
-DOKP	DOKP	subst:sg:acc:n2	nazwa firmy	
+DOKP	DOKP	subst:sg:acc:n:ncol	nazwa firmy	
 DOKP	DOKP	subst:sg:dat:f	nazwa firmy	
-DOKP	DOKP	subst:sg:dat:n2	nazwa firmy	
+DOKP	DOKP	subst:sg:dat:n:ncol	nazwa firmy	
 DOKP	DOKP	subst:sg:gen:f	nazwa firmy	
-DOKP	DOKP	subst:sg:gen:n2	nazwa firmy	
+DOKP	DOKP	subst:sg:gen:n:ncol	nazwa firmy	
 DOKP	DOKP	subst:sg:inst:f	nazwa firmy	
-DOKP	DOKP	subst:sg:inst:n2	nazwa firmy	
+DOKP	DOKP	subst:sg:inst:n:ncol	nazwa firmy	
 DOKP	DOKP	subst:sg:loc:f	nazwa firmy	
-DOKP	DOKP	subst:sg:loc:n2	nazwa firmy	
+DOKP	DOKP	subst:sg:loc:n:ncol	nazwa firmy	
 DOKP	DOKP	subst:sg:nom:f	nazwa firmy	
-DOKP	DOKP	subst:sg:nom:n2	nazwa firmy	
+DOKP	DOKP	subst:sg:nom:n:ncol	nazwa firmy	
 DOKP	DOKP	subst:sg:voc:f	nazwa firmy	
-DOKP	DOKP	subst:sg:voc:n2	nazwa firmy	
+DOKP	DOKP	subst:sg:voc:n:ncol	nazwa firmy	
 Dolabellach	Dolabella	subst:pl:loc:m1	nazwisko	
 Dolabella	Dolabella	subst:sg:nom:m1	nazwisko	
 Dolabellami	Dolabella	subst:pl:inst:m1	nazwisko	
@@ -3734,20 +3734,20 @@ Dolków	Dolek	subst:pl:acc:m1	imię
 Dolków	Dolek	subst:pl:gen:m1	imię	
 Dolku	Dolek	subst:sg:loc:m1	imię	
 Dolku	Dolek	subst:sg:voc:m1	imię	
-Dolicach	Dolice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Dolicach	Dolice	subst:pl:loc:p3	nazwa geograficzna	
-Dolicami	Dolice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Dolicami	Dolice	subst:pl:inst:p3	nazwa geograficzna	
-Dolic	Dolice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Dolic	Dolice	subst:pl:gen:p3	nazwa geograficzna	
-Dolice	Dolice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Dolice	Dolice	subst:pl:acc:p3	nazwa geograficzna	
-Dolice	Dolice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Dolice	Dolice	subst:pl:nom:p3	nazwa geograficzna	
-Dolice	Dolice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Dolice	Dolice	subst:pl:voc:p3	nazwa geograficzna	
-Dolicom	Dolice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Dolicom	Dolice	subst:pl:dat:p3	nazwa geograficzna	
+Dolicach	Dolice	subst:pl:loc:n:pt	nazwa geograficzna	
+Dolicach	Dolice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Dolicami	Dolice	subst:pl:inst:n:pt	nazwa geograficzna	
+Dolicami	Dolice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Dolic	Dolice	subst:pl:gen:n:pt	nazwa geograficzna	
+Dolic	Dolice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Dolice	Dolice	subst:pl:acc:n:pt	nazwa geograficzna	
+Dolice	Dolice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Dolice	Dolice	subst:pl:nom:n:pt	nazwa geograficzna	
+Dolice	Dolice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Dolice	Dolice	subst:pl:voc:n:pt	nazwa geograficzna	
+Dolice	Dolice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Dolicom	Dolice	subst:pl:dat:n:pt	nazwa geograficzna	
+Dolicom	Dolice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Dolińska	Dolińska	subst:sg:nom:f	nazwisko	
 Dolińska	Dolińska	subst:sg:voc:f	nazwisko	
 Dolińską	Dolińska	subst:sg:acc:f	nazwisko	
@@ -3921,20 +3921,20 @@ Domamirze	Domamir	subst:sg:loc:m1	imię
 Domamirze	Domamir	subst:sg:voc:m1	imię	
 Domamirzy	Domamir	subst:pl:nom:m1	imię	
 Domamirzy	Domamir	subst:pl:voc:m1	imię	
-Domaniewicach	Domaniewice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Domaniewicach	Domaniewice	subst:pl:loc:p3	nazwa geograficzna	
-Domaniewicami	Domaniewice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Domaniewicami	Domaniewice	subst:pl:inst:p3	nazwa geograficzna	
-Domaniewic	Domaniewice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Domaniewic	Domaniewice	subst:pl:gen:p3	nazwa geograficzna	
-Domaniewice	Domaniewice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Domaniewice	Domaniewice	subst:pl:acc:p3	nazwa geograficzna	
-Domaniewice	Domaniewice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Domaniewice	Domaniewice	subst:pl:nom:p3	nazwa geograficzna	
-Domaniewice	Domaniewice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Domaniewice	Domaniewice	subst:pl:voc:p3	nazwa geograficzna	
-Domaniewicom	Domaniewice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Domaniewicom	Domaniewice	subst:pl:dat:p3	nazwa geograficzna	
+Domaniewicach	Domaniewice	subst:pl:loc:n:pt	nazwa geograficzna	
+Domaniewicach	Domaniewice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Domaniewicami	Domaniewice	subst:pl:inst:n:pt	nazwa geograficzna	
+Domaniewicami	Domaniewice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Domaniewic	Domaniewice	subst:pl:gen:n:pt	nazwa geograficzna	
+Domaniewic	Domaniewice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Domaniewice	Domaniewice	subst:pl:acc:n:pt	nazwa geograficzna	
+Domaniewice	Domaniewice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Domaniewice	Domaniewice	subst:pl:nom:n:pt	nazwa geograficzna	
+Domaniewice	Domaniewice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Domaniewice	Domaniewice	subst:pl:voc:n:pt	nazwa geograficzna	
+Domaniewice	Domaniewice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Domaniewicom	Domaniewice	subst:pl:dat:n:pt	nazwa geograficzna	
+Domaniewicom	Domaniewice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Domaniowach	Domaniów	subst:pl:loc:m3	nazwa geograficzna	
 Domaniowa	Domaniów	subst:sg:gen:m3	nazwa geograficzna	
 Domaniowami	Domaniów	subst:pl:inst:m3	nazwa geograficzna	
@@ -4048,20 +4048,20 @@ Domasławy	Domasława	subst:pl:acc:f	imię
 Domasławy	Domasława	subst:pl:nom:f	imię	
 Domasławy	Domasława	subst:pl:voc:f	imię	
 Domasławy	Domasława	subst:sg:gen:f	imię	
-Domaszowicach	Domaszowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Domaszowicach	Domaszowice	subst:pl:loc:p3	nazwa geograficzna	
-Domaszowicami	Domaszowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Domaszowicami	Domaszowice	subst:pl:inst:p3	nazwa geograficzna	
-Domaszowic	Domaszowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Domaszowic	Domaszowice	subst:pl:gen:p3	nazwa geograficzna	
-Domaszowice	Domaszowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Domaszowice	Domaszowice	subst:pl:acc:p3	nazwa geograficzna	
-Domaszowice	Domaszowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Domaszowice	Domaszowice	subst:pl:nom:p3	nazwa geograficzna	
-Domaszowice	Domaszowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Domaszowice	Domaszowice	subst:pl:voc:p3	nazwa geograficzna	
-Domaszowicom	Domaszowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Domaszowicom	Domaszowice	subst:pl:dat:p3	nazwa geograficzna	
+Domaszowicach	Domaszowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Domaszowicach	Domaszowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Domaszowicami	Domaszowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Domaszowicami	Domaszowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Domaszowic	Domaszowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Domaszowic	Domaszowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Domaszowice	Domaszowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Domaszowice	Domaszowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Domaszowice	Domaszowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Domaszowice	Domaszowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Domaszowice	Domaszowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Domaszowice	Domaszowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Domaszowicom	Domaszowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Domaszowicom	Domaszowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Domawici	Domawit	subst:pl:nom:m1	imię	
 Domawici	Domawit	subst:pl:voc:m1	imię	
 Domawicie	Domawit	subst:sg:loc:m1	imię	
@@ -4315,22 +4315,22 @@ Dominisię	Dominisia	subst:sg:acc:f	imię
 Dominisiom	Dominisia	subst:pl:dat:f	imię	
 Dominisiu	Dominisia	subst:sg:voc:f	imię	
 Dominiś	Dominisia	subst:pl:gen:f	imię	char.
-Dominowach	Dominowo	subst:pl:loc:n2	nazwa geograficzna	
-Dominowa	Dominowo	subst:pl:acc:n2	nazwa geograficzna	
-Dominowa	Dominowo	subst:pl:nom:n2	nazwa geograficzna	
-Dominowa	Dominowo	subst:pl:voc:n2	nazwa geograficzna	
-Dominowa	Dominowo	subst:sg:gen:n2	nazwa geograficzna	
-Dominowami	Dominowo	subst:pl:inst:n2	nazwa geograficzna	
-Dominow	Dominowo	subst:pl:gen:n2	nazwa geograficzna	
-Dominowem	Dominowo	subst:sg:inst:n2	nazwa geograficzna	
-Dominowie	Dominowo	subst:sg:loc:n2	nazwa geograficzna	
-Dominowo	Dominowo	subst:sg:acc:n2	nazwa geograficzna	
-Dominowo	Dominowo	subst:sg:nom:n2	nazwa geograficzna	
-Dominowo	Dominowo	subst:sg:voc:n2	nazwa geograficzna	
-Dominowom	Dominowo	subst:pl:dat:n2	nazwa geograficzna	
-Dominowów	Dominowo	subst:pl:gen:n2	nazwa geograficzna	
-Dominowu	Dominowo	subst:sg:dat:n2	nazwa geograficzna	
-Dominów	Dominowo	subst:pl:gen:n2	nazwa geograficzna	
+Dominowach	Dominowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Dominowa	Dominowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Dominowa	Dominowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Dominowa	Dominowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Dominowa	Dominowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Dominowami	Dominowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Dominow	Dominowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dominowem	Dominowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Dominowie	Dominowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Dominowo	Dominowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Dominowo	Dominowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Dominowo	Dominowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Dominowom	Dominowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Dominowów	Dominowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dominowu	Dominowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Dominów	Dominowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Domisławach	Domisława	subst:pl:loc:f	imię	
 Domisława	Domisława	subst:sg:nom:f	imię	
 Domisławami	Domisława	subst:pl:inst:f	imię	
@@ -4518,20 +4518,20 @@ Donizettimi	Donizetti	subst:pl:inst:m1	nazwisko
 Donizettiowie	Donizetti	subst:pl:nom:m1	nazwisko	
 Donizettiowie	Donizetti	subst:pl:voc:m1	nazwisko	
 D	dopełniacz	brev:pun		jęz.
-Dopiewach	Dopiewo	subst:pl:loc:n2	nazwa geograficzna	
-Dopiewa	Dopiewo	subst:pl:acc:n2	nazwa geograficzna	
-Dopiewa	Dopiewo	subst:pl:nom:n2	nazwa geograficzna	
-Dopiewa	Dopiewo	subst:pl:voc:n2	nazwa geograficzna	
-Dopiewa	Dopiewo	subst:sg:gen:n2	nazwa geograficzna	
-Dopiewami	Dopiewo	subst:pl:inst:n2	nazwa geograficzna	
-Dopiew	Dopiewo	subst:pl:gen:n2	nazwa geograficzna	
-Dopiewem	Dopiewo	subst:sg:inst:n2	nazwa geograficzna	
-Dopiewie	Dopiewo	subst:sg:loc:n2	nazwa geograficzna	
-Dopiewo	Dopiewo	subst:sg:acc:n2	nazwa geograficzna	
-Dopiewo	Dopiewo	subst:sg:nom:n2	nazwa geograficzna	
-Dopiewo	Dopiewo	subst:sg:voc:n2	nazwa geograficzna	
-Dopiewom	Dopiewo	subst:pl:dat:n2	nazwa geograficzna	
-Dopiewu	Dopiewo	subst:sg:dat:n2	nazwa geograficzna	
+Dopiewach	Dopiewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Dopiewa	Dopiewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Dopiewa	Dopiewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Dopiewa	Dopiewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Dopiewa	Dopiewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Dopiewami	Dopiewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Dopiew	Dopiewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dopiewem	Dopiewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Dopiewie	Dopiewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Dopiewo	Dopiewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Dopiewo	Dopiewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Dopiewo	Dopiewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Dopiewom	Dopiewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Dopiewu	Dopiewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Dopplerach	Doppler	subst:pl:loc:m1	nazwisko	
 Dopplera	Doppler	subst:sg:acc:m1	nazwisko	
 Dopplera	Doppler	subst:sg:gen:m1	nazwisko	
@@ -4930,33 +4930,33 @@ Doyle’ów	Doyle	subst:pl:gen:m1	nazwisko
 Doyle’u	Doyle	subst:sg:loc:m1	nazwisko	
 Doyle’u	Doyle	subst:sg:voc:m1	nazwisko	
 DPA	DPA	subst:pl:acc:f	nazwa firmy	
-DPA	DPA	subst:pl:acc:n2	nazwa firmy	
+DPA	DPA	subst:pl:acc:n:ncol	nazwa firmy	
 DPA	DPA	subst:pl:dat:f	nazwa firmy	
-DPA	DPA	subst:pl:dat:n2	nazwa firmy	
+DPA	DPA	subst:pl:dat:n:ncol	nazwa firmy	
 DPA	DPA	subst:pl:gen:f	nazwa firmy	
-DPA	DPA	subst:pl:gen:n2	nazwa firmy	
+DPA	DPA	subst:pl:gen:n:ncol	nazwa firmy	
 DPA	DPA	subst:pl:inst:f	nazwa firmy	
-DPA	DPA	subst:pl:inst:n2	nazwa firmy	
+DPA	DPA	subst:pl:inst:n:ncol	nazwa firmy	
 DPA	DPA	subst:pl:loc:f	nazwa firmy	
-DPA	DPA	subst:pl:loc:n2	nazwa firmy	
+DPA	DPA	subst:pl:loc:n:ncol	nazwa firmy	
 DPA	DPA	subst:pl:nom:f	nazwa firmy	
-DPA	DPA	subst:pl:nom:n2	nazwa firmy	
+DPA	DPA	subst:pl:nom:n:ncol	nazwa firmy	
 DPA	DPA	subst:pl:voc:f	nazwa firmy	
-DPA	DPA	subst:pl:voc:n2	nazwa firmy	
+DPA	DPA	subst:pl:voc:n:ncol	nazwa firmy	
 DPA	DPA	subst:sg:acc:f	nazwa firmy	
-DPA	DPA	subst:sg:acc:n2	nazwa firmy	
+DPA	DPA	subst:sg:acc:n:ncol	nazwa firmy	
 DPA	DPA	subst:sg:dat:f	nazwa firmy	
-DPA	DPA	subst:sg:dat:n2	nazwa firmy	
+DPA	DPA	subst:sg:dat:n:ncol	nazwa firmy	
 DPA	DPA	subst:sg:gen:f	nazwa firmy	
-DPA	DPA	subst:sg:gen:n2	nazwa firmy	
+DPA	DPA	subst:sg:gen:n:ncol	nazwa firmy	
 DPA	DPA	subst:sg:inst:f	nazwa firmy	
-DPA	DPA	subst:sg:inst:n2	nazwa firmy	
+DPA	DPA	subst:sg:inst:n:ncol	nazwa firmy	
 DPA	DPA	subst:sg:loc:f	nazwa firmy	
-DPA	DPA	subst:sg:loc:n2	nazwa firmy	
+DPA	DPA	subst:sg:loc:n:ncol	nazwa firmy	
 DPA	DPA	subst:sg:nom:f	nazwa firmy	
-DPA	DPA	subst:sg:nom:n2	nazwa firmy	
+DPA	DPA	subst:sg:nom:n:ncol	nazwa firmy	
 DPA	DPA	subst:sg:voc:f	nazwa firmy	
-DPA	DPA	subst:sg:voc:n2	nazwa firmy	
+DPA	DPA	subst:sg:voc:n:ncol	nazwa firmy	
 Draganach	Dragan	subst:pl:loc:m1	imię	
 Dragana	Dragan	subst:sg:acc:m1	imię	
 Dragana	Dragan	subst:sg:gen:m1	imię	
@@ -5005,20 +5005,20 @@ Drakulowie	Drakula	subst:pl:nom:m1	nazwisko
 Drakulowie	Drakula	subst:pl:voc:m1	nazwisko	
 Drakulów	Drakula	subst:pl:acc:m1	nazwisko	
 Drakulów	Drakula	subst:pl:gen:m1	nazwisko	
-Drawskach	Drawsko	subst:pl:loc:n2	nazwa geograficzna	
-Drawska	Drawsko	subst:pl:acc:n2	nazwa geograficzna	
-Drawska	Drawsko	subst:pl:nom:n2	nazwa geograficzna	
-Drawska	Drawsko	subst:pl:voc:n2	nazwa geograficzna	
-Drawska	Drawsko	subst:sg:gen:n2	nazwa geograficzna	
-Drawskami	Drawsko	subst:pl:inst:n2	nazwa geograficzna	
-Drawsk	Drawsko	subst:pl:gen:n2	nazwa geograficzna	
-Drawskiem	Drawsko	subst:sg:inst:n2	nazwa geograficzna	
-Drawsko	Drawsko	subst:sg:acc:n2	nazwa geograficzna	
-Drawsko	Drawsko	subst:sg:nom:n2	nazwa geograficzna	
-Drawsko	Drawsko	subst:sg:voc:n2	nazwa geograficzna	
-Drawskom	Drawsko	subst:pl:dat:n2	nazwa geograficzna	
-Drawsku	Drawsko	subst:sg:dat:n2	nazwa geograficzna	
-Drawsku	Drawsko	subst:sg:loc:n2	nazwa geograficzna	
+Drawskach	Drawsko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Drawska	Drawsko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Drawska	Drawsko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Drawska	Drawsko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Drawska	Drawsko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Drawskami	Drawsko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Drawsk	Drawsko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Drawskiem	Drawsko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Drawsko	Drawsko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Drawsko	Drawsko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Drawsko	Drawsko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Drawskom	Drawsko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Drawsku	Drawsko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Drawsku	Drawsko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Drelowach	Drelów	subst:pl:loc:m3	nazwa geograficzna	
 Drelowa	Drelów	subst:sg:gen:m3	nazwa geograficzna	
 Drelowami	Drelów	subst:pl:inst:m3	nazwa geograficzna	
@@ -5080,34 +5080,34 @@ Dreyfusów	Dreyfus	subst:pl:acc:m1	nazwisko
 Dreyfusów	Dreyfus	subst:pl:gen:m1	nazwisko	
 Dreyfusy	Dreyfus	depr:pl:nom:m2	nazwisko	
 Dreyfusy	Dreyfus	depr:pl:voc:m2	nazwisko	
-Drezdenek	Drezdenko	subst:pl:gen:n2	nazwa pospolita	
-Drezdenkach	Drezdenko	subst:pl:loc:n2	nazwa pospolita	
-Drezdenka	Drezdenko	subst:pl:acc:n2	nazwa pospolita	
-Drezdenka	Drezdenko	subst:pl:nom:n2	nazwa pospolita	
-Drezdenka	Drezdenko	subst:pl:voc:n2	nazwa pospolita	
-Drezdenka	Drezdenko	subst:sg:gen:n2	nazwa pospolita	
-Drezdenkami	Drezdenko	subst:pl:inst:n2	nazwa pospolita	
-Drezdenkiem	Drezdenko	subst:sg:inst:n2	nazwa pospolita	
-Drezdenko	Drezdenko	subst:sg:acc:n2	nazwa pospolita	
-Drezdenko	Drezdenko	subst:sg:nom:n2	nazwa pospolita	
-Drezdenko	Drezdenko	subst:sg:voc:n2	nazwa pospolita	
-Drezdenkom	Drezdenko	subst:pl:dat:n2	nazwa pospolita	
-Drezdenku	Drezdenko	subst:sg:dat:n2	nazwa pospolita	
-Drezdenku	Drezdenko	subst:sg:loc:n2	nazwa pospolita	
-Dreznach	Drezno	subst:pl:loc:n2	nazwa geograficzna	
-Drezna	Drezno	subst:pl:acc:n2	nazwa geograficzna	
-Drezna	Drezno	subst:pl:nom:n2	nazwa geograficzna	
-Drezna	Drezno	subst:pl:voc:n2	nazwa geograficzna	
-Drezna	Drezno	subst:sg:gen:n2	nazwa geograficzna	
-Dreznami	Drezno	subst:pl:inst:n2	nazwa geograficzna	
-Drezn	Drezno	subst:pl:gen:n2	nazwa geograficzna	
-Dreznem	Drezno	subst:sg:inst:n2	nazwa geograficzna	
-Drezno	Drezno	subst:sg:acc:n2	nazwa geograficzna	
-Drezno	Drezno	subst:sg:nom:n2	nazwa geograficzna	
-Drezno	Drezno	subst:sg:voc:n2	nazwa geograficzna	
-Dreznom	Drezno	subst:pl:dat:n2	nazwa geograficzna	
-Dreznu	Drezno	subst:sg:dat:n2	nazwa geograficzna	
-Dreźnie	Drezno	subst:sg:loc:n2	nazwa geograficzna	
+Drezdenek	Drezdenko	subst:pl:gen:n:ncol	nazwa pospolita	
+Drezdenkach	Drezdenko	subst:pl:loc:n:ncol	nazwa pospolita	
+Drezdenka	Drezdenko	subst:pl:acc:n:ncol	nazwa pospolita	
+Drezdenka	Drezdenko	subst:pl:nom:n:ncol	nazwa pospolita	
+Drezdenka	Drezdenko	subst:pl:voc:n:ncol	nazwa pospolita	
+Drezdenka	Drezdenko	subst:sg:gen:n:ncol	nazwa pospolita	
+Drezdenkami	Drezdenko	subst:pl:inst:n:ncol	nazwa pospolita	
+Drezdenkiem	Drezdenko	subst:sg:inst:n:ncol	nazwa pospolita	
+Drezdenko	Drezdenko	subst:sg:acc:n:ncol	nazwa pospolita	
+Drezdenko	Drezdenko	subst:sg:nom:n:ncol	nazwa pospolita	
+Drezdenko	Drezdenko	subst:sg:voc:n:ncol	nazwa pospolita	
+Drezdenkom	Drezdenko	subst:pl:dat:n:ncol	nazwa pospolita	
+Drezdenku	Drezdenko	subst:sg:dat:n:ncol	nazwa pospolita	
+Drezdenku	Drezdenko	subst:sg:loc:n:ncol	nazwa pospolita	
+Dreznach	Drezno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Drezna	Drezno	subst:pl:acc:n:ncol	nazwa geograficzna	
+Drezna	Drezno	subst:pl:nom:n:ncol	nazwa geograficzna	
+Drezna	Drezno	subst:pl:voc:n:ncol	nazwa geograficzna	
+Drezna	Drezno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Dreznami	Drezno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Drezn	Drezno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dreznem	Drezno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Drezno	Drezno	subst:sg:acc:n:ncol	nazwa geograficzna	
+Drezno	Drezno	subst:sg:nom:n:ncol	nazwa geograficzna	
+Drezno	Drezno	subst:sg:voc:n:ncol	nazwa geograficzna	
+Dreznom	Drezno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Dreznu	Drezno	subst:sg:dat:n:ncol	nazwa geograficzna	
+Dreźnie	Drezno	subst:sg:loc:n:ncol	nazwa geograficzna	
 Drogomile	Drogomił	subst:sg:loc:m1	imię	
 Drogomile	Drogomił	subst:sg:voc:m1	imię	
 Drogomiłach	Drogomił	subst:pl:loc:m1	imię	
@@ -5296,20 +5296,20 @@ Drużbackim	Drużbacki	subst:pl:dat:m1	nazwisko
 Drużbackim	Drużbacki	subst:sg:inst:m1	nazwisko	
 Drużbackim	Drużbacki	subst:sg:loc:m1	nazwisko	
 Drużbackimi	Drużbacki	subst:pl:inst:m1	nazwisko	
-Drużbicach	Drużbice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Drużbicach	Drużbice	subst:pl:loc:p3	nazwa geograficzna	
-Drużbicami	Drużbice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Drużbicami	Drużbice	subst:pl:inst:p3	nazwa geograficzna	
-Drużbic	Drużbice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Drużbic	Drużbice	subst:pl:gen:p3	nazwa geograficzna	
-Drużbice	Drużbice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Drużbice	Drużbice	subst:pl:acc:p3	nazwa geograficzna	
-Drużbice	Drużbice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Drużbice	Drużbice	subst:pl:nom:p3	nazwa geograficzna	
-Drużbice	Drużbice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Drużbice	Drużbice	subst:pl:voc:p3	nazwa geograficzna	
-Drużbicom	Drużbice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Drużbicom	Drużbice	subst:pl:dat:p3	nazwa geograficzna	
+Drużbicach	Drużbice	subst:pl:loc:n:pt	nazwa geograficzna	
+Drużbicach	Drużbice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Drużbicami	Drużbice	subst:pl:inst:n:pt	nazwa geograficzna	
+Drużbicami	Drużbice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Drużbic	Drużbice	subst:pl:gen:n:pt	nazwa geograficzna	
+Drużbic	Drużbice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Drużbice	Drużbice	subst:pl:acc:n:pt	nazwa geograficzna	
+Drużbice	Drużbice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Drużbice	Drużbice	subst:pl:nom:n:pt	nazwa geograficzna	
+Drużbice	Drużbice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Drużbice	Drużbice	subst:pl:voc:n:pt	nazwa geograficzna	
+Drużbice	Drużbice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Drużbicom	Drużbice	subst:pl:dat:n:pt	nazwa geograficzna	
+Drużbicom	Drużbice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Drwęcach	Drwęca	subst:pl:loc:f	nazwa geograficzna	
 Drwęca	Drwęca	subst:sg:nom:f	nazwa geograficzna	
 Drwęcami	Drwęca	subst:pl:inst:f	nazwa geograficzna	
@@ -5458,20 +5458,20 @@ DS-u	DS	subst:sg:gen:m3	nazwa pospolita
 DS-y	DS	subst:pl:acc:m3	nazwa pospolita	
 DS-y	DS	subst:pl:nom:m3	nazwa pospolita	
 DS-y	DS	subst:pl:voc:m3	nazwa pospolita	
-DTP	DTP	subst:pl:acc:n2	nazwa pospolita	
-DTP	DTP	subst:pl:dat:n2	nazwa pospolita	
-DTP	DTP	subst:pl:gen:n2	nazwa pospolita	
-DTP	DTP	subst:pl:inst:n2	nazwa pospolita	
-DTP	DTP	subst:pl:loc:n2	nazwa pospolita	
-DTP	DTP	subst:pl:nom:n2	nazwa pospolita	
-DTP	DTP	subst:pl:voc:n2	nazwa pospolita	
-DTP	DTP	subst:sg:acc:n2	nazwa pospolita	
-DTP	DTP	subst:sg:dat:n2	nazwa pospolita	
-DTP	DTP	subst:sg:gen:n2	nazwa pospolita	
-DTP	DTP	subst:sg:inst:n2	nazwa pospolita	
-DTP	DTP	subst:sg:loc:n2	nazwa pospolita	
-DTP	DTP	subst:sg:nom:n2	nazwa pospolita	
-DTP	DTP	subst:sg:voc:n2	nazwa pospolita	
+DTP	DTP	subst:pl:acc:n:ncol	nazwa pospolita	
+DTP	DTP	subst:pl:dat:n:ncol	nazwa pospolita	
+DTP	DTP	subst:pl:gen:n:ncol	nazwa pospolita	
+DTP	DTP	subst:pl:inst:n:ncol	nazwa pospolita	
+DTP	DTP	subst:pl:loc:n:ncol	nazwa pospolita	
+DTP	DTP	subst:pl:nom:n:ncol	nazwa pospolita	
+DTP	DTP	subst:pl:voc:n:ncol	nazwa pospolita	
+DTP	DTP	subst:sg:acc:n:ncol	nazwa pospolita	
+DTP	DTP	subst:sg:dat:n:ncol	nazwa pospolita	
+DTP	DTP	subst:sg:gen:n:ncol	nazwa pospolita	
+DTP	DTP	subst:sg:inst:n:ncol	nazwa pospolita	
+DTP	DTP	subst:sg:loc:n:ncol	nazwa pospolita	
+DTP	DTP	subst:sg:nom:n:ncol	nazwa pospolita	
+DTP	DTP	subst:sg:voc:n:ncol	nazwa pospolita	
 DTV	DTV	subst:pl:acc:m3	tytuł	
 DTV	DTV	subst:pl:dat:m3	tytuł	
 DTV	DTV	subst:pl:gen:m3	tytuł	
@@ -6066,34 +6066,34 @@ Dustinów	Dustin	subst:pl:acc:m1	imię
 Dustinów	Dustin	subst:pl:gen:m1	imię	
 Dustiny	Dustin	depr:pl:nom:m2	imię	
 Dustiny	Dustin	depr:pl:voc:m2	imię	
-Duszanbe	Duszanbe	subst:pl:acc:n2	nazwa geograficzna	
-Duszanbe	Duszanbe	subst:pl:dat:n2	nazwa geograficzna	
-Duszanbe	Duszanbe	subst:pl:gen:n2	nazwa geograficzna	
-Duszanbe	Duszanbe	subst:pl:inst:n2	nazwa geograficzna	
-Duszanbe	Duszanbe	subst:pl:loc:n2	nazwa geograficzna	
-Duszanbe	Duszanbe	subst:pl:nom:n2	nazwa geograficzna	
-Duszanbe	Duszanbe	subst:pl:voc:n2	nazwa geograficzna	
-Duszanbe	Duszanbe	subst:sg:acc:n2	nazwa geograficzna	
-Duszanbe	Duszanbe	subst:sg:dat:n2	nazwa geograficzna	
-Duszanbe	Duszanbe	subst:sg:gen:n2	nazwa geograficzna	
-Duszanbe	Duszanbe	subst:sg:inst:n2	nazwa geograficzna	
-Duszanbe	Duszanbe	subst:sg:loc:n2	nazwa geograficzna	
-Duszanbe	Duszanbe	subst:sg:nom:n2	nazwa geograficzna	
-Duszanbe	Duszanbe	subst:sg:voc:n2	nazwa geograficzna	
-Dusznikach	Duszniki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Dusznikach	Duszniki	subst:pl:loc:p3	nazwa geograficzna	
-Dusznikami	Duszniki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Dusznikami	Duszniki	subst:pl:inst:p3	nazwa geograficzna	
-Dusznik	Duszniki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Dusznik	Duszniki	subst:pl:gen:p3	nazwa geograficzna	
-Duszniki	Duszniki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Duszniki	Duszniki	subst:pl:acc:p3	nazwa geograficzna	
-Duszniki	Duszniki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Duszniki	Duszniki	subst:pl:nom:p3	nazwa geograficzna	
-Duszniki	Duszniki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Duszniki	Duszniki	subst:pl:voc:p3	nazwa geograficzna	
-Dusznikom	Duszniki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Dusznikom	Duszniki	subst:pl:dat:p3	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:pl:acc:n:ncol	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:pl:dat:n:ncol	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:pl:gen:n:ncol	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:pl:inst:n:ncol	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:pl:loc:n:ncol	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:pl:nom:n:ncol	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:pl:voc:n:ncol	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:sg:acc:n:ncol	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:sg:dat:n:ncol	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:sg:gen:n:ncol	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:sg:inst:n:ncol	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:sg:loc:n:ncol	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:sg:nom:n:ncol	nazwa geograficzna	
+Duszanbe	Duszanbe	subst:sg:voc:n:ncol	nazwa geograficzna	
+Dusznikach	Duszniki	subst:pl:loc:n:pt	nazwa geograficzna	
+Dusznikach	Duszniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Dusznikami	Duszniki	subst:pl:inst:n:pt	nazwa geograficzna	
+Dusznikami	Duszniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Dusznik	Duszniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Dusznik	Duszniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Duszniki	Duszniki	subst:pl:acc:n:pt	nazwa geograficzna	
+Duszniki	Duszniki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Duszniki	Duszniki	subst:pl:nom:n:pt	nazwa geograficzna	
+Duszniki	Duszniki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Duszniki	Duszniki	subst:pl:voc:n:pt	nazwa geograficzna	
+Duszniki	Duszniki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Dusznikom	Duszniki	subst:pl:dat:n:pt	nazwa geograficzna	
+Dusznikom	Duszniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Duszyńska	Duszyńska	subst:sg:nom:f	nazwisko	
 Duszyńska	Duszyńska	subst:sg:voc:f	nazwisko	
 Duszyńską	Duszyńska	subst:sg:acc:f	nazwisko	
@@ -6142,20 +6142,20 @@ Dutkiewiczów	Dutkiewicz	subst:pl:acc:m1	nazwisko
 Dutkiewiczów	Dutkiewicz	subst:pl:gen:m1	nazwisko	
 Dutkiewiczu	Dutkiewicz	subst:sg:loc:m1	nazwisko	
 Dutkiewiczu	Dutkiewicz	subst:sg:voc:m1	nazwisko	
-DVD	DVD	subst:pl:acc:n2	nazwa pospolita	
-DVD	DVD	subst:pl:dat:n2	nazwa pospolita	
-DVD	DVD	subst:pl:gen:n2	nazwa pospolita	
-DVD	DVD	subst:pl:inst:n2	nazwa pospolita	
-DVD	DVD	subst:pl:loc:n2	nazwa pospolita	
-DVD	DVD	subst:pl:nom:n2	nazwa pospolita	
-DVD	DVD	subst:pl:voc:n2	nazwa pospolita	
-DVD	DVD	subst:sg:acc:n2	nazwa pospolita	
-DVD	DVD	subst:sg:dat:n2	nazwa pospolita	
-DVD	DVD	subst:sg:gen:n2	nazwa pospolita	
-DVD	DVD	subst:sg:inst:n2	nazwa pospolita	
-DVD	DVD	subst:sg:loc:n2	nazwa pospolita	
-DVD	DVD	subst:sg:nom:n2	nazwa pospolita	
-DVD	DVD	subst:sg:voc:n2	nazwa pospolita	
+DVD	DVD	subst:pl:acc:n:ncol	nazwa pospolita	
+DVD	DVD	subst:pl:dat:n:ncol	nazwa pospolita	
+DVD	DVD	subst:pl:gen:n:ncol	nazwa pospolita	
+DVD	DVD	subst:pl:inst:n:ncol	nazwa pospolita	
+DVD	DVD	subst:pl:loc:n:ncol	nazwa pospolita	
+DVD	DVD	subst:pl:nom:n:ncol	nazwa pospolita	
+DVD	DVD	subst:pl:voc:n:ncol	nazwa pospolita	
+DVD	DVD	subst:sg:acc:n:ncol	nazwa pospolita	
+DVD	DVD	subst:sg:dat:n:ncol	nazwa pospolita	
+DVD	DVD	subst:sg:gen:n:ncol	nazwa pospolita	
+DVD	DVD	subst:sg:inst:n:ncol	nazwa pospolita	
+DVD	DVD	subst:sg:loc:n:ncol	nazwa pospolita	
+DVD	DVD	subst:sg:nom:n:ncol	nazwa pospolita	
+DVD	DVD	subst:sg:voc:n:ncol	nazwa pospolita	
 DVD-ROM-ach	DVD-ROM	subst:pl:loc:m3	nazwa pospolita	komp.
 DVD-ROM-ami	DVD-ROM	subst:pl:inst:m3	nazwa pospolita	komp.
 DVD-ROM	DVD-ROM	subst:sg:acc:m3	nazwa pospolita	komp.
@@ -6339,22 +6339,22 @@ Dygatów	Dygat	subst:pl:acc:m1	nazwisko
 Dygatów	Dygat	subst:pl:gen:m1	nazwisko	
 Dygaty	Dygat	depr:pl:nom:m2	nazwisko	
 Dygaty	Dygat	depr:pl:voc:m2	nazwisko	
-Dygowach	Dygowo	subst:pl:loc:n2	nazwa geograficzna	
-Dygowa	Dygowo	subst:pl:acc:n2	nazwa geograficzna	
-Dygowa	Dygowo	subst:pl:nom:n2	nazwa geograficzna	
-Dygowa	Dygowo	subst:pl:voc:n2	nazwa geograficzna	
-Dygowa	Dygowo	subst:sg:gen:n2	nazwa geograficzna	
-Dygowami	Dygowo	subst:pl:inst:n2	nazwa geograficzna	
-Dygow	Dygowo	subst:pl:gen:n2	nazwa geograficzna	
-Dygowem	Dygowo	subst:sg:inst:n2	nazwa geograficzna	
-Dygowie	Dygowo	subst:sg:loc:n2	nazwa geograficzna	
-Dygowo	Dygowo	subst:sg:acc:n2	nazwa geograficzna	
-Dygowo	Dygowo	subst:sg:nom:n2	nazwa geograficzna	
-Dygowo	Dygowo	subst:sg:voc:n2	nazwa geograficzna	
-Dygowom	Dygowo	subst:pl:dat:n2	nazwa geograficzna	
-Dygowów	Dygowo	subst:pl:gen:n2	nazwa geograficzna	
-Dygowu	Dygowo	subst:sg:dat:n2	nazwa geograficzna	
-Dygów	Dygowo	subst:pl:gen:n2	nazwa geograficzna	
+Dygowach	Dygowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Dygowa	Dygowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Dygowa	Dygowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Dygowa	Dygowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Dygowa	Dygowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Dygowami	Dygowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Dygow	Dygowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dygowem	Dygowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Dygowie	Dygowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Dygowo	Dygowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Dygowo	Dygowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Dygowo	Dygowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Dygowom	Dygowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Dygowów	Dygowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dygowu	Dygowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Dygów	Dygowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Dykielach	Dykiel	subst:pl:loc:m1	nazwisko	
 Dykiela	Dykiel	subst:sg:acc:m1	nazwisko	
 Dykiela	Dykiel	subst:sg:gen:m1	nazwisko	
@@ -6387,20 +6387,20 @@ Dylanów	Dylan	subst:pl:acc:m1	nazwisko
 Dylanów	Dylan	subst:pl:gen:m1	nazwisko	
 Dylany	Dylan	depr:pl:nom:m2	nazwisko	
 Dylany	Dylan	depr:pl:voc:m2	nazwisko	
-Dylewach	Dylewo	subst:pl:loc:n2	nazwa geograficzna	
-Dylewa	Dylewo	subst:pl:acc:n2	nazwa geograficzna	
-Dylewa	Dylewo	subst:pl:nom:n2	nazwa geograficzna	
-Dylewa	Dylewo	subst:pl:voc:n2	nazwa geograficzna	
-Dylewa	Dylewo	subst:sg:gen:n2	nazwa geograficzna	
-Dylewami	Dylewo	subst:pl:inst:n2	nazwa geograficzna	
-Dylew	Dylewo	subst:pl:gen:n2	nazwa geograficzna	
-Dylewem	Dylewo	subst:sg:inst:n2	nazwa geograficzna	
-Dylewie	Dylewo	subst:sg:loc:n2	nazwa geograficzna	
-Dylewo	Dylewo	subst:sg:acc:n2	nazwa geograficzna	
-Dylewo	Dylewo	subst:sg:nom:n2	nazwa geograficzna	
-Dylewo	Dylewo	subst:sg:voc:n2	nazwa geograficzna	
-Dylewom	Dylewo	subst:pl:dat:n2	nazwa geograficzna	
-Dylewu	Dylewo	subst:sg:dat:n2	nazwa geograficzna	
+Dylewach	Dylewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Dylewa	Dylewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Dylewa	Dylewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Dylewa	Dylewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Dylewa	Dylewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Dylewami	Dylewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Dylew	Dylewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dylewem	Dylewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Dylewie	Dylewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Dylewo	Dylewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Dylewo	Dylewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Dylewo	Dylewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Dylewom	Dylewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Dylewu	Dylewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Dylewska	Dylewska	subst:sg:nom:f	nazwisko	
 Dylewska	Dylewska	subst:sg:voc:f	nazwisko	
 Dylewską	Dylewska	subst:sg:acc:f	nazwisko	
@@ -6622,20 +6622,20 @@ Dyziowi	Dyź	subst:sg:dat:m1	imię
 Dyziu	Dyź	subst:sg:loc:m1	imię	
 Dyziu	Dyź	subst:sg:voc:m1	imię	
 Dyź	Dyź	subst:sg:nom:m1	imię	
-Dziadkowicach	Dziadkowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Dziadkowicach	Dziadkowice	subst:pl:loc:p3	nazwa geograficzna	
-Dziadkowicami	Dziadkowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Dziadkowicami	Dziadkowice	subst:pl:inst:p3	nazwa geograficzna	
-Dziadkowic	Dziadkowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Dziadkowic	Dziadkowice	subst:pl:gen:p3	nazwa geograficzna	
-Dziadkowice	Dziadkowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Dziadkowice	Dziadkowice	subst:pl:acc:p3	nazwa geograficzna	
-Dziadkowice	Dziadkowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Dziadkowice	Dziadkowice	subst:pl:nom:p3	nazwa geograficzna	
-Dziadkowice	Dziadkowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Dziadkowice	Dziadkowice	subst:pl:voc:p3	nazwa geograficzna	
-Dziadkowicom	Dziadkowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Dziadkowicom	Dziadkowice	subst:pl:dat:p3	nazwa geograficzna	
+Dziadkowicach	Dziadkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Dziadkowicach	Dziadkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Dziadkowicami	Dziadkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Dziadkowicami	Dziadkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Dziadkowic	Dziadkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Dziadkowic	Dziadkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Dziadkowice	Dziadkowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Dziadkowice	Dziadkowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Dziadkowice	Dziadkowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Dziadkowice	Dziadkowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Dziadkowice	Dziadkowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Dziadkowice	Dziadkowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Dziadkowicom	Dziadkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Dziadkowicom	Dziadkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Dziadkowcach	Dziadkowiec	subst:pl:loc:m1	nazwisko	
 Dziadkowca	Dziadkowiec	subst:sg:acc:m1	nazwisko	
 Dziadkowca	Dziadkowiec	subst:sg:gen:m1	nazwisko	
@@ -6668,36 +6668,36 @@ Dziadoszaninowi	Dziadoszanin	subst:sg:dat:m1	nazwa pospolita
 Dziadoszanom	Dziadoszanin	subst:pl:dat:m1	nazwa pospolita	
 Dziadoszany	Dziadoszanin	depr:pl:nom:m2	nazwa pospolita	
 Dziadoszany	Dziadoszanin	depr:pl:voc:m2	nazwa pospolita	
-Działdowach	Działdowo	subst:pl:loc:n2	nazwa geograficzna	
-Działdowa	Działdowo	subst:pl:acc:n2	nazwa geograficzna	
-Działdowa	Działdowo	subst:pl:nom:n2	nazwa geograficzna	
-Działdowa	Działdowo	subst:pl:voc:n2	nazwa geograficzna	
-Działdowa	Działdowo	subst:sg:gen:n2	nazwa geograficzna	
-Działdowami	Działdowo	subst:pl:inst:n2	nazwa geograficzna	
-Działdow	Działdowo	subst:pl:gen:n2	nazwa geograficzna	
-Działdowem	Działdowo	subst:sg:inst:n2	nazwa geograficzna	
-Działdowie	Działdowo	subst:sg:loc:n2	nazwa geograficzna	
-Działdowo	Działdowo	subst:sg:acc:n2	nazwa geograficzna	
-Działdowo	Działdowo	subst:sg:nom:n2	nazwa geograficzna	
-Działdowo	Działdowo	subst:sg:voc:n2	nazwa geograficzna	
-Działdowom	Działdowo	subst:pl:dat:n2	nazwa geograficzna	
-Działdowów	Działdowo	subst:pl:gen:n2	nazwa geograficzna	
-Działdowu	Działdowo	subst:sg:dat:n2	nazwa geograficzna	
-Działdów	Działdowo	subst:pl:gen:n2	nazwa geograficzna	
-Działoszycach	Działoszyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Działoszycach	Działoszyce	subst:pl:loc:p3	nazwa geograficzna	
-Działoszycami	Działoszyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Działoszycami	Działoszyce	subst:pl:inst:p3	nazwa geograficzna	
-Działoszyc	Działoszyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Działoszyc	Działoszyce	subst:pl:gen:p3	nazwa geograficzna	
-Działoszyce	Działoszyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Działoszyce	Działoszyce	subst:pl:acc:p3	nazwa geograficzna	
-Działoszyce	Działoszyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Działoszyce	Działoszyce	subst:pl:nom:p3	nazwa geograficzna	
-Działoszyce	Działoszyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Działoszyce	Działoszyce	subst:pl:voc:p3	nazwa geograficzna	
-Działoszycom	Działoszyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Działoszycom	Działoszyce	subst:pl:dat:p3	nazwa geograficzna	
+Działdowach	Działdowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Działdowa	Działdowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Działdowa	Działdowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Działdowa	Działdowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Działdowa	Działdowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Działdowami	Działdowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Działdow	Działdowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Działdowem	Działdowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Działdowie	Działdowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Działdowo	Działdowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Działdowo	Działdowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Działdowo	Działdowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Działdowom	Działdowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Działdowów	Działdowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Działdowu	Działdowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Działdów	Działdowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Działoszycach	Działoszyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Działoszycach	Działoszyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Działoszycami	Działoszyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Działoszycami	Działoszyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Działoszyc	Działoszyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Działoszyc	Działoszyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Działoszyce	Działoszyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Działoszyce	Działoszyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Działoszyce	Działoszyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Działoszyce	Działoszyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Działoszyce	Działoszyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Działoszyce	Działoszyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Działoszycom	Działoszyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Działoszycom	Działoszyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Działoszynach	Działoszyn	subst:pl:loc:m3	nazwa geograficzna	
 Działoszyna	Działoszyn	subst:sg:gen:m3	nazwa geograficzna	
 Działoszynami	Działoszyn	subst:pl:inst:m3	nazwa geograficzna	
@@ -6807,36 +6807,36 @@ Dzierzgoniu	Dzierzgoń	subst:sg:loc:m3	nazwa geograficzna
 Dzierzgoniu	Dzierzgoń	subst:sg:voc:m3	nazwa geograficzna	
 Dzierzgoń	Dzierzgoń	subst:sg:acc:m3	nazwa geograficzna	
 Dzierzgoń	Dzierzgoń	subst:sg:nom:m3	nazwa geograficzna	
-Dzierzgowach	Dzierzgowo	subst:pl:loc:n2	nazwa geograficzna	
-Dzierzgowa	Dzierzgowo	subst:pl:acc:n2	nazwa geograficzna	
-Dzierzgowa	Dzierzgowo	subst:pl:nom:n2	nazwa geograficzna	
-Dzierzgowa	Dzierzgowo	subst:pl:voc:n2	nazwa geograficzna	
-Dzierzgowa	Dzierzgowo	subst:sg:gen:n2	nazwa geograficzna	
-Dzierzgowami	Dzierzgowo	subst:pl:inst:n2	nazwa geograficzna	
-Dzierzgow	Dzierzgowo	subst:pl:gen:n2	nazwa geograficzna	
-Dzierzgowem	Dzierzgowo	subst:sg:inst:n2	nazwa geograficzna	
-Dzierzgowie	Dzierzgowo	subst:sg:loc:n2	nazwa geograficzna	
-Dzierzgowo	Dzierzgowo	subst:sg:acc:n2	nazwa geograficzna	
-Dzierzgowo	Dzierzgowo	subst:sg:nom:n2	nazwa geograficzna	
-Dzierzgowo	Dzierzgowo	subst:sg:voc:n2	nazwa geograficzna	
-Dzierzgowom	Dzierzgowo	subst:pl:dat:n2	nazwa geograficzna	
-Dzierzgowów	Dzierzgowo	subst:pl:gen:n2	nazwa geograficzna	
-Dzierzgowu	Dzierzgowo	subst:sg:dat:n2	nazwa geograficzna	
-Dzierzgów	Dzierzgowo	subst:pl:gen:n2	nazwa geograficzna	
-Dzierzkowicach	Dzierzkowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Dzierzkowicach	Dzierzkowice	subst:pl:loc:p3	nazwa geograficzna	
-Dzierzkowicami	Dzierzkowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Dzierzkowicami	Dzierzkowice	subst:pl:inst:p3	nazwa geograficzna	
-Dzierzkowic	Dzierzkowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Dzierzkowic	Dzierzkowice	subst:pl:gen:p3	nazwa geograficzna	
-Dzierzkowice	Dzierzkowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Dzierzkowice	Dzierzkowice	subst:pl:acc:p3	nazwa geograficzna	
-Dzierzkowice	Dzierzkowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Dzierzkowice	Dzierzkowice	subst:pl:nom:p3	nazwa geograficzna	
-Dzierzkowice	Dzierzkowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Dzierzkowice	Dzierzkowice	subst:pl:voc:p3	nazwa geograficzna	
-Dzierzkowicom	Dzierzkowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Dzierzkowicom	Dzierzkowice	subst:pl:dat:p3	nazwa geograficzna	
+Dzierzgowach	Dzierzgowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Dzierzgowa	Dzierzgowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Dzierzgowa	Dzierzgowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Dzierzgowa	Dzierzgowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Dzierzgowa	Dzierzgowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Dzierzgowami	Dzierzgowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Dzierzgow	Dzierzgowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dzierzgowem	Dzierzgowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Dzierzgowie	Dzierzgowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Dzierzgowo	Dzierzgowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Dzierzgowo	Dzierzgowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Dzierzgowo	Dzierzgowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Dzierzgowom	Dzierzgowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Dzierzgowów	Dzierzgowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dzierzgowu	Dzierzgowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Dzierzgów	Dzierzgowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Dzierzkowicach	Dzierzkowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Dzierzkowicach	Dzierzkowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Dzierzkowicami	Dzierzkowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Dzierzkowicami	Dzierzkowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Dzierzkowic	Dzierzkowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Dzierzkowic	Dzierzkowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Dzierzkowice	Dzierzkowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Dzierzkowice	Dzierzkowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Dzierzkowice	Dzierzkowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Dzierzkowice	Dzierzkowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Dzierzkowice	Dzierzkowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Dzierzkowice	Dzierzkowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Dzierzkowicom	Dzierzkowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Dzierzkowicom	Dzierzkowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Dzierżoniowach	Dzierżoniów	subst:pl:loc:m3	nazwa geograficzna	
 Dzierżoniowa	Dzierżoniów	subst:sg:gen:m3	nazwa geograficzna	
 Dzierżoniowami	Dzierżoniów	subst:pl:inst:m3	nazwa geograficzna	

@@ -31,22 +31,22 @@ IBL-u	IBL	subst:sg:voc:m3	nazwa instytucji
 IBM-ach	IBM	subst:pl:loc:m3	nazwa firmy	
 IBM-ami	IBM	subst:pl:inst:m3	nazwa firmy	
 IBM-em	IBM	subst:sg:inst:m3	nazwa firmy	
-IBM	IBM	subst:pl:acc:n2	nazwa firmy	
-IBM	IBM	subst:pl:dat:n2	nazwa firmy	
-IBM	IBM	subst:pl:gen:n2	nazwa firmy	
-IBM	IBM	subst:pl:inst:n2	nazwa firmy	
-IBM	IBM	subst:pl:loc:n2	nazwa firmy	
-IBM	IBM	subst:pl:nom:n2	nazwa firmy	
-IBM	IBM	subst:pl:voc:n2	nazwa firmy	
+IBM	IBM	subst:pl:acc:n:ncol	nazwa firmy	
+IBM	IBM	subst:pl:dat:n:ncol	nazwa firmy	
+IBM	IBM	subst:pl:gen:n:ncol	nazwa firmy	
+IBM	IBM	subst:pl:inst:n:ncol	nazwa firmy	
+IBM	IBM	subst:pl:loc:n:ncol	nazwa firmy	
+IBM	IBM	subst:pl:nom:n:ncol	nazwa firmy	
+IBM	IBM	subst:pl:voc:n:ncol	nazwa firmy	
 IBM	IBM	subst:sg:acc:m3	nazwa firmy	
-IBM	IBM	subst:sg:acc:n2	nazwa firmy	
-IBM	IBM	subst:sg:dat:n2	nazwa firmy	
-IBM	IBM	subst:sg:gen:n2	nazwa firmy	
-IBM	IBM	subst:sg:inst:n2	nazwa firmy	
-IBM	IBM	subst:sg:loc:n2	nazwa firmy	
+IBM	IBM	subst:sg:acc:n:ncol	nazwa firmy	
+IBM	IBM	subst:sg:dat:n:ncol	nazwa firmy	
+IBM	IBM	subst:sg:gen:n:ncol	nazwa firmy	
+IBM	IBM	subst:sg:inst:n:ncol	nazwa firmy	
+IBM	IBM	subst:sg:loc:n:ncol	nazwa firmy	
 IBM	IBM	subst:sg:nom:m3	nazwa firmy	
-IBM	IBM	subst:sg:nom:n2	nazwa firmy	
-IBM	IBM	subst:sg:voc:n2	nazwa firmy	
+IBM	IBM	subst:sg:nom:n:ncol	nazwa firmy	
+IBM	IBM	subst:sg:voc:n:ncol	nazwa firmy	
 IBM-ie	IBM	subst:sg:loc:m3	nazwa firmy	
 IBM-ie	IBM	subst:sg:voc:m3	nazwa firmy	
 IBM-om	IBM	subst:pl:dat:m3	nazwa firmy	
@@ -160,20 +160,20 @@ Idy	Ida	subst:pl:voc:f	imię
 Idy	Ida	subst:sg:gen:f	imię	
 Idzie	Ida	subst:sg:dat:f	imię	
 Idzie	Ida	subst:sg:loc:f	imię	
-Idaho	Idaho	subst:pl:acc:n2	nazwa geograficzna	
-Idaho	Idaho	subst:pl:dat:n2	nazwa geograficzna	
-Idaho	Idaho	subst:pl:gen:n2	nazwa geograficzna	
-Idaho	Idaho	subst:pl:inst:n2	nazwa geograficzna	
-Idaho	Idaho	subst:pl:loc:n2	nazwa geograficzna	
-Idaho	Idaho	subst:pl:nom:n2	nazwa geograficzna	
-Idaho	Idaho	subst:pl:voc:n2	nazwa geograficzna	
-Idaho	Idaho	subst:sg:acc:n2	nazwa geograficzna	
-Idaho	Idaho	subst:sg:dat:n2	nazwa geograficzna	
-Idaho	Idaho	subst:sg:gen:n2	nazwa geograficzna	
-Idaho	Idaho	subst:sg:inst:n2	nazwa geograficzna	
-Idaho	Idaho	subst:sg:loc:n2	nazwa geograficzna	
-Idaho	Idaho	subst:sg:nom:n2	nazwa geograficzna	
-Idaho	Idaho	subst:sg:voc:n2	nazwa geograficzna	
+Idaho	Idaho	subst:pl:acc:n:ncol	nazwa geograficzna	
+Idaho	Idaho	subst:pl:dat:n:ncol	nazwa geograficzna	
+Idaho	Idaho	subst:pl:gen:n:ncol	nazwa geograficzna	
+Idaho	Idaho	subst:pl:inst:n:ncol	nazwa geograficzna	
+Idaho	Idaho	subst:pl:loc:n:ncol	nazwa geograficzna	
+Idaho	Idaho	subst:pl:nom:n:ncol	nazwa geograficzna	
+Idaho	Idaho	subst:pl:voc:n:ncol	nazwa geograficzna	
+Idaho	Idaho	subst:sg:acc:n:ncol	nazwa geograficzna	
+Idaho	Idaho	subst:sg:dat:n:ncol	nazwa geograficzna	
+Idaho	Idaho	subst:sg:gen:n:ncol	nazwa geograficzna	
+Idaho	Idaho	subst:sg:inst:n:ncol	nazwa geograficzna	
+Idaho	Idaho	subst:sg:loc:n:ncol	nazwa geograficzna	
+Idaho	Idaho	subst:sg:nom:n:ncol	nazwa geograficzna	
+Idaho	Idaho	subst:sg:voc:n:ncol	nazwa geograficzna	
 Idaliach	Idalia	subst:pl:loc:f	imię	
 Idalia	Idalia	subst:sg:nom:f	imię	
 Idaliami	Idalia	subst:pl:inst:f	imię	
@@ -190,33 +190,33 @@ Idalij	Idalia	subst:pl:gen:f	imię	arch.|char.
 Idalio	Idalia	subst:sg:voc:f	imię	
 Idaliom	Idalia	subst:pl:dat:f	imię	
 IDE	IDE	subst:pl:acc:m3	nazwa instytucji	
-IDE	IDE	subst:pl:acc:n2	nazwa instytucji	
+IDE	IDE	subst:pl:acc:n:ncol	nazwa instytucji	
 IDE	IDE	subst:pl:dat:m3	nazwa instytucji	
-IDE	IDE	subst:pl:dat:n2	nazwa instytucji	
+IDE	IDE	subst:pl:dat:n:ncol	nazwa instytucji	
 IDE	IDE	subst:pl:gen:m3	nazwa instytucji	
-IDE	IDE	subst:pl:gen:n2	nazwa instytucji	
+IDE	IDE	subst:pl:gen:n:ncol	nazwa instytucji	
 IDE	IDE	subst:pl:inst:m3	nazwa instytucji	
-IDE	IDE	subst:pl:inst:n2	nazwa instytucji	
+IDE	IDE	subst:pl:inst:n:ncol	nazwa instytucji	
 IDE	IDE	subst:pl:loc:m3	nazwa instytucji	
-IDE	IDE	subst:pl:loc:n2	nazwa instytucji	
+IDE	IDE	subst:pl:loc:n:ncol	nazwa instytucji	
 IDE	IDE	subst:pl:nom:m3	nazwa instytucji	
-IDE	IDE	subst:pl:nom:n2	nazwa instytucji	
+IDE	IDE	subst:pl:nom:n:ncol	nazwa instytucji	
 IDE	IDE	subst:pl:voc:m3	nazwa instytucji	
-IDE	IDE	subst:pl:voc:n2	nazwa instytucji	
+IDE	IDE	subst:pl:voc:n:ncol	nazwa instytucji	
 IDE	IDE	subst:sg:acc:m3	nazwa instytucji	
-IDE	IDE	subst:sg:acc:n2	nazwa instytucji	
+IDE	IDE	subst:sg:acc:n:ncol	nazwa instytucji	
 IDE	IDE	subst:sg:dat:m3	nazwa instytucji	
-IDE	IDE	subst:sg:dat:n2	nazwa instytucji	
+IDE	IDE	subst:sg:dat:n:ncol	nazwa instytucji	
 IDE	IDE	subst:sg:gen:m3	nazwa instytucji	
-IDE	IDE	subst:sg:gen:n2	nazwa instytucji	
+IDE	IDE	subst:sg:gen:n:ncol	nazwa instytucji	
 IDE	IDE	subst:sg:inst:m3	nazwa instytucji	
-IDE	IDE	subst:sg:inst:n2	nazwa instytucji	
+IDE	IDE	subst:sg:inst:n:ncol	nazwa instytucji	
 IDE	IDE	subst:sg:loc:m3	nazwa instytucji	
-IDE	IDE	subst:sg:loc:n2	nazwa instytucji	
+IDE	IDE	subst:sg:loc:n:ncol	nazwa instytucji	
 IDE	IDE	subst:sg:nom:m3	nazwa instytucji	
-IDE	IDE	subst:sg:nom:n2	nazwa instytucji	
+IDE	IDE	subst:sg:nom:n:ncol	nazwa instytucji	
 IDE	IDE	subst:sg:voc:m3	nazwa instytucji	
-IDE	IDE	subst:sg:voc:n2	nazwa instytucji	
+IDE	IDE	subst:sg:voc:n:ncol	nazwa instytucji	
 Idzich	Idzi	subst:pl:acc:m1	imię	
 Idzich	Idzi	subst:pl:gen:m1	imię	
 Idzich	Idzi	subst:pl:loc:m1	imię	
@@ -714,20 +714,20 @@ Iljiczów	Iljicz	subst:pl:acc:m1	patronimicum
 Iljiczów	Iljicz	subst:pl:gen:m1	patronimicum	
 Iljiczu	Iljicz	subst:sg:loc:m1	patronimicum	
 Iljiczu	Iljicz	subst:sg:voc:m1	patronimicum	
-Illinois	Illinois	subst:pl:acc:n2	nazwa geograficzna	
-Illinois	Illinois	subst:pl:dat:n2	nazwa geograficzna	
-Illinois	Illinois	subst:pl:gen:n2	nazwa geograficzna	
-Illinois	Illinois	subst:pl:inst:n2	nazwa geograficzna	
-Illinois	Illinois	subst:pl:loc:n2	nazwa geograficzna	
-Illinois	Illinois	subst:pl:nom:n2	nazwa geograficzna	
-Illinois	Illinois	subst:pl:voc:n2	nazwa geograficzna	
-Illinois	Illinois	subst:sg:acc:n2	nazwa geograficzna	
-Illinois	Illinois	subst:sg:dat:n2	nazwa geograficzna	
-Illinois	Illinois	subst:sg:gen:n2	nazwa geograficzna	
-Illinois	Illinois	subst:sg:inst:n2	nazwa geograficzna	
-Illinois	Illinois	subst:sg:loc:n2	nazwa geograficzna	
-Illinois	Illinois	subst:sg:nom:n2	nazwa geograficzna	
-Illinois	Illinois	subst:sg:voc:n2	nazwa geograficzna	
+Illinois	Illinois	subst:pl:acc:n:ncol	nazwa geograficzna	
+Illinois	Illinois	subst:pl:dat:n:ncol	nazwa geograficzna	
+Illinois	Illinois	subst:pl:gen:n:ncol	nazwa geograficzna	
+Illinois	Illinois	subst:pl:inst:n:ncol	nazwa geograficzna	
+Illinois	Illinois	subst:pl:loc:n:ncol	nazwa geograficzna	
+Illinois	Illinois	subst:pl:nom:n:ncol	nazwa geograficzna	
+Illinois	Illinois	subst:pl:voc:n:ncol	nazwa geograficzna	
+Illinois	Illinois	subst:sg:acc:n:ncol	nazwa geograficzna	
+Illinois	Illinois	subst:sg:dat:n:ncol	nazwa geograficzna	
+Illinois	Illinois	subst:sg:gen:n:ncol	nazwa geograficzna	
+Illinois	Illinois	subst:sg:inst:n:ncol	nazwa geograficzna	
+Illinois	Illinois	subst:sg:loc:n:ncol	nazwa geograficzna	
+Illinois	Illinois	subst:sg:nom:n:ncol	nazwa geograficzna	
+Illinois	Illinois	subst:sg:voc:n:ncol	nazwa geograficzna	
 Ilonach	Ilona	subst:pl:loc:f	imię	
 Ilona	Ilona	subst:sg:nom:f	imię	
 Ilonami	Ilona	subst:pl:inst:f	imię	
@@ -798,22 +798,22 @@ Iłłakowiczówny	Iłłakowiczówna	subst:pl:acc:f	nazwisko
 Iłłakowiczówny	Iłłakowiczówna	subst:pl:nom:f	nazwisko	
 Iłłakowiczówny	Iłłakowiczówna	subst:pl:voc:f	nazwisko	
 Iłłakowiczówny	Iłłakowiczówna	subst:sg:gen:f	nazwisko	
-Iłowach	Iłowo	subst:pl:loc:n2	nazwa geograficzna	
-Iłowa	Iłowo	subst:pl:acc:n2	nazwa geograficzna	
-Iłowa	Iłowo	subst:pl:nom:n2	nazwa geograficzna	
-Iłowa	Iłowo	subst:pl:voc:n2	nazwa geograficzna	
-Iłowa	Iłowo	subst:sg:gen:n2	nazwa geograficzna	
-Iłowami	Iłowo	subst:pl:inst:n2	nazwa geograficzna	
-Iłowem	Iłowo	subst:sg:inst:n2	nazwa geograficzna	
-Iłowie	Iłowo	subst:sg:loc:n2	nazwa geograficzna	
-Iłow	Iłowo	subst:pl:gen:n2	nazwa geograficzna	
-Iłowo	Iłowo	subst:sg:acc:n2	nazwa geograficzna	
-Iłowo	Iłowo	subst:sg:nom:n2	nazwa geograficzna	
-Iłowo	Iłowo	subst:sg:voc:n2	nazwa geograficzna	
-Iłowom	Iłowo	subst:pl:dat:n2	nazwa geograficzna	
-Iłowów	Iłowo	subst:pl:gen:n2	nazwa geograficzna	
-Iłowu	Iłowo	subst:sg:dat:n2	nazwa geograficzna	
-Iłów	Iłowo	subst:pl:gen:n2	nazwa geograficzna	
+Iłowach	Iłowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Iłowa	Iłowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Iłowa	Iłowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Iłowa	Iłowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Iłowa	Iłowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Iłowami	Iłowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Iłowem	Iłowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Iłowie	Iłowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Iłow	Iłowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Iłowo	Iłowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Iłowo	Iłowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Iłowo	Iłowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Iłowom	Iłowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Iłowów	Iłowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Iłowu	Iłowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Iłów	Iłowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Iłowach	Iłów	subst:pl:loc:m3	nazwa geograficzna	
 Iłowa	Iłów	subst:sg:gen:m3	nazwa geograficzna	
 Iłowami	Iłów	subst:pl:inst:m3	nazwa geograficzna	
@@ -1024,36 +1024,36 @@ Indianki	Indianka	subst:pl:voc:f	nazwa pospolita
 Indianki	Indianka	subst:sg:gen:f	nazwa pospolita	
 Indianko	Indianka	subst:sg:voc:f	nazwa pospolita	
 Indiankom	Indianka	subst:pl:dat:f	nazwa pospolita	
-Indiach	Indie	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Indiach	Indie	subst:pl:loc:p3	nazwa geograficzna	
-Indiami	Indie	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Indiami	Indie	subst:pl:inst:p3	nazwa geograficzna	
-Indie	Indie	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Indie	Indie	subst:pl:acc:p3	nazwa geograficzna	
-Indie	Indie	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Indie	Indie	subst:pl:nom:p3	nazwa geograficzna	
-Indie	Indie	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Indie	Indie	subst:pl:voc:p3	nazwa geograficzna	
-Indii	Indie	subst:pl:gen:p2	nazwa geograficzna	hom.|rzad.
-Indii	Indie	subst:pl:gen:p3	nazwa geograficzna	hom.
-Indiom	Indie	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Indiom	Indie	subst:pl:dat:p3	nazwa geograficzna	
-Indyj	Indie	subst:pl:gen:p2	nazwa geograficzna	arch.|char.|rzad.
-Indyj	Indie	subst:pl:gen:p3	nazwa geograficzna	arch.|char.
-Indochinach	Indochiny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Indochinach	Indochiny	subst:pl:loc:p3	nazwa geograficzna	
-Indochinami	Indochiny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Indochinami	Indochiny	subst:pl:inst:p3	nazwa geograficzna	
-Indochin	Indochiny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Indochin	Indochiny	subst:pl:gen:p3	nazwa geograficzna	
-Indochinom	Indochiny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Indochinom	Indochiny	subst:pl:dat:p3	nazwa geograficzna	
-Indochiny	Indochiny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Indochiny	Indochiny	subst:pl:acc:p3	nazwa geograficzna	
-Indochiny	Indochiny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Indochiny	Indochiny	subst:pl:nom:p3	nazwa geograficzna	
-Indochiny	Indochiny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Indochiny	Indochiny	subst:pl:voc:p3	nazwa geograficzna	
+Indiach	Indie	subst:pl:loc:n:pt	nazwa geograficzna	
+Indiach	Indie	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Indiami	Indie	subst:pl:inst:n:pt	nazwa geograficzna	
+Indiami	Indie	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Indie	Indie	subst:pl:acc:n:pt	nazwa geograficzna	
+Indie	Indie	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Indie	Indie	subst:pl:nom:n:pt	nazwa geograficzna	
+Indie	Indie	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Indie	Indie	subst:pl:voc:n:pt	nazwa geograficzna	
+Indie	Indie	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Indii	Indie	subst:pl:gen:n:pt	nazwa geograficzna	hom.
+Indii	Indie	subst:pl:gen:n:pt	nazwa geograficzna	hom.|rzad.
+Indiom	Indie	subst:pl:dat:n:pt	nazwa geograficzna	
+Indiom	Indie	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Indyj	Indie	subst:pl:gen:n:pt	nazwa geograficzna	arch.|char.
+Indyj	Indie	subst:pl:gen:n:pt	nazwa geograficzna	arch.|char.|rzad.
+Indochinach	Indochiny	subst:pl:loc:n:pt	nazwa geograficzna	
+Indochinach	Indochiny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Indochinami	Indochiny	subst:pl:inst:n:pt	nazwa geograficzna	
+Indochinami	Indochiny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Indochin	Indochiny	subst:pl:gen:n:pt	nazwa geograficzna	
+Indochin	Indochiny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Indochinom	Indochiny	subst:pl:dat:n:pt	nazwa geograficzna	
+Indochinom	Indochiny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Indochiny	Indochiny	subst:pl:acc:n:pt	nazwa geograficzna	
+Indochiny	Indochiny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Indochiny	Indochiny	subst:pl:nom:n:pt	nazwa geograficzna	
+Indochiny	Indochiny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Indochiny	Indochiny	subst:pl:voc:n:pt	nazwa geograficzna	
+Indochiny	Indochiny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Indonezjach	Indonezja	subst:pl:loc:f	nazwa geograficzna	
 Indonezja	Indonezja	subst:sg:nom:f	nazwa geograficzna	
 Indonezjami	Indonezja	subst:pl:inst:f	nazwa geograficzna	
@@ -1161,20 +1161,20 @@ Inflantczyków	Inflantczyk	subst:pl:acc:m1	nazwa pospolita
 Inflantczyków	Inflantczyk	subst:pl:gen:m1	nazwa pospolita	
 Inflantczyku	Inflantczyk	subst:sg:loc:m1	nazwa pospolita	
 Inflantczyku	Inflantczyk	subst:sg:voc:m1	nazwa pospolita	
-Inflantach	Inflanty	subst:pl:loc:p2	nazwa geograficzna	rzad.|hist.
-Inflantach	Inflanty	subst:pl:loc:p3	nazwa geograficzna	hist.
-Inflantami	Inflanty	subst:pl:inst:p2	nazwa geograficzna	rzad.|hist.
-Inflantami	Inflanty	subst:pl:inst:p3	nazwa geograficzna	hist.
-Inflant	Inflanty	subst:pl:gen:p2	nazwa geograficzna	rzad.|hist.
-Inflant	Inflanty	subst:pl:gen:p3	nazwa geograficzna	hist.
-Inflantom	Inflanty	subst:pl:dat:p2	nazwa geograficzna	rzad.|hist.
-Inflantom	Inflanty	subst:pl:dat:p3	nazwa geograficzna	hist.
-Inflanty	Inflanty	subst:pl:acc:p2	nazwa geograficzna	rzad.|hist.
-Inflanty	Inflanty	subst:pl:acc:p3	nazwa geograficzna	hist.
-Inflanty	Inflanty	subst:pl:nom:p2	nazwa geograficzna	rzad.|hist.
-Inflanty	Inflanty	subst:pl:nom:p3	nazwa geograficzna	hist.
-Inflanty	Inflanty	subst:pl:voc:p2	nazwa geograficzna	rzad.|hist.
-Inflanty	Inflanty	subst:pl:voc:p3	nazwa geograficzna	hist.
+Inflantach	Inflanty	subst:pl:loc:n:pt	nazwa geograficzna	hist.
+Inflantach	Inflanty	subst:pl:loc:n:pt	nazwa geograficzna	rzad.|hist.
+Inflantami	Inflanty	subst:pl:inst:n:pt	nazwa geograficzna	hist.
+Inflantami	Inflanty	subst:pl:inst:n:pt	nazwa geograficzna	rzad.|hist.
+Inflant	Inflanty	subst:pl:gen:n:pt	nazwa geograficzna	hist.
+Inflant	Inflanty	subst:pl:gen:n:pt	nazwa geograficzna	rzad.|hist.
+Inflantom	Inflanty	subst:pl:dat:n:pt	nazwa geograficzna	hist.
+Inflantom	Inflanty	subst:pl:dat:n:pt	nazwa geograficzna	rzad.|hist.
+Inflanty	Inflanty	subst:pl:acc:n:pt	nazwa geograficzna	hist.
+Inflanty	Inflanty	subst:pl:acc:n:pt	nazwa geograficzna	rzad.|hist.
+Inflanty	Inflanty	subst:pl:nom:n:pt	nazwa geograficzna	hist.
+Inflanty	Inflanty	subst:pl:nom:n:pt	nazwa geograficzna	rzad.|hist.
+Inflanty	Inflanty	subst:pl:voc:n:pt	nazwa geograficzna	hist.
+Inflanty	Inflanty	subst:pl:voc:n:pt	nazwa geograficzna	rzad.|hist.
 Indze	Inga	subst:sg:dat:f	imię	
 Indze	Inga	subst:sg:loc:f	imię	
 Ingach	Inga	subst:pl:loc:f	imię	
@@ -1405,33 +1405,33 @@ Intelów	Intel	subst:pl:gen:m3	nazwa firmy
 Intelu	Intel	subst:sg:loc:m3	nazwa firmy	
 Intelu	Intel	subst:sg:voc:m3	nazwa firmy	
 InterCity	InterCity	subst:pl:acc:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:pl:acc:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:pl:acc:n:ncol	marka|człon nazwy firmy	
 InterCity	InterCity	subst:pl:dat:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:pl:dat:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:pl:dat:n:ncol	marka|człon nazwy firmy	
 InterCity	InterCity	subst:pl:gen:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:pl:gen:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:pl:gen:n:ncol	marka|człon nazwy firmy	
 InterCity	InterCity	subst:pl:inst:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:pl:inst:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:pl:inst:n:ncol	marka|człon nazwy firmy	
 InterCity	InterCity	subst:pl:loc:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:pl:loc:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:pl:loc:n:ncol	marka|człon nazwy firmy	
 InterCity	InterCity	subst:pl:nom:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:pl:nom:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:pl:nom:n:ncol	marka|człon nazwy firmy	
 InterCity	InterCity	subst:pl:voc:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:pl:voc:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:pl:voc:n:ncol	marka|człon nazwy firmy	
 InterCity	InterCity	subst:sg:acc:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:sg:acc:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:sg:acc:n:ncol	marka|człon nazwy firmy	
 InterCity	InterCity	subst:sg:dat:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:sg:dat:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:sg:dat:n:ncol	marka|człon nazwy firmy	
 InterCity	InterCity	subst:sg:gen:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:sg:gen:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:sg:gen:n:ncol	marka|człon nazwy firmy	
 InterCity	InterCity	subst:sg:inst:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:sg:inst:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:sg:inst:n:ncol	marka|człon nazwy firmy	
 InterCity	InterCity	subst:sg:loc:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:sg:loc:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:sg:loc:n:ncol	marka|człon nazwy firmy	
 InterCity	InterCity	subst:sg:nom:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:sg:nom:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:sg:nom:n:ncol	marka|człon nazwy firmy	
 InterCity	InterCity	subst:sg:voc:m3	marka|człon nazwy firmy	
-InterCity	InterCity	subst:sg:voc:n2	marka|człon nazwy firmy	
+InterCity	InterCity	subst:sg:voc:n:ncol	marka|człon nazwy firmy	
 Interfaksach	Interfax	subst:pl:loc:m3	nazwa firmy	
 Interfaksami	Interfax	subst:pl:inst:m3	nazwa firmy	
 Interfaksem	Interfax	subst:sg:inst:m3	nazwa firmy	
@@ -1505,20 +1505,20 @@ Inuitki	Inuitka	subst:pl:voc:f	nazwa pospolita
 Inuitki	Inuitka	subst:sg:gen:f	nazwa pospolita	
 Inuitko	Inuitka	subst:sg:voc:f	nazwa pospolita	
 Inuitkom	Inuitka	subst:pl:dat:f	nazwa pospolita	
-Ińskach	Ińsko	subst:pl:loc:n2	nazwa geograficzna	
-Ińska	Ińsko	subst:pl:acc:n2	nazwa geograficzna	
-Ińska	Ińsko	subst:pl:nom:n2	nazwa geograficzna	
-Ińska	Ińsko	subst:pl:voc:n2	nazwa geograficzna	
-Ińska	Ińsko	subst:sg:gen:n2	nazwa geograficzna	
-Ińskami	Ińsko	subst:pl:inst:n2	nazwa geograficzna	
-Ińskiem	Ińsko	subst:sg:inst:n2	nazwa geograficzna	
-Ińsk	Ińsko	subst:pl:gen:n2	nazwa geograficzna	
-Ińsko	Ińsko	subst:sg:acc:n2	nazwa geograficzna	
-Ińsko	Ińsko	subst:sg:nom:n2	nazwa geograficzna	
-Ińsko	Ińsko	subst:sg:voc:n2	nazwa geograficzna	
-Ińskom	Ińsko	subst:pl:dat:n2	nazwa geograficzna	
-Ińsku	Ińsko	subst:sg:dat:n2	nazwa geograficzna	
-Ińsku	Ińsko	subst:sg:loc:n2	nazwa geograficzna	
+Ińskach	Ińsko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Ińska	Ińsko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Ińska	Ińsko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Ińska	Ińsko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Ińska	Ińsko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Ińskami	Ińsko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Ińskiem	Ińsko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Ińsk	Ińsko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ińsko	Ińsko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Ińsko	Ińsko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Ińsko	Ińsko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Ińskom	Ińsko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Ińsku	Ińsko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Ińsku	Ińsko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Ionesco	Ionesco	depr:pl:nom:m2	nazwisko	
 Ionesco	Ionesco	depr:pl:voc:m2	nazwisko	
 Ionesco	Ionesco	subst:pl:acc:m1	nazwisko	
@@ -1563,33 +1563,33 @@ Iowy	Iowa	subst:pl:nom:f	nazwa geograficzna
 Iowy	Iowa	subst:pl:voc:f	nazwa geograficzna	
 Iowy	Iowa	subst:sg:gen:f	nazwa geograficzna	
 IP	IP	subst:pl:acc:m3	nazwa pospolita	komp.
-IP	IP	subst:pl:acc:n2	nazwa pospolita	komp.
+IP	IP	subst:pl:acc:n:ncol	nazwa pospolita	komp.
 IP	IP	subst:pl:dat:m3	nazwa pospolita	komp.
-IP	IP	subst:pl:dat:n2	nazwa pospolita	komp.
+IP	IP	subst:pl:dat:n:ncol	nazwa pospolita	komp.
 IP	IP	subst:pl:gen:m3	nazwa pospolita	komp.
-IP	IP	subst:pl:gen:n2	nazwa pospolita	komp.
+IP	IP	subst:pl:gen:n:ncol	nazwa pospolita	komp.
 IP	IP	subst:pl:inst:m3	nazwa pospolita	komp.
-IP	IP	subst:pl:inst:n2	nazwa pospolita	komp.
+IP	IP	subst:pl:inst:n:ncol	nazwa pospolita	komp.
 IP	IP	subst:pl:loc:m3	nazwa pospolita	komp.
-IP	IP	subst:pl:loc:n2	nazwa pospolita	komp.
+IP	IP	subst:pl:loc:n:ncol	nazwa pospolita	komp.
 IP	IP	subst:pl:nom:m3	nazwa pospolita	komp.
-IP	IP	subst:pl:nom:n2	nazwa pospolita	komp.
+IP	IP	subst:pl:nom:n:ncol	nazwa pospolita	komp.
 IP	IP	subst:pl:voc:m3	nazwa pospolita	komp.
-IP	IP	subst:pl:voc:n2	nazwa pospolita	komp.
+IP	IP	subst:pl:voc:n:ncol	nazwa pospolita	komp.
 IP	IP	subst:sg:acc:m3	nazwa pospolita	komp.
-IP	IP	subst:sg:acc:n2	nazwa pospolita	komp.
+IP	IP	subst:sg:acc:n:ncol	nazwa pospolita	komp.
 IP	IP	subst:sg:dat:m3	nazwa pospolita	komp.
-IP	IP	subst:sg:dat:n2	nazwa pospolita	komp.
+IP	IP	subst:sg:dat:n:ncol	nazwa pospolita	komp.
 IP	IP	subst:sg:gen:m3	nazwa pospolita	komp.
-IP	IP	subst:sg:gen:n2	nazwa pospolita	komp.
+IP	IP	subst:sg:gen:n:ncol	nazwa pospolita	komp.
 IP	IP	subst:sg:inst:m3	nazwa pospolita	komp.
-IP	IP	subst:sg:inst:n2	nazwa pospolita	komp.
+IP	IP	subst:sg:inst:n:ncol	nazwa pospolita	komp.
 IP	IP	subst:sg:loc:m3	nazwa pospolita	komp.
-IP	IP	subst:sg:loc:n2	nazwa pospolita	komp.
+IP	IP	subst:sg:loc:n:ncol	nazwa pospolita	komp.
 IP	IP	subst:sg:nom:m3	nazwa pospolita	komp.
-IP	IP	subst:sg:nom:n2	nazwa pospolita	komp.
+IP	IP	subst:sg:nom:n:ncol	nazwa pospolita	komp.
 IP	IP	subst:sg:voc:m3	nazwa pospolita	komp.
-IP	IP	subst:sg:voc:n2	nazwa pospolita	komp.
+IP	IP	subst:sg:voc:n:ncol	nazwa pospolita	komp.
 IPN-ach	IPN	subst:pl:loc:m3	nazwa instytucji	
 IPN-ami	IPN	subst:pl:inst:m3	nazwa instytucji	
 IPN-em	IPN	subst:sg:inst:m3	nazwa instytucji	
@@ -1617,33 +1617,33 @@ IPN-y	IPN	subst:pl:acc:m3	nazwa instytucji
 IPN-y	IPN	subst:pl:nom:m3	nazwa instytucji	
 IPN-y	IPN	subst:pl:voc:m3	nazwa instytucji	
 IQ	IQ	subst:pl:acc:m3	nazwa pospolita	
-IQ	IQ	subst:pl:acc:n2	nazwa pospolita	
+IQ	IQ	subst:pl:acc:n:ncol	nazwa pospolita	
 IQ	IQ	subst:pl:dat:m3	nazwa pospolita	
-IQ	IQ	subst:pl:dat:n2	nazwa pospolita	
+IQ	IQ	subst:pl:dat:n:ncol	nazwa pospolita	
 IQ	IQ	subst:pl:gen:m3	nazwa pospolita	
-IQ	IQ	subst:pl:gen:n2	nazwa pospolita	
+IQ	IQ	subst:pl:gen:n:ncol	nazwa pospolita	
 IQ	IQ	subst:pl:inst:m3	nazwa pospolita	
-IQ	IQ	subst:pl:inst:n2	nazwa pospolita	
+IQ	IQ	subst:pl:inst:n:ncol	nazwa pospolita	
 IQ	IQ	subst:pl:loc:m3	nazwa pospolita	
-IQ	IQ	subst:pl:loc:n2	nazwa pospolita	
+IQ	IQ	subst:pl:loc:n:ncol	nazwa pospolita	
 IQ	IQ	subst:pl:nom:m3	nazwa pospolita	
-IQ	IQ	subst:pl:nom:n2	nazwa pospolita	
+IQ	IQ	subst:pl:nom:n:ncol	nazwa pospolita	
 IQ	IQ	subst:pl:voc:m3	nazwa pospolita	
-IQ	IQ	subst:pl:voc:n2	nazwa pospolita	
+IQ	IQ	subst:pl:voc:n:ncol	nazwa pospolita	
 IQ	IQ	subst:sg:acc:m3	nazwa pospolita	
-IQ	IQ	subst:sg:acc:n2	nazwa pospolita	
+IQ	IQ	subst:sg:acc:n:ncol	nazwa pospolita	
 IQ	IQ	subst:sg:dat:m3	nazwa pospolita	
-IQ	IQ	subst:sg:dat:n2	nazwa pospolita	
+IQ	IQ	subst:sg:dat:n:ncol	nazwa pospolita	
 IQ	IQ	subst:sg:gen:m3	nazwa pospolita	
-IQ	IQ	subst:sg:gen:n2	nazwa pospolita	
+IQ	IQ	subst:sg:gen:n:ncol	nazwa pospolita	
 IQ	IQ	subst:sg:inst:m3	nazwa pospolita	
-IQ	IQ	subst:sg:inst:n2	nazwa pospolita	
+IQ	IQ	subst:sg:inst:n:ncol	nazwa pospolita	
 IQ	IQ	subst:sg:loc:m3	nazwa pospolita	
-IQ	IQ	subst:sg:loc:n2	nazwa pospolita	
+IQ	IQ	subst:sg:loc:n:ncol	nazwa pospolita	
 IQ	IQ	subst:sg:nom:m3	nazwa pospolita	
-IQ	IQ	subst:sg:nom:n2	nazwa pospolita	
+IQ	IQ	subst:sg:nom:n:ncol	nazwa pospolita	
 IQ	IQ	subst:sg:voc:m3	nazwa pospolita	
-IQ	IQ	subst:sg:voc:n2	nazwa pospolita	
+IQ	IQ	subst:sg:voc:n:ncol	nazwa pospolita	
 Irach	Ira	subst:pl:loc:f	imię	
 Ira	Ira	subst:sg:nom:f	imię	
 Irami	Ira	subst:pl:inst:f	imię	
@@ -2158,33 +2158,33 @@ Irzykowskim	Irzykowski	subst:pl:dat:m1	nazwisko
 Irzykowskim	Irzykowski	subst:sg:inst:m1	nazwisko	
 Irzykowskim	Irzykowski	subst:sg:loc:m1	nazwisko	
 IS	IS	subst:pl:acc:m3	nazwa organizacji	
-IS	IS	subst:pl:acc:n2	nazwa organizacji	
+IS	IS	subst:pl:acc:n:ncol	nazwa organizacji	
 IS	IS	subst:pl:dat:m3	nazwa organizacji	
-IS	IS	subst:pl:dat:n2	nazwa organizacji	
+IS	IS	subst:pl:dat:n:ncol	nazwa organizacji	
 IS	IS	subst:pl:gen:m3	nazwa organizacji	
-IS	IS	subst:pl:gen:n2	nazwa organizacji	
+IS	IS	subst:pl:gen:n:ncol	nazwa organizacji	
 IS	IS	subst:pl:inst:m3	nazwa organizacji	
-IS	IS	subst:pl:inst:n2	nazwa organizacji	
+IS	IS	subst:pl:inst:n:ncol	nazwa organizacji	
 IS	IS	subst:pl:loc:m3	nazwa organizacji	
-IS	IS	subst:pl:loc:n2	nazwa organizacji	
+IS	IS	subst:pl:loc:n:ncol	nazwa organizacji	
 IS	IS	subst:pl:nom:m3	nazwa organizacji	
-IS	IS	subst:pl:nom:n2	nazwa organizacji	
+IS	IS	subst:pl:nom:n:ncol	nazwa organizacji	
 IS	IS	subst:pl:voc:m3	nazwa organizacji	
-IS	IS	subst:pl:voc:n2	nazwa organizacji	
+IS	IS	subst:pl:voc:n:ncol	nazwa organizacji	
 IS	IS	subst:sg:acc:m3	nazwa organizacji	
-IS	IS	subst:sg:acc:n2	nazwa organizacji	
+IS	IS	subst:sg:acc:n:ncol	nazwa organizacji	
 IS	IS	subst:sg:dat:m3	nazwa organizacji	
-IS	IS	subst:sg:dat:n2	nazwa organizacji	
+IS	IS	subst:sg:dat:n:ncol	nazwa organizacji	
 IS	IS	subst:sg:gen:m3	nazwa organizacji	
-IS	IS	subst:sg:gen:n2	nazwa organizacji	
+IS	IS	subst:sg:gen:n:ncol	nazwa organizacji	
 IS	IS	subst:sg:inst:m3	nazwa organizacji	
-IS	IS	subst:sg:inst:n2	nazwa organizacji	
+IS	IS	subst:sg:inst:n:ncol	nazwa organizacji	
 IS	IS	subst:sg:loc:m3	nazwa organizacji	
-IS	IS	subst:sg:loc:n2	nazwa organizacji	
+IS	IS	subst:sg:loc:n:ncol	nazwa organizacji	
 IS	IS	subst:sg:nom:m3	nazwa organizacji	
-IS	IS	subst:sg:nom:n2	nazwa organizacji	
+IS	IS	subst:sg:nom:n:ncol	nazwa organizacji	
 IS	IS	subst:sg:voc:m3	nazwa organizacji	
-IS	IS	subst:sg:voc:n2	nazwa organizacji	
+IS	IS	subst:sg:voc:n:ncol	nazwa organizacji	
 Isaakach	Isaak	subst:pl:loc:m1	imię	
 Isaaka	Isaak	subst:sg:acc:m1	imię	
 Isaaka	Isaak	subst:sg:gen:m1	imię	
@@ -2362,33 +2362,33 @@ Ismailij	Ismailia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Ismailio	Ismailia	subst:sg:voc:f	nazwa geograficzna	
 Ismailiom	Ismailia	subst:pl:dat:f	nazwa geograficzna	
 ISO	ISO	subst:pl:acc:f	nazwa organizacji	
-ISO	ISO	subst:pl:acc:n2	nazwa organizacji	
+ISO	ISO	subst:pl:acc:n:ncol	nazwa organizacji	
 ISO	ISO	subst:pl:dat:f	nazwa organizacji	
-ISO	ISO	subst:pl:dat:n2	nazwa organizacji	
+ISO	ISO	subst:pl:dat:n:ncol	nazwa organizacji	
 ISO	ISO	subst:pl:gen:f	nazwa organizacji	
-ISO	ISO	subst:pl:gen:n2	nazwa organizacji	
+ISO	ISO	subst:pl:gen:n:ncol	nazwa organizacji	
 ISO	ISO	subst:pl:inst:f	nazwa organizacji	
-ISO	ISO	subst:pl:inst:n2	nazwa organizacji	
+ISO	ISO	subst:pl:inst:n:ncol	nazwa organizacji	
 ISO	ISO	subst:pl:loc:f	nazwa organizacji	
-ISO	ISO	subst:pl:loc:n2	nazwa organizacji	
+ISO	ISO	subst:pl:loc:n:ncol	nazwa organizacji	
 ISO	ISO	subst:pl:nom:f	nazwa organizacji	
-ISO	ISO	subst:pl:nom:n2	nazwa organizacji	
+ISO	ISO	subst:pl:nom:n:ncol	nazwa organizacji	
 ISO	ISO	subst:pl:voc:f	nazwa organizacji	
-ISO	ISO	subst:pl:voc:n2	nazwa organizacji	
+ISO	ISO	subst:pl:voc:n:ncol	nazwa organizacji	
 ISO	ISO	subst:sg:acc:f	nazwa organizacji	
-ISO	ISO	subst:sg:acc:n2	nazwa organizacji	
+ISO	ISO	subst:sg:acc:n:ncol	nazwa organizacji	
 ISO	ISO	subst:sg:dat:f	nazwa organizacji	
-ISO	ISO	subst:sg:dat:n2	nazwa organizacji	
+ISO	ISO	subst:sg:dat:n:ncol	nazwa organizacji	
 ISO	ISO	subst:sg:gen:f	nazwa organizacji	
-ISO	ISO	subst:sg:gen:n2	nazwa organizacji	
+ISO	ISO	subst:sg:gen:n:ncol	nazwa organizacji	
 ISO	ISO	subst:sg:inst:f	nazwa organizacji	
-ISO	ISO	subst:sg:inst:n2	nazwa organizacji	
+ISO	ISO	subst:sg:inst:n:ncol	nazwa organizacji	
 ISO	ISO	subst:sg:loc:f	nazwa organizacji	
-ISO	ISO	subst:sg:loc:n2	nazwa organizacji	
+ISO	ISO	subst:sg:loc:n:ncol	nazwa organizacji	
 ISO	ISO	subst:sg:nom:f	nazwa organizacji	
-ISO	ISO	subst:sg:nom:n2	nazwa organizacji	
+ISO	ISO	subst:sg:nom:n:ncol	nazwa organizacji	
 ISO	ISO	subst:sg:voc:f	nazwa organizacji	
-ISO	ISO	subst:sg:voc:n2	nazwa organizacji	
+ISO	ISO	subst:sg:voc:n:ncol	nazwa organizacji	
 Issach	Issa	subst:pl:loc:f	nazwa geograficzna	
 Issa	Issa	subst:sg:nom:f	nazwa geograficzna	
 Issami	Issa	subst:pl:inst:f	nazwa geograficzna	
@@ -2562,33 +2562,33 @@ ITAR-TASS-y	ITAR-TASS	subst:pl:acc:m3	nazwa firmy
 ITAR-TASS-y	ITAR-TASS	subst:pl:nom:m3	nazwa firmy	
 ITAR-TASS-y	ITAR-TASS	subst:pl:voc:m3	nazwa firmy	
 ITI	ITI	subst:pl:acc:m3	nazwa firmy	
-ITI	ITI	subst:pl:acc:n2	nazwa firmy	
+ITI	ITI	subst:pl:acc:n:ncol	nazwa firmy	
 ITI	ITI	subst:pl:dat:m3	nazwa firmy	
-ITI	ITI	subst:pl:dat:n2	nazwa firmy	
+ITI	ITI	subst:pl:dat:n:ncol	nazwa firmy	
 ITI	ITI	subst:pl:gen:m3	nazwa firmy	
-ITI	ITI	subst:pl:gen:n2	nazwa firmy	
+ITI	ITI	subst:pl:gen:n:ncol	nazwa firmy	
 ITI	ITI	subst:pl:inst:m3	nazwa firmy	
-ITI	ITI	subst:pl:inst:n2	nazwa firmy	
+ITI	ITI	subst:pl:inst:n:ncol	nazwa firmy	
 ITI	ITI	subst:pl:loc:m3	nazwa firmy	
-ITI	ITI	subst:pl:loc:n2	nazwa firmy	
+ITI	ITI	subst:pl:loc:n:ncol	nazwa firmy	
 ITI	ITI	subst:pl:nom:m3	nazwa firmy	
-ITI	ITI	subst:pl:nom:n2	nazwa firmy	
+ITI	ITI	subst:pl:nom:n:ncol	nazwa firmy	
 ITI	ITI	subst:pl:voc:m3	nazwa firmy	
-ITI	ITI	subst:pl:voc:n2	nazwa firmy	
+ITI	ITI	subst:pl:voc:n:ncol	nazwa firmy	
 ITI	ITI	subst:sg:acc:m3	nazwa firmy	
-ITI	ITI	subst:sg:acc:n2	nazwa firmy	
+ITI	ITI	subst:sg:acc:n:ncol	nazwa firmy	
 ITI	ITI	subst:sg:dat:m3	nazwa firmy	
-ITI	ITI	subst:sg:dat:n2	nazwa firmy	
+ITI	ITI	subst:sg:dat:n:ncol	nazwa firmy	
 ITI	ITI	subst:sg:gen:m3	nazwa firmy	
-ITI	ITI	subst:sg:gen:n2	nazwa firmy	
+ITI	ITI	subst:sg:gen:n:ncol	nazwa firmy	
 ITI	ITI	subst:sg:inst:m3	nazwa firmy	
-ITI	ITI	subst:sg:inst:n2	nazwa firmy	
+ITI	ITI	subst:sg:inst:n:ncol	nazwa firmy	
 ITI	ITI	subst:sg:loc:m3	nazwa firmy	
-ITI	ITI	subst:sg:loc:n2	nazwa firmy	
+ITI	ITI	subst:sg:loc:n:ncol	nazwa firmy	
 ITI	ITI	subst:sg:nom:m3	nazwa firmy	
-ITI	ITI	subst:sg:nom:n2	nazwa firmy	
+ITI	ITI	subst:sg:nom:n:ncol	nazwa firmy	
 ITI	ITI	subst:sg:voc:m3	nazwa firmy	
-ITI	ITI	subst:sg:voc:n2	nazwa firmy	
+ITI	ITI	subst:sg:voc:n:ncol	nazwa firmy	
 Ivanach	Ivan	subst:pl:loc:m1	imię	
 Ivana	Ivan	subst:sg:acc:m1	imię	
 Ivana	Ivan	subst:sg:gen:m1	imię	
@@ -2635,20 +2635,20 @@ Iwanów	Iwan	subst:pl:acc:m1	imię
 Iwanów	Iwan	subst:pl:gen:m1	imię	
 Iwany	Iwan	depr:pl:nom:m2	imię	
 Iwany	Iwan	depr:pl:voc:m2	imię	
-Iwaniskach	Iwaniska	subst:pl:loc:p2	nazwa geograficzna	
-Iwaniskach	Iwaniska	subst:pl:loc:p3	nazwa geograficzna	
-Iwaniska	Iwaniska	subst:pl:acc:p2	nazwa geograficzna	
-Iwaniska	Iwaniska	subst:pl:acc:p3	nazwa geograficzna	
-Iwaniska	Iwaniska	subst:pl:nom:p2	nazwa geograficzna	
-Iwaniska	Iwaniska	subst:pl:nom:p3	nazwa geograficzna	
-Iwaniska	Iwaniska	subst:pl:voc:p2	nazwa geograficzna	
-Iwaniska	Iwaniska	subst:pl:voc:p3	nazwa geograficzna	
-Iwaniskami	Iwaniska	subst:pl:inst:p2	nazwa geograficzna	
-Iwaniskami	Iwaniska	subst:pl:inst:p3	nazwa geograficzna	
-Iwanisk	Iwaniska	subst:pl:gen:p2	nazwa geograficzna	
-Iwanisk	Iwaniska	subst:pl:gen:p3	nazwa geograficzna	
-Iwaniskom	Iwaniska	subst:pl:dat:p2	nazwa geograficzna	
-Iwaniskom	Iwaniska	subst:pl:dat:p3	nazwa geograficzna	
+Iwaniskach	Iwaniska	subst:pl:loc:n:pt	nazwa geograficzna	
+Iwaniskach	Iwaniska	subst:pl:loc:n:pt	nazwa geograficzna	
+Iwaniska	Iwaniska	subst:pl:acc:n:pt	nazwa geograficzna	
+Iwaniska	Iwaniska	subst:pl:acc:n:pt	nazwa geograficzna	
+Iwaniska	Iwaniska	subst:pl:nom:n:pt	nazwa geograficzna	
+Iwaniska	Iwaniska	subst:pl:nom:n:pt	nazwa geograficzna	
+Iwaniska	Iwaniska	subst:pl:voc:n:pt	nazwa geograficzna	
+Iwaniska	Iwaniska	subst:pl:voc:n:pt	nazwa geograficzna	
+Iwaniskami	Iwaniska	subst:pl:inst:n:pt	nazwa geograficzna	
+Iwaniskami	Iwaniska	subst:pl:inst:n:pt	nazwa geograficzna	
+Iwanisk	Iwaniska	subst:pl:gen:n:pt	nazwa geograficzna	
+Iwanisk	Iwaniska	subst:pl:gen:n:pt	nazwa geograficzna	
+Iwaniskom	Iwaniska	subst:pl:dat:n:pt	nazwa geograficzna	
+Iwaniskom	Iwaniska	subst:pl:dat:n:pt	nazwa geograficzna	
 Iwanowach	Iwanow	subst:pl:loc:m1	nazwisko	
 Iwanowa	Iwanow	subst:sg:acc:m1	nazwisko	
 Iwanowa	Iwanow	subst:sg:gen:m1	nazwisko	
@@ -2665,20 +2665,20 @@ Iwanowów	Iwanow	subst:pl:acc:m1	nazwisko
 Iwanowów	Iwanow	subst:pl:gen:m1	nazwisko	
 Iwanowy	Iwanow	depr:pl:nom:m2	nazwisko	
 Iwanowy	Iwanow	depr:pl:voc:m2	nazwisko	
-Iwanowicach	Iwanowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Iwanowicach	Iwanowice	subst:pl:loc:p3	nazwa geograficzna	
-Iwanowicami	Iwanowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Iwanowicami	Iwanowice	subst:pl:inst:p3	nazwa geograficzna	
-Iwanowice	Iwanowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Iwanowice	Iwanowice	subst:pl:acc:p3	nazwa geograficzna	
-Iwanowice	Iwanowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Iwanowice	Iwanowice	subst:pl:nom:p3	nazwa geograficzna	
-Iwanowice	Iwanowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Iwanowice	Iwanowice	subst:pl:voc:p3	nazwa geograficzna	
-Iwanowic	Iwanowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Iwanowic	Iwanowice	subst:pl:gen:p3	nazwa geograficzna	
-Iwanowicom	Iwanowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Iwanowicom	Iwanowice	subst:pl:dat:p3	nazwa geograficzna	
+Iwanowicach	Iwanowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Iwanowicach	Iwanowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Iwanowicami	Iwanowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Iwanowicami	Iwanowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Iwanowice	Iwanowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Iwanowice	Iwanowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Iwanowice	Iwanowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Iwanowice	Iwanowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Iwanowice	Iwanowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Iwanowice	Iwanowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Iwanowic	Iwanowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Iwanowic	Iwanowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Iwanowicom	Iwanowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Iwanowicom	Iwanowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Iwanowien	Iwanowna	subst:pl:gen:f	patronimicum	
 Iwanownach	Iwanowna	subst:pl:loc:f	patronimicum	
 Iwanowna	Iwanowna	subst:sg:nom:f	patronimicum	
@@ -2799,20 +2799,20 @@ Iwetty	Iwetta	subst:pl:acc:f	imię
 Iwetty	Iwetta	subst:pl:nom:f	imię	
 Iwetty	Iwetta	subst:pl:voc:f	imię	
 Iwetty	Iwetta	subst:sg:gen:f	imię	
-Iwierzycach	Iwierzyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Iwierzycach	Iwierzyce	subst:pl:loc:p3	nazwa geograficzna	
-Iwierzycami	Iwierzyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Iwierzycami	Iwierzyce	subst:pl:inst:p3	nazwa geograficzna	
-Iwierzyce	Iwierzyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Iwierzyce	Iwierzyce	subst:pl:acc:p3	nazwa geograficzna	
-Iwierzyce	Iwierzyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Iwierzyce	Iwierzyce	subst:pl:nom:p3	nazwa geograficzna	
-Iwierzyce	Iwierzyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Iwierzyce	Iwierzyce	subst:pl:voc:p3	nazwa geograficzna	
-Iwierzyc	Iwierzyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Iwierzyc	Iwierzyce	subst:pl:gen:p3	nazwa geograficzna	
-Iwierzycom	Iwierzyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Iwierzycom	Iwierzyce	subst:pl:dat:p3	nazwa geograficzna	
+Iwierzycach	Iwierzyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Iwierzycach	Iwierzyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Iwierzycami	Iwierzyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Iwierzycami	Iwierzyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Iwierzyce	Iwierzyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Iwierzyce	Iwierzyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Iwierzyce	Iwierzyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Iwierzyce	Iwierzyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Iwierzyce	Iwierzyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Iwierzyce	Iwierzyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Iwierzyc	Iwierzyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Iwierzyc	Iwierzyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Iwierzycom	Iwierzyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Iwierzycom	Iwierzyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Iwińska	Iwińska	subst:sg:nom:f	nazwisko	
 Iwińska	Iwińska	subst:sg:voc:f	nazwisko	
 Iwińską	Iwińska	subst:sg:acc:f	nazwisko	
@@ -3163,20 +3163,20 @@ Izuni	Izunia	subst:sg:loc:f	imię
 Izuniom	Izunia	subst:pl:dat:f	imię	
 Izuniu	Izunia	subst:sg:voc:f	imię	
 Izuń	Izunia	subst:pl:gen:f	imię	char.
-Izwiestiach	Izwiestia	subst:pl:loc:p2	tytuł	rzad.
-Izwiestiach	Izwiestia	subst:pl:loc:p3	tytuł	
-Izwiestia	Izwiestia	subst:pl:acc:p2	tytuł	rzad.
-Izwiestia	Izwiestia	subst:pl:acc:p3	tytuł	
-Izwiestia	Izwiestia	subst:pl:nom:p2	tytuł	rzad.
-Izwiestia	Izwiestia	subst:pl:nom:p3	tytuł	
-Izwiestia	Izwiestia	subst:pl:voc:p2	tytuł	rzad.
-Izwiestia	Izwiestia	subst:pl:voc:p3	tytuł	
-Izwiestiami	Izwiestia	subst:pl:inst:p2	tytuł	rzad.
-Izwiestiami	Izwiestia	subst:pl:inst:p3	tytuł	
-Izwiestii	Izwiestia	subst:pl:gen:p2	tytuł	rzad.
-Izwiestii	Izwiestia	subst:pl:gen:p3	tytuł	
-Izwiestiom	Izwiestia	subst:pl:dat:p2	tytuł	rzad.
-Izwiestiom	Izwiestia	subst:pl:dat:p3	tytuł	
+Izwiestiach	Izwiestia	subst:pl:loc:n:pt	tytuł	
+Izwiestiach	Izwiestia	subst:pl:loc:n:pt	tytuł	rzad.
+Izwiestia	Izwiestia	subst:pl:acc:n:pt	tytuł	
+Izwiestia	Izwiestia	subst:pl:acc:n:pt	tytuł	rzad.
+Izwiestia	Izwiestia	subst:pl:nom:n:pt	tytuł	
+Izwiestia	Izwiestia	subst:pl:nom:n:pt	tytuł	rzad.
+Izwiestia	Izwiestia	subst:pl:voc:n:pt	tytuł	
+Izwiestia	Izwiestia	subst:pl:voc:n:pt	tytuł	rzad.
+Izwiestiami	Izwiestia	subst:pl:inst:n:pt	tytuł	
+Izwiestiami	Izwiestia	subst:pl:inst:n:pt	tytuł	rzad.
+Izwiestii	Izwiestia	subst:pl:gen:n:pt	tytuł	
+Izwiestii	Izwiestia	subst:pl:gen:n:pt	tytuł	rzad.
+Izwiestiom	Izwiestia	subst:pl:dat:n:pt	tytuł	
+Izwiestiom	Izwiestia	subst:pl:dat:n:pt	tytuł	rzad.
 Izydach	Izyda	subst:pl:loc:f	imię	
 Izyda	Izyda	subst:sg:nom:f	imię	
 Izydami	Izyda	subst:pl:inst:f	imię	

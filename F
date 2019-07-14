@@ -209,20 +209,20 @@ Fahrenheitów	Fahrenheit	subst:pl:acc:m1	nazwisko
 Fahrenheitów	Fahrenheit	subst:pl:gen:m1	nazwisko	
 Fahrenheity	Fahrenheit	depr:pl:nom:m2	nazwisko	
 Fahrenheity	Fahrenheit	depr:pl:voc:m2	nazwisko	
-Fajsławicach	Fajsławice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Fajsławicach	Fajsławice	subst:pl:loc:p3	nazwa geograficzna	
-Fajsławicami	Fajsławice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Fajsławicami	Fajsławice	subst:pl:inst:p3	nazwa geograficzna	
-Fajsławice	Fajsławice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Fajsławice	Fajsławice	subst:pl:acc:p3	nazwa geograficzna	
-Fajsławice	Fajsławice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Fajsławice	Fajsławice	subst:pl:nom:p3	nazwa geograficzna	
-Fajsławice	Fajsławice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Fajsławice	Fajsławice	subst:pl:voc:p3	nazwa geograficzna	
-Fajsławic	Fajsławice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Fajsławic	Fajsławice	subst:pl:gen:p3	nazwa geograficzna	
-Fajsławicom	Fajsławice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Fajsławicom	Fajsławice	subst:pl:dat:p3	nazwa geograficzna	
+Fajsławicach	Fajsławice	subst:pl:loc:n:pt	nazwa geograficzna	
+Fajsławicach	Fajsławice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Fajsławicami	Fajsławice	subst:pl:inst:n:pt	nazwa geograficzna	
+Fajsławicami	Fajsławice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Fajsławice	Fajsławice	subst:pl:acc:n:pt	nazwa geograficzna	
+Fajsławice	Fajsławice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Fajsławice	Fajsławice	subst:pl:nom:n:pt	nazwa geograficzna	
+Fajsławice	Fajsławice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Fajsławice	Fajsławice	subst:pl:voc:n:pt	nazwa geograficzna	
+Fajsławice	Fajsławice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Fajsławic	Fajsławice	subst:pl:gen:n:pt	nazwa geograficzna	
+Fajsławic	Fajsławice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Fajsławicom	Fajsławice	subst:pl:dat:n:pt	nazwa geograficzna	
+Fajsławicom	Fajsławice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Falaccich	Falacci	subst:pl:acc:m1	nazwisko	
 Falaccich	Falacci	subst:pl:gen:m1	nazwisko	
 Falaccich	Falacci	subst:pl:loc:m1	nazwisko	
@@ -301,20 +301,20 @@ Falków	Falk	subst:pl:acc:m1	imię
 Falków	Falk	subst:pl:gen:m1	imię	
 Falku	Falk	subst:sg:loc:m1	imię	
 Falku	Falk	subst:sg:voc:m1	imię	
-Falklandach	Falklandy	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Falklandach	Falklandy	subst:pl:loc:p3	nazwa geograficzna	
-Falklandami	Falklandy	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Falklandami	Falklandy	subst:pl:inst:p3	nazwa geograficzna	
-Falklandom	Falklandy	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Falklandom	Falklandy	subst:pl:dat:p3	nazwa geograficzna	
-Falklandów	Falklandy	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Falklandów	Falklandy	subst:pl:gen:p3	nazwa geograficzna	
-Falklandy	Falklandy	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Falklandy	Falklandy	subst:pl:acc:p3	nazwa geograficzna	
-Falklandy	Falklandy	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Falklandy	Falklandy	subst:pl:nom:p3	nazwa geograficzna	
-Falklandy	Falklandy	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Falklandy	Falklandy	subst:pl:voc:p3	nazwa geograficzna	
+Falklandach	Falklandy	subst:pl:loc:n:pt	nazwa geograficzna	
+Falklandach	Falklandy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Falklandami	Falklandy	subst:pl:inst:n:pt	nazwa geograficzna	
+Falklandami	Falklandy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Falklandom	Falklandy	subst:pl:dat:n:pt	nazwa geograficzna	
+Falklandom	Falklandy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Falklandów	Falklandy	subst:pl:gen:n:pt	nazwa geograficzna	
+Falklandów	Falklandy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Falklandy	Falklandy	subst:pl:acc:n:pt	nazwa geograficzna	
+Falklandy	Falklandy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Falklandy	Falklandy	subst:pl:nom:n:pt	nazwa geograficzna	
+Falklandy	Falklandy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Falklandy	Falklandy	subst:pl:voc:n:pt	nazwa geograficzna	
+Falklandy	Falklandy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Falkowska	Falkowska	subst:sg:nom:f	nazwisko	
 Falkowska	Falkowska	subst:sg:voc:f	nazwisko	
 Falkowską	Falkowska	subst:sg:acc:f	nazwisko	
@@ -391,33 +391,33 @@ FAM-y	FAMA	subst:pl:nom:f	nazwa pospolita
 FAM-y	FAMA	subst:pl:voc:f	nazwa pospolita	
 FAM-y	FAMA	subst:sg:gen:f	nazwa pospolita	
 FAO	FAO	subst:pl:acc:f	nazwa organizacji	
-FAO	FAO	subst:pl:acc:n2	nazwa organizacji	
+FAO	FAO	subst:pl:acc:n:ncol	nazwa organizacji	
 FAO	FAO	subst:pl:dat:f	nazwa organizacji	
-FAO	FAO	subst:pl:dat:n2	nazwa organizacji	
+FAO	FAO	subst:pl:dat:n:ncol	nazwa organizacji	
 FAO	FAO	subst:pl:gen:f	nazwa organizacji	
-FAO	FAO	subst:pl:gen:n2	nazwa organizacji	
+FAO	FAO	subst:pl:gen:n:ncol	nazwa organizacji	
 FAO	FAO	subst:pl:inst:f	nazwa organizacji	
-FAO	FAO	subst:pl:inst:n2	nazwa organizacji	
+FAO	FAO	subst:pl:inst:n:ncol	nazwa organizacji	
 FAO	FAO	subst:pl:loc:f	nazwa organizacji	
-FAO	FAO	subst:pl:loc:n2	nazwa organizacji	
+FAO	FAO	subst:pl:loc:n:ncol	nazwa organizacji	
 FAO	FAO	subst:pl:nom:f	nazwa organizacji	
-FAO	FAO	subst:pl:nom:n2	nazwa organizacji	
+FAO	FAO	subst:pl:nom:n:ncol	nazwa organizacji	
 FAO	FAO	subst:pl:voc:f	nazwa organizacji	
-FAO	FAO	subst:pl:voc:n2	nazwa organizacji	
+FAO	FAO	subst:pl:voc:n:ncol	nazwa organizacji	
 FAO	FAO	subst:sg:acc:f	nazwa organizacji	
-FAO	FAO	subst:sg:acc:n2	nazwa organizacji	
+FAO	FAO	subst:sg:acc:n:ncol	nazwa organizacji	
 FAO	FAO	subst:sg:dat:f	nazwa organizacji	
-FAO	FAO	subst:sg:dat:n2	nazwa organizacji	
+FAO	FAO	subst:sg:dat:n:ncol	nazwa organizacji	
 FAO	FAO	subst:sg:gen:f	nazwa organizacji	
-FAO	FAO	subst:sg:gen:n2	nazwa organizacji	
+FAO	FAO	subst:sg:gen:n:ncol	nazwa organizacji	
 FAO	FAO	subst:sg:inst:f	nazwa organizacji	
-FAO	FAO	subst:sg:inst:n2	nazwa organizacji	
+FAO	FAO	subst:sg:inst:n:ncol	nazwa organizacji	
 FAO	FAO	subst:sg:loc:f	nazwa organizacji	
-FAO	FAO	subst:sg:loc:n2	nazwa organizacji	
+FAO	FAO	subst:sg:loc:n:ncol	nazwa organizacji	
 FAO	FAO	subst:sg:nom:f	nazwa organizacji	
-FAO	FAO	subst:sg:nom:n2	nazwa organizacji	
+FAO	FAO	subst:sg:nom:n:ncol	nazwa organizacji	
 FAO	FAO	subst:sg:voc:f	nazwa organizacji	
-FAO	FAO	subst:sg:voc:n2	nazwa organizacji	
+FAO	FAO	subst:sg:voc:n:ncol	nazwa organizacji	
 Faradayach	Faraday	subst:pl:loc:m1	nazwisko	
 Faradaya	Faraday	subst:sg:acc:m1	nazwisko	
 Faradaya	Faraday	subst:sg:gen:m1	nazwisko	
@@ -436,20 +436,20 @@ Faradayów	Faraday	subst:pl:acc:m1	nazwisko
 Faradayów	Faraday	subst:pl:gen:m1	nazwisko	
 Faradayu	Faraday	subst:sg:loc:m1	nazwisko	
 Faradayu	Faraday	subst:sg:voc:m1	nazwisko	
-Faras	Faras	subst:pl:acc:n2	nazwa geograficzna	
-Faras	Faras	subst:pl:dat:n2	nazwa geograficzna	
-Faras	Faras	subst:pl:gen:n2	nazwa geograficzna	
-Faras	Faras	subst:pl:inst:n2	nazwa geograficzna	
-Faras	Faras	subst:pl:loc:n2	nazwa geograficzna	
-Faras	Faras	subst:pl:nom:n2	nazwa geograficzna	
-Faras	Faras	subst:pl:voc:n2	nazwa geograficzna	
-Faras	Faras	subst:sg:acc:n2	nazwa geograficzna	
-Faras	Faras	subst:sg:dat:n2	nazwa geograficzna	
-Faras	Faras	subst:sg:gen:n2	nazwa geograficzna	
-Faras	Faras	subst:sg:inst:n2	nazwa geograficzna	
-Faras	Faras	subst:sg:loc:n2	nazwa geograficzna	
-Faras	Faras	subst:sg:nom:n2	nazwa geograficzna	
-Faras	Faras	subst:sg:voc:n2	nazwa geograficzna	
+Faras	Faras	subst:pl:acc:n:ncol	nazwa geograficzna	
+Faras	Faras	subst:pl:dat:n:ncol	nazwa geograficzna	
+Faras	Faras	subst:pl:gen:n:ncol	nazwa geograficzna	
+Faras	Faras	subst:pl:inst:n:ncol	nazwa geograficzna	
+Faras	Faras	subst:pl:loc:n:ncol	nazwa geograficzna	
+Faras	Faras	subst:pl:nom:n:ncol	nazwa geograficzna	
+Faras	Faras	subst:pl:voc:n:ncol	nazwa geograficzna	
+Faras	Faras	subst:sg:acc:n:ncol	nazwa geograficzna	
+Faras	Faras	subst:sg:dat:n:ncol	nazwa geograficzna	
+Faras	Faras	subst:sg:gen:n:ncol	nazwa geograficzna	
+Faras	Faras	subst:sg:inst:n:ncol	nazwa geograficzna	
+Faras	Faras	subst:sg:loc:n:ncol	nazwa geograficzna	
+Faras	Faras	subst:sg:nom:n:ncol	nazwa geograficzna	
+Faras	Faras	subst:sg:voc:n:ncol	nazwa geograficzna	
 FAS-ach	FAS	subst:pl:loc:m3	nazwa pospolita	mors.
 FAS-ami	FAS	subst:pl:inst:m3	nazwa pospolita	mors.
 FAS-em	FAS	subst:sg:inst:m3	nazwa pospolita	mors.
@@ -663,118 +663,118 @@ Fayette’ów	Fayette	subst:pl:acc:m1	nazwisko
 Fayette’ów	Fayette	subst:pl:gen:m1	nazwisko	
 Fayette’y	Fayette	depr:pl:nom:m2	nazwisko	
 Fayette’y	Fayette	depr:pl:voc:m2	nazwisko	
-FBI	FBI	subst:pl:acc:n2	nazwa organizacji	
-FBI	FBI	subst:pl:dat:n2	nazwa organizacji	
-FBI	FBI	subst:pl:gen:n2	nazwa organizacji	
-FBI	FBI	subst:pl:inst:n2	nazwa organizacji	
-FBI	FBI	subst:pl:loc:n2	nazwa organizacji	
-FBI	FBI	subst:pl:nom:n2	nazwa organizacji	
-FBI	FBI	subst:pl:voc:n2	nazwa organizacji	
-FBI	FBI	subst:sg:acc:n2	nazwa organizacji	
-FBI	FBI	subst:sg:dat:n2	nazwa organizacji	
-FBI	FBI	subst:sg:gen:n2	nazwa organizacji	
-FBI	FBI	subst:sg:inst:n2	nazwa organizacji	
-FBI	FBI	subst:sg:loc:n2	nazwa organizacji	
-FBI	FBI	subst:sg:nom:n2	nazwa organizacji	
-FBI	FBI	subst:sg:voc:n2	nazwa organizacji	
+FBI	FBI	subst:pl:acc:n:ncol	nazwa organizacji	
+FBI	FBI	subst:pl:dat:n:ncol	nazwa organizacji	
+FBI	FBI	subst:pl:gen:n:ncol	nazwa organizacji	
+FBI	FBI	subst:pl:inst:n:ncol	nazwa organizacji	
+FBI	FBI	subst:pl:loc:n:ncol	nazwa organizacji	
+FBI	FBI	subst:pl:nom:n:ncol	nazwa organizacji	
+FBI	FBI	subst:pl:voc:n:ncol	nazwa organizacji	
+FBI	FBI	subst:sg:acc:n:ncol	nazwa organizacji	
+FBI	FBI	subst:sg:dat:n:ncol	nazwa organizacji	
+FBI	FBI	subst:sg:gen:n:ncol	nazwa organizacji	
+FBI	FBI	subst:sg:inst:n:ncol	nazwa organizacji	
+FBI	FBI	subst:sg:loc:n:ncol	nazwa organizacji	
+FBI	FBI	subst:sg:nom:n:ncol	nazwa organizacji	
+FBI	FBI	subst:sg:voc:n:ncol	nazwa organizacji	
 FC	FC	subst:pl:acc:m3	człon nazwy organizacji	
-FC	FC	subst:pl:acc:n2	człon nazwy organizacji	
+FC	FC	subst:pl:acc:n:ncol	człon nazwy organizacji	
 FC	FC	subst:pl:dat:m3	człon nazwy organizacji	
-FC	FC	subst:pl:dat:n2	człon nazwy organizacji	
+FC	FC	subst:pl:dat:n:ncol	człon nazwy organizacji	
 FC	FC	subst:pl:gen:m3	człon nazwy organizacji	
-FC	FC	subst:pl:gen:n2	człon nazwy organizacji	
+FC	FC	subst:pl:gen:n:ncol	człon nazwy organizacji	
 FC	FC	subst:pl:inst:m3	człon nazwy organizacji	
-FC	FC	subst:pl:inst:n2	człon nazwy organizacji	
+FC	FC	subst:pl:inst:n:ncol	człon nazwy organizacji	
 FC	FC	subst:pl:loc:m3	człon nazwy organizacji	
-FC	FC	subst:pl:loc:n2	człon nazwy organizacji	
+FC	FC	subst:pl:loc:n:ncol	człon nazwy organizacji	
 FC	FC	subst:pl:nom:m3	człon nazwy organizacji	
-FC	FC	subst:pl:nom:n2	człon nazwy organizacji	
+FC	FC	subst:pl:nom:n:ncol	człon nazwy organizacji	
 FC	FC	subst:pl:voc:m3	człon nazwy organizacji	
-FC	FC	subst:pl:voc:n2	człon nazwy organizacji	
+FC	FC	subst:pl:voc:n:ncol	człon nazwy organizacji	
 FC	FC	subst:sg:acc:m3	człon nazwy organizacji	
-FC	FC	subst:sg:acc:n2	człon nazwy organizacji	
+FC	FC	subst:sg:acc:n:ncol	człon nazwy organizacji	
 FC	FC	subst:sg:dat:m3	człon nazwy organizacji	
-FC	FC	subst:sg:dat:n2	człon nazwy organizacji	
+FC	FC	subst:sg:dat:n:ncol	człon nazwy organizacji	
 FC	FC	subst:sg:gen:m3	człon nazwy organizacji	
-FC	FC	subst:sg:gen:n2	człon nazwy organizacji	
+FC	FC	subst:sg:gen:n:ncol	człon nazwy organizacji	
 FC	FC	subst:sg:inst:m3	człon nazwy organizacji	
-FC	FC	subst:sg:inst:n2	człon nazwy organizacji	
+FC	FC	subst:sg:inst:n:ncol	człon nazwy organizacji	
 FC	FC	subst:sg:loc:m3	człon nazwy organizacji	
-FC	FC	subst:sg:loc:n2	człon nazwy organizacji	
+FC	FC	subst:sg:loc:n:ncol	człon nazwy organizacji	
 FC	FC	subst:sg:nom:m3	człon nazwy organizacji	
-FC	FC	subst:sg:nom:n2	człon nazwy organizacji	
+FC	FC	subst:sg:nom:n:ncol	człon nazwy organizacji	
 FC	FC	subst:sg:voc:m3	człon nazwy organizacji	
-FC	FC	subst:sg:voc:n2	człon nazwy organizacji	
+FC	FC	subst:sg:voc:n:ncol	człon nazwy organizacji	
 FDD	FDD	subst:pl:acc:m3	nazwa pospolita	komp.
-FDD	FDD	subst:pl:acc:n2	nazwa pospolita	komp.
+FDD	FDD	subst:pl:acc:n:ncol	nazwa pospolita	komp.
 FDD	FDD	subst:pl:dat:m3	nazwa pospolita	komp.
-FDD	FDD	subst:pl:dat:n2	nazwa pospolita	komp.
+FDD	FDD	subst:pl:dat:n:ncol	nazwa pospolita	komp.
 FDD	FDD	subst:pl:gen:m3	nazwa pospolita	komp.
-FDD	FDD	subst:pl:gen:n2	nazwa pospolita	komp.
+FDD	FDD	subst:pl:gen:n:ncol	nazwa pospolita	komp.
 FDD	FDD	subst:pl:inst:m3	nazwa pospolita	komp.
-FDD	FDD	subst:pl:inst:n2	nazwa pospolita	komp.
+FDD	FDD	subst:pl:inst:n:ncol	nazwa pospolita	komp.
 FDD	FDD	subst:pl:loc:m3	nazwa pospolita	komp.
-FDD	FDD	subst:pl:loc:n2	nazwa pospolita	komp.
+FDD	FDD	subst:pl:loc:n:ncol	nazwa pospolita	komp.
 FDD	FDD	subst:pl:nom:m3	nazwa pospolita	komp.
-FDD	FDD	subst:pl:nom:n2	nazwa pospolita	komp.
+FDD	FDD	subst:pl:nom:n:ncol	nazwa pospolita	komp.
 FDD	FDD	subst:pl:voc:m3	nazwa pospolita	komp.
-FDD	FDD	subst:pl:voc:n2	nazwa pospolita	komp.
+FDD	FDD	subst:pl:voc:n:ncol	nazwa pospolita	komp.
 FDD	FDD	subst:sg:acc:m3	nazwa pospolita	komp.
-FDD	FDD	subst:sg:acc:n2	nazwa pospolita	komp.
+FDD	FDD	subst:sg:acc:n:ncol	nazwa pospolita	komp.
 FDD	FDD	subst:sg:dat:m3	nazwa pospolita	komp.
-FDD	FDD	subst:sg:dat:n2	nazwa pospolita	komp.
+FDD	FDD	subst:sg:dat:n:ncol	nazwa pospolita	komp.
 FDD	FDD	subst:sg:gen:m3	nazwa pospolita	komp.
-FDD	FDD	subst:sg:gen:n2	nazwa pospolita	komp.
+FDD	FDD	subst:sg:gen:n:ncol	nazwa pospolita	komp.
 FDD	FDD	subst:sg:inst:m3	nazwa pospolita	komp.
-FDD	FDD	subst:sg:inst:n2	nazwa pospolita	komp.
+FDD	FDD	subst:sg:inst:n:ncol	nazwa pospolita	komp.
 FDD	FDD	subst:sg:loc:m3	nazwa pospolita	komp.
-FDD	FDD	subst:sg:loc:n2	nazwa pospolita	komp.
+FDD	FDD	subst:sg:loc:n:ncol	nazwa pospolita	komp.
 FDD	FDD	subst:sg:nom:m3	nazwa pospolita	komp.
-FDD	FDD	subst:sg:nom:n2	nazwa pospolita	komp.
+FDD	FDD	subst:sg:nom:n:ncol	nazwa pospolita	komp.
 FDD	FDD	subst:sg:voc:m3	nazwa pospolita	komp.
-FDD	FDD	subst:sg:voc:n2	nazwa pospolita	komp.
+FDD	FDD	subst:sg:voc:n:ncol	nazwa pospolita	komp.
 FDP	FDP:s1	subst:pl:acc:f	nazwa organizacji	
-FDP	FDP:s1	subst:pl:acc:n2	nazwa organizacji	
+FDP	FDP:s1	subst:pl:acc:n:ncol	nazwa organizacji	
 FDP	FDP:s1	subst:pl:dat:f	nazwa organizacji	
-FDP	FDP:s1	subst:pl:dat:n2	nazwa organizacji	
+FDP	FDP:s1	subst:pl:dat:n:ncol	nazwa organizacji	
 FDP	FDP:s1	subst:pl:gen:f	nazwa organizacji	
-FDP	FDP:s1	subst:pl:gen:n2	nazwa organizacji	
+FDP	FDP:s1	subst:pl:gen:n:ncol	nazwa organizacji	
 FDP	FDP:s1	subst:pl:inst:f	nazwa organizacji	
-FDP	FDP:s1	subst:pl:inst:n2	nazwa organizacji	
+FDP	FDP:s1	subst:pl:inst:n:ncol	nazwa organizacji	
 FDP	FDP:s1	subst:pl:loc:f	nazwa organizacji	
-FDP	FDP:s1	subst:pl:loc:n2	nazwa organizacji	
+FDP	FDP:s1	subst:pl:loc:n:ncol	nazwa organizacji	
 FDP	FDP:s1	subst:pl:nom:f	nazwa organizacji	
-FDP	FDP:s1	subst:pl:nom:n2	nazwa organizacji	
+FDP	FDP:s1	subst:pl:nom:n:ncol	nazwa organizacji	
 FDP	FDP:s1	subst:pl:voc:f	nazwa organizacji	
-FDP	FDP:s1	subst:pl:voc:n2	nazwa organizacji	
+FDP	FDP:s1	subst:pl:voc:n:ncol	nazwa organizacji	
 FDP	FDP:s1	subst:sg:acc:f	nazwa organizacji	
-FDP	FDP:s1	subst:sg:acc:n2	nazwa organizacji	
+FDP	FDP:s1	subst:sg:acc:n:ncol	nazwa organizacji	
 FDP	FDP:s1	subst:sg:dat:f	nazwa organizacji	
-FDP	FDP:s1	subst:sg:dat:n2	nazwa organizacji	
+FDP	FDP:s1	subst:sg:dat:n:ncol	nazwa organizacji	
 FDP	FDP:s1	subst:sg:gen:f	nazwa organizacji	
-FDP	FDP:s1	subst:sg:gen:n2	nazwa organizacji	
+FDP	FDP:s1	subst:sg:gen:n:ncol	nazwa organizacji	
 FDP	FDP:s1	subst:sg:inst:f	nazwa organizacji	
-FDP	FDP:s1	subst:sg:inst:n2	nazwa organizacji	
+FDP	FDP:s1	subst:sg:inst:n:ncol	nazwa organizacji	
 FDP	FDP:s1	subst:sg:loc:f	nazwa organizacji	
-FDP	FDP:s1	subst:sg:loc:n2	nazwa organizacji	
+FDP	FDP:s1	subst:sg:loc:n:ncol	nazwa organizacji	
 FDP	FDP:s1	subst:sg:nom:f	nazwa organizacji	
-FDP	FDP:s1	subst:sg:nom:n2	nazwa organizacji	
+FDP	FDP:s1	subst:sg:nom:n:ncol	nazwa organizacji	
 FDP	FDP:s1	subst:sg:voc:f	nazwa organizacji	
-FDP	FDP:s1	subst:sg:voc:n2	nazwa organizacji	
-FDP	FDP:s2	subst:pl:acc:n2	nazwa organizacji	
-FDP	FDP:s2	subst:pl:dat:n2	nazwa organizacji	
-FDP	FDP:s2	subst:pl:gen:n2	nazwa organizacji	
-FDP	FDP:s2	subst:pl:inst:n2	nazwa organizacji	
-FDP	FDP:s2	subst:pl:loc:n2	nazwa organizacji	
-FDP	FDP:s2	subst:pl:nom:n2	nazwa organizacji	
-FDP	FDP:s2	subst:pl:voc:n2	nazwa organizacji	
-FDP	FDP:s2	subst:sg:acc:n2	nazwa organizacji	
-FDP	FDP:s2	subst:sg:dat:n2	nazwa organizacji	
-FDP	FDP:s2	subst:sg:gen:n2	nazwa organizacji	
-FDP	FDP:s2	subst:sg:inst:n2	nazwa organizacji	
-FDP	FDP:s2	subst:sg:loc:n2	nazwa organizacji	
-FDP	FDP:s2	subst:sg:nom:n2	nazwa organizacji	
-FDP	FDP:s2	subst:sg:voc:n2	nazwa organizacji	
+FDP	FDP:s1	subst:sg:voc:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:pl:acc:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:pl:dat:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:pl:gen:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:pl:inst:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:pl:loc:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:pl:nom:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:pl:voc:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:sg:acc:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:sg:dat:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:sg:gen:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:sg:inst:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:sg:loc:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:sg:nom:n:ncol	nazwa organizacji	
+FDP	FDP:s2	subst:sg:voc:n:ncol	nazwa organizacji	
 Febusach	Febus	subst:pl:loc:m1	imię	mit.
 Febusa	Febus	subst:sg:acc:m1	imię	mit.
 Febusa	Febus	subst:sg:gen:m1	imię	mit.
@@ -1396,21 +1396,21 @@ Fieldorfów	Fieldorf	subst:pl:gen:m1	nazwisko
 Fieldorfy	Fieldorf	depr:pl:nom:m2	nazwisko	
 Fieldorfy	Fieldorf	depr:pl:voc:m2	nazwisko	
 FIF-ach	FIFA	subst:pl:loc:f	nazwa organizacji	
-FIFA	FIFA	subst:pl:acc:n2	nazwa organizacji	
-FIFA	FIFA	subst:pl:dat:n2	nazwa organizacji	
-FIFA	FIFA	subst:pl:gen:n2	nazwa organizacji	
-FIFA	FIFA	subst:pl:inst:n2	nazwa organizacji	
-FIFA	FIFA	subst:pl:loc:n2	nazwa organizacji	
-FIFA	FIFA	subst:pl:nom:n2	nazwa organizacji	
-FIFA	FIFA	subst:pl:voc:n2	nazwa organizacji	
-FIFA	FIFA	subst:sg:acc:n2	nazwa organizacji	
-FIFA	FIFA	subst:sg:dat:n2	nazwa organizacji	
-FIFA	FIFA	subst:sg:gen:n2	nazwa organizacji	
-FIFA	FIFA	subst:sg:inst:n2	nazwa organizacji	
-FIFA	FIFA	subst:sg:loc:n2	nazwa organizacji	
+FIFA	FIFA	subst:pl:acc:n:ncol	nazwa organizacji	
+FIFA	FIFA	subst:pl:dat:n:ncol	nazwa organizacji	
+FIFA	FIFA	subst:pl:gen:n:ncol	nazwa organizacji	
+FIFA	FIFA	subst:pl:inst:n:ncol	nazwa organizacji	
+FIFA	FIFA	subst:pl:loc:n:ncol	nazwa organizacji	
+FIFA	FIFA	subst:pl:nom:n:ncol	nazwa organizacji	
+FIFA	FIFA	subst:pl:voc:n:ncol	nazwa organizacji	
+FIFA	FIFA	subst:sg:acc:n:ncol	nazwa organizacji	
+FIFA	FIFA	subst:sg:dat:n:ncol	nazwa organizacji	
+FIFA	FIFA	subst:sg:gen:n:ncol	nazwa organizacji	
+FIFA	FIFA	subst:sg:inst:n:ncol	nazwa organizacji	
+FIFA	FIFA	subst:sg:loc:n:ncol	nazwa organizacji	
 FIFA	FIFA	subst:sg:nom:f	nazwa organizacji	
-FIFA	FIFA	subst:sg:nom:n2	nazwa organizacji	
-FIFA	FIFA	subst:sg:voc:n2	nazwa organizacji	
+FIFA	FIFA	subst:sg:nom:n:ncol	nazwa organizacji	
+FIFA	FIFA	subst:sg:voc:n:ncol	nazwa organizacji	
 FIF-ami	FIFA	subst:pl:inst:f	nazwa organizacji	
 FIF-ą	FIFA	subst:sg:inst:f	nazwa organizacji	
 FIF-ę	FIFA	subst:sg:acc:f	nazwa organizacji	
@@ -1748,20 +1748,20 @@ Filipinki	Filipinka	subst:pl:voc:f	nazwa pospolita
 Filipinki	Filipinka	subst:sg:gen:f	nazwa pospolita	
 Filipinko	Filipinka	subst:sg:voc:f	nazwa pospolita	
 Filipinkom	Filipinka	subst:pl:dat:f	nazwa pospolita	
-Filipinach	Filipiny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Filipinach	Filipiny	subst:pl:loc:p3	nazwa geograficzna	
-Filipinami	Filipiny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Filipinami	Filipiny	subst:pl:inst:p3	nazwa geograficzna	
-Filipin	Filipiny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Filipin	Filipiny	subst:pl:gen:p3	nazwa geograficzna	
-Filipinom	Filipiny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Filipinom	Filipiny	subst:pl:dat:p3	nazwa geograficzna	
-Filipiny	Filipiny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Filipiny	Filipiny	subst:pl:acc:p3	nazwa geograficzna	
-Filipiny	Filipiny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Filipiny	Filipiny	subst:pl:nom:p3	nazwa geograficzna	
-Filipiny	Filipiny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Filipiny	Filipiny	subst:pl:voc:p3	nazwa geograficzna	
+Filipinach	Filipiny	subst:pl:loc:n:pt	nazwa geograficzna	
+Filipinach	Filipiny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Filipinami	Filipiny	subst:pl:inst:n:pt	nazwa geograficzna	
+Filipinami	Filipiny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Filipin	Filipiny	subst:pl:gen:n:pt	nazwa geograficzna	
+Filipin	Filipiny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Filipinom	Filipiny	subst:pl:dat:n:pt	nazwa geograficzna	
+Filipinom	Filipiny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Filipiny	Filipiny	subst:pl:acc:n:pt	nazwa geograficzna	
+Filipiny	Filipiny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Filipiny	Filipiny	subst:pl:nom:n:pt	nazwa geograficzna	
+Filipiny	Filipiny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Filipiny	Filipiny	subst:pl:voc:n:pt	nazwa geograficzna	
+Filipiny	Filipiny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Filipińczycy	Filipińczyk	subst:pl:nom:m1	nazwa pospolita	
 Filipińczycy	Filipińczyk	subst:pl:voc:m1	nazwa pospolita	
 Filipińczykach	Filipińczyk	subst:pl:loc:m1	nazwa pospolita	
@@ -1811,20 +1811,20 @@ Filipowy	Filipów	subst:pl:nom:m3	nazwa geograficzna
 Filipowy	Filipów	subst:pl:voc:m3	nazwa geograficzna	
 Filipów	Filipów	subst:sg:acc:m3	nazwa geograficzna	
 Filipów	Filipów	subst:sg:nom:m3	nazwa geograficzna	
-Filippi	Filippi	subst:pl:acc:n2	nazwa geograficzna	
-Filippi	Filippi	subst:pl:dat:n2	nazwa geograficzna	
-Filippi	Filippi	subst:pl:gen:n2	nazwa geograficzna	
-Filippi	Filippi	subst:pl:inst:n2	nazwa geograficzna	
-Filippi	Filippi	subst:pl:loc:n2	nazwa geograficzna	
-Filippi	Filippi	subst:pl:nom:n2	nazwa geograficzna	
-Filippi	Filippi	subst:pl:voc:n2	nazwa geograficzna	
-Filippi	Filippi	subst:sg:acc:n2	nazwa geograficzna	
-Filippi	Filippi	subst:sg:dat:n2	nazwa geograficzna	
-Filippi	Filippi	subst:sg:gen:n2	nazwa geograficzna	
-Filippi	Filippi	subst:sg:inst:n2	nazwa geograficzna	
-Filippi	Filippi	subst:sg:loc:n2	nazwa geograficzna	
-Filippi	Filippi	subst:sg:nom:n2	nazwa geograficzna	
-Filippi	Filippi	subst:sg:voc:n2	nazwa geograficzna	
+Filippi	Filippi	subst:pl:acc:n:ncol	nazwa geograficzna	
+Filippi	Filippi	subst:pl:dat:n:ncol	nazwa geograficzna	
+Filippi	Filippi	subst:pl:gen:n:ncol	nazwa geograficzna	
+Filippi	Filippi	subst:pl:inst:n:ncol	nazwa geograficzna	
+Filippi	Filippi	subst:pl:loc:n:ncol	nazwa geograficzna	
+Filippi	Filippi	subst:pl:nom:n:ncol	nazwa geograficzna	
+Filippi	Filippi	subst:pl:voc:n:ncol	nazwa geograficzna	
+Filippi	Filippi	subst:sg:acc:n:ncol	nazwa geograficzna	
+Filippi	Filippi	subst:sg:dat:n:ncol	nazwa geograficzna	
+Filippi	Filippi	subst:sg:gen:n:ncol	nazwa geograficzna	
+Filippi	Filippi	subst:sg:inst:n:ncol	nazwa geograficzna	
+Filippi	Filippi	subst:sg:loc:n:ncol	nazwa geograficzna	
+Filippi	Filippi	subst:sg:nom:n:ncol	nazwa geograficzna	
+Filippi	Filippi	subst:sg:voc:n:ncol	nazwa geograficzna	
 Filomenach	Filomen	subst:pl:loc:m1	imię	
 Filomena	Filomen	subst:sg:acc:m1	imię	
 Filomena	Filomen	subst:sg:gen:m1	imię	
@@ -2442,22 +2442,22 @@ Floryny	Floryn	depr:pl:voc:m2	imię
 FN-ach	FN	subst:pl:loc:m3	nazwa instytucji	
 FN-ami	FN	subst:pl:inst:m3	nazwa instytucji	
 FN-em	FN	subst:sg:inst:m3	nazwa instytucji	
-FN	FN	subst:pl:acc:n2	nazwa instytucji	
-FN	FN	subst:pl:dat:n2	nazwa instytucji	
-FN	FN	subst:pl:gen:n2	nazwa instytucji	
-FN	FN	subst:pl:inst:n2	nazwa instytucji	
-FN	FN	subst:pl:loc:n2	nazwa instytucji	
-FN	FN	subst:pl:nom:n2	nazwa instytucji	
-FN	FN	subst:pl:voc:n2	nazwa instytucji	
+FN	FN	subst:pl:acc:n:ncol	nazwa instytucji	
+FN	FN	subst:pl:dat:n:ncol	nazwa instytucji	
+FN	FN	subst:pl:gen:n:ncol	nazwa instytucji	
+FN	FN	subst:pl:inst:n:ncol	nazwa instytucji	
+FN	FN	subst:pl:loc:n:ncol	nazwa instytucji	
+FN	FN	subst:pl:nom:n:ncol	nazwa instytucji	
+FN	FN	subst:pl:voc:n:ncol	nazwa instytucji	
 FN	FN	subst:sg:acc:m3	nazwa instytucji	
-FN	FN	subst:sg:acc:n2	nazwa instytucji	
-FN	FN	subst:sg:dat:n2	nazwa instytucji	
-FN	FN	subst:sg:gen:n2	nazwa instytucji	
-FN	FN	subst:sg:inst:n2	nazwa instytucji	
-FN	FN	subst:sg:loc:n2	nazwa instytucji	
+FN	FN	subst:sg:acc:n:ncol	nazwa instytucji	
+FN	FN	subst:sg:dat:n:ncol	nazwa instytucji	
+FN	FN	subst:sg:gen:n:ncol	nazwa instytucji	
+FN	FN	subst:sg:inst:n:ncol	nazwa instytucji	
+FN	FN	subst:sg:loc:n:ncol	nazwa instytucji	
 FN	FN	subst:sg:nom:m3	nazwa instytucji	
-FN	FN	subst:sg:nom:n2	nazwa instytucji	
-FN	FN	subst:sg:voc:n2	nazwa instytucji	
+FN	FN	subst:sg:nom:n:ncol	nazwa instytucji	
+FN	FN	subst:sg:voc:n:ncol	nazwa instytucji	
 FN-ie	FN	subst:sg:loc:m3	nazwa instytucji	
 FN-ie	FN	subst:sg:voc:m3	nazwa instytucji	
 FN-om	FN	subst:pl:dat:m3	nazwa instytucji	
@@ -2784,20 +2784,20 @@ Fortunaty	Fortunata	subst:pl:acc:f	imię
 Fortunaty	Fortunata	subst:pl:nom:f	imię	
 Fortunaty	Fortunata	subst:pl:voc:f	imię	
 Fortunaty	Fortunata	subst:sg:gen:f	imię	
-Fosowskich	Fosowskie	subst:pl:gen:n2	nazwa geograficzna	
-Fosowskich	Fosowskie	subst:pl:loc:n2	nazwa geograficzna	
-Fosowskie	Fosowskie	subst:pl:acc:n2	nazwa geograficzna	
-Fosowskie	Fosowskie	subst:pl:nom:n2	nazwa geograficzna	
-Fosowskie	Fosowskie	subst:pl:voc:n2	nazwa geograficzna	
-Fosowskie	Fosowskie	subst:sg:acc:n2	nazwa geograficzna	
-Fosowskie	Fosowskie	subst:sg:nom:n2	nazwa geograficzna	
-Fosowskie	Fosowskie	subst:sg:voc:n2	nazwa geograficzna	
-Fosowskiego	Fosowskie	subst:sg:gen:n2	nazwa geograficzna	
-Fosowskiem	Fosowskie	subst:sg:inst:n2	nazwa geograficzna	
-Fosowskiem	Fosowskie	subst:sg:loc:n2	nazwa geograficzna	
-Fosowskiemu	Fosowskie	subst:sg:dat:n2	nazwa geograficzna	
-Fosowskim	Fosowskie	subst:pl:dat:n2	nazwa geograficzna	
-Fosowskimi	Fosowskie	subst:pl:inst:n2	nazwa geograficzna	
+Fosowskich	Fosowskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Fosowskich	Fosowskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Fosowskie	Fosowskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Fosowskie	Fosowskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Fosowskie	Fosowskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Fosowskie	Fosowskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Fosowskie	Fosowskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Fosowskie	Fosowskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Fosowskiego	Fosowskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Fosowskiem	Fosowskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Fosowskiem	Fosowskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Fosowskiemu	Fosowskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Fosowskim	Fosowskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Fosowskimi	Fosowskie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Foucaulcie	Foucault	subst:sg:loc:m1	nazwisko	
 Foucaulcie	Foucault	subst:sg:voc:m1	nazwisko	
 Foucaultach	Foucault	subst:pl:loc:m1	nazwisko	
@@ -2933,20 +2933,20 @@ Francików	Francik	subst:pl:gen:m1	imię
 Franciku	Francik	subst:sg:loc:m1	imię	
 Franciku	Francik	subst:sg:voc:m1	imię	
 Francisco	Francisco:b	burk		
-Francisco	Francisco:s	subst:pl:acc:n2	człon nazwy geograficznej	
-Francisco	Francisco:s	subst:pl:dat:n2	człon nazwy geograficznej	
-Francisco	Francisco:s	subst:pl:gen:n2	człon nazwy geograficznej	
-Francisco	Francisco:s	subst:pl:inst:n2	człon nazwy geograficznej	
-Francisco	Francisco:s	subst:pl:loc:n2	człon nazwy geograficznej	
-Francisco	Francisco:s	subst:pl:nom:n2	człon nazwy geograficznej	
-Francisco	Francisco:s	subst:pl:voc:n2	człon nazwy geograficznej	
-Francisco	Francisco:s	subst:sg:acc:n2	człon nazwy geograficznej	
-Francisco	Francisco:s	subst:sg:dat:n2	człon nazwy geograficznej	
-Francisco	Francisco:s	subst:sg:gen:n2	człon nazwy geograficznej	
-Francisco	Francisco:s	subst:sg:inst:n2	człon nazwy geograficznej	
-Francisco	Francisco:s	subst:sg:loc:n2	człon nazwy geograficznej	
-Francisco	Francisco:s	subst:sg:nom:n2	człon nazwy geograficznej	
-Francisco	Francisco:s	subst:sg:voc:n2	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:pl:acc:n:ncol	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:pl:dat:n:ncol	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:pl:gen:n:ncol	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:pl:inst:n:ncol	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:pl:loc:n:ncol	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:pl:nom:n:ncol	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:pl:voc:n:ncol	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:sg:acc:n:ncol	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:sg:dat:n:ncol	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:sg:gen:n:ncol	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:sg:inst:n:ncol	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:sg:loc:n:ncol	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:sg:nom:n:ncol	człon nazwy geograficznej	
+Francisco	Francisco:s	subst:sg:voc:n:ncol	człon nazwy geograficznej	
 Franciszek	Franciszek	subst:sg:nom:m1	imię	
 Franciszkach	Franciszek	subst:pl:loc:m1	imię	
 Franciszka	Franciszek	subst:sg:acc:m1	imię	
@@ -3930,47 +3930,47 @@ FSM-y	FSM	subst:pl:acc:m3	nazwa firmy
 FSM-y	FSM	subst:pl:nom:m3	nazwa firmy	
 FSM-y	FSM	subst:pl:voc:m3	nazwa firmy	
 FSO	FSO	subst:pl:acc:f	nazwa firmy	
-FSO	FSO	subst:pl:acc:n2	nazwa firmy	
+FSO	FSO	subst:pl:acc:n:ncol	nazwa firmy	
 FSO	FSO	subst:pl:dat:f	nazwa firmy	
-FSO	FSO	subst:pl:dat:n2	nazwa firmy	
+FSO	FSO	subst:pl:dat:n:ncol	nazwa firmy	
 FSO	FSO	subst:pl:gen:f	nazwa firmy	
-FSO	FSO	subst:pl:gen:n2	nazwa firmy	
+FSO	FSO	subst:pl:gen:n:ncol	nazwa firmy	
 FSO	FSO	subst:pl:inst:f	nazwa firmy	
-FSO	FSO	subst:pl:inst:n2	nazwa firmy	
+FSO	FSO	subst:pl:inst:n:ncol	nazwa firmy	
 FSO	FSO	subst:pl:loc:f	nazwa firmy	
-FSO	FSO	subst:pl:loc:n2	nazwa firmy	
+FSO	FSO	subst:pl:loc:n:ncol	nazwa firmy	
 FSO	FSO	subst:pl:nom:f	nazwa firmy	
-FSO	FSO	subst:pl:nom:n2	nazwa firmy	
+FSO	FSO	subst:pl:nom:n:ncol	nazwa firmy	
 FSO	FSO	subst:pl:voc:f	nazwa firmy	
-FSO	FSO	subst:pl:voc:n2	nazwa firmy	
+FSO	FSO	subst:pl:voc:n:ncol	nazwa firmy	
 FSO	FSO	subst:sg:acc:f	nazwa firmy	
-FSO	FSO	subst:sg:acc:n2	nazwa firmy	
+FSO	FSO	subst:sg:acc:n:ncol	nazwa firmy	
 FSO	FSO	subst:sg:dat:f	nazwa firmy	
-FSO	FSO	subst:sg:dat:n2	nazwa firmy	
+FSO	FSO	subst:sg:dat:n:ncol	nazwa firmy	
 FSO	FSO	subst:sg:gen:f	nazwa firmy	
-FSO	FSO	subst:sg:gen:n2	nazwa firmy	
+FSO	FSO	subst:sg:gen:n:ncol	nazwa firmy	
 FSO	FSO	subst:sg:inst:f	nazwa firmy	
-FSO	FSO	subst:sg:inst:n2	nazwa firmy	
+FSO	FSO	subst:sg:inst:n:ncol	nazwa firmy	
 FSO	FSO	subst:sg:loc:f	nazwa firmy	
-FSO	FSO	subst:sg:loc:n2	nazwa firmy	
+FSO	FSO	subst:sg:loc:n:ncol	nazwa firmy	
 FSO	FSO	subst:sg:nom:f	nazwa firmy	
-FSO	FSO	subst:sg:nom:n2	nazwa firmy	
+FSO	FSO	subst:sg:nom:n:ncol	nazwa firmy	
 FSO	FSO	subst:sg:voc:f	nazwa firmy	
-FSO	FSO	subst:sg:voc:n2	nazwa firmy	
-FTP	FTP	subst:pl:acc:n2	nazwa pospolita	komp.
-FTP	FTP	subst:pl:dat:n2	nazwa pospolita	komp.
-FTP	FTP	subst:pl:gen:n2	nazwa pospolita	komp.
-FTP	FTP	subst:pl:inst:n2	nazwa pospolita	komp.
-FTP	FTP	subst:pl:loc:n2	nazwa pospolita	komp.
-FTP	FTP	subst:pl:nom:n2	nazwa pospolita	komp.
-FTP	FTP	subst:pl:voc:n2	nazwa pospolita	komp.
-FTP	FTP	subst:sg:acc:n2	nazwa pospolita	komp.
-FTP	FTP	subst:sg:dat:n2	nazwa pospolita	komp.
-FTP	FTP	subst:sg:gen:n2	nazwa pospolita	komp.
-FTP	FTP	subst:sg:inst:n2	nazwa pospolita	komp.
-FTP	FTP	subst:sg:loc:n2	nazwa pospolita	komp.
-FTP	FTP	subst:sg:nom:n2	nazwa pospolita	komp.
-FTP	FTP	subst:sg:voc:n2	nazwa pospolita	komp.
+FSO	FSO	subst:sg:voc:n:ncol	nazwa firmy	
+FTP	FTP	subst:pl:acc:n:ncol	nazwa pospolita	komp.
+FTP	FTP	subst:pl:dat:n:ncol	nazwa pospolita	komp.
+FTP	FTP	subst:pl:gen:n:ncol	nazwa pospolita	komp.
+FTP	FTP	subst:pl:inst:n:ncol	nazwa pospolita	komp.
+FTP	FTP	subst:pl:loc:n:ncol	nazwa pospolita	komp.
+FTP	FTP	subst:pl:nom:n:ncol	nazwa pospolita	komp.
+FTP	FTP	subst:pl:voc:n:ncol	nazwa pospolita	komp.
+FTP	FTP	subst:sg:acc:n:ncol	nazwa pospolita	komp.
+FTP	FTP	subst:sg:dat:n:ncol	nazwa pospolita	komp.
+FTP	FTP	subst:sg:gen:n:ncol	nazwa pospolita	komp.
+FTP	FTP	subst:sg:inst:n:ncol	nazwa pospolita	komp.
+FTP	FTP	subst:sg:loc:n:ncol	nazwa pospolita	komp.
+FTP	FTP	subst:sg:nom:n:ncol	nazwa pospolita	komp.
+FTP	FTP	subst:sg:voc:n:ncol	nazwa pospolita	komp.
 Fulbrighcie	Fulbright	subst:sg:loc:m1	nazwisko	
 Fulbrighcie	Fulbright	subst:sg:voc:m1	nazwisko	
 Fulbrightach	Fulbright	subst:pl:loc:m1	nazwisko	

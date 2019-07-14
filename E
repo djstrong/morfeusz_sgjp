@@ -74,20 +74,20 @@ EBOR-y	EBOR	subst:pl:nom:m3	nazwa instytucji
 EBOR-y	EBOR	subst:pl:voc:m3	nazwa instytucji	
 EBOR-ze	EBOR	subst:sg:loc:m3	nazwa instytucji	
 EBOR-ze	EBOR	subst:sg:voc:m3	nazwa instytucji	
-EBU	EBU	subst:pl:acc:n2	nazwa organizacji	
-EBU	EBU	subst:pl:dat:n2	nazwa organizacji	
-EBU	EBU	subst:pl:gen:n2	nazwa organizacji	
-EBU	EBU	subst:pl:inst:n2	nazwa organizacji	
-EBU	EBU	subst:pl:loc:n2	nazwa organizacji	
-EBU	EBU	subst:pl:nom:n2	nazwa organizacji	
-EBU	EBU	subst:pl:voc:n2	nazwa organizacji	
-EBU	EBU	subst:sg:acc:n2	nazwa organizacji	
-EBU	EBU	subst:sg:dat:n2	nazwa organizacji	
-EBU	EBU	subst:sg:gen:n2	nazwa organizacji	
-EBU	EBU	subst:sg:inst:n2	nazwa organizacji	
-EBU	EBU	subst:sg:loc:n2	nazwa organizacji	
-EBU	EBU	subst:sg:nom:n2	nazwa organizacji	
-EBU	EBU	subst:sg:voc:n2	nazwa organizacji	
+EBU	EBU	subst:pl:acc:n:ncol	nazwa organizacji	
+EBU	EBU	subst:pl:dat:n:ncol	nazwa organizacji	
+EBU	EBU	subst:pl:gen:n:ncol	nazwa organizacji	
+EBU	EBU	subst:pl:inst:n:ncol	nazwa organizacji	
+EBU	EBU	subst:pl:loc:n:ncol	nazwa organizacji	
+EBU	EBU	subst:pl:nom:n:ncol	nazwa organizacji	
+EBU	EBU	subst:pl:voc:n:ncol	nazwa organizacji	
+EBU	EBU	subst:sg:acc:n:ncol	nazwa organizacji	
+EBU	EBU	subst:sg:dat:n:ncol	nazwa organizacji	
+EBU	EBU	subst:sg:gen:n:ncol	nazwa organizacji	
+EBU	EBU	subst:sg:inst:n:ncol	nazwa organizacji	
+EBU	EBU	subst:sg:loc:n:ncol	nazwa organizacji	
+EBU	EBU	subst:sg:nom:n:ncol	nazwa organizacji	
+EBU	EBU	subst:sg:voc:n:ncol	nazwa organizacji	
 Eco	Eco	depr:pl:nom:m2	nazwisko	
 Eco	Eco	depr:pl:voc:m2	nazwisko	
 Eco	Eco	subst:pl:acc:m1	nazwisko	
@@ -104,20 +104,20 @@ Eco	Eco	subst:sg:inst:m1	nazwisko
 Eco	Eco	subst:sg:loc:m1	nazwisko	
 Eco	Eco	subst:sg:nom:m1	nazwisko	
 Eco	Eco	subst:sg:voc:m1	nazwisko	
-ECU	ECU	subst:pl:acc:n2	nazwa pospolita	
-ECU	ECU	subst:pl:dat:n2	nazwa pospolita	
-ECU	ECU	subst:pl:gen:n2	nazwa pospolita	
-ECU	ECU	subst:pl:inst:n2	nazwa pospolita	
-ECU	ECU	subst:pl:loc:n2	nazwa pospolita	
-ECU	ECU	subst:pl:nom:n2	nazwa pospolita	
-ECU	ECU	subst:pl:voc:n2	nazwa pospolita	
-ECU	ECU	subst:sg:acc:n2	nazwa pospolita	
-ECU	ECU	subst:sg:dat:n2	nazwa pospolita	
-ECU	ECU	subst:sg:gen:n2	nazwa pospolita	
-ECU	ECU	subst:sg:inst:n2	nazwa pospolita	
-ECU	ECU	subst:sg:loc:n2	nazwa pospolita	
-ECU	ECU	subst:sg:nom:n2	nazwa pospolita	
-ECU	ECU	subst:sg:voc:n2	nazwa pospolita	
+ECU	ECU	subst:pl:acc:n:ncol	nazwa pospolita	
+ECU	ECU	subst:pl:dat:n:ncol	nazwa pospolita	
+ECU	ECU	subst:pl:gen:n:ncol	nazwa pospolita	
+ECU	ECU	subst:pl:inst:n:ncol	nazwa pospolita	
+ECU	ECU	subst:pl:loc:n:ncol	nazwa pospolita	
+ECU	ECU	subst:pl:nom:n:ncol	nazwa pospolita	
+ECU	ECU	subst:pl:voc:n:ncol	nazwa pospolita	
+ECU	ECU	subst:sg:acc:n:ncol	nazwa pospolita	
+ECU	ECU	subst:sg:dat:n:ncol	nazwa pospolita	
+ECU	ECU	subst:sg:gen:n:ncol	nazwa pospolita	
+ECU	ECU	subst:sg:inst:n:ncol	nazwa pospolita	
+ECU	ECU	subst:sg:loc:n:ncol	nazwa pospolita	
+ECU	ECU	subst:sg:nom:n:ncol	nazwa pospolita	
+ECU	ECU	subst:sg:voc:n:ncol	nazwa pospolita	
 Edach	Ed	subst:pl:loc:m1	imię	
 Eda	Ed	subst:sg:acc:m1	imię	
 Eda	Ed	subst:sg:gen:m1	imię	
@@ -459,20 +459,20 @@ Edziów	Edzio	subst:pl:acc:m1	imię
 Edziów	Edzio	subst:pl:gen:m1	imię	
 Edziu	Edzio	subst:sg:loc:m1	imię	
 Edziu	Edzio	subst:sg:voc:m1	imię	
-EEG	EEG	subst:pl:acc:n2	nazwa pospolita	med.
-EEG	EEG	subst:pl:dat:n2	nazwa pospolita	med.
-EEG	EEG	subst:pl:gen:n2	nazwa pospolita	med.
-EEG	EEG	subst:pl:inst:n2	nazwa pospolita	med.
-EEG	EEG	subst:pl:loc:n2	nazwa pospolita	med.
-EEG	EEG	subst:pl:nom:n2	nazwa pospolita	med.
-EEG	EEG	subst:pl:voc:n2	nazwa pospolita	med.
-EEG	EEG	subst:sg:acc:n2	nazwa pospolita	med.
-EEG	EEG	subst:sg:dat:n2	nazwa pospolita	med.
-EEG	EEG	subst:sg:gen:n2	nazwa pospolita	med.
-EEG	EEG	subst:sg:inst:n2	nazwa pospolita	med.
-EEG	EEG	subst:sg:loc:n2	nazwa pospolita	med.
-EEG	EEG	subst:sg:nom:n2	nazwa pospolita	med.
-EEG	EEG	subst:sg:voc:n2	nazwa pospolita	med.
+EEG	EEG	subst:pl:acc:n:ncol	nazwa pospolita	med.
+EEG	EEG	subst:pl:dat:n:ncol	nazwa pospolita	med.
+EEG	EEG	subst:pl:gen:n:ncol	nazwa pospolita	med.
+EEG	EEG	subst:pl:inst:n:ncol	nazwa pospolita	med.
+EEG	EEG	subst:pl:loc:n:ncol	nazwa pospolita	med.
+EEG	EEG	subst:pl:nom:n:ncol	nazwa pospolita	med.
+EEG	EEG	subst:pl:voc:n:ncol	nazwa pospolita	med.
+EEG	EEG	subst:sg:acc:n:ncol	nazwa pospolita	med.
+EEG	EEG	subst:sg:dat:n:ncol	nazwa pospolita	med.
+EEG	EEG	subst:sg:gen:n:ncol	nazwa pospolita	med.
+EEG	EEG	subst:sg:inst:n:ncol	nazwa pospolita	med.
+EEG	EEG	subst:sg:loc:n:ncol	nazwa pospolita	med.
+EEG	EEG	subst:sg:nom:n:ncol	nazwa pospolita	med.
+EEG	EEG	subst:sg:voc:n:ncol	nazwa pospolita	med.
 Efezach	Efez	subst:pl:loc:m3	nazwa geograficzna	
 Efezami	Efez	subst:pl:inst:m3	nazwa geograficzna	
 Efez	Efez	subst:sg:acc:m3	nazwa geograficzna	
@@ -813,20 +813,20 @@ Eisensteinów	Eisenstein	subst:pl:acc:m1	nazwisko
 Eisensteinów	Eisenstein	subst:pl:gen:m1	nazwisko	
 Eisensteiny	Eisenstein	depr:pl:nom:m2	nazwisko	
 Eisensteiny	Eisenstein	depr:pl:voc:m2	nazwisko	
-EKG	EKG	subst:pl:acc:n2	nazwa pospolita	
-EKG	EKG	subst:pl:dat:n2	nazwa pospolita	
-EKG	EKG	subst:pl:gen:n2	nazwa pospolita	
-EKG	EKG	subst:pl:inst:n2	nazwa pospolita	
-EKG	EKG	subst:pl:loc:n2	nazwa pospolita	
-EKG	EKG	subst:pl:nom:n2	nazwa pospolita	
-EKG	EKG	subst:pl:voc:n2	nazwa pospolita	
-EKG	EKG	subst:sg:acc:n2	nazwa pospolita	
-EKG	EKG	subst:sg:dat:n2	nazwa pospolita	
-EKG	EKG	subst:sg:gen:n2	nazwa pospolita	
-EKG	EKG	subst:sg:inst:n2	nazwa pospolita	
-EKG	EKG	subst:sg:loc:n2	nazwa pospolita	
-EKG	EKG	subst:sg:nom:n2	nazwa pospolita	
-EKG	EKG	subst:sg:voc:n2	nazwa pospolita	
+EKG	EKG	subst:pl:acc:n:ncol	nazwa pospolita	
+EKG	EKG	subst:pl:dat:n:ncol	nazwa pospolita	
+EKG	EKG	subst:pl:gen:n:ncol	nazwa pospolita	
+EKG	EKG	subst:pl:inst:n:ncol	nazwa pospolita	
+EKG	EKG	subst:pl:loc:n:ncol	nazwa pospolita	
+EKG	EKG	subst:pl:nom:n:ncol	nazwa pospolita	
+EKG	EKG	subst:pl:voc:n:ncol	nazwa pospolita	
+EKG	EKG	subst:sg:acc:n:ncol	nazwa pospolita	
+EKG	EKG	subst:sg:dat:n:ncol	nazwa pospolita	
+EKG	EKG	subst:sg:gen:n:ncol	nazwa pospolita	
+EKG	EKG	subst:sg:inst:n:ncol	nazwa pospolita	
+EKG	EKG	subst:sg:loc:n:ncol	nazwa pospolita	
+EKG	EKG	subst:sg:nom:n:ncol	nazwa pospolita	
+EKG	EKG	subst:sg:voc:n:ncol	nazwa pospolita	
 Ekiercie	Ekiert	subst:sg:loc:m1	nazwisko	
 Ekiercie	Ekiert	subst:sg:voc:m1	nazwisko	
 Ekiertach	Ekiert	subst:pl:loc:m1	nazwisko	
@@ -947,20 +947,20 @@ Elblągowi	Elbląg	subst:sg:dat:m3	nazwa geograficzna
 Elblągów	Elbląg	subst:pl:gen:m3	nazwa geograficzna	
 Elblągu	Elbląg	subst:sg:loc:m3	nazwa geograficzna	
 Elblągu	Elbląg	subst:sg:voc:m3	nazwa geograficzna	
-Elbląskich	Elbląskie	subst:pl:gen:n2	nazwa geograficzna	
-Elbląskich	Elbląskie	subst:pl:loc:n2	nazwa geograficzna	
-Elbląskie	Elbląskie	subst:pl:acc:n2	nazwa geograficzna	
-Elbląskie	Elbląskie	subst:pl:nom:n2	nazwa geograficzna	
-Elbląskie	Elbląskie	subst:pl:voc:n2	nazwa geograficzna	
-Elbląskie	Elbląskie	subst:sg:acc:n2	nazwa geograficzna	
-Elbląskie	Elbląskie	subst:sg:nom:n2	nazwa geograficzna	
-Elbląskie	Elbląskie	subst:sg:voc:n2	nazwa geograficzna	
-Elbląskiego	Elbląskie	subst:sg:gen:n2	nazwa geograficzna	
-Elbląskiem	Elbląskie	subst:sg:inst:n2	nazwa geograficzna	
-Elbląskiem	Elbląskie	subst:sg:loc:n2	nazwa geograficzna	
-Elbląskiemu	Elbląskie	subst:sg:dat:n2	nazwa geograficzna	
-Elbląskim	Elbląskie	subst:pl:dat:n2	nazwa geograficzna	
-Elbląskimi	Elbląskie	subst:pl:inst:n2	nazwa geograficzna	
+Elbląskich	Elbląskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Elbląskich	Elbląskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Elbląskie	Elbląskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Elbląskie	Elbląskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Elbląskie	Elbląskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Elbląskie	Elbląskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Elbląskie	Elbląskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Elbląskie	Elbląskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Elbląskiego	Elbląskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Elbląskiem	Elbląskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Elbląskiem	Elbląskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Elbląskiemu	Elbląskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Elbląskim	Elbląskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Elbląskimi	Elbląskie	subst:pl:inst:n:ncol	nazwa geograficzna	
 Eleazarach	Eleazar	subst:pl:loc:m1	imię	
 Eleazara	Eleazar	subst:sg:acc:m1	imię	
 Eleazara	Eleazar	subst:sg:gen:m1	imię	
@@ -1243,20 +1243,20 @@ Elizeuszów	Elizeusz	subst:pl:acc:m1	imię
 Elizeuszów	Elizeusz	subst:pl:gen:m1	imię	
 Elizeuszu	Elizeusz	subst:sg:loc:m1	imię	
 Elizeuszu	Elizeusz	subst:sg:voc:m1	imię	
-Elizjach	Elizjum	subst:pl:loc:n2	nazwa własna	mit.
-Elizja	Elizjum	subst:pl:acc:n2	nazwa własna	mit.
-Elizja	Elizjum	subst:pl:nom:n2	nazwa własna	mit.
-Elizja	Elizjum	subst:pl:voc:n2	nazwa własna	mit.
-Elizjami	Elizjum	subst:pl:inst:n2	nazwa własna	mit.
-Elizjom	Elizjum	subst:pl:dat:n2	nazwa własna	mit.
-Elizjów	Elizjum	subst:pl:gen:n2	nazwa własna	mit.
-Elizjum	Elizjum	subst:sg:acc:n2	nazwa własna	mit.
-Elizjum	Elizjum	subst:sg:dat:n2	nazwa własna	mit.
-Elizjum	Elizjum	subst:sg:gen:n2	nazwa własna	mit.
-Elizjum	Elizjum	subst:sg:inst:n2	nazwa własna	mit.
-Elizjum	Elizjum	subst:sg:loc:n2	nazwa własna	mit.
-Elizjum	Elizjum	subst:sg:nom:n2	nazwa własna	mit.
-Elizjum	Elizjum	subst:sg:voc:n2	nazwa własna	mit.
+Elizjach	Elizjum	subst:pl:loc:n:ncol	nazwa własna	mit.
+Elizja	Elizjum	subst:pl:acc:n:ncol	nazwa własna	mit.
+Elizja	Elizjum	subst:pl:nom:n:ncol	nazwa własna	mit.
+Elizja	Elizjum	subst:pl:voc:n:ncol	nazwa własna	mit.
+Elizjami	Elizjum	subst:pl:inst:n:ncol	nazwa własna	mit.
+Elizjom	Elizjum	subst:pl:dat:n:ncol	nazwa własna	mit.
+Elizjów	Elizjum	subst:pl:gen:n:ncol	nazwa własna	mit.
+Elizjum	Elizjum	subst:sg:acc:n:ncol	nazwa własna	mit.
+Elizjum	Elizjum	subst:sg:dat:n:ncol	nazwa własna	mit.
+Elizjum	Elizjum	subst:sg:gen:n:ncol	nazwa własna	mit.
+Elizjum	Elizjum	subst:sg:inst:n:ncol	nazwa własna	mit.
+Elizjum	Elizjum	subst:sg:loc:n:ncol	nazwa własna	mit.
+Elizjum	Elizjum	subst:sg:nom:n:ncol	nazwa własna	mit.
+Elizjum	Elizjum	subst:sg:voc:n:ncol	nazwa własna	mit.
 Eljakimach	Eljakim	subst:pl:loc:m1	imię	
 Eljakima	Eljakim	subst:sg:acc:m1	imię	
 Eljakima	Eljakim	subst:sg:gen:m1	imię	
@@ -1529,20 +1529,20 @@ Emanuelów	Emanuel	subst:pl:acc:m1	imię
 Emanuelów	Emanuel	subst:pl:gen:m1	imię	
 Emanuelu	Emanuel	subst:sg:loc:m1	imię	
 Emanuelu	Emanuel	subst:sg:voc:m1	imię	
-Emaus	Emaus	subst:pl:acc:n2	nazwa geograficzna	
-Emaus	Emaus	subst:pl:dat:n2	nazwa geograficzna	
-Emaus	Emaus	subst:pl:gen:n2	nazwa geograficzna	
-Emaus	Emaus	subst:pl:inst:n2	nazwa geograficzna	
-Emaus	Emaus	subst:pl:loc:n2	nazwa geograficzna	
-Emaus	Emaus	subst:pl:nom:n2	nazwa geograficzna	
-Emaus	Emaus	subst:pl:voc:n2	nazwa geograficzna	
-Emaus	Emaus	subst:sg:acc:n2	nazwa geograficzna	
-Emaus	Emaus	subst:sg:dat:n2	nazwa geograficzna	
-Emaus	Emaus	subst:sg:gen:n2	nazwa geograficzna	
-Emaus	Emaus	subst:sg:inst:n2	nazwa geograficzna	
-Emaus	Emaus	subst:sg:loc:n2	nazwa geograficzna	
-Emaus	Emaus	subst:sg:nom:n2	nazwa geograficzna	
-Emaus	Emaus	subst:sg:voc:n2	nazwa geograficzna	
+Emaus	Emaus	subst:pl:acc:n:ncol	nazwa geograficzna	
+Emaus	Emaus	subst:pl:dat:n:ncol	nazwa geograficzna	
+Emaus	Emaus	subst:pl:gen:n:ncol	nazwa geograficzna	
+Emaus	Emaus	subst:pl:inst:n:ncol	nazwa geograficzna	
+Emaus	Emaus	subst:pl:loc:n:ncol	nazwa geograficzna	
+Emaus	Emaus	subst:pl:nom:n:ncol	nazwa geograficzna	
+Emaus	Emaus	subst:pl:voc:n:ncol	nazwa geograficzna	
+Emaus	Emaus	subst:sg:acc:n:ncol	nazwa geograficzna	
+Emaus	Emaus	subst:sg:dat:n:ncol	nazwa geograficzna	
+Emaus	Emaus	subst:sg:gen:n:ncol	nazwa geograficzna	
+Emaus	Emaus	subst:sg:inst:n:ncol	nazwa geograficzna	
+Emaus	Emaus	subst:sg:loc:n:ncol	nazwa geograficzna	
+Emaus	Emaus	subst:sg:nom:n:ncol	nazwa geograficzna	
+Emaus	Emaus	subst:sg:voc:n:ncol	nazwa geograficzna	
 Emerencjach	Emerencja	subst:pl:loc:f	imię	
 Emerencja	Emerencja	subst:sg:nom:f	imię	
 Emerencjami	Emerencja	subst:pl:inst:f	imię	
@@ -1590,20 +1590,20 @@ Emeryków	Emeryk	subst:pl:acc:m1	imię
 Emeryków	Emeryk	subst:pl:gen:m1	imię	
 Emeryku	Emeryk	subst:sg:loc:m1	imię	
 Emeryku	Emeryk	subst:sg:voc:m1	imię	
-EMG	EMG	subst:pl:acc:n2	nazwa pospolita	
-EMG	EMG	subst:pl:dat:n2	nazwa pospolita	
-EMG	EMG	subst:pl:gen:n2	nazwa pospolita	
-EMG	EMG	subst:pl:inst:n2	nazwa pospolita	
-EMG	EMG	subst:pl:loc:n2	nazwa pospolita	
-EMG	EMG	subst:pl:nom:n2	nazwa pospolita	
-EMG	EMG	subst:pl:voc:n2	nazwa pospolita	
-EMG	EMG	subst:sg:acc:n2	nazwa pospolita	
-EMG	EMG	subst:sg:dat:n2	nazwa pospolita	
-EMG	EMG	subst:sg:gen:n2	nazwa pospolita	
-EMG	EMG	subst:sg:inst:n2	nazwa pospolita	
-EMG	EMG	subst:sg:loc:n2	nazwa pospolita	
-EMG	EMG	subst:sg:nom:n2	nazwa pospolita	
-EMG	EMG	subst:sg:voc:n2	nazwa pospolita	
+EMG	EMG	subst:pl:acc:n:ncol	nazwa pospolita	
+EMG	EMG	subst:pl:dat:n:ncol	nazwa pospolita	
+EMG	EMG	subst:pl:gen:n:ncol	nazwa pospolita	
+EMG	EMG	subst:pl:inst:n:ncol	nazwa pospolita	
+EMG	EMG	subst:pl:loc:n:ncol	nazwa pospolita	
+EMG	EMG	subst:pl:nom:n:ncol	nazwa pospolita	
+EMG	EMG	subst:pl:voc:n:ncol	nazwa pospolita	
+EMG	EMG	subst:sg:acc:n:ncol	nazwa pospolita	
+EMG	EMG	subst:sg:dat:n:ncol	nazwa pospolita	
+EMG	EMG	subst:sg:gen:n:ncol	nazwa pospolita	
+EMG	EMG	subst:sg:inst:n:ncol	nazwa pospolita	
+EMG	EMG	subst:sg:loc:n:ncol	nazwa pospolita	
+EMG	EMG	subst:sg:nom:n:ncol	nazwa pospolita	
+EMG	EMG	subst:sg:voc:n:ncol	nazwa pospolita	
 Emilach	Emil	subst:pl:loc:m1	imię	
 Emila	Emil	subst:sg:acc:m1	imię	
 Emila	Emil	subst:sg:gen:m1	imię	
@@ -1954,61 +1954,61 @@ Eolów	Eol	subst:pl:gen:m1	imię	mit.
 Eolu	Eol	subst:sg:loc:m1	imię	mit.
 Eolu	Eol	subst:sg:voc:m1	imię	mit.
 EP	EP	subst:pl:acc:m3	nazwa organizacji	
-EP	EP	subst:pl:acc:n2	nazwa organizacji	
+EP	EP	subst:pl:acc:n:ncol	nazwa organizacji	
 EP	EP	subst:pl:dat:m3	nazwa organizacji	
-EP	EP	subst:pl:dat:n2	nazwa organizacji	
+EP	EP	subst:pl:dat:n:ncol	nazwa organizacji	
 EP	EP	subst:pl:gen:m3	nazwa organizacji	
-EP	EP	subst:pl:gen:n2	nazwa organizacji	
+EP	EP	subst:pl:gen:n:ncol	nazwa organizacji	
 EP	EP	subst:pl:inst:m3	nazwa organizacji	
-EP	EP	subst:pl:inst:n2	nazwa organizacji	
+EP	EP	subst:pl:inst:n:ncol	nazwa organizacji	
 EP	EP	subst:pl:loc:m3	nazwa organizacji	
-EP	EP	subst:pl:loc:n2	nazwa organizacji	
+EP	EP	subst:pl:loc:n:ncol	nazwa organizacji	
 EP	EP	subst:pl:nom:m3	nazwa organizacji	
-EP	EP	subst:pl:nom:n2	nazwa organizacji	
+EP	EP	subst:pl:nom:n:ncol	nazwa organizacji	
 EP	EP	subst:pl:voc:m3	nazwa organizacji	
-EP	EP	subst:pl:voc:n2	nazwa organizacji	
+EP	EP	subst:pl:voc:n:ncol	nazwa organizacji	
 EP	EP	subst:sg:acc:m3	nazwa organizacji	
-EP	EP	subst:sg:acc:n2	nazwa organizacji	
+EP	EP	subst:sg:acc:n:ncol	nazwa organizacji	
 EP	EP	subst:sg:dat:m3	nazwa organizacji	
-EP	EP	subst:sg:dat:n2	nazwa organizacji	
+EP	EP	subst:sg:dat:n:ncol	nazwa organizacji	
 EP	EP	subst:sg:gen:m3	nazwa organizacji	
-EP	EP	subst:sg:gen:n2	nazwa organizacji	
+EP	EP	subst:sg:gen:n:ncol	nazwa organizacji	
 EP	EP	subst:sg:inst:m3	nazwa organizacji	
-EP	EP	subst:sg:inst:n2	nazwa organizacji	
+EP	EP	subst:sg:inst:n:ncol	nazwa organizacji	
 EP	EP	subst:sg:loc:m3	nazwa organizacji	
-EP	EP	subst:sg:loc:n2	nazwa organizacji	
+EP	EP	subst:sg:loc:n:ncol	nazwa organizacji	
 EP	EP	subst:sg:nom:m3	nazwa organizacji	
-EP	EP	subst:sg:nom:n2	nazwa organizacji	
+EP	EP	subst:sg:nom:n:ncol	nazwa organizacji	
 EP	EP	subst:sg:voc:m3	nazwa organizacji	
-EP	EP	subst:sg:voc:n2	nazwa organizacji	
+EP	EP	subst:sg:voc:n:ncol	nazwa organizacji	
 EPA	EPA	subst:pl:acc:f	nazwa firmy	
-EPA	EPA	subst:pl:acc:n2	nazwa firmy	
+EPA	EPA	subst:pl:acc:n:ncol	nazwa firmy	
 EPA	EPA	subst:pl:dat:f	nazwa firmy	
-EPA	EPA	subst:pl:dat:n2	nazwa firmy	
+EPA	EPA	subst:pl:dat:n:ncol	nazwa firmy	
 EPA	EPA	subst:pl:gen:f	nazwa firmy	
-EPA	EPA	subst:pl:gen:n2	nazwa firmy	
+EPA	EPA	subst:pl:gen:n:ncol	nazwa firmy	
 EPA	EPA	subst:pl:inst:f	nazwa firmy	
-EPA	EPA	subst:pl:inst:n2	nazwa firmy	
+EPA	EPA	subst:pl:inst:n:ncol	nazwa firmy	
 EPA	EPA	subst:pl:loc:f	nazwa firmy	
-EPA	EPA	subst:pl:loc:n2	nazwa firmy	
+EPA	EPA	subst:pl:loc:n:ncol	nazwa firmy	
 EPA	EPA	subst:pl:nom:f	nazwa firmy	
-EPA	EPA	subst:pl:nom:n2	nazwa firmy	
+EPA	EPA	subst:pl:nom:n:ncol	nazwa firmy	
 EPA	EPA	subst:pl:voc:f	nazwa firmy	
-EPA	EPA	subst:pl:voc:n2	nazwa firmy	
+EPA	EPA	subst:pl:voc:n:ncol	nazwa firmy	
 EPA	EPA	subst:sg:acc:f	nazwa firmy	
-EPA	EPA	subst:sg:acc:n2	nazwa firmy	
+EPA	EPA	subst:sg:acc:n:ncol	nazwa firmy	
 EPA	EPA	subst:sg:dat:f	nazwa firmy	
-EPA	EPA	subst:sg:dat:n2	nazwa firmy	
+EPA	EPA	subst:sg:dat:n:ncol	nazwa firmy	
 EPA	EPA	subst:sg:gen:f	nazwa firmy	
-EPA	EPA	subst:sg:gen:n2	nazwa firmy	
+EPA	EPA	subst:sg:gen:n:ncol	nazwa firmy	
 EPA	EPA	subst:sg:inst:f	nazwa firmy	
-EPA	EPA	subst:sg:inst:n2	nazwa firmy	
+EPA	EPA	subst:sg:inst:n:ncol	nazwa firmy	
 EPA	EPA	subst:sg:loc:f	nazwa firmy	
-EPA	EPA	subst:sg:loc:n2	nazwa firmy	
+EPA	EPA	subst:sg:loc:n:ncol	nazwa firmy	
 EPA	EPA	subst:sg:nom:f	nazwa firmy	
-EPA	EPA	subst:sg:nom:n2	nazwa firmy	
+EPA	EPA	subst:sg:nom:n:ncol	nazwa firmy	
 EPA	EPA	subst:sg:voc:f	nazwa firmy	
-EPA	EPA	subst:sg:voc:n2	nazwa firmy	
+EPA	EPA	subst:sg:voc:n:ncol	nazwa firmy	
 Epifanach	Epifan	subst:pl:loc:m1	imię	
 Epifana	Epifan	subst:sg:acc:m1	imię	
 Epifana	Epifan	subst:sg:gen:m1	imię	
@@ -2546,20 +2546,20 @@ Esperancom	Esperanca	subst:pl:dat:f	imię
 Esperancy	Esperanca	subst:sg:dat:f	imię	
 Esperancy	Esperanca	subst:sg:gen:f	imię	
 Esperancy	Esperanca	subst:sg:loc:f	imię	
-Essen	Essen	subst:pl:acc:n2	nazwa geograficzna	
-Essen	Essen	subst:pl:dat:n2	nazwa geograficzna	
-Essen	Essen	subst:pl:gen:n2	nazwa geograficzna	
-Essen	Essen	subst:pl:inst:n2	nazwa geograficzna	
-Essen	Essen	subst:pl:loc:n2	nazwa geograficzna	
-Essen	Essen	subst:pl:nom:n2	nazwa geograficzna	
-Essen	Essen	subst:pl:voc:n2	nazwa geograficzna	
-Essen	Essen	subst:sg:acc:n2	nazwa geograficzna	
-Essen	Essen	subst:sg:dat:n2	nazwa geograficzna	
-Essen	Essen	subst:sg:gen:n2	nazwa geograficzna	
-Essen	Essen	subst:sg:inst:n2	nazwa geograficzna	
-Essen	Essen	subst:sg:loc:n2	nazwa geograficzna	
-Essen	Essen	subst:sg:nom:n2	nazwa geograficzna	
-Essen	Essen	subst:sg:voc:n2	nazwa geograficzna	
+Essen	Essen	subst:pl:acc:n:ncol	nazwa geograficzna	
+Essen	Essen	subst:pl:dat:n:ncol	nazwa geograficzna	
+Essen	Essen	subst:pl:gen:n:ncol	nazwa geograficzna	
+Essen	Essen	subst:pl:inst:n:ncol	nazwa geograficzna	
+Essen	Essen	subst:pl:loc:n:ncol	nazwa geograficzna	
+Essen	Essen	subst:pl:nom:n:ncol	nazwa geograficzna	
+Essen	Essen	subst:pl:voc:n:ncol	nazwa geograficzna	
+Essen	Essen	subst:sg:acc:n:ncol	nazwa geograficzna	
+Essen	Essen	subst:sg:dat:n:ncol	nazwa geograficzna	
+Essen	Essen	subst:sg:gen:n:ncol	nazwa geograficzna	
+Essen	Essen	subst:sg:inst:n:ncol	nazwa geograficzna	
+Essen	Essen	subst:sg:loc:n:ncol	nazwa geograficzna	
+Essen	Essen	subst:sg:nom:n:ncol	nazwa geograficzna	
+Essen	Essen	subst:sg:voc:n:ncol	nazwa geograficzna	
 Esseksach	Essex	subst:pl:loc:m1	nazwisko	
 Esseksa	Essex	subst:sg:acc:m1	nazwisko	
 Esseksa	Essex	subst:sg:gen:m1	nazwisko	
@@ -3167,22 +3167,22 @@ EUROPOL-e	EUROPOL	subst:pl:acc:m3	nazwa instytucji
 EUROPOL-e	EUROPOL	subst:pl:nom:m3	nazwa instytucji	
 EUROPOL-e	EUROPOL	subst:pl:voc:m3	nazwa instytucji	
 EUROPOL-em	EUROPOL	subst:sg:inst:m3	nazwa instytucji	
-EUROPOL	EUROPOL	subst:pl:acc:n2	nazwa instytucji	
-EUROPOL	EUROPOL	subst:pl:dat:n2	nazwa instytucji	
-EUROPOL	EUROPOL	subst:pl:gen:n2	nazwa instytucji	
-EUROPOL	EUROPOL	subst:pl:inst:n2	nazwa instytucji	
-EUROPOL	EUROPOL	subst:pl:loc:n2	nazwa instytucji	
-EUROPOL	EUROPOL	subst:pl:nom:n2	nazwa instytucji	
-EUROPOL	EUROPOL	subst:pl:voc:n2	nazwa instytucji	
+EUROPOL	EUROPOL	subst:pl:acc:n:ncol	nazwa instytucji	
+EUROPOL	EUROPOL	subst:pl:dat:n:ncol	nazwa instytucji	
+EUROPOL	EUROPOL	subst:pl:gen:n:ncol	nazwa instytucji	
+EUROPOL	EUROPOL	subst:pl:inst:n:ncol	nazwa instytucji	
+EUROPOL	EUROPOL	subst:pl:loc:n:ncol	nazwa instytucji	
+EUROPOL	EUROPOL	subst:pl:nom:n:ncol	nazwa instytucji	
+EUROPOL	EUROPOL	subst:pl:voc:n:ncol	nazwa instytucji	
 EUROPOL	EUROPOL	subst:sg:acc:m3	nazwa instytucji	
-EUROPOL	EUROPOL	subst:sg:acc:n2	nazwa instytucji	
-EUROPOL	EUROPOL	subst:sg:dat:n2	nazwa instytucji	
-EUROPOL	EUROPOL	subst:sg:gen:n2	nazwa instytucji	
-EUROPOL	EUROPOL	subst:sg:inst:n2	nazwa instytucji	
-EUROPOL	EUROPOL	subst:sg:loc:n2	nazwa instytucji	
+EUROPOL	EUROPOL	subst:sg:acc:n:ncol	nazwa instytucji	
+EUROPOL	EUROPOL	subst:sg:dat:n:ncol	nazwa instytucji	
+EUROPOL	EUROPOL	subst:sg:gen:n:ncol	nazwa instytucji	
+EUROPOL	EUROPOL	subst:sg:inst:n:ncol	nazwa instytucji	
+EUROPOL	EUROPOL	subst:sg:loc:n:ncol	nazwa instytucji	
 EUROPOL	EUROPOL	subst:sg:nom:m3	nazwa instytucji	
-EUROPOL	EUROPOL	subst:sg:nom:n2	nazwa instytucji	
-EUROPOL	EUROPOL	subst:sg:voc:n2	nazwa instytucji	
+EUROPOL	EUROPOL	subst:sg:nom:n:ncol	nazwa instytucji	
+EUROPOL	EUROPOL	subst:sg:voc:n:ncol	nazwa instytucji	
 EUROPOL-i	EUROPOL	subst:pl:gen:m3	nazwa instytucji	
 EUROPOL-om	EUROPOL	subst:pl:dat:m3	nazwa instytucji	
 EUROPOL-owi	EUROPOL	subst:sg:dat:m3	nazwa instytucji	
@@ -3475,33 +3475,33 @@ Ewerysty	Eweryst	depr:pl:voc:m2	imię
 Eweryście	Eweryst	subst:sg:loc:m1	imię	
 Eweryście	Eweryst	subst:sg:voc:m1	imię	
 EWG	EWG	subst:pl:acc:f	nazwa organizacji	
-EWG	EWG	subst:pl:acc:n2	nazwa organizacji	
+EWG	EWG	subst:pl:acc:n:ncol	nazwa organizacji	
 EWG	EWG	subst:pl:dat:f	nazwa organizacji	
-EWG	EWG	subst:pl:dat:n2	nazwa organizacji	
+EWG	EWG	subst:pl:dat:n:ncol	nazwa organizacji	
 EWG	EWG	subst:pl:gen:f	nazwa organizacji	
-EWG	EWG	subst:pl:gen:n2	nazwa organizacji	
+EWG	EWG	subst:pl:gen:n:ncol	nazwa organizacji	
 EWG	EWG	subst:pl:inst:f	nazwa organizacji	
-EWG	EWG	subst:pl:inst:n2	nazwa organizacji	
+EWG	EWG	subst:pl:inst:n:ncol	nazwa organizacji	
 EWG	EWG	subst:pl:loc:f	nazwa organizacji	
-EWG	EWG	subst:pl:loc:n2	nazwa organizacji	
+EWG	EWG	subst:pl:loc:n:ncol	nazwa organizacji	
 EWG	EWG	subst:pl:nom:f	nazwa organizacji	
-EWG	EWG	subst:pl:nom:n2	nazwa organizacji	
+EWG	EWG	subst:pl:nom:n:ncol	nazwa organizacji	
 EWG	EWG	subst:pl:voc:f	nazwa organizacji	
-EWG	EWG	subst:pl:voc:n2	nazwa organizacji	
+EWG	EWG	subst:pl:voc:n:ncol	nazwa organizacji	
 EWG	EWG	subst:sg:acc:f	nazwa organizacji	
-EWG	EWG	subst:sg:acc:n2	nazwa organizacji	
+EWG	EWG	subst:sg:acc:n:ncol	nazwa organizacji	
 EWG	EWG	subst:sg:dat:f	nazwa organizacji	
-EWG	EWG	subst:sg:dat:n2	nazwa organizacji	
+EWG	EWG	subst:sg:dat:n:ncol	nazwa organizacji	
 EWG	EWG	subst:sg:gen:f	nazwa organizacji	
-EWG	EWG	subst:sg:gen:n2	nazwa organizacji	
+EWG	EWG	subst:sg:gen:n:ncol	nazwa organizacji	
 EWG	EWG	subst:sg:inst:f	nazwa organizacji	
-EWG	EWG	subst:sg:inst:n2	nazwa organizacji	
+EWG	EWG	subst:sg:inst:n:ncol	nazwa organizacji	
 EWG	EWG	subst:sg:loc:f	nazwa organizacji	
-EWG	EWG	subst:sg:loc:n2	nazwa organizacji	
+EWG	EWG	subst:sg:loc:n:ncol	nazwa organizacji	
 EWG	EWG	subst:sg:nom:f	nazwa organizacji	
-EWG	EWG	subst:sg:nom:n2	nazwa organizacji	
+EWG	EWG	subst:sg:nom:n:ncol	nazwa organizacji	
 EWG	EWG	subst:sg:voc:f	nazwa organizacji	
-EWG	EWG	subst:sg:voc:n2	nazwa organizacji	
+EWG	EWG	subst:sg:voc:n:ncol	nazwa organizacji	
 Ewce	Ewka	subst:sg:dat:f	imię	
 Ewce	Ewka	subst:sg:loc:f	imię	
 Ewek	Ewka	subst:pl:gen:f	imię	

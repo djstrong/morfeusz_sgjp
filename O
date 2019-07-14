@@ -57,33 +57,33 @@ Oby	Ob	subst:pl:acc:m3	nazwa geograficzna
 Oby	Ob	subst:pl:nom:m3	nazwa geograficzna	
 Oby	Ob	subst:pl:voc:m3	nazwa geograficzna	
 OB	OB	subst:pl:acc:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:pl:acc:n2	nazwa pospolita	med.
+OB	OB	subst:pl:acc:n:ncol	nazwa pospolita	med.
 OB	OB	subst:pl:dat:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:pl:dat:n2	nazwa pospolita	med.
+OB	OB	subst:pl:dat:n:ncol	nazwa pospolita	med.
 OB	OB	subst:pl:gen:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:pl:gen:n2	nazwa pospolita	med.
+OB	OB	subst:pl:gen:n:ncol	nazwa pospolita	med.
 OB	OB	subst:pl:inst:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:pl:inst:n2	nazwa pospolita	med.
+OB	OB	subst:pl:inst:n:ncol	nazwa pospolita	med.
 OB	OB	subst:pl:loc:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:pl:loc:n2	nazwa pospolita	med.
+OB	OB	subst:pl:loc:n:ncol	nazwa pospolita	med.
 OB	OB	subst:pl:nom:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:pl:nom:n2	nazwa pospolita	med.
+OB	OB	subst:pl:nom:n:ncol	nazwa pospolita	med.
 OB	OB	subst:pl:voc:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:pl:voc:n2	nazwa pospolita	med.
+OB	OB	subst:pl:voc:n:ncol	nazwa pospolita	med.
 OB	OB	subst:sg:acc:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:sg:acc:n2	nazwa pospolita	med.
+OB	OB	subst:sg:acc:n:ncol	nazwa pospolita	med.
 OB	OB	subst:sg:dat:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:sg:dat:n2	nazwa pospolita	med.
+OB	OB	subst:sg:dat:n:ncol	nazwa pospolita	med.
 OB	OB	subst:sg:gen:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:sg:gen:n2	nazwa pospolita	med.
+OB	OB	subst:sg:gen:n:ncol	nazwa pospolita	med.
 OB	OB	subst:sg:inst:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:sg:inst:n2	nazwa pospolita	med.
+OB	OB	subst:sg:inst:n:ncol	nazwa pospolita	med.
 OB	OB	subst:sg:loc:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:sg:loc:n2	nazwa pospolita	med.
+OB	OB	subst:sg:loc:n:ncol	nazwa pospolita	med.
 OB	OB	subst:sg:nom:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:sg:nom:n2	nazwa pospolita	med.
+OB	OB	subst:sg:nom:n:ncol	nazwa pospolita	med.
 OB	OB	subst:sg:voc:m3	nazwa pospolita	med.|rzad.
-OB	OB	subst:sg:voc:n2	nazwa pospolita	med.
+OB	OB	subst:sg:voc:n:ncol	nazwa pospolita	med.
 Obarach	Obara	subst:pl:loc:m1	nazwisko	
 Obarami	Obara	subst:pl:inst:m1	nazwisko	
 Obara	Obara	subst:sg:nom:m1	nazwisko	
@@ -145,20 +145,20 @@ OBOP-u	OBOP	subst:sg:gen:m3	nazwa instytucji
 OBOP-y	OBOP	subst:pl:acc:m3	nazwa instytucji	
 OBOP-y	OBOP	subst:pl:nom:m3	nazwa instytucji	
 OBOP-y	OBOP	subst:pl:voc:m3	nazwa instytucji	
-Obornikach	Oborniki	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Obornikach	Oborniki	subst:pl:loc:p3	nazwa geograficzna	
-Obornikami	Oborniki	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Obornikami	Oborniki	subst:pl:inst:p3	nazwa geograficzna	
-Oborniki	Oborniki	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Oborniki	Oborniki	subst:pl:acc:p3	nazwa geograficzna	
-Oborniki	Oborniki	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Oborniki	Oborniki	subst:pl:nom:p3	nazwa geograficzna	
-Oborniki	Oborniki	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Oborniki	Oborniki	subst:pl:voc:p3	nazwa geograficzna	
-Obornik	Oborniki	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Obornik	Oborniki	subst:pl:gen:p3	nazwa geograficzna	
-Obornikom	Oborniki	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Obornikom	Oborniki	subst:pl:dat:p3	nazwa geograficzna	
+Obornikach	Oborniki	subst:pl:loc:n:pt	nazwa geograficzna	
+Obornikach	Oborniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Obornikami	Oborniki	subst:pl:inst:n:pt	nazwa geograficzna	
+Obornikami	Oborniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Oborniki	Oborniki	subst:pl:acc:n:pt	nazwa geograficzna	
+Oborniki	Oborniki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Oborniki	Oborniki	subst:pl:nom:n:pt	nazwa geograficzna	
+Oborniki	Oborniki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Oborniki	Oborniki	subst:pl:voc:n:pt	nazwa geograficzna	
+Oborniki	Oborniki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Obornik	Oborniki	subst:pl:gen:n:pt	nazwa geograficzna	
+Obornik	Oborniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Obornikom	Oborniki	subst:pl:dat:n:pt	nazwa geograficzna	
+Obornikom	Oborniki	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Obrazcowach	Obrazcow	subst:pl:loc:m1	nazwisko	
 Obrazcowami	Obrazcow	subst:pl:inst:m1	nazwisko	
 Obrazcowa	Obrazcow	subst:sg:acc:m1	nazwisko	
@@ -220,22 +220,22 @@ Obrębskim	Obrębski	subst:sg:inst:m1	nazwisko
 Obrębskim	Obrębski	subst:sg:loc:m1	nazwisko	
 Obrębski	Obrębski	subst:sg:nom:m1	nazwisko	
 Obrębski	Obrębski	subst:sg:voc:m1	nazwisko	
-Obrowach	Obrowo	subst:pl:loc:n2	nazwa geograficzna	
-Obrowami	Obrowo	subst:pl:inst:n2	nazwa geograficzna	
-Obrowa	Obrowo	subst:pl:acc:n2	nazwa geograficzna	
-Obrowa	Obrowo	subst:pl:nom:n2	nazwa geograficzna	
-Obrowa	Obrowo	subst:pl:voc:n2	nazwa geograficzna	
-Obrowa	Obrowo	subst:sg:gen:n2	nazwa geograficzna	
-Obrowem	Obrowo	subst:sg:inst:n2	nazwa geograficzna	
-Obrowie	Obrowo	subst:sg:loc:n2	nazwa geograficzna	
-Obrow	Obrowo	subst:pl:gen:n2	nazwa geograficzna	
-Obrowom	Obrowo	subst:pl:dat:n2	nazwa geograficzna	
-Obrowo	Obrowo	subst:sg:acc:n2	nazwa geograficzna	
-Obrowo	Obrowo	subst:sg:nom:n2	nazwa geograficzna	
-Obrowo	Obrowo	subst:sg:voc:n2	nazwa geograficzna	
-Obrowów	Obrowo	subst:pl:gen:n2	nazwa geograficzna	
-Obrowu	Obrowo	subst:sg:dat:n2	nazwa geograficzna	
-Obrów	Obrowo	subst:pl:gen:n2	nazwa geograficzna	
+Obrowach	Obrowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Obrowami	Obrowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Obrowa	Obrowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Obrowa	Obrowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Obrowa	Obrowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Obrowa	Obrowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Obrowem	Obrowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Obrowie	Obrowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Obrow	Obrowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Obrowom	Obrowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Obrowo	Obrowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Obrowo	Obrowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Obrowo	Obrowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Obrowów	Obrowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Obrowu	Obrowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Obrów	Obrowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Obrzycach	Obrzyca	subst:pl:loc:f	nazwa geograficzna	
 Obrzycami	Obrzyca	subst:pl:inst:f	nazwa geograficzna	
 Obrzyca	Obrzyca	subst:sg:nom:f	nazwa geograficzna	
@@ -250,20 +250,20 @@ Obrzyco	Obrzyca	subst:sg:voc:f	nazwa geograficzna
 Obrzycy	Obrzyca	subst:sg:dat:f	nazwa geograficzna	
 Obrzycy	Obrzyca	subst:sg:gen:f	nazwa geograficzna	
 Obrzycy	Obrzyca	subst:sg:loc:f	nazwa geograficzna	
-OC	OC	subst:pl:acc:n2	nazwa pospolita	
-OC	OC	subst:pl:dat:n2	nazwa pospolita	
-OC	OC	subst:pl:gen:n2	nazwa pospolita	
-OC	OC	subst:pl:inst:n2	nazwa pospolita	
-OC	OC	subst:pl:loc:n2	nazwa pospolita	
-OC	OC	subst:pl:nom:n2	nazwa pospolita	
-OC	OC	subst:pl:voc:n2	nazwa pospolita	
-OC	OC	subst:sg:acc:n2	nazwa pospolita	
-OC	OC	subst:sg:dat:n2	nazwa pospolita	
-OC	OC	subst:sg:gen:n2	nazwa pospolita	
-OC	OC	subst:sg:inst:n2	nazwa pospolita	
-OC	OC	subst:sg:loc:n2	nazwa pospolita	
-OC	OC	subst:sg:nom:n2	nazwa pospolita	
-OC	OC	subst:sg:voc:n2	nazwa pospolita	
+OC	OC	subst:pl:acc:n:ncol	nazwa pospolita	
+OC	OC	subst:pl:dat:n:ncol	nazwa pospolita	
+OC	OC	subst:pl:gen:n:ncol	nazwa pospolita	
+OC	OC	subst:pl:inst:n:ncol	nazwa pospolita	
+OC	OC	subst:pl:loc:n:ncol	nazwa pospolita	
+OC	OC	subst:pl:nom:n:ncol	nazwa pospolita	
+OC	OC	subst:pl:voc:n:ncol	nazwa pospolita	
+OC	OC	subst:sg:acc:n:ncol	nazwa pospolita	
+OC	OC	subst:sg:dat:n:ncol	nazwa pospolita	
+OC	OC	subst:sg:gen:n:ncol	nazwa pospolita	
+OC	OC	subst:sg:inst:n:ncol	nazwa pospolita	
+OC	OC	subst:sg:loc:n:ncol	nazwa pospolita	
+OC	OC	subst:sg:nom:n:ncol	nazwa pospolita	
+OC	OC	subst:sg:voc:n:ncol	nazwa pospolita	
 Oceaniach	Oceania	subst:pl:loc:f	nazwa geograficzna	
 Oceaniami	Oceania	subst:pl:inst:f	nazwa geograficzna	
 Oceania	Oceania	subst:sg:nom:f	nazwa geograficzna	
@@ -748,33 +748,33 @@ Odyseuszów	Odyseusz	subst:pl:gen:m1	imię	mit.
 Odyseuszu	Odyseusz	subst:sg:loc:m1	imię	mit.
 Odyseuszu	Odyseusz	subst:sg:voc:m1	imię	mit.
 OECD	OECD	subst:pl:acc:f	nazwa organizacji	
-OECD	OECD	subst:pl:acc:n2	nazwa organizacji	
+OECD	OECD	subst:pl:acc:n:ncol	nazwa organizacji	
 OECD	OECD	subst:pl:dat:f	nazwa organizacji	
-OECD	OECD	subst:pl:dat:n2	nazwa organizacji	
+OECD	OECD	subst:pl:dat:n:ncol	nazwa organizacji	
 OECD	OECD	subst:pl:gen:f	nazwa organizacji	
-OECD	OECD	subst:pl:gen:n2	nazwa organizacji	
+OECD	OECD	subst:pl:gen:n:ncol	nazwa organizacji	
 OECD	OECD	subst:pl:inst:f	nazwa organizacji	
-OECD	OECD	subst:pl:inst:n2	nazwa organizacji	
+OECD	OECD	subst:pl:inst:n:ncol	nazwa organizacji	
 OECD	OECD	subst:pl:loc:f	nazwa organizacji	
-OECD	OECD	subst:pl:loc:n2	nazwa organizacji	
+OECD	OECD	subst:pl:loc:n:ncol	nazwa organizacji	
 OECD	OECD	subst:pl:nom:f	nazwa organizacji	
-OECD	OECD	subst:pl:nom:n2	nazwa organizacji	
+OECD	OECD	subst:pl:nom:n:ncol	nazwa organizacji	
 OECD	OECD	subst:pl:voc:f	nazwa organizacji	
-OECD	OECD	subst:pl:voc:n2	nazwa organizacji	
+OECD	OECD	subst:pl:voc:n:ncol	nazwa organizacji	
 OECD	OECD	subst:sg:acc:f	nazwa organizacji	
-OECD	OECD	subst:sg:acc:n2	nazwa organizacji	
+OECD	OECD	subst:sg:acc:n:ncol	nazwa organizacji	
 OECD	OECD	subst:sg:dat:f	nazwa organizacji	
-OECD	OECD	subst:sg:dat:n2	nazwa organizacji	
+OECD	OECD	subst:sg:dat:n:ncol	nazwa organizacji	
 OECD	OECD	subst:sg:gen:f	nazwa organizacji	
-OECD	OECD	subst:sg:gen:n2	nazwa organizacji	
+OECD	OECD	subst:sg:gen:n:ncol	nazwa organizacji	
 OECD	OECD	subst:sg:inst:f	nazwa organizacji	
-OECD	OECD	subst:sg:inst:n2	nazwa organizacji	
+OECD	OECD	subst:sg:inst:n:ncol	nazwa organizacji	
 OECD	OECD	subst:sg:loc:f	nazwa organizacji	
-OECD	OECD	subst:sg:loc:n2	nazwa organizacji	
+OECD	OECD	subst:sg:loc:n:ncol	nazwa organizacji	
 OECD	OECD	subst:sg:nom:f	nazwa organizacji	
-OECD	OECD	subst:sg:nom:n2	nazwa organizacji	
+OECD	OECD	subst:sg:nom:n:ncol	nazwa organizacji	
 OECD	OECD	subst:sg:voc:f	nazwa organizacji	
-OECD	OECD	subst:sg:voc:n2	nazwa organizacji	
+OECD	OECD	subst:sg:voc:n:ncol	nazwa organizacji	
 Oerstedach	Oersted	subst:pl:loc:m1	nazwisko	
 Oerstedami	Oersted	subst:pl:inst:m1	nazwisko	
 Oersteda	Oersted	subst:sg:acc:m1	nazwisko	
@@ -792,33 +792,33 @@ Oerstedy	Oersted	depr:pl:voc:m2	nazwisko
 Oerstedzie	Oersted	subst:sg:loc:m1	nazwisko	
 Oerstedzie	Oersted	subst:sg:voc:m1	nazwisko	
 OFE	OFE	subst:pl:acc:m3	nazwa instytucji	
-OFE	OFE	subst:pl:acc:n2	nazwa instytucji	
+OFE	OFE	subst:pl:acc:n:ncol	nazwa instytucji	
 OFE	OFE	subst:pl:dat:m3	nazwa instytucji	
-OFE	OFE	subst:pl:dat:n2	nazwa instytucji	
+OFE	OFE	subst:pl:dat:n:ncol	nazwa instytucji	
 OFE	OFE	subst:pl:gen:m3	nazwa instytucji	
-OFE	OFE	subst:pl:gen:n2	nazwa instytucji	
+OFE	OFE	subst:pl:gen:n:ncol	nazwa instytucji	
 OFE	OFE	subst:pl:inst:m3	nazwa instytucji	
-OFE	OFE	subst:pl:inst:n2	nazwa instytucji	
+OFE	OFE	subst:pl:inst:n:ncol	nazwa instytucji	
 OFE	OFE	subst:pl:loc:m3	nazwa instytucji	
-OFE	OFE	subst:pl:loc:n2	nazwa instytucji	
+OFE	OFE	subst:pl:loc:n:ncol	nazwa instytucji	
 OFE	OFE	subst:pl:nom:m3	nazwa instytucji	
-OFE	OFE	subst:pl:nom:n2	nazwa instytucji	
+OFE	OFE	subst:pl:nom:n:ncol	nazwa instytucji	
 OFE	OFE	subst:pl:voc:m3	nazwa instytucji	
-OFE	OFE	subst:pl:voc:n2	nazwa instytucji	
+OFE	OFE	subst:pl:voc:n:ncol	nazwa instytucji	
 OFE	OFE	subst:sg:acc:m3	nazwa instytucji	
-OFE	OFE	subst:sg:acc:n2	nazwa instytucji	
+OFE	OFE	subst:sg:acc:n:ncol	nazwa instytucji	
 OFE	OFE	subst:sg:dat:m3	nazwa instytucji	
-OFE	OFE	subst:sg:dat:n2	nazwa instytucji	
+OFE	OFE	subst:sg:dat:n:ncol	nazwa instytucji	
 OFE	OFE	subst:sg:gen:m3	nazwa instytucji	
-OFE	OFE	subst:sg:gen:n2	nazwa instytucji	
+OFE	OFE	subst:sg:gen:n:ncol	nazwa instytucji	
 OFE	OFE	subst:sg:inst:m3	nazwa instytucji	
-OFE	OFE	subst:sg:inst:n2	nazwa instytucji	
+OFE	OFE	subst:sg:inst:n:ncol	nazwa instytucji	
 OFE	OFE	subst:sg:loc:m3	nazwa instytucji	
-OFE	OFE	subst:sg:loc:n2	nazwa instytucji	
+OFE	OFE	subst:sg:loc:n:ncol	nazwa instytucji	
 OFE	OFE	subst:sg:nom:m3	nazwa instytucji	
-OFE	OFE	subst:sg:nom:n2	nazwa instytucji	
+OFE	OFE	subst:sg:nom:n:ncol	nazwa instytucji	
 OFE	OFE	subst:sg:voc:m3	nazwa instytucji	
-OFE	OFE	subst:sg:voc:n2	nazwa instytucji	
+OFE	OFE	subst:sg:voc:n:ncol	nazwa instytucji	
 Ofeliach	Ofelia	subst:pl:loc:f	imię	
 Ofeliami	Ofelia	subst:pl:inst:f	imię	
 Ofelia	Ofelia	subst:sg:nom:f	imię	
@@ -910,48 +910,48 @@ Ogonowskim	Ogonowski	subst:sg:inst:m1	nazwisko
 Ogonowskim	Ogonowski	subst:sg:loc:m1	nazwisko	
 Ogonowski	Ogonowski	subst:sg:nom:m1	nazwisko	
 Ogonowski	Ogonowski	subst:sg:voc:m1	nazwisko	
-Ohio	Ohio:s1	subst:pl:acc:n2	nazwa geograficzna	
-Ohio	Ohio:s1	subst:pl:dat:n2	nazwa geograficzna	
-Ohio	Ohio:s1	subst:pl:gen:n2	nazwa geograficzna	
-Ohio	Ohio:s1	subst:pl:inst:n2	nazwa geograficzna	
-Ohio	Ohio:s1	subst:pl:loc:n2	nazwa geograficzna	
-Ohio	Ohio:s1	subst:pl:nom:n2	nazwa geograficzna	
-Ohio	Ohio:s1	subst:pl:voc:n2	nazwa geograficzna	
-Ohio	Ohio:s1	subst:sg:acc:n2	nazwa geograficzna	
-Ohio	Ohio:s1	subst:sg:dat:n2	nazwa geograficzna	
-Ohio	Ohio:s1	subst:sg:gen:n2	nazwa geograficzna	
-Ohio	Ohio:s1	subst:sg:inst:n2	nazwa geograficzna	
-Ohio	Ohio:s1	subst:sg:loc:n2	nazwa geograficzna	
-Ohio	Ohio:s1	subst:sg:nom:n2	nazwa geograficzna	
-Ohio	Ohio:s1	subst:sg:voc:n2	nazwa geograficzna	
+Ohio	Ohio:s1	subst:pl:acc:n:ncol	nazwa geograficzna	
+Ohio	Ohio:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+Ohio	Ohio:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ohio	Ohio:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+Ohio	Ohio:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+Ohio	Ohio:s1	subst:pl:nom:n:ncol	nazwa geograficzna	
+Ohio	Ohio:s1	subst:pl:voc:n:ncol	nazwa geograficzna	
+Ohio	Ohio:s1	subst:sg:acc:n:ncol	nazwa geograficzna	
+Ohio	Ohio:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+Ohio	Ohio:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+Ohio	Ohio:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+Ohio	Ohio:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+Ohio	Ohio:s1	subst:sg:nom:n:ncol	nazwa geograficzna	
+Ohio	Ohio:s1	subst:sg:voc:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:pl:acc:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:pl:acc:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:pl:acc:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:pl:dat:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:pl:dat:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:pl:dat:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:pl:gen:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:pl:gen:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:pl:gen:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:pl:inst:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:pl:inst:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:pl:inst:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:pl:loc:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:pl:loc:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:pl:loc:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:pl:nom:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:pl:nom:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:pl:nom:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:pl:voc:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:pl:voc:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:pl:voc:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:sg:acc:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:sg:acc:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:sg:acc:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:sg:dat:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:sg:dat:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:sg:dat:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:sg:gen:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:sg:gen:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:sg:gen:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:sg:inst:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:sg:inst:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:sg:inst:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:sg:loc:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:sg:loc:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:sg:loc:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:sg:nom:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:sg:nom:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:sg:nom:n:ncol	nazwa geograficzna	
 Ohio	Ohio:s2	subst:sg:voc:f	nazwa geograficzna	
-Ohio	Ohio:s2	subst:sg:voc:n2	nazwa geograficzna	
+Ohio	Ohio:s2	subst:sg:voc:n:ncol	nazwa geograficzna	
 Ohmach	Ohm	subst:pl:loc:m1	nazwisko	
 Ohmami	Ohm	subst:pl:inst:m1	nazwisko	
 Ohma	Ohm	subst:sg:acc:m1	nazwisko	
@@ -968,27 +968,27 @@ Ohmów	Ohm	subst:pl:acc:m1	nazwisko
 Ohmów	Ohm	subst:pl:gen:m1	nazwisko	
 Ohmy	Ohm	depr:pl:nom:m2	nazwisko	
 Ohmy	Ohm	depr:pl:voc:m2	nazwisko	
-OHP	OHP	subst:pl:acc:n2	nazwa organizacji	
-OHP	OHP	subst:pl:acc:p3	nazwa organizacji	
-OHP	OHP	subst:pl:dat:n2	nazwa organizacji	
-OHP	OHP	subst:pl:dat:p3	nazwa organizacji	
-OHP	OHP	subst:pl:gen:n2	nazwa organizacji	
-OHP	OHP	subst:pl:gen:p3	nazwa organizacji	
-OHP	OHP	subst:pl:inst:n2	nazwa organizacji	
-OHP	OHP	subst:pl:inst:p3	nazwa organizacji	
-OHP	OHP	subst:pl:loc:n2	nazwa organizacji	
-OHP	OHP	subst:pl:loc:p3	nazwa organizacji	
-OHP	OHP	subst:pl:nom:n2	nazwa organizacji	
-OHP	OHP	subst:pl:nom:p3	nazwa organizacji	
-OHP	OHP	subst:pl:voc:n2	nazwa organizacji	
-OHP	OHP	subst:pl:voc:p3	nazwa organizacji	
-OHP	OHP	subst:sg:acc:n2	nazwa organizacji	
-OHP	OHP	subst:sg:dat:n2	nazwa organizacji	
-OHP	OHP	subst:sg:gen:n2	nazwa organizacji	
-OHP	OHP	subst:sg:inst:n2	nazwa organizacji	
-OHP	OHP	subst:sg:loc:n2	nazwa organizacji	
-OHP	OHP	subst:sg:nom:n2	nazwa organizacji	
-OHP	OHP	subst:sg:voc:n2	nazwa organizacji	
+OHP	OHP	subst:pl:acc:n:ncol	nazwa organizacji	
+OHP	OHP	subst:pl:acc:n:pt	nazwa organizacji	
+OHP	OHP	subst:pl:dat:n:ncol	nazwa organizacji	
+OHP	OHP	subst:pl:dat:n:pt	nazwa organizacji	
+OHP	OHP	subst:pl:gen:n:ncol	nazwa organizacji	
+OHP	OHP	subst:pl:gen:n:pt	nazwa organizacji	
+OHP	OHP	subst:pl:inst:n:ncol	nazwa organizacji	
+OHP	OHP	subst:pl:inst:n:pt	nazwa organizacji	
+OHP	OHP	subst:pl:loc:n:ncol	nazwa organizacji	
+OHP	OHP	subst:pl:loc:n:pt	nazwa organizacji	
+OHP	OHP	subst:pl:nom:n:ncol	nazwa organizacji	
+OHP	OHP	subst:pl:nom:n:pt	nazwa organizacji	
+OHP	OHP	subst:pl:voc:n:ncol	nazwa organizacji	
+OHP	OHP	subst:pl:voc:n:pt	nazwa organizacji	
+OHP	OHP	subst:sg:acc:n:ncol	nazwa organizacji	
+OHP	OHP	subst:sg:dat:n:ncol	nazwa organizacji	
+OHP	OHP	subst:sg:gen:n:ncol	nazwa organizacji	
+OHP	OHP	subst:sg:inst:n:ncol	nazwa organizacji	
+OHP	OHP	subst:sg:loc:n:ncol	nazwa organizacji	
+OHP	OHP	subst:sg:nom:n:ncol	nazwa organizacji	
+OHP	OHP	subst:sg:voc:n:ncol	nazwa organizacji	
 Oicie	OIT	subst:sg:loc:m3	nazwa instytucji	
 OI-cie	OIT	subst:sg:loc:m3	nazwa instytucji	
 Oicie	OIT	subst:sg:voc:m3	nazwa instytucji	
@@ -1078,21 +1078,21 @@ Oki	Oka	subst:sg:gen:f	nazwa geograficzna
 Ok	Oka	subst:pl:gen:f	nazwa geograficzna	
 Okom	Oka	subst:pl:dat:f	nazwa geograficzna	
 Oko	Oka	subst:sg:voc:f	nazwa geograficzna	
-Okęciach	Okęcie	subst:pl:loc:n2	nazwa geograficzna	
-Okęciami	Okęcie	subst:pl:inst:n2	nazwa geograficzna	
-Okęcia	Okęcie	subst:pl:acc:n2	nazwa geograficzna	
-Okęcia	Okęcie	subst:pl:nom:n2	nazwa geograficzna	
-Okęcia	Okęcie	subst:pl:voc:n2	nazwa geograficzna	
-Okęcia	Okęcie	subst:sg:gen:n2	nazwa geograficzna	
-Okęciem	Okęcie	subst:sg:inst:n2	nazwa geograficzna	
-Okęcie	Okęcie	subst:sg:acc:n2	nazwa geograficzna	
-Okęcie	Okęcie	subst:sg:nom:n2	nazwa geograficzna	
-Okęcie	Okęcie	subst:sg:voc:n2	nazwa geograficzna	
-Okęci	Okęcie	subst:pl:gen:n2	nazwa geograficzna	
-Okęciom	Okęcie	subst:pl:dat:n2	nazwa geograficzna	
-Okęciu	Okęcie	subst:sg:dat:n2	nazwa geograficzna	
-Okęciu	Okęcie	subst:sg:loc:n2	nazwa geograficzna	
-Okęć	Okęcie	subst:pl:gen:n2	nazwa geograficzna	
+Okęciach	Okęcie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Okęciami	Okęcie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Okęcia	Okęcie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Okęcia	Okęcie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Okęcia	Okęcie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Okęcia	Okęcie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Okęciem	Okęcie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Okęcie	Okęcie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Okęcie	Okęcie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Okęcie	Okęcie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Okęci	Okęcie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Okęciom	Okęcie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Okęciu	Okęcie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Okęciu	Okęcie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Okęć	Okęcie	subst:pl:gen:n:ncol	nazwa geograficzna	
 Oklahomach	Oklahoma	subst:pl:loc:f	nazwa geograficzna	
 Oklahomami	Oklahoma	subst:pl:inst:f	nazwa geograficzna	
 Oklahoma	Oklahoma	subst:sg:nom:f	nazwa geograficzna	
@@ -1198,20 +1198,20 @@ Oksfordy	Oksford	subst:pl:nom:m3	nazwa geograficzna
 Oksfordy	Oksford	subst:pl:voc:m3	nazwa geograficzna	
 Oksfordzie	Oksford	subst:sg:loc:m3	nazwa geograficzna	
 Oksfordzie	Oksford	subst:sg:voc:m3	nazwa geograficzna	
-Oksywiach	Oksywie	subst:pl:loc:n2	nazwa geograficzna	
-Oksywiami	Oksywie	subst:pl:inst:n2	nazwa geograficzna	
-Oksywia	Oksywie	subst:pl:acc:n2	nazwa geograficzna	
-Oksywia	Oksywie	subst:pl:nom:n2	nazwa geograficzna	
-Oksywia	Oksywie	subst:pl:voc:n2	nazwa geograficzna	
-Oksywia	Oksywie	subst:sg:gen:n2	nazwa geograficzna	
-Oksywiem	Oksywie	subst:sg:inst:n2	nazwa geograficzna	
-Oksywie	Oksywie	subst:sg:acc:n2	nazwa geograficzna	
-Oksywie	Oksywie	subst:sg:nom:n2	nazwa geograficzna	
-Oksywie	Oksywie	subst:sg:voc:n2	nazwa geograficzna	
-Oksywi	Oksywie	subst:pl:gen:n2	nazwa geograficzna	
-Oksywiom	Oksywie	subst:pl:dat:n2	nazwa geograficzna	
-Oksywiu	Oksywie	subst:sg:dat:n2	nazwa geograficzna	
-Oksywiu	Oksywie	subst:sg:loc:n2	nazwa geograficzna	
+Oksywiach	Oksywie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Oksywiami	Oksywie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Oksywia	Oksywie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Oksywia	Oksywie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Oksywia	Oksywie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Oksywia	Oksywie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Oksywiem	Oksywie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Oksywie	Oksywie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Oksywie	Oksywie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Oksywie	Oksywie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Oksywi	Oksywie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Oksywiom	Oksywie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Oksywiu	Oksywie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Oksywiu	Oksywie	subst:sg:loc:n:ncol	nazwa geograficzna	
 Oktawiach	Oktawia	subst:pl:loc:f	imię	
 Oktawiami	Oktawia	subst:pl:inst:f	imię	
 Oktawia	Oktawia	subst:sg:nom:f	imię	
@@ -1479,20 +1479,20 @@ Olechowskim	Olechowski	subst:sg:inst:m1	nazwisko
 Olechowskim	Olechowski	subst:sg:loc:m1	nazwisko	
 Olechowski	Olechowski	subst:sg:nom:m1	nazwisko	
 Olechowski	Olechowski	subst:sg:voc:m1	nazwisko	
-Oleckach	Olecko	subst:pl:loc:n2	nazwa geograficzna	
-Oleckami	Olecko	subst:pl:inst:n2	nazwa geograficzna	
-Olecka	Olecko	subst:pl:acc:n2	nazwa geograficzna	
-Olecka	Olecko	subst:pl:nom:n2	nazwa geograficzna	
-Olecka	Olecko	subst:pl:voc:n2	nazwa geograficzna	
-Olecka	Olecko	subst:sg:gen:n2	nazwa geograficzna	
-Oleckiem	Olecko	subst:sg:inst:n2	nazwa geograficzna	
-Oleck	Olecko	subst:pl:gen:n2	nazwa geograficzna	
-Oleckom	Olecko	subst:pl:dat:n2	nazwa geograficzna	
-Olecko	Olecko	subst:sg:acc:n2	nazwa geograficzna	
-Olecko	Olecko	subst:sg:nom:n2	nazwa geograficzna	
-Olecko	Olecko	subst:sg:voc:n2	nazwa geograficzna	
-Olecku	Olecko	subst:sg:dat:n2	nazwa geograficzna	
-Olecku	Olecko	subst:sg:loc:n2	nazwa geograficzna	
+Oleckach	Olecko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Oleckami	Olecko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Olecka	Olecko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Olecka	Olecko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Olecka	Olecko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Olecka	Olecko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Oleckiem	Olecko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Oleck	Olecko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Oleckom	Olecko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Olecko	Olecko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Olecko	Olecko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Olecko	Olecko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Olecku	Olecko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Olecku	Olecko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Oleczek	Oleczek	subst:sg:nom:m1	imię	
 Oleczkach	Oleczek	subst:pl:loc:m1	imię	
 Oleczkami	Oleczek	subst:pl:inst:m1	imię	
@@ -1653,20 +1653,20 @@ Oleszów	Olesza	subst:pl:gen:m1	nazwisko
 Oleszy	Olesza	subst:sg:dat:m1	nazwisko	
 Oleszy	Olesza	subst:sg:gen:m1	nazwisko	
 Oleszy	Olesza	subst:sg:loc:m1	nazwisko	
-Oleszycach	Oleszyce	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Oleszycach	Oleszyce	subst:pl:loc:p3	nazwa geograficzna	
-Oleszycami	Oleszyce	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Oleszycami	Oleszyce	subst:pl:inst:p3	nazwa geograficzna	
-Oleszyce	Oleszyce	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Oleszyce	Oleszyce	subst:pl:acc:p3	nazwa geograficzna	
-Oleszyce	Oleszyce	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Oleszyce	Oleszyce	subst:pl:nom:p3	nazwa geograficzna	
-Oleszyce	Oleszyce	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Oleszyce	Oleszyce	subst:pl:voc:p3	nazwa geograficzna	
-Oleszyc	Oleszyce	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Oleszyc	Oleszyce	subst:pl:gen:p3	nazwa geograficzna	
-Oleszycom	Oleszyce	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Oleszycom	Oleszyce	subst:pl:dat:p3	nazwa geograficzna	
+Oleszycach	Oleszyce	subst:pl:loc:n:pt	nazwa geograficzna	
+Oleszycach	Oleszyce	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Oleszycami	Oleszyce	subst:pl:inst:n:pt	nazwa geograficzna	
+Oleszycami	Oleszyce	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Oleszyce	Oleszyce	subst:pl:acc:n:pt	nazwa geograficzna	
+Oleszyce	Oleszyce	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Oleszyce	Oleszyce	subst:pl:nom:n:pt	nazwa geograficzna	
+Oleszyce	Oleszyce	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Oleszyce	Oleszyce	subst:pl:voc:n:pt	nazwa geograficzna	
+Oleszyce	Oleszyce	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Oleszyc	Oleszyce	subst:pl:gen:n:pt	nazwa geograficzna	
+Oleszyc	Oleszyce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Oleszycom	Oleszyce	subst:pl:dat:n:pt	nazwa geograficzna	
+Oleszycom	Oleszyce	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Olesiach	Oleś	subst:pl:loc:m1	imię	
 Olesiami	Oleś	subst:pl:inst:m1	imię	
 Olesia	Oleś	subst:sg:acc:m1	imię	
@@ -2051,20 +2051,20 @@ Olszańskim	Olszański	subst:sg:inst:m1	nazwisko
 Olszańskim	Olszański	subst:sg:loc:m1	nazwisko	
 Olszański	Olszański	subst:sg:nom:m1	nazwisko	
 Olszański	Olszański	subst:sg:voc:m1	nazwisko	
-Olszewach	Olszewo	subst:pl:loc:n2	nazwa geograficzna	
-Olszewami	Olszewo	subst:pl:inst:n2	nazwa geograficzna	
-Olszewa	Olszewo	subst:pl:acc:n2	nazwa geograficzna	
-Olszewa	Olszewo	subst:pl:nom:n2	nazwa geograficzna	
-Olszewa	Olszewo	subst:pl:voc:n2	nazwa geograficzna	
-Olszewa	Olszewo	subst:sg:gen:n2	nazwa geograficzna	
-Olszewem	Olszewo	subst:sg:inst:n2	nazwa geograficzna	
-Olszewie	Olszewo	subst:sg:loc:n2	nazwa geograficzna	
-Olszew	Olszewo	subst:pl:gen:n2	nazwa geograficzna	
-Olszewom	Olszewo	subst:pl:dat:n2	nazwa geograficzna	
-Olszewo	Olszewo	subst:sg:acc:n2	nazwa geograficzna	
-Olszewo	Olszewo	subst:sg:nom:n2	nazwa geograficzna	
-Olszewo	Olszewo	subst:sg:voc:n2	nazwa geograficzna	
-Olszewu	Olszewo	subst:sg:dat:n2	nazwa geograficzna	
+Olszewach	Olszewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Olszewami	Olszewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Olszewa	Olszewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Olszewa	Olszewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Olszewa	Olszewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Olszewa	Olszewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Olszewem	Olszewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Olszewie	Olszewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Olszew	Olszewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Olszewom	Olszewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Olszewo	Olszewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Olszewo	Olszewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Olszewo	Olszewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Olszewu	Olszewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Olszewska	Olszewska	subst:sg:nom:f	nazwisko	
 Olszewska	Olszewska	subst:sg:voc:f	nazwisko	
 Olszewską	Olszewska	subst:sg:acc:f	nazwisko	
@@ -2123,20 +2123,20 @@ Olsztynów	Olsztyn	subst:pl:gen:m3	nazwa geograficzna
 Olsztyny	Olsztyn	subst:pl:acc:m3	nazwa geograficzna	
 Olsztyny	Olsztyn	subst:pl:nom:m3	nazwa geograficzna	
 Olsztyny	Olsztyn	subst:pl:voc:m3	nazwa geograficzna	
-Olsztyńskich	Olsztyńskie	subst:pl:gen:n2	nazwa geograficzna	
-Olsztyńskich	Olsztyńskie	subst:pl:loc:n2	nazwa geograficzna	
-Olsztyńskiego	Olsztyńskie	subst:sg:gen:n2	nazwa geograficzna	
-Olsztyńskiem	Olsztyńskie	subst:sg:inst:n2	nazwa geograficzna	
-Olsztyńskiem	Olsztyńskie	subst:sg:loc:n2	nazwa geograficzna	
-Olsztyńskiemu	Olsztyńskie	subst:sg:dat:n2	nazwa geograficzna	
-Olsztyńskie	Olsztyńskie	subst:pl:acc:n2	nazwa geograficzna	
-Olsztyńskie	Olsztyńskie	subst:pl:nom:n2	nazwa geograficzna	
-Olsztyńskie	Olsztyńskie	subst:pl:voc:n2	nazwa geograficzna	
-Olsztyńskie	Olsztyńskie	subst:sg:acc:n2	nazwa geograficzna	
-Olsztyńskie	Olsztyńskie	subst:sg:nom:n2	nazwa geograficzna	
-Olsztyńskie	Olsztyńskie	subst:sg:voc:n2	nazwa geograficzna	
-Olsztyńskimi	Olsztyńskie	subst:pl:inst:n2	nazwa geograficzna	
-Olsztyńskim	Olsztyńskie	subst:pl:dat:n2	nazwa geograficzna	
+Olsztyńskich	Olsztyńskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Olsztyńskich	Olsztyńskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Olsztyńskiego	Olsztyńskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Olsztyńskiem	Olsztyńskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Olsztyńskiem	Olsztyńskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Olsztyńskiemu	Olsztyńskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Olsztyńskie	Olsztyńskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Olsztyńskie	Olsztyńskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Olsztyńskie	Olsztyńskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Olsztyńskie	Olsztyńskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Olsztyńskie	Olsztyńskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Olsztyńskie	Olsztyńskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Olsztyńskimi	Olsztyńskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Olsztyńskim	Olsztyńskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Oluniach	Olunia	subst:pl:loc:f	imię	
 Oluniami	Olunia	subst:pl:inst:f	imię	
 Olunia	Olunia	subst:sg:nom:f	imię	
@@ -2378,46 +2378,46 @@ ONR-y	ONR	subst:pl:nom:m3	nazwa organizacji
 ONR-y	ONR	subst:pl:voc:m3	nazwa organizacji	
 ONR-ze	ONR	subst:sg:loc:m3	nazwa organizacji	
 ONR-ze	ONR	subst:sg:voc:m3	nazwa organizacji	
-ONR-owscy	ONR-owski	adj:pl:nom.voc:m1.p1:pos		
+ONR-owscy	ONR-owski	adj:pl:nom.voc:m1:pos		
 ONR-owska	ONR-owski	adj:sg:nom.voc:f:pos		
 ONR-owską	ONR-owski	adj:sg:acc:f:pos		
 ONR-owską	ONR-owski	adj:sg:inst:f:pos		
-ONR-owskich	ONR-owski	adj:pl:acc:m1.p1:pos		
-ONR-owskich	ONR-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ONR-owskich	ONR-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+ONR-owskich	ONR-owski	adj:pl:acc:m1:pos		
+ONR-owskich	ONR-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+ONR-owskich	ONR-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
 ONR-owskiego	ONR-owski	adj:sg:acc:m1.m2:pos		
-ONR-owskiego	ONR-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+ONR-owskiego	ONR-owski	adj:sg:gen:m1.m2.m3.n:pos		
 ONR-owskiej	ONR-owski	adj:sg:dat:f:pos		
 ONR-owskiej	ONR-owski	adj:sg:gen:f:pos		
 ONR-owskiej	ONR-owski	adj:sg:loc:f:pos		
-ONR-owskiemu	ONR-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-ONR-owskie	ONR-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-ONR-owskie	ONR-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-ONR-owskie	ONR-owski	adj:sg:acc:n1.n2:pos		
-ONR-owskie	ONR-owski	adj:sg:nom.voc:n1.n2:pos		
-ONR-owskimi	ONR-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ONR-owskim	ONR-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ONR-owskim	ONR-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-ONR-owskim	ONR-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+ONR-owskiemu	ONR-owski	adj:sg:dat:m1.m2.m3.n:pos		
+ONR-owskie	ONR-owski	adj:pl:acc:m2.m3.f.n:pos		
+ONR-owskie	ONR-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+ONR-owskie	ONR-owski	adj:sg:acc:n:pos		
+ONR-owskie	ONR-owski	adj:sg:nom.voc:n:pos		
+ONR-owskimi	ONR-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
+ONR-owskim	ONR-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+ONR-owskim	ONR-owski	adj:sg:inst:m1.m2.m3.n:pos		
+ONR-owskim	ONR-owski	adj:sg:loc:m1.m2.m3.n:pos		
 ONR-owski	ONR-owski	adj:sg:acc:m3:pos		
 ONR-owski	ONR-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 ONR-owsko	ONR-owski	adja		
 ONR-owsku	ONR-owski	adjp		
 ONR-owsko	ONR-owsko	adv:pos		
-Ontario	Ontario	subst:pl:acc:n2	nazwa geograficzna	
-Ontario	Ontario	subst:pl:dat:n2	nazwa geograficzna	
-Ontario	Ontario	subst:pl:gen:n2	nazwa geograficzna	
-Ontario	Ontario	subst:pl:inst:n2	nazwa geograficzna	
-Ontario	Ontario	subst:pl:loc:n2	nazwa geograficzna	
-Ontario	Ontario	subst:pl:nom:n2	nazwa geograficzna	
-Ontario	Ontario	subst:pl:voc:n2	nazwa geograficzna	
-Ontario	Ontario	subst:sg:acc:n2	nazwa geograficzna	
-Ontario	Ontario	subst:sg:dat:n2	nazwa geograficzna	
-Ontario	Ontario	subst:sg:gen:n2	nazwa geograficzna	
-Ontario	Ontario	subst:sg:inst:n2	nazwa geograficzna	
-Ontario	Ontario	subst:sg:loc:n2	nazwa geograficzna	
-Ontario	Ontario	subst:sg:nom:n2	nazwa geograficzna	
-Ontario	Ontario	subst:sg:voc:n2	nazwa geograficzna	
+Ontario	Ontario	subst:pl:acc:n:ncol	nazwa geograficzna	
+Ontario	Ontario	subst:pl:dat:n:ncol	nazwa geograficzna	
+Ontario	Ontario	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ontario	Ontario	subst:pl:inst:n:ncol	nazwa geograficzna	
+Ontario	Ontario	subst:pl:loc:n:ncol	nazwa geograficzna	
+Ontario	Ontario	subst:pl:nom:n:ncol	nazwa geograficzna	
+Ontario	Ontario	subst:pl:voc:n:ncol	nazwa geograficzna	
+Ontario	Ontario	subst:sg:acc:n:ncol	nazwa geograficzna	
+Ontario	Ontario	subst:sg:dat:n:ncol	nazwa geograficzna	
+Ontario	Ontario	subst:sg:gen:n:ncol	nazwa geograficzna	
+Ontario	Ontario	subst:sg:inst:n:ncol	nazwa geograficzna	
+Ontario	Ontario	subst:sg:loc:n:ncol	nazwa geograficzna	
+Ontario	Ontario	subst:sg:nom:n:ncol	nazwa geograficzna	
+Ontario	Ontario	subst:sg:voc:n:ncol	nazwa geograficzna	
 Onufrego	Onufry	subst:sg:acc:m1	imię	
 Onufrego	Onufry	subst:sg:gen:m1	imię	
 Onufremu	Onufry	subst:sg:dat:m1	imię	
@@ -2478,60 +2478,60 @@ ONZ	ONZ	subst:sg:inst:m3	nazwa organizacji
 ONZ	ONZ	subst:sg:loc:m3	nazwa organizacji	
 ONZ	ONZ	subst:sg:nom:m3	nazwa organizacji	
 ONZ	ONZ	subst:sg:voc:m3	nazwa organizacji	
-ONZ-owscy	ONZ-owski	adj:pl:nom.voc:m1.p1:pos		
+ONZ-owscy	ONZ-owski	adj:pl:nom.voc:m1:pos		
 ONZ-owska	ONZ-owski	adj:sg:nom.voc:f:pos		
 ONZ-owską	ONZ-owski	adj:sg:acc:f:pos		
 ONZ-owską	ONZ-owski	adj:sg:inst:f:pos		
-ONZ-owskich	ONZ-owski	adj:pl:acc:m1.p1:pos		
-ONZ-owskich	ONZ-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ONZ-owskich	ONZ-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+ONZ-owskich	ONZ-owski	adj:pl:acc:m1:pos		
+ONZ-owskich	ONZ-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+ONZ-owskich	ONZ-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
 ONZ-owskiego	ONZ-owski	adj:sg:acc:m1.m2:pos		
-ONZ-owskiego	ONZ-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+ONZ-owskiego	ONZ-owski	adj:sg:gen:m1.m2.m3.n:pos		
 ONZ-owskiej	ONZ-owski	adj:sg:dat:f:pos		
 ONZ-owskiej	ONZ-owski	adj:sg:gen:f:pos		
 ONZ-owskiej	ONZ-owski	adj:sg:loc:f:pos		
-ONZ-owskiemu	ONZ-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-ONZ-owskie	ONZ-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-ONZ-owskie	ONZ-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-ONZ-owskie	ONZ-owski	adj:sg:acc:n1.n2:pos		
-ONZ-owskie	ONZ-owski	adj:sg:nom.voc:n1.n2:pos		
-ONZ-owskimi	ONZ-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ONZ-owskim	ONZ-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-ONZ-owskim	ONZ-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-ONZ-owskim	ONZ-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+ONZ-owskiemu	ONZ-owski	adj:sg:dat:m1.m2.m3.n:pos		
+ONZ-owskie	ONZ-owski	adj:pl:acc:m2.m3.f.n:pos		
+ONZ-owskie	ONZ-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+ONZ-owskie	ONZ-owski	adj:sg:acc:n:pos		
+ONZ-owskie	ONZ-owski	adj:sg:nom.voc:n:pos		
+ONZ-owskimi	ONZ-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
+ONZ-owskim	ONZ-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+ONZ-owskim	ONZ-owski	adj:sg:inst:m1.m2.m3.n:pos		
+ONZ-owskim	ONZ-owski	adj:sg:loc:m1.m2.m3.n:pos		
 ONZ-owski	ONZ-owski	adj:sg:acc:m3:pos		
 ONZ-owski	ONZ-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 ONZ-owsko	ONZ-owski	adja		
 ONZ-owsku	ONZ-owski	adjp		
 ONZ-owsko	ONZ-owsko	adv:pos		
 OPA	OPA	subst:pl:acc:f	nazwa organizacji	
-OPA	OPA	subst:pl:acc:n2	nazwa organizacji	
+OPA	OPA	subst:pl:acc:n:ncol	nazwa organizacji	
 OPA	OPA	subst:pl:dat:f	nazwa organizacji	
-OPA	OPA	subst:pl:dat:n2	nazwa organizacji	
+OPA	OPA	subst:pl:dat:n:ncol	nazwa organizacji	
 OPA	OPA	subst:pl:gen:f	nazwa organizacji	
-OPA	OPA	subst:pl:gen:n2	nazwa organizacji	
+OPA	OPA	subst:pl:gen:n:ncol	nazwa organizacji	
 OPA	OPA	subst:pl:inst:f	nazwa organizacji	
-OPA	OPA	subst:pl:inst:n2	nazwa organizacji	
+OPA	OPA	subst:pl:inst:n:ncol	nazwa organizacji	
 OPA	OPA	subst:pl:loc:f	nazwa organizacji	
-OPA	OPA	subst:pl:loc:n2	nazwa organizacji	
+OPA	OPA	subst:pl:loc:n:ncol	nazwa organizacji	
 OPA	OPA	subst:pl:nom:f	nazwa organizacji	
-OPA	OPA	subst:pl:nom:n2	nazwa organizacji	
+OPA	OPA	subst:pl:nom:n:ncol	nazwa organizacji	
 OPA	OPA	subst:pl:voc:f	nazwa organizacji	
-OPA	OPA	subst:pl:voc:n2	nazwa organizacji	
+OPA	OPA	subst:pl:voc:n:ncol	nazwa organizacji	
 OPA	OPA	subst:sg:acc:f	nazwa organizacji	
-OPA	OPA	subst:sg:acc:n2	nazwa organizacji	
+OPA	OPA	subst:sg:acc:n:ncol	nazwa organizacji	
 OPA	OPA	subst:sg:dat:f	nazwa organizacji	
-OPA	OPA	subst:sg:dat:n2	nazwa organizacji	
+OPA	OPA	subst:sg:dat:n:ncol	nazwa organizacji	
 OPA	OPA	subst:sg:gen:f	nazwa organizacji	
-OPA	OPA	subst:sg:gen:n2	nazwa organizacji	
+OPA	OPA	subst:sg:gen:n:ncol	nazwa organizacji	
 OPA	OPA	subst:sg:inst:f	nazwa organizacji	
-OPA	OPA	subst:sg:inst:n2	nazwa organizacji	
+OPA	OPA	subst:sg:inst:n:ncol	nazwa organizacji	
 OPA	OPA	subst:sg:loc:f	nazwa organizacji	
-OPA	OPA	subst:sg:loc:n2	nazwa organizacji	
+OPA	OPA	subst:sg:loc:n:ncol	nazwa organizacji	
 OPA	OPA	subst:sg:nom:f	nazwa organizacji	
-OPA	OPA	subst:sg:nom:n2	nazwa organizacji	
+OPA	OPA	subst:sg:nom:n:ncol	nazwa organizacji	
 OPA	OPA	subst:sg:voc:f	nazwa organizacji	
-OPA	OPA	subst:sg:voc:n2	nazwa organizacji	
+OPA	OPA	subst:sg:voc:n:ncol	nazwa organizacji	
 Opalenicach	Opalenica	subst:pl:loc:f	nazwa geograficzna	
 Opalenicami	Opalenica	subst:pl:inst:f	nazwa geograficzna	
 Opalenica	Opalenica	subst:sg:nom:f	nazwa geograficzna	
@@ -2592,33 +2592,33 @@ Opatowy	Opatów	subst:pl:voc:m3	nazwa geograficzna
 Opatów	Opatów	subst:sg:acc:m3	nazwa geograficzna	
 Opatów	Opatów	subst:sg:nom:m3	nazwa geograficzna	
 OPD	OPD	subst:pl:acc:f	nazwa pospolita	
-OPD	OPD	subst:pl:acc:n2	nazwa pospolita	
+OPD	OPD	subst:pl:acc:n:ncol	nazwa pospolita	
 OPD	OPD	subst:pl:dat:f	nazwa pospolita	
-OPD	OPD	subst:pl:dat:n2	nazwa pospolita	
+OPD	OPD	subst:pl:dat:n:ncol	nazwa pospolita	
 OPD	OPD	subst:pl:gen:f	nazwa pospolita	
-OPD	OPD	subst:pl:gen:n2	nazwa pospolita	
+OPD	OPD	subst:pl:gen:n:ncol	nazwa pospolita	
 OPD	OPD	subst:pl:inst:f	nazwa pospolita	
-OPD	OPD	subst:pl:inst:n2	nazwa pospolita	
+OPD	OPD	subst:pl:inst:n:ncol	nazwa pospolita	
 OPD	OPD	subst:pl:loc:f	nazwa pospolita	
-OPD	OPD	subst:pl:loc:n2	nazwa pospolita	
+OPD	OPD	subst:pl:loc:n:ncol	nazwa pospolita	
 OPD	OPD	subst:pl:nom:f	nazwa pospolita	
-OPD	OPD	subst:pl:nom:n2	nazwa pospolita	
+OPD	OPD	subst:pl:nom:n:ncol	nazwa pospolita	
 OPD	OPD	subst:pl:voc:f	nazwa pospolita	
-OPD	OPD	subst:pl:voc:n2	nazwa pospolita	
+OPD	OPD	subst:pl:voc:n:ncol	nazwa pospolita	
 OPD	OPD	subst:sg:acc:f	nazwa pospolita	
-OPD	OPD	subst:sg:acc:n2	nazwa pospolita	
+OPD	OPD	subst:sg:acc:n:ncol	nazwa pospolita	
 OPD	OPD	subst:sg:dat:f	nazwa pospolita	
-OPD	OPD	subst:sg:dat:n2	nazwa pospolita	
+OPD	OPD	subst:sg:dat:n:ncol	nazwa pospolita	
 OPD	OPD	subst:sg:gen:f	nazwa pospolita	
-OPD	OPD	subst:sg:gen:n2	nazwa pospolita	
+OPD	OPD	subst:sg:gen:n:ncol	nazwa pospolita	
 OPD	OPD	subst:sg:inst:f	nazwa pospolita	
-OPD	OPD	subst:sg:inst:n2	nazwa pospolita	
+OPD	OPD	subst:sg:inst:n:ncol	nazwa pospolita	
 OPD	OPD	subst:sg:loc:f	nazwa pospolita	
-OPD	OPD	subst:sg:loc:n2	nazwa pospolita	
+OPD	OPD	subst:sg:loc:n:ncol	nazwa pospolita	
 OPD	OPD	subst:sg:nom:f	nazwa pospolita	
-OPD	OPD	subst:sg:nom:n2	nazwa pospolita	
+OPD	OPD	subst:sg:nom:n:ncol	nazwa pospolita	
 OPD	OPD	subst:sg:voc:f	nazwa pospolita	
-OPD	OPD	subst:sg:voc:n2	nazwa pospolita	
+OPD	OPD	subst:sg:voc:n:ncol	nazwa pospolita	
 OPEC-ach	OPEC	subst:pl:loc:m3	nazwa organizacji	
 OPEC-ami	OPEC	subst:pl:inst:m3	nazwa organizacji	
 OPEC-a	OPEC	subst:sg:gen:m3	nazwa organizacji	
@@ -2647,20 +2647,20 @@ OPEC-owi	OPEC	subst:sg:dat:m3	nazwa organizacji
 OPEC-ów	OPEC	subst:pl:gen:m3	nazwa organizacji	
 OPEC-u	OPEC	subst:sg:loc:m3	nazwa organizacji	
 OPEC-u	OPEC	subst:sg:voc:m3	nazwa organizacji	
-Opocznach	Opoczno	subst:pl:loc:n2	nazwa geograficzna	
-Opocznami	Opoczno	subst:pl:inst:n2	nazwa geograficzna	
-Opoczna	Opoczno	subst:pl:acc:n2	nazwa geograficzna	
-Opoczna	Opoczno	subst:pl:nom:n2	nazwa geograficzna	
-Opoczna	Opoczno	subst:pl:voc:n2	nazwa geograficzna	
-Opoczna	Opoczno	subst:sg:gen:n2	nazwa geograficzna	
-Opocznem	Opoczno	subst:sg:inst:n2	nazwa geograficzna	
-Opocznie	Opoczno	subst:sg:loc:n2	nazwa geograficzna	
-Opocznom	Opoczno	subst:pl:dat:n2	nazwa geograficzna	
-Opoczno	Opoczno	subst:sg:acc:n2	nazwa geograficzna	
-Opoczno	Opoczno	subst:sg:nom:n2	nazwa geograficzna	
-Opoczno	Opoczno	subst:sg:voc:n2	nazwa geograficzna	
-Opoczn	Opoczno	subst:pl:gen:n2	nazwa geograficzna	
-Opocznu	Opoczno	subst:sg:dat:n2	nazwa geograficzna	
+Opocznach	Opoczno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Opocznami	Opoczno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Opoczna	Opoczno	subst:pl:acc:n:ncol	nazwa geograficzna	
+Opoczna	Opoczno	subst:pl:nom:n:ncol	nazwa geograficzna	
+Opoczna	Opoczno	subst:pl:voc:n:ncol	nazwa geograficzna	
+Opoczna	Opoczno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Opocznem	Opoczno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Opocznie	Opoczno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Opocznom	Opoczno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Opoczno	Opoczno	subst:sg:acc:n:ncol	nazwa geograficzna	
+Opoczno	Opoczno	subst:sg:nom:n:ncol	nazwa geograficzna	
+Opoczno	Opoczno	subst:sg:voc:n:ncol	nazwa geograficzna	
+Opoczn	Opoczno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Opocznu	Opoczno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Opolanach	Opolanin	subst:pl:loc:m1	nazwa pospolita	
 Opolanami	Opolanin	subst:pl:inst:m1	nazwa pospolita	
 Opolanie	Opolanin	subst:pl:nom:m1	nazwa pospolita	
@@ -2693,34 +2693,34 @@ Opolczyków	Opolczyk	subst:pl:acc:m1	przydomek
 Opolczyków	Opolczyk	subst:pl:gen:m1	przydomek	
 Opolczyku	Opolczyk	subst:sg:loc:m1	przydomek	
 Opolczyku	Opolczyk	subst:sg:voc:m1	przydomek	
-Opolach	Opole	subst:pl:loc:n2	nazwa geograficzna	
-Opolami	Opole	subst:pl:inst:n2	nazwa geograficzna	
-Opola	Opole	subst:pl:acc:n2	nazwa geograficzna	
-Opola	Opole	subst:pl:nom:n2	nazwa geograficzna	
-Opola	Opole	subst:pl:voc:n2	nazwa geograficzna	
-Opola	Opole	subst:sg:gen:n2	nazwa geograficzna	
-Opolem	Opole	subst:sg:inst:n2	nazwa geograficzna	
-Opole	Opole	subst:sg:acc:n2	nazwa geograficzna	
-Opole	Opole	subst:sg:nom:n2	nazwa geograficzna	
-Opole	Opole	subst:sg:voc:n2	nazwa geograficzna	
-Opoli	Opole	subst:pl:gen:n2	nazwa geograficzna	
-Opolom	Opole	subst:pl:dat:n2	nazwa geograficzna	
-Opolu	Opole	subst:sg:dat:n2	nazwa geograficzna	
-Opolu	Opole	subst:sg:loc:n2	nazwa geograficzna	
-Opolskich	Opolskie	subst:pl:gen:n2	nazwa geograficzna	
-Opolskich	Opolskie	subst:pl:loc:n2	nazwa geograficzna	
-Opolskiego	Opolskie	subst:sg:gen:n2	nazwa geograficzna	
-Opolskiem	Opolskie	subst:sg:inst:n2	nazwa geograficzna	
-Opolskiem	Opolskie	subst:sg:loc:n2	nazwa geograficzna	
-Opolskiemu	Opolskie	subst:sg:dat:n2	nazwa geograficzna	
-Opolskie	Opolskie	subst:pl:acc:n2	nazwa geograficzna	
-Opolskie	Opolskie	subst:pl:nom:n2	nazwa geograficzna	
-Opolskie	Opolskie	subst:pl:voc:n2	nazwa geograficzna	
-Opolskie	Opolskie	subst:sg:acc:n2	nazwa geograficzna	
-Opolskie	Opolskie	subst:sg:nom:n2	nazwa geograficzna	
-Opolskie	Opolskie	subst:sg:voc:n2	nazwa geograficzna	
-Opolskimi	Opolskie	subst:pl:inst:n2	nazwa geograficzna	
-Opolskim	Opolskie	subst:pl:dat:n2	nazwa geograficzna	
+Opolach	Opole	subst:pl:loc:n:ncol	nazwa geograficzna	
+Opolami	Opole	subst:pl:inst:n:ncol	nazwa geograficzna	
+Opola	Opole	subst:pl:acc:n:ncol	nazwa geograficzna	
+Opola	Opole	subst:pl:nom:n:ncol	nazwa geograficzna	
+Opola	Opole	subst:pl:voc:n:ncol	nazwa geograficzna	
+Opola	Opole	subst:sg:gen:n:ncol	nazwa geograficzna	
+Opolem	Opole	subst:sg:inst:n:ncol	nazwa geograficzna	
+Opole	Opole	subst:sg:acc:n:ncol	nazwa geograficzna	
+Opole	Opole	subst:sg:nom:n:ncol	nazwa geograficzna	
+Opole	Opole	subst:sg:voc:n:ncol	nazwa geograficzna	
+Opoli	Opole	subst:pl:gen:n:ncol	nazwa geograficzna	
+Opolom	Opole	subst:pl:dat:n:ncol	nazwa geograficzna	
+Opolu	Opole	subst:sg:dat:n:ncol	nazwa geograficzna	
+Opolu	Opole	subst:sg:loc:n:ncol	nazwa geograficzna	
+Opolskich	Opolskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Opolskich	Opolskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Opolskiego	Opolskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Opolskiem	Opolskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Opolskiem	Opolskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Opolskiemu	Opolskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Opolskie	Opolskie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Opolskie	Opolskie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Opolskie	Opolskie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Opolskie	Opolskie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Opolskie	Opolskie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Opolskie	Opolskie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Opolskimi	Opolskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Opolskim	Opolskie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Opolszczyznach	Opolszczyzna	subst:pl:loc:f	nazwa geograficzna	
 Opolszczyznami	Opolszczyzna	subst:pl:inst:f	nazwa geograficzna	
 Opolszczyzna	Opolszczyzna	subst:sg:nom:f	nazwa geograficzna	
@@ -2826,49 +2826,49 @@ OPZZ-ety	OPZZ	subst:pl:acc:m3	nazwa organizacji
 OPZZ-ety	OPZZ	subst:pl:nom:m3	nazwa organizacji	
 OPZZ-ety	OPZZ	subst:pl:voc:m3	nazwa organizacji	
 OPZZ-om	OPZZ	subst:pl:dat:m3	nazwa organizacji	
-OPZZ	OPZZ	subst:pl:acc:n2	nazwa organizacji	
-OPZZ	OPZZ	subst:pl:dat:n2	nazwa organizacji	
-OPZZ	OPZZ	subst:pl:gen:n2	nazwa organizacji	
-OPZZ	OPZZ	subst:pl:inst:n2	nazwa organizacji	
-OPZZ	OPZZ	subst:pl:loc:n2	nazwa organizacji	
-OPZZ	OPZZ	subst:pl:nom:n2	nazwa organizacji	
-OPZZ	OPZZ	subst:pl:voc:n2	nazwa organizacji	
+OPZZ	OPZZ	subst:pl:acc:n:ncol	nazwa organizacji	
+OPZZ	OPZZ	subst:pl:dat:n:ncol	nazwa organizacji	
+OPZZ	OPZZ	subst:pl:gen:n:ncol	nazwa organizacji	
+OPZZ	OPZZ	subst:pl:inst:n:ncol	nazwa organizacji	
+OPZZ	OPZZ	subst:pl:loc:n:ncol	nazwa organizacji	
+OPZZ	OPZZ	subst:pl:nom:n:ncol	nazwa organizacji	
+OPZZ	OPZZ	subst:pl:voc:n:ncol	nazwa organizacji	
 OPZZ	OPZZ	subst:sg:acc:m3	nazwa organizacji	
-OPZZ	OPZZ	subst:sg:acc:n2	nazwa organizacji	
-OPZZ	OPZZ	subst:sg:dat:n2	nazwa organizacji	
-OPZZ	OPZZ	subst:sg:gen:n2	nazwa organizacji	
-OPZZ	OPZZ	subst:sg:inst:n2	nazwa organizacji	
-OPZZ	OPZZ	subst:sg:loc:n2	nazwa organizacji	
+OPZZ	OPZZ	subst:sg:acc:n:ncol	nazwa organizacji	
+OPZZ	OPZZ	subst:sg:dat:n:ncol	nazwa organizacji	
+OPZZ	OPZZ	subst:sg:gen:n:ncol	nazwa organizacji	
+OPZZ	OPZZ	subst:sg:inst:n:ncol	nazwa organizacji	
+OPZZ	OPZZ	subst:sg:loc:n:ncol	nazwa organizacji	
 OPZZ	OPZZ	subst:sg:nom:m3	nazwa organizacji	
-OPZZ	OPZZ	subst:sg:nom:n2	nazwa organizacji	
-OPZZ	OPZZ	subst:sg:voc:n2	nazwa organizacji	
+OPZZ	OPZZ	subst:sg:nom:n:ncol	nazwa organizacji	
+OPZZ	OPZZ	subst:sg:voc:n:ncol	nazwa organizacji	
 OPZZ-owi	OPZZ	subst:sg:dat:m3	nazwa organizacji	
 OPZZ-ów	OPZZ	subst:pl:gen:m3	nazwa organizacji	
 OPZZ-u	OPZZ	subst:sg:gen:m3	nazwa organizacji	
 OPZZ-y	OPZZ	subst:pl:acc:m3	nazwa organizacji	
 OPZZ-y	OPZZ	subst:pl:nom:m3	nazwa organizacji	
 OPZZ-y	OPZZ	subst:pl:voc:m3	nazwa organizacji	
-OPZZ-owscy	OPZZ-owski	adj:pl:nom.voc:m1.p1:pos		
+OPZZ-owscy	OPZZ-owski	adj:pl:nom.voc:m1:pos		
 OPZZ-owska	OPZZ-owski	adj:sg:nom.voc:f:pos		
 OPZZ-owską	OPZZ-owski	adj:sg:acc:f:pos		
 OPZZ-owską	OPZZ-owski	adj:sg:inst:f:pos		
-OPZZ-owskich	OPZZ-owski	adj:pl:acc:m1.p1:pos		
-OPZZ-owskich	OPZZ-owski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-OPZZ-owskich	OPZZ-owski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+OPZZ-owskich	OPZZ-owski	adj:pl:acc:m1:pos		
+OPZZ-owskich	OPZZ-owski	adj:pl:gen:m1.m2.m3.f.n:pos		
+OPZZ-owskich	OPZZ-owski	adj:pl:loc:m1.m2.m3.f.n:pos		
 OPZZ-owskiego	OPZZ-owski	adj:sg:acc:m1.m2:pos		
-OPZZ-owskiego	OPZZ-owski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+OPZZ-owskiego	OPZZ-owski	adj:sg:gen:m1.m2.m3.n:pos		
 OPZZ-owskiej	OPZZ-owski	adj:sg:dat:f:pos		
 OPZZ-owskiej	OPZZ-owski	adj:sg:gen:f:pos		
 OPZZ-owskiej	OPZZ-owski	adj:sg:loc:f:pos		
-OPZZ-owskiemu	OPZZ-owski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-OPZZ-owskie	OPZZ-owski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
-OPZZ-owskie	OPZZ-owski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
-OPZZ-owskie	OPZZ-owski	adj:sg:acc:n1.n2:pos		
-OPZZ-owskie	OPZZ-owski	adj:sg:nom.voc:n1.n2:pos		
-OPZZ-owskimi	OPZZ-owski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-OPZZ-owskim	OPZZ-owski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-OPZZ-owskim	OPZZ-owski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
-OPZZ-owskim	OPZZ-owski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+OPZZ-owskiemu	OPZZ-owski	adj:sg:dat:m1.m2.m3.n:pos		
+OPZZ-owskie	OPZZ-owski	adj:pl:acc:m2.m3.f.n:pos		
+OPZZ-owskie	OPZZ-owski	adj:pl:nom.voc:m2.m3.f.n:pos		
+OPZZ-owskie	OPZZ-owski	adj:sg:acc:n:pos		
+OPZZ-owskie	OPZZ-owski	adj:sg:nom.voc:n:pos		
+OPZZ-owskimi	OPZZ-owski	adj:pl:inst:m1.m2.m3.f.n:pos		
+OPZZ-owskim	OPZZ-owski	adj:pl:dat:m1.m2.m3.f.n:pos		
+OPZZ-owskim	OPZZ-owski	adj:sg:inst:m1.m2.m3.n:pos		
+OPZZ-owskim	OPZZ-owski	adj:sg:loc:m1.m2.m3.n:pos		
 OPZZ-owski	OPZZ-owski	adj:sg:acc:m3:pos		
 OPZZ-owski	OPZZ-owski	adj:sg:nom.voc:m1.m2.m3:pos		
 OPZZ-owsko	OPZZ-owski	adja		
@@ -2902,22 +2902,22 @@ Orbisu	Orbis	subst:sg:gen:m3	nazwa firmy
 Orbisy	Orbis	subst:pl:acc:m3	nazwa firmy	
 Orbisy	Orbis	subst:pl:nom:m3	nazwa firmy	
 Orbisy	Orbis	subst:pl:voc:m3	nazwa firmy	
-Orchowach	Orchowo	subst:pl:loc:n2	nazwa geograficzna	
-Orchowami	Orchowo	subst:pl:inst:n2	nazwa geograficzna	
-Orchowa	Orchowo	subst:pl:acc:n2	nazwa geograficzna	
-Orchowa	Orchowo	subst:pl:nom:n2	nazwa geograficzna	
-Orchowa	Orchowo	subst:pl:voc:n2	nazwa geograficzna	
-Orchowa	Orchowo	subst:sg:gen:n2	nazwa geograficzna	
-Orchowem	Orchowo	subst:sg:inst:n2	nazwa geograficzna	
-Orchowie	Orchowo	subst:sg:loc:n2	nazwa geograficzna	
-Orchowom	Orchowo	subst:pl:dat:n2	nazwa geograficzna	
-Orchowo	Orchowo	subst:sg:acc:n2	nazwa geograficzna	
-Orchowo	Orchowo	subst:sg:nom:n2	nazwa geograficzna	
-Orchowo	Orchowo	subst:sg:voc:n2	nazwa geograficzna	
-Orchow	Orchowo	subst:pl:gen:n2	nazwa geograficzna	
-Orchowów	Orchowo	subst:pl:gen:n2	nazwa geograficzna	
-Orchowu	Orchowo	subst:sg:dat:n2	nazwa geograficzna	
-Orchów	Orchowo	subst:pl:gen:n2	nazwa geograficzna	
+Orchowach	Orchowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Orchowami	Orchowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Orchowa	Orchowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Orchowa	Orchowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Orchowa	Orchowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Orchowa	Orchowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Orchowem	Orchowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Orchowie	Orchowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Orchowom	Orchowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Orchowo	Orchowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Orchowo	Orchowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Orchowo	Orchowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Orchow	Orchowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Orchowów	Orchowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Orchowu	Orchowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Orchów	Orchowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Ordonówien	Ordonówna	subst:pl:gen:f	nazwisko	
 Ordonównach	Ordonówna	subst:pl:loc:f	nazwisko	
 Ordonównami	Ordonówna	subst:pl:inst:f	nazwisko	
@@ -3190,22 +3190,22 @@ Orłowych	Orłowa	subst:pl:gen:f	nazwisko
 Orłowych	Orłowa	subst:pl:loc:f	nazwisko	
 Orłowymi	Orłowa	subst:pl:inst:f	nazwisko	
 Orłowym	Orłowa	subst:pl:dat:f	nazwisko	
-Orłowach	Orłowo	subst:pl:loc:n2	nazwa geograficzna	
-Orłowami	Orłowo	subst:pl:inst:n2	nazwa geograficzna	
-Orłowa	Orłowo	subst:pl:acc:n2	nazwa geograficzna	
-Orłowa	Orłowo	subst:pl:nom:n2	nazwa geograficzna	
-Orłowa	Orłowo	subst:pl:voc:n2	nazwa geograficzna	
-Orłowa	Orłowo	subst:sg:gen:n2	nazwa geograficzna	
-Orłowem	Orłowo	subst:sg:inst:n2	nazwa geograficzna	
-Orłowie	Orłowo	subst:sg:loc:n2	nazwa geograficzna	
-Orłowom	Orłowo	subst:pl:dat:n2	nazwa geograficzna	
-Orłowo	Orłowo	subst:sg:acc:n2	nazwa geograficzna	
-Orłowo	Orłowo	subst:sg:nom:n2	nazwa geograficzna	
-Orłowo	Orłowo	subst:sg:voc:n2	nazwa geograficzna	
-Orłow	Orłowo	subst:pl:gen:n2	nazwa geograficzna	
-Orłowów	Orłowo	subst:pl:gen:n2	nazwa geograficzna	
-Orłowu	Orłowo	subst:sg:dat:n2	nazwa geograficzna	
-Orłów	Orłowo	subst:pl:gen:n2	nazwa geograficzna	
+Orłowach	Orłowo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Orłowami	Orłowo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Orłowa	Orłowo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Orłowa	Orłowo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Orłowa	Orłowo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Orłowa	Orłowo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Orłowem	Orłowo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Orłowie	Orłowo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Orłowom	Orłowo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Orłowo	Orłowo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Orłowo	Orłowo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Orłowo	Orłowo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Orłow	Orłowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Orłowów	Orłowo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Orłowu	Orłowo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Orłów	Orłowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Orłowscy	Orłowski	subst:pl:nom:m1	nazwisko	
 Orłowscy	Orłowski	subst:pl:voc:m1	nazwisko	
 Orłowskich	Orłowski	subst:pl:acc:m1	nazwisko	
@@ -3268,20 +3268,20 @@ Ormianki	Ormianka	subst:pl:voc:f	nazwa pospolita
 Ormianki	Ormianka	subst:sg:gen:f	nazwa pospolita	
 Ormiankom	Ormianka	subst:pl:dat:f	nazwa pospolita	
 Ormianko	Ormianka	subst:sg:voc:f	nazwa pospolita	
-ORMO	ORMO	subst:pl:acc:n2	nazwa organizacji	
-ORMO	ORMO	subst:pl:dat:n2	nazwa organizacji	
-ORMO	ORMO	subst:pl:gen:n2	nazwa organizacji	
-ORMO	ORMO	subst:pl:inst:n2	nazwa organizacji	
-ORMO	ORMO	subst:pl:loc:n2	nazwa organizacji	
-ORMO	ORMO	subst:pl:nom:n2	nazwa organizacji	
-ORMO	ORMO	subst:pl:voc:n2	nazwa organizacji	
-ORMO	ORMO	subst:sg:acc:n2	nazwa organizacji	
-ORMO	ORMO	subst:sg:dat:n2	nazwa organizacji	
-ORMO	ORMO	subst:sg:gen:n2	nazwa organizacji	
-ORMO	ORMO	subst:sg:inst:n2	nazwa organizacji	
-ORMO	ORMO	subst:sg:loc:n2	nazwa organizacji	
-ORMO	ORMO	subst:sg:nom:n2	nazwa organizacji	
-ORMO	ORMO	subst:sg:voc:n2	nazwa organizacji	
+ORMO	ORMO	subst:pl:acc:n:ncol	nazwa organizacji	
+ORMO	ORMO	subst:pl:dat:n:ncol	nazwa organizacji	
+ORMO	ORMO	subst:pl:gen:n:ncol	nazwa organizacji	
+ORMO	ORMO	subst:pl:inst:n:ncol	nazwa organizacji	
+ORMO	ORMO	subst:pl:loc:n:ncol	nazwa organizacji	
+ORMO	ORMO	subst:pl:nom:n:ncol	nazwa organizacji	
+ORMO	ORMO	subst:pl:voc:n:ncol	nazwa organizacji	
+ORMO	ORMO	subst:sg:acc:n:ncol	nazwa organizacji	
+ORMO	ORMO	subst:sg:dat:n:ncol	nazwa organizacji	
+ORMO	ORMO	subst:sg:gen:n:ncol	nazwa organizacji	
+ORMO	ORMO	subst:sg:inst:n:ncol	nazwa organizacji	
+ORMO	ORMO	subst:sg:loc:n:ncol	nazwa organizacji	
+ORMO	ORMO	subst:sg:nom:n:ncol	nazwa organizacji	
+ORMO	ORMO	subst:sg:voc:n:ncol	nazwa organizacji	
 ORMO-wcach	ORMO-wiec	subst:pl:loc:m1	nazwa pospolita	
 ORMO-wcami	ORMO-wiec	subst:pl:inst:m1	nazwa pospolita	
 ORMO-wca	ORMO-wiec	subst:sg:acc:m1	nazwa pospolita	
@@ -3312,20 +3312,20 @@ Ornaków	Ornak	subst:pl:gen:m3	nazwa geograficzna
 Ornaku	Ornak	subst:sg:gen:m3	nazwa geograficzna	
 Ornaku	Ornak	subst:sg:loc:m3	nazwa geograficzna	
 Ornaku	Ornak	subst:sg:voc:m3	nazwa geograficzna	
-Orońskach	Orońsko	subst:pl:loc:n2	nazwa geograficzna	
-Orońskami	Orońsko	subst:pl:inst:n2	nazwa geograficzna	
-Orońska	Orońsko	subst:pl:acc:n2	nazwa geograficzna	
-Orońska	Orońsko	subst:pl:nom:n2	nazwa geograficzna	
-Orońska	Orońsko	subst:pl:voc:n2	nazwa geograficzna	
-Orońska	Orońsko	subst:sg:gen:n2	nazwa geograficzna	
-Orońskiem	Orońsko	subst:sg:inst:n2	nazwa geograficzna	
-Orońskom	Orońsko	subst:pl:dat:n2	nazwa geograficzna	
-Orońsko	Orońsko	subst:sg:acc:n2	nazwa geograficzna	
-Orońsko	Orońsko	subst:sg:nom:n2	nazwa geograficzna	
-Orońsko	Orońsko	subst:sg:voc:n2	nazwa geograficzna	
-Orońsk	Orońsko	subst:pl:gen:n2	nazwa geograficzna	
-Orońsku	Orońsko	subst:sg:dat:n2	nazwa geograficzna	
-Orońsku	Orońsko	subst:sg:loc:n2	nazwa geograficzna	
+Orońskach	Orońsko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Orońskami	Orońsko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Orońska	Orońsko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Orońska	Orońsko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Orońska	Orońsko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Orońska	Orońsko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Orońskiem	Orońsko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Orońskom	Orońsko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Orońsko	Orońsko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Orońsko	Orońsko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Orońsko	Orońsko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Orońsk	Orońsko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Orońsku	Orońsko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Orońsku	Orońsko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Or-Ocie	Or-Ot	subst:sg:loc:m1	pseudonim	
 Or-Ocie	Or-Ot	subst:sg:voc:m1	pseudonim	
 Or-Otach	Or-Ot	subst:pl:loc:m1	pseudonim	
@@ -3553,33 +3553,33 @@ Osetiom	Osetia	subst:pl:dat:f	nazwa geograficzna
 Osetio	Osetia	subst:sg:voc:f	nazwa geograficzna	
 Osetyj	Osetia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 OSH	OSH	subst:pl:acc:f	nazwa organizacji	
-OSH	OSH	subst:pl:acc:n2	nazwa organizacji	
+OSH	OSH	subst:pl:acc:n:ncol	nazwa organizacji	
 OSH	OSH	subst:pl:dat:f	nazwa organizacji	
-OSH	OSH	subst:pl:dat:n2	nazwa organizacji	
+OSH	OSH	subst:pl:dat:n:ncol	nazwa organizacji	
 OSH	OSH	subst:pl:gen:f	nazwa organizacji	
-OSH	OSH	subst:pl:gen:n2	nazwa organizacji	
+OSH	OSH	subst:pl:gen:n:ncol	nazwa organizacji	
 OSH	OSH	subst:pl:inst:f	nazwa organizacji	
-OSH	OSH	subst:pl:inst:n2	nazwa organizacji	
+OSH	OSH	subst:pl:inst:n:ncol	nazwa organizacji	
 OSH	OSH	subst:pl:loc:f	nazwa organizacji	
-OSH	OSH	subst:pl:loc:n2	nazwa organizacji	
+OSH	OSH	subst:pl:loc:n:ncol	nazwa organizacji	
 OSH	OSH	subst:pl:nom:f	nazwa organizacji	
-OSH	OSH	subst:pl:nom:n2	nazwa organizacji	
+OSH	OSH	subst:pl:nom:n:ncol	nazwa organizacji	
 OSH	OSH	subst:pl:voc:f	nazwa organizacji	
-OSH	OSH	subst:pl:voc:n2	nazwa organizacji	
+OSH	OSH	subst:pl:voc:n:ncol	nazwa organizacji	
 OSH	OSH	subst:sg:acc:f	nazwa organizacji	
-OSH	OSH	subst:sg:acc:n2	nazwa organizacji	
+OSH	OSH	subst:sg:acc:n:ncol	nazwa organizacji	
 OSH	OSH	subst:sg:dat:f	nazwa organizacji	
-OSH	OSH	subst:sg:dat:n2	nazwa organizacji	
+OSH	OSH	subst:sg:dat:n:ncol	nazwa organizacji	
 OSH	OSH	subst:sg:gen:f	nazwa organizacji	
-OSH	OSH	subst:sg:gen:n2	nazwa organizacji	
+OSH	OSH	subst:sg:gen:n:ncol	nazwa organizacji	
 OSH	OSH	subst:sg:inst:f	nazwa organizacji	
-OSH	OSH	subst:sg:inst:n2	nazwa organizacji	
+OSH	OSH	subst:sg:inst:n:ncol	nazwa organizacji	
 OSH	OSH	subst:sg:loc:f	nazwa organizacji	
-OSH	OSH	subst:sg:loc:n2	nazwa organizacji	
+OSH	OSH	subst:sg:loc:n:ncol	nazwa organizacji	
 OSH	OSH	subst:sg:nom:f	nazwa organizacji	
-OSH	OSH	subst:sg:nom:n2	nazwa organizacji	
+OSH	OSH	subst:sg:nom:n:ncol	nazwa organizacji	
 OSH	OSH	subst:sg:voc:f	nazwa organizacji	
-OSH	OSH	subst:sg:voc:n2	nazwa organizacji	
+OSH	OSH	subst:sg:voc:n:ncol	nazwa organizacji	
 Osiatyńska	Osiatyńska	subst:sg:nom:f	nazwisko	
 Osiatyńska	Osiatyńska	subst:sg:voc:f	nazwisko	
 Osiatyńską	Osiatyńska	subst:sg:acc:f	nazwisko	
@@ -3668,48 +3668,48 @@ Osiekowi	Osiek	subst:sg:dat:m3	nazwa geograficzna
 Osieków	Osiek	subst:pl:gen:m3	nazwa geograficzna	
 Osieku	Osiek	subst:sg:loc:m3	nazwa geograficzna	
 Osieku	Osiek	subst:sg:voc:m3	nazwa geograficzna	
-Osielskach	Osielsko	subst:pl:loc:n2	nazwa geograficzna	
-Osielskami	Osielsko	subst:pl:inst:n2	nazwa geograficzna	
-Osielska	Osielsko	subst:pl:acc:n2	nazwa geograficzna	
-Osielska	Osielsko	subst:pl:nom:n2	nazwa geograficzna	
-Osielska	Osielsko	subst:pl:voc:n2	nazwa geograficzna	
-Osielska	Osielsko	subst:sg:gen:n2	nazwa geograficzna	
-Osielskiem	Osielsko	subst:sg:inst:n2	nazwa geograficzna	
-Osielskom	Osielsko	subst:pl:dat:n2	nazwa geograficzna	
-Osielsko	Osielsko	subst:sg:acc:n2	nazwa geograficzna	
-Osielsko	Osielsko	subst:sg:nom:n2	nazwa geograficzna	
-Osielsko	Osielsko	subst:sg:voc:n2	nazwa geograficzna	
-Osielsk	Osielsko	subst:pl:gen:n2	nazwa geograficzna	
-Osielsku	Osielsko	subst:sg:dat:n2	nazwa geograficzna	
-Osielsku	Osielsko	subst:sg:loc:n2	nazwa geograficzna	
-Osięcinach	Osięciny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Osięcinach	Osięciny	subst:pl:loc:p3	nazwa geograficzna	
-Osięcinami	Osięciny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Osięcinami	Osięciny	subst:pl:inst:p3	nazwa geograficzna	
-Osięcinom	Osięciny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Osięcinom	Osięciny	subst:pl:dat:p3	nazwa geograficzna	
-Osięcin	Osięciny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Osięcin	Osięciny	subst:pl:gen:p3	nazwa geograficzna	
-Osięciny	Osięciny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Osięciny	Osięciny	subst:pl:acc:p3	nazwa geograficzna	
-Osięciny	Osięciny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Osięciny	Osięciny	subst:pl:nom:p3	nazwa geograficzna	
-Osięciny	Osięciny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Osięciny	Osięciny	subst:pl:voc:p3	nazwa geograficzna	
-Osinach	Osiny	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Osinach	Osiny	subst:pl:loc:p3	nazwa geograficzna	
-Osinami	Osiny	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Osinami	Osiny	subst:pl:inst:p3	nazwa geograficzna	
-Osinom	Osiny	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Osinom	Osiny	subst:pl:dat:p3	nazwa geograficzna	
-Osin	Osiny	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Osin	Osiny	subst:pl:gen:p3	nazwa geograficzna	
-Osiny	Osiny	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Osiny	Osiny	subst:pl:acc:p3	nazwa geograficzna	
-Osiny	Osiny	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Osiny	Osiny	subst:pl:nom:p3	nazwa geograficzna	
-Osiny	Osiny	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Osiny	Osiny	subst:pl:voc:p3	nazwa geograficzna	
+Osielskach	Osielsko	subst:pl:loc:n:ncol	nazwa geograficzna	
+Osielskami	Osielsko	subst:pl:inst:n:ncol	nazwa geograficzna	
+Osielska	Osielsko	subst:pl:acc:n:ncol	nazwa geograficzna	
+Osielska	Osielsko	subst:pl:nom:n:ncol	nazwa geograficzna	
+Osielska	Osielsko	subst:pl:voc:n:ncol	nazwa geograficzna	
+Osielska	Osielsko	subst:sg:gen:n:ncol	nazwa geograficzna	
+Osielskiem	Osielsko	subst:sg:inst:n:ncol	nazwa geograficzna	
+Osielskom	Osielsko	subst:pl:dat:n:ncol	nazwa geograficzna	
+Osielsko	Osielsko	subst:sg:acc:n:ncol	nazwa geograficzna	
+Osielsko	Osielsko	subst:sg:nom:n:ncol	nazwa geograficzna	
+Osielsko	Osielsko	subst:sg:voc:n:ncol	nazwa geograficzna	
+Osielsk	Osielsko	subst:pl:gen:n:ncol	nazwa geograficzna	
+Osielsku	Osielsko	subst:sg:dat:n:ncol	nazwa geograficzna	
+Osielsku	Osielsko	subst:sg:loc:n:ncol	nazwa geograficzna	
+Osięcinach	Osięciny	subst:pl:loc:n:pt	nazwa geograficzna	
+Osięcinach	Osięciny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Osięcinami	Osięciny	subst:pl:inst:n:pt	nazwa geograficzna	
+Osięcinami	Osięciny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Osięcinom	Osięciny	subst:pl:dat:n:pt	nazwa geograficzna	
+Osięcinom	Osięciny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Osięcin	Osięciny	subst:pl:gen:n:pt	nazwa geograficzna	
+Osięcin	Osięciny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Osięciny	Osięciny	subst:pl:acc:n:pt	nazwa geograficzna	
+Osięciny	Osięciny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Osięciny	Osięciny	subst:pl:nom:n:pt	nazwa geograficzna	
+Osięciny	Osięciny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Osięciny	Osięciny	subst:pl:voc:n:pt	nazwa geograficzna	
+Osięciny	Osięciny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Osinach	Osiny	subst:pl:loc:n:pt	nazwa geograficzna	
+Osinach	Osiny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Osinami	Osiny	subst:pl:inst:n:pt	nazwa geograficzna	
+Osinami	Osiny	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Osinom	Osiny	subst:pl:dat:n:pt	nazwa geograficzna	
+Osinom	Osiny	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Osin	Osiny	subst:pl:gen:n:pt	nazwa geograficzna	
+Osin	Osiny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+Osiny	Osiny	subst:pl:acc:n:pt	nazwa geograficzna	
+Osiny	Osiny	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Osiny	Osiny	subst:pl:nom:n:pt	nazwa geograficzna	
+Osiny	Osiny	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Osiny	Osiny	subst:pl:voc:n:pt	nazwa geograficzna	
+Osiny	Osiny	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Osińscy	Osiński	subst:pl:nom:m1	nazwisko	
 Osińscy	Osiński	subst:pl:voc:m1	nazwisko	
 Osińskich	Osiński	subst:pl:acc:m1	nazwisko	
@@ -3789,20 +3789,20 @@ Oskary	Oskar	depr:pl:nom:m2	imię
 Oskary	Oskar	depr:pl:voc:m2	imię	
 Oskarze	Oskar	subst:sg:loc:m1	imię	
 Oskarze	Oskar	subst:sg:voc:m1	imię	
-Oslo	Oslo	subst:pl:acc:n2	nazwa geograficzna	
-Oslo	Oslo	subst:pl:dat:n2	nazwa geograficzna	
-Oslo	Oslo	subst:pl:gen:n2	nazwa geograficzna	
-Oslo	Oslo	subst:pl:inst:n2	nazwa geograficzna	
-Oslo	Oslo	subst:pl:loc:n2	nazwa geograficzna	
-Oslo	Oslo	subst:pl:nom:n2	nazwa geograficzna	
-Oslo	Oslo	subst:pl:voc:n2	nazwa geograficzna	
-Oslo	Oslo	subst:sg:acc:n2	nazwa geograficzna	
-Oslo	Oslo	subst:sg:dat:n2	nazwa geograficzna	
-Oslo	Oslo	subst:sg:gen:n2	nazwa geograficzna	
-Oslo	Oslo	subst:sg:inst:n2	nazwa geograficzna	
-Oslo	Oslo	subst:sg:loc:n2	nazwa geograficzna	
-Oslo	Oslo	subst:sg:nom:n2	nazwa geograficzna	
-Oslo	Oslo	subst:sg:voc:n2	nazwa geograficzna	
+Oslo	Oslo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Oslo	Oslo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Oslo	Oslo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Oslo	Oslo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Oslo	Oslo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Oslo	Oslo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Oslo	Oslo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Oslo	Oslo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Oslo	Oslo	subst:sg:dat:n:ncol	nazwa geograficzna	
+Oslo	Oslo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Oslo	Oslo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Oslo	Oslo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Oslo	Oslo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Oslo	Oslo	subst:sg:voc:n:ncol	nazwa geograficzna	
 Osowska	Osowska	subst:sg:nom:f	nazwisko	
 Osowska	Osowska	subst:sg:voc:f	nazwisko	
 Osowską	Osowska	subst:sg:acc:f	nazwisko	
@@ -3850,33 +3850,33 @@ Osóbkowie	Osóbka	subst:pl:voc:m1	nazwisko
 Osóbków	Osóbka	subst:pl:acc:m1	nazwisko	
 Osóbków	Osóbka	subst:pl:gen:m1	nazwisko	
 OSP	OSP	subst:pl:acc:f	nazwa organizacji	
-OSP	OSP	subst:pl:acc:n2	nazwa organizacji	
+OSP	OSP	subst:pl:acc:n:ncol	nazwa organizacji	
 OSP	OSP	subst:pl:dat:f	nazwa organizacji	
-OSP	OSP	subst:pl:dat:n2	nazwa organizacji	
+OSP	OSP	subst:pl:dat:n:ncol	nazwa organizacji	
 OSP	OSP	subst:pl:gen:f	nazwa organizacji	
-OSP	OSP	subst:pl:gen:n2	nazwa organizacji	
+OSP	OSP	subst:pl:gen:n:ncol	nazwa organizacji	
 OSP	OSP	subst:pl:inst:f	nazwa organizacji	
-OSP	OSP	subst:pl:inst:n2	nazwa organizacji	
+OSP	OSP	subst:pl:inst:n:ncol	nazwa organizacji	
 OSP	OSP	subst:pl:loc:f	nazwa organizacji	
-OSP	OSP	subst:pl:loc:n2	nazwa organizacji	
+OSP	OSP	subst:pl:loc:n:ncol	nazwa organizacji	
 OSP	OSP	subst:pl:nom:f	nazwa organizacji	
-OSP	OSP	subst:pl:nom:n2	nazwa organizacji	
+OSP	OSP	subst:pl:nom:n:ncol	nazwa organizacji	
 OSP	OSP	subst:pl:voc:f	nazwa organizacji	
-OSP	OSP	subst:pl:voc:n2	nazwa organizacji	
+OSP	OSP	subst:pl:voc:n:ncol	nazwa organizacji	
 OSP	OSP	subst:sg:acc:f	nazwa organizacji	
-OSP	OSP	subst:sg:acc:n2	nazwa organizacji	
+OSP	OSP	subst:sg:acc:n:ncol	nazwa organizacji	
 OSP	OSP	subst:sg:dat:f	nazwa organizacji	
-OSP	OSP	subst:sg:dat:n2	nazwa organizacji	
+OSP	OSP	subst:sg:dat:n:ncol	nazwa organizacji	
 OSP	OSP	subst:sg:gen:f	nazwa organizacji	
-OSP	OSP	subst:sg:gen:n2	nazwa organizacji	
+OSP	OSP	subst:sg:gen:n:ncol	nazwa organizacji	
 OSP	OSP	subst:sg:inst:f	nazwa organizacji	
-OSP	OSP	subst:sg:inst:n2	nazwa organizacji	
+OSP	OSP	subst:sg:inst:n:ncol	nazwa organizacji	
 OSP	OSP	subst:sg:loc:f	nazwa organizacji	
-OSP	OSP	subst:sg:loc:n2	nazwa organizacji	
+OSP	OSP	subst:sg:loc:n:ncol	nazwa organizacji	
 OSP	OSP	subst:sg:nom:f	nazwa organizacji	
-OSP	OSP	subst:sg:nom:n2	nazwa organizacji	
+OSP	OSP	subst:sg:nom:n:ncol	nazwa organizacji	
 OSP	OSP	subst:sg:voc:f	nazwa organizacji	
-OSP	OSP	subst:sg:voc:n2	nazwa organizacji	
+OSP	OSP	subst:sg:voc:n:ncol	nazwa organizacji	
 Ossietzcy	Ossietzky	subst:pl:nom:m1	nazwisko	
 Ossietzcy	Ossietzky	subst:pl:voc:m1	nazwisko	
 Ossietzkich	Ossietzky	subst:pl:acc:m1	nazwisko	
@@ -3893,20 +3893,20 @@ Ossietzkim	Ossietzky	subst:sg:inst:m1	nazwisko
 Ossietzkim	Ossietzky	subst:sg:loc:m1	nazwisko	
 Ossietzky	Ossietzky	subst:sg:nom:m1	nazwisko	
 Ossietzky	Ossietzky	subst:sg:voc:m1	nazwisko	
-Ossolineach	Ossolineum	subst:pl:loc:n2	nazwa instytucji	
-Ossolineami	Ossolineum	subst:pl:inst:n2	nazwa instytucji	
-Ossolinea	Ossolineum	subst:pl:acc:n2	nazwa instytucji	
-Ossolinea	Ossolineum	subst:pl:nom:n2	nazwa instytucji	
-Ossolinea	Ossolineum	subst:pl:voc:n2	nazwa instytucji	
-Ossolineom	Ossolineum	subst:pl:dat:n2	nazwa instytucji	
-Ossolineów	Ossolineum	subst:pl:gen:n2	nazwa instytucji	
-Ossolineum	Ossolineum	subst:sg:acc:n2	nazwa instytucji	
-Ossolineum	Ossolineum	subst:sg:dat:n2	nazwa instytucji	
-Ossolineum	Ossolineum	subst:sg:gen:n2	nazwa instytucji	
-Ossolineum	Ossolineum	subst:sg:inst:n2	nazwa instytucji	
-Ossolineum	Ossolineum	subst:sg:loc:n2	nazwa instytucji	
-Ossolineum	Ossolineum	subst:sg:nom:n2	nazwa instytucji	
-Ossolineum	Ossolineum	subst:sg:voc:n2	nazwa instytucji	
+Ossolineach	Ossolineum	subst:pl:loc:n:ncol	nazwa instytucji	
+Ossolineami	Ossolineum	subst:pl:inst:n:ncol	nazwa instytucji	
+Ossolinea	Ossolineum	subst:pl:acc:n:ncol	nazwa instytucji	
+Ossolinea	Ossolineum	subst:pl:nom:n:ncol	nazwa instytucji	
+Ossolinea	Ossolineum	subst:pl:voc:n:ncol	nazwa instytucji	
+Ossolineom	Ossolineum	subst:pl:dat:n:ncol	nazwa instytucji	
+Ossolineów	Ossolineum	subst:pl:gen:n:ncol	nazwa instytucji	
+Ossolineum	Ossolineum	subst:sg:acc:n:ncol	nazwa instytucji	
+Ossolineum	Ossolineum	subst:sg:dat:n:ncol	nazwa instytucji	
+Ossolineum	Ossolineum	subst:sg:gen:n:ncol	nazwa instytucji	
+Ossolineum	Ossolineum	subst:sg:inst:n:ncol	nazwa instytucji	
+Ossolineum	Ossolineum	subst:sg:loc:n:ncol	nazwa instytucji	
+Ossolineum	Ossolineum	subst:sg:nom:n:ncol	nazwa instytucji	
+Ossolineum	Ossolineum	subst:sg:voc:n:ncol	nazwa instytucji	
 Ossolińska	Ossolińska	subst:sg:nom:f	nazwisko	
 Ossolińska	Ossolińska	subst:sg:voc:f	nazwisko	
 Ossolińską	Ossolińska	subst:sg:acc:f	nazwisko	
@@ -3983,20 +3983,20 @@ Ostapów	Ostap	subst:pl:acc:m1	imię
 Ostapów	Ostap	subst:pl:gen:m1	imię	
 Ostapy	Ostap	depr:pl:nom:m2	imię	
 Ostapy	Ostap	depr:pl:voc:m2	imię	
-Ostaszewach	Ostaszewo	subst:pl:loc:n2	nazwa geograficzna	
-Ostaszewami	Ostaszewo	subst:pl:inst:n2	nazwa geograficzna	
-Ostaszewa	Ostaszewo	subst:pl:acc:n2	nazwa geograficzna	
-Ostaszewa	Ostaszewo	subst:pl:nom:n2	nazwa geograficzna	
-Ostaszewa	Ostaszewo	subst:pl:voc:n2	nazwa geograficzna	
-Ostaszewa	Ostaszewo	subst:sg:gen:n2	nazwa geograficzna	
-Ostaszewem	Ostaszewo	subst:sg:inst:n2	nazwa geograficzna	
-Ostaszewie	Ostaszewo	subst:sg:loc:n2	nazwa geograficzna	
-Ostaszewom	Ostaszewo	subst:pl:dat:n2	nazwa geograficzna	
-Ostaszewo	Ostaszewo	subst:sg:acc:n2	nazwa geograficzna	
-Ostaszewo	Ostaszewo	subst:sg:nom:n2	nazwa geograficzna	
-Ostaszewo	Ostaszewo	subst:sg:voc:n2	nazwa geograficzna	
-Ostaszew	Ostaszewo	subst:pl:gen:n2	nazwa geograficzna	
-Ostaszewu	Ostaszewo	subst:sg:dat:n2	nazwa geograficzna	
+Ostaszewach	Ostaszewo	subst:pl:loc:n:ncol	nazwa geograficzna	
+Ostaszewami	Ostaszewo	subst:pl:inst:n:ncol	nazwa geograficzna	
+Ostaszewa	Ostaszewo	subst:pl:acc:n:ncol	nazwa geograficzna	
+Ostaszewa	Ostaszewo	subst:pl:nom:n:ncol	nazwa geograficzna	
+Ostaszewa	Ostaszewo	subst:pl:voc:n:ncol	nazwa geograficzna	
+Ostaszewa	Ostaszewo	subst:sg:gen:n:ncol	nazwa geograficzna	
+Ostaszewem	Ostaszewo	subst:sg:inst:n:ncol	nazwa geograficzna	
+Ostaszewie	Ostaszewo	subst:sg:loc:n:ncol	nazwa geograficzna	
+Ostaszewom	Ostaszewo	subst:pl:dat:n:ncol	nazwa geograficzna	
+Ostaszewo	Ostaszewo	subst:sg:acc:n:ncol	nazwa geograficzna	
+Ostaszewo	Ostaszewo	subst:sg:nom:n:ncol	nazwa geograficzna	
+Ostaszewo	Ostaszewo	subst:sg:voc:n:ncol	nazwa geograficzna	
+Ostaszew	Ostaszewo	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ostaszewu	Ostaszewo	subst:sg:dat:n:ncol	nazwa geograficzna	
 Ostaszkowach	Ostaszków	subst:pl:loc:m3	nazwa geograficzna	
 Ostaszkowami	Ostaszków	subst:pl:inst:m3	nazwa geograficzna	
 Ostaszkowa	Ostaszków	subst:sg:gen:m3	nazwa geograficzna	
@@ -4087,20 +4087,20 @@ Ostrogotów	Ostrogot	subst:pl:acc:m1	nazwa pospolita
 Ostrogotów	Ostrogot	subst:pl:gen:m1	nazwa pospolita	
 Ostrogoty	Ostrogot	depr:pl:nom:m2	nazwa pospolita	
 Ostrogoty	Ostrogot	depr:pl:voc:m2	nazwa pospolita	
-Ostrołęckich	Ostrołęckie	subst:pl:gen:n2	nazwa geograficzna	
-Ostrołęckich	Ostrołęckie	subst:pl:loc:n2	nazwa geograficzna	
-Ostrołęckiego	Ostrołęckie	subst:sg:gen:n2	nazwa geograficzna	
-Ostrołęckiem	Ostrołęckie	subst:sg:inst:n2	nazwa geograficzna	
-Ostrołęckiem	Ostrołęckie	subst:sg:loc:n2	nazwa geograficzna	
-Ostrołęckiemu	Ostrołęckie	subst:sg:dat:n2	nazwa geograficzna	
-Ostrołęckie	Ostrołęckie	subst:pl:acc:n2	nazwa geograficzna	
-Ostrołęckie	Ostrołęckie	subst:pl:nom:n2	nazwa geograficzna	
-Ostrołęckie	Ostrołęckie	subst:pl:voc:n2	nazwa geograficzna	
-Ostrołęckie	Ostrołęckie	subst:sg:acc:n2	nazwa geograficzna	
-Ostrołęckie	Ostrołęckie	subst:sg:nom:n2	nazwa geograficzna	
-Ostrołęckie	Ostrołęckie	subst:sg:voc:n2	nazwa geograficzna	
-Ostrołęckimi	Ostrołęckie	subst:pl:inst:n2	nazwa geograficzna	
-Ostrołęckim	Ostrołęckie	subst:pl:dat:n2	nazwa geograficzna	
+Ostrołęckich	Ostrołęckie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Ostrołęckich	Ostrołęckie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Ostrołęckiego	Ostrołęckie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Ostrołęckiem	Ostrołęckie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Ostrołęckiem	Ostrołęckie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Ostrołęckiemu	Ostrołęckie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Ostrołęckie	Ostrołęckie	subst:pl:acc:n:ncol	nazwa geograficzna	
+Ostrołęckie	Ostrołęckie	subst:pl:nom:n:ncol	nazwa geograficzna	
+Ostrołęckie	Ostrołęckie	subst:pl:voc:n:ncol	nazwa geograficzna	
+Ostrołęckie	Ostrołęckie	subst:sg:acc:n:ncol	nazwa geograficzna	
+Ostrołęckie	Ostrołęckie	subst:sg:nom:n:ncol	nazwa geograficzna	
+Ostrołęckie	Ostrołęckie	subst:sg:voc:n:ncol	nazwa geograficzna	
+Ostrołęckimi	Ostrołęckie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Ostrołęckim	Ostrołęckie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Ostrołęce	Ostrołęka	subst:sg:dat:f	nazwa geograficzna	
 Ostrołęce	Ostrołęka	subst:sg:loc:f	nazwa geograficzna	
 Ostrołękach	Ostrołęka	subst:pl:loc:f	nazwa geograficzna	
@@ -4130,20 +4130,20 @@ Ostrorogu	Ostroróg	subst:sg:loc:m3	nazwa geograficzna
 Ostrorogu	Ostroróg	subst:sg:voc:m3	nazwa geograficzna	
 Ostroróg	Ostroróg	subst:sg:acc:m3	nazwa geograficzna	
 Ostroróg	Ostroróg	subst:sg:nom:m3	nazwa geograficzna	
-Ostrowicach	Ostrowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Ostrowicach	Ostrowice	subst:pl:loc:p3	nazwa geograficzna	
-Ostrowicami	Ostrowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Ostrowicami	Ostrowice	subst:pl:inst:p3	nazwa geograficzna	
-Ostrowice	Ostrowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Ostrowice	Ostrowice	subst:pl:acc:p3	nazwa geograficzna	
-Ostrowice	Ostrowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Ostrowice	Ostrowice	subst:pl:nom:p3	nazwa geograficzna	
-Ostrowice	Ostrowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Ostrowice	Ostrowice	subst:pl:voc:p3	nazwa geograficzna	
-Ostrowicom	Ostrowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Ostrowicom	Ostrowice	subst:pl:dat:p3	nazwa geograficzna	
-Ostrowic	Ostrowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Ostrowic	Ostrowice	subst:pl:gen:p3	nazwa geograficzna	
+Ostrowicach	Ostrowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Ostrowicach	Ostrowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ostrowicami	Ostrowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Ostrowicami	Ostrowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ostrowice	Ostrowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Ostrowice	Ostrowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Ostrowice	Ostrowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Ostrowice	Ostrowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Ostrowice	Ostrowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Ostrowice	Ostrowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Ostrowicom	Ostrowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Ostrowicom	Ostrowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ostrowic	Ostrowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Ostrowic	Ostrowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Ostrowcach	Ostrowiec	subst:pl:loc:m3	nazwa geograficzna	
 Ostrowcami	Ostrowiec	subst:pl:inst:m3	nazwa geograficzna	
 Ostrowca	Ostrowiec	subst:sg:gen:m3	nazwa geograficzna	
@@ -4321,20 +4321,20 @@ Oślizły	Oślizło	depr:pl:voc:m2	nazwisko
 Oślizły	Oślizło	subst:sg:gen:m1	nazwisko	
 Ośliźle	Oślizło	subst:sg:dat:m1	nazwisko	
 Ośliźle	Oślizło	subst:sg:loc:m1	nazwisko	
-Oświeceniach	Oświecenie	subst:pl:loc:n2	nazwa pospolita	
-Oświeceniami	Oświecenie	subst:pl:inst:n2	nazwa pospolita	
-Oświecenia	Oświecenie	subst:pl:acc:n2	nazwa pospolita	
-Oświecenia	Oświecenie	subst:pl:nom:n2	nazwa pospolita	
-Oświecenia	Oświecenie	subst:pl:voc:n2	nazwa pospolita	
-Oświecenia	Oświecenie	subst:sg:gen:n2	nazwa pospolita	
-Oświeceniem	Oświecenie	subst:sg:inst:n2	nazwa pospolita	
-Oświecenie	Oświecenie	subst:sg:acc:n2	nazwa pospolita	
-Oświecenie	Oświecenie	subst:sg:nom:n2	nazwa pospolita	
-Oświecenie	Oświecenie	subst:sg:voc:n2	nazwa pospolita	
-Oświeceniom	Oświecenie	subst:pl:dat:n2	nazwa pospolita	
-Oświeceniu	Oświecenie	subst:sg:dat:n2	nazwa pospolita	
-Oświeceniu	Oświecenie	subst:sg:loc:n2	nazwa pospolita	
-Oświeceń	Oświecenie	subst:pl:gen:n2	nazwa pospolita	
+Oświeceniach	Oświecenie	subst:pl:loc:n:ncol	nazwa pospolita	
+Oświeceniami	Oświecenie	subst:pl:inst:n:ncol	nazwa pospolita	
+Oświecenia	Oświecenie	subst:pl:acc:n:ncol	nazwa pospolita	
+Oświecenia	Oświecenie	subst:pl:nom:n:ncol	nazwa pospolita	
+Oświecenia	Oświecenie	subst:pl:voc:n:ncol	nazwa pospolita	
+Oświecenia	Oświecenie	subst:sg:gen:n:ncol	nazwa pospolita	
+Oświeceniem	Oświecenie	subst:sg:inst:n:ncol	nazwa pospolita	
+Oświecenie	Oświecenie	subst:sg:acc:n:ncol	nazwa pospolita	
+Oświecenie	Oświecenie	subst:sg:nom:n:ncol	nazwa pospolita	
+Oświecenie	Oświecenie	subst:sg:voc:n:ncol	nazwa pospolita	
+Oświeceniom	Oświecenie	subst:pl:dat:n:ncol	nazwa pospolita	
+Oświeceniu	Oświecenie	subst:sg:dat:n:ncol	nazwa pospolita	
+Oświeceniu	Oświecenie	subst:sg:loc:n:ncol	nazwa pospolita	
+Oświeceń	Oświecenie	subst:pl:gen:n:ncol	nazwa pospolita	
 Oświęcimiach	Oświęcim	subst:pl:loc:m3	nazwa geograficzna	
 Oświęcimiami	Oświęcim	subst:pl:inst:m3	nazwa geograficzna	
 Oświęcimia	Oświęcim	subst:sg:gen:m3	nazwa geograficzna	
@@ -4587,61 +4587,61 @@ Owsów	Owies	subst:pl:gen:m1	nazwisko
 Owsy	Owies	depr:pl:nom:m2	nazwisko	
 Owsy	Owies	depr:pl:voc:m2	nazwisko	
 OWP	OWP:s1	subst:pl:acc:m3	nazwa organizacji	
-OWP	OWP:s1	subst:pl:acc:n2	nazwa organizacji	
+OWP	OWP:s1	subst:pl:acc:n:ncol	nazwa organizacji	
 OWP	OWP:s1	subst:pl:dat:m3	nazwa organizacji	
-OWP	OWP:s1	subst:pl:dat:n2	nazwa organizacji	
+OWP	OWP:s1	subst:pl:dat:n:ncol	nazwa organizacji	
 OWP	OWP:s1	subst:pl:gen:m3	nazwa organizacji	
-OWP	OWP:s1	subst:pl:gen:n2	nazwa organizacji	
+OWP	OWP:s1	subst:pl:gen:n:ncol	nazwa organizacji	
 OWP	OWP:s1	subst:pl:inst:m3	nazwa organizacji	
-OWP	OWP:s1	subst:pl:inst:n2	nazwa organizacji	
+OWP	OWP:s1	subst:pl:inst:n:ncol	nazwa organizacji	
 OWP	OWP:s1	subst:pl:loc:m3	nazwa organizacji	
-OWP	OWP:s1	subst:pl:loc:n2	nazwa organizacji	
+OWP	OWP:s1	subst:pl:loc:n:ncol	nazwa organizacji	
 OWP	OWP:s1	subst:pl:nom:m3	nazwa organizacji	
-OWP	OWP:s1	subst:pl:nom:n2	nazwa organizacji	
+OWP	OWP:s1	subst:pl:nom:n:ncol	nazwa organizacji	
 OWP	OWP:s1	subst:pl:voc:m3	nazwa organizacji	
-OWP	OWP:s1	subst:pl:voc:n2	nazwa organizacji	
+OWP	OWP:s1	subst:pl:voc:n:ncol	nazwa organizacji	
 OWP	OWP:s1	subst:sg:acc:m3	nazwa organizacji	
-OWP	OWP:s1	subst:sg:acc:n2	nazwa organizacji	
+OWP	OWP:s1	subst:sg:acc:n:ncol	nazwa organizacji	
 OWP	OWP:s1	subst:sg:dat:m3	nazwa organizacji	
-OWP	OWP:s1	subst:sg:dat:n2	nazwa organizacji	
+OWP	OWP:s1	subst:sg:dat:n:ncol	nazwa organizacji	
 OWP	OWP:s1	subst:sg:gen:m3	nazwa organizacji	
-OWP	OWP:s1	subst:sg:gen:n2	nazwa organizacji	
+OWP	OWP:s1	subst:sg:gen:n:ncol	nazwa organizacji	
 OWP	OWP:s1	subst:sg:inst:m3	nazwa organizacji	
-OWP	OWP:s1	subst:sg:inst:n2	nazwa organizacji	
+OWP	OWP:s1	subst:sg:inst:n:ncol	nazwa organizacji	
 OWP	OWP:s1	subst:sg:loc:m3	nazwa organizacji	
-OWP	OWP:s1	subst:sg:loc:n2	nazwa organizacji	
+OWP	OWP:s1	subst:sg:loc:n:ncol	nazwa organizacji	
 OWP	OWP:s1	subst:sg:nom:m3	nazwa organizacji	
-OWP	OWP:s1	subst:sg:nom:n2	nazwa organizacji	
+OWP	OWP:s1	subst:sg:nom:n:ncol	nazwa organizacji	
 OWP	OWP:s1	subst:sg:voc:m3	nazwa organizacji	
-OWP	OWP:s1	subst:sg:voc:n2	nazwa organizacji	
+OWP	OWP:s1	subst:sg:voc:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:pl:acc:f	nazwa organizacji	
-OWP	OWP:s2	subst:pl:acc:n2	nazwa organizacji	
+OWP	OWP:s2	subst:pl:acc:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:pl:dat:f	nazwa organizacji	
-OWP	OWP:s2	subst:pl:dat:n2	nazwa organizacji	
+OWP	OWP:s2	subst:pl:dat:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:pl:gen:f	nazwa organizacji	
-OWP	OWP:s2	subst:pl:gen:n2	nazwa organizacji	
+OWP	OWP:s2	subst:pl:gen:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:pl:inst:f	nazwa organizacji	
-OWP	OWP:s2	subst:pl:inst:n2	nazwa organizacji	
+OWP	OWP:s2	subst:pl:inst:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:pl:loc:f	nazwa organizacji	
-OWP	OWP:s2	subst:pl:loc:n2	nazwa organizacji	
+OWP	OWP:s2	subst:pl:loc:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:pl:nom:f	nazwa organizacji	
-OWP	OWP:s2	subst:pl:nom:n2	nazwa organizacji	
+OWP	OWP:s2	subst:pl:nom:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:pl:voc:f	nazwa organizacji	
-OWP	OWP:s2	subst:pl:voc:n2	nazwa organizacji	
+OWP	OWP:s2	subst:pl:voc:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:sg:acc:f	nazwa organizacji	
-OWP	OWP:s2	subst:sg:acc:n2	nazwa organizacji	
+OWP	OWP:s2	subst:sg:acc:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:sg:dat:f	nazwa organizacji	
-OWP	OWP:s2	subst:sg:dat:n2	nazwa organizacji	
+OWP	OWP:s2	subst:sg:dat:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:sg:gen:f	nazwa organizacji	
-OWP	OWP:s2	subst:sg:gen:n2	nazwa organizacji	
+OWP	OWP:s2	subst:sg:gen:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:sg:inst:f	nazwa organizacji	
-OWP	OWP:s2	subst:sg:inst:n2	nazwa organizacji	
+OWP	OWP:s2	subst:sg:inst:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:sg:loc:f	nazwa organizacji	
-OWP	OWP:s2	subst:sg:loc:n2	nazwa organizacji	
+OWP	OWP:s2	subst:sg:loc:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:sg:nom:f	nazwa organizacji	
-OWP	OWP:s2	subst:sg:nom:n2	nazwa organizacji	
+OWP	OWP:s2	subst:sg:nom:n:ncol	nazwa organizacji	
 OWP	OWP:s2	subst:sg:voc:f	nazwa organizacji	
-OWP	OWP:s2	subst:sg:voc:n2	nazwa organizacji	
+OWP	OWP:s2	subst:sg:voc:n:ncol	nazwa organizacji	
 Owsiakach	Owsiak	subst:pl:loc:m1	nazwisko	
 Owsiakami	Owsiak	subst:pl:inst:m1	nazwisko	
 Owsiaka	Owsiak	subst:sg:acc:m1	nazwisko	
@@ -4817,20 +4817,20 @@ Ozyrysów	Ozyrys	subst:pl:acc:m1	imię
 Ozyrysów	Ozyrys	subst:pl:gen:m1	imię	
 Ozyrysy	Ozyrys	depr:pl:nom:m2	imię	
 Ozyrysy	Ozyrys	depr:pl:voc:m2	imię	
-Ożarowicach	Ożarowice	subst:pl:loc:p2	nazwa geograficzna	rzad.
-Ożarowicach	Ożarowice	subst:pl:loc:p3	nazwa geograficzna	
-Ożarowicami	Ożarowice	subst:pl:inst:p2	nazwa geograficzna	rzad.
-Ożarowicami	Ożarowice	subst:pl:inst:p3	nazwa geograficzna	
-Ożarowice	Ożarowice	subst:pl:acc:p2	nazwa geograficzna	rzad.
-Ożarowice	Ożarowice	subst:pl:acc:p3	nazwa geograficzna	
-Ożarowice	Ożarowice	subst:pl:nom:p2	nazwa geograficzna	rzad.
-Ożarowice	Ożarowice	subst:pl:nom:p3	nazwa geograficzna	
-Ożarowice	Ożarowice	subst:pl:voc:p2	nazwa geograficzna	rzad.
-Ożarowice	Ożarowice	subst:pl:voc:p3	nazwa geograficzna	
-Ożarowicom	Ożarowice	subst:pl:dat:p2	nazwa geograficzna	rzad.
-Ożarowicom	Ożarowice	subst:pl:dat:p3	nazwa geograficzna	
-Ożarowic	Ożarowice	subst:pl:gen:p2	nazwa geograficzna	rzad.
-Ożarowic	Ożarowice	subst:pl:gen:p3	nazwa geograficzna	
+Ożarowicach	Ożarowice	subst:pl:loc:n:pt	nazwa geograficzna	
+Ożarowicach	Ożarowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+Ożarowicami	Ożarowice	subst:pl:inst:n:pt	nazwa geograficzna	
+Ożarowicami	Ożarowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+Ożarowice	Ożarowice	subst:pl:acc:n:pt	nazwa geograficzna	
+Ożarowice	Ożarowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+Ożarowice	Ożarowice	subst:pl:nom:n:pt	nazwa geograficzna	
+Ożarowice	Ożarowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Ożarowice	Ożarowice	subst:pl:voc:n:pt	nazwa geograficzna	
+Ożarowice	Ożarowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+Ożarowicom	Ożarowice	subst:pl:dat:n:pt	nazwa geograficzna	
+Ożarowicom	Ożarowice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Ożarowic	Ożarowice	subst:pl:gen:n:pt	nazwa geograficzna	
+Ożarowic	Ożarowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Ożarowach	Ożarów	subst:pl:loc:m3	nazwa geograficzna	
 Ożarowami	Ożarów	subst:pl:inst:m3	nazwa geograficzna	
 Ożarowa	Ożarów	subst:sg:gen:m3	nazwa geograficzna	
