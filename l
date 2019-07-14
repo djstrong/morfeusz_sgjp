@@ -39692,7 +39692,8 @@ liptowskości	liptowskość	subst:sg:voc:f	nazwa pospolita
 liptowskościom	liptowskość	subst:pl:dat:f	nazwa pospolita	
 liptowskość	liptowskość	subst:sg:acc:f	nazwa pospolita	
 liptowskość	liptowskość	subst:sg:nom:f	nazwa pospolita	
-li	li:q	qub		przest.
+li	li:q1	qub		przest.
+li	li:q2	qub		przest._dziś_książk.
 lirach	lir	subst:pl:loc:m2	nazwa pospolita	
 lira	lir	subst:sg:acc:m2	nazwa pospolita	
 lira	lir	subst:sg:gen:m2	nazwa pospolita	
@@ -40175,34 +40176,20 @@ liryzujesz	liryzować	fin:sg:sec:imperf		rzad.
 liryzuję	liryzować	fin:sg:pri:imperf		rzad.
 liryzuj	liryzować	impt:sg:sec:imperf		rzad.
 liryzujmy	liryzować	impt:pl:pri:imperf		rzad.
-li	li:s1	subst:pl:acc:n2	nazwa pospolita	
-li	li:s1	subst:pl:dat:n2	nazwa pospolita	
-li	li:s1	subst:pl:gen:n2	nazwa pospolita	
-li	li:s1	subst:pl:inst:n2	nazwa pospolita	
-li	li:s1	subst:pl:loc:n2	nazwa pospolita	
-li	li:s1	subst:pl:nom:n2	nazwa pospolita	
-li	li:s1	subst:pl:voc:n2	nazwa pospolita	
-li	li:s1	subst:sg:acc:n2	nazwa pospolita	
-li	li:s1	subst:sg:dat:n2	nazwa pospolita	
-li	li:s1	subst:sg:gen:n2	nazwa pospolita	
-li	li:s1	subst:sg:inst:n2	nazwa pospolita	
-li	li:s1	subst:sg:loc:n2	nazwa pospolita	
-li	li:s1	subst:sg:nom:n2	nazwa pospolita	
-li	li:s1	subst:sg:voc:n2	nazwa pospolita	
-li	li:s2	subst:pl:acc:f	nazwa pospolita	
-li	li:s2	subst:pl:dat:f	nazwa pospolita	
-li	li:s2	subst:pl:gen:f	nazwa pospolita	
-li	li:s2	subst:pl:inst:f	nazwa pospolita	
-li	li:s2	subst:pl:loc:f	nazwa pospolita	
-li	li:s2	subst:pl:nom:f	nazwa pospolita	
-li	li:s2	subst:pl:voc:f	nazwa pospolita	
-li	li:s2	subst:sg:acc:f	nazwa pospolita	
-li	li:s2	subst:sg:dat:f	nazwa pospolita	
-li	li:s2	subst:sg:gen:f	nazwa pospolita	
-li	li:s2	subst:sg:inst:f	nazwa pospolita	
-li	li:s2	subst:sg:loc:f	nazwa pospolita	
-li	li:s2	subst:sg:nom:f	nazwa pospolita	
-li	li:s2	subst:sg:voc:f	nazwa pospolita	
+li	li:s	subst:pl:acc:n2	nazwa pospolita	
+li	li:s	subst:pl:dat:n2	nazwa pospolita	
+li	li:s	subst:pl:gen:n2	nazwa pospolita	
+li	li:s	subst:pl:inst:n2	nazwa pospolita	
+li	li:s	subst:pl:loc:n2	nazwa pospolita	
+li	li:s	subst:pl:nom:n2	nazwa pospolita	
+li	li:s	subst:pl:voc:n2	nazwa pospolita	
+li	li:s	subst:sg:acc:n2	nazwa pospolita	
+li	li:s	subst:sg:dat:n2	nazwa pospolita	
+li	li:s	subst:sg:gen:n2	nazwa pospolita	
+li	li:s	subst:sg:inst:n2	nazwa pospolita	
+li	li:s	subst:sg:loc:n2	nazwa pospolita	
+li	li:s	subst:sg:nom:n2	nazwa pospolita	
+li	li:s	subst:sg:voc:n2	nazwa pospolita	
 lisek	lisek	subst:sg:nom:m2	nazwa pospolita	
 liskach	lisek	subst:pl:loc:m2	nazwa pospolita	
 liska	lisek	subst:sg:acc:m2	nazwa pospolita	
