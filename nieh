@@ -39,6 +39,47 @@ niehabilitujący	habilitować	pact:sg:nom.voc:m1.m2.m3:imperf:neg
 niehabilitującym	habilitować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
 niehabilitującym	habilitować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
 niehabilitującymi	habilitować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+niehackowana	hackować	ppas:sg:nom.voc:f:imperf:neg		środ.
+niehackowaną	hackować	ppas:sg:acc.inst:f:imperf:neg		środ.
+niehackowanego	hackować	ppas:sg:acc:m1.m2:imperf:neg		środ.
+niehackowanego	hackować	ppas:sg:gen:m1.m2.m3.n:imperf:neg		środ.
+niehackowane	hackować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		środ.
+niehackowane	hackować	ppas:sg:nom.acc.voc:n:imperf:neg		środ.
+niehackowanej	hackować	ppas:sg:gen.dat.loc:f:imperf:neg		środ.
+niehackowanemu	hackować	ppas:sg:dat:m1.m2.m3.n:imperf:neg		środ.
+niehackowaniach	hackować	ger:pl:loc:n:imperf:neg		środ.
+niehackowania	hackować	ger:pl:nom.acc:n:imperf:neg		środ.
+niehackowania	hackować	ger:sg:gen:n:imperf:neg		środ.
+niehackowaniami	hackować	ger:pl:inst:n:imperf:neg		środ.
+niehackowanie	hackować	ger:sg:nom.acc:n:imperf:neg		środ.
+niehackowaniem	hackować	ger:sg:inst:n:imperf:neg		środ.
+niehackowani	hackować	ppas:pl:nom.voc:m1:imperf:neg		środ.
+niehackowaniom	hackować	ger:pl:dat:n:imperf:neg		środ.
+niehackowaniu	hackować	ger:sg:dat.loc:n:imperf:neg		środ.
+niehackowanych	hackować	ppas:pl:acc:m1:imperf:neg		środ.
+niehackowanych	hackować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		środ.
+niehackowany	hackować	ppas:sg:acc:m3:imperf:neg		środ.
+niehackowany	hackować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		środ.
+niehackowanym	hackować	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		środ.
+niehackowanym	hackować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		środ.
+niehackowanymi	hackować	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		środ.
+niehackowań	hackować	ger:pl:gen:n:imperf:neg		środ.
+niehackująca	hackować	pact:sg:nom.voc:f:imperf:neg		środ.
+niehackującą	hackować	pact:sg:acc.inst:f:imperf:neg		środ.
+niehackującego	hackować	pact:sg:acc:m1.m2:imperf:neg		środ.
+niehackującego	hackować	pact:sg:gen:m1.m2.m3.n:imperf:neg		środ.
+niehackujące	hackować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		środ.
+niehackujące	hackować	pact:sg:nom.acc.voc:n:imperf:neg		środ.
+niehackującej	hackować	pact:sg:gen.dat.loc:f:imperf:neg		środ.
+niehackującemu	hackować	pact:sg:dat:m1.m2.m3.n:imperf:neg		środ.
+niehackujących	hackować	pact:pl:acc:m1:imperf:neg		środ.
+niehackujących	hackować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		środ.
+niehackujący	hackować	pact:pl:nom.voc:m1:imperf:neg		środ.
+niehackujący	hackować	pact:sg:acc:m3:imperf:neg		środ.
+niehackujący	hackować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		środ.
+niehackującym	hackować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		środ.
+niehackującym	hackować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		środ.
+niehackującymi	hackować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		środ.
 niehacząca	haczyć	pact:sg:nom.voc:f:imperf:neg		
 niehaczącą	haczyć	pact:sg:acc.inst:f:imperf:neg		
 niehaczącego	haczyć	pact:sg:acc:m1.m2:imperf:neg		
@@ -296,47 +337,88 @@ niehajtnięty	hajtnąć	ppas:sg:nom.voc:m1.m2.m3:perf:neg
 niehajtniętym	hajtnąć	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
 niehajtniętym	hajtnąć	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
 niehajtniętymi	hajtnąć	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
-niehakowana	hakować	ppas:sg:nom.voc:f:imperf:neg		
-niehakowaną	hakować	ppas:sg:acc.inst:f:imperf:neg		
-niehakowanego	hakować	ppas:sg:acc:m1.m2:imperf:neg		
-niehakowanego	hakować	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
-niehakowane	hakować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
-niehakowane	hakować	ppas:sg:nom.acc.voc:n:imperf:neg		
-niehakowanej	hakować	ppas:sg:gen.dat.loc:f:imperf:neg		
-niehakowanemu	hakować	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
-niehakowaniach	hakować	ger:pl:loc:n:imperf:neg		
-niehakowania	hakować	ger:pl:nom.acc:n:imperf:neg		
-niehakowania	hakować	ger:sg:gen:n:imperf:neg		
-niehakowaniami	hakować	ger:pl:inst:n:imperf:neg		
-niehakowanie	hakować	ger:sg:nom.acc:n:imperf:neg		
-niehakowaniem	hakować	ger:sg:inst:n:imperf:neg		
-niehakowani	hakować	ppas:pl:nom.voc:m1:imperf:neg		
-niehakowaniom	hakować	ger:pl:dat:n:imperf:neg		
-niehakowaniu	hakować	ger:sg:dat.loc:n:imperf:neg		
-niehakowanych	hakować	ppas:pl:acc:m1:imperf:neg		
-niehakowanych	hakować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
-niehakowany	hakować	ppas:sg:acc:m3:imperf:neg		
-niehakowany	hakować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
-niehakowanym	hakować	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
-niehakowanym	hakować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
-niehakowanymi	hakować	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
-niehakowań	hakować	ger:pl:gen:n:imperf:neg		
-niehakująca	hakować	pact:sg:nom.voc:f:imperf:neg		
-niehakującą	hakować	pact:sg:acc.inst:f:imperf:neg		
-niehakującego	hakować	pact:sg:acc:m1.m2:imperf:neg		
-niehakującego	hakować	pact:sg:gen:m1.m2.m3.n:imperf:neg		
-niehakujące	hakować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
-niehakujące	hakować	pact:sg:nom.acc.voc:n:imperf:neg		
-niehakującej	hakować	pact:sg:gen.dat.loc:f:imperf:neg		
-niehakującemu	hakować	pact:sg:dat:m1.m2.m3.n:imperf:neg		
-niehakujących	hakować	pact:pl:acc:m1:imperf:neg		
-niehakujących	hakować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
-niehakujący	hakować	pact:pl:nom.voc:m1:imperf:neg		
-niehakujący	hakować	pact:sg:acc:m3:imperf:neg		
-niehakujący	hakować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
-niehakującym	hakować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
-niehakującym	hakować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
-niehakującymi	hakować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+niehakowana	hakować:v1	ppas:sg:nom.voc:f:imperf:neg		
+niehakowaną	hakować:v1	ppas:sg:acc.inst:f:imperf:neg		
+niehakowanego	hakować:v1	ppas:sg:acc:m1.m2:imperf:neg		
+niehakowanego	hakować:v1	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+niehakowane	hakować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+niehakowane	hakować:v1	ppas:sg:nom.acc.voc:n:imperf:neg		
+niehakowanej	hakować:v1	ppas:sg:gen.dat.loc:f:imperf:neg		
+niehakowanemu	hakować:v1	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+niehakowaniach	hakować:v1	ger:pl:loc:n:imperf:neg		
+niehakowania	hakować:v1	ger:pl:nom.acc:n:imperf:neg		
+niehakowania	hakować:v1	ger:sg:gen:n:imperf:neg		
+niehakowaniami	hakować:v1	ger:pl:inst:n:imperf:neg		
+niehakowanie	hakować:v1	ger:sg:nom.acc:n:imperf:neg		
+niehakowaniem	hakować:v1	ger:sg:inst:n:imperf:neg		
+niehakowani	hakować:v1	ppas:pl:nom.voc:m1:imperf:neg		
+niehakowaniom	hakować:v1	ger:pl:dat:n:imperf:neg		
+niehakowaniu	hakować:v1	ger:sg:dat.loc:n:imperf:neg		
+niehakowanych	hakować:v1	ppas:pl:acc:m1:imperf:neg		
+niehakowanych	hakować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+niehakowany	hakować:v1	ppas:sg:acc:m3:imperf:neg		
+niehakowany	hakować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+niehakowanym	hakować:v1	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+niehakowanym	hakować:v1	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+niehakowanymi	hakować:v1	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+niehakowań	hakować:v1	ger:pl:gen:n:imperf:neg		
+niehakująca	hakować:v1	pact:sg:nom.voc:f:imperf:neg		
+niehakującą	hakować:v1	pact:sg:acc.inst:f:imperf:neg		
+niehakującego	hakować:v1	pact:sg:acc:m1.m2:imperf:neg		
+niehakującego	hakować:v1	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+niehakujące	hakować:v1	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+niehakujące	hakować:v1	pact:sg:nom.acc.voc:n:imperf:neg		
+niehakującej	hakować:v1	pact:sg:gen.dat.loc:f:imperf:neg		
+niehakującemu	hakować:v1	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+niehakujących	hakować:v1	pact:pl:acc:m1:imperf:neg		
+niehakujących	hakować:v1	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+niehakujący	hakować:v1	pact:pl:nom.voc:m1:imperf:neg		
+niehakujący	hakować:v1	pact:sg:acc:m3:imperf:neg		
+niehakujący	hakować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+niehakującym	hakować:v1	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+niehakującym	hakować:v1	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+niehakującymi	hakować:v1	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+niehakowana	hakować:v2	ppas:sg:nom.voc:f:imperf:neg		środ.
+niehakowaną	hakować:v2	ppas:sg:acc.inst:f:imperf:neg		środ.
+niehakowanego	hakować:v2	ppas:sg:acc:m1.m2:imperf:neg		środ.
+niehakowanego	hakować:v2	ppas:sg:gen:m1.m2.m3.n:imperf:neg		środ.
+niehakowane	hakować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		środ.
+niehakowane	hakować:v2	ppas:sg:nom.acc.voc:n:imperf:neg		środ.
+niehakowanej	hakować:v2	ppas:sg:gen.dat.loc:f:imperf:neg		środ.
+niehakowanemu	hakować:v2	ppas:sg:dat:m1.m2.m3.n:imperf:neg		środ.
+niehakowaniach	hakować:v2	ger:pl:loc:n:imperf:neg		środ.
+niehakowania	hakować:v2	ger:pl:nom.acc:n:imperf:neg		środ.
+niehakowania	hakować:v2	ger:sg:gen:n:imperf:neg		środ.
+niehakowaniami	hakować:v2	ger:pl:inst:n:imperf:neg		środ.
+niehakowanie	hakować:v2	ger:sg:nom.acc:n:imperf:neg		środ.
+niehakowaniem	hakować:v2	ger:sg:inst:n:imperf:neg		środ.
+niehakowani	hakować:v2	ppas:pl:nom.voc:m1:imperf:neg		środ.
+niehakowaniom	hakować:v2	ger:pl:dat:n:imperf:neg		środ.
+niehakowaniu	hakować:v2	ger:sg:dat.loc:n:imperf:neg		środ.
+niehakowanych	hakować:v2	ppas:pl:acc:m1:imperf:neg		środ.
+niehakowanych	hakować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		środ.
+niehakowany	hakować:v2	ppas:sg:acc:m3:imperf:neg		środ.
+niehakowany	hakować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		środ.
+niehakowanym	hakować:v2	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		środ.
+niehakowanym	hakować:v2	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		środ.
+niehakowanymi	hakować:v2	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		środ.
+niehakowań	hakować:v2	ger:pl:gen:n:imperf:neg		środ.
+niehakująca	hakować:v2	pact:sg:nom.voc:f:imperf:neg		środ.
+niehakującą	hakować:v2	pact:sg:acc.inst:f:imperf:neg		środ.
+niehakującego	hakować:v2	pact:sg:acc:m1.m2:imperf:neg		środ.
+niehakującego	hakować:v2	pact:sg:gen:m1.m2.m3.n:imperf:neg		środ.
+niehakujące	hakować:v2	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		środ.
+niehakujące	hakować:v2	pact:sg:nom.acc.voc:n:imperf:neg		środ.
+niehakującej	hakować:v2	pact:sg:gen.dat.loc:f:imperf:neg		środ.
+niehakującemu	hakować:v2	pact:sg:dat:m1.m2.m3.n:imperf:neg		środ.
+niehakujących	hakować:v2	pact:pl:acc:m1:imperf:neg		środ.
+niehakujących	hakować:v2	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		środ.
+niehakujący	hakować:v2	pact:pl:nom.voc:m1:imperf:neg		środ.
+niehakujący	hakować:v2	pact:sg:acc:m3:imperf:neg		środ.
+niehakujący	hakować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:neg		środ.
+niehakującym	hakować:v2	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		środ.
+niehakującym	hakować:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		środ.
+niehakującymi	hakować:v2	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		środ.
 niehalająca	halać	pact:sg:nom.voc:f:imperf:neg		
 niehalającą	halać	pact:sg:acc.inst:f:imperf:neg		
 niehalającego	halać	pact:sg:acc:m1.m2:imperf:neg		
@@ -4171,18 +4253,30 @@ niehackerskim	niehackerski	adj:sg:inst:m1.m2.m3.n:pos
 niehackerskim	niehackerski	adj:sg:loc:m1.m2.m3.n:pos		
 niehackerski	niehackerski	adj:sg:acc:m3:pos		
 niehackerski	niehackerski	adj:sg:nom.voc:m1.m2.m3:pos		
-niehackersko	niehackersko	adv:pos		
-niehackerskościach	niehackerskość	subst:pl:loc:f	nazwa pospolita	
-niehackerskościami	niehackerskość	subst:pl:inst:f	nazwa pospolita	
-niehackerskością	niehackerskość	subst:sg:inst:f	nazwa pospolita	
-niehackerskości	niehackerskość	subst:pl:gen:f	nazwa pospolita	
-niehackerskości	niehackerskość	subst:pl:nom.acc.voc:f	nazwa pospolita	
-niehackerskości	niehackerskość	subst:sg:dat.loc:f	nazwa pospolita	
-niehackerskości	niehackerskość	subst:sg:gen:f	nazwa pospolita	
-niehackerskości	niehackerskość	subst:sg:voc:f	nazwa pospolita	
-niehackerskościom	niehackerskość	subst:pl:dat:f	nazwa pospolita	
-niehackerskość	niehackerskość	subst:sg:acc:f	nazwa pospolita	
-niehackerskość	niehackerskość	subst:sg:nom:f	nazwa pospolita	
+niehackersko	niehackersko:d1	adv:pos		
+niehackersko	niehackersko:d2	adv:pos		
+niehackerskościach	niehackerskość:s1	subst:pl:loc:f	nazwa pospolita	
+niehackerskościami	niehackerskość:s1	subst:pl:inst:f	nazwa pospolita	
+niehackerskością	niehackerskość:s1	subst:sg:inst:f	nazwa pospolita	
+niehackerskości	niehackerskość:s1	subst:pl:gen:f	nazwa pospolita	
+niehackerskości	niehackerskość:s1	subst:pl:nom.acc.voc:f	nazwa pospolita	
+niehackerskości	niehackerskość:s1	subst:sg:dat.loc:f	nazwa pospolita	
+niehackerskości	niehackerskość:s1	subst:sg:gen:f	nazwa pospolita	
+niehackerskości	niehackerskość:s1	subst:sg:voc:f	nazwa pospolita	
+niehackerskościom	niehackerskość:s1	subst:pl:dat:f	nazwa pospolita	
+niehackerskość	niehackerskość:s1	subst:sg:acc:f	nazwa pospolita	
+niehackerskość	niehackerskość:s1	subst:sg:nom:f	nazwa pospolita	
+niehackerskościach	niehackerskość:s2	subst:pl:loc:f		
+niehackerskościami	niehackerskość:s2	subst:pl:inst:f		
+niehackerskością	niehackerskość:s2	subst:sg:inst:f		
+niehackerskości	niehackerskość:s2	subst:pl:gen:f		
+niehackerskości	niehackerskość:s2	subst:pl:nom.acc.voc:f		
+niehackerskości	niehackerskość:s2	subst:sg:dat.loc:f		
+niehackerskości	niehackerskość:s2	subst:sg:gen:f		
+niehackerskości	niehackerskość:s2	subst:sg:voc:f		
+niehackerskościom	niehackerskość:s2	subst:pl:dat:f		
+niehackerskość	niehackerskość:s2	subst:sg:acc:f		
+niehackerskość	niehackerskość:s2	subst:sg:nom:f		
 niehaczowscy	niehaczowski	adj:pl:nom.voc:m1:pos		
 niehaczowska	niehaczowski	adj:sg:nom.voc:f:pos		
 niehaczowską	niehaczowski	adj:sg:acc:f:pos		
