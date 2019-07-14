@@ -13482,6 +13482,46 @@ haźlaskości	haźlaskość	subst:sg:voc:f	nazwa pospolita
 haźlaskościom	haźlaskość	subst:pl:dat:f	nazwa pospolita	
 haźlaskość	haźlaskość	subst:sg:acc:f	nazwa pospolita	
 haźlaskość	haźlaskość	subst:sg:nom:f	nazwa pospolita	
+hażlascy	hażlaski	adj:pl:nom.voc:m1:pos		
+hażlaska	hażlaski	adj:sg:nom.voc:f:pos		
+hażlaską	hażlaski	adj:sg:acc:f:pos		
+hażlaską	hażlaski	adj:sg:inst:f:pos		
+hażlaskich	hażlaski	adj:pl:acc:m1:pos		
+hażlaskich	hażlaski	adj:pl:gen:m1.m2.m3.f.n:pos		
+hażlaskich	hażlaski	adj:pl:loc:m1.m2.m3.f.n:pos		
+hażlaskiego	hażlaski	adj:sg:acc:m1.m2:pos		
+hażlaskiego	hażlaski	adj:sg:gen:m1.m2.m3.n:pos		
+hażlaskie	hażlaski	adj:pl:acc:m2.m3.f.n:pos		
+hażlaskie	hażlaski	adj:pl:nom.voc:m2.m3.f.n:pos		
+hażlaskie	hażlaski	adj:sg:acc:n:pos		
+hażlaskie	hażlaski	adj:sg:nom.voc:n:pos		
+hażlaskiej	hażlaski	adj:sg:dat:f:pos		
+hażlaskiej	hażlaski	adj:sg:gen:f:pos		
+hażlaskiej	hażlaski	adj:sg:loc:f:pos		
+hażlaskiemu	hażlaski	adj:sg:dat:m1.m2.m3.n:pos		
+hażlaski	hażlaski	adj:sg:acc:m3:pos		
+hażlaski	hażlaski	adj:sg:nom.voc:m1.m2.m3:pos		
+hażlaskim	hażlaski	adj:pl:dat:m1.m2.m3.f.n:pos		
+hażlaskim	hażlaski	adj:sg:inst:m1.m2.m3.n:pos		
+hażlaskim	hażlaski	adj:sg:loc:m1.m2.m3.n:pos		
+hażlaskimi	hażlaski	adj:pl:inst:m1.m2.m3.f.n:pos		
+hażlasko	hażlaski	adja		
+hażlasku	hażlaski	adjp		
+hażlasko	hażlasko	adv:pos		
+hażlaskościach	hażlaskość	subst:pl:loc:f	nazwa pospolita	
+hażlaskościami	hażlaskość	subst:pl:inst:f	nazwa pospolita	
+hażlaskością	hażlaskość	subst:sg:inst:f	nazwa pospolita	
+hażlaskości	hażlaskość	subst:pl:acc:f	nazwa pospolita	
+hażlaskości	hażlaskość	subst:pl:gen:f	nazwa pospolita	
+hażlaskości	hażlaskość	subst:pl:nom:f	nazwa pospolita	
+hażlaskości	hażlaskość	subst:pl:voc:f	nazwa pospolita	
+hażlaskości	hażlaskość	subst:sg:dat:f	nazwa pospolita	
+hażlaskości	hażlaskość	subst:sg:gen:f	nazwa pospolita	
+hażlaskości	hażlaskość	subst:sg:loc:f	nazwa pospolita	
+hażlaskości	hażlaskość	subst:sg:voc:f	nazwa pospolita	
+hażlaskościom	hażlaskość	subst:pl:dat:f	nazwa pospolita	
+hażlaskość	hażlaskość	subst:sg:acc:f	nazwa pospolita	
+hażlaskość	hażlaskość	subst:sg:nom:f	nazwa pospolita	
 he	he	interj		
 headhunterach	headhunter	subst:pl:loc:m1	nazwa pospolita	
 headhuntera	headhunter	subst:sg:acc:m1	nazwa pospolita	

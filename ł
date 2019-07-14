@@ -4305,6 +4305,7 @@
 łakomieniom	łakomieć	ger:pl:dat:n:imperf:aff		
 łakomieniu	łakomieć	ger:sg:dat.loc:n:imperf:aff		
 łakomień	łakomieć	ger:pl:gen:n:imperf:aff		
+łakomiej	łakomo	adv:com		
 łakomo	łakomo	adv:pos		przest.
 łakomościach	łakomość	subst:pl:loc:f	nazwa pospolita	
 łakomościami	łakomość	subst:pl:inst:f	nazwa pospolita	
@@ -19435,6 +19436,46 @@
 łubkowym	łubkowy	adj:pl:dat:m1.m2.m3.f.n:pos		
 łubkowym	łubkowy	adj:sg:inst:m1.m2.m3.n:pos		
 łubkowym	łubkowy	adj:sg:loc:m1.m2.m3.n:pos		
+łubniańscy	łubniański	adj:pl:nom.voc:m1:pos		
+łubniańska	łubniański	adj:sg:nom.voc:f:pos		
+łubniańską	łubniański	adj:sg:acc:f:pos		
+łubniańską	łubniański	adj:sg:inst:f:pos		
+łubniańskich	łubniański	adj:pl:acc:m1:pos		
+łubniańskich	łubniański	adj:pl:gen:m1.m2.m3.f.n:pos		
+łubniańskich	łubniański	adj:pl:loc:m1.m2.m3.f.n:pos		
+łubniańskiego	łubniański	adj:sg:acc:m1.m2:pos		
+łubniańskiego	łubniański	adj:sg:gen:m1.m2.m3.n:pos		
+łubniańskiej	łubniański	adj:sg:dat:f:pos		
+łubniańskiej	łubniański	adj:sg:gen:f:pos		
+łubniańskiej	łubniański	adj:sg:loc:f:pos		
+łubniańskie	łubniański	adj:pl:acc:m2.m3.f.n:pos		
+łubniańskie	łubniański	adj:pl:nom.voc:m2.m3.f.n:pos		
+łubniańskie	łubniański	adj:sg:acc:n:pos		
+łubniańskie	łubniański	adj:sg:nom.voc:n:pos		
+łubniańskiemu	łubniański	adj:sg:dat:m1.m2.m3.n:pos		
+łubniański	łubniański	adj:sg:acc:m3:pos		
+łubniański	łubniański	adj:sg:nom.voc:m1.m2.m3:pos		
+łubniańskimi	łubniański	adj:pl:inst:m1.m2.m3.f.n:pos		
+łubniańskim	łubniański	adj:pl:dat:m1.m2.m3.f.n:pos		
+łubniańskim	łubniański	adj:sg:inst:m1.m2.m3.n:pos		
+łubniańskim	łubniański	adj:sg:loc:m1.m2.m3.n:pos		
+łubniańsko	łubniański	adja		
+łubniańsku	łubniański	adjp		
+łubniańsko	łubniańsko	adv:pos		
+łubniańskościach	łubniańskość	subst:pl:loc:f		
+łubniańskościami	łubniańskość	subst:pl:inst:f		
+łubniańskością	łubniańskość	subst:sg:inst:f		
+łubniańskości	łubniańskość	subst:pl:acc:f		
+łubniańskości	łubniańskość	subst:pl:gen:f		
+łubniańskości	łubniańskość	subst:pl:nom:f		
+łubniańskości	łubniańskość	subst:pl:voc:f		
+łubniańskości	łubniańskość	subst:sg:dat:f		
+łubniańskości	łubniańskość	subst:sg:gen:f		
+łubniańskości	łubniańskość	subst:sg:loc:f		
+łubniańskości	łubniańskość	subst:sg:voc:f		
+łubniańskościom	łubniańskość	subst:pl:dat:f		
+łubniańskość	łubniańskość	subst:sg:acc:f		
+łubniańskość	łubniańskość	subst:sg:nom:f		
 łubniccy	łubnicki	adj:pl:nom.voc:m1:pos		
 łubnicka	łubnicki	adj:sg:nom.voc:f:pos		
 łubnicką	łubnicki	adj:sg:acc:f:pos		

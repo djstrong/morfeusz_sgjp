@@ -10297,6 +10297,20 @@ Wróciwojów	Wróciwoj	subst:pl:gen:m1	imię
 Wróciwoju	Wróciwoj	subst:sg:loc:m1	imię	
 Wróciwoju	Wróciwoj	subst:sg:voc:m1	imię	
 Wróciwoj	Wróciwoj	subst:sg:nom:m1	imię	
+Wrzelowcach	Wrzelowiec	subst:pl:loc:m3	nazwa geograficzna	
+Wrzelowcami	Wrzelowiec	subst:pl:inst:m3	nazwa geograficzna	
+Wrzelowca	Wrzelowiec	subst:sg:gen:m3	nazwa geograficzna	
+Wrzelowcem	Wrzelowiec	subst:sg:inst:m3	nazwa geograficzna	
+Wrzelowce	Wrzelowiec	subst:pl:acc:m3	nazwa geograficzna	
+Wrzelowce	Wrzelowiec	subst:pl:nom:m3	nazwa geograficzna	
+Wrzelowce	Wrzelowiec	subst:pl:voc:m3	nazwa geograficzna	
+Wrzelowcom	Wrzelowiec	subst:pl:dat:m3	nazwa geograficzna	
+Wrzelowcowi	Wrzelowiec	subst:sg:dat:m3	nazwa geograficzna	
+Wrzelowców	Wrzelowiec	subst:pl:gen:m3	nazwa geograficzna	
+Wrzelowcu	Wrzelowiec	subst:sg:loc:m3	nazwa geograficzna	
+Wrzelowcu	Wrzelowiec	subst:sg:voc:m3	nazwa geograficzna	
+Wrzelowiec	Wrzelowiec	subst:sg:acc:m3	nazwa geograficzna	
+Wrzelowiec	Wrzelowiec	subst:sg:nom:m3	nazwa geograficzna	
 Wrzesień	Wrzesień	subst:sg:nom:m1	nazwisko	
 Wrześniach	Wrzesień	subst:pl:loc:m1	nazwisko	
 Wrześniami	Wrzesień	subst:pl:inst:m1	nazwisko	

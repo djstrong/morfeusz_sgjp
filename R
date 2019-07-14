@@ -2534,6 +2534,20 @@ Rejów	Rej	subst:pl:gen:m1	nazwisko
 Rej	Rej	subst:sg:nom:m1	nazwisko	
 Reju	Rej	subst:sg:loc:m1	nazwisko	
 Reju	Rej	subst:sg:voc:m1	nazwisko	
+Rejkiawikach	Rejkiawik	subst:pl:loc:m3	nazwa geograficzna	
+Rejkiawikami	Rejkiawik	subst:pl:inst:m3	nazwa geograficzna	
+Rejkiawikiem	Rejkiawik	subst:sg:inst:m3	nazwa geograficzna	
+Rejkiawiki	Rejkiawik	subst:pl:acc:m3	nazwa geograficzna	
+Rejkiawiki	Rejkiawik	subst:pl:nom:m3	nazwa geograficzna	
+Rejkiawiki	Rejkiawik	subst:pl:voc:m3	nazwa geograficzna	
+Rejkiawikom	Rejkiawik	subst:pl:dat:m3	nazwa geograficzna	
+Rejkiawikowi	Rejkiawik	subst:sg:dat:m3	nazwa geograficzna	
+Rejkiawików	Rejkiawik	subst:pl:gen:m3	nazwa geograficzna	
+Rejkiawik	Rejkiawik	subst:sg:acc:m3	nazwa geograficzna	
+Rejkiawik	Rejkiawik	subst:sg:nom:m3	nazwa geograficzna	
+Rejkiawiku	Rejkiawik	subst:sg:gen:m3	nazwa geograficzna	
+Rejkiawiku	Rejkiawik	subst:sg:loc:m3	nazwa geograficzna	
+Rejkiawiku	Rejkiawik	subst:sg:voc:m3	nazwa geograficzna	
 Rejtanach	Rejtan	subst:pl:loc:m1	nazwisko	
 Rejtanami	Rejtan	subst:pl:inst:m1	nazwisko	
 Rejtana	Rejtan	subst:sg:acc:m1	nazwisko	

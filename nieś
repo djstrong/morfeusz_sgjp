@@ -548,7 +548,6 @@ nieścierkowym	nieścierkowy	adj:sg:inst:m1.m2.m3.n:pos
 nieścierkowym	nieścierkowy	adj:sg:loc:m1.m2.m3.n:pos		
 nieścierkowy	nieścierkowy	adj:sg:acc:m3:pos		
 nieścierkowy	nieścierkowy	adj:sg:nom.voc:m1.m2.m3:pos		
-nieściernie	nieściernie	adv:pos		
 nieścierniskowościach	nieścierniskowość	subst:pl:loc:f	nazwa pospolita	
 nieścierniskowościami	nieścierniskowość	subst:pl:inst:f	nazwa pospolita	
 nieścierniskowością	nieścierniskowość	subst:sg:inst:f	nazwa pospolita	
@@ -7811,6 +7810,7 @@ nieświatełkowym	nieświatełkowy	adj:sg:inst:m1.m2.m3.n:pos
 nieświatełkowym	nieświatełkowy	adj:sg:loc:m1.m2.m3.n:pos		
 nieświatełkowy	nieświatełkowy	adj:sg:acc:m3:pos		
 nieświatełkowy	nieświatełkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+nieświatle	nieświatle	adv:pos		
 nieświatło	nieświatło	adv:pos		
 nieświatłobarwnościach	nieświatłobarwność	subst:pl:loc:f	nazwa pospolita	
 nieświatłobarwnościami	nieświatłobarwność	subst:pl:inst:f	nazwa pospolita	
@@ -11040,6 +11040,21 @@ nieświętoszkowatym	nieświętoszkowaty	adj:sg:inst:m1.m2.m3.n:pos
 nieświętoszkowatym	nieświętoszkowaty	adj:sg:loc:m1.m2.m3.n:pos		
 nieświętoszkowaty	nieświętoszkowaty	adj:sg:acc:m3:pos		
 nieświętoszkowaty	nieświętoszkowaty	adj:sg:nom.voc:m1.m2.m3:pos		
+nieświętoszkowo	nieświętoszkowo	adv:pos		
+nieświętoszkowościach	nieświętoszkowość	subst:pl:loc:f		
+nieświętoszkowościami	nieświętoszkowość	subst:pl:inst:f		
+nieświętoszkowością	nieświętoszkowość	subst:sg:inst:f		
+nieświętoszkowości	nieświętoszkowość	subst:pl:acc:f		
+nieświętoszkowości	nieświętoszkowość	subst:pl:gen:f		
+nieświętoszkowości	nieświętoszkowość	subst:pl:nom:f		
+nieświętoszkowości	nieświętoszkowość	subst:pl:voc:f		
+nieświętoszkowości	nieświętoszkowość	subst:sg:dat:f		
+nieświętoszkowości	nieświętoszkowość	subst:sg:gen:f		
+nieświętoszkowości	nieświętoszkowość	subst:sg:loc:f		
+nieświętoszkowości	nieświętoszkowość	subst:sg:voc:f		
+nieświętoszkowościom	nieświętoszkowość	subst:pl:dat:f		
+nieświętoszkowość	nieświętoszkowość	subst:sg:acc:f		
+nieświętoszkowość	nieświętoszkowość	subst:sg:nom:f		
 nieświętoszkowscy	nieświętoszkowski	adj:pl:nom.voc:m1:pos		
 nieświętoszkowska	nieświętoszkowski	adj:sg:nom.voc:f:pos		
 nieświętoszkowską	nieświętoszkowski	adj:sg:acc:f:pos		

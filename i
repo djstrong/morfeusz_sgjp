@@ -30888,7 +30888,7 @@ intensji	intensja	subst:sg:loc:f	nazwa pospolita
 intensjo	intensja	subst:sg:voc:f	nazwa pospolita	
 intensjom	intensja	subst:pl:dat:f	nazwa pospolita	
 intensyj	intensja	subst:pl:gen:f	nazwa pospolita	arch.|char.
-intensjonalno	intensjonalno	adv:pos		
+intensjonalnie	intensjonalnie	adv:pos		
 intensjonalnościach	intensjonalność	subst:pl:loc:f	nazwa pospolita	
 intensjonalnościami	intensjonalność	subst:pl:inst:f	nazwa pospolita	
 intensjonalnością	intensjonalność	subst:sg:inst:f	nazwa pospolita	

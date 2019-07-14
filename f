@@ -55335,7 +55335,7 @@ fowiście	fowista	subst:sg:dat:m1	nazwa pospolita
 fowiście	fowista	subst:sg:loc:m1	nazwa pospolita	
 fowiści	fowista	subst:pl:nom:m1	nazwa pospolita	
 fowiści	fowista	subst:pl:voc:m1	nazwa pospolita	
-fowistyczno	fowistyczno	adv:pos		
+fowistycznie	fowistycznie	adv:pos		
 fowistycznościach	fowistyczność	subst:pl:loc:f	nazwa pospolita	
 fowistycznościami	fowistyczność	subst:pl:inst:f	nazwa pospolita	
 fowistycznością	fowistyczność	subst:sg:inst:f	nazwa pospolita	

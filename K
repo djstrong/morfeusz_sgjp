@@ -12446,6 +12446,20 @@ Krafftówny	Krafftówna	subst:pl:acc:f	nazwisko
 Krafftówny	Krafftówna	subst:pl:nom:f	nazwisko	
 Krafftówny	Krafftówna	subst:pl:voc:f	nazwisko	
 Krafftówny	Krafftówna	subst:sg:gen:f	nazwisko	
+Krainach	Kraina	subst:pl:loc:f	nazwa geograficzna	
+Kraina	Kraina	subst:sg:nom:f	nazwa geograficzna	
+Krainami	Kraina	subst:pl:inst:f	nazwa geograficzna	
+Krainą	Kraina	subst:sg:inst:f	nazwa geograficzna	
+Krainę	Kraina	subst:sg:acc:f	nazwa geograficzna	
+Krainie	Kraina	subst:sg:dat:f	nazwa geograficzna	
+Krainie	Kraina	subst:sg:loc:f	nazwa geograficzna	
+Krain	Kraina	subst:pl:gen:f	nazwa geograficzna	
+Kraino	Kraina	subst:sg:voc:f	nazwa geograficzna	
+Krainom	Kraina	subst:pl:dat:f	nazwa geograficzna	
+Krainy	Kraina	subst:pl:acc:f	nazwa geograficzna	
+Krainy	Kraina	subst:pl:nom:f	nazwa geograficzna	
+Krainy	Kraina	subst:pl:voc:f	nazwa geograficzna	
+Krainy	Kraina	subst:sg:gen:f	nazwa geograficzna	
 Krajence	Krajenka	subst:sg:dat:f	nazwa geograficzna	
 Krajence	Krajenka	subst:sg:loc:f	nazwa geograficzna	
 Krajenek	Krajenka	subst:pl:gen:f	nazwa geograficzna	
@@ -12505,6 +12519,20 @@ Krajiny	Krajina	subst:pl:acc:f	nazwa geograficzna
 Krajiny	Krajina	subst:pl:nom:f	nazwa geograficzna	
 Krajiny	Krajina	subst:pl:voc:f	nazwa geograficzna	
 Krajiny	Krajina	subst:sg:gen:f	nazwa geograficzna	
+Krajnach	Krajna	subst:pl:loc:f	nazwa geograficzna	
+Krajna	Krajna	subst:sg:nom:f	nazwa geograficzna	
+Krajnami	Krajna	subst:pl:inst:f	nazwa geograficzna	
+Krajną	Krajna	subst:sg:inst:f	nazwa geograficzna	
+Krajnę	Krajna	subst:sg:acc:f	nazwa geograficzna	
+Krajnie	Krajna	subst:sg:dat:f	nazwa geograficzna	
+Krajnie	Krajna	subst:sg:loc:f	nazwa geograficzna	
+Krajn	Krajna	subst:pl:gen:f	nazwa geograficzna	
+Krajno	Krajna	subst:sg:voc:f	nazwa geograficzna	
+Krajnom	Krajna	subst:pl:dat:f	nazwa geograficzna	
+Krajny	Krajna	subst:pl:acc:f	nazwa geograficzna	
+Krajny	Krajna	subst:pl:nom:f	nazwa geograficzna	
+Krajny	Krajna	subst:pl:voc:f	nazwa geograficzna	
+Krajny	Krajna	subst:sg:gen:f	nazwa geograficzna	
 Krakach	Krak	subst:pl:loc:m1	imię	
 Kraka	Krak	subst:sg:acc:m1	imię	
 Kraka	Krak	subst:sg:gen:m1	imię	

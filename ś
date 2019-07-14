@@ -3305,7 +3305,6 @@
 ściernicy	ściernica	subst:sg:dat:f	nazwa pospolita	
 ściernicy	ściernica	subst:sg:gen:f	nazwa pospolita	
 ściernicy	ściernica	subst:sg:loc:f	nazwa pospolita	
-ściernie	ściernie	adv:pos		daw.
 ścierniówce	ścierniówka	subst:sg:dat:f	nazwa pospolita	
 ścierniówce	ścierniówka	subst:sg:loc:f	nazwa pospolita	
 ścierniówek	ścierniówka	subst:pl:gen:f	nazwa pospolita	
@@ -21998,6 +21997,7 @@
 światełkowym	światełkowy	adj:sg:loc:m1.m2.m3.n:pos		
 światełkowy	światełkowy	adj:sg:acc:m3:pos		
 światełkowy	światełkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+światle	światle	adv:pos		rzad.
 świateł	światła	subst:pl:gen:n:pt	nazwa pospolita	
 światłach	światła	subst:pl:loc:n:pt	nazwa pospolita	
 światłami	światła	subst:pl:inst:n:pt	nazwa pospolita	
@@ -29154,31 +29154,46 @@
 świętoszkowatym	świętoszkowaty	adj:sg:loc:m1.m2.m3.n:pos		
 świętoszkowaty	świętoszkowaty	adj:sg:acc:m3:pos		
 świętoszkowaty	świętoszkowaty	adj:sg:nom.voc:m1.m2.m3:pos		
-świętoszkowscy	świętoszkowski	adj:pl:nom.voc:m1:pos		
-świętoszkowska	świętoszkowski	adj:sg:nom.voc:f:pos		
-świętoszkowską	świętoszkowski	adj:sg:acc:f:pos		
-świętoszkowską	świętoszkowski	adj:sg:inst:f:pos		
-świętoszkowskich	świętoszkowski	adj:pl:acc:m1:pos		
-świętoszkowskich	świętoszkowski	adj:pl:gen:m1.m2.m3.f.n:pos		
-świętoszkowskich	świętoszkowski	adj:pl:loc:m1.m2.m3.f.n:pos		
-świętoszkowskiego	świętoszkowski	adj:sg:acc:m1.m2:pos		
-świętoszkowskiego	świętoszkowski	adj:sg:gen:m1.m2.m3.n:pos		
-świętoszkowskiej	świętoszkowski	adj:sg:dat:f:pos		
-świętoszkowskiej	świętoszkowski	adj:sg:gen:f:pos		
-świętoszkowskiej	świętoszkowski	adj:sg:loc:f:pos		
-świętoszkowskiemu	świętoszkowski	adj:sg:dat:m1.m2.m3.n:pos		
-świętoszkowskie	świętoszkowski	adj:pl:acc:m2.m3.f.n:pos		
-świętoszkowskie	świętoszkowski	adj:pl:nom.voc:m2.m3.f.n:pos		
-świętoszkowskie	świętoszkowski	adj:sg:acc:n:pos		
-świętoszkowskie	świętoszkowski	adj:sg:nom.voc:n:pos		
-świętoszkowskimi	świętoszkowski	adj:pl:inst:m1.m2.m3.f.n:pos		
-świętoszkowskim	świętoszkowski	adj:pl:dat:m1.m2.m3.f.n:pos		
-świętoszkowskim	świętoszkowski	adj:sg:inst:m1.m2.m3.n:pos		
-świętoszkowskim	świętoszkowski	adj:sg:loc:m1.m2.m3.n:pos		
-świętoszkowski	świętoszkowski	adj:sg:acc:m3:pos		
-świętoszkowski	świętoszkowski	adj:sg:nom.voc:m1.m2.m3:pos		
-świętoszkowsko	świętoszkowski	adja		
-świętoszkowsku	świętoszkowski	adjp		
+świętoszkowo	świętoszkowo	adv:pos		
+świętoszkowościach	świętoszkowość	subst:pl:loc:f		
+świętoszkowościami	świętoszkowość	subst:pl:inst:f		
+świętoszkowością	świętoszkowość	subst:sg:inst:f		
+świętoszkowościom	świętoszkowość	subst:pl:dat:f		
+świętoszkowości	świętoszkowość	subst:pl:acc:f		
+świętoszkowości	świętoszkowość	subst:pl:gen:f		
+świętoszkowości	świętoszkowość	subst:pl:nom:f		
+świętoszkowości	świętoszkowość	subst:pl:voc:f		
+świętoszkowości	świętoszkowość	subst:sg:dat:f		
+świętoszkowości	świętoszkowość	subst:sg:gen:f		
+świętoszkowości	świętoszkowość	subst:sg:loc:f		
+świętoszkowości	świętoszkowość	subst:sg:voc:f		
+świętoszkowość	świętoszkowość	subst:sg:acc:f		
+świętoszkowość	świętoszkowość	subst:sg:nom:f		
+świętoszkowscy	świętoszkowski	adj:pl:nom.voc:m1:pos		rzad.
+świętoszkowska	świętoszkowski	adj:sg:nom.voc:f:pos		rzad.
+świętoszkowską	świętoszkowski	adj:sg:acc:f:pos		rzad.
+świętoszkowską	świętoszkowski	adj:sg:inst:f:pos		rzad.
+świętoszkowskich	świętoszkowski	adj:pl:acc:m1:pos		rzad.
+świętoszkowskich	świętoszkowski	adj:pl:gen:m1.m2.m3.f.n:pos		rzad.
+świętoszkowskich	świętoszkowski	adj:pl:loc:m1.m2.m3.f.n:pos		rzad.
+świętoszkowskiego	świętoszkowski	adj:sg:acc:m1.m2:pos		rzad.
+świętoszkowskiego	świętoszkowski	adj:sg:gen:m1.m2.m3.n:pos		rzad.
+świętoszkowskiej	świętoszkowski	adj:sg:dat:f:pos		rzad.
+świętoszkowskiej	świętoszkowski	adj:sg:gen:f:pos		rzad.
+świętoszkowskiej	świętoszkowski	adj:sg:loc:f:pos		rzad.
+świętoszkowskiemu	świętoszkowski	adj:sg:dat:m1.m2.m3.n:pos		rzad.
+świętoszkowskie	świętoszkowski	adj:pl:acc:m2.m3.f.n:pos		rzad.
+świętoszkowskie	świętoszkowski	adj:pl:nom.voc:m2.m3.f.n:pos		rzad.
+świętoszkowskie	świętoszkowski	adj:sg:acc:n:pos		rzad.
+świętoszkowskie	świętoszkowski	adj:sg:nom.voc:n:pos		rzad.
+świętoszkowskimi	świętoszkowski	adj:pl:inst:m1.m2.m3.f.n:pos		rzad.
+świętoszkowskim	świętoszkowski	adj:pl:dat:m1.m2.m3.f.n:pos		rzad.
+świętoszkowskim	świętoszkowski	adj:sg:inst:m1.m2.m3.n:pos		rzad.
+świętoszkowskim	świętoszkowski	adj:sg:loc:m1.m2.m3.n:pos		rzad.
+świętoszkowski	świętoszkowski	adj:sg:acc:m3:pos		rzad.
+świętoszkowski	świętoszkowski	adj:sg:nom.voc:m1.m2.m3:pos		rzad.
+świętoszkowsko	świętoszkowski	adja		rzad.
+świętoszkowsku	świętoszkowski	adjp		rzad.
 świętoszkowsko	świętoszkowsko	adv:pos		
 świętoszkowskościach	świętoszkowskość	subst:pl:loc:f	nazwa pospolita	
 świętoszkowskościami	świętoszkowskość	subst:pl:inst:f	nazwa pospolita	
@@ -29194,6 +29209,30 @@
 świętoszkowskości	świętoszkowskość	subst:sg:voc:f	nazwa pospolita	
 świętoszkowskość	świętoszkowskość	subst:sg:acc:f	nazwa pospolita	
 świętoszkowskość	świętoszkowskość	subst:sg:nom:f	nazwa pospolita	
+świętoszkowa	świętoszkowy	adj:sg:nom.voc:f:pos		
+świętoszkową	świętoszkowy	adj:sg:acc:f:pos		
+świętoszkową	świętoszkowy	adj:sg:inst:f:pos		
+świętoszkowego	świętoszkowy	adj:sg:acc:m1.m2:pos		
+świętoszkowego	świętoszkowy	adj:sg:gen:m1.m2.m3.n:pos		
+świętoszkowej	świętoszkowy	adj:sg:dat:f:pos		
+świętoszkowej	świętoszkowy	adj:sg:gen:f:pos		
+świętoszkowej	świętoszkowy	adj:sg:loc:f:pos		
+świętoszkowemu	świętoszkowy	adj:sg:dat:m1.m2.m3.n:pos		
+świętoszkowe	świętoszkowy	adj:pl:acc:m2.m3.f.n:pos		
+świętoszkowe	świętoszkowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+świętoszkowe	świętoszkowy	adj:sg:acc:n:pos		
+świętoszkowe	świętoszkowy	adj:sg:nom.voc:n:pos		
+świętoszkowi	świętoszkowy	adj:pl:nom.voc:m1:pos		
+świętoszkowo	świętoszkowy	adja		
+świętoszkowych	świętoszkowy	adj:pl:acc:m1:pos		
+świętoszkowych	świętoszkowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+świętoszkowych	świętoszkowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+świętoszkowymi	świętoszkowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+świętoszkowym	świętoszkowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+świętoszkowym	świętoszkowy	adj:sg:inst:m1.m2.m3.n:pos		
+świętoszkowym	świętoszkowy	adj:sg:loc:m1.m2.m3.n:pos		
+świętoszkowy	świętoszkowy	adj:sg:acc:m3:pos		
+świętoszkowy	świętoszkowy	adj:sg:nom.voc:m1.m2.m3:pos		
 świętościach	świętość	subst:pl:loc:f	nazwa pospolita	
 świętościami	świętość	subst:pl:inst:f	nazwa pospolita	
 świętością	świętość	subst:sg:inst:f	nazwa pospolita	
