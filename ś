@@ -12806,7 +12806,12 @@
 śmirusów	śmirus	subst:pl:gen.acc:m1	nazwa pospolita	
 śmirus	śmirus	subst:sg:nom:m1	nazwa pospolita	
 śmirusy	śmirus	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-śmo	śmo	subst:sg:nom:n:ncol		
+śmego	śmo	subst:sg:gen:n:ncol	nazwa pospolita	
+śmemu	śmo	subst:sg:dat:n:ncol	nazwa pospolita	
+śmo	śmo	subst:sg:acc:n:ncol	nazwa pospolita	
+śmo	śmo	subst:sg:nom:n:ncol	nazwa pospolita	
+śmym	śmo	subst:sg:inst:n:ncol	nazwa pospolita	
+śmym	śmo	subst:sg:loc:n:ncol	nazwa pospolita	
 śniadacie	śniadać	fin:pl:sec:imperf		przest.
 śniadać	śniadać	inf:imperf		przest.
 śniadająca	śniadać	pact:sg:nom.voc:f:imperf:aff		

@@ -20461,6 +20461,7 @@ fetyszystki	fetyszystka	subst:pl:nom.acc.voc:f	nazwa pospolita
 fetyszystki	fetyszystka	subst:sg:gen:f	nazwa pospolita	
 fetyszystko	fetyszystka	subst:sg:voc:f	nazwa pospolita	
 fetyszystkom	fetyszystka	subst:pl:dat:f	nazwa pospolita	
+fetyszystycznie	fetyszystycznie	adv:pos		
 fetyszystycznościach	fetyszystyczność	subst:pl:loc:f	nazwa pospolita	
 fetyszystycznościami	fetyszystyczność	subst:pl:inst:f	nazwa pospolita	
 fetyszystycznością	fetyszystyczność	subst:sg:inst:f	nazwa pospolita	

@@ -19,19 +19,20 @@ Aarony	Aaron	depr:pl:nom.acc.voc:m2	imię
 AA	AA:s1	subst:pl:nom.gen.dat.acc.inst.loc.voc:m1:pt	nazwa organizacji	
 AA	AA:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa firmy	
 AA	AA:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa firmy	
-Abakanowicza	Abakanowicz	subst:sg:gen.acc:m1	nazwisko	
-Abakanowicz	Abakanowicz	subst:sg:nom:m1	nazwisko	
-Abakanowiczach	Abakanowicz	subst:pl:loc:m1	nazwisko	
-Abakanowiczami	Abakanowicz	subst:pl:inst:m1	nazwisko	
-Abakanowicze	Abakanowicz	depr:pl:nom.acc.voc:m2	nazwisko	
-Abakanowicze	Abakanowicz	subst:pl:nom.voc:m1	nazwisko	
-Abakanowiczem	Abakanowicz	subst:sg:inst:m1	nazwisko	
-Abakanowiczom	Abakanowicz	subst:pl:dat:m1	nazwisko	
-Abakanowiczowi	Abakanowicz	subst:sg:dat:m1	nazwisko	
-Abakanowiczowie	Abakanowicz	subst:pl:nom.voc:m1	nazwisko	
-Abakanowiczów	Abakanowicz	subst:pl:gen.acc:m1	nazwisko	
-Abakanowiczu	Abakanowicz	subst:sg:loc:m1	nazwisko	
-Abakanowiczu	Abakanowicz	subst:sg:voc:m1	nazwisko	
+Abakanowicza	Abakanowicz:s1	subst:sg:gen.acc:m1	nazwisko	
+Abakanowicz	Abakanowicz:s1	subst:sg:nom:m1	nazwisko	
+Abakanowiczach	Abakanowicz:s1	subst:pl:loc:m1	nazwisko	
+Abakanowiczami	Abakanowicz:s1	subst:pl:inst:m1	nazwisko	
+Abakanowicze	Abakanowicz:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Abakanowicze	Abakanowicz:s1	subst:pl:nom.voc:m1	nazwisko	
+Abakanowiczem	Abakanowicz:s1	subst:sg:inst:m1	nazwisko	
+Abakanowiczom	Abakanowicz:s1	subst:pl:dat:m1	nazwisko	
+Abakanowiczowi	Abakanowicz:s1	subst:sg:dat:m1	nazwisko	
+Abakanowiczowie	Abakanowicz:s1	subst:pl:nom.voc:m1	nazwisko	
+Abakanowiczów	Abakanowicz:s1	subst:pl:gen.acc:m1	nazwisko	
+Abakanowiczu	Abakanowicz:s1	subst:sg:loc:m1	nazwisko	
+Abakanowiczu	Abakanowicz:s1	subst:sg:voc:m1	nazwisko	
+Abakanowicz	Abakanowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 ABB	ABB	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa firmy	
 ABBA	ABBA	subst:sg:nom:f	nazwa własna	
 ABB	ABBA	subst:pl:gen:f	nazwa własna	

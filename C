@@ -469,7 +469,7 @@ Casarolim	Casaroli	subst:pl:dat:m1	nazwisko
 Casarolim	Casaroli	subst:sg:inst:m1	nazwisko	
 Casarolim	Casaroli	subst:sg:loc:m1	nazwisko	
 Casarolimi	Casaroli	subst:pl:inst:m1	nazwisko	
-Cassino	Cassino	burk		
+Cassino	Cassino	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy geograficznej	
 Castro	Castro	depr:pl:nom.acc.voc:m2	nazwisko	
 Castro	Castro	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko	
 Cazina	Cazin	subst:sg:gen.acc:m1	nazwisko	
