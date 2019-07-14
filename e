@@ -21509,6 +21509,29 @@ ełckości	ełckość	subst:sg:voc:f	nazwa pospolita
 ełckościom	ełckość	subst:pl:dat:f	nazwa pospolita	
 ełckość	ełckość	subst:sg:acc:f	nazwa pospolita	
 ełckość	ełckość	subst:sg:nom:f	nazwa pospolita	
+ełczanach	ełczanin	subst:pl:loc:m1	nazwa pospolita	
+ełczanami	ełczanin	subst:pl:inst:m1	nazwa pospolita	
+ełczan	ełczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+ełczanie	ełczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+ełczanina	ełczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+ełczanin	ełczanin	subst:sg:nom:m1	nazwa pospolita	
+ełczaninem	ełczanin	subst:sg:inst:m1	nazwa pospolita	
+ełczaninie	ełczanin	subst:sg:loc:m1	nazwa pospolita	
+ełczaninie	ełczanin	subst:sg:voc:m1	nazwa pospolita	
+ełczaninowi	ełczanin	subst:sg:dat:m1	nazwa pospolita	
+ełczanom	ełczanin	subst:pl:dat:m1	nazwa pospolita	
+ełczany	ełczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+ełczance	ełczanka	subst:sg:dat.loc:f	nazwa pospolita	
+ełczanek	ełczanka	subst:pl:gen:f	nazwa pospolita	
+ełczankach	ełczanka	subst:pl:loc:f	nazwa pospolita	
+ełczanka	ełczanka	subst:sg:nom:f	nazwa pospolita	
+ełczankami	ełczanka	subst:pl:inst:f	nazwa pospolita	
+ełczanką	ełczanka	subst:sg:inst:f	nazwa pospolita	
+ełczankę	ełczanka	subst:sg:acc:f	nazwa pospolita	
+ełczanki	ełczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+ełczanki	ełczanka	subst:sg:gen:f	nazwa pospolita	
+ełczanko	ełczanka	subst:sg:voc:f	nazwa pospolita	
+ełczankom	ełczanka	subst:pl:dat:f	nazwa pospolita	
 em	em	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 emablować	emablować	inf:imperf		
 emablowaliby	emablować	cond:pl:m1:ter:imperf		

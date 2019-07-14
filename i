@@ -6529,6 +6529,29 @@ iławeckości	iławeckość	subst:sg:voc:f	nazwa pospolita
 iławeckościom	iławeckość	subst:pl:dat:f	nazwa pospolita	
 iławeckość	iławeckość	subst:sg:acc:f	nazwa pospolita	
 iławeckość	iławeckość	subst:sg:nom:f	nazwa pospolita	
+iławianach	iławianin	subst:pl:loc:m1	nazwa pospolita	
+iławianami	iławianin	subst:pl:inst:m1	nazwa pospolita	
+iławianie	iławianin	subst:pl:nom.voc:m1	nazwa pospolita	
+iławian	iławianin	subst:pl:gen.acc:m1	nazwa pospolita	
+iławianina	iławianin	subst:sg:gen.acc:m1	nazwa pospolita	
+iławianinem	iławianin	subst:sg:inst:m1	nazwa pospolita	
+iławianinie	iławianin	subst:sg:loc:m1	nazwa pospolita	
+iławianinie	iławianin	subst:sg:voc:m1	nazwa pospolita	
+iławianin	iławianin	subst:sg:nom:m1	nazwa pospolita	
+iławianinowi	iławianin	subst:sg:dat:m1	nazwa pospolita	
+iławianom	iławianin	subst:pl:dat:m1	nazwa pospolita	
+iławiany	iławianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+iławiance	iławianka	subst:sg:dat.loc:f	nazwa pospolita	
+iławianek	iławianka	subst:pl:gen:f	nazwa pospolita	
+iławiankach	iławianka	subst:pl:loc:f	nazwa pospolita	
+iławianka	iławianka	subst:sg:nom:f	nazwa pospolita	
+iławiankami	iławianka	subst:pl:inst:f	nazwa pospolita	
+iławianką	iławianka	subst:sg:inst:f	nazwa pospolita	
+iławiankę	iławianka	subst:sg:acc:f	nazwa pospolita	
+iławianki	iławianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+iławianki	iławianka	subst:sg:gen:f	nazwa pospolita	
+iławianko	iławianka	subst:sg:voc:f	nazwa pospolita	
+iławiankom	iławianka	subst:pl:dat:f	nazwa pospolita	
 iławscy	iławski	adj:pl:nom.voc:m1:pos		
 iławska	iławski	adj:sg:nom.voc:f:pos		
 iławską	iławski	adj:sg:acc:f:pos		
@@ -22397,6 +22420,29 @@ inowłodzkości	inowłodzkość	subst:sg:voc:f	nazwa pospolita
 inowłodzkościom	inowłodzkość	subst:pl:dat:f	nazwa pospolita	
 inowłodzkość	inowłodzkość	subst:sg:acc:f	nazwa pospolita	
 inowłodzkość	inowłodzkość	subst:sg:nom:f	nazwa pospolita	
+inowrocławianach	inowrocławianin	subst:pl:loc:m1	nazwa pospolita	
+inowrocławianami	inowrocławianin	subst:pl:inst:m1	nazwa pospolita	
+inowrocławianie	inowrocławianin	subst:pl:nom.voc:m1	nazwa pospolita	
+inowrocławianina	inowrocławianin	subst:sg:gen.acc:m1	nazwa pospolita	
+inowrocławianinem	inowrocławianin	subst:sg:inst:m1	nazwa pospolita	
+inowrocławianinie	inowrocławianin	subst:sg:loc:m1	nazwa pospolita	
+inowrocławianinie	inowrocławianin	subst:sg:voc:m1	nazwa pospolita	
+inowrocławianin	inowrocławianin	subst:sg:nom:m1	nazwa pospolita	
+inowrocławianinowi	inowrocławianin	subst:sg:dat:m1	nazwa pospolita	
+inowrocławian	inowrocławianin	subst:pl:gen.acc:m1	nazwa pospolita	
+inowrocławianom	inowrocławianin	subst:pl:dat:m1	nazwa pospolita	
+inowrocławiany	inowrocławianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+inowrocławiance	inowrocławianka	subst:sg:dat.loc:f	nazwa pospolita	
+inowrocławianek	inowrocławianka	subst:pl:gen:f	nazwa pospolita	
+inowrocławiankach	inowrocławianka	subst:pl:loc:f	nazwa pospolita	
+inowrocławianka	inowrocławianka	subst:sg:nom:f	nazwa pospolita	
+inowrocławiankami	inowrocławianka	subst:pl:inst:f	nazwa pospolita	
+inowrocławianką	inowrocławianka	subst:sg:inst:f	nazwa pospolita	
+inowrocławiankę	inowrocławianka	subst:sg:acc:f	nazwa pospolita	
+inowrocławianki	inowrocławianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+inowrocławianki	inowrocławianka	subst:sg:gen:f	nazwa pospolita	
+inowrocławianko	inowrocławianka	subst:sg:voc:f	nazwa pospolita	
+inowrocławiankom	inowrocławianka	subst:pl:dat:f	nazwa pospolita	
 inowrocławscy	inowrocławski	adj:pl:nom.voc:m1:pos		
 inowrocławska	inowrocławski	adj:sg:nom.voc:f:pos		
 inowrocławską	inowrocławski	adj:sg:acc:f:pos		

@@ -2064,6 +2064,29 @@ hajnałowi	hajnał	subst:sg:dat:m3	nazwa pospolita	daw.
 hajnałów	hajnał	subst:pl:gen:m3	nazwa pospolita	daw.
 hajnału	hajnał	subst:sg:gen:m3	nazwa pospolita	daw.
 hajnały	hajnał	subst:pl:nom.acc.voc:m3	nazwa pospolita	daw.
+hajnowianach	hajnowianin	subst:pl:loc:m1	nazwa pospolita	
+hajnowianami	hajnowianin	subst:pl:inst:m1	nazwa pospolita	
+hajnowian	hajnowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+hajnowianie	hajnowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+hajnowianina	hajnowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+hajnowianinem	hajnowianin	subst:sg:inst:m1	nazwa pospolita	
+hajnowianin	hajnowianin	subst:sg:nom:m1	nazwa pospolita	
+hajnowianinie	hajnowianin	subst:sg:loc:m1	nazwa pospolita	
+hajnowianinie	hajnowianin	subst:sg:voc:m1	nazwa pospolita	
+hajnowianinowi	hajnowianin	subst:sg:dat:m1	nazwa pospolita	
+hajnowianom	hajnowianin	subst:pl:dat:m1	nazwa pospolita	
+hajnowiany	hajnowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+hajnowiance	hajnowianka	subst:sg:dat.loc:f	nazwa pospolita	
+hajnowianek	hajnowianka	subst:pl:gen:f	nazwa pospolita	
+hajnowiankach	hajnowianka	subst:pl:loc:f	nazwa pospolita	
+hajnowianka	hajnowianka	subst:sg:nom:f	nazwa pospolita	
+hajnowiankami	hajnowianka	subst:pl:inst:f	nazwa pospolita	
+hajnowianką	hajnowianka	subst:sg:inst:f	nazwa pospolita	
+hajnowiankę	hajnowianka	subst:sg:acc:f	nazwa pospolita	
+hajnowianki	hajnowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+hajnowianki	hajnowianka	subst:sg:gen:f	nazwa pospolita	
+hajnowianko	hajnowianka	subst:sg:voc:f	nazwa pospolita	
+hajnowiankom	hajnowianka	subst:pl:dat:f	nazwa pospolita	
 hajnowscy	hajnowski	adj:pl:nom.voc:m1:pos		
 hajnowska	hajnowski	adj:sg:nom.voc:f:pos		
 hajnowską	hajnowski	adj:sg:acc:f:pos		
@@ -36979,6 +37002,29 @@ hreczkowym	hreczkowy	adj:pl:dat:m1.m2.m3.f.n:pos
 hreczkowym	hreczkowy	adj:sg:inst:m1.m2.m3.n:pos		
 hreczkowym	hreczkowy	adj:sg:loc:m1.m2.m3.n:pos		
 hreczkowymi	hreczkowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+hrubieszowianach	hrubieszowianin	subst:pl:loc:m1	nazwa pospolita	
+hrubieszowianami	hrubieszowianin	subst:pl:inst:m1	nazwa pospolita	
+hrubieszowian	hrubieszowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+hrubieszowianie	hrubieszowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+hrubieszowianina	hrubieszowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+hrubieszowianinem	hrubieszowianin	subst:sg:inst:m1	nazwa pospolita	
+hrubieszowianin	hrubieszowianin	subst:sg:nom:m1	nazwa pospolita	
+hrubieszowianinie	hrubieszowianin	subst:sg:loc:m1	nazwa pospolita	
+hrubieszowianinie	hrubieszowianin	subst:sg:voc:m1	nazwa pospolita	
+hrubieszowianinowi	hrubieszowianin	subst:sg:dat:m1	nazwa pospolita	
+hrubieszowianom	hrubieszowianin	subst:pl:dat:m1	nazwa pospolita	
+hrubieszowiany	hrubieszowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+hrubieszowiance	hrubieszowianka	subst:sg:dat.loc:f	nazwa pospolita	
+hrubieszowianek	hrubieszowianka	subst:pl:gen:f	nazwa pospolita	
+hrubieszowiankach	hrubieszowianka	subst:pl:loc:f	nazwa pospolita	
+hrubieszowianka	hrubieszowianka	subst:sg:nom:f	nazwa pospolita	
+hrubieszowiankami	hrubieszowianka	subst:pl:inst:f	nazwa pospolita	
+hrubieszowianką	hrubieszowianka	subst:sg:inst:f	nazwa pospolita	
+hrubieszowiankę	hrubieszowianka	subst:sg:acc:f	nazwa pospolita	
+hrubieszowianki	hrubieszowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+hrubieszowianki	hrubieszowianka	subst:sg:gen:f	nazwa pospolita	
+hrubieszowianko	hrubieszowianka	subst:sg:voc:f	nazwa pospolita	
+hrubieszowiankom	hrubieszowianka	subst:pl:dat:f	nazwa pospolita	
 hrubieszowscy	hrubieszowski	adj:pl:nom.voc:m1:pos		
 hrubieszowska	hrubieszowski	adj:sg:nom.voc:f:pos		
 hrubieszowską	hrubieszowski	adj:sg:acc:f:pos		

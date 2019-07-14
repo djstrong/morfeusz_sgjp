@@ -6458,6 +6458,29 @@ jarmużników	jarmużnik	subst:pl:gen:m3	nazwa pospolita
 jarmużniku	jarmużnik	subst:sg:loc:m3	nazwa pospolita	
 jarmużniku	jarmużnik	subst:sg:voc:m3	nazwa pospolita	
 jaro	jaro	adv:pos		
+jarocinianach	jarocinianin	subst:pl:loc:m1	nazwa pospolita	
+jarocinianami	jarocinianin	subst:pl:inst:m1	nazwa pospolita	
+jarocinianie	jarocinianin	subst:pl:nom.voc:m1	nazwa pospolita	
+jarocinianina	jarocinianin	subst:sg:gen.acc:m1	nazwa pospolita	
+jarocinianinem	jarocinianin	subst:sg:inst:m1	nazwa pospolita	
+jarocinianinie	jarocinianin	subst:sg:loc:m1	nazwa pospolita	
+jarocinianinie	jarocinianin	subst:sg:voc:m1	nazwa pospolita	
+jarocinianin	jarocinianin	subst:sg:nom:m1	nazwa pospolita	
+jarocinianinowi	jarocinianin	subst:sg:dat:m1	nazwa pospolita	
+jarocinian	jarocinianin	subst:pl:gen.acc:m1	nazwa pospolita	
+jarocinianom	jarocinianin	subst:pl:dat:m1	nazwa pospolita	
+jarociniany	jarocinianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+jarociniance	jarocinianka	subst:sg:dat.loc:f	nazwa pospolita	
+jarocinianek	jarocinianka	subst:pl:gen:f	nazwa pospolita	
+jarociniankach	jarocinianka	subst:pl:loc:f	nazwa pospolita	
+jarocinianka	jarocinianka	subst:sg:nom:f	nazwa pospolita	
+jarociniankami	jarocinianka	subst:pl:inst:f	nazwa pospolita	
+jarocinianką	jarocinianka	subst:sg:inst:f	nazwa pospolita	
+jarociniankę	jarocinianka	subst:sg:acc:f	nazwa pospolita	
+jarocinianki	jarocinianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+jarocinianki	jarocinianka	subst:sg:gen:f	nazwa pospolita	
+jarocinianko	jarocinianka	subst:sg:voc:f	nazwa pospolita	
+jarociniankom	jarocinianka	subst:pl:dat:f	nazwa pospolita	
 jarocińscy	jarociński	adj:pl:nom.voc:m1:pos		
 jarocińska	jarociński	adj:sg:nom.voc:f:pos		
 jarocińską	jarociński	adj:sg:acc:f:pos		
@@ -6495,6 +6518,29 @@ jarocińskości	jarocińskość	subst:sg:voc:f	nazwa pospolita
 jarocińskościom	jarocińskość	subst:pl:dat:f	nazwa pospolita	
 jarocińskość	jarocińskość	subst:sg:acc:f	nazwa pospolita	
 jarocińskość	jarocińskość	subst:sg:nom:f	nazwa pospolita	
+jarosławianach	jarosławianin	subst:pl:loc:m1	nazwa pospolita	
+jarosławianami	jarosławianin	subst:pl:inst:m1	nazwa pospolita	
+jarosławianie	jarosławianin	subst:pl:nom.voc:m1	nazwa pospolita	
+jarosławianina	jarosławianin	subst:sg:gen.acc:m1	nazwa pospolita	
+jarosławianinem	jarosławianin	subst:sg:inst:m1	nazwa pospolita	
+jarosławianinie	jarosławianin	subst:sg:loc:m1	nazwa pospolita	
+jarosławianinie	jarosławianin	subst:sg:voc:m1	nazwa pospolita	
+jarosławianin	jarosławianin	subst:sg:nom:m1	nazwa pospolita	
+jarosławianinowi	jarosławianin	subst:sg:dat:m1	nazwa pospolita	
+jarosławian	jarosławianin	subst:pl:gen.acc:m1	nazwa pospolita	
+jarosławianom	jarosławianin	subst:pl:dat:m1	nazwa pospolita	
+jarosławiany	jarosławianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+jarosławiance	jarosławianka	subst:sg:dat.loc:f	nazwa pospolita	
+jarosławianek	jarosławianka	subst:pl:gen:f	nazwa pospolita	
+jarosławiankach	jarosławianka	subst:pl:loc:f	nazwa pospolita	
+jarosławianka	jarosławianka	subst:sg:nom:f	nazwa pospolita	
+jarosławiankami	jarosławianka	subst:pl:inst:f	nazwa pospolita	
+jarosławianką	jarosławianka	subst:sg:inst:f	nazwa pospolita	
+jarosławiankę	jarosławianka	subst:sg:acc:f	nazwa pospolita	
+jarosławianki	jarosławianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+jarosławianki	jarosławianka	subst:sg:gen:f	nazwa pospolita	
+jarosławianko	jarosławianka	subst:sg:voc:f	nazwa pospolita	
+jarosławiankom	jarosławianka	subst:pl:dat:f	nazwa pospolita	
 jarosławscy	jarosławski	adj:pl:nom.voc:m1:pos		
 jarosławska	jarosławski	adj:sg:nom.voc:f:pos		
 jarosławską	jarosławski	adj:sg:acc:f:pos		
@@ -12080,6 +12126,29 @@ jaworzańskości	jaworzańskość	subst:sg:voc:f	nazwa pospolita
 jaworzańskościom	jaworzańskość	subst:pl:dat:f	nazwa pospolita	
 jaworzańskość	jaworzańskość	subst:sg:acc:f	nazwa pospolita	
 jaworzańskość	jaworzańskość	subst:sg:nom:f	nazwa pospolita	
+jaworznianach	jaworznianin	subst:pl:loc:m1	nazwa pospolita	
+jaworznianami	jaworznianin	subst:pl:inst:m1	nazwa pospolita	
+jaworznianie	jaworznianin	subst:pl:nom.voc:m1	nazwa pospolita	
+jaworznianina	jaworznianin	subst:sg:gen.acc:m1	nazwa pospolita	
+jaworznianinem	jaworznianin	subst:sg:inst:m1	nazwa pospolita	
+jaworznianinie	jaworznianin	subst:sg:loc:m1	nazwa pospolita	
+jaworznianinie	jaworznianin	subst:sg:voc:m1	nazwa pospolita	
+jaworznianin	jaworznianin	subst:sg:nom:m1	nazwa pospolita	
+jaworznianinowi	jaworznianin	subst:sg:dat:m1	nazwa pospolita	
+jaworznian	jaworznianin	subst:pl:gen.acc:m1	nazwa pospolita	
+jaworznianom	jaworznianin	subst:pl:dat:m1	nazwa pospolita	
+jaworzniany	jaworznianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+jaworzniance	jaworznianka	subst:sg:dat.loc:f	nazwa pospolita	
+jaworznianek	jaworznianka	subst:pl:gen:f	nazwa pospolita	
+jaworzniankach	jaworznianka	subst:pl:loc:f	nazwa pospolita	
+jaworznianka	jaworznianka	subst:sg:nom:f	nazwa pospolita	
+jaworzniankami	jaworznianka	subst:pl:inst:f	nazwa pospolita	
+jaworznianką	jaworznianka	subst:sg:inst:f	nazwa pospolita	
+jaworzniankę	jaworznianka	subst:sg:acc:f	nazwa pospolita	
+jaworznianki	jaworznianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+jaworznianki	jaworznianka	subst:sg:gen:f	nazwa pospolita	
+jaworznianko	jaworznianka	subst:sg:voc:f	nazwa pospolita	
+jaworzniankom	jaworznianka	subst:pl:dat:f	nazwa pospolita	
 jaworzniańscy	jaworzniański	adj:pl:nom.voc:m1:pos		
 jaworzniańska	jaworzniański	adj:sg:nom.voc:f:pos		
 jaworzniańską	jaworzniański	adj:sg:acc:f:pos		
@@ -12117,6 +12186,42 @@ jaworzniańskości	jaworzniańskość	subst:sg:voc:f	nazwa pospolita
 jaworzniańskościom	jaworzniańskość	subst:pl:dat:f	nazwa pospolita	
 jaworzniańskość	jaworzniańskość	subst:sg:acc:f	nazwa pospolita	
 jaworzniańskość	jaworzniańskość	subst:sg:nom:f	nazwa pospolita	
+jaworzniccy	jaworznicki	adj:pl:nom.voc:m1:pos		
+jaworznicka	jaworznicki	adj:sg:nom.voc:f:pos		
+jaworznicką	jaworznicki	adj:sg:acc:f:pos		
+jaworznicką	jaworznicki	adj:sg:inst:f:pos		
+jaworznickich	jaworznicki	adj:pl:acc:m1:pos		
+jaworznickich	jaworznicki	adj:pl:gen:m1.m2.m3.f.n:pos		
+jaworznickich	jaworznicki	adj:pl:loc:m1.m2.m3.f.n:pos		
+jaworznickiego	jaworznicki	adj:sg:acc:m1.m2:pos		
+jaworznickiego	jaworznicki	adj:sg:gen:m1.m2.m3.n:pos		
+jaworznickie	jaworznicki	adj:pl:acc:m2.m3.f.n:pos		
+jaworznickie	jaworznicki	adj:pl:nom.voc:m2.m3.f.n:pos		
+jaworznickie	jaworznicki	adj:sg:acc:n:pos		
+jaworznickie	jaworznicki	adj:sg:nom.voc:n:pos		
+jaworznickiej	jaworznicki	adj:sg:dat:f:pos		
+jaworznickiej	jaworznicki	adj:sg:gen:f:pos		
+jaworznickiej	jaworznicki	adj:sg:loc:f:pos		
+jaworznickiemu	jaworznicki	adj:sg:dat:m1.m2.m3.n:pos		
+jaworznicki	jaworznicki	adj:sg:acc:m3:pos		
+jaworznicki	jaworznicki	adj:sg:nom.voc:m1.m2.m3:pos		
+jaworznickimi	jaworznicki	adj:pl:inst:m1.m2.m3.f.n:pos		
+jaworznickim	jaworznicki	adj:pl:dat:m1.m2.m3.f.n:pos		
+jaworznickim	jaworznicki	adj:sg:inst:m1.m2.m3.n:pos		
+jaworznickim	jaworznicki	adj:sg:loc:m1.m2.m3.n:pos		
+jaworznicko	jaworznicki	adja		
+jaworznicku	jaworznicki	adjp		
+jaworznickościach	jaworznickość	subst:pl:loc:f		
+jaworznickościami	jaworznickość	subst:pl:inst:f		
+jaworznickością	jaworznickość	subst:sg:inst:f		
+jaworznickości	jaworznickość	subst:pl:gen:f		
+jaworznickości	jaworznickość	subst:pl:nom.acc.voc:f		
+jaworznickości	jaworznickość	subst:sg:dat.loc:f		
+jaworznickości	jaworznickość	subst:sg:gen:f		
+jaworznickości	jaworznickość	subst:sg:voc:f		
+jaworznickościom	jaworznickość	subst:pl:dat:f		
+jaworznickość	jaworznickość	subst:sg:acc:f		
+jaworznickość	jaworznickość	subst:sg:nom:f		
 jaworzynach	jaworzyna	subst:pl:loc:f	nazwa pospolita	przest.
 jaworzyna	jaworzyna	subst:sg:nom:f	nazwa pospolita	przest.
 jaworzynami	jaworzyna	subst:pl:inst:f	nazwa pospolita	przest.
@@ -23905,6 +24010,29 @@ jeleniogórskości	jeleniogórskość	subst:sg:voc:f	nazwa pospolita
 jeleniogórskościom	jeleniogórskość	subst:pl:dat:f	nazwa pospolita	
 jeleniogórskość	jeleniogórskość	subst:sg:acc:f	nazwa pospolita	
 jeleniogórskość	jeleniogórskość	subst:sg:nom:f	nazwa pospolita	
+jeleniogórzanach	jeleniogórzanin	subst:pl:loc:m1	nazwa pospolita	
+jeleniogórzanami	jeleniogórzanin	subst:pl:inst:m1	nazwa pospolita	
+jeleniogórzanie	jeleniogórzanin	subst:pl:nom.voc:m1	nazwa pospolita	
+jeleniogórzanina	jeleniogórzanin	subst:sg:gen.acc:m1	nazwa pospolita	
+jeleniogórzaninem	jeleniogórzanin	subst:sg:inst:m1	nazwa pospolita	
+jeleniogórzaninie	jeleniogórzanin	subst:sg:loc:m1	nazwa pospolita	
+jeleniogórzaninie	jeleniogórzanin	subst:sg:voc:m1	nazwa pospolita	
+jeleniogórzanin	jeleniogórzanin	subst:sg:nom:m1	nazwa pospolita	
+jeleniogórzaninowi	jeleniogórzanin	subst:sg:dat:m1	nazwa pospolita	
+jeleniogórzan	jeleniogórzanin	subst:pl:gen.acc:m1	nazwa pospolita	
+jeleniogórzanom	jeleniogórzanin	subst:pl:dat:m1	nazwa pospolita	
+jeleniogórzany	jeleniogórzanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+jeleniogórzance	jeleniogórzanka	subst:sg:dat.loc:f	nazwa pospolita	
+jeleniogórzanek	jeleniogórzanka	subst:pl:gen:f	nazwa pospolita	
+jeleniogórzankach	jeleniogórzanka	subst:pl:loc:f	nazwa pospolita	
+jeleniogórzanka	jeleniogórzanka	subst:sg:nom:f	nazwa pospolita	
+jeleniogórzankami	jeleniogórzanka	subst:pl:inst:f	nazwa pospolita	
+jeleniogórzanką	jeleniogórzanka	subst:sg:inst:f	nazwa pospolita	
+jeleniogórzankę	jeleniogórzanka	subst:sg:acc:f	nazwa pospolita	
+jeleniogórzanki	jeleniogórzanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+jeleniogórzanki	jeleniogórzanka	subst:sg:gen:f	nazwa pospolita	
+jeleniogórzanko	jeleniogórzanka	subst:sg:voc:f	nazwa pospolita	
+jeleniogórzankom	jeleniogórzanka	subst:pl:dat:f	nazwa pospolita	
 jelenionodzy	jelenionogi	adj:pl:nom.voc:m1:pos		
 jelenionoga	jelenionogi	adj:sg:nom.voc:f:pos		
 jelenionogą	jelenionogi	adj:sg:acc:f:pos		
@@ -28163,6 +28291,29 @@ jędrzejewiczowskości	jędrzejewiczowskość	subst:sg:voc:f	nazwa pospolita
 jędrzejewiczowskościom	jędrzejewiczowskość	subst:pl:dat:f	nazwa pospolita	
 jędrzejewiczowskość	jędrzejewiczowskość	subst:sg:acc:f	nazwa pospolita	
 jędrzejewiczowskość	jędrzejewiczowskość	subst:sg:nom:f	nazwa pospolita	
+jędrzejowianach	jędrzejowianin	subst:pl:loc:m1	nazwa pospolita	
+jędrzejowianami	jędrzejowianin	subst:pl:inst:m1	nazwa pospolita	
+jędrzejowianie	jędrzejowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+jędrzejowianina	jędrzejowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+jędrzejowianinem	jędrzejowianin	subst:sg:inst:m1	nazwa pospolita	
+jędrzejowianinie	jędrzejowianin	subst:sg:loc:m1	nazwa pospolita	
+jędrzejowianinie	jędrzejowianin	subst:sg:voc:m1	nazwa pospolita	
+jędrzejowianin	jędrzejowianin	subst:sg:nom:m1	nazwa pospolita	
+jędrzejowianinowi	jędrzejowianin	subst:sg:dat:m1	nazwa pospolita	
+jędrzejowian	jędrzejowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+jędrzejowianom	jędrzejowianin	subst:pl:dat:m1	nazwa pospolita	
+jędrzejowiany	jędrzejowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+jędrzejowiance	jędrzejowianka	subst:sg:dat.loc:f	nazwa pospolita	
+jędrzejowianek	jędrzejowianka	subst:pl:gen:f	nazwa pospolita	
+jędrzejowiankach	jędrzejowianka	subst:pl:loc:f	nazwa pospolita	
+jędrzejowianka	jędrzejowianka	subst:sg:nom:f	nazwa pospolita	
+jędrzejowiankami	jędrzejowianka	subst:pl:inst:f	nazwa pospolita	
+jędrzejowianką	jędrzejowianka	subst:sg:inst:f	nazwa pospolita	
+jędrzejowiankę	jędrzejowianka	subst:sg:acc:f	nazwa pospolita	
+jędrzejowianki	jędrzejowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+jędrzejowianki	jędrzejowianka	subst:sg:gen:f	nazwa pospolita	
+jędrzejowianko	jędrzejowianka	subst:sg:voc:f	nazwa pospolita	
+jędrzejowiankom	jędrzejowianka	subst:pl:dat:f	nazwa pospolita	
 jędrzejowscy	jędrzejowski	adj:pl:nom.voc:m1:pos		
 jędrzejowska	jędrzejowski	adj:sg:nom.voc:f:pos		
 jędrzejowską	jędrzejowski	adj:sg:acc:f:pos		

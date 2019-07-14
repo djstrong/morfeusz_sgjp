@@ -15148,6 +15148,29 @@ legnickości	legnickość	subst:sg:voc:f	nazwa pospolita
 legnickościom	legnickość	subst:pl:dat:f	nazwa pospolita	
 legnickość	legnickość	subst:sg:acc:f	nazwa pospolita	
 legnickość	legnickość	subst:sg:nom:f	nazwa pospolita	
+legniczanach	legniczanin	subst:pl:loc:m1	nazwa pospolita	
+legniczanami	legniczanin	subst:pl:inst:m1	nazwa pospolita	
+legniczanie	legniczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+legniczanina	legniczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+legniczaninem	legniczanin	subst:sg:inst:m1	nazwa pospolita	
+legniczaninie	legniczanin	subst:sg:loc:m1	nazwa pospolita	
+legniczaninie	legniczanin	subst:sg:voc:m1	nazwa pospolita	
+legniczanin	legniczanin	subst:sg:nom:m1	nazwa pospolita	
+legniczaninowi	legniczanin	subst:sg:dat:m1	nazwa pospolita	
+legniczan	legniczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+legniczanom	legniczanin	subst:pl:dat:m1	nazwa pospolita	
+legniczany	legniczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+legniczance	legniczanka	subst:sg:dat.loc:f	nazwa pospolita	
+legniczanek	legniczanka	subst:pl:gen:f	nazwa pospolita	
+legniczankach	legniczanka	subst:pl:loc:f	nazwa pospolita	
+legniczanka	legniczanka	subst:sg:nom:f	nazwa pospolita	
+legniczankami	legniczanka	subst:pl:inst:f	nazwa pospolita	
+legniczanką	legniczanka	subst:sg:inst:f	nazwa pospolita	
+legniczankę	legniczanka	subst:sg:acc:f	nazwa pospolita	
+legniczanki	legniczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+legniczanki	legniczanka	subst:sg:gen:f	nazwa pospolita	
+legniczanko	legniczanka	subst:sg:voc:f	nazwa pospolita	
+legniczankom	legniczanka	subst:pl:dat:f	nazwa pospolita	
 lego	lego	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 legominach	legomina	subst:pl:loc:f	nazwa pospolita	przest.
 legomina	legomina	subst:sg:nom:f	nazwa pospolita	przest.
@@ -21297,6 +21320,29 @@ leszczyńskości	leszczyńskość	subst:sg:voc:f	nazwa pospolita
 leszczyńskościom	leszczyńskość	subst:pl:dat:f	nazwa pospolita	
 leszczyńskość	leszczyńskość	subst:sg:acc:f	nazwa pospolita	
 leszczyńskość	leszczyńskość	subst:sg:nom:f	nazwa pospolita	
+lesznianach	lesznianin	subst:pl:loc:m1	nazwa pospolita	
+lesznianami	lesznianin	subst:pl:inst:m1	nazwa pospolita	
+lesznianie	lesznianin	subst:pl:nom.voc:m1	nazwa pospolita	
+lesznianina	lesznianin	subst:sg:gen.acc:m1	nazwa pospolita	
+lesznianinem	lesznianin	subst:sg:inst:m1	nazwa pospolita	
+lesznianinie	lesznianin	subst:sg:loc:m1	nazwa pospolita	
+lesznianinie	lesznianin	subst:sg:voc:m1	nazwa pospolita	
+lesznianin	lesznianin	subst:sg:nom:m1	nazwa pospolita	
+lesznianinowi	lesznianin	subst:sg:dat:m1	nazwa pospolita	
+lesznian	lesznianin	subst:pl:gen.acc:m1	nazwa pospolita	
+lesznianom	lesznianin	subst:pl:dat:m1	nazwa pospolita	
+leszniany	lesznianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+leszniance	lesznianka	subst:sg:dat.loc:f	nazwa pospolita	
+lesznianek	lesznianka	subst:pl:gen:f	nazwa pospolita	
+leszniankach	lesznianka	subst:pl:loc:f	nazwa pospolita	
+lesznianka	lesznianka	subst:sg:nom:f	nazwa pospolita	
+leszniankami	lesznianka	subst:pl:inst:f	nazwa pospolita	
+lesznianką	lesznianka	subst:sg:inst:f	nazwa pospolita	
+leszniankę	lesznianka	subst:sg:acc:f	nazwa pospolita	
+lesznianki	lesznianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+lesznianki	lesznianka	subst:sg:gen:f	nazwa pospolita	
+lesznianko	lesznianka	subst:sg:voc:f	nazwa pospolita	
+leszniankom	lesznianka	subst:pl:dat:f	nazwa pospolita	
 lesznowolscy	lesznowolski	adj:pl:nom.voc:m1:pos		
 lesznowolska	lesznowolski	adj:sg:nom.voc:f:pos		
 lesznowolską	lesznowolski	adj:sg:acc:f:pos		
@@ -24027,6 +24073,29 @@ leżajskości	leżajskość	subst:sg:voc:f	nazwa pospolita
 leżajskościom	leżajskość	subst:pl:dat:f	nazwa pospolita	
 leżajskość	leżajskość	subst:sg:acc:f	nazwa pospolita	
 leżajskość	leżajskość	subst:sg:nom:f	nazwa pospolita	
+leżajszczanach	leżajszczanin	subst:pl:loc:m1	nazwa pospolita	
+leżajszczanami	leżajszczanin	subst:pl:inst:m1	nazwa pospolita	
+leżajszczanie	leżajszczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+leżajszczanina	leżajszczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+leżajszczaninem	leżajszczanin	subst:sg:inst:m1	nazwa pospolita	
+leżajszczaninie	leżajszczanin	subst:sg:loc:m1	nazwa pospolita	
+leżajszczaninie	leżajszczanin	subst:sg:voc:m1	nazwa pospolita	
+leżajszczanin	leżajszczanin	subst:sg:nom:m1	nazwa pospolita	
+leżajszczaninowi	leżajszczanin	subst:sg:dat:m1	nazwa pospolita	
+leżajszczan	leżajszczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+leżajszczanom	leżajszczanin	subst:pl:dat:m1	nazwa pospolita	
+leżajszczany	leżajszczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+leżajszczance	leżajszczanka	subst:sg:dat.loc:f	nazwa pospolita	
+leżajszczanek	leżajszczanka	subst:pl:gen:f	nazwa pospolita	
+leżajszczankach	leżajszczanka	subst:pl:loc:f	nazwa pospolita	
+leżajszczanka	leżajszczanka	subst:sg:nom:f	nazwa pospolita	
+leżajszczankami	leżajszczanka	subst:pl:inst:f	nazwa pospolita	
+leżajszczanką	leżajszczanka	subst:sg:inst:f	nazwa pospolita	
+leżajszczankę	leżajszczanka	subst:sg:acc:f	nazwa pospolita	
+leżajszczanki	leżajszczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+leżajszczanki	leżajszczanka	subst:sg:gen:f	nazwa pospolita	
+leżajszczanko	leżajszczanka	subst:sg:voc:f	nazwa pospolita	
+leżajszczankom	leżajszczanka	subst:pl:dat:f	nazwa pospolita	
 leżakach	leżak	subst:pl:loc:m3	nazwa pospolita	
 leżaka	leżak	subst:sg:gen:m3	nazwa pospolita	
 leżakami	leżak	subst:pl:inst:m3	nazwa pospolita	
@@ -31151,6 +31220,29 @@ limanowi	liman	subst:sg:dat:m3	nazwa pospolita
 limanów	liman	subst:pl:gen:m3	nazwa pospolita	
 limanu	liman	subst:sg:gen:m3	nazwa pospolita	
 limany	liman	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+limanowianach	limanowianin	subst:pl:loc:m1	nazwa pospolita	
+limanowianami	limanowianin	subst:pl:inst:m1	nazwa pospolita	
+limanowianie	limanowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+limanowianina	limanowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+limanowianinem	limanowianin	subst:sg:inst:m1	nazwa pospolita	
+limanowianinie	limanowianin	subst:sg:loc:m1	nazwa pospolita	
+limanowianinie	limanowianin	subst:sg:voc:m1	nazwa pospolita	
+limanowianin	limanowianin	subst:sg:nom:m1	nazwa pospolita	
+limanowianinowi	limanowianin	subst:sg:dat:m1	nazwa pospolita	
+limanowian	limanowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+limanowianom	limanowianin	subst:pl:dat:m1	nazwa pospolita	
+limanowiany	limanowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+limanowiance	limanowianka	subst:sg:dat.loc:f	nazwa pospolita	
+limanowianek	limanowianka	subst:pl:gen:f	nazwa pospolita	
+limanowiankach	limanowianka	subst:pl:loc:f	nazwa pospolita	
+limanowianka	limanowianka	subst:sg:nom:f	nazwa pospolita	
+limanowiankami	limanowianka	subst:pl:inst:f	nazwa pospolita	
+limanowianką	limanowianka	subst:sg:inst:f	nazwa pospolita	
+limanowiankę	limanowianka	subst:sg:acc:f	nazwa pospolita	
+limanowianki	limanowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+limanowianki	limanowianka	subst:sg:gen:f	nazwa pospolita	
+limanowianko	limanowianka	subst:sg:voc:f	nazwa pospolita	
+limanowiankom	limanowianka	subst:pl:dat:f	nazwa pospolita	
 limanowościach	limanowość	subst:pl:loc:f	nazwa pospolita	
 limanowościami	limanowość	subst:pl:inst:f	nazwa pospolita	
 limanowością	limanowość	subst:sg:inst:f	nazwa pospolita	
@@ -34263,6 +34355,29 @@ lipnięto	lipnąć	imps:imperf		daw.
 lipnijcie	lipnąć	impt:pl:sec:imperf		daw.
 lipnij	lipnąć	impt:sg:sec:imperf		daw.
 lipnijmy	lipnąć	impt:pl:pri:imperf		daw.
+lipnianach	lipnianin	subst:pl:loc:m1	nazwa pospolita	
+lipnianami	lipnianin	subst:pl:inst:m1	nazwa pospolita	
+lipnianie	lipnianin	subst:pl:nom.voc:m1	nazwa pospolita	
+lipnianina	lipnianin	subst:sg:gen.acc:m1	nazwa pospolita	
+lipnianinem	lipnianin	subst:sg:inst:m1	nazwa pospolita	
+lipnianinie	lipnianin	subst:sg:loc:m1	nazwa pospolita	
+lipnianinie	lipnianin	subst:sg:voc:m1	nazwa pospolita	
+lipnianin	lipnianin	subst:sg:nom:m1	nazwa pospolita	
+lipnianinowi	lipnianin	subst:sg:dat:m1	nazwa pospolita	
+lipnian	lipnianin	subst:pl:gen.acc:m1	nazwa pospolita	
+lipnianom	lipnianin	subst:pl:dat:m1	nazwa pospolita	
+lipniany	lipnianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+lipniance	lipnianka	subst:sg:dat.loc:f	nazwa pospolita	
+lipnianek	lipnianka	subst:pl:gen:f	nazwa pospolita	
+lipniankach	lipnianka	subst:pl:loc:f	nazwa pospolita	
+lipnianka	lipnianka	subst:sg:nom:f	nazwa pospolita	
+lipniankami	lipnianka	subst:pl:inst:f	nazwa pospolita	
+lipnianką	lipnianka	subst:sg:inst:f	nazwa pospolita	
+lipniankę	lipnianka	subst:sg:acc:f	nazwa pospolita	
+lipnianki	lipnianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+lipnianki	lipnianka	subst:sg:gen:f	nazwa pospolita	
+lipnianko	lipnianka	subst:sg:voc:f	nazwa pospolita	
+lipniankom	lipnianka	subst:pl:dat:f	nazwa pospolita	
 lipniccy	lipnicki	adj:pl:nom.voc:m1:pos		
 lipnicka	lipnicki	adj:sg:nom.voc:f:pos		
 lipnicką	lipnicki	adj:sg:acc:f:pos		
@@ -47891,6 +48006,29 @@ lubych	luba	subst:pl:gen:f	nazwa pospolita
 lubych	luba	subst:pl:loc:f	nazwa pospolita	
 lubymi	luba	subst:pl:inst:f	nazwa pospolita	
 lubym	luba	subst:pl:dat:f	nazwa pospolita	
+lubaczowianach	lubaczowianin	subst:pl:loc:m1	nazwa pospolita	
+lubaczowianami	lubaczowianin	subst:pl:inst:m1	nazwa pospolita	
+lubaczowianie	lubaczowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+lubaczowianina	lubaczowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+lubaczowianinem	lubaczowianin	subst:sg:inst:m1	nazwa pospolita	
+lubaczowianinie	lubaczowianin	subst:sg:loc:m1	nazwa pospolita	
+lubaczowianinie	lubaczowianin	subst:sg:voc:m1	nazwa pospolita	
+lubaczowianin	lubaczowianin	subst:sg:nom:m1	nazwa pospolita	
+lubaczowianinowi	lubaczowianin	subst:sg:dat:m1	nazwa pospolita	
+lubaczowian	lubaczowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+lubaczowianom	lubaczowianin	subst:pl:dat:m1	nazwa pospolita	
+lubaczowiany	lubaczowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+lubaczowiance	lubaczowianka	subst:sg:dat.loc:f	nazwa pospolita	
+lubaczowianek	lubaczowianka	subst:pl:gen:f	nazwa pospolita	
+lubaczowiankach	lubaczowianka	subst:pl:loc:f	nazwa pospolita	
+lubaczowianka	lubaczowianka	subst:sg:nom:f	nazwa pospolita	
+lubaczowiankami	lubaczowianka	subst:pl:inst:f	nazwa pospolita	
+lubaczowianką	lubaczowianka	subst:sg:inst:f	nazwa pospolita	
+lubaczowiankę	lubaczowianka	subst:sg:acc:f	nazwa pospolita	
+lubaczowianki	lubaczowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+lubaczowianki	lubaczowianka	subst:sg:gen:f	nazwa pospolita	
+lubaczowianko	lubaczowianka	subst:sg:voc:f	nazwa pospolita	
+lubaczowiankom	lubaczowianka	subst:pl:dat:f	nazwa pospolita	
 lubaczowscy	lubaczowski	adj:pl:nom.voc:m1:pos		
 lubaczowska	lubaczowski	adj:sg:nom.voc:f:pos		
 lubaczowską	lubaczowski	adj:sg:acc:f:pos		
@@ -47928,6 +48066,41 @@ lubaczowskości	lubaczowskość	subst:sg:voc:f	nazwa pospolita
 lubaczowskościom	lubaczowskość	subst:pl:dat:f	nazwa pospolita	
 lubaczowskość	lubaczowskość	subst:sg:acc:f	nazwa pospolita	
 lubaczowskość	lubaczowskość	subst:sg:nom:f	nazwa pospolita	
+lubaniacy	lubaniak	subst:pl:nom.voc:m1	nazwa pospolita	
+lubaniakach	lubaniak	subst:pl:loc:m1	nazwa pospolita	
+lubaniaka	lubaniak	subst:sg:gen.acc:m1	nazwa pospolita	
+lubaniakami	lubaniak	subst:pl:inst:m1	nazwa pospolita	
+lubaniakiem	lubaniak	subst:sg:inst:m1	nazwa pospolita	
+lubaniaki	lubaniak	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+lubaniak	lubaniak	subst:sg:nom:m1	nazwa pospolita	
+lubaniakom	lubaniak	subst:pl:dat:m1	nazwa pospolita	
+lubaniakowi	lubaniak	subst:sg:dat:m1	nazwa pospolita	
+lubaniaków	lubaniak	subst:pl:gen.acc:m1	nazwa pospolita	
+lubaniaku	lubaniak	subst:sg:loc:m1	nazwa pospolita	
+lubaniaku	lubaniak	subst:sg:voc:m1	nazwa pospolita	
+lubanianach	lubanianin	subst:pl:loc:m1	nazwa pospolita	
+lubanianami	lubanianin	subst:pl:inst:m1	nazwa pospolita	
+lubanianie	lubanianin	subst:pl:nom.voc:m1	nazwa pospolita	
+lubanianina	lubanianin	subst:sg:gen.acc:m1	nazwa pospolita	
+lubanianinem	lubanianin	subst:sg:inst:m1	nazwa pospolita	
+lubanianinie	lubanianin	subst:sg:loc:m1	nazwa pospolita	
+lubanianinie	lubanianin	subst:sg:voc:m1	nazwa pospolita	
+lubanianin	lubanianin	subst:sg:nom:m1	nazwa pospolita	
+lubanianinowi	lubanianin	subst:sg:dat:m1	nazwa pospolita	
+lubanian	lubanianin	subst:pl:gen.acc:m1	nazwa pospolita	
+lubanianom	lubanianin	subst:pl:dat:m1	nazwa pospolita	
+lubaniany	lubanianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+lubaniance	lubanianka	subst:sg:dat.loc:f	nazwa pospolita	
+lubanianek	lubanianka	subst:pl:gen:f	nazwa pospolita	
+lubaniankach	lubanianka	subst:pl:loc:f	nazwa pospolita	
+lubanianka	lubanianka	subst:sg:nom:f	nazwa pospolita	
+lubaniankami	lubanianka	subst:pl:inst:f	nazwa pospolita	
+lubanianką	lubanianka	subst:sg:inst:f	nazwa pospolita	
+lubaniankę	lubanianka	subst:sg:acc:f	nazwa pospolita	
+lubanianki	lubanianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+lubanianki	lubanianka	subst:sg:gen:f	nazwa pospolita	
+lubanianko	lubanianka	subst:sg:voc:f	nazwa pospolita	
+lubaniankom	lubanianka	subst:pl:dat:f	nazwa pospolita	
 lubańscy	lubański	adj:pl:nom.voc:m1:pos		
 lubańska	lubański	adj:sg:nom.voc:f:pos		
 lubańską	lubański	adj:sg:acc:f:pos		
@@ -47965,6 +48138,29 @@ lubańskości	lubańskość	subst:sg:voc:f	nazwa pospolita
 lubańskościom	lubańskość	subst:pl:dat:f	nazwa pospolita	
 lubańskość	lubańskość	subst:sg:acc:f	nazwa pospolita	
 lubańskość	lubańskość	subst:sg:nom:f	nazwa pospolita	
+lubartowianach	lubartowianin	subst:pl:loc:m1	nazwa pospolita	
+lubartowianami	lubartowianin	subst:pl:inst:m1	nazwa pospolita	
+lubartowianie	lubartowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+lubartowianina	lubartowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+lubartowianinem	lubartowianin	subst:sg:inst:m1	nazwa pospolita	
+lubartowianinie	lubartowianin	subst:sg:loc:m1	nazwa pospolita	
+lubartowianinie	lubartowianin	subst:sg:voc:m1	nazwa pospolita	
+lubartowianin	lubartowianin	subst:sg:nom:m1	nazwa pospolita	
+lubartowianinowi	lubartowianin	subst:sg:dat:m1	nazwa pospolita	
+lubartowian	lubartowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+lubartowianom	lubartowianin	subst:pl:dat:m1	nazwa pospolita	
+lubartowiany	lubartowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+lubartowiance	lubartowianka	subst:sg:dat.loc:f	nazwa pospolita	
+lubartowianek	lubartowianka	subst:pl:gen:f	nazwa pospolita	
+lubartowiankach	lubartowianka	subst:pl:loc:f	nazwa pospolita	
+lubartowianka	lubartowianka	subst:sg:nom:f	nazwa pospolita	
+lubartowiankami	lubartowianka	subst:pl:inst:f	nazwa pospolita	
+lubartowianką	lubartowianka	subst:sg:inst:f	nazwa pospolita	
+lubartowiankę	lubartowianka	subst:sg:acc:f	nazwa pospolita	
+lubartowianki	lubartowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+lubartowianki	lubartowianka	subst:sg:gen:f	nazwa pospolita	
+lubartowianko	lubartowianka	subst:sg:voc:f	nazwa pospolita	
+lubartowiankom	lubartowianka	subst:pl:dat:f	nazwa pospolita	
 lubartowscy	lubartowski	adj:pl:nom.voc:m1:pos		
 lubartowska	lubartowski	adj:sg:nom.voc:f:pos		
 lubartowską	lubartowski	adj:sg:acc:f:pos		
@@ -48683,6 +48879,29 @@ lubieżnymi	lubieżny	adj:pl:inst:m1.m2.m3.f.n:pos
 lubieżnym	lubieżny	adj:pl:dat:m1.m2.m3.f.n:pos		
 lubieżnym	lubieżny	adj:sg:inst:m1.m2.m3.n:pos		
 lubieżnym	lubieżny	adj:sg:loc:m1.m2.m3.n:pos		
+lubinianach	lubinianin	subst:pl:loc:m1	nazwa pospolita	
+lubinianami	lubinianin	subst:pl:inst:m1	nazwa pospolita	
+lubinianie	lubinianin	subst:pl:nom.voc:m1	nazwa pospolita	
+lubinianina	lubinianin	subst:sg:gen.acc:m1	nazwa pospolita	
+lubinianinem	lubinianin	subst:sg:inst:m1	nazwa pospolita	
+lubinianinie	lubinianin	subst:sg:loc:m1	nazwa pospolita	
+lubinianinie	lubinianin	subst:sg:voc:m1	nazwa pospolita	
+lubinianin	lubinianin	subst:sg:nom:m1	nazwa pospolita	
+lubinianinowi	lubinianin	subst:sg:dat:m1	nazwa pospolita	
+lubinian	lubinianin	subst:pl:gen.acc:m1	nazwa pospolita	
+lubinianom	lubinianin	subst:pl:dat:m1	nazwa pospolita	
+lubiniany	lubinianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+lubiniance	lubinianka	subst:sg:dat.loc:f	nazwa pospolita	
+lubinianek	lubinianka	subst:pl:gen:f	nazwa pospolita	
+lubiniankach	lubinianka	subst:pl:loc:f	nazwa pospolita	
+lubinianka	lubinianka	subst:sg:nom:f	nazwa pospolita	
+lubiniankami	lubinianka	subst:pl:inst:f	nazwa pospolita	
+lubinianką	lubinianka	subst:sg:inst:f	nazwa pospolita	
+lubiniankę	lubinianka	subst:sg:acc:f	nazwa pospolita	
+lubinianki	lubinianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+lubinianki	lubinianka	subst:sg:gen:f	nazwa pospolita	
+lubinianko	lubinianka	subst:sg:voc:f	nazwa pospolita	
+lubiniankom	lubinianka	subst:pl:dat:f	nazwa pospolita	
 lubińscy	lubiński	adj:pl:nom.voc:m1:pos		
 lubińska	lubiński	adj:sg:nom.voc:f:pos		
 lubińską	lubiński	adj:sg:acc:f:pos		
@@ -48840,6 +49059,17 @@ lublinianinowi	lublinianin	subst:sg:dat:m1	nazwa pospolita
 lublinian	lublinianin	subst:pl:gen.acc:m1	nazwa pospolita	
 lublinianom	lublinianin	subst:pl:dat:m1	nazwa pospolita	
 lubliniany	lublinianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+lubliniance	lublinianka	subst:sg:dat.loc:f	nazwa pospolita	
+lublinianek	lublinianka	subst:pl:gen:f	nazwa pospolita	
+lubliniankach	lublinianka	subst:pl:loc:f	nazwa pospolita	
+lublinianka	lublinianka	subst:sg:nom:f	nazwa pospolita	
+lubliniankami	lublinianka	subst:pl:inst:f	nazwa pospolita	
+lublinianką	lublinianka	subst:sg:inst:f	nazwa pospolita	
+lubliniankę	lublinianka	subst:sg:acc:f	nazwa pospolita	
+lublinianki	lublinianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+lublinianki	lublinianka	subst:sg:gen:f	nazwa pospolita	
+lublinianko	lublinianka	subst:sg:voc:f	nazwa pospolita	
+lubliniankom	lublinianka	subst:pl:dat:f	nazwa pospolita	
 lublinieccy	lubliniecki	adj:pl:nom.voc:m1:pos		
 lubliniecka	lubliniecki	adj:sg:nom.voc:f:pos		
 lubliniecką	lubliniecki	adj:sg:acc:f:pos		
@@ -48888,6 +49118,29 @@ lublinitowi	lublinit	subst:sg:dat:m3	nazwa pospolita
 lublinitów	lublinit	subst:pl:gen:m3	nazwa pospolita	
 lublinitu	lublinit	subst:sg:gen:m3	nazwa pospolita	
 lublinity	lublinit	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+lublińczanach	lublińczanin	subst:pl:loc:m1	nazwa pospolita	
+lublińczanami	lublińczanin	subst:pl:inst:m1	nazwa pospolita	
+lublińczanie	lublińczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+lublińczanina	lublińczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+lublińczaninem	lublińczanin	subst:sg:inst:m1	nazwa pospolita	
+lublińczaninie	lublińczanin	subst:sg:loc:m1	nazwa pospolita	
+lublińczaninie	lublińczanin	subst:sg:voc:m1	nazwa pospolita	
+lublińczanin	lublińczanin	subst:sg:nom:m1	nazwa pospolita	
+lublińczaninowi	lublińczanin	subst:sg:dat:m1	nazwa pospolita	
+lublińczan	lublińczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+lublińczanom	lublińczanin	subst:pl:dat:m1	nazwa pospolita	
+lublińczany	lublińczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+lublińczance	lublińczanka	subst:sg:dat.loc:f	nazwa pospolita	
+lublińczanek	lublińczanka	subst:pl:gen:f	nazwa pospolita	
+lublińczankach	lublińczanka	subst:pl:loc:f	nazwa pospolita	
+lublińczanka	lublińczanka	subst:sg:nom:f	nazwa pospolita	
+lublińczankami	lublińczanka	subst:pl:inst:f	nazwa pospolita	
+lublińczanką	lublińczanka	subst:sg:inst:f	nazwa pospolita	
+lublińczankę	lublińczanka	subst:sg:acc:f	nazwa pospolita	
+lublińczanki	lublińczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+lublińczanki	lublińczanka	subst:sg:gen:f	nazwa pospolita	
+lublińczanko	lublińczanka	subst:sg:voc:f	nazwa pospolita	
+lublińczankom	lublińczanka	subst:pl:dat:f	nazwa pospolita	
 lubniewiccy	lubniewicki	adj:pl:nom.voc:m1:pos		
 lubniewicka	lubniewicki	adj:sg:nom.voc:f:pos		
 lubniewicką	lubniewicki	adj:sg:acc:f:pos		
@@ -55753,6 +56006,17 @@ lwowianinowi	lwowianin	subst:sg:dat:m1	nazwa pospolita
 lwowian	lwowianin	subst:pl:gen.acc:m1	nazwa pospolita	
 lwowianom	lwowianin	subst:pl:dat:m1	nazwa pospolita	
 lwowiany	lwowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+lwowiance	lwowianka	subst:sg:dat.loc:f	nazwa pospolita	
+lwowianek	lwowianka	subst:pl:gen:f	nazwa pospolita	
+lwowiankach	lwowianka	subst:pl:loc:f	nazwa pospolita	
+lwowianka	lwowianka	subst:sg:nom:f	nazwa pospolita	
+lwowiankami	lwowianka	subst:pl:inst:f	nazwa pospolita	
+lwowianką	lwowianka	subst:sg:inst:f	nazwa pospolita	
+lwowiankę	lwowianka	subst:sg:acc:f	nazwa pospolita	
+lwowianki	lwowianka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+lwowianki	lwowianka	subst:sg:gen:f	nazwa pospolita	
+lwowianko	lwowianka	subst:sg:voc:f	nazwa pospolita	
+lwowiankom	lwowianka	subst:pl:dat:f	nazwa pospolita	
 lwowscy	lwowski	adj:pl:nom.voc:m1:pos		
 lwowska	lwowski	adj:sg:nom.voc:f:pos		
 lwowską	lwowski	adj:sg:acc:f:pos		
