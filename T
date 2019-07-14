@@ -4491,6 +4491,50 @@ Tristanów	Tristan	subst:pl:gen:m1	imię
 Tristan	Tristan	subst:sg:nom:m1	imię	
 Tristany	Tristan	depr:pl:nom:m2	imię	
 Tristany	Tristan	depr:pl:voc:m2	imię	
+Trobriandczycy	Trobriandczyk	subst:pl:nom:m1	nazwa pospolita	etn.
+Trobriandczycy	Trobriandczyk	subst:pl:voc:m1	nazwa pospolita	etn.
+Trobriandczykach	Trobriandczyk	subst:pl:loc:m1	nazwa pospolita	etn.
+Trobriandczykami	Trobriandczyk	subst:pl:inst:m1	nazwa pospolita	etn.
+Trobriandczyka	Trobriandczyk	subst:sg:acc:m1	nazwa pospolita	etn.
+Trobriandczyka	Trobriandczyk	subst:sg:gen:m1	nazwa pospolita	etn.
+Trobriandczykiem	Trobriandczyk	subst:sg:inst:m1	nazwa pospolita	etn.
+Trobriandczyki	Trobriandczyk	depr:pl:nom:m2	nazwa pospolita	etn.
+Trobriandczyki	Trobriandczyk	depr:pl:voc:m2	nazwa pospolita	etn.
+Trobriandczykom	Trobriandczyk	subst:pl:dat:m1	nazwa pospolita	etn.
+Trobriandczykowi	Trobriandczyk	subst:sg:dat:m1	nazwa pospolita	etn.
+Trobriandczyków	Trobriandczyk	subst:pl:acc:m1	nazwa pospolita	etn.
+Trobriandczyków	Trobriandczyk	subst:pl:gen:m1	nazwa pospolita	etn.
+Trobriandczyk	Trobriandczyk	subst:sg:nom:m1	nazwa pospolita	etn.
+Trobriandczyku	Trobriandczyk	subst:sg:loc:m1	nazwa pospolita	etn.
+Trobriandczyku	Trobriandczyk	subst:sg:voc:m1	nazwa pospolita	etn.
+Trobriandce	Trobriandka	subst:sg:dat:f	nazwa pospolita	etn.
+Trobriandce	Trobriandka	subst:sg:loc:f	nazwa pospolita	etn.
+Trobriandek	Trobriandka	subst:pl:gen:f	nazwa pospolita	etn.
+Trobriandkach	Trobriandka	subst:pl:loc:f	nazwa pospolita	etn.
+Trobriandkami	Trobriandka	subst:pl:inst:f	nazwa pospolita	etn.
+Trobriandka	Trobriandka	subst:sg:nom:f	nazwa pospolita	etn.
+Trobriandką	Trobriandka	subst:sg:inst:f	nazwa pospolita	etn.
+Trobriandkę	Trobriandka	subst:sg:acc:f	nazwa pospolita	etn.
+Trobriandki	Trobriandka	subst:pl:acc:f	nazwa pospolita	etn.
+Trobriandki	Trobriandka	subst:pl:nom:f	nazwa pospolita	etn.
+Trobriandki	Trobriandka	subst:pl:voc:f	nazwa pospolita	etn.
+Trobriandki	Trobriandka	subst:sg:gen:f	nazwa pospolita	etn.
+Trobriandkom	Trobriandka	subst:pl:dat:f	nazwa pospolita	etn.
+Trobriandko	Trobriandka	subst:sg:voc:f	nazwa pospolita	etn.
+Trobriandach	Trobriandy	subst:pl:loc:p2	nazwa geograficzna	rzad.
+Trobriandach	Trobriandy	subst:pl:loc:p3	nazwa geograficzna	
+Trobriandami	Trobriandy	subst:pl:inst:p2	nazwa geograficzna	rzad.
+Trobriandami	Trobriandy	subst:pl:inst:p3	nazwa geograficzna	
+Trobriandom	Trobriandy	subst:pl:dat:p2	nazwa geograficzna	rzad.
+Trobriandom	Trobriandy	subst:pl:dat:p3	nazwa geograficzna	
+Trobriandów	Trobriandy	subst:pl:gen:p2	nazwa geograficzna	rzad.
+Trobriandów	Trobriandy	subst:pl:gen:p3	nazwa geograficzna	
+Trobriandy	Trobriandy	subst:pl:acc:p2	nazwa geograficzna	rzad.
+Trobriandy	Trobriandy	subst:pl:acc:p3	nazwa geograficzna	
+Trobriandy	Trobriandy	subst:pl:nom:p2	nazwa geograficzna	rzad.
+Trobriandy	Trobriandy	subst:pl:nom:p3	nazwa geograficzna	
+Trobriandy	Trobriandy	subst:pl:voc:p2	nazwa geograficzna	rzad.
+Trobriandy	Trobriandy	subst:pl:voc:p3	nazwa geograficzna	
 Trocka	Trocka	subst:sg:nom:f	nazwisko	
 Trocka	Trocka	subst:sg:voc:f	nazwisko	
 Trocką	Trocka	subst:sg:acc:f	nazwisko	
