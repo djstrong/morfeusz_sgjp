@@ -37924,6 +37924,17 @@ Pjongczang	Pjongczang	subst:sg:nom.acc:m3	nazwa geograficzna
 Pjongczangu	Pjongczang	subst:sg:gen:m3	nazwa geograficzna	
 Pjongczangu	Pjongczang	subst:sg:loc:m3	nazwa geograficzna	
 Pjongczangu	Pjongczang	subst:sg:voc:m3	nazwa geograficzna	
+Pjongjangach	Pjongjang	subst:pl:loc:m3	nazwa geograficzna	
+Pjongjangami	Pjongjang	subst:pl:inst:m3	nazwa geograficzna	
+Pjongjangiem	Pjongjang	subst:sg:inst:m3	nazwa geograficzna	
+Pjongjangi	Pjongjang	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Pjongjangom	Pjongjang	subst:pl:dat:m3	nazwa geograficzna	
+Pjongjangowi	Pjongjang	subst:sg:dat:m3	nazwa geograficzna	
+Pjongjangów	Pjongjang	subst:pl:gen:m3	nazwa geograficzna	
+Pjongjang	Pjongjang	subst:sg:nom.acc:m3	nazwa geograficzna	
+Pjongjangu	Pjongjang	subst:sg:gen:m3	nazwa geograficzna	
+Pjongjangu	Pjongjang	subst:sg:loc:m3	nazwa geograficzna	
+Pjongjangu	Pjongjang	subst:sg:voc:m3	nazwa geograficzna	
 PK	PK	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa instytucji	
 PK	PK	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa instytucji	
 PKB	PKB	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
@@ -65538,6 +65549,16 @@ Przedborskim	Przedborski	subst:sg:inst:m1	nazwisko
 Przedborskim	Przedborski	subst:sg:loc:m1	nazwisko	
 Przedborski	Przedborski	subst:sg:nom:m1	nazwisko	
 Przedborski	Przedborski	subst:sg:voc:m1	nazwisko	
+Przedkaukaziach	Przedkaukazie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Przedkaukaziami	Przedkaukazie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Przedkaukazia	Przedkaukazie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Przedkaukazia	Przedkaukazie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Przedkaukaziem	Przedkaukazie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Przedkaukazie	Przedkaukazie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Przedkaukaziom	Przedkaukazie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Przedkaukazi	Przedkaukazie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Przedkaukaziu	Przedkaukazie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Przedkaukaziu	Przedkaukazie	subst:sg:loc:n:ncol	nazwa geograficzna	
 Przedlacka	Przedlacka	subst:sg:nom:f	nazwisko	
 Przedlacka	Przedlacka	subst:sg:voc:f	nazwisko	
 Przedlacką	Przedlacka	subst:sg:acc:f	nazwisko	
