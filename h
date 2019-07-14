@@ -21512,17 +21512,17 @@ hetki	hetka	subst:pl:nom.acc.voc:f	nazwa_pospolita
 hetki	hetka	subst:sg:gen:f	nazwa_pospolita	
 hetko	hetka	subst:sg:voc:f	nazwa_pospolita	
 hetkom	hetka	subst:pl:dat:f	nazwa_pospolita	
-hetka-pętelce	hetka-pętelka	subst:sg:dat.loc:f	nazwa_pospolita	przest._dziś_książk.
-hetka-pętelek	hetka-pętelka	subst:pl:gen:f	nazwa_pospolita	przest._dziś_książk.
-hetka-pętelkach	hetka-pętelka	subst:pl:loc:f	nazwa_pospolita	przest._dziś_książk.
+hetce-pętelce	hetka-pętelka	subst:sg:dat.loc:f	nazwa_pospolita	przest._dziś_książk.
+hetek-pętelek	hetka-pętelka	subst:pl:gen:f	nazwa_pospolita	przest._dziś_książk.
+hetkach-pętelkach	hetka-pętelka	subst:pl:loc:f	nazwa_pospolita	przest._dziś_książk.
+hetkami-pętelkami	hetka-pętelka	subst:pl:inst:f	nazwa_pospolita	przest._dziś_książk.
 hetka-pętelka	hetka-pętelka	subst:sg:nom:f	nazwa_pospolita	przest._dziś_książk.
-hetka-pętelkami	hetka-pętelka	subst:pl:inst:f	nazwa_pospolita	przest._dziś_książk.
-hetka-pętelką	hetka-pętelka	subst:sg:inst:f	nazwa_pospolita	przest._dziś_książk.
-hetka-pętelkę	hetka-pętelka	subst:sg:acc:f	nazwa_pospolita	przest._dziś_książk.
-hetka-pętelki	hetka-pętelka	subst:pl:nom.acc.voc:f	nazwa_pospolita	przest._dziś_książk.
-hetka-pętelki	hetka-pętelka	subst:sg:gen:f	nazwa_pospolita	przest._dziś_książk.
-hetka-pętelko	hetka-pętelka	subst:sg:voc:f	nazwa_pospolita	przest._dziś_książk.
-hetka-pętelkom	hetka-pętelka	subst:pl:dat:f	nazwa_pospolita	przest._dziś_książk.
+hetką-pętelką	hetka-pętelka	subst:sg:inst:f	nazwa_pospolita	przest._dziś_książk.
+hetkę-pętelkę	hetka-pętelka	subst:sg:acc:f	nazwa_pospolita	przest._dziś_książk.
+hetki-pętelki	hetka-pętelka	subst:pl:nom.acc.voc:f	nazwa_pospolita	przest._dziś_książk.
+hetki-pętelki	hetka-pętelka	subst:sg:gen:f	nazwa_pospolita	przest._dziś_książk.
+hetkom-pętelkom	hetka-pętelka	subst:pl:dat:f	nazwa_pospolita	przest._dziś_książk.
+hetko-pętelko	hetka-pętelka	subst:sg:voc:f	nazwa_pospolita	przest._dziś_książk.
 hetmanicach	hetmanic	subst:pl:loc:m1	nazwa_pospolita	daw.
 hetmanica	hetmanic	subst:sg:gen.acc:m1	nazwa_pospolita	daw.
 hetmanicami	hetmanic	subst:pl:inst:m1	nazwa_pospolita	daw.
