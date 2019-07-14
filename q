@@ -3,7 +3,6 @@ quadach	quad	subst:pl:loc:m3	nazwa pospolita
 quadami	quad	subst:pl:inst:m2	nazwa pospolita	
 quadami	quad	subst:pl:inst:m3	nazwa pospolita	
 quada	quad	subst:sg:gen.acc:m2	nazwa pospolita	
-quada	quad	subst:sg:gen:m2	nazwa pospolita	
 quada	quad	subst:sg:gen:m3	nazwa pospolita	
 quadem	quad	subst:sg:inst:m2	nazwa pospolita	
 quadem	quad	subst:sg:inst:m3	nazwa pospolita	
@@ -24,7 +23,6 @@ quadzie	quad	subst:sg:voc:m3	nazwa pospolita
 quadowcach	quadowiec	subst:pl:loc:m1	nazwa pospolita	
 quadowcami	quadowiec	subst:pl:inst:m1	nazwa pospolita	
 quadowca	quadowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-quadowca	quadowiec	subst:sg:gen:m1	nazwa pospolita	
 quadowcem	quadowiec	subst:sg:inst:m1	nazwa pospolita	
 quadowce	quadowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 quadowcom	quadowiec	subst:pl:dat:m1	nazwa pospolita	
@@ -84,7 +82,6 @@ quasimodach	quasimodo	subst:pl:loc:m1	nazwa pospolita
 quasimodami	quasimodo	subst:pl:inst:m1	nazwa pospolita	
 quasimoda	quasimodo	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 quasimoda	quasimodo	subst:sg:gen.acc:m1	nazwa pospolita	
-quasimoda	quasimodo	subst:sg:gen:m1	nazwa pospolita	
 quasimodem	quasimodo	subst:sg:inst:m1	nazwa pospolita	
 quasimodom	quasimodo	subst:pl:dat:m1	nazwa pospolita	
 quasimodo	quasimodo	subst:sg:nom:m1	nazwa pospolita	
@@ -190,7 +187,6 @@ queerowy	queerowy	adj:sg:nom.voc:m1.m2.m3:pos
 quetzalach	quetzal	subst:pl:loc:m2	nazwa pospolita	
 quetzalami	quetzal	subst:pl:inst:m2	nazwa pospolita	
 quetzala	quetzal	subst:sg:gen.acc:m2	nazwa pospolita	
-quetzala	quetzal	subst:sg:gen:m2	nazwa pospolita	
 quetzalem	quetzal	subst:sg:inst:m2	nazwa pospolita	
 quetzale	quetzal	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 quetzali	quetzal	subst:pl:gen:m2	nazwa pospolita	
@@ -213,7 +209,6 @@ quiche’u	quiche	subst:sg:voc:m3	nazwa pospolita
 quickstepach	quickstep	subst:pl:loc:m2	nazwa pospolita	
 quickstepami	quickstep	subst:pl:inst:m2	nazwa pospolita	
 quickstepa	quickstep	subst:sg:gen.acc:m2	nazwa pospolita	
-quickstepa	quickstep	subst:sg:gen:m2	nazwa pospolita	
 quickstepem	quickstep	subst:sg:inst:m2	nazwa pospolita	
 quickstepie	quickstep	subst:sg:loc:m2	nazwa pospolita	
 quickstepie	quickstep	subst:sg:voc:m2	nazwa pospolita	

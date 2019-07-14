@@ -7,7 +7,6 @@ ja	ja	ppron12:sg:nom:m1.m2.m3.f.n:pri
 jabcokach	jabcok	subst:pl:loc:m2	nazwa pospolita	pot.
 jabcokach	jabcok	subst:pl:loc:m3	nazwa pospolita	pot.
 jabcoka	jabcok	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-jabcoka	jabcok	subst:sg:gen:m2	nazwa pospolita	pot.
 jabcoka	jabcok	subst:sg:gen:m3	nazwa pospolita	pot.
 jabcokami	jabcok	subst:pl:inst:m2	nazwa pospolita	pot.
 jabcokami	jabcok	subst:pl:inst:m3	nazwa pospolita	pot.
@@ -88,7 +87,6 @@ jabłczanym	jabłczany	adj:sg:loc:m1.m2.m3.n:pos
 jabłecznikach	jabłecznik	subst:pl:loc:m2	nazwa pospolita	pot.
 jabłecznikach	jabłecznik	subst:pl:loc:m3	nazwa pospolita	
 jabłecznika	jabłecznik	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-jabłecznika	jabłecznik	subst:sg:gen:m2	nazwa pospolita	pot.
 jabłecznika	jabłecznik	subst:sg:gen:m3	nazwa pospolita	
 jabłecznikami	jabłecznik	subst:pl:inst:m2	nazwa pospolita	pot.
 jabłecznikami	jabłecznik	subst:pl:inst:m3	nazwa pospolita	
@@ -200,7 +198,6 @@ jabłkowym	jabłkowe	subst:sg:inst:n:ncol	nazwa pospolita
 jabłkowym	jabłkowe	subst:sg:loc:n:ncol	nazwa pospolita	
 jabłkowcach	jabłkowiec	subst:pl:loc:m2	nazwa pospolita	
 jabłkowca	jabłkowiec	subst:sg:gen.acc:m2	nazwa pospolita	
-jabłkowca	jabłkowiec	subst:sg:gen:m2	nazwa pospolita	
 jabłkowcami	jabłkowiec	subst:pl:inst:m2	nazwa pospolita	
 jabłkowce	jabłkowiec	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jabłkowcem	jabłkowiec	subst:sg:inst:m2	nazwa pospolita	
@@ -638,7 +635,6 @@ jabłuszku	jabłuszko	subst:sg:loc:n:ncol	nazwa pospolita
 jabolach	jabol	subst:pl:loc:m2	nazwa pospolita	
 jabolach	jabol	subst:pl:loc:m3	nazwa pospolita	rzad.
 jabola	jabol	subst:sg:gen.acc:m2	nazwa pospolita	
-jabola	jabol	subst:sg:gen:m2	nazwa pospolita	
 jabola	jabol	subst:sg:gen:m3	nazwa pospolita	rzad.
 jabolami	jabol	subst:pl:inst:m2	nazwa pospolita	
 jabolami	jabol	subst:pl:inst:m3	nazwa pospolita	rzad.
@@ -915,7 +911,6 @@ jadzie	jad	subst:sg:loc:m3	nazwa pospolita
 jadzie	jad	subst:sg:voc:m3	nazwa pospolita	
 jadaczach	jadacz	subst:pl:loc:m1	nazwa pospolita	
 jadacza	jadacz	subst:sg:gen.acc:m1	nazwa pospolita	
-jadacza	jadacz	subst:sg:gen:m1	nazwa pospolita	
 jadaczami	jadacz	subst:pl:inst:m1	nazwa pospolita	
 jadacze	jadacz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jadacze	jadacz	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -1848,7 +1843,6 @@ jagły	jagła	subst:pl:nom.acc.voc:f	nazwa pospolita
 jagły	jagła	subst:sg:gen:f	nazwa pospolita	
 jagniakach	jagniak	subst:pl:loc:m2	nazwa pospolita	gwar.
 jagniaka	jagniak	subst:sg:gen.acc:m2	nazwa pospolita	gwar.
-jagniaka	jagniak	subst:sg:gen:m2	nazwa pospolita	gwar.
 jagniakami	jagniak	subst:pl:inst:m2	nazwa pospolita	gwar.
 jagniakiem	jagniak	subst:sg:inst:m2	nazwa pospolita	gwar.
 jagniaki	jagniak	subst:pl:nom.acc.voc:m2	nazwa pospolita	gwar.
@@ -2284,7 +2278,6 @@ jagódko	jagódka	subst:sg:voc:f	nazwa pospolita
 jagódkom	jagódka	subst:pl:dat:f	nazwa pospolita	
 jaguarach	jaguar	subst:pl:loc:m2	nazwa pospolita	
 jaguara	jaguar	subst:sg:gen.acc:m2	nazwa pospolita	
-jaguara	jaguar	subst:sg:gen:m2	nazwa pospolita	
 jaguarami	jaguar	subst:pl:inst:m2	nazwa pospolita	
 jaguarem	jaguar	subst:sg:inst:m2	nazwa pospolita	
 jaguar	jaguar	subst:sg:nom:m2	nazwa pospolita	
@@ -2303,8 +2296,6 @@ jajarzach	jajarz	subst:pl:loc:m1	nazwa pospolita
 jajarzach	jajarz	subst:pl:loc:m1	nazwa pospolita	rzad.
 jajarza	jajarz	subst:sg:gen.acc:m1	nazwa pospolita	
 jajarza	jajarz	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
-jajarza	jajarz	subst:sg:gen:m1	nazwa pospolita	
-jajarza	jajarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 jajarzami	jajarz	subst:pl:inst:m1	nazwa pospolita	
 jajarzami	jajarz	subst:pl:inst:m1	nazwa pospolita	rzad.
 jajarze	jajarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -2383,8 +2374,6 @@ jajcarzach	jajcarz	subst:pl:loc:m1	nazwa pospolita	pot.
 jajcarzach	jajcarz	subst:pl:loc:m1	nazwa pospolita	rzad.|pot.
 jajcarza	jajcarz	subst:sg:gen.acc:m1	nazwa pospolita	pot.
 jajcarza	jajcarz	subst:sg:gen.acc:m1	nazwa pospolita	rzad.|pot.
-jajcarza	jajcarz	subst:sg:gen:m1	nazwa pospolita	pot.
-jajcarza	jajcarz	subst:sg:gen:m1	nazwa pospolita	rzad.|pot.
 jajcarzami	jajcarz	subst:pl:inst:m1	nazwa pospolita	pot.
 jajcarzami	jajcarz	subst:pl:inst:m1	nazwa pospolita	rzad.|pot.
 jajcarze	jajcarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
@@ -3396,7 +3385,6 @@ jakobickość	jakobickość	subst:sg:acc:f	nazwa pospolita
 jakobickość	jakobickość	subst:sg:nom:f	nazwa pospolita	
 jakobinach	jakobin	subst:pl:loc:m1	nazwa pospolita	
 jakobina	jakobin	subst:sg:gen.acc:m1	nazwa pospolita	
-jakobina	jakobin	subst:sg:gen:m1	nazwa pospolita	
 jakobinami	jakobin	subst:pl:inst:m1	nazwa pospolita	
 jakobinem	jakobin	subst:sg:inst:m1	nazwa pospolita	
 jakobinie	jakobin	subst:sg:loc:m1	nazwa pospolita	
@@ -3477,7 +3465,6 @@ jakobito	jakobita	subst:sg:voc:m1	nazwa pospolita
 jakobitom	jakobita	subst:pl:dat:m1	nazwa pospolita	
 jakobitów	jakobita	subst:pl:gen.acc:m1	nazwa pospolita	
 jakobity	jakobita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-jakobity	jakobita	subst:sg:gen:m1	nazwa pospolita	
 jakoby	jakoby:c	comp		książk.
 jakoby	jakoby:q	qub		książk.
 jako	jako:c	comp		przest.
@@ -3706,7 +3693,6 @@ jakożkolwiek	jakożkolwiek	comp		daw.
 jak	jak:p	prep:nom		
 jakach	jak:s	subst:pl:loc:m2	nazwa pospolita	zool.
 jaka	jak:s	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jaka	jak:s	subst:sg:gen:m2	nazwa pospolita	zool.
 jakami	jak:s	subst:pl:inst:m2	nazwa pospolita	zool.
 jakiem	jak:s	subst:sg:inst:m2	nazwa pospolita	zool.
 jaki	jak:s	subst:pl:nom.acc.voc:m2	nazwa pospolita	zool.
@@ -3766,7 +3752,6 @@ jaktorowskość	jaktorowskość	subst:sg:acc:f	nazwa pospolita
 jaktorowskość	jaktorowskość	subst:sg:nom:f	nazwa pospolita	
 jakubinach	jakubin	subst:pl:loc:m1	nazwa pospolita	daw.
 jakubina	jakubin	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-jakubina	jakubin	subst:sg:gen:m1	nazwa pospolita	daw.
 jakubinami	jakubin	subst:pl:inst:m1	nazwa pospolita	daw.
 jakubinem	jakubin	subst:sg:inst:m1	nazwa pospolita	daw.
 jakubinie	jakubin	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -3908,7 +3893,6 @@ jakuzom	jakuza:s1	subst:pl:dat:m1	nazwa pospolita
 jakuzowie	jakuza:s1	subst:pl:nom.voc:m1	nazwa pospolita	
 jakuzów	jakuza:s1	subst:pl:gen.acc:m1	nazwa pospolita	
 jakuzy	jakuza:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-jakuzy	jakuza:s1	subst:sg:gen:m1	nazwa pospolita	
 jakuzach	jakuza:s2	subst:pl:loc:f	nazwa pospolita	
 jakuza	jakuza:s2	subst:sg:nom:f	nazwa pospolita	
 jakuzami	jakuza:s2	subst:pl:inst:f	nazwa pospolita	
@@ -4006,7 +3990,6 @@ jałmużniczym	jałmużniczy	adj:sg:loc:m1.m2.m3.n:pos
 jałmużnicy	jałmużnik	subst:pl:nom.voc:m1	nazwa pospolita	
 jałmużnikach	jałmużnik	subst:pl:loc:m1	nazwa pospolita	
 jałmużnika	jałmużnik	subst:sg:gen.acc:m1	nazwa pospolita	
-jałmużnika	jałmużnik	subst:sg:gen:m1	nazwa pospolita	
 jałmużnikami	jałmużnik	subst:pl:inst:m1	nazwa pospolita	
 jałmużnikiem	jałmużnik	subst:sg:inst:m1	nazwa pospolita	
 jałmużniki	jałmużnik	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -4249,7 +4232,6 @@ jałówmy	jałowić	impt:pl:pri:imperf
 jałowcach	jałowiec	subst:pl:loc:m2	nazwa pospolita	bot.|pot.
 jałowcach	jałowiec	subst:pl:loc:m3	nazwa pospolita	bot.
 jałowca	jałowiec	subst:sg:gen.acc:m2	nazwa pospolita	bot.|pot.
-jałowca	jałowiec	subst:sg:gen:m2	nazwa pospolita	bot.|pot.
 jałowca	jałowiec	subst:sg:gen:m3	nazwa pospolita	bot.
 jałowcami	jałowiec	subst:pl:inst:m2	nazwa pospolita	bot.|pot.
 jałowcami	jałowiec	subst:pl:inst:m3	nazwa pospolita	bot.
@@ -4711,7 +4693,6 @@ jamkom	jamka	subst:pl:dat:f	nazwa pospolita
 jamniczek	jamniczek	subst:sg:nom:m2	nazwa pospolita	
 jamniczkach	jamniczek	subst:pl:loc:m2	nazwa pospolita	
 jamniczka	jamniczek	subst:sg:gen.acc:m2	nazwa pospolita	
-jamniczka	jamniczek	subst:sg:gen:m2	nazwa pospolita	
 jamniczkami	jamniczek	subst:pl:inst:m2	nazwa pospolita	
 jamniczkiem	jamniczek	subst:sg:inst:m2	nazwa pospolita	
 jamniczki	jamniczek	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -4757,7 +4738,6 @@ jamniczym	jamniczy	adj:sg:inst:m1.m2.m3.n:pos
 jamniczym	jamniczy	adj:sg:loc:m1.m2.m3.n:pos		
 jamnikach	jamnik	subst:pl:loc:m2	nazwa pospolita	zool.
 jamnika	jamnik	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jamnika	jamnik	subst:sg:gen:m2	nazwa pospolita	zool.
 jamnikami	jamnik	subst:pl:inst:m2	nazwa pospolita	zool.
 jamnikiem	jamnik	subst:sg:inst:m2	nazwa pospolita	zool.
 jamniki	jamnik	subst:pl:nom.acc.voc:m2	nazwa pospolita	zool.
@@ -4805,7 +4785,6 @@ jamnikowatym	jamnikowaty	adj:sg:inst:m1.m2.m3.n:pos
 jamnikowatym	jamnikowaty	adj:sg:loc:m1.m2.m3.n:pos		
 jamochłonach	jamochłon	subst:pl:loc:m2	nazwa pospolita	zool.
 jamochłona	jamochłon	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jamochłona	jamochłon	subst:sg:gen:m2	nazwa pospolita	zool.
 jamochłonami	jamochłon	subst:pl:inst:m2	nazwa pospolita	zool.
 jamochłonem	jamochłon	subst:sg:inst:m2	nazwa pospolita	zool.
 jamochłonie	jamochłon	subst:sg:loc:m2	nazwa pospolita	zool.
@@ -4887,7 +4866,6 @@ jamowym	jamowy	adj:sg:inst:m1.m2.m3.n:pos
 jamowym	jamowy	adj:sg:loc:m1.m2.m3.n:pos		
 jamrajach	jamraj	subst:pl:loc:m2	nazwa pospolita	
 jamraja	jamraj	subst:sg:gen.acc:m2	nazwa pospolita	
-jamraja	jamraj	subst:sg:gen:m2	nazwa pospolita	
 jamrajami	jamraj	subst:pl:inst:m2	nazwa pospolita	
 jamraje	jamraj	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jamrajem	jamraj	subst:sg:inst:m2	nazwa pospolita	
@@ -4910,7 +4888,6 @@ jamsu	jams	subst:sg:gen:m3	nazwa pospolita
 jamsy	jams	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 janczarach	janczar	subst:pl:loc:m1	nazwa pospolita	
 janczara	janczar	subst:sg:gen.acc:m1	nazwa pospolita	
-janczara	janczar	subst:sg:gen:m1	nazwa pospolita	
 janczarami	janczar	subst:pl:inst:m1	nazwa pospolita	
 janczarem	janczar	subst:sg:inst:m1	nazwa pospolita	
 janczar	janczar	subst:sg:nom:m1	nazwa pospolita	
@@ -4983,7 +4960,6 @@ janczary	janczary	subst:pl:nom.acc.voc:n:pt	nazwa pospolita
 jang	jang	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 janiczarach	janiczar	subst:pl:loc:m1	nazwa pospolita	daw.
 janiczara	janiczar	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-janiczara	janiczar	subst:sg:gen:m1	nazwa pospolita	daw.
 janiczarami	janiczar	subst:pl:inst:m1	nazwa pospolita	daw.
 janiczarem	janiczar	subst:sg:inst:m1	nazwa pospolita	daw.
 janiczar	janiczar	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -5071,7 +5047,6 @@ janisławickość	janisławickość	subst:sg:acc:f	nazwa pospolita
 janisławickość	janisławickość	subst:sg:nom:f	nazwa pospolita	
 jankesach	jankes	subst:pl:loc:m1	nazwa pospolita	pot.|lekcew.
 jankesa	jankes	subst:sg:gen.acc:m1	nazwa pospolita	pot.|lekcew.
-jankesa	jankes	subst:sg:gen:m1	nazwa pospolita	pot.|lekcew.
 jankesami	jankes	subst:pl:inst:m1	nazwa pospolita	pot.|lekcew.
 jankesem	jankes	subst:sg:inst:m1	nazwa pospolita	pot.|lekcew.
 jankesie	jankes	subst:sg:loc:m1	nazwa pospolita	pot.|lekcew.
@@ -5240,7 +5215,6 @@ janowickość	janowickość	subst:sg:nom:f	nazwa pospolita
 janowcach	janowiec	subst:pl:loc:m2	nazwa pospolita	bot.|pot.
 janowcach	janowiec	subst:pl:loc:m3	nazwa pospolita	bot.
 janowca	janowiec	subst:sg:gen.acc:m2	nazwa pospolita	bot.|pot.
-janowca	janowiec	subst:sg:gen:m2	nazwa pospolita	bot.|pot.
 janowca	janowiec	subst:sg:gen:m3	nazwa pospolita	bot.
 janowcami	janowiec	subst:pl:inst:m2	nazwa pospolita	bot.|pot.
 janowcami	janowiec	subst:pl:inst:m3	nazwa pospolita	bot.
@@ -5330,7 +5304,6 @@ jansenisto	jansenista	subst:sg:voc:m1	nazwa pospolita
 jansenistom	jansenista	subst:pl:dat:m1	nazwa pospolita	
 jansenistów	jansenista	subst:pl:gen.acc:m1	nazwa pospolita	
 jansenisty	jansenista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-jansenisty	jansenista	subst:sg:gen:m1	nazwa pospolita	
 janseniście	jansenista	subst:sg:dat.loc:m1	nazwa pospolita	
 janseniści	jansenista	subst:pl:nom.voc:m1	nazwa pospolita	
 jansenistycznościach	jansenistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -5462,7 +5435,6 @@ janusowym	janusowy	adj:sg:inst:m1.m2.m3.n:pos
 janusowym	janusowy	adj:sg:loc:m1.m2.m3.n:pos		
 jańczarach	jańczar	subst:pl:loc:m1	nazwa pospolita	daw.
 jańczara	jańczar	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-jańczara	jańczar	subst:sg:gen:m1	nazwa pospolita	daw.
 jańczarami	jańczar	subst:pl:inst:m1	nazwa pospolita	daw.
 jańczarem	jańczar	subst:sg:inst:m1	nazwa pospolita	daw.
 jańczar	jańczar	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -5487,7 +5459,6 @@ japy	japa	subst:pl:nom.acc.voc:f	nazwa pospolita	przest.
 japy	japa	subst:sg:gen:f	nazwa pospolita	przest.
 japiszonach	japiszon	subst:pl:loc:m1	nazwa pospolita	pot.
 japiszona	japiszon	subst:sg:gen.acc:m1	nazwa pospolita	pot.
-japiszona	japiszon	subst:sg:gen:m1	nazwa pospolita	pot.
 japiszonami	japiszon	subst:pl:inst:m1	nazwa pospolita	pot.
 japiszonem	japiszon	subst:sg:inst:m1	nazwa pospolita	pot.
 japiszonie	japiszon	subst:sg:loc:m1	nazwa pospolita	pot.
@@ -5512,7 +5483,6 @@ japiszonko	japiszonka	subst:sg:voc:f	nazwa pospolita
 japiszonkom	japiszonka	subst:pl:dat:f	nazwa pospolita	
 japokach	japok	subst:pl:loc:m2	nazwa pospolita	
 japoka	japok	subst:sg:gen.acc:m2	nazwa pospolita	
-japoka	japok	subst:sg:gen:m2	nazwa pospolita	
 japokami	japok	subst:pl:inst:m2	nazwa pospolita	
 japokiem	japok	subst:sg:inst:m2	nazwa pospolita	
 japoki	japok	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -5531,7 +5501,6 @@ japonisto	japonista	subst:sg:voc:m1	nazwa pospolita
 japonistom	japonista	subst:pl:dat:m1	nazwa pospolita	
 japonistów	japonista	subst:pl:gen.acc:m1	nazwa pospolita	
 japonisty	japonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-japonisty	japonista	subst:sg:gen:m1	nazwa pospolita	
 japoniście	japonista	subst:sg:dat.loc:m1	nazwa pospolita	
 japoniści	japonista	subst:pl:nom.voc:m1	nazwa pospolita	
 japonistce	japonistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -5616,7 +5585,6 @@ japonkom	japonka	subst:pl:dat:f	nazwa pospolita
 japonolodzy	japonolog	subst:pl:nom.voc:m1	nazwa pospolita	
 japonologach	japonolog	subst:pl:loc:m1	nazwa pospolita	
 japonologa	japonolog	subst:sg:gen.acc:m1	nazwa pospolita	
-japonologa	japonolog	subst:sg:gen:m1	nazwa pospolita	
 japonologami	japonolog	subst:pl:inst:m1	nazwa pospolita	
 japonologiem	japonolog	subst:sg:inst:m1	nazwa pospolita	
 japonologi	japonolog	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -5837,7 +5805,6 @@ jarań	jarać	ger:pl:gen:n:imperf:aff
 jarasz	jarać	fin:sg:sec:imperf		pot.
 jarczakach	jarczak:s1	subst:pl:loc:m2	nazwa pospolita	daw.
 jarczaka	jarczak:s1	subst:sg:gen.acc:m2	nazwa pospolita	daw.
-jarczaka	jarczak:s1	subst:sg:gen:m2	nazwa pospolita	daw.
 jarczakami	jarczak:s1	subst:pl:inst:m2	nazwa pospolita	daw.
 jarczakiem	jarczak:s1	subst:sg:inst:m2	nazwa pospolita	daw.
 jarczaki	jarczak:s1	subst:pl:nom.acc.voc:m2	nazwa pospolita	daw.
@@ -6124,7 +6091,6 @@ jarko	jarka	subst:sg:voc:f	nazwa pospolita
 jarkom	jarka	subst:pl:dat:f	nazwa pospolita	
 jarlach	jarl	subst:pl:loc:m1	nazwa pospolita	
 jarla	jarl	subst:sg:gen.acc:m1	nazwa pospolita	
-jarla	jarl	subst:sg:gen:m1	nazwa pospolita	
 jarlami	jarl	subst:pl:inst:m1	nazwa pospolita	
 jarle	jarl	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jarle	jarl	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -6184,7 +6150,6 @@ jarmarcznie	jarmarcznie	adv:pos
 jarmarcznicy	jarmarcznik	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 jarmarcznikach	jarmarcznik	subst:pl:loc:m1	nazwa pospolita	daw.
 jarmarcznika	jarmarcznik	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-jarmarcznika	jarmarcznik	subst:sg:gen:m1	nazwa pospolita	daw.
 jarmarcznikami	jarmarcznik	subst:pl:inst:m1	nazwa pospolita	daw.
 jarmarcznikiem	jarmarcznik	subst:sg:inst:m1	nazwa pospolita	daw.
 jarmarczniki	jarmarcznik	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
@@ -6398,7 +6363,6 @@ jarmarkuj	jarmarkować	impt:sg:sec:imperf		daw.
 jarmarkujmy	jarmarkować	impt:pl:pri:imperf		daw.
 jarmarkowiczach	jarmarkowicz	subst:pl:loc:m1	nazwa pospolita	przest.
 jarmarkowicza	jarmarkowicz	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-jarmarkowicza	jarmarkowicz	subst:sg:gen:m1	nazwa pospolita	przest.
 jarmarkowiczami	jarmarkowicz	subst:pl:inst:m1	nazwa pospolita	przest.
 jarmarkowicze	jarmarkowicz	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
 jarmarkowicze	jarmarkowicz	subst:pl:nom.voc:m1	nazwa pospolita	przest.
@@ -6555,7 +6519,6 @@ jarosławskość	jarosławskość	subst:sg:acc:f	nazwa pospolita
 jarosławskość	jarosławskość	subst:sg:nom:f	nazwa pospolita	
 jaroszach	jarosz	subst:pl:loc:m1	nazwa pospolita	
 jarosza	jarosz	subst:sg:gen.acc:m1	nazwa pospolita	
-jarosza	jarosz	subst:sg:gen:m1	nazwa pospolita	
 jaroszami	jarosz	subst:pl:inst:m1	nazwa pospolita	
 jarosze	jarosz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jarosze	jarosz	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -6946,7 +6909,6 @@ jaryzacyj	jaryzacja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 jarząbek	jarząbek	subst:sg:nom:m2	nazwa pospolita	
 jarząbkach	jarząbek	subst:pl:loc:m2	nazwa pospolita	
 jarząbka	jarząbek	subst:sg:gen.acc:m2	nazwa pospolita	
-jarząbka	jarząbek	subst:sg:gen:m2	nazwa pospolita	
 jarząbkami	jarząbek	subst:pl:inst:m2	nazwa pospolita	
 jarząbkiem	jarząbek	subst:sg:inst:m2	nazwa pospolita	
 jarząbki	jarząbek	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -6993,7 +6955,6 @@ jarząbkowym	jarząbkowy	adj:sg:loc:m1.m2.m3.n:pos
 jarząb	jarząb:s1	subst:sg:nom:m2	nazwa pospolita	zool.
 jarzębach	jarząb:s1	subst:pl:loc:m2	nazwa pospolita	zool.
 jarzęba	jarząb:s1	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jarzęba	jarząb:s1	subst:sg:gen:m2	nazwa pospolita	zool.
 jarzębami	jarząb:s1	subst:pl:inst:m2	nazwa pospolita	zool.
 jarzębem	jarząb:s1	subst:sg:inst:m2	nazwa pospolita	zool.
 jarzębie	jarząb:s1	subst:sg:loc:m2	nazwa pospolita	zool.
@@ -7189,7 +7150,6 @@ jarzębatym	jarzębaty	adj:sg:loc:m1.m2.m3.n:pos
 jarzębiakach	jarzębiak	subst:pl:loc:m2	nazwa pospolita	pot.
 jarzębiakach	jarzębiak	subst:pl:loc:m3	nazwa pospolita	
 jarzębiaka	jarzębiak	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-jarzębiaka	jarzębiak	subst:sg:gen:m2	nazwa pospolita	pot.
 jarzębiakami	jarzębiak	subst:pl:inst:m2	nazwa pospolita	pot.
 jarzębiakami	jarzębiak	subst:pl:inst:m3	nazwa pospolita	
 jarzębiakiem	jarzębiak	subst:sg:inst:m2	nazwa pospolita	pot.
@@ -7395,7 +7355,6 @@ jarzęcym	jarzęcy	adj:sg:inst:m1.m2.m3.n:pos		daw.
 jarzęcym	jarzęcy	adj:sg:loc:m1.m2.m3.n:pos		daw.
 jarzmicielach	jarzmiciel	subst:pl:loc:m1	nazwa pospolita	przest.
 jarzmiciela	jarzmiciel	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-jarzmiciela	jarzmiciel	subst:sg:gen:m1	nazwa pospolita	przest.
 jarzmicielami	jarzmiciel	subst:pl:inst:m1	nazwa pospolita	przest.
 jarzmiciele	jarzmiciel	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
 jarzmiciele	jarzmiciel	subst:pl:nom.voc:m1	nazwa pospolita	przest.
@@ -7799,8 +7758,6 @@ jarzyniarzach	jarzyniarz	subst:pl:loc:m1	nazwa pospolita
 jarzyniarzach	jarzyniarz	subst:pl:loc:m1	nazwa pospolita	rzad.
 jarzyniarza	jarzyniarz	subst:sg:gen.acc:m1	nazwa pospolita	
 jarzyniarza	jarzyniarz	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
-jarzyniarza	jarzyniarz	subst:sg:gen:m1	nazwa pospolita	
-jarzyniarza	jarzyniarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 jarzyniarzami	jarzyniarz	subst:pl:inst:m1	nazwa pospolita	
 jarzyniarzami	jarzyniarz	subst:pl:inst:m1	nazwa pospolita	rzad.
 jarzyniarze	jarzyniarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -8249,7 +8206,6 @@ jaskier	jaskier	subst:sg:nom:m2	nazwa pospolita	bot.|pot.
 jaskrach	jaskier	subst:pl:loc:m2	nazwa pospolita	bot.|pot.
 jaskrach	jaskier	subst:pl:loc:m3	nazwa pospolita	bot.
 jaskra	jaskier	subst:sg:gen.acc:m2	nazwa pospolita	bot.|pot.
-jaskra	jaskier	subst:sg:gen:m2	nazwa pospolita	bot.|pot.
 jaskra	jaskier	subst:sg:gen:m3	nazwa pospolita	bot.
 jaskrami	jaskier	subst:pl:inst:m2	nazwa pospolita	bot.|pot.
 jaskrami	jaskier	subst:pl:inst:m3	nazwa pospolita	bot.
@@ -8280,7 +8236,6 @@ jaskiniom	jaskinia	subst:pl:dat:f	nazwa pospolita
 jaskiń	jaskinia	subst:pl:gen:f	nazwa pospolita	
 jaskiniowcach	jaskiniowiec	subst:pl:loc:m1	nazwa pospolita	
 jaskiniowca	jaskiniowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-jaskiniowca	jaskiniowiec	subst:sg:gen:m1	nazwa pospolita	
 jaskiniowcami	jaskiniowiec	subst:pl:inst:m1	nazwa pospolita	
 jaskiniowce	jaskiniowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jaskiniowcem	jaskiniowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -9825,7 +9780,6 @@ jasnowidnym	jasnowidny	adj:sg:inst:m1.m2.m3.n:pos		przest.
 jasnowidnym	jasnowidny	adj:sg:loc:m1.m2.m3.n:pos		przest.
 jasnowidzach	jasnowidz	subst:pl:loc:m1	nazwa pospolita	
 jasnowidza	jasnowidz	subst:sg:gen.acc:m1	nazwa pospolita	
-jasnowidza	jasnowidz	subst:sg:gen:m1	nazwa pospolita	
 jasnowidzami	jasnowidz	subst:pl:inst:m1	nazwa pospolita	
 jasnowidze	jasnowidz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jasnowidze	jasnowidz	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -9873,7 +9827,6 @@ jasnowidzącym	jasnowidzący:a	adj:pl:dat:m1.m2.m3.f.n:pos
 jasnowidzącym	jasnowidzący:a	adj:sg:inst:m1.m2.m3.n:pos		
 jasnowidzącym	jasnowidzący:a	adj:sg:loc:m1.m2.m3.n:pos		
 jasnowidzącego	jasnowidzący:s	subst:sg:gen.acc:m1	nazwa pospolita	
-jasnowidzącego	jasnowidzący:s	subst:sg:gen:m1	nazwa pospolita	
 jasnowidzące	jasnowidzący:s	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jasnowidzącemu	jasnowidzący:s	subst:sg:dat:m1	nazwa pospolita	
 jasnowidzących	jasnowidzący:s	subst:pl:gen.acc:m1	nazwa pospolita	
@@ -10346,7 +10299,6 @@ jastrychowym	jastrychowy	adj:sg:loc:m1.m2.m3.n:pos
 jastrząb	jastrząb	subst:sg:nom:m2	nazwa pospolita	zool.
 jastrzębiach	jastrząb	subst:pl:loc:m2	nazwa pospolita	zool.
 jastrzębia	jastrząb	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jastrzębia	jastrząb	subst:sg:gen:m2	nazwa pospolita	zool.
 jastrzębiami	jastrząb	subst:pl:inst:m2	nazwa pospolita	zool.
 jastrzębie	jastrząb	subst:pl:nom.acc.voc:m2	nazwa pospolita	zool.
 jastrzębiem	jastrząb	subst:sg:inst:m2	nazwa pospolita	zool.
@@ -10358,7 +10310,6 @@ jastrzębiu	jastrząb	subst:sg:voc:m2	nazwa pospolita	zool.
 jastrząbek	jastrząbek	subst:sg:nom:m2	nazwa pospolita	
 jastrząbkach	jastrząbek	subst:pl:loc:m2	nazwa pospolita	
 jastrząbka	jastrząbek	subst:sg:gen.acc:m2	nazwa pospolita	
-jastrząbka	jastrząbek	subst:sg:gen:m2	nazwa pospolita	
 jastrząbkami	jastrząbek	subst:pl:inst:m2	nazwa pospolita	
 jastrząbkiem	jastrząbek	subst:sg:inst:m2	nazwa pospolita	
 jastrząbki	jastrząbek	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -10394,7 +10345,6 @@ jastrzębio	jastrzębi	adja
 jastrzębcach	jastrzębiec	subst:pl:loc:m2	nazwa pospolita	bot.|pot.
 jastrzębcach	jastrzębiec	subst:pl:loc:m3	nazwa pospolita	bot.
 jastrzębca	jastrzębiec	subst:sg:gen.acc:m2	nazwa pospolita	bot.|pot.
-jastrzębca	jastrzębiec	subst:sg:gen:m2	nazwa pospolita	bot.|pot.
 jastrzębca	jastrzębiec	subst:sg:gen:m3	nazwa pospolita	bot.
 jastrzębcami	jastrzębiec	subst:pl:inst:m2	nazwa pospolita	bot.|pot.
 jastrzębcami	jastrzębiec	subst:pl:inst:m3	nazwa pospolita	bot.
@@ -10506,7 +10456,6 @@ jastrzębiowatym	jastrzębiowaty	adj:sg:loc:m1.m2.m3.n:pos
 jastrzębnicy	jastrzębnik	subst:pl:nom.voc:m1	nazwa pospolita	przest.|łow.
 jastrzębnikach	jastrzębnik	subst:pl:loc:m1	nazwa pospolita	przest.|łow.
 jastrzębnika	jastrzębnik	subst:sg:gen.acc:m1	nazwa pospolita	przest.|łow.
-jastrzębnika	jastrzębnik	subst:sg:gen:m1	nazwa pospolita	przest.|łow.
 jastrzębnikami	jastrzębnik	subst:pl:inst:m1	nazwa pospolita	przest.|łow.
 jastrzębnikiem	jastrzębnik	subst:sg:inst:m1	nazwa pospolita	przest.|łow.
 jastrzębniki	jastrzębnik	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.|łow.
@@ -10682,7 +10631,6 @@ jaszczurniku	jaszczurnik	subst:sg:loc:m3	nazwa pospolita	indyw.
 jaszczurniku	jaszczurnik	subst:sg:voc:m3	nazwa pospolita	indyw.
 jaszczuroptakach	jaszczuroptak	subst:pl:loc:m2	nazwa pospolita	paleont.
 jaszczuroptaka	jaszczuroptak	subst:sg:gen.acc:m2	nazwa pospolita	paleont.
-jaszczuroptaka	jaszczuroptak	subst:sg:gen:m2	nazwa pospolita	paleont.
 jaszczuroptakami	jaszczuroptak	subst:pl:inst:m2	nazwa pospolita	paleont.
 jaszczuroptakiem	jaszczuroptak	subst:sg:inst:m2	nazwa pospolita	paleont.
 jaszczuroptaki	jaszczuroptak	subst:pl:nom.acc.voc:m2	nazwa pospolita	paleont.
@@ -10764,7 +10712,6 @@ jaszczurowym	jaszczurowy	adj:sg:inst:m1.m2.m3.n:pos
 jaszczurowym	jaszczurowy	adj:sg:loc:m1.m2.m3.n:pos		
 jaszczurach	jaszczur:s1	subst:pl:loc:m2	nazwa pospolita	zool.
 jaszczura	jaszczur:s1	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jaszczura	jaszczur:s1	subst:sg:gen:m2	nazwa pospolita	zool.
 jaszczurami	jaszczur:s1	subst:pl:inst:m2	nazwa pospolita	zool.
 jaszczurem	jaszczur:s1	subst:sg:inst:m2	nazwa pospolita	zool.
 jaszczur	jaszczur:s1	subst:sg:nom:m2	nazwa pospolita	zool.
@@ -10845,7 +10792,6 @@ jaszmaku	jaszmak	subst:sg:loc:m3	nazwa pospolita	daw.
 jaszmaku	jaszmak	subst:sg:voc:m3	nazwa pospolita	daw.
 jasiach	jaś	subst:pl:loc:m2	nazwa pospolita	
 jasia	jaś	subst:sg:gen.acc:m2	nazwa pospolita	
-jasia	jaś	subst:sg:gen:m2	nazwa pospolita	
 jasiami	jaś	subst:pl:inst:m2	nazwa pospolita	
 jasie	jaś	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jasiem	jaś	subst:sg:inst:m2	nazwa pospolita	
@@ -10917,7 +10863,6 @@ jaśminy	jaśmin	subst:pl:nom.acc.voc:m3	nazwa pospolita	bot.
 jaśminowcach	jaśminowiec	subst:pl:loc:m2	nazwa pospolita	pot.
 jaśminowcach	jaśminowiec	subst:pl:loc:m3	nazwa pospolita	
 jaśminowca	jaśminowiec	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-jaśminowca	jaśminowiec	subst:sg:gen:m2	nazwa pospolita	pot.
 jaśminowca	jaśminowiec	subst:sg:gen:m3	nazwa pospolita	
 jaśminowcami	jaśminowiec	subst:pl:inst:m2	nazwa pospolita	pot.
 jaśminowcami	jaśminowiec	subst:pl:inst:m3	nazwa pospolita	
@@ -11217,7 +11162,6 @@ jaśnieoświeconość	jaśnieoświeconość	subst:sg:acc:f	nazwa pospolita	daw.
 jaśnieoświeconość	jaśnieoświeconość	subst:sg:nom:f	nazwa pospolita	daw.
 jaśniepanach	jaśniepan	subst:pl:loc:m1	nazwa pospolita	
 jaśniepana	jaśniepan	subst:sg:gen.acc:m1	nazwa pospolita	
-jaśniepana	jaśniepan	subst:sg:gen:m1	nazwa pospolita	
 jaśniepanami	jaśniepan	subst:pl:inst:m1	nazwa pospolita	
 jaśniepanem	jaśniepan	subst:sg:inst:m1	nazwa pospolita	
 jaśniepanie	jaśniepan	subst:sg:voc:m1	nazwa pospolita	
@@ -11793,7 +11737,6 @@ jawnogrzesznictwu	jawnogrzesznictwo	subst:sg:dat:n:ncol	nazwa pospolita	przest.
 jawnogrzesznicy	jawnogrzesznik	subst:pl:nom.voc:m1	nazwa pospolita	przest.
 jawnogrzesznikach	jawnogrzesznik	subst:pl:loc:m1	nazwa pospolita	przest.
 jawnogrzesznika	jawnogrzesznik	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-jawnogrzesznika	jawnogrzesznik	subst:sg:gen:m1	nazwa pospolita	przest.
 jawnogrzesznikami	jawnogrzesznik	subst:pl:inst:m1	nazwa pospolita	przest.
 jawnogrzesznikiem	jawnogrzesznik	subst:sg:inst:m1	nazwa pospolita	przest.
 jawnogrzeszniki	jawnogrzesznik	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
@@ -11934,7 +11877,6 @@ jawnym	jawny	adj:sg:loc:m1.m2.m3.n:pos
 jaworach	jawor	subst:pl:loc:m2	nazwa pospolita	bot.|pot.
 jaworach	jawor	subst:pl:loc:m3	nazwa pospolita	bot.
 jawora	jawor	subst:sg:gen.acc:m2	nazwa pospolita	bot.|pot.
-jawora	jawor	subst:sg:gen:m2	nazwa pospolita	bot.|pot.
 jaworami	jawor	subst:pl:inst:m2	nazwa pospolita	bot.|pot.
 jaworami	jawor	subst:pl:inst:m3	nazwa pospolita	bot.
 jaworem	jawor	subst:sg:inst:m2	nazwa pospolita	bot.|pot.
@@ -12234,8 +12176,6 @@ jazgarzach	jazgarz	subst:pl:loc:m2	nazwa pospolita
 jazgarzach	jazgarz	subst:pl:loc:m2	nazwa pospolita	rzad.
 jazgarza	jazgarz	subst:sg:gen.acc:m2	nazwa pospolita	
 jazgarza	jazgarz	subst:sg:gen.acc:m2	nazwa pospolita	rzad.
-jazgarza	jazgarz	subst:sg:gen:m2	nazwa pospolita	
-jazgarza	jazgarz	subst:sg:gen:m2	nazwa pospolita	rzad.
 jazgarzami	jazgarz	subst:pl:inst:m2	nazwa pospolita	
 jazgarzami	jazgarz	subst:pl:inst:m2	nazwa pospolita	rzad.
 jazgarze	jazgarz	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -12477,7 +12417,6 @@ jazydo	jazyda	subst:sg:voc:m1	nazwa pospolita	rel.
 jazydom	jazyda	subst:pl:dat:m1	nazwa pospolita	rel.
 jazydów	jazyda	subst:pl:gen.acc:m1	nazwa pospolita	rel.
 jazydy	jazyda	depr:pl:nom.acc.voc:m2	nazwa pospolita	rel.
-jazydy	jazyda	subst:sg:gen:m1	nazwa pospolita	rel.
 jazydzie	jazyda	subst:sg:dat.loc:m1	nazwa pospolita	rel.
 jazydzi	jazyda	subst:pl:nom.voc:m1	nazwa pospolita	rel.
 jazydyzmach	jazydyzm	subst:pl:loc:m3	nazwa pospolita	rel.
@@ -12558,13 +12497,11 @@ jazzisto	jazzista	subst:sg:voc:m1	nazwa pospolita	przest.
 jazzistom	jazzista	subst:pl:dat:m1	nazwa pospolita	przest.
 jazzistów	jazzista	subst:pl:gen.acc:m1	nazwa pospolita	przest.
 jazzisty	jazzista	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
-jazzisty	jazzista	subst:sg:gen:m1	nazwa pospolita	przest.
 jazziście	jazzista	subst:sg:dat.loc:m1	nazwa pospolita	przest.
 jazziści	jazzista	subst:pl:nom.voc:m1	nazwa pospolita	przest.
 jazz-jamboree	jazz-jamboree	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 jazzmanach	jazzman	subst:pl:loc:m1	nazwa pospolita	
 jazzmana	jazzman	subst:sg:gen.acc:m1	nazwa pospolita	
-jazzmana	jazzman	subst:sg:gen:m1	nazwa pospolita	
 jazzmanami	jazzman	subst:pl:inst:m1	nazwa pospolita	
 jazzmanem	jazzman	subst:sg:inst:m1	nazwa pospolita	
 jazzmanie	jazzman	subst:sg:loc:m1	nazwa pospolita	
@@ -12697,7 +12634,6 @@ jazzowym	jazzowy	adj:sg:inst:m1.m2.m3.n:pos
 jazzowym	jazzowy	adj:sg:loc:m1.m2.m3.n:pos		
 jazzrockach	jazzrock	subst:pl:loc:m2	nazwa pospolita	
 jazzrocka	jazzrock	subst:sg:gen.acc:m2	nazwa pospolita	
-jazzrocka	jazzrock	subst:sg:gen:m2	nazwa pospolita	
 jazzrockami	jazzrock	subst:pl:inst:m2	nazwa pospolita	
 jazzrockiem	jazzrock	subst:sg:inst:m2	nazwa pospolita	
 jazzrocki	jazzrock	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -12710,7 +12646,6 @@ jazzrocku	jazzrock	subst:sg:voc:m2	nazwa pospolita
 jazz-rockach	jazz-rock	subst:pl:loc:m2	nazwa pospolita	pot.
 jazz-rockach	jazz-rock	subst:pl:loc:m3	nazwa pospolita	
 jazz-rocka	jazz-rock	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-jazz-rocka	jazz-rock	subst:sg:gen:m2	nazwa pospolita	pot.
 jazz-rocka	jazz-rock	subst:sg:gen:m3	nazwa pospolita	
 jazz-rockami	jazz-rock	subst:pl:inst:m2	nazwa pospolita	pot.
 jazz-rockami	jazz-rock	subst:pl:inst:m3	nazwa pospolita	
@@ -12826,7 +12761,6 @@ jazzy	jazzy	adj:sg:nom.voc:m1.m2.m3:pos		pot.
 jazzy	jazzy	adj:sg:nom.voc:n:pos		pot.
 jaziach	jaź	subst:pl:loc:m2	nazwa pospolita	
 jazia	jaź	subst:sg:gen.acc:m2	nazwa pospolita	
-jazia	jaź	subst:sg:gen:m2	nazwa pospolita	
 jaziami	jaź	subst:pl:inst:m2	nazwa pospolita	
 jazie	jaź	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jaziem	jaź	subst:sg:inst:m2	nazwa pospolita	
@@ -12885,7 +12819,6 @@ jaźń	jaźń	subst:sg:acc:f	nazwa pospolita
 jaźń	jaźń	subst:sg:nom:f	nazwa pospolita	
 jaźwcach	jaźwiec	subst:pl:loc:m2	nazwa pospolita	
 jaźwca	jaźwiec	subst:sg:gen.acc:m2	nazwa pospolita	
-jaźwca	jaźwiec	subst:sg:gen:m2	nazwa pospolita	
 jaźwcami	jaźwiec	subst:pl:inst:m2	nazwa pospolita	
 jaźwce	jaźwiec	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jaźwcem	jaźwiec	subst:sg:inst:m2	nazwa pospolita	
@@ -13024,7 +12957,6 @@ jądru	jądro	subst:sg:dat:n:ncol	nazwa pospolita
 jądrze	jądro	subst:sg:loc:n:ncol	nazwa pospolita	
 jądrowcach	jądrowiec	subst:pl:loc:m1	nazwa pospolita	
 jądrowca	jądrowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-jądrowca	jądrowiec	subst:sg:gen:m1	nazwa pospolita	
 jądrowcami	jądrowiec	subst:pl:inst:m1	nazwa pospolita	
 jądrowce	jądrowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jądrowcem	jądrowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -13075,7 +13007,6 @@ jądrowym	jądrowy	adj:sg:loc:m1.m2.m3.n:pos
 jądrzakach	jądrzak	subst:pl:loc:m2	nazwa pospolita	
 jądrzakach	jądrzak	subst:pl:loc:m3	nazwa pospolita	
 jądrzaka	jądrzak	subst:sg:gen.acc:m2	nazwa pospolita	
-jądrzaka	jądrzak	subst:sg:gen:m2	nazwa pospolita	
 jądrzaka	jądrzak	subst:sg:gen:m3	nazwa pospolita	
 jądrzakami	jądrzak	subst:pl:inst:m2	nazwa pospolita	
 jądrzakami	jądrzak	subst:pl:inst:m3	nazwa pospolita	
@@ -13261,7 +13192,6 @@ jąkałom	jąkała:s2	subst:pl:dat:m1	nazwa pospolita	pot.
 jąkałowie	jąkała:s2	subst:pl:nom.voc:m1	nazwa pospolita	pot.
 jąkałów	jąkała:s2	subst:pl:gen.acc:m1	nazwa pospolita	pot.
 jąkały	jąkała:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
-jąkały	jąkała:s2	subst:sg:gen:m1	nazwa pospolita	pot.
 jąkaniach	jąkanie	subst:pl:loc:n:ncol	nazwa pospolita	
 jąkania	jąkanie	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
 jąkania	jąkanie	subst:sg:gen:n:ncol	nazwa pospolita	
@@ -13320,7 +13250,6 @@ jąkatym	jąkaty:a	adj:sg:inst:m1.m2.m3.n:pos		rzad.
 jąkatym	jąkaty:a	adj:sg:loc:m1.m2.m3.n:pos		rzad.
 jąkaci	jąkaty:s	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
 jąkatego	jąkaty:s	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
-jąkatego	jąkaty:s	subst:sg:gen:m1	nazwa pospolita	rzad.
 jąkate	jąkaty:s	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
 jąkatemu	jąkaty:s	subst:sg:dat:m1	nazwa pospolita	rzad.
 jąkatych	jąkaty:s	subst:pl:gen.acc:m1	nazwa pospolita	rzad.
@@ -13448,7 +13377,6 @@ jątrznym	jątrzny	adj:sg:inst:m1.m2.m3.n:pos		daw.
 jątrznym	jątrzny	adj:sg:loc:m1.m2.m3.n:pos		daw.
 jątrzycielach	jątrzyciel	subst:pl:loc:m1	nazwa pospolita	
 jątrzyciela	jątrzyciel	subst:sg:gen.acc:m1	nazwa pospolita	
-jątrzyciela	jątrzyciel	subst:sg:gen:m1	nazwa pospolita	
 jątrzycielami	jątrzyciel	subst:pl:inst:m1	nazwa pospolita	
 jątrzyciele	jątrzyciel	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jątrzyciele	jątrzyciel	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -13656,7 +13584,6 @@ jebmy	jebać	impt:pl:pri:imperf		wulg.
 jebacy	jebak	subst:pl:nom.voc:m1	nazwa pospolita	wulg.
 jebakach	jebak	subst:pl:loc:m1	nazwa pospolita	wulg.
 jebaka	jebak	subst:sg:gen.acc:m1	nazwa pospolita	wulg.
-jebaka	jebak	subst:sg:gen:m1	nazwa pospolita	wulg.
 jebakami	jebak	subst:pl:inst:m1	nazwa pospolita	wulg.
 jebakiem	jebak	subst:sg:inst:m1	nazwa pospolita	wulg.
 jebaki	jebak	depr:pl:nom.acc.voc:m2	nazwa pospolita	wulg.
@@ -13894,7 +13821,6 @@ jedenastym	jedenasta	subst:pl:dat:f	nazwa pospolita
 jedenastacy	jedenastak:s1	subst:pl:nom.voc:m1	nazwa pospolita	
 jedenastakach	jedenastak:s1	subst:pl:loc:m1	nazwa pospolita	
 jedenastaka	jedenastak:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-jedenastaka	jedenastak:s1	subst:sg:gen:m1	nazwa pospolita	
 jedenastakami	jedenastak:s1	subst:pl:inst:m1	nazwa pospolita	
 jedenastakiem	jedenastak:s1	subst:sg:inst:m1	nazwa pospolita	
 jedenastaki	jedenastak:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -13907,7 +13833,6 @@ jedenastaku	jedenastak:s1	subst:sg:voc:m1	nazwa pospolita
 jedenastakach	jedenastak:s2	subst:pl:loc:m2	nazwa pospolita	
 jedenastakach	jedenastak:s2	subst:pl:loc:m3	nazwa pospolita	
 jedenastaka	jedenastak:s2	subst:sg:gen.acc:m2	nazwa pospolita	
-jedenastaka	jedenastak:s2	subst:sg:gen:m2	nazwa pospolita	
 jedenastaka	jedenastak:s2	subst:sg:gen:m3	nazwa pospolita	
 jedenastakami	jedenastak:s2	subst:pl:inst:m2	nazwa pospolita	
 jedenastakami	jedenastak:s2	subst:pl:inst:m3	nazwa pospolita	
@@ -14123,7 +14048,6 @@ jedenastoklasisto	jedenastoklasista	subst:sg:voc:m1	nazwa pospolita
 jedenastoklasistom	jedenastoklasista	subst:pl:dat:m1	nazwa pospolita	
 jedenastoklasistów	jedenastoklasista	subst:pl:gen.acc:m1	nazwa pospolita	
 jedenastoklasisty	jedenastoklasista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-jedenastoklasisty	jedenastoklasista	subst:sg:gen:m1	nazwa pospolita	
 jedenastoklasiście	jedenastoklasista	subst:sg:dat.loc:m1	nazwa pospolita	
 jedenastoklasiści	jedenastoklasista	subst:pl:nom.voc:m1	nazwa pospolita	
 jedenastoklasistce	jedenastoklasistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -14176,7 +14100,6 @@ jedenastokrotnym	jedenastokrotny	adj:sg:loc:m1.m2.m3.n:pos
 jedenastolatek	jedenastolatek:s1	subst:sg:nom:m1	nazwa pospolita	
 jedenastolatkach	jedenastolatek:s1	subst:pl:loc:m1	nazwa pospolita	
 jedenastolatka	jedenastolatek:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-jedenastolatka	jedenastolatek:s1	subst:sg:gen:m1	nazwa pospolita	
 jedenastolatkami	jedenastolatek:s1	subst:pl:inst:m1	nazwa pospolita	
 jedenastolatkiem	jedenastolatek:s1	subst:sg:inst:m1	nazwa pospolita	
 jedenastolatki	jedenastolatek:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -14189,7 +14112,6 @@ jedenastolatku	jedenastolatek:s1	subst:sg:voc:m1	nazwa pospolita
 jedenastolatek	jedenastolatek:s2	subst:sg:nom:m2	nazwa pospolita	
 jedenastolatkach	jedenastolatek:s2	subst:pl:loc:m2	nazwa pospolita	
 jedenastolatka	jedenastolatek:s2	subst:sg:gen.acc:m2	nazwa pospolita	
-jedenastolatka	jedenastolatek:s2	subst:sg:gen:m2	nazwa pospolita	
 jedenastolatkami	jedenastolatek:s2	subst:pl:inst:m2	nazwa pospolita	
 jedenastolatkiem	jedenastolatek:s2	subst:sg:inst:m2	nazwa pospolita	
 jedenastolatki	jedenastolatek:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -14336,7 +14258,6 @@ jedenastym	jedenasty:a	adj:sg:inst:m1.m2.m3.n:pos
 jedenastym	jedenasty:a	adj:sg:loc:m1.m2.m3.n:pos		
 jedenaści	jedenasty:a	adj:pl:nom.voc:m1:pos		
 jedenastego	jedenasty:s	subst:sg:gen.acc:m2	nazwa pospolita	
-jedenastego	jedenasty:s	subst:sg:gen:m2	nazwa pospolita	
 jedenastego	jedenasty:s	subst:sg:gen:m3	nazwa pospolita	
 jedenaste	jedenasty:s	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jedenaste	jedenasty:s	subst:pl:nom.acc.voc:m3	nazwa pospolita	
@@ -14373,7 +14294,6 @@ jedno	jeden:n	numcomp
 jeden	jeden:s	subst:sg:nom:m2	nazwa pospolita	pot.
 jeden	jeden:s	subst:sg:voc:m2	nazwa pospolita	pot.
 jednego	jeden:s	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-jednego	jeden:s	subst:sg:gen:m2	nazwa pospolita	pot.
 jedne	jeden:s	subst:pl:nom.acc.voc:m2	nazwa pospolita	pot.
 jednemu	jeden:s	subst:sg:dat:m2	nazwa pospolita	pot.
 jednych	jeden:s	subst:pl:gen:m2	nazwa pospolita	pot.
@@ -14664,7 +14584,6 @@ jedlnym	jedlny	adj:sg:inst:m1.m2.m3.n:pos		indyw.
 jedlnym	jedlny	adj:sg:loc:m1.m2.m3.n:pos		indyw.
 jednaczach	jednacz	subst:pl:loc:m1	nazwa pospolita	daw.
 jednacza	jednacz	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-jednacza	jednacz	subst:sg:gen:m1	nazwa pospolita	daw.
 jednaczami	jednacz	subst:pl:inst:m1	nazwa pospolita	daw.
 jednacze	jednacz	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 jednacze	jednacz	subst:pl:nom.voc:m1	nazwa pospolita	daw.
@@ -15041,7 +14960,6 @@ jednawcom	jednawca	subst:pl:dat:m1	nazwa pospolita	daw.
 jednawców	jednawca	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 jednawcy	jednawca	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 jednawcy	jednawca	subst:sg:dat.loc:m1	nazwa pospolita	daw.
-jednawcy	jednawca	subst:sg:gen:m1	nazwa pospolita	daw.
 jednawczościach	jednawczość	subst:pl:loc:f	nazwa pospolita	daw.
 jednawczościami	jednawczość	subst:pl:inst:f	nazwa pospolita	daw.
 jednawczością	jednawczość	subst:sg:inst:f	nazwa pospolita	daw.
@@ -15476,7 +15394,6 @@ jednocentówkom	jednocentówka	subst:pl:dat:f	nazwa pospolita
 jednochodziec	jednochodziec	subst:sg:nom:m2	nazwa pospolita	
 jednochodźcach	jednochodziec	subst:pl:loc:m2	nazwa pospolita	
 jednochodźca	jednochodziec	subst:sg:gen.acc:m2	nazwa pospolita	
-jednochodźca	jednochodziec	subst:sg:gen:m2	nazwa pospolita	
 jednochodźcami	jednochodziec	subst:pl:inst:m2	nazwa pospolita	
 jednochodźce	jednochodziec	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jednochodźcem	jednochodziec	subst:sg:inst:m2	nazwa pospolita	
@@ -15961,7 +15878,6 @@ jednodworczym	jednodworczy	adj:sg:inst:m1.m2.m3.n:pos
 jednodworczym	jednodworczy	adj:sg:loc:m1.m2.m3.n:pos		
 jednodworcach	jednodworzec	subst:pl:loc:m1	nazwa pospolita	daw.
 jednodworca	jednodworzec	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-jednodworca	jednodworzec	subst:sg:gen:m1	nazwa pospolita	daw.
 jednodworcami	jednodworzec	subst:pl:inst:m1	nazwa pospolita	daw.
 jednodworce	jednodworzec	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 jednodworcem	jednodworzec	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -16045,7 +15961,6 @@ jednodziennym	jednodzienny	adj:sg:inst:m1.m2.m3.n:pos		daw.
 jednodziennym	jednodzienny	adj:sg:loc:m1.m2.m3.n:pos		daw.
 jednodzierżach	jednodzierż	subst:pl:loc:m1	nazwa pospolita	daw.
 jednodzierża	jednodzierż	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-jednodzierża	jednodzierż	subst:sg:gen:m1	nazwa pospolita	daw.
 jednodzierżami	jednodzierż	subst:pl:inst:m1	nazwa pospolita	daw.
 jednodzierże	jednodzierż	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 jednodzierże	jednodzierż	subst:pl:nom.voc:m1	nazwa pospolita	daw.
@@ -16677,7 +16592,6 @@ jednojęzycznym	jednojęzyczny	adj:sg:loc:m1.m2.m3.n:pos
 jednokadłubowcach	jednokadłubowiec	subst:pl:loc:m2	nazwa pospolita	pot.
 jednokadłubowcach	jednokadłubowiec	subst:pl:loc:m3	nazwa pospolita	
 jednokadłubowca	jednokadłubowiec	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-jednokadłubowca	jednokadłubowiec	subst:sg:gen:m2	nazwa pospolita	pot.
 jednokadłubowca	jednokadłubowiec	subst:sg:gen:m3	nazwa pospolita	
 jednokadłubowcami	jednokadłubowiec	subst:pl:inst:m2	nazwa pospolita	pot.
 jednokadłubowcami	jednokadłubowiec	subst:pl:inst:m3	nazwa pospolita	
@@ -16994,7 +16908,6 @@ jednokomorowym	jednokomorowy	adj:sg:loc:m1.m2.m3.n:pos
 jednokomórkowcach	jednokomórkowiec	subst:pl:loc:m2	nazwa pospolita	
 jednokomórkowcach	jednokomórkowiec	subst:pl:loc:m3	nazwa pospolita	
 jednokomórkowca	jednokomórkowiec	subst:sg:gen.acc:m2	nazwa pospolita	
-jednokomórkowca	jednokomórkowiec	subst:sg:gen:m2	nazwa pospolita	
 jednokomórkowca	jednokomórkowiec	subst:sg:gen:m3	nazwa pospolita	
 jednokomórkowcami	jednokomórkowiec	subst:pl:inst:m2	nazwa pospolita	
 jednokomórkowcami	jednokomórkowiec	subst:pl:inst:m3	nazwa pospolita	
@@ -17342,7 +17255,6 @@ jednolampowym	jednolampowy	adj:sg:loc:m1.m2.m3.n:pos
 jednolatek	jednolatek:s1	subst:sg:nom:m1	nazwa pospolita	
 jednolatkach	jednolatek:s1	subst:pl:loc:m1	nazwa pospolita	
 jednolatka	jednolatek:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-jednolatka	jednolatek:s1	subst:sg:gen:m1	nazwa pospolita	
 jednolatkami	jednolatek:s1	subst:pl:inst:m1	nazwa pospolita	
 jednolatkiem	jednolatek:s1	subst:sg:inst:m1	nazwa pospolita	
 jednolatki	jednolatek:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -17355,7 +17267,6 @@ jednolatku	jednolatek:s1	subst:sg:voc:m1	nazwa pospolita
 jednolatek	jednolatek:s2	subst:sg:nom:m2	nazwa pospolita	
 jednolatkach	jednolatek:s2	subst:pl:loc:m2	nazwa pospolita	
 jednolatka	jednolatek:s2	subst:sg:gen.acc:m2	nazwa pospolita	
-jednolatka	jednolatek:s2	subst:sg:gen:m2	nazwa pospolita	
 jednolatkami	jednolatek:s2	subst:pl:inst:m2	nazwa pospolita	
 jednolatkiem	jednolatek:s2	subst:sg:inst:m2	nazwa pospolita	
 jednolatki	jednolatek:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -17766,7 +17677,6 @@ jednomandatowym	jednomandatowy	adj:sg:loc:m1.m2.m3.n:pos
 jednomasztowcach	jednomasztowiec	subst:pl:loc:m2	nazwa pospolita	
 jednomasztowcach	jednomasztowiec	subst:pl:loc:m3	nazwa pospolita	
 jednomasztowca	jednomasztowiec	subst:sg:gen.acc:m2	nazwa pospolita	
-jednomasztowca	jednomasztowiec	subst:sg:gen:m2	nazwa pospolita	
 jednomasztowca	jednomasztowiec	subst:sg:gen:m3	nazwa pospolita	
 jednomasztowcami	jednomasztowiec	subst:pl:inst:m2	nazwa pospolita	
 jednomasztowcami	jednomasztowiec	subst:pl:inst:m3	nazwa pospolita	
@@ -18047,7 +17957,6 @@ jednomorgowym	jednomorgowy	adj:sg:loc:m1.m2.m3.n:pos
 jednomotorowcach	jednomotorowiec	subst:pl:loc:m2	nazwa pospolita	pot.
 jednomotorowcach	jednomotorowiec	subst:pl:loc:m3	nazwa pospolita	
 jednomotorowca	jednomotorowiec	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-jednomotorowca	jednomotorowiec	subst:sg:gen:m2	nazwa pospolita	pot.
 jednomotorowca	jednomotorowiec	subst:sg:gen:m3	nazwa pospolita	
 jednomotorowcami	jednomotorowiec	subst:pl:inst:m2	nazwa pospolita	pot.
 jednomotorowcami	jednomotorowiec	subst:pl:inst:m3	nazwa pospolita	
@@ -18760,7 +18669,6 @@ jednoplanowym	jednoplanowy	adj:sg:loc:m1.m2.m3.n:pos
 jednoplemieniec	jednoplemieniec	subst:sg:nom:m1	nazwa pospolita	przest.
 jednoplemieńcach	jednoplemieniec	subst:pl:loc:m1	nazwa pospolita	przest.
 jednoplemieńca	jednoplemieniec	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-jednoplemieńca	jednoplemieniec	subst:sg:gen:m1	nazwa pospolita	przest.
 jednoplemieńcami	jednoplemieniec	subst:pl:inst:m1	nazwa pospolita	przest.
 jednoplemieńce	jednoplemieniec	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
 jednoplemieńcem	jednoplemieniec	subst:sg:inst:m1	nazwa pospolita	przest.
@@ -18891,7 +18799,6 @@ jednopłatkowym	jednopłatkowy	adj:sg:loc:m1.m2.m3.n:pos
 jednopłatowcach	jednopłatowiec	subst:pl:loc:m2	nazwa pospolita	pot.
 jednopłatowcach	jednopłatowiec	subst:pl:loc:m3	nazwa pospolita	
 jednopłatowca	jednopłatowiec	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-jednopłatowca	jednopłatowiec	subst:sg:gen:m2	nazwa pospolita	pot.
 jednopłatowca	jednopłatowiec	subst:sg:gen:m3	nazwa pospolita	
 jednopłatowcami	jednopłatowiec	subst:pl:inst:m2	nazwa pospolita	pot.
 jednopłatowcami	jednopłatowiec	subst:pl:inst:m3	nazwa pospolita	
@@ -18984,7 +18891,6 @@ jednopłciowym	jednopłciowy	adj:sg:loc:m1.m2.m3.n:pos
 jednopokładowcach	jednopokładowiec	subst:pl:loc:m2	nazwa pospolita	pot.
 jednopokładowcach	jednopokładowiec	subst:pl:loc:m3	nazwa pospolita	
 jednopokładowca	jednopokładowiec	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-jednopokładowca	jednopokładowiec	subst:sg:gen:m2	nazwa pospolita	pot.
 jednopokładowca	jednopokładowiec	subst:sg:gen:m3	nazwa pospolita	
 jednopokładowcami	jednopokładowiec	subst:pl:inst:m2	nazwa pospolita	pot.
 jednopokładowcami	jednopokładowiec	subst:pl:inst:m3	nazwa pospolita	
@@ -19524,7 +19430,6 @@ jednorękość	jednorękość	subst:sg:nom:f	nazwa pospolita
 jednoroczniacy	jednoroczniak:s1	subst:pl:nom.voc:m1	nazwa pospolita	
 jednoroczniakach	jednoroczniak:s1	subst:pl:loc:m1	nazwa pospolita	
 jednoroczniaka	jednoroczniak:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-jednoroczniaka	jednoroczniak:s1	subst:sg:gen:m1	nazwa pospolita	
 jednoroczniakami	jednoroczniak:s1	subst:pl:inst:m1	nazwa pospolita	
 jednoroczniakiem	jednoroczniak:s1	subst:sg:inst:m1	nazwa pospolita	
 jednoroczniaki	jednoroczniak:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -19536,7 +19441,6 @@ jednoroczniaku	jednoroczniak:s1	subst:sg:loc:m1	nazwa pospolita
 jednoroczniaku	jednoroczniak:s1	subst:sg:voc:m1	nazwa pospolita	
 jednoroczniakach	jednoroczniak:s2	subst:pl:loc:m2	nazwa pospolita	
 jednoroczniaka	jednoroczniak:s2	subst:sg:gen.acc:m2	nazwa pospolita	
-jednoroczniaka	jednoroczniak:s2	subst:sg:gen:m2	nazwa pospolita	
 jednoroczniakami	jednoroczniak:s2	subst:pl:inst:m2	nazwa pospolita	
 jednoroczniakiem	jednoroczniak:s2	subst:sg:inst:m2	nazwa pospolita	
 jednoroczniaki	jednoroczniak:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -19759,7 +19663,6 @@ jednorogość	jednorogość	subst:sg:acc:f	nazwa pospolita
 jednorogość	jednorogość	subst:sg:nom:f	nazwa pospolita	
 jednorożcach	jednorożec	subst:pl:loc:m2	nazwa pospolita	
 jednorożca	jednorożec	subst:sg:gen.acc:m2	nazwa pospolita	
-jednorożca	jednorożec	subst:sg:gen:m2	nazwa pospolita	
 jednorożcami	jednorożec	subst:pl:inst:m2	nazwa pospolita	
 jednorożce	jednorożec	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jednorożcem	jednorożec	subst:sg:inst:m2	nazwa pospolita	
@@ -20990,7 +20893,6 @@ jednośladzie	jednoślad	subst:sg:voc:m3	nazwa pospolita	pot.
 jednośladowcach	jednośladowiec	subst:pl:loc:m2	nazwa pospolita	pot.
 jednośladowcach	jednośladowiec	subst:pl:loc:m3	nazwa pospolita	
 jednośladowca	jednośladowiec	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-jednośladowca	jednośladowiec	subst:sg:gen:m2	nazwa pospolita	pot.
 jednośladowca	jednośladowiec	subst:sg:gen:m3	nazwa pospolita	
 jednośladowcami	jednośladowiec	subst:pl:inst:m2	nazwa pospolita	pot.
 jednośladowcami	jednośladowiec	subst:pl:inst:m3	nazwa pospolita	
@@ -21128,7 +21030,6 @@ jednoty	jednota	subst:pl:nom.acc.voc:f	nazwa pospolita
 jednoty	jednota	subst:sg:gen:f	nazwa pospolita	
 jednotarczowcach	jednotarczowiec	subst:pl:loc:m2	nazwa pospolita	
 jednotarczowca	jednotarczowiec	subst:sg:gen.acc:m2	nazwa pospolita	
-jednotarczowca	jednotarczowiec	subst:sg:gen:m2	nazwa pospolita	
 jednotarczowcami	jednotarczowiec	subst:pl:inst:m2	nazwa pospolita	
 jednotarczowce	jednotarczowiec	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jednotarczowcem	jednotarczowiec	subst:sg:inst:m2	nazwa pospolita	
@@ -21386,7 +21287,6 @@ jednotygodniowym	jednotygodniowy	adj:sg:inst:m1.m2.m3.n:pos
 jednotygodniowym	jednotygodniowy	adj:sg:loc:m1.m2.m3.n:pos		
 jednotykowcach	jednotykowiec	subst:pl:loc:m2	nazwa pospolita	
 jednotykowca	jednotykowiec	subst:sg:gen.acc:m2	nazwa pospolita	
-jednotykowca	jednotykowiec	subst:sg:gen:m2	nazwa pospolita	
 jednotykowcami	jednotykowiec	subst:pl:inst:m2	nazwa pospolita	
 jednotykowce	jednotykowiec	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jednotykowcem	jednotykowiec	subst:sg:inst:m2	nazwa pospolita	
@@ -21722,7 +21622,6 @@ jednowiercom	jednowierca	subst:pl:dat:m1	nazwa pospolita	daw.
 jednowierców	jednowierca	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 jednowiercy	jednowierca	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 jednowiercy	jednowierca	subst:sg:dat.loc:m1	nazwa pospolita	daw.
-jednowiercy	jednowierca	subst:sg:gen:m1	nazwa pospolita	daw.
 jednowierszowościach	jednowierszowość	subst:pl:loc:f	nazwa pospolita	
 jednowierszowościami	jednowierszowość	subst:pl:inst:f	nazwa pospolita	
 jednowierszowością	jednowierszowość	subst:sg:inst:f	nazwa pospolita	
@@ -21839,7 +21738,6 @@ jednowładcom	jednowładca	subst:pl:dat:m1	nazwa pospolita	daw.
 jednowładców	jednowładca	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 jednowładcy	jednowładca	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 jednowładcy	jednowładca	subst:sg:dat.loc:m1	nazwa pospolita	daw.
-jednowładcy	jednowładca	subst:sg:gen:m1	nazwa pospolita	daw.
 jednowładczościach	jednowładczość	subst:pl:loc:f	nazwa pospolita	daw.
 jednowładczościami	jednowładczość	subst:pl:inst:f	nazwa pospolita	daw.
 jednowładczością	jednowładczość	subst:sg:inst:f	nazwa pospolita	daw.
@@ -22999,7 +22897,6 @@ jedwabniczym	jedwabniczy	adj:sg:loc:m1.m2.m3.n:pos
 jedwabnie	jedwabnie	adv:pos		
 jedwabnikach	jedwabnik	subst:pl:loc:m2	nazwa pospolita	zool.
 jedwabnika	jedwabnik	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jedwabnika	jedwabnik	subst:sg:gen:m2	nazwa pospolita	zool.
 jedwabnikami	jedwabnik	subst:pl:inst:m2	nazwa pospolita	zool.
 jedwabnikiem	jedwabnik	subst:sg:inst:m2	nazwa pospolita	zool.
 jedwabniki	jedwabnik	subst:pl:nom.acc.voc:m2	nazwa pospolita	zool.
@@ -23068,7 +22965,6 @@ jedynactwu	jedynactwo	subst:sg:dat:n:ncol	nazwa pospolita
 jedynaczek	jedynaczek	subst:sg:nom:m1	nazwa pospolita	
 jedynaczkach	jedynaczek	subst:pl:loc:m1	nazwa pospolita	
 jedynaczka	jedynaczek	subst:sg:gen.acc:m1	nazwa pospolita	
-jedynaczka	jedynaczek	subst:sg:gen:m1	nazwa pospolita	
 jedynaczkami	jedynaczek	subst:pl:inst:m1	nazwa pospolita	
 jedynaczkiem	jedynaczek	subst:sg:inst:m1	nazwa pospolita	
 jedynaczki	jedynaczek	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -23092,7 +22988,6 @@ jedynaczkom	jedynaczka	subst:pl:dat:f	nazwa pospolita
 jedynacy	jedynak	subst:pl:nom.voc:m1	nazwa pospolita	
 jedynakach	jedynak	subst:pl:loc:m1	nazwa pospolita	
 jedynaka	jedynak	subst:sg:gen.acc:m1	nazwa pospolita	
-jedynaka	jedynak	subst:sg:gen:m1	nazwa pospolita	
 jedynakami	jedynak	subst:pl:inst:m1	nazwa pospolita	
 jedynakiem	jedynak	subst:sg:inst:m1	nazwa pospolita	
 jedynaki	jedynak	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -23191,7 +23086,6 @@ jedynowładcom	jedynowładca	subst:pl:dat:m1	nazwa pospolita
 jedynowładców	jedynowładca	subst:pl:gen.acc:m1	nazwa pospolita	
 jedynowładcy	jedynowładca	subst:pl:nom.voc:m1	nazwa pospolita	
 jedynowładcy	jedynowładca	subst:sg:dat.loc:m1	nazwa pospolita	
-jedynowładcy	jedynowładca	subst:sg:gen:m1	nazwa pospolita	
 jedynowładczo	jedynowładczo	adv:pos		rzad.
 jedynowładczościach	jedynowładczość	subst:pl:loc:f	nazwa pospolita	
 jedynowładczościami	jedynowładczość	subst:pl:inst:f	nazwa pospolita	
@@ -23299,7 +23193,6 @@ jedynym	jedyny:a	adj:pl:dat:m1.m2.m3.f.n:pos
 jedynym	jedyny:a	adj:sg:inst:m1.m2.m3.n:pos		
 jedynym	jedyny:a	adj:sg:loc:m1.m2.m3.n:pos		
 jedynego	jedyny:s	subst:sg:gen.acc:m1	nazwa pospolita	
-jedynego	jedyny:s	subst:sg:gen:m1	nazwa pospolita	
 jedyne	jedyny:s	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jedynemu	jedyny:s	subst:sg:dat:m1	nazwa pospolita	
 jedyni	jedyny:s	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -23368,7 +23261,6 @@ jedzonku	jedzonko	subst:sg:dat:n:ncol	nazwa pospolita
 jedzonku	jedzonko	subst:sg:loc:n:ncol	nazwa pospolita	
 jeepach	jeep	subst:pl:loc:m2	nazwa pospolita	
 jeepa	jeep	subst:sg:gen.acc:m2	nazwa pospolita	
-jeepa	jeep	subst:sg:gen:m2	nazwa pospolita	
 jeepami	jeep	subst:pl:inst:m2	nazwa pospolita	
 jeepem	jeep	subst:sg:inst:m2	nazwa pospolita	
 jeepie	jeep	subst:sg:loc:m2	nazwa pospolita	
@@ -23381,7 +23273,6 @@ jeepy	jeep	subst:pl:nom.acc.voc:m2	nazwa pospolita
 jegier	jegier	subst:sg:nom:m1	nazwa pospolita	
 jegrach	jegier	subst:pl:loc:m1	nazwa pospolita	
 jegra	jegier	subst:sg:gen.acc:m1	nazwa pospolita	
-jegra	jegier	subst:sg:gen:m1	nazwa pospolita	
 jegrami	jegier	subst:pl:inst:m1	nazwa pospolita	
 jegrem	jegier	subst:sg:inst:m1	nazwa pospolita	
 jegrom	jegier	subst:pl:dat:m1	nazwa pospolita	
@@ -23474,7 +23365,6 @@ jegiery	jegiery	subst:pl:nom.acc.voc:n:pt	nazwa pospolita
 jegomosteczek	jegomosteczek	subst:sg:nom:m1	nazwa pospolita	przest.
 jegomosteczkach	jegomosteczek	subst:pl:loc:m1	nazwa pospolita	przest.
 jegomosteczka	jegomosteczek	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-jegomosteczka	jegomosteczek	subst:sg:gen:m1	nazwa pospolita	przest.
 jegomosteczkami	jegomosteczek	subst:pl:inst:m1	nazwa pospolita	przest.
 jegomosteczkiem	jegomosteczek	subst:sg:inst:m1	nazwa pospolita	przest.
 jegomosteczki	jegomosteczek	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
@@ -23487,7 +23377,6 @@ jegomosteczku	jegomosteczek	subst:sg:voc:m1	nazwa pospolita	przest.
 jegomostek	jegomostek	subst:sg:nom:m1	nazwa pospolita	przest.
 jegomostkach	jegomostek	subst:pl:loc:m1	nazwa pospolita	przest.
 jegomostka	jegomostek	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-jegomostka	jegomostek	subst:sg:gen:m1	nazwa pospolita	przest.
 jegomostkami	jegomostek	subst:pl:inst:m1	nazwa pospolita	przest.
 jegomostkiem	jegomostek	subst:sg:inst:m1	nazwa pospolita	przest.
 jegomostki	jegomostek	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
@@ -23536,7 +23425,6 @@ jegomościnym	jegomościny	adj:sg:inst:m1.m2.m3.n:pos		przest.
 jegomościnym	jegomościny	adj:sg:loc:m1.m2.m3.n:pos		przest.
 jegomościuniach	jegomościunio	subst:pl:loc:m1	nazwa pospolita	
 jegomościunia	jegomościunio	subst:sg:gen.acc:m1	nazwa pospolita	
-jegomościunia	jegomościunio	subst:sg:gen:m1	nazwa pospolita	
 jegomościuniami	jegomościunio	subst:pl:inst:m1	nazwa pospolita	
 jegomościunie	jegomościunio	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jegomościuniem	jegomościunio	subst:sg:inst:m1	nazwa pospolita	
@@ -23549,7 +23437,6 @@ jegomościuniu	jegomościunio	subst:sg:loc:m1	nazwa pospolita
 jegomościuniu	jegomościunio	subst:sg:voc:m1	nazwa pospolita	
 jegomościach	jegomość	subst:pl:loc:m1	nazwa pospolita	
 jegomościa	jegomość	subst:sg:gen.acc:m1	nazwa pospolita	
-jegomościa	jegomość	subst:sg:gen:m1	nazwa pospolita	
 jegomościami	jegomość	subst:pl:inst:m1	nazwa pospolita	
 jegomoście	jegomość	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jegomoście	jegomość	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -23573,7 +23460,6 @@ jehowom	jehowa	subst:pl:dat:m1	nazwa pospolita	pot.|lekcew.
 jehowowie	jehowa	subst:pl:nom.voc:m1	nazwa pospolita	pot.|lekcew.
 jehowów	jehowa	subst:pl:gen.acc:m1	nazwa pospolita	pot.|lekcew.
 jehowy	jehowa	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.|lekcew.
-jehowy	jehowa	subst:sg:gen:m1	nazwa pospolita	pot.|lekcew.
 jehowiccy	jehowicki	adj:pl:nom.voc:m1:pos		
 jehowicka	jehowicki	adj:sg:nom.voc:f:pos		
 jehowicką	jehowicki	adj:sg:acc:f:pos		
@@ -23610,7 +23496,6 @@ jehowito	jehowita	subst:sg:voc:m1	nazwa pospolita
 jehowitom	jehowita	subst:pl:dat:m1	nazwa pospolita	
 jehowitów	jehowita	subst:pl:gen.acc:m1	nazwa pospolita	
 jehowity	jehowita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-jehowity	jehowita	subst:sg:gen:m1	nazwa pospolita	
 jehowitce	jehowitka	subst:sg:dat.loc:f	nazwa pospolita	
 jehowitek	jehowitka	subst:pl:gen:f	nazwa pospolita	
 jehowitkach	jehowitka	subst:pl:loc:f	nazwa pospolita	
@@ -23753,8 +23638,6 @@ jelczach	jelcz	subst:pl:loc:m2	nazwa pospolita
 jelczach	jelcz	subst:pl:loc:m2	nazwa pospolita	rzad.
 jelcza	jelcz	subst:sg:gen.acc:m2	nazwa pospolita	
 jelcza	jelcz	subst:sg:gen.acc:m2	nazwa pospolita	rzad.
-jelcza	jelcz	subst:sg:gen:m2	nazwa pospolita	
-jelcza	jelcz	subst:sg:gen:m2	nazwa pospolita	rzad.
 jelczami	jelcz	subst:pl:inst:m2	nazwa pospolita	
 jelczami	jelcz	subst:pl:inst:m2	nazwa pospolita	rzad.
 jelcze	jelcz	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -23812,7 +23695,6 @@ jelczańskość	jelczańskość	subst:sg:acc:f	nazwa pospolita
 jelczańskość	jelczańskość	subst:sg:nom:f	nazwa pospolita	
 jelcach	jelec:s1	subst:pl:loc:m2	nazwa pospolita	zool.
 jelca	jelec:s1	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jelca	jelec:s1	subst:sg:gen:m2	nazwa pospolita	zool.
 jelcami	jelec:s1	subst:pl:inst:m2	nazwa pospolita	zool.
 jelce	jelec:s1	subst:pl:nom.acc.voc:m2	nazwa pospolita	zool.
 jelcem	jelec:s1	subst:sg:inst:m2	nazwa pospolita	zool.
@@ -23859,7 +23741,6 @@ jelenim	jeleni	adj:sg:loc:m1.m2.m3.n:pos
 jelenio	jeleni	adja		
 jeleniakach	jeleniak	subst:pl:loc:m2	nazwa pospolita	mikol.
 jeleniaka	jeleniak	subst:sg:gen.acc:m2	nazwa pospolita	mikol.
-jeleniaka	jeleniak	subst:sg:gen:m2	nazwa pospolita	mikol.
 jeleniakami	jeleniak	subst:pl:inst:m2	nazwa pospolita	mikol.
 jeleniakiem	jeleniak	subst:sg:inst:m2	nazwa pospolita	mikol.
 jeleniaki	jeleniak	subst:pl:nom.acc.voc:m2	nazwa pospolita	mikol.
@@ -23873,8 +23754,6 @@ jeleniarzach	jeleniarz	subst:pl:loc:m1	nazwa pospolita
 jeleniarzach	jeleniarz	subst:pl:loc:m1	nazwa pospolita	rzad.
 jeleniarza	jeleniarz	subst:sg:gen.acc:m1	nazwa pospolita	
 jeleniarza	jeleniarz	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
-jeleniarza	jeleniarz	subst:sg:gen:m1	nazwa pospolita	
-jeleniarza	jeleniarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 jeleniarzami	jeleniarz	subst:pl:inst:m1	nazwa pospolita	
 jeleniarzami	jeleniarz	subst:pl:inst:m1	nazwa pospolita	rzad.
 jeleniarze	jeleniarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -24078,7 +23957,6 @@ jeleniowatym	jeleniowaty	adj:sg:inst:m1.m2.m3.n:pos
 jeleniowatym	jeleniowaty	adj:sg:loc:m1.m2.m3.n:pos		
 jeleniach	jeleń:s1	subst:pl:loc:m2	nazwa pospolita	
 jelenia	jeleń:s1	subst:sg:gen.acc:m2	nazwa pospolita	
-jelenia	jeleń:s1	subst:sg:gen:m2	nazwa pospolita	
 jeleniami	jeleń:s1	subst:pl:inst:m2	nazwa pospolita	
 jelenie	jeleń:s1	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jeleniem	jeleń:s1	subst:sg:inst:m2	nazwa pospolita	
@@ -24090,7 +23968,6 @@ jeleniu	jeleń:s1	subst:sg:voc:m2	nazwa pospolita
 jeleń	jeleń:s1	subst:sg:nom:m2	nazwa pospolita	
 jeleniach	jeleń:s2	subst:pl:loc:m1	nazwa pospolita	
 jelenia	jeleń:s2	subst:sg:gen.acc:m1	nazwa pospolita	
-jelenia	jeleń:s2	subst:sg:gen:m1	nazwa pospolita	
 jeleniami	jeleń:s2	subst:pl:inst:m1	nazwa pospolita	
 jelenie	jeleń:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jelenie	jeleń:s2	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -24197,7 +24074,6 @@ jelitom	jelito	subst:pl:dat:n:ncol	nazwa pospolita
 jelitu	jelito	subst:sg:dat:n:ncol	nazwa pospolita	
 jelitodyszcach	jelitodyszec	subst:pl:loc:m2	nazwa pospolita	zool.
 jelitodyszca	jelitodyszec	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jelitodyszca	jelitodyszec	subst:sg:gen:m2	nazwa pospolita	zool.
 jelitodyszcami	jelitodyszec	subst:pl:inst:m2	nazwa pospolita	zool.
 jelitodyszce	jelitodyszec	subst:pl:nom.acc.voc:m2	nazwa pospolita	zool.
 jelitodyszcem	jelitodyszec	subst:sg:inst:m2	nazwa pospolita	zool.
@@ -24302,7 +24178,6 @@ jelniku	jelnik	subst:sg:voc:m3	nazwa pospolita
 jelonek	jelonek	subst:sg:nom:m2	nazwa pospolita	
 jelonkach	jelonek	subst:pl:loc:m2	nazwa pospolita	
 jelonka	jelonek	subst:sg:gen.acc:m2	nazwa pospolita	
-jelonka	jelonek	subst:sg:gen:m2	nazwa pospolita	
 jelonkami	jelonek	subst:pl:inst:m2	nazwa pospolita	
 jelonkiem	jelonek	subst:sg:inst:m2	nazwa pospolita	
 jelonki	jelonek	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -24534,7 +24409,6 @@ jełkość	jełkość	subst:sg:acc:f	nazwa pospolita
 jełkość	jełkość	subst:sg:nom:f	nazwa pospolita	
 jełopach	jełop	subst:pl:loc:m1	nazwa pospolita	pogard.
 jełopa	jełop	subst:sg:gen.acc:m1	nazwa pospolita	pogard.
-jełopa	jełop	subst:sg:gen:m1	nazwa pospolita	pogard.
 jełopami	jełop	subst:pl:inst:m1	nazwa pospolita	pogard.
 jełopem	jełop	subst:sg:inst:m1	nazwa pospolita	pogard.
 jełopie	jełop	subst:sg:loc:m1	nazwa pospolita	pogard.
@@ -24567,7 +24441,6 @@ jełopom	jełopa:s3	subst:pl:dat:m1	nazwa pospolita	pogard.
 jełopowie	jełopa:s3	subst:pl:nom.voc:m1	nazwa pospolita	pogard.
 jełopów	jełopa:s3	subst:pl:gen.acc:m1	nazwa pospolita	pogard.
 jełopy	jełopa:s3	depr:pl:nom.acc.voc:m2	nazwa pospolita	pogard.
-jełopy	jełopa:s3	subst:sg:gen:m1	nazwa pospolita	pogard.
 jełopce	jełopka	subst:sg:dat.loc:f	nazwa pospolita	pogard.
 jełopek	jełopka	subst:pl:gen:f	nazwa pospolita	pogard.
 jełopkach	jełopka	subst:pl:loc:f	nazwa pospolita	pogard.
@@ -24818,7 +24691,6 @@ jemiołuszko	jemiołuszka	subst:sg:voc:f	nazwa pospolita	zool.
 jemiołuszkom	jemiołuszka	subst:pl:dat:f	nazwa pospolita	zool.
 jenach	jen	subst:pl:loc:m2	nazwa pospolita	monet.
 jena	jen	subst:sg:gen.acc:m2	nazwa pospolita	monet.
-jena	jen	subst:sg:gen:m2	nazwa pospolita	monet.
 jenami	jen	subst:pl:inst:m2	nazwa pospolita	monet.
 jenem	jen	subst:sg:inst:m2	nazwa pospolita	monet.
 jenie	jen	subst:sg:loc:m2	nazwa pospolita	monet.
@@ -24962,7 +24834,6 @@ jendyczymy	jendyczyć	fin:pl:pri:imperf		przest.
 jendyczysz	jendyczyć	fin:sg:sec:imperf		przest.
 jendykach	jendyk	subst:pl:loc:m2	nazwa pospolita	gwar.
 jendyka	jendyk	subst:sg:gen.acc:m2	nazwa pospolita	gwar.
-jendyka	jendyk	subst:sg:gen:m2	nazwa pospolita	gwar.
 jendykami	jendyk	subst:pl:inst:m2	nazwa pospolita	gwar.
 jendykiem	jendyk	subst:sg:inst:m2	nazwa pospolita	gwar.
 jendyki	jendyk	subst:pl:nom.acc.voc:m2	nazwa pospolita	gwar.
@@ -25070,7 +24941,6 @@ jenerale	jenerał	subst:sg:loc:m1	nazwa pospolita	przest.
 jenerale	jenerał	subst:sg:voc:m1	nazwa pospolita	przest.
 jenerałach	jenerał	subst:pl:loc:m1	nazwa pospolita	przest.
 jenerała	jenerał	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-jenerała	jenerał	subst:sg:gen:m1	nazwa pospolita	przest.
 jenerałami	jenerał	subst:pl:inst:m1	nazwa pospolita	przest.
 jenerałem	jenerał	subst:sg:inst:m1	nazwa pospolita	przest.
 jenerał	jenerał	subst:sg:nom:m1	nazwa pospolita	przest.
@@ -25133,7 +25003,6 @@ jenialnym	jenialny	adj:sg:loc:m1.m2.m3.n:pos		daw.
 jeniec	jeniec	subst:sg:nom:m1	nazwa pospolita	
 jeńcach	jeniec	subst:pl:loc:m1	nazwa pospolita	
 jeńca	jeniec	subst:sg:gen.acc:m1	nazwa pospolita	
-jeńca	jeniec	subst:sg:gen:m1	nazwa pospolita	
 jeńcami	jeniec	subst:pl:inst:m1	nazwa pospolita	
 jeńce	jeniec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jeńcem	jeniec	subst:sg:inst:m1	nazwa pospolita	
@@ -25230,7 +25099,6 @@ jenisejskość	jenisejskość	subst:sg:acc:f	nazwa pospolita
 jenisejskość	jenisejskość	subst:sg:nom:f	nazwa pospolita	
 jeniuszach	jeniusz:s1	subst:pl:loc:m1	nazwa pospolita	przest.
 jeniusza	jeniusz:s1	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-jeniusza	jeniusz:s1	subst:sg:gen:m1	nazwa pospolita	przest.
 jeniuszami	jeniusz:s1	subst:pl:inst:m1	nazwa pospolita	przest.
 jeniusze	jeniusz:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
 jeniusze	jeniusz:s1	subst:pl:nom.voc:m1	nazwa pospolita	przest.
@@ -25259,7 +25127,6 @@ jenocie	jenot	subst:sg:loc:m2	nazwa pospolita	zool.
 jenocie	jenot	subst:sg:voc:m2	nazwa pospolita	zool.
 jenotach	jenot	subst:pl:loc:m2	nazwa pospolita	zool.
 jenota	jenot	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jenota	jenot	subst:sg:gen:m2	nazwa pospolita	zool.
 jenotami	jenot	subst:pl:inst:m2	nazwa pospolita	zool.
 jenotem	jenot	subst:sg:inst:m2	nazwa pospolita	zool.
 jenot	jenot	subst:sg:nom:m2	nazwa pospolita	zool.
@@ -25372,7 +25239,6 @@ jeometrom	jeometra	subst:pl:dat:m1	nazwa pospolita	przest.
 jeometrowie	jeometra	subst:pl:nom.voc:m1	nazwa pospolita	przest.
 jeometrów	jeometra	subst:pl:gen.acc:m1	nazwa pospolita	przest.
 jeometry	jeometra	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
-jeometry	jeometra	subst:sg:gen:m1	nazwa pospolita	przest.
 jeometrze	jeometra	subst:sg:dat.loc:m1	nazwa pospolita	przest.
 jeometrzy	jeometra	subst:pl:nom.voc:m1	nazwa pospolita	przest.
 jeometriach	jeometria	subst:pl:loc:f	nazwa pospolita	przest.
@@ -25398,7 +25264,6 @@ jeometrzynom	jeometrzyna	subst:pl:dat:m1	nazwa pospolita	przest.
 jeometrzynowie	jeometrzyna	subst:pl:nom.voc:m1	nazwa pospolita	przest.
 jeometrzynów	jeometrzyna	subst:pl:gen.acc:m1	nazwa pospolita	przest.
 jeometrzyny	jeometrzyna	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
-jeometrzyny	jeometrzyna	subst:sg:gen:m1	nazwa pospolita	przest.
 jeremiadach	jeremiada	subst:pl:loc:f	nazwa pospolita	
 jeremiada	jeremiada	subst:sg:nom:f	nazwa pospolita	
 jeremiadami	jeremiada	subst:pl:inst:f	nazwa pospolita	
@@ -25506,7 +25371,6 @@ jerze	jer:s1	subst:sg:loc:m3	nazwa pospolita	jęz.
 jerze	jer:s1	subst:sg:voc:m3	nazwa pospolita	jęz.
 jerach	jer:s2	subst:pl:loc:m2	nazwa pospolita	zool.
 jera	jer:s2	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jera	jer:s2	subst:sg:gen:m2	nazwa pospolita	zool.
 jerami	jer:s2	subst:pl:inst:m2	nazwa pospolita	zool.
 jerem	jer:s2	subst:sg:inst:m2	nazwa pospolita	zool.
 jer	jer:s2	subst:sg:nom:m2	nazwa pospolita	zool.
@@ -25565,7 +25429,6 @@ jerseju	jersej:s1	subst:sg:loc:m3	nazwa pospolita
 jerseju	jersej:s1	subst:sg:voc:m3	nazwa pospolita	
 jersejach	jersej:s2	subst:pl:loc:m2	nazwa pospolita	
 jerseja	jersej:s2	subst:sg:gen.acc:m2	nazwa pospolita	
-jerseja	jersej:s2	subst:sg:gen:m2	nazwa pospolita	
 jersejami	jersej:s2	subst:pl:inst:m2	nazwa pospolita	
 jerseje	jersej:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jersejem	jersej:s2	subst:sg:inst:m2	nazwa pospolita	
@@ -25623,7 +25486,6 @@ jerseyu	jersey:s1	subst:sg:loc:m3	nazwa pospolita
 jerseyu	jersey:s1	subst:sg:voc:m3	nazwa pospolita	
 jerseyach	jersey:s2	subst:pl:loc:m2	nazwa pospolita	
 jerseya	jersey:s2	subst:sg:gen.acc:m2	nazwa pospolita	
-jerseya	jersey:s2	subst:sg:gen:m2	nazwa pospolita	
 jerseyami	jersey:s2	subst:pl:inst:m2	nazwa pospolita	
 jerseye	jersey:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jerseyem	jersey:s2	subst:sg:inst:m2	nazwa pospolita	
@@ -25783,7 +25645,6 @@ jerzmanowskość	jerzmanowskość	subst:sg:acc:f	nazwa pospolita
 jerzmanowskość	jerzmanowskość	subst:sg:nom:f	nazwa pospolita	
 jerzykach	jerzyk	subst:pl:loc:m2	nazwa pospolita	zool.
 jerzyka	jerzyk	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jerzyka	jerzyk	subst:sg:gen:m2	nazwa pospolita	zool.
 jerzykami	jerzyk	subst:pl:inst:m2	nazwa pospolita	zool.
 jerzykiem	jerzyk	subst:sg:inst:m2	nazwa pospolita	zool.
 jerzyki	jerzyk	subst:pl:nom.acc.voc:m2	nazwa pospolita	zool.
@@ -26114,7 +25975,6 @@ jesionowym	jesionowy	adj:sg:inst:m1.m2.m3.n:pos
 jesionowym	jesionowy	adj:sg:loc:m1.m2.m3.n:pos		
 jesiotrach	jesiotr	subst:pl:loc:m2	nazwa pospolita	zool.
 jesiotra	jesiotr	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jesiotra	jesiotr	subst:sg:gen:m2	nazwa pospolita	zool.
 jesiotrami	jesiotr	subst:pl:inst:m2	nazwa pospolita	zool.
 jesiotrem	jesiotr	subst:sg:inst:m2	nazwa pospolita	zool.
 jesiotr	jesiotr	subst:sg:nom:m2	nazwa pospolita	zool.
@@ -26236,7 +26096,6 @@ jesiotrowym	jesiotrowy	adj:sg:inst:m1.m2.m3.n:pos
 jesiotrowym	jesiotrowy	adj:sg:loc:m1.m2.m3.n:pos		
 jespanach	jespan	subst:pl:loc:m1	nazwa pospolita	daw.
 jespana	jespan	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-jespana	jespan	subst:sg:gen:m1	nazwa pospolita	daw.
 jespanami	jespan	subst:pl:inst:m1	nazwa pospolita	daw.
 jespanem	jespan	subst:sg:inst:m1	nazwa pospolita	daw.
 jespanie	jespan	subst:sg:voc:m1	nazwa pospolita	daw.
@@ -26385,7 +26244,6 @@ jeśli	jeśli	comp
 jeśliby	jeśliby	comp		
 jeśpanach	jeśpan	subst:pl:loc:m1	nazwa pospolita	daw.
 jeśpana	jeśpan	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-jeśpana	jeśpan	subst:sg:gen:m1	nazwa pospolita	daw.
 jeśpanami	jeśpan	subst:pl:inst:m1	nazwa pospolita	daw.
 jeśpanem	jeśpan	subst:sg:inst:m1	nazwa pospolita	daw.
 jeśpanie	jeśpan	subst:sg:voc:m1	nazwa pospolita	daw.
@@ -26398,7 +26256,6 @@ jeśpanu	jeśpan	subst:sg:loc:m1	nazwa pospolita	daw.
 jeśpany	jeśpan	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 jetlagach	jetlag	subst:pl:loc:m2	nazwa pospolita	
 jetlaga	jetlag	subst:sg:gen.acc:m2	nazwa pospolita	
-jetlaga	jetlag	subst:sg:gen:m2	nazwa pospolita	
 jetlagami	jetlag	subst:pl:inst:m2	nazwa pospolita	
 jetlagiem	jetlag	subst:sg:inst:m2	nazwa pospolita	
 jetlagi	jetlag	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -26491,7 +26348,6 @@ jezdnym	jezdny:a	adj:pl:dat:m1.m2.m3.f.n:pos
 jezdnym	jezdny:a	adj:sg:inst:m1.m2.m3.n:pos		
 jezdnym	jezdny:a	adj:sg:loc:m1.m2.m3.n:pos		
 jezdnego	jezdny:s	subst:sg:gen.acc:m1	nazwa pospolita	hist.
-jezdnego	jezdny:s	subst:sg:gen:m1	nazwa pospolita	hist.
 jezdne	jezdny:s	depr:pl:nom.acc.voc:m2	nazwa pospolita	hist.
 jezdnemu	jezdny:s	subst:sg:dat:m1	nazwa pospolita	hist.
 jezdni	jezdny:s	subst:pl:nom.voc:m1	nazwa pospolita	hist.
@@ -26854,7 +26710,6 @@ jezuito	jezuita	subst:sg:voc:m1	nazwa pospolita
 jezuitom	jezuita	subst:pl:dat:m1	nazwa pospolita	
 jezuitów	jezuita	subst:pl:gen.acc:m1	nazwa pospolita	
 jezuity	jezuita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-jezuity	jezuita	subst:sg:gen:m1	nazwa pospolita	
 jezuitce	jezuitka	subst:sg:dat.loc:f	nazwa pospolita	
 jezuitek	jezuitka	subst:pl:gen:f	nazwa pospolita	
 jezuitkach	jezuitka	subst:pl:loc:f	nazwa pospolita	
@@ -27061,7 +26916,6 @@ jeżdżono	jeździć	imps:imperf
 jeździec	jeździec	subst:sg:nom:m1	nazwa pospolita	
 jeźdźcach	jeździec	subst:pl:loc:m1	nazwa pospolita	
 jeźdźca	jeździec	subst:sg:gen.acc:m1	nazwa pospolita	
-jeźdźca	jeździec	subst:sg:gen:m1	nazwa pospolita	
 jeźdźcami	jeździec	subst:pl:inst:m1	nazwa pospolita	
 jeźdźce	jeździec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jeźdźcem	jeździec	subst:sg:inst:m1	nazwa pospolita	
@@ -27145,7 +26999,6 @@ jeżaku	jeżak:s1	subst:sg:loc:m3	nazwa pospolita
 jeżaku	jeżak:s1	subst:sg:voc:m3	nazwa pospolita	
 jeżakach	jeżak:s2	subst:pl:loc:m2	nazwa pospolita	
 jeżaka	jeżak:s2	subst:sg:gen.acc:m2	nazwa pospolita	
-jeżaka	jeżak:s2	subst:sg:gen:m2	nazwa pospolita	
 jeżakami	jeżak:s2	subst:pl:inst:m2	nazwa pospolita	
 jeżakiem	jeżak:s2	subst:sg:inst:m2	nazwa pospolita	
 jeżaki	jeżak:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -27344,7 +27197,6 @@ jeżogłówkowatym	jeżogłówkowaty	adj:sg:inst:m1.m2.m3.n:pos
 jeżogłówkowatym	jeżogłówkowaty	adj:sg:loc:m1.m2.m3.n:pos		
 jeżorybach	jeżoryb	subst:pl:loc:m2	nazwa pospolita	zool.
 jeżoryba	jeżoryb	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jeżoryba	jeżoryb	subst:sg:gen:m2	nazwa pospolita	zool.
 jeżorybami	jeżoryb	subst:pl:inst:m2	nazwa pospolita	zool.
 jeżorybem	jeżoryb	subst:sg:inst:m2	nazwa pospolita	zool.
 jeżorybie	jeżoryb	subst:sg:loc:m2	nazwa pospolita	zool.
@@ -27474,7 +27326,6 @@ jeżowatym	jeżowaty	adj:sg:inst:m1.m2.m3.n:pos
 jeżowatym	jeżowaty	adj:sg:loc:m1.m2.m3.n:pos		
 jeżowcach	jeżowiec	subst:pl:loc:m2	nazwa pospolita	zool.
 jeżowca	jeżowiec	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jeżowca	jeżowiec	subst:sg:gen:m2	nazwa pospolita	zool.
 jeżowcami	jeżowiec	subst:pl:inst:m2	nazwa pospolita	zool.
 jeżowce	jeżowiec	subst:pl:nom.acc.voc:m2	nazwa pospolita	zool.
 jeżowcem	jeżowiec	subst:sg:inst:m2	nazwa pospolita	zool.
@@ -27560,8 +27411,6 @@ jeżozwierzach	jeżozwierz	subst:pl:loc:m2	nazwa pospolita	rzad.|zool.
 jeżozwierzach	jeżozwierz	subst:pl:loc:m2	nazwa pospolita	zool.
 jeżozwierza	jeżozwierz	subst:sg:gen.acc:m2	nazwa pospolita	rzad.|zool.
 jeżozwierza	jeżozwierz	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jeżozwierza	jeżozwierz	subst:sg:gen:m2	nazwa pospolita	rzad.|zool.
-jeżozwierza	jeżozwierz	subst:sg:gen:m2	nazwa pospolita	zool.
 jeżozwierzami	jeżozwierz	subst:pl:inst:m2	nazwa pospolita	rzad.|zool.
 jeżozwierzami	jeżozwierz	subst:pl:inst:m2	nazwa pospolita	zool.
 jeżozwierze	jeżozwierz	subst:pl:nom.acc.voc:m2	nazwa pospolita	rzad.|zool.
@@ -27628,7 +27477,6 @@ jeżówko	jeżówka	subst:sg:voc:f	nazwa pospolita
 jeżówkom	jeżówka	subst:pl:dat:f	nazwa pospolita	
 jeżach	jeż:s1	subst:pl:loc:m2	nazwa pospolita	zool.
 jeża	jeż:s1	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jeża	jeż:s1	subst:sg:gen:m2	nazwa pospolita	zool.
 jeżami	jeż:s1	subst:pl:inst:m2	nazwa pospolita	zool.
 jeże	jeż:s1	subst:pl:nom.acc.voc:m2	nazwa pospolita	zool.
 jeżem	jeż:s1	subst:sg:inst:m2	nazwa pospolita	zool.
@@ -27778,7 +27626,6 @@ jeżymy	jeżyć	fin:pl:pri:imperf
 jeżysz	jeżyć	fin:sg:sec:imperf		
 jeżykach	jeżyk	subst:pl:loc:m2	nazwa pospolita	
 jeżyka	jeżyk	subst:sg:gen.acc:m2	nazwa pospolita	
-jeżyka	jeżyk	subst:sg:gen:m2	nazwa pospolita	
 jeżykami	jeżyk	subst:pl:inst:m2	nazwa pospolita	
 jeżykiem	jeżyk	subst:sg:inst:m2	nazwa pospolita	
 jeżyki	jeżyk	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -27801,7 +27648,6 @@ jeżyny	jeżyna	subst:pl:nom.acc.voc:f	nazwa pospolita
 jeżyny	jeżyna	subst:sg:gen:f	nazwa pospolita	
 jeżyniakach	jeżyniak	subst:pl:loc:m2	nazwa pospolita	
 jeżyniaka	jeżyniak	subst:sg:gen.acc:m2	nazwa pospolita	
-jeżyniaka	jeżyniak	subst:sg:gen:m2	nazwa pospolita	
 jeżyniakami	jeżyniak	subst:pl:inst:m2	nazwa pospolita	
 jeżyniakiem	jeżyniak	subst:sg:inst:m2	nazwa pospolita	
 jeżyniaki	jeżyniak	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -28097,7 +27943,6 @@ jęczmyku	jęczmyk	subst:sg:loc:m3	nazwa pospolita
 jęczmyku	jęczmyk	subst:sg:voc:m3	nazwa pospolita	
 jędorach	jędor	subst:pl:loc:m2	nazwa pospolita	daw.
 jędora	jędor	subst:sg:gen.acc:m2	nazwa pospolita	daw.
-jędora	jędor	subst:sg:gen:m2	nazwa pospolita	daw.
 jędorami	jędor	subst:pl:inst:m2	nazwa pospolita	daw.
 jędorem	jędor	subst:sg:inst:m2	nazwa pospolita	daw.
 jędor	jędor	subst:sg:nom:m2	nazwa pospolita	daw.
@@ -28327,7 +28172,6 @@ jędzy	jędza	subst:sg:dat.loc:f	nazwa pospolita
 jędzy	jędza	subst:sg:gen:f	nazwa pospolita	
 jędzonach	jędzon	subst:pl:loc:m2	nazwa pospolita	
 jędzona	jędzon	subst:sg:gen.acc:m2	nazwa pospolita	
-jędzona	jędzon	subst:sg:gen:m2	nazwa pospolita	
 jędzonami	jędzon	subst:pl:inst:m2	nazwa pospolita	
 jędzonem	jędzon	subst:sg:inst:m2	nazwa pospolita	
 jędzonie	jędzon	subst:sg:loc:m2	nazwa pospolita	
@@ -28795,7 +28639,6 @@ języczliwym	języczliwy	adj:sg:loc:m1.m2.m3.n:pos		daw.
 języcznikach	języcznik	subst:pl:loc:m2	nazwa pospolita	bot.|pot.
 języcznikach	języcznik	subst:pl:loc:m3	nazwa pospolita	bot.
 języcznika	języcznik	subst:sg:gen.acc:m2	nazwa pospolita	bot.|pot.
-języcznika	języcznik	subst:sg:gen:m2	nazwa pospolita	bot.|pot.
 języcznika	języcznik	subst:sg:gen:m3	nazwa pospolita	bot.
 języcznikami	języcznik	subst:pl:inst:m2	nazwa pospolita	bot.|pot.
 języcznikami	języcznik	subst:pl:inst:m3	nazwa pospolita	bot.
@@ -28898,7 +28741,6 @@ językowatym	językowaty	adj:sg:inst:m1.m2.m3.n:pos
 językowatym	językowaty	adj:sg:loc:m1.m2.m3.n:pos		
 językowcach	językowiec	subst:pl:loc:m1	nazwa pospolita	
 językowca	językowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-językowca	językowiec	subst:sg:gen:m1	nazwa pospolita	
 językowcami	językowiec	subst:pl:inst:m1	nazwa pospolita	
 językowce	językowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 językowcem	językowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -28957,7 +28799,6 @@ językoznawcom	językoznawca	subst:pl:dat:m1	nazwa pospolita
 językoznawców	językoznawca	subst:pl:gen.acc:m1	nazwa pospolita	
 językoznawcy	językoznawca	subst:pl:nom.voc:m1	nazwa pospolita	
 językoznawcy	językoznawca	subst:sg:dat.loc:m1	nazwa pospolita	
-językoznawcy	językoznawca	subst:sg:gen:m1	nazwa pospolita	
 językoznawczo	językoznawczo	adv:pos		
 językoznawczościach	językoznawczość	subst:pl:loc:f	nazwa pospolita	
 językoznawczościami	językoznawczość	subst:pl:inst:f	nazwa pospolita	
@@ -29074,7 +28915,6 @@ jidyszysto	jidyszysta	subst:sg:voc:m1	nazwa pospolita
 jidyszystom	jidyszysta	subst:pl:dat:m1	nazwa pospolita	
 jidyszystów	jidyszysta	subst:pl:gen.acc:m1	nazwa pospolita	
 jidyszysty	jidyszysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-jidyszysty	jidyszysta	subst:sg:gen:m1	nazwa pospolita	
 jidyszyście	jidyszysta	subst:sg:dat.loc:m1	nazwa pospolita	
 jidyszyści	jidyszysta	subst:pl:nom.voc:m1	nazwa pospolita	
 jidyszyzmach	jidyszyzm	subst:pl:loc:m3	nazwa pospolita	
@@ -29101,11 +28941,9 @@ joannito	joannita	subst:sg:voc:m1	nazwa pospolita
 joannitom	joannita	subst:pl:dat:m1	nazwa pospolita	
 joannitów	joannita	subst:pl:gen.acc:m1	nazwa pospolita	
 joannity	joannita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-joannity	joannita	subst:sg:gen:m1	nazwa pospolita	
 jockei	jockey	subst:pl:gen.acc:m1	nazwa pospolita	
 jockeyach	jockey	subst:pl:loc:m1	nazwa pospolita	
 jockeya	jockey	subst:sg:gen.acc:m1	nazwa pospolita	
-jockeya	jockey	subst:sg:gen:m1	nazwa pospolita	
 jockeyami	jockey	subst:pl:inst:m1	nazwa pospolita	
 jockeye	jockey	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jockeye	jockey	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -29445,7 +29283,6 @@ jodłowatym	jodłowaty	adj:sg:inst:m1.m2.m3.n:pos
 jodłowatym	jodłowaty	adj:sg:loc:m1.m2.m3.n:pos		
 jodłowcach	jodłowiec	subst:pl:loc:m2	nazwa pospolita	zool.
 jodłowca	jodłowiec	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-jodłowca	jodłowiec	subst:sg:gen:m2	nazwa pospolita	zool.
 jodłowcami	jodłowiec	subst:pl:inst:m2	nazwa pospolita	zool.
 jodłowce	jodłowiec	subst:pl:nom.acc.voc:m2	nazwa pospolita	zool.
 jodłowcem	jodłowiec	subst:sg:inst:m2	nazwa pospolita	zool.
@@ -29880,7 +29717,6 @@ jodzicy	jodzica	subst:sg:dat.loc:f	nazwa pospolita
 jodzicy	jodzica	subst:sg:gen:f	nazwa pospolita	
 jogach	jog	subst:pl:loc:m1	nazwa pospolita	
 joga	jog	subst:sg:gen.acc:m1	nazwa pospolita	
-joga	jog	subst:sg:gen:m1	nazwa pospolita	
 jogami	jog	subst:pl:inst:m1	nazwa pospolita	
 jogiem	jog	subst:sg:inst:m1	nazwa pospolita	
 jogi	jog	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -29904,7 +29740,6 @@ jogo	joga	subst:sg:voc:f	nazwa pospolita
 jogom	joga	subst:pl:dat:f	nazwa pospolita	
 jogaczarach	jogaczar	subst:pl:loc:m1	nazwa pospolita	
 jogaczara	jogaczar	subst:sg:gen.acc:m1	nazwa pospolita	
-jogaczara	jogaczar	subst:sg:gen:m1	nazwa pospolita	
 jogaczarami	jogaczar	subst:pl:inst:m1	nazwa pospolita	
 jogaczarem	jogaczar	subst:sg:inst:m1	nazwa pospolita	
 jogaczar	jogaczar	subst:sg:nom:m1	nazwa pospolita	
@@ -29928,7 +29763,6 @@ joggingu	jogging	subst:sg:loc:m3	nazwa pospolita
 joggingu	jogging	subst:sg:voc:m3	nazwa pospolita	
 joginach	jogin	subst:pl:loc:m1	nazwa pospolita	
 jogina	jogin	subst:sg:gen.acc:m1	nazwa pospolita	
-jogina	jogin	subst:sg:gen:m1	nazwa pospolita	
 joginami	jogin	subst:pl:inst:m1	nazwa pospolita	
 joginem	jogin	subst:sg:inst:m1	nazwa pospolita	
 joginie	jogin	subst:sg:loc:m1	nazwa pospolita	
@@ -30062,7 +29896,6 @@ joincie	joint	subst:sg:loc:m2	nazwa pospolita
 joincie	joint	subst:sg:voc:m2	nazwa pospolita	
 jointach	joint	subst:pl:loc:m2	nazwa pospolita	
 jointa	joint	subst:sg:gen.acc:m2	nazwa pospolita	
-jointa	joint	subst:sg:gen:m2	nazwa pospolita	
 jointami	joint	subst:pl:inst:m2	nazwa pospolita	
 jointem	joint	subst:sg:inst:m2	nazwa pospolita	
 joint	joint	subst:sg:nom:m2	nazwa pospolita	
@@ -30178,7 +30011,6 @@ jojoby	jojoba	subst:pl:nom.acc.voc:f	nazwa pospolita
 jojoby	jojoba	subst:sg:gen:f	nazwa pospolita	
 jokerach	joker	subst:pl:loc:m2	nazwa pospolita	
 jokera	joker	subst:sg:gen.acc:m2	nazwa pospolita	
-jokera	joker	subst:sg:gen:m2	nazwa pospolita	
 jokerami	joker	subst:pl:inst:m2	nazwa pospolita	
 jokerem	joker	subst:sg:inst:m2	nazwa pospolita	
 joker	joker	subst:sg:nom:m2	nazwa pospolita	
@@ -30284,7 +30116,6 @@ jołomu	jołom	subst:sg:gen:m3	nazwa pospolita	daw.
 jołomy	jołom	subst:pl:nom.acc.voc:m3	nazwa pospolita	daw.
 jołopach	jołop	subst:pl:loc:m1	nazwa pospolita	
 jołopa	jołop	subst:sg:gen.acc:m1	nazwa pospolita	
-jołopa	jołop	subst:sg:gen:m1	nazwa pospolita	
 jołopami	jołop	subst:pl:inst:m1	nazwa pospolita	
 jołopem	jołop	subst:sg:inst:m1	nazwa pospolita	
 jołopie	jołop	subst:sg:loc:m1	nazwa pospolita	
@@ -30317,7 +30148,6 @@ jołopom	jołopa:s3	subst:pl:dat:m1	nazwa pospolita	pogard.
 jołopowie	jołopa:s3	subst:pl:nom.voc:m1	nazwa pospolita	pogard.
 jołopów	jołopa:s3	subst:pl:gen.acc:m1	nazwa pospolita	pogard.
 jołopy	jołopa:s3	depr:pl:nom.acc.voc:m2	nazwa pospolita	pogard.
-jołopy	jołopa:s3	subst:sg:gen:m1	nazwa pospolita	pogard.
 jonach	jon	subst:pl:loc:m3	nazwa pospolita	chem.|fiz.
 jonami	jon	subst:pl:inst:m3	nazwa pospolita	chem.|fiz.
 jonem	jon	subst:sg:inst:m3	nazwa pospolita	chem.|fiz.
@@ -30331,7 +30161,6 @@ jonu	jon	subst:sg:gen:m3	nazwa pospolita	chem.|fiz.
 jony	jon	subst:pl:nom.acc.voc:m3	nazwa pospolita	chem.|fiz.
 jonatanach	jonatan	subst:pl:loc:m2	nazwa pospolita	ogr.
 jonatana	jonatan	subst:sg:gen.acc:m2	nazwa pospolita	ogr.
-jonatana	jonatan	subst:sg:gen:m2	nazwa pospolita	ogr.
 jonatanami	jonatan	subst:pl:inst:m2	nazwa pospolita	ogr.
 jonatanem	jonatan	subst:sg:inst:m2	nazwa pospolita	ogr.
 jonatanie	jonatan	subst:sg:loc:m2	nazwa pospolita	ogr.
@@ -31074,7 +30903,6 @@ jowialisto	jowialista	subst:sg:voc:m1	nazwa pospolita	przest.
 jowialistom	jowialista	subst:pl:dat:m1	nazwa pospolita	przest.
 jowialistów	jowialista	subst:pl:gen.acc:m1	nazwa pospolita	przest.
 jowialisty	jowialista	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
-jowialisty	jowialista	subst:sg:gen:m1	nazwa pospolita	przest.
 jowialiście	jowialista	subst:sg:dat.loc:m1	nazwa pospolita	przest.
 jowialiści	jowialista	subst:pl:nom.voc:m1	nazwa pospolita	przest.
 jowializmach	jowializm	subst:pl:loc:m3	nazwa pospolita	
@@ -31280,7 +31108,6 @@ józefowskość	józefowskość	subst:sg:acc:f	nazwa pospolita
 józefowskość	józefowskość	subst:sg:nom:f	nazwa pospolita	
 juanach	juan	subst:pl:loc:m2	nazwa pospolita	
 juana	juan	subst:sg:gen.acc:m2	nazwa pospolita	
-juana	juan	subst:sg:gen:m2	nazwa pospolita	
 juanami	juan	subst:pl:inst:m2	nazwa pospolita	
 juanem	juan	subst:sg:inst:m2	nazwa pospolita	
 juanie	juan	subst:sg:loc:m2	nazwa pospolita	
@@ -31340,7 +31167,6 @@ jubilacie	jubilat	subst:sg:voc:m1	nazwa pospolita
 jubilaci	jubilat	subst:pl:nom.voc:m1	nazwa pospolita	
 jubilatach	jubilat	subst:pl:loc:m1	nazwa pospolita	
 jubilata	jubilat	subst:sg:gen.acc:m1	nazwa pospolita	
-jubilata	jubilat	subst:sg:gen:m1	nazwa pospolita	
 jubilatami	jubilat	subst:pl:inst:m1	nazwa pospolita	
 jubilatem	jubilat	subst:sg:inst:m1	nazwa pospolita	
 jubilat	jubilat	subst:sg:nom:m1	nazwa pospolita	
@@ -31407,7 +31233,6 @@ jubileatyzmu	jubileatyzm	subst:sg:gen:m3	nazwa pospolita
 jubileatyzmy	jubileatyzm	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 jubilerach	jubiler	subst:pl:loc:m1	nazwa pospolita	
 jubilera	jubiler	subst:sg:gen.acc:m1	nazwa pospolita	
-jubilera	jubiler	subst:sg:gen:m1	nazwa pospolita	
 jubilerami	jubiler	subst:pl:inst:m1	nazwa pospolita	
 jubilerem	jubiler	subst:sg:inst:m1	nazwa pospolita	
 jubiler	jubiler	subst:sg:nom:m1	nazwa pospolita	
@@ -31586,7 +31411,6 @@ jubileuszuj	jubileuszować	impt:sg:sec:imperf
 jubileuszujmy	jubileuszować	impt:pl:pri:imperf		
 jubileuszowcach	jubileuszowiec	subst:pl:loc:m1	nazwa pospolita	
 jubileuszowca	jubileuszowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-jubileuszowca	jubileuszowiec	subst:sg:gen:m1	nazwa pospolita	
 jubileuszowcami	jubileuszowiec	subst:pl:inst:m1	nazwa pospolita	
 jubileuszowce	jubileuszowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 jubileuszowcem	jubileuszowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -31764,8 +31588,6 @@ juchów	jucha:s2	subst:pl:gen.acc:m1	nazwa pospolita
 juchów	jucha:s2	subst:pl:gen:m2	nazwa pospolita	
 juchy	jucha:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 juchy	jucha:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
-juchy	jucha:s2	subst:sg:gen:m1	nazwa pospolita	
-juchy	jucha:s2	subst:sg:gen:m2	nazwa pospolita	
 jusze	jucha:s2	subst:sg:dat.loc:m1	nazwa pospolita	
 jusze	jucha:s2	subst:sg:dat.loc:m2	nazwa pospolita	
 juchcie	jucht	subst:sg:loc:m3	nazwa pospolita	
@@ -31959,7 +31781,6 @@ judaisto	judaista	subst:sg:voc:m1	nazwa pospolita
 judaistom	judaista	subst:pl:dat:m1	nazwa pospolita	
 judaistów	judaista	subst:pl:gen.acc:m1	nazwa pospolita	
 judaisty	judaista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-judaisty	judaista	subst:sg:gen:m1	nazwa pospolita	
 judaiście	judaista	subst:sg:dat.loc:m1	nazwa pospolita	
 judaiści	judaista	subst:pl:nom.voc:m1	nazwa pospolita	
 judaistycznościach	judaistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -32123,7 +31944,6 @@ judaizujmy	judaizować	impt:pl:pri:imperf
 judaszek	judaszek	subst:sg:nom:m1	nazwa pospolita	
 judaszkach	judaszek	subst:pl:loc:m1	nazwa pospolita	
 judaszka	judaszek	subst:sg:gen.acc:m1	nazwa pospolita	
-judaszka	judaszek	subst:sg:gen:m1	nazwa pospolita	
 judaszkami	judaszek	subst:pl:inst:m1	nazwa pospolita	
 judaszkiem	judaszek	subst:sg:inst:m1	nazwa pospolita	
 judaszki	judaszek	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -32151,7 +31971,6 @@ judaszostwu	judaszostwo	subst:sg:dat:n:ncol	nazwa pospolita
 judaszowcach	judaszowiec	subst:pl:loc:m2	nazwa pospolita	pot.
 judaszowcach	judaszowiec	subst:pl:loc:m3	nazwa pospolita	
 judaszowca	judaszowiec	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-judaszowca	judaszowiec	subst:sg:gen:m2	nazwa pospolita	pot.
 judaszowca	judaszowiec	subst:sg:gen:m3	nazwa pospolita	
 judaszowcami	judaszowiec	subst:pl:inst:m2	nazwa pospolita	pot.
 judaszowcami	judaszowiec	subst:pl:inst:m3	nazwa pospolita	
@@ -32246,7 +32065,6 @@ judaszowym	judaszowy	adj:sg:loc:m1.m2.m3.n:pos
 judaszach	judasz:s1	subst:pl:loc:m2	nazwa pospolita	
 judaszach	judasz:s1	subst:pl:loc:m3	nazwa pospolita	
 judasza	judasz:s1	subst:sg:gen.acc:m2	nazwa pospolita	
-judasza	judasz:s1	subst:sg:gen:m2	nazwa pospolita	
 judasza	judasz:s1	subst:sg:gen:m3	nazwa pospolita	
 judaszami	judasz:s1	subst:pl:inst:m2	nazwa pospolita	
 judaszami	judasz:s1	subst:pl:inst:m3	nazwa pospolita	
@@ -32270,7 +32088,6 @@ judaszy	judasz:s1	subst:pl:gen:m2	nazwa pospolita
 judaszy	judasz:s1	subst:pl:gen:m3	nazwa pospolita	
 judaszach	judasz:s2	subst:pl:loc:m1	nazwa pospolita	
 judasza	judasz:s2	subst:sg:gen.acc:m1	nazwa pospolita	
-judasza	judasz:s2	subst:sg:gen:m1	nazwa pospolita	
 judaszami	judasz:s2	subst:pl:inst:m1	nazwa pospolita	
 judasze	judasz:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 judasze	judasz:s2	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -32323,7 +32140,6 @@ judeochrześcijanach	judeochrześcijanin	subst:pl:loc:m1	nazwa pospolita
 judeochrześcijanami	judeochrześcijanin	subst:pl:inst:m1	nazwa pospolita	
 judeochrześcijanie	judeochrześcijanin	subst:pl:nom.voc:m1	nazwa pospolita	
 judeochrześcijanina	judeochrześcijanin	subst:sg:gen.acc:m1	nazwa pospolita	
-judeochrześcijanina	judeochrześcijanin	subst:sg:gen:m1	nazwa pospolita	
 judeochrześcijaninem	judeochrześcijanin	subst:sg:inst:m1	nazwa pospolita	
 judeochrześcijaninie	judeochrześcijanin	subst:sg:loc:m1	nazwa pospolita	
 judeochrześcijaninie	judeochrześcijanin	subst:sg:voc:m1	nazwa pospolita	
@@ -32422,8 +32238,6 @@ judofilach	judofil	subst:pl:loc:m1	nazwa pospolita
 judofilach	judofil	subst:pl:loc:m1	nazwa pospolita	rzad.
 judofila	judofil	subst:sg:gen.acc:m1	nazwa pospolita	
 judofila	judofil	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
-judofila	judofil	subst:sg:gen:m1	nazwa pospolita	
-judofila	judofil	subst:sg:gen:m1	nazwa pospolita	rzad.
 judofilami	judofil	subst:pl:inst:m1	nazwa pospolita	
 judofilami	judofil	subst:pl:inst:m1	nazwa pospolita	rzad.
 judofile	judofil	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -32506,7 +32320,6 @@ judofobiom	judofobia	subst:pl:dat:f	nazwa pospolita
 judocy	judok	subst:pl:nom.voc:m1	nazwa pospolita	sport.
 judokach	judok	subst:pl:loc:m1	nazwa pospolita	sport.
 judoka	judok	subst:sg:gen.acc:m1	nazwa pospolita	sport.
-judoka	judok	subst:sg:gen:m1	nazwa pospolita	sport.
 judokami	judok	subst:pl:inst:m1	nazwa pospolita	sport.
 judokiem	judok	subst:sg:inst:m1	nazwa pospolita	sport.
 judoki	judok	depr:pl:nom.acc.voc:m2	nazwa pospolita	sport.
@@ -32524,13 +32337,11 @@ judokami	judoka	subst:pl:inst:m1	nazwa pospolita
 judoką	judoka	subst:sg:inst:m1	nazwa pospolita	
 judokę	judoka	subst:sg:acc:m1	nazwa pospolita	
 judoki	judoka	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-judoki	judoka	subst:sg:gen:m1	nazwa pospolita	
 judoko	judoka	subst:sg:voc:m1	nazwa pospolita	
 judokom	judoka	subst:pl:dat:m1	nazwa pospolita	
 judoków	judoka	subst:pl:gen.acc:m1	nazwa pospolita	
 judowcach	judowiec	subst:pl:loc:m1	nazwa pospolita	
 judowca	judowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-judowca	judowiec	subst:sg:gen:m1	nazwa pospolita	
 judowcami	judowiec	subst:pl:inst:m1	nazwa pospolita	
 judowce	judowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 judowcem	judowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -32611,7 +32422,6 @@ judzeniu	judzenie	subst:sg:loc:n:ncol	nazwa pospolita
 judzeń	judzenie	subst:pl:gen:n:ncol	nazwa pospolita	
 judzicielach	judziciel	subst:pl:loc:m1	nazwa pospolita	
 judziciela	judziciel	subst:sg:gen.acc:m1	nazwa pospolita	
-judziciela	judziciel	subst:sg:gen:m1	nazwa pospolita	
 judzicielami	judziciel	subst:pl:inst:m1	nazwa pospolita	
 judziciele	judziciel	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 judziciele	judziciel	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -32822,7 +32632,6 @@ jugosłowiańskość	jugosłowiańskość	subst:sg:acc:f	nazwa pospolita
 jugosłowiańskość	jugosłowiańskość	subst:sg:nom:f	nazwa pospolita	
 juhasach	juhas	subst:pl:loc:m1	nazwa pospolita	
 juhasa	juhas	subst:sg:gen.acc:m1	nazwa pospolita	
-juhasa	juhas	subst:sg:gen:m1	nazwa pospolita	
 juhasami	juhas	subst:pl:inst:m1	nazwa pospolita	
 juhasem	juhas	subst:sg:inst:m1	nazwa pospolita	
 juhasie	juhas	subst:sg:loc:m1	nazwa pospolita	
@@ -33341,7 +33150,6 @@ jumy	juma	subst:pl:nom.acc.voc:f	nazwa pospolita	pot.|środ.
 jumy	juma	subst:sg:gen:f	nazwa pospolita	pot.|środ.
 jumaczach	jumacz	subst:pl:loc:m1	nazwa pospolita	pot.|środ.
 jumacza	jumacz	subst:sg:gen.acc:m1	nazwa pospolita	pot.|środ.
-jumacza	jumacz	subst:sg:gen:m1	nazwa pospolita	pot.|środ.
 jumaczami	jumacz	subst:pl:inst:m1	nazwa pospolita	pot.|środ.
 jumacze	jumacz	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.|środ.
 jumacze	jumacz	subst:pl:nom.voc:m1	nazwa pospolita	pot.|środ.
@@ -33455,7 +33263,6 @@ jumperze	jumper:s1	subst:sg:loc:m3	nazwa pospolita
 jumperze	jumper:s1	subst:sg:voc:m3	nazwa pospolita	
 jumperach	jumper:s2	subst:pl:loc:m1	nazwa pospolita	
 jumpera	jumper:s2	subst:sg:gen.acc:m1	nazwa pospolita	
-jumpera	jumper:s2	subst:sg:gen:m1	nazwa pospolita	
 jumperami	jumper:s2	subst:pl:inst:m1	nazwa pospolita	
 jumperem	jumper:s2	subst:sg:inst:m1	nazwa pospolita	
 jumper	jumper:s2	subst:sg:nom:m1	nazwa pospolita	
@@ -33549,7 +33356,6 @@ junactwu	junactwo	subst:sg:dat:n:ncol	nazwa pospolita
 junaczek	junaczek	subst:sg:nom:m1	nazwa pospolita	
 junaczkach	junaczek	subst:pl:loc:m1	nazwa pospolita	
 junaczka	junaczek	subst:sg:gen.acc:m1	nazwa pospolita	
-junaczka	junaczek	subst:sg:gen:m1	nazwa pospolita	
 junaczkami	junaczek	subst:pl:inst:m1	nazwa pospolita	
 junaczkiem	junaczek	subst:sg:inst:m1	nazwa pospolita	
 junaczki	junaczek	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -33681,7 +33487,6 @@ junaczysz	junaczyć	fin:sg:sec:imperf		daw.
 junacy	junak	subst:pl:nom.voc:m1	nazwa pospolita	
 junakach	junak	subst:pl:loc:m1	nazwa pospolita	
 junaka	junak	subst:sg:gen.acc:m1	nazwa pospolita	
-junaka	junak	subst:sg:gen:m1	nazwa pospolita	
 junakami	junak	subst:pl:inst:m1	nazwa pospolita	
 junakiem	junak	subst:sg:inst:m1	nazwa pospolita	
 junaki	junak	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -33780,7 +33585,6 @@ junacie	junat	subst:sg:loc:m2	nazwa pospolita
 junacie	junat	subst:sg:voc:m2	nazwa pospolita	
 junatach	junat	subst:pl:loc:m2	nazwa pospolita	
 junata	junat	subst:sg:gen.acc:m2	nazwa pospolita	
-junata	junat	subst:sg:gen:m2	nazwa pospolita	
 junatami	junat	subst:pl:inst:m2	nazwa pospolita	
 junatem	junat	subst:sg:inst:m2	nazwa pospolita	
 junat	junat	subst:sg:nom:m2	nazwa pospolita	
@@ -33790,7 +33594,6 @@ junatów	junat	subst:pl:gen:m2	nazwa pospolita
 junaty	junat	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 jungach	jung	subst:pl:loc:m1	nazwa pospolita	
 junga	jung	subst:sg:gen.acc:m1	nazwa pospolita	
-junga	jung	subst:sg:gen:m1	nazwa pospolita	
 jungami	jung	subst:pl:inst:m1	nazwa pospolita	
 jungiem	jung	subst:sg:inst:m1	nazwa pospolita	
 jungi	jung	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -33808,14 +33611,12 @@ jungami	junga	subst:pl:inst:m1	nazwa pospolita
 jungą	junga	subst:sg:inst:m1	nazwa pospolita	
 jungę	junga	subst:sg:acc:m1	nazwa pospolita	
 jungi	junga	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-jungi	junga	subst:sg:gen:m1	nazwa pospolita	
 jungo	junga	subst:sg:voc:m1	nazwa pospolita	
 jungom	junga	subst:pl:dat:m1	nazwa pospolita	
 jungowie	junga	subst:pl:nom.voc:m1	nazwa pospolita	
 jungów	junga	subst:pl:gen.acc:m1	nazwa pospolita	
 juniorach	junior	subst:pl:loc:m1	nazwa pospolita	
 juniora	junior	subst:sg:gen.acc:m1	nazwa pospolita	
-juniora	junior	subst:sg:gen:m1	nazwa pospolita	
 juniorami	junior	subst:pl:inst:m1	nazwa pospolita	
 juniorem	junior	subst:sg:inst:m1	nazwa pospolita	
 junior	junior	subst:sg:nom:m1	nazwa pospolita	
@@ -33833,7 +33634,6 @@ juniorek	juniorek	subst:sg:nom:m2	nazwa pospolita
 juniorkach	juniorek	subst:pl:loc:m2	nazwa pospolita	
 juniorkach	juniorek	subst:pl:loc:m3	nazwa pospolita	
 juniorka	juniorek	subst:sg:gen.acc:m2	nazwa pospolita	
-juniorka	juniorek	subst:sg:gen:m2	nazwa pospolita	
 juniorka	juniorek	subst:sg:gen:m3	nazwa pospolita	
 juniorkami	juniorek	subst:pl:inst:m2	nazwa pospolita	
 juniorkami	juniorek	subst:pl:inst:m3	nazwa pospolita	
@@ -33902,7 +33702,6 @@ juniorskość	juniorskość	subst:sg:nom:f	nazwa pospolita
 junkersach	junkers	subst:pl:loc:m2	nazwa pospolita	pot.
 junkersach	junkers	subst:pl:loc:m3	nazwa pospolita	
 junkersa	junkers	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-junkersa	junkers	subst:sg:gen:m2	nazwa pospolita	pot.
 junkersa	junkers	subst:sg:gen:m3	nazwa pospolita	
 junkersami	junkers	subst:pl:inst:m2	nazwa pospolita	pot.
 junkersami	junkers	subst:pl:inst:m3	nazwa pospolita	
@@ -33925,7 +33724,6 @@ junkersy	junkers	subst:pl:nom.acc.voc:m3	nazwa pospolita
 junkier	junkier	subst:sg:nom:m1	nazwa pospolita	
 junkrach	junkier	subst:pl:loc:m1	nazwa pospolita	
 junkra	junkier	subst:sg:gen.acc:m1	nazwa pospolita	
-junkra	junkier	subst:sg:gen:m1	nazwa pospolita	
 junkrami	junkier	subst:pl:inst:m1	nazwa pospolita	
 junkrem	junkier	subst:sg:inst:m1	nazwa pospolita	
 junkrom	junkier	subst:pl:dat:m1	nazwa pospolita	
@@ -34051,7 +33849,6 @@ jupiterze	jupiter	subst:sg:loc:m3	nazwa pospolita
 jupiterze	jupiter	subst:sg:voc:m3	nazwa pospolita	
 jurach	jur	subst:pl:loc:m1	nazwa pospolita	daw.
 jura	jur	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-jura	jur	subst:sg:gen:m1	nazwa pospolita	daw.
 jurami	jur	subst:pl:inst:m1	nazwa pospolita	daw.
 jurem	jur	subst:sg:inst:m1	nazwa pospolita	daw.
 jur	jur	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -34172,7 +33969,6 @@ jurgielty	jurgielt	subst:pl:nom.acc.voc:m3	nazwa pospolita
 jurgieltnicy	jurgieltnik	subst:pl:nom.voc:m1	nazwa pospolita	przest.
 jurgieltnikach	jurgieltnik	subst:pl:loc:m1	nazwa pospolita	przest.
 jurgieltnika	jurgieltnik	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-jurgieltnika	jurgieltnik	subst:sg:gen:m1	nazwa pospolita	przest.
 jurgieltnikami	jurgieltnik	subst:pl:inst:m1	nazwa pospolita	przest.
 jurgieltnikiem	jurgieltnik	subst:sg:inst:m1	nazwa pospolita	przest.
 jurgieltniki	jurgieltnik	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
@@ -34316,7 +34112,6 @@ jurnym	jurny	adj:sg:inst:m1.m2.m3.n:pos
 jurnym	jurny	adj:sg:loc:m1.m2.m3.n:pos		
 jurorach	juror	subst:pl:loc:m1	nazwa pospolita	
 jurora	juror	subst:sg:gen.acc:m1	nazwa pospolita	
-jurora	juror	subst:sg:gen:m1	nazwa pospolita	
 jurorami	juror	subst:pl:inst:m1	nazwa pospolita	
 jurorem	juror	subst:sg:inst:m1	nazwa pospolita	
 juror	juror	subst:sg:nom:m1	nazwa pospolita	
@@ -34672,7 +34467,6 @@ juryskonsulcie	juryskonsult	subst:sg:voc:m1	nazwa pospolita
 juryskonsulci	juryskonsult	subst:pl:nom.voc:m1	nazwa pospolita	
 juryskonsultach	juryskonsult	subst:pl:loc:m1	nazwa pospolita	
 juryskonsulta	juryskonsult	subst:sg:gen.acc:m1	nazwa pospolita	
-juryskonsulta	juryskonsult	subst:sg:gen:m1	nazwa pospolita	
 juryskonsultami	juryskonsult	subst:pl:inst:m1	nazwa pospolita	
 juryskonsultem	juryskonsult	subst:sg:inst:m1	nazwa pospolita	
 juryskonsult	juryskonsult	subst:sg:nom:m1	nazwa pospolita	
@@ -34701,7 +34495,6 @@ jurysto	jurysta	subst:sg:voc:m1	nazwa pospolita	przest.
 jurystom	jurysta	subst:pl:dat:m1	nazwa pospolita	przest.
 jurystów	jurysta	subst:pl:gen.acc:m1	nazwa pospolita	przest.
 jurysty	jurysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
-jurysty	jurysta	subst:sg:gen:m1	nazwa pospolita	przest.
 juryście	jurysta	subst:sg:dat.loc:m1	nazwa pospolita	przest.
 juryści	jurysta	subst:pl:nom.voc:m1	nazwa pospolita	przest.
 jurysteriach	jurysteria	subst:pl:loc:f	nazwa pospolita	daw.
@@ -34975,7 +34768,6 @@ jusu	jus	subst:sg:gen:m3	nazwa pospolita
 jusy	jus	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 justierach	justier	subst:pl:loc:m1	nazwa pospolita	
 justiera	justier	subst:sg:gen.acc:m1	nazwa pospolita	
-justiera	justier	subst:sg:gen:m1	nazwa pospolita	
 justierami	justier	subst:pl:inst:m1	nazwa pospolita	
 justierem	justier	subst:sg:inst:m1	nazwa pospolita	
 justier	justier	subst:sg:nom:m1	nazwa pospolita	
@@ -35123,7 +34915,6 @@ justunkowym	justunkowy	adj:sg:inst:m1.m2.m3.n:pos
 justunkowym	justunkowy	adj:sg:loc:m1.m2.m3.n:pos		
 justycjariuszach	justycjariusz	subst:pl:loc:m1	nazwa pospolita	daw.
 justycjariusza	justycjariusz	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-justycjariusza	justycjariusz	subst:sg:gen:m1	nazwa pospolita	daw.
 justycjariuszami	justycjariusz	subst:pl:inst:m1	nazwa pospolita	daw.
 justycjariusze	justycjariusz	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 justycjariusze	justycjariusz	subst:pl:nom.voc:m1	nazwa pospolita	daw.

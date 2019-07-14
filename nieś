@@ -2401,7 +2401,6 @@ nieśmiałek	nieśmiałek	subst:sg:nom:m1	nazwa pospolita	rzad.
 nieśmiałkach	nieśmiałek	subst:pl:loc:m1	nazwa pospolita	rzad.
 nieśmiałkami	nieśmiałek	subst:pl:inst:m1	nazwa pospolita	rzad.
 nieśmiałka	nieśmiałek	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
-nieśmiałka	nieśmiałek	subst:sg:gen:m1	nazwa pospolita	rzad.
 nieśmiałkiem	nieśmiałek	subst:sg:inst:m1	nazwa pospolita	rzad.
 nieśmiałki	nieśmiałek	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
 nieśmiałkom	nieśmiałek	subst:pl:dat:m1	nazwa pospolita	rzad.
@@ -2930,7 +2929,6 @@ nieśmiertelnym	nieśmiertelny:a	adj:sg:loc:m1.m2.m3.n:pos
 nieśmiertelny	nieśmiertelny:a	adj:sg:acc:m3:pos		
 nieśmiertelny	nieśmiertelny:a	adj:sg:nom.voc:m1.m2.m3:pos		
 nieśmiertelnego	nieśmiertelny:s	subst:sg:gen.acc:m1	nazwa pospolita	
-nieśmiertelnego	nieśmiertelny:s	subst:sg:gen:m1	nazwa pospolita	
 nieśmiertelnemu	nieśmiertelny:s	subst:sg:dat:m1	nazwa pospolita	
 nieśmiertelne	nieśmiertelny:s	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 nieśmiertelni	nieśmiertelny:s	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -7139,7 +7137,6 @@ nieświadomym	nieświadomy:a	adj:sg:loc:m1.m2.m3.n:pos
 nieświadomy	nieświadomy:a	adj:sg:acc:m3:pos		
 nieświadomy	nieświadomy:a	adj:sg:nom.voc:m1.m2.m3:pos		
 nieświadomego	nieświadomy:s	subst:sg:gen.acc:m1	nazwa pospolita	
-nieświadomego	nieświadomy:s	subst:sg:gen:m1	nazwa pospolita	
 nieświadomemu	nieświadomy:s	subst:sg:dat:m1	nazwa pospolita	
 nieświadome	nieświadomy:s	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 nieświadomi	nieświadomy:s	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -10670,7 +10667,6 @@ nieświszczący	nieświszczący	adj:sg:nom.voc:m1.m2.m3:pos
 nieświszczukach	nieświszczuk	subst:pl:loc:m2	nazwa pospolita	
 nieświszczukami	nieświszczuk	subst:pl:inst:m2	nazwa pospolita	
 nieświszczuka	nieświszczuk	subst:sg:gen.acc:m2	nazwa pospolita	
-nieświszczuka	nieświszczuk	subst:sg:gen:m2	nazwa pospolita	
 nieświszczukiem	nieświszczuk	subst:sg:inst:m2	nazwa pospolita	
 nieświszczuki	nieświszczuk	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 nieświszczuk	nieświszczuk	subst:sg:nom:m2	nazwa pospolita	

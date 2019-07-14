@@ -81,7 +81,6 @@ iberysto	iberysta	subst:sg:voc:m1	nazwa pospolita
 iberystom	iberysta	subst:pl:dat:m1	nazwa pospolita	
 iberystów	iberysta	subst:pl:gen.acc:m1	nazwa pospolita	
 iberysty	iberysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-iberysty	iberysta	subst:sg:gen:m1	nazwa pospolita	
 iberyście	iberysta	subst:sg:dat.loc:m1	nazwa pospolita	
 iberyści	iberysta	subst:pl:nom.voc:m1	nazwa pospolita	
 iberystce	iberystka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -145,7 +144,6 @@ ib	ibidem	brev:pun
 ibid	ibidem	brev:pun		
 ibisach	ibis	subst:pl:loc:m2	nazwa pospolita	
 ibisa	ibis	subst:sg:gen.acc:m2	nazwa pospolita	
-ibisa	ibis	subst:sg:gen:m2	nazwa pospolita	
 ibisami	ibis	subst:pl:inst:m2	nazwa pospolita	
 ibisem	ibis	subst:sg:inst:m2	nazwa pospolita	
 ibis	ibis	subst:sg:nom:m2	nazwa pospolita	
@@ -219,7 +217,6 @@ ibizy	ibiza	subst:pl:nom.acc.voc:f	nazwa pospolita
 ibizy	ibiza	subst:sg:gen:f	nazwa pospolita	
 iblisach	iblis	subst:pl:loc:m2	nazwa pospolita	
 iblisa	iblis	subst:sg:gen.acc:m2	nazwa pospolita	
-iblisa	iblis	subst:sg:gen:m2	nazwa pospolita	
 iblisami	iblis	subst:pl:inst:m2	nazwa pospolita	
 iblisem	iblis	subst:sg:inst:m2	nazwa pospolita	
 iblis	iblis	subst:sg:nom:m2	nazwa pospolita	
@@ -231,7 +228,6 @@ iblisów	iblis	subst:pl:gen:m2	nazwa pospolita
 iblisy	iblis	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 iblowcach	iblowiec	subst:pl:loc:m1	nazwa pospolita	
 iblowca	iblowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-iblowca	iblowiec	subst:sg:gen:m1	nazwa pospolita	
 iblowcami	iblowiec	subst:pl:inst:m1	nazwa pospolita	
 iblowce	iblowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 iblowcem	iblowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -331,7 +327,6 @@ ibsenowskość	ibsenowskość	subst:sg:acc:f	nazwa pospolita
 ibsenowskość	ibsenowskość	subst:sg:nom:f	nazwa pospolita	
 ibukach	ibuk	subst:pl:loc:m2	nazwa pospolita	
 ibuka	ibuk	subst:sg:gen.acc:m2	nazwa pospolita	
-ibuka	ibuk	subst:sg:gen:m2	nazwa pospolita	
 ibukami	ibuk	subst:pl:inst:m2	nazwa pospolita	
 ibuk	ibuk	subst:sg:nom:m2	nazwa pospolita	
 ibukiem	ibuk	subst:sg:inst:m2	nazwa pospolita	
@@ -356,7 +351,6 @@ ichmość	ichmość:b	burk
 ichmość	ichmość:s	subst:pl:nom:m1:pt	nazwa pospolita	daw.
 ichneumonach	ichneumon	subst:pl:loc:m2	nazwa pospolita	
 ichneumona	ichneumon	subst:sg:gen.acc:m2	nazwa pospolita	
-ichneumona	ichneumon	subst:sg:gen:m2	nazwa pospolita	
 ichneumonami	ichneumon	subst:pl:inst:m2	nazwa pospolita	
 ichneumonem	ichneumon	subst:sg:inst:m2	nazwa pospolita	
 ichneumon	ichneumon	subst:sg:nom:m2	nazwa pospolita	
@@ -463,7 +457,6 @@ ichtiobiologiom	ichtiobiologia	subst:pl:dat:f	nazwa pospolita
 ichtiofadzy	ichtiofag	subst:pl:nom.voc:m1	nazwa pospolita	
 ichtiofagach	ichtiofag	subst:pl:loc:m1	nazwa pospolita	
 ichtiofaga	ichtiofag	subst:sg:gen.acc:m1	nazwa pospolita	
-ichtiofaga	ichtiofag	subst:sg:gen:m1	nazwa pospolita	
 ichtiofagami	ichtiofag	subst:pl:inst:m1	nazwa pospolita	
 ichtiofag	ichtiofag	subst:sg:nom:m1	nazwa pospolita	
 ichtiofagiem	ichtiofag	subst:sg:inst:m1	nazwa pospolita	
@@ -500,7 +493,6 @@ ichtiolu	ichtiol	subst:sg:voc:m3	nazwa pospolita
 ichtiolodzy	ichtiolog	subst:pl:nom.voc:m1	nazwa pospolita	
 ichtiologach	ichtiolog	subst:pl:loc:m1	nazwa pospolita	
 ichtiologa	ichtiolog	subst:sg:gen.acc:m1	nazwa pospolita	
-ichtiologa	ichtiolog	subst:sg:gen:m1	nazwa pospolita	
 ichtiologami	ichtiolog	subst:pl:inst:m1	nazwa pospolita	
 ichtiolog	ichtiolog	subst:sg:nom:m1	nazwa pospolita	
 ichtiologiem	ichtiolog	subst:sg:inst:m1	nazwa pospolita	
@@ -639,7 +631,6 @@ ichtiozy	ichtioza	subst:pl:nom.acc.voc:f	nazwa pospolita
 ichtiozy	ichtioza	subst:sg:gen:f	nazwa pospolita	
 ichtiozaurach	ichtiozaur	subst:pl:loc:m2	nazwa pospolita	
 ichtiozaura	ichtiozaur	subst:sg:gen.acc:m2	nazwa pospolita	
-ichtiozaura	ichtiozaur	subst:sg:gen:m2	nazwa pospolita	
 ichtiozaurami	ichtiozaur	subst:pl:inst:m2	nazwa pospolita	
 ichtiozaurem	ichtiozaur	subst:sg:inst:m2	nazwa pospolita	
 ichtiozaur	ichtiozaur	subst:sg:nom:m2	nazwa pospolita	
@@ -663,7 +654,6 @@ idzie	id	subst:sg:loc:m3	nazwa pospolita
 idzie	id	subst:sg:voc:m3	nazwa pospolita	
 idaredach	idared	subst:pl:loc:m2	nazwa pospolita	
 idareda	idared	subst:sg:gen.acc:m2	nazwa pospolita	
-idareda	idared	subst:sg:gen:m2	nazwa pospolita	
 idaredami	idared	subst:pl:inst:m2	nazwa pospolita	
 idaredem	idared	subst:sg:inst:m2	nazwa pospolita	
 idared	idared	subst:sg:nom:m2	nazwa pospolita	
@@ -717,7 +707,6 @@ idealisto	idealista	subst:sg:voc:m1	nazwa pospolita
 idealistom	idealista	subst:pl:dat:m1	nazwa pospolita	
 idealistów	idealista	subst:pl:gen.acc:m1	nazwa pospolita	
 idealisty	idealista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-idealisty	idealista	subst:sg:gen:m1	nazwa pospolita	
 idealiście	idealista	subst:sg:dat.loc:m1	nazwa pospolita	
 idealiści	idealista	subst:pl:nom.voc:m1	nazwa pospolita	
 idealistce	idealistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -993,8 +982,6 @@ ideałach	ideał:s2	subst:pl:loc:m1	nazwa pospolita
 ideałach	ideał:s2	subst:pl:loc:m2	nazwa pospolita	
 ideała	ideał:s2	subst:sg:gen.acc:m1	nazwa pospolita	
 ideała	ideał:s2	subst:sg:gen.acc:m2	nazwa pospolita	
-ideała	ideał:s2	subst:sg:gen:m1	nazwa pospolita	
-ideała	ideał:s2	subst:sg:gen:m2	nazwa pospolita	
 ideałami	ideał:s2	subst:pl:inst:m1	nazwa pospolita	
 ideałami	ideał:s2	subst:pl:inst:m2	nazwa pospolita	
 ideałem	ideał:s2	subst:sg:inst:m1	nazwa pospolita	
@@ -1337,7 +1324,6 @@ identytarysto	identytarysta	subst:sg:voc:m1	nazwa pospolita
 identytarystom	identytarysta	subst:pl:dat:m1	nazwa pospolita	
 identytarystów	identytarysta	subst:pl:gen.acc:m1	nazwa pospolita	
 identytarysty	identytarysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-identytarysty	identytarysta	subst:sg:gen:m1	nazwa pospolita	
 identytaryście	identytarysta	subst:sg:dat.loc:m1	nazwa pospolita	
 identytaryści	identytarysta	subst:pl:nom.voc:m1	nazwa pospolita	
 identytarystycznie	identytarystycznie	adv:pos		
@@ -1519,7 +1505,6 @@ ideolo	ideolo	adj:sg:nom.voc:n:pos		rzad.
 ideolodzy	ideolog	subst:pl:nom.voc:m1	nazwa pospolita	
 ideologach	ideolog	subst:pl:loc:m1	nazwa pospolita	
 ideologa	ideolog	subst:sg:gen.acc:m1	nazwa pospolita	
-ideologa	ideolog	subst:sg:gen:m1	nazwa pospolita	
 ideologami	ideolog	subst:pl:inst:m1	nazwa pospolita	
 ideolog	ideolog	subst:sg:nom:m1	nazwa pospolita	
 ideologiem	ideolog	subst:sg:inst:m1	nazwa pospolita	
@@ -1786,7 +1771,6 @@ ideotwórczym	ideotwórczy	adj:sg:loc:m1.m2.m3.n:pos
 ideotwórczymi	ideotwórczy	adj:pl:inst:m1.m2.m3.f.n:pos		
 ideowcach	ideowiec	subst:pl:loc:m1	nazwa pospolita	
 ideowca	ideowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-ideowca	ideowiec	subst:sg:gen:m1	nazwa pospolita	
 ideowcami	ideowiec	subst:pl:inst:m1	nazwa pospolita	
 ideowce	ideowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 ideowcem	ideowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -2333,7 +2317,6 @@ idioto	idiota	subst:sg:voc:m1	nazwa pospolita	pogard.|pot.
 idiotom	idiota	subst:pl:dat:m1	nazwa pospolita	pogard.|pot.
 idiotów	idiota	subst:pl:gen.acc:m1	nazwa pospolita	pogard.|pot.
 idioty	idiota	depr:pl:nom.acc.voc:m2	nazwa pospolita	pogard.|pot.
-idioty	idiota	subst:sg:gen:m1	nazwa pospolita	pogard.|pot.
 idioteczce	idioteczka	subst:sg:dat.loc:f	nazwa pospolita	
 idioteczek	idioteczka	subst:pl:gen:f	nazwa pospolita	
 idioteczkach	idioteczka	subst:pl:loc:f	nazwa pospolita	
@@ -2635,7 +2618,6 @@ idololatriom	idololatria	subst:pl:dat:f	nazwa pospolita
 idololatryj	idololatria	subst:pl:gen:f	nazwa pospolita	arch.|char.
 idolach	idol:s1	subst:pl:loc:m1	nazwa pospolita	
 idola	idol:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-idola	idol:s1	subst:sg:gen:m1	nazwa pospolita	
 idolami	idol:s1	subst:pl:inst:m1	nazwa pospolita	
 idole	idol:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 idole	idol:s1	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -2648,7 +2630,6 @@ idolu	idol:s1	subst:sg:loc:m1	nazwa pospolita
 idolu	idol:s1	subst:sg:voc:m1	nazwa pospolita	
 idolach	idol:s2	subst:pl:loc:m2	nazwa pospolita	
 idola	idol:s2	subst:sg:gen.acc:m2	nazwa pospolita	
-idola	idol:s2	subst:sg:gen:m2	nazwa pospolita	
 idolami	idol:s2	subst:pl:inst:m2	nazwa pospolita	
 idole	idol:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 idolem	idol:s2	subst:sg:inst:m2	nazwa pospolita	
@@ -2716,7 +2697,6 @@ idyllicznymi	idylliczny	adj:pl:inst:m1.m2.m3.f.n:pos
 idyllicy	idyllik	subst:pl:nom.voc:m1	nazwa pospolita	lit.
 idyllikach	idyllik	subst:pl:loc:m1	nazwa pospolita	lit.
 idyllika	idyllik	subst:sg:gen.acc:m1	nazwa pospolita	lit.
-idyllika	idyllik	subst:sg:gen:m1	nazwa pospolita	lit.
 idyllikami	idyllik	subst:pl:inst:m1	nazwa pospolita	lit.
 idyllik	idyllik	subst:sg:nom:m1	nazwa pospolita	lit.
 idyllikiem	idyllik	subst:sg:inst:m1	nazwa pospolita	lit.
@@ -2735,7 +2715,6 @@ idyllisto	idyllista	subst:sg:voc:m1	nazwa pospolita
 idyllistom	idyllista	subst:pl:dat:m1	nazwa pospolita	
 idyllistów	idyllista	subst:pl:gen.acc:m1	nazwa pospolita	
 idyllisty	idyllista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-idyllisty	idyllista	subst:sg:gen:m1	nazwa pospolita	
 idylliście	idyllista	subst:sg:dat.loc:m1	nazwa pospolita	
 idylliści	idyllista	subst:pl:nom.voc:m1	nazwa pospolita	
 idyllizmach	idyllizm	subst:pl:loc:m3	nazwa pospolita	
@@ -3039,7 +3018,6 @@ igiełkowymi	igiełkowy	adj:pl:inst:m1.m2.m3.f.n:pos
 iglakach	iglak	subst:pl:loc:m2	nazwa pospolita	pot.
 iglakach	iglak	subst:pl:loc:m3	nazwa pospolita	pot.
 iglaka	iglak	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-iglaka	iglak	subst:sg:gen:m2	nazwa pospolita	pot.
 iglaka	iglak	subst:sg:gen:m3	nazwa pospolita	pot.
 iglakami	iglak	subst:pl:inst:m2	nazwa pospolita	pot.
 iglakami	iglak	subst:pl:inst:m3	nazwa pospolita	pot.
@@ -3109,8 +3087,6 @@ iglarzach	iglarz	subst:pl:loc:m1	nazwa pospolita
 iglarzach	iglarz	subst:pl:loc:m1	nazwa pospolita	rzad.
 iglarza	iglarz	subst:sg:gen.acc:m1	nazwa pospolita	
 iglarza	iglarz	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
-iglarza	iglarz	subst:sg:gen:m1	nazwa pospolita	
-iglarza	iglarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 iglarzami	iglarz	subst:pl:inst:m1	nazwa pospolita	
 iglarzami	iglarz	subst:pl:inst:m1	nazwa pospolita	rzad.
 iglarze	iglarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -3690,7 +3666,6 @@ ignorancjom	ignorancja	subst:pl:dat:f	nazwa pospolita
 ignorancyj	ignorancja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 ignorancjuszach	ignorancjusz	subst:pl:loc:m1	nazwa pospolita	indyw.
 ignorancjusza	ignorancjusz	subst:sg:gen.acc:m1	nazwa pospolita	indyw.
-ignorancjusza	ignorancjusz	subst:sg:gen:m1	nazwa pospolita	indyw.
 ignorancjuszami	ignorancjusz	subst:pl:inst:m1	nazwa pospolita	indyw.
 ignorancjusze	ignorancjusz	depr:pl:nom.acc.voc:m2	nazwa pospolita	indyw.
 ignorancjusze	ignorancjusz	subst:pl:nom.voc:m1	nazwa pospolita	indyw.
@@ -3744,7 +3719,6 @@ ignorancie	ignorant	subst:sg:voc:m1	nazwa pospolita
 ignoranci	ignorant	subst:pl:nom.voc:m1	nazwa pospolita	
 ignorantach	ignorant	subst:pl:loc:m1	nazwa pospolita	
 ignoranta	ignorant	subst:sg:gen.acc:m1	nazwa pospolita	
-ignoranta	ignorant	subst:sg:gen:m1	nazwa pospolita	
 ignorantami	ignorant	subst:pl:inst:m1	nazwa pospolita	
 ignorantem	ignorant	subst:sg:inst:m1	nazwa pospolita	
 ignorant	ignorant	subst:sg:nom:m1	nazwa pospolita	
@@ -3995,7 +3969,6 @@ igrcom	igrca	subst:pl:dat:m1	nazwa pospolita	daw.
 igrców	igrca	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 igrcy	igrca	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 igrcy	igrca	subst:sg:dat.loc:m1	nazwa pospolita	daw.
-igrcy	igrca	subst:sg:gen:m1	nazwa pospolita	daw.
 igrcach	igrce	subst:pl:loc:n:pt	nazwa pospolita	daw.
 igrcami	igrce	subst:pl:inst:n:pt	nazwa pospolita	daw.
 igrce	igrce	subst:pl:nom.acc.voc:n:pt	nazwa pospolita	daw.
@@ -4015,7 +3988,6 @@ igreku	igrek:s1	subst:sg:loc:m3	nazwa pospolita
 igreku	igrek:s1	subst:sg:voc:m3	nazwa pospolita	
 igrekach	igrek:s2	subst:pl:loc:m1	nazwa pospolita	
 igreka	igrek:s2	subst:sg:gen.acc:m1	nazwa pospolita	
-igreka	igrek:s2	subst:sg:gen:m1	nazwa pospolita	
 igrekami	igrek:s2	subst:pl:inst:m1	nazwa pospolita	
 igrekiem	igrek:s2	subst:sg:inst:m1	nazwa pospolita	
 igrek	igrek:s2	subst:sg:nom:m1	nazwa pospolita	
@@ -4028,7 +4000,6 @@ igreku	igrek:s2	subst:sg:loc:m1	nazwa pospolita
 igreku	igrek:s2	subst:sg:voc:m1	nazwa pospolita	
 igrcach	igrzec	subst:pl:loc:m1	nazwa pospolita	daw.
 igrca	igrzec	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-igrca	igrzec	subst:sg:gen:m1	nazwa pospolita	daw.
 igrcami	igrzec	subst:pl:inst:m1	nazwa pospolita	daw.
 igrce	igrzec	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 igrcem	igrzec	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -4103,7 +4074,6 @@ iguany	iguana	subst:pl:nom.acc.voc:f	nazwa pospolita
 iguany	iguana	subst:sg:gen:f	nazwa pospolita	
 iguanodonach	iguanodon	subst:pl:loc:m2	nazwa pospolita	
 iguanodona	iguanodon	subst:sg:gen.acc:m2	nazwa pospolita	
-iguanodona	iguanodon	subst:sg:gen:m2	nazwa pospolita	
 iguanodonami	iguanodon	subst:pl:inst:m2	nazwa pospolita	
 iguanodonem	iguanodon	subst:sg:inst:m2	nazwa pospolita	
 iguanodonie	iguanodon	subst:sg:loc:m2	nazwa pospolita	
@@ -4117,7 +4087,6 @@ iguanodoncie	iguanodont	subst:sg:loc:m2	nazwa pospolita
 iguanodoncie	iguanodont	subst:sg:voc:m2	nazwa pospolita	
 iguanodontach	iguanodont	subst:pl:loc:m2	nazwa pospolita	
 iguanodonta	iguanodont	subst:sg:gen.acc:m2	nazwa pospolita	
-iguanodonta	iguanodont	subst:sg:gen:m2	nazwa pospolita	
 iguanodontami	iguanodont	subst:pl:inst:m2	nazwa pospolita	
 iguanodontem	iguanodont	subst:sg:inst:m2	nazwa pospolita	
 iguanodont	iguanodont	subst:sg:nom:m2	nazwa pospolita	
@@ -4127,7 +4096,6 @@ iguanodontów	iguanodont	subst:pl:gen:m2	nazwa pospolita
 iguanodonty	iguanodont	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 igumenach	igumen	subst:pl:loc:m1	nazwa pospolita	
 igumena	igumen	subst:sg:gen.acc:m1	nazwa pospolita	
-igumena	igumen	subst:sg:gen:m1	nazwa pospolita	
 igumenami	igumen	subst:pl:inst:m1	nazwa pospolita	
 igumenem	igumen	subst:sg:inst:m1	nazwa pospolita	
 igumenie	igumen	subst:sg:loc:m1	nazwa pospolita	
@@ -4151,7 +4119,6 @@ igumeństwom	igumeństwo	subst:pl:dat:n:ncol	nazwa pospolita	daw.
 igumeństwu	igumeństwo	subst:sg:dat:n:ncol	nazwa pospolita	daw.
 ihumenach	ihumen	subst:pl:loc:m1	nazwa pospolita	
 ihumena	ihumen	subst:sg:gen.acc:m1	nazwa pospolita	
-ihumena	ihumen	subst:sg:gen:m1	nazwa pospolita	
 ihumenami	ihumen	subst:pl:inst:m1	nazwa pospolita	
 ihumenem	ihumen	subst:sg:inst:m1	nazwa pospolita	
 ihumenie	ihumen	subst:sg:loc:m1	nazwa pospolita	
@@ -4252,7 +4219,6 @@ ikarowym	ikarowy	adj:sg:loc:m1.m2.m3.n:pos
 ikarusach	ikarus	subst:pl:loc:m2	nazwa pospolita	
 ikarusach	ikarus	subst:pl:loc:m3	nazwa pospolita	
 ikarusa	ikarus	subst:sg:gen.acc:m2	nazwa pospolita	
-ikarusa	ikarus	subst:sg:gen:m2	nazwa pospolita	
 ikarusa	ikarus	subst:sg:gen:m3	nazwa pospolita	
 ikarusami	ikarus	subst:pl:inst:m2	nazwa pospolita	
 ikarusami	ikarus	subst:pl:inst:m3	nazwa pospolita	
@@ -4362,7 +4328,6 @@ ikonoburcom	ikonoburca	subst:pl:dat:m1	nazwa pospolita
 ikonoburców	ikonoburca	subst:pl:gen.acc:m1	nazwa pospolita	
 ikonoburcy	ikonoburca	subst:pl:nom.voc:m1	nazwa pospolita	
 ikonoburcy	ikonoburca	subst:sg:dat.loc:m1	nazwa pospolita	
-ikonoburcy	ikonoburca	subst:sg:gen:m1	nazwa pospolita	
 ikonoduliach	ikonodulia	subst:pl:loc:f	nazwa pospolita	
 ikonodulia	ikonodulia	subst:sg:nom:f	nazwa pospolita	
 ikonoduliami	ikonodulia	subst:pl:inst:f	nazwa pospolita	
@@ -4431,7 +4396,6 @@ ikonoklasto	ikonoklasta	subst:sg:voc:m1	nazwa pospolita
 ikonoklastom	ikonoklasta	subst:pl:dat:m1	nazwa pospolita	
 ikonoklastów	ikonoklasta	subst:pl:gen.acc:m1	nazwa pospolita	
 ikonoklasty	ikonoklasta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ikonoklasty	ikonoklasta	subst:sg:gen:m1	nazwa pospolita	
 ikonoklaście	ikonoklasta	subst:sg:dat.loc:m1	nazwa pospolita	
 ikonoklaści	ikonoklasta	subst:pl:nom.voc:m1	nazwa pospolita	
 ikonoklazmach	ikonoklazm	subst:pl:loc:m3	nazwa pospolita	
@@ -4460,7 +4424,6 @@ ikonolatryj	ikonolatria	subst:pl:gen:f	nazwa pospolita	arch.|char.
 ikonolodzy	ikonolog	subst:pl:nom.voc:m1	nazwa pospolita	
 ikonologach	ikonolog	subst:pl:loc:m1	nazwa pospolita	
 ikonologa	ikonolog	subst:sg:gen.acc:m1	nazwa pospolita	
-ikonologa	ikonolog	subst:sg:gen:m1	nazwa pospolita	
 ikonologami	ikonolog	subst:pl:inst:m1	nazwa pospolita	
 ikonologiem	ikonolog	subst:sg:inst:m1	nazwa pospolita	
 ikonologi	ikonolog	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -4610,7 +4573,6 @@ ikrowcu	ikrowiec	subst:sg:voc:m3	nazwa pospolita
 ikrowiec	ikrowiec	subst:sg:nom.acc:m3	nazwa pospolita	
 ikrzakach	ikrzak	subst:pl:loc:m2	nazwa pospolita	zool.
 ikrzaka	ikrzak	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-ikrzaka	ikrzak	subst:sg:gen:m2	nazwa pospolita	zool.
 ikrzakami	ikrzak	subst:pl:inst:m2	nazwa pospolita	zool.
 ikrzakiem	ikrzak	subst:sg:inst:m2	nazwa pospolita	zool.
 ikrzaki	ikrzak	subst:pl:nom.acc.voc:m2	nazwa pospolita	zool.
@@ -4729,7 +4691,6 @@ iksińscy	iksiński	subst:pl:nom.voc:m1	nazwa pospolita
 iksińskich	iksiński	subst:pl:gen.acc:m1	nazwa pospolita	
 iksińskich	iksiński	subst:pl:loc:m1	nazwa pospolita	
 iksińskiego	iksiński	subst:sg:gen.acc:m1	nazwa pospolita	
-iksińskiego	iksiński	subst:sg:gen:m1	nazwa pospolita	
 iksińskie	iksiński	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 iksińskiemu	iksiński	subst:sg:dat:m1	nazwa pospolita	
 iksiński	iksiński	subst:sg:nom:m1	nazwa pospolita	
@@ -4799,7 +4760,6 @@ iksów	iks:s1	subst:pl:gen:m3	nazwa pospolita
 iksy	iks:s1	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 iksach	iks:s2	subst:pl:loc:m1	nazwa pospolita	
 iksa	iks:s2	subst:sg:gen.acc:m1	nazwa pospolita	
-iksa	iks:s2	subst:sg:gen:m1	nazwa pospolita	
 iksami	iks:s2	subst:pl:inst:m1	nazwa pospolita	
 iksem	iks:s2	subst:sg:inst:m1	nazwa pospolita	
 iksie	iks:s2	subst:sg:loc:m1	nazwa pospolita	
@@ -5603,7 +5563,6 @@ ilocie	ilot	subst:sg:voc:m1	nazwa pospolita	daw.
 iloci	ilot	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 ilotach	ilot	subst:pl:loc:m1	nazwa pospolita	daw.
 ilota	ilot	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-ilota	ilot	subst:sg:gen:m1	nazwa pospolita	daw.
 ilotami	ilot	subst:pl:inst:m1	nazwa pospolita	daw.
 ilotem	ilot	subst:sg:inst:m1	nazwa pospolita	daw.
 ilot	ilot	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -5622,7 +5581,6 @@ iloto	ilota	subst:sg:voc:m1	nazwa pospolita	daw.
 ilotom	ilota	subst:pl:dat:m1	nazwa pospolita	daw.
 ilotów	ilota	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 iloty	ilota	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
-iloty	ilota	subst:sg:gen:m1	nazwa pospolita	daw.
 ilotyzmach	ilotyzm	subst:pl:loc:m3	nazwa pospolita	daw.
 ilotyzmami	ilotyzm	subst:pl:inst:m3	nazwa pospolita	daw.
 ilotyzmem	ilotyzm	subst:sg:inst:m3	nazwa pospolita	daw.
@@ -5756,7 +5714,6 @@ iluminacie	iluminat	subst:sg:voc:m1	nazwa pospolita
 iluminaci	iluminat	subst:pl:nom.voc:m1	nazwa pospolita	
 iluminatach	iluminat	subst:pl:loc:m1	nazwa pospolita	
 iluminata	iluminat	subst:sg:gen.acc:m1	nazwa pospolita	
-iluminata	iluminat	subst:sg:gen:m1	nazwa pospolita	
 iluminatami	iluminat	subst:pl:inst:m1	nazwa pospolita	
 iluminatem	iluminat	subst:sg:inst:m1	nazwa pospolita	
 iluminat	iluminat	subst:sg:nom:m1	nazwa pospolita	
@@ -5766,7 +5723,6 @@ iluminatów	iluminat	subst:pl:gen.acc:m1	nazwa pospolita
 iluminaty	iluminat	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 iluminatorach	iluminator:s1	subst:pl:loc:m1	nazwa pospolita	
 iluminatora	iluminator:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-iluminatora	iluminator:s1	subst:sg:gen:m1	nazwa pospolita	
 iluminatorami	iluminator:s1	subst:pl:inst:m1	nazwa pospolita	
 iluminatorem	iluminator:s1	subst:sg:inst:m1	nazwa pospolita	
 iluminator	iluminator:s1	subst:sg:nom:m1	nazwa pospolita	
@@ -6091,7 +6047,6 @@ ilustracyjnym	ilustracyjny	adj:sg:inst:m1.m2.m3.n:pos
 ilustracyjnym	ilustracyjny	adj:sg:loc:m1.m2.m3.n:pos		
 ilustratorach	ilustrator	subst:pl:loc:m1	nazwa pospolita	
 ilustratora	ilustrator	subst:sg:gen.acc:m1	nazwa pospolita	
-ilustratora	ilustrator	subst:sg:gen:m1	nazwa pospolita	
 ilustratorami	ilustrator	subst:pl:inst:m1	nazwa pospolita	
 ilustratorem	ilustrator	subst:sg:inst:m1	nazwa pospolita	
 ilustrator	ilustrator	subst:sg:nom:m1	nazwa pospolita	
@@ -6361,7 +6316,6 @@ iluzjonisto	iluzjonista	subst:sg:voc:m1	nazwa pospolita
 iluzjonistom	iluzjonista	subst:pl:dat:m1	nazwa pospolita	
 iluzjonistów	iluzjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 iluzjonisty	iluzjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-iluzjonisty	iluzjonista	subst:sg:gen:m1	nazwa pospolita	
 iluzjoniście	iluzjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 iluzjoniści	iluzjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 iluzjonistce	iluzjonistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -6911,7 +6865,6 @@ ile	ił:s2	subst:sg:voc:m3	nazwa pospolita
 iłach	ił:s2	subst:pl:loc:m2	nazwa pospolita	
 iłach	ił:s2	subst:pl:loc:m3	nazwa pospolita	
 iła	ił:s2	subst:sg:gen.acc:m2	nazwa pospolita	
-iła	ił:s2	subst:sg:gen:m2	nazwa pospolita	
 iła	ił:s2	subst:sg:gen:m3	nazwa pospolita	
 iłami	ił:s2	subst:pl:inst:m2	nazwa pospolita	
 iłami	ił:s2	subst:pl:inst:m3	nazwa pospolita	
@@ -7143,7 +7096,6 @@ imaginacyjnym	imaginacyjny	adj:sg:loc:m1.m2.m3.n:pos
 imaginatycy	imaginatyk	subst:pl:nom.voc:m1	nazwa pospolita	
 imaginatykach	imaginatyk	subst:pl:loc:m1	nazwa pospolita	
 imaginatyka	imaginatyk	subst:sg:gen.acc:m1	nazwa pospolita	
-imaginatyka	imaginatyk	subst:sg:gen:m1	nazwa pospolita	
 imaginatykami	imaginatyk	subst:pl:inst:m1	nazwa pospolita	
 imaginatykiem	imaginatyk	subst:sg:inst:m1	nazwa pospolita	
 imaginatyki	imaginatyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -7197,7 +7149,6 @@ imaginisto	imaginista	subst:sg:voc:m1	nazwa pospolita
 imaginistom	imaginista	subst:pl:dat:m1	nazwa pospolita	
 imaginistów	imaginista	subst:pl:gen.acc:m1	nazwa pospolita	
 imaginisty	imaginista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-imaginisty	imaginista	subst:sg:gen:m1	nazwa pospolita	
 imaginiście	imaginista	subst:sg:dat.loc:m1	nazwa pospolita	
 imaginiści	imaginista	subst:pl:nom.voc:m1	nazwa pospolita	
 imaginistycznościach	imaginistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -7344,7 +7295,6 @@ imagisto	imagista	subst:sg:voc:m1	nazwa pospolita
 imagistom	imagista	subst:pl:dat:m1	nazwa pospolita	
 imagistów	imagista	subst:pl:gen.acc:m1	nazwa pospolita	
 imagisty	imagista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-imagisty	imagista	subst:sg:gen:m1	nazwa pospolita	
 imagiście	imagista	subst:sg:dat.loc:m1	nazwa pospolita	
 imagiści	imagista	subst:pl:nom.voc:m1	nazwa pospolita	
 imagizmach	imagizm	subst:pl:loc:m3	nazwa pospolita	
@@ -7470,7 +7420,6 @@ imaku	imak	subst:sg:loc:m3	nazwa pospolita
 imaku	imak	subst:sg:voc:m3	nazwa pospolita	
 imamach	imam	subst:pl:loc:m1	nazwa pospolita	
 imama	imam	subst:sg:gen.acc:m1	nazwa pospolita	
-imama	imam	subst:sg:gen:m1	nazwa pospolita	
 imamami	imam	subst:pl:inst:m1	nazwa pospolita	
 imamem	imam	subst:sg:inst:m1	nazwa pospolita	
 imamie	imam	subst:sg:loc:m1	nazwa pospolita	
@@ -7492,7 +7441,6 @@ imamito	imamita	subst:sg:voc:m1	nazwa pospolita
 imamitom	imamita	subst:pl:dat:m1	nazwa pospolita	
 imamitów	imamita	subst:pl:gen.acc:m1	nazwa pospolita	
 imamity	imamita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-imamity	imamita	subst:sg:gen:m1	nazwa pospolita	
 imamizmach	imamizm	subst:pl:loc:m3	nazwa pospolita	
 imamizmami	imamizm	subst:pl:inst:m3	nazwa pospolita	
 imamizmem	imamizm	subst:sg:inst:m3	nazwa pospolita	
@@ -7524,7 +7472,6 @@ imażynisto	imażynista	subst:sg:voc:m1	nazwa pospolita
 imażynistom	imażynista	subst:pl:dat:m1	nazwa pospolita	
 imażynistów	imażynista	subst:pl:gen.acc:m1	nazwa pospolita	
 imażynisty	imażynista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-imażynisty	imażynista	subst:sg:gen:m1	nazwa pospolita	
 imażyniście	imażynista	subst:sg:dat.loc:m1	nazwa pospolita	
 imażyniści	imażynista	subst:pl:nom.voc:m1	nazwa pospolita	
 imażynistycznościach	imażynistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -7575,7 +7522,6 @@ imażynizmu	imażynizm	subst:sg:gen:m3	nazwa pospolita
 imażynizmy	imażynizm	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 imbecylach	imbecyl	subst:pl:loc:m1	nazwa pospolita	pogard.|pot.
 imbecyla	imbecyl	subst:sg:gen.acc:m1	nazwa pospolita	pogard.|pot.
-imbecyla	imbecyl	subst:sg:gen:m1	nazwa pospolita	pogard.|pot.
 imbecylami	imbecyl	subst:pl:inst:m1	nazwa pospolita	pogard.|pot.
 imbecyle	imbecyl	depr:pl:nom.acc.voc:m2	nazwa pospolita	pogard.|pot.
 imbecyle	imbecyl	subst:pl:nom.voc:m1	nazwa pospolita	pogard.|pot.
@@ -7802,7 +7748,6 @@ imbryku	imbryk	subst:sg:loc:m3	nazwa pospolita
 imbryku	imbryk	subst:sg:voc:m3	nazwa pospolita	
 imcipanach	imćpan	subst:pl:loc:m1	nazwa pospolita	daw.
 imcipana	imćpan	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-imcipana	imćpan	subst:sg:gen:m1	nazwa pospolita	daw.
 imcipanami	imćpan	subst:pl:inst:m1	nazwa pospolita	daw.
 imcipanem	imćpan	subst:sg:inst:m1	nazwa pospolita	daw.
 imcipanie	imćpan	subst:sg:voc:m1	nazwa pospolita	daw.
@@ -7813,7 +7758,6 @@ imcipanu	imćpan	subst:sg:loc:m1	nazwa pospolita	daw.
 imcipany	imćpan	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 imćpanach	imćpan	subst:pl:loc:m1	nazwa pospolita	daw.
 imćpana	imćpan	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-imćpana	imćpan	subst:sg:gen:m1	nazwa pospolita	daw.
 imćpanami	imćpan	subst:pl:inst:m1	nazwa pospolita	daw.
 imćpanem	imćpan	subst:sg:inst:m1	nazwa pospolita	daw.
 imćpanie	imćpan	subst:sg:voc:m1	nazwa pospolita	daw.
@@ -7832,7 +7776,6 @@ imcie	imć:s1	subst:pl:nom.voc:m1	nazwa pospolita
 imci	imć:s1	subst:pl:gen.acc:m1	nazwa pospolita	
 imci	imć:s1	subst:sg:acc:m1	nazwa pospolita	
 imci	imć:s1	subst:sg:dat.loc:m1	nazwa pospolita	
-imci	imć:s1	subst:sg:gen:m1	nazwa pospolita	
 imci	imć:s1	subst:sg:voc:m1	nazwa pospolita	
 imciom	imć:s1	subst:pl:dat:m1	nazwa pospolita	
 imć	imć:s1	subst:sg:nom:m1	nazwa pospolita	
@@ -7841,7 +7784,6 @@ imć	imć:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwa pospolita
 imelmanach	imelman	subst:pl:loc:m2	nazwa pospolita	
 imelmanach	imelman	subst:pl:loc:m3	nazwa pospolita	
 imelmana	imelman	subst:sg:gen.acc:m2	nazwa pospolita	
-imelmana	imelman	subst:sg:gen:m2	nazwa pospolita	
 imelmana	imelman	subst:sg:gen:m3	nazwa pospolita	
 imelmanami	imelman	subst:pl:inst:m2	nazwa pospolita	
 imelmanami	imelman	subst:pl:inst:m3	nazwa pospolita	
@@ -8098,7 +8040,6 @@ imiennie	imiennie	adv:pos
 imiennicy	imiennik	subst:pl:nom.voc:m1	nazwa pospolita	
 imiennikach	imiennik	subst:pl:loc:m1	nazwa pospolita	
 imiennika	imiennik	subst:sg:gen.acc:m1	nazwa pospolita	
-imiennika	imiennik	subst:sg:gen:m1	nazwa pospolita	
 imiennikami	imiennik	subst:pl:inst:m1	nazwa pospolita	
 imiennikiem	imiennik	subst:sg:inst:m1	nazwa pospolita	
 imienniki	imiennik	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -8333,7 +8274,6 @@ imigrancie	imigrant	subst:sg:voc:m1	nazwa pospolita
 imigranci	imigrant	subst:pl:nom.voc:m1	nazwa pospolita	
 imigrantach	imigrant	subst:pl:loc:m1	nazwa pospolita	
 imigranta	imigrant	subst:sg:gen.acc:m1	nazwa pospolita	
-imigranta	imigrant	subst:sg:gen:m1	nazwa pospolita	
 imigrantami	imigrant	subst:pl:inst:m1	nazwa pospolita	
 imigrantem	imigrant	subst:sg:inst:m1	nazwa pospolita	
 imigrant	imigrant	subst:sg:nom:m1	nazwa pospolita	
@@ -8585,7 +8525,6 @@ imitacyjnym	imitacyjny	adj:sg:inst:m1.m2.m3.n:pos
 imitacyjnym	imitacyjny	adj:sg:loc:m1.m2.m3.n:pos		
 imitatorach	imitator	subst:pl:loc:m1	nazwa pospolita	
 imitatora	imitator	subst:sg:gen.acc:m1	nazwa pospolita	
-imitatora	imitator	subst:sg:gen:m1	nazwa pospolita	
 imitatorami	imitator	subst:pl:inst:m1	nazwa pospolita	
 imitatorem	imitator	subst:sg:inst:m1	nazwa pospolita	
 imitator	imitator	subst:sg:nom:m1	nazwa pospolita	
@@ -8954,7 +8893,6 @@ immatrykulujmy	immatrykulować	impt:pl:pri:imperf.perf
 immelmanach	immelman	subst:pl:loc:m2	nazwa pospolita	
 immelmanach	immelman	subst:pl:loc:m3	nazwa pospolita	
 immelmana	immelman	subst:sg:gen.acc:m2	nazwa pospolita	
-immelmana	immelman	subst:sg:gen:m2	nazwa pospolita	
 immelmana	immelman	subst:sg:gen:m3	nazwa pospolita	
 immelmanami	immelman	subst:pl:inst:m2	nazwa pospolita	
 immelmanami	immelman	subst:pl:inst:m3	nazwa pospolita	
@@ -9188,7 +9126,6 @@ immoralisto	immoralista	subst:sg:voc:m1	nazwa pospolita
 immoralistom	immoralista	subst:pl:dat:m1	nazwa pospolita	
 immoralistów	immoralista	subst:pl:gen.acc:m1	nazwa pospolita	
 immoralisty	immoralista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-immoralisty	immoralista	subst:sg:gen:m1	nazwa pospolita	
 immoraliście	immoralista	subst:sg:dat.loc:m1	nazwa pospolita	
 immoraliści	immoralista	subst:pl:nom.voc:m1	nazwa pospolita	
 immoralizmach	immoralizm	subst:pl:loc:m3	nazwa pospolita	
@@ -9457,7 +9394,6 @@ immunochemicznym	immunochemiczny	adj:sg:loc:m1.m2.m3.n:pos
 immunochemicy	immunochemik	subst:pl:nom.voc:m1	nazwa pospolita	
 immunochemikach	immunochemik	subst:pl:loc:m1	nazwa pospolita	
 immunochemika	immunochemik	subst:sg:gen.acc:m1	nazwa pospolita	
-immunochemika	immunochemik	subst:sg:gen:m1	nazwa pospolita	
 immunochemikami	immunochemik	subst:pl:inst:m1	nazwa pospolita	
 immunochemikiem	immunochemik	subst:sg:inst:m1	nazwa pospolita	
 immunochemiki	immunochemik	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -9610,7 +9546,6 @@ immunohematologiom	immunohematologia	subst:pl:dat:f	nazwa pospolita
 immunolodzy	immunolog	subst:pl:nom.voc:m1	nazwa pospolita	
 immunologach	immunolog	subst:pl:loc:m1	nazwa pospolita	
 immunologa	immunolog	subst:sg:gen.acc:m1	nazwa pospolita	
-immunologa	immunolog	subst:sg:gen:m1	nazwa pospolita	
 immunologami	immunolog	subst:pl:inst:m1	nazwa pospolita	
 immunologiem	immunolog	subst:sg:inst:m1	nazwa pospolita	
 immunologi	immunolog	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -10226,7 +10161,6 @@ imperatiwus	imperatiwus	subst:sg:nom.acc:m3	nazwa pospolita
 imperatiwy	imperatiwus	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 imperatorach	imperator	subst:pl:loc:m1	nazwa pospolita	
 imperatora	imperator	subst:sg:gen.acc:m1	nazwa pospolita	
-imperatora	imperator	subst:sg:gen:m1	nazwa pospolita	
 imperatorami	imperator	subst:pl:inst:m1	nazwa pospolita	
 imperatorem	imperator	subst:sg:inst:m1	nazwa pospolita	
 imperator	imperator	subst:sg:nom:m1	nazwa pospolita	
@@ -10398,7 +10332,6 @@ imperialisto	imperialista	subst:sg:voc:m1	nazwa pospolita
 imperialistom	imperialista	subst:pl:dat:m1	nazwa pospolita	
 imperialistów	imperialista	subst:pl:gen.acc:m1	nazwa pospolita	
 imperialisty	imperialista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-imperialisty	imperialista	subst:sg:gen:m1	nazwa pospolita	
 imperialiście	imperialista	subst:sg:dat.loc:m1	nazwa pospolita	
 imperialiści	imperialista	subst:pl:nom.voc:m1	nazwa pospolita	
 imperialistycznie	imperialistycznie	adv:pos		
@@ -10488,7 +10421,6 @@ imperiale	imperiał	subst:sg:loc:m2	nazwa pospolita
 imperiale	imperiał	subst:sg:voc:m2	nazwa pospolita	
 imperiałach	imperiał	subst:pl:loc:m2	nazwa pospolita	
 imperiała	imperiał	subst:sg:gen.acc:m2	nazwa pospolita	
-imperiała	imperiał	subst:sg:gen:m2	nazwa pospolita	
 imperiałami	imperiał	subst:pl:inst:m2	nazwa pospolita	
 imperiałem	imperiał	subst:sg:inst:m2	nazwa pospolita	
 imperiał	imperiał	subst:sg:nom:m2	nazwa pospolita	
@@ -10602,7 +10534,6 @@ impertynencie	impertynent	subst:sg:voc:m1	nazwa pospolita
 impertynenci	impertynent	subst:pl:nom.voc:m1	nazwa pospolita	
 impertynentach	impertynent	subst:pl:loc:m1	nazwa pospolita	
 impertynenta	impertynent	subst:sg:gen.acc:m1	nazwa pospolita	
-impertynenta	impertynent	subst:sg:gen:m1	nazwa pospolita	
 impertynentami	impertynent	subst:pl:inst:m1	nazwa pospolita	
 impertynentem	impertynent	subst:sg:inst:m1	nazwa pospolita	
 impertynent	impertynent	subst:sg:nom:m1	nazwa pospolita	
@@ -10694,7 +10625,6 @@ impetycznym	impetyczny	adj:sg:loc:m1.m2.m3.n:pos		przest.
 impetycy	impetyk	subst:pl:nom.voc:m1	nazwa pospolita	
 impetykach	impetyk	subst:pl:loc:m1	nazwa pospolita	
 impetyka	impetyk	subst:sg:gen.acc:m1	nazwa pospolita	
-impetyka	impetyk	subst:sg:gen:m1	nazwa pospolita	
 impetykami	impetyk	subst:pl:inst:m1	nazwa pospolita	
 impetykiem	impetyk	subst:sg:inst:m1	nazwa pospolita	
 impetyki	impetyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -11439,7 +11369,6 @@ importu	import	subst:sg:gen:m3	nazwa pospolita	ekon.
 importy	import	subst:pl:nom.acc.voc:m3	nazwa pospolita	ekon.
 importerach	importer	subst:pl:loc:m1	nazwa pospolita	
 importera	importer	subst:sg:gen.acc:m1	nazwa pospolita	
-importera	importer	subst:sg:gen:m1	nazwa pospolita	
 importerami	importer	subst:pl:inst:m1	nazwa pospolita	
 importerem	importer	subst:sg:inst:m1	nazwa pospolita	
 importer	importer	subst:sg:nom:m1	nazwa pospolita	
@@ -11650,7 +11579,6 @@ importowym	importowy	adj:sg:inst:m1.m2.m3.n:pos
 importowym	importowy	adj:sg:loc:m1.m2.m3.n:pos		
 importunach	importun	subst:pl:loc:m1	nazwa pospolita	daw.
 importuna	importun	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-importuna	importun	subst:sg:gen:m1	nazwa pospolita	daw.
 importunami	importun	subst:pl:inst:m1	nazwa pospolita	daw.
 importunem	importun	subst:sg:inst:m1	nazwa pospolita	daw.
 importunie	importun	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -11686,7 +11614,6 @@ impostacjom	impostacja	subst:pl:dat:f	nazwa pospolita
 impostacyj	impostacja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 imposterach	imposter	subst:pl:loc:m1	nazwa pospolita	daw.
 impostera	imposter	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-impostera	imposter	subst:sg:gen:m1	nazwa pospolita	daw.
 imposterami	imposter	subst:pl:inst:m1	nazwa pospolita	daw.
 imposterem	imposter	subst:sg:inst:m1	nazwa pospolita	daw.
 imposter	imposter	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -11699,7 +11626,6 @@ imposterze	imposter	subst:sg:voc:m1	nazwa pospolita	daw.
 imposterzy	imposter	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 impostorach	impostor	subst:pl:loc:m1	nazwa pospolita	
 impostora	impostor	subst:sg:gen.acc:m1	nazwa pospolita	
-impostora	impostor	subst:sg:gen:m1	nazwa pospolita	
 impostorami	impostor	subst:pl:inst:m1	nazwa pospolita	
 impostorem	impostor	subst:sg:inst:m1	nazwa pospolita	
 impostor	impostor	subst:sg:nom:m1	nazwa pospolita	
@@ -11786,7 +11712,6 @@ impotencie	impotent	subst:sg:voc:m1	nazwa pospolita
 impotenci	impotent	subst:pl:nom.voc:m1	nazwa pospolita	
 impotentach	impotent	subst:pl:loc:m1	nazwa pospolita	
 impotenta	impotent	subst:sg:gen.acc:m1	nazwa pospolita	
-impotenta	impotent	subst:sg:gen:m1	nazwa pospolita	
 impotentami	impotent	subst:pl:inst:m1	nazwa pospolita	
 impotentem	impotent	subst:sg:inst:m1	nazwa pospolita	
 impotent	impotent	subst:sg:nom:m1	nazwa pospolita	
@@ -12034,7 +11959,6 @@ impresariatu	impresariat	subst:sg:gen:m3	nazwa pospolita
 impresariaty	impresariat	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 impresariach	impresario	subst:pl:loc:m1	nazwa pospolita	
 impresaria	impresario	subst:sg:gen.acc:m1	nazwa pospolita	
-impresaria	impresario	subst:sg:gen:m1	nazwa pospolita	
 impresariami	impresario	subst:pl:inst:m1	nazwa pospolita	
 impresarie	impresario	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 impresariem	impresario	subst:sg:inst:m1	nazwa pospolita	
@@ -12101,7 +12025,6 @@ impresjonisto	impresjonista	subst:sg:voc:m1	nazwa pospolita
 impresjonistom	impresjonista	subst:pl:dat:m1	nazwa pospolita	
 impresjonistów	impresjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 impresjonisty	impresjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-impresjonisty	impresjonista	subst:sg:gen:m1	nazwa pospolita	
 impresjoniście	impresjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 impresjoniści	impresjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 impresjonistce	impresjonistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -12237,7 +12160,6 @@ impresjonizuj	impresjonizować	impt:sg:sec:imperf
 impresjonizujmy	impresjonizować	impt:pl:pri:imperf		
 impresorach	impresor	subst:pl:loc:m1	nazwa pospolita	daw.
 impresora	impresor	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-impresora	impresor	subst:sg:gen:m1	nazwa pospolita	daw.
 impresorami	impresor	subst:pl:inst:m1	nazwa pospolita	daw.
 impresorem	impresor	subst:sg:inst:m1	nazwa pospolita	daw.
 impresor	impresor	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -12351,7 +12273,6 @@ imprezisto	imprezista	subst:sg:voc:m1	nazwa pospolita	daw.
 imprezistom	imprezista	subst:pl:dat:m1	nazwa pospolita	daw.
 imprezistów	imprezista	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 imprezisty	imprezista	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
-imprezisty	imprezista	subst:sg:gen:m1	nazwa pospolita	daw.
 impreziście	imprezista	subst:sg:dat.loc:m1	nazwa pospolita	daw.
 impreziści	imprezista	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 imprezce	imprezka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -12440,7 +12361,6 @@ imprezuj	imprezować	impt:sg:sec:imperf		pot.
 imprezujmy	imprezować	impt:pl:pri:imperf		pot.
 imprezowiczach	imprezowicz	subst:pl:loc:m1	nazwa pospolita	pot.
 imprezowicza	imprezowicz	subst:sg:gen.acc:m1	nazwa pospolita	pot.
-imprezowicza	imprezowicz	subst:sg:gen:m1	nazwa pospolita	pot.
 imprezowiczami	imprezowicz	subst:pl:inst:m1	nazwa pospolita	pot.
 imprezowicze	imprezowicz	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
 imprezowicze	imprezowicz	subst:pl:nom.voc:m1	nazwa pospolita	pot.
@@ -12512,7 +12432,6 @@ imprintingu	imprinting	subst:sg:loc:m3	nazwa pospolita
 imprintingu	imprinting	subst:sg:voc:m3	nazwa pospolita	
 improduktywach	improduktyw	subst:pl:loc:m1	nazwa pospolita	
 improduktywa	improduktyw	subst:sg:gen.acc:m1	nazwa pospolita	
-improduktywa	improduktyw	subst:sg:gen:m1	nazwa pospolita	
 improduktywami	improduktyw	subst:pl:inst:m1	nazwa pospolita	
 improduktywem	improduktyw	subst:sg:inst:m1	nazwa pospolita	
 improduktywie	improduktyw	subst:sg:loc:m1	nazwa pospolita	
@@ -12574,7 +12493,6 @@ improwizacyjnym	improwizacyjny	adj:sg:inst:m1.m2.m3.n:pos
 improwizacyjnym	improwizacyjny	adj:sg:loc:m1.m2.m3.n:pos		
 improwizatorach	improwizator	subst:pl:loc:m1	nazwa pospolita	
 improwizatora	improwizator	subst:sg:gen.acc:m1	nazwa pospolita	
-improwizatora	improwizator	subst:sg:gen:m1	nazwa pospolita	
 improwizatorami	improwizator	subst:pl:inst:m1	nazwa pospolita	
 improwizatorem	improwizator	subst:sg:inst:m1	nazwa pospolita	
 improwizator	improwizator	subst:sg:nom:m1	nazwa pospolita	
@@ -13817,7 +13735,6 @@ indagacyjnym	indagacyjny	adj:sg:inst:m1.m2.m3.n:pos
 indagacyjnym	indagacyjny	adj:sg:loc:m1.m2.m3.n:pos		
 indagatorach	indagator	subst:pl:loc:m1	nazwa pospolita	przest.
 indagatora	indagator	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-indagatora	indagator	subst:sg:gen:m1	nazwa pospolita	przest.
 indagatorami	indagator	subst:pl:inst:m1	nazwa pospolita	przest.
 indagatorem	indagator	subst:sg:inst:m1	nazwa pospolita	przest.
 indagator	indagator	subst:sg:nom:m1	nazwa pospolita	przest.
@@ -14309,7 +14226,6 @@ independencie	independent	subst:sg:voc:m1	nazwa pospolita
 independenci	independent	subst:pl:nom.voc:m1	nazwa pospolita	
 independentach	independent	subst:pl:loc:m1	nazwa pospolita	
 independenta	independent	subst:sg:gen.acc:m1	nazwa pospolita	
-independenta	independent	subst:sg:gen:m1	nazwa pospolita	
 independentami	independent	subst:pl:inst:m1	nazwa pospolita	
 independentem	independent	subst:sg:inst:m1	nazwa pospolita	
 independent	independent	subst:sg:nom:m1	nazwa pospolita	
@@ -14348,7 +14264,6 @@ indeterministo	indeterminista	subst:sg:voc:m1	nazwa pospolita
 indeterministom	indeterminista	subst:pl:dat:m1	nazwa pospolita	
 indeterministów	indeterminista	subst:pl:gen.acc:m1	nazwa pospolita	
 indeterministy	indeterminista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-indeterministy	indeterminista	subst:sg:gen:m1	nazwa pospolita	
 indeterminiście	indeterminista	subst:sg:dat.loc:m1	nazwa pospolita	
 indeterminiści	indeterminista	subst:pl:nom.voc:m1	nazwa pospolita	
 indeterministycznościach	indeterministyczność	subst:pl:loc:f	nazwa pospolita	
@@ -14406,7 +14321,6 @@ indianisto	indianista	subst:sg:voc:m1	nazwa pospolita
 indianistom	indianista	subst:pl:dat:m1	nazwa pospolita	
 indianistów	indianista	subst:pl:gen.acc:m1	nazwa pospolita	
 indianisty	indianista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-indianisty	indianista	subst:sg:gen:m1	nazwa pospolita	
 indianiście	indianista	subst:sg:dat.loc:m1	nazwa pospolita	
 indianiści	indianista	subst:pl:nom.voc:m1	nazwa pospolita	
 indianistce	indianistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -14597,7 +14511,6 @@ indoeuropeisto	indoeuropeista	subst:sg:voc:m1	nazwa pospolita
 indoeuropeistom	indoeuropeista	subst:pl:dat:m1	nazwa pospolita	
 indoeuropeistów	indoeuropeista	subst:pl:gen.acc:m1	nazwa pospolita	
 indoeuropeisty	indoeuropeista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-indoeuropeisty	indoeuropeista	subst:sg:gen:m1	nazwa pospolita	
 indoeuropeiście	indoeuropeista	subst:sg:dat.loc:m1	nazwa pospolita	
 indoeuropeiści	indoeuropeista	subst:pl:nom.voc:m1	nazwa pospolita	
 indoeuropeistycznościach	indoeuropeistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -14968,7 +14881,6 @@ indolentnym	indolentny	adj:sg:loc:m1.m2.m3.n:pos
 indolodzy	indolog	subst:pl:nom.voc:m1	nazwa pospolita	
 indologach	indolog	subst:pl:loc:m1	nazwa pospolita	
 indologa	indolog	subst:sg:gen.acc:m1	nazwa pospolita	
-indologa	indolog	subst:sg:gen:m1	nazwa pospolita	
 indologami	indolog	subst:pl:inst:m1	nazwa pospolita	
 indologiem	indolog	subst:sg:inst:m1	nazwa pospolita	
 indologi	indolog	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -15065,7 +14977,6 @@ indonezyjskość	indonezyjskość	subst:sg:acc:f	nazwa pospolita
 indonezyjskość	indonezyjskość	subst:sg:nom:f	nazwa pospolita	
 indorach	indor	subst:pl:loc:m2	nazwa pospolita	
 indora	indor	subst:sg:gen.acc:m2	nazwa pospolita	
-indora	indor	subst:sg:gen:m2	nazwa pospolita	
 indorami	indor	subst:pl:inst:m2	nazwa pospolita	
 indorem	indor	subst:sg:inst:m2	nazwa pospolita	
 indor	indor	subst:sg:nom:m2	nazwa pospolita	
@@ -15078,7 +14989,6 @@ indorze	indor	subst:sg:voc:m2	nazwa pospolita
 indoreczek	indoreczek	subst:sg:nom:m2	nazwa pospolita	
 indoreczkach	indoreczek	subst:pl:loc:m2	nazwa pospolita	
 indoreczka	indoreczek	subst:sg:gen.acc:m2	nazwa pospolita	
-indoreczka	indoreczek	subst:sg:gen:m2	nazwa pospolita	
 indoreczkami	indoreczek	subst:pl:inst:m2	nazwa pospolita	
 indoreczkiem	indoreczek	subst:sg:inst:m2	nazwa pospolita	
 indoreczki	indoreczek	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -15090,7 +15000,6 @@ indoreczku	indoreczek	subst:sg:voc:m2	nazwa pospolita
 indorek	indorek	subst:sg:nom:m2	nazwa pospolita	
 indorkach	indorek	subst:pl:loc:m2	nazwa pospolita	
 indorka	indorek	subst:sg:gen.acc:m2	nazwa pospolita	
-indorka	indorek	subst:sg:gen:m2	nazwa pospolita	
 indorkami	indorek	subst:pl:inst:m2	nazwa pospolita	
 indorkiem	indorek	subst:sg:inst:m2	nazwa pospolita	
 indorki	indorek	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -15126,7 +15035,6 @@ indosancie	indosant	subst:sg:voc:m1	nazwa pospolita	praw.
 indosanci	indosant	subst:pl:nom.voc:m1	nazwa pospolita	praw.
 indosantach	indosant	subst:pl:loc:m1	nazwa pospolita	praw.
 indosanta	indosant	subst:sg:gen.acc:m1	nazwa pospolita	praw.
-indosanta	indosant	subst:sg:gen:m1	nazwa pospolita	praw.
 indosantami	indosant	subst:pl:inst:m1	nazwa pospolita	praw.
 indosantem	indosant	subst:sg:inst:m1	nazwa pospolita	praw.
 indosant	indosant	subst:sg:nom:m1	nazwa pospolita	praw.
@@ -15139,7 +15047,6 @@ indosacie	indosat	subst:sg:voc:m1	nazwa pospolita
 indosaci	indosat	subst:pl:nom.voc:m1	nazwa pospolita	
 indosatach	indosat	subst:pl:loc:m1	nazwa pospolita	
 indosata	indosat	subst:sg:gen.acc:m1	nazwa pospolita	
-indosata	indosat	subst:sg:gen:m1	nazwa pospolita	
 indosatami	indosat	subst:pl:inst:m1	nazwa pospolita	
 indosatem	indosat	subst:sg:inst:m1	nazwa pospolita	
 indosat	indosat	subst:sg:nom:m1	nazwa pospolita	
@@ -15149,7 +15056,6 @@ indosatów	indosat	subst:pl:gen.acc:m1	nazwa pospolita
 indosaty	indosat	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 indosatariuszach	indosatariusz	subst:pl:loc:m1	nazwa pospolita	
 indosatariusza	indosatariusz	subst:sg:gen.acc:m1	nazwa pospolita	
-indosatariusza	indosatariusz	subst:sg:gen:m1	nazwa pospolita	
 indosatariuszami	indosatariusz	subst:pl:inst:m1	nazwa pospolita	
 indosatariusze	indosatariusz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 indosatariusze	indosatariusz	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -15972,7 +15878,6 @@ indyferencie	indyferent	subst:sg:voc:m1	nazwa pospolita
 indyferenci	indyferent	subst:pl:nom.voc:m1	nazwa pospolita	
 indyferentach	indyferent	subst:pl:loc:m1	nazwa pospolita	
 indyferenta	indyferent	subst:sg:gen.acc:m1	nazwa pospolita	
-indyferenta	indyferent	subst:sg:gen:m1	nazwa pospolita	
 indyferentami	indyferent	subst:pl:inst:m1	nazwa pospolita	
 indyferentem	indyferent	subst:sg:inst:m1	nazwa pospolita	
 indyferent	indyferent	subst:sg:nom:m1	nazwa pospolita	
@@ -16036,7 +15941,6 @@ indyferentysto	indyferentysta	subst:sg:voc:m1	nazwa pospolita	przest.
 indyferentystom	indyferentysta	subst:pl:dat:m1	nazwa pospolita	przest.
 indyferentystów	indyferentysta	subst:pl:gen.acc:m1	nazwa pospolita	przest.
 indyferentysty	indyferentysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
-indyferentysty	indyferentysta	subst:sg:gen:m1	nazwa pospolita	przest.
 indyferentyście	indyferentysta	subst:sg:dat.loc:m1	nazwa pospolita	przest.
 indyferentyści	indyferentysta	subst:pl:nom.voc:m1	nazwa pospolita	przest.
 indyferentyzmach	indyferentyzm	subst:pl:loc:m3	nazwa pospolita	
@@ -16061,7 +15965,6 @@ indygeno	indygena	subst:sg:voc:m1	nazwa pospolita
 indygenom	indygena	subst:pl:dat:m1	nazwa pospolita	
 indygenów	indygena	subst:pl:gen.acc:m1	nazwa pospolita	
 indygeny	indygena	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-indygeny	indygena	subst:sg:gen:m1	nazwa pospolita	
 indygenacie	indygenat	subst:sg:loc:m3	nazwa pospolita	
 indygenacie	indygenat	subst:sg:voc:m3	nazwa pospolita	
 indygenatach	indygenat	subst:pl:loc:m3	nazwa pospolita	
@@ -16099,7 +16002,6 @@ indygu	indygo	subst:sg:loc:n:ncol	nazwa pospolita
 indygowcach	indygowiec	subst:pl:loc:m2	nazwa pospolita	pot.
 indygowcach	indygowiec	subst:pl:loc:m3	nazwa pospolita	
 indygowca	indygowiec	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-indygowca	indygowiec	subst:sg:gen:m2	nazwa pospolita	pot.
 indygowca	indygowiec	subst:sg:gen:m3	nazwa pospolita	
 indygowcami	indygowiec	subst:pl:inst:m2	nazwa pospolita	pot.
 indygowcami	indygowiec	subst:pl:inst:m3	nazwa pospolita	
@@ -16193,7 +16095,6 @@ indyjskość	indyjskość	subst:sg:acc:f	nazwa pospolita
 indyjskość	indyjskość	subst:sg:nom:f	nazwa pospolita	
 indykach	indyk	subst:pl:loc:m2	nazwa pospolita	
 indyka	indyk	subst:sg:gen.acc:m2	nazwa pospolita	
-indyka	indyk	subst:sg:gen:m2	nazwa pospolita	
 indykami	indyk	subst:pl:inst:m2	nazwa pospolita	
 indykiem	indyk	subst:sg:inst:m2	nazwa pospolita	
 indyki	indyk	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -16441,7 +16342,6 @@ indywidualisto	indywidualista	subst:sg:voc:m1	nazwa pospolita
 indywidualistom	indywidualista	subst:pl:dat:m1	nazwa pospolita	
 indywidualistów	indywidualista	subst:pl:gen.acc:m1	nazwa pospolita	
 indywidualisty	indywidualista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-indywidualisty	indywidualista	subst:sg:gen:m1	nazwa pospolita	
 indywidualiście	indywidualista	subst:sg:dat.loc:m1	nazwa pospolita	
 indywidualiści	indywidualista	subst:pl:nom.voc:m1	nazwa pospolita	
 indywidualistce	indywidualistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -16746,7 +16646,6 @@ inercyjnym	inercyjny	adj:sg:inst:m1.m2.m3.n:pos
 inercyjnym	inercyjny	adj:sg:loc:m1.m2.m3.n:pos		
 infamach	infam	subst:pl:loc:m1	nazwa pospolita	daw.
 infama	infam	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-infama	infam	subst:sg:gen:m1	nazwa pospolita	daw.
 infamami	infam	subst:pl:inst:m1	nazwa pospolita	daw.
 infamem	infam	subst:sg:inst:m1	nazwa pospolita	daw.
 infamie	infam	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -16771,7 +16670,6 @@ infamio	infamia	subst:sg:voc:f	nazwa pospolita
 infamiom	infamia	subst:pl:dat:f	nazwa pospolita	
 infamisach	infamis	subst:pl:loc:m1	nazwa pospolita	
 infamisa	infamis	subst:sg:gen.acc:m1	nazwa pospolita	
-infamisa	infamis	subst:sg:gen:m1	nazwa pospolita	
 infamisami	infamis	subst:pl:inst:m1	nazwa pospolita	
 infamisem	infamis	subst:sg:inst:m1	nazwa pospolita	
 infamisie	infamis	subst:sg:loc:m1	nazwa pospolita	
@@ -16876,7 +16774,6 @@ infancie	infant	subst:sg:voc:m1	nazwa pospolita	daw.
 infanci	infant	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 infantach	infant	subst:pl:loc:m1	nazwa pospolita	daw.
 infanta	infant	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-infanta	infant	subst:sg:gen:m1	nazwa pospolita	daw.
 infantami	infant	subst:pl:inst:m1	nazwa pospolita	daw.
 infantem	infant	subst:sg:inst:m1	nazwa pospolita	daw.
 infant	infant	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -16978,7 +16875,6 @@ infanterzysto	infanterzysta	subst:sg:voc:m1	nazwa pospolita	daw.
 infanterzystom	infanterzysta	subst:pl:dat:m1	nazwa pospolita	daw.
 infanterzystów	infanterzysta	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 infanterzysty	infanterzysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
-infanterzysty	infanterzysta	subst:sg:gen:m1	nazwa pospolita	daw.
 infanterzyście	infanterzysta	subst:sg:dat.loc:m1	nazwa pospolita	daw.
 infanterzyści	infanterzysta	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 infantce	infantka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -17700,12 +17596,10 @@ infimisto	infimista	subst:sg:voc:m1	nazwa pospolita	daw.
 infimistom	infimista	subst:pl:dat:m1	nazwa pospolita	daw.
 infimistów	infimista	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 infimisty	infimista	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
-infimisty	infimista	subst:sg:gen:m1	nazwa pospolita	daw.
 infimiście	infimista	subst:sg:dat.loc:m1	nazwa pospolita	daw.
 infimiści	infimista	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 infimusach	infimus	subst:pl:loc:m1	nazwa pospolita	daw.
 infimusa	infimus	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-infimusa	infimus	subst:sg:gen:m1	nazwa pospolita	daw.
 infimusami	infimus	subst:pl:inst:m1	nazwa pospolita	daw.
 infimusem	infimus	subst:sg:inst:m1	nazwa pospolita	daw.
 infimusie	infimus	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -17762,7 +17656,6 @@ infirmarium	infirmarium	subst:sg:loc:n:ncol	nazwa pospolita	daw.
 infirmarium	infirmarium	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	daw.
 infirmerach	infirmer	subst:pl:loc:m1	nazwa pospolita	daw.
 infirmera	infirmer	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-infirmera	infirmer	subst:sg:gen:m1	nazwa pospolita	daw.
 infirmerami	infirmer	subst:pl:inst:m1	nazwa pospolita	daw.
 infirmerem	infirmer	subst:sg:inst:m1	nazwa pospolita	daw.
 infirmer	infirmer	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -18102,7 +17995,6 @@ informatorze	informator:s1	subst:sg:loc:m3	nazwa pospolita
 informatorze	informator:s1	subst:sg:voc:m3	nazwa pospolita	
 informatorach	informator:s2	subst:pl:loc:m1	nazwa pospolita	
 informatora	informator:s2	subst:sg:gen.acc:m1	nazwa pospolita	
-informatora	informator:s2	subst:sg:gen:m1	nazwa pospolita	
 informatorami	informator:s2	subst:pl:inst:m1	nazwa pospolita	
 informatorem	informator:s2	subst:sg:inst:m1	nazwa pospolita	
 informator	informator:s2	subst:sg:nom:m1	nazwa pospolita	
@@ -18201,7 +18093,6 @@ informatycznym	informatyczny	adj:sg:loc:m1.m2.m3.n:pos
 informatycy	informatyk	subst:pl:nom.voc:m1	nazwa pospolita	
 informatykach	informatyk	subst:pl:loc:m1	nazwa pospolita	
 informatyka	informatyk	subst:sg:gen.acc:m1	nazwa pospolita	
-informatyka	informatyk	subst:sg:gen:m1	nazwa pospolita	
 informatykami	informatyk	subst:pl:inst:m1	nazwa pospolita	
 informatykiem	informatyk	subst:sg:inst:m1	nazwa pospolita	
 informatyki	informatyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -18686,7 +18577,6 @@ infułacie	infułat	subst:sg:voc:m1	nazwa pospolita
 infułaci	infułat	subst:pl:nom.voc:m1	nazwa pospolita	
 infułatach	infułat	subst:pl:loc:m1	nazwa pospolita	
 infułata	infułat	subst:sg:gen.acc:m1	nazwa pospolita	
-infułata	infułat	subst:sg:gen:m1	nazwa pospolita	
 infułatami	infułat	subst:pl:inst:m1	nazwa pospolita	
 infułatem	infułat	subst:sg:inst:m1	nazwa pospolita	
 infułat	infułat	subst:sg:nom:m1	nazwa pospolita	
@@ -18769,7 +18659,6 @@ ingerencie	ingerent	subst:sg:voc:m1	nazwa pospolita
 ingerenci	ingerent	subst:pl:nom.voc:m1	nazwa pospolita	
 ingerentach	ingerent	subst:pl:loc:m1	nazwa pospolita	
 ingerenta	ingerent	subst:sg:gen.acc:m1	nazwa pospolita	
-ingerenta	ingerent	subst:sg:gen:m1	nazwa pospolita	
 ingerentami	ingerent	subst:pl:inst:m1	nazwa pospolita	
 ingerentem	ingerent	subst:sg:inst:m1	nazwa pospolita	
 ingerent	ingerent	subst:sg:nom:m1	nazwa pospolita	
@@ -19574,7 +19463,6 @@ inicjancie	inicjant	subst:sg:voc:m1	nazwa pospolita	daw.
 inicjanci	inicjant	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 inicjantach	inicjant	subst:pl:loc:m1	nazwa pospolita	daw.
 inicjanta	inicjant	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-inicjanta	inicjant	subst:sg:gen:m1	nazwa pospolita	daw.
 inicjantami	inicjant	subst:pl:inst:m1	nazwa pospolita	daw.
 inicjantem	inicjant	subst:sg:inst:m1	nazwa pospolita	daw.
 inicjant	inicjant	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -19595,7 +19483,6 @@ inicjatorko	inicjatorka	subst:sg:voc:f	nazwa pospolita
 inicjatorkom	inicjatorka	subst:pl:dat:f	nazwa pospolita	
 inicjatorach	inicjator:s1	subst:pl:loc:m1	nazwa pospolita	
 inicjatora	inicjator:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-inicjatora	inicjator:s1	subst:sg:gen:m1	nazwa pospolita	
 inicjatorami	inicjator:s1	subst:pl:inst:m1	nazwa pospolita	
 inicjatorem	inicjator:s1	subst:sg:inst:m1	nazwa pospolita	
 inicjator	inicjator:s1	subst:sg:nom:m1	nazwa pospolita	
@@ -20221,7 +20108,6 @@ inkasencie	inkasent	subst:sg:voc:m1	nazwa pospolita
 inkasenci	inkasent	subst:pl:nom.voc:m1	nazwa pospolita	
 inkasentach	inkasent	subst:pl:loc:m1	nazwa pospolita	
 inkasenta	inkasent	subst:sg:gen.acc:m1	nazwa pospolita	
-inkasenta	inkasent	subst:sg:gen:m1	nazwa pospolita	
 inkasentami	inkasent	subst:pl:inst:m1	nazwa pospolita	
 inkasentem	inkasent	subst:sg:inst:m1	nazwa pospolita	
 inkasent	inkasent	subst:sg:nom:m1	nazwa pospolita	
@@ -21248,7 +21134,6 @@ inkryminowanym	inkryminowany	adj:sg:inst:m1.m2.m3.n:pos
 inkryminowanym	inkryminowany	adj:sg:loc:m1.m2.m3.n:pos		
 inkubach	inkub	subst:pl:loc:m2	nazwa pospolita	
 inkuba	inkub	subst:sg:gen.acc:m2	nazwa pospolita	
-inkuba	inkub	subst:sg:gen:m2	nazwa pospolita	
 inkubami	inkub	subst:pl:inst:m2	nazwa pospolita	
 inkubem	inkub	subst:sg:inst:m2	nazwa pospolita	
 inkubie	inkub	subst:sg:loc:m2	nazwa pospolita	
@@ -21558,7 +21443,6 @@ inkwirencie	inkwirent	subst:sg:voc:m1	nazwa pospolita	przest.
 inkwirenci	inkwirent	subst:pl:nom.voc:m1	nazwa pospolita	przest.
 inkwirentach	inkwirent	subst:pl:loc:m1	nazwa pospolita	przest.
 inkwirenta	inkwirent	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-inkwirenta	inkwirent	subst:sg:gen:m1	nazwa pospolita	przest.
 inkwirentami	inkwirent	subst:pl:inst:m1	nazwa pospolita	przest.
 inkwirentem	inkwirent	subst:sg:inst:m1	nazwa pospolita	przest.
 inkwirent	inkwirent	subst:sg:nom:m1	nazwa pospolita	przest.
@@ -21704,7 +21588,6 @@ inkwizycyjnym	inkwizycyjny	adj:sg:inst:m1.m2.m3.n:pos
 inkwizycyjnym	inkwizycyjny	adj:sg:loc:m1.m2.m3.n:pos		
 inkwizytorach	inkwizytor	subst:pl:loc:m1	nazwa pospolita	
 inkwizytora	inkwizytor	subst:sg:gen.acc:m1	nazwa pospolita	
-inkwizytora	inkwizytor	subst:sg:gen:m1	nazwa pospolita	
 inkwizytorami	inkwizytor	subst:pl:inst:m1	nazwa pospolita	
 inkwizytorem	inkwizytor	subst:sg:inst:m1	nazwa pospolita	
 inkwizytor	inkwizytor	subst:sg:nom:m1	nazwa pospolita	
@@ -21918,7 +21801,6 @@ innojęzycznym	innojęzyczny	adj:sg:loc:m1.m2.m3.n:pos
 innoplemieniec	innoplemieniec	subst:sg:nom:m1	nazwa pospolita	przest.
 innoplemieńcach	innoplemieniec	subst:pl:loc:m1	nazwa pospolita	przest.
 innoplemieńca	innoplemieniec	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-innoplemieńca	innoplemieniec	subst:sg:gen:m1	nazwa pospolita	przest.
 innoplemieńcami	innoplemieniec	subst:pl:inst:m1	nazwa pospolita	przest.
 innoplemieńce	innoplemieniec	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
 innoplemieńcem	innoplemieniec	subst:sg:inst:m1	nazwa pospolita	przest.
@@ -22202,7 +22084,6 @@ innowacyjnym	innowacyjny	adj:sg:inst:m1.m2.m3.n:pos
 innowacyjnym	innowacyjny	adj:sg:loc:m1.m2.m3.n:pos		
 innowatorach	innowator	subst:pl:loc:m1	nazwa pospolita	
 innowatora	innowator	subst:sg:gen.acc:m1	nazwa pospolita	
-innowatora	innowator	subst:sg:gen:m1	nazwa pospolita	
 innowatorami	innowator	subst:pl:inst:m1	nazwa pospolita	
 innowatorem	innowator	subst:sg:inst:m1	nazwa pospolita	
 innowator	innowator	subst:sg:nom:m1	nazwa pospolita	
@@ -22261,7 +22142,6 @@ innowiercom	innowierca	subst:pl:dat:m1	nazwa pospolita
 innowierców	innowierca	subst:pl:gen.acc:m1	nazwa pospolita	
 innowiercy	innowierca	subst:pl:nom.voc:m1	nazwa pospolita	
 innowiercy	innowierca	subst:sg:dat.loc:m1	nazwa pospolita	
-innowiercy	innowierca	subst:sg:gen:m1	nazwa pospolita	
 innowierczościach	innowierczość	subst:pl:loc:f	nazwa pospolita	
 innowierczościami	innowierczość	subst:pl:inst:f	nazwa pospolita	
 innowierczością	innowierczość	subst:sg:inst:f	nazwa pospolita	
@@ -22407,7 +22287,6 @@ innym	inny:a	adj:pl:dat:m1.m2.m3.f.n:pos
 innym	inny:a	adj:sg:inst:m1.m2.m3.n:pos		
 innym	inny:a	adj:sg:loc:m1.m2.m3.n:pos		
 innego	inny:s	subst:sg:gen.acc:m1	nazwa pospolita	
-innego	inny:s	subst:sg:gen:m1	nazwa pospolita	
 inne	inny:s	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 innemu	inny:s	subst:sg:dat:m1	nazwa pospolita	
 inni	inny:s	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -22422,7 +22301,6 @@ innym	inny:s	subst:sg:loc:m1	nazwa pospolita
 ino	ino	qub		gwar.
 inoceramach	inoceram	subst:pl:loc:m2	nazwa pospolita	
 inocerama	inoceram	subst:sg:gen.acc:m2	nazwa pospolita	
-inocerama	inoceram	subst:sg:gen:m2	nazwa pospolita	
 inoceramami	inoceram	subst:pl:inst:m2	nazwa pospolita	
 inoceramem	inoceram	subst:sg:inst:m2	nazwa pospolita	
 inoceramie	inoceram	subst:sg:loc:m2	nazwa pospolita	
@@ -22435,7 +22313,6 @@ inoceramy	inoceram	subst:pl:nom.acc.voc:m2	nazwa pospolita
 inochodziec	inochodziec	subst:sg:nom:m2	nazwa pospolita	
 inochodźcach	inochodziec	subst:pl:loc:m2	nazwa pospolita	
 inochodźca	inochodziec	subst:sg:gen.acc:m2	nazwa pospolita	
-inochodźca	inochodziec	subst:sg:gen:m2	nazwa pospolita	
 inochodźcami	inochodziec	subst:pl:inst:m2	nazwa pospolita	
 inochodźce	inochodziec	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 inochodźcem	inochodziec	subst:sg:inst:m2	nazwa pospolita	
@@ -22639,7 +22516,6 @@ inscenizacyjnym	inscenizacyjny	adj:sg:inst:m1.m2.m3.n:pos
 inscenizacyjnym	inscenizacyjny	adj:sg:loc:m1.m2.m3.n:pos		
 inscenizatorach	inscenizator	subst:pl:loc:m1	nazwa pospolita	
 inscenizatora	inscenizator	subst:sg:gen.acc:m1	nazwa pospolita	
-inscenizatora	inscenizator	subst:sg:gen:m1	nazwa pospolita	
 inscenizatorami	inscenizator	subst:pl:inst:m1	nazwa pospolita	
 inscenizatorem	inscenizator	subst:sg:inst:m1	nazwa pospolita	
 inscenizator	inscenizator	subst:sg:nom:m1	nazwa pospolita	
@@ -22791,7 +22667,6 @@ insekcie	insekt	subst:sg:loc:m2	nazwa pospolita	zool.
 insekcie	insekt	subst:sg:voc:m2	nazwa pospolita	zool.
 insektach	insekt	subst:pl:loc:m2	nazwa pospolita	zool.
 insekta	insekt	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-insekta	insekt	subst:sg:gen:m2	nazwa pospolita	zool.
 insektami	insekt	subst:pl:inst:m2	nazwa pospolita	zool.
 insektem	insekt	subst:sg:inst:m2	nazwa pospolita	zool.
 insekt	insekt	subst:sg:nom:m2	nazwa pospolita	zool.
@@ -22915,7 +22790,6 @@ inseminacyjnym	inseminacyjny	adj:sg:inst:m1.m2.m3.n:pos
 inseminacyjnym	inseminacyjny	adj:sg:loc:m1.m2.m3.n:pos		
 inseminatorach	inseminator	subst:pl:loc:m1	nazwa pospolita	
 inseminatora	inseminator	subst:sg:gen.acc:m1	nazwa pospolita	
-inseminatora	inseminator	subst:sg:gen:m1	nazwa pospolita	
 inseminatorami	inseminator	subst:pl:inst:m1	nazwa pospolita	
 inseminatorem	inseminator	subst:sg:inst:m1	nazwa pospolita	
 inseminator	inseminator	subst:sg:nom:m1	nazwa pospolita	
@@ -23249,7 +23123,6 @@ insolwencie	insolwent	subst:sg:voc:m1	nazwa pospolita	daw.
 insolwenci	insolwent	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 insolwentach	insolwent	subst:pl:loc:m1	nazwa pospolita	daw.
 insolwenta	insolwent	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-insolwenta	insolwent	subst:sg:gen:m1	nazwa pospolita	daw.
 insolwentami	insolwent	subst:pl:inst:m1	nazwa pospolita	daw.
 insolwentem	insolwent	subst:sg:inst:m1	nazwa pospolita	daw.
 insolwent	insolwent	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -23408,7 +23281,6 @@ inspektu	inspekt	subst:sg:gen:m3	nazwa pospolita	daw.
 inspekty	inspekt	subst:pl:nom.acc.voc:m3	nazwa pospolita	daw.
 inspektorach	inspektor	subst:pl:loc:m1	nazwa pospolita	
 inspektora	inspektor	subst:sg:gen.acc:m1	nazwa pospolita	
-inspektora	inspektor	subst:sg:gen:m1	nazwa pospolita	
 inspektorami	inspektor	subst:pl:inst:m1	nazwa pospolita	
 inspektorem	inspektor	subst:sg:inst:m1	nazwa pospolita	
 inspektor	inspektor	subst:sg:nom:m1	nazwa pospolita	
@@ -23650,7 +23522,6 @@ inspicjencie	inspicjent	subst:sg:voc:m1	nazwa pospolita
 inspicjenci	inspicjent	subst:pl:nom.voc:m1	nazwa pospolita	
 inspicjentach	inspicjent	subst:pl:loc:m1	nazwa pospolita	
 inspicjenta	inspicjent	subst:sg:gen.acc:m1	nazwa pospolita	
-inspicjenta	inspicjent	subst:sg:gen:m1	nazwa pospolita	
 inspicjentami	inspicjent	subst:pl:inst:m1	nazwa pospolita	
 inspicjentem	inspicjent	subst:sg:inst:m1	nazwa pospolita	
 inspicjent	inspicjent	subst:sg:nom:m1	nazwa pospolita	
@@ -23729,7 +23600,6 @@ inspiracyjnym	inspiracyjny	adj:sg:inst:m1.m2.m3.n:pos
 inspiracyjnym	inspiracyjny	adj:sg:loc:m1.m2.m3.n:pos		
 inspiratorach	inspirator	subst:pl:loc:m1	nazwa pospolita	
 inspiratora	inspirator	subst:sg:gen.acc:m1	nazwa pospolita	
-inspiratora	inspirator	subst:sg:gen:m1	nazwa pospolita	
 inspiratorami	inspirator	subst:pl:inst:m1	nazwa pospolita	
 inspiratorem	inspirator	subst:sg:inst:m1	nazwa pospolita	
 inspirator	inspirator	subst:sg:nom:m1	nazwa pospolita	
@@ -23973,7 +23843,6 @@ instalatorko	instalatorka	subst:sg:voc:f	nazwa pospolita
 instalatorkom	instalatorka	subst:pl:dat:f	nazwa pospolita	
 instalatorach	instalator:s1	subst:pl:loc:m1	nazwa pospolita	
 instalatora	instalator:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-instalatora	instalator:s1	subst:sg:gen:m1	nazwa pospolita	
 instalatorami	instalator:s1	subst:pl:inst:m1	nazwa pospolita	
 instalatorem	instalator:s1	subst:sg:inst:m1	nazwa pospolita	
 instalator	instalator:s1	subst:sg:nom:m1	nazwa pospolita	
@@ -24530,7 +24399,6 @@ instruktażowym	instruktażowy	adj:sg:inst:m1.m2.m3.n:pos
 instruktażowym	instruktażowy	adj:sg:loc:m1.m2.m3.n:pos		
 instruktorach	instruktor	subst:pl:loc:m1	nazwa pospolita	
 instruktora	instruktor	subst:sg:gen.acc:m1	nazwa pospolita	
-instruktora	instruktor	subst:sg:gen:m1	nazwa pospolita	
 instruktorami	instruktor	subst:pl:inst:m1	nazwa pospolita	
 instruktorem	instruktor	subst:sg:inst:m1	nazwa pospolita	
 instruktor	instruktor	subst:sg:nom:m1	nazwa pospolita	
@@ -24704,7 +24572,6 @@ instrumentalisto	instrumentalista	subst:sg:voc:m1	nazwa pospolita
 instrumentalistom	instrumentalista	subst:pl:dat:m1	nazwa pospolita	
 instrumentalistów	instrumentalista	subst:pl:gen.acc:m1	nazwa pospolita	
 instrumentalisty	instrumentalista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-instrumentalisty	instrumentalista	subst:sg:gen:m1	nazwa pospolita	
 instrumentaliście	instrumentalista	subst:sg:dat.loc:m1	nazwa pospolita	
 instrumentaliści	instrumentalista	subst:pl:nom.voc:m1	nazwa pospolita	
 instrumentalistce	instrumentalistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -24913,7 +24780,6 @@ instrumentarium	instrumentarium	subst:sg:loc:n:ncol	nazwa pospolita	daw.
 instrumentarium	instrumentarium	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	daw.
 instrumentariuszach	instrumentariusz	subst:pl:loc:m1	nazwa pospolita	
 instrumentariusza	instrumentariusz	subst:sg:gen.acc:m1	nazwa pospolita	
-instrumentariusza	instrumentariusz	subst:sg:gen:m1	nazwa pospolita	
 instrumentariuszami	instrumentariusz	subst:pl:inst:m1	nazwa pospolita	
 instrumentariusze	instrumentariusz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 instrumentariusze	instrumentariusz	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -24948,7 +24814,6 @@ instrumentarstwom	instrumentarstwo	subst:pl:dat:n:ncol	nazwa pospolita
 instrumentarstwu	instrumentarstwo	subst:sg:dat:n:ncol	nazwa pospolita	
 instrumentatorach	instrumentator	subst:pl:loc:m1	nazwa pospolita	
 instrumentatora	instrumentator	subst:sg:gen.acc:m1	nazwa pospolita	
-instrumentatora	instrumentator	subst:sg:gen:m1	nazwa pospolita	
 instrumentatorami	instrumentator	subst:pl:inst:m1	nazwa pospolita	
 instrumentatorem	instrumentator	subst:sg:inst:m1	nazwa pospolita	
 instrumentator	instrumentator	subst:sg:nom:m1	nazwa pospolita	
@@ -25255,7 +25120,6 @@ instygacjom	instygacja	subst:pl:dat:f	nazwa pospolita	daw.
 instygacyj	instygacja	subst:pl:gen:f	nazwa pospolita	arch.|char.|daw.
 instygatorach	instygator	subst:pl:loc:m1	nazwa pospolita	
 instygatora	instygator	subst:sg:gen.acc:m1	nazwa pospolita	
-instygatora	instygator	subst:sg:gen:m1	nazwa pospolita	
 instygatorami	instygator	subst:pl:inst:m1	nazwa pospolita	
 instygatorem	instygator	subst:sg:inst:m1	nazwa pospolita	
 instygator	instygator	subst:sg:nom:m1	nazwa pospolita	
@@ -25957,7 +25821,6 @@ insultancie	insultant	subst:sg:voc:m1	nazwa pospolita	daw.
 insultanci	insultant	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 insultantach	insultant	subst:pl:loc:m1	nazwa pospolita	daw.
 insultanta	insultant	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-insultanta	insultant	subst:sg:gen:m1	nazwa pospolita	daw.
 insultantami	insultant	subst:pl:inst:m1	nazwa pospolita	daw.
 insultantem	insultant	subst:sg:inst:m1	nazwa pospolita	daw.
 insultant	insultant	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -26106,7 +25969,6 @@ insurgencie	insurgent	subst:sg:voc:m1	nazwa pospolita	daw.
 insurgenci	insurgent	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 insurgentach	insurgent	subst:pl:loc:m1	nazwa pospolita	daw.
 insurgenta	insurgent	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-insurgenta	insurgent	subst:sg:gen:m1	nazwa pospolita	daw.
 insurgentami	insurgent	subst:pl:inst:m1	nazwa pospolita	daw.
 insurgentem	insurgent	subst:sg:inst:m1	nazwa pospolita	daw.
 insurgent	insurgent	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -26173,7 +26035,6 @@ insynuacyjnym	insynuacyjny	adj:sg:inst:m1.m2.m3.n:pos
 insynuacyjnym	insynuacyjny	adj:sg:loc:m1.m2.m3.n:pos		
 insynuatorach	insynuator	subst:pl:loc:m1	nazwa pospolita	
 insynuatora	insynuator	subst:sg:gen.acc:m1	nazwa pospolita	
-insynuatora	insynuator	subst:sg:gen:m1	nazwa pospolita	
 insynuatorami	insynuator	subst:pl:inst:m1	nazwa pospolita	
 insynuatorem	insynuator	subst:sg:inst:m1	nazwa pospolita	
 insynuator	insynuator	subst:sg:nom:m1	nazwa pospolita	
@@ -26358,7 +26219,6 @@ inszym	inszy:a	adj:sg:inst:m1.m2.m3.n:pos		daw.
 inszym	inszy:a	adj:sg:loc:m1.m2.m3.n:pos		daw.
 insi	inszy:s	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 inszego	inszy:s	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-inszego	inszy:s	subst:sg:gen:m1	nazwa pospolita	daw.
 insze	inszy:s	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 inszemu	inszy:s	subst:sg:dat:m1	nazwa pospolita	daw.
 inszych	inszy:s	subst:pl:gen.acc:m1	nazwa pospolita	daw.
@@ -26604,7 +26464,6 @@ integracjonisto	integracjonista	subst:sg:voc:m1	nazwa pospolita
 integracjonistom	integracjonista	subst:pl:dat:m1	nazwa pospolita	
 integracjonistów	integracjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 integracjonisty	integracjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-integracjonisty	integracjonista	subst:sg:gen:m1	nazwa pospolita	
 integracjoniście	integracjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 integracjoniści	integracjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 integracyjnościach	integracyjność	subst:pl:loc:f	nazwa pospolita	
@@ -26878,7 +26737,6 @@ integrysto	integrysta	subst:sg:voc:m1	nazwa pospolita
 integrystom	integrysta	subst:pl:dat:m1	nazwa pospolita	
 integrystów	integrysta	subst:pl:gen.acc:m1	nazwa pospolita	
 integrysty	integrysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-integrysty	integrysta	subst:sg:gen:m1	nazwa pospolita	
 integryście	integrysta	subst:sg:dat.loc:m1	nazwa pospolita	
 integryści	integrysta	subst:pl:nom.voc:m1	nazwa pospolita	
 integrystycznościach	integrystyczność	subst:pl:loc:f	nazwa pospolita	
@@ -26947,7 +26805,6 @@ intelektualisto	intelektualista	subst:sg:voc:m1	nazwa pospolita
 intelektualistom	intelektualista	subst:pl:dat:m1	nazwa pospolita	
 intelektualistów	intelektualista	subst:pl:gen.acc:m1	nazwa pospolita	
 intelektualisty	intelektualista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-intelektualisty	intelektualista	subst:sg:gen:m1	nazwa pospolita	
 intelektualiście	intelektualista	subst:sg:dat.loc:m1	nazwa pospolita	
 intelektualiści	intelektualista	subst:pl:nom.voc:m1	nazwa pospolita	
 intelektualistce	intelektualistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -27147,7 +27004,6 @@ intelektualnym	intelektualny	adj:sg:loc:m1.m2.m3.n:pos
 inteligenciacy	inteligenciak	subst:pl:nom.voc:m1	nazwa pospolita	
 inteligenciakach	inteligenciak	subst:pl:loc:m1	nazwa pospolita	
 inteligenciaka	inteligenciak	subst:sg:gen.acc:m1	nazwa pospolita	
-inteligenciaka	inteligenciak	subst:sg:gen:m1	nazwa pospolita	
 inteligenciakami	inteligenciak	subst:pl:inst:m1	nazwa pospolita	
 inteligenciakiem	inteligenciak	subst:sg:inst:m1	nazwa pospolita	
 inteligenciaki	inteligenciak	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -27159,7 +27015,6 @@ inteligenciaku	inteligenciak	subst:sg:loc:m1	nazwa pospolita
 inteligenciaku	inteligenciak	subst:sg:voc:m1	nazwa pospolita	
 inteligencikach	inteligencik	subst:pl:loc:m1	nazwa pospolita	lekcew.
 inteligencika	inteligencik	subst:sg:gen.acc:m1	nazwa pospolita	lekcew.
-inteligencika	inteligencik	subst:sg:gen:m1	nazwa pospolita	lekcew.
 inteligencikami	inteligencik	subst:pl:inst:m1	nazwa pospolita	lekcew.
 inteligencikiem	inteligencik	subst:sg:inst:m1	nazwa pospolita	lekcew.
 inteligenciki	inteligencik	depr:pl:nom.acc.voc:m2	nazwa pospolita	lekcew.
@@ -27224,7 +27079,6 @@ inteligencie	inteligent	subst:sg:voc:m1	nazwa pospolita
 inteligenci	inteligent	subst:pl:nom.voc:m1	nazwa pospolita	
 inteligentach	inteligent	subst:pl:loc:m1	nazwa pospolita	
 inteligenta	inteligent	subst:sg:gen.acc:m1	nazwa pospolita	
-inteligenta	inteligent	subst:sg:gen:m1	nazwa pospolita	
 inteligentami	inteligent	subst:pl:inst:m1	nazwa pospolita	
 inteligentem	inteligent	subst:sg:inst:m1	nazwa pospolita	
 inteligent	inteligent	subst:sg:nom:m1	nazwa pospolita	
@@ -27439,7 +27293,6 @@ intendancie	intendant	subst:sg:voc:m1	nazwa pospolita	daw.
 intendanci	intendant	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 intendantach	intendant	subst:pl:loc:m1	nazwa pospolita	daw.
 intendanta	intendant	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-intendanta	intendant	subst:sg:gen:m1	nazwa pospolita	daw.
 intendantami	intendant	subst:pl:inst:m1	nazwa pospolita	daw.
 intendantem	intendant	subst:sg:inst:m1	nazwa pospolita	daw.
 intendant	intendant	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -27489,7 +27342,6 @@ intendencie	intendent	subst:sg:voc:m1	nazwa pospolita
 intendenci	intendent	subst:pl:nom.voc:m1	nazwa pospolita	
 intendentach	intendent	subst:pl:loc:m1	nazwa pospolita	
 intendenta	intendent	subst:sg:gen.acc:m1	nazwa pospolita	
-intendenta	intendent	subst:sg:gen:m1	nazwa pospolita	
 intendentami	intendent	subst:pl:inst:m1	nazwa pospolita	
 intendentem	intendent	subst:sg:inst:m1	nazwa pospolita	
 intendent	intendent	subst:sg:nom:m1	nazwa pospolita	
@@ -27857,7 +27709,6 @@ interakcjonisto	interakcjonista	subst:sg:voc:m1	nazwa pospolita
 interakcjonistom	interakcjonista	subst:pl:dat:m1	nazwa pospolita	
 interakcjonistów	interakcjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 interakcjonisty	interakcjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-interakcjonisty	interakcjonista	subst:sg:gen:m1	nazwa pospolita	
 interakcjoniście	interakcjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 interakcjoniści	interakcjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 interakcjonizmach	interakcjonizm	subst:pl:loc:m3	nazwa pospolita	
@@ -27947,7 +27798,6 @@ intercedencie	intercedent	subst:sg:voc:m1	nazwa pospolita	daw.|praw.
 intercedenci	intercedent	subst:pl:nom.voc:m1	nazwa pospolita	daw.|praw.
 intercedentach	intercedent	subst:pl:loc:m1	nazwa pospolita	daw.|praw.
 intercedenta	intercedent	subst:sg:gen.acc:m1	nazwa pospolita	daw.|praw.
-intercedenta	intercedent	subst:sg:gen:m1	nazwa pospolita	daw.|praw.
 intercedentami	intercedent	subst:pl:inst:m1	nazwa pospolita	daw.|praw.
 intercedentem	intercedent	subst:sg:inst:m1	nazwa pospolita	daw.|praw.
 intercedent	intercedent	subst:sg:nom:m1	nazwa pospolita	daw.|praw.
@@ -28244,7 +28094,6 @@ interesancie	interesant	subst:sg:voc:m1	nazwa pospolita
 interesanci	interesant	subst:pl:nom.voc:m1	nazwa pospolita	
 interesantach	interesant	subst:pl:loc:m1	nazwa pospolita	
 interesanta	interesant	subst:sg:gen.acc:m1	nazwa pospolita	
-interesanta	interesant	subst:sg:gen:m1	nazwa pospolita	
 interesantami	interesant	subst:pl:inst:m1	nazwa pospolita	
 interesantem	interesant	subst:sg:inst:m1	nazwa pospolita	
 interesant	interesant	subst:sg:nom:m1	nazwa pospolita	
@@ -28268,7 +28117,6 @@ interesencie	interesent	subst:sg:voc:m1	nazwa pospolita
 interesenci	interesent	subst:pl:nom.voc:m1	nazwa pospolita	
 interesentach	interesent	subst:pl:loc:m1	nazwa pospolita	
 interesenta	interesent	subst:sg:gen.acc:m1	nazwa pospolita	
-interesenta	interesent	subst:sg:gen:m1	nazwa pospolita	
 interesentami	interesent	subst:pl:inst:m1	nazwa pospolita	
 interesentem	interesent	subst:sg:inst:m1	nazwa pospolita	
 interesent	interesent	subst:sg:nom:m1	nazwa pospolita	
@@ -29437,7 +29285,6 @@ interlokucjom	interlokucja	subst:pl:dat:f	nazwa pospolita	przest.
 interlokucyj	interlokucja	subst:pl:gen:f	nazwa pospolita	arch.|char.|przest.
 interlokutorach	interlokutor	subst:pl:loc:m1	nazwa pospolita	
 interlokutora	interlokutor	subst:sg:gen.acc:m1	nazwa pospolita	
-interlokutora	interlokutor	subst:sg:gen:m1	nazwa pospolita	
 interlokutorami	interlokutor	subst:pl:inst:m1	nazwa pospolita	
 interlokutorem	interlokutor	subst:sg:inst:m1	nazwa pospolita	
 interlokutor	interlokutor	subst:sg:nom:m1	nazwa pospolita	
@@ -29596,7 +29443,6 @@ intermistycznym	intermistyczny	adj:sg:inst:m1.m2.m3.n:pos		przest.
 intermistycznym	intermistyczny	adj:sg:loc:m1.m2.m3.n:pos		przest.
 internach	intern	subst:pl:loc:m1	nazwa pospolita	rzad.
 interna	intern	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
-interna	intern	subst:sg:gen:m1	nazwa pospolita	rzad.
 internami	intern	subst:pl:inst:m1	nazwa pospolita	rzad.
 internem	intern	subst:sg:inst:m1	nazwa pospolita	rzad.
 internie	intern	subst:sg:loc:m1	nazwa pospolita	rzad.
@@ -29627,7 +29473,6 @@ internacjonalisto	internacjonalista	subst:sg:voc:m1	nazwa pospolita
 internacjonalistom	internacjonalista	subst:pl:dat:m1	nazwa pospolita	
 internacjonalistów	internacjonalista	subst:pl:gen.acc:m1	nazwa pospolita	
 internacjonalisty	internacjonalista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-internacjonalisty	internacjonalista	subst:sg:gen:m1	nazwa pospolita	
 internacjonaliście	internacjonalista	subst:sg:dat.loc:m1	nazwa pospolita	
 internacjonaliści	internacjonalista	subst:pl:nom.voc:m1	nazwa pospolita	
 internacjonalistycznościach	internacjonalistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -29827,7 +29672,6 @@ internacjonale	internacjonał:s2	subst:sg:loc:m1	nazwa pospolita
 internacjonale	internacjonał:s2	subst:sg:voc:m1	nazwa pospolita	
 internacjonałach	internacjonał:s2	subst:pl:loc:m1	nazwa pospolita	
 internacjonała	internacjonał:s2	subst:sg:gen.acc:m1	nazwa pospolita	
-internacjonała	internacjonał:s2	subst:sg:gen:m1	nazwa pospolita	
 internacjonałami	internacjonał:s2	subst:pl:inst:m1	nazwa pospolita	
 internacjonałem	internacjonał:s2	subst:sg:inst:m1	nazwa pospolita	
 internacjonał	internacjonał:s2	subst:sg:nom:m1	nazwa pospolita	
@@ -29987,7 +29831,6 @@ internatu	internat	subst:sg:gen:m3	nazwa pospolita
 internaty	internat	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 internatowcach	internatowiec	subst:pl:loc:m1	nazwa pospolita	
 internatowca	internatowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-internatowca	internatowiec	subst:sg:gen:m1	nazwa pospolita	
 internatowcami	internatowiec	subst:pl:inst:m1	nazwa pospolita	
 internatowce	internatowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 internatowcem	internatowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -30045,7 +29888,6 @@ internauto	internauta	subst:sg:voc:m1	nazwa pospolita
 internautom	internauta	subst:pl:dat:m1	nazwa pospolita	
 internautów	internauta	subst:pl:gen.acc:m1	nazwa pospolita	
 internauty	internauta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-internauty	internauta	subst:sg:gen:m1	nazwa pospolita	
 internautce	internautka	subst:sg:dat.loc:f	nazwa pospolita	
 internautek	internautka	subst:pl:gen:f	nazwa pospolita	
 internautkach	internautka	subst:pl:loc:f	nazwa pospolita	
@@ -30125,7 +29967,6 @@ internisto	internista	subst:sg:voc:m1	nazwa pospolita
 internistom	internista	subst:pl:dat:m1	nazwa pospolita	
 internistów	internista	subst:pl:gen.acc:m1	nazwa pospolita	
 internisty	internista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-internisty	internista	subst:sg:gen:m1	nazwa pospolita	
 interniście	internista	subst:sg:dat.loc:m1	nazwa pospolita	
 interniści	internista	subst:pl:nom.voc:m1	nazwa pospolita	
 internistce	internistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -30300,7 +30141,6 @@ internowanym	internowany:a	adj:pl:dat:m1.m2.m3.f.n:pos
 internowanym	internowany:a	adj:sg:inst:m1.m2.m3.n:pos		
 internowanym	internowany:a	adj:sg:loc:m1.m2.m3.n:pos		
 internowanego	internowany:s	subst:sg:gen.acc:m1	nazwa pospolita	
-internowanego	internowany:s	subst:sg:gen:m1	nazwa pospolita	
 internowane	internowany:s	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 internowanemu	internowany:s	subst:sg:dat:m1	nazwa pospolita	
 internowani	internowany:s	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -30314,7 +30154,6 @@ internowanym	internowany:s	subst:sg:inst:m1	nazwa pospolita
 internowanym	internowany:s	subst:sg:loc:m1	nazwa pospolita	
 internuncjuszach	internuncjusz	subst:pl:loc:m1	nazwa pospolita	
 internuncjusza	internuncjusz	subst:sg:gen.acc:m1	nazwa pospolita	
-internuncjusza	internuncjusz	subst:sg:gen:m1	nazwa pospolita	
 internuncjuszami	internuncjusz	subst:pl:inst:m1	nazwa pospolita	
 internuncjusze	internuncjusz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 internuncjusze	internuncjusz	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -30400,7 +30239,6 @@ interpelancie	interpelant	subst:sg:voc:m1	nazwa pospolita
 interpelanci	interpelant	subst:pl:nom.voc:m1	nazwa pospolita	
 interpelantach	interpelant	subst:pl:loc:m1	nazwa pospolita	
 interpelanta	interpelant	subst:sg:gen.acc:m1	nazwa pospolita	
-interpelanta	interpelant	subst:sg:gen:m1	nazwa pospolita	
 interpelantami	interpelant	subst:pl:inst:m1	nazwa pospolita	
 interpelantem	interpelant	subst:sg:inst:m1	nazwa pospolita	
 interpelant	interpelant	subst:sg:nom:m1	nazwa pospolita	
@@ -30410,7 +30248,6 @@ interpelantów	interpelant	subst:pl:gen.acc:m1	nazwa pospolita
 interpelanty	interpelant	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 interpelatorach	interpelator	subst:pl:loc:m1	nazwa pospolita	
 interpelatora	interpelator	subst:sg:gen.acc:m1	nazwa pospolita	
-interpelatora	interpelator	subst:sg:gen:m1	nazwa pospolita	
 interpelatorami	interpelator	subst:pl:inst:m1	nazwa pospolita	
 interpelatorem	interpelator	subst:sg:inst:m1	nazwa pospolita	
 interpelator	interpelator	subst:sg:nom:m1	nazwa pospolita	
@@ -30745,7 +30582,6 @@ interpretacyjnym	interpretacyjny	adj:sg:inst:m1.m2.m3.n:pos
 interpretacyjnym	interpretacyjny	adj:sg:loc:m1.m2.m3.n:pos		
 interpretatorach	interpretator	subst:pl:loc:m1	nazwa pospolita	
 interpretatora	interpretator	subst:sg:gen.acc:m1	nazwa pospolita	
-interpretatora	interpretator	subst:sg:gen:m1	nazwa pospolita	
 interpretatorami	interpretator	subst:pl:inst:m1	nazwa pospolita	
 interpretatorem	interpretator	subst:sg:inst:m1	nazwa pospolita	
 interpretator	interpretator	subst:sg:nom:m1	nazwa pospolita	
@@ -30963,7 +30799,6 @@ interregnum	interregnum	subst:sg:loc:n:ncol	nazwa pospolita
 interregnum	interregnum	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
 interreksach	interreks	subst:pl:loc:m1	nazwa pospolita	hist.
 interreksa	interreks	subst:sg:gen.acc:m1	nazwa pospolita	hist.
-interreksa	interreks	subst:sg:gen:m1	nazwa pospolita	hist.
 interreksami	interreks	subst:pl:inst:m1	nazwa pospolita	hist.
 interreksem	interreks	subst:sg:inst:m1	nazwa pospolita	hist.
 interreksie	interreks	subst:sg:loc:m1	nazwa pospolita	hist.
@@ -30976,7 +30811,6 @@ interreksów	interreks	subst:pl:gen.acc:m1	nazwa pospolita	hist.
 interreksy	interreks	depr:pl:nom.acc.voc:m2	nazwa pospolita	hist.
 interreksach	interrex	subst:pl:loc:m1	nazwa pospolita	hist.
 interreksa	interrex	subst:sg:gen.acc:m1	nazwa pospolita	hist.
-interreksa	interrex	subst:sg:gen:m1	nazwa pospolita	hist.
 interreksami	interrex	subst:pl:inst:m1	nazwa pospolita	hist.
 interreksem	interrex	subst:sg:inst:m1	nazwa pospolita	hist.
 interreksie	interrex	subst:sg:loc:m1	nazwa pospolita	hist.
@@ -31025,7 +30859,6 @@ intersekcjom	intersekcja	subst:pl:dat:f	nazwa pospolita
 intersekcyj	intersekcja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 interseksach	interseks	subst:pl:loc:m2	nazwa pospolita	
 interseksa	interseks	subst:sg:gen.acc:m2	nazwa pospolita	
-interseksa	interseks	subst:sg:gen:m2	nazwa pospolita	
 interseksami	interseks	subst:pl:inst:m2	nazwa pospolita	
 interseksem	interseks	subst:sg:inst:m2	nazwa pospolita	
 interseksie	interseks	subst:sg:loc:m2	nazwa pospolita	
@@ -31044,7 +30877,6 @@ interseksualisto	interseksualista	subst:sg:voc:m1	nazwa pospolita
 interseksualistom	interseksualista	subst:pl:dat:m1	nazwa pospolita	
 interseksualistów	interseksualista	subst:pl:gen.acc:m1	nazwa pospolita	
 interseksualisty	interseksualista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-interseksualisty	interseksualista	subst:sg:gen:m1	nazwa pospolita	
 interseksualiście	interseksualista	subst:sg:dat.loc:m1	nazwa pospolita	
 interseksualiści	interseksualista	subst:pl:nom.voc:m1	nazwa pospolita	
 interseksualizmach	interseksualizm	subst:pl:loc:m3	nazwa pospolita	
@@ -31334,7 +31166,6 @@ interwencjonisto	interwencjonista	subst:sg:voc:m1	nazwa pospolita
 interwencjonistom	interwencjonista	subst:pl:dat:m1	nazwa pospolita	
 interwencjonistów	interwencjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 interwencjonisty	interwencjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-interwencjonisty	interwencjonista	subst:sg:gen:m1	nazwa pospolita	
 interwencjoniście	interwencjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 interwencjoniści	interwencjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 interwencjonistycznościach	interwencjonistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -31424,7 +31255,6 @@ interweniencie	interwenient	subst:sg:voc:m1	nazwa pospolita
 interwenienci	interwenient	subst:pl:nom.voc:m1	nazwa pospolita	
 interwenientach	interwenient	subst:pl:loc:m1	nazwa pospolita	
 interwenienta	interwenient	subst:sg:gen.acc:m1	nazwa pospolita	
-interwenienta	interwenient	subst:sg:gen:m1	nazwa pospolita	
 interwenientami	interwenient	subst:pl:inst:m1	nazwa pospolita	
 interwenientem	interwenient	subst:sg:inst:m1	nazwa pospolita	
 interwenient	interwenient	subst:sg:nom:m1	nazwa pospolita	
@@ -31522,7 +31352,6 @@ interwencie	interwent	subst:sg:voc:m1	nazwa pospolita
 interwenci	interwent	subst:pl:nom.voc:m1	nazwa pospolita	
 interwentach	interwent	subst:pl:loc:m1	nazwa pospolita	
 interwenta	interwent	subst:sg:gen.acc:m1	nazwa pospolita	
-interwenta	interwent	subst:sg:gen:m1	nazwa pospolita	
 interwentami	interwent	subst:pl:inst:m1	nazwa pospolita	
 interwentem	interwent	subst:sg:inst:m1	nazwa pospolita	
 interwent	interwent	subst:sg:nom:m1	nazwa pospolita	
@@ -31664,7 +31493,6 @@ intestacie	intestat	subst:sg:voc:m1	nazwa pospolita
 intestaci	intestat	subst:pl:nom.voc:m1	nazwa pospolita	
 intestatach	intestat	subst:pl:loc:m1	nazwa pospolita	
 intestata	intestat	subst:sg:gen.acc:m1	nazwa pospolita	
-intestata	intestat	subst:sg:gen:m1	nazwa pospolita	
 intestatami	intestat	subst:pl:inst:m1	nazwa pospolita	
 intestatem	intestat	subst:sg:inst:m1	nazwa pospolita	
 intestat	intestat	subst:sg:nom:m1	nazwa pospolita	
@@ -32238,7 +32066,6 @@ introdukuj	introdukować	impt:sg:sec:imperf.perf		daw.
 introdukujmy	introdukować	impt:pl:pri:imperf.perf		daw.
 introduktorach	introduktor	subst:pl:loc:m1	nazwa pospolita	daw.
 introduktora	introduktor	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-introduktora	introduktor	subst:sg:gen:m1	nazwa pospolita	daw.
 introduktorami	introduktor	subst:pl:inst:m1	nazwa pospolita	daw.
 introduktorem	introduktor	subst:sg:inst:m1	nazwa pospolita	daw.
 introduktor	introduktor	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -32274,7 +32101,6 @@ introjekcjom	introjekcja	subst:pl:dat:f	nazwa pospolita
 introjekcyj	introjekcja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 introligatorach	introligator	subst:pl:loc:m1	nazwa pospolita	
 introligatora	introligator	subst:sg:gen.acc:m1	nazwa pospolita	
-introligatora	introligator	subst:sg:gen:m1	nazwa pospolita	
 introligatorami	introligator	subst:pl:inst:m1	nazwa pospolita	
 introligatorem	introligator	subst:sg:inst:m1	nazwa pospolita	
 introligator	introligator	subst:sg:nom:m1	nazwa pospolita	
@@ -32725,7 +32551,6 @@ introspekcjonisto	introspekcjonista	subst:sg:voc:m1	nazwa pospolita
 introspekcjonistom	introspekcjonista	subst:pl:dat:m1	nazwa pospolita	
 introspekcjonistów	introspekcjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 introspekcjonisty	introspekcjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-introspekcjonisty	introspekcjonista	subst:sg:gen:m1	nazwa pospolita	
 introspekcjoniście	introspekcjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 introspekcjoniści	introspekcjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 introspekcjonizmach	introspekcjonizm	subst:pl:loc:m3	nazwa pospolita	
@@ -32918,7 +32743,6 @@ introwertycznym	introwertyczny	adj:sg:loc:m1.m2.m3.n:pos
 introwertycy	introwertyk	subst:pl:nom.voc:m1	nazwa pospolita	
 introwertykach	introwertyk	subst:pl:loc:m1	nazwa pospolita	
 introwertyka	introwertyk	subst:sg:gen.acc:m1	nazwa pospolita	
-introwertyka	introwertyk	subst:sg:gen:m1	nazwa pospolita	
 introwertykami	introwertyk	subst:pl:inst:m1	nazwa pospolita	
 introwertykiem	introwertyk	subst:sg:inst:m1	nazwa pospolita	
 introwertyki	introwertyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -33023,7 +32847,6 @@ intruzjom	intruzja	subst:pl:dat:f	nazwa pospolita
 intruzyj	intruzja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 intruzach	intruz:s1	subst:pl:loc:m1	nazwa pospolita	
 intruza	intruz:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-intruza	intruz:s1	subst:sg:gen:m1	nazwa pospolita	
 intruzami	intruz:s1	subst:pl:inst:m1	nazwa pospolita	
 intruzem	intruz:s1	subst:sg:inst:m1	nazwa pospolita	
 intruzie	intruz:s1	subst:sg:loc:m1	nazwa pospolita	
@@ -33036,7 +32859,6 @@ intruzów	intruz:s1	subst:pl:gen.acc:m1	nazwa pospolita
 intruzy	intruz:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 intruzach	intruz:s2	subst:pl:loc:m2	nazwa pospolita	
 intruza	intruz:s2	subst:sg:gen.acc:m2	nazwa pospolita	
-intruza	intruz:s2	subst:sg:gen:m2	nazwa pospolita	
 intruzami	intruz:s2	subst:pl:inst:m2	nazwa pospolita	
 intruzem	intruz:s2	subst:sg:inst:m2	nazwa pospolita	
 intruzie	intruz:s2	subst:sg:loc:m2	nazwa pospolita	
@@ -33144,7 +32966,6 @@ intrygancie	intrygant	subst:sg:voc:m1	nazwa pospolita
 intryganci	intrygant	subst:pl:nom.voc:m1	nazwa pospolita	
 intrygantach	intrygant	subst:pl:loc:m1	nazwa pospolita	
 intryganta	intrygant	subst:sg:gen.acc:m1	nazwa pospolita	
-intryganta	intrygant	subst:sg:gen:m1	nazwa pospolita	
 intrygantami	intrygant	subst:pl:inst:m1	nazwa pospolita	
 intrygantem	intrygant	subst:sg:inst:m1	nazwa pospolita	
 intrygant	intrygant	subst:sg:nom:m1	nazwa pospolita	
@@ -33440,7 +33261,6 @@ intuicjonisto	intuicjonista	subst:sg:voc:m1	nazwa pospolita
 intuicjonistom	intuicjonista	subst:pl:dat:m1	nazwa pospolita	
 intuicjonistów	intuicjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 intuicjonisty	intuicjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-intuicjonisty	intuicjonista	subst:sg:gen:m1	nazwa pospolita	
 intuicjoniście	intuicjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 intuicjoniści	intuicjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 intuicjonistce	intuicjonistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -33668,7 +33488,6 @@ inuliny	inulina	subst:pl:nom.acc.voc:f	nazwa pospolita
 inuliny	inulina	subst:sg:gen:f	nazwa pospolita	
 inwalidach	inwalid	subst:pl:loc:m1	nazwa pospolita	daw.
 inwalida	inwalid	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-inwalida	inwalid	subst:sg:gen:m1	nazwa pospolita	daw.
 inwalidami	inwalid	subst:pl:inst:m1	nazwa pospolita	daw.
 inwalidem	inwalid	subst:sg:inst:m1	nazwa pospolita	daw.
 inwalid	inwalid	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -33688,7 +33507,6 @@ inwalido	inwalida	subst:sg:voc:m1	nazwa pospolita
 inwalidom	inwalida	subst:pl:dat:m1	nazwa pospolita	
 inwalidów	inwalida	subst:pl:gen.acc:m1	nazwa pospolita	
 inwalidy	inwalida	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-inwalidy	inwalida	subst:sg:gen:m1	nazwa pospolita	
 inwalidzie	inwalida	subst:sg:dat.loc:m1	nazwa pospolita	
 inwalidzi	inwalida	subst:pl:nom.voc:m1	nazwa pospolita	
 inwalidce	inwalidka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -33820,7 +33638,6 @@ inwazjom	inwazja	subst:pl:dat:f	nazwa pospolita
 inwazyj	inwazja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 inwazorach	inwazor	subst:pl:loc:m1	nazwa pospolita	daw.
 inwazora	inwazor	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-inwazora	inwazor	subst:sg:gen:m1	nazwa pospolita	daw.
 inwazorami	inwazor	subst:pl:inst:m1	nazwa pospolita	daw.
 inwazorem	inwazor	subst:sg:inst:m1	nazwa pospolita	daw.
 inwazor	inwazor	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -34127,7 +33944,6 @@ inwentaryzacyjnym	inwentaryzacyjny	adj:sg:inst:m1.m2.m3.n:pos
 inwentaryzacyjnym	inwentaryzacyjny	adj:sg:loc:m1.m2.m3.n:pos		
 inwentaryzatorach	inwentaryzator	subst:pl:loc:m1	nazwa pospolita	
 inwentaryzatora	inwentaryzator	subst:sg:gen.acc:m1	nazwa pospolita	
-inwentaryzatora	inwentaryzator	subst:sg:gen:m1	nazwa pospolita	
 inwentaryzatorami	inwentaryzator	subst:pl:inst:m1	nazwa pospolita	
 inwentaryzatorem	inwentaryzator	subst:sg:inst:m1	nazwa pospolita	
 inwentaryzator	inwentaryzator	subst:sg:nom:m1	nazwa pospolita	
@@ -34323,7 +34139,6 @@ inwentarzowym	inwentarzowy	adj:sg:inst:m1.m2.m3.n:pos
 inwentarzowym	inwentarzowy	adj:sg:loc:m1.m2.m3.n:pos		
 inwentorach	inwentor	subst:pl:loc:m1	nazwa pospolita	daw.
 inwentora	inwentor	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-inwentora	inwentor	subst:sg:gen:m1	nazwa pospolita	daw.
 inwentorami	inwentor	subst:pl:inst:m1	nazwa pospolita	daw.
 inwentorem	inwentor	subst:sg:inst:m1	nazwa pospolita	daw.
 inwentor	inwentor	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -34652,7 +34467,6 @@ inwertuj	inwertować	impt:sg:sec:imperf
 inwertujmy	inwertować	impt:pl:pri:imperf		
 inwestorach	inwestor	subst:pl:loc:m1	nazwa pospolita	
 inwestora	inwestor	subst:sg:gen.acc:m1	nazwa pospolita	
-inwestora	inwestor	subst:sg:gen:m1	nazwa pospolita	
 inwestorami	inwestor	subst:pl:inst:m1	nazwa pospolita	
 inwestorem	inwestor	subst:sg:inst:m1	nazwa pospolita	
 inwestor	inwestor	subst:sg:nom:m1	nazwa pospolita	
@@ -35451,7 +35265,6 @@ inżektorze	inżektor	subst:sg:loc:m3	nazwa pospolita
 inżektorze	inżektor	subst:sg:voc:m3	nazwa pospolita	
 inżynierach	inżynier	subst:pl:loc:m1	nazwa pospolita	
 inżyniera	inżynier	subst:sg:gen.acc:m1	nazwa pospolita	
-inżyniera	inżynier	subst:sg:gen:m1	nazwa pospolita	
 inżynierami	inżynier	subst:pl:inst:m1	nazwa pospolita	
 inżynierem	inżynier	subst:sg:inst:m1	nazwa pospolita	
 inżynier	inżynier	subst:sg:nom:m1	nazwa pospolita	
@@ -35466,7 +35279,6 @@ inżynierzy	inżynier	subst:pl:nom.voc:m1	nazwa pospolita
 inżynierek	inżynierek	subst:sg:nom:m1	nazwa pospolita	lekcew.
 inżynierkach	inżynierek	subst:pl:loc:m1	nazwa pospolita	lekcew.
 inżynierka	inżynierek	subst:sg:gen.acc:m1	nazwa pospolita	lekcew.
-inżynierka	inżynierek	subst:sg:gen:m1	nazwa pospolita	lekcew.
 inżynierkami	inżynierek	subst:pl:inst:m1	nazwa pospolita	lekcew.
 inżynierkiem	inżynierek	subst:sg:inst:m1	nazwa pospolita	lekcew.
 inżynierki	inżynierek	depr:pl:nom.acc.voc:m2	nazwa pospolita	lekcew.
@@ -35671,7 +35483,6 @@ ińskość	ińskość	subst:sg:nom:f	nazwa pospolita
 ipadach	ipad	subst:pl:loc:m2	nazwa pospolita	
 ipadach	ipad	subst:pl:loc:m3	nazwa pospolita	
 ipada	ipad	subst:sg:gen.acc:m2	nazwa pospolita	
-ipada	ipad	subst:sg:gen:m2	nazwa pospolita	
 ipada	ipad	subst:sg:gen:m3	nazwa pospolita	
 ipadami	ipad	subst:pl:inst:m2	nazwa pospolita	
 ipadami	ipad	subst:pl:inst:m3	nazwa pospolita	
@@ -35694,7 +35505,6 @@ ipadzie	ipad	subst:sg:voc:m3	nazwa pospolita
 iPadach	iPad	subst:pl:loc:m2	nazwa pospolita	
 iPadach	iPad	subst:pl:loc:m3	nazwa pospolita	
 iPada	iPad	subst:sg:gen.acc:m2	nazwa pospolita	
-iPada	iPad	subst:sg:gen:m2	nazwa pospolita	
 iPada	iPad	subst:sg:gen:m3	nazwa pospolita	
 iPadami	iPad	subst:pl:inst:m2	nazwa pospolita	
 iPadami	iPad	subst:pl:inst:m3	nazwa pospolita	
@@ -35716,7 +35526,6 @@ iPadzie	iPad	subst:sg:voc:m2	nazwa pospolita
 iPadzie	iPad	subst:sg:voc:m3	nazwa pospolita	
 ipeenowcach	ipeenowiec	subst:pl:loc:m1	nazwa pospolita	
 ipeenowca	ipeenowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-ipeenowca	ipeenowiec	subst:sg:gen:m1	nazwa pospolita	
 ipeenowcami	ipeenowiec	subst:pl:inst:m1	nazwa pospolita	
 ipeenowce	ipeenowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 ipeenowcem	ipeenowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -35825,7 +35634,6 @@ iperytowym	iperytowy	adj:sg:loc:m1.m2.m3.n:pos
 iphone’ach	iphone	subst:pl:loc:m2	nazwa pospolita	
 iphone’ach	iphone	subst:pl:loc:m3	nazwa pospolita	
 iphone’a	iphone	subst:sg:gen.acc:m2	nazwa pospolita	
-iphone’a	iphone	subst:sg:gen:m2	nazwa pospolita	
 iphone’a	iphone	subst:sg:gen:m3	nazwa pospolita	
 iphone’ami	iphone	subst:pl:inst:m2	nazwa pospolita	
 iphone’ami	iphone	subst:pl:inst:m3	nazwa pospolita	
@@ -35848,7 +35656,6 @@ iphonie	iphone	subst:sg:voc:m3	nazwa pospolita
 iPhone’ach	iPhone	subst:pl:loc:m2	nazwa pospolita	
 iPhone’ach	iPhone	subst:pl:loc:m3	nazwa pospolita	
 iPhone’a	iPhone	subst:sg:gen.acc:m2	nazwa pospolita	
-iPhone’a	iPhone	subst:sg:gen:m2	nazwa pospolita	
 iPhone’a	iPhone	subst:sg:gen:m3	nazwa pospolita	
 iPhone’ami	iPhone	subst:pl:inst:m2	nazwa pospolita	
 iPhone’ami	iPhone	subst:pl:inst:m3	nazwa pospolita	
@@ -35871,7 +35678,6 @@ iPhonie	iPhone	subst:sg:voc:m3	nazwa pospolita
 ipodach	ipod	subst:pl:loc:m2	nazwa pospolita	
 ipodach	ipod	subst:pl:loc:m3	nazwa pospolita	
 ipoda	ipod	subst:sg:gen.acc:m2	nazwa pospolita	
-ipoda	ipod	subst:sg:gen:m2	nazwa pospolita	
 ipoda	ipod	subst:sg:gen:m3	nazwa pospolita	
 ipodami	ipod	subst:pl:inst:m2	nazwa pospolita	
 ipodami	ipod	subst:pl:inst:m3	nazwa pospolita	
@@ -35894,7 +35700,6 @@ ipodzie	ipod	subst:sg:voc:m3	nazwa pospolita
 iPodach	iPod	subst:pl:loc:m2	nazwa pospolita	
 iPodach	iPod	subst:pl:loc:m3	nazwa pospolita	
 iPoda	iPod	subst:sg:gen.acc:m2	nazwa pospolita	
-iPoda	iPod	subst:sg:gen:m2	nazwa pospolita	
 iPoda	iPod	subst:sg:gen:m3	nazwa pospolita	
 iPodami	iPod	subst:pl:inst:m2	nazwa pospolita	
 iPodami	iPod	subst:pl:inst:m3	nazwa pospolita	
@@ -36087,7 +35892,6 @@ iranisto	iranista	subst:sg:voc:m1	nazwa pospolita
 iranistom	iranista	subst:pl:dat:m1	nazwa pospolita	
 iranistów	iranista	subst:pl:gen.acc:m1	nazwa pospolita	
 iranisty	iranista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-iranisty	iranista	subst:sg:gen:m1	nazwa pospolita	
 iraniście	iranista	subst:sg:dat.loc:m1	nazwa pospolita	
 iraniści	iranista	subst:pl:nom.voc:m1	nazwa pospolita	
 iranistce	iranistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -36162,7 +35966,6 @@ iranizacyj	iranizacja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 iranolodzy	iranolog	subst:pl:nom.voc:m1	nazwa pospolita	
 iranologach	iranolog	subst:pl:loc:m1	nazwa pospolita	
 iranologa	iranolog	subst:sg:gen.acc:m1	nazwa pospolita	
-iranologa	iranolog	subst:sg:gen:m1	nazwa pospolita	
 iranologami	iranolog	subst:pl:inst:m1	nazwa pospolita	
 iranologiem	iranolog	subst:sg:inst:m1	nazwa pospolita	
 iranologi	iranolog	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -36212,7 +36015,6 @@ irańskość	irańskość	subst:sg:acc:f	nazwa pospolita
 irańskość	irańskość	subst:sg:nom:f	nazwa pospolita	
 irbisach	irbis	subst:pl:loc:m2	nazwa pospolita	
 irbisa	irbis	subst:sg:gen.acc:m2	nazwa pospolita	
-irbisa	irbis	subst:sg:gen:m2	nazwa pospolita	
 irbisami	irbis	subst:pl:inst:m2	nazwa pospolita	
 irbisem	irbis	subst:sg:inst:m2	nazwa pospolita	
 irbisie	irbis	subst:sg:loc:m2	nazwa pospolita	
@@ -36277,7 +36079,6 @@ irenisto	irenista	subst:sg:voc:m1	nazwa pospolita
 irenistom	irenista	subst:pl:dat:m1	nazwa pospolita	
 irenistów	irenista	subst:pl:gen.acc:m1	nazwa pospolita	
 irenisty	irenista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-irenisty	irenista	subst:sg:gen:m1	nazwa pospolita	
 ireniście	irenista	subst:sg:dat.loc:m1	nazwa pospolita	
 ireniści	irenista	subst:pl:nom.voc:m1	nazwa pospolita	
 irenizmach	irenizm	subst:pl:loc:m3	nazwa pospolita	
@@ -36439,7 +36240,6 @@ irokeskość	irokeskość	subst:sg:nom:f	nazwa pospolita
 irokezach	irokez	subst:pl:loc:m2	nazwa pospolita	
 irokezach	irokez	subst:pl:loc:m3	nazwa pospolita	
 irokeza	irokez	subst:sg:gen.acc:m2	nazwa pospolita	
-irokeza	irokez	subst:sg:gen:m2	nazwa pospolita	
 irokeza	irokez	subst:sg:gen:m3	nazwa pospolita	
 irokezami	irokez	subst:pl:inst:m2	nazwa pospolita	
 irokezami	irokez	subst:pl:inst:m3	nazwa pospolita	
@@ -36539,7 +36339,6 @@ ironisto	ironista	subst:sg:voc:m1	nazwa pospolita
 ironistom	ironista	subst:pl:dat:m1	nazwa pospolita	
 ironistów	ironista	subst:pl:gen.acc:m1	nazwa pospolita	
 ironisty	ironista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ironisty	ironista	subst:sg:gen:m1	nazwa pospolita	
 ironiście	ironista	subst:sg:dat.loc:m1	nazwa pospolita	
 ironiści	ironista	subst:pl:nom.voc:m1	nazwa pospolita	
 ironistce	ironistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -36787,7 +36586,6 @@ irredentysto	irredentysta	subst:sg:voc:m1	nazwa pospolita
 irredentystom	irredentysta	subst:pl:dat:m1	nazwa pospolita	
 irredentystów	irredentysta	subst:pl:gen.acc:m1	nazwa pospolita	
 irredentysty	irredentysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-irredentysty	irredentysta	subst:sg:gen:m1	nazwa pospolita	
 irredentyście	irredentysta	subst:sg:dat.loc:m1	nazwa pospolita	
 irredentyści	irredentysta	subst:pl:nom.voc:m1	nazwa pospolita	
 irredentystycznościach	irredentystyczność	subst:pl:loc:f	nazwa pospolita	
@@ -36943,7 +36741,6 @@ irydodiagnostykom	irydodiagnostyka	subst:pl:dat:f	nazwa pospolita
 irydolodzy	irydolog	subst:pl:nom.voc:m1	nazwa pospolita	
 irydologach	irydolog	subst:pl:loc:m1	nazwa pospolita	
 irydologa	irydolog	subst:sg:gen.acc:m1	nazwa pospolita	
-irydologa	irydolog	subst:sg:gen:m1	nazwa pospolita	
 irydologami	irydolog	subst:pl:inst:m1	nazwa pospolita	
 irydologiem	irydolog	subst:sg:inst:m1	nazwa pospolita	
 irydologi	irydolog	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -37163,7 +36960,6 @@ irygujmy	irygować	impt:pl:pri:imperf
 irysach	irys	subst:pl:loc:m2	nazwa pospolita	pot.
 irysach	irys	subst:pl:loc:m3	nazwa pospolita	
 irysa	irys	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-irysa	irys	subst:sg:gen:m2	nazwa pospolita	pot.
 irysa	irys	subst:sg:gen:m3	nazwa pospolita	
 irysami	irys	subst:pl:inst:m2	nazwa pospolita	pot.
 irysami	irys	subst:pl:inst:m3	nazwa pospolita	
@@ -37188,7 +36984,6 @@ irysek	irysek	subst:sg:nom:m2	nazwa pospolita	pot.
 iryskach	irysek	subst:pl:loc:m2	nazwa pospolita	pot.
 iryskach	irysek	subst:pl:loc:m3	nazwa pospolita	
 iryska	irysek	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-iryska	irysek	subst:sg:gen:m2	nazwa pospolita	pot.
 iryska	irysek	subst:sg:gen:m3	nazwa pospolita	
 iryskami	irysek	subst:pl:inst:m2	nazwa pospolita	pot.
 iryskami	irysek	subst:pl:inst:m3	nazwa pospolita	
@@ -38364,7 +38159,6 @@ islamisto	islamista	subst:sg:voc:m1	nazwa pospolita
 islamistom	islamista	subst:pl:dat:m1	nazwa pospolita	
 islamistów	islamista	subst:pl:gen.acc:m1	nazwa pospolita	
 islamisty	islamista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-islamisty	islamista	subst:sg:gen:m1	nazwa pospolita	
 islamiście	islamista	subst:sg:dat.loc:m1	nazwa pospolita	
 islamiści	islamista	subst:pl:nom.voc:m1	nazwa pospolita	
 islamistce	islamistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -38717,7 +38511,6 @@ ismailito	ismailita	subst:sg:voc:m1	nazwa pospolita
 ismailitom	ismailita	subst:pl:dat:m1	nazwa pospolita	
 ismailitów	ismailita	subst:pl:gen.acc:m1	nazwa pospolita	
 ismaility	ismailita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ismaility	ismailita	subst:sg:gen:m1	nazwa pospolita	
 ismailizmach	ismailizm	subst:pl:loc:m3	nazwa pospolita	
 ismailizmami	ismailizm	subst:pl:inst:m3	nazwa pospolita	
 ismailizmem	ismailizm	subst:sg:inst:m3	nazwa pospolita	
@@ -39391,7 +39184,6 @@ iść	iścić	impt:sg:sec:imperf		daw.
 iśćmy	iścić	impt:pl:pri:imperf		daw.
 istcach	iściec	subst:pl:loc:m1	nazwa pospolita	daw.
 istca	iściec	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-istca	iściec	subst:sg:gen:m1	nazwa pospolita	daw.
 istcami	iściec	subst:pl:inst:m1	nazwa pospolita	daw.
 istce	iściec	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 istcem	iściec	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -39405,7 +39197,6 @@ istcze	iściec	subst:sg:voc:m1	nazwa pospolita	daw.
 iściec	iściec	subst:sg:nom:m1	nazwa pospolita	daw.
 iśćcach	iściec	subst:pl:loc:m1	nazwa pospolita	daw.
 iśćca	iściec	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-iśćca	iściec	subst:sg:gen:m1	nazwa pospolita	daw.
 iśćcami	iściec	subst:pl:inst:m1	nazwa pospolita	daw.
 iśćce	iściec	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 iśćcem	iściec	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -39523,7 +39314,6 @@ italianisto	italianista	subst:sg:voc:m1	nazwa pospolita
 italianistom	italianista	subst:pl:dat:m1	nazwa pospolita	
 italianistów	italianista	subst:pl:gen.acc:m1	nazwa pospolita	
 italianisty	italianista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-italianisty	italianista	subst:sg:gen:m1	nazwa pospolita	
 italianiście	italianista	subst:sg:dat.loc:m1	nazwa pospolita	
 italianiści	italianista	subst:pl:nom.voc:m1	nazwa pospolita	
 italianistce	italianistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -39859,8 +39649,6 @@ italofilach	italofil	subst:pl:loc:m1	nazwa pospolita
 italofilach	italofil	subst:pl:loc:m1	nazwa pospolita	rzad.
 italofila	italofil	subst:sg:gen.acc:m1	nazwa pospolita	
 italofila	italofil	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
-italofila	italofil	subst:sg:gen:m1	nazwa pospolita	
-italofila	italofil	subst:sg:gen:m1	nazwa pospolita	rzad.
 italofilami	italofil	subst:pl:inst:m1	nazwa pospolita	
 italofilami	italofil	subst:pl:inst:m1	nazwa pospolita	rzad.
 italofile	italofil	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -39884,7 +39672,6 @@ italofilu	italofil	subst:sg:voc:m1	nazwa pospolita	rzad.
 italogrecy	italogrek	subst:pl:nom.voc:m1	nazwa pospolita	
 italogrekach	italogrek	subst:pl:loc:m1	nazwa pospolita	
 italogreka	italogrek	subst:sg:gen.acc:m1	nazwa pospolita	
-italogreka	italogrek	subst:sg:gen:m1	nazwa pospolita	
 italogrekami	italogrek	subst:pl:inst:m1	nazwa pospolita	
 italogrekiem	italogrek	subst:sg:inst:m1	nazwa pospolita	
 italogreki	italogrek	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -40777,7 +40564,6 @@ izmailito	izmailita	subst:sg:voc:m1	nazwa pospolita
 izmailitom	izmailita	subst:pl:dat:m1	nazwa pospolita	
 izmailitów	izmailita	subst:pl:gen.acc:m1	nazwa pospolita	
 izmaility	izmailita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-izmaility	izmailita	subst:sg:gen:m1	nazwa pospolita	
 izmailizmach	izmailizm	subst:pl:loc:m3	nazwa pospolita	
 izmailizmami	izmailizm	subst:pl:inst:m3	nazwa pospolita	
 izmailizmem	izmailizm	subst:sg:inst:m3	nazwa pospolita	
@@ -41403,7 +41189,6 @@ izolacjonisto	izolacjonista	subst:sg:voc:m1	nazwa pospolita
 izolacjonistom	izolacjonista	subst:pl:dat:m1	nazwa pospolita	
 izolacjonistów	izolacjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 izolacjonisty	izolacjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-izolacjonisty	izolacjonista	subst:sg:gen:m1	nazwa pospolita	
 izolacjoniście	izolacjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 izolacjoniści	izolacjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 izolacjonistycznościach	izolacjonistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -42383,7 +42168,6 @@ izraelito	izraelita	subst:sg:voc:m1	nazwa pospolita
 izraelitom	izraelita	subst:pl:dat:m1	nazwa pospolita	
 izraelitów	izraelita	subst:pl:gen.acc:m1	nazwa pospolita	
 izraelity	izraelita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-izraelity	izraelita	subst:sg:gen:m1	nazwa pospolita	
 izraelitce	izraelitka	subst:sg:dat.loc:f	nazwa pospolita	
 izraelitek	izraelitka	subst:pl:gen:f	nazwa pospolita	
 izraelitkach	izraelitka	subst:pl:loc:f	nazwa pospolita	

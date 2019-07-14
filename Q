@@ -4,7 +4,6 @@ Quasimodach	Quasimodo	subst:pl:loc:m1	nazwisko
 Quasimodami	Quasimodo	subst:pl:inst:m1	nazwisko	
 Quasimoda	Quasimodo	depr:pl:nom.acc.voc:m2	nazwisko	
 Quasimoda	Quasimodo	subst:sg:gen.acc:m1	nazwisko	
-Quasimoda	Quasimodo	subst:sg:gen:m1	nazwisko	
 Quasimodem	Quasimodo	subst:sg:inst:m1	nazwisko	
 Quasimodom	Quasimodo	subst:pl:dat:m1	nazwisko	
 Quasimodo	Quasimodo	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -29,7 +28,6 @@ Quebeki	Quebec	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Quinnach	Quinn	subst:pl:loc:m1	nazwisko	
 Quinnami	Quinn	subst:pl:inst:m1	nazwisko	
 Quinna	Quinn	subst:sg:gen.acc:m1	nazwisko	
-Quinna	Quinn	subst:sg:gen:m1	nazwisko	
 Quinnem	Quinn	subst:sg:inst:m1	nazwisko	
 Quinnie	Quinn	subst:sg:loc:m1	nazwisko	
 Quinnie	Quinn	subst:sg:voc:m1	nazwisko	
@@ -42,7 +40,6 @@ Quinny	Quinn	depr:pl:nom.acc.voc:m2	nazwisko
 Quislingach	Quisling	subst:pl:loc:m1	nazwisko	
 Quislingami	Quisling	subst:pl:inst:m1	nazwisko	
 Quislinga	Quisling	subst:sg:gen.acc:m1	nazwisko	
-Quislinga	Quisling	subst:sg:gen:m1	nazwisko	
 Quislingiem	Quisling	subst:sg:inst:m1	nazwisko	
 Quislingi	Quisling	depr:pl:nom.acc.voc:m2	nazwisko	
 Quislingom	Quisling	subst:pl:dat:m1	nazwisko	

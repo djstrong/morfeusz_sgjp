@@ -42,7 +42,6 @@ yakuzowie	yakuza:s2	subst:pl:nom.voc:m1	nazwa pospolita
 yakuzo	yakuza:s2	subst:sg:voc:m1	nazwa pospolita	
 yakuzów	yakuza:s2	subst:pl:gen.acc:m1	nazwa pospolita	
 yakuzy	yakuza:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-yakuzy	yakuza:s2	subst:sg:gen:m1	nazwa pospolita	
 yale	yale	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
 yamahach	yamaha	subst:pl:loc:f	nazwa pospolita	
 yamahami	yamaha	subst:pl:inst:f	nazwa pospolita	
@@ -87,7 +86,6 @@ ylang-ylang	ylang-ylang	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa po
 yorkach	york	subst:pl:loc:m2	nazwa pospolita	
 yorkami	york	subst:pl:inst:m2	nazwa pospolita	
 yorka	york	subst:sg:gen.acc:m2	nazwa pospolita	
-yorka	york	subst:sg:gen:m2	nazwa pospolita	
 yorkiem	york	subst:sg:inst:m2	nazwa pospolita	
 yorki	york	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 yorkom	york	subst:pl:dat:m2	nazwa pospolita	
@@ -112,7 +110,6 @@ ypsilony	ypsilon	subst:pl:nom.acc.voc:m3	nazwa pospolita
 yuppich	yuppi	subst:pl:gen.acc:m1	nazwa pospolita	
 yuppich	yuppi	subst:pl:loc:m1	nazwa pospolita	
 yuppiego	yuppi	subst:sg:gen.acc:m1	nazwa pospolita	
-yuppiego	yuppi	subst:sg:gen:m1	nazwa pospolita	
 yuppiemu	yuppi	subst:sg:dat:m1	nazwa pospolita	
 yuppies	yuppi	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 yuppies	yuppi	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -127,7 +124,6 @@ yuppi	yuppi	subst:sg:voc:m1	nazwa pospolita
 yuppiech	yuppie	subst:pl:gen.acc:m1	nazwa pospolita	
 yuppiech	yuppie	subst:pl:loc:m1	nazwa pospolita	
 yuppiego	yuppie	subst:sg:gen.acc:m1	nazwa pospolita	
-yuppiego	yuppie	subst:sg:gen:m1	nazwa pospolita	
 yuppiemi	yuppie	subst:pl:inst:m1	nazwa pospolita	
 yuppiemu	yuppie	subst:sg:dat:m1	nazwa pospolita	
 yuppiem	yuppie	subst:pl:dat:m1	nazwa pospolita	

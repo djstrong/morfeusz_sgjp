@@ -1,5 +1,4 @@
 Xawerego	Xawery	subst:sg:gen.acc:m1	imię	
-Xawerego	Xawery	subst:sg:gen:m1	imię	
 Xaweremu	Xawery	subst:sg:dat:m1	imię	
 Xawere	Xawery	depr:pl:nom.acc.voc:m2	imię	
 Xawerowie	Xawery	subst:pl:nom.voc:m1	imię	
@@ -32,7 +31,6 @@ XML-ach	XML	subst:pl:loc:m3	nazwa pospolita	komp.
 XML-ami	XML	subst:pl:inst:m2	nazwa pospolita	komp.
 XML-ami	XML	subst:pl:inst:m3	nazwa pospolita	komp.
 XML-a	XML	subst:sg:gen.acc:m2	nazwa pospolita	komp.
-XML-a	XML	subst:sg:gen:m2	nazwa pospolita	komp.
 XML-em	XML	subst:sg:inst:m2	nazwa pospolita	komp.
 XML-em	XML	subst:sg:inst:m3	nazwa pospolita	komp.
 XML-e	XML	subst:pl:nom.acc.voc:m2	nazwa pospolita	komp.

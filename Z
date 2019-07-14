@@ -13,7 +13,6 @@ Zabielscy	Zabielski	subst:pl:nom.voc:m1	nazwisko
 Zabielskich	Zabielski	subst:pl:gen.acc:m1	nazwisko	
 Zabielskich	Zabielski	subst:pl:loc:m1	nazwisko	
 Zabielskiego	Zabielski	subst:sg:gen.acc:m1	nazwisko	
-Zabielskiego	Zabielski	subst:sg:gen:m1	nazwisko	
 Zabielskiemu	Zabielski	subst:sg:dat:m1	nazwisko	
 Zabielskie	Zabielski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zabielskimi	Zabielski	subst:pl:inst:m1	nazwisko	
@@ -49,7 +48,6 @@ Zabłoccy	Zabłocki	subst:pl:nom.voc:m1	nazwisko
 Zabłockich	Zabłocki	subst:pl:gen.acc:m1	nazwisko	
 Zabłockich	Zabłocki	subst:pl:loc:m1	nazwisko	
 Zabłockiego	Zabłocki	subst:sg:gen.acc:m1	nazwisko	
-Zabłockiego	Zabłocki	subst:sg:gen:m1	nazwisko	
 Zabłockiemu	Zabłocki	subst:sg:dat:m1	nazwisko	
 Zabłockie	Zabłocki	depr:pl:nom.acc.voc:m2	nazwisko	
 Zabłockimi	Zabłocki	subst:pl:inst:m1	nazwisko	
@@ -80,7 +78,6 @@ Zabłotnych	Zabłotna	subst:pl:loc:f	nazwisko
 Zabłotnymi	Zabłotna	subst:pl:inst:f	nazwisko	
 Zabłotnym	Zabłotna	subst:pl:dat:f	nazwisko	
 Zabłotnego	Zabłotny	subst:sg:gen.acc:m1	nazwisko	
-Zabłotnego	Zabłotny	subst:sg:gen:m1	nazwisko	
 Zabłotnemu	Zabłotny	subst:sg:dat:m1	nazwisko	
 Zabłotne	Zabłotny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zabłotni	Zabłotny	subst:pl:nom.voc:m1	nazwisko	
@@ -116,7 +113,6 @@ Zabornych	Zaborna	subst:pl:loc:f	nazwisko
 Zabornymi	Zaborna	subst:pl:inst:f	nazwisko	
 Zabornym	Zaborna	subst:pl:dat:f	nazwisko	
 Zabornego	Zaborny	subst:sg:gen.acc:m1	nazwisko	
-Zabornego	Zaborny	subst:sg:gen:m1	nazwisko	
 Zabornemu	Zaborny	subst:sg:dat:m1	nazwisko	
 Zaborne	Zaborny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zaborni	Zaborny	subst:pl:nom.voc:m1	nazwisko	
@@ -143,7 +139,6 @@ Zaborowscy	Zaborowski	subst:pl:nom.voc:m1	nazwisko
 Zaborowskich	Zaborowski	subst:pl:gen.acc:m1	nazwisko	
 Zaborowskich	Zaborowski	subst:pl:loc:m1	nazwisko	
 Zaborowskiego	Zaborowski	subst:sg:gen.acc:m1	nazwisko	
-Zaborowskiego	Zaborowski	subst:sg:gen:m1	nazwisko	
 Zaborowskiemu	Zaborowski	subst:sg:dat:m1	nazwisko	
 Zaborowskie	Zaborowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zaborowskimi	Zaborowski	subst:pl:inst:m1	nazwisko	
@@ -177,7 +172,6 @@ Zabrzy	Zabrze	subst:pl:gen:n:ncol	nazwa geograficzna
 Zachariaszach	Zachariasz	subst:pl:loc:m1	imię	
 Zachariaszami	Zachariasz	subst:pl:inst:m1	imię	
 Zachariasza	Zachariasz	subst:sg:gen.acc:m1	imię	
-Zachariasza	Zachariasz	subst:sg:gen:m1	imię	
 Zachariaszem	Zachariasz	subst:sg:inst:m1	imię	
 Zachariasze	Zachariasz	depr:pl:nom.acc.voc:m2	imię	
 Zachariasze	Zachariasz	subst:pl:nom.voc:m1	imię	
@@ -203,7 +197,6 @@ Zacharscy	Zacharski	subst:pl:nom.voc:m1	nazwisko
 Zacharskich	Zacharski	subst:pl:gen.acc:m1	nazwisko	
 Zacharskich	Zacharski	subst:pl:loc:m1	nazwisko	
 Zacharskiego	Zacharski	subst:sg:gen.acc:m1	nazwisko	
-Zacharskiego	Zacharski	subst:sg:gen:m1	nazwisko	
 Zacharskiemu	Zacharski	subst:sg:dat:m1	nazwisko	
 Zacharskie	Zacharski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zacharskimi	Zacharski	subst:pl:inst:m1	nazwisko	
@@ -215,7 +208,6 @@ Zacharski	Zacharski	subst:sg:voc:m1	nazwisko
 Zacheuszach	Zacheusz	subst:pl:loc:m1	imię	
 Zacheuszami	Zacheusz	subst:pl:inst:m1	imię	
 Zacheusza	Zacheusz	subst:sg:gen.acc:m1	imię	
-Zacheusza	Zacheusz	subst:sg:gen:m1	imię	
 Zacheuszem	Zacheusz	subst:sg:inst:m1	imię	
 Zacheusze	Zacheusz	depr:pl:nom.acc.voc:m2	imię	
 Zacheusze	Zacheusz	subst:pl:nom.voc:m1	imię	
@@ -238,7 +230,6 @@ Zadorożnych	Zadorożna	subst:pl:loc:f	nazwisko
 Zadorożnymi	Zadorożna	subst:pl:inst:f	nazwisko	
 Zadorożnym	Zadorożna	subst:pl:dat:f	nazwisko	
 Zadorożnego	Zadorożny	subst:sg:gen.acc:m1	nazwisko	
-Zadorożnego	Zadorożny	subst:sg:gen:m1	nazwisko	
 Zadorożnemu	Zadorożny	subst:sg:dat:m1	nazwisko	
 Zadorożne	Zadorożny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zadorożni	Zadorożny	subst:pl:nom.voc:m1	nazwisko	
@@ -262,7 +253,6 @@ Zadrożnych	Zadrożna	subst:pl:loc:f	nazwisko
 Zadrożnymi	Zadrożna	subst:pl:inst:f	nazwisko	
 Zadrożnym	Zadrożna	subst:pl:dat:f	nazwisko	
 Zadrożnego	Zadrożny	subst:sg:gen.acc:m1	nazwisko	
-Zadrożnego	Zadrożny	subst:sg:gen:m1	nazwisko	
 Zadrożnemu	Zadrożny	subst:sg:dat:m1	nazwisko	
 Zadrożne	Zadrożny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zadrożni	Zadrożny	subst:pl:nom.voc:m1	nazwisko	
@@ -284,7 +274,6 @@ Zadurowie	Zadura	subst:pl:nom.voc:m1	nazwisko
 Zaduro	Zadura	subst:sg:voc:m1	nazwisko	
 Zadurów	Zadura	subst:pl:gen.acc:m1	nazwisko	
 Zadury	Zadura	depr:pl:nom.acc.voc:m2	nazwisko	
-Zadury	Zadura	subst:sg:gen:m1	nazwisko	
 Zadurze	Zadura	subst:sg:dat.loc:m1	nazwisko	
 Zaduszek	Zaduszki	subst:pl:gen:n:pt	nazwa święta	rel.
 Zaduszkach	Zaduszki	subst:pl:loc:n:pt	nazwa święta	rel.
@@ -318,7 +307,6 @@ Zagajewscy	Zagajewski	subst:pl:nom.voc:m1	nazwisko
 Zagajewskich	Zagajewski	subst:pl:gen.acc:m1	nazwisko	
 Zagajewskich	Zagajewski	subst:pl:loc:m1	nazwisko	
 Zagajewskiego	Zagajewski	subst:sg:gen.acc:m1	nazwisko	
-Zagajewskiego	Zagajewski	subst:sg:gen:m1	nazwisko	
 Zagajewskiemu	Zagajewski	subst:sg:dat:m1	nazwisko	
 Zagajewskie	Zagajewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zagajewskimi	Zagajewski	subst:pl:inst:m1	nazwisko	
@@ -338,7 +326,6 @@ Zagłobowie	Zagłoba	subst:pl:nom.voc:m1	nazwisko
 Zagłobo	Zagłoba	subst:sg:voc:m1	nazwisko	
 Zagłobów	Zagłoba	subst:pl:gen.acc:m1	nazwisko	
 Zagłoby	Zagłoba	depr:pl:nom.acc.voc:m2	nazwisko	
-Zagłoby	Zagłoba	subst:sg:gen:m1	nazwisko	
 Zagórowach	Zagórów	subst:pl:loc:m3	nazwa geograficzna	
 Zagórowami	Zagórów	subst:pl:inst:m3	nazwa geograficzna	
 Zagórowa	Zagórów	subst:sg:gen:m3	nazwa geograficzna	
@@ -363,7 +350,6 @@ Zagrobelnych	Zagrobelna	subst:pl:loc:f	nazwisko
 Zagrobelnymi	Zagrobelna	subst:pl:inst:f	nazwisko	
 Zagrobelnym	Zagrobelna	subst:pl:dat:f	nazwisko	
 Zagrobelnego	Zagrobelny	subst:sg:gen.acc:m1	nazwisko	
-Zagrobelnego	Zagrobelny	subst:sg:gen:m1	nazwisko	
 Zagrobelnemu	Zagrobelny	subst:sg:dat:m1	nazwisko	
 Zagrobelne	Zagrobelny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zagrobelni	Zagrobelny	subst:pl:nom.voc:m1	nazwisko	
@@ -413,7 +399,6 @@ Zairczycy	Zairczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Zairczykach	Zairczyk	subst:pl:loc:m1	nazwa pospolita	
 Zairczykami	Zairczyk	subst:pl:inst:m1	nazwa pospolita	
 Zairczyka	Zairczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Zairczyka	Zairczyk	subst:sg:gen:m1	nazwa pospolita	
 Zairczykiem	Zairczyk	subst:sg:inst:m1	nazwa pospolita	
 Zairczyki	Zairczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Zairczykom	Zairczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -436,7 +421,6 @@ Zairko	Zairka	subst:sg:voc:f	nazwa pospolita
 Zającach	Zając	subst:pl:loc:m1	nazwisko	
 Zającami	Zając	subst:pl:inst:m1	nazwisko	
 Zająca	Zając	subst:sg:gen.acc:m1	nazwisko	
-Zająca	Zając	subst:sg:gen:m1	nazwisko	
 Zającem	Zając	subst:sg:inst:m1	nazwisko	
 Zające	Zając	depr:pl:nom.acc.voc:m2	nazwisko	
 Zającom	Zając	subst:pl:dat:m1	nazwisko	
@@ -472,7 +456,6 @@ Zajączkowscy	Zajączkowski	subst:pl:nom.voc:m1	nazwisko
 Zajączkowskich	Zajączkowski	subst:pl:gen.acc:m1	nazwisko	
 Zajączkowskich	Zajączkowski	subst:pl:loc:m1	nazwisko	
 Zajączkowskiego	Zajączkowski	subst:sg:gen.acc:m1	nazwisko	
-Zajączkowskiego	Zajączkowski	subst:sg:gen:m1	nazwisko	
 Zajączkowskiemu	Zajączkowski	subst:sg:dat:m1	nazwisko	
 Zajączkowskie	Zajączkowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zajączkowskimi	Zajączkowski	subst:pl:inst:m1	nazwisko	
@@ -496,7 +479,6 @@ Zajkowscy	Zajkowski	subst:pl:nom.voc:m1	nazwisko
 Zajkowskich	Zajkowski	subst:pl:gen.acc:m1	nazwisko	
 Zajkowskich	Zajkowski	subst:pl:loc:m1	nazwisko	
 Zajkowskiego	Zajkowski	subst:sg:gen.acc:m1	nazwisko	
-Zajkowskiego	Zajkowski	subst:sg:gen:m1	nazwisko	
 Zajkowskiemu	Zajkowski	subst:sg:dat:m1	nazwisko	
 Zajkowskie	Zajkowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zajkowskimi	Zajkowski	subst:pl:inst:m1	nazwisko	
@@ -560,7 +542,6 @@ Zakościelnych	Zakościelna	subst:pl:loc:f	nazwisko
 Zakościelnymi	Zakościelna	subst:pl:inst:f	nazwisko	
 Zakościelnym	Zakościelna	subst:pl:dat:f	nazwisko	
 Zakościelnego	Zakościelny	subst:sg:gen.acc:m1	nazwisko	
-Zakościelnego	Zakościelny	subst:sg:gen:m1	nazwisko	
 Zakościelnemu	Zakościelny	subst:sg:dat:m1	nazwisko	
 Zakościelne	Zakościelny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zakościelni	Zakościelny	subst:pl:nom.voc:m1	nazwisko	
@@ -609,7 +590,6 @@ Zakrzewscy	Zakrzewski	subst:pl:nom.voc:m1	nazwisko
 Zakrzewskich	Zakrzewski	subst:pl:gen.acc:m1	nazwisko	
 Zakrzewskich	Zakrzewski	subst:pl:loc:m1	nazwisko	
 Zakrzewskiego	Zakrzewski	subst:sg:gen.acc:m1	nazwisko	
-Zakrzewskiego	Zakrzewski	subst:sg:gen:m1	nazwisko	
 Zakrzewskiemu	Zakrzewski	subst:sg:dat:m1	nazwisko	
 Zakrzewskie	Zakrzewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zakrzewskimi	Zakrzewski	subst:pl:inst:m1	nazwisko	
@@ -645,7 +625,6 @@ Zalescy	Zaleski	subst:pl:nom.voc:m1	nazwisko
 Zaleskich	Zaleski	subst:pl:gen.acc:m1	nazwisko	
 Zaleskich	Zaleski	subst:pl:loc:m1	nazwisko	
 Zaleskiego	Zaleski	subst:sg:gen.acc:m1	nazwisko	
-Zaleskiego	Zaleski	subst:sg:gen:m1	nazwisko	
 Zaleskiemu	Zaleski	subst:sg:dat:m1	nazwisko	
 Zaleskie	Zaleski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zaleskimi	Zaleski	subst:pl:inst:m1	nazwisko	
@@ -666,7 +645,6 @@ Zaleśnych	Zaleśna	subst:pl:loc:f	nazwisko
 Zaleśnymi	Zaleśna	subst:pl:inst:f	nazwisko	
 Zaleśnym	Zaleśna	subst:pl:dat:f	nazwisko	
 Zaleśnego	Zaleśny	subst:sg:gen.acc:m1	nazwisko	
-Zaleśnego	Zaleśny	subst:sg:gen:m1	nazwisko	
 Zaleśnemu	Zaleśny	subst:sg:dat:m1	nazwisko	
 Zaleśne	Zaleśny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zaleśni	Zaleśny	subst:pl:nom.voc:m1	nazwisko	
@@ -703,7 +681,6 @@ Zalewscy	Zalewski	subst:pl:nom.voc:m1	nazwisko
 Zalewskich	Zalewski	subst:pl:gen.acc:m1	nazwisko	
 Zalewskich	Zalewski	subst:pl:loc:m1	nazwisko	
 Zalewskiego	Zalewski	subst:sg:gen.acc:m1	nazwisko	
-Zalewskiego	Zalewski	subst:sg:gen:m1	nazwisko	
 Zalewskiemu	Zalewski	subst:sg:dat:m1	nazwisko	
 Zalewskie	Zalewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zalewskimi	Zalewski	subst:pl:inst:m1	nazwisko	
@@ -724,7 +701,6 @@ Załęcznych	Załęczna	subst:pl:loc:f	nazwisko
 Załęcznymi	Załęczna	subst:pl:inst:f	nazwisko	
 Załęcznym	Załęczna	subst:pl:dat:f	nazwisko	
 Załęcznego	Załęczny	subst:sg:gen.acc:m1	nazwisko	
-Załęcznego	Załęczny	subst:sg:gen:m1	nazwisko	
 Załęcznemu	Załęczny	subst:sg:dat:m1	nazwisko	
 Załęczne	Załęczny	depr:pl:nom.acc.voc:m2	nazwisko	
 Załęczni	Załęczny	subst:pl:nom.voc:m1	nazwisko	
@@ -751,7 +727,6 @@ Załęscy	Załęski	subst:pl:nom.voc:m1	nazwisko
 Załęskich	Załęski	subst:pl:gen.acc:m1	nazwisko	
 Załęskich	Załęski	subst:pl:loc:m1	nazwisko	
 Załęskiego	Załęski	subst:sg:gen.acc:m1	nazwisko	
-Załęskiego	Załęski	subst:sg:gen:m1	nazwisko	
 Załęskiemu	Załęski	subst:sg:dat:m1	nazwisko	
 Załęskie	Załęski	depr:pl:nom.acc.voc:m2	nazwisko	
 Załęskimi	Załęski	subst:pl:inst:m1	nazwisko	
@@ -788,7 +763,6 @@ Załuska	Załuska:s2	subst:sg:nom:m1	nazwisko
 Załuską	Załuska:s2	subst:sg:inst:m1	nazwisko	
 Załuskę	Załuska:s2	subst:sg:acc:m1	nazwisko	
 Załuski	Załuska:s2	depr:pl:nom.acc.voc:m2	nazwisko	
-Załuski	Załuska:s2	subst:sg:gen:m1	nazwisko	
 Załuskom	Załuska:s2	subst:pl:dat:m1	nazwisko	
 Załuskowie	Załuska:s2	subst:pl:nom.voc:m1	nazwisko	
 Załusko	Załuska:s2	subst:sg:voc:m1	nazwisko	
@@ -808,7 +782,6 @@ Załuscy	Załuski	subst:pl:nom.voc:m1	nazwisko
 Załuskich	Załuski	subst:pl:gen.acc:m1	nazwisko	
 Załuskich	Załuski	subst:pl:loc:m1	nazwisko	
 Załuskiego	Załuski	subst:sg:gen.acc:m1	nazwisko	
-Załuskiego	Załuski	subst:sg:gen:m1	nazwisko	
 Załuskiemu	Załuski	subst:sg:dat:m1	nazwisko	
 Załuskie	Załuski	depr:pl:nom.acc.voc:m2	nazwisko	
 Załuskimi	Załuski	subst:pl:inst:m1	nazwisko	
@@ -833,7 +806,6 @@ Zambijczycy	Zambijczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Zambijczykach	Zambijczyk	subst:pl:loc:m1	nazwa pospolita	
 Zambijczykami	Zambijczyk	subst:pl:inst:m1	nazwa pospolita	
 Zambijczyka	Zambijczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Zambijczyka	Zambijczyk	subst:sg:gen:m1	nazwa pospolita	
 Zambijczykiem	Zambijczyk	subst:sg:inst:m1	nazwa pospolita	
 Zambijczyki	Zambijczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Zambijczykom	Zambijczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -868,7 +840,6 @@ Zambrów	Zambrów	subst:sg:nom.acc:m3	nazwa geograficzna
 Zamenhofach	Zamenhof	subst:pl:loc:m1	nazwisko	
 Zamenhofami	Zamenhof	subst:pl:inst:m1	nazwisko	
 Zamenhofa	Zamenhof	subst:sg:gen.acc:m1	nazwisko	
-Zamenhofa	Zamenhof	subst:sg:gen:m1	nazwisko	
 Zamenhofem	Zamenhof	subst:sg:inst:m1	nazwisko	
 Zamenhofie	Zamenhof	subst:sg:loc:m1	nazwisko	
 Zamenhofie	Zamenhof	subst:sg:voc:m1	nazwisko	
@@ -893,7 +864,6 @@ Zamojscy	Zamojski	subst:pl:nom.voc:m1	nazwisko
 Zamojskich	Zamojski	subst:pl:gen.acc:m1	nazwisko	
 Zamojskich	Zamojski	subst:pl:loc:m1	nazwisko	
 Zamojskiego	Zamojski	subst:sg:gen.acc:m1	nazwisko	
-Zamojskiego	Zamojski	subst:sg:gen:m1	nazwisko	
 Zamojskiemu	Zamojski	subst:sg:dat:m1	nazwisko	
 Zamojskie	Zamojski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zamojskimi	Zamojski	subst:pl:inst:m1	nazwisko	
@@ -939,7 +909,6 @@ Zamoyscy	Zamoyski	subst:pl:nom.voc:m1	nazwisko
 Zamoyskich	Zamoyski	subst:pl:gen.acc:m1	nazwisko	
 Zamoyskich	Zamoyski	subst:pl:loc:m1	nazwisko	
 Zamoyskiego	Zamoyski	subst:sg:gen.acc:m1	nazwisko	
-Zamoyskiego	Zamoyski	subst:sg:gen:m1	nazwisko	
 Zamoyskiemu	Zamoyski	subst:sg:dat:m1	nazwisko	
 Zamoyskie	Zamoyski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zamoyskimi	Zamoyski	subst:pl:inst:m1	nazwisko	
@@ -963,7 +932,6 @@ Zaniewscy	Zaniewski	subst:pl:nom.voc:m1	nazwisko
 Zaniewskich	Zaniewski	subst:pl:gen.acc:m1	nazwisko	
 Zaniewskich	Zaniewski	subst:pl:loc:m1	nazwisko	
 Zaniewskiego	Zaniewski	subst:sg:gen.acc:m1	nazwisko	
-Zaniewskiego	Zaniewski	subst:sg:gen:m1	nazwisko	
 Zaniewskiemu	Zaniewski	subst:sg:dat:m1	nazwisko	
 Zaniewskie	Zaniewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zaniewskimi	Zaniewski	subst:pl:inst:m1	nazwisko	
@@ -975,7 +943,6 @@ Zaniewski	Zaniewski	subst:sg:voc:m1	nazwisko
 Zanussich	Zanussi	subst:pl:gen.acc:m1	nazwisko	
 Zanussich	Zanussi	subst:pl:loc:m1	nazwisko	
 Zanussiego	Zanussi	subst:sg:gen.acc:m1	nazwisko	
-Zanussiego	Zanussi	subst:sg:gen:m1	nazwisko	
 Zanussiemu	Zanussi	subst:sg:dat:m1	nazwisko	
 Zanussie	Zanussi	depr:pl:nom.acc.voc:m2	nazwisko	
 Zanussimi	Zanussi	subst:pl:inst:m1	nazwisko	
@@ -1032,7 +999,6 @@ Zaorscy	Zaorski	subst:pl:nom.voc:m1	nazwisko
 Zaorskich	Zaorski	subst:pl:gen.acc:m1	nazwisko	
 Zaorskich	Zaorski	subst:pl:loc:m1	nazwisko	
 Zaorskiego	Zaorski	subst:sg:gen.acc:m1	nazwisko	
-Zaorskiego	Zaorski	subst:sg:gen:m1	nazwisko	
 Zaorskiemu	Zaorski	subst:sg:dat:m1	nazwisko	
 Zaorskie	Zaorski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zaorskimi	Zaorski	subst:pl:inst:m1	nazwisko	
@@ -1066,7 +1032,6 @@ Zapolscy	Zapolski	subst:pl:nom.voc:m1	nazwisko
 Zapolskich	Zapolski	subst:pl:gen.acc:m1	nazwisko	
 Zapolskich	Zapolski	subst:pl:loc:m1	nazwisko	
 Zapolskiego	Zapolski	subst:sg:gen.acc:m1	nazwisko	
-Zapolskiego	Zapolski	subst:sg:gen:m1	nazwisko	
 Zapolskiemu	Zapolski	subst:sg:dat:m1	nazwisko	
 Zapolskie	Zapolski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zapolskimi	Zapolski	subst:pl:inst:m1	nazwisko	
@@ -1082,7 +1047,6 @@ Zápolyą	Zápolya	subst:sg:inst:m1	nazwisko
 Zápolye	Zápolya	depr:pl:nom.acc.voc:m2	nazwisko	
 Zápolyę	Zápolya	subst:sg:acc:m1	nazwisko	
 Zápolyi	Zápolya	subst:sg:dat.loc:m1	nazwisko	
-Zápolyi	Zápolya	subst:sg:gen:m1	nazwisko	
 Zápolyom	Zápolya	subst:pl:dat:m1	nazwisko	
 Zápolyowie	Zápolya	subst:pl:nom.voc:m1	nazwisko	
 Zápolyo	Zápolya	subst:sg:voc:m1	nazwisko	
@@ -1100,7 +1064,6 @@ Zaporoży	Zaporoże	subst:pl:gen:n:ncol	nazwa geograficzna
 Zaporożcach	Zaporożec	subst:pl:loc:m1	nazwa pospolita	
 Zaporożcami	Zaporożec	subst:pl:inst:m1	nazwa pospolita	
 Zaporożca	Zaporożec	subst:sg:gen.acc:m1	nazwa pospolita	
-Zaporożca	Zaporożec	subst:sg:gen:m1	nazwa pospolita	
 Zaporożcem	Zaporożec	subst:sg:inst:m1	nazwa pospolita	
 Zaporożce	Zaporożec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Zaporożcom	Zaporożec	subst:pl:dat:m1	nazwa pospolita	
@@ -1114,7 +1077,6 @@ Zapotecy	Zapotek	subst:pl:nom.voc:m1	nazwa pospolita
 Zapotekach	Zapotek	subst:pl:loc:m1	nazwa pospolita	
 Zapotekami	Zapotek	subst:pl:inst:m1	nazwa pospolita	
 Zapoteka	Zapotek	subst:sg:gen.acc:m1	nazwa pospolita	
-Zapoteka	Zapotek	subst:sg:gen:m1	nazwa pospolita	
 Zapotekiem	Zapotek	subst:sg:inst:m1	nazwa pospolita	
 Zapoteki	Zapotek	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Zapotekom	Zapotek	subst:pl:dat:m1	nazwa pospolita	
@@ -1136,7 +1098,6 @@ Zapotocznych	Zapotoczna	subst:pl:loc:f	nazwisko
 Zapotocznymi	Zapotoczna	subst:pl:inst:f	nazwisko	
 Zapotocznym	Zapotoczna	subst:pl:dat:f	nazwisko	
 Zapotocznego	Zapotoczny	subst:sg:gen.acc:m1	nazwisko	
-Zapotocznego	Zapotoczny	subst:sg:gen:m1	nazwisko	
 Zapotocznemu	Zapotoczny	subst:sg:dat:m1	nazwisko	
 Zapotoczne	Zapotoczny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zapotoczni	Zapotoczny	subst:pl:nom.voc:m1	nazwisko	
@@ -1158,7 +1119,6 @@ Zaratustrowie	Zaratustra	subst:pl:nom.voc:m1	imię
 Zaratustro	Zaratustra	subst:sg:voc:m1	imię	
 Zaratustrów	Zaratustra	subst:pl:gen.acc:m1	imię	
 Zaratustry	Zaratustra	depr:pl:nom.acc.voc:m2	imię	
-Zaratustry	Zaratustra	subst:sg:gen:m1	imię	
 Zaratustrze	Zaratustra	subst:sg:dat.loc:m1	imię	
 Zarembach	Zaremba	subst:pl:loc:m1	nazwisko	
 Zarembami	Zaremba	subst:pl:inst:m1	nazwisko	
@@ -1171,7 +1131,6 @@ Zarembowie	Zaremba	subst:pl:nom.voc:m1	nazwisko
 Zarembo	Zaremba	subst:sg:voc:m1	nazwisko	
 Zarembów	Zaremba	subst:pl:gen.acc:m1	nazwisko	
 Zaremby	Zaremba	depr:pl:nom.acc.voc:m2	nazwisko	
-Zaremby	Zaremba	subst:sg:gen:m1	nazwisko	
 Zarębach	Zaręba	subst:pl:loc:m1	nazwisko	
 Zarębami	Zaręba	subst:pl:inst:m1	nazwisko	
 Zaręba	Zaręba	subst:sg:nom:m1	nazwisko	
@@ -1183,7 +1142,6 @@ Zarębowie	Zaręba	subst:pl:nom.voc:m1	nazwisko
 Zarębo	Zaręba	subst:sg:voc:m1	nazwisko	
 Zarębów	Zaręba	subst:pl:gen.acc:m1	nazwisko	
 Zaręby	Zaręba	depr:pl:nom.acc.voc:m2	nazwisko	
-Zaręby	Zaręba	subst:sg:gen:m1	nazwisko	
 Zarębinach	Zarębina	subst:pl:loc:f	nazwisko	
 Zarębinami	Zarębina	subst:pl:inst:f	nazwisko	
 Zarębina	Zarębina	subst:sg:nom:f	nazwisko	
@@ -1210,7 +1168,6 @@ Zarębscy	Zarębski	subst:pl:nom.voc:m1	nazwisko
 Zarębskich	Zarębski	subst:pl:gen.acc:m1	nazwisko	
 Zarębskich	Zarębski	subst:pl:loc:m1	nazwisko	
 Zarębskiego	Zarębski	subst:sg:gen.acc:m1	nazwisko	
-Zarębskiego	Zarębski	subst:sg:gen:m1	nazwisko	
 Zarębskiemu	Zarębski	subst:sg:dat:m1	nazwisko	
 Zarębskie	Zarębski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zarębskimi	Zarębski	subst:pl:inst:m1	nazwisko	
@@ -1266,7 +1223,6 @@ Zarzyccy	Zarzycki	subst:pl:nom.voc:m1	nazwisko
 Zarzyckich	Zarzycki	subst:pl:gen.acc:m1	nazwisko	
 Zarzyckich	Zarzycki	subst:pl:loc:m1	nazwisko	
 Zarzyckiego	Zarzycki	subst:sg:gen.acc:m1	nazwisko	
-Zarzyckiego	Zarzycki	subst:sg:gen:m1	nazwisko	
 Zarzyckiemu	Zarzycki	subst:sg:dat:m1	nazwisko	
 Zarzyckie	Zarzycki	depr:pl:nom.acc.voc:m2	nazwisko	
 Zarzyckimi	Zarzycki	subst:pl:inst:m1	nazwisko	
@@ -1287,7 +1243,6 @@ Zarzycznych	Zarzyczna	subst:pl:loc:f	nazwisko
 Zarzycznymi	Zarzyczna	subst:pl:inst:f	nazwisko	
 Zarzycznym	Zarzyczna	subst:pl:dat:f	nazwisko	
 Zarzycznego	Zarzyczny	subst:sg:gen.acc:m1	nazwisko	
-Zarzycznego	Zarzyczny	subst:sg:gen:m1	nazwisko	
 Zarzycznemu	Zarzyczny	subst:sg:dat:m1	nazwisko	
 Zarzyczne	Zarzyczny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zarzyczni	Zarzyczny	subst:pl:nom.voc:m1	nazwisko	
@@ -1302,7 +1257,6 @@ Zarzyczny	Zarzyczny	subst:sg:voc:m1	nazwisko
 Zasadnich	Zasadni	subst:pl:gen.acc:m1	nazwisko	
 Zasadnich	Zasadni	subst:pl:loc:m1	nazwisko	
 Zasadniego	Zasadni	subst:sg:gen.acc:m1	nazwisko	
-Zasadniego	Zasadni	subst:sg:gen:m1	nazwisko	
 Zasadniemu	Zasadni	subst:sg:dat:m1	nazwisko	
 Zasadnie	Zasadni	depr:pl:nom.acc.voc:m2	nazwisko	
 Zasadnimi	Zasadni	subst:pl:inst:m1	nazwisko	
@@ -1347,7 +1301,6 @@ Zastróżnych	Zastróżna	subst:pl:loc:f	nazwisko
 Zastróżnymi	Zastróżna	subst:pl:inst:f	nazwisko	
 Zastróżnym	Zastróżna	subst:pl:dat:f	nazwisko	
 Zastróżnego	Zastróżny	subst:sg:gen.acc:m1	nazwisko	
-Zastróżnego	Zastróżny	subst:sg:gen:m1	nazwisko	
 Zastróżnemu	Zastróżny	subst:sg:dat:m1	nazwisko	
 Zastróżne	Zastróżny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zastróżni	Zastróżny	subst:pl:nom.voc:m1	nazwisko	
@@ -1369,7 +1322,6 @@ Zawadowie	Zawada:s1	subst:pl:nom.voc:m1	nazwisko
 Zawado	Zawada:s1	subst:sg:voc:m1	nazwisko	
 Zawadów	Zawada:s1	subst:pl:gen.acc:m1	nazwisko	
 Zawady	Zawada:s1	depr:pl:nom.acc.voc:m2	nazwisko	
-Zawady	Zawada:s1	subst:sg:gen:m1	nazwisko	
 Zawadzie	Zawada:s1	subst:sg:dat.loc:m1	nazwisko	
 Zawadach	Zawada:s2	subst:pl:loc:f	nazwa geograficzna	
 Zawadami	Zawada:s2	subst:pl:inst:f	nazwa geograficzna	
@@ -1397,7 +1349,6 @@ Zawadzcy	Zawadzki	subst:pl:nom.voc:m1	nazwisko
 Zawadzkich	Zawadzki	subst:pl:gen.acc:m1	nazwisko	
 Zawadzkich	Zawadzki	subst:pl:loc:m1	nazwisko	
 Zawadzkiego	Zawadzki	subst:sg:gen.acc:m1	nazwisko	
-Zawadzkiego	Zawadzki	subst:sg:gen:m1	nazwisko	
 Zawadzkiemu	Zawadzki	subst:sg:dat:m1	nazwisko	
 Zawadzkie	Zawadzki	depr:pl:nom.acc.voc:m2	nazwisko	
 Zawadzkimi	Zawadzki	subst:pl:inst:m1	nazwisko	
@@ -1443,7 +1394,6 @@ Zawieyscy	Zawieyski	subst:pl:nom.voc:m1	nazwisko
 Zawieyskich	Zawieyski	subst:pl:gen.acc:m1	nazwisko	
 Zawieyskich	Zawieyski	subst:pl:loc:m1	nazwisko	
 Zawieyskiego	Zawieyski	subst:sg:gen.acc:m1	nazwisko	
-Zawieyskiego	Zawieyski	subst:sg:gen:m1	nazwisko	
 Zawieyskiemu	Zawieyski	subst:sg:dat:m1	nazwisko	
 Zawieyskie	Zawieyski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zawieyskimi	Zawieyski	subst:pl:inst:m1	nazwisko	
@@ -1467,7 +1417,6 @@ Zawistowscy	Zawistowski	subst:pl:nom.voc:m1	nazwisko
 Zawistowskich	Zawistowski	subst:pl:gen.acc:m1	nazwisko	
 Zawistowskich	Zawistowski	subst:pl:loc:m1	nazwisko	
 Zawistowskiego	Zawistowski	subst:sg:gen.acc:m1	nazwisko	
-Zawistowskiego	Zawistowski	subst:sg:gen:m1	nazwisko	
 Zawistowskiemu	Zawistowski	subst:sg:dat:m1	nazwisko	
 Zawistowskie	Zawistowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zawistowskimi	Zawistowski	subst:pl:inst:m1	nazwisko	
@@ -1487,7 +1436,6 @@ Zawiszowie	Zawisza	subst:pl:nom.voc:m1	imię|nazwisko
 Zawiszo	Zawisza	subst:sg:voc:m1	imię|nazwisko	
 Zawiszów	Zawisza	subst:pl:gen.acc:m1	imię|nazwisko	
 Zawiszy	Zawisza	subst:sg:dat.loc:m1	imię|nazwisko	
-Zawiszy	Zawisza	subst:sg:gen:m1	imię|nazwisko	
 Zawracie	Zawrat	subst:sg:loc:m3	nazwa geograficzna	
 Zawracie	Zawrat	subst:sg:voc:m3	nazwa geograficzna	
 Zawratach	Zawrat	subst:pl:loc:m3	nazwa geograficzna	
@@ -1536,7 +1484,6 @@ Zbąszyń	Zbąszyń	subst:sg:nom.acc:m3	nazwa geograficzna
 Zbigniewach	Zbigniew	subst:pl:loc:m1	imię	
 Zbigniewami	Zbigniew	subst:pl:inst:m1	imię	
 Zbigniewa	Zbigniew	subst:sg:gen.acc:m1	imię	
-Zbigniewa	Zbigniew	subst:sg:gen:m1	imię	
 Zbigniewem	Zbigniew	subst:sg:inst:m1	imię	
 Zbigniewie	Zbigniew	subst:sg:loc:m1	imię	
 Zbigniewie	Zbigniew	subst:sg:voc:m1	imię	
@@ -1571,7 +1518,6 @@ Zborowscy	Zborowski	subst:pl:nom.voc:m1	nazwisko
 Zborowskich	Zborowski	subst:pl:gen.acc:m1	nazwisko	
 Zborowskich	Zborowski	subst:pl:loc:m1	nazwisko	
 Zborowskiego	Zborowski	subst:sg:gen.acc:m1	nazwisko	
-Zborowskiego	Zborowski	subst:sg:gen:m1	nazwisko	
 Zborowskiemu	Zborowski	subst:sg:dat:m1	nazwisko	
 Zborowskie	Zborowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zborowskimi	Zborowski	subst:pl:inst:m1	nazwisko	
@@ -1605,7 +1551,6 @@ ZBOWiD-zie	ZBOWiD	subst:sg:voc:m3	nazwa organizacji
 Zbroimirach	Zbroimir	subst:pl:loc:m1	imię	
 Zbroimirami	Zbroimir	subst:pl:inst:m1	imię	
 Zbroimira	Zbroimir	subst:sg:gen.acc:m1	imię	
-Zbroimira	Zbroimir	subst:sg:gen:m1	imię	
 Zbroimirem	Zbroimir	subst:sg:inst:m1	imię	
 Zbroimirom	Zbroimir	subst:pl:dat:m1	imię	
 Zbroimirowie	Zbroimir	subst:pl:nom.voc:m1	imię	
@@ -1619,7 +1564,6 @@ Zbroimirzy	Zbroimir	subst:pl:nom.voc:m1	imię
 Zbrosławach	Zbrosław	subst:pl:loc:m1	imię	
 Zbrosławami	Zbrosław	subst:pl:inst:m1	imię	
 Zbrosława	Zbrosław	subst:sg:gen.acc:m1	imię	
-Zbrosława	Zbrosław	subst:sg:gen:m1	imię	
 Zbrosławem	Zbrosław	subst:sg:inst:m1	imię	
 Zbrosławie	Zbrosław	subst:sg:loc:m1	imię	
 Zbrosławie	Zbrosław	subst:sg:voc:m1	imię	
@@ -1674,7 +1618,6 @@ Zbrzeznych	Zbrzezna	subst:pl:loc:f	nazwisko
 Zbrzeznymi	Zbrzezna	subst:pl:inst:f	nazwisko	
 Zbrzeznym	Zbrzezna	subst:pl:dat:f	nazwisko	
 Zbrzeznego	Zbrzezny	subst:sg:gen.acc:m1	nazwisko	
-Zbrzeznego	Zbrzezny	subst:sg:gen:m1	nazwisko	
 Zbrzeznemu	Zbrzezny	subst:sg:dat:m1	nazwisko	
 Zbrzezne	Zbrzezny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zbrzeznych	Zbrzezny	subst:pl:gen.acc:m1	nazwisko	
@@ -1698,7 +1641,6 @@ Zbrzeźnych	Zbrzeźna	subst:pl:loc:f	nazwisko
 Zbrzeźnymi	Zbrzeźna	subst:pl:inst:f	nazwisko	
 Zbrzeźnym	Zbrzeźna	subst:pl:dat:f	nazwisko	
 Zbrzeźnego	Zbrzeźny	subst:sg:gen.acc:m1	nazwisko	
-Zbrzeźnego	Zbrzeźny	subst:sg:gen:m1	nazwisko	
 Zbrzeźnemu	Zbrzeźny	subst:sg:dat:m1	nazwisko	
 Zbrzeźne	Zbrzeźny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zbrzeźni	Zbrzeźny	subst:pl:nom.voc:m1	nazwisko	
@@ -1724,7 +1666,6 @@ Zbuczyn	Zbuczyn	subst:sg:nom.acc:m3	nazwa geograficzna
 Zbygniewach	Zbygniew	subst:pl:loc:m1	imię	
 Zbygniewami	Zbygniew	subst:pl:inst:m1	imię	
 Zbygniewa	Zbygniew	subst:sg:gen.acc:m1	imię	
-Zbygniewa	Zbygniew	subst:sg:gen:m1	imię	
 Zbygniewem	Zbygniew	subst:sg:inst:m1	imię	
 Zbygniewie	Zbygniew	subst:sg:loc:m1	imię	
 Zbygniewie	Zbygniew	subst:sg:voc:m1	imię	
@@ -1740,7 +1681,6 @@ Zbyluci	Zbylut	subst:pl:nom.voc:m1	imię
 Zbylutach	Zbylut	subst:pl:loc:m1	imię	
 Zbylutami	Zbylut	subst:pl:inst:m1	imię	
 Zbyluta	Zbylut	subst:sg:gen.acc:m1	imię	
-Zbyluta	Zbylut	subst:sg:gen:m1	imię	
 Zbylutem	Zbylut	subst:sg:inst:m1	imię	
 Zbylutom	Zbylut	subst:pl:dat:m1	imię	
 Zbylutowie	Zbylut	subst:pl:nom.voc:m1	imię	
@@ -1751,7 +1691,6 @@ Zbylut	Zbylut	subst:sg:nom:m1	imię
 Zbyniach	Zbynio	subst:pl:loc:m1	imię	
 Zbyniami	Zbynio	subst:pl:inst:m1	imię	
 Zbynia	Zbynio	subst:sg:gen.acc:m1	imię	
-Zbynia	Zbynio	subst:sg:gen:m1	imię	
 Zbyniem	Zbynio	subst:sg:inst:m1	imię	
 Zbynie	Zbynio	depr:pl:nom.acc.voc:m2	imię	
 Zbyniom	Zbynio	subst:pl:dat:m1	imię	
@@ -1764,7 +1703,6 @@ Zbyniu	Zbynio	subst:sg:voc:m1	imię
 Zbysiach	Zbysio	subst:pl:loc:m1	imię	
 Zbysiami	Zbysio	subst:pl:inst:m1	imię	
 Zbysia	Zbysio	subst:sg:gen.acc:m1	imię	
-Zbysia	Zbysio	subst:sg:gen:m1	imię	
 Zbysiem	Zbysio	subst:sg:inst:m1	imię	
 Zbysie	Zbysio	depr:pl:nom.acc.voc:m2	imię	
 Zbysiom	Zbysio	subst:pl:dat:m1	imię	
@@ -1777,7 +1715,6 @@ Zbysiu	Zbysio	subst:sg:voc:m1	imię
 Zbysławach	Zbysław	subst:pl:loc:m1	imię	
 Zbysławami	Zbysław	subst:pl:inst:m1	imię	
 Zbysława	Zbysław	subst:sg:gen.acc:m1	imię	
-Zbysława	Zbysław	subst:sg:gen:m1	imię	
 Zbysławem	Zbysław	subst:sg:inst:m1	imię	
 Zbysławie	Zbysław	subst:sg:loc:m1	imię	
 Zbysławie	Zbysław	subst:sg:voc:m1	imię	
@@ -1803,7 +1740,6 @@ Zbyszek	Zbyszek	subst:sg:nom:m1	imię
 Zbyszkach	Zbyszek	subst:pl:loc:m1	imię	
 Zbyszkami	Zbyszek	subst:pl:inst:m1	imię	
 Zbyszka	Zbyszek	subst:sg:gen.acc:m1	imię	
-Zbyszka	Zbyszek	subst:sg:gen:m1	imię	
 Zbyszkiem	Zbyszek	subst:sg:inst:m1	imię	
 Zbyszki	Zbyszek	depr:pl:nom.acc.voc:m2	imię	
 Zbyszkom	Zbyszek	subst:pl:dat:m1	imię	
@@ -1815,7 +1751,6 @@ Zbyszku	Zbyszek	subst:sg:voc:m1	imię
 Zbyszkach	Zbyszko	subst:pl:loc:m1	imię	
 Zbyszkami	Zbyszko	subst:pl:inst:m1	imię	
 Zbyszka	Zbyszko	subst:sg:gen.acc:m1	imię	
-Zbyszka	Zbyszko	subst:sg:gen:m1	imię	
 Zbyszkiem	Zbyszko	subst:sg:inst:m1	imię	
 Zbyszki	Zbyszko	depr:pl:nom.acc.voc:m2	imię	
 Zbyszkom	Zbyszko	subst:pl:dat:m1	imię	
@@ -1828,7 +1763,6 @@ Zbyszku	Zbyszko	subst:sg:voc:m1	imię
 Zbysiach	Zbyś	subst:pl:loc:m1	imię	
 Zbysiami	Zbyś	subst:pl:inst:m1	imię	
 Zbysia	Zbyś	subst:sg:gen.acc:m1	imię	
-Zbysia	Zbyś	subst:sg:gen:m1	imię	
 Zbysiem	Zbyś	subst:sg:inst:m1	imię	
 Zbysie	Zbyś	depr:pl:nom.acc.voc:m2	imię	
 Zbysie	Zbyś	subst:pl:nom.voc:m1	imię	
@@ -1892,7 +1826,6 @@ Zdanowscy	Zdanowski	subst:pl:nom.voc:m1	nazwisko
 Zdanowskich	Zdanowski	subst:pl:gen.acc:m1	nazwisko	
 Zdanowskich	Zdanowski	subst:pl:loc:m1	nazwisko	
 Zdanowskiego	Zdanowski	subst:sg:gen.acc:m1	nazwisko	
-Zdanowskiego	Zdanowski	subst:sg:gen:m1	nazwisko	
 Zdanowskiemu	Zdanowski	subst:sg:dat:m1	nazwisko	
 Zdanowskie	Zdanowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zdanowskimi	Zdanowski	subst:pl:inst:m1	nazwisko	
@@ -1905,7 +1838,6 @@ Zdenek	Zdenek	subst:sg:nom:m1	imię
 Zdenkach	Zdenek	subst:pl:loc:m1	imię	
 Zdenkami	Zdenek	subst:pl:inst:m1	imię	
 Zdenka	Zdenek	subst:sg:gen.acc:m1	imię	
-Zdenka	Zdenek	subst:sg:gen:m1	imię	
 Zdenkiem	Zdenek	subst:sg:inst:m1	imię	
 Zdenki	Zdenek	depr:pl:nom.acc.voc:m2	imię	
 Zdenkom	Zdenek	subst:pl:dat:m1	imię	
@@ -1917,7 +1849,6 @@ Zdenku	Zdenek	subst:sg:voc:m1	imię
 Zdobysławach	Zdobysław	subst:pl:loc:m1	imię	
 Zdobysławami	Zdobysław	subst:pl:inst:m1	imię	
 Zdobysława	Zdobysław	subst:sg:gen.acc:m1	imię	
-Zdobysława	Zdobysław	subst:sg:gen:m1	imię	
 Zdobysławem	Zdobysław	subst:sg:inst:m1	imię	
 Zdobysławie	Zdobysław	subst:sg:loc:m1	imię	
 Zdobysławie	Zdobysław	subst:sg:voc:m1	imię	
@@ -1942,7 +1873,6 @@ Zdrojewscy	Zdrojewski	subst:pl:nom.voc:m1	nazwisko
 Zdrojewskich	Zdrojewski	subst:pl:gen.acc:m1	nazwisko	
 Zdrojewskich	Zdrojewski	subst:pl:loc:m1	nazwisko	
 Zdrojewskiego	Zdrojewski	subst:sg:gen.acc:m1	nazwisko	
-Zdrojewskiego	Zdrojewski	subst:sg:gen:m1	nazwisko	
 Zdrojewskiemu	Zdrojewski	subst:sg:dat:m1	nazwisko	
 Zdrojewskie	Zdrojewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zdrojewskimi	Zdrojewski	subst:pl:inst:m1	nazwisko	
@@ -1980,7 +1910,6 @@ Z-dy	Z-dy	subst:pl:nom.acc.voc:n:pt	nazwa pospolita
 Zdziborach	Zdzibor	subst:pl:loc:m1	imię	
 Zdziborami	Zdzibor	subst:pl:inst:m1	imię	
 Zdzibora	Zdzibor	subst:sg:gen.acc:m1	imię	
-Zdzibora	Zdzibor	subst:sg:gen:m1	imię	
 Zdziborem	Zdzibor	subst:sg:inst:m1	imię	
 Zdziborom	Zdzibor	subst:pl:dat:m1	imię	
 Zdziborowie	Zdzibor	subst:pl:nom.voc:m1	imię	
@@ -1994,7 +1923,6 @@ Zdziborzy	Zdzibor	subst:pl:nom.voc:m1	imię
 Zdzichach	Zdzich	subst:pl:loc:m1	imię	
 Zdzichami	Zdzich	subst:pl:inst:m1	imię	
 Zdzicha	Zdzich	subst:sg:gen.acc:m1	imię	
-Zdzicha	Zdzich	subst:sg:gen:m1	imię	
 Zdzichem	Zdzich	subst:sg:inst:m1	imię	
 Zdzichom	Zdzich	subst:pl:dat:m1	imię	
 Zdzichowie	Zdzich	subst:pl:nom.voc:m1	imię	
@@ -2007,7 +1935,6 @@ Zdzich	Zdzich	subst:sg:nom:m1	imię
 Zdzichach	Zdzicho	subst:pl:loc:m1	imię	
 Zdzichami	Zdzicho	subst:pl:inst:m1	imię	
 Zdzicha	Zdzicho	subst:sg:gen.acc:m1	imię	
-Zdzicha	Zdzicho	subst:sg:gen:m1	imię	
 Zdzichem	Zdzicho	subst:sg:inst:m1	imię	
 Zdzichom	Zdzicho	subst:pl:dat:m1	imię	
 Zdzichowie	Zdzicho	subst:pl:nom.voc:m1	imię	
@@ -2032,7 +1959,6 @@ Zdziechowscy	Zdziechowski	subst:pl:nom.voc:m1	nazwisko
 Zdziechowskich	Zdziechowski	subst:pl:gen.acc:m1	nazwisko	
 Zdziechowskich	Zdziechowski	subst:pl:loc:m1	nazwisko	
 Zdziechowskiego	Zdziechowski	subst:sg:gen.acc:m1	nazwisko	
-Zdziechowskiego	Zdziechowski	subst:sg:gen:m1	nazwisko	
 Zdziechowskiemu	Zdziechowski	subst:sg:dat:m1	nazwisko	
 Zdziechowskie	Zdziechowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zdziechowskimi	Zdziechowski	subst:pl:inst:m1	nazwisko	
@@ -2054,7 +1980,6 @@ Zdzieszowic	Zdzieszowice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Zdzimirach	Zdzimir	subst:pl:loc:m1	imię	
 Zdzimirami	Zdzimir	subst:pl:inst:m1	imię	
 Zdzimira	Zdzimir	subst:sg:gen.acc:m1	imię	
-Zdzimira	Zdzimir	subst:sg:gen:m1	imię	
 Zdzimirem	Zdzimir	subst:sg:inst:m1	imię	
 Zdzimirom	Zdzimir	subst:pl:dat:m1	imię	
 Zdzimirowie	Zdzimir	subst:pl:nom.voc:m1	imię	
@@ -2069,7 +1994,6 @@ Zdzisek	Zdzisek	subst:sg:nom:m1	imię
 Zdziskach	Zdzisek	subst:pl:loc:m1	imię	
 Zdziskami	Zdzisek	subst:pl:inst:m1	imię	
 Zdziska	Zdzisek	subst:sg:gen.acc:m1	imię	
-Zdziska	Zdzisek	subst:sg:gen:m1	imię	
 Zdziskiem	Zdzisek	subst:sg:inst:m1	imię	
 Zdziski	Zdzisek	depr:pl:nom.acc.voc:m2	imię	
 Zdziskom	Zdzisek	subst:pl:dat:m1	imię	
@@ -2094,7 +2018,6 @@ Zdzisiek	Zdzisiek	subst:sg:nom:m1	imię
 Zdziśkach	Zdzisiek	subst:pl:loc:m1	imię	
 Zdziśkami	Zdzisiek	subst:pl:inst:m1	imię	
 Zdziśka	Zdzisiek	subst:sg:gen.acc:m1	imię	
-Zdziśka	Zdzisiek	subst:sg:gen:m1	imię	
 Zdziśkiem	Zdzisiek	subst:sg:inst:m1	imię	
 Zdziśki	Zdzisiek	depr:pl:nom.acc.voc:m2	imię	
 Zdziśkom	Zdzisiek	subst:pl:dat:m1	imię	
@@ -2106,7 +2029,6 @@ Zdziśku	Zdzisiek	subst:sg:voc:m1	imię
 Zdzisiach	Zdzisio	subst:pl:loc:m1	imię	
 Zdzisiami	Zdzisio	subst:pl:inst:m1	imię	
 Zdzisia	Zdzisio	subst:sg:gen.acc:m1	imię	
-Zdzisia	Zdzisio	subst:sg:gen:m1	imię	
 Zdzisiem	Zdzisio	subst:sg:inst:m1	imię	
 Zdzisie	Zdzisio	depr:pl:nom.acc.voc:m2	imię	
 Zdzisiom	Zdzisio	subst:pl:dat:m1	imię	
@@ -2119,7 +2041,6 @@ Zdzisiu	Zdzisio	subst:sg:voc:m1	imię
 Zdzisławach	Zdzisław	subst:pl:loc:m1	imię	
 Zdzisławami	Zdzisław	subst:pl:inst:m1	imię	
 Zdzisława	Zdzisław	subst:sg:gen.acc:m1	imię	
-Zdzisława	Zdzisław	subst:sg:gen:m1	imię	
 Zdzisławem	Zdzisław	subst:sg:inst:m1	imię	
 Zdzisławie	Zdzisław	subst:sg:loc:m1	imię	
 Zdzisławie	Zdzisław	subst:sg:voc:m1	imię	
@@ -2143,7 +2064,6 @@ Zdzisław	Zdzisława	subst:pl:gen:f	imię
 Zdzisiach	Zdziś	subst:pl:loc:m1	imię	
 Zdzisiami	Zdziś	subst:pl:inst:m1	imię	
 Zdzisia	Zdziś	subst:sg:gen.acc:m1	imię	
-Zdzisia	Zdziś	subst:sg:gen:m1	imię	
 Zdzisiem	Zdziś	subst:sg:inst:m1	imię	
 Zdzisie	Zdziś	depr:pl:nom.acc.voc:m2	imię	
 Zdzisie	Zdziś	subst:pl:nom.voc:m1	imię	
@@ -2168,7 +2088,6 @@ Zdziśko	Zdziśka	subst:sg:voc:f	imię
 Zdziwojach	Zdziwoj	subst:pl:loc:m1	imię	
 Zdziwojami	Zdziwoj	subst:pl:inst:m1	imię	
 Zdziwoja	Zdziwoj	subst:sg:gen.acc:m1	imię	
-Zdziwoja	Zdziwoj	subst:sg:gen:m1	imię	
 Zdziwojem	Zdziwoj	subst:sg:inst:m1	imię	
 Zdziwoje	Zdziwoj	depr:pl:nom.acc.voc:m2	imię	
 Zdziwoje	Zdziwoj	subst:pl:nom.voc:m1	imię	
@@ -2184,7 +2103,6 @@ ZEA	ZEA	subst:pl:nom.gen.dat.acc.inst.loc.voc:n:pt	nazwa geograficzna
 Zebedeuszach	Zebedeusz	subst:pl:loc:m1	imię	
 Zebedeuszami	Zebedeusz	subst:pl:inst:m1	imię	
 Zebedeusza	Zebedeusz	subst:sg:gen.acc:m1	imię	
-Zebedeusza	Zebedeusz	subst:sg:gen:m1	imię	
 Zebedeuszem	Zebedeusz	subst:sg:inst:m1	imię	
 Zebedeusze	Zebedeusz	depr:pl:nom.acc.voc:m2	imię	
 Zebedeusze	Zebedeusz	subst:pl:nom.voc:m1	imię	
@@ -2220,7 +2138,6 @@ Zebrzydowscy	Zebrzydowski	subst:pl:nom.voc:m1	nazwisko
 Zebrzydowskich	Zebrzydowski	subst:pl:gen.acc:m1	nazwisko	
 Zebrzydowskich	Zebrzydowski	subst:pl:loc:m1	nazwisko	
 Zebrzydowskiego	Zebrzydowski	subst:sg:gen.acc:m1	nazwisko	
-Zebrzydowskiego	Zebrzydowski	subst:sg:gen:m1	nazwisko	
 Zebrzydowskiemu	Zebrzydowski	subst:sg:dat:m1	nazwisko	
 Zebrzydowskie	Zebrzydowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zebrzydowskimi	Zebrzydowski	subst:pl:inst:m1	nazwisko	
@@ -2232,7 +2149,6 @@ Zebrzydowski	Zebrzydowski	subst:sg:voc:m1	nazwisko
 Zebulonach	Zebulon	subst:pl:loc:m1	imię	
 Zebulonami	Zebulon	subst:pl:inst:m1	imię	
 Zebulona	Zebulon	subst:sg:gen.acc:m1	imię	
-Zebulona	Zebulon	subst:sg:gen:m1	imię	
 Zebulonem	Zebulon	subst:sg:inst:m1	imię	
 Zebulonie	Zebulon	subst:sg:loc:m1	imię	
 Zebulonie	Zebulon	subst:sg:voc:m1	imię	
@@ -2246,7 +2162,6 @@ Zebulon	Zebulon	subst:sg:nom:m1	imię
 Zedongach	Zedong	subst:pl:loc:m1	człon nazwiska	
 Zedongami	Zedong	subst:pl:inst:m1	człon nazwiska	
 Zedonga	Zedong	subst:sg:gen.acc:m1	człon nazwiska	
-Zedonga	Zedong	subst:sg:gen:m1	człon nazwiska	
 Zedongiem	Zedong	subst:sg:inst:m1	człon nazwiska	
 Zedongi	Zedong	depr:pl:nom.acc.voc:m2	człon nazwiska	
 Zedongom	Zedong	subst:pl:dat:m1	człon nazwiska	
@@ -2257,7 +2172,6 @@ Zedongu	Zedong	subst:sg:loc:m1	człon nazwiska
 Zedongu	Zedong	subst:sg:voc:m1	człon nazwiska	
 Zedong	Zedong	subst:sg:nom:m1	człon nazwiska	
 Zeffirellego	Zeffirelli	subst:sg:gen.acc:m1	nazwisko	
-Zeffirellego	Zeffirelli	subst:sg:gen:m1	nazwisko	
 Zeffirellemu	Zeffirelli	subst:sg:dat:m1	nazwisko	
 Zeffirelle	Zeffirelli	depr:pl:nom.acc.voc:m2	nazwisko	
 Zeffirellich	Zeffirelli	subst:pl:gen.acc:m1	nazwisko	
@@ -2272,7 +2186,6 @@ Zeffirelli	Zeffirelli	subst:sg:voc:m1	nazwisko
 Zefirach	Zefir	subst:pl:loc:m1	imię	mit.
 Zefirami	Zefir	subst:pl:inst:m1	imię	mit.
 Zefira	Zefir	subst:sg:gen.acc:m1	imię	mit.
-Zefira	Zefir	subst:sg:gen:m1	imię	mit.
 Zefirem	Zefir	subst:sg:inst:m1	imię	mit.
 Zefirom	Zefir	subst:pl:dat:m1	imię	mit.
 Zefirowie	Zefir	subst:pl:nom.voc:m1	imię	mit.
@@ -2297,7 +2210,6 @@ Zefirze	Zefira	subst:sg:dat.loc:f	imię
 Zefirynach	Zefiryn	subst:pl:loc:m1	imię	
 Zefirynami	Zefiryn	subst:pl:inst:m1	imię	
 Zefiryna	Zefiryn	subst:sg:gen.acc:m1	imię	
-Zefiryna	Zefiryn	subst:sg:gen:m1	imię	
 Zefirynem	Zefiryn	subst:sg:inst:m1	imię	
 Zefirynie	Zefiryn	subst:sg:loc:m1	imię	
 Zefirynie	Zefiryn	subst:sg:voc:m1	imię	
@@ -2322,7 +2234,6 @@ Zefiryn	Zefiryna	subst:pl:gen:f	imię
 Zeflikach	Zeflik	subst:pl:loc:m1	imię	
 Zeflikami	Zeflik	subst:pl:inst:m1	imię	
 Zeflika	Zeflik	subst:sg:gen.acc:m1	imię	
-Zeflika	Zeflik	subst:sg:gen:m1	imię	
 Zeflikiem	Zeflik	subst:sg:inst:m1	imię	
 Zefliki	Zeflik	depr:pl:nom.acc.voc:m2	imię	
 Zeflikom	Zeflik	subst:pl:dat:m1	imię	
@@ -2335,7 +2246,6 @@ Zeflik	Zeflik	subst:sg:nom:m1	imię
 Zegadłowiczach	Zegadłowicz	subst:pl:loc:m1	nazwisko	
 Zegadłowiczami	Zegadłowicz	subst:pl:inst:m1	nazwisko	
 Zegadłowicza	Zegadłowicz	subst:sg:gen.acc:m1	nazwisko	
-Zegadłowicza	Zegadłowicz	subst:sg:gen:m1	nazwisko	
 Zegadłowiczem	Zegadłowicz	subst:sg:inst:m1	nazwisko	
 Zegadłowicze	Zegadłowicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Zegadłowicze	Zegadłowicz	subst:pl:nom.voc:m1	nazwisko	
@@ -2349,7 +2259,6 @@ Zegadłowicz	Zegadłowicz	subst:sg:nom:m1	nazwisko
 Zeissach	Zeiss	subst:pl:loc:m1	nazwisko	
 Zeissami	Zeiss	subst:pl:inst:m1	nazwisko	
 Zeissa	Zeiss	subst:sg:gen.acc:m1	nazwisko	
-Zeissa	Zeiss	subst:sg:gen:m1	nazwisko	
 Zeissem	Zeiss	subst:sg:inst:m1	nazwisko	
 Zeissie	Zeiss	subst:sg:loc:m1	nazwisko	
 Zeissie	Zeiss	subst:sg:voc:m1	nazwisko	
@@ -2420,7 +2329,6 @@ Zembrzuscy	Zembrzuski	subst:pl:nom.voc:m1	nazwisko
 Zembrzuskich	Zembrzuski	subst:pl:gen.acc:m1	nazwisko	
 Zembrzuskich	Zembrzuski	subst:pl:loc:m1	nazwisko	
 Zembrzuskiego	Zembrzuski	subst:sg:gen.acc:m1	nazwisko	
-Zembrzuskiego	Zembrzuski	subst:sg:gen:m1	nazwisko	
 Zembrzuskiemu	Zembrzuski	subst:sg:dat:m1	nazwisko	
 Zembrzuskie	Zembrzuski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zembrzuskimi	Zembrzuski	subst:pl:inst:m1	nazwisko	
@@ -2454,7 +2362,6 @@ Zenek	Zenek	subst:sg:nom:m1	imię
 Zenkach	Zenek	subst:pl:loc:m1	imię	
 Zenkami	Zenek	subst:pl:inst:m1	imię	
 Zenka	Zenek	subst:sg:gen.acc:m1	imię	
-Zenka	Zenek	subst:sg:gen:m1	imię	
 Zenkiem	Zenek	subst:sg:inst:m1	imię	
 Zenki	Zenek	depr:pl:nom.acc.voc:m2	imię	
 Zenkom	Zenek	subst:pl:dat:m1	imię	
@@ -2466,7 +2373,6 @@ Zenku	Zenek	subst:sg:voc:m1	imię
 Zeniach	Zenio	subst:pl:loc:m1	imię	
 Zeniami	Zenio	subst:pl:inst:m1	imię	
 Zenia	Zenio	subst:sg:gen.acc:m1	imię	
-Zenia	Zenio	subst:sg:gen:m1	imię	
 Zeniem	Zenio	subst:sg:inst:m1	imię	
 Zenie	Zenio	depr:pl:nom.acc.voc:m2	imię	
 Zeniom	Zenio	subst:pl:dat:m1	imię	
@@ -2491,7 +2397,6 @@ Zenobio	Zenobia	subst:sg:voc:f	imię
 Zenobiuszach	Zenobiusz	subst:pl:loc:m1	imię	
 Zenobiuszami	Zenobiusz	subst:pl:inst:m1	imię	
 Zenobiusza	Zenobiusz	subst:sg:gen.acc:m1	imię	
-Zenobiusza	Zenobiusz	subst:sg:gen:m1	imię	
 Zenobiuszem	Zenobiusz	subst:sg:inst:m1	imię	
 Zenobiusze	Zenobiusz	depr:pl:nom.acc.voc:m2	imię	
 Zenobiusze	Zenobiusz	subst:pl:nom.voc:m1	imię	
@@ -2505,7 +2410,6 @@ Zenobiusz	Zenobiusz	subst:sg:nom:m1	imię
 Zenonach	Zenon	subst:pl:loc:m1	imię	
 Zenonami	Zenon	subst:pl:inst:m1	imię	
 Zenona	Zenon	subst:sg:gen.acc:m1	imię	
-Zenona	Zenon	subst:sg:gen:m1	imię	
 Zenonem	Zenon	subst:sg:inst:m1	imię	
 Zenonie	Zenon	subst:sg:loc:m1	imię	
 Zenonie	Zenon	subst:sg:voc:m1	imię	
@@ -2529,7 +2433,6 @@ Zenon	Zenona	subst:pl:gen:f	imię
 Zenusiach	Zenuś	subst:pl:loc:m1	imię	
 Zenusiami	Zenuś	subst:pl:inst:m1	imię	
 Zenusia	Zenuś	subst:sg:gen.acc:m1	imię	
-Zenusia	Zenuś	subst:sg:gen:m1	imię	
 Zenusiem	Zenuś	subst:sg:inst:m1	imię	
 Zenusie	Zenuś	depr:pl:nom.acc.voc:m2	imię	
 Zenusie	Zenuś	subst:pl:nom.voc:m1	imię	
@@ -2544,7 +2447,6 @@ Zerubabel	Zerubabel	subst:sg:nom:m1	imię
 Zerubablach	Zerubabel	subst:pl:loc:m1	imię	
 Zerubablami	Zerubabel	subst:pl:inst:m1	imię	
 Zerubabla	Zerubabel	subst:sg:gen.acc:m1	imię	
-Zerubabla	Zerubabel	subst:sg:gen:m1	imię	
 Zerubablem	Zerubabel	subst:sg:inst:m1	imię	
 Zerubable	Zerubabel	depr:pl:nom.acc.voc:m2	imię	
 Zerubable	Zerubabel	subst:pl:nom.voc:m1	imię	
@@ -2557,7 +2459,6 @@ Zerubablu	Zerubabel	subst:sg:voc:m1	imię
 Zeusach	Zeus	subst:pl:loc:m1	imię	mit.
 Zeusami	Zeus	subst:pl:inst:m1	imię	mit.
 Zeusa	Zeus	subst:sg:gen.acc:m1	imię	mit.
-Zeusa	Zeus	subst:sg:gen:m1	imię	mit.
 Zeusem	Zeus	subst:sg:inst:m1	imię	mit.
 Zeusie	Zeus	subst:sg:loc:m1	imię	mit.
 Zeusie	Zeus	subst:sg:voc:m1	imię	mit.
@@ -2637,7 +2538,6 @@ ZHRze	ZHR	subst:sg:loc:m3	nazwa organizacji
 ZHRze	ZHR	subst:sg:voc:m3	nazwa organizacji	
 ZHR	ZHR	subst:sg:nom.acc:m3	nazwa organizacji	
 Ziai	Ziaja	subst:sg:dat.loc:m1	nazwisko	
-Ziai	Ziaja	subst:sg:gen:m1	nazwisko	
 Ziajach	Ziaja	subst:pl:loc:m1	nazwisko	
 Ziajami	Ziaja	subst:pl:inst:m1	nazwisko	
 Ziaja	Ziaja	subst:sg:nom:m1	nazwisko	
@@ -2660,7 +2560,6 @@ Zielaznych	Zielazna	subst:pl:loc:f	nazwisko
 Zielaznymi	Zielazna	subst:pl:inst:f	nazwisko	
 Zielaznym	Zielazna	subst:pl:dat:f	nazwisko	
 Zielaznego	Zielazny	subst:sg:gen.acc:m1	nazwisko	
-Zielaznego	Zielazny	subst:sg:gen:m1	nazwisko	
 Zielaznemu	Zielazny	subst:sg:dat:m1	nazwisko	
 Zielazne	Zielazny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zielaznych	Zielazny	subst:pl:gen.acc:m1	nazwisko	
@@ -2687,7 +2586,6 @@ Zielińscy	Zieliński	subst:pl:nom.voc:m1	nazwisko
 Zielińskich	Zieliński	subst:pl:gen.acc:m1	nazwisko	
 Zielińskich	Zieliński	subst:pl:loc:m1	nazwisko	
 Zielińskiego	Zieliński	subst:sg:gen.acc:m1	nazwisko	
-Zielińskiego	Zieliński	subst:sg:gen:m1	nazwisko	
 Zielińskiemu	Zieliński	subst:sg:dat:m1	nazwisko	
 Zielińskie	Zieliński	depr:pl:nom.acc.voc:m2	nazwisko	
 Zielińskimi	Zieliński	subst:pl:inst:m1	nazwisko	
@@ -2732,7 +2630,6 @@ Ziembińscy	Ziembiński	subst:pl:nom.voc:m1	nazwisko
 Ziembińskich	Ziembiński	subst:pl:gen.acc:m1	nazwisko	
 Ziembińskich	Ziembiński	subst:pl:loc:m1	nazwisko	
 Ziembińskiego	Ziembiński	subst:sg:gen.acc:m1	nazwisko	
-Ziembińskiego	Ziembiński	subst:sg:gen:m1	nazwisko	
 Ziembińskiemu	Ziembiński	subst:sg:dat:m1	nazwisko	
 Ziembińskie	Ziembiński	depr:pl:nom.acc.voc:m2	nazwisko	
 Ziembińskimi	Ziembiński	subst:pl:inst:m1	nazwisko	
@@ -2767,7 +2664,6 @@ Ziemińscy	Ziemiński	subst:pl:nom.voc:m1	nazwisko
 Ziemińskich	Ziemiński	subst:pl:gen.acc:m1	nazwisko	
 Ziemińskich	Ziemiński	subst:pl:loc:m1	nazwisko	
 Ziemińskiego	Ziemiński	subst:sg:gen.acc:m1	nazwisko	
-Ziemińskiego	Ziemiński	subst:sg:gen:m1	nazwisko	
 Ziemińskiemu	Ziemiński	subst:sg:dat:m1	nazwisko	
 Ziemińskie	Ziemiński	depr:pl:nom.acc.voc:m2	nazwisko	
 Ziemińskimi	Ziemiński	subst:pl:inst:m1	nazwisko	
@@ -2781,7 +2677,6 @@ Ziemowicie	Ziemowit	subst:sg:voc:m1	imię
 Ziemowitach	Ziemowit	subst:pl:loc:m1	imię	
 Ziemowitami	Ziemowit	subst:pl:inst:m1	imię	
 Ziemowita	Ziemowit	subst:sg:gen.acc:m1	imię	
-Ziemowita	Ziemowit	subst:sg:gen:m1	imię	
 Ziemowitem	Ziemowit	subst:sg:inst:m1	imię	
 Ziemowitom	Ziemowit	subst:pl:dat:m1	imię	
 Ziemowitowie	Ziemowit	subst:pl:nom.voc:m1	imię	
@@ -2792,7 +2687,6 @@ Ziemowit	Ziemowit	subst:sg:nom:m1	imię
 Zienkiewiczach	Zienkiewicz	subst:pl:loc:m1	nazwisko	
 Zienkiewiczami	Zienkiewicz	subst:pl:inst:m1	nazwisko	
 Zienkiewicza	Zienkiewicz	subst:sg:gen.acc:m1	nazwisko	
-Zienkiewicza	Zienkiewicz	subst:sg:gen:m1	nazwisko	
 Zienkiewiczem	Zienkiewicz	subst:sg:inst:m1	nazwisko	
 Zienkiewicze	Zienkiewicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Zienkiewicze	Zienkiewicz	subst:pl:nom.voc:m1	nazwisko	
@@ -2814,7 +2708,6 @@ Ziębowie	Zięba	subst:pl:nom.voc:m1	nazwisko
 Ziębo	Zięba	subst:sg:voc:m1	nazwisko	
 Ziębów	Zięba	subst:pl:gen.acc:m1	nazwisko	
 Zięby	Zięba	depr:pl:nom.acc.voc:m2	nazwisko	
-Zięby	Zięba	subst:sg:gen:m1	nazwisko	
 Ziębicach	Ziębice	subst:pl:loc:n:pt	nazwa geograficzna	
 Ziębicach	Ziębice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Ziębicami	Ziębice	subst:pl:inst:n:pt	nazwa geograficzna	
@@ -2829,7 +2722,6 @@ Zimbabwe	Zimbabwe	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geografi
 Zimermanach	Zimerman	subst:pl:loc:m1	nazwisko	
 Zimermanami	Zimerman	subst:pl:inst:m1	nazwisko	
 Zimermana	Zimerman	subst:sg:gen.acc:m1	nazwisko	
-Zimermana	Zimerman	subst:sg:gen:m1	nazwisko	
 Zimermanem	Zimerman	subst:sg:inst:m1	nazwisko	
 Zimermanie	Zimerman	subst:sg:loc:m1	nazwisko	
 Zimermanie	Zimerman	subst:sg:voc:m1	nazwisko	
@@ -2843,7 +2735,6 @@ Zimińscy	Zimiński	subst:pl:nom.voc:m1	nazwisko
 Zimińskich	Zimiński	subst:pl:gen.acc:m1	nazwisko	
 Zimińskich	Zimiński	subst:pl:loc:m1	nazwisko	
 Zimińskiego	Zimiński	subst:sg:gen.acc:m1	nazwisko	
-Zimińskiego	Zimiński	subst:sg:gen:m1	nazwisko	
 Zimińskiemu	Zimiński	subst:sg:dat:m1	nazwisko	
 Zimińskie	Zimiński	depr:pl:nom.acc.voc:m2	nazwisko	
 Zimińskimi	Zimiński	subst:pl:inst:m1	nazwisko	
@@ -2855,7 +2746,6 @@ Zimiński	Zimiński	subst:sg:voc:m1	nazwisko
 Zimmermannach	Zimmermann	subst:pl:loc:m1	nazwisko	
 Zimmermannami	Zimmermann	subst:pl:inst:m1	nazwisko	
 Zimmermanna	Zimmermann	subst:sg:gen.acc:m1	nazwisko	
-Zimmermanna	Zimmermann	subst:sg:gen:m1	nazwisko	
 Zimmermannem	Zimmermann	subst:sg:inst:m1	nazwisko	
 Zimmermannie	Zimmermann	subst:sg:loc:m1	nazwisko	
 Zimmermannie	Zimmermann	subst:sg:voc:m1	nazwisko	
@@ -2866,7 +2756,6 @@ Zimmermannów	Zimmermann	subst:pl:gen.acc:m1	nazwisko
 Zimmermanny	Zimmermann	depr:pl:nom.acc.voc:m2	nazwisko	
 Zimmermann	Zimmermann	subst:sg:nom:m1	nazwisko	
 Zimnego	Zimny	subst:sg:gen.acc:m1	nazwisko	
-Zimnego	Zimny	subst:sg:gen:m1	nazwisko	
 Zimnemu	Zimny	subst:sg:dat:m1	nazwisko	
 Zimne	Zimny	depr:pl:nom.acc.voc:m2	nazwisko	
 Zimni	Zimny	subst:pl:nom.voc:m1	nazwisko	
@@ -2894,7 +2783,6 @@ Zimowscy	Zimowski	subst:pl:nom.voc:m1	nazwisko
 Zimowskich	Zimowski	subst:pl:gen.acc:m1	nazwisko	
 Zimowskich	Zimowski	subst:pl:loc:m1	nazwisko	
 Zimowskiego	Zimowski	subst:sg:gen.acc:m1	nazwisko	
-Zimowskiego	Zimowski	subst:sg:gen:m1	nazwisko	
 Zimowskiemu	Zimowski	subst:sg:dat:m1	nazwisko	
 Zimowskie	Zimowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zimowskimi	Zimowski	subst:pl:inst:m1	nazwisko	
@@ -2906,7 +2794,6 @@ Zimowski	Zimowski	subst:sg:voc:m1	nazwisko
 Zinach	Zin	subst:pl:loc:m1	nazwisko	
 Zinami	Zin	subst:pl:inst:m1	nazwisko	
 Zina	Zin	subst:sg:gen.acc:m1	nazwisko	
-Zina	Zin	subst:sg:gen:m1	nazwisko	
 Zinem	Zin	subst:sg:inst:m1	nazwisko	
 Zinie	Zin	subst:sg:loc:m1	nazwisko	
 Zinie	Zin	subst:sg:voc:m1	nazwisko	
@@ -2930,7 +2817,6 @@ Zinaid	Zinaida	subst:pl:gen:f	imię
 Zinkowach	Zinkow	subst:pl:loc:m1	nazwisko	
 Zinkowami	Zinkow	subst:pl:inst:m1	nazwisko	
 Zinkowa	Zinkow	subst:sg:gen.acc:m1	nazwisko	
-Zinkowa	Zinkow	subst:sg:gen:m1	nazwisko	
 Zinkowem	Zinkow	subst:sg:inst:m1	nazwisko	
 Zinkowie	Zinkow	subst:sg:loc:m1	nazwisko	
 Zinkowie	Zinkow	subst:sg:voc:m1	nazwisko	
@@ -2950,7 +2836,6 @@ Ziobro	Ziobro	subst:sg:nom:m1	nazwisko
 Ziobro	Ziobro	subst:sg:voc:m1	nazwisko	
 Ziobrów	Ziobro	subst:pl:gen.acc:m1	nazwisko	
 Ziobry	Ziobro	depr:pl:nom.acc.voc:m2	nazwisko	
-Ziobry	Ziobro	subst:sg:gen:m1	nazwisko	
 Ziobrze	Ziobro	subst:sg:dat.loc:m1	nazwisko	
 Ziółkowska	Ziółkowska	subst:sg:nom:f	nazwisko	
 Ziółkowska	Ziółkowska	subst:sg:voc:f	nazwisko	
@@ -2967,7 +2852,6 @@ Ziółkowscy	Ziółkowski	subst:pl:nom.voc:m1	nazwisko
 Ziółkowskich	Ziółkowski	subst:pl:gen.acc:m1	nazwisko	
 Ziółkowskich	Ziółkowski	subst:pl:loc:m1	nazwisko	
 Ziółkowskiego	Ziółkowski	subst:sg:gen.acc:m1	nazwisko	
-Ziółkowskiego	Ziółkowski	subst:sg:gen:m1	nazwisko	
 Ziółkowskiemu	Ziółkowski	subst:sg:dat:m1	nazwisko	
 Ziółkowskie	Ziółkowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Ziółkowskimi	Ziółkowski	subst:pl:inst:m1	nazwisko	
@@ -2979,7 +2863,6 @@ Ziółkowski	Ziółkowski	subst:sg:voc:m1	nazwisko
 Zipfach	Zipf	subst:pl:loc:m1	nazwisko	
 Zipfami	Zipf	subst:pl:inst:m1	nazwisko	
 Zipfa	Zipf	subst:sg:gen.acc:m1	nazwisko	
-Zipfa	Zipf	subst:sg:gen:m1	nazwisko	
 Zipfem	Zipf	subst:sg:inst:m1	nazwisko	
 Zipfie	Zipf	subst:sg:loc:m1	nazwisko	
 Zipfie	Zipf	subst:sg:voc:m1	nazwisko	
@@ -2992,7 +2875,6 @@ Zipf	Zipf	subst:sg:nom:m1	nazwisko
 Ziukach	Ziuk	subst:pl:loc:m1	nazwisko	
 Ziukami	Ziuk	subst:pl:inst:m1	nazwisko	
 Ziuka	Ziuk	subst:sg:gen.acc:m1	nazwisko	
-Ziuka	Ziuk	subst:sg:gen:m1	nazwisko	
 Ziukiem	Ziuk	subst:sg:inst:m1	nazwisko	
 Ziuki	Ziuk	depr:pl:nom.acc.voc:m2	nazwisko	
 Ziukom	Ziuk	subst:pl:dat:m1	nazwisko	
@@ -3017,7 +2899,6 @@ Ziutek	Ziutek	subst:sg:nom:m1	imię
 Ziutkach	Ziutek	subst:pl:loc:m1	imię	
 Ziutkami	Ziutek	subst:pl:inst:m1	imię	
 Ziutka	Ziutek	subst:sg:gen.acc:m1	imię	
-Ziutka	Ziutek	subst:sg:gen:m1	imię	
 Ziutkiem	Ziutek	subst:sg:inst:m1	imię	
 Ziutki	Ziutek	depr:pl:nom.acc.voc:m2	imię	
 Ziutkom	Ziutek	subst:pl:dat:m1	imię	
@@ -3136,7 +3017,6 @@ Znanieccy	Znaniecki	subst:pl:nom.voc:m1	nazwisko
 Znanieckich	Znaniecki	subst:pl:gen.acc:m1	nazwisko	
 Znanieckich	Znaniecki	subst:pl:loc:m1	nazwisko	
 Znanieckiego	Znaniecki	subst:sg:gen.acc:m1	nazwisko	
-Znanieckiego	Znaniecki	subst:sg:gen:m1	nazwisko	
 Znanieckiemu	Znaniecki	subst:sg:dat:m1	nazwisko	
 Znanieckie	Znaniecki	depr:pl:nom.acc.voc:m2	nazwisko	
 Znanieckimi	Znaniecki	subst:pl:inst:m1	nazwisko	
@@ -3188,7 +3068,6 @@ Zolą	Zola	subst:sg:inst:m1	nazwisko
 Zole	Zola	depr:pl:nom.acc.voc:m2	nazwisko	
 Zolę	Zola	subst:sg:acc:m1	nazwisko	
 Zoli	Zola	subst:sg:dat.loc:m1	nazwisko	
-Zoli	Zola	subst:sg:gen:m1	nazwisko	
 Zolom	Zola	subst:pl:dat:m1	nazwisko	
 Zolowie	Zola	subst:pl:nom.voc:m1	nazwisko	
 Zolo	Zola	subst:sg:voc:m1	nazwisko	
@@ -3271,7 +3150,6 @@ Zoszczenkami	Zoszczenko	subst:pl:inst:m1	nazwisko
 Zoszczenką	Zoszczenko	subst:sg:inst:m1	nazwisko	
 Zoszczenkę	Zoszczenko	subst:sg:acc:m1	nazwisko	
 Zoszczenki	Zoszczenko	depr:pl:nom.acc.voc:m2	nazwisko	
-Zoszczenki	Zoszczenko	subst:sg:gen:m1	nazwisko	
 Zoszczenkom	Zoszczenko	subst:pl:dat:m1	nazwisko	
 Zoszczenkowie	Zoszczenko	subst:pl:nom.voc:m1	nazwisko	
 Zoszczenko	Zoszczenko	subst:sg:nom:m1	nazwisko	
@@ -3303,7 +3181,6 @@ ZPB	ZPB	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa organizacji
 Zrínyich	Zrínyi	subst:pl:gen.acc:m1	nazwisko	
 Zrínyich	Zrínyi	subst:pl:loc:m1	nazwisko	
 Zrínyiego	Zrínyi	subst:sg:gen.acc:m1	nazwisko	
-Zrínyiego	Zrínyi	subst:sg:gen:m1	nazwisko	
 Zrínyiemu	Zrínyi	subst:sg:dat:m1	nazwisko	
 Zrínyie	Zrínyi	depr:pl:nom.acc.voc:m2	nazwisko	
 Zrínyimi	Zrínyi	subst:pl:inst:m1	nazwisko	
@@ -3368,7 +3245,6 @@ ZSZ	ZSZ	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa pospolita
 Zuckmayerach	Zuckmayer	subst:pl:loc:m1	nazwisko	
 Zuckmayerami	Zuckmayer	subst:pl:inst:m1	nazwisko	
 Zuckmayera	Zuckmayer	subst:sg:gen.acc:m1	nazwisko	
-Zuckmayera	Zuckmayer	subst:sg:gen:m1	nazwisko	
 Zuckmayerem	Zuckmayer	subst:sg:inst:m1	nazwisko	
 Zuckmayerom	Zuckmayer	subst:pl:dat:m1	nazwisko	
 Zuckmayerowie	Zuckmayer	subst:pl:nom.voc:m1	nazwisko	
@@ -3395,7 +3271,6 @@ Zul	Zula	subst:pl:gen:f	imię	char.
 Zulusach	Zulus	subst:pl:loc:m1	nazwa pospolita	
 Zulusami	Zulus	subst:pl:inst:m1	nazwa pospolita	
 Zulusa	Zulus	subst:sg:gen.acc:m1	nazwa pospolita	
-Zulusa	Zulus	subst:sg:gen:m1	nazwa pospolita	
 Zulusem	Zulus	subst:sg:inst:m1	nazwa pospolita	
 Zulusie	Zulus	subst:sg:loc:m1	nazwa pospolita	
 Zulusie	Zulus	subst:sg:voc:m1	nazwa pospolita	
@@ -3520,7 +3395,6 @@ Zwardoń	Zwardoń	subst:sg:nom.acc:m3	nazwa geograficzna
 Zweigach	Zweig	subst:pl:loc:m1	nazwisko	
 Zweigami	Zweig	subst:pl:inst:m1	nazwisko	
 Zweiga	Zweig	subst:sg:gen.acc:m1	nazwisko	
-Zweiga	Zweig	subst:sg:gen:m1	nazwisko	
 Zweigiem	Zweig	subst:sg:inst:m1	nazwisko	
 Zweigi	Zweig	depr:pl:nom.acc.voc:m2	nazwisko	
 Zweigom	Zweig	subst:pl:dat:m1	nazwisko	
@@ -3545,7 +3419,6 @@ Zwierzchowscy	Zwierzchowski	subst:pl:nom.voc:m1	nazwisko
 Zwierzchowskich	Zwierzchowski	subst:pl:gen.acc:m1	nazwisko	
 Zwierzchowskich	Zwierzchowski	subst:pl:loc:m1	nazwisko	
 Zwierzchowskiego	Zwierzchowski	subst:sg:gen.acc:m1	nazwisko	
-Zwierzchowskiego	Zwierzchowski	subst:sg:gen:m1	nazwisko	
 Zwierzchowskiemu	Zwierzchowski	subst:sg:dat:m1	nazwisko	
 Zwierzchowskie	Zwierzchowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Zwierzchowskimi	Zwierzchowski	subst:pl:inst:m1	nazwisko	
@@ -3603,7 +3476,6 @@ Zwolińscy	Zwoliński	subst:pl:nom.voc:m1	nazwisko
 Zwolińskich	Zwoliński	subst:pl:gen.acc:m1	nazwisko	
 Zwolińskich	Zwoliński	subst:pl:loc:m1	nazwisko	
 Zwolińskiego	Zwoliński	subst:sg:gen.acc:m1	nazwisko	
-Zwolińskiego	Zwoliński	subst:sg:gen:m1	nazwisko	
 Zwolińskiemu	Zwoliński	subst:sg:dat:m1	nazwisko	
 Zwolińskie	Zwoliński	depr:pl:nom.acc.voc:m2	nazwisko	
 Zwolińskimi	Zwoliński	subst:pl:inst:m1	nazwisko	
@@ -3634,7 +3506,6 @@ ZWZ	ZWZ	subst:sg:nom.acc:m3	nazwa organizacji
 Zychach	Zych	subst:pl:loc:m1	nazwisko	
 Zychami	Zych	subst:pl:inst:m1	nazwisko	
 Zycha	Zych	subst:sg:gen.acc:m1	nazwisko	
-Zycha	Zych	subst:sg:gen:m1	nazwisko	
 Zychem	Zych	subst:sg:inst:m1	nazwisko	
 Zychom	Zych	subst:pl:dat:m1	nazwisko	
 Zychowie	Zych	subst:pl:nom.voc:m1	nazwisko	
@@ -3652,14 +3523,12 @@ Zyga	Zyga	subst:sg:nom:m1	imię
 Zygą	Zyga	subst:sg:inst:m1	imię	
 Zygę	Zyga	subst:sg:acc:m1	imię	
 Zygi	Zyga	depr:pl:nom.acc.voc:m2	imię	
-Zygi	Zyga	subst:sg:gen:m1	imię	
 Zygom	Zyga	subst:pl:dat:m1	imię	
 Zygo	Zyga	subst:sg:voc:m1	imię	
 Zygów	Zyga	subst:pl:gen.acc:m1	imię	
 Zygfrydach	Zygfryd	subst:pl:loc:m1	imię	
 Zygfrydami	Zygfryd	subst:pl:inst:m1	imię	
 Zygfryda	Zygfryd	subst:sg:gen.acc:m1	imię	
-Zygfryda	Zygfryd	subst:sg:gen:m1	imię	
 Zygfrydem	Zygfryd	subst:sg:inst:m1	imię	
 Zygfrydom	Zygfryd	subst:pl:dat:m1	imię	
 Zygfrydowie	Zygfryd	subst:pl:nom.voc:m1	imię	
@@ -3685,7 +3554,6 @@ Zygmuncie	Zygmunt	subst:sg:voc:m1	imię
 Zygmuntach	Zygmunt	subst:pl:loc:m1	imię	
 Zygmuntami	Zygmunt	subst:pl:inst:m1	imię	
 Zygmunta	Zygmunt	subst:sg:gen.acc:m1	imię	
-Zygmunta	Zygmunt	subst:sg:gen:m1	imię	
 Zygmuntem	Zygmunt	subst:sg:inst:m1	imię	
 Zygmuntom	Zygmunt	subst:pl:dat:m1	imię	
 Zygmuntowie	Zygmunt	subst:pl:nom.voc:m1	imię	
@@ -3696,7 +3564,6 @@ Zygmunt	Zygmunt	subst:sg:nom:m1	imię
 Zygmusiach	Zygmuś	subst:pl:loc:m1	imię	
 Zygmusiami	Zygmuś	subst:pl:inst:m1	imię	
 Zygmusia	Zygmuś	subst:sg:gen.acc:m1	imię	
-Zygmusia	Zygmuś	subst:sg:gen:m1	imię	
 Zygmusiem	Zygmuś	subst:sg:inst:m1	imię	
 Zygmusie	Zygmuś	depr:pl:nom.acc.voc:m2	imię	
 Zygmusie	Zygmuś	subst:pl:nom.voc:m1	imię	
@@ -3710,7 +3577,6 @@ Zygmuś	Zygmuś	subst:sg:nom:m1	imię
 Zygusiach	Zyguś	subst:pl:loc:m1	imię	
 Zygusiami	Zyguś	subst:pl:inst:m1	imię	
 Zygusia	Zyguś	subst:sg:gen.acc:m1	imię	
-Zygusia	Zyguś	subst:sg:gen:m1	imię	
 Zygusiem	Zyguś	subst:sg:inst:m1	imię	
 Zygusie	Zyguś	depr:pl:nom.acc.voc:m2	imię	
 Zygusie	Zyguś	subst:pl:nom.voc:m1	imię	
@@ -3724,7 +3590,6 @@ Zyguś	Zyguś	subst:sg:nom:m1	imię
 Zysiach	Zyś	subst:pl:loc:m1	imię	
 Zysiami	Zyś	subst:pl:inst:m1	imię	
 Zysia	Zyś	subst:sg:gen.acc:m1	imię	
-Zysia	Zyś	subst:sg:gen:m1	imię	
 Zysiem	Zyś	subst:sg:inst:m1	imię	
 Zysie	Zyś	depr:pl:nom.acc.voc:m2	imię	
 Zysie	Zyś	subst:pl:nom.voc:m1	imię	

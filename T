@@ -42,7 +42,6 @@ Tacycie	Tacyt	subst:sg:voc:m1	nazwisko
 Tacytach	Tacyt	subst:pl:loc:m1	nazwisko	
 Tacytami	Tacyt	subst:pl:inst:m1	nazwisko	
 Tacyta	Tacyt	subst:sg:gen.acc:m1	nazwisko	
-Tacyta	Tacyt	subst:sg:gen:m1	nazwisko	
 Tacytem	Tacyt	subst:sg:inst:m1	nazwisko	
 Tacytom	Tacyt	subst:pl:dat:m1	nazwisko	
 Tacytowie	Tacyt	subst:pl:nom.voc:m1	nazwisko	
@@ -54,7 +53,6 @@ Tadek	Tadek	subst:sg:nom:m1	imię
 Tadkach	Tadek	subst:pl:loc:m1	imię	
 Tadkami	Tadek	subst:pl:inst:m1	imię	
 Tadka	Tadek	subst:sg:gen.acc:m1	imię	
-Tadka	Tadek	subst:sg:gen:m1	imię	
 Tadkiem	Tadek	subst:sg:inst:m1	imię	
 Tadki	Tadek	depr:pl:nom.acc.voc:m2	imię	
 Tadkom	Tadek	subst:pl:dat:m1	imię	
@@ -66,7 +64,6 @@ Tadku	Tadek	subst:sg:voc:m1	imię
 Tadeuszach	Tadeusz	subst:pl:loc:m1	imię	
 Tadeuszami	Tadeusz	subst:pl:inst:m1	imię	
 Tadeusza	Tadeusz	subst:sg:gen.acc:m1	imię	
-Tadeusza	Tadeusz	subst:sg:gen:m1	imię	
 Tadeuszem	Tadeusz	subst:sg:inst:m1	imię	
 Tadeusze	Tadeusz	depr:pl:nom.acc.voc:m2	imię	
 Tadeusze	Tadeusz	subst:pl:nom.voc:m1	imię	
@@ -81,7 +78,6 @@ Tadeuszek	Tadeuszek	subst:sg:nom:m1	imię
 Tadeuszkach	Tadeuszek	subst:pl:loc:m1	imię	
 Tadeuszkami	Tadeuszek	subst:pl:inst:m1	imię	
 Tadeuszka	Tadeuszek	subst:sg:gen.acc:m1	imię	
-Tadeuszka	Tadeuszek	subst:sg:gen:m1	imię	
 Tadeuszkiem	Tadeuszek	subst:sg:inst:m1	imię	
 Tadeuszki	Tadeuszek	depr:pl:nom.acc.voc:m2	imię	
 Tadeuszkom	Tadeuszek	subst:pl:dat:m1	imię	
@@ -93,7 +89,6 @@ Tadeuszku	Tadeuszek	subst:sg:voc:m1	imię
 Tadzikach	Tadzik	subst:pl:loc:m1	imię	
 Tadzikami	Tadzik	subst:pl:inst:m1	imię	
 Tadzika	Tadzik	subst:sg:gen.acc:m1	imię	
-Tadzika	Tadzik	subst:sg:gen:m1	imię	
 Tadzikiem	Tadzik	subst:sg:inst:m1	imię	
 Tadziki	Tadzik	depr:pl:nom.acc.voc:m2	imię	
 Tadzikom	Tadzik	subst:pl:dat:m1	imię	
@@ -106,7 +101,6 @@ Tadziku	Tadzik	subst:sg:voc:m1	imię
 Tadziach	Tadzio	subst:pl:loc:m1	imię	
 Tadziami	Tadzio	subst:pl:inst:m1	imię	
 Tadzia	Tadzio	subst:sg:gen.acc:m1	imię	
-Tadzia	Tadzio	subst:sg:gen:m1	imię	
 Tadziem	Tadzio	subst:sg:inst:m1	imię	
 Tadzie	Tadzio	depr:pl:nom.acc.voc:m2	imię	
 Tadziom	Tadzio	subst:pl:dat:m1	imię	
@@ -142,7 +136,6 @@ Tadżycy	Tadżyk	subst:pl:nom.voc:m1	nazwa pospolita
 Tadżykach	Tadżyk	subst:pl:loc:m1	nazwa pospolita	
 Tadżykami	Tadżyk	subst:pl:inst:m1	nazwa pospolita	
 Tadżyka	Tadżyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Tadżyka	Tadżyk	subst:sg:gen:m1	nazwa pospolita	
 Tadżykiem	Tadżyk	subst:sg:inst:m1	nazwa pospolita	
 Tadżyki	Tadżyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Tadżykom	Tadżyk	subst:pl:dat:m1	nazwa pospolita	
@@ -166,7 +159,6 @@ Tadżykistany	Tadżykistan	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Tagorach	Tagore	subst:pl:loc:m1	nazwisko	
 Tagorami	Tagore	subst:pl:inst:m1	nazwisko	
 Tagorego	Tagore	subst:sg:gen.acc:m1	nazwisko	
-Tagorego	Tagore	subst:sg:gen:m1	nazwisko	
 Tagorem	Tagore	subst:sg:inst:m1	nazwisko	
 Tagorem	Tagore	subst:sg:loc:m1	nazwisko	
 Tagoremu	Tagore	subst:sg:dat:m1	nazwisko	
@@ -191,14 +183,12 @@ Taho	Taha	subst:sg:voc:m1	nazwisko
 Tahowie	Taha	subst:pl:nom.voc:m1	nazwisko	
 Tahów	Taha	subst:pl:gen.acc:m1	nazwisko	
 Tahy	Taha	depr:pl:nom.acc.voc:m2	nazwisko	
-Tahy	Taha	subst:sg:gen:m1	nazwisko	
 Tasze	Taha	subst:sg:dat.loc:m1	nazwisko	
 Taże	Taha	subst:sg:dat.loc:m1	nazwisko	
 Tahiti	Tahiti	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
 Taine’ach	Taine	subst:pl:loc:m1	nazwisko	
 Taine’ami	Taine	subst:pl:inst:m1	nazwisko	
 Taine’a	Taine	subst:sg:gen.acc:m1	nazwisko	
-Taine’a	Taine	subst:sg:gen:m1	nazwisko	
 Taine’em	Taine	subst:sg:inst:m1	nazwisko	
 Taine’om	Taine	subst:pl:dat:m1	nazwisko	
 Taine’owie	Taine	subst:pl:nom.voc:m1	nazwisko	
@@ -212,7 +202,6 @@ Tajlandczycy	Tajlandczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Tajlandczykach	Tajlandczyk	subst:pl:loc:m1	nazwa pospolita	
 Tajlandczykami	Tajlandczyk	subst:pl:inst:m1	nazwa pospolita	
 Tajlandczyka	Tajlandczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Tajlandczyka	Tajlandczyk	subst:sg:gen:m1	nazwa pospolita	
 Tajlandczykiem	Tajlandczyk	subst:sg:inst:m1	nazwa pospolita	
 Tajlandczyki	Tajlandczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Tajlandczykom	Tajlandczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -247,7 +236,6 @@ Tajlandko	Tajlandka	subst:sg:voc:f	nazwa pospolita
 Tajnerach	Tajner	subst:pl:loc:m1	nazwisko	
 Tajnerami	Tajner	subst:pl:inst:m1	nazwisko	
 Tajnera	Tajner	subst:sg:gen.acc:m1	nazwisko	
-Tajnera	Tajner	subst:sg:gen:m1	nazwisko	
 Tajnerem	Tajner	subst:sg:inst:m1	nazwisko	
 Tajnerom	Tajner	subst:pl:dat:m1	nazwisko	
 Tajnerowie	Tajner	subst:pl:nom.voc:m1	nazwisko	
@@ -283,7 +271,6 @@ Tajwańczycy	Tajwańczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Tajwańczykach	Tajwańczyk	subst:pl:loc:m1	nazwa pospolita	
 Tajwańczykami	Tajwańczyk	subst:pl:inst:m1	nazwa pospolita	
 Tajwańczyka	Tajwańczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Tajwańczyka	Tajwańczyk	subst:sg:gen:m1	nazwa pospolita	
 Tajwańczykiem	Tajwańczyk	subst:sg:inst:m1	nazwa pospolita	
 Tajwańczyki	Tajwańczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Tajwańczykom	Tajwańczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -295,7 +282,6 @@ Tajwańczyku	Tajwańczyk	subst:sg:voc:m1	nazwa pospolita
 Talach	Tal	subst:pl:loc:m1	imię	
 Talami	Tal	subst:pl:inst:m1	imię	
 Tala	Tal	subst:sg:gen.acc:m1	imię	
-Tala	Tal	subst:sg:gen:m1	imię	
 Talem	Tal	subst:sg:inst:m1	imię	
 Tale	Tal	depr:pl:nom.acc.voc:m2	imię	
 Talom	Tal	subst:pl:dat:m1	imię	
@@ -319,7 +305,6 @@ Talu	Tala	subst:sg:voc:f	imię
 Talesach	Tales	subst:pl:loc:m1	imię	
 Talesami	Tales	subst:pl:inst:m1	imię	
 Talesa	Tales	subst:sg:gen.acc:m1	imię	
-Talesa	Tales	subst:sg:gen:m1	imię	
 Talesem	Tales	subst:sg:inst:m1	imię	
 Talesie	Tales	subst:sg:loc:m1	imię	
 Talesie	Tales	subst:sg:voc:m1	imię	
@@ -333,7 +318,6 @@ Talesy	Tales	depr:pl:nom.acc.voc:m2	imię
 Talibach	Talib	subst:pl:loc:m1	imię	
 Talibami	Talib	subst:pl:inst:m1	imię	
 Taliba	Talib	subst:sg:gen.acc:m1	imię	
-Taliba	Talib	subst:sg:gen:m1	imię	
 Talibem	Talib	subst:sg:inst:m1	imię	
 Talibie	Talib	subst:sg:loc:m1	imię	
 Talibie	Talib	subst:sg:voc:m1	imię	
@@ -357,7 +341,6 @@ Talko	Talka	subst:sg:voc:f	imię
 Talleyrandach	Talleyrand	subst:pl:loc:m1	nazwisko	
 Talleyrandami	Talleyrand	subst:pl:inst:m1	nazwisko	
 Talleyranda	Talleyrand	subst:sg:gen.acc:m1	nazwisko	
-Talleyranda	Talleyrand	subst:sg:gen:m1	nazwisko	
 Talleyrandem	Talleyrand	subst:sg:inst:m1	nazwisko	
 Talleyrandom	Talleyrand	subst:pl:dat:m1	nazwisko	
 Talleyrandowie	Talleyrand	subst:pl:nom.voc:m1	nazwisko	
@@ -414,7 +397,6 @@ Tamarze	Tamara	subst:sg:dat.loc:f	imię
 Tamerlanach	Tamerlan	subst:pl:loc:m1	imię	
 Tamerlanami	Tamerlan	subst:pl:inst:m1	imię	
 Tamerlana	Tamerlan	subst:sg:gen.acc:m1	imię	
-Tamerlana	Tamerlan	subst:sg:gen:m1	imię	
 Tamerlanem	Tamerlan	subst:sg:inst:m1	imię	
 Tamerlanie	Tamerlan	subst:sg:loc:m1	imię	
 Tamerlanie	Tamerlan	subst:sg:voc:m1	imię	
@@ -427,7 +409,6 @@ Tamerlany	Tamerlan	depr:pl:nom.acc.voc:m2	imię
 Tamilach	Tamil	subst:pl:loc:m1	nazwa pospolita	
 Tamilami	Tamil	subst:pl:inst:m1	nazwa pospolita	
 Tamila	Tamil	subst:sg:gen.acc:m1	nazwa pospolita	
-Tamila	Tamil	subst:sg:gen:m1	nazwa pospolita	
 Tamilem	Tamil	subst:sg:inst:m1	nazwa pospolita	
 Tamile	Tamil	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Tamile	Tamil	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -463,7 +444,6 @@ Tamizy	Tamiza	subst:sg:gen:f	nazwa geograficzna
 Tanatosach	Tanatos	subst:pl:loc:m1	imię	mit.
 Tanatosami	Tanatos	subst:pl:inst:m1	imię	mit.
 Tanatosa	Tanatos	subst:sg:gen.acc:m1	imię	mit.
-Tanatosa	Tanatos	subst:sg:gen:m1	imię	mit.
 Tanatosem	Tanatos	subst:sg:inst:m1	imię	mit.
 Tanatosie	Tanatos	subst:sg:loc:m1	imię	mit.
 Tanatosie	Tanatos	subst:sg:voc:m1	imię	mit.
@@ -478,7 +458,6 @@ Tanek	Tanek	subst:sg:nom:m1	imię
 Tankach	Tanek	subst:pl:loc:m1	imię	
 Tankami	Tanek	subst:pl:inst:m1	imię	
 Tanka	Tanek	subst:sg:gen.acc:m1	imię	
-Tanka	Tanek	subst:sg:gen:m1	imię	
 Tankiem	Tanek	subst:sg:inst:m1	imię	
 Tanki	Tanek	depr:pl:nom.acc.voc:m2	imię	
 Tankom	Tanek	subst:pl:dat:m1	imię	
@@ -536,7 +515,6 @@ Tanny	Tanna	subst:sg:gen:f	imię
 Tantalach	Tantal	subst:pl:loc:m1	imię	mit.
 Tantalami	Tantal	subst:pl:inst:m1	imię	mit.
 Tantala	Tantal	subst:sg:gen.acc:m1	imię	mit.
-Tantala	Tantal	subst:sg:gen:m1	imię	mit.
 Tantalem	Tantal	subst:sg:inst:m1	imię	mit.
 Tantale	Tantal	depr:pl:nom.acc.voc:m2	imię	mit.
 Tantale	Tantal	subst:pl:nom.voc:m1	imię	mit.
@@ -573,7 +551,6 @@ Tanzańczycy	Tanzańczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Tanzańczykach	Tanzańczyk	subst:pl:loc:m1	nazwa pospolita	
 Tanzańczykami	Tanzańczyk	subst:pl:inst:m1	nazwa pospolita	
 Tanzańczyka	Tanzańczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Tanzańczyka	Tanzańczyk	subst:sg:gen:m1	nazwa pospolita	
 Tanzańczykiem	Tanzańczyk	subst:sg:inst:m1	nazwa pospolita	
 Tanzańczyki	Tanzańczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Tanzańczykom	Tanzańczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -597,7 +574,6 @@ Tańscy	Tański	subst:pl:nom.voc:m1	nazwisko
 Tańskich	Tański	subst:pl:gen.acc:m1	nazwisko	
 Tańskich	Tański	subst:pl:loc:m1	nazwisko	
 Tańskiego	Tański	subst:sg:gen.acc:m1	nazwisko	
-Tańskiego	Tański	subst:sg:gen:m1	nazwisko	
 Tańskiemu	Tański	subst:sg:dat:m1	nazwisko	
 Tańskie	Tański	depr:pl:nom.acc.voc:m2	nazwisko	
 Tańskimi	Tański	subst:pl:inst:m1	nazwisko	
@@ -609,7 +585,6 @@ Tański	Tański	subst:sg:voc:m1	nazwisko
 Tarantinach	Tarantino	subst:pl:loc:m1	nazwisko	
 Tarantinami	Tarantino	subst:pl:inst:m1	nazwisko	
 Tarantina	Tarantino	subst:sg:gen.acc:m1	nazwisko	
-Tarantina	Tarantino	subst:sg:gen:m1	nazwisko	
 Tarantinem	Tarantino	subst:sg:inst:m1	nazwisko	
 Tarantinie	Tarantino	subst:sg:loc:m1	nazwisko	
 Tarantinom	Tarantino	subst:pl:dat:m1	nazwisko	
@@ -624,7 +599,6 @@ Tarantiny	Tarantino	depr:pl:nom.acc.voc:m2	nazwisko
 Tarasach	Taras	subst:pl:loc:m1	imię	
 Tarasami	Taras	subst:pl:inst:m1	imię	
 Tarasa	Taras	subst:sg:gen.acc:m1	imię	
-Tarasa	Taras	subst:sg:gen:m1	imię	
 Tarasem	Taras	subst:sg:inst:m1	imię	
 Tarasie	Taras	subst:sg:loc:m1	imię	
 Tarasie	Taras	subst:sg:voc:m1	imię	
@@ -693,7 +667,6 @@ Tarkowscy	Tarkowski	subst:pl:nom.voc:m1	nazwisko
 Tarkowskich	Tarkowski	subst:pl:gen.acc:m1	nazwisko	
 Tarkowskich	Tarkowski	subst:pl:loc:m1	nazwisko	
 Tarkowskiego	Tarkowski	subst:sg:gen.acc:m1	nazwisko	
-Tarkowskiego	Tarkowski	subst:sg:gen:m1	nazwisko	
 Tarkowskiemu	Tarkowski	subst:sg:dat:m1	nazwisko	
 Tarkowskie	Tarkowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Tarkowskimi	Tarkowski	subst:pl:inst:m1	nazwisko	
@@ -713,7 +686,6 @@ Tarło	Tarło	subst:sg:voc:m1	nazwisko
 Tarłowie	Tarło	subst:pl:nom.voc:m1	nazwisko	
 Tarłów	Tarło	subst:pl:gen.acc:m1	nazwisko	
 Tarły	Tarło	depr:pl:nom.acc.voc:m2	nazwisko	
-Tarły	Tarło	subst:sg:gen:m1	nazwisko	
 Tarłowach	Tarłów	subst:pl:loc:m3	nazwa geograficzna	
 Tarłowami	Tarłów	subst:pl:inst:m3	nazwa geograficzna	
 Tarłowa	Tarłów	subst:sg:gen:m3	nazwa geograficzna	
@@ -787,7 +759,6 @@ Tarnowscy	Tarnowski	subst:pl:nom.voc:m1	nazwisko
 Tarnowskich	Tarnowski	subst:pl:gen.acc:m1	nazwisko	
 Tarnowskich	Tarnowski	subst:pl:loc:m1	nazwisko	
 Tarnowskiego	Tarnowski	subst:sg:gen.acc:m1	nazwisko	
-Tarnowskiego	Tarnowski	subst:sg:gen:m1	nazwisko	
 Tarnowskiemu	Tarnowski	subst:sg:dat:m1	nazwisko	
 Tarnowskie	Tarnowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Tarnowskimi	Tarnowski	subst:pl:inst:m1	nazwisko	
@@ -832,7 +803,6 @@ Tarnówko	Tarnówka	subst:sg:voc:f	nazwa geograficzna
 Tarzanach	Tarzan	subst:pl:loc:m1	imię	
 Tarzanami	Tarzan	subst:pl:inst:m1	imię	
 Tarzana	Tarzan	subst:sg:gen.acc:m1	imię	
-Tarzana	Tarzan	subst:sg:gen:m1	imię	
 Tarzanem	Tarzan	subst:sg:inst:m1	imię	
 Tarzanie	Tarzan	subst:sg:loc:m1	imię	
 Tarzanie	Tarzan	subst:sg:voc:m1	imię	
@@ -857,7 +827,6 @@ Tasmanio	Tasmania	subst:sg:voc:f	nazwa geograficzna
 Tassach	Tasso	subst:pl:loc:m1	nazwisko	
 Tassami	Tasso	subst:pl:inst:m1	nazwisko	
 Tassa	Tasso	subst:sg:gen.acc:m1	nazwisko	
-Tassa	Tasso	subst:sg:gen:m1	nazwisko	
 Tassem	Tasso	subst:sg:inst:m1	nazwisko	
 Tassie	Tasso	subst:sg:loc:m1	nazwisko	
 Tassom	Tasso	subst:pl:dat:m1	nazwisko	
@@ -904,7 +873,6 @@ Taszyccy	Taszycki	subst:pl:nom.voc:m1	nazwisko
 Taszyckich	Taszycki	subst:pl:gen.acc:m1	nazwisko	
 Taszyckich	Taszycki	subst:pl:loc:m1	nazwisko	
 Taszyckiego	Taszycki	subst:sg:gen.acc:m1	nazwisko	
-Taszyckiego	Taszycki	subst:sg:gen:m1	nazwisko	
 Taszyckiemu	Taszycki	subst:sg:dat:m1	nazwisko	
 Taszyckie	Taszycki	depr:pl:nom.acc.voc:m2	nazwisko	
 Taszyckimi	Taszycki	subst:pl:inst:m1	nazwisko	
@@ -916,7 +884,6 @@ Taszycki	Taszycki	subst:sg:voc:m1	nazwisko
 Tatarach	Tatar	subst:pl:loc:m1	nazwa pospolita	
 Tatarami	Tatar	subst:pl:inst:m1	nazwa pospolita	
 Tatara	Tatar	subst:sg:gen.acc:m1	nazwa pospolita	
-Tatara	Tatar	subst:sg:gen:m1	nazwa pospolita	
 Tatarem	Tatar	subst:sg:inst:m1	nazwa pospolita	
 Tatarom	Tatar	subst:pl:dat:m1	nazwa pospolita	
 Tatarowi	Tatar	subst:sg:dat:m1	nazwa pospolita	
@@ -952,7 +919,6 @@ Tatarko	Tatarka	subst:sg:voc:f	nazwa pospolita
 Tatarkiewiczach	Tatarkiewicz	subst:pl:loc:m1	nazwisko	
 Tatarkiewiczami	Tatarkiewicz	subst:pl:inst:m1	nazwisko	
 Tatarkiewicza	Tatarkiewicz	subst:sg:gen.acc:m1	nazwisko	
-Tatarkiewicza	Tatarkiewicz	subst:sg:gen:m1	nazwisko	
 Tatarkiewiczem	Tatarkiewicz	subst:sg:inst:m1	nazwisko	
 Tatarkiewicze	Tatarkiewicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Tatarkiewicze	Tatarkiewicz	subst:pl:nom.voc:m1	nazwisko	
@@ -966,7 +932,6 @@ Tatarkiewiczu	Tatarkiewicz	subst:sg:voc:m1	nazwisko
 Tatarzynach	Tatarzyn	subst:pl:loc:m1	nazwa pospolita	
 Tatarzynami	Tatarzyn	subst:pl:inst:m1	nazwa pospolita	
 Tatarzyna	Tatarzyn	subst:sg:gen.acc:m1	nazwa pospolita	
-Tatarzyna	Tatarzyn	subst:sg:gen:m1	nazwa pospolita	
 Tatarzynem	Tatarzyn	subst:sg:inst:m1	nazwa pospolita	
 Tatarzynie	Tatarzyn	subst:sg:loc:m1	nazwa pospolita	
 Tatarzynie	Tatarzyn	subst:sg:voc:m1	nazwa pospolita	
@@ -981,7 +946,6 @@ Tacie	Tate	subst:sg:voc:m1	nazwisko
 Tate’ach	Tate	subst:pl:loc:m1	nazwisko	
 Tate’ami	Tate	subst:pl:inst:m1	nazwisko	
 Tate’a	Tate	subst:sg:gen.acc:m1	nazwisko	
-Tate’a	Tate	subst:sg:gen:m1	nazwisko	
 Tate’em	Tate	subst:sg:inst:m1	nazwisko	
 Tate’om	Tate	subst:pl:dat:m1	nazwisko	
 Tate’owie	Tate	subst:pl:nom.voc:m1	nazwisko	
@@ -1024,7 +988,6 @@ Taurydzie	Tauryda	subst:sg:dat.loc:f	nazwa geograficzna
 Taylorach	Taylor	subst:pl:loc:m1	nazwisko	
 Taylorami	Taylor	subst:pl:inst:m1	nazwisko	
 Taylora	Taylor	subst:sg:gen.acc:m1	nazwisko	
-Taylora	Taylor	subst:sg:gen:m1	nazwisko	
 Taylorem	Taylor	subst:sg:inst:m1	nazwisko	
 Taylorom	Taylor	subst:pl:dat:m1	nazwisko	
 Taylorowie	Taylor	subst:pl:nom.voc:m1	nazwisko	
@@ -1082,7 +1045,6 @@ Teherany	Teheran	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Teilhardach	Teilhard	subst:pl:loc:m1	nazwisko	
 Teilhardami	Teilhard	subst:pl:inst:m1	nazwisko	
 Teilharda	Teilhard	subst:sg:gen.acc:m1	nazwisko	
-Teilharda	Teilhard	subst:sg:gen:m1	nazwisko	
 Teilhardem	Teilhard	subst:sg:inst:m1	nazwisko	
 Teilhardom	Teilhard	subst:pl:dat:m1	nazwisko	
 Teilhardowie	Teilhard	subst:pl:nom.voc:m1	nazwisko	
@@ -1175,7 +1137,6 @@ Teleexpressy	Teleexpress	subst:pl:nom.acc.voc:m3	tytuł
 Telemannach	Telemann	subst:pl:loc:m1	nazwisko	
 Telemannami	Telemann	subst:pl:inst:m1	nazwisko	
 Telemanna	Telemann	subst:sg:gen.acc:m1	nazwisko	
-Telemanna	Telemann	subst:sg:gen:m1	nazwisko	
 Telemannem	Telemann	subst:sg:inst:m1	nazwisko	
 Telemannie	Telemann	subst:sg:loc:m1	nazwisko	
 Telemannie	Telemann	subst:sg:voc:m1	nazwisko	
@@ -1188,7 +1149,6 @@ Telemanny	Telemann	depr:pl:nom.acc.voc:m2	nazwisko
 Telesforach	Telesfor	subst:pl:loc:m1	imię	
 Telesforami	Telesfor	subst:pl:inst:m1	imię	
 Telesfora	Telesfor	subst:sg:gen.acc:m1	imię	
-Telesfora	Telesfor	subst:sg:gen:m1	imię	
 Telesforem	Telesfor	subst:sg:inst:m1	imię	
 Telesforom	Telesfor	subst:pl:dat:m1	imię	
 Telesforowie	Telesfor	subst:pl:nom.voc:m1	imię	
@@ -1213,7 +1173,6 @@ Telimeny	Telimena	subst:sg:gen:f	imię
 Tellach	Tell	subst:pl:loc:m1	przydomek	
 Tellami	Tell	subst:pl:inst:m1	przydomek	
 Tella	Tell	subst:sg:gen.acc:m1	przydomek	
-Tella	Tell	subst:sg:gen:m1	przydomek	
 Tellem	Tell	subst:sg:inst:m1	przydomek	
 Telle	Tell	depr:pl:nom.acc.voc:m2	przydomek	
 Telle	Tell	subst:pl:nom.voc:m1	przydomek	
@@ -1238,7 +1197,6 @@ Temidzie	Temida	subst:sg:dat.loc:f	imię	mit.
 Temistoklesach	Temistokles	subst:pl:loc:m1	imię	
 Temistoklesami	Temistokles	subst:pl:inst:m1	imię	
 Temistoklesa	Temistokles	subst:sg:gen.acc:m1	imię	
-Temistoklesa	Temistokles	subst:sg:gen:m1	imię	
 Temistoklesem	Temistokles	subst:sg:inst:m1	imię	
 Temistoklesie	Temistokles	subst:sg:loc:m1	imię	
 Temistoklesie	Temistokles	subst:sg:voc:m1	imię	
@@ -1253,7 +1211,6 @@ Tennessee	Tennessee	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geogra
 Tennysonach	Tennyson	subst:pl:loc:m1	nazwisko	
 Tennysonami	Tennyson	subst:pl:inst:m1	nazwisko	
 Tennysona	Tennyson	subst:sg:gen.acc:m1	nazwisko	
-Tennysona	Tennyson	subst:sg:gen:m1	nazwisko	
 Tennysonem	Tennyson	subst:sg:inst:m1	nazwisko	
 Tennysonie	Tennyson	subst:sg:loc:m1	nazwisko	
 Tennysonie	Tennyson	subst:sg:voc:m1	nazwisko	
@@ -1266,7 +1223,6 @@ Tennysony	Tennyson	depr:pl:nom.acc.voc:m2	nazwisko
 Teobaldach	Teobald	subst:pl:loc:m1	imię	
 Teobaldami	Teobald	subst:pl:inst:m1	imię	
 Teobalda	Teobald	subst:sg:gen.acc:m1	imię	
-Teobalda	Teobald	subst:sg:gen:m1	imię	
 Teobaldem	Teobald	subst:sg:inst:m1	imię	
 Teobaldom	Teobald	subst:pl:dat:m1	imię	
 Teobaldowie	Teobald	subst:pl:nom.voc:m1	imię	
@@ -1279,7 +1235,6 @@ Teobaldzie	Teobald	subst:sg:voc:m1	imię
 Teodorach	Teodor	subst:pl:loc:m1	imię	
 Teodorami	Teodor	subst:pl:inst:m1	imię	
 Teodora	Teodor	subst:sg:gen.acc:m1	imię	
-Teodora	Teodor	subst:sg:gen:m1	imię	
 Teodorem	Teodor	subst:sg:inst:m1	imię	
 Teodorom	Teodor	subst:pl:dat:m1	imię	
 Teodorowie	Teodor	subst:pl:nom.voc:m1	imię	
@@ -1304,7 +1259,6 @@ Teodorek	Teodorek	subst:sg:nom:m1	imię
 Teodorkach	Teodorek	subst:pl:loc:m1	imię	
 Teodorkami	Teodorek	subst:pl:inst:m1	imię	
 Teodorka	Teodorek	subst:sg:gen.acc:m1	imię	
-Teodorka	Teodorek	subst:sg:gen:m1	imię	
 Teodorkiem	Teodorek	subst:sg:inst:m1	imię	
 Teodorki	Teodorek	depr:pl:nom.acc.voc:m2	imię	
 Teodorkom	Teodorek	subst:pl:dat:m1	imię	
@@ -1316,7 +1270,6 @@ Teodorku	Teodorek	subst:sg:voc:m1	imię
 Teodorykach	Teodoryk	subst:pl:loc:m1	imię	
 Teodorykami	Teodoryk	subst:pl:inst:m1	imię	
 Teodoryka	Teodoryk	subst:sg:gen.acc:m1	imię	
-Teodoryka	Teodoryk	subst:sg:gen:m1	imię	
 Teodorykiem	Teodoryk	subst:sg:inst:m1	imię	
 Teodoryki	Teodoryk	depr:pl:nom.acc.voc:m2	imię	
 Teodorykom	Teodoryk	subst:pl:dat:m1	imię	
@@ -1343,7 +1296,6 @@ Teodocie	Teodot	subst:sg:voc:m1	imię
 Teodotach	Teodot	subst:pl:loc:m1	imię	
 Teodotami	Teodot	subst:pl:inst:m1	imię	
 Teodota	Teodot	subst:sg:gen.acc:m1	imię	
-Teodota	Teodot	subst:sg:gen:m1	imię	
 Teodotem	Teodot	subst:sg:inst:m1	imię	
 Teodotom	Teodot	subst:pl:dat:m1	imię	
 Teodotowie	Teodot	subst:pl:nom.voc:m1	imię	
@@ -1366,7 +1318,6 @@ Teodozyj	Teodozja	subst:pl:gen:f	imię	arch.|char.
 Teodozjuszach	Teodozjusz	subst:pl:loc:m1	imię	
 Teodozjuszami	Teodozjusz	subst:pl:inst:m1	imię	
 Teodozjusza	Teodozjusz	subst:sg:gen.acc:m1	imię	
-Teodozjusza	Teodozjusz	subst:sg:gen:m1	imię	
 Teodozjuszem	Teodozjusz	subst:sg:inst:m1	imię	
 Teodozjusze	Teodozjusz	depr:pl:nom.acc.voc:m2	imię	
 Teodozjusze	Teodozjusz	subst:pl:nom.voc:m1	imię	
@@ -1380,7 +1331,6 @@ Teodozjuszu	Teodozjusz	subst:sg:voc:m1	imię
 Teofanach	Teofan	subst:pl:loc:m1	imię	
 Teofanami	Teofan	subst:pl:inst:m1	imię	
 Teofana	Teofan	subst:sg:gen.acc:m1	imię	
-Teofana	Teofan	subst:sg:gen:m1	imię	
 Teofanem	Teofan	subst:sg:inst:m1	imię	
 Teofanie	Teofan	subst:sg:loc:m1	imię	
 Teofanie	Teofan	subst:sg:voc:m1	imię	
@@ -1394,7 +1344,6 @@ Teofany	Teofan	depr:pl:nom.acc.voc:m2	imię
 Teofilach	Teofil	subst:pl:loc:m1	imię	
 Teofilami	Teofil	subst:pl:inst:m1	imię	
 Teofila	Teofil	subst:sg:gen.acc:m1	imię	
-Teofila	Teofil	subst:sg:gen:m1	imię	
 Teofilem	Teofil	subst:sg:inst:m1	imię	
 Teofile	Teofil	depr:pl:nom.acc.voc:m2	imię	
 Teofile	Teofil	subst:pl:nom.voc:m1	imię	
@@ -1422,7 +1371,6 @@ Teofilek	Teofilek	subst:sg:nom:m1	imię
 Teofilkach	Teofilek	subst:pl:loc:m1	imię	
 Teofilkami	Teofilek	subst:pl:inst:m1	imię	
 Teofilka	Teofilek	subst:sg:gen.acc:m1	imię	
-Teofilka	Teofilek	subst:sg:gen:m1	imię	
 Teofilkiem	Teofilek	subst:sg:inst:m1	imię	
 Teofilki	Teofilek	depr:pl:nom.acc.voc:m2	imię	
 Teofilkom	Teofilek	subst:pl:dat:m1	imię	
@@ -1445,7 +1393,6 @@ Teofilko	Teofilka	subst:sg:voc:f	imię
 Teofrastach	Teofrast	subst:pl:loc:m1	imię	
 Teofrastami	Teofrast	subst:pl:inst:m1	imię	
 Teofrasta	Teofrast	subst:sg:gen.acc:m1	imię	
-Teofrasta	Teofrast	subst:sg:gen:m1	imię	
 Teofrastem	Teofrast	subst:sg:inst:m1	imię	
 Teofrastom	Teofrast	subst:pl:dat:m1	imię	
 Teofrastowie	Teofrast	subst:pl:nom.voc:m1	imię	
@@ -1458,7 +1405,6 @@ Teofraście	Teofrast	subst:sg:voc:m1	imię
 Teognostach	Teognost	subst:pl:loc:m1	imię	
 Teognostami	Teognost	subst:pl:inst:m1	imię	
 Teognosta	Teognost	subst:sg:gen.acc:m1	imię	
-Teognosta	Teognost	subst:sg:gen:m1	imię	
 Teognostem	Teognost	subst:sg:inst:m1	imię	
 Teognostom	Teognost	subst:pl:dat:m1	imię	
 Teognostowie	Teognost	subst:pl:nom.voc:m1	imię	
@@ -1473,7 +1419,6 @@ Teokrycie	Teokryt	subst:sg:voc:m1	imię
 Teokrytach	Teokryt	subst:pl:loc:m1	imię	
 Teokrytami	Teokryt	subst:pl:inst:m1	imię	
 Teokryta	Teokryt	subst:sg:gen.acc:m1	imię	
-Teokryta	Teokryt	subst:sg:gen:m1	imię	
 Teokrytem	Teokryt	subst:sg:inst:m1	imię	
 Teokrytom	Teokryt	subst:pl:dat:m1	imię	
 Teokrytowie	Teokryt	subst:pl:nom.voc:m1	imię	
@@ -1484,7 +1429,6 @@ Teokryty	Teokryt	depr:pl:nom.acc.voc:m2	imię
 Teonasach	Teonas	subst:pl:loc:m1	imię	
 Teonasami	Teonas	subst:pl:inst:m1	imię	
 Teonasa	Teonas	subst:sg:gen.acc:m1	imię	
-Teonasa	Teonas	subst:sg:gen:m1	imię	
 Teonasem	Teonas	subst:sg:inst:m1	imię	
 Teonasie	Teonas	subst:sg:loc:m1	imię	
 Teonasie	Teonas	subst:sg:voc:m1	imię	
@@ -1498,7 +1442,6 @@ Teonasy	Teonas	depr:pl:nom.acc.voc:m2	imię
 Teosiach	Teoś	subst:pl:loc:m1	imię	
 Teosiami	Teoś	subst:pl:inst:m1	imię	
 Teosia	Teoś	subst:sg:gen.acc:m1	imię	
-Teosia	Teoś	subst:sg:gen:m1	imię	
 Teosiem	Teoś	subst:sg:inst:m1	imię	
 Teosie	Teoś	depr:pl:nom.acc.voc:m2	imię	
 Teosie	Teoś	subst:pl:nom.voc:m1	imię	
@@ -1512,7 +1455,6 @@ Teoś	Teoś	subst:sg:nom:m1	imię
 Terencjuszach	Terencjusz	subst:pl:loc:m1	imię	
 Terencjuszami	Terencjusz	subst:pl:inst:m1	imię	
 Terencjusza	Terencjusz	subst:sg:gen.acc:m1	imię	
-Terencjusza	Terencjusz	subst:sg:gen:m1	imię	
 Terencjuszem	Terencjusz	subst:sg:inst:m1	imię	
 Terencjusze	Terencjusz	depr:pl:nom.acc.voc:m2	imię	
 Terencjusze	Terencjusz	subst:pl:nom.voc:m1	imię	
@@ -1607,7 +1549,6 @@ Terleccy	Terlecki	subst:pl:nom.voc:m1	nazwisko
 Terleckich	Terlecki	subst:pl:gen.acc:m1	nazwisko	
 Terleckich	Terlecki	subst:pl:loc:m1	nazwisko	
 Terleckiego	Terlecki	subst:sg:gen.acc:m1	nazwisko	
-Terleckiego	Terlecki	subst:sg:gen:m1	nazwisko	
 Terleckiemu	Terlecki	subst:sg:dat:m1	nazwisko	
 Terleckie	Terlecki	depr:pl:nom.acc.voc:m2	nazwisko	
 Terleckimi	Terlecki	subst:pl:inst:m1	nazwisko	
@@ -1629,7 +1570,6 @@ Termopilom	Termopile	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Tertulianach	Tertulian	subst:pl:loc:m1	imię	
 Tertulianami	Tertulian	subst:pl:inst:m1	imię	
 Tertuliana	Tertulian	subst:sg:gen.acc:m1	imię	
-Tertuliana	Tertulian	subst:sg:gen:m1	imię	
 Tertulianem	Tertulian	subst:sg:inst:m1	imię	
 Tertulianie	Tertulian	subst:sg:loc:m1	imię	
 Tertulianie	Tertulian	subst:sg:voc:m1	imię	
@@ -1656,7 +1596,6 @@ Tesaloniczanach	Tesaloniczanin	subst:pl:loc:m1	nazwa pospolita
 Tesaloniczanami	Tesaloniczanin	subst:pl:inst:m1	nazwa pospolita	
 Tesaloniczanie	Tesaloniczanin	subst:pl:nom.voc:m1	nazwa pospolita	
 Tesaloniczanina	Tesaloniczanin	subst:sg:gen.acc:m1	nazwa pospolita	
-Tesaloniczanina	Tesaloniczanin	subst:sg:gen:m1	nazwa pospolita	
 Tesaloniczaninem	Tesaloniczanin	subst:sg:inst:m1	nazwa pospolita	
 Tesaloniczaninie	Tesaloniczanin	subst:sg:loc:m1	nazwa pospolita	
 Tesaloniczaninie	Tesaloniczanin	subst:sg:voc:m1	nazwa pospolita	
@@ -1699,7 +1638,6 @@ Tet	Tet	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa święta
 Tetmajerach	Tetmajer	subst:pl:loc:m1	nazwisko	
 Tetmajerami	Tetmajer	subst:pl:inst:m1	nazwisko	
 Tetmajera	Tetmajer	subst:sg:gen.acc:m1	nazwisko	
-Tetmajera	Tetmajer	subst:sg:gen:m1	nazwisko	
 Tetmajerem	Tetmajer	subst:sg:inst:m1	nazwisko	
 Tetmajerom	Tetmajer	subst:pl:dat:m1	nazwisko	
 Tetmajerowie	Tetmajer	subst:pl:nom.voc:m1	nazwisko	
@@ -1723,7 +1661,6 @@ Tetydzie	Tetyda	subst:sg:dat.loc:f	imię	mit.
 Teutonach	Teuton	subst:pl:loc:m1	nazwa pospolita	
 Teutonami	Teuton	subst:pl:inst:m1	nazwa pospolita	
 Teutona	Teuton	subst:sg:gen.acc:m1	nazwa pospolita	
-Teutona	Teuton	subst:sg:gen:m1	nazwa pospolita	
 Teutonem	Teuton	subst:sg:inst:m1	nazwa pospolita	
 Teutonie	Teuton	subst:sg:loc:m1	nazwa pospolita	
 Teutonie	Teuton	subst:sg:voc:m1	nazwa pospolita	
@@ -1745,11 +1682,9 @@ Tezcatlipoco	Tezcatlipoca	subst:sg:voc:m1	imię	mit.
 Tezcatlipocowie	Tezcatlipoca	subst:pl:nom.voc:m1	imię	mit.
 Tezcatlipoców	Tezcatlipoca	subst:pl:gen.acc:m1	imię	mit.
 Tezcatlipoki	Tezcatlipoca	depr:pl:nom.acc.voc:m2	imię	mit.
-Tezcatlipoki	Tezcatlipoca	subst:sg:gen:m1	imię	mit.
 Tezeuszach	Tezeusz	subst:pl:loc:m1	imię	
 Tezeuszami	Tezeusz	subst:pl:inst:m1	imię	
 Tezeusza	Tezeusz	subst:sg:gen.acc:m1	imię	
-Tezeusza	Tezeusz	subst:sg:gen:m1	imię	
 Tezeuszem	Tezeusz	subst:sg:inst:m1	imię	
 Tezeusze	Tezeusz	depr:pl:nom.acc.voc:m2	imię	
 Tezeusze	Tezeusz	subst:pl:nom.voc:m1	imię	
@@ -1774,7 +1709,6 @@ Tęgobór	Tęgobór	subst:sg:nom.acc:m3	nazwa własna
 Tęgomirach	Tęgomir	subst:pl:loc:m1	imię	
 Tęgomirami	Tęgomir	subst:pl:inst:m1	imię	
 Tęgomira	Tęgomir	subst:sg:gen.acc:m1	imię	
-Tęgomira	Tęgomir	subst:sg:gen:m1	imię	
 Tęgomirem	Tęgomir	subst:sg:inst:m1	imię	
 Tęgomirom	Tęgomir	subst:pl:dat:m1	imię	
 Tęgomirowie	Tęgomir	subst:pl:nom.voc:m1	imię	
@@ -1790,7 +1724,6 @@ TGV	TGV	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	marka
 Thackerayach	Thackeray	subst:pl:loc:m1	nazwisko	
 Thackerayami	Thackeray	subst:pl:inst:m1	nazwisko	
 Thackeraya	Thackeray	subst:sg:gen.acc:m1	nazwisko	
-Thackeraya	Thackeray	subst:sg:gen:m1	nazwisko	
 Thackerayem	Thackeray	subst:sg:inst:m1	nazwisko	
 Thackeraye	Thackeray	depr:pl:nom.acc.voc:m2	nazwisko	
 Thackerayom	Thackeray	subst:pl:dat:m1	nazwisko	
@@ -1803,7 +1736,6 @@ Thackerayu	Thackeray	subst:sg:voc:m1	nazwisko
 Thälmannach	Thälmann	subst:pl:loc:m1	nazwisko	
 Thälmannami	Thälmann	subst:pl:inst:m1	nazwisko	
 Thälmanna	Thälmann	subst:sg:gen.acc:m1	nazwisko	
-Thälmanna	Thälmann	subst:sg:gen:m1	nazwisko	
 Thälmannem	Thälmann	subst:sg:inst:m1	nazwisko	
 Thälmannie	Thälmann	subst:sg:loc:m1	nazwisko	
 Thälmannie	Thälmann	subst:sg:voc:m1	nazwisko	
@@ -1816,7 +1748,6 @@ Thälmanny	Thälmann	depr:pl:nom.acc.voc:m2	nazwisko
 Thatcherach	Thatcher	subst:pl:loc:m1	nazwisko	
 Thatcherami	Thatcher	subst:pl:inst:m1	nazwisko	
 Thatchera	Thatcher	subst:sg:gen.acc:m1	nazwisko	
-Thatchera	Thatcher	subst:sg:gen:m1	nazwisko	
 Thatcherem	Thatcher	subst:sg:inst:m1	nazwisko	
 Thatcherom	Thatcher	subst:pl:dat:m1	nazwisko	
 Thatcherowie	Thatcher	subst:pl:nom.voc:m1	nazwisko	
@@ -1829,7 +1760,6 @@ Thatcherze	Thatcher	subst:sg:voc:m1	nazwisko
 Themersonach	Themerson	subst:pl:loc:m1	nazwisko	
 Themersonami	Themerson	subst:pl:inst:m1	nazwisko	
 Themersona	Themerson	subst:sg:gen.acc:m1	nazwisko	
-Themersona	Themerson	subst:sg:gen:m1	nazwisko	
 Themersonem	Themerson	subst:sg:inst:m1	nazwisko	
 Themersonie	Themerson	subst:sg:loc:m1	nazwisko	
 Themersonie	Themerson	subst:sg:voc:m1	nazwisko	
@@ -1842,7 +1772,6 @@ Themersony	Themerson	depr:pl:nom.acc.voc:m2	nazwisko
 Theodorakisach	Theodorakis	subst:pl:loc:m1	nazwisko	
 Theodorakisami	Theodorakis	subst:pl:inst:m1	nazwisko	
 Theodorakisa	Theodorakis	subst:sg:gen.acc:m1	nazwisko	
-Theodorakisa	Theodorakis	subst:sg:gen:m1	nazwisko	
 Theodorakisem	Theodorakis	subst:sg:inst:m1	nazwisko	
 Theodorakisie	Theodorakis	subst:sg:loc:m1	nazwisko	
 Theodorakisie	Theodorakis	subst:sg:voc:m1	nazwisko	
@@ -1855,7 +1784,6 @@ Theodorakisy	Theodorakis	depr:pl:nom.acc.voc:m2	nazwisko
 Thomasach	Thomas	subst:pl:loc:m1	imię	
 Thomasami	Thomas	subst:pl:inst:m1	imię	
 Thomasa	Thomas	subst:sg:gen.acc:m1	imię	
-Thomasa	Thomas	subst:sg:gen:m1	imię	
 Thomasem	Thomas	subst:sg:inst:m1	imię	
 Thomasie	Thomas	subst:sg:loc:m1	imię	
 Thomasie	Thomas	subst:sg:voc:m1	imię	
@@ -1868,7 +1796,6 @@ Thomasy	Thomas	depr:pl:nom.acc.voc:m2	imię
 Thomsonach	Thomson	subst:pl:loc:m1	nazwisko	
 Thomsonami	Thomson	subst:pl:inst:m1	nazwisko	
 Thomsona	Thomson	subst:sg:gen.acc:m1	nazwisko	
-Thomsona	Thomson	subst:sg:gen:m1	nazwisko	
 Thomsonem	Thomson	subst:sg:inst:m1	nazwisko	
 Thomsonie	Thomson	subst:sg:loc:m1	nazwisko	
 Thomsonie	Thomson	subst:sg:voc:m1	nazwisko	
@@ -1881,7 +1808,6 @@ Thomsony	Thomson	depr:pl:nom.acc.voc:m2	nazwisko
 Thorvaldsenach	Thorvaldsen	subst:pl:loc:m1	nazwisko	
 Thorvaldsenami	Thorvaldsen	subst:pl:inst:m1	nazwisko	
 Thorvaldsena	Thorvaldsen	subst:sg:gen.acc:m1	nazwisko	
-Thorvaldsena	Thorvaldsen	subst:sg:gen:m1	nazwisko	
 Thorvaldsenem	Thorvaldsen	subst:sg:inst:m1	nazwisko	
 Thorvaldsenie	Thorvaldsen	subst:sg:loc:m1	nazwisko	
 Thorvaldsenie	Thorvaldsen	subst:sg:voc:m1	nazwisko	
@@ -1905,7 +1831,6 @@ Tiananmeny	Tiananmen	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Tiborach	Tibor	subst:pl:loc:m1	imię	
 Tiborami	Tibor	subst:pl:inst:m1	imię	
 Tibora	Tibor	subst:sg:gen.acc:m1	imię	
-Tibora	Tibor	subst:sg:gen:m1	imię	
 Tiborem	Tibor	subst:sg:inst:m1	imię	
 Tiborom	Tibor	subst:pl:dat:m1	imię	
 Tiborowie	Tibor	subst:pl:nom.voc:m1	imię	
@@ -1918,7 +1843,6 @@ Tiborze	Tibor	subst:sg:voc:m1	imię
 Tichonach	Tichon	subst:pl:loc:m1	imię	
 Tichonami	Tichon	subst:pl:inst:m1	imię	
 Tichona	Tichon	subst:sg:gen.acc:m1	imię	
-Tichona	Tichon	subst:sg:gen:m1	imię	
 Tichonem	Tichon	subst:sg:inst:m1	imię	
 Tichonie	Tichon	subst:sg:loc:m1	imię	
 Tichonie	Tichon	subst:sg:voc:m1	imię	
@@ -1943,7 +1867,6 @@ Tien-szany	Tien-szan	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Tiepolach	Tiepolo	subst:pl:loc:m1	nazwisko	
 Tiepolami	Tiepolo	subst:pl:inst:m1	nazwisko	
 Tiepola	Tiepolo	subst:sg:gen.acc:m1	nazwisko	
-Tiepola	Tiepolo	subst:sg:gen:m1	nazwisko	
 Tiepolem	Tiepolo	subst:sg:inst:m1	nazwisko	
 Tiepole	Tiepolo	depr:pl:nom.acc.voc:m2	nazwisko	
 Tiepolom	Tiepolo	subst:pl:dat:m1	nazwisko	
@@ -1967,7 +1890,6 @@ Tierieszkowym	Tierieszkowa	subst:pl:dat:f	nazwisko
 Timurach	Timur	subst:pl:loc:m1	imię	
 Timurami	Timur	subst:pl:inst:m1	imię	
 Timura	Timur	subst:sg:gen.acc:m1	imię	
-Timura	Timur	subst:sg:gen:m1	imię	
 Timurem	Timur	subst:sg:inst:m1	imię	
 Timurom	Timur	subst:pl:dat:m1	imię	
 Timurowie	Timur	subst:pl:nom.voc:m1	imię	
@@ -1993,7 +1915,6 @@ Tintorettach	Tintoretto	subst:pl:loc:m1	nazwisko
 Tintorettami	Tintoretto	subst:pl:inst:m1	nazwisko	
 Tintoretta	Tintoretto	depr:pl:nom.acc.voc:m2	nazwisko	
 Tintoretta	Tintoretto	subst:sg:gen.acc:m1	nazwisko	
-Tintoretta	Tintoretto	subst:sg:gen:m1	nazwisko	
 Tintorettem	Tintoretto	subst:sg:inst:m1	nazwisko	
 Tintorettom	Tintoretto	subst:pl:dat:m1	nazwisko	
 Tintoretto	Tintoretto	subst:sg:nom:m1	nazwisko	
@@ -2004,7 +1925,6 @@ Tintorettów	Tintoretto	subst:pl:gen.acc:m1	nazwisko
 TIR-ach	TIR	subst:pl:loc:m2	nazwa pospolita	
 TIR-ami	TIR	subst:pl:inst:m2	nazwa pospolita	
 TIR-a	TIR	subst:sg:gen.acc:m2	nazwa pospolita	
-TIR-a	TIR	subst:sg:gen:m2	nazwa pospolita	
 TIR-em	TIR	subst:sg:inst:m2	nazwa pospolita	
 TIR-om	TIR	subst:pl:dat:m2	nazwa pospolita	
 TIR-owi	TIR	subst:sg:dat:m2	nazwa pospolita	
@@ -2027,7 +1947,6 @@ Tirany	Tirana	subst:sg:gen:f	nazwa geograficzna
 Tischnerach	Tischner	subst:pl:loc:m1	nazwisko	
 Tischnerami	Tischner	subst:pl:inst:m1	nazwisko	
 Tischnera	Tischner	subst:sg:gen.acc:m1	nazwisko	
-Tischnera	Tischner	subst:sg:gen:m1	nazwisko	
 Tischnerem	Tischner	subst:sg:inst:m1	nazwisko	
 Tischnerom	Tischner	subst:pl:dat:m1	nazwisko	
 Tischnerowie	Tischner	subst:pl:nom.voc:m1	nazwisko	
@@ -2040,7 +1959,6 @@ Tischnerze	Tischner	subst:sg:voc:m1	nazwisko
 Titanicach	Titanic	subst:pl:loc:m2	nazwa własna środka lokomocji	
 Titanicami	Titanic	subst:pl:inst:m2	nazwa własna środka lokomocji	
 Titanica	Titanic	subst:sg:gen.acc:m2	nazwa własna środka lokomocji	
-Titanica	Titanic	subst:sg:gen:m2	nazwa własna środka lokomocji	
 Titanicom	Titanic	subst:pl:dat:m2	nazwa własna środka lokomocji	
 Titanicowi	Titanic	subst:sg:dat:m2	nazwa własna środka lokomocji	
 Titaniców	Titanic	subst:pl:gen:m2	nazwa własna środka lokomocji	
@@ -2055,7 +1973,6 @@ Titach	Tito	subst:pl:loc:m1	nazwisko
 Titami	Tito	subst:pl:inst:m1	nazwisko	
 Tita	Tito	depr:pl:nom.acc.voc:m2	nazwisko	
 Tita	Tito	subst:sg:gen.acc:m1	nazwisko	
-Tita	Tito	subst:sg:gen:m1	nazwisko	
 Titą	Tito	subst:sg:inst:m1	nazwisko	
 Titem	Tito	subst:sg:inst:m1	nazwisko	
 Titę	Tito	subst:sg:acc:m1	nazwisko	
@@ -2068,12 +1985,10 @@ Titowie	Tito	subst:pl:nom.voc:m1	nazwisko
 Titowi	Tito	subst:sg:dat:m1	nazwisko	
 Titów	Tito	subst:pl:gen.acc:m1	nazwisko	
 Tity	Tito	depr:pl:nom.acc.voc:m2	nazwisko	
-Tity	Tito	subst:sg:gen:m1	nazwisko	
 TK	TK	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa organizacji	
 Tkaczykach	Tkaczyk	subst:pl:loc:m1	nazwisko	
 Tkaczykami	Tkaczyk	subst:pl:inst:m1	nazwisko	
 Tkaczyka	Tkaczyk	subst:sg:gen.acc:m1	nazwisko	
-Tkaczyka	Tkaczyk	subst:sg:gen:m1	nazwisko	
 Tkaczykiem	Tkaczyk	subst:sg:inst:m1	nazwisko	
 Tkaczyki	Tkaczyk	depr:pl:nom.acc.voc:m2	nazwisko	
 Tkaczykom	Tkaczyk	subst:pl:dat:m1	nazwisko	
@@ -2135,7 +2050,6 @@ Tobago	Tobago	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna
 Tobiaszach	Tobiasz	subst:pl:loc:m1	imię	
 Tobiaszami	Tobiasz	subst:pl:inst:m1	imię	
 Tobiasza	Tobiasz	subst:sg:gen.acc:m1	imię	
-Tobiasza	Tobiasz	subst:sg:gen:m1	imię	
 Tobiaszem	Tobiasz	subst:sg:inst:m1	imię	
 Tobiasze	Tobiasz	depr:pl:nom.acc.voc:m2	imię	
 Tobiasze	Tobiasz	subst:pl:nom.voc:m1	imię	
@@ -2172,7 +2086,6 @@ Todź	Todzia	subst:pl:gen:f	imię	char.
 Toeplitzach	Toeplitz	subst:pl:loc:m1	nazwisko	
 Toeplitzami	Toeplitz	subst:pl:inst:m1	nazwisko	
 Toeplitza	Toeplitz	subst:sg:gen.acc:m1	nazwisko	
-Toeplitza	Toeplitz	subst:sg:gen:m1	nazwisko	
 Toeplitzem	Toeplitz	subst:sg:inst:m1	nazwisko	
 Toeplitze	Toeplitz	depr:pl:nom.acc.voc:m2	nazwisko	
 Toeplitzom	Toeplitz	subst:pl:dat:m1	nazwisko	
@@ -2185,7 +2098,6 @@ Toeplitzu	Toeplitz	subst:sg:voc:m1	nazwisko
 Tofflerach	Toffler	subst:pl:loc:m1	nazwisko	
 Tofflerami	Toffler	subst:pl:inst:m1	nazwisko	
 Tofflera	Toffler	subst:sg:gen.acc:m1	nazwisko	
-Tofflera	Toffler	subst:sg:gen:m1	nazwisko	
 Tofflerem	Toffler	subst:sg:inst:m1	nazwisko	
 Tofflerom	Toffler	subst:pl:dat:m1	nazwisko	
 Tofflerowie	Toffler	subst:pl:nom.voc:m1	nazwisko	
@@ -2198,7 +2110,6 @@ Tofflerze	Toffler	subst:sg:voc:m1	nazwisko
 Togliattich	Togliatti	subst:pl:gen.acc:m1	nazwisko	
 Togliattich	Togliatti	subst:pl:loc:m1	nazwisko	
 Togliattiego	Togliatti	subst:sg:gen.acc:m1	nazwisko	
-Togliattiego	Togliatti	subst:sg:gen:m1	nazwisko	
 Togliattiemu	Togliatti	subst:sg:dat:m1	nazwisko	
 Togliattie	Togliatti	depr:pl:nom.acc.voc:m2	nazwisko	
 Togliattimi	Togliatti	subst:pl:inst:m1	nazwisko	
@@ -2212,7 +2123,6 @@ Togliatti	Togliatti	subst:sg:voc:m1	nazwisko
 Tokarczukach	Tokarczuk	subst:pl:loc:m1	nazwisko	
 Tokarczukami	Tokarczuk	subst:pl:inst:m1	nazwisko	
 Tokarczuka	Tokarczuk	subst:sg:gen.acc:m1	nazwisko	
-Tokarczuka	Tokarczuk	subst:sg:gen:m1	nazwisko	
 Tokarczukiem	Tokarczuk	subst:sg:inst:m1	nazwisko	
 Tokarczuki	Tokarczuk	depr:pl:nom.acc.voc:m2	nazwisko	
 Tokarczukom	Tokarczuk	subst:pl:dat:m1	nazwisko	
@@ -2225,7 +2135,6 @@ Tokarczuku	Tokarczuk	subst:sg:voc:m1	nazwisko
 Tokarczykach	Tokarczyk	subst:pl:loc:m1	nazwisko	
 Tokarczykami	Tokarczyk	subst:pl:inst:m1	nazwisko	
 Tokarczyka	Tokarczyk	subst:sg:gen.acc:m1	nazwisko	
-Tokarczyka	Tokarczyk	subst:sg:gen:m1	nazwisko	
 Tokarczykiem	Tokarczyk	subst:sg:inst:m1	nazwisko	
 Tokarczyki	Tokarczyk	depr:pl:nom.acc.voc:m2	nazwisko	
 Tokarczykom	Tokarczyk	subst:pl:dat:m1	nazwisko	
@@ -2251,7 +2160,6 @@ Tokarscy	Tokarski	subst:pl:nom.voc:m1	nazwisko
 Tokarskich	Tokarski	subst:pl:gen.acc:m1	nazwisko	
 Tokarskich	Tokarski	subst:pl:loc:m1	nazwisko	
 Tokarskiego	Tokarski	subst:sg:gen.acc:m1	nazwisko	
-Tokarskiego	Tokarski	subst:sg:gen:m1	nazwisko	
 Tokarskiemu	Tokarski	subst:sg:dat:m1	nazwisko	
 Tokarskie	Tokarski	depr:pl:nom.acc.voc:m2	nazwisko	
 Tokarskimi	Tokarski	subst:pl:inst:m1	nazwisko	
@@ -2263,7 +2171,6 @@ Tokarski	Tokarski	subst:sg:voc:m1	nazwisko
 Tokarzach	Tokarz	subst:pl:loc:m1	nazwisko	
 Tokarzami	Tokarz	subst:pl:inst:m1	nazwisko	
 Tokarza	Tokarz	subst:sg:gen.acc:m1	nazwisko	
-Tokarza	Tokarz	subst:sg:gen:m1	nazwisko	
 Tokarzem	Tokarz	subst:sg:inst:m1	nazwisko	
 Tokarze	Tokarz	depr:pl:nom.acc.voc:m2	nazwisko	
 Tokarzom	Tokarz	subst:pl:dat:m1	nazwisko	
@@ -2279,7 +2186,6 @@ Tolek	Tolek	subst:sg:nom:m1	imię
 Tolkach	Tolek	subst:pl:loc:m1	imię	
 Tolkami	Tolek	subst:pl:inst:m1	imię	
 Tolka	Tolek	subst:sg:gen.acc:m1	imię	
-Tolka	Tolek	subst:sg:gen:m1	imię	
 Tolkiem	Tolek	subst:sg:inst:m1	imię	
 Tolki	Tolek	depr:pl:nom.acc.voc:m2	imię	
 Tolkom	Tolek	subst:pl:dat:m1	imię	
@@ -2291,7 +2197,6 @@ Tolku	Tolek	subst:sg:voc:m1	imię
 Toligniewach	Toligniew	subst:pl:loc:m1	imię	
 Toligniewami	Toligniew	subst:pl:inst:m1	imię	
 Toligniewa	Toligniew	subst:sg:gen.acc:m1	imię	
-Toligniewa	Toligniew	subst:sg:gen:m1	imię	
 Toligniewem	Toligniew	subst:sg:inst:m1	imię	
 Toligniewie	Toligniew	subst:sg:loc:m1	imię	
 Toligniewie	Toligniew	subst:sg:voc:m1	imię	
@@ -2304,7 +2209,6 @@ Toligniewy	Toligniew	depr:pl:nom.acc.voc:m2	imię
 Tolimirach	Tolimir	subst:pl:loc:m1	imię	
 Tolimirami	Tolimir	subst:pl:inst:m1	imię	
 Tolimira	Tolimir	subst:sg:gen.acc:m1	imię	
-Tolimira	Tolimir	subst:sg:gen:m1	imię	
 Tolimirem	Tolimir	subst:sg:inst:m1	imię	
 Tolimirom	Tolimir	subst:pl:dat:m1	imię	
 Tolimirowie	Tolimir	subst:pl:nom.voc:m1	imię	
@@ -2318,7 +2222,6 @@ Tolimirzy	Tolimir	subst:pl:nom.voc:m1	imię
 Tolisławach	Tolisław	subst:pl:loc:m1	imię	
 Tolisławami	Tolisław	subst:pl:inst:m1	imię	
 Tolisława	Tolisław	subst:sg:gen.acc:m1	imię	
-Tolisława	Tolisław	subst:sg:gen:m1	imię	
 Tolisławem	Tolisław	subst:sg:inst:m1	imię	
 Tolisławie	Tolisław	subst:sg:loc:m1	imię	
 Tolisławie	Tolisław	subst:sg:voc:m1	imię	
@@ -2343,7 +2246,6 @@ Tolisławy	Tolisława	subst:sg:gen:f	imię
 Tolkienach	Tolkien	subst:pl:loc:m1	nazwisko	
 Tolkienami	Tolkien	subst:pl:inst:m1	nazwisko	
 Tolkiena	Tolkien	subst:sg:gen.acc:m1	nazwisko	
-Tolkiena	Tolkien	subst:sg:gen:m1	nazwisko	
 Tolkienem	Tolkien	subst:sg:inst:m1	nazwisko	
 Tolkienie	Tolkien	subst:sg:loc:m1	nazwisko	
 Tolkienie	Tolkien	subst:sg:voc:m1	nazwisko	
@@ -2366,7 +2268,6 @@ Tolkmicku	Tolkmicko	subst:sg:loc:n:ncol	nazwa geograficzna
 Tolach	Tolo	subst:pl:loc:m1	imię	
 Tolami	Tolo	subst:pl:inst:m1	imię	
 Tola	Tolo	subst:sg:gen.acc:m1	imię	
-Tola	Tolo	subst:sg:gen:m1	imię	
 Tolem	Tolo	subst:sg:inst:m1	imię	
 Tole	Tolo	depr:pl:nom.acc.voc:m2	imię	
 Tolom	Tolo	subst:pl:dat:m1	imię	
@@ -2380,7 +2281,6 @@ Toltecy	Toltek	subst:pl:nom.voc:m1	nazwa pospolita
 Toltekach	Toltek	subst:pl:loc:m1	nazwa pospolita	
 Toltekami	Toltek	subst:pl:inst:m1	nazwa pospolita	
 Tolteka	Toltek	subst:sg:gen.acc:m1	nazwa pospolita	
-Tolteka	Toltek	subst:sg:gen:m1	nazwa pospolita	
 Toltekiem	Toltek	subst:sg:inst:m1	nazwa pospolita	
 Tolteki	Toltek	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Toltekom	Toltek	subst:pl:dat:m1	nazwa pospolita	
@@ -2393,7 +2293,6 @@ Tolteku	Toltek	subst:sg:voc:m1	nazwa pospolita
 Tołstojach	Tołstoj	subst:pl:loc:m1	nazwisko	
 Tołstojami	Tołstoj	subst:pl:inst:m1	nazwisko	
 Tołstoja	Tołstoj	subst:sg:gen.acc:m1	nazwisko	
-Tołstoja	Tołstoj	subst:sg:gen:m1	nazwisko	
 Tołstojem	Tołstoj	subst:sg:inst:m1	nazwisko	
 Tołstoje	Tołstoj	depr:pl:nom.acc.voc:m2	nazwisko	
 Tołstoje	Tołstoj	subst:pl:nom.voc:m1	nazwisko	
@@ -2407,7 +2306,6 @@ Tołstoju	Tołstoj	subst:sg:voc:m1	nazwisko
 Tomach	Tom	subst:pl:loc:m1	imię	
 Tomami	Tom	subst:pl:inst:m1	imię	
 Toma	Tom	subst:sg:gen.acc:m1	imię	
-Toma	Tom	subst:sg:gen:m1	imię	
 Tomem	Tom	subst:sg:inst:m1	imię	
 Tomie	Tom	subst:sg:loc:m1	imię	
 Tomie	Tom	subst:sg:voc:m1	imię	
@@ -2431,7 +2329,6 @@ Tomy	Toma	subst:sg:gen:f	imię
 Tomaszach	Tomasz	subst:pl:loc:m1	imię	
 Tomaszami	Tomasz	subst:pl:inst:m1	imię	
 Tomasza	Tomasz	subst:sg:gen.acc:m1	imię	
-Tomasza	Tomasz	subst:sg:gen:m1	imię	
 Tomaszem	Tomasz	subst:sg:inst:m1	imię	
 Tomasze	Tomasz	depr:pl:nom.acc.voc:m2	imię	
 Tomasze	Tomasz	subst:pl:nom.voc:m1	imię	
@@ -2457,7 +2354,6 @@ Tomaszewscy	Tomaszewski	subst:pl:nom.voc:m1	nazwisko
 Tomaszewskich	Tomaszewski	subst:pl:gen.acc:m1	nazwisko	
 Tomaszewskich	Tomaszewski	subst:pl:loc:m1	nazwisko	
 Tomaszewskiego	Tomaszewski	subst:sg:gen.acc:m1	nazwisko	
-Tomaszewskiego	Tomaszewski	subst:sg:gen:m1	nazwisko	
 Tomaszewskiemu	Tomaszewski	subst:sg:dat:m1	nazwisko	
 Tomaszewskie	Tomaszewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Tomaszewskimi	Tomaszewski	subst:pl:inst:m1	nazwisko	
@@ -2481,7 +2377,6 @@ Tomaszów	Tomaszów	subst:sg:nom.acc:m3	nazwa geograficzna
 Tomciach	Tomcio	subst:pl:loc:m1	imię	
 Tomciami	Tomcio	subst:pl:inst:m1	imię	
 Tomcia	Tomcio	subst:sg:gen.acc:m1	imię	
-Tomcia	Tomcio	subst:sg:gen:m1	imię	
 Tomciem	Tomcio	subst:sg:inst:m1	imię	
 Tomcie	Tomcio	depr:pl:nom.acc.voc:m2	imię	
 Tomciom	Tomcio	subst:pl:dat:m1	imię	
@@ -2494,7 +2389,6 @@ Tomciu	Tomcio	subst:sg:voc:m1	imię
 Tomczakach	Tomczak	subst:pl:loc:m1	nazwisko	
 Tomczakami	Tomczak	subst:pl:inst:m1	nazwisko	
 Tomczaka	Tomczak	subst:sg:gen.acc:m1	nazwisko	
-Tomczaka	Tomczak	subst:sg:gen:m1	nazwisko	
 Tomczakiem	Tomczak	subst:sg:inst:m1	nazwisko	
 Tomczaki	Tomczak	depr:pl:nom.acc.voc:m2	nazwisko	
 Tomczakom	Tomczak	subst:pl:dat:m1	nazwisko	
@@ -2507,7 +2401,6 @@ Tomczaku	Tomczak	subst:sg:voc:m1	nazwisko
 Tomczykach	Tomczyk	subst:pl:loc:m1	nazwisko	
 Tomczykami	Tomczyk	subst:pl:inst:m1	nazwisko	
 Tomczyka	Tomczyk	subst:sg:gen.acc:m1	nazwisko	
-Tomczyka	Tomczyk	subst:sg:gen:m1	nazwisko	
 Tomczykiem	Tomczyk	subst:sg:inst:m1	nazwisko	
 Tomczyki	Tomczyk	depr:pl:nom.acc.voc:m2	nazwisko	
 Tomczykom	Tomczyk	subst:pl:dat:m1	nazwisko	
@@ -2521,7 +2414,6 @@ Tomeczek	Tomeczek	subst:sg:nom:m1	imię
 Tomeczkach	Tomeczek	subst:pl:loc:m1	imię	
 Tomeczkami	Tomeczek	subst:pl:inst:m1	imię	
 Tomeczka	Tomeczek	subst:sg:gen.acc:m1	imię	
-Tomeczka	Tomeczek	subst:sg:gen:m1	imię	
 Tomeczkiem	Tomeczek	subst:sg:inst:m1	imię	
 Tomeczki	Tomeczek	depr:pl:nom.acc.voc:m2	imię	
 Tomeczkom	Tomeczek	subst:pl:dat:m1	imię	
@@ -2534,7 +2426,6 @@ Tomek	Tomek	subst:sg:nom:m1	imię
 Tomkach	Tomek	subst:pl:loc:m1	imię	
 Tomkami	Tomek	subst:pl:inst:m1	imię	
 Tomka	Tomek	subst:sg:gen.acc:m1	imię	
-Tomka	Tomek	subst:sg:gen:m1	imię	
 Tomkiem	Tomek	subst:sg:inst:m1	imię	
 Tomki	Tomek	depr:pl:nom.acc.voc:m2	imię	
 Tomkom	Tomek	subst:pl:dat:m1	imię	
@@ -2558,7 +2449,6 @@ Tomile	Tomił	subst:sg:voc:m1	imię
 Tomiłach	Tomił	subst:pl:loc:m1	imię	
 Tomiłami	Tomił	subst:pl:inst:m1	imię	
 Tomiła	Tomił	subst:sg:gen.acc:m1	imię	
-Tomiła	Tomił	subst:sg:gen:m1	imię	
 Tomiłem	Tomił	subst:sg:inst:m1	imię	
 Tomiłom	Tomił	subst:pl:dat:m1	imię	
 Tomiłowie	Tomił	subst:pl:nom.voc:m1	imię	
@@ -2569,7 +2459,6 @@ Tomiły	Tomił	depr:pl:nom.acc.voc:m2	imię
 Tomirach	Tomir	subst:pl:loc:m1	imię	
 Tomirami	Tomir	subst:pl:inst:m1	imię	
 Tomira	Tomir	subst:sg:gen.acc:m1	imię	
-Tomira	Tomir	subst:sg:gen:m1	imię	
 Tomirem	Tomir	subst:sg:inst:m1	imię	
 Tomirom	Tomir	subst:pl:dat:m1	imię	
 Tomirowie	Tomir	subst:pl:nom.voc:m1	imię	
@@ -2583,7 +2472,6 @@ Tomirzy	Tomir	subst:pl:nom.voc:m1	imię
 Tomisławach	Tomisław	subst:pl:loc:m1	imię	
 Tomisławami	Tomisław	subst:pl:inst:m1	imię	
 Tomisława	Tomisław	subst:sg:gen.acc:m1	imię	
-Tomisława	Tomisław	subst:sg:gen:m1	imię	
 Tomisławem	Tomisław	subst:sg:inst:m1	imię	
 Tomisławie	Tomisław	subst:sg:loc:m1	imię	
 Tomisławie	Tomisław	subst:sg:voc:m1	imię	
@@ -2618,7 +2506,6 @@ Tomsku	Tomsk	subst:sg:voc:m3	nazwa geograficzna
 Tomusiach	Tomuś	subst:pl:loc:m1	imię	
 Tomusiami	Tomuś	subst:pl:inst:m1	imię	
 Tomusia	Tomuś	subst:sg:gen.acc:m1	imię	
-Tomusia	Tomuś	subst:sg:gen:m1	imię	
 Tomusiem	Tomuś	subst:sg:inst:m1	imię	
 Tomusie	Tomuś	depr:pl:nom.acc.voc:m2	imię	
 Tomusie	Tomuś	subst:pl:nom.voc:m1	imię	
@@ -2643,7 +2530,6 @@ Tongu	Tongo	subst:sg:loc:n:ncol	nazwa geograficzna
 Tonich	Toni	subst:pl:gen.acc:m1	imię	
 Tonich	Toni	subst:pl:loc:m1	imię	
 Toniego	Toni	subst:sg:gen.acc:m1	imię	
-Toniego	Toni	subst:sg:gen:m1	imię	
 Toniemu	Toni	subst:sg:dat:m1	imię	
 Tonie	Toni	depr:pl:nom.acc.voc:m2	imię	
 Tonimi	Toni	subst:pl:inst:m1	imię	
@@ -2656,7 +2542,6 @@ Toni	Toni	subst:sg:voc:m1	imię
 Toniach	Tonio	subst:pl:loc:m1	imię	
 Toniami	Tonio	subst:pl:inst:m1	imię	
 Tonia	Tonio	subst:sg:gen.acc:m1	imię	
-Tonia	Tonio	subst:sg:gen:m1	imię	
 Toniem	Tonio	subst:sg:inst:m1	imię	
 Tonie	Tonio	depr:pl:nom.acc.voc:m2	imię	
 Toniom	Tonio	subst:pl:dat:m1	imię	
@@ -2681,7 +2566,6 @@ Topolscy	Topolski	subst:pl:nom.voc:m1	nazwisko
 Topolskich	Topolski	subst:pl:gen.acc:m1	nazwisko	
 Topolskich	Topolski	subst:pl:loc:m1	nazwisko	
 Topolskiego	Topolski	subst:sg:gen.acc:m1	nazwisko	
-Topolskiego	Topolski	subst:sg:gen:m1	nazwisko	
 Topolskiemu	Topolski	subst:sg:dat:m1	nazwisko	
 Topolskie	Topolski	depr:pl:nom.acc.voc:m2	nazwisko	
 Topolskimi	Topolski	subst:pl:inst:m1	nazwisko	
@@ -2742,7 +2626,6 @@ Torpeci	Torpet	subst:pl:nom.voc:m1	imię
 Torpetach	Torpet	subst:pl:loc:m1	imię	
 Torpetami	Torpet	subst:pl:inst:m1	imię	
 Torpeta	Torpet	subst:sg:gen.acc:m1	imię	
-Torpeta	Torpet	subst:sg:gen:m1	imię	
 Torpetem	Torpet	subst:sg:inst:m1	imię	
 Torpetom	Torpet	subst:pl:dat:m1	imię	
 Torpetowie	Torpet	subst:pl:nom.voc:m1	imię	
@@ -2751,7 +2634,6 @@ Torpetów	Torpet	subst:pl:gen.acc:m1	imię
 Torpet	Torpet	subst:sg:nom:m1	imię	
 Torpety	Torpet	depr:pl:nom.acc.voc:m2	imię	
 Torricellego	Torricelli	subst:sg:gen.acc:m1	nazwisko	
-Torricellego	Torricelli	subst:sg:gen:m1	nazwisko	
 Torricellemu	Torricelli	subst:sg:dat:m1	nazwisko	
 Torricelle	Torricelli	depr:pl:nom.acc.voc:m2	nazwisko	
 Torricellich	Torricelli	subst:pl:gen.acc:m1	nazwisko	
@@ -2811,7 +2693,6 @@ Torzym	Torzym	subst:sg:nom.acc:m3	nazwa geograficzna
 Toscaninich	Toscanini	subst:pl:gen.acc:m1	nazwisko	
 Toscaninich	Toscanini	subst:pl:loc:m1	nazwisko	
 Toscaniniego	Toscanini	subst:sg:gen.acc:m1	nazwisko	
-Toscaniniego	Toscanini	subst:sg:gen:m1	nazwisko	
 Toscaniniemu	Toscanini	subst:sg:dat:m1	nazwisko	
 Toscaninie	Toscanini	depr:pl:nom.acc.voc:m2	nazwisko	
 Toscaninimi	Toscanini	subst:pl:inst:m1	nazwisko	
@@ -2838,7 +2719,6 @@ Tosiek	Tosiek	subst:sg:nom:m1	imię
 Tośkach	Tosiek	subst:pl:loc:m1	imię	
 Tośkami	Tosiek	subst:pl:inst:m1	imię	
 Tośka	Tosiek	subst:sg:gen.acc:m1	imię	
-Tośka	Tosiek	subst:sg:gen:m1	imię	
 Tośkiem	Tosiek	subst:sg:inst:m1	imię	
 Tośki	Tosiek	depr:pl:nom.acc.voc:m2	imię	
 Tośkom	Tosiek	subst:pl:dat:m1	imię	
@@ -2874,7 +2754,6 @@ Toskańczycy	Toskańczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Toskańczykach	Toskańczyk	subst:pl:loc:m1	nazwa pospolita	
 Toskańczykami	Toskańczyk	subst:pl:inst:m1	nazwa pospolita	
 Toskańczyka	Toskańczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Toskańczyka	Toskańczyk	subst:sg:gen:m1	nazwa pospolita	
 Toskańczykiem	Toskańczyk	subst:sg:inst:m1	nazwa pospolita	
 Toskańczyki	Toskańczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Toskańczykom	Toskańczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -2912,7 +2791,6 @@ Towiańscy	Towiański	subst:pl:nom.voc:m1	nazwisko
 Towiańskich	Towiański	subst:pl:gen.acc:m1	nazwisko	
 Towiańskich	Towiański	subst:pl:loc:m1	nazwisko	
 Towiańskiego	Towiański	subst:sg:gen.acc:m1	nazwisko	
-Towiańskiego	Towiański	subst:sg:gen:m1	nazwisko	
 Towiańskiemu	Towiański	subst:sg:dat:m1	nazwisko	
 Towiańskie	Towiański	depr:pl:nom.acc.voc:m2	nazwisko	
 Towiańskimi	Towiański	subst:pl:inst:m1	nazwisko	
@@ -2924,7 +2802,6 @@ Towiański	Towiański	subst:sg:voc:m1	nazwisko
 Toynbeech	Toynbee	subst:pl:gen.acc:m1	nazwisko	
 Toynbeech	Toynbee	subst:pl:loc:m1	nazwisko	
 Toynbeego	Toynbee	subst:sg:gen.acc:m1	nazwisko	
-Toynbeego	Toynbee	subst:sg:gen:m1	nazwisko	
 Toynbeemi	Toynbee	subst:pl:inst:m1	nazwisko	
 Toynbeem	Toynbee	subst:pl:dat:m1	nazwisko	
 Toynbeem	Toynbee	subst:sg:inst:m1	nazwisko	
@@ -3015,7 +2892,6 @@ Tracyj	Tracja	subst:pl:gen:f	nazwa geograficzna	arch.|char.|hist.
 Tracych	Tracy	subst:pl:gen.acc:m1	nazwisko	
 Tracych	Tracy	subst:pl:loc:m1	nazwisko	
 Tracy’ego	Tracy	subst:sg:gen.acc:m1	nazwisko	
-Tracy’ego	Tracy	subst:sg:gen:m1	nazwisko	
 Tracy’emu	Tracy	subst:sg:dat:m1	nazwisko	
 Tracy’e	Tracy	depr:pl:nom.acc.voc:m2	nazwisko	
 Tracymi	Tracy	subst:pl:inst:m1	nazwisko	
@@ -3028,7 +2904,6 @@ Tracy	Tracy	subst:sg:voc:m1	nazwisko
 Traczykach	Traczyk	subst:pl:loc:m1	nazwisko	
 Traczykami	Traczyk	subst:pl:inst:m1	nazwisko	
 Traczyka	Traczyk	subst:sg:gen.acc:m1	nazwisko	
-Traczyka	Traczyk	subst:sg:gen:m1	nazwisko	
 Traczykiem	Traczyk	subst:sg:inst:m1	nazwisko	
 Traczyki	Traczyk	depr:pl:nom.acc.voc:m2	nazwisko	
 Traczykom	Traczyk	subst:pl:dat:m1	nazwisko	
@@ -3052,7 +2927,6 @@ Trafalgarze	Trafalgar	subst:sg:voc:m3	nazwa geograficzna
 Trajanach	Trajan	subst:pl:loc:m1	imię	
 Trajanami	Trajan	subst:pl:inst:m1	imię	
 Trajana	Trajan	subst:sg:gen.acc:m1	imię	
-Trajana	Trajan	subst:sg:gen:m1	imię	
 Trajanem	Trajan	subst:sg:inst:m1	imię	
 Trajanie	Trajan	subst:sg:loc:m1	imię	
 Trajanie	Trajan	subst:sg:voc:m1	imię	
@@ -3065,7 +2939,6 @@ Trajany	Trajan	depr:pl:nom.acc.voc:m2	imię
 Trakach	Trak	subst:pl:loc:m1	nazwa pospolita	hist.
 Trakami	Trak	subst:pl:inst:m1	nazwa pospolita	hist.
 Traka	Trak	subst:sg:gen.acc:m1	nazwa pospolita	hist.
-Traka	Trak	subst:sg:gen:m1	nazwa pospolita	hist.
 Trakiem	Trak	subst:sg:inst:m1	nazwa pospolita	hist.
 Traki	Trak	depr:pl:nom.acc.voc:m2	nazwa pospolita	hist.
 Trakom	Trak	subst:pl:dat:m1	nazwa pospolita	hist.
@@ -3090,7 +2963,6 @@ Transylwanio	Transylwania	subst:sg:voc:f	nazwa geograficzna
 Trapszach	Trapszo	subst:pl:loc:m1	nazwisko	
 Trapszami	Trapszo	subst:pl:inst:m1	nazwisko	
 Trapsza	Trapszo	subst:sg:gen.acc:m1	nazwisko	
-Trapsza	Trapszo	subst:sg:gen:m1	nazwisko	
 Trapszą	Trapszo	subst:sg:inst:m1	nazwisko	
 Trapszem	Trapszo	subst:sg:inst:m1	nazwisko	
 Trapsze	Trapszo	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -3104,13 +2976,11 @@ Trapszów	Trapszo	subst:pl:gen.acc:m1	nazwisko
 Trapszu	Trapszo	subst:sg:loc:m1	nazwisko	
 Trapszu	Trapszo	subst:sg:voc:m1	nazwisko	
 Trapszy	Trapszo	subst:sg:dat.loc:m1	nazwisko	
-Trapszy	Trapszo	subst:sg:gen:m1	nazwisko	
 Traugucie	Traugutt	subst:sg:loc:m1	nazwisko	
 Traugucie	Traugutt	subst:sg:voc:m1	nazwisko	
 Trauguttach	Traugutt	subst:pl:loc:m1	nazwisko	
 Trauguttami	Traugutt	subst:pl:inst:m1	nazwisko	
 Traugutta	Traugutt	subst:sg:gen.acc:m1	nazwisko	
-Traugutta	Traugutt	subst:sg:gen:m1	nazwisko	
 Trauguttem	Traugutt	subst:sg:inst:m1	nazwisko	
 Trauguttom	Traugutt	subst:pl:dat:m1	nazwisko	
 Trauguttowie	Traugutt	subst:pl:nom.voc:m1	nazwisko	
@@ -3129,7 +2999,6 @@ Travolto	Travolta	subst:sg:voc:m1	nazwisko
 Travoltowie	Travolta	subst:pl:nom.voc:m1	nazwisko	
 Travoltów	Travolta	subst:pl:gen.acc:m1	nazwisko	
 Travolty	Travolta	depr:pl:nom.acc.voc:m2	nazwisko	
-Travolty	Travolta	subst:sg:gen:m1	nazwisko	
 Trawińska	Trawińska	subst:sg:nom:f	nazwisko	
 Trawińska	Trawińska	subst:sg:voc:f	nazwisko	
 Trawińską	Trawińska	subst:sg:acc:f	nazwisko	
@@ -3145,7 +3014,6 @@ Trawińscy	Trawiński	subst:pl:nom.voc:m1	nazwisko
 Trawińskich	Trawiński	subst:pl:gen.acc:m1	nazwisko	
 Trawińskich	Trawiński	subst:pl:loc:m1	nazwisko	
 Trawińskiego	Trawiński	subst:sg:gen.acc:m1	nazwisko	
-Trawińskiego	Trawiński	subst:sg:gen:m1	nazwisko	
 Trawińskiemu	Trawiński	subst:sg:dat:m1	nazwisko	
 Trawińskie	Trawiński	depr:pl:nom.acc.voc:m2	nazwisko	
 Trawińskimi	Trawiński	subst:pl:inst:m1	nazwisko	
@@ -3190,7 +3058,6 @@ Trembeccy	Trembecki	subst:pl:nom.voc:m1	nazwisko
 Trembeckich	Trembecki	subst:pl:gen.acc:m1	nazwisko	
 Trembeckich	Trembecki	subst:pl:loc:m1	nazwisko	
 Trembeckiego	Trembecki	subst:sg:gen.acc:m1	nazwisko	
-Trembeckiego	Trembecki	subst:sg:gen:m1	nazwisko	
 Trembeckiemu	Trembecki	subst:sg:dat:m1	nazwisko	
 Trembeckie	Trembecki	depr:pl:nom.acc.voc:m2	nazwisko	
 Trembeckimi	Trembecki	subst:pl:inst:m1	nazwisko	
@@ -3224,7 +3091,6 @@ Trieście	Triest	subst:sg:voc:m3	nazwa geograficzna
 Trietiakowach	Trietiakow	subst:pl:loc:m1	nazwisko	
 Trietiakowami	Trietiakow	subst:pl:inst:m1	nazwisko	
 Trietiakowa	Trietiakow	subst:sg:gen.acc:m1	nazwisko	
-Trietiakowa	Trietiakow	subst:sg:gen:m1	nazwisko	
 Trietiakowem	Trietiakow	subst:sg:inst:m1	nazwisko	
 Trietiakowie	Trietiakow	subst:sg:loc:m1	nazwisko	
 Trietiakowie	Trietiakow	subst:sg:voc:m1	nazwisko	
@@ -3237,7 +3103,6 @@ Trietiakowy	Trietiakow	depr:pl:nom.acc.voc:m2	nazwisko
 Tristanach	Tristan	subst:pl:loc:m1	imię	
 Tristanami	Tristan	subst:pl:inst:m1	imię	
 Tristana	Tristan	subst:sg:gen.acc:m1	imię	
-Tristana	Tristan	subst:sg:gen:m1	imię	
 Tristanem	Tristan	subst:sg:inst:m1	imię	
 Tristanie	Tristan	subst:sg:loc:m1	imię	
 Tristanie	Tristan	subst:sg:voc:m1	imię	
@@ -3251,7 +3116,6 @@ Trobriandczycy	Trobriandczyk	subst:pl:nom.voc:m1	nazwa pospolita	etn.
 Trobriandczykach	Trobriandczyk	subst:pl:loc:m1	nazwa pospolita	etn.
 Trobriandczykami	Trobriandczyk	subst:pl:inst:m1	nazwa pospolita	etn.
 Trobriandczyka	Trobriandczyk	subst:sg:gen.acc:m1	nazwa pospolita	etn.
-Trobriandczyka	Trobriandczyk	subst:sg:gen:m1	nazwa pospolita	etn.
 Trobriandczykiem	Trobriandczyk	subst:sg:inst:m1	nazwa pospolita	etn.
 Trobriandczyki	Trobriandczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
 Trobriandczykom	Trobriandczyk	subst:pl:dat:m1	nazwa pospolita	etn.
@@ -3296,7 +3160,6 @@ Troccy	Trocki	subst:pl:nom.voc:m1	nazwisko
 Trockich	Trocki	subst:pl:gen.acc:m1	nazwisko	
 Trockich	Trocki	subst:pl:loc:m1	nazwisko	
 Trockiego	Trocki	subst:sg:gen.acc:m1	nazwisko	
-Trockiego	Trocki	subst:sg:gen:m1	nazwisko	
 Trockiemu	Trocki	subst:sg:dat:m1	nazwisko	
 Trockie	Trocki	depr:pl:nom.acc.voc:m2	nazwisko	
 Trockimi	Trocki	subst:pl:inst:m1	nazwisko	
@@ -3308,7 +3171,6 @@ Trocki	Trocki	subst:sg:voc:m1	nazwisko
 Trofimach	Trofim	subst:pl:loc:m1	imię	
 Trofimami	Trofim	subst:pl:inst:m1	imię	
 Trofima	Trofim	subst:sg:gen.acc:m1	imię	
-Trofima	Trofim	subst:sg:gen:m1	imię	
 Trofimem	Trofim	subst:sg:inst:m1	imię	
 Trofimie	Trofim	subst:sg:loc:m1	imię	
 Trofimie	Trofim	subst:sg:voc:m1	imię	
@@ -3333,7 +3195,6 @@ Troj	Troja	subst:pl:gen:f	nazwa geograficzna	char.|hist.
 Trojanach	Trojan	subst:pl:loc:m1	imię	
 Trojanami	Trojan	subst:pl:inst:m1	imię	
 Trojana	Trojan	subst:sg:gen.acc:m1	imię	
-Trojana	Trojan	subst:sg:gen:m1	imię	
 Trojanem	Trojan	subst:sg:inst:m1	imię	
 Trojanie	Trojan	subst:sg:loc:m1	imię	
 Trojanie	Trojan	subst:sg:voc:m1	imię	
@@ -3348,7 +3209,6 @@ Trojanowscy	Trojanowski	subst:pl:nom.voc:m1	nazwisko
 Trojanowskich	Trojanowski	subst:pl:gen.acc:m1	nazwisko	
 Trojanowskich	Trojanowski	subst:pl:loc:m1	nazwisko	
 Trojanowskiego	Trojanowski	subst:sg:gen.acc:m1	nazwisko	
-Trojanowskiego	Trojanowski	subst:sg:gen:m1	nazwisko	
 Trojanowskiemu	Trojanowski	subst:sg:dat:m1	nazwisko	
 Trojanowskie	Trojanowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Trojanowskimi	Trojanowski	subst:pl:inst:m1	nazwisko	
@@ -3404,7 +3264,6 @@ Trubieccy	Trubieckoj	subst:pl:nom.voc:m1	nazwisko
 Trubieckich	Trubieckoj	subst:pl:gen.acc:m1	nazwisko	
 Trubieckich	Trubieckoj	subst:pl:loc:m1	nazwisko	
 Trubieckiego	Trubieckoj	subst:sg:gen.acc:m1	nazwisko	
-Trubieckiego	Trubieckoj	subst:sg:gen:m1	nazwisko	
 Trubieckiemu	Trubieckoj	subst:sg:dat:m1	nazwisko	
 Trubieckie	Trubieckoj	depr:pl:nom.acc.voc:m2	nazwisko	
 Trubieckimi	Trubieckoj	subst:pl:inst:m1	nazwisko	
@@ -3452,7 +3311,6 @@ Truffaut	Truffaut	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko
 Trumanach	Truman	subst:pl:loc:m1	nazwisko	
 Trumanami	Truman	subst:pl:inst:m1	nazwisko	
 Trumana	Truman	subst:sg:gen.acc:m1	nazwisko	
-Trumana	Truman	subst:sg:gen:m1	nazwisko	
 Trumanem	Truman	subst:sg:inst:m1	nazwisko	
 Trumanie	Truman	subst:sg:loc:m1	nazwisko	
 Trumanie	Truman	subst:sg:voc:m1	nazwisko	
@@ -3465,7 +3323,6 @@ Trumany	Truman	depr:pl:nom.acc.voc:m2	nazwisko
 Trumpach	Trump	subst:pl:loc:m1	nazwisko	
 Trumpami	Trump	subst:pl:inst:m1	nazwisko	
 Trumpa	Trump	subst:sg:gen.acc:m1	nazwisko	
-Trumpa	Trump	subst:sg:gen:m1	nazwisko	
 Trumpem	Trump	subst:sg:inst:m1	nazwisko	
 Trumpie	Trump	subst:sg:loc:m1	nazwisko	
 Trumpie	Trump	subst:sg:voc:m1	nazwisko	
@@ -3490,7 +3347,6 @@ Truszczyńscy	Truszczyński	subst:pl:nom.voc:m1	nazwisko
 Truszczyńskich	Truszczyński	subst:pl:gen.acc:m1	nazwisko	
 Truszczyńskich	Truszczyński	subst:pl:loc:m1	nazwisko	
 Truszczyńskiego	Truszczyński	subst:sg:gen.acc:m1	nazwisko	
-Truszczyńskiego	Truszczyński	subst:sg:gen:m1	nazwisko	
 Truszczyńskiemu	Truszczyński	subst:sg:dat:m1	nazwisko	
 Truszczyńskie	Truszczyński	depr:pl:nom.acc.voc:m2	nazwisko	
 Truszczyńskimi	Truszczyński	subst:pl:inst:m1	nazwisko	
@@ -3514,7 +3370,6 @@ Truszkowscy	Truszkowski	subst:pl:nom.voc:m1	nazwisko
 Truszkowskich	Truszkowski	subst:pl:gen.acc:m1	nazwisko	
 Truszkowskich	Truszkowski	subst:pl:loc:m1	nazwisko	
 Truszkowskiego	Truszkowski	subst:sg:gen.acc:m1	nazwisko	
-Truszkowskiego	Truszkowski	subst:sg:gen:m1	nazwisko	
 Truszkowskiemu	Truszkowski	subst:sg:dat:m1	nazwisko	
 Truszkowskie	Truszkowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Truszkowskimi	Truszkowski	subst:pl:inst:m1	nazwisko	
@@ -3537,7 +3392,6 @@ Trydenty	Trydent	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Tryfiliuszach	Tryfiliusz	subst:pl:loc:m1	imię	
 Tryfiliuszami	Tryfiliusz	subst:pl:inst:m1	imię	
 Tryfiliusza	Tryfiliusz	subst:sg:gen.acc:m1	imię	
-Tryfiliusza	Tryfiliusz	subst:sg:gen:m1	imię	
 Tryfiliuszem	Tryfiliusz	subst:sg:inst:m1	imię	
 Tryfiliusze	Tryfiliusz	depr:pl:nom.acc.voc:m2	imię	
 Tryfiliusze	Tryfiliusz	subst:pl:nom.voc:m1	imię	
@@ -3551,7 +3405,6 @@ Tryfiliuszu	Tryfiliusz	subst:sg:voc:m1	imię
 Tryfonach	Tryfon	subst:pl:loc:m1	imię	
 Tryfonami	Tryfon	subst:pl:inst:m1	imię	
 Tryfona	Tryfon	subst:sg:gen.acc:m1	imię	
-Tryfona	Tryfon	subst:sg:gen:m1	imię	
 Tryfonem	Tryfon	subst:sg:inst:m1	imię	
 Tryfonie	Tryfon	subst:sg:loc:m1	imię	
 Tryfonie	Tryfon	subst:sg:voc:m1	imię	
@@ -3599,7 +3452,6 @@ Trypolitanio	Trypolitania	subst:sg:voc:f	nazwa geograficzna
 Trytonach	Tryton	subst:pl:loc:m1	nazwa własna	mit.
 Trytonami	Tryton	subst:pl:inst:m1	nazwa własna	mit.
 Trytona	Tryton	subst:sg:gen.acc:m1	nazwa własna	mit.
-Trytona	Tryton	subst:sg:gen:m1	nazwa własna	mit.
 Trytonem	Tryton	subst:sg:inst:m1	nazwa własna	mit.
 Trytonie	Tryton	subst:sg:loc:m1	nazwa własna	mit.
 Trytonie	Tryton	subst:sg:voc:m1	nazwa własna	mit.
@@ -3625,7 +3477,6 @@ Trzaskowscy	Trzaskowski	subst:pl:nom.voc:m1	nazwisko
 Trzaskowskich	Trzaskowski	subst:pl:gen.acc:m1	nazwisko	
 Trzaskowskich	Trzaskowski	subst:pl:loc:m1	nazwisko	
 Trzaskowskiego	Trzaskowski	subst:sg:gen.acc:m1	nazwisko	
-Trzaskowskiego	Trzaskowski	subst:sg:gen:m1	nazwisko	
 Trzaskowskiemu	Trzaskowski	subst:sg:dat:m1	nazwisko	
 Trzaskowskie	Trzaskowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Trzaskowskimi	Trzaskowski	subst:pl:inst:m1	nazwisko	
@@ -3660,7 +3511,6 @@ Trzcińscy	Trzciński	subst:pl:nom.voc:m1	nazwisko
 Trzcińskich	Trzciński	subst:pl:gen.acc:m1	nazwisko	
 Trzcińskich	Trzciński	subst:pl:loc:m1	nazwisko	
 Trzcińskiego	Trzciński	subst:sg:gen.acc:m1	nazwisko	
-Trzcińskiego	Trzciński	subst:sg:gen:m1	nazwisko	
 Trzcińskiemu	Trzciński	subst:sg:dat:m1	nazwisko	
 Trzcińskie	Trzciński	depr:pl:nom.acc.voc:m2	nazwisko	
 Trzcińskimi	Trzciński	subst:pl:inst:m1	nazwisko	
@@ -3718,7 +3568,6 @@ Trzebieszów	Trzebieszów	subst:sg:nom.acc:m3	nazwa geograficzna
 Trzebimirach	Trzebimir	subst:pl:loc:m1	imię	
 Trzebimirami	Trzebimir	subst:pl:inst:m1	imię	
 Trzebimira	Trzebimir	subst:sg:gen.acc:m1	imię	
-Trzebimira	Trzebimir	subst:sg:gen:m1	imię	
 Trzebimirem	Trzebimir	subst:sg:inst:m1	imię	
 Trzebimirom	Trzebimir	subst:pl:dat:m1	imię	
 Trzebimirowie	Trzebimir	subst:pl:nom.voc:m1	imię	
@@ -3744,7 +3593,6 @@ Trzebiń	Trzebinia	subst:pl:gen:f	nazwa geograficzna	char.
 Trzebisławach	Trzebisław	subst:pl:loc:m1	imię	
 Trzebisławami	Trzebisław	subst:pl:inst:m1	imię	
 Trzebisława	Trzebisław	subst:sg:gen.acc:m1	imię	
-Trzebisława	Trzebisław	subst:sg:gen:m1	imię	
 Trzebisławem	Trzebisław	subst:sg:inst:m1	imię	
 Trzebisławie	Trzebisław	subst:sg:loc:m1	imię	
 Trzebisławie	Trzebisław	subst:sg:voc:m1	imię	
@@ -3780,7 +3628,6 @@ Trzebnicy	Trzebnica	subst:sg:gen:f	nazwa geograficzna
 Trzebomysłach	Trzebomysł	subst:pl:loc:m1	imię	
 Trzebomysłami	Trzebomysł	subst:pl:inst:m1	imię	
 Trzebomysła	Trzebomysł	subst:sg:gen.acc:m1	imię	
-Trzebomysła	Trzebomysł	subst:sg:gen:m1	imię	
 Trzebomysłem	Trzebomysł	subst:sg:inst:m1	imię	
 Trzebomysłom	Trzebomysł	subst:pl:dat:m1	imię	
 Trzebomysłowie	Trzebomysł	subst:pl:nom.voc:m1	imię	
@@ -3794,7 +3641,6 @@ Trzebowianach	Trzebowianin	subst:pl:loc:m1	nazwa pospolita
 Trzebowianami	Trzebowianin	subst:pl:inst:m1	nazwa pospolita	
 Trzebowianie	Trzebowianin	subst:pl:nom.voc:m1	nazwa pospolita	
 Trzebowianina	Trzebowianin	subst:sg:gen.acc:m1	nazwa pospolita	
-Trzebowianina	Trzebowianin	subst:sg:gen:m1	nazwa pospolita	
 Trzebowianinem	Trzebowianin	subst:sg:inst:m1	nazwa pospolita	
 Trzebowianinie	Trzebowianin	subst:sg:loc:m1	nazwa pospolita	
 Trzebowianinie	Trzebowianin	subst:sg:voc:m1	nazwa pospolita	
@@ -3809,7 +3655,6 @@ Trzebowici	Trzebowit	subst:pl:nom.voc:m1	imię
 Trzebowitach	Trzebowit	subst:pl:loc:m1	imię	
 Trzebowitami	Trzebowit	subst:pl:inst:m1	imię	
 Trzebowita	Trzebowit	subst:sg:gen.acc:m1	imię	
-Trzebowita	Trzebowit	subst:sg:gen:m1	imię	
 Trzebowitem	Trzebowit	subst:sg:inst:m1	imię	
 Trzebowitom	Trzebowit	subst:pl:dat:m1	imię	
 Trzebowitowie	Trzebowit	subst:pl:nom.voc:m1	imię	
@@ -3830,7 +3675,6 @@ Trzebownisku	Trzebownisko	subst:sg:loc:n:ncol	nazwa geograficzna
 Trzeciakach	Trzeciak	subst:pl:loc:m1	nazwisko	
 Trzeciakami	Trzeciak	subst:pl:inst:m1	nazwisko	
 Trzeciaka	Trzeciak	subst:sg:gen.acc:m1	nazwisko	
-Trzeciaka	Trzeciak	subst:sg:gen:m1	nazwisko	
 Trzeciakiem	Trzeciak	subst:sg:inst:m1	nazwisko	
 Trzeciaki	Trzeciak	depr:pl:nom.acc.voc:m2	nazwisko	
 Trzeciakom	Trzeciak	subst:pl:dat:m1	nazwisko	
@@ -3855,7 +3699,6 @@ Trzetrzelewscy	Trzetrzelewski	subst:pl:nom.voc:m1	nazwisko
 Trzetrzelewskich	Trzetrzelewski	subst:pl:gen.acc:m1	nazwisko	
 Trzetrzelewskich	Trzetrzelewski	subst:pl:loc:m1	nazwisko	
 Trzetrzelewskiego	Trzetrzelewski	subst:sg:gen.acc:m1	nazwisko	
-Trzetrzelewskiego	Trzetrzelewski	subst:sg:gen:m1	nazwisko	
 Trzetrzelewskiemu	Trzetrzelewski	subst:sg:dat:m1	nazwisko	
 Trzetrzelewskie	Trzetrzelewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Trzetrzelewskimi	Trzetrzelewski	subst:pl:inst:m1	nazwisko	
@@ -3890,7 +3733,6 @@ TS-y	TS	subst:pl:nom.acc.voc:m3	nazwa organizacji|nazwa firmy|nazwa instytucji
 Tse-tungach	Tse-tung	subst:pl:loc:m1	człon nazwiska	
 Tse-tungami	Tse-tung	subst:pl:inst:m1	człon nazwiska	
 Tse-tunga	Tse-tung	subst:sg:gen.acc:m1	człon nazwiska	
-Tse-tunga	Tse-tung	subst:sg:gen:m1	człon nazwiska	
 Tse-tungiem	Tse-tung	subst:sg:inst:m1	człon nazwiska	
 Tse-tungi	Tse-tung	depr:pl:nom.acc.voc:m2	człon nazwiska	
 Tse-tungom	Tse-tung	subst:pl:dat:m1	człon nazwiska	
@@ -3914,7 +3756,6 @@ T-shirty	T-shirt	subst:pl:nom.acc.voc:m3	nazwa pospolita
 Tuaregach	Tuareg	subst:pl:loc:m1	nazwa pospolita	
 Tuaregami	Tuareg	subst:pl:inst:m1	nazwa pospolita	
 Tuarega	Tuareg	subst:sg:gen.acc:m1	nazwa pospolita	
-Tuarega	Tuareg	subst:sg:gen:m1	nazwa pospolita	
 Tuaregiem	Tuareg	subst:sg:inst:m1	nazwa pospolita	
 Tuaregi	Tuareg	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Tuaregom	Tuareg	subst:pl:dat:m1	nazwa pospolita	
@@ -3963,7 +3804,6 @@ Tuchów	Tuchów	subst:sg:nom.acc:m3	nazwa geograficzna
 Tucydydesach	Tucydydes	subst:pl:loc:m1	imię	
 Tucydydesami	Tucydydes	subst:pl:inst:m1	imię	
 Tucydydesa	Tucydydes	subst:sg:gen.acc:m1	imię	
-Tucydydesa	Tucydydes	subst:sg:gen:m1	imię	
 Tucydydesem	Tucydydes	subst:sg:inst:m1	imię	
 Tucydydesie	Tucydydes	subst:sg:loc:m1	imię	
 Tucydydesie	Tucydydes	subst:sg:voc:m1	imię	
@@ -3977,7 +3817,6 @@ Tucydydesy	Tucydydes	depr:pl:nom.acc.voc:m2	imię
 Tudjmanach	Tudjman	subst:pl:loc:m1	nazwisko	
 Tudjmanami	Tudjman	subst:pl:inst:m1	nazwisko	
 Tudjmana	Tudjman	subst:sg:gen.acc:m1	nazwisko	
-Tudjmana	Tudjman	subst:sg:gen:m1	nazwisko	
 Tudjmanem	Tudjman	subst:sg:inst:m1	nazwisko	
 Tudjmanie	Tudjman	subst:sg:loc:m1	nazwisko	
 Tudjmanie	Tudjman	subst:sg:voc:m1	nazwisko	
@@ -3990,7 +3829,6 @@ Tudjmany	Tudjman	depr:pl:nom.acc.voc:m2	nazwisko
 Tudorach	Tudor	subst:pl:loc:m1	nazwisko	
 Tudorami	Tudor	subst:pl:inst:m1	nazwisko	
 Tudora	Tudor	subst:sg:gen.acc:m1	nazwisko	
-Tudora	Tudor	subst:sg:gen:m1	nazwisko	
 Tudorem	Tudor	subst:sg:inst:m1	nazwisko	
 Tudorom	Tudor	subst:pl:dat:m1	nazwisko	
 Tudorowie	Tudor	subst:pl:nom.voc:m1	nazwisko	
@@ -4014,7 +3852,6 @@ Tuhanowicz	Tuhanowicze	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Tukidydesach	Tukidydes	subst:pl:loc:m1	imię	
 Tukidydesami	Tukidydes	subst:pl:inst:m1	imię	
 Tukidydesa	Tukidydes	subst:sg:gen.acc:m1	imię	
-Tukidydesa	Tukidydes	subst:sg:gen:m1	imię	
 Tukidydesem	Tukidydes	subst:sg:inst:m1	imię	
 Tukidydesie	Tukidydes	subst:sg:loc:m1	imię	
 Tukidydesie	Tukidydes	subst:sg:voc:m1	imię	
@@ -4085,7 +3922,6 @@ Tunezyjczycy	Tunezyjczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Tunezyjczykach	Tunezyjczyk	subst:pl:loc:m1	nazwa pospolita	
 Tunezyjczykami	Tunezyjczyk	subst:pl:inst:m1	nazwa pospolita	
 Tunezyjczyka	Tunezyjczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Tunezyjczyka	Tunezyjczyk	subst:sg:gen:m1	nazwa pospolita	
 Tunezyjczykiem	Tunezyjczyk	subst:sg:inst:m1	nazwa pospolita	
 Tunezyjczyki	Tunezyjczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Tunezyjczykom	Tunezyjczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -4097,7 +3933,6 @@ Tunezyjczyku	Tunezyjczyk	subst:sg:voc:m1	nazwa pospolita
 Tunguzach	Tunguz	subst:pl:loc:m1	nazwa pospolita	
 Tunguzami	Tunguz	subst:pl:inst:m1	nazwa pospolita	
 Tunguza	Tunguz	subst:sg:gen.acc:m1	nazwa pospolita	
-Tunguza	Tunguz	subst:sg:gen:m1	nazwa pospolita	
 Tunguzem	Tunguz	subst:sg:inst:m1	nazwa pospolita	
 Tunguzie	Tunguz	subst:sg:loc:m1	nazwa pospolita	
 Tunguzie	Tunguz	subst:sg:voc:m1	nazwa pospolita	
@@ -4142,7 +3977,6 @@ Tuplic	Tuplice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Tupolewach	Tupolew	subst:pl:loc:m1	nazwisko	
 Tupolewami	Tupolew	subst:pl:inst:m1	nazwisko	
 Tupolewa	Tupolew	subst:sg:gen.acc:m1	nazwisko	
-Tupolewa	Tupolew	subst:sg:gen:m1	nazwisko	
 Tupolewem	Tupolew	subst:sg:inst:m1	nazwisko	
 Tupolewie	Tupolew	subst:sg:loc:m1	nazwisko	
 Tupolewie	Tupolew	subst:sg:voc:m1	nazwisko	
@@ -4192,7 +4026,6 @@ Turczynek	Turczynek	subst:sg:nom:m1	nazwa pospolita	daw.
 Turczynkach	Turczynek	subst:pl:loc:m1	nazwa pospolita	daw.
 Turczynkami	Turczynek	subst:pl:inst:m1	nazwa pospolita	daw.
 Turczynka	Turczynek	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-Turczynka	Turczynek	subst:sg:gen:m1	nazwa pospolita	daw.
 Turczynkiem	Turczynek	subst:sg:inst:m1	nazwa pospolita	daw.
 Turczynki	Turczynek	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 Turczynkom	Turczynek	subst:pl:dat:m1	nazwa pospolita	daw.
@@ -4215,7 +4048,6 @@ Turczynko	Turczynka	subst:sg:voc:f	nazwa pospolita
 Turczynach	Turczyn:s1	subst:pl:loc:m1	nazwisko	
 Turczynami	Turczyn:s1	subst:pl:inst:m1	nazwisko	
 Turczyna	Turczyn:s1	subst:sg:gen.acc:m1	nazwisko	
-Turczyna	Turczyn:s1	subst:sg:gen:m1	nazwisko	
 Turczynem	Turczyn:s1	subst:sg:inst:m1	nazwisko	
 Turczynie	Turczyn:s1	subst:sg:loc:m1	nazwisko	
 Turczynie	Turczyn:s1	subst:sg:voc:m1	nazwisko	
@@ -4228,7 +4060,6 @@ Turczyny	Turczyn:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Turczynach	Turczyn:s2	subst:pl:loc:m1	nazwa pospolita	daw.
 Turczynami	Turczyn:s2	subst:pl:inst:m1	nazwa pospolita	daw.
 Turczyna	Turczyn:s2	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-Turczyna	Turczyn:s2	subst:sg:gen:m1	nazwa pospolita	daw.
 Turczynem	Turczyn:s2	subst:sg:inst:m1	nazwa pospolita	daw.
 Turczynie	Turczyn:s2	subst:sg:loc:m1	nazwa pospolita	daw.
 Turczynie	Turczyn:s2	subst:sg:voc:m1	nazwa pospolita	daw.
@@ -4254,7 +4085,6 @@ Turczyńscy	Turczyński	subst:pl:nom.voc:m1	nazwisko
 Turczyńskich	Turczyński	subst:pl:gen.acc:m1	nazwisko	
 Turczyńskich	Turczyński	subst:pl:loc:m1	nazwisko	
 Turczyńskiego	Turczyński	subst:sg:gen.acc:m1	nazwisko	
-Turczyńskiego	Turczyński	subst:sg:gen:m1	nazwisko	
 Turczyńskiemu	Turczyński	subst:sg:dat:m1	nazwisko	
 Turczyńskie	Turczyński	depr:pl:nom.acc.voc:m2	nazwisko	
 Turczyńskimi	Turczyński	subst:pl:inst:m1	nazwisko	
@@ -4268,7 +4098,6 @@ Turek	Turek:s1	subst:sg:nom:m1	nazwa pospolita
 Turkach	Turek:s1	subst:pl:loc:m1	nazwa pospolita	
 Turkami	Turek:s1	subst:pl:inst:m1	nazwa pospolita	
 Turka	Turek:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-Turka	Turek:s1	subst:sg:gen:m1	nazwa pospolita	
 Turkiem	Turek:s1	subst:sg:inst:m1	nazwa pospolita	
 Turki	Turek:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Turkom	Turek:s1	subst:pl:dat:m1	nazwa pospolita	
@@ -4291,7 +4120,6 @@ Turek	Turek:s3	subst:sg:nom:m1	nazwisko
 Turkach	Turek:s3	subst:pl:loc:m1	nazwisko	
 Turkami	Turek:s3	subst:pl:inst:m1	nazwisko	
 Turka	Turek:s3	subst:sg:gen.acc:m1	nazwisko	
-Turka	Turek:s3	subst:sg:gen:m1	nazwisko	
 Turkiem	Turek:s3	subst:sg:inst:m1	nazwisko	
 Turki	Turek:s3	depr:pl:nom.acc.voc:m2	nazwisko	
 Turkom	Turek:s3	subst:pl:dat:m1	nazwisko	
@@ -4303,7 +4131,6 @@ Turku	Turek:s3	subst:sg:voc:m1	nazwisko
 Turgieniewach	Turgieniew	subst:pl:loc:m1	nazwisko	
 Turgieniewami	Turgieniew	subst:pl:inst:m1	nazwisko	
 Turgieniewa	Turgieniew	subst:sg:gen.acc:m1	nazwisko	
-Turgieniewa	Turgieniew	subst:sg:gen:m1	nazwisko	
 Turgieniewem	Turgieniew	subst:sg:inst:m1	nazwisko	
 Turgieniewie	Turgieniew	subst:sg:loc:m1	nazwisko	
 Turgieniewie	Turgieniew	subst:sg:voc:m1	nazwisko	
@@ -4316,7 +4143,6 @@ Turgieniewy	Turgieniew	depr:pl:nom.acc.voc:m2	nazwisko
 Turingach	Turing	subst:pl:loc:m1	nazwisko	
 Turingami	Turing	subst:pl:inst:m1	nazwisko	
 Turinga	Turing	subst:sg:gen.acc:m1	nazwisko	
-Turinga	Turing	subst:sg:gen:m1	nazwisko	
 Turingiem	Turing	subst:sg:inst:m1	nazwisko	
 Turingi	Turing	depr:pl:nom.acc.voc:m2	nazwisko	
 Turingom	Turing	subst:pl:dat:m1	nazwisko	
@@ -4340,7 +4166,6 @@ Turkiestany	Turkiestan	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Turkmenach	Turkmen	subst:pl:loc:m1	nazwa pospolita	
 Turkmenami	Turkmen	subst:pl:inst:m1	nazwa pospolita	
 Turkmena	Turkmen	subst:sg:gen.acc:m1	nazwa pospolita	
-Turkmena	Turkmen	subst:sg:gen:m1	nazwa pospolita	
 Turkmenem	Turkmen	subst:sg:inst:m1	nazwa pospolita	
 Turkmenie	Turkmen	subst:sg:loc:m1	nazwa pospolita	
 Turkmenie	Turkmen	subst:sg:voc:m1	nazwa pospolita	
@@ -4399,7 +4224,6 @@ Turkowscy	Turkowski	subst:pl:nom.voc:m1	nazwisko
 Turkowskich	Turkowski	subst:pl:gen.acc:m1	nazwisko	
 Turkowskich	Turkowski	subst:pl:loc:m1	nazwisko	
 Turkowskiego	Turkowski	subst:sg:gen.acc:m1	nazwisko	
-Turkowskiego	Turkowski	subst:sg:gen:m1	nazwisko	
 Turkowskiemu	Turkowski	subst:sg:dat:m1	nazwisko	
 Turkowskie	Turkowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Turkowskimi	Turkowski	subst:pl:inst:m1	nazwisko	
@@ -4412,7 +4236,6 @@ Turku	Turku	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna
 Turnauach	Turnau	subst:pl:loc:m1	nazwisko	
 Turnauami	Turnau	subst:pl:inst:m1	nazwisko	
 Turnaua	Turnau	subst:sg:gen.acc:m1	nazwisko	
-Turnaua	Turnau	subst:sg:gen:m1	nazwisko	
 Turnauem	Turnau	subst:sg:inst:m1	nazwisko	
 Turnauom	Turnau	subst:pl:dat:m1	nazwisko	
 Turnauowie	Turnau	subst:pl:nom.voc:m1	nazwisko	
@@ -4425,7 +4248,6 @@ Turnauy	Turnau	depr:pl:nom.acc.voc:m2	nazwisko
 Turnerach	Turner	subst:pl:loc:m1	nazwisko	
 Turnerami	Turner	subst:pl:inst:m1	nazwisko	
 Turnera	Turner	subst:sg:gen.acc:m1	nazwisko	
-Turnera	Turner	subst:sg:gen:m1	nazwisko	
 Turnerem	Turner	subst:sg:inst:m1	nazwisko	
 Turnerom	Turner	subst:pl:dat:m1	nazwisko	
 Turnerowie	Turner	subst:pl:nom.voc:m1	nazwisko	
@@ -4461,7 +4283,6 @@ Turośń	Turośń	subst:sg:nom:f	nazwa geograficzna
 Turowiczach	Turowicz	subst:pl:loc:m1	nazwisko	
 Turowiczami	Turowicz	subst:pl:inst:m1	nazwisko	
 Turowicza	Turowicz	subst:sg:gen.acc:m1	nazwisko	
-Turowicza	Turowicz	subst:sg:gen:m1	nazwisko	
 Turowiczem	Turowicz	subst:sg:inst:m1	nazwisko	
 Turowicze	Turowicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Turowicze	Turowicz	subst:pl:nom.voc:m1	nazwisko	
@@ -4498,7 +4319,6 @@ Turowscy	Turowski	subst:pl:nom.voc:m1	nazwisko
 Turowskich	Turowski	subst:pl:gen.acc:m1	nazwisko	
 Turowskich	Turowski	subst:pl:loc:m1	nazwisko	
 Turowskiego	Turowski	subst:sg:gen.acc:m1	nazwisko	
-Turowskiego	Turowski	subst:sg:gen:m1	nazwisko	
 Turowskiemu	Turowski	subst:sg:dat:m1	nazwisko	
 Turowskie	Turowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Turowskimi	Turowski	subst:pl:inst:m1	nazwisko	
@@ -4522,7 +4342,6 @@ Turscy	Turski	subst:pl:nom.voc:m1	nazwisko
 Turskich	Turski	subst:pl:gen.acc:m1	nazwisko	
 Turskich	Turski	subst:pl:loc:m1	nazwisko	
 Turskiego	Turski	subst:sg:gen.acc:m1	nazwisko	
-Turskiego	Turski	subst:sg:gen:m1	nazwisko	
 Turskiemu	Turski	subst:sg:dat:m1	nazwisko	
 Turskie	Turski	depr:pl:nom.acc.voc:m2	nazwisko	
 Turskimi	Turski	subst:pl:inst:m1	nazwisko	
@@ -4557,7 +4376,6 @@ Turyngio	Turyngia	subst:sg:voc:f	nazwa geograficzna
 Tuskach	Tusk	subst:pl:loc:m1	nazwisko	
 Tuskami	Tusk	subst:pl:inst:m1	nazwisko	
 Tuska	Tusk	subst:sg:gen.acc:m1	nazwisko	
-Tuska	Tusk	subst:sg:gen:m1	nazwisko	
 Tuskiem	Tusk	subst:sg:inst:m1	nazwisko	
 Tuski	Tusk	depr:pl:nom.acc.voc:m2	nazwisko	
 Tuskom	Tusk	subst:pl:dat:m1	nazwisko	
@@ -4593,7 +4411,6 @@ Tuszyny	Tuszyn	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Tutenchamonach	Tutenchamon	subst:pl:loc:m1	imię	
 Tutenchamonami	Tutenchamon	subst:pl:inst:m1	imię	
 Tutenchamona	Tutenchamon	subst:sg:gen.acc:m1	imię	
-Tutenchamona	Tutenchamon	subst:sg:gen:m1	imię	
 Tutenchamonem	Tutenchamon	subst:sg:inst:m1	imię	
 Tutenchamonie	Tutenchamon	subst:sg:loc:m1	imię	
 Tutenchamonie	Tutenchamon	subst:sg:voc:m1	imię	
@@ -4608,7 +4425,6 @@ Tutsi	Tutsi	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwa pospolita
 Tuwimach	Tuwim	subst:pl:loc:m1	nazwisko	
 Tuwimami	Tuwim	subst:pl:inst:m1	nazwisko	
 Tuwima	Tuwim	subst:sg:gen.acc:m1	nazwisko	
-Tuwima	Tuwim	subst:sg:gen:m1	nazwisko	
 Tuwimem	Tuwim	subst:sg:inst:m1	nazwisko	
 Tuwimie	Tuwim	subst:sg:loc:m1	nazwisko	
 Tuwimie	Tuwim	subst:sg:voc:m1	nazwisko	
@@ -4629,7 +4445,6 @@ TWA	TWA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa firmy
 Twainach	Twain	subst:pl:loc:m1	nazwisko	
 Twainami	Twain	subst:pl:inst:m1	nazwisko	
 Twaina	Twain	subst:sg:gen.acc:m1	nazwisko	
-Twaina	Twain	subst:sg:gen:m1	nazwisko	
 Twainem	Twain	subst:sg:inst:m1	nazwisko	
 Twainie	Twain	subst:sg:loc:m1	nazwisko	
 Twainie	Twain	subst:sg:voc:m1	nazwisko	
@@ -4642,7 +4457,6 @@ Twainy	Twain	depr:pl:nom.acc.voc:m2	nazwisko
 Twardosławach	Twardosław	subst:pl:loc:m1	imię	
 Twardosławami	Twardosław	subst:pl:inst:m1	imię	
 Twardosława	Twardosław	subst:sg:gen.acc:m1	imię	
-Twardosława	Twardosław	subst:sg:gen:m1	imię	
 Twardosławem	Twardosław	subst:sg:inst:m1	imię	
 Twardosławie	Twardosław	subst:sg:loc:m1	imię	
 Twardosławie	Twardosław	subst:sg:voc:m1	imię	
@@ -4668,7 +4482,6 @@ Twardowscy	Twardowski	subst:pl:nom.voc:m1	nazwisko
 Twardowskich	Twardowski	subst:pl:gen.acc:m1	nazwisko	
 Twardowskich	Twardowski	subst:pl:loc:m1	nazwisko	
 Twardowskiego	Twardowski	subst:sg:gen.acc:m1	nazwisko	
-Twardowskiego	Twardowski	subst:sg:gen:m1	nazwisko	
 Twardowskiemu	Twardowski	subst:sg:dat:m1	nazwisko	
 Twardowskie	Twardowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Twardowskimi	Twardowski	subst:pl:inst:m1	nazwisko	
@@ -4712,7 +4525,6 @@ Tworóg	Tworóg	subst:sg:nom.acc:m3	nazwa geograficzna
 Tworzymirach	Tworzymir	subst:pl:loc:m1	imię	
 Tworzymirami	Tworzymir	subst:pl:inst:m1	imię	
 Tworzymira	Tworzymir	subst:sg:gen.acc:m1	imię	
-Tworzymira	Tworzymir	subst:sg:gen:m1	imię	
 Tworzymirem	Tworzymir	subst:sg:inst:m1	imię	
 Tworzymirom	Tworzymir	subst:pl:dat:m1	imię	
 Tworzymirowie	Tworzymir	subst:pl:nom.voc:m1	imię	
@@ -4726,7 +4538,6 @@ Tworzymirzy	Tworzymir	subst:pl:nom.voc:m1	imię
 Tworzysławach	Tworzysław	subst:pl:loc:m1	imię	
 Tworzysławami	Tworzysław	subst:pl:inst:m1	imię	
 Tworzysława	Tworzysław	subst:sg:gen.acc:m1	imię	
-Tworzysława	Tworzysław	subst:sg:gen:m1	imię	
 Tworzysławem	Tworzysław	subst:sg:inst:m1	imię	
 Tworzysławie	Tworzysław	subst:sg:loc:m1	imię	
 Tworzysławie	Tworzysław	subst:sg:voc:m1	imię	
@@ -4774,7 +4585,6 @@ Tyberiadzie	Tyberiada	subst:sg:dat.loc:f	nazwa geograficzna
 Tyberiuszach	Tyberiusz	subst:pl:loc:m1	imię	
 Tyberiuszami	Tyberiusz	subst:pl:inst:m1	imię	
 Tyberiusza	Tyberiusz	subst:sg:gen.acc:m1	imię	
-Tyberiusza	Tyberiusz	subst:sg:gen:m1	imię	
 Tyberiuszem	Tyberiusz	subst:sg:inst:m1	imię	
 Tyberiusze	Tyberiusz	depr:pl:nom.acc.voc:m2	imię	
 Tyberiusze	Tyberiusz	subst:pl:nom.voc:m1	imię	
@@ -4811,7 +4621,6 @@ Tybetańczycy	Tybetańczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Tybetańczykach	Tybetańczyk	subst:pl:loc:m1	nazwa pospolita	
 Tybetańczykami	Tybetańczyk	subst:pl:inst:m1	nazwa pospolita	
 Tybetańczyka	Tybetańczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Tybetańczyka	Tybetańczyk	subst:sg:gen:m1	nazwa pospolita	
 Tybetańczykiem	Tybetańczyk	subst:sg:inst:m1	nazwa pospolita	
 Tybetańczyki	Tybetańczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Tybetańczykom	Tybetańczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -4845,7 +4654,6 @@ Tybrze	Tybr	subst:sg:voc:m3	nazwa geograficzna
 Tyburcjuszach	Tyburcjusz	subst:pl:loc:m1	imię	
 Tyburcjuszami	Tyburcjusz	subst:pl:inst:m1	imię	
 Tyburcjusza	Tyburcjusz	subst:sg:gen.acc:m1	imię	
-Tyburcjusza	Tyburcjusz	subst:sg:gen:m1	imię	
 Tyburcjuszem	Tyburcjusz	subst:sg:inst:m1	imię	
 Tyburcjusze	Tyburcjusz	depr:pl:nom.acc.voc:m2	imię	
 Tyburcjusze	Tyburcjusz	subst:pl:nom.voc:m1	imię	
@@ -4871,7 +4679,6 @@ Tyburscy	Tyburski	subst:pl:nom.voc:m1	nazwisko
 Tyburskich	Tyburski	subst:pl:gen.acc:m1	nazwisko	
 Tyburskich	Tyburski	subst:pl:loc:m1	nazwisko	
 Tyburskiego	Tyburski	subst:sg:gen.acc:m1	nazwisko	
-Tyburskiego	Tyburski	subst:sg:gen:m1	nazwisko	
 Tyburskiemu	Tyburski	subst:sg:dat:m1	nazwisko	
 Tyburskie	Tyburski	depr:pl:nom.acc.voc:m2	nazwisko	
 Tyburskimi	Tyburski	subst:pl:inst:m1	nazwisko	
@@ -4883,7 +4690,6 @@ Tyburski	Tyburski	subst:sg:voc:m1	nazwisko
 Tychonach	Tychon	subst:pl:loc:m1	imię	
 Tychonami	Tychon	subst:pl:inst:m1	imię	
 Tychona	Tychon	subst:sg:gen.acc:m1	imię	
-Tychona	Tychon	subst:sg:gen:m1	imię	
 Tychonem	Tychon	subst:sg:inst:m1	imię	
 Tychonie	Tychon	subst:sg:loc:m1	imię	
 Tychonie	Tychon	subst:sg:voc:m1	imię	
@@ -4919,7 +4725,6 @@ Tychy	Tychy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	reg.
 Tycjanach	Tycjan	subst:pl:loc:m1	imię	
 Tycjanami	Tycjan	subst:pl:inst:m1	imię	
 Tycjana	Tycjan	subst:sg:gen.acc:m1	imię	
-Tycjana	Tycjan	subst:sg:gen:m1	imię	
 Tycjanem	Tycjan	subst:sg:inst:m1	imię	
 Tycjanie	Tycjan	subst:sg:loc:m1	imię	
 Tycjanie	Tycjan	subst:sg:voc:m1	imię	
@@ -5000,7 +4805,6 @@ Tylutcy	Tylutki	subst:pl:nom.voc:m1	nazwisko
 Tylutkich	Tylutki	subst:pl:gen.acc:m1	nazwisko	
 Tylutkich	Tylutki	subst:pl:loc:m1	nazwisko	
 Tylutkiego	Tylutki	subst:sg:gen.acc:m1	nazwisko	
-Tylutkiego	Tylutki	subst:sg:gen:m1	nazwisko	
 Tylutkiemu	Tylutki	subst:sg:dat:m1	nazwisko	
 Tylutkie	Tylutki	depr:pl:nom.acc.voc:m2	nazwisko	
 Tylutkimi	Tylutki	subst:pl:inst:m1	nazwisko	
@@ -5035,7 +4839,6 @@ Tymińscy	Tymiński	subst:pl:nom.voc:m1	nazwisko
 Tymińskich	Tymiński	subst:pl:gen.acc:m1	nazwisko	
 Tymińskich	Tymiński	subst:pl:loc:m1	nazwisko	
 Tymińskiego	Tymiński	subst:sg:gen.acc:m1	nazwisko	
-Tymińskiego	Tymiński	subst:sg:gen:m1	nazwisko	
 Tymińskiemu	Tymiński	subst:sg:dat:m1	nazwisko	
 Tymińskie	Tymiński	depr:pl:nom.acc.voc:m2	nazwisko	
 Tymińskimi	Tymiński	subst:pl:inst:m1	nazwisko	
@@ -5047,7 +4850,6 @@ Tymiński	Tymiński	subst:sg:voc:m1	nazwisko
 Tymonach	Tymon	subst:pl:loc:m1	imię	
 Tymonami	Tymon	subst:pl:inst:m1	imię	
 Tymona	Tymon	subst:sg:gen.acc:m1	imię	
-Tymona	Tymon	subst:sg:gen:m1	imię	
 Tymonem	Tymon	subst:sg:inst:m1	imię	
 Tymonie	Tymon	subst:sg:loc:m1	imię	
 Tymonie	Tymon	subst:sg:voc:m1	imię	
@@ -5061,7 +4863,6 @@ Tymony	Tymon	depr:pl:nom.acc.voc:m2	imię
 Tymoteuszach	Tymoteusz	subst:pl:loc:m1	imię	
 Tymoteuszami	Tymoteusz	subst:pl:inst:m1	imię	
 Tymoteusza	Tymoteusz	subst:sg:gen.acc:m1	imię	
-Tymoteusza	Tymoteusz	subst:sg:gen:m1	imię	
 Tymoteuszem	Tymoteusz	subst:sg:inst:m1	imię	
 Tymoteusze	Tymoteusz	depr:pl:nom.acc.voc:m2	imię	
 Tymoteusze	Tymoteusz	subst:pl:nom.voc:m1	imię	
@@ -5102,7 +4903,6 @@ Tyrcy	Tyrca	subst:sg:gen:f	imię
 Tyrmandach	Tyrmand	subst:pl:loc:m1	nazwisko	
 Tyrmandami	Tyrmand	subst:pl:inst:m1	nazwisko	
 Tyrmanda	Tyrmand	subst:sg:gen.acc:m1	nazwisko	
-Tyrmanda	Tyrmand	subst:sg:gen:m1	nazwisko	
 Tyrmandem	Tyrmand	subst:sg:inst:m1	nazwisko	
 Tyrmandom	Tyrmand	subst:pl:dat:m1	nazwisko	
 Tyrmandowie	Tyrmand	subst:pl:nom.voc:m1	nazwisko	
@@ -5139,7 +4939,6 @@ Tyrolu	Tyrol	subst:sg:voc:m3	nazwa geograficzna
 Tyrsach	Tyrs	subst:pl:loc:m1	imię	
 Tyrsami	Tyrs	subst:pl:inst:m1	imię	
 Tyrsa	Tyrs	subst:sg:gen.acc:m1	imię	
-Tyrsa	Tyrs	subst:sg:gen:m1	imię	
 Tyrsem	Tyrs	subst:sg:inst:m1	imię	
 Tyrsie	Tyrs	subst:sg:loc:m1	imię	
 Tyrsie	Tyrs	subst:sg:voc:m1	imię	
@@ -5153,7 +4952,6 @@ Tyrsy	Tyrs	depr:pl:nom.acc.voc:m2	imię
 Tyszkiewiczach	Tyszkiewicz	subst:pl:loc:m1	nazwisko	
 Tyszkiewiczami	Tyszkiewicz	subst:pl:inst:m1	nazwisko	
 Tyszkiewicza	Tyszkiewicz	subst:sg:gen.acc:m1	nazwisko	
-Tyszkiewicza	Tyszkiewicz	subst:sg:gen:m1	nazwisko	
 Tyszkiewiczem	Tyszkiewicz	subst:sg:inst:m1	nazwisko	
 Tyszkiewicze	Tyszkiewicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Tyszkiewicze	Tyszkiewicz	subst:pl:nom.voc:m1	nazwisko	
@@ -5179,7 +4977,6 @@ Tyszowiec	Tyszowce	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Tytusach	Tytus	subst:pl:loc:m1	imię	
 Tytusami	Tytus	subst:pl:inst:m1	imię	
 Tytusa	Tytus	subst:sg:gen.acc:m1	imię	
-Tytusa	Tytus	subst:sg:gen:m1	imię	
 Tytusem	Tytus	subst:sg:inst:m1	imię	
 Tytusie	Tytus	subst:sg:loc:m1	imię	
 Tytusie	Tytus	subst:sg:voc:m1	imię	
@@ -5192,7 +4989,6 @@ Tytusy	Tytus	depr:pl:nom.acc.voc:m2	imię
 Tyzenhausach	Tyzenhaus	subst:pl:loc:m1	nazwisko	
 Tyzenhausami	Tyzenhaus	subst:pl:inst:m1	nazwisko	
 Tyzenhausa	Tyzenhaus	subst:sg:gen.acc:m1	nazwisko	
-Tyzenhausa	Tyzenhaus	subst:sg:gen:m1	nazwisko	
 Tyzenhausem	Tyzenhaus	subst:sg:inst:m1	nazwisko	
 Tyzenhausie	Tyzenhaus	subst:sg:loc:m1	nazwisko	
 Tyzenhausie	Tyzenhaus	subst:sg:voc:m1	nazwisko	
@@ -5205,7 +5001,6 @@ Tyzenhausy	Tyzenhaus	depr:pl:nom.acc.voc:m2	nazwisko
 Tyzenhauzach	Tyzenhauz	subst:pl:loc:m1	nazwisko	
 Tyzenhauzami	Tyzenhauz	subst:pl:inst:m1	nazwisko	
 Tyzenhauza	Tyzenhauz	subst:sg:gen.acc:m1	nazwisko	
-Tyzenhauza	Tyzenhauz	subst:sg:gen:m1	nazwisko	
 Tyzenhauzem	Tyzenhauz	subst:sg:inst:m1	nazwisko	
 Tyzenhauzie	Tyzenhauz	subst:sg:loc:m1	nazwisko	
 Tyzenhauzie	Tyzenhauz	subst:sg:voc:m1	nazwisko	

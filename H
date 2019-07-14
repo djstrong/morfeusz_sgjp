@@ -1,6 +1,5 @@
 Habakukach	Habakuk	subst:pl:loc:m1	imię	bibl.
 Habakuka	Habakuk	subst:sg:gen.acc:m1	imię	bibl.
-Habakuka	Habakuk	subst:sg:gen:m1	imię	bibl.
 Habakukami	Habakuk	subst:pl:inst:m1	imię	bibl.
 Habakuk	Habakuk	subst:sg:nom:m1	imię	bibl.
 Habakukiem	Habakuk	subst:sg:inst:m1	imię	bibl.
@@ -13,7 +12,6 @@ Habakuku	Habakuk	subst:sg:loc:m1	imię	bibl.
 Habakuku	Habakuk	subst:sg:voc:m1	imię	bibl.
 Habsburgach	Habsburg	subst:pl:loc:m1	nazwa członka rodu	
 Habsburga	Habsburg	subst:sg:gen.acc:m1	nazwa członka rodu	
-Habsburga	Habsburg	subst:sg:gen:m1	nazwa członka rodu	
 Habsburgami	Habsburg	subst:pl:inst:m1	nazwa członka rodu	
 Habsburg	Habsburg	subst:sg:nom:m1	nazwa członka rodu	
 Habsburgiem	Habsburg	subst:sg:inst:m1	nazwa członka rodu	
@@ -38,7 +36,6 @@ Haczowy	Haczów	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Haczów	Haczów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hadesach	Hades	subst:pl:loc:m1	imię	mit.
 Hadesa	Hades	subst:sg:gen.acc:m1	imię	mit.
-Hadesa	Hades	subst:sg:gen:m1	imię	mit.
 Hadesami	Hades	subst:pl:inst:m1	imię	mit.
 Hadesem	Hades	subst:sg:inst:m1	imię	mit.
 Hades	Hades	subst:sg:nom:m1	imię	mit.
@@ -51,7 +48,6 @@ Hadesów	Hades	subst:pl:gen.acc:m1	imię	mit.
 Hadesy	Hades	depr:pl:nom.acc.voc:m2	imię	mit.
 Hadrianach	Hadrian	subst:pl:loc:m1	imię	
 Hadriana	Hadrian	subst:sg:gen.acc:m1	imię	
-Hadriana	Hadrian	subst:sg:gen:m1	imię	
 Hadrianami	Hadrian	subst:pl:inst:m1	imię	
 Hadrianem	Hadrian	subst:sg:inst:m1	imię	
 Hadrian	Hadrian	subst:sg:nom:m1	imię	
@@ -74,7 +70,6 @@ Hadynom	Hadyna	subst:pl:dat:m1	nazwisko
 Hadynowie	Hadyna	subst:pl:nom.voc:m1	nazwisko	
 Hadynów	Hadyna	subst:pl:gen.acc:m1	nazwisko	
 Hadyny	Hadyna	depr:pl:nom.acc.voc:m2	nazwisko	
-Hadyny	Hadyna	subst:sg:gen:m1	nazwisko	
 Hadziaczach	Hadziacz	subst:pl:loc:m3	nazwa geograficzna	
 Hadziacza	Hadziacz	subst:sg:gen:m3	nazwa geograficzna	
 Hadziaczami	Hadziacz	subst:pl:inst:m3	nazwa geograficzna	
@@ -89,7 +84,6 @@ Hadziaczy	Hadziacz	subst:pl:gen:m3	nazwa geograficzna
 Haeckel	Haeckel	subst:sg:nom:m1	nazwisko	
 Haecklach	Haeckel	subst:pl:loc:m1	nazwisko	
 Haeckla	Haeckel	subst:sg:gen.acc:m1	nazwisko	
-Haeckla	Haeckel	subst:sg:gen:m1	nazwisko	
 Haecklami	Haeckel	subst:pl:inst:m1	nazwisko	
 Haeckle	Haeckel	depr:pl:nom.acc.voc:m2	nazwisko	
 Haecklem	Haeckel	subst:sg:inst:m1	nazwisko	
@@ -102,7 +96,6 @@ Haecklu	Haeckel	subst:sg:voc:m1	nazwisko
 Haendel	Haendel	subst:sg:nom:m1	nazwisko	
 Haendlach	Haendel	subst:pl:loc:m1	nazwisko	
 Haendla	Haendel	subst:sg:gen.acc:m1	nazwisko	
-Haendla	Haendel	subst:sg:gen:m1	nazwisko	
 Haendlami	Haendel	subst:pl:inst:m1	nazwisko	
 Haendle	Haendel	depr:pl:nom.acc.voc:m2	nazwisko	
 Haendlem	Haendel	subst:sg:inst:m1	nazwisko	
@@ -137,7 +130,6 @@ Haitankom	Haitanka	subst:pl:dat:f	nazwa pospolita
 Haitańczycy	Haitańczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Haitańczykach	Haitańczyk	subst:pl:loc:m1	nazwa pospolita	
 Haitańczyka	Haitańczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Haitańczyka	Haitańczyk	subst:sg:gen:m1	nazwa pospolita	
 Haitańczykami	Haitańczyk	subst:pl:inst:m1	nazwa pospolita	
 Haitańczyk	Haitańczyk	subst:sg:nom:m1	nazwa pospolita	
 Haitańczykiem	Haitańczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -239,7 +231,6 @@ Halko	Halka	subst:sg:voc:f	imię
 Halkom	Halka	subst:pl:dat:f	imię	
 Hallerach	Haller	subst:pl:loc:m1	nazwisko	
 Hallera	Haller	subst:sg:gen.acc:m1	nazwisko	
-Hallera	Haller	subst:sg:gen:m1	nazwisko	
 Hallerami	Haller	subst:pl:inst:m1	nazwisko	
 Hallerem	Haller	subst:sg:inst:m1	nazwisko	
 Haller	Haller	subst:sg:nom:m1	nazwisko	
@@ -252,7 +243,6 @@ Hallerze	Haller	subst:sg:loc:m1	nazwisko
 Hallerze	Haller	subst:sg:voc:m1	nazwisko	
 Halleyach	Halley	subst:pl:loc:m1	nazwisko	
 Halleya	Halley	subst:sg:gen.acc:m1	nazwisko	
-Halleya	Halley	subst:sg:gen:m1	nazwisko	
 Halleyami	Halley	subst:pl:inst:m1	nazwisko	
 Halleye	Halley	depr:pl:nom.acc.voc:m2	nazwisko	
 Halleyem	Halley	subst:sg:inst:m1	nazwisko	
@@ -311,7 +301,6 @@ Hamburgu	Hamburg	subst:sg:loc:m3	nazwa geograficzna
 Hamburgu	Hamburg	subst:sg:voc:m3	nazwa geograficzna	
 Hammondach	Hammond	subst:pl:loc:m1	nazwisko	
 Hammonda	Hammond	subst:sg:gen.acc:m1	nazwisko	
-Hammonda	Hammond	subst:sg:gen:m1	nazwisko	
 Hammondami	Hammond	subst:pl:inst:m1	nazwisko	
 Hammondem	Hammond	subst:sg:inst:m1	nazwisko	
 Hammond	Hammond	subst:sg:nom:m1	nazwisko	
@@ -325,7 +314,6 @@ Hammondzie	Hammond	subst:sg:voc:m1	nazwisko
 Hammurabich	Hammurabi	subst:pl:gen.acc:m1	imię	
 Hammurabich	Hammurabi	subst:pl:loc:m1	imię	
 Hammurabiego	Hammurabi	subst:sg:gen.acc:m1	imię	
-Hammurabiego	Hammurabi	subst:sg:gen:m1	imię	
 Hammurabie	Hammurabi	depr:pl:nom.acc.voc:m2	imię	
 Hammurabiemu	Hammurabi	subst:sg:dat:m1	imię	
 Hammurabi	Hammurabi	subst:sg:nom:m1	imię	
@@ -338,7 +326,6 @@ Hammurabiowie	Hammurabi	subst:pl:nom.voc:m1	imię
 Hampshire	Hampshire	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy geograficznej	
 Hamsunach	Hamsun	subst:pl:loc:m1	nazwisko	
 Hamsuna	Hamsun	subst:sg:gen.acc:m1	nazwisko	
-Hamsuna	Hamsun	subst:sg:gen:m1	nazwisko	
 Hamsunami	Hamsun	subst:pl:inst:m1	nazwisko	
 Hamsunem	Hamsun	subst:sg:inst:m1	nazwisko	
 Hamsun	Hamsun	subst:sg:nom:m1	nazwisko	
@@ -352,7 +339,6 @@ Hamsuny	Hamsun	depr:pl:nom.acc.voc:m2	nazwisko
 Handkach	Handke	subst:pl:loc:m1	nazwisko	
 Handkami	Handke	subst:pl:inst:m1	nazwisko	
 Handkego	Handke	subst:sg:gen.acc:m1	nazwisko	
-Handkego	Handke	subst:sg:gen:m1	nazwisko	
 Handke	Handke	depr:pl:nom.acc.voc:m2	nazwisko	
 Handke	Handke	subst:sg:nom:m1	nazwisko	
 Handke	Handke	subst:sg:voc:m1	nazwisko	
@@ -409,7 +395,6 @@ Hanny	Hanna	subst:pl:nom.acc.voc:f	imię
 Hanny	Hanna	subst:sg:gen:f	imię	
 Hannawaldach	Hannawald	subst:pl:loc:m1	nazwisko	
 Hannawalda	Hannawald	subst:sg:gen.acc:m1	nazwisko	
-Hannawalda	Hannawald	subst:sg:gen:m1	nazwisko	
 Hannawaldami	Hannawald	subst:pl:inst:m1	nazwisko	
 Hannawaldem	Hannawald	subst:sg:inst:m1	nazwisko	
 Hannawald	Hannawald	subst:sg:nom:m1	nazwisko	
@@ -422,7 +407,6 @@ Hannawaldzie	Hannawald	subst:sg:loc:m1	nazwisko
 Hannawaldzie	Hannawald	subst:sg:voc:m1	nazwisko	
 Hannibalach	Hannibal	subst:pl:loc:m1	imię	
 Hannibala	Hannibal	subst:sg:gen.acc:m1	imię	
-Hannibala	Hannibal	subst:sg:gen:m1	imię	
 Hannibalami	Hannibal	subst:pl:inst:m1	imię	
 Hannibale	Hannibal	depr:pl:nom.acc.voc:m2	imię	
 Hannibale	Hannibal	subst:pl:nom.voc:m1	imię	
@@ -448,7 +432,6 @@ Hanowerze	Hanower	subst:sg:loc:m3	nazwa geograficzna
 Hanowerze	Hanower	subst:sg:voc:m3	nazwa geograficzna	
 Hansach	Hans	subst:pl:loc:m1	imię	
 Hansa	Hans	subst:sg:gen.acc:m1	imię	
-Hansa	Hans	subst:sg:gen:m1	imię	
 Hansami	Hans	subst:pl:inst:m1	imię	
 Hansem	Hans	subst:sg:inst:m1	imię	
 Hans	Hans	subst:sg:nom:m1	imię	
@@ -484,7 +467,6 @@ Hanusiu	Hanusia	subst:sg:voc:f	imię
 Hanuś	Hanusia	subst:pl:gen:f	imię	char.
 Hanuszkiewiczach	Hanuszkiewicz	subst:pl:loc:m1	nazwisko	
 Hanuszkiewicza	Hanuszkiewicz	subst:sg:gen.acc:m1	nazwisko	
-Hanuszkiewicza	Hanuszkiewicz	subst:sg:gen:m1	nazwisko	
 Hanuszkiewiczami	Hanuszkiewicz	subst:pl:inst:m1	nazwisko	
 Hanuszkiewicze	Hanuszkiewicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Hanuszkiewicze	Hanuszkiewicz	subst:pl:nom.voc:m1	nazwisko	
@@ -530,12 +512,10 @@ Hańczom	Hańcza:s2	subst:pl:dat:m1	nazwisko
 Hańczowie	Hańcza:s2	subst:pl:nom.voc:m1	nazwisko	
 Hańczów	Hańcza:s2	subst:pl:gen.acc:m1	nazwisko	
 Hańczy	Hańcza:s2	subst:sg:dat.loc:m1	nazwisko	
-Hańczy	Hańcza:s2	subst:sg:gen:m1	nazwisko	
 Hańscy	Hański	subst:pl:nom.voc:m1	nazwisko	
 Hańskich	Hański	subst:pl:gen.acc:m1	nazwisko	
 Hańskich	Hański	subst:pl:loc:m1	nazwisko	
 Hańskiego	Hański	subst:sg:gen.acc:m1	nazwisko	
-Hańskiego	Hański	subst:sg:gen:m1	nazwisko	
 Hańskie	Hański	depr:pl:nom.acc.voc:m2	nazwisko	
 Hańskiemu	Hański	subst:sg:dat:m1	nazwisko	
 Hański	Hański	subst:sg:nom:m1	nazwisko	
@@ -548,7 +528,6 @@ Hakiem	Haq	subst:sg:inst:m1	człon nazwiska
 Haki	Haq	depr:pl:nom.acc.voc:m2	człon nazwiska	
 Haqach	Haq	subst:pl:loc:m1	człon nazwiska	
 Haqa	Haq	subst:sg:gen.acc:m1	człon nazwiska	
-Haqa	Haq	subst:sg:gen:m1	człon nazwiska	
 Haqami	Haq	subst:pl:inst:m1	człon nazwiska	
 Haq	Haq	subst:sg:nom:m1	człon nazwiska	
 Haqom	Haq	subst:pl:dat:m1	człon nazwiska	
@@ -559,7 +538,6 @@ Haqu	Haq	subst:sg:loc:m1	człon nazwiska
 Haqu	Haq	subst:sg:voc:m1	człon nazwiska	
 Harasymach	Harasym	subst:pl:loc:m1	imię	
 Harasyma	Harasym	subst:sg:gen.acc:m1	imię	
-Harasyma	Harasym	subst:sg:gen:m1	imię	
 Harasymami	Harasym	subst:pl:inst:m1	imię	
 Harasymem	Harasym	subst:sg:inst:m1	imię	
 Harasym	Harasym	subst:sg:nom:m1	imię	
@@ -572,7 +550,6 @@ Harasymów	Harasym	subst:pl:gen.acc:m1	imię
 Harasymy	Harasym	depr:pl:nom.acc.voc:m2	imię	
 Harasymowiczach	Harasymowicz	subst:pl:loc:m1	nazwisko	
 Harasymowicza	Harasymowicz	subst:sg:gen.acc:m1	nazwisko	
-Harasymowicza	Harasymowicz	subst:sg:gen:m1	nazwisko	
 Harasymowiczami	Harasymowicz	subst:pl:inst:m1	nazwisko	
 Harasymowicze	Harasymowicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Harasymowicze	Harasymowicz	subst:pl:nom.voc:m1	nazwisko	
@@ -585,7 +562,6 @@ Harasymowiczów	Harasymowicz	subst:pl:gen.acc:m1	nazwisko
 Harasymowiczu	Harasymowicz	subst:sg:loc:m1	nazwisko	
 Harasymowiczu	Harasymowicz	subst:sg:voc:m1	nazwisko	
 Hardego	Hardy:s1	subst:sg:gen.acc:m1	nazwisko	
-Hardego	Hardy:s1	subst:sg:gen:m1	nazwisko	
 Harde	Hardy:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Hardemu	Hardy:s1	subst:sg:dat:m1	nazwisko	
 Hardowie	Hardy:s1	subst:pl:nom.voc:m1	nazwisko	
@@ -601,7 +577,6 @@ Hardzi	Hardy:s1	subst:pl:nom.voc:m1	nazwisko
 Hardych	Hardy:s2	subst:pl:gen.acc:m1	nazwisko	
 Hardych	Hardy:s2	subst:pl:loc:m1	nazwisko	
 Hardy’ego	Hardy:s2	subst:sg:gen.acc:m1	nazwisko	
-Hardy’ego	Hardy:s2	subst:sg:gen:m1	nazwisko	
 Hardy’e	Hardy:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Hardy’emu	Hardy:s2	subst:sg:dat:m1	nazwisko	
 Hardy	Hardy:s2	subst:pl:nom.voc:m1	nazwisko	
@@ -613,7 +588,6 @@ Hardym	Hardy:s2	subst:sg:loc:m1	nazwisko
 Hardymi	Hardy:s2	subst:pl:inst:m1	nazwisko	
 Harrisonach	Harrison	subst:pl:loc:m1	nazwisko	
 Harrisona	Harrison	subst:sg:gen.acc:m1	nazwisko	
-Harrisona	Harrison	subst:sg:gen:m1	nazwisko	
 Harrisonami	Harrison	subst:pl:inst:m1	nazwisko	
 Harrisonem	Harrison	subst:sg:inst:m1	nazwisko	
 Harrison	Harrison	subst:sg:nom:m1	nazwisko	
@@ -625,14 +599,12 @@ Harrisonowi	Harrison	subst:sg:dat:m1	nazwisko
 Harrisonów	Harrison	subst:pl:gen.acc:m1	nazwisko	
 Harrisony	Harrison	depr:pl:nom.acc.voc:m2	nazwisko	
 Harrego	Harry	subst:sg:gen.acc:m1	imię	
-Harrego	Harry	subst:sg:gen:m1	imię	
 Harre	Harry	depr:pl:nom.acc.voc:m2	imię	
 Harremu	Harry	subst:sg:dat:m1	imię	
 Harrowie	Harry	subst:pl:nom.voc:m1	imię	
 Harrych	Harry	subst:pl:gen.acc:m1	imię	
 Harrych	Harry	subst:pl:loc:m1	imię	
 Harry’ego	Harry	subst:sg:gen.acc:m1	imię	
-Harry’ego	Harry	subst:sg:gen:m1	imię	
 Harry’e	Harry	depr:pl:nom.acc.voc:m2	imię	
 Harry’emu	Harry	subst:sg:dat:m1	imię	
 Harry	Harry	subst:pl:nom.voc:m1	imię	
@@ -644,7 +616,6 @@ Harrym	Harry	subst:sg:loc:m1	imię
 Harrymi	Harry	subst:pl:inst:m1	imię	
 Harvardach	Harvard:s1	subst:pl:loc:m1	nazwisko	
 Harvarda	Harvard:s1	subst:sg:gen.acc:m1	nazwisko	
-Harvarda	Harvard:s1	subst:sg:gen:m1	nazwisko	
 Harvardami	Harvard:s1	subst:pl:inst:m1	nazwisko	
 Harvardem	Harvard:s1	subst:sg:inst:m1	nazwisko	
 Harvard	Harvard:s1	subst:sg:nom:m1	nazwisko	
@@ -668,7 +639,6 @@ Harvardzie	Harvard:s2	subst:sg:loc:m3	nazwa instytucji
 Harvardzie	Harvard:s2	subst:sg:voc:m3	nazwa instytucji	
 Hasach	Has	subst:pl:loc:m1	nazwisko	
 Hasa	Has	subst:sg:gen.acc:m1	nazwisko	
-Hasa	Has	subst:sg:gen:m1	nazwisko	
 Hasami	Has	subst:pl:inst:m1	nazwisko	
 Hasem	Has	subst:sg:inst:m1	nazwisko	
 Has	Has	subst:sg:nom:m1	nazwisko	
@@ -681,7 +651,6 @@ Hasów	Has	subst:pl:gen.acc:m1	nazwisko
 Hasy	Has	depr:pl:nom.acc.voc:m2	nazwisko	
 Hasiorach	Hasior	subst:pl:loc:m1	nazwisko	
 Hasiora	Hasior	subst:sg:gen.acc:m1	nazwisko	
-Hasiora	Hasior	subst:sg:gen:m1	nazwisko	
 Hasiorami	Hasior	subst:pl:inst:m1	nazwisko	
 Hasiorem	Hasior	subst:sg:inst:m1	nazwisko	
 Hasior	Hasior	subst:sg:nom:m1	nazwisko	
@@ -694,7 +663,6 @@ Hasiorze	Hasior	subst:sg:loc:m1	nazwisko
 Hasiorze	Hasior	subst:sg:voc:m1	nazwisko	
 Hasmoneuszach	Hasmoneusz	subst:pl:loc:m1	imię	
 Hasmoneusza	Hasmoneusz	subst:sg:gen.acc:m1	imię	
-Hasmoneusza	Hasmoneusz	subst:sg:gen:m1	imię	
 Hasmoneuszami	Hasmoneusz	subst:pl:inst:m1	imię	
 Hasmoneusze	Hasmoneusz	depr:pl:nom.acc.voc:m2	imię	
 Hasmoneusze	Hasmoneusz	subst:pl:nom.voc:m1	imię	
@@ -709,7 +677,6 @@ Hasmoneuszy	Hasmoneusz	subst:pl:gen.acc:m1	imię
 Haszek	Haszek	subst:sg:nom:m1	nazwisko	
 Haszkach	Haszek	subst:pl:loc:m1	nazwisko	
 Haszka	Haszek	subst:sg:gen.acc:m1	nazwisko	
-Haszka	Haszek	subst:sg:gen:m1	nazwisko	
 Haszkami	Haszek	subst:pl:inst:m1	nazwisko	
 Haszkiem	Haszek	subst:sg:inst:m1	nazwisko	
 Haszki	Haszek	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -723,7 +690,6 @@ Hauke	Hauke	depr:pl:nom.acc.voc:m2	człon nazwiska (herb)
 Hauke	Hauke	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	człon nazwiska (herb)	
 Hauserach	Hauser	subst:pl:loc:m1	nazwisko	
 Hausera	Hauser	subst:sg:gen.acc:m1	nazwisko	
-Hausera	Hauser	subst:sg:gen:m1	nazwisko	
 Hauserami	Hauser	subst:pl:inst:m1	nazwisko	
 Hauserem	Hauser	subst:sg:inst:m1	nazwisko	
 Hauser	Hauser	subst:sg:nom:m1	nazwisko	
@@ -737,7 +703,6 @@ Hauserze	Hauser	subst:sg:voc:m1	nazwisko
 Havel	Havel	subst:sg:nom:m1	nazwisko	
 Havlach	Havel	subst:pl:loc:m1	nazwisko	
 Havla	Havel	subst:sg:gen.acc:m1	nazwisko	
-Havla	Havel	subst:sg:gen:m1	nazwisko	
 Havlami	Havel	subst:pl:inst:m1	nazwisko	
 Havle	Havel	depr:pl:nom.acc.voc:m2	nazwisko	
 Havlem	Havel	subst:sg:inst:m1	nazwisko	
@@ -750,7 +715,6 @@ Havlu	Havel	subst:sg:voc:m1	nazwisko
 Hawajczycy	Hawajczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Hawajczykach	Hawajczyk	subst:pl:loc:m1	nazwa pospolita	
 Hawajczyka	Hawajczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Hawajczyka	Hawajczyk	subst:sg:gen:m1	nazwa pospolita	
 Hawajczykami	Hawajczyk	subst:pl:inst:m1	nazwa pospolita	
 Hawajczyk	Hawajczyk	subst:sg:nom:m1	nazwa pospolita	
 Hawajczykiem	Hawajczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -794,7 +758,6 @@ Hawany	Hawana	subst:pl:nom.acc.voc:f	nazwa geograficzna
 Hawany	Hawana	subst:sg:gen:f	nazwa geograficzna	
 Haydnach	Haydn	subst:pl:loc:m1	nazwisko	
 Haydna	Haydn	subst:sg:gen.acc:m1	nazwisko	
-Haydna	Haydn	subst:sg:gen:m1	nazwisko	
 Haydnami	Haydn	subst:pl:inst:m1	nazwisko	
 Haydnem	Haydn	subst:sg:inst:m1	nazwisko	
 Haydn	Haydn	subst:sg:nom:m1	nazwisko	
@@ -856,7 +819,6 @@ HDZ	HDZ	subst:sg:nom.acc:m3	nazwa organizacji
 HDZ	HDZ	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa organizacji	
 Heaneyach	Heaney	subst:pl:loc:m1	nazwisko	
 Heaneya	Heaney	subst:sg:gen.acc:m1	nazwisko	
-Heaneya	Heaney	subst:sg:gen:m1	nazwisko	
 Heaneyami	Heaney	subst:pl:inst:m1	nazwisko	
 Heaneye	Heaney	depr:pl:nom.acc.voc:m2	nazwisko	
 Heaneyem	Heaney	subst:sg:inst:m1	nazwisko	
@@ -872,7 +834,6 @@ Heathrow	Heathrow	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geografi
 Hebrajczycy	Hebrajczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Hebrajczykach	Hebrajczyk	subst:pl:loc:m1	nazwa pospolita	
 Hebrajczyka	Hebrajczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Hebrajczyka	Hebrajczyk	subst:sg:gen:m1	nazwa pospolita	
 Hebrajczykami	Hebrajczyk	subst:pl:inst:m1	nazwa pospolita	
 Hebrajczyk	Hebrajczyk	subst:sg:nom:m1	nazwa pospolita	
 Hebrajczykiem	Hebrajczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -905,7 +866,6 @@ Hebrydy	Hebrydy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna
 Hebrydy	Hebrydy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Hefajstosach	Hefajstos	subst:pl:loc:m1	imię	mit.
 Hefajstosa	Hefajstos	subst:sg:gen.acc:m1	imię	mit.
-Hefajstosa	Hefajstos	subst:sg:gen:m1	imię	mit.
 Hefajstosami	Hefajstos	subst:pl:inst:m1	imię	mit.
 Hefajstosem	Hefajstos	subst:sg:inst:m1	imię	mit.
 Hefajstos	Hefajstos	subst:sg:nom:m1	imię	mit.
@@ -920,7 +880,6 @@ Hefajstosy	Hefajstos	depr:pl:nom.acc.voc:m2	imię	mit.
 Hegel	Hegel	subst:sg:nom:m1	nazwisko	
 Heglach	Hegel	subst:pl:loc:m1	nazwisko	
 Hegla	Hegel	subst:sg:gen.acc:m1	nazwisko	
-Hegla	Hegel	subst:sg:gen:m1	nazwisko	
 Heglami	Hegel	subst:pl:inst:m1	nazwisko	
 Hegle	Hegel	depr:pl:nom.acc.voc:m2	nazwisko	
 Heglem	Hegel	subst:sg:inst:m1	nazwisko	
@@ -932,7 +891,6 @@ Heglu	Hegel	subst:sg:loc:m1	nazwisko
 Heglu	Hegel	subst:sg:voc:m1	nazwisko	
 Hegezypach	Hegezyp	subst:pl:loc:m1	imię	
 Hegezypa	Hegezyp	subst:sg:gen.acc:m1	imię	
-Hegezypa	Hegezyp	subst:sg:gen:m1	imię	
 Hegezypami	Hegezyp	subst:pl:inst:m1	imię	
 Hegezypem	Hegezyp	subst:sg:inst:m1	imię	
 Hegezyp	Hegezyp	subst:sg:nom:m1	imię	
@@ -946,7 +904,6 @@ Hegezypów	Hegezyp	subst:pl:gen.acc:m1	imię
 Hegezypy	Hegezyp	depr:pl:nom.acc.voc:m2	imię	
 Heideggerach	Heidegger	subst:pl:loc:m1	nazwisko	
 Heideggera	Heidegger	subst:sg:gen.acc:m1	nazwisko	
-Heideggera	Heidegger	subst:sg:gen:m1	nazwisko	
 Heideggerami	Heidegger	subst:pl:inst:m1	nazwisko	
 Heideggerem	Heidegger	subst:sg:inst:m1	nazwisko	
 Heidegger	Heidegger	subst:sg:nom:m1	nazwisko	
@@ -960,7 +917,6 @@ Heideggerze	Heidegger	subst:sg:voc:m1	nazwisko
 Heinach	Heine	subst:pl:loc:m1	nazwisko	
 Heinami	Heine	subst:pl:inst:m1	nazwisko	
 Heinego	Heine	subst:sg:gen.acc:m1	nazwisko	
-Heinego	Heine	subst:sg:gen:m1	nazwisko	
 Heine	Heine	depr:pl:nom.acc.voc:m2	nazwisko	
 Heine	Heine	subst:sg:nom:m1	nazwisko	
 Heine	Heine	subst:sg:voc:m1	nazwisko	
@@ -972,7 +928,6 @@ Heinowie	Heine	subst:pl:nom.voc:m1	nazwisko
 Heinów	Heine	subst:pl:gen.acc:m1	nazwisko	
 Hektorach	Hektor	subst:pl:loc:m1	imię	
 Hektora	Hektor	subst:sg:gen.acc:m1	imię	
-Hektora	Hektor	subst:sg:gen:m1	imię	
 Hektorami	Hektor	subst:pl:inst:m1	imię	
 Hektorem	Hektor	subst:sg:inst:m1	imię	
 Hektor	Hektor	subst:sg:nom:m1	imię	
@@ -1042,7 +997,6 @@ Helgo	Helga	subst:sg:voc:f	imię
 Helgom	Helga	subst:pl:dat:f	imię	
 Heliaszach	Heliasz	subst:pl:loc:m1	imię	
 Heliasza	Heliasz	subst:sg:gen.acc:m1	imię	
-Heliasza	Heliasz	subst:sg:gen:m1	imię	
 Heliaszami	Heliasz	subst:pl:inst:m1	imię	
 Heliasze	Heliasz	depr:pl:nom.acc.voc:m2	imię	
 Heliasze	Heliasz	subst:pl:nom.voc:m1	imię	
@@ -1056,7 +1010,6 @@ Heliaszu	Heliasz	subst:sg:loc:m1	imię
 Heliaszu	Heliasz	subst:sg:voc:m1	imię	
 Helidorach	Helidor	subst:pl:loc:m1	imię	
 Helidora	Helidor	subst:sg:gen.acc:m1	imię	
-Helidora	Helidor	subst:sg:gen:m1	imię	
 Helidorami	Helidor	subst:pl:inst:m1	imię	
 Helidorem	Helidor	subst:sg:inst:m1	imię	
 Helidor	Helidor	subst:sg:nom:m1	imię	
@@ -1070,7 +1023,6 @@ Helidorze	Helidor	subst:sg:voc:m1	imię
 Helidorzy	Helidor	subst:pl:nom.voc:m1	imię	
 Heliodorach	Heliodor	subst:pl:loc:m1	imię	
 Heliodora	Heliodor	subst:sg:gen.acc:m1	imię	
-Heliodora	Heliodor	subst:sg:gen:m1	imię	
 Heliodorami	Heliodor	subst:pl:inst:m1	imię	
 Heliodorem	Heliodor	subst:sg:inst:m1	imię	
 Heliodor	Heliodor	subst:sg:nom:m1	imię	
@@ -1084,7 +1036,6 @@ Heliodorze	Heliodor	subst:sg:voc:m1	imię
 Heliodorzy	Heliodor	subst:pl:nom.voc:m1	imię	
 Heliosach	Helios	subst:pl:loc:m1	imię	mit.
 Heliosa	Helios	subst:sg:gen.acc:m1	imię	mit.
-Heliosa	Helios	subst:sg:gen:m1	imię	mit.
 Heliosami	Helios	subst:pl:inst:m1	imię	mit.
 Heliosem	Helios	subst:sg:inst:m1	imię	mit.
 Helios	Helios	subst:sg:nom:m1	imię	mit.
@@ -1120,7 +1071,6 @@ Hellady	Hellada	subst:sg:gen:f	nazwa geograficzna	hist.
 Helladzie	Hellada	subst:sg:dat.loc:f	nazwa geograficzna	hist.
 Hellerach	Heller	subst:pl:loc:m1	nazwisko	
 Hellera	Heller	subst:sg:gen.acc:m1	nazwisko	
-Hellera	Heller	subst:sg:gen:m1	nazwisko	
 Hellerami	Heller	subst:pl:inst:m1	nazwisko	
 Hellerem	Heller	subst:sg:inst:m1	nazwisko	
 Heller	Heller	subst:sg:nom:m1	nazwisko	
@@ -1135,7 +1085,6 @@ Helmucie	Helmut	subst:sg:loc:m1	imię
 Helmucie	Helmut	subst:sg:voc:m1	imię	
 Helmutach	Helmut	subst:pl:loc:m1	imię	
 Helmuta	Helmut	subst:sg:gen.acc:m1	imię	
-Helmuta	Helmut	subst:sg:gen:m1	imię	
 Helmutami	Helmut	subst:pl:inst:m1	imię	
 Helmutem	Helmut	subst:sg:inst:m1	imię	
 Helmut	Helmut	subst:sg:nom:m1	imię	
@@ -1191,7 +1140,6 @@ Helwecjom	Helwecja	subst:pl:dat:f	nazwa geograficzna
 Helwecyj	Helwecja	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Hemarach	Hemar	subst:pl:loc:m1	nazwisko	
 Hemara	Hemar	subst:sg:gen.acc:m1	nazwisko	
-Hemara	Hemar	subst:sg:gen:m1	nazwisko	
 Hemarami	Hemar	subst:pl:inst:m1	nazwisko	
 Hemarem	Hemar	subst:sg:inst:m1	nazwisko	
 Hemar	Hemar	subst:sg:nom:m1	nazwisko	
@@ -1204,7 +1152,6 @@ Hemarze	Hemar	subst:sg:loc:m1	nazwisko
 Hemarze	Hemar	subst:sg:voc:m1	nazwisko	
 Hemingwayach	Hemingway	subst:pl:loc:m1	nazwisko	
 Hemingwaya	Hemingway	subst:sg:gen.acc:m1	nazwisko	
-Hemingwaya	Hemingway	subst:sg:gen:m1	nazwisko	
 Hemingwayami	Hemingway	subst:pl:inst:m1	nazwisko	
 Hemingwaye	Hemingway	depr:pl:nom.acc.voc:m2	nazwisko	
 Hemingwaye	Hemingway	subst:pl:nom.voc:m1	nazwisko	
@@ -1229,7 +1176,6 @@ Heny	Hena	subst:pl:nom.acc.voc:f	imię
 Heny	Hena	subst:sg:gen:f	imię	
 Hendelach	Hendel	subst:pl:loc:m1	imię	
 Hendela	Hendel	subst:sg:gen.acc:m1	imię	
-Hendela	Hendel	subst:sg:gen:m1	imię	
 Hendelami	Hendel	subst:pl:inst:m1	imię	
 Hendele	Hendel	depr:pl:nom.acc.voc:m2	imię	
 Hendelem	Hendel	subst:sg:inst:m1	imię	
@@ -1242,7 +1188,6 @@ Hendelu	Hendel	subst:sg:loc:m1	imię
 Hendelu	Hendel	subst:sg:voc:m1	imię	
 Hendlach	Hendel	subst:pl:loc:m1	imię	
 Hendla	Hendel	subst:sg:gen.acc:m1	imię	
-Hendla	Hendel	subst:sg:gen:m1	imię	
 Hendlami	Hendel	subst:pl:inst:m1	imię	
 Hendle	Hendel	depr:pl:nom.acc.voc:m2	imię	
 Hendle	Hendel	subst:pl:nom.voc:m1	imię	
@@ -1254,7 +1199,6 @@ Hendlu	Hendel	subst:sg:loc:m1	imię
 Hendlu	Hendel	subst:sg:voc:m1	imię	
 Hendriksach	Hendrix	subst:pl:loc:m1	nazwisko	
 Hendriksa	Hendrix	subst:sg:gen.acc:m1	nazwisko	
-Hendriksa	Hendrix	subst:sg:gen:m1	nazwisko	
 Hendriksami	Hendrix	subst:pl:inst:m1	nazwisko	
 Hendriksem	Hendrix	subst:sg:inst:m1	nazwisko	
 Hendriksie	Hendrix	subst:sg:loc:m1	nazwisko	
@@ -1280,7 +1224,6 @@ Heń	Henia	subst:pl:gen:f	imię	char.
 Heniek	Heniek	subst:sg:nom:m1	imię	
 Heńkach	Heniek	subst:pl:loc:m1	imię	
 Heńka	Heniek	subst:sg:gen.acc:m1	imię	
-Heńka	Heniek	subst:sg:gen:m1	imię	
 Heńkami	Heniek	subst:pl:inst:m1	imię	
 Heńkiem	Heniek	subst:sg:inst:m1	imię	
 Heńki	Heniek	depr:pl:nom.acc.voc:m2	imię	
@@ -1292,7 +1235,6 @@ Heńku	Heniek	subst:sg:loc:m1	imię
 Heńku	Heniek	subst:sg:voc:m1	imię	
 Heniach	Henio	subst:pl:loc:m1	imię	
 Henia	Henio	subst:sg:gen.acc:m1	imię	
-Henia	Henio	subst:sg:gen:m1	imię	
 Heniami	Henio	subst:pl:inst:m1	imię	
 Henie	Henio	depr:pl:nom.acc.voc:m2	imię	
 Heniem	Henio	subst:sg:inst:m1	imię	
@@ -1305,7 +1247,6 @@ Heniu	Henio	subst:sg:loc:m1	imię
 Heniu	Henio	subst:sg:voc:m1	imię	
 Henochach	Henoch	subst:pl:loc:m1	imię	
 Henocha	Henoch	subst:sg:gen.acc:m1	imię	
-Henocha	Henoch	subst:sg:gen:m1	imię	
 Henochami	Henoch	subst:pl:inst:m1	imię	
 Henochem	Henoch	subst:sg:inst:m1	imię	
 Henoch	Henoch	subst:sg:nom:m1	imię	
@@ -1317,14 +1258,12 @@ Henochu	Henoch	subst:sg:loc:m1	imię
 Henochu	Henoch	subst:sg:voc:m1	imię	
 Henochy	Henoch	depr:pl:nom.acc.voc:m2	imię	
 Henrego	Henry	subst:sg:gen.acc:m1	imię	
-Henrego	Henry	subst:sg:gen:m1	imię	
 Henre	Henry	depr:pl:nom.acc.voc:m2	imię	
 Henremu	Henry	subst:sg:dat:m1	imię	
 Henrowie	Henry	subst:pl:nom.voc:m1	imię	
 Henrych	Henry	subst:pl:gen.acc:m1	imię	
 Henrych	Henry	subst:pl:loc:m1	imię	
 Henry’ego	Henry	subst:sg:gen.acc:m1	imię	
-Henry’ego	Henry	subst:sg:gen:m1	imię	
 Henry’e	Henry	depr:pl:nom.acc.voc:m2	imię	
 Henry’emu	Henry	subst:sg:dat:m1	imię	
 Henry	Henry	subst:pl:nom.voc:m1	imię	
@@ -1337,7 +1276,6 @@ Henrymi	Henry	subst:pl:inst:m1	imię
 Henryczek	Henryczek	subst:sg:nom:m1	imię	
 Henryczkach	Henryczek	subst:pl:loc:m1	imię	
 Henryczka	Henryczek	subst:sg:gen.acc:m1	imię	
-Henryczka	Henryczek	subst:sg:gen:m1	imię	
 Henryczkami	Henryczek	subst:pl:inst:m1	imię	
 Henryczkiem	Henryczek	subst:sg:inst:m1	imię	
 Henryczki	Henryczek	depr:pl:nom.acc.voc:m2	imię	
@@ -1360,7 +1298,6 @@ Henryczko	Henryczka	subst:sg:voc:f	imię
 Henryczkom	Henryczka	subst:pl:dat:f	imię	
 Henrykach	Henryk	subst:pl:loc:m1	imię	
 Henryka	Henryk	subst:sg:gen.acc:m1	imię	
-Henryka	Henryk	subst:sg:gen:m1	imię	
 Henrykami	Henryk	subst:pl:inst:m1	imię	
 Henryk	Henryk	subst:sg:nom:m1	imię	
 Henrykiem	Henryk	subst:sg:inst:m1	imię	
@@ -1408,7 +1345,6 @@ Henrysiu	Henrysia	subst:sg:voc:f	imię
 Henryś	Henrysia	subst:pl:gen:f	imię	char.
 Henrysiach	Henryś	subst:pl:loc:m1	imię	
 Henrysia	Henryś	subst:sg:gen.acc:m1	imię	
-Henrysia	Henryś	subst:sg:gen:m1	imię	
 Henrysiami	Henryś	subst:pl:inst:m1	imię	
 Henrysie	Henryś	depr:pl:nom.acc.voc:m2	imię	
 Henrysie	Henryś	subst:pl:nom.voc:m1	imię	
@@ -1422,7 +1358,6 @@ Henrysiu	Henryś	subst:sg:voc:m1	imię
 Henryś	Henryś	subst:sg:nom:m1	imię	
 Hepburnach	Hepburn	subst:pl:loc:m1	nazwisko	
 Hepburna	Hepburn	subst:sg:gen.acc:m1	nazwisko	
-Hepburna	Hepburn	subst:sg:gen:m1	nazwisko	
 Hepburnami	Hepburn	subst:pl:inst:m1	nazwisko	
 Hepburnem	Hepburn	subst:sg:inst:m1	nazwisko	
 Hepburn	Hepburn	subst:sg:nom:m1	nazwisko	
@@ -1446,7 +1381,6 @@ Hery	Hera	subst:sg:gen:f	imię	mit.
 Herze	Hera	subst:sg:dat.loc:f	imię	mit.
 Heraklesach	Herakles	subst:pl:loc:m1	imię	mit.
 Heraklesa	Herakles	subst:sg:gen.acc:m1	imię	mit.
-Heraklesa	Herakles	subst:sg:gen:m1	imię	mit.
 Heraklesami	Herakles	subst:pl:inst:m1	imię	mit.
 Heraklesem	Herakles	subst:sg:inst:m1	imię	mit.
 Herakles	Herakles	subst:sg:nom:m1	imię	mit.
@@ -1467,12 +1401,10 @@ Heraklido	Heraklida	subst:sg:voc:m1	nazwa członka rodu
 Heraklidom	Heraklida	subst:pl:dat:m1	nazwa członka rodu	
 Heraklidów	Heraklida	subst:pl:gen.acc:m1	nazwa członka rodu	
 Heraklidy	Heraklida	depr:pl:nom.acc.voc:m2	nazwa członka rodu	
-Heraklidy	Heraklida	subst:sg:gen:m1	nazwa członka rodu	
 Heraklidzie	Heraklida	subst:sg:dat.loc:m1	nazwa członka rodu	
 Heraklidzi	Heraklida	subst:pl:nom.voc:m1	nazwa członka rodu	
 Herakliuszach	Herakliusz	subst:pl:loc:m1	imię	
 Herakliusza	Herakliusz	subst:sg:gen.acc:m1	imię	
-Herakliusza	Herakliusz	subst:sg:gen:m1	imię	
 Herakliuszami	Herakliusz	subst:pl:inst:m1	imię	
 Herakliusze	Herakliusz	depr:pl:nom.acc.voc:m2	imię	
 Herakliusze	Herakliusz	subst:pl:nom.voc:m1	imię	
@@ -1486,7 +1418,6 @@ Herakliuszu	Herakliusz	subst:sg:loc:m1	imię
 Herakliuszu	Herakliusz	subst:sg:voc:m1	imię	
 Heraldach	Herald	subst:pl:loc:m1	imię	
 Heralda	Herald	subst:sg:gen.acc:m1	imię	
-Heralda	Herald	subst:sg:gen:m1	imię	
 Heraldami	Herald	subst:pl:inst:m1	imię	
 Heraldem	Herald	subst:sg:inst:m1	imię	
 Herald	Herald	subst:sg:nom:m1	imię	
@@ -1501,7 +1432,6 @@ Herbercie	Herbert	subst:sg:loc:m1	imię|nazwisko
 Herbercie	Herbert	subst:sg:voc:m1	imię|nazwisko	
 Herbertach	Herbert	subst:pl:loc:m1	imię|nazwisko	
 Herberta	Herbert	subst:sg:gen.acc:m1	imię|nazwisko	
-Herberta	Herbert	subst:sg:gen:m1	imię|nazwisko	
 Herbertami	Herbert	subst:pl:inst:m1	imię|nazwisko	
 Herbertem	Herbert	subst:sg:inst:m1	imię|nazwisko	
 Herbert	Herbert	subst:sg:nom:m1	imię|nazwisko	
@@ -1513,7 +1443,6 @@ Herberty	Herbert	depr:pl:nom.acc.voc:m2	imię|nazwisko
 Hz	herc	brev:npun		fiz.
 Hercach	Herc	subst:pl:loc:m1	nazwisko	
 Herca	Herc	subst:sg:gen.acc:m1	nazwisko	
-Herca	Herc	subst:sg:gen:m1	nazwisko	
 Hercami	Herc	subst:pl:inst:m1	nazwisko	
 Herce	Herc	depr:pl:nom.acc.voc:m2	nazwisko	
 Herce	Herc	subst:pl:nom.voc:m1	nazwisko	
@@ -1550,7 +1479,6 @@ Hercegowinkom	Hercegowinka	subst:pl:dat:f	nazwa pospolita
 Hercegowińczycy	Hercegowińczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Hercegowińczykach	Hercegowińczyk	subst:pl:loc:m1	nazwa pospolita	
 Hercegowińczyka	Hercegowińczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Hercegowińczyka	Hercegowińczyk	subst:sg:gen:m1	nazwa pospolita	
 Hercegowińczykami	Hercegowińczyk	subst:pl:inst:m1	nazwa pospolita	
 Hercegowińczyk	Hercegowińczyk	subst:sg:nom:m1	nazwa pospolita	
 Hercegowińczykiem	Hercegowińczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -1562,7 +1490,6 @@ Hercegowińczyku	Hercegowińczyk	subst:sg:loc:m1	nazwa pospolita
 Hercegowińczyku	Hercegowińczyk	subst:sg:voc:m1	nazwa pospolita	
 Hercenach	Hercen	subst:pl:loc:m1	nazwisko	
 Hercena	Hercen	subst:sg:gen.acc:m1	nazwisko	
-Hercena	Hercen	subst:sg:gen:m1	nazwisko	
 Hercenami	Hercen	subst:pl:inst:m1	nazwisko	
 Hercenem	Hercen	subst:sg:inst:m1	nazwisko	
 Hercen	Hercen	subst:sg:nom:m1	nazwisko	
@@ -1575,7 +1502,6 @@ Hercenów	Hercen	subst:pl:gen.acc:m1	nazwisko
 Herceny	Hercen	depr:pl:nom.acc.voc:m2	nazwisko	
 Herderach	Herder	subst:pl:loc:m1	nazwisko	
 Herdera	Herder	subst:sg:gen.acc:m1	nazwisko	
-Herdera	Herder	subst:sg:gen:m1	nazwisko	
 Herderami	Herder	subst:pl:inst:m1	nazwisko	
 Herderem	Herder	subst:sg:inst:m1	nazwisko	
 Herder	Herder	subst:sg:nom:m1	nazwisko	
@@ -1588,7 +1514,6 @@ Herderze	Herder	subst:sg:loc:m1	nazwisko
 Herderze	Herder	subst:sg:voc:m1	nazwisko	
 Herkulanach	Herkulan	subst:pl:loc:m1	imię	
 Herkulana	Herkulan	subst:sg:gen.acc:m1	imię	
-Herkulana	Herkulan	subst:sg:gen:m1	imię	
 Herkulanami	Herkulan	subst:pl:inst:m1	imię	
 Herkulanem	Herkulan	subst:sg:inst:m1	imię	
 Herkulan	Herkulan	subst:sg:nom:m1	imię	
@@ -1602,7 +1527,6 @@ Herkulanów	Herkulan	subst:pl:gen.acc:m1	imię
 Herkulany	Herkulan	depr:pl:nom.acc.voc:m2	imię	
 Herkulesach	Herkules	subst:pl:loc:m1	imię	mit.
 Herkulesa	Herkules	subst:sg:gen.acc:m1	imię	mit.
-Herkulesa	Herkules	subst:sg:gen:m1	imię	mit.
 Herkulesami	Herkules	subst:pl:inst:m1	imię	mit.
 Herkulesem	Herkules	subst:sg:inst:m1	imię	mit.
 Herkules	Herkules	subst:sg:nom:m1	imię	mit.
@@ -1616,7 +1540,6 @@ Herkulesów	Herkules	subst:pl:gen.acc:m1	imię	mit.
 Herkulesy	Herkules	depr:pl:nom.acc.voc:m2	imię	mit.
 Herlingach	Herling	subst:pl:loc:m1	nazwisko	
 Herlinga	Herling	subst:sg:gen.acc:m1	nazwisko	
-Herlinga	Herling	subst:sg:gen:m1	nazwisko	
 Herlingami	Herling	subst:pl:inst:m1	nazwisko	
 Herling	Herling	subst:sg:nom:m1	nazwisko	
 Herlingiem	Herling	subst:sg:inst:m1	nazwisko	
@@ -1629,7 +1552,6 @@ Herlingu	Herling	subst:sg:loc:m1	nazwisko
 Herlingu	Herling	subst:sg:voc:m1	nazwisko	
 Hermanach	Herman	subst:pl:loc:m1	imię	
 Hermana	Herman	subst:sg:gen.acc:m1	imię	
-Hermana	Herman	subst:sg:gen:m1	imię	
 Hermanami	Herman	subst:pl:inst:m1	imię	
 Hermanem	Herman	subst:sg:inst:m1	imię	
 Herman	Herman	subst:sg:nom:m1	imię	
@@ -1642,7 +1564,6 @@ Hermanów	Herman	subst:pl:gen.acc:m1	imię
 Hermany	Herman	depr:pl:nom.acc.voc:m2	imię	
 Hermenegildach	Hermenegild	subst:pl:loc:m1	imię	
 Hermenegilda	Hermenegild	subst:sg:gen.acc:m1	imię	
-Hermenegilda	Hermenegild	subst:sg:gen:m1	imię	
 Hermenegildami	Hermenegild	subst:pl:inst:m1	imię	
 Hermenegildem	Hermenegild	subst:sg:inst:m1	imię	
 Hermenegild	Hermenegild	subst:sg:nom:m1	imię	
@@ -1666,7 +1587,6 @@ Hermenegildy	Hermenegilda	subst:sg:gen:f	imię
 Hermenegildzie	Hermenegilda	subst:sg:dat.loc:f	imię	
 Hermesach	Hermes	subst:pl:loc:m1	imię	mit.
 Hermesa	Hermes	subst:sg:gen.acc:m1	imię	mit.
-Hermesa	Hermes	subst:sg:gen:m1	imię	mit.
 Hermesami	Hermes	subst:pl:inst:m1	imię	mit.
 Hermesem	Hermes	subst:sg:inst:m1	imię	mit.
 Hermes	Hermes	subst:sg:nom:m1	imię	mit.
@@ -1703,7 +1623,6 @@ Herminio	Herminia	subst:sg:voc:f	imię
 Herminiom	Herminia	subst:pl:dat:f	imię	
 Herodach	Herod	subst:pl:loc:m1	imię	
 Heroda	Herod	subst:sg:gen.acc:m1	imię	
-Heroda	Herod	subst:sg:gen:m1	imię	
 Herodami	Herod	subst:pl:inst:m1	imię	
 Herodem	Herod	subst:sg:inst:m1	imię	
 Herod	Herod	subst:sg:nom:m1	imię	
@@ -1718,7 +1637,6 @@ Herodocie	Herodot	subst:sg:loc:m1	imię
 Herodocie	Herodot	subst:sg:voc:m1	imię	
 Herodotach	Herodot	subst:pl:loc:m1	imię	
 Herodota	Herodot	subst:sg:gen.acc:m1	imię	
-Herodota	Herodot	subst:sg:gen:m1	imię	
 Herodotami	Herodot	subst:pl:inst:m1	imię	
 Herodotem	Herodot	subst:sg:inst:m1	imię	
 Herodot	Herodot	subst:sg:nom:m1	imię	
@@ -1729,7 +1647,6 @@ Herodotów	Herodot	subst:pl:gen.acc:m1	imię
 Herodoty	Herodot	depr:pl:nom.acc.voc:m2	imię	
 Herschelach	Herschel	subst:pl:loc:m1	nazwisko	
 Herschela	Herschel	subst:sg:gen.acc:m1	nazwisko	
-Herschela	Herschel	subst:sg:gen:m1	nazwisko	
 Herschelami	Herschel	subst:pl:inst:m1	nazwisko	
 Herschele	Herschel	depr:pl:nom.acc.voc:m2	nazwisko	
 Herschelem	Herschel	subst:sg:inst:m1	nazwisko	
@@ -1742,7 +1659,6 @@ Herschelu	Herschel	subst:sg:loc:m1	nazwisko
 Herschelu	Herschel	subst:sg:voc:m1	nazwisko	
 Herschlach	Herschel	subst:pl:loc:m1	nazwisko	
 Herschla	Herschel	subst:sg:gen.acc:m1	nazwisko	
-Herschla	Herschel	subst:sg:gen:m1	nazwisko	
 Herschlami	Herschel	subst:pl:inst:m1	nazwisko	
 Herschle	Herschel	depr:pl:nom.acc.voc:m2	nazwisko	
 Herschlem	Herschel	subst:sg:inst:m1	nazwisko	
@@ -1754,7 +1670,6 @@ Herschlu	Herschel	subst:sg:loc:m1	nazwisko
 Herschlu	Herschel	subst:sg:voc:m1	nazwisko	
 Herszach	Hersz	subst:pl:loc:m1	imię	
 Hersza	Hersz	subst:sg:gen.acc:m1	imię	
-Hersza	Hersz	subst:sg:gen:m1	imię	
 Herszami	Hersz	subst:pl:inst:m1	imię	
 Hersze	Hersz	depr:pl:nom.acc.voc:m2	imię	
 Hersze	Hersz	subst:pl:nom.voc:m1	imię	
@@ -1779,7 +1694,6 @@ Herthy	Hertha	subst:pl:nom.acc.voc:f	imię
 Herthy	Hertha	subst:sg:gen:f	imię	
 Hertzach	Hertz	subst:pl:loc:m1	nazwisko	
 Hertza	Hertz	subst:sg:gen.acc:m1	nazwisko	
-Hertza	Hertz	subst:sg:gen:m1	nazwisko	
 Hertzami	Hertz	subst:pl:inst:m1	nazwisko	
 Hertze	Hertz	depr:pl:nom.acc.voc:m2	nazwisko	
 Hertze	Hertz	subst:pl:nom.voc:m1	nazwisko	
@@ -1793,7 +1707,6 @@ Hertzu	Hertz	subst:sg:loc:m1	nazwisko
 Hertzu	Hertz	subst:sg:voc:m1	nazwisko	
 Herzogach	Herzog	subst:pl:loc:m1	nazwisko	
 Herzoga	Herzog	subst:sg:gen.acc:m1	nazwisko	
-Herzoga	Herzog	subst:sg:gen:m1	nazwisko	
 Herzogami	Herzog	subst:pl:inst:m1	nazwisko	
 Herzog	Herzog	subst:sg:nom:m1	nazwisko	
 Herzogiem	Herzog	subst:sg:inst:m1	nazwisko	
@@ -1807,7 +1720,6 @@ Herzogu	Herzog	subst:sg:voc:m1	nazwisko
 Hessach	Hesse	subst:pl:loc:m1	nazwisko	
 Hessami	Hesse	subst:pl:inst:m1	nazwisko	
 Hessego	Hesse	subst:sg:gen.acc:m1	nazwisko	
-Hessego	Hesse	subst:sg:gen:m1	nazwisko	
 Hesse	Hesse	depr:pl:nom.acc.voc:m2	nazwisko	
 Hesse	Hesse	subst:sg:nom:m1	nazwisko	
 Hesse	Hesse	subst:sg:voc:m1	nazwisko	
@@ -1828,10 +1740,8 @@ Hetyto	Hetyta	subst:sg:voc:m1	nazwa pospolita	etn.
 Hetytom	Hetyta	subst:pl:dat:m1	nazwa pospolita	etn.
 Hetytów	Hetyta	subst:pl:gen.acc:m1	nazwa pospolita	etn.
 Hetyty	Hetyta	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
-Hetyty	Hetyta	subst:sg:gen:m1	nazwa pospolita	etn.
 Heweliuszach	Heweliusz	subst:pl:loc:m1	nazwisko	
 Heweliusza	Heweliusz	subst:sg:gen.acc:m1	nazwisko	
-Heweliusza	Heweliusz	subst:sg:gen:m1	nazwisko	
 Heweliuszami	Heweliusz	subst:pl:inst:m1	nazwisko	
 Heweliusze	Heweliusz	depr:pl:nom.acc.voc:m2	nazwisko	
 Heweliusze	Heweliusz	subst:pl:nom.voc:m1	nazwisko	
@@ -1845,7 +1755,6 @@ Heweliuszu	Heweliusz	subst:sg:loc:m1	nazwisko
 Heweliuszu	Heweliusz	subst:sg:voc:m1	nazwisko	
 Heyerdahlach	Heyerdahl	subst:pl:loc:m1	nazwisko	
 Heyerdahla	Heyerdahl	subst:sg:gen.acc:m1	nazwisko	
-Heyerdahla	Heyerdahl	subst:sg:gen:m1	nazwisko	
 Heyerdahlami	Heyerdahl	subst:pl:inst:m1	nazwisko	
 Heyerdahle	Heyerdahl	depr:pl:nom.acc.voc:m2	nazwisko	
 Heyerdahlem	Heyerdahl	subst:sg:inst:m1	nazwisko	
@@ -1871,7 +1780,6 @@ Hiacyncie	Hiacynt	subst:sg:loc:m1	imię
 Hiacyncie	Hiacynt	subst:sg:voc:m1	imię	
 Hiacyntach	Hiacynt	subst:pl:loc:m1	imię	
 Hiacynta	Hiacynt	subst:sg:gen.acc:m1	imię	
-Hiacynta	Hiacynt	subst:sg:gen:m1	imię	
 Hiacyntami	Hiacynt	subst:pl:inst:m1	imię	
 Hiacyntem	Hiacynt	subst:sg:inst:m1	imię	
 Hiacynt	Hiacynt	subst:sg:nom:m1	imię	
@@ -1893,7 +1801,6 @@ Hiacynty	Hiacynta	subst:pl:nom.acc.voc:f	imię
 Hiacynty	Hiacynta	subst:sg:gen:f	imię	
 Hieronimach	Hieronim	subst:pl:loc:m1	imię	
 Hieronima	Hieronim	subst:sg:gen.acc:m1	imię	
-Hieronima	Hieronim	subst:sg:gen:m1	imię	
 Hieronimami	Hieronim	subst:pl:inst:m1	imię	
 Hieronimem	Hieronim	subst:sg:inst:m1	imię	
 Hieronim	Hieronim	subst:sg:nom:m1	imię	
@@ -1918,7 +1825,6 @@ Hilariom	Hilaria	subst:pl:dat:f	imię
 Hilaryj	Hilaria	subst:pl:gen:f	imię	arch.|char.
 Hilarionach	Hilarion	subst:pl:loc:m1	imię	
 Hilariona	Hilarion	subst:sg:gen.acc:m1	imię	
-Hilariona	Hilarion	subst:sg:gen:m1	imię	
 Hilarionami	Hilarion	subst:pl:inst:m1	imię	
 Hilarionem	Hilarion	subst:sg:inst:m1	imię	
 Hilarion	Hilarion	subst:sg:nom:m1	imię	
@@ -1931,7 +1837,6 @@ Hilarionowi	Hilarion	subst:sg:dat:m1	imię
 Hilarionów	Hilarion	subst:pl:gen.acc:m1	imię	
 Hilariony	Hilarion	depr:pl:nom.acc.voc:m2	imię	
 Hilarego	Hilary	subst:sg:gen.acc:m1	imię	
-Hilarego	Hilary	subst:sg:gen:m1	imię	
 Hilare	Hilary	depr:pl:nom.acc.voc:m2	imię	
 Hilaremu	Hilary	subst:sg:dat:m1	imię	
 Hilarowie	Hilary	subst:pl:nom.voc:m1	imię	
@@ -1956,7 +1861,6 @@ Hildegardy	Hildegarda	subst:sg:gen:f	imię
 Hildegardzie	Hildegarda	subst:sg:dat.loc:f	imię	
 Hillach	Hill	subst:pl:loc:m1	nazwisko|pseudonim	
 Hilla	Hill	subst:sg:gen.acc:m1	nazwisko|pseudonim	
-Hilla	Hill	subst:sg:gen:m1	nazwisko|pseudonim	
 Hillami	Hill	subst:pl:inst:m1	nazwisko|pseudonim	
 Hille	Hill	depr:pl:nom.acc.voc:m2	nazwisko|pseudonim	
 Hille	Hill	subst:pl:nom.voc:m1	nazwisko|pseudonim	
@@ -1981,7 +1885,6 @@ Himalajów	Himalaje	subst:pl:gen:n:pt	nazwa geograficzna
 Himalajów	Himalaje	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Himilsbachach	Himilsbach	subst:pl:loc:m1	nazwisko	
 Himilsbacha	Himilsbach	subst:sg:gen.acc:m1	nazwisko	
-Himilsbacha	Himilsbach	subst:sg:gen:m1	nazwisko	
 Himilsbachami	Himilsbach	subst:pl:inst:m1	nazwisko	
 Himilsbachem	Himilsbach	subst:sg:inst:m1	nazwisko	
 Himilsbach	Himilsbach	subst:sg:nom:m1	nazwisko	
@@ -1994,7 +1897,6 @@ Himilsbachu	Himilsbach	subst:sg:voc:m1	nazwisko
 Himilsbachy	Himilsbach	depr:pl:nom.acc.voc:m2	nazwisko	
 Himmlerach	Himmler	subst:pl:loc:m1	nazwisko	
 Himmlera	Himmler	subst:sg:gen.acc:m1	nazwisko	
-Himmlera	Himmler	subst:sg:gen:m1	nazwisko	
 Himmlerami	Himmler	subst:pl:inst:m1	nazwisko	
 Himmlerem	Himmler	subst:sg:inst:m1	nazwisko	
 Himmler	Himmler	subst:sg:nom:m1	nazwisko	
@@ -2011,7 +1913,6 @@ Hindemisie	Hindemith	subst:sg:loc:m1	nazwisko
 Hindemisie	Hindemith	subst:sg:voc:m1	nazwisko	
 Hindemithach	Hindemith	subst:pl:loc:m1	nazwisko	
 Hindemitha	Hindemith	subst:sg:gen.acc:m1	nazwisko	
-Hindemitha	Hindemith	subst:sg:gen:m1	nazwisko	
 Hindemithami	Hindemith	subst:pl:inst:m1	nazwisko	
 Hindemithem	Hindemith	subst:sg:inst:m1	nazwisko	
 Hindemith	Hindemith	subst:sg:nom:m1	nazwisko	
@@ -2022,7 +1923,6 @@ Hindemithów	Hindemith	subst:pl:gen.acc:m1	nazwisko
 Hindemithy	Hindemith	depr:pl:nom.acc.voc:m2	nazwisko	
 Hindenburgach	Hindenburg	subst:pl:loc:m1	nazwisko	
 Hindenburga	Hindenburg	subst:sg:gen.acc:m1	nazwisko	
-Hindenburga	Hindenburg	subst:sg:gen:m1	nazwisko	
 Hindenburgami	Hindenburg	subst:pl:inst:m1	nazwisko	
 Hindenburg	Hindenburg	subst:sg:nom:m1	nazwisko	
 Hindenburgiem	Hindenburg	subst:sg:inst:m1	nazwisko	
@@ -2035,7 +1935,6 @@ Hindenburgu	Hindenburg	subst:sg:loc:m1	nazwisko
 Hindenburgu	Hindenburg	subst:sg:voc:m1	nazwisko	
 Hindusach	Hindus	subst:pl:loc:m1	nazwa pospolita	
 Hindusa	Hindus	subst:sg:gen.acc:m1	nazwa pospolita	
-Hindusa	Hindus	subst:sg:gen:m1	nazwa pospolita	
 Hindusami	Hindus	subst:pl:inst:m1	nazwa pospolita	
 Hindusem	Hindus	subst:sg:inst:m1	nazwa pospolita	
 Hindus	Hindus	subst:sg:nom:m1	nazwa pospolita	
@@ -2059,7 +1958,6 @@ Hindusko	Hinduska	subst:sg:voc:f	nazwa pospolita
 Hinduskom	Hinduska	subst:pl:dat:f	nazwa pospolita	
 Hiobach	Hiob	subst:pl:loc:m1	imię	bibl.
 Hioba	Hiob	subst:sg:gen.acc:m1	imię	bibl.
-Hioba	Hiob	subst:sg:gen:m1	imię	bibl.
 Hiobami	Hiob	subst:pl:inst:m1	imię	bibl.
 Hiobem	Hiob	subst:sg:inst:m1	imię	bibl.
 Hiob	Hiob	subst:sg:nom:m1	imię	bibl.
@@ -2072,7 +1970,6 @@ Hiobów	Hiob	subst:pl:gen.acc:m1	imię	bibl.
 Hioby	Hiob	depr:pl:nom.acc.voc:m2	imię	bibl.
 Hipciach	Hipcio	subst:pl:loc:m1	imię	
 Hipcia	Hipcio	subst:sg:gen.acc:m1	imię	
-Hipcia	Hipcio	subst:sg:gen:m1	imię	
 Hipciami	Hipcio	subst:pl:inst:m1	imię	
 Hipcie	Hipcio	depr:pl:nom.acc.voc:m2	imię	
 Hipciem	Hipcio	subst:sg:inst:m1	imię	
@@ -2086,7 +1983,6 @@ Hipciu	Hipcio	subst:sg:voc:m1	imię
 Hipek	Hipek	subst:sg:nom:m1	imię	
 Hipkach	Hipek	subst:pl:loc:m1	imię	
 Hipka	Hipek	subst:sg:gen.acc:m1	imię	
-Hipka	Hipek	subst:sg:gen:m1	imię	
 Hipkami	Hipek	subst:pl:inst:m1	imię	
 Hipkiem	Hipek	subst:sg:inst:m1	imię	
 Hipki	Hipek	depr:pl:nom.acc.voc:m2	imię	
@@ -2099,7 +1995,6 @@ Hipku	Hipek	subst:sg:voc:m1	imię
 Hiperborejczycy	Hiperborejczyk	subst:pl:nom.voc:m1	nazwa pospolita	hist.
 Hiperborejczykach	Hiperborejczyk	subst:pl:loc:m1	nazwa pospolita	hist.
 Hiperborejczyka	Hiperborejczyk	subst:sg:gen.acc:m1	nazwa pospolita	hist.
-Hiperborejczyka	Hiperborejczyk	subst:sg:gen:m1	nazwa pospolita	hist.
 Hiperborejczykami	Hiperborejczyk	subst:pl:inst:m1	nazwa pospolita	hist.
 Hiperborejczyk	Hiperborejczyk	subst:sg:nom:m1	nazwa pospolita	hist.
 Hiperborejczykiem	Hiperborejczyk	subst:sg:inst:m1	nazwa pospolita	hist.
@@ -2111,7 +2006,6 @@ Hiperborejczyku	Hiperborejczyk	subst:sg:loc:m1	nazwa pospolita	hist.
 Hiperborejczyku	Hiperborejczyk	subst:sg:voc:m1	nazwa pospolita	hist.
 Hipokratesach	Hipokrates	subst:pl:loc:m1	imię	
 Hipokratesa	Hipokrates	subst:sg:gen.acc:m1	imię	
-Hipokratesa	Hipokrates	subst:sg:gen:m1	imię	
 Hipokratesami	Hipokrates	subst:pl:inst:m1	imię	
 Hipokratesem	Hipokrates	subst:sg:inst:m1	imię	
 Hipokrates	Hipokrates	subst:sg:nom:m1	imię	
@@ -2126,7 +2020,6 @@ Hipolicie	Hipolit	subst:sg:loc:m1	imię
 Hipolicie	Hipolit	subst:sg:voc:m1	imię	
 Hipolitach	Hipolit	subst:pl:loc:m1	imię	
 Hipolita	Hipolit	subst:sg:gen.acc:m1	imię	
-Hipolita	Hipolit	subst:sg:gen:m1	imię	
 Hipolitami	Hipolit	subst:pl:inst:m1	imię	
 Hipolitem	Hipolit	subst:sg:inst:m1	imię	
 Hipolit	Hipolit	subst:sg:nom:m1	imię	
@@ -2149,7 +2042,6 @@ Hipolity	Hipolita	subst:sg:gen:f	imię
 Hirek	Hirek	subst:sg:nom:m1	imię	
 Hirkach	Hirek	subst:pl:loc:m1	imię	
 Hirka	Hirek	subst:sg:gen.acc:m1	imię	
-Hirka	Hirek	subst:sg:gen:m1	imię	
 Hirkami	Hirek	subst:pl:inst:m1	imię	
 Hirkiem	Hirek	subst:sg:inst:m1	imię	
 Hirki	Hirek	depr:pl:nom.acc.voc:m2	imię	
@@ -2183,7 +2075,6 @@ Hiroszimy	Hiroszima	subst:pl:nom.acc.voc:f	nazwa geograficzna
 Hiroszimy	Hiroszima	subst:sg:gen:f	nazwa geograficzna	
 Hirszach	Hirsz	subst:pl:loc:m1	imię	
 Hirsza	Hirsz	subst:sg:gen.acc:m1	imię	
-Hirsza	Hirsz	subst:sg:gen:m1	imię	
 Hirszami	Hirsz	subst:pl:inst:m1	imię	
 Hirsze	Hirsz	depr:pl:nom.acc.voc:m2	imię	
 Hirsze	Hirsz	subst:pl:nom.voc:m1	imię	
@@ -2197,7 +2088,6 @@ Hirszu	Hirsz	subst:sg:loc:m1	imię
 Hirszu	Hirsz	subst:sg:voc:m1	imię	
 Hirszfeldach	Hirszfeld	subst:pl:loc:m1	nazwisko	
 Hirszfelda	Hirszfeld	subst:sg:gen.acc:m1	nazwisko	
-Hirszfelda	Hirszfeld	subst:sg:gen:m1	nazwisko	
 Hirszfeldami	Hirszfeld	subst:pl:inst:m1	nazwisko	
 Hirszfeldem	Hirszfeld	subst:sg:inst:m1	nazwisko	
 Hirszfeld	Hirszfeld	subst:sg:nom:m1	nazwisko	
@@ -2210,7 +2100,6 @@ Hirszfeldzie	Hirszfeld	subst:sg:loc:m1	nazwisko
 Hirszfeldzie	Hirszfeld	subst:sg:voc:m1	nazwisko	
 Hiszpanach	Hiszpan	subst:pl:loc:m1	nazwa pospolita	
 Hiszpana	Hiszpan	subst:sg:gen.acc:m1	nazwa pospolita	
-Hiszpana	Hiszpan	subst:sg:gen:m1	nazwa pospolita	
 Hiszpanami	Hiszpan	subst:pl:inst:m1	nazwa pospolita	
 Hiszpanem	Hiszpan	subst:sg:inst:m1	nazwa pospolita	
 Hiszpan	Hiszpan	subst:sg:nom:m1	nazwa pospolita	
@@ -2247,7 +2136,6 @@ Hiszpankom	Hiszpanka	subst:pl:dat:f	nazwa pospolita
 Hiszpańczycy	Hiszpańczyk	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 Hiszpańczykach	Hiszpańczyk	subst:pl:loc:m1	nazwa pospolita	daw.
 Hiszpańczyka	Hiszpańczyk	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-Hiszpańczyka	Hiszpańczyk	subst:sg:gen:m1	nazwa pospolita	daw.
 Hiszpańczykami	Hiszpańczyk	subst:pl:inst:m1	nazwa pospolita	daw.
 Hiszpańczyk	Hiszpańczyk	subst:sg:nom:m1	nazwa pospolita	daw.
 Hiszpańczykiem	Hiszpańczyk	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -2259,7 +2147,6 @@ Hiszpańczyku	Hiszpańczyk	subst:sg:loc:m1	nazwa pospolita	daw.
 Hiszpańczyku	Hiszpańczyk	subst:sg:voc:m1	nazwa pospolita	daw.
 Hitchcockach	Hitchcock	subst:pl:loc:m1	nazwisko	
 Hitchcocka	Hitchcock	subst:sg:gen.acc:m1	nazwisko	
-Hitchcocka	Hitchcock	subst:sg:gen:m1	nazwisko	
 Hitchcockami	Hitchcock	subst:pl:inst:m1	nazwisko	
 Hitchcock	Hitchcock	subst:sg:nom:m1	nazwisko	
 Hitchcockiem	Hitchcock	subst:sg:inst:m1	nazwisko	
@@ -2272,7 +2159,6 @@ Hitchcocku	Hitchcock	subst:sg:loc:m1	nazwisko
 Hitchcocku	Hitchcock	subst:sg:voc:m1	nazwisko	
 Hitlerach	Hitler	subst:pl:loc:m1	nazwisko	
 Hitlera	Hitler	subst:sg:gen.acc:m1	nazwisko	
-Hitlera	Hitler	subst:sg:gen:m1	nazwisko	
 Hitlerami	Hitler	subst:pl:inst:m1	nazwisko	
 Hitlerem	Hitler	subst:sg:inst:m1	nazwisko	
 Hitler	Hitler	subst:sg:nom:m1	nazwisko	
@@ -2288,7 +2174,6 @@ Hitlerjugend	Hitlerjugend	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa 
 HIV-ach	HIV	subst:pl:loc:m2	nazwa pospolita	pot.
 HIV-ach	HIV	subst:pl:loc:m3	nazwa pospolita	
 HIV-a	HIV	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-HIV-a	HIV	subst:sg:gen:m2	nazwa pospolita	pot.
 HIV-ami	HIV	subst:pl:inst:m2	nazwa pospolita	pot.
 HIV-ami	HIV	subst:pl:inst:m3	nazwa pospolita	
 HIV-em	HIV	subst:sg:inst:m2	nazwa pospolita	pot.
@@ -2311,7 +2196,6 @@ HIV-y	HIV	subst:pl:nom.acc.voc:m2	nazwa pospolita	pot.
 HIV-y	HIV	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 Hlondach	Hlond	subst:pl:loc:m1	nazwisko	
 Hlonda	Hlond	subst:sg:gen.acc:m1	nazwisko	
-Hlonda	Hlond	subst:sg:gen:m1	nazwisko	
 Hlondami	Hlond	subst:pl:inst:m1	nazwisko	
 Hlondem	Hlond	subst:sg:inst:m1	nazwisko	
 Hlond	Hlond	subst:sg:nom:m1	nazwisko	
@@ -2337,7 +2221,6 @@ Hładcy	Hładki	subst:pl:nom.voc:m1	nazwisko
 Hładkich	Hładki	subst:pl:gen.acc:m1	nazwisko	
 Hładkich	Hładki	subst:pl:loc:m1	nazwisko	
 Hładkiego	Hładki	subst:sg:gen.acc:m1	nazwisko	
-Hładkiego	Hładki	subst:sg:gen:m1	nazwisko	
 Hładkie	Hładki	depr:pl:nom.acc.voc:m2	nazwisko	
 Hładkiemu	Hładki	subst:sg:dat:m1	nazwisko	
 Hładki	Hładki	subst:sg:nom:m1	nazwisko	
@@ -2353,7 +2236,6 @@ Hłaskami	Hłasko	subst:pl:inst:m1	nazwisko
 Hłaską	Hłasko	subst:sg:inst:m1	nazwisko	
 Hłaskę	Hłasko	subst:sg:acc:m1	nazwisko	
 Hłaski	Hłasko	depr:pl:nom.acc.voc:m2	nazwisko	
-Hłaski	Hłasko	subst:sg:gen:m1	nazwisko	
 Hłasko	Hłasko	subst:sg:nom:m1	nazwisko	
 Hłasko	Hłasko	subst:sg:voc:m1	nazwisko	
 Hłaskom	Hłasko	subst:pl:dat:m1	nazwisko	
@@ -2361,7 +2243,6 @@ Hłaskowie	Hłasko	subst:pl:nom.voc:m1	nazwisko
 Hłasków	Hłasko	subst:pl:gen.acc:m1	nazwisko	
 Hobbesach	Hobbes	subst:pl:loc:m1	nazwisko	
 Hobbesa	Hobbes	subst:sg:gen.acc:m1	nazwisko	
-Hobbesa	Hobbes	subst:sg:gen:m1	nazwisko	
 Hobbesami	Hobbes	subst:pl:inst:m1	nazwisko	
 Hobbesem	Hobbes	subst:sg:inst:m1	nazwisko	
 Hobbes	Hobbes	subst:sg:nom:m1	nazwisko	
@@ -2375,7 +2256,6 @@ Hobbesy	Hobbes	depr:pl:nom.acc.voc:m2	nazwisko
 Hoenach	Hoene	subst:pl:loc:m1	nazwisko	
 Hoenami	Hoene	subst:pl:inst:m1	nazwisko	
 Hoenego	Hoene	subst:sg:gen.acc:m1	nazwisko	
-Hoenego	Hoene	subst:sg:gen:m1	nazwisko	
 Hoene	Hoene	depr:pl:nom.acc.voc:m2	nazwisko	
 Hoene	Hoene	subst:sg:nom:m1	nazwisko	
 Hoene	Hoene	subst:sg:voc:m1	nazwisko	
@@ -2387,7 +2267,6 @@ Hoenowie	Hoene	subst:pl:nom.voc:m1	nazwisko
 Hoenów	Hoene	subst:pl:gen.acc:m1	nazwisko	
 Hoffmanach	Hoffman	subst:pl:loc:m1	nazwisko	
 Hoffmana	Hoffman	subst:sg:gen.acc:m1	nazwisko	
-Hoffmana	Hoffman	subst:sg:gen:m1	nazwisko	
 Hoffmanami	Hoffman	subst:pl:inst:m1	nazwisko	
 Hoffmanem	Hoffman	subst:sg:inst:m1	nazwisko	
 Hoffman	Hoffman	subst:sg:nom:m1	nazwisko	
@@ -2400,7 +2279,6 @@ Hoffmanów	Hoffman	subst:pl:gen.acc:m1	nazwisko
 Hoffmany	Hoffman	depr:pl:nom.acc.voc:m2	nazwisko	
 Hoffmannach	Hoffmann	subst:pl:loc:m1	nazwisko	
 Hoffmanna	Hoffmann	subst:sg:gen.acc:m1	nazwisko	
-Hoffmanna	Hoffmann	subst:sg:gen:m1	nazwisko	
 Hoffmannami	Hoffmann	subst:pl:inst:m1	nazwisko	
 Hoffmannem	Hoffmann	subst:sg:inst:m1	nazwisko	
 Hoffmann	Hoffmann	subst:sg:nom:m1	nazwisko	
@@ -2424,7 +2302,6 @@ Hoffmanowym	Hoffmanowa	subst:pl:dat:f	nazwisko
 Hoffmanowymi	Hoffmanowa	subst:pl:inst:f	nazwisko	
 Hofmanach	Hofman	subst:pl:loc:m1	nazwisko	
 Hofmana	Hofman	subst:sg:gen.acc:m1	nazwisko	
-Hofmana	Hofman	subst:sg:gen:m1	nazwisko	
 Hofmanami	Hofman	subst:pl:inst:m1	nazwisko	
 Hofmanem	Hofman	subst:sg:inst:m1	nazwisko	
 Hofman	Hofman	subst:sg:nom:m1	nazwisko	
@@ -2441,7 +2318,6 @@ Hogarsie	Hogarth	subst:sg:loc:m1	nazwisko
 Hogarsie	Hogarth	subst:sg:voc:m1	nazwisko	
 Hogarthach	Hogarth	subst:pl:loc:m1	nazwisko	
 Hogartha	Hogarth	subst:sg:gen.acc:m1	nazwisko	
-Hogartha	Hogarth	subst:sg:gen:m1	nazwisko	
 Hogarthami	Hogarth	subst:pl:inst:m1	nazwisko	
 Hogarthem	Hogarth	subst:sg:inst:m1	nazwisko	
 Hogarth	Hogarth	subst:sg:nom:m1	nazwisko	
@@ -2452,7 +2328,6 @@ Hogarthów	Hogarth	subst:pl:gen.acc:m1	nazwisko
 Hogarthy	Hogarth	depr:pl:nom.acc.voc:m2	nazwisko	
 Hohenzollernach	Hohenzollern	subst:pl:loc:m1	nazwa członka rodu	
 Hohenzollerna	Hohenzollern	subst:sg:gen.acc:m1	nazwa członka rodu	
-Hohenzollerna	Hohenzollern	subst:sg:gen:m1	nazwa członka rodu	
 Hohenzollernami	Hohenzollern	subst:pl:inst:m1	nazwa członka rodu	
 Hohenzollernem	Hohenzollern	subst:sg:inst:m1	nazwa członka rodu	
 Hohenzollern	Hohenzollern	subst:sg:nom:m1	nazwa członka rodu	
@@ -2477,7 +2352,6 @@ Holandiom	Holandia	subst:pl:dat:f	nazwa geograficzna
 Holandyj	Holandia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Holbeinach	Holbein	subst:pl:loc:m1	nazwisko	
 Holbeina	Holbein	subst:sg:gen.acc:m1	nazwisko	
-Holbeina	Holbein	subst:sg:gen:m1	nazwisko	
 Holbeinami	Holbein	subst:pl:inst:m1	nazwisko	
 Holbeinem	Holbein	subst:sg:inst:m1	nazwisko	
 Holbein	Holbein	subst:sg:nom:m1	nazwisko	
@@ -2491,7 +2365,6 @@ Holbeiny	Holbein	depr:pl:nom.acc.voc:m2	nazwisko
 Holender	Holender	subst:sg:nom:m1	nazwa pospolita	
 Holendrach	Holender	subst:pl:loc:m1	nazwa pospolita	
 Holendra	Holender	subst:sg:gen.acc:m1	nazwa pospolita	
-Holendra	Holender	subst:sg:gen:m1	nazwa pospolita	
 Holendrami	Holender	subst:pl:inst:m1	nazwa pospolita	
 Holendrem	Holender	subst:sg:inst:m1	nazwa pospolita	
 Holendrom	Holender	subst:pl:dat:m1	nazwa pospolita	
@@ -2515,7 +2388,6 @@ Holenderkom	Holenderka	subst:pl:dat:f	nazwa pospolita
 Holi	Holi	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa święta	
 Hollandach	Holland	subst:pl:loc:m1	nazwisko	
 Hollanda	Holland	subst:sg:gen.acc:m1	nazwisko	
-Hollanda	Holland	subst:sg:gen:m1	nazwisko	
 Hollandami	Holland	subst:pl:inst:m1	nazwisko	
 Hollandem	Holland	subst:sg:inst:m1	nazwisko	
 Holland	Holland	subst:sg:nom:m1	nazwisko	
@@ -2540,7 +2412,6 @@ Hollywoodzie	Hollywood	subst:sg:loc:m3	nazwa geograficzna
 Hollywoodzie	Hollywood	subst:sg:voc:m3	nazwa geograficzna	
 Holmesach	Holmes	subst:pl:loc:m1	nazwisko	lit.
 Holmesa	Holmes	subst:sg:gen.acc:m1	nazwisko	lit.
-Holmesa	Holmes	subst:sg:gen:m1	nazwisko	lit.
 Holmesami	Holmes	subst:pl:inst:m1	nazwisko	lit.
 Holmesem	Holmes	subst:sg:inst:m1	nazwisko	lit.
 Holmes	Holmes	subst:sg:nom:m1	nazwisko	lit.
@@ -2554,7 +2425,6 @@ Holmesy	Holmes	depr:pl:nom.acc.voc:m2	nazwisko	lit.
 Holoubek	Holoubek	subst:sg:nom:m1	nazwisko	
 Holoubkach	Holoubek	subst:pl:loc:m1	nazwisko	
 Holoubka	Holoubek	subst:sg:gen.acc:m1	nazwisko	
-Holoubka	Holoubek	subst:sg:gen:m1	nazwisko	
 Holoubkami	Holoubek	subst:pl:inst:m1	nazwisko	
 Holoubkiem	Holoubek	subst:sg:inst:m1	nazwisko	
 Holoubki	Holoubek	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -2587,7 +2457,6 @@ Hołdernych	Hołderna	subst:pl:loc:f	nazwisko
 Hołdernym	Hołderna	subst:pl:dat:f	nazwisko	
 Hołdernymi	Hołderna	subst:pl:inst:f	nazwisko	
 Hołdernego	Hołderny	subst:sg:gen.acc:m1	nazwisko	
-Hołdernego	Hołderny	subst:sg:gen:m1	nazwisko	
 Hołderne	Hołderny	depr:pl:nom.acc.voc:m2	nazwisko	
 Hołdernemu	Hołderny	subst:sg:dat:m1	nazwisko	
 Hołderni	Hołderny	subst:pl:nom.voc:m1	nazwisko	
@@ -2612,7 +2481,6 @@ Hołowatym	Hołowata	subst:pl:dat:f	nazwisko
 Hołowatymi	Hołowata	subst:pl:inst:f	nazwisko	
 Hołowaci	Hołowaty	subst:pl:nom.voc:m1	nazwisko	
 Hołowatego	Hołowaty	subst:sg:gen.acc:m1	nazwisko	
-Hołowatego	Hołowaty	subst:sg:gen:m1	nazwisko	
 Hołowate	Hołowaty	depr:pl:nom.acc.voc:m2	nazwisko	
 Hołowatemu	Hołowaty	subst:sg:dat:m1	nazwisko	
 Hołowatych	Hołowaty	subst:pl:gen.acc:m1	nazwisko	
@@ -2636,7 +2504,6 @@ Homlu	Homel	subst:sg:loc:m3	nazwa geograficzna
 Homlu	Homel	subst:sg:voc:m3	nazwa geograficzna	
 Homerach	Homer	subst:pl:loc:m1	imię	
 Homera	Homer	subst:sg:gen.acc:m1	imię	
-Homera	Homer	subst:sg:gen:m1	imię	
 Homerami	Homer	subst:pl:inst:m1	imię	
 Homerem	Homer	subst:sg:inst:m1	imię	
 Homer	Homer	subst:sg:nom:m1	imię	
@@ -2652,7 +2519,6 @@ Honduranami	Honduranin	subst:pl:inst:m1	nazwa pospolita	bibl.
 Honduran	Honduranin	subst:pl:gen.acc:m1	nazwa pospolita	bibl.
 Honduranie	Honduranin	subst:pl:nom.voc:m1	nazwa pospolita	bibl.
 Honduranina	Honduranin	subst:sg:gen.acc:m1	nazwa pospolita	bibl.
-Honduranina	Honduranin	subst:sg:gen:m1	nazwa pospolita	bibl.
 Honduraninem	Honduranin	subst:sg:inst:m1	nazwa pospolita	bibl.
 Honduranin	Honduranin	subst:sg:nom:m1	nazwa pospolita	bibl.
 Honduraninie	Honduranin	subst:sg:loc:m1	nazwa pospolita	bibl.
@@ -2684,7 +2550,6 @@ Hondurasu	Honduras	subst:sg:gen:m3	nazwa geograficzna
 Hondurasy	Honduras	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Honeckerach	Honecker	subst:pl:loc:m1	nazwisko	
 Honeckera	Honecker	subst:sg:gen.acc:m1	nazwisko	
-Honeckera	Honecker	subst:sg:gen:m1	nazwisko	
 Honeckerami	Honecker	subst:pl:inst:m1	nazwisko	
 Honeckerem	Honecker	subst:sg:inst:m1	nazwisko	
 Honecker	Honecker	subst:sg:nom:m1	nazwisko	
@@ -2697,7 +2562,6 @@ Honeckerze	Honecker	subst:sg:loc:m1	nazwisko
 Honeckerze	Honecker	subst:sg:voc:m1	nazwisko	
 Honeggerach	Honegger	subst:pl:loc:m1	nazwisko	
 Honeggera	Honegger	subst:sg:gen.acc:m1	nazwisko	
-Honeggera	Honegger	subst:sg:gen:m1	nazwisko	
 Honeggerami	Honegger	subst:pl:inst:m1	nazwisko	
 Honeggerem	Honegger	subst:sg:inst:m1	nazwisko	
 Honegger	Honegger	subst:sg:nom:m1	nazwisko	
@@ -2725,7 +2589,6 @@ Honoracie	Honorat	subst:sg:voc:m1	imię
 Honoraci	Honorat	subst:pl:nom.voc:m1	imię	
 Honoratach	Honorat	subst:pl:loc:m1	imię	
 Honorata	Honorat	subst:sg:gen.acc:m1	imię	
-Honorata	Honorat	subst:sg:gen:m1	imię	
 Honoratami	Honorat	subst:pl:inst:m1	imię	
 Honoratem	Honorat	subst:sg:inst:m1	imię	
 Honorat	Honorat	subst:sg:nom:m1	imię	
@@ -2770,7 +2633,6 @@ Honorciu	Honorcia	subst:sg:voc:f	imię
 Honorć	Honorcia	subst:pl:gen:f	imię	char.
 Honoriuszach	Honoriusz	subst:pl:loc:m1	imię	
 Honoriusza	Honoriusz	subst:sg:gen.acc:m1	imię	
-Honoriusza	Honoriusz	subst:sg:gen:m1	imię	
 Honoriuszami	Honoriusz	subst:pl:inst:m1	imię	
 Honoriusze	Honoriusz	depr:pl:nom.acc.voc:m2	imię	
 Honoriusze	Honoriusz	subst:pl:nom.voc:m1	imię	
@@ -2794,7 +2656,6 @@ Honorki	Honorka	subst:sg:gen:f	imię
 Honorko	Honorka	subst:sg:voc:f	imię	
 Honorkom	Honorka	subst:pl:dat:f	imię	
 Honorego	Honory	subst:sg:gen.acc:m1	imię	
-Honorego	Honory	subst:sg:gen:m1	imię	
 Honore	Honory	depr:pl:nom.acc.voc:m2	imię	
 Honoremu	Honory	subst:sg:dat:m1	imię	
 Honorowie	Honory	subst:pl:nom.voc:m1	imię	
@@ -2819,7 +2680,6 @@ Honoryny	Honoryna	subst:pl:nom.acc.voc:f	imię
 Honoryny	Honoryna	subst:sg:gen:f	imię	
 Hoodach	Hood	subst:pl:loc:m1	nazwisko|człon przydomka	
 Hooda	Hood	subst:sg:gen.acc:m1	nazwisko|człon przydomka	
-Hooda	Hood	subst:sg:gen:m1	nazwisko|człon przydomka	
 Hoodami	Hood	subst:pl:inst:m1	nazwisko|człon przydomka	
 Hoodem	Hood	subst:sg:inst:m1	nazwisko|człon przydomka	
 Hood	Hood	subst:sg:nom:m1	nazwisko|człon przydomka	
@@ -2832,7 +2692,6 @@ Hoodzie	Hood	subst:sg:loc:m1	nazwisko|człon przydomka
 Hoodzie	Hood	subst:sg:voc:m1	nazwisko|człon przydomka	
 Hooverach	Hoover	subst:pl:loc:m1	nazwisko	
 Hoovera	Hoover	subst:sg:gen.acc:m1	nazwisko	
-Hoovera	Hoover	subst:sg:gen:m1	nazwisko	
 Hooverami	Hoover	subst:pl:inst:m1	nazwisko	
 Hooverem	Hoover	subst:sg:inst:m1	nazwisko	
 Hoover	Hoover	subst:sg:nom:m1	nazwisko	
@@ -2846,7 +2705,6 @@ Hooverze	Hoover	subst:sg:voc:m1	nazwisko
 Hoppach	Hoppe	subst:pl:loc:m1	nazwisko	
 Hoppami	Hoppe	subst:pl:inst:m1	nazwisko	
 Hoppego	Hoppe	subst:sg:gen.acc:m1	nazwisko	
-Hoppego	Hoppe	subst:sg:gen:m1	nazwisko	
 Hoppe	Hoppe	depr:pl:nom.acc.voc:m2	nazwisko	
 Hoppe	Hoppe	subst:sg:nom:m1	nazwisko	
 Hoppe	Hoppe	subst:sg:voc:m1	nazwisko	
@@ -2858,7 +2716,6 @@ Hoppowie	Hoppe	subst:pl:nom.voc:m1	nazwisko
 Hoppów	Hoppe	subst:pl:gen.acc:m1	nazwisko	
 Horacjuszach	Horacjusz	subst:pl:loc:m1	imię	
 Horacjusza	Horacjusz	subst:sg:gen.acc:m1	imię	
-Horacjusza	Horacjusz	subst:sg:gen:m1	imię	
 Horacjuszami	Horacjusz	subst:pl:inst:m1	imię	
 Horacjusze	Horacjusz	depr:pl:nom.acc.voc:m2	imię	
 Horacjusze	Horacjusz	subst:pl:nom.voc:m1	imię	
@@ -2871,7 +2728,6 @@ Horacjuszów	Horacjusz	subst:pl:gen.acc:m1	imię
 Horacjuszu	Horacjusz	subst:sg:loc:m1	imię	
 Horacjuszu	Horacjusz	subst:sg:voc:m1	imię	
 Horacego	Horacy	subst:sg:gen.acc:m1	imię	
-Horacego	Horacy	subst:sg:gen:m1	imię	
 Horace	Horacy	depr:pl:nom.acc.voc:m2	imię	
 Horacemu	Horacy	subst:sg:dat:m1	imię	
 Horacowie	Horacy	subst:pl:nom.voc:m1	imię	
@@ -2906,7 +2762,6 @@ Horodłom	Horodło	subst:pl:dat:n:ncol	nazwa geograficzna
 Horodłu	Horodło	subst:sg:dat:n:ncol	nazwa geograficzna	
 Horowitzach	Horowitz	subst:pl:loc:m1	nazwisko	
 Horowitza	Horowitz	subst:sg:gen.acc:m1	nazwisko	
-Horowitza	Horowitz	subst:sg:gen:m1	nazwisko	
 Horowitzami	Horowitz	subst:pl:inst:m1	nazwisko	
 Horowitze	Horowitz	depr:pl:nom.acc.voc:m2	nazwisko	
 Horowitzem	Horowitz	subst:sg:inst:m1	nazwisko	
@@ -2919,7 +2774,6 @@ Horowitzu	Horowitz	subst:sg:loc:m1	nazwisko
 Horowitzu	Horowitz	subst:sg:voc:m1	nazwisko	
 Horstach	Horst	subst:pl:loc:m1	imię	
 Horsta	Horst	subst:sg:gen.acc:m1	imię	
-Horsta	Horst	subst:sg:gen:m1	imię	
 Horstami	Horst	subst:pl:inst:m1	imię	
 Horstem	Horst	subst:sg:inst:m1	imię	
 Horst	Horst	subst:sg:nom:m1	imię	
@@ -2944,7 +2798,6 @@ Hortensjom	Hortensja	subst:pl:dat:f	imię
 Hortensyj	Hortensja	subst:pl:gen:f	imię	arch.|char.
 Hortensjuszach	Hortensjusz	subst:pl:loc:m1	imię	
 Hortensjusza	Hortensjusz	subst:sg:gen.acc:m1	imię	
-Hortensjusza	Hortensjusz	subst:sg:gen:m1	imię	
 Hortensjuszami	Hortensjusz	subst:pl:inst:m1	imię	
 Hortensjusze	Hortensjusz	depr:pl:nom.acc.voc:m2	imię	
 Hortensjusze	Hortensjusz	subst:pl:nom.voc:m1	imię	
@@ -2971,7 +2824,6 @@ Hortex	Hortex	subst:sg:nom.acc:m3	nazwa firmy
 Horthych	Horthy	subst:pl:gen.acc:m1	nazwisko	
 Horthych	Horthy	subst:pl:loc:m1	nazwisko	
 Horthyego	Horthy	subst:sg:gen.acc:m1	nazwisko	
-Horthyego	Horthy	subst:sg:gen:m1	nazwisko	
 Horthye	Horthy	depr:pl:nom.acc.voc:m2	nazwisko	
 Horthyemu	Horthy	subst:sg:dat:m1	nazwisko	
 Horthy	Horthy	subst:sg:nom:m1	nazwisko	
@@ -2983,7 +2835,6 @@ Horthymi	Horthy	subst:pl:inst:m1	nazwisko
 Horthyowie	Horthy	subst:pl:nom.voc:m1	nazwisko	
 Hortmanowiczach	Hortmanowicz	subst:pl:loc:m1	nazwisko	
 Hortmanowicza	Hortmanowicz	subst:sg:gen.acc:m1	nazwisko	
-Hortmanowicza	Hortmanowicz	subst:sg:gen:m1	nazwisko	
 Hortmanowiczami	Hortmanowicz	subst:pl:inst:m1	nazwisko	
 Hortmanowicze	Hortmanowicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Hortmanowicze	Hortmanowicz	subst:pl:nom.voc:m1	nazwisko	
@@ -3006,13 +2857,11 @@ Horzycom	Horzyca	subst:pl:dat:m1	nazwisko
 Horzycowie	Horzyca	subst:pl:nom.voc:m1	nazwisko	
 Horzyców	Horzyca	subst:pl:gen.acc:m1	nazwisko	
 Horzycy	Horzyca	subst:sg:dat.loc:m1	nazwisko	
-Horzycy	Horzyca	subst:sg:gen:m1	nazwisko	
 Hotentocie	Hotentot	subst:sg:loc:m1	nazwa pospolita	
 Hotentocie	Hotentot	subst:sg:voc:m1	nazwa pospolita	
 Hotentoci	Hotentot	subst:pl:nom.voc:m1	nazwa pospolita	
 Hotentotach	Hotentot	subst:pl:loc:m1	nazwa pospolita	
 Hotentota	Hotentot	subst:sg:gen.acc:m1	nazwa pospolita	
-Hotentota	Hotentot	subst:sg:gen:m1	nazwa pospolita	
 Hotentotami	Hotentot	subst:pl:inst:m1	nazwa pospolita	
 Hotentotem	Hotentot	subst:sg:inst:m1	nazwa pospolita	
 Hotentot	Hotentot	subst:sg:nom:m1	nazwa pospolita	
@@ -3033,7 +2882,6 @@ Houstonu	Houston	subst:sg:gen:m3	nazwa geograficzna
 Houstony	Houston	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Hozjuszach	Hozjusz	subst:pl:loc:m1	nazwisko	
 Hozjusza	Hozjusz	subst:sg:gen.acc:m1	nazwisko	
-Hozjusza	Hozjusz	subst:sg:gen:m1	nazwisko	
 Hozjuszami	Hozjusz	subst:pl:inst:m1	nazwisko	
 Hozjusze	Hozjusz	depr:pl:nom.acc.voc:m2	nazwisko	
 Hozjuszem	Hozjusz	subst:sg:inst:m1	nazwisko	
@@ -3048,7 +2896,6 @@ HP	HP	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa firmy
 HP	HP	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa firmy	
 Hrabalach	Hrabal	subst:pl:loc:m1	nazwisko	
 Hrabala	Hrabal	subst:sg:gen.acc:m1	nazwisko	
-Hrabala	Hrabal	subst:sg:gen:m1	nazwisko	
 Hrabalami	Hrabal	subst:pl:inst:m1	nazwisko	
 Hrabale	Hrabal	depr:pl:nom.acc.voc:m2	nazwisko	
 Hrabalem	Hrabal	subst:sg:inst:m1	nazwisko	
@@ -3093,7 +2940,6 @@ Hrubieszowy	Hrubieszów	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Hrubieszów	Hrubieszów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Hryniewiczach	Hryniewicz	subst:pl:loc:m1	nazwisko	
 Hryniewicza	Hryniewicz	subst:sg:gen.acc:m1	nazwisko	
-Hryniewicza	Hryniewicz	subst:sg:gen:m1	nazwisko	
 Hryniewiczami	Hryniewicz	subst:pl:inst:m1	nazwisko	
 Hryniewicze	Hryniewicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Hryniewicze	Hryniewicz	subst:pl:nom.voc:m1	nazwisko	
@@ -3109,7 +2955,6 @@ HSP	HSP	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	med.
 HTML-ach	HTML	subst:pl:loc:m2	nazwa pospolita	komp.
 HTML-ach	HTML	subst:pl:loc:m3	nazwa pospolita	komp.
 HTML-a	HTML	subst:sg:gen.acc:m2	nazwa pospolita	komp.
-HTML-a	HTML	subst:sg:gen:m2	nazwa pospolita	komp.
 HTML-ami	HTML	subst:pl:inst:m2	nazwa pospolita	komp.
 HTML-ami	HTML	subst:pl:inst:m3	nazwa pospolita	komp.
 HTML-e	HTML	subst:pl:nom.acc.voc:m2	nazwa pospolita	komp.
@@ -3132,7 +2977,6 @@ HTML-u	HTML	subst:sg:voc:m3	nazwa pospolita	komp.
 HTTP	HTTP	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	komp.
 Hubalach	Hubal	subst:pl:loc:m1	pseudonim	
 Hubala	Hubal	subst:sg:gen.acc:m1	pseudonim	
-Hubala	Hubal	subst:sg:gen:m1	pseudonim	
 Hubalami	Hubal	subst:pl:inst:m1	pseudonim	
 Hubale	Hubal	depr:pl:nom.acc.voc:m2	pseudonim	
 Hubalem	Hubal	subst:sg:inst:m1	pseudonim	
@@ -3145,7 +2989,6 @@ Hubalu	Hubal	subst:sg:loc:m1	pseudonim
 Hubalu	Hubal	subst:sg:voc:m1	pseudonim	
 Hubble’ach	Hubble	subst:pl:loc:m1	nazwisko	
 Hubble’a	Hubble	subst:sg:gen.acc:m1	nazwisko	
-Hubble’a	Hubble	subst:sg:gen:m1	nazwisko	
 Hubble’ami	Hubble	subst:pl:inst:m1	nazwisko	
 Hubble’e	Hubble	depr:pl:nom.acc.voc:m2	nazwisko	
 Hubble’em	Hubble	subst:sg:inst:m1	nazwisko	
@@ -3158,7 +3001,6 @@ Hubble’u	Hubble	subst:sg:loc:m1	nazwisko
 Hubble’u	Hubble	subst:sg:voc:m1	nazwisko	
 Hubercikach	Hubercik	subst:pl:loc:m1	imię	
 Hubercika	Hubercik	subst:sg:gen.acc:m1	imię	
-Hubercika	Hubercik	subst:sg:gen:m1	imię	
 Hubercikami	Hubercik	subst:pl:inst:m1	imię	
 Hubercik	Hubercik	subst:sg:nom:m1	imię	
 Hubercikiem	Hubercik	subst:sg:inst:m1	imię	
@@ -3173,7 +3015,6 @@ Hubercie	Hubert	subst:sg:loc:m1	imię
 Hubercie	Hubert	subst:sg:voc:m1	imię	
 Hubertach	Hubert	subst:pl:loc:m1	imię	
 Huberta	Hubert	subst:sg:gen.acc:m1	imię	
-Huberta	Hubert	subst:sg:gen:m1	imię	
 Hubertami	Hubert	subst:pl:inst:m1	imię	
 Hubertem	Hubert	subst:sg:inst:m1	imię	
 Hubert	Hubert	subst:sg:nom:m1	imię	
@@ -3198,7 +3039,6 @@ Hucule	Hucuł	subst:sg:voc:m1	nazwa pospolita
 Huculi	Hucuł	subst:pl:nom.voc:m1	nazwa pospolita	
 Hucułach	Hucuł	subst:pl:loc:m1	nazwa pospolita	
 Hucuła	Hucuł	subst:sg:gen.acc:m1	nazwa pospolita	
-Hucuła	Hucuł	subst:sg:gen:m1	nazwa pospolita	
 Hucułami	Hucuł	subst:pl:inst:m1	nazwa pospolita	
 Hucułem	Hucuł	subst:sg:inst:m1	nazwa pospolita	
 Hucuł	Hucuł	subst:sg:nom:m1	nazwa pospolita	
@@ -3219,7 +3059,6 @@ Hudym	Huda	subst:pl:dat:f	nazwisko
 Hudymi	Huda	subst:pl:inst:f	nazwisko	
 Hudsonach	Hudson:s1	subst:pl:loc:m1	nazwisko	
 Hudsona	Hudson:s1	subst:sg:gen.acc:m1	nazwisko	
-Hudsona	Hudson:s1	subst:sg:gen:m1	nazwisko	
 Hudsonami	Hudson:s1	subst:pl:inst:m1	nazwisko	
 Hudsonem	Hudson:s1	subst:sg:inst:m1	nazwisko	
 Hudson	Hudson:s1	subst:sg:nom:m1	nazwisko	
@@ -3242,7 +3081,6 @@ Hudsonów	Hudson:s2	subst:pl:gen:m3	nazwa geograficzna
 Hudsonu	Hudson:s2	subst:sg:gen:m3	nazwa geograficzna	
 Hudsony	Hudson:s2	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Hudego	Hudy	subst:sg:gen.acc:m1	nazwisko	
-Hudego	Hudy	subst:sg:gen:m1	nazwisko	
 Hude	Hudy	depr:pl:nom.acc.voc:m2	nazwisko	
 Hudemu	Hudy	subst:sg:dat:m1	nazwisko	
 Hudych	Hudy	subst:pl:gen.acc:m1	nazwisko	
@@ -3257,7 +3095,6 @@ Hudzi	Hudy	subst:pl:nom.voc:m1	nazwisko
 Huellach	Huelle	subst:pl:loc:m1	nazwisko	
 Huellami	Huelle	subst:pl:inst:m1	nazwisko	
 Huellego	Huelle	subst:sg:gen.acc:m1	nazwisko	
-Huellego	Huelle	subst:sg:gen:m1	nazwisko	
 Huelle	Huelle	depr:pl:nom.acc.voc:m2	nazwisko	
 Huelle	Huelle	subst:sg:nom:m1	nazwisko	
 Huelle	Huelle	subst:sg:voc:m1	nazwisko	
@@ -3269,7 +3106,6 @@ Huellowie	Huelle	subst:pl:nom.voc:m1	nazwisko
 Huellów	Huelle	subst:pl:gen.acc:m1	nazwisko	
 Hugonach	Hugon	subst:pl:loc:m1	imię	
 Hugona	Hugon	subst:sg:gen.acc:m1	imię	
-Hugona	Hugon	subst:sg:gen:m1	imię	
 Hugonami	Hugon	subst:pl:inst:m1	imię	
 Hugonem	Hugon	subst:sg:inst:m1	imię	
 Hugon	Hugon	subst:sg:nom:m1	imię	
@@ -3284,7 +3120,6 @@ Hugo	Hugo:s1	subst:sg:nom:m1	imię
 Hugo	Hugo:s1	subst:sg:voc:m1	imię	
 Hugonach	Hugo:s1	subst:pl:loc:m1	imię	
 Hugona	Hugo:s1	subst:sg:gen.acc:m1	imię	
-Hugona	Hugo:s1	subst:sg:gen:m1	imię	
 Hugonami	Hugo:s1	subst:pl:inst:m1	imię	
 Hugonem	Hugo:s1	subst:sg:inst:m1	imię	
 Hugonie	Hugo:s1	subst:sg:loc:m1	imię	
@@ -3300,7 +3135,6 @@ Humboldcie	Humboldt	subst:sg:loc:m1	nazwisko
 Humboldcie	Humboldt	subst:sg:voc:m1	nazwisko	
 Humboldtach	Humboldt	subst:pl:loc:m1	nazwisko	
 Humboldta	Humboldt	subst:sg:gen.acc:m1	nazwisko	
-Humboldta	Humboldt	subst:sg:gen:m1	nazwisko	
 Humboldtami	Humboldt	subst:pl:inst:m1	nazwisko	
 Humboldtem	Humboldt	subst:sg:inst:m1	nazwisko	
 Humboldt	Humboldt	subst:sg:nom:m1	nazwisko	
@@ -3331,7 +3165,6 @@ Humiennych	Humienna	subst:pl:loc:f	nazwisko
 Humiennym	Humienna	subst:pl:dat:f	nazwisko	
 Humiennymi	Humienna	subst:pl:inst:f	nazwisko	
 Humiennego	Humienny	subst:sg:gen.acc:m1	nazwisko	
-Humiennego	Humienny	subst:sg:gen:m1	nazwisko	
 Humienne	Humienny	depr:pl:nom.acc.voc:m2	nazwisko	
 Humiennemu	Humienny	subst:sg:dat:m1	nazwisko	
 Humienni	Humienny	subst:pl:nom.voc:m1	nazwisko	
@@ -3345,7 +3178,6 @@ Humiennym	Humienny	subst:sg:loc:m1	nazwisko
 Humiennymi	Humienny	subst:pl:inst:m1	nazwisko	
 Hunach	Hun	subst:pl:loc:m1	nazwa pospolita	
 Huna	Hun	subst:sg:gen.acc:m1	nazwa pospolita	
-Huna	Hun	subst:sg:gen:m1	nazwa pospolita	
 Hunami	Hun	subst:pl:inst:m1	nazwa pospolita	
 Hunem	Hun	subst:sg:inst:m1	nazwa pospolita	
 Hun	Hun	subst:sg:nom:m1	nazwa pospolita	
@@ -3359,7 +3191,6 @@ Huny	Hun	depr:pl:nom.acc.voc:m2	nazwa pospolita
 Hunyadych	Hunyady	subst:pl:gen.acc:m1	nazwisko	
 Hunyadych	Hunyady	subst:pl:loc:m1	nazwisko	
 Hunyadyego	Hunyady	subst:sg:gen.acc:m1	nazwisko	
-Hunyadyego	Hunyady	subst:sg:gen:m1	nazwisko	
 Hunyadye	Hunyady	depr:pl:nom.acc.voc:m2	nazwisko	
 Hunyadyemu	Hunyady	subst:sg:dat:m1	nazwisko	
 Hunyady	Hunyady	subst:sg:nom:m1	nazwisko	
@@ -3371,7 +3202,6 @@ Hunyadymi	Hunyady	subst:pl:inst:m1	nazwisko
 Hunyadyowie	Hunyady	subst:pl:nom.voc:m1	nazwisko	
 Husach	Hus	subst:pl:loc:m1	nazwisko	
 Husa	Hus	subst:sg:gen.acc:m1	nazwisko	
-Husa	Hus	subst:sg:gen:m1	nazwisko	
 Husami	Hus	subst:pl:inst:m1	nazwisko	
 Husem	Hus	subst:sg:inst:m1	nazwisko	
 Hus	Hus	subst:sg:nom:m1	nazwisko	
@@ -3384,7 +3214,6 @@ Husów	Hus	subst:pl:gen.acc:m1	nazwisko
 Husy	Hus	depr:pl:nom.acc.voc:m2	nazwisko	
 Husajnach	Husajn	subst:pl:loc:m1	nazwisko	
 Husajna	Husajn	subst:sg:gen.acc:m1	nazwisko	
-Husajna	Husajn	subst:sg:gen:m1	nazwisko	
 Husajnami	Husajn	subst:pl:inst:m1	nazwisko	
 Husajnem	Husajn	subst:sg:inst:m1	nazwisko	
 Husajn	Husajn	subst:sg:nom:m1	nazwisko	
@@ -3397,7 +3226,6 @@ Husajnów	Husajn	subst:pl:gen.acc:m1	nazwisko
 Husajny	Husajn	depr:pl:nom.acc.voc:m2	nazwisko	
 Husakach	Husak	subst:pl:loc:m1	nazwisko	
 Husaka	Husak	subst:sg:gen.acc:m1	nazwisko	
-Husaka	Husak	subst:sg:gen:m1	nazwisko	
 Husakami	Husak	subst:pl:inst:m1	nazwisko	
 Husak	Husak	subst:sg:nom:m1	nazwisko	
 Husakiem	Husak	subst:sg:inst:m1	nazwisko	
@@ -3410,7 +3238,6 @@ Husaku	Husak	subst:sg:loc:m1	nazwisko
 Husaku	Husak	subst:sg:voc:m1	nazwisko	
 Husserlach	Husserl	subst:pl:loc:m1	nazwisko	
 Husserla	Husserl	subst:sg:gen.acc:m1	nazwisko	
-Husserla	Husserl	subst:sg:gen:m1	nazwisko	
 Husserlami	Husserl	subst:pl:inst:m1	nazwisko	
 Husserle	Husserl	depr:pl:nom.acc.voc:m2	nazwisko	
 Husserlem	Husserl	subst:sg:inst:m1	nazwisko	
@@ -3433,7 +3260,6 @@ Hutnych	Hutna	subst:pl:loc:f	nazwisko
 Hutnym	Hutna	subst:pl:dat:f	nazwisko	
 Hutnymi	Hutna	subst:pl:inst:f	nazwisko	
 Hutnego	Hutny	subst:sg:gen.acc:m1	nazwisko	
-Hutnego	Hutny	subst:sg:gen:m1	nazwisko	
 Hutne	Hutny	depr:pl:nom.acc.voc:m2	nazwisko	
 Hutnemu	Hutny	subst:sg:dat:m1	nazwisko	
 Hutni	Hutny	subst:pl:nom.voc:m1	nazwisko	
@@ -3450,7 +3276,6 @@ Hutu	Hutu	depr:pl:nom.acc.voc:m2	nazwa pospolita
 Hutu	Hutu	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwa pospolita	
 Huxleyach	Huxley	subst:pl:loc:m1	nazwisko	
 Huxleya	Huxley	subst:sg:gen.acc:m1	nazwisko	
-Huxleya	Huxley	subst:sg:gen:m1	nazwisko	
 Huxleyami	Huxley	subst:pl:inst:m1	nazwisko	
 Huxleye	Huxley	depr:pl:nom.acc.voc:m2	nazwisko	
 Huxleyem	Huxley	subst:sg:inst:m1	nazwisko	
@@ -3474,7 +3299,6 @@ Hyde-Parku	Hyde-Park	subst:sg:loc:m3	nazwa geograficzna
 Hyde-Parku	Hyde-Park	subst:sg:voc:m3	nazwa geograficzna	
 Hyginach	Hygin	subst:pl:loc:m1	imię	
 Hygina	Hygin	subst:sg:gen.acc:m1	imię	
-Hygina	Hygin	subst:sg:gen:m1	imię	
 Hyginami	Hygin	subst:pl:inst:m1	imię	
 Hyginem	Hygin	subst:sg:inst:m1	imię	
 Hygin	Hygin	subst:sg:nom:m1	imię	
@@ -3488,7 +3312,6 @@ Hyginów	Hygin	subst:pl:gen.acc:m1	imię
 Hyginy	Hygin	depr:pl:nom.acc.voc:m2	imię	
 Hymenach	Hymen	subst:pl:loc:m1	imię	mit.
 Hymena	Hymen	subst:sg:gen.acc:m1	imię	mit.
-Hymena	Hymen	subst:sg:gen:m1	imię	mit.
 Hymenami	Hymen	subst:pl:inst:m1	imię	mit.
 Hymenem	Hymen	subst:sg:inst:m1	imię	mit.
 Hymen	Hymen	subst:sg:nom:m1	imię	mit.
@@ -3515,7 +3338,6 @@ Hypcy	Hypki	subst:pl:nom.voc:m1	nazwisko
 Hypkich	Hypki	subst:pl:gen.acc:m1	nazwisko	
 Hypkich	Hypki	subst:pl:loc:m1	nazwisko	
 Hypkiego	Hypki	subst:sg:gen.acc:m1	nazwisko	
-Hypkiego	Hypki	subst:sg:gen:m1	nazwisko	
 Hypkie	Hypki	depr:pl:nom.acc.voc:m2	nazwisko	
 Hypkiemu	Hypki	subst:sg:dat:m1	nazwisko	
 Hypki	Hypki	subst:sg:nom:m1	nazwisko	
@@ -3537,7 +3359,6 @@ Hyżych	Hyża	subst:pl:loc:f	nazwisko
 Hyżym	Hyża	subst:pl:dat:f	nazwisko	
 Hyżymi	Hyża	subst:pl:inst:f	nazwisko	
 Hyżego	Hyży	subst:sg:gen.acc:m1	nazwisko	
-Hyżego	Hyży	subst:sg:gen:m1	nazwisko	
 Hyże	Hyży	depr:pl:nom.acc.voc:m2	nazwisko	
 Hyżemu	Hyży	subst:sg:dat:m1	nazwisko	
 Hyżowie	Hyży	subst:pl:nom.voc:m1	nazwisko	

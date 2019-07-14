@@ -4,7 +4,6 @@ Aachen	Aachen	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa geograficzna
 Aachen	Aachen	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
 AAP	AAP	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa instytucji	
 Aarona	Aaron	subst:sg:gen.acc:m1	imię	
-Aarona	Aaron	subst:sg:gen:m1	imię	
 Aaron	Aaron	subst:sg:nom:m1	imię	
 Aaronach	Aaron	subst:pl:loc:m1	imię	
 Aaronami	Aaron	subst:pl:inst:m1	imię	
@@ -21,7 +20,6 @@ AA	AA:s1	subst:pl:nom.gen.dat.acc.inst.loc.voc:m1:pt	nazwa organizacji
 AA	AA:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa firmy	
 AA	AA:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa firmy	
 Abakanowicza	Abakanowicz	subst:sg:gen.acc:m1	nazwisko	
-Abakanowicza	Abakanowicz	subst:sg:gen:m1	nazwisko	
 Abakanowicz	Abakanowicz	subst:sg:nom:m1	nazwisko	
 Abakanowiczach	Abakanowicz	subst:pl:loc:m1	nazwisko	
 Abakanowiczami	Abakanowicz	subst:pl:inst:m1	nazwisko	
@@ -48,7 +46,6 @@ ABB-y	ABBA	subst:pl:nom.acc.voc:f	nazwa własna
 ABB-y	ABBA	subst:sg:gen:f	nazwa własna	
 ABC	ABC	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa firmy	
 Abchaza	Abchaz	subst:sg:gen.acc:m1	nazwa pospolita	etn.
-Abchaza	Abchaz	subst:sg:gen:m1	nazwa pospolita	etn.
 Abchaz	Abchaz	subst:sg:nom:m1	nazwa pospolita	etn.
 Abchazach	Abchaz	subst:pl:loc:m1	nazwa pospolita	etn.
 Abchazami	Abchaz	subst:pl:inst:m1	nazwa pospolita	etn.
@@ -85,7 +82,6 @@ Abchazki	Abchazka	subst:sg:gen:f	nazwa pospolita	etn.
 Abchazko	Abchazka	subst:sg:voc:f	nazwa pospolita	etn.
 Abchazkom	Abchazka	subst:pl:dat:f	nazwa pospolita	etn.
 Abdiasza	Abdiasz	subst:sg:gen.acc:m1	imię	bibl.
-Abdiasza	Abdiasz	subst:sg:gen:m1	imię	bibl.
 Abdiasz	Abdiasz	subst:sg:nom:m1	imię	bibl.
 Abdiaszach	Abdiasz	subst:pl:loc:m1	imię	bibl.
 Abdiaszami	Abdiasz	subst:pl:inst:m1	imię	bibl.
@@ -99,7 +95,6 @@ Abdiaszów	Abdiasz	subst:pl:gen.acc:m1	imię	bibl.
 Abdiaszu	Abdiasz	subst:sg:loc:m1	imię	bibl.
 Abdiaszu	Abdiasz	subst:sg:voc:m1	imię	bibl.
 Abdona	Abdon	subst:sg:gen.acc:m1	imię	
-Abdona	Abdon	subst:sg:gen:m1	imię	
 Abdon	Abdon	subst:sg:nom:m1	imię	
 Abdonach	Abdon	subst:pl:loc:m1	imię	
 Abdonami	Abdon	subst:pl:inst:m1	imię	
@@ -125,7 +120,6 @@ Abeby	Abeba	subst:pl:nom.acc.voc:f	człon nazwy geograficznej
 Abeby	Abeba	subst:sg:gen:f	człon nazwy geograficznej	
 Abel	Abel	subst:sg:nom:m1	imię	bibl.
 Abla	Abel	subst:sg:gen.acc:m1	imię	bibl.
-Abla	Abel	subst:sg:gen:m1	imię	bibl.
 Ablach	Abel	subst:pl:loc:m1	imię	bibl.
 Ablami	Abel	subst:pl:inst:m1	imię	bibl.
 Able	Abel	depr:pl:nom.acc.voc:m2	imię	bibl.
@@ -139,7 +133,6 @@ Ablów	Abel	subst:pl:gen.acc:m1	imię	bibl.
 Ablu	Abel	subst:sg:loc:m1	imię	bibl.
 Ablu	Abel	subst:sg:voc:m1	imię	bibl.
 Abercjusza	Abercjusz	subst:sg:gen.acc:m1	imię	
-Abercjusza	Abercjusz	subst:sg:gen:m1	imię	
 Abercjusz	Abercjusz	subst:sg:nom:m1	imię	
 Abercjuszach	Abercjusz	subst:pl:loc:m1	imię	
 Abercjuszami	Abercjusz	subst:pl:inst:m1	imię	
@@ -179,7 +172,6 @@ Abisynko	Abisynka	subst:sg:voc:f	nazwa pospolita	etn.
 Abisynkom	Abisynka	subst:pl:dat:f	nazwa pospolita	etn.
 Abisyńczycy	Abisyńczyk	subst:pl:nom.voc:m1	nazwa pospolita	etn.
 Abisyńczyka	Abisyńczyk	subst:sg:gen.acc:m1	nazwa pospolita	etn.
-Abisyńczyka	Abisyńczyk	subst:sg:gen:m1	nazwa pospolita	etn.
 Abisyńczyk	Abisyńczyk	subst:sg:nom:m1	nazwa pospolita	etn.
 Abisyńczykach	Abisyńczyk	subst:pl:loc:m1	nazwa pospolita	etn.
 Abisyńczykami	Abisyńczyk	subst:pl:inst:m1	nazwa pospolita	etn.
@@ -192,7 +184,6 @@ Abisyńczyku	Abisyńczyk	subst:sg:loc:m1	nazwa pospolita	etn.
 Abisyńczyku	Abisyńczyk	subst:sg:voc:m1	nazwa pospolita	etn.
 Abiszag	Abiszag	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	imię	bibl.
 Abnera	Abner	subst:sg:gen.acc:m1	imię	
-Abnera	Abner	subst:sg:gen:m1	imię	
 Abner	Abner	subst:sg:nom:m1	imię	
 Abnerach	Abner	subst:pl:loc:m1	imię	
 Abnerami	Abner	subst:pl:inst:m1	imię	
@@ -206,7 +197,6 @@ Abnerze	Abner	subst:sg:loc:m1	imię
 Abnerze	Abner	subst:sg:voc:m1	imię	
 Abnerzy	Abner	subst:pl:nom.voc:m1	imię	
 Abrahama	Abraham	subst:sg:gen.acc:m1	imię	
-Abrahama	Abraham	subst:sg:gen:m1	imię	
 Abraham	Abraham	subst:sg:nom:m1	imię	
 Abrahamach	Abraham	subst:pl:loc:m1	imię	
 Abrahamami	Abraham	subst:pl:inst:m1	imię	
@@ -219,7 +209,6 @@ Abrahamowie	Abraham	subst:pl:nom.voc:m1	imię
 Abrahamów	Abraham	subst:pl:gen.acc:m1	imię	
 Abrahamy	Abraham	depr:pl:nom.acc.voc:m2	imię	
 Abrama	Abram	subst:sg:gen.acc:m1	imię	
-Abrama	Abram	subst:sg:gen:m1	imię	
 Abram	Abram	subst:sg:nom:m1	imię	
 Abramach	Abram	subst:pl:loc:m1	imię	
 Abramami	Abram	subst:pl:inst:m1	imię	
@@ -232,7 +221,6 @@ Abramowie	Abram	subst:pl:nom.voc:m1	imię
 Abramów	Abram	subst:pl:gen.acc:m1	imię	
 Abramy	Abram	depr:pl:nom.acc.voc:m2	imię	
 Abramowicza	Abramowicz	subst:sg:gen.acc:m1	nazwisko	
-Abramowicza	Abramowicz	subst:sg:gen:m1	nazwisko	
 Abramowicz	Abramowicz	subst:sg:nom:m1	nazwisko	
 Abramowiczach	Abramowicz	subst:pl:loc:m1	nazwisko	
 Abramowiczami	Abramowicz	subst:pl:inst:m1	nazwisko	
@@ -263,7 +251,6 @@ Abramowskich	Abramowski	subst:pl:gen.acc:m1	nazwisko
 Abramowskich	Abramowski	subst:pl:loc:m1	nazwisko	
 Abramowskie	Abramowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Abramowskiego	Abramowski	subst:sg:gen.acc:m1	nazwisko	
-Abramowskiego	Abramowski	subst:sg:gen:m1	nazwisko	
 Abramowskiemu	Abramowski	subst:sg:dat:m1	nazwisko	
 Abramowskim	Abramowski	subst:pl:dat:m1	nazwisko	
 Abramowskim	Abramowski	subst:sg:inst:m1	nazwisko	
@@ -305,7 +292,6 @@ ABS-ów	ABS	subst:pl:gen:m3	nazwa pospolita	mot.
 ABS-u	ABS	subst:sg:gen:m3	nazwa pospolita	mot.
 ABS-y	ABS	subst:pl:nom.acc.voc:m3	nazwa pospolita	mot.
 Absaloma	Absalom	subst:sg:gen.acc:m1	imię	
-Absaloma	Absalom	subst:sg:gen:m1	imię	
 Absalom	Absalom	subst:sg:nom:m1	imię	
 Absalomach	Absalom	subst:pl:loc:m1	imię	
 Absalomami	Absalom	subst:pl:inst:m1	imię	
@@ -318,7 +304,6 @@ Absalomowie	Absalom	subst:pl:nom.voc:m1	imię
 Absalomów	Absalom	subst:pl:gen.acc:m1	imię	
 Absalomy	Absalom	depr:pl:nom.acc.voc:m2	imię	
 Absalona	Absalon	subst:sg:gen.acc:m1	imię	
-Absalona	Absalon	subst:sg:gen:m1	imię	
 Absalon	Absalon	subst:sg:nom:m1	imię	
 Absalonach	Absalon	subst:pl:loc:m1	imię	
 Absalonami	Absalon	subst:pl:inst:m1	imię	
@@ -334,7 +319,6 @@ Absalony	Absalon	depr:pl:nom.acc.voc:m2	imię
 AC	AC	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 A	accusativus	brev:pun		jęz.
 Achacjusza	Achacjusz	subst:sg:gen.acc:m1	imię	
-Achacjusza	Achacjusz	subst:sg:gen:m1	imię	
 Achacjuszach	Achacjusz	subst:pl:loc:m1	imię	
 Achacjusz	Achacjusz	subst:sg:nom:m1	imię	
 Achacjuszami	Achacjusz	subst:pl:inst:m1	imię	
@@ -349,7 +333,6 @@ Achacjuszu	Achacjusz	subst:sg:loc:m1	imię
 Achacjuszu	Achacjusz	subst:sg:voc:m1	imię	
 Achace	Achacy	depr:pl:nom.acc.voc:m2	imię	
 Achacego	Achacy	subst:sg:gen.acc:m1	imię	
-Achacego	Achacy	subst:sg:gen:m1	imię	
 Achacemu	Achacy	subst:sg:dat:m1	imię	
 Achacowie	Achacy	subst:pl:nom.voc:m1	imię	
 Achacy	Achacy	subst:sg:nom:m1	imię	
@@ -361,7 +344,6 @@ Achacym	Achacy	subst:sg:inst:m1	imię
 Achacym	Achacy	subst:sg:loc:m1	imię	
 Achacymi	Achacy	subst:pl:inst:m1	imię	
 Achila	Achil	subst:sg:gen.acc:m1	imię	
-Achila	Achil	subst:sg:gen:m1	imię	
 Achilach	Achil	subst:pl:loc:m1	imię	
 Achil	Achil	subst:sg:nom:m1	imię	
 Achilami	Achil	subst:pl:inst:m1	imię	
@@ -376,8 +358,6 @@ Achilu	Achil	subst:sg:loc:m1	imię
 Achilu	Achil	subst:sg:voc:m1	imię	
 Achillesa	Achilles	subst:sg:gen.acc:m1	imię	
 Achillesa	Achilles	subst:sg:gen.acc:m1	imię	rzad.
-Achillesa	Achilles	subst:sg:gen:m1	imię	
-Achillesa	Achilles	subst:sg:gen:m1	imię	rzad.
 Achillesach	Achilles	subst:pl:loc:m1	imię	
 Achillesach	Achilles	subst:pl:loc:m1	imię	rzad.
 Achilles	Achilles	subst:sg:nom:m1	imię	
@@ -401,7 +381,6 @@ Achillesów	Achilles	subst:pl:gen.acc:m1	imię	rzad.
 Achillesy	Achilles	depr:pl:nom.acc.voc:m2	imię	
 Achillesy	Achilles	depr:pl:nom.acc.voc:m2	imię	rzad.
 Achimelecha	Achimelech	subst:sg:gen.acc:m1	imię	
-Achimelecha	Achimelech	subst:sg:gen:m1	imię	
 Achimelechach	Achimelech	subst:pl:loc:m1	imię	
 Achimelech	Achimelech	subst:sg:nom:m1	imię	
 Achimelechami	Achimelech	subst:pl:inst:m1	imię	
@@ -436,7 +415,6 @@ Ady	Ada	subst:pl:nom.acc.voc:f	imię
 Ady	Ada	subst:sg:gen:f	imię	
 Adzie	Ada	subst:sg:dat.loc:f	imię	
 Adalberga	Adalberg	subst:sg:gen.acc:m1	nazwisko	
-Adalberga	Adalberg	subst:sg:gen:m1	nazwisko	
 Adalbergach	Adalberg	subst:pl:loc:m1	nazwisko	
 Adalberg	Adalberg	subst:sg:nom:m1	nazwisko	
 Adalbergami	Adalberg	subst:pl:inst:m1	nazwisko	
@@ -451,7 +429,6 @@ Adalbergu	Adalberg	subst:sg:voc:m1	nazwisko
 Adalbercie	Adalbert	subst:sg:loc:m1	imię	
 Adalbercie	Adalbert	subst:sg:voc:m1	imię	
 Adalberta	Adalbert	subst:sg:gen.acc:m1	imię	
-Adalberta	Adalbert	subst:sg:gen:m1	imię	
 Adalbertach	Adalbert	subst:pl:loc:m1	imię	
 Adalbert	Adalbert	subst:sg:nom:m1	imię	
 Adalbertami	Adalbert	subst:pl:inst:m1	imię	
@@ -462,7 +439,6 @@ Adalbertowie	Adalbert	subst:pl:nom.voc:m1	imię
 Adalbertów	Adalbert	subst:pl:gen.acc:m1	imię	
 Adalberty	Adalbert	depr:pl:nom.acc.voc:m2	imię	
 Adama	Adam	subst:sg:gen.acc:m1	imię	
-Adama	Adam	subst:sg:gen:m1	imię	
 Adamach	Adam	subst:pl:loc:m1	imię	
 Adam	Adam	subst:sg:nom:m1	imię	
 Adamami	Adam	subst:pl:inst:m1	imię	
@@ -475,7 +451,6 @@ Adamowie	Adam	subst:pl:nom.voc:m1	imię
 Adamów	Adam	subst:pl:gen.acc:m1	imię	
 Adamy	Adam	depr:pl:nom.acc.voc:m2	imię	
 Adamczaka	Adamczak	subst:sg:gen.acc:m1	nazwisko	
-Adamczaka	Adamczak	subst:sg:gen:m1	nazwisko	
 Adamczakach	Adamczak	subst:pl:loc:m1	nazwisko	
 Adamczak	Adamczak	subst:sg:nom:m1	nazwisko	
 Adamczakami	Adamczak	subst:pl:inst:m1	nazwisko	
@@ -505,14 +480,12 @@ Adamczewskich	Adamczewski	subst:pl:gen.acc:m1	nazwisko
 Adamczewskich	Adamczewski	subst:pl:loc:m1	nazwisko	
 Adamczewskie	Adamczewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Adamczewskiego	Adamczewski	subst:sg:gen.acc:m1	nazwisko	
-Adamczewskiego	Adamczewski	subst:sg:gen:m1	nazwisko	
 Adamczewskiemu	Adamczewski	subst:sg:dat:m1	nazwisko	
 Adamczewskim	Adamczewski	subst:pl:dat:m1	nazwisko	
 Adamczewskim	Adamczewski	subst:sg:inst:m1	nazwisko	
 Adamczewskim	Adamczewski	subst:sg:loc:m1	nazwisko	
 Adamczewskimi	Adamczewski	subst:pl:inst:m1	nazwisko	
 Adamczyka	Adamczyk	subst:sg:gen.acc:m1	nazwisko	
-Adamczyka	Adamczyk	subst:sg:gen:m1	nazwisko	
 Adamczykach	Adamczyk	subst:pl:loc:m1	nazwisko	
 Adamczyk	Adamczyk	subst:sg:nom:m1	nazwisko	
 Adamczykami	Adamczyk	subst:pl:inst:m1	nazwisko	
@@ -525,7 +498,6 @@ Adamczyków	Adamczyk	subst:pl:gen.acc:m1	nazwisko
 Adamczyku	Adamczyk	subst:sg:loc:m1	nazwisko	
 Adamczyku	Adamczyk	subst:sg:voc:m1	nazwisko	
 Adamiaka	Adamiak	subst:sg:gen.acc:m1	nazwisko	
-Adamiaka	Adamiak	subst:sg:gen:m1	nazwisko	
 Adamiakach	Adamiak	subst:pl:loc:m1	nazwisko	
 Adamiak	Adamiak	subst:sg:nom:m1	nazwisko	
 Adamiakami	Adamiak	subst:pl:inst:m1	nazwisko	
@@ -538,7 +510,6 @@ Adamiaków	Adamiak	subst:pl:gen.acc:m1	nazwisko
 Adamiaku	Adamiak	subst:sg:loc:m1	nazwisko	
 Adamiaku	Adamiak	subst:sg:voc:m1	nazwisko	
 Adamca	Adamiec	subst:sg:gen.acc:m1	nazwisko	
-Adamca	Adamiec	subst:sg:gen:m1	nazwisko	
 Adamcach	Adamiec	subst:pl:loc:m1	nazwisko	
 Adamcami	Adamiec	subst:pl:inst:m1	nazwisko	
 Adamce	Adamiec	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -562,7 +533,6 @@ Adaminom	Adamina	subst:pl:dat:f	imię
 Adaminy	Adamina	subst:pl:nom.acc.voc:f	imię	
 Adaminy	Adamina	subst:sg:gen:f	imię	
 Adamowicza	Adamowicz	subst:sg:gen.acc:m1	nazwisko	
-Adamowicza	Adamowicz	subst:sg:gen:m1	nazwisko	
 Adamowiczach	Adamowicz	subst:pl:loc:m1	nazwisko	
 Adamowicz	Adamowicz	subst:sg:nom:m1	nazwisko	
 Adamowiczami	Adamowicz	subst:pl:inst:m1	nazwisko	
@@ -616,14 +586,12 @@ Adamskich	Adamski	subst:pl:gen.acc:m1	nazwisko
 Adamskich	Adamski	subst:pl:loc:m1	nazwisko	
 Adamskie	Adamski	depr:pl:nom.acc.voc:m2	nazwisko	
 Adamskiego	Adamski	subst:sg:gen.acc:m1	nazwisko	
-Adamskiego	Adamski	subst:sg:gen:m1	nazwisko	
 Adamskiemu	Adamski	subst:sg:dat:m1	nazwisko	
 Adamskim	Adamski	subst:pl:dat:m1	nazwisko	
 Adamskim	Adamski	subst:sg:inst:m1	nazwisko	
 Adamskim	Adamski	subst:sg:loc:m1	nazwisko	
 Adamskimi	Adamski	subst:pl:inst:m1	nazwisko	
 Adamusa	Adamus	subst:sg:gen.acc:m1	nazwisko	
-Adamusa	Adamus	subst:sg:gen:m1	nazwisko	
 Adamusach	Adamus	subst:pl:loc:m1	nazwisko	
 Adamus	Adamus	subst:sg:nom:m1	nazwisko	
 Adamusami	Adamus	subst:pl:inst:m1	nazwisko	
@@ -637,7 +605,6 @@ Adamusów	Adamus	subst:pl:gen.acc:m1	nazwisko
 Adamusy	Adamus	depr:pl:nom.acc.voc:m2	nazwisko	
 Adasieczek	Adasieczek	subst:sg:nom:m1	imię	
 Adasieczka	Adasieczek	subst:sg:gen.acc:m1	imię	
-Adasieczka	Adasieczek	subst:sg:gen:m1	imię	
 Adasieczkach	Adasieczek	subst:pl:loc:m1	imię	
 Adasieczkami	Adasieczek	subst:pl:inst:m1	imię	
 Adasieczki	Adasieczek	depr:pl:nom.acc.voc:m2	imię	
@@ -650,7 +617,6 @@ Adasieczku	Adasieczek	subst:sg:loc:m1	imię
 Adasieczku	Adasieczek	subst:sg:voc:m1	imię	
 Adasiek	Adasiek	subst:sg:nom:m1	imię	
 Adaśka	Adasiek	subst:sg:gen.acc:m1	imię	
-Adaśka	Adasiek	subst:sg:gen:m1	imię	
 Adaśkach	Adasiek	subst:pl:loc:m1	imię	
 Adaśkami	Adasiek	subst:pl:inst:m1	imię	
 Adaśki	Adasiek	depr:pl:nom.acc.voc:m2	imię	
@@ -662,7 +628,6 @@ Adaśków	Adasiek	subst:pl:gen.acc:m1	imię
 Adaśku	Adasiek	subst:sg:loc:m1	imię	
 Adaśku	Adasiek	subst:sg:voc:m1	imię	
 Adasia	Adaś	subst:sg:gen.acc:m1	imię	
-Adasia	Adaś	subst:sg:gen:m1	imię	
 Adasiach	Adaś	subst:pl:loc:m1	imię	
 Adasiami	Adaś	subst:pl:inst:m1	imię	
 Adasie	Adaś	depr:pl:nom.acc.voc:m2	imię	
@@ -679,7 +644,6 @@ Adaukci	Adaukt	subst:pl:nom.voc:m1	imię
 Adaukcie	Adaukt	subst:sg:loc:m1	imię	
 Adaukcie	Adaukt	subst:sg:voc:m1	imię	
 Adaukta	Adaukt	subst:sg:gen.acc:m1	imię	
-Adaukta	Adaukt	subst:sg:gen:m1	imię	
 Adauktach	Adaukt	subst:pl:loc:m1	imię	
 Adaukt	Adaukt	subst:sg:nom:m1	imię	
 Adauktami	Adaukt	subst:pl:inst:m1	imię	
@@ -690,7 +654,6 @@ Adauktowie	Adaukt	subst:pl:nom.voc:m1	imię
 Adauktów	Adaukt	subst:pl:gen.acc:m1	imię	
 Adaukty	Adaukt	depr:pl:nom.acc.voc:m2	imię	
 Addara	Addar	subst:sg:gen.acc:m1	imię	
-Addara	Addar	subst:sg:gen:m1	imię	
 Addarach	Addar	subst:pl:loc:m1	imię	
 Addar	Addar	subst:sg:nom:m1	imię	
 Addarami	Addar	subst:pl:inst:m1	imię	
@@ -743,7 +706,6 @@ Adelberci	Adelbert	subst:pl:nom.voc:m1	imię
 Adelbercie	Adelbert	subst:sg:loc:m1	imię	
 Adelbercie	Adelbert	subst:sg:voc:m1	imię	
 Adelberta	Adelbert	subst:sg:gen.acc:m1	imię	
-Adelberta	Adelbert	subst:sg:gen:m1	imię	
 Adelbertach	Adelbert	subst:pl:loc:m1	imię	
 Adelbert	Adelbert	subst:sg:nom:m1	imię	
 Adelbertami	Adelbert	subst:pl:inst:m1	imię	
@@ -776,7 +738,6 @@ Adelki	Adelka	subst:sg:gen:f	imię
 Adelko	Adelka	subst:sg:voc:f	imię	
 Adelkom	Adelka	subst:pl:dat:f	imię	
 Adenauera	Adenauer	subst:sg:gen.acc:m1	nazwisko	
-Adenauera	Adenauer	subst:sg:gen:m1	nazwisko	
 Adenauerach	Adenauer	subst:pl:loc:m1	nazwisko	
 Adenauer	Adenauer	subst:sg:nom:m1	nazwisko	
 Adenauerami	Adenauer	subst:pl:inst:m1	nazwisko	
@@ -795,7 +756,6 @@ Adjanich	Adjani	subst:pl:gen.acc:m1	nazwisko
 Adjanich	Adjani	subst:pl:loc:m1	nazwisko	
 Adjanie	Adjani	depr:pl:nom.acc.voc:m2	nazwisko	
 Adjaniego	Adjani	subst:sg:gen.acc:m1	nazwisko	
-Adjaniego	Adjani	subst:sg:gen:m1	nazwisko	
 Adjaniemu	Adjani	subst:sg:dat:m1	nazwisko	
 Adjanim	Adjani	subst:pl:dat:m1	nazwisko	
 Adjanim	Adjani	subst:sg:inst:m1	nazwisko	
@@ -828,7 +788,6 @@ ADN-u	ADN	subst:sg:gen:m3	nazwa instytucji
 ADN-y	ADN	subst:pl:nom.acc.voc:m3	nazwa instytucji	
 Ada	Ado	depr:pl:nom.acc.voc:m2	imię	
 Ada	Ado	subst:sg:gen.acc:m1	imię	
-Ada	Ado	subst:sg:gen:m1	imię	
 Adach	Ado	subst:pl:loc:m1	imię	
 Adami	Ado	subst:pl:inst:m1	imię	
 Adem	Ado	subst:sg:inst:m1	imię	
@@ -840,7 +799,6 @@ Adowie	Ado	subst:pl:nom.voc:m1	imię
 Adów	Ado	subst:pl:gen.acc:m1	imię	
 Adzie	Ado	subst:sg:loc:m1	imię	
 Adolfa	Adolf	subst:sg:gen.acc:m1	imię	
-Adolfa	Adolf	subst:sg:gen:m1	imię	
 Adolfach	Adolf	subst:pl:loc:m1	imię	
 Adolf	Adolf	subst:sg:nom:m1	imię	
 Adolfami	Adolf	subst:pl:inst:m1	imię	
@@ -865,7 +823,6 @@ Adolfy	Adolfa	subst:pl:nom.acc.voc:f	imię
 Adolfy	Adolfa	subst:sg:gen:f	imię	
 Adolfek	Adolfek	subst:sg:nom:m1	imię	
 Adolfka	Adolfek	subst:sg:gen.acc:m1	imię	
-Adolfka	Adolfek	subst:sg:gen:m1	imię	
 Adolfkach	Adolfek	subst:pl:loc:m1	imię	
 Adolfkami	Adolfek	subst:pl:inst:m1	imię	
 Adolfki	Adolfek	depr:pl:nom.acc.voc:m2	imię	
@@ -888,7 +845,6 @@ Adolfinom	Adolfina	subst:pl:dat:f	imię
 Adolfiny	Adolfina	subst:pl:nom.acc.voc:f	imię	
 Adolfiny	Adolfina	subst:sg:gen:f	imię	
 Adonisa	Adonis	subst:sg:gen.acc:m1	imię	mit.
-Adonisa	Adonis	subst:sg:gen:m1	imię	mit.
 Adonisach	Adonis	subst:pl:loc:m1	imię	mit.
 Adonis	Adonis	subst:sg:nom:m1	imię	mit.
 Adonisami	Adonis	subst:pl:inst:m1	imię	mit.
@@ -915,7 +871,6 @@ Adrio	Adria	subst:sg:voc:f	imię
 Adriom	Adria	subst:pl:dat:f	imię	
 Adryj	Adria	subst:pl:gen:f	imię	arch.|char.
 Adriana	Adrian	subst:sg:gen.acc:m1	imię	
-Adriana	Adrian	subst:sg:gen:m1	imię	
 Adrianach	Adrian	subst:pl:loc:m1	imię	
 Adrian	Adrian	subst:sg:nom:m1	imię	
 Adrianami	Adrian	subst:pl:inst:m1	imię	
@@ -961,7 +916,6 @@ Adriatyku	Adriatyk	subst:sg:gen:m3	nazwa geograficzna
 Adriatyku	Adriatyk	subst:sg:loc:m3	nazwa geograficzna	
 Adriatyku	Adriatyk	subst:sg:voc:m3	nazwa geograficzna	
 Adwentowicza	Adwentowicz	subst:sg:gen.acc:m1	nazwisko	
-Adwentowicza	Adwentowicz	subst:sg:gen:m1	nazwisko	
 Adwentowiczach	Adwentowicz	subst:pl:loc:m1	nazwisko	
 Adwentowicz	Adwentowicz	subst:sg:nom:m1	nazwisko	
 Adwentowiczami	Adwentowicz	subst:pl:inst:m1	nazwisko	
@@ -999,7 +953,6 @@ AF-ów	AF	subst:pl:gen:m3	nazwa organizacji|nazwa firmy
 AF-u	AF	subst:sg:gen:m3	nazwa organizacji|nazwa firmy	
 AF-y	AF	subst:pl:nom.acc.voc:m3	nazwa organizacji|nazwa firmy	
 Afanasjewa	Afanasjew	subst:sg:gen.acc:m1	nazwisko	
-Afanasjewa	Afanasjew	subst:sg:gen:m1	nazwisko	
 Afanasjewach	Afanasjew	subst:pl:loc:m1	nazwisko	
 Afanasjew	Afanasjew	subst:sg:nom:m1	nazwisko	
 Afanasjewami	Afanasjew	subst:pl:inst:m1	nazwisko	
@@ -1013,7 +966,6 @@ Afanasjewów	Afanasjew	subst:pl:gen.acc:m1	nazwisko
 Afanasjewy	Afanasjew	depr:pl:nom.acc.voc:m2	nazwisko	
 Afanaze	Afanazy	depr:pl:nom.acc.voc:m2	imię	
 Afanazego	Afanazy	subst:sg:gen.acc:m1	imię	
-Afanazego	Afanazy	subst:sg:gen:m1	imię	
 Afanazemu	Afanazy	subst:sg:dat:m1	imię	
 Afanazowie	Afanazy	subst:pl:nom.voc:m1	imię	
 Afanazy	Afanazy	subst:sg:nom:m1	imię	
@@ -1025,7 +977,6 @@ Afanazym	Afanazy	subst:sg:inst:m1	imię
 Afanazym	Afanazy	subst:sg:loc:m1	imię	
 Afanazymi	Afanazy	subst:pl:inst:m1	imię	
 Afgana	Afgan	subst:sg:gen.acc:m1	nazwa pospolita	
-Afgana	Afgan	subst:sg:gen:m1	nazwa pospolita	
 Afganach	Afgan	subst:pl:loc:m1	nazwa pospolita	
 Afgan	Afgan	subst:sg:nom:m1	nazwa pospolita	
 Afganami	Afgan	subst:pl:inst:m1	nazwa pospolita	
@@ -1061,7 +1012,6 @@ Afganko	Afganka	subst:sg:voc:f	nazwa pospolita
 Afgankom	Afganka	subst:pl:dat:f	nazwa pospolita	
 Afgańczycy	Afgańczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Afgańczyka	Afgańczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Afgańczyka	Afgańczyk	subst:sg:gen:m1	nazwa pospolita	
 Afgańczykach	Afgańczyk	subst:pl:loc:m1	nazwa pospolita	
 Afgańczyk	Afgańczyk	subst:sg:nom:m1	nazwa pospolita	
 Afgańczykami	Afgańczyk	subst:pl:inst:m1	nazwa pospolita	
@@ -1078,7 +1028,6 @@ Afroamerykanach	Afroamerykanin	subst:pl:loc:m1	nazwa pospolita
 Afroamerykanami	Afroamerykanin	subst:pl:inst:m1	nazwa pospolita	
 Afroamerykanie	Afroamerykanin	subst:pl:nom.voc:m1	nazwa pospolita	
 Afroamerykanina	Afroamerykanin	subst:sg:gen.acc:m1	nazwa pospolita	
-Afroamerykanina	Afroamerykanin	subst:sg:gen:m1	nazwa pospolita	
 Afroamerykanin	Afroamerykanin	subst:sg:nom:m1	nazwa pospolita	
 Afroamerykaninem	Afroamerykanin	subst:sg:inst:m1	nazwa pospolita	
 Afroamerykaninie	Afroamerykanin	subst:sg:loc:m1	nazwa pospolita	
@@ -1110,7 +1059,6 @@ Afryki	Afryka	subst:sg:gen:f	nazwa geograficzna
 Afryko	Afryka	subst:sg:voc:f	nazwa geograficzna	
 Afrykom	Afryka	subst:pl:dat:f	nazwa geograficzna	
 Afrykanera	Afrykaner	subst:sg:gen.acc:m1	nazwa pospolita	etn.
-Afrykanera	Afrykaner	subst:sg:gen:m1	nazwa pospolita	etn.
 Afrykanerach	Afrykaner	subst:pl:loc:m1	nazwa pospolita	etn.
 Afrykaner	Afrykaner	subst:sg:nom:m1	nazwa pospolita	etn.
 Afrykanerami	Afrykaner	subst:pl:inst:m1	nazwa pospolita	etn.
@@ -1137,7 +1085,6 @@ Afrykanach	Afrykanin	subst:pl:loc:m1	nazwa pospolita
 Afrykanami	Afrykanin	subst:pl:inst:m1	nazwa pospolita	
 Afrykanie	Afrykanin	subst:pl:nom.voc:m1	nazwa pospolita	
 Afrykanina	Afrykanin	subst:sg:gen.acc:m1	nazwa pospolita	
-Afrykanina	Afrykanin	subst:sg:gen:m1	nazwa pospolita	
 Afrykanin	Afrykanin	subst:sg:nom:m1	nazwa pospolita	
 Afrykaninem	Afrykanin	subst:sg:inst:m1	nazwa pospolita	
 Afrykaninie	Afrykanin	subst:sg:loc:m1	nazwa pospolita	
@@ -1159,7 +1106,6 @@ Afrykanko	Afrykanka	subst:sg:voc:f	nazwa pospolita
 Afrykankom	Afrykanka	subst:pl:dat:f	nazwa pospolita	
 Afrykańczycy	Afrykańczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Afrykańczyka	Afrykańczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Afrykańczyka	Afrykańczyk	subst:sg:gen:m1	nazwa pospolita	
 Afrykańczykach	Afrykańczyk	subst:pl:loc:m1	nazwa pospolita	
 Afrykańczyk	Afrykańczyk	subst:sg:nom:m1	nazwa pospolita	
 Afrykańczykami	Afrykańczyk	subst:pl:inst:m1	nazwa pospolita	
@@ -1171,7 +1117,6 @@ Afrykańczyków	Afrykańczyk	subst:pl:gen.acc:m1	nazwa pospolita
 Afrykańczyku	Afrykańczyk	subst:sg:loc:m1	nazwa pospolita	
 Afrykańczyku	Afrykańczyk	subst:sg:voc:m1	nazwa pospolita	
 Aftoniusza	Aftoniusz	subst:sg:gen.acc:m1	imię	
-Aftoniusza	Aftoniusz	subst:sg:gen:m1	imię	
 Aftoniuszach	Aftoniusz	subst:pl:loc:m1	imię	
 Aftoniusz	Aftoniusz	subst:sg:nom:m1	imię	
 Aftoniuszami	Aftoniusz	subst:pl:inst:m1	imię	
@@ -1196,7 +1141,6 @@ Agi	Aga	subst:sg:gen:f	imię
 Ago	Aga	subst:sg:voc:f	imię	
 Agom	Aga	subst:pl:dat:f	imię	
 Agamemnona	Agamemnon	subst:sg:gen.acc:m1	imię	mit.
-Agamemnona	Agamemnon	subst:sg:gen:m1	imię	mit.
 Agamemnonach	Agamemnon	subst:pl:loc:m1	imię	mit.
 Agamemnon	Agamemnon	subst:sg:nom:m1	imię	mit.
 Agamemnonami	Agamemnon	subst:pl:inst:m1	imię	mit.
@@ -1236,7 +1180,6 @@ Agapici	Agapit	subst:pl:nom.voc:m1	imię
 Agapicie	Agapit	subst:sg:loc:m1	imię	
 Agapicie	Agapit	subst:sg:voc:m1	imię	
 Agapita	Agapit	subst:sg:gen.acc:m1	imię	
-Agapita	Agapit	subst:sg:gen:m1	imię	
 Agapitach	Agapit	subst:pl:loc:m1	imię	
 Agapit	Agapit	subst:sg:nom:m1	imię	
 Agapitami	Agapit	subst:pl:inst:m1	imię	
@@ -1269,7 +1212,6 @@ Agatki	Agatka	subst:sg:gen:f	imię
 Agatko	Agatka	subst:sg:voc:f	imię	
 Agatkom	Agatka	subst:pl:dat:f	imię	
 Agatona	Agaton	subst:sg:gen.acc:m1	imię	
-Agatona	Agaton	subst:sg:gen:m1	imię	
 Agatonach	Agaton	subst:pl:loc:m1	imię	
 Agaton	Agaton	subst:sg:nom:m1	imię	
 Agatonami	Agaton	subst:pl:inst:m1	imię	
@@ -1283,7 +1225,6 @@ Agatonowie	Agaton	subst:pl:nom.voc:m1	imię
 Agatonów	Agaton	subst:pl:gen.acc:m1	imię	
 Agatony	Agaton	depr:pl:nom.acc.voc:m2	imię	
 Agatonika	Agatonik	subst:sg:gen.acc:m1	imię	
-Agatonika	Agatonik	subst:sg:gen:m1	imię	
 Agatonikach	Agatonik	subst:pl:loc:m1	imię	
 Agatonik	Agatonik	subst:sg:nom:m1	imię	
 Agatonikami	Agatonik	subst:pl:inst:m1	imię	
@@ -1298,7 +1239,6 @@ Agatoniku	Agatonik	subst:sg:voc:m1	imię
 AGD	AGD	subst:pl:nom.gen.dat.acc.inst.loc.voc:n:pt	nazwa pospolita	
 Age	Age	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy własnej	
 Agenora	Agenor	subst:sg:gen.acc:m1	imię	
-Agenora	Agenor	subst:sg:gen:m1	imię	
 Agenorach	Agenor	subst:pl:loc:m1	imię	
 Agenor	Agenor	subst:sg:nom:m1	imię	
 Agenorami	Agenor	subst:pl:inst:m1	imię	
@@ -1312,7 +1252,6 @@ Agenorze	Agenor	subst:sg:loc:m1	imię
 Agenorze	Agenor	subst:sg:voc:m1	imię	
 Agenorzy	Agenor	subst:pl:nom.voc:m1	imię	
 Ageusza	Ageusz	subst:sg:gen.acc:m1	imię	
-Ageusza	Ageusz	subst:sg:gen:m1	imię	
 Ageuszach	Ageusz	subst:pl:loc:m1	imię	
 Ageusz	Ageusz	subst:sg:nom:m1	imię	
 Ageuszami	Ageusz	subst:pl:inst:m1	imię	
@@ -1326,7 +1265,6 @@ Ageuszów	Ageusz	subst:pl:gen.acc:m1	imię
 Ageuszu	Ageusz	subst:sg:loc:m1	imię	
 Ageuszu	Ageusz	subst:sg:voc:m1	imię	
 Aggeasza	Aggeasz	subst:sg:gen.acc:m1	imię	
-Aggeasza	Aggeasz	subst:sg:gen:m1	imię	
 Aggeaszach	Aggeasz	subst:pl:loc:m1	imię	
 Aggeasz	Aggeasz	subst:sg:nom:m1	imię	
 Aggeaszami	Aggeasz	subst:pl:inst:m1	imię	
@@ -1340,7 +1278,6 @@ Aggeaszów	Aggeasz	subst:pl:gen.acc:m1	imię
 Aggeaszu	Aggeasz	subst:sg:loc:m1	imię	
 Aggeaszu	Aggeasz	subst:sg:voc:m1	imię	
 Aggeusza	Aggeusz	subst:sg:gen.acc:m1	imię	bibl.
-Aggeusza	Aggeusz	subst:sg:gen:m1	imię	bibl.
 Aggeuszach	Aggeusz	subst:pl:loc:m1	imię	bibl.
 Aggeusz	Aggeusz	subst:sg:nom:m1	imię	bibl.
 Aggeuszami	Aggeusz	subst:pl:inst:m1	imię	bibl.
@@ -1362,7 +1299,6 @@ Aghami	Agha	subst:pl:inst:m1	imię
 Aghą	Agha	subst:sg:inst:m1	imię	
 Aghę	Agha	subst:sg:acc:m1	imię	
 Aghi	Agha	depr:pl:nom.acc.voc:m2	imię	
-Aghi	Agha	subst:sg:gen:m1	imię	
 Agho	Agha	subst:sg:voc:m1	imię	
 Aghom	Agha	subst:pl:dat:m1	imię	
 Aghowie	Agha	subst:pl:nom.voc:m1	imię	
@@ -1379,7 +1315,6 @@ Agnieszki	Agnieszka	subst:sg:gen:f	imię
 Agnieszko	Agnieszka	subst:sg:voc:f	imię	
 Agnieszkom	Agnieszka	subst:pl:dat:f	imię	
 Agrypina	Agrypin	subst:sg:gen.acc:m1	imię	
-Agrypina	Agrypin	subst:sg:gen:m1	imię	
 Agrypinach	Agrypin	subst:pl:loc:m1	imię	
 Agrypin	Agrypin	subst:sg:nom:m1	imię	
 Agrypinami	Agrypin	subst:pl:inst:m1	imię	
@@ -1414,7 +1349,6 @@ Agryppom	Agryppa	subst:pl:dat:m1	imię
 Agryppowie	Agryppa	subst:pl:nom.voc:m1	imię	
 Agryppów	Agryppa	subst:pl:gen.acc:m1	imię	
 Agryppy	Agryppa	depr:pl:nom.acc.voc:m2	imię	
-Agryppy	Agryppa	subst:sg:gen:m1	imię	
 Agunia	Agunia	subst:sg:nom:f	imię	
 Aguniach	Agunia	subst:pl:loc:f	imię	
 Aguni	Agunia	subst:pl:gen:f	imię	hom.|rzad.
@@ -1440,7 +1374,6 @@ Agusiom	Agusia	subst:pl:dat:f	imię
 Agusiu	Agusia	subst:sg:voc:f	imię	
 Aguś	Agusia	subst:pl:gen:f	imię	char.
 Ahmeda	Ahmed	subst:sg:gen.acc:m1	imię	
-Ahmeda	Ahmed	subst:sg:gen:m1	imię	
 Ahmedach	Ahmed	subst:pl:loc:m1	imię	
 Ahmed	Ahmed	subst:sg:nom:m1	imię	
 Ahmedami	Ahmed	subst:pl:inst:m1	imię	
@@ -1464,7 +1397,6 @@ Aidy	Aida	subst:pl:nom.acc.voc:f	imię
 Aidy	Aida	subst:sg:gen:f	imię	
 Aidzie	Aida	subst:sg:dat.loc:f	imię	
 AIDS-a	AIDS	subst:sg:gen.acc:m2	nazwa pospolita	
-AIDS-a	AIDS	subst:sg:gen:m2	nazwa pospolita	
 AIDS-ach	AIDS	subst:pl:loc:m2	nazwa pospolita	
 AIDS-ach	AIDS	subst:pl:loc:m3	nazwa pospolita	
 AIDS	AIDS	subst:sg:nom.acc:m3	nazwa pospolita	
@@ -1517,7 +1449,6 @@ Ajaksu	Ajax	subst:sg:gen:m3	człon nazwy organizacji
 Ajaksy	Ajax	subst:pl:nom.acc.voc:m3	człon nazwy organizacji	
 Ajax	Ajax	subst:sg:nom.acc:m3	człon nazwy organizacji	
 Ajdukiewicza	Ajdukiewicz	subst:sg:gen.acc:m1	nazwisko	
-Ajdukiewicza	Ajdukiewicz	subst:sg:gen:m1	nazwisko	
 Ajdukiewiczach	Ajdukiewicz	subst:pl:loc:m1	nazwisko	
 Ajdukiewicz	Ajdukiewicz	subst:sg:nom:m1	nazwisko	
 Ajdukiewiczami	Ajdukiewicz	subst:pl:inst:m1	nazwisko	
@@ -1531,7 +1462,6 @@ Ajdukiewiczów	Ajdukiewicz	subst:pl:gen.acc:m1	nazwisko
 Ajdukiewiczu	Ajdukiewicz	subst:sg:loc:m1	nazwisko	
 Ajdukiewiczu	Ajdukiewicz	subst:sg:voc:m1	nazwisko	
 Ajschylosa	Ajschylos	subst:sg:gen.acc:m1	imię	
-Ajschylosa	Ajschylos	subst:sg:gen:m1	imię	
 Ajschylosach	Ajschylos	subst:pl:loc:m1	imię	
 Ajschylos	Ajschylos	subst:sg:nom:m1	imię	
 Ajschylosami	Ajschylos	subst:pl:inst:m1	imię	
@@ -1558,7 +1488,6 @@ Ajudahy	Ajudah	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 AK	AK	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa organizacji	
 AK	AK	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji	
 Akacjusza	Akacjusz	subst:sg:gen.acc:m1	imię	
-Akacjusza	Akacjusz	subst:sg:gen:m1	imię	
 Akacjuszach	Akacjusz	subst:pl:loc:m1	imię	
 Akacjusz	Akacjusz	subst:sg:nom:m1	imię	
 Akacjuszami	Akacjusz	subst:pl:inst:m1	imię	
@@ -1594,7 +1523,6 @@ Akermanów	Akerman	subst:pl:gen:m3	nazwa geograficzna	hist.
 Akermanu	Akerman	subst:sg:gen:m3	nazwa geograficzna	hist.
 Akermany	Akerman	subst:pl:nom.acc.voc:m3	nazwa geograficzna	hist.
 AK-owca	AK-owiec	subst:sg:gen.acc:m1	nazwa pospolita	
-AK-owca	AK-owiec	subst:sg:gen:m1	nazwa pospolita	
 AK-owcach	AK-owiec	subst:pl:loc:m1	nazwa pospolita	
 AK-owcami	AK-owiec	subst:pl:inst:m1	nazwa pospolita	
 AK-owce	AK-owiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -1635,7 +1563,6 @@ AK-owsku	AK-owski	adjp
 AK-owsko	AK-owsko	adv:pos		
 Akropolis	Akropolis	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa geograficzna	
 Aksentowicza	Aksentowicz	subst:sg:gen.acc:m1	nazwisko	
-Aksentowicza	Aksentowicz	subst:sg:gen:m1	nazwisko	
 Aksentowiczach	Aksentowicz	subst:pl:loc:m1	nazwisko	
 Aksentowicz	Aksentowicz	subst:sg:nom:m1	nazwisko	
 Aksentowiczami	Aksentowicz	subst:pl:inst:m1	nazwisko	
@@ -1708,7 +1635,6 @@ Akwizgranów	Akwizgran	subst:pl:gen:m3	nazwa geograficzna
 Akwizgranu	Akwizgran	subst:sg:gen:m3	nazwa geograficzna	
 Akwizgrany	Akwizgran	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Ala	Al	subst:sg:gen.acc:m1	imię	
-Ala	Al	subst:sg:gen:m1	imię	
 Alach	Al	subst:pl:loc:m1	imię	
 Al	Al	subst:sg:nom:m1	imię	
 Alami	Al	subst:pl:inst:m1	imię	
@@ -1756,7 +1682,6 @@ Alabamom	Alabama	subst:pl:dat:f	nazwa geograficzna
 Alabamy	Alabama	subst:pl:nom.acc.voc:f	nazwa geograficzna	
 Alabamy	Alabama	subst:sg:gen:f	nazwa geograficzna	
 Aladára	Aladár	subst:sg:gen.acc:m1	imię	
-Aladára	Aladár	subst:sg:gen:m1	imię	
 Aladárach	Aladár	subst:pl:loc:m1	imię	
 Aladár	Aladár	subst:sg:nom:m1	imię	
 Aladárami	Aladár	subst:pl:inst:m1	imię	
@@ -1769,7 +1694,6 @@ Aladáry	Aladár	depr:pl:nom.acc.voc:m2	imię
 Aladárze	Aladár	subst:sg:loc:m1	imię	
 Aladárze	Aladár	subst:sg:voc:m1	imię	
 Aladyna	Aladyn	subst:sg:gen.acc:m1	imię	lit.
-Aladyna	Aladyn	subst:sg:gen:m1	imię	lit.
 Aladynach	Aladyn	subst:pl:loc:m1	imię	lit.
 Aladyn	Aladyn	subst:sg:nom:m1	imię	lit.
 Aladynami	Aladyn	subst:pl:inst:m1	imię	lit.
@@ -1783,7 +1707,6 @@ Aladynowie	Aladyn	subst:pl:nom.voc:m1	imię	lit.
 Aladynów	Aladyn	subst:pl:gen.acc:m1	imię	lit.
 Aladyny	Aladyn	depr:pl:nom.acc.voc:m2	imię	lit.
 Alana	Alan	subst:sg:gen.acc:m1	imię	
-Alana	Alan	subst:sg:gen:m1	imię	
 Alanach	Alan	subst:pl:loc:m1	imię	
 Alan	Alan	subst:sg:nom:m1	imię	
 Alanami	Alan	subst:pl:inst:m1	imię	
@@ -1807,7 +1730,6 @@ Alaski	Alaska	subst:sg:gen:f	nazwa geograficzna
 Alasko	Alaska	subst:sg:voc:f	nazwa geograficzna	
 Alaskom	Alaska	subst:pl:dat:f	nazwa geograficzna	
 Albana	Alban	subst:sg:gen.acc:m1	imię	
-Albana	Alban	subst:sg:gen:m1	imię	
 Albanach	Alban	subst:pl:loc:m1	imię	
 Alban	Alban	subst:sg:nom:m1	imię	
 Albanami	Alban	subst:pl:inst:m1	imię	
@@ -1833,7 +1755,6 @@ Albanij	Albania	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Albanio	Albania	subst:sg:voc:f	nazwa geograficzna	
 Albaniom	Albania	subst:pl:dat:f	nazwa geograficzna	
 Albaniusza	Albaniusz	subst:sg:gen.acc:m1	imię	
-Albaniusza	Albaniusz	subst:sg:gen:m1	imię	
 Albaniuszach	Albaniusz	subst:pl:loc:m1	imię	
 Albaniusz	Albaniusz	subst:sg:nom:m1	imię	
 Albaniuszami	Albaniusz	subst:pl:inst:m1	imię	
@@ -1859,7 +1780,6 @@ Albanko	Albanka	subst:sg:voc:f	nazwa pospolita	etn.
 Albankom	Albanka	subst:pl:dat:f	nazwa pospolita	etn.
 Albańczycy	Albańczyk	subst:pl:nom.voc:m1	nazwa pospolita	etn.
 Albańczyka	Albańczyk	subst:sg:gen.acc:m1	nazwa pospolita	etn.
-Albańczyka	Albańczyk	subst:sg:gen:m1	nazwa pospolita	etn.
 Albańczykach	Albańczyk	subst:pl:loc:m1	nazwa pospolita	etn.
 Albańczyk	Albańczyk	subst:sg:nom:m1	nazwa pospolita	etn.
 Albańczykami	Albańczyk	subst:pl:inst:m1	nazwa pospolita	etn.
@@ -1871,7 +1791,6 @@ Albańczyków	Albańczyk	subst:pl:gen.acc:m1	nazwa pospolita	etn.
 Albańczyku	Albańczyk	subst:sg:loc:m1	nazwa pospolita	etn.
 Albańczyku	Albańczyk	subst:sg:voc:m1	nazwa pospolita	etn.
 Albeniza	Albeniz	subst:sg:gen.acc:m1	nazwisko	
-Albeniza	Albeniz	subst:sg:gen:m1	nazwisko	
 Albenizach	Albeniz	subst:pl:loc:m1	nazwisko	
 Albeniz	Albeniz	subst:sg:nom:m1	nazwisko	
 Albenizami	Albeniz	subst:pl:inst:m1	nazwisko	
@@ -1884,7 +1803,6 @@ Albenizowie	Albeniz	subst:pl:nom.voc:m1	nazwisko
 Albenizów	Albeniz	subst:pl:gen.acc:m1	nazwisko	
 Albenizy	Albeniz	depr:pl:nom.acc.voc:m2	nazwisko	
 Albercika	Albercik	subst:sg:gen.acc:m1	imię	
-Albercika	Albercik	subst:sg:gen:m1	imię	
 Albercikach	Albercik	subst:pl:loc:m1	imię	
 Albercik	Albercik	subst:sg:nom:m1	imię	
 Albercikami	Albercik	subst:pl:inst:m1	imię	
@@ -1900,7 +1818,6 @@ Alberci	Albert	subst:pl:nom.voc:m1	imię
 Albercie	Albert	subst:sg:loc:m1	imię	
 Albercie	Albert	subst:sg:voc:m1	imię	
 Alberta	Albert	subst:sg:gen.acc:m1	imię	
-Alberta	Albert	subst:sg:gen:m1	imię	
 Albertach	Albert	subst:pl:loc:m1	imię	
 Albert	Albert	subst:sg:nom:m1	imię	
 Albertami	Albert	subst:pl:inst:m1	imię	
@@ -1924,7 +1841,6 @@ Alberty	Alberta	subst:sg:gen:f	imię
 Albercie	Alberto	subst:sg:loc:m1	imię	
 Alberta	Alberto	depr:pl:nom.acc.voc:m2	imię	
 Alberta	Alberto	subst:sg:gen.acc:m1	imię	
-Alberta	Alberto	subst:sg:gen:m1	imię	
 Albertach	Alberto	subst:pl:loc:m1	imię	
 Albertami	Alberto	subst:pl:inst:m1	imię	
 Albertem	Alberto	subst:sg:inst:m1	imię	
@@ -1941,7 +1857,6 @@ Albertrandich	Albertrandi	subst:pl:gen.acc:m1	nazwisko
 Albertrandich	Albertrandi	subst:pl:loc:m1	nazwisko	
 Albertrandie	Albertrandi	depr:pl:nom.acc.voc:m2	nazwisko	
 Albertrandiego	Albertrandi	subst:sg:gen.acc:m1	nazwisko	
-Albertrandiego	Albertrandi	subst:sg:gen:m1	nazwisko	
 Albertrandiemu	Albertrandi	subst:sg:dat:m1	nazwisko	
 Albertrandim	Albertrandi	subst:pl:dat:m1	nazwisko	
 Albertrandim	Albertrandi	subst:sg:inst:m1	nazwisko	
@@ -1949,7 +1864,6 @@ Albertrandim	Albertrandi	subst:sg:loc:m1	nazwisko
 Albertrandimi	Albertrandi	subst:pl:inst:m1	nazwisko	
 Albertrandiowie	Albertrandi	subst:pl:nom.voc:m1	nazwisko	
 Albertyna	Albertyn	subst:sg:gen.acc:m1	imię	
-Albertyna	Albertyn	subst:sg:gen:m1	imię	
 Albertynach	Albertyn	subst:pl:loc:m1	imię	
 Albertyn	Albertyn	subst:sg:nom:m1	imię	
 Albertynami	Albertyn	subst:pl:inst:m1	imię	
@@ -1974,7 +1888,6 @@ Albertynom	Albertyna	subst:pl:dat:f	imię
 Albertyny	Albertyna	subst:pl:nom.acc.voc:f	imię	
 Albertyny	Albertyna	subst:sg:gen:f	imię	
 Albina	Albin	subst:sg:gen.acc:m1	imię	
-Albina	Albin	subst:sg:gen:m1	imię	
 Albinach	Albin	subst:pl:loc:m1	imię	
 Albin	Albin	subst:sg:nom:m1	imię	
 Albinami	Albin	subst:pl:inst:m1	imię	
@@ -2011,7 +1924,6 @@ Albiony	Albion	subst:pl:nom.acc.voc:m3	nazwa geograficzna	hist.
 Albrechcie	Albrecht	subst:sg:loc:m1	imię	
 Albrechcie	Albrecht	subst:sg:voc:m1	imię	
 Albrechta	Albrecht	subst:sg:gen.acc:m1	imię	
-Albrechta	Albrecht	subst:sg:gen:m1	imię	
 Albrechtach	Albrecht	subst:pl:loc:m1	imię	
 Albrecht	Albrecht	subst:sg:nom:m1	imię	
 Albrechtami	Albrecht	subst:pl:inst:m1	imię	
@@ -2024,7 +1936,6 @@ Albrechty	Albrecht	depr:pl:nom.acc.voc:m2	imię
 Albrighcie	Albright	subst:sg:loc:m1	nazwisko	
 Albrighcie	Albright	subst:sg:voc:m1	nazwisko	
 Albrighta	Albright	subst:sg:gen.acc:m1	nazwisko	
-Albrighta	Albright	subst:sg:gen:m1	nazwisko	
 Albrightach	Albright	subst:pl:loc:m1	nazwisko	
 Albright	Albright	subst:sg:nom:m1	nazwisko	
 Albrightami	Albright	subst:pl:inst:m1	nazwisko	
@@ -2047,7 +1958,6 @@ Alcatelów	Alcatel	subst:pl:gen:m3	nazwa firmy
 Alcatelu	Alcatel	subst:sg:loc:m3	nazwa firmy	
 Alcatelu	Alcatel	subst:sg:voc:m3	nazwa firmy	
 Alcybiadesa	Alcybiades	subst:sg:gen.acc:m1	imię	
-Alcybiadesa	Alcybiades	subst:sg:gen:m1	imię	
 Alcybiadesach	Alcybiades	subst:pl:loc:m1	imię	
 Alcybiades	Alcybiades	subst:sg:nom:m1	imię	
 Alcybiadesami	Alcybiades	subst:pl:inst:m1	imię	
@@ -2084,7 +1994,6 @@ Aldonko	Aldonka	subst:sg:voc:f	imię
 Aldonkom	Aldonka	subst:pl:dat:f	imię	
 Alek	Alek	subst:sg:nom:m1	imię	
 Alka	Alek	subst:sg:gen.acc:m1	imię	
-Alka	Alek	subst:sg:gen:m1	imię	
 Alkach	Alek	subst:pl:loc:m1	imię	
 Alkami	Alek	subst:pl:inst:m1	imię	
 Alki	Alek	depr:pl:nom.acc.voc:m2	imię	
@@ -2096,7 +2005,6 @@ Alków	Alek	subst:pl:gen.acc:m1	imię
 Alku	Alek	subst:sg:loc:m1	imię	
 Alku	Alek	subst:sg:voc:m1	imię	
 Aleksa	Aleks	subst:sg:gen.acc:m1	imię	
-Aleksa	Aleks	subst:sg:gen:m1	imię	
 Aleksach	Aleks	subst:pl:loc:m1	imię	
 Aleks	Aleks	subst:sg:nom:m1	imię	
 Aleksami	Aleks	subst:pl:inst:m1	imię	
@@ -2110,7 +2018,6 @@ Aleksów	Aleks	subst:pl:gen.acc:m1	imię
 Aleksy	Aleks	depr:pl:nom.acc.voc:m2	imię	
 Aleksander	Aleksander	subst:sg:nom:m1	imię	
 Aleksandra	Aleksander	subst:sg:gen.acc:m1	imię	
-Aleksandra	Aleksander	subst:sg:gen:m1	imię	
 Aleksandrach	Aleksander	subst:pl:loc:m1	imię	
 Aleksandrami	Aleksander	subst:pl:inst:m1	imię	
 Aleksandrem	Aleksander	subst:sg:inst:m1	imię	
@@ -2145,7 +2052,6 @@ Aleksandrio	Aleksandria	subst:sg:voc:f	nazwa geograficzna
 Aleksandriom	Aleksandria	subst:pl:dat:f	nazwa geograficzna	
 Aleksandryj	Aleksandria	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Aleksandrowicza	Aleksandrowicz	subst:sg:gen.acc:m1	nazwisko	
-Aleksandrowicza	Aleksandrowicz	subst:sg:gen:m1	nazwisko	
 Aleksandrowiczach	Aleksandrowicz	subst:pl:loc:m1	nazwisko	
 Aleksandrowicz	Aleksandrowicz	subst:sg:nom:m1	nazwisko	
 Aleksandrowiczami	Aleksandrowicz	subst:pl:inst:m1	nazwisko	
@@ -2171,7 +2077,6 @@ Aleksandrowu	Aleksandrów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku
 Aleksandrowy	Aleksandrów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Aleksandrów	Aleksandrów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Aleksieja	Aleksiej	subst:sg:gen.acc:m1	imię	
-Aleksieja	Aleksiej	subst:sg:gen:m1	imię	
 Aleksiejach	Aleksiej	subst:pl:loc:m1	imię	
 Aleksiej	Aleksiej	subst:sg:nom:m1	imię	
 Aleksiejami	Aleksiej	subst:pl:inst:m1	imię	
@@ -2186,7 +2091,6 @@ Aleksieju	Aleksiej	subst:sg:loc:m1	imię
 Aleksieju	Aleksiej	subst:sg:voc:m1	imię	
 Alekse	Aleksy	depr:pl:nom.acc.voc:m2	imię	
 Aleksego	Aleksy	subst:sg:gen.acc:m1	imię	
-Aleksego	Aleksy	subst:sg:gen:m1	imię	
 Aleksemu	Aleksy	subst:sg:dat:m1	imię	
 Aleksowie	Aleksy	subst:pl:nom.voc:m1	imię	
 Aleksy	Aleksy	subst:sg:nom:m1	imię	
@@ -2208,7 +2112,6 @@ Aleutów	Aleuty	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Aleuty	Aleuty	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
 Aleuty	Aleuty	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Alfa	Alf	subst:sg:gen.acc:m1	imię	
-Alfa	Alf	subst:sg:gen:m1	imię	
 Alfach	Alf	subst:pl:loc:m1	imię	
 Alf	Alf	subst:sg:nom:m1	imię	
 Alfami	Alf	subst:pl:inst:m1	imię	
@@ -2221,7 +2124,6 @@ Alfowie	Alf	subst:pl:nom.voc:m1	imię
 Alfów	Alf	subst:pl:gen.acc:m1	imię	
 Alfy	Alf	depr:pl:nom.acc.voc:m2	imię	
 Alfonsa	Alfons	subst:sg:gen.acc:m1	imię	
-Alfonsa	Alfons	subst:sg:gen:m1	imię	
 Alfonsach	Alfons	subst:pl:loc:m1	imię	
 Alfons	Alfons	subst:sg:nom:m1	imię	
 Alfonsami	Alfons	subst:pl:inst:m1	imię	
@@ -2246,7 +2148,6 @@ Alfonsynom	Alfonsyna	subst:pl:dat:f	imię
 Alfonsyny	Alfonsyna	subst:pl:nom.acc.voc:f	imię	
 Alfonsyny	Alfonsyna	subst:sg:gen:f	imię	
 Alfreda	Alfred	subst:sg:gen.acc:m1	imię	
-Alfreda	Alfred	subst:sg:gen:m1	imię	
 Alfredach	Alfred	subst:pl:loc:m1	imię	
 Alfred	Alfred	subst:sg:nom:m1	imię	
 Alfredami	Alfred	subst:pl:inst:m1	imię	
@@ -2271,7 +2172,6 @@ Alfredy	Alfreda	subst:sg:gen:f	imię
 Alfredzie	Alfreda	subst:sg:dat.loc:f	imię	
 Alfreda	Alfredo	depr:pl:nom.acc.voc:m2	imię	
 Alfreda	Alfredo	subst:sg:gen.acc:m1	imię	
-Alfreda	Alfredo	subst:sg:gen:m1	imię	
 Alfredach	Alfredo	subst:pl:loc:m1	imię	
 Alfredami	Alfredo	subst:pl:inst:m1	imię	
 Alfredem	Alfredo	subst:sg:inst:m1	imię	
@@ -2295,7 +2195,6 @@ Algierze	Algier	subst:sg:loc:m3	nazwa geograficzna
 Algierze	Algier	subst:sg:voc:m3	nazwa geograficzna	
 Algierczycy	Algierczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Algierczyka	Algierczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Algierczyka	Algierczyk	subst:sg:gen:m1	nazwa pospolita	
 Algierczykach	Algierczyk	subst:pl:loc:m1	nazwa pospolita	
 Algierczyk	Algierczyk	subst:sg:nom:m1	nazwa pospolita	
 Algierczykami	Algierczyk	subst:pl:inst:m1	nazwa pospolita	
@@ -2342,7 +2241,6 @@ Algolu	Algol	subst:sg:loc:m3	nazwa języka programowania	komp.
 Algolu	Algol	subst:sg:voc:m3	nazwa języka programowania	komp.
 Ale	Ali	depr:pl:nom.acc.voc:m2	imię	
 Alego	Ali	subst:sg:gen.acc:m1	imię	
-Alego	Ali	subst:sg:gen:m1	imię	
 Alemu	Ali	subst:sg:dat:m1	imię	
 Ali	Ali	subst:sg:nom:m1	imię	
 Ali	Ali	subst:sg:voc:m1	imię	
@@ -2383,7 +2281,6 @@ Alighierich	Alighieri	subst:pl:gen.acc:m1	nazwisko
 Alighierich	Alighieri	subst:pl:loc:m1	nazwisko	
 Alighierie	Alighieri	depr:pl:nom.acc.voc:m2	nazwisko	
 Alighieriego	Alighieri	subst:sg:gen.acc:m1	nazwisko	
-Alighieriego	Alighieri	subst:sg:gen:m1	nazwisko	
 Alighieriemu	Alighieri	subst:sg:dat:m1	nazwisko	
 Alighierim	Alighieri	subst:pl:dat:m1	nazwisko	
 Alighierim	Alighieri	subst:sg:inst:m1	nazwisko	
@@ -2446,7 +2343,6 @@ Alkoranów	Alkoran	subst:pl:gen:m3	tytuł
 Alkoranu	Alkoran	subst:sg:gen:m3	tytuł	
 Alkorany	Alkoran	subst:pl:nom.acc.voc:m3	tytuł	
 Allacha	Allach	subst:sg:gen.acc:m1	imię	
-Allacha	Allach	subst:sg:gen:m1	imię	
 Allachach	Allach	subst:pl:loc:m1	imię	
 Allach	Allach	subst:sg:nom:m1	imię	
 Allachami	Allach	subst:pl:inst:m1	imię	
@@ -2459,7 +2355,6 @@ Allachu	Allach	subst:sg:loc:m1	imię
 Allachu	Allach	subst:sg:voc:m1	imię	
 Allachy	Allach	depr:pl:nom.acc.voc:m2	imię	
 Allaha	Allah	subst:sg:gen.acc:m1	imię	
-Allaha	Allah	subst:sg:gen:m1	imię	
 Allahach	Allah	subst:pl:loc:m1	imię	
 Allah	Allah	subst:sg:nom:m1	imię	
 Allahami	Allah	subst:pl:inst:m1	imię	
@@ -2472,7 +2367,6 @@ Allahu	Allah	subst:sg:loc:m1	imię
 Allahu	Allah	subst:sg:voc:m1	imię	
 Allahy	Allah	depr:pl:nom.acc.voc:m2	imię	
 Allana	Allan	subst:sg:gen.acc:m1	imię	
-Allana	Allan	subst:sg:gen:m1	imię	
 Allanach	Allan	subst:pl:loc:m1	imię	
 Allan	Allan	subst:sg:nom:m1	imię	
 Allanami	Allan	subst:pl:inst:m1	imię	
@@ -2486,7 +2380,6 @@ Allanowie	Allan	subst:pl:nom.voc:m1	imię
 Allanów	Allan	subst:pl:gen.acc:m1	imię	
 Allany	Allan	depr:pl:nom.acc.voc:m2	imię	
 Allena	Allen	subst:sg:gen.acc:m1	nazwisko	
-Allena	Allen	subst:sg:gen:m1	nazwisko	
 Allenach	Allen	subst:pl:loc:m1	nazwisko	
 Allen	Allen	subst:sg:nom:m1	nazwisko	
 Allenami	Allen	subst:pl:inst:m1	nazwisko	
@@ -2505,7 +2398,6 @@ Allende	Allende	subst:sg:nom:m1	nazwisko
 Allende	Allende	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko	
 Allende	Allende	subst:sg:voc:m1	nazwisko	
 Allendego	Allende	subst:sg:gen.acc:m1	nazwisko	
-Allendego	Allende	subst:sg:gen:m1	nazwisko	
 Allendem	Allende	subst:sg:inst:m1	nazwisko	
 Allendem	Allende	subst:sg:loc:m1	nazwisko	
 Allendemu	Allende	subst:sg:dat:m1	nazwisko	
@@ -2513,7 +2405,6 @@ Allendom	Allende	subst:pl:dat:m1	nazwisko
 Allendowie	Allende	subst:pl:nom.voc:m1	nazwisko	
 Allendów	Allende	subst:pl:gen.acc:m1	nazwisko	
 Almanzora	Almanzor	subst:sg:gen.acc:m1	imię	
-Almanzora	Almanzor	subst:sg:gen:m1	imię	
 Almanzorach	Almanzor	subst:pl:loc:m1	imię	
 Almanzor	Almanzor	subst:sg:nom:m1	imię	
 Almanzorami	Almanzor	subst:pl:inst:m1	imię	
@@ -2526,7 +2417,6 @@ Almanzory	Almanzor	depr:pl:nom.acc.voc:m2	imię
 Almanzorze	Almanzor	subst:sg:loc:m1	imię	
 Almanzorze	Almanzor	subst:sg:voc:m1	imię	
 Ala	Alo	subst:sg:gen.acc:m1	imię	
-Ala	Alo	subst:sg:gen:m1	imię	
 Alach	Alo	subst:pl:loc:m1	imię	
 Alami	Alo	subst:pl:inst:m1	imię	
 Ale	Alo	depr:pl:nom.acc.voc:m2	imię	
@@ -2551,7 +2441,6 @@ Alojzy	Alojza	subst:pl:nom.acc.voc:f	imię
 Alojzy	Alojza	subst:sg:gen:f	imię	
 Alojzeczek	Alojzeczek	subst:sg:nom:m1	imię	
 Alojzeczka	Alojzeczek	subst:sg:gen.acc:m1	imię	
-Alojzeczka	Alojzeczek	subst:sg:gen:m1	imię	
 Alojzeczkach	Alojzeczek	subst:pl:loc:m1	imię	
 Alojzeczkami	Alojzeczek	subst:pl:inst:m1	imię	
 Alojzeczki	Alojzeczek	depr:pl:nom.acc.voc:m2	imię	
@@ -2564,7 +2453,6 @@ Alojzeczku	Alojzeczek	subst:sg:loc:m1	imię
 Alojzeczku	Alojzeczek	subst:sg:voc:m1	imię	
 Alojzek	Alojzek	subst:sg:nom:m1	imię	
 Alojzka	Alojzek	subst:sg:gen.acc:m1	imię	
-Alojzka	Alojzek	subst:sg:gen:m1	imię	
 Alojzkach	Alojzek	subst:pl:loc:m1	imię	
 Alojzkami	Alojzek	subst:pl:inst:m1	imię	
 Alojzki	Alojzek	depr:pl:nom.acc.voc:m2	imię	
@@ -2576,7 +2464,6 @@ Alojzków	Alojzek	subst:pl:gen.acc:m1	imię
 Alojzku	Alojzek	subst:sg:loc:m1	imię	
 Alojzku	Alojzek	subst:sg:voc:m1	imię	
 Alojzika	Alojzik	subst:sg:gen.acc:m1	imię	
-Alojzika	Alojzik	subst:sg:gen:m1	imię	
 Alojzikach	Alojzik	subst:pl:loc:m1	imię	
 Alojzik	Alojzik	subst:sg:nom:m1	imię	
 Alojzikami	Alojzik	subst:pl:inst:m1	imię	
@@ -2590,7 +2477,6 @@ Alojziku	Alojzik	subst:sg:loc:m1	imię
 Alojziku	Alojzik	subst:sg:voc:m1	imię	
 Alojze	Alojzy	depr:pl:nom.acc.voc:m2	imię	
 Alojzego	Alojzy	subst:sg:gen.acc:m1	imię	
-Alojzego	Alojzy	subst:sg:gen:m1	imię	
 Alojzemu	Alojzy	subst:sg:dat:m1	imię	
 Alojzowie	Alojzy	subst:pl:nom.voc:m1	imię	
 Alojzy	Alojzy	subst:sg:nom:m1	imię	
@@ -2612,9 +2498,7 @@ Aloszom	Alosza	subst:pl:dat:m1	imię
 Aloszowie	Alosza	subst:pl:nom.voc:m1	imię	
 Aloszów	Alosza	subst:pl:gen.acc:m1	imię	
 Aloszy	Alosza	subst:sg:dat.loc:m1	imię	
-Aloszy	Alosza	subst:sg:gen:m1	imię	
 AL-owca	AL-owiec	subst:sg:gen.acc:m1	nazwa pospolita	
-AL-owca	AL-owiec	subst:sg:gen:m1	nazwa pospolita	
 AL-owcach	AL-owiec	subst:pl:loc:m1	nazwa pospolita	
 AL-owcami	AL-owiec	subst:pl:inst:m1	nazwa pospolita	
 AL-owce	AL-owiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -2654,7 +2538,6 @@ AL-owsko	AL-owski	adja
 AL-owsku	AL-owski	adjp		
 AL-owsko	AL-owsko	adv:pos		
 Alpiniana	Alpinian	subst:sg:gen.acc:m1	imię	
-Alpiniana	Alpinian	subst:sg:gen:m1	imię	
 Alpinianach	Alpinian	subst:pl:loc:m1	imię	
 Alpinian	Alpinian	subst:sg:nom:m1	imię	
 Alpinianami	Alpinian	subst:pl:inst:m1	imię	
@@ -2701,7 +2584,6 @@ Alusiom	Alusia	subst:pl:dat:f	imię
 Alusiu	Alusia	subst:sg:voc:f	imię	
 Aluś	Alusia	subst:pl:gen:f	imię	char.
 Alusia	Aluś	subst:sg:gen.acc:m1	imię	
-Alusia	Aluś	subst:sg:gen:m1	imię	
 Alusiach	Aluś	subst:pl:loc:m1	imię	
 Alusiami	Aluś	subst:pl:inst:m1	imię	
 Alusie	Aluś	depr:pl:nom.acc.voc:m2	imię	
@@ -2727,7 +2609,6 @@ Alzacjo	Alzacja	subst:sg:voc:f	nazwa geograficzna
 Alzacjom	Alzacja	subst:pl:dat:f	nazwa geograficzna	
 Alzacyj	Alzacja	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Alzheimera	Alzheimer	subst:sg:gen.acc:m1	nazwisko	
-Alzheimera	Alzheimer	subst:sg:gen:m1	nazwisko	
 Alzheimerach	Alzheimer	subst:pl:loc:m1	nazwisko	
 Alzheimer	Alzheimer	subst:sg:nom:m1	nazwisko	
 Alzheimerami	Alzheimer	subst:pl:inst:m1	nazwisko	
@@ -2764,7 +2645,6 @@ Ałtaju	Ałtaj	subst:sg:loc:m3	nazwa geograficzna
 Ałtaju	Ałtaj	subst:sg:voc:m3	nazwa geograficzna	
 Ałtajczycy	Ałtajczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Ałtajczyka	Ałtajczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Ałtajczyka	Ałtajczyk	subst:sg:gen:m1	nazwa pospolita	
 Ałtajczykach	Ałtajczyk	subst:pl:loc:m1	nazwa pospolita	
 Ałtajczyk	Ałtajczyk	subst:sg:nom:m1	nazwa pospolita	
 Ałtajczykami	Ałtajczyk	subst:pl:inst:m1	nazwa pospolita	
@@ -2810,7 +2690,6 @@ Amadei	Amadea	subst:sg:gen:f	imię
 Amadeo	Amadea	subst:sg:voc:f	imię	
 Amadeom	Amadea	subst:pl:dat:f	imię	
 Amadeusza	Amadeusz	subst:sg:gen.acc:m1	imię	
-Amadeusza	Amadeusz	subst:sg:gen:m1	imię	
 Amadeuszach	Amadeusz	subst:pl:loc:m1	imię	
 Amadeusz	Amadeusz	subst:sg:nom:m1	imię	
 Amadeuszami	Amadeusz	subst:pl:inst:m1	imię	
@@ -2878,7 +2757,6 @@ Amatich	Amati	subst:pl:gen.acc:m1	nazwisko
 Amatich	Amati	subst:pl:loc:m1	nazwisko	
 Amatie	Amati	depr:pl:nom.acc.voc:m2	nazwisko	
 Amatiego	Amati	subst:sg:gen.acc:m1	nazwisko	
-Amatiego	Amati	subst:sg:gen:m1	nazwisko	
 Amatiemu	Amati	subst:sg:dat:m1	nazwisko	
 Amatim	Amati	subst:pl:dat:m1	nazwisko	
 Amatim	Amati	subst:sg:inst:m1	nazwisko	
@@ -2909,7 +2787,6 @@ Amazonki	Amazonka	subst:sg:gen:f	nazwa geograficzna
 Amazonko	Amazonka	subst:sg:voc:f	nazwa geograficzna	
 Amazonkom	Amazonka	subst:pl:dat:f	nazwa geograficzna	
 Ambroziaka	Ambroziak	subst:sg:gen.acc:m1	nazwisko	
-Ambroziaka	Ambroziak	subst:sg:gen:m1	nazwisko	
 Ambroziakach	Ambroziak	subst:pl:loc:m1	nazwisko	
 Ambroziak	Ambroziak	subst:sg:nom:m1	nazwisko	
 Ambroziakami	Ambroziak	subst:pl:inst:m1	nazwisko	
@@ -2922,7 +2799,6 @@ Ambroziaków	Ambroziak	subst:pl:gen.acc:m1	nazwisko
 Ambroziaku	Ambroziak	subst:sg:loc:m1	nazwisko	
 Ambroziaku	Ambroziak	subst:sg:voc:m1	nazwisko	
 Ambrozika	Ambrozik	subst:sg:gen.acc:m1	imię	
-Ambrozika	Ambrozik	subst:sg:gen:m1	imię	
 Ambrozikach	Ambrozik	subst:pl:loc:m1	imię	
 Ambrozik	Ambrozik	subst:sg:nom:m1	imię	
 Ambrozikami	Ambrozik	subst:pl:inst:m1	imię	
@@ -2936,7 +2812,6 @@ Ambroziku	Ambrozik	subst:sg:loc:m1	imię
 Ambroziku	Ambrozik	subst:sg:voc:m1	imię	
 Ambrożek	Ambrożek	subst:sg:nom:m1	imię	
 Ambrożka	Ambrożek	subst:sg:gen.acc:m1	imię	
-Ambrożka	Ambrożek	subst:sg:gen:m1	imię	
 Ambrożkach	Ambrożek	subst:pl:loc:m1	imię	
 Ambrożkami	Ambrożek	subst:pl:inst:m1	imię	
 Ambrożki	Ambrożek	depr:pl:nom.acc.voc:m2	imię	
@@ -2949,7 +2824,6 @@ Ambrożku	Ambrożek	subst:sg:loc:m1	imię
 Ambrożku	Ambrożek	subst:sg:voc:m1	imię	
 Ambroże	Ambroży	depr:pl:nom.acc.voc:m2	imię	
 Ambrożego	Ambroży	subst:sg:gen.acc:m1	imię	
-Ambrożego	Ambroży	subst:sg:gen:m1	imię	
 Ambrożemu	Ambroży	subst:sg:dat:m1	imię	
 Ambrożowie	Ambroży	subst:pl:nom.voc:m1	imię	
 Ambroży	Ambroży	subst:sg:nom:m1	imię	
@@ -2961,7 +2835,6 @@ Ambrożym	Ambroży	subst:sg:inst:m1	imię
 Ambrożym	Ambroży	subst:sg:loc:m1	imię	
 Ambrożymi	Ambroży	subst:pl:inst:m1	imię	
 Amedeusza	Amedeusz	subst:sg:gen.acc:m1	imię	
-Amedeusza	Amedeusz	subst:sg:gen:m1	imię	
 Amedeuszach	Amedeusz	subst:pl:loc:m1	imię	
 Amedeusz	Amedeusz	subst:sg:nom:m1	imię	
 Amedeuszami	Amedeusz	subst:pl:inst:m1	imię	
@@ -3033,7 +2906,6 @@ Ameryko	Ameryka	subst:sg:voc:f	nazwa geograficzna
 Amerykom	Ameryka	subst:pl:dat:f	nazwa geograficzna	
 Amerykaniec	Amerykaniec	subst:sg:nom:m1	nazwa pospolita	pot.
 Amerykańca	Amerykaniec	subst:sg:gen.acc:m1	nazwa pospolita	pot.
-Amerykańca	Amerykaniec	subst:sg:gen:m1	nazwa pospolita	pot.
 Amerykańcach	Amerykaniec	subst:pl:loc:m1	nazwa pospolita	pot.
 Amerykańcami	Amerykaniec	subst:pl:inst:m1	nazwa pospolita	pot.
 Amerykańce	Amerykaniec	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
@@ -3048,7 +2920,6 @@ Amerykanach	Amerykanin	subst:pl:loc:m1	nazwa pospolita
 Amerykanami	Amerykanin	subst:pl:inst:m1	nazwa pospolita	
 Amerykanie	Amerykanin	subst:pl:nom.voc:m1	nazwa pospolita	
 Amerykanina	Amerykanin	subst:sg:gen.acc:m1	nazwa pospolita	
-Amerykanina	Amerykanin	subst:sg:gen:m1	nazwa pospolita	
 Amerykanin	Amerykanin	subst:sg:nom:m1	nazwa pospolita	
 Amerykaninem	Amerykanin	subst:sg:inst:m1	nazwa pospolita	
 Amerykaninie	Amerykanin	subst:sg:loc:m1	nazwa pospolita	
@@ -3069,7 +2940,6 @@ Amerykanki	Amerykanka	subst:sg:gen:f	nazwa pospolita
 Amerykanko	Amerykanka	subst:sg:voc:f	nazwa pospolita	
 Amerykankom	Amerykanka	subst:pl:dat:f	nazwa pospolita	
 Amicisa	Amicis	subst:sg:gen.acc:m1	nazwisko	
-Amicisa	Amicis	subst:sg:gen:m1	nazwisko	
 Amicisach	Amicis	subst:pl:loc:m1	nazwisko	
 Amicisami	Amicis	subst:pl:inst:m1	nazwisko	
 Amicis	Amicis	subst:sg:nom:m1	nazwisko	
@@ -3104,7 +2974,6 @@ Ammanów	Amman	subst:pl:gen:m3	nazwa geograficzna
 Ammanu	Amman	subst:sg:gen:m3	nazwa geograficzna	
 Ammany	Amman	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Ammona	Ammon	subst:sg:gen.acc:m1	imię	
-Ammona	Ammon	subst:sg:gen:m1	imię	
 Ammonach	Ammon	subst:pl:loc:m1	imię	
 Ammonami	Ammon	subst:pl:inst:m1	imię	
 Ammon	Ammon	subst:sg:nom:m1	imię	
@@ -3118,7 +2987,6 @@ Ammonowie	Ammon	subst:pl:nom.voc:m1	imię
 Ammonów	Ammon	subst:pl:gen.acc:m1	imię	
 Ammony	Ammon	depr:pl:nom.acc.voc:m2	imię	
 Amnona	Amnon	subst:sg:gen.acc:m1	imię	
-Amnona	Amnon	subst:sg:gen:m1	imię	
 Amnonach	Amnon	subst:pl:loc:m1	imię	
 Amnonami	Amnon	subst:pl:inst:m1	imię	
 Amnon	Amnon	subst:sg:nom:m1	imię	
@@ -3132,7 +3000,6 @@ Amnonowie	Amnon	subst:pl:nom.voc:m1	imię
 Amnonów	Amnon	subst:pl:gen.acc:m1	imię	
 Amnony	Amnon	depr:pl:nom.acc.voc:m2	imię	
 Amona	Amon	subst:sg:gen.acc:m1	imię	
-Amona	Amon	subst:sg:gen:m1	imię	
 Amonach	Amon	subst:pl:loc:m1	imię	
 Amonami	Amon	subst:pl:inst:m1	imię	
 Amon	Amon	subst:sg:nom:m1	imię	
@@ -3147,8 +3014,6 @@ Amonów	Amon	subst:pl:gen.acc:m1	imię
 Amony	Amon	depr:pl:nom.acc.voc:m2	imię	
 Amora	Amor	subst:sg:gen.acc:m1	imię	mit.
 Amora	Amor	subst:sg:gen.acc:m2	imię	mit.
-Amora	Amor	subst:sg:gen:m1	imię	mit.
-Amora	Amor	subst:sg:gen:m2	imię	mit.
 Amorach	Amor	subst:pl:loc:m1	imię	mit.
 Amorach	Amor	subst:pl:loc:m2	imię	mit.
 Amorami	Amor	subst:pl:inst:m1	imię	mit.
@@ -3171,7 +3036,6 @@ Amorze	Amor	subst:sg:loc:m2	imię	mit.
 Amorze	Amor	subst:sg:voc:m1	imię	mit.
 Amorze	Amor	subst:sg:voc:m2	imię	mit.
 Amosa	Amos	subst:sg:gen.acc:m1	imię	
-Amosa	Amos	subst:sg:gen:m1	imię	
 Amosach	Amos	subst:pl:loc:m1	imię	
 Amosami	Amos	subst:pl:inst:m1	imię	
 Amos	Amos	subst:sg:nom:m1	imię	
@@ -3184,7 +3048,6 @@ Amosowie	Amos	subst:pl:nom.voc:m1	imię
 Amosów	Amos	subst:pl:gen.acc:m1	imię	
 Amosy	Amos	depr:pl:nom.acc.voc:m2	imię	
 Ampére’a	Ampére	subst:sg:gen.acc:m1	nazwisko	
-Ampére’a	Ampére	subst:sg:gen:m1	nazwisko	
 Ampére’ach	Ampére	subst:pl:loc:m1	nazwisko	
 Ampére’ami	Ampére	subst:pl:inst:m1	nazwisko	
 Ampére	Ampére	subst:sg:nom:m1	nazwisko	
@@ -3220,7 +3083,6 @@ Amu-dario	Amu-daria	subst:sg:voc:f	nazwa geograficzna
 Amu-dariom	Amu-daria	subst:pl:dat:f	nazwa geograficzna	
 Amu-daryj	Amu-daria	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Amundsena	Amundsen	subst:sg:gen.acc:m1	nazwisko	
-Amundsena	Amundsen	subst:sg:gen:m1	nazwisko	
 Amundsenach	Amundsen	subst:pl:loc:m1	nazwisko	
 Amundsenami	Amundsen	subst:pl:inst:m1	nazwisko	
 Amundsen	Amundsen	subst:sg:nom:m1	nazwisko	
@@ -3233,7 +3095,6 @@ Amundsenowie	Amundsen	subst:pl:nom.voc:m1	nazwisko
 Amundsenów	Amundsen	subst:pl:gen.acc:m1	nazwisko	
 Amundseny	Amundsen	depr:pl:nom.acc.voc:m2	nazwisko	
 Anana	Anan	subst:sg:gen.acc:m1	nazwisko	
-Anana	Anan	subst:sg:gen:m1	nazwisko	
 Ananach	Anan	subst:pl:loc:m1	nazwisko	
 Ananami	Anan	subst:pl:inst:m1	nazwisko	
 Anan	Anan	subst:sg:nom:m1	nazwisko	
@@ -3246,7 +3107,6 @@ Ananowie	Anan	subst:pl:nom.voc:m1	nazwisko
 Ananów	Anan	subst:pl:gen.acc:m1	nazwisko	
 Anany	Anan	depr:pl:nom.acc.voc:m2	nazwisko	
 Ananiasza	Ananiasz	subst:sg:gen.acc:m1	imię	
-Ananiasza	Ananiasz	subst:sg:gen:m1	imię	
 Ananiaszach	Ananiasz	subst:pl:loc:m1	imię	
 Ananiaszami	Ananiasz	subst:pl:inst:m1	imię	
 Ananiasz	Ananiasz	subst:sg:nom:m1	imię	
@@ -3274,7 +3134,6 @@ Anastazjom	Anastazja	subst:pl:dat:f	imię
 Anastazyj	Anastazja	subst:pl:gen:f	imię	arch.|char.
 Anastaze	Anastazy	depr:pl:nom.acc.voc:m2	imię	
 Anastazego	Anastazy	subst:sg:gen.acc:m1	imię	
-Anastazego	Anastazy	subst:sg:gen:m1	imię	
 Anastazemu	Anastazy	subst:sg:dat:m1	imię	
 Anastazowie	Anastazy	subst:pl:nom.voc:m1	imię	
 Anastazy	Anastazy	subst:sg:nom:m1	imię	
@@ -3286,7 +3145,6 @@ Anastazym	Anastazy	subst:sg:inst:m1	imię
 Anastazym	Anastazy	subst:sg:loc:m1	imię	
 Anastazymi	Anastazy	subst:pl:inst:m1	imię	
 Anatola	Anatol	subst:sg:gen.acc:m1	imię	
-Anatola	Anatol	subst:sg:gen:m1	imię	
 Anatolach	Anatol	subst:pl:loc:m1	imię	
 Anatolami	Anatol	subst:pl:inst:m1	imię	
 Anatol	Anatol	subst:sg:nom:m1	imię	
@@ -3313,7 +3171,6 @@ Anatolo	Anatola	subst:sg:voc:f	imię
 Anatolom	Anatola	subst:pl:dat:f	imię	
 Anatolek	Anatolek	subst:sg:nom:m1	imię	
 Anatolka	Anatolek	subst:sg:gen.acc:m1	imię	
-Anatolka	Anatolek	subst:sg:gen:m1	imię	
 Anatolkach	Anatolek	subst:pl:loc:m1	imię	
 Anatolkami	Anatolek	subst:pl:inst:m1	imię	
 Anatolki	Anatolek	depr:pl:nom.acc.voc:m2	imię	
@@ -3360,7 +3217,6 @@ Andaluzjo	Andaluzja	subst:sg:voc:f	nazwa geograficzna
 Andaluzjom	Andaluzja	subst:pl:dat:f	nazwa geograficzna	
 Andaluzyj	Andaluzja	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Andegawena	Andegawen	subst:sg:gen.acc:m1	nazwa członka rodu	
-Andegawena	Andegawen	subst:sg:gen:m1	nazwa członka rodu	
 Andegawenach	Andegawen	subst:pl:loc:m1	nazwa członka rodu	
 Andegawenami	Andegawen	subst:pl:inst:m1	nazwa członka rodu	
 Andegawen	Andegawen	subst:sg:nom:m1	nazwa członka rodu	
@@ -3385,7 +3241,6 @@ Andegawenij	Andegawenia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Andegawenio	Andegawenia	subst:sg:voc:f	nazwa geograficzna	
 Andegaweniom	Andegawenia	subst:pl:dat:f	nazwa geograficzna	
 Andersa	Anders	subst:sg:gen.acc:m1	nazwisko	
-Andersa	Anders	subst:sg:gen:m1	nazwisko	
 Andersach	Anders	subst:pl:loc:m1	nazwisko	
 Andersami	Anders	subst:pl:inst:m1	nazwisko	
 Anders	Anders	subst:sg:nom:m1	nazwisko	
@@ -3398,7 +3253,6 @@ Andersowie	Anders	subst:pl:nom.voc:m1	nazwisko
 Andersów	Anders	subst:pl:gen.acc:m1	nazwisko	
 Andersy	Anders	depr:pl:nom.acc.voc:m2	nazwisko	
 Andersena	Andersen	subst:sg:gen.acc:m1	nazwisko	
-Andersena	Andersen	subst:sg:gen:m1	nazwisko	
 Andersenach	Andersen	subst:pl:loc:m1	nazwisko	
 Andersenami	Andersen	subst:pl:inst:m1	nazwisko	
 Andersen	Andersen	subst:sg:nom:m1	nazwisko	
@@ -3411,7 +3265,6 @@ Andersenowie	Andersen	subst:pl:nom.voc:m1	nazwisko
 Andersenów	Andersen	subst:pl:gen.acc:m1	nazwisko	
 Anderseny	Andersen	depr:pl:nom.acc.voc:m2	nazwisko	
 Andonika	Andonik	subst:sg:gen.acc:m1	imię	
-Andonika	Andonik	subst:sg:gen:m1	imię	
 Andonikach	Andonik	subst:pl:loc:m1	imię	
 Andonikami	Andonik	subst:pl:inst:m1	imię	
 Andonik	Andonik	subst:sg:nom:m1	imię	
@@ -3440,7 +3293,6 @@ Andrássych	Andrássy	subst:pl:gen.acc:m1	nazwisko
 Andrássych	Andrássy	subst:pl:loc:m1	nazwisko	
 Andrássye	Andrássy	depr:pl:nom.acc.voc:m2	nazwisko	
 Andrássyego	Andrássy	subst:sg:gen.acc:m1	nazwisko	
-Andrássyego	Andrássy	subst:sg:gen:m1	nazwisko	
 Andrássyemu	Andrássy	subst:sg:dat:m1	nazwisko	
 Andrássym	Andrássy	subst:pl:dat:m1	nazwisko	
 Andrássym	Andrássy	subst:sg:inst:m1	nazwisko	
@@ -3454,7 +3306,6 @@ Andreottich	Andreotti	subst:pl:gen.acc:m1	nazwisko
 Andreottich	Andreotti	subst:pl:loc:m1	nazwisko	
 Andreottie	Andreotti	depr:pl:nom.acc.voc:m2	nazwisko	
 Andreottiego	Andreotti	subst:sg:gen.acc:m1	nazwisko	
-Andreottiego	Andreotti	subst:sg:gen:m1	nazwisko	
 Andreottiemu	Andreotti	subst:sg:dat:m1	nazwisko	
 Andreottim	Andreotti	subst:pl:dat:m1	nazwisko	
 Andreottim	Andreotti	subst:sg:inst:m1	nazwisko	
@@ -3462,7 +3313,6 @@ Andreottim	Andreotti	subst:sg:loc:m1	nazwisko
 Andreottimi	Andreotti	subst:pl:inst:m1	nazwisko	
 Andreottiowie	Andreotti	subst:pl:nom.voc:m1	nazwisko	
 Andricia	Andrić	subst:sg:gen.acc:m1	nazwisko	
-Andricia	Andrić	subst:sg:gen:m1	nazwisko	
 Andriciach	Andrić	subst:pl:loc:m1	nazwisko	
 Andriciami	Andrić	subst:pl:inst:m1	nazwisko	
 Andricie	Andrić	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -3475,7 +3325,6 @@ Andriciu	Andrić	subst:sg:loc:m1	nazwisko
 Andriciu	Andrić	subst:sg:voc:m1	nazwisko	
 Andrić	Andrić	subst:sg:nom:m1	nazwisko	
 Andrieja	Andriej	subst:sg:gen.acc:m1	imię	
-Andrieja	Andriej	subst:sg:gen:m1	imię	
 Andriejach	Andriej	subst:pl:loc:m1	imię	
 Andriejami	Andriej	subst:pl:inst:m1	imię	
 Andriej	Andriej	subst:sg:nom:m1	imię	
@@ -3490,7 +3339,6 @@ Andrieju	Andriej	subst:sg:loc:m1	imię
 Andrieju	Andriej	subst:sg:voc:m1	imię	
 Andriolle	Andriolli	depr:pl:nom.acc.voc:m2	nazwisko	
 Andriollego	Andriolli	subst:sg:gen.acc:m1	nazwisko	
-Andriollego	Andriolli	subst:sg:gen:m1	nazwisko	
 Andriollemu	Andriolli	subst:sg:dat:m1	nazwisko	
 Andriolli	Andriolli	subst:pl:nom.voc:m1	nazwisko	
 Andriolli	Andriolli	subst:sg:nom:m1	nazwisko	
@@ -3536,7 +3384,6 @@ Andrychowu	Andrychów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
 Andrychowy	Andrychów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Andrychów	Andrychów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Andrycza	Andrycz	subst:sg:gen.acc:m1	nazwisko	
-Andrycza	Andrycz	subst:sg:gen:m1	nazwisko	
 Andryczach	Andrycz	subst:pl:loc:m1	nazwisko	
 Andryczami	Andrycz	subst:pl:inst:m1	nazwisko	
 Andrycz	Andrycz	subst:sg:nom:m1	nazwisko	
@@ -3549,7 +3396,6 @@ Andryczów	Andrycz	subst:pl:gen.acc:m1	nazwisko
 Andryczu	Andrycz	subst:sg:loc:m1	nazwisko	
 Andryczu	Andrycz	subst:sg:voc:m1	nazwisko	
 Andrzeja	Andrzej	subst:sg:gen.acc:m1	imię	
-Andrzeja	Andrzej	subst:sg:gen:m1	imię	
 Andrzejach	Andrzej	subst:pl:loc:m1	imię	
 Andrzejami	Andrzej	subst:pl:inst:m1	imię	
 Andrzej	Andrzej	subst:sg:nom:m1	imię	
@@ -3563,7 +3409,6 @@ Andrzejów	Andrzej	subst:pl:gen.acc:m1	imię
 Andrzeju	Andrzej	subst:sg:loc:m1	imię	
 Andrzeju	Andrzej	subst:sg:voc:m1	imię	
 Andrzejczaka	Andrzejczak	subst:sg:gen.acc:m1	nazwisko	
-Andrzejczaka	Andrzejczak	subst:sg:gen:m1	nazwisko	
 Andrzejczakach	Andrzejczak	subst:pl:loc:m1	nazwisko	
 Andrzejczakami	Andrzejczak	subst:pl:inst:m1	nazwisko	
 Andrzejczak	Andrzejczak	subst:sg:nom:m1	nazwisko	
@@ -3577,7 +3422,6 @@ Andrzejczaku	Andrzejczak	subst:sg:loc:m1	nazwisko
 Andrzejczaku	Andrzejczak	subst:sg:voc:m1	nazwisko	
 Andrzejek	Andrzejek	subst:sg:nom:m1	imię	
 Andrzejka	Andrzejek	subst:sg:gen.acc:m1	imię	
-Andrzejka	Andrzejek	subst:sg:gen:m1	imię	
 Andrzejkach	Andrzejek	subst:pl:loc:m1	imię	
 Andrzejkami	Andrzejek	subst:pl:inst:m1	imię	
 Andrzejki	Andrzejek	depr:pl:nom.acc.voc:m2	imię	
@@ -3606,7 +3450,6 @@ Andrzejewskich	Andrzejewski	subst:pl:gen.acc:m1	nazwisko
 Andrzejewskich	Andrzejewski	subst:pl:loc:m1	nazwisko	
 Andrzejewskie	Andrzejewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Andrzejewskiego	Andrzejewski	subst:sg:gen.acc:m1	nazwisko	
-Andrzejewskiego	Andrzejewski	subst:sg:gen:m1	nazwisko	
 Andrzejewskiemu	Andrzejewski	subst:sg:dat:m1	nazwisko	
 Andrzejewskim	Andrzejewski	subst:pl:dat:m1	nazwisko	
 Andrzejewskim	Andrzejewski	subst:sg:inst:m1	nazwisko	
@@ -3679,7 +3522,6 @@ Anettom	Anetta	subst:pl:dat:f	imię
 Anetty	Anetta	subst:pl:nom.acc.voc:f	imię	
 Anetty	Anetta	subst:sg:gen:f	imię	
 Angela	Angel	subst:sg:gen.acc:m1	imię	
-Angela	Angel	subst:sg:gen:m1	imię	
 Angelach	Angel	subst:pl:loc:m1	imię	
 Angelami	Angel	subst:pl:inst:m1	imię	
 Angel	Angel	subst:sg:nom:m1	imię	
@@ -3692,7 +3534,6 @@ Angelów	Angel	subst:pl:gen.acc:m1	imię
 Angelu	Angel	subst:sg:loc:m1	imię	
 Angelu	Angel	subst:sg:voc:m1	imię	
 Angla	Angel	subst:sg:gen.acc:m1	imię	
-Angla	Angel	subst:sg:gen:m1	imię	
 Anglach	Angel	subst:pl:loc:m1	imię	
 Anglami	Angel	subst:pl:inst:m1	imię	
 Angle	Angel	depr:pl:nom.acc.voc:m2	imię	
@@ -3718,7 +3559,6 @@ Angelom	Angela	subst:pl:dat:f	imię
 Angelu	Angela	subst:sg:voc:f	imię	
 Angeles	Angeles	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy geograficznej	
 Angelica	Angelico	subst:sg:gen.acc:m1	imię	
-Angelica	Angelico	subst:sg:gen:m1	imię	
 Angelicach	Angelico	subst:pl:loc:m1	imię	
 Angelicami	Angelico	subst:pl:inst:m1	imię	
 Angelico	Angelico	depr:pl:nom.acc.voc:m2	imię	
@@ -3755,7 +3595,6 @@ Angelinom	Angelina	subst:pl:dat:f	imię
 Angeliny	Angelina	subst:pl:nom.acc.voc:f	imię	
 Angeliny	Angelina	subst:sg:gen:f	imię	
 Angelusa	Angelus	subst:sg:gen.acc:m1	imię	
-Angelusa	Angelus	subst:sg:gen:m1	imię	
 Angelusach	Angelus	subst:pl:loc:m1	imię	
 Angelusami	Angelus	subst:pl:inst:m1	imię	
 Angelus	Angelus	subst:sg:nom:m1	imię	
@@ -3770,7 +3609,6 @@ Angelusów	Angelus	subst:pl:gen.acc:m1	imię
 Angelusy	Angelus	depr:pl:nom.acc.voc:m2	imię	
 Angielczycy	Angielczyk	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 Angielczyka	Angielczyk	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-Angielczyka	Angielczyk	subst:sg:gen:m1	nazwa pospolita	daw.
 Angielczykach	Angielczyk	subst:pl:loc:m1	nazwa pospolita	daw.
 Angielczykami	Angielczyk	subst:pl:inst:m1	nazwa pospolita	daw.
 Angielczyk	Angielczyk	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -3806,7 +3644,6 @@ Anglio	Anglia	subst:sg:voc:f	nazwa geograficzna
 Angliom	Anglia	subst:pl:dat:f	nazwa geograficzna	
 Anglicy	Anglik	subst:pl:nom.voc:m1	nazwa pospolita	
 Anglika	Anglik	subst:sg:gen.acc:m1	nazwa pospolita	
-Anglika	Anglik	subst:sg:gen:m1	nazwa pospolita	
 Anglikach	Anglik	subst:pl:loc:m1	nazwa pospolita	
 Anglikami	Anglik	subst:pl:inst:m1	nazwa pospolita	
 Anglik	Anglik	subst:sg:nom:m1	nazwa pospolita	
@@ -3818,7 +3655,6 @@ Anglików	Anglik	subst:pl:gen.acc:m1	nazwa pospolita
 Angliku	Anglik	subst:sg:loc:m1	nazwa pospolita	
 Angliku	Anglik	subst:sg:voc:m1	nazwa pospolita	
 Anglosasa	Anglosas	subst:sg:gen.acc:m1	nazwa pospolita	erud.
-Anglosasa	Anglosas	subst:sg:gen:m1	nazwa pospolita	erud.
 Anglosasach	Anglosas	subst:pl:loc:m1	nazwa pospolita	erud.
 Anglosasami	Anglosas	subst:pl:inst:m1	nazwa pospolita	erud.
 Anglosas	Anglosas	subst:sg:nom:m1	nazwa pospolita	erud.
@@ -3831,7 +3667,6 @@ Anglosasowi	Anglosas	subst:sg:dat:m1	nazwa pospolita	erud.
 Anglosasów	Anglosas	subst:pl:gen.acc:m1	nazwa pospolita	erud.
 Anglosasy	Anglosas	depr:pl:nom.acc.voc:m2	nazwa pospolita	erud.
 Angola	Angol	subst:sg:gen.acc:m1	nazwa pospolita	pot.
-Angola	Angol	subst:sg:gen:m1	nazwa pospolita	pot.
 Angolach	Angol	subst:pl:loc:m1	nazwa pospolita	pot.
 Angolami	Angol	subst:pl:inst:m1	nazwa pospolita	pot.
 Angol	Angol	subst:sg:nom:m1	nazwa pospolita	pot.
@@ -3857,7 +3692,6 @@ Angolo	Angola	subst:sg:voc:f	nazwa geograficzna
 Angolom	Angola	subst:pl:dat:f	nazwa geograficzna	
 Angolijczycy	Angolijczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Angolijczyka	Angolijczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Angolijczyka	Angolijczyk	subst:sg:gen:m1	nazwa pospolita	
 Angolijczykach	Angolijczyk	subst:pl:loc:m1	nazwa pospolita	
 Angolijczykami	Angolijczyk	subst:pl:inst:m1	nazwa pospolita	
 Angolijczyk	Angolijczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -3881,7 +3715,6 @@ Angolijko	Angolijka	subst:sg:voc:f	nazwa pospolita
 Angolijkom	Angolijka	subst:pl:dat:f	nazwa pospolita	
 Anhelle	Anhelli	depr:pl:nom.acc.voc:m2	imię	
 Anhellego	Anhelli	subst:sg:gen.acc:m1	imię	
-Anhellego	Anhelli	subst:sg:gen:m1	imię	
 Anhellemu	Anhelli	subst:sg:dat:m1	imię	
 Anhelli	Anhelli	subst:sg:nom:m1	imię	
 Anhelli	Anhelli	subst:sg:voc:m1	imię	
@@ -3908,7 +3741,6 @@ Aniceci	Anicet	subst:pl:nom.voc:m1	imię
 Anicecie	Anicet	subst:sg:loc:m1	imię	
 Anicecie	Anicet	subst:sg:voc:m1	imię	
 Aniceta	Anicet	subst:sg:gen.acc:m1	imię	
-Aniceta	Anicet	subst:sg:gen:m1	imię	
 Anicetach	Anicet	subst:pl:loc:m1	imię	
 Anicetami	Anicet	subst:pl:inst:m1	imię	
 Anicet	Anicet	subst:sg:nom:m1	imię	
@@ -3971,7 +3803,6 @@ Anieli	Anioł	subst:pl:nom.voc:m1	nazwisko
 Aniole	Anioł	subst:sg:loc:m1	nazwisko	
 Aniole	Anioł	subst:sg:voc:m1	nazwisko	
 Anioła	Anioł	subst:sg:gen.acc:m1	nazwisko	
-Anioła	Anioł	subst:sg:gen:m1	nazwisko	
 Aniołach	Anioł	subst:pl:loc:m1	nazwisko	
 Aniołami	Anioł	subst:pl:inst:m1	nazwisko	
 Anioł	Anioł	subst:sg:nom:m1	nazwisko	
@@ -4015,7 +3846,6 @@ Ankary	Ankara	subst:pl:nom.acc.voc:f	nazwa geograficzna
 Ankary	Ankara	subst:sg:gen:f	nazwa geograficzna	
 Ankarze	Ankara	subst:sg:dat.loc:f	nazwa geograficzna	
 Ankwicza	Ankwicz	subst:sg:gen.acc:m1	nazwisko	
-Ankwicza	Ankwicz	subst:sg:gen:m1	nazwisko	
 Ankwiczach	Ankwicz	subst:pl:loc:m1	nazwisko	
 Ankwiczami	Ankwicz	subst:pl:inst:m1	nazwisko	
 Ankwicz	Ankwicz	subst:sg:nom:m1	nazwisko	
@@ -4051,7 +3881,6 @@ Annom	Anna	subst:pl:dat:f	imię
 Anny	Anna	subst:pl:nom.acc.voc:f	imię	
 Anny	Anna	subst:sg:gen:f	imię	
 Annasza	Annasz	subst:sg:gen.acc:m1	imię	bibl.
-Annasza	Annasz	subst:sg:gen:m1	imię	bibl.
 Annaszach	Annasz	subst:pl:loc:m1	imię	bibl.
 Annaszami	Annasz	subst:pl:inst:m1	imię	bibl.
 Annasz	Annasz	subst:sg:nom:m1	imię	bibl.
@@ -4089,7 +3918,6 @@ Annopolów	Annopol	subst:pl:gen:m3	nazwa geograficzna
 Annopolu	Annopol	subst:sg:loc:m3	nazwa geograficzna	
 Annopolu	Annopol	subst:sg:voc:m3	nazwa geograficzna	
 Anouilha	Anouilh	subst:sg:gen.acc:m1	nazwisko	
-Anouilha	Anouilh	subst:sg:gen:m1	nazwisko	
 Anouilhach	Anouilh	subst:pl:loc:m1	nazwisko	
 Anouilhami	Anouilh	subst:pl:inst:m1	nazwisko	
 Anouilh	Anouilh	subst:sg:nom:m1	nazwisko	
@@ -4138,7 +3966,6 @@ Antarktyki	Antarktyka	subst:sg:gen:f	nazwa geograficzna
 Antarktyko	Antarktyka	subst:sg:voc:f	nazwa geograficzna	
 Antarktykom	Antarktyka	subst:pl:dat:f	nazwa geograficzna	
 Antczaka	Antczak	subst:sg:gen.acc:m1	nazwisko	
-Antczaka	Antczak	subst:sg:gen:m1	nazwisko	
 Antczakach	Antczak	subst:pl:loc:m1	nazwisko	
 Antczakami	Antczak	subst:pl:inst:m1	nazwisko	
 Antczak	Antczak	subst:sg:nom:m1	nazwisko	
@@ -4154,7 +3981,6 @@ Ante	Ante	depr:pl:nom.acc.voc:m2	imię
 Ante	Ante	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	imię	
 Antek	Antek	subst:sg:nom:m1	imię	
 Antka	Antek	subst:sg:gen.acc:m1	imię	
-Antka	Antek	subst:sg:gen:m1	imię	
 Antkach	Antek	subst:pl:loc:m1	imię	
 Antkami	Antek	subst:pl:inst:m1	imię	
 Antki	Antek	depr:pl:nom.acc.voc:m2	imię	
@@ -4166,7 +3992,6 @@ Antków	Antek	subst:pl:gen.acc:m1	imię
 Antku	Antek	subst:sg:loc:m1	imię	
 Antku	Antek	subst:sg:voc:m1	imię	
 Antemiusza	Antemiusz	subst:sg:gen.acc:m1	imię	
-Antemiusza	Antemiusz	subst:sg:gen:m1	imię	
 Antemiuszach	Antemiusz	subst:pl:loc:m1	imię	
 Antemiuszami	Antemiusz	subst:pl:inst:m1	imię	
 Antemiusz	Antemiusz	subst:sg:nom:m1	imię	
@@ -4180,7 +4005,6 @@ Antemiuszów	Antemiusz	subst:pl:gen.acc:m1	imię
 Antemiuszu	Antemiusz	subst:sg:loc:m1	imię	
 Antemiuszu	Antemiusz	subst:sg:voc:m1	imię	
 Antenora	Antenor	subst:sg:gen.acc:m1	imię	mit.
-Antenora	Antenor	subst:sg:gen:m1	imię	mit.
 Antenorach	Antenor	subst:pl:loc:m1	imię	mit.
 Antenorami	Antenor	subst:pl:inst:m1	imię	mit.
 Antenor	Antenor	subst:sg:nom:m1	imię	mit.
@@ -4194,7 +4018,6 @@ Antenorze	Antenor	subst:sg:loc:m1	imię	mit.
 Antenorze	Antenor	subst:sg:voc:m1	imię	mit.
 Antenorzy	Antenor	subst:pl:nom.voc:m1	imię	mit.
 Antiocha	Antioch	subst:sg:gen.acc:m1	imię	
-Antiocha	Antioch	subst:sg:gen:m1	imię	
 Antiochach	Antioch	subst:pl:loc:m1	imię	
 Antiochami	Antioch	subst:pl:inst:m1	imię	
 Antioch	Antioch	subst:sg:nom:m1	imię	
@@ -4219,7 +4042,6 @@ Antiochij	Antiochia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Antiochio	Antiochia	subst:sg:voc:f	nazwa geograficzna	
 Antiochiom	Antiochia	subst:pl:dat:f	nazwa geograficzna	
 Antkowiaka	Antkowiak	subst:sg:gen.acc:m1	nazwisko	
-Antkowiaka	Antkowiak	subst:sg:gen:m1	nazwisko	
 Antkowiakach	Antkowiak	subst:pl:loc:m1	nazwisko	
 Antkowiakami	Antkowiak	subst:pl:inst:m1	nazwisko	
 Antkowiak	Antkowiak	subst:sg:nom:m1	nazwisko	
@@ -4237,7 +4059,6 @@ Antonich	Antoni	subst:pl:gen.acc:m1	imię
 Antonich	Antoni	subst:pl:loc:m1	imię	
 Antonie	Antoni	depr:pl:nom.acc.voc:m2	imię	
 Antoniego	Antoni	subst:sg:gen.acc:m1	imię	
-Antoniego	Antoni	subst:sg:gen:m1	imię	
 Antoniemu	Antoni	subst:sg:dat:m1	imię	
 Antonim	Antoni	subst:pl:dat:m1	imię	
 Antonim	Antoni	subst:sg:inst:m1	imię	
@@ -4245,7 +4066,6 @@ Antonim	Antoni	subst:sg:loc:m1	imię
 Antonimi	Antoni	subst:pl:inst:m1	imię	
 Antoniowie	Antoni	subst:pl:nom.voc:m1	imię	
 Antonina	Antonin	subst:sg:gen.acc:m1	imię	
-Antonina	Antonin	subst:sg:gen:m1	imię	
 Antoninach	Antonin	subst:pl:loc:m1	imię	
 Antoninami	Antonin	subst:pl:inst:m1	imię	
 Antonin	Antonin	subst:sg:nom:m1	imię	
@@ -4270,7 +4090,6 @@ Antoninom	Antonina	subst:pl:dat:f	imię
 Antoniny	Antonina	subst:pl:nom.acc.voc:f	imię	
 Antoniny	Antonina	subst:sg:gen:f	imię	
 Antonia	Antonio	subst:sg:gen.acc:m1	imię	
-Antonia	Antonio	subst:sg:gen:m1	imię	
 Antoniach	Antonio	subst:pl:loc:m1	imię	
 Antoniami	Antonio	subst:pl:inst:m1	imię	
 Antonie	Antonio	depr:pl:nom.acc.voc:m2	imię	
@@ -4289,7 +4108,6 @@ Antonionich	Antonioni	subst:pl:gen.acc:m1	nazwisko
 Antonionich	Antonioni	subst:pl:loc:m1	nazwisko	
 Antonionie	Antonioni	depr:pl:nom.acc.voc:m2	nazwisko	
 Antonioniego	Antonioni	subst:sg:gen.acc:m1	nazwisko	
-Antonioniego	Antonioni	subst:sg:gen:m1	nazwisko	
 Antonioniemu	Antonioni	subst:sg:dat:m1	nazwisko	
 Antonionim	Antonioni	subst:pl:dat:m1	nazwisko	
 Antonionim	Antonioni	subst:sg:inst:m1	nazwisko	
@@ -4297,7 +4115,6 @@ Antonionim	Antonioni	subst:sg:loc:m1	nazwisko
 Antonionimi	Antonioni	subst:pl:inst:m1	nazwisko	
 Antonioniowie	Antonioni	subst:pl:nom.voc:m1	nazwisko	
 Antoniusza	Antoniusz	subst:sg:gen.acc:m1	imię	
-Antoniusza	Antoniusz	subst:sg:gen:m1	imię	
 Antoniuszach	Antoniusz	subst:pl:loc:m1	imię	
 Antoniuszami	Antoniusz	subst:pl:inst:m1	imię	
 Antoniusz	Antoniusz	subst:sg:nom:m1	imię	
@@ -4323,7 +4140,6 @@ Antosiom	Antosia	subst:pl:dat:f	imię
 Antosiu	Antosia	subst:sg:voc:f	imię	
 Antoś	Antosia	subst:pl:gen:f	imię	char.
 Antosia	Antoś	subst:sg:gen.acc:m1	imię	
-Antosia	Antoś	subst:sg:gen:m1	imię	
 Antosiach	Antoś	subst:pl:loc:m1	imię	
 Antosiami	Antoś	subst:pl:inst:m1	imię	
 Antosie	Antoś	depr:pl:nom.acc.voc:m2	imię	
@@ -4370,7 +4186,6 @@ Antyli	Antyle	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Antylom	Antyle	subst:pl:dat:n:pt	nazwa geograficzna	
 Antylom	Antyle	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Antyma	Antym	subst:sg:gen.acc:m1	imię	
-Antyma	Antym	subst:sg:gen:m1	imię	
 Antymach	Antym	subst:pl:loc:m1	imię	
 Antymami	Antym	subst:pl:inst:m1	imię	
 Antym	Antym	subst:sg:nom:m1	imię	
@@ -4384,7 +4199,6 @@ Antymowie	Antym	subst:pl:nom.voc:m1	imię
 Antymów	Antym	subst:pl:gen.acc:m1	imię	
 Antymy	Antym	depr:pl:nom.acc.voc:m2	imię	
 Antypasa	Antypas	subst:sg:gen.acc:m1	imię	
-Antypasa	Antypas	subst:sg:gen:m1	imię	
 Antypasach	Antypas	subst:pl:loc:m1	imię	
 Antypasami	Antypas	subst:pl:inst:m1	imię	
 Antypas	Antypas	subst:sg:nom:m1	imię	
@@ -4421,7 +4235,6 @@ Anusiom	Anusia	subst:pl:dat:f	imię
 Anusiu	Anusia	subst:sg:voc:f	imię	
 Anuś	Anusia	subst:pl:gen:f	imię	char.
 Anusiewicza	Anusiewicz	subst:sg:gen.acc:m1	nazwisko	
-Anusiewicza	Anusiewicz	subst:sg:gen:m1	nazwisko	
 Anusiewiczach	Anusiewicz	subst:pl:loc:m1	nazwisko	
 Anusiewiczami	Anusiewicz	subst:pl:inst:m1	nazwisko	
 Anusiewicz	Anusiewicz	subst:sg:nom:m1	nazwisko	
@@ -4435,7 +4248,6 @@ Anusiewiczów	Anusiewicz	subst:pl:gen.acc:m1	nazwisko
 Anusiewiczu	Anusiewicz	subst:sg:loc:m1	nazwisko	
 Anusiewiczu	Anusiewicz	subst:sg:voc:m1	nazwisko	
 Anzelma	Anzelm	subst:sg:gen.acc:m1	imię	
-Anzelma	Anzelm	subst:sg:gen:m1	imię	
 Anzelmach	Anzelm	subst:pl:loc:m1	imię	
 Anzelmami	Anzelm	subst:pl:inst:m1	imię	
 Anzelm	Anzelm	subst:sg:nom:m1	imię	
@@ -4482,7 +4294,6 @@ AP-om	APA	subst:pl:dat:f	nazwa firmy
 AP-y	APA	subst:pl:nom.acc.voc:f	nazwa firmy	
 AP-y	APA	subst:sg:gen:f	nazwa firmy	
 Apacza	Apacz	subst:sg:gen.acc:m1	nazwa pospolita	
-Apacza	Apacz	subst:sg:gen:m1	nazwa pospolita	
 Apaczach	Apacz	subst:pl:loc:m1	nazwa pospolita	
 Apaczami	Apacz	subst:pl:inst:m1	nazwa pospolita	
 Apacz	Apacz	subst:sg:nom:m1	nazwa pospolita	
@@ -4543,7 +4354,6 @@ Apiom	Apia	subst:pl:dat:f	nazwa geograficzna
 Apok	Apokalipsa_świętego_Jana	brev:pun		
 Ap	Apokalipsa_świętego_Jana	brev:npun		
 Apolinariusza	Apolinariusz	subst:sg:gen.acc:m1	imię	
-Apolinariusza	Apolinariusz	subst:sg:gen:m1	imię	
 Apolinariuszach	Apolinariusz	subst:pl:loc:m1	imię	
 Apolinariuszami	Apolinariusz	subst:pl:inst:m1	imię	
 Apolinariusz	Apolinariusz	subst:sg:nom:m1	imię	
@@ -4558,7 +4368,6 @@ Apolinariuszu	Apolinariusz	subst:sg:loc:m1	imię
 Apolinariuszu	Apolinariusz	subst:sg:voc:m1	imię	
 Apolinare	Apolinary	depr:pl:nom.acc.voc:m2	imię	
 Apolinarego	Apolinary	subst:sg:gen.acc:m1	imię	
-Apolinarego	Apolinary	subst:sg:gen:m1	imię	
 Apolinaremu	Apolinary	subst:sg:dat:m1	imię	
 Apolinarowie	Apolinary	subst:pl:nom.voc:m1	imię	
 Apolinary	Apolinary	subst:sg:nom:m1	imię	
@@ -4570,7 +4379,6 @@ Apolinarym	Apolinary	subst:sg:inst:m1	imię
 Apolinarym	Apolinary	subst:sg:loc:m1	imię	
 Apolinarymi	Apolinary	subst:pl:inst:m1	imię	
 Apollina	Apollin	subst:sg:gen.acc:m1	imię	
-Apollina	Apollin	subst:sg:gen:m1	imię	
 Apollinach	Apollin	subst:pl:loc:m1	imię	
 Apollinami	Apollin	subst:pl:inst:m1	imię	
 Apollin	Apollin	subst:sg:nom:m1	imię	
@@ -4583,7 +4391,6 @@ Apollinowie	Apollin	subst:pl:nom.voc:m1	imię
 Apollinów	Apollin	subst:pl:gen.acc:m1	imię	
 Apolliny	Apollin	depr:pl:nom.acc.voc:m2	imię	
 Apollinaire’a	Apollinaire	subst:sg:gen.acc:m1	nazwisko	
-Apollinaire’a	Apollinaire	subst:sg:gen:m1	nazwisko	
 Apollinaire’ach	Apollinaire	subst:pl:loc:m1	nazwisko	
 Apollinaire’ami	Apollinaire	subst:pl:inst:m1	nazwisko	
 Apollinaire	Apollinaire	subst:sg:nom:m1	nazwisko	
@@ -4596,13 +4403,11 @@ Apollinaire’y	Apollinaire	depr:pl:nom.acc.voc:m2	nazwisko
 Apollinairze	Apollinaire	subst:sg:loc:m1	nazwisko	
 Apollinairze	Apollinaire	subst:sg:voc:m1	nazwisko	
 Apolla	Apollo	subst:sg:gen.acc:m1	imię	
-Apolla	Apollo	subst:sg:gen:m1	imię	
 Apollach	Apollo	subst:pl:loc:m1	imię	
 Apollami	Apollo	subst:pl:inst:m1	imię	
 Apolle	Apollo	depr:pl:nom.acc.voc:m2	imię	
 Apollem	Apollo	subst:sg:inst:m1	imię	
 Apollina	Apollo	subst:sg:gen.acc:m1	imię	
-Apollina	Apollo	subst:sg:gen:m1	imię	
 Apollinach	Apollo	subst:pl:loc:m1	imię	
 Apollinami	Apollo	subst:pl:inst:m1	imię	
 Apollinem	Apollo	subst:sg:inst:m1	imię	
@@ -4621,7 +4426,6 @@ Apollów	Apollo	subst:pl:gen.acc:m1	imię
 Apollu	Apollo	subst:sg:loc:m1	imię	
 Apollu	Apollo	subst:sg:voc:m1	imię	
 Apollona	Apollon	subst:sg:gen.acc:m1	imię	
-Apollona	Apollon	subst:sg:gen:m1	imię	
 Apollonach	Apollon	subst:pl:loc:m1	imię	
 Apollonami	Apollon	subst:pl:inst:m1	imię	
 Apollon	Apollon	subst:sg:nom:m1	imię	
@@ -4646,7 +4450,6 @@ Apolonij	Apolonia	subst:pl:gen:f	imię	arch.|char.
 Apolonio	Apolonia	subst:sg:voc:f	imię	
 Apoloniom	Apolonia	subst:pl:dat:f	imię	
 Apoloniusza	Apoloniusz	subst:sg:gen.acc:m1	imię	
-Apoloniusza	Apoloniusz	subst:sg:gen:m1	imię	
 Apoloniuszach	Apoloniusz	subst:pl:loc:m1	imię	
 Apoloniuszami	Apoloniusz	subst:pl:inst:m1	imię	
 Apoloniusz	Apoloniusz	subst:sg:nom:m1	imię	
@@ -4670,7 +4473,6 @@ Appalachów	Appalachy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Appalachy	Appalachy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
 Appalachy	Appalachy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Apresjana	Apresjan	subst:sg:gen.acc:m1	nazwisko	
-Apresjana	Apresjan	subst:sg:gen:m1	nazwisko	
 Apresjanach	Apresjan	subst:pl:loc:m1	nazwisko	
 Apresjanami	Apresjan	subst:pl:inst:m1	nazwisko	
 Apresjan	Apresjan	subst:sg:nom:m1	nazwisko	
@@ -4722,7 +4524,6 @@ AR-y	AR	subst:pl:nom.acc.voc:m3	nazwa instytucji
 AR-ze	AR	subst:sg:loc:m3	nazwa instytucji	
 AR-ze	AR	subst:sg:voc:m3	nazwa instytucji	
 Araba	Arab	subst:sg:gen.acc:m1	nazwa pospolita	
-Araba	Arab	subst:sg:gen:m1	nazwa pospolita	
 Arabach	Arab	subst:pl:loc:m1	nazwa pospolita	
 Arabami	Arab	subst:pl:inst:m1	nazwa pospolita	
 Arab	Arab	subst:sg:nom:m1	nazwa pospolita	
@@ -4735,7 +4536,6 @@ Arabowie	Arab	subst:pl:nom.voc:m1	nazwa pospolita
 Arabów	Arab	subst:pl:gen.acc:m1	nazwa pospolita	
 Araby	Arab	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Arabczyka	Arabczyk	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-Arabczyka	Arabczyk	subst:sg:gen:m1	nazwa pospolita	daw.
 Arabczykach	Arabczyk	subst:pl:loc:m1	nazwa pospolita	daw.
 Arabczykami	Arabczyk	subst:pl:inst:m1	nazwa pospolita	daw.
 Arabczyk	Arabczyk	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -4774,7 +4574,6 @@ Arachne	Arachne	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	imię	mit.
 Arafacie	Arafat	subst:sg:loc:m1	nazwisko	
 Arafacie	Arafat	subst:sg:voc:m1	nazwisko	
 Arafata	Arafat	subst:sg:gen.acc:m1	nazwisko	
-Arafata	Arafat	subst:sg:gen:m1	nazwisko	
 Arafatach	Arafat	subst:pl:loc:m1	nazwisko	
 Arafatami	Arafat	subst:pl:inst:m1	nazwisko	
 Arafat	Arafat	subst:sg:nom:m1	nazwisko	
@@ -4785,7 +4584,6 @@ Arafatowie	Arafat	subst:pl:nom.voc:m1	nazwisko
 Arafatów	Arafat	subst:pl:gen.acc:m1	nazwisko	
 Arafaty	Arafat	depr:pl:nom.acc.voc:m2	nazwisko	
 Aragona	Aragon	subst:sg:gen.acc:m1	nazwisko	
-Aragona	Aragon	subst:sg:gen:m1	nazwisko	
 Aragonach	Aragon	subst:pl:loc:m1	nazwisko	
 Aragonami	Aragon	subst:pl:inst:m1	nazwisko	
 Aragon	Aragon	subst:sg:nom:m1	nazwisko	
@@ -4833,7 +4631,6 @@ Araźnym	Araźna	subst:pl:dat:f	nazwisko
 Araźnymi	Araźna	subst:pl:inst:f	nazwisko	
 Araźne	Araźny	depr:pl:nom.acc.voc:m2	nazwisko	
 Araźnego	Araźny	subst:sg:gen.acc:m1	nazwisko	
-Araźnego	Araźny	subst:sg:gen:m1	nazwisko	
 Araźnemu	Araźny	subst:sg:dat:m1	nazwisko	
 Araźni	Araźny	subst:pl:nom.voc:m1	nazwisko	
 Araźny	Araźny	subst:sg:nom:m1	nazwisko	
@@ -4856,7 +4653,6 @@ Archangielsków	Archangielsk	subst:pl:gen:m3	nazwa geograficzna
 Archangielsku	Archangielsk	subst:sg:loc:m3	nazwa geograficzna	
 Archangielsku	Archangielsk	subst:sg:voc:m3	nazwa geograficzna	
 Archimedesa	Archimedes	subst:sg:gen.acc:m1	imię	
-Archimedesa	Archimedes	subst:sg:gen:m1	imię	
 Archimedesach	Archimedes	subst:pl:loc:m1	imię	
 Archimedesami	Archimedes	subst:pl:inst:m1	imię	
 Archimedes	Archimedes	subst:sg:nom:m1	imię	
@@ -4870,7 +4666,6 @@ Archimedesowie	Archimedes	subst:pl:nom.voc:m1	imię
 Archimedesów	Archimedes	subst:pl:gen.acc:m1	imię	
 Archimedesy	Archimedes	depr:pl:nom.acc.voc:m2	imię	
 Archipa	Archip	subst:sg:gen.acc:m1	imię	
-Archipa	Archip	subst:sg:gen:m1	imię	
 Archipach	Archip	subst:pl:loc:m1	imię	
 Archipami	Archip	subst:pl:inst:m1	imię	
 Archip	Archip	subst:sg:nom:m1	imię	
@@ -4885,7 +4680,6 @@ Archipy	Archip	depr:pl:nom.acc.voc:m2	imię
 Arccie	Arct	subst:sg:loc:m1	nazwisko	
 Arccie	Arct	subst:sg:voc:m1	nazwisko	
 Arcta	Arct	subst:sg:gen.acc:m1	nazwisko	
-Arcta	Arct	subst:sg:gen:m1	nazwisko	
 Arctach	Arct	subst:pl:loc:m1	nazwisko	
 Arctami	Arct	subst:pl:inst:m1	nazwisko	
 Arct	Arct	subst:sg:nom:m1	nazwisko	
@@ -4908,7 +4702,6 @@ Arctowym	Arctowa	subst:pl:dat:f	nazwisko
 Arctowymi	Arctowa	subst:pl:inst:f	nazwisko	
 Arek	Arek	subst:sg:nom:m1	imię	
 Arka	Arek	subst:sg:gen.acc:m1	imię	
-Arka	Arek	subst:sg:gen:m1	imię	
 Arkach	Arek	subst:pl:loc:m1	imię	
 Arkami	Arek	subst:pl:inst:m1	imię	
 Arki	Arek	depr:pl:nom.acc.voc:m2	imię	
@@ -4937,7 +4730,6 @@ Arendarskich	Arendarski	subst:pl:gen.acc:m1	nazwisko
 Arendarskich	Arendarski	subst:pl:loc:m1	nazwisko	
 Arendarskie	Arendarski	depr:pl:nom.acc.voc:m2	nazwisko	
 Arendarskiego	Arendarski	subst:sg:gen.acc:m1	nazwisko	
-Arendarskiego	Arendarski	subst:sg:gen:m1	nazwisko	
 Arendarskiemu	Arendarski	subst:sg:dat:m1	nazwisko	
 Arendarskim	Arendarski	subst:pl:dat:m1	nazwisko	
 Arendarskim	Arendarski	subst:sg:inst:m1	nazwisko	
@@ -4946,7 +4738,6 @@ Arendarskimi	Arendarski	subst:pl:inst:m1	nazwisko
 Arendcie	Arendt	subst:sg:loc:m1	nazwisko	
 Arendcie	Arendt	subst:sg:voc:m1	nazwisko	
 Arendta	Arendt	subst:sg:gen.acc:m1	nazwisko	
-Arendta	Arendt	subst:sg:gen:m1	nazwisko	
 Arendtach	Arendt	subst:pl:loc:m1	nazwisko	
 Arendtami	Arendt	subst:pl:inst:m1	nazwisko	
 Arendt	Arendt	subst:sg:nom:m1	nazwisko	
@@ -4957,7 +4748,6 @@ Arendtowie	Arendt	subst:pl:nom.voc:m1	nazwisko
 Arendtów	Arendt	subst:pl:gen.acc:m1	nazwisko	
 Arendty	Arendt	depr:pl:nom.acc.voc:m2	nazwisko	
 Aresa	Ares	subst:sg:gen.acc:m1	imię	
-Aresa	Ares	subst:sg:gen:m1	imię	
 Aresach	Ares	subst:pl:loc:m1	imię	
 Aresami	Ares	subst:pl:inst:m1	imię	
 Ares	Ares	subst:sg:nom:m1	imię	
@@ -4994,7 +4784,6 @@ Argentynko	Argentynka	subst:sg:voc:f	nazwa pospolita
 Argentynkom	Argentynka	subst:pl:dat:f	nazwa pospolita	
 Argentyńczycy	Argentyńczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Argentyńczyka	Argentyńczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Argentyńczyka	Argentyńczyk	subst:sg:gen:m1	nazwa pospolita	
 Argentyńczykach	Argentyńczyk	subst:pl:loc:m1	nazwa pospolita	
 Argentyńczykami	Argentyńczyk	subst:pl:inst:m1	nazwa pospolita	
 Argentyńczyk	Argentyńczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -5018,7 +4807,6 @@ Argolidy	Argolida	subst:sg:gen:f	nazwa geograficzna
 Argolidzie	Argolida	subst:sg:dat.loc:f	nazwa geograficzna	
 Argos	Argos:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
 Argosa	Argos:s2	subst:sg:gen.acc:m2	imię	mit.
-Argosa	Argos:s2	subst:sg:gen:m2	imię	mit.
 Argosach	Argos:s2	subst:pl:loc:m2	imię	mit.
 Argosami	Argos:s2	subst:pl:inst:m2	imię	mit.
 Argos	Argos:s2	subst:sg:nom:m2	imię	mit.
@@ -5030,7 +4818,6 @@ Argosowi	Argos:s2	subst:sg:dat:m2	imię	mit.
 Argosów	Argos:s2	subst:pl:gen:m2	imię	mit.
 Argosy	Argos:s2	subst:pl:nom.acc.voc:m2	imię	mit.
 Argusa	Argus	subst:sg:gen.acc:m1	imię	mit.
-Argusa	Argus	subst:sg:gen:m1	imię	mit.
 Argusach	Argus	subst:pl:loc:m1	imię	mit.
 Argusami	Argus	subst:pl:inst:m1	imię	mit.
 Argus	Argus	subst:sg:nom:m1	imię	mit.
@@ -5049,7 +4836,6 @@ Arią	Aria	subst:sg:inst:m1	nazwa pospolita	etn.
 Arie	Aria	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
 Arię	Aria	subst:sg:acc:m1	nazwa pospolita	etn.
 Arii	Aria	subst:sg:dat.loc:m1	nazwa pospolita	etn.
-Arii	Aria	subst:sg:gen:m1	nazwa pospolita	etn.
 Ario	Aria	subst:sg:voc:m1	nazwa pospolita	etn.
 Ariom	Aria	subst:pl:dat:m1	nazwa pospolita	etn.
 Ariowie	Aria	subst:pl:nom.voc:m1	nazwa pospolita	etn.
@@ -5100,7 +4886,6 @@ ARiMR-y	ARiMR	subst:pl:nom.acc.voc:m3	nazwa instytucji
 ARiMR-ze	ARiMR	subst:sg:loc:m3	nazwa instytucji	
 ARiMR-ze	ARiMR	subst:sg:voc:m3	nazwa instytucji	
 Ariosta	Ariosto	subst:sg:gen.acc:m1	nazwisko	
-Ariosta	Ariosto	subst:sg:gen:m1	nazwisko	
 Ariostach	Ariosto	subst:pl:loc:m1	nazwisko	
 Ariostami	Ariosto	subst:pl:inst:m1	nazwisko	
 Ariostem	Ariosto	subst:sg:inst:m1	nazwisko	
@@ -5113,7 +4898,6 @@ Ariostów	Ariosto	subst:pl:gen.acc:m1	nazwisko
 Ariosty	Ariosto	depr:pl:nom.acc.voc:m2	nazwisko	
 Arioście	Ariosto	subst:sg:loc:m1	nazwisko	
 Aristide’a	Aristide	subst:sg:gen.acc:m1	imię|nazwisko	
-Aristide’a	Aristide	subst:sg:gen:m1	imię|nazwisko	
 Aristide’ach	Aristide	subst:pl:loc:m1	imię|nazwisko	
 Aristide’ami	Aristide	subst:pl:inst:m1	imię|nazwisko	
 Aristide	Aristide	subst:sg:nom:m1	imię|nazwisko	
@@ -5149,7 +4933,6 @@ Arkadio	Arkadia	subst:sg:voc:f	nazwa geograficzna
 Arkadiom	Arkadia	subst:pl:dat:f	nazwa geograficzna	
 Arkadyj	Arkadia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Arkadiusza	Arkadiusz	subst:sg:gen.acc:m1	imię	
-Arkadiusza	Arkadiusz	subst:sg:gen:m1	imię	
 Arkadiuszach	Arkadiusz	subst:pl:loc:m1	imię	
 Arkadiuszami	Arkadiusz	subst:pl:inst:m1	imię	
 Arkadiusz	Arkadiusz	subst:sg:nom:m1	imię	
@@ -5164,7 +4947,6 @@ Arkadiuszu	Arkadiusz	subst:sg:loc:m1	imię
 Arkadiuszu	Arkadiusz	subst:sg:voc:m1	imię	
 Arkade	Arkady	depr:pl:nom.acc.voc:m2	imię	
 Arkadego	Arkady	subst:sg:gen.acc:m1	imię	
-Arkadego	Arkady	subst:sg:gen:m1	imię	
 Arkademu	Arkady	subst:sg:dat:m1	imię	
 Arkadowie	Arkady	subst:pl:nom.voc:m1	imię	
 Arkady	Arkady	subst:sg:nom:m1	imię	
@@ -5209,7 +4991,6 @@ Arkuszewskich	Arkuszewski	subst:pl:gen.acc:m1	nazwisko
 Arkuszewskich	Arkuszewski	subst:pl:loc:m1	nazwisko	
 Arkuszewskie	Arkuszewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Arkuszewskiego	Arkuszewski	subst:sg:gen.acc:m1	nazwisko	
-Arkuszewskiego	Arkuszewski	subst:sg:gen:m1	nazwisko	
 Arkuszewskiemu	Arkuszewski	subst:sg:dat:m1	nazwisko	
 Arkuszewskim	Arkuszewski	subst:pl:dat:m1	nazwisko	
 Arkuszewskim	Arkuszewski	subst:sg:inst:m1	nazwisko	
@@ -5239,7 +5020,6 @@ Arletty	Arletta	subst:pl:nom.acc.voc:f	imię
 Arletty	Arletta	subst:sg:gen:f	imię	
 Armagnac	Armagnac	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa geograficzna	
 Armanda	Armand	subst:sg:gen.acc:m1	imię	
-Armanda	Armand	subst:sg:gen:m1	imię	
 Armandach	Armand	subst:pl:loc:m1	imię	
 Armandami	Armand	subst:pl:inst:m1	imię	
 Armand	Armand	subst:sg:nom:m1	imię	
@@ -5276,7 +5056,6 @@ Armenko	Armenka	subst:sg:voc:f	nazwa pospolita
 Armenkom	Armenka	subst:pl:dat:f	nazwa pospolita	
 Armeńczycy	Armeńczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Armeńczyka	Armeńczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Armeńczyka	Armeńczyk	subst:sg:gen:m1	nazwa pospolita	
 Armeńczykach	Armeńczyk	subst:pl:loc:m1	nazwa pospolita	
 Armeńczykami	Armeńczyk	subst:pl:inst:m1	nazwa pospolita	
 Armeńczyk	Armeńczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -5288,7 +5067,6 @@ Armeńczyków	Armeńczyk	subst:pl:gen.acc:m1	nazwa pospolita
 Armeńczyku	Armeńczyk	subst:sg:loc:m1	nazwa pospolita	
 Armeńczyku	Armeńczyk	subst:sg:voc:m1	nazwa pospolita	
 Armstronga	Armstrong	subst:sg:gen.acc:m1	nazwisko	
-Armstronga	Armstrong	subst:sg:gen:m1	nazwisko	
 Armstrongach	Armstrong	subst:pl:loc:m1	nazwisko	
 Armstrongami	Armstrong	subst:pl:inst:m1	nazwisko	
 Armstrong	Armstrong	subst:sg:nom:m1	nazwisko	
@@ -5313,7 +5091,6 @@ Arnhemów	Arnhem	subst:pl:gen:m3	nazwa geograficzna
 Arnhemu	Arnhem	subst:sg:gen:m3	nazwa geograficzna	
 Arnhemy	Arnhem	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Arnolda	Arnold	subst:sg:gen.acc:m1	imię	
-Arnolda	Arnold	subst:sg:gen:m1	imię	
 Arnoldach	Arnold	subst:pl:loc:m1	imię	
 Arnoldami	Arnold	subst:pl:inst:m1	imię	
 Arnold	Arnold	subst:sg:nom:m1	imię	
@@ -5326,7 +5103,6 @@ Arnoldy	Arnold	depr:pl:nom.acc.voc:m2	imię
 Arnoldzie	Arnold	subst:sg:loc:m1	imię	
 Arnoldzie	Arnold	subst:sg:voc:m1	imię	
 Arnolfa	Arnolf	subst:sg:gen.acc:m1	imię	
-Arnolfa	Arnolf	subst:sg:gen:m1	imię	
 Arnolfach	Arnolf	subst:pl:loc:m1	imię	
 Arnolfami	Arnolf	subst:pl:inst:m1	imię	
 Arnolf	Arnolf	subst:sg:nom:m1	imię	
@@ -5340,7 +5116,6 @@ Arnolfowie	Arnolf	subst:pl:nom.voc:m1	imię
 Arnolfów	Arnolf	subst:pl:gen.acc:m1	imię	
 Arnolfy	Arnolf	depr:pl:nom.acc.voc:m2	imię	
 Arnosza	Arnosz	subst:sg:gen.acc:m1	imię	
-Arnosza	Arnosz	subst:sg:gen:m1	imię	
 Arnoszach	Arnosz	subst:pl:loc:m1	imię	
 Arnoszami	Arnosz	subst:pl:inst:m1	imię	
 Arnosz	Arnosz	subst:sg:nom:m1	imię	
@@ -5354,7 +5129,6 @@ Arnoszów	Arnosz	subst:pl:gen.acc:m1	imię
 Arnoszu	Arnosz	subst:sg:loc:m1	imię	
 Arnoszu	Arnosz	subst:sg:voc:m1	imię	
 Arona	Aron	subst:sg:gen.acc:m1	imię	
-Arona	Aron	subst:sg:gen:m1	imię	
 Aronach	Aron	subst:pl:loc:m1	imię	
 Aronami	Aron	subst:pl:inst:m1	imię	
 Aron	Aron	subst:sg:nom:m1	imię	
@@ -5368,7 +5142,6 @@ Aronowie	Aron	subst:pl:nom.voc:m1	imię
 Aronów	Aron	subst:pl:gen.acc:m1	imię	
 Arony	Aron	depr:pl:nom.acc.voc:m2	imię	
 Arrowa	Arrow	subst:sg:gen.acc:m1	nazwisko	
-Arrowa	Arrow	subst:sg:gen:m1	nazwisko	
 Arrowach	Arrow	subst:pl:loc:m1	nazwisko	
 Arrowami	Arrow	subst:pl:inst:m1	nazwisko	
 Arrow	Arrow	subst:sg:loc:m1	nazwisko	
@@ -5381,7 +5154,6 @@ Arrowowie	Arrow	subst:pl:nom.voc:m1	nazwisko
 Arrowów	Arrow	subst:pl:gen.acc:m1	nazwisko	
 Arrowy	Arrow	depr:pl:nom.acc.voc:m2	nazwisko	
 Arseniusza	Arseniusz	subst:sg:gen.acc:m1	imię	
-Arseniusza	Arseniusz	subst:sg:gen:m1	imię	
 Arseniuszach	Arseniusz	subst:pl:loc:m1	imię	
 Arseniuszami	Arseniusz	subst:pl:inst:m1	imię	
 Arseniusz	Arseniusz	subst:sg:nom:m1	imię	
@@ -5396,7 +5168,6 @@ Arseniuszu	Arseniusz	subst:sg:loc:m1	imię
 Arseniuszu	Arseniusz	subst:sg:voc:m1	imię	
 Artek	Artek	subst:sg:nom:m1	imię	
 Artka	Artek	subst:sg:gen.acc:m1	imię	
-Artka	Artek	subst:sg:gen:m1	imię	
 Artkach	Artek	subst:pl:loc:m1	imię	
 Artkami	Artek	subst:pl:inst:m1	imię	
 Artki	Artek	depr:pl:nom.acc.voc:m2	imię	
@@ -5419,7 +5190,6 @@ Artemidy	Artemida	subst:pl:nom.acc.voc:f	imię	mit.
 Artemidy	Artemida	subst:sg:gen:f	imię	mit.
 Artemidzie	Artemida	subst:sg:dat.loc:f	imię	mit.
 Artemiusza	Artemiusz	subst:sg:gen.acc:m1	imię	
-Artemiusza	Artemiusz	subst:sg:gen:m1	imię	
 Artemiuszach	Artemiusz	subst:pl:loc:m1	imię	
 Artemiuszami	Artemiusz	subst:pl:inst:m1	imię	
 Artemiusz	Artemiusz	subst:sg:nom:m1	imię	
@@ -5433,7 +5203,6 @@ Artemiuszów	Artemiusz	subst:pl:gen.acc:m1	imię
 Artemiuszu	Artemiusz	subst:sg:loc:m1	imię	
 Artemiuszu	Artemiusz	subst:sg:voc:m1	imię	
 Artemona	Artemon	subst:sg:gen.acc:m1	imię	
-Artemona	Artemon	subst:sg:gen:m1	imię	
 Artemonach	Artemon	subst:pl:loc:m1	imię	
 Artemonami	Artemon	subst:pl:inst:m1	imię	
 Artemon	Artemon	subst:sg:nom:m1	imię	
@@ -5447,7 +5216,6 @@ Artemonowie	Artemon	subst:pl:nom.voc:m1	imię
 Artemonów	Artemon	subst:pl:gen.acc:m1	imię	
 Artemony	Artemon	depr:pl:nom.acc.voc:m2	imię	
 Artura	Artur	subst:sg:gen.acc:m1	imię	
-Artura	Artur	subst:sg:gen:m1	imię	
 Arturach	Artur	subst:pl:loc:m1	imię	
 Arturami	Artur	subst:pl:inst:m1	imię	
 Artur	Artur	subst:sg:nom:m1	imię	
@@ -5460,7 +5228,6 @@ Artury	Artur	depr:pl:nom.acc.voc:m2	imię
 Arturze	Artur	subst:sg:loc:m1	imię	
 Arturze	Artur	subst:sg:voc:m1	imię	
 Artusa	Artus	subst:sg:gen.acc:m1	imię	
-Artusa	Artus	subst:sg:gen:m1	imię	
 Artusach	Artus	subst:pl:loc:m1	imię	
 Artusami	Artus	subst:pl:inst:m1	imię	
 Artus	Artus	subst:sg:nom:m1	imię	
@@ -5474,7 +5241,6 @@ Artusowie	Artus	subst:pl:nom.voc:m1	imię
 Artusów	Artus	subst:pl:gen.acc:m1	imię	
 Artusy	Artus	depr:pl:nom.acc.voc:m2	imię	
 Artusia	Artuś	subst:sg:gen.acc:m1	imię	
-Artusia	Artuś	subst:sg:gen:m1	imię	
 Artusiach	Artuś	subst:pl:loc:m1	imię	
 Artusiami	Artuś	subst:pl:inst:m1	imię	
 Artusie	Artuś	depr:pl:nom.acc.voc:m2	imię	
@@ -5500,7 +5266,6 @@ Aruby	Aruba	subst:pl:nom.acc.voc:f	nazwa geograficzna
 Aruby	Aruba	subst:sg:gen:f	nazwa geograficzna	
 Aryjczycy	Aryjczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Aryjczyka	Aryjczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Aryjczyka	Aryjczyk	subst:sg:gen:m1	nazwa pospolita	
 Aryjczykach	Aryjczyk	subst:pl:loc:m1	nazwa pospolita	
 Aryjczykami	Aryjczyk	subst:pl:inst:m1	nazwa pospolita	
 Aryjczyk	Aryjczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -5523,7 +5288,6 @@ Aryjki	Aryjka	subst:sg:gen:f	nazwa pospolita
 Aryjko	Aryjka	subst:sg:voc:f	nazwa pospolita	
 Aryjkom	Aryjka	subst:pl:dat:f	nazwa pospolita	
 Arystarcha	Arystarch	subst:sg:gen.acc:m1	imię	
-Arystarcha	Arystarch	subst:sg:gen:m1	imię	
 Arystarchach	Arystarch	subst:pl:loc:m1	imię	
 Arystarchami	Arystarch	subst:pl:inst:m1	imię	
 Arystarch	Arystarch	subst:sg:nom:m1	imię	
@@ -5536,7 +5300,6 @@ Arystarchu	Arystarch	subst:sg:loc:m1	imię
 Arystarchu	Arystarch	subst:sg:voc:m1	imię	
 Arystarchy	Arystarch	depr:pl:nom.acc.voc:m2	imię	
 Arystofanesa	Arystofanes	subst:sg:gen.acc:m1	imię	
-Arystofanesa	Arystofanes	subst:sg:gen:m1	imię	
 Arystofanesach	Arystofanes	subst:pl:loc:m1	imię	
 Arystofanesami	Arystofanes	subst:pl:inst:m1	imię	
 Arystofanes	Arystofanes	subst:sg:nom:m1	imię	
@@ -5550,7 +5313,6 @@ Arystofanesowie	Arystofanes	subst:pl:nom.voc:m1	imię
 Arystofanesów	Arystofanes	subst:pl:gen.acc:m1	imię	
 Arystofanesy	Arystofanes	depr:pl:nom.acc.voc:m2	imię	
 Arystotelesa	Arystoteles	subst:sg:gen.acc:m1	imię	
-Arystotelesa	Arystoteles	subst:sg:gen:m1	imię	
 Arystotelesach	Arystoteles	subst:pl:loc:m1	imię	
 Arystotelesami	Arystoteles	subst:pl:inst:m1	imię	
 Arystoteles	Arystoteles	subst:sg:nom:m1	imię	
@@ -5564,7 +5326,6 @@ Arystotelesowie	Arystoteles	subst:pl:nom.voc:m1	imię
 Arystotelesów	Arystoteles	subst:pl:gen.acc:m1	imię	
 Arystotelesy	Arystoteles	depr:pl:nom.acc.voc:m2	imię	
 Arystydesa	Arystydes	subst:sg:gen.acc:m1	imię	
-Arystydesa	Arystydes	subst:sg:gen:m1	imię	
 Arystydesach	Arystydes	subst:pl:loc:m1	imię	
 Arystydesami	Arystydes	subst:pl:inst:m1	imię	
 Arystydes	Arystydes	subst:sg:nom:m1	imię	
@@ -5613,7 +5374,6 @@ Askalonów	Askalon	subst:pl:gen:m3	nazwa geograficzna
 Askalonu	Askalon	subst:sg:gen:m3	nazwa geograficzna	
 Askalony	Askalon	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Askaniusza	Askaniusz	subst:sg:gen.acc:m1	imię	
-Askaniusza	Askaniusz	subst:sg:gen:m1	imię	
 Askaniuszach	Askaniusz	subst:pl:loc:m1	imię	
 Askaniuszami	Askaniusz	subst:pl:inst:m1	imię	
 Askaniusz	Askaniusz	subst:sg:nom:m1	imię	
@@ -5627,7 +5387,6 @@ Askaniuszów	Askaniusz	subst:pl:gen.acc:m1	imię
 Askaniuszu	Askaniusz	subst:sg:loc:m1	imię	
 Askaniuszu	Askaniusz	subst:sg:voc:m1	imię	
 Asmodeusza	Asmodeusz	subst:sg:gen.acc:m1	imię	
-Asmodeusza	Asmodeusz	subst:sg:gen:m1	imię	
 Asmodeuszach	Asmodeusz	subst:pl:loc:m1	imię	
 Asmodeuszami	Asmodeusz	subst:pl:inst:m1	imię	
 Asmodeusz	Asmodeusz	subst:sg:nom:m1	imię	
@@ -5641,7 +5400,6 @@ Asmodeuszów	Asmodeusz	subst:pl:gen.acc:m1	imię
 Asmodeuszu	Asmodeusz	subst:sg:loc:m1	imię	
 Asmodeuszu	Asmodeusz	subst:sg:voc:m1	imię	
 Asnyka	Asnyk	subst:sg:gen.acc:m1	nazwisko	
-Asnyka	Asnyk	subst:sg:gen:m1	nazwisko	
 Asnykach	Asnyk	subst:pl:loc:m1	nazwisko	
 Asnykami	Asnyk	subst:pl:inst:m1	nazwisko	
 Asnyk	Asnyk	subst:sg:nom:m1	nazwisko	
@@ -5666,7 +5424,6 @@ ASR-y	ASR	subst:pl:nom.acc.voc:m3	nazwa pospolita	techn.
 ASR-ze	ASR	subst:sg:loc:m3	nazwa pospolita	techn.
 ASR-ze	ASR	subst:sg:voc:m3	nazwa pospolita	techn.
 Assera	Asser	subst:sg:gen.acc:m1	imię	
-Assera	Asser	subst:sg:gen:m1	imię	
 Asserach	Asser	subst:pl:loc:m1	imię	
 Asserami	Asser	subst:pl:inst:m1	imię	
 Asser	Asser	subst:sg:nom:m1	imię	
@@ -5692,7 +5449,6 @@ Asty	Asta	subst:pl:nom.acc.voc:f	imię
 Asty	Asta	subst:sg:gen:f	imię	
 Aście	Asta	subst:sg:dat.loc:f	imię	
 Astaire’a	Astaire	subst:sg:gen.acc:m1	nazwisko	
-Astaire’a	Astaire	subst:sg:gen:m1	nazwisko	
 Astaire’ach	Astaire	subst:pl:loc:m1	nazwisko	
 Astaire’ami	Astaire	subst:pl:inst:m1	nazwisko	
 Astaire	Astaire	subst:sg:nom:m1	nazwisko	
@@ -5728,7 +5484,6 @@ Asterio	Asteria	subst:sg:voc:f	imię
 Asteriom	Asteria	subst:pl:dat:f	imię	
 Asteryj	Asteria	subst:pl:gen:f	imię	arch.|char.
 Asteriusza	Asteriusz	subst:sg:gen.acc:m1	imię	
-Asteriusza	Asteriusz	subst:sg:gen:m1	imię	
 Asteriuszach	Asteriusz	subst:pl:loc:m1	imię	
 Asteriuszami	Asteriusz	subst:pl:inst:m1	imię	
 Asteriusz	Asteriusz	subst:sg:nom:m1	imię	
@@ -5742,7 +5497,6 @@ Asteriuszów	Asteriusz	subst:pl:gen.acc:m1	imię
 Asteriuszu	Asteriusz	subst:sg:loc:m1	imię	
 Asteriuszu	Asteriusz	subst:sg:voc:m1	imię	
 Asteriksa	Asterix	subst:sg:gen.acc:m1	imię	
-Asteriksa	Asterix	subst:sg:gen:m1	imię	
 Asteriksach	Asterix	subst:pl:loc:m1	imię	
 Asteriksami	Asterix	subst:pl:inst:m1	imię	
 Asteriksem	Asterix	subst:sg:inst:m1	imię	
@@ -5815,7 +5569,6 @@ Asyriom	Asyria	subst:pl:dat:f	nazwa geograficzna	hist.
 Asyryj	Asyria	subst:pl:gen:f	nazwa geograficzna	arch.|char.|hist.
 Asyryjczycy	Asyryjczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Asyryjczyka	Asyryjczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Asyryjczyka	Asyryjczyk	subst:sg:gen:m1	nazwa pospolita	
 Asyryjczykach	Asyryjczyk	subst:pl:loc:m1	nazwa pospolita	
 Asyryjczykami	Asyryjczyk	subst:pl:inst:m1	nazwa pospolita	
 Asyryjczyk	Asyryjczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -5886,7 +5639,6 @@ Atanazjom	Atanazja	subst:pl:dat:f	imię
 Atanazyj	Atanazja	subst:pl:gen:f	imię	arch.|char.
 Atanaze	Atanazy	depr:pl:nom.acc.voc:m2	imię	
 Atanazego	Atanazy	subst:sg:gen.acc:m1	imię	
-Atanazego	Atanazy	subst:sg:gen:m1	imię	
 Atanazemu	Atanazy	subst:sg:dat:m1	imię	
 Atanazowie	Atanazy	subst:pl:nom.voc:m1	imię	
 Atanazy	Atanazy	subst:sg:nom:m1	imię	
@@ -5942,7 +5694,6 @@ Ateny	Ateny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna
 Ateny	Ateny	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
 Ateńczycy	Ateńczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Ateńczyka	Ateńczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Ateńczyka	Ateńczyk	subst:sg:gen:m1	nazwa pospolita	
 Ateńczykach	Ateńczyk	subst:pl:loc:m1	nazwa pospolita	
 Ateńczykami	Ateńczyk	subst:pl:inst:m1	nazwa pospolita	
 Ateńczyk	Ateńczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -6033,7 +5784,6 @@ Atlantyku	Atlantyk	subst:sg:gen:m3	nazwa geograficzna
 Atlantyku	Atlantyk	subst:sg:loc:m3	nazwa geograficzna	
 Atlantyku	Atlantyk	subst:sg:voc:m3	nazwa geograficzna	
 Atlasa	Atlas:s1	subst:sg:gen.acc:m1	imię	mit.
-Atlasa	Atlas:s1	subst:sg:gen:m1	imię	mit.
 Atlasach	Atlas:s1	subst:pl:loc:m1	imię	mit.
 Atlasami	Atlas:s1	subst:pl:inst:m1	imię	mit.
 Atlas	Atlas:s1	subst:sg:nom:m1	imię	mit.
@@ -6073,7 +5823,6 @@ Attyki	Attyka	subst:sg:gen:f	nazwa geograficzna
 Attyko	Attyka	subst:sg:voc:f	nazwa geograficzna	
 Attykom	Attyka	subst:pl:dat:f	nazwa geograficzna	
 Audena	Auden	subst:sg:gen.acc:m1	nazwisko	
-Audena	Auden	subst:sg:gen:m1	nazwisko	
 Audenach	Auden	subst:pl:loc:m1	nazwisko	
 Audenami	Auden	subst:pl:inst:m1	nazwisko	
 Auden	Auden	subst:sg:nom:m1	nazwisko	
@@ -6103,14 +5852,12 @@ Auderskich	Auderski	subst:pl:gen.acc:m1	nazwisko
 Auderskich	Auderski	subst:pl:loc:m1	nazwisko	
 Auderskie	Auderski	depr:pl:nom.acc.voc:m2	nazwisko	
 Auderskiego	Auderski	subst:sg:gen.acc:m1	nazwisko	
-Auderskiego	Auderski	subst:sg:gen:m1	nazwisko	
 Auderskiemu	Auderski	subst:sg:dat:m1	nazwisko	
 Auderskim	Auderski	subst:pl:dat:m1	nazwisko	
 Auderskim	Auderski	subst:sg:inst:m1	nazwisko	
 Auderskim	Auderski	subst:sg:loc:m1	nazwisko	
 Auderskimi	Auderski	subst:pl:inst:m1	nazwisko	
 Augiasza	Augiasz	subst:sg:gen.acc:m1	imię	mit.
-Augiasza	Augiasz	subst:sg:gen:m1	imię	mit.
 Augiaszach	Augiasz	subst:pl:loc:m1	imię	mit.
 Augiaszami	Augiasz	subst:pl:inst:m1	imię	mit.
 Augiasz	Augiasz	subst:sg:nom:m1	imię	mit.
@@ -6135,7 +5882,6 @@ Augsburgów	Augsburg	subst:pl:gen:m3	nazwa geograficzna
 Augsburgu	Augsburg	subst:sg:loc:m3	nazwa geograficzna	
 Augsburgu	Augsburg	subst:sg:voc:m3	nazwa geograficzna	
 Augusta	August	subst:sg:gen.acc:m1	imię	
-Augusta	August	subst:sg:gen:m1	imię	
 Augustach	August	subst:pl:loc:m1	imię	
 Augustami	August	subst:pl:inst:m1	imię	
 August	August	subst:sg:nom:m1	imię	
@@ -6171,7 +5917,6 @@ Augustowu	Augustów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
 Augustowy	Augustów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Augustów	Augustów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Augustyna	Augustyn	subst:sg:gen.acc:m1	imię	
-Augustyna	Augustyn	subst:sg:gen:m1	imię	
 Augustynach	Augustyn	subst:pl:loc:m1	imię	
 Augustynami	Augustyn	subst:pl:inst:m1	imię	
 Augustyn	Augustyn	subst:sg:nom:m1	imię	
@@ -6195,7 +5940,6 @@ Augustynom	Augustyna	subst:pl:dat:f	imię
 Augustyny	Augustyna	subst:pl:nom.acc.voc:f	imię	
 Augustyny	Augustyna	subst:sg:gen:f	imię	
 Augustyniaka	Augustyniak	subst:sg:gen.acc:m1	nazwisko	
-Augustyniaka	Augustyniak	subst:sg:gen:m1	nazwisko	
 Augustyniakach	Augustyniak	subst:pl:loc:m1	nazwisko	
 Augustyniakami	Augustyniak	subst:pl:inst:m1	nazwisko	
 Augustyniak	Augustyniak	subst:sg:nom:m1	nazwisko	
@@ -6223,7 +5967,6 @@ Aujeskich	Aujeszky	subst:pl:gen.acc:m1	nazwisko
 Aujeskich	Aujeszky	subst:pl:loc:m1	nazwisko	
 Aujeskie	Aujeszky	depr:pl:nom.acc.voc:m2	nazwisko	
 Aujeskiego	Aujeszky	subst:sg:gen.acc:m1	nazwisko	
-Aujeskiego	Aujeszky	subst:sg:gen:m1	nazwisko	
 Aujeskiemu	Aujeszky	subst:sg:dat:m1	nazwisko	
 Aujeskim	Aujeszky	subst:pl:dat:m1	nazwisko	
 Aujeskim	Aujeszky	subst:sg:inst:m1	nazwisko	
@@ -6235,7 +5978,6 @@ Aujeszkych	Aujeszky	subst:pl:gen.acc:m1	nazwisko
 Aujeszkych	Aujeszky	subst:pl:loc:m1	nazwisko	
 Aujeszkye	Aujeszky	depr:pl:nom.acc.voc:m2	nazwisko	
 Aujeszkyego	Aujeszky	subst:sg:gen.acc:m1	nazwisko	
-Aujeszkyego	Aujeszky	subst:sg:gen:m1	nazwisko	
 Aujeszkyemu	Aujeszky	subst:sg:dat:m1	nazwisko	
 Aujeszkym	Aujeszky	subst:pl:dat:m1	nazwisko	
 Aujeszkym	Aujeszky	subst:sg:inst:m1	nazwisko	
@@ -6243,7 +5985,6 @@ Aujeszkym	Aujeszky	subst:sg:loc:m1	nazwisko
 Aujeszkymi	Aujeszky	subst:pl:inst:m1	nazwisko	
 Aujeszkyowie	Aujeszky	subst:pl:nom.voc:m1	nazwisko	
 Auksencjusza	Auksencjusz	subst:sg:gen.acc:m1	imię	
-Auksencjusza	Auksencjusz	subst:sg:gen:m1	imię	
 Auksencjuszach	Auksencjusz	subst:pl:loc:m1	imię	
 Auksencjuszami	Auksencjusz	subst:pl:inst:m1	imię	
 Auksencjusz	Auksencjusz	subst:sg:nom:m1	imię	
@@ -6258,7 +5999,6 @@ Auksencjuszu	Auksencjusz	subst:sg:loc:m1	imię
 Auksencjuszu	Auksencjusz	subst:sg:voc:m1	imię	
 Aurele	Aureli	depr:pl:nom.acc.voc:m2	imię	
 Aurelego	Aureli	subst:sg:gen.acc:m1	imię	
-Aurelego	Aureli	subst:sg:gen:m1	imię	
 Aurelemu	Aureli	subst:sg:dat:m1	imię	
 Aureli	Aureli	subst:sg:nom:m1	imię	
 Aureli	Aureli	subst:sg:voc:m1	imię	
@@ -6282,7 +6022,6 @@ Aurelij	Aurelia	subst:pl:gen:f	imię	arch.|char.
 Aurelio	Aurelia	subst:sg:voc:f	imię	
 Aureliom	Aurelia	subst:pl:dat:f	imię	
 Aureliana	Aurelian	subst:sg:gen.acc:m1	imię	
-Aureliana	Aurelian	subst:sg:gen:m1	imię	
 Aurelianach	Aurelian	subst:pl:loc:m1	imię	
 Aurelianami	Aurelian	subst:pl:inst:m1	imię	
 Aurelian	Aurelian	subst:sg:nom:m1	imię	
@@ -6296,7 +6035,6 @@ Aurelianowie	Aurelian	subst:pl:nom.voc:m1	imię
 Aurelianów	Aurelian	subst:pl:gen.acc:m1	imię	
 Aureliany	Aurelian	depr:pl:nom.acc.voc:m2	imię	
 Aureliusza	Aureliusz	subst:sg:gen.acc:m1	imię	
-Aureliusza	Aureliusz	subst:sg:gen:m1	imię	
 Aureliuszach	Aureliusz	subst:pl:loc:m1	imię	
 Aureliuszami	Aureliusz	subst:pl:inst:m1	imię	
 Aureliusz	Aureliusz	subst:sg:nom:m1	imię	
@@ -6322,7 +6060,6 @@ Aurory	Aurora	subst:sg:gen:f	imię
 Aurorze	Aurora	subst:sg:dat.loc:f	imię	
 Auschwitz	Auschwitz	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	hist.
 Austena	Austen	subst:sg:gen.acc:m1	nazwisko	
-Austena	Austen	subst:sg:gen:m1	nazwisko	
 Austenach	Austen	subst:pl:loc:m1	nazwisko	
 Austenami	Austen	subst:pl:inst:m1	nazwisko	
 Austen	Austen	subst:sg:nom:m1	nazwisko	
@@ -6336,7 +6073,6 @@ Austenów	Austen	subst:pl:gen.acc:m1	nazwisko
 Austeny	Austen	depr:pl:nom.acc.voc:m2	nazwisko	
 Austerlitz	Austerlitz	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	hist.
 Austina	Austin	subst:sg:gen.acc:m1	nazwisko	
-Austina	Austin	subst:sg:gen:m1	nazwisko	
 Austinach	Austin	subst:pl:loc:m1	nazwisko	
 Austinami	Austin	subst:pl:inst:m1	nazwisko	
 Austin	Austin	subst:sg:nom:m1	nazwisko	
@@ -6362,7 +6098,6 @@ Australio	Australia	subst:sg:voc:f	nazwa geograficzna
 Australiom	Australia	subst:pl:dat:f	nazwa geograficzna	
 Australijczycy	Australijczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Australijczyka	Australijczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Australijczyka	Australijczyk	subst:sg:gen:m1	nazwa pospolita	
 Australijczykach	Australijczyk	subst:pl:loc:m1	nazwa pospolita	
 Australijczykami	Australijczyk	subst:pl:inst:m1	nazwa pospolita	
 Australijczyk	Australijczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -6409,7 +6144,6 @@ Austriaczko	Austriaczka	subst:sg:voc:f	nazwa pospolita
 Austriaczkom	Austriaczka	subst:pl:dat:f	nazwa pospolita	
 Austriacy	Austriak	subst:pl:nom.voc:m1	nazwa pospolita	
 Austriaka	Austriak	subst:sg:gen.acc:m1	nazwa pospolita	
-Austriaka	Austriak	subst:sg:gen:m1	nazwa pospolita	
 Austriakach	Austriak	subst:pl:loc:m1	nazwa pospolita	
 Austriakami	Austriak	subst:pl:inst:m1	nazwa pospolita	
 Austriak	Austriak	subst:sg:nom:m1	nazwa pospolita	
@@ -6455,7 +6189,6 @@ Avignonu	Avignon	subst:sg:gen:m3	nazwa geograficzna
 Avignony	Avignon	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Avogadra	Avogadro	depr:pl:nom.acc.voc:m2	nazwisko	
 Avogadra	Avogadro	subst:sg:gen.acc:m1	nazwisko	
-Avogadra	Avogadro	subst:sg:gen:m1	nazwisko	
 Avogadrach	Avogadro	subst:pl:loc:m1	nazwisko	
 Avogadrami	Avogadro	subst:pl:inst:m1	nazwisko	
 Avogadrem	Avogadro	subst:sg:inst:m1	nazwisko	
@@ -6467,7 +6200,6 @@ Avogadrowie	Avogadro	subst:pl:nom.voc:m1	nazwisko
 Avogadrów	Avogadro	subst:pl:gen.acc:m1	nazwisko	
 Avogadrze	Avogadro	subst:sg:loc:m1	nazwisko	
 Avrahama	Avraham	subst:sg:gen.acc:m1	imię	
-Avrahama	Avraham	subst:sg:gen:m1	imię	
 Avrahamach	Avraham	subst:pl:loc:m1	imię	
 Avrahamami	Avraham	subst:pl:inst:m1	imię	
 Avraham	Avraham	subst:sg:nom:m1	imię	
@@ -6480,7 +6212,6 @@ Avrahamowie	Avraham	subst:pl:nom.voc:m1	imię
 Avrahamów	Avraham	subst:pl:gen.acc:m1	imię	
 Avrahamy	Avraham	depr:pl:nom.acc.voc:m2	imię	
 Awdiejewa	Awdiejew	subst:sg:gen.acc:m1	nazwisko	
-Awdiejewa	Awdiejew	subst:sg:gen:m1	nazwisko	
 Awdiejewach	Awdiejew	subst:pl:loc:m1	nazwisko	
 Awdiejewami	Awdiejew	subst:pl:inst:m1	nazwisko	
 Awdiejew	Awdiejew	subst:sg:nom:m1	nazwisko	
@@ -6560,9 +6291,7 @@ Azom	Aza	subst:pl:dat:m1	imię
 Azowie	Aza	subst:pl:nom.voc:m1	imię	
 Azów	Aza	subst:pl:gen.acc:m1	imię	
 Azy	Aza	depr:pl:nom.acc.voc:m2	imię	
-Azy	Aza	subst:sg:gen:m1	imię	
 Azera	Azer	subst:sg:gen.acc:m1	nazwa pospolita	
-Azera	Azer	subst:sg:gen:m1	nazwa pospolita	
 Azerach	Azer	subst:pl:loc:m1	nazwa pospolita	
 Azerami	Azer	subst:pl:inst:m1	nazwa pospolita	
 Azer	Azer	subst:sg:nom:m1	nazwa pospolita	
@@ -6590,7 +6319,6 @@ Azerbejdżanami	Azerbejdżanin	subst:pl:inst:m1	nazwa pospolita
 Azerbejdżan	Azerbejdżanin	subst:pl:gen.acc:m1	nazwa pospolita	
 Azerbejdżanie	Azerbejdżanin	subst:pl:nom.voc:m1	nazwa pospolita	
 Azerbejdżanina	Azerbejdżanin	subst:sg:gen.acc:m1	nazwa pospolita	
-Azerbejdżanina	Azerbejdżanin	subst:sg:gen:m1	nazwa pospolita	
 Azerbejdżanin	Azerbejdżanin	subst:sg:nom:m1	nazwa pospolita	
 Azerbejdżaninem	Azerbejdżanin	subst:sg:inst:m1	nazwa pospolita	
 Azerbejdżaninie	Azerbejdżanin	subst:sg:loc:m1	nazwa pospolita	
@@ -6626,7 +6354,6 @@ Azjanami	Azjanin	subst:pl:inst:m1	nazwa pospolita	daw.
 Azjan	Azjanin	subst:pl:gen.acc:m1	nazwa pospolita	daw.
 Azjanie	Azjanin	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 Azjanina	Azjanin	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-Azjanina	Azjanin	subst:sg:gen:m1	nazwa pospolita	daw.
 Azjanin	Azjanin	subst:sg:nom:m1	nazwa pospolita	daw.
 Azjaninem	Azjanin	subst:sg:inst:m1	nazwa pospolita	daw.
 Azjaninie	Azjanin	subst:sg:loc:m1	nazwa pospolita	daw.
@@ -6645,7 +6372,6 @@ Azjato	Azjata	subst:sg:voc:m1	nazwa pospolita
 Azjatom	Azjata	subst:pl:dat:m1	nazwa pospolita	
 Azjatów	Azjata	subst:pl:gen.acc:m1	nazwa pospolita	
 Azjaty	Azjata	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-Azjaty	Azjata	subst:sg:gen:m1	nazwa pospolita	
 Azjatce	Azjatka	subst:sg:dat.loc:f	nazwa pospolita	
 Azjatek	Azjatka	subst:pl:gen:f	nazwa pospolita	
 Azjatka	Azjatka	subst:sg:nom:f	nazwa pospolita	
@@ -6658,7 +6384,6 @@ Azjatki	Azjatka	subst:sg:gen:f	nazwa pospolita
 Azjatko	Azjatka	subst:sg:voc:f	nazwa pospolita	
 Azjatkom	Azjatka	subst:pl:dat:f	nazwa pospolita	
 Aznavoura	Aznavour	subst:sg:gen.acc:m1	nazwisko	
-Aznavoura	Aznavour	subst:sg:gen:m1	nazwisko	
 Aznavourach	Aznavour	subst:pl:loc:m1	nazwisko	
 Aznavourami	Aznavour	subst:pl:inst:m1	nazwisko	
 Aznavour	Aznavour	subst:sg:nom:m1	nazwisko	
@@ -6671,7 +6396,6 @@ Aznavoury	Aznavour	depr:pl:nom.acc.voc:m2	nazwisko
 Aznavourze	Aznavour	subst:sg:loc:m1	nazwisko	
 Aznavourze	Aznavour	subst:sg:voc:m1	nazwisko	
 Azora	Azor	subst:sg:gen.acc:m2	imię	
-Azora	Azor	subst:sg:gen:m2	imię	
 Azorach	Azor	subst:pl:loc:m2	imię	
 Azorami	Azor	subst:pl:inst:m2	imię	
 Azor	Azor	subst:sg:nom:m2	imię	
@@ -6705,7 +6429,6 @@ AZS-u	AZS	subst:sg:gen:m3	nazwa organizacji
 AZS-y	AZS	subst:pl:nom.acc.voc:m3	nazwa organizacji	
 Aztecy	Aztek	subst:pl:nom.voc:m1	nazwa pospolita	
 Azteka	Aztek	subst:sg:gen.acc:m1	nazwa pospolita	
-Azteka	Aztek	subst:sg:gen:m1	nazwa pospolita	
 Aztekach	Aztek	subst:pl:loc:m1	nazwa pospolita	
 Aztekami	Aztek	subst:pl:inst:m1	nazwa pospolita	
 Aztek	Aztek	subst:sg:nom:m1	nazwa pospolita	
@@ -6723,7 +6446,6 @@ Ażich	Ażi	subst:pl:gen:m2	imię	mit.
 Ażich	Ażi	subst:pl:loc:m2	imię	mit.
 Ażie	Ażi	subst:pl:nom.acc.voc:m2	imię	mit.
 Ażiego	Ażi	subst:sg:gen.acc:m2	imię	mit.
-Ażiego	Ażi	subst:sg:gen:m2	imię	mit.
 Ażiemu	Ażi	subst:sg:dat:m2	imię	mit.
 Ażim	Ażi	subst:pl:dat:m2	imię	mit.
 Ażim	Ażi	subst:sg:inst:m2	imię	mit.

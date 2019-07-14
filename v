@@ -46,7 +46,6 @@ van	van:b	burk
 vanach	van:s	subst:pl:loc:m2	nazwa pospolita	
 vanami	van:s	subst:pl:inst:m2	nazwa pospolita	
 vana	van:s	subst:sg:gen.acc:m2	nazwa pospolita	
-vana	van:s	subst:sg:gen:m2	nazwa pospolita	
 vanem	van:s	subst:sg:inst:m2	nazwa pospolita	
 vanie	van:s	subst:sg:loc:m2	nazwa pospolita	
 vanie	van:s	subst:sg:voc:m2	nazwa pospolita	
@@ -77,7 +76,6 @@ varsavianistom	varsavianista	subst:pl:dat:m1	nazwa pospolita
 varsavianisto	varsavianista	subst:sg:voc:m1	nazwa pospolita	
 varsavianistów	varsavianista	subst:pl:gen.acc:m1	nazwa pospolita	
 varsavianisty	varsavianista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-varsavianisty	varsavianista	subst:sg:gen:m1	nazwa pospolita	
 varsavianiście	varsavianista	subst:sg:dat.loc:m1	nazwa pospolita	
 varsavianiści	varsavianista	subst:pl:nom.voc:m1	nazwa pospolita	
 varsavianistce	varsavianistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -116,7 +114,6 @@ vatermörderze	vatermörder	subst:sg:voc:m3	nazwa pospolita	daw.
 vatowcach	vatowiec	subst:pl:loc:m1	nazwa pospolita	
 vatowcami	vatowiec	subst:pl:inst:m1	nazwa pospolita	
 vatowca	vatowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-vatowca	vatowiec	subst:sg:gen:m1	nazwa pospolita	
 vatowcem	vatowiec	subst:sg:inst:m1	nazwa pospolita	
 vatowce	vatowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 vatowcom	vatowiec	subst:pl:dat:m1	nazwa pospolita	
@@ -447,7 +444,6 @@ vivanci	vivant	subst:pl:nom.voc:m1	nazwa pospolita
 vivantach	vivant	subst:pl:loc:m1	nazwa pospolita	
 vivantami	vivant	subst:pl:inst:m1	nazwa pospolita	
 vivanta	vivant	subst:sg:gen.acc:m1	nazwa pospolita	
-vivanta	vivant	subst:sg:gen:m1	nazwa pospolita	
 vivantem	vivant	subst:sg:inst:m1	nazwa pospolita	
 vivantom	vivant	subst:pl:dat:m1	nazwa pospolita	
 vivantowi	vivant	subst:sg:dat:m1	nazwa pospolita	
@@ -468,7 +464,6 @@ vivat	vivat	interj
 viveurach	viveur	subst:pl:loc:m1	nazwa pospolita	
 viveurami	viveur	subst:pl:inst:m1	nazwa pospolita	
 viveura	viveur	subst:sg:gen.acc:m1	nazwa pospolita	
-viveura	viveur	subst:sg:gen:m1	nazwa pospolita	
 viveurem	viveur	subst:sg:inst:m1	nazwa pospolita	
 viveurom	viveur	subst:pl:dat:m1	nazwa pospolita	
 viveurowie	viveur	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -516,7 +511,6 @@ vol-au-vent	vol-au-vent	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa po
 volksdeutschach	volksdeutsch	subst:pl:loc:m1	nazwa pospolita	
 volksdeutschami	volksdeutsch	subst:pl:inst:m1	nazwa pospolita	
 volksdeutscha	volksdeutsch	subst:sg:gen.acc:m1	nazwa pospolita	
-volksdeutscha	volksdeutsch	subst:sg:gen:m1	nazwa pospolita	
 volksdeutschem	volksdeutsch	subst:sg:inst:m1	nazwa pospolita	
 volksdeutsche	volksdeutsch	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 volksdeutsche	volksdeutsch	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -541,7 +535,6 @@ volksliście	volkslista	subst:sg:dat.loc:f	nazwa pospolita
 volkswagenach	volkswagen	subst:pl:loc:m2	nazwa pospolita	
 volkswagenami	volkswagen	subst:pl:inst:m2	nazwa pospolita	
 volkswagena	volkswagen	subst:sg:gen.acc:m2	nazwa pospolita	
-volkswagena	volkswagen	subst:sg:gen:m2	nazwa pospolita	
 volkswagenem	volkswagen	subst:sg:inst:m2	nazwa pospolita	
 volkswagenie	volkswagen	subst:sg:loc:m2	nazwa pospolita	
 volkswagenie	volkswagen	subst:sg:voc:m2	nazwa pospolita	

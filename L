@@ -24,11 +24,9 @@ Labudom	Labuda	subst:pl:dat:m1	nazwisko
 Labudowie	Labuda	subst:pl:nom.voc:m1	nazwisko	
 Labudów	Labuda	subst:pl:gen.acc:m1	nazwisko	
 Labudy	Labuda	depr:pl:nom.acc.voc:m2	nazwisko	
-Labudy	Labuda	subst:sg:gen:m1	nazwisko	
 Labudzie	Labuda	subst:sg:dat.loc:m1	nazwisko	
 Lachach	Lach	subst:pl:loc:m1	nazwa pospolita	daw.
 Lacha	Lach	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-Lacha	Lach	subst:sg:gen:m1	nazwa pospolita	daw.
 Lachami	Lach	subst:pl:inst:m1	nazwa pospolita	daw.
 Lachem	Lach	subst:sg:inst:m1	nazwa pospolita	daw.
 Lach	Lach	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -41,7 +39,6 @@ Lachu	Lach	subst:sg:voc:m1	nazwa pospolita	daw.
 Lachy	Lach	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 Lachowiczach	Lachowicz	subst:pl:loc:m1	nazwisko	
 Lachowicza	Lachowicz	subst:sg:gen.acc:m1	nazwisko	
-Lachowicza	Lachowicz	subst:sg:gen:m1	nazwisko	
 Lachowiczami	Lachowicz	subst:pl:inst:m1	nazwisko	
 Lachowicze	Lachowicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Lachowicze	Lachowicz	subst:pl:nom.voc:m1	nazwisko	
@@ -68,7 +65,6 @@ Lachów	Lachowo	subst:pl:gen:n:ncol	nazwa geograficzna
 Lagos	Lagos	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
 Laine’ach	Laine	subst:pl:loc:m1	nazwisko	
 Laine’a	Laine	subst:sg:gen.acc:m1	nazwisko	
-Laine’a	Laine	subst:sg:gen:m1	nazwisko	
 Laine’ami	Laine	subst:pl:inst:m1	nazwisko	
 Laine’em	Laine	subst:sg:inst:m1	nazwisko	
 Laine	Laine	subst:sg:nom:m1	nazwisko	
@@ -93,7 +89,6 @@ Lakonio	Lakonia	subst:sg:voc:f	nazwa geograficzna
 Lakoniom	Lakonia	subst:pl:dat:f	nazwa geograficzna	
 Lamach	Lam	subst:pl:loc:m1	nazwisko	
 Lama	Lam	subst:sg:gen.acc:m1	nazwisko	
-Lama	Lam	subst:sg:gen:m1	nazwisko	
 Lamami	Lam	subst:pl:inst:m1	nazwisko	
 Lamem	Lam	subst:sg:inst:m1	nazwisko	
 Lamie	Lam	subst:sg:loc:m1	nazwisko	
@@ -106,7 +101,6 @@ Lamów	Lam	subst:pl:gen.acc:m1	nazwisko
 Lamy	Lam	depr:pl:nom.acc.voc:m2	nazwisko	
 Lamarckach	Lamarck	subst:pl:loc:m1	nazwisko	
 Lamarcka	Lamarck	subst:sg:gen.acc:m1	nazwisko	
-Lamarcka	Lamarck	subst:sg:gen:m1	nazwisko	
 Lamarckami	Lamarck	subst:pl:inst:m1	nazwisko	
 Lamarckiem	Lamarck	subst:sg:inst:m1	nazwisko	
 Lamarcki	Lamarck	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -119,7 +113,6 @@ Lamarcku	Lamarck	subst:sg:loc:m1	nazwisko
 Lamarcku	Lamarck	subst:sg:voc:m1	nazwisko	
 Lamartine’ach	Lamartine	subst:pl:loc:m1	nazwisko	
 Lamartine’a	Lamartine	subst:sg:gen.acc:m1	nazwisko	
-Lamartine’a	Lamartine	subst:sg:gen:m1	nazwisko	
 Lamartine’ami	Lamartine	subst:pl:inst:m1	nazwisko	
 Lamartine’em	Lamartine	subst:sg:inst:m1	nazwisko	
 Lamartine	Lamartine	subst:sg:nom:m1	nazwisko	
@@ -134,7 +127,6 @@ Lambercie	Lambert	subst:sg:loc:m1	imię
 Lambercie	Lambert	subst:sg:voc:m1	imię	
 Lambertach	Lambert	subst:pl:loc:m1	imię	
 Lamberta	Lambert	subst:sg:gen.acc:m1	imię	
-Lamberta	Lambert	subst:sg:gen:m1	imię	
 Lambertami	Lambert	subst:pl:inst:m1	imię	
 Lambertem	Lambert	subst:sg:inst:m1	imię	
 Lambert	Lambert	subst:sg:nom:m1	imię	
@@ -165,7 +157,6 @@ Lampedusom	Lampedusa	subst:pl:dat:m1	nazwisko
 Lampedusowie	Lampedusa	subst:pl:nom.voc:m1	nazwisko	
 Lampedusów	Lampedusa	subst:pl:gen.acc:m1	nazwisko	
 Lampedusy	Lampedusa	depr:pl:nom.acc.voc:m2	nazwisko	
-Lampedusy	Lampedusa	subst:sg:gen:m1	nazwisko	
 LAN-ach	LAN	subst:pl:loc:m3	nazwa pospolita	komp.
 LAN-ami	LAN	subst:pl:inst:m3	nazwa pospolita	komp.
 LAN-em	LAN	subst:sg:inst:m3	nazwa pospolita	komp.
@@ -179,7 +170,6 @@ LAN-u	LAN	subst:sg:gen:m3	nazwa pospolita	komp.
 LAN-y	LAN	subst:pl:nom.acc.voc:m3	nazwa pospolita	komp.
 Lancasterach	Lancaster	subst:pl:loc:m1	nazwisko	
 Lancastera	Lancaster	subst:sg:gen.acc:m1	nazwisko	
-Lancastera	Lancaster	subst:sg:gen:m1	nazwisko	
 Lancasterami	Lancaster	subst:pl:inst:m1	nazwisko	
 Lancasterem	Lancaster	subst:sg:inst:m1	nazwisko	
 Lancaster	Lancaster	subst:sg:nom:m1	nazwisko	
@@ -194,7 +184,6 @@ Lancelocie	Lancelot	subst:sg:loc:m1	imię
 Lancelocie	Lancelot	subst:sg:voc:m1	imię	
 Lancelotach	Lancelot	subst:pl:loc:m1	imię	
 Lancelota	Lancelot	subst:sg:gen.acc:m1	imię	
-Lancelota	Lancelot	subst:sg:gen:m1	imię	
 Lancelotami	Lancelot	subst:pl:inst:m1	imię	
 Lancelotem	Lancelot	subst:sg:inst:m1	imię	
 Lancelot	Lancelot	subst:sg:nom:m1	imię	
@@ -218,7 +207,6 @@ Lanckorońscy	Lanckoroński	subst:pl:nom.voc:m1	nazwisko
 Lanckorońskich	Lanckoroński	subst:pl:gen.acc:m1	nazwisko	
 Lanckorońskich	Lanckoroński	subst:pl:loc:m1	nazwisko	
 Lanckorońskiego	Lanckoroński	subst:sg:gen.acc:m1	nazwisko	
-Lanckorońskiego	Lanckoroński	subst:sg:gen:m1	nazwisko	
 Lanckorońskie	Lanckoroński	depr:pl:nom.acc.voc:m2	nazwisko	
 Lanckorońskiemu	Lanckoroński	subst:sg:dat:m1	nazwisko	
 Lanckoroński	Lanckoroński	subst:sg:nom:m1	nazwisko	
@@ -229,7 +217,6 @@ Lanckorońskim	Lanckoroński	subst:sg:inst:m1	nazwisko
 Lanckorońskim	Lanckoroński	subst:sg:loc:m1	nazwisko	
 Landauach	Landau	subst:pl:loc:m1	nazwisko	
 Landaua	Landau	subst:sg:gen.acc:m1	nazwisko	
-Landaua	Landau	subst:sg:gen:m1	nazwisko	
 Landauami	Landau	subst:pl:inst:m1	nazwisko	
 Landauem	Landau	subst:sg:inst:m1	nazwisko	
 Landau	Landau	subst:sg:loc:m1	nazwisko	
@@ -242,7 +229,6 @@ Landauów	Landau	subst:pl:gen.acc:m1	nazwisko
 Landauy	Landau	depr:pl:nom.acc.voc:m2	nazwisko	
 Landsbergisach	Landsbergis	subst:pl:loc:m1	nazwisko	
 Landsbergisa	Landsbergis	subst:sg:gen.acc:m1	nazwisko	
-Landsbergisa	Landsbergis	subst:sg:gen:m1	nazwisko	
 Landsbergisami	Landsbergis	subst:pl:inst:m1	nazwisko	
 Landsbergisem	Landsbergis	subst:sg:inst:m1	nazwisko	
 Landsbergisie	Landsbergis	subst:sg:loc:m1	nazwisko	
@@ -256,7 +242,6 @@ Landsbergisy	Landsbergis	depr:pl:nom.acc.voc:m2	nazwisko
 Langach	Lange	subst:pl:loc:m1	nazwisko	
 Langami	Lange	subst:pl:inst:m1	nazwisko	
 Langego	Lange	subst:sg:gen.acc:m1	nazwisko	
-Langego	Lange	subst:sg:gen:m1	nazwisko	
 Lange	Lange	depr:pl:nom.acc.voc:m2	nazwisko	
 Lange	Lange	subst:sg:nom:m1	nazwisko	
 Lange	Lange	subst:sg:voc:m1	nazwisko	
@@ -268,7 +253,6 @@ Langowie	Lange	subst:pl:nom.voc:m1	nazwisko
 Langów	Lange	subst:pl:gen.acc:m1	nazwisko	
 Langiewiczach	Langiewicz	subst:pl:loc:m1	nazwisko	
 Langiewicza	Langiewicz	subst:sg:gen.acc:m1	nazwisko	
-Langiewicza	Langiewicz	subst:sg:gen:m1	nazwisko	
 Langiewiczami	Langiewicz	subst:pl:inst:m1	nazwisko	
 Langiewicze	Langiewicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Langiewicze	Langiewicz	subst:pl:nom.voc:m1	nazwisko	
@@ -316,7 +300,6 @@ Laodyceo	Laodycea	subst:sg:voc:f	nazwa geograficzna
 Laodyceom	Laodycea	subst:pl:dat:f	nazwa geograficzna	
 Laokoonach	Laokoon	subst:pl:loc:m1	imię	mit.
 Laokoona	Laokoon	subst:sg:gen.acc:m1	imię	mit.
-Laokoona	Laokoon	subst:sg:gen:m1	imię	mit.
 Laokoonami	Laokoon	subst:pl:inst:m1	imię	mit.
 Laokoonem	Laokoon	subst:sg:inst:m1	imię	mit.
 Laokoonie	Laokoon	subst:sg:loc:m1	imię	mit.
@@ -364,7 +347,6 @@ Laponkom	Laponka	subst:pl:dat:f	nazwa pospolita
 Lapończycy	Lapończyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Lapończykach	Lapończyk	subst:pl:loc:m1	nazwa pospolita	
 Lapończyka	Lapończyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Lapończyka	Lapończyk	subst:sg:gen:m1	nazwa pospolita	
 Lapończykami	Lapończyk	subst:pl:inst:m1	nazwa pospolita	
 Lapończykiem	Lapończyk	subst:sg:inst:m1	nazwa pospolita	
 Lapończyki	Lapończyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -376,7 +358,6 @@ Lapończyku	Lapończyk	subst:sg:loc:m1	nazwa pospolita
 Lapończyku	Lapończyk	subst:sg:voc:m1	nazwa pospolita	
 Larousse’ach	Larousse	subst:pl:loc:m1	nazwisko	
 Larousse’a	Larousse	subst:sg:gen.acc:m1	nazwisko	
-Larousse’a	Larousse	subst:sg:gen:m1	nazwisko	
 Larousse’ami	Larousse	subst:pl:inst:m1	nazwisko	
 Larousse’em	Larousse	subst:sg:inst:m1	nazwisko	
 Larousse	Larousse	subst:sg:nom:m1	nazwisko	
@@ -388,14 +369,12 @@ Larousse’y	Larousse	depr:pl:nom.acc.voc:m2	nazwisko
 Laroussie	Larousse	subst:sg:loc:m1	nazwisko	
 Laroussie	Larousse	subst:sg:voc:m1	nazwisko	
 Larrego	Larry	subst:sg:gen.acc:m1	imię	
-Larrego	Larry	subst:sg:gen:m1	imię	
 Larre	Larry	depr:pl:nom.acc.voc:m2	imię	
 Larremu	Larry	subst:sg:dat:m1	imię	
 Larrowie	Larry	subst:pl:nom.voc:m1	imię	
 Larrych	Larry	subst:pl:gen.acc:m1	imię	
 Larrych	Larry	subst:pl:loc:m1	imię	
 Larry’ego	Larry	subst:sg:gen.acc:m1	imię	
-Larry’ego	Larry	subst:sg:gen:m1	imię	
 Larry’e	Larry	depr:pl:nom.acc.voc:m2	imię	
 Larry’emu	Larry	subst:sg:dat:m1	imię	
 Larry	Larry	subst:pl:nom.voc:m1	imię	
@@ -442,7 +421,6 @@ Laskowscy	Laskowski	subst:pl:nom.voc:m1	nazwisko
 Laskowskich	Laskowski	subst:pl:gen.acc:m1	nazwisko	
 Laskowskich	Laskowski	subst:pl:loc:m1	nazwisko	
 Laskowskiego	Laskowski	subst:sg:gen.acc:m1	nazwisko	
-Laskowskiego	Laskowski	subst:sg:gen:m1	nazwisko	
 Laskowskie	Laskowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Laskowskiemu	Laskowski	subst:sg:dat:m1	nazwisko	
 Laskowski	Laskowski	subst:sg:nom:m1	nazwisko	
@@ -473,7 +451,6 @@ Lasotom	Lasota:s2	subst:pl:dat:m1	imię|nazwisko
 Lasotowie	Lasota:s2	subst:pl:nom.voc:m1	imię|nazwisko	
 Lasotów	Lasota:s2	subst:pl:gen.acc:m1	imię|nazwisko	
 Lasoty	Lasota:s2	depr:pl:nom.acc.voc:m2	imię|nazwisko	
-Lasoty	Lasota:s2	subst:sg:gen:m1	imię|nazwisko	
 Laszczce	Laszczka	subst:sg:dat.loc:m1	nazwisko	
 Laszczkach	Laszczka	subst:pl:loc:m1	nazwisko	
 Laszczka	Laszczka	subst:sg:nom:m1	nazwisko	
@@ -481,7 +458,6 @@ Laszczkami	Laszczka	subst:pl:inst:m1	nazwisko
 Laszczką	Laszczka	subst:sg:inst:m1	nazwisko	
 Laszczkę	Laszczka	subst:sg:acc:m1	nazwisko	
 Laszczki	Laszczka	depr:pl:nom.acc.voc:m2	nazwisko	
-Laszczki	Laszczka	subst:sg:gen:m1	nazwisko	
 Laszczko	Laszczka	subst:sg:voc:m1	nazwisko	
 Laszczkom	Laszczka	subst:pl:dat:m1	nazwisko	
 Laszczkowie	Laszczka	subst:pl:nom.voc:m1	nazwisko	
@@ -489,7 +465,6 @@ Laszczków	Laszczka	subst:pl:gen.acc:m1	nazwisko
 Laszek	Laszek	subst:sg:nom:m1	nazwa pospolita	daw.
 Laszkach	Laszek	subst:pl:loc:m1	nazwa pospolita	daw.
 Laszka	Laszek	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-Laszka	Laszek	subst:sg:gen:m1	nazwa pospolita	daw.
 Laszkami	Laszek	subst:pl:inst:m1	nazwa pospolita	daw.
 Laszkiem	Laszek	subst:sg:inst:m1	nazwa pospolita	daw.
 Laszki	Laszek	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
@@ -531,10 +506,8 @@ Latom	Lato	subst:pl:dat:m1	nazwisko
 Latowie	Lato	subst:pl:nom.voc:m1	nazwisko	
 Latów	Lato	subst:pl:gen.acc:m1	nazwisko	
 Laty	Lato	depr:pl:nom.acc.voc:m2	nazwisko	
-Laty	Lato	subst:sg:gen:m1	nazwisko	
 Latynosach	Latynos	subst:pl:loc:m1	nazwa pospolita	
 Latynosa	Latynos	subst:sg:gen.acc:m1	nazwa pospolita	
-Latynosa	Latynos	subst:sg:gen:m1	nazwa pospolita	
 Latynosami	Latynos	subst:pl:inst:m1	nazwa pospolita	
 Latynosem	Latynos	subst:sg:inst:m1	nazwa pospolita	
 Latynosie	Latynos	subst:sg:loc:m1	nazwa pospolita	
@@ -581,7 +554,6 @@ Laurencjom	Laurencja	subst:pl:dat:f	imię
 Laurencyj	Laurencja	subst:pl:gen:f	imię	arch.|char.
 Laurencjuszach	Laurencjusz	subst:pl:loc:m1	imię	
 Laurencjusza	Laurencjusz	subst:sg:gen.acc:m1	imię	
-Laurencjusza	Laurencjusz	subst:sg:gen:m1	imię	
 Laurencjuszami	Laurencjusz	subst:pl:inst:m1	imię	
 Laurencjusze	Laurencjusz	depr:pl:nom.acc.voc:m2	imię	
 Laurencjusze	Laurencjusz	subst:pl:nom.voc:m1	imię	
@@ -594,7 +566,6 @@ Laurencjuszów	Laurencjusz	subst:pl:gen.acc:m1	imię
 Laurencjuszu	Laurencjusz	subst:sg:loc:m1	imię	
 Laurencjuszu	Laurencjusz	subst:sg:voc:m1	imię	
 Laurentego	Laurenty	subst:sg:gen.acc:m1	imię	
-Laurentego	Laurenty	subst:sg:gen:m1	imię	
 Laurente	Laurenty	depr:pl:nom.acc.voc:m2	imię	
 Laurentemu	Laurenty	subst:sg:dat:m1	imię	
 Laurentowie	Laurenty	subst:pl:nom.voc:m1	imię	
@@ -608,7 +579,6 @@ Laurentym	Laurenty	subst:sg:inst:m1	imię
 Laurentym	Laurenty	subst:sg:loc:m1	imię	
 Laurentynach	Laurentyn	subst:pl:loc:m1	imię	
 Laurentyna	Laurentyn	subst:sg:gen.acc:m1	imię	
-Laurentyna	Laurentyn	subst:sg:gen:m1	imię	
 Laurentynami	Laurentyn	subst:pl:inst:m1	imię	
 Laurentynem	Laurentyn	subst:sg:inst:m1	imię	
 Laurentynie	Laurentyn	subst:sg:loc:m1	imię	
@@ -633,7 +603,6 @@ Laurentyny	Laurentyna	subst:pl:nom.acc.voc:f	imię
 Laurentyny	Laurentyna	subst:sg:gen:f	imię	
 Lautrecach	Lautrec	subst:pl:loc:m1	nazwisko	
 Lautreca	Lautrec	subst:sg:gen.acc:m1	nazwisko	
-Lautreca	Lautrec	subst:sg:gen:m1	nazwisko	
 Lautrecami	Lautrec	subst:pl:inst:m1	nazwisko	
 Lautrec	Lautrec	subst:sg:nom:m1	nazwisko	
 Lautrecom	Lautrec	subst:pl:dat:m1	nazwisko	
@@ -646,7 +615,6 @@ Lautrekiem	Lautrec	subst:sg:inst:m1	nazwisko
 Lautreki	Lautrec	depr:pl:nom.acc.voc:m2	nazwisko	
 Lavoisierach	Lavoisier	subst:pl:loc:m1	nazwisko	
 Lavoisiera	Lavoisier	subst:sg:gen.acc:m1	nazwisko	
-Lavoisiera	Lavoisier	subst:sg:gen:m1	nazwisko	
 Lavoisierami	Lavoisier	subst:pl:inst:m1	nazwisko	
 Lavoisierem	Lavoisier	subst:sg:inst:m1	nazwisko	
 Lavoisier	Lavoisier	subst:sg:nom:m1	nazwisko	
@@ -659,7 +627,6 @@ Lavoisierze	Lavoisier	subst:sg:loc:m1	nazwisko
 Lavoisierze	Lavoisier	subst:sg:voc:m1	nazwisko	
 Lawrence’ach	Lawrence:s1	subst:pl:loc:m1	nazwisko	
 Lawrence’a	Lawrence:s1	subst:sg:gen.acc:m1	nazwisko	
-Lawrence’a	Lawrence:s1	subst:sg:gen:m1	nazwisko	
 Lawrence’ami	Lawrence:s1	subst:pl:inst:m1	nazwisko	
 Lawrence’em	Lawrence:s1	subst:sg:inst:m1	nazwisko	
 Lawrence	Lawrence:s1	subst:sg:nom:m1	nazwisko	
@@ -682,7 +649,6 @@ Laxom	Laxa	subst:pl:dat:m1	nazwisko
 Laxowie	Laxa	subst:pl:nom.voc:m1	nazwisko	
 Laxów	Laxa	subst:pl:gen.acc:m1	nazwisko	
 Laxy	Laxa	depr:pl:nom.acc.voc:m2	nazwisko	
-Laxy	Laxa	subst:sg:gen:m1	nazwisko	
 Lądek	Lądek	subst:sg:nom.acc:m3	nazwa geograficzna	
 Lądkach	Lądek	subst:pl:loc:m3	nazwa geograficzna	
 Lądka	Lądek	subst:sg:gen:m3	nazwa geograficzna	
@@ -724,7 +690,6 @@ Leom	Lea	subst:pl:dat:f	imię
 Leander	Leander	subst:sg:nom:m1	imię	
 Leandrach	Leander	subst:pl:loc:m1	imię	
 Leandra	Leander	subst:sg:gen.acc:m1	imię	
-Leandra	Leander	subst:sg:gen:m1	imię	
 Leandrami	Leander	subst:pl:inst:m1	imię	
 Leandrem	Leander	subst:sg:inst:m1	imię	
 Leandrom	Leander	subst:pl:dat:m1	imię	
@@ -737,7 +702,6 @@ Leandrze	Leander	subst:sg:voc:m1	imię
 Leandrzy	Leander	subst:pl:nom.voc:m1	imię	
 Lebiedziach	Lebiedź	subst:pl:loc:m1	nazwisko	
 Lebiedzia	Lebiedź	subst:sg:gen.acc:m1	nazwisko	
-Lebiedzia	Lebiedź	subst:sg:gen:m1	nazwisko	
 Lebiedziami	Lebiedź	subst:pl:inst:m1	nazwisko	
 Lebiedzie	Lebiedź	depr:pl:nom.acc.voc:m2	nazwisko	
 Lebiedzie	Lebiedź	subst:pl:nom.voc:m1	nazwisko	
@@ -751,7 +715,6 @@ Lebiedziu	Lebiedź	subst:sg:voc:m1	nazwisko
 Lebiedź	Lebiedź	subst:sg:nom:m1	nazwisko	
 Leblancach	Leblanc	subst:pl:loc:m1	nazwisko	
 Leblanca	Leblanc	subst:sg:gen.acc:m1	nazwisko	
-Leblanca	Leblanc	subst:sg:gen:m1	nazwisko	
 Leblancami	Leblanc	subst:pl:inst:m1	nazwisko	
 Leblanc	Leblanc	subst:sg:nom:m1	nazwisko	
 Leblancom	Leblanc	subst:pl:dat:m1	nazwisko	
@@ -764,7 +727,6 @@ Leblankiem	Leblanc	subst:sg:inst:m1	nazwisko
 Leblanki	Leblanc	depr:pl:nom.acc.voc:m2	nazwisko	
 Lecach	Lec	subst:pl:loc:m1	nazwisko|pseudonim	
 Leca	Lec	subst:sg:gen.acc:m1	nazwisko|pseudonim	
-Leca	Lec	subst:sg:gen:m1	nazwisko|pseudonim	
 Lecami	Lec	subst:pl:inst:m1	nazwisko|pseudonim	
 Lece	Lec	depr:pl:nom.acc.voc:m2	nazwisko|pseudonim	
 Lece	Lec	subst:pl:nom.voc:m1	nazwisko|pseudonim	
@@ -778,7 +740,6 @@ Lecu	Lec	subst:sg:loc:m1	nazwisko|pseudonim
 Lecu	Lec	subst:sg:voc:m1	nazwisko|pseudonim	
 Lechach	Lech	subst:pl:loc:m1	imię|nazwisko	
 Lecha	Lech	subst:sg:gen.acc:m1	imię|nazwisko	
-Lecha	Lech	subst:sg:gen:m1	imię|nazwisko	
 Lechami	Lech	subst:pl:inst:m1	imię|nazwisko	
 Lechem	Lech	subst:sg:inst:m1	imię|nazwisko	
 Lech	Lech	subst:sg:nom:m1	imię|nazwisko	
@@ -823,7 +784,6 @@ Lechito	Lechita	subst:sg:voc:m1	nazwa pospolita
 Lechitom	Lechita	subst:pl:dat:m1	nazwa pospolita	
 Lechitów	Lechita	subst:pl:gen.acc:m1	nazwa pospolita	
 Lechity	Lechita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-Lechity	Lechita	subst:sg:gen:m1	nazwa pospolita	
 Lechitce	Lechitka	subst:sg:dat.loc:f	nazwa pospolita	daw.
 Lechitek	Lechitka	subst:pl:gen:f	nazwa pospolita	daw.
 Lechitkach	Lechitka	subst:pl:loc:f	nazwa pospolita	daw.
@@ -837,7 +797,6 @@ Lechitko	Lechitka	subst:sg:voc:f	nazwa pospolita	daw.
 Lechitkom	Lechitka	subst:pl:dat:f	nazwa pospolita	daw.
 Lechoniach	Lechoń	subst:pl:loc:m1	nazwisko|pseudonim	
 Lechonia	Lechoń	subst:sg:gen.acc:m1	nazwisko|pseudonim	
-Lechonia	Lechoń	subst:sg:gen:m1	nazwisko|pseudonim	
 Lechoniami	Lechoń	subst:pl:inst:m1	nazwisko|pseudonim	
 Lechonie	Lechoń	depr:pl:nom.acc.voc:m2	nazwisko|pseudonim	
 Lechoniem	Lechoń	subst:sg:inst:m1	nazwisko|pseudonim	
@@ -850,7 +809,6 @@ Lechoniu	Lechoń	subst:sg:voc:m1	nazwisko|pseudonim
 Lechoń	Lechoń	subst:sg:nom:m1	nazwisko|pseudonim	
 Lechosławach	Lechosław	subst:pl:loc:m1	imię	
 Lechosława	Lechosław	subst:sg:gen.acc:m1	imię	
-Lechosława	Lechosław	subst:sg:gen:m1	imię	
 Lechosławami	Lechosław	subst:pl:inst:m1	imię	
 Lechosławem	Lechosław	subst:sg:inst:m1	imię	
 Lechosławie	Lechosław	subst:sg:loc:m1	imię	
@@ -875,7 +833,6 @@ Lechosławy	Lechosława	subst:sg:gen:f	imię
 Leclanchach	Leclanche	subst:pl:loc:m1	nazwisko	
 Leclanchami	Leclanche	subst:pl:inst:m1	nazwisko	
 Leclanchego	Leclanche	subst:sg:gen.acc:m1	nazwisko	
-Leclanchego	Leclanche	subst:sg:gen:m1	nazwisko	
 Leclanche	Leclanche	depr:pl:nom.acc.voc:m2	nazwisko	
 Leclanche	Leclanche	subst:sg:nom:m1	nazwisko	
 Leclanche	Leclanche	subst:sg:voc:m1	nazwisko	
@@ -889,7 +846,6 @@ Leconcie	Leconte	subst:sg:loc:m1	nazwisko
 Leconcie	Leconte	subst:sg:voc:m1	nazwisko	
 Leconte’ach	Leconte	subst:pl:loc:m1	nazwisko	
 Leconte’a	Leconte	subst:sg:gen.acc:m1	nazwisko	
-Leconte’a	Leconte	subst:sg:gen:m1	nazwisko	
 Leconte’ami	Leconte	subst:pl:inst:m1	nazwisko	
 Leconte’em	Leconte	subst:sg:inst:m1	nazwisko	
 Leconte	Leconte	subst:sg:nom:m1	nazwisko	
@@ -913,7 +869,6 @@ Ledóchowscy	Ledóchowski	subst:pl:nom.voc:m1	nazwisko
 Ledóchowskich	Ledóchowski	subst:pl:gen.acc:m1	nazwisko	
 Ledóchowskich	Ledóchowski	subst:pl:loc:m1	nazwisko	
 Ledóchowskiego	Ledóchowski	subst:sg:gen.acc:m1	nazwisko	
-Ledóchowskiego	Ledóchowski	subst:sg:gen:m1	nazwisko	
 Ledóchowskie	Ledóchowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Ledóchowskiemu	Ledóchowski	subst:sg:dat:m1	nazwisko	
 Ledóchowski	Ledóchowski	subst:sg:nom:m1	nazwisko	
@@ -927,7 +882,6 @@ Lee	Lee:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko
 Lee	Lee:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	marka|nazwa geograficzna	
 Leeuwenhoekach	Leeuwenhoek	subst:pl:loc:m1	nazwisko	
 Leeuwenhoeka	Leeuwenhoek	subst:sg:gen.acc:m1	nazwisko	
-Leeuwenhoeka	Leeuwenhoek	subst:sg:gen:m1	nazwisko	
 Leeuwenhoekami	Leeuwenhoek	subst:pl:inst:m1	nazwisko	
 Leeuwenhoekiem	Leeuwenhoek	subst:sg:inst:m1	nazwisko	
 Leeuwenhoeki	Leeuwenhoek	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -940,7 +894,6 @@ Leeuwenhoeku	Leeuwenhoek	subst:sg:loc:m1	nazwisko
 Leeuwenhoeku	Leeuwenhoek	subst:sg:voc:m1	nazwisko	
 Lefebvre’ach	Lefebvre	subst:pl:loc:m1	nazwisko	
 Lefebvre’a	Lefebvre	subst:sg:gen.acc:m1	nazwisko	
-Lefebvre’a	Lefebvre	subst:sg:gen:m1	nazwisko	
 Lefebvre’ami	Lefebvre	subst:pl:inst:m1	nazwisko	
 Lefebvre’em	Lefebvre	subst:sg:inst:m1	nazwisko	
 Lefebvre	Lefebvre	subst:sg:nom:m1	nazwisko	
@@ -986,7 +939,6 @@ Legnickimi	Legnickie	subst:pl:inst:n:ncol	nazwa geograficzna
 Legnickim	Legnickie	subst:pl:dat:n:ncol	nazwa geograficzna	
 Leharach	Lehar	subst:pl:loc:m1	nazwisko	
 Lehara	Lehar	subst:sg:gen.acc:m1	nazwisko	
-Lehara	Lehar	subst:sg:gen:m1	nazwisko	
 Leharami	Lehar	subst:pl:inst:m1	nazwisko	
 Leharem	Lehar	subst:sg:inst:m1	nazwisko	
 Lehar	Lehar	subst:sg:nom:m1	nazwisko	
@@ -999,7 +951,6 @@ Leharze	Lehar	subst:sg:loc:m1	nazwisko
 Leharze	Lehar	subst:sg:voc:m1	nazwisko	
 Lehrach	Lehr	subst:pl:loc:m1	nazwisko	
 Lehra	Lehr	subst:sg:gen.acc:m1	nazwisko	
-Lehra	Lehr	subst:sg:gen:m1	nazwisko	
 Lehrami	Lehr	subst:pl:inst:m1	nazwisko	
 Lehrem	Lehr	subst:sg:inst:m1	nazwisko	
 Lehr	Lehr	subst:sg:nom:m1	nazwisko	
@@ -1012,7 +963,6 @@ Lehrze	Lehr	subst:sg:loc:m1	nazwisko
 Lehrze	Lehr	subst:sg:voc:m1	nazwisko	
 Leibnizach	Leibniz	subst:pl:loc:m1	nazwisko	
 Leibniza	Leibniz	subst:sg:gen.acc:m1	nazwisko	
-Leibniza	Leibniz	subst:sg:gen:m1	nazwisko	
 Leibnizami	Leibniz	subst:pl:inst:m1	nazwisko	
 Leibnize	Leibniz	depr:pl:nom.acc.voc:m2	nazwisko	
 Leibnizem	Leibniz	subst:sg:inst:m1	nazwisko	
@@ -1025,7 +975,6 @@ Leibnizu	Leibniz	subst:sg:loc:m1	nazwisko
 Leibnizu	Leibniz	subst:sg:voc:m1	nazwisko	
 Lejbach	Lejb	subst:pl:loc:m1	imię	
 Lejba	Lejb	subst:sg:gen.acc:m1	imię	
-Lejba	Lejb	subst:sg:gen:m1	imię	
 Lejbami	Lejb	subst:pl:inst:m1	imię	
 Lejbem	Lejb	subst:sg:inst:m1	imię	
 Lejbie	Lejb	subst:sg:loc:m1	imię	
@@ -1049,7 +998,6 @@ Lejdy	Lejda	subst:sg:gen:f	nazwa geograficzna
 Lejdzie	Lejda	subst:sg:dat.loc:f	nazwa geograficzna	
 Lelewelach	Lelewel	subst:pl:loc:m1	nazwisko	
 Lelewela	Lelewel	subst:sg:gen.acc:m1	nazwisko	
-Lelewela	Lelewel	subst:sg:gen:m1	nazwisko	
 Lelewelami	Lelewel	subst:pl:inst:m1	nazwisko	
 Lelewele	Lelewel	depr:pl:nom.acc.voc:m2	nazwisko	
 Lelewele	Lelewel	subst:pl:nom.voc:m1	nazwisko	
@@ -1075,7 +1023,6 @@ Lelkowu	Lelkowo	subst:sg:dat:n:ncol	nazwa geograficzna
 Lelków	Lelkowo	subst:pl:gen:n:ncol	nazwa geograficzna	
 Lelouchach	Lelouch	subst:pl:loc:m1	nazwisko	
 Leloucha	Lelouch	subst:sg:gen.acc:m1	nazwisko	
-Leloucha	Lelouch	subst:sg:gen:m1	nazwisko	
 Lelouchami	Lelouch	subst:pl:inst:m1	nazwisko	
 Lelouche	Lelouch	depr:pl:nom.acc.voc:m2	nazwisko	
 Lelouchem	Lelouch	subst:sg:inst:m1	nazwisko	
@@ -1100,7 +1047,6 @@ Lelowy	Lelów	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Lelów	Lelów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Lemach	Lem	subst:pl:loc:m1	nazwisko	
 Lema	Lem	subst:sg:gen.acc:m1	nazwisko	
-Lema	Lem	subst:sg:gen:m1	nazwisko	
 Lemami	Lem	subst:pl:inst:m1	nazwisko	
 Lemem	Lem	subst:sg:inst:m1	nazwisko	
 Lemie	Lem	subst:sg:loc:m1	nazwisko	
@@ -1126,7 +1072,6 @@ Lemańscy	Lemański	subst:pl:nom.voc:m1	nazwisko
 Lemańskich	Lemański	subst:pl:gen.acc:m1	nazwisko	
 Lemańskich	Lemański	subst:pl:loc:m1	nazwisko	
 Lemańskiego	Lemański	subst:sg:gen.acc:m1	nazwisko	
-Lemańskiego	Lemański	subst:sg:gen:m1	nazwisko	
 Lemańskie	Lemański	depr:pl:nom.acc.voc:m2	nazwisko	
 Lemańskiemu	Lemański	subst:sg:dat:m1	nazwisko	
 Lemański	Lemański	subst:sg:nom:m1	nazwisko	
@@ -1148,7 +1093,6 @@ Leny	Lena	subst:pl:nom.acc.voc:f	imię
 Leny	Lena	subst:sg:gen:f	imię	
 Lenartowiczach	Lenartowicz	subst:pl:loc:m1	nazwisko	
 Lenartowicza	Lenartowicz	subst:sg:gen.acc:m1	nazwisko	
-Lenartowicza	Lenartowicz	subst:sg:gen:m1	nazwisko	
 Lenartowiczami	Lenartowicz	subst:pl:inst:m1	nazwisko	
 Lenartowicze	Lenartowicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Lenartowicze	Lenartowicz	subst:pl:nom.voc:m1	nazwisko	
@@ -1171,11 +1115,9 @@ Lenicom	Lenica	subst:pl:dat:m1	nazwisko
 Lenicowie	Lenica	subst:pl:nom.voc:m1	nazwisko	
 Leniców	Lenica	subst:pl:gen.acc:m1	nazwisko	
 Lenicy	Lenica	subst:sg:dat.loc:m1	nazwisko	
-Lenicy	Lenica	subst:sg:gen:m1	nazwisko	
 Leniek	Leniek	subst:sg:nom:m1	nazwisko	
 Leńkach	Leniek	subst:pl:loc:m1	nazwisko	
 Leńka	Leniek	subst:sg:gen.acc:m1	nazwisko	
-Leńka	Leniek	subst:sg:gen:m1	nazwisko	
 Leńkami	Leniek	subst:pl:inst:m1	nazwisko	
 Leńkiem	Leniek	subst:sg:inst:m1	nazwisko	
 Leńki	Leniek	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -1187,7 +1129,6 @@ Leńku	Leniek	subst:sg:loc:m1	nazwisko
 Leńku	Leniek	subst:sg:voc:m1	nazwisko	
 Leninach	Lenin	subst:pl:loc:m1	pseudonim	
 Lenina	Lenin	subst:sg:gen.acc:m1	pseudonim	
-Lenina	Lenin	subst:sg:gen:m1	pseudonim	
 Leninami	Lenin	subst:pl:inst:m1	pseudonim	
 Leninem	Lenin	subst:sg:inst:m1	pseudonim	
 Leninie	Lenin	subst:sg:loc:m1	pseudonim	
@@ -1212,7 +1153,6 @@ Leningradzie	Leningrad	subst:sg:voc:m3	nazwa geograficzna
 Lenino	Lenino	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
 Lennonach	Lennon	subst:pl:loc:m1	nazwisko	
 Lennona	Lennon	subst:sg:gen.acc:m1	nazwisko	
-Lennona	Lennon	subst:sg:gen:m1	nazwisko	
 Lennonami	Lennon	subst:pl:inst:m1	nazwisko	
 Lennonem	Lennon	subst:sg:inst:m1	nazwisko	
 Lennonie	Lennon	subst:sg:loc:m1	nazwisko	
@@ -1226,7 +1166,6 @@ Lennony	Lennon	depr:pl:nom.acc.voc:m2	nazwisko
 Leach	Leo	subst:pl:loc:m1	imię	
 Lea	Leo	depr:pl:nom.acc.voc:m2	imię	
 Lea	Leo	subst:sg:gen.acc:m1	imię	
-Lea	Leo	subst:sg:gen:m1	imię	
 Leami	Leo	subst:pl:inst:m1	imię	
 Leem	Leo	subst:sg:inst:m1	imię	
 Leo	Leo	depr:pl:nom.acc.voc:m2	imię	
@@ -1240,7 +1179,6 @@ Leowi	Leo	subst:sg:dat:m1	imię
 Leów	Leo	subst:pl:gen.acc:m1	imię	
 Leodegarach	Leodegar	subst:pl:loc:m1	imię	
 Leodegara	Leodegar	subst:sg:gen.acc:m1	imię	
-Leodegara	Leodegar	subst:sg:gen:m1	imię	
 Leodegarami	Leodegar	subst:pl:inst:m1	imię	
 Leodegarem	Leodegar	subst:sg:inst:m1	imię	
 Leodegar	Leodegar	subst:sg:nom:m1	imię	
@@ -1266,7 +1204,6 @@ Leokadiom	Leokadia	subst:pl:dat:f	imię
 Leokadyj	Leokadia	subst:pl:gen:f	imię	arch.|char.
 Leonach	Leon	subst:pl:loc:m1	imię	
 Leona	Leon	subst:sg:gen.acc:m1	imię	
-Leona	Leon	subst:sg:gen:m1	imię	
 Leonami	Leon	subst:pl:inst:m1	imię	
 Leonem	Leon	subst:sg:inst:m1	imię	
 Leonie	Leon	subst:sg:loc:m1	imię	
@@ -1290,7 +1227,6 @@ Leony	Leona	subst:pl:nom.acc.voc:f	imię
 Leony	Leona	subst:sg:gen:f	imię	
 Leonardach	Leonard	subst:pl:loc:m1	imię	
 Leonarda	Leonard	subst:sg:gen.acc:m1	imię	
-Leonarda	Leonard	subst:sg:gen:m1	imię	
 Leonardami	Leonard	subst:pl:inst:m1	imię	
 Leonardem	Leonard	subst:sg:inst:m1	imię	
 Leonard	Leonard	subst:sg:nom:m1	imię	
@@ -1304,7 +1240,6 @@ Leonardzie	Leonard	subst:sg:voc:m1	imię
 Leonardach	Leonardo	subst:pl:loc:m1	imię	
 Leonarda	Leonardo	depr:pl:nom.acc.voc:m2	imię	
 Leonarda	Leonardo	subst:sg:gen.acc:m1	imię	
-Leonarda	Leonardo	subst:sg:gen:m1	imię	
 Leonardami	Leonardo	subst:pl:inst:m1	imię	
 Leonardem	Leonardo	subst:sg:inst:m1	imię	
 Leonardo	Leonardo	subst:sg:nom:m1	imię	
@@ -1328,7 +1263,6 @@ Leoncjom	Leoncja	subst:pl:dat:f	imię
 Leoncyj	Leoncja	subst:pl:gen:f	imię	arch.|char.
 Leoncjuszach	Leoncjusz	subst:pl:loc:m1	imię	
 Leoncjusza	Leoncjusz	subst:sg:gen.acc:m1	imię	
-Leoncjusza	Leoncjusz	subst:sg:gen:m1	imię	
 Leoncjuszami	Leoncjusz	subst:pl:inst:m1	imię	
 Leoncjusze	Leoncjusz	depr:pl:nom.acc.voc:m2	imię	
 Leoncjusze	Leoncjusz	subst:pl:nom.voc:m1	imię	
@@ -1344,7 +1278,6 @@ Leone	Leone	burk
 Leonek	Leonek	subst:sg:nom:m1	imię	
 Leonkach	Leonek	subst:pl:loc:m1	imię	
 Leonka	Leonek	subst:sg:gen.acc:m1	imię	
-Leonka	Leonek	subst:sg:gen:m1	imię	
 Leonkami	Leonek	subst:pl:inst:m1	imię	
 Leonkiem	Leonek	subst:sg:inst:m1	imię	
 Leonki	Leonek	depr:pl:nom.acc.voc:m2	imię	
@@ -1380,7 +1313,6 @@ Leoniu	Leonia:s2	subst:sg:voc:f	imię
 Leoń	Leonia:s2	subst:pl:gen:f	imię	char.
 Leonidach	Leonid	subst:pl:loc:m1	imię	
 Leonida	Leonid	subst:sg:gen.acc:m1	imię	
-Leonida	Leonid	subst:sg:gen:m1	imię	
 Leonidami	Leonid	subst:pl:inst:m1	imię	
 Leonidem	Leonid	subst:sg:inst:m1	imię	
 Leonid	Leonid	subst:sg:nom:m1	imię	
@@ -1404,7 +1336,6 @@ Leonidy	Leonida	subst:sg:gen:f	imię
 Leonidzie	Leonida	subst:sg:dat.loc:f	imię	
 Leonidasach	Leonidas	subst:pl:loc:m1	imię	
 Leonidasa	Leonidas	subst:sg:gen.acc:m1	imię	
-Leonidasa	Leonidas	subst:sg:gen:m1	imię	
 Leonidasami	Leonidas	subst:pl:inst:m1	imię	
 Leonidasem	Leonidas	subst:sg:inst:m1	imię	
 Leonidasie	Leonidas	subst:sg:loc:m1	imię	
@@ -1440,7 +1371,6 @@ Leontyny	Leontyna	subst:pl:nom.acc.voc:f	imię
 Leontyny	Leontyna	subst:sg:gen:f	imię	
 Leopardach	Leopard	subst:pl:loc:m1	imię	
 Leoparda	Leopard	subst:sg:gen.acc:m1	imię	
-Leoparda	Leopard	subst:sg:gen:m1	imię	
 Leopardami	Leopard	subst:pl:inst:m1	imię	
 Leopardem	Leopard	subst:sg:inst:m1	imię	
 Leopard	Leopard	subst:sg:nom:m1	imię	
@@ -1454,7 +1384,6 @@ Leopardzie	Leopard	subst:sg:voc:m1	imię
 Leopardzi	Leopard	subst:pl:nom.voc:m1	imię	
 Leopoldach	Leopold	subst:pl:loc:m1	imię	
 Leopolda	Leopold	subst:sg:gen.acc:m1	imię	
-Leopolda	Leopold	subst:sg:gen:m1	imię	
 Leopoldami	Leopold	subst:pl:inst:m1	imię	
 Leopoldem	Leopold	subst:sg:inst:m1	imię	
 Leopold	Leopold	subst:sg:nom:m1	imię	
@@ -1490,7 +1419,6 @@ Leosiu	Leosia	subst:sg:voc:f	imię
 Leoś	Leosia	subst:pl:gen:f	imię	char.
 Leosiach	Leoś	subst:pl:loc:m1	imię	
 Leosia	Leoś	subst:sg:gen.acc:m1	imię	
-Leosia	Leoś	subst:sg:gen:m1	imię	
 Leosiami	Leoś	subst:pl:inst:m1	imię	
 Leosie	Leoś	depr:pl:nom.acc.voc:m2	imię	
 Leosie	Leoś	subst:pl:nom.voc:m1	imię	
@@ -1504,7 +1432,6 @@ Leosiu	Leoś	subst:sg:voc:m1	imię
 Leoś	Leoś	subst:sg:nom:m1	imię	
 Leporellach	Leporello	subst:pl:loc:m1	imię	lit.
 Leporella	Leporello	subst:sg:gen.acc:m1	imię	lit.
-Leporella	Leporello	subst:sg:gen:m1	imię	lit.
 Leporellami	Leporello	subst:pl:inst:m1	imię	lit.
 Leporelle	Leporello	depr:pl:nom.acc.voc:m2	imię	lit.
 Leporellem	Leporello	subst:sg:inst:m1	imię	lit.
@@ -1517,7 +1444,6 @@ Leporellów	Leporello	subst:pl:gen.acc:m1	imię	lit.
 Leporellu	Leporello	subst:sg:loc:m1	imię	lit.
 Lepperach	Lepper	subst:pl:loc:m1	nazwisko	
 Leppera	Lepper	subst:sg:gen.acc:m1	nazwisko	
-Leppera	Lepper	subst:sg:gen:m1	nazwisko	
 Lepperami	Lepper	subst:pl:inst:m1	nazwisko	
 Lepperem	Lepper	subst:sg:inst:m1	nazwisko	
 Lepper	Lepper	subst:sg:nom:m1	nazwisko	
@@ -1530,7 +1456,6 @@ Lepperze	Lepper	subst:sg:loc:m1	nazwisko
 Lepperze	Lepper	subst:sg:voc:m1	nazwisko	
 Lermontowach	Lermontow	subst:pl:loc:m1	nazwisko	
 Lermontowa	Lermontow	subst:sg:gen.acc:m1	nazwisko	
-Lermontowa	Lermontow	subst:sg:gen:m1	nazwisko	
 Lermontowami	Lermontow	subst:pl:inst:m1	nazwisko	
 Lermontowem	Lermontow	subst:sg:inst:m1	nazwisko	
 Lermontowie	Lermontow	subst:sg:loc:m1	nazwisko	
@@ -1554,7 +1479,6 @@ Lesbijko	Lesbijka	subst:sg:voc:f	nazwa pospolita
 Lesbijkom	Lesbijka	subst:pl:dat:f	nazwa pospolita	
 Lesiakach	Lesiak	subst:pl:loc:m1	nazwisko	
 Lesiaka	Lesiak	subst:sg:gen.acc:m1	nazwisko	
-Lesiaka	Lesiak	subst:sg:gen:m1	nazwisko	
 Lesiakami	Lesiak	subst:pl:inst:m1	nazwisko	
 Lesiakiem	Lesiak	subst:sg:inst:m1	nazwisko	
 Lesiaki	Lesiak	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -1580,7 +1504,6 @@ Lesińscy	Lesiński	subst:pl:nom.voc:m1	nazwisko
 Lesińskich	Lesiński	subst:pl:gen.acc:m1	nazwisko	
 Lesińskich	Lesiński	subst:pl:loc:m1	nazwisko	
 Lesińskiego	Lesiński	subst:sg:gen.acc:m1	nazwisko	
-Lesińskiego	Lesiński	subst:sg:gen:m1	nazwisko	
 Lesińskie	Lesiński	depr:pl:nom.acc.voc:m2	nazwisko	
 Lesińskiemu	Lesiński	subst:sg:dat:m1	nazwisko	
 Lesiński	Lesiński	subst:sg:nom:m1	nazwisko	
@@ -1591,7 +1514,6 @@ Lesińskim	Lesiński	subst:sg:inst:m1	nazwisko
 Lesińskim	Lesiński	subst:sg:loc:m1	nazwisko	
 Lesiach	Lesio	subst:pl:loc:m1	imię	
 Lesia	Lesio	subst:sg:gen.acc:m1	imię	
-Lesia	Lesio	subst:sg:gen:m1	imię	
 Lesiami	Lesio	subst:pl:inst:m1	imię	
 Lesie	Lesio	depr:pl:nom.acc.voc:m2	imię	
 Lesiem	Lesio	subst:sg:inst:m1	imię	
@@ -1614,7 +1536,6 @@ Lesku	Lesko	subst:sg:dat:n:ncol	nazwa geograficzna
 Lesku	Lesko	subst:sg:loc:n:ncol	nazwa geograficzna	
 Lesławach	Lesław	subst:pl:loc:m1	imię	
 Lesława	Lesław	subst:sg:gen.acc:m1	imię	
-Lesława	Lesław	subst:sg:gen:m1	imię	
 Lesławami	Lesław	subst:pl:inst:m1	imię	
 Lesławem	Lesław	subst:sg:inst:m1	imię	
 Lesławie	Lesław	subst:sg:loc:m1	imię	
@@ -1638,7 +1559,6 @@ Lesławy	Lesława	subst:pl:nom.acc.voc:f	imię
 Lesławy	Lesława	subst:sg:gen:f	imię	
 Lessingach	Lessing	subst:pl:loc:m1	nazwisko	
 Lessinga	Lessing	subst:sg:gen.acc:m1	nazwisko	
-Lessinga	Lessing	subst:sg:gen:m1	nazwisko	
 Lessingami	Lessing	subst:pl:inst:m1	nazwisko	
 Lessingiem	Lessing	subst:sg:inst:m1	nazwisko	
 Lessingi	Lessing	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -1674,7 +1594,6 @@ Leszczyńscy	Leszczyński	subst:pl:nom.voc:m1	nazwisko
 Leszczyńskich	Leszczyński	subst:pl:gen.acc:m1	nazwisko	
 Leszczyńskich	Leszczyński	subst:pl:loc:m1	nazwisko	
 Leszczyńskiego	Leszczyński	subst:sg:gen.acc:m1	nazwisko	
-Leszczyńskiego	Leszczyński	subst:sg:gen:m1	nazwisko	
 Leszczyńskie	Leszczyński	depr:pl:nom.acc.voc:m2	nazwisko	
 Leszczyńskiemu	Leszczyński	subst:sg:dat:m1	nazwisko	
 Leszczyński	Leszczyński	subst:sg:nom:m1	nazwisko	
@@ -1696,7 +1615,6 @@ Leszczyńskim	Leszczyńskie	subst:pl:dat:n:ncol	nazwa geograficzna
 Leszek	Leszek	subst:sg:nom:m1	imię	
 Leszkach	Leszek	subst:pl:loc:m1	imię	
 Leszka	Leszek	subst:sg:gen.acc:m1	imię	
-Leszka	Leszek	subst:sg:gen:m1	imię	
 Leszkami	Leszek	subst:pl:inst:m1	imię	
 Leszkiem	Leszek	subst:sg:inst:m1	imię	
 Leszki	Leszek	depr:pl:nom.acc.voc:m2	imię	
@@ -1718,7 +1636,6 @@ Lesznom	Leszno	subst:pl:dat:n:ncol	nazwa geograficzna
 Lesznu	Leszno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Lesiach	Leś	subst:pl:loc:m1	imię|nazwisko	
 Lesia	Leś	subst:sg:gen.acc:m1	imię|nazwisko	
-Lesia	Leś	subst:sg:gen:m1	imię|nazwisko	
 Lesiami	Leś	subst:pl:inst:m1	imię|nazwisko	
 Lesie	Leś	depr:pl:nom.acc.voc:m2	imię|nazwisko	
 Lesie	Leś	subst:pl:nom.voc:m1	imię|nazwisko	
@@ -1732,7 +1649,6 @@ Lesiu	Leś	subst:sg:voc:m1	imię|nazwisko
 Leś	Leś	subst:sg:nom:m1	imię|nazwisko	
 Leśmianach	Leśmian	subst:pl:loc:m1	nazwisko|pseudonim	
 Leśmiana	Leśmian	subst:sg:gen.acc:m1	nazwisko|pseudonim	
-Leśmiana	Leśmian	subst:sg:gen:m1	nazwisko|pseudonim	
 Leśmianami	Leśmian	subst:pl:inst:m1	nazwisko|pseudonim	
 Leśmianem	Leśmian	subst:sg:inst:m1	nazwisko|pseudonim	
 Leśmianie	Leśmian	subst:sg:loc:m1	nazwisko|pseudonim	
@@ -1745,7 +1661,6 @@ Leśmianów	Leśmian	subst:pl:gen.acc:m1	nazwisko|pseudonim
 Leśmiany	Leśmian	depr:pl:nom.acc.voc:m2	nazwisko|pseudonim	
 Leśniakach	Leśniak	subst:pl:loc:m1	nazwisko	
 Leśniaka	Leśniak	subst:sg:gen.acc:m1	nazwisko	
-Leśniaka	Leśniak	subst:sg:gen:m1	nazwisko	
 Leśniakami	Leśniak	subst:pl:inst:m1	nazwisko	
 Leśniakiem	Leśniak	subst:sg:inst:m1	nazwisko	
 Leśniaki	Leśniak	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -1782,7 +1697,6 @@ Leśniewscy	Leśniewski	subst:pl:nom.voc:m1	nazwisko
 Leśniewskich	Leśniewski	subst:pl:gen.acc:m1	nazwisko	
 Leśniewskich	Leśniewski	subst:pl:loc:m1	nazwisko	
 Leśniewskiego	Leśniewski	subst:sg:gen.acc:m1	nazwisko	
-Leśniewskiego	Leśniewski	subst:sg:gen:m1	nazwisko	
 Leśniewskie	Leśniewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Leśniewskiemu	Leśniewski	subst:sg:dat:m1	nazwisko	
 Leśniewski	Leśniewski	subst:sg:nom:m1	nazwisko	
@@ -1815,7 +1729,6 @@ LETT-y	LETTA	subst:sg:gen:f	nazwa instytucji
 Levich	Levi	subst:pl:gen.acc:m1	nazwisko	
 Levich	Levi	subst:pl:loc:m1	nazwisko	
 Leviego	Levi	subst:sg:gen.acc:m1	nazwisko	
-Leviego	Levi	subst:sg:gen:m1	nazwisko	
 Levie	Levi	depr:pl:nom.acc.voc:m2	nazwisko	
 Leviemu	Levi	subst:sg:dat:m1	nazwisko	
 Levi	Levi	subst:pl:nom.voc:m1	nazwisko	
@@ -1841,7 +1754,6 @@ Lewandowscy	Lewandowski	subst:pl:nom.voc:m1	nazwisko
 Lewandowskich	Lewandowski	subst:pl:gen.acc:m1	nazwisko	
 Lewandowskich	Lewandowski	subst:pl:loc:m1	nazwisko	
 Lewandowskiego	Lewandowski	subst:sg:gen.acc:m1	nazwisko	
-Lewandowskiego	Lewandowski	subst:sg:gen:m1	nazwisko	
 Lewandowskie	Lewandowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Lewandowskiemu	Lewandowski	subst:sg:dat:m1	nazwisko	
 Lewandowski	Lewandowski	subst:sg:nom:m1	nazwisko	
@@ -1864,7 +1776,6 @@ Lewanty	Lewant	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Lewantyńczycy	Lewantyńczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Lewantyńczykach	Lewantyńczyk	subst:pl:loc:m1	nazwa pospolita	
 Lewantyńczyka	Lewantyńczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Lewantyńczyka	Lewantyńczyk	subst:sg:gen:m1	nazwa pospolita	
 Lewantyńczykami	Lewantyńczyk	subst:pl:inst:m1	nazwa pospolita	
 Lewantyńczykiem	Lewantyńczyk	subst:sg:inst:m1	nazwa pospolita	
 Lewantyńczyki	Lewantyńczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -1877,7 +1788,6 @@ Lewantyńczyku	Lewantyńczyk	subst:sg:voc:m1	nazwa pospolita
 Lewich	Lewi	subst:pl:gen.acc:m1	imię	
 Lewich	Lewi	subst:pl:loc:m1	imię	
 Lewiego	Lewi	subst:sg:gen.acc:m1	imię	
-Lewiego	Lewi	subst:sg:gen:m1	imię	
 Lewie	Lewi	depr:pl:nom.acc.voc:m2	imię	
 Lewiemu	Lewi	subst:sg:dat:m1	imię	
 Lewi	Lewi	subst:sg:nom:m1	imię	
@@ -1902,7 +1812,6 @@ Lewiccy	Lewicki	subst:pl:nom.voc:m1	nazwisko
 Lewickich	Lewicki	subst:pl:gen.acc:m1	nazwisko	
 Lewickich	Lewicki	subst:pl:loc:m1	nazwisko	
 Lewickiego	Lewicki	subst:sg:gen.acc:m1	nazwisko	
-Lewickiego	Lewicki	subst:sg:gen:m1	nazwisko	
 Lewickie	Lewicki	depr:pl:nom.acc.voc:m2	nazwisko	
 Lewickiemu	Lewicki	subst:sg:dat:m1	nazwisko	
 Lewicki	Lewicki	subst:sg:nom:m1	nazwisko	
@@ -1913,7 +1822,6 @@ Lewickim	Lewicki	subst:sg:inst:m1	nazwisko
 Lewickim	Lewicki	subst:sg:loc:m1	nazwisko	
 Lewinach	Lewin	subst:pl:loc:m1	imię	
 Lewina	Lewin	subst:sg:gen.acc:m1	imię	
-Lewina	Lewin	subst:sg:gen:m1	imię	
 Lewinami	Lewin	subst:pl:inst:m1	imię	
 Lewinem	Lewin	subst:sg:inst:m1	imię	
 Lewinie	Lewin	subst:sg:loc:m1	imię	
@@ -1928,7 +1836,6 @@ Lewiny	Lewin	depr:pl:nom.acc.voc:m2	imię
 Lew	Lew:s1	subst:sg:nom:m1	imię|człon nazwiska	
 Lwach	Lew:s1	subst:pl:loc:m1	imię|człon nazwiska	
 Lwa	Lew:s1	subst:sg:gen.acc:m1	imię|człon nazwiska	
-Lwa	Lew:s1	subst:sg:gen:m1	imię|człon nazwiska	
 Lwami	Lew:s1	subst:pl:inst:m1	imię|człon nazwiska	
 Lwem	Lew:s1	subst:sg:inst:m1	imię|człon nazwiska	
 Lwie	Lew:s1	subst:sg:loc:m1	imię|człon nazwiska	
@@ -1942,7 +1849,6 @@ Lwy	Lew:s1	depr:pl:nom.acc.voc:m2	imię|człon nazwiska
 Lew	Lew:s2	subst:sg:nom:m2	nazwa własna astronomiczna	
 Lwach	Lew:s2	subst:pl:loc:m2	nazwa własna astronomiczna	
 Lwa	Lew:s2	subst:sg:gen.acc:m2	nazwa własna astronomiczna	
-Lwa	Lew:s2	subst:sg:gen:m2	nazwa własna astronomiczna	
 Lwami	Lew:s2	subst:pl:inst:m2	nazwa własna astronomiczna	
 Lwem	Lew:s2	subst:sg:inst:m2	nazwa własna astronomiczna	
 Lwie	Lew:s2	subst:sg:loc:m2	nazwa własna astronomiczna	
@@ -1988,7 +1894,6 @@ Lędzianach	Lędzianin	subst:pl:loc:m1	nazwa pospolita
 Lędzianami	Lędzianin	subst:pl:inst:m1	nazwa pospolita	
 Lędzianie	Lędzianin	subst:pl:nom.voc:m1	nazwa pospolita	
 Lędzianina	Lędzianin	subst:sg:gen.acc:m1	nazwa pospolita	
-Lędzianina	Lędzianin	subst:sg:gen:m1	nazwa pospolita	
 Lędzianinem	Lędzianin	subst:sg:inst:m1	nazwa pospolita	
 Lędzianinie	Lędzianin	subst:sg:loc:m1	nazwa pospolita	
 Lędzianinie	Lędzianin	subst:sg:voc:m1	nazwa pospolita	
@@ -2033,7 +1938,6 @@ Libankom	Libanka	subst:pl:dat:f	nazwa pospolita
 Libańczycy	Libańczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Libańczykach	Libańczyk	subst:pl:loc:m1	nazwa pospolita	
 Libańczyka	Libańczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Libańczyka	Libańczyk	subst:sg:gen:m1	nazwa pospolita	
 Libańczykami	Libańczyk	subst:pl:inst:m1	nazwa pospolita	
 Libańczykiem	Libańczyk	subst:sg:inst:m1	nazwa pospolita	
 Libańczyki	Libańczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -2053,14 +1957,12 @@ Liberom	Libera	subst:pl:dat:m1	nazwisko
 Liberowie	Libera	subst:pl:nom.voc:m1	nazwisko	
 Liberów	Libera	subst:pl:gen.acc:m1	nazwisko	
 Libery	Libera	depr:pl:nom.acc.voc:m2	nazwisko	
-Libery	Libera	subst:sg:gen:m1	nazwisko	
 Liberze	Libera	subst:sg:dat.loc:m1	nazwisko	
 Liberacie	Liberat	subst:sg:loc:m1	imię	
 Liberacie	Liberat	subst:sg:voc:m1	imię	
 Liberaci	Liberat	subst:pl:nom.voc:m1	imię	
 Liberatach	Liberat	subst:pl:loc:m1	imię	
 Liberata	Liberat	subst:sg:gen.acc:m1	imię	
-Liberata	Liberat	subst:sg:gen:m1	imię	
 Liberatami	Liberat	subst:pl:inst:m1	imię	
 Liberatem	Liberat	subst:sg:inst:m1	imię	
 Liberat	Liberat	subst:sg:nom:m1	imię	
@@ -2094,7 +1996,6 @@ Liberiom	Liberia	subst:pl:dat:f	nazwa geograficzna
 Liberyj	Liberia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Liberiuszach	Liberiusz	subst:pl:loc:m1	imię	
 Liberiusza	Liberiusz	subst:sg:gen.acc:m1	imię	
-Liberiusza	Liberiusz	subst:sg:gen:m1	imię	
 Liberiuszami	Liberiusz	subst:pl:inst:m1	imię	
 Liberiusze	Liberiusz	depr:pl:nom.acc.voc:m2	imię	
 Liberiusze	Liberiusz	subst:pl:nom.voc:m1	imię	
@@ -2111,7 +2012,6 @@ Libercie	Libert	subst:sg:voc:m1	imię
 Liberci	Libert	subst:pl:nom.voc:m1	imię	
 Libertach	Libert	subst:pl:loc:m1	imię	
 Liberta	Libert	subst:sg:gen.acc:m1	imię	
-Liberta	Libert	subst:sg:gen:m1	imię	
 Libertami	Libert	subst:pl:inst:m1	imię	
 Libertem	Libert	subst:sg:inst:m1	imię	
 Libert	Libert	subst:sg:nom:m1	imię	
@@ -2123,7 +2023,6 @@ Liberty	Libert	depr:pl:nom.acc.voc:m2	imię
 Liberyjczycy	Liberyjczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Liberyjczykach	Liberyjczyk	subst:pl:loc:m1	nazwa pospolita	
 Liberyjczyka	Liberyjczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Liberyjczyka	Liberyjczyk	subst:sg:gen:m1	nazwa pospolita	
 Liberyjczykami	Liberyjczyk	subst:pl:inst:m1	nazwa pospolita	
 Liberyjczykiem	Liberyjczyk	subst:sg:inst:m1	nazwa pospolita	
 Liberyjczyki	Liberyjczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -2170,7 +2069,6 @@ Libiążu	Libiąż	subst:sg:voc:m3	nazwa geograficzna
 Libijczycy	Libijczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Libijczykach	Libijczyk	subst:pl:loc:m1	nazwa pospolita	
 Libijczyka	Libijczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Libijczyka	Libijczyk	subst:sg:gen:m1	nazwa pospolita	
 Libijczykami	Libijczyk	subst:pl:inst:m1	nazwa pospolita	
 Libijczykiem	Libijczyk	subst:sg:inst:m1	nazwa pospolita	
 Libijczyki	Libijczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -2193,7 +2091,6 @@ Libijko	Libijka	subst:sg:voc:f	nazwa pospolita
 Libijkom	Libijka	subst:pl:dat:f	nazwa pospolita	
 Liboriuszach	Liboriusz	subst:pl:loc:m1	imię	
 Liboriusza	Liboriusz	subst:sg:gen.acc:m1	imię	
-Liboriusza	Liboriusz	subst:sg:gen:m1	imię	
 Liboriuszami	Liboriusz	subst:pl:inst:m1	imię	
 Liboriusze	Liboriusz	depr:pl:nom.acc.voc:m2	imię	
 Liboriusze	Liboriusz	subst:pl:nom.voc:m1	imię	
@@ -2307,7 +2204,6 @@ Ligęzom	Ligęza	subst:pl:dat:m1	nazwisko
 Ligęzowie	Ligęza	subst:pl:nom.voc:m1	nazwisko	
 Ligęzów	Ligęza	subst:pl:gen.acc:m1	nazwisko	
 Ligęzy	Ligęza	depr:pl:nom.acc.voc:m2	nazwisko	
-Ligęzy	Ligęza	subst:sg:gen:m1	nazwisko	
 Ligiach	Ligia	subst:pl:loc:f	imię	
 Ligia	Ligia	subst:sg:nom:f	imię	
 Ligiami	Ligia	subst:pl:inst:f	imię	
@@ -2346,7 +2242,6 @@ Lilio	Lilia	subst:sg:voc:f	imię
 Liliom	Lilia	subst:pl:dat:f	imię	
 Lilianach	Lilian	subst:pl:loc:m1	imię	
 Liliana	Lilian	subst:sg:gen.acc:m1	imię	
-Liliana	Lilian	subst:sg:gen:m1	imię	
 Lilianami	Lilian	subst:pl:inst:m1	imię	
 Lilianem	Lilian	subst:sg:inst:m1	imię	
 Lilianie	Lilian	subst:sg:loc:m1	imię	
@@ -2406,7 +2301,6 @@ Lillom	Lilla	subst:pl:dat:f	imię
 Lillu	Lilla	subst:sg:voc:f	imię	
 Lilpopach	Lilpop	subst:pl:loc:m1	nazwisko	
 Lilpopa	Lilpop	subst:sg:gen.acc:m1	nazwisko	
-Lilpopa	Lilpop	subst:sg:gen:m1	nazwisko	
 Lilpopami	Lilpop	subst:pl:inst:m1	nazwisko	
 Lilpopem	Lilpop	subst:sg:inst:m1	nazwisko	
 Lilpopie	Lilpop	subst:sg:loc:m1	nazwisko	
@@ -2454,7 +2348,6 @@ Limanowscy	Limanowski	subst:pl:nom.voc:m1	nazwisko
 Limanowskich	Limanowski	subst:pl:gen.acc:m1	nazwisko	
 Limanowskich	Limanowski	subst:pl:loc:m1	nazwisko	
 Limanowskiego	Limanowski	subst:sg:gen.acc:m1	nazwisko	
-Limanowskiego	Limanowski	subst:sg:gen:m1	nazwisko	
 Limanowskie	Limanowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Limanowskiemu	Limanowski	subst:sg:dat:m1	nazwisko	
 Limanowski	Limanowski	subst:sg:nom:m1	nazwisko	
@@ -2478,7 +2371,6 @@ Limpopo	Limpopo	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa geograficzna
 Limpopo	Limpopo	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
 Lincolnach	Lincoln	subst:pl:loc:m1	nazwisko	
 Lincolna	Lincoln	subst:sg:gen.acc:m1	nazwisko	
-Lincolna	Lincoln	subst:sg:gen:m1	nazwisko	
 Lincolnami	Lincoln	subst:pl:inst:m1	nazwisko	
 Lincolnem	Lincoln	subst:sg:inst:m1	nazwisko	
 Lincolnie	Lincoln	subst:sg:loc:m1	nazwisko	
@@ -2499,12 +2391,10 @@ Lindom	Linda	subst:pl:dat:m1	nazwisko
 Lindowie	Linda	subst:pl:nom.voc:m1	nazwisko	
 Lindów	Linda	subst:pl:gen.acc:m1	nazwisko	
 Lindy	Linda	depr:pl:nom.acc.voc:m2	nazwisko	
-Lindy	Linda	subst:sg:gen:m1	nazwisko	
 Lindzie	Linda	subst:sg:dat.loc:m1	nazwisko	
 Lindach	Linde	subst:pl:loc:m1	nazwisko	
 Lindami	Linde	subst:pl:inst:m1	nazwisko	
 Lindego	Linde	subst:sg:gen.acc:m1	nazwisko	
-Lindego	Linde	subst:sg:gen:m1	nazwisko	
 Linde	Linde	depr:pl:nom.acc.voc:m2	nazwisko	
 Linde	Linde	subst:sg:nom:m1	nazwisko	
 Linde	Linde	subst:sg:voc:m1	nazwisko	
@@ -2520,7 +2410,6 @@ Lindymi	Linde	subst:pl:inst:m1	nazwisko
 Lindym	Linde	subst:pl:dat:m1	nazwisko	
 Lindgrenach	Lindgren	subst:pl:loc:m1	nazwisko	
 Lindgrena	Lindgren	subst:sg:gen.acc:m1	nazwisko	
-Lindgrena	Lindgren	subst:sg:gen:m1	nazwisko	
 Lindgrenami	Lindgren	subst:pl:inst:m1	nazwisko	
 Lindgrenem	Lindgren	subst:sg:inst:m1	nazwisko	
 Lindgrenie	Lindgren	subst:sg:loc:m1	nazwisko	
@@ -2545,7 +2434,6 @@ Liniom	Linia	subst:pl:dat:f	nazwa geograficzna
 Liń	Linia	subst:pl:gen:f	nazwa geograficzna	char.
 Linneuszach	Linneusz	subst:pl:loc:m1	nazwisko	
 Linneusza	Linneusz	subst:sg:gen.acc:m1	nazwisko	
-Linneusza	Linneusz	subst:sg:gen:m1	nazwisko	
 Linneuszami	Linneusz	subst:pl:inst:m1	nazwisko	
 Linneusze	Linneusz	depr:pl:nom.acc.voc:m2	nazwisko	
 Linneuszem	Linneusz	subst:sg:inst:m1	nazwisko	
@@ -2558,7 +2446,6 @@ Linneuszu	Linneusz	subst:sg:loc:m1	nazwisko
 Linneuszu	Linneusz	subst:sg:voc:m1	nazwisko	
 Linuksach	Linux	subst:pl:loc:m2	nazwa oprogramowania	komp.
 Linuksa	Linux	subst:sg:gen.acc:m2	nazwa oprogramowania	komp.
-Linuksa	Linux	subst:sg:gen:m2	nazwa oprogramowania	komp.
 Linuksami	Linux	subst:pl:inst:m2	nazwa oprogramowania	komp.
 Linuksem	Linux	subst:sg:inst:m2	nazwa oprogramowania	komp.
 Linuksie	Linux	subst:sg:loc:m2	nazwa oprogramowania	komp.
@@ -2570,7 +2457,6 @@ Linuksy	Linux	subst:pl:nom.acc.voc:m2	nazwa oprogramowania	komp.
 Linux	Linux	subst:sg:nom:m2	nazwa oprogramowania	komp.
 Lipcach	Lipiec	subst:pl:loc:m1	nazwisko	
 Lipca	Lipiec	subst:sg:gen.acc:m1	nazwisko	
-Lipca	Lipiec	subst:sg:gen:m1	nazwisko	
 Lipcami	Lipiec	subst:pl:inst:m1	nazwisko	
 Lipce	Lipiec	depr:pl:nom.acc.voc:m2	nazwisko	
 Lipcem	Lipiec	subst:sg:inst:m1	nazwisko	
@@ -2596,7 +2482,6 @@ Lipińscy	Lipiński	subst:pl:nom.voc:m1	nazwisko
 Lipińskich	Lipiński	subst:pl:gen.acc:m1	nazwisko	
 Lipińskich	Lipiński	subst:pl:loc:m1	nazwisko	
 Lipińskiego	Lipiński	subst:sg:gen.acc:m1	nazwisko	
-Lipińskiego	Lipiński	subst:sg:gen:m1	nazwisko	
 Lipińskie	Lipiński	depr:pl:nom.acc.voc:m2	nazwisko	
 Lipińskiemu	Lipiński	subst:sg:dat:m1	nazwisko	
 Lipiński	Lipiński	subst:sg:nom:m1	nazwisko	
@@ -2653,7 +2538,6 @@ Lipscy	Lipski	subst:pl:nom.voc:m1	nazwisko
 Lipskich	Lipski	subst:pl:gen.acc:m1	nazwisko	
 Lipskich	Lipski	subst:pl:loc:m1	nazwisko	
 Lipskiego	Lipski	subst:sg:gen.acc:m1	nazwisko	
-Lipskiego	Lipski	subst:sg:gen:m1	nazwisko	
 Lipskie	Lipski	depr:pl:nom.acc.voc:m2	nazwisko	
 Lipskiemu	Lipski	subst:sg:dat:m1	nazwisko	
 Lipski	Lipski	subst:sg:nom:m1	nazwisko	
@@ -2675,7 +2559,6 @@ Lipsku	Lipsko	subst:sg:loc:n:ncol	nazwa geograficzna
 Liptacy	Liptak	subst:pl:nom.voc:m1	nazwa pospolita	
 Liptakach	Liptak	subst:pl:loc:m1	nazwa pospolita	
 Liptaka	Liptak	subst:sg:gen.acc:m1	nazwa pospolita	
-Liptaka	Liptak	subst:sg:gen:m1	nazwa pospolita	
 Liptakami	Liptak	subst:pl:inst:m1	nazwa pospolita	
 Liptakiem	Liptak	subst:sg:inst:m1	nazwa pospolita	
 Liptaki	Liptak	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -2699,7 +2582,6 @@ Liptowy	Liptów	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Liptów	Liptów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Lisach	Lis	subst:pl:loc:m1	nazwisko	
 Lisa	Lis	subst:sg:gen.acc:m1	nazwisko	
-Lisa	Lis	subst:sg:gen:m1	nazwisko	
 Lisami	Lis	subst:pl:inst:m1	nazwisko	
 Lisem	Lis	subst:sg:inst:m1	nazwisko	
 Lisie	Lis	subst:sg:loc:m1	nazwisko	
@@ -2736,7 +2618,6 @@ Lisieccy	Lisiecki	subst:pl:nom.voc:m1	nazwisko
 Lisieckich	Lisiecki	subst:pl:gen.acc:m1	nazwisko	
 Lisieckich	Lisiecki	subst:pl:loc:m1	nazwisko	
 Lisieckiego	Lisiecki	subst:sg:gen.acc:m1	nazwisko	
-Lisieckiego	Lisiecki	subst:sg:gen:m1	nazwisko	
 Lisieckie	Lisiecki	depr:pl:nom.acc.voc:m2	nazwisko	
 Lisieckiemu	Lisiecki	subst:sg:dat:m1	nazwisko	
 Lisiecki	Lisiecki	subst:sg:nom:m1	nazwisko	
@@ -2759,7 +2640,6 @@ Liskowy	Lisków	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Lisków	Lisków	subst:sg:nom.acc:m3	nazwa geograficzna	
 Lisle’ach	Lisle	subst:pl:loc:m1	nazwisko	
 Lisle’a	Lisle	subst:sg:gen.acc:m1	nazwisko	
-Lisle’a	Lisle	subst:sg:gen:m1	nazwisko	
 Lisle’ami	Lisle	subst:pl:inst:m1	nazwisko	
 Lisle’e	Lisle	depr:pl:nom.acc.voc:m2	nazwisko	
 Lisle’em	Lisle	subst:sg:inst:m1	nazwisko	
@@ -2774,7 +2654,6 @@ Lisowscy	Lisowski	subst:pl:nom.voc:m1	nazwisko
 Lisowskich	Lisowski	subst:pl:gen.acc:m1	nazwisko	
 Lisowskich	Lisowski	subst:pl:loc:m1	nazwisko	
 Lisowskiego	Lisowski	subst:sg:gen.acc:m1	nazwisko	
-Lisowskiego	Lisowski	subst:sg:gen:m1	nazwisko	
 Lisowskie	Lisowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Lisowskiemu	Lisowski	subst:sg:dat:m1	nazwisko	
 Lisowski	Lisowski	subst:sg:nom:m1	nazwisko	
@@ -2798,7 +2677,6 @@ Liszewscy	Liszewski	subst:pl:nom.voc:m1	nazwisko
 Liszewskich	Liszewski	subst:pl:gen.acc:m1	nazwisko	
 Liszewskich	Liszewski	subst:pl:loc:m1	nazwisko	
 Liszewskiego	Liszewski	subst:sg:gen.acc:m1	nazwisko	
-Liszewskiego	Liszewski	subst:sg:gen:m1	nazwisko	
 Liszewskie	Liszewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Liszewskiemu	Liszewski	subst:sg:dat:m1	nazwisko	
 Liszewski	Liszewski	subst:sg:nom:m1	nazwisko	
@@ -2811,7 +2689,6 @@ Liszcie	Liszt	subst:sg:loc:m1	nazwisko
 Liszcie	Liszt	subst:sg:voc:m1	nazwisko	
 Lisztach	Liszt	subst:pl:loc:m1	nazwisko	
 Liszta	Liszt	subst:sg:gen.acc:m1	nazwisko	
-Liszta	Liszt	subst:sg:gen:m1	nazwisko	
 Lisztami	Liszt	subst:pl:inst:m1	nazwisko	
 Lisztem	Liszt	subst:sg:inst:m1	nazwisko	
 Liszt	Liszt	subst:sg:nom:m1	nazwisko	
@@ -2833,7 +2710,6 @@ Litewko	Litewka	subst:sg:voc:f	nazwa pospolita	przest.
 Litewkom	Litewka	subst:pl:dat:f	nazwa pospolita	przest.
 Litmanach	Litman	subst:pl:loc:m1	imię	
 Litmana	Litman	subst:sg:gen.acc:m1	imię	
-Litmana	Litman	subst:sg:gen:m1	imię	
 Litmanami	Litman	subst:pl:inst:m1	imię	
 Litmanem	Litman	subst:sg:inst:m1	imię	
 Litmanie	Litman	subst:sg:loc:m1	imię	
@@ -2859,7 +2735,6 @@ Litwy	Litwa	subst:sg:gen:f	nazwa geograficzna
 Litwacy	Litwak	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 Litwakach	Litwak	subst:pl:loc:m1	nazwa pospolita	daw.
 Litwaka	Litwak	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-Litwaka	Litwak	subst:sg:gen:m1	nazwa pospolita	daw.
 Litwakami	Litwak	subst:pl:inst:m1	nazwa pospolita	daw.
 Litwakiem	Litwak	subst:sg:inst:m1	nazwa pospolita	daw.
 Litwaki	Litwak	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
@@ -2871,7 +2746,6 @@ Litwaku	Litwak	subst:sg:loc:m1	nazwa pospolita	daw.
 Litwaku	Litwak	subst:sg:voc:m1	nazwa pospolita	daw.
 Litwinach	Litwin	subst:pl:loc:m1	nazwa pospolita	
 Litwina	Litwin	subst:sg:gen.acc:m1	nazwa pospolita	
-Litwina	Litwin	subst:sg:gen:m1	nazwa pospolita	
 Litwinami	Litwin	subst:pl:inst:m1	nazwa pospolita	
 Litwinem	Litwin	subst:sg:inst:m1	nazwa pospolita	
 Litwinie	Litwin	subst:sg:loc:m1	nazwa pospolita	
@@ -2908,7 +2782,6 @@ Lityńscy	Lityński	subst:pl:nom.voc:m1	nazwisko
 Lityńskich	Lityński	subst:pl:gen.acc:m1	nazwisko	
 Lityńskich	Lityński	subst:pl:loc:m1	nazwisko	
 Lityńskiego	Lityński	subst:sg:gen.acc:m1	nazwisko	
-Lityńskiego	Lityński	subst:sg:gen:m1	nazwisko	
 Lityńskie	Lityński	depr:pl:nom.acc.voc:m2	nazwisko	
 Lityńskiemu	Lityński	subst:sg:dat:m1	nazwisko	
 Lityński	Lityński	subst:sg:nom:m1	nazwisko	
@@ -2931,7 +2804,6 @@ Liverpoolu	Liverpool	subst:sg:loc:m3	nazwa geograficzna
 Liverpoolu	Liverpool	subst:sg:voc:m3	nazwa geograficzna	
 Livingstone’ach	Livingstone	subst:pl:loc:m1	nazwisko	
 Livingstone’a	Livingstone	subst:sg:gen.acc:m1	nazwisko	
-Livingstone’a	Livingstone	subst:sg:gen:m1	nazwisko	
 Livingstone’ami	Livingstone	subst:pl:inst:m1	nazwisko	
 Livingstone’em	Livingstone	subst:sg:inst:m1	nazwisko	
 Livingstone	Livingstone	subst:sg:nom:m1	nazwisko	
@@ -2956,7 +2828,6 @@ Liwio	Liwia	subst:sg:voc:f	imię
 Liwiom	Liwia	subst:pl:dat:f	imię	
 Liwiuszach	Liwiusz	subst:pl:loc:m1	imię	
 Liwiusza	Liwiusz	subst:sg:gen.acc:m1	imię	
-Liwiusza	Liwiusz	subst:sg:gen:m1	imię	
 Liwiuszami	Liwiusz	subst:pl:inst:m1	imię	
 Liwiusze	Liwiusz	depr:pl:nom.acc.voc:m2	imię	
 Liwiusze	Liwiusz	subst:pl:nom.voc:m1	imię	
@@ -3001,10 +2872,8 @@ Llosom	Llosa	subst:pl:dat:m1	nazwisko
 Llosowie	Llosa	subst:pl:nom.voc:m1	nazwisko	
 Llosów	Llosa	subst:pl:gen.acc:m1	nazwisko	
 Llosy	Llosa	depr:pl:nom.acc.voc:m2	nazwisko	
-Llosy	Llosa	subst:sg:gen:m1	nazwisko	
 Lloydach	Lloyd	subst:pl:loc:m1	nazwisko	
 Lloyda	Lloyd	subst:sg:gen.acc:m1	nazwisko	
-Lloyda	Lloyd	subst:sg:gen:m1	nazwisko	
 Lloydami	Lloyd	subst:pl:inst:m1	nazwisko	
 Lloydem	Lloyd	subst:sg:inst:m1	nazwisko	
 Lloyd	Lloyd	subst:sg:nom:m1	nazwisko	
@@ -3043,7 +2912,6 @@ L	locativus	brev:pun		jęz.
 Loccich	Locci	subst:pl:gen.acc:m1	nazwisko	
 Loccich	Locci	subst:pl:loc:m1	nazwisko	
 Locciego	Locci	subst:sg:gen.acc:m1	nazwisko	
-Locciego	Locci	subst:sg:gen:m1	nazwisko	
 Loccie	Locci	depr:pl:nom.acc.voc:m2	nazwisko	
 Locciemu	Locci	subst:sg:dat:m1	nazwisko	
 Locci	Locci	subst:pl:nom.voc:m1	nazwisko	
@@ -3056,7 +2924,6 @@ Loccim	Locci	subst:sg:loc:m1	nazwisko
 Locciowie	Locci	subst:pl:nom.voc:m1	nazwisko	
 Locke’ach	Locke	subst:pl:loc:m1	nazwisko	
 Locke’a	Locke	subst:sg:gen.acc:m1	nazwisko	
-Locke’a	Locke	subst:sg:gen:m1	nazwisko	
 Locke’ami	Locke	subst:pl:inst:m1	nazwisko	
 Locke	Locke	subst:sg:nom:m1	nazwisko	
 Locke’om	Locke	subst:pl:dat:m1	nazwisko	
@@ -3094,7 +2961,6 @@ Lodź	Lodzia	subst:pl:gen:f	imię	char.
 Lojzeczek	Lojzeczek	subst:sg:nom:m1	imię	
 Lojzeczkach	Lojzeczek	subst:pl:loc:m1	imię	
 Lojzeczka	Lojzeczek	subst:sg:gen.acc:m1	imię	
-Lojzeczka	Lojzeczek	subst:sg:gen:m1	imię	
 Lojzeczkami	Lojzeczek	subst:pl:inst:m1	imię	
 Lojzeczkiem	Lojzeczek	subst:sg:inst:m1	imię	
 Lojzeczki	Lojzeczek	depr:pl:nom.acc.voc:m2	imię	
@@ -3107,7 +2973,6 @@ Lojzeczku	Lojzeczek	subst:sg:voc:m1	imię
 Lojzek	Lojzek	subst:sg:nom:m1	imię	
 Lojzkach	Lojzek	subst:pl:loc:m1	imię	
 Lojzka	Lojzek	subst:sg:gen.acc:m1	imię	
-Lojzka	Lojzek	subst:sg:gen:m1	imię	
 Lojzkami	Lojzek	subst:pl:inst:m1	imię	
 Lojzkiem	Lojzek	subst:sg:inst:m1	imię	
 Lojzki	Lojzek	depr:pl:nom.acc.voc:m2	imię	
@@ -3119,7 +2984,6 @@ Lojzku	Lojzek	subst:sg:loc:m1	imię
 Lojzku	Lojzek	subst:sg:voc:m1	imię	
 Lojzikach	Lojzik	subst:pl:loc:m1	imię	
 Lojzika	Lojzik	subst:sg:gen.acc:m1	imię	
-Lojzika	Lojzik	subst:sg:gen:m1	imię	
 Lojzikami	Lojzik	subst:pl:inst:m1	imię	
 Lojzikiem	Lojzik	subst:sg:inst:m1	imię	
 Lojziki	Lojzik	depr:pl:nom.acc.voc:m2	imię	
@@ -3145,7 +3009,6 @@ LOK-u	LOK	subst:sg:voc:m3	nazwa organizacji
 Lolek	Lolek	subst:sg:nom:m1	imię	
 Lolkach	Lolek	subst:pl:loc:m1	imię	
 Lolka	Lolek	subst:sg:gen.acc:m1	imię	
-Lolka	Lolek	subst:sg:gen:m1	imię	
 Lolkami	Lolek	subst:pl:inst:m1	imię	
 Lolkiem	Lolek	subst:sg:inst:m1	imię	
 Lolki	Lolek	depr:pl:nom.acc.voc:m2	imię	
@@ -3168,7 +3031,6 @@ Lolity	Lolita	subst:pl:nom.acc.voc:f	imię	lit.
 Lolity	Lolita	subst:sg:gen:f	imię	lit.
 Lolach	Lolo	subst:pl:loc:m1	imię	
 Lola	Lolo	subst:sg:gen.acc:m1	imię	
-Lola	Lolo	subst:sg:gen:m1	imię	
 Lolami	Lolo	subst:pl:inst:m1	imię	
 Lole	Lolo	depr:pl:nom.acc.voc:m2	imię	
 Lole	Lolo	subst:pl:nom.voc:m1	imię	
@@ -3182,7 +3044,6 @@ Lolu	Lolo	subst:sg:loc:m1	imię
 Lombardczycy	Lombardczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Lombardczykach	Lombardczyk	subst:pl:loc:m1	nazwa pospolita	
 Lombardczyka	Lombardczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Lombardczyka	Lombardczyk	subst:sg:gen:m1	nazwa pospolita	
 Lombardczykami	Lombardczyk	subst:pl:inst:m1	nazwa pospolita	
 Lombardczykiem	Lombardczyk	subst:sg:inst:m1	nazwa pospolita	
 Lombardczyki	Lombardczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -3217,7 +3078,6 @@ Lombardko	Lombardka	subst:sg:voc:f	nazwa pospolita
 Lombardkom	Lombardka	subst:pl:dat:f	nazwa pospolita	
 Lombrosach	Lombroso	subst:pl:loc:m1	nazwisko	
 Lombrosa	Lombroso	subst:sg:gen.acc:m1	nazwisko	
-Lombrosa	Lombroso	subst:sg:gen:m1	nazwisko	
 Lombrosami	Lombroso	subst:pl:inst:m1	nazwisko	
 Lombrosem	Lombroso	subst:sg:inst:m1	nazwisko	
 Lombrosie	Lombroso	subst:sg:loc:m1	nazwisko	
@@ -3230,7 +3090,6 @@ Lombrosów	Lombroso	subst:pl:gen.acc:m1	nazwisko
 Lombrosy	Lombroso	depr:pl:nom.acc.voc:m2	nazwisko	
 Londonach	London	subst:pl:loc:m1	nazwisko	
 Londona	London	subst:sg:gen.acc:m1	nazwisko	
-Londona	London	subst:sg:gen:m1	nazwisko	
 Londonami	London	subst:pl:inst:m1	nazwisko	
 Londonem	London	subst:sg:inst:m1	nazwisko	
 Londonie	London	subst:sg:loc:m1	nazwisko	
@@ -3255,7 +3114,6 @@ Londyny	Londyn	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Lonek	Lonek	subst:sg:nom:m1	imię	
 Lonkach	Lonek	subst:pl:loc:m1	imię	
 Lonka	Lonek	subst:sg:gen.acc:m1	imię	
-Lonka	Lonek	subst:sg:gen:m1	imię	
 Lonkami	Lonek	subst:pl:inst:m1	imię	
 Lonkiem	Lonek	subst:sg:inst:m1	imię	
 Lonki	Lonek	depr:pl:nom.acc.voc:m2	imię	
@@ -3267,7 +3125,6 @@ Lonku	Lonek	subst:sg:loc:m1	imię
 Lonku	Lonek	subst:sg:voc:m1	imię	
 Longfellowach	Longfellow	subst:pl:loc:m1	nazwisko	
 Longfellowa	Longfellow	subst:sg:gen.acc:m1	nazwisko	
-Longfellowa	Longfellow	subst:sg:gen:m1	nazwisko	
 Longfellowami	Longfellow	subst:pl:inst:m1	nazwisko	
 Longfellowem	Longfellow	subst:sg:inst:m1	nazwisko	
 Longfellow	Longfellow	subst:sg:loc:m1	nazwisko	
@@ -3280,7 +3137,6 @@ Longfellowów	Longfellow	subst:pl:gen.acc:m1	nazwisko
 Longfellowy	Longfellow	depr:pl:nom.acc.voc:m2	nazwisko	
 Longinach	Longin	subst:pl:loc:m1	imię	
 Longina	Longin	subst:sg:gen.acc:m1	imię	
-Longina	Longin	subst:sg:gen:m1	imię	
 Longinami	Longin	subst:pl:inst:m1	imię	
 Longinem	Longin	subst:sg:inst:m1	imię	
 Longinie	Longin	subst:sg:loc:m1	imię	
@@ -3304,7 +3160,6 @@ Longiny	Longina	subst:pl:nom.acc.voc:f	imię
 Longiny	Longina	subst:sg:gen:f	imię	
 Longinusach	Longinus	subst:pl:loc:m1	imię	
 Longinusa	Longinus	subst:sg:gen.acc:m1	imię	
-Longinusa	Longinus	subst:sg:gen:m1	imię	
 Longinusami	Longinus	subst:pl:inst:m1	imię	
 Longinusem	Longinus	subst:sg:inst:m1	imię	
 Longinusie	Longinus	subst:sg:loc:m1	imię	
@@ -3363,11 +3218,9 @@ Lorcom	Lorca	subst:pl:dat:m1	nazwisko
 Lorcowie	Lorca	subst:pl:nom.voc:m1	nazwisko	
 Lorców	Lorca	subst:pl:gen.acc:m1	nazwisko	
 Lorki	Lorca	depr:pl:nom.acc.voc:m2	nazwisko	
-Lorki	Lorca	subst:sg:gen:m1	nazwisko	
 Loren	Loren:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	pseudonim	
 Lorenach	Loren:s2	subst:pl:loc:m1	nazwisko	
 Lorena	Loren:s2	subst:sg:gen.acc:m1	nazwisko	
-Lorena	Loren:s2	subst:sg:gen:m1	nazwisko	
 Lorenami	Loren:s2	subst:pl:inst:m1	nazwisko	
 Lorenem	Loren:s2	subst:sg:inst:m1	nazwisko	
 Lorenie	Loren:s2	subst:sg:loc:m1	nazwisko	
@@ -3380,7 +3233,6 @@ Lorenów	Loren:s2	subst:pl:gen.acc:m1	nazwisko
 Loreny	Loren:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Lorentzach	Lorentz	subst:pl:loc:m1	nazwisko	
 Lorentza	Lorentz	subst:sg:gen.acc:m1	nazwisko	
-Lorentza	Lorentz	subst:sg:gen:m1	nazwisko	
 Lorentzami	Lorentz	subst:pl:inst:m1	nazwisko	
 Lorentze	Lorentz	depr:pl:nom.acc.voc:m2	nazwisko	
 Lorentzem	Lorentz	subst:sg:inst:m1	nazwisko	
@@ -3406,7 +3258,6 @@ Loretty	Loretta	subst:sg:gen:f	imię
 Los	Los	burk		
 Loseyach	Losey	subst:pl:loc:m1	nazwisko	
 Loseya	Losey	subst:sg:gen.acc:m1	nazwisko	
-Loseya	Losey	subst:sg:gen:m1	nazwisko	
 Loseyami	Losey	subst:pl:inst:m1	nazwisko	
 Loseye	Losey	depr:pl:nom.acc.voc:m2	nazwisko	
 Loseyem	Losey	subst:sg:inst:m1	nazwisko	
@@ -3422,7 +3273,6 @@ Locie	Lot	subst:sg:voc:m1	imię
 Loci	Lot	subst:pl:nom.voc:m1	imię	
 Lotach	Lot	subst:pl:loc:m1	imię	
 Lota	Lot	subst:sg:gen.acc:m1	imię	
-Lota	Lot	subst:sg:gen:m1	imię	
 Lotami	Lot	subst:pl:inst:m1	imię	
 Lotem	Lot	subst:sg:inst:m1	imię	
 Lot	Lot	subst:sg:nom:m1	imię	
@@ -3446,7 +3296,6 @@ LOT-u	LOT	subst:sg:gen:m3	nazwa firmy
 LOT-y	LOT	subst:pl:nom.acc.voc:m3	nazwa firmy	
 Lotarach	Lotar	subst:pl:loc:m1	imię	
 Lotara	Lotar	subst:sg:gen.acc:m1	imię	
-Lotara	Lotar	subst:sg:gen:m1	imię	
 Lotarami	Lotar	subst:pl:inst:m1	imię	
 Lotarem	Lotar	subst:sg:inst:m1	imię	
 Lotar	Lotar	subst:sg:nom:m1	imię	
@@ -3471,7 +3320,6 @@ Lotaryngio	Lotaryngia	subst:sg:voc:f	nazwa geograficzna
 Lotaryngiom	Lotaryngia	subst:pl:dat:f	nazwa geograficzna	
 Louisach	Louis	subst:pl:loc:m1	imię	
 Louisa	Louis	subst:sg:gen.acc:m1	imię	
-Louisa	Louis	subst:sg:gen:m1	imię	
 Louisami	Louis	subst:pl:inst:m1	imię	
 Louisem	Louis	subst:sg:inst:m1	imię	
 Louisie	Louis	subst:sg:loc:m1	imię	
@@ -3603,7 +3451,6 @@ Lubawki	Lubawka	subst:sg:gen:f	nazwa geograficzna
 Lubawko	Lubawka	subst:sg:voc:f	nazwa geograficzna	
 Lubawkom	Lubawka	subst:pl:dat:f	nazwa geograficzna	
 Lubawego	Lubawy	subst:sg:gen.acc:m1	nazwisko	
-Lubawego	Lubawy	subst:sg:gen:m1	nazwisko	
 Lubawe	Lubawy	depr:pl:nom.acc.voc:m2	nazwisko	
 Lubawemu	Lubawy	subst:sg:dat:m1	nazwisko	
 Lubawi	Lubawy	subst:pl:nom.voc:m1	nazwisko	
@@ -3619,7 +3466,6 @@ Lubeccy	Lubecki	subst:pl:nom.voc:m1	nazwisko
 Lubeckich	Lubecki	subst:pl:gen.acc:m1	nazwisko	
 Lubeckich	Lubecki	subst:pl:loc:m1	nazwisko	
 Lubeckiego	Lubecki	subst:sg:gen.acc:m1	nazwisko	
-Lubeckiego	Lubecki	subst:sg:gen:m1	nazwisko	
 Lubeckie	Lubecki	depr:pl:nom.acc.voc:m2	nazwisko	
 Lubeckiemu	Lubecki	subst:sg:dat:m1	nazwisko	
 Lubecki	Lubecki	subst:sg:nom:m1	nazwisko	
@@ -3682,7 +3528,6 @@ Luberom	Lubera	subst:pl:dat:m1	nazwisko
 Luberowie	Lubera	subst:pl:nom.voc:m1	nazwisko	
 Luberów	Lubera	subst:pl:gen.acc:m1	nazwisko	
 Lubery	Lubera	depr:pl:nom.acc.voc:m2	nazwisko	
-Lubery	Lubera	subst:sg:gen:m1	nazwisko	
 Luberze	Lubera	subst:sg:dat.loc:m1	nazwisko	
 Lubiążach	Lubiąż	subst:pl:loc:m3	nazwa geograficzna	
 Lubiąża	Lubiąż	subst:sg:gen:m3	nazwa geograficzna	
@@ -3808,7 +3653,6 @@ Lubochnio	Lubochnia	subst:sg:voc:f	nazwa geograficzna
 Lubochniom	Lubochnia	subst:pl:dat:f	nazwa geograficzna	
 Lubogostach	Lubogost	subst:pl:loc:m1	imię	
 Lubogosta	Lubogost	subst:sg:gen.acc:m1	imię	
-Lubogosta	Lubogost	subst:sg:gen:m1	imię	
 Lubogostami	Lubogost	subst:pl:inst:m1	imię	
 Lubogostem	Lubogost	subst:sg:inst:m1	imię	
 Lubogost	Lubogost	subst:sg:nom:m1	imię	
@@ -3832,7 +3676,6 @@ Lubomio	Lubomia	subst:sg:voc:f	nazwa geograficzna
 Lubomiom	Lubomia	subst:pl:dat:f	nazwa geograficzna	
 Lubomirach	Lubomir	subst:pl:loc:m1	imię	
 Lubomira	Lubomir	subst:sg:gen.acc:m1	imię	
-Lubomira	Lubomir	subst:sg:gen:m1	imię	
 Lubomirami	Lubomir	subst:pl:inst:m1	imię	
 Lubomirem	Lubomir	subst:sg:inst:m1	imię	
 Lubomir	Lubomir	subst:sg:nom:m1	imię	
@@ -3870,7 +3713,6 @@ Lubomirscy	Lubomirski	subst:pl:nom.voc:m1	nazwisko
 Lubomirskich	Lubomirski	subst:pl:gen.acc:m1	nazwisko	
 Lubomirskich	Lubomirski	subst:pl:loc:m1	nazwisko	
 Lubomirskiego	Lubomirski	subst:sg:gen.acc:m1	nazwisko	
-Lubomirskiego	Lubomirski	subst:sg:gen:m1	nazwisko	
 Lubomirskie	Lubomirski	depr:pl:nom.acc.voc:m2	nazwisko	
 Lubomirskiemu	Lubomirski	subst:sg:dat:m1	nazwisko	
 Lubomirski	Lubomirski	subst:sg:nom:m1	nazwisko	
@@ -3881,7 +3723,6 @@ Lubomirskim	Lubomirski	subst:sg:inst:m1	nazwisko
 Lubomirskim	Lubomirski	subst:sg:loc:m1	nazwisko	
 Lubomysłach	Lubomysł	subst:pl:loc:m1	imię	
 Lubomysła	Lubomysł	subst:sg:gen.acc:m1	imię	
-Lubomysła	Lubomysł	subst:sg:gen:m1	imię	
 Lubomysłami	Lubomysł	subst:pl:inst:m1	imię	
 Lubomysłem	Lubomysł	subst:sg:inst:m1	imię	
 Lubomysł	Lubomysł	subst:sg:nom:m1	imię	
@@ -3906,7 +3747,6 @@ Luboniu	Luboń	subst:sg:voc:m3	nazwa geograficzna
 Luboń	Luboń	subst:sg:nom.acc:m3	nazwa geograficzna	
 Luborach	Lubor	subst:pl:loc:m1	imię	
 Lubora	Lubor	subst:sg:gen.acc:m1	imię	
-Lubora	Lubor	subst:sg:gen:m1	imię	
 Luborami	Lubor	subst:pl:inst:m1	imię	
 Luborem	Lubor	subst:sg:inst:m1	imię	
 Lubor	Lubor	subst:sg:nom:m1	imię	
@@ -3920,7 +3760,6 @@ Luborze	Lubor	subst:sg:voc:m1	imię
 Luborzy	Lubor	subst:pl:nom.voc:m1	imię	
 Lubosławach	Lubosław	subst:pl:loc:m1	imię	
 Lubosława	Lubosław	subst:sg:gen.acc:m1	imię	
-Lubosława	Lubosław	subst:sg:gen:m1	imię	
 Lubosławami	Lubosław	subst:pl:inst:m1	imię	
 Lubosławem	Lubosław	subst:sg:inst:m1	imię	
 Lubosławie	Lubosław	subst:sg:loc:m1	imię	
@@ -3943,7 +3782,6 @@ Luboszom	Lubosza	subst:pl:dat:m1	imię
 Luboszowie	Lubosza	subst:pl:nom.voc:m1	imię	
 Luboszów	Lubosza	subst:pl:gen.acc:m1	imię	
 Luboszy	Lubosza	subst:sg:dat.loc:m1	imię	
-Luboszy	Lubosza	subst:sg:gen:m1	imię	
 Lubotyniach	Lubotyń	subst:pl:loc:m3	nazwa geograficzna	
 Lubotynia	Lubotyń	subst:sg:gen:m3	nazwa geograficzna	
 Lubotyniami	Lubotyń	subst:pl:inst:m3	nazwa geograficzna	
@@ -3980,7 +3818,6 @@ Lubuszanach	Lubuszanin	subst:pl:loc:m1	nazwa pospolita
 Lubuszanami	Lubuszanin	subst:pl:inst:m1	nazwa pospolita	
 Lubuszanie	Lubuszanin	subst:pl:nom.voc:m1	nazwa pospolita	
 Lubuszanina	Lubuszanin	subst:sg:gen.acc:m1	nazwa pospolita	
-Lubuszanina	Lubuszanin	subst:sg:gen:m1	nazwa pospolita	
 Lubuszaninem	Lubuszanin	subst:sg:inst:m1	nazwa pospolita	
 Lubuszaninie	Lubuszanin	subst:sg:loc:m1	nazwa pospolita	
 Lubuszaninie	Lubuszanin	subst:sg:voc:m1	nazwa pospolita	
@@ -3992,7 +3829,6 @@ Lubuszany	Lubuszanin	depr:pl:nom.acc.voc:m2	nazwa pospolita
 Lucek	Lucek	subst:sg:nom:m1	imię	
 Luckach	Lucek	subst:pl:loc:m1	imię	
 Lucka	Lucek	subst:sg:gen.acc:m1	imię	
-Lucka	Lucek	subst:sg:gen:m1	imię	
 Luckami	Lucek	subst:pl:inst:m1	imię	
 Luckiem	Lucek	subst:sg:inst:m1	imię	
 Lucki	Lucek	depr:pl:nom.acc.voc:m2	imię	
@@ -4016,7 +3852,6 @@ Luciu	Lucia	subst:sg:voc:f	imię
 Luć	Lucia	subst:pl:gen:f	imię	char.
 Luciach	Lucio	subst:pl:loc:m1	imię	
 Lucia	Lucio	subst:sg:gen.acc:m1	imię	
-Lucia	Lucio	subst:sg:gen:m1	imię	
 Luciami	Lucio	subst:pl:inst:m1	imię	
 Lucie	Lucio	depr:pl:nom.acc.voc:m2	imię	
 Luciem	Lucio	subst:sg:inst:m1	imię	
@@ -4041,7 +3876,6 @@ Lucjom	Lucja	subst:pl:dat:f	imię
 Lucyj	Lucja	subst:pl:gen:f	imię	arch.|char.
 Lucjanach	Lucjan	subst:pl:loc:m1	imię	
 Lucjana	Lucjan	subst:sg:gen.acc:m1	imię	
-Lucjana	Lucjan	subst:sg:gen:m1	imię	
 Lucjanami	Lucjan	subst:pl:inst:m1	imię	
 Lucjanem	Lucjan	subst:sg:inst:m1	imię	
 Lucjanie	Lucjan	subst:sg:loc:m1	imię	
@@ -4065,7 +3899,6 @@ Lucjolom	Lucjola	subst:pl:dat:f	imię
 Lucjolu	Lucjola	subst:sg:voc:f	imię	
 Lucjuszach	Lucjusz	subst:pl:loc:m1	imię	
 Lucjusza	Lucjusz	subst:sg:gen.acc:m1	imię	
-Lucjusza	Lucjusz	subst:sg:gen:m1	imię	
 Lucjuszami	Lucjusz	subst:pl:inst:m1	imię	
 Lucjusze	Lucjusz	depr:pl:nom.acc.voc:m2	imię	
 Lucjusze	Lucjusz	subst:pl:nom.voc:m1	imię	
@@ -4079,7 +3912,6 @@ Lucjuszu	Lucjusz	subst:sg:loc:m1	imię
 Lucjuszu	Lucjusz	subst:sg:voc:m1	imię	
 Lucusiach	Lucuś	subst:pl:loc:m1	imię	
 Lucusia	Lucuś	subst:sg:gen.acc:m1	imię	
-Lucusia	Lucuś	subst:sg:gen:m1	imię	
 Lucusiami	Lucuś	subst:pl:inst:m1	imię	
 Lucusie	Lucuś	depr:pl:nom.acc.voc:m2	imię	
 Lucusie	Lucuś	subst:pl:nom.voc:m1	imię	
@@ -4095,8 +3927,6 @@ Lucyferach	Lucyfer	subst:pl:loc:m1	imię
 Lucyferach	Lucyfer	subst:pl:loc:m2	imię	
 Lucyfera	Lucyfer	subst:sg:gen.acc:m1	imię	
 Lucyfera	Lucyfer	subst:sg:gen.acc:m2	imię	
-Lucyfera	Lucyfer	subst:sg:gen:m1	imię	
-Lucyfera	Lucyfer	subst:sg:gen:m2	imię	
 Lucyferami	Lucyfer	subst:pl:inst:m1	imię	
 Lucyferami	Lucyfer	subst:pl:inst:m2	imię	
 Lucyferem	Lucyfer	subst:sg:inst:m1	imię	
@@ -4132,7 +3962,6 @@ Lucylom	Lucyla	subst:pl:dat:f	imię
 Lucylu	Lucyla	subst:sg:voc:f	imię	
 Lucylianach	Lucylian	subst:pl:loc:m1	imię	
 Lucyliana	Lucylian	subst:sg:gen.acc:m1	imię	
-Lucyliana	Lucylian	subst:sg:gen:m1	imię	
 Lucylianami	Lucylian	subst:pl:inst:m1	imię	
 Lucylianem	Lucylian	subst:sg:inst:m1	imię	
 Lucylianie	Lucylian	subst:sg:loc:m1	imię	
@@ -4172,8 +4001,6 @@ Lucyperach	Lucyper	subst:pl:loc:m1	imię
 Lucyperach	Lucyper	subst:pl:loc:m2	imię	
 Lucypera	Lucyper	subst:sg:gen.acc:m1	imię	
 Lucypera	Lucyper	subst:sg:gen.acc:m2	imię	
-Lucypera	Lucyper	subst:sg:gen:m1	imię	
-Lucypera	Lucyper	subst:sg:gen:m2	imię	
 Lucyperami	Lucyper	subst:pl:inst:m1	imię	
 Lucyperami	Lucyper	subst:pl:inst:m2	imię	
 Lucyperem	Lucyper	subst:sg:inst:m1	imię	
@@ -4197,7 +4024,6 @@ Lucyperzy	Lucyper	subst:pl:nom.voc:m1	imię
 Ludeczek	Ludeczek	subst:sg:nom:m1	imię	
 Ludeczkach	Ludeczek	subst:pl:loc:m1	imię	
 Ludeczka	Ludeczek	subst:sg:gen.acc:m1	imię	
-Ludeczka	Ludeczek	subst:sg:gen:m1	imię	
 Ludeczkami	Ludeczek	subst:pl:inst:m1	imię	
 Ludeczkiem	Ludeczek	subst:sg:inst:m1	imię	
 Ludeczki	Ludeczek	depr:pl:nom.acc.voc:m2	imię	
@@ -4221,7 +4047,6 @@ Ludeczkom	Ludeczka	subst:pl:dat:f	imię
 Ludek	Ludek	subst:sg:nom:m1	imię	
 Ludkach	Ludek	subst:pl:loc:m1	imię	
 Ludka	Ludek	subst:sg:gen.acc:m1	imię	
-Ludka	Ludek	subst:sg:gen:m1	imię	
 Ludkami	Ludek	subst:pl:inst:m1	imię	
 Ludkiem	Ludek	subst:sg:inst:m1	imię	
 Ludki	Ludek	depr:pl:nom.acc.voc:m2	imię	
@@ -4255,7 +4080,6 @@ Ludko	Ludka	subst:sg:voc:f	imię
 Ludkom	Ludka	subst:pl:dat:f	imię	
 Ludlumach	Ludlum	subst:pl:loc:m1	nazwisko	
 Ludluma	Ludlum	subst:sg:gen.acc:m1	nazwisko	
-Ludluma	Ludlum	subst:sg:gen:m1	nazwisko	
 Ludlumami	Ludlum	subst:pl:inst:m1	nazwisko	
 Ludlumem	Ludlum	subst:sg:inst:m1	nazwisko	
 Ludlumie	Ludlum	subst:sg:loc:m1	nazwisko	
@@ -4281,7 +4105,6 @@ Ludomile	Ludomił	subst:sg:loc:m1	imię
 Ludomile	Ludomił	subst:sg:voc:m1	imię	
 Ludomiłach	Ludomił	subst:pl:loc:m1	imię	
 Ludomiła	Ludomił	subst:sg:gen.acc:m1	imię	
-Ludomiła	Ludomił	subst:sg:gen:m1	imię	
 Ludomiłami	Ludomił	subst:pl:inst:m1	imię	
 Ludomiłem	Ludomił	subst:sg:inst:m1	imię	
 Ludomił	Ludomił	subst:sg:nom:m1	imię	
@@ -4303,7 +4126,6 @@ Ludomiły	Ludomiła	subst:pl:nom.acc.voc:f	imię
 Ludomiły	Ludomiła	subst:sg:gen:f	imię	
 Ludomirach	Ludomir	subst:pl:loc:m1	imię	
 Ludomira	Ludomir	subst:sg:gen.acc:m1	imię	
-Ludomira	Ludomir	subst:sg:gen:m1	imię	
 Ludomirami	Ludomir	subst:pl:inst:m1	imię	
 Ludomirem	Ludomir	subst:sg:inst:m1	imię	
 Ludomir	Ludomir	subst:sg:nom:m1	imię	
@@ -4328,7 +4150,6 @@ Ludomiry	Ludomira	subst:sg:gen:f	imię
 Ludomirze	Ludomira	subst:sg:dat.loc:f	imię	
 Ludosławach	Ludosław	subst:pl:loc:m1	imię	
 Ludosława	Ludosław	subst:sg:gen.acc:m1	imię	
-Ludosława	Ludosław	subst:sg:gen:m1	imię	
 Ludosławami	Ludosław	subst:pl:inst:m1	imię	
 Ludosławem	Ludosław	subst:sg:inst:m1	imię	
 Ludosławie	Ludosław	subst:sg:loc:m1	imię	
@@ -4342,7 +4163,6 @@ Ludosławów	Ludosław	subst:pl:gen.acc:m1	imię
 Ludosławy	Ludosław	depr:pl:nom.acc.voc:m2	imię	
 Ludvigach	Ludvig	subst:pl:loc:m1	imię	
 Ludviga	Ludvig	subst:sg:gen.acc:m1	imię	
-Ludviga	Ludvig	subst:sg:gen:m1	imię	
 Ludvigami	Ludvig	subst:pl:inst:m1	imię	
 Ludvigiem	Ludvig	subst:sg:inst:m1	imię	
 Ludvigi	Ludvig	depr:pl:nom.acc.voc:m2	imię	
@@ -4356,7 +4176,6 @@ Ludvigu	Ludvig	subst:sg:voc:m1	imię
 Ludwiczek	Ludwiczek	subst:sg:nom:m1	imię	
 Ludwiczkach	Ludwiczek	subst:pl:loc:m1	imię	
 Ludwiczka	Ludwiczek	subst:sg:gen.acc:m1	imię	
-Ludwiczka	Ludwiczek	subst:sg:gen:m1	imię	
 Ludwiczkami	Ludwiczek	subst:pl:inst:m1	imię	
 Ludwiczkiem	Ludwiczek	subst:sg:inst:m1	imię	
 Ludwiczki	Ludwiczek	depr:pl:nom.acc.voc:m2	imię	
@@ -4368,7 +4187,6 @@ Ludwiczku	Ludwiczek	subst:sg:loc:m1	imię
 Ludwiczku	Ludwiczek	subst:sg:voc:m1	imię	
 Ludwikach	Ludwik	subst:pl:loc:m1	imię	
 Ludwika	Ludwik	subst:sg:gen.acc:m1	imię	
-Ludwika	Ludwik	subst:sg:gen:m1	imię	
 Ludwikami	Ludwik	subst:pl:inst:m1	imię	
 Ludwikiem	Ludwik	subst:sg:inst:m1	imię	
 Ludwiki	Ludwik	depr:pl:nom.acc.voc:m2	imię	
@@ -4438,7 +4256,6 @@ Ludwisiu	Ludwisia	subst:sg:voc:f	imię
 Ludwiś	Ludwisia	subst:pl:gen:f	imię	char.
 Ludwisiach	Ludwiś	subst:pl:loc:m1	imię	
 Ludwisia	Ludwiś	subst:sg:gen.acc:m1	imię	
-Ludwisia	Ludwiś	subst:sg:gen:m1	imię	
 Ludwisiami	Ludwiś	subst:pl:inst:m1	imię	
 Ludwisie	Ludwiś	depr:pl:nom.acc.voc:m2	imię	
 Ludwisie	Ludwiś	subst:pl:nom.voc:m1	imię	
@@ -4496,7 +4313,6 @@ Luko	Luka	subst:sg:voc:f	człon nazwy geograficznej
 Lukom	Luka	subst:pl:dat:f	człon nazwy geograficznej	
 Lukácsach	Lukács	subst:pl:loc:m1	nazwisko	
 Lukácsa	Lukács	subst:sg:gen.acc:m1	nazwisko	
-Lukácsa	Lukács	subst:sg:gen:m1	nazwisko	
 Lukácsami	Lukács	subst:pl:inst:m1	nazwisko	
 Lukácse	Lukács	depr:pl:nom.acc.voc:m2	nazwisko	
 Lukácsem	Lukács	subst:sg:inst:m1	nazwisko	
@@ -4521,7 +4337,6 @@ Lukrecjom	Lukrecja	subst:pl:dat:f	imię
 Lukrecyj	Lukrecja	subst:pl:gen:f	imię	arch.|char.
 Lukrecjuszach	Lukrecjusz	subst:pl:loc:m1	imię	
 Lukrecjusza	Lukrecjusz	subst:sg:gen.acc:m1	imię	
-Lukrecjusza	Lukrecjusz	subst:sg:gen:m1	imię	
 Lukrecjuszami	Lukrecjusz	subst:pl:inst:m1	imię	
 Lukrecjusze	Lukrecjusz	depr:pl:nom.acc.voc:m2	imię	
 Lukrecjusze	Lukrecjusz	subst:pl:nom.voc:m1	imię	
@@ -4536,7 +4351,6 @@ Lukrecjuszu	Lukrecjusz	subst:sg:voc:m1	imię
 Luksemburczycy	Luksemburczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Luksemburczykach	Luksemburczyk	subst:pl:loc:m1	nazwa pospolita	
 Luksemburczyka	Luksemburczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Luksemburczyka	Luksemburczyk	subst:sg:gen:m1	nazwa pospolita	
 Luksemburczykami	Luksemburczyk	subst:pl:inst:m1	nazwa pospolita	
 Luksemburczykiem	Luksemburczyk	subst:sg:inst:m1	nazwa pospolita	
 Luksemburczyki	Luksemburczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -4570,7 +4384,6 @@ Luksemburko	Luksemburka	subst:sg:voc:f	nazwa pospolita
 Luksemburkom	Luksemburka	subst:pl:dat:f	nazwa pospolita	
 Lukullusach	Lukullus	subst:pl:loc:m1	imię	
 Lukullusa	Lukullus	subst:sg:gen.acc:m1	imię	
-Lukullusa	Lukullus	subst:sg:gen:m1	imię	
 Lukullusami	Lukullus	subst:pl:inst:m1	imię	
 Lukullusem	Lukullus	subst:sg:inst:m1	imię	
 Lukullusie	Lukullus	subst:sg:loc:m1	imię	
@@ -4584,7 +4397,6 @@ Lukullusów	Lukullus	subst:pl:gen.acc:m1	imię
 Lukullusy	Lukullus	depr:pl:nom.acc.voc:m2	imię	
 Lumiere’ach	Lumiere	subst:pl:loc:m1	nazwisko	
 Lumiere’a	Lumiere	subst:sg:gen.acc:m1	nazwisko	
-Lumiere’a	Lumiere	subst:sg:gen:m1	nazwisko	
 Lumiere’ami	Lumiere	subst:pl:inst:m1	nazwisko	
 Lumiere’em	Lumiere	subst:sg:inst:m1	nazwisko	
 Lumiere	Lumiere	subst:sg:nom:m1	nazwisko	
@@ -4609,7 +4421,6 @@ Lundzie	Lund	subst:sg:loc:m3	nazwa geograficzna
 Lundzie	Lund	subst:sg:voc:m3	nazwa geograficzna	
 Lundegårdhach	Lundegårdh	subst:pl:loc:m1	nazwisko	
 Lundegårdha	Lundegårdh	subst:sg:gen.acc:m1	nazwisko	
-Lundegårdha	Lundegårdh	subst:sg:gen:m1	nazwisko	
 Lundegårdhami	Lundegårdh	subst:pl:inst:m1	nazwisko	
 Lundegårdhem	Lundegårdh	subst:sg:inst:m1	nazwisko	
 Lundegårdh	Lundegårdh	subst:sg:nom:m1	nazwisko	
@@ -4622,7 +4433,6 @@ Lundegårdzie	Lundegårdh	subst:sg:loc:m1	nazwisko
 Lundegårdzie	Lundegårdh	subst:sg:voc:m1	nazwisko	
 Lupusach	Lupus	subst:pl:loc:m1	imię	
 Lupusa	Lupus	subst:sg:gen.acc:m1	imię	
-Lupusa	Lupus	subst:sg:gen:m1	imię	
 Lupusami	Lupus	subst:pl:inst:m1	imię	
 Lupusem	Lupus	subst:sg:inst:m1	imię	
 Lupusie	Lupus	subst:sg:loc:m1	imię	
@@ -4659,7 +4469,6 @@ Lusiu	Lusia	subst:sg:voc:f	imię
 Luś	Lusia	subst:pl:gen:f	imię	char.
 Lussacach	Lussac	subst:pl:loc:m1	nazwisko	
 Lussaca	Lussac	subst:sg:gen.acc:m1	nazwisko	
-Lussaca	Lussac	subst:sg:gen:m1	nazwisko	
 Lussacami	Lussac	subst:pl:inst:m1	nazwisko	
 Lussac	Lussac	subst:sg:nom:m1	nazwisko	
 Lussacom	Lussac	subst:pl:dat:m1	nazwisko	
@@ -4684,7 +4493,6 @@ Luśkom	Luśka	subst:pl:dat:f	imię
 Lutek	Lutek	subst:sg:nom:m1	imię	
 Lutkach	Lutek	subst:pl:loc:m1	imię	
 Lutka	Lutek	subst:sg:gen.acc:m1	imię	
-Lutka	Lutek	subst:sg:gen:m1	imię	
 Lutkami	Lutek	subst:pl:inst:m1	imię	
 Lutkiem	Lutek	subst:sg:inst:m1	imię	
 Lutki	Lutek	depr:pl:nom.acc.voc:m2	imię	
@@ -4697,7 +4505,6 @@ Lutku	Lutek	subst:sg:voc:m1	imię
 Luter	Luter	subst:sg:nom:m1	nazwisko	
 Lutrach	Luter	subst:pl:loc:m1	nazwisko	
 Lutra	Luter	subst:sg:gen.acc:m1	nazwisko	
-Lutra	Luter	subst:sg:gen:m1	nazwisko	
 Lutrami	Luter	subst:pl:inst:m1	nazwisko	
 Lutrem	Luter	subst:sg:inst:m1	nazwisko	
 Lutrom	Luter	subst:pl:dat:m1	nazwisko	
@@ -4709,7 +4516,6 @@ Lutrze	Luter	subst:sg:loc:m1	nazwisko
 Lutrze	Luter	subst:sg:voc:m1	nazwisko	
 Lutherach	Luther	subst:pl:loc:m1	nazwisko	
 Luthera	Luther	subst:sg:gen.acc:m1	nazwisko	
-Luthera	Luther	subst:sg:gen:m1	nazwisko	
 Lutherami	Luther	subst:pl:inst:m1	nazwisko	
 Lutherem	Luther	subst:sg:inst:m1	nazwisko	
 Luther	Luther	subst:sg:nom:m1	nazwisko	
@@ -4722,7 +4528,6 @@ Lutherze	Luther	subst:sg:loc:m1	nazwisko
 Lutherze	Luther	subst:sg:voc:m1	nazwisko	
 Lutoborach	Lutobor	subst:pl:loc:m1	imię	
 Lutobora	Lutobor	subst:sg:gen.acc:m1	imię	
-Lutobora	Lutobor	subst:sg:gen:m1	imię	
 Lutoborami	Lutobor	subst:pl:inst:m1	imię	
 Lutoborem	Lutobor	subst:sg:inst:m1	imię	
 Lutobor	Lutobor	subst:sg:nom:m1	imię	
@@ -4736,7 +4541,6 @@ Lutoborze	Lutobor	subst:sg:voc:m1	imię
 Lutoborzy	Lutobor	subst:pl:nom.voc:m1	imię	
 Lutogniewach	Lutogniew	subst:pl:loc:m1	imię	
 Lutogniewa	Lutogniew	subst:sg:gen.acc:m1	imię	
-Lutogniewa	Lutogniew	subst:sg:gen:m1	imię	
 Lutogniewami	Lutogniew	subst:pl:inst:m1	imię	
 Lutogniewem	Lutogniew	subst:sg:inst:m1	imię	
 Lutogniewie	Lutogniew	subst:sg:loc:m1	imię	
@@ -4749,7 +4553,6 @@ Lutogniewów	Lutogniew	subst:pl:gen.acc:m1	imię
 Lutogniewy	Lutogniew	depr:pl:nom.acc.voc:m2	imię	
 Lutomirach	Lutomir	subst:pl:loc:m1	imię	
 Lutomira	Lutomir	subst:sg:gen.acc:m1	imię	
-Lutomira	Lutomir	subst:sg:gen:m1	imię	
 Lutomirami	Lutomir	subst:pl:inst:m1	imię	
 Lutomirem	Lutomir	subst:sg:inst:m1	imię	
 Lutomir	Lutomir	subst:sg:nom:m1	imię	
@@ -4763,7 +4566,6 @@ Lutomirze	Lutomir	subst:sg:voc:m1	imię
 Lutomirzy	Lutomir	subst:pl:nom.voc:m1	imię	
 Lutomysłach	Lutomysł	subst:pl:loc:m1	imię	
 Lutomysła	Lutomysł	subst:sg:gen.acc:m1	imię	
-Lutomysła	Lutomysł	subst:sg:gen:m1	imię	
 Lutomysłami	Lutomysł	subst:pl:inst:m1	imię	
 Lutomysłem	Lutomysł	subst:sg:inst:m1	imię	
 Lutomysł	Lutomysł	subst:sg:nom:m1	imię	
@@ -4776,7 +4578,6 @@ Lutomyśle	Lutomysł	subst:sg:loc:m1	imię
 Lutomyśle	Lutomysł	subst:sg:voc:m1	imię	
 Lutosławach	Lutosław	subst:pl:loc:m1	imię	
 Lutosława	Lutosław	subst:sg:gen.acc:m1	imię	
-Lutosława	Lutosław	subst:sg:gen:m1	imię	
 Lutosławami	Lutosław	subst:pl:inst:m1	imię	
 Lutosławem	Lutosław	subst:sg:inst:m1	imię	
 Lutosławie	Lutosław	subst:sg:loc:m1	imię	
@@ -4803,7 +4604,6 @@ Lutosławscy	Lutosławski	subst:pl:nom.voc:m1	nazwisko
 Lutosławskich	Lutosławski	subst:pl:gen.acc:m1	nazwisko	
 Lutosławskich	Lutosławski	subst:pl:loc:m1	nazwisko	
 Lutosławskiego	Lutosławski	subst:sg:gen.acc:m1	nazwisko	
-Lutosławskiego	Lutosławski	subst:sg:gen:m1	nazwisko	
 Lutosławskie	Lutosławski	depr:pl:nom.acc.voc:m2	nazwisko	
 Lutosławskiemu	Lutosławski	subst:sg:dat:m1	nazwisko	
 Lutosławski	Lutosławski	subst:sg:nom:m1	nazwisko	
@@ -4836,7 +4636,6 @@ Lututowy	Lututów	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Lututów	Lututów	subst:sg:nom.acc:m3	nazwa geograficzna	
 Lutzach	Lutz	subst:pl:loc:m1	nazwisko	
 Lutza	Lutz	subst:sg:gen.acc:m1	nazwisko	
-Lutza	Lutz	subst:sg:gen:m1	nazwisko	
 Lutzami	Lutz	subst:pl:inst:m1	nazwisko	
 Lutze	Lutz	depr:pl:nom.acc.voc:m2	nazwisko	
 Lutzem	Lutz	subst:sg:inst:m1	nazwisko	
@@ -4893,7 +4692,6 @@ Lwówku	Lwówek	subst:sg:loc:m3	nazwa geograficzna
 Lwówku	Lwówek	subst:sg:voc:m3	nazwa geograficzna	
 Lynchach	Lynch	subst:pl:loc:m1	nazwisko	
 Lyncha	Lynch	subst:sg:gen.acc:m1	nazwisko	
-Lyncha	Lynch	subst:sg:gen:m1	nazwisko	
 Lynchami	Lynch	subst:pl:inst:m1	nazwisko	
 Lynche	Lynch	depr:pl:nom.acc.voc:m2	nazwisko	
 Lynchem	Lynch	subst:sg:inst:m1	nazwisko	

@@ -5,7 +5,6 @@ eśmy	być	aglt:pl:pri:imperf:wok
 e	e	interj		
 earlach	earl	subst:pl:loc:m1	nazwa pospolita	
 earla	earl	subst:sg:gen.acc:m1	nazwa pospolita	
-earla	earl	subst:sg:gen:m1	nazwa pospolita	
 earlami	earl	subst:pl:inst:m1	nazwa pospolita	
 earl	earl	subst:sg:nom:m1	nazwa pospolita	
 earle	earl	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -26,7 +25,6 @@ ebenisto	ebenista	subst:sg:voc:m1	nazwa pospolita
 ebenistom	ebenista	subst:pl:dat:m1	nazwa pospolita	
 ebenistów	ebenista	subst:pl:gen.acc:m1	nazwa pospolita	
 ebenisty	ebenista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ebenisty	ebenista	subst:sg:gen:m1	nazwa pospolita	
 ebeniści	ebenista	subst:pl:nom.voc:m1	nazwa pospolita	
 ebeniście	ebenista	subst:sg:dat.loc:m1	nazwa pospolita	
 ebenisteriach	ebenisteria	subst:pl:loc:f	nazwa pospolita	
@@ -54,7 +52,6 @@ e-biznesu	e-biznes	subst:sg:gen:m3	nazwa pospolita
 e-biznesy	e-biznes	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 eblisach	eblis	subst:pl:loc:m2	nazwa pospolita	
 eblisa	eblis	subst:sg:gen.acc:m2	nazwa pospolita	
-eblisa	eblis	subst:sg:gen:m2	nazwa pospolita	
 eblisami	eblis	subst:pl:inst:m2	nazwa pospolita	
 eblis	eblis	subst:sg:nom:m2	nazwa pospolita	
 eblisem	eblis	subst:sg:inst:m2	nazwa pospolita	
@@ -81,7 +78,6 @@ eboli	ebola	subst:pl:gen:m2	nazwa pospolita
 eboli	ebola	subst:sg:dat.loc:f	nazwa pospolita	
 eboli	ebola	subst:sg:dat.loc:m2	nazwa pospolita	
 eboli	ebola	subst:sg:gen:f	nazwa pospolita	
-eboli	ebola	subst:sg:gen:m2	nazwa pospolita	
 ebolo	ebola	subst:sg:voc:f	nazwa pospolita	
 ebolo	ebola	subst:sg:voc:m2	nazwa pospolita	
 ebolom	ebola	subst:pl:dat:f	nazwa pospolita	
@@ -134,7 +130,6 @@ ebonitowym	ebonitowy	adj:sg:loc:m1.m2.m3.n:pos
 ebonitowymi	ebonitowy	adj:pl:inst:m1.m2.m3.f.n:pos		
 e-bookach	e-book	subst:pl:loc:m2	nazwa pospolita	
 e-booka	e-book	subst:sg:gen.acc:m2	nazwa pospolita	
-e-booka	e-book	subst:sg:gen:m2	nazwa pospolita	
 e-bookami	e-book	subst:pl:inst:m2	nazwa pospolita	
 e-book	e-book	subst:sg:nom:m2	nazwa pospolita	
 e-booki	e-book	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -286,7 +281,6 @@ echiny	echin	subst:pl:nom.acc.voc:m3	nazwa pospolita
 echinokaktusach	echinokaktus	subst:pl:loc:m2	nazwa pospolita	pot.
 echinokaktusach	echinokaktus	subst:pl:loc:m3	nazwa pospolita	
 echinokaktusa	echinokaktus	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-echinokaktusa	echinokaktus	subst:sg:gen:m2	nazwa pospolita	pot.
 echinokaktusa	echinokaktus	subst:sg:gen:m3	nazwa pospolita	
 echinokaktusami	echinokaktus	subst:pl:inst:m2	nazwa pospolita	pot.
 echinokaktusami	echinokaktus	subst:pl:inst:m3	nazwa pospolita	
@@ -308,7 +302,6 @@ echinokaktusy	echinokaktus	subst:pl:nom.acc.voc:m2	nazwa pospolita	pot.
 echinokaktusy	echinokaktus	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 echinokokach	echinokok	subst:pl:loc:m2	nazwa pospolita	med.|zool.
 echinokoka	echinokok	subst:sg:gen.acc:m2	nazwa pospolita	med.|zool.
-echinokoka	echinokok	subst:sg:gen:m2	nazwa pospolita	med.|zool.
 echinokokami	echinokok	subst:pl:inst:m2	nazwa pospolita	med.|zool.
 echinokok	echinokok	subst:sg:nom:m2	nazwa pospolita	med.|zool.
 echinokoki	echinokok	subst:pl:nom.acc.voc:m2	nazwa pospolita	med.|zool.
@@ -1018,7 +1011,6 @@ edredonowym	edredonowy	adj:sg:loc:m1.m2.m3.n:pos
 edredonowymi	edredonowy	adj:pl:inst:m1.m2.m3.f.n:pos		
 edredonach	edredon:s1	subst:pl:loc:m2	nazwa pospolita	
 edredona	edredon:s1	subst:sg:gen.acc:m2	nazwa pospolita	
-edredona	edredon:s1	subst:sg:gen:m2	nazwa pospolita	
 edredonami	edredon:s1	subst:pl:inst:m2	nazwa pospolita	
 edredon	edredon:s1	subst:sg:nom:m2	nazwa pospolita	
 edredonem	edredon:s1	subst:sg:inst:m2	nazwa pospolita	
@@ -1100,7 +1092,6 @@ edukacyjnym	edukacyjny	adj:sg:loc:m1.m2.m3.n:pos
 edukacyjnymi	edukacyjny	adj:pl:inst:m1.m2.m3.f.n:pos		
 edukatorach	edukator	subst:pl:loc:m1	nazwa pospolita	
 edukatora	edukator	subst:sg:gen.acc:m1	nazwa pospolita	
-edukatora	edukator	subst:sg:gen:m1	nazwa pospolita	
 edukatorami	edukator	subst:pl:inst:m1	nazwa pospolita	
 edukator	edukator	subst:sg:nom:m1	nazwa pospolita	
 edukatorem	edukator	subst:sg:inst:m1	nazwa pospolita	
@@ -1271,7 +1262,6 @@ edyktu	edykt	subst:sg:gen:m3	nazwa pospolita
 edykty	edykt	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 edylach	edyl	subst:pl:loc:m1	nazwa pospolita	
 edyla	edyl	subst:sg:gen.acc:m1	nazwa pospolita	
-edyla	edyl	subst:sg:gen:m1	nazwa pospolita	
 edylami	edyl	subst:pl:inst:m1	nazwa pospolita	
 edyl	edyl	subst:sg:nom:m1	nazwa pospolita	
 edyle	edyl	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -1414,7 +1404,6 @@ edytorze	edytor:s1	subst:sg:loc:m3	nazwa pospolita	komp.
 edytorze	edytor:s1	subst:sg:voc:m3	nazwa pospolita	komp.
 edytorach	edytor:s2	subst:pl:loc:m1	nazwa pospolita	
 edytora	edytor:s2	subst:sg:gen.acc:m1	nazwa pospolita	
-edytora	edytor:s2	subst:sg:gen:m1	nazwa pospolita	
 edytorami	edytor:s2	subst:pl:inst:m1	nazwa pospolita	
 edytor	edytor:s2	subst:sg:nom:m1	nazwa pospolita	
 edytorem	edytor:s2	subst:sg:inst:m1	nazwa pospolita	
@@ -1567,7 +1556,6 @@ e-e	e-e	interj
 eee	eee	interj		
 efebach	efeb	subst:pl:loc:m1	nazwa pospolita	hist.
 efeba	efeb	subst:sg:gen.acc:m1	nazwa pospolita	hist.
-efeba	efeb	subst:sg:gen:m1	nazwa pospolita	hist.
 efebami	efeb	subst:pl:inst:m1	nazwa pospolita	hist.
 efeb	efeb	subst:sg:nom:m1	nazwa pospolita	hist.
 efebem	efeb	subst:sg:inst:m1	nazwa pospolita	hist.
@@ -1698,8 +1686,6 @@ efekciarzach	efekciarz	subst:pl:loc:m1	nazwa pospolita
 efekciarzach	efekciarz	subst:pl:loc:m1	nazwa pospolita	rzad.
 efekciarza	efekciarz	subst:sg:gen.acc:m1	nazwa pospolita	
 efekciarza	efekciarz	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
-efekciarza	efekciarz	subst:sg:gen:m1	nazwa pospolita	
-efekciarza	efekciarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 efekciarzami	efekciarz	subst:pl:inst:m1	nazwa pospolita	
 efekciarzami	efekciarz	subst:pl:inst:m1	nazwa pospolita	rzad.
 efekciarze	efekciarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -2177,7 +2163,6 @@ efendie	efendi	depr:pl:nom.acc.voc:m2	nazwa pospolita
 efendi	efendi	subst:sg:nom:m1	nazwa pospolita	
 efendi	efendi	subst:sg:voc:m1	nazwa pospolita	
 efendiego	efendi	subst:sg:gen.acc:m1	nazwa pospolita	
-efendiego	efendi	subst:sg:gen:m1	nazwa pospolita	
 efendiemu	efendi	subst:sg:dat:m1	nazwa pospolita	
 efendim	efendi	subst:pl:dat:m1	nazwa pospolita	
 efendim	efendi	subst:sg:inst:m1	nazwa pospolita	
@@ -2226,7 +2211,6 @@ efezjanami	efezjanin	subst:pl:inst:m1	nazwa pospolita
 efezjan	efezjanin	subst:pl:gen.acc:m1	nazwa pospolita	
 efezjanie	efezjanin	subst:pl:nom.voc:m1	nazwa pospolita	
 efezjanina	efezjanin	subst:sg:gen.acc:m1	nazwa pospolita	
-efezjanina	efezjanin	subst:sg:gen:m1	nazwa pospolita	
 efezjanin	efezjanin	subst:sg:nom:m1	nazwa pospolita	
 efezjaninem	efezjanin	subst:sg:inst:m1	nazwa pospolita	
 efezjaninie	efezjanin	subst:sg:loc:m1	nazwa pospolita	
@@ -2248,7 +2232,6 @@ efimku	efimek	subst:sg:loc:m3	nazwa pospolita
 efimku	efimek	subst:sg:voc:m3	nazwa pospolita	
 eforach	efor	subst:pl:loc:m1	nazwa pospolita	
 efora	efor	subst:sg:gen.acc:m1	nazwa pospolita	
-efora	efor	subst:sg:gen:m1	nazwa pospolita	
 eforami	efor	subst:pl:inst:m1	nazwa pospolita	
 efor	efor	subst:sg:nom:m1	nazwa pospolita	
 eforem	efor	subst:sg:inst:m1	nazwa pospolita	
@@ -2302,7 +2285,6 @@ efraimito	efraimita	subst:sg:voc:m2	nazwa pospolita
 efraimitom	efraimita	subst:pl:dat:m2	nazwa pospolita	
 efraimitów	efraimita	subst:pl:gen:m2	nazwa pospolita	
 efraimity	efraimita	subst:pl:nom.acc.voc:m2	nazwa pospolita	
-efraimity	efraimita	subst:sg:gen:m2	nazwa pospolita	
 efraimscy	efraimski	adj:pl:nom.voc:m1:pos		
 efraimska	efraimski	adj:sg:nom.voc:f:pos		
 efraimską	efraimski	adj:sg:acc:f:pos		
@@ -2526,7 +2508,6 @@ egalitarysto	egalitarysta	subst:sg:voc:m1	nazwa pospolita
 egalitarystom	egalitarysta	subst:pl:dat:m1	nazwa pospolita	
 egalitarystów	egalitarysta	subst:pl:gen.acc:m1	nazwa pospolita	
 egalitarysty	egalitarysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-egalitarysty	egalitarysta	subst:sg:gen:m1	nazwa pospolita	
 egalitaryście	egalitarysta	subst:sg:dat.loc:m1	nazwa pospolita	
 egalitaryści	egalitarysta	subst:pl:nom.voc:m1	nazwa pospolita	
 egalitarystycznościach	egalitarystyczność	subst:pl:loc:f	nazwa pospolita	
@@ -2788,7 +2769,6 @@ egipskość	egipskość	subst:sg:nom:f	nazwa pospolita
 egiptolodzy	egiptolog	subst:pl:nom.voc:m1	nazwa pospolita	
 egiptologach	egiptolog	subst:pl:loc:m1	nazwa pospolita	
 egiptologa	egiptolog	subst:sg:gen.acc:m1	nazwa pospolita	
-egiptologa	egiptolog	subst:sg:gen:m1	nazwa pospolita	
 egiptologami	egiptolog	subst:pl:inst:m1	nazwa pospolita	
 egiptolog	egiptolog	subst:sg:nom:m1	nazwa pospolita	
 egiptologi	egiptolog	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -2897,7 +2877,6 @@ egocentrycznymi	egocentryczny	adj:pl:inst:m1.m2.m3.f.n:pos
 egocentrycy	egocentryk	subst:pl:nom.voc:m1	nazwa pospolita	
 egocentrykach	egocentryk	subst:pl:loc:m1	nazwa pospolita	
 egocentryka	egocentryk	subst:sg:gen.acc:m1	nazwa pospolita	
-egocentryka	egocentryk	subst:sg:gen:m1	nazwa pospolita	
 egocentrykami	egocentryk	subst:pl:inst:m1	nazwa pospolita	
 egocentryk	egocentryk	subst:sg:nom:m1	nazwa pospolita	
 egocentryki	egocentryk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -2927,7 +2906,6 @@ egoisto	egoista	subst:sg:voc:m1	nazwa pospolita
 egoistom	egoista	subst:pl:dat:m1	nazwa pospolita	
 egoistów	egoista	subst:pl:gen.acc:m1	nazwa pospolita	
 egoisty	egoista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-egoisty	egoista	subst:sg:gen:m1	nazwa pospolita	
 egoiście	egoista	subst:sg:dat.loc:m1	nazwa pospolita	
 egoiści	egoista	subst:pl:nom.voc:m1	nazwa pospolita	
 egoistce	egoistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -3043,7 +3021,6 @@ egotysto	egotysta	subst:sg:voc:m1	nazwa pospolita
 egotystom	egotysta	subst:pl:dat:m1	nazwa pospolita	
 egotystów	egotysta	subst:pl:gen.acc:m1	nazwa pospolita	
 egotysty	egotysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-egotysty	egotysta	subst:sg:gen:m1	nazwa pospolita	
 egotyście	egotysta	subst:sg:dat.loc:m1	nazwa pospolita	
 egotyści	egotysta	subst:pl:nom.voc:m1	nazwa pospolita	
 egotystce	egotystka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -3205,7 +3182,6 @@ egzakcjom	egzakcja	subst:pl:dat:f	nazwa pospolita
 egzakcyj	egzakcja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 egzaktorach	egzaktor	subst:pl:loc:m1	nazwa pospolita	przest.
 egzaktora	egzaktor	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-egzaktora	egzaktor	subst:sg:gen:m1	nazwa pospolita	przest.
 egzaktorami	egzaktor	subst:pl:inst:m1	nazwa pospolita	przest.
 egzaktor	egzaktor	subst:sg:nom:m1	nazwa pospolita	przest.
 egzaktorem	egzaktor	subst:sg:inst:m1	nazwa pospolita	przest.
@@ -3233,7 +3209,6 @@ egzaltancie	egzaltant	subst:sg:voc:m1	nazwa pospolita	daw.
 egzaltanci	egzaltant	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 egzaltantach	egzaltant	subst:pl:loc:m1	nazwa pospolita	daw.
 egzaltanta	egzaltant	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-egzaltanta	egzaltant	subst:sg:gen:m1	nazwa pospolita	daw.
 egzaltantami	egzaltant	subst:pl:inst:m1	nazwa pospolita	daw.
 egzaltant	egzaltant	subst:sg:nom:m1	nazwa pospolita	daw.
 egzaltantem	egzaltant	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -3410,7 +3385,6 @@ egzaminacyjnym	egzaminacyjny	adj:sg:loc:m1.m2.m3.n:pos
 egzaminacyjnymi	egzaminacyjny	adj:pl:inst:m1.m2.m3.f.n:pos		
 egzaminatorach	egzaminator	subst:pl:loc:m1	nazwa pospolita	
 egzaminatora	egzaminator	subst:sg:gen.acc:m1	nazwa pospolita	
-egzaminatora	egzaminator	subst:sg:gen:m1	nazwa pospolita	
 egzaminatorami	egzaminator	subst:pl:inst:m1	nazwa pospolita	
 egzaminator	egzaminator	subst:sg:nom:m1	nazwa pospolita	
 egzaminatorem	egzaminator	subst:sg:inst:m1	nazwa pospolita	
@@ -3615,7 +3589,6 @@ egzarchom	egzarcha	subst:pl:dat:m1	nazwa pospolita
 egzarchowie	egzarcha	subst:pl:nom.voc:m1	nazwa pospolita	
 egzarchów	egzarcha	subst:pl:gen.acc:m1	nazwa pospolita	
 egzarchy	egzarcha	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-egzarchy	egzarcha	subst:sg:gen:m1	nazwa pospolita	
 egzarsze	egzarcha	subst:sg:dat.loc:m1	nazwa pospolita	
 egzarchacie	egzarchat	subst:sg:loc:m3	nazwa pospolita	
 egzarchacie	egzarchat	subst:sg:voc:m3	nazwa pospolita	
@@ -3740,7 +3713,6 @@ egzegeto	egzegeta	subst:sg:voc:m1	nazwa pospolita
 egzegetom	egzegeta	subst:pl:dat:m1	nazwa pospolita	
 egzegetów	egzegeta	subst:pl:gen.acc:m1	nazwa pospolita	
 egzegety	egzegeta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-egzegety	egzegeta	subst:sg:gen:m1	nazwa pospolita	
 egzegetycznościach	egzegetyczność	subst:pl:loc:f	nazwa pospolita	
 egzegetycznościami	egzegetyczność	subst:pl:inst:f	nazwa pospolita	
 egzegetycznością	egzegetyczność	subst:sg:inst:f	nazwa pospolita	
@@ -3857,7 +3829,6 @@ egzekutnym	egzekutne	subst:sg:loc:n:ncol	nazwa pospolita	daw.
 egzekutnymi	egzekutne	subst:pl:inst:n:ncol	nazwa pospolita	daw.
 egzekutorach	egzekutor	subst:pl:loc:m1	nazwa pospolita	
 egzekutora	egzekutor	subst:sg:gen.acc:m1	nazwa pospolita	
-egzekutora	egzekutor	subst:sg:gen:m1	nazwa pospolita	
 egzekutorami	egzekutor	subst:pl:inst:m1	nazwa pospolita	
 egzekutor	egzekutor	subst:sg:nom:m1	nazwa pospolita	
 egzekutorem	egzekutor	subst:sg:inst:m1	nazwa pospolita	
@@ -4553,7 +4524,6 @@ egzergom	egzerga	subst:pl:dat:f	nazwa pospolita
 egzobiolodzy	egzobiolog	subst:pl:nom.voc:m1	nazwa pospolita	
 egzobiologach	egzobiolog	subst:pl:loc:m1	nazwa pospolita	
 egzobiologa	egzobiolog	subst:sg:gen.acc:m1	nazwa pospolita	
-egzobiologa	egzobiolog	subst:sg:gen:m1	nazwa pospolita	
 egzobiologami	egzobiolog	subst:pl:inst:m1	nazwa pospolita	
 egzobiolog	egzobiolog	subst:sg:nom:m1	nazwa pospolita	
 egzobiologi	egzobiolog	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -4907,7 +4877,6 @@ egzorbitancie	egzorbitant	subst:sg:voc:m1	nazwa pospolita	daw.
 egzorbitanci	egzorbitant	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 egzorbitantach	egzorbitant	subst:pl:loc:m1	nazwa pospolita	daw.
 egzorbitanta	egzorbitant	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-egzorbitanta	egzorbitant	subst:sg:gen:m1	nazwa pospolita	daw.
 egzorbitantami	egzorbitant	subst:pl:inst:m1	nazwa pospolita	daw.
 egzorbitant	egzorbitant	subst:sg:nom:m1	nazwa pospolita	daw.
 egzorbitantem	egzorbitant	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -4924,7 +4893,6 @@ egzorcysto	egzorcysta	subst:sg:voc:m1	nazwa pospolita	rel.
 egzorcystom	egzorcysta	subst:pl:dat:m1	nazwa pospolita	rel.
 egzorcystów	egzorcysta	subst:pl:gen.acc:m1	nazwa pospolita	rel.
 egzorcysty	egzorcysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	rel.
-egzorcysty	egzorcysta	subst:sg:gen:m1	nazwa pospolita	rel.
 egzorcyście	egzorcysta	subst:sg:dat.loc:m1	nazwa pospolita	rel.
 egzorcyści	egzorcysta	subst:pl:nom.voc:m1	nazwa pospolita	rel.
 egzorcystce	egzorcystka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -5372,7 +5340,6 @@ egzotyku	egzotyk:s1	subst:sg:voc:m3	nazwa pospolita
 egzotycy	egzotyk:s2	subst:pl:nom.voc:m1	nazwa pospolita	
 egzotykach	egzotyk:s2	subst:pl:loc:m1	nazwa pospolita	
 egzotyka	egzotyk:s2	subst:sg:gen.acc:m1	nazwa pospolita	
-egzotyka	egzotyk:s2	subst:sg:gen:m1	nazwa pospolita	
 egzotykami	egzotyk:s2	subst:pl:inst:m1	nazwa pospolita	
 egzotyk	egzotyk:s2	subst:sg:nom:m1	nazwa pospolita	
 egzotyki	egzotyk:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -5496,7 +5463,6 @@ egzotyzuję	egzotyzować	fin:sg:pri:imperf		rzad.
 egzotyzujmy	egzotyzować	impt:pl:pri:imperf		rzad.
 egzulach	egzul	subst:pl:loc:m1	nazwa pospolita	daw.
 egzula	egzul	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-egzula	egzul	subst:sg:gen:m1	nazwa pospolita	daw.
 egzulami	egzul	subst:pl:inst:m1	nazwa pospolita	daw.
 egzule	egzul	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 egzule	egzul	subst:pl:nom.voc:m1	nazwa pospolita	daw.
@@ -5550,7 +5516,6 @@ egzulancie	egzulant	subst:sg:voc:m1	nazwa pospolita	daw.
 egzulanci	egzulant	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 egzulantach	egzulant	subst:pl:loc:m1	nazwa pospolita	daw.
 egzulanta	egzulant	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-egzulanta	egzulant	subst:sg:gen:m1	nazwa pospolita	daw.
 egzulantami	egzulant	subst:pl:inst:m1	nazwa pospolita	daw.
 egzulant	egzulant	subst:sg:nom:m1	nazwa pospolita	daw.
 egzulantem	egzulant	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -5662,7 +5627,6 @@ egzystencjalisto	egzystencjalista	subst:sg:voc:m1	nazwa pospolita
 egzystencjalistom	egzystencjalista	subst:pl:dat:m1	nazwa pospolita	
 egzystencjalistów	egzystencjalista	subst:pl:gen.acc:m1	nazwa pospolita	
 egzystencjalisty	egzystencjalista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-egzystencjalisty	egzystencjalista	subst:sg:gen:m1	nazwa pospolita	
 egzystencjaliście	egzystencjalista	subst:sg:dat.loc:m1	nazwa pospolita	
 egzystencjaliści	egzystencjalista	subst:pl:nom.voc:m1	nazwa pospolita	
 egzystencjalistce	egzystencjalistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -6079,7 +6043,6 @@ ejdetycznymi	ejdetyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 ejdetycy	ejdetyk	subst:pl:nom.voc:m1	nazwa pospolita	
 ejdetykach	ejdetyk	subst:pl:loc:m1	nazwa pospolita	
 ejdetyka	ejdetyk	subst:sg:gen.acc:m1	nazwa pospolita	
-ejdetyka	ejdetyk	subst:sg:gen:m1	nazwa pospolita	
 ejdetykami	ejdetyk	subst:pl:inst:m1	nazwa pospolita	
 ejdetyk	ejdetyk	subst:sg:nom:m1	nazwa pospolita	
 ejdetyki	ejdetyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -6254,7 +6217,6 @@ eklektycznymi	eklektyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 eklektycy	eklektyk	subst:pl:nom.voc:m1	nazwa pospolita	
 eklektykach	eklektyk	subst:pl:loc:m1	nazwa pospolita	
 eklektyka	eklektyk	subst:sg:gen.acc:m1	nazwa pospolita	
-eklektyka	eklektyk	subst:sg:gen:m1	nazwa pospolita	
 eklektykami	eklektyk	subst:pl:inst:m1	nazwa pospolita	
 eklektyk	eklektyk	subst:sg:nom:m1	nazwa pospolita	
 eklektyki	eklektyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -6289,7 +6251,6 @@ eklektyzmy	eklektyzm	subst:pl:nom.acc.voc:m3	nazwa pospolita
 eklerach	ekler	subst:pl:loc:m2	nazwa pospolita	pot.
 eklerach	ekler	subst:pl:loc:m3	nazwa pospolita	
 eklera	ekler	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-eklera	ekler	subst:sg:gen:m2	nazwa pospolita	pot.
 eklera	ekler	subst:sg:gen:m3	nazwa pospolita	
 eklerami	ekler	subst:pl:inst:m2	nazwa pospolita	pot.
 eklerami	ekler	subst:pl:inst:m3	nazwa pospolita	
@@ -6314,7 +6275,6 @@ eklerek	eklerek	subst:sg:nom:m2	nazwa pospolita
 eklerkach	eklerek	subst:pl:loc:m2	nazwa pospolita	
 eklerkach	eklerek	subst:pl:loc:m3	nazwa pospolita	
 eklerka	eklerek	subst:sg:gen.acc:m2	nazwa pospolita	
-eklerka	eklerek	subst:sg:gen:m2	nazwa pospolita	
 eklerka	eklerek	subst:sg:gen:m3	nazwa pospolita	
 eklerkami	eklerek	subst:pl:inst:m2	nazwa pospolita	
 eklerkami	eklerek	subst:pl:inst:m3	nazwa pospolita	
@@ -6334,7 +6294,6 @@ eklerku	eklerek	subst:sg:voc:m2	nazwa pospolita
 eklerku	eklerek	subst:sg:voc:m3	nazwa pospolita	
 eklererach	eklerer	subst:pl:loc:m1	nazwa pospolita	daw.
 eklerera	eklerer	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-eklerera	eklerer	subst:sg:gen:m1	nazwa pospolita	daw.
 eklererami	eklerer	subst:pl:inst:m1	nazwa pospolita	daw.
 eklerer	eklerer	subst:sg:nom:m1	nazwa pospolita	daw.
 eklererem	eklerer	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -6413,7 +6372,6 @@ eklezjasto	eklezjasta	subst:sg:voc:m1	nazwa pospolita
 eklezjastom	eklezjasta	subst:pl:dat:m1	nazwa pospolita	
 eklezjastów	eklezjasta	subst:pl:gen.acc:m1	nazwa pospolita	
 eklezjasty	eklezjasta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-eklezjasty	eklezjasta	subst:sg:gen:m1	nazwa pospolita	
 eklezjaście	eklezjasta	subst:sg:dat.loc:m1	nazwa pospolita	
 eklezjaści	eklezjasta	subst:pl:nom.voc:m1	nazwa pospolita	
 eklezjastycznościach	eklezjastyczność	subst:pl:loc:f	nazwa pospolita	
@@ -6604,7 +6562,6 @@ ekokonwersyj	ekokonwersja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 ekolodzy	ekolog	subst:pl:nom.voc:m1	nazwa pospolita	
 ekologach	ekolog	subst:pl:loc:m1	nazwa pospolita	
 ekologa	ekolog	subst:sg:gen.acc:m1	nazwa pospolita	
-ekologa	ekolog	subst:sg:gen:m1	nazwa pospolita	
 ekologami	ekolog	subst:pl:inst:m1	nazwa pospolita	
 ekolog	ekolog	subst:sg:nom:m1	nazwa pospolita	
 ekologi	ekolog	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -6673,7 +6630,6 @@ ekologisto	ekologista	subst:sg:voc:m1	nazwa pospolita
 ekologistom	ekologista	subst:pl:dat:m1	nazwa pospolita	
 ekologistów	ekologista	subst:pl:gen.acc:m1	nazwa pospolita	
 ekologisty	ekologista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ekologisty	ekologista	subst:sg:gen:m1	nazwa pospolita	
 ekologiście	ekologista	subst:sg:dat.loc:m1	nazwa pospolita	
 ekologiści	ekologista	subst:pl:nom.voc:m1	nazwa pospolita	
 ekologistycznościach	ekologistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -6735,7 +6691,6 @@ ekolożko	ekolożka	subst:sg:voc:f	nazwa pospolita
 ekolożkom	ekolożka	subst:pl:dat:f	nazwa pospolita	
 ekonomach	ekonom	subst:pl:loc:m1	nazwa pospolita	
 ekonoma	ekonom	subst:sg:gen.acc:m1	nazwa pospolita	
-ekonoma	ekonom	subst:sg:gen:m1	nazwa pospolita	
 ekonomami	ekonom	subst:pl:inst:m1	nazwa pospolita	
 ekonom	ekonom	subst:sg:nom:m1	nazwa pospolita	
 ekonomem	ekonom	subst:sg:inst:m1	nazwa pospolita	
@@ -6760,7 +6715,6 @@ ekonomajzerze	ekonomajzer	subst:sg:loc:m3	nazwa pospolita	techn.
 ekonomajzerze	ekonomajzer	subst:sg:voc:m3	nazwa pospolita	techn.
 ekonomczukach	ekonomczuk	subst:pl:loc:m1	nazwa pospolita	
 ekonomczuka	ekonomczuk	subst:sg:gen.acc:m1	nazwa pospolita	
-ekonomczuka	ekonomczuk	subst:sg:gen:m1	nazwa pospolita	
 ekonomczukami	ekonomczuk	subst:pl:inst:m1	nazwa pospolita	
 ekonomczuk	ekonomczuk	subst:sg:nom:m1	nazwa pospolita	
 ekonomczuki	ekonomczuk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -6821,7 +6775,6 @@ ekonometrycznymi	ekonometryczny	adj:pl:inst:m1.m2.m3.f.n:pos
 ekonometrycy	ekonometryk	subst:pl:nom.voc:m1	nazwa pospolita	
 ekonometrykach	ekonometryk	subst:pl:loc:m1	nazwa pospolita	
 ekonometryka	ekonometryk	subst:sg:gen.acc:m1	nazwa pospolita	
-ekonometryka	ekonometryk	subst:sg:gen:m1	nazwa pospolita	
 ekonometrykami	ekonometryk	subst:pl:inst:m1	nazwa pospolita	
 ekonometryk	ekonometryk	subst:sg:nom:m1	nazwa pospolita	
 ekonometryki	ekonometryk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -6906,7 +6859,6 @@ ekonomicznymi	ekonomiczny	adj:pl:inst:m1.m2.m3.f.n:pos
 ekonomicy	ekonomik	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 ekonomikach	ekonomik	subst:pl:loc:m1	nazwa pospolita	daw.
 ekonomika	ekonomik	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-ekonomika	ekonomik	subst:sg:gen:m1	nazwa pospolita	daw.
 ekonomikami	ekonomik	subst:pl:inst:m1	nazwa pospolita	daw.
 ekonomik	ekonomik	subst:sg:nom:m1	nazwa pospolita	daw.
 ekonomiki	ekonomik	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
@@ -6936,7 +6888,6 @@ ekonomisto	ekonomista	subst:sg:voc:m1	nazwa pospolita
 ekonomistom	ekonomista	subst:pl:dat:m1	nazwa pospolita	
 ekonomistów	ekonomista	subst:pl:gen.acc:m1	nazwa pospolita	
 ekonomisty	ekonomista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ekonomisty	ekonomista	subst:sg:gen:m1	nazwa pospolita	
 ekonomiście	ekonomista	subst:sg:dat.loc:m1	nazwa pospolita	
 ekonomiści	ekonomista	subst:pl:nom.voc:m1	nazwa pospolita	
 ekonomistce	ekonomistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -7397,7 +7348,6 @@ ekranizacjom	ekranizacja	subst:pl:dat:f	nazwa pospolita
 ekranizacyj	ekranizacja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 ekranizatorach	ekranizator	subst:pl:loc:m1	nazwa pospolita	
 ekranizatora	ekranizator	subst:sg:gen.acc:m1	nazwa pospolita	
-ekranizatora	ekranizator	subst:sg:gen:m1	nazwa pospolita	
 ekranizatorami	ekranizator	subst:pl:inst:m1	nazwa pospolita	
 ekranizator	ekranizator	subst:sg:nom:m1	nazwa pospolita	
 ekranizatorem	ekranizator	subst:sg:inst:m1	nazwa pospolita	
@@ -7713,7 +7663,6 @@ ekrytuarze	ekrytuar	subst:sg:loc:m3	nazwa pospolita	daw.
 ekrytuarze	ekrytuar	subst:sg:voc:m3	nazwa pospolita	daw.
 eksaktorach	eksaktor	subst:pl:loc:m1	nazwa pospolita	
 eksaktora	eksaktor	subst:sg:gen.acc:m1	nazwa pospolita	
-eksaktora	eksaktor	subst:sg:gen:m1	nazwa pospolita	
 eksaktorami	eksaktor	subst:pl:inst:m1	nazwa pospolita	
 eksaktor	eksaktor	subst:sg:nom:m1	nazwa pospolita	
 eksaktorem	eksaktor	subst:sg:inst:m1	nazwa pospolita	
@@ -7744,7 +7693,6 @@ ekscelencje	ekscelencja:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita
 ekscelencję	ekscelencja:s2	subst:sg:acc:m2	nazwa pospolita	
 ekscelencji	ekscelencja:s2	subst:pl:gen:m2	nazwa pospolita	
 ekscelencji	ekscelencja:s2	subst:sg:dat.loc:m2	nazwa pospolita	
-ekscelencji	ekscelencja:s2	subst:sg:gen:m2	nazwa pospolita	
 ekscelencjo	ekscelencja:s2	subst:sg:voc:m2	nazwa pospolita	
 ekscelencjom	ekscelencja:s2	subst:pl:dat:m2	nazwa pospolita	
 ekscentrycyzmach	ekscentrycyzm	subst:pl:loc:m3	nazwa pospolita	rzad.
@@ -7843,7 +7791,6 @@ ekscentryku	ekscentryk:s1	subst:sg:voc:m3	nazwa pospolita	techn.
 ekscentrycy	ekscentryk:s2	subst:pl:nom.voc:m1	nazwa pospolita	
 ekscentrykach	ekscentryk:s2	subst:pl:loc:m1	nazwa pospolita	
 ekscentryka	ekscentryk:s2	subst:sg:gen.acc:m1	nazwa pospolita	
-ekscentryka	ekscentryk:s2	subst:sg:gen:m1	nazwa pospolita	
 ekscentrykami	ekscentryk:s2	subst:pl:inst:m1	nazwa pospolita	
 ekscentryk	ekscentryk:s2	subst:sg:nom:m1	nazwa pospolita	
 ekscentryki	ekscentryk:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -8083,7 +8030,6 @@ ekscerptu	ekscerpt	subst:sg:gen:m3	nazwa pospolita	przest.
 ekscerpty	ekscerpt	subst:pl:nom.acc.voc:m3	nazwa pospolita	przest.
 ekscerptorach	ekscerptor	subst:pl:loc:m1	nazwa pospolita	
 ekscerptora	ekscerptor	subst:sg:gen.acc:m1	nazwa pospolita	
-ekscerptora	ekscerptor	subst:sg:gen:m1	nazwa pospolita	
 ekscerptorami	ekscerptor	subst:pl:inst:m1	nazwa pospolita	
 ekscerptor	ekscerptor	subst:sg:nom:m1	nazwa pospolita	
 ekscerptorem	ekscerptor	subst:sg:inst:m1	nazwa pospolita	
@@ -8246,8 +8192,6 @@ ekscytarzach	ekscytarz:s1	subst:pl:loc:m1	nazwa pospolita	daw.
 ekscytarzach	ekscytarz:s1	subst:pl:loc:m1	nazwa pospolita	daw.|rzad.
 ekscytarza	ekscytarz:s1	subst:sg:gen.acc:m1	nazwa pospolita	daw.
 ekscytarza	ekscytarz:s1	subst:sg:gen.acc:m1	nazwa pospolita	daw.|rzad.
-ekscytarza	ekscytarz:s1	subst:sg:gen:m1	nazwa pospolita	daw.
-ekscytarza	ekscytarz:s1	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
 ekscytarzami	ekscytarz:s1	subst:pl:inst:m1	nazwa pospolita	daw.
 ekscytarzami	ekscytarz:s1	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
 ekscytarze	ekscytarz:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
@@ -8292,7 +8236,6 @@ ekscytarzu	ekscytarz:s2	subst:sg:voc:m3	nazwa pospolita	daw.|rzad.
 ekscytarzy	ekscytarz:s2	subst:pl:gen:m3	nazwa pospolita	daw.
 ekscytatorach	ekscytator	subst:pl:loc:m1	nazwa pospolita	daw.
 ekscytatora	ekscytator	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-ekscytatora	ekscytator	subst:sg:gen:m1	nazwa pospolita	daw.
 ekscytatorami	ekscytator	subst:pl:inst:m1	nazwa pospolita	daw.
 ekscytator	ekscytator	subst:sg:nom:m1	nazwa pospolita	daw.
 ekscytatorem	ekscytator	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -8550,7 +8493,6 @@ ekshibicjonisto	ekshibicjonista	subst:sg:voc:m1	nazwa pospolita
 ekshibicjonistom	ekshibicjonista	subst:pl:dat:m1	nazwa pospolita	
 ekshibicjonistów	ekshibicjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 ekshibicjonisty	ekshibicjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ekshibicjonisty	ekshibicjonista	subst:sg:gen:m1	nazwa pospolita	
 ekshibicjoniście	ekshibicjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 ekshibicjoniści	ekshibicjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 ekshibicjonistce	ekshibicjonistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -9534,7 +9476,6 @@ ekspansjonisto	ekspansjonista	subst:sg:voc:m1	nazwa pospolita
 ekspansjonistom	ekspansjonista	subst:pl:dat:m1	nazwa pospolita	
 ekspansjonistów	ekspansjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 ekspansjonisty	ekspansjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ekspansjonisty	ekspansjonista	subst:sg:gen:m1	nazwa pospolita	
 ekspansjoniście	ekspansjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 ekspansjoniści	ekspansjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 ekspansjonistycznościach	ekspansjonistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -9665,7 +9606,6 @@ ekspato	ekspata	subst:sg:voc:m1	nazwa pospolita
 ekspatom	ekspata	subst:pl:dat:m1	nazwa pospolita	
 ekspatów	ekspata	subst:pl:gen.acc:m1	nazwa pospolita	
 ekspaty	ekspata	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ekspaty	ekspata	subst:sg:gen:m1	nazwa pospolita	
 ekspatriacjach	ekspatriacja	subst:pl:loc:f	nazwa pospolita	
 ekspatriacja	ekspatriacja	subst:sg:nom:f	nazwa pospolita	
 ekspatriacjami	ekspatriacja	subst:pl:inst:f	nazwa pospolita	
@@ -9683,7 +9623,6 @@ ekspatriancie	ekspatriant	subst:sg:voc:m1	nazwa pospolita
 ekspatrianci	ekspatriant	subst:pl:nom.voc:m1	nazwa pospolita	
 ekspatriantach	ekspatriant	subst:pl:loc:m1	nazwa pospolita	
 ekspatrianta	ekspatriant	subst:sg:gen.acc:m1	nazwa pospolita	
-ekspatrianta	ekspatriant	subst:sg:gen:m1	nazwa pospolita	
 ekspatriantami	ekspatriant	subst:pl:inst:m1	nazwa pospolita	
 ekspatriant	ekspatriant	subst:sg:nom:m1	nazwa pospolita	
 ekspatriantem	ekspatriant	subst:sg:inst:m1	nazwa pospolita	
@@ -9786,7 +9725,6 @@ ekspediencie	ekspedient	subst:sg:voc:m1	nazwa pospolita
 ekspedienci	ekspedient	subst:pl:nom.voc:m1	nazwa pospolita	
 ekspedientach	ekspedient	subst:pl:loc:m1	nazwa pospolita	
 ekspedienta	ekspedient	subst:sg:gen.acc:m1	nazwa pospolita	
-ekspedienta	ekspedient	subst:sg:gen:m1	nazwa pospolita	
 ekspedientami	ekspedient	subst:pl:inst:m1	nazwa pospolita	
 ekspedient	ekspedient	subst:sg:nom:m1	nazwa pospolita	
 ekspedientem	ekspedient	subst:sg:inst:m1	nazwa pospolita	
@@ -9956,7 +9894,6 @@ ekspedytu	ekspedyt	subst:sg:gen:m3	nazwa pospolita	przest.
 ekspedyty	ekspedyt	subst:pl:nom.acc.voc:m3	nazwa pospolita	przest.
 ekspedytorach	ekspedytor	subst:pl:loc:m1	nazwa pospolita	
 ekspedytora	ekspedytor	subst:sg:gen.acc:m1	nazwa pospolita	
-ekspedytora	ekspedytor	subst:sg:gen:m1	nazwa pospolita	
 ekspedytorami	ekspedytor	subst:pl:inst:m1	nazwa pospolita	
 ekspedytor	ekspedytor	subst:sg:nom:m1	nazwa pospolita	
 ekspedytorem	ekspedytor	subst:sg:inst:m1	nazwa pospolita	
@@ -9994,7 +9931,6 @@ ekspektancie	ekspektant	subst:sg:voc:m1	nazwa pospolita	daw.
 ekspektanci	ekspektant	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 ekspektantach	ekspektant	subst:pl:loc:m1	nazwa pospolita	daw.
 ekspektanta	ekspektant	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-ekspektanta	ekspektant	subst:sg:gen:m1	nazwa pospolita	daw.
 ekspektantami	ekspektant	subst:pl:inst:m1	nazwa pospolita	daw.
 ekspektant	ekspektant	subst:sg:nom:m1	nazwa pospolita	daw.
 ekspektantem	ekspektant	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -10191,7 +10127,6 @@ ekspercie	ekspert	subst:sg:voc:m1	nazwa pospolita
 eksperci	ekspert	subst:pl:nom.voc:m1	nazwa pospolita	
 ekspertach	ekspert	subst:pl:loc:m1	nazwa pospolita	
 eksperta	ekspert	subst:sg:gen.acc:m1	nazwa pospolita	
-eksperta	ekspert	subst:sg:gen:m1	nazwa pospolita	
 ekspertami	ekspert	subst:pl:inst:m1	nazwa pospolita	
 ekspert	ekspert	subst:sg:nom:m1	nazwa pospolita	
 ekspertem	ekspert	subst:sg:inst:m1	nazwa pospolita	
@@ -10288,7 +10223,6 @@ eksperymentalisto	eksperymentalista	subst:sg:voc:m1	nazwa pospolita
 eksperymentalistom	eksperymentalista	subst:pl:dat:m1	nazwa pospolita	
 eksperymentalistów	eksperymentalista	subst:pl:gen.acc:m1	nazwa pospolita	
 eksperymentalisty	eksperymentalista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-eksperymentalisty	eksperymentalista	subst:sg:gen:m1	nazwa pospolita	
 eksperymentaliście	eksperymentalista	subst:sg:dat.loc:m1	nazwa pospolita	
 eksperymentaliści	eksperymentalista	subst:pl:nom.voc:m1	nazwa pospolita	
 eksperymentalizmach	eksperymentalizm	subst:pl:loc:m3	nazwa pospolita	
@@ -10340,7 +10274,6 @@ eksperymentalnym	eksperymentalny	adj:sg:loc:m1.m2.m3.n:pos
 eksperymentalnymi	eksperymentalny	adj:pl:inst:m1.m2.m3.f.n:pos		
 eksperymentatorach	eksperymentator	subst:pl:loc:m1	nazwa pospolita	
 eksperymentatora	eksperymentator	subst:sg:gen.acc:m1	nazwa pospolita	
-eksperymentatora	eksperymentator	subst:sg:gen:m1	nazwa pospolita	
 eksperymentatorami	eksperymentator	subst:pl:inst:m1	nazwa pospolita	
 eksperymentator	eksperymentator	subst:sg:nom:m1	nazwa pospolita	
 eksperymentatorem	eksperymentator	subst:sg:inst:m1	nazwa pospolita	
@@ -10531,7 +10464,6 @@ ekspiacyjnym	ekspiacyjny	adj:sg:loc:m1.m2.m3.n:pos
 ekspiacyjnymi	ekspiacyjny	adj:pl:inst:m1.m2.m3.f.n:pos		
 ekspiatorach	ekspiator	subst:pl:loc:m1	nazwa pospolita	przest.
 ekspiatora	ekspiator	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-ekspiatora	ekspiator	subst:sg:gen:m1	nazwa pospolita	przest.
 ekspiatorami	ekspiator	subst:pl:inst:m1	nazwa pospolita	przest.
 ekspiator	ekspiator	subst:sg:nom:m1	nazwa pospolita	przest.
 ekspiatorem	ekspiator	subst:sg:inst:m1	nazwa pospolita	przest.
@@ -11037,7 +10969,6 @@ eksploatacyjnym	eksploatacyjny	adj:sg:loc:m1.m2.m3.n:pos
 eksploatacyjnymi	eksploatacyjny	adj:pl:inst:m1.m2.m3.f.n:pos		
 eksploatatorach	eksploatator	subst:pl:loc:m1	nazwa pospolita	
 eksploatatora	eksploatator	subst:sg:gen.acc:m1	nazwa pospolita	
-eksploatatora	eksploatator	subst:sg:gen:m1	nazwa pospolita	
 eksploatatorami	eksploatator	subst:pl:inst:m1	nazwa pospolita	
 eksploatator	eksploatator	subst:sg:nom:m1	nazwa pospolita	
 eksploatatorem	eksploatator	subst:sg:inst:m1	nazwa pospolita	
@@ -11297,7 +11228,6 @@ eksploracyjnym	eksploracyjny	adj:sg:loc:m1.m2.m3.n:pos
 eksploracyjnymi	eksploracyjny	adj:pl:inst:m1.m2.m3.f.n:pos		
 eksploratorach	eksplorator	subst:pl:loc:m1	nazwa pospolita	
 eksploratora	eksplorator	subst:sg:gen.acc:m1	nazwa pospolita	
-eksploratora	eksplorator	subst:sg:gen:m1	nazwa pospolita	
 eksploratorami	eksplorator	subst:pl:inst:m1	nazwa pospolita	
 eksplorator	eksplorator	subst:sg:nom:m1	nazwa pospolita	
 eksploratorem	eksplorator	subst:sg:inst:m1	nazwa pospolita	
@@ -11544,7 +11474,6 @@ eksponencie	eksponent	subst:sg:voc:m1	nazwa pospolita
 eksponenci	eksponent	subst:pl:nom.voc:m1	nazwa pospolita	
 eksponentach	eksponent	subst:pl:loc:m1	nazwa pospolita	
 eksponenta	eksponent	subst:sg:gen.acc:m1	nazwa pospolita	
-eksponenta	eksponent	subst:sg:gen:m1	nazwa pospolita	
 eksponentami	eksponent	subst:pl:inst:m1	nazwa pospolita	
 eksponent	eksponent	subst:sg:nom:m1	nazwa pospolita	
 eksponentem	eksponent	subst:sg:inst:m1	nazwa pospolita	
@@ -11723,7 +11652,6 @@ eksportacjom	eksportacja	subst:pl:dat:f	nazwa pospolita
 eksportacyj	eksportacja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 eksporterach	eksporter	subst:pl:loc:m1	nazwa pospolita	
 eksportera	eksporter	subst:sg:gen.acc:m1	nazwa pospolita	
-eksportera	eksporter	subst:sg:gen:m1	nazwa pospolita	
 eksporterami	eksporter	subst:pl:inst:m1	nazwa pospolita	
 eksporter	eksporter	subst:sg:nom:m1	nazwa pospolita	
 eksporterem	eksporter	subst:sg:inst:m1	nazwa pospolita	
@@ -12053,7 +11981,6 @@ ekspresjonisto	ekspresjonista	subst:sg:voc:m1	nazwa pospolita
 ekspresjonistom	ekspresjonista	subst:pl:dat:m1	nazwa pospolita	
 ekspresjonistów	ekspresjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 ekspresjonisty	ekspresjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ekspresjonisty	ekspresjonista	subst:sg:gen:m1	nazwa pospolita	
 ekspresjoniście	ekspresjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 ekspresjoniści	ekspresjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 ekspresjonistce	ekspresjonistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -12174,7 +12101,6 @@ ekspresu	ekspres:s1	subst:sg:gen:m3	nazwa pospolita
 ekspresy	ekspres:s1	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 ekspresach	ekspres:s2	subst:pl:loc:m1	nazwa pospolita	
 ekspresa	ekspres:s2	subst:sg:gen.acc:m1	nazwa pospolita	
-ekspresa	ekspres:s2	subst:sg:gen:m1	nazwa pospolita	
 ekspresami	ekspres:s2	subst:pl:inst:m1	nazwa pospolita	
 ekspres	ekspres:s2	subst:sg:nom:m1	nazwa pospolita	
 ekspresem	ekspres:s2	subst:sg:inst:m1	nazwa pospolita	
@@ -12418,7 +12344,6 @@ ekspulsuję	ekspulsować	fin:sg:pri:imperf		daw.
 ekspulsujmy	ekspulsować	impt:pl:pri:imperf		daw.
 eksach	eks:s1	subst:pl:loc:m1	nazwa pospolita	
 eksa	eks:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-eksa	eks:s1	subst:sg:gen:m1	nazwa pospolita	
 eksami	eks:s1	subst:pl:inst:m1	nazwa pospolita	
 eks	eks:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 eks	eks:s1	subst:sg:nom:m1	nazwa pospolita	
@@ -12584,7 +12509,6 @@ ekstatycznymi	ekstatyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 ekstatycy	ekstatyk	subst:pl:nom.voc:m1	nazwa pospolita	
 ekstatykach	ekstatyk	subst:pl:loc:m1	nazwa pospolita	
 ekstatyka	ekstatyk	subst:sg:gen.acc:m1	nazwa pospolita	
-ekstatyka	ekstatyk	subst:sg:gen:m1	nazwa pospolita	
 ekstatykami	ekstatyk	subst:pl:inst:m1	nazwa pospolita	
 ekstatyk	ekstatyk	subst:sg:nom:m1	nazwa pospolita	
 ekstatyki	ekstatyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -13051,7 +12975,6 @@ eksterminacyjnym	eksterminacyjny	adj:sg:loc:m1.m2.m3.n:pos
 eksterminacyjnymi	eksterminacyjny	adj:pl:inst:m1.m2.m3.f.n:pos		
 eksterminatorach	eksterminator	subst:pl:loc:m1	nazwa pospolita	
 eksterminatora	eksterminator	subst:sg:gen.acc:m1	nazwa pospolita	
-eksterminatora	eksterminator	subst:sg:gen:m1	nazwa pospolita	
 eksterminatorami	eksterminator	subst:pl:inst:m1	nazwa pospolita	
 eksterminator	eksterminator	subst:sg:nom:m1	nazwa pospolita	
 eksterminatorem	eksterminator	subst:sg:inst:m1	nazwa pospolita	
@@ -13154,7 +13077,6 @@ eksterminuję	eksterminować	fin:sg:pri:imperf.perf
 eksterminujmy	eksterminować	impt:pl:pri:imperf.perf		
 eksternach	ekstern	subst:pl:loc:m1	nazwa pospolita	
 eksterna	ekstern	subst:sg:gen.acc:m1	nazwa pospolita	
-eksterna	ekstern	subst:sg:gen:m1	nazwa pospolita	
 eksternami	ekstern	subst:pl:inst:m1	nazwa pospolita	
 ekstern	ekstern	subst:sg:nom:m1	nazwa pospolita	
 eksternem	ekstern	subst:sg:inst:m1	nazwa pospolita	
@@ -13185,7 +13107,6 @@ eksternisto	eksternista	subst:sg:voc:m1	nazwa pospolita
 eksternistom	eksternista	subst:pl:dat:m1	nazwa pospolita	
 eksternistów	eksternista	subst:pl:gen.acc:m1	nazwa pospolita	
 eksternisty	eksternista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-eksternisty	eksternista	subst:sg:gen:m1	nazwa pospolita	
 eksterniście	eksternista	subst:sg:dat.loc:m1	nazwa pospolita	
 eksterniści	eksternista	subst:pl:nom.voc:m1	nazwa pospolita	
 eksternistycznie	eksternistycznie	adv:pos		
@@ -14150,7 +14071,6 @@ ekstrawertycznymi	ekstrawertyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 ekstrawertycy	ekstrawertyk	subst:pl:nom.voc:m1	nazwa pospolita	
 ekstrawertykach	ekstrawertyk	subst:pl:loc:m1	nazwa pospolita	
 ekstrawertyka	ekstrawertyk	subst:sg:gen.acc:m1	nazwa pospolita	
-ekstrawertyka	ekstrawertyk	subst:sg:gen:m1	nazwa pospolita	
 ekstrawertykami	ekstrawertyk	subst:pl:inst:m1	nazwa pospolita	
 ekstrawertyk	ekstrawertyk	subst:sg:nom:m1	nazwa pospolita	
 ekstrawertyki	ekstrawertyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -14273,7 +14193,6 @@ ekstremisto	ekstremista	subst:sg:voc:m1	nazwa pospolita
 ekstremistom	ekstremista	subst:pl:dat:m1	nazwa pospolita	
 ekstremistów	ekstremista	subst:pl:gen.acc:m1	nazwa pospolita	
 ekstremisty	ekstremista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ekstremisty	ekstremista	subst:sg:gen:m1	nazwa pospolita	
 ekstremiście	ekstremista	subst:sg:dat.loc:m1	nazwa pospolita	
 ekstremiści	ekstremista	subst:pl:nom.voc:m1	nazwa pospolita	
 ekstremistce	ekstremistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -14568,7 +14487,6 @@ eksulancie	eksulant	subst:sg:voc:m1	nazwa pospolita	daw.
 eksulanci	eksulant	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 eksulantach	eksulant	subst:pl:loc:m1	nazwa pospolita	daw.
 eksulanta	eksulant	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-eksulanta	eksulant	subst:sg:gen:m1	nazwa pospolita	daw.
 eksulantami	eksulant	subst:pl:inst:m1	nazwa pospolita	daw.
 eksulant	eksulant	subst:sg:nom:m1	nazwa pospolita	daw.
 eksulantem	eksulant	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -14660,7 +14578,6 @@ ektopasożycie	ektopasożyt	subst:sg:loc:m2	nazwa pospolita
 ektopasożycie	ektopasożyt	subst:sg:voc:m2	nazwa pospolita	
 ektopasożytach	ektopasożyt	subst:pl:loc:m2	nazwa pospolita	
 ektopasożyta	ektopasożyt	subst:sg:gen.acc:m2	nazwa pospolita	
-ektopasożyta	ektopasożyt	subst:sg:gen:m2	nazwa pospolita	
 ektopasożytami	ektopasożyt	subst:pl:inst:m2	nazwa pospolita	
 ektopasożyt	ektopasożyt	subst:sg:nom:m2	nazwa pospolita	
 ektopasożytem	ektopasożyt	subst:sg:inst:m2	nazwa pospolita	
@@ -14828,7 +14745,6 @@ ekumenisto	ekumenista	subst:sg:voc:m1	nazwa pospolita
 ekumenistom	ekumenista	subst:pl:dat:m1	nazwa pospolita	
 ekumenistów	ekumenista	subst:pl:gen.acc:m1	nazwa pospolita	
 ekumenisty	ekumenista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ekumenisty	ekumenista	subst:sg:gen:m1	nazwa pospolita	
 ekumeniście	ekumenista	subst:sg:dat.loc:m1	nazwa pospolita	
 ekumeniści	ekumenista	subst:pl:nom.voc:m1	nazwa pospolita	
 ekumenizmach	ekumenizm	subst:pl:loc:m3	nazwa pospolita	
@@ -14956,7 +14872,6 @@ ekwilibrysto	ekwilibrysta	subst:sg:voc:m1	nazwa pospolita
 ekwilibrystom	ekwilibrysta	subst:pl:dat:m1	nazwa pospolita	
 ekwilibrystów	ekwilibrysta	subst:pl:gen.acc:m1	nazwa pospolita	
 ekwilibrysty	ekwilibrysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ekwilibrysty	ekwilibrysta	subst:sg:gen:m1	nazwa pospolita	
 ekwilibryście	ekwilibrysta	subst:sg:dat.loc:m1	nazwa pospolita	
 ekwilibryści	ekwilibrysta	subst:pl:nom.voc:m1	nazwa pospolita	
 ekwilibrystycznościach	ekwilibrystyczność	subst:pl:loc:f	nazwa pospolita	
@@ -15266,7 +15181,6 @@ ekwito	ekwita	subst:sg:voc:m1	nazwa pospolita
 ekwitom	ekwita	subst:pl:dat:m1	nazwa pospolita	
 ekwitów	ekwita	subst:pl:gen.acc:m1	nazwa pospolita	
 ekwity	ekwita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ekwity	ekwita	subst:sg:gen:m1	nazwa pospolita	
 ekwitacjach	ekwitacja	subst:pl:loc:f	nazwa pospolita	
 ekwitacja	ekwitacja	subst:sg:nom:f	nazwa pospolita	
 ekwitacjami	ekwitacja	subst:pl:inst:f	nazwa pospolita	
@@ -15491,7 +15405,6 @@ elany	elana	subst:pl:nom.acc.voc:f	nazwa pospolita
 elany	elana	subst:sg:gen:f	nazwa pospolita	
 elandach	eland	subst:pl:loc:m2	nazwa pospolita	
 elanda	eland	subst:sg:gen.acc:m2	nazwa pospolita	
-elanda	eland	subst:sg:gen:m2	nazwa pospolita	
 elandami	eland	subst:pl:inst:m2	nazwa pospolita	
 eland	eland	subst:sg:nom:m2	nazwa pospolita	
 elandem	eland	subst:sg:inst:m2	nazwa pospolita	
@@ -16016,7 +15929,6 @@ elblążanami	elblążanin	subst:pl:inst:m1	nazwa pospolita
 elblążan	elblążanin	subst:pl:gen.acc:m1	nazwa pospolita	
 elblążanie	elblążanin	subst:pl:nom.voc:m1	nazwa pospolita	
 elblążanina	elblążanin	subst:sg:gen.acc:m1	nazwa pospolita	
-elblążanina	elblążanin	subst:sg:gen:m1	nazwa pospolita	
 elblążanin	elblążanin	subst:sg:nom:m1	nazwa pospolita	
 elblążaninem	elblążanin	subst:sg:inst:m1	nazwa pospolita	
 elblążaninie	elblążanin	subst:sg:loc:m1	nazwa pospolita	
@@ -16084,7 +15996,6 @@ eleackość	eleackość	subst:sg:acc:f	nazwa pospolita
 eleackość	eleackość	subst:sg:nom:f	nazwa pospolita	
 elearach	elear	subst:pl:loc:m1	nazwa pospolita	hist.
 eleara	elear	subst:sg:gen.acc:m1	nazwa pospolita	hist.
-eleara	elear	subst:sg:gen:m1	nazwa pospolita	hist.
 elearami	elear	subst:pl:inst:m1	nazwa pospolita	hist.
 elear	elear	subst:sg:nom:m1	nazwa pospolita	hist.
 elearem	elear	subst:sg:inst:m1	nazwa pospolita	hist.
@@ -16142,7 +16053,6 @@ eleato	eleata	subst:sg:voc:m1	nazwa pospolita
 eleatom	eleata	subst:pl:dat:m1	nazwa pospolita	
 eleatów	eleata	subst:pl:gen.acc:m1	nazwa pospolita	
 eleaty	eleata	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-eleaty	eleata	subst:sg:gen:m1	nazwa pospolita	
 eleatyzmach	eleatyzm	subst:pl:loc:m3	nazwa pospolita	
 eleatyzmami	eleatyzm	subst:pl:inst:m3	nazwa pospolita	
 eleatyzm	eleatyzm	subst:sg:nom.acc:m3	nazwa pospolita	
@@ -16157,7 +16067,6 @@ eleatyzmy	eleatyzm	subst:pl:nom.acc.voc:m3	nazwa pospolita
 electro	electro	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 elegancikach	elegancik	subst:pl:loc:m1	nazwa pospolita	iron.
 elegancika	elegancik	subst:sg:gen.acc:m1	nazwa pospolita	iron.
-elegancika	elegancik	subst:sg:gen:m1	nazwa pospolita	iron.
 elegancikami	elegancik	subst:pl:inst:m1	nazwa pospolita	iron.
 elegancik	elegancik	subst:sg:nom:m1	nazwa pospolita	iron.
 eleganciki	elegancik	depr:pl:nom.acc.voc:m2	nazwa pospolita	iron.
@@ -16245,7 +16154,6 @@ elegancie	elegant	subst:sg:voc:m1	nazwa pospolita
 eleganci	elegant	subst:pl:nom.voc:m1	nazwa pospolita	
 elegantach	elegant	subst:pl:loc:m1	nazwa pospolita	
 eleganta	elegant	subst:sg:gen.acc:m1	nazwa pospolita	
-eleganta	elegant	subst:sg:gen:m1	nazwa pospolita	
 elegantami	elegant	subst:pl:inst:m1	nazwa pospolita	
 elegant	elegant	subst:sg:nom:m1	nazwa pospolita	
 elegantem	elegant	subst:sg:inst:m1	nazwa pospolita	
@@ -16460,7 +16368,6 @@ elegijnymi	elegijny	adj:pl:inst:m1.m2.m3.f.n:pos
 elegicy	elegik	subst:pl:nom.voc:m1	nazwa pospolita	
 elegikach	elegik	subst:pl:loc:m1	nazwa pospolita	
 elegika	elegik	subst:sg:gen.acc:m1	nazwa pospolita	
-elegika	elegik	subst:sg:gen:m1	nazwa pospolita	
 elegikami	elegik	subst:pl:inst:m1	nazwa pospolita	
 elegik	elegik	subst:sg:nom:m1	nazwa pospolita	
 elegiki	elegik	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -16523,7 +16430,6 @@ elekcie	elekt	subst:sg:voc:m1	nazwa pospolita
 elekci	elekt	subst:pl:nom.voc:m1	nazwa pospolita	
 elektach	elekt	subst:pl:loc:m1	nazwa pospolita	
 elekta	elekt	subst:sg:gen.acc:m1	nazwa pospolita	
-elekta	elekt	subst:sg:gen:m1	nazwa pospolita	
 elektami	elekt	subst:pl:inst:m1	nazwa pospolita	
 elekt	elekt	subst:sg:nom:m1	nazwa pospolita	
 elektem	elekt	subst:sg:inst:m1	nazwa pospolita	
@@ -16533,7 +16439,6 @@ elektów	elekt	subst:pl:gen.acc:m1	nazwa pospolita
 elekty	elekt	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 elektorach	elektor	subst:pl:loc:m1	nazwa pospolita	
 elektora	elektor	subst:sg:gen.acc:m1	nazwa pospolita	
-elektora	elektor	subst:sg:gen:m1	nazwa pospolita	
 elektorami	elektor	subst:pl:inst:m1	nazwa pospolita	
 elektor	elektor	subst:sg:nom:m1	nazwa pospolita	
 elektorem	elektor	subst:sg:inst:m1	nazwa pospolita	
@@ -16699,7 +16604,6 @@ elektroakustycznymi	elektroakustyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 elektroakustycy	elektroakustyk	subst:pl:nom.voc:m1	nazwa pospolita	
 elektroakustykach	elektroakustyk	subst:pl:loc:m1	nazwa pospolita	
 elektroakustyka	elektroakustyk	subst:sg:gen.acc:m1	nazwa pospolita	
-elektroakustyka	elektroakustyk	subst:sg:gen:m1	nazwa pospolita	
 elektroakustykami	elektroakustyk	subst:pl:inst:m1	nazwa pospolita	
 elektroakustyk	elektroakustyk	subst:sg:nom:m1	nazwa pospolita	
 elektroakustyki	elektroakustyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -16803,7 +16707,6 @@ elektrobodźczymi	elektrobodźczy	adj:pl:inst:m1.m2.m3.f.n:pos
 elektrobusach	elektrobus	subst:pl:loc:m2	nazwa pospolita	
 elektrobusach	elektrobus	subst:pl:loc:m3	nazwa pospolita	
 elektrobusa	elektrobus	subst:sg:gen.acc:m2	nazwa pospolita	
-elektrobusa	elektrobus	subst:sg:gen:m2	nazwa pospolita	
 elektrobusami	elektrobus	subst:pl:inst:m2	nazwa pospolita	
 elektrobusami	elektrobus	subst:pl:inst:m3	nazwa pospolita	
 elektrobus	elektrobus	subst:sg:nom.acc:m3	nazwa pospolita	
@@ -16873,7 +16776,6 @@ elektrochemicznymi	elektrochemiczny	adj:pl:inst:m1.m2.m3.f.n:pos
 elektrochemicy	elektrochemik	subst:pl:nom.voc:m1	nazwa pospolita	
 elektrochemikach	elektrochemik	subst:pl:loc:m1	nazwa pospolita	
 elektrochemika	elektrochemik	subst:sg:gen.acc:m1	nazwa pospolita	
-elektrochemika	elektrochemik	subst:sg:gen:m1	nazwa pospolita	
 elektrochemikami	elektrochemik	subst:pl:inst:m1	nazwa pospolita	
 elektrochemik	elektrochemik	subst:sg:nom:m1	nazwa pospolita	
 elektrochemiki	elektrochemik	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -16979,7 +16881,6 @@ elektrociepłowniczymi	elektrociepłowniczy	adj:pl:inst:m1.m2.m3.f.n:pos
 elektrociepłownicy	elektrociepłownik	subst:pl:nom.voc:m1	nazwa pospolita	
 elektrociepłownikach	elektrociepłownik	subst:pl:loc:m1	nazwa pospolita	
 elektrociepłownika	elektrociepłownik	subst:sg:gen.acc:m1	nazwa pospolita	
-elektrociepłownika	elektrociepłownik	subst:sg:gen:m1	nazwa pospolita	
 elektrociepłownikami	elektrociepłownik	subst:pl:inst:m1	nazwa pospolita	
 elektrociepłownik	elektrociepłownik	subst:sg:nom:m1	nazwa pospolita	
 elektrociepłowniki	elektrociepłownik	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -17336,7 +17237,6 @@ elektrofiltrze	elektrofiltr	subst:sg:voc:m3	nazwa pospolita
 elektrofizjolodzy	elektrofizjolog	subst:pl:nom.voc:m1	nazwa pospolita	
 elektrofizjologach	elektrofizjolog	subst:pl:loc:m1	nazwa pospolita	
 elektrofizjologa	elektrofizjolog	subst:sg:gen.acc:m1	nazwa pospolita	
-elektrofizjologa	elektrofizjolog	subst:sg:gen:m1	nazwa pospolita	
 elektrofizjologami	elektrofizjolog	subst:pl:inst:m1	nazwa pospolita	
 elektrofizjolog	elektrofizjolog	subst:sg:nom:m1	nazwa pospolita	
 elektrofizjologi	elektrofizjolog	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -17560,7 +17460,6 @@ elektroindukcjom	elektroindukcja	subst:pl:dat:f	nazwa pospolita
 elektroindukcyj	elektroindukcja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 elektroinstalatorach	elektroinstalator	subst:pl:loc:m1	nazwa pospolita	
 elektroinstalatora	elektroinstalator	subst:sg:gen.acc:m1	nazwa pospolita	
-elektroinstalatora	elektroinstalator	subst:sg:gen:m1	nazwa pospolita	
 elektroinstalatorami	elektroinstalator	subst:pl:inst:m1	nazwa pospolita	
 elektroinstalator	elektroinstalator	subst:sg:nom:m1	nazwa pospolita	
 elektroinstalatorem	elektroinstalator	subst:sg:inst:m1	nazwa pospolita	
@@ -18221,7 +18120,6 @@ elektromechanicznymi	elektromechaniczny	adj:pl:inst:m1.m2.m3.f.n:pos
 elektromechanicy	elektromechanik	subst:pl:nom.voc:m1	nazwa pospolita	
 elektromechanikach	elektromechanik	subst:pl:loc:m1	nazwa pospolita	
 elektromechanika	elektromechanik	subst:sg:gen.acc:m1	nazwa pospolita	
-elektromechanika	elektromechanik	subst:sg:gen:m1	nazwa pospolita	
 elektromechanikami	elektromechanik	subst:pl:inst:m1	nazwa pospolita	
 elektromechanik	elektromechanik	subst:sg:nom:m1	nazwa pospolita	
 elektromechaniki	elektromechanik	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -18488,7 +18386,6 @@ elektromobilu	elektromobil	subst:sg:loc:m3	nazwa pospolita
 elektromobilu	elektromobil	subst:sg:voc:m3	nazwa pospolita	
 elektromonterach	elektromonter	subst:pl:loc:m1	nazwa pospolita	
 elektromontera	elektromonter	subst:sg:gen.acc:m1	nazwa pospolita	
-elektromontera	elektromonter	subst:sg:gen:m1	nazwa pospolita	
 elektromonterami	elektromonter	subst:pl:inst:m1	nazwa pospolita	
 elektromonter	elektromonter	subst:sg:nom:m1	nazwa pospolita	
 elektromonterem	elektromonter	subst:sg:inst:m1	nazwa pospolita	
@@ -18524,7 +18421,6 @@ elektromotorze	elektromotor	subst:sg:voc:m3	nazwa pospolita
 elektromotorowcach	elektromotorowiec	subst:pl:loc:m2	nazwa pospolita	pot.
 elektromotorowcach	elektromotorowiec	subst:pl:loc:m3	nazwa pospolita	
 elektromotorowca	elektromotorowiec	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-elektromotorowca	elektromotorowiec	subst:sg:gen:m2	nazwa pospolita	pot.
 elektromotorowca	elektromotorowiec	subst:sg:gen:m3	nazwa pospolita	
 elektromotorowcami	elektromotorowiec	subst:pl:inst:m2	nazwa pospolita	pot.
 elektromotorowcami	elektromotorowiec	subst:pl:inst:m3	nazwa pospolita	
@@ -18661,7 +18557,6 @@ elektronicznymi	elektroniczny	adj:pl:inst:m1.m2.m3.f.n:pos
 elektronicy	elektronik	subst:pl:nom.voc:m1	nazwa pospolita	
 elektronikach	elektronik	subst:pl:loc:m1	nazwa pospolita	
 elektronika	elektronik	subst:sg:gen.acc:m1	nazwa pospolita	
-elektronika	elektronik	subst:sg:gen:m1	nazwa pospolita	
 elektronikami	elektronik	subst:pl:inst:m1	nazwa pospolita	
 elektronik	elektronik	subst:sg:nom:m1	nazwa pospolita	
 elektroniki	elektronik	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -19128,7 +19023,6 @@ elektrotechnicznymi	elektrotechniczny	adj:pl:inst:m1.m2.m3.f.n:pos
 elektrotechnicy	elektrotechnik	subst:pl:nom.voc:m1	nazwa pospolita	
 elektrotechnikach	elektrotechnik	subst:pl:loc:m1	nazwa pospolita	
 elektrotechnika	elektrotechnik	subst:sg:gen.acc:m1	nazwa pospolita	
-elektrotechnika	elektrotechnik	subst:sg:gen:m1	nazwa pospolita	
 elektrotechnikami	elektrotechnik	subst:pl:inst:m1	nazwa pospolita	
 elektrotechnik	elektrotechnik	subst:sg:nom:m1	nazwa pospolita	
 elektrotechniki	elektrotechnik	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -19667,7 +19561,6 @@ elektryfikujmy	elektryfikować	impt:pl:pri:imperf
 elektrycy	elektryk	subst:pl:nom.voc:m1	nazwa pospolita	
 elektrykach	elektryk	subst:pl:loc:m1	nazwa pospolita	
 elektryka	elektryk	subst:sg:gen.acc:m1	nazwa pospolita	
-elektryka	elektryk	subst:sg:gen:m1	nazwa pospolita	
 elektrykami	elektryk	subst:pl:inst:m1	nazwa pospolita	
 elektryk	elektryk	subst:sg:nom:m1	nazwa pospolita	
 elektryki	elektryk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -19692,8 +19585,6 @@ elektrykarzach	elektrykarz	subst:pl:loc:m1	nazwa pospolita
 elektrykarzach	elektrykarz	subst:pl:loc:m1	nazwa pospolita	rzad.
 elektrykarza	elektrykarz	subst:sg:gen.acc:m1	nazwa pospolita	
 elektrykarza	elektrykarz	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
-elektrykarza	elektrykarz	subst:sg:gen:m1	nazwa pospolita	
-elektrykarza	elektrykarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 elektrykarzami	elektrykarz	subst:pl:inst:m1	nazwa pospolita	
 elektrykarzami	elektrykarz	subst:pl:inst:m1	nazwa pospolita	rzad.
 elektrykarze	elektrykarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -20107,7 +19998,6 @@ eleuzyńskość	eleuzyńskość	subst:sg:acc:f	nazwa pospolita
 eleuzyńskość	eleuzyńskość	subst:sg:nom:f	nazwa pospolita	
 elewach	elew	subst:pl:loc:m1	nazwa pospolita	
 elewa	elew	subst:sg:gen.acc:m1	nazwa pospolita	
-elewa	elew	subst:sg:gen:m1	nazwa pospolita	
 elewami	elew	subst:pl:inst:m1	nazwa pospolita	
 elew	elew	subst:sg:nom:m1	nazwa pospolita	
 elewem	elew	subst:sg:inst:m1	nazwa pospolita	
@@ -20238,8 +20128,6 @@ elfach	elf	subst:pl:loc:m1	nazwa pospolita
 elfach	elf	subst:pl:loc:m2	nazwa pospolita	
 elfa	elf	subst:sg:gen.acc:m1	nazwa pospolita	
 elfa	elf	subst:sg:gen.acc:m2	nazwa pospolita	
-elfa	elf	subst:sg:gen:m1	nazwa pospolita	
-elfa	elf	subst:sg:gen:m2	nazwa pospolita	
 elfami	elf	subst:pl:inst:m1	nazwa pospolita	
 elfami	elf	subst:pl:inst:m2	nazwa pospolita	
 elf	elf	subst:sg:nom:m1	nazwa pospolita	
@@ -20445,7 +20333,6 @@ eliberuję	eliberować	fin:sg:pri:imperf		daw.
 eliberujmy	eliberować	impt:pl:pri:imperf		daw.
 elierach	elier	subst:pl:loc:m1	nazwa pospolita	
 eliera	elier	subst:sg:gen.acc:m1	nazwa pospolita	
-eliera	elier	subst:sg:gen:m1	nazwa pospolita	
 elierami	elier	subst:pl:inst:m1	nazwa pospolita	
 elier	elier	subst:sg:nom:m1	nazwa pospolita	
 elierem	elier	subst:sg:inst:m1	nazwa pospolita	
@@ -20921,7 +20808,6 @@ elitarysto	elitarysta	subst:sg:voc:m1	nazwa pospolita
 elitarystom	elitarysta	subst:pl:dat:m1	nazwa pospolita	
 elitarystów	elitarysta	subst:pl:gen.acc:m1	nazwa pospolita	
 elitarysty	elitarysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-elitarysty	elitarysta	subst:sg:gen:m1	nazwa pospolita	
 elitaryście	elitarysta	subst:sg:dat.loc:m1	nazwa pospolita	
 elitaryści	elitarysta	subst:pl:nom.voc:m1	nazwa pospolita	
 elitarystycznościach	elitarystyczność	subst:pl:loc:f	nazwa pospolita	
@@ -21679,7 +21565,6 @@ emablujmy	emablować	impt:pl:pri:imperf
 e-mailach	e-mail	subst:pl:loc:m2	nazwa pospolita	pot.
 e-mailach	e-mail	subst:pl:loc:m3	nazwa pospolita	
 e-maila	e-mail	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-e-maila	e-mail	subst:sg:gen:m2	nazwa pospolita	pot.
 e-maila	e-mail	subst:sg:gen:m3	nazwa pospolita	
 e-mailami	e-mail	subst:pl:inst:m2	nazwa pospolita	pot.
 e-mailami	e-mail	subst:pl:inst:m3	nazwa pospolita	
@@ -21850,7 +21735,6 @@ emalio	emalia	subst:sg:voc:f	nazwa pospolita
 emaliom	emalia	subst:pl:dat:f	nazwa pospolita	
 emalierach	emalier	subst:pl:loc:m1	nazwa pospolita	
 emaliera	emalier	subst:sg:gen.acc:m1	nazwa pospolita	
-emaliera	emalier	subst:sg:gen:m1	nazwa pospolita	
 emalierami	emalier	subst:pl:inst:m1	nazwa pospolita	
 emalier	emalier	subst:sg:nom:m1	nazwa pospolita	
 emalierem	emalier	subst:sg:inst:m1	nazwa pospolita	
@@ -21876,7 +21760,6 @@ emalierń	emaliernia	subst:pl:gen:f	nazwa pospolita	char.
 emaliernicy	emaliernik	subst:pl:nom.voc:m1	nazwa pospolita	
 emaliernikach	emaliernik	subst:pl:loc:m1	nazwa pospolita	
 emaliernika	emaliernik	subst:sg:gen.acc:m1	nazwa pospolita	
-emaliernika	emaliernik	subst:sg:gen:m1	nazwa pospolita	
 emaliernikami	emaliernik	subst:pl:inst:m1	nazwa pospolita	
 emaliernik	emaliernik	subst:sg:nom:m1	nazwa pospolita	
 emalierniki	emaliernik	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -22143,7 +22026,6 @@ emancypancie	emancypant	subst:sg:voc:m1	nazwa pospolita	daw.
 emancypanci	emancypant	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 emancypantach	emancypant	subst:pl:loc:m1	nazwa pospolita	daw.
 emancypanta	emancypant	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-emancypanta	emancypant	subst:sg:gen:m1	nazwa pospolita	daw.
 emancypantami	emancypant	subst:pl:inst:m1	nazwa pospolita	daw.
 emancypant	emancypant	subst:sg:nom:m1	nazwa pospolita	daw.
 emancypantem	emancypant	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -22590,7 +22472,6 @@ embriografiom	embriografia	subst:pl:dat:f	nazwa pospolita
 embriolodzy	embriolog	subst:pl:nom.voc:m1	nazwa pospolita	
 embriologach	embriolog	subst:pl:loc:m1	nazwa pospolita	
 embriologa	embriolog	subst:sg:gen.acc:m1	nazwa pospolita	
-embriologa	embriolog	subst:sg:gen:m1	nazwa pospolita	
 embriologami	embriolog	subst:pl:inst:m1	nazwa pospolita	
 embriolog	embriolog	subst:sg:nom:m1	nazwa pospolita	
 embriologi	embriolog	depr:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -22651,7 +22532,6 @@ embriologicznymi	embriologiczny	adj:pl:inst:m1.m2.m3.f.n:pos
 embrionach	embrion	subst:pl:loc:m2	nazwa pospolita	anat.
 embrionach	embrion	subst:pl:loc:m3	nazwa pospolita	anat.
 embriona	embrion	subst:sg:gen.acc:m2	nazwa pospolita	anat.
-embriona	embrion	subst:sg:gen:m2	nazwa pospolita	anat.
 embrionami	embrion	subst:pl:inst:m2	nazwa pospolita	anat.
 embrionami	embrion	subst:pl:inst:m3	nazwa pospolita	anat.
 embrion	embrion	subst:sg:nom.acc:m3	nazwa pospolita	anat.
@@ -22719,7 +22599,6 @@ embrionalnym	embrionalny	adj:sg:loc:m1.m2.m3.n:pos
 embrionalnymi	embrionalny	adj:pl:inst:m1.m2.m3.f.n:pos		
 embrionalach	embrional:s1	subst:pl:loc:m1	nazwa pospolita	
 embrionala	embrional:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-embrionala	embrional:s1	subst:sg:gen:m1	nazwa pospolita	
 embrionalami	embrional:s1	subst:pl:inst:m1	nazwa pospolita	
 embrionale	embrional:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 embrionale	embrional:s1	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -22733,7 +22612,6 @@ embrionalu	embrional:s1	subst:sg:loc:m1	nazwa pospolita
 embrionalu	embrional:s1	subst:sg:voc:m1	nazwa pospolita	
 embrionalach	embrional:s2	subst:pl:loc:m2	nazwa pospolita	
 embrionala	embrional:s2	subst:sg:gen.acc:m2	nazwa pospolita	
-embrionala	embrional:s2	subst:sg:gen:m2	nazwa pospolita	
 embrionalami	embrional:s2	subst:pl:inst:m2	nazwa pospolita	
 embrionale	embrional:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 embrional	embrional:s2	subst:sg:nom:m2	nazwa pospolita	
@@ -22928,7 +22806,6 @@ emerycie	emeryt	subst:sg:voc:m1	nazwa pospolita
 emeryci	emeryt	subst:pl:nom.voc:m1	nazwa pospolita	
 emerytach	emeryt	subst:pl:loc:m1	nazwa pospolita	
 emeryta	emeryt	subst:sg:gen.acc:m1	nazwa pospolita	
-emeryta	emeryt	subst:sg:gen:m1	nazwa pospolita	
 emerytami	emeryt	subst:pl:inst:m1	nazwa pospolita	
 emerytem	emeryt	subst:sg:inst:m1	nazwa pospolita	
 emeryt	emeryt	subst:sg:nom:m1	nazwa pospolita	
@@ -23209,7 +23086,6 @@ emfiteuto	emfiteuta	subst:sg:voc:m1	nazwa pospolita
 emfiteutom	emfiteuta	subst:pl:dat:m1	nazwa pospolita	
 emfiteutów	emfiteuta	subst:pl:gen.acc:m1	nazwa pospolita	
 emfiteuty	emfiteuta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-emfiteuty	emfiteuta	subst:sg:gen:m1	nazwa pospolita	
 emfiteutycznościach	emfiteutyczność	subst:pl:loc:f	nazwa pospolita	
 emfiteutycznościami	emfiteutyczność	subst:pl:inst:f	nazwa pospolita	
 emfiteutycznością	emfiteutyczność	subst:sg:inst:f	nazwa pospolita	
@@ -23355,7 +23231,6 @@ emigrancie	emigrant	subst:sg:voc:m1	nazwa pospolita
 emigranci	emigrant	subst:pl:nom.voc:m1	nazwa pospolita	
 emigrantach	emigrant	subst:pl:loc:m1	nazwa pospolita	
 emigranta	emigrant	subst:sg:gen.acc:m1	nazwa pospolita	
-emigranta	emigrant	subst:sg:gen:m1	nazwa pospolita	
 emigrantami	emigrant	subst:pl:inst:m1	nazwa pospolita	
 emigrantem	emigrant	subst:sg:inst:m1	nazwa pospolita	
 emigrant	emigrant	subst:sg:nom:m1	nazwa pospolita	
@@ -23486,7 +23361,6 @@ emigruję	emigrować	fin:sg:pri:imperf
 emigrujmy	emigrować	impt:pl:pri:imperf		
 emigrusach	emigrus	subst:pl:loc:m1	nazwa pospolita	
 emigrusa	emigrus	subst:sg:gen.acc:m1	nazwa pospolita	
-emigrusa	emigrus	subst:sg:gen:m1	nazwa pospolita	
 emigrusami	emigrus	subst:pl:inst:m1	nazwa pospolita	
 emigrusem	emigrus	subst:sg:inst:m1	nazwa pospolita	
 emigrus	emigrus	subst:sg:nom:m1	nazwa pospolita	
@@ -23517,7 +23391,6 @@ eminencje	eminencja:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita
 eminencję	eminencja:s2	subst:sg:acc:m2	nazwa pospolita	
 eminencji	eminencja:s2	subst:pl:gen:m2	nazwa pospolita	
 eminencji	eminencja:s2	subst:sg:dat.loc:m2	nazwa pospolita	
-eminencji	eminencja:s2	subst:sg:gen:m2	nazwa pospolita	
 eminencjo	eminencja:s2	subst:sg:voc:m2	nazwa pospolita	
 eminencjom	eminencja:s2	subst:pl:dat:m2	nazwa pospolita	
 eminentnościach	eminentność	subst:pl:loc:f	nazwa pospolita	
@@ -23557,7 +23430,6 @@ eminentnym	eminentny	adj:sg:loc:m1.m2.m3.n:pos
 eminentnymi	eminentny	adj:pl:inst:m1.m2.m3.f.n:pos		
 emirach	emir	subst:pl:loc:m1	nazwa pospolita	
 emira	emir	subst:sg:gen.acc:m1	nazwa pospolita	
-emira	emir	subst:sg:gen:m1	nazwa pospolita	
 emirami	emir	subst:pl:inst:m1	nazwa pospolita	
 emirem	emir	subst:sg:inst:m1	nazwa pospolita	
 emir	emir	subst:sg:nom:m1	nazwa pospolita	
@@ -23581,7 +23453,6 @@ emiratu	emirat	subst:sg:gen:m3	nazwa pospolita
 emiraty	emirat	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 emisariuszach	emisariusz	subst:pl:loc:m1	nazwa pospolita	
 emisariusza	emisariusz	subst:sg:gen.acc:m1	nazwa pospolita	
-emisariusza	emisariusz	subst:sg:gen:m1	nazwa pospolita	
 emisariuszami	emisariusz	subst:pl:inst:m1	nazwa pospolita	
 emisariusze	emisariusz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 emisariusze	emisariusz	subst:pl:nom.voc:m1	nazwa pospolita	
@@ -23667,7 +23538,6 @@ emitencie	emitent	subst:sg:voc:m1	nazwa pospolita
 emitenci	emitent	subst:pl:nom.voc:m1	nazwa pospolita	
 emitentach	emitent	subst:pl:loc:m1	nazwa pospolita	
 emitenta	emitent	subst:sg:gen.acc:m1	nazwa pospolita	
-emitenta	emitent	subst:sg:gen:m1	nazwa pospolita	
 emitentami	emitent	subst:pl:inst:m1	nazwa pospolita	
 emitentem	emitent	subst:sg:inst:m1	nazwa pospolita	
 emitent	emitent	subst:sg:nom:m1	nazwa pospolita	
@@ -23853,7 +23723,6 @@ emocjonalisto	emocjonalista	subst:sg:voc:m1	nazwa pospolita
 emocjonalistom	emocjonalista	subst:pl:dat:m1	nazwa pospolita	
 emocjonalistów	emocjonalista	subst:pl:gen.acc:m1	nazwa pospolita	
 emocjonalisty	emocjonalista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-emocjonalisty	emocjonalista	subst:sg:gen:m1	nazwa pospolita	
 emocjonaliście	emocjonalista	subst:sg:dat.loc:m1	nazwa pospolita	
 emocjonaliści	emocjonalista	subst:pl:nom.voc:m1	nazwa pospolita	
 emocjonalistycznościach	emocjonalistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -24398,7 +24267,6 @@ empiriokrytycznymi	empiriokrytyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 empiriokrytycy	empiriokrytyk	subst:pl:nom.voc:m1	nazwa pospolita	
 empiriokrytykach	empiriokrytyk	subst:pl:loc:m1	nazwa pospolita	
 empiriokrytyka	empiriokrytyk	subst:sg:gen.acc:m1	nazwa pospolita	
-empiriokrytyka	empiriokrytyk	subst:sg:gen:m1	nazwa pospolita	
 empiriokrytykami	empiriokrytyk	subst:pl:inst:m1	nazwa pospolita	
 empiriokrytyk	empiriokrytyk	subst:sg:nom:m1	nazwa pospolita	
 empiriokrytykiem	empiriokrytyk	subst:sg:inst:m1	nazwa pospolita	
@@ -24482,7 +24350,6 @@ empirycznymi	empiryczny	adj:pl:inst:m1.m2.m3.f.n:pos
 empirycy	empiryk	subst:pl:nom.voc:m1	nazwa pospolita	
 empirykach	empiryk	subst:pl:loc:m1	nazwa pospolita	
 empiryka	empiryk	subst:sg:gen.acc:m1	nazwa pospolita	
-empiryka	empiryk	subst:sg:gen:m1	nazwa pospolita	
 empirykami	empiryk	subst:pl:inst:m1	nazwa pospolita	
 empiryk	empiryk	subst:sg:nom:m1	nazwa pospolita	
 empirykiem	empiryk	subst:sg:inst:m1	nazwa pospolita	
@@ -24501,7 +24368,6 @@ empirysto	empirysta	subst:sg:voc:m1	nazwa pospolita
 empirystom	empirysta	subst:pl:dat:m1	nazwa pospolita	
 empirystów	empirysta	subst:pl:gen.acc:m1	nazwa pospolita	
 empirysty	empirysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-empirysty	empirysta	subst:sg:gen:m1	nazwa pospolita	
 empiryście	empirysta	subst:sg:dat.loc:m1	nazwa pospolita	
 empiryści	empirysta	subst:pl:nom.voc:m1	nazwa pospolita	
 empirystycznościach	empirystyczność	subst:pl:loc:f	nazwa pospolita	
@@ -24918,7 +24784,6 @@ emulsyjnym	emulsyjny	adj:sg:loc:m1.m2.m3.n:pos
 emulsyjnymi	emulsyjny	adj:pl:inst:m1.m2.m3.f.n:pos		
 emulusach	emulus	subst:pl:loc:m1	nazwa pospolita	daw.
 emulusa	emulus	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-emulusa	emulus	subst:sg:gen:m1	nazwa pospolita	daw.
 emulusami	emulus	subst:pl:inst:m1	nazwa pospolita	daw.
 emulusem	emulus	subst:sg:inst:m1	nazwa pospolita	daw.
 emulus	emulus	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -25152,7 +25017,6 @@ encyklopedycznymi	encyklopedyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 encyklopedycy	encyklopedyk	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 encyklopedykach	encyklopedyk	subst:pl:loc:m1	nazwa pospolita	daw.
 encyklopedyka	encyklopedyk	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-encyklopedyka	encyklopedyk	subst:sg:gen:m1	nazwa pospolita	daw.
 encyklopedykami	encyklopedyk	subst:pl:inst:m1	nazwa pospolita	daw.
 encyklopedyk	encyklopedyk	subst:sg:nom:m1	nazwa pospolita	daw.
 encyklopedykiem	encyklopedyk	subst:sg:inst:m1	nazwa pospolita	daw.
@@ -25171,7 +25035,6 @@ encyklopedysto	encyklopedysta	subst:sg:voc:m1	nazwa pospolita
 encyklopedystom	encyklopedysta	subst:pl:dat:m1	nazwa pospolita	
 encyklopedystów	encyklopedysta	subst:pl:gen.acc:m1	nazwa pospolita	
 encyklopedysty	encyklopedysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-encyklopedysty	encyklopedysta	subst:sg:gen:m1	nazwa pospolita	
 encyklopedyście	encyklopedysta	subst:sg:dat.loc:m1	nazwa pospolita	
 encyklopedyści	encyklopedysta	subst:pl:nom.voc:m1	nazwa pospolita	
 encyklopedyzmach	encyklopedyzm	subst:pl:loc:m3	nazwa pospolita	
@@ -25248,7 +25111,6 @@ endeckość	endeckość	subst:sg:nom:f	nazwa pospolita
 endecy	endek	subst:pl:nom.voc:m1	nazwa pospolita	
 endekach	endek	subst:pl:loc:m1	nazwa pospolita	
 endeka	endek	subst:sg:gen.acc:m1	nazwa pospolita	
-endeka	endek	subst:sg:gen:m1	nazwa pospolita	
 endekami	endek	subst:pl:inst:m1	nazwa pospolita	
 endek	endek	subst:sg:nom:m1	nazwa pospolita	
 endekiem	endek	subst:sg:inst:m1	nazwa pospolita	
@@ -25564,7 +25426,6 @@ endokarpy	endokarp	subst:pl:nom.acc.voc:m3	nazwa pospolita
 endokrynolodzy	endokrynolog	subst:pl:nom.voc:m1	nazwa pospolita	
 endokrynologach	endokrynolog	subst:pl:loc:m1	nazwa pospolita	
 endokrynologa	endokrynolog	subst:sg:gen.acc:m1	nazwa pospolita	
-endokrynologa	endokrynolog	subst:sg:gen:m1	nazwa pospolita	
 endokrynologami	endokrynolog	subst:pl:inst:m1	nazwa pospolita	
 endokrynolog	endokrynolog	subst:sg:nom:m1	nazwa pospolita	
 endokrynologiem	endokrynolog	subst:sg:inst:m1	nazwa pospolita	
@@ -25680,7 +25541,6 @@ endopasożycie	endopasożyt	subst:sg:loc:m2	nazwa pospolita
 endopasożycie	endopasożyt	subst:sg:voc:m2	nazwa pospolita	
 endopasożytach	endopasożyt	subst:pl:loc:m2	nazwa pospolita	
 endopasożyta	endopasożyt	subst:sg:gen.acc:m2	nazwa pospolita	
-endopasożyta	endopasożyt	subst:sg:gen:m2	nazwa pospolita	
 endopasożytami	endopasożyt	subst:pl:inst:m2	nazwa pospolita	
 endopasożytem	endopasożyt	subst:sg:inst:m2	nazwa pospolita	
 endopasożyt	endopasożyt	subst:sg:nom:m2	nazwa pospolita	
@@ -26149,7 +26009,6 @@ energetycznymi	energetyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 energetycy	energetyk	subst:pl:nom.voc:m1	nazwa pospolita	
 energetykach	energetyk	subst:pl:loc:m1	nazwa pospolita	
 energetyka	energetyk	subst:sg:gen.acc:m1	nazwa pospolita	
-energetyka	energetyk	subst:sg:gen:m1	nazwa pospolita	
 energetykami	energetyk	subst:pl:inst:m1	nazwa pospolita	
 energetyk	energetyk	subst:sg:nom:m1	nazwa pospolita	
 energetykiem	energetyk	subst:sg:inst:m1	nazwa pospolita	
@@ -26521,7 +26380,6 @@ energoelektronicznymi	energoelektroniczny	adj:pl:inst:m1.m2.m3.f.n:pos
 energoelektronicy	energoelektronik	subst:pl:nom.voc:m1	nazwa pospolita	
 energoelektronikach	energoelektronik	subst:pl:loc:m1	nazwa pospolita	
 energoelektronika	energoelektronik	subst:sg:gen.acc:m1	nazwa pospolita	
-energoelektronika	energoelektronik	subst:sg:gen:m1	nazwa pospolita	
 energoelektronikami	energoelektronik	subst:pl:inst:m1	nazwa pospolita	
 energoelektronik	energoelektronik	subst:sg:nom:m1	nazwa pospolita	
 energoelektronikiem	energoelektronik	subst:sg:inst:m1	nazwa pospolita	
@@ -27015,7 +26873,6 @@ enkawudysto	enkawudysta	subst:sg:voc:m1	nazwa pospolita
 enkawudystom	enkawudysta	subst:pl:dat:m1	nazwa pospolita	
 enkawudystów	enkawudysta	subst:pl:gen.acc:m1	nazwa pospolita	
 enkawudysty	enkawudysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-enkawudysty	enkawudysta	subst:sg:gen:m1	nazwa pospolita	
 enkawudyście	enkawudysta	subst:sg:dat.loc:m1	nazwa pospolita	
 enkawudyści	enkawudysta	subst:pl:nom.voc:m1	nazwa pospolita	
 enkawudzistach	enkawudzista	subst:pl:loc:m1	nazwa pospolita	pot.
@@ -27027,7 +26884,6 @@ enkawudzisto	enkawudzista	subst:sg:voc:m1	nazwa pospolita	pot.
 enkawudzistom	enkawudzista	subst:pl:dat:m1	nazwa pospolita	pot.
 enkawudzistów	enkawudzista	subst:pl:gen.acc:m1	nazwa pospolita	pot.
 enkawudzisty	enkawudzista	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
-enkawudzisty	enkawudzista	subst:sg:gen:m1	nazwa pospolita	pot.
 enkawudziście	enkawudzista	subst:sg:dat.loc:m1	nazwa pospolita	pot.
 enkawudziści	enkawudzista	subst:pl:nom.voc:m1	nazwa pospolita	pot.
 enkefalinach	enkefalina	subst:pl:loc:f	nazwa pospolita	
@@ -27123,7 +26979,6 @@ enolu	enol	subst:sg:voc:m3	nazwa pospolita
 enolodzy	enolog	subst:pl:nom.voc:m1	nazwa pospolita	
 enologach	enolog	subst:pl:loc:m1	nazwa pospolita	
 enologa	enolog	subst:sg:gen.acc:m1	nazwa pospolita	
-enologa	enolog	subst:sg:gen:m1	nazwa pospolita	
 enologami	enolog	subst:pl:inst:m1	nazwa pospolita	
 enolog	enolog	subst:sg:nom:m1	nazwa pospolita	
 enologiem	enolog	subst:sg:inst:m1	nazwa pospolita	
@@ -27280,8 +27135,6 @@ entach	ent	subst:pl:loc:m1	nazwa pospolita
 entach	ent	subst:pl:loc:m2	nazwa pospolita	
 enta	ent	subst:sg:gen.acc:m1	nazwa pospolita	
 enta	ent	subst:sg:gen.acc:m2	nazwa pospolita	
-enta	ent	subst:sg:gen:m1	nazwa pospolita	
-enta	ent	subst:sg:gen:m2	nazwa pospolita	
 entami	ent	subst:pl:inst:m1	nazwa pospolita	
 entami	ent	subst:pl:inst:m2	nazwa pospolita	
 entem	ent	subst:sg:inst:m1	nazwa pospolita	
@@ -27378,7 +27231,6 @@ enterokinazy	enterokinaza	subst:pl:nom.acc.voc:f	nazwa pospolita
 enterokinazy	enterokinaza	subst:sg:gen:f	nazwa pospolita	
 enterokokach	enterokok	subst:pl:loc:m2	nazwa pospolita	
 enterokoka	enterokok	subst:sg:gen.acc:m2	nazwa pospolita	
-enterokoka	enterokok	subst:sg:gen:m2	nazwa pospolita	
 enterokokami	enterokok	subst:pl:inst:m2	nazwa pospolita	
 enterokok	enterokok	subst:sg:nom:m2	nazwa pospolita	
 enterokokiem	enterokok	subst:sg:inst:m2	nazwa pospolita	
@@ -27446,7 +27298,6 @@ enterotoksyny	enterotoksyna	subst:pl:nom.acc.voc:f	nazwa pospolita
 enterotoksyny	enterotoksyna	subst:sg:gen:f	nazwa pospolita	
 enterowirusach	enterowirus	subst:pl:loc:m2	nazwa pospolita	
 enterowirusa	enterowirus	subst:sg:gen.acc:m2	nazwa pospolita	
-enterowirusa	enterowirus	subst:sg:gen:m2	nazwa pospolita	
 enterowirusami	enterowirus	subst:pl:inst:m2	nazwa pospolita	
 enterowirusem	enterowirus	subst:sg:inst:m2	nazwa pospolita	
 enterowirus	enterowirus	subst:sg:nom:m2	nazwa pospolita	
@@ -27526,7 +27377,6 @@ entodermalnym	entodermalny	adj:sg:loc:m1.m2.m3.n:pos
 entodermalnymi	entodermalny	adj:pl:inst:m1.m2.m3.f.n:pos		
 entomofagach	entomofag	subst:pl:loc:m2	nazwa pospolita	
 entomofaga	entomofag	subst:sg:gen.acc:m2	nazwa pospolita	
-entomofaga	entomofag	subst:sg:gen:m2	nazwa pospolita	
 entomofagami	entomofag	subst:pl:inst:m2	nazwa pospolita	
 entomofag	entomofag	subst:sg:nom:m2	nazwa pospolita	
 entomofagiem	entomofag	subst:sg:inst:m2	nazwa pospolita	
@@ -27573,7 +27423,6 @@ entomogamiom	entomogamia	subst:pl:dat:f	nazwa pospolita
 entomolodzy	entomolog	subst:pl:nom.voc:m1	nazwa pospolita	
 entomologach	entomolog	subst:pl:loc:m1	nazwa pospolita	
 entomologa	entomolog	subst:sg:gen.acc:m1	nazwa pospolita	
-entomologa	entomolog	subst:sg:gen:m1	nazwa pospolita	
 entomologami	entomolog	subst:pl:inst:m1	nazwa pospolita	
 entomolog	entomolog	subst:sg:nom:m1	nazwa pospolita	
 entomologiem	entomolog	subst:sg:inst:m1	nazwa pospolita	
@@ -27779,7 +27628,6 @@ entuzjasto	entuzjasta	subst:sg:voc:m1	nazwa pospolita
 entuzjastom	entuzjasta	subst:pl:dat:m1	nazwa pospolita	
 entuzjastów	entuzjasta	subst:pl:gen.acc:m1	nazwa pospolita	
 entuzjasty	entuzjasta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-entuzjasty	entuzjasta	subst:sg:gen:m1	nazwa pospolita	
 entuzjaście	entuzjasta	subst:sg:dat.loc:m1	nazwa pospolita	
 entuzjaści	entuzjasta	subst:pl:nom.voc:m1	nazwa pospolita	
 entuzjastce	entuzjastka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -28281,7 +28129,6 @@ enzymatycznymi	enzymatyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 enzymolodzy	enzymolog	subst:pl:nom.voc:m1	nazwa pospolita	
 enzymologach	enzymolog	subst:pl:loc:m1	nazwa pospolita	
 enzymologa	enzymolog	subst:sg:gen.acc:m1	nazwa pospolita	
-enzymologa	enzymolog	subst:sg:gen:m1	nazwa pospolita	
 enzymologami	enzymolog	subst:pl:inst:m1	nazwa pospolita	
 enzymolog	enzymolog	subst:sg:nom:m1	nazwa pospolita	
 enzymologiem	enzymolog	subst:sg:inst:m1	nazwa pospolita	
@@ -28542,7 +28389,6 @@ eonizmu	eonizm	subst:sg:gen:m3	nazwa pospolita
 eonizmy	eonizm	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 eonach	eon:s1	subst:pl:loc:m1	nazwa pospolita	filoz.
 eona	eon:s1	subst:sg:gen.acc:m1	nazwa pospolita	filoz.
-eona	eon:s1	subst:sg:gen:m1	nazwa pospolita	filoz.
 eonami	eon:s1	subst:pl:inst:m1	nazwa pospolita	filoz.
 eonem	eon:s1	subst:sg:inst:m1	nazwa pospolita	filoz.
 eon	eon:s1	subst:sg:nom:m1	nazwa pospolita	filoz.
@@ -28671,7 +28517,6 @@ epanalepsy	epanalepsa	subst:pl:nom.acc.voc:f	nazwa pospolita
 epanalepsy	epanalepsa	subst:sg:gen:f	nazwa pospolita	
 eparchach	eparch	subst:pl:loc:m1	nazwa pospolita	
 eparcha	eparch	subst:sg:gen.acc:m1	nazwa pospolita	
-eparcha	eparch	subst:sg:gen:m1	nazwa pospolita	
 eparchami	eparch	subst:pl:inst:m1	nazwa pospolita	
 eparchem	eparch	subst:sg:inst:m1	nazwa pospolita	
 eparch	eparch	subst:sg:nom:m1	nazwa pospolita	
@@ -28692,7 +28537,6 @@ eparchom	eparcha	subst:pl:dat:m1	nazwa pospolita
 eparchowie	eparcha	subst:pl:nom.voc:m1	nazwa pospolita	
 eparchów	eparcha	subst:pl:gen.acc:m1	nazwa pospolita	
 eparchy	eparcha	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-eparchy	eparcha	subst:sg:gen:m1	nazwa pospolita	
 eparsze	eparcha	subst:sg:dat.loc:m1	nazwa pospolita	
 eparchiach	eparchia	subst:pl:loc:f	nazwa pospolita	
 eparchia	eparchia	subst:sg:nom:f	nazwa pospolita	
@@ -29304,7 +29148,6 @@ epidemicznymi	epidemiczny	adj:pl:inst:m1.m2.m3.f.n:pos
 epidemiolodzy	epidemiolog	subst:pl:nom.voc:m1	nazwa pospolita	
 epidemiologach	epidemiolog	subst:pl:loc:m1	nazwa pospolita	
 epidemiologa	epidemiolog	subst:sg:gen.acc:m1	nazwa pospolita	
-epidemiologa	epidemiolog	subst:sg:gen:m1	nazwa pospolita	
 epidemiologami	epidemiolog	subst:pl:inst:m1	nazwa pospolita	
 epidemiolog	epidemiolog	subst:sg:nom:m1	nazwa pospolita	
 epidemiologiem	epidemiolog	subst:sg:inst:m1	nazwa pospolita	
@@ -29659,7 +29502,6 @@ epigenezy	epigeneza	subst:pl:nom.acc.voc:f	nazwa pospolita
 epigenezy	epigeneza	subst:sg:gen:f	nazwa pospolita	
 epigonach	epigon	subst:pl:loc:m1	nazwa pospolita	
 epigona	epigon	subst:sg:gen.acc:m1	nazwa pospolita	
-epigona	epigon	subst:sg:gen:m1	nazwa pospolita	
 epigonami	epigon	subst:pl:inst:m1	nazwa pospolita	
 epigonem	epigon	subst:sg:inst:m1	nazwa pospolita	
 epigon	epigon	subst:sg:nom:m1	nazwa pospolita	
@@ -29800,7 +29642,6 @@ epigraficznymi	epigraficzny	adj:pl:inst:m1.m2.m3.f.n:pos
 epigraficy	epigrafik	subst:pl:nom.voc:m1	nazwa pospolita	
 epigrafikach	epigrafik	subst:pl:loc:m1	nazwa pospolita	
 epigrafika	epigrafik	subst:sg:gen.acc:m1	nazwa pospolita	
-epigrafika	epigrafik	subst:sg:gen:m1	nazwa pospolita	
 epigrafikami	epigrafik	subst:pl:inst:m1	nazwa pospolita	
 epigrafik	epigrafik	subst:sg:nom:m1	nazwa pospolita	
 epigrafikiem	epigrafik	subst:sg:inst:m1	nazwa pospolita	
@@ -29881,7 +29722,6 @@ epigramatycznymi	epigramatyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 epigramatycy	epigramatyk	subst:pl:nom.voc:m1	nazwa pospolita	
 epigramatykach	epigramatyk	subst:pl:loc:m1	nazwa pospolita	
 epigramatyka	epigramatyk	subst:sg:gen.acc:m1	nazwa pospolita	
-epigramatyka	epigramatyk	subst:sg:gen:m1	nazwa pospolita	
 epigramatykami	epigramatyk	subst:pl:inst:m1	nazwa pospolita	
 epigramatyk	epigramatyk	subst:sg:nom:m1	nazwa pospolita	
 epigramatykiem	epigramatyk	subst:sg:inst:m1	nazwa pospolita	
@@ -29894,7 +29734,6 @@ epigramatyku	epigramatyk	subst:sg:voc:m1	nazwa pospolita
 epicy	epik	subst:pl:nom.voc:m1	nazwa pospolita	
 epikach	epik	subst:pl:loc:m1	nazwa pospolita	
 epika	epik	subst:sg:gen.acc:m1	nazwa pospolita	
-epika	epik	subst:sg:gen:m1	nazwa pospolita	
 epikami	epik	subst:pl:inst:m1	nazwa pospolita	
 epik	epik	subst:sg:nom:m1	nazwa pospolita	
 epikiem	epik	subst:sg:inst:m1	nazwa pospolita	
@@ -29986,7 +29825,6 @@ epikureizmy	epikureizm	subst:pl:nom.acc.voc:m3	nazwa pospolita
 epikurejczycy	epikurejczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 epikurejczykach	epikurejczyk	subst:pl:loc:m1	nazwa pospolita	
 epikurejczyka	epikurejczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-epikurejczyka	epikurejczyk	subst:sg:gen:m1	nazwa pospolita	
 epikurejczykami	epikurejczyk	subst:pl:inst:m1	nazwa pospolita	
 epikurejczyk	epikurejczyk	subst:sg:nom:m1	nazwa pospolita	
 epikurejczykiem	epikurejczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -30094,7 +29932,6 @@ epilepsjom	epilepsja	subst:pl:dat:f	nazwa pospolita	med.
 epilepsyj	epilepsja	subst:pl:gen:f	nazwa pospolita	arch.|med.|char.
 epileptoidach	epileptoid	subst:pl:loc:m1	nazwa pospolita	
 epileptoida	epileptoid	subst:sg:gen.acc:m1	nazwa pospolita	
-epileptoida	epileptoid	subst:sg:gen:m1	nazwa pospolita	
 epileptoidami	epileptoid	subst:pl:inst:m1	nazwa pospolita	
 epileptoidem	epileptoid	subst:sg:inst:m1	nazwa pospolita	
 epileptoid	epileptoid	subst:sg:nom:m1	nazwa pospolita	
@@ -30155,7 +29992,6 @@ epileptycznymi	epileptyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 epileptycy	epileptyk	subst:pl:nom.voc:m1	nazwa pospolita	
 epileptykach	epileptyk	subst:pl:loc:m1	nazwa pospolita	
 epileptyka	epileptyk	subst:sg:gen.acc:m1	nazwa pospolita	
-epileptyka	epileptyk	subst:sg:gen:m1	nazwa pospolita	
 epileptykami	epileptyk	subst:pl:inst:m1	nazwa pospolita	
 epileptyk	epileptyk	subst:sg:nom:m1	nazwa pospolita	
 epileptykiem	epileptyk	subst:sg:inst:m1	nazwa pospolita	
@@ -30427,7 +30263,6 @@ epirogenezy	epirogeneza	subst:pl:nom.acc.voc:f	nazwa pospolita
 epirogenezy	epirogeneza	subst:sg:gen:f	nazwa pospolita	
 episjerach	episjer	subst:pl:loc:m1	nazwa pospolita	przest.
 episjera	episjer	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-episjera	episjer	subst:sg:gen:m1	nazwa pospolita	przest.
 episjerami	episjer	subst:pl:inst:m1	nazwa pospolita	przest.
 episjerem	episjer	subst:sg:inst:m1	nazwa pospolita	przest.
 episjer	episjer	subst:sg:nom:m1	nazwa pospolita	przest.
@@ -30593,7 +30428,6 @@ episteme	episteme	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa pospolita
 epistemolodzy	epistemolog	subst:pl:nom.voc:m1	nazwa pospolita	
 epistemologach	epistemolog	subst:pl:loc:m1	nazwa pospolita	
 epistemologa	epistemolog	subst:sg:gen.acc:m1	nazwa pospolita	
-epistemologa	epistemolog	subst:sg:gen:m1	nazwa pospolita	
 epistemologami	epistemolog	subst:pl:inst:m1	nazwa pospolita	
 epistemolog	epistemolog	subst:sg:nom:m1	nazwa pospolita	
 epistemologiem	epistemolog	subst:sg:inst:m1	nazwa pospolita	
@@ -30696,12 +30530,10 @@ epistolisto	epistolista	subst:sg:voc:m1	nazwa pospolita
 epistolistom	epistolista	subst:pl:dat:m1	nazwa pospolita	
 epistolistów	epistolista	subst:pl:gen.acc:m1	nazwa pospolita	
 epistolisty	epistolista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-epistolisty	epistolista	subst:sg:gen:m1	nazwa pospolita	
 epistoliście	epistolista	subst:sg:dat.loc:m1	nazwa pospolita	
 epistoliści	epistolista	subst:pl:nom.voc:m1	nazwa pospolita	
 epistolografach	epistolograf	subst:pl:loc:m1	nazwa pospolita	
 epistolografa	epistolograf	subst:sg:gen.acc:m1	nazwa pospolita	
-epistolografa	epistolograf	subst:sg:gen:m1	nazwa pospolita	
 epistolografami	epistolograf	subst:pl:inst:m1	nazwa pospolita	
 epistolografem	epistolograf	subst:sg:inst:m1	nazwa pospolita	
 epistolograf	epistolograf	subst:sg:nom:m1	nazwa pospolita	
@@ -31166,7 +30998,6 @@ epizodysto	epizodysta	subst:sg:voc:m1	nazwa pospolita
 epizodystom	epizodysta	subst:pl:dat:m1	nazwa pospolita	
 epizodystów	epizodysta	subst:pl:gen.acc:m1	nazwa pospolita	
 epizodysty	epizodysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-epizodysty	epizodysta	subst:sg:gen:m1	nazwa pospolita	
 epizodyście	epizodysta	subst:sg:dat.loc:m1	nazwa pospolita	
 epizodyści	epizodysta	subst:pl:nom.voc:m1	nazwa pospolita	
 epizodystce	epizodystka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -31200,7 +31031,6 @@ epizodzisto	epizodzista	subst:sg:voc:m1	nazwa pospolita
 epizodzistom	epizodzista	subst:pl:dat:m1	nazwa pospolita	
 epizodzistów	epizodzista	subst:pl:gen.acc:m1	nazwa pospolita	
 epizodzisty	epizodzista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-epizodzisty	epizodzista	subst:sg:gen:m1	nazwa pospolita	
 epizodziście	epizodzista	subst:sg:dat.loc:m1	nazwa pospolita	
 epizodziści	epizodzista	subst:pl:nom.voc:m1	nazwa pospolita	
 epizoicznościach	epizoiczność	subst:pl:loc:f	nazwa pospolita	
@@ -31265,7 +31095,6 @@ epizootyj	epizootia	subst:pl:gen:f	nazwa pospolita	arch.|char.
 epizootiolodzy	epizootiolog	subst:pl:nom.voc:m1	nazwa pospolita	
 epizootiologach	epizootiolog	subst:pl:loc:m1	nazwa pospolita	
 epizootiologa	epizootiolog	subst:sg:gen.acc:m1	nazwa pospolita	
-epizootiologa	epizootiolog	subst:sg:gen:m1	nazwa pospolita	
 epizootiologami	epizootiolog	subst:pl:inst:m1	nazwa pospolita	
 epizootiolog	epizootiolog	subst:sg:nom:m1	nazwa pospolita	
 epizootiologiem	epizootiolog	subst:sg:inst:m1	nazwa pospolita	
@@ -31685,7 +31514,6 @@ eponimicznym	eponimiczny	adj:sg:loc:m1.m2.m3.n:pos
 eponimicznymi	eponimiczny	adj:pl:inst:m1.m2.m3.f.n:pos		
 eponimach	eponim:s1	subst:pl:loc:m1	nazwa pospolita	hist.
 eponima	eponim:s1	subst:sg:gen.acc:m1	nazwa pospolita	hist.
-eponima	eponim:s1	subst:sg:gen:m1	nazwa pospolita	hist.
 eponimami	eponim:s1	subst:pl:inst:m1	nazwa pospolita	hist.
 eponimem	eponim:s1	subst:sg:inst:m1	nazwa pospolita	hist.
 eponim	eponim:s1	subst:sg:nom:m1	nazwa pospolita	hist.
@@ -31849,7 +31677,6 @@ epuracyjnym	epuracyjny	adj:sg:loc:m1.m2.m3.n:pos		przest.
 epuracyjnymi	epuracyjny	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
 epuzerach	epuzer	subst:pl:loc:m1	nazwa pospolita	przest.
 epuzera	epuzer	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-epuzera	epuzer	subst:sg:gen:m1	nazwa pospolita	przest.
 epuzerami	epuzer	subst:pl:inst:m1	nazwa pospolita	przest.
 epuzerem	epuzer	subst:sg:inst:m1	nazwa pospolita	przest.
 epuzer	epuzer	subst:sg:nom:m1	nazwa pospolita	przest.
@@ -32133,7 +31960,6 @@ eremito	eremita	subst:sg:voc:m1	nazwa pospolita
 eremitom	eremita	subst:pl:dat:m1	nazwa pospolita	
 eremitów	eremita	subst:pl:gen.acc:m1	nazwa pospolita	
 eremity	eremita	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-eremity	eremita	subst:sg:gen:m1	nazwa pospolita	
 eremitoriach	eremitorium	subst:pl:loc:n:ncol	nazwa pospolita	
 eremitoria	eremitorium	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
 eremitoriami	eremitorium	subst:pl:inst:n:ncol	nazwa pospolita	
@@ -32458,7 +32284,6 @@ ergometrycznym	ergometryczny	adj:sg:loc:m1.m2.m3.n:pos
 ergometrycznymi	ergometryczny	adj:pl:inst:m1.m2.m3.f.n:pos		
 ergonomach	ergonom	subst:pl:loc:m1	nazwa pospolita	
 ergonoma	ergonom	subst:sg:gen.acc:m1	nazwa pospolita	
-ergonoma	ergonom	subst:sg:gen:m1	nazwa pospolita	
 ergonomami	ergonom	subst:pl:inst:m1	nazwa pospolita	
 ergonomem	ergonom	subst:sg:inst:m1	nazwa pospolita	
 ergonom	ergonom	subst:sg:nom:m1	nazwa pospolita	
@@ -32549,7 +32374,6 @@ ergonomisto	ergonomista	subst:sg:voc:m1	nazwa pospolita
 ergonomistom	ergonomista	subst:pl:dat:m1	nazwa pospolita	
 ergonomistów	ergonomista	subst:pl:gen.acc:m1	nazwa pospolita	
 ergonomisty	ergonomista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ergonomisty	ergonomista	subst:sg:gen:m1	nazwa pospolita	
 ergonomiście	ergonomista	subst:sg:dat.loc:m1	nazwa pospolita	
 ergonomiści	ergonomista	subst:pl:nom.voc:m1	nazwa pospolita	
 ergosterolach	ergosterol	subst:pl:loc:m3	nazwa pospolita	
@@ -32597,7 +32421,6 @@ ergoterapeuto	ergoterapeuta	subst:sg:voc:m1	nazwa pospolita
 ergoterapeutom	ergoterapeuta	subst:pl:dat:m1	nazwa pospolita	
 ergoterapeutów	ergoterapeuta	subst:pl:gen.acc:m1	nazwa pospolita	
 ergoterapeuty	ergoterapeuta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ergoterapeuty	ergoterapeuta	subst:sg:gen:m1	nazwa pospolita	
 ergoterapeutce	ergoterapeutka	subst:sg:dat.loc:f	nazwa pospolita	
 ergoterapeutek	ergoterapeutka	subst:pl:gen:f	nazwa pospolita	
 ergoterapeutkach	ergoterapeutka	subst:pl:loc:f	nazwa pospolita	
@@ -32685,7 +32508,6 @@ erkaemisto	erkaemista	subst:sg:voc:m1	nazwa pospolita
 erkaemistom	erkaemista	subst:pl:dat:m1	nazwa pospolita	
 erkaemistów	erkaemista	subst:pl:gen.acc:m1	nazwa pospolita	
 erkaemisty	erkaemista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-erkaemisty	erkaemista	subst:sg:gen:m1	nazwa pospolita	
 erkaemiście	erkaemista	subst:sg:dat.loc:m1	nazwa pospolita	
 erkaemiści	erkaemista	subst:pl:nom.voc:m1	nazwa pospolita	
 erlangach	erlang	subst:pl:loc:m3	nazwa pospolita	
@@ -32956,7 +32778,6 @@ erotografomańskość	erotografomańskość	subst:sg:acc:f	nazwa pospolita
 erotografomańskość	erotografomańskość	subst:sg:nom:f	nazwa pospolita	
 erotomanach	erotoman	subst:pl:loc:m1	nazwa pospolita	
 erotomana	erotoman	subst:sg:gen.acc:m1	nazwa pospolita	
-erotomana	erotoman	subst:sg:gen:m1	nazwa pospolita	
 erotomanami	erotoman	subst:pl:inst:m1	nazwa pospolita	
 erotomanem	erotoman	subst:sg:inst:m1	nazwa pospolita	
 erotoman	erotoman	subst:sg:nom:m1	nazwa pospolita	
@@ -33393,7 +33214,6 @@ erudycie	erudyt	subst:sg:voc:m1	nazwa pospolita	daw.
 erudyci	erudyt	subst:pl:nom.voc:m1	nazwa pospolita	daw.
 erudytach	erudyt	subst:pl:loc:m1	nazwa pospolita	daw.
 erudyta	erudyt	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-erudyta	erudyt	subst:sg:gen:m1	nazwa pospolita	daw.
 erudytami	erudyt	subst:pl:inst:m1	nazwa pospolita	daw.
 erudytem	erudyt	subst:sg:inst:m1	nazwa pospolita	daw.
 erudyt	erudyt	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -33412,7 +33232,6 @@ erudyto	erudyta	subst:sg:voc:m1	nazwa pospolita
 erudytom	erudyta	subst:pl:dat:m1	nazwa pospolita	
 erudytów	erudyta	subst:pl:gen.acc:m1	nazwa pospolita	
 erudyty	erudyta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-erudyty	erudyta	subst:sg:gen:m1	nazwa pospolita	
 erudytce	erudytka	subst:sg:dat.loc:f	nazwa pospolita	
 erudytek	erudytka	subst:pl:gen:f	nazwa pospolita	
 erudytkach	erudytka	subst:pl:loc:f	nazwa pospolita	
@@ -33785,7 +33604,6 @@ esaule	esauł	subst:sg:loc:m1	nazwa pospolita
 esaule	esauł	subst:sg:voc:m1	nazwa pospolita	
 esaułach	esauł	subst:pl:loc:m1	nazwa pospolita	
 esauła	esauł	subst:sg:gen.acc:m1	nazwa pospolita	
-esauła	esauł	subst:sg:gen:m1	nazwa pospolita	
 esaułami	esauł	subst:pl:inst:m1	nazwa pospolita	
 esaułem	esauł	subst:sg:inst:m1	nazwa pospolita	
 esauł	esauł	subst:sg:nom:m1	nazwa pospolita	
@@ -33846,7 +33664,6 @@ esbeckość	esbeckość	subst:sg:nom:f	nazwa pospolita
 esbecy	esbek	subst:pl:nom.voc:m1	nazwa pospolita	pot.
 esbekach	esbek	subst:pl:loc:m1	nazwa pospolita	pot.
 esbeka	esbek	subst:sg:gen.acc:m1	nazwa pospolita	pot.
-esbeka	esbek	subst:sg:gen:m1	nazwa pospolita	pot.
 esbekami	esbek	subst:pl:inst:m1	nazwa pospolita	pot.
 esbek	esbek	subst:sg:nom:m1	nazwa pospolita	pot.
 esbekiem	esbek	subst:sg:inst:m1	nazwa pospolita	pot.
@@ -33859,7 +33676,6 @@ esbeku	esbek	subst:sg:voc:m1	nazwa pospolita	pot.
 eschatolodzy	eschatolog	subst:pl:nom.voc:m1	nazwa pospolita	
 eschatologach	eschatolog	subst:pl:loc:m1	nazwa pospolita	
 eschatologa	eschatolog	subst:sg:gen.acc:m1	nazwa pospolita	
-eschatologa	eschatolog	subst:sg:gen:m1	nazwa pospolita	
 eschatologami	eschatolog	subst:pl:inst:m1	nazwa pospolita	
 eschatolog	eschatolog	subst:sg:nom:m1	nazwa pospolita	
 eschatologiem	eschatolog	subst:sg:inst:m1	nazwa pospolita	
@@ -33921,7 +33737,6 @@ escorcie	escort	subst:sg:loc:m2	nazwa pospolita	mot.
 escorcie	escort	subst:sg:voc:m2	nazwa pospolita	mot.
 escortach	escort	subst:pl:loc:m2	nazwa pospolita	mot.
 escorta	escort	subst:sg:gen.acc:m2	nazwa pospolita	mot.
-escorta	escort	subst:sg:gen:m2	nazwa pospolita	mot.
 escortami	escort	subst:pl:inst:m2	nazwa pospolita	mot.
 escortem	escort	subst:sg:inst:m2	nazwa pospolita	mot.
 escort	escort	subst:sg:nom:m2	nazwa pospolita	mot.
@@ -33932,7 +33747,6 @@ escorty	escort	subst:pl:nom.acc.voc:m2	nazwa pospolita	mot.
 escudach	escudo	subst:pl:loc:m2	nazwa pospolita	monet.
 escuda	escudo	subst:pl:nom.acc.voc:m2	nazwa pospolita	monet.
 escuda	escudo	subst:sg:gen.acc:m2	nazwa pospolita	monet.
-escuda	escudo	subst:sg:gen:m2	nazwa pospolita	monet.
 escudami	escudo	subst:pl:inst:m2	nazwa pospolita	monet.
 escudem	escudo	subst:sg:inst:m2	nazwa pospolita	monet.
 escudo	escudo	subst:sg:nom:m2	nazwa pospolita	monet.
@@ -33994,7 +33808,6 @@ esdeckość	esdeckość	subst:sg:nom:f	nazwa pospolita
 esdecy	esdek	subst:pl:nom.voc:m1	nazwa pospolita	pot.
 esdekach	esdek	subst:pl:loc:m1	nazwa pospolita	pot.
 esdeka	esdek	subst:sg:gen.acc:m1	nazwa pospolita	pot.
-esdeka	esdek	subst:sg:gen:m1	nazwa pospolita	pot.
 esdekami	esdek	subst:pl:inst:m1	nazwa pospolita	pot.
 esdek	esdek	subst:sg:nom:m1	nazwa pospolita	pot.
 esdekiem	esdek	subst:sg:inst:m1	nazwa pospolita	pot.
@@ -34013,7 +33826,6 @@ eseisto	eseista	subst:sg:voc:m1	nazwa pospolita
 eseistom	eseista	subst:pl:dat:m1	nazwa pospolita	
 eseistów	eseista	subst:pl:gen.acc:m1	nazwa pospolita	
 eseisty	eseista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-eseisty	eseista	subst:sg:gen:m1	nazwa pospolita	
 eseiście	eseista	subst:sg:dat.loc:m1	nazwa pospolita	
 eseiści	eseista	subst:pl:nom.voc:m1	nazwa pospolita	
 eseistce	eseistka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -34247,7 +34059,6 @@ eselowskość	eselowskość	subst:sg:nom:f	nazwa pospolita
 esemesach	esemes	subst:pl:loc:m2	nazwa pospolita	pot.
 esemesach	esemes	subst:pl:loc:m3	nazwa pospolita	
 esemesa	esemes	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-esemesa	esemes	subst:sg:gen:m2	nazwa pospolita	pot.
 esemesami	esemes	subst:pl:inst:m2	nazwa pospolita	pot.
 esemesami	esemes	subst:pl:inst:m3	nazwa pospolita	
 esemesem	esemes	subst:sg:inst:m2	nazwa pospolita	pot.
@@ -34483,7 +34294,6 @@ esencjonalnym	esencjonalny	adj:sg:loc:m1.m2.m3.n:pos
 esencjonalnymi	esencjonalny	adj:pl:inst:m1.m2.m3.f.n:pos		
 eserach	eser	subst:pl:loc:m1	nazwa pospolita	
 esera	eser	subst:sg:gen.acc:m1	nazwa pospolita	
-esera	eser	subst:sg:gen:m1	nazwa pospolita	
 eserami	eser	subst:pl:inst:m1	nazwa pospolita	
 eserem	eser	subst:sg:inst:m1	nazwa pospolita	
 eser	eser	subst:sg:nom:m1	nazwa pospolita	
@@ -34496,7 +34306,6 @@ eserze	eser	subst:sg:voc:m1	nazwa pospolita
 eserzy	eser	subst:pl:nom.voc:m1	nazwa pospolita	
 eserowcach	eserowiec	subst:pl:loc:m1	nazwa pospolita	
 eserowca	eserowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-eserowca	eserowiec	subst:sg:gen:m1	nazwa pospolita	
 eserowcami	eserowiec	subst:pl:inst:m1	nazwa pospolita	
 eserowce	eserowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 eserowcem	eserowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -34558,7 +34367,6 @@ eseryny	eseryna	subst:pl:nom.acc.voc:f	nazwa pospolita
 eseryny	eseryna	subst:sg:gen:f	nazwa pospolita	
 esesmanach	esesman	subst:pl:loc:m1	nazwa pospolita	
 esesmana	esesman	subst:sg:gen.acc:m1	nazwa pospolita	
-esesmana	esesman	subst:sg:gen:m1	nazwa pospolita	
 esesmanami	esesman	subst:pl:inst:m1	nazwa pospolita	
 esesmanem	esesman	subst:sg:inst:m1	nazwa pospolita	
 esesman	esesman	subst:sg:nom:m1	nazwa pospolita	
@@ -34619,7 +34427,6 @@ esesmańskość	esesmańskość	subst:sg:acc:f	nazwa pospolita
 esesmańskość	esesmańskość	subst:sg:nom:f	nazwa pospolita	
 esesowcach	esesowiec	subst:pl:loc:m1	nazwa pospolita	
 esesowca	esesowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-esesowca	esesowiec	subst:sg:gen:m1	nazwa pospolita	
 esesowcami	esesowiec	subst:pl:inst:m1	nazwa pospolita	
 esesowce	esesowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 esesowcem	esesowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -34931,7 +34738,6 @@ eskaluję	eskalować	fin:sg:pri:imperf
 eskalujmy	eskalować	impt:pl:pri:imperf		
 eskamoterach	eskamoter	subst:pl:loc:m1	nazwa pospolita	daw.
 eskamotera	eskamoter	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-eskamotera	eskamoter	subst:sg:gen:m1	nazwa pospolita	daw.
 eskamoterami	eskamoter	subst:pl:inst:m1	nazwa pospolita	daw.
 eskamoterem	eskamoter	subst:sg:inst:m1	nazwa pospolita	daw.
 eskamoter	eskamoter	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -35063,7 +34869,6 @@ eskapisto	eskapista	subst:sg:voc:m1	nazwa pospolita
 eskapistom	eskapista	subst:pl:dat:m1	nazwa pospolita	
 eskapistów	eskapista	subst:pl:gen.acc:m1	nazwa pospolita	
 eskapisty	eskapista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-eskapisty	eskapista	subst:sg:gen:m1	nazwa pospolita	
 eskapiście	eskapista	subst:sg:dat.loc:m1	nazwa pospolita	
 eskapiści	eskapista	subst:pl:nom.voc:m1	nazwa pospolita	
 eskapistycznościach	eskapistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -35221,7 +35026,6 @@ eskimoskość	eskimoskość	subst:sg:acc:f	nazwa pospolita
 eskimoskość	eskimoskość	subst:sg:nom:f	nazwa pospolita	
 eskonterach	eskonter	subst:pl:loc:m1	nazwa pospolita	
 eskontera	eskonter	subst:sg:gen.acc:m1	nazwa pospolita	
-eskontera	eskonter	subst:sg:gen:m1	nazwa pospolita	
 eskonterami	eskonter	subst:pl:inst:m1	nazwa pospolita	
 eskonterem	eskonter	subst:sg:inst:m1	nazwa pospolita	
 eskonter	eskonter	subst:sg:nom:m1	nazwa pospolita	
@@ -35347,7 +35151,6 @@ eskortancie	eskortant	subst:sg:voc:m1	nazwa pospolita
 eskortanci	eskortant	subst:pl:nom.voc:m1	nazwa pospolita	
 eskortantach	eskortant	subst:pl:loc:m1	nazwa pospolita	
 eskortanta	eskortant	subst:sg:gen.acc:m1	nazwa pospolita	
-eskortanta	eskortant	subst:sg:gen:m1	nazwa pospolita	
 eskortantami	eskortant	subst:pl:inst:m1	nazwa pospolita	
 eskortantem	eskortant	subst:sg:inst:m1	nazwa pospolita	
 eskortant	eskortant	subst:sg:nom:m1	nazwa pospolita	
@@ -35357,7 +35160,6 @@ eskortantów	eskortant	subst:pl:gen.acc:m1	nazwa pospolita
 eskortanty	eskortant	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 eskorterach	eskorter	subst:pl:loc:m1	nazwa pospolita	
 eskortera	eskorter	subst:sg:gen.acc:m1	nazwa pospolita	
-eskortera	eskorter	subst:sg:gen:m1	nazwa pospolita	
 eskorterami	eskorter	subst:pl:inst:m1	nazwa pospolita	
 eskorterem	eskorter	subst:sg:inst:m1	nazwa pospolita	
 eskorter	eskorter	subst:sg:nom:m1	nazwa pospolita	
@@ -35460,7 +35262,6 @@ eskortujmy	eskortować	impt:pl:pri:imperf
 eskortowcach	eskortowiec	subst:pl:loc:m2	nazwa pospolita	pot.
 eskortowcach	eskortowiec	subst:pl:loc:m3	nazwa pospolita	
 eskortowca	eskortowiec	subst:sg:gen.acc:m2	nazwa pospolita	pot.
-eskortowca	eskortowiec	subst:sg:gen:m2	nazwa pospolita	pot.
 eskortowca	eskortowiec	subst:sg:gen:m3	nazwa pospolita	
 eskortowcami	eskortowiec	subst:pl:inst:m2	nazwa pospolita	pot.
 eskortowcami	eskortowiec	subst:pl:inst:m3	nazwa pospolita	
@@ -35518,7 +35319,6 @@ eskortowymi	eskortowy	adj:pl:inst:m1.m2.m3.f.n:pos
 eskudach	eskudo	subst:pl:loc:m2	nazwa pospolita	
 eskuda	eskudo	subst:pl:nom.acc.voc:m2	nazwa pospolita	
 eskuda	eskudo	subst:sg:gen.acc:m2	nazwa pospolita	
-eskuda	eskudo	subst:sg:gen:m2	nazwa pospolita	
 eskudami	eskudo	subst:pl:inst:m2	nazwa pospolita	
 eskudem	eskudo	subst:sg:inst:m2	nazwa pospolita	
 eskudo	eskudo	subst:sg:nom:m2	nazwa pospolita	
@@ -35530,7 +35330,6 @@ eskudów	eskudo	subst:pl:gen:m2	nazwa pospolita
 eskudzie	eskudo	subst:sg:loc:m2	nazwa pospolita	
 eskulapach	eskulap	subst:pl:loc:m1	nazwa pospolita	żart.
 eskulapa	eskulap	subst:sg:gen.acc:m1	nazwa pospolita	żart.
-eskulapa	eskulap	subst:sg:gen:m1	nazwa pospolita	żart.
 eskulapami	eskulap	subst:pl:inst:m1	nazwa pospolita	żart.
 eskulapem	eskulap	subst:sg:inst:m1	nazwa pospolita	żart.
 eskulap	eskulap	subst:sg:nom:m1	nazwa pospolita	żart.
@@ -35581,7 +35380,6 @@ eskulapskość	eskulapskość	subst:sg:acc:f	nazwa pospolita
 eskulapskość	eskulapskość	subst:sg:nom:f	nazwa pospolita	
 esmanach	esman	subst:pl:loc:m1	nazwa pospolita	
 esmana	esman	subst:sg:gen.acc:m1	nazwa pospolita	
-esmana	esman	subst:sg:gen:m1	nazwa pospolita	
 esmanami	esman	subst:pl:inst:m1	nazwa pospolita	
 esmanem	esman	subst:sg:inst:m1	nazwa pospolita	
 esman	esman	subst:sg:nom:m1	nazwa pospolita	
@@ -35770,7 +35568,6 @@ espadom	espada	subst:pl:dat:m1	nazwa pospolita
 espadowie	espada	subst:pl:nom.voc:m1	nazwa pospolita	
 espadów	espada	subst:pl:gen.acc:m1	nazwa pospolita	
 espady	espada	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-espady	espada	subst:sg:gen:m1	nazwa pospolita	
 espadzie	espada	subst:sg:dat.loc:m1	nazwa pospolita	
 espadonach	espadon	subst:pl:loc:m3	nazwa pospolita	
 espadonami	espadon	subst:pl:inst:m3	nazwa pospolita	
@@ -35786,7 +35583,6 @@ espadony	espadon	subst:pl:nom.acc.voc:m3	nazwa pospolita
 espadrylach	espadryl	subst:pl:loc:m2	nazwa pospolita	
 espadrylach	espadryl	subst:pl:loc:m3	nazwa pospolita	
 espadryla	espadryl	subst:sg:gen.acc:m2	nazwa pospolita	
-espadryla	espadryl	subst:sg:gen:m2	nazwa pospolita	
 espadryla	espadryl	subst:sg:gen:m3	nazwa pospolita	
 espadrylami	espadryl	subst:pl:inst:m2	nazwa pospolita	
 espadrylami	espadryl	subst:pl:inst:m3	nazwa pospolita	
@@ -35920,7 +35716,6 @@ esperantysto	esperantysta	subst:sg:voc:m1	nazwa pospolita
 esperantystom	esperantysta	subst:pl:dat:m1	nazwa pospolita	
 esperantystów	esperantysta	subst:pl:gen.acc:m1	nazwa pospolita	
 esperantysty	esperantysta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-esperantysty	esperantysta	subst:sg:gen:m1	nazwa pospolita	
 esperantyście	esperantysta	subst:sg:dat.loc:m1	nazwa pospolita	
 esperantyści	esperantysta	subst:pl:nom.voc:m1	nazwa pospolita	
 esperantystce	esperantystka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -35962,7 +35757,6 @@ es	es:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	muz.
 esseńczycy	esseńczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 esseńczykach	esseńczyk	subst:pl:loc:m1	nazwa pospolita	
 esseńczyka	esseńczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-esseńczyka	esseńczyk	subst:sg:gen:m1	nazwa pospolita	
 esseńczykami	esseńczyk	subst:pl:inst:m1	nazwa pospolita	
 esseńczyk	esseńczyk	subst:sg:nom:m1	nazwa pospolita	
 esseńczykiem	esseńczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -36099,7 +35893,6 @@ esteto	esteta	subst:sg:voc:m1	nazwa pospolita
 estetom	esteta	subst:pl:dat:m1	nazwa pospolita	
 estetów	esteta	subst:pl:gen.acc:m1	nazwa pospolita	
 estety	esteta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-estety	esteta	subst:sg:gen:m1	nazwa pospolita	
 estetce	estetka	subst:sg:dat.loc:f	nazwa pospolita	
 estetek	estetka	subst:pl:gen:f	nazwa pospolita	
 estetkach	estetka	subst:pl:loc:f	nazwa pospolita	
@@ -36174,7 +35967,6 @@ estetycznymi	estetyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 estetycy	estetyk	subst:pl:nom.voc:m1	nazwa pospolita	
 estetykach	estetyk	subst:pl:loc:m1	nazwa pospolita	
 estetyka	estetyk	subst:sg:gen.acc:m1	nazwa pospolita	
-estetyka	estetyk	subst:sg:gen:m1	nazwa pospolita	
 estetykami	estetyk	subst:pl:inst:m1	nazwa pospolita	
 estetyk	estetyk	subst:sg:nom:m1	nazwa pospolita	
 estetykiem	estetyk	subst:sg:inst:m1	nazwa pospolita	
@@ -36443,7 +36235,6 @@ estradkowym	estradkowy	adj:sg:loc:m1.m2.m3.n:pos
 estradkowymi	estradkowy	adj:pl:inst:m1.m2.m3.f.n:pos		
 estradowcach	estradowiec	subst:pl:loc:m1	nazwa pospolita	
 estradowca	estradowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-estradowca	estradowiec	subst:sg:gen:m1	nazwa pospolita	
 estradowcami	estradowiec	subst:pl:inst:m1	nazwa pospolita	
 estradowce	estradowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 estradowcem	estradowiec	subst:sg:inst:m1	nazwa pospolita	
@@ -36812,7 +36603,6 @@ estymacjom	estymacja	subst:pl:dat:f	nazwa pospolita	daw.
 estymacyj	estymacja	subst:pl:gen:f	nazwa pospolita	arch.|char.|daw.
 estymatorach	estymator	subst:pl:loc:m1	nazwa pospolita	daw.
 estymatora	estymator	subst:sg:gen.acc:m1	nazwa pospolita	daw.
-estymatora	estymator	subst:sg:gen:m1	nazwa pospolita	daw.
 estymatorami	estymator	subst:pl:inst:m1	nazwa pospolita	daw.
 estymatorem	estymator	subst:sg:inst:m1	nazwa pospolita	daw.
 estymator	estymator	subst:sg:nom:m1	nazwa pospolita	daw.
@@ -37346,7 +37136,6 @@ etatu	etat	subst:sg:gen:m3	nazwa pospolita
 etaty	etat	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 etatowcach	etatowiec	subst:pl:loc:m1	nazwa pospolita	pot.
 etatowca	etatowiec	subst:sg:gen.acc:m1	nazwa pospolita	pot.
-etatowca	etatowiec	subst:sg:gen:m1	nazwa pospolita	pot.
 etatowcami	etatowiec	subst:pl:inst:m1	nazwa pospolita	pot.
 etatowce	etatowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
 etatowcem	etatowiec	subst:sg:inst:m1	nazwa pospolita	pot.
@@ -37396,7 +37185,6 @@ etatowym	etatowy:a	adj:sg:loc:m1.m2.m3.n:pos
 etatowymi	etatowy:a	adj:pl:inst:m1.m2.m3.f.n:pos		
 etatowe	etatowy:s	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 etatowego	etatowy:s	subst:sg:gen.acc:m1	nazwa pospolita	
-etatowego	etatowy:s	subst:sg:gen:m1	nazwa pospolita	
 etatowemu	etatowy:s	subst:sg:dat:m1	nazwa pospolita	
 etatowi	etatowy:s	subst:pl:nom.voc:m1	nazwa pospolita	
 etatowych	etatowy:s	subst:pl:gen.acc:m1	nazwa pospolita	
@@ -37921,7 +37709,6 @@ etiolizacyj	etiolizacja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 etiolodzy	etiolog	subst:pl:nom.voc:m1	nazwa pospolita	
 etiologach	etiolog	subst:pl:loc:m1	nazwa pospolita	
 etiologa	etiolog	subst:sg:gen.acc:m1	nazwa pospolita	
-etiologa	etiolog	subst:sg:gen:m1	nazwa pospolita	
 etiologami	etiolog	subst:pl:inst:m1	nazwa pospolita	
 etiolog	etiolog	subst:sg:nom:m1	nazwa pospolita	
 etiologiem	etiolog	subst:sg:inst:m1	nazwa pospolita	
@@ -37989,7 +37776,6 @@ etiopisto	etiopista	subst:sg:voc:m1	nazwa pospolita
 etiopistom	etiopista	subst:pl:dat:m1	nazwa pospolita	
 etiopistów	etiopista	subst:pl:gen.acc:m1	nazwa pospolita	
 etiopisty	etiopista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-etiopisty	etiopista	subst:sg:gen:m1	nazwa pospolita	
 etiopiście	etiopista	subst:sg:dat.loc:m1	nazwa pospolita	
 etiopiści	etiopista	subst:pl:nom.voc:m1	nazwa pospolita	
 etiopistycznościach	etiopistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -38107,7 +37893,6 @@ etnarchom	etnarcha	subst:pl:dat:m1	nazwa pospolita
 etnarchowie	etnarcha	subst:pl:nom.voc:m1	nazwa pospolita	
 etnarchów	etnarcha	subst:pl:gen.acc:m1	nazwa pospolita	
 etnarchy	etnarcha	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-etnarchy	etnarcha	subst:sg:gen:m1	nazwa pospolita	
 etnarsze	etnarcha	subst:sg:dat.loc:m1	nazwa pospolita	
 etnarchiach	etnarchia	subst:pl:loc:f	nazwa pospolita	
 etnarchia	etnarchia	subst:sg:nom:f	nazwa pospolita	
@@ -38229,7 +38014,6 @@ etnogenio	etnogenia	subst:sg:voc:f	nazwa pospolita
 etnogeniom	etnogenia	subst:pl:dat:f	nazwa pospolita	
 etnografach	etnograf	subst:pl:loc:m1	nazwa pospolita	
 etnografa	etnograf	subst:sg:gen.acc:m1	nazwa pospolita	
-etnografa	etnograf	subst:sg:gen:m1	nazwa pospolita	
 etnografami	etnograf	subst:pl:inst:m1	nazwa pospolita	
 etnografem	etnograf	subst:sg:inst:m1	nazwa pospolita	
 etnograf	etnograf	subst:sg:nom:m1	nazwa pospolita	
@@ -38313,7 +38097,6 @@ etnolingwistykom	etnolingwistyka	subst:pl:dat:f	nazwa pospolita
 etnolodzy	etnolog	subst:pl:nom.voc:m1	nazwa pospolita	
 etnologach	etnolog	subst:pl:loc:m1	nazwa pospolita	
 etnologa	etnolog	subst:sg:gen.acc:m1	nazwa pospolita	
-etnologa	etnolog	subst:sg:gen:m1	nazwa pospolita	
 etnologami	etnolog	subst:pl:inst:m1	nazwa pospolita	
 etnolog	etnolog	subst:sg:nom:m1	nazwa pospolita	
 etnologiem	etnolog	subst:sg:inst:m1	nazwa pospolita	
@@ -38386,7 +38169,6 @@ etnometodologiom	etnometodologia	subst:pl:dat:f	nazwa pospolita
 etnomuzykolodzy	etnomuzykolog	subst:pl:nom.voc:m1	nazwa pospolita	
 etnomuzykologach	etnomuzykolog	subst:pl:loc:m1	nazwa pospolita	
 etnomuzykologa	etnomuzykolog	subst:sg:gen.acc:m1	nazwa pospolita	
-etnomuzykologa	etnomuzykolog	subst:sg:gen:m1	nazwa pospolita	
 etnomuzykologami	etnomuzykolog	subst:pl:inst:m1	nazwa pospolita	
 etnomuzykolog	etnomuzykolog	subst:sg:nom:m1	nazwa pospolita	
 etnomuzykologiem	etnomuzykolog	subst:sg:inst:m1	nazwa pospolita	
@@ -38493,7 +38275,6 @@ etolom	etola	subst:pl:dat:f	nazwa pospolita
 etolodzy	etolog	subst:pl:nom.voc:m1	nazwa pospolita	
 etologach	etolog	subst:pl:loc:m1	nazwa pospolita	
 etologa	etolog	subst:sg:gen.acc:m1	nazwa pospolita	
-etologa	etolog	subst:sg:gen:m1	nazwa pospolita	
 etologami	etolog	subst:pl:inst:m1	nazwa pospolita	
 etolog	etolog	subst:sg:nom:m1	nazwa pospolita	
 etologiem	etolog	subst:sg:inst:m1	nazwa pospolita	
@@ -38600,7 +38381,6 @@ etosowym	etosowy	adj:sg:loc:m1.m2.m3.n:pos
 etosowymi	etosowy	adj:pl:inst:m1.m2.m3.f.n:pos		
 etranżerach	etranżer	subst:pl:loc:m1	nazwa pospolita	
 etranżera	etranżer	subst:sg:gen.acc:m1	nazwa pospolita	
-etranżera	etranżer	subst:sg:gen:m1	nazwa pospolita	
 etranżerami	etranżer	subst:pl:inst:m1	nazwa pospolita	
 etranżerem	etranżer	subst:sg:inst:m1	nazwa pospolita	
 etranżer	etranżer	subst:sg:nom:m1	nazwa pospolita	
@@ -38641,7 +38421,6 @@ etrusko	etrusko	adv:pos
 etruskolodzy	etruskolog	subst:pl:nom.voc:m1	nazwa pospolita	
 etruskologach	etruskolog	subst:pl:loc:m1	nazwa pospolita	
 etruskologa	etruskolog	subst:sg:gen.acc:m1	nazwa pospolita	
-etruskologa	etruskolog	subst:sg:gen:m1	nazwa pospolita	
 etruskologami	etruskolog	subst:pl:inst:m1	nazwa pospolita	
 etruskolog	etruskolog	subst:sg:nom:m1	nazwa pospolita	
 etruskologiem	etruskolog	subst:sg:inst:m1	nazwa pospolita	
@@ -38715,7 +38494,6 @@ etycznymi	etyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 etycy	etyk	subst:pl:nom.voc:m1	nazwa pospolita	
 etykach	etyk	subst:pl:loc:m1	nazwa pospolita	
 etyka	etyk	subst:sg:gen.acc:m1	nazwa pospolita	
-etyka	etyk	subst:sg:gen:m1	nazwa pospolita	
 etykami	etyk	subst:pl:inst:m1	nazwa pospolita	
 etyk	etyk	subst:sg:nom:m1	nazwa pospolita	
 etykiem	etyk	subst:sg:inst:m1	nazwa pospolita	
@@ -39337,7 +39115,6 @@ etylowymi	etylowy	adj:pl:inst:m1.m2.m3.f.n:pos
 etymolodzy	etymolog	subst:pl:nom.voc:m1	nazwa pospolita	
 etymologach	etymolog	subst:pl:loc:m1	nazwa pospolita	
 etymologa	etymolog	subst:sg:gen.acc:m1	nazwa pospolita	
-etymologa	etymolog	subst:sg:gen:m1	nazwa pospolita	
 etymologami	etymolog	subst:pl:inst:m1	nazwa pospolita	
 etymolog	etymolog	subst:sg:nom:m1	nazwa pospolita	
 etymologiem	etymolog	subst:sg:inst:m1	nazwa pospolita	
@@ -39405,7 +39182,6 @@ etymologisto	etymologista	subst:sg:voc:m1	nazwa pospolita
 etymologistom	etymologista	subst:pl:dat:m1	nazwa pospolita	
 etymologistów	etymologista	subst:pl:gen.acc:m1	nazwa pospolita	
 etymologisty	etymologista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-etymologisty	etymologista	subst:sg:gen:m1	nazwa pospolita	
 etymologiście	etymologista	subst:sg:dat.loc:m1	nazwa pospolita	
 etymologiści	etymologista	subst:pl:nom.voc:m1	nazwa pospolita	
 etymologizować	etymologizować	inf:imperf		jęz.
@@ -39621,7 +39397,6 @@ eudajmonisto	eudajmonista	subst:sg:voc:m1	nazwa pospolita
 eudajmonistom	eudajmonista	subst:pl:dat:m1	nazwa pospolita	
 eudajmonistów	eudajmonista	subst:pl:gen.acc:m1	nazwa pospolita	
 eudajmonisty	eudajmonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-eudajmonisty	eudajmonista	subst:sg:gen:m1	nazwa pospolita	
 eudajmoniście	eudajmonista	subst:sg:dat.loc:m1	nazwa pospolita	
 eudajmoniści	eudajmonista	subst:pl:nom.voc:m1	nazwa pospolita	
 eudajmonistycznościach	eudajmonistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -39703,7 +39478,6 @@ eudemonisto	eudemonista	subst:sg:voc:m1	nazwa pospolita
 eudemonistom	eudemonista	subst:pl:dat:m1	nazwa pospolita	
 eudemonistów	eudemonista	subst:pl:gen.acc:m1	nazwa pospolita	
 eudemonisty	eudemonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-eudemonisty	eudemonista	subst:sg:gen:m1	nazwa pospolita	
 eudemoniście	eudemonista	subst:sg:dat.loc:m1	nazwa pospolita	
 eudemoniści	eudemonista	subst:pl:nom.voc:m1	nazwa pospolita	
 eudemonistycznościach	eudemonistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -40070,7 +39844,6 @@ euforycznymi	euforyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 euforycy	euforyk	subst:pl:nom.voc:m1	nazwa pospolita	
 euforykach	euforyk	subst:pl:loc:m1	nazwa pospolita	
 euforyka	euforyk	subst:sg:gen.acc:m1	nazwa pospolita	
-euforyka	euforyk	subst:sg:gen:m1	nazwa pospolita	
 euforykami	euforyk	subst:pl:inst:m1	nazwa pospolita	
 euforyk	euforyk	subst:sg:nom:m1	nazwa pospolita	
 euforykiem	euforyk	subst:sg:inst:m1	nazwa pospolita	
@@ -40129,7 +39902,6 @@ eugenicznymi	eugeniczny	adj:pl:inst:m1.m2.m3.f.n:pos
 eugenicy	eugenik	subst:pl:nom.voc:m1	nazwa pospolita	
 eugenikach	eugenik	subst:pl:loc:m1	nazwa pospolita	
 eugenika	eugenik	subst:sg:gen.acc:m1	nazwa pospolita	
-eugenika	eugenik	subst:sg:gen:m1	nazwa pospolita	
 eugenikami	eugenik	subst:pl:inst:m1	nazwa pospolita	
 eugenik	eugenik	subst:sg:nom:m1	nazwa pospolita	
 eugenikiem	eugenik	subst:sg:inst:m1	nazwa pospolita	
@@ -40234,7 +40006,6 @@ eukarioncie	eukariont	subst:sg:loc:m2	nazwa pospolita
 eukarioncie	eukariont	subst:sg:voc:m2	nazwa pospolita	
 eukariontach	eukariont	subst:pl:loc:m2	nazwa pospolita	
 eukarionta	eukariont	subst:sg:gen.acc:m2	nazwa pospolita	
-eukarionta	eukariont	subst:sg:gen:m2	nazwa pospolita	
 eukariontami	eukariont	subst:pl:inst:m2	nazwa pospolita	
 eukariontem	eukariont	subst:sg:inst:m2	nazwa pospolita	
 eukariont	eukariont	subst:sg:nom:m2	nazwa pospolita	
@@ -40290,7 +40061,6 @@ eumenidy	eumenida	subst:sg:gen:f	nazwa pospolita
 eumenidzie	eumenida	subst:sg:dat.loc:f	nazwa pospolita	
 eunuchach	eunuch	subst:pl:loc:m1	nazwa pospolita	
 eunucha	eunuch	subst:sg:gen.acc:m1	nazwa pospolita	
-eunucha	eunuch	subst:sg:gen:m1	nazwa pospolita	
 eunuchami	eunuch	subst:pl:inst:m1	nazwa pospolita	
 eunuchem	eunuch	subst:sg:inst:m1	nazwa pospolita	
 eunuch	eunuch	subst:sg:nom:m1	nazwa pospolita	
@@ -40303,7 +40073,6 @@ eunuchu	eunuch	subst:sg:voc:m1	nazwa pospolita
 eunuchy	eunuch	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 eunuchoidach	eunuchoid	subst:pl:loc:m1	nazwa pospolita	med.|psych.
 eunuchoida	eunuchoid	subst:sg:gen.acc:m1	nazwa pospolita	med.|psych.
-eunuchoida	eunuchoid	subst:sg:gen:m1	nazwa pospolita	med.|psych.
 eunuchoidami	eunuchoid	subst:pl:inst:m1	nazwa pospolita	med.|psych.
 eunuchoidem	eunuchoid	subst:sg:inst:m1	nazwa pospolita	med.|psych.
 eunuchoid	eunuchoid	subst:sg:nom:m1	nazwa pospolita	med.|psych.
@@ -40334,7 +40103,6 @@ eupatrydo	eupatryda	subst:sg:voc:m1	nazwa pospolita
 eupatrydom	eupatryda	subst:pl:dat:m1	nazwa pospolita	
 eupatrydów	eupatryda	subst:pl:gen.acc:m1	nazwa pospolita	
 eupatrydy	eupatryda	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-eupatrydy	eupatryda	subst:sg:gen:m1	nazwa pospolita	
 eupatrydzie	eupatryda	subst:sg:dat.loc:m1	nazwa pospolita	
 eupatrydzi	eupatryda	subst:pl:nom.voc:m1	nazwa pospolita	
 eurazjatyccy	eurazjatycki	adj:pl:nom.voc:m1:pos		
@@ -40582,7 +40350,6 @@ euroczekowym	euroczekowy	adj:sg:loc:m1.m2.m3.n:pos
 euroczekowymi	euroczekowy	adj:pl:inst:m1.m2.m3.f.n:pos		
 eurodolarach	eurodolar	subst:pl:loc:m2	nazwa pospolita	
 eurodolara	eurodolar	subst:sg:gen.acc:m2	nazwa pospolita	
-eurodolara	eurodolar	subst:sg:gen:m2	nazwa pospolita	
 eurodolarami	eurodolar	subst:pl:inst:m2	nazwa pospolita	
 eurodolarem	eurodolar	subst:sg:inst:m2	nazwa pospolita	
 eurodolar	eurodolar	subst:sg:nom:m2	nazwa pospolita	
@@ -40636,7 +40403,6 @@ euroentuzjasto	euroentuzjasta	subst:sg:voc:m1	nazwa pospolita
 euroentuzjastom	euroentuzjasta	subst:pl:dat:m1	nazwa pospolita	
 euroentuzjastów	euroentuzjasta	subst:pl:gen.acc:m1	nazwa pospolita	
 euroentuzjasty	euroentuzjasta	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-euroentuzjasty	euroentuzjasta	subst:sg:gen:m1	nazwa pospolita	
 euroentuzjaście	euroentuzjasta	subst:sg:dat.loc:m1	nazwa pospolita	
 euroentuzjaści	euroentuzjasta	subst:pl:nom.voc:m1	nazwa pospolita	
 euroentuzjastce	euroentuzjastka	subst:sg:dat.loc:f	nazwa pospolita	
@@ -40755,7 +40521,6 @@ eurokrato	eurokrata	subst:sg:voc:m1	nazwa pospolita
 eurokratom	eurokrata	subst:pl:dat:m1	nazwa pospolita	
 eurokratów	eurokrata	subst:pl:gen.acc:m1	nazwa pospolita	
 eurokraty	eurokrata	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-eurokraty	eurokrata	subst:sg:gen:m1	nazwa pospolita	
 eurokrytycznościach	eurokrytyczność	subst:pl:loc:f	nazwa pospolita	
 eurokrytycznościami	eurokrytyczność	subst:pl:inst:f	nazwa pospolita	
 eurokrytycznością	eurokrytyczność	subst:sg:inst:f	nazwa pospolita	
@@ -40950,7 +40715,6 @@ europeido	europeida	subst:sg:voc:m1	nazwa pospolita
 europeidom	europeida	subst:pl:dat:m1	nazwa pospolita	
 europeidów	europeida	subst:pl:gen.acc:m1	nazwa pospolita	
 europeidy	europeida	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-europeidy	europeida	subst:sg:gen:m1	nazwa pospolita	
 europeidzie	europeida	subst:sg:dat.loc:m1	nazwa pospolita	
 europeidzi	europeida	subst:pl:nom.voc:m1	nazwa pospolita	
 europeistach	europeista	subst:pl:loc:m1	nazwa pospolita	
@@ -40962,7 +40726,6 @@ europeisto	europeista	subst:sg:voc:m1	nazwa pospolita
 europeistom	europeista	subst:pl:dat:m1	nazwa pospolita	
 europeistów	europeista	subst:pl:gen.acc:m1	nazwa pospolita	
 europeisty	europeista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-europeisty	europeista	subst:sg:gen:m1	nazwa pospolita	
 europeiście	europeista	subst:sg:dat.loc:m1	nazwa pospolita	
 europeiści	europeista	subst:pl:nom.voc:m1	nazwa pospolita	
 europeistycznie	europeistycznie	adv:pos		
@@ -41127,7 +40890,6 @@ europeizujmy	europeizować	impt:pl:pri:imperf
 europejczycy	europejczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 europejczykach	europejczyk	subst:pl:loc:m1	nazwa pospolita	
 europejczyka	europejczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-europejczyka	europejczyk	subst:sg:gen:m1	nazwa pospolita	
 europejczykami	europejczyk	subst:pl:inst:m1	nazwa pospolita	
 europejczyk	europejczyk	subst:sg:nom:m1	nazwa pospolita	
 europejczykiem	europejczyk	subst:sg:inst:m1	nazwa pospolita	
@@ -41194,7 +40956,6 @@ europido	europida	subst:sg:voc:m1	nazwa pospolita
 europidom	europida	subst:pl:dat:m1	nazwa pospolita	
 europidów	europida	subst:pl:gen.acc:m1	nazwa pospolita	
 europidy	europida	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-europidy	europida	subst:sg:gen:m1	nazwa pospolita	
 europidzie	europida	subst:sg:dat.loc:m1	nazwa pospolita	
 europidzi	europida	subst:pl:nom.voc:m1	nazwa pospolita	
 europocentrycznościach	europocentryczność	subst:pl:loc:f	nazwa pospolita	
@@ -41396,7 +41157,6 @@ eurosceptycznymi	eurosceptyczny	adj:pl:inst:m1.m2.m3.f.n:pos
 eurosceptycy	eurosceptyk	subst:pl:nom.voc:m1	nazwa pospolita	
 eurosceptykach	eurosceptyk	subst:pl:loc:m1	nazwa pospolita	
 eurosceptyka	eurosceptyk	subst:sg:gen.acc:m1	nazwa pospolita	
-eurosceptyka	eurosceptyk	subst:sg:gen:m1	nazwa pospolita	
 eurosceptykami	eurosceptyk	subst:pl:inst:m1	nazwa pospolita	
 eurosceptyk	eurosceptyk	subst:sg:nom:m1	nazwa pospolita	
 eurosceptykiem	eurosceptyk	subst:sg:inst:m1	nazwa pospolita	
@@ -41534,7 +41294,6 @@ eurozłączu	eurozłącze	subst:sg:loc:n:ncol	nazwa pospolita
 eurozłączy	eurozłącze	subst:pl:gen:n:ncol	nazwa pospolita	
 euryfagach	euryfag	subst:pl:loc:m2	nazwa pospolita	
 euryfaga	euryfag	subst:sg:gen.acc:m2	nazwa pospolita	
-euryfaga	euryfag	subst:sg:gen:m2	nazwa pospolita	
 euryfagami	euryfag	subst:pl:inst:m2	nazwa pospolita	
 euryfag	euryfag	subst:sg:nom:m2	nazwa pospolita	
 euryfagiem	euryfag	subst:sg:inst:m2	nazwa pospolita	
@@ -41744,7 +41503,6 @@ eustatycznym	eustatyczny	adj:sg:loc:m1.m2.m3.n:pos
 eustatycznymi	eustatyczny	adj:pl:inst:m1.m2.m3.f.n:pos		
 eusthenopteronach	eusthenopteron	subst:pl:loc:m2	nazwa pospolita	
 eusthenopterona	eusthenopteron	subst:sg:gen.acc:m2	nazwa pospolita	
-eusthenopterona	eusthenopteron	subst:sg:gen:m2	nazwa pospolita	
 eusthenopteronami	eusthenopteron	subst:pl:inst:m2	nazwa pospolita	
 eusthenopteronem	eusthenopteron	subst:sg:inst:m2	nazwa pospolita	
 eusthenopteron	eusthenopteron	subst:sg:nom:m2	nazwa pospolita	
@@ -42084,7 +41842,6 @@ ewakuancie	ewakuant	subst:sg:voc:m1	nazwa pospolita
 ewakuanci	ewakuant	subst:pl:nom.voc:m1	nazwa pospolita	
 ewakuantach	ewakuant	subst:pl:loc:m1	nazwa pospolita	
 ewakuanta	ewakuant	subst:sg:gen.acc:m1	nazwa pospolita	
-ewakuanta	ewakuant	subst:sg:gen:m1	nazwa pospolita	
 ewakuantami	ewakuant	subst:pl:inst:m1	nazwa pospolita	
 ewakuantem	ewakuant	subst:sg:inst:m1	nazwa pospolita	
 ewakuant	ewakuant	subst:sg:nom:m1	nazwa pospolita	
@@ -42485,7 +42242,6 @@ ewangelijnymi	ewangelijny	adj:pl:inst:m1.m2.m3.f.n:pos
 ewangelicy	ewangelik	subst:pl:nom.voc:m1	nazwa pospolita	
 ewangelikach	ewangelik	subst:pl:loc:m1	nazwa pospolita	
 ewangelika	ewangelik	subst:sg:gen.acc:m1	nazwa pospolita	
-ewangelika	ewangelik	subst:sg:gen:m1	nazwa pospolita	
 ewangelikami	ewangelik	subst:pl:inst:m1	nazwa pospolita	
 ewangelik	ewangelik	subst:sg:nom:m1	nazwa pospolita	
 ewangelikiem	ewangelik	subst:sg:inst:m1	nazwa pospolita	
@@ -42539,7 +42295,6 @@ ewangelisto	ewangelista	subst:sg:voc:m1	nazwa pospolita
 ewangelistom	ewangelista	subst:pl:dat:m1	nazwa pospolita	
 ewangelistów	ewangelista	subst:pl:gen.acc:m1	nazwa pospolita	
 ewangelisty	ewangelista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ewangelisty	ewangelista	subst:sg:gen:m1	nazwa pospolita	
 ewangeliście	ewangelista	subst:sg:dat.loc:m1	nazwa pospolita	
 ewangeliści	ewangelista	subst:pl:nom.voc:m1	nazwa pospolita	
 ewangelizacjach	ewangelizacja	subst:pl:loc:f	nazwa pospolita	
@@ -43621,7 +43376,6 @@ ewolucjonisto	ewolucjonista	subst:sg:voc:m1	nazwa pospolita
 ewolucjonistom	ewolucjonista	subst:pl:dat:m1	nazwa pospolita	
 ewolucjonistów	ewolucjonista	subst:pl:gen.acc:m1	nazwa pospolita	
 ewolucjonisty	ewolucjonista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-ewolucjonisty	ewolucjonista	subst:sg:gen:m1	nazwa pospolita	
 ewolucjoniście	ewolucjonista	subst:sg:dat.loc:m1	nazwa pospolita	
 ewolucjoniści	ewolucjonista	subst:pl:nom.voc:m1	nazwa pospolita	
 ewolucjonistycznościach	ewolucjonistyczność	subst:pl:loc:f	nazwa pospolita	
@@ -44111,7 +43865,6 @@ ezoterycznymi	ezoteryczny	adj:pl:inst:m1.m2.m3.f.n:pos
 ezoterycy	ezoteryk	subst:pl:nom.voc:m1	nazwa pospolita	
 ezoterykach	ezoteryk	subst:pl:loc:m1	nazwa pospolita	
 ezoteryka	ezoteryk	subst:sg:gen.acc:m1	nazwa pospolita	
-ezoteryka	ezoteryk	subst:sg:gen:m1	nazwa pospolita	
 ezoterykami	ezoteryk	subst:pl:inst:m1	nazwa pospolita	
 ezoteryk	ezoteryk	subst:sg:nom:m1	nazwa pospolita	
 ezoterykiem	ezoteryk	subst:sg:inst:m1	nazwa pospolita	

@@ -4,7 +4,6 @@ Neh	Księga_Nehemiasza	brev:npun
 Nabokowach	Nabokow	subst:pl:loc:m1	nazwisko	
 Nabokowami	Nabokow	subst:pl:inst:m1	nazwisko	
 Nabokowa	Nabokow	subst:sg:gen.acc:m1	nazwisko	
-Nabokowa	Nabokow	subst:sg:gen:m1	nazwisko	
 Nabokowem	Nabokow	subst:sg:inst:m1	nazwisko	
 Nabokowie	Nabokow	subst:sg:loc:m1	nazwisko	
 Nabokowie	Nabokow	subst:sg:voc:m1	nazwisko	
@@ -17,7 +16,6 @@ Nabokowy	Nabokow	depr:pl:nom.acc.voc:m2	nazwisko
 Nabuchodonozorach	Nabuchodonozor	subst:pl:loc:m1	imię	hist.
 Nabuchodonozorami	Nabuchodonozor	subst:pl:inst:m1	imię	hist.
 Nabuchodonozora	Nabuchodonozor	subst:sg:gen.acc:m1	imię	hist.
-Nabuchodonozora	Nabuchodonozor	subst:sg:gen:m1	imię	hist.
 Nabuchodonozorem	Nabuchodonozor	subst:sg:inst:m1	imię	hist.
 Nabuchodonozor	Nabuchodonozor	subst:sg:nom:m1	imię	hist.
 Nabuchodonozorom	Nabuchodonozor	subst:pl:dat:m1	imię	hist.
@@ -41,7 +39,6 @@ Nachiczewany	Nachiczewan	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Nachmanach	Nachman	subst:pl:loc:m1	imię	
 Nachmanami	Nachman	subst:pl:inst:m1	imię	
 Nachmana	Nachman	subst:sg:gen.acc:m1	imię	
-Nachmana	Nachman	subst:sg:gen:m1	imię	
 Nachmanem	Nachman	subst:sg:inst:m1	imię	
 Nachmanie	Nachman	subst:sg:loc:m1	imię	
 Nachmanie	Nachman	subst:sg:voc:m1	imię	
@@ -55,7 +52,6 @@ Nachmany	Nachman	depr:pl:nom.acc.voc:m2	imię
 Naczesławach	Naczesław	subst:pl:loc:m1	imię	
 Naczesławami	Naczesław	subst:pl:inst:m1	imię	
 Naczesława	Naczesław	subst:sg:gen.acc:m1	imię	
-Naczesława	Naczesław	subst:sg:gen:m1	imię	
 Naczesławem	Naczesław	subst:sg:inst:m1	imię	
 Naczesławie	Naczesław	subst:sg:loc:m1	imię	
 Naczesławie	Naczesław	subst:sg:voc:m1	imię	
@@ -69,7 +65,6 @@ Naczesławy	Naczesław	depr:pl:nom.acc.voc:m2	imię
 Nadabach	Nadab	subst:pl:loc:m1	imię	
 Nadabami	Nadab	subst:pl:inst:m1	imię	
 Nadaba	Nadab	subst:sg:gen.acc:m1	imię	
-Nadaba	Nadab	subst:sg:gen:m1	imię	
 Nadabem	Nadab	subst:sg:inst:m1	imię	
 Nadabie	Nadab	subst:sg:loc:m1	imię	
 Nadabie	Nadab	subst:sg:voc:m1	imię	
@@ -93,7 +88,6 @@ Nadarzyny	Nadarzyn	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Nadborach	Nadbor	subst:pl:loc:m1	imię	
 Nadborami	Nadbor	subst:pl:inst:m1	imię	
 Nadbora	Nadbor	subst:sg:gen.acc:m1	imię	
-Nadbora	Nadbor	subst:sg:gen:m1	imię	
 Nadborem	Nadbor	subst:sg:inst:m1	imię	
 Nadbor	Nadbor	subst:sg:nom:m1	imię	
 Nadborom	Nadbor	subst:pl:dat:m1	imię	
@@ -140,7 +134,6 @@ Nadieżdzie	Nadieżda	subst:sg:dat.loc:f	imię
 Nadmirach	Nadmir	subst:pl:loc:m1	imię	
 Nadmirami	Nadmir	subst:pl:inst:m1	imię	
 Nadmira	Nadmir	subst:sg:gen.acc:m1	imię	
-Nadmira	Nadmir	subst:sg:gen:m1	imię	
 Nadmirem	Nadmir	subst:sg:inst:m1	imię	
 Nadmir	Nadmir	subst:sg:nom:m1	imię	
 Nadmirom	Nadmir	subst:pl:dat:m1	imię	
@@ -173,7 +166,6 @@ Nadolnych	Nadolna	subst:pl:loc:f	nazwisko
 Nadolnymi	Nadolna	subst:pl:inst:f	nazwisko	
 Nadolnym	Nadolna	subst:pl:dat:f	nazwisko	
 Nadolnego	Nadolny	subst:sg:gen.acc:m1	nazwisko	
-Nadolnego	Nadolny	subst:sg:gen:m1	nazwisko	
 Nadolnemu	Nadolny	subst:sg:dat:m1	nazwisko	
 Nadolne	Nadolny	depr:pl:nom.acc.voc:m2	nazwisko	
 Nadolni	Nadolny	subst:pl:nom.voc:m1	nazwisko	
@@ -200,7 +192,6 @@ Nadolscy	Nadolski	subst:pl:nom.voc:m1	nazwisko
 Nadolskich	Nadolski	subst:pl:gen.acc:m1	nazwisko	
 Nadolskich	Nadolski	subst:pl:loc:m1	nazwisko	
 Nadolskiego	Nadolski	subst:sg:gen.acc:m1	nazwisko	
-Nadolskiego	Nadolski	subst:sg:gen:m1	nazwisko	
 Nadolskiemu	Nadolski	subst:sg:dat:m1	nazwisko	
 Nadolskie	Nadolski	depr:pl:nom.acc.voc:m2	nazwisko	
 Nadolskimi	Nadolski	subst:pl:inst:m1	nazwisko	
@@ -257,7 +248,6 @@ NAFT-o	NAFTA	subst:sg:voc:f	nazwa organizacji
 NAFT-y	NAFTA	subst:pl:nom.acc.voc:f	nazwa organizacji	
 NAFT-y	NAFTA	subst:sg:gen:f	nazwa organizacji	
 Naftalego	Naftali	subst:sg:gen.acc:m1	imię	
-Naftalego	Naftali	subst:sg:gen:m1	imię	
 Naftalemu	Naftali	subst:sg:dat:m1	imię	
 Naftale	Naftali	depr:pl:nom.acc.voc:m2	imię	
 Naftalich	Naftali	subst:pl:gen.acc:m1	imię	
@@ -292,7 +282,6 @@ Nagórnych	Nagórna	subst:pl:loc:f	nazwisko
 Nagórnymi	Nagórna	subst:pl:inst:f	nazwisko	
 Nagórnym	Nagórna	subst:pl:dat:f	nazwisko	
 Nagórnego	Nagórny	subst:sg:gen.acc:m1	nazwisko	
-Nagórnego	Nagórny	subst:sg:gen:m1	nazwisko	
 Nagórnemu	Nagórny	subst:sg:dat:m1	nazwisko	
 Nagórne	Nagórny	depr:pl:nom.acc.voc:m2	nazwisko	
 Nagórni	Nagórny	subst:pl:nom.voc:m1	nazwisko	
@@ -307,7 +296,6 @@ Nagórny	Nagórny	subst:sg:voc:m1	nazwisko
 Nagyach	Nagy	subst:pl:loc:m1	nazwisko	
 Nagyami	Nagy	subst:pl:inst:m1	nazwisko	
 Nagya	Nagy	subst:sg:gen.acc:m1	nazwisko	
-Nagya	Nagy	subst:sg:gen:m1	nazwisko	
 Nagyem	Nagy	subst:sg:inst:m1	nazwisko	
 Nagye	Nagy	depr:pl:nom.acc.voc:m2	nazwisko	
 Nagy	Nagy	subst:sg:nom:m1	nazwisko	
@@ -320,7 +308,6 @@ Nagyu	Nagy	subst:sg:voc:m1	nazwisko
 Nahumach	Nahum	subst:pl:loc:m1	imię	
 Nahumami	Nahum	subst:pl:inst:m1	imię	
 Nahuma	Nahum	subst:sg:gen.acc:m1	imię	
-Nahuma	Nahum	subst:sg:gen:m1	imię	
 Nahumem	Nahum	subst:sg:inst:m1	imię	
 Nahumie	Nahum	subst:sg:loc:m1	imię	
 Nahumie	Nahum	subst:sg:voc:m1	imię	
@@ -333,7 +320,6 @@ Nahumy	Nahum	depr:pl:nom.acc.voc:m2	imię
 Naipaulach	Naipaul	subst:pl:loc:m1	nazwisko	
 Naipaulami	Naipaul	subst:pl:inst:m1	nazwisko	
 Naipaula	Naipaul	subst:sg:gen.acc:m1	nazwisko	
-Naipaula	Naipaul	subst:sg:gen:m1	nazwisko	
 Naipaulem	Naipaul	subst:sg:inst:m1	nazwisko	
 Naipaule	Naipaul	depr:pl:nom.acc.voc:m2	nazwisko	
 Naipaul	Naipaul	subst:sg:nom:m1	nazwisko	
@@ -357,7 +343,6 @@ Naj	Naja:s1	subst:pl:gen:f	nazwisko	char.
 Najom	Naja:s1	subst:pl:dat:f	nazwisko	
 Najo	Naja:s1	subst:sg:voc:f	nazwisko	
 Nai	Naja:s2	subst:sg:dat.loc:m1	nazwisko	
-Nai	Naja:s2	subst:sg:gen:m1	nazwisko	
 Najach	Naja:s2	subst:pl:loc:m1	nazwisko	
 Najami	Naja:s2	subst:pl:inst:m1	nazwisko	
 Naja	Naja:s2	subst:sg:nom:m1	nazwisko	
@@ -372,7 +357,6 @@ Najem	Najem	subst:sg:nom:m1	nazwisko
 Najmach	Najem	subst:pl:loc:m1	nazwisko	
 Najmami	Najem	subst:pl:inst:m1	nazwisko	
 Najma	Najem	subst:sg:gen.acc:m1	nazwisko	
-Najma	Najem	subst:sg:gen:m1	nazwisko	
 Najmem	Najem	subst:sg:inst:m1	nazwisko	
 Najmie	Najem	subst:sg:loc:m1	nazwisko	
 Najmie	Najem	subst:sg:voc:m1	nazwisko	
@@ -404,7 +388,6 @@ Nakonecznych	Nakoneczna	subst:pl:loc:f	nazwisko
 Nakonecznymi	Nakoneczna	subst:pl:inst:f	nazwisko	
 Nakonecznym	Nakoneczna	subst:pl:dat:f	nazwisko	
 Nakonecznego	Nakoneczny	subst:sg:gen.acc:m1	nazwisko	
-Nakonecznego	Nakoneczny	subst:sg:gen:m1	nazwisko	
 Nakonecznemu	Nakoneczny	subst:sg:dat:m1	nazwisko	
 Nakoneczne	Nakoneczny	depr:pl:nom.acc.voc:m2	nazwisko	
 Nakoneczni	Nakoneczny	subst:pl:nom.voc:m1	nazwisko	
@@ -428,7 +411,6 @@ Nakoniecznych	Nakonieczna	subst:pl:loc:f	nazwisko
 Nakoniecznymi	Nakonieczna	subst:pl:inst:f	nazwisko	
 Nakoniecznym	Nakonieczna	subst:pl:dat:f	nazwisko	
 Nakoniecznego	Nakonieczny	subst:sg:gen.acc:m1	nazwisko	
-Nakoniecznego	Nakonieczny	subst:sg:gen:m1	nazwisko	
 Nakoniecznemu	Nakonieczny	subst:sg:dat:m1	nazwisko	
 Nakonieczne	Nakonieczny	depr:pl:nom.acc.voc:m2	nazwisko	
 Nakonieczni	Nakonieczny	subst:pl:nom.voc:m1	nazwisko	
@@ -467,7 +449,6 @@ Nałkowscy	Nałkowski	subst:pl:nom.voc:m1	nazwisko
 Nałkowskich	Nałkowski	subst:pl:gen.acc:m1	nazwisko	
 Nałkowskich	Nałkowski	subst:pl:loc:m1	nazwisko	
 Nałkowskiego	Nałkowski	subst:sg:gen.acc:m1	nazwisko	
-Nałkowskiego	Nałkowski	subst:sg:gen:m1	nazwisko	
 Nałkowskiemu	Nałkowski	subst:sg:dat:m1	nazwisko	
 Nałkowskie	Nałkowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Nałkowskimi	Nałkowski	subst:pl:inst:m1	nazwisko	
@@ -491,7 +472,6 @@ Namibio	Namibia	subst:sg:voc:f	nazwa geograficzna
 Namysławach	Namysław	subst:pl:loc:m1	imię	
 Namysławami	Namysław	subst:pl:inst:m1	imię	
 Namysława	Namysław	subst:sg:gen.acc:m1	imię	
-Namysława	Namysław	subst:sg:gen:m1	imię	
 Namysławem	Namysław	subst:sg:inst:m1	imię	
 Namysławie	Namysław	subst:sg:loc:m1	imię	
 Namysławie	Namysław	subst:sg:voc:m1	imię	
@@ -517,7 +497,6 @@ Namysłowscy	Namysłowski	subst:pl:nom.voc:m1	nazwisko
 Namysłowskich	Namysłowski	subst:pl:gen.acc:m1	nazwisko	
 Namysłowskich	Namysłowski	subst:pl:loc:m1	nazwisko	
 Namysłowskiego	Namysłowski	subst:sg:gen.acc:m1	nazwisko	
-Namysłowskiego	Namysłowski	subst:sg:gen:m1	nazwisko	
 Namysłowskiemu	Namysłowski	subst:sg:dat:m1	nazwisko	
 Namysłowskie	Namysłowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Namysłowskimi	Namysłowski	subst:pl:inst:m1	nazwisko	
@@ -542,7 +521,6 @@ Nancy	Nancy	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	imię|nazwa geograficzna
 Nansenach	Nansen	subst:pl:loc:m1	nazwisko	
 Nansenami	Nansen	subst:pl:inst:m1	nazwisko	
 Nansena	Nansen	subst:sg:gen.acc:m1	nazwisko	
-Nansena	Nansen	subst:sg:gen:m1	nazwisko	
 Nansenem	Nansen	subst:sg:inst:m1	nazwisko	
 Nansenie	Nansen	subst:sg:loc:m1	nazwisko	
 Nansenie	Nansen	subst:sg:voc:m1	nazwisko	
@@ -580,7 +558,6 @@ Napierscy	Napierski	subst:pl:nom.voc:m1	nazwisko
 Napierskich	Napierski	subst:pl:gen.acc:m1	nazwisko	
 Napierskich	Napierski	subst:pl:loc:m1	nazwisko	
 Napierskiego	Napierski	subst:sg:gen.acc:m1	nazwisko	
-Napierskiego	Napierski	subst:sg:gen:m1	nazwisko	
 Napierskiemu	Napierski	subst:sg:dat:m1	nazwisko	
 Napierskie	Napierski	depr:pl:nom.acc.voc:m2	nazwisko	
 Napierskimi	Napierski	subst:pl:inst:m1	nazwisko	
@@ -604,7 +581,6 @@ Napiórkowscy	Napiórkowski	subst:pl:nom.voc:m1	nazwisko
 Napiórkowskich	Napiórkowski	subst:pl:gen.acc:m1	nazwisko	
 Napiórkowskich	Napiórkowski	subst:pl:loc:m1	nazwisko	
 Napiórkowskiego	Napiórkowski	subst:sg:gen.acc:m1	nazwisko	
-Napiórkowskiego	Napiórkowski	subst:sg:gen:m1	nazwisko	
 Napiórkowskiemu	Napiórkowski	subst:sg:dat:m1	nazwisko	
 Napiórkowskie	Napiórkowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Napiórkowskimi	Napiórkowski	subst:pl:inst:m1	nazwisko	
@@ -616,7 +592,6 @@ Napiórkowski	Napiórkowski	subst:sg:voc:m1	nazwisko
 Napoleonach	Napoleon	subst:pl:loc:m1	imię	
 Napoleonami	Napoleon	subst:pl:inst:m1	imię	
 Napoleona	Napoleon	subst:sg:gen.acc:m1	imię	
-Napoleona	Napoleon	subst:sg:gen:m1	imię	
 Napoleonem	Napoleon	subst:sg:inst:m1	imię	
 Napoleonie	Napoleon	subst:sg:loc:m1	imię	
 Napoleonie	Napoleon	subst:sg:voc:m1	imię	
@@ -635,7 +610,6 @@ Napoleonidom	Napoleonida	subst:pl:dat:m1	nazwa pospolita
 Napoleonido	Napoleonida	subst:sg:voc:m1	nazwa pospolita	
 Napoleonidów	Napoleonida	subst:pl:gen.acc:m1	nazwa pospolita	
 Napoleonidy	Napoleonida	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-Napoleonidy	Napoleonida	subst:sg:gen:m1	nazwa pospolita	
 Napoleonidzie	Napoleonida	subst:sg:dat.loc:m1	nazwa pospolita	
 Napoleonidzi	Napoleonida	subst:pl:nom.voc:m1	nazwa pospolita	
 Narbucie	Narbutt	subst:sg:loc:m1	nazwisko	
@@ -643,7 +617,6 @@ Narbucie	Narbutt	subst:sg:voc:m1	nazwisko
 Narbuttach	Narbutt	subst:pl:loc:m1	nazwisko	
 Narbuttami	Narbutt	subst:pl:inst:m1	nazwisko	
 Narbutta	Narbutt	subst:sg:gen.acc:m1	nazwisko	
-Narbutta	Narbutt	subst:sg:gen:m1	nazwisko	
 Narbuttem	Narbutt	subst:sg:inst:m1	nazwisko	
 Narbutt	Narbutt	subst:sg:nom:m1	nazwisko	
 Narbuttom	Narbutt	subst:pl:dat:m1	nazwisko	
@@ -654,7 +627,6 @@ Narbutty	Narbutt	depr:pl:nom.acc.voc:m2	nazwisko
 Narcyzach	Narcyz	subst:pl:loc:m1	imię	
 Narcyzami	Narcyz	subst:pl:inst:m1	imię	
 Narcyza	Narcyz	subst:sg:gen.acc:m1	imię	
-Narcyza	Narcyz	subst:sg:gen:m1	imię	
 Narcyzem	Narcyz	subst:sg:inst:m1	imię	
 Narcyzie	Narcyz	subst:sg:loc:m1	imię	
 Narcyzie	Narcyz	subst:sg:voc:m1	imię	
@@ -690,7 +662,6 @@ Narwiom	Narew	subst:pl:dat:f	nazwa geograficzna
 Naruszewiczach	Naruszewicz	subst:pl:loc:m1	nazwisko	
 Naruszewiczami	Naruszewicz	subst:pl:inst:m1	nazwisko	
 Naruszewicza	Naruszewicz	subst:sg:gen.acc:m1	nazwisko	
-Naruszewicza	Naruszewicz	subst:sg:gen:m1	nazwisko	
 Naruszewiczem	Naruszewicz	subst:sg:inst:m1	nazwisko	
 Naruszewicze	Naruszewicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Naruszewicze	Naruszewicz	subst:pl:nom.voc:m1	nazwisko	
@@ -714,7 +685,6 @@ Naruszewu	Naruszewo	subst:sg:dat:n:ncol	nazwa geograficzna
 Narutowiczach	Narutowicz	subst:pl:loc:m1	nazwisko	
 Narutowiczami	Narutowicz	subst:pl:inst:m1	nazwisko	
 Narutowicza	Narutowicz	subst:sg:gen.acc:m1	nazwisko	
-Narutowicza	Narutowicz	subst:sg:gen:m1	nazwisko	
 Narutowiczem	Narutowicz	subst:sg:inst:m1	nazwisko	
 Narutowicze	Narutowicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Narutowicze	Narutowicz	subst:pl:nom.voc:m1	nazwisko	
@@ -776,7 +746,6 @@ Nastek	Nastek	subst:sg:nom:m1	imię
 Nastkach	Nastek	subst:pl:loc:m1	imię	
 Nastkami	Nastek	subst:pl:inst:m1	imię	
 Nastka	Nastek	subst:sg:gen.acc:m1	imię	
-Nastka	Nastek	subst:sg:gen:m1	imię	
 Nastkiem	Nastek	subst:sg:inst:m1	imię	
 Nastki	Nastek	depr:pl:nom.acc.voc:m2	imię	
 Nastkom	Nastek	subst:pl:dat:m1	imię	
@@ -811,7 +780,6 @@ Nastuś	Nastusia	subst:pl:gen:f	imię	char.
 Nastusiach	Nastuś	subst:pl:loc:m1	imię	
 Nastusiami	Nastuś	subst:pl:inst:m1	imię	
 Nastusia	Nastuś	subst:sg:gen.acc:m1	imię	
-Nastusia	Nastuś	subst:sg:gen:m1	imię	
 Nastusiem	Nastuś	subst:sg:inst:m1	imię	
 Nastusie	Nastuś	depr:pl:nom.acc.voc:m2	imię	
 Nastusie	Nastuś	subst:pl:nom.voc:m1	imię	
@@ -833,7 +801,6 @@ Nato	Nata	subst:sg:voc:m1	imię
 Natowie	Nata	subst:pl:nom.voc:m1	imię	
 Natów	Nata	subst:pl:gen.acc:m1	imię	
 Naty	Nata	depr:pl:nom.acc.voc:m2	imię	
-Naty	Nata	subst:sg:gen:m1	imię	
 Nataliach	Natalia	subst:pl:loc:f	imię	
 Nataliami	Natalia	subst:pl:inst:f	imię	
 Natalia	Natalia	subst:sg:nom:f	imię	
@@ -849,7 +816,6 @@ Natalio	Natalia	subst:sg:voc:f	imię
 Natalisach	Natalis	subst:pl:loc:m1	imię	
 Natalisami	Natalis	subst:pl:inst:m1	imię	
 Natalisa	Natalis	subst:sg:gen.acc:m1	imię	
-Natalisa	Natalis	subst:sg:gen:m1	imię	
 Natalisem	Natalis	subst:sg:inst:m1	imię	
 Natalisie	Natalis	subst:sg:loc:m1	imię	
 Natalisie	Natalis	subst:sg:voc:m1	imię	
@@ -874,7 +840,6 @@ Natalko	Natalka	subst:sg:voc:f	imię
 Natanach	Natan	subst:pl:loc:m1	imię	
 Natanami	Natan	subst:pl:inst:m1	imię	
 Natana	Natan	subst:sg:gen.acc:m1	imię	
-Natana	Natan	subst:sg:gen:m1	imię	
 Natanem	Natan	subst:sg:inst:m1	imię	
 Natanie	Natan	subst:sg:loc:m1	imię	
 Natanie	Natan	subst:sg:voc:m1	imię	
@@ -887,7 +852,6 @@ Natany	Natan	depr:pl:nom.acc.voc:m2	imię
 Natanaelach	Natanael	subst:pl:loc:m1	imię	
 Natanaelami	Natanael	subst:pl:inst:m1	imię	
 Natanaela	Natanael	subst:sg:gen.acc:m1	imię	
-Natanaela	Natanael	subst:sg:gen:m1	imię	
 Natanaelem	Natanael	subst:sg:inst:m1	imię	
 Natanaele	Natanael	depr:pl:nom.acc.voc:m2	imię	
 Natanaele	Natanael	subst:pl:nom.voc:m1	imię	
@@ -902,7 +866,6 @@ Natanaelu	Natanael	subst:sg:voc:m1	imię
 Natanielach	Nataniel	subst:pl:loc:m1	imię	
 Natanielami	Nataniel	subst:pl:inst:m1	imię	
 Nataniela	Nataniel	subst:sg:gen.acc:m1	imię	
-Nataniela	Nataniel	subst:sg:gen:m1	imię	
 Natanielem	Nataniel	subst:sg:inst:m1	imię	
 Nataniele	Nataniel	depr:pl:nom.acc.voc:m2	imię	
 Nataniele	Nataniel	subst:pl:nom.voc:m1	imię	
@@ -916,7 +879,6 @@ Natanielu	Nataniel	subst:sg:voc:m1	imię
 Natansonach	Natanson	subst:pl:loc:m1	nazwisko	
 Natansonami	Natanson	subst:pl:inst:m1	nazwisko	
 Natansona	Natanson	subst:sg:gen.acc:m1	nazwisko	
-Natansona	Natanson	subst:sg:gen:m1	nazwisko	
 Natansonem	Natanson	subst:sg:inst:m1	nazwisko	
 Natansonie	Natanson	subst:sg:loc:m1	nazwisko	
 Natansonie	Natanson	subst:sg:voc:m1	nazwisko	
@@ -968,7 +930,6 @@ NATO-wsko	NATO-wsko	adv:pos
 Naumach	Naum	subst:pl:loc:m1	imię	
 Naumami	Naum	subst:pl:inst:m1	imię	
 Nauma	Naum	subst:sg:gen.acc:m1	imię	
-Nauma	Naum	subst:sg:gen:m1	imię	
 Naumem	Naum	subst:sg:inst:m1	imię	
 Naumie	Naum	subst:sg:loc:m1	imię	
 Naumie	Naum	subst:sg:voc:m1	imię	
@@ -1036,7 +997,6 @@ Nawarze	Nawarra	subst:sg:dat.loc:f	nazwa geograficzna
 Nawojach	Nawoj	subst:pl:loc:m1	imię	
 Nawojami	Nawoj	subst:pl:inst:m1	imię	
 Nawoja	Nawoj	subst:sg:gen.acc:m1	imię	
-Nawoja	Nawoj	subst:sg:gen:m1	imię	
 Nawojem	Nawoj	subst:sg:inst:m1	imię	
 Nawoje	Nawoj	depr:pl:nom.acc.voc:m2	imię	
 Nawoje	Nawoj	subst:pl:nom.voc:m1	imię	
@@ -1062,7 +1022,6 @@ Nawroccy	Nawrocki	subst:pl:nom.voc:m1	nazwisko
 Nawrockich	Nawrocki	subst:pl:gen.acc:m1	nazwisko	
 Nawrockich	Nawrocki	subst:pl:loc:m1	nazwisko	
 Nawrockiego	Nawrocki	subst:sg:gen.acc:m1	nazwisko	
-Nawrockiego	Nawrocki	subst:sg:gen:m1	nazwisko	
 Nawrockiemu	Nawrocki	subst:sg:dat:m1	nazwisko	
 Nawrockie	Nawrocki	depr:pl:nom.acc.voc:m2	nazwisko	
 Nawrockimi	Nawrocki	subst:pl:inst:m1	nazwisko	
@@ -1076,7 +1035,6 @@ Nawrocie	Nawrot	subst:sg:voc:m1	nazwisko
 Nawrotach	Nawrot	subst:pl:loc:m1	nazwisko	
 Nawrotami	Nawrot	subst:pl:inst:m1	nazwisko	
 Nawrota	Nawrot	subst:sg:gen.acc:m1	nazwisko	
-Nawrota	Nawrot	subst:sg:gen:m1	nazwisko	
 Nawrotem	Nawrot	subst:sg:inst:m1	nazwisko	
 Nawrot	Nawrot	subst:sg:nom:m1	nazwisko	
 Nawrotom	Nawrot	subst:pl:dat:m1	nazwisko	
@@ -1089,7 +1047,6 @@ Nawrocie	Nawrót	subst:sg:voc:m1	nazwisko
 Nawrotach	Nawrót	subst:pl:loc:m1	nazwisko	
 Nawrotami	Nawrót	subst:pl:inst:m1	nazwisko	
 Nawrota	Nawrót	subst:sg:gen.acc:m1	nazwisko	
-Nawrota	Nawrót	subst:sg:gen:m1	nazwisko	
 Nawrotem	Nawrót	subst:sg:inst:m1	nazwisko	
 Nawrotom	Nawrót	subst:pl:dat:m1	nazwisko	
 Nawrotowie	Nawrót	subst:pl:nom.voc:m1	nazwisko	
@@ -1142,7 +1099,6 @@ Neapolitańczycy	Neapolitańczyk	subst:pl:nom.voc:m1	nazwa pospolita	hist.
 Neapolitańczykach	Neapolitańczyk	subst:pl:loc:m1	nazwa pospolita	hist.
 Neapolitańczykami	Neapolitańczyk	subst:pl:inst:m1	nazwa pospolita	hist.
 Neapolitańczyka	Neapolitańczyk	subst:sg:gen.acc:m1	nazwa pospolita	hist.
-Neapolitańczyka	Neapolitańczyk	subst:sg:gen:m1	nazwa pospolita	hist.
 Neapolitańczykiem	Neapolitańczyk	subst:sg:inst:m1	nazwa pospolita	hist.
 Neapolitańczyki	Neapolitańczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	hist.
 Neapolitańczyk	Neapolitańczyk	subst:sg:nom:m1	nazwa pospolita	hist.
@@ -1188,7 +1144,6 @@ Nefretete	Nefretete	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	imię
 Negrach	Negr	subst:pl:loc:m1	nazwa pospolita	pogard.
 Negrami	Negr	subst:pl:inst:m1	nazwa pospolita	pogard.
 Negra	Negr	subst:sg:gen.acc:m1	nazwa pospolita	pogard.
-Negra	Negr	subst:sg:gen:m1	nazwa pospolita	pogard.
 Negrem	Negr	subst:sg:inst:m1	nazwa pospolita	pogard.
 Negr	Negr	subst:sg:nom:m1	nazwa pospolita	pogard.
 Negrom	Negr	subst:pl:dat:m1	nazwa pospolita	pogard.
@@ -1202,7 +1157,6 @@ Negri	Negri	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	człon pseudonimu
 Nehemiaszach	Nehemiasz	subst:pl:loc:m1	imię	
 Nehemiaszami	Nehemiasz	subst:pl:inst:m1	imię	
 Nehemiasza	Nehemiasz	subst:sg:gen.acc:m1	imię	
-Nehemiasza	Nehemiasz	subst:sg:gen:m1	imię	
 Nehemiaszem	Nehemiasz	subst:sg:inst:m1	imię	
 Nehemiasze	Nehemiasz	depr:pl:nom.acc.voc:m2	imię	
 Nehemiasze	Nehemiasz	subst:pl:nom.voc:m1	imię	
@@ -1231,7 +1185,6 @@ Nelly	Nelly	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	imię
 Nelsonach	Nelson	subst:pl:loc:m1	imię|nazwisko	
 Nelsonami	Nelson	subst:pl:inst:m1	imię|nazwisko	
 Nelsona	Nelson	subst:sg:gen.acc:m1	imię|nazwisko	
-Nelsona	Nelson	subst:sg:gen:m1	imię|nazwisko	
 Nelsonem	Nelson	subst:sg:inst:m1	imię|nazwisko	
 Nelsonie	Nelson	subst:sg:loc:m1	imię|nazwisko	
 Nelsonie	Nelson	subst:sg:voc:m1	imię|nazwisko	
@@ -1266,7 +1219,6 @@ Nemeo	Nemea	subst:sg:voc:f	nazwa geograficzna
 Nemethach	Nemeth	subst:pl:loc:m1	nazwisko	
 Nemethami	Nemeth	subst:pl:inst:m1	nazwisko	
 Nemetha	Nemeth	subst:sg:gen.acc:m1	nazwisko	
-Nemetha	Nemeth	subst:sg:gen:m1	nazwisko	
 Nemethem	Nemeth	subst:sg:inst:m1	nazwisko	
 Nemeth	Nemeth	subst:sg:nom:m1	nazwisko	
 Nemethom	Nemeth	subst:pl:dat:m1	nazwisko	
@@ -1280,7 +1232,6 @@ Nemezis	Nemezis	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	imię	mit.
 Nemezjuszach	Nemezjusz	subst:pl:loc:m1	imię	
 Nemezjuszami	Nemezjusz	subst:pl:inst:m1	imię	
 Nemezjusza	Nemezjusz	subst:sg:gen.acc:m1	imię	
-Nemezjusza	Nemezjusz	subst:sg:gen:m1	imię	
 Nemezjuszem	Nemezjusz	subst:sg:inst:m1	imię	
 Nemezjusze	Nemezjusz	depr:pl:nom.acc.voc:m2	imię	
 Nemezjusze	Nemezjusz	subst:pl:nom.voc:m1	imię	
@@ -1332,7 +1283,6 @@ Nepalczycy	Nepalczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Nepalczykach	Nepalczyk	subst:pl:loc:m1	nazwa pospolita	
 Nepalczykami	Nepalczyk	subst:pl:inst:m1	nazwa pospolita	
 Nepalczyka	Nepalczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Nepalczyka	Nepalczyk	subst:sg:gen:m1	nazwa pospolita	
 Nepalczykiem	Nepalczyk	subst:sg:inst:m1	nazwa pospolita	
 Nepalczyki	Nepalczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Nepalczyk	Nepalczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -1344,7 +1294,6 @@ Nepalczyku	Nepalczyk	subst:sg:voc:m1	nazwa pospolita
 Nepomucenach	Nepomucen	subst:pl:loc:m1	imię	
 Nepomucenami	Nepomucen	subst:pl:inst:m1	imię	
 Nepomucena	Nepomucen	subst:sg:gen.acc:m1	imię	
-Nepomucena	Nepomucen	subst:sg:gen:m1	imię	
 Nepomucenem	Nepomucen	subst:sg:inst:m1	imię	
 Nepomucenie	Nepomucen	subst:sg:loc:m1	imię	
 Nepomucenie	Nepomucen	subst:sg:voc:m1	imię	
@@ -1357,7 +1306,6 @@ Nepomuceny	Nepomucen	depr:pl:nom.acc.voc:m2	imię
 Neptunach	Neptun:s1	subst:pl:loc:m1	imię	mit.
 Neptunami	Neptun:s1	subst:pl:inst:m1	imię	mit.
 Neptuna	Neptun:s1	subst:sg:gen.acc:m1	imię	mit.
-Neptuna	Neptun:s1	subst:sg:gen:m1	imię	mit.
 Neptunem	Neptun:s1	subst:sg:inst:m1	imię	mit.
 Neptunie	Neptun:s1	subst:sg:loc:m1	imię	mit.
 Neptunie	Neptun:s1	subst:sg:voc:m1	imię	mit.
@@ -1371,7 +1319,6 @@ Neptuny	Neptun:s1	depr:pl:nom.acc.voc:m2	imię	mit.
 Neptunach	Neptun:s2	subst:pl:loc:m2	nazwa własna astronomiczna	
 Neptunami	Neptun:s2	subst:pl:inst:m2	nazwa własna astronomiczna	
 Neptuna	Neptun:s2	subst:sg:gen.acc:m2	nazwa własna astronomiczna	
-Neptuna	Neptun:s2	subst:sg:gen:m2	nazwa własna astronomiczna	
 Neptunem	Neptun:s2	subst:sg:inst:m2	nazwa własna astronomiczna	
 Neptunie	Neptun:s2	subst:sg:loc:m2	nazwa własna astronomiczna	
 Neptunie	Neptun:s2	subst:sg:voc:m2	nazwa własna astronomiczna	
@@ -1383,7 +1330,6 @@ Neptuny	Neptun:s2	subst:pl:nom.acc.voc:m2	nazwa własna astronomiczna
 Neronach	Neron	subst:pl:loc:m1	imię	hist.
 Neronami	Neron	subst:pl:inst:m1	imię	hist.
 Nerona	Neron	subst:sg:gen.acc:m1	imię	hist.
-Nerona	Neron	subst:sg:gen:m1	imię	hist.
 Neronem	Neron	subst:sg:inst:m1	imię	hist.
 Neronie	Neron	subst:sg:loc:m1	imię	hist.
 Neronie	Neron	subst:sg:voc:m1	imię	hist.
@@ -1403,12 +1349,10 @@ Nerudo	Neruda	subst:sg:voc:m1	nazwisko
 Nerudowie	Neruda	subst:pl:nom.voc:m1	nazwisko	
 Nerudów	Neruda	subst:pl:gen.acc:m1	nazwisko	
 Nerudy	Neruda	depr:pl:nom.acc.voc:m2	nazwisko	
-Nerudy	Neruda	subst:sg:gen:m1	nazwisko	
 Nerudzie	Neruda	subst:sg:dat.loc:m1	nazwisko	
 Nestorach	Nestor	subst:pl:loc:m1	imię	
 Nestorami	Nestor	subst:pl:inst:m1	imię	
 Nestora	Nestor	subst:sg:gen.acc:m1	imię	
-Nestora	Nestor	subst:sg:gen:m1	imię	
 Nestorem	Nestor	subst:sg:inst:m1	imię	
 Nestor	Nestor	subst:sg:nom:m1	imię	
 Nestorom	Nestor	subst:pl:dat:m1	imię	
@@ -1456,7 +1400,6 @@ Newady	Newada	subst:pl:nom.acc.voc:f	nazwa geograficzna
 Newady	Newada	subst:sg:gen:f	nazwa geograficzna	
 Newadzie	Newada	subst:sg:dat.loc:f	nazwa geograficzna	
 Newerlego	Newerly	subst:sg:gen.acc:m1	nazwisko	
-Newerlego	Newerly	subst:sg:gen:m1	nazwisko	
 Newerlemu	Newerly	subst:sg:dat:m1	nazwisko	
 Newerle	Newerly	depr:pl:nom.acc.voc:m2	nazwisko	
 Newerlich	Newerly	subst:pl:gen.acc:m1	nazwisko	
@@ -1471,7 +1414,6 @@ Newerly	Newerly	subst:sg:voc:m1	nazwisko
 Newmanach	Newman	subst:pl:loc:m1	nazwisko	
 Newmanami	Newman	subst:pl:inst:m1	nazwisko	
 Newmana	Newman	subst:sg:gen.acc:m1	nazwisko	
-Newmana	Newman	subst:sg:gen:m1	nazwisko	
 Newmanem	Newman	subst:sg:inst:m1	nazwisko	
 Newmanie	Newman	subst:sg:loc:m1	nazwisko	
 Newmanie	Newman	subst:sg:voc:m1	nazwisko	
@@ -1484,7 +1426,6 @@ Newmany	Newman	depr:pl:nom.acc.voc:m2	nazwisko
 Newtonach	Newton	subst:pl:loc:m1	nazwisko	
 Newtonami	Newton	subst:pl:inst:m1	nazwisko	
 Newtona	Newton	subst:sg:gen.acc:m1	nazwisko	
-Newtona	Newton	subst:sg:gen:m1	nazwisko	
 Newtonem	Newton	subst:sg:inst:m1	nazwisko	
 Newtonie	Newton	subst:sg:loc:m1	nazwisko	
 Newtonie	Newton	subst:sg:voc:m1	nazwisko	
@@ -1505,7 +1446,6 @@ Nędzo	Nędza	subst:sg:voc:m1	nazwisko
 Nędzowie	Nędza	subst:pl:nom.voc:m1	nazwisko	
 Nędzów	Nędza	subst:pl:gen.acc:m1	nazwisko	
 Nędzy	Nędza	subst:sg:dat.loc:m1	nazwisko	
-Nędzy	Nędza	subst:sg:gen:m1	nazwisko	
 NFI	NFI	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa organizacji	
 NFI	NFI	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji	pot.
 Ngwane	Ngwane	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
@@ -1545,7 +1485,6 @@ Niceo	Nicea	subst:sg:voc:f	nazwa geograficzna
 Niceforach	Nicefor	subst:pl:loc:m1	imię	
 Niceforami	Nicefor	subst:pl:inst:m1	imię	
 Nicefora	Nicefor	subst:sg:gen.acc:m1	imię	
-Nicefora	Nicefor	subst:sg:gen:m1	imię	
 Niceforem	Nicefor	subst:sg:inst:m1	imię	
 Nicefor	Nicefor	subst:sg:nom:m1	imię	
 Niceforom	Nicefor	subst:pl:dat:m1	imię	
@@ -1627,7 +1566,6 @@ Niechlów	Niechlów	subst:sg:nom.acc:m3	nazwa geograficzna
 Niecisławach	Niecisław	subst:pl:loc:m1	imię	
 Niecisławami	Niecisław	subst:pl:inst:m1	imię	
 Niecisława	Niecisław	subst:sg:gen.acc:m1	imię	
-Niecisława	Niecisław	subst:sg:gen:m1	imię	
 Niecisławem	Niecisław	subst:sg:inst:m1	imię	
 Niecisławie	Niecisław	subst:sg:loc:m1	imię	
 Niecisławie	Niecisław	subst:sg:voc:m1	imię	
@@ -1641,7 +1579,6 @@ Niecisławy	Niecisław	depr:pl:nom.acc.voc:m2	imię
 Niedamirach	Niedamir	subst:pl:loc:m1	imię	
 Niedamirami	Niedamir	subst:pl:inst:m1	imię	
 Niedamira	Niedamir	subst:sg:gen.acc:m1	imię	
-Niedamira	Niedamir	subst:sg:gen:m1	imię	
 Niedamirem	Niedamir	subst:sg:inst:m1	imię	
 Niedamir	Niedamir	subst:sg:nom:m1	imię	
 Niedamirom	Niedamir	subst:pl:dat:m1	imię	
@@ -1699,7 +1636,6 @@ Niedzielscy	Niedzielski	subst:pl:nom.voc:m1	nazwisko
 Niedzielskich	Niedzielski	subst:pl:gen.acc:m1	nazwisko	
 Niedzielskich	Niedzielski	subst:pl:loc:m1	nazwisko	
 Niedzielskiego	Niedzielski	subst:sg:gen.acc:m1	nazwisko	
-Niedzielskiego	Niedzielski	subst:sg:gen:m1	nazwisko	
 Niedzielskiemu	Niedzielski	subst:sg:dat:m1	nazwisko	
 Niedzielskie	Niedzielski	depr:pl:nom.acc.voc:m2	nazwisko	
 Niedzielskimi	Niedzielski	subst:pl:inst:m1	nazwisko	
@@ -1723,7 +1659,6 @@ Niedźwieccy	Niedźwiecki	subst:pl:nom.voc:m1	nazwisko
 Niedźwieckich	Niedźwiecki	subst:pl:gen.acc:m1	nazwisko	
 Niedźwieckich	Niedźwiecki	subst:pl:loc:m1	nazwisko	
 Niedźwieckiego	Niedźwiecki	subst:sg:gen.acc:m1	nazwisko	
-Niedźwieckiego	Niedźwiecki	subst:sg:gen:m1	nazwisko	
 Niedźwieckiemu	Niedźwiecki	subst:sg:dat:m1	nazwisko	
 Niedźwieckie	Niedźwiecki	depr:pl:nom.acc.voc:m2	nazwisko	
 Niedźwieckimi	Niedźwiecki	subst:pl:inst:m1	nazwisko	
@@ -1746,7 +1681,6 @@ Niegociny	Niegocin	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Niegomirach	Niegomir	subst:pl:loc:m1	imię	
 Niegomirami	Niegomir	subst:pl:inst:m1	imię	
 Niegomira	Niegomir	subst:sg:gen.acc:m1	imię	
-Niegomira	Niegomir	subst:sg:gen:m1	imię	
 Niegomirem	Niegomir	subst:sg:inst:m1	imię	
 Niegomir	Niegomir	subst:sg:nom:m1	imię	
 Niegomirom	Niegomir	subst:pl:dat:m1	imię	
@@ -1760,7 +1694,6 @@ Niegomirzy	Niegomir	subst:pl:nom.voc:m1	imię
 Niegosławach	Niegosław	subst:pl:loc:m1	imię	
 Niegosławami	Niegosław	subst:pl:inst:m1	imię	
 Niegosława	Niegosław	subst:sg:gen.acc:m1	imię	
-Niegosława	Niegosław	subst:sg:gen:m1	imię	
 Niegosławem	Niegosław	subst:sg:inst:m1	imię	
 Niegosławie	Niegosław	subst:sg:loc:m1	imię	
 Niegosławie	Niegosław	subst:sg:voc:m1	imię	
@@ -1795,7 +1728,6 @@ Niegosławicom	Niegosławice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Niekrasowach	Niekrasow	subst:pl:loc:m1	nazwisko	
 Niekrasowami	Niekrasow	subst:pl:inst:m1	nazwisko	
 Niekrasowa	Niekrasow	subst:sg:gen.acc:m1	nazwisko	
-Niekrasowa	Niekrasow	subst:sg:gen:m1	nazwisko	
 Niekrasowem	Niekrasow	subst:sg:inst:m1	nazwisko	
 Niekrasowie	Niekrasow	subst:sg:loc:m1	nazwisko	
 Niekrasowie	Niekrasow	subst:sg:voc:m1	nazwisko	
@@ -1808,7 +1740,6 @@ Niekrasowy	Niekrasow	depr:pl:nom.acc.voc:m2	nazwisko
 Niemcewiczach	Niemcewicz	subst:pl:loc:m1	nazwisko	
 Niemcewiczami	Niemcewicz	subst:pl:inst:m1	nazwisko	
 Niemcewicza	Niemcewicz	subst:sg:gen.acc:m1	nazwisko	
-Niemcewicza	Niemcewicz	subst:sg:gen:m1	nazwisko	
 Niemcewiczem	Niemcewicz	subst:sg:inst:m1	nazwisko	
 Niemcewicze	Niemcewicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Niemcewicze	Niemcewicz	subst:pl:nom.voc:m1	nazwisko	
@@ -1839,12 +1770,10 @@ Niemczuro	Niemczura	subst:sg:voc:m1	nazwisko
 Niemczurowie	Niemczura	subst:pl:nom.voc:m1	nazwisko	
 Niemczurów	Niemczura	subst:pl:gen.acc:m1	nazwisko	
 Niemczury	Niemczura	depr:pl:nom.acc.voc:m2	nazwisko	
-Niemczury	Niemczura	subst:sg:gen:m1	nazwisko	
 Niemczurze	Niemczura	subst:sg:dat.loc:m1	nazwisko	
 Niemczykach	Niemczyk	subst:pl:loc:m1	nazwisko	
 Niemczykami	Niemczyk	subst:pl:inst:m1	nazwisko	
 Niemczyka	Niemczyk	subst:sg:gen.acc:m1	nazwisko	
-Niemczyka	Niemczyk	subst:sg:gen:m1	nazwisko	
 Niemczykiem	Niemczyk	subst:sg:inst:m1	nazwisko	
 Niemczyki	Niemczyk	depr:pl:nom.acc.voc:m2	nazwisko	
 Niemczyk	Niemczyk	subst:sg:nom:m1	nazwisko	
@@ -1861,8 +1790,6 @@ Niemczyskami	Niemczysko	subst:pl:inst:n:ncol	nazwa pospolita
 Niemczyska	Niemczysko	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
 Niemczyska	Niemczysko	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
 Niemczyska	Niemczysko	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
-Niemczyska	Niemczysko	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
-Niemczyska	Niemczysko	subst:sg:gen:m1	nazwa pospolita	rzad.
 Niemczyska	Niemczysko	subst:sg:gen:n:ncol	nazwa pospolita	
 Niemczyskiem	Niemczysko	subst:sg:inst:m1	nazwa pospolita	rzad.
 Niemczyskiem	Niemczysko	subst:sg:inst:n:ncol	nazwa pospolita	
@@ -1890,7 +1817,6 @@ Niemeczko	Niemeczka	subst:sg:voc:f	nazwa pospolita
 Niemenach	Niemen:s1	subst:pl:loc:m1	pseudonim	
 Niemenami	Niemen:s1	subst:pl:inst:m1	pseudonim	
 Niemena	Niemen:s1	subst:sg:gen.acc:m1	pseudonim	
-Niemena	Niemen:s1	subst:sg:gen:m1	pseudonim	
 Niemenem	Niemen:s1	subst:sg:inst:m1	pseudonim	
 Niemenie	Niemen:s1	subst:sg:loc:m1	pseudonim	
 Niemenie	Niemen:s1	subst:sg:voc:m1	pseudonim	
@@ -1914,7 +1840,6 @@ Niemny	Niemen:s2	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Niemeyerach	Niemeyer	subst:pl:loc:m1	nazwisko	
 Niemeyerami	Niemeyer	subst:pl:inst:m1	nazwisko	
 Niemeyera	Niemeyer	subst:sg:gen.acc:m1	nazwisko	
-Niemeyera	Niemeyer	subst:sg:gen:m1	nazwisko	
 Niemeyerem	Niemeyer	subst:sg:inst:m1	nazwisko	
 Niemeyer	Niemeyer	subst:sg:nom:m1	nazwisko	
 Niemeyerom	Niemeyer	subst:pl:dat:m1	nazwisko	
@@ -1928,7 +1853,6 @@ Niemiaszek	Niemiaszek	subst:sg:nom:m1	nazwa pospolita	pogard.
 Niemiaszkach	Niemiaszek	subst:pl:loc:m1	nazwa pospolita	pogard.
 Niemiaszkami	Niemiaszek	subst:pl:inst:m1	nazwa pospolita	pogard.
 Niemiaszka	Niemiaszek	subst:sg:gen.acc:m1	nazwa pospolita	pogard.
-Niemiaszka	Niemiaszek	subst:sg:gen:m1	nazwa pospolita	pogard.
 Niemiaszkiem	Niemiaszek	subst:sg:inst:m1	nazwa pospolita	pogard.
 Niemiaszki	Niemiaszek	depr:pl:nom.acc.voc:m2	nazwa pospolita	pogard.
 Niemiaszkom	Niemiaszek	subst:pl:dat:m1	nazwa pospolita	pogard.
@@ -1940,7 +1864,6 @@ Niemiaszku	Niemiaszek	subst:sg:voc:m1	nazwa pospolita	pogard.
 Niemcach	Niemiec:s1	subst:pl:loc:m1	nazwa pospolita	
 Niemcami	Niemiec:s1	subst:pl:inst:m1	nazwa pospolita	
 Niemca	Niemiec:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-Niemca	Niemiec:s1	subst:sg:gen:m1	nazwa pospolita	
 Niemcem	Niemiec:s1	subst:sg:inst:m1	nazwa pospolita	
 Niemce	Niemiec:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Niemcom	Niemiec:s1	subst:pl:dat:m1	nazwa pospolita	
@@ -1954,7 +1877,6 @@ Niemiec	Niemiec:s1	subst:sg:nom:m1	nazwa pospolita
 Niemcach	Niemiec:s2	subst:pl:loc:m1	nazwisko	
 Niemcami	Niemiec:s2	subst:pl:inst:m1	nazwisko	
 Niemca	Niemiec:s2	subst:sg:gen.acc:m1	nazwisko	
-Niemca	Niemiec:s2	subst:sg:gen:m1	nazwisko	
 Niemcem	Niemiec:s2	subst:sg:inst:m1	nazwisko	
 Niemce	Niemiec:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Niemcom	Niemiec:s2	subst:pl:dat:m1	nazwisko	
@@ -1967,7 +1889,6 @@ Niemiec	Niemiec:s2	subst:sg:nom:m1	nazwisko
 Niemirach	Niemir	subst:pl:loc:m1	imię	
 Niemirami	Niemir	subst:pl:inst:m1	imię	
 Niemira	Niemir	subst:sg:gen.acc:m1	imię	
-Niemira	Niemir	subst:sg:gen:m1	imię	
 Niemirem	Niemir	subst:sg:inst:m1	imię	
 Niemir	Niemir	subst:sg:nom:m1	imię	
 Niemirom	Niemir	subst:pl:dat:m1	imię	
@@ -2026,7 +1947,6 @@ Nieniec	Nieniec	subst:sg:nom:m1	nazwa pospolita
 Nieńcach	Nieniec	subst:pl:loc:m1	nazwa pospolita	
 Nieńcami	Nieniec	subst:pl:inst:m1	nazwa pospolita	
 Nieńca	Nieniec	subst:sg:gen.acc:m1	nazwa pospolita	
-Nieńca	Nieniec	subst:sg:gen:m1	nazwa pospolita	
 Nieńcem	Nieniec	subst:sg:inst:m1	nazwa pospolita	
 Nieńce	Nieniec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Nieńcom	Nieniec	subst:pl:dat:m1	nazwa pospolita	
@@ -2060,7 +1980,6 @@ Niesiołowscy	Niesiołowski	subst:pl:nom.voc:m1	nazwisko
 Niesiołowskich	Niesiołowski	subst:pl:gen.acc:m1	nazwisko	
 Niesiołowskich	Niesiołowski	subst:pl:loc:m1	nazwisko	
 Niesiołowskiego	Niesiołowski	subst:sg:gen.acc:m1	nazwisko	
-Niesiołowskiego	Niesiołowski	subst:sg:gen:m1	nazwisko	
 Niesiołowskiemu	Niesiołowski	subst:sg:dat:m1	nazwisko	
 Niesiołowskie	Niesiołowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Niesiołowskimi	Niesiołowski	subst:pl:inst:m1	nazwisko	
@@ -2084,7 +2003,6 @@ Niesłuchowscy	Niesłuchowski	subst:pl:nom.voc:m1	nazwisko
 Niesłuchowskich	Niesłuchowski	subst:pl:gen.acc:m1	nazwisko	
 Niesłuchowskich	Niesłuchowski	subst:pl:loc:m1	nazwisko	
 Niesłuchowskiego	Niesłuchowski	subst:sg:gen.acc:m1	nazwisko	
-Niesłuchowskiego	Niesłuchowski	subst:sg:gen:m1	nazwisko	
 Niesłuchowskiemu	Niesłuchowski	subst:sg:dat:m1	nazwisko	
 Niesłuchowskie	Niesłuchowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Niesłuchowskimi	Niesłuchowski	subst:pl:inst:m1	nazwisko	
@@ -2118,7 +2036,6 @@ Nieświeżu	Nieśwież	subst:sg:voc:m3	nazwa geograficzna
 Nietzschach	Nietzsche	subst:pl:loc:m1	nazwisko	
 Nietzschami	Nietzsche	subst:pl:inst:m1	nazwisko	
 Nietzschego	Nietzsche	subst:sg:gen.acc:m1	nazwisko	
-Nietzschego	Nietzsche	subst:sg:gen:m1	nazwisko	
 Nietzschem	Nietzsche	subst:sg:inst:m1	nazwisko	
 Nietzschem	Nietzsche	subst:sg:loc:m1	nazwisko	
 Nietzschemu	Nietzsche	subst:sg:dat:m1	nazwisko	
@@ -2143,7 +2060,6 @@ Niewiadomscy	Niewiadomski	subst:pl:nom.voc:m1	nazwisko
 Niewiadomskich	Niewiadomski	subst:pl:gen.acc:m1	nazwisko	
 Niewiadomskich	Niewiadomski	subst:pl:loc:m1	nazwisko	
 Niewiadomskiego	Niewiadomski	subst:sg:gen.acc:m1	nazwisko	
-Niewiadomskiego	Niewiadomski	subst:sg:gen:m1	nazwisko	
 Niewiadomskiemu	Niewiadomski	subst:sg:dat:m1	nazwisko	
 Niewiadomskie	Niewiadomski	depr:pl:nom.acc.voc:m2	nazwisko	
 Niewiadomskimi	Niewiadomski	subst:pl:inst:m1	nazwisko	
@@ -2179,7 +2095,6 @@ Niewiarowscy	Niewiarowski	subst:pl:nom.voc:m1	nazwisko
 Niewiarowskich	Niewiarowski	subst:pl:gen.acc:m1	nazwisko	
 Niewiarowskich	Niewiarowski	subst:pl:loc:m1	nazwisko	
 Niewiarowskiego	Niewiarowski	subst:sg:gen.acc:m1	nazwisko	
-Niewiarowskiego	Niewiarowski	subst:sg:gen:m1	nazwisko	
 Niewiarowskiemu	Niewiarowski	subst:sg:dat:m1	nazwisko	
 Niewiarowskie	Niewiarowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Niewiarowskimi	Niewiarowski	subst:pl:inst:m1	nazwisko	
@@ -2191,7 +2106,6 @@ Niewiarowski	Niewiarowski	subst:sg:voc:m1	nazwisko
 Niezamysłach	Niezamysł	subst:pl:loc:m1	imię	
 Niezamysłami	Niezamysł	subst:pl:inst:m1	imię	
 Niezamysła	Niezamysł	subst:sg:gen.acc:m1	imię	
-Niezamysła	Niezamysł	subst:sg:gen:m1	imię	
 Niezamysłem	Niezamysł	subst:sg:inst:m1	imię	
 Niezamysł	Niezamysł	subst:sg:nom:m1	imię	
 Niezamysłom	Niezamysł	subst:pl:dat:m1	imię	
@@ -2204,7 +2118,6 @@ Niezamyśle	Niezamysł	subst:sg:voc:m1	imię
 Nieznamirach	Nieznamir	subst:pl:loc:m1	imię	
 Nieznamirami	Nieznamir	subst:pl:inst:m1	imię	
 Nieznamira	Nieznamir	subst:sg:gen.acc:m1	imię	
-Nieznamira	Nieznamir	subst:sg:gen:m1	imię	
 Nieznamirem	Nieznamir	subst:sg:inst:m1	imię	
 Nieznamir	Nieznamir	subst:sg:nom:m1	imię	
 Nieznamirom	Nieznamir	subst:pl:dat:m1	imię	
@@ -2231,7 +2144,6 @@ Nigeryjczycy	Nigeryjczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Nigeryjczykach	Nigeryjczyk	subst:pl:loc:m1	nazwa pospolita	
 Nigeryjczykami	Nigeryjczyk	subst:pl:inst:m1	nazwa pospolita	
 Nigeryjczyka	Nigeryjczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Nigeryjczyka	Nigeryjczyk	subst:sg:gen:m1	nazwa pospolita	
 Nigeryjczykiem	Nigeryjczyk	subst:sg:inst:m1	nazwa pospolita	
 Nigeryjczyki	Nigeryjczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Nigeryjczyk	Nigeryjczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -2254,7 +2166,6 @@ Nigeryjko	Nigeryjka	subst:sg:voc:f	nazwa pospolita
 Nightingale’ach	Nightingale	subst:pl:loc:m1	nazwisko	
 Nightingale’ami	Nightingale	subst:pl:inst:m1	nazwisko	
 Nightingale’a	Nightingale	subst:sg:gen.acc:m1	nazwisko	
-Nightingale’a	Nightingale	subst:sg:gen:m1	nazwisko	
 Nightingale’em	Nightingale	subst:sg:inst:m1	nazwisko	
 Nightingale’e	Nightingale	depr:pl:nom.acc.voc:m2	nazwisko	
 Nightingale	Nightingale	subst:sg:nom:m1	nazwisko	
@@ -2267,7 +2178,6 @@ Nightingale’u	Nightingale	subst:sg:voc:m1	nazwisko
 Nikach	Nik	subst:pl:loc:m1	imię	
 Nikami	Nik	subst:pl:inst:m1	imię	
 Nika	Nik	subst:sg:gen.acc:m1	imię	
-Nika	Nik	subst:sg:gen:m1	imię	
 Nikiem	Nik	subst:sg:inst:m1	imię	
 Niki	Nik	depr:pl:nom.acc.voc:m2	imię	
 Nik	Nik	subst:sg:nom:m1	imię	
@@ -2303,7 +2213,6 @@ Niko	Nika	subst:sg:voc:f	imię
 Nikanorach	Nikanor	subst:pl:loc:m1	imię	
 Nikanorami	Nikanor	subst:pl:inst:m1	imię	
 Nikanora	Nikanor	subst:sg:gen.acc:m1	imię	
-Nikanora	Nikanor	subst:sg:gen:m1	imię	
 Nikanorem	Nikanor	subst:sg:inst:m1	imię	
 Nikanor	Nikanor	subst:sg:nom:m1	imię	
 Nikanorom	Nikanor	subst:pl:dat:m1	imię	
@@ -2330,7 +2239,6 @@ Nike	Nike	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	imię	mit.
 Nikiforach	Nikifor	subst:pl:loc:m1	pseudonim	
 Nikiforami	Nikifor	subst:pl:inst:m1	pseudonim	
 Nikifora	Nikifor	subst:sg:gen.acc:m1	pseudonim	
-Nikifora	Nikifor	subst:sg:gen:m1	pseudonim	
 Nikiforem	Nikifor	subst:sg:inst:m1	pseudonim	
 Nikifor	Nikifor	subst:sg:nom:m1	pseudonim	
 Nikiforom	Nikifor	subst:pl:dat:m1	pseudonim	
@@ -2351,11 +2259,9 @@ Nikito	Nikita	subst:sg:voc:m1	imię
 Nikitowie	Nikita	subst:pl:nom.voc:m1	imię	
 Nikitów	Nikita	subst:pl:gen.acc:m1	imię	
 Nikity	Nikita	depr:pl:nom.acc.voc:m2	imię	
-Nikity	Nikita	subst:sg:gen:m1	imię	
 Nikodemach	Nikodem	subst:pl:loc:m1	imię	
 Nikodemami	Nikodem	subst:pl:inst:m1	imię	
 Nikodema	Nikodem	subst:sg:gen.acc:m1	imię	
-Nikodema	Nikodem	subst:sg:gen:m1	imię	
 Nikodemem	Nikodem	subst:sg:inst:m1	imię	
 Nikodemie	Nikodem	subst:sg:loc:m1	imię	
 Nikodemie	Nikodem	subst:sg:voc:m1	imię	
@@ -2390,7 +2296,6 @@ Nikoletty	Nikoletta	subst:sg:gen:f	imię
 Nikołajach	Nikołaj	subst:pl:loc:m1	imię	
 Nikołajami	Nikołaj	subst:pl:inst:m1	imię	
 Nikołaja	Nikołaj	subst:sg:gen.acc:m1	imię	
-Nikołaja	Nikołaj	subst:sg:gen:m1	imię	
 Nikołajem	Nikołaj	subst:sg:inst:m1	imię	
 Nikołaje	Nikołaj	depr:pl:nom.acc.voc:m2	imię	
 Nikołaje	Nikołaj	subst:pl:nom.voc:m1	imię	
@@ -2404,7 +2309,6 @@ Nikołaju	Nikołaj	subst:sg:voc:m1	imię
 Nikonach	Nikon	subst:pl:loc:m1	imię	
 Nikonami	Nikon	subst:pl:inst:m1	imię	
 Nikona	Nikon	subst:sg:gen.acc:m1	imię	
-Nikona	Nikon	subst:sg:gen:m1	imię	
 Nikonem	Nikon	subst:sg:inst:m1	imię	
 Nikonie	Nikon	subst:sg:loc:m1	imię	
 Nikonie	Nikon	subst:sg:voc:m1	imię	
@@ -2418,7 +2322,6 @@ Nikony	Nikon	depr:pl:nom.acc.voc:m2	imię
 Nikosiach	Nikoś	subst:pl:loc:m1	imię	
 Nikosiami	Nikoś	subst:pl:inst:m1	imię	
 Nikosia	Nikoś	subst:sg:gen.acc:m1	imię	
-Nikosia	Nikoś	subst:sg:gen:m1	imię	
 Nikosiem	Nikoś	subst:sg:inst:m1	imię	
 Nikosie	Nikoś	depr:pl:nom.acc.voc:m2	imię	
 Nikosie	Nikoś	subst:pl:nom.voc:m1	imię	
@@ -2444,7 +2347,6 @@ Nikozyj	Nikozja	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Nikusiach	Nikuś	subst:pl:loc:m1	imię	
 Nikusiami	Nikuś	subst:pl:inst:m1	imię	
 Nikusia	Nikuś	subst:sg:gen.acc:m1	imię	
-Nikusia	Nikuś	subst:sg:gen:m1	imię	
 Nikusiem	Nikuś	subst:sg:inst:m1	imię	
 Nikusie	Nikuś	depr:pl:nom.acc.voc:m2	imię	
 Nikusie	Nikuś	subst:pl:nom.voc:m1	imię	
@@ -2481,7 +2383,6 @@ Nilu	Nil:s2	subst:sg:voc:m3	nazwa kroju pisma	przest.
 Nilach	Nil:s3	subst:pl:loc:m1	imię|nazwisko	
 Nilami	Nil:s3	subst:pl:inst:m1	imię|nazwisko	
 Nila	Nil:s3	subst:sg:gen.acc:m1	imię|nazwisko	
-Nila	Nil:s3	subst:sg:gen:m1	imię|nazwisko	
 Nilem	Nil:s3	subst:sg:inst:m1	imię|nazwisko	
 Nile	Nil:s3	depr:pl:nom.acc.voc:m2	imię|nazwisko	
 Nil	Nil:s3	subst:sg:nom:m1	imię|nazwisko	
@@ -2538,7 +2439,6 @@ Ninko	Ninka	subst:sg:voc:f	imię
 Ninogniewach	Ninogniew	subst:pl:loc:m1	imię	
 Ninogniewami	Ninogniew	subst:pl:inst:m1	imię	
 Ninogniewa	Ninogniew	subst:sg:gen.acc:m1	imię	
-Ninogniewa	Ninogniew	subst:sg:gen:m1	imię	
 Ninogniewem	Ninogniew	subst:sg:inst:m1	imię	
 Ninogniewie	Ninogniew	subst:sg:loc:m1	imię	
 Ninogniewie	Ninogniew	subst:sg:voc:m1	imię	
@@ -2551,7 +2451,6 @@ Ninogniewy	Ninogniew	depr:pl:nom.acc.voc:m2	imię
 Ninomysłach	Ninomysł	subst:pl:loc:m1	imię	
 Ninomysłami	Ninomysł	subst:pl:inst:m1	imię	
 Ninomysła	Ninomysł	subst:sg:gen.acc:m1	imię	
-Ninomysła	Ninomysł	subst:sg:gen:m1	imię	
 Ninomysłem	Ninomysł	subst:sg:inst:m1	imię	
 Ninomysł	Ninomysł	subst:sg:nom:m1	imię	
 Ninomysłom	Ninomysł	subst:pl:dat:m1	imię	
@@ -2589,7 +2488,6 @@ Nisku	Nisko	subst:sg:loc:n:ncol	nazwa geograficzna
 Nitschach	Nitsch	subst:pl:loc:m1	nazwisko	
 Nitschami	Nitsch	subst:pl:inst:m1	nazwisko	
 Nitscha	Nitsch	subst:sg:gen.acc:m1	nazwisko	
-Nitscha	Nitsch	subst:sg:gen:m1	nazwisko	
 Nitschem	Nitsch	subst:sg:inst:m1	nazwisko	
 Nitsche	Nitsch	depr:pl:nom.acc.voc:m2	nazwisko	
 Nitsch	Nitsch	subst:sg:nom:m1	nazwisko	
@@ -2612,7 +2510,6 @@ Niwiskom	Niwiska	subst:pl:dat:n:pt	nazwa geograficzna
 Nixonach	Nixon	subst:pl:loc:m1	nazwisko	
 Nixonami	Nixon	subst:pl:inst:m1	nazwisko	
 Nixona	Nixon	subst:sg:gen.acc:m1	nazwisko	
-Nixona	Nixon	subst:sg:gen:m1	nazwisko	
 Nixonem	Nixon	subst:sg:inst:m1	nazwisko	
 Nixonie	Nixon	subst:sg:loc:m1	nazwisko	
 Nixonie	Nixon	subst:sg:voc:m1	nazwisko	
@@ -2627,7 +2524,6 @@ Niziole	Nizioł	subst:sg:voc:m1	nazwisko
 Niziołach	Nizioł	subst:pl:loc:m1	nazwisko	
 Niziołami	Nizioł	subst:pl:inst:m1	nazwisko	
 Nizioła	Nizioł	subst:sg:gen.acc:m1	nazwisko	
-Nizioła	Nizioł	subst:sg:gen:m1	nazwisko	
 Niziołem	Nizioł	subst:sg:inst:m1	nazwisko	
 Nizioł	Nizioł	subst:sg:nom:m1	nazwisko	
 Niziołom	Nizioł	subst:pl:dat:m1	nazwisko	
@@ -2639,7 +2535,6 @@ Niziurscy	Niziurski	subst:pl:nom.voc:m1	nazwisko
 Niziurskich	Niziurski	subst:pl:gen.acc:m1	nazwisko	
 Niziurskich	Niziurski	subst:pl:loc:m1	nazwisko	
 Niziurskiego	Niziurski	subst:sg:gen.acc:m1	nazwisko	
-Niziurskiego	Niziurski	subst:sg:gen:m1	nazwisko	
 Niziurskiemu	Niziurski	subst:sg:dat:m1	nazwisko	
 Niziurskie	Niziurski	depr:pl:nom.acc.voc:m2	nazwisko	
 Niziurskimi	Niziurski	subst:pl:inst:m1	nazwisko	
@@ -2651,7 +2546,6 @@ Niziurski	Niziurski	subst:sg:voc:m1	nazwisko
 Niżowcach	Niżowiec	subst:pl:loc:m1	nazwa pospolita	
 Niżowcami	Niżowiec	subst:pl:inst:m1	nazwa pospolita	
 Niżowca	Niżowiec	subst:sg:gen.acc:m1	nazwa pospolita	
-Niżowca	Niżowiec	subst:sg:gen:m1	nazwa pospolita	
 Niżowcem	Niżowiec	subst:sg:inst:m1	nazwa pospolita	
 Niżowce	Niżowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Niżowcom	Niżowiec	subst:pl:dat:m1	nazwa pospolita	
@@ -2666,7 +2560,6 @@ Niżyńscy	Niżyński	subst:pl:nom.voc:m1	nazwisko
 Niżyńskich	Niżyński	subst:pl:gen.acc:m1	nazwisko	
 Niżyńskich	Niżyński	subst:pl:loc:m1	nazwisko	
 Niżyńskiego	Niżyński	subst:sg:gen.acc:m1	nazwisko	
-Niżyńskiego	Niżyński	subst:sg:gen:m1	nazwisko	
 Niżyńskiemu	Niżyński	subst:sg:dat:m1	nazwisko	
 Niżyńskie	Niżyński	depr:pl:nom.acc.voc:m2	nazwisko	
 Niżyńskimi	Niżyński	subst:pl:inst:m1	nazwisko	
@@ -2703,7 +2596,6 @@ Noakowscy	Noakowski	subst:pl:nom.voc:m1	nazwisko
 Noakowskich	Noakowski	subst:pl:gen.acc:m1	nazwisko	
 Noakowskich	Noakowski	subst:pl:loc:m1	nazwisko	
 Noakowskiego	Noakowski	subst:sg:gen.acc:m1	nazwisko	
-Noakowskiego	Noakowski	subst:sg:gen:m1	nazwisko	
 Noakowskiemu	Noakowski	subst:sg:dat:m1	nazwisko	
 Noakowskie	Noakowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Noakowskimi	Noakowski	subst:pl:inst:m1	nazwisko	
@@ -2716,7 +2608,6 @@ Nobel	Nobel	subst:sg:nom:m1	nazwisko
 Noblach	Nobel	subst:pl:loc:m1	nazwisko	
 Noblami	Nobel	subst:pl:inst:m1	nazwisko	
 Nobla	Nobel	subst:sg:gen.acc:m1	nazwisko	
-Nobla	Nobel	subst:sg:gen:m1	nazwisko	
 Noblem	Nobel	subst:sg:inst:m1	nazwisko	
 Noble	Nobel	depr:pl:nom.acc.voc:m2	nazwisko	
 Noblom	Nobel	subst:pl:dat:m1	nazwisko	
@@ -2738,7 +2629,6 @@ Nobilium	Nobilium	subst:sg:nom.acc.voc:n:ncol	człon nazwy instytucji
 Noach	Noe	subst:pl:loc:m1	imię	bibl.
 Noami	Noe	subst:pl:inst:m1	imię	bibl.
 Noego	Noe	subst:sg:gen.acc:m1	imię	bibl.
-Noego	Noe	subst:sg:gen:m1	imię	bibl.
 Noem	Noe	subst:sg:inst:m1	imię	bibl.
 Noem	Noe	subst:sg:loc:m1	imię	bibl.
 Noemu	Noe	subst:sg:dat:m1	imię	bibl.
@@ -2750,7 +2640,6 @@ Noowie	Noe	subst:pl:nom.voc:m1	imię	bibl.
 Noów	Noe	subst:pl:gen.acc:m1	imię	bibl.
 Noemi	Noemi	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	imię	
 Nojego	Noji	subst:sg:gen.acc:m1	nazwisko	
-Nojego	Noji	subst:sg:gen:m1	nazwisko	
 Nojemu	Noji	subst:sg:dat:m1	nazwisko	
 Noje	Noji	depr:pl:nom.acc.voc:m2	nazwisko	
 Nojich	Noji	subst:pl:gen.acc:m1	nazwisko	
@@ -2803,7 +2692,6 @@ Norze	Nora	subst:sg:dat.loc:f	imię
 Norbercikach	Norbercik	subst:pl:loc:m1	imię	
 Norbercikami	Norbercik	subst:pl:inst:m1	imię	
 Norbercika	Norbercik	subst:sg:gen.acc:m1	imię	
-Norbercika	Norbercik	subst:sg:gen:m1	imię	
 Norbercikiem	Norbercik	subst:sg:inst:m1	imię	
 Norberciki	Norbercik	depr:pl:nom.acc.voc:m2	imię	
 Norbercik	Norbercik	subst:sg:nom:m1	imię	
@@ -2818,7 +2706,6 @@ Norbercie	Norbert	subst:sg:voc:m1	imię
 Norbertach	Norbert	subst:pl:loc:m1	imię	
 Norbertami	Norbert	subst:pl:inst:m1	imię	
 Norberta	Norbert	subst:sg:gen.acc:m1	imię	
-Norberta	Norbert	subst:sg:gen:m1	imię	
 Norbertem	Norbert	subst:sg:inst:m1	imię	
 Norbert	Norbert	subst:sg:nom:m1	imię	
 Norbertom	Norbert	subst:pl:dat:m1	imię	
@@ -2840,7 +2727,6 @@ Norberty	Norberta	subst:sg:gen:f	imię
 Norblinach	Norblin	subst:pl:loc:m1	nazwisko	
 Norblinami	Norblin	subst:pl:inst:m1	nazwisko	
 Norblina	Norblin	subst:sg:gen.acc:m1	nazwisko	
-Norblina	Norblin	subst:sg:gen:m1	nazwisko	
 Norblinem	Norblin	subst:sg:inst:m1	nazwisko	
 Norblinie	Norblin	subst:sg:loc:m1	nazwisko	
 Norblinie	Norblin	subst:sg:voc:m1	nazwisko	
@@ -2854,7 +2740,6 @@ Normandczycy	Normandczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Normandczykach	Normandczyk	subst:pl:loc:m1	nazwa pospolita	
 Normandczykami	Normandczyk	subst:pl:inst:m1	nazwa pospolita	
 Normandczyka	Normandczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Normandczyka	Normandczyk	subst:sg:gen:m1	nazwa pospolita	
 Normandczykiem	Normandczyk	subst:sg:inst:m1	nazwa pospolita	
 Normandczyki	Normandczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Normandczyk	Normandczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -2889,7 +2774,6 @@ Normandko	Normandka	subst:sg:voc:f	nazwa pospolita
 Normanach	Norman:s1	subst:pl:loc:m1	imię	
 Normanami	Norman:s1	subst:pl:inst:m1	imię	
 Normana	Norman:s1	subst:sg:gen.acc:m1	imię	
-Normana	Norman:s1	subst:sg:gen:m1	imię	
 Normanem	Norman:s1	subst:sg:inst:m1	imię	
 Normanie	Norman:s1	subst:sg:loc:m1	imię	
 Normanie	Norman:s1	subst:sg:voc:m1	imię	
@@ -2902,7 +2786,6 @@ Normany	Norman:s1	depr:pl:nom.acc.voc:m2	imię
 Normanach	Norman:s2	subst:pl:loc:m1	nazwa pospolita	
 Normanami	Norman:s2	subst:pl:inst:m1	nazwa pospolita	
 Normana	Norman:s2	subst:sg:gen.acc:m1	nazwa pospolita	
-Normana	Norman:s2	subst:sg:gen:m1	nazwa pospolita	
 Normanem	Norman:s2	subst:sg:inst:m1	nazwa pospolita	
 Normanie	Norman:s2	subst:pl:nom.voc:m1	nazwa pospolita	
 Normanie	Norman:s2	subst:sg:loc:m1	nazwa pospolita	
@@ -2917,7 +2800,6 @@ Norwedzy	Norweg	subst:pl:nom.voc:m1	nazwa pospolita
 Norwegach	Norweg	subst:pl:loc:m1	nazwa pospolita	
 Norwegami	Norweg	subst:pl:inst:m1	nazwa pospolita	
 Norwega	Norweg	subst:sg:gen.acc:m1	nazwa pospolita	
-Norwega	Norweg	subst:sg:gen:m1	nazwa pospolita	
 Norwegiem	Norweg	subst:sg:inst:m1	nazwa pospolita	
 Norwegi	Norweg	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Norweg	Norweg	subst:sg:nom:m1	nazwa pospolita	
@@ -2953,7 +2835,6 @@ Norweżko	Norweżka	subst:sg:voc:f	nazwa pospolita
 Norwidach	Norwid	subst:pl:loc:m1	nazwisko	
 Norwidami	Norwid	subst:pl:inst:m1	nazwisko	
 Norwida	Norwid	subst:sg:gen.acc:m1	nazwisko	
-Norwida	Norwid	subst:sg:gen:m1	nazwisko	
 Norwidem	Norwid	subst:sg:inst:m1	nazwisko	
 Norwid	Norwid	subst:sg:nom:m1	nazwisko	
 Norwidom	Norwid	subst:pl:dat:m1	nazwisko	
@@ -2977,7 +2858,6 @@ Norymbergo	Norymberga	subst:sg:voc:f	nazwa geograficzna
 Nosisławach	Nosisław	subst:pl:loc:m1	imię	
 Nosisławami	Nosisław	subst:pl:inst:m1	imię	
 Nosisława	Nosisław	subst:sg:gen.acc:m1	imię	
-Nosisława	Nosisław	subst:sg:gen:m1	imię	
 Nosisławem	Nosisław	subst:sg:inst:m1	imię	
 Nosisławie	Nosisław	subst:sg:loc:m1	imię	
 Nosisławie	Nosisław	subst:sg:voc:m1	imię	
@@ -3003,7 +2883,6 @@ Nosowscy	Nosowski	subst:pl:nom.voc:m1	nazwisko
 Nosowskich	Nosowski	subst:pl:gen.acc:m1	nazwisko	
 Nosowskich	Nosowski	subst:pl:loc:m1	nazwisko	
 Nosowskiego	Nosowski	subst:sg:gen.acc:m1	nazwisko	
-Nosowskiego	Nosowski	subst:sg:gen:m1	nazwisko	
 Nosowskiemu	Nosowski	subst:sg:dat:m1	nazwisko	
 Nosowskie	Nosowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Nosowskimi	Nosowski	subst:pl:inst:m1	nazwisko	
@@ -3063,7 +2942,6 @@ Nowaccy	Nowacki	subst:pl:nom.voc:m1	nazwisko
 Nowackich	Nowacki	subst:pl:gen.acc:m1	nazwisko	
 Nowackich	Nowacki	subst:pl:loc:m1	nazwisko	
 Nowackiego	Nowacki	subst:sg:gen.acc:m1	nazwisko	
-Nowackiego	Nowacki	subst:sg:gen:m1	nazwisko	
 Nowackiemu	Nowacki	subst:sg:dat:m1	nazwisko	
 Nowackie	Nowacki	depr:pl:nom.acc.voc:m2	nazwisko	
 Nowackimi	Nowacki	subst:pl:inst:m1	nazwisko	
@@ -3075,7 +2953,6 @@ Nowacki	Nowacki	subst:sg:voc:m1	nazwisko
 Nowaczykach	Nowaczyk	subst:pl:loc:m1	nazwisko	
 Nowaczykami	Nowaczyk	subst:pl:inst:m1	nazwisko	
 Nowaczyka	Nowaczyk	subst:sg:gen.acc:m1	nazwisko	
-Nowaczyka	Nowaczyk	subst:sg:gen:m1	nazwisko	
 Nowaczykiem	Nowaczyk	subst:sg:inst:m1	nazwisko	
 Nowaczyki	Nowaczyk	depr:pl:nom.acc.voc:m2	nazwisko	
 Nowaczyk	Nowaczyk	subst:sg:nom:m1	nazwisko	
@@ -3100,7 +2977,6 @@ Nowaczyńscy	Nowaczyński	subst:pl:nom.voc:m1	nazwisko
 Nowaczyńskich	Nowaczyński	subst:pl:gen.acc:m1	nazwisko	
 Nowaczyńskich	Nowaczyński	subst:pl:loc:m1	nazwisko	
 Nowaczyńskiego	Nowaczyński	subst:sg:gen.acc:m1	nazwisko	
-Nowaczyńskiego	Nowaczyński	subst:sg:gen:m1	nazwisko	
 Nowaczyńskiemu	Nowaczyński	subst:sg:dat:m1	nazwisko	
 Nowaczyńskie	Nowaczyński	depr:pl:nom.acc.voc:m2	nazwisko	
 Nowaczyńskimi	Nowaczyński	subst:pl:inst:m1	nazwisko	
@@ -3112,7 +2988,6 @@ Nowaczyński	Nowaczyński	subst:sg:voc:m1	nazwisko
 Nowakach	Nowak	subst:pl:loc:m1	nazwisko	
 Nowakami	Nowak	subst:pl:inst:m1	nazwisko	
 Nowaka	Nowak	subst:sg:gen.acc:m1	nazwisko	
-Nowaka	Nowak	subst:sg:gen:m1	nazwisko	
 Nowakiem	Nowak	subst:sg:inst:m1	nazwisko	
 Nowaki	Nowak	depr:pl:nom.acc.voc:m2	nazwisko	
 Nowak	Nowak	subst:sg:nom:m1	nazwisko	
@@ -3148,7 +3023,6 @@ Nowakowscy	Nowakowski	subst:pl:nom.voc:m1	nazwisko
 Nowakowskich	Nowakowski	subst:pl:gen.acc:m1	nazwisko	
 Nowakowskich	Nowakowski	subst:pl:loc:m1	nazwisko	
 Nowakowskiego	Nowakowski	subst:sg:gen.acc:m1	nazwisko	
-Nowakowskiego	Nowakowski	subst:sg:gen:m1	nazwisko	
 Nowakowskiemu	Nowakowski	subst:sg:dat:m1	nazwisko	
 Nowakowskie	Nowakowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Nowakowskimi	Nowakowski	subst:pl:inst:m1	nazwisko	
@@ -3182,7 +3056,6 @@ Nowiccy	Nowicki	subst:pl:nom.voc:m1	nazwisko
 Nowickich	Nowicki	subst:pl:gen.acc:m1	nazwisko	
 Nowickich	Nowicki	subst:pl:loc:m1	nazwisko	
 Nowickiego	Nowicki	subst:sg:gen.acc:m1	nazwisko	
-Nowickiego	Nowicki	subst:sg:gen:m1	nazwisko	
 Nowickiemu	Nowicki	subst:sg:dat:m1	nazwisko	
 Nowickie	Nowicki	depr:pl:nom.acc.voc:m2	nazwisko	
 Nowickimi	Nowicki	subst:pl:inst:m1	nazwisko	
@@ -3202,7 +3075,6 @@ Nowino	Nowina	subst:sg:voc:m1	nazwisko
 Nowinowie	Nowina	subst:pl:nom.voc:m1	nazwisko	
 Nowinów	Nowina	subst:pl:gen.acc:m1	nazwisko	
 Nowiny	Nowina	depr:pl:nom.acc.voc:m2	nazwisko	
-Nowiny	Nowina	subst:sg:gen:m1	nazwisko	
 Nowince	Nowinka	subst:sg:dat.loc:f	nazwa geograficzna	
 Nowinek	Nowinka	subst:pl:gen:f	nazwa geograficzna	
 Nowinkach	Nowinka	subst:pl:loc:f	nazwa geograficzna	
@@ -3229,7 +3101,6 @@ Nowińscy	Nowiński	subst:pl:nom.voc:m1	nazwisko
 Nowińskich	Nowiński	subst:pl:gen.acc:m1	nazwisko	
 Nowińskich	Nowiński	subst:pl:loc:m1	nazwisko	
 Nowińskiego	Nowiński	subst:sg:gen.acc:m1	nazwisko	
-Nowińskiego	Nowiński	subst:sg:gen:m1	nazwisko	
 Nowińskiemu	Nowiński	subst:sg:dat:m1	nazwisko	
 Nowińskie	Nowiński	depr:pl:nom.acc.voc:m2	nazwisko	
 Nowińskimi	Nowiński	subst:pl:inst:m1	nazwisko	
@@ -3242,7 +3113,6 @@ Nowodworscy	Nowodworski	subst:pl:nom.voc:m1	nazwisko
 Nowodworskich	Nowodworski	subst:pl:gen.acc:m1	nazwisko	
 Nowodworskich	Nowodworski	subst:pl:loc:m1	nazwisko	
 Nowodworskiego	Nowodworski	subst:sg:gen.acc:m1	nazwisko	
-Nowodworskiego	Nowodworski	subst:sg:gen:m1	nazwisko	
 Nowodworskiemu	Nowodworski	subst:sg:dat:m1	nazwisko	
 Nowodworskie	Nowodworski	depr:pl:nom.acc.voc:m2	nazwisko	
 Nowodworskimi	Nowodworski	subst:pl:inst:m1	nazwisko	
@@ -3255,7 +3125,6 @@ Nowofundlandczycy	Nowofundlandczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Nowofundlandczykach	Nowofundlandczyk	subst:pl:loc:m1	nazwa pospolita	
 Nowofundlandczykami	Nowofundlandczyk	subst:pl:inst:m1	nazwa pospolita	
 Nowofundlandczyka	Nowofundlandczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Nowofundlandczyka	Nowofundlandczyk	subst:sg:gen:m1	nazwa pospolita	
 Nowofundlandczykiem	Nowofundlandczyk	subst:sg:inst:m1	nazwa pospolita	
 Nowofundlandczyki	Nowofundlandczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Nowofundlandczyk	Nowofundlandczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -3332,7 +3201,6 @@ Nowosielscy	Nowosielski	subst:pl:nom.voc:m1	nazwisko
 Nowosielskich	Nowosielski	subst:pl:gen.acc:m1	nazwisko	
 Nowosielskich	Nowosielski	subst:pl:loc:m1	nazwisko	
 Nowosielskiego	Nowosielski	subst:sg:gen.acc:m1	nazwisko	
-Nowosielskiego	Nowosielski	subst:sg:gen:m1	nazwisko	
 Nowosielskiemu	Nowosielski	subst:sg:dat:m1	nazwisko	
 Nowosielskie	Nowosielski	depr:pl:nom.acc.voc:m2	nazwisko	
 Nowosielskimi	Nowosielski	subst:pl:inst:m1	nazwisko	
@@ -3344,7 +3212,6 @@ Nowosielski	Nowosielski	subst:sg:voc:m1	nazwisko
 Nowosilcowach	Nowosilcow	subst:pl:loc:m1	nazwisko	
 Nowosilcowami	Nowosilcow	subst:pl:inst:m1	nazwisko	
 Nowosilcowa	Nowosilcow	subst:sg:gen.acc:m1	nazwisko	
-Nowosilcowa	Nowosilcow	subst:sg:gen:m1	nazwisko	
 Nowosilcowem	Nowosilcow	subst:sg:inst:m1	nazwisko	
 Nowosilcowie	Nowosilcow	subst:sg:loc:m1	nazwisko	
 Nowosilcowie	Nowosilcow	subst:sg:voc:m1	nazwisko	
@@ -3372,7 +3239,6 @@ Nowotka	Nowotka	subst:sg:nom:m1	nazwisko
 Nowotką	Nowotka	subst:sg:inst:m1	nazwisko	
 Nowotkę	Nowotka	subst:sg:acc:m1	nazwisko	
 Nowotki	Nowotka	depr:pl:nom.acc.voc:m2	nazwisko	
-Nowotki	Nowotka	subst:sg:gen:m1	nazwisko	
 Nowotkom	Nowotka	subst:pl:dat:m1	nazwisko	
 Nowotko	Nowotka	subst:sg:voc:m1	nazwisko	
 Nowotkowie	Nowotka	subst:pl:nom.voc:m1	nazwisko	
@@ -3383,7 +3249,6 @@ Nowotkami	Nowotko	subst:pl:inst:m1	nazwisko
 Nowotką	Nowotko	subst:sg:inst:m1	nazwisko	
 Nowotkę	Nowotko	subst:sg:acc:m1	nazwisko	
 Nowotki	Nowotko	depr:pl:nom.acc.voc:m2	nazwisko	
-Nowotki	Nowotko	subst:sg:gen:m1	nazwisko	
 Nowotkom	Nowotko	subst:pl:dat:m1	nazwisko	
 Nowotko	Nowotko	subst:sg:nom:m1	nazwisko	
 Nowotko	Nowotko	subst:sg:voc:m1	nazwisko	
@@ -3404,7 +3269,6 @@ Nowowiejscy	Nowowiejski	subst:pl:nom.voc:m1	nazwisko
 Nowowiejskich	Nowowiejski	subst:pl:gen.acc:m1	nazwisko	
 Nowowiejskich	Nowowiejski	subst:pl:loc:m1	nazwisko	
 Nowowiejskiego	Nowowiejski	subst:sg:gen.acc:m1	nazwisko	
-Nowowiejskiego	Nowowiejski	subst:sg:gen:m1	nazwisko	
 Nowowiejskiemu	Nowowiejski	subst:sg:dat:m1	nazwisko	
 Nowowiejskie	Nowowiejski	depr:pl:nom.acc.voc:m2	nazwisko	
 Nowowiejskimi	Nowowiejski	subst:pl:inst:m1	nazwisko	
@@ -3417,7 +3281,6 @@ Nowozelandczycy	Nowozelandczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Nowozelandczykach	Nowozelandczyk	subst:pl:loc:m1	nazwa pospolita	
 Nowozelandczykami	Nowozelandczyk	subst:pl:inst:m1	nazwa pospolita	
 Nowozelandczyka	Nowozelandczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Nowozelandczyka	Nowozelandczyk	subst:sg:gen:m1	nazwa pospolita	
 Nowozelandczykiem	Nowozelandczyk	subst:sg:inst:m1	nazwa pospolita	
 Nowozelandczyki	Nowozelandczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Nowozelandczyk	Nowozelandczyk	subst:sg:nom:m1	nazwa pospolita	
@@ -3536,7 +3399,6 @@ NSDAP	NSDAP	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji
 NSDAP-owcach	NSDAP-owiec	subst:pl:loc:m1	nazwa pospolita	
 NSDAP-owcami	NSDAP-owiec	subst:pl:inst:m1	nazwa pospolita	
 NSDAP-owca	NSDAP-owiec	subst:sg:gen.acc:m1	nazwa pospolita	
-NSDAP-owca	NSDAP-owiec	subst:sg:gen:m1	nazwa pospolita	
 NSDAP-owcem	NSDAP-owiec	subst:sg:inst:m1	nazwa pospolita	
 NSDAP-owce	NSDAP-owiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 NSDAP-owcom	NSDAP-owiec	subst:pl:dat:m1	nazwa pospolita	
@@ -3619,7 +3481,6 @@ Nubio	Nubia	subst:sg:voc:f	nazwa geograficzna
 Nufciach	Nufcio	subst:pl:loc:m1	imię	
 Nufciami	Nufcio	subst:pl:inst:m1	imię	
 Nufcia	Nufcio	subst:sg:gen.acc:m1	imię	
-Nufcia	Nufcio	subst:sg:gen:m1	imię	
 Nufciem	Nufcio	subst:sg:inst:m1	imię	
 Nufcie	Nufcio	depr:pl:nom.acc.voc:m2	imię	
 Nufciom	Nufcio	subst:pl:dat:m1	imię	
@@ -3632,7 +3493,6 @@ Nufciu	Nufcio	subst:sg:voc:m1	imię
 Nullach	Nullo	subst:pl:loc:m1	nazwisko	
 Nullami	Nullo	subst:pl:inst:m1	nazwisko	
 Nulla	Nullo	subst:sg:gen.acc:m1	nazwisko	
-Nulla	Nullo	subst:sg:gen:m1	nazwisko	
 Nullem	Nullo	subst:sg:inst:m1	nazwisko	
 Nulle	Nullo	depr:pl:nom.acc.voc:m2	nazwisko	
 Nullom	Nullo	subst:pl:dat:m1	nazwisko	
@@ -3692,7 +3552,6 @@ Nurzyńscy	Nurzyński	subst:pl:nom.voc:m1	nazwisko
 Nurzyńskich	Nurzyński	subst:pl:gen.acc:m1	nazwisko	
 Nurzyńskich	Nurzyński	subst:pl:loc:m1	nazwisko	
 Nurzyńskiego	Nurzyński	subst:sg:gen.acc:m1	nazwisko	
-Nurzyńskiego	Nurzyński	subst:sg:gen:m1	nazwisko	
 Nurzyńskiemu	Nurzyński	subst:sg:dat:m1	nazwisko	
 Nurzyńskie	Nurzyński	depr:pl:nom.acc.voc:m2	nazwisko	
 Nurzyńskimi	Nurzyński	subst:pl:inst:m1	nazwisko	
@@ -3717,7 +3576,6 @@ Nysy	Nysa	subst:sg:gen:f	nazwa geograficzna
 Nysanach	Nysan	subst:pl:loc:m1	imię	
 Nysanami	Nysan	subst:pl:inst:m1	imię	
 Nysana	Nysan	subst:sg:gen.acc:m1	imię	
-Nysana	Nysan	subst:sg:gen:m1	imię	
 Nysanem	Nysan	subst:sg:inst:m1	imię	
 Nysanie	Nysan	subst:sg:loc:m1	imię	
 Nysanie	Nysan	subst:sg:voc:m1	imię	

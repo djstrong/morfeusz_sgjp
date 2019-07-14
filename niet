@@ -14910,7 +14910,6 @@ nietoleranci	nietolerant	subst:pl:nom.voc:m1	nazwa pospolita	przest.
 nietolerantach	nietolerant	subst:pl:loc:m1	nazwa pospolita	przest.
 nietolerantami	nietolerant	subst:pl:inst:m1	nazwa pospolita	przest.
 nietoleranta	nietolerant	subst:sg:gen.acc:m1	nazwa pospolita	przest.
-nietoleranta	nietolerant	subst:sg:gen:m1	nazwa pospolita	przest.
 nietolerantem	nietolerant	subst:sg:inst:m1	nazwa pospolita	przest.
 nietolerant	nietolerant	subst:sg:nom:m1	nazwa pospolita	przest.
 nietolerantom	nietolerant	subst:pl:dat:m1	nazwa pospolita	przest.
@@ -15731,8 +15730,6 @@ nietoperzami	nietoperz	subst:pl:inst:m2	nazwa pospolita	rzad.|zool.
 nietoperzami	nietoperz	subst:pl:inst:m2	nazwa pospolita	zool.
 nietoperza	nietoperz	subst:sg:gen.acc:m2	nazwa pospolita	rzad.|zool.
 nietoperza	nietoperz	subst:sg:gen.acc:m2	nazwa pospolita	zool.
-nietoperza	nietoperz	subst:sg:gen:m2	nazwa pospolita	rzad.|zool.
-nietoperza	nietoperz	subst:sg:gen:m2	nazwa pospolita	zool.
 nietoperzem	nietoperz	subst:sg:inst:m2	nazwa pospolita	rzad.|zool.
 nietoperzem	nietoperz	subst:sg:inst:m2	nazwa pospolita	zool.
 nietoperze	nietoperz	subst:pl:nom.acc.voc:m2	nazwa pospolita	rzad.|zool.
@@ -16441,8 +16438,6 @@ nietopyrzami	nietopyrz	subst:pl:inst:m2	nazwa pospolita
 nietopyrzami	nietopyrz	subst:pl:inst:m2	nazwa pospolita	rzad.
 nietopyrza	nietopyrz	subst:sg:gen.acc:m2	nazwa pospolita	
 nietopyrza	nietopyrz	subst:sg:gen.acc:m2	nazwa pospolita	rzad.
-nietopyrza	nietopyrz	subst:sg:gen:m2	nazwa pospolita	
-nietopyrza	nietopyrz	subst:sg:gen:m2	nazwa pospolita	rzad.
 nietopyrzem	nietopyrz	subst:sg:inst:m2	nazwa pospolita	
 nietopyrzem	nietopyrz	subst:sg:inst:m2	nazwa pospolita	rzad.
 nietopyrze	nietopyrz	subst:pl:nom.acc.voc:m2	nazwa pospolita	
@@ -36613,7 +36608,6 @@ nietworzywowy	nietworzywowy	adj:sg:nom.voc:m1.m2.m3:pos
 nietworach	nietwór	subst:pl:loc:m2	nazwa pospolita	daw.
 nietworami	nietwór	subst:pl:inst:m2	nazwa pospolita	daw.
 nietwora	nietwór	subst:sg:gen.acc:m2	nazwa pospolita	daw.
-nietwora	nietwór	subst:sg:gen:m2	nazwa pospolita	daw.
 nietworem	nietwór	subst:sg:inst:m2	nazwa pospolita	daw.
 nietworom	nietwór	subst:pl:dat:m2	nazwa pospolita	daw.
 nietworowi	nietwór	subst:sg:dat:m2	nazwa pospolita	daw.
@@ -39852,7 +39846,6 @@ nietzscheanistom	nietzscheanista	subst:pl:dat:m1	nazwa pospolita
 nietzscheanisto	nietzscheanista	subst:sg:voc:m1	nazwa pospolita	
 nietzscheanistów	nietzscheanista	subst:pl:gen.acc:m1	nazwa pospolita	
 nietzscheanisty	nietzscheanista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-nietzscheanisty	nietzscheanista	subst:sg:gen:m1	nazwa pospolita	
 nietzscheaniście	nietzscheanista	subst:sg:dat.loc:m1	nazwa pospolita	
 nietzscheaniści	nietzscheanista	subst:pl:nom.voc:m1	nazwa pospolita	
 nietzscheanizmach	nietzscheanizm	subst:pl:loc:m3	nazwa pospolita	

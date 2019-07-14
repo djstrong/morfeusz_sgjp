@@ -14,7 +14,6 @@ UB	UB	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa instytucji
 Ubaldach	Ubald	subst:pl:loc:m1	imię	
 Ubaldami	Ubald	subst:pl:inst:m1	imię	
 Ubalda	Ubald	subst:sg:gen.acc:m1	imię	
-Ubalda	Ubald	subst:sg:gen:m1	imię	
 Ubaldem	Ubald	subst:sg:inst:m1	imię	
 Ubaldom	Ubald	subst:pl:dat:m1	imię	
 Ubaldowie	Ubald	subst:pl:nom.voc:m1	imię	
@@ -29,7 +28,6 @@ U-Boocie	U-Boot	subst:sg:voc:m2	nazwa pospolita
 U-Bootach	U-Boot	subst:pl:loc:m2	nazwa pospolita	
 U-Bootami	U-Boot	subst:pl:inst:m2	nazwa pospolita	
 U-Boota	U-Boot	subst:sg:gen.acc:m2	nazwa pospolita	
-U-Boota	U-Boot	subst:sg:gen:m2	nazwa pospolita	
 U-Bootem	U-Boot	subst:sg:inst:m2	nazwa pospolita	
 U-Bootom	U-Boot	subst:pl:dat:m2	nazwa pospolita	
 U-Bootowi	U-Boot	subst:sg:dat:m2	nazwa pospolita	
@@ -41,7 +39,6 @@ Ubu	Ubu	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	imię	lit.
 Ubysławach	Ubysław	subst:pl:loc:m1	imię	
 Ubysławami	Ubysław	subst:pl:inst:m1	imię	
 Ubysława	Ubysław	subst:sg:gen.acc:m1	imię	
-Ubysława	Ubysław	subst:sg:gen:m1	imię	
 Ubysławem	Ubysław	subst:sg:inst:m1	imię	
 Ubysławie	Ubysław	subst:sg:loc:m1	imię	
 Ubysławie	Ubysław	subst:sg:voc:m1	imię	
@@ -109,7 +106,6 @@ Ugandyjczycy	Ugandyjczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Ugandyjczykach	Ugandyjczyk	subst:pl:loc:m1	nazwa pospolita	
 Ugandyjczykami	Ugandyjczyk	subst:pl:inst:m1	nazwa pospolita	
 Ugandyjczyka	Ugandyjczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Ugandyjczyka	Ugandyjczyk	subst:sg:gen:m1	nazwa pospolita	
 Ugandyjczykiem	Ugandyjczyk	subst:sg:inst:m1	nazwa pospolita	
 Ugandyjczyki	Ugandyjczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Ugandyjczykom	Ugandyjczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -180,7 +176,6 @@ Ujejscy	Ujejski	subst:pl:nom.voc:m1	nazwisko
 Ujejskich	Ujejski	subst:pl:gen.acc:m1	nazwisko	
 Ujejskich	Ujejski	subst:pl:loc:m1	nazwisko	
 Ujejskiego	Ujejski	subst:sg:gen.acc:m1	nazwisko	
-Ujejskiego	Ujejski	subst:sg:gen:m1	nazwisko	
 Ujejskiemu	Ujejski	subst:sg:dat:m1	nazwisko	
 Ujejskie	Ujejski	depr:pl:nom.acc.voc:m2	nazwisko	
 Ujejskimi	Ujejski	subst:pl:inst:m1	nazwisko	
@@ -215,7 +210,6 @@ Ukrainiec	Ukrainiec	subst:sg:nom:m1	nazwa pospolita
 Ukraińcach	Ukrainiec	subst:pl:loc:m1	nazwa pospolita	
 Ukraińcami	Ukrainiec	subst:pl:inst:m1	nazwa pospolita	
 Ukraińca	Ukrainiec	subst:sg:gen.acc:m1	nazwa pospolita	
-Ukraińca	Ukrainiec	subst:sg:gen:m1	nazwa pospolita	
 Ukraińcem	Ukrainiec	subst:sg:inst:m1	nazwa pospolita	
 Ukraińce	Ukrainiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Ukraińcom	Ukrainiec	subst:pl:dat:m1	nazwa pospolita	
@@ -276,7 +270,6 @@ Ulatowscy	Ulatowski	subst:pl:nom.voc:m1	nazwisko
 Ulatowskich	Ulatowski	subst:pl:gen.acc:m1	nazwisko	
 Ulatowskich	Ulatowski	subst:pl:loc:m1	nazwisko	
 Ulatowskiego	Ulatowski	subst:sg:gen.acc:m1	nazwisko	
-Ulatowskiego	Ulatowski	subst:sg:gen:m1	nazwisko	
 Ulatowskiemu	Ulatowski	subst:sg:dat:m1	nazwisko	
 Ulatowskie	Ulatowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Ulatowskimi	Ulatowski	subst:pl:inst:m1	nazwisko	
@@ -322,7 +315,6 @@ Uleńko	Uleńka	subst:sg:voc:f	imię
 Ulissesach	Ulisses	subst:pl:loc:m1	imię	
 Ulissesami	Ulisses	subst:pl:inst:m1	imię	
 Ulissesa	Ulisses	subst:sg:gen.acc:m1	imię	
-Ulissesa	Ulisses	subst:sg:gen:m1	imię	
 Ulissesem	Ulisses	subst:sg:inst:m1	imię	
 Ulissesie	Ulisses	subst:sg:loc:m1	imię	
 Ulissesie	Ulisses	subst:sg:voc:m1	imię	
@@ -346,7 +338,6 @@ Ulko	Ulka	subst:sg:voc:f	imię
 Ullmanach	Ullman	subst:pl:loc:m1	nazwisko	
 Ullmanami	Ullman	subst:pl:inst:m1	nazwisko	
 Ullmana	Ullman	subst:sg:gen.acc:m1	nazwisko	
-Ullmana	Ullman	subst:sg:gen:m1	nazwisko	
 Ullmanem	Ullman	subst:sg:inst:m1	nazwisko	
 Ullmanie	Ullman	subst:sg:loc:m1	nazwisko	
 Ullmanie	Ullman	subst:sg:voc:m1	nazwisko	
@@ -359,7 +350,6 @@ Ullmany	Ullman	depr:pl:nom.acc.voc:m2	nazwisko
 Ulrychach	Ulrych	subst:pl:loc:m1	imię	
 Ulrychami	Ulrych	subst:pl:inst:m1	imię	
 Ulrycha	Ulrych	subst:sg:gen.acc:m1	imię	
-Ulrycha	Ulrych	subst:sg:gen:m1	imię	
 Ulrychem	Ulrych	subst:sg:inst:m1	imię	
 Ulrychom	Ulrych	subst:pl:dat:m1	imię	
 Ulrychowie	Ulrych	subst:pl:nom.voc:m1	imię	
@@ -372,7 +362,6 @@ Ulrychy	Ulrych	depr:pl:nom.acc.voc:m2	imię
 Ulrykach	Ulryk	subst:pl:loc:m1	imię	
 Ulrykami	Ulryk	subst:pl:inst:m1	imię	
 Ulryka	Ulryk	subst:sg:gen.acc:m1	imię	
-Ulryka	Ulryk	subst:sg:gen:m1	imię	
 Ulrykiem	Ulryk	subst:sg:inst:m1	imię	
 Ulryki	Ulryk	depr:pl:nom.acc.voc:m2	imię	
 Ulrykom	Ulryk	subst:pl:dat:m1	imię	
@@ -423,7 +412,6 @@ Umbertach	Umberto	subst:pl:loc:m1	imię
 Umbertami	Umberto	subst:pl:inst:m1	imię	
 Umberta	Umberto	depr:pl:nom.acc.voc:m2	imię	
 Umberta	Umberto	subst:sg:gen.acc:m1	imię	
-Umberta	Umberto	subst:sg:gen:m1	imię	
 Umbertem	Umberto	subst:sg:inst:m1	imię	
 Umbertom	Umberto	subst:pl:dat:m1	imię	
 Umberto	Umberto	subst:sg:nom:m1	imię	
@@ -457,7 +445,6 @@ UMCS-y	UMCS	subst:pl:nom.acc.voc:m3	nazwa instytucji
 Umerach	Umer	subst:pl:loc:m1	nazwisko	
 Umerami	Umer	subst:pl:inst:m1	nazwisko	
 Umera	Umer	subst:sg:gen.acc:m1	nazwisko	
-Umera	Umer	subst:sg:gen:m1	nazwisko	
 Umerem	Umer	subst:sg:inst:m1	nazwisko	
 Umerom	Umer	subst:pl:dat:m1	nazwisko	
 Umerowie	Umer	subst:pl:nom.voc:m1	nazwisko	
@@ -487,7 +474,6 @@ Undsecie	Undset	subst:sg:voc:m1	nazwisko
 Undsetach	Undset	subst:pl:loc:m1	nazwisko	
 Undsetami	Undset	subst:pl:inst:m1	nazwisko	
 Undseta	Undset	subst:sg:gen.acc:m1	nazwisko	
-Undseta	Undset	subst:sg:gen:m1	nazwisko	
 Undsetem	Undset	subst:sg:inst:m1	nazwisko	
 Undsetom	Undset	subst:pl:dat:m1	nazwisko	
 Undsetowie	Undset	subst:pl:nom.voc:m1	nazwisko	
@@ -500,7 +486,6 @@ UNESCO	UNESCO	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji
 Unglerach	Ungler	subst:pl:loc:m1	nazwisko	
 Unglerami	Ungler	subst:pl:inst:m1	nazwisko	
 Unglera	Ungler	subst:sg:gen.acc:m1	nazwisko	
-Unglera	Ungler	subst:sg:gen:m1	nazwisko	
 Unglerem	Ungler	subst:sg:inst:m1	nazwisko	
 Unglerom	Ungler	subst:pl:dat:m1	nazwisko	
 Unglerowie	Ungler	subst:pl:nom.voc:m1	nazwisko	
@@ -524,7 +509,6 @@ UNICEF-y	UNICEF	subst:pl:nom.acc.voc:m3	nazwa organizacji
 Uniedrogach	Uniedrog	subst:pl:loc:m1	imię	
 Uniedrogami	Uniedrog	subst:pl:inst:m1	imię	
 Uniedroga	Uniedrog	subst:sg:gen.acc:m1	imię	
-Uniedroga	Uniedrog	subst:sg:gen:m1	imię	
 Uniedrogiem	Uniedrog	subst:sg:inst:m1	imię	
 Uniedrogi	Uniedrog	depr:pl:nom.acc.voc:m2	imię	
 Uniedrogom	Uniedrog	subst:pl:dat:m1	imię	
@@ -537,7 +521,6 @@ Uniedrogu	Uniedrog	subst:sg:voc:m1	imię
 Uniegostach	Uniegost	subst:pl:loc:m1	imię	
 Uniegostami	Uniegost	subst:pl:inst:m1	imię	
 Uniegosta	Uniegost	subst:sg:gen.acc:m1	imię	
-Uniegosta	Uniegost	subst:sg:gen:m1	imię	
 Uniegostem	Uniegost	subst:sg:inst:m1	imię	
 Uniegostom	Uniegost	subst:pl:dat:m1	imię	
 Uniegostowie	Uniegost	subst:pl:nom.voc:m1	imię	
@@ -562,7 +545,6 @@ Uniejów	Uniejów	subst:sg:nom.acc:m3	nazwa geograficzna
 Uniemysłach	Uniemysł	subst:pl:loc:m1	imię	
 Uniemysłami	Uniemysł	subst:pl:inst:m1	imię	
 Uniemysła	Uniemysł	subst:sg:gen.acc:m1	imię	
-Uniemysła	Uniemysł	subst:sg:gen:m1	imię	
 Uniemysłem	Uniemysł	subst:sg:inst:m1	imię	
 Uniemysłom	Uniemysł	subst:pl:dat:m1	imię	
 Uniemysłowie	Uniemysł	subst:pl:nom.voc:m1	imię	
@@ -578,7 +560,6 @@ Uniewici	Uniewit	subst:pl:nom.voc:m1	imię
 Uniewitach	Uniewit	subst:pl:loc:m1	imię	
 Uniewitami	Uniewit	subst:pl:inst:m1	imię	
 Uniewita	Uniewit	subst:sg:gen.acc:m1	imię	
-Uniewita	Uniewit	subst:sg:gen:m1	imię	
 Uniewitem	Uniewit	subst:sg:inst:m1	imię	
 Uniewitom	Uniewit	subst:pl:dat:m1	imię	
 Uniewitowie	Uniewit	subst:pl:nom.voc:m1	imię	
@@ -589,7 +570,6 @@ Uniewity	Uniewit	depr:pl:nom.acc.voc:m2	imię
 Unimirach	Unimir	subst:pl:loc:m1	imię	
 Unimirami	Unimir	subst:pl:inst:m1	imię	
 Unimira	Unimir	subst:sg:gen.acc:m1	imię	
-Unimira	Unimir	subst:sg:gen:m1	imię	
 Unimirem	Unimir	subst:sg:inst:m1	imię	
 Unimirom	Unimir	subst:pl:dat:m1	imię	
 Unimirowie	Unimir	subst:pl:nom.voc:m1	imię	
@@ -603,7 +583,6 @@ Unimirzy	Unimir	subst:pl:nom.voc:m1	imię
 Unisławach	Unisław:s1	subst:pl:loc:m1	imię	
 Unisławami	Unisław:s1	subst:pl:inst:m1	imię	
 Unisława	Unisław:s1	subst:sg:gen.acc:m1	imię	
-Unisława	Unisław:s1	subst:sg:gen:m1	imię	
 Unisławem	Unisław:s1	subst:sg:inst:m1	imię	
 Unisławie	Unisław:s1	subst:sg:loc:m1	imię	
 Unisławie	Unisław:s1	subst:sg:voc:m1	imię	
@@ -642,7 +621,6 @@ Universalu	Universal	subst:sg:voc:m3	nazwa firmy
 Uniksach	Unix	subst:pl:loc:m2	nazwa oprogramowania	komp.
 Uniksami	Unix	subst:pl:inst:m2	nazwa oprogramowania	komp.
 Uniksa	Unix	subst:sg:gen.acc:m2	nazwa oprogramowania	komp.
-Uniksa	Unix	subst:sg:gen:m2	nazwa oprogramowania	komp.
 Uniksem	Unix	subst:sg:inst:m2	nazwa oprogramowania	komp.
 Uniksie	Unix	subst:sg:loc:m2	nazwa oprogramowania	komp.
 Uniksie	Unix	subst:sg:voc:m2	nazwa oprogramowania	komp.
@@ -654,7 +632,6 @@ Unix	Unix	subst:sg:nom:m2	nazwa oprogramowania	komp.
 UNIX-ach	UNIX	subst:pl:loc:m2	nazwa oprogramowania	komp.
 UNIX-ami	UNIX	subst:pl:inst:m2	nazwa oprogramowania	komp.
 UNIX-a	UNIX	subst:sg:gen.acc:m2	nazwa oprogramowania	komp.
-UNIX-a	UNIX	subst:sg:gen:m2	nazwa oprogramowania	komp.
 UNIX-em	UNIX	subst:sg:inst:m2	nazwa oprogramowania	komp.
 UNIX-ie	UNIX	subst:sg:loc:m2	nazwa oprogramowania	komp.
 UNIX-ie	UNIX	subst:sg:voc:m2	nazwa oprogramowania	komp.
@@ -706,7 +683,6 @@ UPA	UPA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji
 Updike’ach	Updike	subst:pl:loc:m1	nazwisko	
 Updike’ami	Updike	subst:pl:inst:m1	nazwisko	
 Updike’a	Updike	subst:sg:gen.acc:m1	nazwisko	
-Updike’a	Updike	subst:sg:gen:m1	nazwisko	
 Updike’om	Updike	subst:pl:dat:m1	nazwisko	
 Updike’owie	Updike	subst:pl:nom.voc:m1	nazwisko	
 Updike’owi	Updike	subst:sg:dat:m1	nazwisko	
@@ -770,7 +746,6 @@ Uralu	Ural	subst:sg:voc:m3	nazwa geograficzna
 Uranach	Uran	subst:pl:loc:m2	nazwa własna astronomiczna	
 Uranami	Uran	subst:pl:inst:m2	nazwa własna astronomiczna	
 Urana	Uran	subst:sg:gen.acc:m2	nazwa własna astronomiczna	
-Urana	Uran	subst:sg:gen:m2	nazwa własna astronomiczna	
 Uranem	Uran	subst:sg:inst:m2	nazwa własna astronomiczna	
 Uranie	Uran	subst:sg:loc:m2	nazwa własna astronomiczna	
 Uranie	Uran	subst:sg:voc:m2	nazwa własna astronomiczna	
@@ -782,7 +757,6 @@ Urany	Uran	subst:pl:nom.acc.voc:m2	nazwa własna astronomiczna
 Uranosach	Uranos	subst:pl:loc:m1	imię	mit.
 Uranosami	Uranos	subst:pl:inst:m1	imię	mit.
 Uranosa	Uranos	subst:sg:gen.acc:m1	imię	mit.
-Uranosa	Uranos	subst:sg:gen:m1	imię	mit.
 Uranosem	Uranos	subst:sg:inst:m1	imię	mit.
 Uranosie	Uranos	subst:sg:loc:m1	imię	mit.
 Uranosie	Uranos	subst:sg:voc:m1	imię	mit.
@@ -795,7 +769,6 @@ Uranosy	Uranos	depr:pl:nom.acc.voc:m2	imię	mit.
 Urbanach	Urban	subst:pl:loc:m1	imię|nazwisko	
 Urbanami	Urban	subst:pl:inst:m1	imię|nazwisko	
 Urbana	Urban	subst:sg:gen.acc:m1	imię|nazwisko	
-Urbana	Urban	subst:sg:gen:m1	imię|nazwisko	
 Urbanem	Urban	subst:sg:inst:m1	imię|nazwisko	
 Urbanie	Urban	subst:sg:loc:m1	imię|nazwisko	
 Urbanie	Urban	subst:sg:voc:m1	imię|nazwisko	
@@ -809,7 +782,6 @@ Urbanek	Urbanek	subst:sg:nom:m1	imię
 Urbankach	Urbanek	subst:pl:loc:m1	imię	
 Urbankami	Urbanek	subst:pl:inst:m1	imię	
 Urbanka	Urbanek	subst:sg:gen.acc:m1	imię	
-Urbanka	Urbanek	subst:sg:gen:m1	imię	
 Urbankiem	Urbanek	subst:sg:inst:m1	imię	
 Urbanki	Urbanek	depr:pl:nom.acc.voc:m2	imię	
 Urbankom	Urbanek	subst:pl:dat:m1	imię	
@@ -821,7 +793,6 @@ Urbanku	Urbanek	subst:sg:voc:m1	imię
 Urbaniakach	Urbaniak	subst:pl:loc:m1	nazwisko	
 Urbaniakami	Urbaniak	subst:pl:inst:m1	nazwisko	
 Urbaniaka	Urbaniak	subst:sg:gen.acc:m1	nazwisko	
-Urbaniaka	Urbaniak	subst:sg:gen:m1	nazwisko	
 Urbaniakiem	Urbaniak	subst:sg:inst:m1	nazwisko	
 Urbaniaki	Urbaniak	depr:pl:nom.acc.voc:m2	nazwisko	
 Urbaniakom	Urbaniak	subst:pl:dat:m1	nazwisko	
@@ -834,7 +805,6 @@ Urbaniaku	Urbaniak	subst:sg:voc:m1	nazwisko
 Urbanikach	Urbanik	subst:pl:loc:m1	nazwisko	
 Urbanikami	Urbanik	subst:pl:inst:m1	nazwisko	
 Urbanika	Urbanik	subst:sg:gen.acc:m1	nazwisko	
-Urbanika	Urbanik	subst:sg:gen:m1	nazwisko	
 Urbanikiem	Urbanik	subst:sg:inst:m1	nazwisko	
 Urbaniki	Urbanik	depr:pl:nom.acc.voc:m2	nazwisko	
 Urbanikom	Urbanik	subst:pl:dat:m1	nazwisko	
@@ -847,7 +817,6 @@ Urbaniku	Urbanik	subst:sg:voc:m1	nazwisko
 Urbanowiczach	Urbanowicz	subst:pl:loc:m1	nazwisko	
 Urbanowiczami	Urbanowicz	subst:pl:inst:m1	nazwisko	
 Urbanowicza	Urbanowicz	subst:sg:gen.acc:m1	nazwisko	
-Urbanowicza	Urbanowicz	subst:sg:gen:m1	nazwisko	
 Urbanowiczem	Urbanowicz	subst:sg:inst:m1	nazwisko	
 Urbanowicze	Urbanowicz	depr:pl:nom.acc.voc:m2	nazwisko	
 Urbanowicze	Urbanowicz	subst:pl:nom.voc:m1	nazwisko	
@@ -873,7 +842,6 @@ Urbanowscy	Urbanowski	subst:pl:nom.voc:m1	nazwisko
 Urbanowskich	Urbanowski	subst:pl:gen.acc:m1	nazwisko	
 Urbanowskich	Urbanowski	subst:pl:loc:m1	nazwisko	
 Urbanowskiego	Urbanowski	subst:sg:gen.acc:m1	nazwisko	
-Urbanowskiego	Urbanowski	subst:sg:gen:m1	nazwisko	
 Urbanowskiemu	Urbanowski	subst:sg:dat:m1	nazwisko	
 Urbanowskie	Urbanowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Urbanowskimi	Urbanowski	subst:pl:inst:m1	nazwisko	
@@ -885,7 +853,6 @@ Urbanowski	Urbanowski	subst:sg:voc:m1	nazwisko
 Urbańczykach	Urbańczyk	subst:pl:loc:m1	nazwisko	
 Urbańczykami	Urbańczyk	subst:pl:inst:m1	nazwisko	
 Urbańczyka	Urbańczyk	subst:sg:gen.acc:m1	nazwisko	
-Urbańczyka	Urbańczyk	subst:sg:gen:m1	nazwisko	
 Urbańczykiem	Urbańczyk	subst:sg:inst:m1	nazwisko	
 Urbańczyki	Urbańczyk	depr:pl:nom.acc.voc:m2	nazwisko	
 Urbańczykom	Urbańczyk	subst:pl:dat:m1	nazwisko	
@@ -910,7 +877,6 @@ Urbańscy	Urbański	subst:pl:nom.voc:m1	nazwisko
 Urbańskich	Urbański	subst:pl:gen.acc:m1	nazwisko	
 Urbańskich	Urbański	subst:pl:loc:m1	nazwisko	
 Urbańskiego	Urbański	subst:sg:gen.acc:m1	nazwisko	
-Urbańskiego	Urbański	subst:sg:gen:m1	nazwisko	
 Urbańskiemu	Urbański	subst:sg:dat:m1	nazwisko	
 Urbańskie	Urbański	depr:pl:nom.acc.voc:m2	nazwisko	
 Urbańskimi	Urbański	subst:pl:inst:m1	nazwisko	
@@ -922,7 +888,6 @@ Urbański	Urbański	subst:sg:voc:m1	nazwisko
 Urbasiach	Urbaś	subst:pl:loc:m1	imię	
 Urbasiami	Urbaś	subst:pl:inst:m1	imię	
 Urbasia	Urbaś	subst:sg:gen.acc:m1	imię	
-Urbasia	Urbaś	subst:sg:gen:m1	imię	
 Urbasiem	Urbaś	subst:sg:inst:m1	imię	
 Urbasie	Urbaś	depr:pl:nom.acc.voc:m2	imię	
 Urbasie	Urbaś	subst:pl:nom.voc:m1	imię	
@@ -936,7 +901,6 @@ Urbaś	Urbaś	subst:sg:nom:m1	imię
 Urich	Uri	subst:pl:gen.acc:m1	imię	
 Urich	Uri	subst:pl:loc:m1	imię	
 Uriego	Uri	subst:sg:gen.acc:m1	imię	
-Uriego	Uri	subst:sg:gen:m1	imię	
 Uriemu	Uri	subst:sg:dat:m1	imię	
 Urie	Uri	depr:pl:nom.acc.voc:m2	imię	
 Urimi	Uri	subst:pl:inst:m1	imię	
@@ -949,7 +913,6 @@ Uri	Uri	subst:sg:voc:m1	imię
 Uriaszach	Uriasz	subst:pl:loc:m1	imię	
 Uriaszami	Uriasz	subst:pl:inst:m1	imię	
 Uriasza	Uriasz	subst:sg:gen.acc:m1	imię	
-Uriasza	Uriasz	subst:sg:gen:m1	imię	
 Uriaszem	Uriasz	subst:sg:inst:m1	imię	
 Uriasze	Uriasz	depr:pl:nom.acc.voc:m2	imię	
 Uriasze	Uriasz	subst:pl:nom.voc:m1	imię	
@@ -963,7 +926,6 @@ Uriaszu	Uriasz	subst:sg:voc:m1	imię
 Urielach	Uriel	subst:pl:loc:m1	imię	
 Urielami	Uriel	subst:pl:inst:m1	imię	
 Uriela	Uriel	subst:sg:gen.acc:m1	imię	
-Uriela	Uriel	subst:sg:gen:m1	imię	
 Urielem	Uriel	subst:sg:inst:m1	imię	
 Uriele	Uriel	depr:pl:nom.acc.voc:m2	imię	
 Uriele	Uriel	subst:pl:nom.voc:m1	imię	
@@ -1010,7 +972,6 @@ Ursusy	Ursus:s1	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Ursusach	Ursus:s2	subst:pl:loc:m1	imię	
 Ursusami	Ursus:s2	subst:pl:inst:m1	imię	
 Ursusa	Ursus:s2	subst:sg:gen.acc:m1	imię	
-Ursusa	Ursus:s2	subst:sg:gen:m1	imię	
 Ursusem	Ursus:s2	subst:sg:inst:m1	imię	
 Ursusie	Ursus:s2	subst:sg:loc:m1	imię	
 Ursusie	Ursus:s2	subst:sg:voc:m1	imię	
@@ -1023,7 +984,6 @@ Ursusy	Ursus:s2	depr:pl:nom.acc.voc:m2	imię
 Ursynach	Ursyn	subst:pl:loc:m1	imię	
 Ursynami	Ursyn	subst:pl:inst:m1	imię	
 Ursyna	Ursyn	subst:sg:gen.acc:m1	imię	
-Ursyna	Ursyn	subst:sg:gen:m1	imię	
 Ursynem	Ursyn	subst:sg:inst:m1	imię	
 Ursynie	Ursyn	subst:sg:loc:m1	imię	
 Ursynie	Ursyn	subst:sg:voc:m1	imię	
@@ -1086,7 +1046,6 @@ Urugwajczycy	Urugwajczyk	subst:pl:nom.voc:m1	nazwa pospolita
 Urugwajczykach	Urugwajczyk	subst:pl:loc:m1	nazwa pospolita	
 Urugwajczykami	Urugwajczyk	subst:pl:inst:m1	nazwa pospolita	
 Urugwajczyka	Urugwajczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Urugwajczyka	Urugwajczyk	subst:sg:gen:m1	nazwa pospolita	
 Urugwajczykiem	Urugwajczyk	subst:sg:inst:m1	nazwa pospolita	
 Urugwajczyki	Urugwajczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Urugwajczykom	Urugwajczyk	subst:pl:dat:m1	nazwa pospolita	
@@ -1237,7 +1196,6 @@ Utrechty	Utrecht	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Utrillach	Utrillo	subst:pl:loc:m1	nazwisko	
 Utrillami	Utrillo	subst:pl:inst:m1	nazwisko	
 Utrilla	Utrillo	subst:sg:gen.acc:m1	nazwisko	
-Utrilla	Utrillo	subst:sg:gen:m1	nazwisko	
 Utrillem	Utrillo	subst:sg:inst:m1	nazwisko	
 Utrille	Utrillo	depr:pl:nom.acc.voc:m2	nazwisko	
 Utrillom	Utrillo	subst:pl:dat:m1	nazwisko	
@@ -1313,7 +1271,6 @@ Uzbecy	Uzbek	subst:pl:nom.voc:m1	nazwa pospolita
 Uzbekach	Uzbek	subst:pl:loc:m1	nazwa pospolita	
 Uzbekami	Uzbek	subst:pl:inst:m1	nazwa pospolita	
 Uzbeka	Uzbek	subst:sg:gen.acc:m1	nazwa pospolita	
-Uzbeka	Uzbek	subst:sg:gen:m1	nazwa pospolita	
 Uzbekiem	Uzbek	subst:sg:inst:m1	nazwa pospolita	
 Uzbeki	Uzbek	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Uzbekom	Uzbek	subst:pl:dat:m1	nazwa pospolita	
@@ -1336,7 +1293,6 @@ Uzbekistany	Uzbekistan	subst:pl:nom.acc.voc:m3	nazwa geograficzna
 Uzjaszach	Uzjasz	subst:pl:loc:m1	imię	
 Uzjaszami	Uzjasz	subst:pl:inst:m1	imię	
 Uzjasza	Uzjasz	subst:sg:gen.acc:m1	imię	
-Uzjasza	Uzjasz	subst:sg:gen:m1	imię	
 Uzjaszem	Uzjasz	subst:sg:inst:m1	imię	
 Uzjasze	Uzjasz	depr:pl:nom.acc.voc:m2	imię	
 Uzjasze	Uzjasz	subst:pl:nom.voc:m1	imię	
