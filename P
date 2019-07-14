@@ -1,4 +1,8 @@
-PLN	nowy polski złoty	brev:npun
+Pwt	Księga_Powtórzonego_Prawa	brev:npun
+Pr	Księga_Przysłów_(Przypowieści_Salomona)	brev:pun
+Prz	Księga_Przysłów_(Przypowieści_Salomona)	brev:npun
+Ps	Księga_Psalmów	brev:npun
+PLN	nowy_polski_złoty	brev:npun
 PA	PA	subst:pl:acc:f	instytucja	
 PA	PA	subst:pl:acc:n2	instytucja	
 PA	PA	subst:pl:dat:f	instytucja	
@@ -5374,6 +5378,7 @@ Pieszycom	Pieszyce	subst:pl:dat:p2	geograficzna	rzad.
 Pieszycom	Pieszyce	subst:pl:dat:p3	geograficzna	
 Pieszyc	Pieszyce	subst:pl:gen:p2	geograficzna	rzad.
 Pieszyc	Pieszyce	subst:pl:gen:p3	geograficzna	
+P.n.P	Pieśń_nad_Pieśniami	brev:pun
 Piecie	Pieta	subst:sg:dat:f	tytuł	
 Piecie	Pieta	subst:sg:loc:f	tytuł	
 Pietach	Pieta	subst:pl:loc:f	tytuł	
@@ -7191,6 +7196,7 @@ Plechanowów	Plechanow	subst:pl:gen:m1	nazwisko
 Plechanow	Plechanow	subst:sg:nom:m1	nazwisko	
 Plechanowy	Plechanow	depr:pl:nom:m2	nazwisko	
 Plechanowy	Plechanow	depr:pl:voc:m2	nazwisko	
+P.T	pleno_titulo	brev:pun
 Pliniuszach	Pliniusz	subst:pl:loc:m1	imię	
 Pliniuszami	Pliniusz	subst:pl:inst:m1	imię	
 Pliniusza	Pliniusz	subst:sg:acc:m1	imię	
@@ -7619,7 +7625,7 @@ Poczobuttów	Poczobutt	subst:pl:gen:m1	nazwisko
 Poczobutt	Poczobutt	subst:sg:nom:m1	nazwisko	
 Poczobutty	Poczobutt	depr:pl:nom:m2	nazwisko	
 Poczobutty	Poczobutt	depr:pl:voc:m2	nazwisko	
-PP	Poczta Polska	brev:npun
+PP	Poczta_Polska	brev:npun
 Podbeskidziach	Podbeskidzie	subst:pl:loc:n2	geograficzna	
 Podbeskidziach	Podbeskidzie	subst:pl:loc:n2	organizacja	
 Podbeskidziami	Podbeskidzie	subst:pl:inst:n2	geograficzna	
@@ -8699,6 +8705,7 @@ Polski	Polska	subst:sg:gen:f	geograficzna
 Polskom	Polska	subst:pl:dat:f	geograficzna	
 Polsko	Polska	subst:sg:voc:f	geograficzna	
 Polsk	Polska	subst:pl:gen:f	geograficzna	
+PL	Polska	brev:npun
 Poluniach	Polunia	subst:pl:loc:f	imię	
 Poluniami	Polunia	subst:pl:inst:f	imię	
 Polunia	Polunia	subst:sg:nom:f	imię	

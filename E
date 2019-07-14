@@ -3692,3 +3692,8 @@ Ezopów	Ezop	subst:pl:acc:m1	imię
 Ezopów	Ezop	subst:pl:gen:m1	imię	
 Ezopy	Ezop	depr:pl:nom:m2	imię	
 Ezopy	Ezop	depr:pl:voc:m2	imię	
+Est	Księga_Estery	brev:npun
+Ezd	Księga_Ezdrasza	brev:npun
+Ez	Księga_Ezechiela	brev:npun
+Eze	Księga_Ezechiela	brev:npun
+Ef	List_do_Efezjan	brev:npun

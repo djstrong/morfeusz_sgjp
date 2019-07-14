@@ -1,4 +1,3 @@
-itp	i tym podobne	brev:pun
 iberoamerykańscy	iberoamerykański	adj:pl:nom.voc:m1.p1:pos		
 iberoamerykańska	iberoamerykański	adj:sg:nom.voc:f:pos		
 iberoamerykańską	iberoamerykański	adj:sg:acc:f:pos		
@@ -161,6 +160,8 @@ iberystyki	iberystyka	subst:pl:voc:f	pospolita
 iberystyki	iberystyka	subst:sg:gen:f	pospolita	
 iberystyko	iberystyka	subst:sg:voc:f	pospolita	
 iberystykom	iberystyka	subst:pl:dat:f	pospolita	
+ib	ibidem	brev:pun
+ibid	ibidem	brev:pun
 ibisach	ibis	subst:pl:loc:m2	pospolita	
 ibisa	ibis	subst:sg:acc:m2	pospolita	
 ibisa	ibis	subst:sg:gen:m2	pospolita	
@@ -8993,6 +8994,7 @@ imielińskości	imielińskość	subst:sg:voc:f
 imielińskościom	imielińskość	subst:pl:dat:f		
 imielińskość	imielińskość	subst:sg:acc:f		
 imielińskość	imielińskość	subst:sg:nom:f		
+im	imienia	brev:pun
 imieniach	imienie	subst:pl:loc:n2	pospolita	daw.
 imienia	imienie	subst:pl:acc:n2	pospolita	daw.
 imienia	imienie	subst:pl:nom:n2	pospolita	daw.
@@ -43222,6 +43224,7 @@ itacyzmu	itacyzm	subst:sg:gen:m3	pospolita
 itacyzmy	itacyzm	subst:pl:acc:m3	pospolita	
 itacyzmy	itacyzm	subst:pl:nom:m3	pospolita	
 itacyzmy	itacyzm	subst:pl:voc:m3	pospolita	
+itd	i_tak_dalej	brev:pun
 italianistach	italianista	subst:pl:loc:m1	pospolita	
 italianista	italianista	subst:sg:nom:m1	pospolita	
 italianistami	italianista	subst:pl:inst:m1	pospolita	
@@ -43926,6 +43929,7 @@ itry	itr	subst:pl:nom:m3	pospolita
 itry	itr	subst:pl:voc:m3	pospolita	
 itrze	itr	subst:sg:loc:m3	pospolita	
 itrze	itr	subst:sg:voc:m3	pospolita	
+itp	i_tym_podobne	brev:pun
 iwach	iwa	subst:pl:loc:f	pospolita	
 iwa	iwa	subst:sg:nom:f	pospolita	
 iwami	iwa	subst:pl:inst:f	pospolita	

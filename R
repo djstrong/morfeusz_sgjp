@@ -1,6 +1,9 @@
 Redistribution and use in source and binary forms, with or without
 Redistributions of source code must retain the above copyright notice,
 Redistributions in binary form must reproduce the above copyright
+Rdz	Księga_Rodzaju	brev:npun
+Rut	Księga_Rut	brev:npun
+Rz	List_do_Rzymian	brev:npun
 Rabach	Raba	subst:pl:loc:f	geograficzna	
 Rabami	Raba	subst:pl:inst:f	geograficzna	
 Raba	Raba	subst:sg:nom:f	geograficzna	
@@ -4198,6 +4201,7 @@ Roksany	Roksana	subst:pl:acc:f	imię
 Roksany	Roksana	subst:pl:nom:f	imię	
 Roksany	Roksana	subst:pl:voc:f	imię	
 Roksany	Roksana	subst:sg:gen:f	imię	
+R.P	Roku_Pańskiego	brev:pun
 Rolach	Rola	subst:pl:loc:m1	nazwisko	
 Rolami	Rola	subst:pl:inst:m1	nazwisko	
 Rola	Rola	subst:sg:nom:m1	nazwisko	

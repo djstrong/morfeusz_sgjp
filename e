@@ -41982,6 +41982,7 @@ etażowym	etażowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 etażowym	etażowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 etażowym	etażowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 etażowymi	etażowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+etc	et_cetera	brev:pun
 etenach	eten	subst:pl:loc:m3	pospolita	
 etenami	eten	subst:pl:inst:m3	pospolita	
 etenem	eten	subst:sg:inst:m3	pospolita	
@@ -47840,6 +47841,7 @@ ewentu	ewent	subst:sg:gen:m3	pospolita
 ewenty	ewent	subst:pl:acc:m3	pospolita	
 ewenty	ewent	subst:pl:nom:m3	pospolita	
 ewenty	ewent	subst:pl:voc:m3	pospolita	
+ew	ewentualnie	brev:pun
 ewentualnie	ewentualnie:d	adv:pos		
 ewentualnie	ewentualnie:j	conj		
 ewentualnościach	ewentualność:s	subst:pl:loc:f	pospolita	

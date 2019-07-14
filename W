@@ -1,5 +1,6 @@
 Woliński, Robert Wołosz, Danuta Skowrońska
 WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+Wj	Księga_Wyjścia	brev:npun
 Wacek	Wacek	subst:sg:nom:m1	imię	
 Wackach	Wacek	subst:pl:loc:m1	imię	
 Wackami	Wacek	subst:pl:inst:m1	imię	
@@ -4040,9 +4041,9 @@ Wielkienoce	Wielkanoc	subst:pl:voc:f	święto	przest.
 Wielkiminocami	Wielkanoc	subst:pl:inst:f	święto	przest.
 Wielkimnocom	Wielkanoc	subst:pl:dat:f	święto	przest.
 Wlk	Wielki	brev:pun
-WXL	Wielkie Księstwo Litewskie	brev:npun
-WXLit	Wielkie Księstwo Litewskie	brev:npun
-W.Ks.Lit	Wielkie Księstwo Litewskie	brev:pun
+WXL	Wielkie_Księstwo_Litewskie	brev:npun
+WXLit	Wielkie_Księstwo_Litewskie	brev:npun
+W.Ks.Lit	Wielkie_Księstwo_Litewskie	brev:pun
 Wielkopolanach	Wielkopolanin	subst:pl:loc:m1	pospolita	
 Wielkopolanami	Wielkopolanin	subst:pl:inst:m1	pospolita	
 Wielkopolanie	Wielkopolanin	subst:pl:nom:m1	pospolita	
@@ -8702,6 +8703,7 @@ Wolsztyn	Wolsztyn	subst:sg:nom:m3	geograficzna
 Wolsztyny	Wolsztyn	subst:pl:acc:m3	geograficzna	
 Wolsztyny	Wolsztyn	subst:pl:nom:m3	geograficzna	
 Wolsztyny	Wolsztyn	subst:pl:voc:m3	geograficzna	
+W	wołacz	brev:pun
 Wołczynach	Wołczyn	subst:pl:loc:m3	geograficzna	
 Wołczynami	Wołczyn	subst:pl:inst:m3	geograficzna	
 Wołczyna	Wołczyn	subst:sg:gen:m3	geograficzna	

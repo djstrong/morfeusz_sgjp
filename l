@@ -31246,8 +31246,8 @@ liczby	liczba	subst:pl:acc:f	pospolita
 liczby	liczba	subst:pl:nom:f	pospolita	
 liczby	liczba	subst:pl:voc:f	pospolita	
 liczby	liczba	subst:sg:gen:f	pospolita	
-lm	liczba mnoga	brev:pun
-lp	liczba pojedyncza	brev:pun
+lm	liczba_mnoga	brev:pun
+lp	liczba_pojedyncza	brev:pun
 liczbonach	liczbon	subst:pl:loc:m3	pospolita	przest.
 liczbonami	liczbon	subst:pl:inst:m3	pospolita	przest.
 liczbonem	liczbon	subst:sg:inst:m3	pospolita	przest.

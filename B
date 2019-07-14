@@ -5992,6 +5992,7 @@ Biernaty	Biernat	depr:pl:nom:m2	imię
 Biernaty	Biernat	depr:pl:nom:m2	nazwisko	
 Biernaty	Biernat	depr:pl:voc:m2	imię	
 Biernaty	Biernat	depr:pl:voc:m2	nazwisko	
+B	biernik	brev:pun
 Bierucie	Bierut	subst:sg:loc:m1	nazwisko	
 Bierucie	Bierut	subst:sg:voc:m1	nazwisko	
 Bieruta	Bierut	subst:sg:acc:m1	nazwisko	
@@ -13519,3 +13520,4 @@ Bzury	Bzura	subst:pl:voc:f	geograficzna
 Bzury	Bzura	subst:sg:gen:f	geograficzna	
 Bzurze	Bzura	subst:sg:dat:f	geograficzna	
 Bzurze	Bzura	subst:sg:loc:f	geograficzna	
+Ba	Księga_Barucha	brev:npun

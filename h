@@ -1,3 +1,4 @@
+h.c	(doktorat)_honoris_causa	brev:pun
 habanerach	habanera	subst:pl:loc:f	pospolita	chor.
 habanera	habanera	subst:sg:nom:f	pospolita	chor.
 habanerami	habanera	subst:pl:inst:f	pospolita	chor.

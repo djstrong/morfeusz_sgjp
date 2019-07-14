@@ -1386,6 +1386,7 @@ Inoziemcewów	Inoziemcew	subst:pl:acc:m1	nazwisko
 Inoziemcewów	Inoziemcew	subst:pl:gen:m1	nazwisko	
 Inoziemcewy	Inoziemcew	depr:pl:nom:m2	nazwisko	
 Inoziemcewy	Inoziemcew	depr:pl:voc:m2	nazwisko	
+I	instrumentalis	brev:pun
 Intelach	Intel	subst:pl:loc:m3	firma	
 Intela	Intel	subst:sg:gen:m3	firma	
 Intelami	Intel	subst:pl:inst:m3	firma	
@@ -3236,3 +3237,4 @@ Izydorków	Izydorek	subst:pl:acc:m1	imię
 Izydorków	Izydorek	subst:pl:gen:m1	imię	
 Izydorku	Izydorek	subst:sg:loc:m1	imię	
 Izydorku	Izydorek	subst:sg:voc:m1	imię	
+Iz	Księga_Izajasza	brev:npun

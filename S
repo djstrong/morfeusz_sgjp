@@ -1,4 +1,8 @@
 SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+Sdz	Księga_Sędziów	brev:npun
+So	Księga_Sofoniasza	brev:npun
+Sof	Księga_Sofoniasza	brev:npun
+Syr	Księga_Syracha	brev:npun
 SA	SA	subst:pl:acc:f	pospolita	
 SA	SA	subst:pl:acc:n2	pospolita	
 SA	SA	subst:pl:dat:f	pospolita	
@@ -10583,7 +10587,7 @@ Starze	Starr	subst:sg:loc:m1	nazwisko
 Starze	Starr	subst:sg:loc:m1	pseudonim	
 Starze	Starr	subst:sg:voc:m1	nazwisko	
 Starze	Starr	subst:sg:voc:m1	pseudonim	
-ST	Stary Testament	brev:npun
+ST	Stary_Testament	brev:npun
 Starzyńska	Starzyńska	subst:sg:nom:f	nazwisko	
 Starzyńska	Starzyńska	subst:sg:voc:f	nazwisko	
 Starzyńską	Starzyńska	subst:sg:acc:f	nazwisko	
@@ -15955,7 +15959,7 @@ Szkocji	Szkocja	subst:sg:loc:f	geograficzna
 Szkocjom	Szkocja	subst:pl:dat:f	geograficzna	
 Szkocjo	Szkocja	subst:sg:voc:f	geograficzna	
 Szkocyj	Szkocja	subst:pl:gen:f	geograficzna	arch.|char.
-SP	Szkoła Podstawowa	brev:npun
+SP	Szkoła_Podstawowa	brev:npun
 Szkocie	Szkot	subst:sg:loc:m1	pospolita	
 Szkocie	Szkot	subst:sg:voc:m1	pospolita	
 Szkoci	Szkot	subst:pl:nom:m1	pospolita	

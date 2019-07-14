@@ -3199,8 +3199,8 @@ Jaślisk	Jaśliska	subst:pl:gen:p2	geograficzna
 Jaślisk	Jaśliska	subst:pl:gen:p3	geograficzna	
 Jaśliskom	Jaśliska	subst:pl:dat:p2	geograficzna	
 Jaśliskom	Jaśliska	subst:pl:dat:p3	geograficzna	
-JWP	Jaśnie Wielmożny Pan	brev:npun
-JWP	Jaśnie Wielmożna Pani	brev:npun
+JWP	Jaśnie_Wielmożna_Pani	brev:npun
+JWP	Jaśnie_Wielmożny_Pan	brev:npun
 Javach	Java	subst:pl:loc:f	język_programowania	komp.
 Java	Java	subst:pl:acc:f	język_programowania	komp.
 Java	Java	subst:pl:dat:f	język_programowania	komp.
@@ -6369,3 +6369,10 @@ Jutlandii	Jutlandia	subst:sg:loc:f	geograficzna
 Jutlandio	Jutlandia	subst:sg:voc:f	geograficzna	
 Jutlandiom	Jutlandia	subst:pl:dat:f	geograficzna	
 Jutlandyj	Jutlandia	subst:pl:gen:f	geograficzna	arch.|char.
+Jr	Księga_Jeremiasza	brev:npun
+Jer	Księga_Jeremiasza	brev:pun
+Job	Księga_Joba	brev:npun
+Jl	Księga_Joela	brev:npun
+Jon	Księga_Jonasza	brev:npun
+Joz	Księga_Jozuego	brev:pun
+Jdt	Księga_Judyty	brev:npun

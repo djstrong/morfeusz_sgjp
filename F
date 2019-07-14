@@ -3968,3 +3968,5 @@ Furii	Furia	subst:sg:loc:f	imię	mit.
 Furio	Furia	subst:sg:voc:f	imię	mit.
 Furiom	Furia	subst:pl:dat:f	imię	mit.
 Furyj	Furia	subst:pl:gen:f	imię	arch.|char.|mit.
+Flm	List_do_Filemona	brev:npun
+Flp	List_do_Filipian	brev:npun

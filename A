@@ -555,6 +555,7 @@ AC	AC	subst:sg:inst:n2	pospolita
 AC	AC	subst:sg:loc:n2	pospolita	
 AC	AC	subst:sg:nom:n2	pospolita	
 AC	AC	subst:sg:voc:n2	pospolita	
+A	accusativus	brev:pun
 Achacjusza	Achacjusz	subst:sg:acc:m1	imię	
 Achacjusza	Achacjusz	subst:sg:gen:m1	imię	
 Achacjuszach	Achacjusz	subst:pl:loc:m1	imię	
@@ -5556,6 +5557,7 @@ Annaszów	Annasz	subst:pl:acc:m1	imię	bibl.
 Annaszów	Annasz	subst:pl:gen:m1	imię	bibl.
 Annaszu	Annasz	subst:sg:loc:m1	imię	bibl.
 Annaszu	Annasz	subst:sg:voc:m1	imię	bibl.
+A.D	Anno_Domini	brev:pun
 Annopola	Annopol	subst:sg:gen:m3	geograficzna	
 Annopolach	Annopol	subst:pl:loc:m3	geograficzna	
 Annopolami	Annopol	subst:pl:inst:m3	geograficzna	
@@ -9157,3 +9159,6 @@ Ażim	Ażi	subst:pl:dat:m2	imię	mit.
 Ażim	Ażi	subst:sg:inst:m2	imię	mit.
 Ażim	Ażi	subst:sg:loc:m2	imię	mit.
 Ażimi	Ażi	subst:pl:inst:m2	imię	mit.
+Ab	Księga_Abdiasza	brev:npun
+Ag	Księga_Aggeusza	brev:npun
+Am	Księga_Amosa	brev:npun

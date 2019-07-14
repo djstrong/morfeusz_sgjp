@@ -1463,6 +1463,7 @@ Cellinim	Cellini	subst:sg:loc:m1	nazwisko
 Cellinimi	Cellini	subst:pl:inst:m1	nazwisko	
 Celliniowie	Cellini	subst:pl:nom:m1	nazwisko	
 Celliniowie	Cellini	subst:pl:voc:m1	nazwisko	
+C	celownik	brev:pun
 Celsjusza	Celsjusz	subst:sg:acc:m1	nazwisko	
 Celsjusza	Celsjusz	subst:sg:gen:m1	nazwisko	
 Celsjuszach	Celsjusz	subst:pl:loc:m1	nazwisko	

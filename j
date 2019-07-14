@@ -4396,6 +4396,7 @@ jakuzzi	jakuzzi	subst:sg:inst:n2	pospolita
 jakuzzi	jakuzzi	subst:sg:loc:n2	pospolita	
 jakuzzi	jakuzzi	subst:sg:nom:n2	pospolita	
 jakuzzi	jakuzzi	subst:sg:voc:n2	pospolita	
+jw	jak_wyżej	brev:pun
 jakże	jakże	adv		
 jakżeby	jakżeby	adv		
 jakżeż	jakżeż	qub		
