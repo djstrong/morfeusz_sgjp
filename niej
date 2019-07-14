@@ -517,6 +517,47 @@ niejarzeniem	jarzyć:v1	ger:sg:inst:n:imperf:neg
 niejarzeniom	jarzyć:v1	ger:pl:dat:n:imperf:neg		
 niejarzeniu	jarzyć:v1	ger:sg:dat.loc:n:imperf:neg		
 niejarzeń	jarzyć:v1	ger:pl:gen:n:imperf:neg		
+niejarząca	jarzyć:v2	pact:sg:nom.voc:f:imperf:neg		pot.
+niejarzącą	jarzyć:v2	pact:sg:acc.inst:f:imperf:neg		pot.
+niejarzącego	jarzyć:v2	pact:sg:acc:m1.m2:imperf:neg		pot.
+niejarzącego	jarzyć:v2	pact:sg:gen:m1.m2.m3.n:imperf:neg		pot.
+niejarzące	jarzyć:v2	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		pot.
+niejarzące	jarzyć:v2	pact:sg:nom.acc.voc:n:imperf:neg		pot.
+niejarzącej	jarzyć:v2	pact:sg:gen.dat.loc:f:imperf:neg		pot.
+niejarzącemu	jarzyć:v2	pact:sg:dat:m1.m2.m3.n:imperf:neg		pot.
+niejarzących	jarzyć:v2	pact:pl:acc:m1:imperf:neg		pot.
+niejarzących	jarzyć:v2	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
+niejarzący	jarzyć:v2	pact:pl:nom.voc:m1:imperf:neg		pot.
+niejarzący	jarzyć:v2	pact:sg:acc:m3:imperf:neg		pot.
+niejarzący	jarzyć:v2	pact:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
+niejarzącymi	jarzyć:v2	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		pot.
+niejarzącym	jarzyć:v2	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		pot.
+niejarzącym	jarzyć:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		pot.
+niejarzeniach	jarzyć:v2	ger:pl:loc:n:imperf:neg		pot.
+niejarzenia	jarzyć:v2	ger:pl:nom.acc:n:imperf:neg		pot.
+niejarzenia	jarzyć:v2	ger:sg:gen:n:imperf:neg		pot.
+niejarzeniami	jarzyć:v2	ger:pl:inst:n:imperf:neg		pot.
+niejarzenie	jarzyć:v2	ger:sg:nom.acc:n:imperf:neg		pot.
+niejarzeniem	jarzyć:v2	ger:sg:inst:n:imperf:neg		pot.
+niejarzeniom	jarzyć:v2	ger:pl:dat:n:imperf:neg		pot.
+niejarzeniu	jarzyć:v2	ger:sg:dat.loc:n:imperf:neg		pot.
+niejarzeń	jarzyć:v2	ger:pl:gen:n:imperf:neg		pot.
+niejarzona	jarzyć:v2	ppas:sg:nom.voc:f:imperf:neg		pot.
+niejarzoną	jarzyć:v2	ppas:sg:acc.inst:f:imperf:neg		pot.
+niejarzonego	jarzyć:v2	ppas:sg:acc:m1.m2:imperf:neg		pot.
+niejarzonego	jarzyć:v2	ppas:sg:gen:m1.m2.m3.n:imperf:neg		pot.
+niejarzone	jarzyć:v2	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		pot.
+niejarzone	jarzyć:v2	ppas:sg:nom.acc.voc:n:imperf:neg		pot.
+niejarzonej	jarzyć:v2	ppas:sg:gen.dat.loc:f:imperf:neg		pot.
+niejarzonemu	jarzyć:v2	ppas:sg:dat:m1.m2.m3.n:imperf:neg		pot.
+niejarzoni	jarzyć:v2	ppas:pl:nom.voc:m1:imperf:neg		pot.
+niejarzonych	jarzyć:v2	ppas:pl:acc:m1:imperf:neg		pot.
+niejarzonych	jarzyć:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
+niejarzony	jarzyć:v2	ppas:sg:acc:m3:imperf:neg		pot.
+niejarzony	jarzyć:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
+niejarzonymi	jarzyć:v2	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		pot.
+niejarzonym	jarzyć:v2	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		pot.
+niejarzonym	jarzyć:v2	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		pot.
 niejaskrawiąca	jaskrawić	pact:sg:nom.voc:f:imperf:neg		
 niejaskrawiącą	jaskrawić	pact:sg:acc.inst:f:imperf:neg		
 niejaskrawiącego	jaskrawić	pact:sg:acc:m1.m2:imperf:neg		

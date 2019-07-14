@@ -7666,44 +7666,6 @@ nieikonowym	nieikonowy	adj:sg:inst:m1.m2.m3.n:pos
 nieikonowym	nieikonowy	adj:sg:loc:m1.m2.m3.n:pos		
 nieikonowy	nieikonowy	adj:sg:acc:m3:pos		
 nieikonowy	nieikonowy	adj:sg:nom.voc:m1.m2.m3:pos		
-nieiksińscy	nieiksiński	adj:pl:nom.voc:m1:pos		
-nieiksińska	nieiksiński	adj:sg:nom.voc:f:pos		
-nieiksińską	nieiksiński	adj:sg:acc:f:pos		
-nieiksińską	nieiksiński	adj:sg:inst:f:pos		
-nieiksińskich	nieiksiński	adj:pl:acc:m1:pos		
-nieiksińskich	nieiksiński	adj:pl:gen:m1.m2.m3.f.n:pos		
-nieiksińskich	nieiksiński	adj:pl:loc:m1.m2.m3.f.n:pos		
-nieiksińskiego	nieiksiński	adj:sg:acc:m1.m2:pos		
-nieiksińskiego	nieiksiński	adj:sg:gen:m1.m2.m3.n:pos		
-nieiksińskiej	nieiksiński	adj:sg:dat:f:pos		
-nieiksińskiej	nieiksiński	adj:sg:gen:f:pos		
-nieiksińskiej	nieiksiński	adj:sg:loc:f:pos		
-nieiksińskiemu	nieiksiński	adj:sg:dat:m1.m2.m3.n:pos		
-nieiksińskie	nieiksiński	adj:pl:acc:m2.m3.f.n:pos		
-nieiksińskie	nieiksiński	adj:pl:nom.voc:m2.m3.f.n:pos		
-nieiksińskie	nieiksiński	adj:sg:acc:n:pos		
-nieiksińskie	nieiksiński	adj:sg:nom.voc:n:pos		
-nieiksińskimi	nieiksiński	adj:pl:inst:m1.m2.m3.f.n:pos		
-nieiksińskim	nieiksiński	adj:pl:dat:m1.m2.m3.f.n:pos		
-nieiksińskim	nieiksiński	adj:sg:inst:m1.m2.m3.n:pos		
-nieiksińskim	nieiksiński	adj:sg:loc:m1.m2.m3.n:pos		
-nieiksiński	nieiksiński	adj:sg:acc:m3:pos		
-nieiksiński	nieiksiński	adj:sg:nom.voc:m1.m2.m3:pos		
-nieiksińsko	nieiksińsko	adv:pos		
-nieiksińskościach	nieiksińskość	subst:pl:loc:f	nazwa pospolita	
-nieiksińskościami	nieiksińskość	subst:pl:inst:f	nazwa pospolita	
-nieiksińskością	nieiksińskość	subst:sg:inst:f	nazwa pospolita	
-nieiksińskości	nieiksińskość	subst:pl:acc:f	nazwa pospolita	
-nieiksińskości	nieiksińskość	subst:pl:gen:f	nazwa pospolita	
-nieiksińskości	nieiksińskość	subst:pl:nom:f	nazwa pospolita	
-nieiksińskości	nieiksińskość	subst:pl:voc:f	nazwa pospolita	
-nieiksińskości	nieiksińskość	subst:sg:dat:f	nazwa pospolita	
-nieiksińskości	nieiksińskość	subst:sg:gen:f	nazwa pospolita	
-nieiksińskości	nieiksińskość	subst:sg:loc:f	nazwa pospolita	
-nieiksińskości	nieiksińskość	subst:sg:voc:f	nazwa pospolita	
-nieiksińskościom	nieiksińskość	subst:pl:dat:f	nazwa pospolita	
-nieiksińskość	nieiksińskość	subst:sg:acc:f	nazwa pospolita	
-nieiksińskość	nieiksińskość	subst:sg:nom:f	nazwa pospolita	
 nieiksowatościach	nieiksowatość	subst:pl:loc:f	nazwa pospolita	
 nieiksowatościami	nieiksowatość	subst:pl:inst:f	nazwa pospolita	
 nieiksowatością	nieiksowatość	subst:sg:inst:f	nazwa pospolita	
@@ -10681,7 +10643,7 @@ nieimperialnym	nieimperialny	adj:sg:inst:m1.m2.m3.n:pos
 nieimperialnym	nieimperialny	adj:sg:loc:m1.m2.m3.n:pos		
 nieimperialny	nieimperialny	adj:sg:acc:m3:pos		
 nieimperialny	nieimperialny	adj:sg:nom.voc:m1.m2.m3:pos		
-nieimpersonalno	nieimpersonalno	adv:pos		
+nieimpersonalnie	nieimpersonalnie	adv:pos		
 nieimpersonalnościach	nieimpersonalność	subst:pl:loc:f	nazwa pospolita	
 nieimpersonalnościami	nieimpersonalność	subst:pl:inst:f	nazwa pospolita	
 nieimpersonalnością	nieimpersonalność	subst:sg:inst:f	nazwa pospolita	
@@ -13112,6 +13074,7 @@ nieinercyjnym	nieinercyjny	adj:sg:inst:m1.m2.m3.n:pos
 nieinercyjnym	nieinercyjny	adj:sg:loc:m1.m2.m3.n:pos		
 nieinercyjny	nieinercyjny	adj:sg:acc:m3:pos		
 nieinercyjny	nieinercyjny	adj:sg:nom.voc:m1.m2.m3:pos		
+nieinfanteryjnie	nieinfanteryjnie	adv:pos		
 nieinfanteryjnościach	nieinfanteryjność	subst:pl:loc:f	nazwa pospolita	
 nieinfanteryjnościami	nieinfanteryjność	subst:pl:inst:f	nazwa pospolita	
 nieinfanteryjnością	nieinfanteryjność	subst:sg:inst:f	nazwa pospolita	

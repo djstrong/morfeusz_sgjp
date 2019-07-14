@@ -438,6 +438,7 @@ hackerskim	hackerski	adj:sg:loc:m1.m2.m3.n:pos
 hackerskimi	hackerski	adj:pl:inst:m1.m2.m3.f.n:pos		
 hackersko	hackerski	adja		
 hackersku	hackerski	adjp		
+hackersko	hackersko	adv:pos		
 hackerskościach	hackerskość	subst:pl:loc:f	nazwa pospolita	
 hackerskościami	hackerskość	subst:pl:inst:f	nazwa pospolita	
 hackerskością	hackerskość	subst:sg:inst:f	nazwa pospolita	

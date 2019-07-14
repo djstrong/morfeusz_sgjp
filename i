@@ -5431,46 +5431,37 @@ ikrzysko	ikrzysko	subst:sg:voc:n:ncol	nazwa pospolita
 ikrzyskom	ikrzysko	subst:pl:dat:n:ncol	nazwa pospolita	
 ikrzysku	ikrzysko	subst:sg:dat:n:ncol	nazwa pospolita	
 ikrzysku	ikrzysko	subst:sg:loc:n:ncol	nazwa pospolita	
-iksińscy	iksiński	adj:pl:nom.voc:m1:pos		
-iksińska	iksiński	adj:sg:nom.voc:f:pos		
-iksińską	iksiński	adj:sg:acc:f:pos		
-iksińską	iksiński	adj:sg:inst:f:pos		
-iksińskich	iksiński	adj:pl:acc:m1:pos		
-iksińskich	iksiński	adj:pl:gen:m1.m2.m3.f.n:pos		
-iksińskich	iksiński	adj:pl:loc:m1.m2.m3.f.n:pos		
-iksińskiego	iksiński	adj:sg:acc:m1.m2:pos		
-iksińskiego	iksiński	adj:sg:gen:m1.m2.m3.n:pos		
-iksińskie	iksiński	adj:pl:acc:m2.m3.f.n:pos		
-iksińskie	iksiński	adj:pl:nom.voc:m2.m3.f.n:pos		
-iksińskie	iksiński	adj:sg:acc:n:pos		
-iksińskie	iksiński	adj:sg:nom.voc:n:pos		
-iksińskiej	iksiński	adj:sg:dat:f:pos		
-iksińskiej	iksiński	adj:sg:gen:f:pos		
-iksińskiej	iksiński	adj:sg:loc:f:pos		
-iksińskiemu	iksiński	adj:sg:dat:m1.m2.m3.n:pos		
-iksiński	iksiński	adj:sg:acc:m3:pos		
-iksiński	iksiński	adj:sg:nom.voc:m1.m2.m3:pos		
-iksińskimi	iksiński	adj:pl:inst:m1.m2.m3.f.n:pos		
-iksińskim	iksiński	adj:pl:dat:m1.m2.m3.f.n:pos		
-iksińskim	iksiński	adj:sg:inst:m1.m2.m3.n:pos		
-iksińskim	iksiński	adj:sg:loc:m1.m2.m3.n:pos		
-iksińsko	iksiński	adja		
-iksińsku	iksiński	adjp		
-iksińsko	iksińsko	adv:pos		
-iksińskościach	iksińskość	subst:pl:loc:f	nazwa pospolita	
-iksińskościami	iksińskość	subst:pl:inst:f	nazwa pospolita	
-iksińskością	iksińskość	subst:sg:inst:f	nazwa pospolita	
-iksińskości	iksińskość	subst:pl:acc:f	nazwa pospolita	
-iksińskości	iksińskość	subst:pl:gen:f	nazwa pospolita	
-iksińskości	iksińskość	subst:pl:nom:f	nazwa pospolita	
-iksińskości	iksińskość	subst:pl:voc:f	nazwa pospolita	
-iksińskości	iksińskość	subst:sg:dat:f	nazwa pospolita	
-iksińskości	iksińskość	subst:sg:gen:f	nazwa pospolita	
-iksińskości	iksińskość	subst:sg:loc:f	nazwa pospolita	
-iksińskości	iksińskość	subst:sg:voc:f	nazwa pospolita	
-iksińskościom	iksińskość	subst:pl:dat:f	nazwa pospolita	
-iksińskość	iksińskość	subst:sg:acc:f	nazwa pospolita	
-iksińskość	iksińskość	subst:sg:nom:f	nazwa pospolita	
+iksińska	iksińska	subst:sg:nom:f	nazwa pospolita	
+iksińska	iksińska	subst:sg:voc:f	nazwa pospolita	
+iksińską	iksińska	subst:sg:acc:f	nazwa pospolita	
+iksińską	iksińska	subst:sg:inst:f	nazwa pospolita	
+iksińskich	iksińska	subst:pl:gen:f	nazwa pospolita	
+iksińskich	iksińska	subst:pl:loc:f	nazwa pospolita	
+iksińskie	iksińska	subst:pl:acc:f	nazwa pospolita	
+iksińskie	iksińska	subst:pl:nom:f	nazwa pospolita	
+iksińskie	iksińska	subst:pl:voc:f	nazwa pospolita	
+iksińskiej	iksińska	subst:sg:dat:f	nazwa pospolita	
+iksińskiej	iksińska	subst:sg:gen:f	nazwa pospolita	
+iksińskiej	iksińska	subst:sg:loc:f	nazwa pospolita	
+iksińskimi	iksińska	subst:pl:inst:f	nazwa pospolita	
+iksińskim	iksińska	subst:pl:dat:f	nazwa pospolita	
+iksińscy	iksiński	subst:pl:nom:m1	nazwa pospolita	
+iksińscy	iksiński	subst:pl:voc:m1	nazwa pospolita	
+iksińskich	iksiński	subst:pl:acc:m1	nazwa pospolita	
+iksińskich	iksiński	subst:pl:gen:m1	nazwa pospolita	
+iksińskich	iksiński	subst:pl:loc:m1	nazwa pospolita	
+iksińskiego	iksiński	subst:sg:acc:m1	nazwa pospolita	
+iksińskiego	iksiński	subst:sg:gen:m1	nazwa pospolita	
+iksińskie	iksiński	depr:pl:acc:m2	nazwa pospolita	
+iksińskie	iksiński	depr:pl:nom:m2	nazwa pospolita	
+iksińskie	iksiński	depr:pl:voc:m2	nazwa pospolita	
+iksińskiemu	iksiński	subst:sg:dat:m1	nazwa pospolita	
+iksiński	iksiński	subst:sg:nom:m1	nazwa pospolita	
+iksiński	iksiński	subst:sg:voc:m1	nazwa pospolita	
+iksińskimi	iksiński	subst:pl:inst:m1	nazwa pospolita	
+iksińskim	iksiński	subst:pl:dat:m1	nazwa pospolita	
+iksińskim	iksiński	subst:sg:inst:m1	nazwa pospolita	
+iksińskim	iksiński	subst:sg:loc:m1	nazwa pospolita	
 iksjach	iksja	subst:pl:loc:f	nazwa pospolita	
 iksja	iksja	subst:sg:nom:f	nazwa pospolita	
 iksjami	iksja	subst:pl:inst:f	nazwa pospolita	
@@ -12007,7 +11998,7 @@ imperium	imperium	subst:sg:inst:n:ncol	nazwa pospolita
 imperium	imperium	subst:sg:loc:n:ncol	nazwa pospolita	
 imperium	imperium	subst:sg:nom:n:ncol	nazwa pospolita	
 imperium	imperium	subst:sg:voc:n:ncol	nazwa pospolita	
-impersonalno	impersonalno	adv:pos		
+impersonalnie	impersonalnie	adv:pos		
 impersonalnościach	impersonalność	subst:pl:loc:f	nazwa pospolita	
 impersonalnościami	impersonalność	subst:pl:inst:f	nazwa pospolita	
 impersonalnością	impersonalność	subst:sg:inst:f	nazwa pospolita	
@@ -19137,6 +19128,7 @@ infanterii	infanteria	subst:sg:loc:f	nazwa pospolita	daw.
 infanterio	infanteria	subst:sg:voc:f	nazwa pospolita	daw.
 infanteriom	infanteria	subst:pl:dat:f	nazwa pospolita	daw.
 infanteryj	infanteria	subst:pl:gen:f	nazwa pospolita	arch.|char.|daw.
+infanteryjnie	infanteryjnie	adv:pos		
 infanteryjnościach	infanteryjność	subst:pl:loc:f	nazwa pospolita	daw.
 infanteryjnościami	infanteryjność	subst:pl:inst:f	nazwa pospolita	daw.
 infanteryjnością	infanteryjność	subst:sg:inst:f	nazwa pospolita	daw.

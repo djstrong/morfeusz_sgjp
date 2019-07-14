@@ -543,37 +543,6 @@ IKE-i	IKEA	subst:sg:gen:f	nazwa firmy
 IKE-i	IKEA	subst:sg:loc:f	nazwa firmy	
 IKE-o	IKEA	subst:sg:voc:f	nazwa firmy	
 IKE-om	IKEA	subst:pl:dat:f	nazwa firmy	
-Iksińska	Iksińska	subst:sg:nom:f	nazwisko	
-Iksińska	Iksińska	subst:sg:voc:f	nazwisko	
-Iksińską	Iksińska	subst:sg:acc:f	nazwisko	
-Iksińską	Iksińska	subst:sg:inst:f	nazwisko	
-Iksińskich	Iksińska	subst:pl:gen:f	nazwisko	
-Iksińskich	Iksińska	subst:pl:loc:f	nazwisko	
-Iksińskie	Iksińska	subst:pl:acc:f	nazwisko	
-Iksińskie	Iksińska	subst:pl:nom:f	nazwisko	
-Iksińskie	Iksińska	subst:pl:voc:f	nazwisko	
-Iksińskiej	Iksińska	subst:sg:dat:f	nazwisko	
-Iksińskiej	Iksińska	subst:sg:gen:f	nazwisko	
-Iksińskiej	Iksińska	subst:sg:loc:f	nazwisko	
-Iksińskimi	Iksińska	subst:pl:inst:f	nazwisko	
-Iksińskim	Iksińska	subst:pl:dat:f	nazwisko	
-Iksińscy	Iksiński	subst:pl:nom:m1	nazwisko	
-Iksińscy	Iksiński	subst:pl:voc:m1	nazwisko	
-Iksińskich	Iksiński	subst:pl:acc:m1	nazwisko	
-Iksińskich	Iksiński	subst:pl:gen:m1	nazwisko	
-Iksińskich	Iksiński	subst:pl:loc:m1	nazwisko	
-Iksińskiego	Iksiński	subst:sg:acc:m1	nazwisko	
-Iksińskiego	Iksiński	subst:sg:gen:m1	nazwisko	
-Iksińskie	Iksiński	depr:pl:acc:m2	nazwisko	
-Iksińskie	Iksiński	depr:pl:nom:m2	nazwisko	
-Iksińskie	Iksiński	depr:pl:voc:m2	nazwisko	
-Iksińskiemu	Iksiński	subst:sg:dat:m1	nazwisko	
-Iksiński	Iksiński	subst:sg:nom:m1	nazwisko	
-Iksiński	Iksiński	subst:sg:voc:m1	nazwisko	
-Iksińskimi	Iksiński	subst:pl:inst:m1	nazwisko	
-Iksińskim	Iksiński	subst:pl:dat:m1	nazwisko	
-Iksińskim	Iksiński	subst:sg:inst:m1	nazwisko	
-Iksińskim	Iksiński	subst:sg:loc:m1	nazwisko	
 Ildefonsach	Ildefons	subst:pl:loc:m1	imię	
 Ildefonsa	Ildefons	subst:sg:acc:m1	imię	
 Ildefonsa	Ildefons	subst:sg:gen:m1	imię	

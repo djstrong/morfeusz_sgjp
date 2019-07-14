@@ -12308,6 +12308,7 @@ farmeryzacji	farmeryzacja	subst:sg:loc:f	nazwa pospolita
 farmeryzacjo	farmeryzacja	subst:sg:voc:f	nazwa pospolita	
 farmeryzacjom	farmeryzacja	subst:pl:dat:f	nazwa pospolita	
 farmeryzacyj	farmeryzacja	subst:pl:gen:f	nazwa pospolita	arch.|char.
+farnie	farnie	adv:pos		
 farnościach	farność	subst:pl:loc:f	nazwa pospolita	
 farnościami	farność	subst:pl:inst:f	nazwa pospolita	
 farnością	farność	subst:sg:inst:f	nazwa pospolita	
@@ -65337,21 +65338,21 @@ fulgurytu	fulguryt	subst:sg:gen:m3	nazwa pospolita
 fulguryty	fulguryt	subst:pl:acc:m3	nazwa pospolita	
 fulguryty	fulguryt	subst:pl:nom:m3	nazwa pospolita	
 fulguryty	fulguryt	subst:pl:voc:m3	nazwa pospolita	
-fullach	full	subst:pl:loc:m2	nazwa pospolita	
-fulla	full	subst:sg:acc:m2	nazwa pospolita	
-fulla	full	subst:sg:gen:m2	nazwa pospolita	
-fullami	full	subst:pl:inst:m2	nazwa pospolita	
-fulle	full	subst:pl:acc:m2	nazwa pospolita	
-fulle	full	subst:pl:nom:m2	nazwa pospolita	
-fulle	full	subst:pl:voc:m2	nazwa pospolita	
-fullem	full	subst:sg:inst:m2	nazwa pospolita	
-full	full	subst:sg:nom:m2	nazwa pospolita	
-fulli	full	subst:pl:gen:m2	nazwa pospolita	
-fullom	full	subst:pl:dat:m2	nazwa pospolita	
-fullowi	full	subst:sg:dat:m2	nazwa pospolita	
-fullów	full	subst:pl:gen:m2	nazwa pospolita	
-fullu	full	subst:sg:loc:m2	nazwa pospolita	
-fullu	full	subst:sg:voc:m2	nazwa pospolita	
+fullach	full	subst:pl:loc:m2	nazwa pospolita	karc.
+fulla	full	subst:sg:acc:m2	nazwa pospolita	karc.
+fulla	full	subst:sg:gen:m2	nazwa pospolita	karc.
+fullami	full	subst:pl:inst:m2	nazwa pospolita	karc.
+fulle	full	subst:pl:acc:m2	nazwa pospolita	karc.
+fulle	full	subst:pl:nom:m2	nazwa pospolita	karc.
+fulle	full	subst:pl:voc:m2	nazwa pospolita	karc.
+fullem	full	subst:sg:inst:m2	nazwa pospolita	karc.
+full	full	subst:sg:nom:m2	nazwa pospolita	karc.
+fulli	full	subst:pl:gen:m2	nazwa pospolita	karc.
+fullom	full	subst:pl:dat:m2	nazwa pospolita	karc.
+fullowi	full	subst:sg:dat:m2	nazwa pospolita	karc.
+fullów	full	subst:pl:gen:m2	nazwa pospolita	karc.
+fullu	full	subst:sg:loc:m2	nazwa pospolita	karc.
+fullu	full	subst:sg:voc:m2	nazwa pospolita	karc.
 full-contact	full-contact	subst:pl:acc:m3	nazwa pospolita	
 full-contact	full-contact	subst:pl:dat:m3	nazwa pospolita	
 full-contact	full-contact	subst:pl:gen:m3	nazwa pospolita	
@@ -65467,21 +65468,21 @@ fulminujesz	fulminować	fin:sg:sec:imperf		daw.
 fulminuję	fulminować	fin:sg:pri:imperf		daw.
 fulminuj	fulminować	impt:sg:sec:imperf		daw.
 fulminujmy	fulminować	impt:pl:pri:imperf		daw.
-fulach	ful:s	subst:pl:loc:m2	nazwa pospolita	
-fula	ful:s	subst:sg:acc:m2	nazwa pospolita	
-fula	ful:s	subst:sg:gen:m2	nazwa pospolita	
-fulami	ful:s	subst:pl:inst:m2	nazwa pospolita	
-fule	ful:s	subst:pl:acc:m2	nazwa pospolita	
-fule	ful:s	subst:pl:nom:m2	nazwa pospolita	
-fule	ful:s	subst:pl:voc:m2	nazwa pospolita	
-fulem	ful:s	subst:sg:inst:m2	nazwa pospolita	
-ful	ful:s	subst:sg:nom:m2	nazwa pospolita	
-fuli	ful:s	subst:pl:gen:m2	nazwa pospolita	
-fulom	ful:s	subst:pl:dat:m2	nazwa pospolita	
-fulowi	ful:s	subst:sg:dat:m2	nazwa pospolita	
-fulów	ful:s	subst:pl:gen:m2	nazwa pospolita	
-fulu	ful:s	subst:sg:loc:m2	nazwa pospolita	
-fulu	ful:s	subst:sg:voc:m2	nazwa pospolita	
+fulach	ful:s	subst:pl:loc:m2	nazwa pospolita	karc.
+fula	ful:s	subst:sg:acc:m2	nazwa pospolita	karc.
+fula	ful:s	subst:sg:gen:m2	nazwa pospolita	karc.
+fulami	ful:s	subst:pl:inst:m2	nazwa pospolita	karc.
+fule	ful:s	subst:pl:acc:m2	nazwa pospolita	karc.
+fule	ful:s	subst:pl:nom:m2	nazwa pospolita	karc.
+fule	ful:s	subst:pl:voc:m2	nazwa pospolita	karc.
+fulem	ful:s	subst:sg:inst:m2	nazwa pospolita	karc.
+ful	ful:s	subst:sg:nom:m2	nazwa pospolita	karc.
+fuli	ful:s	subst:pl:gen:m2	nazwa pospolita	karc.
+fulom	ful:s	subst:pl:dat:m2	nazwa pospolita	karc.
+fulowi	ful:s	subst:sg:dat:m2	nazwa pospolita	karc.
+fulów	ful:s	subst:pl:gen:m2	nazwa pospolita	karc.
+fulu	ful:s	subst:sg:loc:m2	nazwa pospolita	karc.
+fulu	ful:s	subst:sg:voc:m2	nazwa pospolita	karc.
 fulwokwasach	fulwokwas	subst:pl:loc:m3	nazwa pospolita	
 fulwokwasami	fulwokwas	subst:pl:inst:m3	nazwa pospolita	
 fulwokwasem	fulwokwas	subst:sg:inst:m3	nazwa pospolita	
