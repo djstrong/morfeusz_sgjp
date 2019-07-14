@@ -1474,18 +1474,29 @@ Dalmato	Dalmata:s2	subst:sg:voc:f	nazwisko
 Dalmatom	Dalmata:s2	subst:pl:dat:f	nazwisko	
 Dalmaty	Dalmata:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Dalmaty	Dalmata:s2	subst:sg:gen:f	nazwisko	
-Dalmatyńczycy	Dalmatyńczyk	subst:pl:nom.voc:m1	nazwa pospolita	
-Dalmatyńczykach	Dalmatyńczyk	subst:pl:loc:m1	nazwa pospolita	
-Dalmatyńczyka	Dalmatyńczyk	subst:sg:gen.acc:m1	nazwa pospolita	
-Dalmatyńczykami	Dalmatyńczyk	subst:pl:inst:m1	nazwa pospolita	
-Dalmatyńczyk	Dalmatyńczyk	subst:sg:nom:m1	nazwa pospolita	
-Dalmatyńczyki	Dalmatyńczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-Dalmatyńczykiem	Dalmatyńczyk	subst:sg:inst:m1	nazwa pospolita	
-Dalmatyńczykom	Dalmatyńczyk	subst:pl:dat:m1	nazwa pospolita	
-Dalmatyńczykowi	Dalmatyńczyk	subst:sg:dat:m1	nazwa pospolita	
-Dalmatyńczyków	Dalmatyńczyk	subst:pl:gen.acc:m1	nazwa pospolita	
-Dalmatyńczyku	Dalmatyńczyk	subst:sg:loc:m1	nazwa pospolita	
-Dalmatyńczyku	Dalmatyńczyk	subst:sg:voc:m1	nazwa pospolita	
+Dalmatynce	Dalmatynka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+Dalmatynek	Dalmatynka	subst:pl:gen:f	nazwa pospolita	etn.
+Dalmatynkach	Dalmatynka	subst:pl:loc:f	nazwa pospolita	etn.
+Dalmatynka	Dalmatynka	subst:sg:nom:f	nazwa pospolita	etn.
+Dalmatynkami	Dalmatynka	subst:pl:inst:f	nazwa pospolita	etn.
+Dalmatynką	Dalmatynka	subst:sg:inst:f	nazwa pospolita	etn.
+Dalmatynkę	Dalmatynka	subst:sg:acc:f	nazwa pospolita	etn.
+Dalmatynki	Dalmatynka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+Dalmatynki	Dalmatynka	subst:sg:gen:f	nazwa pospolita	etn.
+Dalmatynko	Dalmatynka	subst:sg:voc:f	nazwa pospolita	etn.
+Dalmatynkom	Dalmatynka	subst:pl:dat:f	nazwa pospolita	etn.
+Dalmatyńczycy	Dalmatyńczyk	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Dalmatyńczykach	Dalmatyńczyk	subst:pl:loc:m1	nazwa pospolita	etn.
+Dalmatyńczyka	Dalmatyńczyk	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Dalmatyńczykami	Dalmatyńczyk	subst:pl:inst:m1	nazwa pospolita	etn.
+Dalmatyńczyk	Dalmatyńczyk	subst:sg:nom:m1	nazwa pospolita	etn.
+Dalmatyńczyki	Dalmatyńczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+Dalmatyńczykiem	Dalmatyńczyk	subst:sg:inst:m1	nazwa pospolita	etn.
+Dalmatyńczykom	Dalmatyńczyk	subst:pl:dat:m1	nazwa pospolita	etn.
+Dalmatyńczykowi	Dalmatyńczyk	subst:sg:dat:m1	nazwa pospolita	etn.
+Dalmatyńczyków	Dalmatyńczyk	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Dalmatyńczyku	Dalmatyńczyk	subst:sg:loc:m1	nazwa pospolita	etn.
+Dalmatyńczyku	Dalmatyńczyk	subst:sg:voc:m1	nazwa pospolita	etn.
 Daltonach	Dalton	subst:pl:loc:m1	nazwisko	
 Daltona	Dalton	subst:sg:gen.acc:m1	nazwisko	
 Daltonami	Dalton	subst:pl:inst:m1	nazwisko	

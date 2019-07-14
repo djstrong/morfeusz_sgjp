@@ -8172,6 +8172,19 @@ Janusińskimi	Janusiński	subst:pl:inst:m1	nazwisko
 Janusińskim	Janusiński	subst:pl:dat:m1	nazwisko	
 Janusińskim	Janusiński	subst:sg:inst:m1	nazwisko	
 Janusińskim	Janusiński	subst:sg:loc:m1	nazwisko	
+Janusach	Janus:s1	subst:pl:loc:m1	imię	mit.
+Janusa	Janus:s1	subst:sg:gen.acc:m1	imię	mit.
+Janusami	Janus:s1	subst:pl:inst:m1	imię	mit.
+Janusem	Janus:s1	subst:sg:inst:m1	imię	mit.
+Janusie	Janus:s1	subst:sg:loc:m1	imię	mit.
+Janusie	Janus:s1	subst:sg:voc:m1	imię	mit.
+Janusi	Janus:s1	subst:pl:nom.voc:m1	imię	mit.
+Janus	Janus:s1	subst:sg:nom:m1	imię	mit.
+Janusom	Janus:s1	subst:pl:dat:m1	imię	mit.
+Janusowie	Janus:s1	subst:pl:nom.voc:m1	imię	mit.
+Janusowi	Janus:s1	subst:sg:dat:m1	imię	mit.
+Janusów	Janus:s1	subst:pl:gen.acc:m1	imię	mit.
+Janusy	Janus:s1	depr:pl:nom.acc.voc:m2	imię	mit.
 Janusach	Janus:s3	subst:pl:loc:m1	nazwisko	
 Janusa	Janus:s3	subst:sg:gen.acc:m1	nazwisko	
 Janusami	Janus:s3	subst:pl:inst:m1	nazwisko	
