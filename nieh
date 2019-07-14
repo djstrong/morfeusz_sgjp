@@ -8328,6 +8328,30 @@ niehebrajskojęzyczności	niehebrajskojęzyczność	subst:sg:voc:f
 niehebrajskojęzycznościom	niehebrajskojęzyczność	subst:pl:dat:f		
 niehebrajskojęzyczność	niehebrajskojęzyczność	subst:sg:acc:f		
 niehebrajskojęzyczność	niehebrajskojęzyczność	subst:sg:nom:f		
+niehebrajskojęzyczna	niehebrajskojęzyczny	adj:sg:nom.voc:f:pos		
+niehebrajskojęzyczną	niehebrajskojęzyczny	adj:sg:acc:f:pos		
+niehebrajskojęzyczną	niehebrajskojęzyczny	adj:sg:inst:f:pos		
+niehebrajskojęzycznego	niehebrajskojęzyczny	adj:sg:acc:m1.m2:pos		
+niehebrajskojęzycznego	niehebrajskojęzyczny	adj:sg:gen:m1.m2.m3.n:pos		
+niehebrajskojęzycznej	niehebrajskojęzyczny	adj:sg:dat:f:pos		
+niehebrajskojęzycznej	niehebrajskojęzyczny	adj:sg:gen:f:pos		
+niehebrajskojęzycznej	niehebrajskojęzyczny	adj:sg:loc:f:pos		
+niehebrajskojęzycznemu	niehebrajskojęzyczny	adj:sg:dat:m1.m2.m3.n:pos		
+niehebrajskojęzyczne	niehebrajskojęzyczny	adj:pl:acc:m2.m3.f.n:pos		
+niehebrajskojęzyczne	niehebrajskojęzyczny	adj:pl:nom.voc:m2.m3.f.n:pos		
+niehebrajskojęzyczne	niehebrajskojęzyczny	adj:sg:acc:n:pos		
+niehebrajskojęzyczne	niehebrajskojęzyczny	adj:sg:nom.voc:n:pos		
+niehebrajskojęzyczni	niehebrajskojęzyczny	adj:pl:nom.voc:m1:pos		
+niehebrajskojęzyczno	niehebrajskojęzyczny	adja		
+niehebrajskojęzycznych	niehebrajskojęzyczny	adj:pl:acc:m1:pos		
+niehebrajskojęzycznych	niehebrajskojęzyczny	adj:pl:gen:m1.m2.m3.f.n:pos		
+niehebrajskojęzycznych	niehebrajskojęzyczny	adj:pl:loc:m1.m2.m3.f.n:pos		
+niehebrajskojęzycznymi	niehebrajskojęzyczny	adj:pl:inst:m1.m2.m3.f.n:pos		
+niehebrajskojęzycznym	niehebrajskojęzyczny	adj:pl:dat:m1.m2.m3.f.n:pos		
+niehebrajskojęzycznym	niehebrajskojęzyczny	adj:sg:inst:m1.m2.m3.n:pos		
+niehebrajskojęzycznym	niehebrajskojęzyczny	adj:sg:loc:m1.m2.m3.n:pos		
+niehebrajskojęzyczny	niehebrajskojęzyczny	adj:sg:acc:m3:pos		
+niehebrajskojęzyczny	niehebrajskojęzyczny	adj:sg:nom.voc:m1.m2.m3:pos		
 niehebrajskościach	niehebrajskość	subst:pl:loc:f	nazwa pospolita	
 niehebrajskościami	niehebrajskość	subst:pl:inst:f	nazwa pospolita	
 niehebrajskością	niehebrajskość	subst:sg:inst:f	nazwa pospolita	
@@ -8778,6 +8802,31 @@ niehejnałowym	niehejnałowy	adj:sg:inst:m1.m2.m3.n:pos
 niehejnałowym	niehejnałowy	adj:sg:loc:m1.m2.m3.n:pos		
 niehejnałowy	niehejnałowy	adj:sg:acc:m3:pos		
 niehejnałowy	niehejnałowy	adj:sg:nom.voc:m1.m2.m3:pos		
+niehejterscy	niehejterski	adj:pl:nom.voc:m1:pos		pot.
+niehejterska	niehejterski	adj:sg:nom.voc:f:pos		pot.
+niehejterską	niehejterski	adj:sg:acc:f:pos		pot.
+niehejterską	niehejterski	adj:sg:inst:f:pos		pot.
+niehejterskich	niehejterski	adj:pl:acc:m1:pos		pot.
+niehejterskich	niehejterski	adj:pl:gen:m1.m2.m3.f.n:pos		pot.
+niehejterskich	niehejterski	adj:pl:loc:m1.m2.m3.f.n:pos		pot.
+niehejterskiego	niehejterski	adj:sg:acc:m1.m2:pos		pot.
+niehejterskiego	niehejterski	adj:sg:gen:m1.m2.m3.n:pos		pot.
+niehejterskiej	niehejterski	adj:sg:dat:f:pos		pot.
+niehejterskiej	niehejterski	adj:sg:gen:f:pos		pot.
+niehejterskiej	niehejterski	adj:sg:loc:f:pos		pot.
+niehejterskiemu	niehejterski	adj:sg:dat:m1.m2.m3.n:pos		pot.
+niehejterskie	niehejterski	adj:pl:acc:m2.m3.f.n:pos		pot.
+niehejterskie	niehejterski	adj:pl:nom.voc:m2.m3.f.n:pos		pot.
+niehejterskie	niehejterski	adj:sg:acc:n:pos		pot.
+niehejterskie	niehejterski	adj:sg:nom.voc:n:pos		pot.
+niehejterskimi	niehejterski	adj:pl:inst:m1.m2.m3.f.n:pos		pot.
+niehejterskim	niehejterski	adj:pl:dat:m1.m2.m3.f.n:pos		pot.
+niehejterskim	niehejterski	adj:sg:inst:m1.m2.m3.n:pos		pot.
+niehejterskim	niehejterski	adj:sg:loc:m1.m2.m3.n:pos		pot.
+niehejterski	niehejterski	adj:sg:acc:m3:pos		pot.
+niehejterski	niehejterski	adj:sg:nom.voc:m1.m2.m3:pos		pot.
+niehejtersko	niehejterski	adja		pot.
+niehejtersku	niehejterski	adjp:dat		pot.
 niehejtersko	niehejtersko	adv:pos		pot.
 niehejterskościach	niehejterskość	subst:pl:loc:f		pot.
 niehejterskościami	niehejterskość	subst:pl:inst:f		pot.

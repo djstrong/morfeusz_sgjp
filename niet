@@ -9293,6 +9293,30 @@ nietenebrystyczności	nietenebrystyczność	subst:sg:voc:f		szt.
 nietenebrystycznościom	nietenebrystyczność	subst:pl:dat:f		szt.
 nietenebrystyczność	nietenebrystyczność	subst:sg:acc:f		szt.
 nietenebrystyczność	nietenebrystyczność	subst:sg:nom:f		szt.
+nietenebrystyczna	nietenebrystyczny	adj:sg:nom.voc:f:pos		szt.
+nietenebrystyczną	nietenebrystyczny	adj:sg:acc:f:pos		szt.
+nietenebrystyczną	nietenebrystyczny	adj:sg:inst:f:pos		szt.
+nietenebrystycznego	nietenebrystyczny	adj:sg:acc:m1.m2:pos		szt.
+nietenebrystycznego	nietenebrystyczny	adj:sg:gen:m1.m2.m3.n:pos		szt.
+nietenebrystycznej	nietenebrystyczny	adj:sg:dat:f:pos		szt.
+nietenebrystycznej	nietenebrystyczny	adj:sg:gen:f:pos		szt.
+nietenebrystycznej	nietenebrystyczny	adj:sg:loc:f:pos		szt.
+nietenebrystycznemu	nietenebrystyczny	adj:sg:dat:m1.m2.m3.n:pos		szt.
+nietenebrystyczne	nietenebrystyczny	adj:pl:acc:m2.m3.f.n:pos		szt.
+nietenebrystyczne	nietenebrystyczny	adj:pl:nom.voc:m2.m3.f.n:pos		szt.
+nietenebrystyczne	nietenebrystyczny	adj:sg:acc:n:pos		szt.
+nietenebrystyczne	nietenebrystyczny	adj:sg:nom.voc:n:pos		szt.
+nietenebrystyczni	nietenebrystyczny	adj:pl:nom.voc:m1:pos		szt.
+nietenebrystyczno	nietenebrystyczny	adja		szt.
+nietenebrystycznych	nietenebrystyczny	adj:pl:acc:m1:pos		szt.
+nietenebrystycznych	nietenebrystyczny	adj:pl:gen:m1.m2.m3.f.n:pos		szt.
+nietenebrystycznych	nietenebrystyczny	adj:pl:loc:m1.m2.m3.f.n:pos		szt.
+nietenebrystycznymi	nietenebrystyczny	adj:pl:inst:m1.m2.m3.f.n:pos		szt.
+nietenebrystycznym	nietenebrystyczny	adj:pl:dat:m1.m2.m3.f.n:pos		szt.
+nietenebrystycznym	nietenebrystyczny	adj:sg:inst:m1.m2.m3.n:pos		szt.
+nietenebrystycznym	nietenebrystyczny	adj:sg:loc:m1.m2.m3.n:pos		szt.
+nietenebrystyczny	nietenebrystyczny	adj:sg:acc:m3:pos		szt.
+nietenebrystyczny	nietenebrystyczny	adj:sg:nom.voc:m1.m2.m3:pos		szt.
 nietenisowościach	nietenisowość	subst:pl:loc:f	nazwa pospolita	
 nietenisowościami	nietenisowość	subst:pl:inst:f	nazwa pospolita	
 nietenisowością	nietenisowość	subst:sg:inst:f	nazwa pospolita	
@@ -22555,6 +22579,31 @@ nietriwialnym	nietriwialny	adj:sg:inst:m1.m2.m3.n:pos
 nietriwialnym	nietriwialny	adj:sg:loc:m1.m2.m3.n:pos		
 nietriwialny	nietriwialny	adj:sg:acc:m3:pos		
 nietriwialny	nietriwialny	adj:sg:nom.voc:m1.m2.m3:pos		
+nietrobriandzcy	nietrobriandzki	adj:pl:nom.voc:m1:pos		
+nietrobriandzka	nietrobriandzki	adj:sg:nom.voc:f:pos		
+nietrobriandzką	nietrobriandzki	adj:sg:acc:f:pos		
+nietrobriandzką	nietrobriandzki	adj:sg:inst:f:pos		
+nietrobriandzkich	nietrobriandzki	adj:pl:acc:m1:pos		
+nietrobriandzkich	nietrobriandzki	adj:pl:gen:m1.m2.m3.f.n:pos		
+nietrobriandzkich	nietrobriandzki	adj:pl:loc:m1.m2.m3.f.n:pos		
+nietrobriandzkiego	nietrobriandzki	adj:sg:acc:m1.m2:pos		
+nietrobriandzkiego	nietrobriandzki	adj:sg:gen:m1.m2.m3.n:pos		
+nietrobriandzkiej	nietrobriandzki	adj:sg:dat:f:pos		
+nietrobriandzkiej	nietrobriandzki	adj:sg:gen:f:pos		
+nietrobriandzkiej	nietrobriandzki	adj:sg:loc:f:pos		
+nietrobriandzkiemu	nietrobriandzki	adj:sg:dat:m1.m2.m3.n:pos		
+nietrobriandzkie	nietrobriandzki	adj:pl:acc:m2.m3.f.n:pos		
+nietrobriandzkie	nietrobriandzki	adj:pl:nom.voc:m2.m3.f.n:pos		
+nietrobriandzkie	nietrobriandzki	adj:sg:acc:n:pos		
+nietrobriandzkie	nietrobriandzki	adj:sg:nom.voc:n:pos		
+nietrobriandzkimi	nietrobriandzki	adj:pl:inst:m1.m2.m3.f.n:pos		
+nietrobriandzkim	nietrobriandzki	adj:pl:dat:m1.m2.m3.f.n:pos		
+nietrobriandzkim	nietrobriandzki	adj:sg:inst:m1.m2.m3.n:pos		
+nietrobriandzkim	nietrobriandzki	adj:sg:loc:m1.m2.m3.n:pos		
+nietrobriandzki	nietrobriandzki	adj:sg:acc:m3:pos		
+nietrobriandzki	nietrobriandzki	adj:sg:nom.voc:m1.m2.m3:pos		
+nietrobriandzko	nietrobriandzki	adja		
+nietrobriandzku	nietrobriandzki	adjp:dat		
 nietrobriandzko	nietrobriandzko	adv:pos		
 nietrobriandzkościach	nietrobriandzkość	subst:pl:loc:f		
 nietrobriandzkościami	nietrobriandzkość	subst:pl:inst:f		
@@ -29333,6 +29382,30 @@ nietrzeźwiuteńkości	nietrzeźwiuteńkość	subst:sg:voc:f	nazwa pospolita
 nietrzeźwiuteńkościom	nietrzeźwiuteńkość	subst:pl:dat:f	nazwa pospolita	
 nietrzeźwiuteńkość	nietrzeźwiuteńkość	subst:sg:acc:f	nazwa pospolita	
 nietrzeźwiuteńkość	nietrzeźwiuteńkość	subst:sg:nom:f	nazwa pospolita	
+nietrzeźwiutcy	nietrzeźwiutki	adj:pl:nom.voc:m1:pos		
+nietrzeźwiutka	nietrzeźwiutki	adj:sg:nom.voc:f:pos		
+nietrzeźwiutką	nietrzeźwiutki	adj:sg:acc:f:pos		
+nietrzeźwiutką	nietrzeźwiutki	adj:sg:inst:f:pos		
+nietrzeźwiutkich	nietrzeźwiutki	adj:pl:acc:m1:pos		
+nietrzeźwiutkich	nietrzeźwiutki	adj:pl:gen:m1.m2.m3.f.n:pos		
+nietrzeźwiutkich	nietrzeźwiutki	adj:pl:loc:m1.m2.m3.f.n:pos		
+nietrzeźwiutkiego	nietrzeźwiutki	adj:sg:acc:m1.m2:pos		
+nietrzeźwiutkiego	nietrzeźwiutki	adj:sg:gen:m1.m2.m3.n:pos		
+nietrzeźwiutkiej	nietrzeźwiutki	adj:sg:dat:f:pos		
+nietrzeźwiutkiej	nietrzeźwiutki	adj:sg:gen:f:pos		
+nietrzeźwiutkiej	nietrzeźwiutki	adj:sg:loc:f:pos		
+nietrzeźwiutkiemu	nietrzeźwiutki	adj:sg:dat:m1.m2.m3.n:pos		
+nietrzeźwiutkie	nietrzeźwiutki	adj:pl:acc:m2.m3.f.n:pos		
+nietrzeźwiutkie	nietrzeźwiutki	adj:pl:nom.voc:m2.m3.f.n:pos		
+nietrzeźwiutkie	nietrzeźwiutki	adj:sg:acc:n:pos		
+nietrzeźwiutkie	nietrzeźwiutki	adj:sg:nom.voc:n:pos		
+nietrzeźwiutkimi	nietrzeźwiutki	adj:pl:inst:m1.m2.m3.f.n:pos		
+nietrzeźwiutkim	nietrzeźwiutki	adj:pl:dat:m1.m2.m3.f.n:pos		
+nietrzeźwiutkim	nietrzeźwiutki	adj:sg:inst:m1.m2.m3.n:pos		
+nietrzeźwiutkim	nietrzeźwiutki	adj:sg:loc:m1.m2.m3.n:pos		
+nietrzeźwiutki	nietrzeźwiutki	adj:sg:acc:m3:pos		
+nietrzeźwiutki	nietrzeźwiutki	adj:sg:nom.voc:m1.m2.m3:pos		
+nietrzeźwiutko	nietrzeźwiutki	adja		
 nietrzeźwiutko	nietrzeźwiutko	adv:pos		
 nietrzeźwiutkościach	nietrzeźwiutkość	subst:pl:loc:f		
 nietrzeźwiutkościami	nietrzeźwiutkość	subst:pl:inst:f		
@@ -39485,6 +39558,30 @@ nietysiącowym	nietysiącowy	adj:sg:inst:m1.m2.m3.n:pos
 nietysiącowym	nietysiącowy	adj:sg:loc:m1.m2.m3.n:pos		
 nietysiącowy	nietysiącowy	adj:sg:acc:m3:pos		
 nietysiącowy	nietysiącowy	adj:sg:nom.voc:m1.m2.m3:pos		
+nietysiącracy	nietysiącraki	adj:pl:nom.voc:m1:pos		
+nietysiącraka	nietysiącraki	adj:sg:nom.voc:f:pos		
+nietysiącraką	nietysiącraki	adj:sg:acc:f:pos		
+nietysiącraką	nietysiącraki	adj:sg:inst:f:pos		
+nietysiącrakich	nietysiącraki	adj:pl:acc:m1:pos		
+nietysiącrakich	nietysiącraki	adj:pl:gen:m1.m2.m3.f.n:pos		
+nietysiącrakich	nietysiącraki	adj:pl:loc:m1.m2.m3.f.n:pos		
+nietysiącrakiego	nietysiącraki	adj:sg:acc:m1.m2:pos		
+nietysiącrakiego	nietysiącraki	adj:sg:gen:m1.m2.m3.n:pos		
+nietysiącrakiej	nietysiącraki	adj:sg:dat:f:pos		
+nietysiącrakiej	nietysiącraki	adj:sg:gen:f:pos		
+nietysiącrakiej	nietysiącraki	adj:sg:loc:f:pos		
+nietysiącrakiemu	nietysiącraki	adj:sg:dat:m1.m2.m3.n:pos		
+nietysiącrakie	nietysiącraki	adj:pl:acc:m2.m3.f.n:pos		
+nietysiącrakie	nietysiącraki	adj:pl:nom.voc:m2.m3.f.n:pos		
+nietysiącrakie	nietysiącraki	adj:sg:acc:n:pos		
+nietysiącrakie	nietysiącraki	adj:sg:nom.voc:n:pos		
+nietysiącrakimi	nietysiącraki	adj:pl:inst:m1.m2.m3.f.n:pos		
+nietysiącrakim	nietysiącraki	adj:pl:dat:m1.m2.m3.f.n:pos		
+nietysiącrakim	nietysiącraki	adj:sg:inst:m1.m2.m3.n:pos		
+nietysiącrakim	nietysiącraki	adj:sg:loc:m1.m2.m3.n:pos		
+nietysiącraki	nietysiącraki	adj:sg:acc:m3:pos		
+nietysiącraki	nietysiącraki	adj:sg:nom.voc:m1.m2.m3:pos		
+nietysiącrako	nietysiącraki	adja		
 nietysiącrako	nietysiącrako	adv:pos		
 nietysiącrakościach	nietysiącrakość	subst:pl:loc:f		
 nietysiącrakościami	nietysiącrakość	subst:pl:inst:f		

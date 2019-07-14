@@ -41237,6 +41237,30 @@ niegrzybopodobności	niegrzybopodobność	subst:sg:voc:f		biol.
 niegrzybopodobnościom	niegrzybopodobność	subst:pl:dat:f		biol.
 niegrzybopodobność	niegrzybopodobność	subst:sg:acc:f		biol.
 niegrzybopodobność	niegrzybopodobność	subst:sg:nom:f		biol.
+niegrzybopodobna	niegrzybopodobny	adj:sg:nom.voc:f:pos		biol.
+niegrzybopodobną	niegrzybopodobny	adj:sg:acc:f:pos		biol.
+niegrzybopodobną	niegrzybopodobny	adj:sg:inst:f:pos		biol.
+niegrzybopodobnego	niegrzybopodobny	adj:sg:acc:m1.m2:pos		biol.
+niegrzybopodobnego	niegrzybopodobny	adj:sg:gen:m1.m2.m3.n:pos		biol.
+niegrzybopodobnej	niegrzybopodobny	adj:sg:dat:f:pos		biol.
+niegrzybopodobnej	niegrzybopodobny	adj:sg:gen:f:pos		biol.
+niegrzybopodobnej	niegrzybopodobny	adj:sg:loc:f:pos		biol.
+niegrzybopodobnemu	niegrzybopodobny	adj:sg:dat:m1.m2.m3.n:pos		biol.
+niegrzybopodobne	niegrzybopodobny	adj:pl:acc:m2.m3.f.n:pos		biol.
+niegrzybopodobne	niegrzybopodobny	adj:pl:nom.voc:m2.m3.f.n:pos		biol.
+niegrzybopodobne	niegrzybopodobny	adj:sg:acc:n:pos		biol.
+niegrzybopodobne	niegrzybopodobny	adj:sg:nom.voc:n:pos		biol.
+niegrzybopodobni	niegrzybopodobny	adj:pl:nom.voc:m1:pos		biol.
+niegrzybopodobno	niegrzybopodobny	adja		biol.
+niegrzybopodobnych	niegrzybopodobny	adj:pl:acc:m1:pos		biol.
+niegrzybopodobnych	niegrzybopodobny	adj:pl:gen:m1.m2.m3.f.n:pos		biol.
+niegrzybopodobnych	niegrzybopodobny	adj:pl:loc:m1.m2.m3.f.n:pos		biol.
+niegrzybopodobnymi	niegrzybopodobny	adj:pl:inst:m1.m2.m3.f.n:pos		biol.
+niegrzybopodobnym	niegrzybopodobny	adj:pl:dat:m1.m2.m3.f.n:pos		biol.
+niegrzybopodobnym	niegrzybopodobny	adj:sg:inst:m1.m2.m3.n:pos		biol.
+niegrzybopodobnym	niegrzybopodobny	adj:sg:loc:m1.m2.m3.n:pos		biol.
+niegrzybopodobny	niegrzybopodobny	adj:sg:acc:m3:pos		biol.
+niegrzybopodobny	niegrzybopodobny	adj:sg:nom.voc:m1.m2.m3:pos		biol.
 niegrzybowatościach	niegrzybowatość	subst:pl:loc:f	nazwa pospolita	
 niegrzybowatościami	niegrzybowatość	subst:pl:inst:f	nazwa pospolita	
 niegrzybowatością	niegrzybowatość	subst:sg:inst:f	nazwa pospolita	
