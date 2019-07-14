@@ -2043,6 +2043,7 @@ Herbertów	Herbert	subst:pl:acc:m1	imię|nazwisko
 Herbertów	Herbert	subst:pl:gen:m1	imię|nazwisko	
 Herberty	Herbert	depr:pl:nom:m2	imię|nazwisko	
 Herberty	Herbert	depr:pl:voc:m2	imię|nazwisko	
+Hz	herc	brev:npun		fiz.
 Hercach	Herc	subst:pl:loc:m1	nazwisko	
 Herca	Herc	subst:sg:acc:m1	nazwisko	
 Herca	Herc	subst:sg:gen:m1	nazwisko	
@@ -2377,7 +2378,6 @@ Herthy	Hertha	subst:pl:acc:f	imię
 Herthy	Hertha	subst:pl:nom:f	imię	
 Herthy	Hertha	subst:pl:voc:f	imię	
 Herthy	Hertha	subst:sg:gen:f	imię	
-Hz	hertz	brev:npun		fiz.
 Hertzach	Hertz	subst:pl:loc:m1	nazwisko	
 Hertza	Hertz	subst:sg:acc:m1	nazwisko	
 Hertza	Hertz	subst:sg:gen:m1	nazwisko	

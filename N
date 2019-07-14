@@ -4373,6 +4373,20 @@ Nowakowskim	Nowakowski	subst:sg:inst:m1	nazwisko
 Nowakowskim	Nowakowski	subst:sg:loc:m1	nazwisko	
 Nowakowski	Nowakowski	subst:sg:nom:m1	nazwisko	
 Nowakowski	Nowakowski	subst:sg:voc:m1	nazwisko	
+Nowego	Nowe	subst:sg:gen:n2	nazwa geograficzna	
+Nowem	Nowe	subst:sg:inst:n2	nazwa geograficzna	
+Nowem	Nowe	subst:sg:loc:n2	nazwa geograficzna	
+Nowemu	Nowe	subst:sg:dat:n2	nazwa geograficzna	
+Nowe	Nowe	subst:pl:acc:n2	nazwa geograficzna	
+Nowe	Nowe	subst:pl:nom:n2	nazwa geograficzna	
+Nowe	Nowe	subst:pl:voc:n2	nazwa geograficzna	
+Nowe	Nowe	subst:sg:acc:n2	nazwa geograficzna	
+Nowe	Nowe	subst:sg:nom:n2	nazwa geograficzna	
+Nowe	Nowe	subst:sg:voc:n2	nazwa geograficzna	
+Nowych	Nowe	subst:pl:gen:n2	nazwa geograficzna	
+Nowych	Nowe	subst:pl:loc:n2	nazwa geograficzna	
+Nowymi	Nowe	subst:pl:inst:n2	nazwa geograficzna	
+Nowym	Nowe	subst:pl:dat:n2	nazwa geograficzna	
 Nowicka	Nowicka	subst:sg:nom:f	nazwisko	
 Nowicka	Nowicka	subst:sg:voc:f	nazwisko	
 Nowicką	Nowicka	subst:sg:acc:f	nazwisko	

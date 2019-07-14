@@ -58042,13 +58042,6 @@ ludyzmu	ludyzm	subst:sg:gen:m3	nazwa pospolita
 ludyzmy	ludyzm	subst:pl:acc:m3	nazwa pospolita	
 ludyzmy	ludyzm	subst:pl:nom:m3	nazwa pospolita	
 ludyzmy	ludyzm	subst:pl:voc:m3	nazwa pospolita	
-ludziach	ludzie	subst:pl:loc:p1	nazwa pospolita	
-ludzie	ludzie	subst:pl:nom:p1	nazwa pospolita	
-ludzie	ludzie	subst:pl:voc:p1	nazwa pospolita	
-ludzi	ludzie	subst:pl:acc:p1	nazwa pospolita	
-ludzi	ludzie	subst:pl:gen:p1	nazwa pospolita	
-ludziom	ludzie	subst:pl:dat:p1	nazwa pospolita	
-ludźmi	ludzie	subst:pl:inst:p1	nazwa pospolita	
 ludzicy	ludzik	subst:pl:nom:m1	nazwa pospolita	
 ludzicy	ludzik	subst:pl:voc:m1	nazwa pospolita	
 ludzikach	ludzik	subst:pl:loc:m1	nazwa pospolita	

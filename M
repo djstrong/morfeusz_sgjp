@@ -6473,7 +6473,7 @@ Mefistofelesów	Mefistofeles	subst:pl:gen:m1	imię
 Mefistofelesy	Mefistofeles	depr:pl:nom:m2	imię	
 Mefistofelesy	Mefistofeles	depr:pl:voc:m2	imię	
 MB	megabajt	brev:npun		komp.
-MHz	Megahertz	brev:npun		
+MHz	megaherc	brev:npun		
 Mehofferach	Mehoffer	subst:pl:loc:m1	nazwisko	
 Mehoffera	Mehoffer	subst:sg:acc:m1	nazwisko	
 Mehoffera	Mehoffer	subst:sg:gen:m1	nazwisko	

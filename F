@@ -2784,6 +2784,20 @@ Fortunaty	Fortunata	subst:pl:acc:f	imię
 Fortunaty	Fortunata	subst:pl:nom:f	imię	
 Fortunaty	Fortunata	subst:pl:voc:f	imię	
 Fortunaty	Fortunata	subst:sg:gen:f	imię	
+Fosowskich	Fosowskie	subst:pl:gen:n2	nazwa geograficzna	
+Fosowskich	Fosowskie	subst:pl:loc:n2	nazwa geograficzna	
+Fosowskie	Fosowskie	subst:pl:acc:n2	nazwa geograficzna	
+Fosowskie	Fosowskie	subst:pl:nom:n2	nazwa geograficzna	
+Fosowskie	Fosowskie	subst:pl:voc:n2	nazwa geograficzna	
+Fosowskie	Fosowskie	subst:sg:acc:n2	nazwa geograficzna	
+Fosowskie	Fosowskie	subst:sg:nom:n2	nazwa geograficzna	
+Fosowskie	Fosowskie	subst:sg:voc:n2	nazwa geograficzna	
+Fosowskiego	Fosowskie	subst:sg:gen:n2	nazwa geograficzna	
+Fosowskiem	Fosowskie	subst:sg:inst:n2	nazwa geograficzna	
+Fosowskiem	Fosowskie	subst:sg:loc:n2	nazwa geograficzna	
+Fosowskiemu	Fosowskie	subst:sg:dat:n2	nazwa geograficzna	
+Fosowskim	Fosowskie	subst:pl:dat:n2	nazwa geograficzna	
+Fosowskimi	Fosowskie	subst:pl:inst:n2	nazwa geograficzna	
 Foucaulcie	Foucault	subst:sg:loc:m1	nazwisko	
 Foucaulcie	Foucault	subst:sg:voc:m1	nazwisko	
 Foucaultach	Foucault	subst:pl:loc:m1	nazwisko	

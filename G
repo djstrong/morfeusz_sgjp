@@ -2841,6 +2841,7 @@ Gieysztory	Gieysztor	depr:pl:voc:m2	nazwisko
 Gieysztorze	Gieysztor	subst:sg:loc:m1	nazwisko	
 Gieysztorze	Gieysztor	subst:sg:voc:m1	nazwisko	
 GB	gigabajt	brev:npun		komp.
+GHz	gigaherc	brev:npun		fiz.
 Gilach	Gil	subst:pl:loc:m1	nazwisko	
 Gila	Gil	subst:sg:acc:m1	nazwisko	
 Gila	Gil	subst:sg:gen:m1	nazwisko	

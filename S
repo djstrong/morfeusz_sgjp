@@ -1,4 +1,5 @@
 SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+Sm	Księga_Samuela	brev:npun		
 Sdz	Księga_Sędziów	brev:npun		
 So	Księga_Sofoniasza	brev:npun		
 Sof	Księga_Sofoniasza	brev:npun		
@@ -5930,6 +5931,20 @@ Skarżysko	Skarżysko	subst:sg:voc:n2	nazwa geograficzna
 Skarżysk	Skarżysko	subst:pl:gen:n2	nazwa geograficzna	
 Skarżysku	Skarżysko	subst:sg:dat:n2	nazwa geograficzna	
 Skarżysku	Skarżysko	subst:sg:loc:n2	nazwa geograficzna	
+Skępego	Skępe	subst:sg:gen:n2	nazwa geograficzna	
+Skępem	Skępe	subst:sg:inst:n2	nazwa geograficzna	
+Skępem	Skępe	subst:sg:loc:n2	nazwa geograficzna	
+Skępemu	Skępe	subst:sg:dat:n2	nazwa geograficzna	
+Skępe	Skępe	subst:pl:acc:n2	nazwa geograficzna	
+Skępe	Skępe	subst:pl:nom:n2	nazwa geograficzna	
+Skępe	Skępe	subst:pl:voc:n2	nazwa geograficzna	
+Skępe	Skępe	subst:sg:acc:n2	nazwa geograficzna	
+Skępe	Skępe	subst:sg:nom:n2	nazwa geograficzna	
+Skępe	Skępe	subst:sg:voc:n2	nazwa geograficzna	
+Skępych	Skępe	subst:pl:gen:n2	nazwa geograficzna	
+Skępych	Skępe	subst:pl:loc:n2	nazwa geograficzna	
+Skępymi	Skępe	subst:pl:inst:n2	nazwa geograficzna	
+Skępym	Skępe	subst:pl:dat:n2	nazwa geograficzna	
 Skibach	Skiba	subst:pl:loc:m1	nazwisko	
 Skibami	Skiba	subst:pl:inst:m1	nazwisko	
 Skiba	Skiba	subst:sg:nom:m1	nazwisko	

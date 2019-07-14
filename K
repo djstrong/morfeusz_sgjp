@@ -8077,6 +8077,20 @@ Kolonii	Kolonia	subst:sg:loc:f	nazwa geograficzna
 Kolonij	Kolonia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Kolonio	Kolonia	subst:sg:voc:f	nazwa geograficzna	
 Koloniom	Kolonia	subst:pl:dat:f	nazwa geograficzna	
+Kolonowskich	Kolonowskie	subst:pl:gen:n2	nazwa geograficzna	
+Kolonowskich	Kolonowskie	subst:pl:loc:n2	nazwa geograficzna	
+Kolonowskiego	Kolonowskie	subst:sg:gen:n2	nazwa geograficzna	
+Kolonowskie	Kolonowskie	subst:pl:acc:n2	nazwa geograficzna	
+Kolonowskie	Kolonowskie	subst:pl:nom:n2	nazwa geograficzna	
+Kolonowskie	Kolonowskie	subst:pl:voc:n2	nazwa geograficzna	
+Kolonowskie	Kolonowskie	subst:sg:acc:n2	nazwa geograficzna	
+Kolonowskie	Kolonowskie	subst:sg:nom:n2	nazwa geograficzna	
+Kolonowskie	Kolonowskie	subst:sg:voc:n2	nazwa geograficzna	
+Kolonowskiem	Kolonowskie	subst:sg:inst:n2	nazwa geograficzna	
+Kolonowskiem	Kolonowskie	subst:sg:loc:n2	nazwa geograficzna	
+Kolonowskiemu	Kolonowskie	subst:sg:dat:n2	nazwa geograficzna	
+Kolonowskimi	Kolonowskie	subst:pl:inst:n2	nazwa geograficzna	
+Kolonowskim	Kolonowskie	subst:pl:dat:n2	nazwa geograficzna	
 Kolorado	Kolorado:s1	subst:pl:acc:n2	nazwa geograficzna	
 Kolorado	Kolorado:s1	subst:pl:dat:n2	nazwa geograficzna	
 Kolorado	Kolorado:s1	subst:pl:gen:n2	nazwa geograficzna	
