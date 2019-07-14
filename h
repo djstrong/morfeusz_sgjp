@@ -7414,7 +7414,6 @@ harano	harać	imps:imperf		gwar.
 harań	harać	ger:pl:gen:n:imperf:aff		
 harasz	harać	fin:sg:sec:imperf		gwar.
 harakach	harak	subst:pl:loc:m3	nazwa pospolita	daw.
-haraka	harak	subst:sg:gen:m3	nazwa pospolita	daw.
 harakami	harak	subst:pl:inst:m3	nazwa pospolita	daw.
 harak	harak	subst:sg:nom.acc:m3	nazwa pospolita	daw.
 harakiem	harak	subst:sg:inst:m3	nazwa pospolita	daw.
@@ -7422,6 +7421,7 @@ haraki	harak	subst:pl:nom.acc.voc:m3	nazwa pospolita	daw.
 harakom	harak	subst:pl:dat:m3	nazwa pospolita	daw.
 harakowi	harak	subst:sg:dat:m3	nazwa pospolita	daw.
 haraków	harak	subst:pl:gen:m3	nazwa pospolita	daw.
+haraku	harak	subst:sg:gen:m3	nazwa pospolita	daw.
 haraku	harak	subst:sg:loc:m3	nazwa pospolita	daw.
 haraku	harak	subst:sg:voc:m3	nazwa pospolita	daw.
 harakiri	harakiri	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	

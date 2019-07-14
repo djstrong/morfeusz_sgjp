@@ -598,6 +598,17 @@ Dadźbogu	Dadźbóg	subst:sg:loc:m1	imię
 Dadźbogu	Dadźbóg	subst:sg:voc:m1	imię	
 Dadźbóg	Dadźbóg	subst:sg:nom:m1	imię	
 Dafne	Dafne	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	imię	mit.
+Dagestanach	Dagestan	subst:pl:loc:m3	nazwa geograficzna	
+Dagestanami	Dagestan	subst:pl:inst:m3	nazwa geograficzna	
+Dagestan	Dagestan	subst:sg:nom.acc:m3	nazwa geograficzna	
+Dagestanem	Dagestan	subst:sg:inst:m3	nazwa geograficzna	
+Dagestanie	Dagestan	subst:sg:loc:m3	nazwa geograficzna	
+Dagestanie	Dagestan	subst:sg:voc:m3	nazwa geograficzna	
+Dagestanom	Dagestan	subst:pl:dat:m3	nazwa geograficzna	
+Dagestanowi	Dagestan	subst:sg:dat:m3	nazwa geograficzna	
+Dagestanów	Dagestan	subst:pl:gen:m3	nazwa geograficzna	
+Dagestanu	Dagestan	subst:sg:gen:m3	nazwa geograficzna	
+Dagestany	Dagestan	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Dagielach	Dagiel:s1	subst:pl:loc:m1	nazwisko	
 Dagiela	Dagiel:s1	subst:sg:gen.acc:m1	nazwisko	
 Dagielami	Dagiel:s1	subst:pl:inst:m1	nazwisko	
