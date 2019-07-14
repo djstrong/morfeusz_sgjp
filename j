@@ -25199,6 +25199,17 @@ jeleśniańskości	jeleśniańskość	subst:sg:voc:f	nazwa_pospolita
 jeleśniańskościom	jeleśniańskość	subst:pl:dat:f	nazwa_pospolita	
 jeleśniańskość	jeleśniańskość	subst:sg:acc:f	nazwa_pospolita	
 jeleśniańskość	jeleśniańskość	subst:sg:nom:f	nazwa_pospolita	
+jeliciarce	jeliciarka	subst:sg:dat.loc:f	nazwa_pospolita	spoż.
+jeliciarek	jeliciarka	subst:pl:gen:f	nazwa_pospolita	spoż.
+jeliciarkach	jeliciarka	subst:pl:loc:f	nazwa_pospolita	spoż.
+jeliciarka	jeliciarka	subst:sg:nom:f	nazwa_pospolita	spoż.
+jeliciarkami	jeliciarka	subst:pl:inst:f	nazwa_pospolita	spoż.
+jeliciarką	jeliciarka	subst:sg:inst:f	nazwa_pospolita	spoż.
+jeliciarkę	jeliciarka	subst:sg:acc:f	nazwa_pospolita	spoż.
+jeliciarki	jeliciarka	subst:pl:nom.acc.voc:f	nazwa_pospolita	spoż.
+jeliciarki	jeliciarka	subst:sg:gen:f	nazwa_pospolita	spoż.
+jeliciarko	jeliciarka	subst:sg:voc:f	nazwa_pospolita	spoż.
+jeliciarkom	jeliciarka	subst:pl:dat:f	nazwa_pospolita	spoż.
 jeliciarniach	jeliciarnia	subst:pl:loc:f	nazwa_pospolita	spoż.
 jeliciarnia	jeliciarnia	subst:sg:nom:f	nazwa_pospolita	spoż.
 jeliciarniami	jeliciarnia	subst:pl:inst:f	nazwa_pospolita	spoż.
@@ -25257,6 +25268,19 @@ jeliciarstw	jeliciarstwo	subst:pl:gen:n:ncol	nazwa_pospolita
 jeliciarstwo	jeliciarstwo	subst:sg:nom.acc.voc:n:ncol	nazwa_pospolita	
 jeliciarstwom	jeliciarstwo	subst:pl:dat:n:ncol	nazwa_pospolita	
 jeliciarstwu	jeliciarstwo	subst:sg:dat:n:ncol	nazwa_pospolita	
+jeliciarzach	jeliciarz	subst:pl:loc:m1	nazwa_pospolita	spoż.
+jeliciarza	jeliciarz	subst:sg:gen.acc:m1	nazwa_pospolita	spoż.
+jeliciarzami	jeliciarz	subst:pl:inst:m1	nazwa_pospolita	spoż.
+jeliciarze	jeliciarz	depr:pl:nom.acc.voc:m2	nazwa_pospolita	spoż.
+jeliciarze	jeliciarz	subst:pl:nom.voc:m1	nazwa_pospolita	spoż.
+jeliciarzem	jeliciarz	subst:sg:inst:m1	nazwa_pospolita	spoż.
+jeliciarz	jeliciarz	subst:sg:nom:m1	nazwa_pospolita	spoż.
+jeliciarzom	jeliciarz	subst:pl:dat:m1	nazwa_pospolita	spoż.
+jeliciarzowi	jeliciarz	subst:sg:dat:m1	nazwa_pospolita	spoż.
+jeliciarzów	jeliciarz	subst:pl:gen.acc:m1	nazwa_pospolita	spoż.
+jeliciarzu	jeliciarz	subst:sg:loc:m1	nazwa_pospolita	spoż.
+jeliciarzu	jeliciarz	subst:sg:voc:m1	nazwa_pospolita	spoż.
+jeliciarzy	jeliciarz	subst:pl:gen.acc:m1	nazwa_pospolita	spoż.
 jelicie	jelito	subst:sg:loc:n:ncol	nazwa_pospolita	
 jelitach	jelito	subst:pl:loc:n:ncol	nazwa_pospolita	
 jelita	jelito	subst:pl:nom.acc.voc:n:ncol	nazwa_pospolita	

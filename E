@@ -162,6 +162,7 @@ Eckerty	Eckert:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Eckert	Eckert:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Eco	Eco	depr:pl:nom.acc.voc:m2	nazwisko	
 Eco	Eco	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko	
+ECS	ECS	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa_instytucji	
 ECU	ECU	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa_pospolita	
 Edach	Ed	subst:pl:loc:m1	imię	
 Eda	Ed	subst:sg:gen.acc:m1	imię	
