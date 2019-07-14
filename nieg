@@ -28115,48 +28115,20 @@ niegodziwcy	niegodziwiec	subst:pl:nom:m1	nazwa pospolita
 niegodziwcy	niegodziwiec	subst:pl:voc:m1	nazwa pospolita	
 niegodziwcze	niegodziwiec	subst:sg:voc:m1	nazwa pospolita	
 niegodziwiec	niegodziwiec	subst:sg:nom:m1	nazwa pospolita	
-niegodziwościach	niegodziwość:s	subst:pl:loc:f	nazwa pospolita	
-niegodziwościami	niegodziwość:s	subst:pl:inst:f	nazwa pospolita	
-niegodziwością	niegodziwość:s	subst:sg:inst:f	nazwa pospolita	
-niegodziwości	niegodziwość:s	subst:pl:acc:f	nazwa pospolita	
-niegodziwości	niegodziwość:s	subst:pl:gen:f	nazwa pospolita	
-niegodziwości	niegodziwość:s	subst:pl:nom:f	nazwa pospolita	
-niegodziwości	niegodziwość:s	subst:pl:voc:f	nazwa pospolita	
-niegodziwości	niegodziwość:s	subst:sg:dat:f	nazwa pospolita	
-niegodziwości	niegodziwość:s	subst:sg:gen:f	nazwa pospolita	
-niegodziwości	niegodziwość:s	subst:sg:loc:f	nazwa pospolita	
-niegodziwości	niegodziwość:s	subst:sg:voc:f	nazwa pospolita	
-niegodziwościom	niegodziwość:s	subst:pl:dat:f	nazwa pospolita	
-niegodziwość	niegodziwość:s	subst:sg:acc:f	nazwa pospolita	
-niegodziwość	niegodziwość:s	subst:sg:nom:f	nazwa pospolita	
-niegodziwościach	niegodziwość:s2	subst:pl:loc:f	nazwa pospolita	
-niegodziwościami	niegodziwość:s2	subst:pl:inst:f	nazwa pospolita	
-niegodziwością	niegodziwość:s2	subst:sg:inst:f	nazwa pospolita	
-niegodziwości	niegodziwość:s2	subst:pl:acc:f	nazwa pospolita	
-niegodziwości	niegodziwość:s2	subst:pl:gen:f	nazwa pospolita	
-niegodziwości	niegodziwość:s2	subst:pl:nom:f	nazwa pospolita	
-niegodziwości	niegodziwość:s2	subst:pl:voc:f	nazwa pospolita	
-niegodziwości	niegodziwość:s2	subst:sg:dat:f	nazwa pospolita	
-niegodziwości	niegodziwość:s2	subst:sg:gen:f	nazwa pospolita	
-niegodziwości	niegodziwość:s2	subst:sg:loc:f	nazwa pospolita	
-niegodziwości	niegodziwość:s2	subst:sg:voc:f	nazwa pospolita	
-niegodziwościom	niegodziwość:s2	subst:pl:dat:f	nazwa pospolita	
-niegodziwość	niegodziwość:s2	subst:sg:acc:f	nazwa pospolita	
-niegodziwość	niegodziwość:s2	subst:sg:nom:f	nazwa pospolita	
-niegodziwościach	niegodziwość:s3	subst:pl:loc:f	nazwa pospolita	
-niegodziwościami	niegodziwość:s3	subst:pl:inst:f	nazwa pospolita	
-niegodziwością	niegodziwość:s3	subst:sg:inst:f	nazwa pospolita	
-niegodziwości	niegodziwość:s3	subst:pl:acc:f	nazwa pospolita	
-niegodziwości	niegodziwość:s3	subst:pl:gen:f	nazwa pospolita	
-niegodziwości	niegodziwość:s3	subst:pl:nom:f	nazwa pospolita	
-niegodziwości	niegodziwość:s3	subst:pl:voc:f	nazwa pospolita	
-niegodziwości	niegodziwość:s3	subst:sg:dat:f	nazwa pospolita	
-niegodziwości	niegodziwość:s3	subst:sg:gen:f	nazwa pospolita	
-niegodziwości	niegodziwość:s3	subst:sg:loc:f	nazwa pospolita	
-niegodziwości	niegodziwość:s3	subst:sg:voc:f	nazwa pospolita	
-niegodziwościom	niegodziwość:s3	subst:pl:dat:f	nazwa pospolita	
-niegodziwość	niegodziwość:s3	subst:sg:acc:f	nazwa pospolita	
-niegodziwość	niegodziwość:s3	subst:sg:nom:f	nazwa pospolita	
+niegodziwościach	niegodziwość	subst:pl:loc:f	nazwa pospolita	
+niegodziwościami	niegodziwość	subst:pl:inst:f	nazwa pospolita	
+niegodziwością	niegodziwość	subst:sg:inst:f	nazwa pospolita	
+niegodziwości	niegodziwość	subst:pl:acc:f	nazwa pospolita	
+niegodziwości	niegodziwość	subst:pl:gen:f	nazwa pospolita	
+niegodziwości	niegodziwość	subst:pl:nom:f	nazwa pospolita	
+niegodziwości	niegodziwość	subst:pl:voc:f	nazwa pospolita	
+niegodziwości	niegodziwość	subst:sg:dat:f	nazwa pospolita	
+niegodziwości	niegodziwość	subst:sg:gen:f	nazwa pospolita	
+niegodziwości	niegodziwość	subst:sg:loc:f	nazwa pospolita	
+niegodziwości	niegodziwość	subst:sg:voc:f	nazwa pospolita	
+niegodziwościom	niegodziwość	subst:pl:dat:f	nazwa pospolita	
+niegodziwość	niegodziwość	subst:sg:acc:f	nazwa pospolita	
+niegodziwość	niegodziwość	subst:sg:nom:f	nazwa pospolita	
 niegodziwa	niegodziwy:a1	adj:sg:nom.voc:f:pos		
 niegodziwą	niegodziwy:a1	adj:sg:acc:f:pos		
 niegodziwą	niegodziwy:a1	adj:sg:inst:f:pos		
@@ -31980,34 +31952,20 @@ niegospodarkom	niegospodarka	subst:pl:dat:f	nazwa pospolita
 niegospodarko	niegospodarka	subst:sg:voc:f	nazwa pospolita	
 niegospodarnie	niegospodarnie	adv:pos		
 niegospodarno	niegospodarno	adv:pos		
-niegospodarnościach	niegospodarność:s	subst:pl:loc:f	nazwa pospolita	
-niegospodarnościami	niegospodarność:s	subst:pl:inst:f	nazwa pospolita	
-niegospodarnością	niegospodarność:s	subst:sg:inst:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:pl:acc:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:pl:gen:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:pl:nom:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:pl:voc:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:sg:dat:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:sg:gen:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:sg:loc:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:sg:voc:f	nazwa pospolita	
-niegospodarnościom	niegospodarność:s	subst:pl:dat:f	nazwa pospolita	
-niegospodarność	niegospodarność:s	subst:sg:acc:f	nazwa pospolita	
-niegospodarność	niegospodarność:s	subst:sg:nom:f	nazwa pospolita	
-niegospodarnościach	niegospodarność:s	subst:pl:loc:f	nazwa pospolita	
-niegospodarnościami	niegospodarność:s	subst:pl:inst:f	nazwa pospolita	
-niegospodarnością	niegospodarność:s	subst:sg:inst:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:pl:acc:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:pl:gen:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:pl:nom:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:pl:voc:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:sg:dat:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:sg:gen:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:sg:loc:f	nazwa pospolita	
-niegospodarności	niegospodarność:s	subst:sg:voc:f	nazwa pospolita	
-niegospodarnościom	niegospodarność:s	subst:pl:dat:f	nazwa pospolita	
-niegospodarność	niegospodarność:s	subst:sg:acc:f	nazwa pospolita	
-niegospodarność	niegospodarność:s	subst:sg:nom:f	nazwa pospolita	
+niegospodarnościach	niegospodarność	subst:pl:loc:f	nazwa pospolita	
+niegospodarnościami	niegospodarność	subst:pl:inst:f	nazwa pospolita	
+niegospodarnością	niegospodarność	subst:sg:inst:f	nazwa pospolita	
+niegospodarności	niegospodarność	subst:pl:acc:f	nazwa pospolita	
+niegospodarności	niegospodarność	subst:pl:gen:f	nazwa pospolita	
+niegospodarności	niegospodarność	subst:pl:nom:f	nazwa pospolita	
+niegospodarności	niegospodarność	subst:pl:voc:f	nazwa pospolita	
+niegospodarności	niegospodarność	subst:sg:dat:f	nazwa pospolita	
+niegospodarności	niegospodarność	subst:sg:gen:f	nazwa pospolita	
+niegospodarności	niegospodarność	subst:sg:loc:f	nazwa pospolita	
+niegospodarności	niegospodarność	subst:sg:voc:f	nazwa pospolita	
+niegospodarnościom	niegospodarność	subst:pl:dat:f	nazwa pospolita	
+niegospodarność	niegospodarność	subst:sg:acc:f	nazwa pospolita	
+niegospodarność	niegospodarność	subst:sg:nom:f	nazwa pospolita	
 niegospodarna	niegospodarny	adj:sg:nom.voc:f:pos		
 niegospodarną	niegospodarny	adj:sg:acc:f:pos		
 niegospodarną	niegospodarny	adj:sg:inst:f:pos		
@@ -32411,34 +32369,20 @@ niegościkowskościom	niegościkowskość	subst:pl:dat:f	nazwa pospolita
 niegościkowskość	niegościkowskość	subst:sg:acc:f	nazwa pospolita	
 niegościkowskość	niegościkowskość	subst:sg:nom:f	nazwa pospolita	
 niegościnnie	niegościnnie	adv:pos		
-niegościnnościach	niegościnność:s	subst:pl:loc:f	nazwa pospolita	
-niegościnnościami	niegościnność:s	subst:pl:inst:f	nazwa pospolita	
-niegościnnością	niegościnność:s	subst:sg:inst:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:pl:acc:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:pl:gen:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:pl:nom:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:pl:voc:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:sg:dat:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:sg:gen:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:sg:loc:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:sg:voc:f	nazwa pospolita	
-niegościnnościom	niegościnność:s	subst:pl:dat:f	nazwa pospolita	
-niegościnność	niegościnność:s	subst:sg:acc:f	nazwa pospolita	
-niegościnność	niegościnność:s	subst:sg:nom:f	nazwa pospolita	
-niegościnnościach	niegościnność:s	subst:pl:loc:f	nazwa pospolita	
-niegościnnościami	niegościnność:s	subst:pl:inst:f	nazwa pospolita	
-niegościnnością	niegościnność:s	subst:sg:inst:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:pl:acc:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:pl:gen:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:pl:nom:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:pl:voc:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:sg:dat:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:sg:gen:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:sg:loc:f	nazwa pospolita	
-niegościnności	niegościnność:s	subst:sg:voc:f	nazwa pospolita	
-niegościnnościom	niegościnność:s	subst:pl:dat:f	nazwa pospolita	
-niegościnność	niegościnność:s	subst:sg:acc:f	nazwa pospolita	
-niegościnność	niegościnność:s	subst:sg:nom:f	nazwa pospolita	
+niegościnnościach	niegościnność	subst:pl:loc:f	nazwa pospolita	
+niegościnnościami	niegościnność	subst:pl:inst:f	nazwa pospolita	
+niegościnnością	niegościnność	subst:sg:inst:f	nazwa pospolita	
+niegościnności	niegościnność	subst:pl:acc:f	nazwa pospolita	
+niegościnności	niegościnność	subst:pl:gen:f	nazwa pospolita	
+niegościnności	niegościnność	subst:pl:nom:f	nazwa pospolita	
+niegościnności	niegościnność	subst:pl:voc:f	nazwa pospolita	
+niegościnności	niegościnność	subst:sg:dat:f	nazwa pospolita	
+niegościnności	niegościnność	subst:sg:gen:f	nazwa pospolita	
+niegościnności	niegościnność	subst:sg:loc:f	nazwa pospolita	
+niegościnności	niegościnność	subst:sg:voc:f	nazwa pospolita	
+niegościnnościom	niegościnność	subst:pl:dat:f	nazwa pospolita	
+niegościnność	niegościnność	subst:sg:acc:f	nazwa pospolita	
+niegościnność	niegościnność	subst:sg:nom:f	nazwa pospolita	
 niegościnna	niegościnny	adj:sg:nom.voc:f:pos		
 niegościnną	niegościnny	adj:sg:acc:f:pos		
 niegościnną	niegościnny	adj:sg:inst:f:pos		
@@ -42935,48 +42879,20 @@ niegrzecznościowym	niegrzecznościowy	adj:sg:inst:m1.m2.m3.n1.n2:pos
 niegrzecznościowym	niegrzecznościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 niegrzecznościowy	niegrzecznościowy	adj:sg:acc:m3:pos		
 niegrzecznościowy	niegrzecznościowy	adj:sg:nom.voc:m1.m2.m3:pos		
-niegrzecznościach	niegrzeczność:s	subst:pl:loc:f	nazwa pospolita	
-niegrzecznościami	niegrzeczność:s	subst:pl:inst:f	nazwa pospolita	
-niegrzecznością	niegrzeczność:s	subst:sg:inst:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s	subst:pl:acc:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s	subst:pl:gen:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s	subst:pl:nom:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s	subst:pl:voc:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s	subst:sg:dat:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s	subst:sg:gen:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s	subst:sg:loc:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s	subst:sg:voc:f	nazwa pospolita	
-niegrzecznościom	niegrzeczność:s	subst:pl:dat:f	nazwa pospolita	
-niegrzeczność	niegrzeczność:s	subst:sg:acc:f	nazwa pospolita	
-niegrzeczność	niegrzeczność:s	subst:sg:nom:f	nazwa pospolita	
-niegrzecznościach	niegrzeczność:s2	subst:pl:loc:f	nazwa pospolita	
-niegrzecznościami	niegrzeczność:s2	subst:pl:inst:f	nazwa pospolita	
-niegrzecznością	niegrzeczność:s2	subst:sg:inst:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s2	subst:pl:acc:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s2	subst:pl:gen:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s2	subst:pl:nom:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s2	subst:pl:voc:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s2	subst:sg:dat:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s2	subst:sg:gen:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s2	subst:sg:loc:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s2	subst:sg:voc:f	nazwa pospolita	
-niegrzecznościom	niegrzeczność:s2	subst:pl:dat:f	nazwa pospolita	
-niegrzeczność	niegrzeczność:s2	subst:sg:acc:f	nazwa pospolita	
-niegrzeczność	niegrzeczność:s2	subst:sg:nom:f	nazwa pospolita	
-niegrzecznościach	niegrzeczność:s3	subst:pl:loc:f	nazwa pospolita	
-niegrzecznościami	niegrzeczność:s3	subst:pl:inst:f	nazwa pospolita	
-niegrzecznością	niegrzeczność:s3	subst:sg:inst:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s3	subst:pl:acc:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s3	subst:pl:gen:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s3	subst:pl:nom:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s3	subst:pl:voc:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s3	subst:sg:dat:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s3	subst:sg:gen:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s3	subst:sg:loc:f	nazwa pospolita	
-niegrzeczności	niegrzeczność:s3	subst:sg:voc:f	nazwa pospolita	
-niegrzecznościom	niegrzeczność:s3	subst:pl:dat:f	nazwa pospolita	
-niegrzeczność	niegrzeczność:s3	subst:sg:acc:f	nazwa pospolita	
-niegrzeczność	niegrzeczność:s3	subst:sg:nom:f	nazwa pospolita	
+niegrzecznościach	niegrzeczność	subst:pl:loc:f	nazwa pospolita	
+niegrzecznościami	niegrzeczność	subst:pl:inst:f	nazwa pospolita	
+niegrzecznością	niegrzeczność	subst:sg:inst:f	nazwa pospolita	
+niegrzeczności	niegrzeczność	subst:pl:acc:f	nazwa pospolita	
+niegrzeczności	niegrzeczność	subst:pl:gen:f	nazwa pospolita	
+niegrzeczności	niegrzeczność	subst:pl:nom:f	nazwa pospolita	
+niegrzeczności	niegrzeczność	subst:pl:voc:f	nazwa pospolita	
+niegrzeczności	niegrzeczność	subst:sg:dat:f	nazwa pospolita	
+niegrzeczności	niegrzeczność	subst:sg:gen:f	nazwa pospolita	
+niegrzeczności	niegrzeczność	subst:sg:loc:f	nazwa pospolita	
+niegrzeczności	niegrzeczność	subst:sg:voc:f	nazwa pospolita	
+niegrzecznościom	niegrzeczność	subst:pl:dat:f	nazwa pospolita	
+niegrzeczność	niegrzeczność	subst:sg:acc:f	nazwa pospolita	
+niegrzeczność	niegrzeczność	subst:sg:nom:f	nazwa pospolita	
 niegrzeczna	niegrzeczny:a1	adj:sg:nom.voc:f:pos		
 niegrzeczną	niegrzeczny:a1	adj:sg:acc:f:pos		
 niegrzeczną	niegrzeczny:a1	adj:sg:inst:f:pos		

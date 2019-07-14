@@ -2162,34 +2162,20 @@ efektuję	efektować	fin:sg:pri:imperf		przest.
 efektujmy	efektować	impt:pl:pri:imperf		przest.
 efektownie	efektownie	adv:pos		
 efektowniej	efektownie	adv:com		
-efektownościach	efektowność:s	subst:pl:loc:f	nazwa pospolita	
-efektownościami	efektowność:s	subst:pl:inst:f	nazwa pospolita	
-efektownością	efektowność:s	subst:sg:inst:f	nazwa pospolita	
-efektowności	efektowność:s	subst:pl:acc:f	nazwa pospolita	
-efektowności	efektowność:s	subst:pl:gen:f	nazwa pospolita	
-efektowności	efektowność:s	subst:pl:nom:f	nazwa pospolita	
-efektowności	efektowność:s	subst:pl:voc:f	nazwa pospolita	
-efektowności	efektowność:s	subst:sg:dat:f	nazwa pospolita	
-efektowności	efektowność:s	subst:sg:gen:f	nazwa pospolita	
-efektowności	efektowność:s	subst:sg:loc:f	nazwa pospolita	
-efektowności	efektowność:s	subst:sg:voc:f	nazwa pospolita	
-efektownościom	efektowność:s	subst:pl:dat:f	nazwa pospolita	
-efektowność	efektowność:s	subst:sg:acc:f	nazwa pospolita	
-efektowność	efektowność:s	subst:sg:nom:f	nazwa pospolita	
-efektownościach	efektowność:s	subst:pl:loc:f	nazwa pospolita	
-efektownościami	efektowność:s	subst:pl:inst:f	nazwa pospolita	
-efektownością	efektowność:s	subst:sg:inst:f	nazwa pospolita	
-efektowności	efektowność:s	subst:pl:acc:f	nazwa pospolita	
-efektowności	efektowność:s	subst:pl:gen:f	nazwa pospolita	
-efektowności	efektowność:s	subst:pl:nom:f	nazwa pospolita	
-efektowności	efektowność:s	subst:pl:voc:f	nazwa pospolita	
-efektowności	efektowność:s	subst:sg:dat:f	nazwa pospolita	
-efektowności	efektowność:s	subst:sg:gen:f	nazwa pospolita	
-efektowności	efektowność:s	subst:sg:loc:f	nazwa pospolita	
-efektowności	efektowność:s	subst:sg:voc:f	nazwa pospolita	
-efektownościom	efektowność:s	subst:pl:dat:f	nazwa pospolita	
-efektowność	efektowność:s	subst:sg:acc:f	nazwa pospolita	
-efektowność	efektowność:s	subst:sg:nom:f	nazwa pospolita	
+efektownościach	efektowność	subst:pl:loc:f	nazwa pospolita	
+efektownościami	efektowność	subst:pl:inst:f	nazwa pospolita	
+efektownością	efektowność	subst:sg:inst:f	nazwa pospolita	
+efektowności	efektowność	subst:pl:acc:f	nazwa pospolita	
+efektowności	efektowność	subst:pl:gen:f	nazwa pospolita	
+efektowności	efektowność	subst:pl:nom:f	nazwa pospolita	
+efektowności	efektowność	subst:pl:voc:f	nazwa pospolita	
+efektowności	efektowność	subst:sg:dat:f	nazwa pospolita	
+efektowności	efektowność	subst:sg:gen:f	nazwa pospolita	
+efektowności	efektowność	subst:sg:loc:f	nazwa pospolita	
+efektowności	efektowność	subst:sg:voc:f	nazwa pospolita	
+efektownościom	efektowność	subst:pl:dat:f	nazwa pospolita	
+efektowność	efektowność	subst:sg:acc:f	nazwa pospolita	
+efektowność	efektowność	subst:sg:nom:f	nazwa pospolita	
 efektowna	efektowny	adj:sg:nom.voc:f:pos		
 efektowną	efektowny	adj:sg:acc:f:pos		
 efektowną	efektowny	adj:sg:inst:f:pos		
@@ -2315,34 +2301,20 @@ efektywnościowym	efektywnościowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 efektywnościowym	efektywnościowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 efektywnościowym	efektywnościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 efektywnościowymi	efektywnościowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-efektywnościach	efektywność:s	subst:pl:loc:f	nazwa pospolita	
-efektywnościami	efektywność:s	subst:pl:inst:f	nazwa pospolita	
-efektywnością	efektywność:s	subst:sg:inst:f	nazwa pospolita	
-efektywności	efektywność:s	subst:pl:acc:f	nazwa pospolita	
-efektywności	efektywność:s	subst:pl:gen:f	nazwa pospolita	
-efektywności	efektywność:s	subst:pl:nom:f	nazwa pospolita	
-efektywności	efektywność:s	subst:pl:voc:f	nazwa pospolita	
-efektywności	efektywność:s	subst:sg:dat:f	nazwa pospolita	
-efektywności	efektywność:s	subst:sg:gen:f	nazwa pospolita	
-efektywności	efektywność:s	subst:sg:loc:f	nazwa pospolita	
-efektywności	efektywność:s	subst:sg:voc:f	nazwa pospolita	
-efektywnościom	efektywność:s	subst:pl:dat:f	nazwa pospolita	
-efektywność	efektywność:s	subst:sg:acc:f	nazwa pospolita	
-efektywność	efektywność:s	subst:sg:nom:f	nazwa pospolita	
-efektywnościach	efektywność:s	subst:pl:loc:f	nazwa pospolita	
-efektywnościami	efektywność:s	subst:pl:inst:f	nazwa pospolita	
-efektywnością	efektywność:s	subst:sg:inst:f	nazwa pospolita	
-efektywności	efektywność:s	subst:pl:acc:f	nazwa pospolita	
-efektywności	efektywność:s	subst:pl:gen:f	nazwa pospolita	
-efektywności	efektywność:s	subst:pl:nom:f	nazwa pospolita	
-efektywności	efektywność:s	subst:pl:voc:f	nazwa pospolita	
-efektywności	efektywność:s	subst:sg:dat:f	nazwa pospolita	
-efektywności	efektywność:s	subst:sg:gen:f	nazwa pospolita	
-efektywności	efektywność:s	subst:sg:loc:f	nazwa pospolita	
-efektywności	efektywność:s	subst:sg:voc:f	nazwa pospolita	
-efektywnościom	efektywność:s	subst:pl:dat:f	nazwa pospolita	
-efektywność	efektywność:s	subst:sg:acc:f	nazwa pospolita	
-efektywność	efektywność:s	subst:sg:nom:f	nazwa pospolita	
+efektywnościach	efektywność	subst:pl:loc:f	nazwa pospolita	
+efektywnościami	efektywność	subst:pl:inst:f	nazwa pospolita	
+efektywnością	efektywność	subst:sg:inst:f	nazwa pospolita	
+efektywności	efektywność	subst:pl:acc:f	nazwa pospolita	
+efektywności	efektywność	subst:pl:gen:f	nazwa pospolita	
+efektywności	efektywność	subst:pl:nom:f	nazwa pospolita	
+efektywności	efektywność	subst:pl:voc:f	nazwa pospolita	
+efektywności	efektywność	subst:sg:dat:f	nazwa pospolita	
+efektywności	efektywność	subst:sg:gen:f	nazwa pospolita	
+efektywności	efektywność	subst:sg:loc:f	nazwa pospolita	
+efektywności	efektywność	subst:sg:voc:f	nazwa pospolita	
+efektywnościom	efektywność	subst:pl:dat:f	nazwa pospolita	
+efektywność	efektywność	subst:sg:acc:f	nazwa pospolita	
+efektywność	efektywność	subst:sg:nom:f	nazwa pospolita	
 efektywna	efektywny	adj:sg:nom.voc:f:pos		
 efektywną	efektywny	adj:sg:acc:f:pos		
 efektywną	efektywny	adj:sg:inst:f:pos		
@@ -8878,34 +8850,20 @@ ekscentryczko	ekscentryczka	subst:sg:voc:f	nazwa pospolita
 ekscentryczkom	ekscentryczka	subst:pl:dat:f	nazwa pospolita	
 ekscentrycznie	ekscentrycznie	adv:pos		
 ekscentryczniej	ekscentrycznie	adv:com		
-ekscentrycznościach	ekscentryczność:s	subst:pl:loc:f	nazwa pospolita	
-ekscentrycznościami	ekscentryczność:s	subst:pl:inst:f	nazwa pospolita	
-ekscentrycznością	ekscentryczność:s	subst:sg:inst:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:pl:acc:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:pl:gen:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:pl:nom:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:pl:voc:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:sg:dat:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:sg:gen:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:sg:loc:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:sg:voc:f	nazwa pospolita	
-ekscentrycznościom	ekscentryczność:s	subst:pl:dat:f	nazwa pospolita	
-ekscentryczność	ekscentryczność:s	subst:sg:acc:f	nazwa pospolita	
-ekscentryczność	ekscentryczność:s	subst:sg:nom:f	nazwa pospolita	
-ekscentrycznościach	ekscentryczność:s	subst:pl:loc:f	nazwa pospolita	
-ekscentrycznościami	ekscentryczność:s	subst:pl:inst:f	nazwa pospolita	
-ekscentrycznością	ekscentryczność:s	subst:sg:inst:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:pl:acc:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:pl:gen:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:pl:nom:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:pl:voc:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:sg:dat:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:sg:gen:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:sg:loc:f	nazwa pospolita	
-ekscentryczności	ekscentryczność:s	subst:sg:voc:f	nazwa pospolita	
-ekscentrycznościom	ekscentryczność:s	subst:pl:dat:f	nazwa pospolita	
-ekscentryczność	ekscentryczność:s	subst:sg:acc:f	nazwa pospolita	
-ekscentryczność	ekscentryczność:s	subst:sg:nom:f	nazwa pospolita	
+ekscentrycznościach	ekscentryczność	subst:pl:loc:f	nazwa pospolita	
+ekscentrycznościami	ekscentryczność	subst:pl:inst:f	nazwa pospolita	
+ekscentrycznością	ekscentryczność	subst:sg:inst:f	nazwa pospolita	
+ekscentryczności	ekscentryczność	subst:pl:acc:f	nazwa pospolita	
+ekscentryczności	ekscentryczność	subst:pl:gen:f	nazwa pospolita	
+ekscentryczności	ekscentryczność	subst:pl:nom:f	nazwa pospolita	
+ekscentryczności	ekscentryczność	subst:pl:voc:f	nazwa pospolita	
+ekscentryczności	ekscentryczność	subst:sg:dat:f	nazwa pospolita	
+ekscentryczności	ekscentryczność	subst:sg:gen:f	nazwa pospolita	
+ekscentryczności	ekscentryczność	subst:sg:loc:f	nazwa pospolita	
+ekscentryczności	ekscentryczność	subst:sg:voc:f	nazwa pospolita	
+ekscentrycznościom	ekscentryczność	subst:pl:dat:f	nazwa pospolita	
+ekscentryczność	ekscentryczność	subst:sg:acc:f	nazwa pospolita	
+ekscentryczność	ekscentryczność	subst:sg:nom:f	nazwa pospolita	
 ekscentryczna	ekscentryczny	adj:sg:nom.voc:f:pos		
 ekscentryczną	ekscentryczny	adj:sg:acc:f:pos		
 ekscentryczną	ekscentryczny	adj:sg:inst:f:pos		
@@ -10929,34 +10887,20 @@ ekspansyjnym	ekspansyjny	adj:sg:inst:m1.m2.m3.n1.n2:pos
 ekspansyjnym	ekspansyjny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ekspansyjnymi	ekspansyjny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 ekspansywnie	ekspansywnie	adv:pos		
-ekspansywnościach	ekspansywność:s	subst:pl:loc:f	nazwa pospolita	
-ekspansywnościami	ekspansywność:s	subst:pl:inst:f	nazwa pospolita	
-ekspansywnością	ekspansywność:s	subst:sg:inst:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:pl:acc:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:pl:gen:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:pl:nom:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:pl:voc:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:sg:dat:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:sg:gen:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:sg:loc:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:sg:voc:f	nazwa pospolita	
-ekspansywnościom	ekspansywność:s	subst:pl:dat:f	nazwa pospolita	
-ekspansywność	ekspansywność:s	subst:sg:acc:f	nazwa pospolita	
-ekspansywność	ekspansywność:s	subst:sg:nom:f	nazwa pospolita	
-ekspansywnościach	ekspansywność:s	subst:pl:loc:f	nazwa pospolita	
-ekspansywnościami	ekspansywność:s	subst:pl:inst:f	nazwa pospolita	
-ekspansywnością	ekspansywność:s	subst:sg:inst:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:pl:acc:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:pl:gen:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:pl:nom:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:pl:voc:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:sg:dat:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:sg:gen:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:sg:loc:f	nazwa pospolita	
-ekspansywności	ekspansywność:s	subst:sg:voc:f	nazwa pospolita	
-ekspansywnościom	ekspansywność:s	subst:pl:dat:f	nazwa pospolita	
-ekspansywność	ekspansywność:s	subst:sg:acc:f	nazwa pospolita	
-ekspansywność	ekspansywność:s	subst:sg:nom:f	nazwa pospolita	
+ekspansywnościach	ekspansywność	subst:pl:loc:f	nazwa pospolita	
+ekspansywnościami	ekspansywność	subst:pl:inst:f	nazwa pospolita	
+ekspansywnością	ekspansywność	subst:sg:inst:f	nazwa pospolita	
+ekspansywności	ekspansywność	subst:pl:acc:f	nazwa pospolita	
+ekspansywności	ekspansywność	subst:pl:gen:f	nazwa pospolita	
+ekspansywności	ekspansywność	subst:pl:nom:f	nazwa pospolita	
+ekspansywności	ekspansywność	subst:pl:voc:f	nazwa pospolita	
+ekspansywności	ekspansywność	subst:sg:dat:f	nazwa pospolita	
+ekspansywności	ekspansywność	subst:sg:gen:f	nazwa pospolita	
+ekspansywności	ekspansywność	subst:sg:loc:f	nazwa pospolita	
+ekspansywności	ekspansywność	subst:sg:voc:f	nazwa pospolita	
+ekspansywnościom	ekspansywność	subst:pl:dat:f	nazwa pospolita	
+ekspansywność	ekspansywność	subst:sg:acc:f	nazwa pospolita	
+ekspansywność	ekspansywność	subst:sg:nom:f	nazwa pospolita	
 ekspansywna	ekspansywny	adj:sg:nom.voc:f:pos		
 ekspansywną	ekspansywny	adj:sg:acc:f:pos		
 ekspansywną	ekspansywny	adj:sg:inst:f:pos		
@@ -17910,34 +17854,20 @@ elastorowym	elastorowy	adj:sg:loc:m1.m2.m3.n1.n2:pos
 elastorowymi	elastorowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 elastycznie	elastycznie	adv:pos		
 elastyczniej	elastycznie	adv:com		
-elastycznościach	elastyczność:s	subst:pl:loc:f	nazwa pospolita	
-elastycznościami	elastyczność:s	subst:pl:inst:f	nazwa pospolita	
-elastycznością	elastyczność:s	subst:sg:inst:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:pl:acc:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:pl:gen:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:pl:nom:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:pl:voc:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:sg:dat:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:sg:gen:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:sg:loc:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:sg:voc:f	nazwa pospolita	
-elastycznościom	elastyczność:s	subst:pl:dat:f	nazwa pospolita	
-elastyczność	elastyczność:s	subst:sg:acc:f	nazwa pospolita	
-elastyczność	elastyczność:s	subst:sg:nom:f	nazwa pospolita	
-elastycznościach	elastyczność:s	subst:pl:loc:f	nazwa pospolita	
-elastycznościami	elastyczność:s	subst:pl:inst:f	nazwa pospolita	
-elastycznością	elastyczność:s	subst:sg:inst:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:pl:acc:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:pl:gen:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:pl:nom:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:pl:voc:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:sg:dat:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:sg:gen:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:sg:loc:f	nazwa pospolita	
-elastyczności	elastyczność:s	subst:sg:voc:f	nazwa pospolita	
-elastycznościom	elastyczność:s	subst:pl:dat:f	nazwa pospolita	
-elastyczność	elastyczność:s	subst:sg:acc:f	nazwa pospolita	
-elastyczność	elastyczność:s	subst:sg:nom:f	nazwa pospolita	
+elastycznościach	elastyczność	subst:pl:loc:f	nazwa pospolita	
+elastycznościami	elastyczność	subst:pl:inst:f	nazwa pospolita	
+elastycznością	elastyczność	subst:sg:inst:f	nazwa pospolita	
+elastyczności	elastyczność	subst:pl:acc:f	nazwa pospolita	
+elastyczności	elastyczność	subst:pl:gen:f	nazwa pospolita	
+elastyczności	elastyczność	subst:pl:nom:f	nazwa pospolita	
+elastyczności	elastyczność	subst:pl:voc:f	nazwa pospolita	
+elastyczności	elastyczność	subst:sg:dat:f	nazwa pospolita	
+elastyczności	elastyczność	subst:sg:gen:f	nazwa pospolita	
+elastyczności	elastyczność	subst:sg:loc:f	nazwa pospolita	
+elastyczności	elastyczność	subst:sg:voc:f	nazwa pospolita	
+elastycznościom	elastyczność	subst:pl:dat:f	nazwa pospolita	
+elastyczność	elastyczność	subst:sg:acc:f	nazwa pospolita	
+elastyczność	elastyczność	subst:sg:nom:f	nazwa pospolita	
 elastyczna	elastyczny	adj:sg:nom.voc:f:pos		
 elastyczną	elastyczny	adj:sg:acc:f:pos		
 elastyczną	elastyczny	adj:sg:inst:f:pos		
@@ -22180,34 +22110,20 @@ elektryczków	elektryczek	subst:pl:gen:m3	nazwa pospolita	indyw.
 elektryczku	elektryczek	subst:sg:loc:m3	nazwa pospolita	indyw.
 elektryczku	elektryczek	subst:sg:voc:m3	nazwa pospolita	indyw.
 elektrycznie	elektrycznie	adv:pos		
-elektrycznościach	elektryczność:s	subst:pl:loc:f	nazwa pospolita	
-elektrycznościami	elektryczność:s	subst:pl:inst:f	nazwa pospolita	
-elektrycznością	elektryczność:s	subst:sg:inst:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:pl:acc:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:pl:gen:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:pl:nom:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:pl:voc:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:sg:dat:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:sg:gen:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:sg:loc:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:sg:voc:f	nazwa pospolita	
-elektrycznościom	elektryczność:s	subst:pl:dat:f	nazwa pospolita	
-elektryczność	elektryczność:s	subst:sg:acc:f	nazwa pospolita	
-elektryczność	elektryczność:s	subst:sg:nom:f	nazwa pospolita	
-elektrycznościach	elektryczność:s	subst:pl:loc:f	nazwa pospolita	
-elektrycznościami	elektryczność:s	subst:pl:inst:f	nazwa pospolita	
-elektrycznością	elektryczność:s	subst:sg:inst:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:pl:acc:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:pl:gen:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:pl:nom:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:pl:voc:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:sg:dat:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:sg:gen:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:sg:loc:f	nazwa pospolita	
-elektryczności	elektryczność:s	subst:sg:voc:f	nazwa pospolita	
-elektrycznościom	elektryczność:s	subst:pl:dat:f	nazwa pospolita	
-elektryczność	elektryczność:s	subst:sg:acc:f	nazwa pospolita	
-elektryczność	elektryczność:s	subst:sg:nom:f	nazwa pospolita	
+elektrycznościach	elektryczność	subst:pl:loc:f	nazwa pospolita	
+elektrycznościami	elektryczność	subst:pl:inst:f	nazwa pospolita	
+elektrycznością	elektryczność	subst:sg:inst:f	nazwa pospolita	
+elektryczności	elektryczność	subst:pl:acc:f	nazwa pospolita	
+elektryczności	elektryczność	subst:pl:gen:f	nazwa pospolita	
+elektryczności	elektryczność	subst:pl:nom:f	nazwa pospolita	
+elektryczności	elektryczność	subst:pl:voc:f	nazwa pospolita	
+elektryczności	elektryczność	subst:sg:dat:f	nazwa pospolita	
+elektryczności	elektryczność	subst:sg:gen:f	nazwa pospolita	
+elektryczności	elektryczność	subst:sg:loc:f	nazwa pospolita	
+elektryczności	elektryczność	subst:sg:voc:f	nazwa pospolita	
+elektrycznościom	elektryczność	subst:pl:dat:f	nazwa pospolita	
+elektryczność	elektryczność	subst:sg:acc:f	nazwa pospolita	
+elektryczność	elektryczność	subst:sg:nom:f	nazwa pospolita	
 elektryczna	elektryczny	adj:sg:nom.voc:f:pos		
 elektryczną	elektryczny	adj:sg:acc:f:pos		
 elektryczną	elektryczny	adj:sg:inst:f:pos		
@@ -27142,34 +27058,20 @@ emocjonalizmy	emocjonalizm	subst:pl:acc:m3	nazwa pospolita
 emocjonalizmy	emocjonalizm	subst:pl:nom:m3	nazwa pospolita	
 emocjonalizmy	emocjonalizm	subst:pl:voc:m3	nazwa pospolita	
 emocjonalnie	emocjonalnie	adv:pos		
-emocjonalnościach	emocjonalność:s	subst:pl:loc:f	nazwa pospolita	
-emocjonalnościami	emocjonalność:s	subst:pl:inst:f	nazwa pospolita	
-emocjonalnością	emocjonalność:s	subst:sg:inst:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:pl:acc:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:pl:gen:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:pl:nom:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:pl:voc:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:sg:dat:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:sg:gen:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:sg:loc:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:sg:voc:f	nazwa pospolita	
-emocjonalnościom	emocjonalność:s	subst:pl:dat:f	nazwa pospolita	
-emocjonalność	emocjonalność:s	subst:sg:acc:f	nazwa pospolita	
-emocjonalność	emocjonalność:s	subst:sg:nom:f	nazwa pospolita	
-emocjonalnościach	emocjonalność:s	subst:pl:loc:f	nazwa pospolita	
-emocjonalnościami	emocjonalność:s	subst:pl:inst:f	nazwa pospolita	
-emocjonalnością	emocjonalność:s	subst:sg:inst:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:pl:acc:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:pl:gen:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:pl:nom:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:pl:voc:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:sg:dat:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:sg:gen:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:sg:loc:f	nazwa pospolita	
-emocjonalności	emocjonalność:s	subst:sg:voc:f	nazwa pospolita	
-emocjonalnościom	emocjonalność:s	subst:pl:dat:f	nazwa pospolita	
-emocjonalność	emocjonalność:s	subst:sg:acc:f	nazwa pospolita	
-emocjonalność	emocjonalność:s	subst:sg:nom:f	nazwa pospolita	
+emocjonalnościach	emocjonalność	subst:pl:loc:f	nazwa pospolita	
+emocjonalnościami	emocjonalność	subst:pl:inst:f	nazwa pospolita	
+emocjonalnością	emocjonalność	subst:sg:inst:f	nazwa pospolita	
+emocjonalności	emocjonalność	subst:pl:acc:f	nazwa pospolita	
+emocjonalności	emocjonalność	subst:pl:gen:f	nazwa pospolita	
+emocjonalności	emocjonalność	subst:pl:nom:f	nazwa pospolita	
+emocjonalności	emocjonalność	subst:pl:voc:f	nazwa pospolita	
+emocjonalności	emocjonalność	subst:sg:dat:f	nazwa pospolita	
+emocjonalności	emocjonalność	subst:sg:gen:f	nazwa pospolita	
+emocjonalności	emocjonalność	subst:sg:loc:f	nazwa pospolita	
+emocjonalności	emocjonalność	subst:sg:voc:f	nazwa pospolita	
+emocjonalnościom	emocjonalność	subst:pl:dat:f	nazwa pospolita	
+emocjonalność	emocjonalność	subst:sg:acc:f	nazwa pospolita	
+emocjonalność	emocjonalność	subst:sg:nom:f	nazwa pospolita	
 emocjonalna	emocjonalny	adj:sg:nom.voc:f:pos		
 emocjonalną	emocjonalny	adj:sg:acc:f:pos		
 emocjonalną	emocjonalny	adj:sg:inst:f:pos		
@@ -49086,34 +48988,20 @@ ewenty	ewent	subst:pl:voc:m3	nazwa pospolita
 ew	ewentualnie	brev:pun		
 ewentualnie	ewentualnie:d	adv:pos		
 ewentualnie	ewentualnie:j	conj		
-ewentualnościach	ewentualność:s	subst:pl:loc:f	nazwa pospolita	
-ewentualnościami	ewentualność:s	subst:pl:inst:f	nazwa pospolita	
-ewentualnością	ewentualność:s	subst:sg:inst:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:pl:acc:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:pl:gen:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:pl:nom:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:pl:voc:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:sg:dat:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:sg:gen:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:sg:loc:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:sg:voc:f	nazwa pospolita	
-ewentualnościom	ewentualność:s	subst:pl:dat:f	nazwa pospolita	
-ewentualność	ewentualność:s	subst:sg:acc:f	nazwa pospolita	
-ewentualność	ewentualność:s	subst:sg:nom:f	nazwa pospolita	
-ewentualnościach	ewentualność:s	subst:pl:loc:f	nazwa pospolita	
-ewentualnościami	ewentualność:s	subst:pl:inst:f	nazwa pospolita	
-ewentualnością	ewentualność:s	subst:sg:inst:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:pl:acc:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:pl:gen:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:pl:nom:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:pl:voc:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:sg:dat:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:sg:gen:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:sg:loc:f	nazwa pospolita	
-ewentualności	ewentualność:s	subst:sg:voc:f	nazwa pospolita	
-ewentualnościom	ewentualność:s	subst:pl:dat:f	nazwa pospolita	
-ewentualność	ewentualność:s	subst:sg:acc:f	nazwa pospolita	
-ewentualność	ewentualność:s	subst:sg:nom:f	nazwa pospolita	
+ewentualnościach	ewentualność	subst:pl:loc:f	nazwa pospolita	
+ewentualnościami	ewentualność	subst:pl:inst:f	nazwa pospolita	
+ewentualnością	ewentualność	subst:sg:inst:f	nazwa pospolita	
+ewentualności	ewentualność	subst:pl:acc:f	nazwa pospolita	
+ewentualności	ewentualność	subst:pl:gen:f	nazwa pospolita	
+ewentualności	ewentualność	subst:pl:nom:f	nazwa pospolita	
+ewentualności	ewentualność	subst:pl:voc:f	nazwa pospolita	
+ewentualności	ewentualność	subst:sg:dat:f	nazwa pospolita	
+ewentualności	ewentualność	subst:sg:gen:f	nazwa pospolita	
+ewentualności	ewentualność	subst:sg:loc:f	nazwa pospolita	
+ewentualności	ewentualność	subst:sg:voc:f	nazwa pospolita	
+ewentualnościom	ewentualność	subst:pl:dat:f	nazwa pospolita	
+ewentualność	ewentualność	subst:sg:acc:f	nazwa pospolita	
+ewentualność	ewentualność	subst:sg:nom:f	nazwa pospolita	
 ewentualna	ewentualny	adj:sg:nom.voc:f:pos		
 ewentualną	ewentualny	adj:sg:acc:f:pos		
 ewentualną	ewentualny	adj:sg:inst:f:pos		

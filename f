@@ -7935,34 +7935,20 @@ fałszywki	fałszywka	subst:pl:voc:f	nazwa pospolita
 fałszywki	fałszywka	subst:sg:gen:f	nazwa pospolita	
 fałszywko	fałszywka	subst:sg:voc:f	nazwa pospolita	
 fałszywkom	fałszywka	subst:pl:dat:f	nazwa pospolita	
-fałszywościach	fałszywość:s	subst:pl:loc:f	nazwa pospolita	
-fałszywościami	fałszywość:s	subst:pl:inst:f	nazwa pospolita	
-fałszywością	fałszywość:s	subst:sg:inst:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:pl:acc:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:pl:gen:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:pl:nom:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:pl:voc:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:sg:dat:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:sg:gen:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:sg:loc:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:sg:voc:f	nazwa pospolita	
-fałszywościom	fałszywość:s	subst:pl:dat:f	nazwa pospolita	
-fałszywość	fałszywość:s	subst:sg:acc:f	nazwa pospolita	
-fałszywość	fałszywość:s	subst:sg:nom:f	nazwa pospolita	
-fałszywościach	fałszywość:s	subst:pl:loc:f	nazwa pospolita	
-fałszywościami	fałszywość:s	subst:pl:inst:f	nazwa pospolita	
-fałszywością	fałszywość:s	subst:sg:inst:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:pl:acc:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:pl:gen:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:pl:nom:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:pl:voc:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:sg:dat:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:sg:gen:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:sg:loc:f	nazwa pospolita	
-fałszywości	fałszywość:s	subst:sg:voc:f	nazwa pospolita	
-fałszywościom	fałszywość:s	subst:pl:dat:f	nazwa pospolita	
-fałszywość	fałszywość:s	subst:sg:acc:f	nazwa pospolita	
-fałszywość	fałszywość:s	subst:sg:nom:f	nazwa pospolita	
+fałszywościach	fałszywość	subst:pl:loc:f	nazwa pospolita	
+fałszywościami	fałszywość	subst:pl:inst:f	nazwa pospolita	
+fałszywością	fałszywość	subst:sg:inst:f	nazwa pospolita	
+fałszywości	fałszywość	subst:pl:acc:f	nazwa pospolita	
+fałszywości	fałszywość	subst:pl:gen:f	nazwa pospolita	
+fałszywości	fałszywość	subst:pl:nom:f	nazwa pospolita	
+fałszywości	fałszywość	subst:pl:voc:f	nazwa pospolita	
+fałszywości	fałszywość	subst:sg:dat:f	nazwa pospolita	
+fałszywości	fałszywość	subst:sg:gen:f	nazwa pospolita	
+fałszywości	fałszywość	subst:sg:loc:f	nazwa pospolita	
+fałszywości	fałszywość	subst:sg:voc:f	nazwa pospolita	
+fałszywościom	fałszywość	subst:pl:dat:f	nazwa pospolita	
+fałszywość	fałszywość	subst:sg:acc:f	nazwa pospolita	
+fałszywość	fałszywość	subst:sg:nom:f	nazwa pospolita	
 fałszywa	fałszywy	adj:sg:nom.voc:f:pos		
 fałszywą	fałszywy	adj:sg:acc:f:pos		
 fałszywą	fałszywy	adj:sg:inst:f:pos		
@@ -21854,34 +21840,20 @@ ferrochromu	ferrochrom	subst:sg:gen:m3	nazwa pospolita
 ferrochromy	ferrochrom	subst:pl:acc:m3	nazwa pospolita	
 ferrochromy	ferrochrom	subst:pl:nom:m3	nazwa pospolita	
 ferrochromy	ferrochrom	subst:pl:voc:m3	nazwa pospolita	
-ferroelektrycznościach	ferroelektryczność:s	subst:pl:loc:f	nazwa pospolita	
-ferroelektrycznościami	ferroelektryczność:s	subst:pl:inst:f	nazwa pospolita	
-ferroelektrycznością	ferroelektryczność:s	subst:sg:inst:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:pl:acc:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:pl:gen:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:pl:nom:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:pl:voc:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:sg:dat:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:sg:gen:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:sg:loc:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:sg:voc:f	nazwa pospolita	
-ferroelektrycznościom	ferroelektryczność:s	subst:pl:dat:f	nazwa pospolita	
-ferroelektryczność	ferroelektryczność:s	subst:sg:acc:f	nazwa pospolita	
-ferroelektryczność	ferroelektryczność:s	subst:sg:nom:f	nazwa pospolita	
-ferroelektrycznościach	ferroelektryczność:s	subst:pl:loc:f	nazwa pospolita	
-ferroelektrycznościami	ferroelektryczność:s	subst:pl:inst:f	nazwa pospolita	
-ferroelektrycznością	ferroelektryczność:s	subst:sg:inst:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:pl:acc:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:pl:gen:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:pl:nom:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:pl:voc:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:sg:dat:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:sg:gen:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:sg:loc:f	nazwa pospolita	
-ferroelektryczności	ferroelektryczność:s	subst:sg:voc:f	nazwa pospolita	
-ferroelektrycznościom	ferroelektryczność:s	subst:pl:dat:f	nazwa pospolita	
-ferroelektryczność	ferroelektryczność:s	subst:sg:acc:f	nazwa pospolita	
-ferroelektryczność	ferroelektryczność:s	subst:sg:nom:f	nazwa pospolita	
+ferroelektrycznościach	ferroelektryczność	subst:pl:loc:f	nazwa pospolita	
+ferroelektrycznościami	ferroelektryczność	subst:pl:inst:f	nazwa pospolita	
+ferroelektrycznością	ferroelektryczność	subst:sg:inst:f	nazwa pospolita	
+ferroelektryczności	ferroelektryczność	subst:pl:acc:f	nazwa pospolita	
+ferroelektryczności	ferroelektryczność	subst:pl:gen:f	nazwa pospolita	
+ferroelektryczności	ferroelektryczność	subst:pl:nom:f	nazwa pospolita	
+ferroelektryczności	ferroelektryczność	subst:pl:voc:f	nazwa pospolita	
+ferroelektryczności	ferroelektryczność	subst:sg:dat:f	nazwa pospolita	
+ferroelektryczności	ferroelektryczność	subst:sg:gen:f	nazwa pospolita	
+ferroelektryczności	ferroelektryczność	subst:sg:loc:f	nazwa pospolita	
+ferroelektryczności	ferroelektryczność	subst:sg:voc:f	nazwa pospolita	
+ferroelektrycznościom	ferroelektryczność	subst:pl:dat:f	nazwa pospolita	
+ferroelektryczność	ferroelektryczność	subst:sg:acc:f	nazwa pospolita	
+ferroelektryczność	ferroelektryczność	subst:sg:nom:f	nazwa pospolita	
 ferroelektryczna	ferroelektryczny	adj:sg:nom.voc:f:pos		
 ferroelektryczną	ferroelektryczny	adj:sg:acc:f:pos		
 ferroelektryczną	ferroelektryczny	adj:sg:inst:f:pos		
@@ -47286,34 +47258,20 @@ formalnościowym	formalnościowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 formalnościowym	formalnościowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 formalnościowym	formalnościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 formalnościowymi	formalnościowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-formalnościach	formalność:s	subst:pl:loc:f	nazwa pospolita	
-formalnościami	formalność:s	subst:pl:inst:f	nazwa pospolita	
-formalnością	formalność:s	subst:sg:inst:f	nazwa pospolita	
-formalności	formalność:s	subst:pl:acc:f	nazwa pospolita	
-formalności	formalność:s	subst:pl:gen:f	nazwa pospolita	
-formalności	formalność:s	subst:pl:nom:f	nazwa pospolita	
-formalności	formalność:s	subst:pl:voc:f	nazwa pospolita	
-formalności	formalność:s	subst:sg:dat:f	nazwa pospolita	
-formalności	formalność:s	subst:sg:gen:f	nazwa pospolita	
-formalności	formalność:s	subst:sg:loc:f	nazwa pospolita	
-formalności	formalność:s	subst:sg:voc:f	nazwa pospolita	
-formalnościom	formalność:s	subst:pl:dat:f	nazwa pospolita	
-formalność	formalność:s	subst:sg:acc:f	nazwa pospolita	
-formalność	formalność:s	subst:sg:nom:f	nazwa pospolita	
-formalnościach	formalność:s	subst:pl:loc:f	nazwa pospolita	
-formalnościami	formalność:s	subst:pl:inst:f	nazwa pospolita	
-formalnością	formalność:s	subst:sg:inst:f	nazwa pospolita	
-formalności	formalność:s	subst:pl:acc:f	nazwa pospolita	
-formalności	formalność:s	subst:pl:gen:f	nazwa pospolita	
-formalności	formalność:s	subst:pl:nom:f	nazwa pospolita	
-formalności	formalność:s	subst:pl:voc:f	nazwa pospolita	
-formalności	formalność:s	subst:sg:dat:f	nazwa pospolita	
-formalności	formalność:s	subst:sg:gen:f	nazwa pospolita	
-formalności	formalność:s	subst:sg:loc:f	nazwa pospolita	
-formalności	formalność:s	subst:sg:voc:f	nazwa pospolita	
-formalnościom	formalność:s	subst:pl:dat:f	nazwa pospolita	
-formalność	formalność:s	subst:sg:acc:f	nazwa pospolita	
-formalność	formalność:s	subst:sg:nom:f	nazwa pospolita	
+formalnościach	formalność	subst:pl:loc:f	nazwa pospolita	
+formalnościami	formalność	subst:pl:inst:f	nazwa pospolita	
+formalnością	formalność	subst:sg:inst:f	nazwa pospolita	
+formalności	formalność	subst:pl:acc:f	nazwa pospolita	
+formalności	formalność	subst:pl:gen:f	nazwa pospolita	
+formalności	formalność	subst:pl:nom:f	nazwa pospolita	
+formalności	formalność	subst:pl:voc:f	nazwa pospolita	
+formalności	formalność	subst:sg:dat:f	nazwa pospolita	
+formalności	formalność	subst:sg:gen:f	nazwa pospolita	
+formalności	formalność	subst:sg:loc:f	nazwa pospolita	
+formalności	formalność	subst:sg:voc:f	nazwa pospolita	
+formalnościom	formalność	subst:pl:dat:f	nazwa pospolita	
+formalność	formalność	subst:sg:acc:f	nazwa pospolita	
+formalność	formalność	subst:sg:nom:f	nazwa pospolita	
 formalna	formalny	adj:sg:nom.voc:f:pos		
 formalną	formalny	adj:sg:acc:f:pos		
 formalną	formalny	adj:sg:inst:f:pos		
@@ -52406,34 +52364,20 @@ fotoelektronowym	fotoelektronowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 fotoelektronowym	fotoelektronowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 fotoelektronowym	fotoelektronowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 fotoelektronowymi	fotoelektronowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-fotoelektrycznościach	fotoelektryczność:s	subst:pl:loc:f	nazwa pospolita	
-fotoelektrycznościami	fotoelektryczność:s	subst:pl:inst:f	nazwa pospolita	
-fotoelektrycznością	fotoelektryczność:s	subst:sg:inst:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:pl:acc:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:pl:gen:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:pl:nom:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:pl:voc:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:sg:dat:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:sg:gen:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:sg:loc:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:sg:voc:f	nazwa pospolita	
-fotoelektrycznościom	fotoelektryczność:s	subst:pl:dat:f	nazwa pospolita	
-fotoelektryczność	fotoelektryczność:s	subst:sg:acc:f	nazwa pospolita	
-fotoelektryczność	fotoelektryczność:s	subst:sg:nom:f	nazwa pospolita	
-fotoelektrycznościach	fotoelektryczność:s	subst:pl:loc:f	nazwa pospolita	
-fotoelektrycznościami	fotoelektryczność:s	subst:pl:inst:f	nazwa pospolita	
-fotoelektrycznością	fotoelektryczność:s	subst:sg:inst:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:pl:acc:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:pl:gen:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:pl:nom:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:pl:voc:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:sg:dat:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:sg:gen:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:sg:loc:f	nazwa pospolita	
-fotoelektryczności	fotoelektryczność:s	subst:sg:voc:f	nazwa pospolita	
-fotoelektrycznościom	fotoelektryczność:s	subst:pl:dat:f	nazwa pospolita	
-fotoelektryczność	fotoelektryczność:s	subst:sg:acc:f	nazwa pospolita	
-fotoelektryczność	fotoelektryczność:s	subst:sg:nom:f	nazwa pospolita	
+fotoelektrycznościach	fotoelektryczność	subst:pl:loc:f	nazwa pospolita	
+fotoelektrycznościami	fotoelektryczność	subst:pl:inst:f	nazwa pospolita	
+fotoelektrycznością	fotoelektryczność	subst:sg:inst:f	nazwa pospolita	
+fotoelektryczności	fotoelektryczność	subst:pl:acc:f	nazwa pospolita	
+fotoelektryczności	fotoelektryczność	subst:pl:gen:f	nazwa pospolita	
+fotoelektryczności	fotoelektryczność	subst:pl:nom:f	nazwa pospolita	
+fotoelektryczności	fotoelektryczność	subst:pl:voc:f	nazwa pospolita	
+fotoelektryczności	fotoelektryczność	subst:sg:dat:f	nazwa pospolita	
+fotoelektryczności	fotoelektryczność	subst:sg:gen:f	nazwa pospolita	
+fotoelektryczności	fotoelektryczność	subst:sg:loc:f	nazwa pospolita	
+fotoelektryczności	fotoelektryczność	subst:sg:voc:f	nazwa pospolita	
+fotoelektrycznościom	fotoelektryczność	subst:pl:dat:f	nazwa pospolita	
+fotoelektryczność	fotoelektryczność	subst:sg:acc:f	nazwa pospolita	
+fotoelektryczność	fotoelektryczność	subst:sg:nom:f	nazwa pospolita	
 fotoelektryczna	fotoelektryczny	adj:sg:nom.voc:f:pos		
 fotoelektryczną	fotoelektryczny	adj:sg:acc:f:pos		
 fotoelektryczną	fotoelektryczny	adj:sg:inst:f:pos		

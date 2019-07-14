@@ -1200,34 +1200,20 @@ idejki	idejka	subst:sg:gen:f	nazwa pospolita
 idejko	idejka	subst:sg:voc:f	nazwa pospolita	
 idejkom	idejka	subst:pl:dat:f	nazwa pospolita	
 identycznie	identycznie	adv:pos		
-identycznościach	identyczność:s	subst:pl:loc:f	nazwa pospolita	
-identycznościami	identyczność:s	subst:pl:inst:f	nazwa pospolita	
-identycznością	identyczność:s	subst:sg:inst:f	nazwa pospolita	
-identyczności	identyczność:s	subst:pl:acc:f	nazwa pospolita	
-identyczności	identyczność:s	subst:pl:gen:f	nazwa pospolita	
-identyczności	identyczność:s	subst:pl:nom:f	nazwa pospolita	
-identyczności	identyczność:s	subst:pl:voc:f	nazwa pospolita	
-identyczności	identyczność:s	subst:sg:dat:f	nazwa pospolita	
-identyczności	identyczność:s	subst:sg:gen:f	nazwa pospolita	
-identyczności	identyczność:s	subst:sg:loc:f	nazwa pospolita	
-identyczności	identyczność:s	subst:sg:voc:f	nazwa pospolita	
-identycznościom	identyczność:s	subst:pl:dat:f	nazwa pospolita	
-identyczność	identyczność:s	subst:sg:acc:f	nazwa pospolita	
-identyczność	identyczność:s	subst:sg:nom:f	nazwa pospolita	
-identycznościach	identyczność:s	subst:pl:loc:f	nazwa pospolita	
-identycznościami	identyczność:s	subst:pl:inst:f	nazwa pospolita	
-identycznością	identyczność:s	subst:sg:inst:f	nazwa pospolita	
-identyczności	identyczność:s	subst:pl:acc:f	nazwa pospolita	
-identyczności	identyczność:s	subst:pl:gen:f	nazwa pospolita	
-identyczności	identyczność:s	subst:pl:nom:f	nazwa pospolita	
-identyczności	identyczność:s	subst:pl:voc:f	nazwa pospolita	
-identyczności	identyczność:s	subst:sg:dat:f	nazwa pospolita	
-identyczności	identyczność:s	subst:sg:gen:f	nazwa pospolita	
-identyczności	identyczność:s	subst:sg:loc:f	nazwa pospolita	
-identyczności	identyczność:s	subst:sg:voc:f	nazwa pospolita	
-identycznościom	identyczność:s	subst:pl:dat:f	nazwa pospolita	
-identyczność	identyczność:s	subst:sg:acc:f	nazwa pospolita	
-identyczność	identyczność:s	subst:sg:nom:f	nazwa pospolita	
+identycznościach	identyczność	subst:pl:loc:f	nazwa pospolita	
+identycznościami	identyczność	subst:pl:inst:f	nazwa pospolita	
+identycznością	identyczność	subst:sg:inst:f	nazwa pospolita	
+identyczności	identyczność	subst:pl:acc:f	nazwa pospolita	
+identyczności	identyczność	subst:pl:gen:f	nazwa pospolita	
+identyczności	identyczność	subst:pl:nom:f	nazwa pospolita	
+identyczności	identyczność	subst:pl:voc:f	nazwa pospolita	
+identyczności	identyczność	subst:sg:dat:f	nazwa pospolita	
+identyczności	identyczność	subst:sg:gen:f	nazwa pospolita	
+identyczności	identyczność	subst:sg:loc:f	nazwa pospolita	
+identyczności	identyczność	subst:sg:voc:f	nazwa pospolita	
+identycznościom	identyczność	subst:pl:dat:f	nazwa pospolita	
+identyczność	identyczność	subst:sg:acc:f	nazwa pospolita	
+identyczność	identyczność	subst:sg:nom:f	nazwa pospolita	
 identyczna	identyczny	adj:sg:nom.voc:f:pos		
 identyczną	identyczny	adj:sg:acc:f:pos		
 identyczną	identyczny	adj:sg:inst:f:pos		
@@ -14613,34 +14599,20 @@ impulsowym	impulsowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 impulsowym	impulsowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 impulsowym	impulsowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 impulsywnie	impulsywnie	adv:pos		
-impulsywnościach	impulsywność:s	subst:pl:loc:f	nazwa pospolita	
-impulsywnościami	impulsywność:s	subst:pl:inst:f	nazwa pospolita	
-impulsywnością	impulsywność:s	subst:sg:inst:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:pl:acc:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:pl:gen:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:pl:nom:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:pl:voc:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:sg:dat:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:sg:gen:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:sg:loc:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:sg:voc:f	nazwa pospolita	
-impulsywnościom	impulsywność:s	subst:pl:dat:f	nazwa pospolita	
-impulsywność	impulsywność:s	subst:sg:acc:f	nazwa pospolita	
-impulsywność	impulsywność:s	subst:sg:nom:f	nazwa pospolita	
-impulsywnościach	impulsywność:s	subst:pl:loc:f	nazwa pospolita	
-impulsywnościami	impulsywność:s	subst:pl:inst:f	nazwa pospolita	
-impulsywnością	impulsywność:s	subst:sg:inst:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:pl:acc:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:pl:gen:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:pl:nom:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:pl:voc:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:sg:dat:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:sg:gen:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:sg:loc:f	nazwa pospolita	
-impulsywności	impulsywność:s	subst:sg:voc:f	nazwa pospolita	
-impulsywnościom	impulsywność:s	subst:pl:dat:f	nazwa pospolita	
-impulsywność	impulsywność:s	subst:sg:acc:f	nazwa pospolita	
-impulsywność	impulsywność:s	subst:sg:nom:f	nazwa pospolita	
+impulsywnościach	impulsywność	subst:pl:loc:f	nazwa pospolita	
+impulsywnościami	impulsywność	subst:pl:inst:f	nazwa pospolita	
+impulsywnością	impulsywność	subst:sg:inst:f	nazwa pospolita	
+impulsywności	impulsywność	subst:pl:acc:f	nazwa pospolita	
+impulsywności	impulsywność	subst:pl:gen:f	nazwa pospolita	
+impulsywności	impulsywność	subst:pl:nom:f	nazwa pospolita	
+impulsywności	impulsywność	subst:pl:voc:f	nazwa pospolita	
+impulsywności	impulsywność	subst:sg:dat:f	nazwa pospolita	
+impulsywności	impulsywność	subst:sg:gen:f	nazwa pospolita	
+impulsywności	impulsywność	subst:sg:loc:f	nazwa pospolita	
+impulsywności	impulsywność	subst:sg:voc:f	nazwa pospolita	
+impulsywnościom	impulsywność	subst:pl:dat:f	nazwa pospolita	
+impulsywność	impulsywność	subst:sg:acc:f	nazwa pospolita	
+impulsywność	impulsywność	subst:sg:nom:f	nazwa pospolita	
 impulsywna	impulsywny	adj:sg:nom.voc:f:pos		
 impulsywną	impulsywny	adj:sg:acc:f:pos		
 impulsywną	impulsywny	adj:sg:inst:f:pos		
@@ -17260,34 +17232,20 @@ indukcjonizmy	indukcjonizm	subst:pl:acc:m3	nazwa pospolita
 indukcjonizmy	indukcjonizm	subst:pl:nom:m3	nazwa pospolita	
 indukcjonizmy	indukcjonizm	subst:pl:voc:m3	nazwa pospolita	
 indukcyjnie	indukcyjnie	adv:pos		
-indukcyjnościach	indukcyjność:s	subst:pl:loc:f	nazwa pospolita	
-indukcyjnościami	indukcyjność:s	subst:pl:inst:f	nazwa pospolita	
-indukcyjnością	indukcyjność:s	subst:sg:inst:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:pl:acc:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:pl:gen:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:pl:nom:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:pl:voc:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:sg:dat:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:sg:gen:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:sg:loc:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:sg:voc:f	nazwa pospolita	
-indukcyjnościom	indukcyjność:s	subst:pl:dat:f	nazwa pospolita	
-indukcyjność	indukcyjność:s	subst:sg:acc:f	nazwa pospolita	
-indukcyjność	indukcyjność:s	subst:sg:nom:f	nazwa pospolita	
-indukcyjnościach	indukcyjność:s	subst:pl:loc:f	nazwa pospolita	
-indukcyjnościami	indukcyjność:s	subst:pl:inst:f	nazwa pospolita	
-indukcyjnością	indukcyjność:s	subst:sg:inst:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:pl:acc:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:pl:gen:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:pl:nom:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:pl:voc:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:sg:dat:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:sg:gen:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:sg:loc:f	nazwa pospolita	
-indukcyjności	indukcyjność:s	subst:sg:voc:f	nazwa pospolita	
-indukcyjnościom	indukcyjność:s	subst:pl:dat:f	nazwa pospolita	
-indukcyjność	indukcyjność:s	subst:sg:acc:f	nazwa pospolita	
-indukcyjność	indukcyjność:s	subst:sg:nom:f	nazwa pospolita	
+indukcyjnościach	indukcyjność	subst:pl:loc:f	nazwa pospolita	
+indukcyjnościami	indukcyjność	subst:pl:inst:f	nazwa pospolita	
+indukcyjnością	indukcyjność	subst:sg:inst:f	nazwa pospolita	
+indukcyjności	indukcyjność	subst:pl:acc:f	nazwa pospolita	
+indukcyjności	indukcyjność	subst:pl:gen:f	nazwa pospolita	
+indukcyjności	indukcyjność	subst:pl:nom:f	nazwa pospolita	
+indukcyjności	indukcyjność	subst:pl:voc:f	nazwa pospolita	
+indukcyjności	indukcyjność	subst:sg:dat:f	nazwa pospolita	
+indukcyjności	indukcyjność	subst:sg:gen:f	nazwa pospolita	
+indukcyjności	indukcyjność	subst:sg:loc:f	nazwa pospolita	
+indukcyjności	indukcyjność	subst:sg:voc:f	nazwa pospolita	
+indukcyjnościom	indukcyjność	subst:pl:dat:f	nazwa pospolita	
+indukcyjność	indukcyjność	subst:sg:acc:f	nazwa pospolita	
+indukcyjność	indukcyjność	subst:sg:nom:f	nazwa pospolita	
 indukcyjna	indukcyjny	adj:sg:nom.voc:f:pos		
 indukcyjną	indukcyjny	adj:sg:acc:f:pos		
 indukcyjną	indukcyjny	adj:sg:inst:f:pos		
@@ -18763,34 +18721,20 @@ indywidualizuję	indywidualizować	fin:sg:pri:imperf
 indywidualizuj	indywidualizować	impt:sg:sec:imperf		
 indywidualizujmy	indywidualizować	impt:pl:pri:imperf		
 indywidualnie	indywidualnie	adv:pos		
-indywidualnościach	indywidualność:s	subst:pl:loc:f	nazwa pospolita	
-indywidualnościami	indywidualność:s	subst:pl:inst:f	nazwa pospolita	
-indywidualnością	indywidualność:s	subst:sg:inst:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:pl:acc:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:pl:gen:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:pl:nom:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:pl:voc:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:sg:dat:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:sg:gen:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:sg:loc:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:sg:voc:f	nazwa pospolita	
-indywidualnościom	indywidualność:s	subst:pl:dat:f	nazwa pospolita	
-indywidualność	indywidualność:s	subst:sg:acc:f	nazwa pospolita	
-indywidualność	indywidualność:s	subst:sg:nom:f	nazwa pospolita	
-indywidualnościach	indywidualność:s	subst:pl:loc:f	nazwa pospolita	
-indywidualnościami	indywidualność:s	subst:pl:inst:f	nazwa pospolita	
-indywidualnością	indywidualność:s	subst:sg:inst:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:pl:acc:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:pl:gen:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:pl:nom:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:pl:voc:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:sg:dat:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:sg:gen:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:sg:loc:f	nazwa pospolita	
-indywidualności	indywidualność:s	subst:sg:voc:f	nazwa pospolita	
-indywidualnościom	indywidualność:s	subst:pl:dat:f	nazwa pospolita	
-indywidualność	indywidualność:s	subst:sg:acc:f	nazwa pospolita	
-indywidualność	indywidualność:s	subst:sg:nom:f	nazwa pospolita	
+indywidualnościach	indywidualność	subst:pl:loc:f	nazwa pospolita	
+indywidualnościami	indywidualność	subst:pl:inst:f	nazwa pospolita	
+indywidualnością	indywidualność	subst:sg:inst:f	nazwa pospolita	
+indywidualności	indywidualność	subst:pl:acc:f	nazwa pospolita	
+indywidualności	indywidualność	subst:pl:gen:f	nazwa pospolita	
+indywidualności	indywidualność	subst:pl:nom:f	nazwa pospolita	
+indywidualności	indywidualność	subst:pl:voc:f	nazwa pospolita	
+indywidualności	indywidualność	subst:sg:dat:f	nazwa pospolita	
+indywidualności	indywidualność	subst:sg:gen:f	nazwa pospolita	
+indywidualności	indywidualność	subst:sg:loc:f	nazwa pospolita	
+indywidualności	indywidualność	subst:sg:voc:f	nazwa pospolita	
+indywidualnościom	indywidualność	subst:pl:dat:f	nazwa pospolita	
+indywidualność	indywidualność	subst:sg:acc:f	nazwa pospolita	
+indywidualność	indywidualność	subst:sg:nom:f	nazwa pospolita	
 indywidualna	indywidualny	adj:sg:nom.voc:f:pos		
 indywidualną	indywidualny	adj:sg:acc:f:pos		
 indywidualną	indywidualny	adj:sg:inst:f:pos		
@@ -29843,34 +29787,20 @@ integralizmy	integralizm	subst:pl:acc:m3	nazwa pospolita
 integralizmy	integralizm	subst:pl:nom:m3	nazwa pospolita	
 integralizmy	integralizm	subst:pl:voc:m3	nazwa pospolita	
 integralnie	integralnie	adv:pos		
-integralnościach	integralność:s	subst:pl:loc:f	nazwa pospolita	
-integralnościami	integralność:s	subst:pl:inst:f	nazwa pospolita	
-integralnością	integralność:s	subst:sg:inst:f	nazwa pospolita	
-integralności	integralność:s	subst:pl:acc:f	nazwa pospolita	
-integralności	integralność:s	subst:pl:gen:f	nazwa pospolita	
-integralności	integralność:s	subst:pl:nom:f	nazwa pospolita	
-integralności	integralność:s	subst:pl:voc:f	nazwa pospolita	
-integralności	integralność:s	subst:sg:dat:f	nazwa pospolita	
-integralności	integralność:s	subst:sg:gen:f	nazwa pospolita	
-integralności	integralność:s	subst:sg:loc:f	nazwa pospolita	
-integralności	integralność:s	subst:sg:voc:f	nazwa pospolita	
-integralnościom	integralność:s	subst:pl:dat:f	nazwa pospolita	
-integralność	integralność:s	subst:sg:acc:f	nazwa pospolita	
-integralność	integralność:s	subst:sg:nom:f	nazwa pospolita	
-integralnościach	integralność:s	subst:pl:loc:f	nazwa pospolita	
-integralnościami	integralność:s	subst:pl:inst:f	nazwa pospolita	
-integralnością	integralność:s	subst:sg:inst:f	nazwa pospolita	
-integralności	integralność:s	subst:pl:acc:f	nazwa pospolita	
-integralności	integralność:s	subst:pl:gen:f	nazwa pospolita	
-integralności	integralność:s	subst:pl:nom:f	nazwa pospolita	
-integralności	integralność:s	subst:pl:voc:f	nazwa pospolita	
-integralności	integralność:s	subst:sg:dat:f	nazwa pospolita	
-integralności	integralność:s	subst:sg:gen:f	nazwa pospolita	
-integralności	integralność:s	subst:sg:loc:f	nazwa pospolita	
-integralności	integralność:s	subst:sg:voc:f	nazwa pospolita	
-integralnościom	integralność:s	subst:pl:dat:f	nazwa pospolita	
-integralność	integralność:s	subst:sg:acc:f	nazwa pospolita	
-integralność	integralność:s	subst:sg:nom:f	nazwa pospolita	
+integralnościach	integralność	subst:pl:loc:f	nazwa pospolita	
+integralnościami	integralność	subst:pl:inst:f	nazwa pospolita	
+integralnością	integralność	subst:sg:inst:f	nazwa pospolita	
+integralności	integralność	subst:pl:acc:f	nazwa pospolita	
+integralności	integralność	subst:pl:gen:f	nazwa pospolita	
+integralności	integralność	subst:pl:nom:f	nazwa pospolita	
+integralności	integralność	subst:pl:voc:f	nazwa pospolita	
+integralności	integralność	subst:sg:dat:f	nazwa pospolita	
+integralności	integralność	subst:sg:gen:f	nazwa pospolita	
+integralności	integralność	subst:sg:loc:f	nazwa pospolita	
+integralności	integralność	subst:sg:voc:f	nazwa pospolita	
+integralnościom	integralność	subst:pl:dat:f	nazwa pospolita	
+integralność	integralność	subst:sg:acc:f	nazwa pospolita	
+integralność	integralność	subst:sg:nom:f	nazwa pospolita	
 integralna	integralny	adj:sg:nom.voc:f:pos		
 integralną	integralny	adj:sg:acc:f:pos		
 integralną	integralny	adj:sg:inst:f:pos		
@@ -30636,34 +30566,20 @@ intencjonalizmy	intencjonalizm	subst:pl:acc:m3	nazwa pospolita
 intencjonalizmy	intencjonalizm	subst:pl:nom:m3	nazwa pospolita	
 intencjonalizmy	intencjonalizm	subst:pl:voc:m3	nazwa pospolita	
 intencjonalnie	intencjonalnie	adv:pos		
-intencjonalnościach	intencjonalność:s	subst:pl:loc:f	nazwa pospolita	
-intencjonalnościami	intencjonalność:s	subst:pl:inst:f	nazwa pospolita	
-intencjonalnością	intencjonalność:s	subst:sg:inst:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:pl:acc:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:pl:gen:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:pl:nom:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:pl:voc:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:sg:dat:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:sg:gen:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:sg:loc:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:sg:voc:f	nazwa pospolita	
-intencjonalnościom	intencjonalność:s	subst:pl:dat:f	nazwa pospolita	
-intencjonalność	intencjonalność:s	subst:sg:acc:f	nazwa pospolita	
-intencjonalność	intencjonalność:s	subst:sg:nom:f	nazwa pospolita	
-intencjonalnościach	intencjonalność:s	subst:pl:loc:f	nazwa pospolita	
-intencjonalnościami	intencjonalność:s	subst:pl:inst:f	nazwa pospolita	
-intencjonalnością	intencjonalność:s	subst:sg:inst:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:pl:acc:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:pl:gen:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:pl:nom:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:pl:voc:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:sg:dat:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:sg:gen:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:sg:loc:f	nazwa pospolita	
-intencjonalności	intencjonalność:s	subst:sg:voc:f	nazwa pospolita	
-intencjonalnościom	intencjonalność:s	subst:pl:dat:f	nazwa pospolita	
-intencjonalność	intencjonalność:s	subst:sg:acc:f	nazwa pospolita	
-intencjonalność	intencjonalność:s	subst:sg:nom:f	nazwa pospolita	
+intencjonalnościach	intencjonalność	subst:pl:loc:f	nazwa pospolita	
+intencjonalnościami	intencjonalność	subst:pl:inst:f	nazwa pospolita	
+intencjonalnością	intencjonalność	subst:sg:inst:f	nazwa pospolita	
+intencjonalności	intencjonalność	subst:pl:acc:f	nazwa pospolita	
+intencjonalności	intencjonalność	subst:pl:gen:f	nazwa pospolita	
+intencjonalności	intencjonalność	subst:pl:nom:f	nazwa pospolita	
+intencjonalności	intencjonalność	subst:pl:voc:f	nazwa pospolita	
+intencjonalności	intencjonalność	subst:sg:dat:f	nazwa pospolita	
+intencjonalności	intencjonalność	subst:sg:gen:f	nazwa pospolita	
+intencjonalności	intencjonalność	subst:sg:loc:f	nazwa pospolita	
+intencjonalności	intencjonalność	subst:sg:voc:f	nazwa pospolita	
+intencjonalnościom	intencjonalność	subst:pl:dat:f	nazwa pospolita	
+intencjonalność	intencjonalność	subst:sg:acc:f	nazwa pospolita	
+intencjonalność	intencjonalność	subst:sg:nom:f	nazwa pospolita	
 intencjonalna	intencjonalny	adj:sg:nom.voc:f:pos		
 intencjonalną	intencjonalny	adj:sg:acc:f:pos		
 intencjonalną	intencjonalny	adj:sg:inst:f:pos		
@@ -31097,34 +31013,20 @@ intensywnieniem	intensywnieć	ger:sg:inst:n2:imperf:aff
 intensywnieniom	intensywnieć	ger:pl:dat:n2:imperf:aff		
 intensywnieniu	intensywnieć	ger:sg:dat.loc:n2:imperf:aff		
 intensywnień	intensywnieć	ger:pl:gen:n2:imperf:aff		
-intensywnościach	intensywność:s	subst:pl:loc:f	nazwa pospolita	
-intensywnościami	intensywność:s	subst:pl:inst:f	nazwa pospolita	
-intensywnością	intensywność:s	subst:sg:inst:f	nazwa pospolita	
-intensywności	intensywność:s	subst:pl:acc:f	nazwa pospolita	
-intensywności	intensywność:s	subst:pl:gen:f	nazwa pospolita	
-intensywności	intensywność:s	subst:pl:nom:f	nazwa pospolita	
-intensywności	intensywność:s	subst:pl:voc:f	nazwa pospolita	
-intensywności	intensywność:s	subst:sg:dat:f	nazwa pospolita	
-intensywności	intensywność:s	subst:sg:gen:f	nazwa pospolita	
-intensywności	intensywność:s	subst:sg:loc:f	nazwa pospolita	
-intensywności	intensywność:s	subst:sg:voc:f	nazwa pospolita	
-intensywnościom	intensywność:s	subst:pl:dat:f	nazwa pospolita	
-intensywność	intensywność:s	subst:sg:acc:f	nazwa pospolita	
-intensywność	intensywność:s	subst:sg:nom:f	nazwa pospolita	
-intensywnościach	intensywność:s	subst:pl:loc:f	nazwa pospolita	
-intensywnościami	intensywność:s	subst:pl:inst:f	nazwa pospolita	
-intensywnością	intensywność:s	subst:sg:inst:f	nazwa pospolita	
-intensywności	intensywność:s	subst:pl:acc:f	nazwa pospolita	
-intensywności	intensywność:s	subst:pl:gen:f	nazwa pospolita	
-intensywności	intensywność:s	subst:pl:nom:f	nazwa pospolita	
-intensywności	intensywność:s	subst:pl:voc:f	nazwa pospolita	
-intensywności	intensywność:s	subst:sg:dat:f	nazwa pospolita	
-intensywności	intensywność:s	subst:sg:gen:f	nazwa pospolita	
-intensywności	intensywność:s	subst:sg:loc:f	nazwa pospolita	
-intensywności	intensywność:s	subst:sg:voc:f	nazwa pospolita	
-intensywnościom	intensywność:s	subst:pl:dat:f	nazwa pospolita	
-intensywność	intensywność:s	subst:sg:acc:f	nazwa pospolita	
-intensywność	intensywność:s	subst:sg:nom:f	nazwa pospolita	
+intensywnościach	intensywność	subst:pl:loc:f	nazwa pospolita	
+intensywnościami	intensywność	subst:pl:inst:f	nazwa pospolita	
+intensywnością	intensywność	subst:sg:inst:f	nazwa pospolita	
+intensywności	intensywność	subst:pl:acc:f	nazwa pospolita	
+intensywności	intensywność	subst:pl:gen:f	nazwa pospolita	
+intensywności	intensywność	subst:pl:nom:f	nazwa pospolita	
+intensywności	intensywność	subst:pl:voc:f	nazwa pospolita	
+intensywności	intensywność	subst:sg:dat:f	nazwa pospolita	
+intensywności	intensywność	subst:sg:gen:f	nazwa pospolita	
+intensywności	intensywność	subst:sg:loc:f	nazwa pospolita	
+intensywności	intensywność	subst:sg:voc:f	nazwa pospolita	
+intensywnościom	intensywność	subst:pl:dat:f	nazwa pospolita	
+intensywność	intensywność	subst:sg:acc:f	nazwa pospolita	
+intensywność	intensywność	subst:sg:nom:f	nazwa pospolita	
 intensywna	intensywny	adj:sg:nom.voc:f:pos		
 intensywną	intensywny	adj:sg:acc:f:pos		
 intensywną	intensywny	adj:sg:inst:f:pos		
@@ -37589,34 +37491,20 @@ intuitywnym	intuitywny	adj:sg:inst:m1.m2.m3.n1.n2:pos
 intuitywnym	intuitywny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 intymnie	intymnie	adv:pos		
 intymniej	intymnie	adv:com		
-intymnościach	intymność:s	subst:pl:loc:f	nazwa pospolita	
-intymnościami	intymność:s	subst:pl:inst:f	nazwa pospolita	
-intymnością	intymność:s	subst:sg:inst:f	nazwa pospolita	
-intymności	intymność:s	subst:pl:acc:f	nazwa pospolita	
-intymności	intymność:s	subst:pl:gen:f	nazwa pospolita	
-intymności	intymność:s	subst:pl:nom:f	nazwa pospolita	
-intymności	intymność:s	subst:pl:voc:f	nazwa pospolita	
-intymności	intymność:s	subst:sg:dat:f	nazwa pospolita	
-intymności	intymność:s	subst:sg:gen:f	nazwa pospolita	
-intymności	intymność:s	subst:sg:loc:f	nazwa pospolita	
-intymności	intymność:s	subst:sg:voc:f	nazwa pospolita	
-intymnościom	intymność:s	subst:pl:dat:f	nazwa pospolita	
-intymność	intymność:s	subst:sg:acc:f	nazwa pospolita	
-intymność	intymność:s	subst:sg:nom:f	nazwa pospolita	
-intymnościach	intymność:s	subst:pl:loc:f	nazwa pospolita	
-intymnościami	intymność:s	subst:pl:inst:f	nazwa pospolita	
-intymnością	intymność:s	subst:sg:inst:f	nazwa pospolita	
-intymności	intymność:s	subst:pl:acc:f	nazwa pospolita	
-intymności	intymność:s	subst:pl:gen:f	nazwa pospolita	
-intymności	intymność:s	subst:pl:nom:f	nazwa pospolita	
-intymności	intymność:s	subst:pl:voc:f	nazwa pospolita	
-intymności	intymność:s	subst:sg:dat:f	nazwa pospolita	
-intymności	intymność:s	subst:sg:gen:f	nazwa pospolita	
-intymności	intymność:s	subst:sg:loc:f	nazwa pospolita	
-intymności	intymność:s	subst:sg:voc:f	nazwa pospolita	
-intymnościom	intymność:s	subst:pl:dat:f	nazwa pospolita	
-intymność	intymność:s	subst:sg:acc:f	nazwa pospolita	
-intymność	intymność:s	subst:sg:nom:f	nazwa pospolita	
+intymnościach	intymność	subst:pl:loc:f	nazwa pospolita	
+intymnościami	intymność	subst:pl:inst:f	nazwa pospolita	
+intymnością	intymność	subst:sg:inst:f	nazwa pospolita	
+intymności	intymność	subst:pl:acc:f	nazwa pospolita	
+intymności	intymność	subst:pl:gen:f	nazwa pospolita	
+intymności	intymność	subst:pl:nom:f	nazwa pospolita	
+intymności	intymność	subst:pl:voc:f	nazwa pospolita	
+intymności	intymność	subst:sg:dat:f	nazwa pospolita	
+intymności	intymność	subst:sg:gen:f	nazwa pospolita	
+intymności	intymność	subst:sg:loc:f	nazwa pospolita	
+intymności	intymność	subst:sg:voc:f	nazwa pospolita	
+intymnościom	intymność	subst:pl:dat:f	nazwa pospolita	
+intymność	intymność	subst:sg:acc:f	nazwa pospolita	
+intymność	intymność	subst:sg:nom:f	nazwa pospolita	
 intymna	intymny	adj:sg:nom.voc:f:pos		
 intymną	intymny	adj:sg:acc:f:pos		
 intymną	intymny	adj:sg:inst:f:pos		
@@ -40974,34 +40862,20 @@ irracjonalizmy	irracjonalizm	subst:pl:acc:m3	nazwa pospolita
 irracjonalizmy	irracjonalizm	subst:pl:nom:m3	nazwa pospolita	
 irracjonalizmy	irracjonalizm	subst:pl:voc:m3	nazwa pospolita	
 irracjonalnie	irracjonalnie	adv:pos		
-irracjonalnościach	irracjonalność:s	subst:pl:loc:f	nazwa pospolita	
-irracjonalnościami	irracjonalność:s	subst:pl:inst:f	nazwa pospolita	
-irracjonalnością	irracjonalność:s	subst:sg:inst:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:pl:acc:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:pl:gen:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:pl:nom:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:pl:voc:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:sg:dat:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:sg:gen:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:sg:loc:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:sg:voc:f	nazwa pospolita	
-irracjonalnościom	irracjonalność:s	subst:pl:dat:f	nazwa pospolita	
-irracjonalność	irracjonalność:s	subst:sg:acc:f	nazwa pospolita	
-irracjonalność	irracjonalność:s	subst:sg:nom:f	nazwa pospolita	
-irracjonalnościach	irracjonalność:s	subst:pl:loc:f	nazwa pospolita	
-irracjonalnościami	irracjonalność:s	subst:pl:inst:f	nazwa pospolita	
-irracjonalnością	irracjonalność:s	subst:sg:inst:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:pl:acc:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:pl:gen:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:pl:nom:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:pl:voc:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:sg:dat:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:sg:gen:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:sg:loc:f	nazwa pospolita	
-irracjonalności	irracjonalność:s	subst:sg:voc:f	nazwa pospolita	
-irracjonalnościom	irracjonalność:s	subst:pl:dat:f	nazwa pospolita	
-irracjonalność	irracjonalność:s	subst:sg:acc:f	nazwa pospolita	
-irracjonalność	irracjonalność:s	subst:sg:nom:f	nazwa pospolita	
+irracjonalnościach	irracjonalność	subst:pl:loc:f	nazwa pospolita	
+irracjonalnościami	irracjonalność	subst:pl:inst:f	nazwa pospolita	
+irracjonalnością	irracjonalność	subst:sg:inst:f	nazwa pospolita	
+irracjonalności	irracjonalność	subst:pl:acc:f	nazwa pospolita	
+irracjonalności	irracjonalność	subst:pl:gen:f	nazwa pospolita	
+irracjonalności	irracjonalność	subst:pl:nom:f	nazwa pospolita	
+irracjonalności	irracjonalność	subst:pl:voc:f	nazwa pospolita	
+irracjonalności	irracjonalność	subst:sg:dat:f	nazwa pospolita	
+irracjonalności	irracjonalność	subst:sg:gen:f	nazwa pospolita	
+irracjonalności	irracjonalność	subst:sg:loc:f	nazwa pospolita	
+irracjonalności	irracjonalność	subst:sg:voc:f	nazwa pospolita	
+irracjonalnościom	irracjonalność	subst:pl:dat:f	nazwa pospolita	
+irracjonalność	irracjonalność	subst:sg:acc:f	nazwa pospolita	
+irracjonalność	irracjonalność	subst:sg:nom:f	nazwa pospolita	
 irracjonalna	irracjonalny	adj:sg:nom.voc:f:pos		
 irracjonalną	irracjonalny	adj:sg:acc:f:pos		
 irracjonalną	irracjonalny	adj:sg:inst:f:pos		

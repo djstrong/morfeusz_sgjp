@@ -4084,34 +4084,20 @@ jakościowymi	jakościowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jakościowym	jakościowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jakościowym	jakościowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jakościowym	jakościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-jakościach	jakość:s	subst:pl:loc:f	nazwa pospolita	
-jakościami	jakość:s	subst:pl:inst:f	nazwa pospolita	
-jakością	jakość:s	subst:sg:inst:f	nazwa pospolita	
-jakości	jakość:s	subst:pl:acc:f	nazwa pospolita	
-jakości	jakość:s	subst:pl:gen:f	nazwa pospolita	
-jakości	jakość:s	subst:pl:nom:f	nazwa pospolita	
-jakości	jakość:s	subst:pl:voc:f	nazwa pospolita	
-jakości	jakość:s	subst:sg:dat:f	nazwa pospolita	
-jakości	jakość:s	subst:sg:gen:f	nazwa pospolita	
-jakości	jakość:s	subst:sg:loc:f	nazwa pospolita	
-jakości	jakość:s	subst:sg:voc:f	nazwa pospolita	
-jakościom	jakość:s	subst:pl:dat:f	nazwa pospolita	
-jakość	jakość:s	subst:sg:acc:f	nazwa pospolita	
-jakość	jakość:s	subst:sg:nom:f	nazwa pospolita	
-jakościach	jakość:s	subst:pl:loc:f	nazwa pospolita	
-jakościami	jakość:s	subst:pl:inst:f	nazwa pospolita	
-jakością	jakość:s	subst:sg:inst:f	nazwa pospolita	
-jakości	jakość:s	subst:pl:acc:f	nazwa pospolita	
-jakości	jakość:s	subst:pl:gen:f	nazwa pospolita	
-jakości	jakość:s	subst:pl:nom:f	nazwa pospolita	
-jakości	jakość:s	subst:pl:voc:f	nazwa pospolita	
-jakości	jakość:s	subst:sg:dat:f	nazwa pospolita	
-jakości	jakość:s	subst:sg:gen:f	nazwa pospolita	
-jakości	jakość:s	subst:sg:loc:f	nazwa pospolita	
-jakości	jakość:s	subst:sg:voc:f	nazwa pospolita	
-jakościom	jakość:s	subst:pl:dat:f	nazwa pospolita	
-jakość	jakość:s	subst:sg:acc:f	nazwa pospolita	
-jakość	jakość:s	subst:sg:nom:f	nazwa pospolita	
+jakościach	jakość	subst:pl:loc:f	nazwa pospolita	
+jakościami	jakość	subst:pl:inst:f	nazwa pospolita	
+jakością	jakość	subst:sg:inst:f	nazwa pospolita	
+jakości	jakość	subst:pl:acc:f	nazwa pospolita	
+jakości	jakość	subst:pl:gen:f	nazwa pospolita	
+jakości	jakość	subst:pl:nom:f	nazwa pospolita	
+jakości	jakość	subst:pl:voc:f	nazwa pospolita	
+jakości	jakość	subst:sg:dat:f	nazwa pospolita	
+jakości	jakość	subst:sg:gen:f	nazwa pospolita	
+jakości	jakość	subst:sg:loc:f	nazwa pospolita	
+jakości	jakość	subst:sg:voc:f	nazwa pospolita	
+jakościom	jakość	subst:pl:dat:f	nazwa pospolita	
+jakość	jakość	subst:sg:acc:f	nazwa pospolita	
+jakość	jakość	subst:sg:nom:f	nazwa pospolita	
 jakowościach	jakowość	subst:pl:loc:f	nazwa pospolita	daw.
 jakowościami	jakowość	subst:pl:inst:f	nazwa pospolita	daw.
 jakowością	jakowość	subst:sg:inst:f	nazwa pospolita	daw.
@@ -10876,34 +10862,20 @@ jasnoszarym	jasnoszary	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jasnoszarym	jasnoszary	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jasnoszarym	jasnoszary	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 jasnoszarzy	jasnoszary	adj:pl:nom.voc:m1.p1:pos		
-jasnościach	jasność:s	subst:pl:loc:f	nazwa pospolita	
-jasnościami	jasność:s	subst:pl:inst:f	nazwa pospolita	
-jasnością	jasność:s	subst:sg:inst:f	nazwa pospolita	
-jasności	jasność:s	subst:pl:acc:f	nazwa pospolita	
-jasności	jasność:s	subst:pl:gen:f	nazwa pospolita	
-jasności	jasność:s	subst:pl:nom:f	nazwa pospolita	
-jasności	jasność:s	subst:pl:voc:f	nazwa pospolita	
-jasności	jasność:s	subst:sg:dat:f	nazwa pospolita	
-jasności	jasność:s	subst:sg:gen:f	nazwa pospolita	
-jasności	jasność:s	subst:sg:loc:f	nazwa pospolita	
-jasności	jasność:s	subst:sg:voc:f	nazwa pospolita	
-jasnościom	jasność:s	subst:pl:dat:f	nazwa pospolita	
-jasność	jasność:s	subst:sg:acc:f	nazwa pospolita	
-jasność	jasność:s	subst:sg:nom:f	nazwa pospolita	
-jasnościach	jasność:s	subst:pl:loc:f	nazwa pospolita	
-jasnościami	jasność:s	subst:pl:inst:f	nazwa pospolita	
-jasnością	jasność:s	subst:sg:inst:f	nazwa pospolita	
-jasności	jasność:s	subst:pl:acc:f	nazwa pospolita	
-jasności	jasność:s	subst:pl:gen:f	nazwa pospolita	
-jasności	jasność:s	subst:pl:nom:f	nazwa pospolita	
-jasności	jasność:s	subst:pl:voc:f	nazwa pospolita	
-jasności	jasność:s	subst:sg:dat:f	nazwa pospolita	
-jasności	jasność:s	subst:sg:gen:f	nazwa pospolita	
-jasności	jasność:s	subst:sg:loc:f	nazwa pospolita	
-jasności	jasność:s	subst:sg:voc:f	nazwa pospolita	
-jasnościom	jasność:s	subst:pl:dat:f	nazwa pospolita	
-jasność	jasność:s	subst:sg:acc:f	nazwa pospolita	
-jasność	jasność:s	subst:sg:nom:f	nazwa pospolita	
+jasnościach	jasność	subst:pl:loc:f	nazwa pospolita	
+jasnościami	jasność	subst:pl:inst:f	nazwa pospolita	
+jasnością	jasność	subst:sg:inst:f	nazwa pospolita	
+jasności	jasność	subst:pl:acc:f	nazwa pospolita	
+jasności	jasność	subst:pl:gen:f	nazwa pospolita	
+jasności	jasność	subst:pl:nom:f	nazwa pospolita	
+jasności	jasność	subst:pl:voc:f	nazwa pospolita	
+jasności	jasność	subst:sg:dat:f	nazwa pospolita	
+jasności	jasność	subst:sg:gen:f	nazwa pospolita	
+jasności	jasność	subst:sg:loc:f	nazwa pospolita	
+jasności	jasność	subst:sg:voc:f	nazwa pospolita	
+jasnościom	jasność	subst:pl:dat:f	nazwa pospolita	
+jasność	jasność	subst:sg:acc:f	nazwa pospolita	
+jasność	jasność	subst:sg:nom:f	nazwa pospolita	
 jasnocie	jasnota	subst:sg:dat:f	nazwa pospolita	
 jasnocie	jasnota	subst:sg:loc:f	nazwa pospolita	
 jasnotach	jasnota	subst:pl:loc:f	nazwa pospolita	
@@ -13287,34 +13259,20 @@ jawnopłciowymi	jawnopłciowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jawnopłciowym	jawnopłciowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jawnopłciowym	jawnopłciowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jawnopłciowym	jawnopłciowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-jawnościach	jawność:s	subst:pl:loc:f	nazwa pospolita	
-jawnościami	jawność:s	subst:pl:inst:f	nazwa pospolita	
-jawnością	jawność:s	subst:sg:inst:f	nazwa pospolita	
-jawności	jawność:s	subst:pl:acc:f	nazwa pospolita	
-jawności	jawność:s	subst:pl:gen:f	nazwa pospolita	
-jawności	jawność:s	subst:pl:nom:f	nazwa pospolita	
-jawności	jawność:s	subst:pl:voc:f	nazwa pospolita	
-jawności	jawność:s	subst:sg:dat:f	nazwa pospolita	
-jawności	jawność:s	subst:sg:gen:f	nazwa pospolita	
-jawności	jawność:s	subst:sg:loc:f	nazwa pospolita	
-jawności	jawność:s	subst:sg:voc:f	nazwa pospolita	
-jawnościom	jawność:s	subst:pl:dat:f	nazwa pospolita	
-jawność	jawność:s	subst:sg:acc:f	nazwa pospolita	
-jawność	jawność:s	subst:sg:nom:f	nazwa pospolita	
-jawnościach	jawność:s	subst:pl:loc:f	nazwa pospolita	
-jawnościami	jawność:s	subst:pl:inst:f	nazwa pospolita	
-jawnością	jawność:s	subst:sg:inst:f	nazwa pospolita	
-jawności	jawność:s	subst:pl:acc:f	nazwa pospolita	
-jawności	jawność:s	subst:pl:gen:f	nazwa pospolita	
-jawności	jawność:s	subst:pl:nom:f	nazwa pospolita	
-jawności	jawność:s	subst:pl:voc:f	nazwa pospolita	
-jawności	jawność:s	subst:sg:dat:f	nazwa pospolita	
-jawności	jawność:s	subst:sg:gen:f	nazwa pospolita	
-jawności	jawność:s	subst:sg:loc:f	nazwa pospolita	
-jawności	jawność:s	subst:sg:voc:f	nazwa pospolita	
-jawnościom	jawność:s	subst:pl:dat:f	nazwa pospolita	
-jawność	jawność:s	subst:sg:acc:f	nazwa pospolita	
-jawność	jawność:s	subst:sg:nom:f	nazwa pospolita	
+jawnościach	jawność	subst:pl:loc:f	nazwa pospolita	
+jawnościami	jawność	subst:pl:inst:f	nazwa pospolita	
+jawnością	jawność	subst:sg:inst:f	nazwa pospolita	
+jawności	jawność	subst:pl:acc:f	nazwa pospolita	
+jawności	jawność	subst:pl:gen:f	nazwa pospolita	
+jawności	jawność	subst:pl:nom:f	nazwa pospolita	
+jawności	jawność	subst:pl:voc:f	nazwa pospolita	
+jawności	jawność	subst:sg:dat:f	nazwa pospolita	
+jawności	jawność	subst:sg:gen:f	nazwa pospolita	
+jawności	jawność	subst:sg:loc:f	nazwa pospolita	
+jawności	jawność	subst:sg:voc:f	nazwa pospolita	
+jawnościom	jawność	subst:pl:dat:f	nazwa pospolita	
+jawność	jawność	subst:sg:acc:f	nazwa pospolita	
+jawność	jawność	subst:sg:nom:f	nazwa pospolita	
 jawna	jawny	adj:sg:nom.voc:f:pos		
 jawną	jawny	adj:sg:acc:f:pos		
 jawną	jawny	adj:sg:inst:f:pos		
@@ -16656,34 +16614,20 @@ jednakowiutkościom	jednakowiutkość	subst:pl:dat:f	nazwa pospolita
 jednakowiutkość	jednakowiutkość	subst:sg:acc:f	nazwa pospolita	
 jednakowiutkość	jednakowiutkość	subst:sg:nom:f	nazwa pospolita	
 jednakowo	jednakowo	adv:pos		
-jednakowościach	jednakowość:s	subst:pl:loc:f	nazwa pospolita	
-jednakowościami	jednakowość:s	subst:pl:inst:f	nazwa pospolita	
-jednakowością	jednakowość:s	subst:sg:inst:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:pl:acc:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:pl:gen:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:pl:nom:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:pl:voc:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:sg:dat:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:sg:gen:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:sg:loc:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:sg:voc:f	nazwa pospolita	
-jednakowościom	jednakowość:s	subst:pl:dat:f	nazwa pospolita	
-jednakowość	jednakowość:s	subst:sg:acc:f	nazwa pospolita	
-jednakowość	jednakowość:s	subst:sg:nom:f	nazwa pospolita	
-jednakowościach	jednakowość:s	subst:pl:loc:f	nazwa pospolita	
-jednakowościami	jednakowość:s	subst:pl:inst:f	nazwa pospolita	
-jednakowością	jednakowość:s	subst:sg:inst:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:pl:acc:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:pl:gen:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:pl:nom:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:pl:voc:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:sg:dat:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:sg:gen:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:sg:loc:f	nazwa pospolita	
-jednakowości	jednakowość:s	subst:sg:voc:f	nazwa pospolita	
-jednakowościom	jednakowość:s	subst:pl:dat:f	nazwa pospolita	
-jednakowość	jednakowość:s	subst:sg:acc:f	nazwa pospolita	
-jednakowość	jednakowość:s	subst:sg:nom:f	nazwa pospolita	
+jednakowościach	jednakowość	subst:pl:loc:f	nazwa pospolita	
+jednakowościami	jednakowość	subst:pl:inst:f	nazwa pospolita	
+jednakowością	jednakowość	subst:sg:inst:f	nazwa pospolita	
+jednakowości	jednakowość	subst:pl:acc:f	nazwa pospolita	
+jednakowości	jednakowość	subst:pl:gen:f	nazwa pospolita	
+jednakowości	jednakowość	subst:pl:nom:f	nazwa pospolita	
+jednakowości	jednakowość	subst:pl:voc:f	nazwa pospolita	
+jednakowości	jednakowość	subst:sg:dat:f	nazwa pospolita	
+jednakowości	jednakowość	subst:sg:gen:f	nazwa pospolita	
+jednakowości	jednakowość	subst:sg:loc:f	nazwa pospolita	
+jednakowości	jednakowość	subst:sg:voc:f	nazwa pospolita	
+jednakowościom	jednakowość	subst:pl:dat:f	nazwa pospolita	
+jednakowość	jednakowość	subst:sg:acc:f	nazwa pospolita	
+jednakowość	jednakowość	subst:sg:nom:f	nazwa pospolita	
 jednakowoż	jednakowoż	qub		przest.
 jednakowa	jednakowy	adj:sg:nom.voc:f:pos		
 jednakową	jednakowy	adj:sg:acc:f:pos		
@@ -17451,34 +17395,20 @@ jednoczerparkowymi	jednoczerparkowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jednoczerparkowym	jednoczerparkowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jednoczerparkowym	jednoczerparkowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jednoczerparkowym	jednoczerparkowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-jednoczesnościach	jednoczesność:s	subst:pl:loc:f	nazwa pospolita	
-jednoczesnościami	jednoczesność:s	subst:pl:inst:f	nazwa pospolita	
-jednoczesnością	jednoczesność:s	subst:sg:inst:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:pl:acc:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:pl:gen:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:pl:nom:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:pl:voc:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:sg:dat:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:sg:gen:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:sg:loc:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:sg:voc:f	nazwa pospolita	
-jednoczesnościom	jednoczesność:s	subst:pl:dat:f	nazwa pospolita	
-jednoczesność	jednoczesność:s	subst:sg:acc:f	nazwa pospolita	
-jednoczesność	jednoczesność:s	subst:sg:nom:f	nazwa pospolita	
-jednoczesnościach	jednoczesność:s	subst:pl:loc:f	nazwa pospolita	
-jednoczesnościami	jednoczesność:s	subst:pl:inst:f	nazwa pospolita	
-jednoczesnością	jednoczesność:s	subst:sg:inst:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:pl:acc:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:pl:gen:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:pl:nom:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:pl:voc:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:sg:dat:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:sg:gen:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:sg:loc:f	nazwa pospolita	
-jednoczesności	jednoczesność:s	subst:sg:voc:f	nazwa pospolita	
-jednoczesnościom	jednoczesność:s	subst:pl:dat:f	nazwa pospolita	
-jednoczesność	jednoczesność:s	subst:sg:acc:f	nazwa pospolita	
-jednoczesność	jednoczesność:s	subst:sg:nom:f	nazwa pospolita	
+jednoczesnościach	jednoczesność	subst:pl:loc:f	nazwa pospolita	
+jednoczesnościami	jednoczesność	subst:pl:inst:f	nazwa pospolita	
+jednoczesnością	jednoczesność	subst:sg:inst:f	nazwa pospolita	
+jednoczesności	jednoczesność	subst:pl:acc:f	nazwa pospolita	
+jednoczesności	jednoczesność	subst:pl:gen:f	nazwa pospolita	
+jednoczesności	jednoczesność	subst:pl:nom:f	nazwa pospolita	
+jednoczesności	jednoczesność	subst:pl:voc:f	nazwa pospolita	
+jednoczesności	jednoczesność	subst:sg:dat:f	nazwa pospolita	
+jednoczesności	jednoczesność	subst:sg:gen:f	nazwa pospolita	
+jednoczesności	jednoczesność	subst:sg:loc:f	nazwa pospolita	
+jednoczesności	jednoczesność	subst:sg:voc:f	nazwa pospolita	
+jednoczesnościom	jednoczesność	subst:pl:dat:f	nazwa pospolita	
+jednoczesność	jednoczesność	subst:sg:acc:f	nazwa pospolita	
+jednoczesność	jednoczesność	subst:sg:nom:f	nazwa pospolita	
 jednoczesna	jednoczesny	adj:sg:nom.voc:f:pos		
 jednoczesną	jednoczesny	adj:sg:acc:f:pos		
 jednoczesną	jednoczesny	adj:sg:inst:f:pos		
@@ -18217,34 +18147,20 @@ jednogłoskowym	jednogłoskowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
 jednogłoskowym	jednogłoskowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		daw.
 jednogłoskowym	jednogłoskowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		daw.
 jednogłosowo	jednogłosowo	adv:pos		
-jednogłosowościach	jednogłosowość:s	subst:pl:loc:f	nazwa pospolita	
-jednogłosowościami	jednogłosowość:s	subst:pl:inst:f	nazwa pospolita	
-jednogłosowością	jednogłosowość:s	subst:sg:inst:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:pl:acc:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:pl:gen:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:pl:nom:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:pl:voc:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:sg:dat:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:sg:gen:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:sg:loc:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:sg:voc:f	nazwa pospolita	
-jednogłosowościom	jednogłosowość:s	subst:pl:dat:f	nazwa pospolita	
-jednogłosowość	jednogłosowość:s	subst:sg:acc:f	nazwa pospolita	
-jednogłosowość	jednogłosowość:s	subst:sg:nom:f	nazwa pospolita	
-jednogłosowościach	jednogłosowość:s	subst:pl:loc:f	nazwa pospolita	
-jednogłosowościami	jednogłosowość:s	subst:pl:inst:f	nazwa pospolita	
-jednogłosowością	jednogłosowość:s	subst:sg:inst:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:pl:acc:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:pl:gen:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:pl:nom:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:pl:voc:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:sg:dat:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:sg:gen:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:sg:loc:f	nazwa pospolita	
-jednogłosowości	jednogłosowość:s	subst:sg:voc:f	nazwa pospolita	
-jednogłosowościom	jednogłosowość:s	subst:pl:dat:f	nazwa pospolita	
-jednogłosowość	jednogłosowość:s	subst:sg:acc:f	nazwa pospolita	
-jednogłosowość	jednogłosowość:s	subst:sg:nom:f	nazwa pospolita	
+jednogłosowościach	jednogłosowość	subst:pl:loc:f	nazwa pospolita	
+jednogłosowościami	jednogłosowość	subst:pl:inst:f	nazwa pospolita	
+jednogłosowością	jednogłosowość	subst:sg:inst:f	nazwa pospolita	
+jednogłosowości	jednogłosowość	subst:pl:acc:f	nazwa pospolita	
+jednogłosowości	jednogłosowość	subst:pl:gen:f	nazwa pospolita	
+jednogłosowości	jednogłosowość	subst:pl:nom:f	nazwa pospolita	
+jednogłosowości	jednogłosowość	subst:pl:voc:f	nazwa pospolita	
+jednogłosowości	jednogłosowość	subst:sg:dat:f	nazwa pospolita	
+jednogłosowości	jednogłosowość	subst:sg:gen:f	nazwa pospolita	
+jednogłosowości	jednogłosowość	subst:sg:loc:f	nazwa pospolita	
+jednogłosowości	jednogłosowość	subst:sg:voc:f	nazwa pospolita	
+jednogłosowościom	jednogłosowość	subst:pl:dat:f	nazwa pospolita	
+jednogłosowość	jednogłosowość	subst:sg:acc:f	nazwa pospolita	
+jednogłosowość	jednogłosowość	subst:sg:nom:f	nazwa pospolita	
 jednogłosowa	jednogłosowy	adj:sg:nom.voc:f:pos		
 jednogłosową	jednogłosowy	adj:sg:acc:f:pos		
 jednogłosową	jednogłosowy	adj:sg:inst:f:pos		
@@ -18761,34 +18677,20 @@ jednoklasówki	jednoklasówka	subst:pl:voc:f	nazwa pospolita
 jednoklasówki	jednoklasówka	subst:sg:gen:f	nazwa pospolita	
 jednoklasówko	jednoklasówka	subst:sg:voc:f	nazwa pospolita	
 jednoklasówkom	jednoklasówka	subst:pl:dat:f	nazwa pospolita	
-jednokładnościach	jednokładność:s	subst:pl:loc:f	nazwa pospolita	
-jednokładnościami	jednokładność:s	subst:pl:inst:f	nazwa pospolita	
-jednokładnością	jednokładność:s	subst:sg:inst:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:pl:acc:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:pl:gen:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:pl:nom:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:pl:voc:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:sg:dat:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:sg:gen:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:sg:loc:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:sg:voc:f	nazwa pospolita	
-jednokładnościom	jednokładność:s	subst:pl:dat:f	nazwa pospolita	
-jednokładność	jednokładność:s	subst:sg:acc:f	nazwa pospolita	
-jednokładność	jednokładność:s	subst:sg:nom:f	nazwa pospolita	
-jednokładnościach	jednokładność:s	subst:pl:loc:f	nazwa pospolita	
-jednokładnościami	jednokładność:s	subst:pl:inst:f	nazwa pospolita	
-jednokładnością	jednokładność:s	subst:sg:inst:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:pl:acc:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:pl:gen:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:pl:nom:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:pl:voc:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:sg:dat:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:sg:gen:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:sg:loc:f	nazwa pospolita	
-jednokładności	jednokładność:s	subst:sg:voc:f	nazwa pospolita	
-jednokładnościom	jednokładność:s	subst:pl:dat:f	nazwa pospolita	
-jednokładność	jednokładność:s	subst:sg:acc:f	nazwa pospolita	
-jednokładność	jednokładność:s	subst:sg:nom:f	nazwa pospolita	
+jednokładnościach	jednokładność	subst:pl:loc:f	nazwa pospolita	
+jednokładnościami	jednokładność	subst:pl:inst:f	nazwa pospolita	
+jednokładnością	jednokładność	subst:sg:inst:f	nazwa pospolita	
+jednokładności	jednokładność	subst:pl:acc:f	nazwa pospolita	
+jednokładności	jednokładność	subst:pl:gen:f	nazwa pospolita	
+jednokładności	jednokładność	subst:pl:nom:f	nazwa pospolita	
+jednokładności	jednokładność	subst:pl:voc:f	nazwa pospolita	
+jednokładności	jednokładność	subst:sg:dat:f	nazwa pospolita	
+jednokładności	jednokładność	subst:sg:gen:f	nazwa pospolita	
+jednokładności	jednokładność	subst:sg:loc:f	nazwa pospolita	
+jednokładności	jednokładność	subst:sg:voc:f	nazwa pospolita	
+jednokładnościom	jednokładność	subst:pl:dat:f	nazwa pospolita	
+jednokładność	jednokładność	subst:sg:acc:f	nazwa pospolita	
+jednokładność	jednokładność	subst:sg:nom:f	nazwa pospolita	
 jednokładna	jednokładny	adj:sg:nom.voc:f:pos		
 jednokładną	jednokładny	adj:sg:acc:f:pos		
 jednokładną	jednokładny	adj:sg:inst:f:pos		
@@ -20194,34 +20096,20 @@ jednomotorowym	jednomotorowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jednomotorowym	jednomotorowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jednomotorowym	jednomotorowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 jednomyślnie	jednomyślnie	adv:pos		
-jednomyślnościach	jednomyślność:s	subst:pl:loc:f	nazwa pospolita	
-jednomyślnościami	jednomyślność:s	subst:pl:inst:f	nazwa pospolita	
-jednomyślnością	jednomyślność:s	subst:sg:inst:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:pl:acc:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:pl:gen:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:pl:nom:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:pl:voc:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:sg:dat:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:sg:gen:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:sg:loc:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:sg:voc:f	nazwa pospolita	
-jednomyślnościom	jednomyślność:s	subst:pl:dat:f	nazwa pospolita	
-jednomyślność	jednomyślność:s	subst:sg:acc:f	nazwa pospolita	
-jednomyślność	jednomyślność:s	subst:sg:nom:f	nazwa pospolita	
-jednomyślnościach	jednomyślność:s	subst:pl:loc:f	nazwa pospolita	
-jednomyślnościami	jednomyślność:s	subst:pl:inst:f	nazwa pospolita	
-jednomyślnością	jednomyślność:s	subst:sg:inst:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:pl:acc:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:pl:gen:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:pl:nom:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:pl:voc:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:sg:dat:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:sg:gen:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:sg:loc:f	nazwa pospolita	
-jednomyślności	jednomyślność:s	subst:sg:voc:f	nazwa pospolita	
-jednomyślnościom	jednomyślność:s	subst:pl:dat:f	nazwa pospolita	
-jednomyślność	jednomyślność:s	subst:sg:acc:f	nazwa pospolita	
-jednomyślność	jednomyślność:s	subst:sg:nom:f	nazwa pospolita	
+jednomyślnościach	jednomyślność	subst:pl:loc:f	nazwa pospolita	
+jednomyślnościami	jednomyślność	subst:pl:inst:f	nazwa pospolita	
+jednomyślnością	jednomyślność	subst:sg:inst:f	nazwa pospolita	
+jednomyślności	jednomyślność	subst:pl:acc:f	nazwa pospolita	
+jednomyślności	jednomyślność	subst:pl:gen:f	nazwa pospolita	
+jednomyślności	jednomyślność	subst:pl:nom:f	nazwa pospolita	
+jednomyślności	jednomyślność	subst:pl:voc:f	nazwa pospolita	
+jednomyślności	jednomyślność	subst:sg:dat:f	nazwa pospolita	
+jednomyślności	jednomyślność	subst:sg:gen:f	nazwa pospolita	
+jednomyślności	jednomyślność	subst:sg:loc:f	nazwa pospolita	
+jednomyślności	jednomyślność	subst:sg:voc:f	nazwa pospolita	
+jednomyślnościom	jednomyślność	subst:pl:dat:f	nazwa pospolita	
+jednomyślność	jednomyślność	subst:sg:acc:f	nazwa pospolita	
+jednomyślność	jednomyślność	subst:sg:nom:f	nazwa pospolita	
 jednomyślna	jednomyślny	adj:sg:nom.voc:f:pos		
 jednomyślną	jednomyślny	adj:sg:acc:f:pos		
 jednomyślną	jednomyślny	adj:sg:inst:f:pos		
@@ -21835,34 +21723,20 @@ jednorocznym	jednoroczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jednorocznym	jednoroczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jednorocznym	jednoroczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 jednorodnie	jednorodnie	adv:pos		
-jednorodnościach	jednorodność:s	subst:pl:loc:f	nazwa pospolita	
-jednorodnościami	jednorodność:s	subst:pl:inst:f	nazwa pospolita	
-jednorodnością	jednorodność:s	subst:sg:inst:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:pl:acc:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:pl:gen:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:pl:nom:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:pl:voc:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:sg:dat:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:sg:gen:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:sg:loc:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:sg:voc:f	nazwa pospolita	
-jednorodnościom	jednorodność:s	subst:pl:dat:f	nazwa pospolita	
-jednorodność	jednorodność:s	subst:sg:acc:f	nazwa pospolita	
-jednorodność	jednorodność:s	subst:sg:nom:f	nazwa pospolita	
-jednorodnościach	jednorodność:s	subst:pl:loc:f	nazwa pospolita	
-jednorodnościami	jednorodność:s	subst:pl:inst:f	nazwa pospolita	
-jednorodnością	jednorodność:s	subst:sg:inst:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:pl:acc:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:pl:gen:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:pl:nom:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:pl:voc:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:sg:dat:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:sg:gen:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:sg:loc:f	nazwa pospolita	
-jednorodności	jednorodność:s	subst:sg:voc:f	nazwa pospolita	
-jednorodnościom	jednorodność:s	subst:pl:dat:f	nazwa pospolita	
-jednorodność	jednorodność:s	subst:sg:acc:f	nazwa pospolita	
-jednorodność	jednorodność:s	subst:sg:nom:f	nazwa pospolita	
+jednorodnościach	jednorodność	subst:pl:loc:f	nazwa pospolita	
+jednorodnościami	jednorodność	subst:pl:inst:f	nazwa pospolita	
+jednorodnością	jednorodność	subst:sg:inst:f	nazwa pospolita	
+jednorodności	jednorodność	subst:pl:acc:f	nazwa pospolita	
+jednorodności	jednorodność	subst:pl:gen:f	nazwa pospolita	
+jednorodności	jednorodność	subst:pl:nom:f	nazwa pospolita	
+jednorodności	jednorodność	subst:pl:voc:f	nazwa pospolita	
+jednorodności	jednorodność	subst:sg:dat:f	nazwa pospolita	
+jednorodności	jednorodność	subst:sg:gen:f	nazwa pospolita	
+jednorodności	jednorodność	subst:sg:loc:f	nazwa pospolita	
+jednorodności	jednorodność	subst:sg:voc:f	nazwa pospolita	
+jednorodnościom	jednorodność	subst:pl:dat:f	nazwa pospolita	
+jednorodność	jednorodność	subst:sg:acc:f	nazwa pospolita	
+jednorodność	jednorodność	subst:sg:nom:f	nazwa pospolita	
 jednorodna	jednorodny	adj:sg:nom.voc:f:pos		
 jednorodną	jednorodny	adj:sg:acc:f:pos		
 jednorodną	jednorodny	adj:sg:inst:f:pos		
@@ -22698,34 +22572,20 @@ jednostajniono	jednostajnić	imps:imperf		daw.
 jednostajnisz	jednostajnić	fin:sg:sec:imperf		daw.
 jednostajnie	jednostajnie	adv:pos		
 jednostajniej	jednostajnie	adv:com		
-jednostajnościach	jednostajność:s	subst:pl:loc:f	nazwa pospolita	
-jednostajnościami	jednostajność:s	subst:pl:inst:f	nazwa pospolita	
-jednostajnością	jednostajność:s	subst:sg:inst:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:pl:acc:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:pl:gen:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:pl:nom:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:pl:voc:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:sg:dat:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:sg:gen:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:sg:loc:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:sg:voc:f	nazwa pospolita	
-jednostajnościom	jednostajność:s	subst:pl:dat:f	nazwa pospolita	
-jednostajność	jednostajność:s	subst:sg:acc:f	nazwa pospolita	
-jednostajność	jednostajność:s	subst:sg:nom:f	nazwa pospolita	
-jednostajnościach	jednostajność:s	subst:pl:loc:f	nazwa pospolita	
-jednostajnościami	jednostajność:s	subst:pl:inst:f	nazwa pospolita	
-jednostajnością	jednostajność:s	subst:sg:inst:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:pl:acc:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:pl:gen:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:pl:nom:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:pl:voc:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:sg:dat:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:sg:gen:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:sg:loc:f	nazwa pospolita	
-jednostajności	jednostajność:s	subst:sg:voc:f	nazwa pospolita	
-jednostajnościom	jednostajność:s	subst:pl:dat:f	nazwa pospolita	
-jednostajność	jednostajność:s	subst:sg:acc:f	nazwa pospolita	
-jednostajność	jednostajność:s	subst:sg:nom:f	nazwa pospolita	
+jednostajnościach	jednostajność	subst:pl:loc:f	nazwa pospolita	
+jednostajnościami	jednostajność	subst:pl:inst:f	nazwa pospolita	
+jednostajnością	jednostajność	subst:sg:inst:f	nazwa pospolita	
+jednostajności	jednostajność	subst:pl:acc:f	nazwa pospolita	
+jednostajności	jednostajność	subst:pl:gen:f	nazwa pospolita	
+jednostajności	jednostajność	subst:pl:nom:f	nazwa pospolita	
+jednostajności	jednostajność	subst:pl:voc:f	nazwa pospolita	
+jednostajności	jednostajność	subst:sg:dat:f	nazwa pospolita	
+jednostajności	jednostajność	subst:sg:gen:f	nazwa pospolita	
+jednostajności	jednostajność	subst:sg:loc:f	nazwa pospolita	
+jednostajności	jednostajność	subst:sg:voc:f	nazwa pospolita	
+jednostajnościom	jednostajność	subst:pl:dat:f	nazwa pospolita	
+jednostajność	jednostajność	subst:sg:acc:f	nazwa pospolita	
+jednostajność	jednostajność	subst:sg:nom:f	nazwa pospolita	
 jednostajna	jednostajny	adj:sg:nom.voc:f:pos		
 jednostajną	jednostajny	adj:sg:acc:f:pos		
 jednostajną	jednostajny	adj:sg:inst:f:pos		
@@ -24936,34 +24796,20 @@ jednoznacznikowi	jednoznacznik	subst:sg:dat:m3	nazwa pospolita
 jednoznaczników	jednoznacznik	subst:pl:gen:m3	nazwa pospolita	
 jednoznaczniku	jednoznacznik	subst:sg:loc:m3	nazwa pospolita	
 jednoznaczniku	jednoznacznik	subst:sg:voc:m3	nazwa pospolita	
-jednoznacznościach	jednoznaczność:s	subst:pl:loc:f	nazwa pospolita	
-jednoznacznościami	jednoznaczność:s	subst:pl:inst:f	nazwa pospolita	
-jednoznacznością	jednoznaczność:s	subst:sg:inst:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:pl:acc:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:pl:gen:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:pl:nom:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:pl:voc:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:sg:dat:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:sg:gen:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:sg:loc:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:sg:voc:f	nazwa pospolita	
-jednoznacznościom	jednoznaczność:s	subst:pl:dat:f	nazwa pospolita	
-jednoznaczność	jednoznaczność:s	subst:sg:acc:f	nazwa pospolita	
-jednoznaczność	jednoznaczność:s	subst:sg:nom:f	nazwa pospolita	
-jednoznacznościach	jednoznaczność:s	subst:pl:loc:f	nazwa pospolita	
-jednoznacznościami	jednoznaczność:s	subst:pl:inst:f	nazwa pospolita	
-jednoznacznością	jednoznaczność:s	subst:sg:inst:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:pl:acc:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:pl:gen:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:pl:nom:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:pl:voc:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:sg:dat:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:sg:gen:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:sg:loc:f	nazwa pospolita	
-jednoznaczności	jednoznaczność:s	subst:sg:voc:f	nazwa pospolita	
-jednoznacznościom	jednoznaczność:s	subst:pl:dat:f	nazwa pospolita	
-jednoznaczność	jednoznaczność:s	subst:sg:acc:f	nazwa pospolita	
-jednoznaczność	jednoznaczność:s	subst:sg:nom:f	nazwa pospolita	
+jednoznacznościach	jednoznaczność	subst:pl:loc:f	nazwa pospolita	
+jednoznacznościami	jednoznaczność	subst:pl:inst:f	nazwa pospolita	
+jednoznacznością	jednoznaczność	subst:sg:inst:f	nazwa pospolita	
+jednoznaczności	jednoznaczność	subst:pl:acc:f	nazwa pospolita	
+jednoznaczności	jednoznaczność	subst:pl:gen:f	nazwa pospolita	
+jednoznaczności	jednoznaczność	subst:pl:nom:f	nazwa pospolita	
+jednoznaczności	jednoznaczność	subst:pl:voc:f	nazwa pospolita	
+jednoznaczności	jednoznaczność	subst:sg:dat:f	nazwa pospolita	
+jednoznaczności	jednoznaczność	subst:sg:gen:f	nazwa pospolita	
+jednoznaczności	jednoznaczność	subst:sg:loc:f	nazwa pospolita	
+jednoznaczności	jednoznaczność	subst:sg:voc:f	nazwa pospolita	
+jednoznacznościom	jednoznaczność	subst:pl:dat:f	nazwa pospolita	
+jednoznaczność	jednoznaczność	subst:sg:acc:f	nazwa pospolita	
+jednoznaczność	jednoznaczność	subst:sg:nom:f	nazwa pospolita	
 jednoznaczna	jednoznaczny	adj:sg:nom.voc:f:pos		
 jednoznaczną	jednoznaczny	adj:sg:acc:f:pos		
 jednoznaczną	jednoznaczny	adj:sg:inst:f:pos		

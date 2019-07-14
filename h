@@ -9472,34 +9472,20 @@ hardoszu	hardosz	subst:sg:loc:m1	nazwa pospolita	daw.
 hardoszu	hardosz	subst:sg:voc:m1	nazwa pospolita	daw.
 hardoszy	hardosz	subst:pl:acc:m1	nazwa pospolita	daw.
 hardoszy	hardosz	subst:pl:gen:m1	nazwa pospolita	daw.
-hardościach	hardość:s	subst:pl:loc:f	nazwa pospolita	
-hardościami	hardość:s	subst:pl:inst:f	nazwa pospolita	
-hardością	hardość:s	subst:sg:inst:f	nazwa pospolita	
-hardości	hardość:s	subst:pl:acc:f	nazwa pospolita	
-hardości	hardość:s	subst:pl:gen:f	nazwa pospolita	
-hardości	hardość:s	subst:pl:nom:f	nazwa pospolita	
-hardości	hardość:s	subst:pl:voc:f	nazwa pospolita	
-hardości	hardość:s	subst:sg:dat:f	nazwa pospolita	
-hardości	hardość:s	subst:sg:gen:f	nazwa pospolita	
-hardości	hardość:s	subst:sg:loc:f	nazwa pospolita	
-hardości	hardość:s	subst:sg:voc:f	nazwa pospolita	
-hardościom	hardość:s	subst:pl:dat:f	nazwa pospolita	
-hardość	hardość:s	subst:sg:acc:f	nazwa pospolita	
-hardość	hardość:s	subst:sg:nom:f	nazwa pospolita	
-hardościach	hardość:s	subst:pl:loc:f	nazwa pospolita	
-hardościami	hardość:s	subst:pl:inst:f	nazwa pospolita	
-hardością	hardość:s	subst:sg:inst:f	nazwa pospolita	
-hardości	hardość:s	subst:pl:acc:f	nazwa pospolita	
-hardości	hardość:s	subst:pl:gen:f	nazwa pospolita	
-hardości	hardość:s	subst:pl:nom:f	nazwa pospolita	
-hardości	hardość:s	subst:pl:voc:f	nazwa pospolita	
-hardości	hardość:s	subst:sg:dat:f	nazwa pospolita	
-hardości	hardość:s	subst:sg:gen:f	nazwa pospolita	
-hardości	hardość:s	subst:sg:loc:f	nazwa pospolita	
-hardości	hardość:s	subst:sg:voc:f	nazwa pospolita	
-hardościom	hardość:s	subst:pl:dat:f	nazwa pospolita	
-hardość	hardość:s	subst:sg:acc:f	nazwa pospolita	
-hardość	hardość:s	subst:sg:nom:f	nazwa pospolita	
+hardościach	hardość	subst:pl:loc:f	nazwa pospolita	
+hardościami	hardość	subst:pl:inst:f	nazwa pospolita	
+hardością	hardość	subst:sg:inst:f	nazwa pospolita	
+hardości	hardość	subst:pl:acc:f	nazwa pospolita	
+hardości	hardość	subst:pl:gen:f	nazwa pospolita	
+hardości	hardość	subst:pl:nom:f	nazwa pospolita	
+hardości	hardość	subst:pl:voc:f	nazwa pospolita	
+hardości	hardość	subst:sg:dat:f	nazwa pospolita	
+hardości	hardość	subst:sg:gen:f	nazwa pospolita	
+hardości	hardość	subst:sg:loc:f	nazwa pospolita	
+hardości	hardość	subst:sg:voc:f	nazwa pospolita	
+hardościom	hardość	subst:pl:dat:f	nazwa pospolita	
+hardość	hardość	subst:sg:acc:f	nazwa pospolita	
+hardość	hardość	subst:sg:nom:f	nazwa pospolita	
 hardrockach	hardrock	subst:pl:loc:m2	nazwa pospolita	pot.
 hardrockach	hardrock	subst:pl:loc:m3	nazwa pospolita	
 hardrocka	hardrock	subst:sg:acc:m2	nazwa pospolita	pot.
@@ -11863,34 +11849,20 @@ hartowników	hartownik	subst:pl:acc:m1	nazwa pospolita
 hartowników	hartownik	subst:pl:gen:m1	nazwa pospolita	
 hartowniku	hartownik	subst:sg:loc:m1	nazwa pospolita	
 hartowniku	hartownik	subst:sg:voc:m1	nazwa pospolita	
-hartownościach	hartowność:s	subst:pl:loc:f	nazwa pospolita	
-hartownościami	hartowność:s	subst:pl:inst:f	nazwa pospolita	
-hartownością	hartowność:s	subst:sg:inst:f	nazwa pospolita	
-hartowności	hartowność:s	subst:pl:acc:f	nazwa pospolita	
-hartowności	hartowność:s	subst:pl:gen:f	nazwa pospolita	
-hartowności	hartowność:s	subst:pl:nom:f	nazwa pospolita	
-hartowności	hartowność:s	subst:pl:voc:f	nazwa pospolita	
-hartowności	hartowność:s	subst:sg:dat:f	nazwa pospolita	
-hartowności	hartowność:s	subst:sg:gen:f	nazwa pospolita	
-hartowności	hartowność:s	subst:sg:loc:f	nazwa pospolita	
-hartowności	hartowność:s	subst:sg:voc:f	nazwa pospolita	
-hartownościom	hartowność:s	subst:pl:dat:f	nazwa pospolita	
-hartowność	hartowność:s	subst:sg:acc:f	nazwa pospolita	
-hartowność	hartowność:s	subst:sg:nom:f	nazwa pospolita	
-hartownościach	hartowność:s	subst:pl:loc:f	nazwa pospolita	
-hartownościami	hartowność:s	subst:pl:inst:f	nazwa pospolita	
-hartownością	hartowność:s	subst:sg:inst:f	nazwa pospolita	
-hartowności	hartowność:s	subst:pl:acc:f	nazwa pospolita	
-hartowności	hartowność:s	subst:pl:gen:f	nazwa pospolita	
-hartowności	hartowność:s	subst:pl:nom:f	nazwa pospolita	
-hartowności	hartowność:s	subst:pl:voc:f	nazwa pospolita	
-hartowności	hartowność:s	subst:sg:dat:f	nazwa pospolita	
-hartowności	hartowność:s	subst:sg:gen:f	nazwa pospolita	
-hartowności	hartowność:s	subst:sg:loc:f	nazwa pospolita	
-hartowności	hartowność:s	subst:sg:voc:f	nazwa pospolita	
-hartownościom	hartowność:s	subst:pl:dat:f	nazwa pospolita	
-hartowność	hartowność:s	subst:sg:acc:f	nazwa pospolita	
-hartowność	hartowność:s	subst:sg:nom:f	nazwa pospolita	
+hartownościach	hartowność	subst:pl:loc:f	nazwa pospolita	
+hartownościami	hartowność	subst:pl:inst:f	nazwa pospolita	
+hartownością	hartowność	subst:sg:inst:f	nazwa pospolita	
+hartowności	hartowność	subst:pl:acc:f	nazwa pospolita	
+hartowności	hartowność	subst:pl:gen:f	nazwa pospolita	
+hartowności	hartowność	subst:pl:nom:f	nazwa pospolita	
+hartowności	hartowność	subst:pl:voc:f	nazwa pospolita	
+hartowności	hartowność	subst:sg:dat:f	nazwa pospolita	
+hartowności	hartowność	subst:sg:gen:f	nazwa pospolita	
+hartowności	hartowność	subst:sg:loc:f	nazwa pospolita	
+hartowności	hartowność	subst:sg:voc:f	nazwa pospolita	
+hartownościom	hartowność	subst:pl:dat:f	nazwa pospolita	
+hartowność	hartowność	subst:sg:acc:f	nazwa pospolita	
+hartowność	hartowność	subst:sg:nom:f	nazwa pospolita	
 hartowna	hartowny	adj:sg:nom.voc:f:pos		
 hartowną	hartowny	adj:sg:acc:f:pos		
 hartowną	hartowny	adj:sg:inst:f:pos		
@@ -26305,34 +26277,20 @@ higroskopicznym	higroskopiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos
 higroskopicznym	higroskopiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 higroskopicznymi	higroskopiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 higroskopijnie	higroskopijnie	adv:pos		
-higroskopijnościach	higroskopijność:s	subst:pl:loc:f	nazwa pospolita	
-higroskopijnościami	higroskopijność:s	subst:pl:inst:f	nazwa pospolita	
-higroskopijnością	higroskopijność:s	subst:sg:inst:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:pl:acc:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:pl:gen:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:pl:nom:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:pl:voc:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:sg:dat:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:sg:gen:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:sg:loc:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:sg:voc:f	nazwa pospolita	
-higroskopijnościom	higroskopijność:s	subst:pl:dat:f	nazwa pospolita	
-higroskopijność	higroskopijność:s	subst:sg:acc:f	nazwa pospolita	
-higroskopijność	higroskopijność:s	subst:sg:nom:f	nazwa pospolita	
-higroskopijnościach	higroskopijność:s	subst:pl:loc:f	nazwa pospolita	
-higroskopijnościami	higroskopijność:s	subst:pl:inst:f	nazwa pospolita	
-higroskopijnością	higroskopijność:s	subst:sg:inst:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:pl:acc:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:pl:gen:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:pl:nom:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:pl:voc:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:sg:dat:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:sg:gen:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:sg:loc:f	nazwa pospolita	
-higroskopijności	higroskopijność:s	subst:sg:voc:f	nazwa pospolita	
-higroskopijnościom	higroskopijność:s	subst:pl:dat:f	nazwa pospolita	
-higroskopijność	higroskopijność:s	subst:sg:acc:f	nazwa pospolita	
-higroskopijność	higroskopijność:s	subst:sg:nom:f	nazwa pospolita	
+higroskopijnościach	higroskopijność	subst:pl:loc:f	nazwa pospolita	
+higroskopijnościami	higroskopijność	subst:pl:inst:f	nazwa pospolita	
+higroskopijnością	higroskopijność	subst:sg:inst:f	nazwa pospolita	
+higroskopijności	higroskopijność	subst:pl:acc:f	nazwa pospolita	
+higroskopijności	higroskopijność	subst:pl:gen:f	nazwa pospolita	
+higroskopijności	higroskopijność	subst:pl:nom:f	nazwa pospolita	
+higroskopijności	higroskopijność	subst:pl:voc:f	nazwa pospolita	
+higroskopijności	higroskopijność	subst:sg:dat:f	nazwa pospolita	
+higroskopijności	higroskopijność	subst:sg:gen:f	nazwa pospolita	
+higroskopijności	higroskopijność	subst:sg:loc:f	nazwa pospolita	
+higroskopijności	higroskopijność	subst:sg:voc:f	nazwa pospolita	
+higroskopijnościom	higroskopijność	subst:pl:dat:f	nazwa pospolita	
+higroskopijność	higroskopijność	subst:sg:acc:f	nazwa pospolita	
+higroskopijność	higroskopijność	subst:sg:nom:f	nazwa pospolita	
 higroskopijna	higroskopijny	adj:sg:nom.voc:f:pos		
 higroskopijną	higroskopijny	adj:sg:acc:f:pos		
 higroskopijną	higroskopijny	adj:sg:inst:f:pos		
@@ -28188,34 +28146,20 @@ hiperplazjo	hiperplazja	subst:sg:voc:f	nazwa pospolita
 hiperplazjom	hiperplazja	subst:pl:dat:f	nazwa pospolita	
 hiperplazyj	hiperplazja	subst:pl:gen:f	nazwa pospolita	arch.|char.
 hiperpoprawnie	hiperpoprawnie	adv:pos		
-hiperpoprawnościach	hiperpoprawność:s	subst:pl:loc:f	nazwa pospolita	
-hiperpoprawnościami	hiperpoprawność:s	subst:pl:inst:f	nazwa pospolita	
-hiperpoprawnością	hiperpoprawność:s	subst:sg:inst:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:pl:acc:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:pl:gen:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:pl:nom:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:pl:voc:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:sg:dat:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:sg:gen:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:sg:loc:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:sg:voc:f	nazwa pospolita	
-hiperpoprawnościom	hiperpoprawność:s	subst:pl:dat:f	nazwa pospolita	
-hiperpoprawność	hiperpoprawność:s	subst:sg:acc:f	nazwa pospolita	
-hiperpoprawność	hiperpoprawność:s	subst:sg:nom:f	nazwa pospolita	
-hiperpoprawnościach	hiperpoprawność:s	subst:pl:loc:f	nazwa pospolita	
-hiperpoprawnościami	hiperpoprawność:s	subst:pl:inst:f	nazwa pospolita	
-hiperpoprawnością	hiperpoprawność:s	subst:sg:inst:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:pl:acc:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:pl:gen:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:pl:nom:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:pl:voc:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:sg:dat:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:sg:gen:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:sg:loc:f	nazwa pospolita	
-hiperpoprawności	hiperpoprawność:s	subst:sg:voc:f	nazwa pospolita	
-hiperpoprawnościom	hiperpoprawność:s	subst:pl:dat:f	nazwa pospolita	
-hiperpoprawność	hiperpoprawność:s	subst:sg:acc:f	nazwa pospolita	
-hiperpoprawność	hiperpoprawność:s	subst:sg:nom:f	nazwa pospolita	
+hiperpoprawnościach	hiperpoprawność	subst:pl:loc:f	nazwa pospolita	
+hiperpoprawnościami	hiperpoprawność	subst:pl:inst:f	nazwa pospolita	
+hiperpoprawnością	hiperpoprawność	subst:sg:inst:f	nazwa pospolita	
+hiperpoprawności	hiperpoprawność	subst:pl:acc:f	nazwa pospolita	
+hiperpoprawności	hiperpoprawność	subst:pl:gen:f	nazwa pospolita	
+hiperpoprawności	hiperpoprawność	subst:pl:nom:f	nazwa pospolita	
+hiperpoprawności	hiperpoprawność	subst:pl:voc:f	nazwa pospolita	
+hiperpoprawności	hiperpoprawność	subst:sg:dat:f	nazwa pospolita	
+hiperpoprawności	hiperpoprawność	subst:sg:gen:f	nazwa pospolita	
+hiperpoprawności	hiperpoprawność	subst:sg:loc:f	nazwa pospolita	
+hiperpoprawności	hiperpoprawność	subst:sg:voc:f	nazwa pospolita	
+hiperpoprawnościom	hiperpoprawność	subst:pl:dat:f	nazwa pospolita	
+hiperpoprawność	hiperpoprawność	subst:sg:acc:f	nazwa pospolita	
+hiperpoprawność	hiperpoprawność	subst:sg:nom:f	nazwa pospolita	
 hiperpoprawna	hiperpoprawny	adj:sg:nom.voc:f:pos		jęz.
 hiperpoprawną	hiperpoprawny	adj:sg:acc:f:pos		jęz.
 hiperpoprawną	hiperpoprawny	adj:sg:inst:f:pos		jęz.
@@ -32904,34 +32848,20 @@ historycznoliterackości	historycznoliterackość	subst:sg:voc:f	nazwa pospolita
 historycznoliterackościom	historycznoliterackość	subst:pl:dat:f	nazwa pospolita	
 historycznoliterackość	historycznoliterackość	subst:sg:acc:f	nazwa pospolita	
 historycznoliterackość	historycznoliterackość	subst:sg:nom:f	nazwa pospolita	
-historycznościach	historyczność:s	subst:pl:loc:f	nazwa pospolita	
-historycznościami	historyczność:s	subst:pl:inst:f	nazwa pospolita	
-historycznością	historyczność:s	subst:sg:inst:f	nazwa pospolita	
-historyczności	historyczność:s	subst:pl:acc:f	nazwa pospolita	
-historyczności	historyczność:s	subst:pl:gen:f	nazwa pospolita	
-historyczności	historyczność:s	subst:pl:nom:f	nazwa pospolita	
-historyczności	historyczność:s	subst:pl:voc:f	nazwa pospolita	
-historyczności	historyczność:s	subst:sg:dat:f	nazwa pospolita	
-historyczności	historyczność:s	subst:sg:gen:f	nazwa pospolita	
-historyczności	historyczność:s	subst:sg:loc:f	nazwa pospolita	
-historyczności	historyczność:s	subst:sg:voc:f	nazwa pospolita	
-historycznościom	historyczność:s	subst:pl:dat:f	nazwa pospolita	
-historyczność	historyczność:s	subst:sg:acc:f	nazwa pospolita	
-historyczność	historyczność:s	subst:sg:nom:f	nazwa pospolita	
-historycznościach	historyczność:s	subst:pl:loc:f	nazwa pospolita	
-historycznościami	historyczność:s	subst:pl:inst:f	nazwa pospolita	
-historycznością	historyczność:s	subst:sg:inst:f	nazwa pospolita	
-historyczności	historyczność:s	subst:pl:acc:f	nazwa pospolita	
-historyczności	historyczność:s	subst:pl:gen:f	nazwa pospolita	
-historyczności	historyczność:s	subst:pl:nom:f	nazwa pospolita	
-historyczności	historyczność:s	subst:pl:voc:f	nazwa pospolita	
-historyczności	historyczność:s	subst:sg:dat:f	nazwa pospolita	
-historyczności	historyczność:s	subst:sg:gen:f	nazwa pospolita	
-historyczności	historyczność:s	subst:sg:loc:f	nazwa pospolita	
-historyczności	historyczność:s	subst:sg:voc:f	nazwa pospolita	
-historycznościom	historyczność:s	subst:pl:dat:f	nazwa pospolita	
-historyczność	historyczność:s	subst:sg:acc:f	nazwa pospolita	
-historyczność	historyczność:s	subst:sg:nom:f	nazwa pospolita	
+historycznościach	historyczność	subst:pl:loc:f	nazwa pospolita	
+historycznościami	historyczność	subst:pl:inst:f	nazwa pospolita	
+historycznością	historyczność	subst:sg:inst:f	nazwa pospolita	
+historyczności	historyczność	subst:pl:acc:f	nazwa pospolita	
+historyczności	historyczność	subst:pl:gen:f	nazwa pospolita	
+historyczności	historyczność	subst:pl:nom:f	nazwa pospolita	
+historyczności	historyczność	subst:pl:voc:f	nazwa pospolita	
+historyczności	historyczność	subst:sg:dat:f	nazwa pospolita	
+historyczności	historyczność	subst:sg:gen:f	nazwa pospolita	
+historyczności	historyczność	subst:sg:loc:f	nazwa pospolita	
+historyczności	historyczność	subst:sg:voc:f	nazwa pospolita	
+historycznościom	historyczność	subst:pl:dat:f	nazwa pospolita	
+historyczność	historyczność	subst:sg:acc:f	nazwa pospolita	
+historyczność	historyczność	subst:sg:nom:f	nazwa pospolita	
 historyczna	historyczny	adj:sg:nom.voc:f:pos		
 historyczną	historyczny	adj:sg:acc:f:pos		
 historyczną	historyczny	adj:sg:inst:f:pos		
@@ -34356,34 +34286,20 @@ hojerze	hojer	subst:sg:voc:m3	nazwa pospolita
 hojnie	hojnie	adv:pos		
 hojniej	hojnie	adv:com		
 hojno	hojno	adv:pos		daw.
-hojnościach	hojność:s	subst:pl:loc:f	nazwa pospolita	
-hojnościami	hojność:s	subst:pl:inst:f	nazwa pospolita	
-hojnością	hojność:s	subst:sg:inst:f	nazwa pospolita	
-hojności	hojność:s	subst:pl:acc:f	nazwa pospolita	
-hojności	hojność:s	subst:pl:gen:f	nazwa pospolita	
-hojności	hojność:s	subst:pl:nom:f	nazwa pospolita	
-hojności	hojność:s	subst:pl:voc:f	nazwa pospolita	
-hojności	hojność:s	subst:sg:dat:f	nazwa pospolita	
-hojności	hojność:s	subst:sg:gen:f	nazwa pospolita	
-hojności	hojność:s	subst:sg:loc:f	nazwa pospolita	
-hojności	hojność:s	subst:sg:voc:f	nazwa pospolita	
-hojnościom	hojność:s	subst:pl:dat:f	nazwa pospolita	
-hojność	hojność:s	subst:sg:acc:f	nazwa pospolita	
-hojność	hojność:s	subst:sg:nom:f	nazwa pospolita	
-hojnościach	hojność:s	subst:pl:loc:f	nazwa pospolita	
-hojnościami	hojność:s	subst:pl:inst:f	nazwa pospolita	
-hojnością	hojność:s	subst:sg:inst:f	nazwa pospolita	
-hojności	hojność:s	subst:pl:acc:f	nazwa pospolita	
-hojności	hojność:s	subst:pl:gen:f	nazwa pospolita	
-hojności	hojność:s	subst:pl:nom:f	nazwa pospolita	
-hojności	hojność:s	subst:pl:voc:f	nazwa pospolita	
-hojności	hojność:s	subst:sg:dat:f	nazwa pospolita	
-hojności	hojność:s	subst:sg:gen:f	nazwa pospolita	
-hojności	hojność:s	subst:sg:loc:f	nazwa pospolita	
-hojności	hojność:s	subst:sg:voc:f	nazwa pospolita	
-hojnościom	hojność:s	subst:pl:dat:f	nazwa pospolita	
-hojność	hojność:s	subst:sg:acc:f	nazwa pospolita	
-hojność	hojność:s	subst:sg:nom:f	nazwa pospolita	
+hojnościach	hojność	subst:pl:loc:f	nazwa pospolita	
+hojnościami	hojność	subst:pl:inst:f	nazwa pospolita	
+hojnością	hojność	subst:sg:inst:f	nazwa pospolita	
+hojności	hojność	subst:pl:acc:f	nazwa pospolita	
+hojności	hojność	subst:pl:gen:f	nazwa pospolita	
+hojności	hojność	subst:pl:nom:f	nazwa pospolita	
+hojności	hojność	subst:pl:voc:f	nazwa pospolita	
+hojności	hojność	subst:sg:dat:f	nazwa pospolita	
+hojności	hojność	subst:sg:gen:f	nazwa pospolita	
+hojności	hojność	subst:sg:loc:f	nazwa pospolita	
+hojności	hojność	subst:sg:voc:f	nazwa pospolita	
+hojnościom	hojność	subst:pl:dat:f	nazwa pospolita	
+hojność	hojność	subst:sg:acc:f	nazwa pospolita	
+hojność	hojność	subst:sg:nom:f	nazwa pospolita	
 hojna	hojny	adj:sg:nom.voc:f:pos		
 hojną	hojny	adj:sg:acc:f:pos		
 hojną	hojny	adj:sg:inst:f:pos		

@@ -427,34 +427,20 @@ labiedźcie	labiedzić	impt:pl:sec:imperf		pot.
 labiedź	labiedzić	impt:sg:sec:imperf		pot.
 labiedźmy	labiedzić	impt:pl:pri:imperf		pot.
 labilnie	labilnie	adv:pos		
-labilnościach	labilność:s	subst:pl:loc:f	nazwa pospolita	
-labilnościami	labilność:s	subst:pl:inst:f	nazwa pospolita	
-labilnością	labilność:s	subst:sg:inst:f	nazwa pospolita	
-labilności	labilność:s	subst:pl:acc:f	nazwa pospolita	
-labilności	labilność:s	subst:pl:gen:f	nazwa pospolita	
-labilności	labilność:s	subst:pl:nom:f	nazwa pospolita	
-labilności	labilność:s	subst:pl:voc:f	nazwa pospolita	
-labilności	labilność:s	subst:sg:dat:f	nazwa pospolita	
-labilności	labilność:s	subst:sg:gen:f	nazwa pospolita	
-labilności	labilność:s	subst:sg:loc:f	nazwa pospolita	
-labilności	labilność:s	subst:sg:voc:f	nazwa pospolita	
-labilnościom	labilność:s	subst:pl:dat:f	nazwa pospolita	
-labilność	labilność:s	subst:sg:acc:f	nazwa pospolita	
-labilność	labilność:s	subst:sg:nom:f	nazwa pospolita	
-labilnościach	labilność:s	subst:pl:loc:f	nazwa pospolita	
-labilnościami	labilność:s	subst:pl:inst:f	nazwa pospolita	
-labilnością	labilność:s	subst:sg:inst:f	nazwa pospolita	
-labilności	labilność:s	subst:pl:acc:f	nazwa pospolita	
-labilności	labilność:s	subst:pl:gen:f	nazwa pospolita	
-labilności	labilność:s	subst:pl:nom:f	nazwa pospolita	
-labilności	labilność:s	subst:pl:voc:f	nazwa pospolita	
-labilności	labilność:s	subst:sg:dat:f	nazwa pospolita	
-labilności	labilność:s	subst:sg:gen:f	nazwa pospolita	
-labilności	labilność:s	subst:sg:loc:f	nazwa pospolita	
-labilności	labilność:s	subst:sg:voc:f	nazwa pospolita	
-labilnościom	labilność:s	subst:pl:dat:f	nazwa pospolita	
-labilność	labilność:s	subst:sg:acc:f	nazwa pospolita	
-labilność	labilność:s	subst:sg:nom:f	nazwa pospolita	
+labilnościach	labilność	subst:pl:loc:f	nazwa pospolita	
+labilnościami	labilność	subst:pl:inst:f	nazwa pospolita	
+labilnością	labilność	subst:sg:inst:f	nazwa pospolita	
+labilności	labilność	subst:pl:acc:f	nazwa pospolita	
+labilności	labilność	subst:pl:gen:f	nazwa pospolita	
+labilności	labilność	subst:pl:nom:f	nazwa pospolita	
+labilności	labilność	subst:pl:voc:f	nazwa pospolita	
+labilności	labilność	subst:sg:dat:f	nazwa pospolita	
+labilności	labilność	subst:sg:gen:f	nazwa pospolita	
+labilności	labilność	subst:sg:loc:f	nazwa pospolita	
+labilności	labilność	subst:sg:voc:f	nazwa pospolita	
+labilnościom	labilność	subst:pl:dat:f	nazwa pospolita	
+labilność	labilność	subst:sg:acc:f	nazwa pospolita	
+labilność	labilność	subst:sg:nom:f	nazwa pospolita	
 labilna	labilny	adj:sg:nom.voc:f:pos		
 labilną	labilny	adj:sg:acc:f:pos		
 labilną	labilny	adj:sg:inst:f:pos		
@@ -2189,34 +2175,20 @@ laickim	laicki	adj:sg:loc:m1.m2.m3.n1.n2:pos
 laicko	laicki	adja		
 laicku	laicki	adjp		
 laicko	laicko	adv:pos		
-laickościach	laickość:s	subst:pl:loc:f	nazwa pospolita	
-laickościami	laickość:s	subst:pl:inst:f	nazwa pospolita	
-laickością	laickość:s	subst:sg:inst:f	nazwa pospolita	
-laickości	laickość:s	subst:pl:acc:f	nazwa pospolita	
-laickości	laickość:s	subst:pl:gen:f	nazwa pospolita	
-laickości	laickość:s	subst:pl:nom:f	nazwa pospolita	
-laickości	laickość:s	subst:pl:voc:f	nazwa pospolita	
-laickości	laickość:s	subst:sg:dat:f	nazwa pospolita	
-laickości	laickość:s	subst:sg:gen:f	nazwa pospolita	
-laickości	laickość:s	subst:sg:loc:f	nazwa pospolita	
-laickości	laickość:s	subst:sg:voc:f	nazwa pospolita	
-laickościom	laickość:s	subst:pl:dat:f	nazwa pospolita	
-laickość	laickość:s	subst:sg:acc:f	nazwa pospolita	
-laickość	laickość:s	subst:sg:nom:f	nazwa pospolita	
-laickościach	laickość:s	subst:pl:loc:f	nazwa pospolita	
-laickościami	laickość:s	subst:pl:inst:f	nazwa pospolita	
-laickością	laickość:s	subst:sg:inst:f	nazwa pospolita	
-laickości	laickość:s	subst:pl:acc:f	nazwa pospolita	
-laickości	laickość:s	subst:pl:gen:f	nazwa pospolita	
-laickości	laickość:s	subst:pl:nom:f	nazwa pospolita	
-laickości	laickość:s	subst:pl:voc:f	nazwa pospolita	
-laickości	laickość:s	subst:sg:dat:f	nazwa pospolita	
-laickości	laickość:s	subst:sg:gen:f	nazwa pospolita	
-laickości	laickość:s	subst:sg:loc:f	nazwa pospolita	
-laickości	laickość:s	subst:sg:voc:f	nazwa pospolita	
-laickościom	laickość:s	subst:pl:dat:f	nazwa pospolita	
-laickość	laickość:s	subst:sg:acc:f	nazwa pospolita	
-laickość	laickość:s	subst:sg:nom:f	nazwa pospolita	
+laickościach	laickość	subst:pl:loc:f	nazwa pospolita	
+laickościami	laickość	subst:pl:inst:f	nazwa pospolita	
+laickością	laickość	subst:sg:inst:f	nazwa pospolita	
+laickości	laickość	subst:pl:acc:f	nazwa pospolita	
+laickości	laickość	subst:pl:gen:f	nazwa pospolita	
+laickości	laickość	subst:pl:nom:f	nazwa pospolita	
+laickości	laickość	subst:pl:voc:f	nazwa pospolita	
+laickości	laickość	subst:sg:dat:f	nazwa pospolita	
+laickości	laickość	subst:sg:gen:f	nazwa pospolita	
+laickości	laickość	subst:sg:loc:f	nazwa pospolita	
+laickości	laickość	subst:sg:voc:f	nazwa pospolita	
+laickościom	laickość	subst:pl:dat:f	nazwa pospolita	
+laickość	laickość	subst:sg:acc:f	nazwa pospolita	
+laickość	laickość	subst:sg:nom:f	nazwa pospolita	
 laicyzacjach	laicyzacja	subst:pl:loc:f	nazwa pospolita	
 laicyzacja	laicyzacja	subst:sg:nom:f	nazwa pospolita	
 laicyzacjami	laicyzacja	subst:pl:inst:f	nazwa pospolita	
@@ -16077,34 +16049,20 @@ legalizuj	legalizować	impt:sg:sec:imperf
 legalizujmy	legalizować	impt:pl:pri:imperf		
 legalniej	legalnie	adv:com		
 legalnie	legalnie	adv:pos		
-legalnościach	legalność:s	subst:pl:loc:f	nazwa pospolita	
-legalnościami	legalność:s	subst:pl:inst:f	nazwa pospolita	
-legalnością	legalność:s	subst:sg:inst:f	nazwa pospolita	
-legalności	legalność:s	subst:pl:acc:f	nazwa pospolita	
-legalności	legalność:s	subst:pl:gen:f	nazwa pospolita	
-legalności	legalność:s	subst:pl:nom:f	nazwa pospolita	
-legalności	legalność:s	subst:pl:voc:f	nazwa pospolita	
-legalności	legalność:s	subst:sg:dat:f	nazwa pospolita	
-legalności	legalność:s	subst:sg:gen:f	nazwa pospolita	
-legalności	legalność:s	subst:sg:loc:f	nazwa pospolita	
-legalności	legalność:s	subst:sg:voc:f	nazwa pospolita	
-legalnościom	legalność:s	subst:pl:dat:f	nazwa pospolita	
-legalność	legalność:s	subst:sg:acc:f	nazwa pospolita	
-legalność	legalność:s	subst:sg:nom:f	nazwa pospolita	
-legalnościach	legalność:s	subst:pl:loc:f	nazwa pospolita	
-legalnościami	legalność:s	subst:pl:inst:f	nazwa pospolita	
-legalnością	legalność:s	subst:sg:inst:f	nazwa pospolita	
-legalności	legalność:s	subst:pl:acc:f	nazwa pospolita	
-legalności	legalność:s	subst:pl:gen:f	nazwa pospolita	
-legalności	legalność:s	subst:pl:nom:f	nazwa pospolita	
-legalności	legalność:s	subst:pl:voc:f	nazwa pospolita	
-legalności	legalność:s	subst:sg:dat:f	nazwa pospolita	
-legalności	legalność:s	subst:sg:gen:f	nazwa pospolita	
-legalności	legalność:s	subst:sg:loc:f	nazwa pospolita	
-legalności	legalność:s	subst:sg:voc:f	nazwa pospolita	
-legalnościom	legalność:s	subst:pl:dat:f	nazwa pospolita	
-legalność	legalność:s	subst:sg:acc:f	nazwa pospolita	
-legalność	legalność:s	subst:sg:nom:f	nazwa pospolita	
+legalnościach	legalność	subst:pl:loc:f	nazwa pospolita	
+legalnościami	legalność	subst:pl:inst:f	nazwa pospolita	
+legalnością	legalność	subst:sg:inst:f	nazwa pospolita	
+legalności	legalność	subst:pl:acc:f	nazwa pospolita	
+legalności	legalność	subst:pl:gen:f	nazwa pospolita	
+legalności	legalność	subst:pl:nom:f	nazwa pospolita	
+legalności	legalność	subst:pl:voc:f	nazwa pospolita	
+legalności	legalność	subst:sg:dat:f	nazwa pospolita	
+legalności	legalność	subst:sg:gen:f	nazwa pospolita	
+legalności	legalność	subst:sg:loc:f	nazwa pospolita	
+legalności	legalność	subst:sg:voc:f	nazwa pospolita	
+legalnościom	legalność	subst:pl:dat:f	nazwa pospolita	
+legalność	legalność	subst:sg:acc:f	nazwa pospolita	
+legalność	legalność	subst:sg:nom:f	nazwa pospolita	
 legalna	legalny	adj:sg:nom.voc:f:pos		
 legalną	legalny	adj:sg:acc:f:pos		
 legalną	legalny	adj:sg:inst:f:pos		
@@ -19235,34 +19193,20 @@ lekkomyślników	lekkomyślnik	subst:pl:acc:m1	nazwa pospolita	rzad.
 lekkomyślników	lekkomyślnik	subst:pl:gen:m1	nazwa pospolita	rzad.
 lekkomyślniku	lekkomyślnik	subst:sg:loc:m1	nazwa pospolita	rzad.
 lekkomyślniku	lekkomyślnik	subst:sg:voc:m1	nazwa pospolita	rzad.
-lekkomyślnościach	lekkomyślność:s	subst:pl:loc:f	nazwa pospolita	
-lekkomyślnościami	lekkomyślność:s	subst:pl:inst:f	nazwa pospolita	
-lekkomyślnością	lekkomyślność:s	subst:sg:inst:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:pl:acc:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:pl:gen:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:pl:nom:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:pl:voc:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:sg:dat:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:sg:gen:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:sg:loc:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:sg:voc:f	nazwa pospolita	
-lekkomyślnościom	lekkomyślność:s	subst:pl:dat:f	nazwa pospolita	
-lekkomyślność	lekkomyślność:s	subst:sg:acc:f	nazwa pospolita	
-lekkomyślność	lekkomyślność:s	subst:sg:nom:f	nazwa pospolita	
-lekkomyślnościach	lekkomyślność:s	subst:pl:loc:f	nazwa pospolita	
-lekkomyślnościami	lekkomyślność:s	subst:pl:inst:f	nazwa pospolita	
-lekkomyślnością	lekkomyślność:s	subst:sg:inst:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:pl:acc:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:pl:gen:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:pl:nom:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:pl:voc:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:sg:dat:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:sg:gen:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:sg:loc:f	nazwa pospolita	
-lekkomyślności	lekkomyślność:s	subst:sg:voc:f	nazwa pospolita	
-lekkomyślnościom	lekkomyślność:s	subst:pl:dat:f	nazwa pospolita	
-lekkomyślność	lekkomyślność:s	subst:sg:acc:f	nazwa pospolita	
-lekkomyślność	lekkomyślność:s	subst:sg:nom:f	nazwa pospolita	
+lekkomyślnościach	lekkomyślność	subst:pl:loc:f	nazwa pospolita	
+lekkomyślnościami	lekkomyślność	subst:pl:inst:f	nazwa pospolita	
+lekkomyślnością	lekkomyślność	subst:sg:inst:f	nazwa pospolita	
+lekkomyślności	lekkomyślność	subst:pl:acc:f	nazwa pospolita	
+lekkomyślności	lekkomyślność	subst:pl:gen:f	nazwa pospolita	
+lekkomyślności	lekkomyślność	subst:pl:nom:f	nazwa pospolita	
+lekkomyślności	lekkomyślność	subst:pl:voc:f	nazwa pospolita	
+lekkomyślności	lekkomyślność	subst:sg:dat:f	nazwa pospolita	
+lekkomyślności	lekkomyślność	subst:sg:gen:f	nazwa pospolita	
+lekkomyślności	lekkomyślność	subst:sg:loc:f	nazwa pospolita	
+lekkomyślności	lekkomyślność	subst:sg:voc:f	nazwa pospolita	
+lekkomyślnościom	lekkomyślność	subst:pl:dat:f	nazwa pospolita	
+lekkomyślność	lekkomyślność	subst:sg:acc:f	nazwa pospolita	
+lekkomyślność	lekkomyślność	subst:sg:nom:f	nazwa pospolita	
 lekkomyślna	lekkomyślny	adj:sg:nom.voc:f:pos		
 lekkomyślną	lekkomyślny	adj:sg:acc:f:pos		
 lekkomyślną	lekkomyślny	adj:sg:inst:f:pos		
@@ -19525,34 +19469,20 @@ lekkostrawnymi	lekkostrawny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 lekkostrawnym	lekkostrawny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 lekkostrawnym	lekkostrawny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 lekkostrawnym	lekkostrawny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-lekkościach	lekkość:s	subst:pl:loc:f	nazwa pospolita	
-lekkościami	lekkość:s	subst:pl:inst:f	nazwa pospolita	
-lekkością	lekkość:s	subst:sg:inst:f	nazwa pospolita	
-lekkości	lekkość:s	subst:pl:acc:f	nazwa pospolita	
-lekkości	lekkość:s	subst:pl:gen:f	nazwa pospolita	
-lekkości	lekkość:s	subst:pl:nom:f	nazwa pospolita	
-lekkości	lekkość:s	subst:pl:voc:f	nazwa pospolita	
-lekkości	lekkość:s	subst:sg:dat:f	nazwa pospolita	
-lekkości	lekkość:s	subst:sg:gen:f	nazwa pospolita	
-lekkości	lekkość:s	subst:sg:loc:f	nazwa pospolita	
-lekkości	lekkość:s	subst:sg:voc:f	nazwa pospolita	
-lekkościom	lekkość:s	subst:pl:dat:f	nazwa pospolita	
-lekkość	lekkość:s	subst:sg:acc:f	nazwa pospolita	
-lekkość	lekkość:s	subst:sg:nom:f	nazwa pospolita	
-lekkościach	lekkość:s	subst:pl:loc:f	nazwa pospolita	
-lekkościami	lekkość:s	subst:pl:inst:f	nazwa pospolita	
-lekkością	lekkość:s	subst:sg:inst:f	nazwa pospolita	
-lekkości	lekkość:s	subst:pl:acc:f	nazwa pospolita	
-lekkości	lekkość:s	subst:pl:gen:f	nazwa pospolita	
-lekkości	lekkość:s	subst:pl:nom:f	nazwa pospolita	
-lekkości	lekkość:s	subst:pl:voc:f	nazwa pospolita	
-lekkości	lekkość:s	subst:sg:dat:f	nazwa pospolita	
-lekkości	lekkość:s	subst:sg:gen:f	nazwa pospolita	
-lekkości	lekkość:s	subst:sg:loc:f	nazwa pospolita	
-lekkości	lekkość:s	subst:sg:voc:f	nazwa pospolita	
-lekkościom	lekkość:s	subst:pl:dat:f	nazwa pospolita	
-lekkość	lekkość:s	subst:sg:acc:f	nazwa pospolita	
-lekkość	lekkość:s	subst:sg:nom:f	nazwa pospolita	
+lekkościach	lekkość	subst:pl:loc:f	nazwa pospolita	
+lekkościami	lekkość	subst:pl:inst:f	nazwa pospolita	
+lekkością	lekkość	subst:sg:inst:f	nazwa pospolita	
+lekkości	lekkość	subst:pl:acc:f	nazwa pospolita	
+lekkości	lekkość	subst:pl:gen:f	nazwa pospolita	
+lekkości	lekkość	subst:pl:nom:f	nazwa pospolita	
+lekkości	lekkość	subst:pl:voc:f	nazwa pospolita	
+lekkości	lekkość	subst:sg:dat:f	nazwa pospolita	
+lekkości	lekkość	subst:sg:gen:f	nazwa pospolita	
+lekkości	lekkość	subst:sg:loc:f	nazwa pospolita	
+lekkości	lekkość	subst:sg:voc:f	nazwa pospolita	
+lekkościom	lekkość	subst:pl:dat:f	nazwa pospolita	
+lekkość	lekkość	subst:sg:acc:f	nazwa pospolita	
+lekkość	lekkość	subst:sg:nom:f	nazwa pospolita	
 lekkośrednia	lekkośredni	adj:sg:nom.voc:f:pos		
 lekkośrednią	lekkośredni	adj:sg:acc:f:pos		
 lekkośrednią	lekkośredni	adj:sg:inst:f:pos		
@@ -23481,34 +23411,20 @@ lepkościowymi	lepkościowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 lepkościowym	lepkościowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 lepkościowym	lepkościowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 lepkościowym	lepkościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-lepkościach	lepkość:s	subst:pl:loc:f	nazwa pospolita	
-lepkościami	lepkość:s	subst:pl:inst:f	nazwa pospolita	
-lepkością	lepkość:s	subst:sg:inst:f	nazwa pospolita	
-lepkości	lepkość:s	subst:pl:acc:f	nazwa pospolita	
-lepkości	lepkość:s	subst:pl:gen:f	nazwa pospolita	
-lepkości	lepkość:s	subst:pl:nom:f	nazwa pospolita	
-lepkości	lepkość:s	subst:pl:voc:f	nazwa pospolita	
-lepkości	lepkość:s	subst:sg:dat:f	nazwa pospolita	
-lepkości	lepkość:s	subst:sg:gen:f	nazwa pospolita	
-lepkości	lepkość:s	subst:sg:loc:f	nazwa pospolita	
-lepkości	lepkość:s	subst:sg:voc:f	nazwa pospolita	
-lepkościom	lepkość:s	subst:pl:dat:f	nazwa pospolita	
-lepkość	lepkość:s	subst:sg:acc:f	nazwa pospolita	
-lepkość	lepkość:s	subst:sg:nom:f	nazwa pospolita	
-lepkościach	lepkość:s	subst:pl:loc:f	nazwa pospolita	
-lepkościami	lepkość:s	subst:pl:inst:f	nazwa pospolita	
-lepkością	lepkość:s	subst:sg:inst:f	nazwa pospolita	
-lepkości	lepkość:s	subst:pl:acc:f	nazwa pospolita	
-lepkości	lepkość:s	subst:pl:gen:f	nazwa pospolita	
-lepkości	lepkość:s	subst:pl:nom:f	nazwa pospolita	
-lepkości	lepkość:s	subst:pl:voc:f	nazwa pospolita	
-lepkości	lepkość:s	subst:sg:dat:f	nazwa pospolita	
-lepkości	lepkość:s	subst:sg:gen:f	nazwa pospolita	
-lepkości	lepkość:s	subst:sg:loc:f	nazwa pospolita	
-lepkości	lepkość:s	subst:sg:voc:f	nazwa pospolita	
-lepkościom	lepkość:s	subst:pl:dat:f	nazwa pospolita	
-lepkość	lepkość:s	subst:sg:acc:f	nazwa pospolita	
-lepkość	lepkość:s	subst:sg:nom:f	nazwa pospolita	
+lepkościach	lepkość	subst:pl:loc:f	nazwa pospolita	
+lepkościami	lepkość	subst:pl:inst:f	nazwa pospolita	
+lepkością	lepkość	subst:sg:inst:f	nazwa pospolita	
+lepkości	lepkość	subst:pl:acc:f	nazwa pospolita	
+lepkości	lepkość	subst:pl:gen:f	nazwa pospolita	
+lepkości	lepkość	subst:pl:nom:f	nazwa pospolita	
+lepkości	lepkość	subst:pl:voc:f	nazwa pospolita	
+lepkości	lepkość	subst:sg:dat:f	nazwa pospolita	
+lepkości	lepkość	subst:sg:gen:f	nazwa pospolita	
+lepkości	lepkość	subst:sg:loc:f	nazwa pospolita	
+lepkości	lepkość	subst:sg:voc:f	nazwa pospolita	
+lepkościom	lepkość	subst:pl:dat:f	nazwa pospolita	
+lepkość	lepkość	subst:sg:acc:f	nazwa pospolita	
+lepkość	lepkość	subst:sg:nom:f	nazwa pospolita	
 lepliwościach	lepliwość	subst:pl:loc:f	nazwa pospolita	
 lepliwościami	lepliwość	subst:pl:inst:f	nazwa pospolita	
 lepliwością	lepliwość	subst:sg:inst:f	nazwa pospolita	
@@ -28713,34 +28629,20 @@ lękań	lękać	ger:pl:gen:n2:imperf:aff
 lękasz	lękać	fin:sg:sec:imperf		
 lękliwiej	lękliwie	adv:com		
 lękliwie	lękliwie	adv:pos		
-lękliwościach	lękliwość:s	subst:pl:loc:f	nazwa pospolita	
-lękliwościami	lękliwość:s	subst:pl:inst:f	nazwa pospolita	
-lękliwością	lękliwość:s	subst:sg:inst:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:pl:acc:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:pl:gen:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:pl:nom:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:pl:voc:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:sg:dat:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:sg:gen:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:sg:loc:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:sg:voc:f	nazwa pospolita	
-lękliwościom	lękliwość:s	subst:pl:dat:f	nazwa pospolita	
-lękliwość	lękliwość:s	subst:sg:acc:f	nazwa pospolita	
-lękliwość	lękliwość:s	subst:sg:nom:f	nazwa pospolita	
-lękliwościach	lękliwość:s	subst:pl:loc:f	nazwa pospolita	
-lękliwościami	lękliwość:s	subst:pl:inst:f	nazwa pospolita	
-lękliwością	lękliwość:s	subst:sg:inst:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:pl:acc:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:pl:gen:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:pl:nom:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:pl:voc:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:sg:dat:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:sg:gen:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:sg:loc:f	nazwa pospolita	
-lękliwości	lękliwość:s	subst:sg:voc:f	nazwa pospolita	
-lękliwościom	lękliwość:s	subst:pl:dat:f	nazwa pospolita	
-lękliwość	lękliwość:s	subst:sg:acc:f	nazwa pospolita	
-lękliwość	lękliwość:s	subst:sg:nom:f	nazwa pospolita	
+lękliwościach	lękliwość	subst:pl:loc:f	nazwa pospolita	
+lękliwościami	lękliwość	subst:pl:inst:f	nazwa pospolita	
+lękliwością	lękliwość	subst:sg:inst:f	nazwa pospolita	
+lękliwości	lękliwość	subst:pl:acc:f	nazwa pospolita	
+lękliwości	lękliwość	subst:pl:gen:f	nazwa pospolita	
+lękliwości	lękliwość	subst:pl:nom:f	nazwa pospolita	
+lękliwości	lękliwość	subst:pl:voc:f	nazwa pospolita	
+lękliwości	lękliwość	subst:sg:dat:f	nazwa pospolita	
+lękliwości	lękliwość	subst:sg:gen:f	nazwa pospolita	
+lękliwości	lękliwość	subst:sg:loc:f	nazwa pospolita	
+lękliwości	lękliwość	subst:sg:voc:f	nazwa pospolita	
+lękliwościom	lękliwość	subst:pl:dat:f	nazwa pospolita	
+lękliwość	lękliwość	subst:sg:acc:f	nazwa pospolita	
+lękliwość	lękliwość	subst:sg:nom:f	nazwa pospolita	
 lękliwa	lękliwy	adj:sg:nom.voc:f:pos		
 lękliwą	lękliwy	adj:sg:acc:f:pos		
 lękliwą	lękliwy	adj:sg:inst:f:pos		
@@ -32495,34 +32397,20 @@ liczebnikowymi	liczebnikowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 liczebnikowym	liczebnikowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 liczebnikowym	liczebnikowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 liczebnikowym	liczebnikowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-liczebnościach	liczebność:s	subst:pl:loc:f	nazwa pospolita	
-liczebnościami	liczebność:s	subst:pl:inst:f	nazwa pospolita	
-liczebnością	liczebność:s	subst:sg:inst:f	nazwa pospolita	
-liczebności	liczebność:s	subst:pl:acc:f	nazwa pospolita	
-liczebności	liczebność:s	subst:pl:gen:f	nazwa pospolita	
-liczebności	liczebność:s	subst:pl:nom:f	nazwa pospolita	
-liczebności	liczebność:s	subst:pl:voc:f	nazwa pospolita	
-liczebności	liczebność:s	subst:sg:dat:f	nazwa pospolita	
-liczebności	liczebność:s	subst:sg:gen:f	nazwa pospolita	
-liczebności	liczebność:s	subst:sg:loc:f	nazwa pospolita	
-liczebności	liczebność:s	subst:sg:voc:f	nazwa pospolita	
-liczebnościom	liczebność:s	subst:pl:dat:f	nazwa pospolita	
-liczebność	liczebność:s	subst:sg:acc:f	nazwa pospolita	
-liczebność	liczebność:s	subst:sg:nom:f	nazwa pospolita	
-liczebnościach	liczebność:s	subst:pl:loc:f	nazwa pospolita	
-liczebnościami	liczebność:s	subst:pl:inst:f	nazwa pospolita	
-liczebnością	liczebność:s	subst:sg:inst:f	nazwa pospolita	
-liczebności	liczebność:s	subst:pl:acc:f	nazwa pospolita	
-liczebności	liczebność:s	subst:pl:gen:f	nazwa pospolita	
-liczebności	liczebność:s	subst:pl:nom:f	nazwa pospolita	
-liczebności	liczebność:s	subst:pl:voc:f	nazwa pospolita	
-liczebności	liczebność:s	subst:sg:dat:f	nazwa pospolita	
-liczebności	liczebność:s	subst:sg:gen:f	nazwa pospolita	
-liczebności	liczebność:s	subst:sg:loc:f	nazwa pospolita	
-liczebności	liczebność:s	subst:sg:voc:f	nazwa pospolita	
-liczebnościom	liczebność:s	subst:pl:dat:f	nazwa pospolita	
-liczebność	liczebność:s	subst:sg:acc:f	nazwa pospolita	
-liczebność	liczebność:s	subst:sg:nom:f	nazwa pospolita	
+liczebnościach	liczebność	subst:pl:loc:f	nazwa pospolita	
+liczebnościami	liczebność	subst:pl:inst:f	nazwa pospolita	
+liczebnością	liczebność	subst:sg:inst:f	nazwa pospolita	
+liczebności	liczebność	subst:pl:acc:f	nazwa pospolita	
+liczebności	liczebność	subst:pl:gen:f	nazwa pospolita	
+liczebności	liczebność	subst:pl:nom:f	nazwa pospolita	
+liczebności	liczebność	subst:pl:voc:f	nazwa pospolita	
+liczebności	liczebność	subst:sg:dat:f	nazwa pospolita	
+liczebności	liczebność	subst:sg:gen:f	nazwa pospolita	
+liczebności	liczebność	subst:sg:loc:f	nazwa pospolita	
+liczebności	liczebność	subst:sg:voc:f	nazwa pospolita	
+liczebnościom	liczebność	subst:pl:dat:f	nazwa pospolita	
+liczebność	liczebność	subst:sg:acc:f	nazwa pospolita	
+liczebność	liczebność	subst:sg:nom:f	nazwa pospolita	
 liczebna	liczebny	adj:sg:nom.voc:f:pos		
 liczebną	liczebny	adj:sg:acc:f:pos		
 liczebną	liczebny	adj:sg:inst:f:pos		
@@ -44020,34 +43908,20 @@ litościwymi	litościwy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 litościwym	litościwy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 litościwym	litościwy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 litościwym	litościwy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-litościach	litość:s	subst:pl:loc:f	nazwa pospolita	
-litościami	litość:s	subst:pl:inst:f	nazwa pospolita	
-litością	litość:s	subst:sg:inst:f	nazwa pospolita	
-litości	litość:s	subst:pl:acc:f	nazwa pospolita	
-litości	litość:s	subst:pl:gen:f	nazwa pospolita	
-litości	litość:s	subst:pl:nom:f	nazwa pospolita	
-litości	litość:s	subst:pl:voc:f	nazwa pospolita	
-litości	litość:s	subst:sg:dat:f	nazwa pospolita	
-litości	litość:s	subst:sg:gen:f	nazwa pospolita	
-litości	litość:s	subst:sg:loc:f	nazwa pospolita	
-litości	litość:s	subst:sg:voc:f	nazwa pospolita	
-litościom	litość:s	subst:pl:dat:f	nazwa pospolita	
-litość	litość:s	subst:sg:acc:f	nazwa pospolita	
-litość	litość:s	subst:sg:nom:f	nazwa pospolita	
-litościach	litość:s	subst:pl:loc:f	nazwa pospolita	
-litościami	litość:s	subst:pl:inst:f	nazwa pospolita	
-litością	litość:s	subst:sg:inst:f	nazwa pospolita	
-litości	litość:s	subst:pl:acc:f	nazwa pospolita	
-litości	litość:s	subst:pl:gen:f	nazwa pospolita	
-litości	litość:s	subst:pl:nom:f	nazwa pospolita	
-litości	litość:s	subst:pl:voc:f	nazwa pospolita	
-litości	litość:s	subst:sg:dat:f	nazwa pospolita	
-litości	litość:s	subst:sg:gen:f	nazwa pospolita	
-litości	litość:s	subst:sg:loc:f	nazwa pospolita	
-litości	litość:s	subst:sg:voc:f	nazwa pospolita	
-litościom	litość:s	subst:pl:dat:f	nazwa pospolita	
-litość	litość:s	subst:sg:acc:f	nazwa pospolita	
-litość	litość:s	subst:sg:nom:f	nazwa pospolita	
+litościach	litość	subst:pl:loc:f	nazwa pospolita	
+litościami	litość	subst:pl:inst:f	nazwa pospolita	
+litością	litość	subst:sg:inst:f	nazwa pospolita	
+litości	litość	subst:pl:acc:f	nazwa pospolita	
+litości	litość	subst:pl:gen:f	nazwa pospolita	
+litości	litość	subst:pl:nom:f	nazwa pospolita	
+litości	litość	subst:pl:voc:f	nazwa pospolita	
+litości	litość	subst:sg:dat:f	nazwa pospolita	
+litości	litość	subst:sg:gen:f	nazwa pospolita	
+litości	litość	subst:sg:loc:f	nazwa pospolita	
+litości	litość	subst:sg:voc:f	nazwa pospolita	
+litościom	litość	subst:pl:dat:f	nazwa pospolita	
+litość	litość	subst:sg:acc:f	nazwa pospolita	
+litość	litość	subst:sg:nom:f	nazwa pospolita	
 litośniej	litośnie	adv:com		
 litośnie	litośnie	adv:pos		przest.
 litośnościach	litośność	subst:pl:loc:f	nazwa pospolita	daw.
@@ -50097,34 +49971,20 @@ lojalnościowymi	lojalnościowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 lojalnościowym	lojalnościowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 lojalnościowym	lojalnościowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 lojalnościowym	lojalnościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-lojalnościach	lojalność:s	subst:pl:loc:f	nazwa pospolita	
-lojalnościami	lojalność:s	subst:pl:inst:f	nazwa pospolita	
-lojalnością	lojalność:s	subst:sg:inst:f	nazwa pospolita	
-lojalności	lojalność:s	subst:pl:acc:f	nazwa pospolita	
-lojalności	lojalność:s	subst:pl:gen:f	nazwa pospolita	
-lojalności	lojalność:s	subst:pl:nom:f	nazwa pospolita	
-lojalności	lojalność:s	subst:pl:voc:f	nazwa pospolita	
-lojalności	lojalność:s	subst:sg:dat:f	nazwa pospolita	
-lojalności	lojalność:s	subst:sg:gen:f	nazwa pospolita	
-lojalności	lojalność:s	subst:sg:loc:f	nazwa pospolita	
-lojalności	lojalność:s	subst:sg:voc:f	nazwa pospolita	
-lojalnościom	lojalność:s	subst:pl:dat:f	nazwa pospolita	
-lojalność	lojalność:s	subst:sg:acc:f	nazwa pospolita	
-lojalność	lojalność:s	subst:sg:nom:f	nazwa pospolita	
-lojalnościach	lojalność:s	subst:pl:loc:f	nazwa pospolita	
-lojalnościami	lojalność:s	subst:pl:inst:f	nazwa pospolita	
-lojalnością	lojalność:s	subst:sg:inst:f	nazwa pospolita	
-lojalności	lojalność:s	subst:pl:acc:f	nazwa pospolita	
-lojalności	lojalność:s	subst:pl:gen:f	nazwa pospolita	
-lojalności	lojalność:s	subst:pl:nom:f	nazwa pospolita	
-lojalności	lojalność:s	subst:pl:voc:f	nazwa pospolita	
-lojalności	lojalność:s	subst:sg:dat:f	nazwa pospolita	
-lojalności	lojalność:s	subst:sg:gen:f	nazwa pospolita	
-lojalności	lojalność:s	subst:sg:loc:f	nazwa pospolita	
-lojalności	lojalność:s	subst:sg:voc:f	nazwa pospolita	
-lojalnościom	lojalność:s	subst:pl:dat:f	nazwa pospolita	
-lojalność	lojalność:s	subst:sg:acc:f	nazwa pospolita	
-lojalność	lojalność:s	subst:sg:nom:f	nazwa pospolita	
+lojalnościach	lojalność	subst:pl:loc:f	nazwa pospolita	
+lojalnościami	lojalność	subst:pl:inst:f	nazwa pospolita	
+lojalnością	lojalność	subst:sg:inst:f	nazwa pospolita	
+lojalności	lojalność	subst:pl:acc:f	nazwa pospolita	
+lojalności	lojalność	subst:pl:gen:f	nazwa pospolita	
+lojalności	lojalność	subst:pl:nom:f	nazwa pospolita	
+lojalności	lojalność	subst:pl:voc:f	nazwa pospolita	
+lojalności	lojalność	subst:sg:dat:f	nazwa pospolita	
+lojalności	lojalność	subst:sg:gen:f	nazwa pospolita	
+lojalności	lojalność	subst:sg:loc:f	nazwa pospolita	
+lojalności	lojalność	subst:sg:voc:f	nazwa pospolita	
+lojalnościom	lojalność	subst:pl:dat:f	nazwa pospolita	
+lojalność	lojalność	subst:sg:acc:f	nazwa pospolita	
+lojalność	lojalność	subst:sg:nom:f	nazwa pospolita	
 lojalna	lojalny	adj:sg:nom.voc:f:pos		
 lojalną	lojalny	adj:sg:acc:f:pos		
 lojalną	lojalny	adj:sg:inst:f:pos		
@@ -56161,34 +56021,20 @@ lubońskości	lubońskość	subst:sg:voc:f	nazwa pospolita
 lubońskościom	lubońskość	subst:pl:dat:f	nazwa pospolita	
 lubońskość	lubońskość	subst:sg:acc:f	nazwa pospolita	
 lubońskość	lubońskość	subst:sg:nom:f	nazwa pospolita	
-lubościach	lubość:s	subst:pl:loc:f	nazwa pospolita	przest.
-lubościami	lubość:s	subst:pl:inst:f	nazwa pospolita	przest.
-lubością	lubość:s	subst:sg:inst:f	nazwa pospolita	przest.
-lubości	lubość:s	subst:pl:acc:f	nazwa pospolita	przest.
-lubości	lubość:s	subst:pl:gen:f	nazwa pospolita	przest.
-lubości	lubość:s	subst:pl:nom:f	nazwa pospolita	przest.
-lubości	lubość:s	subst:pl:voc:f	nazwa pospolita	przest.
-lubości	lubość:s	subst:sg:dat:f	nazwa pospolita	przest.
-lubości	lubość:s	subst:sg:gen:f	nazwa pospolita	przest.
-lubości	lubość:s	subst:sg:loc:f	nazwa pospolita	przest.
-lubości	lubość:s	subst:sg:voc:f	nazwa pospolita	przest.
-lubościom	lubość:s	subst:pl:dat:f	nazwa pospolita	przest.
-lubość	lubość:s	subst:sg:acc:f	nazwa pospolita	przest.
-lubość	lubość:s	subst:sg:nom:f	nazwa pospolita	przest.
-lubościach	lubość:s	subst:pl:loc:f	nazwa pospolita	
-lubościami	lubość:s	subst:pl:inst:f	nazwa pospolita	
-lubością	lubość:s	subst:sg:inst:f	nazwa pospolita	
-lubości	lubość:s	subst:pl:acc:f	nazwa pospolita	
-lubości	lubość:s	subst:pl:gen:f	nazwa pospolita	
-lubości	lubość:s	subst:pl:nom:f	nazwa pospolita	
-lubości	lubość:s	subst:pl:voc:f	nazwa pospolita	
-lubości	lubość:s	subst:sg:dat:f	nazwa pospolita	
-lubości	lubość:s	subst:sg:gen:f	nazwa pospolita	
-lubości	lubość:s	subst:sg:loc:f	nazwa pospolita	
-lubości	lubość:s	subst:sg:voc:f	nazwa pospolita	
-lubościom	lubość:s	subst:pl:dat:f	nazwa pospolita	
-lubość	lubość:s	subst:sg:acc:f	nazwa pospolita	
-lubość	lubość:s	subst:sg:nom:f	nazwa pospolita	
+lubościach	lubość	subst:pl:loc:f	nazwa pospolita	przest.
+lubościami	lubość	subst:pl:inst:f	nazwa pospolita	przest.
+lubością	lubość	subst:sg:inst:f	nazwa pospolita	przest.
+lubości	lubość	subst:pl:acc:f	nazwa pospolita	przest.
+lubości	lubość	subst:pl:gen:f	nazwa pospolita	przest.
+lubości	lubość	subst:pl:nom:f	nazwa pospolita	przest.
+lubości	lubość	subst:pl:voc:f	nazwa pospolita	przest.
+lubości	lubość	subst:sg:dat:f	nazwa pospolita	przest.
+lubości	lubość	subst:sg:gen:f	nazwa pospolita	przest.
+lubości	lubość	subst:sg:loc:f	nazwa pospolita	przest.
+lubości	lubość	subst:sg:voc:f	nazwa pospolita	przest.
+lubościom	lubość	subst:pl:dat:f	nazwa pospolita	przest.
+lubość	lubość	subst:sg:acc:f	nazwa pospolita	przest.
+lubość	lubość	subst:sg:nom:f	nazwa pospolita	przest.
 lubotyńscy	lubotyński	adj:pl:nom.voc:m1.p1:pos		
 lubotyńska	lubotyński	adj:sg:nom.voc:f:pos		
 lubotyńską	lubotyński	adj:sg:acc:f:pos		
@@ -57042,34 +56888,20 @@ ludnościowymi	ludnościowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 ludnościowym	ludnościowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 ludnościowym	ludnościowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ludnościowym	ludnościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-ludnościach	ludność:s	subst:pl:loc:f	nazwa pospolita	
-ludnościami	ludność:s	subst:pl:inst:f	nazwa pospolita	
-ludnością	ludność:s	subst:sg:inst:f	nazwa pospolita	
-ludności	ludność:s	subst:pl:acc:f	nazwa pospolita	
-ludności	ludność:s	subst:pl:gen:f	nazwa pospolita	
-ludności	ludność:s	subst:pl:nom:f	nazwa pospolita	
-ludności	ludność:s	subst:pl:voc:f	nazwa pospolita	
-ludności	ludność:s	subst:sg:dat:f	nazwa pospolita	
-ludności	ludność:s	subst:sg:gen:f	nazwa pospolita	
-ludności	ludność:s	subst:sg:loc:f	nazwa pospolita	
-ludności	ludność:s	subst:sg:voc:f	nazwa pospolita	
-ludnościom	ludność:s	subst:pl:dat:f	nazwa pospolita	
-ludność	ludność:s	subst:sg:acc:f	nazwa pospolita	
-ludność	ludność:s	subst:sg:nom:f	nazwa pospolita	
-ludnościach	ludność:s	subst:pl:loc:f	nazwa pospolita	
-ludnościami	ludność:s	subst:pl:inst:f	nazwa pospolita	
-ludnością	ludność:s	subst:sg:inst:f	nazwa pospolita	
-ludności	ludność:s	subst:pl:acc:f	nazwa pospolita	
-ludności	ludność:s	subst:pl:gen:f	nazwa pospolita	
-ludności	ludność:s	subst:pl:nom:f	nazwa pospolita	
-ludności	ludność:s	subst:pl:voc:f	nazwa pospolita	
-ludności	ludność:s	subst:sg:dat:f	nazwa pospolita	
-ludności	ludność:s	subst:sg:gen:f	nazwa pospolita	
-ludności	ludność:s	subst:sg:loc:f	nazwa pospolita	
-ludności	ludność:s	subst:sg:voc:f	nazwa pospolita	
-ludnościom	ludność:s	subst:pl:dat:f	nazwa pospolita	
-ludność	ludność:s	subst:sg:acc:f	nazwa pospolita	
-ludność	ludność:s	subst:sg:nom:f	nazwa pospolita	
+ludnościach	ludność	subst:pl:loc:f	nazwa pospolita	
+ludnościami	ludność	subst:pl:inst:f	nazwa pospolita	
+ludnością	ludność	subst:sg:inst:f	nazwa pospolita	
+ludności	ludność	subst:pl:acc:f	nazwa pospolita	
+ludności	ludność	subst:pl:gen:f	nazwa pospolita	
+ludności	ludność	subst:pl:nom:f	nazwa pospolita	
+ludności	ludność	subst:pl:voc:f	nazwa pospolita	
+ludności	ludność	subst:sg:dat:f	nazwa pospolita	
+ludności	ludność	subst:sg:gen:f	nazwa pospolita	
+ludności	ludność	subst:sg:loc:f	nazwa pospolita	
+ludności	ludność	subst:sg:voc:f	nazwa pospolita	
+ludnościom	ludność	subst:pl:dat:f	nazwa pospolita	
+ludność	ludność	subst:sg:acc:f	nazwa pospolita	
+ludność	ludność	subst:sg:nom:f	nazwa pospolita	
 ludna	ludny	adj:sg:nom.voc:f:pos		
 ludną	ludny	adj:sg:acc:f:pos		
 ludną	ludny	adj:sg:inst:f:pos		
@@ -58170,34 +58002,20 @@ ludzkim	ludzki	adj:sg:loc:m1.m2.m3.n1.n2:pos
 ludzko	ludzki	adja		
 ludzku	ludzki	adjp		
 ludzko	ludzko	adv:pos		przest.
-ludzkościach	ludzkość:s	subst:pl:loc:f	nazwa pospolita	
-ludzkościami	ludzkość:s	subst:pl:inst:f	nazwa pospolita	
-ludzkością	ludzkość:s	subst:sg:inst:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:pl:acc:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:pl:gen:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:pl:nom:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:pl:voc:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:sg:dat:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:sg:gen:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:sg:loc:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:sg:voc:f	nazwa pospolita	
-ludzkościom	ludzkość:s	subst:pl:dat:f	nazwa pospolita	
-ludzkość	ludzkość:s	subst:sg:acc:f	nazwa pospolita	
-ludzkość	ludzkość:s	subst:sg:nom:f	nazwa pospolita	
-ludzkościach	ludzkość:s	subst:pl:loc:f	nazwa pospolita	
-ludzkościami	ludzkość:s	subst:pl:inst:f	nazwa pospolita	
-ludzkością	ludzkość:s	subst:sg:inst:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:pl:acc:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:pl:gen:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:pl:nom:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:pl:voc:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:sg:dat:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:sg:gen:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:sg:loc:f	nazwa pospolita	
-ludzkości	ludzkość:s	subst:sg:voc:f	nazwa pospolita	
-ludzkościom	ludzkość:s	subst:pl:dat:f	nazwa pospolita	
-ludzkość	ludzkość:s	subst:sg:acc:f	nazwa pospolita	
-ludzkość	ludzkość:s	subst:sg:nom:f	nazwa pospolita	
+ludzkościach	ludzkość	subst:pl:loc:f	nazwa pospolita	
+ludzkościami	ludzkość	subst:pl:inst:f	nazwa pospolita	
+ludzkością	ludzkość	subst:sg:inst:f	nazwa pospolita	
+ludzkości	ludzkość	subst:pl:acc:f	nazwa pospolita	
+ludzkości	ludzkość	subst:pl:gen:f	nazwa pospolita	
+ludzkości	ludzkość	subst:pl:nom:f	nazwa pospolita	
+ludzkości	ludzkość	subst:pl:voc:f	nazwa pospolita	
+ludzkości	ludzkość	subst:sg:dat:f	nazwa pospolita	
+ludzkości	ludzkość	subst:sg:gen:f	nazwa pospolita	
+ludzkości	ludzkość	subst:sg:loc:f	nazwa pospolita	
+ludzkości	ludzkość	subst:sg:voc:f	nazwa pospolita	
+ludzkościom	ludzkość	subst:pl:dat:f	nazwa pospolita	
+ludzkość	ludzkość	subst:sg:acc:f	nazwa pospolita	
+ludzkość	ludzkość	subst:sg:nom:f	nazwa pospolita	
 ludźmierscy	ludźmierski	adj:pl:nom.voc:m1.p1:pos		
 ludźmierska	ludźmierski	adj:sg:nom.voc:f:pos		
 ludźmierską	ludźmierski	adj:sg:acc:f:pos		
@@ -58732,34 +58550,20 @@ lukowym	lukowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 lukowym	lukowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 lukowym	lukowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 lukratywnie	lukratywnie	adv:pos		
-lukratywnościach	lukratywność:s	subst:pl:loc:f	nazwa pospolita	
-lukratywnościami	lukratywność:s	subst:pl:inst:f	nazwa pospolita	
-lukratywnością	lukratywność:s	subst:sg:inst:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:pl:acc:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:pl:gen:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:pl:nom:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:pl:voc:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:sg:dat:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:sg:gen:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:sg:loc:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:sg:voc:f	nazwa pospolita	
-lukratywnościom	lukratywność:s	subst:pl:dat:f	nazwa pospolita	
-lukratywność	lukratywność:s	subst:sg:acc:f	nazwa pospolita	
-lukratywność	lukratywność:s	subst:sg:nom:f	nazwa pospolita	
-lukratywnościach	lukratywność:s	subst:pl:loc:f	nazwa pospolita	
-lukratywnościami	lukratywność:s	subst:pl:inst:f	nazwa pospolita	
-lukratywnością	lukratywność:s	subst:sg:inst:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:pl:acc:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:pl:gen:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:pl:nom:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:pl:voc:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:sg:dat:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:sg:gen:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:sg:loc:f	nazwa pospolita	
-lukratywności	lukratywność:s	subst:sg:voc:f	nazwa pospolita	
-lukratywnościom	lukratywność:s	subst:pl:dat:f	nazwa pospolita	
-lukratywność	lukratywność:s	subst:sg:acc:f	nazwa pospolita	
-lukratywność	lukratywność:s	subst:sg:nom:f	nazwa pospolita	
+lukratywnościach	lukratywność	subst:pl:loc:f	nazwa pospolita	
+lukratywnościami	lukratywność	subst:pl:inst:f	nazwa pospolita	
+lukratywnością	lukratywność	subst:sg:inst:f	nazwa pospolita	
+lukratywności	lukratywność	subst:pl:acc:f	nazwa pospolita	
+lukratywności	lukratywność	subst:pl:gen:f	nazwa pospolita	
+lukratywności	lukratywność	subst:pl:nom:f	nazwa pospolita	
+lukratywności	lukratywność	subst:pl:voc:f	nazwa pospolita	
+lukratywności	lukratywność	subst:sg:dat:f	nazwa pospolita	
+lukratywności	lukratywność	subst:sg:gen:f	nazwa pospolita	
+lukratywności	lukratywność	subst:sg:loc:f	nazwa pospolita	
+lukratywności	lukratywność	subst:sg:voc:f	nazwa pospolita	
+lukratywnościom	lukratywność	subst:pl:dat:f	nazwa pospolita	
+lukratywność	lukratywność	subst:sg:acc:f	nazwa pospolita	
+lukratywność	lukratywność	subst:sg:nom:f	nazwa pospolita	
 lukratywna	lukratywny	adj:sg:nom.voc:f:pos		
 lukratywną	lukratywny	adj:sg:acc:f:pos		
 lukratywną	lukratywny	adj:sg:inst:f:pos		
