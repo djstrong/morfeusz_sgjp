@@ -22,17 +22,4 @@
 écru	écru:a	adj:sg:nom.voc:m1.m2.m3:pos		
 écru	écru:a	adj:sg:nom.voc:n:pos		
 écru	écru:d	adv:pos		
-écru	écru:s	subst:pl:acc:n:ncol	nazwa pospolita	
-écru	écru:s	subst:pl:dat:n:ncol	nazwa pospolita	
-écru	écru:s	subst:pl:gen:n:ncol	nazwa pospolita	
-écru	écru:s	subst:pl:inst:n:ncol	nazwa pospolita	
-écru	écru:s	subst:pl:loc:n:ncol	nazwa pospolita	
-écru	écru:s	subst:pl:nom:n:ncol	nazwa pospolita	
-écru	écru:s	subst:pl:voc:n:ncol	nazwa pospolita	
-écru	écru:s	subst:sg:acc:n:ncol	nazwa pospolita	
-écru	écru:s	subst:sg:dat:n:ncol	nazwa pospolita	
-écru	écru:s	subst:sg:gen:n:ncol	nazwa pospolita	
-écru	écru:s	subst:sg:inst:n:ncol	nazwa pospolita	
-écru	écru:s	subst:sg:loc:n:ncol	nazwa pospolita	
-écru	écru:s	subst:sg:nom:n:ncol	nazwa pospolita	
-écru	écru:s	subst:sg:voc:n:ncol	nazwa pospolita	
+écru	écru:s	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	

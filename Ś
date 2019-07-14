@@ -6,34 +6,18 @@
 ŚAM-om	ŚAM	subst:pl:dat:m3	nazwa instytucji	
 ŚAM-owi	ŚAM	subst:sg:dat:m3	nazwa instytucji	
 ŚAM-ów	ŚAM	subst:pl:gen:m3	nazwa instytucji	
-ŚAM	ŚAM	subst:pl:acc:f	nazwa instytucji	
-ŚAM	ŚAM	subst:pl:dat:f	nazwa instytucji	
-ŚAM	ŚAM	subst:pl:gen:f	nazwa instytucji	
-ŚAM	ŚAM	subst:pl:inst:f	nazwa instytucji	
-ŚAM	ŚAM	subst:pl:loc:f	nazwa instytucji	
-ŚAM	ŚAM	subst:pl:nom:f	nazwa instytucji	
-ŚAM	ŚAM	subst:pl:voc:f	nazwa instytucji	
-ŚAM	ŚAM	subst:sg:acc:f	nazwa instytucji	
 ŚAM	ŚAM	subst:sg:acc:m3	nazwa instytucji	
-ŚAM	ŚAM	subst:sg:dat:f	nazwa instytucji	
-ŚAM	ŚAM	subst:sg:gen:f	nazwa instytucji	
-ŚAM	ŚAM	subst:sg:inst:f	nazwa instytucji	
-ŚAM	ŚAM	subst:sg:loc:f	nazwa instytucji	
-ŚAM	ŚAM	subst:sg:nom:f	nazwa instytucji	
 ŚAM	ŚAM	subst:sg:nom:m3	nazwa instytucji	
-ŚAM	ŚAM	subst:sg:voc:f	nazwa instytucji	
+ŚAM	ŚAM	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa instytucji	
 ŚAM-u	ŚAM	subst:sg:gen:m3	nazwa instytucji	
-ŚAM-y	ŚAM	subst:pl:acc:m3	nazwa instytucji	
-ŚAM-y	ŚAM	subst:pl:nom:m3	nazwa instytucji	
+ŚAM-y	ŚAM	subst:pl:nom.acc:m3	nazwa instytucji	
 ŚAM-y	ŚAM	subst:pl:voc:m3	nazwa instytucji	
 Ścibiszach	Ścibisz	subst:pl:loc:m1	nazwisko	
 Ścibiszami	Ścibisz	subst:pl:inst:m1	nazwisko	
 Ścibisza	Ścibisz	subst:sg:acc:m1	nazwisko	
 Ścibisza	Ścibisz	subst:sg:gen:m1	nazwisko	
 Ścibiszem	Ścibisz	subst:sg:inst:m1	nazwisko	
-Ścibisze	Ścibisz	depr:pl:acc:m2	nazwisko	
-Ścibisze	Ścibisz	depr:pl:nom:m2	nazwisko	
-Ścibisze	Ścibisz	depr:pl:voc:m2	nazwisko	
+Ścibisze	Ścibisz	depr:pl:nom.acc.voc:m2	nazwisko	
 Ścibisze	Ścibisz	subst:pl:nom:m1	nazwisko	
 Ścibisze	Ścibisz	subst:pl:voc:m1	nazwisko	
 Ścibiszom	Ścibisz	subst:pl:dat:m1	nazwisko	
@@ -57,9 +41,7 @@
 Ściborów	Ścibor	subst:pl:acc:m1	imię|nazwisko	
 Ściborów	Ścibor	subst:pl:gen:m1	imię|nazwisko	
 Ścibor	Ścibor	subst:sg:nom:m1	imię|nazwisko	
-Ścibory	Ścibor	depr:pl:acc:m2	imię|nazwisko	
-Ścibory	Ścibor	depr:pl:nom:m2	imię|nazwisko	
-Ścibory	Ścibor	depr:pl:voc:m2	imię|nazwisko	
+Ścibory	Ścibor	depr:pl:nom.acc.voc:m2	imię|nazwisko	
 Ściborze	Ścibor	subst:sg:loc:m1	imię|nazwisko	
 Ściborze	Ścibor	subst:sg:voc:m1	imię|nazwisko	
 Ściborach	Ścibora	subst:pl:loc:f	imię	
@@ -70,21 +52,17 @@
 Ściborom	Ścibora	subst:pl:dat:f	imię	
 Ściboro	Ścibora	subst:sg:voc:f	imię	
 Ścibor	Ścibora	subst:pl:gen:f	imię	
-Ścibory	Ścibora	subst:pl:acc:f	imię	
-Ścibory	Ścibora	subst:pl:nom:f	imię	
+Ścibory	Ścibora	subst:pl:nom.acc:f	imię	
 Ścibory	Ścibora	subst:pl:voc:f	imię	
 Ścibory	Ścibora	subst:sg:gen:f	imię	
-Ściborze	Ścibora	subst:sg:dat:f	imię	
-Ściborze	Ścibora	subst:sg:loc:f	imię	
+Ściborze	Ścibora	subst:sg:dat.loc:f	imię	
 Ściegienna	Ściegienna	subst:sg:nom:f	nazwisko	
 Ściegienna	Ściegienna	subst:sg:voc:f	nazwisko	
 Ściegienną	Ściegienna	subst:sg:acc:f	nazwisko	
 Ściegienną	Ściegienna	subst:sg:inst:f	nazwisko	
-Ściegiennej	Ściegienna	subst:sg:dat:f	nazwisko	
+Ściegiennej	Ściegienna	subst:sg:dat.loc:f	nazwisko	
 Ściegiennej	Ściegienna	subst:sg:gen:f	nazwisko	
-Ściegiennej	Ściegienna	subst:sg:loc:f	nazwisko	
-Ściegienne	Ściegienna	subst:pl:acc:f	nazwisko	
-Ściegienne	Ściegienna	subst:pl:nom:f	nazwisko	
+Ściegienne	Ściegienna	subst:pl:nom.acc:f	nazwisko	
 Ściegienne	Ściegienna	subst:pl:voc:f	nazwisko	
 Ściegiennych	Ściegienna	subst:pl:gen:f	nazwisko	
 Ściegiennych	Ściegienna	subst:pl:loc:f	nazwisko	
@@ -93,9 +71,7 @@
 Ściegiennego	Ściegienny	subst:sg:acc:m1	nazwisko	
 Ściegiennego	Ściegienny	subst:sg:gen:m1	nazwisko	
 Ściegiennemu	Ściegienny	subst:sg:dat:m1	nazwisko	
-Ściegienne	Ściegienny	depr:pl:acc:m2	nazwisko	
-Ściegienne	Ściegienny	depr:pl:nom:m2	nazwisko	
-Ściegienne	Ściegienny	depr:pl:voc:m2	nazwisko	
+Ściegienne	Ściegienny	depr:pl:nom.acc.voc:m2	nazwisko	
 Ściegienni	Ściegienny	subst:pl:nom:m1	nazwisko	
 Ściegienni	Ściegienny	subst:pl:voc:m1	nazwisko	
 Ściegiennych	Ściegienny	subst:pl:acc:m1	nazwisko	
@@ -112,24 +88,20 @@
 Śiwa	Śiwa	subst:sg:nom:m1	imię	
 Śiwą	Śiwa	subst:sg:inst:m1	imię	
 Śiwę	Śiwa	subst:sg:acc:m1	imię	
-Śiwie	Śiwa	subst:sg:dat:m1	imię	
-Śiwie	Śiwa	subst:sg:loc:m1	imię	
+Śiwie	Śiwa	subst:sg:dat.loc:m1	imię	
 Śiwom	Śiwa	subst:pl:dat:m1	imię	
 Śiwo	Śiwa	subst:sg:voc:m1	imię	
 Śiwowie	Śiwa	subst:pl:nom:m1	imię	
 Śiwowie	Śiwa	subst:pl:voc:m1	imię	
 Śiwów	Śiwa	subst:pl:acc:m1	imię	
 Śiwów	Śiwa	subst:pl:gen:m1	imię	
-Śiwy	Śiwa	depr:pl:acc:m2	imię	
-Śiwy	Śiwa	depr:pl:nom:m2	imię	
-Śiwy	Śiwa	depr:pl:voc:m2	imię	
+Śiwy	Śiwa	depr:pl:nom.acc.voc:m2	imię	
 Śiwy	Śiwa	subst:sg:gen:m1	imię	
 Śląskach	Śląsk	subst:pl:loc:m3	nazwa geograficzna	
 Śląskami	Śląsk	subst:pl:inst:m3	nazwa geograficzna	
 Śląska	Śląsk	subst:sg:gen:m3	nazwa geograficzna	
 Śląskiem	Śląsk	subst:sg:inst:m3	nazwa geograficzna	
-Śląski	Śląsk	subst:pl:acc:m3	nazwa geograficzna	
-Śląski	Śląsk	subst:pl:nom:m3	nazwa geograficzna	
+Śląski	Śląsk	subst:pl:nom.acc:m3	nazwa geograficzna	
 Śląski	Śląsk	subst:pl:voc:m3	nazwa geograficzna	
 Śląskom	Śląsk	subst:pl:dat:m3	nazwa geograficzna	
 Śląskowi	Śląsk	subst:sg:dat:m3	nazwa geograficzna	
@@ -138,16 +110,14 @@
 Śląsk	Śląsk	subst:sg:nom:m3	nazwa geograficzna	
 Śląsku	Śląsk	subst:sg:loc:m3	nazwa geograficzna	
 Śląsku	Śląsk	subst:sg:voc:m3	nazwa geograficzna	
-Ślązaczce	Ślązaczka	subst:sg:dat:f	nazwa pospolita	
-Ślązaczce	Ślązaczka	subst:sg:loc:f	nazwa pospolita	
+Ślązaczce	Ślązaczka	subst:sg:dat.loc:f	nazwa pospolita	
 Ślązaczek	Ślązaczka	subst:pl:gen:f	nazwa pospolita	
 Ślązaczkach	Ślązaczka	subst:pl:loc:f	nazwa pospolita	
 Ślązaczkami	Ślązaczka	subst:pl:inst:f	nazwa pospolita	
 Ślązaczka	Ślązaczka	subst:sg:nom:f	nazwa pospolita	
 Ślązaczką	Ślązaczka	subst:sg:inst:f	nazwa pospolita	
 Ślązaczkę	Ślązaczka	subst:sg:acc:f	nazwa pospolita	
-Ślązaczki	Ślązaczka	subst:pl:acc:f	nazwa pospolita	
-Ślązaczki	Ślązaczka	subst:pl:nom:f	nazwa pospolita	
+Ślązaczki	Ślązaczka	subst:pl:nom.acc:f	nazwa pospolita	
 Ślązaczki	Ślązaczka	subst:pl:voc:f	nazwa pospolita	
 Ślązaczki	Ślązaczka	subst:sg:gen:f	nazwa pospolita	
 Ślązaczkom	Ślązaczka	subst:pl:dat:f	nazwa pospolita	
@@ -159,9 +129,7 @@
 Ślązaka	Ślązak	subst:sg:acc:m1	nazwa pospolita	
 Ślązaka	Ślązak	subst:sg:gen:m1	nazwa pospolita	
 Ślązakiem	Ślązak	subst:sg:inst:m1	nazwa pospolita	
-Ślązaki	Ślązak	depr:pl:acc:m2	nazwa pospolita	
-Ślązaki	Ślązak	depr:pl:nom:m2	nazwa pospolita	
-Ślązaki	Ślązak	depr:pl:voc:m2	nazwa pospolita	
+Ślązaki	Ślązak	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Ślązakom	Ślązak	subst:pl:dat:m1	nazwa pospolita	
 Ślązakowi	Ślązak	subst:sg:dat:m1	nazwa pospolita	
 Ślązaków	Ślązak	subst:pl:acc:m1	nazwa pospolita	
@@ -174,13 +142,11 @@
 Ślęza	Ślęza	subst:sg:nom:f	nazwa geograficzna	
 Ślęzą	Ślęza	subst:sg:inst:f	nazwa geograficzna	
 Ślęzę	Ślęza	subst:sg:acc:f	nazwa geograficzna	
-Ślęzie	Ślęza	subst:sg:dat:f	nazwa geograficzna	
-Ślęzie	Ślęza	subst:sg:loc:f	nazwa geograficzna	
+Ślęzie	Ślęza	subst:sg:dat.loc:f	nazwa geograficzna	
 Ślęzom	Ślęza	subst:pl:dat:f	nazwa geograficzna	
 Ślęzo	Ślęza	subst:sg:voc:f	nazwa geograficzna	
 Ślęz	Ślęza	subst:pl:gen:f	nazwa geograficzna	
-Ślęzy	Ślęza	subst:pl:acc:f	nazwa geograficzna	
-Ślęzy	Ślęza	subst:pl:nom:f	nazwa geograficzna	
+Ślęzy	Ślęza	subst:pl:nom.acc:f	nazwa geograficzna	
 Ślęzy	Ślęza	subst:pl:voc:f	nazwa geograficzna	
 Ślęzy	Ślęza	subst:sg:gen:f	nazwa geograficzna	
 Ślęzakach	Ślęzak	subst:pl:loc:m1	nazwisko	
@@ -188,9 +154,7 @@
 Ślęzaka	Ślęzak	subst:sg:acc:m1	nazwisko	
 Ślęzaka	Ślęzak	subst:sg:gen:m1	nazwisko	
 Ślęzakiem	Ślęzak	subst:sg:inst:m1	nazwisko	
-Ślęzaki	Ślęzak	depr:pl:acc:m2	nazwisko	
-Ślęzaki	Ślęzak	depr:pl:nom:m2	nazwisko	
-Ślęzaki	Ślęzak	depr:pl:voc:m2	nazwisko	
+Ślęzaki	Ślęzak	depr:pl:nom.acc.voc:m2	nazwisko	
 Ślęzakom	Ślęzak	subst:pl:dat:m1	nazwisko	
 Ślęzakowie	Ślęzak	subst:pl:nom:m1	nazwisko	
 Ślęzakowie	Ślęzak	subst:pl:voc:m1	nazwisko	
@@ -204,16 +168,14 @@
 Ślężami	Ślęża	subst:pl:inst:f	nazwa geograficzna	
 Ślęża	Ślęża	subst:sg:nom:f	nazwa geograficzna	
 Ślężą	Ślęża	subst:sg:inst:f	nazwa geograficzna	
-Ślęże	Ślęża	subst:pl:acc:f	nazwa geograficzna	
-Ślęże	Ślęża	subst:pl:nom:f	nazwa geograficzna	
+Ślęże	Ślęża	subst:pl:nom.acc:f	nazwa geograficzna	
 Ślęże	Ślęża	subst:pl:voc:f	nazwa geograficzna	
 Ślężę	Ślęża	subst:sg:acc:f	nazwa geograficzna	
 Ślężom	Ślęża	subst:pl:dat:f	nazwa geograficzna	
 Ślężo	Ślęża	subst:sg:voc:f	nazwa geograficzna	
 Ślęż	Ślęża	subst:pl:gen:f	nazwa geograficzna	
-Ślęży	Ślęża	subst:sg:dat:f	nazwa geograficzna	
+Ślęży	Ślęża	subst:sg:dat.loc:f	nazwa geograficzna	
 Ślęży	Ślęża	subst:sg:gen:f	nazwa geograficzna	
-Ślęży	Ślęża	subst:sg:loc:f	nazwa geograficzna	
 Ślężanach	Ślężanin	subst:pl:loc:m1	nazwa pospolita	
 Ślężanami	Ślężanin	subst:pl:inst:m1	nazwa pospolita	
 Ślężanie	Ślężanin	subst:pl:nom:m1	nazwa pospolita	
@@ -228,34 +190,27 @@
 Ślężanom	Ślężanin	subst:pl:dat:m1	nazwa pospolita	
 Ślężan	Ślężanin	subst:pl:acc:m1	nazwa pospolita	
 Ślężan	Ślężanin	subst:pl:gen:m1	nazwa pospolita	
-Ślężany	Ślężanin	depr:pl:acc:m2	nazwa pospolita	
-Ślężany	Ślężanin	depr:pl:nom:m2	nazwa pospolita	
-Ślężany	Ślężanin	depr:pl:voc:m2	nazwa pospolita	
+Ślężany	Ślężanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 Śliwach	Śliwa	subst:pl:loc:m1	nazwisko	
 Śliwami	Śliwa	subst:pl:inst:m1	nazwisko	
 Śliwa	Śliwa	subst:sg:nom:m1	nazwisko	
 Śliwą	Śliwa	subst:sg:inst:m1	nazwisko	
 Śliwę	Śliwa	subst:sg:acc:m1	nazwisko	
-Śliwie	Śliwa	subst:sg:dat:m1	nazwisko	
-Śliwie	Śliwa	subst:sg:loc:m1	nazwisko	
+Śliwie	Śliwa	subst:sg:dat.loc:m1	nazwisko	
 Śliwom	Śliwa	subst:pl:dat:m1	nazwisko	
 Śliwo	Śliwa	subst:sg:voc:m1	nazwisko	
 Śliwowie	Śliwa	subst:pl:nom:m1	nazwisko	
 Śliwowie	Śliwa	subst:pl:voc:m1	nazwisko	
 Śliwów	Śliwa	subst:pl:acc:m1	nazwisko	
 Śliwów	Śliwa	subst:pl:gen:m1	nazwisko	
-Śliwy	Śliwa	depr:pl:acc:m2	nazwisko	
-Śliwy	Śliwa	depr:pl:nom:m2	nazwisko	
-Śliwy	Śliwa	depr:pl:voc:m2	nazwisko	
+Śliwy	Śliwa	depr:pl:nom.acc.voc:m2	nazwisko	
 Śliwy	Śliwa	subst:sg:gen:m1	nazwisko	
 Śliwicach	Śliwice	subst:pl:loc:n:pt	nazwa geograficzna	
 Śliwicach	Śliwice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Śliwicami	Śliwice	subst:pl:inst:n:pt	nazwa geograficzna	
 Śliwicami	Śliwice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Śliwice	Śliwice	subst:pl:acc:n:pt	nazwa geograficzna	
-Śliwice	Śliwice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
-Śliwice	Śliwice	subst:pl:nom:n:pt	nazwa geograficzna	
-Śliwice	Śliwice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Śliwice	Śliwice	subst:pl:nom.acc:n:pt	nazwa geograficzna	
+Śliwice	Śliwice	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
 Śliwice	Śliwice	subst:pl:voc:n:pt	nazwa geograficzna	
 Śliwice	Śliwice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Śliwicom	Śliwice	subst:pl:dat:n:pt	nazwa geograficzna	
@@ -268,11 +223,9 @@
 Śliwińską	Śliwińska	subst:sg:inst:f	nazwisko	
 Śliwińskich	Śliwińska	subst:pl:gen:f	nazwisko	
 Śliwińskich	Śliwińska	subst:pl:loc:f	nazwisko	
-Śliwińskiej	Śliwińska	subst:sg:dat:f	nazwisko	
+Śliwińskiej	Śliwińska	subst:sg:dat.loc:f	nazwisko	
 Śliwińskiej	Śliwińska	subst:sg:gen:f	nazwisko	
-Śliwińskiej	Śliwińska	subst:sg:loc:f	nazwisko	
-Śliwińskie	Śliwińska	subst:pl:acc:f	nazwisko	
-Śliwińskie	Śliwińska	subst:pl:nom:f	nazwisko	
+Śliwińskie	Śliwińska	subst:pl:nom.acc:f	nazwisko	
 Śliwińskie	Śliwińska	subst:pl:voc:f	nazwisko	
 Śliwińskimi	Śliwińska	subst:pl:inst:f	nazwisko	
 Śliwińskim	Śliwińska	subst:pl:dat:f	nazwisko	
@@ -284,9 +237,7 @@
 Śliwińskiego	Śliwiński	subst:sg:acc:m1	nazwisko	
 Śliwińskiego	Śliwiński	subst:sg:gen:m1	nazwisko	
 Śliwińskiemu	Śliwiński	subst:sg:dat:m1	nazwisko	
-Śliwińskie	Śliwiński	depr:pl:acc:m2	nazwisko	
-Śliwińskie	Śliwiński	depr:pl:nom:m2	nazwisko	
-Śliwińskie	Śliwiński	depr:pl:voc:m2	nazwisko	
+Śliwińskie	Śliwiński	depr:pl:nom.acc.voc:m2	nazwisko	
 Śliwińskimi	Śliwiński	subst:pl:inst:m1	nazwisko	
 Śliwińskim	Śliwiński	subst:pl:dat:m1	nazwisko	
 Śliwińskim	Śliwiński	subst:sg:inst:m1	nazwisko	
@@ -315,11 +266,9 @@
 Śmietańską	Śmietańska	subst:sg:inst:f	nazwisko	
 Śmietańskich	Śmietańska	subst:pl:gen:f	nazwisko	
 Śmietańskich	Śmietańska	subst:pl:loc:f	nazwisko	
-Śmietańskiej	Śmietańska	subst:sg:dat:f	nazwisko	
+Śmietańskiej	Śmietańska	subst:sg:dat.loc:f	nazwisko	
 Śmietańskiej	Śmietańska	subst:sg:gen:f	nazwisko	
-Śmietańskiej	Śmietańska	subst:sg:loc:f	nazwisko	
-Śmietańskie	Śmietańska	subst:pl:acc:f	nazwisko	
-Śmietańskie	Śmietańska	subst:pl:nom:f	nazwisko	
+Śmietańskie	Śmietańska	subst:pl:nom.acc:f	nazwisko	
 Śmietańskie	Śmietańska	subst:pl:voc:f	nazwisko	
 Śmietańskimi	Śmietańska	subst:pl:inst:f	nazwisko	
 Śmietańskim	Śmietańska	subst:pl:dat:f	nazwisko	
@@ -331,9 +280,7 @@
 Śmietańskiego	Śmietański	subst:sg:acc:m1	nazwisko	
 Śmietańskiego	Śmietański	subst:sg:gen:m1	nazwisko	
 Śmietańskiemu	Śmietański	subst:sg:dat:m1	nazwisko	
-Śmietańskie	Śmietański	depr:pl:acc:m2	nazwisko	
-Śmietańskie	Śmietański	depr:pl:nom:m2	nazwisko	
-Śmietańskie	Śmietański	depr:pl:voc:m2	nazwisko	
+Śmietańskie	Śmietański	depr:pl:nom.acc.voc:m2	nazwisko	
 Śmietańskimi	Śmietański	subst:pl:inst:m1	nazwisko	
 Śmietańskim	Śmietański	subst:pl:dat:m1	nazwisko	
 Śmietańskim	Śmietański	subst:sg:inst:m1	nazwisko	
@@ -345,9 +292,7 @@
 Śmigłego	Śmigły	subst:sg:acc:m1	nazwisko	
 Śmigłego	Śmigły	subst:sg:gen:m1	nazwisko	
 Śmigłemu	Śmigły	subst:sg:dat:m1	nazwisko	
-Śmigłe	Śmigły	depr:pl:acc:m2	nazwisko	
-Śmigłe	Śmigły	depr:pl:nom:m2	nazwisko	
-Śmigłe	Śmigły	depr:pl:voc:m2	nazwisko	
+Śmigłe	Śmigły	depr:pl:nom.acc.voc:m2	nazwisko	
 Śmigłowie	Śmigły	subst:pl:nom:m1	nazwisko	
 Śmigłowie	Śmigły	subst:pl:voc:m1	nazwisko	
 Śmigłych	Śmigły	subst:pl:acc:m1	nazwisko	
@@ -365,11 +310,9 @@
 Śniadecką	Śniadecka	subst:sg:inst:f	nazwisko	
 Śniadeckich	Śniadecka	subst:pl:gen:f	nazwisko	
 Śniadeckich	Śniadecka	subst:pl:loc:f	nazwisko	
-Śniadeckiej	Śniadecka	subst:sg:dat:f	nazwisko	
+Śniadeckiej	Śniadecka	subst:sg:dat.loc:f	nazwisko	
 Śniadeckiej	Śniadecka	subst:sg:gen:f	nazwisko	
-Śniadeckiej	Śniadecka	subst:sg:loc:f	nazwisko	
-Śniadeckie	Śniadecka	subst:pl:acc:f	nazwisko	
-Śniadeckie	Śniadecka	subst:pl:nom:f	nazwisko	
+Śniadeckie	Śniadecka	subst:pl:nom.acc:f	nazwisko	
 Śniadeckie	Śniadecka	subst:pl:voc:f	nazwisko	
 Śniadeckimi	Śniadecka	subst:pl:inst:f	nazwisko	
 Śniadeckim	Śniadecka	subst:pl:dat:f	nazwisko	
@@ -381,9 +324,7 @@
 Śniadeckiego	Śniadecki	subst:sg:acc:m1	nazwisko	
 Śniadeckiego	Śniadecki	subst:sg:gen:m1	nazwisko	
 Śniadeckiemu	Śniadecki	subst:sg:dat:m1	nazwisko	
-Śniadeckie	Śniadecki	depr:pl:acc:m2	nazwisko	
-Śniadeckie	Śniadecki	depr:pl:nom:m2	nazwisko	
-Śniadeckie	Śniadecki	depr:pl:voc:m2	nazwisko	
+Śniadeckie	Śniadecki	depr:pl:nom.acc.voc:m2	nazwisko	
 Śniadeckimi	Śniadecki	subst:pl:inst:m1	nazwisko	
 Śniadeckim	Śniadecki	subst:pl:dat:m1	nazwisko	
 Śniadeckim	Śniadecki	subst:sg:inst:m1	nazwisko	
@@ -414,18 +355,15 @@
 Śniardwom	Śniardwy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
 Śniardw	Śniardwy	subst:pl:gen:n:pt	nazwa geograficzna	
 Śniardw	Śniardwy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
-Śniardwy	Śniardwy	subst:pl:acc:n:pt	nazwa geograficzna	
-Śniardwy	Śniardwy	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
-Śniardwy	Śniardwy	subst:pl:nom:n:pt	nazwa geograficzna	
-Śniardwy	Śniardwy	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Śniardwy	Śniardwy	subst:pl:nom.acc:n:pt	nazwa geograficzna	
+Śniardwy	Śniardwy	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
 Śniardwy	Śniardwy	subst:pl:voc:n:pt	nazwa geograficzna	
 Śniardwy	Śniardwy	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Śnieżnikach	Śnieżnik	subst:pl:loc:m3	nazwa geograficzna	
 Śnieżnikami	Śnieżnik	subst:pl:inst:m3	nazwa geograficzna	
 Śnieżnika	Śnieżnik	subst:sg:gen:m3	nazwa geograficzna	
 Śnieżnikiem	Śnieżnik	subst:sg:inst:m3	nazwa geograficzna	
-Śnieżniki	Śnieżnik	subst:pl:acc:m3	nazwa geograficzna	
-Śnieżniki	Śnieżnik	subst:pl:nom:m3	nazwa geograficzna	
+Śnieżniki	Śnieżnik	subst:pl:nom.acc:m3	nazwa geograficzna	
 Śnieżniki	Śnieżnik	subst:pl:voc:m3	nazwa geograficzna	
 Śnieżnikom	Śnieżnik	subst:pl:dat:m3	nazwa geograficzna	
 Śnieżnikowi	Śnieżnik	subst:sg:dat:m3	nazwa geograficzna	
@@ -445,8 +383,7 @@
 ŚPN	ŚPN	subst:sg:acc:m3	nazwa geograficzna	
 ŚPN	ŚPN	subst:sg:nom:m3	nazwa geograficzna	
 ŚPN-u	ŚPN	subst:sg:gen:m3	nazwa geograficzna	
-ŚPN-y	ŚPN	subst:pl:acc:m3	nazwa geograficzna	
-ŚPN-y	ŚPN	subst:pl:nom:m3	nazwa geograficzna	
+ŚPN-y	ŚPN	subst:pl:nom.acc:m3	nazwa geograficzna	
 ŚPN-y	ŚPN	subst:pl:voc:m3	nazwa geograficzna	
 Śródborowach	Śródborów	subst:pl:loc:m3	nazwa geograficzna	
 Śródborowami	Śródborów	subst:pl:inst:m3	nazwa geograficzna	
@@ -458,8 +395,7 @@
 Śródborowowi	Śródborów	subst:sg:dat:m3	nazwa geograficzna	
 Śródborowów	Śródborów	subst:pl:gen:m3	nazwa geograficzna	
 Śródborowu	Śródborów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
-Śródborowy	Śródborów	subst:pl:acc:m3	nazwa geograficzna	
-Śródborowy	Śródborów	subst:pl:nom:m3	nazwa geograficzna	
+Śródborowy	Śródborów	subst:pl:nom.acc:m3	nazwa geograficzna	
 Śródborowy	Śródborów	subst:pl:voc:m3	nazwa geograficzna	
 Śródborów	Śródborów	subst:sg:acc:m3	nazwa geograficzna	
 Śródborów	Śródborów	subst:sg:nom:m3	nazwa geograficzna	
@@ -472,8 +408,7 @@
 Świat	Świat	subst:sg:acc:m3	człon nazwy własnej	
 Świat	Świat	subst:sg:nom:m3	człon nazwy własnej	
 Światu	Świat	subst:sg:gen:m3	człon nazwy własnej	
-Światy	Świat	subst:pl:acc:m3	człon nazwy własnej	
-Światy	Świat	subst:pl:nom:m3	człon nazwy własnej	
+Światy	Świat	subst:pl:nom.acc:m3	człon nazwy własnej	
 Światy	Świat	subst:pl:voc:m3	człon nazwy własnej	
 Świecie	Świat	subst:sg:loc:m3	człon nazwy własnej	
 Świecie	Świat	subst:sg:voc:m3	człon nazwy własnej	
@@ -491,9 +426,7 @@
 Światosławów	Światosław	subst:pl:acc:m1	imię	
 Światosławów	Światosław	subst:pl:gen:m1	imię	
 Światosław	Światosław	subst:sg:nom:m1	imię	
-Światosławy	Światosław	depr:pl:acc:m2	imię	
-Światosławy	Światosław	depr:pl:nom:m2	imię	
-Światosławy	Światosław	depr:pl:voc:m2	imię	
+Światosławy	Światosław	depr:pl:nom.acc.voc:m2	imię	
 Światowidach	Światowid	subst:pl:loc:m1	imię	mit.
 Światowidami	Światowid	subst:pl:inst:m1	imię	mit.
 Światowida	Światowid	subst:sg:acc:m1	imię	mit.
@@ -506,9 +439,7 @@
 Światowidów	Światowid	subst:pl:acc:m1	imię	mit.
 Światowidów	Światowid	subst:pl:gen:m1	imię	mit.
 Światowid	Światowid	subst:sg:nom:m1	imię	mit.
-Światowidy	Światowid	depr:pl:acc:m2	imię	mit.
-Światowidy	Światowid	depr:pl:nom:m2	imię	mit.
-Światowidy	Światowid	depr:pl:voc:m2	imię	mit.
+Światowidy	Światowid	depr:pl:nom.acc.voc:m2	imię	mit.
 Światowidzie	Światowid	subst:sg:loc:m1	imię	mit.
 Światowidzie	Światowid	subst:sg:voc:m1	imię	mit.
 Światozarach	Światozar	subst:pl:loc:m1	imię	
@@ -523,9 +454,7 @@
 Światozarów	Światozar	subst:pl:acc:m1	imię	
 Światozarów	Światozar	subst:pl:gen:m1	imię	
 Światozar	Światozar	subst:sg:nom:m1	imię	
-Światozary	Światozar	depr:pl:acc:m2	imię	
-Światozary	Światozar	depr:pl:nom:m2	imię	
-Światozary	Światozar	depr:pl:voc:m2	imię	
+Światozary	Światozar	depr:pl:nom.acc.voc:m2	imię	
 Światozarze	Światozar	subst:sg:loc:m1	imię	
 Światozarze	Światozar	subst:sg:voc:m1	imię	
 Światozarzy	Światozar	subst:pl:nom:m1	imię	
@@ -536,9 +465,7 @@
 Świątka	Świątek	subst:sg:acc:m1	nazwisko	
 Świątka	Świątek	subst:sg:gen:m1	nazwisko	
 Świątkiem	Świątek	subst:sg:inst:m1	nazwisko	
-Świątki	Świątek	depr:pl:acc:m2	nazwisko	
-Świątki	Świątek	depr:pl:nom:m2	nazwisko	
-Świątki	Świątek	depr:pl:voc:m2	nazwisko	
+Świątki	Świątek	depr:pl:nom.acc.voc:m2	nazwisko	
 Świątkom	Świątek	subst:pl:dat:m1	nazwisko	
 Świątkowie	Świątek	subst:pl:nom:m1	nazwisko	
 Świątkowie	Świątek	subst:pl:voc:m1	nazwisko	
@@ -553,11 +480,9 @@
 Świątkowską	Świątkowska	subst:sg:inst:f	nazwisko	
 Świątkowskich	Świątkowska	subst:pl:gen:f	nazwisko	
 Świątkowskich	Świątkowska	subst:pl:loc:f	nazwisko	
-Świątkowskiej	Świątkowska	subst:sg:dat:f	nazwisko	
+Świątkowskiej	Świątkowska	subst:sg:dat.loc:f	nazwisko	
 Świątkowskiej	Świątkowska	subst:sg:gen:f	nazwisko	
-Świątkowskiej	Świątkowska	subst:sg:loc:f	nazwisko	
-Świątkowskie	Świątkowska	subst:pl:acc:f	nazwisko	
-Świątkowskie	Świątkowska	subst:pl:nom:f	nazwisko	
+Świątkowskie	Świątkowska	subst:pl:nom.acc:f	nazwisko	
 Świątkowskie	Świątkowska	subst:pl:voc:f	nazwisko	
 Świątkowskimi	Świątkowska	subst:pl:inst:f	nazwisko	
 Świątkowskim	Świątkowska	subst:pl:dat:f	nazwisko	
@@ -569,9 +494,7 @@
 Świątkowskiego	Świątkowski	subst:sg:acc:m1	nazwisko	
 Świątkowskiego	Świątkowski	subst:sg:gen:m1	nazwisko	
 Świątkowskiemu	Świątkowski	subst:sg:dat:m1	nazwisko	
-Świątkowskie	Świątkowski	depr:pl:acc:m2	nazwisko	
-Świątkowskie	Świątkowski	depr:pl:nom:m2	nazwisko	
-Świątkowskie	Świątkowski	depr:pl:voc:m2	nazwisko	
+Świątkowskie	Świątkowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Świątkowskimi	Świątkowski	subst:pl:inst:m1	nazwisko	
 Świątkowskim	Świątkowski	subst:pl:dat:m1	nazwisko	
 Świątkowskim	Świątkowski	subst:sg:inst:m1	nazwisko	
@@ -582,10 +505,8 @@
 Świątnikach	Świątniki	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Świątnikami	Świątniki	subst:pl:inst:n:pt	nazwa geograficzna	
 Świątnikami	Świątniki	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Świątniki	Świątniki	subst:pl:acc:n:pt	nazwa geograficzna	
-Świątniki	Świątniki	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
-Świątniki	Świątniki	subst:pl:nom:n:pt	nazwa geograficzna	
-Świątniki	Świątniki	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Świątniki	Świątniki	subst:pl:nom.acc:n:pt	nazwa geograficzna	
+Świątniki	Świątniki	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
 Świątniki	Świątniki	subst:pl:voc:n:pt	nazwa geograficzna	
 Świątniki	Świątniki	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Świątnikom	Świątniki	subst:pl:dat:n:pt	nazwa geograficzna	
@@ -601,8 +522,7 @@
 Świdrom	Świder:s1	subst:pl:dat:m3	nazwa geograficzna	
 Świdrowi	Świder:s1	subst:sg:dat:m3	nazwa geograficzna	
 Świdrów	Świder:s1	subst:pl:gen:m3	nazwa geograficzna	
-Świdry	Świder:s1	subst:pl:acc:m3	nazwa geograficzna	
-Świdry	Świder:s1	subst:pl:nom:m3	nazwa geograficzna	
+Świdry	Świder:s1	subst:pl:nom.acc:m3	nazwa geograficzna	
 Świdry	Świder:s1	subst:pl:voc:m3	nazwa geograficzna	
 Świdrze	Świder:s1	subst:sg:loc:m3	nazwa geograficzna	
 Świdrze	Świder:s1	subst:sg:voc:m3	nazwa geograficzna	
@@ -618,9 +538,7 @@
 Świdrowi	Świder:s2	subst:sg:dat:m1	nazwisko	
 Świdrów	Świder:s2	subst:pl:acc:m1	nazwisko	
 Świdrów	Świder:s2	subst:pl:gen:m1	nazwisko	
-Świdry	Świder:s2	depr:pl:acc:m2	nazwisko	
-Świdry	Świder:s2	depr:pl:nom:m2	nazwisko	
-Świdry	Świder:s2	depr:pl:voc:m2	nazwisko	
+Świdry	Świder:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Świdrze	Świder:s2	subst:sg:loc:m1	nazwisko	
 Świdrze	Świder:s2	subst:sg:voc:m1	nazwisko	
 Świderska	Świderska	subst:sg:nom:f	nazwisko	
@@ -629,11 +547,9 @@
 Świderską	Świderska	subst:sg:inst:f	nazwisko	
 Świderskich	Świderska	subst:pl:gen:f	nazwisko	
 Świderskich	Świderska	subst:pl:loc:f	nazwisko	
-Świderskiej	Świderska	subst:sg:dat:f	nazwisko	
+Świderskiej	Świderska	subst:sg:dat.loc:f	nazwisko	
 Świderskiej	Świderska	subst:sg:gen:f	nazwisko	
-Świderskiej	Świderska	subst:sg:loc:f	nazwisko	
-Świderskie	Świderska	subst:pl:acc:f	nazwisko	
-Świderskie	Świderska	subst:pl:nom:f	nazwisko	
+Świderskie	Świderska	subst:pl:nom.acc:f	nazwisko	
 Świderskie	Świderska	subst:pl:voc:f	nazwisko	
 Świderskimi	Świderska	subst:pl:inst:f	nazwisko	
 Świderskim	Świderska	subst:pl:dat:f	nazwisko	
@@ -645,9 +561,7 @@
 Świderskiego	Świderski	subst:sg:acc:m1	nazwisko	
 Świderskiego	Świderski	subst:sg:gen:m1	nazwisko	
 Świderskiemu	Świderski	subst:sg:dat:m1	nazwisko	
-Świderskie	Świderski	depr:pl:acc:m2	nazwisko	
-Świderskie	Świderski	depr:pl:nom:m2	nazwisko	
-Świderskie	Świderski	depr:pl:voc:m2	nazwisko	
+Świderskie	Świderski	depr:pl:nom.acc.voc:m2	nazwisko	
 Świderskimi	Świderski	subst:pl:inst:m1	nazwisko	
 Świderskim	Świderski	subst:pl:dat:m1	nazwisko	
 Świderskim	Świderski	subst:sg:inst:m1	nazwisko	
@@ -658,27 +572,23 @@
 Świdnicami	Świdnica	subst:pl:inst:f	nazwa geograficzna	
 Świdnica	Świdnica	subst:sg:nom:f	nazwa geograficzna	
 Świdnicą	Świdnica	subst:sg:inst:f	nazwa geograficzna	
-Świdnice	Świdnica	subst:pl:acc:f	nazwa geograficzna	
-Świdnice	Świdnica	subst:pl:nom:f	nazwa geograficzna	
+Świdnice	Świdnica	subst:pl:nom.acc:f	nazwa geograficzna	
 Świdnice	Świdnica	subst:pl:voc:f	nazwa geograficzna	
 Świdnicę	Świdnica	subst:sg:acc:f	nazwa geograficzna	
 Świdnicom	Świdnica	subst:pl:dat:f	nazwa geograficzna	
 Świdnico	Świdnica	subst:sg:voc:f	nazwa geograficzna	
 Świdnic	Świdnica	subst:pl:gen:f	nazwa geograficzna	
-Świdnicy	Świdnica	subst:sg:dat:f	nazwa geograficzna	
+Świdnicy	Świdnica	subst:sg:dat.loc:f	nazwa geograficzna	
 Świdnicy	Świdnica	subst:sg:gen:f	nazwa geograficzna	
-Świdnicy	Świdnica	subst:sg:loc:f	nazwa geograficzna	
 Świdnicka	Świdnicka	subst:sg:nom:f	nazwisko	
 Świdnicka	Świdnicka	subst:sg:voc:f	nazwisko	
 Świdnicką	Świdnicka	subst:sg:acc:f	nazwisko	
 Świdnicką	Świdnicka	subst:sg:inst:f	nazwisko	
 Świdnickich	Świdnicka	subst:pl:gen:f	nazwisko	
 Świdnickich	Świdnicka	subst:pl:loc:f	nazwisko	
-Świdnickiej	Świdnicka	subst:sg:dat:f	nazwisko	
+Świdnickiej	Świdnicka	subst:sg:dat.loc:f	nazwisko	
 Świdnickiej	Świdnicka	subst:sg:gen:f	nazwisko	
-Świdnickiej	Świdnicka	subst:sg:loc:f	nazwisko	
-Świdnickie	Świdnicka	subst:pl:acc:f	nazwisko	
-Świdnickie	Świdnicka	subst:pl:nom:f	nazwisko	
+Świdnickie	Świdnicka	subst:pl:nom.acc:f	nazwisko	
 Świdnickie	Świdnicka	subst:pl:voc:f	nazwisko	
 Świdnickimi	Świdnicka	subst:pl:inst:f	nazwisko	
 Świdnickim	Świdnicka	subst:pl:dat:f	nazwisko	
@@ -690,9 +600,7 @@
 Świdnickiego	Świdnicki	subst:sg:acc:m1	nazwisko	
 Świdnickiego	Świdnicki	subst:sg:gen:m1	nazwisko	
 Świdnickiemu	Świdnicki	subst:sg:dat:m1	nazwisko	
-Świdnickie	Świdnicki	depr:pl:acc:m2	nazwisko	
-Świdnickie	Świdnicki	depr:pl:nom:m2	nazwisko	
-Świdnickie	Świdnicki	depr:pl:voc:m2	nazwisko	
+Świdnickie	Świdnicki	depr:pl:nom.acc.voc:m2	nazwisko	
 Świdnickimi	Świdnicki	subst:pl:inst:m1	nazwisko	
 Świdnickim	Świdnicki	subst:pl:dat:m1	nazwisko	
 Świdnickim	Świdnicki	subst:sg:inst:m1	nazwisko	
@@ -703,8 +611,7 @@
 Świdnikami	Świdnik	subst:pl:inst:m3	nazwa geograficzna	
 Świdnika	Świdnik	subst:sg:gen:m3	nazwa geograficzna	
 Świdnikiem	Świdnik	subst:sg:inst:m3	nazwa geograficzna	
-Świdniki	Świdnik	subst:pl:acc:m3	nazwa geograficzna	
-Świdniki	Świdnik	subst:pl:nom:m3	nazwa geograficzna	
+Świdniki	Świdnik	subst:pl:nom.acc:m3	nazwa geograficzna	
 Świdniki	Świdnik	subst:pl:voc:m3	nazwa geograficzna	
 Świdnikom	Świdnik	subst:pl:dat:m3	nazwa geograficzna	
 Świdnikowi	Świdnik	subst:sg:dat:m3	nazwa geograficzna	
@@ -713,8 +620,7 @@
 Świdnik	Świdnik	subst:sg:nom:m3	nazwa geograficzna	
 Świdniku	Świdnik	subst:sg:loc:m3	nazwa geograficzna	
 Świdniku	Świdnik	subst:sg:voc:m3	nazwa geograficzna	
-Świdrygielle	Świdrygiełło	subst:sg:dat:m1	nazwisko	
-Świdrygielle	Świdrygiełło	subst:sg:loc:m1	nazwisko	
+Świdrygielle	Świdrygiełło	subst:sg:dat.loc:m1	nazwisko	
 Świdrygiełłach	Świdrygiełło	subst:pl:loc:m1	nazwisko	
 Świdrygiełłami	Świdrygiełło	subst:pl:inst:m1	nazwisko	
 Świdrygiełłą	Świdrygiełło	subst:sg:inst:m1	nazwisko	
@@ -726,9 +632,7 @@
 Świdrygiełłowie	Świdrygiełło	subst:pl:voc:m1	nazwisko	
 Świdrygiełłów	Świdrygiełło	subst:pl:acc:m1	nazwisko	
 Świdrygiełłów	Świdrygiełło	subst:pl:gen:m1	nazwisko	
-Świdrygiełły	Świdrygiełło	depr:pl:acc:m2	nazwisko	
-Świdrygiełły	Świdrygiełło	depr:pl:nom:m2	nazwisko	
-Świdrygiełły	Świdrygiełło	depr:pl:voc:m2	nazwisko	
+Świdrygiełły	Świdrygiełło	depr:pl:nom.acc.voc:m2	nazwisko	
 Świdrygiełły	Świdrygiełło	subst:sg:gen:m1	nazwisko	
 Świdzińska	Świdzińska	subst:sg:nom:f	nazwisko	
 Świdzińska	Świdzińska	subst:sg:voc:f	nazwisko	
@@ -736,11 +640,9 @@
 Świdzińską	Świdzińska	subst:sg:inst:f	nazwisko	
 Świdzińskich	Świdzińska	subst:pl:gen:f	nazwisko	
 Świdzińskich	Świdzińska	subst:pl:loc:f	nazwisko	
-Świdzińskiej	Świdzińska	subst:sg:dat:f	nazwisko	
+Świdzińskiej	Świdzińska	subst:sg:dat.loc:f	nazwisko	
 Świdzińskiej	Świdzińska	subst:sg:gen:f	nazwisko	
-Świdzińskiej	Świdzińska	subst:sg:loc:f	nazwisko	
-Świdzińskie	Świdzińska	subst:pl:acc:f	nazwisko	
-Świdzińskie	Świdzińska	subst:pl:nom:f	nazwisko	
+Świdzińskie	Świdzińska	subst:pl:nom.acc:f	nazwisko	
 Świdzińskie	Świdzińska	subst:pl:voc:f	nazwisko	
 Świdzińskimi	Świdzińska	subst:pl:inst:f	nazwisko	
 Świdzińskim	Świdzińska	subst:pl:dat:f	nazwisko	
@@ -752,9 +654,7 @@
 Świdzińskiego	Świdziński	subst:sg:acc:m1	nazwisko	
 Świdzińskiego	Świdziński	subst:sg:gen:m1	nazwisko	
 Świdzińskiemu	Świdziński	subst:sg:dat:m1	nazwisko	
-Świdzińskie	Świdziński	depr:pl:acc:m2	nazwisko	
-Świdzińskie	Świdziński	depr:pl:nom:m2	nazwisko	
-Świdzińskie	Świdziński	depr:pl:voc:m2	nazwisko	
+Świdzińskie	Świdziński	depr:pl:nom.acc.voc:m2	nazwisko	
 Świdzińskimi	Świdziński	subst:pl:inst:m1	nazwisko	
 Świdzińskim	Świdziński	subst:pl:dat:m1	nazwisko	
 Świdzińskim	Świdziński	subst:sg:inst:m1	nazwisko	
@@ -765,10 +665,8 @@
 Świebodzicach	Świebodzice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Świebodzicami	Świebodzice	subst:pl:inst:n:pt	nazwa geograficzna	
 Świebodzicami	Świebodzice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Świebodzice	Świebodzice	subst:pl:acc:n:pt	nazwa geograficzna	
-Świebodzice	Świebodzice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
-Świebodzice	Świebodzice	subst:pl:nom:n:pt	nazwa geograficzna	
-Świebodzice	Świebodzice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Świebodzice	Świebodzice	subst:pl:nom.acc:n:pt	nazwa geograficzna	
+Świebodzice	Świebodzice	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
 Świebodzice	Świebodzice	subst:pl:voc:n:pt	nazwa geograficzna	
 Świebodzice	Świebodzice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Świebodzicom	Świebodzice	subst:pl:dat:n:pt	nazwa geograficzna	
@@ -795,9 +693,7 @@
 Świeciecha	Świeciech	subst:sg:acc:m1	imię	
 Świeciecha	Świeciech	subst:sg:gen:m1	imię	
 Świeciechem	Świeciech	subst:sg:inst:m1	imię	
-Świecieche	Świeciech	depr:pl:acc:m2	imię	
-Świecieche	Świeciech	depr:pl:nom:m2	imię	
-Świecieche	Świeciech	depr:pl:voc:m2	imię	
+Świecieche	Świeciech	depr:pl:nom.acc.voc:m2	imię	
 Świeciechom	Świeciech	subst:pl:dat:m1	imię	
 Świeciechowie	Świeciech	subst:pl:nom:m1	imię	
 Świeciechowie	Świeciech	subst:pl:voc:m1	imię	
@@ -807,23 +703,19 @@
 Świeciech	Świeciech	subst:sg:nom:m1	imię	
 Świeciechu	Świeciech	subst:sg:loc:m1	imię	
 Świeciechu	Świeciech	subst:sg:voc:m1	imię	
-Świeciechy	Świeciech	depr:pl:acc:m2	imię	
-Świeciechy	Świeciech	depr:pl:nom:m2	imię	
-Świeciechy	Świeciech	depr:pl:voc:m2	imię	
+Świeciechy	Świeciech	depr:pl:nom.acc.voc:m2	imię	
 Świedziebniach	Świedziebnia	subst:pl:loc:f	nazwa geograficzna	
 Świedziebniami	Świedziebnia	subst:pl:inst:f	nazwa geograficzna	
 Świedziebnia	Świedziebnia	subst:sg:nom:f	nazwa geograficzna	
 Świedziebnią	Świedziebnia	subst:sg:inst:f	nazwa geograficzna	
-Świedziebnie	Świedziebnia	subst:pl:acc:f	nazwa geograficzna	
-Świedziebnie	Świedziebnia	subst:pl:nom:f	nazwa geograficzna	
+Świedziebnie	Świedziebnia	subst:pl:nom.acc:f	nazwa geograficzna	
 Świedziebnie	Świedziebnia	subst:pl:voc:f	nazwa geograficzna	
 Świedziebnię	Świedziebnia	subst:sg:acc:f	nazwa geograficzna	
 Świedziebniom	Świedziebnia	subst:pl:dat:f	nazwa geograficzna	
 Świedziebnio	Świedziebnia	subst:sg:voc:f	nazwa geograficzna	
 Świedziebni	Świedziebnia	subst:pl:gen:f	nazwa geograficzna	
-Świedziebni	Świedziebnia	subst:sg:dat:f	nazwa geograficzna	
+Świedziebni	Świedziebnia	subst:sg:dat.loc:f	nazwa geograficzna	
 Świedziebni	Świedziebnia	subst:sg:gen:f	nazwa geograficzna	
-Świedziebni	Świedziebnia	subst:sg:loc:f	nazwa geograficzna	
 Świeradowach	Świeradów	subst:pl:loc:m3	nazwa geograficzna	
 Świeradowami	Świeradów	subst:pl:inst:m3	nazwa geograficzna	
 Świeradowa	Świeradów	subst:sg:gen:m3	nazwa geograficzna	
@@ -834,8 +726,7 @@
 Świeradowowi	Świeradów	subst:sg:dat:m3	nazwa geograficzna	
 Świeradowów	Świeradów	subst:pl:gen:m3	nazwa geograficzna	
 Świeradowu	Świeradów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
-Świeradowy	Świeradów	subst:pl:acc:m3	nazwa geograficzna	
-Świeradowy	Świeradów	subst:pl:nom:m3	nazwa geograficzna	
+Świeradowy	Świeradów	subst:pl:nom.acc:m3	nazwa geograficzna	
 Świeradowy	Świeradów	subst:pl:voc:m3	nazwa geograficzna	
 Świeradów	Świeradów	subst:sg:acc:m3	nazwa geograficzna	
 Świeradów	Świeradów	subst:sg:nom:m3	nazwa geograficzna	
@@ -845,11 +736,9 @@
 Świerczewską	Świerczewska	subst:sg:inst:f	nazwisko	
 Świerczewskich	Świerczewska	subst:pl:gen:f	nazwisko	
 Świerczewskich	Świerczewska	subst:pl:loc:f	nazwisko	
-Świerczewskiej	Świerczewska	subst:sg:dat:f	nazwisko	
+Świerczewskiej	Świerczewska	subst:sg:dat.loc:f	nazwisko	
 Świerczewskiej	Świerczewska	subst:sg:gen:f	nazwisko	
-Świerczewskiej	Świerczewska	subst:sg:loc:f	nazwisko	
-Świerczewskie	Świerczewska	subst:pl:acc:f	nazwisko	
-Świerczewskie	Świerczewska	subst:pl:nom:f	nazwisko	
+Świerczewskie	Świerczewska	subst:pl:nom.acc:f	nazwisko	
 Świerczewskie	Świerczewska	subst:pl:voc:f	nazwisko	
 Świerczewskimi	Świerczewska	subst:pl:inst:f	nazwisko	
 Świerczewskim	Świerczewska	subst:pl:dat:f	nazwisko	
@@ -861,9 +750,7 @@
 Świerczewskiego	Świerczewski	subst:sg:acc:m1	nazwisko	
 Świerczewskiego	Świerczewski	subst:sg:gen:m1	nazwisko	
 Świerczewskiemu	Świerczewski	subst:sg:dat:m1	nazwisko	
-Świerczewskie	Świerczewski	depr:pl:acc:m2	nazwisko	
-Świerczewskie	Świerczewski	depr:pl:nom:m2	nazwisko	
-Świerczewskie	Świerczewski	depr:pl:voc:m2	nazwisko	
+Świerczewskie	Świerczewski	depr:pl:nom.acc.voc:m2	nazwisko	
 Świerczewskimi	Świerczewski	subst:pl:inst:m1	nazwisko	
 Świerczewskim	Świerczewski	subst:pl:dat:m1	nazwisko	
 Świerczewskim	Świerczewski	subst:sg:inst:m1	nazwisko	
@@ -880,8 +767,7 @@
 Świerczowowi	Świerczów	subst:sg:dat:m3	nazwa geograficzna	
 Świerczowów	Świerczów	subst:pl:gen:m3	nazwa geograficzna	
 Świerczowu	Świerczów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
-Świerczowy	Świerczów	subst:pl:acc:m3	nazwa geograficzna	
-Świerczowy	Świerczów	subst:pl:nom:m3	nazwa geograficzna	
+Świerczowy	Świerczów	subst:pl:nom.acc:m3	nazwa geograficzna	
 Świerczowy	Świerczów	subst:pl:voc:m3	nazwa geograficzna	
 Świerczów	Świerczów	subst:sg:acc:m3	nazwa geograficzna	
 Świerczów	Świerczów	subst:sg:nom:m3	nazwa geograficzna	
@@ -891,11 +777,9 @@
 Świerczyńską	Świerczyńska	subst:sg:inst:f	nazwisko	
 Świerczyńskich	Świerczyńska	subst:pl:gen:f	nazwisko	
 Świerczyńskich	Świerczyńska	subst:pl:loc:f	nazwisko	
-Świerczyńskiej	Świerczyńska	subst:sg:dat:f	nazwisko	
+Świerczyńskiej	Świerczyńska	subst:sg:dat.loc:f	nazwisko	
 Świerczyńskiej	Świerczyńska	subst:sg:gen:f	nazwisko	
-Świerczyńskiej	Świerczyńska	subst:sg:loc:f	nazwisko	
-Świerczyńskie	Świerczyńska	subst:pl:acc:f	nazwisko	
-Świerczyńskie	Świerczyńska	subst:pl:nom:f	nazwisko	
+Świerczyńskie	Świerczyńska	subst:pl:nom.acc:f	nazwisko	
 Świerczyńskie	Świerczyńska	subst:pl:voc:f	nazwisko	
 Świerczyńskimi	Świerczyńska	subst:pl:inst:f	nazwisko	
 Świerczyńskim	Świerczyńska	subst:pl:dat:f	nazwisko	
@@ -907,9 +791,7 @@
 Świerczyńskiego	Świerczyński	subst:sg:acc:m1	nazwisko	
 Świerczyńskiego	Świerczyński	subst:sg:gen:m1	nazwisko	
 Świerczyńskiemu	Świerczyński	subst:sg:dat:m1	nazwisko	
-Świerczyńskie	Świerczyński	depr:pl:acc:m2	nazwisko	
-Świerczyńskie	Świerczyński	depr:pl:nom:m2	nazwisko	
-Świerczyńskie	Świerczyński	depr:pl:voc:m2	nazwisko	
+Świerczyńskie	Świerczyński	depr:pl:nom.acc.voc:m2	nazwisko	
 Świerczyńskimi	Świerczyński	subst:pl:inst:m1	nazwisko	
 Świerczyńskim	Świerczyński	subst:pl:dat:m1	nazwisko	
 Świerczyńskim	Świerczyński	subst:sg:inst:m1	nazwisko	
@@ -921,13 +803,11 @@
 Świetlana	Świetlana	subst:sg:nom:f	imię	
 Świetlaną	Świetlana	subst:sg:inst:f	imię	
 Świetlanę	Świetlana	subst:sg:acc:f	imię	
-Świetlanie	Świetlana	subst:sg:dat:f	imię	
-Świetlanie	Świetlana	subst:sg:loc:f	imię	
+Świetlanie	Świetlana	subst:sg:dat.loc:f	imię	
 Świetlanom	Świetlana	subst:pl:dat:f	imię	
 Świetlano	Świetlana	subst:sg:voc:f	imię	
 Świetlan	Świetlana	subst:pl:gen:f	imię	
-Świetlany	Świetlana	subst:pl:acc:f	imię	
-Świetlany	Świetlana	subst:pl:nom:f	imię	
+Świetlany	Świetlana	subst:pl:nom.acc:f	imię	
 Świetlany	Świetlana	subst:pl:voc:f	imię	
 Świetlany	Świetlana	subst:sg:gen:f	imię	
 Świetlicka	Świetlicka	subst:sg:nom:f	nazwisko	
@@ -936,11 +816,9 @@
 Świetlicką	Świetlicka	subst:sg:inst:f	nazwisko	
 Świetlickich	Świetlicka	subst:pl:gen:f	nazwisko	
 Świetlickich	Świetlicka	subst:pl:loc:f	nazwisko	
-Świetlickiej	Świetlicka	subst:sg:dat:f	nazwisko	
+Świetlickiej	Świetlicka	subst:sg:dat.loc:f	nazwisko	
 Świetlickiej	Świetlicka	subst:sg:gen:f	nazwisko	
-Świetlickiej	Świetlicka	subst:sg:loc:f	nazwisko	
-Świetlickie	Świetlicka	subst:pl:acc:f	nazwisko	
-Świetlickie	Świetlicka	subst:pl:nom:f	nazwisko	
+Świetlickie	Świetlicka	subst:pl:nom.acc:f	nazwisko	
 Świetlickie	Świetlicka	subst:pl:voc:f	nazwisko	
 Świetlickimi	Świetlicka	subst:pl:inst:f	nazwisko	
 Świetlickim	Świetlicka	subst:pl:dat:f	nazwisko	
@@ -952,9 +830,7 @@
 Świetlickiego	Świetlicki	subst:sg:acc:m1	nazwisko	
 Świetlickiego	Świetlicki	subst:sg:gen:m1	nazwisko	
 Świetlickiemu	Świetlicki	subst:sg:dat:m1	nazwisko	
-Świetlickie	Świetlicki	depr:pl:acc:m2	nazwisko	
-Świetlickie	Świetlicki	depr:pl:nom:m2	nazwisko	
-Świetlickie	Świetlicki	depr:pl:voc:m2	nazwisko	
+Świetlickie	Świetlicki	depr:pl:nom.acc.voc:m2	nazwisko	
 Świetlickimi	Świetlicki	subst:pl:inst:m1	nazwisko	
 Świetlickim	Świetlicki	subst:pl:dat:m1	nazwisko	
 Świetlickim	Świetlicki	subst:sg:inst:m1	nazwisko	
@@ -966,13 +842,11 @@
 Świetłana	Świetłana	subst:sg:nom:f	imię	
 Świetłaną	Świetłana	subst:sg:inst:f	imię	
 Świetłanę	Świetłana	subst:sg:acc:f	imię	
-Świetłanie	Świetłana	subst:sg:dat:f	imię	
-Świetłanie	Świetłana	subst:sg:loc:f	imię	
+Świetłanie	Świetłana	subst:sg:dat.loc:f	imię	
 Świetłanom	Świetłana	subst:pl:dat:f	imię	
 Świetłano	Świetłana	subst:sg:voc:f	imię	
 Świetłan	Świetłana	subst:pl:gen:f	imię	
-Świetłany	Świetłana	subst:pl:acc:f	imię	
-Świetłany	Świetłana	subst:pl:nom:f	imię	
+Świetłany	Świetłana	subst:pl:nom.acc:f	imię	
 Świetłany	Świetłana	subst:pl:voc:f	imię	
 Świetłany	Świetłana	subst:sg:gen:f	imię	
 Święcicka	Święcicka	subst:sg:nom:f	nazwisko	
@@ -981,11 +855,9 @@
 Święcicką	Święcicka	subst:sg:inst:f	nazwisko	
 Święcickich	Święcicka	subst:pl:gen:f	nazwisko	
 Święcickich	Święcicka	subst:pl:loc:f	nazwisko	
-Święcickiej	Święcicka	subst:sg:dat:f	nazwisko	
+Święcickiej	Święcicka	subst:sg:dat.loc:f	nazwisko	
 Święcickiej	Święcicka	subst:sg:gen:f	nazwisko	
-Święcickiej	Święcicka	subst:sg:loc:f	nazwisko	
-Święcickie	Święcicka	subst:pl:acc:f	nazwisko	
-Święcickie	Święcicka	subst:pl:nom:f	nazwisko	
+Święcickie	Święcicka	subst:pl:nom.acc:f	nazwisko	
 Święcickie	Święcicka	subst:pl:voc:f	nazwisko	
 Święcickimi	Święcicka	subst:pl:inst:f	nazwisko	
 Święcickim	Święcicka	subst:pl:dat:f	nazwisko	
@@ -997,9 +869,7 @@
 Święcickiego	Święcicki	subst:sg:acc:m1	nazwisko	
 Święcickiego	Święcicki	subst:sg:gen:m1	nazwisko	
 Święcickiemu	Święcicki	subst:sg:dat:m1	nazwisko	
-Święcickie	Święcicki	depr:pl:acc:m2	nazwisko	
-Święcickie	Święcicki	depr:pl:nom:m2	nazwisko	
-Święcickie	Święcicki	depr:pl:voc:m2	nazwisko	
+Święcickie	Święcicki	depr:pl:nom.acc.voc:m2	nazwisko	
 Święcickimi	Święcicki	subst:pl:inst:m1	nazwisko	
 Święcickim	Święcicki	subst:pl:dat:m1	nazwisko	
 Święcickim	Święcicki	subst:sg:inst:m1	nazwisko	
@@ -1018,9 +888,7 @@
 Świętoborów	Świętobor	subst:pl:acc:m1	imię	
 Świętoborów	Świętobor	subst:pl:gen:m1	imię	
 Świętobor	Świętobor	subst:sg:nom:m1	imię	
-Świętobory	Świętobor	depr:pl:acc:m2	imię	
-Świętobory	Świętobor	depr:pl:nom:m2	imię	
-Świętobory	Świętobor	depr:pl:voc:m2	imię	
+Świętobory	Świętobor	depr:pl:nom.acc.voc:m2	imię	
 Świętoborze	Świętobor	subst:sg:loc:m1	imię	
 Świętoborze	Świętobor	subst:sg:voc:m1	imię	
 Świętoborzy	Świętobor	subst:pl:nom:m1	imię	
@@ -1029,10 +897,8 @@
 Świętochłowicach	Świętochłowice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Świętochłowicami	Świętochłowice	subst:pl:inst:n:pt	nazwa geograficzna	
 Świętochłowicami	Świętochłowice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Świętochłowice	Świętochłowice	subst:pl:acc:n:pt	nazwa geograficzna	
-Świętochłowice	Świętochłowice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
-Świętochłowice	Świętochłowice	subst:pl:nom:n:pt	nazwa geograficzna	
-Świętochłowice	Świętochłowice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Świętochłowice	Świętochłowice	subst:pl:nom.acc:n:pt	nazwa geograficzna	
+Świętochłowice	Świętochłowice	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
 Świętochłowice	Świętochłowice	subst:pl:voc:n:pt	nazwa geograficzna	
 Świętochłowice	Świętochłowice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Świętochłowicom	Świętochłowice	subst:pl:dat:n:pt	nazwa geograficzna	
@@ -1045,11 +911,9 @@
 Świętochowską	Świętochowska	subst:sg:inst:f	nazwisko	
 Świętochowskich	Świętochowska	subst:pl:gen:f	nazwisko	
 Świętochowskich	Świętochowska	subst:pl:loc:f	nazwisko	
-Świętochowskiej	Świętochowska	subst:sg:dat:f	nazwisko	
+Świętochowskiej	Świętochowska	subst:sg:dat.loc:f	nazwisko	
 Świętochowskiej	Świętochowska	subst:sg:gen:f	nazwisko	
-Świętochowskiej	Świętochowska	subst:sg:loc:f	nazwisko	
-Świętochowskie	Świętochowska	subst:pl:acc:f	nazwisko	
-Świętochowskie	Świętochowska	subst:pl:nom:f	nazwisko	
+Świętochowskie	Świętochowska	subst:pl:nom.acc:f	nazwisko	
 Świętochowskie	Świętochowska	subst:pl:voc:f	nazwisko	
 Świętochowskimi	Świętochowska	subst:pl:inst:f	nazwisko	
 Świętochowskim	Świętochowska	subst:pl:dat:f	nazwisko	
@@ -1061,9 +925,7 @@
 Świętochowskiego	Świętochowski	subst:sg:acc:m1	nazwisko	
 Świętochowskiego	Świętochowski	subst:sg:gen:m1	nazwisko	
 Świętochowskiemu	Świętochowski	subst:sg:dat:m1	nazwisko	
-Świętochowskie	Świętochowski	depr:pl:acc:m2	nazwisko	
-Świętochowskie	Świętochowski	depr:pl:nom:m2	nazwisko	
-Świętochowskie	Świętochowski	depr:pl:voc:m2	nazwisko	
+Świętochowskie	Świętochowski	depr:pl:nom.acc.voc:m2	nazwisko	
 Świętochowskimi	Świętochowski	subst:pl:inst:m1	nazwisko	
 Świętochowskim	Świętochowski	subst:pl:dat:m1	nazwisko	
 Świętochowskim	Świętochowski	subst:sg:inst:m1	nazwisko	
@@ -1082,9 +944,7 @@
 Świętomirów	Świętomir	subst:pl:acc:m1	imię	
 Świętomirów	Świętomir	subst:pl:gen:m1	imię	
 Świętomir	Świętomir	subst:sg:nom:m1	imię	
-Świętomiry	Świętomir	depr:pl:acc:m2	imię	
-Świętomiry	Świętomir	depr:pl:nom:m2	imię	
-Świętomiry	Świętomir	depr:pl:voc:m2	imię	
+Świętomiry	Świętomir	depr:pl:nom.acc.voc:m2	imię	
 Świętomirze	Świętomir	subst:sg:loc:m1	imię	
 Świętomirze	Świętomir	subst:sg:voc:m1	imię	
 Świętomirzy	Świętomir	subst:pl:nom:m1	imię	
@@ -1097,21 +957,17 @@
 Świętomirom	Świętomira	subst:pl:dat:f	imię	
 Świętomiro	Świętomira	subst:sg:voc:f	imię	
 Świętomir	Świętomira	subst:pl:gen:f	imię	
-Świętomiry	Świętomira	subst:pl:acc:f	imię	
-Świętomiry	Świętomira	subst:pl:nom:f	imię	
+Świętomiry	Świętomira	subst:pl:nom.acc:f	imię	
 Świętomiry	Świętomira	subst:pl:voc:f	imię	
 Świętomiry	Świętomira	subst:sg:gen:f	imię	
-Świętomirze	Świętomira	subst:sg:dat:f	imię	
-Świętomirze	Świętomira	subst:sg:loc:f	imię	
+Świętomirze	Świętomira	subst:sg:dat.loc:f	imię	
 Świętopełek	Świętopełek	subst:sg:nom:m1	imię	
 Świętopełkach	Świętopełek	subst:pl:loc:m1	imię	
 Świętopełkami	Świętopełek	subst:pl:inst:m1	imię	
 Świętopełka	Świętopełek	subst:sg:acc:m1	imię	
 Świętopełka	Świętopełek	subst:sg:gen:m1	imię	
 Świętopełkiem	Świętopełek	subst:sg:inst:m1	imię	
-Świętopełki	Świętopełek	depr:pl:acc:m2	imię	
-Świętopełki	Świętopełek	depr:pl:nom:m2	imię	
-Świętopełki	Świętopełek	depr:pl:voc:m2	imię	
+Świętopełki	Świętopełek	depr:pl:nom.acc.voc:m2	imię	
 Świętopełkom	Świętopełek	subst:pl:dat:m1	imię	
 Świętopełkowie	Świętopełek	subst:pl:nom:m1	imię	
 Świętopełkowie	Świętopełek	subst:pl:voc:m1	imię	
@@ -1125,9 +981,7 @@
 Świętopełka	Świętopełk	subst:sg:acc:m1	imię	
 Świętopełka	Świętopełk	subst:sg:gen:m1	imię	
 Świętopełkiem	Świętopełk	subst:sg:inst:m1	imię	
-Świętopełki	Świętopełk	depr:pl:acc:m2	imię	
-Świętopełki	Świętopełk	depr:pl:nom:m2	imię	
-Świętopełki	Świętopełk	depr:pl:voc:m2	imię	
+Świętopełki	Świętopełk	depr:pl:nom.acc.voc:m2	imię	
 Świętopełkom	Świętopełk	subst:pl:dat:m1	imię	
 Świętopełkowie	Świętopełk	subst:pl:nom:m1	imię	
 Świętopełkowie	Świętopełk	subst:pl:voc:m1	imię	
@@ -1151,21 +1005,17 @@
 Świętosławów	Świętosław	subst:pl:acc:m1	imię	
 Świętosławów	Świętosław	subst:pl:gen:m1	imię	
 Świętosław	Świętosław	subst:sg:nom:m1	imię	
-Świętosławy	Świętosław	depr:pl:acc:m2	imię	
-Świętosławy	Świętosław	depr:pl:nom:m2	imię	
-Świętosławy	Świętosław	depr:pl:voc:m2	imię	
+Świętosławy	Świętosław	depr:pl:nom.acc.voc:m2	imię	
 Świętosławach	Świętosława	subst:pl:loc:f	imię	
 Świętosławami	Świętosława	subst:pl:inst:f	imię	
 Świętosława	Świętosława	subst:sg:nom:f	imię	
 Świętosławą	Świętosława	subst:sg:inst:f	imię	
 Świętosławę	Świętosława	subst:sg:acc:f	imię	
-Świętosławie	Świętosława	subst:sg:dat:f	imię	
-Świętosławie	Świętosława	subst:sg:loc:f	imię	
+Świętosławie	Świętosława	subst:sg:dat.loc:f	imię	
 Świętosławom	Świętosława	subst:pl:dat:f	imię	
 Świętosławo	Świętosława	subst:sg:voc:f	imię	
 Świętosław	Świętosława	subst:pl:gen:f	imię	
-Świętosławy	Świętosława	subst:pl:acc:f	imię	
-Świętosławy	Świętosława	subst:pl:nom:f	imię	
+Świętosławy	Świętosława	subst:pl:nom.acc:f	imię	
 Świętosławy	Świętosława	subst:pl:voc:f	imię	
 Świętosławy	Świętosława	subst:sg:gen:f	imię	
 Świętoszowach	Świętoszów	subst:pl:loc:m3	nazwa geograficzna	
@@ -1178,8 +1028,7 @@
 Świętoszowowi	Świętoszów	subst:sg:dat:m3	nazwa geograficzna	
 Świętoszowów	Świętoszów	subst:pl:gen:m3	nazwa geograficzna	
 Świętoszowu	Świętoszów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
-Świętoszowy	Świętoszów	subst:pl:acc:m3	nazwa geograficzna	
-Świętoszowy	Świętoszów	subst:pl:nom:m3	nazwa geograficzna	
+Świętoszowy	Świętoszów	subst:pl:nom.acc:m3	nazwa geograficzna	
 Świętoszowy	Świętoszów	subst:pl:voc:m3	nazwa geograficzna	
 Świętoszów	Świętoszów	subst:sg:acc:m3	nazwa geograficzna	
 Świętoszów	Świętoszów	subst:sg:nom:m3	nazwa geograficzna	
@@ -1197,20 +1046,16 @@
 Świętowitów	Świętowit	subst:pl:acc:m1	imię	
 Świętowitów	Świętowit	subst:pl:gen:m1	imię	
 Świętowit	Świętowit	subst:sg:nom:m1	imię	
-Świętowity	Świętowit	depr:pl:acc:m2	imię	
-Świętowity	Świętowit	depr:pl:nom:m2	imię	
-Świętowity	Świętowit	depr:pl:voc:m2	imię	
+Świętowity	Świętowit	depr:pl:nom.acc.voc:m2	imię	
 Świniarska	Świniarska	subst:sg:nom:f	nazwisko	
 Świniarska	Świniarska	subst:sg:voc:f	nazwisko	
 Świniarską	Świniarska	subst:sg:acc:f	nazwisko	
 Świniarską	Świniarska	subst:sg:inst:f	nazwisko	
 Świniarskich	Świniarska	subst:pl:gen:f	nazwisko	
 Świniarskich	Świniarska	subst:pl:loc:f	nazwisko	
-Świniarskiej	Świniarska	subst:sg:dat:f	nazwisko	
+Świniarskiej	Świniarska	subst:sg:dat.loc:f	nazwisko	
 Świniarskiej	Świniarska	subst:sg:gen:f	nazwisko	
-Świniarskiej	Świniarska	subst:sg:loc:f	nazwisko	
-Świniarskie	Świniarska	subst:pl:acc:f	nazwisko	
-Świniarskie	Świniarska	subst:pl:nom:f	nazwisko	
+Świniarskie	Świniarska	subst:pl:nom.acc:f	nazwisko	
 Świniarskie	Świniarska	subst:pl:voc:f	nazwisko	
 Świniarskimi	Świniarska	subst:pl:inst:f	nazwisko	
 Świniarskim	Świniarska	subst:pl:dat:f	nazwisko	
@@ -1222,9 +1067,7 @@
 Świniarskiego	Świniarski	subst:sg:acc:m1	nazwisko	
 Świniarskiego	Świniarski	subst:sg:gen:m1	nazwisko	
 Świniarskiemu	Świniarski	subst:sg:dat:m1	nazwisko	
-Świniarskie	Świniarski	depr:pl:acc:m2	nazwisko	
-Świniarskie	Świniarski	depr:pl:nom:m2	nazwisko	
-Świniarskie	Świniarski	depr:pl:voc:m2	nazwisko	
+Świniarskie	Świniarski	depr:pl:nom.acc.voc:m2	nazwisko	
 Świniarskimi	Świniarski	subst:pl:inst:m1	nazwisko	
 Świniarskim	Świniarski	subst:pl:dat:m1	nazwisko	
 Świniarskim	Świniarski	subst:sg:inst:m1	nazwisko	
@@ -1235,24 +1078,20 @@
 Świnicami	Świnica	subst:pl:inst:f	nazwa geograficzna	
 Świnica	Świnica	subst:sg:nom:f	nazwa geograficzna	
 Świnicą	Świnica	subst:sg:inst:f	nazwa geograficzna	
-Świnice	Świnica	subst:pl:acc:f	nazwa geograficzna	
-Świnice	Świnica	subst:pl:nom:f	nazwa geograficzna	
+Świnice	Świnica	subst:pl:nom.acc:f	nazwa geograficzna	
 Świnice	Świnica	subst:pl:voc:f	nazwa geograficzna	
 Świnicę	Świnica	subst:sg:acc:f	nazwa geograficzna	
 Świnicom	Świnica	subst:pl:dat:f	nazwa geograficzna	
 Świnico	Świnica	subst:sg:voc:f	nazwa geograficzna	
 Świnic	Świnica	subst:pl:gen:f	nazwa geograficzna	
-Świnicy	Świnica	subst:sg:dat:f	nazwa geograficzna	
+Świnicy	Świnica	subst:sg:dat.loc:f	nazwa geograficzna	
 Świnicy	Świnica	subst:sg:gen:f	nazwa geograficzna	
-Świnicy	Świnica	subst:sg:loc:f	nazwa geograficzna	
 Świnicach	Świnice	subst:pl:loc:n:pt	nazwa geograficzna	
 Świnicach	Świnice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Świnicami	Świnice	subst:pl:inst:n:pt	nazwa geograficzna	
 Świnicami	Świnice	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
-Świnice	Świnice	subst:pl:acc:n:pt	nazwa geograficzna	
-Świnice	Świnice	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
-Świnice	Świnice	subst:pl:nom:n:pt	nazwa geograficzna	
-Świnice	Świnice	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+Świnice	Świnice	subst:pl:nom.acc:n:pt	nazwa geograficzna	
+Świnice	Świnice	subst:pl:nom.acc:n:pt	nazwa geograficzna	rzad.
 Świnice	Świnice	subst:pl:voc:n:pt	nazwa geograficzna	
 Świnice	Świnice	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
 Świnicom	Świnice	subst:pl:dat:n:pt	nazwa geograficzna	
@@ -1279,11 +1118,9 @@
 Świrszczyńską	Świrszczyńska	subst:sg:inst:f	nazwisko	
 Świrszczyńskich	Świrszczyńska	subst:pl:gen:f	nazwisko	
 Świrszczyńskich	Świrszczyńska	subst:pl:loc:f	nazwisko	
-Świrszczyńskiej	Świrszczyńska	subst:sg:dat:f	nazwisko	
+Świrszczyńskiej	Świrszczyńska	subst:sg:dat.loc:f	nazwisko	
 Świrszczyńskiej	Świrszczyńska	subst:sg:gen:f	nazwisko	
-Świrszczyńskiej	Świrszczyńska	subst:sg:loc:f	nazwisko	
-Świrszczyńskie	Świrszczyńska	subst:pl:acc:f	nazwisko	
-Świrszczyńskie	Świrszczyńska	subst:pl:nom:f	nazwisko	
+Świrszczyńskie	Świrszczyńska	subst:pl:nom.acc:f	nazwisko	
 Świrszczyńskie	Świrszczyńska	subst:pl:voc:f	nazwisko	
 Świrszczyńskimi	Świrszczyńska	subst:pl:inst:f	nazwisko	
 Świrszczyńskim	Świrszczyńska	subst:pl:dat:f	nazwisko	
@@ -1295,9 +1132,7 @@
 Świrszczyńskiego	Świrszczyński	subst:sg:acc:m1	nazwisko	
 Świrszczyńskiego	Świrszczyński	subst:sg:gen:m1	nazwisko	
 Świrszczyńskiemu	Świrszczyński	subst:sg:dat:m1	nazwisko	
-Świrszczyńskie	Świrszczyński	depr:pl:acc:m2	nazwisko	
-Świrszczyńskie	Świrszczyński	depr:pl:nom:m2	nazwisko	
-Świrszczyńskie	Świrszczyński	depr:pl:voc:m2	nazwisko	
+Świrszczyńskie	Świrszczyński	depr:pl:nom.acc.voc:m2	nazwisko	
 Świrszczyńskimi	Świrszczyński	subst:pl:inst:m1	nazwisko	
 Świrszczyńskim	Świrszczyński	subst:pl:dat:m1	nazwisko	
 Świrszczyńskim	Świrszczyński	subst:sg:inst:m1	nazwisko	
@@ -1310,11 +1145,9 @@
 Świtalską	Świtalska	subst:sg:inst:f	nazwisko	
 Świtalskich	Świtalska	subst:pl:gen:f	nazwisko	
 Świtalskich	Świtalska	subst:pl:loc:f	nazwisko	
-Świtalskiej	Świtalska	subst:sg:dat:f	nazwisko	
+Świtalskiej	Świtalska	subst:sg:dat.loc:f	nazwisko	
 Świtalskiej	Świtalska	subst:sg:gen:f	nazwisko	
-Świtalskiej	Świtalska	subst:sg:loc:f	nazwisko	
-Świtalskie	Świtalska	subst:pl:acc:f	nazwisko	
-Świtalskie	Świtalska	subst:pl:nom:f	nazwisko	
+Świtalskie	Świtalska	subst:pl:nom.acc:f	nazwisko	
 Świtalskie	Świtalska	subst:pl:voc:f	nazwisko	
 Świtalskimi	Świtalska	subst:pl:inst:f	nazwisko	
 Świtalskim	Świtalska	subst:pl:dat:f	nazwisko	
@@ -1326,9 +1159,7 @@
 Świtalskiego	Świtalski	subst:sg:acc:m1	nazwisko	
 Świtalskiego	Świtalski	subst:sg:gen:m1	nazwisko	
 Świtalskiemu	Świtalski	subst:sg:dat:m1	nazwisko	
-Świtalskie	Świtalski	depr:pl:acc:m2	nazwisko	
-Świtalskie	Świtalski	depr:pl:nom:m2	nazwisko	
-Świtalskie	Świtalski	depr:pl:voc:m2	nazwisko	
+Świtalskie	Świtalski	depr:pl:nom.acc.voc:m2	nazwisko	
 Świtalskimi	Świtalski	subst:pl:inst:m1	nazwisko	
 Świtalskim	Świtalski	subst:pl:dat:m1	nazwisko	
 Świtalskim	Świtalski	subst:sg:inst:m1	nazwisko	
@@ -1338,17 +1169,14 @@
 Świteziach	Świteź	subst:pl:loc:f	nazwa geograficzna	
 Świteziami	Świteź	subst:pl:inst:f	nazwa geograficzna	
 Świtezią	Świteź	subst:sg:inst:f	nazwa geograficzna	
-Świtezie	Świteź	subst:pl:acc:f	nazwa geograficzna	
-Świtezie	Świteź	subst:pl:nom:f	nazwa geograficzna	
+Świtezie	Świteź	subst:pl:nom.acc:f	nazwa geograficzna	
 Świtezie	Świteź	subst:pl:voc:f	nazwa geograficzna	
 Świteziom	Świteź	subst:pl:dat:f	nazwa geograficzna	
-Świtezi	Świteź	subst:pl:acc:f	nazwa geograficzna	
 Świtezi	Świteź	subst:pl:gen:f	nazwa geograficzna	
-Świtezi	Świteź	subst:pl:nom:f	nazwa geograficzna	
+Świtezi	Świteź	subst:pl:nom.acc:f	nazwa geograficzna	
 Świtezi	Świteź	subst:pl:voc:f	nazwa geograficzna	
-Świtezi	Świteź	subst:sg:dat:f	nazwa geograficzna	
+Świtezi	Świteź	subst:sg:dat.loc:f	nazwa geograficzna	
 Świtezi	Świteź	subst:sg:gen:f	nazwa geograficzna	
-Świtezi	Świteź	subst:sg:loc:f	nazwa geograficzna	
 Świtezi	Świteź	subst:sg:voc:f	nazwa geograficzna	
 Świteź	Świteź	subst:sg:acc:f	nazwa geograficzna	
 Świteź	Świteź	subst:sg:nom:f	nazwa geograficzna	
@@ -1357,9 +1185,7 @@
 Świtonia	Świtoń	subst:sg:acc:m1	nazwisko	
 Świtonia	Świtoń	subst:sg:gen:m1	nazwisko	
 Świtoniem	Świtoń	subst:sg:inst:m1	nazwisko	
-Świtonie	Świtoń	depr:pl:acc:m2	nazwisko	
-Świtonie	Świtoń	depr:pl:nom:m2	nazwisko	
-Świtonie	Świtoń	depr:pl:voc:m2	nazwisko	
+Świtonie	Świtoń	depr:pl:nom.acc.voc:m2	nazwisko	
 Świtoniom	Świtoń	subst:pl:dat:m1	nazwisko	
 Świtoniowie	Świtoń	subst:pl:nom:m1	nazwisko	
 Świtoniowie	Świtoń	subst:pl:voc:m1	nazwisko	

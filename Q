@@ -1,56 +1,15 @@
-Q	Q	subst:pl:acc:n:ncol	nazwa pospolita	
-Q	Q	subst:pl:dat:n:ncol	nazwa pospolita	
-Q	Q	subst:pl:gen:n:ncol	nazwa pospolita	
-Q	Q	subst:pl:inst:n:ncol	nazwa pospolita	
-Q	Q	subst:pl:loc:n:ncol	nazwa pospolita	
-Q	Q	subst:pl:nom:n:ncol	nazwa pospolita	
-Q	Q	subst:pl:voc:n:ncol	nazwa pospolita	
-Q	Q	subst:sg:acc:n:ncol	nazwa pospolita	
-Q	Q	subst:sg:dat:n:ncol	nazwa pospolita	
-Q	Q	subst:sg:gen:n:ncol	nazwa pospolita	
-Q	Q	subst:sg:inst:n:ncol	nazwa pospolita	
-Q	Q	subst:sg:loc:n:ncol	nazwa pospolita	
-Q	Q	subst:sg:nom:n:ncol	nazwa pospolita	
-Q	Q	subst:sg:voc:n:ncol	nazwa pospolita	
-QAL	QAL	subst:pl:acc:m3	nazwa firmy	
-QAL	QAL	subst:pl:dat:m3	nazwa firmy	
-QAL	QAL	subst:pl:gen:m3	nazwa firmy	
-QAL	QAL	subst:pl:inst:m3	nazwa firmy	
-QAL	QAL	subst:pl:loc:m3	nazwa firmy	
-QAL	QAL	subst:pl:nom:m3	nazwa firmy	
-QAL	QAL	subst:pl:voc:m3	nazwa firmy	
-QAL	QAL	subst:sg:acc:m3	nazwa firmy	
-QAL	QAL	subst:sg:dat:m3	nazwa firmy	
-QAL	QAL	subst:sg:gen:m3	nazwa firmy	
-QAL	QAL	subst:sg:inst:m3	nazwa firmy	
-QAL	QAL	subst:sg:loc:m3	nazwa firmy	
-QAL	QAL	subst:sg:nom:m3	nazwa firmy	
-QAL	QAL	subst:sg:voc:m3	nazwa firmy	
+Q	Q	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
+QAL	QAL	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa firmy	
 Quasimodach	Quasimodo	subst:pl:loc:m1	nazwisko	
 Quasimodami	Quasimodo	subst:pl:inst:m1	nazwisko	
-Quasimoda	Quasimodo	depr:pl:acc:m2	nazwisko	
-Quasimoda	Quasimodo	depr:pl:nom:m2	nazwisko	
-Quasimoda	Quasimodo	depr:pl:voc:m2	nazwisko	
+Quasimoda	Quasimodo	depr:pl:nom.acc.voc:m2	nazwisko	
 Quasimoda	Quasimodo	subst:sg:acc:m1	nazwisko	
 Quasimoda	Quasimodo	subst:sg:gen:m1	nazwisko	
 Quasimodem	Quasimodo	subst:sg:inst:m1	nazwisko	
 Quasimodom	Quasimodo	subst:pl:dat:m1	nazwisko	
-Quasimodo	Quasimodo	depr:pl:acc:m2	nazwisko	
-Quasimodo	Quasimodo	depr:pl:nom:m2	nazwisko	
-Quasimodo	Quasimodo	depr:pl:voc:m2	nazwisko	
-Quasimodo	Quasimodo	subst:pl:acc:m1	nazwisko	
-Quasimodo	Quasimodo	subst:pl:dat:m1	nazwisko	
-Quasimodo	Quasimodo	subst:pl:gen:m1	nazwisko	
-Quasimodo	Quasimodo	subst:pl:inst:m1	nazwisko	
-Quasimodo	Quasimodo	subst:pl:loc:m1	nazwisko	
-Quasimodo	Quasimodo	subst:pl:nom:m1	nazwisko	
-Quasimodo	Quasimodo	subst:pl:voc:m1	nazwisko	
-Quasimodo	Quasimodo	subst:sg:acc:m1	nazwisko	
-Quasimodo	Quasimodo	subst:sg:dat:m1	nazwisko	
-Quasimodo	Quasimodo	subst:sg:gen:m1	nazwisko	
-Quasimodo	Quasimodo	subst:sg:inst:m1	nazwisko	
-Quasimodo	Quasimodo	subst:sg:loc:m1	nazwisko	
+Quasimodo	Quasimodo	depr:pl:nom.acc.voc:m2	nazwisko	
 Quasimodo	Quasimodo	subst:sg:nom:m1	nazwisko	
+Quasimodo	Quasimodo	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko	
 Quasimodo	Quasimodo	subst:sg:voc:m1	nazwisko	
 Quasimodowie	Quasimodo	subst:pl:nom:m1	nazwisko	
 Quasimodowie	Quasimodo	subst:pl:voc:m1	nazwisko	
@@ -69,8 +28,7 @@ Quebecu	Quebec	subst:sg:gen:m3	nazwa geograficzna
 Quebecu	Quebec	subst:sg:loc:m3	nazwa geograficzna	
 Quebecu	Quebec	subst:sg:voc:m3	nazwa geograficzna	
 Quebekiem	Quebec	subst:sg:inst:m3	nazwa geograficzna	
-Quebeki	Quebec	subst:pl:acc:m3	nazwa geograficzna	
-Quebeki	Quebec	subst:pl:nom:m3	nazwa geograficzna	
+Quebeki	Quebec	subst:pl:nom.acc:m3	nazwa geograficzna	
 Quebeki	Quebec	subst:pl:voc:m3	nazwa geograficzna	
 Quinnach	Quinn	subst:pl:loc:m1	nazwisko	
 Quinnami	Quinn	subst:pl:inst:m1	nazwisko	
@@ -86,17 +44,13 @@ Quinnowi	Quinn	subst:sg:dat:m1	nazwisko
 Quinnów	Quinn	subst:pl:acc:m1	nazwisko	
 Quinnów	Quinn	subst:pl:gen:m1	nazwisko	
 Quinn	Quinn	subst:sg:nom:m1	nazwisko	
-Quinny	Quinn	depr:pl:acc:m2	nazwisko	
-Quinny	Quinn	depr:pl:nom:m2	nazwisko	
-Quinny	Quinn	depr:pl:voc:m2	nazwisko	
+Quinny	Quinn	depr:pl:nom.acc.voc:m2	nazwisko	
 Quislingach	Quisling	subst:pl:loc:m1	nazwisko	
 Quislingami	Quisling	subst:pl:inst:m1	nazwisko	
 Quislinga	Quisling	subst:sg:acc:m1	nazwisko	
 Quislinga	Quisling	subst:sg:gen:m1	nazwisko	
 Quislingiem	Quisling	subst:sg:inst:m1	nazwisko	
-Quislingi	Quisling	depr:pl:acc:m2	nazwisko	
-Quislingi	Quisling	depr:pl:nom:m2	nazwisko	
-Quislingi	Quisling	depr:pl:voc:m2	nazwisko	
+Quislingi	Quisling	depr:pl:nom.acc.voc:m2	nazwisko	
 Quislingom	Quisling	subst:pl:dat:m1	nazwisko	
 Quislingowie	Quisling	subst:pl:nom:m1	nazwisko	
 Quislingowie	Quisling	subst:pl:voc:m1	nazwisko	
@@ -106,17 +60,4 @@ Quislingów	Quisling	subst:pl:gen:m1	nazwisko
 Quisling	Quisling	subst:sg:nom:m1	nazwisko	
 Quislingu	Quisling	subst:sg:loc:m1	nazwisko	
 Quislingu	Quisling	subst:sg:voc:m1	nazwisko	
-Quito	Quito	subst:pl:acc:n:ncol	nazwa geograficzna	
-Quito	Quito	subst:pl:dat:n:ncol	nazwa geograficzna	
-Quito	Quito	subst:pl:gen:n:ncol	nazwa geograficzna	
-Quito	Quito	subst:pl:inst:n:ncol	nazwa geograficzna	
-Quito	Quito	subst:pl:loc:n:ncol	nazwa geograficzna	
-Quito	Quito	subst:pl:nom:n:ncol	nazwa geograficzna	
-Quito	Quito	subst:pl:voc:n:ncol	nazwa geograficzna	
-Quito	Quito	subst:sg:acc:n:ncol	nazwa geograficzna	
-Quito	Quito	subst:sg:dat:n:ncol	nazwa geograficzna	
-Quito	Quito	subst:sg:gen:n:ncol	nazwa geograficzna	
-Quito	Quito	subst:sg:inst:n:ncol	nazwa geograficzna	
-Quito	Quito	subst:sg:loc:n:ncol	nazwa geograficzna	
-Quito	Quito	subst:sg:nom:n:ncol	nazwa geograficzna	
-Quito	Quito	subst:sg:voc:n:ncol	nazwa geograficzna	
+Quito	Quito	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	

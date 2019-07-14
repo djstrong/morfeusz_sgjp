@@ -31,13 +31,11 @@
 ździarskościami	ździarskość	subst:pl:inst:f	nazwa pospolita	
 ździarskością	ździarskość	subst:sg:inst:f	nazwa pospolita	
 ździarskościom	ździarskość	subst:pl:dat:f	nazwa pospolita	
-ździarskości	ździarskość	subst:pl:acc:f	nazwa pospolita	
 ździarskości	ździarskość	subst:pl:gen:f	nazwa pospolita	
-ździarskości	ździarskość	subst:pl:nom:f	nazwa pospolita	
+ździarskości	ździarskość	subst:pl:nom.acc:f	nazwa pospolita	
 ździarskości	ździarskość	subst:pl:voc:f	nazwa pospolita	
-ździarskości	ździarskość	subst:sg:dat:f	nazwa pospolita	
+ździarskości	ździarskość	subst:sg:dat.loc:f	nazwa pospolita	
 ździarskości	ździarskość	subst:sg:gen:f	nazwa pospolita	
-ździarskości	ździarskość	subst:sg:loc:f	nazwa pospolita	
 ździarskości	ździarskość	subst:sg:voc:f	nazwa pospolita	
 ździarskość	ździarskość	subst:sg:acc:f	nazwa pospolita	
 ździarskość	ździarskość	subst:sg:nom:f	nazwa pospolita	
@@ -93,12 +91,8 @@
 ździeblarza	ździeblarz	subst:sg:gen:m1	nazwa pospolita	rzad.
 ździeblarzem	ździeblarz	subst:sg:inst:m1	nazwa pospolita	
 ździeblarzem	ździeblarz	subst:sg:inst:m1	nazwa pospolita	rzad.
-ździeblarze	ździeblarz	depr:pl:acc:m2	nazwa pospolita	
-ździeblarze	ździeblarz	depr:pl:acc:m2	nazwa pospolita	rzad.
-ździeblarze	ździeblarz	depr:pl:nom:m2	nazwa pospolita	
-ździeblarze	ździeblarz	depr:pl:nom:m2	nazwa pospolita	rzad.
-ździeblarze	ździeblarz	depr:pl:voc:m2	nazwa pospolita	
-ździeblarze	ździeblarz	depr:pl:voc:m2	nazwa pospolita	rzad.
+ździeblarze	ździeblarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+ździeblarze	ździeblarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
 ździeblarze	ździeblarz	subst:pl:nom:m1	nazwa pospolita	
 ździeblarze	ździeblarz	subst:pl:nom:m1	nazwa pospolita	rzad.
 ździeblarze	ździeblarz	subst:pl:voc:m1	nazwa pospolita	
@@ -121,13 +115,11 @@
 ździeblarzowatościami	ździeblarzowatość	subst:pl:inst:f	nazwa pospolita	
 ździeblarzowatością	ździeblarzowatość	subst:sg:inst:f	nazwa pospolita	
 ździeblarzowatościom	ździeblarzowatość	subst:pl:dat:f	nazwa pospolita	
-ździeblarzowatości	ździeblarzowatość	subst:pl:acc:f	nazwa pospolita	
 ździeblarzowatości	ździeblarzowatość	subst:pl:gen:f	nazwa pospolita	
-ździeblarzowatości	ździeblarzowatość	subst:pl:nom:f	nazwa pospolita	
+ździeblarzowatości	ździeblarzowatość	subst:pl:nom.acc:f	nazwa pospolita	
 ździeblarzowatości	ździeblarzowatość	subst:pl:voc:f	nazwa pospolita	
-ździeblarzowatości	ździeblarzowatość	subst:sg:dat:f	nazwa pospolita	
+ździeblarzowatości	ździeblarzowatość	subst:sg:dat.loc:f	nazwa pospolita	
 ździeblarzowatości	ździeblarzowatość	subst:sg:gen:f	nazwa pospolita	
-ździeblarzowatości	ździeblarzowatość	subst:sg:loc:f	nazwa pospolita	
 ździeblarzowatości	ździeblarzowatość	subst:sg:voc:f	nazwa pospolita	
 ździeblarzowatość	ździeblarzowatość	subst:sg:acc:f	nazwa pospolita	
 ździeblarzowatość	ździeblarzowatość	subst:sg:nom:f	nazwa pospolita	
@@ -187,9 +179,7 @@
 ździercami	ździerca	subst:pl:inst:m1	nazwa pospolita	przest.
 ździerca	ździerca	subst:sg:nom:m1	nazwa pospolita	przest.
 ździercą	ździerca	subst:sg:inst:m1	nazwa pospolita	przest.
-ździerce	ździerca	depr:pl:acc:m2	nazwa pospolita	przest.
-ździerce	ździerca	depr:pl:nom:m2	nazwa pospolita	przest.
-ździerce	ździerca	depr:pl:voc:m2	nazwa pospolita	przest.
+ździerce	ździerca	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
 ździercę	ździerca	subst:sg:acc:m1	nazwa pospolita	przest.
 ździercom	ździerca	subst:pl:dat:m1	nazwa pospolita	przest.
 ździerco	ździerca	subst:sg:voc:m1	nazwa pospolita	przest.
@@ -197,9 +187,8 @@
 ździerców	ździerca	subst:pl:gen:m1	nazwa pospolita	przest.
 ździercy	ździerca	subst:pl:nom:m1	nazwa pospolita	przest.
 ździercy	ździerca	subst:pl:voc:m1	nazwa pospolita	przest.
-ździercy	ździerca	subst:sg:dat:m1	nazwa pospolita	przest.
+ździercy	ździerca	subst:sg:dat.loc:m1	nazwa pospolita	przest.
 ździercy	ździerca	subst:sg:gen:m1	nazwa pospolita	przest.
-ździercy	ździerca	subst:sg:loc:m1	nazwa pospolita	przest.
 ździerstwach	ździerstwo	subst:pl:loc:n:ncol	nazwa pospolita	
 ździerstwami	ździerstwo	subst:pl:inst:n:ncol	nazwa pospolita	
 ździerstwa	ździerstwo	subst:pl:acc:n:ncol	nazwa pospolita	
@@ -221,12 +210,10 @@
 ździrę	ździra	subst:sg:acc:f	nazwa pospolita	
 ździrom	ździra	subst:pl:dat:f	nazwa pospolita	
 ździro	ździra	subst:sg:voc:f	nazwa pospolita	
-ździry	ździra	subst:pl:acc:f	nazwa pospolita	
-ździry	ździra	subst:pl:nom:f	nazwa pospolita	
+ździry	ździra	subst:pl:nom.acc:f	nazwa pospolita	
 ździry	ździra	subst:pl:voc:f	nazwa pospolita	
 ździry	ździra	subst:sg:gen:f	nazwa pospolita	
-ździrze	ździra	subst:sg:dat:f	nazwa pospolita	
-ździrze	ździra	subst:sg:loc:f	nazwa pospolita	
+ździrze	ździra	subst:sg:dat.loc:f	nazwa pospolita	
 ździr	ździra	subst:pl:gen:f	nazwa pospolita	
 źdźbeł	źdźbło	subst:pl:gen:n:ncol	nazwa pospolita	
 źdźble	źdźbło	subst:sg:loc:n:ncol	nazwa pospolita	
@@ -246,13 +233,11 @@
 źdźbłowościami	źdźbłowość	subst:pl:inst:f	nazwa pospolita	
 źdźbłowością	źdźbłowość	subst:sg:inst:f	nazwa pospolita	
 źdźbłowościom	źdźbłowość	subst:pl:dat:f	nazwa pospolita	
-źdźbłowości	źdźbłowość	subst:pl:acc:f	nazwa pospolita	
 źdźbłowości	źdźbłowość	subst:pl:gen:f	nazwa pospolita	
-źdźbłowości	źdźbłowość	subst:pl:nom:f	nazwa pospolita	
+źdźbłowości	źdźbłowość	subst:pl:nom.acc:f	nazwa pospolita	
 źdźbłowości	źdźbłowość	subst:pl:voc:f	nazwa pospolita	
-źdźbłowości	źdźbłowość	subst:sg:dat:f	nazwa pospolita	
+źdźbłowości	źdźbłowość	subst:sg:dat.loc:f	nazwa pospolita	
 źdźbłowości	źdźbłowość	subst:sg:gen:f	nazwa pospolita	
-źdźbłowości	źdźbłowość	subst:sg:loc:f	nazwa pospolita	
 źdźbłowości	źdźbłowość	subst:sg:voc:f	nazwa pospolita	
 źdźbłowość	źdźbłowość	subst:sg:acc:f	nazwa pospolita	
 źdźbłowość	źdźbłowość	subst:sg:nom:f	nazwa pospolita	
@@ -451,8 +436,7 @@
 źlebowi	źleb	subst:sg:dat:m3	nazwa pospolita	
 źlebów	źleb	subst:pl:gen:m3	nazwa pospolita	
 źlebu	źleb	subst:sg:gen:m3	nazwa pospolita	
-źleby	źleb	subst:pl:acc:m3	nazwa pospolita	
-źleby	źleb	subst:pl:nom:m3	nazwa pospolita	
+źleby	źleb	subst:pl:nom.acc:m3	nazwa pospolita	
 źleby	źleb	subst:pl:voc:m3	nazwa pospolita	
 źleb	źleb	subst:sg:acc:m3	nazwa pospolita	
 źleb	źleb	subst:sg:nom:m3	nazwa pospolita	
@@ -460,8 +444,7 @@
 źlebikami	źlebik	subst:pl:inst:m3	nazwa pospolita	
 źlebika	źlebik	subst:sg:gen:m3	nazwa pospolita	
 źlebikiem	źlebik	subst:sg:inst:m3	nazwa pospolita	
-źlebiki	źlebik	subst:pl:acc:m3	nazwa pospolita	
-źlebiki	źlebik	subst:pl:nom:m3	nazwa pospolita	
+źlebiki	źlebik	subst:pl:nom.acc:m3	nazwa pospolita	
 źlebiki	źlebik	subst:pl:voc:m3	nazwa pospolita	
 źlebikom	źlebik	subst:pl:dat:m3	nazwa pospolita	
 źlebikowi	źlebik	subst:sg:dat:m3	nazwa pospolita	
@@ -474,13 +457,11 @@
 źrałościami	źrałość	subst:pl:inst:f	nazwa pospolita	daw.
 źrałością	źrałość	subst:sg:inst:f	nazwa pospolita	daw.
 źrałościom	źrałość	subst:pl:dat:f	nazwa pospolita	daw.
-źrałości	źrałość	subst:pl:acc:f	nazwa pospolita	daw.
 źrałości	źrałość	subst:pl:gen:f	nazwa pospolita	daw.
-źrałości	źrałość	subst:pl:nom:f	nazwa pospolita	daw.
+źrałości	źrałość	subst:pl:nom.acc:f	nazwa pospolita	daw.
 źrałości	źrałość	subst:pl:voc:f	nazwa pospolita	daw.
-źrałości	źrałość	subst:sg:dat:f	nazwa pospolita	daw.
+źrałości	źrałość	subst:sg:dat.loc:f	nazwa pospolita	daw.
 źrałości	źrałość	subst:sg:gen:f	nazwa pospolita	daw.
-źrałości	źrałość	subst:sg:loc:f	nazwa pospolita	daw.
 źrałości	źrałość	subst:sg:voc:f	nazwa pospolita	daw.
 źrałość	źrałość	subst:sg:acc:f	nazwa pospolita	daw.
 źrałość	źrałość	subst:sg:nom:f	nazwa pospolita	daw.
@@ -539,8 +520,7 @@
 źrebiami	źreb	subst:pl:inst:m3	nazwa pospolita	hist.
 źrebia	źreb	subst:sg:gen:m3	nazwa pospolita	hist.
 źrebiem	źreb	subst:sg:inst:m3	nazwa pospolita	hist.
-źrebie	źreb	subst:pl:acc:m3	nazwa pospolita	hist.
-źrebie	źreb	subst:pl:nom:m3	nazwa pospolita	hist.
+źrebie	źreb	subst:pl:nom.acc:m3	nazwa pospolita	hist.
 źrebie	źreb	subst:pl:voc:m3	nazwa pospolita	hist.
 źrebie	źreb	subst:sg:loc:m3	nazwa pospolita	hist.
 źrebie	źreb	subst:sg:voc:m3	nazwa pospolita	hist.
@@ -553,8 +533,7 @@
 źrebowi	źreb	subst:sg:dat:m3	nazwa pospolita	hist.
 źrebów	źreb	subst:pl:gen:m3	nazwa pospolita	hist.
 źrebu	źreb	subst:sg:gen:m3	nazwa pospolita	hist.
-źreby	źreb	subst:pl:acc:m3	nazwa pospolita	hist.
-źreby	źreb	subst:pl:nom:m3	nazwa pospolita	hist.
+źreby	źreb	subst:pl:nom.acc:m3	nazwa pospolita	hist.
 źreby	źreb	subst:pl:voc:m3	nazwa pospolita	hist.
 źreb	źreb	subst:sg:acc:m3	nazwa pospolita	hist.
 źreb	źreb	subst:sg:nom:m3	nazwa pospolita	hist.
@@ -564,8 +543,7 @@
 źrebaczka	źrebaczek	subst:sg:acc:m2	nazwa pospolita	
 źrebaczka	źrebaczek	subst:sg:gen:m2	nazwa pospolita	
 źrebaczkiem	źrebaczek	subst:sg:inst:m2	nazwa pospolita	
-źrebaczki	źrebaczek	subst:pl:acc:m2	nazwa pospolita	
-źrebaczki	źrebaczek	subst:pl:nom:m2	nazwa pospolita	
+źrebaczki	źrebaczek	subst:pl:nom.acc:m2	nazwa pospolita	
 źrebaczki	źrebaczek	subst:pl:voc:m2	nazwa pospolita	
 źrebaczkom	źrebaczek	subst:pl:dat:m2	nazwa pospolita	
 źrebaczkowi	źrebaczek	subst:sg:dat:m2	nazwa pospolita	
@@ -577,8 +555,7 @@
 źrebaka	źrebak	subst:sg:acc:m2	nazwa pospolita	
 źrebaka	źrebak	subst:sg:gen:m2	nazwa pospolita	
 źrebakiem	źrebak	subst:sg:inst:m2	nazwa pospolita	
-źrebaki	źrebak	subst:pl:acc:m2	nazwa pospolita	
-źrebaki	źrebak	subst:pl:nom:m2	nazwa pospolita	
+źrebaki	źrebak	subst:pl:nom.acc:m2	nazwa pospolita	
 źrebaki	źrebak	subst:pl:voc:m2	nazwa pospolita	
 źrebakom	źrebak	subst:pl:dat:m2	nazwa pospolita	
 źrebakowi	źrebak	subst:sg:dat:m2	nazwa pospolita	
@@ -591,8 +568,7 @@
 źrebczyka	źrebczyk	subst:sg:acc:m2	nazwa pospolita	przest.
 źrebczyka	źrebczyk	subst:sg:gen:m2	nazwa pospolita	przest.
 źrebczykiem	źrebczyk	subst:sg:inst:m2	nazwa pospolita	przest.
-źrebczyki	źrebczyk	subst:pl:acc:m2	nazwa pospolita	przest.
-źrebczyki	źrebczyk	subst:pl:nom:m2	nazwa pospolita	przest.
+źrebczyki	źrebczyk	subst:pl:nom.acc:m2	nazwa pospolita	przest.
 źrebczyki	źrebczyk	subst:pl:voc:m2	nazwa pospolita	przest.
 źrebczykom	źrebczyk	subst:pl:dat:m2	nazwa pospolita	przest.
 źrebczykowi	źrebczyk	subst:sg:dat:m2	nazwa pospolita	przest.
@@ -606,9 +582,7 @@
 źrebiarka	źrebiarek	subst:sg:acc:m1	nazwa pospolita	daw.
 źrebiarka	źrebiarek	subst:sg:gen:m1	nazwa pospolita	daw.
 źrebiarkiem	źrebiarek	subst:sg:inst:m1	nazwa pospolita	daw.
-źrebiarki	źrebiarek	depr:pl:acc:m2	nazwa pospolita	daw.
-źrebiarki	źrebiarek	depr:pl:nom:m2	nazwa pospolita	daw.
-źrebiarki	źrebiarek	depr:pl:voc:m2	nazwa pospolita	daw.
+źrebiarki	źrebiarek	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
 źrebiarkom	źrebiarek	subst:pl:dat:m1	nazwa pospolita	daw.
 źrebiarkowie	źrebiarek	subst:pl:nom:m1	nazwa pospolita	daw.
 źrebiarkowie	źrebiarek	subst:pl:voc:m1	nazwa pospolita	daw.
@@ -635,26 +609,22 @@
 źrebicami	źrebica	subst:pl:inst:f	nazwa pospolita	
 źrebica	źrebica	subst:sg:nom:f	nazwa pospolita	
 źrebicą	źrebica	subst:sg:inst:f	nazwa pospolita	
-źrebice	źrebica	subst:pl:acc:f	nazwa pospolita	
-źrebice	źrebica	subst:pl:nom:f	nazwa pospolita	
+źrebice	źrebica	subst:pl:nom.acc:f	nazwa pospolita	
 źrebice	źrebica	subst:pl:voc:f	nazwa pospolita	
 źrebicę	źrebica	subst:sg:acc:f	nazwa pospolita	
 źrebicom	źrebica	subst:pl:dat:f	nazwa pospolita	
 źrebico	źrebica	subst:sg:voc:f	nazwa pospolita	
-źrebicy	źrebica	subst:sg:dat:f	nazwa pospolita	
+źrebicy	źrebica	subst:sg:dat.loc:f	nazwa pospolita	
 źrebicy	źrebica	subst:sg:gen:f	nazwa pospolita	
-źrebicy	źrebica	subst:sg:loc:f	nazwa pospolita	
 źrebic	źrebica	subst:pl:gen:f	nazwa pospolita	
-źrebiczce	źrebiczka	subst:sg:dat:f	nazwa pospolita	
-źrebiczce	źrebiczka	subst:sg:loc:f	nazwa pospolita	
+źrebiczce	źrebiczka	subst:sg:dat.loc:f	nazwa pospolita	
 źrebiczek	źrebiczka	subst:pl:gen:f	nazwa pospolita	
 źrebiczkach	źrebiczka	subst:pl:loc:f	nazwa pospolita	
 źrebiczkami	źrebiczka	subst:pl:inst:f	nazwa pospolita	
 źrebiczka	źrebiczka	subst:sg:nom:f	nazwa pospolita	
 źrebiczką	źrebiczka	subst:sg:inst:f	nazwa pospolita	
 źrebiczkę	źrebiczka	subst:sg:acc:f	nazwa pospolita	
-źrebiczki	źrebiczka	subst:pl:acc:f	nazwa pospolita	
-źrebiczki	źrebiczka	subst:pl:nom:f	nazwa pospolita	
+źrebiczki	źrebiczka	subst:pl:nom.acc:f	nazwa pospolita	
 źrebiczki	źrebiczka	subst:pl:voc:f	nazwa pospolita	
 źrebiczki	źrebiczka	subst:sg:gen:f	nazwa pospolita	
 źrebiczkom	źrebiczka	subst:pl:dat:f	nazwa pospolita	
@@ -751,8 +721,7 @@
 źrebca	źrebiec	subst:sg:acc:m2	nazwa pospolita	przest.
 źrebca	źrebiec	subst:sg:gen:m2	nazwa pospolita	przest.
 źrebcem	źrebiec	subst:sg:inst:m2	nazwa pospolita	przest.
-źrebce	źrebiec	subst:pl:acc:m2	nazwa pospolita	przest.
-źrebce	źrebiec	subst:pl:nom:m2	nazwa pospolita	przest.
+źrebce	źrebiec	subst:pl:nom.acc:m2	nazwa pospolita	przest.
 źrebce	źrebiec	subst:pl:voc:m2	nazwa pospolita	przest.
 źrebcom	źrebiec	subst:pl:dat:m2	nazwa pospolita	przest.
 źrebcowi	źrebiec	subst:sg:dat:m2	nazwa pospolita	przest.
@@ -778,28 +747,24 @@
 źrebięciarniami	źrebięciarnia	subst:pl:inst:f	nazwa pospolita	
 źrebięciarnia	źrebięciarnia	subst:sg:nom:f	nazwa pospolita	
 źrebięciarnią	źrebięciarnia	subst:sg:inst:f	nazwa pospolita	
-źrebięciarnie	źrebięciarnia	subst:pl:acc:f	nazwa pospolita	
-źrebięciarnie	źrebięciarnia	subst:pl:nom:f	nazwa pospolita	
+źrebięciarnie	źrebięciarnia	subst:pl:nom.acc:f	nazwa pospolita	
 źrebięciarnie	źrebięciarnia	subst:pl:voc:f	nazwa pospolita	
 źrebięciarnię	źrebięciarnia	subst:sg:acc:f	nazwa pospolita	
 źrebięciarniom	źrebięciarnia	subst:pl:dat:f	nazwa pospolita	
 źrebięciarnio	źrebięciarnia	subst:sg:voc:f	nazwa pospolita	
 źrebięciarni	źrebięciarnia	subst:pl:gen:f	nazwa pospolita	hom.
-źrebięciarni	źrebięciarnia	subst:sg:dat:f	nazwa pospolita	
+źrebięciarni	źrebięciarnia	subst:sg:dat.loc:f	nazwa pospolita	
 źrebięciarni	źrebięciarnia	subst:sg:gen:f	nazwa pospolita	
-źrebięciarni	źrebięciarnia	subst:sg:loc:f	nazwa pospolita	
 źrebięciarń	źrebięciarnia	subst:pl:gen:f	nazwa pospolita	char.
 źrebięcinach	źrebięcina	subst:pl:loc:f	nazwa pospolita	
 źrebięcinami	źrebięcina	subst:pl:inst:f	nazwa pospolita	
 źrebięcina	źrebięcina	subst:sg:nom:f	nazwa pospolita	
 źrebięciną	źrebięcina	subst:sg:inst:f	nazwa pospolita	
 źrebięcinę	źrebięcina	subst:sg:acc:f	nazwa pospolita	
-źrebięcinie	źrebięcina	subst:sg:dat:f	nazwa pospolita	
-źrebięcinie	źrebięcina	subst:sg:loc:f	nazwa pospolita	
+źrebięcinie	źrebięcina	subst:sg:dat.loc:f	nazwa pospolita	
 źrebięcinom	źrebięcina	subst:pl:dat:f	nazwa pospolita	
 źrebięcino	źrebięcina	subst:sg:voc:f	nazwa pospolita	
-źrebięciny	źrebięcina	subst:pl:acc:f	nazwa pospolita	
-źrebięciny	źrebięcina	subst:pl:nom:f	nazwa pospolita	
+źrebięciny	źrebięcina	subst:pl:nom.acc:f	nazwa pospolita	
 źrebięciny	źrebięcina	subst:pl:voc:f	nazwa pospolita	
 źrebięciny	źrebięcina	subst:sg:gen:f	nazwa pospolita	
 źrebięcin	źrebięcina	subst:pl:gen:f	nazwa pospolita	
@@ -807,13 +772,11 @@
 źrebięcościami	źrebięcość	subst:pl:inst:f	nazwa pospolita	
 źrebięcością	źrebięcość	subst:sg:inst:f	nazwa pospolita	
 źrebięcościom	źrebięcość	subst:pl:dat:f	nazwa pospolita	
-źrebięcości	źrebięcość	subst:pl:acc:f	nazwa pospolita	
 źrebięcości	źrebięcość	subst:pl:gen:f	nazwa pospolita	
-źrebięcości	źrebięcość	subst:pl:nom:f	nazwa pospolita	
+źrebięcości	źrebięcość	subst:pl:nom.acc:f	nazwa pospolita	
 źrebięcości	źrebięcość	subst:pl:voc:f	nazwa pospolita	
-źrebięcości	źrebięcość	subst:sg:dat:f	nazwa pospolita	
+źrebięcości	źrebięcość	subst:sg:dat.loc:f	nazwa pospolita	
 źrebięcości	źrebięcość	subst:sg:gen:f	nazwa pospolita	
-źrebięcości	źrebięcość	subst:sg:loc:f	nazwa pospolita	
 źrebięcości	źrebięcość	subst:sg:voc:f	nazwa pospolita	
 źrebięcość	źrebięcość	subst:sg:acc:f	nazwa pospolita	
 źrebięcość	źrebięcość	subst:sg:nom:f	nazwa pospolita	
@@ -845,13 +808,11 @@
 źrebnościami	źrebność	subst:pl:inst:f	nazwa pospolita	
 źrebnością	źrebność	subst:sg:inst:f	nazwa pospolita	
 źrebnościom	źrebność	subst:pl:dat:f	nazwa pospolita	
-źrebności	źrebność	subst:pl:acc:f	nazwa pospolita	
 źrebności	źrebność	subst:pl:gen:f	nazwa pospolita	
-źrebności	źrebność	subst:pl:nom:f	nazwa pospolita	
+źrebności	źrebność	subst:pl:nom.acc:f	nazwa pospolita	
 źrebności	źrebność	subst:pl:voc:f	nazwa pospolita	
-źrebności	źrebność	subst:sg:dat:f	nazwa pospolita	
+źrebności	źrebność	subst:sg:dat.loc:f	nazwa pospolita	
 źrebności	źrebność	subst:sg:gen:f	nazwa pospolita	
-źrebności	źrebność	subst:sg:loc:f	nazwa pospolita	
 źrebności	źrebność	subst:sg:voc:f	nazwa pospolita	
 źrebność	źrebność	subst:sg:acc:f	nazwa pospolita	
 źrebność	źrebność	subst:sg:nom:f	nazwa pospolita	
@@ -984,27 +945,23 @@
 źrenicami	źrenica	subst:pl:inst:f	nazwa pospolita	
 źrenica	źrenica	subst:sg:nom:f	nazwa pospolita	
 źrenicą	źrenica	subst:sg:inst:f	nazwa pospolita	
-źrenice	źrenica	subst:pl:acc:f	nazwa pospolita	
-źrenice	źrenica	subst:pl:nom:f	nazwa pospolita	
+źrenice	źrenica	subst:pl:nom.acc:f	nazwa pospolita	
 źrenice	źrenica	subst:pl:voc:f	nazwa pospolita	
 źrenicę	źrenica	subst:sg:acc:f	nazwa pospolita	
 źrenicom	źrenica	subst:pl:dat:f	nazwa pospolita	
 źrenico	źrenica	subst:sg:voc:f	nazwa pospolita	
-źrenicy	źrenica	subst:sg:dat:f	nazwa pospolita	
+źrenicy	źrenica	subst:sg:dat.loc:f	nazwa pospolita	
 źrenicy	źrenica	subst:sg:gen:f	nazwa pospolita	
-źrenicy	źrenica	subst:sg:loc:f	nazwa pospolita	
 źrenic	źrenica	subst:pl:gen:f	nazwa pospolita	
 źrenicowościach	źrenicowość	subst:pl:loc:f	nazwa pospolita	
 źrenicowościami	źrenicowość	subst:pl:inst:f	nazwa pospolita	
 źrenicowością	źrenicowość	subst:sg:inst:f	nazwa pospolita	
 źrenicowościom	źrenicowość	subst:pl:dat:f	nazwa pospolita	
-źrenicowości	źrenicowość	subst:pl:acc:f	nazwa pospolita	
 źrenicowości	źrenicowość	subst:pl:gen:f	nazwa pospolita	
-źrenicowości	źrenicowość	subst:pl:nom:f	nazwa pospolita	
+źrenicowości	źrenicowość	subst:pl:nom.acc:f	nazwa pospolita	
 źrenicowości	źrenicowość	subst:pl:voc:f	nazwa pospolita	
-źrenicowości	źrenicowość	subst:sg:dat:f	nazwa pospolita	
+źrenicowości	źrenicowość	subst:sg:dat.loc:f	nazwa pospolita	
 źrenicowości	źrenicowość	subst:sg:gen:f	nazwa pospolita	
-źrenicowości	źrenicowość	subst:sg:loc:f	nazwa pospolita	
 źrenicowości	źrenicowość	subst:sg:voc:f	nazwa pospolita	
 źrenicowość	źrenicowość	subst:sg:acc:f	nazwa pospolita	
 źrenicowość	źrenicowość	subst:sg:nom:f	nazwa pospolita	
@@ -1032,16 +989,14 @@
 źrenicowym	źrenicowy	adj:sg:loc:m1.m2.m3.n:pos		
 źrenicowy	źrenicowy	adj:sg:acc:m3:pos		
 źrenicowy	źrenicowy	adj:sg:nom.voc:m1.m2.m3:pos		
-źreniczce	źreniczka	subst:sg:dat:f	nazwa pospolita	
-źreniczce	źreniczka	subst:sg:loc:f	nazwa pospolita	
+źreniczce	źreniczka	subst:sg:dat.loc:f	nazwa pospolita	
 źreniczek	źreniczka	subst:pl:gen:f	nazwa pospolita	
 źreniczkach	źreniczka	subst:pl:loc:f	nazwa pospolita	
 źreniczkami	źreniczka	subst:pl:inst:f	nazwa pospolita	
 źreniczka	źreniczka	subst:sg:nom:f	nazwa pospolita	
 źreniczką	źreniczka	subst:sg:inst:f	nazwa pospolita	
 źreniczkę	źreniczka	subst:sg:acc:f	nazwa pospolita	
-źreniczki	źreniczka	subst:pl:acc:f	nazwa pospolita	
-źreniczki	źreniczka	subst:pl:nom:f	nazwa pospolita	
+źreniczki	źreniczka	subst:pl:nom.acc:f	nazwa pospolita	
 źreniczki	źreniczka	subst:pl:voc:f	nazwa pospolita	
 źreniczki	źreniczka	subst:sg:gen:f	nazwa pospolita	
 źreniczkom	źreniczka	subst:pl:dat:f	nazwa pospolita	
@@ -1050,13 +1005,11 @@
 źrenicznościami	źreniczność	subst:pl:inst:f	nazwa pospolita	
 źrenicznością	źreniczność	subst:sg:inst:f	nazwa pospolita	
 źrenicznościom	źreniczność	subst:pl:dat:f	nazwa pospolita	
-źreniczności	źreniczność	subst:pl:acc:f	nazwa pospolita	
 źreniczności	źreniczność	subst:pl:gen:f	nazwa pospolita	
-źreniczności	źreniczność	subst:pl:nom:f	nazwa pospolita	
+źreniczności	źreniczność	subst:pl:nom.acc:f	nazwa pospolita	
 źreniczności	źreniczność	subst:pl:voc:f	nazwa pospolita	
-źreniczności	źreniczność	subst:sg:dat:f	nazwa pospolita	
+źreniczności	źreniczność	subst:sg:dat.loc:f	nazwa pospolita	
 źreniczności	źreniczność	subst:sg:gen:f	nazwa pospolita	
-źreniczności	źreniczność	subst:sg:loc:f	nazwa pospolita	
 źreniczności	źreniczność	subst:sg:voc:f	nazwa pospolita	
 źreniczność	źreniczność	subst:sg:acc:f	nazwa pospolita	
 źreniczność	źreniczność	subst:sg:nom:f	nazwa pospolita	
@@ -1088,15 +1041,13 @@
 źrennicami	źrennica	subst:pl:inst:f	nazwa pospolita	indyw.
 źrennica	źrennica	subst:sg:nom:f	nazwa pospolita	indyw.
 źrennicą	źrennica	subst:sg:inst:f	nazwa pospolita	indyw.
-źrennice	źrennica	subst:pl:acc:f	nazwa pospolita	indyw.
-źrennice	źrennica	subst:pl:nom:f	nazwa pospolita	indyw.
+źrennice	źrennica	subst:pl:nom.acc:f	nazwa pospolita	indyw.
 źrennice	źrennica	subst:pl:voc:f	nazwa pospolita	indyw.
 źrennicę	źrennica	subst:sg:acc:f	nazwa pospolita	indyw.
 źrennicom	źrennica	subst:pl:dat:f	nazwa pospolita	indyw.
 źrennico	źrennica	subst:sg:voc:f	nazwa pospolita	indyw.
-źrennicy	źrennica	subst:sg:dat:f	nazwa pospolita	indyw.
+źrennicy	źrennica	subst:sg:dat.loc:f	nazwa pospolita	indyw.
 źrennicy	źrennica	subst:sg:gen:f	nazwa pospolita	indyw.
-źrennicy	źrennica	subst:sg:loc:f	nazwa pospolita	indyw.
 źrennic	źrennica	subst:pl:gen:f	nazwa pospolita	indyw.
 źróbek	źróbek	subst:sg:nom:m2	nazwa pospolita	gwar.
 źróbkach	źróbek	subst:pl:loc:m2	nazwa pospolita	gwar.
@@ -1104,24 +1055,21 @@
 źróbka	źróbek	subst:sg:acc:m2	nazwa pospolita	gwar.
 źróbka	źróbek	subst:sg:gen:m2	nazwa pospolita	gwar.
 źróbkiem	źróbek	subst:sg:inst:m2	nazwa pospolita	gwar.
-źróbki	źróbek	subst:pl:acc:m2	nazwa pospolita	gwar.
-źróbki	źróbek	subst:pl:nom:m2	nazwa pospolita	gwar.
+źróbki	źróbek	subst:pl:nom.acc:m2	nazwa pospolita	gwar.
 źróbki	źróbek	subst:pl:voc:m2	nazwa pospolita	gwar.
 źróbkom	źróbek	subst:pl:dat:m2	nazwa pospolita	gwar.
 źróbkowi	źróbek	subst:sg:dat:m2	nazwa pospolita	gwar.
 źróbków	źróbek	subst:pl:gen:m2	nazwa pospolita	gwar.
 źróbku	źróbek	subst:sg:loc:m2	nazwa pospolita	gwar.
 źróbku	źróbek	subst:sg:voc:m2	nazwa pospolita	gwar.
-źróbce	źróbka	subst:sg:dat:f	nazwa pospolita	gwar.
-źróbce	źróbka	subst:sg:loc:f	nazwa pospolita	gwar.
+źróbce	źróbka	subst:sg:dat.loc:f	nazwa pospolita	gwar.
 źróbek	źróbka	subst:pl:gen:f	nazwa pospolita	gwar.
 źróbkach	źróbka	subst:pl:loc:f	nazwa pospolita	gwar.
 źróbkami	źróbka	subst:pl:inst:f	nazwa pospolita	gwar.
 źróbka	źróbka	subst:sg:nom:f	nazwa pospolita	gwar.
 źróbką	źróbka	subst:sg:inst:f	nazwa pospolita	gwar.
 źróbkę	źróbka	subst:sg:acc:f	nazwa pospolita	gwar.
-źróbki	źróbka	subst:pl:acc:f	nazwa pospolita	gwar.
-źróbki	źróbka	subst:pl:nom:f	nazwa pospolita	gwar.
+źróbki	źróbka	subst:pl:nom.acc:f	nazwa pospolita	gwar.
 źróbki	źróbka	subst:pl:voc:f	nazwa pospolita	gwar.
 źróbki	źróbka	subst:sg:gen:f	nazwa pospolita	gwar.
 źróbkom	źróbka	subst:pl:dat:f	nazwa pospolita	gwar.
@@ -1144,13 +1092,11 @@
 źródlanościami	źródlaność	subst:pl:inst:f	nazwa pospolita	
 źródlanością	źródlaność	subst:sg:inst:f	nazwa pospolita	
 źródlanościom	źródlaność	subst:pl:dat:f	nazwa pospolita	
-źródlaności	źródlaność	subst:pl:acc:f	nazwa pospolita	
 źródlaności	źródlaność	subst:pl:gen:f	nazwa pospolita	
-źródlaności	źródlaność	subst:pl:nom:f	nazwa pospolita	
+źródlaności	źródlaność	subst:pl:nom.acc:f	nazwa pospolita	
 źródlaności	źródlaność	subst:pl:voc:f	nazwa pospolita	
-źródlaności	źródlaność	subst:sg:dat:f	nazwa pospolita	
+źródlaności	źródlaność	subst:sg:dat.loc:f	nazwa pospolita	
 źródlaności	źródlaność	subst:sg:gen:f	nazwa pospolita	
-źródlaności	źródlaność	subst:sg:loc:f	nazwa pospolita	
 źródlaności	źródlaność	subst:sg:voc:f	nazwa pospolita	
 źródlaność	źródlaność	subst:sg:acc:f	nazwa pospolita	
 źródlaność	źródlaność	subst:sg:nom:f	nazwa pospolita	
@@ -1252,13 +1198,11 @@
 źródliskowościami	źródliskowość	subst:pl:inst:f	nazwa pospolita	
 źródliskowością	źródliskowość	subst:sg:inst:f	nazwa pospolita	
 źródliskowościom	źródliskowość	subst:pl:dat:f	nazwa pospolita	
-źródliskowości	źródliskowość	subst:pl:acc:f	nazwa pospolita	
 źródliskowości	źródliskowość	subst:pl:gen:f	nazwa pospolita	
-źródliskowości	źródliskowość	subst:pl:nom:f	nazwa pospolita	
+źródliskowości	źródliskowość	subst:pl:nom.acc:f	nazwa pospolita	
 źródliskowości	źródliskowość	subst:pl:voc:f	nazwa pospolita	
-źródliskowości	źródliskowość	subst:sg:dat:f	nazwa pospolita	
+źródliskowości	źródliskowość	subst:sg:dat.loc:f	nazwa pospolita	
 źródliskowości	źródliskowość	subst:sg:gen:f	nazwa pospolita	
-źródliskowości	źródliskowość	subst:sg:loc:f	nazwa pospolita	
 źródliskowości	źródliskowość	subst:sg:voc:f	nazwa pospolita	
 źródliskowość	źródliskowość	subst:sg:acc:f	nazwa pospolita	
 źródliskowość	źródliskowość	subst:sg:nom:f	nazwa pospolita	
@@ -1291,13 +1235,11 @@
 źródlistościami	źródlistość	subst:pl:inst:f	nazwa pospolita	przest.
 źródlistością	źródlistość	subst:sg:inst:f	nazwa pospolita	przest.
 źródlistościom	źródlistość	subst:pl:dat:f	nazwa pospolita	przest.
-źródlistości	źródlistość	subst:pl:acc:f	nazwa pospolita	przest.
 źródlistości	źródlistość	subst:pl:gen:f	nazwa pospolita	przest.
-źródlistości	źródlistość	subst:pl:nom:f	nazwa pospolita	przest.
+źródlistości	źródlistość	subst:pl:nom.acc:f	nazwa pospolita	przest.
 źródlistości	źródlistość	subst:pl:voc:f	nazwa pospolita	przest.
-źródlistości	źródlistość	subst:sg:dat:f	nazwa pospolita	przest.
+źródlistości	źródlistość	subst:sg:dat.loc:f	nazwa pospolita	przest.
 źródlistości	źródlistość	subst:sg:gen:f	nazwa pospolita	przest.
-źródlistości	źródlistość	subst:sg:loc:f	nazwa pospolita	przest.
 źródlistości	źródlistość	subst:sg:voc:f	nazwa pospolita	przest.
 źródlistość	źródlistość	subst:sg:acc:f	nazwa pospolita	przest.
 źródlistość	źródlistość	subst:sg:nom:f	nazwa pospolita	przest.
@@ -1349,12 +1291,8 @@
 źródłopisarza	źródłopisarz	subst:sg:gen:m1	nazwa pospolita	indyw.|rzad.
 źródłopisarzem	źródłopisarz	subst:sg:inst:m1	nazwa pospolita	indyw.
 źródłopisarzem	źródłopisarz	subst:sg:inst:m1	nazwa pospolita	indyw.|rzad.
-źródłopisarze	źródłopisarz	depr:pl:acc:m2	nazwa pospolita	indyw.
-źródłopisarze	źródłopisarz	depr:pl:acc:m2	nazwa pospolita	indyw.|rzad.
-źródłopisarze	źródłopisarz	depr:pl:nom:m2	nazwa pospolita	indyw.
-źródłopisarze	źródłopisarz	depr:pl:nom:m2	nazwa pospolita	indyw.|rzad.
-źródłopisarze	źródłopisarz	depr:pl:voc:m2	nazwa pospolita	indyw.
-źródłopisarze	źródłopisarz	depr:pl:voc:m2	nazwa pospolita	indyw.|rzad.
+źródłopisarze	źródłopisarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	indyw.
+źródłopisarze	źródłopisarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	indyw.|rzad.
 źródłopisarze	źródłopisarz	subst:pl:nom:m1	nazwa pospolita	indyw.
 źródłopisarze	źródłopisarz	subst:pl:nom:m1	nazwa pospolita	indyw.|rzad.
 źródłopisarze	źródłopisarz	subst:pl:voc:m1	nazwa pospolita	indyw.
@@ -1377,13 +1315,11 @@
 źródłosłownościami	źródłosłowność	subst:pl:inst:f	nazwa pospolita	przest.
 źródłosłownością	źródłosłowność	subst:sg:inst:f	nazwa pospolita	przest.
 źródłosłownościom	źródłosłowność	subst:pl:dat:f	nazwa pospolita	przest.
-źródłosłowności	źródłosłowność	subst:pl:acc:f	nazwa pospolita	przest.
 źródłosłowności	źródłosłowność	subst:pl:gen:f	nazwa pospolita	przest.
-źródłosłowności	źródłosłowność	subst:pl:nom:f	nazwa pospolita	przest.
+źródłosłowności	źródłosłowność	subst:pl:nom.acc:f	nazwa pospolita	przest.
 źródłosłowności	źródłosłowność	subst:pl:voc:f	nazwa pospolita	przest.
-źródłosłowności	źródłosłowność	subst:sg:dat:f	nazwa pospolita	przest.
+źródłosłowności	źródłosłowność	subst:sg:dat.loc:f	nazwa pospolita	przest.
 źródłosłowności	źródłosłowność	subst:sg:gen:f	nazwa pospolita	przest.
-źródłosłowności	źródłosłowność	subst:sg:loc:f	nazwa pospolita	przest.
 źródłosłowności	źródłosłowność	subst:sg:voc:f	nazwa pospolita	przest.
 źródłosłowność	źródłosłowność	subst:sg:acc:f	nazwa pospolita	przest.
 źródłosłowność	źródłosłowność	subst:sg:nom:f	nazwa pospolita	przest.
@@ -1415,13 +1351,11 @@
 źródłosłowościami	źródłosłowość	subst:pl:inst:f	nazwa pospolita	daw.
 źródłosłowością	źródłosłowość	subst:sg:inst:f	nazwa pospolita	daw.
 źródłosłowościom	źródłosłowość	subst:pl:dat:f	nazwa pospolita	daw.
-źródłosłowości	źródłosłowość	subst:pl:acc:f	nazwa pospolita	daw.
 źródłosłowości	źródłosłowość	subst:pl:gen:f	nazwa pospolita	daw.
-źródłosłowości	źródłosłowość	subst:pl:nom:f	nazwa pospolita	daw.
+źródłosłowości	źródłosłowość	subst:pl:nom.acc:f	nazwa pospolita	daw.
 źródłosłowości	źródłosłowość	subst:pl:voc:f	nazwa pospolita	daw.
-źródłosłowości	źródłosłowość	subst:sg:dat:f	nazwa pospolita	daw.
+źródłosłowości	źródłosłowość	subst:sg:dat.loc:f	nazwa pospolita	daw.
 źródłosłowości	źródłosłowość	subst:sg:gen:f	nazwa pospolita	daw.
-źródłosłowości	źródłosłowość	subst:sg:loc:f	nazwa pospolita	daw.
 źródłosłowości	źródłosłowość	subst:sg:voc:f	nazwa pospolita	daw.
 źródłosłowość	źródłosłowość	subst:sg:acc:f	nazwa pospolita	daw.
 źródłosłowość	źródłosłowość	subst:sg:nom:f	nazwa pospolita	daw.
@@ -1458,8 +1392,7 @@
 źródłosłowowi	źródłosłów	subst:sg:dat:m3	nazwa pospolita	przest._dziś_książk.
 źródłosłowów	źródłosłów	subst:pl:gen:m3	nazwa pospolita	przest._dziś_książk.
 źródłosłowu	źródłosłów	subst:sg:gen:m3	nazwa pospolita	przest._dziś_książk.
-źródłosłowy	źródłosłów	subst:pl:acc:m3	nazwa pospolita	przest._dziś_książk.
-źródłosłowy	źródłosłów	subst:pl:nom:m3	nazwa pospolita	przest._dziś_książk.
+źródłosłowy	źródłosłów	subst:pl:nom.acc:m3	nazwa pospolita	przest._dziś_książk.
 źródłosłowy	źródłosłów	subst:pl:voc:m3	nazwa pospolita	przest._dziś_książk.
 źródłosłów	źródłosłów	subst:sg:acc:m3	nazwa pospolita	przest._dziś_książk.
 źródłosłów	źródłosłów	subst:sg:nom:m3	nazwa pospolita	przest._dziś_książk.
@@ -1482,13 +1415,11 @@
 źródłowościami	źródłowość	subst:pl:inst:f	nazwa pospolita	
 źródłowością	źródłowość	subst:sg:inst:f	nazwa pospolita	
 źródłowościom	źródłowość	subst:pl:dat:f	nazwa pospolita	
-źródłowości	źródłowość	subst:pl:acc:f	nazwa pospolita	
 źródłowości	źródłowość	subst:pl:gen:f	nazwa pospolita	
-źródłowości	źródłowość	subst:pl:nom:f	nazwa pospolita	
+źródłowości	źródłowość	subst:pl:nom.acc:f	nazwa pospolita	
 źródłowości	źródłowość	subst:pl:voc:f	nazwa pospolita	
-źródłowości	źródłowość	subst:sg:dat:f	nazwa pospolita	
+źródłowości	źródłowość	subst:sg:dat.loc:f	nazwa pospolita	
 źródłowości	źródłowość	subst:sg:gen:f	nazwa pospolita	
-źródłowości	źródłowość	subst:sg:loc:f	nazwa pospolita	
 źródłowości	źródłowość	subst:sg:voc:f	nazwa pospolita	
 źródłowość	źródłowość	subst:sg:acc:f	nazwa pospolita	
 źródłowość	źródłowość	subst:sg:nom:f	nazwa pospolita	
@@ -1520,13 +1451,11 @@
 źródłoznawczościami	źródłoznawczość	subst:pl:inst:f	nazwa pospolita	
 źródłoznawczością	źródłoznawczość	subst:sg:inst:f	nazwa pospolita	
 źródłoznawczościom	źródłoznawczość	subst:pl:dat:f	nazwa pospolita	
-źródłoznawczości	źródłoznawczość	subst:pl:acc:f	nazwa pospolita	
 źródłoznawczości	źródłoznawczość	subst:pl:gen:f	nazwa pospolita	
-źródłoznawczości	źródłoznawczość	subst:pl:nom:f	nazwa pospolita	
+źródłoznawczości	źródłoznawczość	subst:pl:nom.acc:f	nazwa pospolita	
 źródłoznawczości	źródłoznawczość	subst:pl:voc:f	nazwa pospolita	
-źródłoznawczości	źródłoznawczość	subst:sg:dat:f	nazwa pospolita	
+źródłoznawczości	źródłoznawczość	subst:sg:dat.loc:f	nazwa pospolita	
 źródłoznawczości	źródłoznawczość	subst:sg:gen:f	nazwa pospolita	
-źródłoznawczości	źródłoznawczość	subst:sg:loc:f	nazwa pospolita	
 źródłoznawczości	źródłoznawczość	subst:sg:voc:f	nazwa pospolita	
 źródłoznawczość	źródłoznawczość	subst:sg:acc:f	nazwa pospolita	
 źródłoznawczość	źródłoznawczość	subst:sg:nom:f	nazwa pospolita	
@@ -1572,13 +1501,11 @@
 źrzałościami	źrzałość	subst:pl:inst:f	nazwa pospolita	daw.
 źrzałością	źrzałość	subst:sg:inst:f	nazwa pospolita	daw.
 źrzałościom	źrzałość	subst:pl:dat:f	nazwa pospolita	daw.
-źrzałości	źrzałość	subst:pl:acc:f	nazwa pospolita	daw.
 źrzałości	źrzałość	subst:pl:gen:f	nazwa pospolita	daw.
-źrzałości	źrzałość	subst:pl:nom:f	nazwa pospolita	daw.
+źrzałości	źrzałość	subst:pl:nom.acc:f	nazwa pospolita	daw.
 źrzałości	źrzałość	subst:pl:voc:f	nazwa pospolita	daw.
-źrzałości	źrzałość	subst:sg:dat:f	nazwa pospolita	daw.
+źrzałości	źrzałość	subst:sg:dat.loc:f	nazwa pospolita	daw.
 źrzałości	źrzałość	subst:sg:gen:f	nazwa pospolita	daw.
-źrzałości	źrzałość	subst:sg:loc:f	nazwa pospolita	daw.
 źrzałości	źrzałość	subst:sg:voc:f	nazwa pospolita	daw.
 źrzałość	źrzałość	subst:sg:acc:f	nazwa pospolita	daw.
 źrzałość	źrzałość	subst:sg:nom:f	nazwa pospolita	daw.
@@ -1639,8 +1566,7 @@
 źrzebowi	źrzeb	subst:sg:dat:m3	nazwa pospolita	hist.
 źrzebów	źrzeb	subst:pl:gen:m3	nazwa pospolita	hist.
 źrzebu	źrzeb	subst:sg:gen:m3	nazwa pospolita	hist.
-źrzeby	źrzeb	subst:pl:acc:m3	nazwa pospolita	hist.
-źrzeby	źrzeb	subst:pl:nom:m3	nazwa pospolita	hist.
+źrzeby	źrzeb	subst:pl:nom.acc:m3	nazwa pospolita	hist.
 źrzeby	źrzeb	subst:pl:voc:m3	nazwa pospolita	hist.
 źrzeb	źrzeb	subst:sg:acc:m3	nazwa pospolita	hist.
 źrzeb	źrzeb	subst:sg:nom:m3	nazwa pospolita	hist.
@@ -1735,15 +1661,13 @@
 źrzenicami	źrzenica	subst:pl:inst:f	nazwa pospolita	daw.
 źrzenica	źrzenica	subst:sg:nom:f	nazwa pospolita	daw.
 źrzenicą	źrzenica	subst:sg:inst:f	nazwa pospolita	daw.
-źrzenice	źrzenica	subst:pl:acc:f	nazwa pospolita	daw.
-źrzenice	źrzenica	subst:pl:nom:f	nazwa pospolita	daw.
+źrzenice	źrzenica	subst:pl:nom.acc:f	nazwa pospolita	daw.
 źrzenice	źrzenica	subst:pl:voc:f	nazwa pospolita	daw.
 źrzenicę	źrzenica	subst:sg:acc:f	nazwa pospolita	daw.
 źrzenicom	źrzenica	subst:pl:dat:f	nazwa pospolita	daw.
 źrzenico	źrzenica	subst:sg:voc:f	nazwa pospolita	daw.
-źrzenicy	źrzenica	subst:sg:dat:f	nazwa pospolita	daw.
+źrzenicy	źrzenica	subst:sg:dat.loc:f	nazwa pospolita	daw.
 źrzenicy	źrzenica	subst:sg:gen:f	nazwa pospolita	daw.
-źrzenicy	źrzenica	subst:sg:loc:f	nazwa pospolita	daw.
 źrzenic	źrzenica	subst:pl:gen:f	nazwa pospolita	daw.
 źrzódeł	źrzódło	subst:pl:gen:n:ncol	nazwa pospolita	daw.
 źrzódle	źrzódło	subst:sg:loc:n:ncol	nazwa pospolita	daw.
@@ -1763,13 +1687,11 @@
 źrzódłowościami	źrzódłowość	subst:pl:inst:f	nazwa pospolita	daw.
 źrzódłowością	źrzódłowość	subst:sg:inst:f	nazwa pospolita	daw.
 źrzódłowościom	źrzódłowość	subst:pl:dat:f	nazwa pospolita	daw.
-źrzódłowości	źrzódłowość	subst:pl:acc:f	nazwa pospolita	daw.
 źrzódłowości	źrzódłowość	subst:pl:gen:f	nazwa pospolita	daw.
-źrzódłowości	źrzódłowość	subst:pl:nom:f	nazwa pospolita	daw.
+źrzódłowości	źrzódłowość	subst:pl:nom.acc:f	nazwa pospolita	daw.
 źrzódłowości	źrzódłowość	subst:pl:voc:f	nazwa pospolita	daw.
-źrzódłowości	źrzódłowość	subst:sg:dat:f	nazwa pospolita	daw.
+źrzódłowości	źrzódłowość	subst:sg:dat.loc:f	nazwa pospolita	daw.
 źrzódłowości	źrzódłowość	subst:sg:gen:f	nazwa pospolita	daw.
-źrzódłowości	źrzódłowość	subst:sg:loc:f	nazwa pospolita	daw.
 źrzódłowości	źrzódłowość	subst:sg:voc:f	nazwa pospolita	daw.
 źrzódłowość	źrzódłowość	subst:sg:acc:f	nazwa pospolita	daw.
 źrzódłowość	źrzódłowość	subst:sg:nom:f	nazwa pospolita	daw.
@@ -1815,13 +1737,11 @@
 źwierciadlanościami	źwierciadlaność	subst:pl:inst:f	nazwa pospolita	daw.
 źwierciadlanością	źwierciadlaność	subst:sg:inst:f	nazwa pospolita	daw.
 źwierciadlanościom	źwierciadlaność	subst:pl:dat:f	nazwa pospolita	daw.
-źwierciadlaności	źwierciadlaność	subst:pl:acc:f	nazwa pospolita	daw.
 źwierciadlaności	źwierciadlaność	subst:pl:gen:f	nazwa pospolita	daw.
-źwierciadlaności	źwierciadlaność	subst:pl:nom:f	nazwa pospolita	daw.
+źwierciadlaności	źwierciadlaność	subst:pl:nom.acc:f	nazwa pospolita	daw.
 źwierciadlaności	źwierciadlaność	subst:pl:voc:f	nazwa pospolita	daw.
-źwierciadlaności	źwierciadlaność	subst:sg:dat:f	nazwa pospolita	daw.
+źwierciadlaności	źwierciadlaność	subst:sg:dat.loc:f	nazwa pospolita	daw.
 źwierciadlaności	źwierciadlaność	subst:sg:gen:f	nazwa pospolita	daw.
-źwierciadlaności	źwierciadlaność	subst:sg:loc:f	nazwa pospolita	daw.
 źwierciadlaności	źwierciadlaność	subst:sg:voc:f	nazwa pospolita	daw.
 źwierciadlaność	źwierciadlaność	subst:sg:acc:f	nazwa pospolita	daw.
 źwierciadlaność	źwierciadlaność	subst:sg:nom:f	nazwa pospolita	daw.
@@ -1873,10 +1793,8 @@
 źwierza	źwierz	subst:sg:gen:m2	nazwa pospolita	daw.|rzad.
 źwierzem	źwierz	subst:sg:inst:m2	nazwa pospolita	daw.
 źwierzem	źwierz	subst:sg:inst:m2	nazwa pospolita	daw.|rzad.
-źwierze	źwierz	subst:pl:acc:m2	nazwa pospolita	daw.
-źwierze	źwierz	subst:pl:acc:m2	nazwa pospolita	daw.|rzad.
-źwierze	źwierz	subst:pl:nom:m2	nazwa pospolita	daw.
-źwierze	źwierz	subst:pl:nom:m2	nazwa pospolita	daw.|rzad.
+źwierze	źwierz	subst:pl:nom.acc:m2	nazwa pospolita	daw.
+źwierze	źwierz	subst:pl:nom.acc:m2	nazwa pospolita	daw.|rzad.
 źwierze	źwierz	subst:pl:voc:m2	nazwa pospolita	daw.
 źwierze	źwierz	subst:pl:voc:m2	nazwa pospolita	daw.|rzad.
 źwierzom	źwierz	subst:pl:dat:m2	nazwa pospolita	daw.
@@ -1909,13 +1827,11 @@
 źwierzęcościami	źwierzęcość	subst:pl:inst:f	nazwa pospolita	daw.
 źwierzęcością	źwierzęcość	subst:sg:inst:f	nazwa pospolita	daw.
 źwierzęcościom	źwierzęcość	subst:pl:dat:f	nazwa pospolita	daw.
-źwierzęcości	źwierzęcość	subst:pl:acc:f	nazwa pospolita	daw.
 źwierzęcości	źwierzęcość	subst:pl:gen:f	nazwa pospolita	daw.
-źwierzęcości	źwierzęcość	subst:pl:nom:f	nazwa pospolita	daw.
+źwierzęcości	źwierzęcość	subst:pl:nom.acc:f	nazwa pospolita	daw.
 źwierzęcości	źwierzęcość	subst:pl:voc:f	nazwa pospolita	daw.
-źwierzęcości	źwierzęcość	subst:sg:dat:f	nazwa pospolita	daw.
+źwierzęcości	źwierzęcość	subst:sg:dat.loc:f	nazwa pospolita	daw.
 źwierzęcości	źwierzęcość	subst:sg:gen:f	nazwa pospolita	daw.
-źwierzęcości	źwierzęcość	subst:sg:loc:f	nazwa pospolita	daw.
 źwierzęcości	źwierzęcość	subst:sg:voc:f	nazwa pospolita	daw.
 źwierzęcość	źwierzęcość	subst:sg:acc:f	nazwa pospolita	daw.
 źwierzęcość	źwierzęcość	subst:sg:nom:f	nazwa pospolita	daw.
@@ -1948,12 +1864,10 @@
 źwierzyna	źwierzyna	subst:sg:nom:f	nazwa pospolita	daw.
 źwierzyną	źwierzyna	subst:sg:inst:f	nazwa pospolita	daw.
 źwierzynę	źwierzyna	subst:sg:acc:f	nazwa pospolita	daw.
-źwierzynie	źwierzyna	subst:sg:dat:f	nazwa pospolita	daw.
-źwierzynie	źwierzyna	subst:sg:loc:f	nazwa pospolita	daw.
+źwierzynie	źwierzyna	subst:sg:dat.loc:f	nazwa pospolita	daw.
 źwierzynom	źwierzyna	subst:pl:dat:f	nazwa pospolita	daw.
 źwierzyno	źwierzyna	subst:sg:voc:f	nazwa pospolita	daw.
-źwierzyny	źwierzyna	subst:pl:acc:f	nazwa pospolita	daw.
-źwierzyny	źwierzyna	subst:pl:nom:f	nazwa pospolita	daw.
+źwierzyny	źwierzyna	subst:pl:nom.acc:f	nazwa pospolita	daw.
 źwierzyny	źwierzyna	subst:pl:voc:f	nazwa pospolita	daw.
 źwierzyny	źwierzyna	subst:sg:gen:f	nazwa pospolita	daw.
 źwierzyn	źwierzyna	subst:pl:gen:f	nazwa pospolita	daw.
@@ -1963,8 +1877,7 @@
 źwierzyńcami	źwierzyniec	subst:pl:inst:m3	nazwa pospolita	daw.
 źwierzyńca	źwierzyniec	subst:sg:gen:m3	nazwa pospolita	daw.
 źwierzyńcem	źwierzyniec	subst:sg:inst:m3	nazwa pospolita	daw.
-źwierzyńce	źwierzyniec	subst:pl:acc:m3	nazwa pospolita	daw.
-źwierzyńce	źwierzyniec	subst:pl:nom:m3	nazwa pospolita	daw.
+źwierzyńce	źwierzyniec	subst:pl:nom.acc:m3	nazwa pospolita	daw.
 źwierzyńce	źwierzyniec	subst:pl:voc:m3	nazwa pospolita	daw.
 źwierzyńcom	źwierzyniec	subst:pl:dat:m3	nazwa pospolita	daw.
 źwierzyńcowi	źwierzyniec	subst:sg:dat:m3	nazwa pospolita	daw.

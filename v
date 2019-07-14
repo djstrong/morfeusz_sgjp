@@ -9,23 +9,9 @@ vacatów	vacat	subst:pl:gen:m3	nazwa pospolita
 vacatu	vacat	subst:sg:gen:m3	nazwa pospolita	
 vacat	vacat	subst:sg:acc:m3	nazwa pospolita	
 vacat	vacat	subst:sg:nom:m3	nazwa pospolita	
-vacaty	vacat	subst:pl:acc:m3	nazwa pospolita	
-vacaty	vacat	subst:pl:nom:m3	nazwa pospolita	
+vacaty	vacat	subst:pl:nom.acc:m3	nazwa pospolita	
 vacaty	vacat	subst:pl:voc:m3	nazwa pospolita	
-vacherin	vacherin	subst:pl:acc:m3	nazwa pospolita	
-vacherin	vacherin	subst:pl:dat:m3	nazwa pospolita	
-vacherin	vacherin	subst:pl:gen:m3	nazwa pospolita	
-vacherin	vacherin	subst:pl:inst:m3	nazwa pospolita	
-vacherin	vacherin	subst:pl:loc:m3	nazwa pospolita	
-vacherin	vacherin	subst:pl:nom:m3	nazwa pospolita	
-vacherin	vacherin	subst:pl:voc:m3	nazwa pospolita	
-vacherin	vacherin	subst:sg:acc:m3	nazwa pospolita	
-vacherin	vacherin	subst:sg:dat:m3	nazwa pospolita	
-vacherin	vacherin	subst:sg:gen:m3	nazwa pospolita	
-vacherin	vacherin	subst:sg:inst:m3	nazwa pospolita	
-vacherin	vacherin	subst:sg:loc:m3	nazwa pospolita	
-vacherin	vacherin	subst:sg:nom:m3	nazwa pospolita	
-vacherin	vacherin	subst:sg:voc:m3	nazwa pospolita	
+vacherin	vacherin	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
 vademecach	vademecum	subst:pl:loc:n:ncol	nazwa pospolita	
 vademecami	vademecum	subst:pl:inst:n:ncol	nazwa pospolita	
 vademeca	vademecum	subst:pl:acc:n:ncol	nazwa pospolita	
@@ -44,14 +30,12 @@ valpolicellach	valpolicella	subst:pl:loc:f	nazwa pospolita
 valpolicellami	valpolicella	subst:pl:inst:f	nazwa pospolita	
 valpolicella	valpolicella	subst:sg:nom:f	nazwa pospolita	
 valpolicellą	valpolicella	subst:sg:inst:f	nazwa pospolita	
-valpolicelle	valpolicella	subst:pl:acc:f	nazwa pospolita	
-valpolicelle	valpolicella	subst:pl:nom:f	nazwa pospolita	
+valpolicelle	valpolicella	subst:pl:nom.acc:f	nazwa pospolita	
 valpolicelle	valpolicella	subst:pl:voc:f	nazwa pospolita	
 valpolicellę	valpolicella	subst:sg:acc:f	nazwa pospolita	
 valpolicelli	valpolicella	subst:pl:gen:f	nazwa pospolita	
-valpolicelli	valpolicella	subst:sg:dat:f	nazwa pospolita	
+valpolicelli	valpolicella	subst:sg:dat.loc:f	nazwa pospolita	
 valpolicelli	valpolicella	subst:sg:gen:f	nazwa pospolita	
-valpolicelli	valpolicella	subst:sg:loc:f	nazwa pospolita	
 valpolicellom	valpolicella	subst:pl:dat:f	nazwa pospolita	
 valpolicello	valpolicella	subst:sg:voc:f	nazwa pospolita	
 van	van:b	burk		
@@ -66,23 +50,9 @@ vanom	van:s	subst:pl:dat:m2	nazwa pospolita
 vanowi	van:s	subst:sg:dat:m2	nazwa pospolita	
 vanów	van:s	subst:pl:gen:m2	nazwa pospolita	
 van	van:s	subst:sg:nom:m2	nazwa pospolita	
-vany	van:s	subst:pl:acc:m2	nazwa pospolita	
-vany	van:s	subst:pl:nom:m2	nazwa pospolita	
+vany	van:s	subst:pl:nom.acc:m2	nazwa pospolita	
 vany	van:s	subst:pl:voc:m2	nazwa pospolita	
-vaporetto	vaporetto	subst:pl:acc:n:ncol	nazwa pospolita	
-vaporetto	vaporetto	subst:pl:dat:n:ncol	nazwa pospolita	
-vaporetto	vaporetto	subst:pl:gen:n:ncol	nazwa pospolita	
-vaporetto	vaporetto	subst:pl:inst:n:ncol	nazwa pospolita	
-vaporetto	vaporetto	subst:pl:loc:n:ncol	nazwa pospolita	
-vaporetto	vaporetto	subst:pl:nom:n:ncol	nazwa pospolita	
-vaporetto	vaporetto	subst:pl:voc:n:ncol	nazwa pospolita	
-vaporetto	vaporetto	subst:sg:acc:n:ncol	nazwa pospolita	
-vaporetto	vaporetto	subst:sg:dat:n:ncol	nazwa pospolita	
-vaporetto	vaporetto	subst:sg:gen:n:ncol	nazwa pospolita	
-vaporetto	vaporetto	subst:sg:inst:n:ncol	nazwa pospolita	
-vaporetto	vaporetto	subst:sg:loc:n:ncol	nazwa pospolita	
-vaporetto	vaporetto	subst:sg:nom:n:ncol	nazwa pospolita	
-vaporetto	vaporetto	subst:sg:voc:n:ncol	nazwa pospolita	
+vaporetto	vaporetto	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 variach	varia	subst:pl:loc:n:pt	nazwa pospolita	książk.
 variami	varia	subst:pl:inst:n:pt	nazwa pospolita	książk.
 varia	varia	subst:pl:acc:n:pt	nazwa pospolita	książk.
@@ -90,34 +60,8 @@ varia	varia	subst:pl:nom:n:pt	nazwa pospolita	książk.
 varia	varia	subst:pl:voc:n:pt	nazwa pospolita	książk.
 variom	varia	subst:pl:dat:n:pt	nazwa pospolita	książk.
 variów	varia	subst:pl:gen:n:pt	nazwa pospolita	książk.
-varietes	varietes	subst:pl:acc:n:ncol	nazwa pospolita	
-varietes	varietes	subst:pl:dat:n:ncol	nazwa pospolita	
-varietes	varietes	subst:pl:gen:n:ncol	nazwa pospolita	
-varietes	varietes	subst:pl:inst:n:ncol	nazwa pospolita	
-varietes	varietes	subst:pl:loc:n:ncol	nazwa pospolita	
-varietes	varietes	subst:pl:nom:n:ncol	nazwa pospolita	
-varietes	varietes	subst:pl:voc:n:ncol	nazwa pospolita	
-varietes	varietes	subst:sg:acc:n:ncol	nazwa pospolita	
-varietes	varietes	subst:sg:dat:n:ncol	nazwa pospolita	
-varietes	varietes	subst:sg:gen:n:ncol	nazwa pospolita	
-varietes	varietes	subst:sg:inst:n:ncol	nazwa pospolita	
-varietes	varietes	subst:sg:loc:n:ncol	nazwa pospolita	
-varietes	varietes	subst:sg:nom:n:ncol	nazwa pospolita	
-varietes	varietes	subst:sg:voc:n:ncol	nazwa pospolita	
-variétés	variétés	subst:pl:acc:n:ncol	nazwa pospolita	
-variétés	variétés	subst:pl:dat:n:ncol	nazwa pospolita	
-variétés	variétés	subst:pl:gen:n:ncol	nazwa pospolita	
-variétés	variétés	subst:pl:inst:n:ncol	nazwa pospolita	
-variétés	variétés	subst:pl:loc:n:ncol	nazwa pospolita	
-variétés	variétés	subst:pl:nom:n:ncol	nazwa pospolita	
-variétés	variétés	subst:pl:voc:n:ncol	nazwa pospolita	
-variétés	variétés	subst:sg:acc:n:ncol	nazwa pospolita	
-variétés	variétés	subst:sg:dat:n:ncol	nazwa pospolita	
-variétés	variétés	subst:sg:gen:n:ncol	nazwa pospolita	
-variétés	variétés	subst:sg:inst:n:ncol	nazwa pospolita	
-variétés	variétés	subst:sg:loc:n:ncol	nazwa pospolita	
-variétés	variétés	subst:sg:nom:n:ncol	nazwa pospolita	
-variétés	variétés	subst:sg:voc:n:ncol	nazwa pospolita	
+varietes	varietes	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
+variétés	variétés	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 varsavianach	varsaviana	subst:pl:loc:n:pt	nazwa pospolita	
 varsavianami	varsaviana	subst:pl:inst:n:pt	nazwa pospolita	
 varsaviana	varsaviana	subst:pl:acc:n:pt	nazwa pospolita	
@@ -134,37 +78,30 @@ varsavianistom	varsavianista	subst:pl:dat:m1	nazwa pospolita
 varsavianisto	varsavianista	subst:sg:voc:m1	nazwa pospolita	
 varsavianistów	varsavianista	subst:pl:acc:m1	nazwa pospolita	
 varsavianistów	varsavianista	subst:pl:gen:m1	nazwa pospolita	
-varsavianisty	varsavianista	depr:pl:acc:m2	nazwa pospolita	
-varsavianisty	varsavianista	depr:pl:nom:m2	nazwa pospolita	
-varsavianisty	varsavianista	depr:pl:voc:m2	nazwa pospolita	
+varsavianisty	varsavianista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 varsavianisty	varsavianista	subst:sg:gen:m1	nazwa pospolita	
-varsavianiście	varsavianista	subst:sg:dat:m1	nazwa pospolita	
-varsavianiście	varsavianista	subst:sg:loc:m1	nazwa pospolita	
+varsavianiście	varsavianista	subst:sg:dat.loc:m1	nazwa pospolita	
 varsavianiści	varsavianista	subst:pl:nom:m1	nazwa pospolita	
 varsavianiści	varsavianista	subst:pl:voc:m1	nazwa pospolita	
-varsavianistce	varsavianistka	subst:sg:dat:f	nazwa pospolita	
-varsavianistce	varsavianistka	subst:sg:loc:f	nazwa pospolita	
+varsavianistce	varsavianistka	subst:sg:dat.loc:f	nazwa pospolita	
 varsavianistek	varsavianistka	subst:pl:gen:f	nazwa pospolita	
 varsavianistkach	varsavianistka	subst:pl:loc:f	nazwa pospolita	
 varsavianistkami	varsavianistka	subst:pl:inst:f	nazwa pospolita	
 varsavianistka	varsavianistka	subst:sg:nom:f	nazwa pospolita	
 varsavianistką	varsavianistka	subst:sg:inst:f	nazwa pospolita	
 varsavianistkę	varsavianistka	subst:sg:acc:f	nazwa pospolita	
-varsavianistki	varsavianistka	subst:pl:acc:f	nazwa pospolita	
-varsavianistki	varsavianistka	subst:pl:nom:f	nazwa pospolita	
+varsavianistki	varsavianistka	subst:pl:nom.acc:f	nazwa pospolita	
 varsavianistki	varsavianistka	subst:pl:voc:f	nazwa pospolita	
 varsavianistki	varsavianistka	subst:sg:gen:f	nazwa pospolita	
 varsavianistkom	varsavianistka	subst:pl:dat:f	nazwa pospolita	
 varsavianistko	varsavianistka	subst:sg:voc:f	nazwa pospolita	
-varsavianistyce	varsavianistyka	subst:sg:dat:f	nazwa pospolita	
-varsavianistyce	varsavianistyka	subst:sg:loc:f	nazwa pospolita	
+varsavianistyce	varsavianistyka	subst:sg:dat.loc:f	nazwa pospolita	
 varsavianistykach	varsavianistyka	subst:pl:loc:f	nazwa pospolita	
 varsavianistykami	varsavianistyka	subst:pl:inst:f	nazwa pospolita	
 varsavianistyka	varsavianistyka	subst:sg:nom:f	nazwa pospolita	
 varsavianistyką	varsavianistyka	subst:sg:inst:f	nazwa pospolita	
 varsavianistykę	varsavianistyka	subst:sg:acc:f	nazwa pospolita	
-varsavianistyki	varsavianistyka	subst:pl:acc:f	nazwa pospolita	
-varsavianistyki	varsavianistyka	subst:pl:nom:f	nazwa pospolita	
+varsavianistyki	varsavianistyka	subst:pl:nom.acc:f	nazwa pospolita	
 varsavianistyki	varsavianistyka	subst:pl:voc:f	nazwa pospolita	
 varsavianistyki	varsavianistyka	subst:sg:gen:f	nazwa pospolita	
 varsavianistykom	varsavianistyka	subst:pl:dat:f	nazwa pospolita	
@@ -179,8 +116,7 @@ vatermörderów	vatermörder	subst:pl:gen:m3	nazwa pospolita	daw.
 vatermörderu	vatermörder	subst:sg:gen:m3	nazwa pospolita	daw.
 vatermörder	vatermörder	subst:sg:acc:m3	nazwa pospolita	daw.
 vatermörder	vatermörder	subst:sg:nom:m3	nazwa pospolita	daw.
-vatermördery	vatermörder	subst:pl:acc:m3	nazwa pospolita	daw.
-vatermördery	vatermörder	subst:pl:nom:m3	nazwa pospolita	daw.
+vatermördery	vatermörder	subst:pl:nom.acc:m3	nazwa pospolita	daw.
 vatermördery	vatermörder	subst:pl:voc:m3	nazwa pospolita	daw.
 vatermörderze	vatermörder	subst:sg:loc:m3	nazwa pospolita	daw.
 vatermörderze	vatermörder	subst:sg:voc:m3	nazwa pospolita	daw.
@@ -189,9 +125,7 @@ vatowcami	vatowiec	subst:pl:inst:m1	nazwa pospolita
 vatowca	vatowiec	subst:sg:acc:m1	nazwa pospolita	
 vatowca	vatowiec	subst:sg:gen:m1	nazwa pospolita	
 vatowcem	vatowiec	subst:sg:inst:m1	nazwa pospolita	
-vatowce	vatowiec	depr:pl:acc:m2	nazwa pospolita	
-vatowce	vatowiec	depr:pl:nom:m2	nazwa pospolita	
-vatowce	vatowiec	depr:pl:voc:m2	nazwa pospolita	
+vatowce	vatowiec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 vatowcom	vatowiec	subst:pl:dat:m1	nazwa pospolita	
 vatowcowi	vatowiec	subst:sg:dat:m1	nazwa pospolita	
 vatowców	vatowiec	subst:pl:acc:m1	nazwa pospolita	
@@ -232,13 +166,11 @@ vatowskościach	vatowskość	subst:pl:loc:f	nazwa pospolita
 vatowskościami	vatowskość	subst:pl:inst:f	nazwa pospolita	
 vatowskością	vatowskość	subst:sg:inst:f	nazwa pospolita	
 vatowskościom	vatowskość	subst:pl:dat:f	nazwa pospolita	
-vatowskości	vatowskość	subst:pl:acc:f	nazwa pospolita	
 vatowskości	vatowskość	subst:pl:gen:f	nazwa pospolita	
-vatowskości	vatowskość	subst:pl:nom:f	nazwa pospolita	
+vatowskości	vatowskość	subst:pl:nom.acc:f	nazwa pospolita	
 vatowskości	vatowskość	subst:pl:voc:f	nazwa pospolita	
-vatowskości	vatowskość	subst:sg:dat:f	nazwa pospolita	
+vatowskości	vatowskość	subst:sg:dat.loc:f	nazwa pospolita	
 vatowskości	vatowskość	subst:sg:gen:f	nazwa pospolita	
-vatowskości	vatowskość	subst:sg:loc:f	nazwa pospolita	
 vatowskości	vatowskość	subst:sg:voc:f	nazwa pospolita	
 vatowskość	vatowskość	subst:sg:acc:f	nazwa pospolita	
 vatowskość	vatowskość	subst:sg:nom:f	nazwa pospolita	
@@ -250,14 +182,11 @@ vectrę	vectra	subst:sg:acc:f	nazwa pospolita
 vectrom	vectra	subst:pl:dat:f	nazwa pospolita	
 vectro	vectra	subst:sg:voc:f	nazwa pospolita	
 vectr	vectra	subst:pl:gen:f	nazwa pospolita	
-vectry	vectra	subst:pl:acc:f	nazwa pospolita	
-vectry	vectra	subst:pl:nom:f	nazwa pospolita	
+vectry	vectra	subst:pl:nom.acc:f	nazwa pospolita	
 vectry	vectra	subst:pl:voc:f	nazwa pospolita	
 vectry	vectra	subst:sg:gen:f	nazwa pospolita	
-vectrze	vectra	subst:sg:dat:f	nazwa pospolita	
-vectrze	vectra	subst:sg:loc:f	nazwa pospolita	
-vedetcie	vedetta	subst:sg:dat:f	nazwa pospolita	
-vedetcie	vedetta	subst:sg:loc:f	nazwa pospolita	
+vectrze	vectra	subst:sg:dat.loc:f	nazwa pospolita	
+vedetcie	vedetta	subst:sg:dat.loc:f	nazwa pospolita	
 vedettach	vedetta	subst:pl:loc:f	nazwa pospolita	
 vedettami	vedetta	subst:pl:inst:f	nazwa pospolita	
 vedetta	vedetta	subst:sg:nom:f	nazwa pospolita	
@@ -266,8 +195,7 @@ vedettę	vedetta	subst:sg:acc:f	nazwa pospolita
 vedettom	vedetta	subst:pl:dat:f	nazwa pospolita	
 vedetto	vedetta	subst:sg:voc:f	nazwa pospolita	
 vedett	vedetta	subst:pl:gen:f	nazwa pospolita	
-vedetty	vedetta	subst:pl:acc:f	nazwa pospolita	
-vedetty	vedetta	subst:pl:nom:f	nazwa pospolita	
+vedetty	vedetta	subst:pl:nom.acc:f	nazwa pospolita	
 vedetty	vedetta	subst:pl:voc:f	nazwa pospolita	
 vedetty	vedetta	subst:sg:gen:f	nazwa pospolita	
 vel	vel	conj		
@@ -285,8 +213,7 @@ velarium	velarium	subst:sg:inst:n:ncol	nazwa pospolita
 velarium	velarium	subst:sg:loc:n:ncol	nazwa pospolita	
 velarium	velarium	subst:sg:nom:n:ncol	nazwa pospolita	
 velarium	velarium	subst:sg:voc:n:ncol	nazwa pospolita	
-vendetcie	vendetta	subst:sg:dat:f	nazwa pospolita	
-vendetcie	vendetta	subst:sg:loc:f	nazwa pospolita	
+vendetcie	vendetta	subst:sg:dat.loc:f	nazwa pospolita	
 vendettach	vendetta	subst:pl:loc:f	nazwa pospolita	
 vendettami	vendetta	subst:pl:inst:f	nazwa pospolita	
 vendetta	vendetta	subst:sg:nom:f	nazwa pospolita	
@@ -295,24 +222,10 @@ vendettę	vendetta	subst:sg:acc:f	nazwa pospolita
 vendettom	vendetta	subst:pl:dat:f	nazwa pospolita	
 vendetto	vendetta	subst:sg:voc:f	nazwa pospolita	
 vendett	vendetta	subst:pl:gen:f	nazwa pospolita	
-vendetty	vendetta	subst:pl:acc:f	nazwa pospolita	
-vendetty	vendetta	subst:pl:nom:f	nazwa pospolita	
+vendetty	vendetta	subst:pl:nom.acc:f	nazwa pospolita	
 vendetty	vendetta	subst:pl:voc:f	nazwa pospolita	
 vendetty	vendetta	subst:sg:gen:f	nazwa pospolita	
-ventôse	ventôse	subst:pl:acc:m3	nazwa pospolita	
-ventôse	ventôse	subst:pl:dat:m3	nazwa pospolita	
-ventôse	ventôse	subst:pl:gen:m3	nazwa pospolita	
-ventôse	ventôse	subst:pl:inst:m3	nazwa pospolita	
-ventôse	ventôse	subst:pl:loc:m3	nazwa pospolita	
-ventôse	ventôse	subst:pl:nom:m3	nazwa pospolita	
-ventôse	ventôse	subst:pl:voc:m3	nazwa pospolita	
-ventôse	ventôse	subst:sg:acc:m3	nazwa pospolita	
-ventôse	ventôse	subst:sg:dat:m3	nazwa pospolita	
-ventôse	ventôse	subst:sg:gen:m3	nazwa pospolita	
-ventôse	ventôse	subst:sg:inst:m3	nazwa pospolita	
-ventôse	ventôse	subst:sg:loc:m3	nazwa pospolita	
-ventôse	ventôse	subst:sg:nom:m3	nazwa pospolita	
-ventôse	ventôse	subst:sg:voc:m3	nazwa pospolita	
+ventôse	ventôse	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
 veraikonach	veraikon	subst:pl:loc:m3	nazwa pospolita	
 veraikonami	veraikon	subst:pl:inst:m3	nazwa pospolita	
 veraikonem	veraikon	subst:sg:inst:m3	nazwa pospolita	
@@ -324,8 +237,7 @@ veraikonów	veraikon	subst:pl:gen:m3	nazwa pospolita
 veraikonu	veraikon	subst:sg:gen:m3	nazwa pospolita	
 veraikon	veraikon	subst:sg:acc:m3	nazwa pospolita	
 veraikon	veraikon	subst:sg:nom:m3	nazwa pospolita	
-veraikony	veraikon	subst:pl:acc:m3	nazwa pospolita	
-veraikony	veraikon	subst:pl:nom:m3	nazwa pospolita	
+veraikony	veraikon	subst:pl:nom.acc:m3	nazwa pospolita	
 veraikony	veraikon	subst:pl:voc:m3	nazwa pospolita	
 verbach	verbum	subst:pl:loc:n:ncol	nazwa pospolita	
 verbami	verbum	subst:pl:inst:n:ncol	nazwa pospolita	
@@ -352,31 +264,16 @@ verlanów	verlan	subst:pl:gen:m3	nazwa pospolita
 verlanu	verlan	subst:sg:gen:m3	nazwa pospolita	
 verlan	verlan	subst:sg:acc:m3	nazwa pospolita	
 verlan	verlan	subst:sg:nom:m3	nazwa pospolita	
-verlany	verlan	subst:pl:acc:m3	nazwa pospolita	
-verlany	verlan	subst:pl:nom:m3	nazwa pospolita	
+verlany	verlan	subst:pl:nom.acc:m3	nazwa pospolita	
 verlany	verlan	subst:pl:voc:m3	nazwa pospolita	
-verso	verso	subst:pl:acc:n:ncol	nazwa pospolita	
-verso	verso	subst:pl:dat:n:ncol	nazwa pospolita	
-verso	verso	subst:pl:gen:n:ncol	nazwa pospolita	
-verso	verso	subst:pl:inst:n:ncol	nazwa pospolita	
-verso	verso	subst:pl:loc:n:ncol	nazwa pospolita	
-verso	verso	subst:pl:nom:n:ncol	nazwa pospolita	
-verso	verso	subst:pl:voc:n:ncol	nazwa pospolita	
-verso	verso	subst:sg:acc:n:ncol	nazwa pospolita	
-verso	verso	subst:sg:dat:n:ncol	nazwa pospolita	
-verso	verso	subst:sg:gen:n:ncol	nazwa pospolita	
-verso	verso	subst:sg:inst:n:ncol	nazwa pospolita	
-verso	verso	subst:sg:loc:n:ncol	nazwa pospolita	
-verso	verso	subst:sg:nom:n:ncol	nazwa pospolita	
-verso	verso	subst:sg:voc:n:ncol	nazwa pospolita	
+verso	verso	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 v	versus	brev:pun		
 vs	versus	brev:npun		
 v	verte	brev:pun		
 verticalach	vertical	subst:pl:loc:m3	nazwa pospolita	
 verticalami	vertical	subst:pl:inst:m3	nazwa pospolita	
 verticalem	vertical	subst:sg:inst:m3	nazwa pospolita	
-verticale	vertical	subst:pl:acc:m3	nazwa pospolita	
-verticale	vertical	subst:pl:nom:m3	nazwa pospolita	
+verticale	vertical	subst:pl:nom.acc:m3	nazwa pospolita	
 verticale	vertical	subst:pl:voc:m3	nazwa pospolita	
 verticali	vertical	subst:pl:gen:m3	nazwa pospolita	
 verticalom	vertical	subst:pl:dat:m3	nazwa pospolita	
@@ -409,12 +306,10 @@ viagrę	viagra	subst:sg:acc:f	nazwa pospolita
 viagrom	viagra	subst:pl:dat:f	nazwa pospolita	
 viagro	viagra	subst:sg:voc:f	nazwa pospolita	
 viagr	viagra	subst:pl:gen:f	nazwa pospolita	
-viagry	viagra	subst:pl:acc:f	nazwa pospolita	
-viagry	viagra	subst:pl:nom:f	nazwa pospolita	
+viagry	viagra	subst:pl:nom.acc:f	nazwa pospolita	
 viagry	viagra	subst:pl:voc:f	nazwa pospolita	
 viagry	viagra	subst:sg:gen:f	nazwa pospolita	
-viagrze	viagra	subst:sg:dat:f	nazwa pospolita	
-viagrze	viagra	subst:sg:loc:f	nazwa pospolita	
+viagrze	viagra	subst:sg:dat.loc:f	nazwa pospolita	
 vibracie	vibrato	subst:sg:loc:n:ncol	nazwa pospolita	muz.
 vibratach	vibrato	subst:pl:loc:n:ncol	nazwa pospolita	muz.
 vibratami	vibrato	subst:pl:inst:n:ncol	nazwa pospolita	muz.
@@ -424,19 +319,9 @@ vibrata	vibrato	subst:pl:voc:n:ncol	nazwa pospolita	muz.
 vibrata	vibrato	subst:sg:gen:n:ncol	nazwa pospolita	muz.
 vibratem	vibrato	subst:sg:inst:n:ncol	nazwa pospolita	muz.
 vibratom	vibrato	subst:pl:dat:n:ncol	nazwa pospolita	muz.
-vibrato	vibrato	subst:pl:acc:n:ncol	nazwa pospolita	muz.
-vibrato	vibrato	subst:pl:dat:n:ncol	nazwa pospolita	muz.
-vibrato	vibrato	subst:pl:gen:n:ncol	nazwa pospolita	muz.
-vibrato	vibrato	subst:pl:inst:n:ncol	nazwa pospolita	muz.
-vibrato	vibrato	subst:pl:loc:n:ncol	nazwa pospolita	muz.
-vibrato	vibrato	subst:pl:nom:n:ncol	nazwa pospolita	muz.
-vibrato	vibrato	subst:pl:voc:n:ncol	nazwa pospolita	muz.
 vibrato	vibrato	subst:sg:acc:n:ncol	nazwa pospolita	muz.
-vibrato	vibrato	subst:sg:dat:n:ncol	nazwa pospolita	muz.
-vibrato	vibrato	subst:sg:gen:n:ncol	nazwa pospolita	muz.
-vibrato	vibrato	subst:sg:inst:n:ncol	nazwa pospolita	muz.
-vibrato	vibrato	subst:sg:loc:n:ncol	nazwa pospolita	muz.
 vibrato	vibrato	subst:sg:nom:n:ncol	nazwa pospolita	muz.
+vibrato	vibrato	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	muz.
 vibrato	vibrato	subst:sg:voc:n:ncol	nazwa pospolita	muz.
 vibratu	vibrato	subst:sg:dat:n:ncol	nazwa pospolita	muz.
 vibrat	vibrato	subst:pl:gen:n:ncol	nazwa pospolita	muz.
@@ -473,22 +358,9 @@ videa	video:s	subst:pl:voc:n:ncol	nazwa pospolita	rzad.
 videa	video:s	subst:sg:gen:n:ncol	nazwa pospolita	rzad.
 videem	video:s	subst:sg:inst:n:ncol	nazwa pospolita	rzad.
 videom	video:s	subst:pl:dat:n:ncol	nazwa pospolita	rzad.
-video	video:s	subst:pl:acc:n:ncol	nazwa pospolita	
-video	video:s	subst:pl:dat:n:ncol	nazwa pospolita	
-video	video:s	subst:pl:gen:n:ncol	nazwa pospolita	
-video	video:s	subst:pl:inst:n:ncol	nazwa pospolita	
-video	video:s	subst:pl:loc:n:ncol	nazwa pospolita	
-video	video:s	subst:pl:nom:n:ncol	nazwa pospolita	
-video	video:s	subst:pl:voc:n:ncol	nazwa pospolita	
-video	video:s	subst:sg:acc:n:ncol	nazwa pospolita	
 video	video:s	subst:sg:acc:n:ncol	nazwa pospolita	rzad.
-video	video:s	subst:sg:dat:n:ncol	nazwa pospolita	
-video	video:s	subst:sg:gen:n:ncol	nazwa pospolita	
-video	video:s	subst:sg:inst:n:ncol	nazwa pospolita	
-video	video:s	subst:sg:loc:n:ncol	nazwa pospolita	
-video	video:s	subst:sg:nom:n:ncol	nazwa pospolita	
 video	video:s	subst:sg:nom:n:ncol	nazwa pospolita	rzad.
-video	video:s	subst:sg:voc:n:ncol	nazwa pospolita	
+video	video:s	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 video	video:s	subst:sg:voc:n:ncol	nazwa pospolita	rzad.
 videów	video:s	subst:pl:gen:n:ncol	nazwa pospolita	rzad.
 videu	video:s	subst:sg:dat:n:ncol	nazwa pospolita	rzad.
@@ -497,14 +369,12 @@ vihuelach	vihuela	subst:pl:loc:f	nazwa pospolita	muz.
 vihuelami	vihuela	subst:pl:inst:f	nazwa pospolita	muz.
 vihuela	vihuela	subst:sg:nom:f	nazwa pospolita	muz.
 vihuelą	vihuela	subst:sg:inst:f	nazwa pospolita	muz.
-vihuele	vihuela	subst:pl:acc:f	nazwa pospolita	muz.
-vihuele	vihuela	subst:pl:nom:f	nazwa pospolita	muz.
+vihuele	vihuela	subst:pl:nom.acc:f	nazwa pospolita	muz.
 vihuele	vihuela	subst:pl:voc:f	nazwa pospolita	muz.
 vihuelę	vihuela	subst:sg:acc:f	nazwa pospolita	muz.
 vihueli	vihuela	subst:pl:gen:f	nazwa pospolita	muz.|hom.
-vihueli	vihuela	subst:sg:dat:f	nazwa pospolita	muz.
+vihueli	vihuela	subst:sg:dat.loc:f	nazwa pospolita	muz.
 vihueli	vihuela	subst:sg:gen:f	nazwa pospolita	muz.
-vihueli	vihuela	subst:sg:loc:f	nazwa pospolita	muz.
 vihuelom	vihuela	subst:pl:dat:f	nazwa pospolita	muz.
 vihuelo	vihuela	subst:sg:voc:f	nazwa pospolita	muz.
 vihuel	vihuela	subst:pl:gen:f	nazwa pospolita	char.|muz.
@@ -512,14 +382,12 @@ villanellach	villanella	subst:pl:loc:f	nazwa pospolita
 villanellami	villanella	subst:pl:inst:f	nazwa pospolita	
 villanella	villanella	subst:sg:nom:f	nazwa pospolita	
 villanellą	villanella	subst:sg:inst:f	nazwa pospolita	
-villanelle	villanella	subst:pl:acc:f	nazwa pospolita	
-villanelle	villanella	subst:pl:nom:f	nazwa pospolita	
+villanelle	villanella	subst:pl:nom.acc:f	nazwa pospolita	
 villanelle	villanella	subst:pl:voc:f	nazwa pospolita	
 villanellę	villanella	subst:sg:acc:f	nazwa pospolita	
 villanelli	villanella	subst:pl:gen:f	nazwa pospolita	hom.
-villanelli	villanella	subst:sg:dat:f	nazwa pospolita	
+villanelli	villanella	subst:sg:dat.loc:f	nazwa pospolita	
 villanelli	villanella	subst:sg:gen:f	nazwa pospolita	
-villanelli	villanella	subst:sg:loc:f	nazwa pospolita	
 villanellom	villanella	subst:pl:dat:f	nazwa pospolita	
 villanello	villanella	subst:sg:voc:f	nazwa pospolita	
 villanell	villanella	subst:pl:gen:f	nazwa pospolita	char.
@@ -527,14 +395,12 @@ villanescach	villanesca	subst:pl:loc:f	nazwa pospolita
 villanescami	villanesca	subst:pl:inst:f	nazwa pospolita	
 villanesca	villanesca	subst:sg:nom:f	nazwa pospolita	
 villanescą	villanesca	subst:sg:inst:f	nazwa pospolita	
-villanesce	villanesca	subst:sg:dat:f	nazwa pospolita	
-villanesce	villanesca	subst:sg:loc:f	nazwa pospolita	
+villanesce	villanesca	subst:sg:dat.loc:f	nazwa pospolita	
 villanescę	villanesca	subst:sg:acc:f	nazwa pospolita	
 villanescom	villanesca	subst:pl:dat:f	nazwa pospolita	
 villanesco	villanesca	subst:sg:voc:f	nazwa pospolita	
 villanesec	villanesca	subst:pl:gen:f	nazwa pospolita	
-villaneski	villanesca	subst:pl:acc:f	nazwa pospolita	
-villaneski	villanesca	subst:pl:nom:f	nazwa pospolita	
+villaneski	villanesca	subst:pl:nom.acc:f	nazwa pospolita	
 villaneski	villanesca	subst:pl:voc:f	nazwa pospolita	
 villaneski	villanesca	subst:sg:gen:f	nazwa pospolita	
 vinach	vina	subst:pl:loc:f	nazwa pospolita	
@@ -542,69 +408,26 @@ vinami	vina	subst:pl:inst:f	nazwa pospolita
 vina	vina	subst:sg:nom:f	nazwa pospolita	
 viną	vina	subst:sg:inst:f	nazwa pospolita	
 vinę	vina	subst:sg:acc:f	nazwa pospolita	
-vinie	vina	subst:sg:dat:f	nazwa pospolita	
-vinie	vina	subst:sg:loc:f	nazwa pospolita	
+vinie	vina	subst:sg:dat.loc:f	nazwa pospolita	
 vinom	vina	subst:pl:dat:f	nazwa pospolita	
 vino	vina	subst:sg:voc:f	nazwa pospolita	
 vin	vina	subst:pl:gen:f	nazwa pospolita	
-viny	vina	subst:pl:acc:f	nazwa pospolita	
-viny	vina	subst:pl:nom:f	nazwa pospolita	
+viny	vina	subst:pl:nom.acc:f	nazwa pospolita	
 viny	vina	subst:pl:voc:f	nazwa pospolita	
 viny	vina	subst:sg:gen:f	nazwa pospolita	
-vinaigrette	vinaigrette	subst:pl:acc:m3	nazwa pospolita	
-vinaigrette	vinaigrette	subst:pl:dat:m3	nazwa pospolita	
-vinaigrette	vinaigrette	subst:pl:gen:m3	nazwa pospolita	
-vinaigrette	vinaigrette	subst:pl:inst:m3	nazwa pospolita	
-vinaigrette	vinaigrette	subst:pl:loc:m3	nazwa pospolita	
-vinaigrette	vinaigrette	subst:pl:nom:m3	nazwa pospolita	
-vinaigrette	vinaigrette	subst:pl:voc:m3	nazwa pospolita	
-vinaigrette	vinaigrette	subst:sg:acc:m3	nazwa pospolita	
-vinaigrette	vinaigrette	subst:sg:dat:m3	nazwa pospolita	
-vinaigrette	vinaigrette	subst:sg:gen:m3	nazwa pospolita	
-vinaigrette	vinaigrette	subst:sg:inst:m3	nazwa pospolita	
-vinaigrette	vinaigrette	subst:sg:loc:m3	nazwa pospolita	
-vinaigrette	vinaigrette	subst:sg:nom:m3	nazwa pospolita	
-vinaigrette	vinaigrette	subst:sg:voc:m3	nazwa pospolita	
-vintage	vintage	subst:pl:acc:m3	nazwa pospolita	
-vintage	vintage	subst:pl:acc:n:ncol	nazwa pospolita	
-vintage	vintage	subst:pl:dat:m3	nazwa pospolita	
-vintage	vintage	subst:pl:dat:n:ncol	nazwa pospolita	
-vintage	vintage	subst:pl:gen:m3	nazwa pospolita	
-vintage	vintage	subst:pl:gen:n:ncol	nazwa pospolita	
-vintage	vintage	subst:pl:inst:m3	nazwa pospolita	
-vintage	vintage	subst:pl:inst:n:ncol	nazwa pospolita	
-vintage	vintage	subst:pl:loc:m3	nazwa pospolita	
-vintage	vintage	subst:pl:loc:n:ncol	nazwa pospolita	
-vintage	vintage	subst:pl:nom:m3	nazwa pospolita	
-vintage	vintage	subst:pl:nom:n:ncol	nazwa pospolita	
-vintage	vintage	subst:pl:voc:m3	nazwa pospolita	
-vintage	vintage	subst:pl:voc:n:ncol	nazwa pospolita	
-vintage	vintage	subst:sg:acc:m3	nazwa pospolita	
-vintage	vintage	subst:sg:acc:n:ncol	nazwa pospolita	
-vintage	vintage	subst:sg:dat:m3	nazwa pospolita	
-vintage	vintage	subst:sg:dat:n:ncol	nazwa pospolita	
-vintage	vintage	subst:sg:gen:m3	nazwa pospolita	
-vintage	vintage	subst:sg:gen:n:ncol	nazwa pospolita	
-vintage	vintage	subst:sg:inst:m3	nazwa pospolita	
-vintage	vintage	subst:sg:inst:n:ncol	nazwa pospolita	
-vintage	vintage	subst:sg:loc:m3	nazwa pospolita	
-vintage	vintage	subst:sg:loc:n:ncol	nazwa pospolita	
-vintage	vintage	subst:sg:nom:m3	nazwa pospolita	
-vintage	vintage	subst:sg:nom:n:ncol	nazwa pospolita	
-vintage	vintage	subst:sg:voc:m3	nazwa pospolita	
-vintage	vintage	subst:sg:voc:n:ncol	nazwa pospolita	
+vinaigrette	vinaigrette	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
+vintage	vintage	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
+vintage	vintage	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 violach	viola	subst:pl:loc:f	nazwa pospolita	muz.
 violami	viola	subst:pl:inst:f	nazwa pospolita	muz.
 viola	viola	subst:sg:nom:f	nazwa pospolita	muz.
 violą	viola	subst:sg:inst:f	nazwa pospolita	muz.
-viole	viola	subst:pl:acc:f	nazwa pospolita	muz.
-viole	viola	subst:pl:nom:f	nazwa pospolita	muz.
+viole	viola	subst:pl:nom.acc:f	nazwa pospolita	muz.
 viole	viola	subst:pl:voc:f	nazwa pospolita	muz.
 violę	viola	subst:sg:acc:f	nazwa pospolita	muz.
 violi	viola	subst:pl:gen:f	nazwa pospolita	muz.|hom.
-violi	viola	subst:sg:dat:f	nazwa pospolita	muz.
+violi	viola	subst:sg:dat.loc:f	nazwa pospolita	muz.
 violi	viola	subst:sg:gen:f	nazwa pospolita	muz.
-violi	viola	subst:sg:loc:f	nazwa pospolita	muz.
 violom	viola	subst:pl:dat:f	nazwa pospolita	muz.
 violo	viola	subst:sg:voc:f	nazwa pospolita	muz.
 viol	viola	subst:pl:gen:f	nazwa pospolita	char.|muz.
@@ -638,44 +461,16 @@ vipowskościach	vipowskość	subst:pl:loc:f	nazwa pospolita
 vipowskościami	vipowskość	subst:pl:inst:f	nazwa pospolita	
 vipowskością	vipowskość	subst:sg:inst:f	nazwa pospolita	
 vipowskościom	vipowskość	subst:pl:dat:f	nazwa pospolita	
-vipowskości	vipowskość	subst:pl:acc:f	nazwa pospolita	
 vipowskości	vipowskość	subst:pl:gen:f	nazwa pospolita	
-vipowskości	vipowskość	subst:pl:nom:f	nazwa pospolita	
+vipowskości	vipowskość	subst:pl:nom.acc:f	nazwa pospolita	
 vipowskości	vipowskość	subst:pl:voc:f	nazwa pospolita	
-vipowskości	vipowskość	subst:sg:dat:f	nazwa pospolita	
+vipowskości	vipowskość	subst:sg:dat.loc:f	nazwa pospolita	
 vipowskości	vipowskość	subst:sg:gen:f	nazwa pospolita	
-vipowskości	vipowskość	subst:sg:loc:f	nazwa pospolita	
 vipowskości	vipowskość	subst:sg:voc:f	nazwa pospolita	
 vipowskość	vipowskość	subst:sg:acc:f	nazwa pospolita	
 vipowskość	vipowskość	subst:sg:nom:f	nazwa pospolita	
-virelai	virelai	subst:pl:acc:f	nazwa pospolita	
-virelai	virelai	subst:pl:dat:f	nazwa pospolita	
-virelai	virelai	subst:pl:gen:f	nazwa pospolita	
-virelai	virelai	subst:pl:inst:f	nazwa pospolita	
-virelai	virelai	subst:pl:loc:f	nazwa pospolita	
-virelai	virelai	subst:pl:nom:f	nazwa pospolita	
-virelai	virelai	subst:pl:voc:f	nazwa pospolita	
-virelai	virelai	subst:sg:acc:f	nazwa pospolita	
-virelai	virelai	subst:sg:dat:f	nazwa pospolita	
-virelai	virelai	subst:sg:gen:f	nazwa pospolita	
-virelai	virelai	subst:sg:inst:f	nazwa pospolita	
-virelai	virelai	subst:sg:loc:f	nazwa pospolita	
-virelai	virelai	subst:sg:nom:f	nazwa pospolita	
-virelai	virelai	subst:sg:voc:f	nazwa pospolita	
-virement	virement	subst:pl:acc:n:ncol	nazwa pospolita	
-virement	virement	subst:pl:dat:n:ncol	nazwa pospolita	
-virement	virement	subst:pl:gen:n:ncol	nazwa pospolita	
-virement	virement	subst:pl:inst:n:ncol	nazwa pospolita	
-virement	virement	subst:pl:loc:n:ncol	nazwa pospolita	
-virement	virement	subst:pl:nom:n:ncol	nazwa pospolita	
-virement	virement	subst:pl:voc:n:ncol	nazwa pospolita	
-virement	virement	subst:sg:acc:n:ncol	nazwa pospolita	
-virement	virement	subst:sg:dat:n:ncol	nazwa pospolita	
-virement	virement	subst:sg:gen:n:ncol	nazwa pospolita	
-virement	virement	subst:sg:inst:n:ncol	nazwa pospolita	
-virement	virement	subst:sg:loc:n:ncol	nazwa pospolita	
-virement	virement	subst:sg:nom:n:ncol	nazwa pospolita	
-virement	virement	subst:sg:voc:n:ncol	nazwa pospolita	
+virelai	virelai	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa pospolita	
+virement	virement	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 visach	vis	subst:pl:loc:m3	nazwa pospolita	
 visami	vis	subst:pl:inst:m3	nazwa pospolita	
 visa	vis	subst:sg:gen:m3	nazwa pospolita	
@@ -688,39 +483,12 @@ visów	vis	subst:pl:gen:m3	nazwa pospolita
 visu	vis	subst:sg:gen:m3	nazwa pospolita	
 vis	vis	subst:sg:acc:m3	nazwa pospolita	
 vis	vis	subst:sg:nom:m3	nazwa pospolita	
-visy	vis	subst:pl:acc:m3	nazwa pospolita	
-visy	vis	subst:pl:nom:m3	nazwa pospolita	
+visy	vis	subst:pl:nom.acc:m3	nazwa pospolita	
 visy	vis	subst:pl:voc:m3	nazwa pospolita	
 vis-à-vis	vis-à-vis:d	adv		
 vis-à-vis	vis-à-vis:p	prep:gen		
-vis-à-vis	vis-à-vis:s	subst:pl:acc:n:ncol	nazwa pospolita	
-vis-à-vis	vis-à-vis:s	subst:pl:dat:n:ncol	nazwa pospolita	
-vis-à-vis	vis-à-vis:s	subst:pl:gen:n:ncol	nazwa pospolita	
-vis-à-vis	vis-à-vis:s	subst:pl:inst:n:ncol	nazwa pospolita	
-vis-à-vis	vis-à-vis:s	subst:pl:loc:n:ncol	nazwa pospolita	
-vis-à-vis	vis-à-vis:s	subst:pl:nom:n:ncol	nazwa pospolita	
-vis-à-vis	vis-à-vis:s	subst:pl:voc:n:ncol	nazwa pospolita	
-vis-à-vis	vis-à-vis:s	subst:sg:acc:n:ncol	nazwa pospolita	
-vis-à-vis	vis-à-vis:s	subst:sg:dat:n:ncol	nazwa pospolita	
-vis-à-vis	vis-à-vis:s	subst:sg:gen:n:ncol	nazwa pospolita	
-vis-à-vis	vis-à-vis:s	subst:sg:inst:n:ncol	nazwa pospolita	
-vis-à-vis	vis-à-vis:s	subst:sg:loc:n:ncol	nazwa pospolita	
-vis-à-vis	vis-à-vis:s	subst:sg:nom:n:ncol	nazwa pospolita	
-vis-à-vis	vis-à-vis:s	subst:sg:voc:n:ncol	nazwa pospolita	
-vivace	vivace	subst:pl:acc:n:ncol	nazwa pospolita	muz.
-vivace	vivace	subst:pl:dat:n:ncol	nazwa pospolita	muz.
-vivace	vivace	subst:pl:gen:n:ncol	nazwa pospolita	muz.
-vivace	vivace	subst:pl:inst:n:ncol	nazwa pospolita	muz.
-vivace	vivace	subst:pl:loc:n:ncol	nazwa pospolita	muz.
-vivace	vivace	subst:pl:nom:n:ncol	nazwa pospolita	muz.
-vivace	vivace	subst:pl:voc:n:ncol	nazwa pospolita	muz.
-vivace	vivace	subst:sg:acc:n:ncol	nazwa pospolita	muz.
-vivace	vivace	subst:sg:dat:n:ncol	nazwa pospolita	muz.
-vivace	vivace	subst:sg:gen:n:ncol	nazwa pospolita	muz.
-vivace	vivace	subst:sg:inst:n:ncol	nazwa pospolita	muz.
-vivace	vivace	subst:sg:loc:n:ncol	nazwa pospolita	muz.
-vivace	vivace	subst:sg:nom:n:ncol	nazwa pospolita	muz.
-vivace	vivace	subst:sg:voc:n:ncol	nazwa pospolita	muz.
+vis-à-vis	vis-à-vis:s	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
+vivace	vivace	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	muz.
 vivancie	vivant	subst:sg:loc:m1	nazwa pospolita	
 vivancie	vivant	subst:sg:voc:m1	nazwa pospolita	
 vivanci	vivant	subst:pl:nom:m1	nazwa pospolita	
@@ -735,9 +503,7 @@ vivantowi	vivant	subst:sg:dat:m1	nazwa pospolita
 vivantów	vivant	subst:pl:acc:m1	nazwa pospolita	
 vivantów	vivant	subst:pl:gen:m1	nazwa pospolita	
 vivant	vivant	subst:sg:nom:m1	nazwa pospolita	
-vivanty	vivant	depr:pl:acc:m2	nazwa pospolita	
-vivanty	vivant	depr:pl:nom:m2	nazwa pospolita	
-vivanty	vivant	depr:pl:voc:m2	nazwa pospolita	
+vivanty	vivant	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 vivariach	vivarium	subst:pl:loc:n:ncol	nazwa pospolita	
 vivariami	vivarium	subst:pl:inst:n:ncol	nazwa pospolita	
 vivaria	vivarium	subst:pl:acc:n:ncol	nazwa pospolita	
@@ -765,23 +531,19 @@ viveurowi	viveur	subst:sg:dat:m1	nazwa pospolita
 viveurów	viveur	subst:pl:acc:m1	nazwa pospolita	
 viveurów	viveur	subst:pl:gen:m1	nazwa pospolita	
 viveur	viveur	subst:sg:nom:m1	nazwa pospolita	
-viveury	viveur	depr:pl:acc:m2	nazwa pospolita	
-viveury	viveur	depr:pl:nom:m2	nazwa pospolita	
-viveury	viveur	depr:pl:voc:m2	nazwa pospolita	
+viveury	viveur	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 viveurze	viveur	subst:sg:loc:m1	nazwa pospolita	
 viveurze	viveur	subst:sg:voc:m1	nazwa pospolita	
 viveurzy	viveur	subst:pl:nom:m1	nazwa pospolita	
 viveurzy	viveur	subst:pl:voc:m1	nazwa pospolita	
-vlepce	vlepka	subst:sg:dat:f	nazwa pospolita	
-vlepce	vlepka	subst:sg:loc:f	nazwa pospolita	
+vlepce	vlepka	subst:sg:dat.loc:f	nazwa pospolita	
 vlepek	vlepka	subst:pl:gen:f	nazwa pospolita	
 vlepkach	vlepka	subst:pl:loc:f	nazwa pospolita	
 vlepkami	vlepka	subst:pl:inst:f	nazwa pospolita	
 vlepka	vlepka	subst:sg:nom:f	nazwa pospolita	
 vlepką	vlepka	subst:sg:inst:f	nazwa pospolita	
 vlepkę	vlepka	subst:sg:acc:f	nazwa pospolita	
-vlepki	vlepka	subst:pl:acc:f	nazwa pospolita	
-vlepki	vlepka	subst:pl:nom:f	nazwa pospolita	
+vlepki	vlepka	subst:pl:nom.acc:f	nazwa pospolita	
 vlepki	vlepka	subst:pl:voc:f	nazwa pospolita	
 vlepki	vlepka	subst:sg:gen:f	nazwa pospolita	
 vlepkom	vlepka	subst:pl:dat:f	nazwa pospolita	
@@ -797,14 +559,12 @@ vocativów	vocativus	subst:pl:gen:m3	nazwa pospolita
 vocativus	vocativus	subst:sg:acc:m3	nazwa pospolita	
 vocativus	vocativus	subst:sg:nom:m3	nazwa pospolita	
 vocativu	vocativus	subst:sg:gen:m3	nazwa pospolita	
-vocativy	vocativus	subst:pl:acc:m3	nazwa pospolita	
-vocativy	vocativus	subst:pl:nom:m3	nazwa pospolita	
+vocativy	vocativus	subst:pl:nom.acc:m3	nazwa pospolita	
 vocativy	vocativus	subst:pl:voc:m3	nazwa pospolita	
 volapükach	volapük	subst:pl:loc:m3	nazwa pospolita	
 volapükami	volapük	subst:pl:inst:m3	nazwa pospolita	
 volapükiem	volapük	subst:sg:inst:m3	nazwa pospolita	
-volapüki	volapük	subst:pl:acc:m3	nazwa pospolita	
-volapüki	volapük	subst:pl:nom:m3	nazwa pospolita	
+volapüki	volapük	subst:pl:nom.acc:m3	nazwa pospolita	
 volapüki	volapük	subst:pl:voc:m3	nazwa pospolita	
 volapükom	volapük	subst:pl:dat:m3	nazwa pospolita	
 volapükowi	volapük	subst:sg:dat:m3	nazwa pospolita	
@@ -814,28 +574,13 @@ volapüku	volapük	subst:sg:loc:m3	nazwa pospolita
 volapüku	volapük	subst:sg:voc:m3	nazwa pospolita	
 volapük	volapük	subst:sg:acc:m3	nazwa pospolita	
 volapük	volapük	subst:sg:nom:m3	nazwa pospolita	
-vol-au-vent	vol-au-vent	subst:pl:acc:n:ncol	nazwa pospolita	kulin.
-vol-au-vent	vol-au-vent	subst:pl:dat:n:ncol	nazwa pospolita	kulin.
-vol-au-vent	vol-au-vent	subst:pl:gen:n:ncol	nazwa pospolita	kulin.
-vol-au-vent	vol-au-vent	subst:pl:inst:n:ncol	nazwa pospolita	kulin.
-vol-au-vent	vol-au-vent	subst:pl:loc:n:ncol	nazwa pospolita	kulin.
-vol-au-vent	vol-au-vent	subst:pl:nom:n:ncol	nazwa pospolita	kulin.
-vol-au-vent	vol-au-vent	subst:pl:voc:n:ncol	nazwa pospolita	kulin.
-vol-au-vent	vol-au-vent	subst:sg:acc:n:ncol	nazwa pospolita	kulin.
-vol-au-vent	vol-au-vent	subst:sg:dat:n:ncol	nazwa pospolita	kulin.
-vol-au-vent	vol-au-vent	subst:sg:gen:n:ncol	nazwa pospolita	kulin.
-vol-au-vent	vol-au-vent	subst:sg:inst:n:ncol	nazwa pospolita	kulin.
-vol-au-vent	vol-au-vent	subst:sg:loc:n:ncol	nazwa pospolita	kulin.
-vol-au-vent	vol-au-vent	subst:sg:nom:n:ncol	nazwa pospolita	kulin.
-vol-au-vent	vol-au-vent	subst:sg:voc:n:ncol	nazwa pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	kulin.
 volksdeutschach	volksdeutsch	subst:pl:loc:m1	nazwa pospolita	
 volksdeutschami	volksdeutsch	subst:pl:inst:m1	nazwa pospolita	
 volksdeutscha	volksdeutsch	subst:sg:acc:m1	nazwa pospolita	
 volksdeutscha	volksdeutsch	subst:sg:gen:m1	nazwa pospolita	
 volksdeutschem	volksdeutsch	subst:sg:inst:m1	nazwa pospolita	
-volksdeutsche	volksdeutsch	depr:pl:acc:m2	nazwa pospolita	
-volksdeutsche	volksdeutsch	depr:pl:nom:m2	nazwa pospolita	
-volksdeutsche	volksdeutsch	depr:pl:voc:m2	nazwa pospolita	
+volksdeutsche	volksdeutsch	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 volksdeutsche	volksdeutsch	subst:pl:nom:m1	nazwa pospolita	
 volksdeutsche	volksdeutsch	subst:pl:voc:m1	nazwa pospolita	
 volksdeutschom	volksdeutsch	subst:pl:dat:m1	nazwa pospolita	
@@ -855,12 +600,10 @@ volkslistę	volkslista	subst:sg:acc:f	nazwa pospolita
 volkslistom	volkslista	subst:pl:dat:f	nazwa pospolita	
 volkslisto	volkslista	subst:sg:voc:f	nazwa pospolita	
 volkslist	volkslista	subst:pl:gen:f	nazwa pospolita	
-volkslisty	volkslista	subst:pl:acc:f	nazwa pospolita	
-volkslisty	volkslista	subst:pl:nom:f	nazwa pospolita	
+volkslisty	volkslista	subst:pl:nom.acc:f	nazwa pospolita	
 volkslisty	volkslista	subst:pl:voc:f	nazwa pospolita	
 volkslisty	volkslista	subst:sg:gen:f	nazwa pospolita	
-volksliście	volkslista	subst:sg:dat:f	nazwa pospolita	
-volksliście	volkslista	subst:sg:loc:f	nazwa pospolita	
+volksliście	volkslista	subst:sg:dat.loc:f	nazwa pospolita	
 volkswagenach	volkswagen	subst:pl:loc:m2	nazwa pospolita	
 volkswagenami	volkswagen	subst:pl:inst:m2	nazwa pospolita	
 volkswagena	volkswagen	subst:sg:acc:m2	nazwa pospolita	
@@ -872,15 +615,13 @@ volkswagenom	volkswagen	subst:pl:dat:m2	nazwa pospolita
 volkswagenowi	volkswagen	subst:sg:dat:m2	nazwa pospolita	
 volkswagenów	volkswagen	subst:pl:gen:m2	nazwa pospolita	
 volkswagen	volkswagen	subst:sg:nom:m2	nazwa pospolita	
-volkswageny	volkswagen	subst:pl:acc:m2	nazwa pospolita	
-volkswageny	volkswagen	subst:pl:nom:m2	nazwa pospolita	
+volkswageny	volkswagen	subst:pl:nom.acc:m2	nazwa pospolita	
 volkswageny	volkswagen	subst:pl:voc:m2	nazwa pospolita	
 volleyach	volley	subst:pl:loc:m3	nazwa pospolita	
 volleyami	volley	subst:pl:inst:m3	nazwa pospolita	
 volleya	volley	subst:sg:gen:m3	nazwa pospolita	
 volleyem	volley	subst:sg:inst:m3	nazwa pospolita	
-volleye	volley	subst:pl:acc:m3	nazwa pospolita	
-volleye	volley	subst:pl:nom:m3	nazwa pospolita	
+volleye	volley	subst:pl:nom.acc:m3	nazwa pospolita	
 volleye	volley	subst:pl:voc:m3	nazwa pospolita	
 volleyom	volley	subst:pl:dat:m3	nazwa pospolita	
 volleyowi	volley	subst:sg:dat:m3	nazwa pospolita	
@@ -900,11 +641,9 @@ voltowi	volt	subst:sg:dat:m3	nazwa pospolita
 voltów	volt	subst:pl:gen:m3	nazwa pospolita	
 volt	volt	subst:sg:acc:m3	nazwa pospolita	
 volt	volt	subst:sg:nom:m3	nazwa pospolita	
-volty	volt	subst:pl:acc:m3	nazwa pospolita	
-volty	volt	subst:pl:nom:m3	nazwa pospolita	
+volty	volt	subst:pl:nom.acc:m3	nazwa pospolita	
 volty	volt	subst:pl:voc:m3	nazwa pospolita	
-volcie	volta	subst:sg:dat:f	nazwa pospolita	
-volcie	volta	subst:sg:loc:f	nazwa pospolita	
+volcie	volta	subst:sg:dat.loc:f	nazwa pospolita	
 voltach	volta	subst:pl:loc:f	nazwa pospolita	
 voltami	volta	subst:pl:inst:f	nazwa pospolita	
 volta	volta	subst:sg:nom:f	nazwa pospolita	
@@ -913,8 +652,7 @@ voltę	volta	subst:sg:acc:f	nazwa pospolita
 voltom	volta	subst:pl:dat:f	nazwa pospolita	
 volto	volta	subst:sg:voc:f	nazwa pospolita	
 volt	volta	subst:pl:gen:f	nazwa pospolita	
-volty	volta	subst:pl:acc:f	nazwa pospolita	
-volty	volta	subst:pl:nom:f	nazwa pospolita	
+volty	volta	subst:pl:nom.acc:f	nazwa pospolita	
 volty	volta	subst:pl:voc:f	nazwa pospolita	
 volty	volta	subst:sg:gen:f	nazwa pospolita	
 volumenach	volumen	subst:pl:loc:m3	nazwa pospolita	
@@ -928,8 +666,7 @@ volumenów	volumen	subst:pl:gen:m3	nazwa pospolita
 volumenu	volumen	subst:sg:gen:m3	nazwa pospolita	
 volumen	volumen	subst:sg:acc:m3	nazwa pospolita	
 volumen	volumen	subst:sg:nom:m3	nazwa pospolita	
-volumeny	volumen	subst:pl:acc:m3	nazwa pospolita	
-volumeny	volumen	subst:pl:nom:m3	nazwa pospolita	
+volumeny	volumen	subst:pl:nom.acc:m3	nazwa pospolita	
 volumeny	volumen	subst:pl:voc:m3	nazwa pospolita	
 vol	volumen	brev:pun		
 volvach	volvo	subst:pl:loc:n:ncol	nazwa pospolita	
@@ -941,19 +678,9 @@ volva	volvo	subst:sg:gen:n:ncol	nazwa pospolita
 volvem	volvo	subst:sg:inst:n:ncol	nazwa pospolita	
 volvie	volvo	subst:sg:loc:n:ncol	nazwa pospolita	
 volvom	volvo	subst:pl:dat:n:ncol	nazwa pospolita	
-volvo	volvo	subst:pl:acc:n:ncol	nazwa pospolita	
-volvo	volvo	subst:pl:dat:n:ncol	nazwa pospolita	
-volvo	volvo	subst:pl:gen:n:ncol	nazwa pospolita	
-volvo	volvo	subst:pl:inst:n:ncol	nazwa pospolita	
-volvo	volvo	subst:pl:loc:n:ncol	nazwa pospolita	
-volvo	volvo	subst:pl:nom:n:ncol	nazwa pospolita	
-volvo	volvo	subst:pl:voc:n:ncol	nazwa pospolita	
 volvo	volvo	subst:sg:acc:n:ncol	nazwa pospolita	
-volvo	volvo	subst:sg:dat:n:ncol	nazwa pospolita	
-volvo	volvo	subst:sg:gen:n:ncol	nazwa pospolita	
-volvo	volvo	subst:sg:inst:n:ncol	nazwa pospolita	
-volvo	volvo	subst:sg:loc:n:ncol	nazwa pospolita	
 volvo	volvo	subst:sg:nom:n:ncol	nazwa pospolita	
+volvo	volvo	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 volvo	volvo	subst:sg:voc:n:ncol	nazwa pospolita	
 volvu	volvo	subst:sg:dat:n:ncol	nazwa pospolita	
 volv	volvo	subst:pl:gen:n:ncol	nazwa pospolita	
@@ -972,34 +699,8 @@ vomitorium	vomitorium	subst:sg:loc:n:ncol	nazwa pospolita
 vomitorium	vomitorium	subst:sg:nom:n:ncol	nazwa pospolita	
 vomitorium	vomitorium	subst:sg:voc:n:ncol	nazwa pospolita	
 von	von	burk		
-voodoo	voodoo	subst:pl:acc:m3	nazwa pospolita	
-voodoo	voodoo	subst:pl:acc:n:ncol	nazwa pospolita	
-voodoo	voodoo	subst:pl:dat:m3	nazwa pospolita	
-voodoo	voodoo	subst:pl:dat:n:ncol	nazwa pospolita	
-voodoo	voodoo	subst:pl:gen:m3	nazwa pospolita	
-voodoo	voodoo	subst:pl:gen:n:ncol	nazwa pospolita	
-voodoo	voodoo	subst:pl:inst:m3	nazwa pospolita	
-voodoo	voodoo	subst:pl:inst:n:ncol	nazwa pospolita	
-voodoo	voodoo	subst:pl:loc:m3	nazwa pospolita	
-voodoo	voodoo	subst:pl:loc:n:ncol	nazwa pospolita	
-voodoo	voodoo	subst:pl:nom:m3	nazwa pospolita	
-voodoo	voodoo	subst:pl:nom:n:ncol	nazwa pospolita	
-voodoo	voodoo	subst:pl:voc:m3	nazwa pospolita	
-voodoo	voodoo	subst:pl:voc:n:ncol	nazwa pospolita	
-voodoo	voodoo	subst:sg:acc:m3	nazwa pospolita	
-voodoo	voodoo	subst:sg:acc:n:ncol	nazwa pospolita	
-voodoo	voodoo	subst:sg:dat:m3	nazwa pospolita	
-voodoo	voodoo	subst:sg:dat:n:ncol	nazwa pospolita	
-voodoo	voodoo	subst:sg:gen:m3	nazwa pospolita	
-voodoo	voodoo	subst:sg:gen:n:ncol	nazwa pospolita	
-voodoo	voodoo	subst:sg:inst:m3	nazwa pospolita	
-voodoo	voodoo	subst:sg:inst:n:ncol	nazwa pospolita	
-voodoo	voodoo	subst:sg:loc:m3	nazwa pospolita	
-voodoo	voodoo	subst:sg:loc:n:ncol	nazwa pospolita	
-voodoo	voodoo	subst:sg:nom:m3	nazwa pospolita	
-voodoo	voodoo	subst:sg:nom:n:ncol	nazwa pospolita	
-voodoo	voodoo	subst:sg:voc:m3	nazwa pospolita	
-voodoo	voodoo	subst:sg:voc:n:ncol	nazwa pospolita	
+voodoo	voodoo	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
+voodoo	voodoo	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 votach	votum	subst:pl:loc:n:ncol	nazwa pospolita	
 votami	votum	subst:pl:inst:n:ncol	nazwa pospolita	
 vota	votum	subst:pl:acc:n:ncol	nazwa pospolita	
@@ -1023,51 +724,11 @@ voucherowi	voucher	subst:sg:dat:m3	nazwa pospolita
 voucherów	voucher	subst:pl:gen:m3	nazwa pospolita	
 voucher	voucher	subst:sg:acc:m3	nazwa pospolita	
 voucher	voucher	subst:sg:nom:m3	nazwa pospolita	
-vouchery	voucher	subst:pl:acc:m3	nazwa pospolita	
-vouchery	voucher	subst:pl:nom:m3	nazwa pospolita	
+vouchery	voucher	subst:pl:nom.acc:m3	nazwa pospolita	
 vouchery	voucher	subst:pl:voc:m3	nazwa pospolita	
 voucherze	voucher	subst:sg:loc:m3	nazwa pospolita	
 voucherze	voucher	subst:sg:voc:m3	nazwa pospolita	
-vouvray	vouvray	subst:pl:acc:n:ncol	nazwa pospolita	
-vouvray	vouvray	subst:pl:dat:n:ncol	nazwa pospolita	
-vouvray	vouvray	subst:pl:gen:n:ncol	nazwa pospolita	
-vouvray	vouvray	subst:pl:inst:n:ncol	nazwa pospolita	
-vouvray	vouvray	subst:pl:loc:n:ncol	nazwa pospolita	
-vouvray	vouvray	subst:pl:nom:n:ncol	nazwa pospolita	
-vouvray	vouvray	subst:pl:voc:n:ncol	nazwa pospolita	
-vouvray	vouvray	subst:sg:acc:n:ncol	nazwa pospolita	
-vouvray	vouvray	subst:sg:dat:n:ncol	nazwa pospolita	
-vouvray	vouvray	subst:sg:gen:n:ncol	nazwa pospolita	
-vouvray	vouvray	subst:sg:inst:n:ncol	nazwa pospolita	
-vouvray	vouvray	subst:sg:loc:n:ncol	nazwa pospolita	
-vouvray	vouvray	subst:sg:nom:n:ncol	nazwa pospolita	
-vouvray	vouvray	subst:sg:voc:n:ncol	nazwa pospolita	
+vouvray	vouvray	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
 vulgo	vulgo	qub		daw.
-vw	vw	subst:pl:acc:m3	nazwa pospolita	
-vw	vw	subst:pl:acc:n:ncol	nazwa pospolita	
-vw	vw	subst:pl:dat:m3	nazwa pospolita	
-vw	vw	subst:pl:dat:n:ncol	nazwa pospolita	
-vw	vw	subst:pl:gen:m3	nazwa pospolita	
-vw	vw	subst:pl:gen:n:ncol	nazwa pospolita	
-vw	vw	subst:pl:inst:m3	nazwa pospolita	
-vw	vw	subst:pl:inst:n:ncol	nazwa pospolita	
-vw	vw	subst:pl:loc:m3	nazwa pospolita	
-vw	vw	subst:pl:loc:n:ncol	nazwa pospolita	
-vw	vw	subst:pl:nom:m3	nazwa pospolita	
-vw	vw	subst:pl:nom:n:ncol	nazwa pospolita	
-vw	vw	subst:pl:voc:m3	nazwa pospolita	
-vw	vw	subst:pl:voc:n:ncol	nazwa pospolita	
-vw	vw	subst:sg:acc:m3	nazwa pospolita	
-vw	vw	subst:sg:acc:n:ncol	nazwa pospolita	
-vw	vw	subst:sg:dat:m3	nazwa pospolita	
-vw	vw	subst:sg:dat:n:ncol	nazwa pospolita	
-vw	vw	subst:sg:gen:m3	nazwa pospolita	
-vw	vw	subst:sg:gen:n:ncol	nazwa pospolita	
-vw	vw	subst:sg:inst:m3	nazwa pospolita	
-vw	vw	subst:sg:inst:n:ncol	nazwa pospolita	
-vw	vw	subst:sg:loc:m3	nazwa pospolita	
-vw	vw	subst:sg:loc:n:ncol	nazwa pospolita	
-vw	vw	subst:sg:nom:m3	nazwa pospolita	
-vw	vw	subst:sg:nom:n:ncol	nazwa pospolita	
-vw	vw	subst:sg:voc:m3	nazwa pospolita	
-vw	vw	subst:sg:voc:n:ncol	nazwa pospolita	
+vw	vw	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
+vw	vw	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	

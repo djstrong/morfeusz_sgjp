@@ -3,16 +3,14 @@
 órzcie	orać	impt:pl:sec:imperf		
 órzmy	orać	impt:pl:pri:imperf		
 órz	orać	impt:sg:sec:imperf		
-ósemce	ósemka	subst:sg:dat:f	nazwa pospolita	
-ósemce	ósemka	subst:sg:loc:f	nazwa pospolita	
+ósemce	ósemka	subst:sg:dat.loc:f	nazwa pospolita	
 ósemek	ósemka	subst:pl:gen:f	nazwa pospolita	
 ósemkach	ósemka	subst:pl:loc:f	nazwa pospolita	
 ósemkami	ósemka	subst:pl:inst:f	nazwa pospolita	
 ósemka	ósemka	subst:sg:nom:f	nazwa pospolita	
 ósemką	ósemka	subst:sg:inst:f	nazwa pospolita	
 ósemkę	ósemka	subst:sg:acc:f	nazwa pospolita	
-ósemki	ósemka	subst:pl:acc:f	nazwa pospolita	
-ósemki	ósemka	subst:pl:nom:f	nazwa pospolita	
+ósemki	ósemka	subst:pl:nom.acc:f	nazwa pospolita	
 ósemki	ósemka	subst:pl:voc:f	nazwa pospolita	
 ósemki	ósemka	subst:sg:gen:f	nazwa pospolita	
 ósemkom	ósemka	subst:pl:dat:f	nazwa pospolita	
@@ -110,13 +108,11 @@
 ósemkowościami	ósemkowość	subst:pl:inst:f	nazwa pospolita	
 ósemkowością	ósemkowość	subst:sg:inst:f	nazwa pospolita	
 ósemkowościom	ósemkowość	subst:pl:dat:f	nazwa pospolita	
-ósemkowości	ósemkowość	subst:pl:acc:f	nazwa pospolita	
 ósemkowości	ósemkowość	subst:pl:gen:f	nazwa pospolita	
-ósemkowości	ósemkowość	subst:pl:nom:f	nazwa pospolita	
+ósemkowości	ósemkowość	subst:pl:nom.acc:f	nazwa pospolita	
 ósemkowości	ósemkowość	subst:pl:voc:f	nazwa pospolita	
-ósemkowości	ósemkowość	subst:sg:dat:f	nazwa pospolita	
+ósemkowości	ósemkowość	subst:sg:dat.loc:f	nazwa pospolita	
 ósemkowości	ósemkowość	subst:sg:gen:f	nazwa pospolita	
-ósemkowości	ósemkowość	subst:sg:loc:f	nazwa pospolita	
 ósemkowości	ósemkowość	subst:sg:voc:f	nazwa pospolita	
 ósemkowość	ósemkowość	subst:sg:acc:f	nazwa pospolita	
 ósemkowość	ósemkowość	subst:sg:nom:f	nazwa pospolita	
@@ -148,11 +144,9 @@
 ósma	ósma	subst:sg:voc:f	nazwa pospolita	
 ósmą	ósma	subst:sg:acc:f	nazwa pospolita	
 ósmą	ósma	subst:sg:inst:f	nazwa pospolita	
-ósmej	ósma	subst:sg:dat:f	nazwa pospolita	
+ósmej	ósma	subst:sg:dat.loc:f	nazwa pospolita	
 ósmej	ósma	subst:sg:gen:f	nazwa pospolita	
-ósmej	ósma	subst:sg:loc:f	nazwa pospolita	
-ósme	ósma	subst:pl:acc:f	nazwa pospolita	
-ósme	ósma	subst:pl:nom:f	nazwa pospolita	
+ósme	ósma	subst:pl:nom.acc:f	nazwa pospolita	
 ósme	ósma	subst:pl:voc:f	nazwa pospolita	
 ósmych	ósma	subst:pl:gen:f	nazwa pospolita	
 ósmych	ósma	subst:pl:loc:f	nazwa pospolita	
@@ -164,9 +158,7 @@
 ósmaczka	ósmaczek	subst:sg:acc:m1	nazwa pospolita	
 ósmaczka	ósmaczek	subst:sg:gen:m1	nazwa pospolita	
 ósmaczkiem	ósmaczek	subst:sg:inst:m1	nazwa pospolita	
-ósmaczki	ósmaczek	depr:pl:acc:m2	nazwa pospolita	
-ósmaczki	ósmaczek	depr:pl:nom:m2	nazwa pospolita	
-ósmaczki	ósmaczek	depr:pl:voc:m2	nazwa pospolita	
+ósmaczki	ósmaczek	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 ósmaczkom	ósmaczek	subst:pl:dat:m1	nazwa pospolita	
 ósmaczkowie	ósmaczek	subst:pl:nom:m1	nazwa pospolita	
 ósmaczkowie	ósmaczek	subst:pl:voc:m1	nazwa pospolita	
@@ -182,9 +174,7 @@
 ósmaka	ósmak:s1	subst:sg:acc:m1	nazwa pospolita	
 ósmaka	ósmak:s1	subst:sg:gen:m1	nazwa pospolita	
 ósmakiem	ósmak:s1	subst:sg:inst:m1	nazwa pospolita	
-ósmaki	ósmak:s1	depr:pl:acc:m2	nazwa pospolita	
-ósmaki	ósmak:s1	depr:pl:nom:m2	nazwa pospolita	
-ósmaki	ósmak:s1	depr:pl:voc:m2	nazwa pospolita	
+ósmaki	ósmak:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 ósmakom	ósmak:s1	subst:pl:dat:m1	nazwa pospolita	
 ósmakowi	ósmak:s1	subst:sg:dat:m1	nazwa pospolita	
 ósmak	ósmak:s1	subst:sg:nom:m1	nazwa pospolita	
@@ -201,10 +191,8 @@
 ósmaka	ósmak:s2	subst:sg:gen:m3	nazwa pospolita	
 ósmakiem	ósmak:s2	subst:sg:inst:m2	nazwa pospolita	
 ósmakiem	ósmak:s2	subst:sg:inst:m3	nazwa pospolita	
-ósmaki	ósmak:s2	subst:pl:acc:m2	nazwa pospolita	
-ósmaki	ósmak:s2	subst:pl:acc:m3	nazwa pospolita	
-ósmaki	ósmak:s2	subst:pl:nom:m2	nazwa pospolita	
-ósmaki	ósmak:s2	subst:pl:nom:m3	nazwa pospolita	
+ósmaki	ósmak:s2	subst:pl:nom.acc:m2	nazwa pospolita	
+ósmaki	ósmak:s2	subst:pl:nom.acc:m3	nazwa pospolita	
 ósmaki	ósmak:s2	subst:pl:voc:m2	nazwa pospolita	
 ósmaki	ósmak:s2	subst:pl:voc:m3	nazwa pospolita	
 ósmakom	ósmak:s2	subst:pl:dat:m2	nazwa pospolita	
@@ -229,24 +217,19 @@
 ósmoklasisto	ósmoklasista	subst:sg:voc:m1	nazwa pospolita	
 ósmoklasistów	ósmoklasista	subst:pl:acc:m1	nazwa pospolita	
 ósmoklasistów	ósmoklasista	subst:pl:gen:m1	nazwa pospolita	
-ósmoklasisty	ósmoklasista	depr:pl:acc:m2	nazwa pospolita	
-ósmoklasisty	ósmoklasista	depr:pl:nom:m2	nazwa pospolita	
-ósmoklasisty	ósmoklasista	depr:pl:voc:m2	nazwa pospolita	
+ósmoklasisty	ósmoklasista	depr:pl:nom.acc.voc:m2	nazwa pospolita	
 ósmoklasisty	ósmoklasista	subst:sg:gen:m1	nazwa pospolita	
-ósmoklasiście	ósmoklasista	subst:sg:dat:m1	nazwa pospolita	
-ósmoklasiście	ósmoklasista	subst:sg:loc:m1	nazwa pospolita	
+ósmoklasiście	ósmoklasista	subst:sg:dat.loc:m1	nazwa pospolita	
 ósmoklasiści	ósmoklasista	subst:pl:nom:m1	nazwa pospolita	
 ósmoklasiści	ósmoklasista	subst:pl:voc:m1	nazwa pospolita	
-ósmoklasistce	ósmoklasistka	subst:sg:dat:f	nazwa pospolita	
-ósmoklasistce	ósmoklasistka	subst:sg:loc:f	nazwa pospolita	
+ósmoklasistce	ósmoklasistka	subst:sg:dat.loc:f	nazwa pospolita	
 ósmoklasistek	ósmoklasistka	subst:pl:gen:f	nazwa pospolita	
 ósmoklasistkach	ósmoklasistka	subst:pl:loc:f	nazwa pospolita	
 ósmoklasistkami	ósmoklasistka	subst:pl:inst:f	nazwa pospolita	
 ósmoklasistka	ósmoklasistka	subst:sg:nom:f	nazwa pospolita	
 ósmoklasistką	ósmoklasistka	subst:sg:inst:f	nazwa pospolita	
 ósmoklasistkę	ósmoklasistka	subst:sg:acc:f	nazwa pospolita	
-ósmoklasistki	ósmoklasistka	subst:pl:acc:f	nazwa pospolita	
-ósmoklasistki	ósmoklasistka	subst:pl:nom:f	nazwa pospolita	
+ósmoklasistki	ósmoklasistka	subst:pl:nom.acc:f	nazwa pospolita	
 ósmoklasistki	ósmoklasistka	subst:pl:voc:f	nazwa pospolita	
 ósmoklasistki	ósmoklasistka	subst:sg:gen:f	nazwa pospolita	
 ósmoklasistkom	ósmoklasistka	subst:pl:dat:f	nazwa pospolita	
@@ -255,13 +238,11 @@
 ósmościami	ósmość	subst:pl:inst:f	nazwa pospolita	
 ósmością	ósmość	subst:sg:inst:f	nazwa pospolita	
 ósmościom	ósmość	subst:pl:dat:f	nazwa pospolita	
-ósmości	ósmość	subst:pl:acc:f	nazwa pospolita	
 ósmości	ósmość	subst:pl:gen:f	nazwa pospolita	
-ósmości	ósmość	subst:pl:nom:f	nazwa pospolita	
+ósmości	ósmość	subst:pl:nom.acc:f	nazwa pospolita	
 ósmości	ósmość	subst:pl:voc:f	nazwa pospolita	
-ósmości	ósmość	subst:sg:dat:f	nazwa pospolita	
+ósmości	ósmość	subst:sg:dat.loc:f	nazwa pospolita	
 ósmości	ósmość	subst:sg:gen:f	nazwa pospolita	
-ósmości	ósmość	subst:sg:loc:f	nazwa pospolita	
 ósmości	ósmość	subst:sg:voc:f	nazwa pospolita	
 ósmość	ósmość	subst:sg:acc:f	nazwa pospolita	
 ósmość	ósmość	subst:sg:nom:f	nazwa pospolita	
@@ -294,10 +275,8 @@
 ósmego	ósmy:s	subst:sg:gen:m3	nazwa pospolita	
 ósmemu	ósmy:s	subst:sg:dat:m2	nazwa pospolita	
 ósmemu	ósmy:s	subst:sg:dat:m3	nazwa pospolita	
-ósme	ósmy:s	subst:pl:acc:m2	nazwa pospolita	
-ósme	ósmy:s	subst:pl:acc:m3	nazwa pospolita	
-ósme	ósmy:s	subst:pl:nom:m2	nazwa pospolita	
-ósme	ósmy:s	subst:pl:nom:m3	nazwa pospolita	
+ósme	ósmy:s	subst:pl:nom.acc:m2	nazwa pospolita	
+ósme	ósmy:s	subst:pl:nom.acc:m3	nazwa pospolita	
 ósme	ósmy:s	subst:pl:voc:m2	nazwa pospolita	
 ósme	ósmy:s	subst:pl:voc:m3	nazwa pospolita	
 ósmych	ósmy:s	subst:pl:gen:m2	nazwa pospolita	
@@ -323,13 +302,11 @@
 ówczasowościami	ówczasowość	subst:pl:inst:f	nazwa pospolita	daw.
 ówczasowością	ówczasowość	subst:sg:inst:f	nazwa pospolita	daw.
 ówczasowościom	ówczasowość	subst:pl:dat:f	nazwa pospolita	daw.
-ówczasowości	ówczasowość	subst:pl:acc:f	nazwa pospolita	daw.
 ówczasowości	ówczasowość	subst:pl:gen:f	nazwa pospolita	daw.
-ówczasowości	ówczasowość	subst:pl:nom:f	nazwa pospolita	daw.
+ówczasowości	ówczasowość	subst:pl:nom.acc:f	nazwa pospolita	daw.
 ówczasowości	ówczasowość	subst:pl:voc:f	nazwa pospolita	daw.
-ówczasowości	ówczasowość	subst:sg:dat:f	nazwa pospolita	daw.
+ówczasowości	ówczasowość	subst:sg:dat.loc:f	nazwa pospolita	daw.
 ówczasowości	ówczasowość	subst:sg:gen:f	nazwa pospolita	daw.
-ówczasowości	ówczasowość	subst:sg:loc:f	nazwa pospolita	daw.
 ówczasowości	ówczasowość	subst:sg:voc:f	nazwa pospolita	daw.
 ówczasowość	ówczasowość	subst:sg:acc:f	nazwa pospolita	daw.
 ówczasowość	ówczasowość	subst:sg:nom:f	nazwa pospolita	daw.
@@ -361,13 +338,11 @@
 ówczesnościami	ówczesność	subst:pl:inst:f	nazwa pospolita	
 ówczesnością	ówczesność	subst:sg:inst:f	nazwa pospolita	
 ówczesnościom	ówczesność	subst:pl:dat:f	nazwa pospolita	
-ówczesności	ówczesność	subst:pl:acc:f	nazwa pospolita	
 ówczesności	ówczesność	subst:pl:gen:f	nazwa pospolita	
-ówczesności	ówczesność	subst:pl:nom:f	nazwa pospolita	
+ówczesności	ówczesność	subst:pl:nom.acc:f	nazwa pospolita	
 ówczesności	ówczesność	subst:pl:voc:f	nazwa pospolita	
-ówczesności	ówczesność	subst:sg:dat:f	nazwa pospolita	
+ówczesności	ówczesność	subst:sg:dat.loc:f	nazwa pospolita	
 ówczesności	ówczesność	subst:sg:gen:f	nazwa pospolita	
-ówczesności	ówczesność	subst:sg:loc:f	nazwa pospolita	
 ówczesności	ówczesność	subst:sg:voc:f	nazwa pospolita	
 ówczesność	ówczesność	subst:sg:acc:f	nazwa pospolita	
 ówczesność	ówczesność	subst:sg:nom:f	nazwa pospolita	
