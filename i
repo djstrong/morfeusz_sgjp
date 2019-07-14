@@ -10125,17 +10125,17 @@ impastowymi	impastowy	adj:pl:inst:m1.m2.m3.f.n:pos
 impastowym	impastowy	adj:pl:dat:m1.m2.m3.f.n:pos		
 impastowym	impastowy	adj:sg:inst:m1.m2.m3.n:pos		
 impastowym	impastowy	adj:sg:loc:m1.m2.m3.n:pos		
-impeachmencie	impeachment	subst:sg:loc:m3	nazwa pospolita	
-impeachmencie	impeachment	subst:sg:voc:m3	nazwa pospolita	
-impeachmentach	impeachment	subst:pl:loc:m3	nazwa pospolita	
-impeachmentami	impeachment	subst:pl:inst:m3	nazwa pospolita	
-impeachmentem	impeachment	subst:sg:inst:m3	nazwa pospolita	
-impeachment	impeachment	subst:sg:nom.acc:m3	nazwa pospolita	
-impeachmentom	impeachment	subst:pl:dat:m3	nazwa pospolita	
-impeachmentowi	impeachment	subst:sg:dat:m3	nazwa pospolita	
-impeachmentów	impeachment	subst:pl:gen:m3	nazwa pospolita	
-impeachmentu	impeachment	subst:sg:gen:m3	nazwa pospolita	
-impeachmenty	impeachment	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+impeachmencie	impeachment	subst:sg:loc:m3	nazwa pospolita	praw.
+impeachmencie	impeachment	subst:sg:voc:m3	nazwa pospolita	praw.
+impeachmentach	impeachment	subst:pl:loc:m3	nazwa pospolita	praw.
+impeachmentami	impeachment	subst:pl:inst:m3	nazwa pospolita	praw.
+impeachmentem	impeachment	subst:sg:inst:m3	nazwa pospolita	praw.
+impeachment	impeachment	subst:sg:nom.acc:m3	nazwa pospolita	praw.
+impeachmentom	impeachment	subst:pl:dat:m3	nazwa pospolita	praw.
+impeachmentowi	impeachment	subst:sg:dat:m3	nazwa pospolita	praw.
+impeachmentów	impeachment	subst:pl:gen:m3	nazwa pospolita	praw.
+impeachmentu	impeachment	subst:sg:gen:m3	nazwa pospolita	praw.
+impeachmenty	impeachment	subst:pl:nom.acc.voc:m3	nazwa pospolita	praw.
 impedancjach	impedancja	subst:pl:loc:f	nazwa pospolita	
 impedancja	impedancja	subst:sg:nom:f	nazwa pospolita	
 impedancjami	impedancja	subst:pl:inst:f	nazwa pospolita	

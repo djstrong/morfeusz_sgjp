@@ -10166,6 +10166,47 @@ nieczajeniem	czaić:v1	ger:sg:inst:n:imperf:neg
 nieczajeniom	czaić:v1	ger:pl:dat:n:imperf:neg		
 nieczajeniu	czaić:v1	ger:sg:dat.loc:n:imperf:neg		
 nieczajeń	czaić:v1	ger:pl:gen:n:imperf:neg		
+nieczająca	czaić:v2	pact:sg:nom.voc:f:imperf:neg		pot.
+nieczającą	czaić:v2	pact:sg:acc.inst:f:imperf:neg		pot.
+nieczające	czaić:v2	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		pot.
+nieczające	czaić:v2	pact:sg:nom.acc.voc:n:imperf:neg		pot.
+nieczającego	czaić:v2	pact:sg:acc:m1.m2:imperf:neg		pot.
+nieczającego	czaić:v2	pact:sg:gen:m1.m2.m3.n:imperf:neg		pot.
+nieczającej	czaić:v2	pact:sg:gen.dat.loc:f:imperf:neg		pot.
+nieczającemu	czaić:v2	pact:sg:dat:m1.m2.m3.n:imperf:neg		pot.
+nieczających	czaić:v2	pact:pl:acc:m1:imperf:neg		pot.
+nieczających	czaić:v2	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
+nieczający	czaić:v2	pact:pl:nom.voc:m1:imperf:neg		pot.
+nieczający	czaić:v2	pact:sg:acc:m3:imperf:neg		pot.
+nieczający	czaić:v2	pact:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
+nieczającym	czaić:v2	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		pot.
+nieczającym	czaić:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		pot.
+nieczającymi	czaić:v2	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		pot.
+nieczajeniach	czaić:v2	ger:pl:loc:n:imperf:neg		pot.
+nieczajenia	czaić:v2	ger:pl:nom.acc:n:imperf:neg		pot.
+nieczajenia	czaić:v2	ger:sg:gen:n:imperf:neg		pot.
+nieczajeniami	czaić:v2	ger:pl:inst:n:imperf:neg		pot.
+nieczajenie	czaić:v2	ger:sg:nom.acc:n:imperf:neg		pot.
+nieczajeniem	czaić:v2	ger:sg:inst:n:imperf:neg		pot.
+nieczajeniom	czaić:v2	ger:pl:dat:n:imperf:neg		pot.
+nieczajeniu	czaić:v2	ger:sg:dat.loc:n:imperf:neg		pot.
+nieczajeń	czaić:v2	ger:pl:gen:n:imperf:neg		pot.
+nieczajona	czaić:v2	ppas:sg:nom.voc:f:imperf:neg		pot.
+nieczajoną	czaić:v2	ppas:sg:acc.inst:f:imperf:neg		pot.
+nieczajone	czaić:v2	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		pot.
+nieczajone	czaić:v2	ppas:sg:nom.acc.voc:n:imperf:neg		pot.
+nieczajonego	czaić:v2	ppas:sg:acc:m1.m2:imperf:neg		pot.
+nieczajonego	czaić:v2	ppas:sg:gen:m1.m2.m3.n:imperf:neg		pot.
+nieczajonej	czaić:v2	ppas:sg:gen.dat.loc:f:imperf:neg		pot.
+nieczajonemu	czaić:v2	ppas:sg:dat:m1.m2.m3.n:imperf:neg		pot.
+nieczajoni	czaić:v2	ppas:pl:nom.voc:m1:imperf:neg		pot.
+nieczajonych	czaić:v2	ppas:pl:acc:m1:imperf:neg		pot.
+nieczajonych	czaić:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
+nieczajony	czaić:v2	ppas:sg:acc:m3:imperf:neg		pot.
+nieczajony	czaić:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
+nieczajonym	czaić:v2	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		pot.
+nieczajonym	czaić:v2	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		pot.
+nieczajonymi	czaić:v2	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		pot.
 nieczajkowaniach	czajkować	ger:pl:loc:n:imperf:neg		
 nieczajkowania	czajkować	ger:pl:nom.acc:n:imperf:neg		
 nieczajkowania	czajkować	ger:sg:gen:n:imperf:neg		

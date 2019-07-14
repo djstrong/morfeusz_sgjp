@@ -4629,12 +4629,12 @@ Dyzmy	Dyzma	subst:sg:gen:m1	imię
 Dyziach	Dyź	subst:pl:loc:m1	imię	
 Dyzia	Dyź	subst:sg:gen.acc:m1	imię	
 Dyziami	Dyź	subst:pl:inst:m1	imię	
-Dyzi	Dyź	subst:pl:gen.acc:m1	imię	
 Dyzie	Dyź	depr:pl:nom.acc.voc:m2	imię	
-Dyzie	Dyź	subst:pl:nom.voc:m1	imię	
 Dyziem	Dyź	subst:sg:inst:m1	imię	
 Dyziom	Dyź	subst:pl:dat:m1	imię	
 Dyziowi	Dyź	subst:sg:dat:m1	imię	
+Dyziowie	Dyź	subst:pl:nom.voc:m1	imię	
+Dyziów	Dyź	subst:pl:gen.acc:m1	imię	
 Dyziu	Dyź	subst:sg:loc:m1	imię	
 Dyziu	Dyź	subst:sg:voc:m1	imię	
 Dyź	Dyź	subst:sg:nom:m1	imię	

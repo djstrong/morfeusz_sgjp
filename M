@@ -4801,17 +4801,29 @@ Meksyku	Meksyk	subst:sg:gen:m3	nazwa geograficzna
 Meksyku	Meksyk	subst:sg:loc:m3	nazwa geograficzna	
 Meksyku	Meksyk	subst:sg:voc:m3	nazwa geograficzna	
 Meksykanach	Meksykanin	subst:pl:loc:m1	nazwa pospolita	
+Meksykanach	Meksykanin	subst:pl:loc:m1	nazwa pospolita	rzad.
 Meksykanami	Meksykanin	subst:pl:inst:m1	nazwa pospolita	
+Meksykanami	Meksykanin	subst:pl:inst:m1	nazwa pospolita	rzad.
 Meksykanie	Meksykanin	subst:pl:nom.voc:m1	nazwa pospolita	
+Meksykanie	Meksykanin	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
 Meksykanina	Meksykanin	subst:sg:gen.acc:m1	nazwa pospolita	
+Meksykanina	Meksykanin	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
 Meksykaninem	Meksykanin	subst:sg:inst:m1	nazwa pospolita	
+Meksykaninem	Meksykanin	subst:sg:inst:m1	nazwa pospolita	rzad.
 Meksykaninie	Meksykanin	subst:sg:loc:m1	nazwa pospolita	
+Meksykaninie	Meksykanin	subst:sg:loc:m1	nazwa pospolita	rzad.
 Meksykaninie	Meksykanin	subst:sg:voc:m1	nazwa pospolita	
+Meksykaninie	Meksykanin	subst:sg:voc:m1	nazwa pospolita	rzad.
 Meksykanin	Meksykanin	subst:sg:nom:m1	nazwa pospolita	
+Meksykanin	Meksykanin	subst:sg:nom:m1	nazwa pospolita	rzad.
 Meksykaninowi	Meksykanin	subst:sg:dat:m1	nazwa pospolita	
+Meksykaninowi	Meksykanin	subst:sg:dat:m1	nazwa pospolita	rzad.
+Meksykan	Meksykanin	subst:pl:gen.acc:m1	nazwa pospolita	rzad.
 Meksykanom	Meksykanin	subst:pl:dat:m1	nazwa pospolita	
+Meksykanom	Meksykanin	subst:pl:dat:m1	nazwa pospolita	rzad.
 Meksykanów	Meksykanin	subst:pl:gen.acc:m1	nazwa pospolita	
 Meksykany	Meksykanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Meksykany	Meksykanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
 Meksykance	Meksykanka	subst:sg:dat.loc:f	nazwa pospolita	
 Meksykanek	Meksykanka	subst:pl:gen:f	nazwa pospolita	
 Meksykankach	Meksykanka	subst:pl:loc:f	nazwa pospolita	

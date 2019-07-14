@@ -1328,54 +1328,54 @@ Janowowi	Janów:s2	subst:sg:dat:m1	nazwisko
 Janowów	Janów:s2	subst:pl:gen.acc:m1	nazwisko	
 Janowy	Janów:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Janów	Janów:s2	subst:sg:nom:m1	nazwisko	
-Jantek	Jantek	subst:sg:nom:m1	imię	
-Jantkach	Jantek	subst:pl:loc:m1	imię	
-Jantka	Jantek	subst:sg:gen.acc:m1	imię	
-Jantkami	Jantek	subst:pl:inst:m1	imię	
-Jantkiem	Jantek	subst:sg:inst:m1	imię	
-Jantki	Jantek	depr:pl:nom.acc.voc:m2	imię	
-Jantkom	Jantek	subst:pl:dat:m1	imię	
-Jantkowie	Jantek	subst:pl:nom.voc:m1	imię	
-Jantkowi	Jantek	subst:sg:dat:m1	imię	
-Jantków	Jantek	subst:pl:gen.acc:m1	imię	
-Jantku	Jantek	subst:sg:loc:m1	imię	
-Jantku	Jantek	subst:sg:voc:m1	imię	
-Jantosiach	Jantosia	subst:pl:loc:f	imię	
-Jantosia	Jantosia	subst:sg:nom:f	imię	
-Jantosiami	Jantosia	subst:pl:inst:f	imię	
-Jantosią	Jantosia	subst:sg:inst:f	imię	
-Jantosie	Jantosia	subst:pl:nom.acc.voc:f	imię	
-Jantosię	Jantosia	subst:sg:acc:f	imię	
-Jantosi	Jantosia	subst:pl:gen:f	imię	hom.|rzad.
-Jantosi	Jantosia	subst:sg:dat.loc:f	imię	
-Jantosi	Jantosia	subst:sg:gen:f	imię	
-Jantosiom	Jantosia	subst:pl:dat:f	imię	
-Jantosiu	Jantosia	subst:sg:voc:f	imię	
-Jantoś	Jantosia	subst:pl:gen:f	imię	char.
-Jantosiek	Jantośka	subst:pl:gen:f	imię	
-Jantośce	Jantośka	subst:sg:dat.loc:f	imię	
-Jantośkach	Jantośka	subst:pl:loc:f	imię	
-Jantośka	Jantośka	subst:sg:nom:f	imię	
-Jantośkami	Jantośka	subst:pl:inst:f	imię	
-Jantośką	Jantośka	subst:sg:inst:f	imię	
-Jantośkę	Jantośka	subst:sg:acc:f	imię	
-Jantośki	Jantośka	subst:pl:nom.acc.voc:f	imię	
-Jantośki	Jantośka	subst:sg:gen:f	imię	
-Jantośko	Jantośka	subst:sg:voc:f	imię	
-Jantośkom	Jantośka	subst:pl:dat:f	imię	
-Jantusiach	Jantuś	subst:pl:loc:m1	imię	
-Jantusia	Jantuś	subst:sg:gen.acc:m1	imię	
-Jantusiami	Jantuś	subst:pl:inst:m1	imię	
-Jantusie	Jantuś	depr:pl:nom.acc.voc:m2	imię	
-Jantusie	Jantuś	subst:pl:nom.voc:m1	imię	
-Jantusiem	Jantuś	subst:sg:inst:m1	imię	
-Jantusiom	Jantuś	subst:pl:dat:m1	imię	
-Jantusiowie	Jantuś	subst:pl:nom.voc:m1	imię	
-Jantusiowi	Jantuś	subst:sg:dat:m1	imię	
-Jantusiów	Jantuś	subst:pl:gen.acc:m1	imię	
-Jantusiu	Jantuś	subst:sg:loc:m1	imię	
-Jantusiu	Jantuś	subst:sg:voc:m1	imię	
-Jantuś	Jantuś	subst:sg:nom:m1	imię	
+Jantek	Jantek	subst:sg:nom:m1	imię	gwar.
+Jantkach	Jantek	subst:pl:loc:m1	imię	gwar.
+Jantka	Jantek	subst:sg:gen.acc:m1	imię	gwar.
+Jantkami	Jantek	subst:pl:inst:m1	imię	gwar.
+Jantkiem	Jantek	subst:sg:inst:m1	imię	gwar.
+Jantki	Jantek	depr:pl:nom.acc.voc:m2	imię	gwar.
+Jantkom	Jantek	subst:pl:dat:m1	imię	gwar.
+Jantkowie	Jantek	subst:pl:nom.voc:m1	imię	gwar.
+Jantkowi	Jantek	subst:sg:dat:m1	imię	gwar.
+Jantków	Jantek	subst:pl:gen.acc:m1	imię	gwar.
+Jantku	Jantek	subst:sg:loc:m1	imię	gwar.
+Jantku	Jantek	subst:sg:voc:m1	imię	gwar.
+Jantosiach	Jantosia	subst:pl:loc:f	imię	gwar.
+Jantosia	Jantosia	subst:sg:nom:f	imię	gwar.
+Jantosiami	Jantosia	subst:pl:inst:f	imię	gwar.
+Jantosią	Jantosia	subst:sg:inst:f	imię	gwar.
+Jantosie	Jantosia	subst:pl:nom.acc.voc:f	imię	gwar.
+Jantosię	Jantosia	subst:sg:acc:f	imię	gwar.
+Jantosi	Jantosia	subst:pl:gen:f	imię	hom.|gwar.|rzad.
+Jantosi	Jantosia	subst:sg:dat.loc:f	imię	gwar.
+Jantosi	Jantosia	subst:sg:gen:f	imię	gwar.
+Jantosiom	Jantosia	subst:pl:dat:f	imię	gwar.
+Jantosiu	Jantosia	subst:sg:voc:f	imię	gwar.
+Jantoś	Jantosia	subst:pl:gen:f	imię	char.|gwar.
+Jantosiek	Jantośka	subst:pl:gen:f	imię	gwar.
+Jantośce	Jantośka	subst:sg:dat.loc:f	imię	gwar.
+Jantośkach	Jantośka	subst:pl:loc:f	imię	gwar.
+Jantośka	Jantośka	subst:sg:nom:f	imię	gwar.
+Jantośkami	Jantośka	subst:pl:inst:f	imię	gwar.
+Jantośką	Jantośka	subst:sg:inst:f	imię	gwar.
+Jantośkę	Jantośka	subst:sg:acc:f	imię	gwar.
+Jantośki	Jantośka	subst:pl:nom.acc.voc:f	imię	gwar.
+Jantośki	Jantośka	subst:sg:gen:f	imię	gwar.
+Jantośko	Jantośka	subst:sg:voc:f	imię	gwar.
+Jantośkom	Jantośka	subst:pl:dat:f	imię	gwar.
+Jantusiach	Jantuś	subst:pl:loc:m1	imię	gwar.
+Jantusia	Jantuś	subst:sg:gen.acc:m1	imię	gwar.
+Jantusiami	Jantuś	subst:pl:inst:m1	imię	gwar.
+Jantusie	Jantuś	depr:pl:nom.acc.voc:m2	imię	gwar.
+Jantusie	Jantuś	subst:pl:nom.voc:m1	imię	gwar.
+Jantusiem	Jantuś	subst:sg:inst:m1	imię	gwar.
+Jantusiom	Jantuś	subst:pl:dat:m1	imię	gwar.
+Jantusiowie	Jantuś	subst:pl:nom.voc:m1	imię	gwar.
+Jantusiowi	Jantuś	subst:sg:dat:m1	imię	gwar.
+Jantusiów	Jantuś	subst:pl:gen.acc:m1	imię	gwar.
+Jantusiu	Jantuś	subst:sg:loc:m1	imię	gwar.
+Jantusiu	Jantuś	subst:sg:voc:m1	imię	gwar.
+Jantuś	Jantuś	subst:sg:nom:m1	imię	gwar.
 Januariach	Januaria	subst:pl:loc:f	imię	
 Januaria	Januaria	subst:sg:nom:f	imię	
 Januariami	Januaria	subst:pl:inst:f	imię	

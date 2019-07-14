@@ -4841,18 +4841,18 @@ Grębowów	Grębów	subst:pl:gen:m3	nazwa geograficzna
 Grębowu	Grębów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
 Grębowy	Grębów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Grębów	Grębów	subst:sg:nom.acc:m3	nazwa geograficzna	
-Gribojedowach	Gribojedow	subst:pl:loc:m1	nazwisko	
-Gribojedowa	Gribojedow	subst:sg:gen.acc:m1	nazwisko	
-Gribojedowami	Gribojedow	subst:pl:inst:m1	nazwisko	
-Gribojedowem	Gribojedow	subst:sg:inst:m1	nazwisko	
-Gribojedow	Gribojedow	subst:sg:nom:m1	nazwisko	
-Gribojedowie	Gribojedow	subst:sg:loc:m1	nazwisko	
-Gribojedowie	Gribojedow	subst:sg:voc:m1	nazwisko	
-Gribojedowom	Gribojedow	subst:pl:dat:m1	nazwisko	
-Gribojedowowie	Gribojedow	subst:pl:nom.voc:m1	nazwisko	
-Gribojedowowi	Gribojedow	subst:sg:dat:m1	nazwisko	
-Gribojedowów	Gribojedow	subst:pl:gen.acc:m1	nazwisko	
-Gribojedowy	Gribojedow	depr:pl:nom.acc.voc:m2	nazwisko	
+Gribojedowach	Gribojedow	subst:pl:loc:m1	imię	
+Gribojedowa	Gribojedow	subst:sg:gen.acc:m1	imię	
+Gribojedowami	Gribojedow	subst:pl:inst:m1	imię	
+Gribojedowem	Gribojedow	subst:sg:inst:m1	imię	
+Gribojedow	Gribojedow	subst:sg:nom:m1	imię	
+Gribojedowie	Gribojedow	subst:sg:loc:m1	imię	
+Gribojedowie	Gribojedow	subst:sg:voc:m1	imię	
+Gribojedowom	Gribojedow	subst:pl:dat:m1	imię	
+Gribojedowowie	Gribojedow	subst:pl:nom.voc:m1	imię	
+Gribojedowowi	Gribojedow	subst:sg:dat:m1	imię	
+Gribojedowów	Gribojedow	subst:pl:gen.acc:m1	imię	
+Gribojedowy	Gribojedow	depr:pl:nom.acc.voc:m2	imię	
 Griegach	Grieg	subst:pl:loc:m1	nazwisko	
 Griega	Grieg	subst:sg:gen.acc:m1	nazwisko	
 Griegami	Grieg	subst:pl:inst:m1	nazwisko	

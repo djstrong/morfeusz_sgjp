@@ -54166,6 +54166,7 @@ luteraninie	luteranin	subst:sg:loc:m1	nazwa pospolita
 luteraninie	luteranin	subst:sg:voc:m1	nazwa pospolita	
 luteranin	luteranin	subst:sg:nom:m1	nazwa pospolita	
 luteraninowi	luteranin	subst:sg:dat:m1	nazwa pospolita	
+luteran	luteranin	subst:pl:gen.acc:m1	nazwa pospolita	
 luteranom	luteranin	subst:pl:dat:m1	nazwa pospolita	
 luteranów	luteranin	subst:pl:gen.acc:m1	nazwa pospolita	
 luterany	luteranin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
