@@ -3675,6 +3675,7 @@ fajtłapy	fajtłapa:s2	subst:pl:acc:f	nazwa pospolita	pot.
 fajtłapy	fajtłapa:s2	subst:pl:nom:f	nazwa pospolita	pot.
 fajtłapy	fajtłapa:s2	subst:pl:voc:f	nazwa pospolita	pot.
 fajtłapy	fajtłapa:s2	subst:sg:gen:f	nazwa pospolita	pot.
+fajtłapowato	fajtłapowato	adv:pos		
 fajtłapowatościach	fajtłapowatość	subst:pl:loc:f	nazwa pospolita	
 fajtłapowatościami	fajtłapowatość	subst:pl:inst:f	nazwa pospolita	
 fajtłapowatością	fajtłapowatość	subst:sg:inst:f	nazwa pospolita	

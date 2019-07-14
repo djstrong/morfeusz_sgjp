@@ -13461,6 +13461,7 @@ heavymetalowcy	heavymetalowiec	subst:pl:nom:m1	nazwa pospolita
 heavymetalowcy	heavymetalowiec	subst:pl:voc:m1	nazwa pospolita	
 heavymetalowcze	heavymetalowiec	subst:sg:voc:m1	nazwa pospolita	
 heavymetalowiec	heavymetalowiec	subst:sg:nom:m1	nazwa pospolita	
+heavymetalowo	heavymetalowo	adv:pos		
 heavymetalowościach	heavymetalowość	subst:pl:loc:f	nazwa pospolita	
 heavymetalowościami	heavymetalowość	subst:pl:inst:f	nazwa pospolita	
 heavymetalowością	heavymetalowość	subst:sg:inst:f	nazwa pospolita	
@@ -15189,6 +15190,7 @@ heinemediny	heinemedina	subst:pl:nom:f	nazwa pospolita	pot.
 heinemediny	heinemedina	subst:pl:voc:f	nazwa pospolita	pot.
 heinemediny	heinemedina	subst:sg:gen:f	nazwa pospolita	pot.
 hej	hej	interj		
+hejka	hejka	interj		pot.
 hejnalistach	hejnalista	subst:pl:loc:m1	nazwa pospolita	
 hejnalista	hejnalista	subst:sg:nom:m1	nazwa pospolita	
 hejnalistami	hejnalista	subst:pl:inst:m1	nazwa pospolita	
@@ -33465,6 +33467,7 @@ hitleryzujesz	hitleryzować	fin:sg:sec:imperf
 hitleryzuję	hitleryzować	fin:sg:pri:imperf		
 hitleryzuj	hitleryzować	impt:sg:sec:imperf		
 hitleryzujmy	hitleryzować	impt:pl:pri:imperf		
+hitowo	hitowo	adv:pos		
 hitowościach	hitowość	subst:pl:loc:f	nazwa pospolita	
 hitowościami	hitowość	subst:pl:inst:f	nazwa pospolita	
 hitowością	hitowość	subst:sg:inst:f	nazwa pospolita	

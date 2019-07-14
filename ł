@@ -5094,13 +5094,6 @@
 łamulcu	łamulec	subst:sg:voc:m3	nazwa pospolita	
 łamulec	łamulec	subst:sg:acc:m3	nazwa pospolita	
 łamulec	łamulec	subst:sg:nom:m3	nazwa pospolita	
-łamach	łamy	subst:pl:loc:p3	nazwa pospolita	przen.
-łamami	łamy	subst:pl:inst:p3	nazwa pospolita	przen.
-łamom	łamy	subst:pl:dat:p3	nazwa pospolita	przen.
-łamów	łamy	subst:pl:gen:p3	nazwa pospolita	przen.
-łamy	łamy	subst:pl:acc:p3	nazwa pospolita	przen.
-łamy	łamy	subst:pl:nom:p3	nazwa pospolita	przen.
-łamy	łamy	subst:pl:voc:p3	nazwa pospolita	przen.
 łanach	łan	subst:pl:loc:m3	nazwa pospolita	
 łana	łan	subst:sg:gen:m3	nazwa pospolita	
 łanami	łan	subst:pl:inst:m3	nazwa pospolita	
@@ -23736,34 +23729,6 @@
 łydkowym	łydkowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 łydkowym	łydkowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 łydkowym	łydkowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-łykach	łyk	subst:pl:loc:m2	nazwa pospolita	pot.
-łykach	łyk	subst:pl:loc:m3	nazwa pospolita	
-łyka	łyk	subst:sg:acc:m2	nazwa pospolita	pot.
-łyka	łyk	subst:sg:gen:m2	nazwa pospolita	pot.
-łykami	łyk	subst:pl:inst:m2	nazwa pospolita	pot.
-łykami	łyk	subst:pl:inst:m3	nazwa pospolita	
-łykiem	łyk	subst:sg:inst:m2	nazwa pospolita	pot.
-łykiem	łyk	subst:sg:inst:m3	nazwa pospolita	
-łyki	łyk	subst:pl:acc:m2	nazwa pospolita	pot.
-łyki	łyk	subst:pl:acc:m3	nazwa pospolita	
-łyki	łyk	subst:pl:nom:m2	nazwa pospolita	pot.
-łyki	łyk	subst:pl:nom:m3	nazwa pospolita	
-łyki	łyk	subst:pl:voc:m2	nazwa pospolita	pot.
-łyki	łyk	subst:pl:voc:m3	nazwa pospolita	
-łyk	łyk	subst:sg:acc:m3	nazwa pospolita	
-łyk	łyk	subst:sg:nom:m2	nazwa pospolita	pot.
-łyk	łyk	subst:sg:nom:m3	nazwa pospolita	
-łykom	łyk	subst:pl:dat:m2	nazwa pospolita	pot.
-łykom	łyk	subst:pl:dat:m3	nazwa pospolita	
-łykowi	łyk	subst:sg:dat:m2	nazwa pospolita	pot.
-łykowi	łyk	subst:sg:dat:m3	nazwa pospolita	
-łyków	łyk	subst:pl:gen:m2	nazwa pospolita	pot.
-łyków	łyk	subst:pl:gen:m3	nazwa pospolita	
-łyku	łyk	subst:sg:gen:m3	nazwa pospolita	
-łyku	łyk	subst:sg:loc:m2	nazwa pospolita	pot.
-łyku	łyk	subst:sg:loc:m3	nazwa pospolita	
-łyku	łyk	subst:sg:voc:m2	nazwa pospolita	pot.
-łyku	łyk	subst:sg:voc:m3	nazwa pospolita	
 łykaczach	łykacz	subst:pl:loc:m1	nazwa pospolita	
 łykacza	łykacz	subst:sg:acc:m1	nazwa pospolita	
 łykacza	łykacz	subst:sg:gen:m1	nazwa pospolita	
@@ -24210,6 +24175,50 @@
 łykowym	łykowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 łykowym	łykowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 łykowym	łykowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+łykach	łyk:s1	subst:pl:loc:m2	nazwa pospolita	pot.
+łykach	łyk:s1	subst:pl:loc:m3	nazwa pospolita	
+łyka	łyk:s1	subst:sg:acc:m2	nazwa pospolita	pot.
+łyka	łyk:s1	subst:sg:gen:m2	nazwa pospolita	pot.
+łykami	łyk:s1	subst:pl:inst:m2	nazwa pospolita	pot.
+łykami	łyk:s1	subst:pl:inst:m3	nazwa pospolita	
+łykiem	łyk:s1	subst:sg:inst:m2	nazwa pospolita	pot.
+łykiem	łyk:s1	subst:sg:inst:m3	nazwa pospolita	
+łyki	łyk:s1	subst:pl:acc:m2	nazwa pospolita	pot.
+łyki	łyk:s1	subst:pl:acc:m3	nazwa pospolita	
+łyki	łyk:s1	subst:pl:nom:m2	nazwa pospolita	pot.
+łyki	łyk:s1	subst:pl:nom:m3	nazwa pospolita	
+łyki	łyk:s1	subst:pl:voc:m2	nazwa pospolita	pot.
+łyki	łyk:s1	subst:pl:voc:m3	nazwa pospolita	
+łyk	łyk:s1	subst:sg:acc:m3	nazwa pospolita	
+łyk	łyk:s1	subst:sg:nom:m2	nazwa pospolita	pot.
+łyk	łyk:s1	subst:sg:nom:m3	nazwa pospolita	
+łykom	łyk:s1	subst:pl:dat:m2	nazwa pospolita	pot.
+łykom	łyk:s1	subst:pl:dat:m3	nazwa pospolita	
+łykowi	łyk:s1	subst:sg:dat:m2	nazwa pospolita	pot.
+łykowi	łyk:s1	subst:sg:dat:m3	nazwa pospolita	
+łyków	łyk:s1	subst:pl:gen:m2	nazwa pospolita	pot.
+łyków	łyk:s1	subst:pl:gen:m3	nazwa pospolita	
+łyku	łyk:s1	subst:sg:gen:m3	nazwa pospolita	
+łyku	łyk:s1	subst:sg:loc:m2	nazwa pospolita	pot.
+łyku	łyk:s1	subst:sg:loc:m3	nazwa pospolita	
+łyku	łyk:s1	subst:sg:voc:m2	nazwa pospolita	pot.
+łyku	łyk:s1	subst:sg:voc:m3	nazwa pospolita	
+łykach	łyk:s2	subst:pl:loc:m1	nazwa pospolita	pogard.
+łyka	łyk:s2	subst:sg:acc:m1	nazwa pospolita	pogard.
+łyka	łyk:s2	subst:sg:gen:m1	nazwa pospolita	pogard.
+łykami	łyk:s2	subst:pl:inst:m1	nazwa pospolita	pogard.
+łykiem	łyk:s2	subst:sg:inst:m1	nazwa pospolita	pogard.
+łyki	łyk:s2	depr:pl:nom:m2	nazwa pospolita	pogard.
+łyki	łyk:s2	depr:pl:voc:m2	nazwa pospolita	pogard.
+łyk	łyk:s2	subst:sg:nom:m1	nazwa pospolita	pogard.
+łykom	łyk:s2	subst:pl:dat:m1	nazwa pospolita	pogard.
+łykowie	łyk:s2	subst:pl:nom:m1	nazwa pospolita	pogard.
+łykowie	łyk:s2	subst:pl:voc:m1	nazwa pospolita	pogard.
+łykowi	łyk:s2	subst:sg:dat:m1	nazwa pospolita	pogard.
+łyków	łyk:s2	subst:pl:acc:m1	nazwa pospolita	pogard.
+łyków	łyk:s2	subst:pl:gen:m1	nazwa pospolita	pogard.
+łyku	łyk:s2	subst:sg:loc:m1	nazwa pospolita	pogard.
+łyku	łyk:s2	subst:sg:voc:m1	nazwa pospolita	pogard.
 łyp	łyp	interj		
 łypać	łypać	inf:imperf		
 łypaliby	łypać	cond:pl:m1.p1:ter:imperf		
