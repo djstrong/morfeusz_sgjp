@@ -1434,8 +1434,7 @@ AIF-owi	AIF	subst:sg:dat:m3	nazwa firmy
 AIF-ów	AIF	subst:pl:gen:m3	nazwa firmy	
 AIF-u	AIF	subst:sg:gen:m3	nazwa firmy	
 AIF-y	AIF	subst:pl:nom.acc.voc:m3	nazwa firmy	
-Aires	Aires:b	burk		
-Aires	Aires:s	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy geograficznej	
+Aires	Aires	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy geograficznej	
 AI	AI:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa organizacji	
 AI	AI:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji	
 AI	AI:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa pospolita|nazwa firmy	

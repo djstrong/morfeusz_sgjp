@@ -4567,7 +4567,7 @@ Blake’u	Blake	subst:sg:loc:m1	nazwisko
 Blake’u	Blake	subst:sg:voc:m1	nazwisko	
 Blaki	Blake	depr:pl:nom.acc.voc:m2	nazwisko	
 Blakiem	Blake	subst:sg:inst:m1	nazwisko	
-Blanc	Blanc	burk		
+Blanc	Blanc	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy własnej	
 Blancharda	Blanchard	subst:sg:gen.acc:m1	nazwisko	
 Blanchardach	Blanchard	subst:pl:loc:m1	nazwisko	
 Blanchardami	Blanchard	subst:pl:inst:m1	nazwisko	
