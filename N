@@ -4006,22 +4006,6 @@ Norblinów	Norblin	subst:pl:acc:m1	nazwisko
 Norblinów	Norblin	subst:pl:gen:m1	nazwisko	
 Norbliny	Norblin	depr:pl:nom:m2	nazwisko	
 Norbliny	Norblin	depr:pl:voc:m2	nazwisko	
-Normanach	Norman	subst:pl:loc:m1	imię	
-Normanami	Norman	subst:pl:inst:m1	imię	
-Normana	Norman	subst:sg:acc:m1	imię	
-Normana	Norman	subst:sg:gen:m1	imię	
-Normanem	Norman	subst:sg:inst:m1	imię	
-Normanie	Norman	subst:sg:loc:m1	imię	
-Normanie	Norman	subst:sg:voc:m1	imię	
-Norman	Norman	subst:sg:nom:m1	imię	
-Normanom	Norman	subst:pl:dat:m1	imię	
-Normanowie	Norman	subst:pl:nom:m1	imię	
-Normanowie	Norman	subst:pl:voc:m1	imię	
-Normanowi	Norman	subst:sg:dat:m1	imię	
-Normanów	Norman	subst:pl:acc:m1	imię	
-Normanów	Norman	subst:pl:gen:m1	imię	
-Normany	Norman	depr:pl:nom:m2	imię	
-Normany	Norman	depr:pl:voc:m2	imię	
 Normandczycy	Normandczyk	subst:pl:nom:m1	nazwa pospolita	
 Normandczycy	Normandczyk	subst:pl:voc:m1	nazwa pospolita	
 Normandczykach	Normandczyk	subst:pl:loc:m1	nazwa pospolita	
@@ -4067,6 +4051,40 @@ Normandki	Normandka	subst:pl:voc:f	nazwa pospolita
 Normandki	Normandka	subst:sg:gen:f	nazwa pospolita	
 Normandkom	Normandka	subst:pl:dat:f	nazwa pospolita	
 Normandko	Normandka	subst:sg:voc:f	nazwa pospolita	
+Normanach	Norman:s1	subst:pl:loc:m1	imię	
+Normanami	Norman:s1	subst:pl:inst:m1	imię	
+Normana	Norman:s1	subst:sg:acc:m1	imię	
+Normana	Norman:s1	subst:sg:gen:m1	imię	
+Normanem	Norman:s1	subst:sg:inst:m1	imię	
+Normanie	Norman:s1	subst:sg:loc:m1	imię	
+Normanie	Norman:s1	subst:sg:voc:m1	imię	
+Norman	Norman:s1	subst:sg:nom:m1	imię	
+Normanom	Norman:s1	subst:pl:dat:m1	imię	
+Normanowie	Norman:s1	subst:pl:nom:m1	imię	
+Normanowie	Norman:s1	subst:pl:voc:m1	imię	
+Normanowi	Norman:s1	subst:sg:dat:m1	imię	
+Normanów	Norman:s1	subst:pl:acc:m1	imię	
+Normanów	Norman:s1	subst:pl:gen:m1	imię	
+Normany	Norman:s1	depr:pl:nom:m2	imię	
+Normany	Norman:s1	depr:pl:voc:m2	imię	
+Normanach	Norman:s2	subst:pl:loc:m1	nazwa pospolita	
+Normanami	Norman:s2	subst:pl:inst:m1	nazwa pospolita	
+Normana	Norman:s2	subst:sg:acc:m1	nazwa pospolita	
+Normana	Norman:s2	subst:sg:gen:m1	nazwa pospolita	
+Normanem	Norman:s2	subst:sg:inst:m1	nazwa pospolita	
+Normanie	Norman:s2	subst:pl:nom:m1	nazwa pospolita	
+Normanie	Norman:s2	subst:pl:voc:m1	nazwa pospolita	
+Normanie	Norman:s2	subst:sg:loc:m1	nazwa pospolita	
+Normanie	Norman:s2	subst:sg:voc:m1	nazwa pospolita	
+Norman	Norman:s2	subst:sg:nom:m1	nazwa pospolita	
+Normanom	Norman:s2	subst:pl:dat:m1	nazwa pospolita	
+Normanowie	Norman:s2	subst:pl:nom:m1	nazwa pospolita	
+Normanowie	Norman:s2	subst:pl:voc:m1	nazwa pospolita	
+Normanowi	Norman:s2	subst:sg:dat:m1	nazwa pospolita	
+Normanów	Norman:s2	subst:pl:acc:m1	nazwa pospolita	
+Normanów	Norman:s2	subst:pl:gen:m1	nazwa pospolita	
+Normany	Norman:s2	depr:pl:nom:m2	nazwa pospolita	
+Normany	Norman:s2	depr:pl:voc:m2	nazwa pospolita	
 Norwedzy	Norweg	subst:pl:nom:m1	nazwa pospolita	
 Norwedzy	Norweg	subst:pl:voc:m1	nazwa pospolita	
 Norwegach	Norweg	subst:pl:loc:m1	nazwa pospolita	

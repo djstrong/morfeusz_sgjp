@@ -2309,8 +2309,6 @@ Germaniku	Germanik	subst:sg:loc:m1	imię
 Germaniku	Germanik	subst:sg:voc:m1	imię	
 Germanach	Germanin	subst:pl:loc:m1	nazwa pospolita	
 Germanami	Germanin	subst:pl:inst:m1	nazwa pospolita	
-German	Germanin	subst:pl:acc:m1	nazwa pospolita	
-German	Germanin	subst:pl:gen:m1	nazwa pospolita	
 Germanie	Germanin	subst:pl:nom:m1	nazwa pospolita	
 Germanie	Germanin	subst:pl:voc:m1	nazwa pospolita	
 Germanina	Germanin	subst:sg:acc:m1	nazwa pospolita	
@@ -2321,6 +2319,10 @@ Germaninie	Germanin	subst:sg:loc:m1	nazwa pospolita
 Germaninie	Germanin	subst:sg:voc:m1	nazwa pospolita	
 Germaninowi	Germanin	subst:sg:dat:m1	nazwa pospolita	
 Germanom	Germanin	subst:pl:dat:m1	nazwa pospolita	
+Germanowie	Germanin	subst:pl:nom:m1	nazwa pospolita	
+Germanowie	Germanin	subst:pl:voc:m1	nazwa pospolita	
+Germanów	Germanin	subst:pl:acc:m1	nazwa pospolita	
+Germanów	Germanin	subst:pl:gen:m1	nazwa pospolita	
 Germany	Germanin	depr:pl:nom:m2	nazwa pospolita	
 Germany	Germanin	depr:pl:voc:m2	nazwa pospolita	
 Gershwinach	Gershwin	subst:pl:loc:m1	nazwisko	
