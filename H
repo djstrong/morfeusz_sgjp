@@ -17734,6 +17734,29 @@ Hongkongów	Hongkong	subst:pl:gen:m3	nazwa geograficzna
 Hongkongu	Hongkong	subst:sg:gen:m3	nazwa geograficzna	
 Hongkongu	Hongkong	subst:sg:loc:m3	nazwa geograficzna	
 Hongkongu	Hongkong	subst:sg:voc:m3	nazwa geograficzna	
+Hongkonce	Hongkonka	subst:sg:dat.loc:f	nazwa pospolita	
+Hongkonek	Hongkonka	subst:pl:gen:f	nazwa pospolita	
+Hongkonkach	Hongkonka	subst:pl:loc:f	nazwa pospolita	
+Hongkonka	Hongkonka	subst:sg:nom:f	nazwa pospolita	
+Hongkonkami	Hongkonka	subst:pl:inst:f	nazwa pospolita	
+Hongkonką	Hongkonka	subst:sg:inst:f	nazwa pospolita	
+Hongkonkę	Hongkonka	subst:sg:acc:f	nazwa pospolita	
+Hongkonki	Hongkonka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+Hongkonki	Hongkonka	subst:sg:gen:f	nazwa pospolita	
+Hongkonko	Hongkonka	subst:sg:voc:f	nazwa pospolita	
+Hongkonkom	Hongkonka	subst:pl:dat:f	nazwa pospolita	
+Hongkończycy	Hongkończyk	subst:pl:nom.voc:m1	nazwa pospolita	
+Hongkończykach	Hongkończyk	subst:pl:loc:m1	nazwa pospolita	
+Hongkończyka	Hongkończyk	subst:sg:gen.acc:m1	nazwa pospolita	
+Hongkończykami	Hongkończyk	subst:pl:inst:m1	nazwa pospolita	
+Hongkończyk	Hongkończyk	subst:sg:nom:m1	nazwa pospolita	
+Hongkończykiem	Hongkończyk	subst:sg:inst:m1	nazwa pospolita	
+Hongkończyki	Hongkończyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Hongkończykom	Hongkończyk	subst:pl:dat:m1	nazwa pospolita	
+Hongkończykowi	Hongkończyk	subst:sg:dat:m1	nazwa pospolita	
+Hongkończyków	Hongkończyk	subst:pl:gen.acc:m1	nazwa pospolita	
+Hongkończyku	Hongkończyk	subst:sg:loc:m1	nazwa pospolita	
+Hongkończyku	Hongkończyk	subst:sg:voc:m1	nazwa pospolita	
 Honiszach	Honisz:s1	subst:pl:loc:m1	nazwisko	
 Honisza	Honisz:s1	subst:sg:gen.acc:m1	nazwisko	
 Honiszami	Honisz:s1	subst:pl:inst:m1	nazwisko	

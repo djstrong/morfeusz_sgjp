@@ -8793,6 +8793,18 @@ Chinki	Chinka	subst:pl:nom.acc.voc:f	nazwa pospolita
 Chinki	Chinka	subst:sg:gen:f	nazwa pospolita	
 Chinko	Chinka	subst:sg:voc:f	nazwa pospolita	
 Chinkom	Chinka	subst:pl:dat:f	nazwa pospolita	
+Chinolach	Chinol	subst:pl:loc:m1	nazwa pospolita	pot.
+Chinola	Chinol	subst:sg:gen.acc:m1	nazwa pospolita	pot.
+Chinolami	Chinol	subst:pl:inst:m1	nazwa pospolita	pot.
+Chinol	Chinol	subst:sg:nom:m1	nazwa pospolita	pot.
+Chinole	Chinol	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+Chinole	Chinol	subst:pl:nom.voc:m1	nazwa pospolita	pot.
+Chinolem	Chinol	subst:sg:inst:m1	nazwa pospolita	pot.
+Chinolom	Chinol	subst:pl:dat:m1	nazwa pospolita	pot.
+Chinolowi	Chinol	subst:sg:dat:m1	nazwa pospolita	pot.
+Chinolów	Chinol	subst:pl:gen.acc:m1	nazwa pospolita	pot.
+Chinolu	Chinol	subst:sg:loc:m1	nazwa pospolita	pot.
+Chinolu	Chinol	subst:sg:voc:m1	nazwa pospolita	pot.
 Chinach	Chiny	subst:pl:loc:n:pt	nazwa geograficzna	
 Chinach	Chiny	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Chinami	Chiny	subst:pl:inst:n:pt	nazwa geograficzna	
@@ -11870,6 +11882,17 @@ Chodzidłów	Chodzidło:s1	subst:pl:gen.acc:m1	nazwisko
 Chodzidły	Chodzidło:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Chodzidły	Chodzidło:s1	subst:sg:gen:m1	nazwisko	
 Chodzidło	Chodzidło:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Chodzieżach	Chodzież	subst:pl:loc:f	nazwa geograficzna	
+Chodzieżami	Chodzież	subst:pl:inst:f	nazwa geograficzna	
+Chodzieżą	Chodzież	subst:sg:inst:f	nazwa geograficzna	
+Chodzież	Chodzież	subst:sg:acc:f	nazwa geograficzna	
+Chodzież	Chodzież	subst:sg:nom:f	nazwa geograficzna	
+Chodzieże	Chodzież	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Chodzieżom	Chodzież	subst:pl:dat:f	nazwa geograficzna	
+Chodzieży	Chodzież	subst:pl:gen:f	nazwa geograficzna	
+Chodzieży	Chodzież	subst:sg:dat.loc:f	nazwa geograficzna	
+Chodzieży	Chodzież	subst:sg:gen:f	nazwa geograficzna	
+Chodzieży	Chodzież	subst:sg:voc:f	nazwa geograficzna	
 Chodzińska	Chodzińska	subst:sg:nom:f	nazwisko	
 Chodzińska	Chodzińska	subst:sg:voc:f	nazwisko	
 Chodzińską	Chodzińska	subst:sg:acc:f	nazwisko	
@@ -14133,6 +14156,16 @@ Choszczewskim	Choszczewski	subst:pl:dat:m1	nazwisko
 Choszczewskim	Choszczewski	subst:sg:inst:m1	nazwisko	
 Choszczewskim	Choszczewski	subst:sg:loc:m1	nazwisko	
 Choszczewskimi	Choszczewski	subst:pl:inst:m1	nazwisko	
+Choszcznach	Choszczno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Choszczna	Choszczno	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Choszczna	Choszczno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Choszcznami	Choszczno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Choszczn	Choszczno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Choszcznem	Choszczno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Choszcznie	Choszczno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Choszczno	Choszczno	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Choszcznom	Choszczno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Choszcznu	Choszczno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Choszczach	Choszcz:s2	subst:pl:loc:m1	nazwisko	
 Choszcza	Choszcz:s2	subst:sg:gen.acc:m1	nazwisko	
 Choszczami	Choszcz:s2	subst:pl:inst:m1	nazwisko	

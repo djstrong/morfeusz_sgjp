@@ -29104,6 +29104,29 @@ lidytowi	lidyt	subst:sg:dat:m3	nazwa pospolita
 lidytów	lidyt	subst:pl:gen:m3	nazwa pospolita	
 lidytu	lidyt	subst:sg:gen:m3	nazwa pospolita	
 lidyty	lidyt	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+lidzbarczanach	lidzbarczanin	subst:pl:loc:m1	nazwa pospolita	
+lidzbarczanami	lidzbarczanin	subst:pl:inst:m1	nazwa pospolita	
+lidzbarczanie	lidzbarczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+lidzbarczanina	lidzbarczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+lidzbarczaninem	lidzbarczanin	subst:sg:inst:m1	nazwa pospolita	
+lidzbarczaninie	lidzbarczanin	subst:sg:loc:m1	nazwa pospolita	
+lidzbarczaninie	lidzbarczanin	subst:sg:voc:m1	nazwa pospolita	
+lidzbarczanin	lidzbarczanin	subst:sg:nom:m1	nazwa pospolita	
+lidzbarczaninowi	lidzbarczanin	subst:sg:dat:m1	nazwa pospolita	
+lidzbarczan	lidzbarczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+lidzbarczanom	lidzbarczanin	subst:pl:dat:m1	nazwa pospolita	
+lidzbarczany	lidzbarczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+lidzbarczance	lidzbarczanka	subst:sg:dat.loc:f	nazwa pospolita	
+lidzbarczanek	lidzbarczanka	subst:pl:gen:f	nazwa pospolita	
+lidzbarczankach	lidzbarczanka	subst:pl:loc:f	nazwa pospolita	
+lidzbarczanka	lidzbarczanka	subst:sg:nom:f	nazwa pospolita	
+lidzbarczankami	lidzbarczanka	subst:pl:inst:f	nazwa pospolita	
+lidzbarczanką	lidzbarczanka	subst:sg:inst:f	nazwa pospolita	
+lidzbarczankę	lidzbarczanka	subst:sg:acc:f	nazwa pospolita	
+lidzbarczanki	lidzbarczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+lidzbarczanki	lidzbarczanka	subst:sg:gen:f	nazwa pospolita	
+lidzbarczanko	lidzbarczanka	subst:sg:voc:f	nazwa pospolita	
+lidzbarczankom	lidzbarczanka	subst:pl:dat:f	nazwa pospolita	
 lidzbarscy	lidzbarski	adj:pl:nom.voc:m1:pos		
 lidzbarska	lidzbarski	adj:sg:nom.voc:f:pos		
 lidzbarską	lidzbarski	adj:sg:acc:f:pos		
@@ -56124,6 +56147,29 @@ lwowskości	lwowskość	subst:sg:voc:f	nazwa pospolita
 lwowskościom	lwowskość	subst:pl:dat:f	nazwa pospolita	
 lwowskość	lwowskość	subst:sg:acc:f	nazwa pospolita	
 lwowskość	lwowskość	subst:sg:nom:f	nazwa pospolita	
+lwówczanach	lwówczanin	subst:pl:loc:m1	nazwa pospolita	
+lwówczanami	lwówczanin	subst:pl:inst:m1	nazwa pospolita	
+lwówczanie	lwówczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+lwówczanina	lwówczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+lwówczaninem	lwówczanin	subst:sg:inst:m1	nazwa pospolita	
+lwówczaninie	lwówczanin	subst:sg:loc:m1	nazwa pospolita	
+lwówczaninie	lwówczanin	subst:sg:voc:m1	nazwa pospolita	
+lwówczanin	lwówczanin	subst:sg:nom:m1	nazwa pospolita	
+lwówczaninowi	lwówczanin	subst:sg:dat:m1	nazwa pospolita	
+lwówczan	lwówczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+lwówczanom	lwówczanin	subst:pl:dat:m1	nazwa pospolita	
+lwówczany	lwówczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+lwówczance	lwówczanka	subst:sg:dat.loc:f	nazwa pospolita	
+lwówczanek	lwówczanka	subst:pl:gen:f	nazwa pospolita	
+lwówczankach	lwówczanka	subst:pl:loc:f	nazwa pospolita	
+lwówczanka	lwówczanka	subst:sg:nom:f	nazwa pospolita	
+lwówczankami	lwówczanka	subst:pl:inst:f	nazwa pospolita	
+lwówczanką	lwówczanka	subst:sg:inst:f	nazwa pospolita	
+lwówczankę	lwówczanka	subst:sg:acc:f	nazwa pospolita	
+lwówczanki	lwówczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+lwówczanki	lwówczanka	subst:sg:gen:f	nazwa pospolita	
+lwówczanko	lwówczanka	subst:sg:voc:f	nazwa pospolita	
+lwówczankom	lwówczanka	subst:pl:dat:f	nazwa pospolita	
 lwóweccy	lwówecki	adj:pl:nom.voc:m1:pos		
 lwówecka	lwówecki	adj:sg:nom.voc:f:pos		
 lwówecką	lwówecki	adj:sg:acc:f:pos		

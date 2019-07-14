@@ -3894,6 +3894,17 @@ Galicjaninie	Galicjanin	subst:sg:voc:m1	nazwa pospolita
 Galicjaninowi	Galicjanin	subst:sg:dat:m1	nazwa pospolita	
 Galicjanom	Galicjanin	subst:pl:dat:m1	nazwa pospolita	
 Galicjany	Galicjanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Galicjance	Galicjanka	subst:sg:dat.loc:f	nazwa pospolita	
+Galicjanek	Galicjanka	subst:pl:gen:f	nazwa pospolita	
+Galicjankach	Galicjanka	subst:pl:loc:f	nazwa pospolita	
+Galicjanka	Galicjanka	subst:sg:nom:f	nazwa pospolita	
+Galicjankami	Galicjanka	subst:pl:inst:f	nazwa pospolita	
+Galicjanką	Galicjanka	subst:sg:inst:f	nazwa pospolita	
+Galicjankę	Galicjanka	subst:sg:acc:f	nazwa pospolita	
+Galicjanki	Galicjanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+Galicjanki	Galicjanka	subst:sg:gen:f	nazwa pospolita	
+Galicjanko	Galicjanka	subst:sg:voc:f	nazwa pospolita	
+Galicjankom	Galicjanka	subst:pl:dat:f	nazwa pospolita	
 Galicka	Galicka	subst:sg:nom:f	nazwisko	
 Galicka	Galicka	subst:sg:voc:f	nazwisko	
 Galicką	Galicka	subst:sg:acc:f	nazwisko	
@@ -8870,6 +8881,17 @@ Garwarskim	Garwarski	subst:pl:dat:m1	nazwisko
 Garwarskim	Garwarski	subst:sg:inst:m1	nazwisko	
 Garwarskim	Garwarski	subst:sg:loc:m1	nazwisko	
 Garwarskimi	Garwarski	subst:pl:inst:m1	nazwisko	
+Garwolinach	Garwolin	subst:pl:loc:m3	nazwa geograficzna	
+Garwolina	Garwolin	subst:sg:gen:m3	nazwa geograficzna	
+Garwolinami	Garwolin	subst:pl:inst:m3	nazwa geograficzna	
+Garwolinem	Garwolin	subst:sg:inst:m3	nazwa geograficzna	
+Garwolin	Garwolin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Garwolinie	Garwolin	subst:sg:loc:m3	nazwa geograficzna	
+Garwolinie	Garwolin	subst:sg:voc:m3	nazwa geograficzna	
+Garwolinom	Garwolin	subst:pl:dat:m3	nazwa geograficzna	
+Garwolinowi	Garwolin	subst:sg:dat:m3	nazwa geograficzna	
+Garwolinów	Garwolin	subst:pl:gen:m3	nazwa geograficzna	
+Garwoliny	Garwolin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Garwolińska	Garwolińska	subst:sg:nom:f	nazwisko	
 Garwolińska	Garwolińska	subst:sg:voc:f	nazwisko	
 Garwolińską	Garwolińska	subst:sg:acc:f	nazwisko	
@@ -34451,6 +34473,17 @@ Gostycynom	Gostycyn	subst:pl:dat:m3	nazwa geograficzna
 Gostycynowi	Gostycyn	subst:sg:dat:m3	nazwa geograficzna	
 Gostycynów	Gostycyn	subst:pl:gen:m3	nazwa geograficzna	
 Gostycyny	Gostycyn	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Gostyninach	Gostynin	subst:pl:loc:m3	nazwa geograficzna	
+Gostynina	Gostynin	subst:sg:gen:m3	nazwa geograficzna	
+Gostyninami	Gostynin	subst:pl:inst:m3	nazwa geograficzna	
+Gostyninem	Gostynin	subst:sg:inst:m3	nazwa geograficzna	
+Gostynin	Gostynin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Gostyninie	Gostynin	subst:sg:loc:m3	nazwa geograficzna	
+Gostyninie	Gostynin	subst:sg:voc:m3	nazwa geograficzna	
+Gostyninom	Gostynin	subst:pl:dat:m3	nazwa geograficzna	
+Gostyninowi	Gostynin	subst:sg:dat:m3	nazwa geograficzna	
+Gostyninów	Gostynin	subst:pl:gen:m3	nazwa geograficzna	
+Gostyniny	Gostynin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Gostyniach	Gostyń	subst:pl:loc:m3	nazwa geograficzna	
 Gostynia	Gostyń	subst:sg:gen:m3	nazwa geograficzna	
 Gostyniami	Gostyń	subst:pl:inst:m3	nazwa geograficzna	
@@ -48289,6 +48322,16 @@ Gryfic	Gryfice	subst:pl:gen:n:pt	nazwa geograficzna
 Gryfic	Gryfice	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
 Gryficom	Gryfice	subst:pl:dat:n:pt	nazwa geograficzna	
 Gryficom	Gryfice	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+Gryfinach	Gryfino	subst:pl:loc:n:ncol	nazwa geograficzna	
+Gryfina	Gryfino	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Gryfina	Gryfino	subst:sg:gen:n:ncol	nazwa geograficzna	
+Gryfinami	Gryfino	subst:pl:inst:n:ncol	nazwa geograficzna	
+Gryfinem	Gryfino	subst:sg:inst:n:ncol	nazwa geograficzna	
+Gryfin	Gryfino	subst:pl:gen:n:ncol	nazwa geograficzna	
+Gryfinie	Gryfino	subst:sg:loc:n:ncol	nazwa geograficzna	
+Gryfino	Gryfino	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Gryfinom	Gryfino	subst:pl:dat:n:ncol	nazwa geograficzna	
+Gryfinu	Gryfino	subst:sg:dat:n:ncol	nazwa geograficzna	
 Gryfowach	Gryfów	subst:pl:loc:m3	nazwa geograficzna	
 Gryfowa	Gryfów	subst:sg:gen:m3	nazwa geograficzna	
 Gryfowami	Gryfów	subst:pl:inst:m3	nazwa geograficzna	

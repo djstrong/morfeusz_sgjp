@@ -50097,6 +50097,17 @@ frankfurterki	frankfurterka	subst:pl:nom.acc.voc:f	nazwa pospolita
 frankfurterki	frankfurterka	subst:sg:gen:f	nazwa pospolita	
 frankfurterko	frankfurterka	subst:sg:voc:f	nazwa pospolita	
 frankfurterkom	frankfurterka	subst:pl:dat:f	nazwa pospolita	
+frankfurtce	frankfurtka	subst:sg:dat.loc:f	nazwa pospolita	
+frankfurtek	frankfurtka	subst:pl:gen:f	nazwa pospolita	
+frankfurtkach	frankfurtka	subst:pl:loc:f	nazwa pospolita	
+frankfurtka	frankfurtka	subst:sg:nom:f	nazwa pospolita	
+frankfurtkami	frankfurtka	subst:pl:inst:f	nazwa pospolita	
+frankfurtką	frankfurtka	subst:sg:inst:f	nazwa pospolita	
+frankfurtkę	frankfurtka	subst:sg:acc:f	nazwa pospolita	
+frankfurtki	frankfurtka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+frankfurtki	frankfurtka	subst:sg:gen:f	nazwa pospolita	
+frankfurtko	frankfurtka	subst:sg:voc:f	nazwa pospolita	
+frankfurtkom	frankfurtka	subst:pl:dat:f	nazwa pospolita	
 frankijscy	frankijski	adj:pl:nom.voc:m1:pos		
 frankijska	frankijski	adj:sg:nom.voc:f:pos		
 frankijską	frankijski	adj:sg:acc:f:pos		

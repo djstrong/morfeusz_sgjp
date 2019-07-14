@@ -8631,6 +8631,18 @@ Japonii	Japonia	subst:sg:gen:f	nazwa geograficzna
 Japonij	Japonia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Japonio	Japonia	subst:sg:voc:f	nazwa geograficzna	
 Japoniom	Japonia	subst:pl:dat:f	nazwa geograficzna	
+Japoniec	Japoniec	subst:sg:nom:m1	nazwa pospolita	pot.
+Japońcach	Japoniec	subst:pl:loc:m1	nazwa pospolita	pot.
+Japońca	Japoniec	subst:sg:gen.acc:m1	nazwa pospolita	pot.
+Japońcami	Japoniec	subst:pl:inst:m1	nazwa pospolita	pot.
+Japońce	Japoniec	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+Japońcem	Japoniec	subst:sg:inst:m1	nazwa pospolita	pot.
+Japońcom	Japoniec	subst:pl:dat:m1	nazwa pospolita	pot.
+Japońcowi	Japoniec	subst:sg:dat:m1	nazwa pospolita	pot.
+Japońców	Japoniec	subst:pl:gen.acc:m1	nazwa pospolita	pot.
+Japońcu	Japoniec	subst:sg:loc:m1	nazwa pospolita	pot.
+Japońcu	Japoniec	subst:sg:voc:m1	nazwa pospolita	pot.
+Japońcy	Japoniec	subst:pl:nom.voc:m1	nazwa pospolita	pot.
 Japonce	Japonka	subst:sg:dat.loc:f	nazwa pospolita	
 Japonek	Japonka	subst:pl:gen:f	nazwa pospolita	
 Japonkach	Japonka	subst:pl:loc:f	nazwa pospolita	
@@ -14247,6 +14259,17 @@ Jaworowów	Jaworów	subst:pl:gen:m3	nazwa geograficzna
 Jaworowu	Jaworów	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")
 Jaworowy	Jaworów	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Jaworów	Jaworów	subst:sg:nom.acc:m3	nazwa geograficzna	
+Jaworach	Jawor:s1	subst:pl:loc:m3	nazwa geograficzna	
+Jaworami	Jawor:s1	subst:pl:inst:m3	nazwa geograficzna	
+Jaworem	Jawor:s1	subst:sg:inst:m3	nazwa geograficzna	
+Jawor	Jawor:s1	subst:sg:nom.acc:m3	nazwa geograficzna	
+Jaworom	Jawor:s1	subst:pl:dat:m3	nazwa geograficzna	
+Jaworowi	Jawor:s1	subst:sg:dat:m3	nazwa geograficzna	
+Jaworów	Jawor:s1	subst:pl:gen:m3	nazwa geograficzna	
+Jaworu	Jawor:s1	subst:sg:gen:m3	nazwa geograficzna	
+Jawory	Jawor:s1	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Jaworze	Jawor:s1	subst:sg:loc:m3	nazwa geograficzna	
+Jaworze	Jawor:s1	subst:sg:voc:m3	nazwa geograficzna	
 Jaworach	Jawor:s3	subst:pl:loc:m1	nazwisko	
 Jawora	Jawor:s3	subst:sg:gen.acc:m1	nazwisko	
 Jaworami	Jawor:s3	subst:pl:inst:m1	nazwisko	
@@ -14283,6 +14306,16 @@ Jaworskimi	Jaworski	subst:pl:inst:m1	nazwisko
 Jaworskim	Jaworski	subst:pl:dat:m1	nazwisko	
 Jaworskim	Jaworski	subst:sg:inst:m1	nazwisko	
 Jaworskim	Jaworski	subst:sg:loc:m1	nazwisko	
+Jaworzach	Jaworze	subst:pl:loc:n:ncol	nazwa geograficzna	
+Jaworza	Jaworze	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Jaworza	Jaworze	subst:sg:gen:n:ncol	nazwa geograficzna	
+Jaworzami	Jaworze	subst:pl:inst:n:ncol	nazwa geograficzna	
+Jaworze	Jaworze	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Jaworzem	Jaworze	subst:sg:inst:n:ncol	nazwa geograficzna	
+Jaworzom	Jaworze	subst:pl:dat:n:ncol	nazwa geograficzna	
+Jaworzu	Jaworze	subst:sg:dat:n:ncol	nazwa geograficzna	
+Jaworzu	Jaworze	subst:sg:loc:n:ncol	nazwa geograficzna	
+Jaworzy	Jaworze	subst:pl:gen:n:ncol	nazwa geograficzna	
 Jaworznach	Jaworzno	subst:pl:loc:n:ncol	nazwa geograficzna	
 Jaworzna	Jaworzno	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
 Jaworzna	Jaworzno	subst:sg:gen:n:ncol	nazwa geograficzna	

@@ -12913,6 +12913,16 @@ Ważyńskim	Ważyński	subst:sg:inst:m1	nazwisko
 Ważyńskim	Ważyński	subst:sg:loc:m1	nazwisko	
 Ważyński	Ważyński	subst:sg:nom:m1	nazwisko	
 Ważyński	Ważyński	subst:sg:voc:m1	nazwisko	
+Wąbrzeźnach	Wąbrzeźno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Wąbrzeźnami	Wąbrzeźno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Wąbrzeźna	Wąbrzeźno	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Wąbrzeźna	Wąbrzeźno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Wąbrzeźnem	Wąbrzeźno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Wąbrzeźnie	Wąbrzeźno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Wąbrzeźnom	Wąbrzeźno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Wąbrzeźno	Wąbrzeźno	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Wąbrzeźnu	Wąbrzeźno	subst:sg:dat:n:ncol	nazwa geograficzna	
+Wąbrzeźn	Wąbrzeźno	subst:pl:gen:n:ncol	nazwa geograficzna	
 Wąchalach	Wąchal:s1	subst:pl:loc:m1	nazwisko	
 Wąchalami	Wąchal:s1	subst:pl:inst:m1	nazwisko	
 Wąchala	Wąchal:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -16247,6 +16257,17 @@ Wenusjanin	Wenusjanin	subst:sg:nom:m1	nazwa pospolita
 Wenusjanom	Wenusjanin	subst:pl:dat:m1	nazwa pospolita	
 Wenusjan	Wenusjanin	subst:pl:gen.acc:m1	nazwa pospolita	
 Wenusjany	Wenusjanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Wenusjance	Wenusjanka	subst:sg:dat.loc:f	nazwa pospolita	
+Wenusjanek	Wenusjanka	subst:pl:gen:f	nazwa pospolita	
+Wenusjankach	Wenusjanka	subst:pl:loc:f	nazwa pospolita	
+Wenusjankami	Wenusjanka	subst:pl:inst:f	nazwa pospolita	
+Wenusjanka	Wenusjanka	subst:sg:nom:f	nazwa pospolita	
+Wenusjanką	Wenusjanka	subst:sg:inst:f	nazwa pospolita	
+Wenusjankę	Wenusjanka	subst:sg:acc:f	nazwa pospolita	
+Wenusjanki	Wenusjanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+Wenusjanki	Wenusjanka	subst:sg:gen:f	nazwa pospolita	
+Wenusjankom	Wenusjanka	subst:pl:dat:f	nazwa pospolita	
+Wenusjanko	Wenusjanka	subst:sg:voc:f	nazwa pospolita	
 Wenus	Wenus:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa własna astronomiczna	
 Wenusach	Wenus:s3	subst:pl:loc:m1	nazwisko	
 Wenusami	Wenus:s3	subst:pl:inst:m1	nazwisko	
@@ -34648,6 +34669,17 @@ Włodarzu	Włodarz:s2	subst:sg:loc:m1	nazwisko
 Włodarzu	Włodarz:s2	subst:sg:voc:m1	nazwisko	
 Włodarz	Włodarz:s2	subst:sg:nom:m1	nazwisko	
 Włodarz	Włodarz:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Włodawach	Włodawa	subst:pl:loc:f	nazwa geograficzna	
+Włodawami	Włodawa	subst:pl:inst:f	nazwa geograficzna	
+Włodawa	Włodawa	subst:sg:nom:f	nazwa geograficzna	
+Włodawą	Włodawa	subst:sg:inst:f	nazwa geograficzna	
+Włodawę	Włodawa	subst:sg:acc:f	nazwa geograficzna	
+Włodawie	Włodawa	subst:sg:dat.loc:f	nazwa geograficzna	
+Włodawom	Włodawa	subst:pl:dat:f	nazwa geograficzna	
+Włodawo	Włodawa	subst:sg:voc:f	nazwa geograficzna	
+Włodaw	Włodawa	subst:pl:gen:f	nazwa geograficzna	
+Włodawy	Włodawa	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Włodawy	Włodawa	subst:sg:gen:f	nazwa geograficzna	
 Włodeczek	Włodeczek	subst:sg:nom:m1	imię	
 Włodeczkach	Włodeczek	subst:pl:loc:m1	imię	
 Włodeczkami	Włodeczek	subst:pl:inst:m1	imię	
@@ -46513,6 +46545,17 @@ Wrzyszczu	Wrzyszcz:s1	subst:sg:loc:m1	nazwisko
 Wrzyszczu	Wrzyszcz:s1	subst:sg:voc:m1	nazwisko	
 Wrzyszcz	Wrzyszcz:s1	subst:sg:nom:m1	nazwisko	
 Wrzyszcz	Wrzyszcz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Wschowach	Wschowa	subst:pl:loc:f	nazwa geograficzna	
+Wschowami	Wschowa	subst:pl:inst:f	nazwa geograficzna	
+Wschowa	Wschowa	subst:sg:nom:f	nazwa geograficzna	
+Wschową	Wschowa	subst:sg:inst:f	nazwa geograficzna	
+Wschowę	Wschowa	subst:sg:acc:f	nazwa geograficzna	
+Wschowie	Wschowa	subst:sg:dat.loc:f	nazwa geograficzna	
+Wschowom	Wschowa	subst:pl:dat:f	nazwa geograficzna	
+Wschowo	Wschowa	subst:sg:voc:f	nazwa geograficzna	
+Wschowy	Wschowa	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Wschowy	Wschowa	subst:sg:gen:f	nazwa geograficzna	
+Wschów	Wschowa	subst:pl:gen:f	nazwa geograficzna	
 WSI	WSI	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji	
 WSiP-ach	WSiP	subst:pl:loc:m3	nazwa firmy	
 WSiP-ami	WSiP	subst:pl:inst:m3	nazwa firmy	

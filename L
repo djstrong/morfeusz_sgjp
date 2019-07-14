@@ -16103,6 +16103,16 @@ Lipniewskimi	Lipniewski	subst:pl:inst:m1	nazwisko
 Lipniewskim	Lipniewski	subst:pl:dat:m1	nazwisko	
 Lipniewskim	Lipniewski	subst:sg:inst:m1	nazwisko	
 Lipniewskim	Lipniewski	subst:sg:loc:m1	nazwisko	
+Lipnach	Lipno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Lipna	Lipno	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Lipna	Lipno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Lipnami	Lipno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Lipnem	Lipno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Lipnie	Lipno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Lipn	Lipno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Lipno	Lipno	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Lipnom	Lipno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Lipnu	Lipno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Lipokach	Lipok:s1	subst:pl:loc:m1	nazwisko	
 Lipoka	Lipok:s1	subst:sg:gen.acc:m1	nazwisko	
 Lipokami	Lipok:s1	subst:pl:inst:m1	nazwisko	

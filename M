@@ -50665,6 +50665,16 @@ Mogilnickim	Mogilnicki	subst:sg:inst:m1	nazwisko
 Mogilnickim	Mogilnicki	subst:sg:loc:m1	nazwisko	
 Mogilnicki	Mogilnicki	subst:sg:nom:m1	nazwisko	
 Mogilnicki	Mogilnicki	subst:sg:voc:m1	nazwisko	
+Mogilnach	Mogilno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Mogilnami	Mogilno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Mogilna	Mogilno	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Mogilna	Mogilno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Mogilnem	Mogilno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Mogilnie	Mogilno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Mogiln	Mogilno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Mogilnom	Mogilno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Mogilno	Mogilno	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Mogilnu	Mogilno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Mogilska	Mogilska	subst:sg:nom:f	nazwisko	
 Mogilska	Mogilska	subst:sg:voc:f	nazwisko	
 Mogilską	Mogilska	subst:sg:acc:f	nazwisko	

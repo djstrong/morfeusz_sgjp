@@ -3432,6 +3432,16 @@ Pajęckim	Pajęcki	subst:sg:inst:m1	nazwisko
 Pajęckim	Pajęcki	subst:sg:loc:m1	nazwisko	
 Pajęcki	Pajęcki	subst:sg:nom:m1	nazwisko	
 Pajęcki	Pajęcki	subst:sg:voc:m1	nazwisko	
+Pajęcznach	Pajęczno	subst:pl:loc:n:ncol	nazwa geograficzna	
+Pajęcznami	Pajęczno	subst:pl:inst:n:ncol	nazwa geograficzna	
+Pajęczna	Pajęczno	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Pajęczna	Pajęczno	subst:sg:gen:n:ncol	nazwa geograficzna	
+Pajęcznem	Pajęczno	subst:sg:inst:n:ncol	nazwa geograficzna	
+Pajęcznie	Pajęczno	subst:sg:loc:n:ncol	nazwa geograficzna	
+Pajęcznom	Pajęczno	subst:pl:dat:n:ncol	nazwa geograficzna	
+Pajęczno	Pajęczno	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Pajęczn	Pajęczno	subst:pl:gen:n:ncol	nazwa geograficzna	
+Pajęcznu	Pajęczno	subst:sg:dat:n:ncol	nazwa geograficzna	
 Pajce	Pajka:s1	subst:sg:dat.loc:m1	nazwisko	
 Pajkach	Pajka:s1	subst:pl:loc:m1	nazwisko	
 Pajkami	Pajka:s1	subst:pl:inst:m1	nazwisko	
@@ -19550,6 +19560,29 @@ Peper	Pepera:s2	subst:pl:gen:f	nazwisko
 Pepery	Pepera:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Pepery	Pepera:s2	subst:sg:gen:f	nazwisko	
 Peperze	Pepera:s2	subst:sg:dat.loc:f	nazwisko	
+Pepiczek	Pepiczek	subst:sg:nom:m1	nazwa pospolita	pot.
+Pepiczkach	Pepiczek	subst:pl:loc:m1	nazwa pospolita	pot.
+Pepiczkami	Pepiczek	subst:pl:inst:m1	nazwa pospolita	pot.
+Pepiczka	Pepiczek	subst:sg:gen.acc:m1	nazwa pospolita	pot.
+Pepiczkiem	Pepiczek	subst:sg:inst:m1	nazwa pospolita	pot.
+Pepiczki	Pepiczek	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+Pepiczkom	Pepiczek	subst:pl:dat:m1	nazwa pospolita	pot.
+Pepiczkowie	Pepiczek	subst:pl:nom.voc:m1	nazwa pospolita	pot.
+Pepiczkowi	Pepiczek	subst:sg:dat:m1	nazwa pospolita	pot.
+Pepiczków	Pepiczek	subst:pl:gen.acc:m1	nazwa pospolita	pot.
+Pepiczku	Pepiczek	subst:sg:loc:m1	nazwa pospolita	pot.
+Pepiczku	Pepiczek	subst:sg:voc:m1	nazwa pospolita	pot.
+Pepiczce	Pepiczka	subst:sg:dat.loc:f	nazwa pospolita	pot.
+Pepiczek	Pepiczka	subst:pl:gen:f	nazwa pospolita	pot.
+Pepiczkach	Pepiczka	subst:pl:loc:f	nazwa pospolita	pot.
+Pepiczkami	Pepiczka	subst:pl:inst:f	nazwa pospolita	pot.
+Pepiczka	Pepiczka	subst:sg:nom:f	nazwa pospolita	pot.
+Pepiczką	Pepiczka	subst:sg:inst:f	nazwa pospolita	pot.
+Pepiczkę	Pepiczka	subst:sg:acc:f	nazwa pospolita	pot.
+Pepiczki	Pepiczka	subst:pl:nom.acc.voc:f	nazwa pospolita	pot.
+Pepiczki	Pepiczka	subst:sg:gen:f	nazwa pospolita	pot.
+Pepiczkom	Pepiczka	subst:pl:dat:f	nazwa pospolita	pot.
+Pepiczko	Pepiczka	subst:sg:voc:f	nazwa pospolita	pot.
 Peplakach	Peplak:s1	subst:pl:loc:m1	nazwisko	
 Peplakami	Peplak:s1	subst:pl:inst:m1	nazwisko	
 Peplaka	Peplak:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -20620,6 +20653,17 @@ Persji	Persja	subst:sg:gen:f	nazwa geograficzna	hist.
 Persjom	Persja	subst:pl:dat:f	nazwa geograficzna	hist.
 Persjo	Persja	subst:sg:voc:f	nazwa geograficzna	hist.
 Persyj	Persja	subst:pl:gen:f	nazwa geograficzna	arch.|char.|hist.
+Persjance	Persjanka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+Persjanek	Persjanka	subst:pl:gen:f	nazwa pospolita	etn.
+Persjankach	Persjanka	subst:pl:loc:f	nazwa pospolita	etn.
+Persjankami	Persjanka	subst:pl:inst:f	nazwa pospolita	etn.
+Persjanka	Persjanka	subst:sg:nom:f	nazwa pospolita	etn.
+Persjanką	Persjanka	subst:sg:inst:f	nazwa pospolita	etn.
+Persjankę	Persjanka	subst:sg:acc:f	nazwa pospolita	etn.
+Persjanki	Persjanka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+Persjanki	Persjanka	subst:sg:gen:f	nazwa pospolita	etn.
+Persjankom	Persjanka	subst:pl:dat:f	nazwa pospolita	etn.
+Persjanko	Persjanka	subst:sg:voc:f	nazwa pospolita	etn.
 Perska	Perska	subst:sg:nom:f	nazwisko	
 Perska	Perska	subst:sg:voc:f	nazwisko	
 Perską	Perska	subst:sg:acc:f	nazwisko	
@@ -39012,6 +39056,17 @@ Pleszczyńskim	Pleszczyński	subst:sg:inst:m1	nazwisko
 Pleszczyńskim	Pleszczyński	subst:sg:loc:m1	nazwisko	
 Pleszczyński	Pleszczyński	subst:sg:nom:m1	nazwisko	
 Pleszczyński	Pleszczyński	subst:sg:voc:m1	nazwisko	
+Pleszewach	Pleszew	subst:pl:loc:m3	nazwa geograficzna	
+Pleszewami	Pleszew	subst:pl:inst:m3	nazwa geograficzna	
+Pleszewa	Pleszew	subst:sg:gen:m3	nazwa geograficzna	
+Pleszewem	Pleszew	subst:sg:inst:m3	nazwa geograficzna	
+Pleszewie	Pleszew	subst:sg:loc:m3	nazwa geograficzna	
+Pleszewie	Pleszew	subst:sg:voc:m3	nazwa geograficzna	
+Pleszewom	Pleszew	subst:pl:dat:m3	nazwa geograficzna	
+Pleszewowi	Pleszew	subst:sg:dat:m3	nazwa geograficzna	
+Pleszewów	Pleszew	subst:pl:gen:m3	nazwa geograficzna	
+Pleszew	Pleszew	subst:sg:nom.acc:m3	nazwa geograficzna	
+Pleszewy	Pleszew	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Pleszewska	Pleszewska	subst:sg:nom:f	nazwisko	
 Pleszewska	Pleszewska	subst:sg:voc:f	nazwisko	
 Pleszewską	Pleszewska	subst:sg:acc:f	nazwisko	
@@ -65085,6 +65140,18 @@ Przasnyskim	Przasnyski	subst:sg:inst:m1	nazwisko
 Przasnyskim	Przasnyski	subst:sg:loc:m1	nazwisko	
 Przasnyski	Przasnyski	subst:sg:nom:m1	nazwisko	
 Przasnyski	Przasnyski	subst:sg:voc:m1	nazwisko	
+Przasnyszach	Przasnysz	subst:pl:loc:m3	nazwa geograficzna	
+Przasnyszami	Przasnysz	subst:pl:inst:m3	nazwa geograficzna	
+Przasnyszem	Przasnysz	subst:sg:inst:m3	nazwa geograficzna	
+Przasnysze	Przasnysz	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Przasnyszom	Przasnysz	subst:pl:dat:m3	nazwa geograficzna	
+Przasnyszowi	Przasnysz	subst:sg:dat:m3	nazwa geograficzna	
+Przasnyszów	Przasnysz	subst:pl:gen:m3	nazwa geograficzna	
+Przasnysz	Przasnysz	subst:sg:nom.acc:m3	nazwa geograficzna	
+Przasnyszu	Przasnysz	subst:sg:gen:m3	nazwa geograficzna	
+Przasnyszu	Przasnysz	subst:sg:loc:m3	nazwa geograficzna	
+Przasnyszu	Przasnysz	subst:sg:voc:m3	nazwa geograficzna	
+Przasnyszy	Przasnysz	subst:pl:gen:m3	nazwa geograficzna	
 Przastek	Przastek:s1	subst:sg:nom:m1	nazwisko	
 Przastkach	Przastek:s1	subst:pl:loc:m1	nazwisko	
 Przastkami	Przastek:s1	subst:pl:inst:m1	nazwisko	
@@ -69512,6 +69579,17 @@ Przystupów	Przystup:s1	subst:pl:gen.acc:m1	nazwisko
 Przystup	Przystup:s1	subst:sg:nom:m1	nazwisko	
 Przystupy	Przystup:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Przystup	Przystup:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Przysuchach	Przysucha:s1	subst:pl:loc:f	nazwa geograficzna	
+Przysuchami	Przysucha:s1	subst:pl:inst:f	nazwa geograficzna	
+Przysucha	Przysucha:s1	subst:sg:nom:f	nazwa geograficzna	
+Przysuchą	Przysucha:s1	subst:sg:inst:f	nazwa geograficzna	
+Przysuchę	Przysucha:s1	subst:sg:acc:f	nazwa geograficzna	
+Przysuchom	Przysucha:s1	subst:pl:dat:f	nazwa geograficzna	
+Przysucho	Przysucha:s1	subst:sg:voc:f	nazwa geograficzna	
+Przysuch	Przysucha:s1	subst:pl:gen:f	nazwa geograficzna	
+Przysuchy	Przysucha:s1	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Przysuchy	Przysucha:s1	subst:sg:gen:f	nazwa geograficzna	
+Przysusze	Przysucha:s1	subst:sg:dat.loc:f	nazwa geograficzna	
 Przysuchach	Przysucha:s2	subst:pl:loc:m1	nazwisko	
 Przysuchami	Przysucha:s2	subst:pl:inst:m1	nazwisko	
 Przysucha	Przysucha:s2	subst:sg:nom:m1	nazwisko	
@@ -70659,6 +70737,17 @@ Pszczółkowskim	Pszczółkowski	subst:sg:inst:m1	nazwisko
 Pszczółkowskim	Pszczółkowski	subst:sg:loc:m1	nazwisko	
 Pszczółkowski	Pszczółkowski	subst:sg:nom:m1	nazwisko	
 Pszczółkowski	Pszczółkowski	subst:sg:voc:m1	nazwisko	
+Pszczynach	Pszczyna	subst:pl:loc:f	nazwa geograficzna	
+Pszczynami	Pszczyna	subst:pl:inst:f	nazwa geograficzna	
+Pszczyna	Pszczyna	subst:sg:nom:f	nazwa geograficzna	
+Pszczyną	Pszczyna	subst:sg:inst:f	nazwa geograficzna	
+Pszczynę	Pszczyna	subst:sg:acc:f	nazwa geograficzna	
+Pszczynie	Pszczyna	subst:sg:dat.loc:f	nazwa geograficzna	
+Pszczynom	Pszczyna	subst:pl:dat:f	nazwa geograficzna	
+Pszczyno	Pszczyna	subst:sg:voc:f	nazwa geograficzna	
+Pszczyn	Pszczyna	subst:pl:gen:f	nazwa geograficzna	
+Pszczyny	Pszczyna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Pszczyny	Pszczyna	subst:sg:gen:f	nazwa geograficzna	
 Pszeniczce	Pszeniczka:s1	subst:sg:dat.loc:m1	nazwisko	
 Pszeniczkach	Pszeniczka:s1	subst:pl:loc:m1	nazwisko	
 Pszeniczkami	Pszeniczka:s1	subst:pl:inst:m1	nazwisko	

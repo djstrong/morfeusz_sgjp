@@ -9786,6 +9786,16 @@ Zawieraczu	Zawieracz:s1	subst:sg:loc:m1	nazwisko
 Zawieraczu	Zawieracz:s1	subst:sg:voc:m1	nazwisko	
 Zawieracz	Zawieracz:s1	subst:sg:nom:m1	nazwisko	
 Zawieracz	Zawieracz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Zawierciach	Zawiercie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Zawierciami	Zawiercie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Zawiercia	Zawiercie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Zawiercia	Zawiercie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Zawierciem	Zawiercie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Zawiercie	Zawiercie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Zawierciom	Zawiercie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Zawierciu	Zawiercie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Zawierciu	Zawiercie	subst:sg:loc:n:ncol	nazwa geograficzna	
+Zawierć	Zawiercie	subst:pl:gen:n:ncol	nazwa geograficzna	
 Zawiercie	Zawierta:s1	subst:sg:dat.loc:m1	nazwisko	
 Zawiertach	Zawierta:s1	subst:pl:loc:m1	nazwisko	
 Zawiertami	Zawierta:s1	subst:pl:inst:m1	nazwisko	

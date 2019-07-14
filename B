@@ -54829,6 +54829,18 @@ Brytańczyków	Brytańczyk:s1	subst:pl:gen.acc:m1	nazwisko
 Brytańczyku	Brytańczyk:s1	subst:sg:loc:m1	nazwisko	
 Brytańczyku	Brytańczyk:s1	subst:sg:voc:m1	nazwisko	
 Brytańczyk	Brytańczyk:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Brytola	Brytol	subst:sg:gen.acc:m1	nazwa pospolita	pot.
+Brytolach	Brytol	subst:pl:loc:m1	nazwa pospolita	pot.
+Brytolami	Brytol	subst:pl:inst:m1	nazwa pospolita	pot.
+Brytol	Brytol	subst:sg:nom:m1	nazwa pospolita	pot.
+Brytole	Brytol	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+Brytole	Brytol	subst:pl:nom.voc:m1	nazwa pospolita	pot.
+Brytolem	Brytol	subst:sg:inst:m1	nazwa pospolita	pot.
+Brytolom	Brytol	subst:pl:dat:m1	nazwa pospolita	pot.
+Brytolowi	Brytol	subst:sg:dat:m1	nazwa pospolita	pot.
+Brytolów	Brytol	subst:pl:gen.acc:m1	nazwa pospolita	pot.
+Brytolu	Brytol	subst:sg:loc:m1	nazwa pospolita	pot.
+Brytolu	Brytol	subst:sg:voc:m1	nazwa pospolita	pot.
 Brytyjczycy	Brytyjczyk	subst:pl:nom.voc:m1	nazwa pospolita	
 Brytyjczyka	Brytyjczyk	subst:sg:gen.acc:m1	nazwa pospolita	
 Brytyjczykach	Brytyjczyk	subst:pl:loc:m1	nazwa pospolita	

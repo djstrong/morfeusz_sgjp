@@ -3484,6 +3484,17 @@
 Żmurko	Żmurko:s1	subst:sg:voc:m1	nazwisko	
 Żmurków	Żmurko:s1	subst:pl:gen.acc:m1	nazwisko	
 Żmurko	Żmurko:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Żninach	Żnin	subst:pl:loc:m3	nazwa geograficzna	
+Żninami	Żnin	subst:pl:inst:m3	nazwa geograficzna	
+Żnina	Żnin	subst:sg:gen:m3	nazwa geograficzna	
+Żninem	Żnin	subst:sg:inst:m3	nazwa geograficzna	
+Żninie	Żnin	subst:sg:loc:m3	nazwa geograficzna	
+Żninie	Żnin	subst:sg:voc:m3	nazwa geograficzna	
+Żninom	Żnin	subst:pl:dat:m3	nazwa geograficzna	
+Żninowi	Żnin	subst:sg:dat:m3	nazwa geograficzna	
+Żninów	Żnin	subst:pl:gen:m3	nazwa geograficzna	
+Żniny	Żnin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Żnin	Żnin	subst:sg:nom.acc:m3	nazwa geograficzna	
 ŻOB-ach	ŻOB	subst:pl:loc:m3	nazwa organizacji	
 ŻOB-ami	ŻOB	subst:pl:inst:m3	nazwa organizacji	
 ŻOB-em	ŻOB	subst:sg:inst:m3	nazwa organizacji	
@@ -5669,6 +5680,17 @@
 Żurkowskim	Żurkowski	subst:sg:loc:m1	nazwisko	
 Żurkowski	Żurkowski	subst:sg:nom:m1	nazwisko	
 Żurkowski	Żurkowski	subst:sg:voc:m1	nazwisko	
+Żurominach	Żuromin	subst:pl:loc:m3	nazwa geograficzna	
+Żurominami	Żuromin	subst:pl:inst:m3	nazwa geograficzna	
+Żuromina	Żuromin	subst:sg:gen:m3	nazwa geograficzna	
+Żurominem	Żuromin	subst:sg:inst:m3	nazwa geograficzna	
+Żurominie	Żuromin	subst:sg:loc:m3	nazwa geograficzna	
+Żurominie	Żuromin	subst:sg:voc:m3	nazwa geograficzna	
+Żurominom	Żuromin	subst:pl:dat:m3	nazwa geograficzna	
+Żurominowi	Żuromin	subst:sg:dat:m3	nazwa geograficzna	
+Żurominów	Żuromin	subst:pl:gen:m3	nazwa geograficzna	
+Żurominy	Żuromin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Żuromin	Żuromin	subst:sg:nom.acc:m3	nazwa geograficzna	
 Żuromska	Żuromska	subst:sg:nom:f	nazwisko	
 Żuromska	Żuromska	subst:sg:voc:f	nazwisko	
 Żuromską	Żuromska	subst:sg:acc:f	nazwisko	

@@ -19884,6 +19884,17 @@ Romińskim	Romiński	subst:sg:inst:m1	nazwisko
 Romińskim	Romiński	subst:sg:loc:m1	nazwisko	
 Romiński	Romiński	subst:sg:nom:m1	nazwisko	
 Romiński	Romiński	subst:sg:voc:m1	nazwisko	
+Romce	Romka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+Romek	Romka	subst:pl:gen:f	nazwa pospolita	etn.
+Romkach	Romka	subst:pl:loc:f	nazwa pospolita	etn.
+Romkami	Romka	subst:pl:inst:f	nazwa pospolita	etn.
+Romka	Romka	subst:sg:nom:f	nazwa pospolita	etn.
+Romką	Romka	subst:sg:inst:f	nazwa pospolita	etn.
+Romkę	Romka	subst:sg:acc:f	nazwa pospolita	etn.
+Romki	Romka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+Romki	Romka	subst:sg:gen:f	nazwa pospolita	etn.
+Romkom	Romka	subst:pl:dat:f	nazwa pospolita	etn.
+Romko	Romka	subst:sg:voc:f	nazwa pospolita	etn.
 Romkowska	Romkowska	subst:sg:nom:f	nazwisko	
 Romkowska	Romkowska	subst:sg:voc:f	nazwisko	
 Romkowską	Romkowska	subst:sg:acc:f	nazwisko	
@@ -28417,6 +28428,17 @@ Rusiniak	Rusiniak:s2	subst:sg:nom:m1	nazwisko
 Rusiniaku	Rusiniak:s2	subst:sg:loc:m1	nazwisko	
 Rusiniaku	Rusiniak:s2	subst:sg:voc:m1	nazwisko	
 Rusiniak	Rusiniak:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Rusince	Rusinka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+Rusinek	Rusinka	subst:pl:gen:f	nazwa pospolita	etn.
+Rusinkach	Rusinka	subst:pl:loc:f	nazwa pospolita	etn.
+Rusinkami	Rusinka	subst:pl:inst:f	nazwa pospolita	etn.
+Rusinka	Rusinka	subst:sg:nom:f	nazwa pospolita	etn.
+Rusinką	Rusinka	subst:sg:inst:f	nazwa pospolita	etn.
+Rusinkę	Rusinka	subst:sg:acc:f	nazwa pospolita	etn.
+Rusinki	Rusinka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+Rusinki	Rusinka	subst:sg:gen:f	nazwa pospolita	etn.
+Rusinkom	Rusinka	subst:pl:dat:f	nazwa pospolita	etn.
+Rusinko	Rusinka	subst:sg:voc:f	nazwa pospolita	etn.
 Rusinkiewiczach	Rusinkiewicz:s1	subst:pl:loc:m1	nazwisko	
 Rusinkiewiczami	Rusinkiewicz:s1	subst:pl:inst:m1	nazwisko	
 Rusinkiewicza	Rusinkiewicz:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -28541,6 +28563,17 @@ Rusjanów	Rusjan:s1	subst:pl:gen.acc:m1	nazwisko
 Rusjan	Rusjan:s1	subst:sg:nom:m1	nazwisko	
 Rusjany	Rusjan:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Rusjan	Rusjan:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Rusce	Ruska	subst:sg:dat.loc:f	nazwa pospolita	pot.
+Rusek	Ruska	subst:pl:gen:f	nazwa pospolita	pot.
+Ruskach	Ruska	subst:pl:loc:f	nazwa pospolita	pot.
+Ruskami	Ruska	subst:pl:inst:f	nazwa pospolita	pot.
+Ruska	Ruska	subst:sg:nom:f	nazwa pospolita	pot.
+Ruską	Ruska	subst:sg:inst:f	nazwa pospolita	pot.
+Ruskę	Ruska	subst:sg:acc:f	nazwa pospolita	pot.
+Ruski	Ruska	subst:pl:nom.acc.voc:f	nazwa pospolita	pot.
+Ruski	Ruska	subst:sg:gen:f	nazwa pospolita	pot.
+Ruskom	Ruska	subst:pl:dat:f	nazwa pospolita	pot.
+Rusko	Ruska	subst:sg:voc:f	nazwa pospolita	pot.
 Ruscy	Ruski	subst:pl:nom.voc:m1	nazwa pospolita	pogard.
 Ruskich	Ruski	subst:pl:gen.acc:m1	nazwa pospolita	pogard.
 Ruskich	Ruski	subst:pl:loc:m1	nazwa pospolita	pogard.
@@ -33243,6 +33276,17 @@ Rypieniu	Rypień:s1	subst:sg:loc:m1	nazwisko
 Rypieniu	Rypień:s1	subst:sg:voc:m1	nazwisko	
 Rypień	Rypień:s1	subst:sg:nom:m1	nazwisko	
 Rypień	Rypień:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Rypinach	Rypin	subst:pl:loc:m3	nazwa geograficzna	
+Rypinami	Rypin	subst:pl:inst:m3	nazwa geograficzna	
+Rypina	Rypin	subst:sg:gen:m3	nazwa geograficzna	
+Rypinem	Rypin	subst:sg:inst:m3	nazwa geograficzna	
+Rypinie	Rypin	subst:sg:loc:m3	nazwa geograficzna	
+Rypinie	Rypin	subst:sg:voc:m3	nazwa geograficzna	
+Rypinom	Rypin	subst:pl:dat:m3	nazwa geograficzna	
+Rypinowi	Rypin	subst:sg:dat:m3	nazwa geograficzna	
+Rypinów	Rypin	subst:pl:gen:m3	nazwa geograficzna	
+Rypin	Rypin	subst:sg:nom.acc:m3	nazwa geograficzna	
+Rypiny	Rypin	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
 Rypinach	Rypina:s1	subst:pl:loc:m1	nazwisko	
 Rypinami	Rypina:s1	subst:pl:inst:m1	nazwisko	
 Rypina	Rypina:s1	subst:sg:nom:m1	nazwisko	
