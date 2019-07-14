@@ -4494,6 +4494,16 @@ lamerskości	lamerskość	subst:sg:voc:f	nazwa pospolita	pot.
 lamerskościom	lamerskość	subst:pl:dat:f	nazwa pospolita	pot.
 lamerskość	lamerskość	subst:sg:acc:f	nazwa pospolita	pot.
 lamerskość	lamerskość	subst:sg:nom:f	nazwa pospolita	pot.
+lamerstwach	lamerstwo	subst:pl:loc:n:ncol	nazwa pospolita	pot.
+lamerstwa	lamerstwo	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	pot.
+lamerstwa	lamerstwo	subst:sg:gen:n:ncol	nazwa pospolita	pot.
+lamerstwami	lamerstwo	subst:pl:inst:n:ncol	nazwa pospolita	pot.
+lamerstwem	lamerstwo	subst:sg:inst:n:ncol	nazwa pospolita	pot.
+lamerstwie	lamerstwo	subst:sg:loc:n:ncol	nazwa pospolita	pot.
+lamerstw	lamerstwo	subst:pl:gen:n:ncol	nazwa pospolita	pot.
+lamerstwo	lamerstwo	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	pot.
+lamerstwom	lamerstwo	subst:pl:dat:n:ncol	nazwa pospolita	pot.
+lamerstwu	lamerstwo	subst:sg:dat:n:ncol	nazwa pospolita	pot.
 lamecie	lameta	subst:sg:dat.loc:f	nazwa pospolita	
 lametach	lameta	subst:pl:loc:f	nazwa pospolita	
 lameta	lameta	subst:sg:nom:f	nazwa pospolita	
