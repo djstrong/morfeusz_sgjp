@@ -539,6 +539,7 @@ niejarzenia	jarzyć:v2	ger:sg:gen:n:imperf:neg		pot.
 niejarzeniami	jarzyć:v2	ger:pl:inst:n:imperf:neg		pot.
 niejarzenie	jarzyć:v2	ger:sg:nom.acc:n:imperf:neg		pot.
 niejarzeniem	jarzyć:v2	ger:sg:inst:n:imperf:neg		pot.
+niejarzeni	jarzyć:v2	ppas:pl:nom.voc:m1:imperf:neg		pot.
 niejarzeniom	jarzyć:v2	ger:pl:dat:n:imperf:neg		pot.
 niejarzeniu	jarzyć:v2	ger:sg:dat.loc:n:imperf:neg		pot.
 niejarzeń	jarzyć:v2	ger:pl:gen:n:imperf:neg		pot.
@@ -550,7 +551,6 @@ niejarzone	jarzyć:v2	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		pot.
 niejarzone	jarzyć:v2	ppas:sg:nom.acc.voc:n:imperf:neg		pot.
 niejarzonej	jarzyć:v2	ppas:sg:gen.dat.loc:f:imperf:neg		pot.
 niejarzonemu	jarzyć:v2	ppas:sg:dat:m1.m2.m3.n:imperf:neg		pot.
-niejarzoni	jarzyć:v2	ppas:pl:nom.voc:m1:imperf:neg		pot.
 niejarzonych	jarzyć:v2	ppas:pl:acc:m1:imperf:neg		pot.
 niejarzonych	jarzyć:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
 niejarzony	jarzyć:v2	ppas:sg:acc:m3:imperf:neg		pot.

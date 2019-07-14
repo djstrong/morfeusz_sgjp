@@ -7660,6 +7660,7 @@ jarzenia	jarzyć:v2	ger:sg:gen:n:imperf:aff		pot.
 jarzeniami	jarzyć:v2	ger:pl:inst:n:imperf:aff		pot.
 jarzenie	jarzyć:v2	ger:sg:nom.acc:n:imperf:aff		pot.
 jarzeniem	jarzyć:v2	ger:sg:inst:n:imperf:aff		pot.
+jarzeni	jarzyć:v2	ppas:pl:nom.voc:m1:imperf:aff		pot.
 jarzeniom	jarzyć:v2	ger:pl:dat:n:imperf:aff		pot.
 jarzeniu	jarzyć:v2	ger:sg:dat.loc:n:imperf:aff		pot.
 jarzeń	jarzyć:v2	ger:pl:gen:n:imperf:aff		pot.
@@ -7674,7 +7675,6 @@ jarzone	jarzyć:v2	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		pot.
 jarzone	jarzyć:v2	ppas:sg:nom.acc.voc:n:imperf:aff		pot.
 jarzonej	jarzyć:v2	ppas:sg:gen.dat.loc:f:imperf:aff		pot.
 jarzonemu	jarzyć:v2	ppas:sg:dat:m1.m2.m3.n:imperf:aff		pot.
-jarzoni	jarzyć:v2	ppas:pl:nom.voc:m1:imperf:aff		pot.
 jarzono	jarzyć:v2	imps:imperf		pot.
 jarzonych	jarzyć:v2	ppas:pl:acc:m1:imperf:aff		pot.
 jarzonych	jarzyć:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		pot.

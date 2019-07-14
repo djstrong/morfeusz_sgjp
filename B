@@ -19786,6 +19786,18 @@ Bengalów	Bengal	subst:pl:gen:m3	nazwa geograficzna
 Bengalu	Bengal	subst:sg:gen:m3	nazwa geograficzna	
 Bengalu	Bengal	subst:sg:loc:m3	nazwa geograficzna	
 Bengalu	Bengal	subst:sg:voc:m3	nazwa geograficzna	
+Bengalczycy	Bengalczyk	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Bengalczyka	Bengalczyk	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Bengalczykach	Bengalczyk	subst:pl:loc:m1	nazwa pospolita	etn.
+Bengalczykami	Bengalczyk	subst:pl:inst:m1	nazwa pospolita	etn.
+Bengalczyk	Bengalczyk	subst:sg:nom:m1	nazwa pospolita	etn.
+Bengalczyki	Bengalczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+Bengalczykiem	Bengalczyk	subst:sg:inst:m1	nazwa pospolita	etn.
+Bengalczykom	Bengalczyk	subst:pl:dat:m1	nazwa pospolita	etn.
+Bengalczykowi	Bengalczyk	subst:sg:dat:m1	nazwa pospolita	etn.
+Bengalczyków	Bengalczyk	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Bengalczyku	Bengalczyk	subst:sg:loc:m1	nazwa pospolita	etn.
+Bengalczyku	Bengalczyk	subst:sg:voc:m1	nazwa pospolita	etn.
 Bengalia	Bengalia	subst:sg:nom:f	nazwa geograficzna	
 Bengaliach	Bengalia	subst:pl:loc:f	nazwa geograficzna	
 Bengaliami	Bengalia	subst:pl:inst:f	nazwa geograficzna	
@@ -19798,6 +19810,17 @@ Bengalii	Bengalia	subst:sg:gen:f	nazwa geograficzna
 Bengalij	Bengalia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Bengalio	Bengalia	subst:sg:voc:f	nazwa geograficzna	
 Bengaliom	Bengalia	subst:pl:dat:f	nazwa geograficzna	
+Bengalce	Bengalka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+Bengalek	Bengalka	subst:pl:gen:f	nazwa pospolita	etn.
+Bengalka	Bengalka	subst:sg:nom:f	nazwa pospolita	etn.
+Bengalkach	Bengalka	subst:pl:loc:f	nazwa pospolita	etn.
+Bengalkami	Bengalka	subst:pl:inst:f	nazwa pospolita	etn.
+Bengalką	Bengalka	subst:sg:inst:f	nazwa pospolita	etn.
+Bengalkę	Bengalka	subst:sg:acc:f	nazwa pospolita	etn.
+Bengalki	Bengalka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+Bengalki	Bengalka	subst:sg:gen:f	nazwa pospolita	etn.
+Bengalko	Bengalka	subst:sg:voc:f	nazwa pospolita	etn.
+Bengalkom	Bengalka	subst:pl:dat:f	nazwa pospolita	etn.
 Beniaka	Beniak:s1	subst:sg:gen.acc:m1	nazwisko	
 Beniakach	Beniak:s1	subst:pl:loc:m1	nazwisko	
 Beniakami	Beniak:s1	subst:pl:inst:m1	nazwisko	

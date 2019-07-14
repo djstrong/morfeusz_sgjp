@@ -10186,6 +10186,7 @@ nieczajeniach	czaić:v2	ger:pl:loc:n:imperf:neg		pot.
 nieczajenia	czaić:v2	ger:pl:nom.acc:n:imperf:neg		pot.
 nieczajenia	czaić:v2	ger:sg:gen:n:imperf:neg		pot.
 nieczajeniami	czaić:v2	ger:pl:inst:n:imperf:neg		pot.
+nieczajeni	czaić:v2	ppas:pl:nom.voc:m1:imperf:neg		pot.
 nieczajenie	czaić:v2	ger:sg:nom.acc:n:imperf:neg		pot.
 nieczajeniem	czaić:v2	ger:sg:inst:n:imperf:neg		pot.
 nieczajeniom	czaić:v2	ger:pl:dat:n:imperf:neg		pot.
@@ -10199,7 +10200,6 @@ nieczajonego	czaić:v2	ppas:sg:acc:m1.m2:imperf:neg		pot.
 nieczajonego	czaić:v2	ppas:sg:gen:m1.m2.m3.n:imperf:neg		pot.
 nieczajonej	czaić:v2	ppas:sg:gen.dat.loc:f:imperf:neg		pot.
 nieczajonemu	czaić:v2	ppas:sg:dat:m1.m2.m3.n:imperf:neg		pot.
-nieczajoni	czaić:v2	ppas:pl:nom.voc:m1:imperf:neg		pot.
 nieczajonych	czaić:v2	ppas:pl:acc:m1:imperf:neg		pot.
 nieczajonych	czaić:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
 nieczajony	czaić:v2	ppas:sg:acc:m3:imperf:neg		pot.
@@ -10830,6 +10830,7 @@ nieczepieniach	czepić:v1	ger:pl:loc:n:perf:neg
 nieczepienia	czepić:v1	ger:pl:nom.acc:n:perf:neg		
 nieczepienia	czepić:v1	ger:sg:gen:n:perf:neg		
 nieczepieniami	czepić:v1	ger:pl:inst:n:perf:neg		
+nieczepieni	czepić:v1	ppas:pl:nom.voc:m1:perf:neg		
 nieczepienie	czepić:v1	ger:sg:nom.acc:n:perf:neg		
 nieczepieniem	czepić:v1	ger:sg:inst:n:perf:neg		
 nieczepieniom	czepić:v1	ger:pl:dat:n:perf:neg		
@@ -10843,7 +10844,6 @@ nieczepionego	czepić:v1	ppas:sg:acc:m1.m2:perf:neg
 nieczepionego	czepić:v1	ppas:sg:gen:m1.m2.m3.n:perf:neg		
 nieczepionej	czepić:v1	ppas:sg:gen.dat.loc:f:perf:neg		
 nieczepionemu	czepić:v1	ppas:sg:dat:m1.m2.m3.n:perf:neg		
-nieczepioni	czepić:v1	ppas:pl:nom.voc:m1:perf:neg		
 nieczepionych	czepić:v1	ppas:pl:acc:m1:perf:neg		
 nieczepionych	czepić:v1	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
 nieczepiony	czepić:v1	ppas:sg:acc:m3:perf:neg		

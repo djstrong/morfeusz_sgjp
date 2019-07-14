@@ -2662,6 +2662,18 @@ Ingres’y	Ingres	depr:pl:nom.acc.voc:m2	nazwisko
 Ingrze	Ingres	subst:sg:loc:m1	nazwisko	
 Ingrze	Ingres	subst:sg:voc:m1	nazwisko	
 Ingrid	Ingrid	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	imię	
+Inguszetiach	Inguszetia	subst:pl:loc:f	nazwa geograficzna	
+Inguszetia	Inguszetia	subst:sg:nom:f	nazwa geograficzna	
+Inguszetiami	Inguszetia	subst:pl:inst:f	nazwa geograficzna	
+Inguszetią	Inguszetia	subst:sg:inst:f	nazwa geograficzna	
+Inguszetie	Inguszetia	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+Inguszetię	Inguszetia	subst:sg:acc:f	nazwa geograficzna	
+Inguszetii	Inguszetia	subst:pl:gen:f	nazwa geograficzna	hom.
+Inguszetii	Inguszetia	subst:sg:dat.loc:f	nazwa geograficzna	
+Inguszetii	Inguszetia	subst:sg:gen:f	nazwa geograficzna	
+Inguszetio	Inguszetia	subst:sg:voc:f	nazwa geograficzna	
+Inguszetiom	Inguszetia	subst:pl:dat:f	nazwa geograficzna	
+Inguszetyj	Inguszetia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Ince	Inka	subst:sg:dat.loc:m1	imię	
 Inkach	Inka	subst:pl:loc:m1	imię	
 Inka	Inka	subst:sg:nom:m1	imię	

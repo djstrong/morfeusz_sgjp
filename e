@@ -20492,17 +20492,29 @@ eliminacyjnym	eliminacyjny	adj:pl:dat:m1.m2.m3.f.n:pos
 eliminacyjnym	eliminacyjny	adj:sg:inst:m1.m2.m3.n:pos		
 eliminacyjnym	eliminacyjny	adj:sg:loc:m1.m2.m3.n:pos		
 eliminacyjnymi	eliminacyjny	adj:pl:inst:m1.m2.m3.f.n:pos		
-eliminatorach	eliminator	subst:pl:loc:m3	nazwa pospolita	
-eliminatora	eliminator	subst:sg:gen:m3	nazwa pospolita	
-eliminatorami	eliminator	subst:pl:inst:m3	nazwa pospolita	
-eliminator	eliminator	subst:sg:nom.acc:m3	nazwa pospolita	
-eliminatorem	eliminator	subst:sg:inst:m3	nazwa pospolita	
-eliminatorom	eliminator	subst:pl:dat:m3	nazwa pospolita	
-eliminatorowi	eliminator	subst:sg:dat:m3	nazwa pospolita	
-eliminatorów	eliminator	subst:pl:gen:m3	nazwa pospolita	
-eliminatory	eliminator	subst:pl:nom.acc.voc:m3	nazwa pospolita	
-eliminatorze	eliminator	subst:sg:loc:m3	nazwa pospolita	
-eliminatorze	eliminator	subst:sg:voc:m3	nazwa pospolita	
+eliminatorach	eliminator:s1	subst:pl:loc:m3	nazwa pospolita	
+eliminatora	eliminator:s1	subst:sg:gen:m3	nazwa pospolita	
+eliminatorami	eliminator:s1	subst:pl:inst:m3	nazwa pospolita	
+eliminator	eliminator:s1	subst:sg:nom.acc:m3	nazwa pospolita	
+eliminatorem	eliminator:s1	subst:sg:inst:m3	nazwa pospolita	
+eliminatorom	eliminator:s1	subst:pl:dat:m3	nazwa pospolita	
+eliminatorowi	eliminator:s1	subst:sg:dat:m3	nazwa pospolita	
+eliminatorów	eliminator:s1	subst:pl:gen:m3	nazwa pospolita	
+eliminatory	eliminator:s1	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+eliminatorze	eliminator:s1	subst:sg:loc:m3	nazwa pospolita	
+eliminatorze	eliminator:s1	subst:sg:voc:m3	nazwa pospolita	
+eliminatorach	eliminator:s2	subst:pl:loc:m1	nazwa pospolita	
+eliminatora	eliminator:s2	subst:sg:gen.acc:m1	nazwa pospolita	
+eliminatorami	eliminator:s2	subst:pl:inst:m1	nazwa pospolita	
+eliminator	eliminator:s2	subst:sg:nom:m1	nazwa pospolita	
+eliminatorem	eliminator:s2	subst:sg:inst:m1	nazwa pospolita	
+eliminatorom	eliminator:s2	subst:pl:dat:m1	nazwa pospolita	
+eliminatorowi	eliminator:s2	subst:sg:dat:m1	nazwa pospolita	
+eliminatorów	eliminator:s2	subst:pl:gen.acc:m1	nazwa pospolita	
+eliminatory	eliminator:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+eliminatorze	eliminator:s2	subst:sg:loc:m1	nazwa pospolita	
+eliminatorze	eliminator:s2	subst:sg:voc:m1	nazwa pospolita	
+eliminatorzy	eliminator:s2	subst:pl:nom.voc:m1	nazwa pospolita	
 eliminować	eliminować	inf:imperf		
 eliminowaliby	eliminować	cond:pl:m1:ter:imperf		
 eliminowalibyście	eliminować	cond:pl:m1:sec:imperf		

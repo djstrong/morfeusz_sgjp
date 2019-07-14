@@ -28949,6 +28949,29 @@ Tyrol	Tyrol	subst:sg:nom.acc:m3	nazwa geograficzna
 Tyrolu	Tyrol	subst:sg:gen:m3	nazwa geograficzna	
 Tyrolu	Tyrol	subst:sg:loc:m3	nazwa geograficzna	
 Tyrolu	Tyrol	subst:sg:voc:m3	nazwa geograficzna	
+Tyrolczycy	Tyrolczyk	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Tyrolczykach	Tyrolczyk	subst:pl:loc:m1	nazwa pospolita	etn.
+Tyrolczykami	Tyrolczyk	subst:pl:inst:m1	nazwa pospolita	etn.
+Tyrolczyka	Tyrolczyk	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Tyrolczykiem	Tyrolczyk	subst:sg:inst:m1	nazwa pospolita	etn.
+Tyrolczyki	Tyrolczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+Tyrolczykom	Tyrolczyk	subst:pl:dat:m1	nazwa pospolita	etn.
+Tyrolczykowi	Tyrolczyk	subst:sg:dat:m1	nazwa pospolita	etn.
+Tyrolczyków	Tyrolczyk	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Tyrolczyk	Tyrolczyk	subst:sg:nom:m1	nazwa pospolita	etn.
+Tyrolczyku	Tyrolczyk	subst:sg:loc:m1	nazwa pospolita	etn.
+Tyrolczyku	Tyrolczyk	subst:sg:voc:m1	nazwa pospolita	etn.
+Tyrolce	Tyrolka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+Tyrolek	Tyrolka	subst:pl:gen:f	nazwa pospolita	etn.
+Tyrolkach	Tyrolka	subst:pl:loc:f	nazwa pospolita	etn.
+Tyrolkami	Tyrolka	subst:pl:inst:f	nazwa pospolita	etn.
+Tyrolka	Tyrolka	subst:sg:nom:f	nazwa pospolita	etn.
+Tyrolką	Tyrolka	subst:sg:inst:f	nazwa pospolita	etn.
+Tyrolkę	Tyrolka	subst:sg:acc:f	nazwa pospolita	etn.
+Tyrolki	Tyrolka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+Tyrolki	Tyrolka	subst:sg:gen:f	nazwa pospolita	etn.
+Tyrolkom	Tyrolka	subst:pl:dat:f	nazwa pospolita	etn.
+Tyrolko	Tyrolka	subst:sg:voc:f	nazwa pospolita	etn.
 Tyrpakach	Tyrpak:s1	subst:pl:loc:m1	nazwisko	
 Tyrpakami	Tyrpak:s1	subst:pl:inst:m1	nazwisko	
 Tyrpaka	Tyrpak:s1	subst:sg:gen.acc:m1	nazwisko	

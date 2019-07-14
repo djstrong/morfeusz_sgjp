@@ -5138,6 +5138,29 @@ Alzacji	Alzacja	subst:sg:gen:f	nazwa geograficzna
 Alzacjo	Alzacja	subst:sg:voc:f	nazwa geograficzna	
 Alzacjom	Alzacja	subst:pl:dat:f	nazwa geograficzna	
 Alzacyj	Alzacja	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+Alzatczycy	Alzatczyk	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Alzatczyka	Alzatczyk	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Alzatczykach	Alzatczyk	subst:pl:loc:m1	nazwa pospolita	etn.
+Alzatczyk	Alzatczyk	subst:sg:nom:m1	nazwa pospolita	etn.
+Alzatczykami	Alzatczyk	subst:pl:inst:m1	nazwa pospolita	etn.
+Alzatczyki	Alzatczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+Alzatczykiem	Alzatczyk	subst:sg:inst:m1	nazwa pospolita	etn.
+Alzatczykom	Alzatczyk	subst:pl:dat:m1	nazwa pospolita	etn.
+Alzatczykowi	Alzatczyk	subst:sg:dat:m1	nazwa pospolita	etn.
+Alzatczyków	Alzatczyk	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Alzatczyku	Alzatczyk	subst:sg:loc:m1	nazwa pospolita	etn.
+Alzatczyku	Alzatczyk	subst:sg:voc:m1	nazwa pospolita	etn.
+Alzatce	Alzatka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+Alzatek	Alzatka	subst:pl:gen:f	nazwa pospolita	etn.
+Alzatka	Alzatka	subst:sg:nom:f	nazwa pospolita	etn.
+Alzatkach	Alzatka	subst:pl:loc:f	nazwa pospolita	etn.
+Alzatkami	Alzatka	subst:pl:inst:f	nazwa pospolita	etn.
+Alzatką	Alzatka	subst:sg:inst:f	nazwa pospolita	etn.
+Alzatkę	Alzatka	subst:sg:acc:f	nazwa pospolita	etn.
+Alzatki	Alzatka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+Alzatki	Alzatka	subst:sg:gen:f	nazwa pospolita	etn.
+Alzatko	Alzatka	subst:sg:voc:f	nazwa pospolita	etn.
+Alzatkom	Alzatka	subst:pl:dat:f	nazwa pospolita	etn.
 Alzheimera	Alzheimer	subst:sg:gen.acc:m1	nazwisko	
 Alzheimerach	Alzheimer	subst:pl:loc:m1	nazwisko	
 Alzheimer	Alzheimer	subst:sg:nom:m1	nazwisko	

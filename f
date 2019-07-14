@@ -38974,6 +38974,17 @@ foliografowi	foliograf	subst:sg:dat:m3	nazwa pospolita
 foliografów	foliograf	subst:pl:gen:m3	nazwa pospolita	
 foliografu	foliograf	subst:sg:gen:m3	nazwa pospolita	
 foliografy	foliograf	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+foliogramach	foliogram	subst:pl:loc:m3	nazwa pospolita	
+foliogramami	foliogram	subst:pl:inst:m3	nazwa pospolita	
+foliogramem	foliogram	subst:sg:inst:m3	nazwa pospolita	
+foliogram	foliogram	subst:sg:nom.acc:m3	nazwa pospolita	
+foliogramie	foliogram	subst:sg:loc:m3	nazwa pospolita	
+foliogramie	foliogram	subst:sg:voc:m3	nazwa pospolita	
+foliogramom	foliogram	subst:pl:dat:m3	nazwa pospolita	
+foliogramowi	foliogram	subst:sg:dat:m3	nazwa pospolita	
+foliogramów	foliogram	subst:pl:gen:m3	nazwa pospolita	
+foliogramu	foliogram	subst:sg:gen:m3	nazwa pospolita	
+foliogramy	foliogram	subst:pl:nom.acc.voc:m3	nazwa pospolita	
 foliować	foliować	inf:imperf		
 foliowaliby	foliować	cond:pl:m1:ter:imperf		
 foliowalibyście	foliować	cond:pl:m1:sec:imperf		
