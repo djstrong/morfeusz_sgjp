@@ -32147,7 +32147,7 @@ ergatywnym	ergatywny	adj:pl:dat:m1.m2.m3.f.n:pos
 ergatywnym	ergatywny	adj:sg:inst:m1.m2.m3.n:pos		
 ergatywnym	ergatywny	adj:sg:loc:m1.m2.m3.n:pos		
 ergatywnymi	ergatywny	adj:pl:inst:m1.m2.m3.f.n:pos		
-ergo	ergo	conj		
+ergo	ergo	comp		
 ergocentrycznościach	ergocentryczność	subst:pl:loc:f	nazwa pospolita	
 ergocentrycznościami	ergocentryczność	subst:pl:inst:f	nazwa pospolita	
 ergocentrycznością	ergocentryczność	subst:sg:inst:f	nazwa pospolita	

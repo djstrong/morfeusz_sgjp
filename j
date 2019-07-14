@@ -3470,7 +3470,7 @@ jakoby	jakoby:c	comp		książk.
 jakoby	jakoby:q	qub		książk.
 jako	jako:c	comp		przest.
 jako	jako:j	conj		
-jakokolwiek	jakokolwiek	conj		daw.
+jakokolwiek	jakokolwiek	comp		daw.
 jakoli	jakoli	conj		daw.
 jako	jako:p	prep:nom		
 jakosikach	jakosik	subst:pl:loc:m3	nazwa pospolita	gwar.
@@ -3689,7 +3689,7 @@ jakowymś	jakowyś	adj:sg:inst:m1.m2.m3.n:pos
 jakowymś	jakowyś	adj:sg:loc:m1.m2.m3.n:pos		
 jakowyś	jakowyś	adj:sg:acc:m3:pos		
 jakowyś	jakowyś	adj:sg:nom.voc:m1.m2.m3:pos		
-jakoż	jakoż	conj		przest.
+jakoż	jakoż	comp		przest.
 jakożkolwiek	jakożkolwiek	comp		daw.
 jak	jak:p	prep:nom		
 jakach	jak:s	subst:pl:loc:m2	nazwa pospolita	zool.
