@@ -35926,17 +35926,17 @@ juwenilnymi	juwenilny	adj:pl:inst:m1.m2.m3.f.n:pos
 juwenilnym	juwenilny	adj:pl:dat:m1.m2.m3.f.n:pos		
 juwenilnym	juwenilny	adj:sg:inst:m1.m2.m3.n:pos		
 juwenilnym	juwenilny	adj:sg:loc:m1.m2.m3.n:pos		
-juzach	juz	subst:pl:loc:m3	nazwa pospolita	
-juzami	juz	subst:pl:inst:m3	nazwa pospolita	
-juzem	juz	subst:sg:inst:m3	nazwa pospolita	
-juzie	juz	subst:sg:loc:m3	nazwa pospolita	
-juzie	juz	subst:sg:voc:m3	nazwa pospolita	
-juz	juz	subst:sg:nom.acc:m3	nazwa pospolita	
-juzom	juz	subst:pl:dat:m3	nazwa pospolita	
-juzowi	juz	subst:sg:dat:m3	nazwa pospolita	
-juzów	juz	subst:pl:gen:m3	nazwa pospolita	
-juzu	juz	subst:sg:gen:m3	nazwa pospolita	
-juzy	juz	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+juzach	juz	subst:pl:loc:m3	nazwa pospolita	techn.|hist.
+juzami	juz	subst:pl:inst:m3	nazwa pospolita	techn.|hist.
+juzem	juz	subst:sg:inst:m3	nazwa pospolita	techn.|hist.
+juzie	juz	subst:sg:loc:m3	nazwa pospolita	techn.|hist.
+juzie	juz	subst:sg:voc:m3	nazwa pospolita	techn.|hist.
+juz	juz	subst:sg:nom.acc:m3	nazwa pospolita	techn.|hist.
+juzom	juz	subst:pl:dat:m3	nazwa pospolita	techn.|hist.
+juzowi	juz	subst:sg:dat:m3	nazwa pospolita	techn.|hist.
+juzów	juz	subst:pl:gen:m3	nazwa pospolita	techn.|hist.
+juzu	juz	subst:sg:gen:m3	nazwa pospolita	techn.|hist.
+juzy	juz	subst:pl:nom.acc.voc:m3	nazwa pospolita	techn.|hist.
 juzingach	juzing	subst:pl:loc:m3	nazwa pospolita	
 juzingami	juzing	subst:pl:inst:m3	nazwa pospolita	
 juzingiem	juzing	subst:sg:inst:m3	nazwa pospolita	
