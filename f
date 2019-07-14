@@ -61333,6 +61333,17 @@ futurom	futura	subst:pl:dat:f	nazwa pospolita
 futury	futura	subst:pl:nom.acc.voc:f	nazwa pospolita	
 futury	futura	subst:sg:gen:f	nazwa pospolita	
 futurze	futura	subst:sg:dat.loc:f	nazwa pospolita	
+futuresce	futureska	subst:sg:dat.loc:f	nazwa pospolita	
+futuresek	futureska	subst:pl:gen:f	nazwa pospolita	
+futureskach	futureska	subst:pl:loc:f	nazwa pospolita	
+futureska	futureska	subst:sg:nom:f	nazwa pospolita	
+futureskami	futureska	subst:pl:inst:f	nazwa pospolita	
+futureską	futureska	subst:sg:inst:f	nazwa pospolita	
+futureskę	futureska	subst:sg:acc:f	nazwa pospolita	
+futureski	futureska	subst:pl:nom.acc.voc:f	nazwa pospolita	
+futureski	futureska	subst:sg:gen:f	nazwa pospolita	
+futuresko	futureska	subst:sg:voc:f	nazwa pospolita	
+futureskom	futureska	subst:pl:dat:f	nazwa pospolita	
 futurolodzy	futurolog	subst:pl:nom.voc:m1	nazwa pospolita	
 futurologach	futurolog	subst:pl:loc:m1	nazwa pospolita	
 futurologa	futurolog	subst:sg:gen.acc:m1	nazwa pospolita	
