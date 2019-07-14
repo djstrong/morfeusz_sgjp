@@ -9361,6 +9361,16 @@ Kronosowie	Kronos	subst:pl:nom.voc:m1	imię	mit.
 Kronosowi	Kronos	subst:sg:dat:m1	imię	mit.
 Kronosów	Kronos	subst:pl:gen.acc:m1	imię	mit.
 Kronosy	Kronos	depr:pl:nom.acc.voc:m2	imię	mit.
+Krosien	Krosno	subst:pl:gen:n:ncol	nazwa pospolita	
+Krosnach	Krosno	subst:pl:loc:n:ncol	nazwa pospolita	
+Krosna	Krosno	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
+Krosna	Krosno	subst:sg:gen:n:ncol	nazwa pospolita	
+Krosnami	Krosno	subst:pl:inst:n:ncol	nazwa pospolita	
+Krosnem	Krosno	subst:sg:inst:n:ncol	nazwa pospolita	
+Krosno	Krosno	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
+Krosnom	Krosno	subst:pl:dat:n:ncol	nazwa pospolita	
+Krosnu	Krosno	subst:sg:dat:n:ncol	nazwa pospolita	
+Krośnie	Krosno	subst:sg:loc:n:ncol	nazwa pospolita	
 Krośnicach	Krośnice	subst:pl:loc:n:pt	nazwa geograficzna	
 Krośnicach	Krośnice	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
 Krośnicami	Krośnice	subst:pl:inst:n:pt	nazwa geograficzna	

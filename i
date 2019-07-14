@@ -28398,6 +28398,17 @@ interesowym	interesowy	adj:pl:dat:m1.m2.m3.f.n:pos		przest.
 interesowym	interesowy	adj:sg:inst:m1.m2.m3.n:pos		przest.
 interesowym	interesowy	adj:sg:loc:m1.m2.m3.n:pos		przest.
 interesująco	interesująco	adv:pos		
+interesującościach	interesującość	subst:pl:loc:f	nazwa pospolita	
+interesującościami	interesującość	subst:pl:inst:f	nazwa pospolita	
+interesującością	interesującość	subst:sg:inst:f	nazwa pospolita	
+interesującości	interesującość	subst:pl:gen:f	nazwa pospolita	
+interesującości	interesującość	subst:pl:nom.acc.voc:f	nazwa pospolita	
+interesującości	interesującość	subst:sg:dat.loc:f	nazwa pospolita	
+interesującości	interesującość	subst:sg:gen:f	nazwa pospolita	
+interesującości	interesującość	subst:sg:voc:f	nazwa pospolita	
+interesującościom	interesującość	subst:pl:dat:f	nazwa pospolita	
+interesującość	interesującość	subst:sg:acc:f	nazwa pospolita	
+interesującość	interesującość	subst:sg:nom:f	nazwa pospolita	
 interesująca	interesujący	adj:sg:nom.voc:f:pos		
 interesującą	interesujący	adj:sg:acc:f:pos		
 interesującą	interesujący	adj:sg:inst:f:pos		

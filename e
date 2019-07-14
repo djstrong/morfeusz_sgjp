@@ -3965,6 +3965,17 @@ egzekwujemy	egzekwować	fin:pl:pri:imperf
 egzekwujesz	egzekwować	fin:sg:sec:imperf		
 egzekwuję	egzekwować	fin:sg:pri:imperf		
 egzekwujmy	egzekwować	impt:pl:pri:imperf		
+egzekwowalnościach	egzekwowalność	subst:pl:loc:f	nazwa pospolita	
+egzekwowalnościami	egzekwowalność	subst:pl:inst:f	nazwa pospolita	
+egzekwowalnością	egzekwowalność	subst:sg:inst:f	nazwa pospolita	
+egzekwowalności	egzekwowalność	subst:pl:gen:f	nazwa pospolita	
+egzekwowalności	egzekwowalność	subst:pl:nom.acc.voc:f	nazwa pospolita	
+egzekwowalności	egzekwowalność	subst:sg:dat.loc:f	nazwa pospolita	
+egzekwowalności	egzekwowalność	subst:sg:gen:f	nazwa pospolita	
+egzekwowalności	egzekwowalność	subst:sg:voc:f	nazwa pospolita	
+egzekwowalnościom	egzekwowalność	subst:pl:dat:f	nazwa pospolita	
+egzekwowalność	egzekwowalność	subst:sg:acc:f	nazwa pospolita	
+egzekwowalność	egzekwowalność	subst:sg:nom:f	nazwa pospolita	
 egzekwowalna	egzekwowalny	adj:sg:nom.voc:f:pos		
 egzekwowalną	egzekwowalny	adj:sg:acc:f:pos		
 egzekwowalną	egzekwowalny	adj:sg:inst:f:pos		

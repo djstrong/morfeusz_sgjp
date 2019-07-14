@@ -4395,6 +4395,30 @@
 ścignijcie	ścignąć	impt:pl:sec:perf		daw.
 ścignijmy	ścignąć	impt:pl:pri:perf		daw.
 ścignij	ścignąć	impt:sg:sec:perf		daw.
+ścignieni	ścigniony	adj:pl:nom.voc:m1:pos		daw.
+ścigniona	ścigniony	adj:sg:nom.voc:f:pos		daw.
+ścignioną	ścigniony	adj:sg:acc:f:pos		daw.
+ścignioną	ścigniony	adj:sg:inst:f:pos		daw.
+ścignionego	ścigniony	adj:sg:acc:m1.m2:pos		daw.
+ścignionego	ścigniony	adj:sg:gen:m1.m2.m3.n:pos		daw.
+ścignionej	ścigniony	adj:sg:dat:f:pos		daw.
+ścignionej	ścigniony	adj:sg:gen:f:pos		daw.
+ścignionej	ścigniony	adj:sg:loc:f:pos		daw.
+ścignionemu	ścigniony	adj:sg:dat:m1.m2.m3.n:pos		daw.
+ścignione	ścigniony	adj:pl:acc:m2.m3.f.n:pos		daw.
+ścignione	ścigniony	adj:pl:nom.voc:m2.m3.f.n:pos		daw.
+ścignione	ścigniony	adj:sg:acc:n:pos		daw.
+ścignione	ścigniony	adj:sg:nom.voc:n:pos		daw.
+ścigniono	ścigniony	adja		daw.
+ścignionych	ścigniony	adj:pl:acc:m1:pos		daw.
+ścignionych	ścigniony	adj:pl:gen:m1.m2.m3.f.n:pos		daw.
+ścignionych	ścigniony	adj:pl:loc:m1.m2.m3.f.n:pos		daw.
+ścignionymi	ścigniony	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
+ścignionym	ścigniony	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
+ścignionym	ścigniony	adj:sg:inst:m1.m2.m3.n:pos		daw.
+ścignionym	ścigniony	adj:sg:loc:m1.m2.m3.n:pos		daw.
+ścigniony	ścigniony	adj:sg:acc:m3:pos		daw.
+ścigniony	ścigniony	adj:sg:nom.voc:m1.m2.m3:pos		daw.
 ścinaczach	ścinacz	subst:pl:loc:m3	nazwa pospolita	
 ścinaczach	ścinacz	subst:pl:loc:m3	nazwa pospolita	rzad.
 ścinaczami	ścinacz	subst:pl:inst:m3	nazwa pospolita	
@@ -16487,6 +16511,18 @@
 średniowieczu	średniowiecze	subst:sg:loc:n:ncol	nazwa pospolita	
 średniowieczy	średniowiecze	subst:pl:gen:n:ncol	nazwa pospolita	
 średniowiecznie	średniowiecznie	adv:pos		
+średniowiecznicy	średniowiecznik	subst:pl:nom.voc:m1	nazwa pospolita	
+średniowiecznikach	średniowiecznik	subst:pl:loc:m1	nazwa pospolita	
+średniowiecznikami	średniowiecznik	subst:pl:inst:m1	nazwa pospolita	
+średniowiecznika	średniowiecznik	subst:sg:gen.acc:m1	nazwa pospolita	
+średniowiecznikiem	średniowiecznik	subst:sg:inst:m1	nazwa pospolita	
+średniowieczniki	średniowiecznik	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+średniowiecznikom	średniowiecznik	subst:pl:dat:m1	nazwa pospolita	
+średniowiecznikowi	średniowiecznik	subst:sg:dat:m1	nazwa pospolita	
+średniowieczników	średniowiecznik	subst:pl:gen.acc:m1	nazwa pospolita	
+średniowiecznik	średniowiecznik	subst:sg:nom:m1	nazwa pospolita	
+średniowieczniku	średniowiecznik	subst:sg:loc:m1	nazwa pospolita	
+średniowieczniku	średniowiecznik	subst:sg:voc:m1	nazwa pospolita	
 średniowiecznościach	średniowieczność	subst:pl:loc:f	nazwa pospolita	
 średniowiecznościami	średniowieczność	subst:pl:inst:f	nazwa pospolita	
 średniowiecznością	średniowieczność	subst:sg:inst:f	nazwa pospolita	

@@ -5118,6 +5118,17 @@ janosikowym	janosikowe	subst:pl:dat:n:ncol	nazwa pospolita
 janosikowym	janosikowe	subst:sg:inst:n:ncol	nazwa pospolita	
 janosikowym	janosikowe	subst:sg:loc:n:ncol	nazwa pospolita	
 janosikowo	janosikowo	adv:pos		
+janosikowościach	janosikowość	subst:pl:loc:f	nazwa pospolita	
+janosikowościami	janosikowość	subst:pl:inst:f	nazwa pospolita	
+janosikowością	janosikowość	subst:sg:inst:f	nazwa pospolita	
+janosikowości	janosikowość	subst:pl:gen:f	nazwa pospolita	
+janosikowości	janosikowość	subst:pl:nom.acc.voc:f	nazwa pospolita	
+janosikowości	janosikowość	subst:sg:dat.loc:f	nazwa pospolita	
+janosikowości	janosikowość	subst:sg:gen:f	nazwa pospolita	
+janosikowości	janosikowość	subst:sg:voc:f	nazwa pospolita	
+janosikowościom	janosikowość	subst:pl:dat:f	nazwa pospolita	
+janosikowość	janosikowość	subst:sg:acc:f	nazwa pospolita	
+janosikowość	janosikowość	subst:sg:nom:f	nazwa pospolita	
 janosikowa	janosikowy	adj:sg:nom.voc:f:pos		
 janosikową	janosikowy	adj:sg:acc:f:pos		
 janosikową	janosikowy	adj:sg:inst:f:pos		

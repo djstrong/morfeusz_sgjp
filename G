@@ -279,6 +279,18 @@ Gajuszowi	Gajusz	subst:sg:dat:m1	imię
 Gajuszów	Gajusz	subst:pl:gen.acc:m1	imię	
 Gajuszu	Gajusz	subst:sg:loc:m1	imię	
 Gajuszu	Gajusz	subst:sg:voc:m1	imię	
+Galach	Gal	subst:pl:loc:m1	nazwa pospolita	etn.
+Gala	Gal	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Galami	Gal	subst:pl:inst:m1	nazwa pospolita	etn.
+Gale	Gal	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+Galem	Gal	subst:sg:inst:m1	nazwa pospolita	etn.
+Gal	Gal	subst:sg:nom:m1	nazwa pospolita	etn.
+Galom	Gal	subst:pl:dat:m1	nazwa pospolita	etn.
+Galowie	Gal	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Galowi	Gal	subst:sg:dat:m1	nazwa pospolita	etn.
+Galów	Gal	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Galu	Gal	subst:sg:loc:m1	nazwa pospolita	etn.
+Galu	Gal	subst:sg:voc:m1	nazwa pospolita	etn.
 Galacjach	Galacja	subst:pl:loc:f	nazwa geograficzna	
 Galacja	Galacja	subst:sg:nom:f	nazwa geograficzna	
 Galacjami	Galacja	subst:pl:inst:f	nazwa geograficzna	
@@ -398,6 +410,17 @@ Galicjaninie	Galicjanin	subst:sg:voc:m1	nazwa pospolita
 Galicjaninowi	Galicjanin	subst:sg:dat:m1	nazwa pospolita	
 Galicjanom	Galicjanin	subst:pl:dat:m1	nazwa pospolita	
 Galicjany	Galicjanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Galijce	Galijka	subst:sg:dat.loc:f	nazwa pospolita	
+Galijek	Galijka	subst:pl:gen:f	nazwa pospolita	
+Galijkach	Galijka	subst:pl:loc:f	nazwa pospolita	
+Galijka	Galijka	subst:sg:nom:f	nazwa pospolita	
+Galijkami	Galijka	subst:pl:inst:f	nazwa pospolita	
+Galijką	Galijka	subst:sg:inst:f	nazwa pospolita	
+Galijkę	Galijka	subst:sg:acc:f	nazwa pospolita	
+Galijki	Galijka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+Galijki	Galijka	subst:sg:gen:f	nazwa pospolita	
+Galijko	Galijka	subst:sg:voc:f	nazwa pospolita	
+Galijkom	Galijka	subst:pl:dat:f	nazwa pospolita	
 Galileach	Galilea	subst:pl:loc:f	nazwa geograficzna	
 Galilea	Galilea	subst:sg:nom:f	nazwa geograficzna	
 Galileami	Galilea	subst:pl:inst:f	nazwa geograficzna	

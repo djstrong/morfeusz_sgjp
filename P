@@ -4776,6 +4776,17 @@ Pizarrowie	Pizarro	subst:pl:nom.voc:m1	nazwisko
 Pizarrowi	Pizarro	subst:sg:dat:m1	nazwisko	
 Pizarrów	Pizarro	subst:pl:gen.acc:m1	nazwisko	
 Pizarze	Pizarro	subst:sg:loc:m1	nazwisko	
+Pjongczangach	Pjongczang	subst:pl:loc:m3	nazwa geograficzna	
+Pjongczangami	Pjongczang	subst:pl:inst:m3	nazwa geograficzna	
+Pjongczangiem	Pjongczang	subst:sg:inst:m3	nazwa geograficzna	
+Pjongczangi	Pjongczang	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Pjongczangom	Pjongczang	subst:pl:dat:m3	nazwa geograficzna	
+Pjongczangowi	Pjongczang	subst:sg:dat:m3	nazwa geograficzna	
+Pjongczangów	Pjongczang	subst:pl:gen:m3	nazwa geograficzna	
+Pjongczang	Pjongczang	subst:sg:nom.acc:m3	nazwa geograficzna	
+Pjongczangu	Pjongczang	subst:sg:gen:m3	nazwa geograficzna	
+Pjongczangu	Pjongczang	subst:sg:loc:m3	nazwa geograficzna	
+Pjongczangu	Pjongczang	subst:sg:voc:m3	nazwa geograficzna	
 PK	PK	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa instytucji	
 PK	PK	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa instytucji	
 PKB	PKB	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
@@ -5836,6 +5847,16 @@ Polkowi	Polek	subst:sg:dat:m1	imię
 Polków	Polek	subst:pl:gen.acc:m1	imię	
 Polku	Polek	subst:sg:loc:m1	imię	
 Polku	Polek	subst:sg:voc:m1	imię	
+Polesiach	Polesie	subst:pl:loc:n:ncol	nazwa geograficzna	
+Polesiami	Polesie	subst:pl:inst:n:ncol	nazwa geograficzna	
+Polesia	Polesie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+Polesia	Polesie	subst:sg:gen:n:ncol	nazwa geograficzna	
+Polesiem	Polesie	subst:sg:inst:n:ncol	nazwa geograficzna	
+Polesie	Polesie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+Polesiom	Polesie	subst:pl:dat:n:ncol	nazwa geograficzna	
+Polesi	Polesie	subst:pl:gen:n:ncol	nazwa geograficzna	
+Polesiu	Polesie	subst:sg:dat:n:ncol	nazwa geograficzna	
+Polesiu	Polesie	subst:sg:loc:n:ncol	nazwa geograficzna	
 Poleszuczce	Poleszuczka	subst:sg:dat.loc:f	nazwa pospolita	
 Poleszuczek	Poleszuczka	subst:pl:gen:f	nazwa pospolita	
 Poleszuczkach	Poleszuczka	subst:pl:loc:f	nazwa pospolita	
