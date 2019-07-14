@@ -1,3 +1,4 @@
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
 SA	SA	subst:pl:acc:f	pospolita	
 SA	SA	subst:pl:acc:n2	pospolita	
 SA	SA	subst:pl:dat:f	pospolita	

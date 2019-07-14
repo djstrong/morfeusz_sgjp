@@ -1,3 +1,4 @@
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
 La	La	burk		
 Labradorach	Labrador	subst:pl:loc:m3	geograficzna	
 Labradorami	Labrador	subst:pl:inst:m3	geograficzna	

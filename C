@@ -1,3 +1,6 @@
+Copyright © 2007–2014 Zygmunt Saloni, Włodzimierz Gruszczyński, Marcin
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 C	C	subst:pl:acc:m3	język_programowania	komp.
 C	C	subst:pl:acc:n2	język_programowania	komp.
 C	C	subst:pl:dat:m3	język_programowania	komp.

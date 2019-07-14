@@ -1,3 +1,4 @@
+DISCLAIMED. IN NO EVENT SHALL COPYRIGHT HOLDERS OR CONTRIBUTORS BE
 DAB-ach	DAB	subst:pl:loc:m3	pospolita	
 DAB-ami	DAB	subst:pl:inst:m3	pospolita	
 DAB	DAB	subst:sg:acc:m3	pospolita	

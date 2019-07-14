@@ -1,3 +1,5 @@
+Woliński, Robert Wołosz, Danuta Skowrońska
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
 Wacek	Wacek	subst:sg:nom:m1	imię	
 Wackach	Wacek	subst:pl:loc:m1	imię	
 Wackami	Wacek	subst:pl:inst:m1	imię	

@@ -1,3 +1,4 @@
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
 Iberiach	Iberia	subst:pl:loc:f	geograficzna	hist.
 Iberia	Iberia	subst:sg:nom:f	geograficzna	hist.
 Iberiami	Iberia	subst:pl:inst:f	geograficzna	hist.

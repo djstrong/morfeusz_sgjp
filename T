@@ -1,3 +1,5 @@
+THIS SOFTWARE IS PROVIDED BY COPYRIGHT HOLDERS “AS IS” AND ANY EXPRESS
+THE POSSIBILITY OF SUCH DAMAGE.
 TAB-ach	TAB	subst:pl:loc:m3	pospolita	
 TAB-ami	TAB	subst:pl:inst:m3	pospolita	
 TAB-em	TAB	subst:sg:inst:m3	pospolita	

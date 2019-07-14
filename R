@@ -1,3 +1,6 @@
+Redistribution and use in source and binary forms, with or without
+Redistributions of source code must retain the above copyright notice,
+Redistributions in binary form must reproduce the above copyright
 Rabach	Raba	subst:pl:loc:f	geograficzna	
 Rabami	Raba	subst:pl:inst:f	geograficzna	
 Raba	Raba	subst:sg:nom:f	geograficzna	
