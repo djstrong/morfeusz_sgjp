@@ -1700,7 +1700,8 @@
 ćwierćkolumny	ćwierćkolumna	subst:pl:nom.acc.voc:f	nazwa pospolita	
 ćwierćkolumny	ćwierćkolumna	subst:sg:gen:f	nazwa pospolita	
 ćwierć	ćwierć:n	numcomp		
-ćwierć	ćwierć:n	num:sg:nom.gen.dat.inst.acc.loc.voc:m1.m2.m3.f.n:rec		
+ćwierć	ćwierć:n	num:sg:dat.inst.loc:m1.m2.m3.f.n:congr.rec		
+ćwierć	ćwierć:n	num:sg:nom.gen.acc.voc:m1.m2.m3.f.n:rec		
 ćwierćnucie	ćwierćnuta	subst:sg:dat.loc:f	nazwa pospolita	muz.
 ćwierćnutach	ćwierćnuta	subst:pl:loc:f	nazwa pospolita	muz.
 ćwierćnuta	ćwierćnuta	subst:sg:nom:f	nazwa pospolita	muz.
