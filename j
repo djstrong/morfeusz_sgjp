@@ -26176,6 +26176,20 @@ jehowitów	jehowita	subst:pl:gen:m1	nazwa pospolita
 jehowity	jehowita	depr:pl:nom:m2	nazwa pospolita	
 jehowity	jehowita	depr:pl:voc:m2	nazwa pospolita	
 jehowity	jehowita	subst:sg:gen:m1	nazwa pospolita	
+jehowitce	jehowitka	subst:sg:dat:f	nazwa pospolita	
+jehowitce	jehowitka	subst:sg:loc:f	nazwa pospolita	
+jehowitek	jehowitka	subst:pl:gen:f	nazwa pospolita	
+jehowitkach	jehowitka	subst:pl:loc:f	nazwa pospolita	
+jehowitka	jehowitka	subst:sg:nom:f	nazwa pospolita	
+jehowitkami	jehowitka	subst:pl:inst:f	nazwa pospolita	
+jehowitką	jehowitka	subst:sg:inst:f	nazwa pospolita	
+jehowitkę	jehowitka	subst:sg:acc:f	nazwa pospolita	
+jehowitki	jehowitka	subst:pl:acc:f	nazwa pospolita	
+jehowitki	jehowitka	subst:pl:nom:f	nazwa pospolita	
+jehowitki	jehowitka	subst:pl:voc:f	nazwa pospolita	
+jehowitki	jehowitka	subst:sg:gen:f	nazwa pospolita	
+jehowitko	jehowitka	subst:sg:voc:f	nazwa pospolita	
+jehowitkom	jehowitka	subst:pl:dat:f	nazwa pospolita	
 jej	jej	interj		
 jejku	jejku	interj		
 jejmościance	jejmościanka	subst:sg:dat:f	nazwa pospolita	przest.
