@@ -1,0 +1,105 @@
+Xawerego	Xawery	subst:sg:acc:m1	imię	
+Xawerego	Xawery	subst:sg:gen:m1	imię	
+Xaweremu	Xawery	subst:sg:dat:m1	imię	
+Xawere	Xawery	depr:pl:nom:m2	imię	
+Xawere	Xawery	depr:pl:voc:m2	imię	
+Xawerowie	Xawery	subst:pl:nom:m1	imię	
+Xawerowie	Xawery	subst:pl:voc:m1	imię	
+Xawerych	Xawery	subst:pl:acc:m1	imię	
+Xawerych	Xawery	subst:pl:gen:m1	imię	
+Xawerych	Xawery	subst:pl:loc:m1	imię	
+Xawerymi	Xawery	subst:pl:inst:m1	imię	
+Xawerym	Xawery	subst:pl:dat:m1	imię	
+Xawerym	Xawery	subst:sg:inst:m1	imię	
+Xawerym	Xawery	subst:sg:loc:m1	imię	
+Xawery	Xawery	subst:sg:nom:m1	imię	
+Xawery	Xawery	subst:sg:voc:m1	imię	
+XBW	XBW	depr:pl:nom:m2	pseudonim	
+XBW	XBW	depr:pl:nom:m2	tytuł	
+XBW	XBW	depr:pl:voc:m2	pseudonim	
+XBW	XBW	depr:pl:voc:m2	tytuł	
+XBW	XBW	subst:pl:acc:m1	pseudonim	
+XBW	XBW	subst:pl:acc:m1	tytuł	
+XBW	XBW	subst:pl:dat:m1	pseudonim	
+XBW	XBW	subst:pl:dat:m1	tytuł	
+XBW	XBW	subst:pl:gen:m1	pseudonim	
+XBW	XBW	subst:pl:gen:m1	tytuł	
+XBW	XBW	subst:pl:inst:m1	pseudonim	
+XBW	XBW	subst:pl:inst:m1	tytuł	
+XBW	XBW	subst:pl:loc:m1	pseudonim	
+XBW	XBW	subst:pl:loc:m1	tytuł	
+XBW	XBW	subst:pl:nom:m1	pseudonim	
+XBW	XBW	subst:pl:nom:m1	tytuł	
+XBW	XBW	subst:pl:voc:m1	pseudonim	
+XBW	XBW	subst:pl:voc:m1	tytuł	
+XBW	XBW	subst:sg:acc:m1	pseudonim	
+XBW	XBW	subst:sg:acc:m1	tytuł	
+XBW	XBW	subst:sg:dat:m1	pseudonim	
+XBW	XBW	subst:sg:dat:m1	tytuł	
+XBW	XBW	subst:sg:gen:m1	pseudonim	
+XBW	XBW	subst:sg:gen:m1	tytuł	
+XBW	XBW	subst:sg:inst:m1	pseudonim	
+XBW	XBW	subst:sg:inst:m1	tytuł	
+XBW	XBW	subst:sg:loc:m1	pseudonim	
+XBW	XBW	subst:sg:loc:m1	tytuł	
+XBW	XBW	subst:sg:nom:m1	pseudonim	
+XBW	XBW	subst:sg:nom:m1	tytuł	
+XBW	XBW	subst:sg:voc:m1	pseudonim	
+XBW	XBW	subst:sg:voc:m1	tytuł	
+Xeniach	Xenia	subst:pl:loc:f	imię	
+Xeniami	Xenia	subst:pl:inst:f	imię	
+Xenia	Xenia	subst:sg:nom:f	imię	
+Xenią	Xenia	subst:sg:inst:f	imię	
+Xenie	Xenia	subst:pl:acc:f	imię	
+Xenie	Xenia	subst:pl:nom:f	imię	
+Xenie	Xenia	subst:pl:voc:f	imię	
+Xenię	Xenia	subst:sg:acc:f	imię	
+Xeniom	Xenia	subst:pl:dat:f	imię	
+Xeniu	Xenia	subst:sg:voc:f	imię	
+Xeni	Xenia	subst:pl:gen:f	imię	hom.|rzad.
+Xeni	Xenia	subst:sg:dat:f	imię	
+Xeni	Xenia	subst:sg:gen:f	imię	
+Xeni	Xenia	subst:sg:loc:f	imię	
+Xeń	Xenia	subst:pl:gen:f	imię	char.
+XML-ach	XML	subst:pl:loc:m2	pospolita	komp.
+XML-ach	XML	subst:pl:loc:m3	pospolita	komp.
+XML-ami	XML	subst:pl:inst:m2	pospolita	komp.
+XML-ami	XML	subst:pl:inst:m3	pospolita	komp.
+XML-a	XML	subst:sg:acc:m2	pospolita	komp.
+XML-a	XML	subst:sg:gen:m2	pospolita	komp.
+XML-em	XML	subst:sg:inst:m2	pospolita	komp.
+XML-em	XML	subst:sg:inst:m3	pospolita	komp.
+XML-e	XML	subst:pl:acc:m2	pospolita	komp.
+XML-e	XML	subst:pl:acc:m3	pospolita	komp.
+XML-e	XML	subst:pl:nom:m2	pospolita	komp.
+XML-e	XML	subst:pl:nom:m3	pospolita	komp.
+XML-e	XML	subst:pl:voc:m2	pospolita	komp.
+XML-e	XML	subst:pl:voc:m3	pospolita	komp.
+XML-i	XML	subst:pl:gen:m3	pospolita	komp.
+XML-om	XML	subst:pl:dat:m2	pospolita	komp.
+XML-om	XML	subst:pl:dat:m3	pospolita	komp.
+XML-owi	XML	subst:sg:dat:m2	pospolita	komp.
+XML-owi	XML	subst:sg:dat:m3	pospolita	komp.
+XML-ów	XML	subst:pl:gen:m2	pospolita	komp.
+XML-u	XML	subst:sg:gen:m3	pospolita	komp.
+XML-u	XML	subst:sg:loc:m2	pospolita	komp.
+XML-u	XML	subst:sg:loc:m3	pospolita	komp.
+XML-u	XML	subst:sg:voc:m2	pospolita	komp.
+XML-u	XML	subst:sg:voc:m3	pospolita	komp.
+XML	XML	subst:sg:acc:m3	pospolita	komp.
+XML	XML	subst:sg:nom:m2	pospolita	komp.
+XML	XML	subst:sg:nom:m3	pospolita	komp.
+Xymenach	Xymena	subst:pl:loc:f	imię	
+Xymenami	Xymena	subst:pl:inst:f	imię	
+Xymena	Xymena	subst:sg:nom:f	imię	
+Xymeną	Xymena	subst:sg:inst:f	imię	
+Xymenę	Xymena	subst:sg:acc:f	imię	
+Xymenie	Xymena	subst:sg:dat:f	imię	
+Xymenie	Xymena	subst:sg:loc:f	imię	
+Xymenom	Xymena	subst:pl:dat:f	imię	
+Xymeno	Xymena	subst:sg:voc:f	imię	
+Xymen	Xymena	subst:pl:gen:f	imię	
+Xymeny	Xymena	subst:pl:acc:f	imię	
+Xymeny	Xymena	subst:pl:nom:f	imię	
+Xymeny	Xymena	subst:pl:voc:f	imię	
+Xymeny	Xymena	subst:sg:gen:f	imię	

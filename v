@@ -1,0 +1,1063 @@
+vacacie	vacat	subst:sg:loc:m3	pospolita	
+vacacie	vacat	subst:sg:voc:m3	pospolita	
+vacatach	vacat	subst:pl:loc:m3	pospolita	
+vacatami	vacat	subst:pl:inst:m3	pospolita	
+vacatem	vacat	subst:sg:inst:m3	pospolita	
+vacatom	vacat	subst:pl:dat:m3	pospolita	
+vacatowi	vacat	subst:sg:dat:m3	pospolita	
+vacatów	vacat	subst:pl:gen:m3	pospolita	
+vacatu	vacat	subst:sg:gen:m3	pospolita	
+vacat	vacat	subst:sg:acc:m3	pospolita	
+vacat	vacat	subst:sg:nom:m3	pospolita	
+vacaty	vacat	subst:pl:acc:m3	pospolita	
+vacaty	vacat	subst:pl:nom:m3	pospolita	
+vacaty	vacat	subst:pl:voc:m3	pospolita	
+vacherin	vacherin	subst:pl:acc:m3	pospolita	
+vacherin	vacherin	subst:pl:dat:m3	pospolita	
+vacherin	vacherin	subst:pl:gen:m3	pospolita	
+vacherin	vacherin	subst:pl:inst:m3	pospolita	
+vacherin	vacherin	subst:pl:loc:m3	pospolita	
+vacherin	vacherin	subst:pl:nom:m3	pospolita	
+vacherin	vacherin	subst:pl:voc:m3	pospolita	
+vacherin	vacherin	subst:sg:acc:m3	pospolita	
+vacherin	vacherin	subst:sg:dat:m3	pospolita	
+vacherin	vacherin	subst:sg:gen:m3	pospolita	
+vacherin	vacherin	subst:sg:inst:m3	pospolita	
+vacherin	vacherin	subst:sg:loc:m3	pospolita	
+vacherin	vacherin	subst:sg:nom:m3	pospolita	
+vacherin	vacherin	subst:sg:voc:m3	pospolita	
+vademecach	vademecum	subst:pl:loc:n2	pospolita	
+vademecami	vademecum	subst:pl:inst:n2	pospolita	
+vademeca	vademecum	subst:pl:acc:n2	pospolita	
+vademeca	vademecum	subst:pl:nom:n2	pospolita	
+vademeca	vademecum	subst:pl:voc:n2	pospolita	
+vademecom	vademecum	subst:pl:dat:n2	pospolita	
+vademeców	vademecum	subst:pl:gen:n2	pospolita	
+vademecum	vademecum	subst:sg:acc:n2	pospolita	
+vademecum	vademecum	subst:sg:dat:n2	pospolita	
+vademecum	vademecum	subst:sg:gen:n2	pospolita	
+vademecum	vademecum	subst:sg:inst:n2	pospolita	
+vademecum	vademecum	subst:sg:loc:n2	pospolita	
+vademecum	vademecum	subst:sg:nom:n2	pospolita	
+vademecum	vademecum	subst:sg:voc:n2	pospolita	
+valpolicellach	valpolicella	subst:pl:loc:f	pospolita	
+valpolicellami	valpolicella	subst:pl:inst:f	pospolita	
+valpolicella	valpolicella	subst:sg:nom:f	pospolita	
+valpolicellą	valpolicella	subst:sg:inst:f	pospolita	
+valpolicelle	valpolicella	subst:pl:acc:f	pospolita	
+valpolicelle	valpolicella	subst:pl:nom:f	pospolita	
+valpolicelle	valpolicella	subst:pl:voc:f	pospolita	
+valpolicellę	valpolicella	subst:sg:acc:f	pospolita	
+valpolicelli	valpolicella	subst:pl:gen:f	pospolita	
+valpolicelli	valpolicella	subst:sg:dat:f	pospolita	
+valpolicelli	valpolicella	subst:sg:gen:f	pospolita	
+valpolicelli	valpolicella	subst:sg:loc:f	pospolita	
+valpolicellom	valpolicella	subst:pl:dat:f	pospolita	
+valpolicello	valpolicella	subst:sg:voc:f	pospolita	
+van	van:b	burk		
+vanach	van:s	subst:pl:loc:m2	pospolita	
+vanami	van:s	subst:pl:inst:m2	pospolita	
+vana	van:s	subst:sg:acc:m2	pospolita	
+vana	van:s	subst:sg:gen:m2	pospolita	
+vanem	van:s	subst:sg:inst:m2	pospolita	
+vanie	van:s	subst:sg:loc:m2	pospolita	
+vanie	van:s	subst:sg:voc:m2	pospolita	
+vanom	van:s	subst:pl:dat:m2	pospolita	
+vanowi	van:s	subst:sg:dat:m2	pospolita	
+vanów	van:s	subst:pl:gen:m2	pospolita	
+van	van:s	subst:sg:nom:m2	pospolita	
+vany	van:s	subst:pl:acc:m2	pospolita	
+vany	van:s	subst:pl:nom:m2	pospolita	
+vany	van:s	subst:pl:voc:m2	pospolita	
+vaporetto	vaporetto	subst:pl:acc:n2	pospolita	
+vaporetto	vaporetto	subst:pl:dat:n2	pospolita	
+vaporetto	vaporetto	subst:pl:gen:n2	pospolita	
+vaporetto	vaporetto	subst:pl:inst:n2	pospolita	
+vaporetto	vaporetto	subst:pl:loc:n2	pospolita	
+vaporetto	vaporetto	subst:pl:nom:n2	pospolita	
+vaporetto	vaporetto	subst:pl:voc:n2	pospolita	
+vaporetto	vaporetto	subst:sg:acc:n2	pospolita	
+vaporetto	vaporetto	subst:sg:dat:n2	pospolita	
+vaporetto	vaporetto	subst:sg:gen:n2	pospolita	
+vaporetto	vaporetto	subst:sg:inst:n2	pospolita	
+vaporetto	vaporetto	subst:sg:loc:n2	pospolita	
+vaporetto	vaporetto	subst:sg:nom:n2	pospolita	
+vaporetto	vaporetto	subst:sg:voc:n2	pospolita	
+variach	varia	subst:pl:loc:p3	pospolita	książk.
+variami	varia	subst:pl:inst:p3	pospolita	książk.
+varia	varia	subst:pl:acc:p3	pospolita	książk.
+varia	varia	subst:pl:nom:p3	pospolita	książk.
+varia	varia	subst:pl:voc:p3	pospolita	książk.
+variom	varia	subst:pl:dat:p3	pospolita	książk.
+variów	varia	subst:pl:gen:p3	pospolita	książk.
+varietes	varietes	subst:pl:acc:n2	pospolita	
+varietes	varietes	subst:pl:dat:n2	pospolita	
+varietes	varietes	subst:pl:gen:n2	pospolita	
+varietes	varietes	subst:pl:inst:n2	pospolita	
+varietes	varietes	subst:pl:loc:n2	pospolita	
+varietes	varietes	subst:pl:nom:n2	pospolita	
+varietes	varietes	subst:pl:voc:n2	pospolita	
+varietes	varietes	subst:sg:acc:n2	pospolita	
+varietes	varietes	subst:sg:dat:n2	pospolita	
+varietes	varietes	subst:sg:gen:n2	pospolita	
+varietes	varietes	subst:sg:inst:n2	pospolita	
+varietes	varietes	subst:sg:loc:n2	pospolita	
+varietes	varietes	subst:sg:nom:n2	pospolita	
+varietes	varietes	subst:sg:voc:n2	pospolita	
+variétés	variétés	subst:pl:acc:n2	pospolita	
+variétés	variétés	subst:pl:dat:n2	pospolita	
+variétés	variétés	subst:pl:gen:n2	pospolita	
+variétés	variétés	subst:pl:inst:n2	pospolita	
+variétés	variétés	subst:pl:loc:n2	pospolita	
+variétés	variétés	subst:pl:nom:n2	pospolita	
+variétés	variétés	subst:pl:voc:n2	pospolita	
+variétés	variétés	subst:sg:acc:n2	pospolita	
+variétés	variétés	subst:sg:dat:n2	pospolita	
+variétés	variétés	subst:sg:gen:n2	pospolita	
+variétés	variétés	subst:sg:inst:n2	pospolita	
+variétés	variétés	subst:sg:loc:n2	pospolita	
+variétés	variétés	subst:sg:nom:n2	pospolita	
+variétés	variétés	subst:sg:voc:n2	pospolita	
+varsavianach	varsaviana	subst:pl:loc:p3	pospolita	
+varsavianami	varsaviana	subst:pl:inst:p3	pospolita	
+varsaviana	varsaviana	subst:pl:acc:p3	pospolita	
+varsaviana	varsaviana	subst:pl:nom:p3	pospolita	
+varsaviana	varsaviana	subst:pl:voc:p3	pospolita	
+varsavianom	varsaviana	subst:pl:dat:p3	pospolita	
+varsavianów	varsaviana	subst:pl:gen:p3	pospolita	
+varsavianistach	varsavianista	subst:pl:loc:m1	pospolita	
+varsavianistami	varsavianista	subst:pl:inst:m1	pospolita	
+varsavianista	varsavianista	subst:sg:nom:m1	pospolita	
+varsavianistą	varsavianista	subst:sg:inst:m1	pospolita	
+varsavianistę	varsavianista	subst:sg:acc:m1	pospolita	
+varsavianistom	varsavianista	subst:pl:dat:m1	pospolita	
+varsavianisto	varsavianista	subst:sg:voc:m1	pospolita	
+varsavianistów	varsavianista	subst:pl:acc:m1	pospolita	
+varsavianistów	varsavianista	subst:pl:gen:m1	pospolita	
+varsavianisty	varsavianista	depr:pl:nom:m2	pospolita	
+varsavianisty	varsavianista	depr:pl:voc:m2	pospolita	
+varsavianisty	varsavianista	subst:sg:gen:m1	pospolita	
+varsavianiście	varsavianista	subst:sg:dat:m1	pospolita	
+varsavianiście	varsavianista	subst:sg:loc:m1	pospolita	
+varsavianiści	varsavianista	subst:pl:nom:m1	pospolita	
+varsavianiści	varsavianista	subst:pl:voc:m1	pospolita	
+varsavianistce	varsavianistka	subst:sg:dat:f	pospolita	
+varsavianistce	varsavianistka	subst:sg:loc:f	pospolita	
+varsavianistek	varsavianistka	subst:pl:gen:f	pospolita	
+varsavianistkach	varsavianistka	subst:pl:loc:f	pospolita	
+varsavianistkami	varsavianistka	subst:pl:inst:f	pospolita	
+varsavianistka	varsavianistka	subst:sg:nom:f	pospolita	
+varsavianistką	varsavianistka	subst:sg:inst:f	pospolita	
+varsavianistkę	varsavianistka	subst:sg:acc:f	pospolita	
+varsavianistki	varsavianistka	subst:pl:acc:f	pospolita	
+varsavianistki	varsavianistka	subst:pl:nom:f	pospolita	
+varsavianistki	varsavianistka	subst:pl:voc:f	pospolita	
+varsavianistki	varsavianistka	subst:sg:gen:f	pospolita	
+varsavianistkom	varsavianistka	subst:pl:dat:f	pospolita	
+varsavianistko	varsavianistka	subst:sg:voc:f	pospolita	
+varsavianistyce	varsavianistyka	subst:sg:dat:f	pospolita	
+varsavianistyce	varsavianistyka	subst:sg:loc:f	pospolita	
+varsavianistykach	varsavianistyka	subst:pl:loc:f	pospolita	
+varsavianistykami	varsavianistyka	subst:pl:inst:f	pospolita	
+varsavianistyka	varsavianistyka	subst:sg:nom:f	pospolita	
+varsavianistyką	varsavianistyka	subst:sg:inst:f	pospolita	
+varsavianistykę	varsavianistyka	subst:sg:acc:f	pospolita	
+varsavianistyki	varsavianistyka	subst:pl:acc:f	pospolita	
+varsavianistyki	varsavianistyka	subst:pl:nom:f	pospolita	
+varsavianistyki	varsavianistyka	subst:pl:voc:f	pospolita	
+varsavianistyki	varsavianistyka	subst:sg:gen:f	pospolita	
+varsavianistykom	varsavianistyka	subst:pl:dat:f	pospolita	
+varsavianistyko	varsavianistyka	subst:sg:voc:f	pospolita	
+varsavianistyk	varsavianistyka	subst:pl:gen:f	pospolita	
+vatermörderach	vatermörder	subst:pl:loc:m3	pospolita	daw.
+vatermörderami	vatermörder	subst:pl:inst:m3	pospolita	daw.
+vatermörderem	vatermörder	subst:sg:inst:m3	pospolita	daw.
+vatermörderom	vatermörder	subst:pl:dat:m3	pospolita	daw.
+vatermörderowi	vatermörder	subst:sg:dat:m3	pospolita	daw.
+vatermörderów	vatermörder	subst:pl:gen:m3	pospolita	daw.
+vatermörderu	vatermörder	subst:sg:gen:m3	pospolita	daw.
+vatermörder	vatermörder	subst:sg:acc:m3	pospolita	daw.
+vatermörder	vatermörder	subst:sg:nom:m3	pospolita	daw.
+vatermördery	vatermörder	subst:pl:acc:m3	pospolita	daw.
+vatermördery	vatermörder	subst:pl:nom:m3	pospolita	daw.
+vatermördery	vatermörder	subst:pl:voc:m3	pospolita	daw.
+vatermörderze	vatermörder	subst:sg:loc:m3	pospolita	daw.
+vatermörderze	vatermörder	subst:sg:voc:m3	pospolita	daw.
+vatowcach	vatowiec	subst:pl:loc:m1	pospolita	
+vatowcami	vatowiec	subst:pl:inst:m1	pospolita	
+vatowca	vatowiec	subst:sg:acc:m1	pospolita	
+vatowca	vatowiec	subst:sg:gen:m1	pospolita	
+vatowcem	vatowiec	subst:sg:inst:m1	pospolita	
+vatowce	vatowiec	depr:pl:nom:m2	pospolita	
+vatowce	vatowiec	depr:pl:voc:m2	pospolita	
+vatowcom	vatowiec	subst:pl:dat:m1	pospolita	
+vatowcowi	vatowiec	subst:sg:dat:m1	pospolita	
+vatowców	vatowiec	subst:pl:acc:m1	pospolita	
+vatowców	vatowiec	subst:pl:gen:m1	pospolita	
+vatowcu	vatowiec	subst:sg:loc:m1	pospolita	
+vatowcu	vatowiec	subst:sg:voc:m1	pospolita	
+vatowcy	vatowiec	subst:pl:nom:m1	pospolita	
+vatowcy	vatowiec	subst:pl:voc:m1	pospolita	
+vatowcze	vatowiec	subst:sg:voc:m1	pospolita	
+vatowiec	vatowiec	subst:sg:nom:m1	pospolita	
+vatowscy	vatowski	adj:pl:nom.voc:m1.p1:pos		
+vatowska	vatowski	adj:sg:nom.voc:f:pos		
+vatowską	vatowski	adj:sg:acc:f:pos		
+vatowską	vatowski	adj:sg:inst:f:pos		
+vatowskich	vatowski	adj:pl:acc:m1.p1:pos		
+vatowskich	vatowski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+vatowskich	vatowski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+vatowskiego	vatowski	adj:sg:acc:m1.m2:pos		
+vatowskiego	vatowski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+vatowskiej	vatowski	adj:sg:dat:f:pos		
+vatowskiej	vatowski	adj:sg:gen:f:pos		
+vatowskiej	vatowski	adj:sg:loc:f:pos		
+vatowskiemu	vatowski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+vatowskie	vatowski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+vatowskie	vatowski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+vatowskie	vatowski	adj:sg:acc:n1.n2:pos		
+vatowskie	vatowski	adj:sg:nom.voc:n1.n2:pos		
+vatowskimi	vatowski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+vatowskim	vatowski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+vatowskim	vatowski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+vatowskim	vatowski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+vatowski	vatowski	adj:sg:acc:m3:pos		
+vatowski	vatowski	adj:sg:nom.voc:m1.m2.m3:pos		
+vatowsko	vatowski	adja		
+vatowsku	vatowski	adjp		
+vatowsko	vatowsko	adv:pos		
+vatowskościach	vatowskość	subst:pl:loc:f		
+vatowskościami	vatowskość	subst:pl:inst:f		
+vatowskością	vatowskość	subst:sg:inst:f		
+vatowskościom	vatowskość	subst:pl:dat:f		
+vatowskości	vatowskość	subst:pl:acc:f		
+vatowskości	vatowskość	subst:pl:gen:f		
+vatowskości	vatowskość	subst:pl:nom:f		
+vatowskości	vatowskość	subst:pl:voc:f		
+vatowskości	vatowskość	subst:sg:dat:f		
+vatowskości	vatowskość	subst:sg:gen:f		
+vatowskości	vatowskość	subst:sg:loc:f		
+vatowskości	vatowskość	subst:sg:voc:f		
+vatowskość	vatowskość	subst:sg:acc:f		
+vatowskość	vatowskość	subst:sg:nom:f		
+vectrach	vectra	subst:pl:loc:f	pospolita	
+vectrami	vectra	subst:pl:inst:f	pospolita	
+vectra	vectra	subst:sg:nom:f	pospolita	
+vectrą	vectra	subst:sg:inst:f	pospolita	
+vectrę	vectra	subst:sg:acc:f	pospolita	
+vectrom	vectra	subst:pl:dat:f	pospolita	
+vectro	vectra	subst:sg:voc:f	pospolita	
+vectr	vectra	subst:pl:gen:f	pospolita	
+vectry	vectra	subst:pl:acc:f	pospolita	
+vectry	vectra	subst:pl:nom:f	pospolita	
+vectry	vectra	subst:pl:voc:f	pospolita	
+vectry	vectra	subst:sg:gen:f	pospolita	
+vectrze	vectra	subst:sg:dat:f	pospolita	
+vectrze	vectra	subst:sg:loc:f	pospolita	
+vedetcie	vedetta	subst:sg:dat:f	pospolita	
+vedetcie	vedetta	subst:sg:loc:f	pospolita	
+vedettach	vedetta	subst:pl:loc:f	pospolita	
+vedettami	vedetta	subst:pl:inst:f	pospolita	
+vedetta	vedetta	subst:sg:nom:f	pospolita	
+vedettą	vedetta	subst:sg:inst:f	pospolita	
+vedettę	vedetta	subst:sg:acc:f	pospolita	
+vedettom	vedetta	subst:pl:dat:f	pospolita	
+vedetto	vedetta	subst:sg:voc:f	pospolita	
+vedett	vedetta	subst:pl:gen:f	pospolita	
+vedetty	vedetta	subst:pl:acc:f	pospolita	
+vedetty	vedetta	subst:pl:nom:f	pospolita	
+vedetty	vedetta	subst:pl:voc:f	pospolita	
+vedetty	vedetta	subst:sg:gen:f	pospolita	
+vel	vel	conj		
+velariach	velarium	subst:pl:loc:n2	pospolita	
+velariami	velarium	subst:pl:inst:n2	pospolita	
+velaria	velarium	subst:pl:acc:n2	pospolita	
+velaria	velarium	subst:pl:nom:n2	pospolita	
+velaria	velarium	subst:pl:voc:n2	pospolita	
+velariom	velarium	subst:pl:dat:n2	pospolita	
+velariów	velarium	subst:pl:gen:n2	pospolita	
+velarium	velarium	subst:sg:acc:n2	pospolita	
+velarium	velarium	subst:sg:dat:n2	pospolita	
+velarium	velarium	subst:sg:gen:n2	pospolita	
+velarium	velarium	subst:sg:inst:n2	pospolita	
+velarium	velarium	subst:sg:loc:n2	pospolita	
+velarium	velarium	subst:sg:nom:n2	pospolita	
+velarium	velarium	subst:sg:voc:n2	pospolita	
+vendetcie	vendetta	subst:sg:dat:f	pospolita	
+vendetcie	vendetta	subst:sg:loc:f	pospolita	
+vendettach	vendetta	subst:pl:loc:f	pospolita	
+vendettami	vendetta	subst:pl:inst:f	pospolita	
+vendetta	vendetta	subst:sg:nom:f	pospolita	
+vendettą	vendetta	subst:sg:inst:f	pospolita	
+vendettę	vendetta	subst:sg:acc:f	pospolita	
+vendettom	vendetta	subst:pl:dat:f	pospolita	
+vendetto	vendetta	subst:sg:voc:f	pospolita	
+vendett	vendetta	subst:pl:gen:f	pospolita	
+vendetty	vendetta	subst:pl:acc:f	pospolita	
+vendetty	vendetta	subst:pl:nom:f	pospolita	
+vendetty	vendetta	subst:pl:voc:f	pospolita	
+vendetty	vendetta	subst:sg:gen:f	pospolita	
+ventôse	ventôse	subst:pl:acc:m3	pospolita	
+ventôse	ventôse	subst:pl:dat:m3	pospolita	
+ventôse	ventôse	subst:pl:gen:m3	pospolita	
+ventôse	ventôse	subst:pl:inst:m3	pospolita	
+ventôse	ventôse	subst:pl:loc:m3	pospolita	
+ventôse	ventôse	subst:pl:nom:m3	pospolita	
+ventôse	ventôse	subst:pl:voc:m3	pospolita	
+ventôse	ventôse	subst:sg:acc:m3	pospolita	
+ventôse	ventôse	subst:sg:dat:m3	pospolita	
+ventôse	ventôse	subst:sg:gen:m3	pospolita	
+ventôse	ventôse	subst:sg:inst:m3	pospolita	
+ventôse	ventôse	subst:sg:loc:m3	pospolita	
+ventôse	ventôse	subst:sg:nom:m3	pospolita	
+ventôse	ventôse	subst:sg:voc:m3	pospolita	
+veraikonach	veraikon	subst:pl:loc:m3	pospolita	
+veraikonami	veraikon	subst:pl:inst:m3	pospolita	
+veraikonem	veraikon	subst:sg:inst:m3	pospolita	
+veraikonie	veraikon	subst:sg:loc:m3	pospolita	
+veraikonie	veraikon	subst:sg:voc:m3	pospolita	
+veraikonom	veraikon	subst:pl:dat:m3	pospolita	
+veraikonowi	veraikon	subst:sg:dat:m3	pospolita	
+veraikonów	veraikon	subst:pl:gen:m3	pospolita	
+veraikonu	veraikon	subst:sg:gen:m3	pospolita	
+veraikon	veraikon	subst:sg:acc:m3	pospolita	
+veraikon	veraikon	subst:sg:nom:m3	pospolita	
+veraikony	veraikon	subst:pl:acc:m3	pospolita	
+veraikony	veraikon	subst:pl:nom:m3	pospolita	
+veraikony	veraikon	subst:pl:voc:m3	pospolita	
+verbach	verbum	subst:pl:loc:n2	pospolita	
+verbami	verbum	subst:pl:inst:n2	pospolita	
+verba	verbum	subst:pl:acc:n2	pospolita	
+verba	verbum	subst:pl:nom:n2	pospolita	
+verba	verbum	subst:pl:voc:n2	pospolita	
+verbom	verbum	subst:pl:dat:n2	pospolita	
+verbów	verbum	subst:pl:gen:n2	pospolita	
+verbum	verbum	subst:sg:acc:n2	pospolita	
+verbum	verbum	subst:sg:dat:n2	pospolita	
+verbum	verbum	subst:sg:gen:n2	pospolita	
+verbum	verbum	subst:sg:inst:n2	pospolita	
+verbum	verbum	subst:sg:loc:n2	pospolita	
+verbum	verbum	subst:sg:nom:n2	pospolita	
+verbum	verbum	subst:sg:voc:n2	pospolita	
+verlanach	verlan	subst:pl:loc:m3	pospolita	
+verlanami	verlan	subst:pl:inst:m3	pospolita	
+verlanem	verlan	subst:sg:inst:m3	pospolita	
+verlanie	verlan	subst:sg:loc:m3	pospolita	
+verlanie	verlan	subst:sg:voc:m3	pospolita	
+verlanom	verlan	subst:pl:dat:m3	pospolita	
+verlanowi	verlan	subst:sg:dat:m3	pospolita	
+verlanów	verlan	subst:pl:gen:m3	pospolita	
+verlanu	verlan	subst:sg:gen:m3	pospolita	
+verlan	verlan	subst:sg:acc:m3	pospolita	
+verlan	verlan	subst:sg:nom:m3	pospolita	
+verlany	verlan	subst:pl:acc:m3	pospolita	
+verlany	verlan	subst:pl:nom:m3	pospolita	
+verlany	verlan	subst:pl:voc:m3	pospolita	
+verso	verso	subst:pl:acc:n2	pospolita	
+verso	verso	subst:pl:dat:n2	pospolita	
+verso	verso	subst:pl:gen:n2	pospolita	
+verso	verso	subst:pl:inst:n2	pospolita	
+verso	verso	subst:pl:loc:n2	pospolita	
+verso	verso	subst:pl:nom:n2	pospolita	
+verso	verso	subst:pl:voc:n2	pospolita	
+verso	verso	subst:sg:acc:n2	pospolita	
+verso	verso	subst:sg:dat:n2	pospolita	
+verso	verso	subst:sg:gen:n2	pospolita	
+verso	verso	subst:sg:inst:n2	pospolita	
+verso	verso	subst:sg:loc:n2	pospolita	
+verso	verso	subst:sg:nom:n2	pospolita	
+verso	verso	subst:sg:voc:n2	pospolita	
+verticalach	vertical	subst:pl:loc:m3	pospolita	
+verticalami	vertical	subst:pl:inst:m3	pospolita	
+verticalem	vertical	subst:sg:inst:m3	pospolita	
+verticale	vertical	subst:pl:acc:m3	pospolita	
+verticale	vertical	subst:pl:nom:m3	pospolita	
+verticale	vertical	subst:pl:voc:m3	pospolita	
+verticali	vertical	subst:pl:gen:m3	pospolita	
+verticalom	vertical	subst:pl:dat:m3	pospolita	
+verticalowi	vertical	subst:sg:dat:m3	pospolita	
+verticalu	vertical	subst:sg:gen:m3	pospolita	
+verticalu	vertical	subst:sg:loc:m3	pospolita	
+verticalu	vertical	subst:sg:voc:m3	pospolita	
+vertical	vertical	subst:sg:acc:m3	pospolita	
+vertical	vertical	subst:sg:nom:m3	pospolita	
+vecie	veto	subst:sg:loc:n2	pospolita	
+vetach	veto	subst:pl:loc:n2	pospolita	
+vetami	veto	subst:pl:inst:n2	pospolita	
+veta	veto	subst:pl:acc:n2	pospolita	
+veta	veto	subst:pl:nom:n2	pospolita	
+veta	veto	subst:pl:voc:n2	pospolita	
+veta	veto	subst:sg:gen:n2	pospolita	
+vetem	veto	subst:sg:inst:n2	pospolita	
+vetom	veto	subst:pl:dat:n2	pospolita	
+veto	veto	subst:sg:acc:n2	pospolita	
+veto	veto	subst:sg:nom:n2	pospolita	
+veto	veto	subst:sg:voc:n2	pospolita	
+vetu	veto	subst:sg:dat:n2	pospolita	
+vet	veto	subst:pl:gen:n2	pospolita	
+via	via	prep:nom		
+viagrach	viagra	subst:pl:loc:f	pospolita	
+viagrami	viagra	subst:pl:inst:f	pospolita	
+viagra	viagra	subst:sg:nom:f	pospolita	
+viagrą	viagra	subst:sg:inst:f	pospolita	
+viagrę	viagra	subst:sg:acc:f	pospolita	
+viagrom	viagra	subst:pl:dat:f	pospolita	
+viagro	viagra	subst:sg:voc:f	pospolita	
+viagr	viagra	subst:pl:gen:f	pospolita	
+viagry	viagra	subst:pl:acc:f	pospolita	
+viagry	viagra	subst:pl:nom:f	pospolita	
+viagry	viagra	subst:pl:voc:f	pospolita	
+viagry	viagra	subst:sg:gen:f	pospolita	
+viagrze	viagra	subst:sg:dat:f	pospolita	
+viagrze	viagra	subst:sg:loc:f	pospolita	
+vibracie	vibrato	subst:sg:loc:n2	pospolita	muz.
+vibratach	vibrato	subst:pl:loc:n2	pospolita	muz.
+vibratami	vibrato	subst:pl:inst:n2	pospolita	muz.
+vibrata	vibrato	subst:pl:acc:n2	pospolita	muz.
+vibrata	vibrato	subst:pl:nom:n2	pospolita	muz.
+vibrata	vibrato	subst:pl:voc:n2	pospolita	muz.
+vibrata	vibrato	subst:sg:gen:n2	pospolita	muz.
+vibratem	vibrato	subst:sg:inst:n2	pospolita	muz.
+vibratom	vibrato	subst:pl:dat:n2	pospolita	muz.
+vibrato	vibrato	subst:pl:acc:n2	pospolita	muz.
+vibrato	vibrato	subst:pl:dat:n2	pospolita	muz.
+vibrato	vibrato	subst:pl:gen:n2	pospolita	muz.
+vibrato	vibrato	subst:pl:inst:n2	pospolita	muz.
+vibrato	vibrato	subst:pl:loc:n2	pospolita	muz.
+vibrato	vibrato	subst:pl:nom:n2	pospolita	muz.
+vibrato	vibrato	subst:pl:voc:n2	pospolita	muz.
+vibrato	vibrato	subst:sg:acc:n2	pospolita	muz.
+vibrato	vibrato	subst:sg:dat:n2	pospolita	muz.
+vibrato	vibrato	subst:sg:gen:n2	pospolita	muz.
+vibrato	vibrato	subst:sg:inst:n2	pospolita	muz.
+vibrato	vibrato	subst:sg:loc:n2	pospolita	muz.
+vibrato	vibrato	subst:sg:nom:n2	pospolita	muz.
+vibrato	vibrato	subst:sg:voc:n2	pospolita	muz.
+vibratu	vibrato	subst:sg:dat:n2	pospolita	muz.
+vibrat	vibrato	subst:pl:gen:n2	pospolita	muz.
+vice	vice	burk		
+video	video:a	adja		
+video	video:a	adj:pl:acc:m1.p1:pos		
+video	video:a	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+video	video:a	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+video	video:a	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+video	video:a	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+video	video:a	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+video	video:a	adj:pl:nom.voc:m1.p1:pos		
+video	video:a	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+video	video:a	adj:sg:acc:f:pos		
+video	video:a	adj:sg:acc:m1.m2:pos		
+video	video:a	adj:sg:acc:m3:pos		
+video	video:a	adj:sg:acc:n1.n2:pos		
+video	video:a	adj:sg:dat:f:pos		
+video	video:a	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+video	video:a	adj:sg:gen:f:pos		
+video	video:a	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+video	video:a	adj:sg:inst:f:pos		
+video	video:a	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+video	video:a	adj:sg:loc:f:pos		
+video	video:a	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+video	video:a	adj:sg:nom.voc:f:pos		
+video	video:a	adj:sg:nom.voc:m1.m2.m3:pos		
+video	video:a	adj:sg:nom.voc:n1.n2:pos		
+videach	video:s	subst:pl:loc:n2	pospolita	
+videami	video:s	subst:pl:inst:n2	pospolita	
+videa	video:s	subst:pl:acc:n2	pospolita	
+videa	video:s	subst:pl:nom:n2	pospolita	
+videa	video:s	subst:pl:voc:n2	pospolita	
+videa	video:s	subst:sg:gen:n2	pospolita	
+videem	video:s	subst:sg:inst:n2	pospolita	
+videom	video:s	subst:pl:dat:n2	pospolita	
+video	video:s	subst:pl:acc:n2	pospolita	
+video	video:s	subst:pl:dat:n2	pospolita	
+video	video:s	subst:pl:gen:n2	pospolita	
+video	video:s	subst:pl:inst:n2	pospolita	
+video	video:s	subst:pl:loc:n2	pospolita	
+video	video:s	subst:pl:nom:n2	pospolita	
+video	video:s	subst:pl:voc:n2	pospolita	
+video	video:s	subst:sg:acc:n2	pospolita	
+video	video:s	subst:sg:dat:n2	pospolita	
+video	video:s	subst:sg:gen:n2	pospolita	
+video	video:s	subst:sg:inst:n2	pospolita	
+video	video:s	subst:sg:loc:n2	pospolita	
+video	video:s	subst:sg:nom:n2	pospolita	
+video	video:s	subst:sg:voc:n2	pospolita	
+videów	video:s	subst:pl:gen:n2	pospolita	
+videu	video:s	subst:sg:dat:n2	pospolita	
+vihuelach	vihuela	subst:pl:loc:f	pospolita	muz.
+vihuelami	vihuela	subst:pl:inst:f	pospolita	muz.
+vihuela	vihuela	subst:sg:nom:f	pospolita	muz.
+vihuelą	vihuela	subst:sg:inst:f	pospolita	muz.
+vihuele	vihuela	subst:pl:acc:f	pospolita	muz.
+vihuele	vihuela	subst:pl:nom:f	pospolita	muz.
+vihuele	vihuela	subst:pl:voc:f	pospolita	muz.
+vihuelę	vihuela	subst:sg:acc:f	pospolita	muz.
+vihueli	vihuela	subst:pl:gen:f	pospolita	muz.|hom.
+vihueli	vihuela	subst:sg:dat:f	pospolita	muz.
+vihueli	vihuela	subst:sg:gen:f	pospolita	muz.
+vihueli	vihuela	subst:sg:loc:f	pospolita	muz.
+vihuelom	vihuela	subst:pl:dat:f	pospolita	muz.
+vihuelo	vihuela	subst:sg:voc:f	pospolita	muz.
+vihuel	vihuela	subst:pl:gen:f	pospolita	char.|muz.
+villanellach	villanella	subst:pl:loc:f	pospolita	
+villanellami	villanella	subst:pl:inst:f	pospolita	
+villanella	villanella	subst:sg:nom:f	pospolita	
+villanellą	villanella	subst:sg:inst:f	pospolita	
+villanelle	villanella	subst:pl:acc:f	pospolita	
+villanelle	villanella	subst:pl:nom:f	pospolita	
+villanelle	villanella	subst:pl:voc:f	pospolita	
+villanellę	villanella	subst:sg:acc:f	pospolita	
+villanelli	villanella	subst:pl:gen:f	pospolita	hom.
+villanelli	villanella	subst:sg:dat:f	pospolita	
+villanelli	villanella	subst:sg:gen:f	pospolita	
+villanelli	villanella	subst:sg:loc:f	pospolita	
+villanellom	villanella	subst:pl:dat:f	pospolita	
+villanello	villanella	subst:sg:voc:f	pospolita	
+villanell	villanella	subst:pl:gen:f	pospolita	char.
+villanescach	villanesca	subst:pl:loc:f	pospolita	
+villanescami	villanesca	subst:pl:inst:f	pospolita	
+villanesca	villanesca	subst:sg:nom:f	pospolita	
+villanescą	villanesca	subst:sg:inst:f	pospolita	
+villanesce	villanesca	subst:sg:dat:f	pospolita	
+villanesce	villanesca	subst:sg:loc:f	pospolita	
+villanescę	villanesca	subst:sg:acc:f	pospolita	
+villanescom	villanesca	subst:pl:dat:f	pospolita	
+villanesco	villanesca	subst:sg:voc:f	pospolita	
+villanesec	villanesca	subst:pl:gen:f	pospolita	
+villaneski	villanesca	subst:pl:acc:f	pospolita	
+villaneski	villanesca	subst:pl:nom:f	pospolita	
+villaneski	villanesca	subst:pl:voc:f	pospolita	
+villaneski	villanesca	subst:sg:gen:f	pospolita	
+vinach	vina	subst:pl:loc:f	pospolita	
+vinami	vina	subst:pl:inst:f	pospolita	
+vina	vina	subst:sg:nom:f	pospolita	
+viną	vina	subst:sg:inst:f	pospolita	
+vinę	vina	subst:sg:acc:f	pospolita	
+vinie	vina	subst:sg:dat:f	pospolita	
+vinie	vina	subst:sg:loc:f	pospolita	
+vinom	vina	subst:pl:dat:f	pospolita	
+vino	vina	subst:sg:voc:f	pospolita	
+vin	vina	subst:pl:gen:f	pospolita	
+viny	vina	subst:pl:acc:f	pospolita	
+viny	vina	subst:pl:nom:f	pospolita	
+viny	vina	subst:pl:voc:f	pospolita	
+viny	vina	subst:sg:gen:f	pospolita	
+vinaigrette	vinaigrette	subst:pl:acc:m3	pospolita	
+vinaigrette	vinaigrette	subst:pl:dat:m3	pospolita	
+vinaigrette	vinaigrette	subst:pl:gen:m3	pospolita	
+vinaigrette	vinaigrette	subst:pl:inst:m3	pospolita	
+vinaigrette	vinaigrette	subst:pl:loc:m3	pospolita	
+vinaigrette	vinaigrette	subst:pl:nom:m3	pospolita	
+vinaigrette	vinaigrette	subst:pl:voc:m3	pospolita	
+vinaigrette	vinaigrette	subst:sg:acc:m3	pospolita	
+vinaigrette	vinaigrette	subst:sg:dat:m3	pospolita	
+vinaigrette	vinaigrette	subst:sg:gen:m3	pospolita	
+vinaigrette	vinaigrette	subst:sg:inst:m3	pospolita	
+vinaigrette	vinaigrette	subst:sg:loc:m3	pospolita	
+vinaigrette	vinaigrette	subst:sg:nom:m3	pospolita	
+vinaigrette	vinaigrette	subst:sg:voc:m3	pospolita	
+vintage	vintage	subst:pl:acc:m3	pospolita	
+vintage	vintage	subst:pl:acc:n2	pospolita	
+vintage	vintage	subst:pl:dat:m3	pospolita	
+vintage	vintage	subst:pl:dat:n2	pospolita	
+vintage	vintage	subst:pl:gen:m3	pospolita	
+vintage	vintage	subst:pl:gen:n2	pospolita	
+vintage	vintage	subst:pl:inst:m3	pospolita	
+vintage	vintage	subst:pl:inst:n2	pospolita	
+vintage	vintage	subst:pl:loc:m3	pospolita	
+vintage	vintage	subst:pl:loc:n2	pospolita	
+vintage	vintage	subst:pl:nom:m3	pospolita	
+vintage	vintage	subst:pl:nom:n2	pospolita	
+vintage	vintage	subst:pl:voc:m3	pospolita	
+vintage	vintage	subst:pl:voc:n2	pospolita	
+vintage	vintage	subst:sg:acc:m3	pospolita	
+vintage	vintage	subst:sg:acc:n2	pospolita	
+vintage	vintage	subst:sg:dat:m3	pospolita	
+vintage	vintage	subst:sg:dat:n2	pospolita	
+vintage	vintage	subst:sg:gen:m3	pospolita	
+vintage	vintage	subst:sg:gen:n2	pospolita	
+vintage	vintage	subst:sg:inst:m3	pospolita	
+vintage	vintage	subst:sg:inst:n2	pospolita	
+vintage	vintage	subst:sg:loc:m3	pospolita	
+vintage	vintage	subst:sg:loc:n2	pospolita	
+vintage	vintage	subst:sg:nom:m3	pospolita	
+vintage	vintage	subst:sg:nom:n2	pospolita	
+vintage	vintage	subst:sg:voc:m3	pospolita	
+vintage	vintage	subst:sg:voc:n2	pospolita	
+violach	viola	subst:pl:loc:f	pospolita	muz.
+violami	viola	subst:pl:inst:f	pospolita	muz.
+viola	viola	subst:sg:nom:f	pospolita	muz.
+violą	viola	subst:sg:inst:f	pospolita	muz.
+viole	viola	subst:pl:acc:f	pospolita	muz.
+viole	viola	subst:pl:nom:f	pospolita	muz.
+viole	viola	subst:pl:voc:f	pospolita	muz.
+violę	viola	subst:sg:acc:f	pospolita	muz.
+violi	viola	subst:pl:gen:f	pospolita	muz.|hom.
+violi	viola	subst:sg:dat:f	pospolita	muz.
+violi	viola	subst:sg:gen:f	pospolita	muz.
+violi	viola	subst:sg:loc:f	pospolita	muz.
+violom	viola	subst:pl:dat:f	pospolita	muz.
+violo	viola	subst:sg:voc:f	pospolita	muz.
+viol	viola	subst:pl:gen:f	pospolita	char.|muz.
+vipowscy	vipowski	adj:pl:nom.voc:m1.p1:pos		
+vipowska	vipowski	adj:sg:nom.voc:f:pos		
+vipowską	vipowski	adj:sg:acc:f:pos		
+vipowską	vipowski	adj:sg:inst:f:pos		
+vipowskich	vipowski	adj:pl:acc:m1.p1:pos		
+vipowskich	vipowski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+vipowskich	vipowski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+vipowskiego	vipowski	adj:sg:acc:m1.m2:pos		
+vipowskiego	vipowski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+vipowskiej	vipowski	adj:sg:dat:f:pos		
+vipowskiej	vipowski	adj:sg:gen:f:pos		
+vipowskiej	vipowski	adj:sg:loc:f:pos		
+vipowskiemu	vipowski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+vipowskie	vipowski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+vipowskie	vipowski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+vipowskie	vipowski	adj:sg:acc:n1.n2:pos		
+vipowskie	vipowski	adj:sg:nom.voc:n1.n2:pos		
+vipowskimi	vipowski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+vipowskim	vipowski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+vipowskim	vipowski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+vipowskim	vipowski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+vipowski	vipowski	adj:sg:acc:m3:pos		
+vipowski	vipowski	adj:sg:nom.voc:m1.m2.m3:pos		
+vipowsko	vipowski	adja		
+vipowsku	vipowski	adjp		
+vipowsko	vipowsko	adv:pos		
+vipowskościach	vipowskość	subst:pl:loc:f		
+vipowskościami	vipowskość	subst:pl:inst:f		
+vipowskością	vipowskość	subst:sg:inst:f		
+vipowskościom	vipowskość	subst:pl:dat:f		
+vipowskości	vipowskość	subst:pl:acc:f		
+vipowskości	vipowskość	subst:pl:gen:f		
+vipowskości	vipowskość	subst:pl:nom:f		
+vipowskości	vipowskość	subst:pl:voc:f		
+vipowskości	vipowskość	subst:sg:dat:f		
+vipowskości	vipowskość	subst:sg:gen:f		
+vipowskości	vipowskość	subst:sg:loc:f		
+vipowskości	vipowskość	subst:sg:voc:f		
+vipowskość	vipowskość	subst:sg:acc:f		
+vipowskość	vipowskość	subst:sg:nom:f		
+virelai	virelai	subst:pl:acc:f	pospolita	
+virelai	virelai	subst:pl:dat:f	pospolita	
+virelai	virelai	subst:pl:gen:f	pospolita	
+virelai	virelai	subst:pl:inst:f	pospolita	
+virelai	virelai	subst:pl:loc:f	pospolita	
+virelai	virelai	subst:pl:nom:f	pospolita	
+virelai	virelai	subst:pl:voc:f	pospolita	
+virelai	virelai	subst:sg:acc:f	pospolita	
+virelai	virelai	subst:sg:dat:f	pospolita	
+virelai	virelai	subst:sg:gen:f	pospolita	
+virelai	virelai	subst:sg:inst:f	pospolita	
+virelai	virelai	subst:sg:loc:f	pospolita	
+virelai	virelai	subst:sg:nom:f	pospolita	
+virelai	virelai	subst:sg:voc:f	pospolita	
+virement	virement	subst:pl:acc:n2	pospolita	
+virement	virement	subst:pl:dat:n2	pospolita	
+virement	virement	subst:pl:gen:n2	pospolita	
+virement	virement	subst:pl:inst:n2	pospolita	
+virement	virement	subst:pl:loc:n2	pospolita	
+virement	virement	subst:pl:nom:n2	pospolita	
+virement	virement	subst:pl:voc:n2	pospolita	
+virement	virement	subst:sg:acc:n2	pospolita	
+virement	virement	subst:sg:dat:n2	pospolita	
+virement	virement	subst:sg:gen:n2	pospolita	
+virement	virement	subst:sg:inst:n2	pospolita	
+virement	virement	subst:sg:loc:n2	pospolita	
+virement	virement	subst:sg:nom:n2	pospolita	
+virement	virement	subst:sg:voc:n2	pospolita	
+visach	vis	subst:pl:loc:m3	pospolita	
+visami	vis	subst:pl:inst:m3	pospolita	
+visa	vis	subst:sg:gen:m3	pospolita	
+visem	vis	subst:sg:inst:m3	pospolita	
+visie	vis	subst:sg:loc:m3	pospolita	
+visie	vis	subst:sg:voc:m3	pospolita	
+visom	vis	subst:pl:dat:m3	pospolita	
+visowi	vis	subst:sg:dat:m3	pospolita	
+visów	vis	subst:pl:gen:m3	pospolita	
+visu	vis	subst:sg:gen:m3	pospolita	
+vis	vis	subst:sg:acc:m3	pospolita	
+vis	vis	subst:sg:nom:m3	pospolita	
+visy	vis	subst:pl:acc:m3	pospolita	
+visy	vis	subst:pl:nom:m3	pospolita	
+visy	vis	subst:pl:voc:m3	pospolita	
+vis-à-vis	vis-à-vis:d	adv		
+vis-à-vis	vis-à-vis:p	prep:gen		
+vis-à-vis	vis-à-vis:s	subst:pl:acc:n2	pospolita	
+vis-à-vis	vis-à-vis:s	subst:pl:dat:n2	pospolita	
+vis-à-vis	vis-à-vis:s	subst:pl:gen:n2	pospolita	
+vis-à-vis	vis-à-vis:s	subst:pl:inst:n2	pospolita	
+vis-à-vis	vis-à-vis:s	subst:pl:loc:n2	pospolita	
+vis-à-vis	vis-à-vis:s	subst:pl:nom:n2	pospolita	
+vis-à-vis	vis-à-vis:s	subst:pl:voc:n2	pospolita	
+vis-à-vis	vis-à-vis:s	subst:sg:acc:n2	pospolita	
+vis-à-vis	vis-à-vis:s	subst:sg:dat:n2	pospolita	
+vis-à-vis	vis-à-vis:s	subst:sg:gen:n2	pospolita	
+vis-à-vis	vis-à-vis:s	subst:sg:inst:n2	pospolita	
+vis-à-vis	vis-à-vis:s	subst:sg:loc:n2	pospolita	
+vis-à-vis	vis-à-vis:s	subst:sg:nom:n2	pospolita	
+vis-à-vis	vis-à-vis:s	subst:sg:voc:n2	pospolita	
+vivace	vivace	subst:pl:acc:n2	pospolita	
+vivace	vivace	subst:pl:dat:n2	pospolita	
+vivace	vivace	subst:pl:gen:n2	pospolita	
+vivace	vivace	subst:pl:inst:n2	pospolita	
+vivace	vivace	subst:pl:loc:n2	pospolita	
+vivace	vivace	subst:pl:nom:n2	pospolita	
+vivace	vivace	subst:pl:voc:n2	pospolita	
+vivace	vivace	subst:sg:acc:n2	pospolita	
+vivace	vivace	subst:sg:dat:n2	pospolita	
+vivace	vivace	subst:sg:gen:n2	pospolita	
+vivace	vivace	subst:sg:inst:n2	pospolita	
+vivace	vivace	subst:sg:loc:n2	pospolita	
+vivace	vivace	subst:sg:nom:n2	pospolita	
+vivace	vivace	subst:sg:voc:n2	pospolita	
+vivancie	vivant	subst:sg:loc:m1	pospolita	
+vivancie	vivant	subst:sg:voc:m1	pospolita	
+vivanci	vivant	subst:pl:nom:m1	pospolita	
+vivanci	vivant	subst:pl:voc:m1	pospolita	
+vivantach	vivant	subst:pl:loc:m1	pospolita	
+vivantami	vivant	subst:pl:inst:m1	pospolita	
+vivanta	vivant	subst:sg:acc:m1	pospolita	
+vivanta	vivant	subst:sg:gen:m1	pospolita	
+vivantem	vivant	subst:sg:inst:m1	pospolita	
+vivantom	vivant	subst:pl:dat:m1	pospolita	
+vivantowi	vivant	subst:sg:dat:m1	pospolita	
+vivantów	vivant	subst:pl:acc:m1	pospolita	
+vivantów	vivant	subst:pl:gen:m1	pospolita	
+vivant	vivant	subst:sg:nom:m1	pospolita	
+vivanty	vivant	depr:pl:nom:m2	pospolita	
+vivanty	vivant	depr:pl:voc:m2	pospolita	
+vivariach	vivarium	subst:pl:loc:n2	pospolita	
+vivariami	vivarium	subst:pl:inst:n2	pospolita	
+vivaria	vivarium	subst:pl:acc:n2	pospolita	
+vivaria	vivarium	subst:pl:nom:n2	pospolita	
+vivaria	vivarium	subst:pl:voc:n2	pospolita	
+vivariom	vivarium	subst:pl:dat:n2	pospolita	
+vivariów	vivarium	subst:pl:gen:n2	pospolita	
+vivarium	vivarium	subst:sg:acc:n2	pospolita	
+vivarium	vivarium	subst:sg:dat:n2	pospolita	
+vivarium	vivarium	subst:sg:gen:n2	pospolita	
+vivarium	vivarium	subst:sg:inst:n2	pospolita	
+vivarium	vivarium	subst:sg:loc:n2	pospolita	
+vivarium	vivarium	subst:sg:nom:n2	pospolita	
+vivarium	vivarium	subst:sg:voc:n2	pospolita	
+vivat	vivat	interj		
+viveurach	viveur	subst:pl:loc:m1	pospolita	
+viveurami	viveur	subst:pl:inst:m1	pospolita	
+viveura	viveur	subst:sg:acc:m1	pospolita	
+viveura	viveur	subst:sg:gen:m1	pospolita	
+viveurem	viveur	subst:sg:inst:m1	pospolita	
+viveurom	viveur	subst:pl:dat:m1	pospolita	
+viveurowie	viveur	subst:pl:nom:m1	pospolita	
+viveurowie	viveur	subst:pl:voc:m1	pospolita	
+viveurowi	viveur	subst:sg:dat:m1	pospolita	
+viveurów	viveur	subst:pl:acc:m1	pospolita	
+viveurów	viveur	subst:pl:gen:m1	pospolita	
+viveur	viveur	subst:sg:nom:m1	pospolita	
+viveury	viveur	depr:pl:nom:m2	pospolita	
+viveury	viveur	depr:pl:voc:m2	pospolita	
+viveurze	viveur	subst:sg:loc:m1	pospolita	
+viveurze	viveur	subst:sg:voc:m1	pospolita	
+viveurzy	viveur	subst:pl:nom:m1	pospolita	
+viveurzy	viveur	subst:pl:voc:m1	pospolita	
+vlepce	vlepka	subst:sg:dat:f	pospolita	
+vlepce	vlepka	subst:sg:loc:f	pospolita	
+vlepek	vlepka	subst:pl:gen:f	pospolita	
+vlepkach	vlepka	subst:pl:loc:f	pospolita	
+vlepkami	vlepka	subst:pl:inst:f	pospolita	
+vlepka	vlepka	subst:sg:nom:f	pospolita	
+vlepką	vlepka	subst:sg:inst:f	pospolita	
+vlepkę	vlepka	subst:sg:acc:f	pospolita	
+vlepki	vlepka	subst:pl:acc:f	pospolita	
+vlepki	vlepka	subst:pl:nom:f	pospolita	
+vlepki	vlepka	subst:pl:voc:f	pospolita	
+vlepki	vlepka	subst:sg:gen:f	pospolita	
+vlepkom	vlepka	subst:pl:dat:f	pospolita	
+vlepko	vlepka	subst:sg:voc:f	pospolita	
+vocativach	vocativus	subst:pl:loc:m3	pospolita	
+vocativami	vocativus	subst:pl:inst:m3	pospolita	
+vocativem	vocativus	subst:sg:inst:m3	pospolita	
+vocativie	vocativus	subst:sg:loc:m3	pospolita	
+vocativie	vocativus	subst:sg:voc:m3	pospolita	
+vocativom	vocativus	subst:pl:dat:m3	pospolita	
+vocativowi	vocativus	subst:sg:dat:m3	pospolita	
+vocativów	vocativus	subst:pl:gen:m3	pospolita	
+vocativus	vocativus	subst:sg:acc:m3	pospolita	
+vocativus	vocativus	subst:sg:nom:m3	pospolita	
+vocativu	vocativus	subst:sg:gen:m3	pospolita	
+vocativy	vocativus	subst:pl:acc:m3	pospolita	
+vocativy	vocativus	subst:pl:nom:m3	pospolita	
+vocativy	vocativus	subst:pl:voc:m3	pospolita	
+volapükach	volapük	subst:pl:loc:m3	pospolita	
+volapükami	volapük	subst:pl:inst:m3	pospolita	
+volapükiem	volapük	subst:sg:inst:m3	pospolita	
+volapüki	volapük	subst:pl:acc:m3	pospolita	
+volapüki	volapük	subst:pl:nom:m3	pospolita	
+volapüki	volapük	subst:pl:voc:m3	pospolita	
+volapükom	volapük	subst:pl:dat:m3	pospolita	
+volapükowi	volapük	subst:sg:dat:m3	pospolita	
+volapüków	volapük	subst:pl:gen:m3	pospolita	
+volapüku	volapük	subst:sg:gen:m3	pospolita	
+volapüku	volapük	subst:sg:loc:m3	pospolita	
+volapüku	volapük	subst:sg:voc:m3	pospolita	
+volapük	volapük	subst:sg:acc:m3	pospolita	
+volapük	volapük	subst:sg:nom:m3	pospolita	
+vol-au-vent	vol-au-vent	subst:pl:acc:n2	pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:pl:dat:n2	pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:pl:gen:n2	pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:pl:inst:n2	pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:pl:loc:n2	pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:pl:nom:n2	pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:pl:voc:n2	pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:sg:acc:n2	pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:sg:dat:n2	pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:sg:gen:n2	pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:sg:inst:n2	pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:sg:loc:n2	pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:sg:nom:n2	pospolita	kulin.
+vol-au-vent	vol-au-vent	subst:sg:voc:n2	pospolita	kulin.
+volksdeutschach	volksdeutsch	subst:pl:loc:m1	pospolita	
+volksdeutschami	volksdeutsch	subst:pl:inst:m1	pospolita	
+volksdeutscha	volksdeutsch	subst:sg:acc:m1	pospolita	
+volksdeutscha	volksdeutsch	subst:sg:gen:m1	pospolita	
+volksdeutschem	volksdeutsch	subst:sg:inst:m1	pospolita	
+volksdeutsche	volksdeutsch	depr:pl:nom:m2	pospolita	
+volksdeutsche	volksdeutsch	depr:pl:voc:m2	pospolita	
+volksdeutsche	volksdeutsch	subst:pl:nom:m1	pospolita	
+volksdeutsche	volksdeutsch	subst:pl:voc:m1	pospolita	
+volksdeutschom	volksdeutsch	subst:pl:dat:m1	pospolita	
+volksdeutschowi	volksdeutsch	subst:sg:dat:m1	pospolita	
+volksdeutschów	volksdeutsch	subst:pl:acc:m1	pospolita	
+volksdeutschów	volksdeutsch	subst:pl:gen:m1	pospolita	
+volksdeutschu	volksdeutsch	subst:sg:loc:m1	pospolita	
+volksdeutschu	volksdeutsch	subst:sg:voc:m1	pospolita	
+volksdeutsch	volksdeutsch	subst:sg:nom:m1	pospolita	
+volksdeutschy	volksdeutsch	subst:pl:acc:m1	pospolita	
+volksdeutschy	volksdeutsch	subst:pl:gen:m1	pospolita	
+volkslistach	volkslista	subst:pl:loc:f	pospolita	
+volkslistami	volkslista	subst:pl:inst:f	pospolita	
+volkslista	volkslista	subst:sg:nom:f	pospolita	
+volkslistą	volkslista	subst:sg:inst:f	pospolita	
+volkslistę	volkslista	subst:sg:acc:f	pospolita	
+volkslistom	volkslista	subst:pl:dat:f	pospolita	
+volkslisto	volkslista	subst:sg:voc:f	pospolita	
+volkslist	volkslista	subst:pl:gen:f	pospolita	
+volkslisty	volkslista	subst:pl:acc:f	pospolita	
+volkslisty	volkslista	subst:pl:nom:f	pospolita	
+volkslisty	volkslista	subst:pl:voc:f	pospolita	
+volkslisty	volkslista	subst:sg:gen:f	pospolita	
+volksliście	volkslista	subst:sg:dat:f	pospolita	
+volksliście	volkslista	subst:sg:loc:f	pospolita	
+volkswagenach	volkswagen	subst:pl:loc:m2	pospolita	
+volkswagenami	volkswagen	subst:pl:inst:m2	pospolita	
+volkswagena	volkswagen	subst:sg:acc:m2	pospolita	
+volkswagena	volkswagen	subst:sg:gen:m2	pospolita	
+volkswagenem	volkswagen	subst:sg:inst:m2	pospolita	
+volkswagenie	volkswagen	subst:sg:loc:m2	pospolita	
+volkswagenie	volkswagen	subst:sg:voc:m2	pospolita	
+volkswagenom	volkswagen	subst:pl:dat:m2	pospolita	
+volkswagenowi	volkswagen	subst:sg:dat:m2	pospolita	
+volkswagenów	volkswagen	subst:pl:gen:m2	pospolita	
+volkswagen	volkswagen	subst:sg:nom:m2	pospolita	
+volkswageny	volkswagen	subst:pl:acc:m2	pospolita	
+volkswageny	volkswagen	subst:pl:nom:m2	pospolita	
+volkswageny	volkswagen	subst:pl:voc:m2	pospolita	
+volleyach	volley	subst:pl:loc:m3	pospolita	
+volleyami	volley	subst:pl:inst:m3	pospolita	
+volleya	volley	subst:sg:gen:m3	pospolita	
+volleyem	volley	subst:sg:inst:m3	pospolita	
+volleye	volley	subst:pl:acc:m3	pospolita	
+volleye	volley	subst:pl:nom:m3	pospolita	
+volleye	volley	subst:pl:voc:m3	pospolita	
+volleyom	volley	subst:pl:dat:m3	pospolita	
+volleyowi	volley	subst:sg:dat:m3	pospolita	
+volleyów	volley	subst:pl:gen:m3	pospolita	
+volleyu	volley	subst:sg:loc:m3	pospolita	
+volleyu	volley	subst:sg:voc:m3	pospolita	
+volley	volley	subst:sg:acc:m3	pospolita	
+volley	volley	subst:sg:nom:m3	pospolita	
+volcie	volt	subst:sg:loc:m3	pospolita	
+volcie	volt	subst:sg:voc:m3	pospolita	
+voltach	volt	subst:pl:loc:m3	pospolita	
+voltami	volt	subst:pl:inst:m3	pospolita	
+volta	volt	subst:sg:gen:m3	pospolita	
+voltem	volt	subst:sg:inst:m3	pospolita	
+voltom	volt	subst:pl:dat:m3	pospolita	
+voltowi	volt	subst:sg:dat:m3	pospolita	
+voltów	volt	subst:pl:gen:m3	pospolita	
+volt	volt	subst:sg:acc:m3	pospolita	
+volt	volt	subst:sg:nom:m3	pospolita	
+volty	volt	subst:pl:acc:m3	pospolita	
+volty	volt	subst:pl:nom:m3	pospolita	
+volty	volt	subst:pl:voc:m3	pospolita	
+volcie	volta	subst:sg:dat:f	pospolita	
+volcie	volta	subst:sg:loc:f	pospolita	
+voltach	volta	subst:pl:loc:f	pospolita	
+voltami	volta	subst:pl:inst:f	pospolita	
+volta	volta	subst:sg:nom:f	pospolita	
+voltą	volta	subst:sg:inst:f	pospolita	
+voltę	volta	subst:sg:acc:f	pospolita	
+voltom	volta	subst:pl:dat:f	pospolita	
+volto	volta	subst:sg:voc:f	pospolita	
+volt	volta	subst:pl:gen:f	pospolita	
+volty	volta	subst:pl:acc:f	pospolita	
+volty	volta	subst:pl:nom:f	pospolita	
+volty	volta	subst:pl:voc:f	pospolita	
+volty	volta	subst:sg:gen:f	pospolita	
+volumenach	volumen	subst:pl:loc:m3	pospolita	
+volumenami	volumen	subst:pl:inst:m3	pospolita	
+volumenem	volumen	subst:sg:inst:m3	pospolita	
+volumenie	volumen	subst:sg:loc:m3	pospolita	
+volumenie	volumen	subst:sg:voc:m3	pospolita	
+volumenom	volumen	subst:pl:dat:m3	pospolita	
+volumenowi	volumen	subst:sg:dat:m3	pospolita	
+volumenów	volumen	subst:pl:gen:m3	pospolita	
+volumenu	volumen	subst:sg:gen:m3	pospolita	
+volumen	volumen	subst:sg:acc:m3	pospolita	
+volumen	volumen	subst:sg:nom:m3	pospolita	
+volumeny	volumen	subst:pl:acc:m3	pospolita	
+volumeny	volumen	subst:pl:nom:m3	pospolita	
+volumeny	volumen	subst:pl:voc:m3	pospolita	
+volvach	volvo:s1	subst:pl:loc:n2	pospolita	
+volvami	volvo:s1	subst:pl:inst:n2	pospolita	
+volva	volvo:s1	subst:pl:acc:n2	pospolita	
+volva	volvo:s1	subst:pl:nom:n2	pospolita	
+volva	volvo:s1	subst:pl:voc:n2	pospolita	
+volva	volvo:s1	subst:sg:gen:n2	pospolita	
+volvem	volvo:s1	subst:sg:inst:n2	pospolita	
+volvie	volvo:s1	subst:sg:loc:n2	pospolita	
+volvom	volvo:s1	subst:pl:dat:n2	pospolita	
+volvo	volvo:s1	subst:sg:acc:n2	pospolita	
+volvo	volvo:s1	subst:sg:nom:n2	pospolita	
+volvo	volvo:s1	subst:sg:voc:n2	pospolita	
+volvu	volvo:s1	subst:sg:dat:n2	pospolita	
+volv	volvo:s1	subst:pl:gen:n2	pospolita	
+volvo	volvo:s2	subst:pl:acc:n2	pospolita	
+volvo	volvo:s2	subst:pl:dat:n2	pospolita	
+volvo	volvo:s2	subst:pl:gen:n2	pospolita	
+volvo	volvo:s2	subst:pl:inst:n2	pospolita	
+volvo	volvo:s2	subst:pl:loc:n2	pospolita	
+volvo	volvo:s2	subst:pl:nom:n2	pospolita	
+volvo	volvo:s2	subst:pl:voc:n2	pospolita	
+volvo	volvo:s2	subst:sg:acc:n2	pospolita	
+volvo	volvo:s2	subst:sg:dat:n2	pospolita	
+volvo	volvo:s2	subst:sg:gen:n2	pospolita	
+volvo	volvo:s2	subst:sg:inst:n2	pospolita	
+volvo	volvo:s2	subst:sg:loc:n2	pospolita	
+volvo	volvo:s2	subst:sg:nom:n2	pospolita	
+volvo	volvo:s2	subst:sg:voc:n2	pospolita	
+vomitoriach	vomitorium	subst:pl:loc:n2	pospolita	
+vomitoriami	vomitorium	subst:pl:inst:n2	pospolita	
+vomitoria	vomitorium	subst:pl:acc:n2	pospolita	
+vomitoria	vomitorium	subst:pl:nom:n2	pospolita	
+vomitoria	vomitorium	subst:pl:voc:n2	pospolita	
+vomitoriom	vomitorium	subst:pl:dat:n2	pospolita	
+vomitoriów	vomitorium	subst:pl:gen:n2	pospolita	
+vomitorium	vomitorium	subst:sg:acc:n2	pospolita	
+vomitorium	vomitorium	subst:sg:dat:n2	pospolita	
+vomitorium	vomitorium	subst:sg:gen:n2	pospolita	
+vomitorium	vomitorium	subst:sg:inst:n2	pospolita	
+vomitorium	vomitorium	subst:sg:loc:n2	pospolita	
+vomitorium	vomitorium	subst:sg:nom:n2	pospolita	
+vomitorium	vomitorium	subst:sg:voc:n2	pospolita	
+von	von	burk		
+voodoo	voodoo	subst:pl:acc:m3	pospolita	
+voodoo	voodoo	subst:pl:acc:n2	pospolita	
+voodoo	voodoo	subst:pl:dat:m3	pospolita	
+voodoo	voodoo	subst:pl:dat:n2	pospolita	
+voodoo	voodoo	subst:pl:gen:m3	pospolita	
+voodoo	voodoo	subst:pl:gen:n2	pospolita	
+voodoo	voodoo	subst:pl:inst:m3	pospolita	
+voodoo	voodoo	subst:pl:inst:n2	pospolita	
+voodoo	voodoo	subst:pl:loc:m3	pospolita	
+voodoo	voodoo	subst:pl:loc:n2	pospolita	
+voodoo	voodoo	subst:pl:nom:m3	pospolita	
+voodoo	voodoo	subst:pl:nom:n2	pospolita	
+voodoo	voodoo	subst:pl:voc:m3	pospolita	
+voodoo	voodoo	subst:pl:voc:n2	pospolita	
+voodoo	voodoo	subst:sg:acc:m3	pospolita	
+voodoo	voodoo	subst:sg:acc:n2	pospolita	
+voodoo	voodoo	subst:sg:dat:m3	pospolita	
+voodoo	voodoo	subst:sg:dat:n2	pospolita	
+voodoo	voodoo	subst:sg:gen:m3	pospolita	
+voodoo	voodoo	subst:sg:gen:n2	pospolita	
+voodoo	voodoo	subst:sg:inst:m3	pospolita	
+voodoo	voodoo	subst:sg:inst:n2	pospolita	
+voodoo	voodoo	subst:sg:loc:m3	pospolita	
+voodoo	voodoo	subst:sg:loc:n2	pospolita	
+voodoo	voodoo	subst:sg:nom:m3	pospolita	
+voodoo	voodoo	subst:sg:nom:n2	pospolita	
+voodoo	voodoo	subst:sg:voc:m3	pospolita	
+voodoo	voodoo	subst:sg:voc:n2	pospolita	
+votach	votum	subst:pl:loc:n2	pospolita	
+votami	votum	subst:pl:inst:n2	pospolita	
+vota	votum	subst:pl:acc:n2	pospolita	
+vota	votum	subst:pl:nom:n2	pospolita	
+vota	votum	subst:pl:voc:n2	pospolita	
+votom	votum	subst:pl:dat:n2	pospolita	
+votów	votum	subst:pl:gen:n2	pospolita	
+votum	votum	subst:sg:acc:n2	pospolita	
+votum	votum	subst:sg:dat:n2	pospolita	
+votum	votum	subst:sg:gen:n2	pospolita	
+votum	votum	subst:sg:inst:n2	pospolita	
+votum	votum	subst:sg:loc:n2	pospolita	
+votum	votum	subst:sg:nom:n2	pospolita	
+votum	votum	subst:sg:voc:n2	pospolita	
+voucherach	voucher	subst:pl:loc:m3	pospolita	
+voucherami	voucher	subst:pl:inst:m3	pospolita	
+vouchera	voucher	subst:sg:gen:m3	pospolita	
+voucherem	voucher	subst:sg:inst:m3	pospolita	
+voucherom	voucher	subst:pl:dat:m3	pospolita	
+voucherowi	voucher	subst:sg:dat:m3	pospolita	
+voucherów	voucher	subst:pl:gen:m3	pospolita	
+voucher	voucher	subst:sg:acc:m3	pospolita	
+voucher	voucher	subst:sg:nom:m3	pospolita	
+vouchery	voucher	subst:pl:acc:m3	pospolita	
+vouchery	voucher	subst:pl:nom:m3	pospolita	
+vouchery	voucher	subst:pl:voc:m3	pospolita	
+voucherze	voucher	subst:sg:loc:m3	pospolita	
+voucherze	voucher	subst:sg:voc:m3	pospolita	
+vouvray	vouvray	subst:pl:acc:n2	pospolita	
+vouvray	vouvray	subst:pl:dat:n2	pospolita	
+vouvray	vouvray	subst:pl:gen:n2	pospolita	
+vouvray	vouvray	subst:pl:inst:n2	pospolita	
+vouvray	vouvray	subst:pl:loc:n2	pospolita	
+vouvray	vouvray	subst:pl:nom:n2	pospolita	
+vouvray	vouvray	subst:pl:voc:n2	pospolita	
+vouvray	vouvray	subst:sg:acc:n2	pospolita	
+vouvray	vouvray	subst:sg:dat:n2	pospolita	
+vouvray	vouvray	subst:sg:gen:n2	pospolita	
+vouvray	vouvray	subst:sg:inst:n2	pospolita	
+vouvray	vouvray	subst:sg:loc:n2	pospolita	
+vouvray	vouvray	subst:sg:nom:n2	pospolita	
+vouvray	vouvray	subst:sg:voc:n2	pospolita	
+vulgo	vulgo	qub		daw.
+vw	vw	subst:pl:acc:m3	pospolita	
+vw	vw	subst:pl:acc:n2	pospolita	
+vw	vw	subst:pl:dat:m3	pospolita	
+vw	vw	subst:pl:dat:n2	pospolita	
+vw	vw	subst:pl:gen:m3	pospolita	
+vw	vw	subst:pl:gen:n2	pospolita	
+vw	vw	subst:pl:inst:m3	pospolita	
+vw	vw	subst:pl:inst:n2	pospolita	
+vw	vw	subst:pl:loc:m3	pospolita	
+vw	vw	subst:pl:loc:n2	pospolita	
+vw	vw	subst:pl:nom:m3	pospolita	
+vw	vw	subst:pl:nom:n2	pospolita	
+vw	vw	subst:pl:voc:m3	pospolita	
+vw	vw	subst:pl:voc:n2	pospolita	
+vw	vw	subst:sg:acc:m3	pospolita	
+vw	vw	subst:sg:acc:n2	pospolita	
+vw	vw	subst:sg:dat:m3	pospolita	
+vw	vw	subst:sg:dat:n2	pospolita	
+vw	vw	subst:sg:gen:m3	pospolita	
+vw	vw	subst:sg:gen:n2	pospolita	
+vw	vw	subst:sg:inst:m3	pospolita	
+vw	vw	subst:sg:inst:n2	pospolita	
+vw	vw	subst:sg:loc:m3	pospolita	
+vw	vw	subst:sg:loc:n2	pospolita	
+vw	vw	subst:sg:nom:m3	pospolita	
+vw	vw	subst:sg:nom:n2	pospolita	
+vw	vw	subst:sg:voc:m3	pospolita	
+vw	vw	subst:sg:voc:n2	pospolita	
