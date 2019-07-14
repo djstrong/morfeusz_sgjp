@@ -4632,28 +4632,28 @@ fali	fala	subst:sg:dat.loc:f	nazwa pospolita
 fali	fala	subst:sg:gen:f	nazwa pospolita	
 falo	fala	subst:sg:voc:f	nazwa pospolita	
 falom	fala	subst:pl:dat:f	nazwa pospolita	
+falafelach	falafel	subst:pl:loc:m2	nazwa pospolita	kulin.|pot.
 falafelach	falafel	subst:pl:loc:m3	nazwa pospolita	kulin.
+falafela	falafel	subst:sg:gen.acc:m2	nazwa pospolita	kulin.|pot.
 falafela	falafel	subst:sg:gen:m3	nazwa pospolita	kulin.
+falafelami	falafel	subst:pl:inst:m2	nazwa pospolita	kulin.|pot.
 falafelami	falafel	subst:pl:inst:m3	nazwa pospolita	kulin.
+falafele	falafel	subst:pl:nom.acc.voc:m2	nazwa pospolita	kulin.|pot.
 falafele	falafel	subst:pl:nom.acc.voc:m3	nazwa pospolita	kulin.
+falafelem	falafel	subst:sg:inst:m2	nazwa pospolita	kulin.|pot.
 falafelem	falafel	subst:sg:inst:m3	nazwa pospolita	kulin.
 falafel	falafel	subst:sg:nom.acc:m3	nazwa pospolita	kulin.
 falafel	falafel	subst:sg:nom:m2	nazwa pospolita	kulin.|pot.
 falafeli	falafel	subst:pl:gen:m3	nazwa pospolita	kulin.
+falafelom	falafel	subst:pl:dat:m2	nazwa pospolita	kulin.|pot.
 falafelom	falafel	subst:pl:dat:m3	nazwa pospolita	kulin.
+falafelowi	falafel	subst:sg:dat:m2	nazwa pospolita	kulin.|pot.
 falafelowi	falafel	subst:sg:dat:m3	nazwa pospolita	kulin.
+falafelów	falafel	subst:pl:gen:m2	nazwa pospolita	kulin.|pot.
+falafelu	falafel	subst:sg:loc:m2	nazwa pospolita	kulin.|pot.
 falafelu	falafel	subst:sg:loc:m3	nazwa pospolita	kulin.
+falafelu	falafel	subst:sg:voc:m2	nazwa pospolita	kulin.|pot.
 falafelu	falafel	subst:sg:voc:m3	nazwa pospolita	kulin.
-falaflach	falafel	subst:pl:loc:m2	nazwa pospolita	kulin.|pot.
-falafla	falafel	subst:sg:gen.acc:m2	nazwa pospolita	kulin.|pot.
-falaflami	falafel	subst:pl:inst:m2	nazwa pospolita	kulin.|pot.
-falafle	falafel	subst:pl:nom.acc.voc:m2	nazwa pospolita	kulin.|pot.
-falaflem	falafel	subst:sg:inst:m2	nazwa pospolita	kulin.|pot.
-falaflom	falafel	subst:pl:dat:m2	nazwa pospolita	kulin.|pot.
-falaflowi	falafel	subst:sg:dat:m2	nazwa pospolita	kulin.|pot.
-falaflów	falafel	subst:pl:gen:m2	nazwa pospolita	kulin.|pot.
-falaflu	falafel	subst:sg:loc:m2	nazwa pospolita	kulin.|pot.
-falaflu	falafel	subst:sg:voc:m2	nazwa pospolita	kulin.|pot.
 falandyszach	falandysz	subst:pl:loc:m3	nazwa pospolita	daw.
 falandyszami	falandysz	subst:pl:inst:m3	nazwa pospolita	daw.
 falandysze	falandysz	subst:pl:nom.acc.voc:m3	nazwa pospolita	daw.
