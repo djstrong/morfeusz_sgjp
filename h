@@ -920,7 +920,7 @@ hafciarnie	hafciarnia	subst:pl:acc:f	pospolita	daw.
 hafciarnie	hafciarnia	subst:pl:nom:f	pospolita	daw.
 hafciarnie	hafciarnia	subst:pl:voc:f	pospolita	daw.
 hafciarnię	hafciarnia	subst:sg:acc:f	pospolita	daw.
-hafciarni	hafciarnia	subst:pl:gen:f	pospolita	daw.|hom.
+hafciarni	hafciarnia	subst:pl:gen:f	pospolita	hom.|daw.
 hafciarni	hafciarnia	subst:sg:dat:f	pospolita	daw.
 hafciarni	hafciarnia	subst:sg:gen:f	pospolita	daw.
 hafciarni	hafciarnia	subst:sg:loc:f	pospolita	daw.
@@ -1123,7 +1123,7 @@ haftarnie	haftarnia	subst:pl:acc:f	pospolita	daw.
 haftarnie	haftarnia	subst:pl:nom:f	pospolita	daw.
 haftarnie	haftarnia	subst:pl:voc:f	pospolita	daw.
 haftarnię	haftarnia	subst:sg:acc:f	pospolita	daw.
-haftarni	haftarnia	subst:pl:gen:f	pospolita	daw.|hom.
+haftarni	haftarnia	subst:pl:gen:f	pospolita	hom.|daw.
 haftarni	haftarnia	subst:sg:dat:f	pospolita	daw.
 haftarni	haftarnia	subst:sg:gen:f	pospolita	daw.
 haftarni	haftarnia	subst:sg:loc:f	pospolita	daw.
@@ -7365,7 +7365,7 @@ hanzeatyckości	hanzeatyckość	subst:sg:voc:f
 hanzeatyckościom	hanzeatyckość	subst:pl:dat:f		
 hanzeatyckość	hanzeatyckość	subst:sg:acc:f		
 hanzeatyckość	hanzeatyckość	subst:sg:nom:f		
-hań	hań	adv		daw. dziś gwar.
+hań	hań	adv		daw._dziś_gwar.
 hańbach	hańba	subst:pl:loc:f	pospolita	
 hańba	hańba	subst:sg:nom:f	pospolita	
 hańbami	hańba	subst:pl:inst:f	pospolita	
@@ -9190,34 +9190,34 @@ hardoszu	hardosz	subst:sg:loc:m1	pospolita	daw.
 hardoszu	hardosz	subst:sg:voc:m1	pospolita	daw.
 hardoszy	hardosz	subst:pl:acc:m1	pospolita	daw.
 hardoszy	hardosz	subst:pl:gen:m1	pospolita	daw.
-hardościach	hardość:s1	subst:pl:loc:f	pospolita	
-hardościami	hardość:s1	subst:pl:inst:f	pospolita	
-hardością	hardość:s1	subst:sg:inst:f	pospolita	
-hardości	hardość:s1	subst:pl:acc:f	pospolita	
-hardości	hardość:s1	subst:pl:gen:f	pospolita	
-hardości	hardość:s1	subst:pl:nom:f	pospolita	
-hardości	hardość:s1	subst:pl:voc:f	pospolita	
-hardości	hardość:s1	subst:sg:dat:f	pospolita	
-hardości	hardość:s1	subst:sg:gen:f	pospolita	
-hardości	hardość:s1	subst:sg:loc:f	pospolita	
-hardości	hardość:s1	subst:sg:voc:f	pospolita	
-hardościom	hardość:s1	subst:pl:dat:f	pospolita	
-hardość	hardość:s1	subst:sg:acc:f	pospolita	
-hardość	hardość:s1	subst:sg:nom:f	pospolita	
-hardościach	hardość:s2	subst:pl:loc:f		
-hardościami	hardość:s2	subst:pl:inst:f		
-hardością	hardość:s2	subst:sg:inst:f		
-hardości	hardość:s2	subst:pl:acc:f		
-hardości	hardość:s2	subst:pl:gen:f		
-hardości	hardość:s2	subst:pl:nom:f		
-hardości	hardość:s2	subst:pl:voc:f		
-hardości	hardość:s2	subst:sg:dat:f		
-hardości	hardość:s2	subst:sg:gen:f		
-hardości	hardość:s2	subst:sg:loc:f		
-hardości	hardość:s2	subst:sg:voc:f		
-hardościom	hardość:s2	subst:pl:dat:f		
-hardość	hardość:s2	subst:sg:acc:f		
-hardość	hardość:s2	subst:sg:nom:f		
+hardościach	hardość:s	subst:pl:loc:f	pospolita	
+hardościami	hardość:s	subst:pl:inst:f	pospolita	
+hardością	hardość:s	subst:sg:inst:f	pospolita	
+hardości	hardość:s	subst:pl:acc:f	pospolita	
+hardości	hardość:s	subst:pl:gen:f	pospolita	
+hardości	hardość:s	subst:pl:nom:f	pospolita	
+hardości	hardość:s	subst:pl:voc:f	pospolita	
+hardości	hardość:s	subst:sg:dat:f	pospolita	
+hardości	hardość:s	subst:sg:gen:f	pospolita	
+hardości	hardość:s	subst:sg:loc:f	pospolita	
+hardości	hardość:s	subst:sg:voc:f	pospolita	
+hardościom	hardość:s	subst:pl:dat:f	pospolita	
+hardość	hardość:s	subst:sg:acc:f	pospolita	
+hardość	hardość:s	subst:sg:nom:f	pospolita	
+hardościach	hardość:s	subst:pl:loc:f		
+hardościami	hardość:s	subst:pl:inst:f		
+hardością	hardość:s	subst:sg:inst:f		
+hardości	hardość:s	subst:pl:acc:f		
+hardości	hardość:s	subst:pl:gen:f		
+hardości	hardość:s	subst:pl:nom:f		
+hardości	hardość:s	subst:pl:voc:f		
+hardości	hardość:s	subst:sg:dat:f		
+hardości	hardość:s	subst:sg:gen:f		
+hardości	hardość:s	subst:sg:loc:f		
+hardości	hardość:s	subst:sg:voc:f		
+hardościom	hardość:s	subst:pl:dat:f		
+hardość	hardość:s	subst:sg:acc:f		
+hardość	hardość:s	subst:sg:nom:f		
 hardrockach	hardrock	subst:pl:loc:m2	pospolita	pot.
 hardrockach	hardrock	subst:pl:loc:m3	pospolita	
 hardrocka	hardrock	subst:sg:acc:m2	pospolita	pot.
@@ -11500,34 +11500,34 @@ hartowników	hartownik	subst:pl:acc:m1	pospolita
 hartowników	hartownik	subst:pl:gen:m1	pospolita	
 hartowniku	hartownik	subst:sg:loc:m1	pospolita	
 hartowniku	hartownik	subst:sg:voc:m1	pospolita	
-hartownościach	hartowność:s1	subst:pl:loc:f	pospolita	
-hartownościami	hartowność:s1	subst:pl:inst:f	pospolita	
-hartownością	hartowność:s1	subst:sg:inst:f	pospolita	
-hartowności	hartowność:s1	subst:pl:acc:f	pospolita	
-hartowności	hartowność:s1	subst:pl:gen:f	pospolita	
-hartowności	hartowność:s1	subst:pl:nom:f	pospolita	
-hartowności	hartowność:s1	subst:pl:voc:f	pospolita	
-hartowności	hartowność:s1	subst:sg:dat:f	pospolita	
-hartowności	hartowność:s1	subst:sg:gen:f	pospolita	
-hartowności	hartowność:s1	subst:sg:loc:f	pospolita	
-hartowności	hartowność:s1	subst:sg:voc:f	pospolita	
-hartownościom	hartowność:s1	subst:pl:dat:f	pospolita	
-hartowność	hartowność:s1	subst:sg:acc:f	pospolita	
-hartowność	hartowność:s1	subst:sg:nom:f	pospolita	
-hartownościach	hartowność:s2	subst:pl:loc:f		
-hartownościami	hartowność:s2	subst:pl:inst:f		
-hartownością	hartowność:s2	subst:sg:inst:f		
-hartowności	hartowność:s2	subst:pl:acc:f		
-hartowności	hartowność:s2	subst:pl:gen:f		
-hartowności	hartowność:s2	subst:pl:nom:f		
-hartowności	hartowność:s2	subst:pl:voc:f		
-hartowności	hartowność:s2	subst:sg:dat:f		
-hartowności	hartowność:s2	subst:sg:gen:f		
-hartowności	hartowność:s2	subst:sg:loc:f		
-hartowności	hartowność:s2	subst:sg:voc:f		
-hartownościom	hartowność:s2	subst:pl:dat:f		
-hartowność	hartowność:s2	subst:sg:acc:f		
-hartowność	hartowność:s2	subst:sg:nom:f		
+hartownościach	hartowność:s	subst:pl:loc:f	pospolita	
+hartownościami	hartowność:s	subst:pl:inst:f	pospolita	
+hartownością	hartowność:s	subst:sg:inst:f	pospolita	
+hartowności	hartowność:s	subst:pl:acc:f	pospolita	
+hartowności	hartowność:s	subst:pl:gen:f	pospolita	
+hartowności	hartowność:s	subst:pl:nom:f	pospolita	
+hartowności	hartowność:s	subst:pl:voc:f	pospolita	
+hartowności	hartowność:s	subst:sg:dat:f	pospolita	
+hartowności	hartowność:s	subst:sg:gen:f	pospolita	
+hartowności	hartowność:s	subst:sg:loc:f	pospolita	
+hartowności	hartowność:s	subst:sg:voc:f	pospolita	
+hartownościom	hartowność:s	subst:pl:dat:f	pospolita	
+hartowność	hartowność:s	subst:sg:acc:f	pospolita	
+hartowność	hartowność:s	subst:sg:nom:f	pospolita	
+hartownościach	hartowność:s	subst:pl:loc:f		
+hartownościami	hartowność:s	subst:pl:inst:f		
+hartownością	hartowność:s	subst:sg:inst:f		
+hartowności	hartowność:s	subst:pl:acc:f		
+hartowności	hartowność:s	subst:pl:gen:f		
+hartowności	hartowność:s	subst:pl:nom:f		
+hartowności	hartowność:s	subst:pl:voc:f		
+hartowności	hartowność:s	subst:sg:dat:f		
+hartowności	hartowność:s	subst:sg:gen:f		
+hartowności	hartowność:s	subst:sg:loc:f		
+hartowności	hartowność:s	subst:sg:voc:f		
+hartownościom	hartowność:s	subst:pl:dat:f		
+hartowność	hartowność:s	subst:sg:acc:f		
+hartowność	hartowność:s	subst:sg:nom:f		
 hartowna	hartowny	adj:sg:nom.voc:f:pos		
 hartowną	hartowny	adj:sg:acc:f:pos		
 hartowną	hartowny	adj:sg:inst:f:pos		
@@ -12061,20 +12061,20 @@ haszu	hasz	subst:sg:gen:m3	pospolita
 haszu	hasz	subst:sg:loc:m3	pospolita	
 haszu	hasz	subst:sg:voc:m3	pospolita	
 haszy	hasz	subst:pl:gen:m3	pospolita	
-ha-szana	ha-szana	subst:pl:acc:n2	święto	człon n. wł.
-ha-szana	ha-szana	subst:pl:dat:n2	święto	człon n. wł.
-ha-szana	ha-szana	subst:pl:gen:n2	święto	człon n. wł.
-ha-szana	ha-szana	subst:pl:inst:n2	święto	człon n. wł.
-ha-szana	ha-szana	subst:pl:loc:n2	święto	człon n. wł.
-ha-szana	ha-szana	subst:pl:nom:n2	święto	człon n. wł.
-ha-szana	ha-szana	subst:pl:voc:n2	święto	człon n. wł.
-ha-szana	ha-szana	subst:sg:acc:n2	święto	człon n. wł.
-ha-szana	ha-szana	subst:sg:dat:n2	święto	człon n. wł.
-ha-szana	ha-szana	subst:sg:gen:n2	święto	człon n. wł.
-ha-szana	ha-szana	subst:sg:inst:n2	święto	człon n. wł.
-ha-szana	ha-szana	subst:sg:loc:n2	święto	człon n. wł.
-ha-szana	ha-szana	subst:sg:nom:n2	święto	człon n. wł.
-ha-szana	ha-szana	subst:sg:voc:n2	święto	człon n. wł.
+ha-szana	ha-szana	subst:pl:acc:n2	święto	człon_n._wł.
+ha-szana	ha-szana	subst:pl:dat:n2	święto	człon_n._wł.
+ha-szana	ha-szana	subst:pl:gen:n2	święto	człon_n._wł.
+ha-szana	ha-szana	subst:pl:inst:n2	święto	człon_n._wł.
+ha-szana	ha-szana	subst:pl:loc:n2	święto	człon_n._wł.
+ha-szana	ha-szana	subst:pl:nom:n2	święto	człon_n._wł.
+ha-szana	ha-szana	subst:pl:voc:n2	święto	człon_n._wł.
+ha-szana	ha-szana	subst:sg:acc:n2	święto	człon_n._wł.
+ha-szana	ha-szana	subst:sg:dat:n2	święto	człon_n._wł.
+ha-szana	ha-szana	subst:sg:gen:n2	święto	człon_n._wł.
+ha-szana	ha-szana	subst:sg:inst:n2	święto	człon_n._wł.
+ha-szana	ha-szana	subst:sg:loc:n2	święto	człon_n._wł.
+ha-szana	ha-szana	subst:sg:nom:n2	święto	człon_n._wł.
+ha-szana	ha-szana	subst:sg:voc:n2	święto	człon_n._wł.
 haszymidzcy	haszymidzki	adj:pl:nom.voc:m1.p1:pos		
 haszymidzka	haszymidzki	adj:sg:nom.voc:f:pos		
 haszymidzką	haszymidzki	adj:sg:acc:f:pos		
@@ -12647,7 +12647,7 @@ hawiernie	hawiernia	subst:pl:acc:f	pospolita	daw.
 hawiernie	hawiernia	subst:pl:nom:f	pospolita	daw.
 hawiernie	hawiernia	subst:pl:voc:f	pospolita	daw.
 hawiernię	hawiernia	subst:sg:acc:f	pospolita	daw.
-hawierni	hawiernia	subst:pl:gen:f	pospolita	daw.|hom.
+hawierni	hawiernia	subst:pl:gen:f	pospolita	hom.|daw.
 hawierni	hawiernia	subst:sg:dat:f	pospolita	daw.
 hawierni	hawiernia	subst:sg:gen:f	pospolita	daw.
 hawierni	hawiernia	subst:sg:loc:f	pospolita	daw.
@@ -13945,6 +13945,70 @@ hecnym	hecny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 hecnym	hecny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 hecnym	hecny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 hecnymi	hecny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hecowania	hecować:v	ger:pl:nom.acc:n2:imperf:aff		
+hecowania	hecować:v	ger:sg:gen:n2:imperf:aff		
+hecowaniami	hecować:v	ger:pl:inst:n2:imperf:aff		
+hecowanie	hecować:v	ger:sg:nom.acc:n2:imperf:aff		
+hecowaniem	hecować:v	ger:sg:inst:n2:imperf:aff		
+hecowaniom	hecować:v	ger:pl:dat.loc:n2:imperf:aff		
+hecowaniu	hecować:v	ger:sg:dat.loc:n2:imperf:aff		
+hecowań	hecować:v	ger:pl:gen:n2:imperf:aff		
+hecująca	hecować:v	pact:sg:nom.voc:f:imperf:aff		
+hecującą	hecować:v	pact:sg:acc.inst:f:imperf:aff		
+hecującego	hecować:v	pact:sg:acc:m1.m2:imperf:aff		
+hecującego	hecować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+hecujące	hecować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+hecujące	hecować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+hecującej	hecować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+hecującemu	hecować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hecujących	hecować:v	pact:pl:acc:m1.p1:imperf:aff		
+hecujących	hecować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hecujący	hecować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+hecujący	hecować:v	pact:sg:acc:m3:imperf:aff		
+hecujący	hecować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+hecującym	hecować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hecującym	hecować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+hecującymi	hecować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hecowana	hecować:v	ppas:sg:nom.voc:f:imperf:aff		
+hecowaną	hecować:v	ppas:sg:acc.inst:f:imperf:aff		
+hecowanego	hecować:v	ppas:sg:acc:m1.m2:imperf:aff		
+hecowanego	hecować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+hecowane	hecować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+hecowane	hecować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+hecowanej	hecować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+hecowanemu	hecować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hecowania	hecować:v	ger:pl:nom.acc:n2:imperf:aff		
+hecowania	hecować:v	ger:sg:gen:n2:imperf:aff		
+hecowaniami	hecować:v	ger:pl:inst:n2:imperf:aff		
+hecowanie	hecować:v	ger:sg:nom.acc:n2:imperf:aff		
+hecowaniem	hecować:v	ger:sg:inst:n2:imperf:aff		
+hecowani	hecować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+hecowaniom	hecować:v	ger:pl:dat.loc:n2:imperf:aff		
+hecowaniu	hecować:v	ger:sg:dat.loc:n2:imperf:aff		
+hecowanych	hecować:v	ppas:pl:acc:m1.p1:imperf:aff		
+hecowanych	hecować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hecowany	hecować:v	ppas:sg:acc:m3:imperf:aff		
+hecowany	hecować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+hecowanym	hecować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hecowanym	hecować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+hecowanymi	hecować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hecowań	hecować:v	ger:pl:gen:n2:imperf:aff		
+hecująca	hecować:v	pact:sg:nom.voc:f:imperf:aff		
+hecującą	hecować:v	pact:sg:acc.inst:f:imperf:aff		
+hecującego	hecować:v	pact:sg:acc:m1.m2:imperf:aff		
+hecującego	hecować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+hecujące	hecować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+hecujące	hecować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+hecującej	hecować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+hecującemu	hecować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+hecujących	hecować:v	pact:pl:acc:m1.p1:imperf:aff		
+hecujących	hecować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hecujący	hecować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+hecujący	hecować:v	pact:sg:acc:m3:imperf:aff		
+hecujący	hecować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+hecującym	hecować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+hecującym	hecować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+hecującymi	hecować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 hecować	hecować:v1	inf:imperf		
 hecowaliby	hecować:v1	cond:pl:m1.p1:ter:imperf		
 hecowalibyście	hecować:v1	cond:pl:m1.p1:sec:imperf		
@@ -13981,32 +14045,8 @@ hecowały	hecować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 hecowały	hecować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 hecowałyście	hecować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 hecowałyśmy	hecować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-hecowania	hecować:v1	ger:pl:nom.acc:n2:imperf:aff		
-hecowania	hecować:v1	ger:sg:gen:n2:imperf:aff		
-hecowaniami	hecować:v1	ger:pl:inst:n2:imperf:aff		
-hecowanie	hecować:v1	ger:sg:nom.acc:n2:imperf:aff		
-hecowaniem	hecować:v1	ger:sg:inst:n2:imperf:aff		
-hecowaniom	hecować:v1	ger:pl:dat.loc:n2:imperf:aff		
-hecowaniu	hecować:v1	ger:sg:dat.loc:n2:imperf:aff		
 hecowano	hecować:v1	imps:imperf		
-hecowań	hecować:v1	ger:pl:gen:n2:imperf:aff		
-hecująca	hecować:v1	pact:sg:nom.voc:f:imperf:aff		
-hecującą	hecować:v1	pact:sg:acc.inst:f:imperf:aff		
-hecującego	hecować:v1	pact:sg:acc:m1.m2:imperf:aff		
-hecującego	hecować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-hecujące	hecować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-hecujące	hecować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-hecującej	hecować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-hecującemu	hecować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 hecując	hecować:v1	pcon:imperf		
-hecujących	hecować:v1	pact:pl:acc:m1.p1:imperf:aff		
-hecujących	hecować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-hecujący	hecować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-hecujący	hecować:v1	pact:sg:acc:m3:imperf:aff		
-hecujący	hecować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-hecującym	hecować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-hecującym	hecować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-hecującymi	hecować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 hecują	hecować:v1	fin:pl:ter:imperf		
 hecujcie	hecować:v1	impt:pl:sec:imperf		
 hecujecie	hecować:v1	fin:pl:sec:imperf		
@@ -14052,48 +14092,8 @@ hecowały	hecować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 hecowały	hecować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 hecowałyście	hecować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 hecowałyśmy	hecować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
-hecowana	hecować:v2	ppas:sg:nom.voc:f:imperf:aff		
-hecowaną	hecować:v2	ppas:sg:acc.inst:f:imperf:aff		
-hecowanego	hecować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-hecowanego	hecować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-hecowane	hecować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-hecowane	hecować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-hecowanej	hecować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-hecowanemu	hecować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-hecowania	hecować:v2	ger:pl:nom.acc:n2:imperf:aff		
-hecowania	hecować:v2	ger:sg:gen:n2:imperf:aff		
-hecowaniami	hecować:v2	ger:pl:inst:n2:imperf:aff		
-hecowanie	hecować:v2	ger:sg:nom.acc:n2:imperf:aff		
-hecowaniem	hecować:v2	ger:sg:inst:n2:imperf:aff		
-hecowani	hecować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-hecowaniom	hecować:v2	ger:pl:dat.loc:n2:imperf:aff		
-hecowaniu	hecować:v2	ger:sg:dat.loc:n2:imperf:aff		
 hecowano	hecować:v2	imps:imperf		daw.
-hecowanych	hecować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-hecowanych	hecować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-hecowany	hecować:v2	ppas:sg:acc:m3:imperf:aff		
-hecowany	hecować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-hecowanym	hecować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-hecowanym	hecować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-hecowanymi	hecować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-hecowań	hecować:v2	ger:pl:gen:n2:imperf:aff		
-hecująca	hecować:v2	pact:sg:nom.voc:f:imperf:aff		
-hecującą	hecować:v2	pact:sg:acc.inst:f:imperf:aff		
-hecującego	hecować:v2	pact:sg:acc:m1.m2:imperf:aff		
-hecującego	hecować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-hecujące	hecować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-hecujące	hecować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-hecującej	hecować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-hecującemu	hecować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 hecując	hecować:v2	pcon:imperf		daw.
-hecujących	hecować:v2	pact:pl:acc:m1.p1:imperf:aff		
-hecujących	hecować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-hecujący	hecować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-hecujący	hecować:v2	pact:sg:acc:m3:imperf:aff		
-hecujący	hecować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-hecującym	hecować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-hecującym	hecować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-hecującymi	hecować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 hecują	hecować:v2	fin:pl:ter:imperf		daw.
 hecujcie	hecować:v2	impt:pl:sec:imperf		daw.
 hecujecie	hecować:v2	fin:pl:sec:imperf		daw.
@@ -14134,6 +14134,29 @@ hecowności	hecowność	subst:sg:voc:f
 hecownościom	hecowność	subst:pl:dat:f		
 hecowność	hecowność	subst:sg:acc:f		
 hecowność	hecowność	subst:sg:nom:f		
+hecowniejsi	hecowny:a	adj:pl:nom.voc:m1.p1:com		
+hecowniejsza	hecowny:a	adj:sg:nom.voc:f:com		
+hecowniejszą	hecowny:a	adj:sg:acc:f:com		
+hecowniejszą	hecowny:a	adj:sg:inst:f:com		
+hecowniejszego	hecowny:a	adj:sg:acc:m1.m2:com		
+hecowniejszego	hecowny:a	adj:sg:gen:m1.m2.m3.n1.n2:com		
+hecowniejsze	hecowny:a	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		
+hecowniejsze	hecowny:a	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		
+hecowniejsze	hecowny:a	adj:sg:acc:n1.n2:com		
+hecowniejsze	hecowny:a	adj:sg:nom.voc:n1.n2:com		
+hecowniejszej	hecowny:a	adj:sg:dat:f:com		
+hecowniejszej	hecowny:a	adj:sg:gen:f:com		
+hecowniejszej	hecowny:a	adj:sg:loc:f:com		
+hecowniejszemu	hecowny:a	adj:sg:dat:m1.m2.m3.n1.n2:com		
+hecowniejszych	hecowny:a	adj:pl:acc:m1.p1:com		
+hecowniejszych	hecowny:a	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+hecowniejszych	hecowny:a	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+hecowniejszy	hecowny:a	adj:sg:acc:m3:com		
+hecowniejszy	hecowny:a	adj:sg:nom.voc:m1.m2.m3:com		
+hecowniejszym	hecowny:a	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+hecowniejszym	hecowny:a	adj:sg:inst:m1.m2.m3.n1.n2:com		
+hecowniejszym	hecowny:a	adj:sg:loc:m1.m2.m3.n1.n2:com		
+hecowniejszymi	hecowny:a	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
 hecowna	hecowny:a1	adj:sg:nom.voc:f:pos		
 hecowną	hecowny:a1	adj:sg:acc:f:pos		
 hecowną	hecowny:a1	adj:sg:inst:f:pos		
@@ -14147,29 +14170,6 @@ hecownej	hecowny:a1	adj:sg:dat:f:pos
 hecownej	hecowny:a1	adj:sg:gen:f:pos		
 hecownej	hecowny:a1	adj:sg:loc:f:pos		
 hecownemu	hecowny:a1	adj:sg:dat:m1.m2.m3.n1.n2:pos		
-hecowniejsi	hecowny:a1	adj:pl:nom.voc:m1.p1:com		
-hecowniejsza	hecowny:a1	adj:sg:nom.voc:f:com		
-hecowniejszą	hecowny:a1	adj:sg:acc:f:com		
-hecowniejszą	hecowny:a1	adj:sg:inst:f:com		
-hecowniejszego	hecowny:a1	adj:sg:acc:m1.m2:com		
-hecowniejszego	hecowny:a1	adj:sg:gen:m1.m2.m3.n1.n2:com		
-hecowniejsze	hecowny:a1	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		
-hecowniejsze	hecowny:a1	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		
-hecowniejsze	hecowny:a1	adj:sg:acc:n1.n2:com		
-hecowniejsze	hecowny:a1	adj:sg:nom.voc:n1.n2:com		
-hecowniejszej	hecowny:a1	adj:sg:dat:f:com		
-hecowniejszej	hecowny:a1	adj:sg:gen:f:com		
-hecowniejszej	hecowny:a1	adj:sg:loc:f:com		
-hecowniejszemu	hecowny:a1	adj:sg:dat:m1.m2.m3.n1.n2:com		
-hecowniejszych	hecowny:a1	adj:pl:acc:m1.p1:com		
-hecowniejszych	hecowny:a1	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
-hecowniejszych	hecowny:a1	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
-hecowniejszy	hecowny:a1	adj:sg:acc:m3:com		
-hecowniejszy	hecowny:a1	adj:sg:nom.voc:m1.m2.m3:com		
-hecowniejszym	hecowny:a1	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
-hecowniejszym	hecowny:a1	adj:sg:inst:m1.m2.m3.n1.n2:com		
-hecowniejszym	hecowny:a1	adj:sg:loc:m1.m2.m3.n1.n2:com		
-hecowniejszymi	hecowny:a1	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
 hecowni	hecowny:a1	adj:pl:nom.voc:m1.p1:pos		
 hecowno	hecowny:a1	adja		
 hecownych	hecowny:a1	adj:pl:acc:m1.p1:pos		
@@ -15095,20 +15095,20 @@ heksastylosu	heksastylos	subst:sg:gen:m3	pospolita
 heksastylosy	heksastylos	subst:pl:acc:m3	pospolita	
 heksastylosy	heksastylos	subst:pl:nom:m3	pospolita	
 heksastylosy	heksastylos	subst:pl:voc:m3	pospolita	
-heksenszusach	heksenszus	subst:pl:loc:m3	pospolita	pot.|przest.
-heksenszusami	heksenszus	subst:pl:inst:m3	pospolita	pot.|przest.
-heksenszusem	heksenszus	subst:sg:inst:m3	pospolita	pot.|przest.
-heksenszus	heksenszus	subst:sg:acc:m3	pospolita	pot.|przest.
-heksenszus	heksenszus	subst:sg:nom:m3	pospolita	pot.|przest.
-heksenszusie	heksenszus	subst:sg:loc:m3	pospolita	pot.|przest.
-heksenszusie	heksenszus	subst:sg:voc:m3	pospolita	pot.|przest.
-heksenszusom	heksenszus	subst:pl:dat:m3	pospolita	pot.|przest.
-heksenszusowi	heksenszus	subst:sg:dat:m3	pospolita	pot.|przest.
-heksenszusów	heksenszus	subst:pl:gen:m3	pospolita	pot.|przest.
-heksenszusu	heksenszus	subst:sg:gen:m3	pospolita	pot.|przest.
-heksenszusy	heksenszus	subst:pl:acc:m3	pospolita	pot.|przest.
-heksenszusy	heksenszus	subst:pl:nom:m3	pospolita	pot.|przest.
-heksenszusy	heksenszus	subst:pl:voc:m3	pospolita	pot.|przest.
+heksenszusach	heksenszus	subst:pl:loc:m3	pospolita	przest.|pot.
+heksenszusami	heksenszus	subst:pl:inst:m3	pospolita	przest.|pot.
+heksenszusem	heksenszus	subst:sg:inst:m3	pospolita	przest.|pot.
+heksenszus	heksenszus	subst:sg:acc:m3	pospolita	przest.|pot.
+heksenszus	heksenszus	subst:sg:nom:m3	pospolita	przest.|pot.
+heksenszusie	heksenszus	subst:sg:loc:m3	pospolita	przest.|pot.
+heksenszusie	heksenszus	subst:sg:voc:m3	pospolita	przest.|pot.
+heksenszusom	heksenszus	subst:pl:dat:m3	pospolita	przest.|pot.
+heksenszusowi	heksenszus	subst:sg:dat:m3	pospolita	przest.|pot.
+heksenszusów	heksenszus	subst:pl:gen:m3	pospolita	przest.|pot.
+heksenszusu	heksenszus	subst:sg:gen:m3	pospolita	przest.|pot.
+heksenszusy	heksenszus	subst:pl:acc:m3	pospolita	przest.|pot.
+heksenszusy	heksenszus	subst:pl:nom:m3	pospolita	przest.|pot.
+heksenszusy	heksenszus	subst:pl:voc:m3	pospolita	przest.|pot.
 heksodach	heksoda	subst:pl:loc:f	pospolita	
 heksoda	heksoda	subst:sg:nom:f	pospolita	
 heksodami	heksoda	subst:pl:inst:f	pospolita	
@@ -23223,20 +23223,20 @@ hetki	hetka	subst:pl:voc:f	pospolita
 hetki	hetka	subst:sg:gen:f	pospolita	
 hetko	hetka	subst:sg:voc:f	pospolita	
 hetkom	hetka	subst:pl:dat:f	pospolita	
-hetka-pętelce	hetka-pętelka	subst:sg:dat:f	pospolita	przest. dziś książk.
-hetka-pętelce	hetka-pętelka	subst:sg:loc:f	pospolita	przest. dziś książk.
-hetka-pętelek	hetka-pętelka	subst:pl:gen:f	pospolita	przest. dziś książk.
-hetka-pętelkach	hetka-pętelka	subst:pl:loc:f	pospolita	przest. dziś książk.
-hetka-pętelka	hetka-pętelka	subst:sg:nom:f	pospolita	przest. dziś książk.
-hetka-pętelkami	hetka-pętelka	subst:pl:inst:f	pospolita	przest. dziś książk.
-hetka-pętelką	hetka-pętelka	subst:sg:inst:f	pospolita	przest. dziś książk.
-hetka-pętelkę	hetka-pętelka	subst:sg:acc:f	pospolita	przest. dziś książk.
-hetka-pętelki	hetka-pętelka	subst:pl:acc:f	pospolita	przest. dziś książk.
-hetka-pętelki	hetka-pętelka	subst:pl:nom:f	pospolita	przest. dziś książk.
-hetka-pętelki	hetka-pętelka	subst:pl:voc:f	pospolita	przest. dziś książk.
-hetka-pętelki	hetka-pętelka	subst:sg:gen:f	pospolita	przest. dziś książk.
-hetka-pętelko	hetka-pętelka	subst:sg:voc:f	pospolita	przest. dziś książk.
-hetka-pętelkom	hetka-pętelka	subst:pl:dat:f	pospolita	przest. dziś książk.
+hetka-pętelce	hetka-pętelka	subst:sg:dat:f	pospolita	przest._dziś_książk.
+hetka-pętelce	hetka-pętelka	subst:sg:loc:f	pospolita	przest._dziś_książk.
+hetka-pętelek	hetka-pętelka	subst:pl:gen:f	pospolita	przest._dziś_książk.
+hetka-pętelkach	hetka-pętelka	subst:pl:loc:f	pospolita	przest._dziś_książk.
+hetka-pętelka	hetka-pętelka	subst:sg:nom:f	pospolita	przest._dziś_książk.
+hetka-pętelkami	hetka-pętelka	subst:pl:inst:f	pospolita	przest._dziś_książk.
+hetka-pętelką	hetka-pętelka	subst:sg:inst:f	pospolita	przest._dziś_książk.
+hetka-pętelkę	hetka-pętelka	subst:sg:acc:f	pospolita	przest._dziś_książk.
+hetka-pętelki	hetka-pętelka	subst:pl:acc:f	pospolita	przest._dziś_książk.
+hetka-pętelki	hetka-pętelka	subst:pl:nom:f	pospolita	przest._dziś_książk.
+hetka-pętelki	hetka-pętelka	subst:pl:voc:f	pospolita	przest._dziś_książk.
+hetka-pętelki	hetka-pętelka	subst:sg:gen:f	pospolita	przest._dziś_książk.
+hetka-pętelko	hetka-pętelka	subst:sg:voc:f	pospolita	przest._dziś_książk.
+hetka-pętelkom	hetka-pętelka	subst:pl:dat:f	pospolita	przest._dziś_książk.
 hetmanicach	hetmanic	subst:pl:loc:m1	pospolita	daw.
 hetmanica	hetmanic	subst:sg:acc:m1	pospolita	daw.
 hetmanica	hetmanic	subst:sg:gen:m1	pospolita	daw.
@@ -23787,7 +23787,7 @@ hezytacje	hezytacja	subst:pl:acc:f	pospolita	daw.
 hezytacje	hezytacja	subst:pl:nom:f	pospolita	daw.
 hezytacje	hezytacja	subst:pl:voc:f	pospolita	daw.
 hezytację	hezytacja	subst:sg:acc:f	pospolita	daw.
-hezytacji	hezytacja	subst:pl:gen:f	pospolita	daw.|hom.
+hezytacji	hezytacja	subst:pl:gen:f	pospolita	hom.|daw.
 hezytacji	hezytacja	subst:sg:dat:f	pospolita	daw.
 hezytacji	hezytacja	subst:sg:gen:f	pospolita	daw.
 hezytacji	hezytacja	subst:sg:loc:f	pospolita	daw.
@@ -25597,34 +25597,34 @@ higroskopicznym	higroskopiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos
 higroskopicznym	higroskopiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 higroskopicznymi	higroskopiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 higroskopijnie	higroskopijnie	adv:pos		
-higroskopijnościach	higroskopijność:s1	subst:pl:loc:f	pospolita	
-higroskopijnościami	higroskopijność:s1	subst:pl:inst:f	pospolita	
-higroskopijnością	higroskopijność:s1	subst:sg:inst:f	pospolita	
-higroskopijności	higroskopijność:s1	subst:pl:acc:f	pospolita	
-higroskopijności	higroskopijność:s1	subst:pl:gen:f	pospolita	
-higroskopijności	higroskopijność:s1	subst:pl:nom:f	pospolita	
-higroskopijności	higroskopijność:s1	subst:pl:voc:f	pospolita	
-higroskopijności	higroskopijność:s1	subst:sg:dat:f	pospolita	
-higroskopijności	higroskopijność:s1	subst:sg:gen:f	pospolita	
-higroskopijności	higroskopijność:s1	subst:sg:loc:f	pospolita	
-higroskopijności	higroskopijność:s1	subst:sg:voc:f	pospolita	
-higroskopijnościom	higroskopijność:s1	subst:pl:dat:f	pospolita	
-higroskopijność	higroskopijność:s1	subst:sg:acc:f	pospolita	
-higroskopijność	higroskopijność:s1	subst:sg:nom:f	pospolita	
-higroskopijnościach	higroskopijność:s2	subst:pl:loc:f		
-higroskopijnościami	higroskopijność:s2	subst:pl:inst:f		
-higroskopijnością	higroskopijność:s2	subst:sg:inst:f		
-higroskopijności	higroskopijność:s2	subst:pl:acc:f		
-higroskopijności	higroskopijność:s2	subst:pl:gen:f		
-higroskopijności	higroskopijność:s2	subst:pl:nom:f		
-higroskopijności	higroskopijność:s2	subst:pl:voc:f		
-higroskopijności	higroskopijność:s2	subst:sg:dat:f		
-higroskopijności	higroskopijność:s2	subst:sg:gen:f		
-higroskopijności	higroskopijność:s2	subst:sg:loc:f		
-higroskopijności	higroskopijność:s2	subst:sg:voc:f		
-higroskopijnościom	higroskopijność:s2	subst:pl:dat:f		
-higroskopijność	higroskopijność:s2	subst:sg:acc:f		
-higroskopijność	higroskopijność:s2	subst:sg:nom:f		
+higroskopijnościach	higroskopijność:s	subst:pl:loc:f	pospolita	
+higroskopijnościami	higroskopijność:s	subst:pl:inst:f	pospolita	
+higroskopijnością	higroskopijność:s	subst:sg:inst:f	pospolita	
+higroskopijności	higroskopijność:s	subst:pl:acc:f	pospolita	
+higroskopijności	higroskopijność:s	subst:pl:gen:f	pospolita	
+higroskopijności	higroskopijność:s	subst:pl:nom:f	pospolita	
+higroskopijności	higroskopijność:s	subst:pl:voc:f	pospolita	
+higroskopijności	higroskopijność:s	subst:sg:dat:f	pospolita	
+higroskopijności	higroskopijność:s	subst:sg:gen:f	pospolita	
+higroskopijności	higroskopijność:s	subst:sg:loc:f	pospolita	
+higroskopijności	higroskopijność:s	subst:sg:voc:f	pospolita	
+higroskopijnościom	higroskopijność:s	subst:pl:dat:f	pospolita	
+higroskopijność	higroskopijność:s	subst:sg:acc:f	pospolita	
+higroskopijność	higroskopijność:s	subst:sg:nom:f	pospolita	
+higroskopijnościach	higroskopijność:s	subst:pl:loc:f		
+higroskopijnościami	higroskopijność:s	subst:pl:inst:f		
+higroskopijnością	higroskopijność:s	subst:sg:inst:f		
+higroskopijności	higroskopijność:s	subst:pl:acc:f		
+higroskopijności	higroskopijność:s	subst:pl:gen:f		
+higroskopijności	higroskopijność:s	subst:pl:nom:f		
+higroskopijności	higroskopijność:s	subst:pl:voc:f		
+higroskopijności	higroskopijność:s	subst:sg:dat:f		
+higroskopijności	higroskopijność:s	subst:sg:gen:f		
+higroskopijności	higroskopijność:s	subst:sg:loc:f		
+higroskopijności	higroskopijność:s	subst:sg:voc:f		
+higroskopijnościom	higroskopijność:s	subst:pl:dat:f		
+higroskopijność	higroskopijność:s	subst:sg:acc:f		
+higroskopijność	higroskopijność:s	subst:sg:nom:f		
 higroskopijna	higroskopijny	adj:sg:nom.voc:f:pos		
 higroskopijną	higroskopijny	adj:sg:acc:f:pos		
 higroskopijną	higroskopijny	adj:sg:inst:f:pos		
@@ -27449,34 +27449,34 @@ hiperplazjo	hiperplazja	subst:sg:voc:f	pospolita
 hiperplazjom	hiperplazja	subst:pl:dat:f	pospolita	
 hiperplazyj	hiperplazja	subst:pl:gen:f	pospolita	arch.|char.
 hiperpoprawnie	hiperpoprawnie	adv:pos		
-hiperpoprawnościach	hiperpoprawność:s1	subst:pl:loc:f	pospolita	
-hiperpoprawnościami	hiperpoprawność:s1	subst:pl:inst:f	pospolita	
-hiperpoprawnością	hiperpoprawność:s1	subst:sg:inst:f	pospolita	
-hiperpoprawności	hiperpoprawność:s1	subst:pl:acc:f	pospolita	
-hiperpoprawności	hiperpoprawność:s1	subst:pl:gen:f	pospolita	
-hiperpoprawności	hiperpoprawność:s1	subst:pl:nom:f	pospolita	
-hiperpoprawności	hiperpoprawność:s1	subst:pl:voc:f	pospolita	
-hiperpoprawności	hiperpoprawność:s1	subst:sg:dat:f	pospolita	
-hiperpoprawności	hiperpoprawność:s1	subst:sg:gen:f	pospolita	
-hiperpoprawności	hiperpoprawność:s1	subst:sg:loc:f	pospolita	
-hiperpoprawności	hiperpoprawność:s1	subst:sg:voc:f	pospolita	
-hiperpoprawnościom	hiperpoprawność:s1	subst:pl:dat:f	pospolita	
-hiperpoprawność	hiperpoprawność:s1	subst:sg:acc:f	pospolita	
-hiperpoprawność	hiperpoprawność:s1	subst:sg:nom:f	pospolita	
-hiperpoprawnościach	hiperpoprawność:s2	subst:pl:loc:f		
-hiperpoprawnościami	hiperpoprawność:s2	subst:pl:inst:f		
-hiperpoprawnością	hiperpoprawność:s2	subst:sg:inst:f		
-hiperpoprawności	hiperpoprawność:s2	subst:pl:acc:f		
-hiperpoprawności	hiperpoprawność:s2	subst:pl:gen:f		
-hiperpoprawności	hiperpoprawność:s2	subst:pl:nom:f		
-hiperpoprawności	hiperpoprawność:s2	subst:pl:voc:f		
-hiperpoprawności	hiperpoprawność:s2	subst:sg:dat:f		
-hiperpoprawności	hiperpoprawność:s2	subst:sg:gen:f		
-hiperpoprawności	hiperpoprawność:s2	subst:sg:loc:f		
-hiperpoprawności	hiperpoprawność:s2	subst:sg:voc:f		
-hiperpoprawnościom	hiperpoprawność:s2	subst:pl:dat:f		
-hiperpoprawność	hiperpoprawność:s2	subst:sg:acc:f		
-hiperpoprawność	hiperpoprawność:s2	subst:sg:nom:f		
+hiperpoprawnościach	hiperpoprawność:s	subst:pl:loc:f	pospolita	
+hiperpoprawnościami	hiperpoprawność:s	subst:pl:inst:f	pospolita	
+hiperpoprawnością	hiperpoprawność:s	subst:sg:inst:f	pospolita	
+hiperpoprawności	hiperpoprawność:s	subst:pl:acc:f	pospolita	
+hiperpoprawności	hiperpoprawność:s	subst:pl:gen:f	pospolita	
+hiperpoprawności	hiperpoprawność:s	subst:pl:nom:f	pospolita	
+hiperpoprawności	hiperpoprawność:s	subst:pl:voc:f	pospolita	
+hiperpoprawności	hiperpoprawność:s	subst:sg:dat:f	pospolita	
+hiperpoprawności	hiperpoprawność:s	subst:sg:gen:f	pospolita	
+hiperpoprawności	hiperpoprawność:s	subst:sg:loc:f	pospolita	
+hiperpoprawności	hiperpoprawność:s	subst:sg:voc:f	pospolita	
+hiperpoprawnościom	hiperpoprawność:s	subst:pl:dat:f	pospolita	
+hiperpoprawność	hiperpoprawność:s	subst:sg:acc:f	pospolita	
+hiperpoprawność	hiperpoprawność:s	subst:sg:nom:f	pospolita	
+hiperpoprawnościach	hiperpoprawność:s	subst:pl:loc:f		
+hiperpoprawnościami	hiperpoprawność:s	subst:pl:inst:f		
+hiperpoprawnością	hiperpoprawność:s	subst:sg:inst:f		
+hiperpoprawności	hiperpoprawność:s	subst:pl:acc:f		
+hiperpoprawności	hiperpoprawność:s	subst:pl:gen:f		
+hiperpoprawności	hiperpoprawność:s	subst:pl:nom:f		
+hiperpoprawności	hiperpoprawność:s	subst:pl:voc:f		
+hiperpoprawności	hiperpoprawność:s	subst:sg:dat:f		
+hiperpoprawności	hiperpoprawność:s	subst:sg:gen:f		
+hiperpoprawności	hiperpoprawność:s	subst:sg:loc:f		
+hiperpoprawności	hiperpoprawność:s	subst:sg:voc:f		
+hiperpoprawnościom	hiperpoprawność:s	subst:pl:dat:f		
+hiperpoprawność	hiperpoprawność:s	subst:sg:acc:f		
+hiperpoprawność	hiperpoprawność:s	subst:sg:nom:f		
 hiperpoprawna	hiperpoprawny	adj:sg:nom.voc:f:pos		jęz.
 hiperpoprawną	hiperpoprawny	adj:sg:acc:f:pos		jęz.
 hiperpoprawną	hiperpoprawny	adj:sg:inst:f:pos		jęz.
@@ -32015,34 +32015,34 @@ historycznoliterackości	historycznoliterackość	subst:sg:voc:f
 historycznoliterackościom	historycznoliterackość	subst:pl:dat:f		
 historycznoliterackość	historycznoliterackość	subst:sg:acc:f		
 historycznoliterackość	historycznoliterackość	subst:sg:nom:f		
-historycznościach	historyczność:s1	subst:pl:loc:f	pospolita	
-historycznościami	historyczność:s1	subst:pl:inst:f	pospolita	
-historycznością	historyczność:s1	subst:sg:inst:f	pospolita	
-historyczności	historyczność:s1	subst:pl:acc:f	pospolita	
-historyczności	historyczność:s1	subst:pl:gen:f	pospolita	
-historyczności	historyczność:s1	subst:pl:nom:f	pospolita	
-historyczności	historyczność:s1	subst:pl:voc:f	pospolita	
-historyczności	historyczność:s1	subst:sg:dat:f	pospolita	
-historyczności	historyczność:s1	subst:sg:gen:f	pospolita	
-historyczności	historyczność:s1	subst:sg:loc:f	pospolita	
-historyczności	historyczność:s1	subst:sg:voc:f	pospolita	
-historycznościom	historyczność:s1	subst:pl:dat:f	pospolita	
-historyczność	historyczność:s1	subst:sg:acc:f	pospolita	
-historyczność	historyczność:s1	subst:sg:nom:f	pospolita	
-historycznościach	historyczność:s2	subst:pl:loc:f		
-historycznościami	historyczność:s2	subst:pl:inst:f		
-historycznością	historyczność:s2	subst:sg:inst:f		
-historyczności	historyczność:s2	subst:pl:acc:f		
-historyczności	historyczność:s2	subst:pl:gen:f		
-historyczności	historyczność:s2	subst:pl:nom:f		
-historyczności	historyczność:s2	subst:pl:voc:f		
-historyczności	historyczność:s2	subst:sg:dat:f		
-historyczności	historyczność:s2	subst:sg:gen:f		
-historyczności	historyczność:s2	subst:sg:loc:f		
-historyczności	historyczność:s2	subst:sg:voc:f		
-historycznościom	historyczność:s2	subst:pl:dat:f		
-historyczność	historyczność:s2	subst:sg:acc:f		
-historyczność	historyczność:s2	subst:sg:nom:f		
+historycznościach	historyczność:s	subst:pl:loc:f	pospolita	
+historycznościami	historyczność:s	subst:pl:inst:f	pospolita	
+historycznością	historyczność:s	subst:sg:inst:f	pospolita	
+historyczności	historyczność:s	subst:pl:acc:f	pospolita	
+historyczności	historyczność:s	subst:pl:gen:f	pospolita	
+historyczności	historyczność:s	subst:pl:nom:f	pospolita	
+historyczności	historyczność:s	subst:pl:voc:f	pospolita	
+historyczności	historyczność:s	subst:sg:dat:f	pospolita	
+historyczności	historyczność:s	subst:sg:gen:f	pospolita	
+historyczności	historyczność:s	subst:sg:loc:f	pospolita	
+historyczności	historyczność:s	subst:sg:voc:f	pospolita	
+historycznościom	historyczność:s	subst:pl:dat:f	pospolita	
+historyczność	historyczność:s	subst:sg:acc:f	pospolita	
+historyczność	historyczność:s	subst:sg:nom:f	pospolita	
+historycznościach	historyczność:s	subst:pl:loc:f		
+historycznościami	historyczność:s	subst:pl:inst:f		
+historycznością	historyczność:s	subst:sg:inst:f		
+historyczności	historyczność:s	subst:pl:acc:f		
+historyczności	historyczność:s	subst:pl:gen:f		
+historyczności	historyczność:s	subst:pl:nom:f		
+historyczności	historyczność:s	subst:pl:voc:f		
+historyczności	historyczność:s	subst:sg:dat:f		
+historyczności	historyczność:s	subst:sg:gen:f		
+historyczności	historyczność:s	subst:sg:loc:f		
+historyczności	historyczność:s	subst:sg:voc:f		
+historycznościom	historyczność:s	subst:pl:dat:f		
+historyczność	historyczność:s	subst:sg:acc:f		
+historyczność	historyczność:s	subst:sg:nom:f		
 historyczna	historyczny	adj:sg:nom.voc:f:pos		
 historyczną	historyczny	adj:sg:acc:f:pos		
 historyczną	historyczny	adj:sg:inst:f:pos		
@@ -33459,34 +33459,34 @@ hojerze	hojer	subst:sg:voc:m3	pospolita
 hojnie	hojnie	adv:pos		
 hojniej	hojnie	adv:com		
 hojno	hojno	adv:pos		daw.
-hojnościach	hojność:s1	subst:pl:loc:f	pospolita	
-hojnościami	hojność:s1	subst:pl:inst:f	pospolita	
-hojnością	hojność:s1	subst:sg:inst:f	pospolita	
-hojności	hojność:s1	subst:pl:acc:f	pospolita	
-hojności	hojność:s1	subst:pl:gen:f	pospolita	
-hojności	hojność:s1	subst:pl:nom:f	pospolita	
-hojności	hojność:s1	subst:pl:voc:f	pospolita	
-hojności	hojność:s1	subst:sg:dat:f	pospolita	
-hojności	hojność:s1	subst:sg:gen:f	pospolita	
-hojności	hojność:s1	subst:sg:loc:f	pospolita	
-hojności	hojność:s1	subst:sg:voc:f	pospolita	
-hojnościom	hojność:s1	subst:pl:dat:f	pospolita	
-hojność	hojność:s1	subst:sg:acc:f	pospolita	
-hojność	hojność:s1	subst:sg:nom:f	pospolita	
-hojnościach	hojność:s2	subst:pl:loc:f		
-hojnościami	hojność:s2	subst:pl:inst:f		
-hojnością	hojność:s2	subst:sg:inst:f		
-hojności	hojność:s2	subst:pl:acc:f		
-hojności	hojność:s2	subst:pl:gen:f		
-hojności	hojność:s2	subst:pl:nom:f		
-hojności	hojność:s2	subst:pl:voc:f		
-hojności	hojność:s2	subst:sg:dat:f		
-hojności	hojność:s2	subst:sg:gen:f		
-hojności	hojność:s2	subst:sg:loc:f		
-hojności	hojność:s2	subst:sg:voc:f		
-hojnościom	hojność:s2	subst:pl:dat:f		
-hojność	hojność:s2	subst:sg:acc:f		
-hojność	hojność:s2	subst:sg:nom:f		
+hojnościach	hojność:s	subst:pl:loc:f	pospolita	
+hojnościami	hojność:s	subst:pl:inst:f	pospolita	
+hojnością	hojność:s	subst:sg:inst:f	pospolita	
+hojności	hojność:s	subst:pl:acc:f	pospolita	
+hojności	hojność:s	subst:pl:gen:f	pospolita	
+hojności	hojność:s	subst:pl:nom:f	pospolita	
+hojności	hojność:s	subst:pl:voc:f	pospolita	
+hojności	hojność:s	subst:sg:dat:f	pospolita	
+hojności	hojność:s	subst:sg:gen:f	pospolita	
+hojności	hojność:s	subst:sg:loc:f	pospolita	
+hojności	hojność:s	subst:sg:voc:f	pospolita	
+hojnościom	hojność:s	subst:pl:dat:f	pospolita	
+hojność	hojność:s	subst:sg:acc:f	pospolita	
+hojność	hojność:s	subst:sg:nom:f	pospolita	
+hojnościach	hojność:s	subst:pl:loc:f		
+hojnościami	hojność:s	subst:pl:inst:f		
+hojnością	hojność:s	subst:sg:inst:f		
+hojności	hojność:s	subst:pl:acc:f		
+hojności	hojność:s	subst:pl:gen:f		
+hojności	hojność:s	subst:pl:nom:f		
+hojności	hojność:s	subst:pl:voc:f		
+hojności	hojność:s	subst:sg:dat:f		
+hojności	hojność:s	subst:sg:gen:f		
+hojności	hojność:s	subst:sg:loc:f		
+hojności	hojność:s	subst:sg:voc:f		
+hojnościom	hojność:s	subst:pl:dat:f		
+hojność	hojność:s	subst:sg:acc:f		
+hojność	hojność:s	subst:sg:nom:f		
 hojna	hojny	adj:sg:nom.voc:f:pos		
 hojną	hojny	adj:sg:acc:f:pos		
 hojną	hojny	adj:sg:inst:f:pos		
@@ -35293,7 +35293,7 @@ homagie	homagia	subst:pl:acc:f	pospolita	daw.
 homagie	homagia	subst:pl:nom:f	pospolita	daw.
 homagie	homagia	subst:pl:voc:f	pospolita	daw.
 homagię	homagia	subst:sg:acc:f	pospolita	daw.
-homagii	homagia	subst:pl:gen:f	pospolita	daw.|hom.
+homagii	homagia	subst:pl:gen:f	pospolita	hom.|daw.
 homagii	homagia	subst:sg:dat:f	pospolita	daw.
 homagii	homagia	subst:sg:gen:f	pospolita	daw.
 homagii	homagia	subst:sg:loc:f	pospolita	daw.
@@ -37700,7 +37700,7 @@ honoracje	honoracja	subst:pl:acc:f	pospolita	daw.
 honoracje	honoracja	subst:pl:nom:f	pospolita	daw.
 honoracje	honoracja	subst:pl:voc:f	pospolita	daw.
 honorację	honoracja	subst:sg:acc:f	pospolita	daw.
-honoracji	honoracja	subst:pl:gen:f	pospolita	daw.|hom.
+honoracji	honoracja	subst:pl:gen:f	pospolita	hom.|daw.
 honoracji	honoracja	subst:sg:dat:f	pospolita	daw.
 honoracji	honoracja	subst:sg:gen:f	pospolita	daw.
 honoracji	honoracja	subst:sg:loc:f	pospolita	daw.
@@ -40589,30 +40589,30 @@ hożości	hożość	subst:sg:voc:f
 hożościom	hożość	subst:pl:dat:f		
 hożość	hożość	subst:sg:acc:f		
 hożość	hożość	subst:sg:nom:f		
-hoża	hoży	adj:sg:nom.voc:f:pos		przest. dziś książk.
-hożą	hoży	adj:sg:acc:f:pos		przest. dziś książk.
-hożą	hoży	adj:sg:inst:f:pos		przest. dziś książk.
-hożego	hoży	adj:sg:acc:m1.m2:pos		przest. dziś książk.
-hożego	hoży	adj:sg:gen:m1.m2.m3.n1.n2:pos		przest. dziś książk.
-hoże	hoży	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		przest. dziś książk.
-hoże	hoży	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		przest. dziś książk.
-hoże	hoży	adj:sg:acc:n1.n2:pos		przest. dziś książk.
-hoże	hoży	adj:sg:nom.voc:n1.n2:pos		przest. dziś książk.
-hożej	hoży	adj:sg:dat:f:pos		przest. dziś książk.
-hożej	hoży	adj:sg:gen:f:pos		przest. dziś książk.
-hożej	hoży	adj:sg:loc:f:pos		przest. dziś książk.
-hożemu	hoży	adj:sg:dat:m1.m2.m3.n1.n2:pos		przest. dziś książk.
-hożo	hoży	adja		przest. dziś książk.
-hożych	hoży	adj:pl:acc:m1.p1:pos		przest. dziś książk.
-hożych	hoży	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest. dziś książk.
-hożych	hoży	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest. dziś książk.
-hoży	hoży	adj:pl:nom.voc:m1.p1:pos		przest. dziś książk.
-hoży	hoży	adj:sg:acc:m3:pos		przest. dziś książk.
-hoży	hoży	adj:sg:nom.voc:m1.m2.m3:pos		przest. dziś książk.
-hożym	hoży	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest. dziś książk.
-hożym	hoży	adj:sg:inst:m1.m2.m3.n1.n2:pos		przest. dziś książk.
-hożym	hoży	adj:sg:loc:m1.m2.m3.n1.n2:pos		przest. dziś książk.
-hożymi	hoży	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest. dziś książk.
+hoża	hoży	adj:sg:nom.voc:f:pos		przest._dziś_książk.
+hożą	hoży	adj:sg:acc:f:pos		przest._dziś_książk.
+hożą	hoży	adj:sg:inst:f:pos		przest._dziś_książk.
+hożego	hoży	adj:sg:acc:m1.m2:pos		przest._dziś_książk.
+hożego	hoży	adj:sg:gen:m1.m2.m3.n1.n2:pos		przest._dziś_książk.
+hoże	hoży	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		przest._dziś_książk.
+hoże	hoży	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		przest._dziś_książk.
+hoże	hoży	adj:sg:acc:n1.n2:pos		przest._dziś_książk.
+hoże	hoży	adj:sg:nom.voc:n1.n2:pos		przest._dziś_książk.
+hożej	hoży	adj:sg:dat:f:pos		przest._dziś_książk.
+hożej	hoży	adj:sg:gen:f:pos		przest._dziś_książk.
+hożej	hoży	adj:sg:loc:f:pos		przest._dziś_książk.
+hożemu	hoży	adj:sg:dat:m1.m2.m3.n1.n2:pos		przest._dziś_książk.
+hożo	hoży	adja		przest._dziś_książk.
+hożych	hoży	adj:pl:acc:m1.p1:pos		przest._dziś_książk.
+hożych	hoży	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest._dziś_książk.
+hożych	hoży	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest._dziś_książk.
+hoży	hoży	adj:pl:nom.voc:m1.p1:pos		przest._dziś_książk.
+hoży	hoży	adj:sg:acc:m3:pos		przest._dziś_książk.
+hoży	hoży	adj:sg:nom.voc:m1.m2.m3:pos		przest._dziś_książk.
+hożym	hoży	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest._dziś_książk.
+hożym	hoży	adj:sg:inst:m1.m2.m3.n1.n2:pos		przest._dziś_książk.
+hożym	hoży	adj:sg:loc:m1.m2.m3.n1.n2:pos		przest._dziś_książk.
+hożymi	hoży	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest._dziś_książk.
 hrabczukach	hrabczuk	subst:pl:loc:m1	pospolita	daw.
 hrabczuka	hrabczuk	subst:sg:acc:m1	pospolita	daw.
 hrabczuka	hrabczuk	subst:sg:gen:m1	pospolita	daw.
@@ -42712,36 +42712,36 @@ hulajpolom	hulajpole	subst:pl:dat:n2	pospolita
 hulajpolu	hulajpole	subst:sg:dat:n2	pospolita	
 hulajpolu	hulajpole	subst:sg:loc:n2	pospolita	
 hulajpól	hulajpole	subst:pl:gen:n2	pospolita	
-hulace	hulaka	subst:sg:dat:f	pospolita	pot.|przest.
-hulace	hulaka	subst:sg:dat:m1	pospolita	pot.|przest.
-hulace	hulaka	subst:sg:loc:f	pospolita	pot.|przest.
-hulace	hulaka	subst:sg:loc:m1	pospolita	pot.|przest.
-hulacy	hulaka	subst:pl:nom:m1	pospolita	pot.|przest.
-hulacy	hulaka	subst:pl:voc:m1	pospolita	pot.|przest.
-hulakach	hulaka	subst:pl:loc:f	pospolita	pot.|przest.
-hulakach	hulaka	subst:pl:loc:m1	pospolita	pot.|przest.
-hulaka	hulaka	subst:sg:nom:f	pospolita	pot.|przest.
-hulaka	hulaka	subst:sg:nom:m1	pospolita	pot.|przest.
-hulakami	hulaka	subst:pl:inst:f	pospolita	pot.|przest.
-hulakami	hulaka	subst:pl:inst:m1	pospolita	pot.|przest.
-hulaką	hulaka	subst:sg:inst:f	pospolita	pot.|przest.
-hulaką	hulaka	subst:sg:inst:m1	pospolita	pot.|przest.
-hulakę	hulaka	subst:sg:acc:f	pospolita	pot.|przest.
-hulakę	hulaka	subst:sg:acc:m1	pospolita	pot.|przest.
-hulak	hulaka	subst:pl:gen:f	pospolita	pot.|przest.
-hulaki	hulaka	depr:pl:nom:m2	pospolita	pot.|przest.
-hulaki	hulaka	depr:pl:voc:m2	pospolita	pot.|przest.
-hulaki	hulaka	subst:pl:acc:f	pospolita	pot.|przest.
-hulaki	hulaka	subst:pl:nom:f	pospolita	pot.|przest.
-hulaki	hulaka	subst:pl:voc:f	pospolita	pot.|przest.
-hulaki	hulaka	subst:sg:gen:f	pospolita	pot.|przest.
-hulaki	hulaka	subst:sg:gen:m1	pospolita	pot.|przest.
-hulako	hulaka	subst:sg:voc:f	pospolita	pot.|przest.
-hulako	hulaka	subst:sg:voc:m1	pospolita	pot.|przest.
-hulakom	hulaka	subst:pl:dat:f	pospolita	pot.|przest.
-hulakom	hulaka	subst:pl:dat:m1	pospolita	pot.|przest.
-hulaków	hulaka	subst:pl:acc:m1	pospolita	pot.|przest.
-hulaków	hulaka	subst:pl:gen:m1	pospolita	pot.|przest.
+hulace	hulaka	subst:sg:dat:f	pospolita	przest.|pot.
+hulace	hulaka	subst:sg:dat:m1	pospolita	przest.|pot.
+hulace	hulaka	subst:sg:loc:f	pospolita	przest.|pot.
+hulace	hulaka	subst:sg:loc:m1	pospolita	przest.|pot.
+hulacy	hulaka	subst:pl:nom:m1	pospolita	przest.|pot.
+hulacy	hulaka	subst:pl:voc:m1	pospolita	przest.|pot.
+hulakach	hulaka	subst:pl:loc:f	pospolita	przest.|pot.
+hulakach	hulaka	subst:pl:loc:m1	pospolita	przest.|pot.
+hulaka	hulaka	subst:sg:nom:f	pospolita	przest.|pot.
+hulaka	hulaka	subst:sg:nom:m1	pospolita	przest.|pot.
+hulakami	hulaka	subst:pl:inst:f	pospolita	przest.|pot.
+hulakami	hulaka	subst:pl:inst:m1	pospolita	przest.|pot.
+hulaką	hulaka	subst:sg:inst:f	pospolita	przest.|pot.
+hulaką	hulaka	subst:sg:inst:m1	pospolita	przest.|pot.
+hulakę	hulaka	subst:sg:acc:f	pospolita	przest.|pot.
+hulakę	hulaka	subst:sg:acc:m1	pospolita	przest.|pot.
+hulak	hulaka	subst:pl:gen:f	pospolita	przest.|pot.
+hulaki	hulaka	depr:pl:nom:m2	pospolita	przest.|pot.
+hulaki	hulaka	depr:pl:voc:m2	pospolita	przest.|pot.
+hulaki	hulaka	subst:pl:acc:f	pospolita	przest.|pot.
+hulaki	hulaka	subst:pl:nom:f	pospolita	przest.|pot.
+hulaki	hulaka	subst:pl:voc:f	pospolita	przest.|pot.
+hulaki	hulaka	subst:sg:gen:f	pospolita	przest.|pot.
+hulaki	hulaka	subst:sg:gen:m1	pospolita	przest.|pot.
+hulako	hulaka	subst:sg:voc:f	pospolita	przest.|pot.
+hulako	hulaka	subst:sg:voc:m1	pospolita	przest.|pot.
+hulakom	hulaka	subst:pl:dat:f	pospolita	przest.|pot.
+hulakom	hulaka	subst:pl:dat:m1	pospolita	przest.|pot.
+hulaków	hulaka	subst:pl:acc:m1	pospolita	przest.|pot.
+hulaków	hulaka	subst:pl:gen:m1	pospolita	przest.|pot.
 hulance	hulanka	subst:sg:dat:f	pospolita	przest.
 hulance	hulanka	subst:sg:loc:f	pospolita	przest.
 hulanek	hulanka	subst:pl:gen:f	pospolita	przest.
@@ -43021,38 +43021,38 @@ hultaję	hultaić	fin:sg:pri:imperf		przest.
 hultaj	hultaić	impt:sg:sec:imperf		przest.
 hultajmy	hultaić	impt:pl:pri:imperf		przest.
 hultajono	hultaić	imps:imperf		przest.
-hultai	hultaj	subst:pl:acc:m1	pospolita	rzad.|przest.
-hultai	hultaj	subst:pl:gen:m1	pospolita	rzad.|przest.
+hultai	hultaj	subst:pl:acc:m1	pospolita	przest.|rzad.
+hultai	hultaj	subst:pl:gen:m1	pospolita	przest.|rzad.
 hultajach	hultaj	subst:pl:loc:m1	pospolita	przest.
-hultajach	hultaj	subst:pl:loc:m1	pospolita	rzad.|przest.
+hultajach	hultaj	subst:pl:loc:m1	pospolita	przest.|rzad.
 hultaja	hultaj	subst:sg:acc:m1	pospolita	przest.
-hultaja	hultaj	subst:sg:acc:m1	pospolita	rzad.|przest.
+hultaja	hultaj	subst:sg:acc:m1	pospolita	przest.|rzad.
 hultaja	hultaj	subst:sg:gen:m1	pospolita	przest.
-hultaja	hultaj	subst:sg:gen:m1	pospolita	rzad.|przest.
+hultaja	hultaj	subst:sg:gen:m1	pospolita	przest.|rzad.
 hultajami	hultaj	subst:pl:inst:m1	pospolita	przest.
-hultajami	hultaj	subst:pl:inst:m1	pospolita	rzad.|przest.
+hultajami	hultaj	subst:pl:inst:m1	pospolita	przest.|rzad.
 hultaje	hultaj	depr:pl:nom:m2	pospolita	przest.
-hultaje	hultaj	depr:pl:nom:m2	pospolita	rzad.|przest.
+hultaje	hultaj	depr:pl:nom:m2	pospolita	przest.|rzad.
 hultaje	hultaj	depr:pl:voc:m2	pospolita	przest.
-hultaje	hultaj	depr:pl:voc:m2	pospolita	rzad.|przest.
+hultaje	hultaj	depr:pl:voc:m2	pospolita	przest.|rzad.
 hultaje	hultaj	subst:pl:nom:m1	pospolita	przest.
-hultaje	hultaj	subst:pl:nom:m1	pospolita	rzad.|przest.
+hultaje	hultaj	subst:pl:nom:m1	pospolita	przest.|rzad.
 hultaje	hultaj	subst:pl:voc:m1	pospolita	przest.
-hultaje	hultaj	subst:pl:voc:m1	pospolita	rzad.|przest.
+hultaje	hultaj	subst:pl:voc:m1	pospolita	przest.|rzad.
 hultajem	hultaj	subst:sg:inst:m1	pospolita	przest.
-hultajem	hultaj	subst:sg:inst:m1	pospolita	rzad.|przest.
+hultajem	hultaj	subst:sg:inst:m1	pospolita	przest.|rzad.
 hultaj	hultaj	subst:sg:nom:m1	pospolita	przest.
-hultaj	hultaj	subst:sg:nom:m1	pospolita	rzad.|przest.
+hultaj	hultaj	subst:sg:nom:m1	pospolita	przest.|rzad.
 hultajom	hultaj	subst:pl:dat:m1	pospolita	przest.
-hultajom	hultaj	subst:pl:dat:m1	pospolita	rzad.|przest.
+hultajom	hultaj	subst:pl:dat:m1	pospolita	przest.|rzad.
 hultajowi	hultaj	subst:sg:dat:m1	pospolita	przest.
-hultajowi	hultaj	subst:sg:dat:m1	pospolita	rzad.|przest.
+hultajowi	hultaj	subst:sg:dat:m1	pospolita	przest.|rzad.
 hultajów	hultaj	subst:pl:acc:m1	pospolita	przest.
 hultajów	hultaj	subst:pl:gen:m1	pospolita	przest.
 hultaju	hultaj	subst:sg:loc:m1	pospolita	przest.
-hultaju	hultaj	subst:sg:loc:m1	pospolita	rzad.|przest.
+hultaju	hultaj	subst:sg:loc:m1	pospolita	przest.|rzad.
 hultaju	hultaj	subst:sg:voc:m1	pospolita	przest.
-hultaju	hultaj	subst:sg:voc:m1	pospolita	rzad.|przest.
+hultaju	hultaj	subst:sg:voc:m1	pospolita	przest.|rzad.
 hultajce	hultajka	subst:sg:dat:f	pospolita	przest.
 hultajce	hultajka	subst:sg:loc:f	pospolita	przest.
 hultajek	hultajka	subst:pl:gen:f	pospolita	przest.

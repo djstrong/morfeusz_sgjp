@@ -870,6 +870,46 @@
 źrebnym	źrebny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 źrebny	źrebny	adj:sg:acc:m3:pos		
 źrebny	źrebny	adj:sg:nom.voc:m1.m2.m3:pos		
+źrejąca	źreć:v	pact:sg:nom.voc:f:imperf:aff		
+źrejącą	źreć:v	pact:sg:acc.inst:f:imperf:aff		
+źrejącego	źreć:v	pact:sg:acc:m1.m2:imperf:aff		
+źrejącego	źreć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+źrejącej	źreć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+źrejącemu	źreć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+źrejące	źreć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+źrejące	źreć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+źrejących	źreć:v	pact:pl:acc:m1.p1:imperf:aff		
+źrejących	źreć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+źrejącymi	źreć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+źrejącym	źreć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+źrejącym	źreć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+źrejący	źreć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+źrejący	źreć:v	pact:sg:acc:m3:imperf:aff		
+źrejący	źreć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+źreniami	źreć:v	ger:pl:inst:n2:imperf:aff		
+źrenia	źreć:v	ger:pl:nom.acc:n2:imperf:aff		
+źrenia	źreć:v	ger:sg:gen:n2:imperf:aff		
+źreniem	źreć:v	ger:sg:inst:n2:imperf:aff		
+źrenie	źreć:v	ger:sg:nom.acc:n2:imperf:aff		
+źreniom	źreć:v	ger:pl:dat.loc:n2:imperf:aff		
+źreniu	źreć:v	ger:sg:dat.loc:n2:imperf:aff		
+źreń	źreć:v	ger:pl:gen:n2:imperf:aff		
+źrąca	źreć:v	pact:sg:nom.voc:f:imperf:aff		
+źrącą	źreć:v	pact:sg:acc.inst:f:imperf:aff		
+źrącego	źreć:v	pact:sg:acc:m1.m2:imperf:aff		
+źrącego	źreć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+źrącej	źreć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+źrącemu	źreć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+źrące	źreć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+źrące	źreć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+źrących	źreć:v	pact:pl:acc:m1.p1:imperf:aff		
+źrących	źreć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+źrącymi	źreć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+źrącym	źreć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+źrącym	źreć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+źrący	źreć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+źrący	źreć:v	pact:sg:acc:m3:imperf:aff		
+źrący	źreć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 źrałabym	źreć:v1	cond:sg:f:pri:imperf		daw.
 źrałabyś	źreć:v1	cond:sg:f:sec:imperf		daw.
 źrałaby	źreć:v1	cond:sg:f:ter:imperf		daw.
@@ -900,22 +940,6 @@
 źrał	źreć:v1	praet:sg:m1.m2.m3:ter:imperf		daw.
 źrano	źreć:v1	imps:imperf		daw.
 źreć	źreć:v1	inf:imperf		daw.
-źrejąca	źreć:v1	pact:sg:nom.voc:f:imperf:aff		
-źrejącą	źreć:v1	pact:sg:acc.inst:f:imperf:aff		
-źrejącego	źreć:v1	pact:sg:acc:m1.m2:imperf:aff		
-źrejącego	źreć:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-źrejącej	źreć:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-źrejącemu	źreć:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-źrejące	źreć:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-źrejące	źreć:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-źrejących	źreć:v1	pact:pl:acc:m1.p1:imperf:aff		
-źrejących	źreć:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-źrejącymi	źreć:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-źrejącym	źreć:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-źrejącym	źreć:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-źrejący	źreć:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-źrejący	źreć:v1	pact:sg:acc:m3:imperf:aff		
-źrejący	źreć:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 źrejąc	źreć:v1	pcon:imperf		daw.
 źreją	źreć:v1	fin:pl:ter:imperf		daw.
 źrejcie	źreć:v1	impt:pl:sec:imperf		daw.
@@ -933,30 +957,6 @@
 źreliśmy	źreć:v1	praet:pl:m1.p1:pri:imperf		daw.
 źreli	źreć:v1	praet:pl:m1.p1:imperf		daw.
 źreli	źreć:v1	praet:pl:m1.p1:ter:imperf		daw.
-źreniami	źreć:v1	ger:pl:inst:n2:imperf:aff		
-źrenia	źreć:v1	ger:pl:nom.acc:n2:imperf:aff		
-źrenia	źreć:v1	ger:sg:gen:n2:imperf:aff		
-źreniem	źreć:v1	ger:sg:inst:n2:imperf:aff		
-źrenie	źreć:v1	ger:sg:nom.acc:n2:imperf:aff		
-źreniom	źreć:v1	ger:pl:dat.loc:n2:imperf:aff		
-źreniu	źreć:v1	ger:sg:dat.loc:n2:imperf:aff		
-źreń	źreć:v1	ger:pl:gen:n2:imperf:aff		
-źrąca	źreć:v2	pact:sg:nom.voc:f:imperf:aff		
-źrącą	źreć:v2	pact:sg:acc.inst:f:imperf:aff		
-źrącego	źreć:v2	pact:sg:acc:m1.m2:imperf:aff		
-źrącego	źreć:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-źrącej	źreć:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-źrącemu	źreć:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-źrące	źreć:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-źrące	źreć:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-źrących	źreć:v2	pact:pl:acc:m1.p1:imperf:aff		
-źrących	źreć:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-źrącymi	źreć:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-źrącym	źreć:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-źrącym	źreć:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-źrący	źreć:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-źrący	źreć:v2	pact:sg:acc:m3:imperf:aff		
-źrący	źreć:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 źrąc	źreć:v2	pcon:imperf		
 źrą	źreć:v2	fin:pl:ter:imperf		
 źrecie	źreć:v2	fin:pl:sec:imperf		
@@ -1434,20 +1434,20 @@
 źródłosłowym	źródłosłowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		daw.
 źródłosłowy	źródłosłowy	adj:sg:acc:m3:pos		daw.
 źródłosłowy	źródłosłowy	adj:sg:nom.voc:m1.m2.m3:pos		daw.
-źródłosłowach	źródłosłów	subst:pl:loc:m3	pospolita	przest. dziś książk.
-źródłosłowami	źródłosłów	subst:pl:inst:m3	pospolita	przest. dziś książk.
-źródłosłowem	źródłosłów	subst:sg:inst:m3	pospolita	przest. dziś książk.
-źródłosłowie	źródłosłów	subst:sg:loc:m3	pospolita	przest. dziś książk.
-źródłosłowie	źródłosłów	subst:sg:voc:m3	pospolita	przest. dziś książk.
-źródłosłowom	źródłosłów	subst:pl:dat:m3	pospolita	przest. dziś książk.
-źródłosłowowi	źródłosłów	subst:sg:dat:m3	pospolita	przest. dziś książk.
-źródłosłowów	źródłosłów	subst:pl:gen:m3	pospolita	przest. dziś książk.
-źródłosłowu	źródłosłów	subst:sg:gen:m3	pospolita	przest. dziś książk.
-źródłosłowy	źródłosłów	subst:pl:acc:m3	pospolita	przest. dziś książk.
-źródłosłowy	źródłosłów	subst:pl:nom:m3	pospolita	przest. dziś książk.
-źródłosłowy	źródłosłów	subst:pl:voc:m3	pospolita	przest. dziś książk.
-źródłosłów	źródłosłów	subst:sg:acc:m3	pospolita	przest. dziś książk.
-źródłosłów	źródłosłów	subst:sg:nom:m3	pospolita	przest. dziś książk.
+źródłosłowach	źródłosłów	subst:pl:loc:m3	pospolita	przest._dziś_książk.
+źródłosłowami	źródłosłów	subst:pl:inst:m3	pospolita	przest._dziś_książk.
+źródłosłowem	źródłosłów	subst:sg:inst:m3	pospolita	przest._dziś_książk.
+źródłosłowie	źródłosłów	subst:sg:loc:m3	pospolita	przest._dziś_książk.
+źródłosłowie	źródłosłów	subst:sg:voc:m3	pospolita	przest._dziś_książk.
+źródłosłowom	źródłosłów	subst:pl:dat:m3	pospolita	przest._dziś_książk.
+źródłosłowowi	źródłosłów	subst:sg:dat:m3	pospolita	przest._dziś_książk.
+źródłosłowów	źródłosłów	subst:pl:gen:m3	pospolita	przest._dziś_książk.
+źródłosłowu	źródłosłów	subst:sg:gen:m3	pospolita	przest._dziś_książk.
+źródłosłowy	źródłosłów	subst:pl:acc:m3	pospolita	przest._dziś_książk.
+źródłosłowy	źródłosłów	subst:pl:nom:m3	pospolita	przest._dziś_książk.
+źródłosłowy	źródłosłów	subst:pl:voc:m3	pospolita	przest._dziś_książk.
+źródłosłów	źródłosłów	subst:sg:acc:m3	pospolita	przest._dziś_książk.
+źródłosłów	źródłosłów	subst:sg:nom:m3	pospolita	przest._dziś_książk.
 źródłowiskach	źródłowisko	subst:pl:loc:n2	pospolita	
 źródłowiskami	źródłowisko	subst:pl:inst:n2	pospolita	
 źródłowiska	źródłowisko	subst:pl:acc:n2	pospolita	

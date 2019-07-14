@@ -398,34 +398,34 @@ labiedźcie	labiedzić	impt:pl:sec:imperf		pot.
 labiedź	labiedzić	impt:sg:sec:imperf		pot.
 labiedźmy	labiedzić	impt:pl:pri:imperf		pot.
 labilnie	labilnie	adv:pos		
-labilnościach	labilność:s1	subst:pl:loc:f	pospolita	
-labilnościami	labilność:s1	subst:pl:inst:f	pospolita	
-labilnością	labilność:s1	subst:sg:inst:f	pospolita	
-labilności	labilność:s1	subst:pl:acc:f	pospolita	
-labilności	labilność:s1	subst:pl:gen:f	pospolita	
-labilności	labilność:s1	subst:pl:nom:f	pospolita	
-labilności	labilność:s1	subst:pl:voc:f	pospolita	
-labilności	labilność:s1	subst:sg:dat:f	pospolita	
-labilności	labilność:s1	subst:sg:gen:f	pospolita	
-labilności	labilność:s1	subst:sg:loc:f	pospolita	
-labilności	labilność:s1	subst:sg:voc:f	pospolita	
-labilnościom	labilność:s1	subst:pl:dat:f	pospolita	
-labilność	labilność:s1	subst:sg:acc:f	pospolita	
-labilność	labilność:s1	subst:sg:nom:f	pospolita	
-labilnościach	labilność:s2	subst:pl:loc:f		
-labilnościami	labilność:s2	subst:pl:inst:f		
-labilnością	labilność:s2	subst:sg:inst:f		
-labilności	labilność:s2	subst:pl:acc:f		
-labilności	labilność:s2	subst:pl:gen:f		
-labilności	labilność:s2	subst:pl:nom:f		
-labilności	labilność:s2	subst:pl:voc:f		
-labilności	labilność:s2	subst:sg:dat:f		
-labilności	labilność:s2	subst:sg:gen:f		
-labilności	labilność:s2	subst:sg:loc:f		
-labilności	labilność:s2	subst:sg:voc:f		
-labilnościom	labilność:s2	subst:pl:dat:f		
-labilność	labilność:s2	subst:sg:acc:f		
-labilność	labilność:s2	subst:sg:nom:f		
+labilnościach	labilność:s	subst:pl:loc:f	pospolita	
+labilnościami	labilność:s	subst:pl:inst:f	pospolita	
+labilnością	labilność:s	subst:sg:inst:f	pospolita	
+labilności	labilność:s	subst:pl:acc:f	pospolita	
+labilności	labilność:s	subst:pl:gen:f	pospolita	
+labilności	labilność:s	subst:pl:nom:f	pospolita	
+labilności	labilność:s	subst:pl:voc:f	pospolita	
+labilności	labilność:s	subst:sg:dat:f	pospolita	
+labilności	labilność:s	subst:sg:gen:f	pospolita	
+labilności	labilność:s	subst:sg:loc:f	pospolita	
+labilności	labilność:s	subst:sg:voc:f	pospolita	
+labilnościom	labilność:s	subst:pl:dat:f	pospolita	
+labilność	labilność:s	subst:sg:acc:f	pospolita	
+labilność	labilność:s	subst:sg:nom:f	pospolita	
+labilnościach	labilność:s	subst:pl:loc:f		
+labilnościami	labilność:s	subst:pl:inst:f		
+labilnością	labilność:s	subst:sg:inst:f		
+labilności	labilność:s	subst:pl:acc:f		
+labilności	labilność:s	subst:pl:gen:f		
+labilności	labilność:s	subst:pl:nom:f		
+labilności	labilność:s	subst:pl:voc:f		
+labilności	labilność:s	subst:sg:dat:f		
+labilności	labilność:s	subst:sg:gen:f		
+labilności	labilność:s	subst:sg:loc:f		
+labilności	labilność:s	subst:sg:voc:f		
+labilnościom	labilność:s	subst:pl:dat:f		
+labilność	labilność:s	subst:sg:acc:f		
+labilność	labilność:s	subst:sg:nom:f		
 labilna	labilny	adj:sg:nom.voc:f:pos		
 labilną	labilny	adj:sg:acc:f:pos		
 labilną	labilny	adj:sg:inst:f:pos		
@@ -1449,20 +1449,20 @@ ladaco	ladaco:s	subst:sg:nom:m1	pospolita
 ladaco	ladaco:s	subst:sg:nom:n2	pospolita	
 ladaco	ladaco:s	subst:sg:voc:m1	pospolita	
 ladaco	ladaco:s	subst:sg:voc:n2	pospolita	
-ladacznicach	ladacznica	subst:pl:loc:f	pospolita	przest. dziś książk.
-ladacznica	ladacznica	subst:sg:nom:f	pospolita	przest. dziś książk.
-ladacznicami	ladacznica	subst:pl:inst:f	pospolita	przest. dziś książk.
-ladacznicą	ladacznica	subst:sg:inst:f	pospolita	przest. dziś książk.
-ladacznice	ladacznica	subst:pl:acc:f	pospolita	przest. dziś książk.
-ladacznice	ladacznica	subst:pl:nom:f	pospolita	przest. dziś książk.
-ladacznice	ladacznica	subst:pl:voc:f	pospolita	przest. dziś książk.
-ladacznicę	ladacznica	subst:sg:acc:f	pospolita	przest. dziś książk.
-ladacznic	ladacznica	subst:pl:gen:f	pospolita	przest. dziś książk.
-ladacznico	ladacznica	subst:sg:voc:f	pospolita	przest. dziś książk.
-ladacznicom	ladacznica	subst:pl:dat:f	pospolita	przest. dziś książk.
-ladacznicy	ladacznica	subst:sg:dat:f	pospolita	przest. dziś książk.
-ladacznicy	ladacznica	subst:sg:gen:f	pospolita	przest. dziś książk.
-ladacznicy	ladacznica	subst:sg:loc:f	pospolita	przest. dziś książk.
+ladacznicach	ladacznica	subst:pl:loc:f	pospolita	przest._dziś_książk.
+ladacznica	ladacznica	subst:sg:nom:f	pospolita	przest._dziś_książk.
+ladacznicami	ladacznica	subst:pl:inst:f	pospolita	przest._dziś_książk.
+ladacznicą	ladacznica	subst:sg:inst:f	pospolita	przest._dziś_książk.
+ladacznice	ladacznica	subst:pl:acc:f	pospolita	przest._dziś_książk.
+ladacznice	ladacznica	subst:pl:nom:f	pospolita	przest._dziś_książk.
+ladacznice	ladacznica	subst:pl:voc:f	pospolita	przest._dziś_książk.
+ladacznicę	ladacznica	subst:sg:acc:f	pospolita	przest._dziś_książk.
+ladacznic	ladacznica	subst:pl:gen:f	pospolita	przest._dziś_książk.
+ladacznico	ladacznica	subst:sg:voc:f	pospolita	przest._dziś_książk.
+ladacznicom	ladacznica	subst:pl:dat:f	pospolita	przest._dziś_książk.
+ladacznicy	ladacznica	subst:sg:dat:f	pospolita	przest._dziś_książk.
+ladacznicy	ladacznica	subst:sg:gen:f	pospolita	przest._dziś_książk.
+ladacznicy	ladacznica	subst:sg:loc:f	pospolita	przest._dziś_książk.
 ladacznościach	ladaczność	subst:pl:loc:f		
 ladacznościami	ladaczność	subst:pl:inst:f		
 ladacznością	ladaczność	subst:sg:inst:f		
@@ -2138,34 +2138,34 @@ laickim	laicki	adj:sg:loc:m1.m2.m3.n1.n2:pos
 laicko	laicki	adja		
 laicku	laicki	adjp		
 laicko	laicko	adv:pos		
-laickościach	laickość:s1	subst:pl:loc:f	pospolita	
-laickościami	laickość:s1	subst:pl:inst:f	pospolita	
-laickością	laickość:s1	subst:sg:inst:f	pospolita	
-laickości	laickość:s1	subst:pl:acc:f	pospolita	
-laickości	laickość:s1	subst:pl:gen:f	pospolita	
-laickości	laickość:s1	subst:pl:nom:f	pospolita	
-laickości	laickość:s1	subst:pl:voc:f	pospolita	
-laickości	laickość:s1	subst:sg:dat:f	pospolita	
-laickości	laickość:s1	subst:sg:gen:f	pospolita	
-laickości	laickość:s1	subst:sg:loc:f	pospolita	
-laickości	laickość:s1	subst:sg:voc:f	pospolita	
-laickościom	laickość:s1	subst:pl:dat:f	pospolita	
-laickość	laickość:s1	subst:sg:acc:f	pospolita	
-laickość	laickość:s1	subst:sg:nom:f	pospolita	
-laickościach	laickość:s2	subst:pl:loc:f		
-laickościami	laickość:s2	subst:pl:inst:f		
-laickością	laickość:s2	subst:sg:inst:f		
-laickości	laickość:s2	subst:pl:acc:f		
-laickości	laickość:s2	subst:pl:gen:f		
-laickości	laickość:s2	subst:pl:nom:f		
-laickości	laickość:s2	subst:pl:voc:f		
-laickości	laickość:s2	subst:sg:dat:f		
-laickości	laickość:s2	subst:sg:gen:f		
-laickości	laickość:s2	subst:sg:loc:f		
-laickości	laickość:s2	subst:sg:voc:f		
-laickościom	laickość:s2	subst:pl:dat:f		
-laickość	laickość:s2	subst:sg:acc:f		
-laickość	laickość:s2	subst:sg:nom:f		
+laickościach	laickość:s	subst:pl:loc:f	pospolita	
+laickościami	laickość:s	subst:pl:inst:f	pospolita	
+laickością	laickość:s	subst:sg:inst:f	pospolita	
+laickości	laickość:s	subst:pl:acc:f	pospolita	
+laickości	laickość:s	subst:pl:gen:f	pospolita	
+laickości	laickość:s	subst:pl:nom:f	pospolita	
+laickości	laickość:s	subst:pl:voc:f	pospolita	
+laickości	laickość:s	subst:sg:dat:f	pospolita	
+laickości	laickość:s	subst:sg:gen:f	pospolita	
+laickości	laickość:s	subst:sg:loc:f	pospolita	
+laickości	laickość:s	subst:sg:voc:f	pospolita	
+laickościom	laickość:s	subst:pl:dat:f	pospolita	
+laickość	laickość:s	subst:sg:acc:f	pospolita	
+laickość	laickość:s	subst:sg:nom:f	pospolita	
+laickościach	laickość:s	subst:pl:loc:f		
+laickościami	laickość:s	subst:pl:inst:f		
+laickością	laickość:s	subst:sg:inst:f		
+laickości	laickość:s	subst:pl:acc:f		
+laickości	laickość:s	subst:pl:gen:f		
+laickości	laickość:s	subst:pl:nom:f		
+laickości	laickość:s	subst:pl:voc:f		
+laickości	laickość:s	subst:sg:dat:f		
+laickości	laickość:s	subst:sg:gen:f		
+laickości	laickość:s	subst:sg:loc:f		
+laickości	laickość:s	subst:sg:voc:f		
+laickościom	laickość:s	subst:pl:dat:f		
+laickość	laickość:s	subst:sg:acc:f		
+laickość	laickość:s	subst:sg:nom:f		
 laicyzacjach	laicyzacja	subst:pl:loc:f	pospolita	
 laicyzacja	laicyzacja	subst:sg:nom:f	pospolita	
 laicyzacjami	laicyzacja	subst:pl:inst:f	pospolita	
@@ -5993,22 +5993,22 @@ lancowymi	lancowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 lancowym	lancowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 lancowym	lancowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 lancowym	lancowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-lancusiach	lancuś	subst:pl:loc:m1	pospolita	żart.|przest.
-lancusia	lancuś	subst:sg:acc:m1	pospolita	żart.|przest.
-lancusia	lancuś	subst:sg:gen:m1	pospolita	żart.|przest.
-lancusiami	lancuś	subst:pl:inst:m1	pospolita	żart.|przest.
-lancusie	lancuś	depr:pl:nom:m2	pospolita	żart.|przest.
-lancusie	lancuś	depr:pl:voc:m2	pospolita	żart.|przest.
-lancusie	lancuś	subst:pl:nom:m1	pospolita	żart.|przest.
-lancusie	lancuś	subst:pl:voc:m1	pospolita	żart.|przest.
-lancusiem	lancuś	subst:sg:inst:m1	pospolita	żart.|przest.
-lancusiom	lancuś	subst:pl:dat:m1	pospolita	żart.|przest.
-lancusiowi	lancuś	subst:sg:dat:m1	pospolita	żart.|przest.
-lancusiów	lancuś	subst:pl:acc:m1	pospolita	żart.|przest.
-lancusiów	lancuś	subst:pl:gen:m1	pospolita	żart.|przest.
-lancusiu	lancuś	subst:sg:loc:m1	pospolita	żart.|przest.
-lancusiu	lancuś	subst:sg:voc:m1	pospolita	żart.|przest.
-lancuś	lancuś	subst:sg:nom:m1	pospolita	żart.|przest.
+lancusiach	lancuś	subst:pl:loc:m1	pospolita	przest.|żart.
+lancusia	lancuś	subst:sg:acc:m1	pospolita	przest.|żart.
+lancusia	lancuś	subst:sg:gen:m1	pospolita	przest.|żart.
+lancusiami	lancuś	subst:pl:inst:m1	pospolita	przest.|żart.
+lancusie	lancuś	depr:pl:nom:m2	pospolita	przest.|żart.
+lancusie	lancuś	depr:pl:voc:m2	pospolita	przest.|żart.
+lancusie	lancuś	subst:pl:nom:m1	pospolita	przest.|żart.
+lancusie	lancuś	subst:pl:voc:m1	pospolita	przest.|żart.
+lancusiem	lancuś	subst:sg:inst:m1	pospolita	przest.|żart.
+lancusiom	lancuś	subst:pl:dat:m1	pospolita	przest.|żart.
+lancusiowi	lancuś	subst:sg:dat:m1	pospolita	przest.|żart.
+lancusiów	lancuś	subst:pl:acc:m1	pospolita	przest.|żart.
+lancusiów	lancuś	subst:pl:gen:m1	pospolita	przest.|żart.
+lancusiu	lancuś	subst:sg:loc:m1	pospolita	przest.|żart.
+lancusiu	lancuś	subst:sg:voc:m1	pospolita	przest.|żart.
+lancuś	lancuś	subst:sg:nom:m1	pospolita	przest.|żart.
 lanczach	lancz	subst:pl:loc:m3	pospolita	
 lanczami	lancz	subst:pl:inst:m3	pospolita	
 lancze	lancz	subst:pl:acc:m3	pospolita	
@@ -10185,35 +10185,35 @@ latarnianym	latarniany	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 latarnianym	latarniany	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 latarnianym	latarniany	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 latarniarzach	latarniarz	subst:pl:loc:m1	pospolita	przest.
-latarniarzach	latarniarz	subst:pl:loc:m1	pospolita	rzad.|przest.
+latarniarzach	latarniarz	subst:pl:loc:m1	pospolita	przest.|rzad.
 latarniarza	latarniarz	subst:sg:acc:m1	pospolita	przest.
-latarniarza	latarniarz	subst:sg:acc:m1	pospolita	rzad.|przest.
+latarniarza	latarniarz	subst:sg:acc:m1	pospolita	przest.|rzad.
 latarniarza	latarniarz	subst:sg:gen:m1	pospolita	przest.
-latarniarza	latarniarz	subst:sg:gen:m1	pospolita	rzad.|przest.
+latarniarza	latarniarz	subst:sg:gen:m1	pospolita	przest.|rzad.
 latarniarzami	latarniarz	subst:pl:inst:m1	pospolita	przest.
-latarniarzami	latarniarz	subst:pl:inst:m1	pospolita	rzad.|przest.
+latarniarzami	latarniarz	subst:pl:inst:m1	pospolita	przest.|rzad.
 latarniarze	latarniarz	depr:pl:nom:m2	pospolita	przest.
-latarniarze	latarniarz	depr:pl:nom:m2	pospolita	rzad.|przest.
+latarniarze	latarniarz	depr:pl:nom:m2	pospolita	przest.|rzad.
 latarniarze	latarniarz	depr:pl:voc:m2	pospolita	przest.
-latarniarze	latarniarz	depr:pl:voc:m2	pospolita	rzad.|przest.
+latarniarze	latarniarz	depr:pl:voc:m2	pospolita	przest.|rzad.
 latarniarze	latarniarz	subst:pl:nom:m1	pospolita	przest.
-latarniarze	latarniarz	subst:pl:nom:m1	pospolita	rzad.|przest.
+latarniarze	latarniarz	subst:pl:nom:m1	pospolita	przest.|rzad.
 latarniarze	latarniarz	subst:pl:voc:m1	pospolita	przest.
-latarniarze	latarniarz	subst:pl:voc:m1	pospolita	rzad.|przest.
+latarniarze	latarniarz	subst:pl:voc:m1	pospolita	przest.|rzad.
 latarniarzem	latarniarz	subst:sg:inst:m1	pospolita	przest.
-latarniarzem	latarniarz	subst:sg:inst:m1	pospolita	rzad.|przest.
+latarniarzem	latarniarz	subst:sg:inst:m1	pospolita	przest.|rzad.
 latarniarz	latarniarz	subst:sg:nom:m1	pospolita	przest.
-latarniarz	latarniarz	subst:sg:nom:m1	pospolita	rzad.|przest.
+latarniarz	latarniarz	subst:sg:nom:m1	pospolita	przest.|rzad.
 latarniarzom	latarniarz	subst:pl:dat:m1	pospolita	przest.
-latarniarzom	latarniarz	subst:pl:dat:m1	pospolita	rzad.|przest.
+latarniarzom	latarniarz	subst:pl:dat:m1	pospolita	przest.|rzad.
 latarniarzowi	latarniarz	subst:sg:dat:m1	pospolita	przest.
-latarniarzowi	latarniarz	subst:sg:dat:m1	pospolita	rzad.|przest.
-latarniarzów	latarniarz	subst:pl:acc:m1	pospolita	rzad.|przest.
-latarniarzów	latarniarz	subst:pl:gen:m1	pospolita	rzad.|przest.
+latarniarzowi	latarniarz	subst:sg:dat:m1	pospolita	przest.|rzad.
+latarniarzów	latarniarz	subst:pl:acc:m1	pospolita	przest.|rzad.
+latarniarzów	latarniarz	subst:pl:gen:m1	pospolita	przest.|rzad.
 latarniarzu	latarniarz	subst:sg:loc:m1	pospolita	przest.
-latarniarzu	latarniarz	subst:sg:loc:m1	pospolita	rzad.|przest.
+latarniarzu	latarniarz	subst:sg:loc:m1	pospolita	przest.|rzad.
 latarniarzu	latarniarz	subst:sg:voc:m1	pospolita	przest.
-latarniarzu	latarniarz	subst:sg:voc:m1	pospolita	rzad.|przest.
+latarniarzu	latarniarz	subst:sg:voc:m1	pospolita	przest.|rzad.
 latarniarzy	latarniarz	subst:pl:acc:m1	pospolita	przest.
 latarniarzy	latarniarz	subst:pl:gen:m1	pospolita	przest.
 latarnicy	latarnik	subst:pl:nom:m1	pospolita	
@@ -15389,34 +15389,34 @@ legalizuj	legalizować	impt:sg:sec:imperf
 legalizujmy	legalizować	impt:pl:pri:imperf		
 legalniej	legalnie	adv:com		
 legalnie	legalnie	adv:pos		
-legalnościach	legalność:s1	subst:pl:loc:f	pospolita	
-legalnościami	legalność:s1	subst:pl:inst:f	pospolita	
-legalnością	legalność:s1	subst:sg:inst:f	pospolita	
-legalności	legalność:s1	subst:pl:acc:f	pospolita	
-legalności	legalność:s1	subst:pl:gen:f	pospolita	
-legalności	legalność:s1	subst:pl:nom:f	pospolita	
-legalności	legalność:s1	subst:pl:voc:f	pospolita	
-legalności	legalność:s1	subst:sg:dat:f	pospolita	
-legalności	legalność:s1	subst:sg:gen:f	pospolita	
-legalności	legalność:s1	subst:sg:loc:f	pospolita	
-legalności	legalność:s1	subst:sg:voc:f	pospolita	
-legalnościom	legalność:s1	subst:pl:dat:f	pospolita	
-legalność	legalność:s1	subst:sg:acc:f	pospolita	
-legalność	legalność:s1	subst:sg:nom:f	pospolita	
-legalnościach	legalność:s2	subst:pl:loc:f		
-legalnościami	legalność:s2	subst:pl:inst:f		
-legalnością	legalność:s2	subst:sg:inst:f		
-legalności	legalność:s2	subst:pl:acc:f		
-legalności	legalność:s2	subst:pl:gen:f		
-legalności	legalność:s2	subst:pl:nom:f		
-legalności	legalność:s2	subst:pl:voc:f		
-legalności	legalność:s2	subst:sg:dat:f		
-legalności	legalność:s2	subst:sg:gen:f		
-legalności	legalność:s2	subst:sg:loc:f		
-legalności	legalność:s2	subst:sg:voc:f		
-legalnościom	legalność:s2	subst:pl:dat:f		
-legalność	legalność:s2	subst:sg:acc:f		
-legalność	legalność:s2	subst:sg:nom:f		
+legalnościach	legalność:s	subst:pl:loc:f	pospolita	
+legalnościami	legalność:s	subst:pl:inst:f	pospolita	
+legalnością	legalność:s	subst:sg:inst:f	pospolita	
+legalności	legalność:s	subst:pl:acc:f	pospolita	
+legalności	legalność:s	subst:pl:gen:f	pospolita	
+legalności	legalność:s	subst:pl:nom:f	pospolita	
+legalności	legalność:s	subst:pl:voc:f	pospolita	
+legalności	legalność:s	subst:sg:dat:f	pospolita	
+legalności	legalność:s	subst:sg:gen:f	pospolita	
+legalności	legalność:s	subst:sg:loc:f	pospolita	
+legalności	legalność:s	subst:sg:voc:f	pospolita	
+legalnościom	legalność:s	subst:pl:dat:f	pospolita	
+legalność	legalność:s	subst:sg:acc:f	pospolita	
+legalność	legalność:s	subst:sg:nom:f	pospolita	
+legalnościach	legalność:s	subst:pl:loc:f		
+legalnościami	legalność:s	subst:pl:inst:f		
+legalnością	legalność:s	subst:sg:inst:f		
+legalności	legalność:s	subst:pl:acc:f		
+legalności	legalność:s	subst:pl:gen:f		
+legalności	legalność:s	subst:pl:nom:f		
+legalności	legalność:s	subst:pl:voc:f		
+legalności	legalność:s	subst:sg:dat:f		
+legalności	legalność:s	subst:sg:gen:f		
+legalności	legalność:s	subst:sg:loc:f		
+legalności	legalność:s	subst:sg:voc:f		
+legalnościom	legalność:s	subst:pl:dat:f		
+legalność	legalność:s	subst:sg:acc:f		
+legalność	legalność:s	subst:sg:nom:f		
 legalna	legalny	adj:sg:nom.voc:f:pos		
 legalną	legalny	adj:sg:acc:f:pos		
 legalną	legalny	adj:sg:inst:f:pos		
@@ -18536,34 +18536,34 @@ lekkomyślników	lekkomyślnik	subst:pl:acc:m1	pospolita	rzad.
 lekkomyślników	lekkomyślnik	subst:pl:gen:m1	pospolita	rzad.
 lekkomyślniku	lekkomyślnik	subst:sg:loc:m1	pospolita	rzad.
 lekkomyślniku	lekkomyślnik	subst:sg:voc:m1	pospolita	rzad.
-lekkomyślnościach	lekkomyślność:s1	subst:pl:loc:f	pospolita	
-lekkomyślnościami	lekkomyślność:s1	subst:pl:inst:f	pospolita	
-lekkomyślnością	lekkomyślność:s1	subst:sg:inst:f	pospolita	
-lekkomyślności	lekkomyślność:s1	subst:pl:acc:f	pospolita	
-lekkomyślności	lekkomyślność:s1	subst:pl:gen:f	pospolita	
-lekkomyślności	lekkomyślność:s1	subst:pl:nom:f	pospolita	
-lekkomyślności	lekkomyślność:s1	subst:pl:voc:f	pospolita	
-lekkomyślności	lekkomyślność:s1	subst:sg:dat:f	pospolita	
-lekkomyślności	lekkomyślność:s1	subst:sg:gen:f	pospolita	
-lekkomyślności	lekkomyślność:s1	subst:sg:loc:f	pospolita	
-lekkomyślności	lekkomyślność:s1	subst:sg:voc:f	pospolita	
-lekkomyślnościom	lekkomyślność:s1	subst:pl:dat:f	pospolita	
-lekkomyślność	lekkomyślność:s1	subst:sg:acc:f	pospolita	
-lekkomyślność	lekkomyślność:s1	subst:sg:nom:f	pospolita	
-lekkomyślnościach	lekkomyślność:s2	subst:pl:loc:f		
-lekkomyślnościami	lekkomyślność:s2	subst:pl:inst:f		
-lekkomyślnością	lekkomyślność:s2	subst:sg:inst:f		
-lekkomyślności	lekkomyślność:s2	subst:pl:acc:f		
-lekkomyślności	lekkomyślność:s2	subst:pl:gen:f		
-lekkomyślności	lekkomyślność:s2	subst:pl:nom:f		
-lekkomyślności	lekkomyślność:s2	subst:pl:voc:f		
-lekkomyślności	lekkomyślność:s2	subst:sg:dat:f		
-lekkomyślności	lekkomyślność:s2	subst:sg:gen:f		
-lekkomyślności	lekkomyślność:s2	subst:sg:loc:f		
-lekkomyślności	lekkomyślność:s2	subst:sg:voc:f		
-lekkomyślnościom	lekkomyślność:s2	subst:pl:dat:f		
-lekkomyślność	lekkomyślność:s2	subst:sg:acc:f		
-lekkomyślność	lekkomyślność:s2	subst:sg:nom:f		
+lekkomyślnościach	lekkomyślność:s	subst:pl:loc:f	pospolita	
+lekkomyślnościami	lekkomyślność:s	subst:pl:inst:f	pospolita	
+lekkomyślnością	lekkomyślność:s	subst:sg:inst:f	pospolita	
+lekkomyślności	lekkomyślność:s	subst:pl:acc:f	pospolita	
+lekkomyślności	lekkomyślność:s	subst:pl:gen:f	pospolita	
+lekkomyślności	lekkomyślność:s	subst:pl:nom:f	pospolita	
+lekkomyślności	lekkomyślność:s	subst:pl:voc:f	pospolita	
+lekkomyślności	lekkomyślność:s	subst:sg:dat:f	pospolita	
+lekkomyślności	lekkomyślność:s	subst:sg:gen:f	pospolita	
+lekkomyślności	lekkomyślność:s	subst:sg:loc:f	pospolita	
+lekkomyślności	lekkomyślność:s	subst:sg:voc:f	pospolita	
+lekkomyślnościom	lekkomyślność:s	subst:pl:dat:f	pospolita	
+lekkomyślność	lekkomyślność:s	subst:sg:acc:f	pospolita	
+lekkomyślność	lekkomyślność:s	subst:sg:nom:f	pospolita	
+lekkomyślnościach	lekkomyślność:s	subst:pl:loc:f		
+lekkomyślnościami	lekkomyślność:s	subst:pl:inst:f		
+lekkomyślnością	lekkomyślność:s	subst:sg:inst:f		
+lekkomyślności	lekkomyślność:s	subst:pl:acc:f		
+lekkomyślności	lekkomyślność:s	subst:pl:gen:f		
+lekkomyślności	lekkomyślność:s	subst:pl:nom:f		
+lekkomyślności	lekkomyślność:s	subst:pl:voc:f		
+lekkomyślności	lekkomyślność:s	subst:sg:dat:f		
+lekkomyślności	lekkomyślność:s	subst:sg:gen:f		
+lekkomyślności	lekkomyślność:s	subst:sg:loc:f		
+lekkomyślności	lekkomyślność:s	subst:sg:voc:f		
+lekkomyślnościom	lekkomyślność:s	subst:pl:dat:f		
+lekkomyślność	lekkomyślność:s	subst:sg:acc:f		
+lekkomyślność	lekkomyślność:s	subst:sg:nom:f		
 lekkomyślna	lekkomyślny	adj:sg:nom.voc:f:pos		
 lekkomyślną	lekkomyślny	adj:sg:acc:f:pos		
 lekkomyślną	lekkomyślny	adj:sg:inst:f:pos		
@@ -18826,34 +18826,34 @@ lekkostrawnymi	lekkostrawny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 lekkostrawnym	lekkostrawny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 lekkostrawnym	lekkostrawny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 lekkostrawnym	lekkostrawny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-lekkościach	lekkość:s1	subst:pl:loc:f	pospolita	
-lekkościami	lekkość:s1	subst:pl:inst:f	pospolita	
-lekkością	lekkość:s1	subst:sg:inst:f	pospolita	
-lekkości	lekkość:s1	subst:pl:acc:f	pospolita	
-lekkości	lekkość:s1	subst:pl:gen:f	pospolita	
-lekkości	lekkość:s1	subst:pl:nom:f	pospolita	
-lekkości	lekkość:s1	subst:pl:voc:f	pospolita	
-lekkości	lekkość:s1	subst:sg:dat:f	pospolita	
-lekkości	lekkość:s1	subst:sg:gen:f	pospolita	
-lekkości	lekkość:s1	subst:sg:loc:f	pospolita	
-lekkości	lekkość:s1	subst:sg:voc:f	pospolita	
-lekkościom	lekkość:s1	subst:pl:dat:f	pospolita	
-lekkość	lekkość:s1	subst:sg:acc:f	pospolita	
-lekkość	lekkość:s1	subst:sg:nom:f	pospolita	
-lekkościach	lekkość:s2	subst:pl:loc:f		
-lekkościami	lekkość:s2	subst:pl:inst:f		
-lekkością	lekkość:s2	subst:sg:inst:f		
-lekkości	lekkość:s2	subst:pl:acc:f		
-lekkości	lekkość:s2	subst:pl:gen:f		
-lekkości	lekkość:s2	subst:pl:nom:f		
-lekkości	lekkość:s2	subst:pl:voc:f		
-lekkości	lekkość:s2	subst:sg:dat:f		
-lekkości	lekkość:s2	subst:sg:gen:f		
-lekkości	lekkość:s2	subst:sg:loc:f		
-lekkości	lekkość:s2	subst:sg:voc:f		
-lekkościom	lekkość:s2	subst:pl:dat:f		
-lekkość	lekkość:s2	subst:sg:acc:f		
-lekkość	lekkość:s2	subst:sg:nom:f		
+lekkościach	lekkość:s	subst:pl:loc:f	pospolita	
+lekkościami	lekkość:s	subst:pl:inst:f	pospolita	
+lekkością	lekkość:s	subst:sg:inst:f	pospolita	
+lekkości	lekkość:s	subst:pl:acc:f	pospolita	
+lekkości	lekkość:s	subst:pl:gen:f	pospolita	
+lekkości	lekkość:s	subst:pl:nom:f	pospolita	
+lekkości	lekkość:s	subst:pl:voc:f	pospolita	
+lekkości	lekkość:s	subst:sg:dat:f	pospolita	
+lekkości	lekkość:s	subst:sg:gen:f	pospolita	
+lekkości	lekkość:s	subst:sg:loc:f	pospolita	
+lekkości	lekkość:s	subst:sg:voc:f	pospolita	
+lekkościom	lekkość:s	subst:pl:dat:f	pospolita	
+lekkość	lekkość:s	subst:sg:acc:f	pospolita	
+lekkość	lekkość:s	subst:sg:nom:f	pospolita	
+lekkościach	lekkość:s	subst:pl:loc:f		
+lekkościami	lekkość:s	subst:pl:inst:f		
+lekkością	lekkość:s	subst:sg:inst:f		
+lekkości	lekkość:s	subst:pl:acc:f		
+lekkości	lekkość:s	subst:pl:gen:f		
+lekkości	lekkość:s	subst:pl:nom:f		
+lekkości	lekkość:s	subst:pl:voc:f		
+lekkości	lekkość:s	subst:sg:dat:f		
+lekkości	lekkość:s	subst:sg:gen:f		
+lekkości	lekkość:s	subst:sg:loc:f		
+lekkości	lekkość:s	subst:sg:voc:f		
+lekkościom	lekkość:s	subst:pl:dat:f		
+lekkość	lekkość:s	subst:sg:acc:f		
+lekkość	lekkość:s	subst:sg:nom:f		
 lekkośrednia	lekkośredni	adj:sg:nom.voc:f:pos		
 lekkośrednią	lekkośredni	adj:sg:acc:f:pos		
 lekkośrednią	lekkośredni	adj:sg:inst:f:pos		
@@ -20187,35 +20187,35 @@ lektykariuszu	lektykariusz	subst:sg:voc:m1	pospolita	przest.
 lektykariuszy	lektykariusz	subst:pl:acc:m1	pospolita	przest.
 lektykariuszy	lektykariusz	subst:pl:gen:m1	pospolita	przest.
 lektykarzach	lektykarz	subst:pl:loc:m1	pospolita	przest.
-lektykarzach	lektykarz	subst:pl:loc:m1	pospolita	rzad.|przest.
+lektykarzach	lektykarz	subst:pl:loc:m1	pospolita	przest.|rzad.
 lektykarza	lektykarz	subst:sg:acc:m1	pospolita	przest.
-lektykarza	lektykarz	subst:sg:acc:m1	pospolita	rzad.|przest.
+lektykarza	lektykarz	subst:sg:acc:m1	pospolita	przest.|rzad.
 lektykarza	lektykarz	subst:sg:gen:m1	pospolita	przest.
-lektykarza	lektykarz	subst:sg:gen:m1	pospolita	rzad.|przest.
+lektykarza	lektykarz	subst:sg:gen:m1	pospolita	przest.|rzad.
 lektykarzami	lektykarz	subst:pl:inst:m1	pospolita	przest.
-lektykarzami	lektykarz	subst:pl:inst:m1	pospolita	rzad.|przest.
+lektykarzami	lektykarz	subst:pl:inst:m1	pospolita	przest.|rzad.
 lektykarze	lektykarz	depr:pl:nom:m2	pospolita	przest.
-lektykarze	lektykarz	depr:pl:nom:m2	pospolita	rzad.|przest.
+lektykarze	lektykarz	depr:pl:nom:m2	pospolita	przest.|rzad.
 lektykarze	lektykarz	depr:pl:voc:m2	pospolita	przest.
-lektykarze	lektykarz	depr:pl:voc:m2	pospolita	rzad.|przest.
+lektykarze	lektykarz	depr:pl:voc:m2	pospolita	przest.|rzad.
 lektykarze	lektykarz	subst:pl:nom:m1	pospolita	przest.
-lektykarze	lektykarz	subst:pl:nom:m1	pospolita	rzad.|przest.
+lektykarze	lektykarz	subst:pl:nom:m1	pospolita	przest.|rzad.
 lektykarze	lektykarz	subst:pl:voc:m1	pospolita	przest.
-lektykarze	lektykarz	subst:pl:voc:m1	pospolita	rzad.|przest.
+lektykarze	lektykarz	subst:pl:voc:m1	pospolita	przest.|rzad.
 lektykarzem	lektykarz	subst:sg:inst:m1	pospolita	przest.
-lektykarzem	lektykarz	subst:sg:inst:m1	pospolita	rzad.|przest.
+lektykarzem	lektykarz	subst:sg:inst:m1	pospolita	przest.|rzad.
 lektykarz	lektykarz	subst:sg:nom:m1	pospolita	przest.
-lektykarz	lektykarz	subst:sg:nom:m1	pospolita	rzad.|przest.
+lektykarz	lektykarz	subst:sg:nom:m1	pospolita	przest.|rzad.
 lektykarzom	lektykarz	subst:pl:dat:m1	pospolita	przest.
-lektykarzom	lektykarz	subst:pl:dat:m1	pospolita	rzad.|przest.
+lektykarzom	lektykarz	subst:pl:dat:m1	pospolita	przest.|rzad.
 lektykarzowi	lektykarz	subst:sg:dat:m1	pospolita	przest.
-lektykarzowi	lektykarz	subst:sg:dat:m1	pospolita	rzad.|przest.
-lektykarzów	lektykarz	subst:pl:acc:m1	pospolita	rzad.|przest.
-lektykarzów	lektykarz	subst:pl:gen:m1	pospolita	rzad.|przest.
+lektykarzowi	lektykarz	subst:sg:dat:m1	pospolita	przest.|rzad.
+lektykarzów	lektykarz	subst:pl:acc:m1	pospolita	przest.|rzad.
+lektykarzów	lektykarz	subst:pl:gen:m1	pospolita	przest.|rzad.
 lektykarzu	lektykarz	subst:sg:loc:m1	pospolita	przest.
-lektykarzu	lektykarz	subst:sg:loc:m1	pospolita	rzad.|przest.
+lektykarzu	lektykarz	subst:sg:loc:m1	pospolita	przest.|rzad.
 lektykarzu	lektykarz	subst:sg:voc:m1	pospolita	przest.
-lektykarzu	lektykarz	subst:sg:voc:m1	pospolita	rzad.|przest.
+lektykarzu	lektykarz	subst:sg:voc:m1	pospolita	przest.|rzad.
 lektykarzy	lektykarz	subst:pl:acc:m1	pospolita	przest.
 lektykarzy	lektykarz	subst:pl:gen:m1	pospolita	przest.
 lekuchno	lekuchno	adv:pos		
@@ -21010,34 +21010,58 @@ lenicji	lenicja	subst:sg:loc:f	pospolita
 lenicjo	lenicja	subst:sg:voc:f	pospolita	
 lenicjom	lenicja	subst:pl:dat:f	pospolita	
 lenicyj	lenicja	subst:pl:gen:f	pospolita	arch.|char.
-leniąca	lenić:v1	pact:sg:nom.voc:f:imperf:aff		
-leniącą	lenić:v1	pact:sg:acc.inst:f:imperf:aff		
-leniącego	lenić:v1	pact:sg:acc:m1.m2:imperf:aff		
-leniącego	lenić:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-leniącej	lenić:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-leniące	lenić:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-leniące	lenić:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-leniącemu	lenić:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+leniąca	lenić:v	pact:sg:nom.voc:f:imperf:aff		
+leniącą	lenić:v	pact:sg:acc.inst:f:imperf:aff		
+leniącego	lenić:v	pact:sg:acc:m1.m2:imperf:aff		
+leniącego	lenić:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+leniącej	lenić:v	pact:sg:gen.dat.loc:f:imperf:aff		
+leniące	lenić:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+leniące	lenić:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+leniącemu	lenić:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+leniących	lenić:v	pact:pl:acc:m1.p1:imperf:aff		
+leniących	lenić:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leniący	lenić:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+leniący	lenić:v	pact:sg:acc:m3:imperf:aff		
+leniący	lenić:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+leniącymi	lenić:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leniącym	lenić:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leniącym	lenić:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+lenienia	lenić:v	ger:pl:nom.acc:n2:imperf:aff		
+lenienia	lenić:v	ger:sg:gen:n2:imperf:aff		
+lenieniami	lenić:v	ger:pl:inst:n2:imperf:aff		
+lenienie	lenić:v	ger:sg:nom.acc:n2:imperf:aff		
+lenieniem	lenić:v	ger:sg:inst:n2:imperf:aff		
+lenieniom	lenić:v	ger:pl:dat.loc:n2:imperf:aff		
+lenieniu	lenić:v	ger:sg:dat.loc:n2:imperf:aff		
+lenień	lenić:v	ger:pl:gen:n2:imperf:aff		
+leniąca	lenić:v	pact:sg:nom.voc:f:imperf:aff		
+leniącą	lenić:v	pact:sg:acc.inst:f:imperf:aff		
+leniącego	lenić:v	pact:sg:acc:m1.m2:imperf:aff		
+leniącego	lenić:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+leniącej	lenić:v	pact:sg:gen.dat.loc:f:imperf:aff		
+leniące	lenić:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+leniące	lenić:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+leniącemu	lenić:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+leniących	lenić:v	pact:pl:acc:m1.p1:imperf:aff		
+leniących	lenić:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leniący	lenić:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+leniący	lenić:v	pact:sg:acc:m3:imperf:aff		
+leniący	lenić:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+leniącymi	lenić:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leniącym	lenić:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leniącym	lenić:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+lenienia	lenić:v	ger:pl:nom.acc:n2:imperf:aff		
+lenienia	lenić:v	ger:sg:gen:n2:imperf:aff		
+lenieniami	lenić:v	ger:pl:inst:n2:imperf:aff		
+lenienie	lenić:v	ger:sg:nom.acc:n2:imperf:aff		
+lenieniem	lenić:v	ger:sg:inst:n2:imperf:aff		
+lenieniom	lenić:v	ger:pl:dat.loc:n2:imperf:aff		
+lenieniu	lenić:v	ger:sg:dat.loc:n2:imperf:aff		
+lenień	lenić:v	ger:pl:gen:n2:imperf:aff		
 leniąc	lenić:v1	pcon:imperf		
-leniących	lenić:v1	pact:pl:acc:m1.p1:imperf:aff		
-leniących	lenić:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leniący	lenić:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-leniący	lenić:v1	pact:sg:acc:m3:imperf:aff		
-leniący	lenić:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-leniącymi	lenić:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leniącym	lenić:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leniącym	lenić:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 lenią	lenić:v1	fin:pl:ter:imperf		
 lenicie	lenić:v1	fin:pl:sec:imperf		
 lenić	lenić:v1	inf:imperf		
-lenienia	lenić:v1	ger:pl:nom.acc:n2:imperf:aff		
-lenienia	lenić:v1	ger:sg:gen:n2:imperf:aff		
-lenieniami	lenić:v1	ger:pl:inst:n2:imperf:aff		
-lenienie	lenić:v1	ger:sg:nom.acc:n2:imperf:aff		
-lenieniem	lenić:v1	ger:sg:inst:n2:imperf:aff		
-lenieniom	lenić:v1	ger:pl:dat.loc:n2:imperf:aff		
-lenieniu	lenić:v1	ger:sg:dat.loc:n2:imperf:aff		
-lenień	lenić:v1	ger:pl:gen:n2:imperf:aff		
 lenię	lenić:v1	fin:sg:pri:imperf		
 leni	lenić:v1	fin:sg:ter:imperf		
 leniliby	lenić:v1	cond:pl:m1.p1:ter:imperf		
@@ -21081,34 +21105,10 @@ lenisz	lenić:v1	fin:sg:sec:imperf
 leńcie	lenić:v1	impt:pl:sec:imperf		
 leń	lenić:v1	impt:sg:sec:imperf		
 leńmy	lenić:v1	impt:pl:pri:imperf		
-leniąca	lenić:v2	pact:sg:nom.voc:f:imperf:aff		
-leniącą	lenić:v2	pact:sg:acc.inst:f:imperf:aff		
-leniącego	lenić:v2	pact:sg:acc:m1.m2:imperf:aff		
-leniącego	lenić:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-leniącej	lenić:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-leniące	lenić:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-leniące	lenić:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-leniącemu	lenić:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 leniąc	lenić:v2	pcon:imperf		
-leniących	lenić:v2	pact:pl:acc:m1.p1:imperf:aff		
-leniących	lenić:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leniący	lenić:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-leniący	lenić:v2	pact:sg:acc:m3:imperf:aff		
-leniący	lenić:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-leniącymi	lenić:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leniącym	lenić:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leniącym	lenić:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 lenią	lenić:v2	fin:pl:ter:imperf		
 lenicie	lenić:v2	fin:pl:sec:imperf		
 lenić	lenić:v2	inf:imperf		
-lenienia	lenić:v2	ger:pl:nom.acc:n2:imperf:aff		
-lenienia	lenić:v2	ger:sg:gen:n2:imperf:aff		
-lenieniami	lenić:v2	ger:pl:inst:n2:imperf:aff		
-lenienie	lenić:v2	ger:sg:nom.acc:n2:imperf:aff		
-lenieniem	lenić:v2	ger:sg:inst:n2:imperf:aff		
-lenieniom	lenić:v2	ger:pl:dat.loc:n2:imperf:aff		
-lenieniu	lenić:v2	ger:sg:dat.loc:n2:imperf:aff		
-lenień	lenić:v2	ger:pl:gen:n2:imperf:aff		
 lenię	lenić:v2	fin:sg:pri:imperf		
 leni	lenić:v2	fin:sg:ter:imperf		
 leniliby	lenić:v2	cond:pl:m1.p1:ter:imperf		
@@ -22752,34 +22752,34 @@ lepkościowymi	lepkościowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 lepkościowym	lepkościowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 lepkościowym	lepkościowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 lepkościowym	lepkościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-lepkościach	lepkość:s1	subst:pl:loc:f	pospolita	
-lepkościami	lepkość:s1	subst:pl:inst:f	pospolita	
-lepkością	lepkość:s1	subst:sg:inst:f	pospolita	
-lepkości	lepkość:s1	subst:pl:acc:f	pospolita	
-lepkości	lepkość:s1	subst:pl:gen:f	pospolita	
-lepkości	lepkość:s1	subst:pl:nom:f	pospolita	
-lepkości	lepkość:s1	subst:pl:voc:f	pospolita	
-lepkości	lepkość:s1	subst:sg:dat:f	pospolita	
-lepkości	lepkość:s1	subst:sg:gen:f	pospolita	
-lepkości	lepkość:s1	subst:sg:loc:f	pospolita	
-lepkości	lepkość:s1	subst:sg:voc:f	pospolita	
-lepkościom	lepkość:s1	subst:pl:dat:f	pospolita	
-lepkość	lepkość:s1	subst:sg:acc:f	pospolita	
-lepkość	lepkość:s1	subst:sg:nom:f	pospolita	
-lepkościach	lepkość:s2	subst:pl:loc:f		
-lepkościami	lepkość:s2	subst:pl:inst:f		
-lepkością	lepkość:s2	subst:sg:inst:f		
-lepkości	lepkość:s2	subst:pl:acc:f		
-lepkości	lepkość:s2	subst:pl:gen:f		
-lepkości	lepkość:s2	subst:pl:nom:f		
-lepkości	lepkość:s2	subst:pl:voc:f		
-lepkości	lepkość:s2	subst:sg:dat:f		
-lepkości	lepkość:s2	subst:sg:gen:f		
-lepkości	lepkość:s2	subst:sg:loc:f		
-lepkości	lepkość:s2	subst:sg:voc:f		
-lepkościom	lepkość:s2	subst:pl:dat:f		
-lepkość	lepkość:s2	subst:sg:acc:f		
-lepkość	lepkość:s2	subst:sg:nom:f		
+lepkościach	lepkość:s	subst:pl:loc:f	pospolita	
+lepkościami	lepkość:s	subst:pl:inst:f	pospolita	
+lepkością	lepkość:s	subst:sg:inst:f	pospolita	
+lepkości	lepkość:s	subst:pl:acc:f	pospolita	
+lepkości	lepkość:s	subst:pl:gen:f	pospolita	
+lepkości	lepkość:s	subst:pl:nom:f	pospolita	
+lepkości	lepkość:s	subst:pl:voc:f	pospolita	
+lepkości	lepkość:s	subst:sg:dat:f	pospolita	
+lepkości	lepkość:s	subst:sg:gen:f	pospolita	
+lepkości	lepkość:s	subst:sg:loc:f	pospolita	
+lepkości	lepkość:s	subst:sg:voc:f	pospolita	
+lepkościom	lepkość:s	subst:pl:dat:f	pospolita	
+lepkość	lepkość:s	subst:sg:acc:f	pospolita	
+lepkość	lepkość:s	subst:sg:nom:f	pospolita	
+lepkościach	lepkość:s	subst:pl:loc:f		
+lepkościami	lepkość:s	subst:pl:inst:f		
+lepkością	lepkość:s	subst:sg:inst:f		
+lepkości	lepkość:s	subst:pl:acc:f		
+lepkości	lepkość:s	subst:pl:gen:f		
+lepkości	lepkość:s	subst:pl:nom:f		
+lepkości	lepkość:s	subst:pl:voc:f		
+lepkości	lepkość:s	subst:sg:dat:f		
+lepkości	lepkość:s	subst:sg:gen:f		
+lepkości	lepkość:s	subst:sg:loc:f		
+lepkości	lepkość:s	subst:sg:voc:f		
+lepkościom	lepkość:s	subst:pl:dat:f		
+lepkość	lepkość:s	subst:sg:acc:f		
+lepkość	lepkość:s	subst:sg:nom:f		
 lepliwościach	lepliwość	subst:pl:loc:f		
 lepliwościami	lepliwość	subst:pl:inst:f		
 lepliwością	lepliwość	subst:sg:inst:f		
@@ -24967,44 +24967,44 @@ letniskowymi	letniskowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 letniskowym	letniskowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 letniskowym	letniskowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 letniskowym	letniskowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-letnościach	letność	subst:pl:loc:f		daw. dziś gwar.
-letnościami	letność	subst:pl:inst:f		daw. dziś gwar.
-letnością	letność	subst:sg:inst:f		daw. dziś gwar.
-letności	letność	subst:pl:acc:f		daw. dziś gwar.
-letności	letność	subst:pl:gen:f		daw. dziś gwar.
-letności	letność	subst:pl:nom:f		daw. dziś gwar.
-letności	letność	subst:pl:voc:f		daw. dziś gwar.
-letności	letność	subst:sg:dat:f		daw. dziś gwar.
-letności	letność	subst:sg:gen:f		daw. dziś gwar.
-letności	letność	subst:sg:loc:f		daw. dziś gwar.
-letności	letność	subst:sg:voc:f		daw. dziś gwar.
-letnościom	letność	subst:pl:dat:f		daw. dziś gwar.
-letność	letność	subst:sg:acc:f		daw. dziś gwar.
-letność	letność	subst:sg:nom:f		daw. dziś gwar.
-letna	letny	adj:sg:nom.voc:f:pos		daw. dziś gwar.
-letną	letny	adj:sg:acc:f:pos		daw. dziś gwar.
-letną	letny	adj:sg:inst:f:pos		daw. dziś gwar.
-letnego	letny	adj:sg:acc:m1.m2:pos		daw. dziś gwar.
-letnego	letny	adj:sg:gen:m1.m2.m3.n1.n2:pos		daw. dziś gwar.
-letnej	letny	adj:sg:dat:f:pos		daw. dziś gwar.
-letnej	letny	adj:sg:gen:f:pos		daw. dziś gwar.
-letnej	letny	adj:sg:loc:f:pos		daw. dziś gwar.
-letne	letny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		daw. dziś gwar.
-letne	letny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		daw. dziś gwar.
-letne	letny	adj:sg:acc:n1.n2:pos		daw. dziś gwar.
-letne	letny	adj:sg:nom.voc:n1.n2:pos		daw. dziś gwar.
-letnemu	letny	adj:sg:dat:m1.m2.m3.n1.n2:pos		daw. dziś gwar.
-letni	letny	adj:pl:nom.voc:m1.p1:pos		daw. dziś gwar.
-letno	letny	adja		daw. dziś gwar.
-letnych	letny	adj:pl:acc:m1.p1:pos		daw. dziś gwar.
-letnych	letny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw. dziś gwar.
-letnych	letny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw. dziś gwar.
-letny	letny	adj:sg:acc:m3:pos		daw. dziś gwar.
-letny	letny	adj:sg:nom.voc:m1.m2.m3:pos		daw. dziś gwar.
-letnymi	letny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw. dziś gwar.
-letnym	letny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw. dziś gwar.
-letnym	letny	adj:sg:inst:m1.m2.m3.n1.n2:pos		daw. dziś gwar.
-letnym	letny	adj:sg:loc:m1.m2.m3.n1.n2:pos		daw. dziś gwar.
+letnościach	letność	subst:pl:loc:f		daw._dziś_gwar.
+letnościami	letność	subst:pl:inst:f		daw._dziś_gwar.
+letnością	letność	subst:sg:inst:f		daw._dziś_gwar.
+letności	letność	subst:pl:acc:f		daw._dziś_gwar.
+letności	letność	subst:pl:gen:f		daw._dziś_gwar.
+letności	letność	subst:pl:nom:f		daw._dziś_gwar.
+letności	letność	subst:pl:voc:f		daw._dziś_gwar.
+letności	letność	subst:sg:dat:f		daw._dziś_gwar.
+letności	letność	subst:sg:gen:f		daw._dziś_gwar.
+letności	letność	subst:sg:loc:f		daw._dziś_gwar.
+letności	letność	subst:sg:voc:f		daw._dziś_gwar.
+letnościom	letność	subst:pl:dat:f		daw._dziś_gwar.
+letność	letność	subst:sg:acc:f		daw._dziś_gwar.
+letność	letność	subst:sg:nom:f		daw._dziś_gwar.
+letna	letny	adj:sg:nom.voc:f:pos		daw._dziś_gwar.
+letną	letny	adj:sg:acc:f:pos		daw._dziś_gwar.
+letną	letny	adj:sg:inst:f:pos		daw._dziś_gwar.
+letnego	letny	adj:sg:acc:m1.m2:pos		daw._dziś_gwar.
+letnego	letny	adj:sg:gen:m1.m2.m3.n1.n2:pos		daw._dziś_gwar.
+letnej	letny	adj:sg:dat:f:pos		daw._dziś_gwar.
+letnej	letny	adj:sg:gen:f:pos		daw._dziś_gwar.
+letnej	letny	adj:sg:loc:f:pos		daw._dziś_gwar.
+letne	letny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		daw._dziś_gwar.
+letne	letny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		daw._dziś_gwar.
+letne	letny	adj:sg:acc:n1.n2:pos		daw._dziś_gwar.
+letne	letny	adj:sg:nom.voc:n1.n2:pos		daw._dziś_gwar.
+letnemu	letny	adj:sg:dat:m1.m2.m3.n1.n2:pos		daw._dziś_gwar.
+letni	letny	adj:pl:nom.voc:m1.p1:pos		daw._dziś_gwar.
+letno	letny	adja		daw._dziś_gwar.
+letnych	letny	adj:pl:acc:m1.p1:pos		daw._dziś_gwar.
+letnych	letny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw._dziś_gwar.
+letnych	letny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw._dziś_gwar.
+letny	letny	adj:sg:acc:m3:pos		daw._dziś_gwar.
+letny	letny	adj:sg:nom.voc:m1.m2.m3:pos		daw._dziś_gwar.
+letnymi	letny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw._dziś_gwar.
+letnym	letny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw._dziś_gwar.
+letnym	letny	adj:sg:inst:m1.m2.m3.n1.n2:pos		daw._dziś_gwar.
+letnym	letny	adj:sg:loc:m1.m2.m3.n1.n2:pos		daw._dziś_gwar.
 leucynach	leucyna	subst:pl:loc:f	pospolita	
 leucyna	leucyna	subst:sg:nom:f	pospolita	
 leucynami	leucyna	subst:pl:inst:f	pospolita	
@@ -26738,7 +26738,7 @@ lezje	lezja	subst:pl:acc:f	pospolita	daw.
 lezje	lezja	subst:pl:nom:f	pospolita	daw.
 lezje	lezja	subst:pl:voc:f	pospolita	daw.
 lezję	lezja	subst:sg:acc:f	pospolita	daw.
-lezji	lezja	subst:pl:gen:f	pospolita	daw.|hom.
+lezji	lezja	subst:pl:gen:f	pospolita	hom.|daw.
 lezji	lezja	subst:sg:dat:f	pospolita	daw.
 lezji	lezja	subst:sg:gen:f	pospolita	daw.
 lezji	lezja	subst:sg:loc:f	pospolita	daw.
@@ -26898,6 +26898,70 @@ leżakowi	leżak	subst:sg:dat:m3	pospolita
 leżaków	leżak	subst:pl:gen:m3	pospolita	
 leżaku	leżak	subst:sg:loc:m3	pospolita	
 leżaku	leżak	subst:sg:voc:m3	pospolita	
+leżakowania	leżakować:v	ger:pl:nom.acc:n2:imperf:aff		
+leżakowania	leżakować:v	ger:sg:gen:n2:imperf:aff		
+leżakowaniami	leżakować:v	ger:pl:inst:n2:imperf:aff		
+leżakowanie	leżakować:v	ger:sg:nom.acc:n2:imperf:aff		
+leżakowaniem	leżakować:v	ger:sg:inst:n2:imperf:aff		
+leżakowaniom	leżakować:v	ger:pl:dat.loc:n2:imperf:aff		
+leżakowaniu	leżakować:v	ger:sg:dat.loc:n2:imperf:aff		
+leżakowań	leżakować:v	ger:pl:gen:n2:imperf:aff		
+leżakująca	leżakować:v	pact:sg:nom.voc:f:imperf:aff		
+leżakującą	leżakować:v	pact:sg:acc.inst:f:imperf:aff		
+leżakującego	leżakować:v	pact:sg:acc:m1.m2:imperf:aff		
+leżakującego	leżakować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+leżakującej	leżakować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+leżakujące	leżakować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+leżakujące	leżakować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+leżakującemu	leżakować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+leżakujących	leżakować:v	pact:pl:acc:m1.p1:imperf:aff		
+leżakujących	leżakować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leżakujący	leżakować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+leżakujący	leżakować:v	pact:sg:acc:m3:imperf:aff		
+leżakujący	leżakować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+leżakującymi	leżakować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leżakującym	leżakować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leżakującym	leżakować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+leżakowana	leżakować:v	ppas:sg:nom.voc:f:imperf:aff		
+leżakowaną	leżakować:v	ppas:sg:acc.inst:f:imperf:aff		
+leżakowanego	leżakować:v	ppas:sg:acc:m1.m2:imperf:aff		
+leżakowanego	leżakować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+leżakowanej	leżakować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+leżakowane	leżakować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+leżakowane	leżakować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+leżakowanemu	leżakować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+leżakowania	leżakować:v	ger:pl:nom.acc:n2:imperf:aff		
+leżakowania	leżakować:v	ger:sg:gen:n2:imperf:aff		
+leżakowaniami	leżakować:v	ger:pl:inst:n2:imperf:aff		
+leżakowanie	leżakować:v	ger:sg:nom.acc:n2:imperf:aff		
+leżakowaniem	leżakować:v	ger:sg:inst:n2:imperf:aff		
+leżakowani	leżakować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+leżakowaniom	leżakować:v	ger:pl:dat.loc:n2:imperf:aff		
+leżakowaniu	leżakować:v	ger:sg:dat.loc:n2:imperf:aff		
+leżakowanych	leżakować:v	ppas:pl:acc:m1.p1:imperf:aff		
+leżakowanych	leżakować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leżakowany	leżakować:v	ppas:sg:acc:m3:imperf:aff		
+leżakowany	leżakować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+leżakowanymi	leżakować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leżakowanym	leżakować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leżakowanym	leżakować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+leżakowań	leżakować:v	ger:pl:gen:n2:imperf:aff		
+leżakująca	leżakować:v	pact:sg:nom.voc:f:imperf:aff		
+leżakującą	leżakować:v	pact:sg:acc.inst:f:imperf:aff		
+leżakującego	leżakować:v	pact:sg:acc:m1.m2:imperf:aff		
+leżakującego	leżakować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+leżakującej	leżakować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+leżakujące	leżakować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+leżakujące	leżakować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+leżakującemu	leżakować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+leżakujących	leżakować:v	pact:pl:acc:m1.p1:imperf:aff		
+leżakujących	leżakować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leżakujący	leżakować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+leżakujący	leżakować:v	pact:sg:acc:m3:imperf:aff		
+leżakujący	leżakować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+leżakującymi	leżakować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leżakującym	leżakować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+leżakującym	leżakować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 leżakować	leżakować:v1	inf:imperf		
 leżakowaliby	leżakować:v1	cond:pl:m1.p1:ter:imperf		
 leżakowalibyście	leżakować:v1	cond:pl:m1.p1:sec:imperf		
@@ -26934,32 +26998,8 @@ leżakowały	leżakować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 leżakowały	leżakować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 leżakowałyście	leżakować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 leżakowałyśmy	leżakować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-leżakowania	leżakować:v1	ger:pl:nom.acc:n2:imperf:aff		
-leżakowania	leżakować:v1	ger:sg:gen:n2:imperf:aff		
-leżakowaniami	leżakować:v1	ger:pl:inst:n2:imperf:aff		
-leżakowanie	leżakować:v1	ger:sg:nom.acc:n2:imperf:aff		
-leżakowaniem	leżakować:v1	ger:sg:inst:n2:imperf:aff		
-leżakowaniom	leżakować:v1	ger:pl:dat.loc:n2:imperf:aff		
-leżakowaniu	leżakować:v1	ger:sg:dat.loc:n2:imperf:aff		
 leżakowano	leżakować:v1	imps:imperf		
-leżakowań	leżakować:v1	ger:pl:gen:n2:imperf:aff		
-leżakująca	leżakować:v1	pact:sg:nom.voc:f:imperf:aff		
-leżakującą	leżakować:v1	pact:sg:acc.inst:f:imperf:aff		
-leżakującego	leżakować:v1	pact:sg:acc:m1.m2:imperf:aff		
-leżakującego	leżakować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-leżakującej	leżakować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-leżakujące	leżakować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-leżakujące	leżakować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-leżakującemu	leżakować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 leżakując	leżakować:v1	pcon:imperf		
-leżakujących	leżakować:v1	pact:pl:acc:m1.p1:imperf:aff		
-leżakujących	leżakować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leżakujący	leżakować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-leżakujący	leżakować:v1	pact:sg:acc:m3:imperf:aff		
-leżakujący	leżakować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-leżakującymi	leżakować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leżakującym	leżakować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leżakującym	leżakować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 leżakują	leżakować:v1	fin:pl:ter:imperf		
 leżakujcie	leżakować:v1	impt:pl:sec:imperf		
 leżakujecie	leżakować:v1	fin:pl:sec:imperf		
@@ -27005,48 +27045,8 @@ leżakowały	leżakować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 leżakowały	leżakować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 leżakowałyście	leżakować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 leżakowałyśmy	leżakować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-leżakowana	leżakować:v2	ppas:sg:nom.voc:f:imperf:aff		
-leżakowaną	leżakować:v2	ppas:sg:acc.inst:f:imperf:aff		
-leżakowanego	leżakować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-leżakowanego	leżakować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-leżakowanej	leżakować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-leżakowane	leżakować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-leżakowane	leżakować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-leżakowanemu	leżakować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-leżakowania	leżakować:v2	ger:pl:nom.acc:n2:imperf:aff		
-leżakowania	leżakować:v2	ger:sg:gen:n2:imperf:aff		
-leżakowaniami	leżakować:v2	ger:pl:inst:n2:imperf:aff		
-leżakowanie	leżakować:v2	ger:sg:nom.acc:n2:imperf:aff		
-leżakowaniem	leżakować:v2	ger:sg:inst:n2:imperf:aff		
-leżakowani	leżakować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-leżakowaniom	leżakować:v2	ger:pl:dat.loc:n2:imperf:aff		
-leżakowaniu	leżakować:v2	ger:sg:dat.loc:n2:imperf:aff		
 leżakowano	leżakować:v2	imps:imperf		
-leżakowanych	leżakować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-leżakowanych	leżakować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leżakowany	leżakować:v2	ppas:sg:acc:m3:imperf:aff		
-leżakowany	leżakować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-leżakowanymi	leżakować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leżakowanym	leżakować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leżakowanym	leżakować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-leżakowań	leżakować:v2	ger:pl:gen:n2:imperf:aff		
-leżakująca	leżakować:v2	pact:sg:nom.voc:f:imperf:aff		
-leżakującą	leżakować:v2	pact:sg:acc.inst:f:imperf:aff		
-leżakującego	leżakować:v2	pact:sg:acc:m1.m2:imperf:aff		
-leżakującego	leżakować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-leżakującej	leżakować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-leżakujące	leżakować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-leżakujące	leżakować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-leżakującemu	leżakować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 leżakując	leżakować:v2	pcon:imperf		
-leżakujących	leżakować:v2	pact:pl:acc:m1.p1:imperf:aff		
-leżakujących	leżakować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leżakujący	leżakować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-leżakujący	leżakować:v2	pact:sg:acc:m3:imperf:aff		
-leżakujący	leżakować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-leżakującymi	leżakować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leżakującym	leżakować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-leżakującym	leżakować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 leżakują	leżakować:v2	fin:pl:ter:imperf		
 leżakujcie	leżakować:v2	impt:pl:sec:imperf		
 leżakujecie	leżakować:v2	fin:pl:sec:imperf		
@@ -27821,34 +27821,34 @@ lękań	lękać	ger:pl:gen:n2:imperf:aff
 lękasz	lękać	fin:sg:sec:imperf		
 lękliwiej	lękliwie	adv:com		
 lękliwie	lękliwie	adv:pos		
-lękliwościach	lękliwość:s1	subst:pl:loc:f	pospolita	
-lękliwościami	lękliwość:s1	subst:pl:inst:f	pospolita	
-lękliwością	lękliwość:s1	subst:sg:inst:f	pospolita	
-lękliwości	lękliwość:s1	subst:pl:acc:f	pospolita	
-lękliwości	lękliwość:s1	subst:pl:gen:f	pospolita	
-lękliwości	lękliwość:s1	subst:pl:nom:f	pospolita	
-lękliwości	lękliwość:s1	subst:pl:voc:f	pospolita	
-lękliwości	lękliwość:s1	subst:sg:dat:f	pospolita	
-lękliwości	lękliwość:s1	subst:sg:gen:f	pospolita	
-lękliwości	lękliwość:s1	subst:sg:loc:f	pospolita	
-lękliwości	lękliwość:s1	subst:sg:voc:f	pospolita	
-lękliwościom	lękliwość:s1	subst:pl:dat:f	pospolita	
-lękliwość	lękliwość:s1	subst:sg:acc:f	pospolita	
-lękliwość	lękliwość:s1	subst:sg:nom:f	pospolita	
-lękliwościach	lękliwość:s2	subst:pl:loc:f		
-lękliwościami	lękliwość:s2	subst:pl:inst:f		
-lękliwością	lękliwość:s2	subst:sg:inst:f		
-lękliwości	lękliwość:s2	subst:pl:acc:f		
-lękliwości	lękliwość:s2	subst:pl:gen:f		
-lękliwości	lękliwość:s2	subst:pl:nom:f		
-lękliwości	lękliwość:s2	subst:pl:voc:f		
-lękliwości	lękliwość:s2	subst:sg:dat:f		
-lękliwości	lękliwość:s2	subst:sg:gen:f		
-lękliwości	lękliwość:s2	subst:sg:loc:f		
-lękliwości	lękliwość:s2	subst:sg:voc:f		
-lękliwościom	lękliwość:s2	subst:pl:dat:f		
-lękliwość	lękliwość:s2	subst:sg:acc:f		
-lękliwość	lękliwość:s2	subst:sg:nom:f		
+lękliwościach	lękliwość:s	subst:pl:loc:f	pospolita	
+lękliwościami	lękliwość:s	subst:pl:inst:f	pospolita	
+lękliwością	lękliwość:s	subst:sg:inst:f	pospolita	
+lękliwości	lękliwość:s	subst:pl:acc:f	pospolita	
+lękliwości	lękliwość:s	subst:pl:gen:f	pospolita	
+lękliwości	lękliwość:s	subst:pl:nom:f	pospolita	
+lękliwości	lękliwość:s	subst:pl:voc:f	pospolita	
+lękliwości	lękliwość:s	subst:sg:dat:f	pospolita	
+lękliwości	lękliwość:s	subst:sg:gen:f	pospolita	
+lękliwości	lękliwość:s	subst:sg:loc:f	pospolita	
+lękliwości	lękliwość:s	subst:sg:voc:f	pospolita	
+lękliwościom	lękliwość:s	subst:pl:dat:f	pospolita	
+lękliwość	lękliwość:s	subst:sg:acc:f	pospolita	
+lękliwość	lękliwość:s	subst:sg:nom:f	pospolita	
+lękliwościach	lękliwość:s	subst:pl:loc:f		
+lękliwościami	lękliwość:s	subst:pl:inst:f		
+lękliwością	lękliwość:s	subst:sg:inst:f		
+lękliwości	lękliwość:s	subst:pl:acc:f		
+lękliwości	lękliwość:s	subst:pl:gen:f		
+lękliwości	lękliwość:s	subst:pl:nom:f		
+lękliwości	lękliwość:s	subst:pl:voc:f		
+lękliwości	lękliwość:s	subst:sg:dat:f		
+lękliwości	lękliwość:s	subst:sg:gen:f		
+lękliwości	lękliwość:s	subst:sg:loc:f		
+lękliwości	lękliwość:s	subst:sg:voc:f		
+lękliwościom	lękliwość:s	subst:pl:dat:f		
+lękliwość	lękliwość:s	subst:sg:acc:f		
+lękliwość	lękliwość:s	subst:sg:nom:f		
 lękliwa	lękliwy	adj:sg:nom.voc:f:pos		
 lękliwą	lękliwy	adj:sg:acc:f:pos		
 lękliwą	lękliwy	adj:sg:inst:f:pos		
@@ -30729,6 +30729,70 @@ licom	lico	subst:pl:dat:n2	pospolita
 liców	lico	subst:pl:gen:n2	pospolita	
 licu	lico	subst:sg:dat:n2	pospolita	
 licu	lico	subst:sg:loc:n2	pospolita	
+licowania	licować:v	ger:pl:nom.acc:n2:imperf:aff		
+licowania	licować:v	ger:sg:gen:n2:imperf:aff		
+licowaniami	licować:v	ger:pl:inst:n2:imperf:aff		
+licowanie	licować:v	ger:sg:nom.acc:n2:imperf:aff		
+licowaniem	licować:v	ger:sg:inst:n2:imperf:aff		
+licowaniom	licować:v	ger:pl:dat.loc:n2:imperf:aff		
+licowaniu	licować:v	ger:sg:dat.loc:n2:imperf:aff		
+licowań	licować:v	ger:pl:gen:n2:imperf:aff		
+licująca	licować:v	pact:sg:nom.voc:f:imperf:aff		
+licującą	licować:v	pact:sg:acc.inst:f:imperf:aff		
+licującego	licować:v	pact:sg:acc:m1.m2:imperf:aff		
+licującego	licować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+licującej	licować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+licujące	licować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+licujące	licować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+licującemu	licować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+licujących	licować:v	pact:pl:acc:m1.p1:imperf:aff		
+licujących	licować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+licujący	licować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+licujący	licować:v	pact:sg:acc:m3:imperf:aff		
+licujący	licować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+licującymi	licować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+licującym	licować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+licującym	licować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+licowana	licować:v	ppas:sg:nom.voc:f:imperf:aff		
+licowaną	licować:v	ppas:sg:acc.inst:f:imperf:aff		
+licowanego	licować:v	ppas:sg:acc:m1.m2:imperf:aff		
+licowanego	licować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+licowanej	licować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+licowane	licować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+licowane	licować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+licowanemu	licować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+licowania	licować:v	ger:pl:nom.acc:n2:imperf:aff		
+licowania	licować:v	ger:sg:gen:n2:imperf:aff		
+licowaniami	licować:v	ger:pl:inst:n2:imperf:aff		
+licowanie	licować:v	ger:sg:nom.acc:n2:imperf:aff		
+licowaniem	licować:v	ger:sg:inst:n2:imperf:aff		
+licowani	licować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+licowaniom	licować:v	ger:pl:dat.loc:n2:imperf:aff		
+licowaniu	licować:v	ger:sg:dat.loc:n2:imperf:aff		
+licowanych	licować:v	ppas:pl:acc:m1.p1:imperf:aff		
+licowanych	licować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+licowany	licować:v	ppas:sg:acc:m3:imperf:aff		
+licowany	licować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+licowanymi	licować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+licowanym	licować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+licowanym	licować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+licowań	licować:v	ger:pl:gen:n2:imperf:aff		
+licująca	licować:v	pact:sg:nom.voc:f:imperf:aff		
+licującą	licować:v	pact:sg:acc.inst:f:imperf:aff		
+licującego	licować:v	pact:sg:acc:m1.m2:imperf:aff		
+licującego	licować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+licującej	licować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+licujące	licować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+licujące	licować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+licującemu	licować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+licujących	licować:v	pact:pl:acc:m1.p1:imperf:aff		
+licujących	licować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+licujący	licować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+licujący	licować:v	pact:sg:acc:m3:imperf:aff		
+licujący	licować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+licującymi	licować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+licującym	licować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+licującym	licować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 licować	licować:v1	inf:imperf		
 licowaliby	licować:v1	cond:pl:m1.p1:ter:imperf		
 licowalibyście	licować:v1	cond:pl:m1.p1:sec:imperf		
@@ -30765,32 +30829,8 @@ licowały	licować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 licowały	licować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 licowałyście	licować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 licowałyśmy	licować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-licowania	licować:v1	ger:pl:nom.acc:n2:imperf:aff		
-licowania	licować:v1	ger:sg:gen:n2:imperf:aff		
-licowaniami	licować:v1	ger:pl:inst:n2:imperf:aff		
-licowanie	licować:v1	ger:sg:nom.acc:n2:imperf:aff		
-licowaniem	licować:v1	ger:sg:inst:n2:imperf:aff		
-licowaniom	licować:v1	ger:pl:dat.loc:n2:imperf:aff		
-licowaniu	licować:v1	ger:sg:dat.loc:n2:imperf:aff		
 licowano	licować:v1	imps:imperf		
-licowań	licować:v1	ger:pl:gen:n2:imperf:aff		
-licująca	licować:v1	pact:sg:nom.voc:f:imperf:aff		
-licującą	licować:v1	pact:sg:acc.inst:f:imperf:aff		
-licującego	licować:v1	pact:sg:acc:m1.m2:imperf:aff		
-licującego	licować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-licującej	licować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-licujące	licować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-licujące	licować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-licującemu	licować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 licując	licować:v1	pcon:imperf		
-licujących	licować:v1	pact:pl:acc:m1.p1:imperf:aff		
-licujących	licować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-licujący	licować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-licujący	licować:v1	pact:sg:acc:m3:imperf:aff		
-licujący	licować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-licującymi	licować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-licującym	licować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-licującym	licować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 licują	licować:v1	fin:pl:ter:imperf		
 licujcie	licować:v1	impt:pl:sec:imperf		
 licujecie	licować:v1	fin:pl:sec:imperf		
@@ -30836,48 +30876,8 @@ licowały	licować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 licowały	licować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 licowałyście	licować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 licowałyśmy	licować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-licowana	licować:v2	ppas:sg:nom.voc:f:imperf:aff		
-licowaną	licować:v2	ppas:sg:acc.inst:f:imperf:aff		
-licowanego	licować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-licowanego	licować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-licowanej	licować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-licowane	licować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-licowane	licować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-licowanemu	licować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-licowania	licować:v2	ger:pl:nom.acc:n2:imperf:aff		
-licowania	licować:v2	ger:sg:gen:n2:imperf:aff		
-licowaniami	licować:v2	ger:pl:inst:n2:imperf:aff		
-licowanie	licować:v2	ger:sg:nom.acc:n2:imperf:aff		
-licowaniem	licować:v2	ger:sg:inst:n2:imperf:aff		
-licowani	licować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-licowaniom	licować:v2	ger:pl:dat.loc:n2:imperf:aff		
-licowaniu	licować:v2	ger:sg:dat.loc:n2:imperf:aff		
 licowano	licować:v2	imps:imperf		
-licowanych	licować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-licowanych	licować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-licowany	licować:v2	ppas:sg:acc:m3:imperf:aff		
-licowany	licować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-licowanymi	licować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-licowanym	licować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-licowanym	licować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-licowań	licować:v2	ger:pl:gen:n2:imperf:aff		
-licująca	licować:v2	pact:sg:nom.voc:f:imperf:aff		
-licującą	licować:v2	pact:sg:acc.inst:f:imperf:aff		
-licującego	licować:v2	pact:sg:acc:m1.m2:imperf:aff		
-licującego	licować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-licującej	licować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-licujące	licować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-licujące	licować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-licującemu	licować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 licując	licować:v2	pcon:imperf		
-licujących	licować:v2	pact:pl:acc:m1.p1:imperf:aff		
-licujących	licować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-licujący	licować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-licujący	licować:v2	pact:sg:acc:m3:imperf:aff		
-licujący	licować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-licującymi	licować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-licującym	licować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-licującym	licować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 licują	licować:v2	fin:pl:ter:imperf		
 licujcie	licować:v2	impt:pl:sec:imperf		
 licujecie	licować:v2	fin:pl:sec:imperf		
@@ -31454,34 +31454,34 @@ liczebnikowymi	liczebnikowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 liczebnikowym	liczebnikowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 liczebnikowym	liczebnikowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 liczebnikowym	liczebnikowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-liczebnościach	liczebność:s1	subst:pl:loc:f	pospolita	
-liczebnościami	liczebność:s1	subst:pl:inst:f	pospolita	
-liczebnością	liczebność:s1	subst:sg:inst:f	pospolita	
-liczebności	liczebność:s1	subst:pl:acc:f	pospolita	
-liczebności	liczebność:s1	subst:pl:gen:f	pospolita	
-liczebności	liczebność:s1	subst:pl:nom:f	pospolita	
-liczebności	liczebność:s1	subst:pl:voc:f	pospolita	
-liczebności	liczebność:s1	subst:sg:dat:f	pospolita	
-liczebności	liczebność:s1	subst:sg:gen:f	pospolita	
-liczebności	liczebność:s1	subst:sg:loc:f	pospolita	
-liczebności	liczebność:s1	subst:sg:voc:f	pospolita	
-liczebnościom	liczebność:s1	subst:pl:dat:f	pospolita	
-liczebność	liczebność:s1	subst:sg:acc:f	pospolita	
-liczebność	liczebność:s1	subst:sg:nom:f	pospolita	
-liczebnościach	liczebność:s2	subst:pl:loc:f		
-liczebnościami	liczebność:s2	subst:pl:inst:f		
-liczebnością	liczebność:s2	subst:sg:inst:f		
-liczebności	liczebność:s2	subst:pl:acc:f		
-liczebności	liczebność:s2	subst:pl:gen:f		
-liczebności	liczebność:s2	subst:pl:nom:f		
-liczebności	liczebność:s2	subst:pl:voc:f		
-liczebności	liczebność:s2	subst:sg:dat:f		
-liczebności	liczebność:s2	subst:sg:gen:f		
-liczebności	liczebność:s2	subst:sg:loc:f		
-liczebności	liczebność:s2	subst:sg:voc:f		
-liczebnościom	liczebność:s2	subst:pl:dat:f		
-liczebność	liczebność:s2	subst:sg:acc:f		
-liczebność	liczebność:s2	subst:sg:nom:f		
+liczebnościach	liczebność:s	subst:pl:loc:f	pospolita	
+liczebnościami	liczebność:s	subst:pl:inst:f	pospolita	
+liczebnością	liczebność:s	subst:sg:inst:f	pospolita	
+liczebności	liczebność:s	subst:pl:acc:f	pospolita	
+liczebności	liczebność:s	subst:pl:gen:f	pospolita	
+liczebności	liczebność:s	subst:pl:nom:f	pospolita	
+liczebności	liczebność:s	subst:pl:voc:f	pospolita	
+liczebności	liczebność:s	subst:sg:dat:f	pospolita	
+liczebności	liczebność:s	subst:sg:gen:f	pospolita	
+liczebności	liczebność:s	subst:sg:loc:f	pospolita	
+liczebności	liczebność:s	subst:sg:voc:f	pospolita	
+liczebnościom	liczebność:s	subst:pl:dat:f	pospolita	
+liczebność	liczebność:s	subst:sg:acc:f	pospolita	
+liczebność	liczebność:s	subst:sg:nom:f	pospolita	
+liczebnościach	liczebność:s	subst:pl:loc:f		
+liczebnościami	liczebność:s	subst:pl:inst:f		
+liczebnością	liczebność:s	subst:sg:inst:f		
+liczebności	liczebność:s	subst:pl:acc:f		
+liczebności	liczebność:s	subst:pl:gen:f		
+liczebności	liczebność:s	subst:pl:nom:f		
+liczebności	liczebność:s	subst:pl:voc:f		
+liczebności	liczebność:s	subst:sg:dat:f		
+liczebności	liczebność:s	subst:sg:gen:f		
+liczebności	liczebność:s	subst:sg:loc:f		
+liczebności	liczebność:s	subst:sg:voc:f		
+liczebnościom	liczebność:s	subst:pl:dat:f		
+liczebność	liczebność:s	subst:sg:acc:f		
+liczebność	liczebność:s	subst:sg:nom:f		
 liczebna	liczebny	adj:sg:nom.voc:f:pos		
 liczebną	liczebny	adj:sg:acc:f:pos		
 liczebną	liczebny	adj:sg:inst:f:pos		
@@ -31781,53 +31781,77 @@ licznymi	liczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 licznym	liczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 licznym	liczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 licznym	liczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-licząca	liczyć:v1	pact:sg:nom.voc:f:imperf:aff		
-liczącą	liczyć:v1	pact:sg:acc.inst:f:imperf:aff		
-liczącego	liczyć:v1	pact:sg:acc:m1.m2:imperf:aff		
-liczącego	liczyć:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-liczącej	liczyć:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-liczące	liczyć:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-liczące	liczyć:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-liczącemu	liczyć:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+licząca	liczyć:v	pact:sg:nom.voc:f:imperf:aff		
+liczącą	liczyć:v	pact:sg:acc.inst:f:imperf:aff		
+liczącego	liczyć:v	pact:sg:acc:m1.m2:imperf:aff		
+liczącego	liczyć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+liczącej	liczyć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+liczące	liczyć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+liczące	liczyć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+liczącemu	liczyć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+liczących	liczyć:v	pact:pl:acc:m1.p1:imperf:aff		
+liczących	liczyć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+liczący	liczyć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+liczący	liczyć:v	pact:sg:acc:m3:imperf:aff		
+liczący	liczyć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+liczącymi	liczyć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+liczącym	liczyć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+liczącym	liczyć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+liczenia	liczyć:v	ger:pl:nom.acc:n2:imperf:aff		
+liczenia	liczyć:v	ger:sg:gen:n2:imperf:aff		
+liczeniami	liczyć:v	ger:pl:inst:n2:imperf:aff		
+liczenie	liczyć:v	ger:sg:nom.acc:n2:imperf:aff		
+liczeniem	liczyć:v	ger:sg:inst:n2:imperf:aff		
+liczeni	liczyć:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+liczeniom	liczyć:v	ger:pl:dat.loc:n2:imperf:aff		
+liczeniu	liczyć:v	ger:sg:dat.loc:n2:imperf:aff		
+liczeń	liczyć:v	ger:pl:gen:n2:imperf:aff		
+liczona	liczyć:v	ppas:sg:nom.voc:f:imperf:aff		
+liczoną	liczyć:v	ppas:sg:acc.inst:f:imperf:aff		
+liczonego	liczyć:v	ppas:sg:acc:m1.m2:imperf:aff		
+liczonego	liczyć:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+liczonej	liczyć:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+liczone	liczyć:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+liczone	liczyć:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+liczonemu	liczyć:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+liczonych	liczyć:v	ppas:pl:acc:m1.p1:imperf:aff		
+liczonych	liczyć:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+liczony	liczyć:v	ppas:sg:acc:m3:imperf:aff		
+liczony	liczyć:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+liczonymi	liczyć:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+liczonym	liczyć:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+liczonym	liczyć:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+licząca	liczyć:v	pact:sg:nom.voc:f:imperf:aff		
+liczącą	liczyć:v	pact:sg:acc.inst:f:imperf:aff		
+liczącego	liczyć:v	pact:sg:acc:m1.m2:imperf:aff		
+liczącego	liczyć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+liczącej	liczyć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+liczące	liczyć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+liczące	liczyć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+liczącemu	liczyć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+liczących	liczyć:v	pact:pl:acc:m1.p1:imperf:aff		
+liczących	liczyć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+liczący	liczyć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+liczący	liczyć:v	pact:sg:acc:m3:imperf:aff		
+liczący	liczyć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+liczącymi	liczyć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+liczącym	liczyć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+liczącym	liczyć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+liczenia	liczyć:v	ger:pl:nom.acc:n2:imperf:aff		
+liczenia	liczyć:v	ger:sg:gen:n2:imperf:aff		
+liczeniami	liczyć:v	ger:pl:inst:n2:imperf:aff		
+liczenie	liczyć:v	ger:sg:nom.acc:n2:imperf:aff		
+liczeniem	liczyć:v	ger:sg:inst:n2:imperf:aff		
+liczeniom	liczyć:v	ger:pl:dat.loc:n2:imperf:aff		
+liczeniu	liczyć:v	ger:sg:dat.loc:n2:imperf:aff		
+liczeń	liczyć:v	ger:pl:gen:n2:imperf:aff		
 licząc	liczyć:v1	pcon:imperf		
-liczących	liczyć:v1	pact:pl:acc:m1.p1:imperf:aff		
-liczących	liczyć:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-liczący	liczyć:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-liczący	liczyć:v1	pact:sg:acc:m3:imperf:aff		
-liczący	liczyć:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-liczącymi	liczyć:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-liczącym	liczyć:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-liczącym	liczyć:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 liczą	liczyć:v1	fin:pl:ter:imperf		
 liczcie	liczyć:v1	impt:pl:sec:imperf		
-liczenia	liczyć:v1	ger:pl:nom.acc:n2:imperf:aff		
-liczenia	liczyć:v1	ger:sg:gen:n2:imperf:aff		
-liczeniami	liczyć:v1	ger:pl:inst:n2:imperf:aff		
-liczenie	liczyć:v1	ger:sg:nom.acc:n2:imperf:aff		
-liczeniem	liczyć:v1	ger:sg:inst:n2:imperf:aff		
-liczeni	liczyć:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
-liczeniom	liczyć:v1	ger:pl:dat.loc:n2:imperf:aff		
-liczeniu	liczyć:v1	ger:sg:dat.loc:n2:imperf:aff		
-liczeń	liczyć:v1	ger:pl:gen:n2:imperf:aff		
 liczę	liczyć:v1	fin:sg:pri:imperf		
 licz	liczyć:v1	impt:sg:sec:imperf		
 liczmy	liczyć:v1	impt:pl:pri:imperf		
-liczona	liczyć:v1	ppas:sg:nom.voc:f:imperf:aff		
-liczoną	liczyć:v1	ppas:sg:acc.inst:f:imperf:aff		
-liczonego	liczyć:v1	ppas:sg:acc:m1.m2:imperf:aff		
-liczonego	liczyć:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-liczonej	liczyć:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
-liczone	liczyć:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-liczone	liczyć:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-liczonemu	liczyć:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 liczono	liczyć:v1	imps:imperf		
-liczonych	liczyć:v1	ppas:pl:acc:m1.p1:imperf:aff		
-liczonych	liczyć:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-liczony	liczyć:v1	ppas:sg:acc:m3:imperf:aff		
-liczony	liczyć:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-liczonymi	liczyć:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-liczonym	liczyć:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-liczonym	liczyć:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 liczycie	liczyć:v1	fin:pl:sec:imperf		
 liczyć	liczyć:v1	inf:imperf		
 liczyliby	liczyć:v1	cond:pl:m1.p1:ter:imperf		
@@ -31868,33 +31892,9 @@ liczyłyście	liczyć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 liczyłyśmy	liczyć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 liczymy	liczyć:v1	fin:pl:pri:imperf		
 liczysz	liczyć:v1	fin:sg:sec:imperf		
-licząca	liczyć:v2	pact:sg:nom.voc:f:imperf:aff		
-liczącą	liczyć:v2	pact:sg:acc.inst:f:imperf:aff		
-liczącego	liczyć:v2	pact:sg:acc:m1.m2:imperf:aff		
-liczącego	liczyć:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-liczącej	liczyć:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-liczące	liczyć:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-liczące	liczyć:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-liczącemu	liczyć:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 licząc	liczyć:v2	pcon:imperf		
-liczących	liczyć:v2	pact:pl:acc:m1.p1:imperf:aff		
-liczących	liczyć:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-liczący	liczyć:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-liczący	liczyć:v2	pact:sg:acc:m3:imperf:aff		
-liczący	liczyć:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-liczącymi	liczyć:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-liczącym	liczyć:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-liczącym	liczyć:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 liczą	liczyć:v2	fin:pl:ter:imperf		
 liczcie	liczyć:v2	impt:pl:sec:imperf		
-liczenia	liczyć:v2	ger:pl:nom.acc:n2:imperf:aff		
-liczenia	liczyć:v2	ger:sg:gen:n2:imperf:aff		
-liczeniami	liczyć:v2	ger:pl:inst:n2:imperf:aff		
-liczenie	liczyć:v2	ger:sg:nom.acc:n2:imperf:aff		
-liczeniem	liczyć:v2	ger:sg:inst:n2:imperf:aff		
-liczeniom	liczyć:v2	ger:pl:dat.loc:n2:imperf:aff		
-liczeniu	liczyć:v2	ger:sg:dat.loc:n2:imperf:aff		
-liczeń	liczyć:v2	ger:pl:gen:n2:imperf:aff		
 liczę	liczyć:v2	fin:sg:pri:imperf		
 licz	liczyć:v2	impt:sg:sec:imperf		
 liczmy	liczyć:v2	impt:pl:pri:imperf		
@@ -34372,6 +34372,29 @@ liliowości	liliowość	subst:sg:voc:f
 liliowościom	liliowość	subst:pl:dat:f		
 liliowość	liliowość	subst:sg:acc:f		
 liliowość	liliowość	subst:sg:nom:f		
+liliowsi	liliowy:a	adj:pl:nom.voc:m1.p1:com		rzad.
+liliowsza	liliowy:a	adj:sg:nom.voc:f:com		rzad.
+liliowszą	liliowy:a	adj:sg:acc:f:com		rzad.
+liliowszą	liliowy:a	adj:sg:inst:f:com		rzad.
+liliowszego	liliowy:a	adj:sg:acc:m1.m2:com		rzad.
+liliowszego	liliowy:a	adj:sg:gen:m1.m2.m3.n1.n2:com		rzad.
+liliowszej	liliowy:a	adj:sg:dat:f:com		rzad.
+liliowszej	liliowy:a	adj:sg:gen:f:com		rzad.
+liliowszej	liliowy:a	adj:sg:loc:f:com		rzad.
+liliowsze	liliowy:a	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		rzad.
+liliowsze	liliowy:a	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		rzad.
+liliowsze	liliowy:a	adj:sg:acc:n1.n2:com		rzad.
+liliowsze	liliowy:a	adj:sg:nom.voc:n1.n2:com		rzad.
+liliowszemu	liliowy:a	adj:sg:dat:m1.m2.m3.n1.n2:com		rzad.
+liliowszych	liliowy:a	adj:pl:acc:m1.p1:com		rzad.
+liliowszych	liliowy:a	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+liliowszych	liliowy:a	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+liliowszy	liliowy:a	adj:sg:acc:m3:com		rzad.
+liliowszy	liliowy:a	adj:sg:nom.voc:m1.m2.m3:com		rzad.
+liliowszymi	liliowy:a	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+liliowszym	liliowy:a	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+liliowszym	liliowy:a	adj:sg:inst:m1.m2.m3.n1.n2:com		rzad.
+liliowszym	liliowy:a	adj:sg:loc:m1.m2.m3.n1.n2:com		rzad.
 liliowa	liliowy:a1	adj:sg:nom.voc:f:pos		
 liliową	liliowy:a1	adj:sg:acc:f:pos		
 liliową	liliowy:a1	adj:sg:inst:f:pos		
@@ -34411,29 +34434,6 @@ liliowe	liliowy:a2	adj:sg:nom.voc:n1.n2:pos
 liliowemu	liliowy:a2	adj:sg:dat:m1.m2.m3.n1.n2:pos		
 liliowi	liliowy:a2	adj:pl:nom.voc:m1.p1:pos		
 liliowo	liliowy:a2	adja		
-liliowsi	liliowy:a2	adj:pl:nom.voc:m1.p1:com		rzad.
-liliowsza	liliowy:a2	adj:sg:nom.voc:f:com		rzad.
-liliowszą	liliowy:a2	adj:sg:acc:f:com		rzad.
-liliowszą	liliowy:a2	adj:sg:inst:f:com		rzad.
-liliowszego	liliowy:a2	adj:sg:acc:m1.m2:com		rzad.
-liliowszego	liliowy:a2	adj:sg:gen:m1.m2.m3.n1.n2:com		rzad.
-liliowszej	liliowy:a2	adj:sg:dat:f:com		rzad.
-liliowszej	liliowy:a2	adj:sg:gen:f:com		rzad.
-liliowszej	liliowy:a2	adj:sg:loc:f:com		rzad.
-liliowsze	liliowy:a2	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		rzad.
-liliowsze	liliowy:a2	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		rzad.
-liliowsze	liliowy:a2	adj:sg:acc:n1.n2:com		rzad.
-liliowsze	liliowy:a2	adj:sg:nom.voc:n1.n2:com		rzad.
-liliowszemu	liliowy:a2	adj:sg:dat:m1.m2.m3.n1.n2:com		rzad.
-liliowszych	liliowy:a2	adj:pl:acc:m1.p1:com		rzad.
-liliowszych	liliowy:a2	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
-liliowszych	liliowy:a2	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
-liliowszy	liliowy:a2	adj:sg:acc:m3:com		rzad.
-liliowszy	liliowy:a2	adj:sg:nom.voc:m1.m2.m3:com		rzad.
-liliowszymi	liliowy:a2	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
-liliowszym	liliowy:a2	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
-liliowszym	liliowy:a2	adj:sg:inst:m1.m2.m3.n1.n2:com		rzad.
-liliowszym	liliowy:a2	adj:sg:loc:m1.m2.m3.n1.n2:com		rzad.
 liliowych	liliowy:a2	adj:pl:acc:m1.p1:pos		
 liliowych	liliowy:a2	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 liliowych	liliowy:a2	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
@@ -35596,7 +35596,7 @@ limonie	limonia	subst:pl:acc:f	pospolita	daw.
 limonie	limonia	subst:pl:nom:f	pospolita	daw.
 limonie	limonia	subst:pl:voc:f	pospolita	daw.
 limonię	limonia	subst:sg:acc:f	pospolita	daw.
-limonii	limonia	subst:pl:gen:f	pospolita	daw.|hom.
+limonii	limonia	subst:pl:gen:f	pospolita	hom.|daw.
 limonii	limonia	subst:sg:dat:f	pospolita	daw.
 limonii	limonia	subst:sg:gen:f	pospolita	daw.
 limonii	limonia	subst:sg:loc:f	pospolita	daw.
@@ -42861,34 +42861,34 @@ litościwymi	litościwy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 litościwym	litościwy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 litościwym	litościwy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 litościwym	litościwy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-litościach	litość:s1	subst:pl:loc:f	pospolita	
-litościami	litość:s1	subst:pl:inst:f	pospolita	
-litością	litość:s1	subst:sg:inst:f	pospolita	
-litości	litość:s1	subst:pl:acc:f	pospolita	
-litości	litość:s1	subst:pl:gen:f	pospolita	
-litości	litość:s1	subst:pl:nom:f	pospolita	
-litości	litość:s1	subst:pl:voc:f	pospolita	
-litości	litość:s1	subst:sg:dat:f	pospolita	
-litości	litość:s1	subst:sg:gen:f	pospolita	
-litości	litość:s1	subst:sg:loc:f	pospolita	
-litości	litość:s1	subst:sg:voc:f	pospolita	
-litościom	litość:s1	subst:pl:dat:f	pospolita	
-litość	litość:s1	subst:sg:acc:f	pospolita	
-litość	litość:s1	subst:sg:nom:f	pospolita	
-litościach	litość:s2	subst:pl:loc:f		
-litościami	litość:s2	subst:pl:inst:f		
-litością	litość:s2	subst:sg:inst:f		
-litości	litość:s2	subst:pl:acc:f		
-litości	litość:s2	subst:pl:gen:f		
-litości	litość:s2	subst:pl:nom:f		
-litości	litość:s2	subst:pl:voc:f		
-litości	litość:s2	subst:sg:dat:f		
-litości	litość:s2	subst:sg:gen:f		
-litości	litość:s2	subst:sg:loc:f		
-litości	litość:s2	subst:sg:voc:f		
-litościom	litość:s2	subst:pl:dat:f		
-litość	litość:s2	subst:sg:acc:f		
-litość	litość:s2	subst:sg:nom:f		
+litościach	litość:s	subst:pl:loc:f	pospolita	
+litościami	litość:s	subst:pl:inst:f	pospolita	
+litością	litość:s	subst:sg:inst:f	pospolita	
+litości	litość:s	subst:pl:acc:f	pospolita	
+litości	litość:s	subst:pl:gen:f	pospolita	
+litości	litość:s	subst:pl:nom:f	pospolita	
+litości	litość:s	subst:pl:voc:f	pospolita	
+litości	litość:s	subst:sg:dat:f	pospolita	
+litości	litość:s	subst:sg:gen:f	pospolita	
+litości	litość:s	subst:sg:loc:f	pospolita	
+litości	litość:s	subst:sg:voc:f	pospolita	
+litościom	litość:s	subst:pl:dat:f	pospolita	
+litość	litość:s	subst:sg:acc:f	pospolita	
+litość	litość:s	subst:sg:nom:f	pospolita	
+litościach	litość:s	subst:pl:loc:f		
+litościami	litość:s	subst:pl:inst:f		
+litością	litość:s	subst:sg:inst:f		
+litości	litość:s	subst:pl:acc:f		
+litości	litość:s	subst:pl:gen:f		
+litości	litość:s	subst:pl:nom:f		
+litości	litość:s	subst:pl:voc:f		
+litości	litość:s	subst:sg:dat:f		
+litości	litość:s	subst:sg:gen:f		
+litości	litość:s	subst:sg:loc:f		
+litości	litość:s	subst:sg:voc:f		
+litościom	litość:s	subst:pl:dat:f		
+litość	litość:s	subst:sg:acc:f		
+litość	litość:s	subst:sg:nom:f		
 litośniej	litośnie	adv:com		
 litośnie	litośnie	adv:pos		przest.
 litośnościach	litośność	subst:pl:loc:f		daw.
@@ -43052,6 +43052,70 @@ litotryptory	litotryptor	subst:pl:nom:m3	pospolita
 litotryptory	litotryptor	subst:pl:voc:m3	pospolita	
 litotryptorze	litotryptor	subst:sg:loc:m3	pospolita	
 litotryptorze	litotryptor	subst:sg:voc:m3	pospolita	
+litowania	litować:v	ger:pl:nom.acc:n2:imperf:aff		
+litowania	litować:v	ger:sg:gen:n2:imperf:aff		
+litowaniami	litować:v	ger:pl:inst:n2:imperf:aff		
+litowanie	litować:v	ger:sg:nom.acc:n2:imperf:aff		
+litowaniem	litować:v	ger:sg:inst:n2:imperf:aff		
+litowaniom	litować:v	ger:pl:dat.loc:n2:imperf:aff		
+litowaniu	litować:v	ger:sg:dat.loc:n2:imperf:aff		
+litowań	litować:v	ger:pl:gen:n2:imperf:aff		
+litująca	litować:v	pact:sg:nom.voc:f:imperf:aff		
+litującą	litować:v	pact:sg:acc.inst:f:imperf:aff		
+litującego	litować:v	pact:sg:acc:m1.m2:imperf:aff		
+litującego	litować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+litującej	litować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+litujące	litować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+litujące	litować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+litującemu	litować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+litujących	litować:v	pact:pl:acc:m1.p1:imperf:aff		
+litujących	litować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+litujący	litować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+litujący	litować:v	pact:sg:acc:m3:imperf:aff		
+litujący	litować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+litującymi	litować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+litującym	litować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+litującym	litować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+litowana	litować:v	ppas:sg:nom.voc:f:imperf:aff		
+litowaną	litować:v	ppas:sg:acc.inst:f:imperf:aff		
+litowanego	litować:v	ppas:sg:acc:m1.m2:imperf:aff		
+litowanego	litować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+litowanej	litować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+litowane	litować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+litowane	litować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+litowanemu	litować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+litowania	litować:v	ger:pl:nom.acc:n2:imperf:aff		
+litowania	litować:v	ger:sg:gen:n2:imperf:aff		
+litowaniami	litować:v	ger:pl:inst:n2:imperf:aff		
+litowanie	litować:v	ger:sg:nom.acc:n2:imperf:aff		
+litowaniem	litować:v	ger:sg:inst:n2:imperf:aff		
+litowani	litować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+litowaniom	litować:v	ger:pl:dat.loc:n2:imperf:aff		
+litowaniu	litować:v	ger:sg:dat.loc:n2:imperf:aff		
+litowanych	litować:v	ppas:pl:acc:m1.p1:imperf:aff		
+litowanych	litować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+litowany	litować:v	ppas:sg:acc:m3:imperf:aff		
+litowany	litować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+litowanymi	litować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+litowanym	litować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+litowanym	litować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+litowań	litować:v	ger:pl:gen:n2:imperf:aff		
+litująca	litować:v	pact:sg:nom.voc:f:imperf:aff		
+litującą	litować:v	pact:sg:acc.inst:f:imperf:aff		
+litującego	litować:v	pact:sg:acc:m1.m2:imperf:aff		
+litującego	litować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+litującej	litować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+litujące	litować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+litujące	litować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+litującemu	litować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+litujących	litować:v	pact:pl:acc:m1.p1:imperf:aff		
+litujących	litować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+litujący	litować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+litujący	litować:v	pact:sg:acc:m3:imperf:aff		
+litujący	litować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+litującymi	litować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+litującym	litować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+litującym	litować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 litować	litować:v1	inf:imperf		
 litowaliby	litować:v1	cond:pl:m1.p1:ter:imperf		
 litowalibyście	litować:v1	cond:pl:m1.p1:sec:imperf		
@@ -43088,32 +43152,8 @@ litowały	litować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 litowały	litować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 litowałyście	litować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 litowałyśmy	litować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-litowania	litować:v1	ger:pl:nom.acc:n2:imperf:aff		
-litowania	litować:v1	ger:sg:gen:n2:imperf:aff		
-litowaniami	litować:v1	ger:pl:inst:n2:imperf:aff		
-litowanie	litować:v1	ger:sg:nom.acc:n2:imperf:aff		
-litowaniem	litować:v1	ger:sg:inst:n2:imperf:aff		
-litowaniom	litować:v1	ger:pl:dat.loc:n2:imperf:aff		
-litowaniu	litować:v1	ger:sg:dat.loc:n2:imperf:aff		
 litowano	litować:v1	imps:imperf		
-litowań	litować:v1	ger:pl:gen:n2:imperf:aff		
-litująca	litować:v1	pact:sg:nom.voc:f:imperf:aff		
-litującą	litować:v1	pact:sg:acc.inst:f:imperf:aff		
-litującego	litować:v1	pact:sg:acc:m1.m2:imperf:aff		
-litującego	litować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-litującej	litować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-litujące	litować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-litujące	litować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-litującemu	litować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 litując	litować:v1	pcon:imperf		
-litujących	litować:v1	pact:pl:acc:m1.p1:imperf:aff		
-litujących	litować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-litujący	litować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-litujący	litować:v1	pact:sg:acc:m3:imperf:aff		
-litujący	litować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-litującymi	litować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-litującym	litować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-litującym	litować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 litują	litować:v1	fin:pl:ter:imperf		
 litujcie	litować:v1	impt:pl:sec:imperf		
 litujecie	litować:v1	fin:pl:sec:imperf		
@@ -43159,48 +43199,8 @@ litowały	litować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 litowały	litować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 litowałyście	litować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 litowałyśmy	litować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
-litowana	litować:v2	ppas:sg:nom.voc:f:imperf:aff		
-litowaną	litować:v2	ppas:sg:acc.inst:f:imperf:aff		
-litowanego	litować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-litowanego	litować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-litowanej	litować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-litowane	litować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-litowane	litować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-litowanemu	litować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-litowania	litować:v2	ger:pl:nom.acc:n2:imperf:aff		
-litowania	litować:v2	ger:sg:gen:n2:imperf:aff		
-litowaniami	litować:v2	ger:pl:inst:n2:imperf:aff		
-litowanie	litować:v2	ger:sg:nom.acc:n2:imperf:aff		
-litowaniem	litować:v2	ger:sg:inst:n2:imperf:aff		
-litowani	litować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-litowaniom	litować:v2	ger:pl:dat.loc:n2:imperf:aff		
-litowaniu	litować:v2	ger:sg:dat.loc:n2:imperf:aff		
 litowano	litować:v2	imps:imperf		daw.
-litowanych	litować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-litowanych	litować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-litowany	litować:v2	ppas:sg:acc:m3:imperf:aff		
-litowany	litować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-litowanymi	litować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-litowanym	litować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-litowanym	litować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-litowań	litować:v2	ger:pl:gen:n2:imperf:aff		
-litująca	litować:v2	pact:sg:nom.voc:f:imperf:aff		
-litującą	litować:v2	pact:sg:acc.inst:f:imperf:aff		
-litującego	litować:v2	pact:sg:acc:m1.m2:imperf:aff		
-litującego	litować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-litującej	litować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-litujące	litować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-litujące	litować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-litującemu	litować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 litując	litować:v2	pcon:imperf		daw.
-litujących	litować:v2	pact:pl:acc:m1.p1:imperf:aff		
-litujących	litować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-litujący	litować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-litujący	litować:v2	pact:sg:acc:m3:imperf:aff		
-litujący	litować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-litującymi	litować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-litującym	litować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-litującym	litować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 litują	litować:v2	fin:pl:ter:imperf		daw.
 litujcie	litować:v2	impt:pl:sec:imperf		daw.
 litujecie	litować:v2	fin:pl:sec:imperf		daw.
@@ -45869,6 +45869,86 @@ lobbistycznymi	lobbistyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 lobbistycznym	lobbistyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 lobbistycznym	lobbistyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 lobbistycznym	lobbistyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+lobbowana	lobbować:v	ppas:sg:nom.voc:f:imperf:aff		
+lobbowaną	lobbować:v	ppas:sg:acc.inst:f:imperf:aff		
+lobbowanego	lobbować:v	ppas:sg:acc:m1.m2:imperf:aff		
+lobbowanego	lobbować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+lobbowanej	lobbować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+lobbowane	lobbować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+lobbowane	lobbować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+lobbowanemu	lobbować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+lobbowania	lobbować:v	ger:pl:nom.acc:n2:imperf:aff		
+lobbowania	lobbować:v	ger:sg:gen:n2:imperf:aff		
+lobbowaniami	lobbować:v	ger:pl:inst:n2:imperf:aff		
+lobbowanie	lobbować:v	ger:sg:nom.acc:n2:imperf:aff		
+lobbowaniem	lobbować:v	ger:sg:inst:n2:imperf:aff		
+lobbowani	lobbować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+lobbowaniom	lobbować:v	ger:pl:dat.loc:n2:imperf:aff		
+lobbowaniu	lobbować:v	ger:sg:dat.loc:n2:imperf:aff		
+lobbowanych	lobbować:v	ppas:pl:acc:m1.p1:imperf:aff		
+lobbowanych	lobbować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lobbowany	lobbować:v	ppas:sg:acc:m3:imperf:aff		
+lobbowany	lobbować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+lobbowanymi	lobbować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lobbowanym	lobbować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lobbowanym	lobbować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+lobbowań	lobbować:v	ger:pl:gen:n2:imperf:aff		
+lobbująca	lobbować:v	pact:sg:nom.voc:f:imperf:aff		
+lobbującą	lobbować:v	pact:sg:acc.inst:f:imperf:aff		
+lobbującego	lobbować:v	pact:sg:acc:m1.m2:imperf:aff		
+lobbującego	lobbować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+lobbującej	lobbować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+lobbujące	lobbować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+lobbujące	lobbować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+lobbującemu	lobbować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+lobbujących	lobbować:v	pact:pl:acc:m1.p1:imperf:aff		
+lobbujących	lobbować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lobbujący	lobbować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+lobbujący	lobbować:v	pact:sg:acc:m3:imperf:aff		
+lobbujący	lobbować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+lobbującymi	lobbować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lobbującym	lobbować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lobbującym	lobbować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+lobbowana	lobbować:v	ppas:sg:nom.voc:f:imperf:aff		
+lobbowaną	lobbować:v	ppas:sg:acc.inst:f:imperf:aff		
+lobbowanego	lobbować:v	ppas:sg:acc:m1.m2:imperf:aff		
+lobbowanego	lobbować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+lobbowanej	lobbować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+lobbowane	lobbować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+lobbowane	lobbować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+lobbowanemu	lobbować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+lobbowania	lobbować:v	ger:pl:nom.acc:n2:imperf:aff		
+lobbowania	lobbować:v	ger:sg:gen:n2:imperf:aff		
+lobbowaniami	lobbować:v	ger:pl:inst:n2:imperf:aff		
+lobbowanie	lobbować:v	ger:sg:nom.acc:n2:imperf:aff		
+lobbowaniem	lobbować:v	ger:sg:inst:n2:imperf:aff		
+lobbowani	lobbować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+lobbowaniom	lobbować:v	ger:pl:dat.loc:n2:imperf:aff		
+lobbowaniu	lobbować:v	ger:sg:dat.loc:n2:imperf:aff		
+lobbowanych	lobbować:v	ppas:pl:acc:m1.p1:imperf:aff		
+lobbowanych	lobbować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lobbowany	lobbować:v	ppas:sg:acc:m3:imperf:aff		
+lobbowany	lobbować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+lobbowanymi	lobbować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lobbowanym	lobbować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lobbowanym	lobbować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+lobbowań	lobbować:v	ger:pl:gen:n2:imperf:aff		
+lobbująca	lobbować:v	pact:sg:nom.voc:f:imperf:aff		
+lobbującą	lobbować:v	pact:sg:acc.inst:f:imperf:aff		
+lobbującego	lobbować:v	pact:sg:acc:m1.m2:imperf:aff		
+lobbującego	lobbować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+lobbującej	lobbować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+lobbujące	lobbować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+lobbujące	lobbować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+lobbującemu	lobbować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+lobbujących	lobbować:v	pact:pl:acc:m1.p1:imperf:aff		
+lobbujących	lobbować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lobbujący	lobbować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+lobbujący	lobbować:v	pact:sg:acc:m3:imperf:aff		
+lobbujący	lobbować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+lobbującymi	lobbować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lobbującym	lobbować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lobbującym	lobbować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 lobbować	lobbować:v1	inf:imperf		
 lobbowaliby	lobbować:v1	cond:pl:m1.p1:ter:imperf		
 lobbowalibyście	lobbować:v1	cond:pl:m1.p1:sec:imperf		
@@ -45905,48 +45985,8 @@ lobbowały	lobbować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 lobbowały	lobbować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 lobbowałyście	lobbować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 lobbowałyśmy	lobbować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-lobbowana	lobbować:v1	ppas:sg:nom.voc:f:imperf:aff		
-lobbowaną	lobbować:v1	ppas:sg:acc.inst:f:imperf:aff		
-lobbowanego	lobbować:v1	ppas:sg:acc:m1.m2:imperf:aff		
-lobbowanego	lobbować:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-lobbowanej	lobbować:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
-lobbowane	lobbować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-lobbowane	lobbować:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-lobbowanemu	lobbować:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-lobbowania	lobbować:v1	ger:pl:nom.acc:n2:imperf:aff		
-lobbowania	lobbować:v1	ger:sg:gen:n2:imperf:aff		
-lobbowaniami	lobbować:v1	ger:pl:inst:n2:imperf:aff		
-lobbowanie	lobbować:v1	ger:sg:nom.acc:n2:imperf:aff		
-lobbowaniem	lobbować:v1	ger:sg:inst:n2:imperf:aff		
-lobbowani	lobbować:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
-lobbowaniom	lobbować:v1	ger:pl:dat.loc:n2:imperf:aff		
-lobbowaniu	lobbować:v1	ger:sg:dat.loc:n2:imperf:aff		
 lobbowano	lobbować:v1	imps:imperf		
-lobbowanych	lobbować:v1	ppas:pl:acc:m1.p1:imperf:aff		
-lobbowanych	lobbować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lobbowany	lobbować:v1	ppas:sg:acc:m3:imperf:aff		
-lobbowany	lobbować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-lobbowanymi	lobbować:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lobbowanym	lobbować:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lobbowanym	lobbować:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-lobbowań	lobbować:v1	ger:pl:gen:n2:imperf:aff		
-lobbująca	lobbować:v1	pact:sg:nom.voc:f:imperf:aff		
-lobbującą	lobbować:v1	pact:sg:acc.inst:f:imperf:aff		
-lobbującego	lobbować:v1	pact:sg:acc:m1.m2:imperf:aff		
-lobbującego	lobbować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-lobbującej	lobbować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-lobbujące	lobbować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-lobbujące	lobbować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-lobbującemu	lobbować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 lobbując	lobbować:v1	pcon:imperf		
-lobbujących	lobbować:v1	pact:pl:acc:m1.p1:imperf:aff		
-lobbujących	lobbować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lobbujący	lobbować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-lobbujący	lobbować:v1	pact:sg:acc:m3:imperf:aff		
-lobbujący	lobbować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-lobbującymi	lobbować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lobbującym	lobbować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lobbującym	lobbować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 lobbują	lobbować:v1	fin:pl:ter:imperf		
 lobbujcie	lobbować:v1	impt:pl:sec:imperf		
 lobbujecie	lobbować:v1	fin:pl:sec:imperf		
@@ -45992,48 +46032,8 @@ lobbowały	lobbować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 lobbowały	lobbować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 lobbowałyście	lobbować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 lobbowałyśmy	lobbować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-lobbowana	lobbować:v2	ppas:sg:nom.voc:f:imperf:aff		
-lobbowaną	lobbować:v2	ppas:sg:acc.inst:f:imperf:aff		
-lobbowanego	lobbować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-lobbowanego	lobbować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-lobbowanej	lobbować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-lobbowane	lobbować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-lobbowane	lobbować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-lobbowanemu	lobbować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-lobbowania	lobbować:v2	ger:pl:nom.acc:n2:imperf:aff		
-lobbowania	lobbować:v2	ger:sg:gen:n2:imperf:aff		
-lobbowaniami	lobbować:v2	ger:pl:inst:n2:imperf:aff		
-lobbowanie	lobbować:v2	ger:sg:nom.acc:n2:imperf:aff		
-lobbowaniem	lobbować:v2	ger:sg:inst:n2:imperf:aff		
-lobbowani	lobbować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-lobbowaniom	lobbować:v2	ger:pl:dat.loc:n2:imperf:aff		
-lobbowaniu	lobbować:v2	ger:sg:dat.loc:n2:imperf:aff		
 lobbowano	lobbować:v2	imps:imperf		
-lobbowanych	lobbować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-lobbowanych	lobbować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lobbowany	lobbować:v2	ppas:sg:acc:m3:imperf:aff		
-lobbowany	lobbować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-lobbowanymi	lobbować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lobbowanym	lobbować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lobbowanym	lobbować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-lobbowań	lobbować:v2	ger:pl:gen:n2:imperf:aff		
-lobbująca	lobbować:v2	pact:sg:nom.voc:f:imperf:aff		
-lobbującą	lobbować:v2	pact:sg:acc.inst:f:imperf:aff		
-lobbującego	lobbować:v2	pact:sg:acc:m1.m2:imperf:aff		
-lobbującego	lobbować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-lobbującej	lobbować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-lobbujące	lobbować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-lobbujące	lobbować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-lobbującemu	lobbować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 lobbując	lobbować:v2	pcon:imperf		
-lobbujących	lobbować:v2	pact:pl:acc:m1.p1:imperf:aff		
-lobbujących	lobbować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lobbujący	lobbować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-lobbujący	lobbować:v2	pact:sg:acc:m3:imperf:aff		
-lobbujący	lobbować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-lobbującymi	lobbować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lobbującym	lobbować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lobbującym	lobbować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 lobbują	lobbować:v2	fin:pl:ter:imperf		
 lobbujcie	lobbować:v2	impt:pl:sec:imperf		
 lobbujecie	lobbować:v2	fin:pl:sec:imperf		
@@ -48797,34 +48797,34 @@ lojalnościowymi	lojalnościowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 lojalnościowym	lojalnościowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 lojalnościowym	lojalnościowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 lojalnościowym	lojalnościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-lojalnościach	lojalność:s1	subst:pl:loc:f	pospolita	
-lojalnościami	lojalność:s1	subst:pl:inst:f	pospolita	
-lojalnością	lojalność:s1	subst:sg:inst:f	pospolita	
-lojalności	lojalność:s1	subst:pl:acc:f	pospolita	
-lojalności	lojalność:s1	subst:pl:gen:f	pospolita	
-lojalności	lojalność:s1	subst:pl:nom:f	pospolita	
-lojalności	lojalność:s1	subst:pl:voc:f	pospolita	
-lojalności	lojalność:s1	subst:sg:dat:f	pospolita	
-lojalności	lojalność:s1	subst:sg:gen:f	pospolita	
-lojalności	lojalność:s1	subst:sg:loc:f	pospolita	
-lojalności	lojalność:s1	subst:sg:voc:f	pospolita	
-lojalnościom	lojalność:s1	subst:pl:dat:f	pospolita	
-lojalność	lojalność:s1	subst:sg:acc:f	pospolita	
-lojalność	lojalność:s1	subst:sg:nom:f	pospolita	
-lojalnościach	lojalność:s2	subst:pl:loc:f		
-lojalnościami	lojalność:s2	subst:pl:inst:f		
-lojalnością	lojalność:s2	subst:sg:inst:f		
-lojalności	lojalność:s2	subst:pl:acc:f		
-lojalności	lojalność:s2	subst:pl:gen:f		
-lojalności	lojalność:s2	subst:pl:nom:f		
-lojalności	lojalność:s2	subst:pl:voc:f		
-lojalności	lojalność:s2	subst:sg:dat:f		
-lojalności	lojalność:s2	subst:sg:gen:f		
-lojalności	lojalność:s2	subst:sg:loc:f		
-lojalności	lojalność:s2	subst:sg:voc:f		
-lojalnościom	lojalność:s2	subst:pl:dat:f		
-lojalność	lojalność:s2	subst:sg:acc:f		
-lojalność	lojalność:s2	subst:sg:nom:f		
+lojalnościach	lojalność:s	subst:pl:loc:f	pospolita	
+lojalnościami	lojalność:s	subst:pl:inst:f	pospolita	
+lojalnością	lojalność:s	subst:sg:inst:f	pospolita	
+lojalności	lojalność:s	subst:pl:acc:f	pospolita	
+lojalności	lojalność:s	subst:pl:gen:f	pospolita	
+lojalności	lojalność:s	subst:pl:nom:f	pospolita	
+lojalności	lojalność:s	subst:pl:voc:f	pospolita	
+lojalności	lojalność:s	subst:sg:dat:f	pospolita	
+lojalności	lojalność:s	subst:sg:gen:f	pospolita	
+lojalności	lojalność:s	subst:sg:loc:f	pospolita	
+lojalności	lojalność:s	subst:sg:voc:f	pospolita	
+lojalnościom	lojalność:s	subst:pl:dat:f	pospolita	
+lojalność	lojalność:s	subst:sg:acc:f	pospolita	
+lojalność	lojalność:s	subst:sg:nom:f	pospolita	
+lojalnościach	lojalność:s	subst:pl:loc:f		
+lojalnościami	lojalność:s	subst:pl:inst:f		
+lojalnością	lojalność:s	subst:sg:inst:f		
+lojalności	lojalność:s	subst:pl:acc:f		
+lojalności	lojalność:s	subst:pl:gen:f		
+lojalności	lojalność:s	subst:pl:nom:f		
+lojalności	lojalność:s	subst:pl:voc:f		
+lojalności	lojalność:s	subst:sg:dat:f		
+lojalności	lojalność:s	subst:sg:gen:f		
+lojalności	lojalność:s	subst:sg:loc:f		
+lojalności	lojalność:s	subst:sg:voc:f		
+lojalnościom	lojalność:s	subst:pl:dat:f		
+lojalność	lojalność:s	subst:sg:acc:f		
+lojalność	lojalność:s	subst:sg:nom:f		
 lojalna	lojalny	adj:sg:nom.voc:f:pos		
 lojalną	lojalny	adj:sg:acc:f:pos		
 lojalną	lojalny	adj:sg:inst:f:pos		
@@ -50565,7 +50565,7 @@ lonarie	lonaria	subst:pl:acc:f	pospolita	daw.
 lonarie	lonaria	subst:pl:nom:f	pospolita	daw.
 lonarie	lonaria	subst:pl:voc:f	pospolita	daw.
 lonarię	lonaria	subst:sg:acc:f	pospolita	daw.
-lonarii	lonaria	subst:pl:gen:f	pospolita	daw.|hom.
+lonarii	lonaria	subst:pl:gen:f	pospolita	hom.|daw.
 lonarii	lonaria	subst:sg:dat:f	pospolita	daw.
 lonarii	lonaria	subst:sg:gen:f	pospolita	daw.
 lonarii	lonaria	subst:sg:loc:f	pospolita	daw.
@@ -50767,7 +50767,7 @@ lonherie	lonheria	subst:pl:acc:f	pospolita	daw.
 lonherie	lonheria	subst:pl:nom:f	pospolita	daw.
 lonherie	lonheria	subst:pl:voc:f	pospolita	daw.
 lonherię	lonheria	subst:sg:acc:f	pospolita	daw.
-lonherii	lonheria	subst:pl:gen:f	pospolita	daw.|hom.
+lonherii	lonheria	subst:pl:gen:f	pospolita	hom.|daw.
 lonherii	lonheria	subst:sg:dat:f	pospolita	daw.
 lonherii	lonheria	subst:sg:gen:f	pospolita	daw.
 lonherii	lonheria	subst:sg:loc:f	pospolita	daw.
@@ -52986,23 +52986,55 @@ lsnięto	lsnąć	imps:imperf.perf		daw.
 lsnijcie	lsnąć	impt:pl:sec:imperf.perf		daw.
 lsnij	lsnąć	impt:sg:sec:imperf.perf		daw.
 lsnijmy	lsnąć	impt:pl:pri:imperf.perf		daw.
-lśknąca	lśknąć:v1	pact:sg:nom.voc:f:imperf:aff		
-lśknącą	lśknąć:v1	pact:sg:acc.inst:f:imperf:aff		
-lśknącego	lśknąć:v1	pact:sg:acc:m1.m2:imperf:aff		
-lśknącego	lśknąć:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-lśknącej	lśknąć:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-lśknące	lśknąć:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-lśknące	lśknąć:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-lśknącemu	lśknąć:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+lśknąca	lśknąć:v	pact:sg:nom.voc:f:imperf:aff		
+lśknącą	lśknąć:v	pact:sg:acc.inst:f:imperf:aff		
+lśknącego	lśknąć:v	pact:sg:acc:m1.m2:imperf:aff		
+lśknącego	lśknąć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+lśknącej	lśknąć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+lśknące	lśknąć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+lśknące	lśknąć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+lśknącemu	lśknąć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+lśknących	lśknąć:v	pact:pl:acc:m1.p1:imperf:aff		
+lśknących	lśknąć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lśknący	lśknąć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+lśknący	lśknąć:v	pact:sg:acc:m3:imperf:aff		
+lśknący	lśknąć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+lśknącymi	lśknąć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lśknącym	lśknąć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+lśknącym	lśknąć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+lśknięcia	lśknąć:v	ger:pl:nom.acc:n2:imperf:aff		
+lśknięcia	lśknąć:v	ger:sg:gen:n2:imperf:aff		
+lśknięciami	lśknąć:v	ger:pl:inst:n2:imperf:aff		
+lśknięcie	lśknąć:v	ger:sg:nom.acc:n2:imperf:aff		
+lśknięciem	lśknąć:v	ger:sg:inst:n2:imperf:aff		
+lśknięciom	lśknąć:v	ger:pl:dat.loc:n2:imperf:aff		
+lśknięciu	lśknąć:v	ger:sg:dat.loc:n2:imperf:aff		
+lśknięć	lśknąć:v	ger:pl:gen:n2:imperf:aff		
+lśknąca	lśknąć:v	pact:sg:nom.voc:f:imperf.perf:aff		
+lśknącą	lśknąć:v	pact:sg:acc.inst:f:imperf.perf:aff		
+lśknącego	lśknąć:v	pact:sg:acc:m1.m2:imperf.perf:aff		
+lśknącego	lśknąć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf.perf:aff		
+lśknącej	lśknąć:v	pact:sg:gen.dat.loc:f:imperf.perf:aff		
+lśknące	lśknąć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff		
+lśknące	lśknąć:v	pact:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
+lśknącemu	lśknąć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
+lśknących	lśknąć:v	pact:pl:acc:m1.p1:imperf.perf:aff		
+lśknących	lśknąć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
+lśknący	lśknąć:v	pact:pl:nom.voc:m1.p1:imperf.perf:aff		
+lśknący	lśknąć:v	pact:sg:acc:m3:imperf.perf:aff		
+lśknący	lśknąć:v	pact:sg:nom.voc:m1.m2.m3:imperf.perf:aff		
+lśknącymi	lśknąć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
+lśknącym	lśknąć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
+lśknącym	lśknąć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf.perf:aff		
+lśknięcia	lśknąć:v	ger:pl:nom.acc:n2:imperf.perf:aff		
+lśknięcia	lśknąć:v	ger:sg:gen:n2:imperf.perf:aff		
+lśknięciami	lśknąć:v	ger:pl:inst:n2:imperf.perf:aff		
+lśknięcie	lśknąć:v	ger:sg:nom.acc:n2:imperf.perf:aff		
+lśknięciem	lśknąć:v	ger:sg:inst:n2:imperf.perf:aff		
+lśknięciom	lśknąć:v	ger:pl:dat.loc:n2:imperf.perf:aff		
+lśknięciu	lśknąć:v	ger:sg:dat.loc:n2:imperf.perf:aff		
+lśknięć	lśknąć:v	ger:pl:gen:n2:imperf.perf:aff		
 lśknąc	lśknąć:v1	pcon:imperf		daw.
-lśknących	lśknąć:v1	pact:pl:acc:m1.p1:imperf:aff		
-lśknących	lśknąć:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lśknący	lśknąć:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-lśknący	lśknąć:v1	pact:sg:acc:m3:imperf:aff		
-lśknący	lśknąć:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-lśknącymi	lśknąć:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lśknącym	lśknąć:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-lśknącym	lśknąć:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 lśknąć	lśknąć:v1	inf:imperf		daw.
 lśkną	lśknąć:v1	fin:pl:ter:imperf		daw.
 lśknąłby	lśknąć:v1	cond:sg:m1.m2.m3:ter:imperf		daw.
@@ -53045,35 +53077,11 @@ lśkniecie	lśknąć:v1	fin:pl:sec:imperf		daw.
 lśknie	lśknąć:v1	fin:sg:ter:imperf		daw.
 lśkniemy	lśknąć:v1	fin:pl:pri:imperf		daw.
 lśkniesz	lśknąć:v1	fin:sg:sec:imperf		daw.
-lśknięcia	lśknąć:v1	ger:pl:nom.acc:n2:imperf:aff		
-lśknięcia	lśknąć:v1	ger:sg:gen:n2:imperf:aff		
-lśknięciami	lśknąć:v1	ger:pl:inst:n2:imperf:aff		
-lśknięcie	lśknąć:v1	ger:sg:nom.acc:n2:imperf:aff		
-lśknięciem	lśknąć:v1	ger:sg:inst:n2:imperf:aff		
-lśknięciom	lśknąć:v1	ger:pl:dat.loc:n2:imperf:aff		
-lśknięciu	lśknąć:v1	ger:sg:dat.loc:n2:imperf:aff		
-lśknięć	lśknąć:v1	ger:pl:gen:n2:imperf:aff		
 lśknięto	lśknąć:v1	imps:imperf		daw.
 lśknijcie	lśknąć:v1	impt:pl:sec:imperf		daw.
 lśknij	lśknąć:v1	impt:sg:sec:imperf		daw.
 lśknijmy	lśknąć:v1	impt:pl:pri:imperf		daw.
-lśknąca	lśknąć:v2	pact:sg:nom.voc:f:imperf.perf:aff		
-lśknącą	lśknąć:v2	pact:sg:acc.inst:f:imperf.perf:aff		
-lśknącego	lśknąć:v2	pact:sg:acc:m1.m2:imperf.perf:aff		
-lśknącego	lśknąć:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf.perf:aff		
-lśknącej	lśknąć:v2	pact:sg:gen.dat.loc:f:imperf.perf:aff		
-lśknące	lśknąć:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf.perf:aff		
-lśknące	lśknąć:v2	pact:sg:nom.acc.voc:n1.n2:imperf.perf:aff		
-lśknącemu	lśknąć:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf.perf:aff		
 lśknąc	lśknąć:v2	pcon:imperf		daw.
-lśknących	lśknąć:v2	pact:pl:acc:m1.p1:imperf.perf:aff		
-lśknących	lśknąć:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lśknący	lśknąć:v2	pact:pl:nom.voc:m1.p1:imperf.perf:aff		
-lśknący	lśknąć:v2	pact:sg:acc:m3:imperf.perf:aff		
-lśknący	lśknąć:v2	pact:sg:nom.voc:m1.m2.m3:imperf.perf:aff		
-lśknącymi	lśknąć:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lśknącym	lśknąć:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf.perf:aff		
-lśknącym	lśknąć:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf.perf:aff		
 lśknąć	lśknąć:v2	inf:imperf.perf		daw.
 lśkną	lśknąć:v2	fin:pl:ter:imperf.perf		daw.
 lśknąłby	lśknąć:v2	cond:sg:m1.m2.m3:ter:imperf.perf		daw.
@@ -53117,14 +53125,6 @@ lśkniecie	lśknąć:v2	fin:pl:sec:imperf.perf		daw.
 lśknie	lśknąć:v2	fin:sg:ter:imperf.perf		daw.
 lśkniemy	lśknąć:v2	fin:pl:pri:imperf.perf		daw.
 lśkniesz	lśknąć:v2	fin:sg:sec:imperf.perf		daw.
-lśknięcia	lśknąć:v2	ger:pl:nom.acc:n2:imperf.perf:aff		
-lśknięcia	lśknąć:v2	ger:sg:gen:n2:imperf.perf:aff		
-lśknięciami	lśknąć:v2	ger:pl:inst:n2:imperf.perf:aff		
-lśknięcie	lśknąć:v2	ger:sg:nom.acc:n2:imperf.perf:aff		
-lśknięciem	lśknąć:v2	ger:sg:inst:n2:imperf.perf:aff		
-lśknięciom	lśknąć:v2	ger:pl:dat.loc:n2:imperf.perf:aff		
-lśknięciu	lśknąć:v2	ger:sg:dat.loc:n2:imperf.perf:aff		
-lśknięć	lśknąć:v2	ger:pl:gen:n2:imperf.perf:aff		
 lśknięto	lśknąć:v2	imps:imperf.perf		daw.
 lśknijcie	lśknąć:v2	impt:pl:sec:imperf.perf		daw.
 lśknij	lśknąć:v2	impt:sg:sec:imperf.perf		daw.
@@ -54747,34 +54747,34 @@ lubońskości	lubońskość	subst:sg:voc:f
 lubońskościom	lubońskość	subst:pl:dat:f		
 lubońskość	lubońskość	subst:sg:acc:f		
 lubońskość	lubońskość	subst:sg:nom:f		
-lubościach	lubość:s1	subst:pl:loc:f	pospolita	przest.
-lubościami	lubość:s1	subst:pl:inst:f	pospolita	przest.
-lubością	lubość:s1	subst:sg:inst:f	pospolita	przest.
-lubości	lubość:s1	subst:pl:acc:f	pospolita	przest.
-lubości	lubość:s1	subst:pl:gen:f	pospolita	przest.
-lubości	lubość:s1	subst:pl:nom:f	pospolita	przest.
-lubości	lubość:s1	subst:pl:voc:f	pospolita	przest.
-lubości	lubość:s1	subst:sg:dat:f	pospolita	przest.
-lubości	lubość:s1	subst:sg:gen:f	pospolita	przest.
-lubości	lubość:s1	subst:sg:loc:f	pospolita	przest.
-lubości	lubość:s1	subst:sg:voc:f	pospolita	przest.
-lubościom	lubość:s1	subst:pl:dat:f	pospolita	przest.
-lubość	lubość:s1	subst:sg:acc:f	pospolita	przest.
-lubość	lubość:s1	subst:sg:nom:f	pospolita	przest.
-lubościach	lubość:s2	subst:pl:loc:f		
-lubościami	lubość:s2	subst:pl:inst:f		
-lubością	lubość:s2	subst:sg:inst:f		
-lubości	lubość:s2	subst:pl:acc:f		
-lubości	lubość:s2	subst:pl:gen:f		
-lubości	lubość:s2	subst:pl:nom:f		
-lubości	lubość:s2	subst:pl:voc:f		
-lubości	lubość:s2	subst:sg:dat:f		
-lubości	lubość:s2	subst:sg:gen:f		
-lubości	lubość:s2	subst:sg:loc:f		
-lubości	lubość:s2	subst:sg:voc:f		
-lubościom	lubość:s2	subst:pl:dat:f		
-lubość	lubość:s2	subst:sg:acc:f		
-lubość	lubość:s2	subst:sg:nom:f		
+lubościach	lubość:s	subst:pl:loc:f	pospolita	przest.
+lubościami	lubość:s	subst:pl:inst:f	pospolita	przest.
+lubością	lubość:s	subst:sg:inst:f	pospolita	przest.
+lubości	lubość:s	subst:pl:acc:f	pospolita	przest.
+lubości	lubość:s	subst:pl:gen:f	pospolita	przest.
+lubości	lubość:s	subst:pl:nom:f	pospolita	przest.
+lubości	lubość:s	subst:pl:voc:f	pospolita	przest.
+lubości	lubość:s	subst:sg:dat:f	pospolita	przest.
+lubości	lubość:s	subst:sg:gen:f	pospolita	przest.
+lubości	lubość:s	subst:sg:loc:f	pospolita	przest.
+lubości	lubość:s	subst:sg:voc:f	pospolita	przest.
+lubościom	lubość:s	subst:pl:dat:f	pospolita	przest.
+lubość	lubość:s	subst:sg:acc:f	pospolita	przest.
+lubość	lubość:s	subst:sg:nom:f	pospolita	przest.
+lubościach	lubość:s	subst:pl:loc:f		
+lubościami	lubość:s	subst:pl:inst:f		
+lubością	lubość:s	subst:sg:inst:f		
+lubości	lubość:s	subst:pl:acc:f		
+lubości	lubość:s	subst:pl:gen:f		
+lubości	lubość:s	subst:pl:nom:f		
+lubości	lubość:s	subst:pl:voc:f		
+lubości	lubość:s	subst:sg:dat:f		
+lubości	lubość:s	subst:sg:gen:f		
+lubości	lubość:s	subst:sg:loc:f		
+lubości	lubość:s	subst:sg:voc:f		
+lubościom	lubość:s	subst:pl:dat:f		
+lubość	lubość:s	subst:sg:acc:f		
+lubość	lubość:s	subst:sg:nom:f		
 lubotyńscy	lubotyński	adj:pl:nom.voc:m1.p1:pos		
 lubotyńska	lubotyński	adj:sg:nom.voc:f:pos		
 lubotyńską	lubotyński	adj:sg:acc:f:pos		
@@ -55086,7 +55086,7 @@ lubusie	lubusia	subst:pl:acc:f	pospolita	przest.
 lubusie	lubusia	subst:pl:nom:f	pospolita	przest.
 lubusie	lubusia	subst:pl:voc:f	pospolita	przest.
 lubusię	lubusia	subst:sg:acc:f	pospolita	przest.
-lubusi	lubusia	subst:pl:gen:f	pospolita	hom.|rzad.|przest.
+lubusi	lubusia	subst:pl:gen:f	pospolita	hom.|przest.|rzad.
 lubusi	lubusia	subst:sg:dat:f	pospolita	przest.
 lubusi	lubusia	subst:sg:gen:f	pospolita	przest.
 lubusi	lubusia	subst:sg:loc:f	pospolita	przest.
@@ -55612,34 +55612,34 @@ ludnościowymi	ludnościowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 ludnościowym	ludnościowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 ludnościowym	ludnościowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ludnościowym	ludnościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-ludnościach	ludność:s1	subst:pl:loc:f	pospolita	
-ludnościami	ludność:s1	subst:pl:inst:f	pospolita	
-ludnością	ludność:s1	subst:sg:inst:f	pospolita	
-ludności	ludność:s1	subst:pl:acc:f	pospolita	
-ludności	ludność:s1	subst:pl:gen:f	pospolita	
-ludności	ludność:s1	subst:pl:nom:f	pospolita	
-ludności	ludność:s1	subst:pl:voc:f	pospolita	
-ludności	ludność:s1	subst:sg:dat:f	pospolita	
-ludności	ludność:s1	subst:sg:gen:f	pospolita	
-ludności	ludność:s1	subst:sg:loc:f	pospolita	
-ludności	ludność:s1	subst:sg:voc:f	pospolita	
-ludnościom	ludność:s1	subst:pl:dat:f	pospolita	
-ludność	ludność:s1	subst:sg:acc:f	pospolita	
-ludność	ludność:s1	subst:sg:nom:f	pospolita	
-ludnościach	ludność:s2	subst:pl:loc:f		
-ludnościami	ludność:s2	subst:pl:inst:f		
-ludnością	ludność:s2	subst:sg:inst:f		
-ludności	ludność:s2	subst:pl:acc:f		
-ludności	ludność:s2	subst:pl:gen:f		
-ludności	ludność:s2	subst:pl:nom:f		
-ludności	ludność:s2	subst:pl:voc:f		
-ludności	ludność:s2	subst:sg:dat:f		
-ludności	ludność:s2	subst:sg:gen:f		
-ludności	ludność:s2	subst:sg:loc:f		
-ludności	ludność:s2	subst:sg:voc:f		
-ludnościom	ludność:s2	subst:pl:dat:f		
-ludność	ludność:s2	subst:sg:acc:f		
-ludność	ludność:s2	subst:sg:nom:f		
+ludnościach	ludność:s	subst:pl:loc:f	pospolita	
+ludnościami	ludność:s	subst:pl:inst:f	pospolita	
+ludnością	ludność:s	subst:sg:inst:f	pospolita	
+ludności	ludność:s	subst:pl:acc:f	pospolita	
+ludności	ludność:s	subst:pl:gen:f	pospolita	
+ludności	ludność:s	subst:pl:nom:f	pospolita	
+ludności	ludność:s	subst:pl:voc:f	pospolita	
+ludności	ludność:s	subst:sg:dat:f	pospolita	
+ludności	ludność:s	subst:sg:gen:f	pospolita	
+ludności	ludność:s	subst:sg:loc:f	pospolita	
+ludności	ludność:s	subst:sg:voc:f	pospolita	
+ludnościom	ludność:s	subst:pl:dat:f	pospolita	
+ludność	ludność:s	subst:sg:acc:f	pospolita	
+ludność	ludność:s	subst:sg:nom:f	pospolita	
+ludnościach	ludność:s	subst:pl:loc:f		
+ludnościami	ludność:s	subst:pl:inst:f		
+ludnością	ludność:s	subst:sg:inst:f		
+ludności	ludność:s	subst:pl:acc:f		
+ludności	ludność:s	subst:pl:gen:f		
+ludności	ludność:s	subst:pl:nom:f		
+ludności	ludność:s	subst:pl:voc:f		
+ludności	ludność:s	subst:sg:dat:f		
+ludności	ludność:s	subst:sg:gen:f		
+ludności	ludność:s	subst:sg:loc:f		
+ludności	ludność:s	subst:sg:voc:f		
+ludnościom	ludność:s	subst:pl:dat:f		
+ludność	ludność:s	subst:sg:acc:f		
+ludność	ludność:s	subst:sg:nom:f		
 ludna	ludny	adj:sg:nom.voc:f:pos		
 ludną	ludny	adj:sg:acc:f:pos		
 ludną	ludny	adj:sg:inst:f:pos		
@@ -56485,7 +56485,7 @@ ludwisarnie	ludwisarnia	subst:pl:acc:f	pospolita	daw.
 ludwisarnie	ludwisarnia	subst:pl:nom:f	pospolita	daw.
 ludwisarnie	ludwisarnia	subst:pl:voc:f	pospolita	daw.
 ludwisarnię	ludwisarnia	subst:sg:acc:f	pospolita	daw.
-ludwisarni	ludwisarnia	subst:pl:gen:f	pospolita	daw.|hom.
+ludwisarni	ludwisarnia	subst:pl:gen:f	pospolita	hom.|daw.
 ludwisarni	ludwisarnia	subst:sg:dat:f	pospolita	daw.
 ludwisarni	ludwisarnia	subst:sg:gen:f	pospolita	daw.
 ludwisarni	ludwisarnia	subst:sg:loc:f	pospolita	daw.
@@ -56710,34 +56710,34 @@ ludzkim	ludzki	adj:sg:loc:m1.m2.m3.n1.n2:pos
 ludzko	ludzki	adja		
 ludzku	ludzki	adjp		
 ludzko	ludzko	adv:pos		przest.
-ludzkościach	ludzkość:s1	subst:pl:loc:f	pospolita	
-ludzkościami	ludzkość:s1	subst:pl:inst:f	pospolita	
-ludzkością	ludzkość:s1	subst:sg:inst:f	pospolita	
-ludzkości	ludzkość:s1	subst:pl:acc:f	pospolita	
-ludzkości	ludzkość:s1	subst:pl:gen:f	pospolita	
-ludzkości	ludzkość:s1	subst:pl:nom:f	pospolita	
-ludzkości	ludzkość:s1	subst:pl:voc:f	pospolita	
-ludzkości	ludzkość:s1	subst:sg:dat:f	pospolita	
-ludzkości	ludzkość:s1	subst:sg:gen:f	pospolita	
-ludzkości	ludzkość:s1	subst:sg:loc:f	pospolita	
-ludzkości	ludzkość:s1	subst:sg:voc:f	pospolita	
-ludzkościom	ludzkość:s1	subst:pl:dat:f	pospolita	
-ludzkość	ludzkość:s1	subst:sg:acc:f	pospolita	
-ludzkość	ludzkość:s1	subst:sg:nom:f	pospolita	
-ludzkościach	ludzkość:s2	subst:pl:loc:f		
-ludzkościami	ludzkość:s2	subst:pl:inst:f		
-ludzkością	ludzkość:s2	subst:sg:inst:f		
-ludzkości	ludzkość:s2	subst:pl:acc:f		
-ludzkości	ludzkość:s2	subst:pl:gen:f		
-ludzkości	ludzkość:s2	subst:pl:nom:f		
-ludzkości	ludzkość:s2	subst:pl:voc:f		
-ludzkości	ludzkość:s2	subst:sg:dat:f		
-ludzkości	ludzkość:s2	subst:sg:gen:f		
-ludzkości	ludzkość:s2	subst:sg:loc:f		
-ludzkości	ludzkość:s2	subst:sg:voc:f		
-ludzkościom	ludzkość:s2	subst:pl:dat:f		
-ludzkość	ludzkość:s2	subst:sg:acc:f		
-ludzkość	ludzkość:s2	subst:sg:nom:f		
+ludzkościach	ludzkość:s	subst:pl:loc:f	pospolita	
+ludzkościami	ludzkość:s	subst:pl:inst:f	pospolita	
+ludzkością	ludzkość:s	subst:sg:inst:f	pospolita	
+ludzkości	ludzkość:s	subst:pl:acc:f	pospolita	
+ludzkości	ludzkość:s	subst:pl:gen:f	pospolita	
+ludzkości	ludzkość:s	subst:pl:nom:f	pospolita	
+ludzkości	ludzkość:s	subst:pl:voc:f	pospolita	
+ludzkości	ludzkość:s	subst:sg:dat:f	pospolita	
+ludzkości	ludzkość:s	subst:sg:gen:f	pospolita	
+ludzkości	ludzkość:s	subst:sg:loc:f	pospolita	
+ludzkości	ludzkość:s	subst:sg:voc:f	pospolita	
+ludzkościom	ludzkość:s	subst:pl:dat:f	pospolita	
+ludzkość	ludzkość:s	subst:sg:acc:f	pospolita	
+ludzkość	ludzkość:s	subst:sg:nom:f	pospolita	
+ludzkościach	ludzkość:s	subst:pl:loc:f		
+ludzkościami	ludzkość:s	subst:pl:inst:f		
+ludzkością	ludzkość:s	subst:sg:inst:f		
+ludzkości	ludzkość:s	subst:pl:acc:f		
+ludzkości	ludzkość:s	subst:pl:gen:f		
+ludzkości	ludzkość:s	subst:pl:nom:f		
+ludzkości	ludzkość:s	subst:pl:voc:f		
+ludzkości	ludzkość:s	subst:sg:dat:f		
+ludzkości	ludzkość:s	subst:sg:gen:f		
+ludzkości	ludzkość:s	subst:sg:loc:f		
+ludzkości	ludzkość:s	subst:sg:voc:f		
+ludzkościom	ludzkość:s	subst:pl:dat:f		
+ludzkość	ludzkość:s	subst:sg:acc:f		
+ludzkość	ludzkość:s	subst:sg:nom:f		
 ludźmierscy	ludźmierski	adj:pl:nom.voc:m1.p1:pos		
 ludźmierska	ludźmierski	adj:sg:nom.voc:f:pos		
 ludźmierską	ludźmierski	adj:sg:acc:f:pos		
@@ -57270,34 +57270,34 @@ lukowym	lukowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 lukowym	lukowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 lukowym	lukowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 lukratywnie	lukratywnie	adv:pos		
-lukratywnościach	lukratywność:s1	subst:pl:loc:f	pospolita	
-lukratywnościami	lukratywność:s1	subst:pl:inst:f	pospolita	
-lukratywnością	lukratywność:s1	subst:sg:inst:f	pospolita	
-lukratywności	lukratywność:s1	subst:pl:acc:f	pospolita	
-lukratywności	lukratywność:s1	subst:pl:gen:f	pospolita	
-lukratywności	lukratywność:s1	subst:pl:nom:f	pospolita	
-lukratywności	lukratywność:s1	subst:pl:voc:f	pospolita	
-lukratywności	lukratywność:s1	subst:sg:dat:f	pospolita	
-lukratywności	lukratywność:s1	subst:sg:gen:f	pospolita	
-lukratywności	lukratywność:s1	subst:sg:loc:f	pospolita	
-lukratywności	lukratywność:s1	subst:sg:voc:f	pospolita	
-lukratywnościom	lukratywność:s1	subst:pl:dat:f	pospolita	
-lukratywność	lukratywność:s1	subst:sg:acc:f	pospolita	
-lukratywność	lukratywność:s1	subst:sg:nom:f	pospolita	
-lukratywnościach	lukratywność:s2	subst:pl:loc:f		
-lukratywnościami	lukratywność:s2	subst:pl:inst:f		
-lukratywnością	lukratywność:s2	subst:sg:inst:f		
-lukratywności	lukratywność:s2	subst:pl:acc:f		
-lukratywności	lukratywność:s2	subst:pl:gen:f		
-lukratywności	lukratywność:s2	subst:pl:nom:f		
-lukratywności	lukratywność:s2	subst:pl:voc:f		
-lukratywności	lukratywność:s2	subst:sg:dat:f		
-lukratywności	lukratywność:s2	subst:sg:gen:f		
-lukratywności	lukratywność:s2	subst:sg:loc:f		
-lukratywności	lukratywność:s2	subst:sg:voc:f		
-lukratywnościom	lukratywność:s2	subst:pl:dat:f		
-lukratywność	lukratywność:s2	subst:sg:acc:f		
-lukratywność	lukratywność:s2	subst:sg:nom:f		
+lukratywnościach	lukratywność:s	subst:pl:loc:f	pospolita	
+lukratywnościami	lukratywność:s	subst:pl:inst:f	pospolita	
+lukratywnością	lukratywność:s	subst:sg:inst:f	pospolita	
+lukratywności	lukratywność:s	subst:pl:acc:f	pospolita	
+lukratywności	lukratywność:s	subst:pl:gen:f	pospolita	
+lukratywności	lukratywność:s	subst:pl:nom:f	pospolita	
+lukratywności	lukratywność:s	subst:pl:voc:f	pospolita	
+lukratywności	lukratywność:s	subst:sg:dat:f	pospolita	
+lukratywności	lukratywność:s	subst:sg:gen:f	pospolita	
+lukratywności	lukratywność:s	subst:sg:loc:f	pospolita	
+lukratywności	lukratywność:s	subst:sg:voc:f	pospolita	
+lukratywnościom	lukratywność:s	subst:pl:dat:f	pospolita	
+lukratywność	lukratywność:s	subst:sg:acc:f	pospolita	
+lukratywność	lukratywność:s	subst:sg:nom:f	pospolita	
+lukratywnościach	lukratywność:s	subst:pl:loc:f		
+lukratywnościami	lukratywność:s	subst:pl:inst:f		
+lukratywnością	lukratywność:s	subst:sg:inst:f		
+lukratywności	lukratywność:s	subst:pl:acc:f		
+lukratywności	lukratywność:s	subst:pl:gen:f		
+lukratywności	lukratywność:s	subst:pl:nom:f		
+lukratywności	lukratywność:s	subst:pl:voc:f		
+lukratywności	lukratywność:s	subst:sg:dat:f		
+lukratywności	lukratywność:s	subst:sg:gen:f		
+lukratywności	lukratywność:s	subst:sg:loc:f		
+lukratywności	lukratywność:s	subst:sg:voc:f		
+lukratywnościom	lukratywność:s	subst:pl:dat:f		
+lukratywność	lukratywność:s	subst:sg:acc:f		
+lukratywność	lukratywność:s	subst:sg:nom:f		
 lukratywna	lukratywny	adj:sg:nom.voc:f:pos		
 lukratywną	lukratywny	adj:sg:acc:f:pos		
 lukratywną	lukratywny	adj:sg:inst:f:pos		
@@ -57797,7 +57797,7 @@ lukubracje	lukubracja	subst:pl:acc:f	pospolita	daw.
 lukubracje	lukubracja	subst:pl:nom:f	pospolita	daw.
 lukubracje	lukubracja	subst:pl:voc:f	pospolita	daw.
 lukubrację	lukubracja	subst:sg:acc:f	pospolita	daw.
-lukubracji	lukubracja	subst:pl:gen:f	pospolita	daw.|hom.
+lukubracji	lukubracja	subst:pl:gen:f	pospolita	hom.|daw.
 lukubracji	lukubracja	subst:sg:dat:f	pospolita	daw.
 lukubracji	lukubracja	subst:sg:gen:f	pospolita	daw.
 lukubracji	lukubracja	subst:sg:loc:f	pospolita	daw.
@@ -58187,7 +58187,7 @@ luminacje	luminacja	subst:pl:acc:f	pospolita	daw.
 luminacje	luminacja	subst:pl:nom:f	pospolita	daw.
 luminacje	luminacja	subst:pl:voc:f	pospolita	daw.
 luminację	luminacja	subst:sg:acc:f	pospolita	daw.
-luminacji	luminacja	subst:pl:gen:f	pospolita	daw.|hom.
+luminacji	luminacja	subst:pl:gen:f	pospolita	hom.|daw.
 luminacji	luminacja	subst:sg:dat:f	pospolita	daw.
 luminacji	luminacja	subst:sg:gen:f	pospolita	daw.
 luminacji	luminacja	subst:sg:loc:f	pospolita	daw.

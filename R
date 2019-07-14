@@ -406,7 +406,7 @@ Radkowie	Radków	subst:sg:voc:m3	geograficzna
 Radkowom	Radków	subst:pl:dat:m3	geograficzna	
 Radkowowi	Radków	subst:sg:dat:m3	geograficzna	
 Radkowów	Radków	subst:pl:gen:m3	geograficzna	
-Radkowu	Radków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Radkowu	Radków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Radkowy	Radków	subst:pl:acc:m3	geograficzna	
 Radkowy	Radków	subst:pl:nom:m3	geograficzna	
 Radkowy	Radków	subst:pl:voc:m3	geograficzna	
@@ -421,7 +421,7 @@ Radłowie	Radłów	subst:sg:voc:m3	geograficzna
 Radłowom	Radłów	subst:pl:dat:m3	geograficzna	
 Radłowowi	Radłów	subst:sg:dat:m3	geograficzna	
 Radłowów	Radłów	subst:pl:gen:m3	geograficzna	
-Radłowu	Radłów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Radłowu	Radłów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Radłowy	Radłów	subst:pl:acc:m3	geograficzna	
 Radłowy	Radłów	subst:pl:nom:m3	geograficzna	
 Radłowy	Radłów	subst:pl:voc:m3	geograficzna	
@@ -762,7 +762,7 @@ Radzanowie	Radzanów	subst:sg:voc:m3	geograficzna
 Radzanowom	Radzanów	subst:pl:dat:m3	geograficzna	
 Radzanowowi	Radzanów	subst:sg:dat:m3	geograficzna	
 Radzanowów	Radzanów	subst:pl:gen:m3	geograficzna	
-Radzanowu	Radzanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Radzanowu	Radzanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Radzanowy	Radzanów	subst:pl:acc:m3	geograficzna	
 Radzanowy	Radzanów	subst:pl:nom:m3	geograficzna	
 Radzanowy	Radzanów	subst:pl:voc:m3	geograficzna	
@@ -821,7 +821,7 @@ Radziejowie	Radziejów	subst:sg:voc:m3	geograficzna
 Radziejowom	Radziejów	subst:pl:dat:m3	geograficzna	
 Radziejowowi	Radziejów	subst:sg:dat:m3	geograficzna	
 Radziejowów	Radziejów	subst:pl:gen:m3	geograficzna	
-Radziejowu	Radziejów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Radziejowu	Radziejów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Radziejowy	Radziejów	subst:pl:acc:m3	geograficzna	
 Radziejowy	Radziejów	subst:pl:nom:m3	geograficzna	
 Radziejowy	Radziejów	subst:pl:voc:m3	geograficzna	
@@ -880,7 +880,7 @@ Radziłowie	Radziłów	subst:sg:voc:m3	geograficzna
 Radziłowom	Radziłów	subst:pl:dat:m3	geograficzna	
 Radziłowowi	Radziłów	subst:sg:dat:m3	geograficzna	
 Radziłowów	Radziłów	subst:pl:gen:m3	geograficzna	
-Radziłowu	Radziłów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Radziłowu	Radziłów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Radziłowy	Radziłów	subst:pl:acc:m3	geograficzna	
 Radziłowy	Radziłów	subst:pl:nom:m3	geograficzna	
 Radziłowy	Radziłów	subst:pl:voc:m3	geograficzna	
@@ -1499,7 +1499,7 @@ Rakowie	Raków	subst:sg:voc:m3	geograficzna
 Rakowom	Raków	subst:pl:dat:m3	geograficzna	
 Rakowowi	Raków	subst:sg:dat:m3	geograficzna	
 Rakowów	Raków	subst:pl:gen:m3	geograficzna	
-Rakowu	Raków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Rakowu	Raków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Rakowy	Raków	subst:pl:acc:m3	geograficzna	
 Rakowy	Raków	subst:pl:nom:m3	geograficzna	
 Rakowy	Raków	subst:pl:voc:m3	geograficzna	
@@ -1700,7 +1700,7 @@ Raniżowie	Raniżów	subst:sg:voc:m3	geograficzna
 Raniżowom	Raniżów	subst:pl:dat:m3	geograficzna	
 Raniżowowi	Raniżów	subst:sg:dat:m3	geograficzna	
 Raniżowów	Raniżów	subst:pl:gen:m3	geograficzna	
-Raniżowu	Raniżów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Raniżowu	Raniżów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Raniżowy	Raniżów	subst:pl:acc:m3	geograficzna	
 Raniżowy	Raniżów	subst:pl:nom:m3	geograficzna	
 Raniżowy	Raniżów	subst:pl:voc:m3	geograficzna	
@@ -1864,7 +1864,7 @@ Raszkowie	Raszków	subst:sg:voc:m3	geograficzna
 Raszkowom	Raszków	subst:pl:dat:m3	geograficzna	
 Raszkowowi	Raszków	subst:sg:dat:m3	geograficzna	
 Raszkowów	Raszków	subst:pl:gen:m3	geograficzna	
-Raszkowu	Raszków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Raszkowu	Raszków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Raszkowy	Raszków	subst:pl:acc:m3	geograficzna	
 Raszkowy	Raszków	subst:pl:nom:m3	geograficzna	
 Raszkowy	Raszków	subst:pl:voc:m3	geograficzna	
@@ -2461,7 +2461,7 @@ Rembertowie	Rembertów	subst:sg:voc:m3	geograficzna
 Rembertowom	Rembertów	subst:pl:dat:m3	geograficzna	
 Rembertowowi	Rembertów	subst:sg:dat:m3	geograficzna	
 Rembertowów	Rembertów	subst:pl:gen:m3	geograficzna	
-Rembertowu	Rembertów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Rembertowu	Rembertów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Rembertowy	Rembertów	subst:pl:acc:m3	geograficzna	
 Rembertowy	Rembertów	subst:pl:nom:m3	geograficzna	
 Rembertowy	Rembertów	subst:pl:voc:m3	geograficzna	
@@ -2839,20 +2839,20 @@ Reuters	Reuters	subst:sg:nom:m2	firma
 Reutersy	Reuters	subst:pl:acc:m2	firma	
 Reutersy	Reuters	subst:pl:nom:m2	firma	
 Reutersy	Reuters	subst:pl:voc:m2	firma	
-Reksach	Rex	subst:pl:loc:m3	krój pisma	poligr.
-Reksami	Rex	subst:pl:inst:m3	krój pisma	poligr.
-Reksem	Rex	subst:sg:inst:m3	krój pisma	poligr.
-Reksie	Rex	subst:sg:loc:m3	krój pisma	poligr.
-Reksie	Rex	subst:sg:voc:m3	krój pisma	poligr.
-Reksom	Rex	subst:pl:dat:m3	krój pisma	poligr.
-Reksowi	Rex	subst:sg:dat:m3	krój pisma	poligr.
-Reksów	Rex	subst:pl:gen:m3	krój pisma	poligr.
-Reksu	Rex	subst:sg:gen:m3	krój pisma	poligr.
-Reksy	Rex	subst:pl:acc:m3	krój pisma	poligr.
-Reksy	Rex	subst:pl:nom:m3	krój pisma	poligr.
-Reksy	Rex	subst:pl:voc:m3	krój pisma	poligr.
-Rex	Rex	subst:sg:acc:m3	krój pisma	poligr.
-Rex	Rex	subst:sg:nom:m3	krój pisma	poligr.
+Reksach	Rex	subst:pl:loc:m3	krój_pisma	poligr.
+Reksami	Rex	subst:pl:inst:m3	krój_pisma	poligr.
+Reksem	Rex	subst:sg:inst:m3	krój_pisma	poligr.
+Reksie	Rex	subst:sg:loc:m3	krój_pisma	poligr.
+Reksie	Rex	subst:sg:voc:m3	krój_pisma	poligr.
+Reksom	Rex	subst:pl:dat:m3	krój_pisma	poligr.
+Reksowi	Rex	subst:sg:dat:m3	krój_pisma	poligr.
+Reksów	Rex	subst:pl:gen:m3	krój_pisma	poligr.
+Reksu	Rex	subst:sg:gen:m3	krój_pisma	poligr.
+Reksy	Rex	subst:pl:acc:m3	krój_pisma	poligr.
+Reksy	Rex	subst:pl:nom:m3	krój_pisma	poligr.
+Reksy	Rex	subst:pl:voc:m3	krój_pisma	poligr.
+Rex	Rex	subst:sg:acc:m3	krój_pisma	poligr.
+Rex	Rex	subst:sg:nom:m3	krój_pisma	poligr.
 Reykjavikach	Reykjavik	subst:pl:loc:m3	geograficzna	
 Reykjavikami	Reykjavik	subst:pl:inst:m3	geograficzna	
 Reykjavikiem	Reykjavik	subst:sg:inst:m3	geograficzna	
@@ -4043,7 +4043,7 @@ Rogowie	Rogów	subst:sg:voc:m3	geograficzna
 Rogowom	Rogów	subst:pl:dat:m3	geograficzna	
 Rogowowi	Rogów	subst:sg:dat:m3	geograficzna	
 Rogowów	Rogów	subst:pl:gen:m3	geograficzna	
-Rogowu	Rogów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Rogowu	Rogów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Rogowy	Rogów	subst:pl:acc:m3	geograficzna	
 Rogowy	Rogów	subst:pl:nom:m3	geograficzna	
 Rogowy	Rogów	subst:pl:voc:m3	geograficzna	
@@ -5000,7 +5000,7 @@ Rostowie	Rostów	subst:sg:voc:m3	geograficzna
 Rostowom	Rostów	subst:pl:dat:m3	geograficzna	
 Rostowowi	Rostów	subst:sg:dat:m3	geograficzna	
 Rostowów	Rostów	subst:pl:gen:m3	geograficzna	
-Rostowu	Rostów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Rostowu	Rostów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Rostowy	Rostów	subst:pl:acc:m3	geograficzna	
 Rostowy	Rostów	subst:pl:nom:m3	geograficzna	
 Rostowy	Rostów	subst:pl:voc:m3	geograficzna	
@@ -5036,20 +5036,20 @@ Rostworowskim	Rostworowski	subst:sg:inst:m1	nazwisko
 Rostworowskim	Rostworowski	subst:sg:loc:m1	nazwisko	
 Rostworowski	Rostworowski	subst:sg:nom:m1	nazwisko	
 Rostworowski	Rostworowski	subst:sg:voc:m1	nazwisko	
-Rosz	Rosz	subst:pl:acc:n2	święto	człon n. wł.
-Rosz	Rosz	subst:pl:dat:n2	święto	człon n. wł.
-Rosz	Rosz	subst:pl:gen:n2	święto	człon n. wł.
-Rosz	Rosz	subst:pl:inst:n2	święto	człon n. wł.
-Rosz	Rosz	subst:pl:loc:n2	święto	człon n. wł.
-Rosz	Rosz	subst:pl:nom:n2	święto	człon n. wł.
-Rosz	Rosz	subst:pl:voc:n2	święto	człon n. wł.
-Rosz	Rosz	subst:sg:acc:n2	święto	człon n. wł.
-Rosz	Rosz	subst:sg:dat:n2	święto	człon n. wł.
-Rosz	Rosz	subst:sg:gen:n2	święto	człon n. wł.
-Rosz	Rosz	subst:sg:inst:n2	święto	człon n. wł.
-Rosz	Rosz	subst:sg:loc:n2	święto	człon n. wł.
-Rosz	Rosz	subst:sg:nom:n2	święto	człon n. wł.
-Rosz	Rosz	subst:sg:voc:n2	święto	człon n. wł.
+Rosz	Rosz	subst:pl:acc:n2	święto	człon_n._wł.
+Rosz	Rosz	subst:pl:dat:n2	święto	człon_n._wł.
+Rosz	Rosz	subst:pl:gen:n2	święto	człon_n._wł.
+Rosz	Rosz	subst:pl:inst:n2	święto	człon_n._wł.
+Rosz	Rosz	subst:pl:loc:n2	święto	człon_n._wł.
+Rosz	Rosz	subst:pl:nom:n2	święto	człon_n._wł.
+Rosz	Rosz	subst:pl:voc:n2	święto	człon_n._wł.
+Rosz	Rosz	subst:sg:acc:n2	święto	człon_n._wł.
+Rosz	Rosz	subst:sg:dat:n2	święto	człon_n._wł.
+Rosz	Rosz	subst:sg:gen:n2	święto	człon_n._wł.
+Rosz	Rosz	subst:sg:inst:n2	święto	człon_n._wł.
+Rosz	Rosz	subst:sg:loc:n2	święto	człon_n._wł.
+Rosz	Rosz	subst:sg:nom:n2	święto	człon_n._wł.
+Rosz	Rosz	subst:sg:voc:n2	święto	człon_n._wł.
 Roszakach	Roszak	subst:pl:loc:m1	nazwisko	
 Roszakami	Roszak	subst:pl:inst:m1	nazwisko	
 Roszaka	Roszak	subst:sg:acc:m1	nazwisko	
@@ -5470,7 +5470,7 @@ Rozwadowie	Rozwadów	subst:sg:voc:m3	geograficzna
 Rozwadowom	Rozwadów	subst:pl:dat:m3	geograficzna	
 Rozwadowowi	Rozwadów	subst:sg:dat:m3	geograficzna	
 Rozwadowów	Rozwadów	subst:pl:gen:m3	geograficzna	
-Rozwadowu	Rozwadów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Rozwadowu	Rozwadów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Rozwadowy	Rozwadów	subst:pl:acc:m3	geograficzna	
 Rozwadowy	Rozwadów	subst:pl:nom:m3	geograficzna	
 Rozwadowy	Rozwadów	subst:pl:voc:m3	geograficzna	
@@ -5527,7 +5527,7 @@ Rożnowie	Rożnów	subst:sg:voc:m3	geograficzna
 Rożnowom	Rożnów	subst:pl:dat:m3	geograficzna	
 Rożnowowi	Rożnów	subst:sg:dat:m3	geograficzna	
 Rożnowów	Rożnów	subst:pl:gen:m3	geograficzna	
-Rożnowu	Rożnów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Rożnowu	Rożnów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Rożnowy	Rożnów	subst:pl:acc:m3	geograficzna	
 Rożnowy	Rożnów	subst:pl:nom:m3	geograficzna	
 Rożnowy	Rożnów	subst:pl:voc:m3	geograficzna	
@@ -5934,20 +5934,20 @@ Rublowów	Rublow	subst:pl:gen:m1	nazwisko
 Rublow	Rublow	subst:sg:nom:m1	nazwisko	
 Rublowy	Rublow	depr:pl:nom:m2	nazwisko	
 Rublowy	Rublow	depr:pl:voc:m2	nazwisko	
-Ruchach	Ruch	subst:pl:loc:m3	organizacja	człon n. wł.
-Ruchami	Ruch	subst:pl:inst:m3	organizacja	człon n. wł.
-Ruchem	Ruch	subst:sg:inst:m3	organizacja	człon n. wł.
-Ruchom	Ruch	subst:pl:dat:m3	organizacja	człon n. wł.
-Ruchowi	Ruch	subst:sg:dat:m3	organizacja	człon n. wł.
-Ruchów	Ruch	subst:pl:gen:m3	organizacja	człon n. wł.
-Ruch	Ruch	subst:sg:acc:m3	organizacja	człon n. wł.
-Ruch	Ruch	subst:sg:nom:m3	organizacja	człon n. wł.
-Ruchu	Ruch	subst:sg:gen:m3	organizacja	człon n. wł.
-Ruchu	Ruch	subst:sg:loc:m3	organizacja	człon n. wł.
-Ruchu	Ruch	subst:sg:voc:m3	organizacja	człon n. wł.
-Ruchy	Ruch	subst:pl:acc:m3	organizacja	człon n. wł.
-Ruchy	Ruch	subst:pl:nom:m3	organizacja	człon n. wł.
-Ruchy	Ruch	subst:pl:voc:m3	organizacja	człon n. wł.
+Ruchach	Ruch	subst:pl:loc:m3	organizacja	człon_n._wł.
+Ruchami	Ruch	subst:pl:inst:m3	organizacja	człon_n._wł.
+Ruchem	Ruch	subst:sg:inst:m3	organizacja	człon_n._wł.
+Ruchom	Ruch	subst:pl:dat:m3	organizacja	człon_n._wł.
+Ruchowi	Ruch	subst:sg:dat:m3	organizacja	człon_n._wł.
+Ruchów	Ruch	subst:pl:gen:m3	organizacja	człon_n._wł.
+Ruch	Ruch	subst:sg:acc:m3	organizacja	człon_n._wł.
+Ruch	Ruch	subst:sg:nom:m3	organizacja	człon_n._wł.
+Ruchu	Ruch	subst:sg:gen:m3	organizacja	człon_n._wł.
+Ruchu	Ruch	subst:sg:loc:m3	organizacja	człon_n._wł.
+Ruchu	Ruch	subst:sg:voc:m3	organizacja	człon_n._wł.
+Ruchy	Ruch	subst:pl:acc:m3	organizacja	człon_n._wł.
+Ruchy	Ruch	subst:pl:nom:m3	organizacja	człon_n._wł.
+Ruchy	Ruch	subst:pl:voc:m3	organizacja	człon_n._wł.
 Rucianego	Ruciane	subst:sg:gen:n2	geograficzna	
 Rucianem	Ruciane	subst:sg:inst:n2	geograficzna	
 Rucianem	Ruciane	subst:sg:loc:n2	geograficzna	
@@ -6624,7 +6624,7 @@ Rusinowie	Rusinów	subst:sg:voc:m3	geograficzna
 Rusinowom	Rusinów	subst:pl:dat:m3	geograficzna	
 Rusinowowi	Rusinów	subst:sg:dat:m3	geograficzna	
 Rusinowów	Rusinów	subst:pl:gen:m3	geograficzna	
-Rusinowu	Rusinów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Rusinowu	Rusinów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Rusinowy	Rusinów	subst:pl:acc:m3	geograficzna	
 Rusinowy	Rusinów	subst:pl:nom:m3	geograficzna	
 Rusinowy	Rusinów	subst:pl:voc:m3	geograficzna	
@@ -7399,7 +7399,7 @@ Rymanowie	Rymanów	subst:sg:voc:m3	geograficzna
 Rymanowom	Rymanów	subst:pl:dat:m3	geograficzna	
 Rymanowowi	Rymanów	subst:sg:dat:m3	geograficzna	
 Rymanowów	Rymanów	subst:pl:gen:m3	geograficzna	
-Rymanowu	Rymanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Rymanowu	Rymanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Rymanowy	Rymanów	subst:pl:acc:m3	geograficzna	
 Rymanowy	Rymanów	subst:pl:nom:m3	geograficzna	
 Rymanowy	Rymanów	subst:pl:voc:m3	geograficzna	
@@ -7825,7 +7825,7 @@ Rzeczniowie	Rzeczniów	subst:sg:voc:m3	geograficzna
 Rzeczniowom	Rzeczniów	subst:pl:dat:m3	geograficzna	
 Rzeczniowowi	Rzeczniów	subst:sg:dat:m3	geograficzna	
 Rzeczniowów	Rzeczniów	subst:pl:gen:m3	geograficzna	
-Rzeczniowu	Rzeczniów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Rzeczniowu	Rzeczniów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Rzeczniowy	Rzeczniów	subst:pl:acc:m3	geograficzna	
 Rzeczniowy	Rzeczniów	subst:pl:nom:m3	geograficzna	
 Rzeczniowy	Rzeczniów	subst:pl:voc:m3	geograficzna	
@@ -7918,20 +7918,20 @@ Rzepichy	Rzepicha	subst:pl:voc:f	imię
 Rzepichy	Rzepicha	subst:sg:gen:f	imię	
 Rzepisze	Rzepicha	subst:sg:dat:f	imię	
 Rzepisze	Rzepicha	subst:sg:loc:f	imię	
-Rzeszach	Rzesza	subst:pl:loc:f	własna	człon n. wł.
-Rzeszami	Rzesza	subst:pl:inst:f	własna	człon n. wł.
-Rzesza	Rzesza	subst:sg:nom:f	własna	człon n. wł.
-Rzeszą	Rzesza	subst:sg:inst:f	własna	człon n. wł.
-Rzesze	Rzesza	subst:pl:acc:f	własna	człon n. wł.
-Rzesze	Rzesza	subst:pl:nom:f	własna	człon n. wł.
-Rzesze	Rzesza	subst:pl:voc:f	własna	człon n. wł.
-Rzeszę	Rzesza	subst:sg:acc:f	własna	człon n. wł.
-Rzeszom	Rzesza	subst:pl:dat:f	własna	człon n. wł.
-Rzeszo	Rzesza	subst:sg:voc:f	własna	człon n. wł.
-Rzesz	Rzesza	subst:pl:gen:f	własna	człon n. wł.
-Rzeszy	Rzesza	subst:sg:dat:f	własna	człon n. wł.
-Rzeszy	Rzesza	subst:sg:gen:f	własna	człon n. wł.
-Rzeszy	Rzesza	subst:sg:loc:f	własna	człon n. wł.
+Rzeszach	Rzesza	subst:pl:loc:f	własna	człon_n._wł.
+Rzeszami	Rzesza	subst:pl:inst:f	własna	człon_n._wł.
+Rzesza	Rzesza	subst:sg:nom:f	własna	człon_n._wł.
+Rzeszą	Rzesza	subst:sg:inst:f	własna	człon_n._wł.
+Rzesze	Rzesza	subst:pl:acc:f	własna	człon_n._wł.
+Rzesze	Rzesza	subst:pl:nom:f	własna	człon_n._wł.
+Rzesze	Rzesza	subst:pl:voc:f	własna	człon_n._wł.
+Rzeszę	Rzesza	subst:sg:acc:f	własna	człon_n._wł.
+Rzeszom	Rzesza	subst:pl:dat:f	własna	człon_n._wł.
+Rzeszo	Rzesza	subst:sg:voc:f	własna	człon_n._wł.
+Rzesz	Rzesza	subst:pl:gen:f	własna	człon_n._wł.
+Rzeszy	Rzesza	subst:sg:dat:f	własna	człon_n._wł.
+Rzeszy	Rzesza	subst:sg:gen:f	własna	człon_n._wł.
+Rzeszy	Rzesza	subst:sg:loc:f	własna	człon_n._wł.
 Rzeszowskich	Rzeszowskie	subst:pl:gen:n2	geograficzna	
 Rzeszowskich	Rzeszowskie	subst:pl:loc:n2	geograficzna	
 Rzeszowskiego	Rzeszowskie	subst:sg:gen:n2	geograficzna	
@@ -7969,7 +7969,7 @@ Rzeszowie	Rzeszów	subst:sg:voc:m3	geograficzna
 Rzeszowom	Rzeszów	subst:pl:dat:m3	geograficzna	
 Rzeszowowi	Rzeszów	subst:sg:dat:m3	geograficzna	
 Rzeszowów	Rzeszów	subst:pl:gen:m3	geograficzna	
-Rzeszowu	Rzeszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Rzeszowu	Rzeszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Rzeszowy	Rzeszów	subst:pl:acc:m3	geograficzna	
 Rzeszowy	Rzeszów	subst:pl:nom:m3	geograficzna	
 Rzeszowy	Rzeszów	subst:pl:voc:m3	geograficzna	
@@ -8014,7 +8014,7 @@ Rzgowie	Rzgów	subst:sg:voc:m3	geograficzna
 Rzgowom	Rzgów	subst:pl:dat:m3	geograficzna	
 Rzgowowi	Rzgów	subst:sg:dat:m3	geograficzna	
 Rzgowów	Rzgów	subst:pl:gen:m3	geograficzna	
-Rzgowu	Rzgów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Rzgowu	Rzgów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Rzgowy	Rzgów	subst:pl:acc:m3	geograficzna	
 Rzgowy	Rzgów	subst:pl:nom:m3	geograficzna	
 Rzgowy	Rzgów	subst:pl:voc:m3	geograficzna	

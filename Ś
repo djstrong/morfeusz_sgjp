@@ -461,26 +461,26 @@
 Śródborowom	Śródborów	subst:pl:dat:m3	geograficzna	
 Śródborowowi	Śródborów	subst:sg:dat:m3	geograficzna	
 Śródborowów	Śródborów	subst:pl:gen:m3	geograficzna	
-Śródborowu	Śródborów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Śródborowu	Śródborów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Śródborowy	Śródborów	subst:pl:acc:m3	geograficzna	
 Śródborowy	Śródborów	subst:pl:nom:m3	geograficzna	
 Śródborowy	Śródborów	subst:pl:voc:m3	geograficzna	
 Śródborów	Śródborów	subst:sg:acc:m3	geograficzna	
 Śródborów	Śródborów	subst:sg:nom:m3	geograficzna	
-Światach	Świat	subst:pl:loc:m3	własna	człon n. wł.
-Światami	Świat	subst:pl:inst:m3	własna	człon n. wł.
-Światem	Świat	subst:sg:inst:m3	własna	człon n. wł.
-Światom	Świat	subst:pl:dat:m3	własna	człon n. wł.
-Światowi	Świat	subst:sg:dat:m3	własna	człon n. wł.
-Światów	Świat	subst:pl:gen:m3	własna	człon n. wł.
-Świat	Świat	subst:sg:acc:m3	własna	człon n. wł.
-Świat	Świat	subst:sg:nom:m3	własna	człon n. wł.
-Światu	Świat	subst:sg:gen:m3	własna	człon n. wł.
-Światy	Świat	subst:pl:acc:m3	własna	człon n. wł.
-Światy	Świat	subst:pl:nom:m3	własna	człon n. wł.
-Światy	Świat	subst:pl:voc:m3	własna	człon n. wł.
-Świecie	Świat	subst:sg:loc:m3	własna	człon n. wł.
-Świecie	Świat	subst:sg:voc:m3	własna	człon n. wł.
+Światach	Świat	subst:pl:loc:m3	własna	człon_n._wł.
+Światami	Świat	subst:pl:inst:m3	własna	człon_n._wł.
+Światem	Świat	subst:sg:inst:m3	własna	człon_n._wł.
+Światom	Świat	subst:pl:dat:m3	własna	człon_n._wł.
+Światowi	Świat	subst:sg:dat:m3	własna	człon_n._wł.
+Światów	Świat	subst:pl:gen:m3	własna	człon_n._wł.
+Świat	Świat	subst:sg:acc:m3	własna	człon_n._wł.
+Świat	Świat	subst:sg:nom:m3	własna	człon_n._wł.
+Światu	Świat	subst:sg:gen:m3	własna	człon_n._wł.
+Światy	Świat	subst:pl:acc:m3	własna	człon_n._wł.
+Światy	Świat	subst:pl:nom:m3	własna	człon_n._wł.
+Światy	Świat	subst:pl:voc:m3	własna	człon_n._wł.
+Świecie	Świat	subst:sg:loc:m3	własna	człon_n._wł.
+Świecie	Świat	subst:sg:voc:m3	własna	człon_n._wł.
 Światosławach	Światosław	subst:pl:loc:m1	imię	
 Światosławami	Światosław	subst:pl:inst:m1	imię	
 Światosława	Światosław	subst:sg:acc:m1	imię	
@@ -825,7 +825,7 @@
 Świeradowom	Świeradów	subst:pl:dat:m3	geograficzna	
 Świeradowowi	Świeradów	subst:sg:dat:m3	geograficzna	
 Świeradowów	Świeradów	subst:pl:gen:m3	geograficzna	
-Świeradowu	Świeradów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Świeradowu	Świeradów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Świeradowy	Świeradów	subst:pl:acc:m3	geograficzna	
 Świeradowy	Świeradów	subst:pl:nom:m3	geograficzna	
 Świeradowy	Świeradów	subst:pl:voc:m3	geograficzna	
@@ -870,7 +870,7 @@
 Świerczowom	Świerczów	subst:pl:dat:m3	geograficzna	
 Świerczowowi	Świerczów	subst:sg:dat:m3	geograficzna	
 Świerczowów	Świerczów	subst:pl:gen:m3	geograficzna	
-Świerczowu	Świerczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Świerczowu	Świerczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Świerczowy	Świerczów	subst:pl:acc:m3	geograficzna	
 Świerczowy	Świerczów	subst:pl:nom:m3	geograficzna	
 Świerczowy	Świerczów	subst:pl:voc:m3	geograficzna	
@@ -1143,7 +1143,7 @@
 Świętoszowom	Świętoszów	subst:pl:dat:m3	geograficzna	
 Świętoszowowi	Świętoszów	subst:sg:dat:m3	geograficzna	
 Świętoszowów	Świętoszów	subst:pl:gen:m3	geograficzna	
-Świętoszowu	Świętoszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Świętoszowu	Świętoszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Świętoszowy	Świętoszów	subst:pl:acc:m3	geograficzna	
 Świętoszowy	Świętoszów	subst:pl:nom:m3	geograficzna	
 Świętoszowy	Świętoszów	subst:pl:voc:m3	geograficzna	

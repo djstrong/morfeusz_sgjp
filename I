@@ -822,7 +822,7 @@ Iłowie	Iłów	subst:sg:voc:m3	geograficzna
 Iłowom	Iłów	subst:pl:dat:m3	geograficzna	
 Iłowowi	Iłów	subst:sg:dat:m3	geograficzna	
 Iłowów	Iłów	subst:pl:gen:m3	geograficzna	
-Iłowu	Iłów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Iłowu	Iłów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Iłowy	Iłów	subst:pl:acc:m3	geograficzna	
 Iłowy	Iłów	subst:pl:nom:m3	geograficzna	
 Iłowy	Iłów	subst:pl:voc:m3	geograficzna	
@@ -1400,61 +1400,61 @@ Intelowi	Intel	subst:sg:dat:m3	firma
 Intelów	Intel	subst:pl:gen:m3	firma	
 Intelu	Intel	subst:sg:loc:m3	firma	
 Intelu	Intel	subst:sg:voc:m3	firma	
-InterCity	InterCity	subst:pl:acc:m3	człon nazwy firmy	
+InterCity	InterCity	subst:pl:acc:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:acc:m3	marka	
-InterCity	InterCity	subst:pl:acc:n2	człon nazwy firmy	
+InterCity	InterCity	subst:pl:acc:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:acc:n2	marka	
-InterCity	InterCity	subst:pl:dat:m3	człon nazwy firmy	
+InterCity	InterCity	subst:pl:dat:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:dat:m3	marka	
-InterCity	InterCity	subst:pl:dat:n2	człon nazwy firmy	
+InterCity	InterCity	subst:pl:dat:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:dat:n2	marka	
-InterCity	InterCity	subst:pl:gen:m3	człon nazwy firmy	
+InterCity	InterCity	subst:pl:gen:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:gen:m3	marka	
-InterCity	InterCity	subst:pl:gen:n2	człon nazwy firmy	
+InterCity	InterCity	subst:pl:gen:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:gen:n2	marka	
-InterCity	InterCity	subst:pl:inst:m3	człon nazwy firmy	
+InterCity	InterCity	subst:pl:inst:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:inst:m3	marka	
-InterCity	InterCity	subst:pl:inst:n2	człon nazwy firmy	
+InterCity	InterCity	subst:pl:inst:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:inst:n2	marka	
-InterCity	InterCity	subst:pl:loc:m3	człon nazwy firmy	
+InterCity	InterCity	subst:pl:loc:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:loc:m3	marka	
-InterCity	InterCity	subst:pl:loc:n2	człon nazwy firmy	
+InterCity	InterCity	subst:pl:loc:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:loc:n2	marka	
-InterCity	InterCity	subst:pl:nom:m3	człon nazwy firmy	
+InterCity	InterCity	subst:pl:nom:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:nom:m3	marka	
-InterCity	InterCity	subst:pl:nom:n2	człon nazwy firmy	
+InterCity	InterCity	subst:pl:nom:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:nom:n2	marka	
-InterCity	InterCity	subst:pl:voc:m3	człon nazwy firmy	
+InterCity	InterCity	subst:pl:voc:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:voc:m3	marka	
-InterCity	InterCity	subst:pl:voc:n2	człon nazwy firmy	
+InterCity	InterCity	subst:pl:voc:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:pl:voc:n2	marka	
-InterCity	InterCity	subst:sg:acc:m3	człon nazwy firmy	
+InterCity	InterCity	subst:sg:acc:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:acc:m3	marka	
-InterCity	InterCity	subst:sg:acc:n2	człon nazwy firmy	
+InterCity	InterCity	subst:sg:acc:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:acc:n2	marka	
-InterCity	InterCity	subst:sg:dat:m3	człon nazwy firmy	
+InterCity	InterCity	subst:sg:dat:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:dat:m3	marka	
-InterCity	InterCity	subst:sg:dat:n2	człon nazwy firmy	
+InterCity	InterCity	subst:sg:dat:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:dat:n2	marka	
-InterCity	InterCity	subst:sg:gen:m3	człon nazwy firmy	
+InterCity	InterCity	subst:sg:gen:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:gen:m3	marka	
-InterCity	InterCity	subst:sg:gen:n2	człon nazwy firmy	
+InterCity	InterCity	subst:sg:gen:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:gen:n2	marka	
-InterCity	InterCity	subst:sg:inst:m3	człon nazwy firmy	
+InterCity	InterCity	subst:sg:inst:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:inst:m3	marka	
-InterCity	InterCity	subst:sg:inst:n2	człon nazwy firmy	
+InterCity	InterCity	subst:sg:inst:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:inst:n2	marka	
-InterCity	InterCity	subst:sg:loc:m3	człon nazwy firmy	
+InterCity	InterCity	subst:sg:loc:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:loc:m3	marka	
-InterCity	InterCity	subst:sg:loc:n2	człon nazwy firmy	
+InterCity	InterCity	subst:sg:loc:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:loc:n2	marka	
-InterCity	InterCity	subst:sg:nom:m3	człon nazwy firmy	
+InterCity	InterCity	subst:sg:nom:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:nom:m3	marka	
-InterCity	InterCity	subst:sg:nom:n2	człon nazwy firmy	
+InterCity	InterCity	subst:sg:nom:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:nom:n2	marka	
-InterCity	InterCity	subst:sg:voc:m3	człon nazwy firmy	
+InterCity	InterCity	subst:sg:voc:m3	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:voc:m3	marka	
-InterCity	InterCity	subst:sg:voc:n2	człon nazwy firmy	
+InterCity	InterCity	subst:sg:voc:n2	człon_nazwy_firmy	
 InterCity	InterCity	subst:sg:voc:n2	marka	
 Interfaksach	Interfax	subst:pl:loc:m3	firma	
 Interfaksami	Interfax	subst:pl:inst:m3	firma	

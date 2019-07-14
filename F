@@ -370,7 +370,7 @@ Fałkowie	Fałków	subst:sg:voc:m3	geograficzna
 Fałkowom	Fałków	subst:pl:dat:m3	geograficzna	
 Fałkowowi	Fałków	subst:sg:dat:m3	geograficzna	
 Fałkowów	Fałków	subst:pl:gen:m3	geograficzna	
-Fałkowu	Fałków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Fałkowu	Fałków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Fałkowy	Fałków	subst:pl:acc:m3	geograficzna	
 Fałkowy	Fałków	subst:pl:nom:m3	geograficzna	
 Fałkowy	Fałków	subst:pl:voc:m3	geograficzna	
@@ -691,34 +691,34 @@ FBI	FBI	subst:sg:inst:n2	organizacja
 FBI	FBI	subst:sg:loc:n2	organizacja	
 FBI	FBI	subst:sg:nom:n2	organizacja	
 FBI	FBI	subst:sg:voc:n2	organizacja	
-FC	FC	subst:pl:acc:m3	organizacja	człon n. wł.
-FC	FC	subst:pl:acc:n2	organizacja	człon n. wł.
-FC	FC	subst:pl:dat:m3	organizacja	człon n. wł.
-FC	FC	subst:pl:dat:n2	organizacja	człon n. wł.
-FC	FC	subst:pl:gen:m3	organizacja	człon n. wł.
-FC	FC	subst:pl:gen:n2	organizacja	człon n. wł.
-FC	FC	subst:pl:inst:m3	organizacja	człon n. wł.
-FC	FC	subst:pl:inst:n2	organizacja	człon n. wł.
-FC	FC	subst:pl:loc:m3	organizacja	człon n. wł.
-FC	FC	subst:pl:loc:n2	organizacja	człon n. wł.
-FC	FC	subst:pl:nom:m3	organizacja	człon n. wł.
-FC	FC	subst:pl:nom:n2	organizacja	człon n. wł.
-FC	FC	subst:pl:voc:m3	organizacja	człon n. wł.
-FC	FC	subst:pl:voc:n2	organizacja	człon n. wł.
-FC	FC	subst:sg:acc:m3	organizacja	człon n. wł.
-FC	FC	subst:sg:acc:n2	organizacja	człon n. wł.
-FC	FC	subst:sg:dat:m3	organizacja	człon n. wł.
-FC	FC	subst:sg:dat:n2	organizacja	człon n. wł.
-FC	FC	subst:sg:gen:m3	organizacja	człon n. wł.
-FC	FC	subst:sg:gen:n2	organizacja	człon n. wł.
-FC	FC	subst:sg:inst:m3	organizacja	człon n. wł.
-FC	FC	subst:sg:inst:n2	organizacja	człon n. wł.
-FC	FC	subst:sg:loc:m3	organizacja	człon n. wł.
-FC	FC	subst:sg:loc:n2	organizacja	człon n. wł.
-FC	FC	subst:sg:nom:m3	organizacja	człon n. wł.
-FC	FC	subst:sg:nom:n2	organizacja	człon n. wł.
-FC	FC	subst:sg:voc:m3	organizacja	człon n. wł.
-FC	FC	subst:sg:voc:n2	organizacja	człon n. wł.
+FC	FC	subst:pl:acc:m3	organizacja	człon_n._wł.
+FC	FC	subst:pl:acc:n2	organizacja	człon_n._wł.
+FC	FC	subst:pl:dat:m3	organizacja	człon_n._wł.
+FC	FC	subst:pl:dat:n2	organizacja	człon_n._wł.
+FC	FC	subst:pl:gen:m3	organizacja	człon_n._wł.
+FC	FC	subst:pl:gen:n2	organizacja	człon_n._wł.
+FC	FC	subst:pl:inst:m3	organizacja	człon_n._wł.
+FC	FC	subst:pl:inst:n2	organizacja	człon_n._wł.
+FC	FC	subst:pl:loc:m3	organizacja	człon_n._wł.
+FC	FC	subst:pl:loc:n2	organizacja	człon_n._wł.
+FC	FC	subst:pl:nom:m3	organizacja	człon_n._wł.
+FC	FC	subst:pl:nom:n2	organizacja	człon_n._wł.
+FC	FC	subst:pl:voc:m3	organizacja	człon_n._wł.
+FC	FC	subst:pl:voc:n2	organizacja	człon_n._wł.
+FC	FC	subst:sg:acc:m3	organizacja	człon_n._wł.
+FC	FC	subst:sg:acc:n2	organizacja	człon_n._wł.
+FC	FC	subst:sg:dat:m3	organizacja	człon_n._wł.
+FC	FC	subst:sg:dat:n2	organizacja	człon_n._wł.
+FC	FC	subst:sg:gen:m3	organizacja	człon_n._wł.
+FC	FC	subst:sg:gen:n2	organizacja	człon_n._wł.
+FC	FC	subst:sg:inst:m3	organizacja	człon_n._wł.
+FC	FC	subst:sg:inst:n2	organizacja	człon_n._wł.
+FC	FC	subst:sg:loc:m3	organizacja	człon_n._wł.
+FC	FC	subst:sg:loc:n2	organizacja	człon_n._wł.
+FC	FC	subst:sg:nom:m3	organizacja	człon_n._wł.
+FC	FC	subst:sg:nom:n2	organizacja	człon_n._wł.
+FC	FC	subst:sg:voc:m3	organizacja	człon_n._wł.
+FC	FC	subst:sg:voc:n2	organizacja	człon_n._wł.
 FDD	FDD	subst:pl:acc:m3	pospolita	komp.
 FDD	FDD	subst:pl:acc:n2	pospolita	komp.
 FDD	FDD	subst:pl:dat:m3	pospolita	komp.
@@ -1787,7 +1787,7 @@ Filipowie	Filipów	subst:sg:voc:m3	geograficzna
 Filipowom	Filipów	subst:pl:dat:m3	geograficzna	
 Filipowowi	Filipów	subst:sg:dat:m3	geograficzna	
 Filipowów	Filipów	subst:pl:gen:m3	geograficzna	
-Filipowu	Filipów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Filipowu	Filipów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Filipowy	Filipów	subst:pl:acc:m3	geograficzna	
 Filipowy	Filipów	subst:pl:nom:m3	geograficzna	
 Filipowy	Filipów	subst:pl:voc:m3	geograficzna	
@@ -2673,20 +2673,20 @@ Forsythe’ów	Forsythe	subst:pl:acc:m1	nazwisko
 Forsythe’ów	Forsythe	subst:pl:gen:m1	nazwisko	
 Forsythe’y	Forsythe	depr:pl:nom:m2	nazwisko	
 Forsythe’y	Forsythe	depr:pl:voc:m2	nazwisko	
-Fortranach	Fortran	subst:pl:loc:m3	język programowania	komp.
-Fortranami	Fortran	subst:pl:inst:m3	język programowania	komp.
-Fortranem	Fortran	subst:sg:inst:m3	język programowania	komp.
-Fortran	Fortran	subst:sg:acc:m3	język programowania	komp.
-Fortran	Fortran	subst:sg:nom:m3	język programowania	komp.
-Fortranie	Fortran	subst:sg:loc:m3	język programowania	komp.
-Fortranie	Fortran	subst:sg:voc:m3	język programowania	komp.
-Fortranom	Fortran	subst:pl:dat:m3	język programowania	komp.
-Fortranowi	Fortran	subst:sg:dat:m3	język programowania	komp.
-Fortranów	Fortran	subst:pl:gen:m3	język programowania	komp.
-Fortranu	Fortran	subst:sg:gen:m3	język programowania	komp.
-Fortrany	Fortran	subst:pl:acc:m3	język programowania	komp.
-Fortrany	Fortran	subst:pl:nom:m3	język programowania	komp.
-Fortrany	Fortran	subst:pl:voc:m3	język programowania	komp.
+Fortranach	Fortran	subst:pl:loc:m3	język_programowania	komp.
+Fortranami	Fortran	subst:pl:inst:m3	język_programowania	komp.
+Fortranem	Fortran	subst:sg:inst:m3	język_programowania	komp.
+Fortran	Fortran	subst:sg:acc:m3	język_programowania	komp.
+Fortran	Fortran	subst:sg:nom:m3	język_programowania	komp.
+Fortranie	Fortran	subst:sg:loc:m3	język_programowania	komp.
+Fortranie	Fortran	subst:sg:voc:m3	język_programowania	komp.
+Fortranom	Fortran	subst:pl:dat:m3	język_programowania	komp.
+Fortranowi	Fortran	subst:sg:dat:m3	język_programowania	komp.
+Fortranów	Fortran	subst:pl:gen:m3	język_programowania	komp.
+Fortranu	Fortran	subst:sg:gen:m3	język_programowania	komp.
+Fortrany	Fortran	subst:pl:acc:m3	język_programowania	komp.
+Fortrany	Fortran	subst:pl:nom:m3	język_programowania	komp.
+Fortrany	Fortran	subst:pl:voc:m3	język_programowania	komp.
 Fortunacie	Fortunat	subst:sg:loc:m1	imię	
 Fortunacie	Fortunat	subst:sg:voc:m1	imię	
 Fortunaci	Fortunat	subst:pl:nom:m1	imię	
@@ -2854,20 +2854,20 @@ Francików	Francik	subst:pl:gen:m1	imię
 Franciku	Francik	subst:sg:loc:m1	imię	
 Franciku	Francik	subst:sg:voc:m1	imię	
 Francisco	Francisco:b	burk		
-Francisco	Francisco:s	subst:pl:acc:n2	geograficzna	człon n. wł.
-Francisco	Francisco:s	subst:pl:dat:n2	geograficzna	człon n. wł.
-Francisco	Francisco:s	subst:pl:gen:n2	geograficzna	człon n. wł.
-Francisco	Francisco:s	subst:pl:inst:n2	geograficzna	człon n. wł.
-Francisco	Francisco:s	subst:pl:loc:n2	geograficzna	człon n. wł.
-Francisco	Francisco:s	subst:pl:nom:n2	geograficzna	człon n. wł.
-Francisco	Francisco:s	subst:pl:voc:n2	geograficzna	człon n. wł.
-Francisco	Francisco:s	subst:sg:acc:n2	geograficzna	człon n. wł.
-Francisco	Francisco:s	subst:sg:dat:n2	geograficzna	człon n. wł.
-Francisco	Francisco:s	subst:sg:gen:n2	geograficzna	człon n. wł.
-Francisco	Francisco:s	subst:sg:inst:n2	geograficzna	człon n. wł.
-Francisco	Francisco:s	subst:sg:loc:n2	geograficzna	człon n. wł.
-Francisco	Francisco:s	subst:sg:nom:n2	geograficzna	człon n. wł.
-Francisco	Francisco:s	subst:sg:voc:n2	geograficzna	człon n. wł.
+Francisco	Francisco:s	subst:pl:acc:n2	geograficzna	człon_n._wł.
+Francisco	Francisco:s	subst:pl:dat:n2	geograficzna	człon_n._wł.
+Francisco	Francisco:s	subst:pl:gen:n2	geograficzna	człon_n._wł.
+Francisco	Francisco:s	subst:pl:inst:n2	geograficzna	człon_n._wł.
+Francisco	Francisco:s	subst:pl:loc:n2	geograficzna	człon_n._wł.
+Francisco	Francisco:s	subst:pl:nom:n2	geograficzna	człon_n._wł.
+Francisco	Francisco:s	subst:pl:voc:n2	geograficzna	człon_n._wł.
+Francisco	Francisco:s	subst:sg:acc:n2	geograficzna	człon_n._wł.
+Francisco	Francisco:s	subst:sg:dat:n2	geograficzna	człon_n._wł.
+Francisco	Francisco:s	subst:sg:gen:n2	geograficzna	człon_n._wł.
+Francisco	Francisco:s	subst:sg:inst:n2	geograficzna	człon_n._wł.
+Francisco	Francisco:s	subst:sg:loc:n2	geograficzna	człon_n._wł.
+Francisco	Francisco:s	subst:sg:nom:n2	geograficzna	człon_n._wł.
+Francisco	Francisco:s	subst:sg:voc:n2	geograficzna	człon_n._wł.
 Franciszek	Franciszek	subst:sg:nom:m1	imię	
 Franciszkach	Franciszek	subst:pl:loc:m1	imię	
 Franciszka	Franciszek	subst:sg:acc:m1	imię	
@@ -3906,21 +3906,21 @@ Fulbrightów	Fulbright	subst:pl:acc:m1	nazwisko
 Fulbrightów	Fulbright	subst:pl:gen:m1	nazwisko	
 Fulbrighty	Fulbright	depr:pl:nom:m2	nazwisko	
 Fulbrighty	Fulbright	depr:pl:voc:m2	nazwisko	
-Fundlandiach	Fundlandia	subst:pl:loc:f	geograficzna	człon n. wł.
-Fundlandia	Fundlandia	subst:sg:nom:f	geograficzna	człon n. wł.
-Fundlandiami	Fundlandia	subst:pl:inst:f	geograficzna	człon n. wł.
-Fundlandią	Fundlandia	subst:sg:inst:f	geograficzna	człon n. wł.
-Fundlandie	Fundlandia	subst:pl:acc:f	geograficzna	człon n. wł.
-Fundlandie	Fundlandia	subst:pl:nom:f	geograficzna	człon n. wł.
-Fundlandie	Fundlandia	subst:pl:voc:f	geograficzna	człon n. wł.
-Fundlandię	Fundlandia	subst:sg:acc:f	geograficzna	człon n. wł.
-Fundlandii	Fundlandia	subst:pl:gen:f	geograficzna	człon n. wł.|hom.
-Fundlandii	Fundlandia	subst:sg:dat:f	geograficzna	człon n. wł.
-Fundlandii	Fundlandia	subst:sg:gen:f	geograficzna	człon n. wł.
-Fundlandii	Fundlandia	subst:sg:loc:f	geograficzna	człon n. wł.
-Fundlandio	Fundlandia	subst:sg:voc:f	geograficzna	człon n. wł.
-Fundlandiom	Fundlandia	subst:pl:dat:f	geograficzna	człon n. wł.
-Fundlandyj	Fundlandia	subst:pl:gen:f	geograficzna	arch.|char.|człon n. wł.
+Fundlandiach	Fundlandia	subst:pl:loc:f	geograficzna	człon_n._wł.
+Fundlandia	Fundlandia	subst:sg:nom:f	geograficzna	człon_n._wł.
+Fundlandiami	Fundlandia	subst:pl:inst:f	geograficzna	człon_n._wł.
+Fundlandią	Fundlandia	subst:sg:inst:f	geograficzna	człon_n._wł.
+Fundlandie	Fundlandia	subst:pl:acc:f	geograficzna	człon_n._wł.
+Fundlandie	Fundlandia	subst:pl:nom:f	geograficzna	człon_n._wł.
+Fundlandie	Fundlandia	subst:pl:voc:f	geograficzna	człon_n._wł.
+Fundlandię	Fundlandia	subst:sg:acc:f	geograficzna	człon_n._wł.
+Fundlandii	Fundlandia	subst:pl:gen:f	geograficzna	człon_n._wł.|hom.
+Fundlandii	Fundlandia	subst:sg:dat:f	geograficzna	człon_n._wł.
+Fundlandii	Fundlandia	subst:sg:gen:f	geograficzna	człon_n._wł.
+Fundlandii	Fundlandia	subst:sg:loc:f	geograficzna	człon_n._wł.
+Fundlandio	Fundlandia	subst:sg:voc:f	geograficzna	człon_n._wł.
+Fundlandiom	Fundlandia	subst:pl:dat:f	geograficzna	człon_n._wł.
+Fundlandyj	Fundlandia	subst:pl:gen:f	geograficzna	arch.|char.|człon_n._wł.
 Funesach	Funes	subst:pl:loc:m1	nazwisko	
 Funesa	Funes	subst:sg:acc:m1	nazwisko	
 Funesa	Funes	subst:sg:gen:m1	nazwisko	

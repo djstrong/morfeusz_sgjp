@@ -229,7 +229,7 @@ Wadowie	Wadów	subst:sg:voc:m3	geograficzna
 Wadowom	Wadów	subst:pl:dat:m3	geograficzna	
 Wadowowi	Wadów	subst:sg:dat:m3	geograficzna	
 Wadowów	Wadów	subst:pl:gen:m3	geograficzna	
-Wadowu	Wadów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Wadowu	Wadów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Wadowy	Wadów	subst:pl:acc:m3	geograficzna	
 Wadowy	Wadów	subst:pl:nom:m3	geograficzna	
 Wadowy	Wadów	subst:pl:voc:m3	geograficzna	
@@ -724,24 +724,24 @@ Walewskim	Walewski	subst:sg:inst:m1	nazwisko
 Walewskim	Walewski	subst:sg:loc:m1	nazwisko	
 Walewski	Walewski	subst:sg:nom:m1	nazwisko	
 Walewski	Walewski	subst:sg:voc:m1	nazwisko	
-Walezjuszach	Walezjusz	subst:pl:loc:m1	członek rodu	
-Walezjuszami	Walezjusz	subst:pl:inst:m1	członek rodu	
-Walezjusza	Walezjusz	subst:sg:acc:m1	członek rodu	
-Walezjusza	Walezjusz	subst:sg:gen:m1	członek rodu	
-Walezjuszem	Walezjusz	subst:sg:inst:m1	członek rodu	
-Walezjusze	Walezjusz	depr:pl:nom:m2	członek rodu	
-Walezjusze	Walezjusz	depr:pl:voc:m2	członek rodu	
-Walezjusze	Walezjusz	subst:pl:nom:m1	członek rodu	
-Walezjusze	Walezjusz	subst:pl:voc:m1	członek rodu	
-Walezjuszom	Walezjusz	subst:pl:dat:m1	członek rodu	
-Walezjuszowie	Walezjusz	subst:pl:nom:m1	członek rodu	
-Walezjuszowie	Walezjusz	subst:pl:voc:m1	członek rodu	
-Walezjuszowi	Walezjusz	subst:sg:dat:m1	członek rodu	
-Walezjuszów	Walezjusz	subst:pl:acc:m1	członek rodu	
-Walezjuszów	Walezjusz	subst:pl:gen:m1	członek rodu	
-Walezjuszu	Walezjusz	subst:sg:loc:m1	członek rodu	
-Walezjuszu	Walezjusz	subst:sg:voc:m1	członek rodu	
-Walezjusz	Walezjusz	subst:sg:nom:m1	członek rodu	
+Walezjuszach	Walezjusz	subst:pl:loc:m1	członek_rodu	
+Walezjuszami	Walezjusz	subst:pl:inst:m1	członek_rodu	
+Walezjusza	Walezjusz	subst:sg:acc:m1	członek_rodu	
+Walezjusza	Walezjusz	subst:sg:gen:m1	członek_rodu	
+Walezjuszem	Walezjusz	subst:sg:inst:m1	członek_rodu	
+Walezjusze	Walezjusz	depr:pl:nom:m2	członek_rodu	
+Walezjusze	Walezjusz	depr:pl:voc:m2	członek_rodu	
+Walezjusze	Walezjusz	subst:pl:nom:m1	członek_rodu	
+Walezjusze	Walezjusz	subst:pl:voc:m1	członek_rodu	
+Walezjuszom	Walezjusz	subst:pl:dat:m1	członek_rodu	
+Walezjuszowie	Walezjusz	subst:pl:nom:m1	członek_rodu	
+Walezjuszowie	Walezjusz	subst:pl:voc:m1	członek_rodu	
+Walezjuszowi	Walezjusz	subst:sg:dat:m1	członek_rodu	
+Walezjuszów	Walezjusz	subst:pl:acc:m1	członek_rodu	
+Walezjuszów	Walezjusz	subst:pl:gen:m1	członek_rodu	
+Walezjuszu	Walezjusz	subst:sg:loc:m1	członek_rodu	
+Walezjuszu	Walezjusz	subst:sg:voc:m1	członek_rodu	
+Walezjusz	Walezjusz	subst:sg:nom:m1	członek_rodu	
 Walezego	Walezy	subst:sg:acc:m1	nazwisko	
 Walezego	Walezy	subst:sg:gen:m1	nazwisko	
 Walezemu	Walezy	subst:sg:dat:m1	nazwisko	
@@ -1710,7 +1710,7 @@ Wasilkowie	Wasilków	subst:sg:voc:m3	geograficzna
 Wasilkowom	Wasilków	subst:pl:dat:m3	geograficzna	
 Wasilkowowi	Wasilków	subst:sg:dat:m3	geograficzna	
 Wasilkowów	Wasilków	subst:pl:gen:m3	geograficzna	
-Wasilkowu	Wasilków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Wasilkowu	Wasilków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Wasilkowy	Wasilków	subst:pl:acc:m3	geograficzna	
 Wasilkowy	Wasilków	subst:pl:nom:m3	geograficzna	
 Wasilkowy	Wasilków	subst:pl:voc:m3	geograficzna	
@@ -1853,7 +1853,7 @@ Waśniowie	Waśniów	subst:sg:voc:m3	geograficzna
 Waśniowom	Waśniów	subst:pl:dat:m3	geograficzna	
 Waśniowowi	Waśniów	subst:sg:dat:m3	geograficzna	
 Waśniowów	Waśniów	subst:pl:gen:m3	geograficzna	
-Waśniowu	Waśniów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Waśniowu	Waśniów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Waśniowy	Waśniów	subst:pl:acc:m3	geograficzna	
 Waśniowy	Waśniów	subst:pl:nom:m3	geograficzna	
 Waśniowy	Waśniów	subst:pl:voc:m3	geograficzna	
@@ -3402,7 +3402,7 @@ Węgrowie	Węgrów	subst:sg:voc:m3	geograficzna
 Węgrowom	Węgrów	subst:pl:dat:m3	geograficzna	
 Węgrowowi	Węgrów	subst:sg:dat:m3	geograficzna	
 Węgrowów	Węgrów	subst:pl:gen:m3	geograficzna	
-Węgrowu	Węgrów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Węgrowu	Węgrów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Węgrowy	Węgrów	subst:pl:acc:m3	geograficzna	
 Węgrowy	Węgrów	subst:pl:nom:m3	geograficzna	
 Węgrowy	Węgrów	subst:pl:voc:m3	geograficzna	
@@ -3685,7 +3685,7 @@ Wiązowie	Wiązów	subst:sg:voc:m3	geograficzna
 Wiązowom	Wiązów	subst:pl:dat:m3	geograficzna	
 Wiązowowi	Wiązów	subst:sg:dat:m3	geograficzna	
 Wiązowów	Wiązów	subst:pl:gen:m3	geograficzna	
-Wiązowu	Wiązów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Wiązowu	Wiązów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Wiązowy	Wiązów	subst:pl:acc:m3	geograficzna	
 Wiązowy	Wiązów	subst:pl:nom:m3	geograficzna	
 Wiązowy	Wiązów	subst:pl:voc:m3	geograficzna	
@@ -4025,8 +4025,8 @@ Wielkanocy	Wielkanoc	subst:sg:gen:f	święto
 Wielkanocy	Wielkanoc	subst:sg:loc:f	święto	
 Wielkanocy	Wielkanoc	subst:sg:voc:f	święto	
 Wielkanocy	Wielkanoc	subst:sg:voc:f	święto	przest.
-Wielkąnocą	Wielkanoc	subst:sg:inst:f	święto	rzad.|przest.
-Wielkąnoc	Wielkanoc	subst:sg:acc:f	święto	rzad.|przest.
+Wielkąnocą	Wielkanoc	subst:sg:inst:f	święto	przest.|rzad.
+Wielkąnoc	Wielkanoc	subst:sg:acc:f	święto	przest.|rzad.
 Wielkichnocach	Wielkanoc	subst:pl:loc:f	święto	przest.
 Wielkichnocy	Wielkanoc	subst:pl:gen:f	święto	przest.
 Wielkiejnocy	Wielkanoc	subst:sg:dat:f	święto	przest.
@@ -4253,67 +4253,67 @@ Wiercińskim	Wierciński	subst:sg:inst:m1	nazwisko
 Wiercińskim	Wierciński	subst:sg:loc:m1	nazwisko	
 Wierciński	Wierciński	subst:sg:nom:m1	nazwisko	
 Wierciński	Wierciński	subst:sg:voc:m1	nazwisko	
-Wieruszach	Wierusz	subst:pl:loc:m1	człon nazwiska (herb)	
+Wieruszach	Wierusz	subst:pl:loc:m1	człon_nazwiska_(herb)	
 Wieruszach	Wierusz	subst:pl:loc:m1	nazwisko	
-Wieruszami	Wierusz	subst:pl:inst:m1	człon nazwiska (herb)	
+Wieruszami	Wierusz	subst:pl:inst:m1	człon_nazwiska_(herb)	
 Wieruszami	Wierusz	subst:pl:inst:m1	nazwisko	
-Wierusza	Wierusz	subst:sg:acc:m1	człon nazwiska (herb)	
+Wierusza	Wierusz	subst:sg:acc:m1	człon_nazwiska_(herb)	
 Wierusza	Wierusz	subst:sg:acc:m1	nazwisko	
-Wierusza	Wierusz	subst:sg:gen:m1	człon nazwiska (herb)	
+Wierusza	Wierusz	subst:sg:gen:m1	człon_nazwiska_(herb)	
 Wierusza	Wierusz	subst:sg:gen:m1	nazwisko	
-Wieruszem	Wierusz	subst:sg:inst:m1	człon nazwiska (herb)	
+Wieruszem	Wierusz	subst:sg:inst:m1	człon_nazwiska_(herb)	
 Wieruszem	Wierusz	subst:sg:inst:m1	nazwisko	
-Wierusze	Wierusz	depr:pl:nom:m2	człon nazwiska (herb)	
+Wierusze	Wierusz	depr:pl:nom:m2	człon_nazwiska_(herb)	
 Wierusze	Wierusz	depr:pl:nom:m2	nazwisko	
-Wierusze	Wierusz	depr:pl:voc:m2	człon nazwiska (herb)	
+Wierusze	Wierusz	depr:pl:voc:m2	człon_nazwiska_(herb)	
 Wierusze	Wierusz	depr:pl:voc:m2	nazwisko	
-Wieruszom	Wierusz	subst:pl:dat:m1	człon nazwiska (herb)	
+Wieruszom	Wierusz	subst:pl:dat:m1	człon_nazwiska_(herb)	
 Wieruszom	Wierusz	subst:pl:dat:m1	nazwisko	
-Wieruszowie	Wierusz	subst:pl:nom:m1	człon nazwiska (herb)	
+Wieruszowie	Wierusz	subst:pl:nom:m1	człon_nazwiska_(herb)	
 Wieruszowie	Wierusz	subst:pl:nom:m1	nazwisko	
-Wieruszowie	Wierusz	subst:pl:voc:m1	człon nazwiska (herb)	
+Wieruszowie	Wierusz	subst:pl:voc:m1	człon_nazwiska_(herb)	
 Wieruszowie	Wierusz	subst:pl:voc:m1	nazwisko	
-Wieruszowi	Wierusz	subst:sg:dat:m1	człon nazwiska (herb)	
+Wieruszowi	Wierusz	subst:sg:dat:m1	człon_nazwiska_(herb)	
 Wieruszowi	Wierusz	subst:sg:dat:m1	nazwisko	
-Wieruszów	Wierusz	subst:pl:acc:m1	człon nazwiska (herb)	
+Wieruszów	Wierusz	subst:pl:acc:m1	człon_nazwiska_(herb)	
 Wieruszów	Wierusz	subst:pl:acc:m1	nazwisko	
-Wieruszów	Wierusz	subst:pl:gen:m1	człon nazwiska (herb)	
+Wieruszów	Wierusz	subst:pl:gen:m1	człon_nazwiska_(herb)	
 Wieruszów	Wierusz	subst:pl:gen:m1	nazwisko	
-Wieruszu	Wierusz	subst:sg:loc:m1	człon nazwiska (herb)	
+Wieruszu	Wierusz	subst:sg:loc:m1	człon_nazwiska_(herb)	
 Wieruszu	Wierusz	subst:sg:loc:m1	nazwisko	
-Wieruszu	Wierusz	subst:sg:voc:m1	człon nazwiska (herb)	
+Wieruszu	Wierusz	subst:sg:voc:m1	człon_nazwiska_(herb)	
 Wieruszu	Wierusz	subst:sg:voc:m1	nazwisko	
-Wierusz	Wierusz	depr:pl:nom:m2	człon nazwiska (herb)	
+Wierusz	Wierusz	depr:pl:nom:m2	człon_nazwiska_(herb)	
 Wierusz	Wierusz	depr:pl:nom:m2	nazwisko	
-Wierusz	Wierusz	depr:pl:voc:m2	człon nazwiska (herb)	
+Wierusz	Wierusz	depr:pl:voc:m2	człon_nazwiska_(herb)	
 Wierusz	Wierusz	depr:pl:voc:m2	nazwisko	
-Wierusz	Wierusz	subst:pl:acc:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:acc:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:pl:acc:m1	nazwisko	
-Wierusz	Wierusz	subst:pl:dat:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:dat:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:pl:dat:m1	nazwisko	
-Wierusz	Wierusz	subst:pl:gen:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:gen:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:pl:gen:m1	nazwisko	
-Wierusz	Wierusz	subst:pl:inst:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:inst:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:pl:inst:m1	nazwisko	
-Wierusz	Wierusz	subst:pl:loc:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:loc:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:pl:loc:m1	nazwisko	
-Wierusz	Wierusz	subst:pl:nom:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:nom:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:pl:nom:m1	nazwisko	
-Wierusz	Wierusz	subst:pl:voc:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:voc:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:pl:voc:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:acc:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:acc:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:sg:acc:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:dat:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:dat:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:sg:dat:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:gen:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:gen:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:sg:gen:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:inst:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:inst:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:sg:inst:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:loc:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:loc:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:sg:loc:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:nom:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:nom:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:sg:nom:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:voc:m1	człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:voc:m1	człon_nazwiska_(herb)	
 Wierusz	Wierusz	subst:sg:voc:m1	nazwisko	
 Wieruszowach	Wieruszów	subst:pl:loc:m3	geograficzna	
 Wieruszowami	Wieruszów	subst:pl:inst:m3	geograficzna	
@@ -4324,7 +4324,7 @@ Wieruszowie	Wieruszów	subst:sg:voc:m3	geograficzna
 Wieruszowom	Wieruszów	subst:pl:dat:m3	geograficzna	
 Wieruszowowi	Wieruszów	subst:sg:dat:m3	geograficzna	
 Wieruszowów	Wieruszów	subst:pl:gen:m3	geograficzna	
-Wieruszowu	Wieruszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Wieruszowu	Wieruszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Wieruszowy	Wieruszów	subst:pl:acc:m3	geograficzna	
 Wieruszowy	Wieruszów	subst:pl:nom:m3	geograficzna	
 Wieruszowy	Wieruszów	subst:pl:voc:m3	geograficzna	
@@ -5221,7 +5221,7 @@ Wilanowie	Wilanów	subst:sg:voc:m3	geograficzna
 Wilanowom	Wilanów	subst:pl:dat:m3	geograficzna	
 Wilanowowi	Wilanów	subst:sg:dat:m3	geograficzna	
 Wilanowów	Wilanów	subst:pl:gen:m3	geograficzna	
-Wilanowu	Wilanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Wilanowu	Wilanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Wilanowy	Wilanów	subst:pl:acc:m3	geograficzna	
 Wilanowy	Wilanów	subst:pl:nom:m3	geograficzna	
 Wilanowy	Wilanów	subst:pl:voc:m3	geograficzna	
@@ -5600,7 +5600,7 @@ Wilkowie	Wilków	subst:sg:voc:m3	geograficzna
 Wilkowom	Wilków	subst:pl:dat:m3	geograficzna	
 Wilkowowi	Wilków	subst:sg:dat:m3	geograficzna	
 Wilkowów	Wilków	subst:pl:gen:m3	geograficzna	
-Wilkowu	Wilków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Wilkowu	Wilków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Wilkowy	Wilków	subst:pl:acc:m3	geograficzna	
 Wilkowy	Wilków	subst:pl:nom:m3	geograficzna	
 Wilkowy	Wilków	subst:pl:voc:m3	geograficzna	
@@ -7117,7 +7117,7 @@ Władysławowie	Władysławów	subst:sg:voc:m3	geograficzna
 Władysławowom	Władysławów	subst:pl:dat:m3	geograficzna	
 Władysławowowi	Władysławów	subst:sg:dat:m3	geograficzna	
 Władysławowów	Władysławów	subst:pl:gen:m3	geograficzna	
-Władysławowu	Władysławów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Władysławowu	Władysławów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Władysławowy	Władysławów	subst:pl:acc:m3	geograficzna	
 Władysławowy	Władysławów	subst:pl:nom:m3	geograficzna	
 Władysławowy	Władysławów	subst:pl:voc:m3	geograficzna	
@@ -7931,7 +7931,7 @@ Wojciechowie	Wojciechów	subst:sg:voc:m3	geograficzna
 Wojciechowom	Wojciechów	subst:pl:dat:m3	geograficzna	
 Wojciechowowi	Wojciechów	subst:sg:dat:m3	geograficzna	
 Wojciechowów	Wojciechów	subst:pl:gen:m3	geograficzna	
-Wojciechowu	Wojciechów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Wojciechowu	Wojciechów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Wojciechowy	Wojciechów	subst:pl:acc:m3	geograficzna	
 Wojciechowy	Wojciechów	subst:pl:nom:m3	geograficzna	
 Wojciechowy	Wojciechów	subst:pl:voc:m3	geograficzna	
@@ -7946,7 +7946,7 @@ Wojcieszkowie	Wojcieszków	subst:sg:voc:m3	geograficzna
 Wojcieszkowom	Wojcieszków	subst:pl:dat:m3	geograficzna	
 Wojcieszkowowi	Wojcieszków	subst:sg:dat:m3	geograficzna	
 Wojcieszkowów	Wojcieszków	subst:pl:gen:m3	geograficzna	
-Wojcieszkowu	Wojcieszków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Wojcieszkowu	Wojcieszków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Wojcieszkowy	Wojcieszków	subst:pl:acc:m3	geograficzna	
 Wojcieszkowy	Wojcieszków	subst:pl:nom:m3	geograficzna	
 Wojcieszkowy	Wojcieszków	subst:pl:voc:m3	geograficzna	
@@ -7961,7 +7961,7 @@ Wojcieszowie	Wojcieszów	subst:sg:voc:m3	geograficzna
 Wojcieszowom	Wojcieszów	subst:pl:dat:m3	geograficzna	
 Wojcieszowowi	Wojcieszów	subst:sg:dat:m3	geograficzna	
 Wojcieszowów	Wojcieszów	subst:pl:gen:m3	geograficzna	
-Wojcieszowu	Wojcieszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Wojcieszowu	Wojcieszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Wojcieszowy	Wojcieszów	subst:pl:acc:m3	geograficzna	
 Wojcieszowy	Wojcieszów	subst:pl:nom:m3	geograficzna	
 Wojcieszowy	Wojcieszów	subst:pl:voc:m3	geograficzna	
@@ -8418,7 +8418,7 @@ Wolanowie	Wolanów	subst:sg:voc:m3	geograficzna
 Wolanowom	Wolanów	subst:pl:dat:m3	geograficzna	
 Wolanowowi	Wolanów	subst:sg:dat:m3	geograficzna	
 Wolanowów	Wolanów	subst:pl:gen:m3	geograficzna	
-Wolanowu	Wolanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Wolanowu	Wolanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Wolanowy	Wolanów	subst:pl:acc:m3	geograficzna	
 Wolanowy	Wolanów	subst:pl:nom:m3	geograficzna	
 Wolanowy	Wolanów	subst:pl:voc:m3	geograficzna	
@@ -8886,7 +8886,7 @@ Wołowie	Wołów	subst:sg:voc:m3	geograficzna
 Wołowom	Wołów	subst:pl:dat:m3	geograficzna	
 Wołowowi	Wołów	subst:sg:dat:m3	geograficzna	
 Wołowów	Wołów	subst:pl:gen:m3	geograficzna	
-Wołowu	Wołów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Wołowu	Wołów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Wołowy	Wołów	subst:pl:acc:m3	geograficzna	
 Wołowy	Wołów	subst:pl:nom:m3	geograficzna	
 Wołowy	Wołów	subst:pl:voc:m3	geograficzna	
@@ -10639,7 +10639,7 @@ Wyszkowie	Wyszków	subst:sg:voc:m3	geograficzna
 Wyszkowom	Wyszków	subst:pl:dat:m3	geograficzna	
 Wyszkowowi	Wyszków	subst:sg:dat:m3	geograficzna	
 Wyszkowów	Wyszków	subst:pl:gen:m3	geograficzna	
-Wyszkowu	Wyszków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Wyszkowu	Wyszków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Wyszkowy	Wyszków	subst:pl:acc:m3	geograficzna	
 Wyszkowy	Wyszków	subst:pl:nom:m3	geograficzna	
 Wyszkowy	Wyszków	subst:pl:voc:m3	geograficzna	

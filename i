@@ -1193,34 +1193,34 @@ idejki	idejka	subst:sg:gen:f	pospolita
 idejko	idejka	subst:sg:voc:f	pospolita	
 idejkom	idejka	subst:pl:dat:f	pospolita	
 identycznie	identycznie	adv:pos		
-identycznościach	identyczność:s1	subst:pl:loc:f	pospolita	
-identycznościami	identyczność:s1	subst:pl:inst:f	pospolita	
-identycznością	identyczność:s1	subst:sg:inst:f	pospolita	
-identyczności	identyczność:s1	subst:pl:acc:f	pospolita	
-identyczności	identyczność:s1	subst:pl:gen:f	pospolita	
-identyczności	identyczność:s1	subst:pl:nom:f	pospolita	
-identyczności	identyczność:s1	subst:pl:voc:f	pospolita	
-identyczności	identyczność:s1	subst:sg:dat:f	pospolita	
-identyczności	identyczność:s1	subst:sg:gen:f	pospolita	
-identyczności	identyczność:s1	subst:sg:loc:f	pospolita	
-identyczności	identyczność:s1	subst:sg:voc:f	pospolita	
-identycznościom	identyczność:s1	subst:pl:dat:f	pospolita	
-identyczność	identyczność:s1	subst:sg:acc:f	pospolita	
-identyczność	identyczność:s1	subst:sg:nom:f	pospolita	
-identycznościach	identyczność:s2	subst:pl:loc:f		
-identycznościami	identyczność:s2	subst:pl:inst:f		
-identycznością	identyczność:s2	subst:sg:inst:f		
-identyczności	identyczność:s2	subst:pl:acc:f		
-identyczności	identyczność:s2	subst:pl:gen:f		
-identyczności	identyczność:s2	subst:pl:nom:f		
-identyczności	identyczność:s2	subst:pl:voc:f		
-identyczności	identyczność:s2	subst:sg:dat:f		
-identyczności	identyczność:s2	subst:sg:gen:f		
-identyczności	identyczność:s2	subst:sg:loc:f		
-identyczności	identyczność:s2	subst:sg:voc:f		
-identycznościom	identyczność:s2	subst:pl:dat:f		
-identyczność	identyczność:s2	subst:sg:acc:f		
-identyczność	identyczność:s2	subst:sg:nom:f		
+identycznościach	identyczność:s	subst:pl:loc:f	pospolita	
+identycznościami	identyczność:s	subst:pl:inst:f	pospolita	
+identycznością	identyczność:s	subst:sg:inst:f	pospolita	
+identyczności	identyczność:s	subst:pl:acc:f	pospolita	
+identyczności	identyczność:s	subst:pl:gen:f	pospolita	
+identyczności	identyczność:s	subst:pl:nom:f	pospolita	
+identyczności	identyczność:s	subst:pl:voc:f	pospolita	
+identyczności	identyczność:s	subst:sg:dat:f	pospolita	
+identyczności	identyczność:s	subst:sg:gen:f	pospolita	
+identyczności	identyczność:s	subst:sg:loc:f	pospolita	
+identyczności	identyczność:s	subst:sg:voc:f	pospolita	
+identycznościom	identyczność:s	subst:pl:dat:f	pospolita	
+identyczność	identyczność:s	subst:sg:acc:f	pospolita	
+identyczność	identyczność:s	subst:sg:nom:f	pospolita	
+identycznościach	identyczność:s	subst:pl:loc:f		
+identycznościami	identyczność:s	subst:pl:inst:f		
+identycznością	identyczność:s	subst:sg:inst:f		
+identyczności	identyczność:s	subst:pl:acc:f		
+identyczności	identyczność:s	subst:pl:gen:f		
+identyczności	identyczność:s	subst:pl:nom:f		
+identyczności	identyczność:s	subst:pl:voc:f		
+identyczności	identyczność:s	subst:sg:dat:f		
+identyczności	identyczność:s	subst:sg:gen:f		
+identyczności	identyczność:s	subst:sg:loc:f		
+identyczności	identyczność:s	subst:sg:voc:f		
+identycznościom	identyczność:s	subst:pl:dat:f		
+identyczność	identyczność:s	subst:sg:acc:f		
+identyczność	identyczność:s	subst:sg:nom:f		
 identyczna	identyczny	adj:sg:nom.voc:f:pos		
 identyczną	identyczny	adj:sg:acc:f:pos		
 identyczną	identyczny	adj:sg:inst:f:pos		
@@ -1312,6 +1312,86 @@ identyfikatory	identyfikator	subst:pl:nom:m3	pospolita
 identyfikatory	identyfikator	subst:pl:voc:m3	pospolita	
 identyfikatorze	identyfikator	subst:sg:loc:m3	pospolita	
 identyfikatorze	identyfikator	subst:sg:voc:m3	pospolita	
+identyfikowana	identyfikować:v	ppas:sg:nom.voc:f:imperf:aff		
+identyfikowaną	identyfikować:v	ppas:sg:acc.inst:f:imperf:aff		
+identyfikowanego	identyfikować:v	ppas:sg:acc:m1.m2:imperf:aff		
+identyfikowanego	identyfikować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+identyfikowane	identyfikować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+identyfikowane	identyfikować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+identyfikowanej	identyfikować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+identyfikowanemu	identyfikować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+identyfikowania	identyfikować:v	ger:pl:nom.acc:n2:imperf:aff		
+identyfikowania	identyfikować:v	ger:sg:gen:n2:imperf:aff		
+identyfikowaniami	identyfikować:v	ger:pl:inst:n2:imperf:aff		
+identyfikowanie	identyfikować:v	ger:sg:nom.acc:n2:imperf:aff		
+identyfikowaniem	identyfikować:v	ger:sg:inst:n2:imperf:aff		
+identyfikowani	identyfikować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+identyfikowaniom	identyfikować:v	ger:pl:dat.loc:n2:imperf:aff		
+identyfikowaniu	identyfikować:v	ger:sg:dat.loc:n2:imperf:aff		
+identyfikowanych	identyfikować:v	ppas:pl:acc:m1.p1:imperf:aff		
+identyfikowanych	identyfikować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+identyfikowany	identyfikować:v	ppas:sg:acc:m3:imperf:aff		
+identyfikowany	identyfikować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+identyfikowanym	identyfikować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+identyfikowanym	identyfikować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+identyfikowanymi	identyfikować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+identyfikowań	identyfikować:v	ger:pl:gen:n2:imperf:aff		
+identyfikująca	identyfikować:v	pact:sg:nom.voc:f:imperf:aff		
+identyfikującą	identyfikować:v	pact:sg:acc.inst:f:imperf:aff		
+identyfikującego	identyfikować:v	pact:sg:acc:m1.m2:imperf:aff		
+identyfikującego	identyfikować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+identyfikujące	identyfikować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+identyfikujące	identyfikować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+identyfikującej	identyfikować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+identyfikującemu	identyfikować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+identyfikujących	identyfikować:v	pact:pl:acc:m1.p1:imperf:aff		
+identyfikujących	identyfikować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+identyfikujący	identyfikować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+identyfikujący	identyfikować:v	pact:sg:acc:m3:imperf:aff		
+identyfikujący	identyfikować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+identyfikującym	identyfikować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+identyfikującym	identyfikować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+identyfikującymi	identyfikować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+identyfikowana	identyfikować:v	ppas:sg:nom.voc:f:imperf:aff		
+identyfikowaną	identyfikować:v	ppas:sg:acc.inst:f:imperf:aff		
+identyfikowanego	identyfikować:v	ppas:sg:acc:m1.m2:imperf:aff		
+identyfikowanego	identyfikować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+identyfikowane	identyfikować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+identyfikowane	identyfikować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+identyfikowanej	identyfikować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+identyfikowanemu	identyfikować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+identyfikowania	identyfikować:v	ger:pl:nom.acc:n2:imperf:aff		
+identyfikowania	identyfikować:v	ger:sg:gen:n2:imperf:aff		
+identyfikowaniami	identyfikować:v	ger:pl:inst:n2:imperf:aff		
+identyfikowanie	identyfikować:v	ger:sg:nom.acc:n2:imperf:aff		
+identyfikowaniem	identyfikować:v	ger:sg:inst:n2:imperf:aff		
+identyfikowani	identyfikować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+identyfikowaniom	identyfikować:v	ger:pl:dat.loc:n2:imperf:aff		
+identyfikowaniu	identyfikować:v	ger:sg:dat.loc:n2:imperf:aff		
+identyfikowanych	identyfikować:v	ppas:pl:acc:m1.p1:imperf:aff		
+identyfikowanych	identyfikować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+identyfikowany	identyfikować:v	ppas:sg:acc:m3:imperf:aff		
+identyfikowany	identyfikować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+identyfikowanym	identyfikować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+identyfikowanym	identyfikować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+identyfikowanymi	identyfikować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+identyfikowań	identyfikować:v	ger:pl:gen:n2:imperf:aff		
+identyfikująca	identyfikować:v	pact:sg:nom.voc:f:imperf:aff		
+identyfikującą	identyfikować:v	pact:sg:acc.inst:f:imperf:aff		
+identyfikującego	identyfikować:v	pact:sg:acc:m1.m2:imperf:aff		
+identyfikującego	identyfikować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+identyfikujące	identyfikować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+identyfikujące	identyfikować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+identyfikującej	identyfikować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+identyfikującemu	identyfikować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+identyfikujących	identyfikować:v	pact:pl:acc:m1.p1:imperf:aff		
+identyfikujących	identyfikować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+identyfikujący	identyfikować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+identyfikujący	identyfikować:v	pact:sg:acc:m3:imperf:aff		
+identyfikujący	identyfikować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+identyfikującym	identyfikować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+identyfikującym	identyfikować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+identyfikującymi	identyfikować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 identyfikować	identyfikować:v1	inf:imperf		
 identyfikowaliby	identyfikować:v1	cond:pl:m1.p1:ter:imperf		
 identyfikowalibyście	identyfikować:v1	cond:pl:m1.p1:sec:imperf		
@@ -1348,48 +1428,8 @@ identyfikowały	identyfikować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 identyfikowały	identyfikować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 identyfikowałyście	identyfikować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 identyfikowałyśmy	identyfikować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-identyfikowana	identyfikować:v1	ppas:sg:nom.voc:f:imperf:aff		
-identyfikowaną	identyfikować:v1	ppas:sg:acc.inst:f:imperf:aff		
-identyfikowanego	identyfikować:v1	ppas:sg:acc:m1.m2:imperf:aff		
-identyfikowanego	identyfikować:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-identyfikowane	identyfikować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-identyfikowane	identyfikować:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-identyfikowanej	identyfikować:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
-identyfikowanemu	identyfikować:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-identyfikowania	identyfikować:v1	ger:pl:nom.acc:n2:imperf:aff		
-identyfikowania	identyfikować:v1	ger:sg:gen:n2:imperf:aff		
-identyfikowaniami	identyfikować:v1	ger:pl:inst:n2:imperf:aff		
-identyfikowanie	identyfikować:v1	ger:sg:nom.acc:n2:imperf:aff		
-identyfikowaniem	identyfikować:v1	ger:sg:inst:n2:imperf:aff		
-identyfikowani	identyfikować:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
-identyfikowaniom	identyfikować:v1	ger:pl:dat.loc:n2:imperf:aff		
-identyfikowaniu	identyfikować:v1	ger:sg:dat.loc:n2:imperf:aff		
 identyfikowano	identyfikować:v1	imps:imperf		
-identyfikowanych	identyfikować:v1	ppas:pl:acc:m1.p1:imperf:aff		
-identyfikowanych	identyfikować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-identyfikowany	identyfikować:v1	ppas:sg:acc:m3:imperf:aff		
-identyfikowany	identyfikować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-identyfikowanym	identyfikować:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-identyfikowanym	identyfikować:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-identyfikowanymi	identyfikować:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-identyfikowań	identyfikować:v1	ger:pl:gen:n2:imperf:aff		
-identyfikująca	identyfikować:v1	pact:sg:nom.voc:f:imperf:aff		
-identyfikującą	identyfikować:v1	pact:sg:acc.inst:f:imperf:aff		
-identyfikującego	identyfikować:v1	pact:sg:acc:m1.m2:imperf:aff		
-identyfikującego	identyfikować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-identyfikujące	identyfikować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-identyfikujące	identyfikować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-identyfikującej	identyfikować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-identyfikującemu	identyfikować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 identyfikując	identyfikować:v1	pcon:imperf		
-identyfikujących	identyfikować:v1	pact:pl:acc:m1.p1:imperf:aff		
-identyfikujących	identyfikować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-identyfikujący	identyfikować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-identyfikujący	identyfikować:v1	pact:sg:acc:m3:imperf:aff		
-identyfikujący	identyfikować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-identyfikującym	identyfikować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-identyfikującym	identyfikować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-identyfikującymi	identyfikować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 identyfikują	identyfikować:v1	fin:pl:ter:imperf		
 identyfikujcie	identyfikować:v1	impt:pl:sec:imperf		
 identyfikujecie	identyfikować:v1	fin:pl:sec:imperf		
@@ -1435,48 +1475,8 @@ identyfikowały	identyfikować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 identyfikowały	identyfikować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 identyfikowałyście	identyfikować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 identyfikowałyśmy	identyfikować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-identyfikowana	identyfikować:v2	ppas:sg:nom.voc:f:imperf:aff		
-identyfikowaną	identyfikować:v2	ppas:sg:acc.inst:f:imperf:aff		
-identyfikowanego	identyfikować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-identyfikowanego	identyfikować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-identyfikowane	identyfikować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-identyfikowane	identyfikować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-identyfikowanej	identyfikować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-identyfikowanemu	identyfikować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-identyfikowania	identyfikować:v2	ger:pl:nom.acc:n2:imperf:aff		
-identyfikowania	identyfikować:v2	ger:sg:gen:n2:imperf:aff		
-identyfikowaniami	identyfikować:v2	ger:pl:inst:n2:imperf:aff		
-identyfikowanie	identyfikować:v2	ger:sg:nom.acc:n2:imperf:aff		
-identyfikowaniem	identyfikować:v2	ger:sg:inst:n2:imperf:aff		
-identyfikowani	identyfikować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-identyfikowaniom	identyfikować:v2	ger:pl:dat.loc:n2:imperf:aff		
-identyfikowaniu	identyfikować:v2	ger:sg:dat.loc:n2:imperf:aff		
 identyfikowano	identyfikować:v2	imps:imperf		
-identyfikowanych	identyfikować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-identyfikowanych	identyfikować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-identyfikowany	identyfikować:v2	ppas:sg:acc:m3:imperf:aff		
-identyfikowany	identyfikować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-identyfikowanym	identyfikować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-identyfikowanym	identyfikować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-identyfikowanymi	identyfikować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-identyfikowań	identyfikować:v2	ger:pl:gen:n2:imperf:aff		
-identyfikująca	identyfikować:v2	pact:sg:nom.voc:f:imperf:aff		
-identyfikującą	identyfikować:v2	pact:sg:acc.inst:f:imperf:aff		
-identyfikującego	identyfikować:v2	pact:sg:acc:m1.m2:imperf:aff		
-identyfikującego	identyfikować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-identyfikujące	identyfikować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-identyfikujące	identyfikować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-identyfikującej	identyfikować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-identyfikującemu	identyfikować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 identyfikując	identyfikować:v2	pcon:imperf		
-identyfikujących	identyfikować:v2	pact:pl:acc:m1.p1:imperf:aff		
-identyfikujących	identyfikować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-identyfikujący	identyfikować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-identyfikujący	identyfikować:v2	pact:sg:acc:m3:imperf:aff		
-identyfikujący	identyfikować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-identyfikującym	identyfikować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-identyfikującym	identyfikować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-identyfikującymi	identyfikować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 identyfikują	identyfikować:v2	fin:pl:ter:imperf		
 identyfikujcie	identyfikować:v2	impt:pl:sec:imperf		
 identyfikujecie	identyfikować:v2	fin:pl:sec:imperf		
@@ -4116,7 +4116,7 @@ ignominie	ignominia	subst:pl:acc:f	pospolita	daw.
 ignominie	ignominia	subst:pl:nom:f	pospolita	daw.
 ignominie	ignominia	subst:pl:voc:f	pospolita	daw.
 ignominię	ignominia	subst:sg:acc:f	pospolita	daw.
-ignominii	ignominia	subst:pl:gen:f	pospolita	daw.|hom.
+ignominii	ignominia	subst:pl:gen:f	pospolita	hom.|daw.
 ignominii	ignominia	subst:sg:dat:f	pospolita	daw.
 ignominii	ignominia	subst:sg:gen:f	pospolita	daw.
 ignominii	ignominia	subst:sg:loc:f	pospolita	daw.
@@ -5727,7 +5727,7 @@ illacje	illacja	subst:pl:acc:f	pospolita	daw.
 illacje	illacja	subst:pl:nom:f	pospolita	daw.
 illacje	illacja	subst:pl:voc:f	pospolita	daw.
 illację	illacja	subst:sg:acc:f	pospolita	daw.
-illacji	illacja	subst:pl:gen:f	pospolita	daw.|hom.
+illacji	illacja	subst:pl:gen:f	pospolita	hom.|daw.
 illacji	illacja	subst:sg:dat:f	pospolita	daw.
 illacji	illacja	subst:sg:gen:f	pospolita	daw.
 illacji	illacja	subst:sg:loc:f	pospolita	daw.
@@ -9625,7 +9625,7 @@ imisje	imisja	subst:pl:acc:f	pospolita	daw.
 imisje	imisja	subst:pl:nom:f	pospolita	daw.
 imisje	imisja	subst:pl:voc:f	pospolita	daw.
 imisję	imisja	subst:sg:acc:f	pospolita	daw.
-imisji	imisja	subst:pl:gen:f	pospolita	daw.|hom.
+imisji	imisja	subst:pl:gen:f	pospolita	hom.|daw.
 imisji	imisja	subst:sg:dat:f	pospolita	daw.
 imisji	imisja	subst:sg:gen:f	pospolita	daw.
 imisji	imisja	subst:sg:loc:f	pospolita	daw.
@@ -14346,34 +14346,34 @@ impulsowym	impulsowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 impulsowym	impulsowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 impulsowym	impulsowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 impulsywnie	impulsywnie	adv:pos		
-impulsywnościach	impulsywność:s1	subst:pl:loc:f	pospolita	
-impulsywnościami	impulsywność:s1	subst:pl:inst:f	pospolita	
-impulsywnością	impulsywność:s1	subst:sg:inst:f	pospolita	
-impulsywności	impulsywność:s1	subst:pl:acc:f	pospolita	
-impulsywności	impulsywność:s1	subst:pl:gen:f	pospolita	
-impulsywności	impulsywność:s1	subst:pl:nom:f	pospolita	
-impulsywności	impulsywność:s1	subst:pl:voc:f	pospolita	
-impulsywności	impulsywność:s1	subst:sg:dat:f	pospolita	
-impulsywności	impulsywność:s1	subst:sg:gen:f	pospolita	
-impulsywności	impulsywność:s1	subst:sg:loc:f	pospolita	
-impulsywności	impulsywność:s1	subst:sg:voc:f	pospolita	
-impulsywnościom	impulsywność:s1	subst:pl:dat:f	pospolita	
-impulsywność	impulsywność:s1	subst:sg:acc:f	pospolita	
-impulsywność	impulsywność:s1	subst:sg:nom:f	pospolita	
-impulsywnościach	impulsywność:s2	subst:pl:loc:f		
-impulsywnościami	impulsywność:s2	subst:pl:inst:f		
-impulsywnością	impulsywność:s2	subst:sg:inst:f		
-impulsywności	impulsywność:s2	subst:pl:acc:f		
-impulsywności	impulsywność:s2	subst:pl:gen:f		
-impulsywności	impulsywność:s2	subst:pl:nom:f		
-impulsywności	impulsywność:s2	subst:pl:voc:f		
-impulsywności	impulsywność:s2	subst:sg:dat:f		
-impulsywności	impulsywność:s2	subst:sg:gen:f		
-impulsywności	impulsywność:s2	subst:sg:loc:f		
-impulsywności	impulsywność:s2	subst:sg:voc:f		
-impulsywnościom	impulsywność:s2	subst:pl:dat:f		
-impulsywność	impulsywność:s2	subst:sg:acc:f		
-impulsywność	impulsywność:s2	subst:sg:nom:f		
+impulsywnościach	impulsywność:s	subst:pl:loc:f	pospolita	
+impulsywnościami	impulsywność:s	subst:pl:inst:f	pospolita	
+impulsywnością	impulsywność:s	subst:sg:inst:f	pospolita	
+impulsywności	impulsywność:s	subst:pl:acc:f	pospolita	
+impulsywności	impulsywność:s	subst:pl:gen:f	pospolita	
+impulsywności	impulsywność:s	subst:pl:nom:f	pospolita	
+impulsywności	impulsywność:s	subst:pl:voc:f	pospolita	
+impulsywności	impulsywność:s	subst:sg:dat:f	pospolita	
+impulsywności	impulsywność:s	subst:sg:gen:f	pospolita	
+impulsywności	impulsywność:s	subst:sg:loc:f	pospolita	
+impulsywności	impulsywność:s	subst:sg:voc:f	pospolita	
+impulsywnościom	impulsywność:s	subst:pl:dat:f	pospolita	
+impulsywność	impulsywność:s	subst:sg:acc:f	pospolita	
+impulsywność	impulsywność:s	subst:sg:nom:f	pospolita	
+impulsywnościach	impulsywność:s	subst:pl:loc:f		
+impulsywnościami	impulsywność:s	subst:pl:inst:f		
+impulsywnością	impulsywność:s	subst:sg:inst:f		
+impulsywności	impulsywność:s	subst:pl:acc:f		
+impulsywności	impulsywność:s	subst:pl:gen:f		
+impulsywności	impulsywność:s	subst:pl:nom:f		
+impulsywności	impulsywność:s	subst:pl:voc:f		
+impulsywności	impulsywność:s	subst:sg:dat:f		
+impulsywności	impulsywność:s	subst:sg:gen:f		
+impulsywności	impulsywność:s	subst:sg:loc:f		
+impulsywności	impulsywność:s	subst:sg:voc:f		
+impulsywnościom	impulsywność:s	subst:pl:dat:f		
+impulsywność	impulsywność:s	subst:sg:acc:f		
+impulsywność	impulsywność:s	subst:sg:nom:f		
 impulsywna	impulsywny	adj:sg:nom.voc:f:pos		
 impulsywną	impulsywny	adj:sg:acc:f:pos		
 impulsywną	impulsywny	adj:sg:inst:f:pos		
@@ -15876,7 +15876,7 @@ independencje	independencja	subst:pl:acc:f	pospolita	daw.
 independencje	independencja	subst:pl:nom:f	pospolita	daw.
 independencje	independencja	subst:pl:voc:f	pospolita	daw.
 independencję	independencja	subst:sg:acc:f	pospolita	daw.
-independencji	independencja	subst:pl:gen:f	pospolita	daw.|hom.
+independencji	independencja	subst:pl:gen:f	pospolita	hom.|daw.
 independencji	independencja	subst:sg:dat:f	pospolita	daw.
 independencji	independencja	subst:sg:gen:f	pospolita	daw.
 independencji	independencja	subst:sg:loc:f	pospolita	daw.
@@ -16895,34 +16895,34 @@ indukcjonizmy	indukcjonizm	subst:pl:acc:m3	pospolita
 indukcjonizmy	indukcjonizm	subst:pl:nom:m3	pospolita	
 indukcjonizmy	indukcjonizm	subst:pl:voc:m3	pospolita	
 indukcyjnie	indukcyjnie	adv:pos		
-indukcyjnościach	indukcyjność:s1	subst:pl:loc:f	pospolita	
-indukcyjnościami	indukcyjność:s1	subst:pl:inst:f	pospolita	
-indukcyjnością	indukcyjność:s1	subst:sg:inst:f	pospolita	
-indukcyjności	indukcyjność:s1	subst:pl:acc:f	pospolita	
-indukcyjności	indukcyjność:s1	subst:pl:gen:f	pospolita	
-indukcyjności	indukcyjność:s1	subst:pl:nom:f	pospolita	
-indukcyjności	indukcyjność:s1	subst:pl:voc:f	pospolita	
-indukcyjności	indukcyjność:s1	subst:sg:dat:f	pospolita	
-indukcyjności	indukcyjność:s1	subst:sg:gen:f	pospolita	
-indukcyjności	indukcyjność:s1	subst:sg:loc:f	pospolita	
-indukcyjności	indukcyjność:s1	subst:sg:voc:f	pospolita	
-indukcyjnościom	indukcyjność:s1	subst:pl:dat:f	pospolita	
-indukcyjność	indukcyjność:s1	subst:sg:acc:f	pospolita	
-indukcyjność	indukcyjność:s1	subst:sg:nom:f	pospolita	
-indukcyjnościach	indukcyjność:s2	subst:pl:loc:f		
-indukcyjnościami	indukcyjność:s2	subst:pl:inst:f		
-indukcyjnością	indukcyjność:s2	subst:sg:inst:f		
-indukcyjności	indukcyjność:s2	subst:pl:acc:f		
-indukcyjności	indukcyjność:s2	subst:pl:gen:f		
-indukcyjności	indukcyjność:s2	subst:pl:nom:f		
-indukcyjności	indukcyjność:s2	subst:pl:voc:f		
-indukcyjności	indukcyjność:s2	subst:sg:dat:f		
-indukcyjności	indukcyjność:s2	subst:sg:gen:f		
-indukcyjności	indukcyjność:s2	subst:sg:loc:f		
-indukcyjności	indukcyjność:s2	subst:sg:voc:f		
-indukcyjnościom	indukcyjność:s2	subst:pl:dat:f		
-indukcyjność	indukcyjność:s2	subst:sg:acc:f		
-indukcyjność	indukcyjność:s2	subst:sg:nom:f		
+indukcyjnościach	indukcyjność:s	subst:pl:loc:f	pospolita	
+indukcyjnościami	indukcyjność:s	subst:pl:inst:f	pospolita	
+indukcyjnością	indukcyjność:s	subst:sg:inst:f	pospolita	
+indukcyjności	indukcyjność:s	subst:pl:acc:f	pospolita	
+indukcyjności	indukcyjność:s	subst:pl:gen:f	pospolita	
+indukcyjności	indukcyjność:s	subst:pl:nom:f	pospolita	
+indukcyjności	indukcyjność:s	subst:pl:voc:f	pospolita	
+indukcyjności	indukcyjność:s	subst:sg:dat:f	pospolita	
+indukcyjności	indukcyjność:s	subst:sg:gen:f	pospolita	
+indukcyjności	indukcyjność:s	subst:sg:loc:f	pospolita	
+indukcyjności	indukcyjność:s	subst:sg:voc:f	pospolita	
+indukcyjnościom	indukcyjność:s	subst:pl:dat:f	pospolita	
+indukcyjność	indukcyjność:s	subst:sg:acc:f	pospolita	
+indukcyjność	indukcyjność:s	subst:sg:nom:f	pospolita	
+indukcyjnościach	indukcyjność:s	subst:pl:loc:f		
+indukcyjnościami	indukcyjność:s	subst:pl:inst:f		
+indukcyjnością	indukcyjność:s	subst:sg:inst:f		
+indukcyjności	indukcyjność:s	subst:pl:acc:f		
+indukcyjności	indukcyjność:s	subst:pl:gen:f		
+indukcyjności	indukcyjność:s	subst:pl:nom:f		
+indukcyjności	indukcyjność:s	subst:pl:voc:f		
+indukcyjności	indukcyjność:s	subst:sg:dat:f		
+indukcyjności	indukcyjność:s	subst:sg:gen:f		
+indukcyjności	indukcyjność:s	subst:sg:loc:f		
+indukcyjności	indukcyjność:s	subst:sg:voc:f		
+indukcyjnościom	indukcyjność:s	subst:pl:dat:f		
+indukcyjność	indukcyjność:s	subst:sg:acc:f		
+indukcyjność	indukcyjność:s	subst:sg:nom:f		
 indukcyjna	indukcyjny	adj:sg:nom.voc:f:pos		
 indukcyjną	indukcyjny	adj:sg:acc:f:pos		
 indukcyjną	indukcyjny	adj:sg:inst:f:pos		
@@ -17434,7 +17434,7 @@ indycje	indycja	subst:pl:acc:f	pospolita	daw.
 indycje	indycja	subst:pl:nom:f	pospolita	daw.
 indycje	indycja	subst:pl:voc:f	pospolita	daw.
 indycję	indycja	subst:sg:acc:f	pospolita	daw.
-indycji	indycja	subst:pl:gen:f	pospolita	daw.|hom.
+indycji	indycja	subst:pl:gen:f	pospolita	hom.|daw.
 indycji	indycja	subst:sg:dat:f	pospolita	daw.
 indycji	indycja	subst:sg:gen:f	pospolita	daw.
 indycji	indycja	subst:sg:loc:f	pospolita	daw.
@@ -17784,7 +17784,7 @@ indygnacje	indygnacja	subst:pl:acc:f	pospolita	daw.
 indygnacje	indygnacja	subst:pl:nom:f	pospolita	daw.
 indygnacje	indygnacja	subst:pl:voc:f	pospolita	daw.
 indygnację	indygnacja	subst:sg:acc:f	pospolita	daw.
-indygnacji	indygnacja	subst:pl:gen:f	pospolita	daw.|hom.
+indygnacji	indygnacja	subst:pl:gen:f	pospolita	hom.|daw.
 indygnacji	indygnacja	subst:sg:dat:f	pospolita	daw.
 indygnacji	indygnacja	subst:sg:gen:f	pospolita	daw.
 indygnacji	indygnacja	subst:sg:loc:f	pospolita	daw.
@@ -18048,7 +18048,7 @@ indykcje	indykcja	subst:pl:acc:f	pospolita	daw.
 indykcje	indykcja	subst:pl:nom:f	pospolita	daw.
 indykcje	indykcja	subst:pl:voc:f	pospolita	daw.
 indykcję	indykcja	subst:sg:acc:f	pospolita	daw.
-indykcji	indykcja	subst:pl:gen:f	pospolita	daw.|hom.
+indykcji	indykcja	subst:pl:gen:f	pospolita	hom.|daw.
 indykcji	indykcja	subst:sg:dat:f	pospolita	daw.
 indykcji	indykcja	subst:sg:gen:f	pospolita	daw.
 indykcji	indykcja	subst:sg:loc:f	pospolita	daw.
@@ -18150,7 +18150,7 @@ indyskrecje	indyskrecja	subst:pl:acc:f	pospolita	daw.
 indyskrecje	indyskrecja	subst:pl:nom:f	pospolita	daw.
 indyskrecje	indyskrecja	subst:pl:voc:f	pospolita	daw.
 indyskrecję	indyskrecja	subst:sg:acc:f	pospolita	daw.
-indyskrecji	indyskrecja	subst:pl:gen:f	pospolita	daw.|hom.
+indyskrecji	indyskrecja	subst:pl:gen:f	pospolita	hom.|daw.
 indyskrecji	indyskrecja	subst:sg:dat:f	pospolita	daw.
 indyskrecji	indyskrecja	subst:sg:gen:f	pospolita	daw.
 indyskrecji	indyskrecja	subst:sg:loc:f	pospolita	daw.
@@ -18165,7 +18165,7 @@ indyspozycje	indyspozycja	subst:pl:acc:f	pospolita	daw.
 indyspozycje	indyspozycja	subst:pl:nom:f	pospolita	daw.
 indyspozycje	indyspozycja	subst:pl:voc:f	pospolita	daw.
 indyspozycję	indyspozycja	subst:sg:acc:f	pospolita	daw.
-indyspozycji	indyspozycja	subst:pl:gen:f	pospolita	daw.|hom.
+indyspozycji	indyspozycja	subst:pl:gen:f	pospolita	hom.|daw.
 indyspozycji	indyspozycja	subst:sg:dat:f	pospolita	daw.
 indyspozycji	indyspozycja	subst:sg:gen:f	pospolita	daw.
 indyspozycji	indyspozycja	subst:sg:loc:f	pospolita	daw.
@@ -18373,34 +18373,34 @@ indywidualizuję	indywidualizować	fin:sg:pri:imperf
 indywidualizuj	indywidualizować	impt:sg:sec:imperf		
 indywidualizujmy	indywidualizować	impt:pl:pri:imperf		
 indywidualnie	indywidualnie	adv:pos		
-indywidualnościach	indywidualność:s1	subst:pl:loc:f	pospolita	
-indywidualnościami	indywidualność:s1	subst:pl:inst:f	pospolita	
-indywidualnością	indywidualność:s1	subst:sg:inst:f	pospolita	
-indywidualności	indywidualność:s1	subst:pl:acc:f	pospolita	
-indywidualności	indywidualność:s1	subst:pl:gen:f	pospolita	
-indywidualności	indywidualność:s1	subst:pl:nom:f	pospolita	
-indywidualności	indywidualność:s1	subst:pl:voc:f	pospolita	
-indywidualności	indywidualność:s1	subst:sg:dat:f	pospolita	
-indywidualności	indywidualność:s1	subst:sg:gen:f	pospolita	
-indywidualności	indywidualność:s1	subst:sg:loc:f	pospolita	
-indywidualności	indywidualność:s1	subst:sg:voc:f	pospolita	
-indywidualnościom	indywidualność:s1	subst:pl:dat:f	pospolita	
-indywidualność	indywidualność:s1	subst:sg:acc:f	pospolita	
-indywidualność	indywidualność:s1	subst:sg:nom:f	pospolita	
-indywidualnościach	indywidualność:s2	subst:pl:loc:f		
-indywidualnościami	indywidualność:s2	subst:pl:inst:f		
-indywidualnością	indywidualność:s2	subst:sg:inst:f		
-indywidualności	indywidualność:s2	subst:pl:acc:f		
-indywidualności	indywidualność:s2	subst:pl:gen:f		
-indywidualności	indywidualność:s2	subst:pl:nom:f		
-indywidualności	indywidualność:s2	subst:pl:voc:f		
-indywidualności	indywidualność:s2	subst:sg:dat:f		
-indywidualności	indywidualność:s2	subst:sg:gen:f		
-indywidualności	indywidualność:s2	subst:sg:loc:f		
-indywidualności	indywidualność:s2	subst:sg:voc:f		
-indywidualnościom	indywidualność:s2	subst:pl:dat:f		
-indywidualność	indywidualność:s2	subst:sg:acc:f		
-indywidualność	indywidualność:s2	subst:sg:nom:f		
+indywidualnościach	indywidualność:s	subst:pl:loc:f	pospolita	
+indywidualnościami	indywidualność:s	subst:pl:inst:f	pospolita	
+indywidualnością	indywidualność:s	subst:sg:inst:f	pospolita	
+indywidualności	indywidualność:s	subst:pl:acc:f	pospolita	
+indywidualności	indywidualność:s	subst:pl:gen:f	pospolita	
+indywidualności	indywidualność:s	subst:pl:nom:f	pospolita	
+indywidualności	indywidualność:s	subst:pl:voc:f	pospolita	
+indywidualności	indywidualność:s	subst:sg:dat:f	pospolita	
+indywidualności	indywidualność:s	subst:sg:gen:f	pospolita	
+indywidualności	indywidualność:s	subst:sg:loc:f	pospolita	
+indywidualności	indywidualność:s	subst:sg:voc:f	pospolita	
+indywidualnościom	indywidualność:s	subst:pl:dat:f	pospolita	
+indywidualność	indywidualność:s	subst:sg:acc:f	pospolita	
+indywidualność	indywidualność:s	subst:sg:nom:f	pospolita	
+indywidualnościach	indywidualność:s	subst:pl:loc:f		
+indywidualnościami	indywidualność:s	subst:pl:inst:f		
+indywidualnością	indywidualność:s	subst:sg:inst:f		
+indywidualności	indywidualność:s	subst:pl:acc:f		
+indywidualności	indywidualność:s	subst:pl:gen:f		
+indywidualności	indywidualność:s	subst:pl:nom:f		
+indywidualności	indywidualność:s	subst:pl:voc:f		
+indywidualności	indywidualność:s	subst:sg:dat:f		
+indywidualności	indywidualność:s	subst:sg:gen:f		
+indywidualności	indywidualność:s	subst:sg:loc:f		
+indywidualności	indywidualność:s	subst:sg:voc:f		
+indywidualnościom	indywidualność:s	subst:pl:dat:f		
+indywidualność	indywidualność:s	subst:sg:acc:f		
+indywidualność	indywidualność:s	subst:sg:nom:f		
 indywidualna	indywidualny	adj:sg:nom.voc:f:pos		
 indywidualną	indywidualny	adj:sg:acc:f:pos		
 indywidualną	indywidualny	adj:sg:inst:f:pos		
@@ -18705,7 +18705,7 @@ infanterie	infanteria	subst:pl:acc:f	pospolita	daw.
 infanterie	infanteria	subst:pl:nom:f	pospolita	daw.
 infanterie	infanteria	subst:pl:voc:f	pospolita	daw.
 infanterię	infanteria	subst:sg:acc:f	pospolita	daw.
-infanterii	infanteria	subst:pl:gen:f	pospolita	daw.|hom.
+infanterii	infanteria	subst:pl:gen:f	pospolita	hom.|daw.
 infanterii	infanteria	subst:sg:dat:f	pospolita	daw.
 infanterii	infanteria	subst:sg:gen:f	pospolita	daw.
 infanterii	infanteria	subst:sg:loc:f	pospolita	daw.
@@ -19616,7 +19616,7 @@ infirmarie	infirmaria	subst:pl:acc:f	pospolita	daw.
 infirmarie	infirmaria	subst:pl:nom:f	pospolita	daw.
 infirmarie	infirmaria	subst:pl:voc:f	pospolita	daw.
 infirmarię	infirmaria	subst:sg:acc:f	pospolita	daw.
-infirmarii	infirmaria	subst:pl:gen:f	pospolita	daw.|hom.
+infirmarii	infirmaria	subst:pl:gen:f	pospolita	hom.|daw.
 infirmarii	infirmaria	subst:sg:dat:f	pospolita	daw.
 infirmarii	infirmaria	subst:sg:gen:f	pospolita	daw.
 infirmarii	infirmaria	subst:sg:loc:f	pospolita	daw.
@@ -20543,7 +20543,7 @@ infrakcje	infrakcja	subst:pl:acc:f	pospolita	daw.
 infrakcje	infrakcja	subst:pl:nom:f	pospolita	daw.
 infrakcje	infrakcja	subst:pl:voc:f	pospolita	daw.
 infrakcję	infrakcja	subst:sg:acc:f	pospolita	daw.
-infrakcji	infrakcja	subst:pl:gen:f	pospolita	daw.|hom.
+infrakcji	infrakcja	subst:pl:gen:f	pospolita	hom.|daw.
 infrakcji	infrakcja	subst:sg:dat:f	pospolita	daw.
 infrakcji	infrakcja	subst:sg:gen:f	pospolita	daw.
 infrakcji	infrakcja	subst:sg:loc:f	pospolita	daw.
@@ -20624,7 +20624,7 @@ infułacje	infułacja	subst:pl:acc:f	pospolita	daw.
 infułacje	infułacja	subst:pl:nom:f	pospolita	daw.
 infułacje	infułacja	subst:pl:voc:f	pospolita	daw.
 infułację	infułacja	subst:sg:acc:f	pospolita	daw.
-infułacji	infułacja	subst:pl:gen:f	pospolita	daw.|hom.
+infułacji	infułacja	subst:pl:gen:f	pospolita	hom.|daw.
 infułacji	infułacja	subst:sg:dat:f	pospolita	daw.
 infułacji	infułacja	subst:sg:gen:f	pospolita	daw.
 infułacji	infułacja	subst:sg:loc:f	pospolita	daw.
@@ -21391,7 +21391,7 @@ inhibicje	inhibicja	subst:pl:acc:f	pospolita	daw.
 inhibicje	inhibicja	subst:pl:nom:f	pospolita	daw.
 inhibicje	inhibicja	subst:pl:voc:f	pospolita	daw.
 inhibicję	inhibicja	subst:sg:acc:f	pospolita	daw.
-inhibicji	inhibicja	subst:pl:gen:f	pospolita	daw.|hom.
+inhibicji	inhibicja	subst:pl:gen:f	pospolita	hom.|daw.
 inhibicji	inhibicja	subst:sg:dat:f	pospolita	daw.
 inhibicji	inhibicja	subst:sg:gen:f	pospolita	daw.
 inhibicji	inhibicja	subst:sg:loc:f	pospolita	daw.
@@ -22013,7 +22013,7 @@ inkameracje	inkameracja	subst:pl:acc:f	pospolita	daw.
 inkameracje	inkameracja	subst:pl:nom:f	pospolita	daw.
 inkameracje	inkameracja	subst:pl:voc:f	pospolita	daw.
 inkamerację	inkameracja	subst:sg:acc:f	pospolita	daw.
-inkameracji	inkameracja	subst:pl:gen:f	pospolita	daw.|hom.
+inkameracji	inkameracja	subst:pl:gen:f	pospolita	hom.|daw.
 inkameracji	inkameracja	subst:sg:dat:f	pospolita	daw.
 inkameracji	inkameracja	subst:sg:gen:f	pospolita	daw.
 inkameracji	inkameracja	subst:sg:loc:f	pospolita	daw.
@@ -23010,7 +23010,7 @@ inkonweniencje	inkonweniencja	subst:pl:acc:f	pospolita	daw.
 inkonweniencje	inkonweniencja	subst:pl:nom:f	pospolita	daw.
 inkonweniencje	inkonweniencja	subst:pl:voc:f	pospolita	daw.
 inkonweniencję	inkonweniencja	subst:sg:acc:f	pospolita	daw.
-inkonweniencji	inkonweniencja	subst:pl:gen:f	pospolita	daw.|hom.
+inkonweniencji	inkonweniencja	subst:pl:gen:f	pospolita	hom.|daw.
 inkonweniencji	inkonweniencja	subst:sg:dat:f	pospolita	daw.
 inkonweniencji	inkonweniencja	subst:sg:gen:f	pospolita	daw.
 inkonweniencji	inkonweniencja	subst:sg:loc:f	pospolita	daw.
@@ -23758,7 +23758,7 @@ inkursje	inkursja	subst:pl:acc:f	pospolita	daw.
 inkursje	inkursja	subst:pl:nom:f	pospolita	daw.
 inkursje	inkursja	subst:pl:voc:f	pospolita	daw.
 inkursję	inkursja	subst:sg:acc:f	pospolita	daw.
-inkursji	inkursja	subst:pl:gen:f	pospolita	daw.|hom.
+inkursji	inkursja	subst:pl:gen:f	pospolita	hom.|daw.
 inkursji	inkursja	subst:sg:dat:f	pospolita	daw.
 inkursji	inkursja	subst:sg:gen:f	pospolita	daw.
 inkursji	inkursja	subst:sg:loc:f	pospolita	daw.
@@ -24082,7 +24082,7 @@ innocencje	innocencja	subst:pl:acc:f	pospolita	daw.
 innocencje	innocencja	subst:pl:nom:f	pospolita	daw.
 innocencje	innocencja	subst:pl:voc:f	pospolita	daw.
 innocencję	innocencja	subst:sg:acc:f	pospolita	daw.
-innocencji	innocencja	subst:pl:gen:f	pospolita	daw.|hom.
+innocencji	innocencja	subst:pl:gen:f	pospolita	hom.|daw.
 innocencji	innocencja	subst:sg:dat:f	pospolita	daw.
 innocencji	innocencja	subst:sg:gen:f	pospolita	daw.
 innocencji	innocencja	subst:sg:loc:f	pospolita	daw.
@@ -25621,7 +25621,7 @@ insolwencje	insolwencja	subst:pl:acc:f	pospolita	daw.
 insolwencje	insolwencja	subst:pl:nom:f	pospolita	daw.
 insolwencje	insolwencja	subst:pl:voc:f	pospolita	daw.
 insolwencję	insolwencja	subst:sg:acc:f	pospolita	daw.
-insolwencji	insolwencja	subst:pl:gen:f	pospolita	daw.|hom.
+insolwencji	insolwencja	subst:pl:gen:f	pospolita	hom.|daw.
 insolwencji	insolwencja	subst:sg:dat:f	pospolita	daw.
 insolwencji	insolwencja	subst:sg:gen:f	pospolita	daw.
 insolwencji	insolwencja	subst:sg:loc:f	pospolita	daw.
@@ -27797,7 +27797,7 @@ instygacje	instygacja	subst:pl:acc:f	pospolita	daw.
 instygacje	instygacja	subst:pl:nom:f	pospolita	daw.
 instygacje	instygacja	subst:pl:voc:f	pospolita	daw.
 instygację	instygacja	subst:sg:acc:f	pospolita	daw.
-instygacji	instygacja	subst:pl:gen:f	pospolita	daw.|hom.
+instygacji	instygacja	subst:pl:gen:f	pospolita	hom.|daw.
 instygacji	instygacja	subst:sg:dat:f	pospolita	daw.
 instygacji	instygacja	subst:sg:gen:f	pospolita	daw.
 instygacji	instygacja	subst:sg:loc:f	pospolita	daw.
@@ -28668,7 +28668,7 @@ insurekcje	insurekcja	subst:pl:acc:f	pospolita	daw.
 insurekcje	insurekcja	subst:pl:nom:f	pospolita	daw.
 insurekcje	insurekcja	subst:pl:voc:f	pospolita	daw.
 insurekcję	insurekcja	subst:sg:acc:f	pospolita	daw.
-insurekcji	insurekcja	subst:pl:gen:f	pospolita	daw.|hom.
+insurekcji	insurekcja	subst:pl:gen:f	pospolita	hom.|daw.
 insurekcji	insurekcja	subst:sg:dat:f	pospolita	daw.
 insurekcji	insurekcja	subst:sg:gen:f	pospolita	daw.
 insurekcji	insurekcja	subst:sg:loc:f	pospolita	daw.
@@ -29337,34 +29337,34 @@ integralizmy	integralizm	subst:pl:acc:m3	pospolita
 integralizmy	integralizm	subst:pl:nom:m3	pospolita	
 integralizmy	integralizm	subst:pl:voc:m3	pospolita	
 integralnie	integralnie	adv:pos		
-integralnościach	integralność:s1	subst:pl:loc:f	pospolita	
-integralnościami	integralność:s1	subst:pl:inst:f	pospolita	
-integralnością	integralność:s1	subst:sg:inst:f	pospolita	
-integralności	integralność:s1	subst:pl:acc:f	pospolita	
-integralności	integralność:s1	subst:pl:gen:f	pospolita	
-integralności	integralność:s1	subst:pl:nom:f	pospolita	
-integralności	integralność:s1	subst:pl:voc:f	pospolita	
-integralności	integralność:s1	subst:sg:dat:f	pospolita	
-integralności	integralność:s1	subst:sg:gen:f	pospolita	
-integralności	integralność:s1	subst:sg:loc:f	pospolita	
-integralności	integralność:s1	subst:sg:voc:f	pospolita	
-integralnościom	integralność:s1	subst:pl:dat:f	pospolita	
-integralność	integralność:s1	subst:sg:acc:f	pospolita	
-integralność	integralność:s1	subst:sg:nom:f	pospolita	
-integralnościach	integralność:s2	subst:pl:loc:f		
-integralnościami	integralność:s2	subst:pl:inst:f		
-integralnością	integralność:s2	subst:sg:inst:f		
-integralności	integralność:s2	subst:pl:acc:f		
-integralności	integralność:s2	subst:pl:gen:f		
-integralności	integralność:s2	subst:pl:nom:f		
-integralności	integralność:s2	subst:pl:voc:f		
-integralności	integralność:s2	subst:sg:dat:f		
-integralności	integralność:s2	subst:sg:gen:f		
-integralności	integralność:s2	subst:sg:loc:f		
-integralności	integralność:s2	subst:sg:voc:f		
-integralnościom	integralność:s2	subst:pl:dat:f		
-integralność	integralność:s2	subst:sg:acc:f		
-integralność	integralność:s2	subst:sg:nom:f		
+integralnościach	integralność:s	subst:pl:loc:f	pospolita	
+integralnościami	integralność:s	subst:pl:inst:f	pospolita	
+integralnością	integralność:s	subst:sg:inst:f	pospolita	
+integralności	integralność:s	subst:pl:acc:f	pospolita	
+integralności	integralność:s	subst:pl:gen:f	pospolita	
+integralności	integralność:s	subst:pl:nom:f	pospolita	
+integralności	integralność:s	subst:pl:voc:f	pospolita	
+integralności	integralność:s	subst:sg:dat:f	pospolita	
+integralności	integralność:s	subst:sg:gen:f	pospolita	
+integralności	integralność:s	subst:sg:loc:f	pospolita	
+integralności	integralność:s	subst:sg:voc:f	pospolita	
+integralnościom	integralność:s	subst:pl:dat:f	pospolita	
+integralność	integralność:s	subst:sg:acc:f	pospolita	
+integralność	integralność:s	subst:sg:nom:f	pospolita	
+integralnościach	integralność:s	subst:pl:loc:f		
+integralnościami	integralność:s	subst:pl:inst:f		
+integralnością	integralność:s	subst:sg:inst:f		
+integralności	integralność:s	subst:pl:acc:f		
+integralności	integralność:s	subst:pl:gen:f		
+integralności	integralność:s	subst:pl:nom:f		
+integralności	integralność:s	subst:pl:voc:f		
+integralności	integralność:s	subst:sg:dat:f		
+integralności	integralność:s	subst:sg:gen:f		
+integralności	integralność:s	subst:sg:loc:f		
+integralności	integralność:s	subst:sg:voc:f		
+integralnościom	integralność:s	subst:pl:dat:f		
+integralność	integralność:s	subst:sg:acc:f		
+integralność	integralność:s	subst:sg:nom:f		
 integralna	integralny	adj:sg:nom.voc:f:pos		
 integralną	integralny	adj:sg:acc:f:pos		
 integralną	integralny	adj:sg:inst:f:pos		
@@ -30126,34 +30126,34 @@ intencjonalizmy	intencjonalizm	subst:pl:acc:m3	pospolita
 intencjonalizmy	intencjonalizm	subst:pl:nom:m3	pospolita	
 intencjonalizmy	intencjonalizm	subst:pl:voc:m3	pospolita	
 intencjonalnie	intencjonalnie	adv:pos		
-intencjonalnościach	intencjonalność:s1	subst:pl:loc:f	pospolita	
-intencjonalnościami	intencjonalność:s1	subst:pl:inst:f	pospolita	
-intencjonalnością	intencjonalność:s1	subst:sg:inst:f	pospolita	
-intencjonalności	intencjonalność:s1	subst:pl:acc:f	pospolita	
-intencjonalności	intencjonalność:s1	subst:pl:gen:f	pospolita	
-intencjonalności	intencjonalność:s1	subst:pl:nom:f	pospolita	
-intencjonalności	intencjonalność:s1	subst:pl:voc:f	pospolita	
-intencjonalności	intencjonalność:s1	subst:sg:dat:f	pospolita	
-intencjonalności	intencjonalność:s1	subst:sg:gen:f	pospolita	
-intencjonalności	intencjonalność:s1	subst:sg:loc:f	pospolita	
-intencjonalności	intencjonalność:s1	subst:sg:voc:f	pospolita	
-intencjonalnościom	intencjonalność:s1	subst:pl:dat:f	pospolita	
-intencjonalność	intencjonalność:s1	subst:sg:acc:f	pospolita	
-intencjonalność	intencjonalność:s1	subst:sg:nom:f	pospolita	
-intencjonalnościach	intencjonalność:s2	subst:pl:loc:f		
-intencjonalnościami	intencjonalność:s2	subst:pl:inst:f		
-intencjonalnością	intencjonalność:s2	subst:sg:inst:f		
-intencjonalności	intencjonalność:s2	subst:pl:acc:f		
-intencjonalności	intencjonalność:s2	subst:pl:gen:f		
-intencjonalności	intencjonalność:s2	subst:pl:nom:f		
-intencjonalności	intencjonalność:s2	subst:pl:voc:f		
-intencjonalności	intencjonalność:s2	subst:sg:dat:f		
-intencjonalności	intencjonalność:s2	subst:sg:gen:f		
-intencjonalności	intencjonalność:s2	subst:sg:loc:f		
-intencjonalności	intencjonalność:s2	subst:sg:voc:f		
-intencjonalnościom	intencjonalność:s2	subst:pl:dat:f		
-intencjonalność	intencjonalność:s2	subst:sg:acc:f		
-intencjonalność	intencjonalność:s2	subst:sg:nom:f		
+intencjonalnościach	intencjonalność:s	subst:pl:loc:f	pospolita	
+intencjonalnościami	intencjonalność:s	subst:pl:inst:f	pospolita	
+intencjonalnością	intencjonalność:s	subst:sg:inst:f	pospolita	
+intencjonalności	intencjonalność:s	subst:pl:acc:f	pospolita	
+intencjonalności	intencjonalność:s	subst:pl:gen:f	pospolita	
+intencjonalności	intencjonalność:s	subst:pl:nom:f	pospolita	
+intencjonalności	intencjonalność:s	subst:pl:voc:f	pospolita	
+intencjonalności	intencjonalność:s	subst:sg:dat:f	pospolita	
+intencjonalności	intencjonalność:s	subst:sg:gen:f	pospolita	
+intencjonalności	intencjonalność:s	subst:sg:loc:f	pospolita	
+intencjonalności	intencjonalność:s	subst:sg:voc:f	pospolita	
+intencjonalnościom	intencjonalność:s	subst:pl:dat:f	pospolita	
+intencjonalność	intencjonalność:s	subst:sg:acc:f	pospolita	
+intencjonalność	intencjonalność:s	subst:sg:nom:f	pospolita	
+intencjonalnościach	intencjonalność:s	subst:pl:loc:f		
+intencjonalnościami	intencjonalność:s	subst:pl:inst:f		
+intencjonalnością	intencjonalność:s	subst:sg:inst:f		
+intencjonalności	intencjonalność:s	subst:pl:acc:f		
+intencjonalności	intencjonalność:s	subst:pl:gen:f		
+intencjonalności	intencjonalność:s	subst:pl:nom:f		
+intencjonalności	intencjonalność:s	subst:pl:voc:f		
+intencjonalności	intencjonalność:s	subst:sg:dat:f		
+intencjonalności	intencjonalność:s	subst:sg:gen:f		
+intencjonalności	intencjonalność:s	subst:sg:loc:f		
+intencjonalności	intencjonalność:s	subst:sg:voc:f		
+intencjonalnościom	intencjonalność:s	subst:pl:dat:f		
+intencjonalność	intencjonalność:s	subst:sg:acc:f		
+intencjonalność	intencjonalność:s	subst:sg:nom:f		
 intencjonalna	intencjonalny	adj:sg:nom.voc:f:pos		
 intencjonalną	intencjonalny	adj:sg:acc:f:pos		
 intencjonalną	intencjonalny	adj:sg:inst:f:pos		
@@ -30583,34 +30583,34 @@ intensywnieniem	intensywnieć	ger:sg:inst:n2:imperf:aff
 intensywnieniom	intensywnieć	ger:pl:dat.loc:n2:imperf:aff		
 intensywnieniu	intensywnieć	ger:sg:dat.loc:n2:imperf:aff		
 intensywnień	intensywnieć	ger:pl:gen:n2:imperf:aff		
-intensywnościach	intensywność:s1	subst:pl:loc:f	pospolita	
-intensywnościami	intensywność:s1	subst:pl:inst:f	pospolita	
-intensywnością	intensywność:s1	subst:sg:inst:f	pospolita	
-intensywności	intensywność:s1	subst:pl:acc:f	pospolita	
-intensywności	intensywność:s1	subst:pl:gen:f	pospolita	
-intensywności	intensywność:s1	subst:pl:nom:f	pospolita	
-intensywności	intensywność:s1	subst:pl:voc:f	pospolita	
-intensywności	intensywność:s1	subst:sg:dat:f	pospolita	
-intensywności	intensywność:s1	subst:sg:gen:f	pospolita	
-intensywności	intensywność:s1	subst:sg:loc:f	pospolita	
-intensywności	intensywność:s1	subst:sg:voc:f	pospolita	
-intensywnościom	intensywność:s1	subst:pl:dat:f	pospolita	
-intensywność	intensywność:s1	subst:sg:acc:f	pospolita	
-intensywność	intensywność:s1	subst:sg:nom:f	pospolita	
-intensywnościach	intensywność:s2	subst:pl:loc:f		
-intensywnościami	intensywność:s2	subst:pl:inst:f		
-intensywnością	intensywność:s2	subst:sg:inst:f		
-intensywności	intensywność:s2	subst:pl:acc:f		
-intensywności	intensywność:s2	subst:pl:gen:f		
-intensywności	intensywność:s2	subst:pl:nom:f		
-intensywności	intensywność:s2	subst:pl:voc:f		
-intensywności	intensywność:s2	subst:sg:dat:f		
-intensywności	intensywność:s2	subst:sg:gen:f		
-intensywności	intensywność:s2	subst:sg:loc:f		
-intensywności	intensywność:s2	subst:sg:voc:f		
-intensywnościom	intensywność:s2	subst:pl:dat:f		
-intensywność	intensywność:s2	subst:sg:acc:f		
-intensywność	intensywność:s2	subst:sg:nom:f		
+intensywnościach	intensywność:s	subst:pl:loc:f	pospolita	
+intensywnościami	intensywność:s	subst:pl:inst:f	pospolita	
+intensywnością	intensywność:s	subst:sg:inst:f	pospolita	
+intensywności	intensywność:s	subst:pl:acc:f	pospolita	
+intensywności	intensywność:s	subst:pl:gen:f	pospolita	
+intensywności	intensywność:s	subst:pl:nom:f	pospolita	
+intensywności	intensywność:s	subst:pl:voc:f	pospolita	
+intensywności	intensywność:s	subst:sg:dat:f	pospolita	
+intensywności	intensywność:s	subst:sg:gen:f	pospolita	
+intensywności	intensywność:s	subst:sg:loc:f	pospolita	
+intensywności	intensywność:s	subst:sg:voc:f	pospolita	
+intensywnościom	intensywność:s	subst:pl:dat:f	pospolita	
+intensywność	intensywność:s	subst:sg:acc:f	pospolita	
+intensywność	intensywność:s	subst:sg:nom:f	pospolita	
+intensywnościach	intensywność:s	subst:pl:loc:f		
+intensywnościami	intensywność:s	subst:pl:inst:f		
+intensywnością	intensywność:s	subst:sg:inst:f		
+intensywności	intensywność:s	subst:pl:acc:f		
+intensywności	intensywność:s	subst:pl:gen:f		
+intensywności	intensywność:s	subst:pl:nom:f		
+intensywności	intensywność:s	subst:pl:voc:f		
+intensywności	intensywność:s	subst:sg:dat:f		
+intensywności	intensywność:s	subst:sg:gen:f		
+intensywności	intensywność:s	subst:sg:loc:f		
+intensywności	intensywność:s	subst:sg:voc:f		
+intensywnościom	intensywność:s	subst:pl:dat:f		
+intensywność	intensywność:s	subst:sg:acc:f		
+intensywność	intensywność:s	subst:sg:nom:f		
 intensywna	intensywny	adj:sg:nom.voc:f:pos		
 intensywną	intensywny	adj:sg:acc:f:pos		
 intensywną	intensywny	adj:sg:inst:f:pos		
@@ -30935,7 +30935,7 @@ interdykcje	interdykcja	subst:pl:acc:f	pospolita	daw.
 interdykcje	interdykcja	subst:pl:nom:f	pospolita	daw.
 interdykcje	interdykcja	subst:pl:voc:f	pospolita	daw.
 interdykcję	interdykcja	subst:sg:acc:f	pospolita	daw.
-interdykcji	interdykcja	subst:pl:gen:f	pospolita	daw.|hom.
+interdykcji	interdykcja	subst:pl:gen:f	pospolita	hom.|daw.
 interdykcji	interdykcja	subst:sg:dat:f	pospolita	daw.
 interdykcji	interdykcja	subst:sg:gen:f	pospolita	daw.
 interdykcji	interdykcja	subst:sg:loc:f	pospolita	daw.
@@ -32082,7 +32082,7 @@ interkalacje	interkalacja	subst:pl:acc:f	pospolita	daw.
 interkalacje	interkalacja	subst:pl:nom:f	pospolita	daw.
 interkalacje	interkalacja	subst:pl:voc:f	pospolita	daw.
 interkalację	interkalacja	subst:sg:acc:f	pospolita	daw.
-interkalacji	interkalacja	subst:pl:gen:f	pospolita	daw.|hom.
+interkalacji	interkalacja	subst:pl:gen:f	pospolita	hom.|daw.
 interkalacji	interkalacja	subst:sg:dat:f	pospolita	daw.
 interkalacji	interkalacja	subst:sg:gen:f	pospolita	daw.
 interkalacji	interkalacja	subst:sg:loc:f	pospolita	daw.
@@ -33784,7 +33784,7 @@ interpozycje	interpozycja	subst:pl:acc:f	pospolita	daw.
 interpozycje	interpozycja	subst:pl:nom:f	pospolita	daw.
 interpozycje	interpozycja	subst:pl:voc:f	pospolita	daw.
 interpozycję	interpozycja	subst:sg:acc:f	pospolita	daw.
-interpozycji	interpozycja	subst:pl:gen:f	pospolita	daw.|hom.
+interpozycji	interpozycja	subst:pl:gen:f	pospolita	hom.|daw.
 interpozycji	interpozycja	subst:sg:dat:f	pospolita	daw.
 interpozycji	interpozycja	subst:sg:gen:f	pospolita	daw.
 interpozycji	interpozycja	subst:sg:loc:f	pospolita	daw.
@@ -34123,7 +34123,7 @@ interrogacje	interrogacja	subst:pl:acc:f	pospolita	daw.
 interrogacje	interrogacja	subst:pl:nom:f	pospolita	daw.
 interrogacje	interrogacja	subst:pl:voc:f	pospolita	daw.
 interrogację	interrogacja	subst:sg:acc:f	pospolita	daw.
-interrogacji	interrogacja	subst:pl:gen:f	pospolita	daw.|hom.
+interrogacji	interrogacja	subst:pl:gen:f	pospolita	hom.|daw.
 interrogacji	interrogacja	subst:sg:dat:f	pospolita	daw.
 interrogacji	interrogacja	subst:sg:gen:f	pospolita	daw.
 interrogacji	interrogacja	subst:sg:loc:f	pospolita	daw.
@@ -34913,7 +34913,7 @@ intolerancje	intolerancja	subst:pl:acc:f	pospolita	daw.
 intolerancje	intolerancja	subst:pl:nom:f	pospolita	daw.
 intolerancje	intolerancja	subst:pl:voc:f	pospolita	daw.
 intolerancję	intolerancja	subst:sg:acc:f	pospolita	daw.
-intolerancji	intolerancja	subst:pl:gen:f	pospolita	daw.|hom.
+intolerancji	intolerancja	subst:pl:gen:f	pospolita	hom.|daw.
 intolerancji	intolerancja	subst:sg:dat:f	pospolita	daw.
 intolerancji	intolerancja	subst:sg:gen:f	pospolita	daw.
 intolerancji	intolerancja	subst:sg:loc:f	pospolita	daw.
@@ -35740,7 +35740,7 @@ intromisje	intromisja	subst:pl:acc:f	pospolita	daw.
 intromisje	intromisja	subst:pl:nom:f	pospolita	daw.
 intromisje	intromisja	subst:pl:voc:f	pospolita	daw.
 intromisję	intromisja	subst:sg:acc:f	pospolita	daw.
-intromisji	intromisja	subst:pl:gen:f	pospolita	daw.|hom.
+intromisji	intromisja	subst:pl:gen:f	pospolita	hom.|daw.
 intromisji	intromisja	subst:sg:dat:f	pospolita	daw.
 intromisji	intromisja	subst:sg:gen:f	pospolita	daw.
 intromisji	intromisja	subst:sg:loc:f	pospolita	daw.
@@ -36972,34 +36972,34 @@ intuitywnym	intuitywny	adj:sg:inst:m1.m2.m3.n1.n2:pos
 intuitywnym	intuitywny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 intymnie	intymnie	adv:pos		
 intymniej	intymnie	adv:com		
-intymnościach	intymność:s1	subst:pl:loc:f	pospolita	
-intymnościami	intymność:s1	subst:pl:inst:f	pospolita	
-intymnością	intymność:s1	subst:sg:inst:f	pospolita	
-intymności	intymność:s1	subst:pl:acc:f	pospolita	
-intymności	intymność:s1	subst:pl:gen:f	pospolita	
-intymności	intymność:s1	subst:pl:nom:f	pospolita	
-intymności	intymność:s1	subst:pl:voc:f	pospolita	
-intymności	intymność:s1	subst:sg:dat:f	pospolita	
-intymności	intymność:s1	subst:sg:gen:f	pospolita	
-intymności	intymność:s1	subst:sg:loc:f	pospolita	
-intymności	intymność:s1	subst:sg:voc:f	pospolita	
-intymnościom	intymność:s1	subst:pl:dat:f	pospolita	
-intymność	intymność:s1	subst:sg:acc:f	pospolita	
-intymność	intymność:s1	subst:sg:nom:f	pospolita	
-intymnościach	intymność:s2	subst:pl:loc:f		
-intymnościami	intymność:s2	subst:pl:inst:f		
-intymnością	intymność:s2	subst:sg:inst:f		
-intymności	intymność:s2	subst:pl:acc:f		
-intymności	intymność:s2	subst:pl:gen:f		
-intymności	intymność:s2	subst:pl:nom:f		
-intymności	intymność:s2	subst:pl:voc:f		
-intymności	intymność:s2	subst:sg:dat:f		
-intymności	intymność:s2	subst:sg:gen:f		
-intymności	intymność:s2	subst:sg:loc:f		
-intymności	intymność:s2	subst:sg:voc:f		
-intymnościom	intymność:s2	subst:pl:dat:f		
-intymność	intymność:s2	subst:sg:acc:f		
-intymność	intymność:s2	subst:sg:nom:f		
+intymnościach	intymność:s	subst:pl:loc:f	pospolita	
+intymnościami	intymność:s	subst:pl:inst:f	pospolita	
+intymnością	intymność:s	subst:sg:inst:f	pospolita	
+intymności	intymność:s	subst:pl:acc:f	pospolita	
+intymności	intymność:s	subst:pl:gen:f	pospolita	
+intymności	intymność:s	subst:pl:nom:f	pospolita	
+intymności	intymność:s	subst:pl:voc:f	pospolita	
+intymności	intymność:s	subst:sg:dat:f	pospolita	
+intymności	intymność:s	subst:sg:gen:f	pospolita	
+intymności	intymność:s	subst:sg:loc:f	pospolita	
+intymności	intymność:s	subst:sg:voc:f	pospolita	
+intymnościom	intymność:s	subst:pl:dat:f	pospolita	
+intymność	intymność:s	subst:sg:acc:f	pospolita	
+intymność	intymność:s	subst:sg:nom:f	pospolita	
+intymnościach	intymność:s	subst:pl:loc:f		
+intymnościami	intymność:s	subst:pl:inst:f		
+intymnością	intymność:s	subst:sg:inst:f		
+intymności	intymność:s	subst:pl:acc:f		
+intymności	intymność:s	subst:pl:gen:f		
+intymności	intymność:s	subst:pl:nom:f		
+intymności	intymność:s	subst:pl:voc:f		
+intymności	intymność:s	subst:sg:dat:f		
+intymności	intymność:s	subst:sg:gen:f		
+intymności	intymność:s	subst:sg:loc:f		
+intymności	intymność:s	subst:sg:voc:f		
+intymnościom	intymność:s	subst:pl:dat:f		
+intymność	intymność:s	subst:sg:acc:f		
+intymność	intymność:s	subst:sg:nom:f		
 intymna	intymny	adj:sg:nom.voc:f:pos		
 intymną	intymny	adj:sg:acc:f:pos		
 intymną	intymny	adj:sg:inst:f:pos		
@@ -38327,7 +38327,7 @@ inwestygacje	inwestygacja	subst:pl:acc:f	pospolita	daw.
 inwestygacje	inwestygacja	subst:pl:nom:f	pospolita	daw.
 inwestygacje	inwestygacja	subst:pl:voc:f	pospolita	daw.
 inwestygację	inwestygacja	subst:sg:acc:f	pospolita	daw.
-inwestygacji	inwestygacja	subst:pl:gen:f	pospolita	daw.|hom.
+inwestygacji	inwestygacja	subst:pl:gen:f	pospolita	hom.|daw.
 inwestygacji	inwestygacja	subst:sg:dat:f	pospolita	daw.
 inwestygacji	inwestygacja	subst:sg:gen:f	pospolita	daw.
 inwestygacji	inwestygacja	subst:sg:loc:f	pospolita	daw.
@@ -38356,7 +38356,7 @@ inwidie	inwidia	subst:pl:acc:f	pospolita	daw.
 inwidie	inwidia	subst:pl:nom:f	pospolita	daw.
 inwidie	inwidia	subst:pl:voc:f	pospolita	daw.
 inwidię	inwidia	subst:sg:acc:f	pospolita	daw.
-inwidii	inwidia	subst:pl:gen:f	pospolita	daw.|hom.
+inwidii	inwidia	subst:pl:gen:f	pospolita	hom.|daw.
 inwidii	inwidia	subst:sg:dat:f	pospolita	daw.
 inwidii	inwidia	subst:sg:gen:f	pospolita	daw.
 inwidii	inwidia	subst:sg:loc:f	pospolita	daw.
@@ -40170,34 +40170,34 @@ irracjonalizmy	irracjonalizm	subst:pl:acc:m3	pospolita
 irracjonalizmy	irracjonalizm	subst:pl:nom:m3	pospolita	
 irracjonalizmy	irracjonalizm	subst:pl:voc:m3	pospolita	
 irracjonalnie	irracjonalnie	adv:pos		
-irracjonalnościach	irracjonalność:s1	subst:pl:loc:f	pospolita	
-irracjonalnościami	irracjonalność:s1	subst:pl:inst:f	pospolita	
-irracjonalnością	irracjonalność:s1	subst:sg:inst:f	pospolita	
-irracjonalności	irracjonalność:s1	subst:pl:acc:f	pospolita	
-irracjonalności	irracjonalność:s1	subst:pl:gen:f	pospolita	
-irracjonalności	irracjonalność:s1	subst:pl:nom:f	pospolita	
-irracjonalności	irracjonalność:s1	subst:pl:voc:f	pospolita	
-irracjonalności	irracjonalność:s1	subst:sg:dat:f	pospolita	
-irracjonalności	irracjonalność:s1	subst:sg:gen:f	pospolita	
-irracjonalności	irracjonalność:s1	subst:sg:loc:f	pospolita	
-irracjonalności	irracjonalność:s1	subst:sg:voc:f	pospolita	
-irracjonalnościom	irracjonalność:s1	subst:pl:dat:f	pospolita	
-irracjonalność	irracjonalność:s1	subst:sg:acc:f	pospolita	
-irracjonalność	irracjonalność:s1	subst:sg:nom:f	pospolita	
-irracjonalnościach	irracjonalność:s2	subst:pl:loc:f		
-irracjonalnościami	irracjonalność:s2	subst:pl:inst:f		
-irracjonalnością	irracjonalność:s2	subst:sg:inst:f		
-irracjonalności	irracjonalność:s2	subst:pl:acc:f		
-irracjonalności	irracjonalność:s2	subst:pl:gen:f		
-irracjonalności	irracjonalność:s2	subst:pl:nom:f		
-irracjonalności	irracjonalność:s2	subst:pl:voc:f		
-irracjonalności	irracjonalność:s2	subst:sg:dat:f		
-irracjonalności	irracjonalność:s2	subst:sg:gen:f		
-irracjonalności	irracjonalność:s2	subst:sg:loc:f		
-irracjonalności	irracjonalność:s2	subst:sg:voc:f		
-irracjonalnościom	irracjonalność:s2	subst:pl:dat:f		
-irracjonalność	irracjonalność:s2	subst:sg:acc:f		
-irracjonalność	irracjonalność:s2	subst:sg:nom:f		
+irracjonalnościach	irracjonalność:s	subst:pl:loc:f	pospolita	
+irracjonalnościami	irracjonalność:s	subst:pl:inst:f	pospolita	
+irracjonalnością	irracjonalność:s	subst:sg:inst:f	pospolita	
+irracjonalności	irracjonalność:s	subst:pl:acc:f	pospolita	
+irracjonalności	irracjonalność:s	subst:pl:gen:f	pospolita	
+irracjonalności	irracjonalność:s	subst:pl:nom:f	pospolita	
+irracjonalności	irracjonalność:s	subst:pl:voc:f	pospolita	
+irracjonalności	irracjonalność:s	subst:sg:dat:f	pospolita	
+irracjonalności	irracjonalność:s	subst:sg:gen:f	pospolita	
+irracjonalności	irracjonalność:s	subst:sg:loc:f	pospolita	
+irracjonalności	irracjonalność:s	subst:sg:voc:f	pospolita	
+irracjonalnościom	irracjonalność:s	subst:pl:dat:f	pospolita	
+irracjonalność	irracjonalność:s	subst:sg:acc:f	pospolita	
+irracjonalność	irracjonalność:s	subst:sg:nom:f	pospolita	
+irracjonalnościach	irracjonalność:s	subst:pl:loc:f		
+irracjonalnościami	irracjonalność:s	subst:pl:inst:f		
+irracjonalnością	irracjonalność:s	subst:sg:inst:f		
+irracjonalności	irracjonalność:s	subst:pl:acc:f		
+irracjonalności	irracjonalność:s	subst:pl:gen:f		
+irracjonalności	irracjonalność:s	subst:pl:nom:f		
+irracjonalności	irracjonalność:s	subst:pl:voc:f		
+irracjonalności	irracjonalność:s	subst:sg:dat:f		
+irracjonalności	irracjonalność:s	subst:sg:gen:f		
+irracjonalności	irracjonalność:s	subst:sg:loc:f		
+irracjonalności	irracjonalność:s	subst:sg:voc:f		
+irracjonalnościom	irracjonalność:s	subst:pl:dat:f		
+irracjonalność	irracjonalność:s	subst:sg:acc:f		
+irracjonalność	irracjonalność:s	subst:sg:nom:f		
 irracjonalna	irracjonalny	adj:sg:nom.voc:f:pos		
 irracjonalną	irracjonalny	adj:sg:acc:f:pos		
 irracjonalną	irracjonalny	adj:sg:inst:f:pos		
@@ -41698,32 +41698,72 @@ iskrzycom	iskrzyca	subst:pl:dat:f	pospolita
 iskrzycy	iskrzyca	subst:sg:dat:f	pospolita	
 iskrzycy	iskrzyca	subst:sg:gen:f	pospolita	
 iskrzycy	iskrzyca	subst:sg:loc:f	pospolita	
-iskrząca	iskrzyć:v1	pact:sg:nom.voc:f:imperf:aff		
-iskrzącą	iskrzyć:v1	pact:sg:acc.inst:f:imperf:aff		
-iskrzącego	iskrzyć:v1	pact:sg:acc:m1.m2:imperf:aff		
-iskrzącego	iskrzyć:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-iskrzące	iskrzyć:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-iskrzące	iskrzyć:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-iskrzącej	iskrzyć:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-iskrzącemu	iskrzyć:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+iskrząca	iskrzyć:v	pact:sg:nom.voc:f:imperf:aff		
+iskrzącą	iskrzyć:v	pact:sg:acc.inst:f:imperf:aff		
+iskrzącego	iskrzyć:v	pact:sg:acc:m1.m2:imperf:aff		
+iskrzącego	iskrzyć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+iskrzące	iskrzyć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+iskrzące	iskrzyć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+iskrzącej	iskrzyć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+iskrzącemu	iskrzyć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+iskrzących	iskrzyć:v	pact:pl:acc:m1.p1:imperf:aff		
+iskrzących	iskrzyć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+iskrzący	iskrzyć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+iskrzący	iskrzyć:v	pact:sg:acc:m3:imperf:aff		
+iskrzący	iskrzyć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+iskrzącymi	iskrzyć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+iskrzącym	iskrzyć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+iskrzącym	iskrzyć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+iskrzenia	iskrzyć:v	ger:pl:nom.acc:n2:imperf:aff		
+iskrzenia	iskrzyć:v	ger:sg:gen:n2:imperf:aff		
+iskrzeniami	iskrzyć:v	ger:pl:inst:n2:imperf:aff		
+iskrzenie	iskrzyć:v	ger:sg:nom.acc:n2:imperf:aff		
+iskrzeniem	iskrzyć:v	ger:sg:inst:n2:imperf:aff		
+iskrzeniom	iskrzyć:v	ger:pl:dat.loc:n2:imperf:aff		
+iskrzeniu	iskrzyć:v	ger:sg:dat.loc:n2:imperf:aff		
+iskrzeń	iskrzyć:v	ger:pl:gen:n2:imperf:aff		
+iskrząca	iskrzyć:v	pact:sg:nom.voc:f:imperf:aff		
+iskrzącą	iskrzyć:v	pact:sg:acc.inst:f:imperf:aff		
+iskrzącego	iskrzyć:v	pact:sg:acc:m1.m2:imperf:aff		
+iskrzącego	iskrzyć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+iskrzące	iskrzyć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+iskrzące	iskrzyć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+iskrzącej	iskrzyć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+iskrzącemu	iskrzyć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+iskrzących	iskrzyć:v	pact:pl:acc:m1.p1:imperf:aff		
+iskrzących	iskrzyć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+iskrzący	iskrzyć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+iskrzący	iskrzyć:v	pact:sg:acc:m3:imperf:aff		
+iskrzący	iskrzyć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+iskrzącymi	iskrzyć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+iskrzącym	iskrzyć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+iskrzącym	iskrzyć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+iskrzenia	iskrzyć:v	ger:pl:nom.acc:n2:imperf:aff		
+iskrzenia	iskrzyć:v	ger:sg:gen:n2:imperf:aff		
+iskrzeniami	iskrzyć:v	ger:pl:inst:n2:imperf:aff		
+iskrzenie	iskrzyć:v	ger:sg:nom.acc:n2:imperf:aff		
+iskrzeniem	iskrzyć:v	ger:sg:inst:n2:imperf:aff		
+iskrzeni	iskrzyć:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+iskrzeniom	iskrzyć:v	ger:pl:dat.loc:n2:imperf:aff		
+iskrzeniu	iskrzyć:v	ger:sg:dat.loc:n2:imperf:aff		
+iskrzeń	iskrzyć:v	ger:pl:gen:n2:imperf:aff		
+iskrzona	iskrzyć:v	ppas:sg:nom.voc:f:imperf:aff		
+iskrzoną	iskrzyć:v	ppas:sg:acc.inst:f:imperf:aff		
+iskrzonego	iskrzyć:v	ppas:sg:acc:m1.m2:imperf:aff		
+iskrzonego	iskrzyć:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+iskrzone	iskrzyć:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+iskrzone	iskrzyć:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+iskrzonej	iskrzyć:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+iskrzonemu	iskrzyć:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+iskrzonych	iskrzyć:v	ppas:pl:acc:m1.p1:imperf:aff		
+iskrzonych	iskrzyć:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+iskrzony	iskrzyć:v	ppas:sg:acc:m3:imperf:aff		
+iskrzony	iskrzyć:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+iskrzonymi	iskrzyć:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+iskrzonym	iskrzyć:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+iskrzonym	iskrzyć:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 iskrząc	iskrzyć:v1	pcon:imperf		
-iskrzących	iskrzyć:v1	pact:pl:acc:m1.p1:imperf:aff		
-iskrzących	iskrzyć:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-iskrzący	iskrzyć:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-iskrzący	iskrzyć:v1	pact:sg:acc:m3:imperf:aff		
-iskrzący	iskrzyć:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-iskrzącymi	iskrzyć:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-iskrzącym	iskrzyć:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-iskrzącym	iskrzyć:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 iskrzą	iskrzyć:v1	fin:pl:ter:imperf		
-iskrzenia	iskrzyć:v1	ger:pl:nom.acc:n2:imperf:aff		
-iskrzenia	iskrzyć:v1	ger:sg:gen:n2:imperf:aff		
-iskrzeniami	iskrzyć:v1	ger:pl:inst:n2:imperf:aff		
-iskrzenie	iskrzyć:v1	ger:sg:nom.acc:n2:imperf:aff		
-iskrzeniem	iskrzyć:v1	ger:sg:inst:n2:imperf:aff		
-iskrzeniom	iskrzyć:v1	ger:pl:dat.loc:n2:imperf:aff		
-iskrzeniu	iskrzyć:v1	ger:sg:dat.loc:n2:imperf:aff		
-iskrzeń	iskrzyć:v1	ger:pl:gen:n2:imperf:aff		
 iskrzę	iskrzyć:v1	fin:sg:pri:imperf		
 iskrzono	iskrzyć:v1	imps:imperf		
 iskrzycie	iskrzyć:v1	fin:pl:sec:imperf		
@@ -41769,50 +41809,10 @@ iskrzyłyście	iskrzyć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 iskrzyłyśmy	iskrzyć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 iskrzymy	iskrzyć:v1	fin:pl:pri:imperf		
 iskrzysz	iskrzyć:v1	fin:sg:sec:imperf		
-iskrząca	iskrzyć:v2	pact:sg:nom.voc:f:imperf:aff		
-iskrzącą	iskrzyć:v2	pact:sg:acc.inst:f:imperf:aff		
-iskrzącego	iskrzyć:v2	pact:sg:acc:m1.m2:imperf:aff		
-iskrzącego	iskrzyć:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-iskrzące	iskrzyć:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-iskrzące	iskrzyć:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-iskrzącej	iskrzyć:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-iskrzącemu	iskrzyć:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 iskrząc	iskrzyć:v2	pcon:imperf		indyw.
-iskrzących	iskrzyć:v2	pact:pl:acc:m1.p1:imperf:aff		
-iskrzących	iskrzyć:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-iskrzący	iskrzyć:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-iskrzący	iskrzyć:v2	pact:sg:acc:m3:imperf:aff		
-iskrzący	iskrzyć:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-iskrzącymi	iskrzyć:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-iskrzącym	iskrzyć:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-iskrzącym	iskrzyć:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 iskrzą	iskrzyć:v2	fin:pl:ter:imperf		indyw.
-iskrzenia	iskrzyć:v2	ger:pl:nom.acc:n2:imperf:aff		
-iskrzenia	iskrzyć:v2	ger:sg:gen:n2:imperf:aff		
-iskrzeniami	iskrzyć:v2	ger:pl:inst:n2:imperf:aff		
-iskrzenie	iskrzyć:v2	ger:sg:nom.acc:n2:imperf:aff		
-iskrzeniem	iskrzyć:v2	ger:sg:inst:n2:imperf:aff		
-iskrzeni	iskrzyć:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-iskrzeniom	iskrzyć:v2	ger:pl:dat.loc:n2:imperf:aff		
-iskrzeniu	iskrzyć:v2	ger:sg:dat.loc:n2:imperf:aff		
-iskrzeń	iskrzyć:v2	ger:pl:gen:n2:imperf:aff		
 iskrzę	iskrzyć:v2	fin:sg:pri:imperf		indyw.
-iskrzona	iskrzyć:v2	ppas:sg:nom.voc:f:imperf:aff		
-iskrzoną	iskrzyć:v2	ppas:sg:acc.inst:f:imperf:aff		
-iskrzonego	iskrzyć:v2	ppas:sg:acc:m1.m2:imperf:aff		
-iskrzonego	iskrzyć:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-iskrzone	iskrzyć:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-iskrzone	iskrzyć:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-iskrzonej	iskrzyć:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-iskrzonemu	iskrzyć:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 iskrzono	iskrzyć:v2	imps:imperf		indyw.
-iskrzonych	iskrzyć:v2	ppas:pl:acc:m1.p1:imperf:aff		
-iskrzonych	iskrzyć:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-iskrzony	iskrzyć:v2	ppas:sg:acc:m3:imperf:aff		
-iskrzony	iskrzyć:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-iskrzonymi	iskrzyć:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-iskrzonym	iskrzyć:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-iskrzonym	iskrzyć:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 iskrzycie	iskrzyć:v2	fin:pl:sec:imperf		indyw.
 iskrzyć	iskrzyć:v2	inf:imperf		indyw.
 iskrzy	iskrzyć:v2	fin:sg:ter:imperf		indyw.
@@ -43135,23 +43135,23 @@ iścizny	iścizna	subst:pl:voc:f	pospolita	daw.
 iścizny	iścizna	subst:sg:gen:f	pospolita	daw.
 iściźnie	iścizna	subst:sg:dat:f	pospolita	daw.
 iściźnie	iścizna	subst:sg:loc:f	pospolita	daw.
-idąca	iść:v1	pact:sg:nom.voc:f:imperf:aff		
-idącą	iść:v1	pact:sg:acc.inst:f:imperf:aff		
-idącego	iść:v1	pact:sg:acc:m1.m2:imperf:aff		
-idącego	iść:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-idące	iść:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-idące	iść:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-idącej	iść:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-idącemu	iść:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+idąca	iść:v	pact:sg:nom.voc:f:imperf:aff		
+idącą	iść:v	pact:sg:acc.inst:f:imperf:aff		
+idącego	iść:v	pact:sg:acc:m1.m2:imperf:aff		
+idącego	iść:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+idące	iść:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+idące	iść:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+idącej	iść:v	pact:sg:gen.dat.loc:f:imperf:aff		
+idącemu	iść:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+idących	iść:v	pact:pl:acc:m1.p1:imperf:aff		
+idących	iść:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+idący	iść:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+idący	iść:v	pact:sg:acc:m3:imperf:aff		
+idący	iść:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+idącymi	iść:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+idącym	iść:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+idącym	iść:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 idąc	iść:v1	pcon:imperf		
-idących	iść:v1	pact:pl:acc:m1.p1:imperf:aff		
-idących	iść:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-idący	iść:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-idący	iść:v1	pact:sg:acc:m3:imperf:aff		
-idący	iść:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-idącymi	iść:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-idącym	iść:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-idącym	iść:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 idą	iść:v1	fin:pl:ter:imperf		
 idę	iść:v1	fin:sg:pri:imperf		
 idziecie	iść:v1	fin:pl:sec:imperf		

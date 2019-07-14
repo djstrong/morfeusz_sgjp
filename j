@@ -1357,20 +1357,20 @@ jadliwymi	jadliwy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
 jadliwym	jadliwy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
 jadliwym	jadliwy	adj:sg:inst:m1.m2.m3.n1.n2:pos		daw.
 jadliwym	jadliwy	adj:sg:loc:m1.m2.m3.n1.n2:pos		daw.
-jadeł	jadło	subst:pl:gen:n2	pospolita	przest. dziś książk.
-jadle	jadło	subst:sg:loc:n2	pospolita	przest. dziś książk.
-jadłach	jadło	subst:pl:loc:n2	pospolita	przest. dziś książk.
-jadła	jadło	subst:pl:acc:n2	pospolita	przest. dziś książk.
-jadła	jadło	subst:pl:nom:n2	pospolita	przest. dziś książk.
-jadła	jadło	subst:pl:voc:n2	pospolita	przest. dziś książk.
-jadła	jadło	subst:sg:gen:n2	pospolita	przest. dziś książk.
-jadłami	jadło	subst:pl:inst:n2	pospolita	przest. dziś książk.
-jadłem	jadło	subst:sg:inst:n2	pospolita	przest. dziś książk.
-jadło	jadło	subst:sg:acc:n2	pospolita	przest. dziś książk.
-jadło	jadło	subst:sg:nom:n2	pospolita	przest. dziś książk.
-jadło	jadło	subst:sg:voc:n2	pospolita	przest. dziś książk.
-jadłom	jadło	subst:pl:dat:n2	pospolita	przest. dziś książk.
-jadłu	jadło	subst:sg:dat:n2	pospolita	przest. dziś książk.
+jadeł	jadło	subst:pl:gen:n2	pospolita	przest._dziś_książk.
+jadle	jadło	subst:sg:loc:n2	pospolita	przest._dziś_książk.
+jadłach	jadło	subst:pl:loc:n2	pospolita	przest._dziś_książk.
+jadła	jadło	subst:pl:acc:n2	pospolita	przest._dziś_książk.
+jadła	jadło	subst:pl:nom:n2	pospolita	przest._dziś_książk.
+jadła	jadło	subst:pl:voc:n2	pospolita	przest._dziś_książk.
+jadła	jadło	subst:sg:gen:n2	pospolita	przest._dziś_książk.
+jadłami	jadło	subst:pl:inst:n2	pospolita	przest._dziś_książk.
+jadłem	jadło	subst:sg:inst:n2	pospolita	przest._dziś_książk.
+jadło	jadło	subst:sg:acc:n2	pospolita	przest._dziś_książk.
+jadło	jadło	subst:sg:nom:n2	pospolita	przest._dziś_książk.
+jadło	jadło	subst:sg:voc:n2	pospolita	przest._dziś_książk.
+jadłom	jadło	subst:pl:dat:n2	pospolita	przest._dziś_książk.
+jadłu	jadło	subst:sg:dat:n2	pospolita	przest._dziś_książk.
 jadłodajniach	jadłodajnia	subst:pl:loc:f	pospolita	
 jadłodajnia	jadłodajnia	subst:sg:nom:f	pospolita	
 jadłodajniami	jadłodajnia	subst:pl:inst:f	pospolita	
@@ -3494,8 +3494,8 @@ jako	jaka	subst:sg:voc:f	pospolita	gwar.
 jakom	jaka	subst:pl:dat:f	pospolita	gwar.
 jakby	jakby:c	comp		
 jakby	jakby:q	qub		
-jak	jak:d1	adv		
-jak	jak:d2	adv:pos		
+jak	jak:d	adv		
+jak	jak:d	adv:pos		
 jacy	jaki	adj:pl:nom.voc:m1.p1:pos		
 jaka	jaki	adj:sg:nom.voc:f:pos		
 jaką	jaki	adj:sg:acc:f:pos		
@@ -3611,29 +3611,29 @@ jakimś	jakiś	adj:sg:inst:m1.m2.m3.n1.n2:pos
 jakimś	jakiś	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 jakiś	jakiś	adj:sg:acc:m3:pos		
 jakiś	jakiś	adj:sg:nom.voc:m1.m2.m3:pos		
-jacyści	jakiści	adj:pl:nom.voc:m1.p1:pos		rzad.|przest.
-jakaści	jakiści	adj:sg:nom.voc:f:pos		rzad.|przest.
-jakąści	jakiści	adj:sg:acc:f:pos		rzad.|przest.
-jakąści	jakiści	adj:sg:inst:f:pos		rzad.|przest.
-jakichści	jakiści	adj:pl:acc:m1.p1:pos		rzad.|przest.
-jakichści	jakiści	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		rzad.|przest.
-jakichści	jakiści	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		rzad.|przest.
-jakiegości	jakiści	adj:sg:acc:m1.m2:pos		rzad.|przest.
-jakiegości	jakiści	adj:sg:gen:m1.m2.m3.n1.n2:pos		rzad.|przest.
-jakiejści	jakiści	adj:sg:dat:f:pos		rzad.|przest.
-jakiejści	jakiści	adj:sg:gen:f:pos		rzad.|przest.
-jakiejści	jakiści	adj:sg:loc:f:pos		rzad.|przest.
-jakiemuści	jakiści	adj:sg:dat:m1.m2.m3.n1.n2:pos		rzad.|przest.
-jakieści	jakiści	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		rzad.|przest.
-jakieści	jakiści	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		rzad.|przest.
-jakieści	jakiści	adj:sg:acc:n1.n2:pos		rzad.|przest.
-jakieści	jakiści	adj:sg:nom.voc:n1.n2:pos		rzad.|przest.
-jakimiści	jakiści	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		rzad.|przest.
-jakimści	jakiści	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		rzad.|przest.
-jakimści	jakiści	adj:sg:inst:m1.m2.m3.n1.n2:pos		rzad.|przest.
-jakimści	jakiści	adj:sg:loc:m1.m2.m3.n1.n2:pos		rzad.|przest.
-jakiści	jakiści	adj:sg:acc:m3:pos		rzad.|przest.
-jakiści	jakiści	adj:sg:nom.voc:m1.m2.m3:pos		rzad.|przest.
+jacyści	jakiści	adj:pl:nom.voc:m1.p1:pos		przest.|rzad.
+jakaści	jakiści	adj:sg:nom.voc:f:pos		przest.|rzad.
+jakąści	jakiści	adj:sg:acc:f:pos		przest.|rzad.
+jakąści	jakiści	adj:sg:inst:f:pos		przest.|rzad.
+jakichści	jakiści	adj:pl:acc:m1.p1:pos		przest.|rzad.
+jakichści	jakiści	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest.|rzad.
+jakichści	jakiści	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest.|rzad.
+jakiegości	jakiści	adj:sg:acc:m1.m2:pos		przest.|rzad.
+jakiegości	jakiści	adj:sg:gen:m1.m2.m3.n1.n2:pos		przest.|rzad.
+jakiejści	jakiści	adj:sg:dat:f:pos		przest.|rzad.
+jakiejści	jakiści	adj:sg:gen:f:pos		przest.|rzad.
+jakiejści	jakiści	adj:sg:loc:f:pos		przest.|rzad.
+jakiemuści	jakiści	adj:sg:dat:m1.m2.m3.n1.n2:pos		przest.|rzad.
+jakieści	jakiści	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		przest.|rzad.
+jakieści	jakiści	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		przest.|rzad.
+jakieści	jakiści	adj:sg:acc:n1.n2:pos		przest.|rzad.
+jakieści	jakiści	adj:sg:nom.voc:n1.n2:pos		przest.|rzad.
+jakimiści	jakiści	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest.|rzad.
+jakimści	jakiści	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest.|rzad.
+jakimści	jakiści	adj:sg:inst:m1.m2.m3.n1.n2:pos		przest.|rzad.
+jakimści	jakiści	adj:sg:loc:m1.m2.m3.n1.n2:pos		przest.|rzad.
+jakiści	jakiści	adj:sg:acc:m3:pos		przest.|rzad.
+jakiści	jakiści	adj:sg:nom.voc:m1.m2.m3:pos		przest.|rzad.
 jacyściś	jakiściś	adj:pl:nom.voc:m1.p1:pos		gwar.|rzad.
 jakaściś	jakiściś	adj:sg:nom.voc:f:pos		gwar.|rzad.
 jakąściś	jakiściś	adj:sg:acc:f:pos		gwar.|rzad.
@@ -4044,34 +4044,34 @@ jakościowymi	jakościowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jakościowym	jakościowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jakościowym	jakościowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jakościowym	jakościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-jakościach	jakość:s1	subst:pl:loc:f	pospolita	
-jakościami	jakość:s1	subst:pl:inst:f	pospolita	
-jakością	jakość:s1	subst:sg:inst:f	pospolita	
-jakości	jakość:s1	subst:pl:acc:f	pospolita	
-jakości	jakość:s1	subst:pl:gen:f	pospolita	
-jakości	jakość:s1	subst:pl:nom:f	pospolita	
-jakości	jakość:s1	subst:pl:voc:f	pospolita	
-jakości	jakość:s1	subst:sg:dat:f	pospolita	
-jakości	jakość:s1	subst:sg:gen:f	pospolita	
-jakości	jakość:s1	subst:sg:loc:f	pospolita	
-jakości	jakość:s1	subst:sg:voc:f	pospolita	
-jakościom	jakość:s1	subst:pl:dat:f	pospolita	
-jakość	jakość:s1	subst:sg:acc:f	pospolita	
-jakość	jakość:s1	subst:sg:nom:f	pospolita	
-jakościach	jakość:s2	subst:pl:loc:f		
-jakościami	jakość:s2	subst:pl:inst:f		
-jakością	jakość:s2	subst:sg:inst:f		
-jakości	jakość:s2	subst:pl:acc:f		
-jakości	jakość:s2	subst:pl:gen:f		
-jakości	jakość:s2	subst:pl:nom:f		
-jakości	jakość:s2	subst:pl:voc:f		
-jakości	jakość:s2	subst:sg:dat:f		
-jakości	jakość:s2	subst:sg:gen:f		
-jakości	jakość:s2	subst:sg:loc:f		
-jakości	jakość:s2	subst:sg:voc:f		
-jakościom	jakość:s2	subst:pl:dat:f		
-jakość	jakość:s2	subst:sg:acc:f		
-jakość	jakość:s2	subst:sg:nom:f		
+jakościach	jakość:s	subst:pl:loc:f	pospolita	
+jakościami	jakość:s	subst:pl:inst:f	pospolita	
+jakością	jakość:s	subst:sg:inst:f	pospolita	
+jakości	jakość:s	subst:pl:acc:f	pospolita	
+jakości	jakość:s	subst:pl:gen:f	pospolita	
+jakości	jakość:s	subst:pl:nom:f	pospolita	
+jakości	jakość:s	subst:pl:voc:f	pospolita	
+jakości	jakość:s	subst:sg:dat:f	pospolita	
+jakości	jakość:s	subst:sg:gen:f	pospolita	
+jakości	jakość:s	subst:sg:loc:f	pospolita	
+jakości	jakość:s	subst:sg:voc:f	pospolita	
+jakościom	jakość:s	subst:pl:dat:f	pospolita	
+jakość	jakość:s	subst:sg:acc:f	pospolita	
+jakość	jakość:s	subst:sg:nom:f	pospolita	
+jakościach	jakość:s	subst:pl:loc:f		
+jakościami	jakość:s	subst:pl:inst:f		
+jakością	jakość:s	subst:sg:inst:f		
+jakości	jakość:s	subst:pl:acc:f		
+jakości	jakość:s	subst:pl:gen:f		
+jakości	jakość:s	subst:pl:nom:f		
+jakości	jakość:s	subst:pl:voc:f		
+jakości	jakość:s	subst:sg:dat:f		
+jakości	jakość:s	subst:sg:gen:f		
+jakości	jakość:s	subst:sg:loc:f		
+jakości	jakość:s	subst:sg:voc:f		
+jakościom	jakość:s	subst:pl:dat:f		
+jakość	jakość:s	subst:sg:acc:f		
+jakość	jakość:s	subst:sg:nom:f		
 jakowościach	jakowość	subst:pl:loc:f		daw.
 jakowościami	jakowość	subst:pl:inst:f		daw.
 jakowością	jakowość	subst:sg:inst:f		daw.
@@ -8401,33 +8401,33 @@ jarzmowymi	jarzmowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jarzmowym	jarzmowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jarzmowym	jarzmowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jarzmowym	jarzmowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-jarząca	jarzyć:v1	pact:sg:nom.voc:f:imperf:aff		
-jarzącą	jarzyć:v1	pact:sg:acc.inst:f:imperf:aff		
-jarzącego	jarzyć:v1	pact:sg:acc:m1.m2:imperf:aff		
-jarzącego	jarzyć:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-jarzące	jarzyć:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-jarzące	jarzyć:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-jarzącej	jarzyć:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-jarzącemu	jarzyć:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jarząca	jarzyć:v	pact:sg:nom.voc:f:imperf:aff		
+jarzącą	jarzyć:v	pact:sg:acc.inst:f:imperf:aff		
+jarzącego	jarzyć:v	pact:sg:acc:m1.m2:imperf:aff		
+jarzącego	jarzyć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+jarzące	jarzyć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+jarzące	jarzyć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+jarzącej	jarzyć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+jarzącemu	jarzyć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jarzących	jarzyć:v	pact:pl:acc:m1.p1:imperf:aff		
+jarzących	jarzyć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jarzący	jarzyć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+jarzący	jarzyć:v	pact:sg:acc:m3:imperf:aff		
+jarzący	jarzyć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+jarzącymi	jarzyć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jarzącym	jarzyć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jarzącym	jarzyć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+jarzenia	jarzyć:v	ger:pl:nom.acc:n2:imperf:aff		
+jarzenia	jarzyć:v	ger:sg:gen:n2:imperf:aff		
+jarzeniami	jarzyć:v	ger:pl:inst:n2:imperf:aff		
+jarzenie	jarzyć:v	ger:sg:nom.acc:n2:imperf:aff		
+jarzeniem	jarzyć:v	ger:sg:inst:n2:imperf:aff		
+jarzeniom	jarzyć:v	ger:pl:dat.loc:n2:imperf:aff		
+jarzeniu	jarzyć:v	ger:sg:dat.loc:n2:imperf:aff		
+jarzeń	jarzyć:v	ger:pl:gen:n2:imperf:aff		
 jarząc	jarzyć:v1	pcon:imperf		
-jarzących	jarzyć:v1	pact:pl:acc:m1.p1:imperf:aff		
-jarzących	jarzyć:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jarzący	jarzyć:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-jarzący	jarzyć:v1	pact:sg:acc:m3:imperf:aff		
-jarzący	jarzyć:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-jarzącymi	jarzyć:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jarzącym	jarzyć:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jarzącym	jarzyć:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jarzą	jarzyć:v1	fin:pl:ter:imperf		
 jarzcie	jarzyć:v1	impt:pl:sec:imperf		
-jarzenia	jarzyć:v1	ger:pl:nom.acc:n2:imperf:aff		
-jarzenia	jarzyć:v1	ger:sg:gen:n2:imperf:aff		
-jarzeniami	jarzyć:v1	ger:pl:inst:n2:imperf:aff		
-jarzenie	jarzyć:v1	ger:sg:nom.acc:n2:imperf:aff		
-jarzeniem	jarzyć:v1	ger:sg:inst:n2:imperf:aff		
-jarzeniom	jarzyć:v1	ger:pl:dat.loc:n2:imperf:aff		
-jarzeniu	jarzyć:v1	ger:sg:dat.loc:n2:imperf:aff		
-jarzeń	jarzyć:v1	ger:pl:gen:n2:imperf:aff		
 jarzę	jarzyć:v1	fin:sg:pri:imperf		
 jarz	jarzyć:v1	impt:sg:sec:imperf		
 jarzmy	jarzyć:v1	impt:pl:pri:imperf		
@@ -10767,34 +10767,34 @@ jasnoszarym	jasnoszary	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jasnoszarym	jasnoszary	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jasnoszarym	jasnoszary	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 jasnoszarzy	jasnoszary	adj:pl:nom.voc:m1.p1:pos		
-jasnościach	jasność:s1	subst:pl:loc:f	pospolita	
-jasnościami	jasność:s1	subst:pl:inst:f	pospolita	
-jasnością	jasność:s1	subst:sg:inst:f	pospolita	
-jasności	jasność:s1	subst:pl:acc:f	pospolita	
-jasności	jasność:s1	subst:pl:gen:f	pospolita	
-jasności	jasność:s1	subst:pl:nom:f	pospolita	
-jasności	jasność:s1	subst:pl:voc:f	pospolita	
-jasności	jasność:s1	subst:sg:dat:f	pospolita	
-jasności	jasność:s1	subst:sg:gen:f	pospolita	
-jasności	jasność:s1	subst:sg:loc:f	pospolita	
-jasności	jasność:s1	subst:sg:voc:f	pospolita	
-jasnościom	jasność:s1	subst:pl:dat:f	pospolita	
-jasność	jasność:s1	subst:sg:acc:f	pospolita	
-jasność	jasność:s1	subst:sg:nom:f	pospolita	
-jasnościach	jasność:s2	subst:pl:loc:f		
-jasnościami	jasność:s2	subst:pl:inst:f		
-jasnością	jasność:s2	subst:sg:inst:f		
-jasności	jasność:s2	subst:pl:acc:f		
-jasności	jasność:s2	subst:pl:gen:f		
-jasności	jasność:s2	subst:pl:nom:f		
-jasności	jasność:s2	subst:pl:voc:f		
-jasności	jasność:s2	subst:sg:dat:f		
-jasności	jasność:s2	subst:sg:gen:f		
-jasności	jasność:s2	subst:sg:loc:f		
-jasności	jasność:s2	subst:sg:voc:f		
-jasnościom	jasność:s2	subst:pl:dat:f		
-jasność	jasność:s2	subst:sg:acc:f		
-jasność	jasność:s2	subst:sg:nom:f		
+jasnościach	jasność:s	subst:pl:loc:f	pospolita	
+jasnościami	jasność:s	subst:pl:inst:f	pospolita	
+jasnością	jasność:s	subst:sg:inst:f	pospolita	
+jasności	jasność:s	subst:pl:acc:f	pospolita	
+jasności	jasność:s	subst:pl:gen:f	pospolita	
+jasności	jasność:s	subst:pl:nom:f	pospolita	
+jasności	jasność:s	subst:pl:voc:f	pospolita	
+jasności	jasność:s	subst:sg:dat:f	pospolita	
+jasności	jasność:s	subst:sg:gen:f	pospolita	
+jasności	jasność:s	subst:sg:loc:f	pospolita	
+jasności	jasność:s	subst:sg:voc:f	pospolita	
+jasnościom	jasność:s	subst:pl:dat:f	pospolita	
+jasność	jasność:s	subst:sg:acc:f	pospolita	
+jasność	jasność:s	subst:sg:nom:f	pospolita	
+jasnościach	jasność:s	subst:pl:loc:f		
+jasnościami	jasność:s	subst:pl:inst:f		
+jasnością	jasność:s	subst:sg:inst:f		
+jasności	jasność:s	subst:pl:acc:f		
+jasności	jasność:s	subst:pl:gen:f		
+jasności	jasność:s	subst:pl:nom:f		
+jasności	jasność:s	subst:pl:voc:f		
+jasności	jasność:s	subst:sg:dat:f		
+jasności	jasność:s	subst:sg:gen:f		
+jasności	jasność:s	subst:sg:loc:f		
+jasności	jasność:s	subst:sg:voc:f		
+jasnościom	jasność:s	subst:pl:dat:f		
+jasność	jasność:s	subst:sg:acc:f		
+jasność	jasność:s	subst:sg:nom:f		
 jasnocie	jasnota	subst:sg:dat:f	pospolita	
 jasnocie	jasnota	subst:sg:loc:f	pospolita	
 jasnotach	jasnota	subst:pl:loc:f	pospolita	
@@ -12272,6 +12272,54 @@ jaśniono	jaśnić	imps:imperf
 jaśnisz	jaśnić	fin:sg:sec:imperf		
 jaśnie	jaśnie	adv:pos		przest.
 jaśniej	jaśnie	adv:com		
+jaśniejąca	jaśnieć:v	pact:sg:nom.voc:f:imperf:aff		
+jaśniejącą	jaśnieć:v	pact:sg:acc.inst:f:imperf:aff		
+jaśniejącego	jaśnieć:v	pact:sg:acc:m1.m2:imperf:aff		
+jaśniejącego	jaśnieć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+jaśniejące	jaśnieć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+jaśniejące	jaśnieć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+jaśniejącej	jaśnieć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+jaśniejącemu	jaśnieć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jaśniejących	jaśnieć:v	pact:pl:acc:m1.p1:imperf:aff		
+jaśniejących	jaśnieć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jaśniejący	jaśnieć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+jaśniejący	jaśnieć:v	pact:sg:acc:m3:imperf:aff		
+jaśniejący	jaśnieć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+jaśniejącymi	jaśnieć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jaśniejącym	jaśnieć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jaśniejącym	jaśnieć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+jaśnienia	jaśnieć:v	ger:pl:nom.acc:n2:imperf:aff		
+jaśnienia	jaśnieć:v	ger:sg:gen:n2:imperf:aff		
+jaśnieniami	jaśnieć:v	ger:pl:inst:n2:imperf:aff		
+jaśnienie	jaśnieć:v	ger:sg:nom.acc:n2:imperf:aff		
+jaśnieniem	jaśnieć:v	ger:sg:inst:n2:imperf:aff		
+jaśnieniom	jaśnieć:v	ger:pl:dat.loc:n2:imperf:aff		
+jaśnieniu	jaśnieć:v	ger:sg:dat.loc:n2:imperf:aff		
+jaśnień	jaśnieć:v	ger:pl:gen:n2:imperf:aff		
+jaśniejąca	jaśnieć:v	pact:sg:nom.voc:f:imperf:aff		
+jaśniejącą	jaśnieć:v	pact:sg:acc.inst:f:imperf:aff		
+jaśniejącego	jaśnieć:v	pact:sg:acc:m1.m2:imperf:aff		
+jaśniejącego	jaśnieć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+jaśniejące	jaśnieć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+jaśniejące	jaśnieć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+jaśniejącej	jaśnieć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+jaśniejącemu	jaśnieć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jaśniejących	jaśnieć:v	pact:pl:acc:m1.p1:imperf:aff		
+jaśniejących	jaśnieć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jaśniejący	jaśnieć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+jaśniejący	jaśnieć:v	pact:sg:acc:m3:imperf:aff		
+jaśniejący	jaśnieć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+jaśniejącymi	jaśnieć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jaśniejącym	jaśnieć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jaśniejącym	jaśnieć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+jaśnienia	jaśnieć:v	ger:pl:nom.acc:n2:imperf:aff		
+jaśnienia	jaśnieć:v	ger:sg:gen:n2:imperf:aff		
+jaśnieniami	jaśnieć:v	ger:pl:inst:n2:imperf:aff		
+jaśnienie	jaśnieć:v	ger:sg:nom.acc:n2:imperf:aff		
+jaśnieniem	jaśnieć:v	ger:sg:inst:n2:imperf:aff		
+jaśnieniom	jaśnieć:v	ger:pl:dat.loc:n2:imperf:aff		
+jaśnieniu	jaśnieć:v	ger:sg:dat.loc:n2:imperf:aff		
+jaśnień	jaśnieć:v	ger:pl:gen:n2:imperf:aff		
 jaśniałaby	jaśnieć:v1	cond:sg:f:ter:imperf		
 jaśniałabym	jaśnieć:v1	cond:sg:f:pri:imperf		
 jaśniałabyś	jaśnieć:v1	cond:sg:f:sec:imperf		
@@ -12302,23 +12350,7 @@ jaśniałyście	jaśnieć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 jaśniałyśmy	jaśnieć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 jaśniano	jaśnieć:v1	imps:imperf		
 jaśnieć	jaśnieć:v1	inf:imperf		
-jaśniejąca	jaśnieć:v1	pact:sg:nom.voc:f:imperf:aff		
-jaśniejącą	jaśnieć:v1	pact:sg:acc.inst:f:imperf:aff		
-jaśniejącego	jaśnieć:v1	pact:sg:acc:m1.m2:imperf:aff		
-jaśniejącego	jaśnieć:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-jaśniejące	jaśnieć:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-jaśniejące	jaśnieć:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-jaśniejącej	jaśnieć:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-jaśniejącemu	jaśnieć:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 jaśniejąc	jaśnieć:v1	pcon:imperf		
-jaśniejących	jaśnieć:v1	pact:pl:acc:m1.p1:imperf:aff		
-jaśniejących	jaśnieć:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jaśniejący	jaśnieć:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-jaśniejący	jaśnieć:v1	pact:sg:acc:m3:imperf:aff		
-jaśniejący	jaśnieć:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-jaśniejącymi	jaśnieć:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jaśniejącym	jaśnieć:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jaśniejącym	jaśnieć:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jaśnieją	jaśnieć:v1	fin:pl:ter:imperf		
 jaśniejcie	jaśnieć:v1	impt:pl:sec:imperf		
 jaśniejecie	jaśnieć:v1	fin:pl:sec:imperf		
@@ -12335,14 +12367,6 @@ jaśnieli	jaśnieć:v1	praet:pl:m1.p1:imperf
 jaśnieli	jaśnieć:v1	praet:pl:m1.p1:ter:imperf		
 jaśnieliście	jaśnieć:v1	praet:pl:m1.p1:sec:imperf		
 jaśnieliśmy	jaśnieć:v1	praet:pl:m1.p1:pri:imperf		
-jaśnienia	jaśnieć:v1	ger:pl:nom.acc:n2:imperf:aff		
-jaśnienia	jaśnieć:v1	ger:sg:gen:n2:imperf:aff		
-jaśnieniami	jaśnieć:v1	ger:pl:inst:n2:imperf:aff		
-jaśnienie	jaśnieć:v1	ger:sg:nom.acc:n2:imperf:aff		
-jaśnieniem	jaśnieć:v1	ger:sg:inst:n2:imperf:aff		
-jaśnieniom	jaśnieć:v1	ger:pl:dat.loc:n2:imperf:aff		
-jaśnieniu	jaśnieć:v1	ger:sg:dat.loc:n2:imperf:aff		
-jaśnień	jaśnieć:v1	ger:pl:gen:n2:imperf:aff		
 jaśniałaby	jaśnieć:v2	cond:sg:f:ter:imperf		
 jaśniałabym	jaśnieć:v2	cond:sg:f:pri:imperf		
 jaśniałabyś	jaśnieć:v2	cond:sg:f:sec:imperf		
@@ -12373,23 +12397,7 @@ jaśniałyście	jaśnieć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf
 jaśniałyśmy	jaśnieć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 jaśniano	jaśnieć:v2	imps:imperf		
 jaśnieć	jaśnieć:v2	inf:imperf		
-jaśniejąca	jaśnieć:v2	pact:sg:nom.voc:f:imperf:aff		
-jaśniejącą	jaśnieć:v2	pact:sg:acc.inst:f:imperf:aff		
-jaśniejącego	jaśnieć:v2	pact:sg:acc:m1.m2:imperf:aff		
-jaśniejącego	jaśnieć:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-jaśniejące	jaśnieć:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-jaśniejące	jaśnieć:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-jaśniejącej	jaśnieć:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-jaśniejącemu	jaśnieć:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 jaśniejąc	jaśnieć:v2	pcon:imperf		
-jaśniejących	jaśnieć:v2	pact:pl:acc:m1.p1:imperf:aff		
-jaśniejących	jaśnieć:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jaśniejący	jaśnieć:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-jaśniejący	jaśnieć:v2	pact:sg:acc:m3:imperf:aff		
-jaśniejący	jaśnieć:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-jaśniejącymi	jaśnieć:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jaśniejącym	jaśnieć:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jaśniejącym	jaśnieć:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jaśnieją	jaśnieć:v2	fin:pl:ter:imperf		
 jaśniejcie	jaśnieć:v2	impt:pl:sec:imperf		
 jaśniejecie	jaśnieć:v2	fin:pl:sec:imperf		
@@ -12406,14 +12414,6 @@ jaśnieli	jaśnieć:v2	praet:pl:m1.p1:imperf
 jaśnieli	jaśnieć:v2	praet:pl:m1.p1:ter:imperf		
 jaśnieliście	jaśnieć:v2	praet:pl:m1.p1:sec:imperf		
 jaśnieliśmy	jaśnieć:v2	praet:pl:m1.p1:pri:imperf		
-jaśnienia	jaśnieć:v2	ger:pl:nom.acc:n2:imperf:aff		
-jaśnienia	jaśnieć:v2	ger:sg:gen:n2:imperf:aff		
-jaśnieniami	jaśnieć:v2	ger:pl:inst:n2:imperf:aff		
-jaśnienie	jaśnieć:v2	ger:sg:nom.acc:n2:imperf:aff		
-jaśnieniem	jaśnieć:v2	ger:sg:inst:n2:imperf:aff		
-jaśnieniom	jaśnieć:v2	ger:pl:dat.loc:n2:imperf:aff		
-jaśnieniu	jaśnieć:v2	ger:sg:dat.loc:n2:imperf:aff		
-jaśnień	jaśnieć:v2	ger:pl:gen:n2:imperf:aff		
 jaśnieoświeconościach	jaśnieoświeconość	subst:pl:loc:f	pospolita	daw.
 jaśnieoświeconościami	jaśnieoświeconość	subst:pl:inst:f	pospolita	daw.
 jaśnieoświeconością	jaśnieoświeconość	subst:sg:inst:f	pospolita	daw.
@@ -13170,34 +13170,34 @@ jawnopłciowymi	jawnopłciowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jawnopłciowym	jawnopłciowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jawnopłciowym	jawnopłciowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jawnopłciowym	jawnopłciowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-jawnościach	jawność:s1	subst:pl:loc:f	pospolita	
-jawnościami	jawność:s1	subst:pl:inst:f	pospolita	
-jawnością	jawność:s1	subst:sg:inst:f	pospolita	
-jawności	jawność:s1	subst:pl:acc:f	pospolita	
-jawności	jawność:s1	subst:pl:gen:f	pospolita	
-jawności	jawność:s1	subst:pl:nom:f	pospolita	
-jawności	jawność:s1	subst:pl:voc:f	pospolita	
-jawności	jawność:s1	subst:sg:dat:f	pospolita	
-jawności	jawność:s1	subst:sg:gen:f	pospolita	
-jawności	jawność:s1	subst:sg:loc:f	pospolita	
-jawności	jawność:s1	subst:sg:voc:f	pospolita	
-jawnościom	jawność:s1	subst:pl:dat:f	pospolita	
-jawność	jawność:s1	subst:sg:acc:f	pospolita	
-jawność	jawność:s1	subst:sg:nom:f	pospolita	
-jawnościach	jawność:s2	subst:pl:loc:f		
-jawnościami	jawność:s2	subst:pl:inst:f		
-jawnością	jawność:s2	subst:sg:inst:f		
-jawności	jawność:s2	subst:pl:acc:f		
-jawności	jawność:s2	subst:pl:gen:f		
-jawności	jawność:s2	subst:pl:nom:f		
-jawności	jawność:s2	subst:pl:voc:f		
-jawności	jawność:s2	subst:sg:dat:f		
-jawności	jawność:s2	subst:sg:gen:f		
-jawności	jawność:s2	subst:sg:loc:f		
-jawności	jawność:s2	subst:sg:voc:f		
-jawnościom	jawność:s2	subst:pl:dat:f		
-jawność	jawność:s2	subst:sg:acc:f		
-jawność	jawność:s2	subst:sg:nom:f		
+jawnościach	jawność:s	subst:pl:loc:f	pospolita	
+jawnościami	jawność:s	subst:pl:inst:f	pospolita	
+jawnością	jawność:s	subst:sg:inst:f	pospolita	
+jawności	jawność:s	subst:pl:acc:f	pospolita	
+jawności	jawność:s	subst:pl:gen:f	pospolita	
+jawności	jawność:s	subst:pl:nom:f	pospolita	
+jawności	jawność:s	subst:pl:voc:f	pospolita	
+jawności	jawność:s	subst:sg:dat:f	pospolita	
+jawności	jawność:s	subst:sg:gen:f	pospolita	
+jawności	jawność:s	subst:sg:loc:f	pospolita	
+jawności	jawność:s	subst:sg:voc:f	pospolita	
+jawnościom	jawność:s	subst:pl:dat:f	pospolita	
+jawność	jawność:s	subst:sg:acc:f	pospolita	
+jawność	jawność:s	subst:sg:nom:f	pospolita	
+jawnościach	jawność:s	subst:pl:loc:f		
+jawnościami	jawność:s	subst:pl:inst:f		
+jawnością	jawność:s	subst:sg:inst:f		
+jawności	jawność:s	subst:pl:acc:f		
+jawności	jawność:s	subst:pl:gen:f		
+jawności	jawność:s	subst:pl:nom:f		
+jawności	jawność:s	subst:pl:voc:f		
+jawności	jawność:s	subst:sg:dat:f		
+jawności	jawność:s	subst:sg:gen:f		
+jawności	jawność:s	subst:sg:loc:f		
+jawności	jawność:s	subst:sg:voc:f		
+jawnościom	jawność:s	subst:pl:dat:f		
+jawność	jawność:s	subst:sg:acc:f		
+jawność	jawność:s	subst:sg:nom:f		
 jawna	jawny	adj:sg:nom.voc:f:pos		
 jawną	jawny	adj:sg:acc:f:pos		
 jawną	jawny	adj:sg:inst:f:pos		
@@ -15181,23 +15181,31 @@ jebniętymi	jebnięty	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jebniętym	jebnięty	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jebniętym	jebnięty	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jebniętym	jebnięty	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-jadąca	jechać:v1	pact:sg:nom.voc:f:imperf:aff		
-jadącą	jechać:v1	pact:sg:acc.inst:f:imperf:aff		
-jadącego	jechać:v1	pact:sg:acc:m1.m2:imperf:aff		
-jadącego	jechać:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-jadące	jechać:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-jadące	jechać:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-jadącej	jechać:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-jadącemu	jechać:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jadąca	jechać:v	pact:sg:nom.voc:f:imperf:aff		
+jadącą	jechać:v	pact:sg:acc.inst:f:imperf:aff		
+jadącego	jechać:v	pact:sg:acc:m1.m2:imperf:aff		
+jadącego	jechać:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+jadące	jechać:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+jadące	jechać:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+jadącej	jechać:v	pact:sg:gen.dat.loc:f:imperf:aff		
+jadącemu	jechać:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jadących	jechać:v	pact:pl:acc:m1.p1:imperf:aff		
+jadących	jechać:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jadący	jechać:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+jadący	jechać:v	pact:sg:acc:m3:imperf:aff		
+jadący	jechać:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+jadącymi	jechać:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jadącym	jechać:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jadącym	jechać:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+jechania	jechać:v	ger:pl:nom.acc:n2:imperf:aff		
+jechania	jechać:v	ger:sg:gen:n2:imperf:aff		
+jechaniami	jechać:v	ger:pl:inst:n2:imperf:aff		
+jechanie	jechać:v	ger:sg:nom.acc:n2:imperf:aff		
+jechaniem	jechać:v	ger:sg:inst:n2:imperf:aff		
+jechaniom	jechać:v	ger:pl:dat.loc:n2:imperf:aff		
+jechaniu	jechać:v	ger:sg:dat.loc:n2:imperf:aff		
+jechań	jechać:v	ger:pl:gen:n2:imperf:aff		
 jadąc	jechać:v1	pcon:imperf		
-jadących	jechać:v1	pact:pl:acc:m1.p1:imperf:aff		
-jadących	jechać:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jadący	jechać:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-jadący	jechać:v1	pact:sg:acc:m3:imperf:aff		
-jadący	jechać:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-jadącymi	jechać:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jadącym	jechać:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jadącym	jechać:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 jadą	jechać:v1	fin:pl:ter:imperf		
 jadę	jechać:v1	fin:sg:pri:imperf		
 jechać	jechać:v1	inf:imperf		
@@ -15236,15 +15244,7 @@ jechały	jechać:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 jechały	jechać:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 jechałyście	jechać:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 jechałyśmy	jechać:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-jechania	jechać:v1	ger:pl:nom.acc:n2:imperf:aff		
-jechania	jechać:v1	ger:sg:gen:n2:imperf:aff		
-jechaniami	jechać:v1	ger:pl:inst:n2:imperf:aff		
-jechanie	jechać:v1	ger:sg:nom.acc:n2:imperf:aff		
-jechaniem	jechać:v1	ger:sg:inst:n2:imperf:aff		
-jechaniom	jechać:v1	ger:pl:dat.loc:n2:imperf:aff		
-jechaniu	jechać:v1	ger:sg:dat.loc:n2:imperf:aff		
 jechano	jechać:v1	imps:imperf		
-jechań	jechać:v1	ger:pl:gen:n2:imperf:aff		
 jedziecie	jechać:v1	fin:pl:sec:imperf		
 jedzie	jechać:v1	fin:sg:ter:imperf		
 jedziemy	jechać:v1	fin:pl:pri:imperf		
@@ -15839,20 +15839,20 @@ jedenaściorgu	jedenaście	num:pl:dat.loc:n1.p1.p2:congr.rec
 jedenaścioro	jedenaście	num:pl:nom.acc.voc:n1.p1.p2:rec		
 jeden	jeden:n	num:pl:nom.gen.dat.inst.acc.loc.voc:m1.m2.m3.f.n1.n2.p1.p2:rec		
 jedno	jeden:n	num:comp		
-jeden	jeden:s2	subst:sg:nom:m2	pospolita	pot.
-jeden	jeden:s2	subst:sg:voc:m2	pospolita	pot.
-jednego	jeden:s2	subst:sg:acc:m2	pospolita	pot.
-jednego	jeden:s2	subst:sg:gen:m2	pospolita	pot.
-jedne	jeden:s2	subst:pl:acc:m2	pospolita	pot.
-jedne	jeden:s2	subst:pl:nom:m2	pospolita	pot.
-jedne	jeden:s2	subst:pl:voc:m2	pospolita	pot.
-jednemu	jeden:s2	subst:sg:dat:m2	pospolita	pot.
-jednych	jeden:s2	subst:pl:gen:m2	pospolita	pot.
-jednych	jeden:s2	subst:pl:loc:m2	pospolita	pot.
-jednymi	jeden:s2	subst:pl:inst:m2	pospolita	pot.
-jednym	jeden:s2	subst:pl:dat:m2	pospolita	pot.
-jednym	jeden:s2	subst:sg:inst:m2	pospolita	pot.
-jednym	jeden:s2	subst:sg:loc:m2	pospolita	pot.
+jeden	jeden:s	subst:sg:nom:m2	pospolita	pot.
+jeden	jeden:s	subst:sg:voc:m2	pospolita	pot.
+jednego	jeden:s	subst:sg:acc:m2	pospolita	pot.
+jednego	jeden:s	subst:sg:gen:m2	pospolita	pot.
+jedne	jeden:s	subst:pl:acc:m2	pospolita	pot.
+jedne	jeden:s	subst:pl:nom:m2	pospolita	pot.
+jedne	jeden:s	subst:pl:voc:m2	pospolita	pot.
+jednemu	jeden:s	subst:sg:dat:m2	pospolita	pot.
+jednych	jeden:s	subst:pl:gen:m2	pospolita	pot.
+jednych	jeden:s	subst:pl:loc:m2	pospolita	pot.
+jednymi	jeden:s	subst:pl:inst:m2	pospolita	pot.
+jednym	jeden:s	subst:pl:dat:m2	pospolita	pot.
+jednym	jeden:s	subst:sg:inst:m2	pospolita	pot.
+jednym	jeden:s	subst:sg:loc:m2	pospolita	pot.
 jedlach	jedla	subst:pl:loc:f	pospolita	
 jedla	jedla	subst:sg:nom:f	pospolita	
 jedlami	jedla	subst:pl:inst:f	pospolita	
@@ -16470,34 +16470,34 @@ jednakowiutkościom	jednakowiutkość	subst:pl:dat:f
 jednakowiutkość	jednakowiutkość	subst:sg:acc:f		
 jednakowiutkość	jednakowiutkość	subst:sg:nom:f		
 jednakowo	jednakowo	adv:pos		
-jednakowościach	jednakowość:s1	subst:pl:loc:f	pospolita	
-jednakowościami	jednakowość:s1	subst:pl:inst:f	pospolita	
-jednakowością	jednakowość:s1	subst:sg:inst:f	pospolita	
-jednakowości	jednakowość:s1	subst:pl:acc:f	pospolita	
-jednakowości	jednakowość:s1	subst:pl:gen:f	pospolita	
-jednakowości	jednakowość:s1	subst:pl:nom:f	pospolita	
-jednakowości	jednakowość:s1	subst:pl:voc:f	pospolita	
-jednakowości	jednakowość:s1	subst:sg:dat:f	pospolita	
-jednakowości	jednakowość:s1	subst:sg:gen:f	pospolita	
-jednakowości	jednakowość:s1	subst:sg:loc:f	pospolita	
-jednakowości	jednakowość:s1	subst:sg:voc:f	pospolita	
-jednakowościom	jednakowość:s1	subst:pl:dat:f	pospolita	
-jednakowość	jednakowość:s1	subst:sg:acc:f	pospolita	
-jednakowość	jednakowość:s1	subst:sg:nom:f	pospolita	
-jednakowościach	jednakowość:s2	subst:pl:loc:f		
-jednakowościami	jednakowość:s2	subst:pl:inst:f		
-jednakowością	jednakowość:s2	subst:sg:inst:f		
-jednakowości	jednakowość:s2	subst:pl:acc:f		
-jednakowości	jednakowość:s2	subst:pl:gen:f		
-jednakowości	jednakowość:s2	subst:pl:nom:f		
-jednakowości	jednakowość:s2	subst:pl:voc:f		
-jednakowości	jednakowość:s2	subst:sg:dat:f		
-jednakowości	jednakowość:s2	subst:sg:gen:f		
-jednakowości	jednakowość:s2	subst:sg:loc:f		
-jednakowości	jednakowość:s2	subst:sg:voc:f		
-jednakowościom	jednakowość:s2	subst:pl:dat:f		
-jednakowość	jednakowość:s2	subst:sg:acc:f		
-jednakowość	jednakowość:s2	subst:sg:nom:f		
+jednakowościach	jednakowość:s	subst:pl:loc:f	pospolita	
+jednakowościami	jednakowość:s	subst:pl:inst:f	pospolita	
+jednakowością	jednakowość:s	subst:sg:inst:f	pospolita	
+jednakowości	jednakowość:s	subst:pl:acc:f	pospolita	
+jednakowości	jednakowość:s	subst:pl:gen:f	pospolita	
+jednakowości	jednakowość:s	subst:pl:nom:f	pospolita	
+jednakowości	jednakowość:s	subst:pl:voc:f	pospolita	
+jednakowości	jednakowość:s	subst:sg:dat:f	pospolita	
+jednakowości	jednakowość:s	subst:sg:gen:f	pospolita	
+jednakowości	jednakowość:s	subst:sg:loc:f	pospolita	
+jednakowości	jednakowość:s	subst:sg:voc:f	pospolita	
+jednakowościom	jednakowość:s	subst:pl:dat:f	pospolita	
+jednakowość	jednakowość:s	subst:sg:acc:f	pospolita	
+jednakowość	jednakowość:s	subst:sg:nom:f	pospolita	
+jednakowościach	jednakowość:s	subst:pl:loc:f		
+jednakowościami	jednakowość:s	subst:pl:inst:f		
+jednakowością	jednakowość:s	subst:sg:inst:f		
+jednakowości	jednakowość:s	subst:pl:acc:f		
+jednakowości	jednakowość:s	subst:pl:gen:f		
+jednakowości	jednakowość:s	subst:pl:nom:f		
+jednakowości	jednakowość:s	subst:pl:voc:f		
+jednakowości	jednakowość:s	subst:sg:dat:f		
+jednakowości	jednakowość:s	subst:sg:gen:f		
+jednakowości	jednakowość:s	subst:sg:loc:f		
+jednakowości	jednakowość:s	subst:sg:voc:f		
+jednakowościom	jednakowość:s	subst:pl:dat:f		
+jednakowość	jednakowość:s	subst:sg:acc:f		
+jednakowość	jednakowość:s	subst:sg:nom:f		
 jednakowoż	jednakowoż	qub		przest.
 jednakowa	jednakowy	adj:sg:nom.voc:f:pos		
 jednakową	jednakowy	adj:sg:acc:f:pos		
@@ -17251,34 +17251,34 @@ jednoczerparkowymi	jednoczerparkowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jednoczerparkowym	jednoczerparkowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jednoczerparkowym	jednoczerparkowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jednoczerparkowym	jednoczerparkowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-jednoczesnościach	jednoczesność:s1	subst:pl:loc:f	pospolita	
-jednoczesnościami	jednoczesność:s1	subst:pl:inst:f	pospolita	
-jednoczesnością	jednoczesność:s1	subst:sg:inst:f	pospolita	
-jednoczesności	jednoczesność:s1	subst:pl:acc:f	pospolita	
-jednoczesności	jednoczesność:s1	subst:pl:gen:f	pospolita	
-jednoczesności	jednoczesność:s1	subst:pl:nom:f	pospolita	
-jednoczesności	jednoczesność:s1	subst:pl:voc:f	pospolita	
-jednoczesności	jednoczesność:s1	subst:sg:dat:f	pospolita	
-jednoczesności	jednoczesność:s1	subst:sg:gen:f	pospolita	
-jednoczesności	jednoczesność:s1	subst:sg:loc:f	pospolita	
-jednoczesności	jednoczesność:s1	subst:sg:voc:f	pospolita	
-jednoczesnościom	jednoczesność:s1	subst:pl:dat:f	pospolita	
-jednoczesność	jednoczesność:s1	subst:sg:acc:f	pospolita	
-jednoczesność	jednoczesność:s1	subst:sg:nom:f	pospolita	
-jednoczesnościach	jednoczesność:s2	subst:pl:loc:f		
-jednoczesnościami	jednoczesność:s2	subst:pl:inst:f		
-jednoczesnością	jednoczesność:s2	subst:sg:inst:f		
-jednoczesności	jednoczesność:s2	subst:pl:acc:f		
-jednoczesności	jednoczesność:s2	subst:pl:gen:f		
-jednoczesności	jednoczesność:s2	subst:pl:nom:f		
-jednoczesności	jednoczesność:s2	subst:pl:voc:f		
-jednoczesności	jednoczesność:s2	subst:sg:dat:f		
-jednoczesności	jednoczesność:s2	subst:sg:gen:f		
-jednoczesności	jednoczesność:s2	subst:sg:loc:f		
-jednoczesności	jednoczesność:s2	subst:sg:voc:f		
-jednoczesnościom	jednoczesność:s2	subst:pl:dat:f		
-jednoczesność	jednoczesność:s2	subst:sg:acc:f		
-jednoczesność	jednoczesność:s2	subst:sg:nom:f		
+jednoczesnościach	jednoczesność:s	subst:pl:loc:f	pospolita	
+jednoczesnościami	jednoczesność:s	subst:pl:inst:f	pospolita	
+jednoczesnością	jednoczesność:s	subst:sg:inst:f	pospolita	
+jednoczesności	jednoczesność:s	subst:pl:acc:f	pospolita	
+jednoczesności	jednoczesność:s	subst:pl:gen:f	pospolita	
+jednoczesności	jednoczesność:s	subst:pl:nom:f	pospolita	
+jednoczesności	jednoczesność:s	subst:pl:voc:f	pospolita	
+jednoczesności	jednoczesność:s	subst:sg:dat:f	pospolita	
+jednoczesności	jednoczesność:s	subst:sg:gen:f	pospolita	
+jednoczesności	jednoczesność:s	subst:sg:loc:f	pospolita	
+jednoczesności	jednoczesność:s	subst:sg:voc:f	pospolita	
+jednoczesnościom	jednoczesność:s	subst:pl:dat:f	pospolita	
+jednoczesność	jednoczesność:s	subst:sg:acc:f	pospolita	
+jednoczesność	jednoczesność:s	subst:sg:nom:f	pospolita	
+jednoczesnościach	jednoczesność:s	subst:pl:loc:f		
+jednoczesnościami	jednoczesność:s	subst:pl:inst:f		
+jednoczesnością	jednoczesność:s	subst:sg:inst:f		
+jednoczesności	jednoczesność:s	subst:pl:acc:f		
+jednoczesności	jednoczesność:s	subst:pl:gen:f		
+jednoczesności	jednoczesność:s	subst:pl:nom:f		
+jednoczesności	jednoczesność:s	subst:pl:voc:f		
+jednoczesności	jednoczesność:s	subst:sg:dat:f		
+jednoczesności	jednoczesność:s	subst:sg:gen:f		
+jednoczesności	jednoczesność:s	subst:sg:loc:f		
+jednoczesności	jednoczesność:s	subst:sg:voc:f		
+jednoczesnościom	jednoczesność:s	subst:pl:dat:f		
+jednoczesność	jednoczesność:s	subst:sg:acc:f		
+jednoczesność	jednoczesność:s	subst:sg:nom:f		
 jednoczesna	jednoczesny	adj:sg:nom.voc:f:pos		
 jednoczesną	jednoczesny	adj:sg:acc:f:pos		
 jednoczesną	jednoczesny	adj:sg:inst:f:pos		
@@ -18001,34 +18001,34 @@ jednogłoskowym	jednogłoskowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
 jednogłoskowym	jednogłoskowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		daw.
 jednogłoskowym	jednogłoskowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		daw.
 jednogłosowo	jednogłosowo	adv:pos		
-jednogłosowościach	jednogłosowość:s1	subst:pl:loc:f	pospolita	
-jednogłosowościami	jednogłosowość:s1	subst:pl:inst:f	pospolita	
-jednogłosowością	jednogłosowość:s1	subst:sg:inst:f	pospolita	
-jednogłosowości	jednogłosowość:s1	subst:pl:acc:f	pospolita	
-jednogłosowości	jednogłosowość:s1	subst:pl:gen:f	pospolita	
-jednogłosowości	jednogłosowość:s1	subst:pl:nom:f	pospolita	
-jednogłosowości	jednogłosowość:s1	subst:pl:voc:f	pospolita	
-jednogłosowości	jednogłosowość:s1	subst:sg:dat:f	pospolita	
-jednogłosowości	jednogłosowość:s1	subst:sg:gen:f	pospolita	
-jednogłosowości	jednogłosowość:s1	subst:sg:loc:f	pospolita	
-jednogłosowości	jednogłosowość:s1	subst:sg:voc:f	pospolita	
-jednogłosowościom	jednogłosowość:s1	subst:pl:dat:f	pospolita	
-jednogłosowość	jednogłosowość:s1	subst:sg:acc:f	pospolita	
-jednogłosowość	jednogłosowość:s1	subst:sg:nom:f	pospolita	
-jednogłosowościach	jednogłosowość:s2	subst:pl:loc:f		
-jednogłosowościami	jednogłosowość:s2	subst:pl:inst:f		
-jednogłosowością	jednogłosowość:s2	subst:sg:inst:f		
-jednogłosowości	jednogłosowość:s2	subst:pl:acc:f		
-jednogłosowości	jednogłosowość:s2	subst:pl:gen:f		
-jednogłosowości	jednogłosowość:s2	subst:pl:nom:f		
-jednogłosowości	jednogłosowość:s2	subst:pl:voc:f		
-jednogłosowości	jednogłosowość:s2	subst:sg:dat:f		
-jednogłosowości	jednogłosowość:s2	subst:sg:gen:f		
-jednogłosowości	jednogłosowość:s2	subst:sg:loc:f		
-jednogłosowości	jednogłosowość:s2	subst:sg:voc:f		
-jednogłosowościom	jednogłosowość:s2	subst:pl:dat:f		
-jednogłosowość	jednogłosowość:s2	subst:sg:acc:f		
-jednogłosowość	jednogłosowość:s2	subst:sg:nom:f		
+jednogłosowościach	jednogłosowość:s	subst:pl:loc:f	pospolita	
+jednogłosowościami	jednogłosowość:s	subst:pl:inst:f	pospolita	
+jednogłosowością	jednogłosowość:s	subst:sg:inst:f	pospolita	
+jednogłosowości	jednogłosowość:s	subst:pl:acc:f	pospolita	
+jednogłosowości	jednogłosowość:s	subst:pl:gen:f	pospolita	
+jednogłosowości	jednogłosowość:s	subst:pl:nom:f	pospolita	
+jednogłosowości	jednogłosowość:s	subst:pl:voc:f	pospolita	
+jednogłosowości	jednogłosowość:s	subst:sg:dat:f	pospolita	
+jednogłosowości	jednogłosowość:s	subst:sg:gen:f	pospolita	
+jednogłosowości	jednogłosowość:s	subst:sg:loc:f	pospolita	
+jednogłosowości	jednogłosowość:s	subst:sg:voc:f	pospolita	
+jednogłosowościom	jednogłosowość:s	subst:pl:dat:f	pospolita	
+jednogłosowość	jednogłosowość:s	subst:sg:acc:f	pospolita	
+jednogłosowość	jednogłosowość:s	subst:sg:nom:f	pospolita	
+jednogłosowościach	jednogłosowość:s	subst:pl:loc:f		
+jednogłosowościami	jednogłosowość:s	subst:pl:inst:f		
+jednogłosowością	jednogłosowość:s	subst:sg:inst:f		
+jednogłosowości	jednogłosowość:s	subst:pl:acc:f		
+jednogłosowości	jednogłosowość:s	subst:pl:gen:f		
+jednogłosowości	jednogłosowość:s	subst:pl:nom:f		
+jednogłosowości	jednogłosowość:s	subst:pl:voc:f		
+jednogłosowości	jednogłosowość:s	subst:sg:dat:f		
+jednogłosowości	jednogłosowość:s	subst:sg:gen:f		
+jednogłosowości	jednogłosowość:s	subst:sg:loc:f		
+jednogłosowości	jednogłosowość:s	subst:sg:voc:f		
+jednogłosowościom	jednogłosowość:s	subst:pl:dat:f		
+jednogłosowość	jednogłosowość:s	subst:sg:acc:f		
+jednogłosowość	jednogłosowość:s	subst:sg:nom:f		
 jednogłosowa	jednogłosowy	adj:sg:nom.voc:f:pos		
 jednogłosową	jednogłosowy	adj:sg:acc:f:pos		
 jednogłosową	jednogłosowy	adj:sg:inst:f:pos		
@@ -18545,34 +18545,34 @@ jednoklasówki	jednoklasówka	subst:pl:voc:f	pospolita
 jednoklasówki	jednoklasówka	subst:sg:gen:f	pospolita	
 jednoklasówko	jednoklasówka	subst:sg:voc:f	pospolita	
 jednoklasówkom	jednoklasówka	subst:pl:dat:f	pospolita	
-jednokładnościach	jednokładność:s1	subst:pl:loc:f	pospolita	
-jednokładnościami	jednokładność:s1	subst:pl:inst:f	pospolita	
-jednokładnością	jednokładność:s1	subst:sg:inst:f	pospolita	
-jednokładności	jednokładność:s1	subst:pl:acc:f	pospolita	
-jednokładności	jednokładność:s1	subst:pl:gen:f	pospolita	
-jednokładności	jednokładność:s1	subst:pl:nom:f	pospolita	
-jednokładności	jednokładność:s1	subst:pl:voc:f	pospolita	
-jednokładności	jednokładność:s1	subst:sg:dat:f	pospolita	
-jednokładności	jednokładność:s1	subst:sg:gen:f	pospolita	
-jednokładności	jednokładność:s1	subst:sg:loc:f	pospolita	
-jednokładności	jednokładność:s1	subst:sg:voc:f	pospolita	
-jednokładnościom	jednokładność:s1	subst:pl:dat:f	pospolita	
-jednokładność	jednokładność:s1	subst:sg:acc:f	pospolita	
-jednokładność	jednokładność:s1	subst:sg:nom:f	pospolita	
-jednokładnościach	jednokładność:s2	subst:pl:loc:f		
-jednokładnościami	jednokładność:s2	subst:pl:inst:f		
-jednokładnością	jednokładność:s2	subst:sg:inst:f		
-jednokładności	jednokładność:s2	subst:pl:acc:f		
-jednokładności	jednokładność:s2	subst:pl:gen:f		
-jednokładności	jednokładność:s2	subst:pl:nom:f		
-jednokładności	jednokładność:s2	subst:pl:voc:f		
-jednokładności	jednokładność:s2	subst:sg:dat:f		
-jednokładności	jednokładność:s2	subst:sg:gen:f		
-jednokładności	jednokładność:s2	subst:sg:loc:f		
-jednokładności	jednokładność:s2	subst:sg:voc:f		
-jednokładnościom	jednokładność:s2	subst:pl:dat:f		
-jednokładność	jednokładność:s2	subst:sg:acc:f		
-jednokładność	jednokładność:s2	subst:sg:nom:f		
+jednokładnościach	jednokładność:s	subst:pl:loc:f	pospolita	
+jednokładnościami	jednokładność:s	subst:pl:inst:f	pospolita	
+jednokładnością	jednokładność:s	subst:sg:inst:f	pospolita	
+jednokładności	jednokładność:s	subst:pl:acc:f	pospolita	
+jednokładności	jednokładność:s	subst:pl:gen:f	pospolita	
+jednokładności	jednokładność:s	subst:pl:nom:f	pospolita	
+jednokładności	jednokładność:s	subst:pl:voc:f	pospolita	
+jednokładności	jednokładność:s	subst:sg:dat:f	pospolita	
+jednokładności	jednokładność:s	subst:sg:gen:f	pospolita	
+jednokładności	jednokładność:s	subst:sg:loc:f	pospolita	
+jednokładności	jednokładność:s	subst:sg:voc:f	pospolita	
+jednokładnościom	jednokładność:s	subst:pl:dat:f	pospolita	
+jednokładność	jednokładność:s	subst:sg:acc:f	pospolita	
+jednokładność	jednokładność:s	subst:sg:nom:f	pospolita	
+jednokładnościach	jednokładność:s	subst:pl:loc:f		
+jednokładnościami	jednokładność:s	subst:pl:inst:f		
+jednokładnością	jednokładność:s	subst:sg:inst:f		
+jednokładności	jednokładność:s	subst:pl:acc:f		
+jednokładności	jednokładność:s	subst:pl:gen:f		
+jednokładności	jednokładność:s	subst:pl:nom:f		
+jednokładności	jednokładność:s	subst:pl:voc:f		
+jednokładności	jednokładność:s	subst:sg:dat:f		
+jednokładności	jednokładność:s	subst:sg:gen:f		
+jednokładności	jednokładność:s	subst:sg:loc:f		
+jednokładności	jednokładność:s	subst:sg:voc:f		
+jednokładnościom	jednokładność:s	subst:pl:dat:f		
+jednokładność	jednokładność:s	subst:sg:acc:f		
+jednokładność	jednokładność:s	subst:sg:nom:f		
 jednokładna	jednokładny	adj:sg:nom.voc:f:pos		
 jednokładną	jednokładny	adj:sg:acc:f:pos		
 jednokładną	jednokładny	adj:sg:inst:f:pos		
@@ -19976,34 +19976,34 @@ jednomotorowym	jednomotorowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jednomotorowym	jednomotorowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jednomotorowym	jednomotorowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 jednomyślnie	jednomyślnie	adv:pos		
-jednomyślnościach	jednomyślność:s1	subst:pl:loc:f	pospolita	
-jednomyślnościami	jednomyślność:s1	subst:pl:inst:f	pospolita	
-jednomyślnością	jednomyślność:s1	subst:sg:inst:f	pospolita	
-jednomyślności	jednomyślność:s1	subst:pl:acc:f	pospolita	
-jednomyślności	jednomyślność:s1	subst:pl:gen:f	pospolita	
-jednomyślności	jednomyślność:s1	subst:pl:nom:f	pospolita	
-jednomyślności	jednomyślność:s1	subst:pl:voc:f	pospolita	
-jednomyślności	jednomyślność:s1	subst:sg:dat:f	pospolita	
-jednomyślności	jednomyślność:s1	subst:sg:gen:f	pospolita	
-jednomyślności	jednomyślność:s1	subst:sg:loc:f	pospolita	
-jednomyślności	jednomyślność:s1	subst:sg:voc:f	pospolita	
-jednomyślnościom	jednomyślność:s1	subst:pl:dat:f	pospolita	
-jednomyślność	jednomyślność:s1	subst:sg:acc:f	pospolita	
-jednomyślność	jednomyślność:s1	subst:sg:nom:f	pospolita	
-jednomyślnościach	jednomyślność:s2	subst:pl:loc:f		
-jednomyślnościami	jednomyślność:s2	subst:pl:inst:f		
-jednomyślnością	jednomyślność:s2	subst:sg:inst:f		
-jednomyślności	jednomyślność:s2	subst:pl:acc:f		
-jednomyślności	jednomyślność:s2	subst:pl:gen:f		
-jednomyślności	jednomyślność:s2	subst:pl:nom:f		
-jednomyślności	jednomyślność:s2	subst:pl:voc:f		
-jednomyślności	jednomyślność:s2	subst:sg:dat:f		
-jednomyślności	jednomyślność:s2	subst:sg:gen:f		
-jednomyślności	jednomyślność:s2	subst:sg:loc:f		
-jednomyślności	jednomyślność:s2	subst:sg:voc:f		
-jednomyślnościom	jednomyślność:s2	subst:pl:dat:f		
-jednomyślność	jednomyślność:s2	subst:sg:acc:f		
-jednomyślność	jednomyślność:s2	subst:sg:nom:f		
+jednomyślnościach	jednomyślność:s	subst:pl:loc:f	pospolita	
+jednomyślnościami	jednomyślność:s	subst:pl:inst:f	pospolita	
+jednomyślnością	jednomyślność:s	subst:sg:inst:f	pospolita	
+jednomyślności	jednomyślność:s	subst:pl:acc:f	pospolita	
+jednomyślności	jednomyślność:s	subst:pl:gen:f	pospolita	
+jednomyślności	jednomyślność:s	subst:pl:nom:f	pospolita	
+jednomyślności	jednomyślność:s	subst:pl:voc:f	pospolita	
+jednomyślności	jednomyślność:s	subst:sg:dat:f	pospolita	
+jednomyślności	jednomyślność:s	subst:sg:gen:f	pospolita	
+jednomyślności	jednomyślność:s	subst:sg:loc:f	pospolita	
+jednomyślności	jednomyślność:s	subst:sg:voc:f	pospolita	
+jednomyślnościom	jednomyślność:s	subst:pl:dat:f	pospolita	
+jednomyślność	jednomyślność:s	subst:sg:acc:f	pospolita	
+jednomyślność	jednomyślność:s	subst:sg:nom:f	pospolita	
+jednomyślnościach	jednomyślność:s	subst:pl:loc:f		
+jednomyślnościami	jednomyślność:s	subst:pl:inst:f		
+jednomyślnością	jednomyślność:s	subst:sg:inst:f		
+jednomyślności	jednomyślność:s	subst:pl:acc:f		
+jednomyślności	jednomyślność:s	subst:pl:gen:f		
+jednomyślności	jednomyślność:s	subst:pl:nom:f		
+jednomyślności	jednomyślność:s	subst:pl:voc:f		
+jednomyślności	jednomyślność:s	subst:sg:dat:f		
+jednomyślności	jednomyślność:s	subst:sg:gen:f		
+jednomyślności	jednomyślność:s	subst:sg:loc:f		
+jednomyślności	jednomyślność:s	subst:sg:voc:f		
+jednomyślnościom	jednomyślność:s	subst:pl:dat:f		
+jednomyślność	jednomyślność:s	subst:sg:acc:f		
+jednomyślność	jednomyślność:s	subst:sg:nom:f		
 jednomyślna	jednomyślny	adj:sg:nom.voc:f:pos		
 jednomyślną	jednomyślny	adj:sg:acc:f:pos		
 jednomyślną	jednomyślny	adj:sg:inst:f:pos		
@@ -21617,34 +21617,34 @@ jednorocznym	jednoroczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jednorocznym	jednoroczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jednorocznym	jednoroczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 jednorodnie	jednorodnie	adv:pos		
-jednorodnościach	jednorodność:s1	subst:pl:loc:f	pospolita	
-jednorodnościami	jednorodność:s1	subst:pl:inst:f	pospolita	
-jednorodnością	jednorodność:s1	subst:sg:inst:f	pospolita	
-jednorodności	jednorodność:s1	subst:pl:acc:f	pospolita	
-jednorodności	jednorodność:s1	subst:pl:gen:f	pospolita	
-jednorodności	jednorodność:s1	subst:pl:nom:f	pospolita	
-jednorodności	jednorodność:s1	subst:pl:voc:f	pospolita	
-jednorodności	jednorodność:s1	subst:sg:dat:f	pospolita	
-jednorodności	jednorodność:s1	subst:sg:gen:f	pospolita	
-jednorodności	jednorodność:s1	subst:sg:loc:f	pospolita	
-jednorodności	jednorodność:s1	subst:sg:voc:f	pospolita	
-jednorodnościom	jednorodność:s1	subst:pl:dat:f	pospolita	
-jednorodność	jednorodność:s1	subst:sg:acc:f	pospolita	
-jednorodność	jednorodność:s1	subst:sg:nom:f	pospolita	
-jednorodnościach	jednorodność:s2	subst:pl:loc:f		
-jednorodnościami	jednorodność:s2	subst:pl:inst:f		
-jednorodnością	jednorodność:s2	subst:sg:inst:f		
-jednorodności	jednorodność:s2	subst:pl:acc:f		
-jednorodności	jednorodność:s2	subst:pl:gen:f		
-jednorodności	jednorodność:s2	subst:pl:nom:f		
-jednorodności	jednorodność:s2	subst:pl:voc:f		
-jednorodności	jednorodność:s2	subst:sg:dat:f		
-jednorodności	jednorodność:s2	subst:sg:gen:f		
-jednorodności	jednorodność:s2	subst:sg:loc:f		
-jednorodności	jednorodność:s2	subst:sg:voc:f		
-jednorodnościom	jednorodność:s2	subst:pl:dat:f		
-jednorodność	jednorodność:s2	subst:sg:acc:f		
-jednorodność	jednorodność:s2	subst:sg:nom:f		
+jednorodnościach	jednorodność:s	subst:pl:loc:f	pospolita	
+jednorodnościami	jednorodność:s	subst:pl:inst:f	pospolita	
+jednorodnością	jednorodność:s	subst:sg:inst:f	pospolita	
+jednorodności	jednorodność:s	subst:pl:acc:f	pospolita	
+jednorodności	jednorodność:s	subst:pl:gen:f	pospolita	
+jednorodności	jednorodność:s	subst:pl:nom:f	pospolita	
+jednorodności	jednorodność:s	subst:pl:voc:f	pospolita	
+jednorodności	jednorodność:s	subst:sg:dat:f	pospolita	
+jednorodności	jednorodność:s	subst:sg:gen:f	pospolita	
+jednorodności	jednorodność:s	subst:sg:loc:f	pospolita	
+jednorodności	jednorodność:s	subst:sg:voc:f	pospolita	
+jednorodnościom	jednorodność:s	subst:pl:dat:f	pospolita	
+jednorodność	jednorodność:s	subst:sg:acc:f	pospolita	
+jednorodność	jednorodność:s	subst:sg:nom:f	pospolita	
+jednorodnościach	jednorodność:s	subst:pl:loc:f		
+jednorodnościami	jednorodność:s	subst:pl:inst:f		
+jednorodnością	jednorodność:s	subst:sg:inst:f		
+jednorodności	jednorodność:s	subst:pl:acc:f		
+jednorodności	jednorodność:s	subst:pl:gen:f		
+jednorodności	jednorodność:s	subst:pl:nom:f		
+jednorodności	jednorodność:s	subst:pl:voc:f		
+jednorodności	jednorodność:s	subst:sg:dat:f		
+jednorodności	jednorodność:s	subst:sg:gen:f		
+jednorodności	jednorodność:s	subst:sg:loc:f		
+jednorodności	jednorodność:s	subst:sg:voc:f		
+jednorodnościom	jednorodność:s	subst:pl:dat:f		
+jednorodność	jednorodność:s	subst:sg:acc:f		
+jednorodność	jednorodność:s	subst:sg:nom:f		
 jednorodna	jednorodny	adj:sg:nom.voc:f:pos		
 jednorodną	jednorodny	adj:sg:acc:f:pos		
 jednorodną	jednorodny	adj:sg:inst:f:pos		
@@ -22478,34 +22478,34 @@ jednostajniono	jednostajnić	imps:imperf		daw.
 jednostajnisz	jednostajnić	fin:sg:sec:imperf		daw.
 jednostajnie	jednostajnie	adv:pos		
 jednostajniej	jednostajnie	adv:com		
-jednostajnościach	jednostajność:s1	subst:pl:loc:f	pospolita	
-jednostajnościami	jednostajność:s1	subst:pl:inst:f	pospolita	
-jednostajnością	jednostajność:s1	subst:sg:inst:f	pospolita	
-jednostajności	jednostajność:s1	subst:pl:acc:f	pospolita	
-jednostajności	jednostajność:s1	subst:pl:gen:f	pospolita	
-jednostajności	jednostajność:s1	subst:pl:nom:f	pospolita	
-jednostajności	jednostajność:s1	subst:pl:voc:f	pospolita	
-jednostajności	jednostajność:s1	subst:sg:dat:f	pospolita	
-jednostajności	jednostajność:s1	subst:sg:gen:f	pospolita	
-jednostajności	jednostajność:s1	subst:sg:loc:f	pospolita	
-jednostajności	jednostajność:s1	subst:sg:voc:f	pospolita	
-jednostajnościom	jednostajność:s1	subst:pl:dat:f	pospolita	
-jednostajność	jednostajność:s1	subst:sg:acc:f	pospolita	
-jednostajność	jednostajność:s1	subst:sg:nom:f	pospolita	
-jednostajnościach	jednostajność:s2	subst:pl:loc:f		
-jednostajnościami	jednostajność:s2	subst:pl:inst:f		
-jednostajnością	jednostajność:s2	subst:sg:inst:f		
-jednostajności	jednostajność:s2	subst:pl:acc:f		
-jednostajności	jednostajność:s2	subst:pl:gen:f		
-jednostajności	jednostajność:s2	subst:pl:nom:f		
-jednostajności	jednostajność:s2	subst:pl:voc:f		
-jednostajności	jednostajność:s2	subst:sg:dat:f		
-jednostajności	jednostajność:s2	subst:sg:gen:f		
-jednostajności	jednostajność:s2	subst:sg:loc:f		
-jednostajności	jednostajność:s2	subst:sg:voc:f		
-jednostajnościom	jednostajność:s2	subst:pl:dat:f		
-jednostajność	jednostajność:s2	subst:sg:acc:f		
-jednostajność	jednostajność:s2	subst:sg:nom:f		
+jednostajnościach	jednostajność:s	subst:pl:loc:f	pospolita	
+jednostajnościami	jednostajność:s	subst:pl:inst:f	pospolita	
+jednostajnością	jednostajność:s	subst:sg:inst:f	pospolita	
+jednostajności	jednostajność:s	subst:pl:acc:f	pospolita	
+jednostajności	jednostajność:s	subst:pl:gen:f	pospolita	
+jednostajności	jednostajność:s	subst:pl:nom:f	pospolita	
+jednostajności	jednostajność:s	subst:pl:voc:f	pospolita	
+jednostajności	jednostajność:s	subst:sg:dat:f	pospolita	
+jednostajności	jednostajność:s	subst:sg:gen:f	pospolita	
+jednostajności	jednostajność:s	subst:sg:loc:f	pospolita	
+jednostajności	jednostajność:s	subst:sg:voc:f	pospolita	
+jednostajnościom	jednostajność:s	subst:pl:dat:f	pospolita	
+jednostajność	jednostajność:s	subst:sg:acc:f	pospolita	
+jednostajność	jednostajność:s	subst:sg:nom:f	pospolita	
+jednostajnościach	jednostajność:s	subst:pl:loc:f		
+jednostajnościami	jednostajność:s	subst:pl:inst:f		
+jednostajnością	jednostajność:s	subst:sg:inst:f		
+jednostajności	jednostajność:s	subst:pl:acc:f		
+jednostajności	jednostajność:s	subst:pl:gen:f		
+jednostajności	jednostajność:s	subst:pl:nom:f		
+jednostajności	jednostajność:s	subst:pl:voc:f		
+jednostajności	jednostajność:s	subst:sg:dat:f		
+jednostajności	jednostajność:s	subst:sg:gen:f		
+jednostajności	jednostajność:s	subst:sg:loc:f		
+jednostajności	jednostajność:s	subst:sg:voc:f		
+jednostajnościom	jednostajność:s	subst:pl:dat:f		
+jednostajność	jednostajność:s	subst:sg:acc:f		
+jednostajność	jednostajność:s	subst:sg:nom:f		
 jednostajna	jednostajny	adj:sg:nom.voc:f:pos		
 jednostajną	jednostajny	adj:sg:acc:f:pos		
 jednostajną	jednostajny	adj:sg:inst:f:pos		
@@ -24714,34 +24714,34 @@ jednoznacznikowi	jednoznacznik	subst:sg:dat:m3	pospolita
 jednoznaczników	jednoznacznik	subst:pl:gen:m3	pospolita	
 jednoznaczniku	jednoznacznik	subst:sg:loc:m3	pospolita	
 jednoznaczniku	jednoznacznik	subst:sg:voc:m3	pospolita	
-jednoznacznościach	jednoznaczność:s1	subst:pl:loc:f	pospolita	
-jednoznacznościami	jednoznaczność:s1	subst:pl:inst:f	pospolita	
-jednoznacznością	jednoznaczność:s1	subst:sg:inst:f	pospolita	
-jednoznaczności	jednoznaczność:s1	subst:pl:acc:f	pospolita	
-jednoznaczności	jednoznaczność:s1	subst:pl:gen:f	pospolita	
-jednoznaczności	jednoznaczność:s1	subst:pl:nom:f	pospolita	
-jednoznaczności	jednoznaczność:s1	subst:pl:voc:f	pospolita	
-jednoznaczności	jednoznaczność:s1	subst:sg:dat:f	pospolita	
-jednoznaczności	jednoznaczność:s1	subst:sg:gen:f	pospolita	
-jednoznaczności	jednoznaczność:s1	subst:sg:loc:f	pospolita	
-jednoznaczności	jednoznaczność:s1	subst:sg:voc:f	pospolita	
-jednoznacznościom	jednoznaczność:s1	subst:pl:dat:f	pospolita	
-jednoznaczność	jednoznaczność:s1	subst:sg:acc:f	pospolita	
-jednoznaczność	jednoznaczność:s1	subst:sg:nom:f	pospolita	
-jednoznacznościach	jednoznaczność:s2	subst:pl:loc:f		
-jednoznacznościami	jednoznaczność:s2	subst:pl:inst:f		
-jednoznacznością	jednoznaczność:s2	subst:sg:inst:f		
-jednoznaczności	jednoznaczność:s2	subst:pl:acc:f		
-jednoznaczności	jednoznaczność:s2	subst:pl:gen:f		
-jednoznaczności	jednoznaczność:s2	subst:pl:nom:f		
-jednoznaczności	jednoznaczność:s2	subst:pl:voc:f		
-jednoznaczności	jednoznaczność:s2	subst:sg:dat:f		
-jednoznaczności	jednoznaczność:s2	subst:sg:gen:f		
-jednoznaczności	jednoznaczność:s2	subst:sg:loc:f		
-jednoznaczności	jednoznaczność:s2	subst:sg:voc:f		
-jednoznacznościom	jednoznaczność:s2	subst:pl:dat:f		
-jednoznaczność	jednoznaczność:s2	subst:sg:acc:f		
-jednoznaczność	jednoznaczność:s2	subst:sg:nom:f		
+jednoznacznościach	jednoznaczność:s	subst:pl:loc:f	pospolita	
+jednoznacznościami	jednoznaczność:s	subst:pl:inst:f	pospolita	
+jednoznacznością	jednoznaczność:s	subst:sg:inst:f	pospolita	
+jednoznaczności	jednoznaczność:s	subst:pl:acc:f	pospolita	
+jednoznaczności	jednoznaczność:s	subst:pl:gen:f	pospolita	
+jednoznaczności	jednoznaczność:s	subst:pl:nom:f	pospolita	
+jednoznaczności	jednoznaczność:s	subst:pl:voc:f	pospolita	
+jednoznaczności	jednoznaczność:s	subst:sg:dat:f	pospolita	
+jednoznaczności	jednoznaczność:s	subst:sg:gen:f	pospolita	
+jednoznaczności	jednoznaczność:s	subst:sg:loc:f	pospolita	
+jednoznaczności	jednoznaczność:s	subst:sg:voc:f	pospolita	
+jednoznacznościom	jednoznaczność:s	subst:pl:dat:f	pospolita	
+jednoznaczność	jednoznaczność:s	subst:sg:acc:f	pospolita	
+jednoznaczność	jednoznaczność:s	subst:sg:nom:f	pospolita	
+jednoznacznościach	jednoznaczność:s	subst:pl:loc:f		
+jednoznacznościami	jednoznaczność:s	subst:pl:inst:f		
+jednoznacznością	jednoznaczność:s	subst:sg:inst:f		
+jednoznaczności	jednoznaczność:s	subst:pl:acc:f		
+jednoznaczności	jednoznaczność:s	subst:pl:gen:f		
+jednoznaczności	jednoznaczność:s	subst:pl:nom:f		
+jednoznaczności	jednoznaczność:s	subst:pl:voc:f		
+jednoznaczności	jednoznaczność:s	subst:sg:dat:f		
+jednoznaczności	jednoznaczność:s	subst:sg:gen:f		
+jednoznaczności	jednoznaczność:s	subst:sg:loc:f		
+jednoznaczności	jednoznaczność:s	subst:sg:voc:f		
+jednoznacznościom	jednoznaczność:s	subst:pl:dat:f		
+jednoznaczność	jednoznaczność:s	subst:sg:acc:f		
+jednoznaczność	jednoznaczność:s	subst:sg:nom:f		
 jednoznaczna	jednoznaczny	adj:sg:nom.voc:f:pos		
 jednoznaczną	jednoznaczny	adj:sg:acc:f:pos		
 jednoznaczną	jednoznaczny	adj:sg:inst:f:pos		
@@ -38463,7 +38463,7 @@ jurysterie	jurysteria	subst:pl:acc:f	pospolita	daw.
 jurysterie	jurysteria	subst:pl:nom:f	pospolita	daw.
 jurysterie	jurysteria	subst:pl:voc:f	pospolita	daw.
 jurysterię	jurysteria	subst:sg:acc:f	pospolita	daw.
-jurysterii	jurysteria	subst:pl:gen:f	pospolita	daw.|hom.
+jurysterii	jurysteria	subst:pl:gen:f	pospolita	hom.|daw.
 jurysterii	jurysteria	subst:sg:dat:f	pospolita	daw.
 jurysterii	jurysteria	subst:sg:gen:f	pospolita	daw.
 jurysterii	jurysteria	subst:sg:loc:f	pospolita	daw.
@@ -38916,7 +38916,7 @@ justyfikacje	justyfikacja	subst:pl:acc:f	pospolita	daw.
 justyfikacje	justyfikacja	subst:pl:nom:f	pospolita	daw.
 justyfikacje	justyfikacja	subst:pl:voc:f	pospolita	daw.
 justyfikację	justyfikacja	subst:sg:acc:f	pospolita	daw.
-justyfikacji	justyfikacja	subst:pl:gen:f	pospolita	daw.|hom.
+justyfikacji	justyfikacja	subst:pl:gen:f	pospolita	hom.|daw.
 justyfikacji	justyfikacja	subst:sg:dat:f	pospolita	daw.
 justyfikacji	justyfikacja	subst:sg:gen:f	pospolita	daw.
 justyfikacji	justyfikacja	subst:sg:loc:f	pospolita	daw.

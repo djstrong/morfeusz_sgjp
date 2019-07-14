@@ -188,22 +188,22 @@ VCR-y	VCR	subst:pl:nom:m3	pospolita
 VCR-y	VCR	subst:pl:voc:m3	pospolita	
 VCR-ze	VCR	subst:sg:loc:m3	pospolita	
 VCR-ze	VCR	subst:sg:voc:m3	pospolita	
-Vedze	Vega	subst:sg:dat:m1	nazwisko	człon n. wł.
-Vedze	Vega	subst:sg:loc:m1	nazwisko	człon n. wł.
-Vegach	Vega	subst:pl:loc:m1	nazwisko	człon n. wł.
-Vegami	Vega	subst:pl:inst:m1	nazwisko	człon n. wł.
-Vega	Vega	subst:sg:nom:m1	nazwisko	człon n. wł.
-Vegą	Vega	subst:sg:inst:m1	nazwisko	człon n. wł.
-Vegę	Vega	subst:sg:acc:m1	nazwisko	człon n. wł.
-Vegi	Vega	depr:pl:nom:m2	nazwisko	człon n. wł.
-Vegi	Vega	depr:pl:voc:m2	nazwisko	człon n. wł.
-Vegi	Vega	subst:sg:gen:m1	nazwisko	człon n. wł.
-Vegom	Vega	subst:pl:dat:m1	nazwisko	człon n. wł.
-Vego	Vega	subst:sg:voc:m1	nazwisko	człon n. wł.
-Vegowie	Vega	subst:pl:nom:m1	nazwisko	człon n. wł.
-Vegowie	Vega	subst:pl:voc:m1	nazwisko	człon n. wł.
-Vegów	Vega	subst:pl:acc:m1	nazwisko	człon n. wł.
-Vegów	Vega	subst:pl:gen:m1	nazwisko	człon n. wł.
+Vedze	Vega	subst:sg:dat:m1	nazwisko	człon_n._wł.
+Vedze	Vega	subst:sg:loc:m1	nazwisko	człon_n._wł.
+Vegach	Vega	subst:pl:loc:m1	nazwisko	człon_n._wł.
+Vegami	Vega	subst:pl:inst:m1	nazwisko	człon_n._wł.
+Vega	Vega	subst:sg:nom:m1	nazwisko	człon_n._wł.
+Vegą	Vega	subst:sg:inst:m1	nazwisko	człon_n._wł.
+Vegę	Vega	subst:sg:acc:m1	nazwisko	człon_n._wł.
+Vegi	Vega	depr:pl:nom:m2	nazwisko	człon_n._wł.
+Vegi	Vega	depr:pl:voc:m2	nazwisko	człon_n._wł.
+Vegi	Vega	subst:sg:gen:m1	nazwisko	człon_n._wł.
+Vegom	Vega	subst:pl:dat:m1	nazwisko	człon_n._wł.
+Vego	Vega	subst:sg:voc:m1	nazwisko	człon_n._wł.
+Vegowie	Vega	subst:pl:nom:m1	nazwisko	człon_n._wł.
+Vegowie	Vega	subst:pl:voc:m1	nazwisko	człon_n._wł.
+Vegów	Vega	subst:pl:acc:m1	nazwisko	człon_n._wł.
+Vegów	Vega	subst:pl:gen:m1	nazwisko	człon_n._wł.
 Vegas	Vegas	burk		
 Velazquezach	Velazquez	subst:pl:loc:m1	nazwisko	
 Velazquezami	Velazquez	subst:pl:inst:m1	nazwisko	
@@ -556,22 +556,22 @@ Victorii	Victoria	subst:sg:loc:f	imię
 Victoriom	Victoria	subst:pl:dat:f	imię	
 Victorio	Victoria	subst:sg:voc:f	imię	
 Victoryj	Victoria	subst:pl:gen:f	imię	arch.|char.
-Vinci	Vinci	depr:pl:nom:m2	nazwisko	człon n. wł.
-Vinci	Vinci	depr:pl:voc:m2	nazwisko	człon n. wł.
-Vinci	Vinci	subst:pl:acc:m1	nazwisko	człon n. wł.
-Vinci	Vinci	subst:pl:dat:m1	nazwisko	człon n. wł.
-Vinci	Vinci	subst:pl:gen:m1	nazwisko	człon n. wł.
-Vinci	Vinci	subst:pl:inst:m1	nazwisko	człon n. wł.
-Vinci	Vinci	subst:pl:loc:m1	nazwisko	człon n. wł.
-Vinci	Vinci	subst:pl:nom:m1	nazwisko	człon n. wł.
-Vinci	Vinci	subst:pl:voc:m1	nazwisko	człon n. wł.
-Vinci	Vinci	subst:sg:acc:m1	nazwisko	człon n. wł.
-Vinci	Vinci	subst:sg:dat:m1	nazwisko	człon n. wł.
-Vinci	Vinci	subst:sg:gen:m1	nazwisko	człon n. wł.
-Vinci	Vinci	subst:sg:inst:m1	nazwisko	człon n. wł.
-Vinci	Vinci	subst:sg:loc:m1	nazwisko	człon n. wł.
-Vinci	Vinci	subst:sg:nom:m1	nazwisko	człon n. wł.
-Vinci	Vinci	subst:sg:voc:m1	nazwisko	człon n. wł.
+Vinci	Vinci	depr:pl:nom:m2	nazwisko	człon_n._wł.
+Vinci	Vinci	depr:pl:voc:m2	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:pl:acc:m1	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:pl:dat:m1	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:pl:gen:m1	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:pl:inst:m1	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:pl:loc:m1	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:pl:nom:m1	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:pl:voc:m1	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:sg:acc:m1	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:sg:dat:m1	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:sg:gen:m1	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:sg:inst:m1	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:sg:loc:m1	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:sg:nom:m1	nazwisko	człon_n._wł.
+Vinci	Vinci	subst:sg:voc:m1	nazwisko	człon_n._wł.
 Violecie	Violeta	subst:sg:dat:f	imię	
 Violecie	Violeta	subst:sg:loc:f	imię	
 Violetach	Violeta	subst:pl:loc:f	imię	

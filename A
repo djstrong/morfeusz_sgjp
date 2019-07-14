@@ -234,20 +234,20 @@ Abdonów	Abdon	subst:pl:acc:m1	imię
 Abdonów	Abdon	subst:pl:gen:m1	imię	
 Abdony	Abdon	depr:pl:nom:m2	imię	
 Abdony	Abdon	depr:pl:voc:m2	imię	
-Abeba	Abeba	subst:sg:nom:f	geograficzna	człon n. wł.
-Abeb	Abeba	subst:pl:gen:f	geograficzna	człon n. wł.
-Abebach	Abeba	subst:pl:loc:f	geograficzna	człon n. wł.
-Abebami	Abeba	subst:pl:inst:f	geograficzna	człon n. wł.
-Abebą	Abeba	subst:sg:inst:f	geograficzna	człon n. wł.
-Abebę	Abeba	subst:sg:acc:f	geograficzna	człon n. wł.
-Abebie	Abeba	subst:sg:dat:f	geograficzna	człon n. wł.
-Abebie	Abeba	subst:sg:loc:f	geograficzna	człon n. wł.
-Abebo	Abeba	subst:sg:voc:f	geograficzna	człon n. wł.
-Abebom	Abeba	subst:pl:dat:f	geograficzna	człon n. wł.
-Abeby	Abeba	subst:pl:acc:f	geograficzna	człon n. wł.
-Abeby	Abeba	subst:pl:nom:f	geograficzna	człon n. wł.
-Abeby	Abeba	subst:pl:voc:f	geograficzna	człon n. wł.
-Abeby	Abeba	subst:sg:gen:f	geograficzna	człon n. wł.
+Abeba	Abeba	subst:sg:nom:f	geograficzna	człon_n._wł.
+Abeb	Abeba	subst:pl:gen:f	geograficzna	człon_n._wł.
+Abebach	Abeba	subst:pl:loc:f	geograficzna	człon_n._wł.
+Abebami	Abeba	subst:pl:inst:f	geograficzna	człon_n._wł.
+Abebą	Abeba	subst:sg:inst:f	geograficzna	człon_n._wł.
+Abebę	Abeba	subst:sg:acc:f	geograficzna	człon_n._wł.
+Abebie	Abeba	subst:sg:dat:f	geograficzna	człon_n._wł.
+Abebie	Abeba	subst:sg:loc:f	geograficzna	człon_n._wł.
+Abebo	Abeba	subst:sg:voc:f	geograficzna	człon_n._wł.
+Abebom	Abeba	subst:pl:dat:f	geograficzna	człon_n._wł.
+Abeby	Abeba	subst:pl:acc:f	geograficzna	człon_n._wł.
+Abeby	Abeba	subst:pl:nom:f	geograficzna	człon_n._wł.
+Abeby	Abeba	subst:pl:voc:f	geograficzna	człon_n._wł.
+Abeby	Abeba	subst:sg:gen:f	geograficzna	człon_n._wł.
 Abel	Abel	subst:sg:nom:m1	imię	bibl.
 Abla	Abel	subst:sg:acc:m1	imię	bibl.
 Abla	Abel	subst:sg:gen:m1	imię	bibl.
@@ -470,7 +470,7 @@ Abramowie	Abramów	subst:sg:voc:m3	geograficzna
 Abramowom	Abramów	subst:pl:dat:m3	geograficzna	
 Abramowowi	Abramów	subst:sg:dat:m3	geograficzna	
 Abramowów	Abramów	subst:pl:gen:m3	geograficzna	
-Abramowu	Abramów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Abramowu	Abramów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Abramowy	Abramów	subst:pl:acc:m3	geograficzna	
 Abramowy	Abramów	subst:pl:nom:m3	geograficzna	
 Abramowy	Abramów	subst:pl:voc:m3	geograficzna	
@@ -850,7 +850,7 @@ Adamowie	Adamów	subst:sg:voc:m3	geograficzna
 Adamowom	Adamów	subst:pl:dat:m3	geograficzna	
 Adamowowi	Adamów	subst:sg:dat:m3	geograficzna	
 Adamowów	Adamów	subst:pl:gen:m3	geograficzna	
-Adamowu	Adamów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Adamowu	Adamów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Adamowy	Adamów	subst:pl:acc:m3	geograficzna	
 Adamowy	Adamów	subst:pl:nom:m3	geograficzna	
 Adamowy	Adamów	subst:pl:voc:m3	geograficzna	
@@ -1868,20 +1868,20 @@ AGD	AGD	subst:pl:inst:p3	pospolita
 AGD	AGD	subst:pl:loc:p3	pospolita	
 AGD	AGD	subst:pl:nom:p3	pospolita	
 AGD	AGD	subst:pl:voc:p3	pospolita	
-Age	Age	subst:pl:acc:n2	własna	człon n. wł.
-Age	Age	subst:pl:dat:n2	własna	człon n. wł.
-Age	Age	subst:pl:gen:n2	własna	człon n. wł.
-Age	Age	subst:pl:inst:n2	własna	człon n. wł.
-Age	Age	subst:pl:loc:n2	własna	człon n. wł.
-Age	Age	subst:pl:nom:n2	własna	człon n. wł.
-Age	Age	subst:pl:voc:n2	własna	człon n. wł.
-Age	Age	subst:sg:acc:n2	własna	człon n. wł.
-Age	Age	subst:sg:dat:n2	własna	człon n. wł.
-Age	Age	subst:sg:gen:n2	własna	człon n. wł.
-Age	Age	subst:sg:inst:n2	własna	człon n. wł.
-Age	Age	subst:sg:loc:n2	własna	człon n. wł.
-Age	Age	subst:sg:nom:n2	własna	człon n. wł.
-Age	Age	subst:sg:voc:n2	własna	człon n. wł.
+Age	Age	subst:pl:acc:n2	własna	człon_n._wł.
+Age	Age	subst:pl:dat:n2	własna	człon_n._wł.
+Age	Age	subst:pl:gen:n2	własna	człon_n._wł.
+Age	Age	subst:pl:inst:n2	własna	człon_n._wł.
+Age	Age	subst:pl:loc:n2	własna	człon_n._wł.
+Age	Age	subst:pl:nom:n2	własna	człon_n._wł.
+Age	Age	subst:pl:voc:n2	własna	człon_n._wł.
+Age	Age	subst:sg:acc:n2	własna	człon_n._wł.
+Age	Age	subst:sg:dat:n2	własna	człon_n._wł.
+Age	Age	subst:sg:gen:n2	własna	człon_n._wł.
+Age	Age	subst:sg:inst:n2	własna	człon_n._wł.
+Age	Age	subst:sg:loc:n2	własna	człon_n._wł.
+Age	Age	subst:sg:nom:n2	własna	człon_n._wł.
+Age	Age	subst:sg:voc:n2	własna	człon_n._wł.
 Agenora	Agenor	subst:sg:acc:m1	imię	
 Agenora	Agenor	subst:sg:gen:m1	imię	
 Agenorach	Agenor	subst:pl:loc:m1	imię	
@@ -2203,20 +2203,20 @@ AIF-y	AIF	subst:pl:acc:m3	firma
 AIF-y	AIF	subst:pl:nom:m3	firma	
 AIF-y	AIF	subst:pl:voc:m3	firma	
 Aires	Aires:b	burk		
-Aires	Aires:s	subst:pl:acc:n2	geograficzna	człon n. wł.
-Aires	Aires:s	subst:pl:dat:n2	geograficzna	człon n. wł.
-Aires	Aires:s	subst:pl:gen:n2	geograficzna	człon n. wł.
-Aires	Aires:s	subst:pl:inst:n2	geograficzna	człon n. wł.
-Aires	Aires:s	subst:pl:loc:n2	geograficzna	człon n. wł.
-Aires	Aires:s	subst:pl:nom:n2	geograficzna	człon n. wł.
-Aires	Aires:s	subst:pl:voc:n2	geograficzna	człon n. wł.
-Aires	Aires:s	subst:sg:acc:n2	geograficzna	człon n. wł.
-Aires	Aires:s	subst:sg:dat:n2	geograficzna	człon n. wł.
-Aires	Aires:s	subst:sg:gen:n2	geograficzna	człon n. wł.
-Aires	Aires:s	subst:sg:inst:n2	geograficzna	człon n. wł.
-Aires	Aires:s	subst:sg:loc:n2	geograficzna	człon n. wł.
-Aires	Aires:s	subst:sg:nom:n2	geograficzna	człon n. wł.
-Aires	Aires:s	subst:sg:voc:n2	geograficzna	człon n. wł.
+Aires	Aires:s	subst:pl:acc:n2	geograficzna	człon_n._wł.
+Aires	Aires:s	subst:pl:dat:n2	geograficzna	człon_n._wł.
+Aires	Aires:s	subst:pl:gen:n2	geograficzna	człon_n._wł.
+Aires	Aires:s	subst:pl:inst:n2	geograficzna	człon_n._wł.
+Aires	Aires:s	subst:pl:loc:n2	geograficzna	człon_n._wł.
+Aires	Aires:s	subst:pl:nom:n2	geograficzna	człon_n._wł.
+Aires	Aires:s	subst:pl:voc:n2	geograficzna	człon_n._wł.
+Aires	Aires:s	subst:sg:acc:n2	geograficzna	człon_n._wł.
+Aires	Aires:s	subst:sg:dat:n2	geograficzna	człon_n._wł.
+Aires	Aires:s	subst:sg:gen:n2	geograficzna	człon_n._wł.
+Aires	Aires:s	subst:sg:inst:n2	geograficzna	człon_n._wł.
+Aires	Aires:s	subst:sg:loc:n2	geograficzna	człon_n._wł.
+Aires	Aires:s	subst:sg:nom:n2	geograficzna	człon_n._wł.
+Aires	Aires:s	subst:sg:voc:n2	geograficzna	człon_n._wł.
 AI	AI:s1	subst:pl:acc:f	organizacja	
 AI	AI:s1	subst:pl:acc:n2	organizacja	
 AI	AI:s1	subst:pl:dat:f	organizacja	
@@ -2273,20 +2273,20 @@ AI	AI:s3	subst:sg:inst:f	firma
 AI	AI:s3	subst:sg:loc:f	firma	
 AI	AI:s3	subst:sg:nom:f	firma	
 AI	AI:s3	subst:sg:voc:f	firma	
-Ajaksach	Ajax	subst:pl:loc:m3	organizacja	człon n. wł.
-Ajaksami	Ajax	subst:pl:inst:m3	organizacja	człon n. wł.
-Ajaksem	Ajax	subst:sg:inst:m3	organizacja	człon n. wł.
-Ajaksie	Ajax	subst:sg:loc:m3	organizacja	człon n. wł.
-Ajaksie	Ajax	subst:sg:voc:m3	organizacja	człon n. wł.
-Ajaksom	Ajax	subst:pl:dat:m3	organizacja	człon n. wł.
-Ajaksowi	Ajax	subst:sg:dat:m3	organizacja	człon n. wł.
-Ajaksów	Ajax	subst:pl:gen:m3	organizacja	człon n. wł.
-Ajaksu	Ajax	subst:sg:gen:m3	organizacja	człon n. wł.
-Ajaksy	Ajax	subst:pl:acc:m3	organizacja	człon n. wł.
-Ajaksy	Ajax	subst:pl:nom:m3	organizacja	człon n. wł.
-Ajaksy	Ajax	subst:pl:voc:m3	organizacja	człon n. wł.
-Ajax	Ajax	subst:sg:acc:m3	organizacja	człon n. wł.
-Ajax	Ajax	subst:sg:nom:m3	organizacja	człon n. wł.
+Ajaksach	Ajax	subst:pl:loc:m3	organizacja	człon_n._wł.
+Ajaksami	Ajax	subst:pl:inst:m3	organizacja	człon_n._wł.
+Ajaksem	Ajax	subst:sg:inst:m3	organizacja	człon_n._wł.
+Ajaksie	Ajax	subst:sg:loc:m3	organizacja	człon_n._wł.
+Ajaksie	Ajax	subst:sg:voc:m3	organizacja	człon_n._wł.
+Ajaksom	Ajax	subst:pl:dat:m3	organizacja	człon_n._wł.
+Ajaksowi	Ajax	subst:sg:dat:m3	organizacja	człon_n._wł.
+Ajaksów	Ajax	subst:pl:gen:m3	organizacja	człon_n._wł.
+Ajaksu	Ajax	subst:sg:gen:m3	organizacja	człon_n._wł.
+Ajaksy	Ajax	subst:pl:acc:m3	organizacja	człon_n._wł.
+Ajaksy	Ajax	subst:pl:nom:m3	organizacja	człon_n._wł.
+Ajaksy	Ajax	subst:pl:voc:m3	organizacja	człon_n._wł.
+Ajax	Ajax	subst:sg:acc:m3	organizacja	człon_n._wł.
+Ajax	Ajax	subst:sg:nom:m3	organizacja	człon_n._wł.
 Ajdukiewicza	Ajdukiewicz	subst:sg:acc:m1	nazwisko	
 Ajdukiewicza	Ajdukiewicz	subst:sg:gen:m1	nazwisko	
 Ajdukiewiczach	Ajdukiewicz	subst:pl:loc:m1	nazwisko	
@@ -3131,7 +3131,7 @@ Aleksandrowie	Aleksandrów	subst:sg:voc:m3	geograficzna
 Aleksandrowom	Aleksandrów	subst:pl:dat:m3	geograficzna	
 Aleksandrowowi	Aleksandrów	subst:sg:dat:m3	geograficzna	
 Aleksandrowów	Aleksandrów	subst:pl:gen:m3	geograficzna	
-Aleksandrowu	Aleksandrów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Aleksandrowu	Aleksandrów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Aleksandrowy	Aleksandrów	subst:pl:acc:m3	geograficzna	
 Aleksandrowy	Aleksandrów	subst:pl:nom:m3	geograficzna	
 Aleksandrowy	Aleksandrów	subst:pl:voc:m3	geograficzna	
@@ -3338,20 +3338,20 @@ Algierki	Algierka	subst:pl:voc:f	pospolita
 Algierki	Algierka	subst:sg:gen:f	pospolita	
 Algierko	Algierka	subst:sg:voc:f	pospolita	
 Algierkom	Algierka	subst:pl:dat:f	pospolita	
-Algolach	Algol	subst:pl:loc:m3	język programowania	komp.
-Algol	Algol	subst:sg:acc:m3	język programowania	komp.
-Algol	Algol	subst:sg:nom:m3	język programowania	komp.
-Algolami	Algol	subst:pl:inst:m3	język programowania	komp.
-Algole	Algol	subst:pl:acc:m3	język programowania	komp.
-Algole	Algol	subst:pl:nom:m3	język programowania	komp.
-Algole	Algol	subst:pl:voc:m3	język programowania	komp.
-Algolem	Algol	subst:sg:inst:m3	język programowania	komp.
-Algoli	Algol	subst:pl:gen:m3	język programowania	komp.
-Algolom	Algol	subst:pl:dat:m3	język programowania	komp.
-Algolowi	Algol	subst:sg:dat:m3	język programowania	komp.
-Algolu	Algol	subst:sg:gen:m3	język programowania	komp.
-Algolu	Algol	subst:sg:loc:m3	język programowania	komp.
-Algolu	Algol	subst:sg:voc:m3	język programowania	komp.
+Algolach	Algol	subst:pl:loc:m3	język_programowania	komp.
+Algol	Algol	subst:sg:acc:m3	język_programowania	komp.
+Algol	Algol	subst:sg:nom:m3	język_programowania	komp.
+Algolami	Algol	subst:pl:inst:m3	język_programowania	komp.
+Algole	Algol	subst:pl:acc:m3	język_programowania	komp.
+Algole	Algol	subst:pl:nom:m3	język_programowania	komp.
+Algole	Algol	subst:pl:voc:m3	język_programowania	komp.
+Algolem	Algol	subst:sg:inst:m3	język_programowania	komp.
+Algoli	Algol	subst:pl:gen:m3	język_programowania	komp.
+Algolom	Algol	subst:pl:dat:m3	język_programowania	komp.
+Algolowi	Algol	subst:sg:dat:m3	język_programowania	komp.
+Algolu	Algol	subst:sg:gen:m3	język_programowania	komp.
+Algolu	Algol	subst:sg:loc:m3	język_programowania	komp.
+Algolu	Algol	subst:sg:voc:m3	język_programowania	komp.
 Ale	Ali	depr:pl:nom:m2	imię	
 Ale	Ali	depr:pl:voc:m2	imię	
 Alego	Ali	subst:sg:acc:m1	imię	
@@ -4658,22 +4658,22 @@ Andaluzji	Andaluzja	subst:sg:loc:f	geograficzna
 Andaluzjo	Andaluzja	subst:sg:voc:f	geograficzna	
 Andaluzjom	Andaluzja	subst:pl:dat:f	geograficzna	
 Andaluzyj	Andaluzja	subst:pl:gen:f	geograficzna	arch.|char.
-Andegawena	Andegawen	subst:sg:acc:m1	członek rodu	
-Andegawena	Andegawen	subst:sg:gen:m1	członek rodu	
-Andegawenach	Andegawen	subst:pl:loc:m1	członek rodu	
-Andegawenami	Andegawen	subst:pl:inst:m1	członek rodu	
-Andegawen	Andegawen	subst:sg:nom:m1	członek rodu	
-Andegawenem	Andegawen	subst:sg:inst:m1	członek rodu	
-Andegaweni	Andegawen	subst:pl:nom:m1	członek rodu	
-Andegaweni	Andegawen	subst:pl:voc:m1	członek rodu	
-Andegawenie	Andegawen	subst:sg:loc:m1	członek rodu	
-Andegawenie	Andegawen	subst:sg:voc:m1	członek rodu	
-Andegawenom	Andegawen	subst:pl:dat:m1	członek rodu	
-Andegawenowi	Andegawen	subst:sg:dat:m1	członek rodu	
-Andegawenów	Andegawen	subst:pl:acc:m1	członek rodu	
-Andegawenów	Andegawen	subst:pl:gen:m1	członek rodu	
-Andegaweny	Andegawen	depr:pl:nom:m2	członek rodu	
-Andegaweny	Andegawen	depr:pl:voc:m2	członek rodu	
+Andegawena	Andegawen	subst:sg:acc:m1	członek_rodu	
+Andegawena	Andegawen	subst:sg:gen:m1	członek_rodu	
+Andegawenach	Andegawen	subst:pl:loc:m1	członek_rodu	
+Andegawenami	Andegawen	subst:pl:inst:m1	członek_rodu	
+Andegawen	Andegawen	subst:sg:nom:m1	członek_rodu	
+Andegawenem	Andegawen	subst:sg:inst:m1	członek_rodu	
+Andegaweni	Andegawen	subst:pl:nom:m1	członek_rodu	
+Andegaweni	Andegawen	subst:pl:voc:m1	członek_rodu	
+Andegawenie	Andegawen	subst:sg:loc:m1	członek_rodu	
+Andegawenie	Andegawen	subst:sg:voc:m1	członek_rodu	
+Andegawenom	Andegawen	subst:pl:dat:m1	członek_rodu	
+Andegawenowi	Andegawen	subst:sg:dat:m1	członek_rodu	
+Andegawenów	Andegawen	subst:pl:acc:m1	członek_rodu	
+Andegawenów	Andegawen	subst:pl:gen:m1	członek_rodu	
+Andegaweny	Andegawen	depr:pl:nom:m2	członek_rodu	
+Andegaweny	Andegawen	depr:pl:voc:m2	członek_rodu	
 Andegawenia	Andegawenia	subst:sg:nom:f	geograficzna	
 Andegaweniach	Andegawenia	subst:pl:loc:f	geograficzna	
 Andegaweniami	Andegawenia	subst:pl:inst:f	geograficzna	
@@ -4886,7 +4886,7 @@ Andrychowie	Andrychów	subst:sg:voc:m3	geograficzna
 Andrychowom	Andrychów	subst:pl:dat:m3	geograficzna	
 Andrychowowi	Andrychów	subst:sg:dat:m3	geograficzna	
 Andrychowów	Andrychów	subst:pl:gen:m3	geograficzna	
-Andrychowu	Andrychów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Andrychowu	Andrychów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Andrychowy	Andrychów	subst:pl:acc:m3	geograficzna	
 Andrychowy	Andrychów	subst:pl:nom:m3	geograficzna	
 Andrychowy	Andrychów	subst:pl:voc:m3	geograficzna	
@@ -5106,20 +5106,20 @@ Angeli	Angela	subst:sg:loc:f	imię
 Angelo	Angela	subst:sg:voc:f	imię	
 Angelom	Angela	subst:pl:dat:f	imię	
 Angelu	Angela	subst:sg:voc:f	imię	
-Angeles	Angeles	subst:pl:acc:n2	geograficzna	człon n. wł.
-Angeles	Angeles	subst:pl:dat:n2	geograficzna	człon n. wł.
-Angeles	Angeles	subst:pl:gen:n2	geograficzna	człon n. wł.
-Angeles	Angeles	subst:pl:inst:n2	geograficzna	człon n. wł.
-Angeles	Angeles	subst:pl:loc:n2	geograficzna	człon n. wł.
-Angeles	Angeles	subst:pl:nom:n2	geograficzna	człon n. wł.
-Angeles	Angeles	subst:pl:voc:n2	geograficzna	człon n. wł.
-Angeles	Angeles	subst:sg:acc:n2	geograficzna	człon n. wł.
-Angeles	Angeles	subst:sg:dat:n2	geograficzna	człon n. wł.
-Angeles	Angeles	subst:sg:gen:n2	geograficzna	człon n. wł.
-Angeles	Angeles	subst:sg:inst:n2	geograficzna	człon n. wł.
-Angeles	Angeles	subst:sg:loc:n2	geograficzna	człon n. wł.
-Angeles	Angeles	subst:sg:nom:n2	geograficzna	człon n. wł.
-Angeles	Angeles	subst:sg:voc:n2	geograficzna	człon n. wł.
+Angeles	Angeles	subst:pl:acc:n2	geograficzna	człon_n._wł.
+Angeles	Angeles	subst:pl:dat:n2	geograficzna	człon_n._wł.
+Angeles	Angeles	subst:pl:gen:n2	geograficzna	człon_n._wł.
+Angeles	Angeles	subst:pl:inst:n2	geograficzna	człon_n._wł.
+Angeles	Angeles	subst:pl:loc:n2	geograficzna	człon_n._wł.
+Angeles	Angeles	subst:pl:nom:n2	geograficzna	człon_n._wł.
+Angeles	Angeles	subst:pl:voc:n2	geograficzna	człon_n._wł.
+Angeles	Angeles	subst:sg:acc:n2	geograficzna	człon_n._wł.
+Angeles	Angeles	subst:sg:dat:n2	geograficzna	człon_n._wł.
+Angeles	Angeles	subst:sg:gen:n2	geograficzna	człon_n._wł.
+Angeles	Angeles	subst:sg:inst:n2	geograficzna	człon_n._wł.
+Angeles	Angeles	subst:sg:loc:n2	geograficzna	człon_n._wł.
+Angeles	Angeles	subst:sg:nom:n2	geograficzna	człon_n._wł.
+Angeles	Angeles	subst:sg:voc:n2	geograficzna	człon_n._wł.
 Angelica	Angelico	subst:sg:acc:m1	imię	
 Angelica	Angelico	subst:sg:gen:m1	imię	
 Angelicach	Angelico	subst:pl:loc:m1	imię	
@@ -8165,20 +8165,20 @@ Atlantiki	Atlantic	subst:pl:acc:m3	własna
 Atlantiki	Atlantic	subst:pl:nom:m3	własna	
 Atlantiki	Atlantic	subst:pl:voc:m3	własna	
 Atlantikiem	Atlantic	subst:sg:inst:m3	własna	
-Atlantisa	Atlantis	subst:sg:gen:m3	środek lokomocji	
-Atlantisach	Atlantis	subst:pl:loc:m3	środek lokomocji	
-Atlantisami	Atlantis	subst:pl:inst:m3	środek lokomocji	
-Atlantis	Atlantis	subst:sg:acc:m3	środek lokomocji	
-Atlantis	Atlantis	subst:sg:nom:m3	środek lokomocji	
-Atlantisem	Atlantis	subst:sg:inst:m3	środek lokomocji	
-Atlantisie	Atlantis	subst:sg:loc:m3	środek lokomocji	
-Atlantisie	Atlantis	subst:sg:voc:m3	środek lokomocji	
-Atlantisom	Atlantis	subst:pl:dat:m3	środek lokomocji	
-Atlantisowi	Atlantis	subst:sg:dat:m3	środek lokomocji	
-Atlantisów	Atlantis	subst:pl:gen:m3	środek lokomocji	
-Atlantisy	Atlantis	subst:pl:acc:m3	środek lokomocji	
-Atlantisy	Atlantis	subst:pl:nom:m3	środek lokomocji	
-Atlantisy	Atlantis	subst:pl:voc:m3	środek lokomocji	
+Atlantisa	Atlantis	subst:sg:gen:m3	środek_lokomocji	
+Atlantisach	Atlantis	subst:pl:loc:m3	środek_lokomocji	
+Atlantisami	Atlantis	subst:pl:inst:m3	środek_lokomocji	
+Atlantis	Atlantis	subst:sg:acc:m3	środek_lokomocji	
+Atlantis	Atlantis	subst:sg:nom:m3	środek_lokomocji	
+Atlantisem	Atlantis	subst:sg:inst:m3	środek_lokomocji	
+Atlantisie	Atlantis	subst:sg:loc:m3	środek_lokomocji	
+Atlantisie	Atlantis	subst:sg:voc:m3	środek_lokomocji	
+Atlantisom	Atlantis	subst:pl:dat:m3	środek_lokomocji	
+Atlantisowi	Atlantis	subst:sg:dat:m3	środek_lokomocji	
+Atlantisów	Atlantis	subst:pl:gen:m3	środek_lokomocji	
+Atlantisy	Atlantis	subst:pl:acc:m3	środek_lokomocji	
+Atlantisy	Atlantis	subst:pl:nom:m3	środek_lokomocji	
+Atlantisy	Atlantis	subst:pl:voc:m3	środek_lokomocji	
 Atlantyda	Atlantyda	subst:sg:nom:f	geograficzna	mit.
 Atlantydach	Atlantyda	subst:pl:loc:f	geograficzna	mit.
 Atlantydami	Atlantyda	subst:pl:inst:f	geograficzna	mit.
@@ -8426,7 +8426,7 @@ Augustowie	Augustów	subst:sg:voc:m3	geograficzna
 Augustowom	Augustów	subst:pl:dat:m3	geograficzna	
 Augustowowi	Augustów	subst:sg:dat:m3	geograficzna	
 Augustowów	Augustów	subst:pl:gen:m3	geograficzna	
-Augustowu	Augustów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Augustowu	Augustów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Augustowy	Augustów	subst:pl:acc:m3	geograficzna	
 Augustowy	Augustów	subst:pl:nom:m3	geograficzna	
 Augustowy	Augustów	subst:pl:voc:m3	geograficzna	
@@ -8900,20 +8900,20 @@ Awinionu	Awinion	subst:sg:gen:m3	geograficzna
 Awiniony	Awinion	subst:pl:acc:m3	geograficzna	
 Awiniony	Awinion	subst:pl:nom:m3	geograficzna	
 Awiniony	Awinion	subst:pl:voc:m3	geograficzna	
-Awiwach	Awiw	subst:pl:loc:m3	geograficzna	człon n. wł.
-Awiwami	Awiw	subst:pl:inst:m3	geograficzna	człon n. wł.
-Awiw	Awiw	subst:sg:acc:m3	geograficzna	człon n. wł.
-Awiw	Awiw	subst:sg:nom:m3	geograficzna	człon n. wł.
-Awiwem	Awiw	subst:sg:inst:m3	geograficzna	człon n. wł.
-Awiwie	Awiw	subst:sg:loc:m3	geograficzna	człon n. wł.
-Awiwie	Awiw	subst:sg:voc:m3	geograficzna	człon n. wł.
-Awiwom	Awiw	subst:pl:dat:m3	geograficzna	człon n. wł.
-Awiwowi	Awiw	subst:sg:dat:m3	geograficzna	człon n. wł.
-Awiwów	Awiw	subst:pl:gen:m3	geograficzna	człon n. wł.
-Awiwu	Awiw	subst:sg:gen:m3	geograficzna	człon n. wł.
-Awiwy	Awiw	subst:pl:acc:m3	geograficzna	człon n. wł.
-Awiwy	Awiw	subst:pl:nom:m3	geograficzna	człon n. wł.
-Awiwy	Awiw	subst:pl:voc:m3	geograficzna	człon n. wł.
+Awiwach	Awiw	subst:pl:loc:m3	geograficzna	człon_n._wł.
+Awiwami	Awiw	subst:pl:inst:m3	geograficzna	człon_n._wł.
+Awiw	Awiw	subst:sg:acc:m3	geograficzna	człon_n._wł.
+Awiw	Awiw	subst:sg:nom:m3	geograficzna	człon_n._wł.
+Awiwem	Awiw	subst:sg:inst:m3	geograficzna	człon_n._wł.
+Awiwie	Awiw	subst:sg:loc:m3	geograficzna	człon_n._wł.
+Awiwie	Awiw	subst:sg:voc:m3	geograficzna	człon_n._wł.
+Awiwom	Awiw	subst:pl:dat:m3	geograficzna	człon_n._wł.
+Awiwowi	Awiw	subst:sg:dat:m3	geograficzna	człon_n._wł.
+Awiwów	Awiw	subst:pl:gen:m3	geograficzna	człon_n._wł.
+Awiwu	Awiw	subst:sg:gen:m3	geograficzna	człon_n._wł.
+Awiwy	Awiw	subst:pl:acc:m3	geograficzna	człon_n._wł.
+Awiwy	Awiw	subst:pl:nom:m3	geograficzna	człon_n._wł.
+Awiwy	Awiw	subst:pl:voc:m3	geograficzna	człon_n._wł.
 AWS-ach	AWS	subst:pl:loc:m3	organizacja	
 AWS-ami	AWS	subst:pl:inst:m3	organizacja	
 AWS	AWS	subst:sg:acc:m3	organizacja	

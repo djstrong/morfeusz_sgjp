@@ -1079,34 +1079,34 @@
 żadniusieńkości	żadniusieńkość	subst:sg:voc:f		
 żadniusieńkość	żadniusieńkość	subst:sg:acc:f		
 żadniusieńkość	żadniusieńkość	subst:sg:nom:f		
-żadnościach	żadność:s1	subst:pl:loc:f	pospolita	
-żadnościami	żadność:s1	subst:pl:inst:f	pospolita	
-żadnością	żadność:s1	subst:sg:inst:f	pospolita	
-żadnościom	żadność:s1	subst:pl:dat:f	pospolita	
-żadności	żadność:s1	subst:pl:acc:f	pospolita	
-żadności	żadność:s1	subst:pl:gen:f	pospolita	
-żadności	żadność:s1	subst:pl:nom:f	pospolita	
-żadności	żadność:s1	subst:pl:voc:f	pospolita	
-żadności	żadność:s1	subst:sg:dat:f	pospolita	
-żadności	żadność:s1	subst:sg:gen:f	pospolita	
-żadności	żadność:s1	subst:sg:loc:f	pospolita	
-żadności	żadność:s1	subst:sg:voc:f	pospolita	
-żadność	żadność:s1	subst:sg:acc:f	pospolita	
-żadność	żadność:s1	subst:sg:nom:f	pospolita	
-żadnościach	żadność:s2	subst:pl:loc:f		
-żadnościami	żadność:s2	subst:pl:inst:f		
-żadnością	żadność:s2	subst:sg:inst:f		
-żadnościom	żadność:s2	subst:pl:dat:f		
-żadności	żadność:s2	subst:pl:acc:f		
-żadności	żadność:s2	subst:pl:gen:f		
-żadności	żadność:s2	subst:pl:nom:f		
-żadności	żadność:s2	subst:pl:voc:f		
-żadności	żadność:s2	subst:sg:dat:f		
-żadności	żadność:s2	subst:sg:gen:f		
-żadności	żadność:s2	subst:sg:loc:f		
-żadności	żadność:s2	subst:sg:voc:f		
-żadność	żadność:s2	subst:sg:acc:f		
-żadność	żadność:s2	subst:sg:nom:f		
+żadnościach	żadność:s	subst:pl:loc:f	pospolita	
+żadnościami	żadność:s	subst:pl:inst:f	pospolita	
+żadnością	żadność:s	subst:sg:inst:f	pospolita	
+żadnościom	żadność:s	subst:pl:dat:f	pospolita	
+żadności	żadność:s	subst:pl:acc:f	pospolita	
+żadności	żadność:s	subst:pl:gen:f	pospolita	
+żadności	żadność:s	subst:pl:nom:f	pospolita	
+żadności	żadność:s	subst:pl:voc:f	pospolita	
+żadności	żadność:s	subst:sg:dat:f	pospolita	
+żadności	żadność:s	subst:sg:gen:f	pospolita	
+żadności	żadność:s	subst:sg:loc:f	pospolita	
+żadności	żadność:s	subst:sg:voc:f	pospolita	
+żadność	żadność:s	subst:sg:acc:f	pospolita	
+żadność	żadność:s	subst:sg:nom:f	pospolita	
+żadnościach	żadność:s	subst:pl:loc:f		
+żadnościami	żadność:s	subst:pl:inst:f		
+żadnością	żadność:s	subst:sg:inst:f		
+żadnościom	żadność:s	subst:pl:dat:f		
+żadności	żadność:s	subst:pl:acc:f		
+żadności	żadność:s	subst:pl:gen:f		
+żadności	żadność:s	subst:pl:nom:f		
+żadności	żadność:s	subst:pl:voc:f		
+żadności	żadność:s	subst:sg:dat:f		
+żadności	żadność:s	subst:sg:gen:f		
+żadności	żadność:s	subst:sg:loc:f		
+żadności	żadność:s	subst:sg:voc:f		
+żadność	żadność:s	subst:sg:acc:f		
+żadność	żadność:s	subst:sg:nom:f		
 żagańscy	żagański	adj:pl:nom.voc:m1.p1:pos		
 żagańska	żagański	adj:sg:nom.voc:f:pos		
 żagańską	żagański	adj:sg:acc:f:pos		
@@ -1997,6 +1997,70 @@
 żakostwo	żakostwo	subst:sg:voc:n2	pospolita	
 żakostwu	żakostwo	subst:sg:dat:n2	pospolita	
 żakostw	żakostwo	subst:pl:gen:n2	pospolita	
+żakowaniami	żakować:v	ger:pl:inst:n2:imperf:aff		
+żakowania	żakować:v	ger:pl:nom.acc:n2:imperf:aff		
+żakowania	żakować:v	ger:sg:gen:n2:imperf:aff		
+żakowaniem	żakować:v	ger:sg:inst:n2:imperf:aff		
+żakowanie	żakować:v	ger:sg:nom.acc:n2:imperf:aff		
+żakowaniom	żakować:v	ger:pl:dat.loc:n2:imperf:aff		
+żakowaniu	żakować:v	ger:sg:dat.loc:n2:imperf:aff		
+żakowań	żakować:v	ger:pl:gen:n2:imperf:aff		
+żakująca	żakować:v	pact:sg:nom.voc:f:imperf:aff		
+żakującą	żakować:v	pact:sg:acc.inst:f:imperf:aff		
+żakującego	żakować:v	pact:sg:acc:m1.m2:imperf:aff		
+żakującego	żakować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żakującej	żakować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+żakującemu	żakować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żakujące	żakować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żakujące	żakować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+żakujących	żakować:v	pact:pl:acc:m1.p1:imperf:aff		
+żakujących	żakować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żakującymi	żakować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żakującym	żakować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żakującym	żakować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żakujący	żakować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+żakujący	żakować:v	pact:sg:acc:m3:imperf:aff		
+żakujący	żakować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+żakowana	żakować:v	ppas:sg:nom.voc:f:imperf:aff		
+żakowaną	żakować:v	ppas:sg:acc.inst:f:imperf:aff		
+żakowanego	żakować:v	ppas:sg:acc:m1.m2:imperf:aff		
+żakowanego	żakować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żakowanej	żakować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+żakowanemu	żakować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żakowane	żakować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żakowane	żakować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żakowaniami	żakować:v	ger:pl:inst:n2:imperf:aff		
+żakowania	żakować:v	ger:pl:nom.acc:n2:imperf:aff		
+żakowania	żakować:v	ger:sg:gen:n2:imperf:aff		
+żakowaniem	żakować:v	ger:sg:inst:n2:imperf:aff		
+żakowanie	żakować:v	ger:sg:nom.acc:n2:imperf:aff		
+żakowaniom	żakować:v	ger:pl:dat.loc:n2:imperf:aff		
+żakowaniu	żakować:v	ger:sg:dat.loc:n2:imperf:aff		
+żakowani	żakować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+żakowanych	żakować:v	ppas:pl:acc:m1.p1:imperf:aff		
+żakowanych	żakować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żakowanymi	żakować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żakowanym	żakować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żakowanym	żakować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żakowany	żakować:v	ppas:sg:acc:m3:imperf:aff		
+żakowany	żakować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+żakowań	żakować:v	ger:pl:gen:n2:imperf:aff		
+żakująca	żakować:v	pact:sg:nom.voc:f:imperf:aff		
+żakującą	żakować:v	pact:sg:acc.inst:f:imperf:aff		
+żakującego	żakować:v	pact:sg:acc:m1.m2:imperf:aff		
+żakującego	żakować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żakującej	żakować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+żakującemu	żakować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żakujące	żakować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żakujące	żakować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+żakujących	żakować:v	pact:pl:acc:m1.p1:imperf:aff		
+żakujących	żakować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żakującymi	żakować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żakującym	żakować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żakującym	żakować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żakujący	żakować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+żakujący	żakować:v	pact:sg:acc:m3:imperf:aff		
+żakujący	żakować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żakować	żakować:v1	inf:imperf		
 żakowalibyście	żakować:v1	cond:pl:m1.p1:sec:imperf		
 żakowalibyśmy	żakować:v1	cond:pl:m1.p1:pri:imperf		
@@ -2033,31 +2097,7 @@
 żakowały	żakować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 żakował	żakować:v1	praet:sg:m1.m2.m3:imperf		
 żakował	żakować:v1	praet:sg:m1.m2.m3:ter:imperf		
-żakowaniami	żakować:v1	ger:pl:inst:n2:imperf:aff		
-żakowania	żakować:v1	ger:pl:nom.acc:n2:imperf:aff		
-żakowania	żakować:v1	ger:sg:gen:n2:imperf:aff		
-żakowaniem	żakować:v1	ger:sg:inst:n2:imperf:aff		
-żakowanie	żakować:v1	ger:sg:nom.acc:n2:imperf:aff		
-żakowaniom	żakować:v1	ger:pl:dat.loc:n2:imperf:aff		
-żakowaniu	żakować:v1	ger:sg:dat.loc:n2:imperf:aff		
 żakowano	żakować:v1	imps:imperf		
-żakowań	żakować:v1	ger:pl:gen:n2:imperf:aff		
-żakująca	żakować:v1	pact:sg:nom.voc:f:imperf:aff		
-żakującą	żakować:v1	pact:sg:acc.inst:f:imperf:aff		
-żakującego	żakować:v1	pact:sg:acc:m1.m2:imperf:aff		
-żakującego	żakować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żakującej	żakować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-żakującemu	żakować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żakujące	żakować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żakujące	żakować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-żakujących	żakować:v1	pact:pl:acc:m1.p1:imperf:aff		
-żakujących	żakować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żakującymi	żakować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żakującym	żakować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żakującym	żakować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żakujący	żakować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-żakujący	żakować:v1	pact:sg:acc:m3:imperf:aff		
-żakujący	żakować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żakując	żakować:v1	pcon:imperf		
 żakują	żakować:v1	fin:pl:ter:imperf		
 żakujcie	żakować:v1	impt:pl:sec:imperf		
@@ -2104,47 +2144,7 @@
 żakowały	żakować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 żakował	żakować:v2	praet:sg:m1.m2.m3:imperf		daw.
 żakował	żakować:v2	praet:sg:m1.m2.m3:ter:imperf		daw.
-żakowana	żakować:v2	ppas:sg:nom.voc:f:imperf:aff		
-żakowaną	żakować:v2	ppas:sg:acc.inst:f:imperf:aff		
-żakowanego	żakować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-żakowanego	żakować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żakowanej	żakować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-żakowanemu	żakować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żakowane	żakować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żakowane	żakować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-żakowaniami	żakować:v2	ger:pl:inst:n2:imperf:aff		
-żakowania	żakować:v2	ger:pl:nom.acc:n2:imperf:aff		
-żakowania	żakować:v2	ger:sg:gen:n2:imperf:aff		
-żakowaniem	żakować:v2	ger:sg:inst:n2:imperf:aff		
-żakowanie	żakować:v2	ger:sg:nom.acc:n2:imperf:aff		
-żakowaniom	żakować:v2	ger:pl:dat.loc:n2:imperf:aff		
-żakowaniu	żakować:v2	ger:sg:dat.loc:n2:imperf:aff		
-żakowani	żakować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żakowano	żakować:v2	imps:imperf		daw.
-żakowanych	żakować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-żakowanych	żakować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żakowanymi	żakować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żakowanym	żakować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żakowanym	żakować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żakowany	żakować:v2	ppas:sg:acc:m3:imperf:aff		
-żakowany	żakować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-żakowań	żakować:v2	ger:pl:gen:n2:imperf:aff		
-żakująca	żakować:v2	pact:sg:nom.voc:f:imperf:aff		
-żakującą	żakować:v2	pact:sg:acc.inst:f:imperf:aff		
-żakującego	żakować:v2	pact:sg:acc:m1.m2:imperf:aff		
-żakującego	żakować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żakującej	żakować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-żakującemu	żakować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żakujące	żakować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żakujące	żakować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-żakujących	żakować:v2	pact:pl:acc:m1.p1:imperf:aff		
-żakujących	żakować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żakującymi	żakować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żakującym	żakować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żakującym	żakować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żakujący	żakować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-żakujący	żakować:v2	pact:sg:acc:m3:imperf:aff		
-żakujący	żakować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żakując	żakować:v2	pcon:imperf		daw.
 żakują	żakować:v2	fin:pl:ter:imperf		daw.
 żakujcie	żakować:v2	impt:pl:sec:imperf		daw.
@@ -2859,29 +2859,29 @@
 żałościwe	żałościwy	adj:sg:nom.voc:n1.n2:pos		daw.
 żałościwi	żałościwy	adj:pl:nom.voc:m1.p1:pos		daw.
 żałościwo	żałościwy	adja		daw.
-żałościwsi	żałościwy	adj:pl:nom.voc:m1.p1:com		rzad.|przest.
-żałościwsza	żałościwy	adj:sg:nom.voc:f:com		rzad.|przest.
-żałościwszą	żałościwy	adj:sg:acc:f:com		rzad.|przest.
-żałościwszą	żałościwy	adj:sg:inst:f:com		rzad.|przest.
-żałościwszego	żałościwy	adj:sg:acc:m1.m2:com		rzad.|przest.
-żałościwszego	żałościwy	adj:sg:gen:m1.m2.m3.n1.n2:com		rzad.|przest.
-żałościwszej	żałościwy	adj:sg:dat:f:com		rzad.|przest.
-żałościwszej	żałościwy	adj:sg:gen:f:com		rzad.|przest.
-żałościwszej	żałościwy	adj:sg:loc:f:com		rzad.|przest.
-żałościwszemu	żałościwy	adj:sg:dat:m1.m2.m3.n1.n2:com		rzad.|przest.
-żałościwsze	żałościwy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		rzad.|przest.
-żałościwsze	żałościwy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		rzad.|przest.
-żałościwsze	żałościwy	adj:sg:acc:n1.n2:com		rzad.|przest.
-żałościwsze	żałościwy	adj:sg:nom.voc:n1.n2:com		rzad.|przest.
-żałościwszych	żałościwy	adj:pl:acc:m1.p1:com		rzad.|przest.
-żałościwszych	żałościwy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.|przest.
-żałościwszych	żałościwy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.|przest.
-żałościwszymi	żałościwy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.|przest.
-żałościwszym	żałościwy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.|przest.
-żałościwszym	żałościwy	adj:sg:inst:m1.m2.m3.n1.n2:com		rzad.|przest.
-żałościwszym	żałościwy	adj:sg:loc:m1.m2.m3.n1.n2:com		rzad.|przest.
-żałościwszy	żałościwy	adj:sg:acc:m3:com		rzad.|przest.
-żałościwszy	żałościwy	adj:sg:nom.voc:m1.m2.m3:com		rzad.|przest.
+żałościwsi	żałościwy	adj:pl:nom.voc:m1.p1:com		przest.|rzad.
+żałościwsza	żałościwy	adj:sg:nom.voc:f:com		przest.|rzad.
+żałościwszą	żałościwy	adj:sg:acc:f:com		przest.|rzad.
+żałościwszą	żałościwy	adj:sg:inst:f:com		przest.|rzad.
+żałościwszego	żałościwy	adj:sg:acc:m1.m2:com		przest.|rzad.
+żałościwszego	żałościwy	adj:sg:gen:m1.m2.m3.n1.n2:com		przest.|rzad.
+żałościwszej	żałościwy	adj:sg:dat:f:com		przest.|rzad.
+żałościwszej	żałościwy	adj:sg:gen:f:com		przest.|rzad.
+żałościwszej	żałościwy	adj:sg:loc:f:com		przest.|rzad.
+żałościwszemu	żałościwy	adj:sg:dat:m1.m2.m3.n1.n2:com		przest.|rzad.
+żałościwsze	żałościwy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		przest.|rzad.
+żałościwsze	żałościwy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		przest.|rzad.
+żałościwsze	żałościwy	adj:sg:acc:n1.n2:com		przest.|rzad.
+żałościwsze	żałościwy	adj:sg:nom.voc:n1.n2:com		przest.|rzad.
+żałościwszych	żałościwy	adj:pl:acc:m1.p1:com		przest.|rzad.
+żałościwszych	żałościwy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		przest.|rzad.
+żałościwszych	żałościwy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		przest.|rzad.
+żałościwszymi	żałościwy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		przest.|rzad.
+żałościwszym	żałościwy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		przest.|rzad.
+żałościwszym	żałościwy	adj:sg:inst:m1.m2.m3.n1.n2:com		przest.|rzad.
+żałościwszym	żałościwy	adj:sg:loc:m1.m2.m3.n1.n2:com		przest.|rzad.
+żałościwszy	żałościwy	adj:sg:acc:m3:com		przest.|rzad.
+żałościwszy	żałościwy	adj:sg:nom.voc:m1.m2.m3:com		przest.|rzad.
 żałościwych	żałościwy	adj:pl:acc:m1.p1:pos		daw.
 żałościwych	żałościwy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
 żałościwych	żałościwy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
@@ -3534,34 +3534,34 @@
 żarliwcy	żarliwiec	subst:pl:voc:m1	pospolita	
 żarliwcze	żarliwiec	subst:sg:voc:m1	pospolita	
 żarliwiec	żarliwiec	subst:sg:nom:m1	pospolita	
-żarliwościach	żarliwość:s1	subst:pl:loc:f	pospolita	
-żarliwościami	żarliwość:s1	subst:pl:inst:f	pospolita	
-żarliwością	żarliwość:s1	subst:sg:inst:f	pospolita	
-żarliwościom	żarliwość:s1	subst:pl:dat:f	pospolita	
-żarliwości	żarliwość:s1	subst:pl:acc:f	pospolita	
-żarliwości	żarliwość:s1	subst:pl:gen:f	pospolita	
-żarliwości	żarliwość:s1	subst:pl:nom:f	pospolita	
-żarliwości	żarliwość:s1	subst:pl:voc:f	pospolita	
-żarliwości	żarliwość:s1	subst:sg:dat:f	pospolita	
-żarliwości	żarliwość:s1	subst:sg:gen:f	pospolita	
-żarliwości	żarliwość:s1	subst:sg:loc:f	pospolita	
-żarliwości	żarliwość:s1	subst:sg:voc:f	pospolita	
-żarliwość	żarliwość:s1	subst:sg:acc:f	pospolita	
-żarliwość	żarliwość:s1	subst:sg:nom:f	pospolita	
-żarliwościach	żarliwość:s2	subst:pl:loc:f		
-żarliwościami	żarliwość:s2	subst:pl:inst:f		
-żarliwością	żarliwość:s2	subst:sg:inst:f		
-żarliwościom	żarliwość:s2	subst:pl:dat:f		
-żarliwości	żarliwość:s2	subst:pl:acc:f		
-żarliwości	żarliwość:s2	subst:pl:gen:f		
-żarliwości	żarliwość:s2	subst:pl:nom:f		
-żarliwości	żarliwość:s2	subst:pl:voc:f		
-żarliwości	żarliwość:s2	subst:sg:dat:f		
-żarliwości	żarliwość:s2	subst:sg:gen:f		
-żarliwości	żarliwość:s2	subst:sg:loc:f		
-żarliwości	żarliwość:s2	subst:sg:voc:f		
-żarliwość	żarliwość:s2	subst:sg:acc:f		
-żarliwość	żarliwość:s2	subst:sg:nom:f		
+żarliwościach	żarliwość:s	subst:pl:loc:f	pospolita	
+żarliwościami	żarliwość:s	subst:pl:inst:f	pospolita	
+żarliwością	żarliwość:s	subst:sg:inst:f	pospolita	
+żarliwościom	żarliwość:s	subst:pl:dat:f	pospolita	
+żarliwości	żarliwość:s	subst:pl:acc:f	pospolita	
+żarliwości	żarliwość:s	subst:pl:gen:f	pospolita	
+żarliwości	żarliwość:s	subst:pl:nom:f	pospolita	
+żarliwości	żarliwość:s	subst:pl:voc:f	pospolita	
+żarliwości	żarliwość:s	subst:sg:dat:f	pospolita	
+żarliwości	żarliwość:s	subst:sg:gen:f	pospolita	
+żarliwości	żarliwość:s	subst:sg:loc:f	pospolita	
+żarliwości	żarliwość:s	subst:sg:voc:f	pospolita	
+żarliwość	żarliwość:s	subst:sg:acc:f	pospolita	
+żarliwość	żarliwość:s	subst:sg:nom:f	pospolita	
+żarliwościach	żarliwość:s	subst:pl:loc:f		
+żarliwościami	żarliwość:s	subst:pl:inst:f		
+żarliwością	żarliwość:s	subst:sg:inst:f		
+żarliwościom	żarliwość:s	subst:pl:dat:f		
+żarliwości	żarliwość:s	subst:pl:acc:f		
+żarliwości	żarliwość:s	subst:pl:gen:f		
+żarliwości	żarliwość:s	subst:pl:nom:f		
+żarliwości	żarliwość:s	subst:pl:voc:f		
+żarliwości	żarliwość:s	subst:sg:dat:f		
+żarliwości	żarliwość:s	subst:sg:gen:f		
+żarliwości	żarliwość:s	subst:sg:loc:f		
+żarliwości	żarliwość:s	subst:sg:voc:f		
+żarliwość	żarliwość:s	subst:sg:acc:f		
+żarliwość	żarliwość:s	subst:sg:nom:f		
 żarliwa	żarliwy	adj:sg:nom.voc:f:pos		
 żarliwą	żarliwy	adj:sg:acc:f:pos		
 żarliwą	żarliwy	adj:sg:inst:f:pos		
@@ -3723,34 +3723,34 @@
 żarłoczniku	żarłocznik	subst:sg:loc:m1	pospolita	
 żarłoczniku	żarłocznik	subst:sg:voc:m1	pospolita	
 żarłocznik	żarłocznik	subst:sg:nom:m1	pospolita	
-żarłocznościach	żarłoczność:s1	subst:pl:loc:f	pospolita	
-żarłocznościami	żarłoczność:s1	subst:pl:inst:f	pospolita	
-żarłocznością	żarłoczność:s1	subst:sg:inst:f	pospolita	
-żarłocznościom	żarłoczność:s1	subst:pl:dat:f	pospolita	
-żarłoczności	żarłoczność:s1	subst:pl:acc:f	pospolita	
-żarłoczności	żarłoczność:s1	subst:pl:gen:f	pospolita	
-żarłoczności	żarłoczność:s1	subst:pl:nom:f	pospolita	
-żarłoczności	żarłoczność:s1	subst:pl:voc:f	pospolita	
-żarłoczności	żarłoczność:s1	subst:sg:dat:f	pospolita	
-żarłoczności	żarłoczność:s1	subst:sg:gen:f	pospolita	
-żarłoczności	żarłoczność:s1	subst:sg:loc:f	pospolita	
-żarłoczności	żarłoczność:s1	subst:sg:voc:f	pospolita	
-żarłoczność	żarłoczność:s1	subst:sg:acc:f	pospolita	
-żarłoczność	żarłoczność:s1	subst:sg:nom:f	pospolita	
-żarłocznościach	żarłoczność:s2	subst:pl:loc:f		
-żarłocznościami	żarłoczność:s2	subst:pl:inst:f		
-żarłocznością	żarłoczność:s2	subst:sg:inst:f		
-żarłocznościom	żarłoczność:s2	subst:pl:dat:f		
-żarłoczności	żarłoczność:s2	subst:pl:acc:f		
-żarłoczności	żarłoczność:s2	subst:pl:gen:f		
-żarłoczności	żarłoczność:s2	subst:pl:nom:f		
-żarłoczności	żarłoczność:s2	subst:pl:voc:f		
-żarłoczności	żarłoczność:s2	subst:sg:dat:f		
-żarłoczności	żarłoczność:s2	subst:sg:gen:f		
-żarłoczności	żarłoczność:s2	subst:sg:loc:f		
-żarłoczności	żarłoczność:s2	subst:sg:voc:f		
-żarłoczność	żarłoczność:s2	subst:sg:acc:f		
-żarłoczność	żarłoczność:s2	subst:sg:nom:f		
+żarłocznościach	żarłoczność:s	subst:pl:loc:f	pospolita	
+żarłocznościami	żarłoczność:s	subst:pl:inst:f	pospolita	
+żarłocznością	żarłoczność:s	subst:sg:inst:f	pospolita	
+żarłocznościom	żarłoczność:s	subst:pl:dat:f	pospolita	
+żarłoczności	żarłoczność:s	subst:pl:acc:f	pospolita	
+żarłoczności	żarłoczność:s	subst:pl:gen:f	pospolita	
+żarłoczności	żarłoczność:s	subst:pl:nom:f	pospolita	
+żarłoczności	żarłoczność:s	subst:pl:voc:f	pospolita	
+żarłoczności	żarłoczność:s	subst:sg:dat:f	pospolita	
+żarłoczności	żarłoczność:s	subst:sg:gen:f	pospolita	
+żarłoczności	żarłoczność:s	subst:sg:loc:f	pospolita	
+żarłoczności	żarłoczność:s	subst:sg:voc:f	pospolita	
+żarłoczność	żarłoczność:s	subst:sg:acc:f	pospolita	
+żarłoczność	żarłoczność:s	subst:sg:nom:f	pospolita	
+żarłocznościach	żarłoczność:s	subst:pl:loc:f		
+żarłocznościami	żarłoczność:s	subst:pl:inst:f		
+żarłocznością	żarłoczność:s	subst:sg:inst:f		
+żarłocznościom	żarłoczność:s	subst:pl:dat:f		
+żarłoczności	żarłoczność:s	subst:pl:acc:f		
+żarłoczności	żarłoczność:s	subst:pl:gen:f		
+żarłoczności	żarłoczność:s	subst:pl:nom:f		
+żarłoczności	żarłoczność:s	subst:pl:voc:f		
+żarłoczności	żarłoczność:s	subst:sg:dat:f		
+żarłoczności	żarłoczność:s	subst:sg:gen:f		
+żarłoczności	żarłoczność:s	subst:sg:loc:f		
+żarłoczności	żarłoczność:s	subst:sg:voc:f		
+żarłoczność	żarłoczność:s	subst:sg:acc:f		
+żarłoczność	żarłoczność:s	subst:sg:nom:f		
 żarłoczna	żarłoczny	adj:sg:nom.voc:f:pos		
 żarłoczną	żarłoczny	adj:sg:acc:f:pos		
 żarłoczną	żarłoczny	adj:sg:inst:f:pos		
@@ -4593,34 +4593,34 @@
 żartkość	żartkość	subst:sg:nom:f		przest.
 żartobliwiej	żartobliwie	adv:com		
 żartobliwie	żartobliwie	adv:pos		
-żartobliwościach	żartobliwość:s1	subst:pl:loc:f	pospolita	
-żartobliwościami	żartobliwość:s1	subst:pl:inst:f	pospolita	
-żartobliwością	żartobliwość:s1	subst:sg:inst:f	pospolita	
-żartobliwościom	żartobliwość:s1	subst:pl:dat:f	pospolita	
-żartobliwości	żartobliwość:s1	subst:pl:acc:f	pospolita	
-żartobliwości	żartobliwość:s1	subst:pl:gen:f	pospolita	
-żartobliwości	żartobliwość:s1	subst:pl:nom:f	pospolita	
-żartobliwości	żartobliwość:s1	subst:pl:voc:f	pospolita	
-żartobliwości	żartobliwość:s1	subst:sg:dat:f	pospolita	
-żartobliwości	żartobliwość:s1	subst:sg:gen:f	pospolita	
-żartobliwości	żartobliwość:s1	subst:sg:loc:f	pospolita	
-żartobliwości	żartobliwość:s1	subst:sg:voc:f	pospolita	
-żartobliwość	żartobliwość:s1	subst:sg:acc:f	pospolita	
-żartobliwość	żartobliwość:s1	subst:sg:nom:f	pospolita	
-żartobliwościach	żartobliwość:s2	subst:pl:loc:f		
-żartobliwościami	żartobliwość:s2	subst:pl:inst:f		
-żartobliwością	żartobliwość:s2	subst:sg:inst:f		
-żartobliwościom	żartobliwość:s2	subst:pl:dat:f		
-żartobliwości	żartobliwość:s2	subst:pl:acc:f		
-żartobliwości	żartobliwość:s2	subst:pl:gen:f		
-żartobliwości	żartobliwość:s2	subst:pl:nom:f		
-żartobliwości	żartobliwość:s2	subst:pl:voc:f		
-żartobliwości	żartobliwość:s2	subst:sg:dat:f		
-żartobliwości	żartobliwość:s2	subst:sg:gen:f		
-żartobliwości	żartobliwość:s2	subst:sg:loc:f		
-żartobliwości	żartobliwość:s2	subst:sg:voc:f		
-żartobliwość	żartobliwość:s2	subst:sg:acc:f		
-żartobliwość	żartobliwość:s2	subst:sg:nom:f		
+żartobliwościach	żartobliwość:s	subst:pl:loc:f	pospolita	
+żartobliwościami	żartobliwość:s	subst:pl:inst:f	pospolita	
+żartobliwością	żartobliwość:s	subst:sg:inst:f	pospolita	
+żartobliwościom	żartobliwość:s	subst:pl:dat:f	pospolita	
+żartobliwości	żartobliwość:s	subst:pl:acc:f	pospolita	
+żartobliwości	żartobliwość:s	subst:pl:gen:f	pospolita	
+żartobliwości	żartobliwość:s	subst:pl:nom:f	pospolita	
+żartobliwości	żartobliwość:s	subst:pl:voc:f	pospolita	
+żartobliwości	żartobliwość:s	subst:sg:dat:f	pospolita	
+żartobliwości	żartobliwość:s	subst:sg:gen:f	pospolita	
+żartobliwości	żartobliwość:s	subst:sg:loc:f	pospolita	
+żartobliwości	żartobliwość:s	subst:sg:voc:f	pospolita	
+żartobliwość	żartobliwość:s	subst:sg:acc:f	pospolita	
+żartobliwość	żartobliwość:s	subst:sg:nom:f	pospolita	
+żartobliwościach	żartobliwość:s	subst:pl:loc:f		
+żartobliwościami	żartobliwość:s	subst:pl:inst:f		
+żartobliwością	żartobliwość:s	subst:sg:inst:f		
+żartobliwościom	żartobliwość:s	subst:pl:dat:f		
+żartobliwości	żartobliwość:s	subst:pl:acc:f		
+żartobliwości	żartobliwość:s	subst:pl:gen:f		
+żartobliwości	żartobliwość:s	subst:pl:nom:f		
+żartobliwości	żartobliwość:s	subst:pl:voc:f		
+żartobliwości	żartobliwość:s	subst:sg:dat:f		
+żartobliwości	żartobliwość:s	subst:sg:gen:f		
+żartobliwości	żartobliwość:s	subst:sg:loc:f		
+żartobliwości	żartobliwość:s	subst:sg:voc:f		
+żartobliwość	żartobliwość:s	subst:sg:acc:f		
+żartobliwość	żartobliwość:s	subst:sg:nom:f		
 żartobliwa	żartobliwy	adj:sg:nom.voc:f:pos		
 żartobliwą	żartobliwy	adj:sg:acc:f:pos		
 żartobliwą	żartobliwy	adj:sg:inst:f:pos		
@@ -5029,6 +5029,86 @@
 żarzysty	żarzysty	adj:sg:acc:m3:pos		daw.
 żarzysty	żarzysty	adj:sg:nom.voc:m1.m2.m3:pos		daw.
 żarzyści	żarzysty	adj:pl:nom.voc:m1.p1:pos		daw.
+żęciami	żąć:v	ger:pl:inst:n2:imperf:aff		
+żęcia	żąć:v	ger:pl:nom.acc:n2:imperf:aff		
+żęcia	żąć:v	ger:sg:gen:n2:imperf:aff		
+żęciem	żąć:v	ger:sg:inst:n2:imperf:aff		
+żęcie	żąć:v	ger:sg:nom.acc:n2:imperf:aff		
+żęciom	żąć:v	ger:pl:dat.loc:n2:imperf:aff		
+żęciu	żąć:v	ger:sg:dat.loc:n2:imperf:aff		
+żęci	żąć:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+żęć	żąć:v	ger:pl:gen:n2:imperf:aff		
+żęta	żąć:v	ppas:sg:nom.voc:f:imperf:aff		
+żętą	żąć:v	ppas:sg:acc.inst:f:imperf:aff		
+żętego	żąć:v	ppas:sg:acc:m1.m2:imperf:aff		
+żętego	żąć:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żętej	żąć:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+żętemu	żąć:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żęte	żąć:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żęte	żąć:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żętych	żąć:v	ppas:pl:acc:m1.p1:imperf:aff		
+żętych	żąć:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żętymi	żąć:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żętym	żąć:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żętym	żąć:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żęty	żąć:v	ppas:sg:acc:m3:imperf:aff		
+żęty	żąć:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+żmąca	żąć:v	pact:sg:nom.voc:f:imperf:aff		
+żmącą	żąć:v	pact:sg:acc.inst:f:imperf:aff		
+żmącego	żąć:v	pact:sg:acc:m1.m2:imperf:aff		
+żmącego	żąć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żmącej	żąć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+żmącemu	żąć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żmące	żąć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żmące	żąć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+żmących	żąć:v	pact:pl:acc:m1.p1:imperf:aff		
+żmących	żąć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żmącymi	żąć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żmącym	żąć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żmącym	żąć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żmący	żąć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+żmący	żąć:v	pact:sg:acc:m3:imperf:aff		
+żmący	żąć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+żęciami	żąć:v	ger:pl:inst:n2:imperf:aff		
+żęcia	żąć:v	ger:pl:nom.acc:n2:imperf:aff		
+żęcia	żąć:v	ger:sg:gen:n2:imperf:aff		
+żęciem	żąć:v	ger:sg:inst:n2:imperf:aff		
+żęcie	żąć:v	ger:sg:nom.acc:n2:imperf:aff		
+żęciom	żąć:v	ger:pl:dat.loc:n2:imperf:aff		
+żęciu	żąć:v	ger:sg:dat.loc:n2:imperf:aff		
+żęci	żąć:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+żęć	żąć:v	ger:pl:gen:n2:imperf:aff		
+żęta	żąć:v	ppas:sg:nom.voc:f:imperf:aff		
+żętą	żąć:v	ppas:sg:acc.inst:f:imperf:aff		
+żętego	żąć:v	ppas:sg:acc:m1.m2:imperf:aff		
+żętego	żąć:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żętej	żąć:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+żętemu	żąć:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żęte	żąć:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żęte	żąć:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żętych	żąć:v	ppas:pl:acc:m1.p1:imperf:aff		
+żętych	żąć:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żętymi	żąć:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żętym	żąć:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żętym	żąć:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żęty	żąć:v	ppas:sg:acc:m3:imperf:aff		
+żęty	żąć:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+żnąca	żąć:v	pact:sg:nom.voc:f:imperf:aff		
+żnącą	żąć:v	pact:sg:acc.inst:f:imperf:aff		
+żnącego	żąć:v	pact:sg:acc:m1.m2:imperf:aff		
+żnącego	żąć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żnącej	żąć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+żnącemu	żąć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żnące	żąć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żnące	żąć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+żnących	żąć:v	pact:pl:acc:m1.p1:imperf:aff		
+żnących	żąć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żnącymi	żąć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żnącym	żąć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żnącym	żąć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żnący	żąć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+żnący	żąć:v	pact:sg:acc:m3:imperf:aff		
+żnący	żąć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żąć	żąć:v1	inf:imperf		daw.
 żąłbym	żąć:v1	cond:sg:m1.m2.m3:pri:imperf		daw.
 żąłbyś	żąć:v1	cond:sg:m1.m2.m3:sec:imperf		daw.
@@ -5037,15 +5117,6 @@
 żąłeś	żąć:v1	praet:sg:m1.m2.m3:sec:imperf		daw.
 żął	żąć:v1	praet:sg:m1.m2.m3:imperf		daw.
 żął	żąć:v1	praet:sg:m1.m2.m3:ter:imperf		daw.
-żęciami	żąć:v1	ger:pl:inst:n2:imperf:aff		
-żęcia	żąć:v1	ger:pl:nom.acc:n2:imperf:aff		
-żęcia	żąć:v1	ger:sg:gen:n2:imperf:aff		
-żęciem	żąć:v1	ger:sg:inst:n2:imperf:aff		
-żęcie	żąć:v1	ger:sg:nom.acc:n2:imperf:aff		
-żęciom	żąć:v1	ger:pl:dat.loc:n2:imperf:aff		
-żęciu	żąć:v1	ger:sg:dat.loc:n2:imperf:aff		
-żęci	żąć:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
-żęć	żąć:v1	ger:pl:gen:n2:imperf:aff		
 żęlibyście	żąć:v1	cond:pl:m1.p1:sec:imperf		daw.
 żęlibyśmy	żąć:v1	cond:pl:m1.p1:pri:imperf		daw.
 żęliby	żąć:v1	cond:pl:m1.p1:ter:imperf		daw.
@@ -5074,38 +5145,7 @@
 żęłyśmy	żąć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
 żęły	żąć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 żęły	żąć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
-żęta	żąć:v1	ppas:sg:nom.voc:f:imperf:aff		
-żętą	żąć:v1	ppas:sg:acc.inst:f:imperf:aff		
-żętego	żąć:v1	ppas:sg:acc:m1.m2:imperf:aff		
-żętego	żąć:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żętej	żąć:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
-żętemu	żąć:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żęte	żąć:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żęte	żąć:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 żęto	żąć:v1	imps:imperf		daw.
-żętych	żąć:v1	ppas:pl:acc:m1.p1:imperf:aff		
-żętych	żąć:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żętymi	żąć:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żętym	żąć:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żętym	żąć:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żęty	żąć:v1	ppas:sg:acc:m3:imperf:aff		
-żęty	żąć:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-żmąca	żąć:v1	pact:sg:nom.voc:f:imperf:aff		
-żmącą	żąć:v1	pact:sg:acc.inst:f:imperf:aff		
-żmącego	żąć:v1	pact:sg:acc:m1.m2:imperf:aff		
-żmącego	żąć:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żmącej	żąć:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-żmącemu	żąć:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żmące	żąć:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żmące	żąć:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-żmących	żąć:v1	pact:pl:acc:m1.p1:imperf:aff		
-żmących	żąć:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żmącymi	żąć:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żmącym	żąć:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żmącym	żąć:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żmący	żąć:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-żmący	żąć:v1	pact:sg:acc:m3:imperf:aff		
-żmący	żąć:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żmąc	żąć:v1	pcon:imperf		daw.
 żmą	żąć:v1	fin:pl:ter:imperf		daw.
 żmę	żąć:v1	fin:sg:pri:imperf		daw.
@@ -5124,15 +5164,6 @@
 żąłeś	żąć:v2	praet:sg:m1.m2.m3:sec:imperf		
 żął	żąć:v2	praet:sg:m1.m2.m3:imperf		
 żął	żąć:v2	praet:sg:m1.m2.m3:ter:imperf		
-żęciami	żąć:v2	ger:pl:inst:n2:imperf:aff		
-żęcia	żąć:v2	ger:pl:nom.acc:n2:imperf:aff		
-żęcia	żąć:v2	ger:sg:gen:n2:imperf:aff		
-żęciem	żąć:v2	ger:sg:inst:n2:imperf:aff		
-żęcie	żąć:v2	ger:sg:nom.acc:n2:imperf:aff		
-żęciom	żąć:v2	ger:pl:dat.loc:n2:imperf:aff		
-żęciu	żąć:v2	ger:sg:dat.loc:n2:imperf:aff		
-żęci	żąć:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-żęć	żąć:v2	ger:pl:gen:n2:imperf:aff		
 żęlibyście	żąć:v2	cond:pl:m1.p1:sec:imperf		
 żęlibyśmy	żąć:v2	cond:pl:m1.p1:pri:imperf		
 żęliby	żąć:v2	cond:pl:m1.p1:ter:imperf		
@@ -5161,38 +5192,7 @@
 żęłyśmy	żąć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 żęły	żąć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
 żęły	żąć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
-żęta	żąć:v2	ppas:sg:nom.voc:f:imperf:aff		
-żętą	żąć:v2	ppas:sg:acc.inst:f:imperf:aff		
-żętego	żąć:v2	ppas:sg:acc:m1.m2:imperf:aff		
-żętego	żąć:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żętej	żąć:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-żętemu	żąć:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żęte	żąć:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żęte	żąć:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 żęto	żąć:v2	imps:imperf		
-żętych	żąć:v2	ppas:pl:acc:m1.p1:imperf:aff		
-żętych	żąć:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żętymi	żąć:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żętym	żąć:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żętym	żąć:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żęty	żąć:v2	ppas:sg:acc:m3:imperf:aff		
-żęty	żąć:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-żnąca	żąć:v2	pact:sg:nom.voc:f:imperf:aff		
-żnącą	żąć:v2	pact:sg:acc.inst:f:imperf:aff		
-żnącego	żąć:v2	pact:sg:acc:m1.m2:imperf:aff		
-żnącego	żąć:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żnącej	żąć:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-żnącemu	żąć:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żnące	żąć:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żnące	żąć:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-żnących	żąć:v2	pact:pl:acc:m1.p1:imperf:aff		
-żnących	żąć:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żnącymi	żąć:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żnącym	żąć:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żnącym	żąć:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żnący	żąć:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-żnący	żąć:v2	pact:sg:acc:m3:imperf:aff		
-żnący	żąć:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żnąc	żąć:v2	pcon:imperf		
 żną	żąć:v2	fin:pl:ter:imperf		
 żnę	żąć:v2	fin:sg:pri:imperf		
@@ -5529,30 +5529,30 @@
 żądności	żądność	subst:sg:voc:f		przest.
 żądność	żądność	subst:sg:acc:f		przest.
 żądność	żądność	subst:sg:nom:f		przest.
-żądna	żądny	adj:sg:nom.voc:f:pos		przest. dziś książk.
-żądną	żądny	adj:sg:acc:f:pos		przest. dziś książk.
-żądną	żądny	adj:sg:inst:f:pos		przest. dziś książk.
-żądnego	żądny	adj:sg:acc:m1.m2:pos		przest. dziś książk.
-żądnego	żądny	adj:sg:gen:m1.m2.m3.n1.n2:pos		przest. dziś książk.
-żądnej	żądny	adj:sg:dat:f:pos		przest. dziś książk.
-żądnej	żądny	adj:sg:gen:f:pos		przest. dziś książk.
-żądnej	żądny	adj:sg:loc:f:pos		przest. dziś książk.
-żądnemu	żądny	adj:sg:dat:m1.m2.m3.n1.n2:pos		przest. dziś książk.
-żądne	żądny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		przest. dziś książk.
-żądne	żądny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		przest. dziś książk.
-żądne	żądny	adj:sg:acc:n1.n2:pos		przest. dziś książk.
-żądne	żądny	adj:sg:nom.voc:n1.n2:pos		przest. dziś książk.
-żądni	żądny	adj:pl:nom.voc:m1.p1:pos		przest. dziś książk.
-żądno	żądny	adja		przest. dziś książk.
-żądnych	żądny	adj:pl:acc:m1.p1:pos		przest. dziś książk.
-żądnych	żądny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest. dziś książk.
-żądnych	żądny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest. dziś książk.
-żądnymi	żądny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest. dziś książk.
-żądnym	żądny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest. dziś książk.
-żądnym	żądny	adj:sg:inst:m1.m2.m3.n1.n2:pos		przest. dziś książk.
-żądnym	żądny	adj:sg:loc:m1.m2.m3.n1.n2:pos		przest. dziś książk.
-żądny	żądny	adj:sg:acc:m3:pos		przest. dziś książk.
-żądny	żądny	adj:sg:nom.voc:m1.m2.m3:pos		przest. dziś książk.
+żądna	żądny	adj:sg:nom.voc:f:pos		przest._dziś_książk.
+żądną	żądny	adj:sg:acc:f:pos		przest._dziś_książk.
+żądną	żądny	adj:sg:inst:f:pos		przest._dziś_książk.
+żądnego	żądny	adj:sg:acc:m1.m2:pos		przest._dziś_książk.
+żądnego	żądny	adj:sg:gen:m1.m2.m3.n1.n2:pos		przest._dziś_książk.
+żądnej	żądny	adj:sg:dat:f:pos		przest._dziś_książk.
+żądnej	żądny	adj:sg:gen:f:pos		przest._dziś_książk.
+żądnej	żądny	adj:sg:loc:f:pos		przest._dziś_książk.
+żądnemu	żądny	adj:sg:dat:m1.m2.m3.n1.n2:pos		przest._dziś_książk.
+żądne	żądny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		przest._dziś_książk.
+żądne	żądny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		przest._dziś_książk.
+żądne	żądny	adj:sg:acc:n1.n2:pos		przest._dziś_książk.
+żądne	żądny	adj:sg:nom.voc:n1.n2:pos		przest._dziś_książk.
+żądni	żądny	adj:pl:nom.voc:m1.p1:pos		przest._dziś_książk.
+żądno	żądny	adja		przest._dziś_książk.
+żądnych	żądny	adj:pl:acc:m1.p1:pos		przest._dziś_książk.
+żądnych	żądny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest._dziś_książk.
+żądnych	żądny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest._dziś_książk.
+żądnymi	żądny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest._dziś_książk.
+żądnym	żądny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		przest._dziś_książk.
+żądnym	żądny	adj:sg:inst:m1.m2.m3.n1.n2:pos		przest._dziś_książk.
+żądnym	żądny	adj:sg:loc:m1.m2.m3.n1.n2:pos		przest._dziś_książk.
+żądny	żądny	adj:sg:acc:m3:pos		przest._dziś_książk.
+żądny	żądny	adj:sg:nom.voc:m1.m2.m3:pos		przest._dziś_książk.
 żądzach	żądza	subst:pl:loc:f	pospolita	
 żądzami	żądza	subst:pl:inst:f	pospolita	
 żądza	żądza	subst:sg:nom:f	pospolita	
@@ -6214,6 +6214,70 @@
 żebroty	żebrota	subst:pl:voc:f	pospolita	gwar.
 żebroty	żebrota	subst:sg:gen:f	pospolita	gwar.
 żebrot	żebrota	subst:pl:gen:f	pospolita	gwar.
+żebrowana	żebrować:v	ppas:sg:nom.voc:f:imperf:aff		
+żebrowaną	żebrować:v	ppas:sg:acc.inst:f:imperf:aff		
+żebrowanego	żebrować:v	ppas:sg:acc:m1.m2:imperf:aff		
+żebrowanego	żebrować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żebrowanej	żebrować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+żebrowanemu	żebrować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żebrowane	żebrować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żebrowane	żebrować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żebrowaniami	żebrować:v	ger:pl:inst:n2:imperf:aff		
+żebrowania	żebrować:v	ger:pl:nom.acc:n2:imperf:aff		
+żebrowania	żebrować:v	ger:sg:gen:n2:imperf:aff		
+żebrowaniem	żebrować:v	ger:sg:inst:n2:imperf:aff		
+żebrowanie	żebrować:v	ger:sg:nom.acc:n2:imperf:aff		
+żebrowaniom	żebrować:v	ger:pl:dat.loc:n2:imperf:aff		
+żebrowaniu	żebrować:v	ger:sg:dat.loc:n2:imperf:aff		
+żebrowani	żebrować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+żebrowanych	żebrować:v	ppas:pl:acc:m1.p1:imperf:aff		
+żebrowanych	żebrować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żebrowanymi	żebrować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żebrowanym	żebrować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żebrowanym	żebrować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żebrowany	żebrować:v	ppas:sg:acc:m3:imperf:aff		
+żebrowany	żebrować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+żebrowań	żebrować:v	ger:pl:gen:n2:imperf:aff		
+żebrująca	żebrować:v	pact:sg:nom.voc:f:imperf:aff		
+żebrującą	żebrować:v	pact:sg:acc.inst:f:imperf:aff		
+żebrującego	żebrować:v	pact:sg:acc:m1.m2:imperf:aff		
+żebrującego	żebrować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żebrującej	żebrować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+żebrującemu	żebrować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żebrujące	żebrować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żebrujące	żebrować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+żebrujących	żebrować:v	pact:pl:acc:m1.p1:imperf:aff		
+żebrujących	żebrować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żebrującymi	żebrować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żebrującym	żebrować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żebrującym	żebrować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żebrujący	żebrować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+żebrujący	żebrować:v	pact:sg:acc:m3:imperf:aff		
+żebrujący	żebrować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+żebrowaniami	żebrować:v	ger:pl:inst:n2:imperf:aff		
+żebrowania	żebrować:v	ger:pl:nom.acc:n2:imperf:aff		
+żebrowania	żebrować:v	ger:sg:gen:n2:imperf:aff		
+żebrowaniem	żebrować:v	ger:sg:inst:n2:imperf:aff		
+żebrowanie	żebrować:v	ger:sg:nom.acc:n2:imperf:aff		
+żebrowaniom	żebrować:v	ger:pl:dat.loc:n2:imperf:aff		
+żebrowaniu	żebrować:v	ger:sg:dat.loc:n2:imperf:aff		
+żebrowań	żebrować:v	ger:pl:gen:n2:imperf:aff		
+żebrująca	żebrować:v	pact:sg:nom.voc:f:imperf:aff		
+żebrującą	żebrować:v	pact:sg:acc.inst:f:imperf:aff		
+żebrującego	żebrować:v	pact:sg:acc:m1.m2:imperf:aff		
+żebrującego	żebrować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żebrującej	żebrować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+żebrującemu	żebrować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żebrujące	żebrować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żebrujące	żebrować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+żebrujących	żebrować:v	pact:pl:acc:m1.p1:imperf:aff		
+żebrujących	żebrować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żebrującymi	żebrować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żebrującym	żebrować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żebrującym	żebrować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żebrujący	żebrować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+żebrujący	żebrować:v	pact:sg:acc:m3:imperf:aff		
+żebrujący	żebrować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żebrować	żebrować:v1	inf:imperf		
 żebrowalibyście	żebrować:v1	cond:pl:m1.p1:sec:imperf		
 żebrowalibyśmy	żebrować:v1	cond:pl:m1.p1:pri:imperf		
@@ -6250,47 +6314,7 @@
 żebrowały	żebrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 żebrował	żebrować:v1	praet:sg:m1.m2.m3:imperf		
 żebrował	żebrować:v1	praet:sg:m1.m2.m3:ter:imperf		
-żebrowana	żebrować:v1	ppas:sg:nom.voc:f:imperf:aff		
-żebrowaną	żebrować:v1	ppas:sg:acc.inst:f:imperf:aff		
-żebrowanego	żebrować:v1	ppas:sg:acc:m1.m2:imperf:aff		
-żebrowanego	żebrować:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żebrowanej	żebrować:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
-żebrowanemu	żebrować:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żebrowane	żebrować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żebrowane	żebrować:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-żebrowaniami	żebrować:v1	ger:pl:inst:n2:imperf:aff		
-żebrowania	żebrować:v1	ger:pl:nom.acc:n2:imperf:aff		
-żebrowania	żebrować:v1	ger:sg:gen:n2:imperf:aff		
-żebrowaniem	żebrować:v1	ger:sg:inst:n2:imperf:aff		
-żebrowanie	żebrować:v1	ger:sg:nom.acc:n2:imperf:aff		
-żebrowaniom	żebrować:v1	ger:pl:dat.loc:n2:imperf:aff		
-żebrowaniu	żebrować:v1	ger:sg:dat.loc:n2:imperf:aff		
-żebrowani	żebrować:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żebrowano	żebrować:v1	imps:imperf		
-żebrowanych	żebrować:v1	ppas:pl:acc:m1.p1:imperf:aff		
-żebrowanych	żebrować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żebrowanymi	żebrować:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żebrowanym	żebrować:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żebrowanym	żebrować:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żebrowany	żebrować:v1	ppas:sg:acc:m3:imperf:aff		
-żebrowany	żebrować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-żebrowań	żebrować:v1	ger:pl:gen:n2:imperf:aff		
-żebrująca	żebrować:v1	pact:sg:nom.voc:f:imperf:aff		
-żebrującą	żebrować:v1	pact:sg:acc.inst:f:imperf:aff		
-żebrującego	żebrować:v1	pact:sg:acc:m1.m2:imperf:aff		
-żebrującego	żebrować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żebrującej	żebrować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-żebrującemu	żebrować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żebrujące	żebrować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żebrujące	żebrować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-żebrujących	żebrować:v1	pact:pl:acc:m1.p1:imperf:aff		
-żebrujących	żebrować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żebrującymi	żebrować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żebrującym	żebrować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żebrującym	żebrować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żebrujący	żebrować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-żebrujący	żebrować:v1	pact:sg:acc:m3:imperf:aff		
-żebrujący	żebrować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żebrując	żebrować:v1	pcon:imperf		
 żebrują	żebrować:v1	fin:pl:ter:imperf		
 żebrujcie	żebrować:v1	impt:pl:sec:imperf		
@@ -6337,31 +6361,7 @@
 żebrowały	żebrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 żebrował	żebrować:v2	praet:sg:m1.m2.m3:imperf		daw.
 żebrował	żebrować:v2	praet:sg:m1.m2.m3:ter:imperf		daw.
-żebrowaniami	żebrować:v2	ger:pl:inst:n2:imperf:aff		
-żebrowania	żebrować:v2	ger:pl:nom.acc:n2:imperf:aff		
-żebrowania	żebrować:v2	ger:sg:gen:n2:imperf:aff		
-żebrowaniem	żebrować:v2	ger:sg:inst:n2:imperf:aff		
-żebrowanie	żebrować:v2	ger:sg:nom.acc:n2:imperf:aff		
-żebrowaniom	żebrować:v2	ger:pl:dat.loc:n2:imperf:aff		
-żebrowaniu	żebrować:v2	ger:sg:dat.loc:n2:imperf:aff		
 żebrowano	żebrować:v2	imps:imperf		daw.
-żebrowań	żebrować:v2	ger:pl:gen:n2:imperf:aff		
-żebrująca	żebrować:v2	pact:sg:nom.voc:f:imperf:aff		
-żebrującą	żebrować:v2	pact:sg:acc.inst:f:imperf:aff		
-żebrującego	żebrować:v2	pact:sg:acc:m1.m2:imperf:aff		
-żebrującego	żebrować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żebrującej	żebrować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-żebrującemu	żebrować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żebrujące	żebrować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żebrujące	żebrować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-żebrujących	żebrować:v2	pact:pl:acc:m1.p1:imperf:aff		
-żebrujących	żebrować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żebrującymi	żebrować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żebrującym	żebrować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żebrującym	żebrować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żebrujący	żebrować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-żebrujący	żebrować:v2	pact:sg:acc:m3:imperf:aff		
-żebrujący	żebrować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żebrując	żebrować:v2	pcon:imperf		daw.
 żebrują	żebrować:v2	fin:pl:ter:imperf		daw.
 żebrujcie	żebrować:v2	impt:pl:sec:imperf		daw.
@@ -7150,34 +7150,34 @@
 żeglowniku	żeglownik	subst:sg:loc:m1	pospolita	daw.
 żeglowniku	żeglownik	subst:sg:voc:m1	pospolita	daw.
 żeglownik	żeglownik	subst:sg:nom:m1	pospolita	daw.
-żeglownościach	żeglowność:s1	subst:pl:loc:f	pospolita	
-żeglownościami	żeglowność:s1	subst:pl:inst:f	pospolita	
-żeglownością	żeglowność:s1	subst:sg:inst:f	pospolita	
-żeglownościom	żeglowność:s1	subst:pl:dat:f	pospolita	
-żeglowności	żeglowność:s1	subst:pl:acc:f	pospolita	
-żeglowności	żeglowność:s1	subst:pl:gen:f	pospolita	
-żeglowności	żeglowność:s1	subst:pl:nom:f	pospolita	
-żeglowności	żeglowność:s1	subst:pl:voc:f	pospolita	
-żeglowności	żeglowność:s1	subst:sg:dat:f	pospolita	
-żeglowności	żeglowność:s1	subst:sg:gen:f	pospolita	
-żeglowności	żeglowność:s1	subst:sg:loc:f	pospolita	
-żeglowności	żeglowność:s1	subst:sg:voc:f	pospolita	
-żeglowność	żeglowność:s1	subst:sg:acc:f	pospolita	
-żeglowność	żeglowność:s1	subst:sg:nom:f	pospolita	
-żeglownościach	żeglowność:s2	subst:pl:loc:f		
-żeglownościami	żeglowność:s2	subst:pl:inst:f		
-żeglownością	żeglowność:s2	subst:sg:inst:f		
-żeglownościom	żeglowność:s2	subst:pl:dat:f		
-żeglowności	żeglowność:s2	subst:pl:acc:f		
-żeglowności	żeglowność:s2	subst:pl:gen:f		
-żeglowności	żeglowność:s2	subst:pl:nom:f		
-żeglowności	żeglowność:s2	subst:pl:voc:f		
-żeglowności	żeglowność:s2	subst:sg:dat:f		
-żeglowności	żeglowność:s2	subst:sg:gen:f		
-żeglowności	żeglowność:s2	subst:sg:loc:f		
-żeglowności	żeglowność:s2	subst:sg:voc:f		
-żeglowność	żeglowność:s2	subst:sg:acc:f		
-żeglowność	żeglowność:s2	subst:sg:nom:f		
+żeglownościach	żeglowność:s	subst:pl:loc:f	pospolita	
+żeglownościami	żeglowność:s	subst:pl:inst:f	pospolita	
+żeglownością	żeglowność:s	subst:sg:inst:f	pospolita	
+żeglownościom	żeglowność:s	subst:pl:dat:f	pospolita	
+żeglowności	żeglowność:s	subst:pl:acc:f	pospolita	
+żeglowności	żeglowność:s	subst:pl:gen:f	pospolita	
+żeglowności	żeglowność:s	subst:pl:nom:f	pospolita	
+żeglowności	żeglowność:s	subst:pl:voc:f	pospolita	
+żeglowności	żeglowność:s	subst:sg:dat:f	pospolita	
+żeglowności	żeglowność:s	subst:sg:gen:f	pospolita	
+żeglowności	żeglowność:s	subst:sg:loc:f	pospolita	
+żeglowności	żeglowność:s	subst:sg:voc:f	pospolita	
+żeglowność	żeglowność:s	subst:sg:acc:f	pospolita	
+żeglowność	żeglowność:s	subst:sg:nom:f	pospolita	
+żeglownościach	żeglowność:s	subst:pl:loc:f		
+żeglownościami	żeglowność:s	subst:pl:inst:f		
+żeglownością	żeglowność:s	subst:sg:inst:f		
+żeglownościom	żeglowność:s	subst:pl:dat:f		
+żeglowności	żeglowność:s	subst:pl:acc:f		
+żeglowności	żeglowność:s	subst:pl:gen:f		
+żeglowności	żeglowność:s	subst:pl:nom:f		
+żeglowności	żeglowność:s	subst:pl:voc:f		
+żeglowności	żeglowność:s	subst:sg:dat:f		
+żeglowności	żeglowność:s	subst:sg:gen:f		
+żeglowności	żeglowność:s	subst:sg:loc:f		
+żeglowności	żeglowność:s	subst:sg:voc:f		
+żeglowność	żeglowność:s	subst:sg:acc:f		
+żeglowność	żeglowność:s	subst:sg:nom:f		
 żeglowna	żeglowny	adj:sg:nom.voc:f:pos		
 żeglowną	żeglowny	adj:sg:acc:f:pos		
 żeglowną	żeglowny	adj:sg:inst:f:pos		
@@ -7255,24 +7255,88 @@
 żeglugowym	żeglugowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 żeglugowy	żeglugowy	adj:sg:acc:m3:pos		
 żeglugowy	żeglugowy	adj:sg:nom.voc:m1.m2.m3:pos		
+żegnająca	żegnać:v	pact:sg:nom.voc:f:imperf:aff		
+żegnającą	żegnać:v	pact:sg:acc.inst:f:imperf:aff		
+żegnającego	żegnać:v	pact:sg:acc:m1.m2:imperf:aff		
+żegnającego	żegnać:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żegnającej	żegnać:v	pact:sg:gen.dat.loc:f:imperf:aff		
+żegnającemu	żegnać:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żegnające	żegnać:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żegnające	żegnać:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+żegnających	żegnać:v	pact:pl:acc:m1.p1:imperf:aff		
+żegnających	żegnać:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żegnającymi	żegnać:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żegnającym	żegnać:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żegnającym	żegnać:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żegnający	żegnać:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+żegnający	żegnać:v	pact:sg:acc:m3:imperf:aff		
+żegnający	żegnać:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+żegnana	żegnać:v	ppas:sg:nom.voc:f:imperf:aff		
+żegnaną	żegnać:v	ppas:sg:acc.inst:f:imperf:aff		
+żegnanego	żegnać:v	ppas:sg:acc:m1.m2:imperf:aff		
+żegnanego	żegnać:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żegnanej	żegnać:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+żegnanemu	żegnać:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żegnane	żegnać:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żegnane	żegnać:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żegnaniami	żegnać:v	ger:pl:inst:n2:imperf:aff		
+żegnania	żegnać:v	ger:pl:nom.acc:n2:imperf:aff		
+żegnania	żegnać:v	ger:sg:gen:n2:imperf:aff		
+żegnaniem	żegnać:v	ger:sg:inst:n2:imperf:aff		
+żegnanie	żegnać:v	ger:sg:nom.acc:n2:imperf:aff		
+żegnaniom	żegnać:v	ger:pl:dat.loc:n2:imperf:aff		
+żegnaniu	żegnać:v	ger:sg:dat.loc:n2:imperf:aff		
+żegnani	żegnać:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+żegnanych	żegnać:v	ppas:pl:acc:m1.p1:imperf:aff		
+żegnanych	żegnać:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żegnanymi	żegnać:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żegnanym	żegnać:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żegnanym	żegnać:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żegnany	żegnać:v	ppas:sg:acc:m3:imperf:aff		
+żegnany	żegnać:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+żegnań	żegnać:v	ger:pl:gen:n2:imperf:aff		
+żegnająca	żegnać:v	pact:sg:nom.voc:f:imperf:aff		
+żegnającą	żegnać:v	pact:sg:acc.inst:f:imperf:aff		
+żegnającego	żegnać:v	pact:sg:acc:m1.m2:imperf:aff		
+żegnającego	żegnać:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żegnającej	żegnać:v	pact:sg:gen.dat.loc:f:imperf:aff		
+żegnającemu	żegnać:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żegnające	żegnać:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żegnające	żegnać:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+żegnających	żegnać:v	pact:pl:acc:m1.p1:imperf:aff		
+żegnających	żegnać:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żegnającymi	żegnać:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żegnającym	żegnać:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żegnającym	żegnać:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żegnający	żegnać:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+żegnający	żegnać:v	pact:sg:acc:m3:imperf:aff		
+żegnający	żegnać:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+żegnana	żegnać:v	ppas:sg:nom.voc:f:imperf:aff		
+żegnaną	żegnać:v	ppas:sg:acc.inst:f:imperf:aff		
+żegnanego	żegnać:v	ppas:sg:acc:m1.m2:imperf:aff		
+żegnanego	żegnać:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+żegnanej	żegnać:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+żegnanemu	żegnać:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+żegnane	żegnać:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+żegnane	żegnać:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+żegnaniami	żegnać:v	ger:pl:inst:n2:imperf:aff		
+żegnania	żegnać:v	ger:pl:nom.acc:n2:imperf:aff		
+żegnania	żegnać:v	ger:sg:gen:n2:imperf:aff		
+żegnaniem	żegnać:v	ger:sg:inst:n2:imperf:aff		
+żegnanie	żegnać:v	ger:sg:nom.acc:n2:imperf:aff		
+żegnaniom	żegnać:v	ger:pl:dat.loc:n2:imperf:aff		
+żegnaniu	żegnać:v	ger:sg:dat.loc:n2:imperf:aff		
+żegnani	żegnać:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+żegnanych	żegnać:v	ppas:pl:acc:m1.p1:imperf:aff		
+żegnanych	żegnać:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żegnanymi	żegnać:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żegnanym	żegnać:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+żegnanym	żegnać:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+żegnany	żegnać:v	ppas:sg:acc:m3:imperf:aff		
+żegnany	żegnać:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+żegnań	żegnać:v	ger:pl:gen:n2:imperf:aff		
 żegnacie	żegnać:v1	fin:pl:sec:imperf		
 żegnać	żegnać:v1	inf:imperf		
-żegnająca	żegnać:v1	pact:sg:nom.voc:f:imperf:aff		
-żegnającą	żegnać:v1	pact:sg:acc.inst:f:imperf:aff		
-żegnającego	żegnać:v1	pact:sg:acc:m1.m2:imperf:aff		
-żegnającego	żegnać:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żegnającej	żegnać:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-żegnającemu	żegnać:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żegnające	żegnać:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żegnające	żegnać:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-żegnających	żegnać:v1	pact:pl:acc:m1.p1:imperf:aff		
-żegnających	żegnać:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żegnającymi	żegnać:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żegnającym	żegnać:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żegnającym	żegnać:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żegnający	żegnać:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-żegnający	żegnać:v1	pact:sg:acc:m3:imperf:aff		
-żegnający	żegnać:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żegnając	żegnać:v1	pcon:imperf		
 żegnają	żegnać:v1	fin:pl:ter:imperf		
 żegnajcie	żegnać:v1	impt:pl:sec:imperf		
@@ -7315,51 +7379,11 @@
 żegnał	żegnać:v1	praet:sg:m1.m2.m3:ter:imperf		
 żegnamy	żegnać:v1	fin:pl:pri:imperf		
 żegnam	żegnać:v1	fin:sg:pri:imperf		
-żegnana	żegnać:v1	ppas:sg:nom.voc:f:imperf:aff		
-żegnaną	żegnać:v1	ppas:sg:acc.inst:f:imperf:aff		
-żegnanego	żegnać:v1	ppas:sg:acc:m1.m2:imperf:aff		
-żegnanego	żegnać:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żegnanej	żegnać:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
-żegnanemu	żegnać:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żegnane	żegnać:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żegnane	żegnać:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-żegnaniami	żegnać:v1	ger:pl:inst:n2:imperf:aff		
-żegnania	żegnać:v1	ger:pl:nom.acc:n2:imperf:aff		
-żegnania	żegnać:v1	ger:sg:gen:n2:imperf:aff		
-żegnaniem	żegnać:v1	ger:sg:inst:n2:imperf:aff		
-żegnanie	żegnać:v1	ger:sg:nom.acc:n2:imperf:aff		
-żegnaniom	żegnać:v1	ger:pl:dat.loc:n2:imperf:aff		
-żegnaniu	żegnać:v1	ger:sg:dat.loc:n2:imperf:aff		
-żegnani	żegnać:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żegnano	żegnać:v1	imps:imperf		
-żegnanych	żegnać:v1	ppas:pl:acc:m1.p1:imperf:aff		
-żegnanych	żegnać:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żegnanymi	żegnać:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żegnanym	żegnać:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żegnanym	żegnać:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żegnany	żegnać:v1	ppas:sg:acc:m3:imperf:aff		
-żegnany	żegnać:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-żegnań	żegnać:v1	ger:pl:gen:n2:imperf:aff		
 żegnasz	żegnać:v1	fin:sg:sec:imperf		
 żegna	żegnać:v1	fin:sg:ter:imperf		
 żegnacie	żegnać:v2	fin:pl:sec:imperf		
 żegnać	żegnać:v2	inf:imperf		
-żegnająca	żegnać:v2	pact:sg:nom.voc:f:imperf:aff		
-żegnającą	żegnać:v2	pact:sg:acc.inst:f:imperf:aff		
-żegnającego	żegnać:v2	pact:sg:acc:m1.m2:imperf:aff		
-żegnającego	żegnać:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żegnającej	żegnać:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-żegnającemu	żegnać:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żegnające	żegnać:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żegnające	żegnać:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-żegnających	żegnać:v2	pact:pl:acc:m1.p1:imperf:aff		
-żegnających	żegnać:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żegnającymi	żegnać:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żegnającym	żegnać:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żegnającym	żegnać:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żegnający	żegnać:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-żegnający	żegnać:v2	pact:sg:acc:m3:imperf:aff		
-żegnający	żegnać:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żegnając	żegnać:v2	pcon:imperf		
 żegnają	żegnać:v2	fin:pl:ter:imperf		
 żegnajcie	żegnać:v2	impt:pl:sec:imperf		
@@ -7402,31 +7426,7 @@
 żegnał	żegnać:v2	praet:sg:m1.m2.m3:ter:imperf		
 żegnamy	żegnać:v2	fin:pl:pri:imperf		
 żegnam	żegnać:v2	fin:sg:pri:imperf		
-żegnana	żegnać:v2	ppas:sg:nom.voc:f:imperf:aff		
-żegnaną	żegnać:v2	ppas:sg:acc.inst:f:imperf:aff		
-żegnanego	żegnać:v2	ppas:sg:acc:m1.m2:imperf:aff		
-żegnanego	żegnać:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-żegnanej	żegnać:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-żegnanemu	żegnać:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-żegnane	żegnać:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-żegnane	żegnać:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-żegnaniami	żegnać:v2	ger:pl:inst:n2:imperf:aff		
-żegnania	żegnać:v2	ger:pl:nom.acc:n2:imperf:aff		
-żegnania	żegnać:v2	ger:sg:gen:n2:imperf:aff		
-żegnaniem	żegnać:v2	ger:sg:inst:n2:imperf:aff		
-żegnanie	żegnać:v2	ger:sg:nom.acc:n2:imperf:aff		
-żegnaniom	żegnać:v2	ger:pl:dat.loc:n2:imperf:aff		
-żegnaniu	żegnać:v2	ger:sg:dat.loc:n2:imperf:aff		
-żegnani	żegnać:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
 żegnano	żegnać:v2	imps:imperf		
-żegnanych	żegnać:v2	ppas:pl:acc:m1.p1:imperf:aff		
-żegnanych	żegnać:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żegnanymi	żegnać:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żegnanym	żegnać:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-żegnanym	żegnać:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-żegnany	żegnać:v2	ppas:sg:acc:m3:imperf:aff		
-żegnany	żegnać:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-żegnań	żegnać:v2	ger:pl:gen:n2:imperf:aff		
 żegnasz	żegnać:v2	fin:sg:sec:imperf		
 żegna	żegnać:v2	fin:sg:ter:imperf		
 żegnalnościach	żegnalność	subst:pl:loc:f		
@@ -20126,34 +20126,34 @@
 żwawiec	żwawiec	subst:sg:nom:m1	pospolita	daw.
 żwawiej	żwawo	adv:com		
 żwawo	żwawo	adv:pos		
-żwawościach	żwawość:s1	subst:pl:loc:f	pospolita	
-żwawościami	żwawość:s1	subst:pl:inst:f	pospolita	
-żwawością	żwawość:s1	subst:sg:inst:f	pospolita	
-żwawościom	żwawość:s1	subst:pl:dat:f	pospolita	
-żwawości	żwawość:s1	subst:pl:acc:f	pospolita	
-żwawości	żwawość:s1	subst:pl:gen:f	pospolita	
-żwawości	żwawość:s1	subst:pl:nom:f	pospolita	
-żwawości	żwawość:s1	subst:pl:voc:f	pospolita	
-żwawości	żwawość:s1	subst:sg:dat:f	pospolita	
-żwawości	żwawość:s1	subst:sg:gen:f	pospolita	
-żwawości	żwawość:s1	subst:sg:loc:f	pospolita	
-żwawości	żwawość:s1	subst:sg:voc:f	pospolita	
-żwawość	żwawość:s1	subst:sg:acc:f	pospolita	
-żwawość	żwawość:s1	subst:sg:nom:f	pospolita	
-żwawościach	żwawość:s2	subst:pl:loc:f		
-żwawościami	żwawość:s2	subst:pl:inst:f		
-żwawością	żwawość:s2	subst:sg:inst:f		
-żwawościom	żwawość:s2	subst:pl:dat:f		
-żwawości	żwawość:s2	subst:pl:acc:f		
-żwawości	żwawość:s2	subst:pl:gen:f		
-żwawości	żwawość:s2	subst:pl:nom:f		
-żwawości	żwawość:s2	subst:pl:voc:f		
-żwawości	żwawość:s2	subst:sg:dat:f		
-żwawości	żwawość:s2	subst:sg:gen:f		
-żwawości	żwawość:s2	subst:sg:loc:f		
-żwawości	żwawość:s2	subst:sg:voc:f		
-żwawość	żwawość:s2	subst:sg:acc:f		
-żwawość	żwawość:s2	subst:sg:nom:f		
+żwawościach	żwawość:s	subst:pl:loc:f	pospolita	
+żwawościami	żwawość:s	subst:pl:inst:f	pospolita	
+żwawością	żwawość:s	subst:sg:inst:f	pospolita	
+żwawościom	żwawość:s	subst:pl:dat:f	pospolita	
+żwawości	żwawość:s	subst:pl:acc:f	pospolita	
+żwawości	żwawość:s	subst:pl:gen:f	pospolita	
+żwawości	żwawość:s	subst:pl:nom:f	pospolita	
+żwawości	żwawość:s	subst:pl:voc:f	pospolita	
+żwawości	żwawość:s	subst:sg:dat:f	pospolita	
+żwawości	żwawość:s	subst:sg:gen:f	pospolita	
+żwawości	żwawość:s	subst:sg:loc:f	pospolita	
+żwawości	żwawość:s	subst:sg:voc:f	pospolita	
+żwawość	żwawość:s	subst:sg:acc:f	pospolita	
+żwawość	żwawość:s	subst:sg:nom:f	pospolita	
+żwawościach	żwawość:s	subst:pl:loc:f		
+żwawościami	żwawość:s	subst:pl:inst:f		
+żwawością	żwawość:s	subst:sg:inst:f		
+żwawościom	żwawość:s	subst:pl:dat:f		
+żwawości	żwawość:s	subst:pl:acc:f		
+żwawości	żwawość:s	subst:pl:gen:f		
+żwawości	żwawość:s	subst:pl:nom:f		
+żwawości	żwawość:s	subst:pl:voc:f		
+żwawości	żwawość:s	subst:sg:dat:f		
+żwawości	żwawość:s	subst:sg:gen:f		
+żwawości	żwawość:s	subst:sg:loc:f		
+żwawości	żwawość:s	subst:sg:voc:f		
+żwawość	żwawość:s	subst:sg:acc:f		
+żwawość	żwawość:s	subst:sg:nom:f		
 żwawa	żwawy	adj:sg:nom.voc:f:pos		
 żwawą	żwawy	adj:sg:acc:f:pos		
 żwawą	żwawy	adj:sg:inst:f:pos		
@@ -21129,34 +21129,34 @@
 życzliwcy	życzliwiec	subst:pl:voc:m1	pospolita	daw.
 życzliwcze	życzliwiec	subst:sg:voc:m1	pospolita	daw.
 życzliwiec	życzliwiec	subst:sg:nom:m1	pospolita	daw.
-życzliwościach	życzliwość:s1	subst:pl:loc:f	pospolita	
-życzliwościami	życzliwość:s1	subst:pl:inst:f	pospolita	
-życzliwością	życzliwość:s1	subst:sg:inst:f	pospolita	
-życzliwościom	życzliwość:s1	subst:pl:dat:f	pospolita	
-życzliwości	życzliwość:s1	subst:pl:acc:f	pospolita	
-życzliwości	życzliwość:s1	subst:pl:gen:f	pospolita	
-życzliwości	życzliwość:s1	subst:pl:nom:f	pospolita	
-życzliwości	życzliwość:s1	subst:pl:voc:f	pospolita	
-życzliwości	życzliwość:s1	subst:sg:dat:f	pospolita	
-życzliwości	życzliwość:s1	subst:sg:gen:f	pospolita	
-życzliwości	życzliwość:s1	subst:sg:loc:f	pospolita	
-życzliwości	życzliwość:s1	subst:sg:voc:f	pospolita	
-życzliwość	życzliwość:s1	subst:sg:acc:f	pospolita	
-życzliwość	życzliwość:s1	subst:sg:nom:f	pospolita	
-życzliwościach	życzliwość:s2	subst:pl:loc:f		
-życzliwościami	życzliwość:s2	subst:pl:inst:f		
-życzliwością	życzliwość:s2	subst:sg:inst:f		
-życzliwościom	życzliwość:s2	subst:pl:dat:f		
-życzliwości	życzliwość:s2	subst:pl:acc:f		
-życzliwości	życzliwość:s2	subst:pl:gen:f		
-życzliwości	życzliwość:s2	subst:pl:nom:f		
-życzliwości	życzliwość:s2	subst:pl:voc:f		
-życzliwości	życzliwość:s2	subst:sg:dat:f		
-życzliwości	życzliwość:s2	subst:sg:gen:f		
-życzliwości	życzliwość:s2	subst:sg:loc:f		
-życzliwości	życzliwość:s2	subst:sg:voc:f		
-życzliwość	życzliwość:s2	subst:sg:acc:f		
-życzliwość	życzliwość:s2	subst:sg:nom:f		
+życzliwościach	życzliwość:s	subst:pl:loc:f	pospolita	
+życzliwościami	życzliwość:s	subst:pl:inst:f	pospolita	
+życzliwością	życzliwość:s	subst:sg:inst:f	pospolita	
+życzliwościom	życzliwość:s	subst:pl:dat:f	pospolita	
+życzliwości	życzliwość:s	subst:pl:acc:f	pospolita	
+życzliwości	życzliwość:s	subst:pl:gen:f	pospolita	
+życzliwości	życzliwość:s	subst:pl:nom:f	pospolita	
+życzliwości	życzliwość:s	subst:pl:voc:f	pospolita	
+życzliwości	życzliwość:s	subst:sg:dat:f	pospolita	
+życzliwości	życzliwość:s	subst:sg:gen:f	pospolita	
+życzliwości	życzliwość:s	subst:sg:loc:f	pospolita	
+życzliwości	życzliwość:s	subst:sg:voc:f	pospolita	
+życzliwość	życzliwość:s	subst:sg:acc:f	pospolita	
+życzliwość	życzliwość:s	subst:sg:nom:f	pospolita	
+życzliwościach	życzliwość:s	subst:pl:loc:f		
+życzliwościami	życzliwość:s	subst:pl:inst:f		
+życzliwością	życzliwość:s	subst:sg:inst:f		
+życzliwościom	życzliwość:s	subst:pl:dat:f		
+życzliwości	życzliwość:s	subst:pl:acc:f		
+życzliwości	życzliwość:s	subst:pl:gen:f		
+życzliwości	życzliwość:s	subst:pl:nom:f		
+życzliwości	życzliwość:s	subst:pl:voc:f		
+życzliwości	życzliwość:s	subst:sg:dat:f		
+życzliwości	życzliwość:s	subst:sg:gen:f		
+życzliwości	życzliwość:s	subst:sg:loc:f		
+życzliwości	życzliwość:s	subst:sg:voc:f		
+życzliwość	życzliwość:s	subst:sg:acc:f		
+życzliwość	życzliwość:s	subst:sg:nom:f		
 życzliwa	życzliwy:a	adj:sg:nom.voc:f:pos		
 życzliwą	życzliwy:a	adj:sg:acc:f:pos		
 życzliwą	życzliwy:a	adj:sg:inst:f:pos		
@@ -21537,34 +21537,34 @@
 żydowsko	żydowski	adja		
 żydowsku	żydowski	adjp		
 żydowsko	żydowsko	adv:pos		
-żydowskościach	żydowskość:s1	subst:pl:loc:f	pospolita	
-żydowskościami	żydowskość:s1	subst:pl:inst:f	pospolita	
-żydowskością	żydowskość:s1	subst:sg:inst:f	pospolita	
-żydowskościom	żydowskość:s1	subst:pl:dat:f	pospolita	
-żydowskości	żydowskość:s1	subst:pl:acc:f	pospolita	
-żydowskości	żydowskość:s1	subst:pl:gen:f	pospolita	
-żydowskości	żydowskość:s1	subst:pl:nom:f	pospolita	
-żydowskości	żydowskość:s1	subst:pl:voc:f	pospolita	
-żydowskości	żydowskość:s1	subst:sg:dat:f	pospolita	
-żydowskości	żydowskość:s1	subst:sg:gen:f	pospolita	
-żydowskości	żydowskość:s1	subst:sg:loc:f	pospolita	
-żydowskości	żydowskość:s1	subst:sg:voc:f	pospolita	
-żydowskość	żydowskość:s1	subst:sg:acc:f	pospolita	
-żydowskość	żydowskość:s1	subst:sg:nom:f	pospolita	
-żydowskościach	żydowskość:s2	subst:pl:loc:f		
-żydowskościami	żydowskość:s2	subst:pl:inst:f		
-żydowskością	żydowskość:s2	subst:sg:inst:f		
-żydowskościom	żydowskość:s2	subst:pl:dat:f		
-żydowskości	żydowskość:s2	subst:pl:acc:f		
-żydowskości	żydowskość:s2	subst:pl:gen:f		
-żydowskości	żydowskość:s2	subst:pl:nom:f		
-żydowskości	żydowskość:s2	subst:pl:voc:f		
-żydowskości	żydowskość:s2	subst:sg:dat:f		
-żydowskości	żydowskość:s2	subst:sg:gen:f		
-żydowskości	żydowskość:s2	subst:sg:loc:f		
-żydowskości	żydowskość:s2	subst:sg:voc:f		
-żydowskość	żydowskość:s2	subst:sg:acc:f		
-żydowskość	żydowskość:s2	subst:sg:nom:f		
+żydowskościach	żydowskość:s	subst:pl:loc:f	pospolita	
+żydowskościami	żydowskość:s	subst:pl:inst:f	pospolita	
+żydowskością	żydowskość:s	subst:sg:inst:f	pospolita	
+żydowskościom	żydowskość:s	subst:pl:dat:f	pospolita	
+żydowskości	żydowskość:s	subst:pl:acc:f	pospolita	
+żydowskości	żydowskość:s	subst:pl:gen:f	pospolita	
+żydowskości	żydowskość:s	subst:pl:nom:f	pospolita	
+żydowskości	żydowskość:s	subst:pl:voc:f	pospolita	
+żydowskości	żydowskość:s	subst:sg:dat:f	pospolita	
+żydowskości	żydowskość:s	subst:sg:gen:f	pospolita	
+żydowskości	żydowskość:s	subst:sg:loc:f	pospolita	
+żydowskości	żydowskość:s	subst:sg:voc:f	pospolita	
+żydowskość	żydowskość:s	subst:sg:acc:f	pospolita	
+żydowskość	żydowskość:s	subst:sg:nom:f	pospolita	
+żydowskościach	żydowskość:s	subst:pl:loc:f		
+żydowskościami	żydowskość:s	subst:pl:inst:f		
+żydowskością	żydowskość:s	subst:sg:inst:f		
+żydowskościom	żydowskość:s	subst:pl:dat:f		
+żydowskości	żydowskość:s	subst:pl:acc:f		
+żydowskości	żydowskość:s	subst:pl:gen:f		
+żydowskości	żydowskość:s	subst:pl:nom:f		
+żydowskości	żydowskość:s	subst:pl:voc:f		
+żydowskości	żydowskość:s	subst:sg:dat:f		
+żydowskości	żydowskość:s	subst:sg:gen:f		
+żydowskości	żydowskość:s	subst:sg:loc:f		
+żydowskości	żydowskość:s	subst:sg:voc:f		
+żydowskość	żydowskość:s	subst:sg:acc:f		
+żydowskość	żydowskość:s	subst:sg:nom:f		
 żydowszczyznach	żydowszczyzna	subst:pl:loc:f	pospolita	
 żydowszczyznami	żydowszczyzna	subst:pl:inst:f	pospolita	
 żydowszczyzna	żydowszczyzna	subst:sg:nom:f	pospolita	
@@ -24439,34 +24439,34 @@
 żywnościowym	żywnościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 żywnościowy	żywnościowy	adj:sg:acc:m3:pos		
 żywnościowy	żywnościowy	adj:sg:nom.voc:m1.m2.m3:pos		
-żywnościach	żywność:s1	subst:pl:loc:f	pospolita	
-żywnościami	żywność:s1	subst:pl:inst:f	pospolita	
-żywnością	żywność:s1	subst:sg:inst:f	pospolita	
-żywnościom	żywność:s1	subst:pl:dat:f	pospolita	
-żywności	żywność:s1	subst:pl:acc:f	pospolita	
-żywności	żywność:s1	subst:pl:gen:f	pospolita	
-żywności	żywność:s1	subst:pl:nom:f	pospolita	
-żywności	żywność:s1	subst:pl:voc:f	pospolita	
-żywności	żywność:s1	subst:sg:dat:f	pospolita	
-żywności	żywność:s1	subst:sg:gen:f	pospolita	
-żywności	żywność:s1	subst:sg:loc:f	pospolita	
-żywności	żywność:s1	subst:sg:voc:f	pospolita	
-żywność	żywność:s1	subst:sg:acc:f	pospolita	
-żywność	żywność:s1	subst:sg:nom:f	pospolita	
-żywnościach	żywność:s2	subst:pl:loc:f		daw.
-żywnościami	żywność:s2	subst:pl:inst:f		daw.
-żywnością	żywność:s2	subst:sg:inst:f		daw.
-żywnościom	żywność:s2	subst:pl:dat:f		daw.
-żywności	żywność:s2	subst:pl:acc:f		daw.
-żywności	żywność:s2	subst:pl:gen:f		daw.
-żywności	żywność:s2	subst:pl:nom:f		daw.
-żywności	żywność:s2	subst:pl:voc:f		daw.
-żywności	żywność:s2	subst:sg:dat:f		daw.
-żywności	żywność:s2	subst:sg:gen:f		daw.
-żywności	żywność:s2	subst:sg:loc:f		daw.
-żywności	żywność:s2	subst:sg:voc:f		daw.
-żywność	żywność:s2	subst:sg:acc:f		daw.
-żywność	żywność:s2	subst:sg:nom:f		daw.
+żywnościach	żywność:s	subst:pl:loc:f	pospolita	
+żywnościami	żywność:s	subst:pl:inst:f	pospolita	
+żywnością	żywność:s	subst:sg:inst:f	pospolita	
+żywnościom	żywność:s	subst:pl:dat:f	pospolita	
+żywności	żywność:s	subst:pl:acc:f	pospolita	
+żywności	żywność:s	subst:pl:gen:f	pospolita	
+żywności	żywność:s	subst:pl:nom:f	pospolita	
+żywności	żywność:s	subst:pl:voc:f	pospolita	
+żywności	żywność:s	subst:sg:dat:f	pospolita	
+żywności	żywność:s	subst:sg:gen:f	pospolita	
+żywności	żywność:s	subst:sg:loc:f	pospolita	
+żywności	żywność:s	subst:sg:voc:f	pospolita	
+żywność	żywność:s	subst:sg:acc:f	pospolita	
+żywność	żywność:s	subst:sg:nom:f	pospolita	
+żywnościach	żywność:s	subst:pl:loc:f		daw.
+żywnościami	żywność:s	subst:pl:inst:f		daw.
+żywnością	żywność:s	subst:sg:inst:f		daw.
+żywnościom	żywność:s	subst:pl:dat:f		daw.
+żywności	żywność:s	subst:pl:acc:f		daw.
+żywności	żywność:s	subst:pl:gen:f		daw.
+żywności	żywność:s	subst:pl:nom:f		daw.
+żywności	żywność:s	subst:pl:voc:f		daw.
+żywności	żywność:s	subst:sg:dat:f		daw.
+żywności	żywność:s	subst:sg:gen:f		daw.
+żywności	żywność:s	subst:sg:loc:f		daw.
+żywności	żywność:s	subst:sg:voc:f		daw.
+żywność	żywność:s	subst:sg:acc:f		daw.
+żywność	żywność:s	subst:sg:nom:f		daw.
 żywna	żywny	adj:sg:nom.voc:f:pos		daw.
 żywną	żywny	adj:sg:acc:f:pos		daw.
 żywną	żywny	adj:sg:inst:f:pos		daw.
@@ -24763,34 +24763,34 @@
 żyworodki	żyworodka	subst:sg:gen:f	pospolita	
 żyworodkom	żyworodka	subst:pl:dat:f	pospolita	
 żyworodko	żyworodka	subst:sg:voc:f	pospolita	
-żyworodnościach	żyworodność:s1	subst:pl:loc:f	pospolita	
-żyworodnościami	żyworodność:s1	subst:pl:inst:f	pospolita	
-żyworodnością	żyworodność:s1	subst:sg:inst:f	pospolita	
-żyworodnościom	żyworodność:s1	subst:pl:dat:f	pospolita	
-żyworodności	żyworodność:s1	subst:pl:acc:f	pospolita	
-żyworodności	żyworodność:s1	subst:pl:gen:f	pospolita	
-żyworodności	żyworodność:s1	subst:pl:nom:f	pospolita	
-żyworodności	żyworodność:s1	subst:pl:voc:f	pospolita	
-żyworodności	żyworodność:s1	subst:sg:dat:f	pospolita	
-żyworodności	żyworodność:s1	subst:sg:gen:f	pospolita	
-żyworodności	żyworodność:s1	subst:sg:loc:f	pospolita	
-żyworodności	żyworodność:s1	subst:sg:voc:f	pospolita	
-żyworodność	żyworodność:s1	subst:sg:acc:f	pospolita	
-żyworodność	żyworodność:s1	subst:sg:nom:f	pospolita	
-żyworodnościach	żyworodność:s2	subst:pl:loc:f		
-żyworodnościami	żyworodność:s2	subst:pl:inst:f		
-żyworodnością	żyworodność:s2	subst:sg:inst:f		
-żyworodnościom	żyworodność:s2	subst:pl:dat:f		
-żyworodności	żyworodność:s2	subst:pl:acc:f		
-żyworodności	żyworodność:s2	subst:pl:gen:f		
-żyworodności	żyworodność:s2	subst:pl:nom:f		
-żyworodności	żyworodność:s2	subst:pl:voc:f		
-żyworodności	żyworodność:s2	subst:sg:dat:f		
-żyworodności	żyworodność:s2	subst:sg:gen:f		
-żyworodności	żyworodność:s2	subst:sg:loc:f		
-żyworodności	żyworodność:s2	subst:sg:voc:f		
-żyworodność	żyworodność:s2	subst:sg:acc:f		
-żyworodność	żyworodność:s2	subst:sg:nom:f		
+żyworodnościach	żyworodność:s	subst:pl:loc:f	pospolita	
+żyworodnościami	żyworodność:s	subst:pl:inst:f	pospolita	
+żyworodnością	żyworodność:s	subst:sg:inst:f	pospolita	
+żyworodnościom	żyworodność:s	subst:pl:dat:f	pospolita	
+żyworodności	żyworodność:s	subst:pl:acc:f	pospolita	
+żyworodności	żyworodność:s	subst:pl:gen:f	pospolita	
+żyworodności	żyworodność:s	subst:pl:nom:f	pospolita	
+żyworodności	żyworodność:s	subst:pl:voc:f	pospolita	
+żyworodności	żyworodność:s	subst:sg:dat:f	pospolita	
+żyworodności	żyworodność:s	subst:sg:gen:f	pospolita	
+żyworodności	żyworodność:s	subst:sg:loc:f	pospolita	
+żyworodności	żyworodność:s	subst:sg:voc:f	pospolita	
+żyworodność	żyworodność:s	subst:sg:acc:f	pospolita	
+żyworodność	żyworodność:s	subst:sg:nom:f	pospolita	
+żyworodnościach	żyworodność:s	subst:pl:loc:f		
+żyworodnościami	żyworodność:s	subst:pl:inst:f		
+żyworodnością	żyworodność:s	subst:sg:inst:f		
+żyworodnościom	żyworodność:s	subst:pl:dat:f		
+żyworodności	żyworodność:s	subst:pl:acc:f		
+żyworodności	żyworodność:s	subst:pl:gen:f		
+żyworodności	żyworodność:s	subst:pl:nom:f		
+żyworodności	żyworodność:s	subst:pl:voc:f		
+żyworodności	żyworodność:s	subst:sg:dat:f		
+żyworodności	żyworodność:s	subst:sg:gen:f		
+żyworodności	żyworodność:s	subst:sg:loc:f		
+żyworodności	żyworodność:s	subst:sg:voc:f		
+żyworodność	żyworodność:s	subst:sg:acc:f		
+żyworodność	żyworodność:s	subst:sg:nom:f		
 żyworodna	żyworodny	adj:sg:nom.voc:f:pos		
 żyworodną	żyworodny	adj:sg:acc:f:pos		
 żyworodną	żyworodny	adj:sg:inst:f:pos		
@@ -24954,34 +24954,34 @@
 żywotniości	żywotniość	subst:sg:voc:f		daw.
 żywotniość	żywotniość	subst:sg:acc:f		daw.
 żywotniość	żywotniość	subst:sg:nom:f		daw.
-żywotnościach	żywotność:s1	subst:pl:loc:f	pospolita	
-żywotnościami	żywotność:s1	subst:pl:inst:f	pospolita	
-żywotnością	żywotność:s1	subst:sg:inst:f	pospolita	
-żywotnościom	żywotność:s1	subst:pl:dat:f	pospolita	
-żywotności	żywotność:s1	subst:pl:acc:f	pospolita	
-żywotności	żywotność:s1	subst:pl:gen:f	pospolita	
-żywotności	żywotność:s1	subst:pl:nom:f	pospolita	
-żywotności	żywotność:s1	subst:pl:voc:f	pospolita	
-żywotności	żywotność:s1	subst:sg:dat:f	pospolita	
-żywotności	żywotność:s1	subst:sg:gen:f	pospolita	
-żywotności	żywotność:s1	subst:sg:loc:f	pospolita	
-żywotności	żywotność:s1	subst:sg:voc:f	pospolita	
-żywotność	żywotność:s1	subst:sg:acc:f	pospolita	
-żywotność	żywotność:s1	subst:sg:nom:f	pospolita	
-żywotnościach	żywotność:s2	subst:pl:loc:f		
-żywotnościami	żywotność:s2	subst:pl:inst:f		
-żywotnością	żywotność:s2	subst:sg:inst:f		
-żywotnościom	żywotność:s2	subst:pl:dat:f		
-żywotności	żywotność:s2	subst:pl:acc:f		
-żywotności	żywotność:s2	subst:pl:gen:f		
-żywotności	żywotność:s2	subst:pl:nom:f		
-żywotności	żywotność:s2	subst:pl:voc:f		
-żywotności	żywotność:s2	subst:sg:dat:f		
-żywotności	żywotność:s2	subst:sg:gen:f		
-żywotności	żywotność:s2	subst:sg:loc:f		
-żywotności	żywotność:s2	subst:sg:voc:f		
-żywotność	żywotność:s2	subst:sg:acc:f		
-żywotność	żywotność:s2	subst:sg:nom:f		
+żywotnościach	żywotność:s	subst:pl:loc:f	pospolita	
+żywotnościami	żywotność:s	subst:pl:inst:f	pospolita	
+żywotnością	żywotność:s	subst:sg:inst:f	pospolita	
+żywotnościom	żywotność:s	subst:pl:dat:f	pospolita	
+żywotności	żywotność:s	subst:pl:acc:f	pospolita	
+żywotności	żywotność:s	subst:pl:gen:f	pospolita	
+żywotności	żywotność:s	subst:pl:nom:f	pospolita	
+żywotności	żywotność:s	subst:pl:voc:f	pospolita	
+żywotności	żywotność:s	subst:sg:dat:f	pospolita	
+żywotności	żywotność:s	subst:sg:gen:f	pospolita	
+żywotności	żywotność:s	subst:sg:loc:f	pospolita	
+żywotności	żywotność:s	subst:sg:voc:f	pospolita	
+żywotność	żywotność:s	subst:sg:acc:f	pospolita	
+żywotność	żywotność:s	subst:sg:nom:f	pospolita	
+żywotnościach	żywotność:s	subst:pl:loc:f		
+żywotnościami	żywotność:s	subst:pl:inst:f		
+żywotnością	żywotność:s	subst:sg:inst:f		
+żywotnościom	żywotność:s	subst:pl:dat:f		
+żywotności	żywotność:s	subst:pl:acc:f		
+żywotności	żywotność:s	subst:pl:gen:f		
+żywotności	żywotność:s	subst:pl:nom:f		
+żywotności	żywotność:s	subst:pl:voc:f		
+żywotności	żywotność:s	subst:sg:dat:f		
+żywotności	żywotność:s	subst:sg:gen:f		
+żywotności	żywotność:s	subst:sg:loc:f		
+żywotności	żywotność:s	subst:sg:voc:f		
+żywotność	żywotność:s	subst:sg:acc:f		
+żywotność	żywotność:s	subst:sg:nom:f		
 żywotna	żywotny	adj:sg:nom.voc:f:pos		
 żywotną	żywotny	adj:sg:acc:f:pos		
 żywotną	żywotny	adj:sg:inst:f:pos		
@@ -25295,34 +25295,34 @@
 żyznościowym	żyznościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 żyznościowy	żyznościowy	adj:sg:acc:m3:pos		
 żyznościowy	żyznościowy	adj:sg:nom.voc:m1.m2.m3:pos		
-żyznościach	żyzność:s1	subst:pl:loc:f	pospolita	
-żyznościami	żyzność:s1	subst:pl:inst:f	pospolita	
-żyznością	żyzność:s1	subst:sg:inst:f	pospolita	
-żyznościom	żyzność:s1	subst:pl:dat:f	pospolita	
-żyzności	żyzność:s1	subst:pl:acc:f	pospolita	
-żyzności	żyzność:s1	subst:pl:gen:f	pospolita	
-żyzności	żyzność:s1	subst:pl:nom:f	pospolita	
-żyzności	żyzność:s1	subst:pl:voc:f	pospolita	
-żyzności	żyzność:s1	subst:sg:dat:f	pospolita	
-żyzności	żyzność:s1	subst:sg:gen:f	pospolita	
-żyzności	żyzność:s1	subst:sg:loc:f	pospolita	
-żyzności	żyzność:s1	subst:sg:voc:f	pospolita	
-żyzność	żyzność:s1	subst:sg:acc:f	pospolita	
-żyzność	żyzność:s1	subst:sg:nom:f	pospolita	
-żyznościach	żyzność:s2	subst:pl:loc:f		
-żyznościami	żyzność:s2	subst:pl:inst:f		
-żyznością	żyzność:s2	subst:sg:inst:f		
-żyznościom	żyzność:s2	subst:pl:dat:f		
-żyzności	żyzność:s2	subst:pl:acc:f		
-żyzności	żyzność:s2	subst:pl:gen:f		
-żyzności	żyzność:s2	subst:pl:nom:f		
-żyzności	żyzność:s2	subst:pl:voc:f		
-żyzności	żyzność:s2	subst:sg:dat:f		
-żyzności	żyzność:s2	subst:sg:gen:f		
-żyzności	żyzność:s2	subst:sg:loc:f		
-żyzności	żyzność:s2	subst:sg:voc:f		
-żyzność	żyzność:s2	subst:sg:acc:f		
-żyzność	żyzność:s2	subst:sg:nom:f		
+żyznościach	żyzność:s	subst:pl:loc:f	pospolita	
+żyznościami	żyzność:s	subst:pl:inst:f	pospolita	
+żyznością	żyzność:s	subst:sg:inst:f	pospolita	
+żyznościom	żyzność:s	subst:pl:dat:f	pospolita	
+żyzności	żyzność:s	subst:pl:acc:f	pospolita	
+żyzności	żyzność:s	subst:pl:gen:f	pospolita	
+żyzności	żyzność:s	subst:pl:nom:f	pospolita	
+żyzności	żyzność:s	subst:pl:voc:f	pospolita	
+żyzności	żyzność:s	subst:sg:dat:f	pospolita	
+żyzności	żyzność:s	subst:sg:gen:f	pospolita	
+żyzności	żyzność:s	subst:sg:loc:f	pospolita	
+żyzności	żyzność:s	subst:sg:voc:f	pospolita	
+żyzność	żyzność:s	subst:sg:acc:f	pospolita	
+żyzność	żyzność:s	subst:sg:nom:f	pospolita	
+żyznościach	żyzność:s	subst:pl:loc:f		
+żyznościami	żyzność:s	subst:pl:inst:f		
+żyznością	żyzność:s	subst:sg:inst:f		
+żyznościom	żyzność:s	subst:pl:dat:f		
+żyzności	żyzność:s	subst:pl:acc:f		
+żyzności	żyzność:s	subst:pl:gen:f		
+żyzności	żyzność:s	subst:pl:nom:f		
+żyzności	żyzność:s	subst:pl:voc:f		
+żyzności	żyzność:s	subst:sg:dat:f		
+żyzności	żyzność:s	subst:sg:gen:f		
+żyzności	żyzność:s	subst:sg:loc:f		
+żyzności	żyzność:s	subst:sg:voc:f		
+żyzność	żyzność:s	subst:sg:acc:f		
+żyzność	żyzność:s	subst:sg:nom:f		
 żyzna	żyzny	adj:sg:nom.voc:f:pos		
 żyzną	żyzny	adj:sg:acc:f:pos		
 żyzną	żyzny	adj:sg:inst:f:pos		

@@ -39,7 +39,7 @@ Jabłonkowie	Jabłonków	subst:sg:voc:m3	geograficzna
 Jabłonkowom	Jabłonków	subst:pl:dat:m3	geograficzna	
 Jabłonkowowi	Jabłonków	subst:sg:dat:m3	geograficzna	
 Jabłonkowów	Jabłonków	subst:pl:gen:m3	geograficzna	
-Jabłonkowu	Jabłonków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Jabłonkowu	Jabłonków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Jabłonkowy	Jabłonków	subst:pl:acc:m3	geograficzna	
 Jabłonkowy	Jabłonków	subst:pl:nom:m3	geograficzna	
 Jabłonkowy	Jabłonków	subst:pl:voc:m3	geograficzna	
@@ -357,7 +357,7 @@ Jadowie	Jadów	subst:sg:voc:m3	geograficzna
 Jadowom	Jadów	subst:pl:dat:m3	geograficzna	
 Jadowowi	Jadów	subst:sg:dat:m3	geograficzna	
 Jadowów	Jadów	subst:pl:gen:m3	geograficzna	
-Jadowu	Jadów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Jadowu	Jadów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Jadowy	Jadów	subst:pl:acc:m3	geograficzna	
 Jadowy	Jadów	subst:pl:nom:m3	geograficzna	
 Jadowy	Jadów	subst:pl:voc:m3	geograficzna	
@@ -556,22 +556,22 @@ Jaggery	Jagger	depr:pl:nom:m2	nazwisko
 Jaggery	Jagger	depr:pl:voc:m2	nazwisko	
 Jaggerze	Jagger	subst:sg:loc:m1	nazwisko	
 Jaggerze	Jagger	subst:sg:voc:m1	nazwisko	
-Jagiellonach	Jagiellon	subst:pl:loc:m1	członek rodu	
-Jagiellona	Jagiellon	subst:sg:acc:m1	członek rodu	
-Jagiellona	Jagiellon	subst:sg:gen:m1	członek rodu	
-Jagiellonami	Jagiellon	subst:pl:inst:m1	członek rodu	
-Jagiellonem	Jagiellon	subst:sg:inst:m1	członek rodu	
-Jagiellonie	Jagiellon	subst:sg:loc:m1	członek rodu	
-Jagiellonie	Jagiellon	subst:sg:voc:m1	członek rodu	
-Jagiellon	Jagiellon	subst:sg:nom:m1	członek rodu	
-Jagiellonom	Jagiellon	subst:pl:dat:m1	członek rodu	
-Jagiellonowie	Jagiellon	subst:pl:nom:m1	członek rodu	
-Jagiellonowie	Jagiellon	subst:pl:voc:m1	członek rodu	
-Jagiellonowi	Jagiellon	subst:sg:dat:m1	członek rodu	
-Jagiellonów	Jagiellon	subst:pl:acc:m1	członek rodu	
-Jagiellonów	Jagiellon	subst:pl:gen:m1	członek rodu	
-Jagiellony	Jagiellon	depr:pl:nom:m2	członek rodu	
-Jagiellony	Jagiellon	depr:pl:voc:m2	członek rodu	
+Jagiellonach	Jagiellon	subst:pl:loc:m1	członek_rodu	
+Jagiellona	Jagiellon	subst:sg:acc:m1	członek_rodu	
+Jagiellona	Jagiellon	subst:sg:gen:m1	członek_rodu	
+Jagiellonami	Jagiellon	subst:pl:inst:m1	członek_rodu	
+Jagiellonem	Jagiellon	subst:sg:inst:m1	członek_rodu	
+Jagiellonie	Jagiellon	subst:sg:loc:m1	członek_rodu	
+Jagiellonie	Jagiellon	subst:sg:voc:m1	członek_rodu	
+Jagiellon	Jagiellon	subst:sg:nom:m1	członek_rodu	
+Jagiellonom	Jagiellon	subst:pl:dat:m1	członek_rodu	
+Jagiellonowie	Jagiellon	subst:pl:nom:m1	członek_rodu	
+Jagiellonowie	Jagiellon	subst:pl:voc:m1	członek_rodu	
+Jagiellonowi	Jagiellon	subst:sg:dat:m1	członek_rodu	
+Jagiellonów	Jagiellon	subst:pl:acc:m1	członek_rodu	
+Jagiellonów	Jagiellon	subst:pl:gen:m1	członek_rodu	
+Jagiellony	Jagiellon	depr:pl:nom:m2	członek_rodu	
+Jagiellony	Jagiellon	depr:pl:voc:m2	członek_rodu	
 Jagielloniach	Jagiellonia	subst:pl:loc:f	organizacja	
 Jagiellonia	Jagiellonia	subst:sg:nom:f	organizacja	
 Jagielloniami	Jagiellonia	subst:pl:inst:f	organizacja	
@@ -914,7 +914,7 @@ Jaktorowie	Jaktorów	subst:sg:voc:m3	geograficzna
 Jaktorowom	Jaktorów	subst:pl:dat:m3	geograficzna	
 Jaktorowowi	Jaktorów	subst:sg:dat:m3	geograficzna	
 Jaktorowów	Jaktorów	subst:pl:gen:m3	geograficzna	
-Jaktorowu	Jaktorów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Jaktorowu	Jaktorów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Jaktorowy	Jaktorów	subst:pl:acc:m3	geograficzna	
 Jaktorowy	Jaktorów	subst:pl:nom:m3	geograficzna	
 Jaktorowy	Jaktorów	subst:pl:voc:m3	geograficzna	
@@ -1023,7 +1023,7 @@ Jakubowie	Jakubów	subst:sg:voc:m3	geograficzna
 Jakubowom	Jakubów	subst:pl:dat:m3	geograficzna	
 Jakubowowi	Jakubów	subst:sg:dat:m3	geograficzna	
 Jakubowów	Jakubów	subst:pl:gen:m3	geograficzna	
-Jakubowu	Jakubów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Jakubowu	Jakubów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Jakubowy	Jakubów	subst:pl:acc:m3	geograficzna	
 Jakubowy	Jakubów	subst:pl:nom:m3	geograficzna	
 Jakubowy	Jakubów	subst:pl:voc:m3	geograficzna	
@@ -1816,7 +1816,7 @@ Janowie	Janów:s1	subst:sg:voc:m3	geograficzna
 Janowom	Janów:s1	subst:pl:dat:m3	geograficzna	
 Janowowi	Janów:s1	subst:sg:dat:m3	geograficzna	
 Janowów	Janów:s1	subst:pl:gen:m3	geograficzna	
-Janowu	Janów:s1	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Janowu	Janów:s1	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Janowy	Janów:s1	subst:pl:acc:m3	geograficzna	
 Janowy	Janów:s1	subst:pl:nom:m3	geograficzna	
 Janowy	Janów:s1	subst:pl:voc:m3	geograficzna	
@@ -2145,7 +2145,7 @@ Jarczowie	Jarczów	subst:sg:voc:m3	geograficzna
 Jarczowom	Jarczów	subst:pl:dat:m3	geograficzna	
 Jarczowowi	Jarczów	subst:sg:dat:m3	geograficzna	
 Jarczowów	Jarczów	subst:pl:gen:m3	geograficzna	
-Jarczowu	Jarczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Jarczowu	Jarczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Jarczowy	Jarczów	subst:pl:acc:m3	geograficzna	
 Jarczowy	Jarczów	subst:pl:nom:m3	geograficzna	
 Jarczowy	Jarczów	subst:pl:voc:m3	geograficzna	
@@ -3006,7 +3006,7 @@ Jastkowie	Jastków	subst:sg:voc:m3	geograficzna
 Jastkowom	Jastków	subst:pl:dat:m3	geograficzna	
 Jastkowowi	Jastków	subst:sg:dat:m3	geograficzna	
 Jastkowów	Jastków	subst:pl:gen:m3	geograficzna	
-Jastkowu	Jastków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Jastkowu	Jastków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Jastkowy	Jastków	subst:pl:acc:m3	geograficzna	
 Jastkowy	Jastków	subst:pl:nom:m3	geograficzna	
 Jastkowy	Jastków	subst:pl:voc:m3	geograficzna	
@@ -3199,47 +3199,47 @@ Jaślisk	Jaśliska	subst:pl:gen:p2	geograficzna
 Jaślisk	Jaśliska	subst:pl:gen:p3	geograficzna	
 Jaśliskom	Jaśliska	subst:pl:dat:p2	geograficzna	
 Jaśliskom	Jaśliska	subst:pl:dat:p3	geograficzna	
-Javach	Java	subst:pl:loc:f	język programowania	komp.
-Java	Java	subst:pl:acc:f	język programowania	komp.
-Java	Java	subst:pl:dat:f	język programowania	komp.
-Java	Java	subst:pl:gen:f	język programowania	komp.
-Java	Java	subst:pl:inst:f	język programowania	komp.
-Java	Java	subst:pl:loc:f	język programowania	komp.
-Java	Java	subst:pl:nom:f	język programowania	komp.
-Java	Java	subst:pl:voc:f	język programowania	komp.
-Java	Java	subst:sg:acc:f	język programowania	komp.
-Java	Java	subst:sg:dat:f	język programowania	komp.
-Java	Java	subst:sg:gen:f	język programowania	komp.
-Java	Java	subst:sg:inst:f	język programowania	komp.
-Java	Java	subst:sg:loc:f	język programowania	komp.
-Java	Java	subst:sg:nom:f	język programowania	komp.
-Java	Java	subst:sg:voc:f	język programowania	komp.
-Javami	Java	subst:pl:inst:f	język programowania	komp.
-Javą	Java	subst:sg:inst:f	język programowania	komp.
-Javę	Java	subst:sg:acc:f	język programowania	komp.
-Javie	Java	subst:sg:dat:f	język programowania	komp.
-Javie	Java	subst:sg:loc:f	język programowania	komp.
-Jav	Java	subst:pl:gen:f	język programowania	komp.
-Javo	Java	subst:sg:voc:f	język programowania	komp.
-Javom	Java	subst:pl:dat:f	język programowania	komp.
-Javy	Java	subst:pl:acc:f	język programowania	komp.
-Javy	Java	subst:pl:nom:f	język programowania	komp.
-Javy	Java	subst:pl:voc:f	język programowania	komp.
-Javy	Java	subst:sg:gen:f	język programowania	komp.
-JavaScripcie	JavaScript	subst:sg:loc:m3	język programowania	komp.
-JavaScripcie	JavaScript	subst:sg:voc:m3	język programowania	komp.
-JavaScriptach	JavaScript	subst:pl:loc:m3	język programowania	komp.
-JavaScriptami	JavaScript	subst:pl:inst:m3	język programowania	komp.
-JavaScriptem	JavaScript	subst:sg:inst:m3	język programowania	komp.
-JavaScript	JavaScript	subst:sg:acc:m3	język programowania	komp.
-JavaScript	JavaScript	subst:sg:nom:m3	język programowania	komp.
-JavaScriptom	JavaScript	subst:pl:dat:m3	język programowania	komp.
-JavaScriptowi	JavaScript	subst:sg:dat:m3	język programowania	komp.
-JavaScriptów	JavaScript	subst:pl:gen:m3	język programowania	komp.
-JavaScriptu	JavaScript	subst:sg:gen:m3	język programowania	komp.
-JavaScripty	JavaScript	subst:pl:acc:m3	język programowania	komp.
-JavaScripty	JavaScript	subst:pl:nom:m3	język programowania	komp.
-JavaScripty	JavaScript	subst:pl:voc:m3	język programowania	komp.
+Javach	Java	subst:pl:loc:f	język_programowania	komp.
+Java	Java	subst:pl:acc:f	język_programowania	komp.
+Java	Java	subst:pl:dat:f	język_programowania	komp.
+Java	Java	subst:pl:gen:f	język_programowania	komp.
+Java	Java	subst:pl:inst:f	język_programowania	komp.
+Java	Java	subst:pl:loc:f	język_programowania	komp.
+Java	Java	subst:pl:nom:f	język_programowania	komp.
+Java	Java	subst:pl:voc:f	język_programowania	komp.
+Java	Java	subst:sg:acc:f	język_programowania	komp.
+Java	Java	subst:sg:dat:f	język_programowania	komp.
+Java	Java	subst:sg:gen:f	język_programowania	komp.
+Java	Java	subst:sg:inst:f	język_programowania	komp.
+Java	Java	subst:sg:loc:f	język_programowania	komp.
+Java	Java	subst:sg:nom:f	język_programowania	komp.
+Java	Java	subst:sg:voc:f	język_programowania	komp.
+Javami	Java	subst:pl:inst:f	język_programowania	komp.
+Javą	Java	subst:sg:inst:f	język_programowania	komp.
+Javę	Java	subst:sg:acc:f	język_programowania	komp.
+Javie	Java	subst:sg:dat:f	język_programowania	komp.
+Javie	Java	subst:sg:loc:f	język_programowania	komp.
+Jav	Java	subst:pl:gen:f	język_programowania	komp.
+Javo	Java	subst:sg:voc:f	język_programowania	komp.
+Javom	Java	subst:pl:dat:f	język_programowania	komp.
+Javy	Java	subst:pl:acc:f	język_programowania	komp.
+Javy	Java	subst:pl:nom:f	język_programowania	komp.
+Javy	Java	subst:pl:voc:f	język_programowania	komp.
+Javy	Java	subst:sg:gen:f	język_programowania	komp.
+JavaScripcie	JavaScript	subst:sg:loc:m3	język_programowania	komp.
+JavaScripcie	JavaScript	subst:sg:voc:m3	język_programowania	komp.
+JavaScriptach	JavaScript	subst:pl:loc:m3	język_programowania	komp.
+JavaScriptami	JavaScript	subst:pl:inst:m3	język_programowania	komp.
+JavaScriptem	JavaScript	subst:sg:inst:m3	język_programowania	komp.
+JavaScript	JavaScript	subst:sg:acc:m3	język_programowania	komp.
+JavaScript	JavaScript	subst:sg:nom:m3	język_programowania	komp.
+JavaScriptom	JavaScript	subst:pl:dat:m3	język_programowania	komp.
+JavaScriptowi	JavaScript	subst:sg:dat:m3	język_programowania	komp.
+JavaScriptów	JavaScript	subst:pl:gen:m3	język_programowania	komp.
+JavaScriptu	JavaScript	subst:sg:gen:m3	język_programowania	komp.
+JavaScripty	JavaScript	subst:pl:acc:m3	język_programowania	komp.
+JavaScripty	JavaScript	subst:pl:nom:m3	język_programowania	komp.
+JavaScripty	JavaScript	subst:pl:voc:m3	język_programowania	komp.
 Jawach	Jawa	subst:pl:loc:f	geograficzna	
 Jawa	Jawa	subst:sg:nom:f	geograficzna	
 Jawami	Jawa	subst:pl:inst:f	geograficzna	
@@ -3307,7 +3307,7 @@ Jaworowie	Jaworów	subst:sg:voc:m3	geograficzna
 Jaworowom	Jaworów	subst:pl:dat:m3	geograficzna	
 Jaworowowi	Jaworów	subst:sg:dat:m3	geograficzna	
 Jaworowów	Jaworów	subst:pl:gen:m3	geograficzna	
-Jaworowu	Jaworów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Jaworowu	Jaworów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Jaworowy	Jaworów	subst:pl:acc:m3	geograficzna	
 Jaworowy	Jaworów	subst:pl:nom:m3	geograficzna	
 Jaworowy	Jaworów	subst:pl:voc:m3	geograficzna	
@@ -3914,22 +3914,22 @@ Jesieninów	Jesienin	subst:pl:acc:m1	nazwisko
 Jesieninów	Jesienin	subst:pl:gen:m1	nazwisko	
 Jesieniny	Jesienin	depr:pl:nom:m2	nazwisko	
 Jesieniny	Jesienin	depr:pl:voc:m2	nazwisko	
-Jeske	Jeske	depr:pl:nom:m2	człon nazwiska (herb)	
-Jeske	Jeske	depr:pl:voc:m2	człon nazwiska (herb)	
-Jeske	Jeske	subst:pl:acc:m1	człon nazwiska (herb)	
-Jeske	Jeske	subst:pl:dat:m1	człon nazwiska (herb)	
-Jeske	Jeske	subst:pl:gen:m1	człon nazwiska (herb)	
-Jeske	Jeske	subst:pl:inst:m1	człon nazwiska (herb)	
-Jeske	Jeske	subst:pl:loc:m1	człon nazwiska (herb)	
-Jeske	Jeske	subst:pl:nom:m1	człon nazwiska (herb)	
-Jeske	Jeske	subst:pl:voc:m1	człon nazwiska (herb)	
-Jeske	Jeske	subst:sg:acc:m1	człon nazwiska (herb)	
-Jeske	Jeske	subst:sg:dat:m1	człon nazwiska (herb)	
-Jeske	Jeske	subst:sg:gen:m1	człon nazwiska (herb)	
-Jeske	Jeske	subst:sg:inst:m1	człon nazwiska (herb)	
-Jeske	Jeske	subst:sg:loc:m1	człon nazwiska (herb)	
-Jeske	Jeske	subst:sg:nom:m1	człon nazwiska (herb)	
-Jeske	Jeske	subst:sg:voc:m1	człon nazwiska (herb)	
+Jeske	Jeske	depr:pl:nom:m2	człon_nazwiska_(herb)	
+Jeske	Jeske	depr:pl:voc:m2	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:pl:acc:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:pl:dat:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:pl:gen:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:pl:inst:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:pl:loc:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:pl:nom:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:pl:voc:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:sg:acc:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:sg:dat:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:sg:gen:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:sg:inst:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:sg:loc:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:sg:nom:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	subst:sg:voc:m1	człon_nazwiska_(herb)	
 Jeszuach	Jeszua	subst:pl:loc:m1	imię	
 Jeszua	Jeszua	subst:sg:nom:m1	imię	
 Jeszuami	Jeszua	subst:pl:inst:m1	imię	
@@ -4138,7 +4138,7 @@ Jeżowie	Jeżów	subst:sg:voc:m3	geograficzna
 Jeżowom	Jeżów	subst:pl:dat:m3	geograficzna	
 Jeżowowi	Jeżów	subst:sg:dat:m3	geograficzna	
 Jeżowów	Jeżów	subst:pl:gen:m3	geograficzna	
-Jeżowu	Jeżów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Jeżowu	Jeżów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Jeżowy	Jeżów	subst:pl:acc:m3	geograficzna	
 Jeżowy	Jeżów	subst:pl:nom:m3	geograficzna	
 Jeżowy	Jeżów	subst:pl:voc:m3	geograficzna	
@@ -4327,28 +4327,28 @@ Jędrzejowie	Jędrzejów	subst:sg:voc:m3	geograficzna
 Jędrzejowom	Jędrzejów	subst:pl:dat:m3	geograficzna	
 Jędrzejowowi	Jędrzejów	subst:sg:dat:m3	geograficzna	
 Jędrzejowów	Jędrzejów	subst:pl:gen:m3	geograficzna	
-Jędrzejowu	Jędrzejów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Jędrzejowu	Jędrzejów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Jędrzejowy	Jędrzejów	subst:pl:acc:m3	geograficzna	
 Jędrzejowy	Jędrzejów	subst:pl:nom:m3	geograficzna	
 Jędrzejowy	Jędrzejów	subst:pl:voc:m3	geograficzna	
 Jędrzejów	Jędrzejów	subst:sg:acc:m3	geograficzna	
 Jędrzejów	Jędrzejów	subst:sg:nom:m3	geograficzna	
-Jiangach	Jiang	subst:pl:loc:m1	własna	człon n. wł.
-Jianga	Jiang	subst:sg:acc:m1	własna	człon n. wł.
-Jianga	Jiang	subst:sg:gen:m1	własna	człon n. wł.
-Jiangami	Jiang	subst:pl:inst:m1	własna	człon n. wł.
-Jiangiem	Jiang	subst:sg:inst:m1	własna	człon n. wł.
-Jiangi	Jiang	depr:pl:nom:m2	własna	człon n. wł.
-Jiangi	Jiang	depr:pl:voc:m2	własna	człon n. wł.
-Jiang	Jiang	subst:sg:nom:m1	własna	człon n. wł.
-Jiangom	Jiang	subst:pl:dat:m1	własna	człon n. wł.
-Jiangowie	Jiang	subst:pl:nom:m1	własna	człon n. wł.
-Jiangowie	Jiang	subst:pl:voc:m1	własna	człon n. wł.
-Jiangowi	Jiang	subst:sg:dat:m1	własna	człon n. wł.
-Jiangów	Jiang	subst:pl:acc:m1	własna	człon n. wł.
-Jiangów	Jiang	subst:pl:gen:m1	własna	człon n. wł.
-Jiangu	Jiang	subst:sg:loc:m1	własna	człon n. wł.
-Jiangu	Jiang	subst:sg:voc:m1	własna	człon n. wł.
+Jiangach	Jiang	subst:pl:loc:m1	własna	człon_n._wł.
+Jianga	Jiang	subst:sg:acc:m1	własna	człon_n._wł.
+Jianga	Jiang	subst:sg:gen:m1	własna	człon_n._wł.
+Jiangami	Jiang	subst:pl:inst:m1	własna	człon_n._wł.
+Jiangiem	Jiang	subst:sg:inst:m1	własna	człon_n._wł.
+Jiangi	Jiang	depr:pl:nom:m2	własna	człon_n._wł.
+Jiangi	Jiang	depr:pl:voc:m2	własna	człon_n._wł.
+Jiang	Jiang	subst:sg:nom:m1	własna	człon_n._wł.
+Jiangom	Jiang	subst:pl:dat:m1	własna	człon_n._wł.
+Jiangowie	Jiang	subst:pl:nom:m1	własna	człon_n._wł.
+Jiangowie	Jiang	subst:pl:voc:m1	własna	człon_n._wł.
+Jiangowi	Jiang	subst:sg:dat:m1	własna	człon_n._wł.
+Jiangów	Jiang	subst:pl:acc:m1	własna	człon_n._wł.
+Jiangów	Jiang	subst:pl:gen:m1	własna	człon_n._wł.
+Jiangu	Jiang	subst:sg:loc:m1	własna	człon_n._wł.
+Jiangu	Jiang	subst:sg:voc:m1	własna	człon_n._wł.
 Jimach	Jim	subst:pl:loc:m1	imię	
 Jima	Jim	subst:sg:acc:m1	imię	
 Jima	Jim	subst:sg:gen:m1	imię	
@@ -4937,7 +4937,7 @@ Jordanowie	Jordanów	subst:sg:voc:m3	geograficzna
 Jordanowom	Jordanów	subst:pl:dat:m3	geograficzna	
 Jordanowowi	Jordanów	subst:sg:dat:m3	geograficzna	
 Jordanowów	Jordanów	subst:pl:gen:m3	geograficzna	
-Jordanowu	Jordanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Jordanowu	Jordanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Jordanowy	Jordanów	subst:pl:acc:m3	geograficzna	
 Jordanowy	Jordanów	subst:pl:nom:m3	geograficzna	
 Jordanowy	Jordanów	subst:pl:voc:m3	geograficzna	
@@ -5379,7 +5379,7 @@ Józefowie	Józefów	subst:sg:voc:m3	geograficzna
 Józefowom	Józefów	subst:pl:dat:m3	geograficzna	
 Józefowowi	Józefów	subst:sg:dat:m3	geograficzna	
 Józefowów	Józefów	subst:pl:gen:m3	geograficzna	
-Józefowu	Józefów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Józefowu	Józefów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Józefowy	Józefów	subst:pl:acc:m3	geograficzna	
 Józefowy	Józefów	subst:pl:nom:m3	geograficzna	
 Józefowy	Józefów	subst:pl:voc:m3	geograficzna	
@@ -6154,7 +6154,7 @@ Jurgowie	Jurgów	subst:sg:voc:m3	geograficzna
 Jurgowom	Jurgów	subst:pl:dat:m3	geograficzna	
 Jurgowowi	Jurgów	subst:sg:dat:m3	geograficzna	
 Jurgowów	Jurgów	subst:pl:gen:m3	geograficzna	
-Jurgowu	Jurgów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Jurgowu	Jurgów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Jurgowy	Jurgów	subst:pl:acc:m3	geograficzna	
 Jurgowy	Jurgów	subst:pl:nom:m3	geograficzna	
 Jurgowy	Jurgów	subst:pl:voc:m3	geograficzna	

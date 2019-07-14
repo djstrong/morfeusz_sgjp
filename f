@@ -620,37 +620,37 @@ fabularyzuję	fabularyzować	fin:sg:pri:imperf
 fabularyzuj	fabularyzować	impt:sg:sec:imperf		
 fabularyzujmy	fabularyzować	impt:pl:pri:imperf		
 fabularzach	fabularz	subst:pl:loc:m1	pospolita	przest.
-fabularzach	fabularz	subst:pl:loc:m1	pospolita	rzad.|przest.
+fabularzach	fabularz	subst:pl:loc:m1	pospolita	przest.|rzad.
 fabularza	fabularz	subst:sg:acc:m1	pospolita	przest.
-fabularza	fabularz	subst:sg:acc:m1	pospolita	rzad.|przest.
+fabularza	fabularz	subst:sg:acc:m1	pospolita	przest.|rzad.
 fabularza	fabularz	subst:sg:gen:m1	pospolita	przest.
-fabularza	fabularz	subst:sg:gen:m1	pospolita	rzad.|przest.
+fabularza	fabularz	subst:sg:gen:m1	pospolita	przest.|rzad.
 fabularzami	fabularz	subst:pl:inst:m1	pospolita	przest.
-fabularzami	fabularz	subst:pl:inst:m1	pospolita	rzad.|przest.
+fabularzami	fabularz	subst:pl:inst:m1	pospolita	przest.|rzad.
 fabularze	fabularz	depr:pl:nom:m2	pospolita	przest.
-fabularze	fabularz	depr:pl:nom:m2	pospolita	rzad.|przest.
+fabularze	fabularz	depr:pl:nom:m2	pospolita	przest.|rzad.
 fabularze	fabularz	depr:pl:voc:m2	pospolita	przest.
-fabularze	fabularz	depr:pl:voc:m2	pospolita	rzad.|przest.
+fabularze	fabularz	depr:pl:voc:m2	pospolita	przest.|rzad.
 fabularze	fabularz	subst:pl:nom:m1	pospolita	przest.
-fabularze	fabularz	subst:pl:nom:m1	pospolita	rzad.|przest.
+fabularze	fabularz	subst:pl:nom:m1	pospolita	przest.|rzad.
 fabularze	fabularz	subst:pl:voc:m1	pospolita	przest.
-fabularze	fabularz	subst:pl:voc:m1	pospolita	rzad.|przest.
+fabularze	fabularz	subst:pl:voc:m1	pospolita	przest.|rzad.
 fabularzem	fabularz	subst:sg:inst:m1	pospolita	przest.
-fabularzem	fabularz	subst:sg:inst:m1	pospolita	rzad.|przest.
+fabularzem	fabularz	subst:sg:inst:m1	pospolita	przest.|rzad.
 fabularz	fabularz	subst:sg:nom:m1	pospolita	przest.
-fabularz	fabularz	subst:sg:nom:m1	pospolita	rzad.|przest.
+fabularz	fabularz	subst:sg:nom:m1	pospolita	przest.|rzad.
 fabularzom	fabularz	subst:pl:dat:m1	pospolita	przest.
-fabularzom	fabularz	subst:pl:dat:m1	pospolita	rzad.|przest.
+fabularzom	fabularz	subst:pl:dat:m1	pospolita	przest.|rzad.
 fabularzowi	fabularz	subst:sg:dat:m1	pospolita	przest.
-fabularzowi	fabularz	subst:sg:dat:m1	pospolita	rzad.|przest.
+fabularzowi	fabularz	subst:sg:dat:m1	pospolita	przest.|rzad.
 fabularzu	fabularz	subst:sg:loc:m1	pospolita	przest.
-fabularzu	fabularz	subst:sg:loc:m1	pospolita	rzad.|przest.
+fabularzu	fabularz	subst:sg:loc:m1	pospolita	przest.|rzad.
 fabularzu	fabularz	subst:sg:voc:m1	pospolita	przest.
-fabularzu	fabularz	subst:sg:voc:m1	pospolita	rzad.|przest.
+fabularzu	fabularz	subst:sg:voc:m1	pospolita	przest.|rzad.
 fabularzy	fabularz	subst:pl:acc:m1	pospolita	przest.
-fabularzy	fabularz	subst:pl:acc:m1	pospolita	rzad.|przest.
+fabularzy	fabularz	subst:pl:acc:m1	pospolita	przest.|rzad.
 fabularzy	fabularz	subst:pl:gen:m1	pospolita	przest.
-fabularzy	fabularz	subst:pl:gen:m1	pospolita	rzad.|przest.
+fabularzy	fabularz	subst:pl:gen:m1	pospolita	przest.|rzad.
 fabularzystach	fabularzysta	subst:pl:loc:m1	pospolita	
 fabularzysta	fabularzysta	subst:sg:nom:m1	pospolita	
 fabularzystami	fabularzysta	subst:pl:inst:m1	pospolita	
@@ -2490,7 +2490,7 @@ fajczarnie	fajczarnia	subst:pl:acc:f	pospolita	daw.
 fajczarnie	fajczarnia	subst:pl:nom:f	pospolita	daw.
 fajczarnie	fajczarnia	subst:pl:voc:f	pospolita	daw.
 fajczarnię	fajczarnia	subst:sg:acc:f	pospolita	daw.
-fajczarni	fajczarnia	subst:pl:gen:f	pospolita	daw.|hom.
+fajczarni	fajczarnia	subst:pl:gen:f	pospolita	hom.|daw.
 fajczarni	fajczarnia	subst:sg:dat:f	pospolita	daw.
 fajczarni	fajczarnia	subst:sg:gen:f	pospolita	daw.
 fajczarni	fajczarnia	subst:sg:loc:f	pospolita	daw.
@@ -3033,7 +3033,7 @@ fajkarnie	fajkarnia	subst:pl:acc:f	pospolita	daw.
 fajkarnie	fajkarnia	subst:pl:nom:f	pospolita	daw.
 fajkarnie	fajkarnia	subst:pl:voc:f	pospolita	daw.
 fajkarnię	fajkarnia	subst:sg:acc:f	pospolita	daw.
-fajkarni	fajkarnia	subst:pl:gen:f	pospolita	daw.|hom.
+fajkarni	fajkarnia	subst:pl:gen:f	pospolita	hom.|daw.
 fajkarni	fajkarnia	subst:sg:dat:f	pospolita	daw.
 fajkarni	fajkarnia	subst:sg:gen:f	pospolita	daw.
 fajkarni	fajkarnia	subst:sg:loc:f	pospolita	daw.
@@ -3814,7 +3814,7 @@ fakcje	fakcja	subst:pl:acc:f	pospolita	daw.
 fakcje	fakcja	subst:pl:nom:f	pospolita	daw.
 fakcje	fakcja	subst:pl:voc:f	pospolita	daw.
 fakcję	fakcja	subst:sg:acc:f	pospolita	daw.
-fakcji	fakcja	subst:pl:gen:f	pospolita	daw.|hom.
+fakcji	fakcja	subst:pl:gen:f	pospolita	hom.|daw.
 fakcji	fakcja	subst:sg:dat:f	pospolita	daw.
 fakcji	fakcja	subst:sg:gen:f	pospolita	daw.
 fakcji	fakcja	subst:sg:loc:f	pospolita	daw.
@@ -7734,34 +7734,34 @@ fałszywki	fałszywka	subst:pl:voc:f	pospolita
 fałszywki	fałszywka	subst:sg:gen:f	pospolita	
 fałszywko	fałszywka	subst:sg:voc:f	pospolita	
 fałszywkom	fałszywka	subst:pl:dat:f	pospolita	
-fałszywościach	fałszywość:s1	subst:pl:loc:f	pospolita	
-fałszywościami	fałszywość:s1	subst:pl:inst:f	pospolita	
-fałszywością	fałszywość:s1	subst:sg:inst:f	pospolita	
-fałszywości	fałszywość:s1	subst:pl:acc:f	pospolita	
-fałszywości	fałszywość:s1	subst:pl:gen:f	pospolita	
-fałszywości	fałszywość:s1	subst:pl:nom:f	pospolita	
-fałszywości	fałszywość:s1	subst:pl:voc:f	pospolita	
-fałszywości	fałszywość:s1	subst:sg:dat:f	pospolita	
-fałszywości	fałszywość:s1	subst:sg:gen:f	pospolita	
-fałszywości	fałszywość:s1	subst:sg:loc:f	pospolita	
-fałszywości	fałszywość:s1	subst:sg:voc:f	pospolita	
-fałszywościom	fałszywość:s1	subst:pl:dat:f	pospolita	
-fałszywość	fałszywość:s1	subst:sg:acc:f	pospolita	
-fałszywość	fałszywość:s1	subst:sg:nom:f	pospolita	
-fałszywościach	fałszywość:s2	subst:pl:loc:f		
-fałszywościami	fałszywość:s2	subst:pl:inst:f		
-fałszywością	fałszywość:s2	subst:sg:inst:f		
-fałszywości	fałszywość:s2	subst:pl:acc:f		
-fałszywości	fałszywość:s2	subst:pl:gen:f		
-fałszywości	fałszywość:s2	subst:pl:nom:f		
-fałszywości	fałszywość:s2	subst:pl:voc:f		
-fałszywości	fałszywość:s2	subst:sg:dat:f		
-fałszywości	fałszywość:s2	subst:sg:gen:f		
-fałszywości	fałszywość:s2	subst:sg:loc:f		
-fałszywości	fałszywość:s2	subst:sg:voc:f		
-fałszywościom	fałszywość:s2	subst:pl:dat:f		
-fałszywość	fałszywość:s2	subst:sg:acc:f		
-fałszywość	fałszywość:s2	subst:sg:nom:f		
+fałszywościach	fałszywość:s	subst:pl:loc:f	pospolita	
+fałszywościami	fałszywość:s	subst:pl:inst:f	pospolita	
+fałszywością	fałszywość:s	subst:sg:inst:f	pospolita	
+fałszywości	fałszywość:s	subst:pl:acc:f	pospolita	
+fałszywości	fałszywość:s	subst:pl:gen:f	pospolita	
+fałszywości	fałszywość:s	subst:pl:nom:f	pospolita	
+fałszywości	fałszywość:s	subst:pl:voc:f	pospolita	
+fałszywości	fałszywość:s	subst:sg:dat:f	pospolita	
+fałszywości	fałszywość:s	subst:sg:gen:f	pospolita	
+fałszywości	fałszywość:s	subst:sg:loc:f	pospolita	
+fałszywości	fałszywość:s	subst:sg:voc:f	pospolita	
+fałszywościom	fałszywość:s	subst:pl:dat:f	pospolita	
+fałszywość	fałszywość:s	subst:sg:acc:f	pospolita	
+fałszywość	fałszywość:s	subst:sg:nom:f	pospolita	
+fałszywościach	fałszywość:s	subst:pl:loc:f		
+fałszywościami	fałszywość:s	subst:pl:inst:f		
+fałszywością	fałszywość:s	subst:sg:inst:f		
+fałszywości	fałszywość:s	subst:pl:acc:f		
+fałszywości	fałszywość:s	subst:pl:gen:f		
+fałszywości	fałszywość:s	subst:pl:nom:f		
+fałszywości	fałszywość:s	subst:pl:voc:f		
+fałszywości	fałszywość:s	subst:sg:dat:f		
+fałszywości	fałszywość:s	subst:sg:gen:f		
+fałszywości	fałszywość:s	subst:sg:loc:f		
+fałszywości	fałszywość:s	subst:sg:voc:f		
+fałszywościom	fałszywość:s	subst:pl:dat:f		
+fałszywość	fałszywość:s	subst:sg:acc:f		
+fałszywość	fałszywość:s	subst:sg:nom:f		
 fałszywa	fałszywy	adj:sg:nom.voc:f:pos		
 fałszywą	fałszywy	adj:sg:acc:f:pos		
 fałszywą	fałszywy	adj:sg:inst:f:pos		
@@ -10554,7 +10554,7 @@ farbiernie	farbiernia	subst:pl:acc:f	pospolita	daw.
 farbiernie	farbiernia	subst:pl:nom:f	pospolita	daw.
 farbiernie	farbiernia	subst:pl:voc:f	pospolita	daw.
 farbiernię	farbiernia	subst:sg:acc:f	pospolita	daw.
-farbierni	farbiernia	subst:pl:gen:f	pospolita	daw.|hom.
+farbierni	farbiernia	subst:pl:gen:f	pospolita	hom.|daw.
 farbierni	farbiernia	subst:sg:dat:f	pospolita	daw.
 farbierni	farbiernia	subst:sg:gen:f	pospolita	daw.
 farbierni	farbiernia	subst:sg:loc:f	pospolita	daw.
@@ -10820,6 +10820,86 @@ farbonki	farbonka	subst:pl:voc:f	pospolita	gwar.
 farbonki	farbonka	subst:sg:gen:f	pospolita	gwar.
 farbonko	farbonka	subst:sg:voc:f	pospolita	gwar.
 farbonkom	farbonka	subst:pl:dat:f	pospolita	gwar.
+farbowana	farbować:v	ppas:sg:nom.voc:f:imperf:aff		
+farbowaną	farbować:v	ppas:sg:acc.inst:f:imperf:aff		
+farbowane	farbować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+farbowane	farbować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+farbowanego	farbować:v	ppas:sg:acc:m1.m2:imperf:aff		
+farbowanego	farbować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+farbowanej	farbować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+farbowanemu	farbować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+farbowania	farbować:v	ger:pl:nom.acc:n2:imperf:aff		
+farbowania	farbować:v	ger:sg:gen:n2:imperf:aff		
+farbowaniami	farbować:v	ger:pl:inst:n2:imperf:aff		
+farbowanie	farbować:v	ger:sg:nom.acc:n2:imperf:aff		
+farbowaniem	farbować:v	ger:sg:inst:n2:imperf:aff		
+farbowani	farbować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+farbowaniom	farbować:v	ger:pl:dat.loc:n2:imperf:aff		
+farbowaniu	farbować:v	ger:sg:dat.loc:n2:imperf:aff		
+farbowanych	farbować:v	ppas:pl:acc:m1.p1:imperf:aff		
+farbowanych	farbować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+farbowany	farbować:v	ppas:sg:acc:m3:imperf:aff		
+farbowany	farbować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+farbowanym	farbować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+farbowanym	farbować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+farbowanymi	farbować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+farbowań	farbować:v	ger:pl:gen:n2:imperf:aff		
+farbująca	farbować:v	pact:sg:nom.voc:f:imperf:aff		
+farbującą	farbować:v	pact:sg:acc.inst:f:imperf:aff		
+farbujące	farbować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+farbujące	farbować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+farbującego	farbować:v	pact:sg:acc:m1.m2:imperf:aff		
+farbującego	farbować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+farbującej	farbować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+farbującemu	farbować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+farbujących	farbować:v	pact:pl:acc:m1.p1:imperf:aff		
+farbujących	farbować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+farbujący	farbować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+farbujący	farbować:v	pact:sg:acc:m3:imperf:aff		
+farbujący	farbować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+farbującym	farbować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+farbującym	farbować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+farbującymi	farbować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+farbowana	farbować:v	ppas:sg:nom.voc:f:imperf:aff		
+farbowaną	farbować:v	ppas:sg:acc.inst:f:imperf:aff		
+farbowane	farbować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+farbowane	farbować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+farbowanego	farbować:v	ppas:sg:acc:m1.m2:imperf:aff		
+farbowanego	farbować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+farbowanej	farbować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+farbowanemu	farbować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+farbowania	farbować:v	ger:pl:nom.acc:n2:imperf:aff		
+farbowania	farbować:v	ger:sg:gen:n2:imperf:aff		
+farbowaniami	farbować:v	ger:pl:inst:n2:imperf:aff		
+farbowanie	farbować:v	ger:sg:nom.acc:n2:imperf:aff		
+farbowaniem	farbować:v	ger:sg:inst:n2:imperf:aff		
+farbowani	farbować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+farbowaniom	farbować:v	ger:pl:dat.loc:n2:imperf:aff		
+farbowaniu	farbować:v	ger:sg:dat.loc:n2:imperf:aff		
+farbowanych	farbować:v	ppas:pl:acc:m1.p1:imperf:aff		
+farbowanych	farbować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+farbowany	farbować:v	ppas:sg:acc:m3:imperf:aff		
+farbowany	farbować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+farbowanym	farbować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+farbowanym	farbować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+farbowanymi	farbować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+farbowań	farbować:v	ger:pl:gen:n2:imperf:aff		
+farbująca	farbować:v	pact:sg:nom.voc:f:imperf:aff		
+farbującą	farbować:v	pact:sg:acc.inst:f:imperf:aff		
+farbujące	farbować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+farbujące	farbować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+farbującego	farbować:v	pact:sg:acc:m1.m2:imperf:aff		
+farbującego	farbować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+farbującej	farbować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+farbującemu	farbować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+farbujących	farbować:v	pact:pl:acc:m1.p1:imperf:aff		
+farbujących	farbować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+farbujący	farbować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+farbujący	farbować:v	pact:sg:acc:m3:imperf:aff		
+farbujący	farbować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+farbującym	farbować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+farbującym	farbować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+farbującymi	farbować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 farbować	farbować:v1	inf:imperf		
 farbowaliby	farbować:v1	cond:pl:m1.p1:ter:imperf		
 farbowalibyście	farbować:v1	cond:pl:m1.p1:sec:imperf		
@@ -10856,48 +10936,8 @@ farbowały	farbować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 farbowały	farbować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 farbowałyście	farbować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 farbowałyśmy	farbować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-farbowana	farbować:v1	ppas:sg:nom.voc:f:imperf:aff		
-farbowaną	farbować:v1	ppas:sg:acc.inst:f:imperf:aff		
-farbowane	farbować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-farbowane	farbować:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-farbowanego	farbować:v1	ppas:sg:acc:m1.m2:imperf:aff		
-farbowanego	farbować:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-farbowanej	farbować:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
-farbowanemu	farbować:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-farbowania	farbować:v1	ger:pl:nom.acc:n2:imperf:aff		
-farbowania	farbować:v1	ger:sg:gen:n2:imperf:aff		
-farbowaniami	farbować:v1	ger:pl:inst:n2:imperf:aff		
-farbowanie	farbować:v1	ger:sg:nom.acc:n2:imperf:aff		
-farbowaniem	farbować:v1	ger:sg:inst:n2:imperf:aff		
-farbowani	farbować:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
-farbowaniom	farbować:v1	ger:pl:dat.loc:n2:imperf:aff		
-farbowaniu	farbować:v1	ger:sg:dat.loc:n2:imperf:aff		
 farbowano	farbować:v1	imps:imperf		
-farbowanych	farbować:v1	ppas:pl:acc:m1.p1:imperf:aff		
-farbowanych	farbować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-farbowany	farbować:v1	ppas:sg:acc:m3:imperf:aff		
-farbowany	farbować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-farbowanym	farbować:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-farbowanym	farbować:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-farbowanymi	farbować:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-farbowań	farbować:v1	ger:pl:gen:n2:imperf:aff		
-farbująca	farbować:v1	pact:sg:nom.voc:f:imperf:aff		
-farbującą	farbować:v1	pact:sg:acc.inst:f:imperf:aff		
-farbujące	farbować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-farbujące	farbować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-farbującego	farbować:v1	pact:sg:acc:m1.m2:imperf:aff		
-farbującego	farbować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-farbującej	farbować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-farbującemu	farbować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 farbując	farbować:v1	pcon:imperf		
-farbujących	farbować:v1	pact:pl:acc:m1.p1:imperf:aff		
-farbujących	farbować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-farbujący	farbować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-farbujący	farbować:v1	pact:sg:acc:m3:imperf:aff		
-farbujący	farbować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-farbującym	farbować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-farbującym	farbować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-farbującymi	farbować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 farbują	farbować:v1	fin:pl:ter:imperf		
 farbujcie	farbować:v1	impt:pl:sec:imperf		
 farbujecie	farbować:v1	fin:pl:sec:imperf		
@@ -10943,48 +10983,8 @@ farbowały	farbować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 farbowały	farbować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 farbowałyście	farbować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 farbowałyśmy	farbować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-farbowana	farbować:v2	ppas:sg:nom.voc:f:imperf:aff		
-farbowaną	farbować:v2	ppas:sg:acc.inst:f:imperf:aff		
-farbowane	farbować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-farbowane	farbować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-farbowanego	farbować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-farbowanego	farbować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-farbowanej	farbować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-farbowanemu	farbować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-farbowania	farbować:v2	ger:pl:nom.acc:n2:imperf:aff		
-farbowania	farbować:v2	ger:sg:gen:n2:imperf:aff		
-farbowaniami	farbować:v2	ger:pl:inst:n2:imperf:aff		
-farbowanie	farbować:v2	ger:sg:nom.acc:n2:imperf:aff		
-farbowaniem	farbować:v2	ger:sg:inst:n2:imperf:aff		
-farbowani	farbować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-farbowaniom	farbować:v2	ger:pl:dat.loc:n2:imperf:aff		
-farbowaniu	farbować:v2	ger:sg:dat.loc:n2:imperf:aff		
 farbowano	farbować:v2	imps:imperf		
-farbowanych	farbować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-farbowanych	farbować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-farbowany	farbować:v2	ppas:sg:acc:m3:imperf:aff		
-farbowany	farbować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-farbowanym	farbować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-farbowanym	farbować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-farbowanymi	farbować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-farbowań	farbować:v2	ger:pl:gen:n2:imperf:aff		
-farbująca	farbować:v2	pact:sg:nom.voc:f:imperf:aff		
-farbującą	farbować:v2	pact:sg:acc.inst:f:imperf:aff		
-farbujące	farbować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-farbujące	farbować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-farbującego	farbować:v2	pact:sg:acc:m1.m2:imperf:aff		
-farbującego	farbować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-farbującej	farbować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-farbującemu	farbować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 farbując	farbować:v2	pcon:imperf		
-farbujących	farbować:v2	pact:pl:acc:m1.p1:imperf:aff		
-farbujących	farbować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-farbujący	farbować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-farbujący	farbować:v2	pact:sg:acc:m3:imperf:aff		
-farbujący	farbować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-farbującym	farbować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-farbującym	farbować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-farbującymi	farbować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 farbują	farbować:v2	fin:pl:ter:imperf		
 farbujcie	farbować:v2	impt:pl:sec:imperf		
 farbujecie	farbować:v2	fin:pl:sec:imperf		
@@ -11291,7 +11291,7 @@ farfurnie	farfurnia	subst:pl:acc:f	pospolita	daw.
 farfurnie	farfurnia	subst:pl:nom:f	pospolita	daw.
 farfurnie	farfurnia	subst:pl:voc:f	pospolita	daw.
 farfurnię	farfurnia	subst:sg:acc:f	pospolita	daw.
-farfurni	farfurnia	subst:pl:gen:f	pospolita	daw.|hom.
+farfurni	farfurnia	subst:pl:gen:f	pospolita	hom.|daw.
 farfurni	farfurnia	subst:sg:dat:f	pospolita	daw.
 farfurni	farfurnia	subst:sg:gen:f	pospolita	daw.
 farfurni	farfurnia	subst:sg:loc:f	pospolita	daw.
@@ -13603,7 +13603,7 @@ fasje	fasja	subst:pl:acc:f	pospolita	daw.
 fasje	fasja	subst:pl:nom:f	pospolita	daw.
 fasje	fasja	subst:pl:voc:f	pospolita	daw.
 fasję	fasja	subst:sg:acc:f	pospolita	daw.
-fasji	fasja	subst:pl:gen:f	pospolita	daw.|hom.
+fasji	fasja	subst:pl:gen:f	pospolita	hom.|daw.
 fasji	fasja	subst:sg:dat:f	pospolita	daw.
 fasji	fasja	subst:sg:gen:f	pospolita	daw.
 fasji	fasja	subst:sg:loc:f	pospolita	daw.
@@ -13633,7 +13633,7 @@ faskule	faskula	subst:pl:nom:f	pospolita	daw.
 faskule	faskula	subst:pl:voc:f	pospolita	daw.
 faskulę	faskula	subst:sg:acc:f	pospolita	daw.
 faskul	faskula	subst:pl:gen:f	pospolita	char.|daw.
-faskuli	faskula	subst:pl:gen:f	pospolita	daw.|hom.
+faskuli	faskula	subst:pl:gen:f	pospolita	hom.|daw.
 faskuli	faskula	subst:sg:dat:f	pospolita	daw.
 faskuli	faskula	subst:sg:gen:f	pospolita	daw.
 faskuli	faskula	subst:sg:loc:f	pospolita	daw.
@@ -13964,6 +13964,86 @@ fasowaczki	fasowaczka	subst:pl:voc:f	pospolita
 fasowaczki	fasowaczka	subst:sg:gen:f	pospolita	
 fasowaczko	fasowaczka	subst:sg:voc:f	pospolita	
 fasowaczkom	fasowaczka	subst:pl:dat:f	pospolita	
+fasowana	fasować:v	ppas:sg:nom.voc:f:imperf:aff		
+fasowaną	fasować:v	ppas:sg:acc.inst:f:imperf:aff		
+fasowane	fasować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fasowane	fasować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+fasowanego	fasować:v	ppas:sg:acc:m1.m2:imperf:aff		
+fasowanego	fasować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fasowanej	fasować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+fasowanemu	fasować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fasowania	fasować:v	ger:pl:nom.acc:n2:imperf:aff		
+fasowania	fasować:v	ger:sg:gen:n2:imperf:aff		
+fasowaniami	fasować:v	ger:pl:inst:n2:imperf:aff		
+fasowanie	fasować:v	ger:sg:nom.acc:n2:imperf:aff		
+fasowaniem	fasować:v	ger:sg:inst:n2:imperf:aff		
+fasowani	fasować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+fasowaniom	fasować:v	ger:pl:dat.loc:n2:imperf:aff		
+fasowaniu	fasować:v	ger:sg:dat.loc:n2:imperf:aff		
+fasowanych	fasować:v	ppas:pl:acc:m1.p1:imperf:aff		
+fasowanych	fasować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fasowany	fasować:v	ppas:sg:acc:m3:imperf:aff		
+fasowany	fasować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+fasowanym	fasować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fasowanym	fasować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fasowanymi	fasować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fasowań	fasować:v	ger:pl:gen:n2:imperf:aff		
+fasująca	fasować:v	pact:sg:nom.voc:f:imperf:aff		
+fasującą	fasować:v	pact:sg:acc.inst:f:imperf:aff		
+fasujące	fasować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fasujące	fasować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+fasującego	fasować:v	pact:sg:acc:m1.m2:imperf:aff		
+fasującego	fasować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fasującej	fasować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+fasującemu	fasować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fasujących	fasować:v	pact:pl:acc:m1.p1:imperf:aff		
+fasujących	fasować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fasujący	fasować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+fasujący	fasować:v	pact:sg:acc:m3:imperf:aff		
+fasujący	fasować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+fasującym	fasować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fasującym	fasować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fasującymi	fasować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fasowana	fasować:v	ppas:sg:nom.voc:f:imperf:aff		
+fasowaną	fasować:v	ppas:sg:acc.inst:f:imperf:aff		
+fasowane	fasować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fasowane	fasować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+fasowanego	fasować:v	ppas:sg:acc:m1.m2:imperf:aff		
+fasowanego	fasować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fasowanej	fasować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+fasowanemu	fasować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fasowania	fasować:v	ger:pl:nom.acc:n2:imperf:aff		
+fasowania	fasować:v	ger:sg:gen:n2:imperf:aff		
+fasowaniami	fasować:v	ger:pl:inst:n2:imperf:aff		
+fasowanie	fasować:v	ger:sg:nom.acc:n2:imperf:aff		
+fasowaniem	fasować:v	ger:sg:inst:n2:imperf:aff		
+fasowani	fasować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+fasowaniom	fasować:v	ger:pl:dat.loc:n2:imperf:aff		
+fasowaniu	fasować:v	ger:sg:dat.loc:n2:imperf:aff		
+fasowanych	fasować:v	ppas:pl:acc:m1.p1:imperf:aff		
+fasowanych	fasować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fasowany	fasować:v	ppas:sg:acc:m3:imperf:aff		
+fasowany	fasować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+fasowanym	fasować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fasowanym	fasować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fasowanymi	fasować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fasowań	fasować:v	ger:pl:gen:n2:imperf:aff		
+fasująca	fasować:v	pact:sg:nom.voc:f:imperf:aff		
+fasującą	fasować:v	pact:sg:acc.inst:f:imperf:aff		
+fasujące	fasować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fasujące	fasować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+fasującego	fasować:v	pact:sg:acc:m1.m2:imperf:aff		
+fasującego	fasować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fasującej	fasować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+fasującemu	fasować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fasujących	fasować:v	pact:pl:acc:m1.p1:imperf:aff		
+fasujących	fasować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fasujący	fasować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+fasujący	fasować:v	pact:sg:acc:m3:imperf:aff		
+fasujący	fasować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+fasującym	fasować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fasującym	fasować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fasującymi	fasować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fasować	fasować:v1	inf:imperf		
 fasowaliby	fasować:v1	cond:pl:m1.p1:ter:imperf		
 fasowalibyście	fasować:v1	cond:pl:m1.p1:sec:imperf		
@@ -14000,48 +14080,8 @@ fasowały	fasować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fasowały	fasować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fasowałyście	fasować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fasowałyśmy	fasować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-fasowana	fasować:v1	ppas:sg:nom.voc:f:imperf:aff		
-fasowaną	fasować:v1	ppas:sg:acc.inst:f:imperf:aff		
-fasowane	fasować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fasowane	fasować:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-fasowanego	fasować:v1	ppas:sg:acc:m1.m2:imperf:aff		
-fasowanego	fasować:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fasowanej	fasować:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
-fasowanemu	fasować:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-fasowania	fasować:v1	ger:pl:nom.acc:n2:imperf:aff		
-fasowania	fasować:v1	ger:sg:gen:n2:imperf:aff		
-fasowaniami	fasować:v1	ger:pl:inst:n2:imperf:aff		
-fasowanie	fasować:v1	ger:sg:nom.acc:n2:imperf:aff		
-fasowaniem	fasować:v1	ger:sg:inst:n2:imperf:aff		
-fasowani	fasować:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fasowaniom	fasować:v1	ger:pl:dat.loc:n2:imperf:aff		
-fasowaniu	fasować:v1	ger:sg:dat.loc:n2:imperf:aff		
 fasowano	fasować:v1	imps:imperf		
-fasowanych	fasować:v1	ppas:pl:acc:m1.p1:imperf:aff		
-fasowanych	fasować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fasowany	fasować:v1	ppas:sg:acc:m3:imperf:aff		
-fasowany	fasować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-fasowanym	fasować:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fasowanym	fasować:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fasowanymi	fasować:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fasowań	fasować:v1	ger:pl:gen:n2:imperf:aff		
-fasująca	fasować:v1	pact:sg:nom.voc:f:imperf:aff		
-fasującą	fasować:v1	pact:sg:acc.inst:f:imperf:aff		
-fasujące	fasować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fasujące	fasować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-fasującego	fasować:v1	pact:sg:acc:m1.m2:imperf:aff		
-fasującego	fasować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fasującej	fasować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-fasującemu	fasować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 fasując	fasować:v1	pcon:imperf		
-fasujących	fasować:v1	pact:pl:acc:m1.p1:imperf:aff		
-fasujących	fasować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fasujący	fasować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-fasujący	fasować:v1	pact:sg:acc:m3:imperf:aff		
-fasujący	fasować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-fasującym	fasować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fasującym	fasować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fasującymi	fasować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fasują	fasować:v1	fin:pl:ter:imperf		
 fasujcie	fasować:v1	impt:pl:sec:imperf		
 fasujecie	fasować:v1	fin:pl:sec:imperf		
@@ -14087,48 +14127,8 @@ fasowały	fasować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fasowały	fasować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fasowałyście	fasować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fasowałyśmy	fasować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-fasowana	fasować:v2	ppas:sg:nom.voc:f:imperf:aff		
-fasowaną	fasować:v2	ppas:sg:acc.inst:f:imperf:aff		
-fasowane	fasować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fasowane	fasować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-fasowanego	fasować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-fasowanego	fasować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fasowanej	fasować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-fasowanemu	fasować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-fasowania	fasować:v2	ger:pl:nom.acc:n2:imperf:aff		
-fasowania	fasować:v2	ger:sg:gen:n2:imperf:aff		
-fasowaniami	fasować:v2	ger:pl:inst:n2:imperf:aff		
-fasowanie	fasować:v2	ger:sg:nom.acc:n2:imperf:aff		
-fasowaniem	fasować:v2	ger:sg:inst:n2:imperf:aff		
-fasowani	fasować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fasowaniom	fasować:v2	ger:pl:dat.loc:n2:imperf:aff		
-fasowaniu	fasować:v2	ger:sg:dat.loc:n2:imperf:aff		
 fasowano	fasować:v2	imps:imperf		
-fasowanych	fasować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-fasowanych	fasować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fasowany	fasować:v2	ppas:sg:acc:m3:imperf:aff		
-fasowany	fasować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-fasowanym	fasować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fasowanym	fasować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fasowanymi	fasować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fasowań	fasować:v2	ger:pl:gen:n2:imperf:aff		
-fasująca	fasować:v2	pact:sg:nom.voc:f:imperf:aff		
-fasującą	fasować:v2	pact:sg:acc.inst:f:imperf:aff		
-fasujące	fasować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fasujące	fasować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-fasującego	fasować:v2	pact:sg:acc:m1.m2:imperf:aff		
-fasującego	fasować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fasującej	fasować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-fasującemu	fasować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 fasując	fasować:v2	pcon:imperf		
-fasujących	fasować:v2	pact:pl:acc:m1.p1:imperf:aff		
-fasujących	fasować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fasujący	fasować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-fasujący	fasować:v2	pact:sg:acc:m3:imperf:aff		
-fasujący	fasować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-fasującym	fasować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fasującym	fasować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fasującymi	fasować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fasują	fasować:v2	fin:pl:ter:imperf		
 fasujcie	fasować:v2	impt:pl:sec:imperf		
 fasujecie	fasować:v2	fin:pl:sec:imperf		
@@ -15983,20 +15983,20 @@ faworycików	faworycik:s2	subst:pl:acc:m1	pospolita
 faworycików	faworycik:s2	subst:pl:gen:m1	pospolita	
 faworyciku	faworycik:s2	subst:sg:loc:m1	pospolita	
 faworyciku	faworycik:s2	subst:sg:voc:m1	pospolita	
-faworycie	faworyta	subst:sg:dat:f	pospolita	przest. dziś książk.
-faworycie	faworyta	subst:sg:loc:f	pospolita	przest. dziś książk.
-faworytach	faworyta	subst:pl:loc:f	pospolita	przest. dziś książk.
-faworyta	faworyta	subst:sg:nom:f	pospolita	przest. dziś książk.
-faworytami	faworyta	subst:pl:inst:f	pospolita	przest. dziś książk.
-faworytą	faworyta	subst:sg:inst:f	pospolita	przest. dziś książk.
-faworytę	faworyta	subst:sg:acc:f	pospolita	przest. dziś książk.
-faworyt	faworyta	subst:pl:gen:f	pospolita	przest. dziś książk.
-faworyto	faworyta	subst:sg:voc:f	pospolita	przest. dziś książk.
-faworytom	faworyta	subst:pl:dat:f	pospolita	przest. dziś książk.
-faworyty	faworyta	subst:pl:acc:f	pospolita	przest. dziś książk.
-faworyty	faworyta	subst:pl:nom:f	pospolita	przest. dziś książk.
-faworyty	faworyta	subst:pl:voc:f	pospolita	przest. dziś książk.
-faworyty	faworyta	subst:sg:gen:f	pospolita	przest. dziś książk.
+faworycie	faworyta	subst:sg:dat:f	pospolita	przest._dziś_książk.
+faworycie	faworyta	subst:sg:loc:f	pospolita	przest._dziś_książk.
+faworytach	faworyta	subst:pl:loc:f	pospolita	przest._dziś_książk.
+faworyta	faworyta	subst:sg:nom:f	pospolita	przest._dziś_książk.
+faworytami	faworyta	subst:pl:inst:f	pospolita	przest._dziś_książk.
+faworytą	faworyta	subst:sg:inst:f	pospolita	przest._dziś_książk.
+faworytę	faworyta	subst:sg:acc:f	pospolita	przest._dziś_książk.
+faworyt	faworyta	subst:pl:gen:f	pospolita	przest._dziś_książk.
+faworyto	faworyta	subst:sg:voc:f	pospolita	przest._dziś_książk.
+faworytom	faworyta	subst:pl:dat:f	pospolita	przest._dziś_książk.
+faworyty	faworyta	subst:pl:acc:f	pospolita	przest._dziś_książk.
+faworyty	faworyta	subst:pl:nom:f	pospolita	przest._dziś_książk.
+faworyty	faworyta	subst:pl:voc:f	pospolita	przest._dziś_książk.
+faworyty	faworyta	subst:sg:gen:f	pospolita	przest._dziś_książk.
 faworytalnościach	faworytalność	subst:pl:loc:f		przest.
 faworytalnościami	faworytalność	subst:pl:inst:f		przest.
 faworytalnością	faworytalność	subst:sg:inst:f		przest.
@@ -18520,7 +18520,7 @@ felicytacje	felicytacja	subst:pl:acc:f	pospolita	daw.
 felicytacje	felicytacja	subst:pl:nom:f	pospolita	daw.
 felicytacje	felicytacja	subst:pl:voc:f	pospolita	daw.
 felicytację	felicytacja	subst:sg:acc:f	pospolita	daw.
-felicytacji	felicytacja	subst:pl:gen:f	pospolita	daw.|hom.
+felicytacji	felicytacja	subst:pl:gen:f	pospolita	hom.|daw.
 felicytacji	felicytacja	subst:sg:dat:f	pospolita	daw.
 felicytacji	felicytacja	subst:sg:gen:f	pospolita	daw.
 felicytacji	felicytacja	subst:sg:loc:f	pospolita	daw.
@@ -20568,7 +20568,7 @@ ferezje	ferezja	subst:pl:acc:f	pospolita	daw.
 ferezje	ferezja	subst:pl:nom:f	pospolita	daw.
 ferezje	ferezja	subst:pl:voc:f	pospolita	daw.
 ferezję	ferezja	subst:sg:acc:f	pospolita	daw.
-ferezji	ferezja	subst:pl:gen:f	pospolita	daw.|hom.
+ferezji	ferezja	subst:pl:gen:f	pospolita	hom.|daw.
 ferezji	ferezja	subst:sg:dat:f	pospolita	daw.
 ferezji	ferezja	subst:sg:gen:f	pospolita	daw.
 ferezji	ferezja	subst:sg:loc:f	pospolita	daw.
@@ -20776,6 +20776,70 @@ fermentory	fermentor	subst:pl:nom:m3	pospolita
 fermentory	fermentor	subst:pl:voc:m3	pospolita	
 fermentorze	fermentor	subst:sg:loc:m3	pospolita	
 fermentorze	fermentor	subst:sg:voc:m3	pospolita	
+fermentowania	fermentować:v	ger:pl:nom.acc:n2:imperf:aff		
+fermentowania	fermentować:v	ger:sg:gen:n2:imperf:aff		
+fermentowaniami	fermentować:v	ger:pl:inst:n2:imperf:aff		
+fermentowanie	fermentować:v	ger:sg:nom.acc:n2:imperf:aff		
+fermentowaniem	fermentować:v	ger:sg:inst:n2:imperf:aff		
+fermentowaniom	fermentować:v	ger:pl:dat.loc:n2:imperf:aff		
+fermentowaniu	fermentować:v	ger:sg:dat.loc:n2:imperf:aff		
+fermentowań	fermentować:v	ger:pl:gen:n2:imperf:aff		
+fermentująca	fermentować:v	pact:sg:nom.voc:f:imperf:aff		
+fermentującą	fermentować:v	pact:sg:acc.inst:f:imperf:aff		
+fermentujące	fermentować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fermentujące	fermentować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+fermentującego	fermentować:v	pact:sg:acc:m1.m2:imperf:aff		
+fermentującego	fermentować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fermentującej	fermentować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+fermentującemu	fermentować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fermentujących	fermentować:v	pact:pl:acc:m1.p1:imperf:aff		
+fermentujących	fermentować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fermentujący	fermentować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+fermentujący	fermentować:v	pact:sg:acc:m3:imperf:aff		
+fermentujący	fermentować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+fermentującym	fermentować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fermentującym	fermentować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fermentującymi	fermentować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fermentowana	fermentować:v	ppas:sg:nom.voc:f:imperf:aff		
+fermentowaną	fermentować:v	ppas:sg:acc.inst:f:imperf:aff		
+fermentowane	fermentować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fermentowane	fermentować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+fermentowanego	fermentować:v	ppas:sg:acc:m1.m2:imperf:aff		
+fermentowanego	fermentować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fermentowanej	fermentować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+fermentowanemu	fermentować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fermentowania	fermentować:v	ger:pl:nom.acc:n2:imperf:aff		
+fermentowania	fermentować:v	ger:sg:gen:n2:imperf:aff		
+fermentowaniami	fermentować:v	ger:pl:inst:n2:imperf:aff		
+fermentowanie	fermentować:v	ger:sg:nom.acc:n2:imperf:aff		
+fermentowaniem	fermentować:v	ger:sg:inst:n2:imperf:aff		
+fermentowani	fermentować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+fermentowaniom	fermentować:v	ger:pl:dat.loc:n2:imperf:aff		
+fermentowaniu	fermentować:v	ger:sg:dat.loc:n2:imperf:aff		
+fermentowanych	fermentować:v	ppas:pl:acc:m1.p1:imperf:aff		
+fermentowanych	fermentować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fermentowany	fermentować:v	ppas:sg:acc:m3:imperf:aff		
+fermentowany	fermentować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+fermentowanym	fermentować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fermentowanym	fermentować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fermentowanymi	fermentować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fermentowań	fermentować:v	ger:pl:gen:n2:imperf:aff		
+fermentująca	fermentować:v	pact:sg:nom.voc:f:imperf:aff		
+fermentującą	fermentować:v	pact:sg:acc.inst:f:imperf:aff		
+fermentujące	fermentować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fermentujące	fermentować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+fermentującego	fermentować:v	pact:sg:acc:m1.m2:imperf:aff		
+fermentującego	fermentować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fermentującej	fermentować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+fermentującemu	fermentować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fermentujących	fermentować:v	pact:pl:acc:m1.p1:imperf:aff		
+fermentujących	fermentować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fermentujący	fermentować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+fermentujący	fermentować:v	pact:sg:acc:m3:imperf:aff		
+fermentujący	fermentować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+fermentującym	fermentować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fermentującym	fermentować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fermentującymi	fermentować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fermentować	fermentować:v1	inf:imperf		
 fermentowaliby	fermentować:v1	cond:pl:m1.p1:ter:imperf		
 fermentowalibyście	fermentować:v1	cond:pl:m1.p1:sec:imperf		
@@ -20812,32 +20876,8 @@ fermentowały	fermentować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fermentowały	fermentować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fermentowałyście	fermentować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fermentowałyśmy	fermentować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-fermentowania	fermentować:v1	ger:pl:nom.acc:n2:imperf:aff		
-fermentowania	fermentować:v1	ger:sg:gen:n2:imperf:aff		
-fermentowaniami	fermentować:v1	ger:pl:inst:n2:imperf:aff		
-fermentowanie	fermentować:v1	ger:sg:nom.acc:n2:imperf:aff		
-fermentowaniem	fermentować:v1	ger:sg:inst:n2:imperf:aff		
-fermentowaniom	fermentować:v1	ger:pl:dat.loc:n2:imperf:aff		
-fermentowaniu	fermentować:v1	ger:sg:dat.loc:n2:imperf:aff		
 fermentowano	fermentować:v1	imps:imperf		
-fermentowań	fermentować:v1	ger:pl:gen:n2:imperf:aff		
-fermentująca	fermentować:v1	pact:sg:nom.voc:f:imperf:aff		
-fermentującą	fermentować:v1	pact:sg:acc.inst:f:imperf:aff		
-fermentujące	fermentować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fermentujące	fermentować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-fermentującego	fermentować:v1	pact:sg:acc:m1.m2:imperf:aff		
-fermentującego	fermentować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fermentującej	fermentować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-fermentującemu	fermentować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 fermentując	fermentować:v1	pcon:imperf		
-fermentujących	fermentować:v1	pact:pl:acc:m1.p1:imperf:aff		
-fermentujących	fermentować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fermentujący	fermentować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-fermentujący	fermentować:v1	pact:sg:acc:m3:imperf:aff		
-fermentujący	fermentować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-fermentującym	fermentować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fermentującym	fermentować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fermentującymi	fermentować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fermentują	fermentować:v1	fin:pl:ter:imperf		
 fermentujcie	fermentować:v1	impt:pl:sec:imperf		
 fermentujecie	fermentować:v1	fin:pl:sec:imperf		
@@ -20883,48 +20923,8 @@ fermentowały	fermentować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fermentowały	fermentować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fermentowałyście	fermentować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fermentowałyśmy	fermentować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-fermentowana	fermentować:v2	ppas:sg:nom.voc:f:imperf:aff		
-fermentowaną	fermentować:v2	ppas:sg:acc.inst:f:imperf:aff		
-fermentowane	fermentować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fermentowane	fermentować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-fermentowanego	fermentować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-fermentowanego	fermentować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fermentowanej	fermentować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-fermentowanemu	fermentować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-fermentowania	fermentować:v2	ger:pl:nom.acc:n2:imperf:aff		
-fermentowania	fermentować:v2	ger:sg:gen:n2:imperf:aff		
-fermentowaniami	fermentować:v2	ger:pl:inst:n2:imperf:aff		
-fermentowanie	fermentować:v2	ger:sg:nom.acc:n2:imperf:aff		
-fermentowaniem	fermentować:v2	ger:sg:inst:n2:imperf:aff		
-fermentowani	fermentować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fermentowaniom	fermentować:v2	ger:pl:dat.loc:n2:imperf:aff		
-fermentowaniu	fermentować:v2	ger:sg:dat.loc:n2:imperf:aff		
 fermentowano	fermentować:v2	imps:imperf		
-fermentowanych	fermentować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-fermentowanych	fermentować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fermentowany	fermentować:v2	ppas:sg:acc:m3:imperf:aff		
-fermentowany	fermentować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-fermentowanym	fermentować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fermentowanym	fermentować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fermentowanymi	fermentować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fermentowań	fermentować:v2	ger:pl:gen:n2:imperf:aff		
-fermentująca	fermentować:v2	pact:sg:nom.voc:f:imperf:aff		
-fermentującą	fermentować:v2	pact:sg:acc.inst:f:imperf:aff		
-fermentujące	fermentować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fermentujące	fermentować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-fermentującego	fermentować:v2	pact:sg:acc:m1.m2:imperf:aff		
-fermentującego	fermentować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fermentującej	fermentować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-fermentującemu	fermentować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 fermentując	fermentować:v2	pcon:imperf		
-fermentujących	fermentować:v2	pact:pl:acc:m1.p1:imperf:aff		
-fermentujących	fermentować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fermentujący	fermentować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-fermentujący	fermentować:v2	pact:sg:acc:m3:imperf:aff		
-fermentujący	fermentować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-fermentującym	fermentować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fermentującym	fermentować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fermentującymi	fermentować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fermentują	fermentować:v2	fin:pl:ter:imperf		
 fermentujcie	fermentować:v2	impt:pl:sec:imperf		
 fermentujecie	fermentować:v2	fin:pl:sec:imperf		
@@ -21453,34 +21453,34 @@ ferrochromu	ferrochrom	subst:sg:gen:m3	pospolita
 ferrochromy	ferrochrom	subst:pl:acc:m3	pospolita	
 ferrochromy	ferrochrom	subst:pl:nom:m3	pospolita	
 ferrochromy	ferrochrom	subst:pl:voc:m3	pospolita	
-ferroelektrycznościach	ferroelektryczność:s1	subst:pl:loc:f	pospolita	
-ferroelektrycznościami	ferroelektryczność:s1	subst:pl:inst:f	pospolita	
-ferroelektrycznością	ferroelektryczność:s1	subst:sg:inst:f	pospolita	
-ferroelektryczności	ferroelektryczność:s1	subst:pl:acc:f	pospolita	
-ferroelektryczności	ferroelektryczność:s1	subst:pl:gen:f	pospolita	
-ferroelektryczności	ferroelektryczność:s1	subst:pl:nom:f	pospolita	
-ferroelektryczności	ferroelektryczność:s1	subst:pl:voc:f	pospolita	
-ferroelektryczności	ferroelektryczność:s1	subst:sg:dat:f	pospolita	
-ferroelektryczności	ferroelektryczność:s1	subst:sg:gen:f	pospolita	
-ferroelektryczności	ferroelektryczność:s1	subst:sg:loc:f	pospolita	
-ferroelektryczności	ferroelektryczność:s1	subst:sg:voc:f	pospolita	
-ferroelektrycznościom	ferroelektryczność:s1	subst:pl:dat:f	pospolita	
-ferroelektryczność	ferroelektryczność:s1	subst:sg:acc:f	pospolita	
-ferroelektryczność	ferroelektryczność:s1	subst:sg:nom:f	pospolita	
-ferroelektrycznościach	ferroelektryczność:s2	subst:pl:loc:f		
-ferroelektrycznościami	ferroelektryczność:s2	subst:pl:inst:f		
-ferroelektrycznością	ferroelektryczność:s2	subst:sg:inst:f		
-ferroelektryczności	ferroelektryczność:s2	subst:pl:acc:f		
-ferroelektryczności	ferroelektryczność:s2	subst:pl:gen:f		
-ferroelektryczności	ferroelektryczność:s2	subst:pl:nom:f		
-ferroelektryczności	ferroelektryczność:s2	subst:pl:voc:f		
-ferroelektryczności	ferroelektryczność:s2	subst:sg:dat:f		
-ferroelektryczności	ferroelektryczność:s2	subst:sg:gen:f		
-ferroelektryczności	ferroelektryczność:s2	subst:sg:loc:f		
-ferroelektryczności	ferroelektryczność:s2	subst:sg:voc:f		
-ferroelektrycznościom	ferroelektryczność:s2	subst:pl:dat:f		
-ferroelektryczność	ferroelektryczność:s2	subst:sg:acc:f		
-ferroelektryczność	ferroelektryczność:s2	subst:sg:nom:f		
+ferroelektrycznościach	ferroelektryczność:s	subst:pl:loc:f	pospolita	
+ferroelektrycznościami	ferroelektryczność:s	subst:pl:inst:f	pospolita	
+ferroelektrycznością	ferroelektryczność:s	subst:sg:inst:f	pospolita	
+ferroelektryczności	ferroelektryczność:s	subst:pl:acc:f	pospolita	
+ferroelektryczności	ferroelektryczność:s	subst:pl:gen:f	pospolita	
+ferroelektryczności	ferroelektryczność:s	subst:pl:nom:f	pospolita	
+ferroelektryczności	ferroelektryczność:s	subst:pl:voc:f	pospolita	
+ferroelektryczności	ferroelektryczność:s	subst:sg:dat:f	pospolita	
+ferroelektryczności	ferroelektryczność:s	subst:sg:gen:f	pospolita	
+ferroelektryczności	ferroelektryczność:s	subst:sg:loc:f	pospolita	
+ferroelektryczności	ferroelektryczność:s	subst:sg:voc:f	pospolita	
+ferroelektrycznościom	ferroelektryczność:s	subst:pl:dat:f	pospolita	
+ferroelektryczność	ferroelektryczność:s	subst:sg:acc:f	pospolita	
+ferroelektryczność	ferroelektryczność:s	subst:sg:nom:f	pospolita	
+ferroelektrycznościach	ferroelektryczność:s	subst:pl:loc:f		
+ferroelektrycznościami	ferroelektryczność:s	subst:pl:inst:f		
+ferroelektrycznością	ferroelektryczność:s	subst:sg:inst:f		
+ferroelektryczności	ferroelektryczność:s	subst:pl:acc:f		
+ferroelektryczności	ferroelektryczność:s	subst:pl:gen:f		
+ferroelektryczności	ferroelektryczność:s	subst:pl:nom:f		
+ferroelektryczności	ferroelektryczność:s	subst:pl:voc:f		
+ferroelektryczności	ferroelektryczność:s	subst:sg:dat:f		
+ferroelektryczności	ferroelektryczność:s	subst:sg:gen:f		
+ferroelektryczności	ferroelektryczność:s	subst:sg:loc:f		
+ferroelektryczności	ferroelektryczność:s	subst:sg:voc:f		
+ferroelektrycznościom	ferroelektryczność:s	subst:pl:dat:f		
+ferroelektryczność	ferroelektryczność:s	subst:sg:acc:f		
+ferroelektryczność	ferroelektryczność:s	subst:sg:nom:f		
 ferroelektryczna	ferroelektryczny	adj:sg:nom.voc:f:pos		
 ferroelektryczną	ferroelektryczny	adj:sg:acc:f:pos		
 ferroelektryczną	ferroelektryczny	adj:sg:inst:f:pos		
@@ -24244,22 +24244,22 @@ figarni	figarnia	subst:sg:loc:f	pospolita
 figarnio	figarnia	subst:sg:voc:f	pospolita	
 figarniom	figarnia	subst:pl:dat:f	pospolita	
 figarń	figarnia	subst:pl:gen:f	pospolita	char.
-figarach	figaro:s1	subst:pl:loc:m1	pospolita	żart.|przest.
-figara	figaro:s1	depr:pl:nom:m2	pospolita	żart.|przest.
-figara	figaro:s1	depr:pl:voc:m2	pospolita	żart.|przest.
-figara	figaro:s1	subst:sg:acc:m1	pospolita	żart.|przest.
-figara	figaro:s1	subst:sg:gen:m1	pospolita	żart.|przest.
-figarami	figaro:s1	subst:pl:inst:m1	pospolita	żart.|przest.
-figarem	figaro:s1	subst:sg:inst:m1	pospolita	żart.|przest.
-figaro	figaro:s1	subst:sg:nom:m1	pospolita	żart.|przest.
-figaro	figaro:s1	subst:sg:voc:m1	pospolita	żart.|przest.
-figarom	figaro:s1	subst:pl:dat:m1	pospolita	żart.|przest.
-figarowie	figaro:s1	subst:pl:nom:m1	pospolita	żart.|przest.
-figarowie	figaro:s1	subst:pl:voc:m1	pospolita	żart.|przest.
-figarowi	figaro:s1	subst:sg:dat:m1	pospolita	żart.|przest.
-figarów	figaro:s1	subst:pl:acc:m1	pospolita	żart.|przest.
-figarów	figaro:s1	subst:pl:gen:m1	pospolita	żart.|przest.
-figarze	figaro:s1	subst:sg:loc:m1	pospolita	żart.|przest.
+figarach	figaro:s1	subst:pl:loc:m1	pospolita	przest.|żart.
+figara	figaro:s1	depr:pl:nom:m2	pospolita	przest.|żart.
+figara	figaro:s1	depr:pl:voc:m2	pospolita	przest.|żart.
+figara	figaro:s1	subst:sg:acc:m1	pospolita	przest.|żart.
+figara	figaro:s1	subst:sg:gen:m1	pospolita	przest.|żart.
+figarami	figaro:s1	subst:pl:inst:m1	pospolita	przest.|żart.
+figarem	figaro:s1	subst:sg:inst:m1	pospolita	przest.|żart.
+figaro	figaro:s1	subst:sg:nom:m1	pospolita	przest.|żart.
+figaro	figaro:s1	subst:sg:voc:m1	pospolita	przest.|żart.
+figarom	figaro:s1	subst:pl:dat:m1	pospolita	przest.|żart.
+figarowie	figaro:s1	subst:pl:nom:m1	pospolita	przest.|żart.
+figarowie	figaro:s1	subst:pl:voc:m1	pospolita	przest.|żart.
+figarowi	figaro:s1	subst:sg:dat:m1	pospolita	przest.|żart.
+figarów	figaro:s1	subst:pl:acc:m1	pospolita	przest.|żart.
+figarów	figaro:s1	subst:pl:gen:m1	pospolita	przest.|żart.
+figarze	figaro:s1	subst:sg:loc:m1	pospolita	przest.|żart.
 figarach	figaro:s2	subst:pl:loc:n2	pospolita	przest.
 figara	figaro:s2	subst:pl:acc:n2	pospolita	przest.
 figara	figaro:s2	subst:pl:nom:n2	pospolita	przest.
@@ -24476,38 +24476,38 @@ figlarstwo	figlarstwo	subst:sg:nom:n2	pospolita
 figlarstwo	figlarstwo	subst:sg:voc:n2	pospolita	
 figlarstwom	figlarstwo	subst:pl:dat:n2	pospolita	
 figlarstwu	figlarstwo	subst:sg:dat:n2	pospolita	
-figlarzach	figlarz	subst:pl:loc:m1	pospolita	przest. dziś książk.
-figlarzach	figlarz	subst:pl:loc:m1	pospolita	rzad.|przest. dziś książk.
-figlarza	figlarz	subst:sg:acc:m1	pospolita	przest. dziś książk.
-figlarza	figlarz	subst:sg:acc:m1	pospolita	rzad.|przest. dziś książk.
-figlarza	figlarz	subst:sg:gen:m1	pospolita	przest. dziś książk.
-figlarza	figlarz	subst:sg:gen:m1	pospolita	rzad.|przest. dziś książk.
-figlarzami	figlarz	subst:pl:inst:m1	pospolita	przest. dziś książk.
-figlarzami	figlarz	subst:pl:inst:m1	pospolita	rzad.|przest. dziś książk.
-figlarze	figlarz	depr:pl:nom:m2	pospolita	przest. dziś książk.
-figlarze	figlarz	depr:pl:nom:m2	pospolita	rzad.|przest. dziś książk.
-figlarze	figlarz	depr:pl:voc:m2	pospolita	przest. dziś książk.
-figlarze	figlarz	depr:pl:voc:m2	pospolita	rzad.|przest. dziś książk.
-figlarze	figlarz	subst:pl:nom:m1	pospolita	przest. dziś książk.
-figlarze	figlarz	subst:pl:nom:m1	pospolita	rzad.|przest. dziś książk.
-figlarze	figlarz	subst:pl:voc:m1	pospolita	przest. dziś książk.
-figlarze	figlarz	subst:pl:voc:m1	pospolita	rzad.|przest. dziś książk.
-figlarzem	figlarz	subst:sg:inst:m1	pospolita	przest. dziś książk.
-figlarzem	figlarz	subst:sg:inst:m1	pospolita	rzad.|przest. dziś książk.
-figlarz	figlarz	subst:sg:nom:m1	pospolita	przest. dziś książk.
-figlarz	figlarz	subst:sg:nom:m1	pospolita	rzad.|przest. dziś książk.
-figlarzom	figlarz	subst:pl:dat:m1	pospolita	przest. dziś książk.
-figlarzom	figlarz	subst:pl:dat:m1	pospolita	rzad.|przest. dziś książk.
-figlarzowi	figlarz	subst:sg:dat:m1	pospolita	przest. dziś książk.
-figlarzowi	figlarz	subst:sg:dat:m1	pospolita	rzad.|przest. dziś książk.
-figlarzów	figlarz	subst:pl:acc:m1	pospolita	rzad.|przest. dziś książk.
-figlarzów	figlarz	subst:pl:gen:m1	pospolita	rzad.|przest. dziś książk.
-figlarzu	figlarz	subst:sg:loc:m1	pospolita	przest. dziś książk.
-figlarzu	figlarz	subst:sg:loc:m1	pospolita	rzad.|przest. dziś książk.
-figlarzu	figlarz	subst:sg:voc:m1	pospolita	przest. dziś książk.
-figlarzu	figlarz	subst:sg:voc:m1	pospolita	rzad.|przest. dziś książk.
-figlarzy	figlarz	subst:pl:acc:m1	pospolita	przest. dziś książk.
-figlarzy	figlarz	subst:pl:gen:m1	pospolita	przest. dziś książk.
+figlarzach	figlarz	subst:pl:loc:m1	pospolita	przest._dziś_książk.
+figlarzach	figlarz	subst:pl:loc:m1	pospolita	rzad.|przest._dziś_książk.
+figlarza	figlarz	subst:sg:acc:m1	pospolita	przest._dziś_książk.
+figlarza	figlarz	subst:sg:acc:m1	pospolita	rzad.|przest._dziś_książk.
+figlarza	figlarz	subst:sg:gen:m1	pospolita	przest._dziś_książk.
+figlarza	figlarz	subst:sg:gen:m1	pospolita	rzad.|przest._dziś_książk.
+figlarzami	figlarz	subst:pl:inst:m1	pospolita	przest._dziś_książk.
+figlarzami	figlarz	subst:pl:inst:m1	pospolita	rzad.|przest._dziś_książk.
+figlarze	figlarz	depr:pl:nom:m2	pospolita	przest._dziś_książk.
+figlarze	figlarz	depr:pl:nom:m2	pospolita	rzad.|przest._dziś_książk.
+figlarze	figlarz	depr:pl:voc:m2	pospolita	przest._dziś_książk.
+figlarze	figlarz	depr:pl:voc:m2	pospolita	rzad.|przest._dziś_książk.
+figlarze	figlarz	subst:pl:nom:m1	pospolita	przest._dziś_książk.
+figlarze	figlarz	subst:pl:nom:m1	pospolita	rzad.|przest._dziś_książk.
+figlarze	figlarz	subst:pl:voc:m1	pospolita	przest._dziś_książk.
+figlarze	figlarz	subst:pl:voc:m1	pospolita	rzad.|przest._dziś_książk.
+figlarzem	figlarz	subst:sg:inst:m1	pospolita	przest._dziś_książk.
+figlarzem	figlarz	subst:sg:inst:m1	pospolita	rzad.|przest._dziś_książk.
+figlarz	figlarz	subst:sg:nom:m1	pospolita	przest._dziś_książk.
+figlarz	figlarz	subst:sg:nom:m1	pospolita	rzad.|przest._dziś_książk.
+figlarzom	figlarz	subst:pl:dat:m1	pospolita	przest._dziś_książk.
+figlarzom	figlarz	subst:pl:dat:m1	pospolita	rzad.|przest._dziś_książk.
+figlarzowi	figlarz	subst:sg:dat:m1	pospolita	przest._dziś_książk.
+figlarzowi	figlarz	subst:sg:dat:m1	pospolita	rzad.|przest._dziś_książk.
+figlarzów	figlarz	subst:pl:acc:m1	pospolita	rzad.|przest._dziś_książk.
+figlarzów	figlarz	subst:pl:gen:m1	pospolita	rzad.|przest._dziś_książk.
+figlarzu	figlarz	subst:sg:loc:m1	pospolita	przest._dziś_książk.
+figlarzu	figlarz	subst:sg:loc:m1	pospolita	rzad.|przest._dziś_książk.
+figlarzu	figlarz	subst:sg:voc:m1	pospolita	przest._dziś_książk.
+figlarzu	figlarz	subst:sg:voc:m1	pospolita	rzad.|przest._dziś_książk.
+figlarzy	figlarz	subst:pl:acc:m1	pospolita	przest._dziś_książk.
+figlarzy	figlarz	subst:pl:gen:m1	pospolita	przest._dziś_książk.
 figlarzynach	figlarzyna	subst:pl:loc:m1	pospolita	
 figlarzyna	figlarzyna	subst:sg:nom:m1	pospolita	
 figlarzynami	figlarzyna	subst:pl:inst:m1	pospolita	
@@ -25755,6 +25755,110 @@ fiksażu	fiksaż	subst:sg:gen:m3	pospolita	przest.
 fiksażu	fiksaż	subst:sg:loc:m3	pospolita	przest.
 fiksażu	fiksaż	subst:sg:voc:m3	pospolita	przest.
 fiksaży	fiksaż	subst:pl:gen:m3	pospolita	przest.
+fiksowania	fiksować:v	ger:pl:nom.acc:n2:imperf:aff		
+fiksowania	fiksować:v	ger:sg:gen:n2:imperf:aff		
+fiksowaniami	fiksować:v	ger:pl:inst:n2:imperf:aff		
+fiksowanie	fiksować:v	ger:sg:nom.acc:n2:imperf:aff		
+fiksowaniem	fiksować:v	ger:sg:inst:n2:imperf:aff		
+fiksowaniom	fiksować:v	ger:pl:dat.loc:n2:imperf:aff		
+fiksowaniu	fiksować:v	ger:sg:dat.loc:n2:imperf:aff		
+fiksowań	fiksować:v	ger:pl:gen:n2:imperf:aff		
+fiksująca	fiksować:v	pact:sg:nom.voc:f:imperf:aff		
+fiksującą	fiksować:v	pact:sg:acc.inst:f:imperf:aff		
+fiksujące	fiksować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fiksujące	fiksować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+fiksującego	fiksować:v	pact:sg:acc:m1.m2:imperf:aff		
+fiksującego	fiksować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fiksującej	fiksować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+fiksującemu	fiksować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fiksujących	fiksować:v	pact:pl:acc:m1.p1:imperf:aff		
+fiksujących	fiksować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksujący	fiksować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+fiksujący	fiksować:v	pact:sg:acc:m3:imperf:aff		
+fiksujący	fiksować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+fiksującym	fiksować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksującym	fiksować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fiksującymi	fiksować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksowana	fiksować:v	ppas:sg:nom.voc:f:imperf:aff		
+fiksowaną	fiksować:v	ppas:sg:acc.inst:f:imperf:aff		
+fiksowane	fiksować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fiksowane	fiksować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+fiksowanego	fiksować:v	ppas:sg:acc:m1.m2:imperf:aff		
+fiksowanego	fiksować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fiksowanej	fiksować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+fiksowanemu	fiksować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fiksowania	fiksować:v	ger:pl:nom.acc:n2:imperf:aff		
+fiksowania	fiksować:v	ger:sg:gen:n2:imperf:aff		
+fiksowaniami	fiksować:v	ger:pl:inst:n2:imperf:aff		
+fiksowanie	fiksować:v	ger:sg:nom.acc:n2:imperf:aff		
+fiksowaniem	fiksować:v	ger:sg:inst:n2:imperf:aff		
+fiksowani	fiksować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+fiksowaniom	fiksować:v	ger:pl:dat.loc:n2:imperf:aff		
+fiksowaniu	fiksować:v	ger:sg:dat.loc:n2:imperf:aff		
+fiksowanych	fiksować:v	ppas:pl:acc:m1.p1:imperf:aff		
+fiksowanych	fiksować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksowany	fiksować:v	ppas:sg:acc:m3:imperf:aff		
+fiksowany	fiksować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+fiksowanym	fiksować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksowanym	fiksować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fiksowanymi	fiksować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksowań	fiksować:v	ger:pl:gen:n2:imperf:aff		
+fiksująca	fiksować:v	pact:sg:nom.voc:f:imperf:aff		
+fiksującą	fiksować:v	pact:sg:acc.inst:f:imperf:aff		
+fiksujące	fiksować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fiksujące	fiksować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+fiksującego	fiksować:v	pact:sg:acc:m1.m2:imperf:aff		
+fiksującego	fiksować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fiksującej	fiksować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+fiksującemu	fiksować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fiksujących	fiksować:v	pact:pl:acc:m1.p1:imperf:aff		
+fiksujących	fiksować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksujący	fiksować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+fiksujący	fiksować:v	pact:sg:acc:m3:imperf:aff		
+fiksujący	fiksować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+fiksującym	fiksować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksującym	fiksować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fiksującymi	fiksować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksowana	fiksować:v	ppas:sg:nom.voc:f:imperf:aff		
+fiksowaną	fiksować:v	ppas:sg:acc.inst:f:imperf:aff		
+fiksowane	fiksować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fiksowane	fiksować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+fiksowanego	fiksować:v	ppas:sg:acc:m1.m2:imperf:aff		
+fiksowanego	fiksować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fiksowanej	fiksować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+fiksowanemu	fiksować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fiksowania	fiksować:v	ger:pl:nom.acc:n2:imperf:aff		
+fiksowania	fiksować:v	ger:sg:gen:n2:imperf:aff		
+fiksowaniami	fiksować:v	ger:pl:inst:n2:imperf:aff		
+fiksowanie	fiksować:v	ger:sg:nom.acc:n2:imperf:aff		
+fiksowaniem	fiksować:v	ger:sg:inst:n2:imperf:aff		
+fiksowani	fiksować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+fiksowaniom	fiksować:v	ger:pl:dat.loc:n2:imperf:aff		
+fiksowaniu	fiksować:v	ger:sg:dat.loc:n2:imperf:aff		
+fiksowanych	fiksować:v	ppas:pl:acc:m1.p1:imperf:aff		
+fiksowanych	fiksować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksowany	fiksować:v	ppas:sg:acc:m3:imperf:aff		
+fiksowany	fiksować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+fiksowanym	fiksować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksowanym	fiksować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fiksowanymi	fiksować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksowań	fiksować:v	ger:pl:gen:n2:imperf:aff		
+fiksująca	fiksować:v	pact:sg:nom.voc:f:imperf:aff		
+fiksującą	fiksować:v	pact:sg:acc.inst:f:imperf:aff		
+fiksujące	fiksować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fiksujące	fiksować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+fiksującego	fiksować:v	pact:sg:acc:m1.m2:imperf:aff		
+fiksującego	fiksować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fiksującej	fiksować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+fiksującemu	fiksować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fiksujących	fiksować:v	pact:pl:acc:m1.p1:imperf:aff		
+fiksujących	fiksować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksujący	fiksować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+fiksujący	fiksować:v	pact:sg:acc:m3:imperf:aff		
+fiksujący	fiksować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+fiksującym	fiksować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fiksującym	fiksować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fiksującymi	fiksować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fiksować	fiksować:v1	inf:imperf		
 fiksowaliby	fiksować:v1	cond:pl:m1.p1:ter:imperf		
 fiksowalibyście	fiksować:v1	cond:pl:m1.p1:sec:imperf		
@@ -25791,32 +25895,8 @@ fiksowały	fiksować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fiksowały	fiksować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fiksowałyście	fiksować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fiksowałyśmy	fiksować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-fiksowania	fiksować:v1	ger:pl:nom.acc:n2:imperf:aff		
-fiksowania	fiksować:v1	ger:sg:gen:n2:imperf:aff		
-fiksowaniami	fiksować:v1	ger:pl:inst:n2:imperf:aff		
-fiksowanie	fiksować:v1	ger:sg:nom.acc:n2:imperf:aff		
-fiksowaniem	fiksować:v1	ger:sg:inst:n2:imperf:aff		
-fiksowaniom	fiksować:v1	ger:pl:dat.loc:n2:imperf:aff		
-fiksowaniu	fiksować:v1	ger:sg:dat.loc:n2:imperf:aff		
 fiksowano	fiksować:v1	imps:imperf		
-fiksowań	fiksować:v1	ger:pl:gen:n2:imperf:aff		
-fiksująca	fiksować:v1	pact:sg:nom.voc:f:imperf:aff		
-fiksującą	fiksować:v1	pact:sg:acc.inst:f:imperf:aff		
-fiksujące	fiksować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fiksujące	fiksować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-fiksującego	fiksować:v1	pact:sg:acc:m1.m2:imperf:aff		
-fiksującego	fiksować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fiksującej	fiksować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-fiksującemu	fiksować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 fiksując	fiksować:v1	pcon:imperf		
-fiksujących	fiksować:v1	pact:pl:acc:m1.p1:imperf:aff		
-fiksujących	fiksować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fiksujący	fiksować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-fiksujący	fiksować:v1	pact:sg:acc:m3:imperf:aff		
-fiksujący	fiksować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-fiksującym	fiksować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fiksującym	fiksować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fiksującymi	fiksować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fiksują	fiksować:v1	fin:pl:ter:imperf		
 fiksujcie	fiksować:v1	impt:pl:sec:imperf		
 fiksujecie	fiksować:v1	fin:pl:sec:imperf		
@@ -25862,48 +25942,8 @@ fiksowały	fiksować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fiksowały	fiksować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fiksowałyście	fiksować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fiksowałyśmy	fiksować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-fiksowana	fiksować:v2	ppas:sg:nom.voc:f:imperf:aff		
-fiksowaną	fiksować:v2	ppas:sg:acc.inst:f:imperf:aff		
-fiksowane	fiksować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fiksowane	fiksować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-fiksowanego	fiksować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-fiksowanego	fiksować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fiksowanej	fiksować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-fiksowanemu	fiksować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-fiksowania	fiksować:v2	ger:pl:nom.acc:n2:imperf:aff		
-fiksowania	fiksować:v2	ger:sg:gen:n2:imperf:aff		
-fiksowaniami	fiksować:v2	ger:pl:inst:n2:imperf:aff		
-fiksowanie	fiksować:v2	ger:sg:nom.acc:n2:imperf:aff		
-fiksowaniem	fiksować:v2	ger:sg:inst:n2:imperf:aff		
-fiksowani	fiksować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fiksowaniom	fiksować:v2	ger:pl:dat.loc:n2:imperf:aff		
-fiksowaniu	fiksować:v2	ger:sg:dat.loc:n2:imperf:aff		
 fiksowano	fiksować:v2	imps:imperf		
-fiksowanych	fiksować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-fiksowanych	fiksować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fiksowany	fiksować:v2	ppas:sg:acc:m3:imperf:aff		
-fiksowany	fiksować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-fiksowanym	fiksować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fiksowanym	fiksować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fiksowanymi	fiksować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fiksowań	fiksować:v2	ger:pl:gen:n2:imperf:aff		
-fiksująca	fiksować:v2	pact:sg:nom.voc:f:imperf:aff		
-fiksującą	fiksować:v2	pact:sg:acc.inst:f:imperf:aff		
-fiksujące	fiksować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fiksujące	fiksować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-fiksującego	fiksować:v2	pact:sg:acc:m1.m2:imperf:aff		
-fiksującego	fiksować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fiksującej	fiksować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-fiksującemu	fiksować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 fiksując	fiksować:v2	pcon:imperf		
-fiksujących	fiksować:v2	pact:pl:acc:m1.p1:imperf:aff		
-fiksujących	fiksować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fiksujący	fiksować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-fiksujący	fiksować:v2	pact:sg:acc:m3:imperf:aff		
-fiksujący	fiksować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-fiksującym	fiksować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fiksującym	fiksować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fiksującymi	fiksować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fiksują	fiksować:v2	fin:pl:ter:imperf		
 fiksujcie	fiksować:v2	impt:pl:sec:imperf		
 fiksujecie	fiksować:v2	fin:pl:sec:imperf		
@@ -25949,48 +25989,8 @@ fiksowały	fiksować:v3	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 fiksowały	fiksować:v3	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 fiksowałyście	fiksować:v3	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 fiksowałyśmy	fiksować:v3	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
-fiksowana	fiksować:v3	ppas:sg:nom.voc:f:imperf:aff		
-fiksowaną	fiksować:v3	ppas:sg:acc.inst:f:imperf:aff		
-fiksowane	fiksować:v3	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fiksowane	fiksować:v3	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-fiksowanego	fiksować:v3	ppas:sg:acc:m1.m2:imperf:aff		
-fiksowanego	fiksować:v3	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fiksowanej	fiksować:v3	ppas:sg:gen.dat.loc:f:imperf:aff		
-fiksowanemu	fiksować:v3	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-fiksowania	fiksować:v3	ger:pl:nom.acc:n2:imperf:aff		
-fiksowania	fiksować:v3	ger:sg:gen:n2:imperf:aff		
-fiksowaniami	fiksować:v3	ger:pl:inst:n2:imperf:aff		
-fiksowanie	fiksować:v3	ger:sg:nom.acc:n2:imperf:aff		
-fiksowaniem	fiksować:v3	ger:sg:inst:n2:imperf:aff		
-fiksowani	fiksować:v3	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fiksowaniom	fiksować:v3	ger:pl:dat.loc:n2:imperf:aff		
-fiksowaniu	fiksować:v3	ger:sg:dat.loc:n2:imperf:aff		
 fiksowano	fiksować:v3	imps:imperf		daw.
-fiksowanych	fiksować:v3	ppas:pl:acc:m1.p1:imperf:aff		
-fiksowanych	fiksować:v3	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fiksowany	fiksować:v3	ppas:sg:acc:m3:imperf:aff		
-fiksowany	fiksować:v3	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-fiksowanym	fiksować:v3	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fiksowanym	fiksować:v3	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fiksowanymi	fiksować:v3	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fiksowań	fiksować:v3	ger:pl:gen:n2:imperf:aff		
-fiksująca	fiksować:v3	pact:sg:nom.voc:f:imperf:aff		
-fiksującą	fiksować:v3	pact:sg:acc.inst:f:imperf:aff		
-fiksujące	fiksować:v3	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fiksujące	fiksować:v3	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-fiksującego	fiksować:v3	pact:sg:acc:m1.m2:imperf:aff		
-fiksującego	fiksować:v3	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fiksującej	fiksować:v3	pact:sg:gen.dat.loc:f:imperf:aff		
-fiksującemu	fiksować:v3	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 fiksując	fiksować:v3	pcon:imperf		daw.
-fiksujących	fiksować:v3	pact:pl:acc:m1.p1:imperf:aff		
-fiksujących	fiksować:v3	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fiksujący	fiksować:v3	pact:pl:nom.voc:m1.p1:imperf:aff		
-fiksujący	fiksować:v3	pact:sg:acc:m3:imperf:aff		
-fiksujący	fiksować:v3	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-fiksującym	fiksować:v3	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fiksującym	fiksować:v3	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fiksującymi	fiksować:v3	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fiksują	fiksować:v3	fin:pl:ter:imperf		daw.
 fiksujcie	fiksować:v3	impt:pl:sec:imperf		daw.
 fiksujecie	fiksować:v3	fin:pl:sec:imperf		daw.
@@ -26581,7 +26581,7 @@ filatelie	filatelia	subst:pl:acc:f	pospolita	daw.
 filatelie	filatelia	subst:pl:nom:f	pospolita	daw.
 filatelie	filatelia	subst:pl:voc:f	pospolita	daw.
 filatelię	filatelia	subst:sg:acc:f	pospolita	daw.
-filatelii	filatelia	subst:pl:gen:f	pospolita	daw.|hom.
+filatelii	filatelia	subst:pl:gen:f	pospolita	hom.|daw.
 filatelii	filatelia	subst:sg:dat:f	pospolita	daw.
 filatelii	filatelia	subst:sg:gen:f	pospolita	daw.
 filatelii	filatelia	subst:sg:loc:f	pospolita	daw.
@@ -34132,20 +34132,20 @@ fiuknięto	fiuknąć	imps:perf
 fiuknijcie	fiuknąć	impt:pl:sec:perf		
 fiuknij	fiuknąć	impt:sg:sec:perf		
 fiuknijmy	fiuknąć	impt:pl:pri:perf		
-fiume	fiume	subst:pl:acc:n2	pospolita	pot.|przest.
-fiume	fiume	subst:pl:dat:n2	pospolita	pot.|przest.
-fiume	fiume	subst:pl:gen:n2	pospolita	pot.|przest.
-fiume	fiume	subst:pl:inst:n2	pospolita	pot.|przest.
-fiume	fiume	subst:pl:loc:n2	pospolita	pot.|przest.
-fiume	fiume	subst:pl:nom:n2	pospolita	pot.|przest.
-fiume	fiume	subst:pl:voc:n2	pospolita	pot.|przest.
-fiume	fiume	subst:sg:acc:n2	pospolita	pot.|przest.
-fiume	fiume	subst:sg:dat:n2	pospolita	pot.|przest.
-fiume	fiume	subst:sg:gen:n2	pospolita	pot.|przest.
-fiume	fiume	subst:sg:inst:n2	pospolita	pot.|przest.
-fiume	fiume	subst:sg:loc:n2	pospolita	pot.|przest.
-fiume	fiume	subst:sg:nom:n2	pospolita	pot.|przest.
-fiume	fiume	subst:sg:voc:n2	pospolita	pot.|przest.
+fiume	fiume	subst:pl:acc:n2	pospolita	przest.|pot.
+fiume	fiume	subst:pl:dat:n2	pospolita	przest.|pot.
+fiume	fiume	subst:pl:gen:n2	pospolita	przest.|pot.
+fiume	fiume	subst:pl:inst:n2	pospolita	przest.|pot.
+fiume	fiume	subst:pl:loc:n2	pospolita	przest.|pot.
+fiume	fiume	subst:pl:nom:n2	pospolita	przest.|pot.
+fiume	fiume	subst:pl:voc:n2	pospolita	przest.|pot.
+fiume	fiume	subst:sg:acc:n2	pospolita	przest.|pot.
+fiume	fiume	subst:sg:dat:n2	pospolita	przest.|pot.
+fiume	fiume	subst:sg:gen:n2	pospolita	przest.|pot.
+fiume	fiume	subst:sg:inst:n2	pospolita	przest.|pot.
+fiume	fiume	subst:sg:loc:n2	pospolita	przest.|pot.
+fiume	fiume	subst:sg:nom:n2	pospolita	przest.|pot.
+fiume	fiume	subst:sg:voc:n2	pospolita	przest.|pot.
 fiumoarach	fiumoar	subst:pl:loc:m3	pospolita	przest.
 fiumoarami	fiumoar	subst:pl:inst:m3	pospolita	przest.
 fiumoarem	fiumoar	subst:sg:inst:m3	pospolita	przest.
@@ -35191,35 +35191,35 @@ flaczarnio	flaczarnia	subst:sg:voc:f	pospolita	przest.
 flaczarniom	flaczarnia	subst:pl:dat:f	pospolita	przest.
 flaczarń	flaczarnia	subst:pl:gen:f	pospolita	char.|przest.
 flaczarzach	flaczarz	subst:pl:loc:m1	pospolita	przest.
-flaczarzach	flaczarz	subst:pl:loc:m1	pospolita	rzad.|przest.
+flaczarzach	flaczarz	subst:pl:loc:m1	pospolita	przest.|rzad.
 flaczarza	flaczarz	subst:sg:acc:m1	pospolita	przest.
-flaczarza	flaczarz	subst:sg:acc:m1	pospolita	rzad.|przest.
+flaczarza	flaczarz	subst:sg:acc:m1	pospolita	przest.|rzad.
 flaczarza	flaczarz	subst:sg:gen:m1	pospolita	przest.
-flaczarza	flaczarz	subst:sg:gen:m1	pospolita	rzad.|przest.
+flaczarza	flaczarz	subst:sg:gen:m1	pospolita	przest.|rzad.
 flaczarzami	flaczarz	subst:pl:inst:m1	pospolita	przest.
-flaczarzami	flaczarz	subst:pl:inst:m1	pospolita	rzad.|przest.
+flaczarzami	flaczarz	subst:pl:inst:m1	pospolita	przest.|rzad.
 flaczarze	flaczarz	depr:pl:nom:m2	pospolita	przest.
-flaczarze	flaczarz	depr:pl:nom:m2	pospolita	rzad.|przest.
+flaczarze	flaczarz	depr:pl:nom:m2	pospolita	przest.|rzad.
 flaczarze	flaczarz	depr:pl:voc:m2	pospolita	przest.
-flaczarze	flaczarz	depr:pl:voc:m2	pospolita	rzad.|przest.
+flaczarze	flaczarz	depr:pl:voc:m2	pospolita	przest.|rzad.
 flaczarze	flaczarz	subst:pl:nom:m1	pospolita	przest.
-flaczarze	flaczarz	subst:pl:nom:m1	pospolita	rzad.|przest.
+flaczarze	flaczarz	subst:pl:nom:m1	pospolita	przest.|rzad.
 flaczarze	flaczarz	subst:pl:voc:m1	pospolita	przest.
-flaczarze	flaczarz	subst:pl:voc:m1	pospolita	rzad.|przest.
+flaczarze	flaczarz	subst:pl:voc:m1	pospolita	przest.|rzad.
 flaczarzem	flaczarz	subst:sg:inst:m1	pospolita	przest.
-flaczarzem	flaczarz	subst:sg:inst:m1	pospolita	rzad.|przest.
+flaczarzem	flaczarz	subst:sg:inst:m1	pospolita	przest.|rzad.
 flaczarz	flaczarz	subst:sg:nom:m1	pospolita	przest.
-flaczarz	flaczarz	subst:sg:nom:m1	pospolita	rzad.|przest.
+flaczarz	flaczarz	subst:sg:nom:m1	pospolita	przest.|rzad.
 flaczarzom	flaczarz	subst:pl:dat:m1	pospolita	przest.
-flaczarzom	flaczarz	subst:pl:dat:m1	pospolita	rzad.|przest.
+flaczarzom	flaczarz	subst:pl:dat:m1	pospolita	przest.|rzad.
 flaczarzowi	flaczarz	subst:sg:dat:m1	pospolita	przest.
-flaczarzowi	flaczarz	subst:sg:dat:m1	pospolita	rzad.|przest.
-flaczarzów	flaczarz	subst:pl:acc:m1	pospolita	rzad.|przest.
-flaczarzów	flaczarz	subst:pl:gen:m1	pospolita	rzad.|przest.
+flaczarzowi	flaczarz	subst:sg:dat:m1	pospolita	przest.|rzad.
+flaczarzów	flaczarz	subst:pl:acc:m1	pospolita	przest.|rzad.
+flaczarzów	flaczarz	subst:pl:gen:m1	pospolita	przest.|rzad.
 flaczarzu	flaczarz	subst:sg:loc:m1	pospolita	przest.
-flaczarzu	flaczarz	subst:sg:loc:m1	pospolita	rzad.|przest.
+flaczarzu	flaczarz	subst:sg:loc:m1	pospolita	przest.|rzad.
 flaczarzu	flaczarz	subst:sg:voc:m1	pospolita	przest.
-flaczarzu	flaczarz	subst:sg:voc:m1	pospolita	rzad.|przest.
+flaczarzu	flaczarz	subst:sg:voc:m1	pospolita	przest.|rzad.
 flaczarzy	flaczarz	subst:pl:acc:m1	pospolita	przest.
 flaczarzy	flaczarz	subst:pl:gen:m1	pospolita	przest.
 flaczałaby	flaczeć	cond:sg:f:ter:imperf		
@@ -35429,6 +35429,86 @@ fladry	fladra	subst:pl:voc:f	pospolita	łow.
 fladry	fladra	subst:sg:gen:f	pospolita	łow.
 fladrze	fladra	subst:sg:dat:f	pospolita	łow.
 fladrze	fladra	subst:sg:loc:f	pospolita	łow.
+fladrowana	fladrować:v	ppas:sg:nom.voc:f:imperf:aff		
+fladrowaną	fladrować:v	ppas:sg:acc.inst:f:imperf:aff		
+fladrowane	fladrować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fladrowane	fladrować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+fladrowanego	fladrować:v	ppas:sg:acc:m1.m2:imperf:aff		
+fladrowanego	fladrować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fladrowanej	fladrować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+fladrowanemu	fladrować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fladrowania	fladrować:v	ger:pl:nom.acc:n2:imperf:aff		
+fladrowania	fladrować:v	ger:sg:gen:n2:imperf:aff		
+fladrowaniami	fladrować:v	ger:pl:inst:n2:imperf:aff		
+fladrowanie	fladrować:v	ger:sg:nom.acc:n2:imperf:aff		
+fladrowaniem	fladrować:v	ger:sg:inst:n2:imperf:aff		
+fladrowani	fladrować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+fladrowaniom	fladrować:v	ger:pl:dat.loc:n2:imperf:aff		
+fladrowaniu	fladrować:v	ger:sg:dat.loc:n2:imperf:aff		
+fladrowanych	fladrować:v	ppas:pl:acc:m1.p1:imperf:aff		
+fladrowanych	fladrować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fladrowany	fladrować:v	ppas:sg:acc:m3:imperf:aff		
+fladrowany	fladrować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+fladrowanym	fladrować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fladrowanym	fladrować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fladrowanymi	fladrować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fladrowań	fladrować:v	ger:pl:gen:n2:imperf:aff		
+fladrująca	fladrować:v	pact:sg:nom.voc:f:imperf:aff		
+fladrującą	fladrować:v	pact:sg:acc.inst:f:imperf:aff		
+fladrujące	fladrować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fladrujące	fladrować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+fladrującego	fladrować:v	pact:sg:acc:m1.m2:imperf:aff		
+fladrującego	fladrować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fladrującej	fladrować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+fladrującemu	fladrować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fladrujących	fladrować:v	pact:pl:acc:m1.p1:imperf:aff		
+fladrujących	fladrować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fladrujący	fladrować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+fladrujący	fladrować:v	pact:sg:acc:m3:imperf:aff		
+fladrujący	fladrować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+fladrującym	fladrować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fladrującym	fladrować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fladrującymi	fladrować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fladrowana	fladrować:v	ppas:sg:nom.voc:f:imperf:aff		
+fladrowaną	fladrować:v	ppas:sg:acc.inst:f:imperf:aff		
+fladrowane	fladrować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fladrowane	fladrować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+fladrowanego	fladrować:v	ppas:sg:acc:m1.m2:imperf:aff		
+fladrowanego	fladrować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fladrowanej	fladrować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+fladrowanemu	fladrować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fladrowania	fladrować:v	ger:pl:nom.acc:n2:imperf:aff		
+fladrowania	fladrować:v	ger:sg:gen:n2:imperf:aff		
+fladrowaniami	fladrować:v	ger:pl:inst:n2:imperf:aff		
+fladrowanie	fladrować:v	ger:sg:nom.acc:n2:imperf:aff		
+fladrowaniem	fladrować:v	ger:sg:inst:n2:imperf:aff		
+fladrowani	fladrować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+fladrowaniom	fladrować:v	ger:pl:dat.loc:n2:imperf:aff		
+fladrowaniu	fladrować:v	ger:sg:dat.loc:n2:imperf:aff		
+fladrowanych	fladrować:v	ppas:pl:acc:m1.p1:imperf:aff		
+fladrowanych	fladrować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fladrowany	fladrować:v	ppas:sg:acc:m3:imperf:aff		
+fladrowany	fladrować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+fladrowanym	fladrować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fladrowanym	fladrować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fladrowanymi	fladrować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fladrowań	fladrować:v	ger:pl:gen:n2:imperf:aff		
+fladrująca	fladrować:v	pact:sg:nom.voc:f:imperf:aff		
+fladrującą	fladrować:v	pact:sg:acc.inst:f:imperf:aff		
+fladrujące	fladrować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+fladrujące	fladrować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+fladrującego	fladrować:v	pact:sg:acc:m1.m2:imperf:aff		
+fladrującego	fladrować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+fladrującej	fladrować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+fladrującemu	fladrować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+fladrujących	fladrować:v	pact:pl:acc:m1.p1:imperf:aff		
+fladrujących	fladrować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fladrujący	fladrować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+fladrujący	fladrować:v	pact:sg:acc:m3:imperf:aff		
+fladrujący	fladrować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+fladrującym	fladrować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+fladrującym	fladrować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+fladrującymi	fladrować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fladrować	fladrować:v1	inf:imperf		
 fladrowaliby	fladrować:v1	cond:pl:m1.p1:ter:imperf		
 fladrowalibyście	fladrować:v1	cond:pl:m1.p1:sec:imperf		
@@ -35465,48 +35545,8 @@ fladrowały	fladrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fladrowały	fladrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fladrowałyście	fladrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fladrowałyśmy	fladrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-fladrowana	fladrować:v1	ppas:sg:nom.voc:f:imperf:aff		
-fladrowaną	fladrować:v1	ppas:sg:acc.inst:f:imperf:aff		
-fladrowane	fladrować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fladrowane	fladrować:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-fladrowanego	fladrować:v1	ppas:sg:acc:m1.m2:imperf:aff		
-fladrowanego	fladrować:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fladrowanej	fladrować:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
-fladrowanemu	fladrować:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-fladrowania	fladrować:v1	ger:pl:nom.acc:n2:imperf:aff		
-fladrowania	fladrować:v1	ger:sg:gen:n2:imperf:aff		
-fladrowaniami	fladrować:v1	ger:pl:inst:n2:imperf:aff		
-fladrowanie	fladrować:v1	ger:sg:nom.acc:n2:imperf:aff		
-fladrowaniem	fladrować:v1	ger:sg:inst:n2:imperf:aff		
-fladrowani	fladrować:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fladrowaniom	fladrować:v1	ger:pl:dat.loc:n2:imperf:aff		
-fladrowaniu	fladrować:v1	ger:sg:dat.loc:n2:imperf:aff		
 fladrowano	fladrować:v1	imps:imperf		
-fladrowanych	fladrować:v1	ppas:pl:acc:m1.p1:imperf:aff		
-fladrowanych	fladrować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fladrowany	fladrować:v1	ppas:sg:acc:m3:imperf:aff		
-fladrowany	fladrować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-fladrowanym	fladrować:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fladrowanym	fladrować:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fladrowanymi	fladrować:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fladrowań	fladrować:v1	ger:pl:gen:n2:imperf:aff		
-fladrująca	fladrować:v1	pact:sg:nom.voc:f:imperf:aff		
-fladrującą	fladrować:v1	pact:sg:acc.inst:f:imperf:aff		
-fladrujące	fladrować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fladrujące	fladrować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-fladrującego	fladrować:v1	pact:sg:acc:m1.m2:imperf:aff		
-fladrującego	fladrować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fladrującej	fladrować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-fladrującemu	fladrować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 fladrując	fladrować:v1	pcon:imperf		
-fladrujących	fladrować:v1	pact:pl:acc:m1.p1:imperf:aff		
-fladrujących	fladrować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fladrujący	fladrować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-fladrujący	fladrować:v1	pact:sg:acc:m3:imperf:aff		
-fladrujący	fladrować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-fladrującym	fladrować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fladrującym	fladrować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fladrującymi	fladrować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fladrują	fladrować:v1	fin:pl:ter:imperf		
 fladrujcie	fladrować:v1	impt:pl:sec:imperf		
 fladrujecie	fladrować:v1	fin:pl:sec:imperf		
@@ -35552,48 +35592,8 @@ fladrowały	fladrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 fladrowały	fladrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 fladrowałyście	fladrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 fladrowałyśmy	fladrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-fladrowana	fladrować:v2	ppas:sg:nom.voc:f:imperf:aff		
-fladrowaną	fladrować:v2	ppas:sg:acc.inst:f:imperf:aff		
-fladrowane	fladrować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fladrowane	fladrować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-fladrowanego	fladrować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-fladrowanego	fladrować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fladrowanej	fladrować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-fladrowanemu	fladrować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-fladrowania	fladrować:v2	ger:pl:nom.acc:n2:imperf:aff		
-fladrowania	fladrować:v2	ger:sg:gen:n2:imperf:aff		
-fladrowaniami	fladrować:v2	ger:pl:inst:n2:imperf:aff		
-fladrowanie	fladrować:v2	ger:sg:nom.acc:n2:imperf:aff		
-fladrowaniem	fladrować:v2	ger:sg:inst:n2:imperf:aff		
-fladrowani	fladrować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-fladrowaniom	fladrować:v2	ger:pl:dat.loc:n2:imperf:aff		
-fladrowaniu	fladrować:v2	ger:sg:dat.loc:n2:imperf:aff		
 fladrowano	fladrować:v2	imps:imperf		
-fladrowanych	fladrować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-fladrowanych	fladrować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fladrowany	fladrować:v2	ppas:sg:acc:m3:imperf:aff		
-fladrowany	fladrować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-fladrowanym	fladrować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fladrowanym	fladrować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fladrowanymi	fladrować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fladrowań	fladrować:v2	ger:pl:gen:n2:imperf:aff		
-fladrująca	fladrować:v2	pact:sg:nom.voc:f:imperf:aff		
-fladrującą	fladrować:v2	pact:sg:acc.inst:f:imperf:aff		
-fladrujące	fladrować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-fladrujące	fladrować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-fladrującego	fladrować:v2	pact:sg:acc:m1.m2:imperf:aff		
-fladrującego	fladrować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-fladrującej	fladrować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-fladrującemu	fladrować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 fladrując	fladrować:v2	pcon:imperf		
-fladrujących	fladrować:v2	pact:pl:acc:m1.p1:imperf:aff		
-fladrujących	fladrować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fladrujący	fladrować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-fladrujący	fladrować:v2	pact:sg:acc:m3:imperf:aff		
-fladrujący	fladrować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-fladrującym	fladrować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-fladrującym	fladrować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-fladrującymi	fladrować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 fladrują	fladrować:v2	fin:pl:ter:imperf		
 fladrujcie	fladrować:v2	impt:pl:sec:imperf		
 fladrujecie	fladrować:v2	fin:pl:sec:imperf		
@@ -43192,20 +43192,20 @@ folderowym	folderowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 folderowym	folderowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 folderowym	folderowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 folderowymi	folderowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-foldze	folga	subst:sg:dat:f	pospolita	przest. dziś książk.
-foldze	folga	subst:sg:loc:f	pospolita	przest. dziś książk.
-folgach	folga	subst:pl:loc:f	pospolita	przest. dziś książk.
-folga	folga	subst:sg:nom:f	pospolita	przest. dziś książk.
-folgami	folga	subst:pl:inst:f	pospolita	przest. dziś książk.
-folgą	folga	subst:sg:inst:f	pospolita	przest. dziś książk.
-folgę	folga	subst:sg:acc:f	pospolita	przest. dziś książk.
-folg	folga	subst:pl:gen:f	pospolita	przest. dziś książk.
-folgi	folga	subst:pl:acc:f	pospolita	przest. dziś książk.
-folgi	folga	subst:pl:nom:f	pospolita	przest. dziś książk.
-folgi	folga	subst:pl:voc:f	pospolita	przest. dziś książk.
-folgi	folga	subst:sg:gen:f	pospolita	przest. dziś książk.
-folgo	folga	subst:sg:voc:f	pospolita	przest. dziś książk.
-folgom	folga	subst:pl:dat:f	pospolita	przest. dziś książk.
+foldze	folga	subst:sg:dat:f	pospolita	przest._dziś_książk.
+foldze	folga	subst:sg:loc:f	pospolita	przest._dziś_książk.
+folgach	folga	subst:pl:loc:f	pospolita	przest._dziś_książk.
+folga	folga	subst:sg:nom:f	pospolita	przest._dziś_książk.
+folgami	folga	subst:pl:inst:f	pospolita	przest._dziś_książk.
+folgą	folga	subst:sg:inst:f	pospolita	przest._dziś_książk.
+folgę	folga	subst:sg:acc:f	pospolita	przest._dziś_książk.
+folg	folga	subst:pl:gen:f	pospolita	przest._dziś_książk.
+folgi	folga	subst:pl:acc:f	pospolita	przest._dziś_książk.
+folgi	folga	subst:pl:nom:f	pospolita	przest._dziś_książk.
+folgi	folga	subst:pl:voc:f	pospolita	przest._dziś_książk.
+folgi	folga	subst:sg:gen:f	pospolita	przest._dziś_książk.
+folgo	folga	subst:sg:voc:f	pospolita	przest._dziś_książk.
+folgom	folga	subst:pl:dat:f	pospolita	przest._dziś_książk.
 folgować	folgować	inf:imperf		przest.
 folgowaliby	folgować	cond:pl:m1.p1:ter:imperf		przest.
 folgowalibyście	folgować	cond:pl:m1.p1:sec:imperf		przest.
@@ -45886,7 +45886,7 @@ forfanterie	forfanteria	subst:pl:acc:f	pospolita	daw.
 forfanterie	forfanteria	subst:pl:nom:f	pospolita	daw.
 forfanterie	forfanteria	subst:pl:voc:f	pospolita	daw.
 forfanterię	forfanteria	subst:sg:acc:f	pospolita	daw.
-forfanterii	forfanteria	subst:pl:gen:f	pospolita	daw.|hom.
+forfanterii	forfanteria	subst:pl:gen:f	pospolita	hom.|daw.
 forfanterii	forfanteria	subst:sg:dat:f	pospolita	daw.
 forfanterii	forfanteria	subst:sg:gen:f	pospolita	daw.
 forfanterii	forfanteria	subst:sg:loc:f	pospolita	daw.
@@ -46414,34 +46414,34 @@ formalnościowym	formalnościowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 formalnościowym	formalnościowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 formalnościowym	formalnościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 formalnościowymi	formalnościowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-formalnościach	formalność:s1	subst:pl:loc:f	pospolita	
-formalnościami	formalność:s1	subst:pl:inst:f	pospolita	
-formalnością	formalność:s1	subst:sg:inst:f	pospolita	
-formalności	formalność:s1	subst:pl:acc:f	pospolita	
-formalności	formalność:s1	subst:pl:gen:f	pospolita	
-formalności	formalność:s1	subst:pl:nom:f	pospolita	
-formalności	formalność:s1	subst:pl:voc:f	pospolita	
-formalności	formalność:s1	subst:sg:dat:f	pospolita	
-formalności	formalność:s1	subst:sg:gen:f	pospolita	
-formalności	formalność:s1	subst:sg:loc:f	pospolita	
-formalności	formalność:s1	subst:sg:voc:f	pospolita	
-formalnościom	formalność:s1	subst:pl:dat:f	pospolita	
-formalność	formalność:s1	subst:sg:acc:f	pospolita	
-formalność	formalność:s1	subst:sg:nom:f	pospolita	
-formalnościach	formalność:s2	subst:pl:loc:f		
-formalnościami	formalność:s2	subst:pl:inst:f		
-formalnością	formalność:s2	subst:sg:inst:f		
-formalności	formalność:s2	subst:pl:acc:f		
-formalności	formalność:s2	subst:pl:gen:f		
-formalności	formalność:s2	subst:pl:nom:f		
-formalności	formalność:s2	subst:pl:voc:f		
-formalności	formalność:s2	subst:sg:dat:f		
-formalności	formalność:s2	subst:sg:gen:f		
-formalności	formalność:s2	subst:sg:loc:f		
-formalności	formalność:s2	subst:sg:voc:f		
-formalnościom	formalność:s2	subst:pl:dat:f		
-formalność	formalność:s2	subst:sg:acc:f		
-formalność	formalność:s2	subst:sg:nom:f		
+formalnościach	formalność:s	subst:pl:loc:f	pospolita	
+formalnościami	formalność:s	subst:pl:inst:f	pospolita	
+formalnością	formalność:s	subst:sg:inst:f	pospolita	
+formalności	formalność:s	subst:pl:acc:f	pospolita	
+formalności	formalność:s	subst:pl:gen:f	pospolita	
+formalności	formalność:s	subst:pl:nom:f	pospolita	
+formalności	formalność:s	subst:pl:voc:f	pospolita	
+formalności	formalność:s	subst:sg:dat:f	pospolita	
+formalności	formalność:s	subst:sg:gen:f	pospolita	
+formalności	formalność:s	subst:sg:loc:f	pospolita	
+formalności	formalność:s	subst:sg:voc:f	pospolita	
+formalnościom	formalność:s	subst:pl:dat:f	pospolita	
+formalność	formalność:s	subst:sg:acc:f	pospolita	
+formalność	formalność:s	subst:sg:nom:f	pospolita	
+formalnościach	formalność:s	subst:pl:loc:f		
+formalnościami	formalność:s	subst:pl:inst:f		
+formalnością	formalność:s	subst:sg:inst:f		
+formalności	formalność:s	subst:pl:acc:f		
+formalności	formalność:s	subst:pl:gen:f		
+formalności	formalność:s	subst:pl:nom:f		
+formalności	formalność:s	subst:pl:voc:f		
+formalności	formalność:s	subst:sg:dat:f		
+formalności	formalność:s	subst:sg:gen:f		
+formalności	formalność:s	subst:sg:loc:f		
+formalności	formalność:s	subst:sg:voc:f		
+formalnościom	formalność:s	subst:pl:dat:f		
+formalność	formalność:s	subst:sg:acc:f		
+formalność	formalność:s	subst:sg:nom:f		
 formalna	formalny	adj:sg:nom.voc:f:pos		
 formalną	formalny	adj:sg:acc:f:pos		
 formalną	formalny	adj:sg:inst:f:pos		
@@ -47928,6 +47928,86 @@ fornirskości	fornirskość	subst:sg:voc:f
 fornirskościom	fornirskość	subst:pl:dat:f		
 fornirskość	fornirskość	subst:sg:acc:f		
 fornirskość	fornirskość	subst:sg:nom:f		
+forowana	forować:v	ppas:sg:nom.voc:f:imperf:aff		
+forowaną	forować:v	ppas:sg:acc.inst:f:imperf:aff		
+forowane	forować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+forowane	forować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+forowanego	forować:v	ppas:sg:acc:m1.m2:imperf:aff		
+forowanego	forować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+forowanej	forować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+forowanemu	forować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+forowania	forować:v	ger:pl:nom.acc:n2:imperf:aff		
+forowania	forować:v	ger:sg:gen:n2:imperf:aff		
+forowaniami	forować:v	ger:pl:inst:n2:imperf:aff		
+forowanie	forować:v	ger:sg:nom.acc:n2:imperf:aff		
+forowaniem	forować:v	ger:sg:inst:n2:imperf:aff		
+forowani	forować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+forowaniom	forować:v	ger:pl:dat.loc:n2:imperf:aff		
+forowaniu	forować:v	ger:sg:dat.loc:n2:imperf:aff		
+forowanych	forować:v	ppas:pl:acc:m1.p1:imperf:aff		
+forowanych	forować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+forowany	forować:v	ppas:sg:acc:m3:imperf:aff		
+forowany	forować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+forowanym	forować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+forowanym	forować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+forowanymi	forować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+forowań	forować:v	ger:pl:gen:n2:imperf:aff		
+forująca	forować:v	pact:sg:nom.voc:f:imperf:aff		
+forującą	forować:v	pact:sg:acc.inst:f:imperf:aff		
+forujące	forować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+forujące	forować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+forującego	forować:v	pact:sg:acc:m1.m2:imperf:aff		
+forującego	forować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+forującej	forować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+forującemu	forować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+forujących	forować:v	pact:pl:acc:m1.p1:imperf:aff		
+forujących	forować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+forujący	forować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+forujący	forować:v	pact:sg:acc:m3:imperf:aff		
+forujący	forować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+forującym	forować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+forującym	forować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+forującymi	forować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+forowana	forować:v	ppas:sg:nom.voc:f:imperf:aff		
+forowaną	forować:v	ppas:sg:acc.inst:f:imperf:aff		
+forowane	forować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+forowane	forować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+forowanego	forować:v	ppas:sg:acc:m1.m2:imperf:aff		
+forowanego	forować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+forowanej	forować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+forowanemu	forować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+forowania	forować:v	ger:pl:nom.acc:n2:imperf:aff		
+forowania	forować:v	ger:sg:gen:n2:imperf:aff		
+forowaniami	forować:v	ger:pl:inst:n2:imperf:aff		
+forowanie	forować:v	ger:sg:nom.acc:n2:imperf:aff		
+forowaniem	forować:v	ger:sg:inst:n2:imperf:aff		
+forowani	forować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+forowaniom	forować:v	ger:pl:dat.loc:n2:imperf:aff		
+forowaniu	forować:v	ger:sg:dat.loc:n2:imperf:aff		
+forowanych	forować:v	ppas:pl:acc:m1.p1:imperf:aff		
+forowanych	forować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+forowany	forować:v	ppas:sg:acc:m3:imperf:aff		
+forowany	forować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+forowanym	forować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+forowanym	forować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+forowanymi	forować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+forowań	forować:v	ger:pl:gen:n2:imperf:aff		
+forująca	forować:v	pact:sg:nom.voc:f:imperf:aff		
+forującą	forować:v	pact:sg:acc.inst:f:imperf:aff		
+forujące	forować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+forujące	forować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+forującego	forować:v	pact:sg:acc:m1.m2:imperf:aff		
+forującego	forować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+forującej	forować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+forującemu	forować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+forujących	forować:v	pact:pl:acc:m1.p1:imperf:aff		
+forujących	forować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+forujący	forować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+forujący	forować:v	pact:sg:acc:m3:imperf:aff		
+forujący	forować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+forującym	forować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+forującym	forować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+forującymi	forować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 forować	forować:v1	inf:imperf		
 forowaliby	forować:v1	cond:pl:m1.p1:ter:imperf		
 forowalibyście	forować:v1	cond:pl:m1.p1:sec:imperf		
@@ -47964,48 +48044,8 @@ forowały	forować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf
 forowały	forować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
 forowałyście	forować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
 forowałyśmy	forować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-forowana	forować:v1	ppas:sg:nom.voc:f:imperf:aff		
-forowaną	forować:v1	ppas:sg:acc.inst:f:imperf:aff		
-forowane	forować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-forowane	forować:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-forowanego	forować:v1	ppas:sg:acc:m1.m2:imperf:aff		
-forowanego	forować:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-forowanej	forować:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
-forowanemu	forować:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-forowania	forować:v1	ger:pl:nom.acc:n2:imperf:aff		
-forowania	forować:v1	ger:sg:gen:n2:imperf:aff		
-forowaniami	forować:v1	ger:pl:inst:n2:imperf:aff		
-forowanie	forować:v1	ger:sg:nom.acc:n2:imperf:aff		
-forowaniem	forować:v1	ger:sg:inst:n2:imperf:aff		
-forowani	forować:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
-forowaniom	forować:v1	ger:pl:dat.loc:n2:imperf:aff		
-forowaniu	forować:v1	ger:sg:dat.loc:n2:imperf:aff		
 forowano	forować:v1	imps:imperf		
-forowanych	forować:v1	ppas:pl:acc:m1.p1:imperf:aff		
-forowanych	forować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-forowany	forować:v1	ppas:sg:acc:m3:imperf:aff		
-forowany	forować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-forowanym	forować:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-forowanym	forować:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-forowanymi	forować:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-forowań	forować:v1	ger:pl:gen:n2:imperf:aff		
-forująca	forować:v1	pact:sg:nom.voc:f:imperf:aff		
-forującą	forować:v1	pact:sg:acc.inst:f:imperf:aff		
-forujące	forować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-forujące	forować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-forującego	forować:v1	pact:sg:acc:m1.m2:imperf:aff		
-forującego	forować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-forującej	forować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-forującemu	forować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 forując	forować:v1	pcon:imperf		
-forujących	forować:v1	pact:pl:acc:m1.p1:imperf:aff		
-forujących	forować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-forujący	forować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-forujący	forować:v1	pact:sg:acc:m3:imperf:aff		
-forujący	forować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-forującym	forować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-forującym	forować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-forującymi	forować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 forują	forować:v1	fin:pl:ter:imperf		
 forujcie	forować:v1	impt:pl:sec:imperf		
 forujecie	forować:v1	fin:pl:sec:imperf		
@@ -48051,48 +48091,8 @@ forowały	forować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 forowały	forować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 forowałyście	forować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 forowałyśmy	forować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
-forowana	forować:v2	ppas:sg:nom.voc:f:imperf:aff		
-forowaną	forować:v2	ppas:sg:acc.inst:f:imperf:aff		
-forowane	forować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-forowane	forować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-forowanego	forować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-forowanego	forować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-forowanej	forować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-forowanemu	forować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-forowania	forować:v2	ger:pl:nom.acc:n2:imperf:aff		
-forowania	forować:v2	ger:sg:gen:n2:imperf:aff		
-forowaniami	forować:v2	ger:pl:inst:n2:imperf:aff		
-forowanie	forować:v2	ger:sg:nom.acc:n2:imperf:aff		
-forowaniem	forować:v2	ger:sg:inst:n2:imperf:aff		
-forowani	forować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-forowaniom	forować:v2	ger:pl:dat.loc:n2:imperf:aff		
-forowaniu	forować:v2	ger:sg:dat.loc:n2:imperf:aff		
 forowano	forować:v2	imps:imperf		daw.
-forowanych	forować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-forowanych	forować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-forowany	forować:v2	ppas:sg:acc:m3:imperf:aff		
-forowany	forować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-forowanym	forować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-forowanym	forować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-forowanymi	forować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-forowań	forować:v2	ger:pl:gen:n2:imperf:aff		
-forująca	forować:v2	pact:sg:nom.voc:f:imperf:aff		
-forującą	forować:v2	pact:sg:acc.inst:f:imperf:aff		
-forujące	forować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-forujące	forować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-forującego	forować:v2	pact:sg:acc:m1.m2:imperf:aff		
-forującego	forować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-forującej	forować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-forującemu	forować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 forując	forować:v2	pcon:imperf		daw.
-forujących	forować:v2	pact:pl:acc:m1.p1:imperf:aff		
-forujących	forować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-forujący	forować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-forujący	forować:v2	pact:sg:acc:m3:imperf:aff		
-forujący	forować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-forującym	forować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-forującym	forować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-forującymi	forować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 forują	forować:v2	fin:pl:ter:imperf		daw.
 forujcie	forować:v2	impt:pl:sec:imperf		daw.
 forujecie	forować:v2	fin:pl:sec:imperf		daw.
@@ -48467,7 +48467,7 @@ forsztelacje	forsztelacja	subst:pl:acc:f	pospolita	daw.
 forsztelacje	forsztelacja	subst:pl:nom:f	pospolita	daw.
 forsztelacje	forsztelacja	subst:pl:voc:f	pospolita	daw.
 forsztelację	forsztelacja	subst:sg:acc:f	pospolita	daw.
-forsztelacji	forsztelacja	subst:pl:gen:f	pospolita	daw.|hom.
+forsztelacji	forsztelacja	subst:pl:gen:f	pospolita	hom.|daw.
 forsztelacji	forsztelacja	subst:sg:dat:f	pospolita	daw.
 forsztelacji	forsztelacja	subst:sg:gen:f	pospolita	daw.
 forsztelacji	forsztelacja	subst:sg:loc:f	pospolita	daw.
@@ -49752,7 +49752,7 @@ forysterie	forysteria	subst:pl:acc:f	pospolita	daw.
 forysterie	forysteria	subst:pl:nom:f	pospolita	daw.
 forysterie	forysteria	subst:pl:voc:f	pospolita	daw.
 forysterię	forysteria	subst:sg:acc:f	pospolita	daw.
-forysterii	forysteria	subst:pl:gen:f	pospolita	daw.|hom.
+forysterii	forysteria	subst:pl:gen:f	pospolita	hom.|daw.
 forysterii	forysteria	subst:sg:dat:f	pospolita	daw.
 forysterii	forysteria	subst:sg:gen:f	pospolita	daw.
 forysterii	forysteria	subst:sg:loc:f	pospolita	daw.
@@ -51482,34 +51482,34 @@ fotoelektronowym	fotoelektronowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 fotoelektronowym	fotoelektronowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 fotoelektronowym	fotoelektronowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 fotoelektronowymi	fotoelektronowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-fotoelektrycznościach	fotoelektryczność:s1	subst:pl:loc:f	pospolita	
-fotoelektrycznościami	fotoelektryczność:s1	subst:pl:inst:f	pospolita	
-fotoelektrycznością	fotoelektryczność:s1	subst:sg:inst:f	pospolita	
-fotoelektryczności	fotoelektryczność:s1	subst:pl:acc:f	pospolita	
-fotoelektryczności	fotoelektryczność:s1	subst:pl:gen:f	pospolita	
-fotoelektryczności	fotoelektryczność:s1	subst:pl:nom:f	pospolita	
-fotoelektryczności	fotoelektryczność:s1	subst:pl:voc:f	pospolita	
-fotoelektryczności	fotoelektryczność:s1	subst:sg:dat:f	pospolita	
-fotoelektryczności	fotoelektryczność:s1	subst:sg:gen:f	pospolita	
-fotoelektryczności	fotoelektryczność:s1	subst:sg:loc:f	pospolita	
-fotoelektryczności	fotoelektryczność:s1	subst:sg:voc:f	pospolita	
-fotoelektrycznościom	fotoelektryczność:s1	subst:pl:dat:f	pospolita	
-fotoelektryczność	fotoelektryczność:s1	subst:sg:acc:f	pospolita	
-fotoelektryczność	fotoelektryczność:s1	subst:sg:nom:f	pospolita	
-fotoelektrycznościach	fotoelektryczność:s2	subst:pl:loc:f		
-fotoelektrycznościami	fotoelektryczność:s2	subst:pl:inst:f		
-fotoelektrycznością	fotoelektryczność:s2	subst:sg:inst:f		
-fotoelektryczności	fotoelektryczność:s2	subst:pl:acc:f		
-fotoelektryczności	fotoelektryczność:s2	subst:pl:gen:f		
-fotoelektryczności	fotoelektryczność:s2	subst:pl:nom:f		
-fotoelektryczności	fotoelektryczność:s2	subst:pl:voc:f		
-fotoelektryczności	fotoelektryczność:s2	subst:sg:dat:f		
-fotoelektryczności	fotoelektryczność:s2	subst:sg:gen:f		
-fotoelektryczności	fotoelektryczność:s2	subst:sg:loc:f		
-fotoelektryczności	fotoelektryczność:s2	subst:sg:voc:f		
-fotoelektrycznościom	fotoelektryczność:s2	subst:pl:dat:f		
-fotoelektryczność	fotoelektryczność:s2	subst:sg:acc:f		
-fotoelektryczność	fotoelektryczność:s2	subst:sg:nom:f		
+fotoelektrycznościach	fotoelektryczność:s	subst:pl:loc:f	pospolita	
+fotoelektrycznościami	fotoelektryczność:s	subst:pl:inst:f	pospolita	
+fotoelektrycznością	fotoelektryczność:s	subst:sg:inst:f	pospolita	
+fotoelektryczności	fotoelektryczność:s	subst:pl:acc:f	pospolita	
+fotoelektryczności	fotoelektryczność:s	subst:pl:gen:f	pospolita	
+fotoelektryczności	fotoelektryczność:s	subst:pl:nom:f	pospolita	
+fotoelektryczności	fotoelektryczność:s	subst:pl:voc:f	pospolita	
+fotoelektryczności	fotoelektryczność:s	subst:sg:dat:f	pospolita	
+fotoelektryczności	fotoelektryczność:s	subst:sg:gen:f	pospolita	
+fotoelektryczności	fotoelektryczność:s	subst:sg:loc:f	pospolita	
+fotoelektryczności	fotoelektryczność:s	subst:sg:voc:f	pospolita	
+fotoelektrycznościom	fotoelektryczność:s	subst:pl:dat:f	pospolita	
+fotoelektryczność	fotoelektryczność:s	subst:sg:acc:f	pospolita	
+fotoelektryczność	fotoelektryczność:s	subst:sg:nom:f	pospolita	
+fotoelektrycznościach	fotoelektryczność:s	subst:pl:loc:f		
+fotoelektrycznościami	fotoelektryczność:s	subst:pl:inst:f		
+fotoelektrycznością	fotoelektryczność:s	subst:sg:inst:f		
+fotoelektryczności	fotoelektryczność:s	subst:pl:acc:f		
+fotoelektryczności	fotoelektryczność:s	subst:pl:gen:f		
+fotoelektryczności	fotoelektryczność:s	subst:pl:nom:f		
+fotoelektryczności	fotoelektryczność:s	subst:pl:voc:f		
+fotoelektryczności	fotoelektryczność:s	subst:sg:dat:f		
+fotoelektryczności	fotoelektryczność:s	subst:sg:gen:f		
+fotoelektryczności	fotoelektryczność:s	subst:sg:loc:f		
+fotoelektryczności	fotoelektryczność:s	subst:sg:voc:f		
+fotoelektrycznościom	fotoelektryczność:s	subst:pl:dat:f		
+fotoelektryczność	fotoelektryczność:s	subst:sg:acc:f		
+fotoelektryczność	fotoelektryczność:s	subst:sg:nom:f		
 fotoelektryczna	fotoelektryczny	adj:sg:nom.voc:f:pos		
 fotoelektryczną	fotoelektryczny	adj:sg:acc:f:pos		
 fotoelektryczną	fotoelektryczny	adj:sg:inst:f:pos		
@@ -60070,7 +60070,7 @@ fruktyfikacje	fruktyfikacja	subst:pl:acc:f	pospolita	daw.
 fruktyfikacje	fruktyfikacja	subst:pl:nom:f	pospolita	daw.
 fruktyfikacje	fruktyfikacja	subst:pl:voc:f	pospolita	daw.
 fruktyfikację	fruktyfikacja	subst:sg:acc:f	pospolita	daw.
-fruktyfikacji	fruktyfikacja	subst:pl:gen:f	pospolita	daw.|hom.
+fruktyfikacji	fruktyfikacja	subst:pl:gen:f	pospolita	hom.|daw.
 fruktyfikacji	fruktyfikacja	subst:sg:dat:f	pospolita	daw.
 fruktyfikacji	fruktyfikacja	subst:sg:gen:f	pospolita	daw.
 fruktyfikacji	fruktyfikacja	subst:sg:loc:f	pospolita	daw.
@@ -60173,6 +60173,38 @@ frullato	frullato	subst:sg:nom:n2	pospolita	muz.
 frullato	frullato	subst:sg:voc:n2	pospolita	muz.
 frullatom	frullato	subst:pl:dat:n2	pospolita	muz.
 frullatu	frullato	subst:sg:dat:n2	pospolita	muz.
+frunięcia	frunąć:v	ger:pl:nom.acc:n2:perf:aff		
+frunięcia	frunąć:v	ger:sg:gen:n2:perf:aff		
+frunięciami	frunąć:v	ger:pl:inst:n2:perf:aff		
+frunięcie	frunąć:v	ger:sg:nom.acc:n2:perf:aff		
+frunięciem	frunąć:v	ger:sg:inst:n2:perf:aff		
+frunięciom	frunąć:v	ger:pl:dat.loc:n2:perf:aff		
+frunięciu	frunąć:v	ger:sg:dat.loc:n2:perf:aff		
+frunięć	frunąć:v	ger:pl:gen:n2:perf:aff		
+frunąca	frunąć:v	pact:sg:nom.voc:f:imperf:aff		
+frunącą	frunąć:v	pact:sg:acc.inst:f:imperf:aff		
+frunące	frunąć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+frunące	frunąć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+frunącego	frunąć:v	pact:sg:acc:m1.m2:imperf:aff		
+frunącego	frunąć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+frunącej	frunąć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+frunącemu	frunąć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+frunących	frunąć:v	pact:pl:acc:m1.p1:imperf:aff		
+frunących	frunąć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+frunący	frunąć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+frunący	frunąć:v	pact:sg:acc:m3:imperf:aff		
+frunący	frunąć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+frunącym	frunąć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+frunącym	frunąć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+frunącymi	frunąć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+frunięcia	frunąć:v	ger:pl:nom.acc:n2:imperf:aff		
+frunięcia	frunąć:v	ger:sg:gen:n2:imperf:aff		
+frunięciami	frunąć:v	ger:pl:inst:n2:imperf:aff		
+frunięcie	frunąć:v	ger:sg:nom.acc:n2:imperf:aff		
+frunięciem	frunąć:v	ger:sg:inst:n2:imperf:aff		
+frunięciom	frunąć:v	ger:pl:dat.loc:n2:imperf:aff		
+frunięciu	frunąć:v	ger:sg:dat.loc:n2:imperf:aff		
+frunięć	frunąć:v	ger:pl:gen:n2:imperf:aff		
 frunąć	frunąć:v1	inf:perf		
 fruną	frunąć:v1	fin:pl:ter:perf		
 frunąłby	frunąć:v1	cond:sg:m1.m2.m3:ter:perf		
@@ -60216,35 +60248,11 @@ fruniecie	frunąć:v1	fin:pl:sec:perf
 frunie	frunąć:v1	fin:sg:ter:perf		
 fruniemy	frunąć:v1	fin:pl:pri:perf		
 fruniesz	frunąć:v1	fin:sg:sec:perf		
-frunięcia	frunąć:v1	ger:pl:nom.acc:n2:perf:aff		
-frunięcia	frunąć:v1	ger:sg:gen:n2:perf:aff		
-frunięciami	frunąć:v1	ger:pl:inst:n2:perf:aff		
-frunięcie	frunąć:v1	ger:sg:nom.acc:n2:perf:aff		
-frunięciem	frunąć:v1	ger:sg:inst:n2:perf:aff		
-frunięciom	frunąć:v1	ger:pl:dat.loc:n2:perf:aff		
-frunięciu	frunąć:v1	ger:sg:dat.loc:n2:perf:aff		
-frunięć	frunąć:v1	ger:pl:gen:n2:perf:aff		
 frunięto	frunąć:v1	imps:perf		
 fruńcie	frunąć:v1	impt:pl:sec:perf		
 fruń	frunąć:v1	impt:sg:sec:perf		
 fruńmy	frunąć:v1	impt:pl:pri:perf		
-frunąca	frunąć:v2	pact:sg:nom.voc:f:imperf:aff		
-frunącą	frunąć:v2	pact:sg:acc.inst:f:imperf:aff		
-frunące	frunąć:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-frunące	frunąć:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-frunącego	frunąć:v2	pact:sg:acc:m1.m2:imperf:aff		
-frunącego	frunąć:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-frunącej	frunąć:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-frunącemu	frunąć:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 frunąc	frunąć:v2	pcon:imperf		
-frunących	frunąć:v2	pact:pl:acc:m1.p1:imperf:aff		
-frunących	frunąć:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-frunący	frunąć:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-frunący	frunąć:v2	pact:sg:acc:m3:imperf:aff		
-frunący	frunąć:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-frunącym	frunąć:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-frunącym	frunąć:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-frunącymi	frunąć:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 frunąć	frunąć:v2	inf:imperf		
 fruną	frunąć:v2	fin:pl:ter:imperf		
 frunąłby	frunąć:v2	cond:sg:m1.m2.m3:ter:imperf		
@@ -60287,14 +60295,6 @@ fruniecie	frunąć:v2	fin:pl:sec:imperf
 frunie	frunąć:v2	fin:sg:ter:imperf		
 fruniemy	frunąć:v2	fin:pl:pri:imperf		
 fruniesz	frunąć:v2	fin:sg:sec:imperf		
-frunięcia	frunąć:v2	ger:pl:nom.acc:n2:imperf:aff		
-frunięcia	frunąć:v2	ger:sg:gen:n2:imperf:aff		
-frunięciami	frunąć:v2	ger:pl:inst:n2:imperf:aff		
-frunięcie	frunąć:v2	ger:sg:nom.acc:n2:imperf:aff		
-frunięciem	frunąć:v2	ger:sg:inst:n2:imperf:aff		
-frunięciom	frunąć:v2	ger:pl:dat.loc:n2:imperf:aff		
-frunięciu	frunąć:v2	ger:sg:dat.loc:n2:imperf:aff		
-frunięć	frunąć:v2	ger:pl:gen:n2:imperf:aff		
 frunięto	frunąć:v2	imps:imperf		
 fruńcie	frunąć:v2	impt:pl:sec:imperf		
 fruń	frunąć:v2	impt:sg:sec:imperf		
@@ -67956,6 +67956,86 @@ futropodobnym	futropodobny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 futropodobnym	futropodobny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 futropodobnym	futropodobny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 futropodobnymi	futropodobny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+futrowana	futrować:v	ppas:sg:nom.voc:f:imperf:aff		
+futrowaną	futrować:v	ppas:sg:acc.inst:f:imperf:aff		
+futrowane	futrować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+futrowane	futrować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+futrowanego	futrować:v	ppas:sg:acc:m1.m2:imperf:aff		
+futrowanego	futrować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+futrowanej	futrować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+futrowanemu	futrować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+futrowania	futrować:v	ger:pl:nom.acc:n2:imperf:aff		
+futrowania	futrować:v	ger:sg:gen:n2:imperf:aff		
+futrowaniami	futrować:v	ger:pl:inst:n2:imperf:aff		
+futrowanie	futrować:v	ger:sg:nom.acc:n2:imperf:aff		
+futrowaniem	futrować:v	ger:sg:inst:n2:imperf:aff		
+futrowani	futrować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+futrowaniom	futrować:v	ger:pl:dat.loc:n2:imperf:aff		
+futrowaniu	futrować:v	ger:sg:dat.loc:n2:imperf:aff		
+futrowanych	futrować:v	ppas:pl:acc:m1.p1:imperf:aff		
+futrowanych	futrować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+futrowany	futrować:v	ppas:sg:acc:m3:imperf:aff		
+futrowany	futrować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+futrowanym	futrować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+futrowanym	futrować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+futrowanymi	futrować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+futrowań	futrować:v	ger:pl:gen:n2:imperf:aff		
+futrująca	futrować:v	pact:sg:nom.voc:f:imperf:aff		
+futrującą	futrować:v	pact:sg:acc.inst:f:imperf:aff		
+futrujące	futrować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+futrujące	futrować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+futrującego	futrować:v	pact:sg:acc:m1.m2:imperf:aff		
+futrującego	futrować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+futrującej	futrować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+futrującemu	futrować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+futrujących	futrować:v	pact:pl:acc:m1.p1:imperf:aff		
+futrujących	futrować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+futrujący	futrować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+futrujący	futrować:v	pact:sg:acc:m3:imperf:aff		
+futrujący	futrować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+futrującym	futrować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+futrującym	futrować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+futrującymi	futrować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+futrowana	futrować:v	ppas:sg:nom.voc:f:imperf:aff		
+futrowaną	futrować:v	ppas:sg:acc.inst:f:imperf:aff		
+futrowane	futrować:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+futrowane	futrować:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+futrowanego	futrować:v	ppas:sg:acc:m1.m2:imperf:aff		
+futrowanego	futrować:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+futrowanej	futrować:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+futrowanemu	futrować:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+futrowania	futrować:v	ger:pl:nom.acc:n2:imperf:aff		
+futrowania	futrować:v	ger:sg:gen:n2:imperf:aff		
+futrowaniami	futrować:v	ger:pl:inst:n2:imperf:aff		
+futrowanie	futrować:v	ger:sg:nom.acc:n2:imperf:aff		
+futrowaniem	futrować:v	ger:sg:inst:n2:imperf:aff		
+futrowani	futrować:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+futrowaniom	futrować:v	ger:pl:dat.loc:n2:imperf:aff		
+futrowaniu	futrować:v	ger:sg:dat.loc:n2:imperf:aff		
+futrowanych	futrować:v	ppas:pl:acc:m1.p1:imperf:aff		
+futrowanych	futrować:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+futrowany	futrować:v	ppas:sg:acc:m3:imperf:aff		
+futrowany	futrować:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+futrowanym	futrować:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+futrowanym	futrować:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+futrowanymi	futrować:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+futrowań	futrować:v	ger:pl:gen:n2:imperf:aff		
+futrująca	futrować:v	pact:sg:nom.voc:f:imperf:aff		
+futrującą	futrować:v	pact:sg:acc.inst:f:imperf:aff		
+futrujące	futrować:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+futrujące	futrować:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+futrującego	futrować:v	pact:sg:acc:m1.m2:imperf:aff		
+futrującego	futrować:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+futrującej	futrować:v	pact:sg:gen.dat.loc:f:imperf:aff		
+futrującemu	futrować:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+futrujących	futrować:v	pact:pl:acc:m1.p1:imperf:aff		
+futrujących	futrować:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+futrujący	futrować:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+futrujący	futrować:v	pact:sg:acc:m3:imperf:aff		
+futrujący	futrować:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+futrującym	futrować:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+futrującym	futrować:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+futrującymi	futrować:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 futrować	futrować:v1	inf:imperf		bud.
 futrowaliby	futrować:v1	cond:pl:m1.p1:ter:imperf		bud.
 futrowalibyście	futrować:v1	cond:pl:m1.p1:sec:imperf		bud.
@@ -67992,48 +68072,8 @@ futrowały	futrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		bud.
 futrowały	futrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		bud.
 futrowałyście	futrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		bud.
 futrowałyśmy	futrować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		bud.
-futrowana	futrować:v1	ppas:sg:nom.voc:f:imperf:aff		
-futrowaną	futrować:v1	ppas:sg:acc.inst:f:imperf:aff		
-futrowane	futrować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-futrowane	futrować:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-futrowanego	futrować:v1	ppas:sg:acc:m1.m2:imperf:aff		
-futrowanego	futrować:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-futrowanej	futrować:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
-futrowanemu	futrować:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-futrowania	futrować:v1	ger:pl:nom.acc:n2:imperf:aff		
-futrowania	futrować:v1	ger:sg:gen:n2:imperf:aff		
-futrowaniami	futrować:v1	ger:pl:inst:n2:imperf:aff		
-futrowanie	futrować:v1	ger:sg:nom.acc:n2:imperf:aff		
-futrowaniem	futrować:v1	ger:sg:inst:n2:imperf:aff		
-futrowani	futrować:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
-futrowaniom	futrować:v1	ger:pl:dat.loc:n2:imperf:aff		
-futrowaniu	futrować:v1	ger:sg:dat.loc:n2:imperf:aff		
 futrowano	futrować:v1	imps:imperf		bud.
-futrowanych	futrować:v1	ppas:pl:acc:m1.p1:imperf:aff		
-futrowanych	futrować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-futrowany	futrować:v1	ppas:sg:acc:m3:imperf:aff		
-futrowany	futrować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-futrowanym	futrować:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-futrowanym	futrować:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-futrowanymi	futrować:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-futrowań	futrować:v1	ger:pl:gen:n2:imperf:aff		
-futrująca	futrować:v1	pact:sg:nom.voc:f:imperf:aff		
-futrującą	futrować:v1	pact:sg:acc.inst:f:imperf:aff		
-futrujące	futrować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-futrujące	futrować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-futrującego	futrować:v1	pact:sg:acc:m1.m2:imperf:aff		
-futrującego	futrować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-futrującej	futrować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-futrującemu	futrować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 futrując	futrować:v1	pcon:imperf		bud.
-futrujących	futrować:v1	pact:pl:acc:m1.p1:imperf:aff		
-futrujących	futrować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-futrujący	futrować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-futrujący	futrować:v1	pact:sg:acc:m3:imperf:aff		
-futrujący	futrować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-futrującym	futrować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-futrującym	futrować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-futrującymi	futrować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 futrują	futrować:v1	fin:pl:ter:imperf		bud.
 futrujcie	futrować:v1	impt:pl:sec:imperf		bud.
 futrujecie	futrować:v1	fin:pl:sec:imperf		bud.
@@ -68079,48 +68119,8 @@ futrowały	futrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
 futrowały	futrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
 futrowałyście	futrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 futrowałyśmy	futrować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
-futrowana	futrować:v2	ppas:sg:nom.voc:f:imperf:aff		
-futrowaną	futrować:v2	ppas:sg:acc.inst:f:imperf:aff		
-futrowane	futrować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-futrowane	futrować:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-futrowanego	futrować:v2	ppas:sg:acc:m1.m2:imperf:aff		
-futrowanego	futrować:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-futrowanej	futrować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-futrowanemu	futrować:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-futrowania	futrować:v2	ger:pl:nom.acc:n2:imperf:aff		
-futrowania	futrować:v2	ger:sg:gen:n2:imperf:aff		
-futrowaniami	futrować:v2	ger:pl:inst:n2:imperf:aff		
-futrowanie	futrować:v2	ger:sg:nom.acc:n2:imperf:aff		
-futrowaniem	futrować:v2	ger:sg:inst:n2:imperf:aff		
-futrowani	futrować:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-futrowaniom	futrować:v2	ger:pl:dat.loc:n2:imperf:aff		
-futrowaniu	futrować:v2	ger:sg:dat.loc:n2:imperf:aff		
 futrowano	futrować:v2	imps:imperf		daw.
-futrowanych	futrować:v2	ppas:pl:acc:m1.p1:imperf:aff		
-futrowanych	futrować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-futrowany	futrować:v2	ppas:sg:acc:m3:imperf:aff		
-futrowany	futrować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-futrowanym	futrować:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-futrowanym	futrować:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-futrowanymi	futrować:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-futrowań	futrować:v2	ger:pl:gen:n2:imperf:aff		
-futrująca	futrować:v2	pact:sg:nom.voc:f:imperf:aff		
-futrującą	futrować:v2	pact:sg:acc.inst:f:imperf:aff		
-futrujące	futrować:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-futrujące	futrować:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-futrującego	futrować:v2	pact:sg:acc:m1.m2:imperf:aff		
-futrującego	futrować:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-futrującej	futrować:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-futrującemu	futrować:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 futrując	futrować:v2	pcon:imperf		daw.
-futrujących	futrować:v2	pact:pl:acc:m1.p1:imperf:aff		
-futrujących	futrować:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-futrujący	futrować:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-futrujący	futrować:v2	pact:sg:acc:m3:imperf:aff		
-futrujący	futrować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-futrującym	futrować:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-futrującym	futrować:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-futrującymi	futrować:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 futrują	futrować:v2	fin:pl:ter:imperf		daw.
 futrujcie	futrować:v2	impt:pl:sec:imperf		daw.
 futrujecie	futrować:v2	fin:pl:sec:imperf		daw.

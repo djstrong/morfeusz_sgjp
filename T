@@ -936,7 +936,7 @@ Tarłowie	Tarłów	subst:sg:voc:m3	geograficzna
 Tarłowom	Tarłów	subst:pl:dat:m3	geograficzna	
 Tarłowowi	Tarłów	subst:sg:dat:m3	geograficzna	
 Tarłowów	Tarłów	subst:pl:gen:m3	geograficzna	
-Tarłowu	Tarłów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Tarłowu	Tarłów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Tarłowy	Tarłów	subst:pl:acc:m3	geograficzna	
 Tarłowy	Tarłów	subst:pl:nom:m3	geograficzna	
 Tarłowy	Tarłów	subst:pl:voc:m3	geograficzna	
@@ -1055,7 +1055,7 @@ Tarnowie	Tarnów	subst:sg:voc:m3	geograficzna
 Tarnowom	Tarnów	subst:pl:dat:m3	geograficzna	
 Tarnowowi	Tarnów	subst:sg:dat:m3	geograficzna	
 Tarnowów	Tarnów	subst:pl:gen:m3	geograficzna	
-Tarnowu	Tarnów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Tarnowu	Tarnów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Tarnowy	Tarnów	subst:pl:acc:m3	geograficzna	
 Tarnowy	Tarnów	subst:pl:nom:m3	geograficzna	
 Tarnowy	Tarnów	subst:pl:voc:m3	geograficzna	
@@ -1370,7 +1370,7 @@ Tczowie	Tczów	subst:sg:voc:m3	geograficzna
 Tczowom	Tczów	subst:pl:dat:m3	geograficzna	
 Tczowowi	Tczów	subst:sg:dat:m3	geograficzna	
 Tczowów	Tczów	subst:pl:gen:m3	geograficzna	
-Tczowu	Tczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Tczowu	Tczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Tczowy	Tczów	subst:pl:acc:m3	geograficzna	
 Tczowy	Tczów	subst:pl:nom:m3	geograficzna	
 Tczowy	Tczów	subst:pl:voc:m3	geograficzna	
@@ -2669,20 +2669,20 @@ Tischnery	Tischner	depr:pl:nom:m2	nazwisko
 Tischnery	Tischner	depr:pl:voc:m2	nazwisko	
 Tischnerze	Tischner	subst:sg:loc:m1	nazwisko	
 Tischnerze	Tischner	subst:sg:voc:m1	nazwisko	
-Titanicach	Titanic	subst:pl:loc:m2	środek lokomocji	
-Titanicami	Titanic	subst:pl:inst:m2	środek lokomocji	
-Titanica	Titanic	subst:sg:acc:m2	środek lokomocji	
-Titanica	Titanic	subst:sg:gen:m2	środek lokomocji	
-Titanicom	Titanic	subst:pl:dat:m2	środek lokomocji	
-Titanicowi	Titanic	subst:sg:dat:m2	środek lokomocji	
-Titaniców	Titanic	subst:pl:gen:m2	środek lokomocji	
-Titanic	Titanic	subst:sg:nom:m2	środek lokomocji	
-Titanicu	Titanic	subst:sg:loc:m2	środek lokomocji	
-Titanicu	Titanic	subst:sg:voc:m2	środek lokomocji	
-Titanikiem	Titanic	subst:sg:inst:m2	środek lokomocji	
-Titaniki	Titanic	subst:pl:acc:m2	środek lokomocji	
-Titaniki	Titanic	subst:pl:nom:m2	środek lokomocji	
-Titaniki	Titanic	subst:pl:voc:m2	środek lokomocji	
+Titanicach	Titanic	subst:pl:loc:m2	środek_lokomocji	
+Titanicami	Titanic	subst:pl:inst:m2	środek_lokomocji	
+Titanica	Titanic	subst:sg:acc:m2	środek_lokomocji	
+Titanica	Titanic	subst:sg:gen:m2	środek_lokomocji	
+Titanicom	Titanic	subst:pl:dat:m2	środek_lokomocji	
+Titanicowi	Titanic	subst:sg:dat:m2	środek_lokomocji	
+Titaniców	Titanic	subst:pl:gen:m2	środek_lokomocji	
+Titanic	Titanic	subst:sg:nom:m2	środek_lokomocji	
+Titanicu	Titanic	subst:sg:loc:m2	środek_lokomocji	
+Titanicu	Titanic	subst:sg:voc:m2	środek_lokomocji	
+Titanikiem	Titanic	subst:sg:inst:m2	środek_lokomocji	
+Titaniki	Titanic	subst:pl:acc:m2	środek_lokomocji	
+Titaniki	Titanic	subst:pl:nom:m2	środek_lokomocji	
+Titaniki	Titanic	subst:pl:voc:m2	środek_lokomocji	
 Ticie	Tito	subst:sg:dat:m1	nazwisko	
 Ticie	Tito	subst:sg:loc:m1	nazwisko	
 Titach	Tito	subst:pl:loc:m1	nazwisko	
@@ -3306,7 +3306,7 @@ Tomaszowie	Tomaszów	subst:sg:voc:m3	geograficzna
 Tomaszowom	Tomaszów	subst:pl:dat:m3	geograficzna	
 Tomaszowowi	Tomaszów	subst:sg:dat:m3	geograficzna	
 Tomaszowów	Tomaszów	subst:pl:gen:m3	geograficzna	
-Tomaszowu	Tomaszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Tomaszowu	Tomaszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Tomaszowy	Tomaszów	subst:pl:acc:m3	geograficzna	
 Tomaszowy	Tomaszów	subst:pl:nom:m3	geograficzna	
 Tomaszowy	Tomaszów	subst:pl:voc:m3	geograficzna	
@@ -3876,36 +3876,36 @@ Tośki	Tośka	subst:pl:voc:f	imię
 Tośki	Tośka	subst:sg:gen:f	imię	
 Tośkom	Tośka	subst:pl:dat:f	imię	
 Tośko	Tośka	subst:sg:voc:f	imię	
-Toulouse	Toulouse	depr:pl:nom:m2	człon nazwiska	
-Toulouse	Toulouse	depr:pl:voc:m2	człon nazwiska	
-Toulouse	Toulouse	subst:pl:acc:m1	człon nazwiska	
-Toulouse	Toulouse	subst:pl:dat:m1	człon nazwiska	
-Toulouse	Toulouse	subst:pl:gen:m1	człon nazwiska	
-Toulouse	Toulouse	subst:pl:inst:m1	człon nazwiska	
-Toulouse	Toulouse	subst:pl:loc:m1	człon nazwiska	
-Toulouse	Toulouse	subst:pl:nom:m1	człon nazwiska	
-Toulouse	Toulouse	subst:pl:voc:m1	człon nazwiska	
-Toulouse	Toulouse	subst:sg:acc:m1	człon nazwiska	
-Toulouse	Toulouse	subst:sg:dat:m1	człon nazwiska	
-Toulouse	Toulouse	subst:sg:gen:m1	człon nazwiska	
-Toulouse	Toulouse	subst:sg:inst:m1	człon nazwiska	
-Toulouse	Toulouse	subst:sg:loc:m1	człon nazwiska	
-Toulouse	Toulouse	subst:sg:nom:m1	człon nazwiska	
-Toulouse	Toulouse	subst:sg:voc:m1	człon nazwiska	
-Tour	Tour	subst:pl:acc:m3	własna	człon n. wł.
-Tour	Tour	subst:pl:dat:m3	własna	człon n. wł.
-Tour	Tour	subst:pl:gen:m3	własna	człon n. wł.
-Tour	Tour	subst:pl:inst:m3	własna	człon n. wł.
-Tour	Tour	subst:pl:loc:m3	własna	człon n. wł.
-Tour	Tour	subst:pl:nom:m3	własna	człon n. wł.
-Tour	Tour	subst:pl:voc:m3	własna	człon n. wł.
-Tour	Tour	subst:sg:acc:m3	własna	człon n. wł.
-Tour	Tour	subst:sg:dat:m3	własna	człon n. wł.
-Tour	Tour	subst:sg:gen:m3	własna	człon n. wł.
-Tour	Tour	subst:sg:inst:m3	własna	człon n. wł.
-Tour	Tour	subst:sg:loc:m3	własna	człon n. wł.
-Tour	Tour	subst:sg:nom:m3	własna	człon n. wł.
-Tour	Tour	subst:sg:voc:m3	własna	człon n. wł.
+Toulouse	Toulouse	depr:pl:nom:m2	człon_nazwiska	
+Toulouse	Toulouse	depr:pl:voc:m2	człon_nazwiska	
+Toulouse	Toulouse	subst:pl:acc:m1	człon_nazwiska	
+Toulouse	Toulouse	subst:pl:dat:m1	człon_nazwiska	
+Toulouse	Toulouse	subst:pl:gen:m1	człon_nazwiska	
+Toulouse	Toulouse	subst:pl:inst:m1	człon_nazwiska	
+Toulouse	Toulouse	subst:pl:loc:m1	człon_nazwiska	
+Toulouse	Toulouse	subst:pl:nom:m1	człon_nazwiska	
+Toulouse	Toulouse	subst:pl:voc:m1	człon_nazwiska	
+Toulouse	Toulouse	subst:sg:acc:m1	człon_nazwiska	
+Toulouse	Toulouse	subst:sg:dat:m1	człon_nazwiska	
+Toulouse	Toulouse	subst:sg:gen:m1	człon_nazwiska	
+Toulouse	Toulouse	subst:sg:inst:m1	człon_nazwiska	
+Toulouse	Toulouse	subst:sg:loc:m1	człon_nazwiska	
+Toulouse	Toulouse	subst:sg:nom:m1	człon_nazwiska	
+Toulouse	Toulouse	subst:sg:voc:m1	człon_nazwiska	
+Tour	Tour	subst:pl:acc:m3	własna	człon_n._wł.
+Tour	Tour	subst:pl:dat:m3	własna	człon_n._wł.
+Tour	Tour	subst:pl:gen:m3	własna	człon_n._wł.
+Tour	Tour	subst:pl:inst:m3	własna	człon_n._wł.
+Tour	Tour	subst:pl:loc:m3	własna	człon_n._wł.
+Tour	Tour	subst:pl:nom:m3	własna	człon_n._wł.
+Tour	Tour	subst:pl:voc:m3	własna	człon_n._wł.
+Tour	Tour	subst:sg:acc:m3	własna	człon_n._wł.
+Tour	Tour	subst:sg:dat:m3	własna	człon_n._wł.
+Tour	Tour	subst:sg:gen:m3	własna	człon_n._wł.
+Tour	Tour	subst:sg:inst:m3	własna	człon_n._wł.
+Tour	Tour	subst:sg:loc:m3	własna	człon_n._wł.
+Tour	Tour	subst:sg:nom:m3	własna	człon_n._wł.
+Tour	Tour	subst:sg:voc:m3	własna	człon_n._wł.
 Towiańska	Towiańska	subst:sg:nom:f	nazwisko	
 Towiańska	Towiańska	subst:sg:voc:f	nazwisko	
 Towiańską	Towiańska	subst:sg:acc:f	nazwisko	
@@ -4532,7 +4532,7 @@ Trojanowie	Trojanów	subst:sg:voc:m3	geograficzna
 Trojanowom	Trojanów	subst:pl:dat:m3	geograficzna	
 Trojanowowi	Trojanów	subst:sg:dat:m3	geograficzna	
 Trojanowów	Trojanów	subst:pl:gen:m3	geograficzna	
-Trojanowu	Trojanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Trojanowu	Trojanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Trojanowy	Trojanów	subst:pl:acc:m3	geograficzna	
 Trojanowy	Trojanów	subst:pl:nom:m3	geograficzna	
 Trojanowy	Trojanów	subst:pl:voc:m3	geograficzna	
@@ -4939,7 +4939,7 @@ Trzebiatowie	Trzebiatów	subst:sg:voc:m3	geograficzna
 Trzebiatowom	Trzebiatów	subst:pl:dat:m3	geograficzna	
 Trzebiatowowi	Trzebiatów	subst:sg:dat:m3	geograficzna	
 Trzebiatowów	Trzebiatów	subst:pl:gen:m3	geograficzna	
-Trzebiatowu	Trzebiatów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Trzebiatowu	Trzebiatów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Trzebiatowy	Trzebiatów	subst:pl:acc:m3	geograficzna	
 Trzebiatowy	Trzebiatów	subst:pl:nom:m3	geograficzna	
 Trzebiatowy	Trzebiatów	subst:pl:voc:m3	geograficzna	
@@ -4954,7 +4954,7 @@ Trzebiechowie	Trzebiechów	subst:sg:voc:m3	geograficzna
 Trzebiechowom	Trzebiechów	subst:pl:dat:m3	geograficzna	
 Trzebiechowowi	Trzebiechów	subst:sg:dat:m3	geograficzna	
 Trzebiechowów	Trzebiechów	subst:pl:gen:m3	geograficzna	
-Trzebiechowu	Trzebiechów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Trzebiechowu	Trzebiechów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Trzebiechowy	Trzebiechów	subst:pl:acc:m3	geograficzna	
 Trzebiechowy	Trzebiechów	subst:pl:nom:m3	geograficzna	
 Trzebiechowy	Trzebiechów	subst:pl:voc:m3	geograficzna	
@@ -4969,7 +4969,7 @@ Trzebieszowie	Trzebieszów	subst:sg:voc:m3	geograficzna
 Trzebieszowom	Trzebieszów	subst:pl:dat:m3	geograficzna	
 Trzebieszowowi	Trzebieszów	subst:sg:dat:m3	geograficzna	
 Trzebieszowów	Trzebieszów	subst:pl:gen:m3	geograficzna	
-Trzebieszowu	Trzebieszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Trzebieszowu	Trzebieszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Trzebieszowy	Trzebieszów	subst:pl:acc:m3	geograficzna	
 Trzebieszowy	Trzebieszów	subst:pl:nom:m3	geograficzna	
 Trzebieszowy	Trzebieszów	subst:pl:voc:m3	geograficzna	
@@ -5179,22 +5179,22 @@ Trzyciąż	Trzyciąż	subst:sg:nom:m3	geograficzna
 Trzyciążu	Trzyciąż	subst:sg:loc:m3	geograficzna	
 Trzyciążu	Trzyciąż	subst:sg:voc:m3	geograficzna	
 Trzyciąży	Trzyciąż	subst:pl:gen:m3	geograficzna	
-Tse-tungach	Tse-tung	subst:pl:loc:m1	nazwisko	człon n. wł.
-Tse-tungami	Tse-tung	subst:pl:inst:m1	nazwisko	człon n. wł.
-Tse-tunga	Tse-tung	subst:sg:acc:m1	nazwisko	człon n. wł.
-Tse-tunga	Tse-tung	subst:sg:gen:m1	nazwisko	człon n. wł.
-Tse-tungiem	Tse-tung	subst:sg:inst:m1	nazwisko	człon n. wł.
-Tse-tungi	Tse-tung	depr:pl:nom:m2	nazwisko	człon n. wł.
-Tse-tungi	Tse-tung	depr:pl:voc:m2	nazwisko	człon n. wł.
-Tse-tungom	Tse-tung	subst:pl:dat:m1	nazwisko	człon n. wł.
-Tse-tungowie	Tse-tung	subst:pl:nom:m1	nazwisko	człon n. wł.
-Tse-tungowie	Tse-tung	subst:pl:voc:m1	nazwisko	człon n. wł.
-Tse-tungowi	Tse-tung	subst:sg:dat:m1	nazwisko	człon n. wł.
-Tse-tungów	Tse-tung	subst:pl:acc:m1	nazwisko	człon n. wł.
-Tse-tungów	Tse-tung	subst:pl:gen:m1	nazwisko	człon n. wł.
-Tse-tung	Tse-tung	subst:sg:nom:m1	nazwisko	człon n. wł.
-Tse-tungu	Tse-tung	subst:sg:loc:m1	nazwisko	człon n. wł.
-Tse-tungu	Tse-tung	subst:sg:voc:m1	nazwisko	człon n. wł.
+Tse-tungach	Tse-tung	subst:pl:loc:m1	nazwisko	człon_n._wł.
+Tse-tungami	Tse-tung	subst:pl:inst:m1	nazwisko	człon_n._wł.
+Tse-tunga	Tse-tung	subst:sg:acc:m1	nazwisko	człon_n._wł.
+Tse-tunga	Tse-tung	subst:sg:gen:m1	nazwisko	człon_n._wł.
+Tse-tungiem	Tse-tung	subst:sg:inst:m1	nazwisko	człon_n._wł.
+Tse-tungi	Tse-tung	depr:pl:nom:m2	nazwisko	człon_n._wł.
+Tse-tungi	Tse-tung	depr:pl:voc:m2	nazwisko	człon_n._wł.
+Tse-tungom	Tse-tung	subst:pl:dat:m1	nazwisko	człon_n._wł.
+Tse-tungowie	Tse-tung	subst:pl:nom:m1	nazwisko	człon_n._wł.
+Tse-tungowie	Tse-tung	subst:pl:voc:m1	nazwisko	człon_n._wł.
+Tse-tungowi	Tse-tung	subst:sg:dat:m1	nazwisko	człon_n._wł.
+Tse-tungów	Tse-tung	subst:pl:acc:m1	nazwisko	człon_n._wł.
+Tse-tungów	Tse-tung	subst:pl:gen:m1	nazwisko	człon_n._wł.
+Tse-tung	Tse-tung	subst:sg:nom:m1	nazwisko	człon_n._wł.
+Tse-tungu	Tse-tung	subst:sg:loc:m1	nazwisko	człon_n._wł.
+Tse-tungu	Tse-tung	subst:sg:voc:m1	nazwisko	człon_n._wł.
 T-shircie	T-shirt	subst:sg:loc:m3	pospolita	
 T-shircie	T-shirt	subst:sg:voc:m3	pospolita	
 T-shirtach	T-shirt	subst:pl:loc:m3	pospolita	
@@ -5292,7 +5292,7 @@ Tuchowie	Tuchów	subst:sg:voc:m3	geograficzna
 Tuchowom	Tuchów	subst:pl:dat:m3	geograficzna	
 Tuchowowi	Tuchów	subst:sg:dat:m3	geograficzna	
 Tuchowów	Tuchów	subst:pl:gen:m3	geograficzna	
-Tuchowu	Tuchów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Tuchowu	Tuchów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Tuchowy	Tuchów	subst:pl:acc:m3	geograficzna	
 Tuchowy	Tuchów	subst:pl:nom:m3	geograficzna	
 Tuchowy	Tuchów	subst:pl:voc:m3	geograficzna	
@@ -5391,7 +5391,7 @@ Tuliszkowie	Tuliszków	subst:sg:voc:m3	geograficzna
 Tuliszkowom	Tuliszków	subst:pl:dat:m3	geograficzna	
 Tuliszkowowi	Tuliszków	subst:sg:dat:m3	geograficzna	
 Tuliszkowów	Tuliszków	subst:pl:gen:m3	geograficzna	
-Tuliszkowu	Tuliszków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Tuliszkowu	Tuliszków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Tuliszkowy	Tuliszków	subst:pl:acc:m3	geograficzna	
 Tuliszkowy	Tuliszków	subst:pl:nom:m3	geograficzna	
 Tuliszkowy	Tuliszków	subst:pl:voc:m3	geograficzna	
@@ -5886,7 +5886,7 @@ Turoszowie	Turoszów	subst:sg:voc:m3	geograficzna
 Turoszowom	Turoszów	subst:pl:dat:m3	geograficzna	
 Turoszowowi	Turoszów	subst:sg:dat:m3	geograficzna	
 Turoszowów	Turoszów	subst:pl:gen:m3	geograficzna	
-Turoszowu	Turoszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Turoszowu	Turoszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Turoszowy	Turoszów	subst:pl:acc:m3	geograficzna	
 Turoszowy	Turoszów	subst:pl:nom:m3	geograficzna	
 Turoszowy	Turoszów	subst:pl:voc:m3	geograficzna	
@@ -6052,7 +6052,7 @@ Tuszowie	Tuszów	subst:sg:voc:m3	geograficzna
 Tuszowom	Tuszów	subst:pl:dat:m3	geograficzna	
 Tuszowowi	Tuszów	subst:sg:dat:m3	geograficzna	
 Tuszowów	Tuszów	subst:pl:gen:m3	geograficzna	
-Tuszowu	Tuszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Tuszowu	Tuszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Tuszowy	Tuszów	subst:pl:acc:m3	geograficzna	
 Tuszowy	Tuszów	subst:pl:nom:m3	geograficzna	
 Tuszowy	Tuszów	subst:pl:voc:m3	geograficzna	

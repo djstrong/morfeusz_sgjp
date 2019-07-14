@@ -95,7 +95,7 @@ Pacanowie	Pacanów	subst:sg:voc:m3	geograficzna
 Pacanowom	Pacanów	subst:pl:dat:m3	geograficzna	
 Pacanowowi	Pacanów	subst:sg:dat:m3	geograficzna	
 Pacanowów	Pacanów	subst:pl:gen:m3	geograficzna	
-Pacanowu	Pacanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Pacanowu	Pacanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Pacanowy	Pacanów	subst:pl:acc:m3	geograficzna	
 Pacanowy	Pacanów	subst:pl:nom:m3	geograficzna	
 Pacanowy	Pacanów	subst:pl:voc:m3	geograficzna	
@@ -230,7 +230,7 @@ Paczkowie	Paczków	subst:sg:voc:m3	geograficzna
 Paczkowom	Paczków	subst:pl:dat:m3	geograficzna	
 Paczkowowi	Paczków	subst:sg:dat:m3	geograficzna	
 Paczkowów	Paczków	subst:pl:gen:m3	geograficzna	
-Paczkowu	Paczków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Paczkowu	Paczków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Paczkowy	Paczków	subst:pl:acc:m3	geograficzna	
 Paczkowy	Paczków	subst:pl:nom:m3	geograficzna	
 Paczkowy	Paczków	subst:pl:voc:m3	geograficzna	
@@ -1047,20 +1047,20 @@ Panku	Panek	subst:sg:loc:m1	imię
 Panku	Panek	subst:sg:loc:m1	nazwisko	
 Panku	Panek	subst:sg:voc:m1	imię	
 Panku	Panek	subst:sg:voc:m1	nazwisko	
-Paneuropach	Paneuropa	subst:pl:loc:f	krój pisma	
-Paneuropami	Paneuropa	subst:pl:inst:f	krój pisma	
-Paneuropa	Paneuropa	subst:sg:nom:f	krój pisma	
-Paneuropą	Paneuropa	subst:sg:inst:f	krój pisma	
-Paneuropę	Paneuropa	subst:sg:acc:f	krój pisma	
-Paneuropie	Paneuropa	subst:sg:dat:f	krój pisma	
-Paneuropie	Paneuropa	subst:sg:loc:f	krój pisma	
-Paneuropom	Paneuropa	subst:pl:dat:f	krój pisma	
-Paneuropo	Paneuropa	subst:sg:voc:f	krój pisma	
-Paneurop	Paneuropa	subst:pl:gen:f	krój pisma	
-Paneuropy	Paneuropa	subst:pl:acc:f	krój pisma	
-Paneuropy	Paneuropa	subst:pl:nom:f	krój pisma	
-Paneuropy	Paneuropa	subst:pl:voc:f	krój pisma	
-Paneuropy	Paneuropa	subst:sg:gen:f	krój pisma	
+Paneuropach	Paneuropa	subst:pl:loc:f	krój_pisma	
+Paneuropami	Paneuropa	subst:pl:inst:f	krój_pisma	
+Paneuropa	Paneuropa	subst:sg:nom:f	krój_pisma	
+Paneuropą	Paneuropa	subst:sg:inst:f	krój_pisma	
+Paneuropę	Paneuropa	subst:sg:acc:f	krój_pisma	
+Paneuropie	Paneuropa	subst:sg:dat:f	krój_pisma	
+Paneuropie	Paneuropa	subst:sg:loc:f	krój_pisma	
+Paneuropom	Paneuropa	subst:pl:dat:f	krój_pisma	
+Paneuropo	Paneuropa	subst:sg:voc:f	krój_pisma	
+Paneurop	Paneuropa	subst:pl:gen:f	krój_pisma	
+Paneuropy	Paneuropa	subst:pl:acc:f	krój_pisma	
+Paneuropy	Paneuropa	subst:pl:nom:f	krój_pisma	
+Paneuropy	Paneuropa	subst:pl:voc:f	krój_pisma	
+Paneuropy	Paneuropa	subst:sg:gen:f	krój_pisma	
 Pankiewiczach	Pankiewicz	subst:pl:loc:m1	nazwisko	
 Pankiewiczami	Pankiewicz	subst:pl:inst:m1	nazwisko	
 Pankiewicza	Pankiewicz	subst:sg:acc:m1	nazwisko	
@@ -1846,7 +1846,7 @@ Parysowie	Parysów	subst:sg:voc:m3	geograficzna
 Parysowom	Parysów	subst:pl:dat:m3	geograficzna	
 Parysowowi	Parysów	subst:sg:dat:m3	geograficzna	
 Parysowów	Parysów	subst:pl:gen:m3	geograficzna	
-Parysowu	Parysów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Parysowu	Parysów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Parysowy	Parysów	subst:pl:acc:m3	geograficzna	
 Parysowy	Parysów	subst:pl:nom:m3	geograficzna	
 Parysowy	Parysów	subst:pl:voc:m3	geograficzna	
@@ -2771,7 +2771,7 @@ Pawłosiowie	Pawłosiów	subst:sg:voc:m3	geograficzna
 Pawłosiowom	Pawłosiów	subst:pl:dat:m3	geograficzna	
 Pawłosiowowi	Pawłosiów	subst:sg:dat:m3	geograficzna	
 Pawłosiowów	Pawłosiów	subst:pl:gen:m3	geograficzna	
-Pawłosiowu	Pawłosiów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Pawłosiowu	Pawłosiów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Pawłosiowy	Pawłosiów	subst:pl:acc:m3	geograficzna	
 Pawłosiowy	Pawłosiów	subst:pl:nom:m3	geograficzna	
 Pawłosiowy	Pawłosiów	subst:pl:voc:m3	geograficzna	
@@ -2846,7 +2846,7 @@ Pawłowie	Pawłów	subst:sg:voc:m3	geograficzna
 Pawłowom	Pawłów	subst:pl:dat:m3	geograficzna	
 Pawłowowi	Pawłów	subst:sg:dat:m3	geograficzna	
 Pawłowów	Pawłów	subst:pl:gen:m3	geograficzna	
-Pawłowu	Pawłów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Pawłowu	Pawłów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Pawłowy	Pawłów	subst:pl:acc:m3	geograficzna	
 Pawłowy	Pawłów	subst:pl:nom:m3	geograficzna	
 Pawłowy	Pawłów	subst:pl:voc:m3	geograficzna	
@@ -2861,7 +2861,7 @@ Pawonkowie	Pawonków	subst:sg:voc:m3	geograficzna
 Pawonkowom	Pawonków	subst:pl:dat:m3	geograficzna	
 Pawonkowowi	Pawonków	subst:sg:dat:m3	geograficzna	
 Pawonkowów	Pawonków	subst:pl:gen:m3	geograficzna	
-Pawonkowu	Pawonków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Pawonkowu	Pawonków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Pawonkowy	Pawonków	subst:pl:acc:m3	geograficzna	
 Pawonkowy	Pawonków	subst:pl:nom:m3	geograficzna	
 Pawonkowy	Pawonków	subst:pl:voc:m3	geograficzna	
@@ -2962,7 +2962,7 @@ Pątnowie	Pątnów	subst:sg:voc:m3	geograficzna
 Pątnowom	Pątnów	subst:pl:dat:m3	geograficzna	
 Pątnowowi	Pątnów	subst:sg:dat:m3	geograficzna	
 Pątnowów	Pątnów	subst:pl:gen:m3	geograficzna	
-Pątnowu	Pątnów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Pątnowu	Pątnów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Pątnowy	Pątnów	subst:pl:acc:m3	geograficzna	
 Pątnowy	Pątnów	subst:pl:nom:m3	geograficzna	
 Pątnowy	Pątnów	subst:pl:voc:m3	geograficzna	
@@ -4236,7 +4236,7 @@ Perzowie	Perzów	subst:sg:voc:m3	geograficzna
 Perzowom	Perzów	subst:pl:dat:m3	geograficzna	
 Perzowowi	Perzów	subst:sg:dat:m3	geograficzna	
 Perzowów	Perzów	subst:pl:gen:m3	geograficzna	
-Perzowu	Perzów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Perzowu	Perzów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Perzowy	Perzów	subst:pl:acc:m3	geograficzna	
 Perzowy	Perzów	subst:pl:nom:m3	geograficzna	
 Perzowy	Perzów	subst:pl:voc:m3	geograficzna	
@@ -4925,22 +4925,22 @@ Piaseczno	Piaseczno	subst:sg:nom:n2	geograficzna
 Piaseczno	Piaseczno	subst:sg:voc:n2	geograficzna	
 Piaseczn	Piaseczno	subst:pl:gen:n2	geograficzna	
 Piasecznu	Piaseczno	subst:sg:dat:n2	geograficzna	
-Piastach	Piast	subst:pl:loc:m1	członek rodu	
-Piastami	Piast	subst:pl:inst:m1	członek rodu	
-Piasta	Piast	subst:sg:acc:m1	członek rodu	
-Piasta	Piast	subst:sg:gen:m1	członek rodu	
-Piastem	Piast	subst:sg:inst:m1	członek rodu	
-Piastom	Piast	subst:pl:dat:m1	członek rodu	
-Piastowie	Piast	subst:pl:nom:m1	członek rodu	
-Piastowie	Piast	subst:pl:voc:m1	członek rodu	
-Piastowi	Piast	subst:sg:dat:m1	członek rodu	
-Piastów	Piast	subst:pl:acc:m1	członek rodu	
-Piastów	Piast	subst:pl:gen:m1	członek rodu	
-Piast	Piast	subst:sg:nom:m1	członek rodu	
-Piasty	Piast	depr:pl:nom:m2	członek rodu	
-Piasty	Piast	depr:pl:voc:m2	członek rodu	
-Piaście	Piast	subst:sg:loc:m1	członek rodu	
-Piaście	Piast	subst:sg:voc:m1	członek rodu	
+Piastach	Piast	subst:pl:loc:m1	członek_rodu	
+Piastami	Piast	subst:pl:inst:m1	członek_rodu	
+Piasta	Piast	subst:sg:acc:m1	członek_rodu	
+Piasta	Piast	subst:sg:gen:m1	członek_rodu	
+Piastem	Piast	subst:sg:inst:m1	członek_rodu	
+Piastom	Piast	subst:pl:dat:m1	członek_rodu	
+Piastowie	Piast	subst:pl:nom:m1	członek_rodu	
+Piastowie	Piast	subst:pl:voc:m1	członek_rodu	
+Piastowi	Piast	subst:sg:dat:m1	członek_rodu	
+Piastów	Piast	subst:pl:acc:m1	członek_rodu	
+Piastów	Piast	subst:pl:gen:m1	członek_rodu	
+Piast	Piast	subst:sg:nom:m1	członek_rodu	
+Piasty	Piast	depr:pl:nom:m2	członek_rodu	
+Piasty	Piast	depr:pl:voc:m2	członek_rodu	
+Piaście	Piast	subst:sg:loc:m1	członek_rodu	
+Piaście	Piast	subst:sg:voc:m1	członek_rodu	
 Piastowach	Piastów	subst:pl:loc:m3	geograficzna	
 Piastowami	Piastów	subst:pl:inst:m3	geograficzna	
 Piastowa	Piastów	subst:sg:gen:m3	geograficzna	
@@ -4950,7 +4950,7 @@ Piastowie	Piastów	subst:sg:voc:m3	geograficzna
 Piastowom	Piastów	subst:pl:dat:m3	geograficzna	
 Piastowowi	Piastów	subst:sg:dat:m3	geograficzna	
 Piastowów	Piastów	subst:pl:gen:m3	geograficzna	
-Piastowu	Piastów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Piastowu	Piastów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Piastowy	Piastów	subst:pl:acc:m3	geograficzna	
 Piastowy	Piastów	subst:pl:nom:m3	geograficzna	
 Piastowy	Piastów	subst:pl:voc:m3	geograficzna	
@@ -5189,7 +5189,7 @@ Piekoszowie	Piekoszów	subst:sg:voc:m3	geograficzna
 Piekoszowom	Piekoszów	subst:pl:dat:m3	geograficzna	
 Piekoszowowi	Piekoszów	subst:sg:dat:m3	geograficzna	
 Piekoszowów	Piekoszów	subst:pl:gen:m3	geograficzna	
-Piekoszowu	Piekoszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Piekoszowu	Piekoszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Piekoszowy	Piekoszów	subst:pl:acc:m3	geograficzna	
 Piekoszowy	Piekoszów	subst:pl:nom:m3	geograficzna	
 Piekoszowy	Piekoszów	subst:pl:voc:m3	geograficzna	
@@ -5941,7 +5941,7 @@ Pińczowie	Pińczów	subst:sg:voc:m3	geograficzna
 Pińczowom	Pińczów	subst:pl:dat:m3	geograficzna	
 Pińczowowi	Pińczów	subst:sg:dat:m3	geograficzna	
 Pińczowów	Pińczów	subst:pl:gen:m3	geograficzna	
-Pińczowu	Pińczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Pińczowu	Pińczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Pińczowy	Pińczów	subst:pl:acc:m3	geograficzna	
 Pińczowy	Pińczów	subst:pl:nom:m3	geograficzna	
 Pińczowy	Pińczów	subst:pl:voc:m3	geograficzna	
@@ -6046,7 +6046,7 @@ Piotrkowie	Piotrków	subst:sg:voc:m3	geograficzna
 Piotrkowom	Piotrków	subst:pl:dat:m3	geograficzna	
 Piotrkowowi	Piotrków	subst:sg:dat:m3	geograficzna	
 Piotrkowów	Piotrków	subst:pl:gen:m3	geograficzna	
-Piotrkowu	Piotrków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Piotrkowu	Piotrków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Piotrkowy	Piotrków	subst:pl:acc:m3	geograficzna	
 Piotrkowy	Piotrków	subst:pl:nom:m3	geograficzna	
 Piotrkowy	Piotrków	subst:pl:voc:m3	geograficzna	
@@ -7053,33 +7053,33 @@ Planck	Planck	subst:sg:nom:m1	nazwisko
 Plancku	Planck	subst:sg:loc:m1	nazwisko	
 Plancku	Planck	subst:sg:voc:m1	nazwisko	
 Plata	Plata:b	burk		
-Placie	Plata:s	subst:sg:dat:f	geograficzna	człon n. wł.
-Placie	Plata:s	subst:sg:loc:f	geograficzna	człon n. wł.
-Platach	Plata:s	subst:pl:loc:f	geograficzna	człon n. wł.
-Platami	Plata:s	subst:pl:inst:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:pl:acc:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:pl:dat:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:pl:gen:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:pl:inst:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:pl:loc:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:pl:nom:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:pl:voc:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:sg:acc:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:sg:dat:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:sg:gen:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:sg:inst:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:sg:loc:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:sg:nom:f	geograficzna	człon n. wł.
-Plata	Plata:s	subst:sg:voc:f	geograficzna	człon n. wł.
-Platą	Plata:s	subst:sg:inst:f	geograficzna	człon n. wł.
-Platę	Plata:s	subst:sg:acc:f	geograficzna	człon n. wł.
-Platom	Plata:s	subst:pl:dat:f	geograficzna	człon n. wł.
-Plato	Plata:s	subst:sg:voc:f	geograficzna	człon n. wł.
-Plat	Plata:s	subst:pl:gen:f	geograficzna	człon n. wł.
-Platy	Plata:s	subst:pl:acc:f	geograficzna	człon n. wł.
-Platy	Plata:s	subst:pl:nom:f	geograficzna	człon n. wł.
-Platy	Plata:s	subst:pl:voc:f	geograficzna	człon n. wł.
-Platy	Plata:s	subst:sg:gen:f	geograficzna	człon n. wł.
+Placie	Plata:s	subst:sg:dat:f	geograficzna	człon_n._wł.
+Placie	Plata:s	subst:sg:loc:f	geograficzna	człon_n._wł.
+Platach	Plata:s	subst:pl:loc:f	geograficzna	człon_n._wł.
+Platami	Plata:s	subst:pl:inst:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:pl:acc:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:pl:dat:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:pl:gen:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:pl:inst:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:pl:loc:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:pl:nom:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:pl:voc:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:sg:acc:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:sg:dat:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:sg:gen:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:sg:inst:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:sg:loc:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:sg:nom:f	geograficzna	człon_n._wł.
+Plata	Plata:s	subst:sg:voc:f	geograficzna	człon_n._wł.
+Platą	Plata:s	subst:sg:inst:f	geograficzna	człon_n._wł.
+Platę	Plata:s	subst:sg:acc:f	geograficzna	człon_n._wł.
+Platom	Plata:s	subst:pl:dat:f	geograficzna	człon_n._wł.
+Plato	Plata:s	subst:sg:voc:f	geograficzna	człon_n._wł.
+Plat	Plata:s	subst:pl:gen:f	geograficzna	człon_n._wł.
+Platy	Plata:s	subst:pl:acc:f	geograficzna	człon_n._wł.
+Platy	Plata:s	subst:pl:nom:f	geograficzna	człon_n._wł.
+Platy	Plata:s	subst:pl:voc:f	geograficzna	człon_n._wł.
+Platy	Plata:s	subst:sg:gen:f	geograficzna	człon_n._wł.
 Platerach	Plater	subst:pl:loc:m1	nazwisko	
 Platerami	Plater	subst:pl:inst:m1	nazwisko	
 Platera	Plater	subst:sg:acc:m1	nazwisko	
@@ -7105,7 +7105,7 @@ Platerowie	Platerów	subst:sg:voc:m3	geograficzna
 Platerowom	Platerów	subst:pl:dat:m3	geograficzna	
 Platerowowi	Platerów	subst:sg:dat:m3	geograficzna	
 Platerowów	Platerów	subst:pl:gen:m3	geograficzna	
-Platerowu	Platerów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Platerowu	Platerów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Platerowy	Platerów	subst:pl:acc:m3	geograficzna	
 Platerowy	Platerów	subst:pl:nom:m3	geograficzna	
 Platerowy	Platerów	subst:pl:voc:m3	geograficzna	
@@ -7208,20 +7208,20 @@ Pliniuszów	Pliniusz	subst:pl:gen:m1	imię
 Pliniusz	Pliniusz	subst:sg:nom:m1	imię	
 Pliniuszu	Pliniusz	subst:sg:loc:m1	imię	
 Pliniuszu	Pliniusz	subst:sg:voc:m1	imię	
-PLL-ach	PLL	subst:pl:loc:m3	firma	człon n. wł.
-PLL-ami	PLL	subst:pl:inst:m3	firma	człon n. wł.
-PLL-em	PLL	subst:sg:inst:m3	firma	człon n. wł.
-PLL-e	PLL	subst:pl:acc:m3	firma	człon n. wł.
-PLL-e	PLL	subst:pl:nom:m3	firma	człon n. wł.
-PLL-e	PLL	subst:pl:voc:m3	firma	człon n. wł.
-PLL-i	PLL	subst:pl:gen:m3	firma	człon n. wł.
-PLL-om	PLL	subst:pl:dat:m3	firma	człon n. wł.
-PLL-owi	PLL	subst:sg:dat:m3	firma	człon n. wł.
-PLL	PLL	subst:sg:acc:m3	firma	człon n. wł.
-PLL	PLL	subst:sg:nom:m3	firma	człon n. wł.
-PLL-u	PLL	subst:sg:gen:m3	firma	człon n. wł.
-PLL-u	PLL	subst:sg:loc:m3	firma	człon n. wł.
-PLL-u	PLL	subst:sg:voc:m3	firma	człon n. wł.
+PLL-ach	PLL	subst:pl:loc:m3	firma	człon_n._wł.
+PLL-ami	PLL	subst:pl:inst:m3	firma	człon_n._wł.
+PLL-em	PLL	subst:sg:inst:m3	firma	człon_n._wł.
+PLL-e	PLL	subst:pl:acc:m3	firma	człon_n._wł.
+PLL-e	PLL	subst:pl:nom:m3	firma	człon_n._wł.
+PLL-e	PLL	subst:pl:voc:m3	firma	człon_n._wł.
+PLL-i	PLL	subst:pl:gen:m3	firma	człon_n._wł.
+PLL-om	PLL	subst:pl:dat:m3	firma	człon_n._wł.
+PLL-owi	PLL	subst:sg:dat:m3	firma	człon_n._wł.
+PLL	PLL	subst:sg:acc:m3	firma	człon_n._wł.
+PLL	PLL	subst:sg:nom:m3	firma	człon_n._wł.
+PLL-u	PLL	subst:sg:gen:m3	firma	człon_n._wł.
+PLL-u	PLL	subst:sg:loc:m3	firma	człon_n._wł.
+PLL-u	PLL	subst:sg:voc:m3	firma	człon_n._wł.
 PLO	PLO	subst:pl:acc:n2	firma	
 PLO	PLO	subst:pl:dat:n2	firma	
 PLO	PLO	subst:pl:gen:n2	firma	
@@ -7367,7 +7367,7 @@ Płaszowie	Płaszów	subst:sg:voc:m3	geograficzna
 Płaszowom	Płaszów	subst:pl:dat:m3	geograficzna	
 Płaszowowi	Płaszów	subst:sg:dat:m3	geograficzna	
 Płaszowów	Płaszów	subst:pl:gen:m3	geograficzna	
-Płaszowu	Płaszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Płaszowu	Płaszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Płaszowy	Płaszów	subst:pl:acc:m3	geograficzna	
 Płaszowy	Płaszów	subst:pl:nom:m3	geograficzna	
 Płaszowy	Płaszów	subst:pl:voc:m3	geograficzna	
@@ -7572,22 +7572,22 @@ Pobiedziskom	Pobiedziska	subst:pl:dat:p2	geograficzna
 Pobiedziskom	Pobiedziska	subst:pl:dat:p3	geograficzna	
 Pobiedzisk	Pobiedziska	subst:pl:gen:p2	geograficzna	
 Pobiedzisk	Pobiedziska	subst:pl:gen:p3	geograficzna	
-Pobóg	Pobóg	depr:pl:nom:m2	człon nazwiska (herb)	
-Pobóg	Pobóg	depr:pl:voc:m2	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:pl:acc:m1	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:pl:dat:m1	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:pl:gen:m1	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:pl:inst:m1	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:pl:loc:m1	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:pl:nom:m1	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:pl:voc:m1	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:sg:acc:m1	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:sg:dat:m1	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:sg:gen:m1	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:sg:inst:m1	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:sg:loc:m1	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:sg:nom:m1	człon nazwiska (herb)	
-Pobóg	Pobóg	subst:sg:voc:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	depr:pl:nom:m2	człon_nazwiska_(herb)	
+Pobóg	Pobóg	depr:pl:voc:m2	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:pl:acc:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:pl:dat:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:pl:gen:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:pl:inst:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:pl:loc:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:pl:nom:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:pl:voc:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:sg:acc:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:sg:dat:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:sg:gen:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:sg:inst:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:sg:loc:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:sg:nom:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	subst:sg:voc:m1	człon_nazwiska_(herb)	
 Poczdamach	Poczdam	subst:pl:loc:m3	geograficzna	
 Poczdamami	Poczdam	subst:pl:inst:m3	geograficzna	
 Poczdamem	Poczdam	subst:sg:inst:m3	geograficzna	
@@ -8088,7 +8088,7 @@ Polanowie	Polanów	subst:sg:voc:m3	geograficzna
 Polanowom	Polanów	subst:pl:dat:m3	geograficzna	
 Polanowowi	Polanów	subst:sg:dat:m3	geograficzna	
 Polanowów	Polanów	subst:pl:gen:m3	geograficzna	
-Polanowu	Polanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Polanowu	Polanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Polanowy	Polanów	subst:pl:acc:m3	geograficzna	
 Polanowy	Polanów	subst:pl:nom:m3	geograficzna	
 Polanowy	Polanów	subst:pl:voc:m3	geograficzna	
@@ -8590,21 +8590,21 @@ Polowi	Polo	subst:sg:dat:m1	nazwisko
 Polów	Polo	subst:pl:acc:m1	nazwisko	
 Polów	Polo	subst:pl:gen:m1	nazwisko	
 Polu	Polo	subst:sg:loc:m1	nazwisko	
-Poloniach	Polonia	subst:pl:loc:f	organizacja	człon n. wł.
-Poloniami	Polonia	subst:pl:inst:f	organizacja	człon n. wł.
-Polonia	Polonia	subst:sg:nom:f	organizacja	człon n. wł.
-Polonią	Polonia	subst:sg:inst:f	organizacja	człon n. wł.
-Polonie	Polonia	subst:pl:acc:f	organizacja	człon n. wł.
-Polonie	Polonia	subst:pl:nom:f	organizacja	człon n. wł.
-Polonie	Polonia	subst:pl:voc:f	organizacja	człon n. wł.
-Polonię	Polonia	subst:sg:acc:f	organizacja	człon n. wł.
-Polonii	Polonia	subst:pl:gen:f	organizacja	człon n. wł.|hom.
-Polonii	Polonia	subst:sg:dat:f	organizacja	człon n. wł.
-Polonii	Polonia	subst:sg:gen:f	organizacja	człon n. wł.
-Polonii	Polonia	subst:sg:loc:f	organizacja	człon n. wł.
-Polonij	Polonia	subst:pl:gen:f	organizacja	arch.|char.|człon n. wł.
-Poloniom	Polonia	subst:pl:dat:f	organizacja	człon n. wł.
-Polonio	Polonia	subst:sg:voc:f	organizacja	człon n. wł.
+Poloniach	Polonia	subst:pl:loc:f	organizacja	człon_n._wł.
+Poloniami	Polonia	subst:pl:inst:f	organizacja	człon_n._wł.
+Polonia	Polonia	subst:sg:nom:f	organizacja	człon_n._wł.
+Polonią	Polonia	subst:sg:inst:f	organizacja	człon_n._wł.
+Polonie	Polonia	subst:pl:acc:f	organizacja	człon_n._wł.
+Polonie	Polonia	subst:pl:nom:f	organizacja	człon_n._wł.
+Polonie	Polonia	subst:pl:voc:f	organizacja	człon_n._wł.
+Polonię	Polonia	subst:sg:acc:f	organizacja	człon_n._wł.
+Polonii	Polonia	subst:pl:gen:f	organizacja	człon_n._wł.|hom.
+Polonii	Polonia	subst:sg:dat:f	organizacja	człon_n._wł.
+Polonii	Polonia	subst:sg:gen:f	organizacja	człon_n._wł.
+Polonii	Polonia	subst:sg:loc:f	organizacja	człon_n._wł.
+Polonij	Polonia	subst:pl:gen:f	organizacja	arch.|char.|człon_n._wł.
+Poloniom	Polonia	subst:pl:dat:f	organizacja	człon_n._wł.
+Polonio	Polonia	subst:sg:voc:f	organizacja	człon_n._wł.
 Poloniuszach	Poloniusz	subst:pl:loc:m1	imię	
 Poloniuszami	Poloniusz	subst:pl:inst:m1	imię	
 Poloniusza	Poloniusz	subst:sg:acc:m1	imię	
@@ -9157,7 +9157,7 @@ Popielowie	Popielów	subst:sg:voc:m3	geograficzna
 Popielowom	Popielów	subst:pl:dat:m3	geograficzna	
 Popielowowi	Popielów	subst:sg:dat:m3	geograficzna	
 Popielowów	Popielów	subst:pl:gen:m3	geograficzna	
-Popielowu	Popielów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Popielowu	Popielów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Popielowy	Popielów	subst:pl:acc:m3	geograficzna	
 Popielowy	Popielów	subst:pl:nom:m3	geograficzna	
 Popielowy	Popielów	subst:pl:voc:m3	geograficzna	
@@ -9218,7 +9218,7 @@ Popowie	Popów	subst:sg:voc:m3	geograficzna
 Popowom	Popów	subst:pl:dat:m3	geograficzna	
 Popowowi	Popów	subst:sg:dat:m3	geograficzna	
 Popowów	Popów	subst:pl:gen:m3	geograficzna	
-Popowu	Popów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Popowu	Popów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Popowy	Popów	subst:pl:acc:m3	geograficzna	
 Popowy	Popów	subst:pl:nom:m3	geograficzna	
 Popowy	Popów	subst:pl:voc:m3	geograficzna	
@@ -9690,7 +9690,7 @@ Potworowie	Potworów	subst:sg:voc:m3	geograficzna
 Potworowom	Potworów	subst:pl:dat:m3	geograficzna	
 Potworowowi	Potworów	subst:sg:dat:m3	geograficzna	
 Potworowów	Potworów	subst:pl:gen:m3	geograficzna	
-Potworowu	Potworów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Potworowu	Potworów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Potworowy	Potworów	subst:pl:acc:m3	geograficzna	
 Potworowy	Potworów	subst:pl:nom:m3	geograficzna	
 Potworowy	Potworów	subst:pl:voc:m3	geograficzna	
@@ -10543,7 +10543,7 @@ Proszowie	Proszów	subst:sg:voc:m3	geograficzna
 Proszowom	Proszów	subst:pl:dat:m3	geograficzna	
 Proszowowi	Proszów	subst:sg:dat:m3	geograficzna	
 Proszowów	Proszów	subst:pl:gen:m3	geograficzna	
-Proszowu	Proszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Proszowu	Proszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Proszowy	Proszów	subst:pl:acc:m3	geograficzna	
 Proszowy	Proszów	subst:pl:nom:m3	geograficzna	
 Proszowy	Proszów	subst:pl:voc:m3	geograficzna	
@@ -10717,7 +10717,7 @@ Prószkowie	Prószków	subst:sg:voc:m3	geograficzna
 Prószkowom	Prószków	subst:pl:dat:m3	geograficzna	
 Prószkowowi	Prószków	subst:sg:dat:m3	geograficzna	
 Prószkowów	Prószków	subst:pl:gen:m3	geograficzna	
-Prószkowu	Prószków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Prószkowu	Prószków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Prószkowy	Prószków	subst:pl:acc:m3	geograficzna	
 Prószkowy	Prószków	subst:pl:nom:m3	geograficzna	
 Prószkowy	Prószków	subst:pl:voc:m3	geograficzna	
@@ -10941,7 +10941,7 @@ Pruszkowie	Pruszków	subst:sg:voc:m3	geograficzna
 Pruszkowom	Pruszków	subst:pl:dat:m3	geograficzna	
 Pruszkowowi	Pruszków	subst:sg:dat:m3	geograficzna	
 Pruszkowów	Pruszków	subst:pl:gen:m3	geograficzna	
-Pruszkowu	Pruszków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Pruszkowu	Pruszków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Pruszkowy	Pruszków	subst:pl:acc:m3	geograficzna	
 Pruszkowy	Pruszków	subst:pl:nom:m3	geograficzna	
 Pruszkowy	Pruszków	subst:pl:voc:m3	geograficzna	
@@ -11067,7 +11067,7 @@ Przeciszowie	Przeciszów	subst:sg:voc:m3	geograficzna
 Przeciszowom	Przeciszów	subst:pl:dat:m3	geograficzna	
 Przeciszowowi	Przeciszów	subst:sg:dat:m3	geograficzna	
 Przeciszowów	Przeciszów	subst:pl:gen:m3	geograficzna	
-Przeciszowu	Przeciszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Przeciszowu	Przeciszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Przeciszowy	Przeciszów	subst:pl:acc:m3	geograficzna	
 Przeciszowy	Przeciszów	subst:pl:nom:m3	geograficzna	
 Przeciszowy	Przeciszów	subst:pl:voc:m3	geograficzna	
@@ -11275,7 +11275,7 @@ Przemkowie	Przemków	subst:sg:voc:m3	geograficzna
 Przemkowom	Przemków	subst:pl:dat:m3	geograficzna	
 Przemkowowi	Przemków	subst:sg:dat:m3	geograficzna	
 Przemkowów	Przemków	subst:pl:gen:m3	geograficzna	
-Przemkowu	Przemków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Przemkowu	Przemków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Przemkowy	Przemków	subst:pl:acc:m3	geograficzna	
 Przemkowy	Przemków	subst:pl:nom:m3	geograficzna	
 Przemkowy	Przemków	subst:pl:voc:m3	geograficzna	
@@ -11389,24 +11389,24 @@ Przemyśl	Przemyśl	subst:sg:acc:m3	geograficzna
 Przemyśl	Przemyśl	subst:sg:nom:m3	geograficzna	
 Przemyślu	Przemyśl	subst:sg:loc:m3	geograficzna	
 Przemyślu	Przemyśl	subst:sg:voc:m3	geograficzna	
-Przemyślidach	Przemyślida	subst:pl:loc:m1	członek rodu	
-Przemyślidami	Przemyślida	subst:pl:inst:m1	członek rodu	
-Przemyślida	Przemyślida	subst:sg:nom:m1	członek rodu	
-Przemyślidą	Przemyślida	subst:sg:inst:m1	członek rodu	
-Przemyślidę	Przemyślida	subst:sg:acc:m1	członek rodu	
-Przemyślidom	Przemyślida	subst:pl:dat:m1	członek rodu	
-Przemyślido	Przemyślida	subst:sg:voc:m1	członek rodu	
-Przemyślidowie	Przemyślida	subst:pl:nom:m1	członek rodu	
-Przemyślidowie	Przemyślida	subst:pl:voc:m1	członek rodu	
-Przemyślidów	Przemyślida	subst:pl:acc:m1	członek rodu	
-Przemyślidów	Przemyślida	subst:pl:gen:m1	członek rodu	
-Przemyślidy	Przemyślida	depr:pl:nom:m2	członek rodu	
-Przemyślidy	Przemyślida	depr:pl:voc:m2	członek rodu	
-Przemyślidy	Przemyślida	subst:sg:gen:m1	członek rodu	
-Przemyślidzie	Przemyślida	subst:sg:dat:m1	członek rodu	
-Przemyślidzie	Przemyślida	subst:sg:loc:m1	członek rodu	
-Przemyślidzi	Przemyślida	subst:pl:nom:m1	członek rodu	
-Przemyślidzi	Przemyślida	subst:pl:voc:m1	członek rodu	
+Przemyślidach	Przemyślida	subst:pl:loc:m1	członek_rodu	
+Przemyślidami	Przemyślida	subst:pl:inst:m1	członek_rodu	
+Przemyślida	Przemyślida	subst:sg:nom:m1	członek_rodu	
+Przemyślidą	Przemyślida	subst:sg:inst:m1	członek_rodu	
+Przemyślidę	Przemyślida	subst:sg:acc:m1	członek_rodu	
+Przemyślidom	Przemyślida	subst:pl:dat:m1	członek_rodu	
+Przemyślido	Przemyślida	subst:sg:voc:m1	członek_rodu	
+Przemyślidowie	Przemyślida	subst:pl:nom:m1	członek_rodu	
+Przemyślidowie	Przemyślida	subst:pl:voc:m1	członek_rodu	
+Przemyślidów	Przemyślida	subst:pl:acc:m1	członek_rodu	
+Przemyślidów	Przemyślida	subst:pl:gen:m1	członek_rodu	
+Przemyślidy	Przemyślida	depr:pl:nom:m2	członek_rodu	
+Przemyślidy	Przemyślida	depr:pl:voc:m2	członek_rodu	
+Przemyślidy	Przemyślida	subst:sg:gen:m1	członek_rodu	
+Przemyślidzie	Przemyślida	subst:sg:dat:m1	członek_rodu	
+Przemyślidzie	Przemyślida	subst:sg:loc:m1	członek_rodu	
+Przemyślidzi	Przemyślida	subst:pl:nom:m1	członek_rodu	
+Przemyślidzi	Przemyślida	subst:pl:voc:m1	członek_rodu	
 Przerwach	Przerwa	subst:pl:loc:m1	nazwisko	
 Przerwami	Przerwa	subst:pl:inst:m1	nazwisko	
 Przerwa	Przerwa	subst:sg:nom:m1	nazwisko	
@@ -11854,7 +11854,7 @@ Przyrowie	Przyrów	subst:sg:voc:m3	geograficzna
 Przyrowom	Przyrów	subst:pl:dat:m3	geograficzna	
 Przyrowowi	Przyrów	subst:sg:dat:m3	geograficzna	
 Przyrowów	Przyrów	subst:pl:gen:m3	geograficzna	
-Przyrowu	Przyrów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Przyrowu	Przyrów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Przyrowy	Przyrów	subst:pl:acc:m3	geograficzna	
 Przyrowy	Przyrów	subst:pl:nom:m3	geograficzna	
 Przyrowy	Przyrów	subst:pl:voc:m3	geograficzna	
@@ -11911,7 +11911,7 @@ Pskowie	Psków	subst:sg:voc:m3	geograficzna
 Pskowom	Psków	subst:pl:dat:m3	geograficzna	
 Pskowowi	Psków	subst:sg:dat:m3	geograficzna	
 Pskowów	Psków	subst:pl:gen:m3	geograficzna	
-Pskowu	Psków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Pskowu	Psków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Pskowy	Psków	subst:pl:acc:m3	geograficzna	
 Pskowy	Psków	subst:pl:nom:m3	geograficzna	
 Pskowy	Psków	subst:pl:voc:m3	geograficzna	
@@ -12078,7 +12078,7 @@ Pszowie	Pszów	subst:sg:voc:m3	geograficzna
 Pszowom	Pszów	subst:pl:dat:m3	geograficzna	
 Pszowowi	Pszów	subst:sg:dat:m3	geograficzna	
 Pszowów	Pszów	subst:pl:gen:m3	geograficzna	
-Pszowu	Pszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Pszowu	Pszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Pszowy	Pszów	subst:pl:acc:m3	geograficzna	
 Pszowy	Pszów	subst:pl:nom:m3	geograficzna	
 Pszowy	Pszów	subst:pl:voc:m3	geograficzna	
@@ -12389,7 +12389,7 @@ Puchaczowie	Puchaczów	subst:sg:voc:m3	geograficzna
 Puchaczowom	Puchaczów	subst:pl:dat:m3	geograficzna	
 Puchaczowowi	Puchaczów	subst:sg:dat:m3	geograficzna	
 Puchaczowów	Puchaczów	subst:pl:gen:m3	geograficzna	
-Puchaczowu	Puchaczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Puchaczowu	Puchaczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Puchaczowy	Puchaczów	subst:pl:acc:m3	geograficzna	
 Puchaczowy	Puchaczów	subst:pl:nom:m3	geograficzna	
 Puchaczowy	Puchaczów	subst:pl:voc:m3	geograficzna	
@@ -12503,20 +12503,20 @@ Pudowkinów	Pudowkin	subst:pl:gen:m1	nazwisko
 Pudowkin	Pudowkin	subst:sg:nom:m1	nazwisko	
 Pudowkiny	Pudowkin	depr:pl:nom:m2	nazwisko	
 Pudowkiny	Pudowkin	depr:pl:voc:m2	nazwisko	
-Puerto	Puerto	subst:pl:acc:n2	geograficzna	człon n. wł.
-Puerto	Puerto	subst:pl:dat:n2	geograficzna	człon n. wł.
-Puerto	Puerto	subst:pl:gen:n2	geograficzna	człon n. wł.
-Puerto	Puerto	subst:pl:inst:n2	geograficzna	człon n. wł.
-Puerto	Puerto	subst:pl:loc:n2	geograficzna	człon n. wł.
-Puerto	Puerto	subst:pl:nom:n2	geograficzna	człon n. wł.
-Puerto	Puerto	subst:pl:voc:n2	geograficzna	człon n. wł.
-Puerto	Puerto	subst:sg:acc:n2	geograficzna	człon n. wł.
-Puerto	Puerto	subst:sg:dat:n2	geograficzna	człon n. wł.
-Puerto	Puerto	subst:sg:gen:n2	geograficzna	człon n. wł.
-Puerto	Puerto	subst:sg:inst:n2	geograficzna	człon n. wł.
-Puerto	Puerto	subst:sg:loc:n2	geograficzna	człon n. wł.
-Puerto	Puerto	subst:sg:nom:n2	geograficzna	człon n. wł.
-Puerto	Puerto	subst:sg:voc:n2	geograficzna	człon n. wł.
+Puerto	Puerto	subst:pl:acc:n2	geograficzna	człon_n._wł.
+Puerto	Puerto	subst:pl:dat:n2	geograficzna	człon_n._wł.
+Puerto	Puerto	subst:pl:gen:n2	geograficzna	człon_n._wł.
+Puerto	Puerto	subst:pl:inst:n2	geograficzna	człon_n._wł.
+Puerto	Puerto	subst:pl:loc:n2	geograficzna	człon_n._wł.
+Puerto	Puerto	subst:pl:nom:n2	geograficzna	człon_n._wł.
+Puerto	Puerto	subst:pl:voc:n2	geograficzna	człon_n._wł.
+Puerto	Puerto	subst:sg:acc:n2	geograficzna	człon_n._wł.
+Puerto	Puerto	subst:sg:dat:n2	geograficzna	człon_n._wł.
+Puerto	Puerto	subst:sg:gen:n2	geograficzna	człon_n._wł.
+Puerto	Puerto	subst:sg:inst:n2	geograficzna	człon_n._wł.
+Puerto	Puerto	subst:sg:loc:n2	geograficzna	człon_n._wł.
+Puerto	Puerto	subst:sg:nom:n2	geograficzna	człon_n._wł.
+Puerto	Puerto	subst:sg:voc:n2	geograficzna	człon_n._wł.
 Puertorykance	Puertorykanka	subst:sg:dat:f	pospolita	
 Puertorykance	Puertorykanka	subst:sg:loc:f	pospolita	
 Puertorykanek	Puertorykanka	subst:pl:gen:f	pospolita	

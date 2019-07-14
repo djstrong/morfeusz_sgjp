@@ -136,7 +136,7 @@ Baborowie	Baborów	subst:sg:voc:m3	geograficzna
 Baborowom	Baborów	subst:pl:dat:m3	geograficzna	
 Baborowowi	Baborów	subst:sg:dat:m3	geograficzna	
 Baborowów	Baborów	subst:pl:gen:m3	geograficzna	
-Baborowu	Baborów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Baborowu	Baborów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Baborowy	Baborów	subst:pl:acc:m3	geograficzna	
 Baborowy	Baborów	subst:pl:nom:m3	geograficzna	
 Baborowy	Baborów	subst:pl:voc:m3	geograficzna	
@@ -1036,7 +1036,7 @@ Bałtowie	Bałtów	subst:sg:voc:m3	geograficzna
 Bałtowom	Bałtów	subst:pl:dat:m3	geograficzna	
 Bałtowowi	Bałtów	subst:sg:dat:m3	geograficzna	
 Bałtowów	Bałtów	subst:pl:gen:m3	geograficzna	
-Bałtowu	Bałtów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Bałtowu	Bałtów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Bałtowy	Bałtów	subst:pl:acc:m3	geograficzna	
 Bałtowy	Bałtów	subst:pl:nom:m3	geograficzna	
 Bałtowy	Bałtów	subst:pl:voc:m3	geograficzna	
@@ -1489,7 +1489,7 @@ Baranowie	Baranów	subst:sg:voc:m3	geograficzna
 Baranowom	Baranów	subst:pl:dat:m3	geograficzna	
 Baranowowi	Baranów	subst:sg:dat:m3	geograficzna	
 Baranowów	Baranów	subst:pl:gen:m3	geograficzna	
-Baranowu	Baranów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Baranowu	Baranów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Baranowy	Baranów	subst:pl:acc:m3	geograficzna	
 Baranowy	Baranów	subst:pl:nom:m3	geograficzna	
 Baranowy	Baranów	subst:pl:voc:m3	geograficzna	
@@ -1792,7 +1792,7 @@ Bargłowie	Bargłów	subst:sg:voc:m3	geograficzna
 Bargłowom	Bargłów	subst:pl:dat:m3	geograficzna	
 Bargłowowi	Bargłów	subst:sg:dat:m3	geograficzna	
 Bargłowów	Bargłów	subst:pl:gen:m3	geograficzna	
-Bargłowu	Bargłów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Bargłowu	Bargłów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Bargłowy	Bargłów	subst:pl:acc:m3	geograficzna	
 Bargłowy	Bargłów	subst:pl:nom:m3	geograficzna	
 Bargłowy	Bargłów	subst:pl:voc:m3	geograficzna	
@@ -2337,21 +2337,21 @@ Basię	Basia	subst:sg:acc:f	imię
 Basiom	Basia	subst:pl:dat:f	imię	
 Basiu	Basia	subst:sg:voc:f	imię	
 Baś	Basia	subst:pl:gen:f	imię	char.
-Basica	Basic	subst:sg:gen:m3	język programowania	komp.
-Basicach	Basic	subst:pl:loc:m3	język programowania	komp.
-Basicami	Basic	subst:pl:inst:m3	język programowania	komp.
-Basic	Basic	subst:sg:acc:m3	język programowania	komp.
-Basic	Basic	subst:sg:nom:m3	język programowania	komp.
-Basicom	Basic	subst:pl:dat:m3	język programowania	komp.
-Basicowi	Basic	subst:sg:dat:m3	język programowania	komp.
-Basiców	Basic	subst:pl:gen:m3	język programowania	komp.
-Basicu	Basic	subst:sg:gen:m3	język programowania	komp.
-Basicu	Basic	subst:sg:loc:m3	język programowania	komp.
-Basicu	Basic	subst:sg:voc:m3	język programowania	komp.
-Basiki	Basic	subst:pl:acc:m3	język programowania	komp.
-Basiki	Basic	subst:pl:nom:m3	język programowania	komp.
-Basiki	Basic	subst:pl:voc:m3	język programowania	komp.
-Basikiem	Basic	subst:sg:inst:m3	język programowania	komp.
+Basica	Basic	subst:sg:gen:m3	język_programowania	komp.
+Basicach	Basic	subst:pl:loc:m3	język_programowania	komp.
+Basicami	Basic	subst:pl:inst:m3	język_programowania	komp.
+Basic	Basic	subst:sg:acc:m3	język_programowania	komp.
+Basic	Basic	subst:sg:nom:m3	język_programowania	komp.
+Basicom	Basic	subst:pl:dat:m3	język_programowania	komp.
+Basicowi	Basic	subst:sg:dat:m3	język_programowania	komp.
+Basiców	Basic	subst:pl:gen:m3	język_programowania	komp.
+Basicu	Basic	subst:sg:gen:m3	język_programowania	komp.
+Basicu	Basic	subst:sg:loc:m3	język_programowania	komp.
+Basicu	Basic	subst:sg:voc:m3	język_programowania	komp.
+Basiki	Basic	subst:pl:acc:m3	język_programowania	komp.
+Basiki	Basic	subst:pl:nom:m3	język_programowania	komp.
+Basiki	Basic	subst:pl:voc:m3	język_programowania	komp.
+Basikiem	Basic	subst:sg:inst:m3	język_programowania	komp.
 Basińska	Basińska	subst:sg:nom:f	nazwisko	
 Basińska	Basińska	subst:sg:voc:f	nazwisko	
 Basińską	Basińska	subst:sg:acc:f	nazwisko	
@@ -2504,32 +2504,32 @@ Batów	Bata	subst:pl:gen:m1	nazwisko
 Baty	Bata	depr:pl:nom:m2	nazwisko	
 Baty	Bata	depr:pl:voc:m2	nazwisko	
 Baty	Bata	subst:sg:gen:m1	nazwisko	
-Batorach	Bator	subst:pl:loc:m3	geograficzna	człon n. wł.
-Batorami	Bator	subst:pl:inst:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:pl:acc:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:pl:dat:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:pl:gen:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:pl:inst:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:pl:loc:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:pl:nom:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:pl:voc:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:sg:acc:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:sg:dat:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:sg:gen:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:sg:inst:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:sg:loc:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:sg:nom:m3	geograficzna	człon n. wł.
-Bator	Bator	subst:sg:voc:m3	geograficzna	człon n. wł.
-Batorem	Bator	subst:sg:inst:m3	geograficzna	człon n. wł.
-Batorom	Bator	subst:pl:dat:m3	geograficzna	człon n. wł.
-Batorowi	Bator	subst:sg:dat:m3	geograficzna	człon n. wł.
-Batorów	Bator	subst:pl:gen:m3	geograficzna	człon n. wł.
-Batoru	Bator	subst:sg:gen:m3	geograficzna	człon n. wł.
-Batory	Bator	subst:pl:acc:m3	geograficzna	człon n. wł.
-Batory	Bator	subst:pl:nom:m3	geograficzna	człon n. wł.
-Batory	Bator	subst:pl:voc:m3	geograficzna	człon n. wł.
-Batorze	Bator	subst:sg:loc:m3	geograficzna	człon n. wł.
-Batorze	Bator	subst:sg:voc:m3	geograficzna	człon n. wł.
+Batorach	Bator	subst:pl:loc:m3	geograficzna	człon_n._wł.
+Batorami	Bator	subst:pl:inst:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:pl:acc:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:pl:dat:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:pl:gen:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:pl:inst:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:pl:loc:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:pl:nom:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:pl:voc:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:sg:acc:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:sg:dat:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:sg:gen:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:sg:inst:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:sg:loc:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:sg:nom:m3	geograficzna	człon_n._wł.
+Bator	Bator	subst:sg:voc:m3	geograficzna	człon_n._wł.
+Batorem	Bator	subst:sg:inst:m3	geograficzna	człon_n._wł.
+Batorom	Bator	subst:pl:dat:m3	geograficzna	człon_n._wł.
+Batorowi	Bator	subst:sg:dat:m3	geograficzna	człon_n._wł.
+Batorów	Bator	subst:pl:gen:m3	geograficzna	człon_n._wł.
+Batoru	Bator	subst:sg:gen:m3	geograficzna	człon_n._wł.
+Batory	Bator	subst:pl:acc:m3	geograficzna	człon_n._wł.
+Batory	Bator	subst:pl:nom:m3	geograficzna	człon_n._wł.
+Batory	Bator	subst:pl:voc:m3	geograficzna	człon_n._wł.
+Batorze	Bator	subst:sg:loc:m3	geograficzna	człon_n._wł.
+Batorze	Bator	subst:sg:voc:m3	geograficzna	człon_n._wł.
 Batore	Batory	depr:pl:nom:m2	nazwisko	
 Batore	Batory	depr:pl:voc:m2	nazwisko	
 Batorego	Batory	subst:sg:acc:m1	nazwisko	
@@ -2699,20 +2699,20 @@ Bawarki	Bawarka	subst:pl:voc:f	pospolita
 Bawarki	Bawarka	subst:sg:gen:f	pospolita	
 Bawarko	Bawarka	subst:sg:voc:f	pospolita	
 Bawarkom	Bawarka	subst:pl:dat:f	pospolita	
-Bayernach	Bayern	subst:pl:loc:m3	organizacja	człon n. wł.
-Bayernami	Bayern	subst:pl:inst:m3	organizacja	człon n. wł.
-Bayern	Bayern	subst:sg:acc:m3	organizacja	człon n. wł.
-Bayern	Bayern	subst:sg:nom:m3	organizacja	człon n. wł.
-Bayernem	Bayern	subst:sg:inst:m3	organizacja	człon n. wł.
-Bayernie	Bayern	subst:sg:loc:m3	organizacja	człon n. wł.
-Bayernie	Bayern	subst:sg:voc:m3	organizacja	człon n. wł.
-Bayernom	Bayern	subst:pl:dat:m3	organizacja	człon n. wł.
-Bayernowi	Bayern	subst:sg:dat:m3	organizacja	człon n. wł.
-Bayernów	Bayern	subst:pl:gen:m3	organizacja	człon n. wł.
-Bayernu	Bayern	subst:sg:gen:m3	organizacja	człon n. wł.
-Bayerny	Bayern	subst:pl:acc:m3	organizacja	człon n. wł.
-Bayerny	Bayern	subst:pl:nom:m3	organizacja	człon n. wł.
-Bayerny	Bayern	subst:pl:voc:m3	organizacja	człon n. wł.
+Bayernach	Bayern	subst:pl:loc:m3	organizacja	człon_n._wł.
+Bayernami	Bayern	subst:pl:inst:m3	organizacja	człon_n._wł.
+Bayern	Bayern	subst:sg:acc:m3	organizacja	człon_n._wł.
+Bayern	Bayern	subst:sg:nom:m3	organizacja	człon_n._wł.
+Bayernem	Bayern	subst:sg:inst:m3	organizacja	człon_n._wł.
+Bayernie	Bayern	subst:sg:loc:m3	organizacja	człon_n._wł.
+Bayernie	Bayern	subst:sg:voc:m3	organizacja	człon_n._wł.
+Bayernom	Bayern	subst:pl:dat:m3	organizacja	człon_n._wł.
+Bayernowi	Bayern	subst:sg:dat:m3	organizacja	człon_n._wł.
+Bayernów	Bayern	subst:pl:gen:m3	organizacja	człon_n._wł.
+Bayernu	Bayern	subst:sg:gen:m3	organizacja	człon_n._wł.
+Bayerny	Bayern	subst:pl:acc:m3	organizacja	człon_n._wł.
+Bayerny	Bayern	subst:pl:nom:m3	organizacja	człon_n._wł.
+Bayerny	Bayern	subst:pl:voc:m3	organizacja	człon_n._wł.
 Bazyla	Bazyl	subst:sg:acc:m1	imię	
 Bazyla	Bazyl	subst:sg:gen:m1	imię	
 Bazylach	Bazyl	subst:pl:loc:m1	imię	
@@ -2977,7 +2977,7 @@ Bąkowie	Bąków	subst:sg:voc:m3	geograficzna
 Bąkowom	Bąków	subst:pl:dat:m3	geograficzna	
 Bąkowowi	Bąków	subst:sg:dat:m3	geograficzna	
 Bąkowów	Bąków	subst:pl:gen:m3	geograficzna	
-Bąkowu	Bąków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Bąkowu	Bąków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Bąkowy	Bąków	subst:pl:acc:m3	geograficzna	
 Bąkowy	Bąków	subst:pl:nom:m3	geograficzna	
 Bąkowy	Bąków	subst:pl:voc:m3	geograficzna	
@@ -3834,7 +3834,7 @@ Bełchatowie	Bełchatów	subst:sg:voc:m3	geograficzna
 Bełchatowom	Bełchatów	subst:pl:dat:m3	geograficzna	
 Bełchatowowi	Bełchatów	subst:sg:dat:m3	geograficzna	
 Bełchatowów	Bełchatów	subst:pl:gen:m3	geograficzna	
-Bełchatowu	Bełchatów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Bełchatowu	Bełchatów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Bełchatowy	Bełchatów	subst:pl:acc:m3	geograficzna	
 Bełchatowy	Bełchatów	subst:pl:nom:m3	geograficzna	
 Bełchatowy	Bełchatów	subst:pl:voc:m3	geograficzna	
@@ -4370,7 +4370,7 @@ Berdyczowie	Berdyczów	subst:sg:voc:m3	geograficzna
 Berdyczowom	Berdyczów	subst:pl:dat:m3	geograficzna	
 Berdyczowowi	Berdyczów	subst:sg:dat:m3	geograficzna	
 Berdyczowów	Berdyczów	subst:pl:gen:m3	geograficzna	
-Berdyczowu	Berdyczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Berdyczowu	Berdyczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Berdyczowy	Berdyczów	subst:pl:acc:m3	geograficzna	
 Berdyczowy	Berdyczów	subst:pl:nom:m3	geograficzna	
 Berdyczowy	Berdyczów	subst:pl:voc:m3	geograficzna	
@@ -5068,7 +5068,7 @@ Będkowie	Będków	subst:sg:voc:m3	geograficzna
 Będkowom	Będków	subst:pl:dat:m3	geograficzna	
 Będkowowi	Będków	subst:sg:dat:m3	geograficzna	
 Będkowów	Będków	subst:pl:gen:m3	geograficzna	
-Będkowu	Będków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Będkowu	Będków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Będkowy	Będków	subst:pl:acc:m3	geograficzna	
 Będkowy	Będków	subst:pl:nom:m3	geograficzna	
 Będkowy	Będków	subst:pl:voc:m3	geograficzna	
@@ -5294,20 +5294,20 @@ Bialskiem	Bialskie	subst:sg:loc:n2	geograficzna
 Bialskiemu	Bialskie	subst:sg:dat:n2	geograficzna	
 Bialskim	Bialskie	subst:pl:dat:n2	geograficzna	
 Bialskimi	Bialskie	subst:pl:inst:n2	geograficzna	
-Biała	Biała	subst:sg:nom:f	geograficzna	człon n. wł.
-Biała	Biała	subst:sg:voc:f	geograficzna	człon n. wł.
-Białą	Biała	subst:sg:acc:f	geograficzna	człon n. wł.
-Białą	Biała	subst:sg:inst:f	geograficzna	człon n. wł.
-Białe	Biała	subst:pl:acc:f	geograficzna	człon n. wł.
-Białe	Biała	subst:pl:nom:f	geograficzna	człon n. wł.
-Białe	Biała	subst:pl:voc:f	geograficzna	człon n. wł.
-Białej	Biała	subst:sg:dat:f	geograficzna	człon n. wł.
-Białej	Biała	subst:sg:gen:f	geograficzna	człon n. wł.
-Białej	Biała	subst:sg:loc:f	geograficzna	człon n. wł.
-Białych	Biała	subst:pl:gen:f	geograficzna	człon n. wł.
-Białych	Biała	subst:pl:loc:f	geograficzna	człon n. wł.
-Białym	Biała	subst:pl:dat:f	geograficzna	człon n. wł.
-Białymi	Biała	subst:pl:inst:f	geograficzna	człon n. wł.
+Biała	Biała	subst:sg:nom:f	geograficzna	człon_n._wł.
+Biała	Biała	subst:sg:voc:f	geograficzna	człon_n._wł.
+Białą	Biała	subst:sg:acc:f	geograficzna	człon_n._wł.
+Białą	Biała	subst:sg:inst:f	geograficzna	człon_n._wł.
+Białe	Biała	subst:pl:acc:f	geograficzna	człon_n._wł.
+Białe	Biała	subst:pl:nom:f	geograficzna	człon_n._wł.
+Białe	Biała	subst:pl:voc:f	geograficzna	człon_n._wł.
+Białej	Biała	subst:sg:dat:f	geograficzna	człon_n._wł.
+Białej	Biała	subst:sg:gen:f	geograficzna	człon_n._wł.
+Białej	Biała	subst:sg:loc:f	geograficzna	człon_n._wł.
+Białych	Biała	subst:pl:gen:f	geograficzna	człon_n._wł.
+Białych	Biała	subst:pl:loc:f	geograficzna	człon_n._wł.
+Białym	Biała	subst:pl:dat:f	geograficzna	człon_n._wł.
+Białymi	Biała	subst:pl:inst:f	geograficzna	człon_n._wł.
 Białaczowa	Białaczów	subst:sg:gen:m3	geograficzna	
 Białaczowach	Białaczów	subst:pl:loc:m3	geograficzna	
 Białaczowami	Białaczów	subst:pl:inst:m3	geograficzna	
@@ -5317,7 +5317,7 @@ Białaczowie	Białaczów	subst:sg:voc:m3	geograficzna
 Białaczowom	Białaczów	subst:pl:dat:m3	geograficzna	
 Białaczowowi	Białaczów	subst:sg:dat:m3	geograficzna	
 Białaczowów	Białaczów	subst:pl:gen:m3	geograficzna	
-Białaczowu	Białaczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Białaczowu	Białaczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Białaczowy	Białaczów	subst:pl:acc:m3	geograficzna	
 Białaczowy	Białaczów	subst:pl:nom:m3	geograficzna	
 Białaczowy	Białaczów	subst:pl:voc:m3	geograficzna	
@@ -6016,7 +6016,7 @@ Bierutowie	Bierutów	subst:sg:voc:m3	geograficzna
 Bierutowom	Bierutów	subst:pl:dat:m3	geograficzna	
 Bierutowowi	Bierutów	subst:sg:dat:m3	geograficzna	
 Bierutowów	Bierutów	subst:pl:gen:m3	geograficzna	
-Bierutowu	Bierutów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Bierutowu	Bierutów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Bierutowy	Bierutów	subst:pl:acc:m3	geograficzna	
 Bierutowy	Bierutów	subst:pl:nom:m3	geograficzna	
 Bierutowy	Bierutów	subst:pl:voc:m3	geograficzna	
@@ -6045,7 +6045,7 @@ Bieżanowie	Bieżanów	subst:sg:voc:m3	geograficzna
 Bieżanowom	Bieżanów	subst:pl:dat:m3	geograficzna	
 Bieżanowowi	Bieżanów	subst:sg:dat:m3	geograficzna	
 Bieżanowów	Bieżanów	subst:pl:gen:m3	geograficzna	
-Bieżanowu	Bieżanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Bieżanowu	Bieżanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Bieżanowy	Bieżanów	subst:pl:acc:m3	geograficzna	
 Bieżanowy	Bieżanów	subst:pl:nom:m3	geograficzna	
 Bieżanowy	Bieżanów	subst:pl:voc:m3	geograficzna	
@@ -6614,7 +6614,7 @@ Blizanowie	Blizanów	subst:sg:voc:m3	geograficzna
 Blizanowom	Blizanów	subst:pl:dat:m3	geograficzna	
 Blizanowowi	Blizanów	subst:sg:dat:m3	geograficzna	
 Blizanowów	Blizanów	subst:pl:gen:m3	geograficzna	
-Blizanowu	Blizanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Blizanowu	Blizanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Blizanowy	Blizanów	subst:pl:acc:m3	geograficzna	
 Blizanowy	Blizanów	subst:pl:nom:m3	geograficzna	
 Blizanowy	Blizanów	subst:pl:voc:m3	geograficzna	
@@ -6778,7 +6778,7 @@ Błędowie	Błędów	subst:sg:voc:m3	geograficzna
 Błędowom	Błędów	subst:pl:dat:m3	geograficzna	
 Błędowowi	Błędów	subst:sg:dat:m3	geograficzna	
 Błędowów	Błędów	subst:pl:gen:m3	geograficzna	
-Błędowu	Błędów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Błędowu	Błędów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Błędowy	Błędów	subst:pl:acc:m3	geograficzna	
 Błędowy	Błędów	subst:pl:nom:m3	geograficzna	
 Błędowy	Błędów	subst:pl:voc:m3	geograficzna	
@@ -7272,7 +7272,7 @@ Boczowie	Boczów	subst:sg:voc:m3	geograficzna
 Boczowom	Boczów	subst:pl:dat:m3	geograficzna	
 Boczowowi	Boczów	subst:sg:dat:m3	geograficzna	
 Boczowów	Boczów	subst:pl:gen:m3	geograficzna	
-Boczowu	Boczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Boczowu	Boczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Boczowy	Boczów	subst:pl:acc:m3	geograficzna	
 Boczowy	Boczów	subst:pl:nom:m3	geograficzna	
 Boczowy	Boczów	subst:pl:voc:m3	geograficzna	
@@ -7292,20 +7292,20 @@ Boćki	Boćki	subst:pl:voc:p2	geograficzna	rzad.
 Boćki	Boćki	subst:pl:voc:p3	geograficzna	
 Boćkom	Boćki	subst:pl:dat:p2	geograficzna	rzad.
 Boćkom	Boćki	subst:pl:dat:p3	geograficzna	
-Bodoni	Bodoni	subst:sg:acc:m3	krój pisma	
-Bodoni	Bodoni	subst:sg:nom:m3	krój pisma	
-Bodoni	Bodoni	subst:sg:voc:m3	krój pisma	
-Bodonich	Bodoni	subst:pl:gen:m3	krój pisma	
-Bodonich	Bodoni	subst:pl:loc:m3	krój pisma	
-Bodonie	Bodoni	subst:pl:acc:m3	krój pisma	
-Bodonie	Bodoni	subst:pl:nom:m3	krój pisma	
-Bodonie	Bodoni	subst:pl:voc:m3	krój pisma	
-Bodoniego	Bodoni	subst:sg:gen:m3	krój pisma	
-Bodoniemu	Bodoni	subst:sg:dat:m3	krój pisma	
-Bodonim	Bodoni	subst:pl:dat:m3	krój pisma	
-Bodonim	Bodoni	subst:sg:inst:m3	krój pisma	
-Bodonim	Bodoni	subst:sg:loc:m3	krój pisma	
-Bodonimi	Bodoni	subst:pl:inst:m3	krój pisma	
+Bodoni	Bodoni	subst:sg:acc:m3	krój_pisma	
+Bodoni	Bodoni	subst:sg:nom:m3	krój_pisma	
+Bodoni	Bodoni	subst:sg:voc:m3	krój_pisma	
+Bodonich	Bodoni	subst:pl:gen:m3	krój_pisma	
+Bodonich	Bodoni	subst:pl:loc:m3	krój_pisma	
+Bodonie	Bodoni	subst:pl:acc:m3	krój_pisma	
+Bodonie	Bodoni	subst:pl:nom:m3	krój_pisma	
+Bodonie	Bodoni	subst:pl:voc:m3	krój_pisma	
+Bodoniego	Bodoni	subst:sg:gen:m3	krój_pisma	
+Bodoniemu	Bodoni	subst:sg:dat:m3	krój_pisma	
+Bodonim	Bodoni	subst:pl:dat:m3	krój_pisma	
+Bodonim	Bodoni	subst:sg:inst:m3	krój_pisma	
+Bodonim	Bodoni	subst:sg:loc:m3	krój_pisma	
+Bodonimi	Bodoni	subst:pl:inst:m3	krój_pisma	
 Bodzanowa	Bodzanów	subst:sg:gen:m3	geograficzna	
 Bodzanowach	Bodzanów	subst:pl:loc:m3	geograficzna	
 Bodzanowami	Bodzanów	subst:pl:inst:m3	geograficzna	
@@ -7315,7 +7315,7 @@ Bodzanowie	Bodzanów	subst:sg:voc:m3	geograficzna
 Bodzanowom	Bodzanów	subst:pl:dat:m3	geograficzna	
 Bodzanowowi	Bodzanów	subst:sg:dat:m3	geograficzna	
 Bodzanowów	Bodzanów	subst:pl:gen:m3	geograficzna	
-Bodzanowu	Bodzanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Bodzanowu	Bodzanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Bodzanowy	Bodzanów	subst:pl:acc:m3	geograficzna	
 Bodzanowy	Bodzanów	subst:pl:nom:m3	geograficzna	
 Bodzanowy	Bodzanów	subst:pl:voc:m3	geograficzna	
@@ -7330,7 +7330,7 @@ Bodzechowie	Bodzechów	subst:sg:voc:m3	geograficzna
 Bodzechowom	Bodzechów	subst:pl:dat:m3	geograficzna	
 Bodzechowowi	Bodzechów	subst:sg:dat:m3	geograficzna	
 Bodzechowów	Bodzechów	subst:pl:gen:m3	geograficzna	
-Bodzechowu	Bodzechów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Bodzechowu	Bodzechów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Bodzechowy	Bodzechów	subst:pl:acc:m3	geograficzna	
 Bodzechowy	Bodzechów	subst:pl:nom:m3	geograficzna	
 Bodzechowy	Bodzechów	subst:pl:voc:m3	geograficzna	
@@ -7917,7 +7917,7 @@ Boguszowie	Boguszów	subst:sg:voc:m3	geograficzna
 Boguszowom	Boguszów	subst:pl:dat:m3	geograficzna	
 Boguszowowi	Boguszów	subst:sg:dat:m3	geograficzna	
 Boguszowów	Boguszów	subst:pl:gen:m3	geograficzna	
-Boguszowu	Boguszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Boguszowu	Boguszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Boguszowy	Boguszów	subst:pl:acc:m3	geograficzna	
 Boguszowy	Boguszów	subst:pl:nom:m3	geograficzna	
 Boguszowy	Boguszów	subst:pl:voc:m3	geograficzna	
@@ -8177,7 +8177,7 @@ Bojanowie	Bojanów	subst:sg:voc:m3	geograficzna
 Bojanowom	Bojanów	subst:pl:dat:m3	geograficzna	
 Bojanowowi	Bojanów	subst:sg:dat:m3	geograficzna	
 Bojanowów	Bojanów	subst:pl:gen:m3	geograficzna	
-Bojanowu	Bojanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Bojanowu	Bojanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Bojanowy	Bojanów	subst:pl:acc:m3	geograficzna	
 Bojanowy	Bojanów	subst:pl:nom:m3	geograficzna	
 Bojanowy	Bojanów	subst:pl:voc:m3	geograficzna	
@@ -8411,7 +8411,7 @@ Bolimowie	Bolimów	subst:sg:voc:m3	geograficzna
 Bolimowom	Bolimów	subst:pl:dat:m3	geograficzna	
 Bolimowowi	Bolimów	subst:sg:dat:m3	geograficzna	
 Bolimowów	Bolimów	subst:pl:gen:m3	geograficzna	
-Bolimowu	Bolimów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Bolimowu	Bolimów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Bolimowy	Bolimów	subst:pl:acc:m3	geograficzna	
 Bolimowy	Bolimów	subst:pl:nom:m3	geograficzna	
 Bolimowy	Bolimów	subst:pl:voc:m3	geograficzna	
@@ -8487,7 +8487,7 @@ Bolkowie	Bolków	subst:sg:voc:m3	geograficzna
 Bolkowom	Bolków	subst:pl:dat:m3	geograficzna	
 Bolkowowi	Bolków	subst:sg:dat:m3	geograficzna	
 Bolkowów	Bolków	subst:pl:gen:m3	geograficzna	
-Bolkowu	Bolków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Bolkowu	Bolków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Bolkowy	Bolków	subst:pl:acc:m3	geograficzna	
 Bolkowy	Bolków	subst:pl:nom:m3	geograficzna	
 Bolkowy	Bolków	subst:pl:voc:m3	geograficzna	
@@ -8990,7 +8990,7 @@ Borowie	Borów	subst:sg:voc:m3	geograficzna
 Borowom	Borów	subst:pl:dat:m3	geograficzna	
 Borowowi	Borów	subst:sg:dat:m3	geograficzna	
 Borowów	Borów	subst:pl:gen:m3	geograficzna	
-Borowu	Borów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Borowu	Borów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Borowy	Borów	subst:pl:acc:m3	geograficzna	
 Borowy	Borów	subst:pl:nom:m3	geograficzna	
 Borowy	Borów	subst:pl:voc:m3	geograficzna	
@@ -9104,7 +9104,7 @@ Borzechowie	Borzechów	subst:sg:voc:m3	geograficzna
 Borzechowom	Borzechów	subst:pl:dat:m3	geograficzna	
 Borzechowowi	Borzechów	subst:sg:dat:m3	geograficzna	
 Borzechowów	Borzechów	subst:pl:gen:m3	geograficzna	
-Borzechowu	Borzechów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Borzechowu	Borzechów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Borzechowy	Borzechów	subst:pl:acc:m3	geograficzna	
 Borzechowy	Borzechów	subst:pl:nom:m3	geograficzna	
 Borzechowy	Borzechów	subst:pl:voc:m3	geograficzna	
@@ -9384,22 +9384,22 @@ Botswany	Botswana	subst:pl:acc:f	geograficzna
 Botswany	Botswana	subst:pl:nom:f	geograficzna	
 Botswany	Botswana	subst:pl:voc:f	geograficzna	
 Botswany	Botswana	subst:sg:gen:f	geograficzna	
-Bourbona	Bourbon	subst:sg:acc:m1	członek rodu	
-Bourbona	Bourbon	subst:sg:gen:m1	członek rodu	
-Bourbonach	Bourbon	subst:pl:loc:m1	członek rodu	
-Bourbonami	Bourbon	subst:pl:inst:m1	członek rodu	
-Bourbon	Bourbon	subst:sg:nom:m1	członek rodu	
-Bourbonem	Bourbon	subst:sg:inst:m1	członek rodu	
-Bourbonie	Bourbon	subst:sg:loc:m1	członek rodu	
-Bourbonie	Bourbon	subst:sg:voc:m1	członek rodu	
-Bourbonom	Bourbon	subst:pl:dat:m1	członek rodu	
-Bourbonowi	Bourbon	subst:sg:dat:m1	członek rodu	
-Bourbonowie	Bourbon	subst:pl:nom:m1	członek rodu	
-Bourbonowie	Bourbon	subst:pl:voc:m1	członek rodu	
-Bourbonów	Bourbon	subst:pl:acc:m1	członek rodu	
-Bourbonów	Bourbon	subst:pl:gen:m1	członek rodu	
-Bourbony	Bourbon	depr:pl:nom:m2	członek rodu	
-Bourbony	Bourbon	depr:pl:voc:m2	członek rodu	
+Bourbona	Bourbon	subst:sg:acc:m1	członek_rodu	
+Bourbona	Bourbon	subst:sg:gen:m1	członek_rodu	
+Bourbonach	Bourbon	subst:pl:loc:m1	członek_rodu	
+Bourbonami	Bourbon	subst:pl:inst:m1	członek_rodu	
+Bourbon	Bourbon	subst:sg:nom:m1	członek_rodu	
+Bourbonem	Bourbon	subst:sg:inst:m1	członek_rodu	
+Bourbonie	Bourbon	subst:sg:loc:m1	członek_rodu	
+Bourbonie	Bourbon	subst:sg:voc:m1	członek_rodu	
+Bourbonom	Bourbon	subst:pl:dat:m1	członek_rodu	
+Bourbonowi	Bourbon	subst:sg:dat:m1	członek_rodu	
+Bourbonowie	Bourbon	subst:pl:nom:m1	członek_rodu	
+Bourbonowie	Bourbon	subst:pl:voc:m1	członek_rodu	
+Bourbonów	Bourbon	subst:pl:acc:m1	członek_rodu	
+Bourbonów	Bourbon	subst:pl:gen:m1	członek_rodu	
+Bourbony	Bourbon	depr:pl:nom:m2	członek_rodu	
+Bourbony	Bourbon	depr:pl:voc:m2	członek_rodu	
 Bourdelle’a	Bourdelle	subst:sg:acc:m1	nazwisko	
 Bourdelle’a	Bourdelle	subst:sg:gen:m1	nazwisko	
 Bourdelle’ach	Bourdelle	subst:pl:loc:m1	nazwisko	
@@ -9806,20 +9806,20 @@ BP	BP:s5	subst:sg:nom:f	instytucja
 BP	BP:s5	subst:sg:nom:n2	instytucja	
 BP	BP:s5	subst:sg:voc:f	instytucja	
 BP	BP:s5	subst:sg:voc:n2	instytucja	
-BR-ach	BR	subst:pl:loc:m3	instytucja	człon n. wł.
-BR-ami	BR	subst:pl:inst:m3	instytucja	człon n. wł.
-BR	BR	subst:sg:acc:m3	instytucja	człon n. wł.
-BR	BR	subst:sg:nom:m3	instytucja	człon n. wł.
-BR-em	BR	subst:sg:inst:m3	instytucja	człon n. wł.
-BR-om	BR	subst:pl:dat:m3	instytucja	człon n. wł.
-BR-owi	BR	subst:sg:dat:m3	instytucja	człon n. wł.
-BR-ów	BR	subst:pl:gen:m3	instytucja	człon n. wł.
-BR-u	BR	subst:sg:gen:m3	instytucja	człon n. wł.
-BR-y	BR	subst:pl:acc:m3	instytucja	człon n. wł.
-BR-y	BR	subst:pl:nom:m3	instytucja	człon n. wł.
-BR-y	BR	subst:pl:voc:m3	instytucja	człon n. wł.
-BR-ze	BR	subst:sg:loc:m3	instytucja	człon n. wł.
-BR-ze	BR	subst:sg:voc:m3	instytucja	człon n. wł.
+BR-ach	BR	subst:pl:loc:m3	instytucja	człon_n._wł.
+BR-ami	BR	subst:pl:inst:m3	instytucja	człon_n._wł.
+BR	BR	subst:sg:acc:m3	instytucja	człon_n._wł.
+BR	BR	subst:sg:nom:m3	instytucja	człon_n._wł.
+BR-em	BR	subst:sg:inst:m3	instytucja	człon_n._wł.
+BR-om	BR	subst:pl:dat:m3	instytucja	człon_n._wł.
+BR-owi	BR	subst:sg:dat:m3	instytucja	człon_n._wł.
+BR-ów	BR	subst:pl:gen:m3	instytucja	człon_n._wł.
+BR-u	BR	subst:sg:gen:m3	instytucja	człon_n._wł.
+BR-y	BR	subst:pl:acc:m3	instytucja	człon_n._wł.
+BR-y	BR	subst:pl:nom:m3	instytucja	człon_n._wł.
+BR-y	BR	subst:pl:voc:m3	instytucja	człon_n._wł.
+BR-ze	BR	subst:sg:loc:m3	instytucja	człon_n._wł.
+BR-ze	BR	subst:sg:voc:m3	instytucja	człon_n._wł.
 Brabancja	Brabancja	subst:sg:nom:f	geograficzna	
 Brabancjach	Brabancja	subst:pl:loc:f	geograficzna	
 Brabancjami	Brabancja	subst:pl:inst:f	geograficzna	
@@ -10720,7 +10720,7 @@ Brochowie	Brochów	subst:sg:voc:m3	geograficzna
 Brochowom	Brochów	subst:pl:dat:m3	geograficzna	
 Brochowowi	Brochów	subst:sg:dat:m3	geograficzna	
 Brochowów	Brochów	subst:pl:gen:m3	geograficzna	
-Brochowu	Brochów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Brochowu	Brochów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Brochowy	Brochów	subst:pl:acc:m3	geograficzna	
 Brochowy	Brochów	subst:pl:nom:m3	geograficzna	
 Brochowy	Brochów	subst:pl:voc:m3	geograficzna	
@@ -11405,7 +11405,7 @@ Brwinowie	Brwinów	subst:sg:voc:m3	geograficzna
 Brwinowom	Brwinów	subst:pl:dat:m3	geograficzna	
 Brwinowowi	Brwinów	subst:sg:dat:m3	geograficzna	
 Brwinowów	Brwinów	subst:pl:gen:m3	geograficzna	
-Brwinowu	Brwinów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Brwinowu	Brwinów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Brwinowy	Brwinów	subst:pl:acc:m3	geograficzna	
 Brwinowy	Brwinów	subst:pl:nom:m3	geograficzna	
 Brwinowy	Brwinów	subst:pl:voc:m3	geograficzna	
@@ -11706,7 +11706,7 @@ Brzozowie	Brzozów	subst:sg:voc:m3	geograficzna
 Brzozowom	Brzozów	subst:pl:dat:m3	geograficzna	
 Brzozowowi	Brzozów	subst:sg:dat:m3	geograficzna	
 Brzozowów	Brzozów	subst:pl:gen:m3	geograficzna	
-Brzozowu	Brzozów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Brzozowu	Brzozów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Brzozowy	Brzozów	subst:pl:acc:m3	geograficzna	
 Brzozowy	Brzozów	subst:pl:nom:m3	geograficzna	
 Brzozowy	Brzozów	subst:pl:voc:m3	geograficzna	
@@ -12231,7 +12231,7 @@ Budzowie	Budzów	subst:sg:voc:m3	geograficzna
 Budzowom	Budzów	subst:pl:dat:m3	geograficzna	
 Budzowowi	Budzów	subst:sg:dat:m3	geograficzna	
 Budzowów	Budzów	subst:pl:gen:m3	geograficzna	
-Budzowu	Budzów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Budzowu	Budzów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Budzowy	Budzów	subst:pl:acc:m3	geograficzna	
 Budzowy	Budzów	subst:pl:nom:m3	geograficzna	
 Budzowy	Budzów	subst:pl:voc:m3	geograficzna	
@@ -12267,22 +12267,22 @@ Buffalo	Buffalo:s1	subst:sg:inst:n2	geograficzna
 Buffalo	Buffalo:s1	subst:sg:loc:n2	geograficzna	
 Buffalo	Buffalo:s1	subst:sg:nom:n2	geograficzna	
 Buffalo	Buffalo:s1	subst:sg:voc:n2	geograficzna	
-Buffalo	Buffalo:s2	depr:pl:nom:m2	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	depr:pl:voc:m2	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:pl:acc:m1	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:pl:dat:m1	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:pl:gen:m1	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:pl:inst:m1	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:pl:loc:m1	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:pl:nom:m1	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:pl:voc:m1	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:sg:acc:m1	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:sg:dat:m1	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:sg:gen:m1	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:sg:inst:m1	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:sg:loc:m1	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:sg:nom:m1	przydomek	człon n. wł.
-Buffalo	Buffalo:s2	subst:sg:voc:m1	przydomek	człon n. wł.
+Buffalo	Buffalo:s2	depr:pl:nom:m2	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	depr:pl:voc:m2	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:pl:acc:m1	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:pl:dat:m1	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:pl:gen:m1	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:pl:inst:m1	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:pl:loc:m1	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:pl:nom:m1	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:pl:voc:m1	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:sg:acc:m1	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:sg:dat:m1	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:sg:gen:m1	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:sg:inst:m1	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:sg:loc:m1	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:sg:nom:m1	przydomek	człon_n._wł.
+Buffalo	Buffalo:s2	subst:sg:voc:m1	przydomek	człon_n._wł.
 Buffona	Buffon	subst:sg:acc:m1	nazwisko	
 Buffona	Buffon	subst:sg:gen:m1	nazwisko	
 Buffonach	Buffon	subst:pl:loc:m1	nazwisko	
@@ -12825,22 +12825,22 @@ Burakowskim	Burakowski	subst:pl:dat:m1	nazwisko
 Burakowskim	Burakowski	subst:sg:inst:m1	nazwisko	
 Burakowskim	Burakowski	subst:sg:loc:m1	nazwisko	
 Burakowskimi	Burakowski	subst:pl:inst:m1	nazwisko	
-Burbona	Burbon	subst:sg:acc:m1	członek rodu	
-Burbona	Burbon	subst:sg:gen:m1	członek rodu	
-Burbonach	Burbon	subst:pl:loc:m1	członek rodu	
-Burbonami	Burbon	subst:pl:inst:m1	członek rodu	
-Burbon	Burbon	subst:sg:nom:m1	członek rodu	
-Burbonem	Burbon	subst:sg:inst:m1	członek rodu	
-Burbonie	Burbon	subst:sg:loc:m1	członek rodu	
-Burbonie	Burbon	subst:sg:voc:m1	członek rodu	
-Burbonom	Burbon	subst:pl:dat:m1	członek rodu	
-Burbonowi	Burbon	subst:sg:dat:m1	członek rodu	
-Burbonowie	Burbon	subst:pl:nom:m1	członek rodu	
-Burbonowie	Burbon	subst:pl:voc:m1	członek rodu	
-Burbonów	Burbon	subst:pl:acc:m1	członek rodu	
-Burbonów	Burbon	subst:pl:gen:m1	członek rodu	
-Burbony	Burbon	depr:pl:nom:m2	członek rodu	
-Burbony	Burbon	depr:pl:voc:m2	członek rodu	
+Burbona	Burbon	subst:sg:acc:m1	członek_rodu	
+Burbona	Burbon	subst:sg:gen:m1	członek_rodu	
+Burbonach	Burbon	subst:pl:loc:m1	członek_rodu	
+Burbonami	Burbon	subst:pl:inst:m1	członek_rodu	
+Burbon	Burbon	subst:sg:nom:m1	członek_rodu	
+Burbonem	Burbon	subst:sg:inst:m1	członek_rodu	
+Burbonie	Burbon	subst:sg:loc:m1	członek_rodu	
+Burbonie	Burbon	subst:sg:voc:m1	członek_rodu	
+Burbonom	Burbon	subst:pl:dat:m1	członek_rodu	
+Burbonowi	Burbon	subst:sg:dat:m1	członek_rodu	
+Burbonowie	Burbon	subst:pl:nom:m1	członek_rodu	
+Burbonowie	Burbon	subst:pl:voc:m1	członek_rodu	
+Burbonów	Burbon	subst:pl:acc:m1	członek_rodu	
+Burbonów	Burbon	subst:pl:gen:m1	członek_rodu	
+Burbony	Burbon	depr:pl:nom:m2	członek_rodu	
+Burbony	Burbon	depr:pl:voc:m2	członek_rodu	
 Burcharda	Burchard	subst:sg:acc:m1	imię	
 Burcharda	Burchard	subst:sg:gen:m1	imię	
 Burchardach	Burchard	subst:pl:loc:m1	imię	
@@ -13474,7 +13474,7 @@ Bytowie	Bytów	subst:sg:voc:m3	geograficzna
 Bytowom	Bytów	subst:pl:dat:m3	geograficzna	
 Bytowowi	Bytów	subst:sg:dat:m3	geograficzna	
 Bytowów	Bytów	subst:pl:gen:m3	geograficzna	
-Bytowu	Bytów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Bytowu	Bytów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Bytowy	Bytów	subst:pl:acc:m3	geograficzna	
 Bytowy	Bytów	subst:pl:nom:m3	geograficzna	
 Bytowy	Bytów	subst:pl:voc:m3	geograficzna	

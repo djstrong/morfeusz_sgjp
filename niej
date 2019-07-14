@@ -478,30 +478,30 @@ niejarzmiony	jarzmić	ppas:sg:nom.voc:m1.m2.m3:imperf:neg
 niejarzmionymi	jarzmić	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
 niejarzmionym	jarzmić	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
 niejarzmionym	jarzmić	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
-niejarząca	jarzyć:v1	pact:sg:nom.voc:f:imperf:neg		
-niejarzącą	jarzyć:v1	pact:sg:acc.inst:f:imperf:neg		
-niejarzącego	jarzyć:v1	pact:sg:acc:m1.m2:imperf:neg		
-niejarzącego	jarzyć:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
-niejarzące	jarzyć:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
-niejarzące	jarzyć:v1	pact:sg:nom.acc.voc:n1.n2:imperf:neg		
-niejarzącej	jarzyć:v1	pact:sg:gen.dat.loc:f:imperf:neg		
-niejarzącemu	jarzyć:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
-niejarzących	jarzyć:v1	pact:pl:acc:m1.p1:imperf:neg		
-niejarzących	jarzyć:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
-niejarzący	jarzyć:v1	pact:pl:nom.voc:m1.p1:imperf:neg		
-niejarzący	jarzyć:v1	pact:sg:acc:m3:imperf:neg		
-niejarzący	jarzyć:v1	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
-niejarzącymi	jarzyć:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
-niejarzącym	jarzyć:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
-niejarzącym	jarzyć:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
-niejarzenia	jarzyć:v1	ger:pl:nom.acc:n2:imperf:neg		
-niejarzenia	jarzyć:v1	ger:sg:gen:n2:imperf:neg		
-niejarzeniami	jarzyć:v1	ger:pl:inst:n2:imperf:neg		
-niejarzenie	jarzyć:v1	ger:sg:nom.acc:n2:imperf:neg		
-niejarzeniem	jarzyć:v1	ger:sg:inst:n2:imperf:neg		
-niejarzeniom	jarzyć:v1	ger:pl:dat.loc:n2:imperf:neg		
-niejarzeniu	jarzyć:v1	ger:sg:dat.loc:n2:imperf:neg		
-niejarzeń	jarzyć:v1	ger:pl:gen:n2:imperf:neg		
+niejarząca	jarzyć:v	pact:sg:nom.voc:f:imperf:neg		
+niejarzącą	jarzyć:v	pact:sg:acc.inst:f:imperf:neg		
+niejarzącego	jarzyć:v	pact:sg:acc:m1.m2:imperf:neg		
+niejarzącego	jarzyć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+niejarzące	jarzyć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+niejarzące	jarzyć:v	pact:sg:nom.acc.voc:n1.n2:imperf:neg		
+niejarzącej	jarzyć:v	pact:sg:gen.dat.loc:f:imperf:neg		
+niejarzącemu	jarzyć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+niejarzących	jarzyć:v	pact:pl:acc:m1.p1:imperf:neg		
+niejarzących	jarzyć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+niejarzący	jarzyć:v	pact:pl:nom.voc:m1.p1:imperf:neg		
+niejarzący	jarzyć:v	pact:sg:acc:m3:imperf:neg		
+niejarzący	jarzyć:v	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+niejarzącymi	jarzyć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+niejarzącym	jarzyć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+niejarzącym	jarzyć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+niejarzenia	jarzyć:v	ger:pl:nom.acc:n2:imperf:neg		
+niejarzenia	jarzyć:v	ger:sg:gen:n2:imperf:neg		
+niejarzeniami	jarzyć:v	ger:pl:inst:n2:imperf:neg		
+niejarzenie	jarzyć:v	ger:sg:nom.acc:n2:imperf:neg		
+niejarzeniem	jarzyć:v	ger:sg:inst:n2:imperf:neg		
+niejarzeniom	jarzyć:v	ger:pl:dat.loc:n2:imperf:neg		
+niejarzeniu	jarzyć:v	ger:sg:dat.loc:n2:imperf:neg		
+niejarzeń	jarzyć:v	ger:pl:gen:n2:imperf:neg		
 niejaskrawiąca	jaskrawić	pact:sg:nom.voc:f:imperf:neg		
 niejaskrawiącą	jaskrawić	pact:sg:acc.inst:f:imperf:neg		
 niejaskrawiącego	jaskrawić	pact:sg:acc:m1.m2:imperf:neg		
@@ -574,54 +574,54 @@ niejaśnieniem	jaśnić	ger:sg:inst:n2:imperf:neg
 niejaśnieniom	jaśnić	ger:pl:dat.loc:n2:imperf:neg		
 niejaśnieniu	jaśnić	ger:sg:dat.loc:n2:imperf:neg		
 niejaśnień	jaśnić	ger:pl:gen:n2:imperf:neg		
-niejaśniejąca	jaśnieć:v1	pact:sg:nom.voc:f:imperf:neg		
-niejaśniejącą	jaśnieć:v1	pact:sg:acc.inst:f:imperf:neg		
-niejaśniejącego	jaśnieć:v1	pact:sg:acc:m1.m2:imperf:neg		
-niejaśniejącego	jaśnieć:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
-niejaśniejące	jaśnieć:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
-niejaśniejące	jaśnieć:v1	pact:sg:nom.acc.voc:n1.n2:imperf:neg		
-niejaśniejącej	jaśnieć:v1	pact:sg:gen.dat.loc:f:imperf:neg		
-niejaśniejącemu	jaśnieć:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
-niejaśniejących	jaśnieć:v1	pact:pl:acc:m1.p1:imperf:neg		
-niejaśniejących	jaśnieć:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
-niejaśniejący	jaśnieć:v1	pact:pl:nom.voc:m1.p1:imperf:neg		
-niejaśniejący	jaśnieć:v1	pact:sg:acc:m3:imperf:neg		
-niejaśniejący	jaśnieć:v1	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
-niejaśniejącymi	jaśnieć:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
-niejaśniejącym	jaśnieć:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
-niejaśniejącym	jaśnieć:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
-niejaśnienia	jaśnieć:v1	ger:pl:nom.acc:n2:imperf:neg		
-niejaśnienia	jaśnieć:v1	ger:sg:gen:n2:imperf:neg		
-niejaśnieniami	jaśnieć:v1	ger:pl:inst:n2:imperf:neg		
-niejaśnienie	jaśnieć:v1	ger:sg:nom.acc:n2:imperf:neg		
-niejaśnieniem	jaśnieć:v1	ger:sg:inst:n2:imperf:neg		
-niejaśnieniom	jaśnieć:v1	ger:pl:dat.loc:n2:imperf:neg		
-niejaśnieniu	jaśnieć:v1	ger:sg:dat.loc:n2:imperf:neg		
-niejaśnień	jaśnieć:v1	ger:pl:gen:n2:imperf:neg		
-niejaśniejąca	jaśnieć:v2	pact:sg:nom.voc:f:imperf:neg		
-niejaśniejącą	jaśnieć:v2	pact:sg:acc.inst:f:imperf:neg		
-niejaśniejącego	jaśnieć:v2	pact:sg:acc:m1.m2:imperf:neg		
-niejaśniejącego	jaśnieć:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
-niejaśniejące	jaśnieć:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
-niejaśniejące	jaśnieć:v2	pact:sg:nom.acc.voc:n1.n2:imperf:neg		
-niejaśniejącej	jaśnieć:v2	pact:sg:gen.dat.loc:f:imperf:neg		
-niejaśniejącemu	jaśnieć:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
-niejaśniejących	jaśnieć:v2	pact:pl:acc:m1.p1:imperf:neg		
-niejaśniejących	jaśnieć:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
-niejaśniejący	jaśnieć:v2	pact:pl:nom.voc:m1.p1:imperf:neg		
-niejaśniejący	jaśnieć:v2	pact:sg:acc:m3:imperf:neg		
-niejaśniejący	jaśnieć:v2	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
-niejaśniejącymi	jaśnieć:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
-niejaśniejącym	jaśnieć:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
-niejaśniejącym	jaśnieć:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
-niejaśnienia	jaśnieć:v2	ger:pl:nom.acc:n2:imperf:neg		
-niejaśnienia	jaśnieć:v2	ger:sg:gen:n2:imperf:neg		
-niejaśnieniami	jaśnieć:v2	ger:pl:inst:n2:imperf:neg		
-niejaśnienie	jaśnieć:v2	ger:sg:nom.acc:n2:imperf:neg		
-niejaśnieniem	jaśnieć:v2	ger:sg:inst:n2:imperf:neg		
-niejaśnieniom	jaśnieć:v2	ger:pl:dat.loc:n2:imperf:neg		
-niejaśnieniu	jaśnieć:v2	ger:sg:dat.loc:n2:imperf:neg		
-niejaśnień	jaśnieć:v2	ger:pl:gen:n2:imperf:neg		
+niejaśniejąca	jaśnieć:v	pact:sg:nom.voc:f:imperf:neg		
+niejaśniejącą	jaśnieć:v	pact:sg:acc.inst:f:imperf:neg		
+niejaśniejącego	jaśnieć:v	pact:sg:acc:m1.m2:imperf:neg		
+niejaśniejącego	jaśnieć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+niejaśniejące	jaśnieć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+niejaśniejące	jaśnieć:v	pact:sg:nom.acc.voc:n1.n2:imperf:neg		
+niejaśniejącej	jaśnieć:v	pact:sg:gen.dat.loc:f:imperf:neg		
+niejaśniejącemu	jaśnieć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+niejaśniejących	jaśnieć:v	pact:pl:acc:m1.p1:imperf:neg		
+niejaśniejących	jaśnieć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+niejaśniejący	jaśnieć:v	pact:pl:nom.voc:m1.p1:imperf:neg		
+niejaśniejący	jaśnieć:v	pact:sg:acc:m3:imperf:neg		
+niejaśniejący	jaśnieć:v	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+niejaśniejącymi	jaśnieć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+niejaśniejącym	jaśnieć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+niejaśniejącym	jaśnieć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+niejaśnienia	jaśnieć:v	ger:pl:nom.acc:n2:imperf:neg		
+niejaśnienia	jaśnieć:v	ger:sg:gen:n2:imperf:neg		
+niejaśnieniami	jaśnieć:v	ger:pl:inst:n2:imperf:neg		
+niejaśnienie	jaśnieć:v	ger:sg:nom.acc:n2:imperf:neg		
+niejaśnieniem	jaśnieć:v	ger:sg:inst:n2:imperf:neg		
+niejaśnieniom	jaśnieć:v	ger:pl:dat.loc:n2:imperf:neg		
+niejaśnieniu	jaśnieć:v	ger:sg:dat.loc:n2:imperf:neg		
+niejaśnień	jaśnieć:v	ger:pl:gen:n2:imperf:neg		
+niejaśniejąca	jaśnieć:v	pact:sg:nom.voc:f:imperf:neg		
+niejaśniejącą	jaśnieć:v	pact:sg:acc.inst:f:imperf:neg		
+niejaśniejącego	jaśnieć:v	pact:sg:acc:m1.m2:imperf:neg		
+niejaśniejącego	jaśnieć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+niejaśniejące	jaśnieć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+niejaśniejące	jaśnieć:v	pact:sg:nom.acc.voc:n1.n2:imperf:neg		
+niejaśniejącej	jaśnieć:v	pact:sg:gen.dat.loc:f:imperf:neg		
+niejaśniejącemu	jaśnieć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+niejaśniejących	jaśnieć:v	pact:pl:acc:m1.p1:imperf:neg		
+niejaśniejących	jaśnieć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+niejaśniejący	jaśnieć:v	pact:pl:nom.voc:m1.p1:imperf:neg		
+niejaśniejący	jaśnieć:v	pact:sg:acc:m3:imperf:neg		
+niejaśniejący	jaśnieć:v	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+niejaśniejącymi	jaśnieć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+niejaśniejącym	jaśnieć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+niejaśniejącym	jaśnieć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+niejaśnienia	jaśnieć:v	ger:pl:nom.acc:n2:imperf:neg		
+niejaśnienia	jaśnieć:v	ger:sg:gen:n2:imperf:neg		
+niejaśnieniami	jaśnieć:v	ger:pl:inst:n2:imperf:neg		
+niejaśnienie	jaśnieć:v	ger:sg:nom.acc:n2:imperf:neg		
+niejaśnieniem	jaśnieć:v	ger:sg:inst:n2:imperf:neg		
+niejaśnieniom	jaśnieć:v	ger:pl:dat.loc:n2:imperf:neg		
+niejaśnieniu	jaśnieć:v	ger:sg:dat.loc:n2:imperf:neg		
+niejaśnień	jaśnieć:v	ger:pl:gen:n2:imperf:neg		
 niejawiąca	jawić	pact:sg:nom.voc:f:imperf.perf:neg		
 niejawiącą	jawić	pact:sg:acc.inst:f:imperf.perf:neg		
 niejawiącego	jawić	pact:sg:acc:m1.m2:imperf.perf:neg		
@@ -862,30 +862,30 @@ niejebnięty	jebnąć	ppas:sg:nom.voc:m1.m2.m3:perf:neg
 niejebniętymi	jebnąć	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
 niejebniętym	jebnąć	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
 niejebniętym	jebnąć	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
-niejadąca	jechać:v1	pact:sg:nom.voc:f:imperf:neg		
-niejadącą	jechać:v1	pact:sg:acc.inst:f:imperf:neg		
-niejadącego	jechać:v1	pact:sg:acc:m1.m2:imperf:neg		
-niejadącego	jechać:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
-niejadące	jechać:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
-niejadące	jechać:v1	pact:sg:nom.acc.voc:n1.n2:imperf:neg		
-niejadącej	jechać:v1	pact:sg:gen.dat.loc:f:imperf:neg		
-niejadącemu	jechać:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
-niejadących	jechać:v1	pact:pl:acc:m1.p1:imperf:neg		
-niejadących	jechać:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
-niejadący	jechać:v1	pact:pl:nom.voc:m1.p1:imperf:neg		
-niejadący	jechać:v1	pact:sg:acc:m3:imperf:neg		
-niejadący	jechać:v1	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
-niejadącymi	jechać:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
-niejadącym	jechać:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
-niejadącym	jechać:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
-niejechania	jechać:v1	ger:pl:nom.acc:n2:imperf:neg		
-niejechania	jechać:v1	ger:sg:gen:n2:imperf:neg		
-niejechaniami	jechać:v1	ger:pl:inst:n2:imperf:neg		
-niejechanie	jechać:v1	ger:sg:nom.acc:n2:imperf:neg		
-niejechaniem	jechać:v1	ger:sg:inst:n2:imperf:neg		
-niejechaniom	jechać:v1	ger:pl:dat.loc:n2:imperf:neg		
-niejechaniu	jechać:v1	ger:sg:dat.loc:n2:imperf:neg		
-niejechań	jechać:v1	ger:pl:gen:n2:imperf:neg		
+niejadąca	jechać:v	pact:sg:nom.voc:f:imperf:neg		
+niejadącą	jechać:v	pact:sg:acc.inst:f:imperf:neg		
+niejadącego	jechać:v	pact:sg:acc:m1.m2:imperf:neg		
+niejadącego	jechać:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+niejadące	jechać:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+niejadące	jechać:v	pact:sg:nom.acc.voc:n1.n2:imperf:neg		
+niejadącej	jechać:v	pact:sg:gen.dat.loc:f:imperf:neg		
+niejadącemu	jechać:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+niejadących	jechać:v	pact:pl:acc:m1.p1:imperf:neg		
+niejadących	jechać:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+niejadący	jechać:v	pact:pl:nom.voc:m1.p1:imperf:neg		
+niejadący	jechać:v	pact:sg:acc:m3:imperf:neg		
+niejadący	jechać:v	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+niejadącymi	jechać:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+niejadącym	jechać:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+niejadącym	jechać:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+niejechania	jechać:v	ger:pl:nom.acc:n2:imperf:neg		
+niejechania	jechać:v	ger:sg:gen:n2:imperf:neg		
+niejechaniami	jechać:v	ger:pl:inst:n2:imperf:neg		
+niejechanie	jechać:v	ger:sg:nom.acc:n2:imperf:neg		
+niejechaniem	jechać:v	ger:sg:inst:n2:imperf:neg		
+niejechaniom	jechać:v	ger:pl:dat.loc:n2:imperf:neg		
+niejechaniu	jechać:v	ger:sg:dat.loc:n2:imperf:neg		
+niejechań	jechać:v	ger:pl:gen:n2:imperf:neg		
 niejednająca	jednać	pact:sg:nom.voc:f:imperf:neg		
 niejednającą	jednać	pact:sg:acc.inst:f:imperf:neg		
 niejednającego	jednać	pact:sg:acc:m1.m2:imperf:neg		
@@ -7868,34 +7868,34 @@ niejasnoszarym	niejasnoszary	adj:sg:loc:m1.m2.m3.n1.n2:pos
 niejasnoszary	niejasnoszary	adj:sg:acc:m3:pos		
 niejasnoszary	niejasnoszary	adj:sg:nom.voc:m1.m2.m3:pos		
 niejasnoszarzy	niejasnoszary	adj:pl:nom.voc:m1.p1:pos		
-niejasnościach	niejasność:s1	subst:pl:loc:f	pospolita	
-niejasnościami	niejasność:s1	subst:pl:inst:f	pospolita	
-niejasnością	niejasność:s1	subst:sg:inst:f	pospolita	
-niejasności	niejasność:s1	subst:pl:acc:f	pospolita	
-niejasności	niejasność:s1	subst:pl:gen:f	pospolita	
-niejasności	niejasność:s1	subst:pl:nom:f	pospolita	
-niejasności	niejasność:s1	subst:pl:voc:f	pospolita	
-niejasności	niejasność:s1	subst:sg:dat:f	pospolita	
-niejasności	niejasność:s1	subst:sg:gen:f	pospolita	
-niejasności	niejasność:s1	subst:sg:loc:f	pospolita	
-niejasności	niejasność:s1	subst:sg:voc:f	pospolita	
-niejasnościom	niejasność:s1	subst:pl:dat:f	pospolita	
-niejasność	niejasność:s1	subst:sg:acc:f	pospolita	
-niejasność	niejasność:s1	subst:sg:nom:f	pospolita	
-niejasnościach	niejasność:s2	subst:pl:loc:f		
-niejasnościami	niejasność:s2	subst:pl:inst:f		
-niejasnością	niejasność:s2	subst:sg:inst:f		
-niejasności	niejasność:s2	subst:pl:acc:f		
-niejasności	niejasność:s2	subst:pl:gen:f		
-niejasności	niejasność:s2	subst:pl:nom:f		
-niejasności	niejasność:s2	subst:pl:voc:f		
-niejasności	niejasność:s2	subst:sg:dat:f		
-niejasności	niejasność:s2	subst:sg:gen:f		
-niejasności	niejasność:s2	subst:sg:loc:f		
-niejasności	niejasność:s2	subst:sg:voc:f		
-niejasnościom	niejasność:s2	subst:pl:dat:f		
-niejasność	niejasność:s2	subst:sg:acc:f		
-niejasność	niejasność:s2	subst:sg:nom:f		
+niejasnościach	niejasność:s	subst:pl:loc:f	pospolita	
+niejasnościami	niejasność:s	subst:pl:inst:f	pospolita	
+niejasnością	niejasność:s	subst:sg:inst:f	pospolita	
+niejasności	niejasność:s	subst:pl:acc:f	pospolita	
+niejasności	niejasność:s	subst:pl:gen:f	pospolita	
+niejasności	niejasność:s	subst:pl:nom:f	pospolita	
+niejasności	niejasność:s	subst:pl:voc:f	pospolita	
+niejasności	niejasność:s	subst:sg:dat:f	pospolita	
+niejasności	niejasność:s	subst:sg:gen:f	pospolita	
+niejasności	niejasność:s	subst:sg:loc:f	pospolita	
+niejasności	niejasność:s	subst:sg:voc:f	pospolita	
+niejasnościom	niejasność:s	subst:pl:dat:f	pospolita	
+niejasność	niejasność:s	subst:sg:acc:f	pospolita	
+niejasność	niejasność:s	subst:sg:nom:f	pospolita	
+niejasnościach	niejasność:s	subst:pl:loc:f		
+niejasnościami	niejasność:s	subst:pl:inst:f		
+niejasnością	niejasność:s	subst:sg:inst:f		
+niejasności	niejasność:s	subst:pl:acc:f		
+niejasności	niejasność:s	subst:pl:gen:f		
+niejasności	niejasność:s	subst:pl:nom:f		
+niejasności	niejasność:s	subst:pl:voc:f		
+niejasności	niejasność:s	subst:sg:dat:f		
+niejasności	niejasność:s	subst:sg:gen:f		
+niejasności	niejasność:s	subst:sg:loc:f		
+niejasności	niejasność:s	subst:sg:voc:f		
+niejasnościom	niejasność:s	subst:pl:dat:f		
+niejasność	niejasność:s	subst:sg:acc:f		
+niejasność	niejasność:s	subst:sg:nom:f		
 niejasnotowatościach	niejasnotowatość	subst:pl:loc:f		
 niejasnotowatościami	niejasnotowatość	subst:pl:inst:f		
 niejasnotowatością	niejasnotowatość	subst:sg:inst:f		
@@ -9221,34 +9221,34 @@ niejawnopłciowym	niejawnopłciowy	adj:sg:inst:m1.m2.m3.n1.n2:pos
 niejawnopłciowym	niejawnopłciowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 niejawnopłciowy	niejawnopłciowy	adj:sg:acc:m3:pos		
 niejawnopłciowy	niejawnopłciowy	adj:sg:nom.voc:m1.m2.m3:pos		
-niejawnościach	niejawność:s1	subst:pl:loc:f	pospolita	
-niejawnościami	niejawność:s1	subst:pl:inst:f	pospolita	
-niejawnością	niejawność:s1	subst:sg:inst:f	pospolita	
-niejawności	niejawność:s1	subst:pl:acc:f	pospolita	
-niejawności	niejawność:s1	subst:pl:gen:f	pospolita	
-niejawności	niejawność:s1	subst:pl:nom:f	pospolita	
-niejawności	niejawność:s1	subst:pl:voc:f	pospolita	
-niejawności	niejawność:s1	subst:sg:dat:f	pospolita	
-niejawności	niejawność:s1	subst:sg:gen:f	pospolita	
-niejawności	niejawność:s1	subst:sg:loc:f	pospolita	
-niejawności	niejawność:s1	subst:sg:voc:f	pospolita	
-niejawnościom	niejawność:s1	subst:pl:dat:f	pospolita	
-niejawność	niejawność:s1	subst:sg:acc:f	pospolita	
-niejawność	niejawność:s1	subst:sg:nom:f	pospolita	
-niejawnościach	niejawność:s2	subst:pl:loc:f		
-niejawnościami	niejawność:s2	subst:pl:inst:f		
-niejawnością	niejawność:s2	subst:sg:inst:f		
-niejawności	niejawność:s2	subst:pl:acc:f		
-niejawności	niejawność:s2	subst:pl:gen:f		
-niejawności	niejawność:s2	subst:pl:nom:f		
-niejawności	niejawność:s2	subst:pl:voc:f		
-niejawności	niejawność:s2	subst:sg:dat:f		
-niejawności	niejawność:s2	subst:sg:gen:f		
-niejawności	niejawność:s2	subst:sg:loc:f		
-niejawności	niejawność:s2	subst:sg:voc:f		
-niejawnościom	niejawność:s2	subst:pl:dat:f		
-niejawność	niejawność:s2	subst:sg:acc:f		
-niejawność	niejawność:s2	subst:sg:nom:f		
+niejawnościach	niejawność:s	subst:pl:loc:f	pospolita	
+niejawnościami	niejawność:s	subst:pl:inst:f	pospolita	
+niejawnością	niejawność:s	subst:sg:inst:f	pospolita	
+niejawności	niejawność:s	subst:pl:acc:f	pospolita	
+niejawności	niejawność:s	subst:pl:gen:f	pospolita	
+niejawności	niejawność:s	subst:pl:nom:f	pospolita	
+niejawności	niejawność:s	subst:pl:voc:f	pospolita	
+niejawności	niejawność:s	subst:sg:dat:f	pospolita	
+niejawności	niejawność:s	subst:sg:gen:f	pospolita	
+niejawności	niejawność:s	subst:sg:loc:f	pospolita	
+niejawności	niejawność:s	subst:sg:voc:f	pospolita	
+niejawnościom	niejawność:s	subst:pl:dat:f	pospolita	
+niejawność	niejawność:s	subst:sg:acc:f	pospolita	
+niejawność	niejawność:s	subst:sg:nom:f	pospolita	
+niejawnościach	niejawność:s	subst:pl:loc:f		
+niejawnościami	niejawność:s	subst:pl:inst:f		
+niejawnością	niejawność:s	subst:sg:inst:f		
+niejawności	niejawność:s	subst:pl:acc:f		
+niejawności	niejawność:s	subst:pl:gen:f		
+niejawności	niejawność:s	subst:pl:nom:f		
+niejawności	niejawność:s	subst:pl:voc:f		
+niejawności	niejawność:s	subst:sg:dat:f		
+niejawności	niejawność:s	subst:sg:gen:f		
+niejawności	niejawność:s	subst:sg:loc:f		
+niejawności	niejawność:s	subst:sg:voc:f		
+niejawnościom	niejawność:s	subst:pl:dat:f		
+niejawność	niejawność:s	subst:sg:acc:f		
+niejawność	niejawność:s	subst:sg:nom:f		
 niejawna	niejawny	adj:sg:nom.voc:f:pos		
 niejawną	niejawny	adj:sg:acc:f:pos		
 niejawną	niejawny	adj:sg:inst:f:pos		
@@ -13543,34 +13543,34 @@ niejednomotorowym	niejednomotorowy	adj:sg:loc:m1.m2.m3.n1.n2:pos
 niejednomotorowy	niejednomotorowy	adj:sg:acc:m3:pos		
 niejednomotorowy	niejednomotorowy	adj:sg:nom.voc:m1.m2.m3:pos		
 niejednomyślnie	niejednomyślnie	adv:pos		
-niejednomyślnościach	niejednomyślność:s1	subst:pl:loc:f	pospolita	
-niejednomyślnościami	niejednomyślność:s1	subst:pl:inst:f	pospolita	
-niejednomyślnością	niejednomyślność:s1	subst:sg:inst:f	pospolita	
-niejednomyślności	niejednomyślność:s1	subst:pl:acc:f	pospolita	
-niejednomyślności	niejednomyślność:s1	subst:pl:gen:f	pospolita	
-niejednomyślności	niejednomyślność:s1	subst:pl:nom:f	pospolita	
-niejednomyślności	niejednomyślność:s1	subst:pl:voc:f	pospolita	
-niejednomyślności	niejednomyślność:s1	subst:sg:dat:f	pospolita	
-niejednomyślności	niejednomyślność:s1	subst:sg:gen:f	pospolita	
-niejednomyślności	niejednomyślność:s1	subst:sg:loc:f	pospolita	
-niejednomyślności	niejednomyślność:s1	subst:sg:voc:f	pospolita	
-niejednomyślnościom	niejednomyślność:s1	subst:pl:dat:f	pospolita	
-niejednomyślność	niejednomyślność:s1	subst:sg:acc:f	pospolita	
-niejednomyślność	niejednomyślność:s1	subst:sg:nom:f	pospolita	
-niejednomyślnościach	niejednomyślność:s2	subst:pl:loc:f		
-niejednomyślnościami	niejednomyślność:s2	subst:pl:inst:f		
-niejednomyślnością	niejednomyślność:s2	subst:sg:inst:f		
-niejednomyślności	niejednomyślność:s2	subst:pl:acc:f		
-niejednomyślności	niejednomyślność:s2	subst:pl:gen:f		
-niejednomyślności	niejednomyślność:s2	subst:pl:nom:f		
-niejednomyślności	niejednomyślność:s2	subst:pl:voc:f		
-niejednomyślności	niejednomyślność:s2	subst:sg:dat:f		
-niejednomyślności	niejednomyślność:s2	subst:sg:gen:f		
-niejednomyślności	niejednomyślność:s2	subst:sg:loc:f		
-niejednomyślności	niejednomyślność:s2	subst:sg:voc:f		
-niejednomyślnościom	niejednomyślność:s2	subst:pl:dat:f		
-niejednomyślność	niejednomyślność:s2	subst:sg:acc:f		
-niejednomyślność	niejednomyślność:s2	subst:sg:nom:f		
+niejednomyślnościach	niejednomyślność:s	subst:pl:loc:f	pospolita	
+niejednomyślnościami	niejednomyślność:s	subst:pl:inst:f	pospolita	
+niejednomyślnością	niejednomyślność:s	subst:sg:inst:f	pospolita	
+niejednomyślności	niejednomyślność:s	subst:pl:acc:f	pospolita	
+niejednomyślności	niejednomyślność:s	subst:pl:gen:f	pospolita	
+niejednomyślności	niejednomyślność:s	subst:pl:nom:f	pospolita	
+niejednomyślności	niejednomyślność:s	subst:pl:voc:f	pospolita	
+niejednomyślności	niejednomyślność:s	subst:sg:dat:f	pospolita	
+niejednomyślności	niejednomyślność:s	subst:sg:gen:f	pospolita	
+niejednomyślności	niejednomyślność:s	subst:sg:loc:f	pospolita	
+niejednomyślności	niejednomyślność:s	subst:sg:voc:f	pospolita	
+niejednomyślnościom	niejednomyślność:s	subst:pl:dat:f	pospolita	
+niejednomyślność	niejednomyślność:s	subst:sg:acc:f	pospolita	
+niejednomyślność	niejednomyślność:s	subst:sg:nom:f	pospolita	
+niejednomyślnościach	niejednomyślność:s	subst:pl:loc:f		
+niejednomyślnościami	niejednomyślność:s	subst:pl:inst:f		
+niejednomyślnością	niejednomyślność:s	subst:sg:inst:f		
+niejednomyślności	niejednomyślność:s	subst:pl:acc:f		
+niejednomyślności	niejednomyślność:s	subst:pl:gen:f		
+niejednomyślności	niejednomyślność:s	subst:pl:nom:f		
+niejednomyślności	niejednomyślność:s	subst:pl:voc:f		
+niejednomyślności	niejednomyślność:s	subst:sg:dat:f		
+niejednomyślności	niejednomyślność:s	subst:sg:gen:f		
+niejednomyślności	niejednomyślność:s	subst:sg:loc:f		
+niejednomyślności	niejednomyślność:s	subst:sg:voc:f		
+niejednomyślnościom	niejednomyślność:s	subst:pl:dat:f		
+niejednomyślność	niejednomyślność:s	subst:sg:acc:f		
+niejednomyślność	niejednomyślność:s	subst:sg:nom:f		
 niejednomyślna	niejednomyślny	adj:sg:nom.voc:f:pos		
 niejednomyślną	niejednomyślny	adj:sg:acc:f:pos		
 niejednomyślną	niejednomyślny	adj:sg:inst:f:pos		
@@ -15636,34 +15636,34 @@ niejednospadowym	niejednospadowy	adj:sg:loc:m1.m2.m3.n1.n2:pos
 niejednospadowy	niejednospadowy	adj:sg:acc:m3:pos		
 niejednospadowy	niejednospadowy	adj:sg:nom.voc:m1.m2.m3:pos		
 niejednostajnie	niejednostajnie	adv:pos		
-niejednostajnościach	niejednostajność:s1	subst:pl:loc:f	pospolita	
-niejednostajnościami	niejednostajność:s1	subst:pl:inst:f	pospolita	
-niejednostajnością	niejednostajność:s1	subst:sg:inst:f	pospolita	
-niejednostajności	niejednostajność:s1	subst:pl:acc:f	pospolita	
-niejednostajności	niejednostajność:s1	subst:pl:gen:f	pospolita	
-niejednostajności	niejednostajność:s1	subst:pl:nom:f	pospolita	
-niejednostajności	niejednostajność:s1	subst:pl:voc:f	pospolita	
-niejednostajności	niejednostajność:s1	subst:sg:dat:f	pospolita	
-niejednostajności	niejednostajność:s1	subst:sg:gen:f	pospolita	
-niejednostajności	niejednostajność:s1	subst:sg:loc:f	pospolita	
-niejednostajności	niejednostajność:s1	subst:sg:voc:f	pospolita	
-niejednostajnościom	niejednostajność:s1	subst:pl:dat:f	pospolita	
-niejednostajność	niejednostajność:s1	subst:sg:acc:f	pospolita	
-niejednostajność	niejednostajność:s1	subst:sg:nom:f	pospolita	
-niejednostajnościach	niejednostajność:s2	subst:pl:loc:f		
-niejednostajnościami	niejednostajność:s2	subst:pl:inst:f		
-niejednostajnością	niejednostajność:s2	subst:sg:inst:f		
-niejednostajności	niejednostajność:s2	subst:pl:acc:f		
-niejednostajności	niejednostajność:s2	subst:pl:gen:f		
-niejednostajności	niejednostajność:s2	subst:pl:nom:f		
-niejednostajności	niejednostajność:s2	subst:pl:voc:f		
-niejednostajności	niejednostajność:s2	subst:sg:dat:f		
-niejednostajności	niejednostajność:s2	subst:sg:gen:f		
-niejednostajności	niejednostajność:s2	subst:sg:loc:f		
-niejednostajności	niejednostajność:s2	subst:sg:voc:f		
-niejednostajnościom	niejednostajność:s2	subst:pl:dat:f		
-niejednostajność	niejednostajność:s2	subst:sg:acc:f		
-niejednostajność	niejednostajność:s2	subst:sg:nom:f		
+niejednostajnościach	niejednostajność:s	subst:pl:loc:f	pospolita	
+niejednostajnościami	niejednostajność:s	subst:pl:inst:f	pospolita	
+niejednostajnością	niejednostajność:s	subst:sg:inst:f	pospolita	
+niejednostajności	niejednostajność:s	subst:pl:acc:f	pospolita	
+niejednostajności	niejednostajność:s	subst:pl:gen:f	pospolita	
+niejednostajności	niejednostajność:s	subst:pl:nom:f	pospolita	
+niejednostajności	niejednostajność:s	subst:pl:voc:f	pospolita	
+niejednostajności	niejednostajność:s	subst:sg:dat:f	pospolita	
+niejednostajności	niejednostajność:s	subst:sg:gen:f	pospolita	
+niejednostajności	niejednostajność:s	subst:sg:loc:f	pospolita	
+niejednostajności	niejednostajność:s	subst:sg:voc:f	pospolita	
+niejednostajnościom	niejednostajność:s	subst:pl:dat:f	pospolita	
+niejednostajność	niejednostajność:s	subst:sg:acc:f	pospolita	
+niejednostajność	niejednostajność:s	subst:sg:nom:f	pospolita	
+niejednostajnościach	niejednostajność:s	subst:pl:loc:f		
+niejednostajnościami	niejednostajność:s	subst:pl:inst:f		
+niejednostajnością	niejednostajność:s	subst:sg:inst:f		
+niejednostajności	niejednostajność:s	subst:pl:acc:f		
+niejednostajności	niejednostajność:s	subst:pl:gen:f		
+niejednostajności	niejednostajność:s	subst:pl:nom:f		
+niejednostajności	niejednostajność:s	subst:pl:voc:f		
+niejednostajności	niejednostajność:s	subst:sg:dat:f		
+niejednostajności	niejednostajność:s	subst:sg:gen:f		
+niejednostajności	niejednostajność:s	subst:sg:loc:f		
+niejednostajności	niejednostajność:s	subst:sg:voc:f		
+niejednostajnościom	niejednostajność:s	subst:pl:dat:f		
+niejednostajność	niejednostajność:s	subst:sg:acc:f		
+niejednostajność	niejednostajność:s	subst:sg:nom:f		
 niejednostajna	niejednostajny	adj:sg:nom.voc:f:pos		
 niejednostajną	niejednostajny	adj:sg:acc:f:pos		
 niejednostajną	niejednostajny	adj:sg:inst:f:pos		
@@ -17524,34 +17524,34 @@ niejednozłotowym	niejednozłotowy	adj:sg:loc:m1.m2.m3.n1.n2:pos
 niejednozłotowy	niejednozłotowy	adj:sg:acc:m3:pos		
 niejednozłotowy	niejednozłotowy	adj:sg:nom.voc:m1.m2.m3:pos		
 niejednoznacznie	niejednoznacznie	adv:pos		
-niejednoznacznościach	niejednoznaczność:s1	subst:pl:loc:f	pospolita	
-niejednoznacznościami	niejednoznaczność:s1	subst:pl:inst:f	pospolita	
-niejednoznacznością	niejednoznaczność:s1	subst:sg:inst:f	pospolita	
-niejednoznaczności	niejednoznaczność:s1	subst:pl:acc:f	pospolita	
-niejednoznaczności	niejednoznaczność:s1	subst:pl:gen:f	pospolita	
-niejednoznaczności	niejednoznaczność:s1	subst:pl:nom:f	pospolita	
-niejednoznaczności	niejednoznaczność:s1	subst:pl:voc:f	pospolita	
-niejednoznaczności	niejednoznaczność:s1	subst:sg:dat:f	pospolita	
-niejednoznaczności	niejednoznaczność:s1	subst:sg:gen:f	pospolita	
-niejednoznaczności	niejednoznaczność:s1	subst:sg:loc:f	pospolita	
-niejednoznaczności	niejednoznaczność:s1	subst:sg:voc:f	pospolita	
-niejednoznacznościom	niejednoznaczność:s1	subst:pl:dat:f	pospolita	
-niejednoznaczność	niejednoznaczność:s1	subst:sg:acc:f	pospolita	
-niejednoznaczność	niejednoznaczność:s1	subst:sg:nom:f	pospolita	
-niejednoznacznościach	niejednoznaczność:s2	subst:pl:loc:f		
-niejednoznacznościami	niejednoznaczność:s2	subst:pl:inst:f		
-niejednoznacznością	niejednoznaczność:s2	subst:sg:inst:f		
-niejednoznaczności	niejednoznaczność:s2	subst:pl:acc:f		
-niejednoznaczności	niejednoznaczność:s2	subst:pl:gen:f		
-niejednoznaczności	niejednoznaczność:s2	subst:pl:nom:f		
-niejednoznaczności	niejednoznaczność:s2	subst:pl:voc:f		
-niejednoznaczności	niejednoznaczność:s2	subst:sg:dat:f		
-niejednoznaczności	niejednoznaczność:s2	subst:sg:gen:f		
-niejednoznaczności	niejednoznaczność:s2	subst:sg:loc:f		
-niejednoznaczności	niejednoznaczność:s2	subst:sg:voc:f		
-niejednoznacznościom	niejednoznaczność:s2	subst:pl:dat:f		
-niejednoznaczność	niejednoznaczność:s2	subst:sg:acc:f		
-niejednoznaczność	niejednoznaczność:s2	subst:sg:nom:f		
+niejednoznacznościach	niejednoznaczność:s	subst:pl:loc:f	pospolita	
+niejednoznacznościami	niejednoznaczność:s	subst:pl:inst:f	pospolita	
+niejednoznacznością	niejednoznaczność:s	subst:sg:inst:f	pospolita	
+niejednoznaczności	niejednoznaczność:s	subst:pl:acc:f	pospolita	
+niejednoznaczności	niejednoznaczność:s	subst:pl:gen:f	pospolita	
+niejednoznaczności	niejednoznaczność:s	subst:pl:nom:f	pospolita	
+niejednoznaczności	niejednoznaczność:s	subst:pl:voc:f	pospolita	
+niejednoznaczności	niejednoznaczność:s	subst:sg:dat:f	pospolita	
+niejednoznaczności	niejednoznaczność:s	subst:sg:gen:f	pospolita	
+niejednoznaczności	niejednoznaczność:s	subst:sg:loc:f	pospolita	
+niejednoznaczności	niejednoznaczność:s	subst:sg:voc:f	pospolita	
+niejednoznacznościom	niejednoznaczność:s	subst:pl:dat:f	pospolita	
+niejednoznaczność	niejednoznaczność:s	subst:sg:acc:f	pospolita	
+niejednoznaczność	niejednoznaczność:s	subst:sg:nom:f	pospolita	
+niejednoznacznościach	niejednoznaczność:s	subst:pl:loc:f		
+niejednoznacznościami	niejednoznaczność:s	subst:pl:inst:f		
+niejednoznacznością	niejednoznaczność:s	subst:sg:inst:f		
+niejednoznaczności	niejednoznaczność:s	subst:pl:acc:f		
+niejednoznaczności	niejednoznaczność:s	subst:pl:gen:f		
+niejednoznaczności	niejednoznaczność:s	subst:pl:nom:f		
+niejednoznaczności	niejednoznaczność:s	subst:pl:voc:f		
+niejednoznaczności	niejednoznaczność:s	subst:sg:dat:f		
+niejednoznaczności	niejednoznaczność:s	subst:sg:gen:f		
+niejednoznaczności	niejednoznaczność:s	subst:sg:loc:f		
+niejednoznaczności	niejednoznaczność:s	subst:sg:voc:f		
+niejednoznacznościom	niejednoznaczność:s	subst:pl:dat:f		
+niejednoznaczność	niejednoznaczność:s	subst:sg:acc:f		
+niejednoznaczność	niejednoznaczność:s	subst:sg:nom:f		
 niejednoznaczna	niejednoznaczny	adj:sg:nom.voc:f:pos		
 niejednoznaczną	niejednoznaczny	adj:sg:acc:f:pos		
 niejednoznaczną	niejednoznaczny	adj:sg:inst:f:pos		

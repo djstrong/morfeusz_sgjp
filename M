@@ -260,7 +260,7 @@ Machowie	Machów	subst:sg:voc:m3	geograficzna
 Machowom	Machów	subst:pl:dat:m3	geograficzna	
 Machowowi	Machów	subst:sg:dat:m3	geograficzna	
 Machowów	Machów	subst:pl:gen:m3	geograficzna	
-Machowu	Machów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Machowu	Machów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Machowy	Machów	subst:pl:acc:m3	geograficzna	
 Machowy	Machów	subst:pl:nom:m3	geograficzna	
 Machowy	Machów	subst:pl:voc:m3	geograficzna	
@@ -718,24 +718,24 @@ Madzi	Madzia	subst:sg:loc:f	imię
 Madziom	Madzia	subst:pl:dat:f	imię	
 Madziu	Madzia	subst:sg:voc:f	imię	
 Madź	Madzia	subst:pl:gen:f	imię	char.
-Madziarach	Madziar	subst:pl:loc:m1	pospolita	pot.|przest.
-Madziara	Madziar	subst:sg:acc:m1	pospolita	pot.|przest.
-Madziara	Madziar	subst:sg:gen:m1	pospolita	pot.|przest.
-Madziarami	Madziar	subst:pl:inst:m1	pospolita	pot.|przest.
-Madziarem	Madziar	subst:sg:inst:m1	pospolita	pot.|przest.
-Madziar	Madziar	subst:sg:nom:m1	pospolita	pot.|przest.
-Madziarom	Madziar	subst:pl:dat:m1	pospolita	pot.|przest.
-Madziarowie	Madziar	subst:pl:nom:m1	pospolita	pot.|przest.
-Madziarowie	Madziar	subst:pl:voc:m1	pospolita	pot.|przest.
-Madziarowi	Madziar	subst:sg:dat:m1	pospolita	pot.|przest.
-Madziarów	Madziar	subst:pl:acc:m1	pospolita	pot.|przest.
-Madziarów	Madziar	subst:pl:gen:m1	pospolita	pot.|przest.
-Madziary	Madziar	depr:pl:nom:m2	pospolita	pot.|przest.
-Madziary	Madziar	depr:pl:voc:m2	pospolita	pot.|przest.
-Madziarze	Madziar	subst:sg:loc:m1	pospolita	pot.|przest.
-Madziarze	Madziar	subst:sg:voc:m1	pospolita	pot.|przest.
-Madziarzy	Madziar	subst:pl:nom:m1	pospolita	pot.|przest.
-Madziarzy	Madziar	subst:pl:voc:m1	pospolita	pot.|przest.
+Madziarach	Madziar	subst:pl:loc:m1	pospolita	przest.|pot.
+Madziara	Madziar	subst:sg:acc:m1	pospolita	przest.|pot.
+Madziara	Madziar	subst:sg:gen:m1	pospolita	przest.|pot.
+Madziarami	Madziar	subst:pl:inst:m1	pospolita	przest.|pot.
+Madziarem	Madziar	subst:sg:inst:m1	pospolita	przest.|pot.
+Madziar	Madziar	subst:sg:nom:m1	pospolita	przest.|pot.
+Madziarom	Madziar	subst:pl:dat:m1	pospolita	przest.|pot.
+Madziarowie	Madziar	subst:pl:nom:m1	pospolita	przest.|pot.
+Madziarowie	Madziar	subst:pl:voc:m1	pospolita	przest.|pot.
+Madziarowi	Madziar	subst:sg:dat:m1	pospolita	przest.|pot.
+Madziarów	Madziar	subst:pl:acc:m1	pospolita	przest.|pot.
+Madziarów	Madziar	subst:pl:gen:m1	pospolita	przest.|pot.
+Madziary	Madziar	depr:pl:nom:m2	pospolita	przest.|pot.
+Madziary	Madziar	depr:pl:voc:m2	pospolita	przest.|pot.
+Madziarze	Madziar	subst:sg:loc:m1	pospolita	przest.|pot.
+Madziarze	Madziar	subst:sg:voc:m1	pospolita	przest.|pot.
+Madziarzy	Madziar	subst:pl:nom:m1	pospolita	przest.|pot.
+Madziarzy	Madziar	subst:pl:voc:m1	pospolita	przest.|pot.
 Maeterlinckach	Maeterlinck	subst:pl:loc:m1	nazwisko	
 Maeterlincka	Maeterlinck	subst:sg:acc:m1	nazwisko	
 Maeterlincka	Maeterlinck	subst:sg:gen:m1	nazwisko	
@@ -1430,7 +1430,7 @@ Makowie	Maków	subst:sg:voc:m3	geograficzna
 Makowom	Maków	subst:pl:dat:m3	geograficzna	
 Makowowi	Maków	subst:sg:dat:m3	geograficzna	
 Makowów	Maków	subst:pl:gen:m3	geograficzna	
-Makowu	Maków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Makowu	Maków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Makowy	Maków	subst:pl:acc:m3	geograficzna	
 Makowy	Maków	subst:pl:nom:m3	geograficzna	
 Makowy	Maków	subst:pl:voc:m3	geograficzna	
@@ -1743,7 +1743,7 @@ Malanowie	Malanów	subst:sg:voc:m3	geograficzna
 Malanowom	Malanów	subst:pl:dat:m3	geograficzna	
 Malanowowi	Malanów	subst:sg:dat:m3	geograficzna	
 Malanowów	Malanów	subst:pl:gen:m3	geograficzna	
-Malanowu	Malanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Malanowu	Malanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Malanowy	Malanów	subst:pl:acc:m3	geograficzna	
 Malanowy	Malanów	subst:pl:nom:m3	geograficzna	
 Malanowy	Malanów	subst:pl:voc:m3	geograficzna	
@@ -3138,22 +3138,22 @@ Mańkowskimi	Mańkowski	subst:pl:inst:m1	nazwisko
 Mańkowskim	Mańkowski	subst:pl:dat:m1	nazwisko	
 Mańkowskim	Mańkowski	subst:sg:inst:m1	nazwisko	
 Mańkowskim	Mańkowski	subst:sg:loc:m1	nazwisko	
-Mao	Mao	depr:pl:nom:m2	nazwisko	człon n. wł.
-Mao	Mao	depr:pl:voc:m2	nazwisko	człon n. wł.
-Mao	Mao	subst:pl:acc:m1	nazwisko	człon n. wł.
-Mao	Mao	subst:pl:dat:m1	nazwisko	człon n. wł.
-Mao	Mao	subst:pl:gen:m1	nazwisko	człon n. wł.
-Mao	Mao	subst:pl:inst:m1	nazwisko	człon n. wł.
-Mao	Mao	subst:pl:loc:m1	nazwisko	człon n. wł.
-Mao	Mao	subst:pl:nom:m1	nazwisko	człon n. wł.
-Mao	Mao	subst:pl:voc:m1	nazwisko	człon n. wł.
-Mao	Mao	subst:sg:acc:m1	nazwisko	człon n. wł.
-Mao	Mao	subst:sg:dat:m1	nazwisko	człon n. wł.
-Mao	Mao	subst:sg:gen:m1	nazwisko	człon n. wł.
-Mao	Mao	subst:sg:inst:m1	nazwisko	człon n. wł.
-Mao	Mao	subst:sg:loc:m1	nazwisko	człon n. wł.
-Mao	Mao	subst:sg:nom:m1	nazwisko	człon n. wł.
-Mao	Mao	subst:sg:voc:m1	nazwisko	człon n. wł.
+Mao	Mao	depr:pl:nom:m2	nazwisko	człon_n._wł.
+Mao	Mao	depr:pl:voc:m2	nazwisko	człon_n._wł.
+Mao	Mao	subst:pl:acc:m1	nazwisko	człon_n._wł.
+Mao	Mao	subst:pl:dat:m1	nazwisko	człon_n._wł.
+Mao	Mao	subst:pl:gen:m1	nazwisko	człon_n._wł.
+Mao	Mao	subst:pl:inst:m1	nazwisko	człon_n._wł.
+Mao	Mao	subst:pl:loc:m1	nazwisko	człon_n._wł.
+Mao	Mao	subst:pl:nom:m1	nazwisko	człon_n._wł.
+Mao	Mao	subst:pl:voc:m1	nazwisko	człon_n._wł.
+Mao	Mao	subst:sg:acc:m1	nazwisko	człon_n._wł.
+Mao	Mao	subst:sg:dat:m1	nazwisko	człon_n._wł.
+Mao	Mao	subst:sg:gen:m1	nazwisko	człon_n._wł.
+Mao	Mao	subst:sg:inst:m1	nazwisko	człon_n._wł.
+Mao	Mao	subst:sg:loc:m1	nazwisko	człon_n._wł.
+Mao	Mao	subst:sg:nom:m1	nazwisko	człon_n._wł.
+Mao	Mao	subst:sg:voc:m1	nazwisko	człon_n._wł.
 Maorysach	Maorys	subst:pl:loc:m1	pospolita	
 Maorysa	Maorys	subst:sg:acc:m1	pospolita	
 Maorysa	Maorys	subst:sg:gen:m1	pospolita	
@@ -3184,20 +3184,20 @@ Maputo	Maputo	subst:sg:inst:n2	geograficzna
 Maputo	Maputo	subst:sg:loc:n2	geograficzna	
 Maputo	Maputo	subst:sg:nom:n2	geograficzna	
 Maputo	Maputo	subst:sg:voc:n2	geograficzna	
-Mar	Mar	subst:pl:acc:n2	geograficzna	człon n. wł.
-Mar	Mar	subst:pl:dat:n2	geograficzna	człon n. wł.
-Mar	Mar	subst:pl:gen:n2	geograficzna	człon n. wł.
-Mar	Mar	subst:pl:inst:n2	geograficzna	człon n. wł.
-Mar	Mar	subst:pl:loc:n2	geograficzna	człon n. wł.
-Mar	Mar	subst:pl:nom:n2	geograficzna	człon n. wł.
-Mar	Mar	subst:pl:voc:n2	geograficzna	człon n. wł.
-Mar	Mar	subst:sg:acc:n2	geograficzna	człon n. wł.
-Mar	Mar	subst:sg:dat:n2	geograficzna	człon n. wł.
-Mar	Mar	subst:sg:gen:n2	geograficzna	człon n. wł.
-Mar	Mar	subst:sg:inst:n2	geograficzna	człon n. wł.
-Mar	Mar	subst:sg:loc:n2	geograficzna	człon n. wł.
-Mar	Mar	subst:sg:nom:n2	geograficzna	człon n. wł.
-Mar	Mar	subst:sg:voc:n2	geograficzna	człon n. wł.
+Mar	Mar	subst:pl:acc:n2	geograficzna	człon_n._wł.
+Mar	Mar	subst:pl:dat:n2	geograficzna	człon_n._wł.
+Mar	Mar	subst:pl:gen:n2	geograficzna	człon_n._wł.
+Mar	Mar	subst:pl:inst:n2	geograficzna	człon_n._wł.
+Mar	Mar	subst:pl:loc:n2	geograficzna	człon_n._wł.
+Mar	Mar	subst:pl:nom:n2	geograficzna	człon_n._wł.
+Mar	Mar	subst:pl:voc:n2	geograficzna	człon_n._wł.
+Mar	Mar	subst:sg:acc:n2	geograficzna	człon_n._wł.
+Mar	Mar	subst:sg:dat:n2	geograficzna	człon_n._wł.
+Mar	Mar	subst:sg:gen:n2	geograficzna	człon_n._wł.
+Mar	Mar	subst:sg:inst:n2	geograficzna	człon_n._wł.
+Mar	Mar	subst:sg:loc:n2	geograficzna	człon_n._wł.
+Mar	Mar	subst:sg:nom:n2	geograficzna	człon_n._wł.
+Mar	Mar	subst:sg:voc:n2	geograficzna	człon_n._wł.
 Maracie	Marat	subst:sg:loc:m1	nazwisko	
 Maracie	Marat	subst:sg:voc:m1	nazwisko	
 Maratach	Marat	subst:pl:loc:m1	nazwisko	
@@ -3481,7 +3481,7 @@ Marciszowie	Marciszów	subst:sg:voc:m3	geograficzna
 Marciszowom	Marciszów	subst:pl:dat:m3	geograficzna	
 Marciszowowi	Marciszów	subst:sg:dat:m3	geograficzna	
 Marciszowów	Marciszów	subst:pl:gen:m3	geograficzna	
-Marciszowu	Marciszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Marciszowu	Marciszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Marciszowy	Marciszów	subst:pl:acc:m3	geograficzna	
 Marciszowy	Marciszów	subst:pl:nom:m3	geograficzna	
 Marciszowy	Marciszów	subst:pl:voc:m3	geograficzna	
@@ -3876,20 +3876,20 @@ Mariny	Marina	subst:pl:nom:f	imię
 Mariny	Marina	subst:pl:voc:f	imię	
 Mariny	Marina	subst:sg:gen:f	imię	
 Marino	Marino:b	burk		
-Marino	Marino:s	subst:pl:acc:n2	geograficzna	człon n. wł.
-Marino	Marino:s	subst:pl:dat:n2	geograficzna	człon n. wł.
-Marino	Marino:s	subst:pl:gen:n2	geograficzna	człon n. wł.
-Marino	Marino:s	subst:pl:inst:n2	geograficzna	człon n. wł.
-Marino	Marino:s	subst:pl:loc:n2	geograficzna	człon n. wł.
-Marino	Marino:s	subst:pl:nom:n2	geograficzna	człon n. wł.
-Marino	Marino:s	subst:pl:voc:n2	geograficzna	człon n. wł.
-Marino	Marino:s	subst:sg:acc:n2	geograficzna	człon n. wł.
-Marino	Marino:s	subst:sg:dat:n2	geograficzna	człon n. wł.
-Marino	Marino:s	subst:sg:gen:n2	geograficzna	człon n. wł.
-Marino	Marino:s	subst:sg:inst:n2	geograficzna	człon n. wł.
-Marino	Marino:s	subst:sg:loc:n2	geograficzna	człon n. wł.
-Marino	Marino:s	subst:sg:nom:n2	geograficzna	człon n. wł.
-Marino	Marino:s	subst:sg:voc:n2	geograficzna	człon n. wł.
+Marino	Marino:s	subst:pl:acc:n2	geograficzna	człon_n._wł.
+Marino	Marino:s	subst:pl:dat:n2	geograficzna	człon_n._wł.
+Marino	Marino:s	subst:pl:gen:n2	geograficzna	człon_n._wł.
+Marino	Marino:s	subst:pl:inst:n2	geograficzna	człon_n._wł.
+Marino	Marino:s	subst:pl:loc:n2	geograficzna	człon_n._wł.
+Marino	Marino:s	subst:pl:nom:n2	geograficzna	człon_n._wł.
+Marino	Marino:s	subst:pl:voc:n2	geograficzna	człon_n._wł.
+Marino	Marino:s	subst:sg:acc:n2	geograficzna	człon_n._wł.
+Marino	Marino:s	subst:sg:dat:n2	geograficzna	człon_n._wł.
+Marino	Marino:s	subst:sg:gen:n2	geograficzna	człon_n._wł.
+Marino	Marino:s	subst:sg:inst:n2	geograficzna	człon_n._wł.
+Marino	Marino:s	subst:sg:loc:n2	geograficzna	człon_n._wł.
+Marino	Marino:s	subst:sg:nom:n2	geograficzna	człon_n._wł.
+Marino	Marino:s	subst:sg:voc:n2	geograficzna	człon_n._wł.
 Mariolach	Mariola	subst:pl:loc:f	imię	
 Mariola	Mariola	subst:sg:nom:f	imię	
 Mariolami	Mariola	subst:pl:inst:f	imię	
@@ -4157,20 +4157,20 @@ Marmara	Marmara:s1	subst:sg:inst:n2	geograficzna
 Marmara	Marmara:s1	subst:sg:loc:n2	geograficzna	
 Marmara	Marmara:s1	subst:sg:nom:n2	geograficzna	
 Marmara	Marmara:s1	subst:sg:voc:n2	geograficzna	
-Marmara	Marmara:s2	subst:pl:acc:f	geograficzna	człon n. wł.
-Marmara	Marmara:s2	subst:pl:dat:f	geograficzna	człon n. wł.
-Marmara	Marmara:s2	subst:pl:gen:f	geograficzna	człon n. wł.
-Marmara	Marmara:s2	subst:pl:inst:f	geograficzna	człon n. wł.
-Marmara	Marmara:s2	subst:pl:loc:f	geograficzna	człon n. wł.
-Marmara	Marmara:s2	subst:pl:nom:f	geograficzna	człon n. wł.
-Marmara	Marmara:s2	subst:pl:voc:f	geograficzna	człon n. wł.
-Marmara	Marmara:s2	subst:sg:acc:f	geograficzna	człon n. wł.
-Marmara	Marmara:s2	subst:sg:dat:f	geograficzna	człon n. wł.
-Marmara	Marmara:s2	subst:sg:gen:f	geograficzna	człon n. wł.
-Marmara	Marmara:s2	subst:sg:inst:f	geograficzna	człon n. wł.
-Marmara	Marmara:s2	subst:sg:loc:f	geograficzna	człon n. wł.
-Marmara	Marmara:s2	subst:sg:nom:f	geograficzna	człon n. wł.
-Marmara	Marmara:s2	subst:sg:voc:f	geograficzna	człon n. wł.
+Marmara	Marmara:s2	subst:pl:acc:f	geograficzna	człon_n._wł.
+Marmara	Marmara:s2	subst:pl:dat:f	geograficzna	człon_n._wł.
+Marmara	Marmara:s2	subst:pl:gen:f	geograficzna	człon_n._wł.
+Marmara	Marmara:s2	subst:pl:inst:f	geograficzna	człon_n._wł.
+Marmara	Marmara:s2	subst:pl:loc:f	geograficzna	człon_n._wł.
+Marmara	Marmara:s2	subst:pl:nom:f	geograficzna	człon_n._wł.
+Marmara	Marmara:s2	subst:pl:voc:f	geograficzna	człon_n._wł.
+Marmara	Marmara:s2	subst:sg:acc:f	geograficzna	człon_n._wł.
+Marmara	Marmara:s2	subst:sg:dat:f	geograficzna	człon_n._wł.
+Marmara	Marmara:s2	subst:sg:gen:f	geograficzna	człon_n._wł.
+Marmara	Marmara:s2	subst:sg:inst:f	geograficzna	człon_n._wł.
+Marmara	Marmara:s2	subst:sg:loc:f	geograficzna	człon_n._wł.
+Marmara	Marmara:s2	subst:sg:nom:f	geograficzna	człon_n._wł.
+Marmara	Marmara:s2	subst:sg:voc:f	geograficzna	człon_n._wł.
 Marokańczycy	Marokańczyk	subst:pl:nom:m1	pospolita	
 Marokańczycy	Marokańczyk	subst:pl:voc:m1	pospolita	
 Marokańczykach	Marokańczyk	subst:pl:loc:m1	pospolita	
@@ -5064,7 +5064,7 @@ Masłowie	Masłów	subst:sg:voc:m3	geograficzna
 Masłowom	Masłów	subst:pl:dat:m3	geograficzna	
 Masłowowi	Masłów	subst:sg:dat:m3	geograficzna	
 Masłowów	Masłów	subst:pl:gen:m3	geograficzna	
-Masłowu	Masłów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Masłowu	Masłów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Masłowy	Masłów	subst:pl:acc:m3	geograficzna	
 Masłowy	Masłów	subst:pl:nom:m3	geograficzna	
 Masłowy	Masłów	subst:pl:voc:m3	geograficzna	
@@ -6235,24 +6235,24 @@ Mediolanu	Mediolan	subst:sg:gen:m3	geograficzna
 Mediolany	Mediolan	subst:pl:acc:m3	geograficzna	
 Mediolany	Mediolan	subst:pl:nom:m3	geograficzna	
 Mediolany	Mediolan	subst:pl:voc:m3	geograficzna	
-Medyceuszach	Medyceusz	subst:pl:loc:m1	członek rodu	
-Medyceusza	Medyceusz	subst:sg:acc:m1	członek rodu	
-Medyceusza	Medyceusz	subst:sg:gen:m1	członek rodu	
-Medyceuszami	Medyceusz	subst:pl:inst:m1	członek rodu	
-Medyceusze	Medyceusz	depr:pl:nom:m2	członek rodu	
-Medyceusze	Medyceusz	depr:pl:voc:m2	członek rodu	
-Medyceusze	Medyceusz	subst:pl:nom:m1	członek rodu	
-Medyceusze	Medyceusz	subst:pl:voc:m1	członek rodu	
-Medyceuszem	Medyceusz	subst:sg:inst:m1	członek rodu	
-Medyceusz	Medyceusz	subst:sg:nom:m1	członek rodu	
-Medyceuszom	Medyceusz	subst:pl:dat:m1	członek rodu	
-Medyceuszowi	Medyceusz	subst:sg:dat:m1	członek rodu	
-Medyceuszów	Medyceusz	subst:pl:acc:m1	członek rodu	
-Medyceuszów	Medyceusz	subst:pl:gen:m1	członek rodu	
-Medyceuszu	Medyceusz	subst:sg:loc:m1	członek rodu	
-Medyceuszu	Medyceusz	subst:sg:voc:m1	członek rodu	
-Medyceuszy	Medyceusz	subst:pl:acc:m1	członek rodu	
-Medyceuszy	Medyceusz	subst:pl:gen:m1	członek rodu	
+Medyceuszach	Medyceusz	subst:pl:loc:m1	członek_rodu	
+Medyceusza	Medyceusz	subst:sg:acc:m1	członek_rodu	
+Medyceusza	Medyceusz	subst:sg:gen:m1	członek_rodu	
+Medyceuszami	Medyceusz	subst:pl:inst:m1	członek_rodu	
+Medyceusze	Medyceusz	depr:pl:nom:m2	członek_rodu	
+Medyceusze	Medyceusz	depr:pl:voc:m2	członek_rodu	
+Medyceusze	Medyceusz	subst:pl:nom:m1	członek_rodu	
+Medyceusze	Medyceusz	subst:pl:voc:m1	członek_rodu	
+Medyceuszem	Medyceusz	subst:sg:inst:m1	członek_rodu	
+Medyceusz	Medyceusz	subst:sg:nom:m1	członek_rodu	
+Medyceuszom	Medyceusz	subst:pl:dat:m1	członek_rodu	
+Medyceuszowi	Medyceusz	subst:sg:dat:m1	członek_rodu	
+Medyceuszów	Medyceusz	subst:pl:acc:m1	członek_rodu	
+Medyceuszów	Medyceusz	subst:pl:gen:m1	członek_rodu	
+Medyceuszu	Medyceusz	subst:sg:loc:m1	członek_rodu	
+Medyceuszu	Medyceusz	subst:sg:voc:m1	członek_rodu	
+Medyceuszy	Medyceusz	subst:pl:acc:m1	członek_rodu	
+Medyceuszy	Medyceusz	subst:pl:gen:m1	członek_rodu	
 Medyce	Medyka	subst:sg:dat:f	geograficzna	
 Medyce	Medyka	subst:sg:loc:f	geograficzna	
 Medykach	Medyka	subst:pl:loc:f	geograficzna	
@@ -7330,7 +7330,7 @@ Miastkowie	Miastków	subst:sg:voc:m3	geograficzna
 Miastkowom	Miastków	subst:pl:dat:m3	geograficzna	
 Miastkowowi	Miastków	subst:sg:dat:m3	geograficzna	
 Miastkowów	Miastków	subst:pl:gen:m3	geograficzna	
-Miastkowu	Miastków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Miastkowu	Miastków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Miastkowy	Miastków	subst:pl:acc:m3	geograficzna	
 Miastkowy	Miastków	subst:pl:nom:m3	geograficzna	
 Miastkowy	Miastków	subst:pl:voc:m3	geograficzna	
@@ -7637,7 +7637,7 @@ Michałowie	Michałów	subst:sg:voc:m3	geograficzna
 Michałowom	Michałów	subst:pl:dat:m3	geograficzna	
 Michałowowi	Michałów	subst:sg:dat:m3	geograficzna	
 Michałowów	Michałów	subst:pl:gen:m3	geograficzna	
-Michałowu	Michałów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Michałowu	Michałów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Michałowy	Michałów	subst:pl:acc:m3	geograficzna	
 Michałowy	Michałów	subst:pl:nom:m3	geograficzna	
 Michałowy	Michałów	subst:pl:voc:m3	geograficzna	
@@ -7777,7 +7777,7 @@ Michowie	Michów	subst:sg:voc:m3	geograficzna
 Michowom	Michów	subst:pl:dat:m3	geograficzna	
 Michowowi	Michów	subst:sg:dat:m3	geograficzna	
 Michowów	Michów	subst:pl:gen:m3	geograficzna	
-Michowu	Michów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Michowu	Michów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Michowy	Michów	subst:pl:acc:m3	geograficzna	
 Michowy	Michów	subst:pl:nom:m3	geograficzna	
 Michowy	Michów	subst:pl:voc:m3	geograficzna	
@@ -7948,7 +7948,7 @@ Miechowie	Miechów	subst:sg:voc:m3	geograficzna
 Miechowom	Miechów	subst:pl:dat:m3	geograficzna	
 Miechowowi	Miechów	subst:sg:dat:m3	geograficzna	
 Miechowów	Miechów	subst:pl:gen:m3	geograficzna	
-Miechowu	Miechów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Miechowu	Miechów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Miechowy	Miechów	subst:pl:acc:m3	geograficzna	
 Miechowy	Miechów	subst:pl:nom:m3	geograficzna	
 Miechowy	Miechów	subst:pl:voc:m3	geograficzna	
@@ -8264,7 +8264,7 @@ Mieroszowie	Mieroszów	subst:sg:voc:m3	geograficzna
 Mieroszowom	Mieroszów	subst:pl:dat:m3	geograficzna	
 Mieroszowowi	Mieroszów	subst:sg:dat:m3	geograficzna	
 Mieroszowów	Mieroszów	subst:pl:gen:m3	geograficzna	
-Mieroszowu	Mieroszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Mieroszowu	Mieroszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Mieroszowy	Mieroszów	subst:pl:acc:m3	geograficzna	
 Mieroszowy	Mieroszów	subst:pl:nom:m3	geograficzna	
 Mieroszowy	Mieroszów	subst:pl:voc:m3	geograficzna	
@@ -8752,7 +8752,7 @@ Mikołowie	Mikołów	subst:sg:voc:m3	geograficzna
 Mikołowom	Mikołów	subst:pl:dat:m3	geograficzna	
 Mikołowowi	Mikołów	subst:sg:dat:m3	geograficzna	
 Mikołowów	Mikołów	subst:pl:gen:m3	geograficzna	
-Mikołowu	Mikołów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Mikołowu	Mikołów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Mikołowy	Mikołów	subst:pl:acc:m3	geograficzna	
 Mikołowy	Mikołów	subst:pl:nom:m3	geograficzna	
 Mikołowy	Mikołów	subst:pl:voc:m3	geograficzna	
@@ -8861,7 +8861,7 @@ Milanowie	Milanów	subst:sg:voc:m3	geograficzna
 Milanowom	Milanów	subst:pl:dat:m3	geograficzna	
 Milanowowi	Milanów	subst:sg:dat:m3	geograficzna	
 Milanowów	Milanów	subst:pl:gen:m3	geograficzna	
-Milanowu	Milanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Milanowu	Milanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Milanowy	Milanów	subst:pl:acc:m3	geograficzna	
 Milanowy	Milanów	subst:pl:nom:m3	geograficzna	
 Milanowy	Milanów	subst:pl:voc:m3	geograficzna	
@@ -8997,7 +8997,7 @@ Milejowie	Milejów	subst:sg:voc:m3	geograficzna
 Milejowom	Milejów	subst:pl:dat:m3	geograficzna	
 Milejowowi	Milejów	subst:sg:dat:m3	geograficzna	
 Milejowów	Milejów	subst:pl:gen:m3	geograficzna	
-Milejowu	Milejów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Milejowu	Milejów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Milejowy	Milejów	subst:pl:acc:m3	geograficzna	
 Milejowy	Milejów	subst:pl:nom:m3	geograficzna	
 Milejowy	Milejów	subst:pl:voc:m3	geograficzna	
@@ -9562,20 +9562,20 @@ Minerwy	Minerwa	subst:pl:acc:f	imię	mit.
 Minerwy	Minerwa	subst:pl:nom:f	imię	mit.
 Minerwy	Minerwa	subst:pl:voc:f	imię	mit.
 Minerwy	Minerwa	subst:sg:gen:f	imię	mit.
-Minhach	Minh:s1	subst:pl:loc:m3	geograficzna	człon n. wł.
-Minhami	Minh:s1	subst:pl:inst:m3	geograficzna	człon n. wł.
-Minhem	Minh:s1	subst:sg:inst:m3	geograficzna	człon n. wł.
-Minh	Minh:s1	subst:sg:acc:m3	geograficzna	człon n. wł.
-Minh	Minh:s1	subst:sg:nom:m3	geograficzna	człon n. wł.
-Minhom	Minh:s1	subst:pl:dat:m3	geograficzna	człon n. wł.
-Minhowi	Minh:s1	subst:sg:dat:m3	geograficzna	człon n. wł.
-Minhów	Minh:s1	subst:pl:gen:m3	geograficzna	człon n. wł.
-Minhu	Minh:s1	subst:sg:gen:m3	geograficzna	człon n. wł.
-Minhy	Minh:s1	subst:pl:acc:m3	geograficzna	człon n. wł.
-Minhy	Minh:s1	subst:pl:nom:m3	geograficzna	człon n. wł.
-Minhy	Minh:s1	subst:pl:voc:m3	geograficzna	człon n. wł.
-Minie	Minh:s1	subst:sg:loc:m3	geograficzna	człon n. wł.
-Minie	Minh:s1	subst:sg:voc:m3	geograficzna	człon n. wł.
+Minhach	Minh:s1	subst:pl:loc:m3	geograficzna	człon_n._wł.
+Minhami	Minh:s1	subst:pl:inst:m3	geograficzna	człon_n._wł.
+Minhem	Minh:s1	subst:sg:inst:m3	geograficzna	człon_n._wł.
+Minh	Minh:s1	subst:sg:acc:m3	geograficzna	człon_n._wł.
+Minh	Minh:s1	subst:sg:nom:m3	geograficzna	człon_n._wł.
+Minhom	Minh:s1	subst:pl:dat:m3	geograficzna	człon_n._wł.
+Minhowi	Minh:s1	subst:sg:dat:m3	geograficzna	człon_n._wł.
+Minhów	Minh:s1	subst:pl:gen:m3	geograficzna	człon_n._wł.
+Minhu	Minh:s1	subst:sg:gen:m3	geograficzna	człon_n._wł.
+Minhy	Minh:s1	subst:pl:acc:m3	geograficzna	człon_n._wł.
+Minhy	Minh:s1	subst:pl:nom:m3	geograficzna	człon_n._wł.
+Minhy	Minh:s1	subst:pl:voc:m3	geograficzna	człon_n._wł.
+Minie	Minh:s1	subst:sg:loc:m3	geograficzna	człon_n._wł.
+Minie	Minh:s1	subst:sg:voc:m3	geograficzna	człon_n._wł.
 Minhach	Minh:s2	subst:pl:loc:m1	nazwisko	
 Minhami	Minh:s2	subst:pl:inst:m1	nazwisko	
 Minha	Minh:s2	subst:sg:acc:m1	nazwisko	
@@ -10011,7 +10011,7 @@ Mirowie	Mirów	subst:sg:voc:m3	geograficzna
 Mirowom	Mirów	subst:pl:dat:m3	geograficzna	
 Mirowowi	Mirów	subst:sg:dat:m3	geograficzna	
 Mirowów	Mirów	subst:pl:gen:m3	geograficzna	
-Mirowu	Mirów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Mirowu	Mirów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Mirowy	Mirów	subst:pl:acc:m3	geograficzna	
 Mirowy	Mirów	subst:pl:nom:m3	geograficzna	
 Mirowy	Mirów	subst:pl:voc:m3	geograficzna	
@@ -10628,7 +10628,7 @@ Mniowie	Mniów	subst:sg:voc:m3	geograficzna
 Mniowom	Mniów	subst:pl:dat:m3	geograficzna	
 Mniowowi	Mniów	subst:sg:dat:m3	geograficzna	
 Mniowów	Mniów	subst:pl:gen:m3	geograficzna	
-Mniowu	Mniów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Mniowu	Mniów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Mniowy	Mniów	subst:pl:acc:m3	geograficzna	
 Mniowy	Mniów	subst:pl:nom:m3	geograficzna	
 Mniowy	Mniów	subst:pl:voc:m3	geograficzna	
@@ -10659,7 +10659,7 @@ Mniszkowie	Mniszków	subst:sg:voc:m3	geograficzna
 Mniszkowom	Mniszków	subst:pl:dat:m3	geograficzna	
 Mniszkowowi	Mniszków	subst:sg:dat:m3	geograficzna	
 Mniszkowów	Mniszków	subst:pl:gen:m3	geograficzna	
-Mniszkowu	Mniszków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Mniszkowu	Mniszków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Mniszkowy	Mniszków	subst:pl:acc:m3	geograficzna	
 Mniszkowy	Mniszków	subst:pl:nom:m3	geograficzna	
 Mniszkowy	Mniszków	subst:pl:voc:m3	geograficzna	
@@ -10931,20 +10931,20 @@ Moczydłowskim	Moczydłowski	subst:sg:inst:m1	nazwisko
 Moczydłowskim	Moczydłowski	subst:sg:loc:m1	nazwisko	
 Moczydłowski	Moczydłowski	subst:sg:nom:m1	nazwisko	
 Moczydłowski	Moczydłowski	subst:sg:voc:m1	nazwisko	
-Modenach	Modena	subst:pl:loc:f	krój pisma	
-Modenami	Modena	subst:pl:inst:f	krój pisma	
-Modena	Modena	subst:sg:nom:f	krój pisma	
-Modeną	Modena	subst:sg:inst:f	krój pisma	
-Modenę	Modena	subst:sg:acc:f	krój pisma	
-Modenie	Modena	subst:sg:dat:f	krój pisma	
-Modenie	Modena	subst:sg:loc:f	krój pisma	
-Moden	Modena	subst:pl:gen:f	krój pisma	
-Modenom	Modena	subst:pl:dat:f	krój pisma	
-Modeno	Modena	subst:sg:voc:f	krój pisma	
-Modeny	Modena	subst:pl:acc:f	krój pisma	
-Modeny	Modena	subst:pl:nom:f	krój pisma	
-Modeny	Modena	subst:pl:voc:f	krój pisma	
-Modeny	Modena	subst:sg:gen:f	krój pisma	
+Modenach	Modena	subst:pl:loc:f	krój_pisma	
+Modenami	Modena	subst:pl:inst:f	krój_pisma	
+Modena	Modena	subst:sg:nom:f	krój_pisma	
+Modeną	Modena	subst:sg:inst:f	krój_pisma	
+Modenę	Modena	subst:sg:acc:f	krój_pisma	
+Modenie	Modena	subst:sg:dat:f	krój_pisma	
+Modenie	Modena	subst:sg:loc:f	krój_pisma	
+Moden	Modena	subst:pl:gen:f	krój_pisma	
+Modenom	Modena	subst:pl:dat:f	krój_pisma	
+Modeno	Modena	subst:sg:voc:f	krój_pisma	
+Modeny	Modena	subst:pl:acc:f	krój_pisma	
+Modeny	Modena	subst:pl:nom:f	krój_pisma	
+Modeny	Modena	subst:pl:voc:f	krój_pisma	
+Modeny	Modena	subst:sg:gen:f	krój_pisma	
 Modestach	Modest	subst:pl:loc:m1	imię	
 Modestami	Modest	subst:pl:inst:m1	imię	
 Modesta	Modest	subst:sg:acc:m1	imię	
@@ -11239,7 +11239,7 @@ Mohylowie	Mohylów	subst:sg:voc:m3	geograficzna
 Mohylowom	Mohylów	subst:pl:dat:m3	geograficzna	
 Mohylowowi	Mohylów	subst:sg:dat:m3	geograficzna	
 Mohylowów	Mohylów	subst:pl:gen:m3	geograficzna	
-Mohylowu	Mohylów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Mohylowu	Mohylów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Mohylowy	Mohylów	subst:pl:acc:m3	geograficzna	
 Mohylowy	Mohylów	subst:pl:nom:m3	geograficzna	
 Mohylowy	Mohylów	subst:pl:voc:m3	geograficzna	
@@ -11338,7 +11338,7 @@ Mokotowie	Mokotów	subst:sg:voc:m3	geograficzna
 Mokotowom	Mokotów	subst:pl:dat:m3	geograficzna	
 Mokotowowi	Mokotów	subst:sg:dat:m3	geograficzna	
 Mokotowów	Mokotów	subst:pl:gen:m3	geograficzna	
-Mokotowu	Mokotów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Mokotowu	Mokotów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Mokotowy	Mokotów	subst:pl:acc:m3	geograficzna	
 Mokotowy	Mokotów	subst:pl:nom:m3	geograficzna	
 Mokotowy	Mokotów	subst:pl:voc:m3	geograficzna	
@@ -11541,20 +11541,20 @@ MON-u	MON	subst:sg:gen:m3	instytucja
 MON-y	MON	subst:pl:acc:m3	instytucja	
 MON-y	MON	subst:pl:nom:m3	instytucja	
 MON-y	MON	subst:pl:voc:m3	instytucja	
-Monach	Mona	subst:pl:loc:f	tytuł	człon n. wł.
-Monami	Mona	subst:pl:inst:f	tytuł	człon n. wł.
-Mona	Mona	subst:sg:nom:f	tytuł	człon n. wł.
-Moną	Mona	subst:sg:inst:f	tytuł	człon n. wł.
-Monę	Mona	subst:sg:acc:f	tytuł	człon n. wł.
-Monie	Mona	subst:sg:dat:f	tytuł	człon n. wł.
-Monie	Mona	subst:sg:loc:f	tytuł	człon n. wł.
-Mon	Mona	subst:pl:gen:f	tytuł	człon n. wł.
-Monom	Mona	subst:pl:dat:f	tytuł	człon n. wł.
-Mono	Mona	subst:sg:voc:f	tytuł	człon n. wł.
-Mony	Mona	subst:pl:acc:f	tytuł	człon n. wł.
-Mony	Mona	subst:pl:nom:f	tytuł	człon n. wł.
-Mony	Mona	subst:pl:voc:f	tytuł	człon n. wł.
-Mony	Mona	subst:sg:gen:f	tytuł	człon n. wł.
+Monach	Mona	subst:pl:loc:f	tytuł	człon_n._wł.
+Monami	Mona	subst:pl:inst:f	tytuł	człon_n._wł.
+Mona	Mona	subst:sg:nom:f	tytuł	człon_n._wł.
+Moną	Mona	subst:sg:inst:f	tytuł	człon_n._wł.
+Monę	Mona	subst:sg:acc:f	tytuł	człon_n._wł.
+Monie	Mona	subst:sg:dat:f	tytuł	człon_n._wł.
+Monie	Mona	subst:sg:loc:f	tytuł	człon_n._wł.
+Mon	Mona	subst:pl:gen:f	tytuł	człon_n._wł.
+Monom	Mona	subst:pl:dat:f	tytuł	człon_n._wł.
+Mono	Mona	subst:sg:voc:f	tytuł	człon_n._wł.
+Mony	Mona	subst:pl:acc:f	tytuł	człon_n._wł.
+Mony	Mona	subst:pl:nom:f	tytuł	człon_n._wł.
+Mony	Mona	subst:pl:voc:f	tytuł	człon_n._wł.
+Mony	Mona	subst:sg:gen:f	tytuł	człon_n._wł.
 Monachiach	Monachium	subst:pl:loc:n2	geograficzna	
 Monachiami	Monachium	subst:pl:inst:n2	geograficzna	
 Monachia	Monachium	subst:pl:acc:n2	geograficzna	
@@ -11890,32 +11890,32 @@ Monteskiuszów	Monteskiusz	subst:pl:acc:m1	nazwisko
 Monteskiuszów	Monteskiusz	subst:pl:gen:m1	nazwisko	
 Monteskiuszu	Monteskiusz	subst:sg:loc:m1	nazwisko	
 Monteskiuszu	Monteskiusz	subst:sg:voc:m1	nazwisko	
-Montesquieuch	Montesquieu	subst:pl:acc:m1	nazwisko	człon n. wł.
-Montesquieuch	Montesquieu	subst:pl:gen:m1	nazwisko	człon n. wł.
-Montesquieuch	Montesquieu	subst:pl:loc:m1	nazwisko	człon n. wł.
-Montesquieugo	Montesquieu	subst:sg:acc:m1	nazwisko	człon n. wł.
-Montesquieugo	Montesquieu	subst:sg:gen:m1	nazwisko	człon n. wł.
-Montesquieumi	Montesquieu	subst:pl:inst:m1	nazwisko	człon n. wł.
-Montesquieum	Montesquieu	subst:pl:dat:m1	nazwisko	człon n. wł.
-Montesquieum	Montesquieu	subst:sg:inst:m1	nazwisko	człon n. wł.
-Montesquieum	Montesquieu	subst:sg:loc:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	depr:pl:nom:m2	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	depr:pl:voc:m2	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:pl:acc:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:pl:dat:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:pl:gen:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:pl:inst:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:pl:loc:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:pl:nom:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:pl:voc:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:sg:acc:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:sg:dat:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:sg:gen:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:sg:inst:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:sg:loc:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:sg:nom:m1	nazwisko	człon n. wł.
-Montesquieu	Montesquieu	subst:sg:voc:m1	nazwisko	człon n. wł.
-Montesquieumu	Montesquieu	subst:sg:dat:m1	nazwisko	człon n. wł.
+Montesquieuch	Montesquieu	subst:pl:acc:m1	nazwisko	człon_n._wł.
+Montesquieuch	Montesquieu	subst:pl:gen:m1	nazwisko	człon_n._wł.
+Montesquieuch	Montesquieu	subst:pl:loc:m1	nazwisko	człon_n._wł.
+Montesquieugo	Montesquieu	subst:sg:acc:m1	nazwisko	człon_n._wł.
+Montesquieugo	Montesquieu	subst:sg:gen:m1	nazwisko	człon_n._wł.
+Montesquieumi	Montesquieu	subst:pl:inst:m1	nazwisko	człon_n._wł.
+Montesquieum	Montesquieu	subst:pl:dat:m1	nazwisko	człon_n._wł.
+Montesquieum	Montesquieu	subst:sg:inst:m1	nazwisko	człon_n._wł.
+Montesquieum	Montesquieu	subst:sg:loc:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	depr:pl:nom:m2	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	depr:pl:voc:m2	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:pl:acc:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:pl:dat:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:pl:gen:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:pl:inst:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:pl:loc:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:pl:nom:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:pl:voc:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:sg:acc:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:sg:dat:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:sg:gen:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:sg:inst:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:sg:loc:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:sg:nom:m1	nazwisko	człon_n._wł.
+Montesquieu	Montesquieu	subst:sg:voc:m1	nazwisko	człon_n._wł.
+Montesquieumu	Montesquieu	subst:sg:dat:m1	nazwisko	człon_n._wł.
 Montevideo	Montevideo	subst:pl:acc:n2	geograficzna	
 Montevideo	Montevideo	subst:pl:dat:n2	geograficzna	
 Montevideo	Montevideo	subst:pl:gen:n2	geograficzna	
@@ -13303,7 +13303,7 @@ Mstowie	Mstów	subst:sg:voc:m3	geograficzna
 Mstowom	Mstów	subst:pl:dat:m3	geograficzna	
 Mstowowi	Mstów	subst:sg:dat:m3	geograficzna	
 Mstowów	Mstów	subst:pl:gen:m3	geograficzna	
-Mstowu	Mstów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Mstowu	Mstów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Mstowy	Mstów	subst:pl:acc:m3	geograficzna	
 Mstowy	Mstów	subst:pl:nom:m3	geograficzna	
 Mstowy	Mstów	subst:pl:voc:m3	geograficzna	
@@ -13396,7 +13396,7 @@ Mszczonowie	Mszczonów	subst:sg:voc:m3	geograficzna
 Mszczonowom	Mszczonów	subst:pl:dat:m3	geograficzna	
 Mszczonowowi	Mszczonów	subst:sg:dat:m3	geograficzna	
 Mszczonowów	Mszczonów	subst:pl:gen:m3	geograficzna	
-Mszczonowu	Mszczonów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Mszczonowu	Mszczonów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Mszczonowy	Mszczonów	subst:pl:acc:m3	geograficzna	
 Mszczonowy	Mszczonów	subst:pl:nom:m3	geograficzna	
 Mszczonowy	Mszczonów	subst:pl:voc:m3	geograficzna	
@@ -13475,7 +13475,7 @@ Mściwojowie	Mściwojów	subst:sg:voc:m3	geograficzna
 Mściwojowom	Mściwojów	subst:pl:dat:m3	geograficzna	
 Mściwojowowi	Mściwojów	subst:sg:dat:m3	geograficzna	
 Mściwojowów	Mściwojów	subst:pl:gen:m3	geograficzna	
-Mściwojowu	Mściwojów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Mściwojowu	Mściwojów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Mściwojowy	Mściwojów	subst:pl:acc:m3	geograficzna	
 Mściwojowy	Mściwojów	subst:pl:nom:m3	geograficzna	
 Mściwojowy	Mściwojów	subst:pl:voc:m3	geograficzna	
@@ -13850,7 +13850,7 @@ Murowie	Murów	subst:sg:voc:m3	geograficzna
 Murowom	Murów	subst:pl:dat:m3	geograficzna	
 Murowowi	Murów	subst:sg:dat:m3	geograficzna	
 Murowów	Murów	subst:pl:gen:m3	geograficzna	
-Murowu	Murów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Murowu	Murów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Murowy	Murów	subst:pl:acc:m3	geograficzna	
 Murowy	Murów	subst:pl:nom:m3	geograficzna	
 Murowy	Murów	subst:pl:voc:m3	geograficzna	
@@ -14197,7 +14197,7 @@ Mykanowie	Mykanów	subst:sg:voc:m3	geograficzna
 Mykanowom	Mykanów	subst:pl:dat:m3	geograficzna	
 Mykanowowi	Mykanów	subst:sg:dat:m3	geograficzna	
 Mykanowów	Mykanów	subst:pl:gen:m3	geograficzna	
-Mykanowu	Mykanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Mykanowu	Mykanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Mykanowy	Mykanów	subst:pl:acc:m3	geograficzna	
 Mykanowy	Mykanów	subst:pl:nom:m3	geograficzna	
 Mykanowy	Mykanów	subst:pl:voc:m3	geograficzna	
@@ -14300,7 +14300,7 @@ Myszkowie	Myszków	subst:sg:voc:m3	geograficzna
 Myszkowom	Myszków	subst:pl:dat:m3	geograficzna	
 Myszkowowi	Myszków	subst:sg:dat:m3	geograficzna	
 Myszkowów	Myszków	subst:pl:gen:m3	geograficzna	
-Myszkowu	Myszków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Myszkowu	Myszków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Myszkowy	Myszków	subst:pl:acc:m3	geograficzna	
 Myszkowy	Myszków	subst:pl:nom:m3	geograficzna	
 Myszkowy	Myszków	subst:pl:voc:m3	geograficzna	

@@ -366,7 +366,7 @@ Ujazdowie	Ujazdów	subst:sg:voc:m3	geograficzna
 Ujazdowom	Ujazdów	subst:pl:dat:m3	geograficzna	
 Ujazdowowi	Ujazdów	subst:sg:dat:m3	geograficzna	
 Ujazdowów	Ujazdów	subst:pl:gen:m3	geograficzna	
-Ujazdowu	Ujazdów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Ujazdowu	Ujazdów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Ujazdowy	Ujazdów	subst:pl:acc:m3	geograficzna	
 Ujazdowy	Ujazdów	subst:pl:nom:m3	geograficzna	
 Ujazdowy	Ujazdów	subst:pl:voc:m3	geograficzna	
@@ -525,7 +525,7 @@ Ulanowie	Ulanów	subst:sg:voc:m3	geograficzna
 Ulanowom	Ulanów	subst:pl:dat:m3	geograficzna	
 Ulanowowi	Ulanów	subst:sg:dat:m3	geograficzna	
 Ulanowów	Ulanów	subst:pl:gen:m3	geograficzna	
-Ulanowu	Ulanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Ulanowu	Ulanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Ulanowy	Ulanów	subst:pl:acc:m3	geograficzna	
 Ulanowy	Ulanów	subst:pl:nom:m3	geograficzna	
 Ulanowy	Ulanów	subst:pl:voc:m3	geograficzna	
@@ -738,20 +738,20 @@ UŁ	UŁ	subst:sg:nom:m3	instytucja
 UŁ	UŁ	subst:sg:nom:n2	instytucja	pot.
 UŁ	UŁ	subst:sg:voc:m3	instytucja	
 UŁ	UŁ	subst:sg:voc:n2	instytucja	pot.
-Ułan	Ułan	subst:pl:acc:m3	geograficzna	człon n. wł.
-Ułan	Ułan	subst:pl:dat:m3	geograficzna	człon n. wł.
-Ułan	Ułan	subst:pl:gen:m3	geograficzna	człon n. wł.
-Ułan	Ułan	subst:pl:inst:m3	geograficzna	człon n. wł.
-Ułan	Ułan	subst:pl:loc:m3	geograficzna	człon n. wł.
-Ułan	Ułan	subst:pl:nom:m3	geograficzna	człon n. wł.
-Ułan	Ułan	subst:pl:voc:m3	geograficzna	człon n. wł.
-Ułan	Ułan	subst:sg:acc:m3	geograficzna	człon n. wł.
-Ułan	Ułan	subst:sg:dat:m3	geograficzna	człon n. wł.
-Ułan	Ułan	subst:sg:gen:m3	geograficzna	człon n. wł.
-Ułan	Ułan	subst:sg:inst:m3	geograficzna	człon n. wł.
-Ułan	Ułan	subst:sg:loc:m3	geograficzna	człon n. wł.
-Ułan	Ułan	subst:sg:nom:m3	geograficzna	człon n. wł.
-Ułan	Ułan	subst:sg:voc:m3	geograficzna	człon n. wł.
+Ułan	Ułan	subst:pl:acc:m3	geograficzna	człon_n._wł.
+Ułan	Ułan	subst:pl:dat:m3	geograficzna	człon_n._wł.
+Ułan	Ułan	subst:pl:gen:m3	geograficzna	człon_n._wł.
+Ułan	Ułan	subst:pl:inst:m3	geograficzna	człon_n._wł.
+Ułan	Ułan	subst:pl:loc:m3	geograficzna	człon_n._wł.
+Ułan	Ułan	subst:pl:nom:m3	geograficzna	człon_n._wł.
+Ułan	Ułan	subst:pl:voc:m3	geograficzna	człon_n._wł.
+Ułan	Ułan	subst:sg:acc:m3	geograficzna	człon_n._wł.
+Ułan	Ułan	subst:sg:dat:m3	geograficzna	człon_n._wł.
+Ułan	Ułan	subst:sg:gen:m3	geograficzna	człon_n._wł.
+Ułan	Ułan	subst:sg:inst:m3	geograficzna	człon_n._wł.
+Ułan	Ułan	subst:sg:loc:m3	geograficzna	człon_n._wł.
+Ułan	Ułan	subst:sg:nom:m3	geograficzna	człon_n._wł.
+Ułan	Ułan	subst:sg:voc:m3	geograficzna	człon_n._wł.
 Umbercie	Umberto	subst:sg:loc:m1	imię	
 Umbertach	Umberto	subst:pl:loc:m1	imię	
 Umbertami	Umberto	subst:pl:inst:m1	imię	
@@ -1019,7 +1019,7 @@ Uniejowie	Uniejów	subst:sg:voc:m3	geograficzna
 Uniejowom	Uniejów	subst:pl:dat:m3	geograficzna	
 Uniejowowi	Uniejów	subst:sg:dat:m3	geograficzna	
 Uniejowów	Uniejów	subst:pl:gen:m3	geograficzna	
-Uniejowu	Uniejów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Uniejowu	Uniejów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Uniejowy	Uniejów	subst:pl:acc:m3	geograficzna	
 Uniejowy	Uniejów	subst:pl:nom:m3	geograficzna	
 Uniejowy	Uniejów	subst:pl:voc:m3	geograficzna	
@@ -1820,7 +1820,7 @@ Ursynowie	Ursynów	subst:sg:voc:m3	geograficzna
 Ursynowom	Ursynów	subst:pl:dat:m3	geograficzna	
 Ursynowowi	Ursynów	subst:sg:dat:m3	geograficzna	
 Ursynowów	Ursynów	subst:pl:gen:m3	geograficzna	
-Ursynowu	Ursynów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Ursynowu	Ursynów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Ursynowy	Ursynów	subst:pl:acc:m3	geograficzna	
 Ursynowy	Ursynów	subst:pl:nom:m3	geograficzna	
 Ursynowy	Ursynów	subst:pl:voc:m3	geograficzna	
@@ -1933,7 +1933,7 @@ Urzędowie	Urzędów	subst:sg:voc:m3	geograficzna
 Urzędowom	Urzędów	subst:pl:dat:m3	geograficzna	
 Urzędowowi	Urzędów	subst:sg:dat:m3	geograficzna	
 Urzędowów	Urzędów	subst:pl:gen:m3	geograficzna	
-Urzędowu	Urzędów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Urzędowu	Urzędów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Urzędowy	Urzędów	subst:pl:acc:m3	geograficzna	
 Urzędowy	Urzędów	subst:pl:nom:m3	geograficzna	
 Urzędowy	Urzędów	subst:pl:voc:m3	geograficzna	
@@ -2102,7 +2102,7 @@ Uścimowie	Uścimów	subst:sg:voc:m3	geograficzna
 Uścimowom	Uścimów	subst:pl:dat:m3	geograficzna	
 Uścimowowi	Uścimów	subst:sg:dat:m3	geograficzna	
 Uścimowów	Uścimów	subst:pl:gen:m3	geograficzna	
-Uścimowu	Uścimów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Uścimowu	Uścimów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Uścimowy	Uścimów	subst:pl:acc:m3	geograficzna	
 Uścimowy	Uścimów	subst:pl:nom:m3	geograficzna	
 Uścimowy	Uścimów	subst:pl:voc:m3	geograficzna	

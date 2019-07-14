@@ -1,31 +1,59 @@
-SA.	SA.	subst:pl:acc:f	pospolita	
-SA.	SA.	subst:pl:acc:n2	pospolita	
-SA.	SA.	subst:pl:dat:f	pospolita	
-SA.	SA.	subst:pl:dat:n2	pospolita	
-SA.	SA.	subst:pl:gen:f	pospolita	
-SA.	SA.	subst:pl:gen:n2	pospolita	
-SA.	SA.	subst:pl:inst:f	pospolita	
-SA.	SA.	subst:pl:inst:n2	pospolita	
-SA.	SA.	subst:pl:loc:f	pospolita	
-SA.	SA.	subst:pl:loc:n2	pospolita	
-SA.	SA.	subst:pl:nom:f	pospolita	
-SA.	SA.	subst:pl:nom:n2	pospolita	
-SA.	SA.	subst:pl:voc:f	pospolita	
-SA.	SA.	subst:pl:voc:n2	pospolita	
-SA.	SA.	subst:sg:acc:f	pospolita	
-SA.	SA.	subst:sg:acc:n2	pospolita	
-SA.	SA.	subst:sg:dat:f	pospolita	
-SA.	SA.	subst:sg:dat:n2	pospolita	
-SA.	SA.	subst:sg:gen:f	pospolita	
-SA.	SA.	subst:sg:gen:n2	pospolita	
-SA.	SA.	subst:sg:inst:f	pospolita	
-SA.	SA.	subst:sg:inst:n2	pospolita	
-SA.	SA.	subst:sg:loc:f	pospolita	
-SA.	SA.	subst:sg:loc:n2	pospolita	
-SA.	SA.	subst:sg:nom:f	pospolita	
-SA.	SA.	subst:sg:nom:n2	pospolita	
-SA.	SA.	subst:sg:voc:f	pospolita	
-SA.	SA.	subst:sg:voc:n2	pospolita	
+SA	SA	subst:pl:acc:f	pospolita	
+SA	SA	subst:pl:acc:n2	pospolita	
+SA	SA	subst:pl:dat:f	pospolita	
+SA	SA	subst:pl:dat:n2	pospolita	
+SA	SA	subst:pl:gen:f	pospolita	
+SA	SA	subst:pl:gen:n2	pospolita	
+SA	SA	subst:pl:inst:f	pospolita	
+SA	SA	subst:pl:inst:n2	pospolita	
+SA	SA	subst:pl:loc:f	pospolita	
+SA	SA	subst:pl:loc:n2	pospolita	
+SA	SA	subst:pl:nom:f	pospolita	
+SA	SA	subst:pl:nom:n2	pospolita	
+SA	SA	subst:pl:voc:f	pospolita	
+SA	SA	subst:pl:voc:n2	pospolita	
+SA	SA	subst:sg:acc:f	pospolita	
+SA	SA	subst:sg:acc:n2	pospolita	
+SA	SA	subst:sg:dat:f	pospolita	
+SA	SA	subst:sg:dat:n2	pospolita	
+SA	SA	subst:sg:gen:f	pospolita	
+SA	SA	subst:sg:gen:n2	pospolita	
+SA	SA	subst:sg:inst:f	pospolita	
+SA	SA	subst:sg:inst:n2	pospolita	
+SA	SA	subst:sg:loc:f	pospolita	
+SA	SA	subst:sg:loc:n2	pospolita	
+SA	SA	subst:sg:nom:f	pospolita	
+SA	SA	subst:sg:nom:n2	pospolita	
+SA	SA	subst:sg:voc:f	pospolita	
+SA	SA	subst:sg:voc:n2	pospolita	
+S.A.	S.A.	subst:pl:acc:f	pospolita	
+S.A.	S.A.	subst:pl:acc:n2	pospolita	
+S.A.	S.A.	subst:pl:dat:f	pospolita	
+S.A.	S.A.	subst:pl:dat:n2	pospolita	
+S.A.	S.A.	subst:pl:gen:f	pospolita	
+S.A.	S.A.	subst:pl:gen:n2	pospolita	
+S.A.	S.A.	subst:pl:inst:f	pospolita	
+S.A.	S.A.	subst:pl:inst:n2	pospolita	
+S.A.	S.A.	subst:pl:loc:f	pospolita	
+S.A.	S.A.	subst:pl:loc:n2	pospolita	
+S.A.	S.A.	subst:pl:nom:f	pospolita	
+S.A.	S.A.	subst:pl:nom:n2	pospolita	
+S.A.	S.A.	subst:pl:voc:f	pospolita	
+S.A.	S.A.	subst:pl:voc:n2	pospolita	
+S.A.	S.A.	subst:sg:acc:f	pospolita	
+S.A.	S.A.	subst:sg:acc:n2	pospolita	
+S.A.	S.A.	subst:sg:dat:f	pospolita	
+S.A.	S.A.	subst:sg:dat:n2	pospolita	
+S.A.	S.A.	subst:sg:gen:f	pospolita	
+S.A.	S.A.	subst:sg:gen:n2	pospolita	
+S.A.	S.A.	subst:sg:inst:f	pospolita	
+S.A.	S.A.	subst:sg:inst:n2	pospolita	
+S.A.	S.A.	subst:sg:loc:f	pospolita	
+S.A.	S.A.	subst:sg:loc:n2	pospolita	
+S.A.	S.A.	subst:sg:nom:f	pospolita	
+S.A.	S.A.	subst:sg:nom:n2	pospolita	
+S.A.	S.A.	subst:sg:voc:f	pospolita	
+S.A.	S.A.	subst:sg:voc:n2	pospolita	
 SAA	SAA	subst:pl:acc:m3	firma	
 SAA	SAA	subst:pl:acc:n2	firma	
 SAA	SAA	subst:pl:dat:m3	firma	
@@ -1467,20 +1495,20 @@ Samuelków	Samuelek	subst:pl:gen:m1	imię
 Samuelku	Samuelek	subst:sg:loc:m1	imię	
 Samuelku	Samuelek	subst:sg:voc:m1	imię	
 San	San:b	burk		
-Sand	Sand	subst:pl:acc:f	pseudonim	człon n. wł.
-Sand	Sand	subst:pl:dat:f	pseudonim	człon n. wł.
-Sand	Sand	subst:pl:gen:f	pseudonim	człon n. wł.
-Sand	Sand	subst:pl:inst:f	pseudonim	człon n. wł.
-Sand	Sand	subst:pl:loc:f	pseudonim	człon n. wł.
-Sand	Sand	subst:pl:nom:f	pseudonim	człon n. wł.
-Sand	Sand	subst:pl:voc:f	pseudonim	człon n. wł.
-Sand	Sand	subst:sg:acc:f	pseudonim	człon n. wł.
-Sand	Sand	subst:sg:dat:f	pseudonim	człon n. wł.
-Sand	Sand	subst:sg:gen:f	pseudonim	człon n. wł.
-Sand	Sand	subst:sg:inst:f	pseudonim	człon n. wł.
-Sand	Sand	subst:sg:loc:f	pseudonim	człon n. wł.
-Sand	Sand	subst:sg:nom:f	pseudonim	człon n. wł.
-Sand	Sand	subst:sg:voc:f	pseudonim	człon n. wł.
+Sand	Sand	subst:pl:acc:f	pseudonim	człon_n._wł.
+Sand	Sand	subst:pl:dat:f	pseudonim	człon_n._wł.
+Sand	Sand	subst:pl:gen:f	pseudonim	człon_n._wł.
+Sand	Sand	subst:pl:inst:f	pseudonim	człon_n._wł.
+Sand	Sand	subst:pl:loc:f	pseudonim	człon_n._wł.
+Sand	Sand	subst:pl:nom:f	pseudonim	człon_n._wł.
+Sand	Sand	subst:pl:voc:f	pseudonim	człon_n._wł.
+Sand	Sand	subst:sg:acc:f	pseudonim	człon_n._wł.
+Sand	Sand	subst:sg:dat:f	pseudonim	człon_n._wł.
+Sand	Sand	subst:sg:gen:f	pseudonim	człon_n._wł.
+Sand	Sand	subst:sg:inst:f	pseudonim	człon_n._wł.
+Sand	Sand	subst:sg:loc:f	pseudonim	człon_n._wł.
+Sand	Sand	subst:sg:nom:f	pseudonim	człon_n._wł.
+Sand	Sand	subst:sg:voc:f	pseudonim	człon_n._wł.
 Sandauerach	Sandauer	subst:pl:loc:m1	nazwisko	
 Sandauerami	Sandauer	subst:pl:inst:m1	nazwisko	
 Sandauera	Sandauer	subst:sg:acc:m1	nazwisko	
@@ -2113,22 +2141,22 @@ Sartre’y	Sartre	depr:pl:nom:m2	nazwisko
 Sartre’y	Sartre	depr:pl:voc:m2	nazwisko	
 Sartrze	Sartre	subst:sg:loc:m1	nazwisko	
 Sartrze	Sartre	subst:sg:voc:m1	nazwisko	
-Sasach	Sas	subst:pl:loc:m1	członek rodu	
-Sasami	Sas	subst:pl:inst:m1	członek rodu	
-Sasa	Sas	subst:sg:acc:m1	członek rodu	
-Sasa	Sas	subst:sg:gen:m1	członek rodu	
-Sasem	Sas	subst:sg:inst:m1	członek rodu	
-Sasie	Sas	subst:sg:loc:m1	członek rodu	
-Sasie	Sas	subst:sg:voc:m1	członek rodu	
-Sasi	Sas	subst:pl:nom:m1	członek rodu	
-Sasi	Sas	subst:pl:voc:m1	członek rodu	
-Sasom	Sas	subst:pl:dat:m1	członek rodu	
-Sasowi	Sas	subst:sg:dat:m1	członek rodu	
-Sasów	Sas	subst:pl:acc:m1	członek rodu	
-Sasów	Sas	subst:pl:gen:m1	członek rodu	
-Sas	Sas	subst:sg:nom:m1	członek rodu	
-Sasy	Sas	depr:pl:nom:m2	członek rodu	
-Sasy	Sas	depr:pl:voc:m2	członek rodu	
+Sasach	Sas	subst:pl:loc:m1	członek_rodu	
+Sasami	Sas	subst:pl:inst:m1	członek_rodu	
+Sasa	Sas	subst:sg:acc:m1	członek_rodu	
+Sasa	Sas	subst:sg:gen:m1	członek_rodu	
+Sasem	Sas	subst:sg:inst:m1	członek_rodu	
+Sasie	Sas	subst:sg:loc:m1	członek_rodu	
+Sasie	Sas	subst:sg:voc:m1	członek_rodu	
+Sasi	Sas	subst:pl:nom:m1	członek_rodu	
+Sasi	Sas	subst:pl:voc:m1	członek_rodu	
+Sasom	Sas	subst:pl:dat:m1	członek_rodu	
+Sasowi	Sas	subst:sg:dat:m1	członek_rodu	
+Sasów	Sas	subst:pl:acc:m1	członek_rodu	
+Sasów	Sas	subst:pl:gen:m1	członek_rodu	
+Sas	Sas	subst:sg:nom:m1	członek_rodu	
+Sasy	Sas	depr:pl:nom:m2	członek_rodu	
+Sasy	Sas	depr:pl:voc:m2	członek_rodu	
 SAS-ach	SAS	subst:pl:loc:m3	firma	
 SAS-ami	SAS	subst:pl:inst:m3	firma	
 SAS-em	SAS	subst:sg:inst:m3	firma	
@@ -2381,21 +2409,21 @@ Sawułów	Sawuła	subst:pl:gen:m1	nazwisko
 Sawuły	Sawuła	depr:pl:nom:m2	nazwisko	
 Sawuły	Sawuła	depr:pl:voc:m2	nazwisko	
 Sawuły	Sawuła	subst:sg:gen:m1	nazwisko	
-Sączach	Sącz	subst:pl:loc:m3	geograficzna	człon n. wł.
-Sączami	Sącz	subst:pl:inst:m3	geograficzna	człon n. wł.
-Sącza	Sącz	subst:sg:gen:m3	geograficzna	człon n. wł.
-Sączem	Sącz	subst:sg:inst:m3	geograficzna	człon n. wł.
-Sącze	Sącz	subst:pl:acc:m3	geograficzna	człon n. wł.
-Sącze	Sącz	subst:pl:nom:m3	geograficzna	człon n. wł.
-Sącze	Sącz	subst:pl:voc:m3	geograficzna	człon n. wł.
-Sączom	Sącz	subst:pl:dat:m3	geograficzna	człon n. wł.
-Sączowi	Sącz	subst:sg:dat:m3	geograficzna	człon n. wł.
-Sączów	Sącz	subst:pl:gen:m3	geograficzna	człon n. wł.
-Sącz	Sącz	subst:sg:acc:m3	geograficzna	człon n. wł.
-Sącz	Sącz	subst:sg:nom:m3	geograficzna	człon n. wł.
-Sączu	Sącz	subst:sg:loc:m3	geograficzna	człon n. wł.
-Sączu	Sącz	subst:sg:voc:m3	geograficzna	człon n. wł.
-Sączy	Sącz	subst:pl:gen:m3	geograficzna	człon n. wł.
+Sączach	Sącz	subst:pl:loc:m3	geograficzna	człon_n._wł.
+Sączami	Sącz	subst:pl:inst:m3	geograficzna	człon_n._wł.
+Sącza	Sącz	subst:sg:gen:m3	geograficzna	człon_n._wł.
+Sączem	Sącz	subst:sg:inst:m3	geograficzna	człon_n._wł.
+Sącze	Sącz	subst:pl:acc:m3	geograficzna	człon_n._wł.
+Sącze	Sącz	subst:pl:nom:m3	geograficzna	człon_n._wł.
+Sącze	Sącz	subst:pl:voc:m3	geograficzna	człon_n._wł.
+Sączom	Sącz	subst:pl:dat:m3	geograficzna	człon_n._wł.
+Sączowi	Sącz	subst:sg:dat:m3	geograficzna	człon_n._wł.
+Sączów	Sącz	subst:pl:gen:m3	geograficzna	człon_n._wł.
+Sącz	Sącz	subst:sg:acc:m3	geograficzna	człon_n._wł.
+Sącz	Sącz	subst:sg:nom:m3	geograficzna	człon_n._wł.
+Sączu	Sącz	subst:sg:loc:m3	geograficzna	człon_n._wł.
+Sączu	Sącz	subst:sg:voc:m3	geograficzna	człon_n._wł.
+Sączy	Sącz	subst:pl:gen:m3	geograficzna	człon_n._wł.
 Sądecczyznach	Sądecczyzna	subst:pl:loc:f	geograficzna	
 Sądecczyznami	Sądecczyzna	subst:pl:inst:f	geograficzna	
 Sądecczyzna	Sądecczyzna	subst:sg:nom:f	geograficzna	
@@ -3944,7 +3972,7 @@ Sędziszowie	Sędziszów	subst:sg:voc:m3	geograficzna
 Sędziszowom	Sędziszów	subst:pl:dat:m3	geograficzna	
 Sędziszowowi	Sędziszów	subst:sg:dat:m3	geograficzna	
 Sędziszowów	Sędziszów	subst:pl:gen:m3	geograficzna	
-Sędziszowu	Sędziszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Sędziszowu	Sędziszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Sędziszowy	Sędziszów	subst:pl:acc:m3	geograficzna	
 Sędziszowy	Sędziszów	subst:pl:nom:m3	geograficzna	
 Sędziszowy	Sędziszów	subst:pl:voc:m3	geograficzna	
@@ -4348,7 +4376,7 @@ Sianowie	Sianów	subst:sg:voc:m3	geograficzna
 Sianowom	Sianów	subst:pl:dat:m3	geograficzna	
 Sianowowi	Sianów	subst:sg:dat:m3	geograficzna	
 Sianowów	Sianów	subst:pl:gen:m3	geograficzna	
-Sianowu	Sianów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Sianowu	Sianów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Sianowy	Sianów	subst:pl:acc:m3	geograficzna	
 Sianowy	Sianów	subst:pl:nom:m3	geograficzna	
 Sianowy	Sianów	subst:pl:voc:m3	geograficzna	
@@ -4456,7 +4484,7 @@ Sieciechowie	Sieciechów	subst:sg:voc:m3	geograficzna
 Sieciechowom	Sieciechów	subst:pl:dat:m3	geograficzna	
 Sieciechowowi	Sieciechów	subst:sg:dat:m3	geograficzna	
 Sieciechowów	Sieciechów	subst:pl:gen:m3	geograficzna	
-Sieciechowu	Sieciechów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Sieciechowu	Sieciechów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Sieciechowy	Sieciechów	subst:pl:acc:m3	geograficzna	
 Sieciechowy	Sieciechów	subst:pl:nom:m3	geograficzna	
 Sieciechowy	Sieciechów	subst:pl:voc:m3	geograficzna	
@@ -5034,7 +5062,7 @@ Sierakowie	Sieraków	subst:sg:voc:m3	geograficzna
 Sierakowom	Sieraków	subst:pl:dat:m3	geograficzna	
 Sierakowowi	Sieraków	subst:sg:dat:m3	geograficzna	
 Sierakowów	Sieraków	subst:pl:gen:m3	geograficzna	
-Sierakowu	Sieraków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Sierakowu	Sieraków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Sierakowy	Sieraków	subst:pl:acc:m3	geograficzna	
 Sierakowy	Sieraków	subst:pl:nom:m3	geograficzna	
 Sierakowy	Sieraków	subst:pl:voc:m3	geograficzna	
@@ -5918,7 +5946,7 @@ Skierbieszowie	Skierbieszów	subst:sg:voc:m3	geograficzna
 Skierbieszowom	Skierbieszów	subst:pl:dat:m3	geograficzna	
 Skierbieszowowi	Skierbieszów	subst:sg:dat:m3	geograficzna	
 Skierbieszowów	Skierbieszów	subst:pl:gen:m3	geograficzna	
-Skierbieszowu	Skierbieszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Skierbieszowu	Skierbieszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Skierbieszowy	Skierbieszów	subst:pl:acc:m3	geograficzna	
 Skierbieszowy	Skierbieszów	subst:pl:nom:m3	geograficzna	
 Skierbieszowy	Skierbieszów	subst:pl:voc:m3	geograficzna	
@@ -6021,7 +6049,7 @@ Skoczowie	Skoczów	subst:sg:voc:m3	geograficzna
 Skoczowom	Skoczów	subst:pl:dat:m3	geograficzna	
 Skoczowowi	Skoczów	subst:sg:dat:m3	geograficzna	
 Skoczowów	Skoczów	subst:pl:gen:m3	geograficzna	
-Skoczowu	Skoczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Skoczowu	Skoczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Skoczowy	Skoczów	subst:pl:acc:m3	geograficzna	
 Skoczowy	Skoczów	subst:pl:nom:m3	geograficzna	
 Skoczowy	Skoczów	subst:pl:voc:m3	geograficzna	
@@ -6392,7 +6420,7 @@ Skrzyszowie	Skrzyszów	subst:sg:voc:m3	geograficzna
 Skrzyszowom	Skrzyszów	subst:pl:dat:m3	geograficzna	
 Skrzyszowowi	Skrzyszów	subst:sg:dat:m3	geograficzna	
 Skrzyszowów	Skrzyszów	subst:pl:gen:m3	geograficzna	
-Skrzyszowu	Skrzyszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Skrzyszowu	Skrzyszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Skrzyszowy	Skrzyszów	subst:pl:acc:m3	geograficzna	
 Skrzyszowy	Skrzyszów	subst:pl:nom:m3	geograficzna	
 Skrzyszowy	Skrzyszów	subst:pl:voc:m3	geograficzna	
@@ -6608,7 +6636,7 @@ Słaboszowie	Słaboszów	subst:sg:voc:m3	geograficzna
 Słaboszowom	Słaboszów	subst:pl:dat:m3	geograficzna	
 Słaboszowowi	Słaboszów	subst:sg:dat:m3	geograficzna	
 Słaboszowów	Słaboszów	subst:pl:gen:m3	geograficzna	
-Słaboszowu	Słaboszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Słaboszowu	Słaboszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Słaboszowy	Słaboszów	subst:pl:acc:m3	geograficzna	
 Słaboszowy	Słaboszów	subst:pl:nom:m3	geograficzna	
 Słaboszowy	Słaboszów	subst:pl:voc:m3	geograficzna	
@@ -6793,7 +6821,7 @@ Sławkowie	Sławków	subst:sg:voc:m3	geograficzna
 Sławkowom	Sławków	subst:pl:dat:m3	geograficzna	
 Sławkowowi	Sławków	subst:sg:dat:m3	geograficzna	
 Sławkowów	Sławków	subst:pl:gen:m3	geograficzna	
-Sławkowu	Sławków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Sławkowu	Sławków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Sławkowy	Sławków	subst:pl:acc:m3	geograficzna	
 Sławkowy	Sławków	subst:pl:nom:m3	geograficzna	
 Sławkowy	Sławków	subst:pl:voc:m3	geograficzna	
@@ -8091,7 +8119,7 @@ Sobieszowie	Sobieszów	subst:sg:voc:m3	geograficzna
 Sobieszowom	Sobieszów	subst:pl:dat:m3	geograficzna	
 Sobieszowowi	Sobieszów	subst:sg:dat:m3	geograficzna	
 Sobieszowów	Sobieszów	subst:pl:gen:m3	geograficzna	
-Sobieszowu	Sobieszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Sobieszowu	Sobieszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Sobieszowy	Sobieszów	subst:pl:acc:m3	geograficzna	
 Sobieszowy	Sobieszów	subst:pl:nom:m3	geograficzna	
 Sobieszowy	Sobieszów	subst:pl:voc:m3	geograficzna	
@@ -8120,7 +8148,7 @@ Sobkowie	Sobków	subst:sg:voc:m3	geograficzna
 Sobkowom	Sobków	subst:pl:dat:m3	geograficzna	
 Sobkowowi	Sobków	subst:sg:dat:m3	geograficzna	
 Sobkowów	Sobków	subst:pl:gen:m3	geograficzna	
-Sobkowu	Sobków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Sobkowu	Sobków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Sobkowy	Sobków	subst:pl:acc:m3	geograficzna	
 Sobkowy	Sobków	subst:pl:nom:m3	geograficzna	
 Sobkowy	Sobków	subst:pl:voc:m3	geograficzna	
@@ -8380,20 +8408,20 @@ Sofroniuszów	Sofroniusz	subst:pl:gen:m1	imię
 Sofroniusz	Sofroniusz	subst:sg:nom:m1	imię	
 Sofroniuszu	Sofroniusz	subst:sg:loc:m1	imię	
 Sofroniuszu	Sofroniusz	subst:sg:voc:m1	imię	
-Sojuzach	Sojuz	subst:pl:loc:m2	środek lokomocji	
-Sojuzami	Sojuz	subst:pl:inst:m2	środek lokomocji	
-Sojuza	Sojuz	subst:sg:acc:m2	środek lokomocji	
-Sojuza	Sojuz	subst:sg:gen:m2	środek lokomocji	
-Sojuzem	Sojuz	subst:sg:inst:m2	środek lokomocji	
-Sojuzie	Sojuz	subst:sg:loc:m2	środek lokomocji	
-Sojuzie	Sojuz	subst:sg:voc:m2	środek lokomocji	
-Sojuzom	Sojuz	subst:pl:dat:m2	środek lokomocji	
-Sojuzowi	Sojuz	subst:sg:dat:m2	środek lokomocji	
-Sojuzów	Sojuz	subst:pl:gen:m2	środek lokomocji	
-Sojuz	Sojuz	subst:sg:nom:m2	środek lokomocji	
-Sojuzy	Sojuz	subst:pl:acc:m2	środek lokomocji	
-Sojuzy	Sojuz	subst:pl:nom:m2	środek lokomocji	
-Sojuzy	Sojuz	subst:pl:voc:m2	środek lokomocji	
+Sojuzach	Sojuz	subst:pl:loc:m2	środek_lokomocji	
+Sojuzami	Sojuz	subst:pl:inst:m2	środek_lokomocji	
+Sojuza	Sojuz	subst:sg:acc:m2	środek_lokomocji	
+Sojuza	Sojuz	subst:sg:gen:m2	środek_lokomocji	
+Sojuzem	Sojuz	subst:sg:inst:m2	środek_lokomocji	
+Sojuzie	Sojuz	subst:sg:loc:m2	środek_lokomocji	
+Sojuzie	Sojuz	subst:sg:voc:m2	środek_lokomocji	
+Sojuzom	Sojuz	subst:pl:dat:m2	środek_lokomocji	
+Sojuzowi	Sojuz	subst:sg:dat:m2	środek_lokomocji	
+Sojuzów	Sojuz	subst:pl:gen:m2	środek_lokomocji	
+Sojuz	Sojuz	subst:sg:nom:m2	środek_lokomocji	
+Sojuzy	Sojuz	subst:pl:acc:m2	środek_lokomocji	
+Sojuzy	Sojuz	subst:pl:nom:m2	środek_lokomocji	
+Sojuzy	Sojuz	subst:pl:voc:m2	środek_lokomocji	
 SOK-ach	SOK	subst:pl:loc:m3	organizacja	
 SOK-ami	SOK	subst:pl:inst:m3	organizacja	
 SOK-iem	SOK	subst:sg:inst:m3	organizacja	
@@ -8535,7 +8563,7 @@ Sokołowie	Sokołów	subst:sg:voc:m3	geograficzna
 Sokołowom	Sokołów	subst:pl:dat:m3	geograficzna	
 Sokołowowi	Sokołów	subst:sg:dat:m3	geograficzna	
 Sokołowów	Sokołów	subst:pl:gen:m3	geograficzna	
-Sokołowu	Sokołów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Sokołowu	Sokołów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Sokołowy	Sokołów	subst:pl:acc:m3	geograficzna	
 Sokołowy	Sokołów	subst:pl:nom:m3	geograficzna	
 Sokołowy	Sokołów	subst:pl:voc:m3	geograficzna	
@@ -10172,7 +10200,7 @@ Stanisławowie	Stanisławów	subst:sg:voc:m3	geograficzna
 Stanisławowom	Stanisławów	subst:pl:dat:m3	geograficzna	
 Stanisławowowi	Stanisławów	subst:sg:dat:m3	geograficzna	
 Stanisławowów	Stanisławów	subst:pl:gen:m3	geograficzna	
-Stanisławowu	Stanisławów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Stanisławowu	Stanisławów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Stanisławowy	Stanisławów	subst:pl:acc:m3	geograficzna	
 Stanisławowy	Stanisławów	subst:pl:nom:m3	geograficzna	
 Stanisławowy	Stanisławów	subst:pl:voc:m3	geograficzna	
@@ -10318,20 +10346,20 @@ Stanleyu	Stanley	subst:sg:loc:m1	imię
 Stanleyu	Stanley	subst:sg:loc:m1	nazwisko	
 Stanleyu	Stanley	subst:sg:voc:m1	imię	
 Stanleyu	Stanley	subst:sg:voc:m1	nazwisko	
-Stanach	Stany	subst:pl:loc:p2	geograficzna	człon n. wł.|rzad.|pot.
-Stanach	Stany	subst:pl:loc:p3	geograficzna	człon n. wł.|pot.
-Stanami	Stany	subst:pl:inst:p2	geograficzna	człon n. wł.|rzad.|pot.
-Stanami	Stany	subst:pl:inst:p3	geograficzna	człon n. wł.|pot.
-Stanom	Stany	subst:pl:dat:p2	geograficzna	człon n. wł.|rzad.|pot.
-Stanom	Stany	subst:pl:dat:p3	geograficzna	człon n. wł.|pot.
-Stanów	Stany	subst:pl:gen:p2	geograficzna	człon n. wł.|rzad.|pot.
-Stanów	Stany	subst:pl:gen:p3	geograficzna	człon n. wł.|pot.
-Stany	Stany	subst:pl:acc:p2	geograficzna	człon n. wł.|rzad.|pot.
-Stany	Stany	subst:pl:acc:p3	geograficzna	człon n. wł.|pot.
-Stany	Stany	subst:pl:nom:p2	geograficzna	człon n. wł.|rzad.|pot.
-Stany	Stany	subst:pl:nom:p3	geograficzna	człon n. wł.|pot.
-Stany	Stany	subst:pl:voc:p2	geograficzna	człon n. wł.|rzad.|pot.
-Stany	Stany	subst:pl:voc:p3	geograficzna	człon n. wł.|pot.
+Stanach	Stany	subst:pl:loc:p2	geograficzna	człon_n._wł.|rzad.|pot.
+Stanach	Stany	subst:pl:loc:p3	geograficzna	człon_n._wł.|pot.
+Stanami	Stany	subst:pl:inst:p2	geograficzna	człon_n._wł.|rzad.|pot.
+Stanami	Stany	subst:pl:inst:p3	geograficzna	człon_n._wł.|pot.
+Stanom	Stany	subst:pl:dat:p2	geograficzna	człon_n._wł.|rzad.|pot.
+Stanom	Stany	subst:pl:dat:p3	geograficzna	człon_n._wł.|pot.
+Stanów	Stany	subst:pl:gen:p2	geograficzna	człon_n._wł.|rzad.|pot.
+Stanów	Stany	subst:pl:gen:p3	geograficzna	człon_n._wł.|pot.
+Stany	Stany	subst:pl:acc:p2	geograficzna	człon_n._wł.|rzad.|pot.
+Stany	Stany	subst:pl:acc:p3	geograficzna	człon_n._wł.|pot.
+Stany	Stany	subst:pl:nom:p2	geograficzna	człon_n._wł.|rzad.|pot.
+Stany	Stany	subst:pl:nom:p3	geograficzna	człon_n._wł.|pot.
+Stany	Stany	subst:pl:voc:p2	geograficzna	człon_n._wł.|rzad.|pot.
+Stany	Stany	subst:pl:voc:p3	geograficzna	człon_n._wł.|pot.
 Stańczakach	Stańczak	subst:pl:loc:m1	nazwisko	
 Stańczakami	Stańczak	subst:pl:inst:m1	nazwisko	
 Stańczaka	Stańczak	subst:sg:acc:m1	nazwisko	
@@ -10764,7 +10792,7 @@ Staszowie	Staszów	subst:sg:voc:m3	geograficzna
 Staszowom	Staszów	subst:pl:dat:m3	geograficzna	
 Staszowowi	Staszów	subst:sg:dat:m3	geograficzna	
 Staszowów	Staszów	subst:pl:gen:m3	geograficzna	
-Staszowu	Staszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Staszowu	Staszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Staszowy	Staszów	subst:pl:acc:m3	geograficzna	
 Staszowy	Staszów	subst:pl:nom:m3	geograficzna	
 Staszowy	Staszów	subst:pl:voc:m3	geograficzna	
@@ -10977,7 +11005,7 @@ Stąporkowie	Stąporków	subst:sg:voc:m3	geograficzna
 Stąporkowom	Stąporków	subst:pl:dat:m3	geograficzna	
 Stąporkowowi	Stąporków	subst:sg:dat:m3	geograficzna	
 Stąporkowów	Stąporków	subst:pl:gen:m3	geograficzna	
-Stąporkowu	Stąporków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Stąporkowu	Stąporków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Stąporkowy	Stąporków	subst:pl:acc:m3	geograficzna	
 Stąporkowy	Stąporków	subst:pl:nom:m3	geograficzna	
 Stąporkowy	Stąporków	subst:pl:voc:m3	geograficzna	
@@ -12262,7 +12290,7 @@ Strykowie	Stryków	subst:sg:voc:m3	geograficzna
 Strykowom	Stryków	subst:pl:dat:m3	geograficzna	
 Strykowowi	Stryków	subst:sg:dat:m3	geograficzna	
 Strykowów	Stryków	subst:pl:gen:m3	geograficzna	
-Strykowu	Stryków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Strykowu	Stryków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Strykowy	Stryków	subst:pl:acc:m3	geograficzna	
 Strykowy	Stryków	subst:pl:nom:m3	geograficzna	
 Strykowy	Stryków	subst:pl:voc:m3	geograficzna	
@@ -12277,7 +12305,7 @@ Stryszowie	Stryszów	subst:sg:voc:m3	geograficzna
 Stryszowom	Stryszów	subst:pl:dat:m3	geograficzna	
 Stryszowowi	Stryszów	subst:sg:dat:m3	geograficzna	
 Stryszowów	Stryszów	subst:pl:gen:m3	geograficzna	
-Stryszowu	Stryszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Stryszowu	Stryszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Stryszowy	Stryszów	subst:pl:acc:m3	geograficzna	
 Stryszowy	Stryszów	subst:pl:nom:m3	geograficzna	
 Stryszowy	Stryszów	subst:pl:voc:m3	geograficzna	
@@ -12500,7 +12528,7 @@ Strzyżowie	Strzyżów	subst:sg:voc:m3	geograficzna
 Strzyżowom	Strzyżów	subst:pl:dat:m3	geograficzna	
 Strzyżowowi	Strzyżów	subst:sg:dat:m3	geograficzna	
 Strzyżowów	Strzyżów	subst:pl:gen:m3	geograficzna	
-Strzyżowu	Strzyżów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Strzyżowu	Strzyżów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Strzyżowy	Strzyżów	subst:pl:acc:m3	geograficzna	
 Strzyżowy	Strzyżów	subst:pl:nom:m3	geograficzna	
 Strzyżowy	Strzyżów	subst:pl:voc:m3	geograficzna	
@@ -12783,7 +12811,7 @@ Suchedniowie	Suchedniów	subst:sg:voc:m3	geograficzna
 Suchedniowom	Suchedniów	subst:pl:dat:m3	geograficzna	
 Suchedniowowi	Suchedniów	subst:sg:dat:m3	geograficzna	
 Suchedniowów	Suchedniów	subst:pl:gen:m3	geograficzna	
-Suchedniowu	Suchedniów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Suchedniowu	Suchedniów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Suchedniowy	Suchedniów	subst:pl:acc:m3	geograficzna	
 Suchedniowy	Suchedniów	subst:pl:nom:m3	geograficzna	
 Suchedniowy	Suchedniów	subst:pl:voc:m3	geograficzna	
@@ -13014,7 +13042,7 @@ Sulechowie	Sulechów	subst:sg:voc:m3	geograficzna
 Sulechowom	Sulechów	subst:pl:dat:m3	geograficzna	
 Sulechowowi	Sulechów	subst:sg:dat:m3	geograficzna	
 Sulechowów	Sulechów	subst:pl:gen:m3	geograficzna	
-Sulechowu	Sulechów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Sulechowu	Sulechów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Sulechowy	Sulechów	subst:pl:acc:m3	geograficzna	
 Sulechowy	Sulechów	subst:pl:nom:m3	geograficzna	
 Sulechowy	Sulechów	subst:pl:voc:m3	geograficzna	
@@ -13045,7 +13073,7 @@ Sulejowie	Sulejów	subst:sg:voc:m3	geograficzna
 Sulejowom	Sulejów	subst:pl:dat:m3	geograficzna	
 Sulejowowi	Sulejów	subst:sg:dat:m3	geograficzna	
 Sulejowów	Sulejów	subst:pl:gen:m3	geograficzna	
-Sulejowu	Sulejów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Sulejowu	Sulejów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Sulejowy	Sulejów	subst:pl:acc:m3	geograficzna	
 Sulejowy	Sulejów	subst:pl:nom:m3	geograficzna	
 Sulejowy	Sulejów	subst:pl:voc:m3	geograficzna	
@@ -13106,7 +13134,7 @@ Sulikowie	Sulików	subst:sg:voc:m3	geograficzna
 Sulikowom	Sulików	subst:pl:dat:m3	geograficzna	
 Sulikowowi	Sulików	subst:sg:dat:m3	geograficzna	
 Sulikowów	Sulików	subst:pl:gen:m3	geograficzna	
-Sulikowu	Sulików	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Sulikowu	Sulików	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Sulikowy	Sulików	subst:pl:acc:m3	geograficzna	
 Sulikowy	Sulików	subst:pl:nom:m3	geograficzna	
 Sulikowy	Sulików	subst:pl:voc:m3	geograficzna	
@@ -13313,7 +13341,7 @@ Sułowie	Sułów	subst:sg:voc:m3	geograficzna
 Sułowom	Sułów	subst:pl:dat:m3	geograficzna	
 Sułowowi	Sułów	subst:sg:dat:m3	geograficzna	
 Sułowów	Sułów	subst:pl:gen:m3	geograficzna	
-Sułowu	Sułów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Sułowu	Sułów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Sułowy	Sułów	subst:pl:acc:m3	geograficzna	
 Sułowy	Sułów	subst:pl:nom:m3	geograficzna	
 Sułowy	Sułów	subst:pl:voc:m3	geograficzna	
@@ -13843,7 +13871,7 @@ Sycowie	Syców	subst:sg:voc:m3	geograficzna
 Sycowom	Syców	subst:pl:dat:m3	geograficzna	
 Sycowowi	Syców	subst:sg:dat:m3	geograficzna	
 Sycowów	Syców	subst:pl:gen:m3	geograficzna	
-Sycowu	Syców	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Sycowu	Syców	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Sycowy	Syców	subst:pl:acc:m3	geograficzna	
 Sycowy	Syców	subst:pl:nom:m3	geograficzna	
 Sycowy	Syców	subst:pl:voc:m3	geograficzna	
@@ -15300,7 +15328,7 @@ Szczercowie	Szczerców	subst:sg:voc:m3	geograficzna
 Szczercowom	Szczerców	subst:pl:dat:m3	geograficzna	
 Szczercowowi	Szczerców	subst:sg:dat:m3	geograficzna	
 Szczercowów	Szczerców	subst:pl:gen:m3	geograficzna	
-Szczercowu	Szczerców	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Szczercowu	Szczerców	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Szczercowy	Szczerców	subst:pl:acc:m3	geograficzna	
 Szczercowy	Szczerców	subst:pl:nom:m3	geograficzna	
 Szczercowy	Szczerców	subst:pl:voc:m3	geograficzna	
@@ -15700,7 +15728,7 @@ Szelkowie	Szelków	subst:sg:voc:m3	geograficzna
 Szelkowom	Szelków	subst:pl:dat:m3	geograficzna	
 Szelkowowi	Szelków	subst:sg:dat:m3	geograficzna	
 Szelkowów	Szelków	subst:pl:gen:m3	geograficzna	
-Szelkowu	Szelków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Szelkowu	Szelków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Szelkowy	Szelków	subst:pl:acc:m3	geograficzna	
 Szelkowy	Szelków	subst:pl:nom:m3	geograficzna	
 Szelkowy	Szelków	subst:pl:voc:m3	geograficzna	
@@ -16769,7 +16797,7 @@ Szydłowie	Szydłów	subst:sg:voc:m3	geograficzna
 Szydłowom	Szydłów	subst:pl:dat:m3	geograficzna	
 Szydłowowi	Szydłów	subst:sg:dat:m3	geograficzna	
 Szydłowów	Szydłów	subst:pl:gen:m3	geograficzna	
-Szydłowu	Szydłów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Szydłowu	Szydłów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Szydłowy	Szydłów	subst:pl:acc:m3	geograficzna	
 Szydłowy	Szydłów	subst:pl:nom:m3	geograficzna	
 Szydłowy	Szydłów	subst:pl:voc:m3	geograficzna	

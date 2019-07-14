@@ -421,7 +421,7 @@ Dalikowie	Dalików	subst:sg:voc:m3	geograficzna
 Dalikowom	Dalików	subst:pl:dat:m3	geograficzna	
 Dalikowowi	Dalików	subst:sg:dat:m3	geograficzna	
 Dalikowów	Dalików	subst:pl:gen:m3	geograficzna	
-Dalikowu	Dalików	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Dalikowu	Dalików	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Dalikowy	Dalików	subst:pl:acc:m3	geograficzna	
 Dalikowy	Dalików	subst:pl:nom:m3	geograficzna	
 Dalikowy	Dalików	subst:pl:voc:m3	geograficzna	
@@ -2889,7 +2889,7 @@ Dłutowie	Dłutów	subst:sg:voc:m3	geograficzna
 Dłutowom	Dłutów	subst:pl:dat:m3	geograficzna	
 Dłutowowi	Dłutów	subst:sg:dat:m3	geograficzna	
 Dłutowów	Dłutów	subst:pl:gen:m3	geograficzna	
-Dłutowu	Dłutów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Dłutowu	Dłutów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Dłutowy	Dłutów	subst:pl:acc:m3	geograficzna	
 Dłutowy	Dłutów	subst:pl:nom:m3	geograficzna	
 Dłutowy	Dłutów	subst:pl:voc:m3	geograficzna	
@@ -3820,7 +3820,7 @@ Dołhobyczowie	Dołhobyczów	subst:sg:voc:m3	geograficzna
 Dołhobyczowom	Dołhobyczów	subst:pl:dat:m3	geograficzna	
 Dołhobyczowowi	Dołhobyczów	subst:sg:dat:m3	geograficzna	
 Dołhobyczowów	Dołhobyczów	subst:pl:gen:m3	geograficzna	
-Dołhobyczowu	Dołhobyczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Dołhobyczowu	Dołhobyczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Dołhobyczowy	Dołhobyczów	subst:pl:acc:m3	geograficzna	
 Dołhobyczowy	Dołhobyczów	subst:pl:nom:m3	geograficzna	
 Dołhobyczowy	Dołhobyczów	subst:pl:voc:m3	geograficzna	
@@ -3913,7 +3913,7 @@ Domaniowie	Domaniów	subst:sg:voc:m3	geograficzna
 Domaniowom	Domaniów	subst:pl:dat:m3	geograficzna	
 Domaniowowi	Domaniów	subst:sg:dat:m3	geograficzna	
 Domaniowów	Domaniów	subst:pl:gen:m3	geograficzna	
-Domaniowu	Domaniów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Domaniowu	Domaniów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Domaniowy	Domaniów	subst:pl:acc:m3	geograficzna	
 Domaniowy	Domaniów	subst:pl:nom:m3	geograficzna	
 Domaniowy	Domaniów	subst:pl:voc:m3	geograficzna	
@@ -4706,7 +4706,7 @@ Doruchowie	Doruchów	subst:sg:voc:m3	geograficzna
 Doruchowom	Doruchów	subst:pl:dat:m3	geograficzna	
 Doruchowowi	Doruchów	subst:sg:dat:m3	geograficzna	
 Doruchowów	Doruchów	subst:pl:gen:m3	geograficzna	
-Doruchowu	Doruchów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Doruchowu	Doruchów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Doruchowy	Doruchów	subst:pl:acc:m3	geograficzna	
 Doruchowy	Doruchów	subst:pl:nom:m3	geograficzna	
 Doruchowy	Doruchów	subst:pl:voc:m3	geograficzna	
@@ -4982,7 +4982,7 @@ Drelowie	Drelów	subst:sg:voc:m3	geograficzna
 Drelowom	Drelów	subst:pl:dat:m3	geograficzna	
 Drelowowi	Drelów	subst:sg:dat:m3	geograficzna	
 Drelowów	Drelów	subst:pl:gen:m3	geograficzna	
-Drelowu	Drelów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Drelowu	Drelów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Drelowy	Drelów	subst:pl:acc:m3	geograficzna	
 Drelowy	Drelów	subst:pl:nom:m3	geograficzna	
 Drelowy	Drelów	subst:pl:voc:m3	geograficzna	
@@ -6433,7 +6433,7 @@ Dynowie	Dynów	subst:sg:voc:m3	geograficzna
 Dynowom	Dynów	subst:pl:dat:m3	geograficzna	
 Dynowowi	Dynów	subst:sg:dat:m3	geograficzna	
 Dynowów	Dynów	subst:pl:gen:m3	geograficzna	
-Dynowu	Dynów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Dynowu	Dynów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Dynowy	Dynów	subst:pl:acc:m3	geograficzna	
 Dynowy	Dynów	subst:pl:nom:m3	geograficzna	
 Dynowy	Dynów	subst:pl:voc:m3	geograficzna	
@@ -6725,7 +6725,7 @@ Dzierżoniowie	Dzierżoniów	subst:sg:voc:m3	geograficzna
 Dzierżoniowom	Dzierżoniów	subst:pl:dat:m3	geograficzna	
 Dzierżoniowowi	Dzierżoniów	subst:sg:dat:m3	geograficzna	
 Dzierżoniowów	Dzierżoniów	subst:pl:gen:m3	geograficzna	
-Dzierżoniowu	Dzierżoniów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Dzierżoniowu	Dzierżoniów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Dzierżoniowy	Dzierżoniów	subst:pl:acc:m3	geograficzna	
 Dzierżoniowy	Dzierżoniów	subst:pl:nom:m3	geograficzna	
 Dzierżoniowy	Dzierżoniów	subst:pl:voc:m3	geograficzna	
@@ -7003,7 +7003,7 @@ Dzikowie	Dzików	subst:sg:voc:m3	geograficzna
 Dzikowom	Dzików	subst:pl:dat:m3	geograficzna	
 Dzikowowi	Dzików	subst:sg:dat:m3	geograficzna	
 Dzikowów	Dzików	subst:pl:gen:m3	geograficzna	
-Dzikowu	Dzików	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Dzikowu	Dzików	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Dzikowy	Dzików	subst:pl:acc:m3	geograficzna	
 Dzikowy	Dzików	subst:pl:nom:m3	geograficzna	
 Dzikowy	Dzików	subst:pl:voc:m3	geograficzna	
@@ -7096,7 +7096,7 @@ Dziwnowie	Dziwnów	subst:sg:voc:m3	geograficzna
 Dziwnowom	Dziwnów	subst:pl:dat:m3	geograficzna	
 Dziwnowowi	Dziwnów	subst:sg:dat:m3	geograficzna	
 Dziwnowów	Dziwnów	subst:pl:gen:m3	geograficzna	
-Dziwnowu	Dziwnów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Dziwnowu	Dziwnów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Dziwnowy	Dziwnów	subst:pl:acc:m3	geograficzna	
 Dziwnowy	Dziwnów	subst:pl:nom:m3	geograficzna	
 Dziwnowy	Dziwnów	subst:pl:voc:m3	geograficzna	

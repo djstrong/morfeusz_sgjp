@@ -3,23 +3,63 @@
 śmy	być	aglt:pl:pri:imperf:nwok		
 śnie	sen:s1	subst:sg:loc:m3	pospolita	
 śnie	sen:s1	subst:sg:voc:m3	pospolita	
-śląca	słać:v1	pact:sg:nom.voc:f:imperf:aff		
-ślącą	słać:v1	pact:sg:acc.inst:f:imperf:aff		
-ślącego	słać:v1	pact:sg:acc:m1.m2:imperf:aff		
-ślącego	słać:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-ślącej	słać:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-ślącemu	słać:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-ślące	słać:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-ślące	słać:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+śląca	słać:v	pact:sg:nom.voc:f:imperf:aff		
+ślącą	słać:v	pact:sg:acc.inst:f:imperf:aff		
+ślącego	słać:v	pact:sg:acc:m1.m2:imperf:aff		
+ślącego	słać:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+ślącej	słać:v	pact:sg:gen.dat.loc:f:imperf:aff		
+ślącemu	słać:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ślące	słać:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+ślące	słać:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+ślących	słać:v	pact:pl:acc:m1.p1:imperf:aff		
+ślących	słać:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ślącymi	słać:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ślącym	słać:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ślącym	słać:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+ślący	słać:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+ślący	słać:v	pact:sg:acc:m3:imperf:aff		
+ślący	słać:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+ścieląca	słać:v	pact:sg:nom.voc:f:imperf:aff		
+ścielącą	słać:v	pact:sg:acc.inst:f:imperf:aff		
+ścielącego	słać:v	pact:sg:acc:m1.m2:imperf:aff		
+ścielącego	słać:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+ścielącej	słać:v	pact:sg:gen.dat.loc:f:imperf:aff		
+ścielącemu	słać:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ścielące	słać:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+ścielące	słać:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścielących	słać:v	pact:pl:acc:m1.p1:imperf:aff		
+ścielących	słać:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścielącymi	słać:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścielącym	słać:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścielącym	słać:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+ścielący	słać:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+ścielący	słać:v	pact:sg:acc:m3:imperf:aff		
+ścielący	słać:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+ścieleniami	słać:v	ger:pl:inst:n2:imperf:aff		
+ścielenia	słać:v	ger:pl:nom.acc:n2:imperf:aff		
+ścielenia	słać:v	ger:sg:gen:n2:imperf:aff		
+ścieleniem	słać:v	ger:sg:inst:n2:imperf:aff		
+ścielenie	słać:v	ger:sg:nom.acc:n2:imperf:aff		
+ścieleniom	słać:v	ger:pl:dat.loc:n2:imperf:aff		
+ścieleni	słać:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+ścieleniu	słać:v	ger:sg:dat.loc:n2:imperf:aff		
+ścieleń	słać:v	ger:pl:gen:n2:imperf:aff		
+ścielona	słać:v	ppas:sg:nom.voc:f:imperf:aff		
+ścieloną	słać:v	ppas:sg:acc.inst:f:imperf:aff		
+ścielonego	słać:v	ppas:sg:acc:m1.m2:imperf:aff		
+ścielonego	słać:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+ścielonej	słać:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+ścielonemu	słać:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ścielone	słać:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+ścielone	słać:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścielonych	słać:v	ppas:pl:acc:m1.p1:imperf:aff		
+ścielonych	słać:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścielonymi	słać:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścielonym	słać:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścielonym	słać:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+ścielony	słać:v	ppas:sg:acc:m3:imperf:aff		
+ścielony	słać:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
 śląc	słać:v1	pcon:imperf		
-ślących	słać:v1	pact:pl:acc:m1.p1:imperf:aff		
-ślących	słać:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ślącymi	słać:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ślącym	słać:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ślącym	słać:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-ślący	słać:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-ślący	słać:v1	pact:sg:acc:m3:imperf:aff		
-ślący	słać:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 ślą	słać:v1	fin:pl:ter:imperf		
 ślecie	słać:v1	fin:pl:sec:imperf		
 ślemy	słać:v1	fin:pl:pri:imperf		
@@ -29,56 +69,16 @@
 ślijcie	słać:v1	impt:pl:sec:imperf		
 ślijmy	słać:v1	impt:pl:pri:imperf		
 ślij	słać:v1	impt:sg:sec:imperf		
-ścieląca	słać:v2	pact:sg:nom.voc:f:imperf:aff		
-ścielącą	słać:v2	pact:sg:acc.inst:f:imperf:aff		
-ścielącego	słać:v2	pact:sg:acc:m1.m2:imperf:aff		
-ścielącego	słać:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-ścielącej	słać:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-ścielącemu	słać:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-ścielące	słać:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-ścielące	słać:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
 ścieląc	słać:v2	pcon:imperf		
-ścielących	słać:v2	pact:pl:acc:m1.p1:imperf:aff		
-ścielących	słać:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścielącymi	słać:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścielącym	słać:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścielącym	słać:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-ścielący	słać:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-ścielący	słać:v2	pact:sg:acc:m3:imperf:aff		
-ścielący	słać:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 ścielą	słać:v2	fin:pl:ter:imperf		
 ścielcie	słać:v2	impt:pl:sec:imperf		
 ścielecie	słać:v2	fin:pl:sec:imperf		
 ścielemy	słać:v2	fin:pl:pri:imperf		
-ścieleniami	słać:v2	ger:pl:inst:n2:imperf:aff		
-ścielenia	słać:v2	ger:pl:nom.acc:n2:imperf:aff		
-ścielenia	słać:v2	ger:sg:gen:n2:imperf:aff		
-ścieleniem	słać:v2	ger:sg:inst:n2:imperf:aff		
-ścielenie	słać:v2	ger:sg:nom.acc:n2:imperf:aff		
-ścieleniom	słać:v2	ger:pl:dat.loc:n2:imperf:aff		
-ścieleni	słać:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ścieleniu	słać:v2	ger:sg:dat.loc:n2:imperf:aff		
-ścieleń	słać:v2	ger:pl:gen:n2:imperf:aff		
 ściele	słać:v2	fin:sg:ter:imperf		
 ścielesz	słać:v2	fin:sg:sec:imperf		
 ścielę	słać:v2	fin:sg:pri:imperf		
 ścielmy	słać:v2	impt:pl:pri:imperf		
-ścielona	słać:v2	ppas:sg:nom.voc:f:imperf:aff		
-ścieloną	słać:v2	ppas:sg:acc.inst:f:imperf:aff		
-ścielonego	słać:v2	ppas:sg:acc:m1.m2:imperf:aff		
-ścielonego	słać:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-ścielonej	słać:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-ścielonemu	słać:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-ścielone	słać:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-ścielone	słać:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 ścielono	słać:v2	imps:imperf		
-ścielonych	słać:v2	ppas:pl:acc:m1.p1:imperf:aff		
-ścielonych	słać:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścielonymi	słać:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścielonym	słać:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścielonym	słać:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-ścielony	słać:v2	ppas:sg:acc:m3:imperf:aff		
-ścielony	słać:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
 ściel	słać:v2	impt:sg:sec:imperf		
 śniecie	snąć	fin:pl:sec:imperf		
 śniemy	snąć	fin:pl:pri:imperf		
@@ -588,34 +588,34 @@
 ściągający	ściągający	adj:pl:nom.voc:m1.p1:pos		
 ściągający	ściągający	adj:sg:acc:m3:pos		
 ściągający	ściągający	adj:sg:nom.voc:m1.m2.m3:pos		
-ściągalnościach	ściągalność:s1	subst:pl:loc:f	pospolita	
-ściągalnościami	ściągalność:s1	subst:pl:inst:f	pospolita	
-ściągalnością	ściągalność:s1	subst:sg:inst:f	pospolita	
-ściągalnościom	ściągalność:s1	subst:pl:dat:f	pospolita	
-ściągalności	ściągalność:s1	subst:pl:acc:f	pospolita	
-ściągalności	ściągalność:s1	subst:pl:gen:f	pospolita	
-ściągalności	ściągalność:s1	subst:pl:nom:f	pospolita	
-ściągalności	ściągalność:s1	subst:pl:voc:f	pospolita	
-ściągalności	ściągalność:s1	subst:sg:dat:f	pospolita	
-ściągalności	ściągalność:s1	subst:sg:gen:f	pospolita	
-ściągalności	ściągalność:s1	subst:sg:loc:f	pospolita	
-ściągalności	ściągalność:s1	subst:sg:voc:f	pospolita	
-ściągalność	ściągalność:s1	subst:sg:acc:f	pospolita	
-ściągalność	ściągalność:s1	subst:sg:nom:f	pospolita	
-ściągalnościach	ściągalność:s2	subst:pl:loc:f		
-ściągalnościami	ściągalność:s2	subst:pl:inst:f		
-ściągalnością	ściągalność:s2	subst:sg:inst:f		
-ściągalnościom	ściągalność:s2	subst:pl:dat:f		
-ściągalności	ściągalność:s2	subst:pl:acc:f		
-ściągalności	ściągalność:s2	subst:pl:gen:f		
-ściągalności	ściągalność:s2	subst:pl:nom:f		
-ściągalności	ściągalność:s2	subst:pl:voc:f		
-ściągalności	ściągalność:s2	subst:sg:dat:f		
-ściągalności	ściągalność:s2	subst:sg:gen:f		
-ściągalności	ściągalność:s2	subst:sg:loc:f		
-ściągalności	ściągalność:s2	subst:sg:voc:f		
-ściągalność	ściągalność:s2	subst:sg:acc:f		
-ściągalność	ściągalność:s2	subst:sg:nom:f		
+ściągalnościach	ściągalność:s	subst:pl:loc:f	pospolita	
+ściągalnościami	ściągalność:s	subst:pl:inst:f	pospolita	
+ściągalnością	ściągalność:s	subst:sg:inst:f	pospolita	
+ściągalnościom	ściągalność:s	subst:pl:dat:f	pospolita	
+ściągalności	ściągalność:s	subst:pl:acc:f	pospolita	
+ściągalności	ściągalność:s	subst:pl:gen:f	pospolita	
+ściągalności	ściągalność:s	subst:pl:nom:f	pospolita	
+ściągalności	ściągalność:s	subst:pl:voc:f	pospolita	
+ściągalności	ściągalność:s	subst:sg:dat:f	pospolita	
+ściągalności	ściągalność:s	subst:sg:gen:f	pospolita	
+ściągalności	ściągalność:s	subst:sg:loc:f	pospolita	
+ściągalności	ściągalność:s	subst:sg:voc:f	pospolita	
+ściągalność	ściągalność:s	subst:sg:acc:f	pospolita	
+ściągalność	ściągalność:s	subst:sg:nom:f	pospolita	
+ściągalnościach	ściągalność:s	subst:pl:loc:f		
+ściągalnościami	ściągalność:s	subst:pl:inst:f		
+ściągalnością	ściągalność:s	subst:sg:inst:f		
+ściągalnościom	ściągalność:s	subst:pl:dat:f		
+ściągalności	ściągalność:s	subst:pl:acc:f		
+ściągalności	ściągalność:s	subst:pl:gen:f		
+ściągalności	ściągalność:s	subst:pl:nom:f		
+ściągalności	ściągalność:s	subst:pl:voc:f		
+ściągalności	ściągalność:s	subst:sg:dat:f		
+ściągalności	ściągalność:s	subst:sg:gen:f		
+ściągalności	ściągalność:s	subst:sg:loc:f		
+ściągalności	ściągalność:s	subst:sg:voc:f		
+ściągalność	ściągalność:s	subst:sg:acc:f		
+ściągalność	ściągalność:s	subst:sg:nom:f		
 ściągalna	ściągalny	adj:sg:nom.voc:f:pos		
 ściągalną	ściągalny	adj:sg:acc:f:pos		
 ściągalną	ściągalny	adj:sg:inst:f:pos		
@@ -1673,34 +1673,73 @@
 ścielań	ścielać	ger:pl:gen:n2:imperf:aff		
 ścielasz	ścielać	fin:sg:sec:imperf		rzad.
 ściela	ścielać	fin:sg:ter:imperf		rzad.
-ścieląca	ścielić:v1	pact:sg:nom.voc:f:imperf:aff		
-ścielącą	ścielić:v1	pact:sg:acc.inst:f:imperf:aff		
-ścielącego	ścielić:v1	pact:sg:acc:m1.m2:imperf:aff		
-ścielącego	ścielić:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-ścielącej	ścielić:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-ścielącemu	ścielić:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-ścielące	ścielić:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-ścielące	ścielić:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścieląca	ścielić:v	pact:sg:nom.voc:f:imperf:aff		
+ścielącą	ścielić:v	pact:sg:acc.inst:f:imperf:aff		
+ścielącego	ścielić:v	pact:sg:acc:m1.m2:imperf:aff		
+ścielącego	ścielić:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+ścielącej	ścielić:v	pact:sg:gen.dat.loc:f:imperf:aff		
+ścielącemu	ścielić:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ścielące	ścielić:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+ścielące	ścielić:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścielących	ścielić:v	pact:pl:acc:m1.p1:imperf:aff		
+ścielących	ścielić:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścielącymi	ścielić:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścielącym	ścielić:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścielącym	ścielić:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+ścielący	ścielić:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+ścielący	ścielić:v	pact:sg:acc:m3:imperf:aff		
+ścielący	ścielić:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+ścieleniami	ścielić:v	ger:pl:inst:n2:imperf:aff		
+ścielenia	ścielić:v	ger:pl:nom.acc:n2:imperf:aff		
+ścielenia	ścielić:v	ger:sg:gen:n2:imperf:aff		
+ścieleniem	ścielić:v	ger:sg:inst:n2:imperf:aff		
+ścielenie	ścielić:v	ger:sg:nom.acc:n2:imperf:aff		
+ścieleniom	ścielić:v	ger:pl:dat.loc:n2:imperf:aff		
+ścieleni	ścielić:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+ścieleniu	ścielić:v	ger:sg:dat.loc:n2:imperf:aff		
+ścieleń	ścielić:v	ger:pl:gen:n2:imperf:aff		
+ścielona	ścielić:v	ppas:sg:nom.voc:f:imperf:aff		
+ścieloną	ścielić:v	ppas:sg:acc.inst:f:imperf:aff		
+ścielonego	ścielić:v	ppas:sg:acc:m1.m2:imperf:aff		
+ścielonego	ścielić:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+ścielonej	ścielić:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+ścielonemu	ścielić:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ścielone	ścielić:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+ścielone	ścielić:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścielonych	ścielić:v	ppas:pl:acc:m1.p1:imperf:aff		
+ścielonych	ścielić:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścielonymi	ścielić:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścielonym	ścielić:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścielonym	ścielić:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+ścielony	ścielić:v	ppas:sg:acc:m3:imperf:aff		
+ścielony	ścielić:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+ścieleniami	ścielić:v	ger:pl:inst:n2:perf:aff		
+ścielenia	ścielić:v	ger:pl:nom.acc:n2:perf:aff		
+ścielenia	ścielić:v	ger:sg:gen:n2:perf:aff		
+ścieleniem	ścielić:v	ger:sg:inst:n2:perf:aff		
+ścielenie	ścielić:v	ger:sg:nom.acc:n2:perf:aff		
+ścieleniom	ścielić:v	ger:pl:dat.loc:n2:perf:aff		
+ścieleni	ścielić:v	ppas:pl:nom.voc:m1.p1:perf:aff		
+ścieleniu	ścielić:v	ger:sg:dat.loc:n2:perf:aff		
+ścieleń	ścielić:v	ger:pl:gen:n2:perf:aff		
+ścielona	ścielić:v	ppas:sg:nom.voc:f:perf:aff		
+ścieloną	ścielić:v	ppas:sg:acc.inst:f:perf:aff		
+ścielonego	ścielić:v	ppas:sg:acc:m1.m2:perf:aff		
+ścielonego	ścielić:v	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+ścielonej	ścielić:v	ppas:sg:gen.dat.loc:f:perf:aff		
+ścielonemu	ścielić:v	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+ścielone	ścielić:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+ścielone	ścielić:v	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+ścielonych	ścielić:v	ppas:pl:acc:m1.p1:perf:aff		
+ścielonych	ścielić:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+ścielonymi	ścielić:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+ścielonym	ścielić:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+ścielonym	ścielić:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+ścielony	ścielić:v	ppas:sg:acc:m3:perf:aff		
+ścielony	ścielić:v	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
 ścieląc	ścielić:v1	pcon:imperf		
-ścielących	ścielić:v1	pact:pl:acc:m1.p1:imperf:aff		
-ścielących	ścielić:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścielącymi	ścielić:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścielącym	ścielić:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścielącym	ścielić:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-ścielący	ścielić:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-ścielący	ścielić:v1	pact:sg:acc:m3:imperf:aff		
-ścielący	ścielić:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 ścielą	ścielić:v1	fin:pl:ter:imperf		
 ścielcie	ścielić:v1	impt:pl:sec:imperf		
-ścieleniami	ścielić:v1	ger:pl:inst:n2:imperf:aff		
-ścielenia	ścielić:v1	ger:pl:nom.acc:n2:imperf:aff		
-ścielenia	ścielić:v1	ger:sg:gen:n2:imperf:aff		
-ścieleniem	ścielić:v1	ger:sg:inst:n2:imperf:aff		
-ścielenie	ścielić:v1	ger:sg:nom.acc:n2:imperf:aff		
-ścieleniom	ścielić:v1	ger:pl:dat.loc:n2:imperf:aff		
-ścieleni	ścielić:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ścieleniu	ścielić:v1	ger:sg:dat.loc:n2:imperf:aff		
-ścieleń	ścielić:v1	ger:pl:gen:n2:imperf:aff		
 ścielę	ścielić:v1	fin:sg:pri:imperf		
 ścielicie	ścielić:v1	fin:pl:sec:imperf		
 ścielić	ścielić:v1	inf:imperf		
@@ -1743,34 +1782,10 @@
 ścielisz	ścielić:v1	fin:sg:sec:imperf		
 ścieli	ścielić:v1	fin:sg:ter:imperf		
 ścielmy	ścielić:v1	impt:pl:pri:imperf		
-ścielona	ścielić:v1	ppas:sg:nom.voc:f:imperf:aff		
-ścieloną	ścielić:v1	ppas:sg:acc.inst:f:imperf:aff		
-ścielonego	ścielić:v1	ppas:sg:acc:m1.m2:imperf:aff		
-ścielonego	ścielić:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-ścielonej	ścielić:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
-ścielonemu	ścielić:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-ścielone	ścielić:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-ścielone	ścielić:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
 ścielono	ścielić:v1	imps:imperf		
-ścielonych	ścielić:v1	ppas:pl:acc:m1.p1:imperf:aff		
-ścielonych	ścielić:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścielonymi	ścielić:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścielonym	ścielić:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścielonym	ścielić:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-ścielony	ścielić:v1	ppas:sg:acc:m3:imperf:aff		
-ścielony	ścielić:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
 ściel	ścielić:v1	impt:sg:sec:imperf		
 ścielą	ścielić:v2	fin:pl:ter:perf		rzad.
 ścielcie	ścielić:v2	impt:pl:sec:perf		rzad.
-ścieleniami	ścielić:v2	ger:pl:inst:n2:perf:aff		
-ścielenia	ścielić:v2	ger:pl:nom.acc:n2:perf:aff		
-ścielenia	ścielić:v2	ger:sg:gen:n2:perf:aff		
-ścieleniem	ścielić:v2	ger:sg:inst:n2:perf:aff		
-ścielenie	ścielić:v2	ger:sg:nom.acc:n2:perf:aff		
-ścieleniom	ścielić:v2	ger:pl:dat.loc:n2:perf:aff		
-ścieleni	ścielić:v2	ppas:pl:nom.voc:m1.p1:perf:aff		
-ścieleniu	ścielić:v2	ger:sg:dat.loc:n2:perf:aff		
-ścieleń	ścielić:v2	ger:pl:gen:n2:perf:aff		
 ścielę	ścielić:v2	fin:sg:pri:perf		rzad.
 ścielicie	ścielić:v2	fin:pl:sec:perf		rzad.
 ścielić	ścielić:v2	inf:perf		rzad.
@@ -1814,22 +1829,7 @@
 ścieli	ścielić:v2	fin:sg:ter:perf		rzad.
 ścieliwszy	ścielić:v2	pant:perf		rzad.
 ścielmy	ścielić:v2	impt:pl:pri:perf		rzad.
-ścielona	ścielić:v2	ppas:sg:nom.voc:f:perf:aff		
-ścieloną	ścielić:v2	ppas:sg:acc.inst:f:perf:aff		
-ścielonego	ścielić:v2	ppas:sg:acc:m1.m2:perf:aff		
-ścielonego	ścielić:v2	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
-ścielonej	ścielić:v2	ppas:sg:gen.dat.loc:f:perf:aff		
-ścielonemu	ścielić:v2	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
-ścielone	ścielić:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
-ścielone	ścielić:v2	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
 ścielono	ścielić:v2	imps:perf		rzad.
-ścielonych	ścielić:v2	ppas:pl:acc:m1.p1:perf:aff		
-ścielonych	ścielić:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
-ścielonymi	ścielić:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
-ścielonym	ścielić:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
-ścielonym	ścielić:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
-ścielony	ścielić:v2	ppas:sg:acc:m3:perf:aff		
-ścielony	ścielić:v2	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
 ściel	ścielić:v2	impt:sg:sec:perf		rzad.
 ścieliskach	ścielisko	subst:pl:loc:n2	pospolita	
 ścieliskami	ścielisko	subst:pl:inst:n2	pospolita	
@@ -2156,25 +2156,89 @@
 ściemnieniom	ściemnieć	ger:pl:dat.loc:n2:perf:aff		
 ściemnieniu	ściemnieć	ger:sg:dat.loc:n2:perf:aff		
 ściemnień	ściemnieć	ger:pl:gen:n2:perf:aff		
+ścieniająca	ścieniać:v	pact:sg:nom.voc:f:imperf:aff		
+ścieniającą	ścieniać:v	pact:sg:acc.inst:f:imperf:aff		
+ścieniającego	ścieniać:v	pact:sg:acc:m1.m2:imperf:aff		
+ścieniającego	ścieniać:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+ścieniającej	ścieniać:v	pact:sg:gen.dat.loc:f:imperf:aff		
+ścieniającemu	ścieniać:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ścieniające	ścieniać:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+ścieniające	ścieniać:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścieniających	ścieniać:v	pact:pl:acc:m1.p1:imperf:aff		
+ścieniających	ścieniać:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścieniającymi	ścieniać:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścieniającym	ścieniać:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścieniającym	ścieniać:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+ścieniający	ścieniać:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+ścieniający	ścieniać:v	pact:sg:acc:m3:imperf:aff		
+ścieniający	ścieniać:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+ścieniana	ścieniać:v	ppas:sg:nom.voc:f:imperf:aff		
+ścienianą	ścieniać:v	ppas:sg:acc.inst:f:imperf:aff		
+ścienianego	ścieniać:v	ppas:sg:acc:m1.m2:imperf:aff		
+ścienianego	ścieniać:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+ścienianej	ścieniać:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+ścienianemu	ścieniać:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ścieniane	ścieniać:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+ścieniane	ścieniać:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścienianiami	ścieniać:v	ger:pl:inst:n2:imperf:aff		
+ścieniania	ścieniać:v	ger:pl:nom.acc:n2:imperf:aff		
+ścieniania	ścieniać:v	ger:sg:gen:n2:imperf:aff		
+ścienianiem	ścieniać:v	ger:sg:inst:n2:imperf:aff		
+ścienianie	ścieniać:v	ger:sg:nom.acc:n2:imperf:aff		
+ścienianiom	ścieniać:v	ger:pl:dat.loc:n2:imperf:aff		
+ścieniani	ścieniać:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+ścienianiu	ścieniać:v	ger:sg:dat.loc:n2:imperf:aff		
+ścienianych	ścieniać:v	ppas:pl:acc:m1.p1:imperf:aff		
+ścienianych	ścieniać:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścienianymi	ścieniać:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścienianym	ścieniać:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścienianym	ścieniać:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+ścieniany	ścieniać:v	ppas:sg:acc:m3:imperf:aff		
+ścieniany	ścieniać:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+ścieniań	ścieniać:v	ger:pl:gen:n2:imperf:aff		
+ścieniająca	ścieniać:v	pact:sg:nom.voc:f:imperf:aff		
+ścieniającą	ścieniać:v	pact:sg:acc.inst:f:imperf:aff		
+ścieniającego	ścieniać:v	pact:sg:acc:m1.m2:imperf:aff		
+ścieniającego	ścieniać:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+ścieniającej	ścieniać:v	pact:sg:gen.dat.loc:f:imperf:aff		
+ścieniającemu	ścieniać:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ścieniające	ścieniać:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+ścieniające	ścieniać:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścieniających	ścieniać:v	pact:pl:acc:m1.p1:imperf:aff		
+ścieniających	ścieniać:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścieniającymi	ścieniać:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścieniającym	ścieniać:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścieniającym	ścieniać:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+ścieniający	ścieniać:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+ścieniający	ścieniać:v	pact:sg:acc:m3:imperf:aff		
+ścieniający	ścieniać:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+ścieniana	ścieniać:v	ppas:sg:nom.voc:f:imperf:aff		
+ścienianą	ścieniać:v	ppas:sg:acc.inst:f:imperf:aff		
+ścienianego	ścieniać:v	ppas:sg:acc:m1.m2:imperf:aff		
+ścienianego	ścieniać:v	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+ścienianej	ścieniać:v	ppas:sg:gen.dat.loc:f:imperf:aff		
+ścienianemu	ścieniać:v	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+ścieniane	ścieniać:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+ścieniane	ścieniać:v	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+ścienianiami	ścieniać:v	ger:pl:inst:n2:imperf:aff		
+ścieniania	ścieniać:v	ger:pl:nom.acc:n2:imperf:aff		
+ścieniania	ścieniać:v	ger:sg:gen:n2:imperf:aff		
+ścienianiem	ścieniać:v	ger:sg:inst:n2:imperf:aff		
+ścienianie	ścieniać:v	ger:sg:nom.acc:n2:imperf:aff		
+ścienianiom	ścieniać:v	ger:pl:dat.loc:n2:imperf:aff		
+ścieniani	ścieniać:v	ppas:pl:nom.voc:m1.p1:imperf:aff		
+ścienianiu	ścieniać:v	ger:sg:dat.loc:n2:imperf:aff		
+ścienianych	ścieniać:v	ppas:pl:acc:m1.p1:imperf:aff		
+ścienianych	ścieniać:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścienianymi	ścieniać:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścienianym	ścieniać:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+ścienianym	ścieniać:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+ścieniany	ścieniać:v	ppas:sg:acc:m3:imperf:aff		
+ścieniany	ścieniać:v	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+ścieniań	ścieniać:v	ger:pl:gen:n2:imperf:aff		
 ścieniacie	ścieniać:v1	fin:pl:sec:imperf		
 ścieniać	ścieniać:v1	inf:imperf		
-ścieniająca	ścieniać:v1	pact:sg:nom.voc:f:imperf:aff		
-ścieniającą	ścieniać:v1	pact:sg:acc.inst:f:imperf:aff		
-ścieniającego	ścieniać:v1	pact:sg:acc:m1.m2:imperf:aff		
-ścieniającego	ścieniać:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-ścieniającej	ścieniać:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-ścieniającemu	ścieniać:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-ścieniające	ścieniać:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-ścieniające	ścieniać:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
 ścieniając	ścieniać:v1	pcon:imperf		
-ścieniających	ścieniać:v1	pact:pl:acc:m1.p1:imperf:aff		
-ścieniających	ścieniać:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścieniającymi	ścieniać:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścieniającym	ścieniać:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścieniającym	ścieniać:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-ścieniający	ścieniać:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-ścieniający	ścieniać:v1	pact:sg:acc:m3:imperf:aff		
-ścieniający	ścieniać:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 ścieniają	ścieniać:v1	fin:pl:ter:imperf		
 ścieniajcie	ścieniać:v1	impt:pl:sec:imperf		
 ścieniajmy	ścieniać:v1	impt:pl:pri:imperf		
@@ -2216,52 +2280,12 @@
 ścieniałyśmy	ścieniać:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
 ścieniam	ścieniać:v1	fin:sg:pri:imperf		
 ścieniamy	ścieniać:v1	fin:pl:pri:imperf		
-ścieniana	ścieniać:v1	ppas:sg:nom.voc:f:imperf:aff		
-ścienianą	ścieniać:v1	ppas:sg:acc.inst:f:imperf:aff		
-ścienianego	ścieniać:v1	ppas:sg:acc:m1.m2:imperf:aff		
-ścienianego	ścieniać:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-ścienianej	ścieniać:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
-ścienianemu	ścieniać:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-ścieniane	ścieniać:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-ścieniane	ścieniać:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-ścienianiami	ścieniać:v1	ger:pl:inst:n2:imperf:aff		
-ścieniania	ścieniać:v1	ger:pl:nom.acc:n2:imperf:aff		
-ścieniania	ścieniać:v1	ger:sg:gen:n2:imperf:aff		
-ścienianiem	ścieniać:v1	ger:sg:inst:n2:imperf:aff		
-ścienianie	ścieniać:v1	ger:sg:nom.acc:n2:imperf:aff		
-ścienianiom	ścieniać:v1	ger:pl:dat.loc:n2:imperf:aff		
-ścieniani	ścieniać:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ścienianiu	ścieniać:v1	ger:sg:dat.loc:n2:imperf:aff		
 ścieniano	ścieniać:v1	imps:imperf		
-ścienianych	ścieniać:v1	ppas:pl:acc:m1.p1:imperf:aff		
-ścienianych	ścieniać:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścienianymi	ścieniać:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścienianym	ścieniać:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścienianym	ścieniać:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-ścieniany	ścieniać:v1	ppas:sg:acc:m3:imperf:aff		
-ścieniany	ścieniać:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-ścieniań	ścieniać:v1	ger:pl:gen:n2:imperf:aff		
 ścieniasz	ścieniać:v1	fin:sg:sec:imperf		
 ścienia	ścieniać:v1	fin:sg:ter:imperf		
 ścieniacie	ścieniać:v2	fin:pl:sec:imperf		przest.
 ścieniać	ścieniać:v2	inf:imperf		przest.
-ścieniająca	ścieniać:v2	pact:sg:nom.voc:f:imperf:aff		
-ścieniającą	ścieniać:v2	pact:sg:acc.inst:f:imperf:aff		
-ścieniającego	ścieniać:v2	pact:sg:acc:m1.m2:imperf:aff		
-ścieniającego	ścieniać:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-ścieniającej	ścieniać:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-ścieniającemu	ścieniać:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-ścieniające	ścieniać:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-ścieniające	ścieniać:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
 ścieniając	ścieniać:v2	pcon:imperf		przest.
-ścieniających	ścieniać:v2	pact:pl:acc:m1.p1:imperf:aff		
-ścieniających	ścieniać:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścieniającymi	ścieniać:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścieniającym	ścieniać:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścieniającym	ścieniać:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-ścieniający	ścieniać:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-ścieniający	ścieniać:v2	pact:sg:acc:m3:imperf:aff		
-ścieniający	ścieniać:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 ścieniają	ścieniać:v2	fin:pl:ter:imperf		przest.
 ścieniajcie	ścieniać:v2	impt:pl:sec:imperf		przest.
 ścieniajmy	ścieniać:v2	impt:pl:pri:imperf		przest.
@@ -2303,31 +2327,7 @@
 ścieniałyśmy	ścieniać:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
 ścieniam	ścieniać:v2	fin:sg:pri:imperf		przest.
 ścieniamy	ścieniać:v2	fin:pl:pri:imperf		przest.
-ścieniana	ścieniać:v2	ppas:sg:nom.voc:f:imperf:aff		
-ścienianą	ścieniać:v2	ppas:sg:acc.inst:f:imperf:aff		
-ścienianego	ścieniać:v2	ppas:sg:acc:m1.m2:imperf:aff		
-ścienianego	ścieniać:v2	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-ścienianej	ścieniać:v2	ppas:sg:gen.dat.loc:f:imperf:aff		
-ścienianemu	ścieniać:v2	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-ścieniane	ścieniać:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-ścieniane	ścieniać:v2	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
-ścienianiami	ścieniać:v2	ger:pl:inst:n2:imperf:aff		
-ścieniania	ścieniać:v2	ger:pl:nom.acc:n2:imperf:aff		
-ścieniania	ścieniać:v2	ger:sg:gen:n2:imperf:aff		
-ścienianiem	ścieniać:v2	ger:sg:inst:n2:imperf:aff		
-ścienianie	ścieniać:v2	ger:sg:nom.acc:n2:imperf:aff		
-ścienianiom	ścieniać:v2	ger:pl:dat.loc:n2:imperf:aff		
-ścieniani	ścieniać:v2	ppas:pl:nom.voc:m1.p1:imperf:aff		
-ścienianiu	ścieniać:v2	ger:sg:dat.loc:n2:imperf:aff		
 ścieniano	ścieniać:v2	imps:imperf		przest.
-ścienianych	ścieniać:v2	ppas:pl:acc:m1.p1:imperf:aff		
-ścienianych	ścieniać:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścienianymi	ścieniać:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścienianym	ścieniać:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-ścienianym	ścieniać:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-ścieniany	ścieniać:v2	ppas:sg:acc:m3:imperf:aff		
-ścieniany	ścieniać:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
-ścieniań	ścieniać:v2	ger:pl:gen:n2:imperf:aff		
 ścieniasz	ścieniać:v2	fin:sg:sec:imperf		przest.
 ścienia	ścieniać:v2	fin:sg:ter:imperf		przest.
 ścieniali	ścieniały	adj:pl:nom.voc:m1.p1:pos		
@@ -2368,18 +2368,57 @@
 ścienicy	ścienica	subst:sg:dat:f	pospolita	
 ścienicy	ścienica	subst:sg:gen:f	pospolita	
 ścienicy	ścienica	subst:sg:loc:f	pospolita	
+ścienieniami	ścienić:v	ger:pl:inst:n2:perf:aff		
+ścienienia	ścienić:v	ger:pl:nom.acc:n2:perf:aff		
+ścienienia	ścienić:v	ger:sg:gen:n2:perf:aff		
+ścienieniem	ścienić:v	ger:sg:inst:n2:perf:aff		
+ścienienie	ścienić:v	ger:sg:nom.acc:n2:perf:aff		
+ścienieniom	ścienić:v	ger:pl:dat.loc:n2:perf:aff		
+ścienieni	ścienić:v	ppas:pl:nom.voc:m1.p1:perf:aff		
+ścienieniu	ścienić:v	ger:sg:dat.loc:n2:perf:aff		
+ścienień	ścienić:v	ger:pl:gen:n2:perf:aff		
+ścieniona	ścienić:v	ppas:sg:nom.voc:f:perf:aff		
+ścienioną	ścienić:v	ppas:sg:acc.inst:f:perf:aff		
+ścienionego	ścienić:v	ppas:sg:acc:m1.m2:perf:aff		
+ścienionego	ścienić:v	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+ścienionej	ścienić:v	ppas:sg:gen.dat.loc:f:perf:aff		
+ścienionemu	ścienić:v	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+ścienione	ścienić:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+ścienione	ścienić:v	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+ścienionych	ścienić:v	ppas:pl:acc:m1.p1:perf:aff		
+ścienionych	ścienić:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+ścienionymi	ścienić:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+ścienionym	ścienić:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+ścienionym	ścienić:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+ścieniony	ścienić:v	ppas:sg:acc:m3:perf:aff		
+ścieniony	ścienić:v	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+ścienieniami	ścienić:v	ger:pl:inst:n2:perf:aff		
+ścienienia	ścienić:v	ger:pl:nom.acc:n2:perf:aff		
+ścienienia	ścienić:v	ger:sg:gen:n2:perf:aff		
+ścienieniem	ścienić:v	ger:sg:inst:n2:perf:aff		
+ścienienie	ścienić:v	ger:sg:nom.acc:n2:perf:aff		
+ścienieniom	ścienić:v	ger:pl:dat.loc:n2:perf:aff		
+ścienieni	ścienić:v	ppas:pl:nom.voc:m1.p1:perf:aff		
+ścienieniu	ścienić:v	ger:sg:dat.loc:n2:perf:aff		
+ścienień	ścienić:v	ger:pl:gen:n2:perf:aff		
+ścieniona	ścienić:v	ppas:sg:nom.voc:f:perf:aff		
+ścienioną	ścienić:v	ppas:sg:acc.inst:f:perf:aff		
+ścienionego	ścienić:v	ppas:sg:acc:m1.m2:perf:aff		
+ścienionego	ścienić:v	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+ścienionej	ścienić:v	ppas:sg:gen.dat.loc:f:perf:aff		
+ścienionemu	ścienić:v	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+ścienione	ścienić:v	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+ścienione	ścienić:v	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+ścienionych	ścienić:v	ppas:pl:acc:m1.p1:perf:aff		
+ścienionych	ścienić:v	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+ścienionymi	ścienić:v	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+ścienionym	ścienić:v	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+ścienionym	ścienić:v	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+ścieniony	ścienić:v	ppas:sg:acc:m3:perf:aff		
+ścieniony	ścienić:v	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
 ścienią	ścienić:v1	fin:pl:ter:perf		
 ścienicie	ścienić:v1	fin:pl:sec:perf		
 ścienić	ścienić:v1	inf:perf		
-ścienieniami	ścienić:v1	ger:pl:inst:n2:perf:aff		
-ścienienia	ścienić:v1	ger:pl:nom.acc:n2:perf:aff		
-ścienienia	ścienić:v1	ger:sg:gen:n2:perf:aff		
-ścienieniem	ścienić:v1	ger:sg:inst:n2:perf:aff		
-ścienienie	ścienić:v1	ger:sg:nom.acc:n2:perf:aff		
-ścienieniom	ścienić:v1	ger:pl:dat.loc:n2:perf:aff		
-ścienieni	ścienić:v1	ppas:pl:nom.voc:m1.p1:perf:aff		
-ścienieniu	ścienić:v1	ger:sg:dat.loc:n2:perf:aff		
-ścienień	ścienić:v1	ger:pl:gen:n2:perf:aff		
 ścienię	ścienić:v1	fin:sg:pri:perf		
 ścieniliby	ścienić:v1	cond:pl:m1.p1:ter:perf		
 ścienilibyście	ścienić:v1	cond:pl:m1.p1:sec:perf		
@@ -2417,22 +2456,7 @@
 ścieniłyście	ścienić:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
 ścieniłyśmy	ścienić:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
 ścienimy	ścienić:v1	fin:pl:pri:perf		
-ścieniona	ścienić:v1	ppas:sg:nom.voc:f:perf:aff		
-ścienioną	ścienić:v1	ppas:sg:acc.inst:f:perf:aff		
-ścienionego	ścienić:v1	ppas:sg:acc:m1.m2:perf:aff		
-ścienionego	ścienić:v1	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
-ścienionej	ścienić:v1	ppas:sg:gen.dat.loc:f:perf:aff		
-ścienionemu	ścienić:v1	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
-ścienione	ścienić:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
-ścienione	ścienić:v1	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
 ścieniono	ścienić:v1	imps:perf		
-ścienionych	ścienić:v1	ppas:pl:acc:m1.p1:perf:aff		
-ścienionych	ścienić:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
-ścienionymi	ścienić:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
-ścienionym	ścienić:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
-ścienionym	ścienić:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
-ścieniony	ścienić:v1	ppas:sg:acc:m3:perf:aff		
-ścieniony	ścienić:v1	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
 ścienisz	ścienić:v1	fin:sg:sec:perf		
 ścieni	ścienić:v1	fin:sg:ter:perf		
 ścieniwszy	ścienić:v1	pant:perf		
@@ -2442,15 +2466,6 @@
 ścienią	ścienić:v2	fin:pl:ter:perf		przest.
 ścienicie	ścienić:v2	fin:pl:sec:perf		przest.
 ścienić	ścienić:v2	inf:perf		przest.
-ścienieniami	ścienić:v2	ger:pl:inst:n2:perf:aff		
-ścienienia	ścienić:v2	ger:pl:nom.acc:n2:perf:aff		
-ścienienia	ścienić:v2	ger:sg:gen:n2:perf:aff		
-ścienieniem	ścienić:v2	ger:sg:inst:n2:perf:aff		
-ścienienie	ścienić:v2	ger:sg:nom.acc:n2:perf:aff		
-ścienieniom	ścienić:v2	ger:pl:dat.loc:n2:perf:aff		
-ścienieni	ścienić:v2	ppas:pl:nom.voc:m1.p1:perf:aff		
-ścienieniu	ścienić:v2	ger:sg:dat.loc:n2:perf:aff		
-ścienień	ścienić:v2	ger:pl:gen:n2:perf:aff		
 ścienię	ścienić:v2	fin:sg:pri:perf		przest.
 ścieniliby	ścienić:v2	cond:pl:m1.p1:ter:perf		przest.
 ścienilibyście	ścienić:v2	cond:pl:m1.p1:sec:perf		przest.
@@ -2488,22 +2503,7 @@
 ścieniłyście	ścienić:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		przest.
 ścieniłyśmy	ścienić:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		przest.
 ścienimy	ścienić:v2	fin:pl:pri:perf		przest.
-ścieniona	ścienić:v2	ppas:sg:nom.voc:f:perf:aff		
-ścienioną	ścienić:v2	ppas:sg:acc.inst:f:perf:aff		
-ścienionego	ścienić:v2	ppas:sg:acc:m1.m2:perf:aff		
-ścienionego	ścienić:v2	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
-ścienionej	ścienić:v2	ppas:sg:gen.dat.loc:f:perf:aff		
-ścienionemu	ścienić:v2	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
-ścienione	ścienić:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
-ścienione	ścienić:v2	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
 ścieniono	ścienić:v2	imps:perf		przest.
-ścienionych	ścienić:v2	ppas:pl:acc:m1.p1:perf:aff		
-ścienionych	ścienić:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
-ścienionymi	ścienić:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
-ścienionym	ścienić:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
-ścienionym	ścienić:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
-ścieniony	ścienić:v2	ppas:sg:acc:m3:perf:aff		
-ścieniony	ścienić:v2	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
 ścienisz	ścienić:v2	fin:sg:sec:perf		przest.
 ścieni	ścienić:v2	fin:sg:ter:perf		przest.
 ścieniwszy	ścienić:v2	pant:perf		przest.
@@ -5303,34 +5303,34 @@
 ściskarko	ściskarka	subst:sg:voc:f	pospolita	
 ścisło	ścisło	adv:pos		rzad.
 ściślej	ścisło	adv:com		
-ścisłościach	ścisłość:s1	subst:pl:loc:f	pospolita	
-ścisłościami	ścisłość:s1	subst:pl:inst:f	pospolita	
-ścisłością	ścisłość:s1	subst:sg:inst:f	pospolita	
-ścisłościom	ścisłość:s1	subst:pl:dat:f	pospolita	
-ścisłości	ścisłość:s1	subst:pl:acc:f	pospolita	
-ścisłości	ścisłość:s1	subst:pl:gen:f	pospolita	
-ścisłości	ścisłość:s1	subst:pl:nom:f	pospolita	
-ścisłości	ścisłość:s1	subst:pl:voc:f	pospolita	
-ścisłości	ścisłość:s1	subst:sg:dat:f	pospolita	
-ścisłości	ścisłość:s1	subst:sg:gen:f	pospolita	
-ścisłości	ścisłość:s1	subst:sg:loc:f	pospolita	
-ścisłości	ścisłość:s1	subst:sg:voc:f	pospolita	
-ścisłość	ścisłość:s1	subst:sg:acc:f	pospolita	
-ścisłość	ścisłość:s1	subst:sg:nom:f	pospolita	
-ścisłościach	ścisłość:s2	subst:pl:loc:f		
-ścisłościami	ścisłość:s2	subst:pl:inst:f		
-ścisłością	ścisłość:s2	subst:sg:inst:f		
-ścisłościom	ścisłość:s2	subst:pl:dat:f		
-ścisłości	ścisłość:s2	subst:pl:acc:f		
-ścisłości	ścisłość:s2	subst:pl:gen:f		
-ścisłości	ścisłość:s2	subst:pl:nom:f		
-ścisłości	ścisłość:s2	subst:pl:voc:f		
-ścisłości	ścisłość:s2	subst:sg:dat:f		
-ścisłości	ścisłość:s2	subst:sg:gen:f		
-ścisłości	ścisłość:s2	subst:sg:loc:f		
-ścisłości	ścisłość:s2	subst:sg:voc:f		
-ścisłość	ścisłość:s2	subst:sg:acc:f		
-ścisłość	ścisłość:s2	subst:sg:nom:f		
+ścisłościach	ścisłość:s	subst:pl:loc:f	pospolita	
+ścisłościami	ścisłość:s	subst:pl:inst:f	pospolita	
+ścisłością	ścisłość:s	subst:sg:inst:f	pospolita	
+ścisłościom	ścisłość:s	subst:pl:dat:f	pospolita	
+ścisłości	ścisłość:s	subst:pl:acc:f	pospolita	
+ścisłości	ścisłość:s	subst:pl:gen:f	pospolita	
+ścisłości	ścisłość:s	subst:pl:nom:f	pospolita	
+ścisłości	ścisłość:s	subst:pl:voc:f	pospolita	
+ścisłości	ścisłość:s	subst:sg:dat:f	pospolita	
+ścisłości	ścisłość:s	subst:sg:gen:f	pospolita	
+ścisłości	ścisłość:s	subst:sg:loc:f	pospolita	
+ścisłości	ścisłość:s	subst:sg:voc:f	pospolita	
+ścisłość	ścisłość:s	subst:sg:acc:f	pospolita	
+ścisłość	ścisłość:s	subst:sg:nom:f	pospolita	
+ścisłościach	ścisłość:s	subst:pl:loc:f		
+ścisłościami	ścisłość:s	subst:pl:inst:f		
+ścisłością	ścisłość:s	subst:sg:inst:f		
+ścisłościom	ścisłość:s	subst:pl:dat:f		
+ścisłości	ścisłość:s	subst:pl:acc:f		
+ścisłości	ścisłość:s	subst:pl:gen:f		
+ścisłości	ścisłość:s	subst:pl:nom:f		
+ścisłości	ścisłość:s	subst:pl:voc:f		
+ścisłości	ścisłość:s	subst:sg:dat:f		
+ścisłości	ścisłość:s	subst:sg:gen:f		
+ścisłości	ścisłość:s	subst:sg:loc:f		
+ścisłości	ścisłość:s	subst:sg:voc:f		
+ścisłość	ścisłość:s	subst:sg:acc:f		
+ścisłość	ścisłość:s	subst:sg:nom:f		
 ścisła	ścisły	adj:sg:nom.voc:f:pos		
 ścisłą	ścisły	adj:sg:acc:f:pos		
 ścisłą	ścisły	adj:sg:inst:f:pos		
@@ -5609,34 +5609,34 @@
 ściszywszy	ściszyć	pant:perf		
 ściślej	ściśle	adv:com		
 ściśle	ściśle	adv:pos		
-ściśliwościach	ściśliwość:s1	subst:pl:loc:f	pospolita	
-ściśliwościami	ściśliwość:s1	subst:pl:inst:f	pospolita	
-ściśliwością	ściśliwość:s1	subst:sg:inst:f	pospolita	
-ściśliwościom	ściśliwość:s1	subst:pl:dat:f	pospolita	
-ściśliwości	ściśliwość:s1	subst:pl:acc:f	pospolita	
-ściśliwości	ściśliwość:s1	subst:pl:gen:f	pospolita	
-ściśliwości	ściśliwość:s1	subst:pl:nom:f	pospolita	
-ściśliwości	ściśliwość:s1	subst:pl:voc:f	pospolita	
-ściśliwości	ściśliwość:s1	subst:sg:dat:f	pospolita	
-ściśliwości	ściśliwość:s1	subst:sg:gen:f	pospolita	
-ściśliwości	ściśliwość:s1	subst:sg:loc:f	pospolita	
-ściśliwości	ściśliwość:s1	subst:sg:voc:f	pospolita	
-ściśliwość	ściśliwość:s1	subst:sg:acc:f	pospolita	
-ściśliwość	ściśliwość:s1	subst:sg:nom:f	pospolita	
-ściśliwościach	ściśliwość:s2	subst:pl:loc:f		
-ściśliwościami	ściśliwość:s2	subst:pl:inst:f		
-ściśliwością	ściśliwość:s2	subst:sg:inst:f		
-ściśliwościom	ściśliwość:s2	subst:pl:dat:f		
-ściśliwości	ściśliwość:s2	subst:pl:acc:f		
-ściśliwości	ściśliwość:s2	subst:pl:gen:f		
-ściśliwości	ściśliwość:s2	subst:pl:nom:f		
-ściśliwości	ściśliwość:s2	subst:pl:voc:f		
-ściśliwości	ściśliwość:s2	subst:sg:dat:f		
-ściśliwości	ściśliwość:s2	subst:sg:gen:f		
-ściśliwości	ściśliwość:s2	subst:sg:loc:f		
-ściśliwości	ściśliwość:s2	subst:sg:voc:f		
-ściśliwość	ściśliwość:s2	subst:sg:acc:f		
-ściśliwość	ściśliwość:s2	subst:sg:nom:f		
+ściśliwościach	ściśliwość:s	subst:pl:loc:f	pospolita	
+ściśliwościami	ściśliwość:s	subst:pl:inst:f	pospolita	
+ściśliwością	ściśliwość:s	subst:sg:inst:f	pospolita	
+ściśliwościom	ściśliwość:s	subst:pl:dat:f	pospolita	
+ściśliwości	ściśliwość:s	subst:pl:acc:f	pospolita	
+ściśliwości	ściśliwość:s	subst:pl:gen:f	pospolita	
+ściśliwości	ściśliwość:s	subst:pl:nom:f	pospolita	
+ściśliwości	ściśliwość:s	subst:pl:voc:f	pospolita	
+ściśliwości	ściśliwość:s	subst:sg:dat:f	pospolita	
+ściśliwości	ściśliwość:s	subst:sg:gen:f	pospolita	
+ściśliwości	ściśliwość:s	subst:sg:loc:f	pospolita	
+ściśliwości	ściśliwość:s	subst:sg:voc:f	pospolita	
+ściśliwość	ściśliwość:s	subst:sg:acc:f	pospolita	
+ściśliwość	ściśliwość:s	subst:sg:nom:f	pospolita	
+ściśliwościach	ściśliwość:s	subst:pl:loc:f		
+ściśliwościami	ściśliwość:s	subst:pl:inst:f		
+ściśliwością	ściśliwość:s	subst:sg:inst:f		
+ściśliwościom	ściśliwość:s	subst:pl:dat:f		
+ściśliwości	ściśliwość:s	subst:pl:acc:f		
+ściśliwości	ściśliwość:s	subst:pl:gen:f		
+ściśliwości	ściśliwość:s	subst:pl:nom:f		
+ściśliwości	ściśliwość:s	subst:pl:voc:f		
+ściśliwości	ściśliwość:s	subst:sg:dat:f		
+ściśliwości	ściśliwość:s	subst:sg:gen:f		
+ściśliwości	ściśliwość:s	subst:sg:loc:f		
+ściśliwości	ściśliwość:s	subst:sg:voc:f		
+ściśliwość	ściśliwość:s	subst:sg:acc:f		
+ściśliwość	ściśliwość:s	subst:sg:nom:f		
 ściśliwa	ściśliwy	adj:sg:nom.voc:f:pos		
 ściśliwą	ściśliwy	adj:sg:acc:f:pos		
 ściśliwą	ściśliwy	adj:sg:inst:f:pos		
@@ -11109,34 +11109,34 @@
 śmiałostki	śmiałostka	subst:sg:gen:f	pospolita	indyw.
 śmiałostkom	śmiałostka	subst:pl:dat:f	pospolita	indyw.
 śmiałostko	śmiałostka	subst:sg:voc:f	pospolita	indyw.
-śmiałościach	śmiałość:s1	subst:pl:loc:f	pospolita	
-śmiałościami	śmiałość:s1	subst:pl:inst:f	pospolita	
-śmiałością	śmiałość:s1	subst:sg:inst:f	pospolita	
-śmiałościom	śmiałość:s1	subst:pl:dat:f	pospolita	
-śmiałości	śmiałość:s1	subst:pl:acc:f	pospolita	
-śmiałości	śmiałość:s1	subst:pl:gen:f	pospolita	
-śmiałości	śmiałość:s1	subst:pl:nom:f	pospolita	
-śmiałości	śmiałość:s1	subst:pl:voc:f	pospolita	
-śmiałości	śmiałość:s1	subst:sg:dat:f	pospolita	
-śmiałości	śmiałość:s1	subst:sg:gen:f	pospolita	
-śmiałości	śmiałość:s1	subst:sg:loc:f	pospolita	
-śmiałości	śmiałość:s1	subst:sg:voc:f	pospolita	
-śmiałość	śmiałość:s1	subst:sg:acc:f	pospolita	
-śmiałość	śmiałość:s1	subst:sg:nom:f	pospolita	
-śmiałościach	śmiałość:s2	subst:pl:loc:f		
-śmiałościami	śmiałość:s2	subst:pl:inst:f		
-śmiałością	śmiałość:s2	subst:sg:inst:f		
-śmiałościom	śmiałość:s2	subst:pl:dat:f		
-śmiałości	śmiałość:s2	subst:pl:acc:f		
-śmiałości	śmiałość:s2	subst:pl:gen:f		
-śmiałości	śmiałość:s2	subst:pl:nom:f		
-śmiałości	śmiałość:s2	subst:pl:voc:f		
-śmiałości	śmiałość:s2	subst:sg:dat:f		
-śmiałości	śmiałość:s2	subst:sg:gen:f		
-śmiałości	śmiałość:s2	subst:sg:loc:f		
-śmiałości	śmiałość:s2	subst:sg:voc:f		
-śmiałość	śmiałość:s2	subst:sg:acc:f		
-śmiałość	śmiałość:s2	subst:sg:nom:f		
+śmiałościach	śmiałość:s	subst:pl:loc:f	pospolita	
+śmiałościami	śmiałość:s	subst:pl:inst:f	pospolita	
+śmiałością	śmiałość:s	subst:sg:inst:f	pospolita	
+śmiałościom	śmiałość:s	subst:pl:dat:f	pospolita	
+śmiałości	śmiałość:s	subst:pl:acc:f	pospolita	
+śmiałości	śmiałość:s	subst:pl:gen:f	pospolita	
+śmiałości	śmiałość:s	subst:pl:nom:f	pospolita	
+śmiałości	śmiałość:s	subst:pl:voc:f	pospolita	
+śmiałości	śmiałość:s	subst:sg:dat:f	pospolita	
+śmiałości	śmiałość:s	subst:sg:gen:f	pospolita	
+śmiałości	śmiałość:s	subst:sg:loc:f	pospolita	
+śmiałości	śmiałość:s	subst:sg:voc:f	pospolita	
+śmiałość	śmiałość:s	subst:sg:acc:f	pospolita	
+śmiałość	śmiałość:s	subst:sg:nom:f	pospolita	
+śmiałościach	śmiałość:s	subst:pl:loc:f		
+śmiałościami	śmiałość:s	subst:pl:inst:f		
+śmiałością	śmiałość:s	subst:sg:inst:f		
+śmiałościom	śmiałość:s	subst:pl:dat:f		
+śmiałości	śmiałość:s	subst:pl:acc:f		
+śmiałości	śmiałość:s	subst:pl:gen:f		
+śmiałości	śmiałość:s	subst:pl:nom:f		
+śmiałości	śmiałość:s	subst:pl:voc:f		
+śmiałości	śmiałość:s	subst:sg:dat:f		
+śmiałości	śmiałość:s	subst:sg:gen:f		
+śmiałości	śmiałość:s	subst:sg:loc:f		
+śmiałości	śmiałość:s	subst:sg:voc:f		
+śmiałość	śmiałość:s	subst:sg:acc:f		
+śmiałość	śmiałość:s	subst:sg:nom:f		
 śmiali	śmiały	adj:pl:nom.voc:m1.p1:pos		
 śmiała	śmiały	adj:sg:nom.voc:f:pos		
 śmiałą	śmiały	adj:sg:acc:f:pos		
@@ -11798,95 +11798,95 @@
 śmieciu	śmieć:s2	subst:sg:voc:m2	pospolita	pogard.
 śmieć	śmieć:s2	subst:sg:nom:m1	pospolita	pogard.
 śmieć	śmieć:s2	subst:sg:nom:m2	pospolita	pogard.
-śmiałabym	śmieć:v1	cond:sg:f:pri:imperf		
-śmiałaby	śmieć:v1	cond:sg:f:ter:imperf		
-śmiałabyś	śmieć:v1	cond:sg:f:sec:imperf		
-śmiałam	śmieć:v1	praet:sg:f:pri:imperf		
-śmiała	śmieć:v1	praet:sg:f:imperf		
-śmiała	śmieć:v1	praet:sg:f:ter:imperf		
-śmiałaś	śmieć:v1	praet:sg:f:sec:imperf		
-śmiałbym	śmieć:v1	cond:sg:m1.m2.m3:pri:imperf		
-śmiałby	śmieć:v1	cond:sg:m1.m2.m3:ter:imperf		
-śmiałbyś	śmieć:v1	cond:sg:m1.m2.m3:sec:imperf		
-śmiałem	śmieć:v1	praet:sg:m1.m2.m3:pri:imperf		
-śmiałeś	śmieć:v1	praet:sg:m1.m2.m3:sec:imperf		
-śmiałobym	śmieć:v1	cond:sg:n1.n2:pri:imperf		
-śmiałoby	śmieć:v1	cond:sg:n1.n2:ter:imperf		
-śmiałobyś	śmieć:v1	cond:sg:n1.n2:sec:imperf		
-śmiałom	śmieć:v1	praet:sg:n1.n2:pri:imperf		
-śmiało	śmieć:v1	praet:sg:n1.n2:imperf		
-śmiało	śmieć:v1	praet:sg:n1.n2:ter:imperf		
-śmiałoś	śmieć:v1	praet:sg:n1.n2:sec:imperf		
-śmiał	śmieć:v1	praet:sg:m1.m2.m3:imperf		
-śmiał	śmieć:v1	praet:sg:m1.m2.m3:ter:imperf		
-śmiałybyście	śmieć:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
-śmiałyby	śmieć:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
-śmiałybyśmy	śmieć:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-śmiałyście	śmieć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
-śmiały	śmieć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
-śmiały	śmieć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
-śmiałyśmy	śmieć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-śmiano	śmieć:v1	imps:imperf		
-śmiąca	śmieć:v1	pact:sg:nom.voc:f:imperf:aff		
-śmiącą	śmieć:v1	pact:sg:acc.inst:f:imperf:aff		
-śmiącego	śmieć:v1	pact:sg:acc:m1.m2:imperf:aff		
-śmiącego	śmieć:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-śmiącej	śmieć:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-śmiącemu	śmieć:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-śmiące	śmieć:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-śmiące	śmieć:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-śmiąc	śmieć:v1	pcon:imperf		
-śmiących	śmieć:v1	pact:pl:acc:m1.p1:imperf:aff		
-śmiących	śmieć:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-śmiącymi	śmieć:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-śmiącym	śmieć:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-śmiącym	śmieć:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-śmiący	śmieć:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-śmiący	śmieć:v1	pact:sg:acc:m3:imperf:aff		
-śmiący	śmieć:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-śmią	śmieć:v1	fin:pl:ter:imperf		
-śmiecie	śmieć:v1	fin:pl:sec:imperf		
-śmieć	śmieć:v1	inf:imperf		
-śmiejąca	śmieć:v1	pact:sg:nom.voc:f:imperf:aff		
-śmiejącą	śmieć:v1	pact:sg:acc.inst:f:imperf:aff		
-śmiejącego	śmieć:v1	pact:sg:acc:m1.m2:imperf:aff		
-śmiejącego	śmieć:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-śmiejącej	śmieć:v1	pact:sg:gen.dat.loc:f:imperf:aff		
-śmiejącemu	śmieć:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-śmiejące	śmieć:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-śmiejące	śmieć:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-śmiejąc	śmieć:v1	pcon:imperf		
-śmiejących	śmieć:v1	pact:pl:acc:m1.p1:imperf:aff		
-śmiejących	śmieć:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-śmiejącymi	śmieć:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-śmiejącym	śmieć:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-śmiejącym	śmieć:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-śmiejący	śmieć:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
-śmiejący	śmieć:v1	pact:sg:acc:m3:imperf:aff		
-śmiejący	śmieć:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-śmieją	śmieć:v1	fin:pl:ter:imperf		
-śmiejcie	śmieć:v1	impt:pl:sec:imperf		
-śmiejmy	śmieć:v1	impt:pl:pri:imperf		
-śmiej	śmieć:v1	impt:sg:sec:imperf		
-śmielibyście	śmieć:v1	cond:pl:m1.p1:sec:imperf		
-śmieliby	śmieć:v1	cond:pl:m1.p1:ter:imperf		
-śmielibyśmy	śmieć:v1	cond:pl:m1.p1:pri:imperf		
-śmieliście	śmieć:v1	praet:pl:m1.p1:sec:imperf		
-śmieli	śmieć:v1	praet:pl:m1.p1:imperf		
-śmieli	śmieć:v1	praet:pl:m1.p1:ter:imperf		
-śmieliśmy	śmieć:v1	praet:pl:m1.p1:pri:imperf		
-śmiem	śmieć:v1	fin:sg:pri:imperf		
-śmiemy	śmieć:v1	fin:pl:pri:imperf		
-śmieniami	śmieć:v1	ger:pl:inst:n2:imperf:aff		
-śmienia	śmieć:v1	ger:pl:nom.acc:n2:imperf:aff		
-śmienia	śmieć:v1	ger:sg:gen:n2:imperf:aff		
-śmieniem	śmieć:v1	ger:sg:inst:n2:imperf:aff		
-śmienie	śmieć:v1	ger:sg:nom.acc:n2:imperf:aff		
-śmieniom	śmieć:v1	ger:pl:dat.loc:n2:imperf:aff		
-śmieniu	śmieć:v1	ger:sg:dat.loc:n2:imperf:aff		
-śmień	śmieć:v1	ger:pl:gen:n2:imperf:aff		
-śmiesz	śmieć:v1	fin:sg:sec:imperf		
-śmie	śmieć:v1	fin:sg:ter:imperf		
+śmiałabym	śmieć:v	cond:sg:f:pri:imperf		
+śmiałaby	śmieć:v	cond:sg:f:ter:imperf		
+śmiałabyś	śmieć:v	cond:sg:f:sec:imperf		
+śmiałam	śmieć:v	praet:sg:f:pri:imperf		
+śmiała	śmieć:v	praet:sg:f:imperf		
+śmiała	śmieć:v	praet:sg:f:ter:imperf		
+śmiałaś	śmieć:v	praet:sg:f:sec:imperf		
+śmiałbym	śmieć:v	cond:sg:m1.m2.m3:pri:imperf		
+śmiałby	śmieć:v	cond:sg:m1.m2.m3:ter:imperf		
+śmiałbyś	śmieć:v	cond:sg:m1.m2.m3:sec:imperf		
+śmiałem	śmieć:v	praet:sg:m1.m2.m3:pri:imperf		
+śmiałeś	śmieć:v	praet:sg:m1.m2.m3:sec:imperf		
+śmiałobym	śmieć:v	cond:sg:n1.n2:pri:imperf		
+śmiałoby	śmieć:v	cond:sg:n1.n2:ter:imperf		
+śmiałobyś	śmieć:v	cond:sg:n1.n2:sec:imperf		
+śmiałom	śmieć:v	praet:sg:n1.n2:pri:imperf		
+śmiało	śmieć:v	praet:sg:n1.n2:imperf		
+śmiało	śmieć:v	praet:sg:n1.n2:ter:imperf		
+śmiałoś	śmieć:v	praet:sg:n1.n2:sec:imperf		
+śmiał	śmieć:v	praet:sg:m1.m2.m3:imperf		
+śmiał	śmieć:v	praet:sg:m1.m2.m3:ter:imperf		
+śmiałybyście	śmieć:v	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+śmiałyby	śmieć:v	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+śmiałybyśmy	śmieć:v	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+śmiałyście	śmieć:v	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+śmiały	śmieć:v	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+śmiały	śmieć:v	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+śmiałyśmy	śmieć:v	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+śmiano	śmieć:v	imps:imperf		
+śmiąca	śmieć:v	pact:sg:nom.voc:f:imperf:aff		
+śmiącą	śmieć:v	pact:sg:acc.inst:f:imperf:aff		
+śmiącego	śmieć:v	pact:sg:acc:m1.m2:imperf:aff		
+śmiącego	śmieć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+śmiącej	śmieć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+śmiącemu	śmieć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+śmiące	śmieć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+śmiące	śmieć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+śmiąc	śmieć:v	pcon:imperf		
+śmiących	śmieć:v	pact:pl:acc:m1.p1:imperf:aff		
+śmiących	śmieć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+śmiącymi	śmieć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+śmiącym	śmieć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+śmiącym	śmieć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+śmiący	śmieć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+śmiący	śmieć:v	pact:sg:acc:m3:imperf:aff		
+śmiący	śmieć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+śmią	śmieć:v	fin:pl:ter:imperf		
+śmiecie	śmieć:v	fin:pl:sec:imperf		
+śmieć	śmieć:v	inf:imperf		
+śmiejąca	śmieć:v	pact:sg:nom.voc:f:imperf:aff		
+śmiejącą	śmieć:v	pact:sg:acc.inst:f:imperf:aff		
+śmiejącego	śmieć:v	pact:sg:acc:m1.m2:imperf:aff		
+śmiejącego	śmieć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+śmiejącej	śmieć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+śmiejącemu	śmieć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+śmiejące	śmieć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+śmiejące	śmieć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+śmiejąc	śmieć:v	pcon:imperf		
+śmiejących	śmieć:v	pact:pl:acc:m1.p1:imperf:aff		
+śmiejących	śmieć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+śmiejącymi	śmieć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+śmiejącym	śmieć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+śmiejącym	śmieć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+śmiejący	śmieć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+śmiejący	śmieć:v	pact:sg:acc:m3:imperf:aff		
+śmiejący	śmieć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+śmieją	śmieć:v	fin:pl:ter:imperf		
+śmiejcie	śmieć:v	impt:pl:sec:imperf		
+śmiejmy	śmieć:v	impt:pl:pri:imperf		
+śmiej	śmieć:v	impt:sg:sec:imperf		
+śmielibyście	śmieć:v	cond:pl:m1.p1:sec:imperf		
+śmieliby	śmieć:v	cond:pl:m1.p1:ter:imperf		
+śmielibyśmy	śmieć:v	cond:pl:m1.p1:pri:imperf		
+śmieliście	śmieć:v	praet:pl:m1.p1:sec:imperf		
+śmieli	śmieć:v	praet:pl:m1.p1:imperf		
+śmieli	śmieć:v	praet:pl:m1.p1:ter:imperf		
+śmieliśmy	śmieć:v	praet:pl:m1.p1:pri:imperf		
+śmiem	śmieć:v	fin:sg:pri:imperf		
+śmiemy	śmieć:v	fin:pl:pri:imperf		
+śmieniami	śmieć:v	ger:pl:inst:n2:imperf:aff		
+śmienia	śmieć:v	ger:pl:nom.acc:n2:imperf:aff		
+śmienia	śmieć:v	ger:sg:gen:n2:imperf:aff		
+śmieniem	śmieć:v	ger:sg:inst:n2:imperf:aff		
+śmienie	śmieć:v	ger:sg:nom.acc:n2:imperf:aff		
+śmieniom	śmieć:v	ger:pl:dat.loc:n2:imperf:aff		
+śmieniu	śmieć:v	ger:sg:dat.loc:n2:imperf:aff		
+śmień	śmieć:v	ger:pl:gen:n2:imperf:aff		
+śmiesz	śmieć:v	fin:sg:sec:imperf		
+śmie	śmieć:v	fin:sg:ter:imperf		
 śmielej	śmiele	adv:com		
 śmiele	śmiele	adv:pos		przest.
 śmierciodajnościach	śmierciodajność	subst:pl:loc:f		
@@ -12485,34 +12485,34 @@
 śmiertelnik	śmiertelnik	subst:sg:nom:m1	pospolita	
 śmiertelniku	śmiertelnik	subst:sg:loc:m1	pospolita	
 śmiertelniku	śmiertelnik	subst:sg:voc:m1	pospolita	
-śmiertelnościach	śmiertelność:s1	subst:pl:loc:f	pospolita	
-śmiertelnościami	śmiertelność:s1	subst:pl:inst:f	pospolita	
-śmiertelnością	śmiertelność:s1	subst:sg:inst:f	pospolita	
-śmiertelnościom	śmiertelność:s1	subst:pl:dat:f	pospolita	
-śmiertelności	śmiertelność:s1	subst:pl:acc:f	pospolita	
-śmiertelności	śmiertelność:s1	subst:pl:gen:f	pospolita	
-śmiertelności	śmiertelność:s1	subst:pl:nom:f	pospolita	
-śmiertelności	śmiertelność:s1	subst:pl:voc:f	pospolita	
-śmiertelności	śmiertelność:s1	subst:sg:dat:f	pospolita	
-śmiertelności	śmiertelność:s1	subst:sg:gen:f	pospolita	
-śmiertelności	śmiertelność:s1	subst:sg:loc:f	pospolita	
-śmiertelności	śmiertelność:s1	subst:sg:voc:f	pospolita	
-śmiertelność	śmiertelność:s1	subst:sg:acc:f	pospolita	
-śmiertelność	śmiertelność:s1	subst:sg:nom:f	pospolita	
-śmiertelnościach	śmiertelność:s2	subst:pl:loc:f		
-śmiertelnościami	śmiertelność:s2	subst:pl:inst:f		
-śmiertelnością	śmiertelność:s2	subst:sg:inst:f		
-śmiertelnościom	śmiertelność:s2	subst:pl:dat:f		
-śmiertelności	śmiertelność:s2	subst:pl:acc:f		
-śmiertelności	śmiertelność:s2	subst:pl:gen:f		
-śmiertelności	śmiertelność:s2	subst:pl:nom:f		
-śmiertelności	śmiertelność:s2	subst:pl:voc:f		
-śmiertelności	śmiertelność:s2	subst:sg:dat:f		
-śmiertelności	śmiertelność:s2	subst:sg:gen:f		
-śmiertelności	śmiertelność:s2	subst:sg:loc:f		
-śmiertelności	śmiertelność:s2	subst:sg:voc:f		
-śmiertelność	śmiertelność:s2	subst:sg:acc:f		
-śmiertelność	śmiertelność:s2	subst:sg:nom:f		
+śmiertelnościach	śmiertelność:s	subst:pl:loc:f	pospolita	
+śmiertelnościami	śmiertelność:s	subst:pl:inst:f	pospolita	
+śmiertelnością	śmiertelność:s	subst:sg:inst:f	pospolita	
+śmiertelnościom	śmiertelność:s	subst:pl:dat:f	pospolita	
+śmiertelności	śmiertelność:s	subst:pl:acc:f	pospolita	
+śmiertelności	śmiertelność:s	subst:pl:gen:f	pospolita	
+śmiertelności	śmiertelność:s	subst:pl:nom:f	pospolita	
+śmiertelności	śmiertelność:s	subst:pl:voc:f	pospolita	
+śmiertelności	śmiertelność:s	subst:sg:dat:f	pospolita	
+śmiertelności	śmiertelność:s	subst:sg:gen:f	pospolita	
+śmiertelności	śmiertelność:s	subst:sg:loc:f	pospolita	
+śmiertelności	śmiertelność:s	subst:sg:voc:f	pospolita	
+śmiertelność	śmiertelność:s	subst:sg:acc:f	pospolita	
+śmiertelność	śmiertelność:s	subst:sg:nom:f	pospolita	
+śmiertelnościach	śmiertelność:s	subst:pl:loc:f		
+śmiertelnościami	śmiertelność:s	subst:pl:inst:f		
+śmiertelnością	śmiertelność:s	subst:sg:inst:f		
+śmiertelnościom	śmiertelność:s	subst:pl:dat:f		
+śmiertelności	śmiertelność:s	subst:pl:acc:f		
+śmiertelności	śmiertelność:s	subst:pl:gen:f		
+śmiertelności	śmiertelność:s	subst:pl:nom:f		
+śmiertelności	śmiertelność:s	subst:pl:voc:f		
+śmiertelności	śmiertelność:s	subst:sg:dat:f		
+śmiertelności	śmiertelność:s	subst:sg:gen:f		
+śmiertelności	śmiertelność:s	subst:sg:loc:f		
+śmiertelności	śmiertelność:s	subst:sg:voc:f		
+śmiertelność	śmiertelność:s	subst:sg:acc:f		
+śmiertelność	śmiertelność:s	subst:sg:nom:f		
 śmiertelna	śmiertelny:a	adj:sg:nom.voc:f:pos		
 śmiertelną	śmiertelny:a	adj:sg:acc:f:pos		
 śmiertelną	śmiertelny:a	adj:sg:inst:f:pos		
@@ -12731,34 +12731,34 @@
 śmieszności	śmieszności	subst:pl:gen:p3	pospolita	
 śmieszności	śmieszności	subst:pl:nom:p3	pospolita	
 śmieszności	śmieszności	subst:pl:voc:p3	pospolita	
-śmiesznościach	śmieszność:s1	subst:pl:loc:f	pospolita	
-śmiesznościami	śmieszność:s1	subst:pl:inst:f	pospolita	
-śmiesznością	śmieszność:s1	subst:sg:inst:f	pospolita	
-śmiesznościom	śmieszność:s1	subst:pl:dat:f	pospolita	
-śmieszności	śmieszność:s1	subst:pl:acc:f	pospolita	
-śmieszności	śmieszność:s1	subst:pl:gen:f	pospolita	
-śmieszności	śmieszność:s1	subst:pl:nom:f	pospolita	
-śmieszności	śmieszność:s1	subst:pl:voc:f	pospolita	
-śmieszności	śmieszność:s1	subst:sg:dat:f	pospolita	
-śmieszności	śmieszność:s1	subst:sg:gen:f	pospolita	
-śmieszności	śmieszność:s1	subst:sg:loc:f	pospolita	
-śmieszności	śmieszność:s1	subst:sg:voc:f	pospolita	
-śmieszność	śmieszność:s1	subst:sg:acc:f	pospolita	
-śmieszność	śmieszność:s1	subst:sg:nom:f	pospolita	
-śmiesznościach	śmieszność:s2	subst:pl:loc:f		
-śmiesznościami	śmieszność:s2	subst:pl:inst:f		
-śmiesznością	śmieszność:s2	subst:sg:inst:f		
-śmiesznościom	śmieszność:s2	subst:pl:dat:f		
-śmieszności	śmieszność:s2	subst:pl:acc:f		
-śmieszności	śmieszność:s2	subst:pl:gen:f		
-śmieszności	śmieszność:s2	subst:pl:nom:f		
-śmieszności	śmieszność:s2	subst:pl:voc:f		
-śmieszności	śmieszność:s2	subst:sg:dat:f		
-śmieszności	śmieszność:s2	subst:sg:gen:f		
-śmieszności	śmieszność:s2	subst:sg:loc:f		
-śmieszności	śmieszność:s2	subst:sg:voc:f		
-śmieszność	śmieszność:s2	subst:sg:acc:f		
-śmieszność	śmieszność:s2	subst:sg:nom:f		
+śmiesznościach	śmieszność:s	subst:pl:loc:f	pospolita	
+śmiesznościami	śmieszność:s	subst:pl:inst:f	pospolita	
+śmiesznością	śmieszność:s	subst:sg:inst:f	pospolita	
+śmiesznościom	śmieszność:s	subst:pl:dat:f	pospolita	
+śmieszności	śmieszność:s	subst:pl:acc:f	pospolita	
+śmieszności	śmieszność:s	subst:pl:gen:f	pospolita	
+śmieszności	śmieszność:s	subst:pl:nom:f	pospolita	
+śmieszności	śmieszność:s	subst:pl:voc:f	pospolita	
+śmieszności	śmieszność:s	subst:sg:dat:f	pospolita	
+śmieszności	śmieszność:s	subst:sg:gen:f	pospolita	
+śmieszności	śmieszność:s	subst:sg:loc:f	pospolita	
+śmieszności	śmieszność:s	subst:sg:voc:f	pospolita	
+śmieszność	śmieszność:s	subst:sg:acc:f	pospolita	
+śmieszność	śmieszność:s	subst:sg:nom:f	pospolita	
+śmiesznościach	śmieszność:s	subst:pl:loc:f		
+śmiesznościami	śmieszność:s	subst:pl:inst:f		
+śmiesznością	śmieszność:s	subst:sg:inst:f		
+śmiesznościom	śmieszność:s	subst:pl:dat:f		
+śmieszności	śmieszność:s	subst:pl:acc:f		
+śmieszności	śmieszność:s	subst:pl:gen:f		
+śmieszności	śmieszność:s	subst:pl:nom:f		
+śmieszności	śmieszność:s	subst:pl:voc:f		
+śmieszności	śmieszność:s	subst:sg:dat:f		
+śmieszności	śmieszność:s	subst:sg:gen:f		
+śmieszności	śmieszność:s	subst:sg:loc:f		
+śmieszności	śmieszność:s	subst:sg:voc:f		
+śmieszność	śmieszność:s	subst:sg:acc:f		
+śmieszność	śmieszność:s	subst:sg:nom:f		
 śmieszna	śmieszny	adj:sg:nom.voc:f:pos		
 śmieszną	śmieszny	adj:sg:acc:f:pos		
 śmieszną	śmieszny	adj:sg:inst:f:pos		
@@ -21535,34 +21535,34 @@
 świadomościowym	świadomościowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 świadomościowy	świadomościowy	adj:sg:acc:m3:pos		
 świadomościowy	świadomościowy	adj:sg:nom.voc:m1.m2.m3:pos		
-świadomościach	świadomość:s1	subst:pl:loc:f	pospolita	
-świadomościami	świadomość:s1	subst:pl:inst:f	pospolita	
-świadomością	świadomość:s1	subst:sg:inst:f	pospolita	
-świadomościom	świadomość:s1	subst:pl:dat:f	pospolita	
-świadomości	świadomość:s1	subst:pl:acc:f	pospolita	
-świadomości	świadomość:s1	subst:pl:gen:f	pospolita	
-świadomości	świadomość:s1	subst:pl:nom:f	pospolita	
-świadomości	świadomość:s1	subst:pl:voc:f	pospolita	
-świadomości	świadomość:s1	subst:sg:dat:f	pospolita	
-świadomości	świadomość:s1	subst:sg:gen:f	pospolita	
-świadomości	świadomość:s1	subst:sg:loc:f	pospolita	
-świadomości	świadomość:s1	subst:sg:voc:f	pospolita	
-świadomość	świadomość:s1	subst:sg:acc:f	pospolita	
-świadomość	świadomość:s1	subst:sg:nom:f	pospolita	
-świadomościach	świadomość:s2	subst:pl:loc:f		
-świadomościami	świadomość:s2	subst:pl:inst:f		
-świadomością	świadomość:s2	subst:sg:inst:f		
-świadomościom	świadomość:s2	subst:pl:dat:f		
-świadomości	świadomość:s2	subst:pl:acc:f		
-świadomości	świadomość:s2	subst:pl:gen:f		
-świadomości	świadomość:s2	subst:pl:nom:f		
-świadomości	świadomość:s2	subst:pl:voc:f		
-świadomości	świadomość:s2	subst:sg:dat:f		
-świadomości	świadomość:s2	subst:sg:gen:f		
-świadomości	świadomość:s2	subst:sg:loc:f		
-świadomości	świadomość:s2	subst:sg:voc:f		
-świadomość	świadomość:s2	subst:sg:acc:f		
-świadomość	świadomość:s2	subst:sg:nom:f		
+świadomościach	świadomość:s	subst:pl:loc:f	pospolita	
+świadomościami	świadomość:s	subst:pl:inst:f	pospolita	
+świadomością	świadomość:s	subst:sg:inst:f	pospolita	
+świadomościom	świadomość:s	subst:pl:dat:f	pospolita	
+świadomości	świadomość:s	subst:pl:acc:f	pospolita	
+świadomości	świadomość:s	subst:pl:gen:f	pospolita	
+świadomości	świadomość:s	subst:pl:nom:f	pospolita	
+świadomości	świadomość:s	subst:pl:voc:f	pospolita	
+świadomości	świadomość:s	subst:sg:dat:f	pospolita	
+świadomości	świadomość:s	subst:sg:gen:f	pospolita	
+świadomości	świadomość:s	subst:sg:loc:f	pospolita	
+świadomości	świadomość:s	subst:sg:voc:f	pospolita	
+świadomość	świadomość:s	subst:sg:acc:f	pospolita	
+świadomość	świadomość:s	subst:sg:nom:f	pospolita	
+świadomościach	świadomość:s	subst:pl:loc:f		
+świadomościami	świadomość:s	subst:pl:inst:f		
+świadomością	świadomość:s	subst:sg:inst:f		
+świadomościom	świadomość:s	subst:pl:dat:f		
+świadomości	świadomość:s	subst:pl:acc:f		
+świadomości	świadomość:s	subst:pl:gen:f		
+świadomości	świadomość:s	subst:pl:nom:f		
+świadomości	świadomość:s	subst:pl:voc:f		
+świadomości	świadomość:s	subst:sg:dat:f		
+świadomości	świadomość:s	subst:sg:gen:f		
+świadomości	świadomość:s	subst:sg:loc:f		
+świadomości	świadomość:s	subst:sg:voc:f		
+świadomość	świadomość:s	subst:sg:acc:f		
+świadomość	świadomość:s	subst:sg:nom:f		
 świadoma	świadomy	adj:sg:nom.voc:f:pos		
 świadomą	świadomy	adj:sg:acc:f:pos		
 świadomą	świadomy	adj:sg:inst:f:pos		
@@ -21871,34 +21871,34 @@
 światłocień	światłocień	subst:sg:acc:m3	pospolita	
 światłocień	światłocień	subst:sg:nom:m3	pospolita	
 światłoczule	światłoczule	adv:pos		
-światłoczułościach	światłoczułość:s1	subst:pl:loc:f	pospolita	
-światłoczułościami	światłoczułość:s1	subst:pl:inst:f	pospolita	
-światłoczułością	światłoczułość:s1	subst:sg:inst:f	pospolita	
-światłoczułościom	światłoczułość:s1	subst:pl:dat:f	pospolita	
-światłoczułości	światłoczułość:s1	subst:pl:acc:f	pospolita	
-światłoczułości	światłoczułość:s1	subst:pl:gen:f	pospolita	
-światłoczułości	światłoczułość:s1	subst:pl:nom:f	pospolita	
-światłoczułości	światłoczułość:s1	subst:pl:voc:f	pospolita	
-światłoczułości	światłoczułość:s1	subst:sg:dat:f	pospolita	
-światłoczułości	światłoczułość:s1	subst:sg:gen:f	pospolita	
-światłoczułości	światłoczułość:s1	subst:sg:loc:f	pospolita	
-światłoczułości	światłoczułość:s1	subst:sg:voc:f	pospolita	
-światłoczułość	światłoczułość:s1	subst:sg:acc:f	pospolita	
-światłoczułość	światłoczułość:s1	subst:sg:nom:f	pospolita	
-światłoczułościach	światłoczułość:s2	subst:pl:loc:f		
-światłoczułościami	światłoczułość:s2	subst:pl:inst:f		
-światłoczułością	światłoczułość:s2	subst:sg:inst:f		
-światłoczułościom	światłoczułość:s2	subst:pl:dat:f		
-światłoczułości	światłoczułość:s2	subst:pl:acc:f		
-światłoczułości	światłoczułość:s2	subst:pl:gen:f		
-światłoczułości	światłoczułość:s2	subst:pl:nom:f		
-światłoczułości	światłoczułość:s2	subst:pl:voc:f		
-światłoczułości	światłoczułość:s2	subst:sg:dat:f		
-światłoczułości	światłoczułość:s2	subst:sg:gen:f		
-światłoczułości	światłoczułość:s2	subst:sg:loc:f		
-światłoczułości	światłoczułość:s2	subst:sg:voc:f		
-światłoczułość	światłoczułość:s2	subst:sg:acc:f		
-światłoczułość	światłoczułość:s2	subst:sg:nom:f		
+światłoczułościach	światłoczułość:s	subst:pl:loc:f	pospolita	
+światłoczułościami	światłoczułość:s	subst:pl:inst:f	pospolita	
+światłoczułością	światłoczułość:s	subst:sg:inst:f	pospolita	
+światłoczułościom	światłoczułość:s	subst:pl:dat:f	pospolita	
+światłoczułości	światłoczułość:s	subst:pl:acc:f	pospolita	
+światłoczułości	światłoczułość:s	subst:pl:gen:f	pospolita	
+światłoczułości	światłoczułość:s	subst:pl:nom:f	pospolita	
+światłoczułości	światłoczułość:s	subst:pl:voc:f	pospolita	
+światłoczułości	światłoczułość:s	subst:sg:dat:f	pospolita	
+światłoczułości	światłoczułość:s	subst:sg:gen:f	pospolita	
+światłoczułości	światłoczułość:s	subst:sg:loc:f	pospolita	
+światłoczułości	światłoczułość:s	subst:sg:voc:f	pospolita	
+światłoczułość	światłoczułość:s	subst:sg:acc:f	pospolita	
+światłoczułość	światłoczułość:s	subst:sg:nom:f	pospolita	
+światłoczułościach	światłoczułość:s	subst:pl:loc:f		
+światłoczułościami	światłoczułość:s	subst:pl:inst:f		
+światłoczułością	światłoczułość:s	subst:sg:inst:f		
+światłoczułościom	światłoczułość:s	subst:pl:dat:f		
+światłoczułości	światłoczułość:s	subst:pl:acc:f		
+światłoczułości	światłoczułość:s	subst:pl:gen:f		
+światłoczułości	światłoczułość:s	subst:pl:nom:f		
+światłoczułości	światłoczułość:s	subst:pl:voc:f		
+światłoczułości	światłoczułość:s	subst:sg:dat:f		
+światłoczułości	światłoczułość:s	subst:sg:gen:f		
+światłoczułości	światłoczułość:s	subst:sg:loc:f		
+światłoczułości	światłoczułość:s	subst:sg:voc:f		
+światłoczułość	światłoczułość:s	subst:sg:acc:f		
+światłoczułość	światłoczułość:s	subst:sg:nom:f		
 światłoczuli	światłoczuły	adj:pl:nom.voc:m1.p1:pos		
 światłoczuła	światłoczuły	adj:sg:nom.voc:f:pos		
 światłoczułą	światłoczuły	adj:sg:acc:f:pos		
@@ -22229,34 +22229,34 @@
 światłoszczelnym	światłoszczelny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 światłoszczelny	światłoszczelny	adj:sg:acc:m3:pos		
 światłoszczelny	światłoszczelny	adj:sg:nom.voc:m1.m2.m3:pos		
-światłościach	światłość:s1	subst:pl:loc:f	pospolita	
-światłościami	światłość:s1	subst:pl:inst:f	pospolita	
-światłością	światłość:s1	subst:sg:inst:f	pospolita	
-światłościom	światłość:s1	subst:pl:dat:f	pospolita	
-światłości	światłość:s1	subst:pl:acc:f	pospolita	
-światłości	światłość:s1	subst:pl:gen:f	pospolita	
-światłości	światłość:s1	subst:pl:nom:f	pospolita	
-światłości	światłość:s1	subst:pl:voc:f	pospolita	
-światłości	światłość:s1	subst:sg:dat:f	pospolita	
-światłości	światłość:s1	subst:sg:gen:f	pospolita	
-światłości	światłość:s1	subst:sg:loc:f	pospolita	
-światłości	światłość:s1	subst:sg:voc:f	pospolita	
-światłość	światłość:s1	subst:sg:acc:f	pospolita	
-światłość	światłość:s1	subst:sg:nom:f	pospolita	
-światłościach	światłość:s2	subst:pl:loc:f		
-światłościami	światłość:s2	subst:pl:inst:f		
-światłością	światłość:s2	subst:sg:inst:f		
-światłościom	światłość:s2	subst:pl:dat:f		
-światłości	światłość:s2	subst:pl:acc:f		
-światłości	światłość:s2	subst:pl:gen:f		
-światłości	światłość:s2	subst:pl:nom:f		
-światłości	światłość:s2	subst:pl:voc:f		
-światłości	światłość:s2	subst:sg:dat:f		
-światłości	światłość:s2	subst:sg:gen:f		
-światłości	światłość:s2	subst:sg:loc:f		
-światłości	światłość:s2	subst:sg:voc:f		
-światłość	światłość:s2	subst:sg:acc:f		
-światłość	światłość:s2	subst:sg:nom:f		
+światłościach	światłość:s	subst:pl:loc:f	pospolita	
+światłościami	światłość:s	subst:pl:inst:f	pospolita	
+światłością	światłość:s	subst:sg:inst:f	pospolita	
+światłościom	światłość:s	subst:pl:dat:f	pospolita	
+światłości	światłość:s	subst:pl:acc:f	pospolita	
+światłości	światłość:s	subst:pl:gen:f	pospolita	
+światłości	światłość:s	subst:pl:nom:f	pospolita	
+światłości	światłość:s	subst:pl:voc:f	pospolita	
+światłości	światłość:s	subst:sg:dat:f	pospolita	
+światłości	światłość:s	subst:sg:gen:f	pospolita	
+światłości	światłość:s	subst:sg:loc:f	pospolita	
+światłości	światłość:s	subst:sg:voc:f	pospolita	
+światłość	światłość:s	subst:sg:acc:f	pospolita	
+światłość	światłość:s	subst:sg:nom:f	pospolita	
+światłościach	światłość:s	subst:pl:loc:f		
+światłościami	światłość:s	subst:pl:inst:f		
+światłością	światłość:s	subst:sg:inst:f		
+światłościom	światłość:s	subst:pl:dat:f		
+światłości	światłość:s	subst:pl:acc:f		
+światłości	światłość:s	subst:pl:gen:f		
+światłości	światłość:s	subst:pl:nom:f		
+światłości	światłość:s	subst:pl:voc:f		
+światłości	światłość:s	subst:sg:dat:f		
+światłości	światłość:s	subst:sg:gen:f		
+światłości	światłość:s	subst:sg:loc:f		
+światłości	światłość:s	subst:sg:voc:f		
+światłość	światłość:s	subst:sg:acc:f		
+światłość	światłość:s	subst:sg:nom:f		
 światłowodowo	światłowodowo	adv:pos		
 światłowodowościach	światłowodowość	subst:pl:loc:f		
 światłowodowościami	światłowodowość	subst:pl:inst:f		
@@ -23123,34 +23123,34 @@
 świątobliwcy	świątobliwiec	subst:pl:voc:m1	pospolita	indyw.
 świątobliwcze	świątobliwiec	subst:sg:voc:m1	pospolita	indyw.
 świątobliwiec	świątobliwiec	subst:sg:nom:m1	pospolita	indyw.
-świątobliwościach	świątobliwość:s1	subst:pl:loc:f	pospolita	
-świątobliwościami	świątobliwość:s1	subst:pl:inst:f	pospolita	
-świątobliwością	świątobliwość:s1	subst:sg:inst:f	pospolita	
-świątobliwościom	świątobliwość:s1	subst:pl:dat:f	pospolita	
-świątobliwości	świątobliwość:s1	subst:pl:acc:f	pospolita	
-świątobliwości	świątobliwość:s1	subst:pl:gen:f	pospolita	
-świątobliwości	świątobliwość:s1	subst:pl:nom:f	pospolita	
-świątobliwości	świątobliwość:s1	subst:pl:voc:f	pospolita	
-świątobliwości	świątobliwość:s1	subst:sg:dat:f	pospolita	
-świątobliwości	świątobliwość:s1	subst:sg:gen:f	pospolita	
-świątobliwości	świątobliwość:s1	subst:sg:loc:f	pospolita	
-świątobliwości	świątobliwość:s1	subst:sg:voc:f	pospolita	
-świątobliwość	świątobliwość:s1	subst:sg:acc:f	pospolita	
-świątobliwość	świątobliwość:s1	subst:sg:nom:f	pospolita	
-świątobliwościach	świątobliwość:s2	subst:pl:loc:f		
-świątobliwościami	świątobliwość:s2	subst:pl:inst:f		
-świątobliwością	świątobliwość:s2	subst:sg:inst:f		
-świątobliwościom	świątobliwość:s2	subst:pl:dat:f		
-świątobliwości	świątobliwość:s2	subst:pl:acc:f		
-świątobliwości	świątobliwość:s2	subst:pl:gen:f		
-świątobliwości	świątobliwość:s2	subst:pl:nom:f		
-świątobliwości	świątobliwość:s2	subst:pl:voc:f		
-świątobliwości	świątobliwość:s2	subst:sg:dat:f		
-świątobliwości	świątobliwość:s2	subst:sg:gen:f		
-świątobliwości	świątobliwość:s2	subst:sg:loc:f		
-świątobliwości	świątobliwość:s2	subst:sg:voc:f		
-świątobliwość	świątobliwość:s2	subst:sg:acc:f		
-świątobliwość	świątobliwość:s2	subst:sg:nom:f		
+świątobliwościach	świątobliwość:s	subst:pl:loc:f	pospolita	
+świątobliwościami	świątobliwość:s	subst:pl:inst:f	pospolita	
+świątobliwością	świątobliwość:s	subst:sg:inst:f	pospolita	
+świątobliwościom	świątobliwość:s	subst:pl:dat:f	pospolita	
+świątobliwości	świątobliwość:s	subst:pl:acc:f	pospolita	
+świątobliwości	świątobliwość:s	subst:pl:gen:f	pospolita	
+świątobliwości	świątobliwość:s	subst:pl:nom:f	pospolita	
+świątobliwości	świątobliwość:s	subst:pl:voc:f	pospolita	
+świątobliwości	świątobliwość:s	subst:sg:dat:f	pospolita	
+świątobliwości	świątobliwość:s	subst:sg:gen:f	pospolita	
+świątobliwości	świątobliwość:s	subst:sg:loc:f	pospolita	
+świątobliwości	świątobliwość:s	subst:sg:voc:f	pospolita	
+świątobliwość	świątobliwość:s	subst:sg:acc:f	pospolita	
+świątobliwość	świątobliwość:s	subst:sg:nom:f	pospolita	
+świątobliwościach	świątobliwość:s	subst:pl:loc:f		
+świątobliwościami	świątobliwość:s	subst:pl:inst:f		
+świątobliwością	świątobliwość:s	subst:sg:inst:f		
+świątobliwościom	świątobliwość:s	subst:pl:dat:f		
+świątobliwości	świątobliwość:s	subst:pl:acc:f		
+świątobliwości	świątobliwość:s	subst:pl:gen:f		
+świątobliwości	świątobliwość:s	subst:pl:nom:f		
+świątobliwości	świątobliwość:s	subst:pl:voc:f		
+świątobliwości	świątobliwość:s	subst:sg:dat:f		
+świątobliwości	świątobliwość:s	subst:sg:gen:f		
+świątobliwości	świątobliwość:s	subst:sg:loc:f		
+świątobliwości	świątobliwość:s	subst:sg:voc:f		
+świątobliwość	świątobliwość:s	subst:sg:acc:f		
+świątobliwość	świątobliwość:s	subst:sg:nom:f		
 świątobliwa	świątobliwy	adj:sg:nom.voc:f:pos		
 świątobliwą	świątobliwy	adj:sg:acc:f:pos		
 świątobliwą	świątobliwy	adj:sg:inst:f:pos		
@@ -25832,6 +25832,38 @@
 świerklańskości	świerklańskość	subst:sg:voc:f		
 świerklańskość	świerklańskość	subst:sg:acc:f		
 świerklańskość	świerklańskość	subst:sg:nom:f		
+świerknięciami	świerknąć:v	ger:pl:inst:n2:perf:aff		
+świerknięcia	świerknąć:v	ger:pl:nom.acc:n2:perf:aff		
+świerknięcia	świerknąć:v	ger:sg:gen:n2:perf:aff		
+świerknięciem	świerknąć:v	ger:sg:inst:n2:perf:aff		
+świerknięcie	świerknąć:v	ger:sg:nom.acc:n2:perf:aff		
+świerknięciom	świerknąć:v	ger:pl:dat.loc:n2:perf:aff		
+świerknięciu	świerknąć:v	ger:sg:dat.loc:n2:perf:aff		
+świerknięć	świerknąć:v	ger:pl:gen:n2:perf:aff		
+świerknąca	świerknąć:v	pact:sg:nom.voc:f:imperf:aff		
+świerknącą	świerknąć:v	pact:sg:acc.inst:f:imperf:aff		
+świerknącego	świerknąć:v	pact:sg:acc:m1.m2:imperf:aff		
+świerknącego	świerknąć:v	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+świerknącej	świerknąć:v	pact:sg:gen.dat.loc:f:imperf:aff		
+świerknącemu	świerknąć:v	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+świerknące	świerknąć:v	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+świerknące	świerknąć:v	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+świerknących	świerknąć:v	pact:pl:acc:m1.p1:imperf:aff		
+świerknących	świerknąć:v	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+świerknącymi	świerknąć:v	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+świerknącym	świerknąć:v	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+świerknącym	świerknąć:v	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+świerknący	świerknąć:v	pact:pl:nom.voc:m1.p1:imperf:aff		
+świerknący	świerknąć:v	pact:sg:acc:m3:imperf:aff		
+świerknący	świerknąć:v	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+świerknięciami	świerknąć:v	ger:pl:inst:n2:imperf:aff		
+świerknięcia	świerknąć:v	ger:pl:nom.acc:n2:imperf:aff		
+świerknięcia	świerknąć:v	ger:sg:gen:n2:imperf:aff		
+świerknięciem	świerknąć:v	ger:sg:inst:n2:imperf:aff		
+świerknięcie	świerknąć:v	ger:sg:nom.acc:n2:imperf:aff		
+świerknięciom	świerknąć:v	ger:pl:dat.loc:n2:imperf:aff		
+świerknięciu	świerknąć:v	ger:sg:dat.loc:n2:imperf:aff		
+świerknięć	świerknąć:v	ger:pl:gen:n2:imperf:aff		
 świerklibyście	świerknąć:v1	cond:pl:m1.p1:sec:perf		
 świerklibyśmy	świerknąć:v1	cond:pl:m1.p1:pri:perf		
 świerkliby	świerknąć:v1	cond:pl:m1.p1:ter:perf		
@@ -25875,14 +25907,6 @@
 świerkniemy	świerknąć:v1	fin:pl:pri:perf		
 świerkniesz	świerknąć:v1	fin:sg:sec:perf		
 świerknie	świerknąć:v1	fin:sg:ter:perf		
-świerknięciami	świerknąć:v1	ger:pl:inst:n2:perf:aff		
-świerknięcia	świerknąć:v1	ger:pl:nom.acc:n2:perf:aff		
-świerknięcia	świerknąć:v1	ger:sg:gen:n2:perf:aff		
-świerknięciem	świerknąć:v1	ger:sg:inst:n2:perf:aff		
-świerknięcie	świerknąć:v1	ger:sg:nom.acc:n2:perf:aff		
-świerknięciom	świerknąć:v1	ger:pl:dat.loc:n2:perf:aff		
-świerknięciu	świerknąć:v1	ger:sg:dat.loc:n2:perf:aff		
-świerknięć	świerknąć:v1	ger:pl:gen:n2:perf:aff		
 świerknięto	świerknąć:v1	imps:perf		
 świerknijcie	świerknąć:v1	impt:pl:sec:perf		
 świerknijmy	świerknąć:v1	impt:pl:pri:perf		
@@ -25922,23 +25946,7 @@
 świerkłyśmy	świerknąć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		gwar.
 świerkły	świerknąć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		gwar.
 świerkły	świerknąć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		gwar.
-świerknąca	świerknąć:v2	pact:sg:nom.voc:f:imperf:aff		
-świerknącą	świerknąć:v2	pact:sg:acc.inst:f:imperf:aff		
-świerknącego	świerknąć:v2	pact:sg:acc:m1.m2:imperf:aff		
-świerknącego	świerknąć:v2	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-świerknącej	świerknąć:v2	pact:sg:gen.dat.loc:f:imperf:aff		
-świerknącemu	świerknąć:v2	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-świerknące	świerknąć:v2	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-świerknące	świerknąć:v2	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
 świerknąc	świerknąć:v2	pcon:imperf		gwar.
-świerknących	świerknąć:v2	pact:pl:acc:m1.p1:imperf:aff		
-świerknących	świerknąć:v2	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-świerknącymi	świerknąć:v2	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-świerknącym	świerknąć:v2	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-świerknącym	świerknąć:v2	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-świerknący	świerknąć:v2	pact:pl:nom.voc:m1.p1:imperf:aff		
-świerknący	świerknąć:v2	pact:sg:acc:m3:imperf:aff		
-świerknący	świerknąć:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 świerknąć	świerknąć:v2	inf:imperf		gwar.
 świerkną	świerknąć:v2	fin:pl:ter:imperf		gwar.
 świerknę	świerknąć:v2	fin:sg:pri:imperf		gwar.
@@ -25946,14 +25954,6 @@
 świerkniemy	świerknąć:v2	fin:pl:pri:imperf		gwar.
 świerkniesz	świerknąć:v2	fin:sg:sec:imperf		gwar.
 świerknie	świerknąć:v2	fin:sg:ter:imperf		gwar.
-świerknięciami	świerknąć:v2	ger:pl:inst:n2:imperf:aff		
-świerknięcia	świerknąć:v2	ger:pl:nom.acc:n2:imperf:aff		
-świerknięcia	świerknąć:v2	ger:sg:gen:n2:imperf:aff		
-świerknięciem	świerknąć:v2	ger:sg:inst:n2:imperf:aff		
-świerknięcie	świerknąć:v2	ger:sg:nom.acc:n2:imperf:aff		
-świerknięciom	świerknąć:v2	ger:pl:dat.loc:n2:imperf:aff		
-świerknięciu	świerknąć:v2	ger:sg:dat.loc:n2:imperf:aff		
-świerknięć	świerknąć:v2	ger:pl:gen:n2:imperf:aff		
 świerknięto	świerknąć:v2	imps:imperf		gwar.
 świerknijcie	świerknąć:v2	impt:pl:sec:imperf		gwar.
 świerknijmy	świerknąć:v2	impt:pl:pri:imperf		gwar.
@@ -27388,34 +27388,34 @@
 świetnopisy	świetnopisy	subst:pl:acc:p3	pospolita	indyw.
 świetnopisy	świetnopisy	subst:pl:nom:p3	pospolita	indyw.
 świetnopisy	świetnopisy	subst:pl:voc:p3	pospolita	indyw.
-świetnościach	świetność:s1	subst:pl:loc:f	pospolita	
-świetnościami	świetność:s1	subst:pl:inst:f	pospolita	
-świetnością	świetność:s1	subst:sg:inst:f	pospolita	
-świetnościom	świetność:s1	subst:pl:dat:f	pospolita	
-świetności	świetność:s1	subst:pl:acc:f	pospolita	
-świetności	świetność:s1	subst:pl:gen:f	pospolita	
-świetności	świetność:s1	subst:pl:nom:f	pospolita	
-świetności	świetność:s1	subst:pl:voc:f	pospolita	
-świetności	świetność:s1	subst:sg:dat:f	pospolita	
-świetności	świetność:s1	subst:sg:gen:f	pospolita	
-świetności	świetność:s1	subst:sg:loc:f	pospolita	
-świetności	świetność:s1	subst:sg:voc:f	pospolita	
-świetność	świetność:s1	subst:sg:acc:f	pospolita	
-świetność	świetność:s1	subst:sg:nom:f	pospolita	
-świetnościach	świetność:s2	subst:pl:loc:f		
-świetnościami	świetność:s2	subst:pl:inst:f		
-świetnością	świetność:s2	subst:sg:inst:f		
-świetnościom	świetność:s2	subst:pl:dat:f		
-świetności	świetność:s2	subst:pl:acc:f		
-świetności	świetność:s2	subst:pl:gen:f		
-świetności	świetność:s2	subst:pl:nom:f		
-świetności	świetność:s2	subst:pl:voc:f		
-świetności	świetność:s2	subst:sg:dat:f		
-świetności	świetność:s2	subst:sg:gen:f		
-świetności	świetność:s2	subst:sg:loc:f		
-świetności	świetność:s2	subst:sg:voc:f		
-świetność	świetność:s2	subst:sg:acc:f		
-świetność	świetność:s2	subst:sg:nom:f		
+świetnościach	świetność:s	subst:pl:loc:f	pospolita	
+świetnościami	świetność:s	subst:pl:inst:f	pospolita	
+świetnością	świetność:s	subst:sg:inst:f	pospolita	
+świetnościom	świetność:s	subst:pl:dat:f	pospolita	
+świetności	świetność:s	subst:pl:acc:f	pospolita	
+świetności	świetność:s	subst:pl:gen:f	pospolita	
+świetności	świetność:s	subst:pl:nom:f	pospolita	
+świetności	świetność:s	subst:pl:voc:f	pospolita	
+świetności	świetność:s	subst:sg:dat:f	pospolita	
+świetności	świetność:s	subst:sg:gen:f	pospolita	
+świetności	świetność:s	subst:sg:loc:f	pospolita	
+świetności	świetność:s	subst:sg:voc:f	pospolita	
+świetność	świetność:s	subst:sg:acc:f	pospolita	
+świetność	świetność:s	subst:sg:nom:f	pospolita	
+świetnościach	świetność:s	subst:pl:loc:f		
+świetnościami	świetność:s	subst:pl:inst:f		
+świetnością	świetność:s	subst:sg:inst:f		
+świetnościom	świetność:s	subst:pl:dat:f		
+świetności	świetność:s	subst:pl:acc:f		
+świetności	świetność:s	subst:pl:gen:f		
+świetności	świetność:s	subst:pl:nom:f		
+świetności	świetność:s	subst:pl:voc:f		
+świetności	świetność:s	subst:sg:dat:f		
+świetności	świetność:s	subst:sg:gen:f		
+świetności	świetność:s	subst:sg:loc:f		
+świetności	świetność:s	subst:sg:voc:f		
+świetność	świetność:s	subst:sg:acc:f		
+świetność	świetność:s	subst:sg:nom:f		
 świetna	świetny	adj:sg:nom.voc:f:pos		
 świetną	świetny	adj:sg:acc:f:pos		
 świetną	świetny	adj:sg:inst:f:pos		
@@ -27531,34 +27531,34 @@
 świeżoczesny	świeżoczesny	adj:sg:acc:m3:pos		daw.
 świeżoczesny	świeżoczesny	adj:sg:nom.voc:m1.m2.m3:pos		daw.
 świeżocześni	świeżoczesny	adj:pl:nom.voc:m1.p1:pos		daw.
-świeżościach	świeżość:s1	subst:pl:loc:f	pospolita	
-świeżościami	świeżość:s1	subst:pl:inst:f	pospolita	
-świeżością	świeżość:s1	subst:sg:inst:f	pospolita	
-świeżościom	świeżość:s1	subst:pl:dat:f	pospolita	
-świeżości	świeżość:s1	subst:pl:acc:f	pospolita	
-świeżości	świeżość:s1	subst:pl:gen:f	pospolita	
-świeżości	świeżość:s1	subst:pl:nom:f	pospolita	
-świeżości	świeżość:s1	subst:pl:voc:f	pospolita	
-świeżości	świeżość:s1	subst:sg:dat:f	pospolita	
-świeżości	świeżość:s1	subst:sg:gen:f	pospolita	
-świeżości	świeżość:s1	subst:sg:loc:f	pospolita	
-świeżości	świeżość:s1	subst:sg:voc:f	pospolita	
-świeżość	świeżość:s1	subst:sg:acc:f	pospolita	
-świeżość	świeżość:s1	subst:sg:nom:f	pospolita	
-świeżościach	świeżość:s2	subst:pl:loc:f		
-świeżościami	świeżość:s2	subst:pl:inst:f		
-świeżością	świeżość:s2	subst:sg:inst:f		
-świeżościom	świeżość:s2	subst:pl:dat:f		
-świeżości	świeżość:s2	subst:pl:acc:f		
-świeżości	świeżość:s2	subst:pl:gen:f		
-świeżości	świeżość:s2	subst:pl:nom:f		
-świeżości	świeżość:s2	subst:pl:voc:f		
-świeżości	świeżość:s2	subst:sg:dat:f		
-świeżości	świeżość:s2	subst:sg:gen:f		
-świeżości	świeżość:s2	subst:sg:loc:f		
-świeżości	świeżość:s2	subst:sg:voc:f		
-świeżość	świeżość:s2	subst:sg:acc:f		
-świeżość	świeżość:s2	subst:sg:nom:f		
+świeżościach	świeżość:s	subst:pl:loc:f	pospolita	
+świeżościami	świeżość:s	subst:pl:inst:f	pospolita	
+świeżością	świeżość:s	subst:sg:inst:f	pospolita	
+świeżościom	świeżość:s	subst:pl:dat:f	pospolita	
+świeżości	świeżość:s	subst:pl:acc:f	pospolita	
+świeżości	świeżość:s	subst:pl:gen:f	pospolita	
+świeżości	świeżość:s	subst:pl:nom:f	pospolita	
+świeżości	świeżość:s	subst:pl:voc:f	pospolita	
+świeżości	świeżość:s	subst:sg:dat:f	pospolita	
+świeżości	świeżość:s	subst:sg:gen:f	pospolita	
+świeżości	świeżość:s	subst:sg:loc:f	pospolita	
+świeżości	świeżość:s	subst:sg:voc:f	pospolita	
+świeżość	świeżość:s	subst:sg:acc:f	pospolita	
+świeżość	świeżość:s	subst:sg:nom:f	pospolita	
+świeżościach	świeżość:s	subst:pl:loc:f		
+świeżościami	świeżość:s	subst:pl:inst:f		
+świeżością	świeżość:s	subst:sg:inst:f		
+świeżościom	świeżość:s	subst:pl:dat:f		
+świeżości	świeżość:s	subst:pl:acc:f		
+świeżości	świeżość:s	subst:pl:gen:f		
+świeżości	świeżość:s	subst:pl:nom:f		
+świeżości	świeżość:s	subst:pl:voc:f		
+świeżości	świeżość:s	subst:sg:dat:f		
+świeżości	świeżość:s	subst:sg:gen:f		
+świeżości	świeżość:s	subst:sg:loc:f		
+świeżości	świeżość:s	subst:sg:voc:f		
+świeżość	świeżość:s	subst:sg:acc:f		
+świeżość	świeżość:s	subst:sg:nom:f		
 świeżocie	świeżota	subst:sg:dat:f	pospolita	daw.
 świeżocie	świeżota	subst:sg:loc:f	pospolita	daw.
 świeżotach	świeżota	subst:pl:loc:f	pospolita	daw.
@@ -28840,34 +28840,34 @@
 świętoszkowskości	świętoszkowskość	subst:sg:voc:f		
 świętoszkowskość	świętoszkowskość	subst:sg:acc:f		
 świętoszkowskość	świętoszkowskość	subst:sg:nom:f		
-świętościach	świętość:s1	subst:pl:loc:f	pospolita	
-świętościami	świętość:s1	subst:pl:inst:f	pospolita	
-świętością	świętość:s1	subst:sg:inst:f	pospolita	
-świętościom	świętość:s1	subst:pl:dat:f	pospolita	
-świętości	świętość:s1	subst:pl:acc:f	pospolita	
-świętości	świętość:s1	subst:pl:gen:f	pospolita	
-świętości	świętość:s1	subst:pl:nom:f	pospolita	
-świętości	świętość:s1	subst:pl:voc:f	pospolita	
-świętości	świętość:s1	subst:sg:dat:f	pospolita	
-świętości	świętość:s1	subst:sg:gen:f	pospolita	
-świętości	świętość:s1	subst:sg:loc:f	pospolita	
-świętości	świętość:s1	subst:sg:voc:f	pospolita	
-świętość	świętość:s1	subst:sg:acc:f	pospolita	
-świętość	świętość:s1	subst:sg:nom:f	pospolita	
-świętościach	świętość:s2	subst:pl:loc:f		
-świętościami	świętość:s2	subst:pl:inst:f		
-świętością	świętość:s2	subst:sg:inst:f		
-świętościom	świętość:s2	subst:pl:dat:f		
-świętości	świętość:s2	subst:pl:acc:f		
-świętości	świętość:s2	subst:pl:gen:f		
-świętości	świętość:s2	subst:pl:nom:f		
-świętości	świętość:s2	subst:pl:voc:f		
-świętości	świętość:s2	subst:sg:dat:f		
-świętości	świętość:s2	subst:sg:gen:f		
-świętości	świętość:s2	subst:sg:loc:f		
-świętości	świętość:s2	subst:sg:voc:f		
-świętość	świętość:s2	subst:sg:acc:f		
-świętość	świętość:s2	subst:sg:nom:f		
+świętościach	świętość:s	subst:pl:loc:f	pospolita	
+świętościami	świętość:s	subst:pl:inst:f	pospolita	
+świętością	świętość:s	subst:sg:inst:f	pospolita	
+świętościom	świętość:s	subst:pl:dat:f	pospolita	
+świętości	świętość:s	subst:pl:acc:f	pospolita	
+świętości	świętość:s	subst:pl:gen:f	pospolita	
+świętości	świętość:s	subst:pl:nom:f	pospolita	
+świętości	świętość:s	subst:pl:voc:f	pospolita	
+świętości	świętość:s	subst:sg:dat:f	pospolita	
+świętości	świętość:s	subst:sg:gen:f	pospolita	
+świętości	świętość:s	subst:sg:loc:f	pospolita	
+świętości	świętość:s	subst:sg:voc:f	pospolita	
+świętość	świętość:s	subst:sg:acc:f	pospolita	
+świętość	świętość:s	subst:sg:nom:f	pospolita	
+świętościach	świętość:s	subst:pl:loc:f		
+świętościami	świętość:s	subst:pl:inst:f		
+świętością	świętość:s	subst:sg:inst:f		
+świętościom	świętość:s	subst:pl:dat:f		
+świętości	świętość:s	subst:pl:acc:f		
+świętości	świętość:s	subst:pl:gen:f		
+świętości	świętość:s	subst:pl:nom:f		
+świętości	świętość:s	subst:pl:voc:f		
+świętości	świętość:s	subst:sg:dat:f		
+świętości	świętość:s	subst:sg:gen:f		
+świętości	świętość:s	subst:sg:loc:f		
+świętości	świętość:s	subst:sg:voc:f		
+świętość	świętość:s	subst:sg:acc:f		
+świętość	świętość:s	subst:sg:nom:f		
 świętować	świętować	inf:imperf		
 świętowalibyście	świętować	cond:pl:m1.p1:sec:imperf		
 świętowalibyśmy	świętować	cond:pl:m1.p1:pri:imperf		
@@ -30680,32 +30680,32 @@
 świstuny	świstun:s2	depr:pl:nom:m2	pospolita	daw.
 świstuny	świstun:s2	depr:pl:voc:m2	pospolita	daw.
 świszczach	świszcz	subst:pl:loc:m2	pospolita	przest.
-świszczach	świszcz	subst:pl:loc:m2	pospolita	rzad.|przest.
+świszczach	świszcz	subst:pl:loc:m2	pospolita	przest.|rzad.
 świszczami	świszcz	subst:pl:inst:m2	pospolita	przest.
-świszczami	świszcz	subst:pl:inst:m2	pospolita	rzad.|przest.
+świszczami	świszcz	subst:pl:inst:m2	pospolita	przest.|rzad.
 świszcza	świszcz	subst:sg:acc:m2	pospolita	przest.
-świszcza	świszcz	subst:sg:acc:m2	pospolita	rzad.|przest.
+świszcza	świszcz	subst:sg:acc:m2	pospolita	przest.|rzad.
 świszcza	świszcz	subst:sg:gen:m2	pospolita	przest.
-świszcza	świszcz	subst:sg:gen:m2	pospolita	rzad.|przest.
+świszcza	świszcz	subst:sg:gen:m2	pospolita	przest.|rzad.
 świszczem	świszcz	subst:sg:inst:m2	pospolita	przest.
-świszczem	świszcz	subst:sg:inst:m2	pospolita	rzad.|przest.
+świszczem	świszcz	subst:sg:inst:m2	pospolita	przest.|rzad.
 świszcze	świszcz	subst:pl:acc:m2	pospolita	przest.
-świszcze	świszcz	subst:pl:acc:m2	pospolita	rzad.|przest.
+świszcze	świszcz	subst:pl:acc:m2	pospolita	przest.|rzad.
 świszcze	świszcz	subst:pl:nom:m2	pospolita	przest.
-świszcze	świszcz	subst:pl:nom:m2	pospolita	rzad.|przest.
+świszcze	świszcz	subst:pl:nom:m2	pospolita	przest.|rzad.
 świszcze	świszcz	subst:pl:voc:m2	pospolita	przest.
-świszcze	świszcz	subst:pl:voc:m2	pospolita	rzad.|przest.
+świszcze	świszcz	subst:pl:voc:m2	pospolita	przest.|rzad.
 świszczom	świszcz	subst:pl:dat:m2	pospolita	przest.
-świszczom	świszcz	subst:pl:dat:m2	pospolita	rzad.|przest.
+świszczom	świszcz	subst:pl:dat:m2	pospolita	przest.|rzad.
 świszczowi	świszcz	subst:sg:dat:m2	pospolita	przest.
-świszczowi	świszcz	subst:sg:dat:m2	pospolita	rzad.|przest.
-świszczów	świszcz	subst:pl:gen:m2	pospolita	rzad.|przest.
+świszczowi	świszcz	subst:sg:dat:m2	pospolita	przest.|rzad.
+świszczów	świszcz	subst:pl:gen:m2	pospolita	przest.|rzad.
 świszcz	świszcz	subst:sg:nom:m2	pospolita	przest.
-świszcz	świszcz	subst:sg:nom:m2	pospolita	rzad.|przest.
+świszcz	świszcz	subst:sg:nom:m2	pospolita	przest.|rzad.
 świszczu	świszcz	subst:sg:loc:m2	pospolita	przest.
-świszczu	świszcz	subst:sg:loc:m2	pospolita	rzad.|przest.
+świszczu	świszcz	subst:sg:loc:m2	pospolita	przest.|rzad.
 świszczu	świszcz	subst:sg:voc:m2	pospolita	przest.
-świszczu	świszcz	subst:sg:voc:m2	pospolita	rzad.|przest.
+świszczu	świszcz	subst:sg:voc:m2	pospolita	przest.|rzad.
 świszczy	świszcz	subst:pl:gen:m2	pospolita	przest.
 świszcząco	świszcząco	adv:pos		
 świszcząca	świszczący	adj:sg:nom.voc:f:pos		

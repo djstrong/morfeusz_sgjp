@@ -14,22 +14,22 @@ Habakuków	Habakuk	subst:pl:acc:m1	imię	bibl.
 Habakuków	Habakuk	subst:pl:gen:m1	imię	bibl.
 Habakuku	Habakuk	subst:sg:loc:m1	imię	bibl.
 Habakuku	Habakuk	subst:sg:voc:m1	imię	bibl.
-Habsburgach	Habsburg	subst:pl:loc:m1	członek rodu	
-Habsburga	Habsburg	subst:sg:acc:m1	członek rodu	
-Habsburga	Habsburg	subst:sg:gen:m1	członek rodu	
-Habsburgami	Habsburg	subst:pl:inst:m1	członek rodu	
-Habsburg	Habsburg	subst:sg:nom:m1	członek rodu	
-Habsburgiem	Habsburg	subst:sg:inst:m1	członek rodu	
-Habsburgi	Habsburg	depr:pl:nom:m2	członek rodu	
-Habsburgi	Habsburg	depr:pl:voc:m2	członek rodu	
-Habsburgom	Habsburg	subst:pl:dat:m1	członek rodu	
-Habsburgowie	Habsburg	subst:pl:nom:m1	członek rodu	
-Habsburgowie	Habsburg	subst:pl:voc:m1	członek rodu	
-Habsburgowi	Habsburg	subst:sg:dat:m1	członek rodu	
-Habsburgów	Habsburg	subst:pl:acc:m1	członek rodu	
-Habsburgów	Habsburg	subst:pl:gen:m1	członek rodu	
-Habsburgu	Habsburg	subst:sg:loc:m1	członek rodu	
-Habsburgu	Habsburg	subst:sg:voc:m1	członek rodu	
+Habsburgach	Habsburg	subst:pl:loc:m1	członek_rodu	
+Habsburga	Habsburg	subst:sg:acc:m1	członek_rodu	
+Habsburga	Habsburg	subst:sg:gen:m1	członek_rodu	
+Habsburgami	Habsburg	subst:pl:inst:m1	członek_rodu	
+Habsburg	Habsburg	subst:sg:nom:m1	członek_rodu	
+Habsburgiem	Habsburg	subst:sg:inst:m1	członek_rodu	
+Habsburgi	Habsburg	depr:pl:nom:m2	członek_rodu	
+Habsburgi	Habsburg	depr:pl:voc:m2	członek_rodu	
+Habsburgom	Habsburg	subst:pl:dat:m1	członek_rodu	
+Habsburgowie	Habsburg	subst:pl:nom:m1	członek_rodu	
+Habsburgowie	Habsburg	subst:pl:voc:m1	członek_rodu	
+Habsburgowi	Habsburg	subst:sg:dat:m1	członek_rodu	
+Habsburgów	Habsburg	subst:pl:acc:m1	członek_rodu	
+Habsburgów	Habsburg	subst:pl:gen:m1	członek_rodu	
+Habsburgu	Habsburg	subst:sg:loc:m1	członek_rodu	
+Habsburgu	Habsburg	subst:sg:voc:m1	członek_rodu	
 Haczowach	Haczów	subst:pl:loc:m3	geograficzna	
 Haczowa	Haczów	subst:sg:gen:m3	geograficzna	
 Haczowami	Haczów	subst:pl:inst:m3	geograficzna	
@@ -39,7 +39,7 @@ Haczowie	Haczów	subst:sg:voc:m3	geograficzna
 Haczowom	Haczów	subst:pl:dat:m3	geograficzna	
 Haczowowi	Haczów	subst:sg:dat:m3	geograficzna	
 Haczowów	Haczów	subst:pl:gen:m3	geograficzna	
-Haczowu	Haczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Haczowu	Haczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Haczowy	Haczów	subst:pl:acc:m3	geograficzna	
 Haczowy	Haczów	subst:pl:nom:m3	geograficzna	
 Haczowy	Haczów	subst:pl:voc:m3	geograficzna	
@@ -292,7 +292,7 @@ Halinowie	Halinów	subst:sg:voc:m3	geograficzna
 Halinowom	Halinów	subst:pl:dat:m3	geograficzna	
 Halinowowi	Halinów	subst:sg:dat:m3	geograficzna	
 Halinowów	Halinów	subst:pl:gen:m3	geograficzna	
-Halinowu	Halinów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Halinowu	Halinów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Halinowy	Halinów	subst:pl:acc:m3	geograficzna	
 Halinowy	Halinów	subst:pl:nom:m3	geograficzna	
 Halinowy	Halinów	subst:pl:voc:m3	geograficzna	
@@ -447,20 +447,20 @@ Hammurabim	Hammurabi	subst:sg:loc:m1	imię
 Hammurabimi	Hammurabi	subst:pl:inst:m1	imię	
 Hammurabiowie	Hammurabi	subst:pl:nom:m1	imię	
 Hammurabiowie	Hammurabi	subst:pl:voc:m1	imię	
-Hampshire	Hampshire	subst:pl:acc:n2	geograficzna	człon n. wł.
-Hampshire	Hampshire	subst:pl:dat:n2	geograficzna	człon n. wł.
-Hampshire	Hampshire	subst:pl:gen:n2	geograficzna	człon n. wł.
-Hampshire	Hampshire	subst:pl:inst:n2	geograficzna	człon n. wł.
-Hampshire	Hampshire	subst:pl:loc:n2	geograficzna	człon n. wł.
-Hampshire	Hampshire	subst:pl:nom:n2	geograficzna	człon n. wł.
-Hampshire	Hampshire	subst:pl:voc:n2	geograficzna	człon n. wł.
-Hampshire	Hampshire	subst:sg:acc:n2	geograficzna	człon n. wł.
-Hampshire	Hampshire	subst:sg:dat:n2	geograficzna	człon n. wł.
-Hampshire	Hampshire	subst:sg:gen:n2	geograficzna	człon n. wł.
-Hampshire	Hampshire	subst:sg:inst:n2	geograficzna	człon n. wł.
-Hampshire	Hampshire	subst:sg:loc:n2	geograficzna	człon n. wł.
-Hampshire	Hampshire	subst:sg:nom:n2	geograficzna	człon n. wł.
-Hampshire	Hampshire	subst:sg:voc:n2	geograficzna	człon n. wł.
+Hampshire	Hampshire	subst:pl:acc:n2	geograficzna	człon_n._wł.
+Hampshire	Hampshire	subst:pl:dat:n2	geograficzna	człon_n._wł.
+Hampshire	Hampshire	subst:pl:gen:n2	geograficzna	człon_n._wł.
+Hampshire	Hampshire	subst:pl:inst:n2	geograficzna	człon_n._wł.
+Hampshire	Hampshire	subst:pl:loc:n2	geograficzna	człon_n._wł.
+Hampshire	Hampshire	subst:pl:nom:n2	geograficzna	człon_n._wł.
+Hampshire	Hampshire	subst:pl:voc:n2	geograficzna	człon_n._wł.
+Hampshire	Hampshire	subst:sg:acc:n2	geograficzna	człon_n._wł.
+Hampshire	Hampshire	subst:sg:dat:n2	geograficzna	człon_n._wł.
+Hampshire	Hampshire	subst:sg:gen:n2	geograficzna	człon_n._wł.
+Hampshire	Hampshire	subst:sg:inst:n2	geograficzna	człon_n._wł.
+Hampshire	Hampshire	subst:sg:loc:n2	geograficzna	człon_n._wł.
+Hampshire	Hampshire	subst:sg:nom:n2	geograficzna	człon_n._wł.
+Hampshire	Hampshire	subst:sg:voc:n2	geograficzna	człon_n._wł.
 Hamsunach	Hamsun	subst:pl:loc:m1	nazwisko	
 Hamsuna	Hamsun	subst:sg:acc:m1	nazwisko	
 Hamsuna	Hamsun	subst:sg:gen:m1	nazwisko	
@@ -736,22 +736,22 @@ Hańskim	Hański	subst:pl:dat:m1	nazwisko
 Hańskim	Hański	subst:sg:inst:m1	nazwisko	
 Hańskim	Hański	subst:sg:loc:m1	nazwisko	
 Hańskimi	Hański	subst:pl:inst:m1	nazwisko	
-Hakiem	Haq	subst:sg:inst:m1	człon nazwiska	
-Haki	Haq	depr:pl:nom:m2	człon nazwiska	
-Haki	Haq	depr:pl:voc:m2	człon nazwiska	
-Haqach	Haq	subst:pl:loc:m1	człon nazwiska	
-Haqa	Haq	subst:sg:acc:m1	człon nazwiska	
-Haqa	Haq	subst:sg:gen:m1	człon nazwiska	
-Haqami	Haq	subst:pl:inst:m1	człon nazwiska	
-Haq	Haq	subst:sg:nom:m1	człon nazwiska	
-Haqom	Haq	subst:pl:dat:m1	człon nazwiska	
-Haqowie	Haq	subst:pl:nom:m1	człon nazwiska	
-Haqowie	Haq	subst:pl:voc:m1	człon nazwiska	
-Haqowi	Haq	subst:sg:dat:m1	człon nazwiska	
-Haqów	Haq	subst:pl:acc:m1	człon nazwiska	
-Haqów	Haq	subst:pl:gen:m1	człon nazwiska	
-Haqu	Haq	subst:sg:loc:m1	człon nazwiska	
-Haqu	Haq	subst:sg:voc:m1	człon nazwiska	
+Hakiem	Haq	subst:sg:inst:m1	człon_nazwiska	
+Haki	Haq	depr:pl:nom:m2	człon_nazwiska	
+Haki	Haq	depr:pl:voc:m2	człon_nazwiska	
+Haqach	Haq	subst:pl:loc:m1	człon_nazwiska	
+Haqa	Haq	subst:sg:acc:m1	człon_nazwiska	
+Haqa	Haq	subst:sg:gen:m1	człon_nazwiska	
+Haqami	Haq	subst:pl:inst:m1	człon_nazwiska	
+Haq	Haq	subst:sg:nom:m1	człon_nazwiska	
+Haqom	Haq	subst:pl:dat:m1	człon_nazwiska	
+Haqowie	Haq	subst:pl:nom:m1	człon_nazwiska	
+Haqowie	Haq	subst:pl:voc:m1	człon_nazwiska	
+Haqowi	Haq	subst:sg:dat:m1	człon_nazwiska	
+Haqów	Haq	subst:pl:acc:m1	człon_nazwiska	
+Haqów	Haq	subst:pl:gen:m1	człon_nazwiska	
+Haqu	Haq	subst:sg:loc:m1	człon_nazwiska	
+Haqu	Haq	subst:sg:voc:m1	człon_nazwiska	
 Harasymach	Harasym	subst:pl:loc:m1	imię	
 Harasyma	Harasym	subst:sg:acc:m1	imię	
 Harasyma	Harasym	subst:sg:gen:m1	imię	
@@ -955,22 +955,22 @@ Haszków	Haszek	subst:pl:acc:m1	nazwisko
 Haszków	Haszek	subst:pl:gen:m1	nazwisko	
 Haszku	Haszek	subst:sg:loc:m1	nazwisko	
 Haszku	Haszek	subst:sg:voc:m1	nazwisko	
-Hauke	Hauke	depr:pl:nom:m2	człon nazwiska (herb)	
-Hauke	Hauke	depr:pl:voc:m2	człon nazwiska (herb)	
-Hauke	Hauke	subst:pl:acc:m1	człon nazwiska (herb)	
-Hauke	Hauke	subst:pl:dat:m1	człon nazwiska (herb)	
-Hauke	Hauke	subst:pl:gen:m1	człon nazwiska (herb)	
-Hauke	Hauke	subst:pl:inst:m1	człon nazwiska (herb)	
-Hauke	Hauke	subst:pl:loc:m1	człon nazwiska (herb)	
-Hauke	Hauke	subst:pl:nom:m1	człon nazwiska (herb)	
-Hauke	Hauke	subst:pl:voc:m1	człon nazwiska (herb)	
-Hauke	Hauke	subst:sg:acc:m1	człon nazwiska (herb)	
-Hauke	Hauke	subst:sg:dat:m1	człon nazwiska (herb)	
-Hauke	Hauke	subst:sg:gen:m1	człon nazwiska (herb)	
-Hauke	Hauke	subst:sg:inst:m1	człon nazwiska (herb)	
-Hauke	Hauke	subst:sg:loc:m1	człon nazwiska (herb)	
-Hauke	Hauke	subst:sg:nom:m1	człon nazwiska (herb)	
-Hauke	Hauke	subst:sg:voc:m1	człon nazwiska (herb)	
+Hauke	Hauke	depr:pl:nom:m2	człon_nazwiska_(herb)	
+Hauke	Hauke	depr:pl:voc:m2	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:pl:acc:m1	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:pl:dat:m1	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:pl:gen:m1	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:pl:inst:m1	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:pl:loc:m1	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:pl:nom:m1	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:pl:voc:m1	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:sg:acc:m1	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:sg:dat:m1	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:sg:gen:m1	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:sg:inst:m1	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:sg:loc:m1	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:sg:nom:m1	człon_nazwiska_(herb)	
+Hauke	Hauke	subst:sg:voc:m1	człon_nazwiska_(herb)	
 Hauserach	Hauser	subst:pl:loc:m1	nazwisko	
 Hausera	Hauser	subst:sg:acc:m1	nazwisko	
 Hausera	Hauser	subst:sg:gen:m1	nazwisko	
@@ -1890,7 +1890,7 @@ Henrykowie	Henryków	subst:sg:voc:m3	geograficzna
 Henrykowom	Henryków	subst:pl:dat:m3	geograficzna	
 Henrykowowi	Henryków	subst:sg:dat:m3	geograficzna	
 Henrykowów	Henryków	subst:pl:gen:m3	geograficzna	
-Henrykowu	Henryków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Henrykowu	Henryków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Henrykowy	Henryków	subst:pl:acc:m3	geograficzna	
 Henrykowy	Henryków	subst:pl:nom:m3	geograficzna	
 Henrykowy	Henryków	subst:pl:voc:m3	geograficzna	
@@ -1977,22 +1977,22 @@ Heraklesów	Herakles	subst:pl:acc:m1	imię	mit.
 Heraklesów	Herakles	subst:pl:gen:m1	imię	mit.
 Heraklesy	Herakles	depr:pl:nom:m2	imię	mit.
 Heraklesy	Herakles	depr:pl:voc:m2	imię	mit.
-Heraklidach	Heraklida	subst:pl:loc:m1	członek rodu	
-Heraklida	Heraklida	subst:sg:nom:m1	członek rodu	
-Heraklidami	Heraklida	subst:pl:inst:m1	członek rodu	
-Heraklidą	Heraklida	subst:sg:inst:m1	członek rodu	
-Heraklidę	Heraklida	subst:sg:acc:m1	członek rodu	
-Heraklido	Heraklida	subst:sg:voc:m1	członek rodu	
-Heraklidom	Heraklida	subst:pl:dat:m1	członek rodu	
-Heraklidów	Heraklida	subst:pl:acc:m1	członek rodu	
-Heraklidów	Heraklida	subst:pl:gen:m1	członek rodu	
-Heraklidy	Heraklida	depr:pl:nom:m2	członek rodu	
-Heraklidy	Heraklida	depr:pl:voc:m2	członek rodu	
-Heraklidy	Heraklida	subst:sg:gen:m1	członek rodu	
-Heraklidzie	Heraklida	subst:sg:dat:m1	członek rodu	
-Heraklidzie	Heraklida	subst:sg:loc:m1	członek rodu	
-Heraklidzi	Heraklida	subst:pl:nom:m1	członek rodu	
-Heraklidzi	Heraklida	subst:pl:voc:m1	członek rodu	
+Heraklidach	Heraklida	subst:pl:loc:m1	członek_rodu	
+Heraklida	Heraklida	subst:sg:nom:m1	członek_rodu	
+Heraklidami	Heraklida	subst:pl:inst:m1	członek_rodu	
+Heraklidą	Heraklida	subst:sg:inst:m1	członek_rodu	
+Heraklidę	Heraklida	subst:sg:acc:m1	członek_rodu	
+Heraklido	Heraklida	subst:sg:voc:m1	członek_rodu	
+Heraklidom	Heraklida	subst:pl:dat:m1	członek_rodu	
+Heraklidów	Heraklida	subst:pl:acc:m1	członek_rodu	
+Heraklidów	Heraklida	subst:pl:gen:m1	członek_rodu	
+Heraklidy	Heraklida	depr:pl:nom:m2	członek_rodu	
+Heraklidy	Heraklida	depr:pl:voc:m2	członek_rodu	
+Heraklidy	Heraklida	subst:sg:gen:m1	członek_rodu	
+Heraklidzie	Heraklida	subst:sg:dat:m1	członek_rodu	
+Heraklidzie	Heraklida	subst:sg:loc:m1	członek_rodu	
+Heraklidzi	Heraklida	subst:pl:nom:m1	członek_rodu	
+Heraklidzi	Heraklida	subst:pl:voc:m1	członek_rodu	
 Herakliuszach	Herakliusz	subst:pl:loc:m1	imię	
 Herakliusza	Herakliusz	subst:sg:acc:m1	imię	
 Herakliusza	Herakliusz	subst:sg:gen:m1	imię	
@@ -3257,22 +3257,22 @@ Hogarthów	Hogarth	subst:pl:acc:m1	nazwisko
 Hogarthów	Hogarth	subst:pl:gen:m1	nazwisko	
 Hogarthy	Hogarth	depr:pl:nom:m2	nazwisko	
 Hogarthy	Hogarth	depr:pl:voc:m2	nazwisko	
-Hohenzollernach	Hohenzollern	subst:pl:loc:m1	członek rodu	
-Hohenzollerna	Hohenzollern	subst:sg:acc:m1	członek rodu	
-Hohenzollerna	Hohenzollern	subst:sg:gen:m1	członek rodu	
-Hohenzollernami	Hohenzollern	subst:pl:inst:m1	członek rodu	
-Hohenzollernem	Hohenzollern	subst:sg:inst:m1	członek rodu	
-Hohenzollern	Hohenzollern	subst:sg:nom:m1	członek rodu	
-Hohenzollernie	Hohenzollern	subst:sg:loc:m1	członek rodu	
-Hohenzollernie	Hohenzollern	subst:sg:voc:m1	członek rodu	
-Hohenzollernom	Hohenzollern	subst:pl:dat:m1	członek rodu	
-Hohenzollernowie	Hohenzollern	subst:pl:nom:m1	członek rodu	
-Hohenzollernowie	Hohenzollern	subst:pl:voc:m1	członek rodu	
-Hohenzollernowi	Hohenzollern	subst:sg:dat:m1	członek rodu	
-Hohenzollernów	Hohenzollern	subst:pl:acc:m1	członek rodu	
-Hohenzollernów	Hohenzollern	subst:pl:gen:m1	członek rodu	
-Hohenzollerny	Hohenzollern	depr:pl:nom:m2	członek rodu	
-Hohenzollerny	Hohenzollern	depr:pl:voc:m2	członek rodu	
+Hohenzollernach	Hohenzollern	subst:pl:loc:m1	członek_rodu	
+Hohenzollerna	Hohenzollern	subst:sg:acc:m1	członek_rodu	
+Hohenzollerna	Hohenzollern	subst:sg:gen:m1	członek_rodu	
+Hohenzollernami	Hohenzollern	subst:pl:inst:m1	członek_rodu	
+Hohenzollernem	Hohenzollern	subst:sg:inst:m1	członek_rodu	
+Hohenzollern	Hohenzollern	subst:sg:nom:m1	członek_rodu	
+Hohenzollernie	Hohenzollern	subst:sg:loc:m1	członek_rodu	
+Hohenzollernie	Hohenzollern	subst:sg:voc:m1	członek_rodu	
+Hohenzollernom	Hohenzollern	subst:pl:dat:m1	członek_rodu	
+Hohenzollernowie	Hohenzollern	subst:pl:nom:m1	członek_rodu	
+Hohenzollernowie	Hohenzollern	subst:pl:voc:m1	członek_rodu	
+Hohenzollernowi	Hohenzollern	subst:sg:dat:m1	członek_rodu	
+Hohenzollernów	Hohenzollern	subst:pl:acc:m1	członek_rodu	
+Hohenzollernów	Hohenzollern	subst:pl:gen:m1	członek_rodu	
+Hohenzollerny	Hohenzollern	depr:pl:nom:m2	członek_rodu	
+Hohenzollerny	Hohenzollern	depr:pl:voc:m2	członek_rodu	
 Holandiach	Holandia	subst:pl:loc:f	geograficzna	
 Holandia	Holandia	subst:sg:nom:f	geograficzna	
 Holandiami	Holandia	subst:pl:inst:f	geograficzna	
@@ -3665,22 +3665,22 @@ Honoryny	Honoryna	subst:pl:acc:f	imię
 Honoryny	Honoryna	subst:pl:nom:f	imię	
 Honoryny	Honoryna	subst:pl:voc:f	imię	
 Honoryny	Honoryna	subst:sg:gen:f	imię	
-Hoodach	Hood	subst:pl:loc:m1	własna	człon n. wł.
-Hooda	Hood	subst:sg:acc:m1	własna	człon n. wł.
-Hooda	Hood	subst:sg:gen:m1	własna	człon n. wł.
-Hoodami	Hood	subst:pl:inst:m1	własna	człon n. wł.
-Hoodem	Hood	subst:sg:inst:m1	własna	człon n. wł.
-Hood	Hood	subst:sg:nom:m1	własna	człon n. wł.
-Hoodom	Hood	subst:pl:dat:m1	własna	człon n. wł.
-Hoodowie	Hood	subst:pl:nom:m1	własna	człon n. wł.
-Hoodowie	Hood	subst:pl:voc:m1	własna	człon n. wł.
-Hoodowi	Hood	subst:sg:dat:m1	własna	człon n. wł.
-Hoodów	Hood	subst:pl:acc:m1	własna	człon n. wł.
-Hoodów	Hood	subst:pl:gen:m1	własna	człon n. wł.
-Hoody	Hood	depr:pl:nom:m2	własna	człon n. wł.
-Hoody	Hood	depr:pl:voc:m2	własna	człon n. wł.
-Hoodzie	Hood	subst:sg:loc:m1	własna	człon n. wł.
-Hoodzie	Hood	subst:sg:voc:m1	własna	człon n. wł.
+Hoodach	Hood	subst:pl:loc:m1	własna	człon_n._wł.
+Hooda	Hood	subst:sg:acc:m1	własna	człon_n._wł.
+Hooda	Hood	subst:sg:gen:m1	własna	człon_n._wł.
+Hoodami	Hood	subst:pl:inst:m1	własna	człon_n._wł.
+Hoodem	Hood	subst:sg:inst:m1	własna	człon_n._wł.
+Hood	Hood	subst:sg:nom:m1	własna	człon_n._wł.
+Hoodom	Hood	subst:pl:dat:m1	własna	człon_n._wł.
+Hoodowie	Hood	subst:pl:nom:m1	własna	człon_n._wł.
+Hoodowie	Hood	subst:pl:voc:m1	własna	człon_n._wł.
+Hoodowi	Hood	subst:sg:dat:m1	własna	człon_n._wł.
+Hoodów	Hood	subst:pl:acc:m1	własna	człon_n._wł.
+Hoodów	Hood	subst:pl:gen:m1	własna	człon_n._wł.
+Hoody	Hood	depr:pl:nom:m2	własna	człon_n._wł.
+Hoody	Hood	depr:pl:voc:m2	własna	człon_n._wł.
+Hoodzie	Hood	subst:sg:loc:m1	własna	człon_n._wł.
+Hoodzie	Hood	subst:sg:voc:m1	własna	człon_n._wł.
 Hooverach	Hoover	subst:pl:loc:m1	nazwisko	
 Hoovera	Hoover	subst:sg:acc:m1	nazwisko	
 Hoovera	Hoover	subst:sg:gen:m1	nazwisko	
@@ -4033,7 +4033,7 @@ Hrubieszowie	Hrubieszów	subst:sg:voc:m3	geograficzna
 Hrubieszowom	Hrubieszów	subst:pl:dat:m3	geograficzna	
 Hrubieszowowi	Hrubieszów	subst:sg:dat:m3	geograficzna	
 Hrubieszowów	Hrubieszów	subst:pl:gen:m3	geograficzna	
-Hrubieszowu	Hrubieszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Hrubieszowu	Hrubieszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Hrubieszowy	Hrubieszów	subst:pl:acc:m3	geograficzna	
 Hrubieszowy	Hrubieszów	subst:pl:nom:m3	geograficzna	
 Hrubieszowy	Hrubieszów	subst:pl:voc:m3	geograficzna	

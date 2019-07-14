@@ -1,31 +1,31 @@
-C	C	subst:pl:acc:m3	język programowania	komp.
-C	C	subst:pl:acc:n2	język programowania	komp.
-C	C	subst:pl:dat:m3	język programowania	komp.
-C	C	subst:pl:dat:n2	język programowania	komp.
-C	C	subst:pl:gen:m3	język programowania	komp.
-C	C	subst:pl:gen:n2	język programowania	komp.
-C	C	subst:pl:inst:m3	język programowania	komp.
-C	C	subst:pl:inst:n2	język programowania	komp.
-C	C	subst:pl:loc:m3	język programowania	komp.
-C	C	subst:pl:loc:n2	język programowania	komp.
-C	C	subst:pl:nom:m3	język programowania	komp.
-C	C	subst:pl:nom:n2	język programowania	komp.
-C	C	subst:pl:voc:m3	język programowania	komp.
-C	C	subst:pl:voc:n2	język programowania	komp.
-C	C	subst:sg:acc:m3	język programowania	komp.
-C	C	subst:sg:acc:n2	język programowania	komp.
-C	C	subst:sg:dat:m3	język programowania	komp.
-C	C	subst:sg:dat:n2	język programowania	komp.
-C	C	subst:sg:gen:m3	język programowania	komp.
-C	C	subst:sg:gen:n2	język programowania	komp.
-C	C	subst:sg:inst:m3	język programowania	komp.
-C	C	subst:sg:inst:n2	język programowania	komp.
-C	C	subst:sg:loc:m3	język programowania	komp.
-C	C	subst:sg:loc:n2	język programowania	komp.
-C	C	subst:sg:nom:m3	język programowania	komp.
-C	C	subst:sg:nom:n2	język programowania	komp.
-C	C	subst:sg:voc:m3	język programowania	komp.
-C	C	subst:sg:voc:n2	język programowania	komp.
+C	C	subst:pl:acc:m3	język_programowania	komp.
+C	C	subst:pl:acc:n2	język_programowania	komp.
+C	C	subst:pl:dat:m3	język_programowania	komp.
+C	C	subst:pl:dat:n2	język_programowania	komp.
+C	C	subst:pl:gen:m3	język_programowania	komp.
+C	C	subst:pl:gen:n2	język_programowania	komp.
+C	C	subst:pl:inst:m3	język_programowania	komp.
+C	C	subst:pl:inst:n2	język_programowania	komp.
+C	C	subst:pl:loc:m3	język_programowania	komp.
+C	C	subst:pl:loc:n2	język_programowania	komp.
+C	C	subst:pl:nom:m3	język_programowania	komp.
+C	C	subst:pl:nom:n2	język_programowania	komp.
+C	C	subst:pl:voc:m3	język_programowania	komp.
+C	C	subst:pl:voc:n2	język_programowania	komp.
+C	C	subst:sg:acc:m3	język_programowania	komp.
+C	C	subst:sg:acc:n2	język_programowania	komp.
+C	C	subst:sg:dat:m3	język_programowania	komp.
+C	C	subst:sg:dat:n2	język_programowania	komp.
+C	C	subst:sg:gen:m3	język_programowania	komp.
+C	C	subst:sg:gen:n2	język_programowania	komp.
+C	C	subst:sg:inst:m3	język_programowania	komp.
+C	C	subst:sg:inst:n2	język_programowania	komp.
+C	C	subst:sg:loc:m3	język_programowania	komp.
+C	C	subst:sg:loc:n2	język_programowania	komp.
+C	C	subst:sg:nom:m3	język_programowania	komp.
+C	C	subst:sg:nom:n2	język_programowania	komp.
+C	C	subst:sg:voc:m3	język_programowania	komp.
+C	C	subst:sg:voc:n2	język_programowania	komp.
 Cackowska	Cackowska	subst:sg:nom:f	nazwisko	
 Cackowska	Cackowska	subst:sg:voc:f	nazwisko	
 Cackowską	Cackowska	subst:sg:acc:f	nazwisko	
@@ -365,20 +365,20 @@ Canberry	Canberra	subst:pl:voc:f	geograficzna
 Canberry	Canberra	subst:sg:gen:f	geograficzna	
 Canberze	Canberra	subst:sg:dat:f	geograficzna	
 Canberze	Canberra	subst:sg:loc:f	geograficzna	
-Candida	Candida	subst:sg:nom:f	krój pisma	poligr.
-Candidach	Candida	subst:pl:loc:f	krój pisma	poligr.
-Candidami	Candida	subst:pl:inst:f	krój pisma	poligr.
-Candidą	Candida	subst:sg:inst:f	krój pisma	poligr.
-Candid	Candida	subst:pl:gen:f	krój pisma	poligr.
-Candidę	Candida	subst:sg:acc:f	krój pisma	poligr.
-Candido	Candida	subst:sg:voc:f	krój pisma	poligr.
-Candidom	Candida	subst:pl:dat:f	krój pisma	poligr.
-Candidy	Candida	subst:pl:acc:f	krój pisma	poligr.
-Candidy	Candida	subst:pl:nom:f	krój pisma	poligr.
-Candidy	Candida	subst:pl:voc:f	krój pisma	poligr.
-Candidy	Candida	subst:sg:gen:f	krój pisma	poligr.
-Candidzie	Candida	subst:sg:dat:f	krój pisma	poligr.
-Candidzie	Candida	subst:sg:loc:f	krój pisma	poligr.
+Candida	Candida	subst:sg:nom:f	krój_pisma	poligr.
+Candidach	Candida	subst:pl:loc:f	krój_pisma	poligr.
+Candidami	Candida	subst:pl:inst:f	krój_pisma	poligr.
+Candidą	Candida	subst:sg:inst:f	krój_pisma	poligr.
+Candid	Candida	subst:pl:gen:f	krój_pisma	poligr.
+Candidę	Candida	subst:sg:acc:f	krój_pisma	poligr.
+Candido	Candida	subst:sg:voc:f	krój_pisma	poligr.
+Candidom	Candida	subst:pl:dat:f	krój_pisma	poligr.
+Candidy	Candida	subst:pl:acc:f	krój_pisma	poligr.
+Candidy	Candida	subst:pl:nom:f	krój_pisma	poligr.
+Candidy	Candida	subst:pl:voc:f	krój_pisma	poligr.
+Candidy	Candida	subst:sg:gen:f	krój_pisma	poligr.
+Candidzie	Candida	subst:sg:dat:f	krój_pisma	poligr.
+Candidzie	Candida	subst:sg:loc:f	krój_pisma	poligr.
 Cannes	Cannes	subst:pl:acc:n2	geograficzna	
 Cannes	Cannes	subst:pl:dat:n2	geograficzna	
 Cannes	Cannes	subst:pl:gen:n2	geograficzna	
@@ -1244,7 +1244,7 @@ Cegłowie	Cegłów	subst:sg:voc:m3	geograficzna
 Cegłowom	Cegłów	subst:pl:dat:m3	geograficzna	
 Cegłowowi	Cegłów	subst:sg:dat:m3	geograficzna	
 Cegłowów	Cegłów	subst:pl:gen:m3	geograficzna	
-Cegłowu	Cegłów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Cegłowu	Cegłów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Cegłowy	Cegłów	subst:pl:acc:m3	geograficzna	
 Cegłowy	Cegłów	subst:pl:nom:m3	geograficzna	
 Cegłowy	Cegłów	subst:pl:voc:m3	geograficzna	
@@ -1287,7 +1287,7 @@ Cekowie	Ceków	subst:sg:voc:m3	geograficzna
 Cekowom	Ceków	subst:pl:dat:m3	geograficzna	
 Cekowowi	Ceków	subst:sg:dat:m3	geograficzna	
 Cekowów	Ceków	subst:pl:gen:m3	geograficzna	
-Cekowu	Ceków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Cekowu	Ceków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Cekowy	Ceków	subst:pl:acc:m3	geograficzna	
 Cekowy	Ceków	subst:pl:nom:m3	geograficzna	
 Cekowy	Ceków	subst:pl:voc:m3	geograficzna	
@@ -1364,7 +1364,7 @@ Celestynowie	Celestynów	subst:sg:voc:m3	geograficzna
 Celestynowom	Celestynów	subst:pl:dat:m3	geograficzna	
 Celestynowowi	Celestynów	subst:sg:dat:m3	geograficzna	
 Celestynowów	Celestynów	subst:pl:gen:m3	geograficzna	
-Celestynowu	Celestynów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Celestynowu	Celestynów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Celestynowy	Celestynów	subst:pl:acc:m3	geograficzna	
 Celestynowy	Celestynów	subst:pl:nom:m3	geograficzna	
 Celestynowy	Celestynów	subst:pl:voc:m3	geograficzna	
@@ -1626,7 +1626,7 @@ Ceranowie	Ceranów	subst:sg:voc:m3	geograficzna
 Ceranowom	Ceranów	subst:pl:dat:m3	geograficzna	
 Ceranowowi	Ceranów	subst:sg:dat:m3	geograficzna	
 Ceranowów	Ceranów	subst:pl:gen:m3	geograficzna	
-Ceranowu	Ceranów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Ceranowu	Ceranów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Ceranowy	Ceranów	subst:pl:acc:m3	geograficzna	
 Ceranowy	Ceranów	subst:pl:nom:m3	geograficzna	
 Ceranowy	Ceranów	subst:pl:voc:m3	geograficzna	
@@ -2092,7 +2092,7 @@ Charkowie	Charków	subst:sg:voc:m3	geograficzna
 Charkowom	Charków	subst:pl:dat:m3	geograficzna	
 Charkowowi	Charków	subst:sg:dat:m3	geograficzna	
 Charkowów	Charków	subst:pl:gen:m3	geograficzna	
-Charkowu	Charków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Charkowu	Charków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Charkowy	Charków	subst:pl:acc:m3	geograficzna	
 Charkowy	Charków	subst:pl:nom:m3	geograficzna	
 Charkowy	Charków	subst:pl:voc:m3	geograficzna	
@@ -2879,7 +2879,7 @@ Chochołowie	Chochołów	subst:sg:voc:m3	geograficzna
 Chochołowom	Chochołów	subst:pl:dat:m3	geograficzna	
 Chochołowowi	Chochołów	subst:sg:dat:m3	geograficzna	
 Chochołowów	Chochołów	subst:pl:gen:m3	geograficzna	
-Chochołowu	Chochołów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Chochołowu	Chochołów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Chochołowy	Chochołów	subst:pl:acc:m3	geograficzna	
 Chochołowy	Chochołów	subst:pl:nom:m3	geograficzna	
 Chochołowy	Chochołów	subst:pl:voc:m3	geograficzna	
@@ -2894,7 +2894,7 @@ Chocianowie	Chocianów	subst:sg:voc:m3	geograficzna
 Chocianowom	Chocianów	subst:pl:dat:m3	geograficzna	
 Chocianowowi	Chocianów	subst:sg:dat:m3	geograficzna	
 Chocianowów	Chocianów	subst:pl:gen:m3	geograficzna	
-Chocianowu	Chocianów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Chocianowu	Chocianów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Chocianowy	Chocianów	subst:pl:acc:m3	geograficzna	
 Chocianowy	Chocianów	subst:pl:nom:m3	geograficzna	
 Chocianowy	Chocianów	subst:pl:voc:m3	geograficzna	
@@ -3040,7 +3040,7 @@ Chodowie	Chodów	subst:sg:voc:m3	geograficzna
 Chodowom	Chodów	subst:pl:dat:m3	geograficzna	
 Chodowowi	Chodów	subst:sg:dat:m3	geograficzna	
 Chodowów	Chodów	subst:pl:gen:m3	geograficzna	
-Chodowu	Chodów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Chodowu	Chodów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Chodowy	Chodów	subst:pl:acc:m3	geograficzna	
 Chodowy	Chodów	subst:pl:nom:m3	geograficzna	
 Chodowy	Chodów	subst:pl:voc:m3	geograficzna	
@@ -3175,7 +3175,7 @@ Chojnowie	Chojnów	subst:sg:voc:m3	geograficzna
 Chojnowom	Chojnów	subst:pl:dat:m3	geograficzna	
 Chojnowowi	Chojnów	subst:sg:dat:m3	geograficzna	
 Chojnowów	Chojnów	subst:pl:gen:m3	geograficzna	
-Chojnowu	Chojnów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Chojnowu	Chojnów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Chojnowy	Chojnów	subst:pl:acc:m3	geograficzna	
 Chojnowy	Chojnów	subst:pl:nom:m3	geograficzna	
 Chojnowy	Chojnów	subst:pl:voc:m3	geograficzna	
@@ -3362,7 +3362,7 @@ Chorzowie	Chorzów	subst:sg:voc:m3	geograficzna
 Chorzowom	Chorzów	subst:pl:dat:m3	geograficzna	
 Chorzowowi	Chorzów	subst:sg:dat:m3	geograficzna	
 Chorzowów	Chorzów	subst:pl:gen:m3	geograficzna	
-Chorzowu	Chorzów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Chorzowu	Chorzów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Chorzowy	Chorzów	subst:pl:acc:m3	geograficzna	
 Chorzowy	Chorzów	subst:pl:nom:m3	geograficzna	
 Chorzowy	Chorzów	subst:pl:voc:m3	geograficzna	
@@ -3722,7 +3722,7 @@ Chrzanowie	Chrzanów	subst:sg:voc:m3	geograficzna
 Chrzanowom	Chrzanów	subst:pl:dat:m3	geograficzna	
 Chrzanowowi	Chrzanów	subst:sg:dat:m3	geograficzna	
 Chrzanowów	Chrzanów	subst:pl:gen:m3	geograficzna	
-Chrzanowu	Chrzanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Chrzanowu	Chrzanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Chrzanowy	Chrzanów	subst:pl:acc:m3	geograficzna	
 Chrzanowy	Chrzanów	subst:pl:nom:m3	geograficzna	
 Chrzanowy	Chrzanów	subst:pl:voc:m3	geograficzna	
@@ -4018,7 +4018,7 @@ Chynowie	Chynów	subst:sg:voc:m3	geograficzna
 Chynowom	Chynów	subst:pl:dat:m3	geograficzna	
 Chynowowi	Chynów	subst:sg:dat:m3	geograficzna	
 Chynowów	Chynów	subst:pl:gen:m3	geograficzna	
-Chynowu	Chynów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Chynowu	Chynów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Chynowy	Chynów	subst:pl:acc:m3	geograficzna	
 Chynowy	Chynów	subst:pl:nom:m3	geograficzna	
 Chynowy	Chynów	subst:pl:voc:m3	geograficzna	
@@ -4199,7 +4199,7 @@ Ciechanowie	Ciechanów	subst:sg:voc:m3	geograficzna
 Ciechanowom	Ciechanów	subst:pl:dat:m3	geograficzna	
 Ciechanowowi	Ciechanów	subst:sg:dat:m3	geograficzna	
 Ciechanowów	Ciechanów	subst:pl:gen:m3	geograficzna	
-Ciechanowu	Ciechanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Ciechanowu	Ciechanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Ciechanowy	Ciechanów	subst:pl:acc:m3	geograficzna	
 Ciechanowy	Ciechanów	subst:pl:nom:m3	geograficzna	
 Ciechanowy	Ciechanów	subst:pl:voc:m3	geograficzna	
@@ -4338,7 +4338,7 @@ Ciepielowie	Ciepielów	subst:sg:voc:m3	geograficzna
 Ciepielowom	Ciepielów	subst:pl:dat:m3	geograficzna	
 Ciepielowowi	Ciepielów	subst:sg:dat:m3	geograficzna	
 Ciepielowów	Ciepielów	subst:pl:gen:m3	geograficzna	
-Ciepielowu	Ciepielów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Ciepielowu	Ciepielów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Ciepielowy	Ciepielów	subst:pl:acc:m3	geograficzna	
 Ciepielowy	Ciepielów	subst:pl:nom:m3	geograficzna	
 Ciepielowy	Ciepielów	subst:pl:voc:m3	geograficzna	
@@ -4445,7 +4445,7 @@ Cieszanowie	Cieszanów	subst:sg:voc:m3	geograficzna
 Cieszanowom	Cieszanów	subst:pl:dat:m3	geograficzna	
 Cieszanowowi	Cieszanów	subst:sg:dat:m3	geograficzna	
 Cieszanowów	Cieszanów	subst:pl:gen:m3	geograficzna	
-Cieszanowu	Cieszanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Cieszanowu	Cieszanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Cieszanowy	Cieszanów	subst:pl:acc:m3	geograficzna	
 Cieszanowy	Cieszanów	subst:pl:nom:m3	geograficzna	
 Cieszanowy	Cieszanów	subst:pl:voc:m3	geograficzna	
@@ -4460,7 +4460,7 @@ Cieszkowie	Cieszków	subst:sg:voc:m3	geograficzna
 Cieszkowom	Cieszków	subst:pl:dat:m3	geograficzna	
 Cieszkowowi	Cieszków	subst:sg:dat:m3	geograficzna	
 Cieszkowów	Cieszków	subst:pl:gen:m3	geograficzna	
-Cieszkowu	Cieszków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Cieszkowu	Cieszków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Cieszkowy	Cieszków	subst:pl:acc:m3	geograficzna	
 Cieszkowy	Cieszków	subst:pl:nom:m3	geograficzna	
 Cieszkowy	Cieszków	subst:pl:voc:m3	geograficzna	
@@ -4956,20 +4956,20 @@ Clintonów	Clinton	subst:pl:acc:m1	nazwisko
 Clintonów	Clinton	subst:pl:gen:m1	nazwisko	
 Clintony	Clinton	depr:pl:nom:m2	nazwisko	
 Clintony	Clinton	depr:pl:voc:m2	nazwisko	
-Clubach	Club	subst:pl:loc:m3	organizacja	człon n. wł.
-Clubami	Club	subst:pl:inst:m3	organizacja	człon n. wł.
-Club	Club	subst:sg:acc:m3	organizacja	człon n. wł.
-Club	Club	subst:sg:nom:m3	organizacja	człon n. wł.
-Clubem	Club	subst:sg:inst:m3	organizacja	człon n. wł.
-Clubie	Club	subst:sg:loc:m3	organizacja	człon n. wł.
-Clubie	Club	subst:sg:voc:m3	organizacja	człon n. wł.
-Clubom	Club	subst:pl:dat:m3	organizacja	człon n. wł.
-Clubowi	Club	subst:sg:dat:m3	organizacja	człon n. wł.
-Clubów	Club	subst:pl:gen:m3	organizacja	człon n. wł.
-Clubu	Club	subst:sg:gen:m3	organizacja	człon n. wł.
-Cluby	Club	subst:pl:acc:m3	organizacja	człon n. wł.
-Cluby	Club	subst:pl:nom:m3	organizacja	człon n. wł.
-Cluby	Club	subst:pl:voc:m3	organizacja	człon n. wł.
+Clubach	Club	subst:pl:loc:m3	organizacja	człon_n._wł.
+Clubami	Club	subst:pl:inst:m3	organizacja	człon_n._wł.
+Club	Club	subst:sg:acc:m3	organizacja	człon_n._wł.
+Club	Club	subst:sg:nom:m3	organizacja	człon_n._wł.
+Clubem	Club	subst:sg:inst:m3	organizacja	człon_n._wł.
+Clubie	Club	subst:sg:loc:m3	organizacja	człon_n._wł.
+Clubie	Club	subst:sg:voc:m3	organizacja	człon_n._wł.
+Clubom	Club	subst:pl:dat:m3	organizacja	człon_n._wł.
+Clubowi	Club	subst:sg:dat:m3	organizacja	człon_n._wł.
+Clubów	Club	subst:pl:gen:m3	organizacja	człon_n._wł.
+Clubu	Club	subst:sg:gen:m3	organizacja	człon_n._wł.
+Cluby	Club	subst:pl:acc:m3	organizacja	człon_n._wł.
+Cluby	Club	subst:pl:nom:m3	organizacja	człon_n._wł.
+Cluby	Club	subst:pl:voc:m3	organizacja	człon_n._wł.
 Cmolasach	Cmolas	subst:pl:loc:m3	geograficzna	
 Cmolasami	Cmolas	subst:pl:inst:m3	geograficzna	
 Cmolas	Cmolas	subst:sg:acc:m3	geograficzna	
@@ -5040,22 +5040,22 @@ CO	CO	subst:sg:inst:n2	pospolita
 CO	CO	subst:sg:loc:n2	pospolita	
 CO	CO	subst:sg:nom:n2	pospolita	
 CO	CO	subst:sg:voc:n2	pospolita	
-Cobolach	Cobol	subst:pl:loc:m3	język programowania	komp.
-Cobola	Cobol	subst:sg:gen:m3	język programowania	komp.
-Cobolami	Cobol	subst:pl:inst:m3	język programowania	komp.
-Cobol	Cobol	subst:sg:acc:m3	język programowania	komp.
-Cobol	Cobol	subst:sg:nom:m3	język programowania	komp.
-Cobole	Cobol	subst:pl:acc:m3	język programowania	komp.
-Cobole	Cobol	subst:pl:nom:m3	język programowania	komp.
-Cobole	Cobol	subst:pl:voc:m3	język programowania	komp.
-Cobolem	Cobol	subst:sg:inst:m3	język programowania	komp.
-Coboli	Cobol	subst:pl:gen:m3	język programowania	komp.
-Cobolom	Cobol	subst:pl:dat:m3	język programowania	komp.
-Cobolowi	Cobol	subst:sg:dat:m3	język programowania	komp.
-Cobolów	Cobol	subst:pl:gen:m3	język programowania	komp.
-Cobolu	Cobol	subst:sg:gen:m3	język programowania	komp.
-Cobolu	Cobol	subst:sg:loc:m3	język programowania	komp.
-Cobolu	Cobol	subst:sg:voc:m3	język programowania	komp.
+Cobolach	Cobol	subst:pl:loc:m3	język_programowania	komp.
+Cobola	Cobol	subst:sg:gen:m3	język_programowania	komp.
+Cobolami	Cobol	subst:pl:inst:m3	język_programowania	komp.
+Cobol	Cobol	subst:sg:acc:m3	język_programowania	komp.
+Cobol	Cobol	subst:sg:nom:m3	język_programowania	komp.
+Cobole	Cobol	subst:pl:acc:m3	język_programowania	komp.
+Cobole	Cobol	subst:pl:nom:m3	język_programowania	komp.
+Cobole	Cobol	subst:pl:voc:m3	język_programowania	komp.
+Cobolem	Cobol	subst:sg:inst:m3	język_programowania	komp.
+Coboli	Cobol	subst:pl:gen:m3	język_programowania	komp.
+Cobolom	Cobol	subst:pl:dat:m3	język_programowania	komp.
+Cobolowi	Cobol	subst:sg:dat:m3	język_programowania	komp.
+Cobolów	Cobol	subst:pl:gen:m3	język_programowania	komp.
+Cobolu	Cobol	subst:sg:gen:m3	język_programowania	komp.
+Cobolu	Cobol	subst:sg:loc:m3	język_programowania	komp.
+Cobolu	Cobol	subst:sg:voc:m3	język_programowania	komp.
 COCOM-ach	COCOM	subst:pl:loc:m3	organizacja	
 COCOM-ami	COCOM	subst:pl:inst:m3	organizacja	
 COCOM	COCOM	subst:sg:acc:m3	organizacja	
@@ -6041,7 +6041,7 @@ Cycowie	Cyców	subst:sg:voc:m3	geograficzna
 Cycowom	Cyców	subst:pl:dat:m3	geograficzna	
 Cycowowi	Cyców	subst:sg:dat:m3	geograficzna	
 Cycowów	Cyców	subst:pl:gen:m3	geograficzna	
-Cycowu	Cyców	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Cycowu	Cyców	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Cycowy	Cyców	subst:pl:acc:m3	geograficzna	
 Cycowy	Cyców	subst:pl:nom:m3	geograficzna	
 Cycowy	Cyców	subst:pl:voc:m3	geograficzna	
@@ -6880,7 +6880,7 @@ Czarnkowie	Czarnków	subst:sg:voc:m3	geograficzna
 Czarnkowom	Czarnków	subst:pl:dat:m3	geograficzna	
 Czarnkowowi	Czarnków	subst:sg:dat:m3	geograficzna	
 Czarnkowów	Czarnków	subst:pl:gen:m3	geograficzna	
-Czarnkowu	Czarnków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Czarnkowu	Czarnków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Czarnkowy	Czarnków	subst:pl:acc:m3	geograficzna	
 Czarnkowy	Czarnków	subst:pl:nom:m3	geograficzna	
 Czarnkowy	Czarnków	subst:pl:voc:m3	geograficzna	
@@ -7047,7 +7047,7 @@ Czchowie	Czchów	subst:sg:voc:m3	geograficzna
 Czchowom	Czchów	subst:pl:dat:m3	geograficzna	
 Czchowowi	Czchów	subst:sg:dat:m3	geograficzna	
 Czchowów	Czchów	subst:pl:gen:m3	geograficzna	
-Czchowu	Czchów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Czchowu	Czchów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Czchowy	Czchów	subst:pl:acc:m3	geograficzna	
 Czchowy	Czchów	subst:pl:nom:m3	geograficzna	
 Czchowy	Czchów	subst:pl:voc:m3	geograficzna	
@@ -7515,7 +7515,7 @@ Czerniakowie	Czerniaków:s2	subst:sg:voc:m3	geograficzna
 Czerniakowom	Czerniaków:s2	subst:pl:dat:m3	geograficzna	
 Czerniakowowi	Czerniaków:s2	subst:sg:dat:m3	geograficzna	
 Czerniakowów	Czerniaków:s2	subst:pl:gen:m3	geograficzna	
-Czerniakowu	Czerniaków:s2	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Czerniakowu	Czerniaków:s2	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Czerniakowy	Czerniaków:s2	subst:pl:acc:m3	geograficzna	
 Czerniakowy	Czerniaków:s2	subst:pl:nom:m3	geograficzna	
 Czerniakowy	Czerniaków:s2	subst:pl:voc:m3	geograficzna	
@@ -7588,7 +7588,7 @@ Czernichowie	Czernichów	subst:sg:voc:m3	geograficzna
 Czernichowom	Czernichów	subst:pl:dat:m3	geograficzna	
 Czernichowowi	Czernichów	subst:sg:dat:m3	geograficzna	
 Czernichowów	Czernichów	subst:pl:gen:m3	geograficzna	
-Czernichowu	Czernichów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Czernichowu	Czernichów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Czernichowy	Czernichów	subst:pl:acc:m3	geograficzna	
 Czernichowy	Czernichów	subst:pl:nom:m3	geograficzna	
 Czernichowy	Czernichów	subst:pl:voc:m3	geograficzna	
@@ -7631,7 +7631,7 @@ Czernihowie	Czernihów	subst:sg:voc:m3	geograficzna
 Czernihowom	Czernihów	subst:pl:dat:m3	geograficzna	
 Czernihowowi	Czernihów	subst:sg:dat:m3	geograficzna	
 Czernihowów	Czernihów	subst:pl:gen:m3	geograficzna	
-Czernihowu	Czernihów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Czernihowu	Czernihów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Czernihowy	Czernihów	subst:pl:acc:m3	geograficzna	
 Czernihowy	Czernihów	subst:pl:nom:m3	geograficzna	
 Czernihowy	Czernihów	subst:pl:voc:m3	geograficzna	
@@ -7976,7 +7976,7 @@ Człuchowie	Człuchów	subst:sg:voc:m3	geograficzna
 Człuchowom	Człuchów	subst:pl:dat:m3	geograficzna	
 Człuchowowi	Człuchów	subst:sg:dat:m3	geograficzna	
 Człuchowów	Człuchów	subst:pl:gen:m3	geograficzna	
-Człuchowu	Człuchów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Człuchowu	Człuchów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Człuchowy	Człuchów	subst:pl:acc:m3	geograficzna	
 Człuchowy	Człuchów	subst:pl:nom:m3	geograficzna	
 Człuchowy	Człuchów	subst:pl:voc:m3	geograficzna	
@@ -8019,7 +8019,7 @@ Czosnowie	Czosnów	subst:sg:voc:m3	geograficzna
 Czosnowom	Czosnów	subst:pl:dat:m3	geograficzna	
 Czosnowowi	Czosnów	subst:sg:dat:m3	geograficzna	
 Czosnowów	Czosnów	subst:pl:gen:m3	geograficzna	
-Czosnowu	Czosnów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Czosnowu	Czosnów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Czosnowy	Czosnów	subst:pl:acc:m3	geograficzna	
 Czosnowy	Czosnów	subst:pl:nom:m3	geograficzna	
 Czosnowy	Czosnów	subst:pl:voc:m3	geograficzna	

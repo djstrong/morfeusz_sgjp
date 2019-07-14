@@ -37,7 +37,7 @@ Zabierzowie	Zabierzów	subst:sg:voc:m3	geograficzna
 Zabierzowom	Zabierzów	subst:pl:dat:m3	geograficzna	
 Zabierzowowi	Zabierzów	subst:sg:dat:m3	geograficzna	
 Zabierzowów	Zabierzów	subst:pl:gen:m3	geograficzna	
-Zabierzowu	Zabierzów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Zabierzowu	Zabierzów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Zabierzowy	Zabierzów	subst:pl:acc:m3	geograficzna	
 Zabierzowy	Zabierzów	subst:pl:nom:m3	geograficzna	
 Zabierzowy	Zabierzów	subst:pl:voc:m3	geograficzna	
@@ -82,7 +82,7 @@ Zabłudowie	Zabłudów	subst:sg:voc:m3	geograficzna
 Zabłudowom	Zabłudów	subst:pl:dat:m3	geograficzna	
 Zabłudowowi	Zabłudów	subst:sg:dat:m3	geograficzna	
 Zabłudowów	Zabłudów	subst:pl:gen:m3	geograficzna	
-Zabłudowu	Zabłudów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Zabłudowu	Zabłudów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Zabłudowy	Zabłudów	subst:pl:acc:m3	geograficzna	
 Zabłudowy	Zabłudów	subst:pl:nom:m3	geograficzna	
 Zabłudowy	Zabłudów	subst:pl:voc:m3	geograficzna	
@@ -127,7 +127,7 @@ Zaborowie	Zaborów	subst:sg:voc:m3	geograficzna
 Zaborowom	Zaborów	subst:pl:dat:m3	geograficzna	
 Zaborowowi	Zaborów	subst:sg:dat:m3	geograficzna	
 Zaborowów	Zaborów	subst:pl:gen:m3	geograficzna	
-Zaborowu	Zaborów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Zaborowu	Zaborów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Zaborowy	Zaborów	subst:pl:acc:m3	geograficzna	
 Zaborowy	Zaborów	subst:pl:nom:m3	geograficzna	
 Zaborowy	Zaborów	subst:pl:voc:m3	geograficzna	
@@ -306,7 +306,7 @@ Zagórowie	Zagórów	subst:sg:voc:m3	geograficzna
 Zagórowom	Zagórów	subst:pl:dat:m3	geograficzna	
 Zagórowowi	Zagórów	subst:sg:dat:m3	geograficzna	
 Zagórowów	Zagórów	subst:pl:gen:m3	geograficzna	
-Zagórowu	Zagórów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Zagórowu	Zagórów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Zagórowy	Zagórów	subst:pl:acc:m3	geograficzna	
 Zagórowy	Zagórów	subst:pl:nom:m3	geograficzna	
 Zagórowy	Zagórów	subst:pl:voc:m3	geograficzna	
@@ -498,7 +498,7 @@ Zaklikowie	Zaklików	subst:sg:voc:m3	geograficzna
 Zaklikowom	Zaklików	subst:pl:dat:m3	geograficzna	
 Zaklikowowi	Zaklików	subst:sg:dat:m3	geograficzna	
 Zaklikowów	Zaklików	subst:pl:gen:m3	geograficzna	
-Zaklikowu	Zaklików	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Zaklikowu	Zaklików	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Zaklikowy	Zaklików	subst:pl:acc:m3	geograficzna	
 Zaklikowy	Zaklików	subst:pl:nom:m3	geograficzna	
 Zaklikowy	Zaklików	subst:pl:voc:m3	geograficzna	
@@ -586,7 +586,7 @@ Zakrzowie	Zakrzów	subst:sg:voc:m3	geograficzna
 Zakrzowom	Zakrzów	subst:pl:dat:m3	geograficzna	
 Zakrzowowi	Zakrzów	subst:sg:dat:m3	geograficzna	
 Zakrzowów	Zakrzów	subst:pl:gen:m3	geograficzna	
-Zakrzowu	Zakrzów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Zakrzowu	Zakrzów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Zakrzowy	Zakrzów	subst:pl:acc:m3	geograficzna	
 Zakrzowy	Zakrzów	subst:pl:nom:m3	geograficzna	
 Zakrzowy	Zakrzów	subst:pl:voc:m3	geograficzna	
@@ -810,7 +810,7 @@ Zambrowie	Zambrów	subst:sg:voc:m3	geograficzna
 Zambrowom	Zambrów	subst:pl:dat:m3	geograficzna	
 Zambrowowi	Zambrów	subst:sg:dat:m3	geograficzna	
 Zambrowów	Zambrów	subst:pl:gen:m3	geograficzna	
-Zambrowu	Zambrów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Zambrowu	Zambrów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Zambrowy	Zambrów	subst:pl:acc:m3	geograficzna	
 Zambrowy	Zambrów	subst:pl:nom:m3	geograficzna	
 Zambrowy	Zambrów	subst:pl:voc:m3	geograficzna	
@@ -1410,7 +1410,7 @@ Zawidowie	Zawidów	subst:sg:voc:m3	geograficzna
 Zawidowom	Zawidów	subst:pl:dat:m3	geograficzna	
 Zawidowowi	Zawidów	subst:sg:dat:m3	geograficzna	
 Zawidowów	Zawidów	subst:pl:gen:m3	geograficzna	
-Zawidowu	Zawidów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Zawidowu	Zawidów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Zawidowy	Zawidów	subst:pl:acc:m3	geograficzna	
 Zawidowy	Zawidów	subst:pl:nom:m3	geograficzna	
 Zawidowy	Zawidów	subst:pl:voc:m3	geograficzna	
@@ -2396,22 +2396,22 @@ Zebulonów	Zebulon	subst:pl:gen:m1	imię
 Zebulony	Zebulon	depr:pl:nom:m2	imię	
 Zebulony	Zebulon	depr:pl:voc:m2	imię	
 Zebulon	Zebulon	subst:sg:nom:m1	imię	
-Zedongach	Zedong	subst:pl:loc:m1	nazwisko	człon n. wł.
-Zedongami	Zedong	subst:pl:inst:m1	nazwisko	człon n. wł.
-Zedonga	Zedong	subst:sg:acc:m1	nazwisko	człon n. wł.
-Zedonga	Zedong	subst:sg:gen:m1	nazwisko	człon n. wł.
-Zedongiem	Zedong	subst:sg:inst:m1	nazwisko	człon n. wł.
-Zedongi	Zedong	depr:pl:nom:m2	nazwisko	człon n. wł.
-Zedongi	Zedong	depr:pl:voc:m2	nazwisko	człon n. wł.
-Zedongom	Zedong	subst:pl:dat:m1	nazwisko	człon n. wł.
-Zedongowie	Zedong	subst:pl:nom:m1	nazwisko	człon n. wł.
-Zedongowie	Zedong	subst:pl:voc:m1	nazwisko	człon n. wł.
-Zedongowi	Zedong	subst:sg:dat:m1	nazwisko	człon n. wł.
-Zedongów	Zedong	subst:pl:acc:m1	nazwisko	człon n. wł.
-Zedongów	Zedong	subst:pl:gen:m1	nazwisko	człon n. wł.
-Zedongu	Zedong	subst:sg:loc:m1	nazwisko	człon n. wł.
-Zedongu	Zedong	subst:sg:voc:m1	nazwisko	człon n. wł.
-Zedong	Zedong	subst:sg:nom:m1	nazwisko	człon n. wł.
+Zedongach	Zedong	subst:pl:loc:m1	nazwisko	człon_n._wł.
+Zedongami	Zedong	subst:pl:inst:m1	nazwisko	człon_n._wł.
+Zedonga	Zedong	subst:sg:acc:m1	nazwisko	człon_n._wł.
+Zedonga	Zedong	subst:sg:gen:m1	nazwisko	człon_n._wł.
+Zedongiem	Zedong	subst:sg:inst:m1	nazwisko	człon_n._wł.
+Zedongi	Zedong	depr:pl:nom:m2	nazwisko	człon_n._wł.
+Zedongi	Zedong	depr:pl:voc:m2	nazwisko	człon_n._wł.
+Zedongom	Zedong	subst:pl:dat:m1	nazwisko	człon_n._wł.
+Zedongowie	Zedong	subst:pl:nom:m1	nazwisko	człon_n._wł.
+Zedongowie	Zedong	subst:pl:voc:m1	nazwisko	człon_n._wł.
+Zedongowi	Zedong	subst:sg:dat:m1	nazwisko	człon_n._wł.
+Zedongów	Zedong	subst:pl:acc:m1	nazwisko	człon_n._wł.
+Zedongów	Zedong	subst:pl:gen:m1	nazwisko	człon_n._wł.
+Zedongu	Zedong	subst:sg:loc:m1	nazwisko	człon_n._wł.
+Zedongu	Zedong	subst:sg:voc:m1	nazwisko	człon_n._wł.
+Zedong	Zedong	subst:sg:nom:m1	nazwisko	człon_n._wł.
 Zeffirellego	Zeffirelli	subst:sg:acc:m1	nazwisko	
 Zeffirellego	Zeffirelli	subst:sg:gen:m1	nazwisko	
 Zeffirellemu	Zeffirelli	subst:sg:dat:m1	nazwisko	
@@ -2594,7 +2594,7 @@ Zelowie	Zelów	subst:sg:voc:m3	geograficzna
 Zelowom	Zelów	subst:pl:dat:m3	geograficzna	
 Zelowowi	Zelów	subst:sg:dat:m3	geograficzna	
 Zelowów	Zelów	subst:pl:gen:m3	geograficzna	
-Zelowu	Zelów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Zelowu	Zelów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Zelowy	Zelów	subst:pl:acc:m3	geograficzna	
 Zelowy	Zelów	subst:pl:nom:m3	geograficzna	
 Zelowy	Zelów	subst:pl:voc:m3	geograficzna	
@@ -3488,7 +3488,7 @@ Złoczowie	Złoczów	subst:sg:voc:m3	geograficzna
 Złoczowom	Złoczów	subst:pl:dat:m3	geograficzna	
 Złoczowowi	Złoczów	subst:sg:dat:m3	geograficzna	
 Złoczowów	Złoczów	subst:pl:gen:m3	geograficzna	
-Złoczowu	Złoczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Złoczowu	Złoczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Złoczowy	Złoczów	subst:pl:acc:m3	geograficzna	
 Złoczowy	Złoczów	subst:pl:nom:m3	geograficzna	
 Złoczowy	Złoczów	subst:pl:voc:m3	geograficzna	
@@ -3532,7 +3532,7 @@ Złotowie	Złotów	subst:sg:voc:m3	geograficzna
 Złotowom	Złotów	subst:pl:dat:m3	geograficzna	
 Złotowowi	Złotów	subst:sg:dat:m3	geograficzna	
 Złotowów	Złotów	subst:pl:gen:m3	geograficzna	
-Złotowu	Złotów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Złotowu	Złotów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Złotowy	Złotów	subst:pl:acc:m3	geograficzna	
 Złotowy	Złotów	subst:pl:nom:m3	geograficzna	
 Złotowy	Złotów	subst:pl:voc:m3	geograficzna	

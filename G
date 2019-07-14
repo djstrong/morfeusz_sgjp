@@ -989,20 +989,20 @@ Gary	Gara	depr:pl:voc:m2	nazwisko
 Gary	Gara	subst:sg:gen:m1	nazwisko	
 Garze	Gara	subst:sg:dat:m1	nazwisko	
 Garze	Gara	subst:sg:loc:m1	nazwisko	
-Garamondach	Garamond	subst:pl:loc:m3	krój pisma	
-Garamondami	Garamond	subst:pl:inst:m3	krój pisma	
-Garamondem	Garamond	subst:sg:inst:m3	krój pisma	
-Garamond	Garamond	subst:sg:acc:m3	krój pisma	
-Garamond	Garamond	subst:sg:nom:m3	krój pisma	
-Garamondom	Garamond	subst:pl:dat:m3	krój pisma	
-Garamondowi	Garamond	subst:sg:dat:m3	krój pisma	
-Garamondów	Garamond	subst:pl:gen:m3	krój pisma	
-Garamondu	Garamond	subst:sg:gen:m3	krój pisma	
-Garamondy	Garamond	subst:pl:acc:m3	krój pisma	
-Garamondy	Garamond	subst:pl:nom:m3	krój pisma	
-Garamondy	Garamond	subst:pl:voc:m3	krój pisma	
-Garamondzie	Garamond	subst:sg:loc:m3	krój pisma	
-Garamondzie	Garamond	subst:sg:voc:m3	krój pisma	
+Garamondach	Garamond	subst:pl:loc:m3	krój_pisma	
+Garamondami	Garamond	subst:pl:inst:m3	krój_pisma	
+Garamondem	Garamond	subst:sg:inst:m3	krój_pisma	
+Garamond	Garamond	subst:sg:acc:m3	krój_pisma	
+Garamond	Garamond	subst:sg:nom:m3	krój_pisma	
+Garamondom	Garamond	subst:pl:dat:m3	krój_pisma	
+Garamondowi	Garamond	subst:sg:dat:m3	krój_pisma	
+Garamondów	Garamond	subst:pl:gen:m3	krój_pisma	
+Garamondu	Garamond	subst:sg:gen:m3	krój_pisma	
+Garamondy	Garamond	subst:pl:acc:m3	krój_pisma	
+Garamondy	Garamond	subst:pl:nom:m3	krój_pisma	
+Garamondy	Garamond	subst:pl:voc:m3	krój_pisma	
+Garamondzie	Garamond	subst:sg:loc:m3	krój_pisma	
+Garamondzie	Garamond	subst:sg:voc:m3	krój_pisma	
 Garbatce	Garbatka	subst:sg:dat:f	geograficzna	
 Garbatce	Garbatka	subst:sg:loc:f	geograficzna	
 Garbatek	Garbatka	subst:pl:gen:f	geograficzna	
@@ -1040,7 +1040,7 @@ Garbowie	Garbów	subst:sg:voc:m3	geograficzna
 Garbowom	Garbów	subst:pl:dat:m3	geograficzna	
 Garbowowi	Garbów	subst:sg:dat:m3	geograficzna	
 Garbowów	Garbów	subst:pl:gen:m3	geograficzna	
-Garbowu	Garbów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Garbowu	Garbów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Garbowy	Garbów	subst:pl:acc:m3	geograficzna	
 Garbowy	Garbów	subst:pl:nom:m3	geograficzna	
 Garbowy	Garbów	subst:pl:voc:m3	geograficzna	
@@ -1189,34 +1189,34 @@ Garłuchu	Garłuch	subst:sg:voc:m3	geograficzna	rzad.
 Garłuchy	Garłuch	subst:pl:acc:m3	geograficzna	rzad.
 Garłuchy	Garłuch	subst:pl:nom:m3	geograficzna	rzad.
 Garłuchy	Garłuch	subst:pl:voc:m3	geograficzna	rzad.
-Garmondach	Garmond	subst:pl:loc:m3	krój pisma	
-Garmondami	Garmond	subst:pl:inst:m3	krój pisma	
-Garmondem	Garmond	subst:sg:inst:m3	krój pisma	
-Garmond	Garmond	subst:sg:acc:m3	krój pisma	
-Garmond	Garmond	subst:sg:nom:m3	krój pisma	
-Garmondom	Garmond	subst:pl:dat:m3	krój pisma	
-Garmondowi	Garmond	subst:sg:dat:m3	krój pisma	
-Garmondów	Garmond	subst:pl:gen:m3	krój pisma	
-Garmondu	Garmond	subst:sg:gen:m3	krój pisma	
-Garmondy	Garmond	subst:pl:acc:m3	krój pisma	
-Garmondy	Garmond	subst:pl:nom:m3	krój pisma	
-Garmondy	Garmond	subst:pl:voc:m3	krój pisma	
-Garmondzie	Garmond	subst:sg:loc:m3	krój pisma	
-Garmondzie	Garmond	subst:sg:voc:m3	krój pisma	
-Garmoncie	Garmont	subst:sg:loc:m3	krój pisma	
-Garmoncie	Garmont	subst:sg:voc:m3	krój pisma	
-Garmontach	Garmont	subst:pl:loc:m3	krój pisma	
-Garmontami	Garmont	subst:pl:inst:m3	krój pisma	
-Garmontem	Garmont	subst:sg:inst:m3	krój pisma	
-Garmont	Garmont	subst:sg:acc:m3	krój pisma	
-Garmont	Garmont	subst:sg:nom:m3	krój pisma	
-Garmontom	Garmont	subst:pl:dat:m3	krój pisma	
-Garmontowi	Garmont	subst:sg:dat:m3	krój pisma	
-Garmontów	Garmont	subst:pl:gen:m3	krój pisma	
-Garmontu	Garmont	subst:sg:gen:m3	krój pisma	
-Garmonty	Garmont	subst:pl:acc:m3	krój pisma	
-Garmonty	Garmont	subst:pl:nom:m3	krój pisma	
-Garmonty	Garmont	subst:pl:voc:m3	krój pisma	
+Garmondach	Garmond	subst:pl:loc:m3	krój_pisma	
+Garmondami	Garmond	subst:pl:inst:m3	krój_pisma	
+Garmondem	Garmond	subst:sg:inst:m3	krój_pisma	
+Garmond	Garmond	subst:sg:acc:m3	krój_pisma	
+Garmond	Garmond	subst:sg:nom:m3	krój_pisma	
+Garmondom	Garmond	subst:pl:dat:m3	krój_pisma	
+Garmondowi	Garmond	subst:sg:dat:m3	krój_pisma	
+Garmondów	Garmond	subst:pl:gen:m3	krój_pisma	
+Garmondu	Garmond	subst:sg:gen:m3	krój_pisma	
+Garmondy	Garmond	subst:pl:acc:m3	krój_pisma	
+Garmondy	Garmond	subst:pl:nom:m3	krój_pisma	
+Garmondy	Garmond	subst:pl:voc:m3	krój_pisma	
+Garmondzie	Garmond	subst:sg:loc:m3	krój_pisma	
+Garmondzie	Garmond	subst:sg:voc:m3	krój_pisma	
+Garmoncie	Garmont	subst:sg:loc:m3	krój_pisma	
+Garmoncie	Garmont	subst:sg:voc:m3	krój_pisma	
+Garmontach	Garmont	subst:pl:loc:m3	krój_pisma	
+Garmontami	Garmont	subst:pl:inst:m3	krój_pisma	
+Garmontem	Garmont	subst:sg:inst:m3	krój_pisma	
+Garmont	Garmont	subst:sg:acc:m3	krój_pisma	
+Garmont	Garmont	subst:sg:nom:m3	krój_pisma	
+Garmontom	Garmont	subst:pl:dat:m3	krój_pisma	
+Garmontowi	Garmont	subst:sg:dat:m3	krój_pisma	
+Garmontów	Garmont	subst:pl:gen:m3	krój_pisma	
+Garmontu	Garmont	subst:sg:gen:m3	krój_pisma	
+Garmonty	Garmont	subst:pl:acc:m3	krój_pisma	
+Garmonty	Garmont	subst:pl:nom:m3	krój_pisma	
+Garmonty	Garmont	subst:pl:voc:m3	krój_pisma	
 Garrosach	Garros	subst:pl:loc:m1	nazwisko	
 Garrosa	Garros	subst:sg:acc:m1	nazwisko	
 Garrosa	Garros	subst:sg:gen:m1	nazwisko	
@@ -1806,7 +1806,7 @@ Gdowie	Gdów	subst:sg:voc:m3	geograficzna
 Gdowom	Gdów	subst:pl:dat:m3	geograficzna	
 Gdowowi	Gdów	subst:sg:dat:m3	geograficzna	
 Gdowów	Gdów	subst:pl:gen:m3	geograficzna	
-Gdowu	Gdów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Gdowu	Gdów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Gdowy	Gdów	subst:pl:acc:m3	geograficzna	
 Gdowy	Gdów	subst:pl:nom:m3	geograficzna	
 Gdowy	Gdów	subst:pl:voc:m3	geograficzna	
@@ -2104,20 +2104,20 @@ George’u	George:s1	subst:sg:loc:m1	imię
 George’u	George:s1	subst:sg:loc:m1	nazwisko	
 George’u	George:s1	subst:sg:voc:m1	imię	
 George’u	George:s1	subst:sg:voc:m1	nazwisko	
-George	George:s2	subst:pl:acc:f	pseudonim	człon n. wł.
-George	George:s2	subst:pl:dat:f	pseudonim	człon n. wł.
-George	George:s2	subst:pl:gen:f	pseudonim	człon n. wł.
-George	George:s2	subst:pl:inst:f	pseudonim	człon n. wł.
-George	George:s2	subst:pl:loc:f	pseudonim	człon n. wł.
-George	George:s2	subst:pl:nom:f	pseudonim	człon n. wł.
-George	George:s2	subst:pl:voc:f	pseudonim	człon n. wł.
-George	George:s2	subst:sg:acc:f	pseudonim	człon n. wł.
-George	George:s2	subst:sg:dat:f	pseudonim	człon n. wł.
-George	George:s2	subst:sg:gen:f	pseudonim	człon n. wł.
-George	George:s2	subst:sg:inst:f	pseudonim	człon n. wł.
-George	George:s2	subst:sg:loc:f	pseudonim	człon n. wł.
-George	George:s2	subst:sg:nom:f	pseudonim	człon n. wł.
-George	George:s2	subst:sg:voc:f	pseudonim	człon n. wł.
+George	George:s2	subst:pl:acc:f	pseudonim	człon_n._wł.
+George	George:s2	subst:pl:dat:f	pseudonim	człon_n._wł.
+George	George:s2	subst:pl:gen:f	pseudonim	człon_n._wł.
+George	George:s2	subst:pl:inst:f	pseudonim	człon_n._wł.
+George	George:s2	subst:pl:loc:f	pseudonim	człon_n._wł.
+George	George:s2	subst:pl:nom:f	pseudonim	człon_n._wł.
+George	George:s2	subst:pl:voc:f	pseudonim	człon_n._wł.
+George	George:s2	subst:sg:acc:f	pseudonim	człon_n._wł.
+George	George:s2	subst:sg:dat:f	pseudonim	człon_n._wł.
+George	George:s2	subst:sg:gen:f	pseudonim	człon_n._wł.
+George	George:s2	subst:sg:inst:f	pseudonim	człon_n._wł.
+George	George:s2	subst:sg:loc:f	pseudonim	człon_n._wł.
+George	George:s2	subst:sg:nom:f	pseudonim	człon_n._wł.
+George	George:s2	subst:sg:voc:f	pseudonim	człon_n._wł.
 Georgiach	Georgia	subst:pl:loc:f	geograficzna	
 Georgia	Georgia	subst:sg:nom:f	geograficzna	
 Georgiami	Georgia	subst:pl:inst:f	geograficzna	
@@ -2674,7 +2674,7 @@ Gielniowie	Gielniów	subst:sg:voc:m3	geograficzna
 Gielniowom	Gielniów	subst:pl:dat:m3	geograficzna	
 Gielniowowi	Gielniów	subst:sg:dat:m3	geograficzna	
 Gielniowów	Gielniów	subst:pl:gen:m3	geograficzna	
-Gielniowu	Gielniów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Gielniowu	Gielniów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Gielniowy	Gielniów	subst:pl:acc:m3	geograficzna	
 Gielniowy	Gielniów	subst:pl:nom:m3	geograficzna	
 Gielniowy	Gielniów	subst:pl:voc:m3	geograficzna	
@@ -3436,7 +3436,7 @@ Głogoczowie	Głogoczów	subst:sg:voc:m3	geograficzna
 Głogoczowom	Głogoczów	subst:pl:dat:m3	geograficzna	
 Głogoczowowi	Głogoczów	subst:sg:dat:m3	geograficzna	
 Głogoczowów	Głogoczów	subst:pl:gen:m3	geograficzna	
-Głogoczowu	Głogoczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Głogoczowu	Głogoczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Głogoczowy	Głogoczów	subst:pl:acc:m3	geograficzna	
 Głogoczowy	Głogoczów	subst:pl:nom:m3	geograficzna	
 Głogoczowy	Głogoczów	subst:pl:voc:m3	geograficzna	
@@ -3451,7 +3451,7 @@ Głogowie	Głogów	subst:sg:voc:m3	geograficzna
 Głogowom	Głogów	subst:pl:dat:m3	geograficzna	
 Głogowowi	Głogów	subst:sg:dat:m3	geograficzna	
 Głogowów	Głogów	subst:pl:gen:m3	geograficzna	
-Głogowu	Głogów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Głogowu	Głogów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Głogowy	Głogów	subst:pl:acc:m3	geograficzna	
 Głogowy	Głogów	subst:pl:nom:m3	geograficzna	
 Głogowy	Głogów	subst:pl:voc:m3	geograficzna	
@@ -3496,7 +3496,7 @@ Głowaczowie	Głowaczów	subst:sg:voc:m3	geograficzna
 Głowaczowom	Głowaczów	subst:pl:dat:m3	geograficzna	
 Głowaczowowi	Głowaczów	subst:sg:dat:m3	geograficzna	
 Głowaczowów	Głowaczów	subst:pl:gen:m3	geograficzna	
-Głowaczowu	Głowaczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Głowaczowu	Głowaczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Głowaczowy	Głowaczów	subst:pl:acc:m3	geograficzna	
 Głowaczowy	Głowaczów	subst:pl:nom:m3	geograficzna	
 Głowaczowy	Głowaczów	subst:pl:voc:m3	geograficzna	
@@ -3583,7 +3583,7 @@ Głuchowie	Głuchów	subst:sg:voc:m3	geograficzna
 Głuchowom	Głuchów	subst:pl:dat:m3	geograficzna	
 Głuchowowi	Głuchów	subst:sg:dat:m3	geograficzna	
 Głuchowów	Głuchów	subst:pl:gen:m3	geograficzna	
-Głuchowu	Głuchów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Głuchowu	Głuchów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Głuchowy	Głuchów	subst:pl:acc:m3	geograficzna	
 Głuchowy	Głuchów	subst:pl:nom:m3	geograficzna	
 Głuchowy	Głuchów	subst:pl:voc:m3	geograficzna	
@@ -3722,7 +3722,7 @@ Gniewoszowie	Gniewoszów	subst:sg:voc:m3	geograficzna
 Gniewoszowom	Gniewoszów	subst:pl:dat:m3	geograficzna	
 Gniewoszowowi	Gniewoszów	subst:sg:dat:m3	geograficzna	
 Gniewoszowów	Gniewoszów	subst:pl:gen:m3	geograficzna	
-Gniewoszowu	Gniewoszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Gniewoszowu	Gniewoszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Gniewoszowy	Gniewoszów	subst:pl:acc:m3	geograficzna	
 Gniewoszowy	Gniewoszów	subst:pl:nom:m3	geograficzna	
 Gniewoszowy	Gniewoszów	subst:pl:voc:m3	geograficzna	
@@ -3953,7 +3953,7 @@ Godowie	Godów	subst:sg:voc:m3	geograficzna
 Godowom	Godów	subst:pl:dat:m3	geograficzna	
 Godowowi	Godów	subst:sg:dat:m3	geograficzna	
 Godowów	Godów	subst:pl:gen:m3	geograficzna	
-Godowu	Godów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Godowu	Godów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Godowy	Godów	subst:pl:acc:m3	geograficzna	
 Godowy	Godów	subst:pl:nom:m3	geograficzna	
 Godowy	Godów	subst:pl:voc:m3	geograficzna	
@@ -3984,7 +3984,7 @@ Godzianowie	Godzianów	subst:sg:voc:m3	geograficzna
 Godzianowom	Godzianów	subst:pl:dat:m3	geograficzna	
 Godzianowowi	Godzianów	subst:sg:dat:m3	geograficzna	
 Godzianowów	Godzianów	subst:pl:gen:m3	geograficzna	
-Godzianowu	Godzianów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Godzianowu	Godzianów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Godzianowy	Godzianów	subst:pl:acc:m3	geograficzna	
 Godzianowy	Godzianów	subst:pl:nom:m3	geograficzna	
 Godzianowy	Godzianów	subst:pl:voc:m3	geograficzna	
@@ -4083,7 +4083,7 @@ Godziszowie	Godziszów	subst:sg:voc:m3	geograficzna
 Godziszowom	Godziszów	subst:pl:dat:m3	geograficzna	
 Godziszowowi	Godziszów	subst:sg:dat:m3	geograficzna	
 Godziszowów	Godziszów	subst:pl:gen:m3	geograficzna	
-Godziszowu	Godziszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Godziszowu	Godziszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Godziszowy	Godziszów	subst:pl:acc:m3	geograficzna	
 Godziszowy	Godziszów	subst:pl:nom:m3	geograficzna	
 Godziszowy	Godziszów	subst:pl:voc:m3	geograficzna	
@@ -4346,7 +4346,7 @@ Goleniowie	Goleniów	subst:sg:voc:m3	geograficzna
 Goleniowom	Goleniów	subst:pl:dat:m3	geograficzna	
 Goleniowowi	Goleniów	subst:sg:dat:m3	geograficzna	
 Goleniowów	Goleniów	subst:pl:gen:m3	geograficzna	
-Goleniowu	Goleniów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Goleniowu	Goleniów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Goleniowy	Goleniów	subst:pl:acc:m3	geograficzna	
 Goleniowy	Goleniów	subst:pl:nom:m3	geograficzna	
 Goleniowy	Goleniów	subst:pl:voc:m3	geograficzna	
@@ -4361,7 +4361,7 @@ Goleszowie	Goleszów	subst:sg:voc:m3	geograficzna
 Goleszowom	Goleszów	subst:pl:dat:m3	geograficzna	
 Goleszowowi	Goleszów	subst:sg:dat:m3	geograficzna	
 Goleszowów	Goleszów	subst:pl:gen:m3	geograficzna	
-Goleszowu	Goleszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Goleszowu	Goleszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Goleszowy	Goleszów	subst:pl:acc:m3	geograficzna	
 Goleszowy	Goleszów	subst:pl:nom:m3	geograficzna	
 Goleszowy	Goleszów	subst:pl:voc:m3	geograficzna	
@@ -4427,21 +4427,21 @@ Gollobów	Gollob	subst:pl:acc:m1	nazwisko
 Gollobów	Gollob	subst:pl:gen:m1	nazwisko	
 Golloby	Gollob	depr:pl:nom:m2	nazwisko	
 Golloby	Gollob	depr:pl:voc:m2	nazwisko	
-Golub	Golub	subst:sg:acc:m3	geograficzna	człon n. wł.
-Golub	Golub	subst:sg:nom:m3	geograficzna	człon n. wł.
-Golubiach	Golub	subst:pl:loc:m3	geograficzna	człon n. wł.
-Golubia	Golub	subst:sg:gen:m3	geograficzna	człon n. wł.
-Golubiami	Golub	subst:pl:inst:m3	geograficzna	człon n. wł.
-Golubie	Golub	subst:pl:acc:m3	geograficzna	człon n. wł.
-Golubie	Golub	subst:pl:nom:m3	geograficzna	człon n. wł.
-Golubie	Golub	subst:pl:voc:m3	geograficzna	człon n. wł.
-Golubiem	Golub	subst:sg:inst:m3	geograficzna	człon n. wł.
-Golubi	Golub	subst:pl:gen:m3	geograficzna	człon n. wł.
-Golubiom	Golub	subst:pl:dat:m3	geograficzna	człon n. wł.
-Golubiowi	Golub	subst:sg:dat:m3	geograficzna	człon n. wł.
-Golubiów	Golub	subst:pl:gen:m3	geograficzna	człon n. wł.
-Golubiu	Golub	subst:sg:loc:m3	geograficzna	człon n. wł.
-Golubiu	Golub	subst:sg:voc:m3	geograficzna	człon n. wł.
+Golub	Golub	subst:sg:acc:m3	geograficzna	człon_n._wł.
+Golub	Golub	subst:sg:nom:m3	geograficzna	człon_n._wł.
+Golubiach	Golub	subst:pl:loc:m3	geograficzna	człon_n._wł.
+Golubia	Golub	subst:sg:gen:m3	geograficzna	człon_n._wł.
+Golubiami	Golub	subst:pl:inst:m3	geograficzna	człon_n._wł.
+Golubie	Golub	subst:pl:acc:m3	geograficzna	człon_n._wł.
+Golubie	Golub	subst:pl:nom:m3	geograficzna	człon_n._wł.
+Golubie	Golub	subst:pl:voc:m3	geograficzna	człon_n._wł.
+Golubiem	Golub	subst:sg:inst:m3	geograficzna	człon_n._wł.
+Golubi	Golub	subst:pl:gen:m3	geograficzna	człon_n._wł.
+Golubiom	Golub	subst:pl:dat:m3	geograficzna	człon_n._wł.
+Golubiowi	Golub	subst:sg:dat:m3	geograficzna	człon_n._wł.
+Golubiów	Golub	subst:pl:gen:m3	geograficzna	człon_n._wł.
+Golubiu	Golub	subst:sg:loc:m3	geograficzna	człon_n._wł.
+Golubiu	Golub	subst:sg:voc:m3	geograficzna	człon_n._wł.
 Goluchach	Goluch	subst:pl:loc:m1	nazwisko	
 Golucha	Goluch	subst:sg:acc:m1	nazwisko	
 Golucha	Goluch	subst:sg:gen:m1	nazwisko	
@@ -4694,7 +4694,7 @@ Gołuchowie	Gołuchów	subst:sg:voc:m3	geograficzna
 Gołuchowom	Gołuchów	subst:pl:dat:m3	geograficzna	
 Gołuchowowi	Gołuchów	subst:sg:dat:m3	geograficzna	
 Gołuchowów	Gołuchów	subst:pl:gen:m3	geograficzna	
-Gołuchowu	Gołuchów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Gołuchowu	Gołuchów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Gołuchowy	Gołuchów	subst:pl:acc:m3	geograficzna	
 Gołuchowy	Gołuchów	subst:pl:nom:m3	geograficzna	
 Gołuchowy	Gołuchów	subst:pl:voc:m3	geograficzna	
@@ -4810,48 +4810,48 @@ Gontarskim	Gontarski	subst:pl:dat:m1	nazwisko
 Gontarskim	Gontarski	subst:sg:inst:m1	nazwisko	
 Gontarskim	Gontarski	subst:sg:loc:m1	nazwisko	
 Gontarskimi	Gontarski	subst:pl:inst:m1	nazwisko	
-Googlach	Google	subst:pl:loc:p3	człon nazwy firmy	[gugle]; pot.
-Googlach	Google	subst:pl:loc:p3	marka	[gugle]; pot.
-Googlami	Google	subst:pl:inst:p3	człon nazwy firmy	[gugle]; pot.
-Googlami	Google	subst:pl:inst:p3	marka	[gugle]; pot.
-Google’ach	Google	subst:pl:loc:m3	człon nazwy firmy	[gugl]
+Googlach	Google	subst:pl:loc:p3	człon_nazwy_firmy	[gugle];_pot.
+Googlach	Google	subst:pl:loc:p3	marka	[gugle];_pot.
+Googlami	Google	subst:pl:inst:p3	człon_nazwy_firmy	[gugle];_pot.
+Googlami	Google	subst:pl:inst:p3	marka	[gugle];_pot.
+Google’ach	Google	subst:pl:loc:m3	człon_nazwy_firmy	[gugl]
 Google’ach	Google	subst:pl:loc:m3	marka	[gugl]
-Google’ami	Google	subst:pl:inst:m3	człon nazwy firmy	[gugl]
+Google’ami	Google	subst:pl:inst:m3	człon_nazwy_firmy	[gugl]
 Google’ami	Google	subst:pl:inst:m3	marka	[gugl]
-Google’e	Google	subst:pl:acc:m3	człon nazwy firmy	[gugl]
+Google’e	Google	subst:pl:acc:m3	człon_nazwy_firmy	[gugl]
 Google’e	Google	subst:pl:acc:m3	marka	[gugl]
-Google’e	Google	subst:pl:nom:m3	człon nazwy firmy	[gugl]
+Google’e	Google	subst:pl:nom:m3	człon_nazwy_firmy	[gugl]
 Google’e	Google	subst:pl:nom:m3	marka	[gugl]
-Google’e	Google	subst:pl:voc:m3	człon nazwy firmy	[gugl]
+Google’e	Google	subst:pl:voc:m3	człon_nazwy_firmy	[gugl]
 Google’e	Google	subst:pl:voc:m3	marka	[gugl]
-Google’em	Google	subst:sg:inst:m3	człon nazwy firmy	[gugl]
+Google’em	Google	subst:sg:inst:m3	człon_nazwy_firmy	[gugl]
 Google’em	Google	subst:sg:inst:m3	marka	[gugl]
-Google	Google	subst:pl:acc:p3	człon nazwy firmy	[gugle]; pot.
-Google	Google	subst:pl:acc:p3	marka	[gugle]; pot.
-Google	Google	subst:pl:nom:p3	człon nazwy firmy	[gugle]; pot.
-Google	Google	subst:pl:nom:p3	marka	[gugle]; pot.
-Google	Google	subst:pl:voc:p3	człon nazwy firmy	[gugle]; pot.
-Google	Google	subst:pl:voc:p3	marka	[gugle]; pot.
-Google	Google	subst:sg:acc:m3	człon nazwy firmy	[gugl]
+Google	Google	subst:pl:acc:p3	człon_nazwy_firmy	[gugle];_pot.
+Google	Google	subst:pl:acc:p3	marka	[gugle];_pot.
+Google	Google	subst:pl:nom:p3	człon_nazwy_firmy	[gugle];_pot.
+Google	Google	subst:pl:nom:p3	marka	[gugle];_pot.
+Google	Google	subst:pl:voc:p3	człon_nazwy_firmy	[gugle];_pot.
+Google	Google	subst:pl:voc:p3	marka	[gugle];_pot.
+Google	Google	subst:sg:acc:m3	człon_nazwy_firmy	[gugl]
 Google	Google	subst:sg:acc:m3	marka	[gugl]
-Google	Google	subst:sg:nom:m3	człon nazwy firmy	[gugl]
+Google	Google	subst:sg:nom:m3	człon_nazwy_firmy	[gugl]
 Google	Google	subst:sg:nom:m3	marka	[gugl]
-Google’i	Google	subst:pl:gen:m3	człon nazwy firmy	[gugl]
+Google’i	Google	subst:pl:gen:m3	człon_nazwy_firmy	[gugl]
 Google’i	Google	subst:pl:gen:m3	marka	[gugl]
-Google’om	Google	subst:pl:dat:m3	człon nazwy firmy	[gugl]
+Google’om	Google	subst:pl:dat:m3	człon_nazwy_firmy	[gugl]
 Google’om	Google	subst:pl:dat:m3	marka	[gugl]
-Google’owi	Google	subst:sg:dat:m3	człon nazwy firmy	[gugl]
+Google’owi	Google	subst:sg:dat:m3	człon_nazwy_firmy	[gugl]
 Google’owi	Google	subst:sg:dat:m3	marka	[gugl]
-Google’u	Google	subst:sg:gen:m3	człon nazwy firmy	[gugl]
+Google’u	Google	subst:sg:gen:m3	człon_nazwy_firmy	[gugl]
 Google’u	Google	subst:sg:gen:m3	marka	[gugl]
-Google’u	Google	subst:sg:loc:m3	człon nazwy firmy	[gugl]
+Google’u	Google	subst:sg:loc:m3	człon_nazwy_firmy	[gugl]
 Google’u	Google	subst:sg:loc:m3	marka	[gugl]
-Google’u	Google	subst:sg:voc:m3	człon nazwy firmy	[gugl]
+Google’u	Google	subst:sg:voc:m3	człon_nazwy_firmy	[gugl]
 Google’u	Google	subst:sg:voc:m3	marka	[gugl]
-Googli	Google	subst:pl:gen:p3	człon nazwy firmy	[gugle]; pot.
-Googli	Google	subst:pl:gen:p3	marka	[gugle]; pot.
-Googlom	Google	subst:pl:dat:p3	człon nazwy firmy	[gugle]; pot.
-Googlom	Google	subst:pl:dat:p3	marka	[gugle]; pot.
+Googli	Google	subst:pl:gen:p3	człon_nazwy_firmy	[gugle];_pot.
+Googli	Google	subst:pl:gen:p3	marka	[gugle];_pot.
+Googlom	Google	subst:pl:dat:p3	człon_nazwy_firmy	[gugle];_pot.
+Googlom	Google	subst:pl:dat:p3	marka	[gugle];_pot.
 Goplanach	Goplanin	subst:pl:loc:m1	pospolita	
 Goplanami	Goplanin	subst:pl:inst:m1	pospolita	
 Goplan	Goplanin	subst:pl:acc:m1	pospolita	
@@ -5043,7 +5043,7 @@ Gorzkowie	Gorzków	subst:sg:voc:m3	geograficzna
 Gorzkowom	Gorzków	subst:pl:dat:m3	geograficzna	
 Gorzkowowi	Gorzków	subst:sg:dat:m3	geograficzna	
 Gorzkowów	Gorzków	subst:pl:gen:m3	geograficzna	
-Gorzkowu	Gorzków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Gorzkowu	Gorzków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Gorzkowy	Gorzków	subst:pl:acc:m3	geograficzna	
 Gorzkowy	Gorzków	subst:pl:nom:m3	geograficzna	
 Gorzkowy	Gorzków	subst:pl:voc:m3	geograficzna	
@@ -5072,7 +5072,7 @@ Gorzowie	Gorzów	subst:sg:voc:m3	geograficzna
 Gorzowom	Gorzów	subst:pl:dat:m3	geograficzna	
 Gorzowowi	Gorzów	subst:sg:dat:m3	geograficzna	
 Gorzowów	Gorzów	subst:pl:gen:m3	geograficzna	
-Gorzowu	Gorzów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Gorzowu	Gorzów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Gorzowy	Gorzów	subst:pl:acc:m3	geograficzna	
 Gorzowy	Gorzów	subst:pl:nom:m3	geograficzna	
 Gorzowy	Gorzów	subst:pl:voc:m3	geograficzna	
@@ -5239,7 +5239,7 @@ Goszczanowie	Goszczanów	subst:sg:voc:m3	geograficzna
 Goszczanowom	Goszczanów	subst:pl:dat:m3	geograficzna	
 Goszczanowowi	Goszczanów	subst:sg:dat:m3	geograficzna	
 Goszczanowów	Goszczanów	subst:pl:gen:m3	geograficzna	
-Goszczanowu	Goszczanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Goszczanowu	Goszczanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Goszczanowy	Goszczanów	subst:pl:acc:m3	geograficzna	
 Goszczanowy	Goszczanów	subst:pl:nom:m3	geograficzna	
 Goszczanowy	Goszczanów	subst:pl:voc:m3	geograficzna	
@@ -5268,7 +5268,7 @@ Gościeradowie	Gościeradów	subst:sg:voc:m3	geograficzna
 Gościeradowom	Gościeradów	subst:pl:dat:m3	geograficzna	
 Gościeradowowi	Gościeradów	subst:sg:dat:m3	geograficzna	
 Gościeradowów	Gościeradów	subst:pl:gen:m3	geograficzna	
-Gościeradowu	Gościeradów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Gościeradowu	Gościeradów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Gościeradowy	Gościeradów	subst:pl:acc:m3	geograficzna	
 Gościeradowy	Gościeradów	subst:pl:nom:m3	geograficzna	
 Gościeradowy	Gościeradów	subst:pl:voc:m3	geograficzna	
@@ -5572,7 +5572,7 @@ Gowarczowie	Gowarczów	subst:sg:voc:m3	geograficzna
 Gowarczowom	Gowarczów	subst:pl:dat:m3	geograficzna	
 Gowarczowowi	Gowarczów	subst:sg:dat:m3	geograficzna	
 Gowarczowów	Gowarczów	subst:pl:gen:m3	geograficzna	
-Gowarczowu	Gowarczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Gowarczowu	Gowarczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Gowarczowy	Gowarczów	subst:pl:acc:m3	geograficzna	
 Gowarczowy	Gowarczów	subst:pl:nom:m3	geograficzna	
 Gowarczowy	Gowarczów	subst:pl:voc:m3	geograficzna	
@@ -6039,7 +6039,7 @@ Grabowie	Grabów	subst:sg:voc:m3	geograficzna
 Grabowom	Grabów	subst:pl:dat:m3	geograficzna	
 Grabowowi	Grabów	subst:sg:dat:m3	geograficzna	
 Grabowów	Grabów	subst:pl:gen:m3	geograficzna	
-Grabowu	Grabów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Grabowu	Grabów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Grabowy	Grabów	subst:pl:acc:m3	geograficzna	
 Grabowy	Grabów	subst:pl:nom:m3	geograficzna	
 Grabowy	Grabów	subst:pl:voc:m3	geograficzna	
@@ -6589,7 +6589,7 @@ Grębkowie	Grębków	subst:sg:voc:m3	geograficzna
 Grębkowom	Grębków	subst:pl:dat:m3	geograficzna	
 Grębkowowi	Grębków	subst:sg:dat:m3	geograficzna	
 Grębkowów	Grębków	subst:pl:gen:m3	geograficzna	
-Grębkowu	Grębków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Grębkowu	Grębków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Grębkowy	Grębków	subst:pl:acc:m3	geograficzna	
 Grębkowy	Grębków	subst:pl:nom:m3	geograficzna	
 Grębkowy	Grębków	subst:pl:voc:m3	geograficzna	
@@ -6618,7 +6618,7 @@ Gręboszowie	Gręboszów	subst:sg:voc:m3	geograficzna
 Gręboszowom	Gręboszów	subst:pl:dat:m3	geograficzna	
 Gręboszowowi	Gręboszów	subst:sg:dat:m3	geograficzna	
 Gręboszowów	Gręboszów	subst:pl:gen:m3	geograficzna	
-Gręboszowu	Gręboszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Gręboszowu	Gręboszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Gręboszowy	Gręboszów	subst:pl:acc:m3	geograficzna	
 Gręboszowy	Gręboszów	subst:pl:nom:m3	geograficzna	
 Gręboszowy	Gręboszów	subst:pl:voc:m3	geograficzna	
@@ -6633,7 +6633,7 @@ Grębowie	Grębów	subst:sg:voc:m3	geograficzna
 Grębowom	Grębów	subst:pl:dat:m3	geograficzna	
 Grębowowi	Grębów	subst:sg:dat:m3	geograficzna	
 Grębowów	Grębów	subst:pl:gen:m3	geograficzna	
-Grębowu	Grębów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Grębowu	Grębów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Grębowy	Grębów	subst:pl:acc:m3	geograficzna	
 Grębowy	Grębów	subst:pl:nom:m3	geograficzna	
 Grębowy	Grębów	subst:pl:voc:m3	geograficzna	
@@ -6858,7 +6858,7 @@ Grochowie	Grochów	subst:sg:voc:m3	geograficzna
 Grochowom	Grochów	subst:pl:dat:m3	geograficzna	
 Grochowowi	Grochów	subst:sg:dat:m3	geograficzna	
 Grochowów	Grochów	subst:pl:gen:m3	geograficzna	
-Grochowu	Grochów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Grochowu	Grochów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Grochowy	Grochów	subst:pl:acc:m3	geograficzna	
 Grochowy	Grochów	subst:pl:nom:m3	geograficzna	
 Grochowy	Grochów	subst:pl:voc:m3	geograficzna	
@@ -6919,7 +6919,7 @@ Grodkowie	Grodków	subst:sg:voc:m3	geograficzna
 Grodkowom	Grodków	subst:pl:dat:m3	geograficzna	
 Grodkowowi	Grodków	subst:sg:dat:m3	geograficzna	
 Grodkowów	Grodków	subst:pl:gen:m3	geograficzna	
-Grodkowu	Grodków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Grodkowu	Grodków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Grodkowy	Grodków	subst:pl:acc:m3	geograficzna	
 Grodkowy	Grodków	subst:pl:nom:m3	geograficzna	
 Grodkowy	Grodków	subst:pl:voc:m3	geograficzna	
@@ -7456,7 +7456,7 @@ Grybowie	Grybów	subst:sg:voc:m3	geograficzna
 Grybowom	Grybów	subst:pl:dat:m3	geograficzna	
 Grybowowi	Grybów	subst:sg:dat:m3	geograficzna	
 Grybowów	Grybów	subst:pl:gen:m3	geograficzna	
-Grybowu	Grybów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Grybowu	Grybów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Grybowy	Grybów	subst:pl:acc:m3	geograficzna	
 Grybowy	Grybów	subst:pl:nom:m3	geograficzna	
 Grybowy	Grybów	subst:pl:voc:m3	geograficzna	
@@ -7485,7 +7485,7 @@ Gryfowie	Gryfów	subst:sg:voc:m3	geograficzna
 Gryfowom	Gryfów	subst:pl:dat:m3	geograficzna	
 Gryfowowi	Gryfów	subst:sg:dat:m3	geograficzna	
 Gryfowów	Gryfów	subst:pl:gen:m3	geograficzna	
-Gryfowu	Gryfów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Gryfowu	Gryfów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Gryfowy	Gryfów	subst:pl:acc:m3	geograficzna	
 Gryfowy	Gryfów	subst:pl:nom:m3	geograficzna	
 Gryfowy	Gryfów	subst:pl:voc:m3	geograficzna	
@@ -7736,7 +7736,7 @@ Grzybowie	Grzybów	subst:sg:voc:m3	geograficzna
 Grzybowom	Grzybów	subst:pl:dat:m3	geograficzna	
 Grzybowowi	Grzybów	subst:sg:dat:m3	geograficzna	
 Grzybowów	Grzybów	subst:pl:gen:m3	geograficzna	
-Grzybowu	Grzybów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Grzybowu	Grzybów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Grzybowy	Grzybów	subst:pl:acc:m3	geograficzna	
 Grzybowy	Grzybów	subst:pl:nom:m3	geograficzna	
 Grzybowy	Grzybów	subst:pl:voc:m3	geograficzna	

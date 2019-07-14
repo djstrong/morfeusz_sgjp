@@ -419,7 +419,7 @@ Nałęczowie	Nałęczów	subst:sg:voc:m3	geograficzna
 Nałęczowom	Nałęczów	subst:pl:dat:m3	geograficzna	
 Nałęczowowi	Nałęczów	subst:sg:dat:m3	geograficzna	
 Nałęczowów	Nałęczów	subst:pl:gen:m3	geograficzna	
-Nałęczowu	Nałęczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Nałęczowu	Nałęczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Nałęczowy	Nałęczów	subst:pl:acc:m3	geograficzna	
 Nałęczowy	Nałęczów	subst:pl:nom:m3	geograficzna	
 Nałęczowy	Nałęczów	subst:pl:voc:m3	geograficzna	
@@ -527,7 +527,7 @@ Namysłowie	Namysłów	subst:sg:voc:m3	geograficzna
 Namysłowom	Namysłów	subst:pl:dat:m3	geograficzna	
 Namysłowowi	Namysłów	subst:sg:dat:m3	geograficzna	
 Namysłowów	Namysłów	subst:pl:gen:m3	geograficzna	
-Namysłowu	Namysłów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Namysłowu	Namysłów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Namysłowy	Namysłów	subst:pl:acc:m3	geograficzna	
 Namysłowy	Namysłów	subst:pl:nom:m3	geograficzna	
 Namysłowy	Namysłów	subst:pl:voc:m3	geograficzna	
@@ -1575,20 +1575,20 @@ Negrze	Negr	subst:sg:loc:m1	pospolita	pogard.
 Negrze	Negr	subst:sg:voc:m1	pospolita	pogard.
 Negrzy	Negr	subst:pl:nom:m1	pospolita	pogard.
 Negrzy	Negr	subst:pl:voc:m1	pospolita	pogard.
-Negri	Negri	subst:pl:acc:f	pseudonim	człon n. wł.
-Negri	Negri	subst:pl:dat:f	pseudonim	człon n. wł.
-Negri	Negri	subst:pl:gen:f	pseudonim	człon n. wł.
-Negri	Negri	subst:pl:inst:f	pseudonim	człon n. wł.
-Negri	Negri	subst:pl:loc:f	pseudonim	człon n. wł.
-Negri	Negri	subst:pl:nom:f	pseudonim	człon n. wł.
-Negri	Negri	subst:pl:voc:f	pseudonim	człon n. wł.
-Negri	Negri	subst:sg:acc:f	pseudonim	człon n. wł.
-Negri	Negri	subst:sg:dat:f	pseudonim	człon n. wł.
-Negri	Negri	subst:sg:gen:f	pseudonim	człon n. wł.
-Negri	Negri	subst:sg:inst:f	pseudonim	człon n. wł.
-Negri	Negri	subst:sg:loc:f	pseudonim	człon n. wł.
-Negri	Negri	subst:sg:nom:f	pseudonim	człon n. wł.
-Negri	Negri	subst:sg:voc:f	pseudonim	człon n. wł.
+Negri	Negri	subst:pl:acc:f	pseudonim	człon_n._wł.
+Negri	Negri	subst:pl:dat:f	pseudonim	człon_n._wł.
+Negri	Negri	subst:pl:gen:f	pseudonim	człon_n._wł.
+Negri	Negri	subst:pl:inst:f	pseudonim	człon_n._wł.
+Negri	Negri	subst:pl:loc:f	pseudonim	człon_n._wł.
+Negri	Negri	subst:pl:nom:f	pseudonim	człon_n._wł.
+Negri	Negri	subst:pl:voc:f	pseudonim	człon_n._wł.
+Negri	Negri	subst:sg:acc:f	pseudonim	człon_n._wł.
+Negri	Negri	subst:sg:dat:f	pseudonim	człon_n._wł.
+Negri	Negri	subst:sg:gen:f	pseudonim	człon_n._wł.
+Negri	Negri	subst:sg:inst:f	pseudonim	człon_n._wł.
+Negri	Negri	subst:sg:loc:f	pseudonim	człon_n._wł.
+Negri	Negri	subst:sg:nom:f	pseudonim	człon_n._wł.
+Negri	Negri	subst:sg:voc:f	pseudonim	człon_n._wł.
 Nehemiaszach	Nehemiasz	subst:pl:loc:m1	imię	
 Nehemiaszami	Nehemiasz	subst:pl:inst:m1	imię	
 Nehemiasza	Nehemiasz	subst:sg:acc:m1	imię	
@@ -2195,7 +2195,7 @@ Nieborowie	Nieborów	subst:sg:voc:m3	geograficzna
 Nieborowom	Nieborów	subst:pl:dat:m3	geograficzna	
 Nieborowowi	Nieborów	subst:sg:dat:m3	geograficzna	
 Nieborowów	Nieborów	subst:pl:gen:m3	geograficzna	
-Nieborowu	Nieborów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Nieborowu	Nieborów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Nieborowy	Nieborów	subst:pl:acc:m3	geograficzna	
 Nieborowy	Nieborów	subst:pl:nom:m3	geograficzna	
 Nieborowy	Nieborów	subst:pl:voc:m3	geograficzna	
@@ -2226,7 +2226,7 @@ Niechlowie	Niechlów	subst:sg:voc:m3	geograficzna
 Niechlowom	Niechlów	subst:pl:dat:m3	geograficzna	
 Niechlowowi	Niechlów	subst:sg:dat:m3	geograficzna	
 Niechlowów	Niechlów	subst:pl:gen:m3	geograficzna	
-Niechlowu	Niechlów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Niechlowu	Niechlów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Niechlowy	Niechlów	subst:pl:acc:m3	geograficzna	
 Niechlowy	Niechlów	subst:pl:nom:m3	geograficzna	
 Niechlowy	Niechlów	subst:pl:voc:m3	geograficzna	
@@ -2713,20 +2713,20 @@ Niemki	Niemka	subst:pl:voc:f	pospolita
 Niemki	Niemka	subst:sg:gen:f	pospolita	
 Niemkom	Niemka	subst:pl:dat:f	pospolita	
 Niemko	Niemka	subst:sg:voc:f	pospolita	
-Niemkiniach	Niemkini	subst:pl:loc:f	pospolita	daw. dziś gwar.
-Niemkiniami	Niemkini	subst:pl:inst:f	pospolita	daw. dziś gwar.
-Niemkinią	Niemkini	subst:sg:inst:f	pospolita	daw. dziś gwar.
-Niemkinie	Niemkini	subst:pl:acc:f	pospolita	daw. dziś gwar.
-Niemkinie	Niemkini	subst:pl:nom:f	pospolita	daw. dziś gwar.
-Niemkinie	Niemkini	subst:pl:voc:f	pospolita	daw. dziś gwar.
-Niemkinię	Niemkini	subst:sg:acc:f	pospolita	daw. dziś gwar.
-Niemkini	Niemkini	subst:sg:dat:f	pospolita	daw. dziś gwar.
-Niemkini	Niemkini	subst:sg:gen:f	pospolita	daw. dziś gwar.
-Niemkini	Niemkini	subst:sg:loc:f	pospolita	daw. dziś gwar.
-Niemkini	Niemkini	subst:sg:nom:f	pospolita	daw. dziś gwar.
-Niemkini	Niemkini	subst:sg:voc:f	pospolita	daw. dziś gwar.
-Niemkiniom	Niemkini	subst:pl:dat:f	pospolita	daw. dziś gwar.
-Niemkiń	Niemkini	subst:pl:gen:f	pospolita	daw. dziś gwar.
+Niemkiniach	Niemkini	subst:pl:loc:f	pospolita	daw._dziś_gwar.
+Niemkiniami	Niemkini	subst:pl:inst:f	pospolita	daw._dziś_gwar.
+Niemkinią	Niemkini	subst:sg:inst:f	pospolita	daw._dziś_gwar.
+Niemkinie	Niemkini	subst:pl:acc:f	pospolita	daw._dziś_gwar.
+Niemkinie	Niemkini	subst:pl:nom:f	pospolita	daw._dziś_gwar.
+Niemkinie	Niemkini	subst:pl:voc:f	pospolita	daw._dziś_gwar.
+Niemkinię	Niemkini	subst:sg:acc:f	pospolita	daw._dziś_gwar.
+Niemkini	Niemkini	subst:sg:dat:f	pospolita	daw._dziś_gwar.
+Niemkini	Niemkini	subst:sg:gen:f	pospolita	daw._dziś_gwar.
+Niemkini	Niemkini	subst:sg:loc:f	pospolita	daw._dziś_gwar.
+Niemkini	Niemkini	subst:sg:nom:f	pospolita	daw._dziś_gwar.
+Niemkini	Niemkini	subst:sg:voc:f	pospolita	daw._dziś_gwar.
+Niemkiniom	Niemkini	subst:pl:dat:f	pospolita	daw._dziś_gwar.
+Niemkiń	Niemkini	subst:pl:gen:f	pospolita	daw._dziś_gwar.
 Niemrach	Niemra	subst:pl:loc:f	pospolita	
 Niemrami	Niemra	subst:pl:inst:f	pospolita	
 Niemra	Niemra	subst:sg:nom:f	pospolita	
@@ -2914,7 +2914,7 @@ Niewiadowie	Niewiadów	subst:sg:voc:m3	geograficzna
 Niewiadowom	Niewiadów	subst:pl:dat:m3	geograficzna	
 Niewiadowowi	Niewiadów	subst:sg:dat:m3	geograficzna	
 Niewiadowów	Niewiadów	subst:pl:gen:m3	geograficzna	
-Niewiadowu	Niewiadów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Niewiadowu	Niewiadów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Niewiadowy	Niewiadów	subst:pl:acc:m3	geograficzna	
 Niewiadowy	Niewiadów	subst:pl:nom:m3	geograficzna	
 Niewiadowy	Niewiadów	subst:pl:voc:m3	geograficzna	
@@ -3297,21 +3297,21 @@ Nilów	Nil:s1	subst:pl:gen:m3	geograficzna
 Nilu	Nil:s1	subst:sg:gen:m3	geograficzna	
 Nilu	Nil:s1	subst:sg:loc:m3	geograficzna	
 Nilu	Nil:s1	subst:sg:voc:m3	geograficzna	
-Nilach	Nil:s2	subst:pl:loc:m3	krój pisma	przest.
-Nilami	Nil:s2	subst:pl:inst:m3	krój pisma	przest.
-Nilem	Nil:s2	subst:sg:inst:m3	krój pisma	przest.
-Nile	Nil:s2	subst:pl:acc:m3	krój pisma	przest.
-Nile	Nil:s2	subst:pl:nom:m3	krój pisma	przest.
-Nile	Nil:s2	subst:pl:voc:m3	krój pisma	przest.
-Nili	Nil:s2	subst:pl:gen:m3	krój pisma	przest.
-Nil	Nil:s2	subst:sg:acc:m3	krój pisma	przest.
-Nil	Nil:s2	subst:sg:nom:m3	krój pisma	przest.
-Nilom	Nil:s2	subst:pl:dat:m3	krój pisma	przest.
-Nilowi	Nil:s2	subst:sg:dat:m3	krój pisma	przest.
-Nilów	Nil:s2	subst:pl:gen:m3	krój pisma	przest.
-Nilu	Nil:s2	subst:sg:gen:m3	krój pisma	przest.
-Nilu	Nil:s2	subst:sg:loc:m3	krój pisma	przest.
-Nilu	Nil:s2	subst:sg:voc:m3	krój pisma	przest.
+Nilach	Nil:s2	subst:pl:loc:m3	krój_pisma	przest.
+Nilami	Nil:s2	subst:pl:inst:m3	krój_pisma	przest.
+Nilem	Nil:s2	subst:sg:inst:m3	krój_pisma	przest.
+Nile	Nil:s2	subst:pl:acc:m3	krój_pisma	przest.
+Nile	Nil:s2	subst:pl:nom:m3	krój_pisma	przest.
+Nile	Nil:s2	subst:pl:voc:m3	krój_pisma	przest.
+Nili	Nil:s2	subst:pl:gen:m3	krój_pisma	przest.
+Nil	Nil:s2	subst:sg:acc:m3	krój_pisma	przest.
+Nil	Nil:s2	subst:sg:nom:m3	krój_pisma	przest.
+Nilom	Nil:s2	subst:pl:dat:m3	krój_pisma	przest.
+Nilowi	Nil:s2	subst:sg:dat:m3	krój_pisma	przest.
+Nilów	Nil:s2	subst:pl:gen:m3	krój_pisma	przest.
+Nilu	Nil:s2	subst:sg:gen:m3	krój_pisma	przest.
+Nilu	Nil:s2	subst:sg:loc:m3	krój_pisma	przest.
+Nilu	Nil:s2	subst:sg:voc:m3	krój_pisma	przest.
 Nilach	Nil:s3	subst:pl:loc:m1	imię	
 Nilach	Nil:s3	subst:pl:loc:m1	nazwisko	
 Nilami	Nil:s3	subst:pl:inst:m1	imię	
@@ -3703,20 +3703,20 @@ Noblów	Nobel	subst:pl:acc:m1	nazwisko
 Noblów	Nobel	subst:pl:gen:m1	nazwisko	
 Noblu	Nobel	subst:sg:loc:m1	nazwisko	
 Noblu	Nobel	subst:sg:voc:m1	nazwisko	
-Nobiliach	Nobilium	subst:pl:loc:n2	instytucja	człon n. wł.
-Nobiliami	Nobilium	subst:pl:inst:n2	instytucja	człon n. wł.
-Nobilia	Nobilium	subst:pl:acc:n2	instytucja	człon n. wł.
-Nobilia	Nobilium	subst:pl:nom:n2	instytucja	człon n. wł.
-Nobilia	Nobilium	subst:pl:voc:n2	instytucja	człon n. wł.
-Nobiliom	Nobilium	subst:pl:dat:n2	instytucja	człon n. wł.
-Nobiliów	Nobilium	subst:pl:gen:n2	instytucja	człon n. wł.
-Nobilium	Nobilium	subst:sg:acc:n2	instytucja	człon n. wł.
-Nobilium	Nobilium	subst:sg:dat:n2	instytucja	człon n. wł.
-Nobilium	Nobilium	subst:sg:gen:n2	instytucja	człon n. wł.
-Nobilium	Nobilium	subst:sg:inst:n2	instytucja	człon n. wł.
-Nobilium	Nobilium	subst:sg:loc:n2	instytucja	człon n. wł.
-Nobilium	Nobilium	subst:sg:nom:n2	instytucja	człon n. wł.
-Nobilium	Nobilium	subst:sg:voc:n2	instytucja	człon n. wł.
+Nobiliach	Nobilium	subst:pl:loc:n2	instytucja	człon_n._wł.
+Nobiliami	Nobilium	subst:pl:inst:n2	instytucja	człon_n._wł.
+Nobilia	Nobilium	subst:pl:acc:n2	instytucja	człon_n._wł.
+Nobilia	Nobilium	subst:pl:nom:n2	instytucja	człon_n._wł.
+Nobilia	Nobilium	subst:pl:voc:n2	instytucja	człon_n._wł.
+Nobiliom	Nobilium	subst:pl:dat:n2	instytucja	człon_n._wł.
+Nobiliów	Nobilium	subst:pl:gen:n2	instytucja	człon_n._wł.
+Nobilium	Nobilium	subst:sg:acc:n2	instytucja	człon_n._wł.
+Nobilium	Nobilium	subst:sg:dat:n2	instytucja	człon_n._wł.
+Nobilium	Nobilium	subst:sg:gen:n2	instytucja	człon_n._wł.
+Nobilium	Nobilium	subst:sg:inst:n2	instytucja	człon_n._wł.
+Nobilium	Nobilium	subst:sg:loc:n2	instytucja	człon_n._wł.
+Nobilium	Nobilium	subst:sg:nom:n2	instytucja	człon_n._wł.
+Nobilium	Nobilium	subst:sg:voc:n2	instytucja	człon_n._wł.
 Noach	Noe	subst:pl:loc:m1	imię	bibl.
 Noami	Noe	subst:pl:inst:m1	imię	bibl.
 Noego	Noe	subst:sg:acc:m1	imię	bibl.

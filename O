@@ -181,7 +181,7 @@ Obrazowie	Obrazów	subst:sg:voc:m3	geograficzna
 Obrazowom	Obrazów	subst:pl:dat:m3	geograficzna	
 Obrazowowi	Obrazów	subst:sg:dat:m3	geograficzna	
 Obrazowów	Obrazów	subst:pl:gen:m3	geograficzna	
-Obrazowu	Obrazów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Obrazowu	Obrazów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Obrazowy	Obrazów	subst:pl:acc:m3	geograficzna	
 Obrazowy	Obrazów	subst:pl:nom:m3	geograficzna	
 Obrazowy	Obrazów	subst:pl:voc:m3	geograficzna	
@@ -575,7 +575,7 @@ Odolanowie	Odolanów	subst:sg:voc:m3	geograficzna
 Odolanowom	Odolanów	subst:pl:dat:m3	geograficzna	
 Odolanowowi	Odolanów	subst:sg:dat:m3	geograficzna	
 Odolanowów	Odolanów	subst:pl:gen:m3	geograficzna	
-Odolanowu	Odolanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Odolanowu	Odolanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Odolanowy	Odolanów	subst:pl:acc:m3	geograficzna	
 Odolanowy	Odolanów	subst:pl:nom:m3	geograficzna	
 Odolanowy	Odolanów	subst:pl:voc:m3	geograficzna	
@@ -1021,7 +1021,7 @@ Ojcowie	Ojców	subst:sg:voc:m3	geograficzna
 Ojcowom	Ojców	subst:pl:dat:m3	geograficzna	
 Ojcowowi	Ojców	subst:sg:dat:m3	geograficzna	
 Ojcowów	Ojców	subst:pl:gen:m3	geograficzna	
-Ojcowu	Ojców	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Ojcowu	Ojców	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Ojcowy	Ojców	subst:pl:acc:m3	geograficzna	
 Ojcowy	Ojców	subst:pl:nom:m3	geograficzna	
 Ojcowy	Ojców	subst:pl:voc:m3	geograficzna	
@@ -2580,7 +2580,7 @@ Opatowie	Opatów	subst:sg:voc:m3	geograficzna
 Opatowom	Opatów	subst:pl:dat:m3	geograficzna	
 Opatowowi	Opatów	subst:sg:dat:m3	geograficzna	
 Opatowów	Opatów	subst:pl:gen:m3	geograficzna	
-Opatowu	Opatów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Opatowu	Opatów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Opatowy	Opatów	subst:pl:acc:m3	geograficzna	
 Opatowy	Opatów	subst:pl:nom:m3	geograficzna	
 Opatowy	Opatów	subst:pl:voc:m3	geograficzna	
@@ -2739,7 +2739,7 @@ Oporowie	Oporów	subst:sg:voc:m3	geograficzna
 Oporowom	Oporów	subst:pl:dat:m3	geograficzna	
 Oporowowi	Oporów	subst:sg:dat:m3	geograficzna	
 Oporowów	Oporów	subst:pl:gen:m3	geograficzna	
-Oporowu	Oporów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Oporowu	Oporów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Oporowy	Oporów	subst:pl:acc:m3	geograficzna	
 Oporowy	Oporów	subst:pl:nom:m3	geograficzna	
 Oporowy	Oporów	subst:pl:voc:m3	geograficzna	
@@ -3732,7 +3732,7 @@ Osjakowie	Osjaków	subst:sg:voc:m3	geograficzna
 Osjakowom	Osjaków	subst:pl:dat:m3	geograficzna	
 Osjakowowi	Osjaków	subst:sg:dat:m3	geograficzna	
 Osjakowów	Osjaków	subst:pl:gen:m3	geograficzna	
-Osjakowu	Osjaków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Osjakowu	Osjaków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Osjakowy	Osjaków	subst:pl:acc:m3	geograficzna	
 Osjakowy	Osjaków	subst:pl:nom:m3	geograficzna	
 Osjakowy	Osjaków	subst:pl:voc:m3	geograficzna	
@@ -4182,35 +4182,35 @@ Ostrogu	Ostróg	subst:sg:loc:m3	geograficzna
 Ostrogu	Ostróg	subst:sg:voc:m3	geograficzna	
 Ostróg	Ostróg	subst:sg:acc:m3	geograficzna	
 Ostróg	Ostróg	subst:sg:nom:m3	geograficzna	
-Ostrowiach	Ostrów:s1	subst:pl:loc:f	geograficzna	człon n. wł.
-Ostrowiami	Ostrów:s1	subst:pl:inst:f	geograficzna	człon n. wł.
-Ostrowią	Ostrów:s1	subst:sg:inst:f	geograficzna	człon n. wł.
-Ostrowie	Ostrów:s1	subst:pl:acc:f	geograficzna	człon n. wł.
-Ostrowie	Ostrów:s1	subst:pl:nom:f	geograficzna	człon n. wł.
-Ostrowie	Ostrów:s1	subst:pl:voc:f	geograficzna	człon n. wł.
-Ostrowiom	Ostrów:s1	subst:pl:dat:f	geograficzna	człon n. wł.
-Ostrowi	Ostrów:s1	subst:pl:gen:f	geograficzna	człon n. wł.
-Ostrowi	Ostrów:s1	subst:sg:dat:f	geograficzna	człon n. wł.
-Ostrowi	Ostrów:s1	subst:sg:gen:f	geograficzna	człon n. wł.
-Ostrowi	Ostrów:s1	subst:sg:loc:f	geograficzna	człon n. wł.
-Ostrowi	Ostrów:s1	subst:sg:voc:f	geograficzna	człon n. wł.
-Ostrów	Ostrów:s1	subst:sg:acc:f	geograficzna	człon n. wł.
-Ostrów	Ostrów:s1	subst:sg:nom:f	geograficzna	człon n. wł.
-Ostrowach	Ostrów:s2	subst:pl:loc:m3	geograficzna	n. wł. a. człon n. wł.
-Ostrowami	Ostrów:s2	subst:pl:inst:m3	geograficzna	n. wł. a. człon n. wł.
-Ostrowa	Ostrów:s2	subst:sg:gen:m3	geograficzna	n. wł. a. człon n. wł.
-Ostrowem	Ostrów:s2	subst:sg:inst:m3	geograficzna	n. wł. a. człon n. wł.
-Ostrowie	Ostrów:s2	subst:sg:loc:m3	geograficzna	n. wł. a. człon n. wł.
-Ostrowie	Ostrów:s2	subst:sg:voc:m3	geograficzna	n. wł. a. człon n. wł.
-Ostrowom	Ostrów:s2	subst:pl:dat:m3	geograficzna	n. wł. a. człon n. wł.
-Ostrowowi	Ostrów:s2	subst:sg:dat:m3	geograficzna	n. wł. a. człon n. wł.
-Ostrowów	Ostrów:s2	subst:pl:gen:m3	geograficzna	n. wł. a. człon n. wł.
-Ostrowu	Ostrów:s2	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")|n. wł. a. człon n. wł.
-Ostrowy	Ostrów:s2	subst:pl:acc:m3	geograficzna	n. wł. a. człon n. wł.
-Ostrowy	Ostrów:s2	subst:pl:nom:m3	geograficzna	n. wł. a. człon n. wł.
-Ostrowy	Ostrów:s2	subst:pl:voc:m3	geograficzna	n. wł. a. człon n. wł.
-Ostrów	Ostrów:s2	subst:sg:acc:m3	geograficzna	n. wł. a. człon n. wł.
-Ostrów	Ostrów:s2	subst:sg:nom:m3	geograficzna	n. wł. a. człon n. wł.
+Ostrowiach	Ostrów:s1	subst:pl:loc:f	geograficzna	człon_n._wł.
+Ostrowiami	Ostrów:s1	subst:pl:inst:f	geograficzna	człon_n._wł.
+Ostrowią	Ostrów:s1	subst:sg:inst:f	geograficzna	człon_n._wł.
+Ostrowie	Ostrów:s1	subst:pl:acc:f	geograficzna	człon_n._wł.
+Ostrowie	Ostrów:s1	subst:pl:nom:f	geograficzna	człon_n._wł.
+Ostrowie	Ostrów:s1	subst:pl:voc:f	geograficzna	człon_n._wł.
+Ostrowiom	Ostrów:s1	subst:pl:dat:f	geograficzna	człon_n._wł.
+Ostrowi	Ostrów:s1	subst:pl:gen:f	geograficzna	człon_n._wł.
+Ostrowi	Ostrów:s1	subst:sg:dat:f	geograficzna	człon_n._wł.
+Ostrowi	Ostrów:s1	subst:sg:gen:f	geograficzna	człon_n._wł.
+Ostrowi	Ostrów:s1	subst:sg:loc:f	geograficzna	człon_n._wł.
+Ostrowi	Ostrów:s1	subst:sg:voc:f	geograficzna	człon_n._wł.
+Ostrów	Ostrów:s1	subst:sg:acc:f	geograficzna	człon_n._wł.
+Ostrów	Ostrów:s1	subst:sg:nom:f	geograficzna	człon_n._wł.
+Ostrowach	Ostrów:s2	subst:pl:loc:m3	geograficzna	n._wł._a._człon_n._wł.
+Ostrowami	Ostrów:s2	subst:pl:inst:m3	geograficzna	n._wł._a._człon_n._wł.
+Ostrowa	Ostrów:s2	subst:sg:gen:m3	geograficzna	n._wł._a._człon_n._wł.
+Ostrowem	Ostrów:s2	subst:sg:inst:m3	geograficzna	n._wł._a._człon_n._wł.
+Ostrowie	Ostrów:s2	subst:sg:loc:m3	geograficzna	n._wł._a._człon_n._wł.
+Ostrowie	Ostrów:s2	subst:sg:voc:m3	geograficzna	n._wł._a._człon_n._wł.
+Ostrowom	Ostrów:s2	subst:pl:dat:m3	geograficzna	n._wł._a._człon_n._wł.
+Ostrowowi	Ostrów:s2	subst:sg:dat:m3	geograficzna	n._wł._a._człon_n._wł.
+Ostrowów	Ostrów:s2	subst:pl:gen:m3	geograficzna	n._wł._a._człon_n._wł.
+Ostrowu	Ostrów:s2	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")|n._wł._a._człon_n._wł.
+Ostrowy	Ostrów:s2	subst:pl:acc:m3	geograficzna	n._wł._a._człon_n._wł.
+Ostrowy	Ostrów:s2	subst:pl:nom:m3	geograficzna	n._wł._a._człon_n._wł.
+Ostrowy	Ostrów:s2	subst:pl:voc:m3	geograficzna	n._wł._a._człon_n._wł.
+Ostrów	Ostrów:s2	subst:sg:acc:m3	geograficzna	n._wł._a._człon_n._wł.
+Ostrów	Ostrów:s2	subst:sg:nom:m3	geograficzna	n._wł._a._człon_n._wł.
 Ostrzeszowach	Ostrzeszów	subst:pl:loc:m3	geograficzna	
 Ostrzeszowami	Ostrzeszów	subst:pl:inst:m3	geograficzna	
 Ostrzeszowa	Ostrzeszów	subst:sg:gen:m3	geograficzna	
@@ -4220,7 +4220,7 @@ Ostrzeszowie	Ostrzeszów	subst:sg:voc:m3	geograficzna
 Ostrzeszowom	Ostrzeszów	subst:pl:dat:m3	geograficzna	
 Ostrzeszowowi	Ostrzeszów	subst:sg:dat:m3	geograficzna	
 Ostrzeszowów	Ostrzeszów	subst:pl:gen:m3	geograficzna	
-Ostrzeszowu	Ostrzeszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Ostrzeszowu	Ostrzeszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Ostrzeszowy	Ostrzeszów	subst:pl:acc:m3	geograficzna	
 Ostrzeszowy	Ostrzeszów	subst:pl:nom:m3	geograficzna	
 Ostrzeszowy	Ostrzeszów	subst:pl:voc:m3	geograficzna	
@@ -4357,7 +4357,7 @@ Otmuchowie	Otmuchów	subst:sg:voc:m3	geograficzna
 Otmuchowom	Otmuchów	subst:pl:dat:m3	geograficzna	
 Otmuchowowi	Otmuchów	subst:sg:dat:m3	geograficzna	
 Otmuchowów	Otmuchów	subst:pl:gen:m3	geograficzna	
-Otmuchowu	Otmuchów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Otmuchowu	Otmuchów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Otmuchowy	Otmuchów	subst:pl:acc:m3	geograficzna	
 Otmuchowy	Otmuchów	subst:pl:nom:m3	geograficzna	
 Otmuchowy	Otmuchów	subst:pl:voc:m3	geograficzna	
@@ -4715,7 +4715,7 @@ Ozorkowie	Ozorków	subst:sg:voc:m3	geograficzna
 Ozorkowom	Ozorków	subst:pl:dat:m3	geograficzna	
 Ozorkowowi	Ozorków	subst:sg:dat:m3	geograficzna	
 Ozorkowów	Ozorków	subst:pl:gen:m3	geograficzna	
-Ozorkowu	Ozorków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Ozorkowu	Ozorków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Ozorkowy	Ozorków	subst:pl:acc:m3	geograficzna	
 Ozorkowy	Ozorków	subst:pl:nom:m3	geograficzna	
 Ozorkowy	Ozorków	subst:pl:voc:m3	geograficzna	
@@ -4762,7 +4762,7 @@ Ożarowie	Ożarów	subst:sg:voc:m3	geograficzna
 Ożarowom	Ożarów	subst:pl:dat:m3	geograficzna	
 Ożarowowi	Ożarów	subst:sg:dat:m3	geograficzna	
 Ożarowów	Ożarów	subst:pl:gen:m3	geograficzna	
-Ożarowu	Ożarów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Ożarowu	Ożarów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Ożarowy	Ożarów	subst:pl:acc:m3	geograficzna	
 Ożarowy	Ożarów	subst:pl:nom:m3	geograficzna	
 Ożarowy	Ożarów	subst:pl:voc:m3	geograficzna	

@@ -1877,7 +1877,7 @@ Kaniowie	Kaniów	subst:sg:voc:m3	geograficzna
 Kaniowom	Kaniów	subst:pl:dat:m3	geograficzna	
 Kaniowowi	Kaniów	subst:sg:dat:m3	geograficzna	
 Kaniowów	Kaniów	subst:pl:gen:m3	geograficzna	
-Kaniowu	Kaniów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Kaniowu	Kaniów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Kaniowy	Kaniów	subst:pl:acc:m3	geograficzna	
 Kaniowy	Kaniów	subst:pl:nom:m3	geograficzna	
 Kaniowy	Kaniów	subst:pl:voc:m3	geograficzna	
@@ -2055,22 +2055,22 @@ Kapczyńskimi	Kapczyński	subst:pl:inst:m1	nazwisko
 Kapczyńskim	Kapczyński	subst:pl:dat:m1	nazwisko	
 Kapczyńskim	Kapczyński	subst:sg:inst:m1	nazwisko	
 Kapczyńskim	Kapczyński	subst:sg:loc:m1	nazwisko	
-Kapetyngach	Kapetyng	subst:pl:loc:m1	członek rodu	hist.
-Kapetynga	Kapetyng	subst:sg:acc:m1	członek rodu	hist.
-Kapetynga	Kapetyng	subst:sg:gen:m1	członek rodu	hist.
-Kapetyngami	Kapetyng	subst:pl:inst:m1	członek rodu	hist.
-Kapetyngiem	Kapetyng	subst:sg:inst:m1	członek rodu	hist.
-Kapetyngi	Kapetyng	depr:pl:nom:m2	członek rodu	hist.
-Kapetyngi	Kapetyng	depr:pl:voc:m2	członek rodu	hist.
-Kapetyng	Kapetyng	subst:sg:nom:m1	członek rodu	hist.
-Kapetyngom	Kapetyng	subst:pl:dat:m1	członek rodu	hist.
-Kapetyngowie	Kapetyng	subst:pl:nom:m1	członek rodu	hist.
-Kapetyngowie	Kapetyng	subst:pl:voc:m1	członek rodu	hist.
-Kapetyngowi	Kapetyng	subst:sg:dat:m1	członek rodu	hist.
-Kapetyngów	Kapetyng	subst:pl:acc:m1	członek rodu	hist.
-Kapetyngów	Kapetyng	subst:pl:gen:m1	członek rodu	hist.
-Kapetyngu	Kapetyng	subst:sg:loc:m1	członek rodu	hist.
-Kapetyngu	Kapetyng	subst:sg:voc:m1	członek rodu	hist.
+Kapetyngach	Kapetyng	subst:pl:loc:m1	członek_rodu	hist.
+Kapetynga	Kapetyng	subst:sg:acc:m1	członek_rodu	hist.
+Kapetynga	Kapetyng	subst:sg:gen:m1	członek_rodu	hist.
+Kapetyngami	Kapetyng	subst:pl:inst:m1	członek_rodu	hist.
+Kapetyngiem	Kapetyng	subst:sg:inst:m1	członek_rodu	hist.
+Kapetyngi	Kapetyng	depr:pl:nom:m2	członek_rodu	hist.
+Kapetyngi	Kapetyng	depr:pl:voc:m2	członek_rodu	hist.
+Kapetyng	Kapetyng	subst:sg:nom:m1	członek_rodu	hist.
+Kapetyngom	Kapetyng	subst:pl:dat:m1	członek_rodu	hist.
+Kapetyngowie	Kapetyng	subst:pl:nom:m1	członek_rodu	hist.
+Kapetyngowie	Kapetyng	subst:pl:voc:m1	członek_rodu	hist.
+Kapetyngowi	Kapetyng	subst:sg:dat:m1	członek_rodu	hist.
+Kapetyngów	Kapetyng	subst:pl:acc:m1	członek_rodu	hist.
+Kapetyngów	Kapetyng	subst:pl:gen:m1	członek_rodu	hist.
+Kapetyngu	Kapetyng	subst:sg:loc:m1	członek_rodu	hist.
+Kapetyngu	Kapetyng	subst:sg:voc:m1	członek_rodu	hist.
 Kapitolach	Kapitol	subst:pl:loc:m3	geograficzna	
 Kapitolami	Kapitol	subst:pl:inst:m3	geograficzna	
 Kapitole	Kapitol	subst:pl:acc:m3	geograficzna	
@@ -2392,7 +2392,7 @@ Karczowie	Karczów	subst:sg:voc:m3	geograficzna
 Karczowom	Karczów	subst:pl:dat:m3	geograficzna	
 Karczowowi	Karczów	subst:sg:dat:m3	geograficzna	
 Karczowów	Karczów	subst:pl:gen:m3	geograficzna	
-Karczowu	Karczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Karczowu	Karczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Karczowy	Karczów	subst:pl:acc:m3	geograficzna	
 Karczowy	Karczów	subst:pl:nom:m3	geograficzna	
 Karczowy	Karczów	subst:pl:voc:m3	geograficzna	
@@ -2720,22 +2720,22 @@ Karoliny	Karolina	subst:pl:acc:f	imię
 Karoliny	Karolina	subst:pl:nom:f	imię	
 Karoliny	Karolina	subst:pl:voc:f	imię	
 Karoliny	Karolina	subst:sg:gen:f	imię	
-Karolingach	Karoling	subst:pl:loc:m1	członek rodu	
-Karolinga	Karoling	subst:sg:acc:m1	członek rodu	
-Karolinga	Karoling	subst:sg:gen:m1	członek rodu	
-Karolingami	Karoling	subst:pl:inst:m1	członek rodu	
-Karolingiem	Karoling	subst:sg:inst:m1	członek rodu	
-Karolingi	Karoling	depr:pl:nom:m2	członek rodu	
-Karolingi	Karoling	depr:pl:voc:m2	członek rodu	
-Karoling	Karoling	subst:sg:nom:m1	członek rodu	
-Karolingom	Karoling	subst:pl:dat:m1	członek rodu	
-Karolingowie	Karoling	subst:pl:nom:m1	członek rodu	
-Karolingowie	Karoling	subst:pl:voc:m1	członek rodu	
-Karolingowi	Karoling	subst:sg:dat:m1	członek rodu	
-Karolingów	Karoling	subst:pl:acc:m1	członek rodu	
-Karolingów	Karoling	subst:pl:gen:m1	członek rodu	
-Karolingu	Karoling	subst:sg:loc:m1	członek rodu	
-Karolingu	Karoling	subst:sg:voc:m1	członek rodu	
+Karolingach	Karoling	subst:pl:loc:m1	członek_rodu	
+Karolinga	Karoling	subst:sg:acc:m1	członek_rodu	
+Karolinga	Karoling	subst:sg:gen:m1	członek_rodu	
+Karolingami	Karoling	subst:pl:inst:m1	członek_rodu	
+Karolingiem	Karoling	subst:sg:inst:m1	członek_rodu	
+Karolingi	Karoling	depr:pl:nom:m2	członek_rodu	
+Karolingi	Karoling	depr:pl:voc:m2	członek_rodu	
+Karoling	Karoling	subst:sg:nom:m1	członek_rodu	
+Karolingom	Karoling	subst:pl:dat:m1	członek_rodu	
+Karolingowie	Karoling	subst:pl:nom:m1	członek_rodu	
+Karolingowie	Karoling	subst:pl:voc:m1	członek_rodu	
+Karolingowi	Karoling	subst:sg:dat:m1	członek_rodu	
+Karolingów	Karoling	subst:pl:acc:m1	członek_rodu	
+Karolingów	Karoling	subst:pl:gen:m1	członek_rodu	
+Karolingu	Karoling	subst:sg:loc:m1	członek_rodu	
+Karolingu	Karoling	subst:sg:voc:m1	członek_rodu	
 Karolince	Karolinka	subst:sg:dat:f	imię	
 Karolince	Karolinka	subst:sg:loc:f	imię	
 Karolinek	Karolinka	subst:pl:gen:f	imię	
@@ -3198,20 +3198,20 @@ Kasprowiczów	Kasprowicz	subst:pl:acc:m1	nazwisko
 Kasprowiczów	Kasprowicz	subst:pl:gen:m1	nazwisko	
 Kasprowiczu	Kasprowicz	subst:sg:loc:m1	nazwisko	
 Kasprowiczu	Kasprowicz	subst:sg:voc:m1	nazwisko	
-Kasprowego	Kasprowy	subst:sg:gen:m3	geograficzna	człon n. wł.
-Kasprowe	Kasprowy	subst:pl:acc:m3	geograficzna	człon n. wł.
-Kasprowe	Kasprowy	subst:pl:nom:m3	geograficzna	człon n. wł.
-Kasprowe	Kasprowy	subst:pl:voc:m3	geograficzna	człon n. wł.
-Kasprowemu	Kasprowy	subst:sg:dat:m3	geograficzna	człon n. wł.
-Kasprowych	Kasprowy	subst:pl:gen:m3	geograficzna	człon n. wł.
-Kasprowych	Kasprowy	subst:pl:loc:m3	geograficzna	człon n. wł.
-Kasprowy	Kasprowy	subst:sg:acc:m3	geograficzna	człon n. wł.
-Kasprowy	Kasprowy	subst:sg:nom:m3	geograficzna	człon n. wł.
-Kasprowy	Kasprowy	subst:sg:voc:m3	geograficzna	człon n. wł.
-Kasprowymi	Kasprowy	subst:pl:inst:m3	geograficzna	człon n. wł.
-Kasprowym	Kasprowy	subst:pl:dat:m3	geograficzna	człon n. wł.
-Kasprowym	Kasprowy	subst:sg:inst:m3	geograficzna	człon n. wł.
-Kasprowym	Kasprowy	subst:sg:loc:m3	geograficzna	człon n. wł.
+Kasprowego	Kasprowy	subst:sg:gen:m3	geograficzna	człon_n._wł.
+Kasprowe	Kasprowy	subst:pl:acc:m3	geograficzna	człon_n._wł.
+Kasprowe	Kasprowy	subst:pl:nom:m3	geograficzna	człon_n._wł.
+Kasprowe	Kasprowy	subst:pl:voc:m3	geograficzna	człon_n._wł.
+Kasprowemu	Kasprowy	subst:sg:dat:m3	geograficzna	człon_n._wł.
+Kasprowych	Kasprowy	subst:pl:gen:m3	geograficzna	człon_n._wł.
+Kasprowych	Kasprowy	subst:pl:loc:m3	geograficzna	człon_n._wł.
+Kasprowy	Kasprowy	subst:sg:acc:m3	geograficzna	człon_n._wł.
+Kasprowy	Kasprowy	subst:sg:nom:m3	geograficzna	człon_n._wł.
+Kasprowy	Kasprowy	subst:sg:voc:m3	geograficzna	człon_n._wł.
+Kasprowymi	Kasprowy	subst:pl:inst:m3	geograficzna	człon_n._wł.
+Kasprowym	Kasprowy	subst:pl:dat:m3	geograficzna	człon_n._wł.
+Kasprowym	Kasprowy	subst:sg:inst:m3	geograficzna	człon_n._wł.
+Kasprowym	Kasprowy	subst:sg:loc:m3	geograficzna	człon_n._wł.
 Kasprusiach	Kaspruś	subst:pl:loc:m1	imię	
 Kasprusia	Kaspruś	subst:sg:acc:m1	imię	
 Kasprusia	Kaspruś	subst:sg:gen:m1	imię	
@@ -3799,7 +3799,7 @@ Kazanowie	Kazanów	subst:sg:voc:m3	geograficzna
 Kazanowom	Kazanów	subst:pl:dat:m3	geograficzna	
 Kazanowowi	Kazanów	subst:sg:dat:m3	geograficzna	
 Kazanowów	Kazanów	subst:pl:gen:m3	geograficzna	
-Kazanowu	Kazanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Kazanowu	Kazanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Kazanowy	Kazanów	subst:pl:acc:m3	geograficzna	
 Kazanowy	Kazanów	subst:pl:nom:m3	geograficzna	
 Kazanowy	Kazanów	subst:pl:voc:m3	geograficzna	
@@ -4868,34 +4868,34 @@ Kętrzynów	Kętrzyn	subst:pl:gen:m3	geograficzna
 Kętrzyny	Kętrzyn	subst:pl:acc:m3	geograficzna	
 Kętrzyny	Kętrzyn	subst:pl:nom:m3	geograficzna	
 Kętrzyny	Kętrzyn	subst:pl:voc:m3	geograficzna	
-KG	KG	subst:pl:acc:f	własna	człon n. wł.
-KG	KG	subst:pl:acc:n2	własna	człon n. wł.
-KG	KG	subst:pl:dat:f	własna	człon n. wł.
-KG	KG	subst:pl:dat:n2	własna	człon n. wł.
-KG	KG	subst:pl:gen:f	własna	człon n. wł.
-KG	KG	subst:pl:gen:n2	własna	człon n. wł.
-KG	KG	subst:pl:inst:f	własna	człon n. wł.
-KG	KG	subst:pl:inst:n2	własna	człon n. wł.
-KG	KG	subst:pl:loc:f	własna	człon n. wł.
-KG	KG	subst:pl:loc:n2	własna	człon n. wł.
-KG	KG	subst:pl:nom:f	własna	człon n. wł.
-KG	KG	subst:pl:nom:n2	własna	człon n. wł.
-KG	KG	subst:pl:voc:f	własna	człon n. wł.
-KG	KG	subst:pl:voc:n2	własna	człon n. wł.
-KG	KG	subst:sg:acc:f	własna	człon n. wł.
-KG	KG	subst:sg:acc:n2	własna	człon n. wł.
-KG	KG	subst:sg:dat:f	własna	człon n. wł.
-KG	KG	subst:sg:dat:n2	własna	człon n. wł.
-KG	KG	subst:sg:gen:f	własna	człon n. wł.
-KG	KG	subst:sg:gen:n2	własna	człon n. wł.
-KG	KG	subst:sg:inst:f	własna	człon n. wł.
-KG	KG	subst:sg:inst:n2	własna	człon n. wł.
-KG	KG	subst:sg:loc:f	własna	człon n. wł.
-KG	KG	subst:sg:loc:n2	własna	człon n. wł.
-KG	KG	subst:sg:nom:f	własna	człon n. wł.
-KG	KG	subst:sg:nom:n2	własna	człon n. wł.
-KG	KG	subst:sg:voc:f	własna	człon n. wł.
-KG	KG	subst:sg:voc:n2	własna	człon n. wł.
+KG	KG	subst:pl:acc:f	własna	człon_n._wł.
+KG	KG	subst:pl:acc:n2	własna	człon_n._wł.
+KG	KG	subst:pl:dat:f	własna	człon_n._wł.
+KG	KG	subst:pl:dat:n2	własna	człon_n._wł.
+KG	KG	subst:pl:gen:f	własna	człon_n._wł.
+KG	KG	subst:pl:gen:n2	własna	człon_n._wł.
+KG	KG	subst:pl:inst:f	własna	człon_n._wł.
+KG	KG	subst:pl:inst:n2	własna	człon_n._wł.
+KG	KG	subst:pl:loc:f	własna	człon_n._wł.
+KG	KG	subst:pl:loc:n2	własna	człon_n._wł.
+KG	KG	subst:pl:nom:f	własna	człon_n._wł.
+KG	KG	subst:pl:nom:n2	własna	człon_n._wł.
+KG	KG	subst:pl:voc:f	własna	człon_n._wł.
+KG	KG	subst:pl:voc:n2	własna	człon_n._wł.
+KG	KG	subst:sg:acc:f	własna	człon_n._wł.
+KG	KG	subst:sg:acc:n2	własna	człon_n._wł.
+KG	KG	subst:sg:dat:f	własna	człon_n._wł.
+KG	KG	subst:sg:dat:n2	własna	człon_n._wł.
+KG	KG	subst:sg:gen:f	własna	człon_n._wł.
+KG	KG	subst:sg:gen:n2	własna	człon_n._wł.
+KG	KG	subst:sg:inst:f	własna	człon_n._wł.
+KG	KG	subst:sg:inst:n2	własna	człon_n._wł.
+KG	KG	subst:sg:loc:f	własna	człon_n._wł.
+KG	KG	subst:sg:loc:n2	własna	człon_n._wł.
+KG	KG	subst:sg:nom:f	własna	człon_n._wł.
+KG	KG	subst:sg:nom:n2	własna	człon_n._wł.
+KG	KG	subst:sg:voc:f	własna	człon_n._wł.
+KG	KG	subst:sg:voc:n2	własna	człon_n._wł.
 KGB	KGB	subst:pl:acc:m3	organizacja	
 KGB	KGB	subst:pl:acc:n2	organizacja	
 KGB	KGB	subst:pl:dat:m3	organizacja	
@@ -5179,7 +5179,7 @@ Kiełczygłowie	Kiełczygłów	subst:sg:voc:m3	geograficzna
 Kiełczygłowom	Kiełczygłów	subst:pl:dat:m3	geograficzna	
 Kiełczygłowowi	Kiełczygłów	subst:sg:dat:m3	geograficzna	
 Kiełczygłowów	Kiełczygłów	subst:pl:gen:m3	geograficzna	
-Kiełczygłowu	Kiełczygłów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Kiełczygłowu	Kiełczygłów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Kiełczygłowy	Kiełczygłów	subst:pl:acc:m3	geograficzna	
 Kiełczygłowy	Kiełczygłów	subst:pl:nom:m3	geograficzna	
 Kiełczygłowy	Kiełczygłów	subst:pl:voc:m3	geograficzna	
@@ -5478,7 +5478,7 @@ Kijowie	Kijów	subst:sg:voc:m3	geograficzna
 Kijowom	Kijów	subst:pl:dat:m3	geograficzna	
 Kijowowi	Kijów	subst:sg:dat:m3	geograficzna	
 Kijowów	Kijów	subst:pl:gen:m3	geograficzna	
-Kijowu	Kijów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Kijowu	Kijów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Kijowy	Kijów	subst:pl:acc:m3	geograficzna	
 Kijowy	Kijów	subst:pl:nom:m3	geograficzna	
 Kijowy	Kijów	subst:pl:voc:m3	geograficzna	
@@ -6015,7 +6015,7 @@ Kiszyniowie	Kiszyniów	subst:sg:voc:m3	geograficzna
 Kiszyniowom	Kiszyniów	subst:pl:dat:m3	geograficzna	
 Kiszyniowowi	Kiszyniów	subst:sg:dat:m3	geograficzna	
 Kiszyniowów	Kiszyniów	subst:pl:gen:m3	geograficzna	
-Kiszyniowu	Kiszyniów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Kiszyniowu	Kiszyniów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Kiszyniowy	Kiszyniów	subst:pl:acc:m3	geograficzna	
 Kiszyniowy	Kiszyniów	subst:pl:nom:m3	geograficzna	
 Kiszyniowy	Kiszyniów	subst:pl:voc:m3	geograficzna	
@@ -6395,7 +6395,7 @@ Klembowie	Klembów	subst:sg:voc:m3	geograficzna
 Klembowom	Klembów	subst:pl:dat:m3	geograficzna	
 Klembowowi	Klembów	subst:sg:dat:m3	geograficzna	
 Klembowów	Klembów	subst:pl:gen:m3	geograficzna	
-Klembowu	Klembów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Klembowu	Klembów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Klembowy	Klembów	subst:pl:acc:m3	geograficzna	
 Klembowy	Klembów	subst:pl:nom:m3	geograficzna	
 Klembowy	Klembów	subst:pl:voc:m3	geograficzna	
@@ -6585,7 +6585,7 @@ Kleszczowie	Kleszczów	subst:sg:voc:m3	geograficzna
 Kleszczowom	Kleszczów	subst:pl:dat:m3	geograficzna	
 Kleszczowowi	Kleszczów	subst:sg:dat:m3	geograficzna	
 Kleszczowów	Kleszczów	subst:pl:gen:m3	geograficzna	
-Kleszczowu	Kleszczów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Kleszczowu	Kleszczów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Kleszczowy	Kleszczów	subst:pl:acc:m3	geograficzna	
 Kleszczowy	Kleszczów	subst:pl:nom:m3	geograficzna	
 Kleszczowy	Kleszczów	subst:pl:voc:m3	geograficzna	
@@ -6710,7 +6710,7 @@ Klimontowie	Klimontów	subst:sg:voc:m3	geograficzna
 Klimontowom	Klimontów	subst:pl:dat:m3	geograficzna	
 Klimontowowi	Klimontów	subst:sg:dat:m3	geograficzna	
 Klimontowów	Klimontów	subst:pl:gen:m3	geograficzna	
-Klimontowu	Klimontów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Klimontowu	Klimontów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Klimontowy	Klimontów	subst:pl:acc:m3	geograficzna	
 Klimontowy	Klimontów	subst:pl:nom:m3	geograficzna	
 Klimontowy	Klimontów	subst:pl:voc:m3	geograficzna	
@@ -6739,7 +6739,7 @@ Kliszowie	Kliszów	subst:sg:voc:m3	geograficzna
 Kliszowom	Kliszów	subst:pl:dat:m3	geograficzna	
 Kliszowowi	Kliszów	subst:sg:dat:m3	geograficzna	
 Kliszowów	Kliszów	subst:pl:gen:m3	geograficzna	
-Kliszowu	Kliszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Kliszowu	Kliszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Kliszowy	Kliszów	subst:pl:acc:m3	geograficzna	
 Kliszowy	Kliszów	subst:pl:nom:m3	geograficzna	
 Kliszowy	Kliszów	subst:pl:voc:m3	geograficzna	
@@ -6931,7 +6931,7 @@ Klwowie	Klwów	subst:sg:voc:m3	geograficzna
 Klwowom	Klwów	subst:pl:dat:m3	geograficzna	
 Klwowowi	Klwów	subst:sg:dat:m3	geograficzna	
 Klwowów	Klwów	subst:pl:gen:m3	geograficzna	
-Klwowu	Klwów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Klwowu	Klwów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Klwowy	Klwów	subst:pl:acc:m3	geograficzna	
 Klwowy	Klwów	subst:pl:nom:m3	geograficzna	
 Klwowy	Klwów	subst:pl:voc:m3	geograficzna	
@@ -7244,7 +7244,7 @@ Knurowie	Knurów	subst:sg:voc:m3	geograficzna
 Knurowom	Knurów	subst:pl:dat:m3	geograficzna	
 Knurowowi	Knurów	subst:sg:dat:m3	geograficzna	
 Knurowów	Knurów	subst:pl:gen:m3	geograficzna	
-Knurowu	Knurów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Knurowu	Knurów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Knurowy	Knurów	subst:pl:acc:m3	geograficzna	
 Knurowy	Knurów	subst:pl:nom:m3	geograficzna	
 Knurowy	Knurów	subst:pl:voc:m3	geograficzna	
@@ -7476,7 +7476,7 @@ Kocmyrzowie	Kocmyrzów	subst:sg:voc:m3	geograficzna
 Kocmyrzowom	Kocmyrzów	subst:pl:dat:m3	geograficzna	
 Kocmyrzowowi	Kocmyrzów	subst:sg:dat:m3	geograficzna	
 Kocmyrzowów	Kocmyrzów	subst:pl:gen:m3	geograficzna	
-Kocmyrzowu	Kocmyrzów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Kocmyrzowu	Kocmyrzów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Kocmyrzowy	Kocmyrzów	subst:pl:acc:m3	geograficzna	
 Kocmyrzowy	Kocmyrzów	subst:pl:nom:m3	geograficzna	
 Kocmyrzowy	Kocmyrzów	subst:pl:voc:m3	geograficzna	
@@ -8212,7 +8212,7 @@ Komarowie	Komarów	subst:sg:voc:m3	geograficzna
 Komarowom	Komarów	subst:pl:dat:m3	geograficzna	
 Komarowowi	Komarów	subst:sg:dat:m3	geograficzna	
 Komarowów	Komarów	subst:pl:gen:m3	geograficzna	
-Komarowu	Komarów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Komarowu	Komarów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Komarowy	Komarów	subst:pl:acc:m3	geograficzna	
 Komarowy	Komarów	subst:pl:nom:m3	geograficzna	
 Komarowy	Komarów	subst:pl:voc:m3	geograficzna	
@@ -8331,7 +8331,7 @@ Komorowie	Komorów	subst:sg:voc:m3	geograficzna
 Komorowom	Komorów	subst:pl:dat:m3	geograficzna	
 Komorowowi	Komorów	subst:sg:dat:m3	geograficzna	
 Komorowów	Komorów	subst:pl:gen:m3	geograficzna	
-Komorowu	Komorów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Komorowu	Komorów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Komorowy	Komorów	subst:pl:acc:m3	geograficzna	
 Komorowy	Komorów	subst:pl:nom:m3	geograficzna	
 Komorowy	Komorów	subst:pl:voc:m3	geograficzna	
@@ -8560,7 +8560,7 @@ Koniakowie	Koniaków	subst:sg:voc:m3	geograficzna
 Koniakowom	Koniaków	subst:pl:dat:m3	geograficzna	
 Koniakowowi	Koniaków	subst:sg:dat:m3	geograficzna	
 Koniakowów	Koniaków	subst:pl:gen:m3	geograficzna	
-Koniakowu	Koniaków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Koniakowu	Koniaków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Koniakowy	Koniaków	subst:pl:acc:m3	geograficzna	
 Koniakowy	Koniaków	subst:pl:nom:m3	geograficzna	
 Koniakowy	Koniaków	subst:pl:voc:m3	geograficzna	
@@ -8958,26 +8958,26 @@ Konstantynowie	Konstantynów	subst:sg:voc:m3	geograficzna
 Konstantynowom	Konstantynów	subst:pl:dat:m3	geograficzna	
 Konstantynowowi	Konstantynów	subst:sg:dat:m3	geograficzna	
 Konstantynowów	Konstantynów	subst:pl:gen:m3	geograficzna	
-Konstantynowu	Konstantynów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Konstantynowu	Konstantynów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Konstantynowy	Konstantynów	subst:pl:acc:m3	geograficzna	
 Konstantynowy	Konstantynów	subst:pl:nom:m3	geograficzna	
 Konstantynowy	Konstantynów	subst:pl:voc:m3	geograficzna	
 Konstantynów	Konstantynów	subst:sg:acc:m3	geograficzna	
 Konstantynów	Konstantynów	subst:sg:nom:m3	geograficzna	
-Kon-Tiki	Kon-Tiki	subst:pl:acc:n2	środek lokomocji	
-Kon-Tiki	Kon-Tiki	subst:pl:dat:n2	środek lokomocji	
-Kon-Tiki	Kon-Tiki	subst:pl:gen:n2	środek lokomocji	
-Kon-Tiki	Kon-Tiki	subst:pl:inst:n2	środek lokomocji	
-Kon-Tiki	Kon-Tiki	subst:pl:loc:n2	środek lokomocji	
-Kon-Tiki	Kon-Tiki	subst:pl:nom:n2	środek lokomocji	
-Kon-Tiki	Kon-Tiki	subst:pl:voc:n2	środek lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:acc:n2	środek lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:dat:n2	środek lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:gen:n2	środek lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:inst:n2	środek lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:loc:n2	środek lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:nom:n2	środek lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:voc:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:acc:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:dat:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:gen:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:inst:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:loc:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:nom:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:voc:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:acc:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:dat:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:gen:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:inst:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:loc:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:nom:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:voc:n2	środek_lokomocji	
 Konwicka	Konwicka	subst:sg:nom:f	nazwisko	
 Konwicka	Konwicka	subst:sg:voc:f	nazwisko	
 Konwicką	Konwicka	subst:sg:acc:f	nazwisko	
@@ -9587,7 +9587,7 @@ Korfantowie	Korfantów	subst:sg:voc:m3	geograficzna
 Korfantowom	Korfantów	subst:pl:dat:m3	geograficzna	
 Korfantowowi	Korfantów	subst:sg:dat:m3	geograficzna	
 Korfantowów	Korfantów	subst:pl:gen:m3	geograficzna	
-Korfantowu	Korfantów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Korfantowu	Korfantów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Korfantowy	Korfantów	subst:pl:acc:m3	geograficzna	
 Korfantowy	Korfantów	subst:pl:nom:m3	geograficzna	
 Korfantowy	Korfantów	subst:pl:voc:m3	geograficzna	
@@ -9858,99 +9858,99 @@ Korsykańczyków	Korsykańczyk	subst:pl:acc:m1	pospolita
 Korsykańczyków	Korsykańczyk	subst:pl:gen:m1	pospolita	
 Korsykańczyku	Korsykańczyk	subst:sg:loc:m1	pospolita	
 Korsykańczyku	Korsykańczyk	subst:sg:voc:m1	pospolita	
-Korwinach	Korwin	subst:pl:loc:m1	człon nazwiska (herb)	
+Korwinach	Korwin	subst:pl:loc:m1	człon_nazwiska_(herb)	
 Korwinach	Korwin	subst:pl:loc:m1	nazwisko	
-Korwina	Korwin	subst:sg:acc:m1	człon nazwiska (herb)	
+Korwina	Korwin	subst:sg:acc:m1	człon_nazwiska_(herb)	
 Korwina	Korwin	subst:sg:acc:m1	nazwisko	
-Korwina	Korwin	subst:sg:gen:m1	człon nazwiska (herb)	
+Korwina	Korwin	subst:sg:gen:m1	człon_nazwiska_(herb)	
 Korwina	Korwin	subst:sg:gen:m1	nazwisko	
-Korwinami	Korwin	subst:pl:inst:m1	człon nazwiska (herb)	
+Korwinami	Korwin	subst:pl:inst:m1	człon_nazwiska_(herb)	
 Korwinami	Korwin	subst:pl:inst:m1	nazwisko	
-Korwinem	Korwin	subst:sg:inst:m1	człon nazwiska (herb)	
+Korwinem	Korwin	subst:sg:inst:m1	człon_nazwiska_(herb)	
 Korwinem	Korwin	subst:sg:inst:m1	nazwisko	
-Korwinie	Korwin	subst:sg:loc:m1	człon nazwiska (herb)	
+Korwinie	Korwin	subst:sg:loc:m1	człon_nazwiska_(herb)	
 Korwinie	Korwin	subst:sg:loc:m1	nazwisko	
-Korwinie	Korwin	subst:sg:voc:m1	człon nazwiska (herb)	
+Korwinie	Korwin	subst:sg:voc:m1	człon_nazwiska_(herb)	
 Korwinie	Korwin	subst:sg:voc:m1	nazwisko	
-Korwin	Korwin	depr:pl:nom:m2	człon nazwiska (herb)	
+Korwin	Korwin	depr:pl:nom:m2	człon_nazwiska_(herb)	
 Korwin	Korwin	depr:pl:nom:m2	nazwisko	
-Korwin	Korwin	depr:pl:voc:m2	człon nazwiska (herb)	
+Korwin	Korwin	depr:pl:voc:m2	człon_nazwiska_(herb)	
 Korwin	Korwin	depr:pl:voc:m2	nazwisko	
-Korwin	Korwin	subst:pl:acc:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:acc:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:pl:acc:m1	nazwisko	
-Korwin	Korwin	subst:pl:dat:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:dat:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:pl:dat:m1	nazwisko	
-Korwin	Korwin	subst:pl:gen:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:gen:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:pl:gen:m1	nazwisko	
-Korwin	Korwin	subst:pl:inst:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:inst:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:pl:inst:m1	nazwisko	
-Korwin	Korwin	subst:pl:loc:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:loc:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:pl:loc:m1	nazwisko	
-Korwin	Korwin	subst:pl:nom:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:nom:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:pl:nom:m1	nazwisko	
-Korwin	Korwin	subst:pl:voc:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:voc:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:pl:voc:m1	nazwisko	
-Korwin	Korwin	subst:sg:acc:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:acc:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:sg:acc:m1	nazwisko	
-Korwin	Korwin	subst:sg:dat:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:dat:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:sg:dat:m1	nazwisko	
-Korwin	Korwin	subst:sg:gen:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:gen:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:sg:gen:m1	nazwisko	
-Korwin	Korwin	subst:sg:inst:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:inst:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:sg:inst:m1	nazwisko	
-Korwin	Korwin	subst:sg:loc:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:loc:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:sg:loc:m1	nazwisko	
-Korwin	Korwin	subst:sg:nom:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:nom:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:sg:nom:m1	nazwisko	
-Korwin	Korwin	subst:sg:voc:m1	człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:voc:m1	człon_nazwiska_(herb)	
 Korwin	Korwin	subst:sg:voc:m1	nazwisko	
-Korwinom	Korwin	subst:pl:dat:m1	człon nazwiska (herb)	
+Korwinom	Korwin	subst:pl:dat:m1	człon_nazwiska_(herb)	
 Korwinom	Korwin	subst:pl:dat:m1	nazwisko	
-Korwinowie	Korwin	subst:pl:nom:m1	człon nazwiska (herb)	
+Korwinowie	Korwin	subst:pl:nom:m1	człon_nazwiska_(herb)	
 Korwinowie	Korwin	subst:pl:nom:m1	nazwisko	
-Korwinowie	Korwin	subst:pl:voc:m1	człon nazwiska (herb)	
+Korwinowie	Korwin	subst:pl:voc:m1	człon_nazwiska_(herb)	
 Korwinowie	Korwin	subst:pl:voc:m1	nazwisko	
-Korwinowi	Korwin	subst:sg:dat:m1	człon nazwiska (herb)	
+Korwinowi	Korwin	subst:sg:dat:m1	człon_nazwiska_(herb)	
 Korwinowi	Korwin	subst:sg:dat:m1	nazwisko	
-Korwinów	Korwin	subst:pl:acc:m1	człon nazwiska (herb)	
+Korwinów	Korwin	subst:pl:acc:m1	człon_nazwiska_(herb)	
 Korwinów	Korwin	subst:pl:acc:m1	nazwisko	
-Korwinów	Korwin	subst:pl:gen:m1	człon nazwiska (herb)	
+Korwinów	Korwin	subst:pl:gen:m1	człon_nazwiska_(herb)	
 Korwinów	Korwin	subst:pl:gen:m1	nazwisko	
-Korwiny	Korwin	depr:pl:nom:m2	człon nazwiska (herb)	
+Korwiny	Korwin	depr:pl:nom:m2	człon_nazwiska_(herb)	
 Korwiny	Korwin	depr:pl:nom:m2	nazwisko	
-Korwiny	Korwin	depr:pl:voc:m2	człon nazwiska (herb)	
+Korwiny	Korwin	depr:pl:voc:m2	człon_nazwiska_(herb)	
 Korwiny	Korwin	depr:pl:voc:m2	nazwisko	
-Korybucie	Korybut	subst:sg:loc:m1	człon nazwiska (herb)	
+Korybucie	Korybut	subst:sg:loc:m1	człon_nazwiska_(herb)	
 Korybucie	Korybut	subst:sg:loc:m1	nazwisko	
-Korybucie	Korybut	subst:sg:voc:m1	człon nazwiska (herb)	
+Korybucie	Korybut	subst:sg:voc:m1	człon_nazwiska_(herb)	
 Korybucie	Korybut	subst:sg:voc:m1	nazwisko	
-Korybutach	Korybut	subst:pl:loc:m1	człon nazwiska (herb)	
+Korybutach	Korybut	subst:pl:loc:m1	człon_nazwiska_(herb)	
 Korybutach	Korybut	subst:pl:loc:m1	nazwisko	
-Korybuta	Korybut	subst:sg:acc:m1	człon nazwiska (herb)	
+Korybuta	Korybut	subst:sg:acc:m1	człon_nazwiska_(herb)	
 Korybuta	Korybut	subst:sg:acc:m1	nazwisko	
-Korybuta	Korybut	subst:sg:gen:m1	człon nazwiska (herb)	
+Korybuta	Korybut	subst:sg:gen:m1	człon_nazwiska_(herb)	
 Korybuta	Korybut	subst:sg:gen:m1	nazwisko	
-Korybutami	Korybut	subst:pl:inst:m1	człon nazwiska (herb)	
+Korybutami	Korybut	subst:pl:inst:m1	człon_nazwiska_(herb)	
 Korybutami	Korybut	subst:pl:inst:m1	nazwisko	
-Korybutem	Korybut	subst:sg:inst:m1	człon nazwiska (herb)	
+Korybutem	Korybut	subst:sg:inst:m1	człon_nazwiska_(herb)	
 Korybutem	Korybut	subst:sg:inst:m1	nazwisko	
-Korybut	Korybut	subst:sg:nom:m1	człon nazwiska (herb)	
+Korybut	Korybut	subst:sg:nom:m1	człon_nazwiska_(herb)	
 Korybut	Korybut	subst:sg:nom:m1	nazwisko	
-Korybutom	Korybut	subst:pl:dat:m1	człon nazwiska (herb)	
+Korybutom	Korybut	subst:pl:dat:m1	człon_nazwiska_(herb)	
 Korybutom	Korybut	subst:pl:dat:m1	nazwisko	
-Korybutowie	Korybut	subst:pl:nom:m1	człon nazwiska (herb)	
+Korybutowie	Korybut	subst:pl:nom:m1	człon_nazwiska_(herb)	
 Korybutowie	Korybut	subst:pl:nom:m1	nazwisko	
-Korybutowie	Korybut	subst:pl:voc:m1	człon nazwiska (herb)	
+Korybutowie	Korybut	subst:pl:voc:m1	człon_nazwiska_(herb)	
 Korybutowie	Korybut	subst:pl:voc:m1	nazwisko	
-Korybutowi	Korybut	subst:sg:dat:m1	człon nazwiska (herb)	
+Korybutowi	Korybut	subst:sg:dat:m1	człon_nazwiska_(herb)	
 Korybutowi	Korybut	subst:sg:dat:m1	nazwisko	
-Korybutów	Korybut	subst:pl:acc:m1	człon nazwiska (herb)	
+Korybutów	Korybut	subst:pl:acc:m1	człon_nazwiska_(herb)	
 Korybutów	Korybut	subst:pl:acc:m1	nazwisko	
-Korybutów	Korybut	subst:pl:gen:m1	człon nazwiska (herb)	
+Korybutów	Korybut	subst:pl:gen:m1	człon_nazwiska_(herb)	
 Korybutów	Korybut	subst:pl:gen:m1	nazwisko	
-Korybuty	Korybut	depr:pl:nom:m2	człon nazwiska (herb)	
+Korybuty	Korybut	depr:pl:nom:m2	człon_nazwiska_(herb)	
 Korybuty	Korybut	depr:pl:nom:m2	nazwisko	
-Korybuty	Korybut	depr:pl:voc:m2	człon nazwiska (herb)	
+Korybuty	Korybut	depr:pl:voc:m2	człon_nazwiska_(herb)	
 Korybuty	Korybut	depr:pl:voc:m2	nazwisko	
 Koryncie	Korynt	subst:sg:loc:m3	geograficzna	
 Koryncie	Korynt	subst:sg:voc:m3	geograficzna	
@@ -10282,7 +10282,7 @@ Kosowie	Kosów	subst:sg:voc:m3	geograficzna
 Kosowom	Kosów	subst:pl:dat:m3	geograficzna	
 Kosowowi	Kosów	subst:sg:dat:m3	geograficzna	
 Kosowów	Kosów	subst:pl:gen:m3	geograficzna	
-Kosowu	Kosów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Kosowu	Kosów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Kosowy	Kosów	subst:pl:acc:m3	geograficzna	
 Kosowy	Kosów	subst:pl:nom:m3	geograficzna	
 Kosowy	Kosów	subst:pl:voc:m3	geograficzna	
@@ -11480,7 +11480,7 @@ Kozłowie	Kozłów	subst:sg:voc:m3	geograficzna
 Kozłowom	Kozłów	subst:pl:dat:m3	geograficzna	
 Kozłowowi	Kozłów	subst:sg:dat:m3	geograficzna	
 Kozłowów	Kozłów	subst:pl:gen:m3	geograficzna	
-Kozłowu	Kozłów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Kozłowu	Kozłów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Kozłowy	Kozłów	subst:pl:acc:m3	geograficzna	
 Kozłowy	Kozłów	subst:pl:nom:m3	geograficzna	
 Kozłowy	Kozłów	subst:pl:voc:m3	geograficzna	
@@ -11541,7 +11541,7 @@ Kożuchowie	Kożuchów	subst:sg:voc:m3	geograficzna
 Kożuchowom	Kożuchów	subst:pl:dat:m3	geograficzna	
 Kożuchowowi	Kożuchów	subst:sg:dat:m3	geograficzna	
 Kożuchowów	Kożuchów	subst:pl:gen:m3	geograficzna	
-Kożuchowu	Kożuchów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Kożuchowu	Kożuchów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Kożuchowy	Kożuchów	subst:pl:acc:m3	geograficzna	
 Kożuchowy	Kożuchów	subst:pl:nom:m3	geograficzna	
 Kożuchowy	Kożuchów	subst:pl:voc:m3	geograficzna	
@@ -11617,20 +11617,20 @@ KPP	KPP	subst:sg:nom:f	organizacja
 KPP	KPP	subst:sg:nom:n2	organizacja	
 KPP	KPP	subst:sg:voc:f	organizacja	
 KPP	KPP	subst:sg:voc:n2	organizacja	
-KP	KP:s1	subst:pl:acc:m3	organizacja	człon n. wł.
-KP	KP:s1	subst:pl:dat:m3	organizacja	człon n. wł.
-KP	KP:s1	subst:pl:gen:m3	organizacja	człon n. wł.
-KP	KP:s1	subst:pl:inst:m3	organizacja	człon n. wł.
-KP	KP:s1	subst:pl:loc:m3	organizacja	człon n. wł.
-KP	KP:s1	subst:pl:nom:m3	organizacja	człon n. wł.
-KP	KP:s1	subst:pl:voc:m3	organizacja	człon n. wł.
-KP	KP:s1	subst:sg:acc:m3	organizacja	człon n. wł.
-KP	KP:s1	subst:sg:dat:m3	organizacja	człon n. wł.
-KP	KP:s1	subst:sg:gen:m3	organizacja	człon n. wł.
-KP	KP:s1	subst:sg:inst:m3	organizacja	człon n. wł.
-KP	KP:s1	subst:sg:loc:m3	organizacja	człon n. wł.
-KP	KP:s1	subst:sg:nom:m3	organizacja	człon n. wł.
-KP	KP:s1	subst:sg:voc:m3	organizacja	człon n. wł.
+KP	KP:s1	subst:pl:acc:m3	organizacja	człon_n._wł.
+KP	KP:s1	subst:pl:dat:m3	organizacja	człon_n._wł.
+KP	KP:s1	subst:pl:gen:m3	organizacja	człon_n._wł.
+KP	KP:s1	subst:pl:inst:m3	organizacja	człon_n._wł.
+KP	KP:s1	subst:pl:loc:m3	organizacja	człon_n._wł.
+KP	KP:s1	subst:pl:nom:m3	organizacja	człon_n._wł.
+KP	KP:s1	subst:pl:voc:m3	organizacja	człon_n._wł.
+KP	KP:s1	subst:sg:acc:m3	organizacja	człon_n._wł.
+KP	KP:s1	subst:sg:dat:m3	organizacja	człon_n._wł.
+KP	KP:s1	subst:sg:gen:m3	organizacja	człon_n._wł.
+KP	KP:s1	subst:sg:inst:m3	organizacja	człon_n._wł.
+KP	KP:s1	subst:sg:loc:m3	organizacja	człon_n._wł.
+KP	KP:s1	subst:sg:nom:m3	organizacja	człon_n._wł.
+KP	KP:s1	subst:sg:voc:m3	organizacja	człon_n._wł.
 KP	KP:s2	subst:pl:acc:m3	organizacja	
 KP	KP:s2	subst:pl:dat:m3	organizacja	
 KP	KP:s2	subst:pl:gen:m3	organizacja	
@@ -11814,7 +11814,7 @@ Krakowie	Kraków	subst:sg:voc:m3	geograficzna
 Krakowom	Kraków	subst:pl:dat:m3	geograficzna	
 Krakowowi	Kraków	subst:sg:dat:m3	geograficzna	
 Krakowów	Kraków	subst:pl:gen:m3	geograficzna	
-Krakowu	Kraków	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Krakowu	Kraków	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Krakowy	Kraków	subst:pl:acc:m3	geograficzna	
 Krakowy	Kraków	subst:pl:nom:m3	geograficzna	
 Krakowy	Kraków	subst:pl:voc:m3	geograficzna	
@@ -13470,7 +13470,7 @@ Krzczonowie	Krzczonów	subst:sg:voc:m3	geograficzna
 Krzczonowom	Krzczonów	subst:pl:dat:m3	geograficzna	
 Krzczonowowi	Krzczonów	subst:sg:dat:m3	geograficzna	
 Krzczonowów	Krzczonów	subst:pl:gen:m3	geograficzna	
-Krzczonowu	Krzczonów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Krzczonowu	Krzczonów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Krzczonowy	Krzczonów	subst:pl:acc:m3	geograficzna	
 Krzczonowy	Krzczonów	subst:pl:nom:m3	geograficzna	
 Krzczonowy	Krzczonów	subst:pl:voc:m3	geograficzna	
@@ -13667,7 +13667,7 @@ Krzeszowie	Krzeszów	subst:sg:voc:m3	geograficzna
 Krzeszowom	Krzeszów	subst:pl:dat:m3	geograficzna	
 Krzeszowowi	Krzeszów	subst:sg:dat:m3	geograficzna	
 Krzeszowów	Krzeszów	subst:pl:gen:m3	geograficzna	
-Krzeszowu	Krzeszów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Krzeszowu	Krzeszów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Krzeszowy	Krzeszów	subst:pl:acc:m3	geograficzna	
 Krzeszowy	Krzeszów	subst:pl:nom:m3	geograficzna	
 Krzeszowy	Krzeszów	subst:pl:voc:m3	geograficzna	
@@ -13726,7 +13726,7 @@ Krzymowie	Krzymów	subst:sg:voc:m3	geograficzna
 Krzymowom	Krzymów	subst:pl:dat:m3	geograficzna	
 Krzymowowi	Krzymów	subst:sg:dat:m3	geograficzna	
 Krzymowów	Krzymów	subst:pl:gen:m3	geograficzna	
-Krzymowu	Krzymów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Krzymowu	Krzymów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Krzymowy	Krzymów	subst:pl:acc:m3	geograficzna	
 Krzymowy	Krzymów	subst:pl:nom:m3	geograficzna	
 Krzymowy	Krzymów	subst:pl:voc:m3	geograficzna	
@@ -14017,7 +14017,7 @@ Krzyżanowie	Krzyżanów	subst:sg:voc:m3	geograficzna
 Krzyżanowom	Krzyżanów	subst:pl:dat:m3	geograficzna	
 Krzyżanowowi	Krzyżanów	subst:sg:dat:m3	geograficzna	
 Krzyżanowów	Krzyżanów	subst:pl:gen:m3	geograficzna	
-Krzyżanowu	Krzyżanów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Krzyżanowu	Krzyżanów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Krzyżanowy	Krzyżanów	subst:pl:acc:m3	geograficzna	
 Krzyżanowy	Krzyżanów	subst:pl:nom:m3	geograficzna	
 Krzyżanowy	Krzyżanów	subst:pl:voc:m3	geograficzna	
@@ -15315,7 +15315,7 @@ Kunowie	Kunów	subst:sg:voc:m3	geograficzna
 Kunowom	Kunów	subst:pl:dat:m3	geograficzna	
 Kunowowi	Kunów	subst:sg:dat:m3	geograficzna	
 Kunowów	Kunów	subst:pl:gen:m3	geograficzna	
-Kunowu	Kunów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Kunowu	Kunów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Kunowy	Kunów	subst:pl:acc:m3	geograficzna	
 Kunowy	Kunów	subst:pl:nom:m3	geograficzna	
 Kunowy	Kunów	subst:pl:voc:m3	geograficzna	
@@ -15607,7 +15607,7 @@ Kurowie	Kurów	subst:sg:voc:m3	geograficzna
 Kurowom	Kurów	subst:pl:dat:m3	geograficzna	
 Kurowowi	Kurów	subst:sg:dat:m3	geograficzna	
 Kurowów	Kurów	subst:pl:gen:m3	geograficzna	
-Kurowu	Kurów	subst:sg:dat:m3	geograficzna	arch. (tylko po "ku")
+Kurowu	Kurów	subst:sg:dat:m3	geograficzna	arch._(tylko_po_"ku")
 Kurowy	Kurów	subst:pl:acc:m3	geograficzna	
 Kurowy	Kurów	subst:pl:nom:m3	geograficzna	
 Kurowy	Kurów	subst:pl:voc:m3	geograficzna	
@@ -16243,34 +16243,34 @@ KWP	KWP	subst:sg:nom:f	instytucja
 KWP	KWP	subst:sg:nom:n2	instytucja	
 KWP	KWP	subst:sg:voc:f	instytucja	
 KWP	KWP	subst:sg:voc:n2	instytucja	
-KW	KW:s1	subst:pl:acc:f	instytucja	człon n. wł.
-KW	KW:s1	subst:pl:acc:n2	instytucja	człon n. wł.
-KW	KW:s1	subst:pl:dat:f	instytucja	człon n. wł.
-KW	KW:s1	subst:pl:dat:n2	instytucja	człon n. wł.
-KW	KW:s1	subst:pl:gen:f	instytucja	człon n. wł.
-KW	KW:s1	subst:pl:gen:n2	instytucja	człon n. wł.
-KW	KW:s1	subst:pl:inst:f	instytucja	człon n. wł.
-KW	KW:s1	subst:pl:inst:n2	instytucja	człon n. wł.
-KW	KW:s1	subst:pl:loc:f	instytucja	człon n. wł.
-KW	KW:s1	subst:pl:loc:n2	instytucja	człon n. wł.
-KW	KW:s1	subst:pl:nom:f	instytucja	człon n. wł.
-KW	KW:s1	subst:pl:nom:n2	instytucja	człon n. wł.
-KW	KW:s1	subst:pl:voc:f	instytucja	człon n. wł.
-KW	KW:s1	subst:pl:voc:n2	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:acc:f	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:acc:n2	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:dat:f	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:dat:n2	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:gen:f	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:gen:n2	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:inst:f	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:inst:n2	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:loc:f	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:loc:n2	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:nom:f	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:nom:n2	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:voc:f	instytucja	człon n. wł.
-KW	KW:s1	subst:sg:voc:n2	instytucja	człon n. wł.
+KW	KW:s1	subst:pl:acc:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:pl:acc:n2	instytucja	człon_n._wł.
+KW	KW:s1	subst:pl:dat:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:pl:dat:n2	instytucja	człon_n._wł.
+KW	KW:s1	subst:pl:gen:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:pl:gen:n2	instytucja	człon_n._wł.
+KW	KW:s1	subst:pl:inst:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:pl:inst:n2	instytucja	człon_n._wł.
+KW	KW:s1	subst:pl:loc:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:pl:loc:n2	instytucja	człon_n._wł.
+KW	KW:s1	subst:pl:nom:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:pl:nom:n2	instytucja	człon_n._wł.
+KW	KW:s1	subst:pl:voc:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:pl:voc:n2	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:acc:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:acc:n2	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:dat:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:dat:n2	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:gen:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:gen:n2	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:inst:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:inst:n2	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:loc:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:loc:n2	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:nom:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:nom:n2	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:voc:f	instytucja	człon_n._wł.
+KW	KW:s1	subst:sg:voc:n2	instytucja	człon_n._wł.
 KW	KW:s2	subst:pl:acc:f	firma	
 KW	KW:s2	subst:pl:acc:n2	firma	
 KW	KW:s2	subst:pl:dat:f	firma	
