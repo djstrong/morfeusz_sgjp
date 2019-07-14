@@ -505,6 +505,20 @@ Odessy	Odessa	subst:pl:acc:f	nazwa geograficzna
 Odessy	Odessa	subst:pl:nom:f	nazwa geograficzna	
 Odessy	Odessa	subst:pl:voc:f	nazwa geograficzna	
 Odessy	Odessa	subst:sg:gen:f	nazwa geograficzna	
+Odetcie	Odetta	subst:sg:dat:f	imię	
+Odetcie	Odetta	subst:sg:loc:f	imię	
+Odettach	Odetta	subst:pl:loc:f	imię	
+Odettami	Odetta	subst:pl:inst:f	imię	
+Odetta	Odetta	subst:sg:nom:f	imię	
+Odettą	Odetta	subst:sg:inst:f	imię	
+Odettę	Odetta	subst:sg:acc:f	imię	
+Odett	Odetta	subst:pl:gen:f	imię	
+Odettom	Odetta	subst:pl:dat:f	imię	
+Odetto	Odetta	subst:sg:voc:f	imię	
+Odetty	Odetta	subst:pl:acc:f	imię	
+Odetty	Odetta	subst:pl:nom:f	imię	
+Odetty	Odetta	subst:pl:voc:f	imię	
+Odetty	Odetta	subst:sg:gen:f	imię	
 Odilach	Odil	subst:pl:loc:m1	imię	
 Odilami	Odil	subst:pl:inst:m1	imię	
 Odila	Odil	subst:sg:acc:m1	imię	
@@ -2960,6 +2974,24 @@ Orenburgowi	Orenburg	subst:sg:dat:m3	nazwa geograficzna
 Orenburgów	Orenburg	subst:pl:gen:m3	nazwa geograficzna	
 Orenburgu	Orenburg	subst:sg:loc:m3	nazwa geograficzna	
 Orenburgu	Orenburg	subst:sg:voc:m3	nazwa geograficzna	
+Orencjuszach	Orencjusz	subst:pl:loc:m1	imię	
+Orencjuszami	Orencjusz	subst:pl:inst:m1	imię	
+Orencjusza	Orencjusz	subst:sg:acc:m1	imię	
+Orencjusza	Orencjusz	subst:sg:gen:m1	imię	
+Orencjuszem	Orencjusz	subst:sg:inst:m1	imię	
+Orencjusze	Orencjusz	depr:pl:nom:m2	imię	
+Orencjusze	Orencjusz	depr:pl:voc:m2	imię	
+Orencjusze	Orencjusz	subst:pl:nom:m1	imię	
+Orencjusze	Orencjusz	subst:pl:voc:m1	imię	
+Orencjuszom	Orencjusz	subst:pl:dat:m1	imię	
+Orencjusz	Orencjusz	subst:sg:nom:m1	imię	
+Orencjuszowie	Orencjusz	subst:pl:nom:m1	imię	
+Orencjuszowie	Orencjusz	subst:pl:voc:m1	imię	
+Orencjuszowi	Orencjusz	subst:sg:dat:m1	imię	
+Orencjuszów	Orencjusz	subst:pl:acc:m1	imię	
+Orencjuszów	Orencjusz	subst:pl:gen:m1	imię	
+Orencjuszu	Orencjusz	subst:sg:loc:m1	imię	
+Orencjuszu	Orencjusz	subst:sg:voc:m1	imię	
 Orestach	Orest	subst:pl:loc:m1	imię	mit.
 Orestami	Orest	subst:pl:inst:m1	imię	mit.
 Oresta	Orest	subst:sg:acc:m1	imię	mit.

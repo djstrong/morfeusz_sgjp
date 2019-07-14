@@ -6206,6 +6206,21 @@ Cymborowskim	Cymborowski	subst:pl:dat:m1	nazwisko
 Cymborowskim	Cymborowski	subst:sg:inst:m1	nazwisko	
 Cymborowskim	Cymborowski	subst:sg:loc:m1	nazwisko	
 Cymborowskimi	Cymborowski	subst:pl:inst:m1	nazwisko	
+Cyntiach	Cyntia	subst:pl:loc:f	imię	
+Cyntia	Cyntia	subst:sg:nom:f	imię	
+Cyntiami	Cyntia	subst:pl:inst:f	imię	
+Cyntią	Cyntia	subst:sg:inst:f	imię	
+Cyntie	Cyntia	subst:pl:acc:f	imię	
+Cyntie	Cyntia	subst:pl:nom:f	imię	
+Cyntie	Cyntia	subst:pl:voc:f	imię	
+Cyntię	Cyntia	subst:sg:acc:f	imię	
+Cyntii	Cyntia	subst:pl:gen:f	imię	hom.
+Cyntii	Cyntia	subst:sg:dat:f	imię	
+Cyntii	Cyntia	subst:sg:gen:f	imię	
+Cyntii	Cyntia	subst:sg:loc:f	imię	
+Cyntio	Cyntia	subst:sg:voc:f	imię	
+Cyntiom	Cyntia	subst:pl:dat:f	imię	
+Cyntyj	Cyntia	subst:pl:gen:f	imię	arch.|char.
 Cypisek	Cypisek	subst:sg:nom:m1	imię	
 Cypiskach	Cypisek	subst:pl:loc:m1	imię	
 Cypiska	Cypisek	subst:sg:acc:m1	imię	

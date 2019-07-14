@@ -2928,6 +2928,22 @@ egalitarnym	egalitarny	adj:pl:dat:m1.m2.m3.f.n:pos
 egalitarnym	egalitarny	adj:sg:inst:m1.m2.m3.n:pos		
 egalitarnym	egalitarny	adj:sg:loc:m1.m2.m3.n:pos		
 egalitarnymi	egalitarny	adj:pl:inst:m1.m2.m3.f.n:pos		
+egalitarystach	egalitarysta	subst:pl:loc:m1	nazwa pospolita	
+egalitarysta	egalitarysta	subst:sg:nom:m1	nazwa pospolita	
+egalitarystami	egalitarysta	subst:pl:inst:m1	nazwa pospolita	
+egalitarystą	egalitarysta	subst:sg:inst:m1	nazwa pospolita	
+egalitarystę	egalitarysta	subst:sg:acc:m1	nazwa pospolita	
+egalitarysto	egalitarysta	subst:sg:voc:m1	nazwa pospolita	
+egalitarystom	egalitarysta	subst:pl:dat:m1	nazwa pospolita	
+egalitarystów	egalitarysta	subst:pl:acc:m1	nazwa pospolita	
+egalitarystów	egalitarysta	subst:pl:gen:m1	nazwa pospolita	
+egalitarysty	egalitarysta	depr:pl:nom:m2	nazwa pospolita	
+egalitarysty	egalitarysta	depr:pl:voc:m2	nazwa pospolita	
+egalitarysty	egalitarysta	subst:sg:gen:m1	nazwa pospolita	
+egalitaryście	egalitarysta	subst:sg:dat:m1	nazwa pospolita	
+egalitaryście	egalitarysta	subst:sg:loc:m1	nazwa pospolita	
+egalitaryści	egalitarysta	subst:pl:nom:m1	nazwa pospolita	
+egalitaryści	egalitarysta	subst:pl:voc:m1	nazwa pospolita	
 egalitarystycznościach	egalitarystyczność	subst:pl:loc:f	nazwa pospolita	
 egalitarystycznościami	egalitarystyczność	subst:pl:inst:f	nazwa pospolita	
 egalitarystycznością	egalitarystyczność	subst:sg:inst:f	nazwa pospolita	
@@ -7688,20 +7704,20 @@ ekonomów	ekonom	subst:pl:acc:m1	nazwa pospolita
 ekonomów	ekonom	subst:pl:gen:m1	nazwa pospolita	
 ekonomy	ekonom	depr:pl:nom:m2	nazwa pospolita	
 ekonomy	ekonom	depr:pl:voc:m2	nazwa pospolita	
-ekonomajzerach	ekonomajzer	subst:pl:loc:m3	nazwa pospolita	
-ekonomajzera	ekonomajzer	subst:sg:gen:m3	nazwa pospolita	
-ekonomajzerami	ekonomajzer	subst:pl:inst:m3	nazwa pospolita	
-ekonomajzer	ekonomajzer	subst:sg:acc:m3	nazwa pospolita	
-ekonomajzer	ekonomajzer	subst:sg:nom:m3	nazwa pospolita	
-ekonomajzerem	ekonomajzer	subst:sg:inst:m3	nazwa pospolita	
-ekonomajzerom	ekonomajzer	subst:pl:dat:m3	nazwa pospolita	
-ekonomajzerowi	ekonomajzer	subst:sg:dat:m3	nazwa pospolita	
-ekonomajzerów	ekonomajzer	subst:pl:gen:m3	nazwa pospolita	
-ekonomajzery	ekonomajzer	subst:pl:acc:m3	nazwa pospolita	
-ekonomajzery	ekonomajzer	subst:pl:nom:m3	nazwa pospolita	
-ekonomajzery	ekonomajzer	subst:pl:voc:m3	nazwa pospolita	
-ekonomajzerze	ekonomajzer	subst:sg:loc:m3	nazwa pospolita	
-ekonomajzerze	ekonomajzer	subst:sg:voc:m3	nazwa pospolita	
+ekonomajzerach	ekonomajzer	subst:pl:loc:m3	nazwa pospolita	techn.
+ekonomajzera	ekonomajzer	subst:sg:gen:m3	nazwa pospolita	techn.
+ekonomajzerami	ekonomajzer	subst:pl:inst:m3	nazwa pospolita	techn.
+ekonomajzer	ekonomajzer	subst:sg:acc:m3	nazwa pospolita	techn.
+ekonomajzer	ekonomajzer	subst:sg:nom:m3	nazwa pospolita	techn.
+ekonomajzerem	ekonomajzer	subst:sg:inst:m3	nazwa pospolita	techn.
+ekonomajzerom	ekonomajzer	subst:pl:dat:m3	nazwa pospolita	techn.
+ekonomajzerowi	ekonomajzer	subst:sg:dat:m3	nazwa pospolita	techn.
+ekonomajzerów	ekonomajzer	subst:pl:gen:m3	nazwa pospolita	techn.
+ekonomajzery	ekonomajzer	subst:pl:acc:m3	nazwa pospolita	techn.
+ekonomajzery	ekonomajzer	subst:pl:nom:m3	nazwa pospolita	techn.
+ekonomajzery	ekonomajzer	subst:pl:voc:m3	nazwa pospolita	techn.
+ekonomajzerze	ekonomajzer	subst:sg:loc:m3	nazwa pospolita	techn.
+ekonomajzerze	ekonomajzer	subst:sg:voc:m3	nazwa pospolita	techn.
 ekonomczukach	ekonomczuk	subst:pl:loc:m1	nazwa pospolita	
 ekonomczuka	ekonomczuk	subst:sg:acc:m1	nazwa pospolita	
 ekonomczuka	ekonomczuk	subst:sg:gen:m1	nazwa pospolita	
@@ -23690,6 +23706,22 @@ elitarnym	elitarny	adj:pl:dat:m1.m2.m3.f.n:pos
 elitarnym	elitarny	adj:sg:inst:m1.m2.m3.n:pos		
 elitarnym	elitarny	adj:sg:loc:m1.m2.m3.n:pos		
 elitarnymi	elitarny	adj:pl:inst:m1.m2.m3.f.n:pos		
+elitarystach	elitarysta	subst:pl:loc:m1	nazwa pospolita	
+elitarysta	elitarysta	subst:sg:nom:m1	nazwa pospolita	
+elitarystami	elitarysta	subst:pl:inst:m1	nazwa pospolita	
+elitarystą	elitarysta	subst:sg:inst:m1	nazwa pospolita	
+elitarystę	elitarysta	subst:sg:acc:m1	nazwa pospolita	
+elitarysto	elitarysta	subst:sg:voc:m1	nazwa pospolita	
+elitarystom	elitarysta	subst:pl:dat:m1	nazwa pospolita	
+elitarystów	elitarysta	subst:pl:acc:m1	nazwa pospolita	
+elitarystów	elitarysta	subst:pl:gen:m1	nazwa pospolita	
+elitarysty	elitarysta	depr:pl:nom:m2	nazwa pospolita	
+elitarysty	elitarysta	depr:pl:voc:m2	nazwa pospolita	
+elitarysty	elitarysta	subst:sg:gen:m1	nazwa pospolita	
+elitaryście	elitarysta	subst:sg:dat:m1	nazwa pospolita	
+elitaryście	elitarysta	subst:sg:loc:m1	nazwa pospolita	
+elitaryści	elitarysta	subst:pl:nom:m1	nazwa pospolita	
+elitaryści	elitarysta	subst:pl:voc:m1	nazwa pospolita	
 elitarystycznościach	elitarystyczność	subst:pl:loc:f	nazwa pospolita	
 elitarystycznościami	elitarystyczność	subst:pl:inst:f	nazwa pospolita	
 elitarystycznością	elitarystyczność	subst:sg:inst:f	nazwa pospolita	

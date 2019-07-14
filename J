@@ -3901,6 +3901,20 @@ Jeske	Jeske	subst:sg:inst:m1	człon nazwiska (herb)
 Jeske	Jeske	subst:sg:loc:m1	człon nazwiska (herb)	
 Jeske	Jeske	subst:sg:nom:m1	człon nazwiska (herb)	
 Jeske	Jeske	subst:sg:voc:m1	człon nazwiska (herb)	
+Jessicach	Jessica	subst:pl:loc:f	imię	
+Jessica	Jessica	subst:sg:nom:f	imię	
+Jessicami	Jessica	subst:pl:inst:f	imię	
+Jessicą	Jessica	subst:sg:inst:f	imię	
+Jessice	Jessica	subst:sg:dat:f	imię	
+Jessice	Jessica	subst:sg:loc:f	imię	
+Jessicę	Jessica	subst:sg:acc:f	imię	
+Jessic	Jessica	subst:pl:gen:f	imię	
+Jessico	Jessica	subst:sg:voc:f	imię	
+Jessicom	Jessica	subst:pl:dat:f	imię	
+Jessiki	Jessica	subst:pl:acc:f	imię	
+Jessiki	Jessica	subst:pl:nom:f	imię	
+Jessiki	Jessica	subst:pl:voc:f	imię	
+Jessiki	Jessica	subst:sg:gen:f	imię	
 Jeszuach	Jeszua	subst:pl:loc:m1	imię	
 Jeszua	Jeszua	subst:sg:nom:m1	imię	
 Jeszuami	Jeszua	subst:pl:inst:m1	imię	

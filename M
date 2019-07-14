@@ -3571,6 +3571,20 @@ Marcjanów	Marcjan	subst:pl:acc:m1	imię
 Marcjanów	Marcjan	subst:pl:gen:m1	imię	
 Marcjany	Marcjan	depr:pl:nom:m2	imię	
 Marcjany	Marcjan	depr:pl:voc:m2	imię	
+Marcjanach	Marcjana	subst:pl:loc:f	imię	
+Marcjana	Marcjana	subst:sg:nom:f	imię	
+Marcjanami	Marcjana	subst:pl:inst:f	imię	
+Marcjaną	Marcjana	subst:sg:inst:f	imię	
+Marcjanę	Marcjana	subst:sg:acc:f	imię	
+Marcjanie	Marcjana	subst:sg:dat:f	imię	
+Marcjanie	Marcjana	subst:sg:loc:f	imię	
+Marcjan	Marcjana	subst:pl:gen:f	imię	
+Marcjano	Marcjana	subst:sg:voc:f	imię	
+Marcjanom	Marcjana	subst:pl:dat:f	imię	
+Marcjany	Marcjana	subst:pl:acc:f	imię	
+Marcjany	Marcjana	subst:pl:nom:f	imię	
+Marcjany	Marcjana	subst:pl:voc:f	imię	
+Marcjany	Marcjana	subst:sg:gen:f	imię	
 Marcjannach	Marcjanna	subst:pl:loc:f	imię	
 Marcjanna	Marcjanna	subst:sg:nom:f	imię	
 Marcjannami	Marcjanna	subst:pl:inst:f	imię	
@@ -3881,6 +3895,34 @@ Mariensztatu	Mariensztat	subst:sg:gen:m3	nazwa geograficzna
 Mariensztaty	Mariensztat	subst:pl:acc:m3	nazwa geograficzna	
 Mariensztaty	Mariensztat	subst:pl:nom:m3	nazwa geograficzna	
 Mariensztaty	Mariensztat	subst:pl:voc:m3	nazwa geograficzna	
+Mariecie	Marieta	subst:sg:dat:f	imię	
+Mariecie	Marieta	subst:sg:loc:f	imię	
+Marietach	Marieta	subst:pl:loc:f	imię	
+Marieta	Marieta	subst:sg:nom:f	imię	
+Marietami	Marieta	subst:pl:inst:f	imię	
+Marietą	Marieta	subst:sg:inst:f	imię	
+Marietę	Marieta	subst:sg:acc:f	imię	
+Mariet	Marieta	subst:pl:gen:f	imię	
+Marieto	Marieta	subst:sg:voc:f	imię	
+Marietom	Marieta	subst:pl:dat:f	imię	
+Mariety	Marieta	subst:pl:acc:f	imię	
+Mariety	Marieta	subst:pl:nom:f	imię	
+Mariety	Marieta	subst:pl:voc:f	imię	
+Mariety	Marieta	subst:sg:gen:f	imię	
+Marietcie	Marietta	subst:sg:dat:f	imię	
+Marietcie	Marietta	subst:sg:loc:f	imię	
+Mariettach	Marietta	subst:pl:loc:f	imię	
+Marietta	Marietta	subst:sg:nom:f	imię	
+Mariettami	Marietta	subst:pl:inst:f	imię	
+Mariettą	Marietta	subst:sg:inst:f	imię	
+Mariettę	Marietta	subst:sg:acc:f	imię	
+Mariett	Marietta	subst:pl:gen:f	imię	
+Marietto	Marietta	subst:sg:voc:f	imię	
+Mariettom	Marietta	subst:pl:dat:f	imię	
+Marietty	Marietta	subst:pl:acc:f	imię	
+Marietty	Marietta	subst:pl:nom:f	imię	
+Marietty	Marietta	subst:pl:voc:f	imię	
+Marietty	Marietta	subst:sg:gen:f	imię	
 Marice	Marika	subst:sg:dat:f	imię	
 Marice	Marika	subst:sg:loc:f	imię	
 Marikach	Marika	subst:pl:loc:f	imię	
@@ -6718,6 +6760,24 @@ Melci	Melcia	subst:sg:loc:f	imię
 Melciom	Melcia	subst:pl:dat:f	imię	
 Melciu	Melcia	subst:sg:voc:f	imię	
 Melć	Melcia	subst:pl:gen:f	imię	char.
+Melecjuszach	Melecjusz	subst:pl:loc:m1	imię	
+Melecjusza	Melecjusz	subst:sg:acc:m1	imię	
+Melecjusza	Melecjusz	subst:sg:gen:m1	imię	
+Melecjuszami	Melecjusz	subst:pl:inst:m1	imię	
+Melecjusze	Melecjusz	depr:pl:nom:m2	imię	
+Melecjusze	Melecjusz	depr:pl:voc:m2	imię	
+Melecjusze	Melecjusz	subst:pl:nom:m1	imię	
+Melecjusze	Melecjusz	subst:pl:voc:m1	imię	
+Melecjuszem	Melecjusz	subst:sg:inst:m1	imię	
+Melecjusz	Melecjusz	subst:sg:nom:m1	imię	
+Melecjuszom	Melecjusz	subst:pl:dat:m1	imię	
+Melecjuszowie	Melecjusz	subst:pl:nom:m1	imię	
+Melecjuszowie	Melecjusz	subst:pl:voc:m1	imię	
+Melecjuszowi	Melecjusz	subst:sg:dat:m1	imię	
+Melecjuszów	Melecjusz	subst:pl:acc:m1	imię	
+Melecjuszów	Melecjusz	subst:pl:gen:m1	imię	
+Melecjuszu	Melecjusz	subst:sg:loc:m1	imię	
+Melecjuszu	Melecjusz	subst:sg:voc:m1	imię	
 Meliésach	Meliés	subst:pl:loc:m1	nazwisko	
 Meliésa	Meliés	subst:sg:acc:m1	nazwisko	
 Meliésa	Meliés	subst:sg:gen:m1	nazwisko	
@@ -10145,6 +10205,22 @@ Mirków	Mirek	subst:pl:acc:m1	imię
 Mirków	Mirek	subst:pl:gen:m1	imię	
 Mirku	Mirek	subst:sg:loc:m1	imię	
 Mirku	Mirek	subst:sg:voc:m1	imię	
+Mirelach	Mirela	subst:pl:loc:f	imię	
+Mirelami	Mirela	subst:pl:inst:f	imię	
+Mirela	Mirela	subst:sg:nom:f	imię	
+Mirelą	Mirela	subst:sg:inst:f	imię	
+Mirele	Mirela	subst:pl:acc:f	imię	
+Mirele	Mirela	subst:pl:nom:f	imię	
+Mirele	Mirela	subst:pl:voc:f	imię	
+Mirelę	Mirela	subst:sg:acc:f	imię	
+Mireli	Mirela	subst:pl:gen:f	imię	hom.
+Mireli	Mirela	subst:sg:dat:f	imię	
+Mireli	Mirela	subst:sg:gen:f	imię	
+Mireli	Mirela	subst:sg:loc:f	imię	
+Mirel	Mirela	subst:pl:gen:f	imię	char.
+Mirelo	Mirela	subst:sg:voc:f	imię	
+Mirelom	Mirela	subst:pl:dat:f	imię	
+Mirelu	Mirela	subst:sg:voc:f	imię	
 Mirellach	Mirella	subst:pl:loc:f	imię	
 Mirellami	Mirella	subst:pl:inst:f	imię	
 Mirella	Mirella	subst:sg:nom:f	imię	

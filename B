@@ -9986,6 +9986,22 @@ Braille’ów	Braille	subst:pl:acc:m1	nazwisko
 Braille’ów	Braille	subst:pl:gen:m1	nazwisko	
 Braille’u	Braille	subst:sg:loc:m1	nazwisko	
 Braille’u	Braille	subst:sg:voc:m1	nazwisko	
+Brajana	Brajan	subst:sg:acc:m1	imię	
+Brajana	Brajan	subst:sg:gen:m1	imię	
+Brajanach	Brajan	subst:pl:loc:m1	imię	
+Brajanami	Brajan	subst:pl:inst:m1	imię	
+Brajan	Brajan	subst:sg:nom:m1	imię	
+Brajanem	Brajan	subst:sg:inst:m1	imię	
+Brajanie	Brajan	subst:sg:loc:m1	imię	
+Brajanie	Brajan	subst:sg:voc:m1	imię	
+Brajanom	Brajan	subst:pl:dat:m1	imię	
+Brajanowi	Brajan	subst:sg:dat:m1	imię	
+Brajanowie	Brajan	subst:pl:nom:m1	imię	
+Brajanowie	Brajan	subst:pl:voc:m1	imię	
+Brajanów	Brajan	subst:pl:acc:m1	imię	
+Brajanów	Brajan	subst:pl:gen:m1	imię	
+Brajany	Brajan	depr:pl:nom:m2	imię	
+Brajany	Brajan	depr:pl:voc:m2	imię	
 Bramach	Bramah	subst:pl:loc:m1	nazwisko	
 Bramah	Bramah	subst:sg:nom:m1	nazwisko	
 Bramami	Bramah	subst:pl:inst:m1	nazwisko	
@@ -12747,6 +12763,20 @@ Bułhakowów	Bułhakow	subst:pl:acc:m1	nazwisko
 Bułhakowów	Bułhakow	subst:pl:gen:m1	nazwisko	
 Bułhakowy	Bułhakow	depr:pl:nom:m2	nazwisko	
 Bułhakowy	Bułhakow	depr:pl:voc:m2	nazwisko	
+Bundach	Bund	subst:pl:loc:m3	nazwa organizacji	
+Bundami	Bund	subst:pl:inst:m3	nazwa organizacji	
+Bund	Bund	subst:sg:acc:m3	nazwa organizacji	
+Bund	Bund	subst:sg:nom:m3	nazwa organizacji	
+Bundem	Bund	subst:sg:inst:m3	nazwa organizacji	
+Bundom	Bund	subst:pl:dat:m3	nazwa organizacji	
+Bundowi	Bund	subst:sg:dat:m3	nazwa organizacji	
+Bundów	Bund	subst:pl:gen:m3	nazwa organizacji	
+Bundu	Bund	subst:sg:gen:m3	nazwa organizacji	
+Bundy	Bund	subst:pl:acc:m3	nazwa organizacji	
+Bundy	Bund	subst:pl:nom:m3	nazwa organizacji	
+Bundy	Bund	subst:pl:voc:m3	nazwa organizacji	
+Bundzie	Bund	subst:sg:loc:m3	nazwa organizacji	
+Bundzie	Bund	subst:sg:voc:m3	nazwa organizacji	
 Bundesbankach	Bundesbank	subst:pl:loc:m3	nazwa instytucji	
 Bundesbankami	Bundesbank	subst:pl:inst:m3	nazwa instytucji	
 Bundesbank	Bundesbank	subst:sg:acc:m3	nazwa instytucji	

@@ -2475,6 +2475,37 @@ Aksentowiczów	Aksentowicz	subst:pl:acc:m1	nazwisko
 Aksentowiczów	Aksentowicz	subst:pl:gen:m1	nazwisko	
 Aksentowiczu	Aksentowicz	subst:sg:loc:m1	nazwisko	
 Aksentowiczu	Aksentowicz	subst:sg:voc:m1	nazwisko	
+Akwila	Akwila	subst:sg:nom:f	imię	
+Akwilach	Akwila	subst:pl:loc:f	imię	
+Akwil	Akwila	subst:pl:gen:f	imię	
+Akwil	Akwila	subst:pl:gen:f	imię	char.
+Akwilami	Akwila	subst:pl:inst:f	imię	
+Akwilą	Akwila	subst:sg:inst:f	imię	
+Akwile	Akwila	subst:pl:acc:f	imię	
+Akwile	Akwila	subst:pl:nom:f	imię	
+Akwile	Akwila	subst:pl:voc:f	imię	
+Akwilę	Akwila	subst:sg:acc:f	imię	
+Akwili	Akwila	subst:pl:gen:f	imię	hom.
+Akwili	Akwila	subst:sg:dat:f	imię	
+Akwili	Akwila	subst:sg:gen:f	imię	
+Akwili	Akwila	subst:sg:loc:f	imię	
+Akwilo	Akwila	subst:sg:voc:f	imię	
+Akwilom	Akwila	subst:pl:dat:f	imię	
+Akwilu	Akwila	subst:sg:voc:f	imię	
+Akwilina	Akwilina	subst:sg:nom:f	imię	
+Akwilinach	Akwilina	subst:pl:loc:f	imię	
+Akwilin	Akwilina	subst:pl:gen:f	imię	
+Akwilinami	Akwilina	subst:pl:inst:f	imię	
+Akwiliną	Akwilina	subst:sg:inst:f	imię	
+Akwilinę	Akwilina	subst:sg:acc:f	imię	
+Akwilinie	Akwilina	subst:sg:dat:f	imię	
+Akwilinie	Akwilina	subst:sg:loc:f	imię	
+Akwilino	Akwilina	subst:sg:voc:f	imię	
+Akwilinom	Akwilina	subst:pl:dat:f	imię	
+Akwiliny	Akwilina	subst:pl:acc:f	imię	
+Akwiliny	Akwilina	subst:pl:nom:f	imię	
+Akwiliny	Akwilina	subst:pl:voc:f	imię	
+Akwiliny	Akwilina	subst:sg:gen:f	imię	
 Akwinach	Akwin	subst:pl:loc:m3	nazwa geograficzna	
 Akwin	Akwin	subst:sg:acc:m3	nazwa geograficzna	
 Akwin	Akwin	subst:sg:nom:m3	nazwa geograficzna	
@@ -4575,6 +4606,21 @@ Anatolów	Anatol	subst:pl:acc:m1	imię
 Anatolów	Anatol	subst:pl:gen:m1	imię	
 Anatolu	Anatol	subst:sg:loc:m1	imię	
 Anatolu	Anatol	subst:sg:voc:m1	imię	
+Anatola	Anatola	subst:sg:nom:f	imię	
+Anatolach	Anatola	subst:pl:loc:f	imię	
+Anatolami	Anatola	subst:pl:inst:f	imię	
+Anatol	Anatola	subst:pl:gen:f	imię	char.
+Anatolą	Anatola	subst:sg:inst:f	imię	
+Anatole	Anatola	subst:pl:acc:f	imię	
+Anatole	Anatola	subst:pl:nom:f	imię	
+Anatole	Anatola	subst:pl:voc:f	imię	
+Anatolę	Anatola	subst:sg:acc:f	imię	
+Anatoli	Anatola	subst:pl:gen:f	imię	hom.
+Anatoli	Anatola	subst:sg:dat:f	imię	
+Anatoli	Anatola	subst:sg:gen:f	imię	
+Anatoli	Anatola	subst:sg:loc:f	imię	
+Anatolo	Anatola	subst:sg:voc:f	imię	
+Anatolom	Anatola	subst:pl:dat:f	imię	
 Anatolek	Anatolek	subst:sg:nom:m1	imię	
 Anatolka	Anatolek	subst:sg:acc:m1	imię	
 Anatolka	Anatolek	subst:sg:gen:m1	imię	
@@ -5022,6 +5068,20 @@ Anetki	Anetka	subst:pl:voc:f	imię
 Anetki	Anetka	subst:sg:gen:f	imię	
 Anetko	Anetka	subst:sg:voc:f	imię	
 Anetkom	Anetka	subst:pl:dat:f	imię	
+Anetcie	Anetta	subst:sg:dat:f	imię	
+Anetcie	Anetta	subst:sg:loc:f	imię	
+Anetta	Anetta	subst:sg:nom:f	imię	
+Anettach	Anetta	subst:pl:loc:f	imię	
+Anettami	Anetta	subst:pl:inst:f	imię	
+Anett	Anetta	subst:pl:gen:f	imię	
+Anettą	Anetta	subst:sg:inst:f	imię	
+Anettę	Anetta	subst:sg:acc:f	imię	
+Anetto	Anetta	subst:sg:voc:f	imię	
+Anettom	Anetta	subst:pl:dat:f	imię	
+Anetty	Anetta	subst:pl:acc:f	imię	
+Anetty	Anetta	subst:pl:nom:f	imię	
+Anetty	Anetta	subst:pl:voc:f	imię	
+Anetty	Anetta	subst:sg:gen:f	imię	
 Angela	Angel	subst:sg:acc:m1	imię	
 Angela	Angel	subst:sg:gen:m1	imię	
 Angelach	Angel	subst:pl:loc:m1	imię	
@@ -5391,6 +5451,20 @@ Anielki	Anielka	subst:pl:voc:f	imię
 Anielki	Anielka	subst:sg:gen:f	imię	
 Anielko	Anielka	subst:sg:voc:f	imię	
 Anielkom	Anielka	subst:pl:dat:f	imię	
+Anice	Anika	subst:sg:dat:f	imię	
+Anice	Anika	subst:sg:loc:f	imię	
+Anika	Anika	subst:sg:nom:f	imię	
+Anikach	Anika	subst:pl:loc:f	imię	
+Anikami	Anika	subst:pl:inst:f	imię	
+Anik	Anika	subst:pl:gen:f	imię	
+Aniką	Anika	subst:sg:inst:f	imię	
+Anikę	Anika	subst:sg:acc:f	imię	
+Aniki	Anika	subst:pl:acc:f	imię	
+Aniki	Anika	subst:pl:nom:f	imię	
+Aniki	Anika	subst:pl:voc:f	imię	
+Aniki	Anika	subst:sg:gen:f	imię	
+Aniko	Anika	subst:sg:voc:f	imię	
+Anikom	Anika	subst:pl:dat:f	imię	
 Aniele	Anioł	subst:sg:loc:m1	nazwisko	
 Aniele	Anioł	subst:sg:voc:m1	nazwisko	
 Anieli	Anioł	subst:pl:nom:m1	nazwisko	
@@ -5517,6 +5591,20 @@ Annaszów	Annasz	subst:pl:acc:m1	imię	bibl.
 Annaszów	Annasz	subst:pl:gen:m1	imię	bibl.
 Annaszu	Annasz	subst:sg:loc:m1	imię	bibl.
 Annaszu	Annasz	subst:sg:voc:m1	imię	bibl.
+Annice	Annika	subst:sg:dat:f	imię	
+Annice	Annika	subst:sg:loc:f	imię	
+Annika	Annika	subst:sg:nom:f	imię	
+Annikach	Annika	subst:pl:loc:f	imię	
+Annikami	Annika	subst:pl:inst:f	imię	
+Annik	Annika	subst:pl:gen:f	imię	
+Anniką	Annika	subst:sg:inst:f	imię	
+Annikę	Annika	subst:sg:acc:f	imię	
+Anniki	Annika	subst:pl:acc:f	imię	
+Anniki	Annika	subst:pl:nom:f	imię	
+Anniki	Annika	subst:pl:voc:f	imię	
+Anniki	Annika	subst:sg:gen:f	imię	
+Anniko	Annika	subst:sg:voc:f	imię	
+Annikom	Annika	subst:pl:dat:f	imię	
 A.D	Anno_Domini	brev:pun		
 Annopola	Annopol	subst:sg:gen:m3	nazwa geograficzna	
 Annopolach	Annopol	subst:pl:loc:m3	nazwa geograficzna	
@@ -6928,6 +7016,34 @@ Ariadny	Ariadna	subst:pl:acc:f	imię	mit.
 Ariadny	Ariadna	subst:pl:nom:f	imię	mit.
 Ariadny	Ariadna	subst:pl:voc:f	imię	mit.
 Ariadny	Ariadna	subst:sg:gen:f	imię	mit.
+Ariana	Ariana	subst:sg:nom:f	imię	
+Arianach	Ariana	subst:pl:loc:f	imię	
+Arianami	Ariana	subst:pl:inst:f	imię	
+Arian	Ariana	subst:pl:gen:f	imię	
+Arianą	Ariana	subst:sg:inst:f	imię	
+Arianę	Ariana	subst:sg:acc:f	imię	
+Arianie	Ariana	subst:sg:dat:f	imię	
+Arianie	Ariana	subst:sg:loc:f	imię	
+Ariano	Ariana	subst:sg:voc:f	imię	
+Arianom	Ariana	subst:pl:dat:f	imię	
+Ariany	Ariana	subst:pl:acc:f	imię	
+Ariany	Ariana	subst:pl:nom:f	imię	
+Ariany	Ariana	subst:pl:voc:f	imię	
+Ariany	Ariana	subst:sg:gen:f	imię	
+Arianna	Arianna	subst:sg:nom:f	imię	
+Ariannach	Arianna	subst:pl:loc:f	imię	
+Ariannami	Arianna	subst:pl:inst:f	imię	
+Ariann	Arianna	subst:pl:gen:f	imię	
+Arianną	Arianna	subst:sg:inst:f	imię	
+Ariannę	Arianna	subst:sg:acc:f	imię	
+Ariannie	Arianna	subst:sg:dat:f	imię	
+Ariannie	Arianna	subst:sg:loc:f	imię	
+Arianno	Arianna	subst:sg:voc:f	imię	
+Ariannom	Arianna	subst:pl:dat:f	imię	
+Arianny	Arianna	subst:pl:acc:f	imię	
+Arianny	Arianna	subst:pl:nom:f	imię	
+Arianny	Arianna	subst:pl:voc:f	imię	
+Arianny	Arianna	subst:sg:gen:f	imię	
 ARiMR-ach	ARiMR	subst:pl:loc:m3	nazwa instytucji	
 ARiMR-ami	ARiMR	subst:pl:inst:m3	nazwa instytucji	
 ARiMR	ARiMR	subst:pl:acc:f	nazwa instytucji	
@@ -7165,6 +7281,20 @@ Arkuszewskim	Arkuszewski	subst:pl:dat:m1	nazwisko
 Arkuszewskim	Arkuszewski	subst:sg:inst:m1	nazwisko	
 Arkuszewskim	Arkuszewski	subst:sg:loc:m1	nazwisko	
 Arkuszewskimi	Arkuszewski	subst:pl:inst:m1	nazwisko	
+Arlecie	Arleta	subst:sg:dat:f	imię	
+Arlecie	Arleta	subst:sg:loc:f	imię	
+Arleta	Arleta	subst:sg:nom:f	imię	
+Arletach	Arleta	subst:pl:loc:f	imię	
+Arletami	Arleta	subst:pl:inst:f	imię	
+Arlet	Arleta	subst:pl:gen:f	imię	
+Arletą	Arleta	subst:sg:inst:f	imię	
+Arletę	Arleta	subst:sg:acc:f	imię	
+Arleto	Arleta	subst:sg:voc:f	imię	
+Arletom	Arleta	subst:pl:dat:f	imię	
+Arlety	Arleta	subst:pl:acc:f	imię	
+Arlety	Arleta	subst:pl:nom:f	imię	
+Arlety	Arleta	subst:pl:voc:f	imię	
+Arlety	Arleta	subst:sg:gen:f	imię	
 Arletcie	Arletta	subst:sg:dat:f	imię	
 Arletcie	Arletta	subst:sg:loc:f	imię	
 Arletta	Arletta	subst:sg:nom:f	imię	
@@ -7790,6 +7920,20 @@ Asserze	Asser	subst:sg:voc:m1	imię
 Asserzy	Asser	subst:pl:nom:m1	imię	
 Asserzy	Asser	subst:pl:voc:m1	imię	
 ASAP	as_soon_as_possible	brev:npun		
+Asta	Asta	subst:sg:nom:f	imię	
+Astach	Asta	subst:pl:loc:f	imię	
+Astami	Asta	subst:pl:inst:f	imię	
+Ast	Asta	subst:pl:gen:f	imię	
+Astą	Asta	subst:sg:inst:f	imię	
+Astę	Asta	subst:sg:acc:f	imię	
+Asto	Asta	subst:sg:voc:f	imię	
+Astom	Asta	subst:pl:dat:f	imię	
+Asty	Asta	subst:pl:acc:f	imię	
+Asty	Asta	subst:pl:nom:f	imię	
+Asty	Asta	subst:pl:voc:f	imię	
+Asty	Asta	subst:sg:gen:f	imię	
+Aście	Asta	subst:sg:dat:f	imię	
+Aście	Asta	subst:sg:loc:f	imię	
 Astaire’a	Astaire	subst:sg:acc:m1	nazwisko	
 Astaire’a	Astaire	subst:sg:gen:m1	nazwisko	
 Astaire’ach	Astaire	subst:pl:loc:m1	nazwisko	

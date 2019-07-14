@@ -933,6 +933,21 @@ PAM-u	PAM	subst:sg:gen:m3	nazwa instytucji
 PAM-y	PAM	subst:pl:acc:m3	nazwa instytucji	
 PAM-y	PAM	subst:pl:nom:m3	nazwa instytucji	
 PAM-y	PAM	subst:pl:voc:m3	nazwa instytucji	
+Pamelach	Pamela	subst:pl:loc:f	imię	
+Pamelami	Pamela	subst:pl:inst:f	imię	
+Pamela	Pamela	subst:sg:nom:f	imię	
+Pamelą	Pamela	subst:sg:inst:f	imię	
+Pamele	Pamela	subst:pl:acc:f	imię	
+Pamele	Pamela	subst:pl:nom:f	imię	
+Pamele	Pamela	subst:pl:voc:f	imię	
+Pamelę	Pamela	subst:sg:acc:f	imię	
+Pameli	Pamela	subst:pl:gen:f	imię	hom.
+Pameli	Pamela	subst:sg:dat:f	imię	
+Pameli	Pamela	subst:sg:gen:f	imię	
+Pameli	Pamela	subst:sg:loc:f	imię	
+Pamelom	Pamela	subst:pl:dat:f	imię	
+Pamelo	Pamela	subst:sg:voc:f	imię	
+Pamel	Pamela	subst:pl:gen:f	imię	char.
 Pamfile	Pamfił	subst:sg:loc:m1	imię	
 Pamfile	Pamfił	subst:sg:voc:m1	imię	
 Pamfiłach	Pamfił	subst:pl:loc:m1	imię	
@@ -4618,6 +4633,22 @@ Petronelki	Petronelka	subst:pl:voc:f	imię
 Petronelki	Petronelka	subst:sg:gen:f	imię	
 Petronelkom	Petronelka	subst:pl:dat:f	imię	
 Petronelko	Petronelka	subst:sg:voc:f	imię	
+Petronellach	Petronella	subst:pl:loc:f	imię	
+Petronellami	Petronella	subst:pl:inst:f	imię	
+Petronella	Petronella	subst:sg:nom:f	imię	
+Petronellą	Petronella	subst:sg:inst:f	imię	
+Petronelle	Petronella	subst:pl:acc:f	imię	
+Petronelle	Petronella	subst:pl:nom:f	imię	
+Petronelle	Petronella	subst:pl:voc:f	imię	
+Petronellę	Petronella	subst:sg:acc:f	imię	
+Petronelli	Petronella	subst:pl:gen:f	imię	hom.
+Petronelli	Petronella	subst:sg:dat:f	imię	
+Petronelli	Petronella	subst:sg:gen:f	imię	
+Petronelli	Petronella	subst:sg:loc:f	imię	
+Petronellom	Petronella	subst:pl:dat:f	imię	
+Petronello	Petronella	subst:sg:voc:f	imię	
+Petronell	Petronella	subst:pl:gen:f	imię	char.
+Petronellu	Petronella	subst:sg:voc:f	imię	
 Petroniach	Petronia	subst:pl:loc:f	imię	
 Petroniami	Petronia	subst:pl:inst:f	imię	
 Petronia	Petronia	subst:sg:nom:f	imię	
@@ -9795,6 +9826,24 @@ Porfirionów	Porfirion	subst:pl:gen:m1	imię
 Porfirion	Porfirion	subst:sg:nom:m1	imię	
 Porfiriony	Porfirion	depr:pl:nom:m2	imię	
 Porfiriony	Porfirion	depr:pl:voc:m2	imię	
+Porfiriuszach	Porfiriusz	subst:pl:loc:m1	imię	
+Porfiriuszami	Porfiriusz	subst:pl:inst:m1	imię	
+Porfiriusza	Porfiriusz	subst:sg:acc:m1	imię	
+Porfiriusza	Porfiriusz	subst:sg:gen:m1	imię	
+Porfiriuszem	Porfiriusz	subst:sg:inst:m1	imię	
+Porfiriusze	Porfiriusz	depr:pl:nom:m2	imię	
+Porfiriusze	Porfiriusz	depr:pl:voc:m2	imię	
+Porfiriusze	Porfiriusz	subst:pl:nom:m1	imię	
+Porfiriusze	Porfiriusz	subst:pl:voc:m1	imię	
+Porfiriuszom	Porfiriusz	subst:pl:dat:m1	imię	
+Porfiriuszowie	Porfiriusz	subst:pl:nom:m1	imię	
+Porfiriuszowie	Porfiriusz	subst:pl:voc:m1	imię	
+Porfiriuszowi	Porfiriusz	subst:sg:dat:m1	imię	
+Porfiriuszów	Porfiriusz	subst:pl:acc:m1	imię	
+Porfiriuszów	Porfiriusz	subst:pl:gen:m1	imię	
+Porfiriusz	Porfiriusz	subst:sg:nom:m1	imię	
+Porfiriuszu	Porfiriusz	subst:sg:loc:m1	imię	
+Porfiriuszu	Porfiriusz	subst:sg:voc:m1	imię	
 Poroninach	Poronin	subst:pl:loc:m3	nazwa geograficzna	
 Poroninami	Poronin	subst:pl:inst:m3	nazwa geograficzna	
 Poronina	Poronin	subst:sg:gen:m3	nazwa geograficzna	

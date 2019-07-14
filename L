@@ -4595,6 +4595,22 @@ LOT-u	LOT	subst:sg:gen:m3	nazwa firmy
 LOT-y	LOT	subst:pl:acc:m3	nazwa firmy	
 LOT-y	LOT	subst:pl:nom:m3	nazwa firmy	
 LOT-y	LOT	subst:pl:voc:m3	nazwa firmy	
+Lotarach	Lotar	subst:pl:loc:m1	imię	
+Lotara	Lotar	subst:sg:acc:m1	imię	
+Lotara	Lotar	subst:sg:gen:m1	imię	
+Lotarami	Lotar	subst:pl:inst:m1	imię	
+Lotarem	Lotar	subst:sg:inst:m1	imię	
+Lotar	Lotar	subst:sg:nom:m1	imię	
+Lotarom	Lotar	subst:pl:dat:m1	imię	
+Lotarowie	Lotar	subst:pl:nom:m1	imię	
+Lotarowie	Lotar	subst:pl:voc:m1	imię	
+Lotarowi	Lotar	subst:sg:dat:m1	imię	
+Lotarów	Lotar	subst:pl:acc:m1	imię	
+Lotarów	Lotar	subst:pl:gen:m1	imię	
+Lotary	Lotar	depr:pl:nom:m2	imię	
+Lotary	Lotar	depr:pl:voc:m2	imię	
+Lotarze	Lotar	subst:sg:loc:m1	imię	
+Lotarze	Lotar	subst:sg:voc:m1	imię	
 Lotaryngiach	Lotaryngia	subst:pl:loc:f	nazwa geograficzna	
 Lotaryngia	Lotaryngia	subst:sg:nom:f	nazwa geograficzna	
 Lotaryngiami	Lotaryngia	subst:pl:inst:f	nazwa geograficzna	
@@ -5505,6 +5521,22 @@ Lucyferze	Lucyfer	subst:sg:voc:m1	imię
 Lucyferze	Lucyfer	subst:sg:voc:m2	imię	
 Lucyferzy	Lucyfer	subst:pl:nom:m1	imię	
 Lucyferzy	Lucyfer	subst:pl:voc:m1	imię	
+Lucylach	Lucyla	subst:pl:loc:f	imię	
+Lucyla	Lucyla	subst:sg:nom:f	imię	
+Lucylami	Lucyla	subst:pl:inst:f	imię	
+Lucylą	Lucyla	subst:sg:inst:f	imię	
+Lucyle	Lucyla	subst:pl:acc:f	imię	
+Lucyle	Lucyla	subst:pl:nom:f	imię	
+Lucyle	Lucyla	subst:pl:voc:f	imię	
+Lucylę	Lucyla	subst:sg:acc:f	imię	
+Lucyli	Lucyla	subst:pl:gen:f	imię	hom.
+Lucyli	Lucyla	subst:sg:dat:f	imię	
+Lucyli	Lucyla	subst:sg:gen:f	imię	
+Lucyli	Lucyla	subst:sg:loc:f	imię	
+Lucyl	Lucyla	subst:pl:gen:f	imię	char.
+Lucylo	Lucyla	subst:sg:voc:f	imię	
+Lucylom	Lucyla	subst:pl:dat:f	imię	
+Lucylu	Lucyla	subst:sg:voc:f	imię	
 Lucylianach	Lucylian	subst:pl:loc:m1	imię	
 Lucyliana	Lucylian	subst:sg:acc:m1	imię	
 Lucyliana	Lucylian	subst:sg:gen:m1	imię	

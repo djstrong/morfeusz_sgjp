@@ -21442,13 +21442,6 @@
 śrzony	śrzon	subst:pl:acc:m3	nazwa pospolita	daw.
 śrzony	śrzon	subst:pl:nom:m3	nazwa pospolita	daw.
 śrzony	śrzon	subst:pl:voc:m3	nazwa pospolita	daw.
-śś.	śś.	subst:pl:acc:m1:pt	nazwa pospolita	
-śś.	śś.	subst:pl:dat:m1:pt	nazwa pospolita	
-śś.	śś.	subst:pl:gen:m1:pt	nazwa pospolita	
-śś.	śś.	subst:pl:inst:m1:pt	nazwa pospolita	
-śś.	śś.	subst:pl:loc:m1:pt	nazwa pospolita	
-śś.	śś.	subst:pl:nom:m1:pt	nazwa pospolita	
-śś.	śś.	subst:pl:voc:m1:pt	nazwa pospolita	
 śudrach	śudra	subst:pl:loc:m1	nazwa pospolita	
 śudrami	śudra	subst:pl:inst:m1	nazwa pospolita	
 śudra	śudra	subst:sg:nom:m1	nazwa pospolita	
@@ -28168,6 +28161,7 @@
 święceniu	święcenie	subst:sg:dat:n:ncol	nazwa pospolita	
 święceniu	święcenie	subst:sg:loc:n:ncol	nazwa pospolita	
 święceń	święcenie	subst:pl:gen:n:ncol	nazwa pospolita	
+śś	święci	brev:pun		
 święcąca	święcić	pact:sg:nom.voc:f:imperf:aff		
 święcącą	święcić	pact:sg:acc.inst:f:imperf:aff		
 święcącego	święcić	pact:sg:acc:m1.m2:imperf:aff		

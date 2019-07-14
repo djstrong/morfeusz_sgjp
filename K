@@ -1620,6 +1620,21 @@ Kamil	Kamila	subst:pl:gen:f	imię	char.
 Kamilo	Kamila	subst:sg:voc:f	imię	
 Kamilom	Kamila	subst:pl:dat:f	imię	
 Kamilu	Kamila	subst:sg:voc:f	imię	
+Kamillach	Kamilla	subst:pl:loc:f	imię	
+Kamilla	Kamilla	subst:sg:nom:f	imię	
+Kamillami	Kamilla	subst:pl:inst:f	imię	
+Kamillą	Kamilla	subst:sg:inst:f	imię	
+Kamille	Kamilla	subst:pl:acc:f	imię	
+Kamille	Kamilla	subst:pl:nom:f	imię	
+Kamille	Kamilla	subst:pl:voc:f	imię	
+Kamillę	Kamilla	subst:sg:acc:f	imię	
+Kamilli	Kamilla	subst:pl:gen:f	imię	hom.
+Kamilli	Kamilla	subst:sg:dat:f	imię	
+Kamilli	Kamilla	subst:sg:gen:f	imię	
+Kamilli	Kamilla	subst:sg:loc:f	imię	
+Kamill	Kamilla	subst:pl:gen:f	imię	char.
+Kamillo	Kamilla	subst:sg:voc:f	imię	
+Kamillom	Kamilla	subst:pl:dat:f	imię	
 Kamińska	Kamińska	subst:sg:nom:f	nazwisko	
 Kamińska	Kamińska	subst:sg:voc:f	nazwisko	
 Kamińską	Kamińska	subst:sg:acc:f	nazwisko	
@@ -4792,6 +4807,22 @@ Kevinów	Kevin	subst:pl:acc:m1	imię
 Kevinów	Kevin	subst:pl:gen:m1	imię	
 Keviny	Kevin	depr:pl:nom:m2	imię	
 Keviny	Kevin	depr:pl:voc:m2	imię	
+Kewinach	Kewin	subst:pl:loc:m1	imię	
+Kewina	Kewin	subst:sg:acc:m1	imię	
+Kewina	Kewin	subst:sg:gen:m1	imię	
+Kewinami	Kewin	subst:pl:inst:m1	imię	
+Kewinem	Kewin	subst:sg:inst:m1	imię	
+Kewinie	Kewin	subst:sg:loc:m1	imię	
+Kewinie	Kewin	subst:sg:voc:m1	imię	
+Kewin	Kewin	subst:sg:nom:m1	imię	
+Kewinom	Kewin	subst:pl:dat:m1	imię	
+Kewinowie	Kewin	subst:pl:nom:m1	imię	
+Kewinowie	Kewin	subst:pl:voc:m1	imię	
+Kewinowi	Kewin	subst:sg:dat:m1	imię	
+Kewinów	Kewin	subst:pl:acc:m1	imię	
+Kewinów	Kewin	subst:pl:gen:m1	imię	
+Kewiny	Kewin	depr:pl:nom:m2	imię	
+Kewiny	Kewin	depr:pl:voc:m2	imię	
 Keynesach	Keynes	subst:pl:loc:m1	nazwisko	
 Keynesa	Keynes	subst:sg:acc:m1	nazwisko	
 Keynesa	Keynes	subst:sg:gen:m1	nazwisko	
@@ -10250,6 +10281,34 @@ Korybutów	Korybut	subst:pl:acc:m1	nazwisko|człon nazwiska (herb)
 Korybutów	Korybut	subst:pl:gen:m1	nazwisko|człon nazwiska (herb)	
 Korybuty	Korybut	depr:pl:nom:m2	nazwisko|człon nazwiska (herb)	
 Korybuty	Korybut	depr:pl:voc:m2	nazwisko|człon nazwiska (herb)	
+Korynach	Koryna	subst:pl:loc:f	imię	
+Koryna	Koryna	subst:sg:nom:f	imię	
+Korynami	Koryna	subst:pl:inst:f	imię	
+Koryną	Koryna	subst:sg:inst:f	imię	
+Korynę	Koryna	subst:sg:acc:f	imię	
+Korynie	Koryna	subst:sg:dat:f	imię	
+Korynie	Koryna	subst:sg:loc:f	imię	
+Koryn	Koryna	subst:pl:gen:f	imię	
+Koryno	Koryna	subst:sg:voc:f	imię	
+Korynom	Koryna	subst:pl:dat:f	imię	
+Koryny	Koryna	subst:pl:acc:f	imię	
+Koryny	Koryna	subst:pl:nom:f	imię	
+Koryny	Koryna	subst:pl:voc:f	imię	
+Koryny	Koryna	subst:sg:gen:f	imię	
+Korynnach	Korynna	subst:pl:loc:f	imię	
+Korynna	Korynna	subst:sg:nom:f	imię	
+Korynnami	Korynna	subst:pl:inst:f	imię	
+Korynną	Korynna	subst:sg:inst:f	imię	
+Korynnę	Korynna	subst:sg:acc:f	imię	
+Korynnie	Korynna	subst:sg:dat:f	imię	
+Korynnie	Korynna	subst:sg:loc:f	imię	
+Korynn	Korynna	subst:pl:gen:f	imię	
+Korynno	Korynna	subst:sg:voc:f	imię	
+Korynnom	Korynna	subst:pl:dat:f	imię	
+Korynny	Korynna	subst:pl:acc:f	imię	
+Korynny	Korynna	subst:pl:nom:f	imię	
+Korynny	Korynna	subst:pl:voc:f	imię	
+Korynny	Korynna	subst:sg:gen:f	imię	
 Koryncie	Korynt	subst:sg:loc:m3	nazwa geograficzna	
 Koryncie	Korynt	subst:sg:voc:m3	nazwa geograficzna	
 Koryntach	Korynt	subst:pl:loc:m3	nazwa geograficzna	

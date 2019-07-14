@@ -11490,6 +11490,22 @@ Steinhausów	Steinhaus	subst:pl:gen:m1	nazwisko
 Steinhaus	Steinhaus	subst:sg:nom:m1	nazwisko	
 Steinhausy	Steinhaus	depr:pl:nom:m2	nazwisko	
 Steinhausy	Steinhaus	depr:pl:voc:m2	nazwisko	
+Stelach	Stela	subst:pl:loc:f	imię	
+Stelami	Stela	subst:pl:inst:f	imię	
+Stela	Stela	subst:sg:nom:f	imię	
+Stelą	Stela	subst:sg:inst:f	imię	
+Stele	Stela	subst:pl:acc:f	imię	
+Stele	Stela	subst:pl:nom:f	imię	
+Stele	Stela	subst:pl:voc:f	imię	
+Stelę	Stela	subst:sg:acc:f	imię	
+Steli	Stela	subst:pl:gen:f	imię	hom.
+Steli	Stela	subst:sg:dat:f	imię	
+Steli	Stela	subst:sg:gen:f	imię	
+Steli	Stela	subst:sg:loc:f	imię	
+Stelom	Stela	subst:pl:dat:f	imię	
+Stelo	Stela	subst:sg:voc:f	imię	
+Stel	Stela	subst:pl:gen:f	imię	char.
+Stelu	Stela	subst:sg:voc:f	imię	
 Stellach	Stella	subst:pl:loc:f	imię	
 Stellami	Stella	subst:pl:inst:f	imię	
 Stella	Stella	subst:sg:nom:f	imię	
@@ -14486,6 +14502,24 @@ Symonidesów	Symonides	subst:pl:gen:m1	nazwisko
 Symonides	Symonides	subst:sg:nom:m1	nazwisko	
 Symonidesy	Symonides	depr:pl:nom:m2	nazwisko	
 Symonidesy	Symonides	depr:pl:voc:m2	nazwisko	
+Sympliciuszach	Sympliciusz	subst:pl:loc:m1	imię	
+Sympliciuszami	Sympliciusz	subst:pl:inst:m1	imię	
+Sympliciusza	Sympliciusz	subst:sg:acc:m1	imię	
+Sympliciusza	Sympliciusz	subst:sg:gen:m1	imię	
+Sympliciuszem	Sympliciusz	subst:sg:inst:m1	imię	
+Sympliciusze	Sympliciusz	depr:pl:nom:m2	imię	
+Sympliciusze	Sympliciusz	depr:pl:voc:m2	imię	
+Sympliciusze	Sympliciusz	subst:pl:nom:m1	imię	
+Sympliciusze	Sympliciusz	subst:pl:voc:m1	imię	
+Sympliciuszom	Sympliciusz	subst:pl:dat:m1	imię	
+Sympliciuszowie	Sympliciusz	subst:pl:nom:m1	imię	
+Sympliciuszowie	Sympliciusz	subst:pl:voc:m1	imię	
+Sympliciuszowi	Sympliciusz	subst:sg:dat:m1	imię	
+Sympliciuszów	Sympliciusz	subst:pl:acc:m1	imię	
+Sympliciuszów	Sympliciusz	subst:pl:gen:m1	imię	
+Sympliciusz	Sympliciusz	subst:sg:nom:m1	imię	
+Sympliciuszu	Sympliciusz	subst:sg:loc:m1	imię	
+Sympliciuszu	Sympliciusz	subst:sg:voc:m1	imię	
 Symplicjuszach	Symplicjusz	subst:pl:loc:m1	imię	
 Symplicjuszami	Symplicjusz	subst:pl:inst:m1	imię	
 Symplicjusza	Symplicjusz	subst:sg:acc:m1	imię	
@@ -14519,6 +14553,21 @@ Synaj	Synaj	subst:sg:nom:m3	nazwa geograficzna
 Synaju	Synaj	subst:sg:gen:m3	nazwa geograficzna	
 Synaju	Synaj	subst:sg:loc:m3	nazwa geograficzna	
 Synaju	Synaj	subst:sg:voc:m3	nazwa geograficzna	
+Syntiach	Syntia	subst:pl:loc:f	imię	
+Syntiami	Syntia	subst:pl:inst:f	imię	
+Syntia	Syntia	subst:sg:nom:f	imię	
+Syntią	Syntia	subst:sg:inst:f	imię	
+Syntie	Syntia	subst:pl:acc:f	imię	
+Syntie	Syntia	subst:pl:nom:f	imię	
+Syntie	Syntia	subst:pl:voc:f	imię	
+Syntię	Syntia	subst:sg:acc:f	imię	
+Syntii	Syntia	subst:pl:gen:f	imię	hom.
+Syntii	Syntia	subst:sg:dat:f	imię	
+Syntii	Syntia	subst:sg:gen:f	imię	
+Syntii	Syntia	subst:sg:loc:f	imię	
+Syntiom	Syntia	subst:pl:dat:f	imię	
+Syntio	Syntia	subst:sg:voc:f	imię	
+Syntyj	Syntia	subst:pl:gen:f	imię	arch.|char.
 Sypniewach	Sypniewo	subst:pl:loc:n:ncol	nazwa geograficzna	
 Sypniewami	Sypniewo	subst:pl:inst:n:ncol	nazwa geograficzna	
 Sypniewa	Sypniewo	subst:pl:acc:n:ncol	nazwa geograficzna	

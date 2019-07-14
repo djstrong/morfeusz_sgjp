@@ -4158,6 +4158,21 @@ Domiceli	Domicela	subst:sg:loc:f	imię
 Domicelo	Domicela	subst:sg:voc:f	imię	
 Domicelom	Domicela	subst:pl:dat:f	imię	
 Domicelu	Domicela	subst:sg:voc:f	imię	
+Domicellach	Domicella	subst:pl:loc:f	imię	
+Domicella	Domicella	subst:sg:nom:f	imię	
+Domicellami	Domicella	subst:pl:inst:f	imię	
+Domicellą	Domicella	subst:sg:inst:f	imię	
+Domicell	Domicella	subst:pl:gen:f	imię	char.
+Domicelle	Domicella	subst:pl:acc:f	imię	
+Domicelle	Domicella	subst:pl:nom:f	imię	
+Domicelle	Domicella	subst:pl:voc:f	imię	
+Domicellę	Domicella	subst:sg:acc:f	imię	
+Domicelli	Domicella	subst:pl:gen:f	imię	hom.
+Domicelli	Domicella	subst:sg:dat:f	imię	
+Domicelli	Domicella	subst:sg:gen:f	imię	
+Domicelli	Domicella	subst:sg:loc:f	imię	
+Domicello	Domicella	subst:sg:voc:f	imię	
+Domicellom	Domicella	subst:pl:dat:f	imię	
 Domicjanach	Domicjan	subst:pl:loc:m1	imię	
 Domicjana	Domicjan	subst:sg:acc:m1	imię	
 Domicjana	Domicjan	subst:sg:gen:m1	imię	

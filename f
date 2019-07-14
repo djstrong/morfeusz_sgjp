@@ -57098,6 +57098,21 @@ frankofilu	frankofil	subst:sg:loc:m1	nazwa pospolita
 frankofilu	frankofil	subst:sg:loc:m1	nazwa pospolita	rzad.
 frankofilu	frankofil	subst:sg:voc:m1	nazwa pospolita	
 frankofilu	frankofil	subst:sg:voc:m1	nazwa pospolita	rzad.
+frankofiliach	frankofilia	subst:pl:loc:f	nazwa pospolita	
+frankofilia	frankofilia	subst:sg:nom:f	nazwa pospolita	
+frankofiliami	frankofilia	subst:pl:inst:f	nazwa pospolita	
+frankofilią	frankofilia	subst:sg:inst:f	nazwa pospolita	
+frankofilie	frankofilia	subst:pl:acc:f	nazwa pospolita	
+frankofilie	frankofilia	subst:pl:nom:f	nazwa pospolita	
+frankofilie	frankofilia	subst:pl:voc:f	nazwa pospolita	
+frankofilię	frankofilia	subst:sg:acc:f	nazwa pospolita	
+frankofilii	frankofilia	subst:pl:gen:f	nazwa pospolita	hom.
+frankofilii	frankofilia	subst:sg:dat:f	nazwa pospolita	
+frankofilii	frankofilia	subst:sg:gen:f	nazwa pospolita	
+frankofilii	frankofilia	subst:sg:loc:f	nazwa pospolita	
+frankofilij	frankofilia	subst:pl:gen:f	nazwa pospolita	arch.|char.
+frankofilio	frankofilia	subst:sg:voc:f	nazwa pospolita	
+frankofiliom	frankofilia	subst:pl:dat:f	nazwa pospolita	
 frankofilscy	frankofilski	adj:pl:nom.voc:m1:pos		
 frankofilska	frankofilski	adj:sg:nom.voc:f:pos		
 frankofilską	frankofilski	adj:sg:acc:f:pos		
