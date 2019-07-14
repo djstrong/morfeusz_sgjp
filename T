@@ -5637,22 +5637,22 @@ Turcji	Turcja	subst:sg:loc:f	geograficzna
 Turcjom	Turcja	subst:pl:dat:f	geograficzna	
 Turcjo	Turcja	subst:sg:voc:f	geograficzna	
 Turcyj	Turcja	subst:pl:gen:f	geograficzna	arch.|char.
-Turczynach	Turczyn	subst:pl:loc:m1	pospolita	daw.
-Turczynami	Turczyn	subst:pl:inst:m1	pospolita	daw.
-Turczyna	Turczyn	subst:sg:acc:m1	pospolita	daw.
-Turczyna	Turczyn	subst:sg:gen:m1	pospolita	daw.
-Turczynem	Turczyn	subst:sg:inst:m1	pospolita	daw.
-Turczynie	Turczyn	subst:sg:loc:m1	pospolita	daw.
-Turczynie	Turczyn	subst:sg:voc:m1	pospolita	daw.
-Turczynom	Turczyn	subst:pl:dat:m1	pospolita	daw.
-Turczynowie	Turczyn	subst:pl:nom:m1	pospolita	daw.
-Turczynowie	Turczyn	subst:pl:voc:m1	pospolita	daw.
-Turczynowi	Turczyn	subst:sg:dat:m1	pospolita	daw.
-Turczynów	Turczyn	subst:pl:acc:m1	pospolita	daw.
-Turczynów	Turczyn	subst:pl:gen:m1	pospolita	daw.
-Turczyn	Turczyn	subst:sg:nom:m1	pospolita	daw.
-Turczyny	Turczyn	depr:pl:nom:m2	pospolita	daw.
-Turczyny	Turczyn	depr:pl:voc:m2	pospolita	daw.
+Turczynach	Turczyn	subst:pl:loc:m1	nazwisko	daw.
+Turczynami	Turczyn	subst:pl:inst:m1	nazwisko	daw.
+Turczyna	Turczyn	subst:sg:acc:m1	nazwisko	daw.
+Turczyna	Turczyn	subst:sg:gen:m1	nazwisko	daw.
+Turczynem	Turczyn	subst:sg:inst:m1	nazwisko	daw.
+Turczynie	Turczyn	subst:sg:loc:m1	nazwisko	daw.
+Turczynie	Turczyn	subst:sg:voc:m1	nazwisko	daw.
+Turczynom	Turczyn	subst:pl:dat:m1	nazwisko	daw.
+Turczynowie	Turczyn	subst:pl:nom:m1	nazwisko	daw.
+Turczynowie	Turczyn	subst:pl:voc:m1	nazwisko	daw.
+Turczynowi	Turczyn	subst:sg:dat:m1	nazwisko	daw.
+Turczynów	Turczyn	subst:pl:acc:m1	nazwisko	daw.
+Turczynów	Turczyn	subst:pl:gen:m1	nazwisko	daw.
+Turczyn	Turczyn	subst:sg:nom:m1	nazwisko	daw.
+Turczyny	Turczyn	depr:pl:nom:m2	nazwisko	daw.
+Turczyny	Turczyn	depr:pl:voc:m2	nazwisko	daw.
 Turczynek	Turczynek	subst:sg:nom:m1	pospolita	daw.
 Turczynkach	Turczynek	subst:pl:loc:m1	pospolita	daw.
 Turczynkami	Turczynek	subst:pl:inst:m1	pospolita	daw.
@@ -5850,6 +5850,20 @@ Turkmenistanu	Turkmenistan	subst:sg:gen:m3	geograficzna
 Turkmenistany	Turkmenistan	subst:pl:acc:m3	geograficzna	
 Turkmenistany	Turkmenistan	subst:pl:nom:m3	geograficzna	
 Turkmenistany	Turkmenistan	subst:pl:voc:m3	geograficzna	
+Turkmence	Turkmenka	subst:sg:dat:f	pospolita	
+Turkmence	Turkmenka	subst:sg:loc:f	pospolita	
+Turkmenek	Turkmenka	subst:pl:gen:f	pospolita	
+Turkmenkach	Turkmenka	subst:pl:loc:f	pospolita	
+Turkmenkami	Turkmenka	subst:pl:inst:f	pospolita	
+Turkmenka	Turkmenka	subst:sg:nom:f	pospolita	
+Turkmenką	Turkmenka	subst:sg:inst:f	pospolita	
+Turkmenkę	Turkmenka	subst:sg:acc:f	pospolita	
+Turkmenki	Turkmenka	subst:pl:acc:f	pospolita	
+Turkmenki	Turkmenka	subst:pl:nom:f	pospolita	
+Turkmenki	Turkmenka	subst:pl:voc:f	pospolita	
+Turkmenki	Turkmenka	subst:sg:gen:f	pospolita	
+Turkmenkom	Turkmenka	subst:pl:dat:f	pospolita	
+Turkmenko	Turkmenka	subst:sg:voc:f	pospolita	
 Turkowska	Turkowska	subst:sg:nom:f	nazwisko	
 Turkowska	Turkowska	subst:sg:voc:f	nazwisko	
 Turkowską	Turkowska	subst:sg:acc:f	nazwisko	
@@ -6345,6 +6359,20 @@ Twardowskim	Twardowski	subst:sg:inst:m1	nazwisko
 Twardowskim	Twardowski	subst:sg:loc:m1	nazwisko	
 Twardowski	Twardowski	subst:sg:nom:m1	nazwisko	
 Twardowski	Twardowski	subst:sg:voc:m1	nazwisko	
+Twerach	Twer	subst:pl:loc:m3	geograficzna	
+Twerami	Twer	subst:pl:inst:m3	geograficzna	
+Twerem	Twer	subst:sg:inst:m3	geograficzna	
+Twerom	Twer	subst:pl:dat:m3	geograficzna	
+Twerowi	Twer	subst:sg:dat:m3	geograficzna	
+Twerów	Twer	subst:pl:gen:m3	geograficzna	
+Twer	Twer	subst:sg:acc:m3	geograficzna	
+Twer	Twer	subst:sg:nom:m3	geograficzna	
+Tweru	Twer	subst:sg:gen:m3	geograficzna	
+Twery	Twer	subst:pl:acc:m3	geograficzna	
+Twery	Twer	subst:pl:nom:m3	geograficzna	
+Twery	Twer	subst:pl:voc:m3	geograficzna	
+Twerze	Twer	subst:sg:loc:m3	geograficzna	
+Twerze	Twer	subst:sg:voc:m3	geograficzna	
 Tworek	Tworki	subst:pl:gen:p2	geograficzna	rzad.
 Tworek	Tworki	subst:pl:gen:p3	geograficzna	
 Tworkach	Tworki	subst:pl:loc:p2	geograficzna	rzad.

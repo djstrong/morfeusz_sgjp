@@ -2703,6 +2703,20 @@ Wełtawy	Wełtawa	subst:pl:acc:f	geograficzna
 Wełtawy	Wełtawa	subst:pl:nom:f	geograficzna	
 Wełtawy	Wełtawa	subst:pl:voc:f	geograficzna	
 Wełtawy	Wełtawa	subst:sg:gen:f	geograficzna	
+Wembley	Wembley	subst:pl:acc:n2	geograficzna	
+Wembley	Wembley	subst:pl:dat:n2	geograficzna	
+Wembley	Wembley	subst:pl:gen:n2	geograficzna	
+Wembley	Wembley	subst:pl:inst:n2	geograficzna	
+Wembley	Wembley	subst:pl:loc:n2	geograficzna	
+Wembley	Wembley	subst:pl:nom:n2	geograficzna	
+Wembley	Wembley	subst:pl:voc:n2	geograficzna	
+Wembley	Wembley	subst:sg:acc:n2	geograficzna	
+Wembley	Wembley	subst:sg:dat:n2	geograficzna	
+Wembley	Wembley	subst:sg:gen:n2	geograficzna	
+Wembley	Wembley	subst:sg:inst:n2	geograficzna	
+Wembley	Wembley	subst:sg:loc:n2	geograficzna	
+Wembley	Wembley	subst:sg:nom:n2	geograficzna	
+Wembley	Wembley	subst:sg:voc:n2	geograficzna	
 Wenancjuszach	Wenancjusz	subst:pl:loc:m1	imię	
 Wenancjuszami	Wenancjusz	subst:pl:inst:m1	imię	
 Wenancjusza	Wenancjusz	subst:sg:acc:m1	imię	
@@ -4969,6 +4983,21 @@ Wikci	Wikcia	subst:sg:dat:f	imię
 Wikci	Wikcia	subst:sg:gen:f	imię	
 Wikci	Wikcia	subst:sg:loc:f	imię	
 Wikć	Wikcia	subst:pl:gen:f	imię	char.
+Wikipediach	Wikipedia	subst:pl:loc:f	pospolita	
+Wikipediami	Wikipedia	subst:pl:inst:f	pospolita	
+Wikipedia	Wikipedia	subst:sg:nom:f	pospolita	
+Wikipedią	Wikipedia	subst:sg:inst:f	pospolita	
+Wikipedie	Wikipedia	subst:pl:acc:f	pospolita	
+Wikipedie	Wikipedia	subst:pl:nom:f	pospolita	
+Wikipedie	Wikipedia	subst:pl:voc:f	pospolita	
+Wikipedię	Wikipedia	subst:sg:acc:f	pospolita	
+Wikipedii	Wikipedia	subst:pl:gen:f	pospolita	hom.
+Wikipedii	Wikipedia	subst:sg:dat:f	pospolita	
+Wikipedii	Wikipedia	subst:sg:gen:f	pospolita	
+Wikipedii	Wikipedia	subst:sg:loc:f	pospolita	
+Wikipediom	Wikipedia	subst:pl:dat:f	pospolita	
+Wikipedio	Wikipedia	subst:sg:voc:f	pospolita	
+Wikipedyj	Wikipedia	subst:pl:gen:f	pospolita	arch.|char.
 Wikcie	Wikta	subst:sg:dat:f	imię	
 Wikcie	Wikta	subst:sg:loc:f	imię	
 Wiktach	Wikta	subst:pl:loc:f	imię	
@@ -5663,6 +5692,20 @@ Wiłkomirskim	Wiłkomirski	subst:sg:inst:m1	nazwisko
 Wiłkomirskim	Wiłkomirski	subst:sg:loc:m1	nazwisko	
 Wiłkomirski	Wiłkomirski	subst:sg:nom:m1	nazwisko	
 Wiłkomirski	Wiłkomirski	subst:sg:voc:m1	nazwisko	
+Wimbledonach	Wimbledon	subst:pl:loc:m3	geograficzna	hist.
+Wimbledonami	Wimbledon	subst:pl:inst:m3	geograficzna	hist.
+Wimbledonem	Wimbledon	subst:sg:inst:m3	geograficzna	hist.
+Wimbledonie	Wimbledon	subst:sg:loc:m3	geograficzna	hist.
+Wimbledonie	Wimbledon	subst:sg:voc:m3	geograficzna	hist.
+Wimbledonom	Wimbledon	subst:pl:dat:m3	geograficzna	hist.
+Wimbledonowi	Wimbledon	subst:sg:dat:m3	geograficzna	hist.
+Wimbledonów	Wimbledon	subst:pl:gen:m3	geograficzna	hist.
+Wimbledonu	Wimbledon	subst:sg:gen:m3	geograficzna	hist.
+Wimbledon	Wimbledon	subst:sg:acc:m3	geograficzna	hist.
+Wimbledon	Wimbledon	subst:sg:nom:m3	geograficzna	hist.
+Wimbledony	Wimbledon	subst:pl:acc:m3	geograficzna	hist.
+Wimbledony	Wimbledon	subst:pl:nom:m3	geograficzna	hist.
+Wimbledony	Wimbledon	subst:pl:voc:m3	geograficzna	hist.
 WiN-ach	WiN	subst:pl:loc:m3	organizacja	
 WiN-ami	WiN	subst:pl:inst:m3	organizacja	
 WiN-em	WiN	subst:sg:inst:m3	organizacja	
@@ -6884,6 +6927,22 @@ WKU	WKU	subst:sg:nom:f	instytucja
 WKU	WKU	subst:sg:nom:n2	instytucja	
 WKU	WKU	subst:sg:voc:f	instytucja	
 WKU	WKU	subst:sg:voc:n2	instytucja	
+Wlazłach	Wlazło	subst:pl:loc:m1	nazwisko	
+Wlazłami	Wlazło	subst:pl:inst:m1	nazwisko	
+Wlazłą	Wlazło	subst:sg:inst:m1	nazwisko	
+Wlazłę	Wlazło	subst:sg:acc:m1	nazwisko	
+Wlazłom	Wlazło	subst:pl:dat:m1	nazwisko	
+Wlazłowie	Wlazło	subst:pl:nom:m1	nazwisko	
+Wlazłowie	Wlazło	subst:pl:voc:m1	nazwisko	
+Wlazło	Wlazło	subst:sg:nom:m1	nazwisko	
+Wlazło	Wlazło	subst:sg:voc:m1	nazwisko	
+Wlazłów	Wlazło	subst:pl:acc:m1	nazwisko	
+Wlazłów	Wlazło	subst:pl:gen:m1	nazwisko	
+Wlazły	Wlazło	depr:pl:nom:m2	nazwisko	
+Wlazły	Wlazło	depr:pl:voc:m2	nazwisko	
+Wlazły	Wlazło	subst:sg:gen:m1	nazwisko	
+Wlaźle	Wlazło	subst:sg:dat:m1	nazwisko	
+Wlaźle	Wlazło	subst:sg:loc:m1	nazwisko	
 Władach	Wład	subst:pl:loc:m1	imię	
 Władami	Wład	subst:pl:inst:m1	imię	
 Włada	Wład	subst:sg:acc:m1	imię	

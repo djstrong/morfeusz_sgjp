@@ -937,6 +937,20 @@ jacuzzi	jacuzzi	subst:sg:inst:n2	pospolita
 jacuzzi	jacuzzi	subst:sg:loc:n2	pospolita	
 jacuzzi	jacuzzi	subst:sg:nom:n2	pospolita	
 jacuzzi	jacuzzi	subst:sg:voc:n2	pospolita	
+jaczejce	jaczejka	subst:sg:dat:f	pospolita	przest.
+jaczejce	jaczejka	subst:sg:loc:f	pospolita	przest.
+jaczejek	jaczejka	subst:pl:gen:f	pospolita	przest.
+jaczejkach	jaczejka	subst:pl:loc:f	pospolita	przest.
+jaczejka	jaczejka	subst:sg:nom:f	pospolita	przest.
+jaczejkami	jaczejka	subst:pl:inst:f	pospolita	przest.
+jaczejką	jaczejka	subst:sg:inst:f	pospolita	przest.
+jaczejkę	jaczejka	subst:sg:acc:f	pospolita	przest.
+jaczejki	jaczejka	subst:pl:acc:f	pospolita	przest.
+jaczejki	jaczejka	subst:pl:nom:f	pospolita	przest.
+jaczejki	jaczejka	subst:pl:voc:f	pospolita	przest.
+jaczejki	jaczejka	subst:sg:gen:f	pospolita	przest.
+jaczejko	jaczejka	subst:sg:voc:f	pospolita	przest.
+jaczejkom	jaczejka	subst:pl:dat:f	pospolita	przest.
 jaczce	jaczka	subst:sg:dat:f	pospolita	
 jaczce	jaczka	subst:sg:loc:f	pospolita	
 jaczek	jaczka	subst:pl:gen:f	pospolita	

@@ -7648,6 +7648,30 @@ nielampiarskości	nielampiarskość	subst:sg:voc:f
 nielampiarskościom	nielampiarskość	subst:pl:dat:f		
 nielampiarskość	nielampiarskość	subst:sg:acc:f		
 nielampiarskość	nielampiarskość	subst:sg:nom:f		
+nielampionowo	nielampionowo	adv:pos		
+nielampionowa	nielampionowy	adj:sg:nom.voc:f:pos		
+nielampionową	nielampionowy	adj:sg:acc:f:pos		
+nielampionową	nielampionowy	adj:sg:inst:f:pos		
+nielampionowego	nielampionowy	adj:sg:acc:m1.m2:pos		
+nielampionowego	nielampionowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+nielampionowej	nielampionowy	adj:sg:dat:f:pos		
+nielampionowej	nielampionowy	adj:sg:gen:f:pos		
+nielampionowej	nielampionowy	adj:sg:loc:f:pos		
+nielampionowemu	nielampionowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+nielampionowe	nielampionowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+nielampionowe	nielampionowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+nielampionowe	nielampionowy	adj:sg:acc:n1.n2:pos		
+nielampionowe	nielampionowy	adj:sg:nom.voc:n1.n2:pos		
+nielampionowi	nielampionowy	adj:pl:nom.voc:m1.p1:pos		
+nielampionowych	nielampionowy	adj:pl:acc:m1.p1:pos		
+nielampionowych	nielampionowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+nielampionowych	nielampionowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+nielampionowymi	nielampionowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+nielampionowym	nielampionowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+nielampionowym	nielampionowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+nielampionowym	nielampionowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+nielampionowy	nielampionowy	adj:sg:acc:m3:pos		
+nielampionowy	nielampionowy	adj:sg:nom.voc:m1.m2.m3:pos		
 nielampowościach	nielampowość	subst:pl:loc:f		
 nielampowościami	nielampowość	subst:pl:inst:f		
 nielampowością	nielampowość	subst:sg:inst:f		
@@ -11246,6 +11270,22 @@ nielegalnym	nielegalny	adj:sg:inst:m1.m2.m3.n1.n2:pos
 nielegalnym	nielegalny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 nielegalny	nielegalny	adj:sg:acc:m3:pos		
 nielegalny	nielegalny	adj:sg:nom.voc:m1.m2.m3:pos		
+nielegale	nielegał	subst:sg:loc:m1	pospolita	środ.
+nielegale	nielegał	subst:sg:voc:m1	pospolita	środ.
+nielegałach	nielegał	subst:pl:loc:m1	pospolita	środ.
+nielegałami	nielegał	subst:pl:inst:m1	pospolita	środ.
+nielegała	nielegał	subst:sg:acc:m1	pospolita	środ.
+nielegała	nielegał	subst:sg:gen:m1	pospolita	środ.
+nielegałem	nielegał	subst:sg:inst:m1	pospolita	środ.
+nielegał	nielegał	subst:sg:nom:m1	pospolita	środ.
+nielegałom	nielegał	subst:pl:dat:m1	pospolita	środ.
+nielegałowie	nielegał	subst:pl:nom:m1	pospolita	środ.
+nielegałowie	nielegał	subst:pl:voc:m1	pospolita	środ.
+nielegałowi	nielegał	subst:sg:dat:m1	pospolita	środ.
+nielegałów	nielegał	subst:pl:acc:m1	pospolita	środ.
+nielegałów	nielegał	subst:pl:gen:m1	pospolita	środ.
+nielegały	nielegał	depr:pl:nom:m2	pospolita	środ.
+nielegały	nielegał	depr:pl:voc:m2	pospolita	środ.
 nielegawościach	nielegawość	subst:pl:loc:f		
 nielegawościami	nielegawość	subst:pl:inst:f		
 nielegawością	nielegawość	subst:sg:inst:f		

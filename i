@@ -1532,6 +1532,75 @@ identyfikowalnym	identyfikowalny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 identyfikowalnym	identyfikowalny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 identyfikowalnym	identyfikowalny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 identyfikowalnymi	identyfikowalny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+identytarystach	identytarysta	subst:pl:loc:m1	pospolita	
+identytarysta	identytarysta	subst:sg:nom:m1	pospolita	
+identytarystami	identytarysta	subst:pl:inst:m1	pospolita	
+identytarystą	identytarysta	subst:sg:inst:m1	pospolita	
+identytarystę	identytarysta	subst:sg:acc:m1	pospolita	
+identytarysto	identytarysta	subst:sg:voc:m1	pospolita	
+identytarystom	identytarysta	subst:pl:dat:m1	pospolita	
+identytarystów	identytarysta	subst:pl:acc:m1	pospolita	
+identytarystów	identytarysta	subst:pl:gen:m1	pospolita	
+identytarysty	identytarysta	depr:pl:nom:m2	pospolita	
+identytarysty	identytarysta	depr:pl:voc:m2	pospolita	
+identytarysty	identytarysta	subst:sg:gen:m1	pospolita	
+identytaryście	identytarysta	subst:sg:dat:m1	pospolita	
+identytaryście	identytarysta	subst:sg:loc:m1	pospolita	
+identytaryści	identytarysta	subst:pl:nom:m1	pospolita	
+identytaryści	identytarysta	subst:pl:voc:m1	pospolita	
+identytarystycznie	identytarystycznie	adv:pos		
+identytarystycznościach	identytarystyczność	subst:pl:loc:f		
+identytarystycznościami	identytarystyczność	subst:pl:inst:f		
+identytarystycznością	identytarystyczność	subst:sg:inst:f		
+identytarystyczności	identytarystyczność	subst:pl:acc:f		
+identytarystyczności	identytarystyczność	subst:pl:gen:f		
+identytarystyczności	identytarystyczność	subst:pl:nom:f		
+identytarystyczności	identytarystyczność	subst:pl:voc:f		
+identytarystyczności	identytarystyczność	subst:sg:dat:f		
+identytarystyczności	identytarystyczność	subst:sg:gen:f		
+identytarystyczności	identytarystyczność	subst:sg:loc:f		
+identytarystyczności	identytarystyczność	subst:sg:voc:f		
+identytarystycznościom	identytarystyczność	subst:pl:dat:f		
+identytarystyczność	identytarystyczność	subst:sg:acc:f		
+identytarystyczność	identytarystyczność	subst:sg:nom:f		
+identytarystyczna	identytarystyczny	adj:sg:nom.voc:f:pos		
+identytarystyczną	identytarystyczny	adj:sg:acc:f:pos		
+identytarystyczną	identytarystyczny	adj:sg:inst:f:pos		
+identytarystycznego	identytarystyczny	adj:sg:acc:m1.m2:pos		
+identytarystycznego	identytarystyczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+identytarystyczne	identytarystyczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+identytarystyczne	identytarystyczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+identytarystyczne	identytarystyczny	adj:sg:acc:n1.n2:pos		
+identytarystyczne	identytarystyczny	adj:sg:nom.voc:n1.n2:pos		
+identytarystycznej	identytarystyczny	adj:sg:dat:f:pos		
+identytarystycznej	identytarystyczny	adj:sg:gen:f:pos		
+identytarystycznej	identytarystyczny	adj:sg:loc:f:pos		
+identytarystycznemu	identytarystyczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+identytarystyczni	identytarystyczny	adj:pl:nom.voc:m1.p1:pos		
+identytarystyczno	identytarystyczny	adja		
+identytarystycznych	identytarystyczny	adj:pl:acc:m1.p1:pos		
+identytarystycznych	identytarystyczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+identytarystycznych	identytarystyczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+identytarystyczny	identytarystyczny	adj:sg:acc:m3:pos		
+identytarystyczny	identytarystyczny	adj:sg:nom.voc:m1.m2.m3:pos		
+identytarystycznym	identytarystyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+identytarystycznym	identytarystyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+identytarystycznym	identytarystyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+identytarystycznymi	identytarystyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+identytaryzmach	identytaryzm	subst:pl:loc:m3	pospolita	
+identytaryzmami	identytaryzm	subst:pl:inst:m3	pospolita	
+identytaryzmem	identytaryzm	subst:sg:inst:m3	pospolita	
+identytaryzm	identytaryzm	subst:sg:acc:m3	pospolita	
+identytaryzm	identytaryzm	subst:sg:nom:m3	pospolita	
+identytaryzmie	identytaryzm	subst:sg:loc:m3	pospolita	
+identytaryzmie	identytaryzm	subst:sg:voc:m3	pospolita	
+identytaryzmom	identytaryzm	subst:pl:dat:m3	pospolita	
+identytaryzmowi	identytaryzm	subst:sg:dat:m3	pospolita	
+identytaryzmów	identytaryzm	subst:pl:gen:m3	pospolita	
+identytaryzmu	identytaryzm	subst:sg:gen:m3	pospolita	
+identytaryzmy	identytaryzm	subst:pl:acc:m3	pospolita	
+identytaryzmy	identytaryzm	subst:pl:nom:m3	pospolita	
+identytaryzmy	identytaryzm	subst:pl:voc:m3	pospolita	
 ideodynamicznościach	ideodynamiczność	subst:pl:loc:f		
 ideodynamicznościami	ideodynamiczność	subst:pl:inst:f		
 ideodynamicznością	ideodynamiczność	subst:sg:inst:f		
@@ -42830,6 +42899,21 @@ islamizujesz	islamizować	fin:sg:sec:imperf
 islamizuję	islamizować	fin:sg:pri:imperf		
 islamizuj	islamizować	impt:sg:sec:imperf		
 islamizujmy	islamizować	impt:pl:pri:imperf		
+islamofobiach	islamofobia	subst:pl:loc:f	pospolita	
+islamofobia	islamofobia	subst:sg:nom:f	pospolita	
+islamofobiami	islamofobia	subst:pl:inst:f	pospolita	
+islamofobią	islamofobia	subst:sg:inst:f	pospolita	
+islamofobie	islamofobia	subst:pl:acc:f	pospolita	
+islamofobie	islamofobia	subst:pl:nom:f	pospolita	
+islamofobie	islamofobia	subst:pl:voc:f	pospolita	
+islamofobię	islamofobia	subst:sg:acc:f	pospolita	
+islamofobii	islamofobia	subst:pl:gen:f	pospolita	hom.
+islamofobii	islamofobia	subst:sg:dat:f	pospolita	
+islamofobii	islamofobia	subst:sg:gen:f	pospolita	
+islamofobii	islamofobia	subst:sg:loc:f	pospolita	
+islamofobij	islamofobia	subst:pl:gen:f	pospolita	arch.|char.
+islamofobio	islamofobia	subst:sg:voc:f	pospolita	
+islamofobiom	islamofobia	subst:pl:dat:f	pospolita	
 islamofobicznościach	islamofobiczność	subst:pl:loc:f		
 islamofobicznościami	islamofobiczność	subst:pl:inst:f		
 islamofobicznością	islamofobiczność	subst:sg:inst:f		

@@ -5855,6 +5855,31 @@ lampionu	lampion	subst:sg:gen:m3	pospolita
 lampiony	lampion	subst:pl:acc:m3	pospolita	
 lampiony	lampion	subst:pl:nom:m3	pospolita	
 lampiony	lampion	subst:pl:voc:m3	pospolita	
+lampionowo	lampionowo	adv:pos		
+lampionowa	lampionowy	adj:sg:nom.voc:f:pos		
+lampionową	lampionowy	adj:sg:acc:f:pos		
+lampionową	lampionowy	adj:sg:inst:f:pos		
+lampionowego	lampionowy	adj:sg:acc:m1.m2:pos		
+lampionowego	lampionowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+lampionowej	lampionowy	adj:sg:dat:f:pos		
+lampionowej	lampionowy	adj:sg:gen:f:pos		
+lampionowej	lampionowy	adj:sg:loc:f:pos		
+lampionowe	lampionowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+lampionowe	lampionowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+lampionowe	lampionowy	adj:sg:acc:n1.n2:pos		
+lampionowe	lampionowy	adj:sg:nom.voc:n1.n2:pos		
+lampionowemu	lampionowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+lampionowi	lampionowy	adj:pl:nom.voc:m1.p1:pos		
+lampionowo	lampionowy	adja		
+lampionowych	lampionowy	adj:pl:acc:m1.p1:pos		
+lampionowych	lampionowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+lampionowych	lampionowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+lampionowy	lampionowy	adj:sg:acc:m3:pos		
+lampionowy	lampionowy	adj:sg:nom.voc:m1.m2.m3:pos		
+lampionowymi	lampionowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+lampionowym	lampionowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+lampionowym	lampionowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+lampionowym	lampionowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 lampce	lampka	subst:sg:dat:f	pospolita	
 lampce	lampka	subst:sg:loc:f	pospolita	
 lampek	lampka	subst:pl:gen:f	pospolita	
@@ -59639,22 +59664,6 @@ lumitypu	lumityp	subst:sg:gen:m3	pospolita
 lumitypy	lumityp	subst:pl:acc:m3	pospolita	
 lumitypy	lumityp	subst:pl:nom:m3	pospolita	
 lumitypy	lumityp	subst:pl:voc:m3	pospolita	
-lumpach	lump	subst:pl:loc:m1	pospolita	
-lumpa	lump	subst:sg:acc:m1	pospolita	
-lumpa	lump	subst:sg:gen:m1	pospolita	
-lumpami	lump	subst:pl:inst:m1	pospolita	
-lumpem	lump	subst:sg:inst:m1	pospolita	
-lumpie	lump	subst:sg:loc:m1	pospolita	
-lumpie	lump	subst:sg:voc:m1	pospolita	
-lump	lump	subst:sg:nom:m1	pospolita	
-lumpom	lump	subst:pl:dat:m1	pospolita	
-lumpowie	lump	subst:pl:nom:m1	pospolita	
-lumpowie	lump	subst:pl:voc:m1	pospolita	
-lumpowi	lump	subst:sg:dat:m1	pospolita	
-lumpów	lump	subst:pl:acc:m1	pospolita	
-lumpów	lump	subst:pl:gen:m1	pospolita	
-lumpy	lump	depr:pl:nom:m2	pospolita	
-lumpy	lump	depr:pl:voc:m2	pospolita	
 lumpeksach	lumpeks	subst:pl:loc:m3	pospolita	
 lumpeksami	lumpeks	subst:pl:inst:m3	pospolita	
 lumpeksem	lumpeks	subst:sg:inst:m3	pospolita	
@@ -59808,6 +59817,20 @@ lumpenproletariuszki	lumpenproletariuszka	subst:pl:voc:f	pospolita
 lumpenproletariuszki	lumpenproletariuszka	subst:sg:gen:f	pospolita	
 lumpenproletariuszko	lumpenproletariuszka	subst:sg:voc:f	pospolita	
 lumpenproletariuszkom	lumpenproletariuszka	subst:pl:dat:f	pospolita	
+lumpiarach	lumpiara	subst:pl:loc:f	pospolita	pogard.|pot.
+lumpiara	lumpiara	subst:sg:nom:f	pospolita	pogard.|pot.
+lumpiarami	lumpiara	subst:pl:inst:f	pospolita	pogard.|pot.
+lumpiarą	lumpiara	subst:sg:inst:f	pospolita	pogard.|pot.
+lumpiarę	lumpiara	subst:sg:acc:f	pospolita	pogard.|pot.
+lumpiar	lumpiara	subst:pl:gen:f	pospolita	pogard.|pot.
+lumpiaro	lumpiara	subst:sg:voc:f	pospolita	pogard.|pot.
+lumpiarom	lumpiara	subst:pl:dat:f	pospolita	pogard.|pot.
+lumpiary	lumpiara	subst:pl:acc:f	pospolita	pogard.|pot.
+lumpiary	lumpiara	subst:pl:nom:f	pospolita	pogard.|pot.
+lumpiary	lumpiara	subst:pl:voc:f	pospolita	pogard.|pot.
+lumpiary	lumpiara	subst:sg:gen:f	pospolita	pogard.|pot.
+lumpiarze	lumpiara	subst:sg:dat:f	pospolita	pogard.|pot.
+lumpiarze	lumpiara	subst:sg:loc:f	pospolita	pogard.|pot.
 lumpiarscy	lumpiarski	adj:pl:nom.voc:m1.p1:pos		
 lumpiarska	lumpiarski	adj:sg:nom.voc:f:pos		
 lumpiarską	lumpiarski	adj:sg:acc:f:pos		
@@ -60006,6 +60029,36 @@ lumpowskości	lumpowskość	subst:sg:voc:f
 lumpowskościom	lumpowskość	subst:pl:dat:f		
 lumpowskość	lumpowskość	subst:sg:acc:f		
 lumpowskość	lumpowskość	subst:sg:nom:f		
+lumpach	lump:s1	subst:pl:loc:m1	pospolita	pot.
+lumpa	lump:s1	subst:sg:acc:m1	pospolita	pot.
+lumpa	lump:s1	subst:sg:gen:m1	pospolita	pot.
+lumpami	lump:s1	subst:pl:inst:m1	pospolita	pot.
+lumpem	lump:s1	subst:sg:inst:m1	pospolita	pot.
+lumpie	lump:s1	subst:sg:loc:m1	pospolita	pot.
+lumpie	lump:s1	subst:sg:voc:m1	pospolita	pot.
+lump	lump:s1	subst:sg:nom:m1	pospolita	pot.
+lumpom	lump:s1	subst:pl:dat:m1	pospolita	pot.
+lumpowie	lump:s1	subst:pl:nom:m1	pospolita	pot.
+lumpowie	lump:s1	subst:pl:voc:m1	pospolita	pot.
+lumpowi	lump:s1	subst:sg:dat:m1	pospolita	pot.
+lumpów	lump:s1	subst:pl:acc:m1	pospolita	pot.
+lumpów	lump:s1	subst:pl:gen:m1	pospolita	pot.
+lumpy	lump:s1	depr:pl:nom:m2	pospolita	pot.
+lumpy	lump:s1	depr:pl:voc:m2	pospolita	pot.
+lumpach	lump:s2	subst:pl:loc:m3	pospolita	pot.
+lumpa	lump:s2	subst:sg:gen:m3	pospolita	pot.
+lumpami	lump:s2	subst:pl:inst:m3	pospolita	pot.
+lumpem	lump:s2	subst:sg:inst:m3	pospolita	pot.
+lumpie	lump:s2	subst:sg:loc:m3	pospolita	pot.
+lumpie	lump:s2	subst:sg:voc:m3	pospolita	pot.
+lump	lump:s2	subst:sg:acc:m3	pospolita	pot.
+lump	lump:s2	subst:sg:nom:m3	pospolita	pot.
+lumpom	lump:s2	subst:pl:dat:m3	pospolita	pot.
+lumpowi	lump:s2	subst:sg:dat:m3	pospolita	pot.
+lumpów	lump:s2	subst:pl:gen:m3	pospolita	pot.
+lumpy	lump:s2	subst:pl:acc:m3	pospolita	pot.
+lumpy	lump:s2	subst:pl:nom:m3	pospolita	pot.
+lumpy	lump:s2	subst:pl:voc:m3	pospolita	pot.
 lunach	luna	subst:pl:loc:f	pospolita	daw.
 luna	luna	subst:sg:nom:f	pospolita	daw.
 lunami	luna	subst:pl:inst:f	pospolita	daw.

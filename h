@@ -39037,7 +39037,22 @@ hopki	hopki	subst:pl:nom:p3	pospolita
 hopki	hopki	subst:pl:voc:p3	pospolita	
 hopkom	hopki	subst:pl:dat:p3	pospolita	
 hopków	hopki	subst:pl:gen:p3	pospolita	
-hopla	hopla	interj		
+hopla	hopla:b	burk		
+hopla	hopla:i	interj		
+hoplach	hopla:s	subst:pl:loc:f	pospolita	rzad.
+hopla	hopla:s	subst:sg:nom:f	pospolita	rzad.
+hoplami	hopla:s	subst:pl:inst:f	pospolita	rzad.
+hoplą	hopla:s	subst:sg:inst:f	pospolita	rzad.
+hople	hopla:s	subst:pl:acc:f	pospolita	rzad.
+hople	hopla:s	subst:pl:nom:f	pospolita	rzad.
+hople	hopla:s	subst:pl:voc:f	pospolita	rzad.
+hoplę	hopla:s	subst:sg:acc:f	pospolita	rzad.
+hopli	hopla:s	subst:pl:gen:f	pospolita	rzad.
+hopli	hopla:s	subst:sg:dat:f	pospolita	rzad.
+hopli	hopla:s	subst:sg:gen:f	pospolita	rzad.
+hopli	hopla:s	subst:sg:loc:f	pospolita	rzad.
+hoplo	hopla:s	subst:sg:voc:f	pospolita	rzad.
+hoplom	hopla:s	subst:pl:dat:f	pospolita	rzad.
 hoplicie	hoplita	subst:sg:dat:m1	pospolita	
 hoplicie	hoplita	subst:sg:loc:m1	pospolita	
 hoplici	hoplita	subst:pl:nom:m1	pospolita	

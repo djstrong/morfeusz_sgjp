@@ -18244,6 +18244,20 @@ eleatyzmu	eleatyzm	subst:sg:gen:m3	pospolita
 eleatyzmy	eleatyzm	subst:pl:acc:m3	pospolita	
 eleatyzmy	eleatyzm	subst:pl:nom:m3	pospolita	
 eleatyzmy	eleatyzm	subst:pl:voc:m3	pospolita	
+electro	electro	subst:pl:acc:n2	pospolita	
+electro	electro	subst:pl:dat:n2	pospolita	
+electro	electro	subst:pl:gen:n2	pospolita	
+electro	electro	subst:pl:inst:n2	pospolita	
+electro	electro	subst:pl:loc:n2	pospolita	
+electro	electro	subst:pl:nom:n2	pospolita	
+electro	electro	subst:pl:voc:n2	pospolita	
+electro	electro	subst:sg:acc:n2	pospolita	
+electro	electro	subst:sg:dat:n2	pospolita	
+electro	electro	subst:sg:gen:n2	pospolita	
+electro	electro	subst:sg:inst:n2	pospolita	
+electro	electro	subst:sg:loc:n2	pospolita	
+electro	electro	subst:sg:nom:n2	pospolita	
+electro	electro	subst:sg:voc:n2	pospolita	
 elegancikach	elegancik	subst:pl:loc:m1	pospolita	iron.
 elegancika	elegancik	subst:sg:acc:m1	pospolita	iron.
 elegancika	elegancik	subst:sg:gen:m1	pospolita	iron.
