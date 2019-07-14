@@ -2704,20 +2704,20 @@ Tischnery	Tischner	depr:pl:nom:m2	nazwisko
 Tischnery	Tischner	depr:pl:voc:m2	nazwisko	
 Tischnerze	Tischner	subst:sg:loc:m1	nazwisko	
 Tischnerze	Tischner	subst:sg:voc:m1	nazwisko	
-Titanicach	Titanic	subst:pl:loc:m2	środek_lokomocji	
-Titanicami	Titanic	subst:pl:inst:m2	środek_lokomocji	
-Titanica	Titanic	subst:sg:acc:m2	środek_lokomocji	
-Titanica	Titanic	subst:sg:gen:m2	środek_lokomocji	
-Titanicom	Titanic	subst:pl:dat:m2	środek_lokomocji	
-Titanicowi	Titanic	subst:sg:dat:m2	środek_lokomocji	
-Titaniców	Titanic	subst:pl:gen:m2	środek_lokomocji	
-Titanic	Titanic	subst:sg:nom:m2	środek_lokomocji	
-Titanicu	Titanic	subst:sg:loc:m2	środek_lokomocji	
-Titanicu	Titanic	subst:sg:voc:m2	środek_lokomocji	
-Titanikiem	Titanic	subst:sg:inst:m2	środek_lokomocji	
-Titaniki	Titanic	subst:pl:acc:m2	środek_lokomocji	
-Titaniki	Titanic	subst:pl:nom:m2	środek_lokomocji	
-Titaniki	Titanic	subst:pl:voc:m2	środek_lokomocji	
+Titanicach	Titanic	subst:pl:loc:m2	środek lokomocji	
+Titanicami	Titanic	subst:pl:inst:m2	środek lokomocji	
+Titanica	Titanic	subst:sg:acc:m2	środek lokomocji	
+Titanica	Titanic	subst:sg:gen:m2	środek lokomocji	
+Titanicom	Titanic	subst:pl:dat:m2	środek lokomocji	
+Titanicowi	Titanic	subst:sg:dat:m2	środek lokomocji	
+Titaniców	Titanic	subst:pl:gen:m2	środek lokomocji	
+Titanic	Titanic	subst:sg:nom:m2	środek lokomocji	
+Titanicu	Titanic	subst:sg:loc:m2	środek lokomocji	
+Titanicu	Titanic	subst:sg:voc:m2	środek lokomocji	
+Titanikiem	Titanic	subst:sg:inst:m2	środek lokomocji	
+Titaniki	Titanic	subst:pl:acc:m2	środek lokomocji	
+Titaniki	Titanic	subst:pl:nom:m2	środek lokomocji	
+Titaniki	Titanic	subst:pl:voc:m2	środek lokomocji	
 Ticie	Tito	subst:sg:dat:m1	nazwisko	
 Ticie	Tito	subst:sg:loc:m1	nazwisko	
 Titach	Tito	subst:pl:loc:m1	nazwisko	
@@ -3925,22 +3925,22 @@ Tośki	Tośka	subst:pl:voc:f	imię
 Tośki	Tośka	subst:sg:gen:f	imię	
 Tośkom	Tośka	subst:pl:dat:f	imię	
 Tośko	Tośka	subst:sg:voc:f	imię	
-Toulouse	Toulouse	depr:pl:nom:m2	człon_nazwiska	
-Toulouse	Toulouse	depr:pl:voc:m2	człon_nazwiska	
-Toulouse	Toulouse	subst:pl:acc:m1	człon_nazwiska	
-Toulouse	Toulouse	subst:pl:dat:m1	człon_nazwiska	
-Toulouse	Toulouse	subst:pl:gen:m1	człon_nazwiska	
-Toulouse	Toulouse	subst:pl:inst:m1	człon_nazwiska	
-Toulouse	Toulouse	subst:pl:loc:m1	człon_nazwiska	
-Toulouse	Toulouse	subst:pl:nom:m1	człon_nazwiska	
-Toulouse	Toulouse	subst:pl:voc:m1	człon_nazwiska	
-Toulouse	Toulouse	subst:sg:acc:m1	człon_nazwiska	
-Toulouse	Toulouse	subst:sg:dat:m1	człon_nazwiska	
-Toulouse	Toulouse	subst:sg:gen:m1	człon_nazwiska	
-Toulouse	Toulouse	subst:sg:inst:m1	człon_nazwiska	
-Toulouse	Toulouse	subst:sg:loc:m1	człon_nazwiska	
-Toulouse	Toulouse	subst:sg:nom:m1	człon_nazwiska	
-Toulouse	Toulouse	subst:sg:voc:m1	człon_nazwiska	
+Toulouse	Toulouse	depr:pl:nom:m2	człon nazwiska	
+Toulouse	Toulouse	depr:pl:voc:m2	człon nazwiska	
+Toulouse	Toulouse	subst:pl:acc:m1	człon nazwiska	
+Toulouse	Toulouse	subst:pl:dat:m1	człon nazwiska	
+Toulouse	Toulouse	subst:pl:gen:m1	człon nazwiska	
+Toulouse	Toulouse	subst:pl:inst:m1	człon nazwiska	
+Toulouse	Toulouse	subst:pl:loc:m1	człon nazwiska	
+Toulouse	Toulouse	subst:pl:nom:m1	człon nazwiska	
+Toulouse	Toulouse	subst:pl:voc:m1	człon nazwiska	
+Toulouse	Toulouse	subst:sg:acc:m1	człon nazwiska	
+Toulouse	Toulouse	subst:sg:dat:m1	człon nazwiska	
+Toulouse	Toulouse	subst:sg:gen:m1	człon nazwiska	
+Toulouse	Toulouse	subst:sg:inst:m1	człon nazwiska	
+Toulouse	Toulouse	subst:sg:loc:m1	człon nazwiska	
+Toulouse	Toulouse	subst:sg:nom:m1	człon nazwiska	
+Toulouse	Toulouse	subst:sg:voc:m1	człon nazwiska	
 Tour	Tour	subst:pl:acc:m3	własna	człon_n._wł.
 Tour	Tour	subst:pl:dat:m3	własna	człon_n._wł.
 Tour	Tour	subst:pl:gen:m3	własna	człon_n._wł.

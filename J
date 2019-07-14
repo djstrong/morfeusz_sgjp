@@ -556,22 +556,22 @@ Jaggery	Jagger	depr:pl:nom:m2	nazwisko
 Jaggery	Jagger	depr:pl:voc:m2	nazwisko	
 Jaggerze	Jagger	subst:sg:loc:m1	nazwisko	
 Jaggerze	Jagger	subst:sg:voc:m1	nazwisko	
-Jagiellonach	Jagiellon	subst:pl:loc:m1	członek_rodu	
-Jagiellona	Jagiellon	subst:sg:acc:m1	członek_rodu	
-Jagiellona	Jagiellon	subst:sg:gen:m1	członek_rodu	
-Jagiellonami	Jagiellon	subst:pl:inst:m1	członek_rodu	
-Jagiellonem	Jagiellon	subst:sg:inst:m1	członek_rodu	
-Jagiellonie	Jagiellon	subst:sg:loc:m1	członek_rodu	
-Jagiellonie	Jagiellon	subst:sg:voc:m1	członek_rodu	
-Jagiellon	Jagiellon	subst:sg:nom:m1	członek_rodu	
-Jagiellonom	Jagiellon	subst:pl:dat:m1	członek_rodu	
-Jagiellonowie	Jagiellon	subst:pl:nom:m1	członek_rodu	
-Jagiellonowie	Jagiellon	subst:pl:voc:m1	członek_rodu	
-Jagiellonowi	Jagiellon	subst:sg:dat:m1	członek_rodu	
-Jagiellonów	Jagiellon	subst:pl:acc:m1	członek_rodu	
-Jagiellonów	Jagiellon	subst:pl:gen:m1	członek_rodu	
-Jagiellony	Jagiellon	depr:pl:nom:m2	członek_rodu	
-Jagiellony	Jagiellon	depr:pl:voc:m2	członek_rodu	
+Jagiellonach	Jagiellon	subst:pl:loc:m1	członek rodu	
+Jagiellona	Jagiellon	subst:sg:acc:m1	członek rodu	
+Jagiellona	Jagiellon	subst:sg:gen:m1	członek rodu	
+Jagiellonami	Jagiellon	subst:pl:inst:m1	członek rodu	
+Jagiellonem	Jagiellon	subst:sg:inst:m1	członek rodu	
+Jagiellonie	Jagiellon	subst:sg:loc:m1	członek rodu	
+Jagiellonie	Jagiellon	subst:sg:voc:m1	członek rodu	
+Jagiellon	Jagiellon	subst:sg:nom:m1	członek rodu	
+Jagiellonom	Jagiellon	subst:pl:dat:m1	członek rodu	
+Jagiellonowie	Jagiellon	subst:pl:nom:m1	członek rodu	
+Jagiellonowie	Jagiellon	subst:pl:voc:m1	członek rodu	
+Jagiellonowi	Jagiellon	subst:sg:dat:m1	członek rodu	
+Jagiellonów	Jagiellon	subst:pl:acc:m1	członek rodu	
+Jagiellonów	Jagiellon	subst:pl:gen:m1	członek rodu	
+Jagiellony	Jagiellon	depr:pl:nom:m2	członek rodu	
+Jagiellony	Jagiellon	depr:pl:voc:m2	członek rodu	
 Jagielloniach	Jagiellonia	subst:pl:loc:f	organizacja	
 Jagiellonia	Jagiellonia	subst:sg:nom:f	organizacja	
 Jagielloniami	Jagiellonia	subst:pl:inst:f	organizacja	
@@ -1693,42 +1693,24 @@ Janostwo	Janostwo	subst:pl:nom:p1	pospolita	przest.
 Janostwo	Janostwo	subst:pl:voc:p1	pospolita	przest.
 Janostwu	Janostwo	subst:pl:dat:p1	pospolita	przest.
 Janostwu	Janostwo	subst:pl:loc:p1	pospolita	przest.
-Janoszach	Janosz	subst:pl:loc:m1	imię	
-Janoszach	Janosz	subst:pl:loc:m1	nazwisko	
-Janosza	Janosz	subst:sg:acc:m1	imię	
-Janosza	Janosz	subst:sg:acc:m1	nazwisko	
-Janosza	Janosz	subst:sg:gen:m1	imię	
-Janosza	Janosz	subst:sg:gen:m1	nazwisko	
-Janoszami	Janosz	subst:pl:inst:m1	imię	
-Janoszami	Janosz	subst:pl:inst:m1	nazwisko	
-Janosze	Janosz	depr:pl:nom:m2	imię	
-Janosze	Janosz	depr:pl:nom:m2	nazwisko	
-Janosze	Janosz	depr:pl:voc:m2	imię	
-Janosze	Janosz	depr:pl:voc:m2	nazwisko	
-Janosze	Janosz	subst:pl:nom:m1	imię	
-Janosze	Janosz	subst:pl:nom:m1	nazwisko	
-Janosze	Janosz	subst:pl:voc:m1	imię	
-Janosze	Janosz	subst:pl:voc:m1	nazwisko	
-Janoszem	Janosz	subst:sg:inst:m1	imię	
-Janoszem	Janosz	subst:sg:inst:m1	nazwisko	
-Janosz	Janosz	subst:sg:nom:m1	imię	
-Janosz	Janosz	subst:sg:nom:m1	nazwisko	
-Janoszom	Janosz	subst:pl:dat:m1	imię	
-Janoszom	Janosz	subst:pl:dat:m1	nazwisko	
-Janoszowie	Janosz	subst:pl:nom:m1	imię	
-Janoszowie	Janosz	subst:pl:nom:m1	nazwisko	
-Janoszowie	Janosz	subst:pl:voc:m1	imię	
-Janoszowie	Janosz	subst:pl:voc:m1	nazwisko	
-Janoszowi	Janosz	subst:sg:dat:m1	imię	
-Janoszowi	Janosz	subst:sg:dat:m1	nazwisko	
-Janoszów	Janosz	subst:pl:acc:m1	imię	
-Janoszów	Janosz	subst:pl:acc:m1	nazwisko	
-Janoszów	Janosz	subst:pl:gen:m1	imię	
-Janoszów	Janosz	subst:pl:gen:m1	nazwisko	
-Janoszu	Janosz	subst:sg:loc:m1	imię	
-Janoszu	Janosz	subst:sg:loc:m1	nazwisko	
-Janoszu	Janosz	subst:sg:voc:m1	imię	
-Janoszu	Janosz	subst:sg:voc:m1	nazwisko	
+Janoszach	Janosz	subst:pl:loc:m1	imię|nazwisko	
+Janosza	Janosz	subst:sg:acc:m1	imię|nazwisko	
+Janosza	Janosz	subst:sg:gen:m1	imię|nazwisko	
+Janoszami	Janosz	subst:pl:inst:m1	imię|nazwisko	
+Janosze	Janosz	depr:pl:nom:m2	imię|nazwisko	
+Janosze	Janosz	depr:pl:voc:m2	imię|nazwisko	
+Janosze	Janosz	subst:pl:nom:m1	imię|nazwisko	
+Janosze	Janosz	subst:pl:voc:m1	imię|nazwisko	
+Janoszem	Janosz	subst:sg:inst:m1	imię|nazwisko	
+Janosz	Janosz	subst:sg:nom:m1	imię|nazwisko	
+Janoszom	Janosz	subst:pl:dat:m1	imię|nazwisko	
+Janoszowie	Janosz	subst:pl:nom:m1	imię|nazwisko	
+Janoszowie	Janosz	subst:pl:voc:m1	imię|nazwisko	
+Janoszowi	Janosz	subst:sg:dat:m1	imię|nazwisko	
+Janoszów	Janosz	subst:pl:acc:m1	imię|nazwisko	
+Janoszów	Janosz	subst:pl:gen:m1	imię|nazwisko	
+Janoszu	Janosz	subst:sg:loc:m1	imię|nazwisko	
+Janoszu	Janosz	subst:sg:voc:m1	imię|nazwisko	
 Janowicach	Janowice	subst:pl:loc:p2	geograficzna	rzad.
 Janowicach	Janowice	subst:pl:loc:p3	geograficzna	
 Janowicami	Janowice	subst:pl:inst:p2	geograficzna	rzad.
@@ -2183,38 +2165,22 @@ Jarków	Jarek	subst:pl:acc:m1	imię
 Jarków	Jarek	subst:pl:gen:m1	imię	
 Jarku	Jarek	subst:sg:loc:m1	imię	
 Jarku	Jarek	subst:sg:voc:m1	imię	
-Jaremach	Jarema	subst:pl:loc:m1	imię	
-Jaremach	Jarema	subst:pl:loc:m1	nazwisko	
-Jarema	Jarema	subst:sg:nom:m1	imię	
-Jarema	Jarema	subst:sg:nom:m1	nazwisko	
-Jaremami	Jarema	subst:pl:inst:m1	imię	
-Jaremami	Jarema	subst:pl:inst:m1	nazwisko	
-Jaremą	Jarema	subst:sg:inst:m1	imię	
-Jaremą	Jarema	subst:sg:inst:m1	nazwisko	
-Jaremę	Jarema	subst:sg:acc:m1	imię	
-Jaremę	Jarema	subst:sg:acc:m1	nazwisko	
-Jaremie	Jarema	subst:sg:dat:m1	imię	
-Jaremie	Jarema	subst:sg:dat:m1	nazwisko	
-Jaremie	Jarema	subst:sg:loc:m1	imię	
-Jaremie	Jarema	subst:sg:loc:m1	nazwisko	
-Jaremo	Jarema	subst:sg:voc:m1	imię	
-Jaremo	Jarema	subst:sg:voc:m1	nazwisko	
-Jaremom	Jarema	subst:pl:dat:m1	imię	
-Jaremom	Jarema	subst:pl:dat:m1	nazwisko	
-Jaremowie	Jarema	subst:pl:nom:m1	imię	
-Jaremowie	Jarema	subst:pl:nom:m1	nazwisko	
-Jaremowie	Jarema	subst:pl:voc:m1	imię	
-Jaremowie	Jarema	subst:pl:voc:m1	nazwisko	
-Jaremów	Jarema	subst:pl:acc:m1	imię	
-Jaremów	Jarema	subst:pl:acc:m1	nazwisko	
-Jaremów	Jarema	subst:pl:gen:m1	imię	
-Jaremów	Jarema	subst:pl:gen:m1	nazwisko	
-Jaremy	Jarema	depr:pl:nom:m2	imię	
-Jaremy	Jarema	depr:pl:nom:m2	nazwisko	
-Jaremy	Jarema	depr:pl:voc:m2	imię	
-Jaremy	Jarema	depr:pl:voc:m2	nazwisko	
-Jaremy	Jarema	subst:sg:gen:m1	imię	
-Jaremy	Jarema	subst:sg:gen:m1	nazwisko	
+Jaremach	Jarema	subst:pl:loc:m1	imię|nazwisko	
+Jarema	Jarema	subst:sg:nom:m1	imię|nazwisko	
+Jaremami	Jarema	subst:pl:inst:m1	imię|nazwisko	
+Jaremą	Jarema	subst:sg:inst:m1	imię|nazwisko	
+Jaremę	Jarema	subst:sg:acc:m1	imię|nazwisko	
+Jaremie	Jarema	subst:sg:dat:m1	imię|nazwisko	
+Jaremie	Jarema	subst:sg:loc:m1	imię|nazwisko	
+Jaremo	Jarema	subst:sg:voc:m1	imię|nazwisko	
+Jaremom	Jarema	subst:pl:dat:m1	imię|nazwisko	
+Jaremowie	Jarema	subst:pl:nom:m1	imię|nazwisko	
+Jaremowie	Jarema	subst:pl:voc:m1	imię|nazwisko	
+Jaremów	Jarema	subst:pl:acc:m1	imię|nazwisko	
+Jaremów	Jarema	subst:pl:gen:m1	imię|nazwisko	
+Jaremy	Jarema	depr:pl:nom:m2	imię|nazwisko	
+Jaremy	Jarema	depr:pl:voc:m2	imię|nazwisko	
+Jaremy	Jarema	subst:sg:gen:m1	imię|nazwisko	
 Jarce	Jarka	subst:sg:dat:f	imię	
 Jarce	Jarka	subst:sg:loc:f	imię	
 Jarek	Jarka	subst:pl:gen:f	imię	
@@ -2681,38 +2647,22 @@ Jaśków	Jasiek	subst:pl:acc:m1	imię
 Jaśków	Jasiek	subst:pl:gen:m1	imię	
 Jaśku	Jasiek	subst:sg:loc:m1	imię	
 Jaśku	Jasiek	subst:sg:voc:m1	imię	
-Jasienicach	Jasienica:s1	subst:pl:loc:m1	nazwisko	
-Jasienicach	Jasienica:s1	subst:pl:loc:m1	pseudonim	
-Jasienica	Jasienica:s1	subst:sg:nom:m1	nazwisko	
-Jasienica	Jasienica:s1	subst:sg:nom:m1	pseudonim	
-Jasienicami	Jasienica:s1	subst:pl:inst:m1	nazwisko	
-Jasienicami	Jasienica:s1	subst:pl:inst:m1	pseudonim	
-Jasienicą	Jasienica:s1	subst:sg:inst:m1	nazwisko	
-Jasienicą	Jasienica:s1	subst:sg:inst:m1	pseudonim	
-Jasienice	Jasienica:s1	depr:pl:nom:m2	nazwisko	
-Jasienice	Jasienica:s1	depr:pl:nom:m2	pseudonim	
-Jasienice	Jasienica:s1	depr:pl:voc:m2	nazwisko	
-Jasienice	Jasienica:s1	depr:pl:voc:m2	pseudonim	
-Jasienicę	Jasienica:s1	subst:sg:acc:m1	nazwisko	
-Jasienicę	Jasienica:s1	subst:sg:acc:m1	pseudonim	
-Jasienico	Jasienica:s1	subst:sg:voc:m1	nazwisko	
-Jasienico	Jasienica:s1	subst:sg:voc:m1	pseudonim	
-Jasienicom	Jasienica:s1	subst:pl:dat:m1	nazwisko	
-Jasienicom	Jasienica:s1	subst:pl:dat:m1	pseudonim	
-Jasienicowie	Jasienica:s1	subst:pl:nom:m1	nazwisko	
-Jasienicowie	Jasienica:s1	subst:pl:nom:m1	pseudonim	
-Jasienicowie	Jasienica:s1	subst:pl:voc:m1	nazwisko	
-Jasienicowie	Jasienica:s1	subst:pl:voc:m1	pseudonim	
-Jasieniców	Jasienica:s1	subst:pl:acc:m1	nazwisko	
-Jasieniców	Jasienica:s1	subst:pl:acc:m1	pseudonim	
-Jasieniców	Jasienica:s1	subst:pl:gen:m1	nazwisko	
-Jasieniców	Jasienica:s1	subst:pl:gen:m1	pseudonim	
-Jasienicy	Jasienica:s1	subst:sg:dat:m1	nazwisko	
-Jasienicy	Jasienica:s1	subst:sg:dat:m1	pseudonim	
-Jasienicy	Jasienica:s1	subst:sg:gen:m1	nazwisko	
-Jasienicy	Jasienica:s1	subst:sg:gen:m1	pseudonim	
-Jasienicy	Jasienica:s1	subst:sg:loc:m1	nazwisko	
-Jasienicy	Jasienica:s1	subst:sg:loc:m1	pseudonim	
+Jasienicach	Jasienica:s1	subst:pl:loc:m1	nazwisko|pseudonim	
+Jasienica	Jasienica:s1	subst:sg:nom:m1	nazwisko|pseudonim	
+Jasienicami	Jasienica:s1	subst:pl:inst:m1	nazwisko|pseudonim	
+Jasienicą	Jasienica:s1	subst:sg:inst:m1	nazwisko|pseudonim	
+Jasienice	Jasienica:s1	depr:pl:nom:m2	nazwisko|pseudonim	
+Jasienice	Jasienica:s1	depr:pl:voc:m2	nazwisko|pseudonim	
+Jasienicę	Jasienica:s1	subst:sg:acc:m1	nazwisko|pseudonim	
+Jasienico	Jasienica:s1	subst:sg:voc:m1	nazwisko|pseudonim	
+Jasienicom	Jasienica:s1	subst:pl:dat:m1	nazwisko|pseudonim	
+Jasienicowie	Jasienica:s1	subst:pl:nom:m1	nazwisko|pseudonim	
+Jasienicowie	Jasienica:s1	subst:pl:voc:m1	nazwisko|pseudonim	
+Jasieniców	Jasienica:s1	subst:pl:acc:m1	nazwisko|pseudonim	
+Jasieniców	Jasienica:s1	subst:pl:gen:m1	nazwisko|pseudonim	
+Jasienicy	Jasienica:s1	subst:sg:dat:m1	nazwisko|pseudonim	
+Jasienicy	Jasienica:s1	subst:sg:gen:m1	nazwisko|pseudonim	
+Jasienicy	Jasienica:s1	subst:sg:loc:m1	nazwisko|pseudonim	
 Jasienicach	Jasienica:s2	subst:pl:loc:f	geograficzna	
 Jasienica	Jasienica:s2	subst:sg:nom:f	geograficzna	
 Jasienicami	Jasienica:s2	subst:pl:inst:f	geograficzna	
@@ -3201,47 +3151,47 @@ Jaśliskom	Jaśliska	subst:pl:dat:p2	geograficzna
 Jaśliskom	Jaśliska	subst:pl:dat:p3	geograficzna	
 JWP	Jaśnie_Wielmożna_Pani	brev:npun		daw.
 JWP	Jaśnie_Wielmożny_Pan	brev:npun		daw.
-Javach	Java	subst:pl:loc:f	język_programowania	komp.
-Java	Java	subst:pl:acc:f	język_programowania	komp.
-Java	Java	subst:pl:dat:f	język_programowania	komp.
-Java	Java	subst:pl:gen:f	język_programowania	komp.
-Java	Java	subst:pl:inst:f	język_programowania	komp.
-Java	Java	subst:pl:loc:f	język_programowania	komp.
-Java	Java	subst:pl:nom:f	język_programowania	komp.
-Java	Java	subst:pl:voc:f	język_programowania	komp.
-Java	Java	subst:sg:acc:f	język_programowania	komp.
-Java	Java	subst:sg:dat:f	język_programowania	komp.
-Java	Java	subst:sg:gen:f	język_programowania	komp.
-Java	Java	subst:sg:inst:f	język_programowania	komp.
-Java	Java	subst:sg:loc:f	język_programowania	komp.
-Java	Java	subst:sg:nom:f	język_programowania	komp.
-Java	Java	subst:sg:voc:f	język_programowania	komp.
-Javami	Java	subst:pl:inst:f	język_programowania	komp.
-Javą	Java	subst:sg:inst:f	język_programowania	komp.
-Javę	Java	subst:sg:acc:f	język_programowania	komp.
-Javie	Java	subst:sg:dat:f	język_programowania	komp.
-Javie	Java	subst:sg:loc:f	język_programowania	komp.
-Jav	Java	subst:pl:gen:f	język_programowania	komp.
-Javo	Java	subst:sg:voc:f	język_programowania	komp.
-Javom	Java	subst:pl:dat:f	język_programowania	komp.
-Javy	Java	subst:pl:acc:f	język_programowania	komp.
-Javy	Java	subst:pl:nom:f	język_programowania	komp.
-Javy	Java	subst:pl:voc:f	język_programowania	komp.
-Javy	Java	subst:sg:gen:f	język_programowania	komp.
-JavaScripcie	JavaScript	subst:sg:loc:m3	język_programowania	komp.
-JavaScripcie	JavaScript	subst:sg:voc:m3	język_programowania	komp.
-JavaScriptach	JavaScript	subst:pl:loc:m3	język_programowania	komp.
-JavaScriptami	JavaScript	subst:pl:inst:m3	język_programowania	komp.
-JavaScriptem	JavaScript	subst:sg:inst:m3	język_programowania	komp.
-JavaScript	JavaScript	subst:sg:acc:m3	język_programowania	komp.
-JavaScript	JavaScript	subst:sg:nom:m3	język_programowania	komp.
-JavaScriptom	JavaScript	subst:pl:dat:m3	język_programowania	komp.
-JavaScriptowi	JavaScript	subst:sg:dat:m3	język_programowania	komp.
-JavaScriptów	JavaScript	subst:pl:gen:m3	język_programowania	komp.
-JavaScriptu	JavaScript	subst:sg:gen:m3	język_programowania	komp.
-JavaScripty	JavaScript	subst:pl:acc:m3	język_programowania	komp.
-JavaScripty	JavaScript	subst:pl:nom:m3	język_programowania	komp.
-JavaScripty	JavaScript	subst:pl:voc:m3	język_programowania	komp.
+Javach	Java	subst:pl:loc:f	język programowania	komp.
+Java	Java	subst:pl:acc:f	język programowania	komp.
+Java	Java	subst:pl:dat:f	język programowania	komp.
+Java	Java	subst:pl:gen:f	język programowania	komp.
+Java	Java	subst:pl:inst:f	język programowania	komp.
+Java	Java	subst:pl:loc:f	język programowania	komp.
+Java	Java	subst:pl:nom:f	język programowania	komp.
+Java	Java	subst:pl:voc:f	język programowania	komp.
+Java	Java	subst:sg:acc:f	język programowania	komp.
+Java	Java	subst:sg:dat:f	język programowania	komp.
+Java	Java	subst:sg:gen:f	język programowania	komp.
+Java	Java	subst:sg:inst:f	język programowania	komp.
+Java	Java	subst:sg:loc:f	język programowania	komp.
+Java	Java	subst:sg:nom:f	język programowania	komp.
+Java	Java	subst:sg:voc:f	język programowania	komp.
+Javami	Java	subst:pl:inst:f	język programowania	komp.
+Javą	Java	subst:sg:inst:f	język programowania	komp.
+Javę	Java	subst:sg:acc:f	język programowania	komp.
+Javie	Java	subst:sg:dat:f	język programowania	komp.
+Javie	Java	subst:sg:loc:f	język programowania	komp.
+Jav	Java	subst:pl:gen:f	język programowania	komp.
+Javo	Java	subst:sg:voc:f	język programowania	komp.
+Javom	Java	subst:pl:dat:f	język programowania	komp.
+Javy	Java	subst:pl:acc:f	język programowania	komp.
+Javy	Java	subst:pl:nom:f	język programowania	komp.
+Javy	Java	subst:pl:voc:f	język programowania	komp.
+Javy	Java	subst:sg:gen:f	język programowania	komp.
+JavaScripcie	JavaScript	subst:sg:loc:m3	język programowania	komp.
+JavaScripcie	JavaScript	subst:sg:voc:m3	język programowania	komp.
+JavaScriptach	JavaScript	subst:pl:loc:m3	język programowania	komp.
+JavaScriptami	JavaScript	subst:pl:inst:m3	język programowania	komp.
+JavaScriptem	JavaScript	subst:sg:inst:m3	język programowania	komp.
+JavaScript	JavaScript	subst:sg:acc:m3	język programowania	komp.
+JavaScript	JavaScript	subst:sg:nom:m3	język programowania	komp.
+JavaScriptom	JavaScript	subst:pl:dat:m3	język programowania	komp.
+JavaScriptowi	JavaScript	subst:sg:dat:m3	język programowania	komp.
+JavaScriptów	JavaScript	subst:pl:gen:m3	język programowania	komp.
+JavaScriptu	JavaScript	subst:sg:gen:m3	język programowania	komp.
+JavaScripty	JavaScript	subst:pl:acc:m3	język programowania	komp.
+JavaScripty	JavaScript	subst:pl:nom:m3	język programowania	komp.
+JavaScripty	JavaScript	subst:pl:voc:m3	język programowania	komp.
 Jawach	Jawa	subst:pl:loc:f	geograficzna	
 Jawa	Jawa	subst:sg:nom:f	geograficzna	
 Jawami	Jawa	subst:pl:inst:f	geograficzna	
@@ -3916,22 +3866,22 @@ Jesieninów	Jesienin	subst:pl:acc:m1	nazwisko
 Jesieninów	Jesienin	subst:pl:gen:m1	nazwisko	
 Jesieniny	Jesienin	depr:pl:nom:m2	nazwisko	
 Jesieniny	Jesienin	depr:pl:voc:m2	nazwisko	
-Jeske	Jeske	depr:pl:nom:m2	człon_nazwiska_(herb)	
-Jeske	Jeske	depr:pl:voc:m2	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:pl:acc:m1	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:pl:dat:m1	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:pl:gen:m1	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:pl:inst:m1	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:pl:loc:m1	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:pl:nom:m1	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:pl:voc:m1	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:sg:acc:m1	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:sg:dat:m1	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:sg:gen:m1	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:sg:inst:m1	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:sg:loc:m1	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:sg:nom:m1	człon_nazwiska_(herb)	
-Jeske	Jeske	subst:sg:voc:m1	człon_nazwiska_(herb)	
+Jeske	Jeske	depr:pl:nom:m2	człon nazwiska (herb)	
+Jeske	Jeske	depr:pl:voc:m2	człon nazwiska (herb)	
+Jeske	Jeske	subst:pl:acc:m1	człon nazwiska (herb)	
+Jeske	Jeske	subst:pl:dat:m1	człon nazwiska (herb)	
+Jeske	Jeske	subst:pl:gen:m1	człon nazwiska (herb)	
+Jeske	Jeske	subst:pl:inst:m1	człon nazwiska (herb)	
+Jeske	Jeske	subst:pl:loc:m1	człon nazwiska (herb)	
+Jeske	Jeske	subst:pl:nom:m1	człon nazwiska (herb)	
+Jeske	Jeske	subst:pl:voc:m1	człon nazwiska (herb)	
+Jeske	Jeske	subst:sg:acc:m1	człon nazwiska (herb)	
+Jeske	Jeske	subst:sg:dat:m1	człon nazwiska (herb)	
+Jeske	Jeske	subst:sg:gen:m1	człon nazwiska (herb)	
+Jeske	Jeske	subst:sg:inst:m1	człon nazwiska (herb)	
+Jeske	Jeske	subst:sg:loc:m1	człon nazwiska (herb)	
+Jeske	Jeske	subst:sg:nom:m1	człon nazwiska (herb)	
+Jeske	Jeske	subst:sg:voc:m1	człon nazwiska (herb)	
 Jeszuach	Jeszua	subst:pl:loc:m1	imię	
 Jeszua	Jeszua	subst:sg:nom:m1	imię	
 Jeszuami	Jeszua	subst:pl:inst:m1	imię	
@@ -4674,38 +4624,22 @@ Johannesburgowi	Johannesburg	subst:sg:dat:m3	geograficzna
 Johannesburgów	Johannesburg	subst:pl:gen:m3	geograficzna	
 Johannesburgu	Johannesburg	subst:sg:loc:m3	geograficzna	
 Johannesburgu	Johannesburg	subst:sg:voc:m3	geograficzna	
-Johnach	John	subst:pl:loc:m1	imię	
-Johnach	John	subst:pl:loc:m1	nazwisko	
-Johna	John	subst:sg:acc:m1	imię	
-Johna	John	subst:sg:acc:m1	nazwisko	
-Johna	John	subst:sg:gen:m1	imię	
-Johna	John	subst:sg:gen:m1	nazwisko	
-Johnami	John	subst:pl:inst:m1	imię	
-Johnami	John	subst:pl:inst:m1	nazwisko	
-Johnem	John	subst:sg:inst:m1	imię	
-Johnem	John	subst:sg:inst:m1	nazwisko	
-Johnie	John	subst:sg:loc:m1	imię	
-Johnie	John	subst:sg:loc:m1	nazwisko	
-Johnie	John	subst:sg:voc:m1	imię	
-Johnie	John	subst:sg:voc:m1	nazwisko	
-John	John	subst:sg:nom:m1	imię	
-John	John	subst:sg:nom:m1	nazwisko	
-Johnom	John	subst:pl:dat:m1	imię	
-Johnom	John	subst:pl:dat:m1	nazwisko	
-Johnowie	John	subst:pl:nom:m1	imię	
-Johnowie	John	subst:pl:nom:m1	nazwisko	
-Johnowie	John	subst:pl:voc:m1	imię	
-Johnowie	John	subst:pl:voc:m1	nazwisko	
-Johnowi	John	subst:sg:dat:m1	imię	
-Johnowi	John	subst:sg:dat:m1	nazwisko	
-Johnów	John	subst:pl:acc:m1	imię	
-Johnów	John	subst:pl:acc:m1	nazwisko	
-Johnów	John	subst:pl:gen:m1	imię	
-Johnów	John	subst:pl:gen:m1	nazwisko	
-Johny	John	depr:pl:nom:m2	imię	
-Johny	John	depr:pl:nom:m2	nazwisko	
-Johny	John	depr:pl:voc:m2	imię	
-Johny	John	depr:pl:voc:m2	nazwisko	
+Johnach	John	subst:pl:loc:m1	imię|nazwisko	
+Johna	John	subst:sg:acc:m1	imię|nazwisko	
+Johna	John	subst:sg:gen:m1	imię|nazwisko	
+Johnami	John	subst:pl:inst:m1	imię|nazwisko	
+Johnem	John	subst:sg:inst:m1	imię|nazwisko	
+Johnie	John	subst:sg:loc:m1	imię|nazwisko	
+Johnie	John	subst:sg:voc:m1	imię|nazwisko	
+John	John	subst:sg:nom:m1	imię|nazwisko	
+Johnom	John	subst:pl:dat:m1	imię|nazwisko	
+Johnowie	John	subst:pl:nom:m1	imię|nazwisko	
+Johnowie	John	subst:pl:voc:m1	imię|nazwisko	
+Johnowi	John	subst:sg:dat:m1	imię|nazwisko	
+Johnów	John	subst:pl:acc:m1	imię|nazwisko	
+Johnów	John	subst:pl:gen:m1	imię|nazwisko	
+Johny	John	depr:pl:nom:m2	imię|nazwisko	
+Johny	John	depr:pl:voc:m2	imię|nazwisko	
 Johnsonach	Johnson	subst:pl:loc:m1	nazwisko	
 Johnsona	Johnson	subst:sg:acc:m1	nazwisko	
 Johnsona	Johnson	subst:sg:gen:m1	nazwisko	
@@ -6116,38 +6050,22 @@ Jureczków	Jureczek	subst:pl:acc:m1	imię
 Jureczków	Jureczek	subst:pl:gen:m1	imię	
 Jureczku	Jureczek	subst:sg:loc:m1	imię	
 Jureczku	Jureczek	subst:sg:voc:m1	imię	
-Jurek	Jurek	subst:sg:nom:m1	imię	
-Jurek	Jurek	subst:sg:nom:m1	nazwisko	
-Jurkach	Jurek	subst:pl:loc:m1	imię	
-Jurkach	Jurek	subst:pl:loc:m1	nazwisko	
-Jurka	Jurek	subst:sg:acc:m1	imię	
-Jurka	Jurek	subst:sg:acc:m1	nazwisko	
-Jurka	Jurek	subst:sg:gen:m1	imię	
-Jurka	Jurek	subst:sg:gen:m1	nazwisko	
-Jurkami	Jurek	subst:pl:inst:m1	imię	
-Jurkami	Jurek	subst:pl:inst:m1	nazwisko	
-Jurkiem	Jurek	subst:sg:inst:m1	imię	
-Jurkiem	Jurek	subst:sg:inst:m1	nazwisko	
-Jurki	Jurek	depr:pl:nom:m2	imię	
-Jurki	Jurek	depr:pl:nom:m2	nazwisko	
-Jurki	Jurek	depr:pl:voc:m2	imię	
-Jurki	Jurek	depr:pl:voc:m2	nazwisko	
-Jurkom	Jurek	subst:pl:dat:m1	imię	
-Jurkom	Jurek	subst:pl:dat:m1	nazwisko	
-Jurkowie	Jurek	subst:pl:nom:m1	imię	
-Jurkowie	Jurek	subst:pl:nom:m1	nazwisko	
-Jurkowie	Jurek	subst:pl:voc:m1	imię	
-Jurkowie	Jurek	subst:pl:voc:m1	nazwisko	
-Jurkowi	Jurek	subst:sg:dat:m1	imię	
-Jurkowi	Jurek	subst:sg:dat:m1	nazwisko	
-Jurków	Jurek	subst:pl:acc:m1	imię	
-Jurków	Jurek	subst:pl:acc:m1	nazwisko	
-Jurków	Jurek	subst:pl:gen:m1	imię	
-Jurków	Jurek	subst:pl:gen:m1	nazwisko	
-Jurku	Jurek	subst:sg:loc:m1	imię	
-Jurku	Jurek	subst:sg:loc:m1	nazwisko	
-Jurku	Jurek	subst:sg:voc:m1	imię	
-Jurku	Jurek	subst:sg:voc:m1	nazwisko	
+Jurek	Jurek	subst:sg:nom:m1	imię|nazwisko	
+Jurkach	Jurek	subst:pl:loc:m1	imię|nazwisko	
+Jurka	Jurek	subst:sg:acc:m1	imię|nazwisko	
+Jurka	Jurek	subst:sg:gen:m1	imię|nazwisko	
+Jurkami	Jurek	subst:pl:inst:m1	imię|nazwisko	
+Jurkiem	Jurek	subst:sg:inst:m1	imię|nazwisko	
+Jurki	Jurek	depr:pl:nom:m2	imię|nazwisko	
+Jurki	Jurek	depr:pl:voc:m2	imię|nazwisko	
+Jurkom	Jurek	subst:pl:dat:m1	imię|nazwisko	
+Jurkowie	Jurek	subst:pl:nom:m1	imię|nazwisko	
+Jurkowie	Jurek	subst:pl:voc:m1	imię|nazwisko	
+Jurkowi	Jurek	subst:sg:dat:m1	imię|nazwisko	
+Jurków	Jurek	subst:pl:acc:m1	imię|nazwisko	
+Jurków	Jurek	subst:pl:gen:m1	imię|nazwisko	
+Jurku	Jurek	subst:sg:loc:m1	imię|nazwisko	
+Jurku	Jurek	subst:sg:voc:m1	imię|nazwisko	
 Jurgowach	Jurgów	subst:pl:loc:m3	geograficzna	
 Jurgowa	Jurgów	subst:sg:gen:m3	geograficzna	
 Jurgowami	Jurgów	subst:pl:inst:m3	geograficzna	

@@ -1828,7 +1828,7 @@ edytujemy	edytować	fin:pl:pri:imperf
 edytujesz	edytować	fin:sg:sec:imperf		
 edytuję	edytować	fin:sg:pri:imperf		
 edytujmy	edytować	impt:pl:pri:imperf		
-ee	ee	qub		
+ee	ee	interj		
 e-e	e-e	interj		
 eee	eee	interj		
 efebach	efeb	subst:pl:loc:m1	pospolita	hist.

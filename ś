@@ -2096,6 +2096,20 @@
 ściemniałym	ściemniały	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ściemniały	ściemniały	adj:sg:acc:m3:pos		
 ściemniały	ściemniały	adj:sg:nom.voc:m1.m2.m3:pos		
+ściemniarach	ściemniara	subst:pl:loc:f	pospolita	pot.
+ściemniarami	ściemniara	subst:pl:inst:f	pospolita	pot.
+ściemniara	ściemniara	subst:sg:nom:f	pospolita	pot.
+ściemniarą	ściemniara	subst:sg:inst:f	pospolita	pot.
+ściemniarę	ściemniara	subst:sg:acc:f	pospolita	pot.
+ściemniarom	ściemniara	subst:pl:dat:f	pospolita	pot.
+ściemniaro	ściemniara	subst:sg:voc:f	pospolita	pot.
+ściemniar	ściemniara	subst:pl:gen:f	pospolita	pot.
+ściemniary	ściemniara	subst:pl:acc:f	pospolita	pot.
+ściemniary	ściemniara	subst:pl:nom:f	pospolita	pot.
+ściemniary	ściemniara	subst:pl:voc:f	pospolita	pot.
+ściemniary	ściemniara	subst:sg:gen:f	pospolita	pot.
+ściemniarze	ściemniara	subst:sg:dat:f	pospolita	pot.
+ściemniarze	ściemniara	subst:sg:loc:f	pospolita	pot.
 ściemnią	ściemnić	fin:pl:ter:perf		
 ściemnicie	ściemnić	fin:pl:sec:perf		
 ściemnić	ściemnić	inf:perf		
@@ -2916,6 +2930,34 @@
 ścieńczeniom	ścieńczeć	ger:pl:dat:n2:perf:aff		
 ścieńczeniu	ścieńczeć	ger:sg:dat.loc:n2:perf:aff		
 ścieńczeń	ścieńczeć	ger:pl:gen:n2:perf:aff		
+ściepach	ściepa	subst:pl:loc:f	pospolita	pot.
+ściepami	ściepa	subst:pl:inst:f	pospolita	pot.
+ściepa	ściepa	subst:sg:nom:f	pospolita	pot.
+ściepą	ściepa	subst:sg:inst:f	pospolita	pot.
+ściepę	ściepa	subst:sg:acc:f	pospolita	pot.
+ściepie	ściepa	subst:sg:dat:f	pospolita	pot.
+ściepie	ściepa	subst:sg:loc:f	pospolita	pot.
+ściepom	ściepa	subst:pl:dat:f	pospolita	pot.
+ściepo	ściepa	subst:sg:voc:f	pospolita	pot.
+ściep	ściepa	subst:pl:gen:f	pospolita	pot.
+ściepy	ściepa	subst:pl:acc:f	pospolita	pot.
+ściepy	ściepa	subst:pl:nom:f	pospolita	pot.
+ściepy	ściepa	subst:pl:voc:f	pospolita	pot.
+ściepy	ściepa	subst:sg:gen:f	pospolita	pot.
+ściepce	ściepka	subst:sg:dat:f	pospolita	pot.
+ściepce	ściepka	subst:sg:loc:f	pospolita	pot.
+ściepek	ściepka	subst:pl:gen:f	pospolita	pot.
+ściepkach	ściepka	subst:pl:loc:f	pospolita	pot.
+ściepkami	ściepka	subst:pl:inst:f	pospolita	pot.
+ściepka	ściepka	subst:sg:nom:f	pospolita	pot.
+ściepką	ściepka	subst:sg:inst:f	pospolita	pot.
+ściepkę	ściepka	subst:sg:acc:f	pospolita	pot.
+ściepki	ściepka	subst:pl:acc:f	pospolita	pot.
+ściepki	ściepka	subst:pl:nom:f	pospolita	pot.
+ściepki	ściepka	subst:pl:voc:f	pospolita	pot.
+ściepki	ściepka	subst:sg:gen:f	pospolita	pot.
+ściepkom	ściepka	subst:pl:dat:f	pospolita	pot.
+ściepko	ściepka	subst:sg:voc:f	pospolita	pot.
 ścierach	ścier	subst:pl:loc:m3	pospolita	
 ścierami	ścier	subst:pl:inst:m3	pospolita	
 ścierem	ścier	subst:sg:inst:m3	pospolita	
@@ -5420,6 +5462,23 @@
 ścisłości	ścisłość:s	subst:sg:voc:f		
 ścisłość	ścisłość:s	subst:sg:acc:f		
 ścisłość	ścisłość:s	subst:sg:nom:f		
+ścisłowcach	ścisłowiec	subst:pl:loc:m1	pospolita	
+ścisłowcami	ścisłowiec	subst:pl:inst:m1	pospolita	
+ścisłowca	ścisłowiec	subst:sg:acc:m1	pospolita	
+ścisłowca	ścisłowiec	subst:sg:gen:m1	pospolita	
+ścisłowcem	ścisłowiec	subst:sg:inst:m1	pospolita	
+ścisłowce	ścisłowiec	depr:pl:nom:m2	pospolita	
+ścisłowce	ścisłowiec	depr:pl:voc:m2	pospolita	
+ścisłowcom	ścisłowiec	subst:pl:dat:m1	pospolita	
+ścisłowcowi	ścisłowiec	subst:sg:dat:m1	pospolita	
+ścisłowców	ścisłowiec	subst:pl:acc:m1	pospolita	
+ścisłowców	ścisłowiec	subst:pl:gen:m1	pospolita	
+ścisłowcu	ścisłowiec	subst:sg:loc:m1	pospolita	
+ścisłowcu	ścisłowiec	subst:sg:voc:m1	pospolita	
+ścisłowcy	ścisłowiec	subst:pl:nom:m1	pospolita	
+ścisłowcy	ścisłowiec	subst:pl:voc:m1	pospolita	
+ścisłowcze	ścisłowiec	subst:sg:voc:m1	pospolita	
+ścisłowiec	ścisłowiec	subst:sg:nom:m1	pospolita	
 ścisła	ścisły	adj:sg:nom.voc:f:pos		
 ścisłą	ścisły	adj:sg:acc:f:pos		
 ścisłą	ścisły	adj:sg:inst:f:pos		
@@ -16774,6 +16833,21 @@
 śpiżu	śpiż	subst:sg:loc:m3	pospolita	przest.
 śpiżu	śpiż	subst:sg:voc:m3	pospolita	przest.
 śpiży	śpiż	subst:pl:gen:m3	pospolita	przest.
+śpiżarniach	śpiżarnia	subst:pl:loc:f	pospolita	
+śpiżarniami	śpiżarnia	subst:pl:inst:f	pospolita	
+śpiżarnia	śpiżarnia	subst:sg:nom:f	pospolita	
+śpiżarnią	śpiżarnia	subst:sg:inst:f	pospolita	
+śpiżarnie	śpiżarnia	subst:pl:acc:f	pospolita	
+śpiżarnie	śpiżarnia	subst:pl:nom:f	pospolita	
+śpiżarnie	śpiżarnia	subst:pl:voc:f	pospolita	
+śpiżarnię	śpiżarnia	subst:sg:acc:f	pospolita	
+śpiżarniom	śpiżarnia	subst:pl:dat:f	pospolita	
+śpiżarnio	śpiżarnia	subst:sg:voc:f	pospolita	
+śpiżarni	śpiżarnia	subst:pl:gen:f	pospolita	hom.
+śpiżarni	śpiżarnia	subst:sg:dat:f	pospolita	
+śpiżarni	śpiżarnia	subst:sg:gen:f	pospolita	
+śpiżarni	śpiżarnia	subst:sg:loc:f	pospolita	
+śpiżarń	śpiżarnia	subst:pl:gen:f	pospolita	char.
 śpiżarnianościach	śpiżarnianość	subst:pl:loc:f		
 śpiżarnianościami	śpiżarnianość	subst:pl:inst:f		
 śpiżarnianością	śpiżarnianość	subst:sg:inst:f		
@@ -28057,6 +28131,20 @@
 świeżymy	świeżyć	fin:pl:pri:imperf		
 świeżysz	świeżyć	fin:sg:sec:imperf		
 świeży	świeżyć	fin:sg:ter:imperf		
+świeżynce	świeżynka	subst:sg:dat:f	pospolita	
+świeżynce	świeżynka	subst:sg:loc:f	pospolita	
+świeżynek	świeżynka	subst:pl:gen:f	pospolita	
+świeżynkach	świeżynka	subst:pl:loc:f	pospolita	
+świeżynkami	świeżynka	subst:pl:inst:f	pospolita	
+świeżynka	świeżynka	subst:sg:nom:f	pospolita	
+świeżynką	świeżynka	subst:sg:inst:f	pospolita	
+świeżynkę	świeżynka	subst:sg:acc:f	pospolita	
+świeżynki	świeżynka	subst:pl:acc:f	pospolita	
+świeżynki	świeżynka	subst:pl:nom:f	pospolita	
+świeżynki	świeżynka	subst:pl:voc:f	pospolita	
+świeżynki	świeżynka	subst:sg:gen:f	pospolita	
+świeżynkom	świeżynka	subst:pl:dat:f	pospolita	
+świeżynko	świeżynka	subst:sg:voc:f	pospolita	
 świeżyznach	świeżyzna	subst:pl:loc:f	pospolita	
 świeżyznami	świeżyzna	subst:pl:inst:f	pospolita	
 świeżyzna	świeżyzna	subst:sg:nom:f	pospolita	
@@ -31314,3 +31402,17 @@
 świtowym	świtowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 świtowy	świtowy	adj:sg:acc:m3:pos		
 świtowy	świtowy	adj:sg:nom.voc:m1.m2.m3:pos		
+świtówce	świtówka	subst:sg:dat:f	pospolita	żegl.
+świtówce	świtówka	subst:sg:loc:f	pospolita	żegl.
+świtówek	świtówka	subst:pl:gen:f	pospolita	żegl.
+świtówkach	świtówka	subst:pl:loc:f	pospolita	żegl.
+świtówkami	świtówka	subst:pl:inst:f	pospolita	żegl.
+świtówka	świtówka	subst:sg:nom:f	pospolita	żegl.
+świtówką	świtówka	subst:sg:inst:f	pospolita	żegl.
+świtówkę	świtówka	subst:sg:acc:f	pospolita	żegl.
+świtówki	świtówka	subst:pl:acc:f	pospolita	żegl.
+świtówki	świtówka	subst:pl:nom:f	pospolita	żegl.
+świtówki	świtówka	subst:pl:voc:f	pospolita	żegl.
+świtówki	świtówka	subst:sg:gen:f	pospolita	żegl.
+świtówkom	świtówka	subst:pl:dat:f	pospolita	żegl.
+świtówko	świtówka	subst:sg:voc:f	pospolita	żegl.

@@ -507,34 +507,20 @@ FATAH-u	FATAH	subst:sg:voc:m3	pospolita
 FATAH-y	FATAH	subst:pl:acc:m3	pospolita	
 FATAH-y	FATAH	subst:pl:nom:m3	pospolita	
 FATAH-y	FATAH	subst:pl:voc:m3	pospolita	
-Fatimach	Fatima	subst:pl:loc:f	geograficzna	
-Fatimach	Fatima	subst:pl:loc:f	imię	
-Fatima	Fatima	subst:sg:nom:f	geograficzna	
-Fatima	Fatima	subst:sg:nom:f	imię	
-Fatimami	Fatima	subst:pl:inst:f	geograficzna	
-Fatimami	Fatima	subst:pl:inst:f	imię	
-Fatimą	Fatima	subst:sg:inst:f	geograficzna	
-Fatimą	Fatima	subst:sg:inst:f	imię	
-Fatimę	Fatima	subst:sg:acc:f	geograficzna	
-Fatimę	Fatima	subst:sg:acc:f	imię	
-Fatim	Fatima	subst:pl:gen:f	geograficzna	
-Fatim	Fatima	subst:pl:gen:f	imię	
-Fatimie	Fatima	subst:sg:dat:f	geograficzna	
-Fatimie	Fatima	subst:sg:dat:f	imię	
-Fatimie	Fatima	subst:sg:loc:f	geograficzna	
-Fatimie	Fatima	subst:sg:loc:f	imię	
-Fatimo	Fatima	subst:sg:voc:f	geograficzna	
-Fatimo	Fatima	subst:sg:voc:f	imię	
-Fatimom	Fatima	subst:pl:dat:f	geograficzna	
-Fatimom	Fatima	subst:pl:dat:f	imię	
-Fatimy	Fatima	subst:pl:acc:f	geograficzna	
-Fatimy	Fatima	subst:pl:acc:f	imię	
-Fatimy	Fatima	subst:pl:nom:f	geograficzna	
-Fatimy	Fatima	subst:pl:nom:f	imię	
-Fatimy	Fatima	subst:pl:voc:f	geograficzna	
-Fatimy	Fatima	subst:pl:voc:f	imię	
-Fatimy	Fatima	subst:sg:gen:f	geograficzna	
-Fatimy	Fatima	subst:sg:gen:f	imię	
+Fatimach	Fatima	subst:pl:loc:f	imię|geograficzna	
+Fatima	Fatima	subst:sg:nom:f	imię|geograficzna	
+Fatimami	Fatima	subst:pl:inst:f	imię|geograficzna	
+Fatimą	Fatima	subst:sg:inst:f	imię|geograficzna	
+Fatimę	Fatima	subst:sg:acc:f	imię|geograficzna	
+Fatim	Fatima	subst:pl:gen:f	imię|geograficzna	
+Fatimie	Fatima	subst:sg:dat:f	imię|geograficzna	
+Fatimie	Fatima	subst:sg:loc:f	imię|geograficzna	
+Fatimo	Fatima	subst:sg:voc:f	imię|geograficzna	
+Fatimom	Fatima	subst:pl:dat:f	imię|geograficzna	
+Fatimy	Fatima	subst:pl:acc:f	imię|geograficzna	
+Fatimy	Fatima	subst:pl:nom:f	imię|geograficzna	
+Fatimy	Fatima	subst:pl:voc:f	imię|geograficzna	
+Fatimy	Fatima	subst:sg:gen:f	imię|geograficzna	
 Fatydze	Fatyga	subst:sg:dat:m1	nazwisko	
 Fatydze	Fatyga	subst:sg:loc:m1	nazwisko	
 Fatygach	Fatyga	subst:pl:loc:m1	nazwisko	
@@ -2673,20 +2659,20 @@ Forsythe’ów	Forsythe	subst:pl:acc:m1	nazwisko
 Forsythe’ów	Forsythe	subst:pl:gen:m1	nazwisko	
 Forsythe’y	Forsythe	depr:pl:nom:m2	nazwisko	
 Forsythe’y	Forsythe	depr:pl:voc:m2	nazwisko	
-Fortranach	Fortran	subst:pl:loc:m3	język_programowania	komp.
-Fortranami	Fortran	subst:pl:inst:m3	język_programowania	komp.
-Fortranem	Fortran	subst:sg:inst:m3	język_programowania	komp.
-Fortran	Fortran	subst:sg:acc:m3	język_programowania	komp.
-Fortran	Fortran	subst:sg:nom:m3	język_programowania	komp.
-Fortranie	Fortran	subst:sg:loc:m3	język_programowania	komp.
-Fortranie	Fortran	subst:sg:voc:m3	język_programowania	komp.
-Fortranom	Fortran	subst:pl:dat:m3	język_programowania	komp.
-Fortranowi	Fortran	subst:sg:dat:m3	język_programowania	komp.
-Fortranów	Fortran	subst:pl:gen:m3	język_programowania	komp.
-Fortranu	Fortran	subst:sg:gen:m3	język_programowania	komp.
-Fortrany	Fortran	subst:pl:acc:m3	język_programowania	komp.
-Fortrany	Fortran	subst:pl:nom:m3	język_programowania	komp.
-Fortrany	Fortran	subst:pl:voc:m3	język_programowania	komp.
+Fortranach	Fortran	subst:pl:loc:m3	język programowania	komp.
+Fortranami	Fortran	subst:pl:inst:m3	język programowania	komp.
+Fortranem	Fortran	subst:sg:inst:m3	język programowania	komp.
+Fortran	Fortran	subst:sg:acc:m3	język programowania	komp.
+Fortran	Fortran	subst:sg:nom:m3	język programowania	komp.
+Fortranie	Fortran	subst:sg:loc:m3	język programowania	komp.
+Fortranie	Fortran	subst:sg:voc:m3	język programowania	komp.
+Fortranom	Fortran	subst:pl:dat:m3	język programowania	komp.
+Fortranowi	Fortran	subst:sg:dat:m3	język programowania	komp.
+Fortranów	Fortran	subst:pl:gen:m3	język programowania	komp.
+Fortranu	Fortran	subst:sg:gen:m3	język programowania	komp.
+Fortrany	Fortran	subst:pl:acc:m3	język programowania	komp.
+Fortrany	Fortran	subst:pl:nom:m3	język programowania	komp.
+Fortrany	Fortran	subst:pl:voc:m3	język programowania	komp.
 Fortunacie	Fortunat	subst:sg:loc:m1	imię	
 Fortunacie	Fortunat	subst:sg:voc:m1	imię	
 Fortunaci	Fortunat	subst:pl:nom:m1	imię	
@@ -3467,38 +3453,22 @@ Friedmanów	Friedman	subst:pl:acc:m1	nazwisko
 Friedmanów	Friedman	subst:pl:gen:m1	nazwisko	
 Friedmany	Friedman	depr:pl:nom:m2	nazwisko	
 Friedmany	Friedman	depr:pl:voc:m2	nazwisko	
-Friedrichach	Friedrich	subst:pl:loc:m1	imię	
-Friedrichach	Friedrich	subst:pl:loc:m1	nazwisko	
-Friedricha	Friedrich	subst:sg:acc:m1	imię	
-Friedricha	Friedrich	subst:sg:acc:m1	nazwisko	
-Friedricha	Friedrich	subst:sg:gen:m1	imię	
-Friedricha	Friedrich	subst:sg:gen:m1	nazwisko	
-Friedrichami	Friedrich	subst:pl:inst:m1	imię	
-Friedrichami	Friedrich	subst:pl:inst:m1	nazwisko	
-Friedrichem	Friedrich	subst:sg:inst:m1	imię	
-Friedrichem	Friedrich	subst:sg:inst:m1	nazwisko	
-Friedrich	Friedrich	subst:sg:nom:m1	imię	
-Friedrich	Friedrich	subst:sg:nom:m1	nazwisko	
-Friedrichom	Friedrich	subst:pl:dat:m1	imię	
-Friedrichom	Friedrich	subst:pl:dat:m1	nazwisko	
-Friedrichowie	Friedrich	subst:pl:nom:m1	imię	
-Friedrichowie	Friedrich	subst:pl:nom:m1	nazwisko	
-Friedrichowie	Friedrich	subst:pl:voc:m1	imię	
-Friedrichowie	Friedrich	subst:pl:voc:m1	nazwisko	
-Friedrichowi	Friedrich	subst:sg:dat:m1	imię	
-Friedrichowi	Friedrich	subst:sg:dat:m1	nazwisko	
-Friedrichów	Friedrich	subst:pl:acc:m1	imię	
-Friedrichów	Friedrich	subst:pl:acc:m1	nazwisko	
-Friedrichów	Friedrich	subst:pl:gen:m1	imię	
-Friedrichów	Friedrich	subst:pl:gen:m1	nazwisko	
-Friedrichu	Friedrich	subst:sg:loc:m1	imię	
-Friedrichu	Friedrich	subst:sg:loc:m1	nazwisko	
-Friedrichu	Friedrich	subst:sg:voc:m1	imię	
-Friedrichu	Friedrich	subst:sg:voc:m1	nazwisko	
-Friedrichy	Friedrich	depr:pl:nom:m2	imię	
-Friedrichy	Friedrich	depr:pl:nom:m2	nazwisko	
-Friedrichy	Friedrich	depr:pl:voc:m2	imię	
-Friedrichy	Friedrich	depr:pl:voc:m2	nazwisko	
+Friedrichach	Friedrich	subst:pl:loc:m1	imię|nazwisko	
+Friedricha	Friedrich	subst:sg:acc:m1	imię|nazwisko	
+Friedricha	Friedrich	subst:sg:gen:m1	imię|nazwisko	
+Friedrichami	Friedrich	subst:pl:inst:m1	imię|nazwisko	
+Friedrichem	Friedrich	subst:sg:inst:m1	imię|nazwisko	
+Friedrich	Friedrich	subst:sg:nom:m1	imię|nazwisko	
+Friedrichom	Friedrich	subst:pl:dat:m1	imię|nazwisko	
+Friedrichowie	Friedrich	subst:pl:nom:m1	imię|nazwisko	
+Friedrichowie	Friedrich	subst:pl:voc:m1	imię|nazwisko	
+Friedrichowi	Friedrich	subst:sg:dat:m1	imię|nazwisko	
+Friedrichów	Friedrich	subst:pl:acc:m1	imię|nazwisko	
+Friedrichów	Friedrich	subst:pl:gen:m1	imię|nazwisko	
+Friedrichu	Friedrich	subst:sg:loc:m1	imię|nazwisko	
+Friedrichu	Friedrich	subst:sg:voc:m1	imię|nazwisko	
+Friedrichy	Friedrich	depr:pl:nom:m2	imię|nazwisko	
+Friedrichy	Friedrich	depr:pl:voc:m2	imię|nazwisko	
 Frischach	Frisch	subst:pl:loc:m1	nazwisko	
 Frischa	Frisch	subst:sg:acc:m1	nazwisko	
 Frischa	Frisch	subst:sg:gen:m1	nazwisko	

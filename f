@@ -622,37 +622,21 @@ fabularyzuję	fabularyzować	fin:sg:pri:imperf
 fabularyzuj	fabularyzować	impt:sg:sec:imperf		
 fabularyzujmy	fabularyzować	impt:pl:pri:imperf		
 fabularzach	fabularz	subst:pl:loc:m1	pospolita	przest.
-fabularzach	fabularz	subst:pl:loc:m1	pospolita	przest.|rzad.
 fabularza	fabularz	subst:sg:acc:m1	pospolita	przest.
-fabularza	fabularz	subst:sg:acc:m1	pospolita	przest.|rzad.
 fabularza	fabularz	subst:sg:gen:m1	pospolita	przest.
-fabularza	fabularz	subst:sg:gen:m1	pospolita	przest.|rzad.
 fabularzami	fabularz	subst:pl:inst:m1	pospolita	przest.
-fabularzami	fabularz	subst:pl:inst:m1	pospolita	przest.|rzad.
 fabularze	fabularz	depr:pl:nom:m2	pospolita	przest.
-fabularze	fabularz	depr:pl:nom:m2	pospolita	przest.|rzad.
 fabularze	fabularz	depr:pl:voc:m2	pospolita	przest.
-fabularze	fabularz	depr:pl:voc:m2	pospolita	przest.|rzad.
 fabularze	fabularz	subst:pl:nom:m1	pospolita	przest.
-fabularze	fabularz	subst:pl:nom:m1	pospolita	przest.|rzad.
 fabularze	fabularz	subst:pl:voc:m1	pospolita	przest.
-fabularze	fabularz	subst:pl:voc:m1	pospolita	przest.|rzad.
 fabularzem	fabularz	subst:sg:inst:m1	pospolita	przest.
-fabularzem	fabularz	subst:sg:inst:m1	pospolita	przest.|rzad.
 fabularz	fabularz	subst:sg:nom:m1	pospolita	przest.
-fabularz	fabularz	subst:sg:nom:m1	pospolita	przest.|rzad.
 fabularzom	fabularz	subst:pl:dat:m1	pospolita	przest.
-fabularzom	fabularz	subst:pl:dat:m1	pospolita	przest.|rzad.
 fabularzowi	fabularz	subst:sg:dat:m1	pospolita	przest.
-fabularzowi	fabularz	subst:sg:dat:m1	pospolita	przest.|rzad.
 fabularzu	fabularz	subst:sg:loc:m1	pospolita	przest.
-fabularzu	fabularz	subst:sg:loc:m1	pospolita	przest.|rzad.
 fabularzu	fabularz	subst:sg:voc:m1	pospolita	przest.
-fabularzu	fabularz	subst:sg:voc:m1	pospolita	przest.|rzad.
 fabularzy	fabularz	subst:pl:acc:m1	pospolita	przest.
-fabularzy	fabularz	subst:pl:acc:m1	pospolita	przest.|rzad.
 fabularzy	fabularz	subst:pl:gen:m1	pospolita	przest.
-fabularzy	fabularz	subst:pl:gen:m1	pospolita	przest.|rzad.
 fabularzystach	fabularzysta	subst:pl:loc:m1	pospolita	
 fabularzysta	fabularzysta	subst:sg:nom:m1	pospolita	
 fabularzystami	fabularzysta	subst:pl:inst:m1	pospolita	
@@ -33158,6 +33142,21 @@ fiskaliście	fiskalista	subst:sg:dat:m1	pospolita	daw.
 fiskaliście	fiskalista	subst:sg:loc:m1	pospolita	daw.
 fiskaliści	fiskalista	subst:pl:nom:m1	pospolita	daw.
 fiskaliści	fiskalista	subst:pl:voc:m1	pospolita	daw.
+fiskalizacjach	fiskalizacja	subst:pl:loc:f	pospolita	
+fiskalizacja	fiskalizacja	subst:sg:nom:f	pospolita	
+fiskalizacjami	fiskalizacja	subst:pl:inst:f	pospolita	
+fiskalizacją	fiskalizacja	subst:sg:inst:f	pospolita	
+fiskalizacje	fiskalizacja	subst:pl:acc:f	pospolita	
+fiskalizacje	fiskalizacja	subst:pl:nom:f	pospolita	
+fiskalizacje	fiskalizacja	subst:pl:voc:f	pospolita	
+fiskalizację	fiskalizacja	subst:sg:acc:f	pospolita	
+fiskalizacji	fiskalizacja	subst:pl:gen:f	pospolita	hom.
+fiskalizacji	fiskalizacja	subst:sg:dat:f	pospolita	
+fiskalizacji	fiskalizacja	subst:sg:gen:f	pospolita	
+fiskalizacji	fiskalizacja	subst:sg:loc:f	pospolita	
+fiskalizacjo	fiskalizacja	subst:sg:voc:f	pospolita	
+fiskalizacjom	fiskalizacja	subst:pl:dat:f	pospolita	
+fiskalizacyj	fiskalizacja	subst:pl:gen:f	pospolita	arch.|char.
 fiskalizmach	fiskalizm	subst:pl:loc:m3	pospolita	
 fiskalizmami	fiskalizm	subst:pl:inst:m3	pospolita	
 fiskalizmem	fiskalizm	subst:sg:inst:m3	pospolita	
@@ -33833,6 +33832,20 @@ fitoedafonu	fitoedafon	subst:sg:gen:m3	pospolita
 fitoedafony	fitoedafon	subst:pl:acc:m3	pospolita	
 fitoedafony	fitoedafon	subst:pl:nom:m3	pospolita	
 fitoedafony	fitoedafon	subst:pl:voc:m3	pospolita	
+fitoestrogenach	fitoestrogen	subst:pl:loc:m3	pospolita	
+fitoestrogenami	fitoestrogen	subst:pl:inst:m3	pospolita	
+fitoestrogenem	fitoestrogen	subst:sg:inst:m3	pospolita	
+fitoestrogen	fitoestrogen	subst:sg:acc:m3	pospolita	
+fitoestrogen	fitoestrogen	subst:sg:nom:m3	pospolita	
+fitoestrogenie	fitoestrogen	subst:sg:loc:m3	pospolita	
+fitoestrogenie	fitoestrogen	subst:sg:voc:m3	pospolita	
+fitoestrogenom	fitoestrogen	subst:pl:dat:m3	pospolita	
+fitoestrogenowi	fitoestrogen	subst:sg:dat:m3	pospolita	
+fitoestrogenów	fitoestrogen	subst:pl:gen:m3	pospolita	
+fitoestrogenu	fitoestrogen	subst:sg:gen:m3	pospolita	
+fitoestrogeny	fitoestrogen	subst:pl:acc:m3	pospolita	
+fitoestrogeny	fitoestrogen	subst:pl:nom:m3	pospolita	
+fitoestrogeny	fitoestrogen	subst:pl:voc:m3	pospolita	
 fitofagach	fitofag	subst:pl:loc:m2	pospolita	
 fitofaga	fitofag	subst:sg:acc:m2	pospolita	
 fitofaga	fitofag	subst:sg:gen:m2	pospolita	
@@ -41421,6 +41434,20 @@ floryście	florysta	subst:sg:dat:m1	pospolita	przest.
 floryście	florysta	subst:sg:loc:m1	pospolita	przest.
 floryści	florysta	subst:pl:nom:m1	pospolita	przest.
 floryści	florysta	subst:pl:voc:m1	pospolita	przest.
+florystce	florystka	subst:sg:dat:f	pospolita	
+florystce	florystka	subst:sg:loc:f	pospolita	
+florystek	florystka	subst:pl:gen:f	pospolita	
+florystkach	florystka	subst:pl:loc:f	pospolita	
+florystka	florystka	subst:sg:nom:f	pospolita	
+florystkami	florystka	subst:pl:inst:f	pospolita	
+florystką	florystka	subst:sg:inst:f	pospolita	
+florystkę	florystka	subst:sg:acc:f	pospolita	
+florystki	florystka	subst:pl:acc:f	pospolita	
+florystki	florystka	subst:pl:nom:f	pospolita	
+florystki	florystka	subst:pl:voc:f	pospolita	
+florystki	florystka	subst:sg:gen:f	pospolita	
+florystko	florystka	subst:sg:voc:f	pospolita	
+florystkom	florystka	subst:pl:dat:f	pospolita	
 florystycznie	florystycznie	adv:pos		
 florystycznościach	florystyczność	subst:pl:loc:f		
 florystycznościami	florystyczność	subst:pl:inst:f		
@@ -43967,6 +43994,20 @@ foliantowym	foliantowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 foliantowym	foliantowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 foliantowym	foliantowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 foliantowymi	foliantowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+foliarce	foliarka	subst:sg:dat:f	pospolita	
+foliarce	foliarka	subst:sg:loc:f	pospolita	
+foliarek	foliarka	subst:pl:gen:f	pospolita	
+foliarkach	foliarka	subst:pl:loc:f	pospolita	
+foliarka	foliarka	subst:sg:nom:f	pospolita	
+foliarkami	foliarka	subst:pl:inst:f	pospolita	
+foliarką	foliarka	subst:sg:inst:f	pospolita	
+foliarkę	foliarka	subst:sg:acc:f	pospolita	
+foliarki	foliarka	subst:pl:acc:f	pospolita	
+foliarki	foliarka	subst:pl:nom:f	pospolita	
+foliarki	foliarka	subst:pl:voc:f	pospolita	
+foliarki	foliarka	subst:sg:gen:f	pospolita	
+foliarko	foliarka	subst:sg:voc:f	pospolita	
+foliarkom	foliarka	subst:pl:dat:f	pospolita	
 folidoidach	folidoid	subst:pl:loc:m3	pospolita	
 folidoidami	folidoid	subst:pl:inst:m3	pospolita	
 folidoidem	folidoid	subst:sg:inst:m3	pospolita	
@@ -44009,6 +44050,20 @@ folio	folio	subst:sg:inst:n2	pospolita
 folio	folio	subst:sg:loc:n2	pospolita	
 folio	folio	subst:sg:nom:n2	pospolita	
 folio	folio	subst:sg:voc:n2	pospolita	
+foliografach	foliograf	subst:pl:loc:m3	pospolita	
+foliografami	foliograf	subst:pl:inst:m3	pospolita	
+foliografem	foliograf	subst:sg:inst:m3	pospolita	
+foliograf	foliograf	subst:sg:acc:m3	pospolita	
+foliograf	foliograf	subst:sg:nom:m3	pospolita	
+foliografie	foliograf	subst:sg:loc:m3	pospolita	
+foliografie	foliograf	subst:sg:voc:m3	pospolita	
+foliografom	foliograf	subst:pl:dat:m3	pospolita	
+foliografowi	foliograf	subst:sg:dat:m3	pospolita	
+foliografów	foliograf	subst:pl:gen:m3	pospolita	
+foliografu	foliograf	subst:sg:gen:m3	pospolita	
+foliografy	foliograf	subst:pl:acc:m3	pospolita	
+foliografy	foliograf	subst:pl:nom:m3	pospolita	
+foliografy	foliograf	subst:pl:voc:m3	pospolita	
 foliować	foliować	inf:imperf		
 foliowaliby	foliować	cond:pl:m1.p1:ter:imperf		
 foliowalibyście	foliować	cond:pl:m1.p1:sec:imperf		
@@ -44135,6 +44190,20 @@ foliowym	foliowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 foliowym	foliowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 foliowym	foliowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 foliowymi	foliowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+foliówce	foliówka	subst:sg:dat:f	pospolita	
+foliówce	foliówka	subst:sg:loc:f	pospolita	
+foliówek	foliówka	subst:pl:gen:f	pospolita	
+foliówkach	foliówka	subst:pl:loc:f	pospolita	
+foliówka	foliówka	subst:sg:nom:f	pospolita	
+foliówkami	foliówka	subst:pl:inst:f	pospolita	
+foliówką	foliówka	subst:sg:inst:f	pospolita	
+foliówkę	foliówka	subst:sg:acc:f	pospolita	
+foliówki	foliówka	subst:pl:acc:f	pospolita	
+foliówki	foliówka	subst:pl:nom:f	pospolita	
+foliówki	foliówka	subst:pl:voc:f	pospolita	
+foliówki	foliówka	subst:sg:gen:f	pospolita	
+foliówko	foliówka	subst:sg:voc:f	pospolita	
+foliówkom	foliówka	subst:pl:dat:f	pospolita	
 folkach	folk	subst:pl:loc:m3	pospolita	
 folkami	folk	subst:pl:inst:m3	pospolita	
 folk	folk	subst:sg:acc:m3	pospolita	
@@ -44284,6 +44353,23 @@ folkloryzmu	folkloryzm	subst:sg:gen:m3	pospolita
 folkloryzmy	folkloryzm	subst:pl:acc:m3	pospolita	
 folkloryzmy	folkloryzm	subst:pl:nom:m3	pospolita	
 folkloryzmy	folkloryzm	subst:pl:voc:m3	pospolita	
+folkowcach	folkowiec	subst:pl:loc:m1	pospolita	
+folkowca	folkowiec	subst:sg:acc:m1	pospolita	
+folkowca	folkowiec	subst:sg:gen:m1	pospolita	
+folkowcami	folkowiec	subst:pl:inst:m1	pospolita	
+folkowce	folkowiec	depr:pl:nom:m2	pospolita	
+folkowce	folkowiec	depr:pl:voc:m2	pospolita	
+folkowcem	folkowiec	subst:sg:inst:m1	pospolita	
+folkowcom	folkowiec	subst:pl:dat:m1	pospolita	
+folkowcowi	folkowiec	subst:sg:dat:m1	pospolita	
+folkowców	folkowiec	subst:pl:acc:m1	pospolita	
+folkowców	folkowiec	subst:pl:gen:m1	pospolita	
+folkowcu	folkowiec	subst:sg:loc:m1	pospolita	
+folkowcu	folkowiec	subst:sg:voc:m1	pospolita	
+folkowcy	folkowiec	subst:pl:nom:m1	pospolita	
+folkowcy	folkowiec	subst:pl:voc:m1	pospolita	
+folkowcze	folkowiec	subst:sg:voc:m1	pospolita	
+folkowiec	folkowiec	subst:sg:nom:m1	pospolita	
 folkowo	folkowo	adv:pos		
 folkowościach	folkowość	subst:pl:loc:f		
 folkowościami	folkowość	subst:pl:inst:f		
@@ -47791,6 +47877,21 @@ formowym	formowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 formowym	formowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 formowym	formowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 formowymi	formowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+formulacjach	formulacja	subst:pl:loc:f	pospolita	
+formulacja	formulacja	subst:sg:nom:f	pospolita	
+formulacjami	formulacja	subst:pl:inst:f	pospolita	
+formulacją	formulacja	subst:sg:inst:f	pospolita	
+formulacje	formulacja	subst:pl:acc:f	pospolita	
+formulacje	formulacja	subst:pl:nom:f	pospolita	
+formulacje	formulacja	subst:pl:voc:f	pospolita	
+formulację	formulacja	subst:sg:acc:f	pospolita	
+formulacji	formulacja	subst:pl:gen:f	pospolita	hom.
+formulacji	formulacja	subst:sg:dat:f	pospolita	
+formulacji	formulacja	subst:sg:gen:f	pospolita	
+formulacji	formulacja	subst:sg:loc:f	pospolita	
+formulacjo	formulacja	subst:sg:voc:f	pospolita	
+formulacjom	formulacja	subst:pl:dat:f	pospolita	
+formulacyj	formulacja	subst:pl:gen:f	pospolita	arch.|char.
 formularnościach	formularność	subst:pl:loc:f		daw.
 formularnościami	formularność	subst:pl:inst:f		daw.
 formularnością	formularność	subst:sg:inst:f		daw.
@@ -56406,6 +56507,38 @@ franczyzy	franczyza	subst:pl:acc:f	pospolita
 franczyzy	franczyza	subst:pl:nom:f	pospolita	
 franczyzy	franczyza	subst:pl:voc:f	pospolita	
 franczyzy	franczyza	subst:sg:gen:f	pospolita	
+franczyzobiorcach	franczyzobiorca	subst:pl:loc:m1	pospolita	
+franczyzobiorca	franczyzobiorca	subst:sg:nom:m1	pospolita	
+franczyzobiorcami	franczyzobiorca	subst:pl:inst:m1	pospolita	
+franczyzobiorcą	franczyzobiorca	subst:sg:inst:m1	pospolita	
+franczyzobiorce	franczyzobiorca	depr:pl:nom:m2	pospolita	
+franczyzobiorce	franczyzobiorca	depr:pl:voc:m2	pospolita	
+franczyzobiorcę	franczyzobiorca	subst:sg:acc:m1	pospolita	
+franczyzobiorco	franczyzobiorca	subst:sg:voc:m1	pospolita	
+franczyzobiorcom	franczyzobiorca	subst:pl:dat:m1	pospolita	
+franczyzobiorców	franczyzobiorca	subst:pl:acc:m1	pospolita	
+franczyzobiorców	franczyzobiorca	subst:pl:gen:m1	pospolita	
+franczyzobiorcy	franczyzobiorca	subst:pl:nom:m1	pospolita	
+franczyzobiorcy	franczyzobiorca	subst:pl:voc:m1	pospolita	
+franczyzobiorcy	franczyzobiorca	subst:sg:dat:m1	pospolita	
+franczyzobiorcy	franczyzobiorca	subst:sg:gen:m1	pospolita	
+franczyzobiorcy	franczyzobiorca	subst:sg:loc:m1	pospolita	
+franczyzodawcach	franczyzodawca	subst:pl:loc:m1	pospolita	
+franczyzodawca	franczyzodawca	subst:sg:nom:m1	pospolita	
+franczyzodawcami	franczyzodawca	subst:pl:inst:m1	pospolita	
+franczyzodawcą	franczyzodawca	subst:sg:inst:m1	pospolita	
+franczyzodawce	franczyzodawca	depr:pl:nom:m2	pospolita	
+franczyzodawce	franczyzodawca	depr:pl:voc:m2	pospolita	
+franczyzodawcę	franczyzodawca	subst:sg:acc:m1	pospolita	
+franczyzodawco	franczyzodawca	subst:sg:voc:m1	pospolita	
+franczyzodawcom	franczyzodawca	subst:pl:dat:m1	pospolita	
+franczyzodawców	franczyzodawca	subst:pl:acc:m1	pospolita	
+franczyzodawców	franczyzodawca	subst:pl:gen:m1	pospolita	
+franczyzodawcy	franczyzodawca	subst:pl:nom:m1	pospolita	
+franczyzodawcy	franczyzodawca	subst:pl:voc:m1	pospolita	
+franczyzodawcy	franczyzodawca	subst:sg:dat:m1	pospolita	
+franczyzodawcy	franczyzodawca	subst:sg:gen:m1	pospolita	
+franczyzodawcy	franczyzodawca	subst:sg:loc:m1	pospolita	
 franczyzowościach	franczyzowość	subst:pl:loc:f		
 franczyzowościami	franczyzowość	subst:pl:inst:f		
 franczyzowością	franczyzowość	subst:sg:inst:f		
@@ -58541,6 +58674,51 @@ fredrowskości	fredrowskość	subst:sg:voc:f
 fredrowskościom	fredrowskość	subst:pl:dat:f		
 fredrowskość	fredrowskość	subst:sg:acc:f		
 fredrowskość	fredrowskość	subst:sg:nom:f		
+freestyle’ach	freestyle	subst:pl:loc:m2	pospolita	
+freestyle’ach	freestyle	subst:pl:loc:m3	pospolita	
+freestyle’a	freestyle	subst:sg:acc:m2	pospolita	
+freestyle’a	freestyle	subst:sg:gen:m2	pospolita	
+freestyle’ami	freestyle	subst:pl:inst:m2	pospolita	
+freestyle’ami	freestyle	subst:pl:inst:m3	pospolita	
+freestyle’e	freestyle	subst:pl:acc:m2	pospolita	
+freestyle’e	freestyle	subst:pl:acc:m3	pospolita	
+freestyle’e	freestyle	subst:pl:nom:m2	pospolita	
+freestyle’e	freestyle	subst:pl:nom:m3	pospolita	
+freestyle’e	freestyle	subst:pl:voc:m2	pospolita	
+freestyle’e	freestyle	subst:pl:voc:m3	pospolita	
+freestyle’em	freestyle	subst:sg:inst:m2	pospolita	
+freestyle’em	freestyle	subst:sg:inst:m3	pospolita	
+freestyle	freestyle	subst:sg:acc:m3	pospolita	
+freestyle	freestyle	subst:sg:nom:m2	pospolita	
+freestyle	freestyle	subst:sg:nom:m3	pospolita	
+freestyle’i	freestyle	subst:pl:gen:m3	pospolita	
+freestyle’om	freestyle	subst:pl:dat:m2	pospolita	
+freestyle’om	freestyle	subst:pl:dat:m3	pospolita	
+freestyle’owi	freestyle	subst:sg:dat:m2	pospolita	
+freestyle’owi	freestyle	subst:sg:dat:m3	pospolita	
+freestyle’ów	freestyle	subst:pl:gen:m2	pospolita	
+freestyle’u	freestyle	subst:sg:gen:m3	pospolita	
+freestyle’u	freestyle	subst:sg:loc:m2	pospolita	
+freestyle’u	freestyle	subst:sg:loc:m3	pospolita	
+freestyle’u	freestyle	subst:sg:voc:m2	pospolita	
+freestyle’u	freestyle	subst:sg:voc:m3	pospolita	
+freestylowcach	freestylowiec	subst:pl:loc:m1	pospolita	
+freestylowca	freestylowiec	subst:sg:acc:m1	pospolita	
+freestylowca	freestylowiec	subst:sg:gen:m1	pospolita	
+freestylowcami	freestylowiec	subst:pl:inst:m1	pospolita	
+freestylowce	freestylowiec	depr:pl:nom:m2	pospolita	
+freestylowce	freestylowiec	depr:pl:voc:m2	pospolita	
+freestylowcem	freestylowiec	subst:sg:inst:m1	pospolita	
+freestylowcom	freestylowiec	subst:pl:dat:m1	pospolita	
+freestylowcowi	freestylowiec	subst:sg:dat:m1	pospolita	
+freestylowców	freestylowiec	subst:pl:acc:m1	pospolita	
+freestylowców	freestylowiec	subst:pl:gen:m1	pospolita	
+freestylowcu	freestylowiec	subst:sg:loc:m1	pospolita	
+freestylowcu	freestylowiec	subst:sg:voc:m1	pospolita	
+freestylowcy	freestylowiec	subst:pl:nom:m1	pospolita	
+freestylowcy	freestylowiec	subst:pl:voc:m1	pospolita	
+freestylowcze	freestylowiec	subst:sg:voc:m1	pospolita	
+freestylowiec	freestylowiec	subst:sg:nom:m1	pospolita	
 freestylowościach	freestylowość	subst:pl:loc:f		
 freestylowościami	freestylowość	subst:pl:inst:f		
 freestylowością	freestylowość	subst:sg:inst:f		
@@ -66236,6 +66414,23 @@ funkii	funkia	subst:sg:loc:f	pospolita
 funkij	funkia	subst:pl:gen:f	pospolita	arch.|char.
 funkio	funkia	subst:sg:voc:f	pospolita	
 funkiom	funkia	subst:pl:dat:f	pospolita	
+funkowcach	funkowiec	subst:pl:loc:m1	pospolita	
+funkowca	funkowiec	subst:sg:acc:m1	pospolita	
+funkowca	funkowiec	subst:sg:gen:m1	pospolita	
+funkowcami	funkowiec	subst:pl:inst:m1	pospolita	
+funkowce	funkowiec	depr:pl:nom:m2	pospolita	
+funkowce	funkowiec	depr:pl:voc:m2	pospolita	
+funkowcem	funkowiec	subst:sg:inst:m1	pospolita	
+funkowcom	funkowiec	subst:pl:dat:m1	pospolita	
+funkowcowi	funkowiec	subst:sg:dat:m1	pospolita	
+funkowców	funkowiec	subst:pl:acc:m1	pospolita	
+funkowców	funkowiec	subst:pl:gen:m1	pospolita	
+funkowcu	funkowiec	subst:sg:loc:m1	pospolita	
+funkowcu	funkowiec	subst:sg:voc:m1	pospolita	
+funkowcy	funkowiec	subst:pl:nom:m1	pospolita	
+funkowcy	funkowiec	subst:pl:voc:m1	pospolita	
+funkowcze	funkowiec	subst:sg:voc:m1	pospolita	
+funkowiec	funkowiec	subst:sg:nom:m1	pospolita	
 funkowo	funkowo	adv:pos		
 funkowościach	funkowość	subst:pl:loc:f		
 funkowościami	funkowość	subst:pl:inst:f		
@@ -69265,6 +69460,20 @@ futurystycznym	futurystyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 futurystycznym	futurystyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 futurystycznym	futurystyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 futurystycznymi	futurystyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+futurystyce	futurystyka	subst:sg:dat:f	pospolita	
+futurystyce	futurystyka	subst:sg:loc:f	pospolita	
+futurystykach	futurystyka	subst:pl:loc:f	pospolita	
+futurystyka	futurystyka	subst:sg:nom:f	pospolita	
+futurystykami	futurystyka	subst:pl:inst:f	pospolita	
+futurystyką	futurystyka	subst:sg:inst:f	pospolita	
+futurystykę	futurystyka	subst:sg:acc:f	pospolita	
+futurystyk	futurystyka	subst:pl:gen:f	pospolita	
+futurystyki	futurystyka	subst:pl:acc:f	pospolita	
+futurystyki	futurystyka	subst:pl:nom:f	pospolita	
+futurystyki	futurystyka	subst:pl:voc:f	pospolita	
+futurystyki	futurystyka	subst:sg:gen:f	pospolita	
+futurystyko	futurystyka	subst:sg:voc:f	pospolita	
+futurystykom	futurystyka	subst:pl:dat:f	pospolita	
 futuryzmach	futuryzm	subst:pl:loc:m3	pospolita	
 futuryzmami	futuryzm	subst:pl:inst:m3	pospolita	
 futuryzmem	futuryzm	subst:sg:inst:m3	pospolita	

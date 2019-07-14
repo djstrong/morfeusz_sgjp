@@ -395,38 +395,22 @@ Kadary	Kadar	depr:pl:nom:m2	nazwisko
 Kadary	Kadar	depr:pl:voc:m2	nazwisko	
 Kadarze	Kadar	subst:sg:loc:m1	nazwisko	
 Kadarze	Kadar	subst:sg:voc:m1	nazwisko	
-Kadenach	Kaden	subst:pl:loc:m1	nazwisko	
-Kadenach	Kaden	subst:pl:loc:m1	pseudonim	
-Kadena	Kaden	subst:sg:acc:m1	nazwisko	
-Kadena	Kaden	subst:sg:acc:m1	pseudonim	
-Kadena	Kaden	subst:sg:gen:m1	nazwisko	
-Kadena	Kaden	subst:sg:gen:m1	pseudonim	
-Kadenami	Kaden	subst:pl:inst:m1	nazwisko	
-Kadenami	Kaden	subst:pl:inst:m1	pseudonim	
-Kadenem	Kaden	subst:sg:inst:m1	nazwisko	
-Kadenem	Kaden	subst:sg:inst:m1	pseudonim	
-Kadenie	Kaden	subst:sg:loc:m1	nazwisko	
-Kadenie	Kaden	subst:sg:loc:m1	pseudonim	
-Kadenie	Kaden	subst:sg:voc:m1	nazwisko	
-Kadenie	Kaden	subst:sg:voc:m1	pseudonim	
-Kaden	Kaden	subst:sg:nom:m1	nazwisko	
-Kaden	Kaden	subst:sg:nom:m1	pseudonim	
-Kadenom	Kaden	subst:pl:dat:m1	nazwisko	
-Kadenom	Kaden	subst:pl:dat:m1	pseudonim	
-Kadenowie	Kaden	subst:pl:nom:m1	nazwisko	
-Kadenowie	Kaden	subst:pl:nom:m1	pseudonim	
-Kadenowie	Kaden	subst:pl:voc:m1	nazwisko	
-Kadenowie	Kaden	subst:pl:voc:m1	pseudonim	
-Kadenowi	Kaden	subst:sg:dat:m1	nazwisko	
-Kadenowi	Kaden	subst:sg:dat:m1	pseudonim	
-Kadenów	Kaden	subst:pl:acc:m1	nazwisko	
-Kadenów	Kaden	subst:pl:acc:m1	pseudonim	
-Kadenów	Kaden	subst:pl:gen:m1	nazwisko	
-Kadenów	Kaden	subst:pl:gen:m1	pseudonim	
-Kadeny	Kaden	depr:pl:nom:m2	nazwisko	
-Kadeny	Kaden	depr:pl:nom:m2	pseudonim	
-Kadeny	Kaden	depr:pl:voc:m2	nazwisko	
-Kadeny	Kaden	depr:pl:voc:m2	pseudonim	
+Kadenach	Kaden	subst:pl:loc:m1	nazwisko|pseudonim	
+Kadena	Kaden	subst:sg:acc:m1	nazwisko|pseudonim	
+Kadena	Kaden	subst:sg:gen:m1	nazwisko|pseudonim	
+Kadenami	Kaden	subst:pl:inst:m1	nazwisko|pseudonim	
+Kadenem	Kaden	subst:sg:inst:m1	nazwisko|pseudonim	
+Kadenie	Kaden	subst:sg:loc:m1	nazwisko|pseudonim	
+Kadenie	Kaden	subst:sg:voc:m1	nazwisko|pseudonim	
+Kaden	Kaden	subst:sg:nom:m1	nazwisko|pseudonim	
+Kadenom	Kaden	subst:pl:dat:m1	nazwisko|pseudonim	
+Kadenowie	Kaden	subst:pl:nom:m1	nazwisko|pseudonim	
+Kadenowie	Kaden	subst:pl:voc:m1	nazwisko|pseudonim	
+Kadenowi	Kaden	subst:sg:dat:m1	nazwisko|pseudonim	
+Kadenów	Kaden	subst:pl:acc:m1	nazwisko|pseudonim	
+Kadenów	Kaden	subst:pl:gen:m1	nazwisko|pseudonim	
+Kadeny	Kaden	depr:pl:nom:m2	nazwisko|pseudonim	
+Kadeny	Kaden	depr:pl:voc:m2	nazwisko|pseudonim	
 Kadenacego	Kadenacy	subst:sg:acc:m1	nazwisko	
 Kadenacego	Kadenacy	subst:sg:gen:m1	nazwisko	
 Kadenace	Kadenacy	depr:pl:nom:m2	nazwisko	
@@ -445,38 +429,22 @@ Kadenacymi	Kadenacy	subst:pl:inst:m1	nazwisko
 Kadenacym	Kadenacy	subst:pl:dat:m1	nazwisko	
 Kadenacym	Kadenacy	subst:sg:inst:m1	nazwisko	
 Kadenacym	Kadenacy	subst:sg:loc:m1	nazwisko	
-Kadłubek	Kadłubek	subst:sg:nom:m1	nazwisko	
-Kadłubek	Kadłubek	subst:sg:nom:m1	przydomek	
-Kadłubkach	Kadłubek	subst:pl:loc:m1	nazwisko	
-Kadłubkach	Kadłubek	subst:pl:loc:m1	przydomek	
-Kadłubka	Kadłubek	subst:sg:acc:m1	nazwisko	
-Kadłubka	Kadłubek	subst:sg:acc:m1	przydomek	
-Kadłubka	Kadłubek	subst:sg:gen:m1	nazwisko	
-Kadłubka	Kadłubek	subst:sg:gen:m1	przydomek	
-Kadłubkami	Kadłubek	subst:pl:inst:m1	nazwisko	
-Kadłubkami	Kadłubek	subst:pl:inst:m1	przydomek	
-Kadłubkiem	Kadłubek	subst:sg:inst:m1	nazwisko	
-Kadłubkiem	Kadłubek	subst:sg:inst:m1	przydomek	
-Kadłubki	Kadłubek	depr:pl:nom:m2	nazwisko	
-Kadłubki	Kadłubek	depr:pl:nom:m2	przydomek	
-Kadłubki	Kadłubek	depr:pl:voc:m2	nazwisko	
-Kadłubki	Kadłubek	depr:pl:voc:m2	przydomek	
-Kadłubkom	Kadłubek	subst:pl:dat:m1	nazwisko	
-Kadłubkom	Kadłubek	subst:pl:dat:m1	przydomek	
-Kadłubkowie	Kadłubek	subst:pl:nom:m1	nazwisko	
-Kadłubkowie	Kadłubek	subst:pl:nom:m1	przydomek	
-Kadłubkowie	Kadłubek	subst:pl:voc:m1	nazwisko	
-Kadłubkowie	Kadłubek	subst:pl:voc:m1	przydomek	
-Kadłubkowi	Kadłubek	subst:sg:dat:m1	nazwisko	
-Kadłubkowi	Kadłubek	subst:sg:dat:m1	przydomek	
-Kadłubków	Kadłubek	subst:pl:acc:m1	nazwisko	
-Kadłubków	Kadłubek	subst:pl:acc:m1	przydomek	
-Kadłubków	Kadłubek	subst:pl:gen:m1	nazwisko	
-Kadłubków	Kadłubek	subst:pl:gen:m1	przydomek	
-Kadłubku	Kadłubek	subst:sg:loc:m1	nazwisko	
-Kadłubku	Kadłubek	subst:sg:loc:m1	przydomek	
-Kadłubku	Kadłubek	subst:sg:voc:m1	nazwisko	
-Kadłubku	Kadłubek	subst:sg:voc:m1	przydomek	
+Kadłubek	Kadłubek	subst:sg:nom:m1	nazwisko|przydomek	
+Kadłubkach	Kadłubek	subst:pl:loc:m1	nazwisko|przydomek	
+Kadłubka	Kadłubek	subst:sg:acc:m1	nazwisko|przydomek	
+Kadłubka	Kadłubek	subst:sg:gen:m1	nazwisko|przydomek	
+Kadłubkami	Kadłubek	subst:pl:inst:m1	nazwisko|przydomek	
+Kadłubkiem	Kadłubek	subst:sg:inst:m1	nazwisko|przydomek	
+Kadłubki	Kadłubek	depr:pl:nom:m2	nazwisko|przydomek	
+Kadłubki	Kadłubek	depr:pl:voc:m2	nazwisko|przydomek	
+Kadłubkom	Kadłubek	subst:pl:dat:m1	nazwisko|przydomek	
+Kadłubkowie	Kadłubek	subst:pl:nom:m1	nazwisko|przydomek	
+Kadłubkowie	Kadłubek	subst:pl:voc:m1	nazwisko|przydomek	
+Kadłubkowi	Kadłubek	subst:sg:dat:m1	nazwisko|przydomek	
+Kadłubków	Kadłubek	subst:pl:acc:m1	nazwisko|przydomek	
+Kadłubków	Kadłubek	subst:pl:gen:m1	nazwisko|przydomek	
+Kadłubku	Kadłubek	subst:sg:loc:m1	nazwisko|przydomek	
+Kadłubku	Kadłubek	subst:sg:voc:m1	nazwisko|przydomek	
 Kadmonach	Kadmon	subst:pl:loc:m1	imię	
 Kadmona	Kadmon	subst:sg:acc:m1	imię	
 Kadmona	Kadmon	subst:sg:gen:m1	imię	
@@ -2055,22 +2023,22 @@ Kapczyńskimi	Kapczyński	subst:pl:inst:m1	nazwisko
 Kapczyńskim	Kapczyński	subst:pl:dat:m1	nazwisko	
 Kapczyńskim	Kapczyński	subst:sg:inst:m1	nazwisko	
 Kapczyńskim	Kapczyński	subst:sg:loc:m1	nazwisko	
-Kapetyngach	Kapetyng	subst:pl:loc:m1	członek_rodu	hist.
-Kapetynga	Kapetyng	subst:sg:acc:m1	członek_rodu	hist.
-Kapetynga	Kapetyng	subst:sg:gen:m1	członek_rodu	hist.
-Kapetyngami	Kapetyng	subst:pl:inst:m1	członek_rodu	hist.
-Kapetyngiem	Kapetyng	subst:sg:inst:m1	członek_rodu	hist.
-Kapetyngi	Kapetyng	depr:pl:nom:m2	członek_rodu	hist.
-Kapetyngi	Kapetyng	depr:pl:voc:m2	członek_rodu	hist.
-Kapetyng	Kapetyng	subst:sg:nom:m1	członek_rodu	hist.
-Kapetyngom	Kapetyng	subst:pl:dat:m1	członek_rodu	hist.
-Kapetyngowie	Kapetyng	subst:pl:nom:m1	członek_rodu	hist.
-Kapetyngowie	Kapetyng	subst:pl:voc:m1	członek_rodu	hist.
-Kapetyngowi	Kapetyng	subst:sg:dat:m1	członek_rodu	hist.
-Kapetyngów	Kapetyng	subst:pl:acc:m1	członek_rodu	hist.
-Kapetyngów	Kapetyng	subst:pl:gen:m1	członek_rodu	hist.
-Kapetyngu	Kapetyng	subst:sg:loc:m1	członek_rodu	hist.
-Kapetyngu	Kapetyng	subst:sg:voc:m1	członek_rodu	hist.
+Kapetyngach	Kapetyng	subst:pl:loc:m1	członek rodu	hist.
+Kapetynga	Kapetyng	subst:sg:acc:m1	członek rodu	hist.
+Kapetynga	Kapetyng	subst:sg:gen:m1	członek rodu	hist.
+Kapetyngami	Kapetyng	subst:pl:inst:m1	członek rodu	hist.
+Kapetyngiem	Kapetyng	subst:sg:inst:m1	członek rodu	hist.
+Kapetyngi	Kapetyng	depr:pl:nom:m2	członek rodu	hist.
+Kapetyngi	Kapetyng	depr:pl:voc:m2	członek rodu	hist.
+Kapetyng	Kapetyng	subst:sg:nom:m1	członek rodu	hist.
+Kapetyngom	Kapetyng	subst:pl:dat:m1	członek rodu	hist.
+Kapetyngowie	Kapetyng	subst:pl:nom:m1	członek rodu	hist.
+Kapetyngowie	Kapetyng	subst:pl:voc:m1	członek rodu	hist.
+Kapetyngowi	Kapetyng	subst:sg:dat:m1	członek rodu	hist.
+Kapetyngów	Kapetyng	subst:pl:acc:m1	członek rodu	hist.
+Kapetyngów	Kapetyng	subst:pl:gen:m1	członek rodu	hist.
+Kapetyngu	Kapetyng	subst:sg:loc:m1	członek rodu	hist.
+Kapetyngu	Kapetyng	subst:sg:voc:m1	członek rodu	hist.
 Kapitolach	Kapitol	subst:pl:loc:m3	geograficzna	
 Kapitolami	Kapitol	subst:pl:inst:m3	geograficzna	
 Kapitole	Kapitol	subst:pl:acc:m3	geograficzna	
@@ -2720,22 +2688,22 @@ Karoliny	Karolina	subst:pl:acc:f	imię
 Karoliny	Karolina	subst:pl:nom:f	imię	
 Karoliny	Karolina	subst:pl:voc:f	imię	
 Karoliny	Karolina	subst:sg:gen:f	imię	
-Karolingach	Karoling	subst:pl:loc:m1	członek_rodu	
-Karolinga	Karoling	subst:sg:acc:m1	członek_rodu	
-Karolinga	Karoling	subst:sg:gen:m1	członek_rodu	
-Karolingami	Karoling	subst:pl:inst:m1	członek_rodu	
-Karolingiem	Karoling	subst:sg:inst:m1	członek_rodu	
-Karolingi	Karoling	depr:pl:nom:m2	członek_rodu	
-Karolingi	Karoling	depr:pl:voc:m2	członek_rodu	
-Karoling	Karoling	subst:sg:nom:m1	członek_rodu	
-Karolingom	Karoling	subst:pl:dat:m1	członek_rodu	
-Karolingowie	Karoling	subst:pl:nom:m1	członek_rodu	
-Karolingowie	Karoling	subst:pl:voc:m1	członek_rodu	
-Karolingowi	Karoling	subst:sg:dat:m1	członek_rodu	
-Karolingów	Karoling	subst:pl:acc:m1	członek_rodu	
-Karolingów	Karoling	subst:pl:gen:m1	członek_rodu	
-Karolingu	Karoling	subst:sg:loc:m1	członek_rodu	
-Karolingu	Karoling	subst:sg:voc:m1	członek_rodu	
+Karolingach	Karoling	subst:pl:loc:m1	członek rodu	
+Karolinga	Karoling	subst:sg:acc:m1	członek rodu	
+Karolinga	Karoling	subst:sg:gen:m1	członek rodu	
+Karolingami	Karoling	subst:pl:inst:m1	członek rodu	
+Karolingiem	Karoling	subst:sg:inst:m1	członek rodu	
+Karolingi	Karoling	depr:pl:nom:m2	członek rodu	
+Karolingi	Karoling	depr:pl:voc:m2	członek rodu	
+Karoling	Karoling	subst:sg:nom:m1	członek rodu	
+Karolingom	Karoling	subst:pl:dat:m1	członek rodu	
+Karolingowie	Karoling	subst:pl:nom:m1	członek rodu	
+Karolingowie	Karoling	subst:pl:voc:m1	członek rodu	
+Karolingowi	Karoling	subst:sg:dat:m1	członek rodu	
+Karolingów	Karoling	subst:pl:acc:m1	członek rodu	
+Karolingów	Karoling	subst:pl:gen:m1	członek rodu	
+Karolingu	Karoling	subst:sg:loc:m1	członek rodu	
+Karolingu	Karoling	subst:sg:voc:m1	członek rodu	
 Karolince	Karolinka	subst:sg:dat:f	imię	
 Karolince	Karolinka	subst:sg:loc:f	imię	
 Karolinek	Karolinka	subst:pl:gen:f	imię	
@@ -4528,42 +4496,24 @@ Kennedymi	Kennedy	subst:pl:inst:m1	nazwisko
 Kennedym	Kennedy	subst:pl:dat:m1	nazwisko	
 Kennedym	Kennedy	subst:sg:inst:m1	nazwisko	
 Kennedym	Kennedy	subst:sg:loc:m1	nazwisko	
-Kennecie	Kenneth	subst:sg:loc:m1	geograficzna	
-Kennecie	Kenneth	subst:sg:loc:m1	imię	
-Kennecie	Kenneth	subst:sg:voc:m1	geograficzna	
-Kennecie	Kenneth	subst:sg:voc:m1	imię	
-Kennesie	Kenneth	subst:sg:loc:m1	geograficzna	
-Kennesie	Kenneth	subst:sg:loc:m1	imię	
-Kennesie	Kenneth	subst:sg:voc:m1	geograficzna	
-Kennesie	Kenneth	subst:sg:voc:m1	imię	
-Kennethach	Kenneth	subst:pl:loc:m1	geograficzna	
-Kennethach	Kenneth	subst:pl:loc:m1	imię	
-Kennetha	Kenneth	subst:sg:acc:m1	geograficzna	
-Kennetha	Kenneth	subst:sg:acc:m1	imię	
-Kennetha	Kenneth	subst:sg:gen:m1	geograficzna	
-Kennetha	Kenneth	subst:sg:gen:m1	imię	
-Kennethami	Kenneth	subst:pl:inst:m1	geograficzna	
-Kennethami	Kenneth	subst:pl:inst:m1	imię	
-Kennethem	Kenneth	subst:sg:inst:m1	geograficzna	
-Kennethem	Kenneth	subst:sg:inst:m1	imię	
-Kenneth	Kenneth	subst:sg:nom:m1	geograficzna	
-Kenneth	Kenneth	subst:sg:nom:m1	imię	
-Kennethom	Kenneth	subst:pl:dat:m1	geograficzna	
-Kennethom	Kenneth	subst:pl:dat:m1	imię	
-Kennethowie	Kenneth	subst:pl:nom:m1	geograficzna	
-Kennethowie	Kenneth	subst:pl:nom:m1	imię	
-Kennethowie	Kenneth	subst:pl:voc:m1	geograficzna	
-Kennethowie	Kenneth	subst:pl:voc:m1	imię	
-Kennethowi	Kenneth	subst:sg:dat:m1	geograficzna	
-Kennethowi	Kenneth	subst:sg:dat:m1	imię	
-Kennethów	Kenneth	subst:pl:acc:m1	geograficzna	
-Kennethów	Kenneth	subst:pl:acc:m1	imię	
-Kennethów	Kenneth	subst:pl:gen:m1	geograficzna	
-Kennethów	Kenneth	subst:pl:gen:m1	imię	
-Kennethy	Kenneth	depr:pl:nom:m2	geograficzna	
-Kennethy	Kenneth	depr:pl:nom:m2	imię	
-Kennethy	Kenneth	depr:pl:voc:m2	geograficzna	
-Kennethy	Kenneth	depr:pl:voc:m2	imię	
+Kennecie	Kenneth	subst:sg:loc:m1	imię|geograficzna	
+Kennecie	Kenneth	subst:sg:voc:m1	imię|geograficzna	
+Kennesie	Kenneth	subst:sg:loc:m1	imię|geograficzna	
+Kennesie	Kenneth	subst:sg:voc:m1	imię|geograficzna	
+Kennethach	Kenneth	subst:pl:loc:m1	imię|geograficzna	
+Kennetha	Kenneth	subst:sg:acc:m1	imię|geograficzna	
+Kennetha	Kenneth	subst:sg:gen:m1	imię|geograficzna	
+Kennethami	Kenneth	subst:pl:inst:m1	imię|geograficzna	
+Kennethem	Kenneth	subst:sg:inst:m1	imię|geograficzna	
+Kenneth	Kenneth	subst:sg:nom:m1	imię|geograficzna	
+Kennethom	Kenneth	subst:pl:dat:m1	imię|geograficzna	
+Kennethowie	Kenneth	subst:pl:nom:m1	imię|geograficzna	
+Kennethowie	Kenneth	subst:pl:voc:m1	imię|geograficzna	
+Kennethowi	Kenneth	subst:sg:dat:m1	imię|geograficzna	
+Kennethów	Kenneth	subst:pl:acc:m1	imię|geograficzna	
+Kennethów	Kenneth	subst:pl:gen:m1	imię|geograficzna	
+Kennethy	Kenneth	depr:pl:nom:m2	imię|geograficzna	
+Kennethy	Kenneth	depr:pl:voc:m2	imię|geograficzna	
 Kencie	Kent	subst:sg:loc:m3	geograficzna	
 Kencie	Kent	subst:sg:voc:m3	geograficzna	
 Kentach	Kent	subst:pl:loc:m3	geograficzna	
@@ -5818,38 +5768,22 @@ Kirgizki	Kirgizka	subst:pl:voc:f	pospolita
 Kirgizki	Kirgizka	subst:sg:gen:f	pospolita	
 Kirgizko	Kirgizka	subst:sg:voc:f	pospolita	
 Kirgizkom	Kirgizka	subst:pl:dat:f	pospolita	
-Kirkach	Kirk	subst:pl:loc:m1	imię	
-Kirkach	Kirk	subst:pl:loc:m1	nazwisko	
-Kirka	Kirk	subst:sg:acc:m1	imię	
-Kirka	Kirk	subst:sg:acc:m1	nazwisko	
-Kirka	Kirk	subst:sg:gen:m1	imię	
-Kirka	Kirk	subst:sg:gen:m1	nazwisko	
-Kirkami	Kirk	subst:pl:inst:m1	imię	
-Kirkami	Kirk	subst:pl:inst:m1	nazwisko	
-Kirkiem	Kirk	subst:sg:inst:m1	imię	
-Kirkiem	Kirk	subst:sg:inst:m1	nazwisko	
-Kirki	Kirk	depr:pl:nom:m2	imię	
-Kirki	Kirk	depr:pl:nom:m2	nazwisko	
-Kirki	Kirk	depr:pl:voc:m2	imię	
-Kirki	Kirk	depr:pl:voc:m2	nazwisko	
-Kirk	Kirk	subst:sg:nom:m1	imię	
-Kirk	Kirk	subst:sg:nom:m1	nazwisko	
-Kirkom	Kirk	subst:pl:dat:m1	imię	
-Kirkom	Kirk	subst:pl:dat:m1	nazwisko	
-Kirkowie	Kirk	subst:pl:nom:m1	imię	
-Kirkowie	Kirk	subst:pl:nom:m1	nazwisko	
-Kirkowie	Kirk	subst:pl:voc:m1	imię	
-Kirkowie	Kirk	subst:pl:voc:m1	nazwisko	
-Kirkowi	Kirk	subst:sg:dat:m1	imię	
-Kirkowi	Kirk	subst:sg:dat:m1	nazwisko	
-Kirków	Kirk	subst:pl:acc:m1	imię	
-Kirków	Kirk	subst:pl:acc:m1	nazwisko	
-Kirków	Kirk	subst:pl:gen:m1	imię	
-Kirków	Kirk	subst:pl:gen:m1	nazwisko	
-Kirku	Kirk	subst:sg:loc:m1	imię	
-Kirku	Kirk	subst:sg:loc:m1	nazwisko	
-Kirku	Kirk	subst:sg:voc:m1	imię	
-Kirku	Kirk	subst:sg:voc:m1	nazwisko	
+Kirkach	Kirk	subst:pl:loc:m1	imię|nazwisko	
+Kirka	Kirk	subst:sg:acc:m1	imię|nazwisko	
+Kirka	Kirk	subst:sg:gen:m1	imię|nazwisko	
+Kirkami	Kirk	subst:pl:inst:m1	imię|nazwisko	
+Kirkiem	Kirk	subst:sg:inst:m1	imię|nazwisko	
+Kirki	Kirk	depr:pl:nom:m2	imię|nazwisko	
+Kirki	Kirk	depr:pl:voc:m2	imię|nazwisko	
+Kirk	Kirk	subst:sg:nom:m1	imię|nazwisko	
+Kirkom	Kirk	subst:pl:dat:m1	imię|nazwisko	
+Kirkowie	Kirk	subst:pl:nom:m1	imię|nazwisko	
+Kirkowie	Kirk	subst:pl:voc:m1	imię|nazwisko	
+Kirkowi	Kirk	subst:sg:dat:m1	imię|nazwisko	
+Kirków	Kirk	subst:pl:acc:m1	imię|nazwisko	
+Kirków	Kirk	subst:pl:gen:m1	imię|nazwisko	
+Kirku	Kirk	subst:sg:loc:m1	imię|nazwisko	
+Kirku	Kirk	subst:sg:voc:m1	imię|nazwisko	
 Kirke	Kirke	subst:pl:acc:f	imię	mit.
 Kirke	Kirke	subst:pl:dat:f	imię	mit.
 Kirke	Kirke	subst:pl:gen:f	imię	mit.
@@ -6655,38 +6589,22 @@ Klimczaków	Klimczak	subst:pl:acc:m1	nazwisko
 Klimczaków	Klimczak	subst:pl:gen:m1	nazwisko	
 Klimczaku	Klimczak	subst:sg:loc:m1	nazwisko	
 Klimczaku	Klimczak	subst:sg:voc:m1	nazwisko	
-Klimek	Klimek	subst:sg:nom:m1	imię	
-Klimek	Klimek	subst:sg:nom:m1	nazwisko	
-Klimkach	Klimek	subst:pl:loc:m1	imię	
-Klimkach	Klimek	subst:pl:loc:m1	nazwisko	
-Klimka	Klimek	subst:sg:acc:m1	imię	
-Klimka	Klimek	subst:sg:acc:m1	nazwisko	
-Klimka	Klimek	subst:sg:gen:m1	imię	
-Klimka	Klimek	subst:sg:gen:m1	nazwisko	
-Klimkami	Klimek	subst:pl:inst:m1	imię	
-Klimkami	Klimek	subst:pl:inst:m1	nazwisko	
-Klimkiem	Klimek	subst:sg:inst:m1	imię	
-Klimkiem	Klimek	subst:sg:inst:m1	nazwisko	
-Klimki	Klimek	depr:pl:nom:m2	imię	
-Klimki	Klimek	depr:pl:nom:m2	nazwisko	
-Klimki	Klimek	depr:pl:voc:m2	imię	
-Klimki	Klimek	depr:pl:voc:m2	nazwisko	
-Klimkom	Klimek	subst:pl:dat:m1	imię	
-Klimkom	Klimek	subst:pl:dat:m1	nazwisko	
-Klimkowie	Klimek	subst:pl:nom:m1	imię	
-Klimkowie	Klimek	subst:pl:nom:m1	nazwisko	
-Klimkowie	Klimek	subst:pl:voc:m1	imię	
-Klimkowie	Klimek	subst:pl:voc:m1	nazwisko	
-Klimkowi	Klimek	subst:sg:dat:m1	imię	
-Klimkowi	Klimek	subst:sg:dat:m1	nazwisko	
-Klimków	Klimek	subst:pl:acc:m1	imię	
-Klimków	Klimek	subst:pl:acc:m1	nazwisko	
-Klimków	Klimek	subst:pl:gen:m1	imię	
-Klimków	Klimek	subst:pl:gen:m1	nazwisko	
-Klimku	Klimek	subst:sg:loc:m1	imię	
-Klimku	Klimek	subst:sg:loc:m1	nazwisko	
-Klimku	Klimek	subst:sg:voc:m1	imię	
-Klimku	Klimek	subst:sg:voc:m1	nazwisko	
+Klimek	Klimek	subst:sg:nom:m1	imię|nazwisko	
+Klimkach	Klimek	subst:pl:loc:m1	imię|nazwisko	
+Klimka	Klimek	subst:sg:acc:m1	imię|nazwisko	
+Klimka	Klimek	subst:sg:gen:m1	imię|nazwisko	
+Klimkami	Klimek	subst:pl:inst:m1	imię|nazwisko	
+Klimkiem	Klimek	subst:sg:inst:m1	imię|nazwisko	
+Klimki	Klimek	depr:pl:nom:m2	imię|nazwisko	
+Klimki	Klimek	depr:pl:voc:m2	imię|nazwisko	
+Klimkom	Klimek	subst:pl:dat:m1	imię|nazwisko	
+Klimkowie	Klimek	subst:pl:nom:m1	imię|nazwisko	
+Klimkowie	Klimek	subst:pl:voc:m1	imię|nazwisko	
+Klimkowi	Klimek	subst:sg:dat:m1	imię|nazwisko	
+Klimków	Klimek	subst:pl:acc:m1	imię|nazwisko	
+Klimków	Klimek	subst:pl:gen:m1	imię|nazwisko	
+Klimku	Klimek	subst:sg:loc:m1	imię|nazwisko	
+Klimku	Klimek	subst:sg:voc:m1	imię|nazwisko	
 Klimontowicach	Klimontowice	subst:pl:loc:p2	geograficzna	rzad.
 Klimontowicach	Klimontowice	subst:pl:loc:p3	geograficzna	
 Klimontowicami	Klimontowice	subst:pl:inst:p2	geograficzna	rzad.
@@ -8836,36 +8754,21 @@ Konstancinów	Konstancin	subst:pl:gen:m3	geograficzna
 Konstanciny	Konstancin	subst:pl:acc:m3	geograficzna	
 Konstanciny	Konstancin	subst:pl:nom:m3	geograficzna	
 Konstanciny	Konstancin	subst:pl:voc:m3	geograficzna	
-Konstancjach	Konstancja	subst:pl:loc:f	geograficzna	
-Konstancjach	Konstancja	subst:pl:loc:f	imię	
-Konstancja	Konstancja	subst:sg:nom:f	geograficzna	
-Konstancja	Konstancja	subst:sg:nom:f	imię	
-Konstancjami	Konstancja	subst:pl:inst:f	geograficzna	
-Konstancjami	Konstancja	subst:pl:inst:f	imię	
-Konstancją	Konstancja	subst:sg:inst:f	geograficzna	
-Konstancją	Konstancja	subst:sg:inst:f	imię	
-Konstancje	Konstancja	subst:pl:acc:f	geograficzna	
-Konstancje	Konstancja	subst:pl:acc:f	imię	
-Konstancje	Konstancja	subst:pl:nom:f	geograficzna	
-Konstancje	Konstancja	subst:pl:nom:f	imię	
-Konstancje	Konstancja	subst:pl:voc:f	geograficzna	
-Konstancje	Konstancja	subst:pl:voc:f	imię	
-Konstancję	Konstancja	subst:sg:acc:f	geograficzna	
-Konstancję	Konstancja	subst:sg:acc:f	imię	
-Konstancji	Konstancja	subst:pl:gen:f	geograficzna	hom.
-Konstancji	Konstancja	subst:pl:gen:f	imię	hom.
-Konstancji	Konstancja	subst:sg:dat:f	geograficzna	
-Konstancji	Konstancja	subst:sg:dat:f	imię	
-Konstancji	Konstancja	subst:sg:gen:f	geograficzna	
-Konstancji	Konstancja	subst:sg:gen:f	imię	
-Konstancji	Konstancja	subst:sg:loc:f	geograficzna	
-Konstancji	Konstancja	subst:sg:loc:f	imię	
-Konstancjo	Konstancja	subst:sg:voc:f	geograficzna	
-Konstancjo	Konstancja	subst:sg:voc:f	imię	
-Konstancjom	Konstancja	subst:pl:dat:f	geograficzna	
-Konstancjom	Konstancja	subst:pl:dat:f	imię	
-Konstancyj	Konstancja	subst:pl:gen:f	geograficzna	arch.|char.
-Konstancyj	Konstancja	subst:pl:gen:f	imię	arch.|char.
+Konstancjach	Konstancja	subst:pl:loc:f	imię|geograficzna	
+Konstancja	Konstancja	subst:sg:nom:f	imię|geograficzna	
+Konstancjami	Konstancja	subst:pl:inst:f	imię|geograficzna	
+Konstancją	Konstancja	subst:sg:inst:f	imię|geograficzna	
+Konstancje	Konstancja	subst:pl:acc:f	imię|geograficzna	
+Konstancje	Konstancja	subst:pl:nom:f	imię|geograficzna	
+Konstancje	Konstancja	subst:pl:voc:f	imię|geograficzna	
+Konstancję	Konstancja	subst:sg:acc:f	imię|geograficzna	
+Konstancji	Konstancja	subst:pl:gen:f	imię|geograficzna	hom.
+Konstancji	Konstancja	subst:sg:dat:f	imię|geograficzna	
+Konstancji	Konstancja	subst:sg:gen:f	imię|geograficzna	
+Konstancji	Konstancja	subst:sg:loc:f	imię|geograficzna	
+Konstancjo	Konstancja	subst:sg:voc:f	imię|geograficzna	
+Konstancjom	Konstancja	subst:pl:dat:f	imię|geograficzna	
+Konstancyj	Konstancja	subst:pl:gen:f	imię|geograficzna	arch.|char.
 Konstancjuszach	Konstancjusz	subst:pl:loc:m1	imię	
 Konstancjusza	Konstancjusz	subst:sg:acc:m1	imię	
 Konstancjusza	Konstancjusz	subst:sg:gen:m1	imię	
@@ -8964,20 +8867,20 @@ Konstantynowy	Konstantynów	subst:pl:nom:m3	geograficzna
 Konstantynowy	Konstantynów	subst:pl:voc:m3	geograficzna	
 Konstantynów	Konstantynów	subst:sg:acc:m3	geograficzna	
 Konstantynów	Konstantynów	subst:sg:nom:m3	geograficzna	
-Kon-Tiki	Kon-Tiki	subst:pl:acc:n2	środek_lokomocji	
-Kon-Tiki	Kon-Tiki	subst:pl:dat:n2	środek_lokomocji	
-Kon-Tiki	Kon-Tiki	subst:pl:gen:n2	środek_lokomocji	
-Kon-Tiki	Kon-Tiki	subst:pl:inst:n2	środek_lokomocji	
-Kon-Tiki	Kon-Tiki	subst:pl:loc:n2	środek_lokomocji	
-Kon-Tiki	Kon-Tiki	subst:pl:nom:n2	środek_lokomocji	
-Kon-Tiki	Kon-Tiki	subst:pl:voc:n2	środek_lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:acc:n2	środek_lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:dat:n2	środek_lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:gen:n2	środek_lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:inst:n2	środek_lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:loc:n2	środek_lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:nom:n2	środek_lokomocji	
-Kon-Tiki	Kon-Tiki	subst:sg:voc:n2	środek_lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:acc:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:dat:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:gen:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:inst:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:loc:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:nom:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:pl:voc:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:acc:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:dat:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:gen:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:inst:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:loc:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:nom:n2	środek lokomocji	
+Kon-Tiki	Kon-Tiki	subst:sg:voc:n2	środek lokomocji	
 Konwicka	Konwicka	subst:sg:nom:f	nazwisko	
 Konwicka	Konwicka	subst:sg:voc:f	nazwisko	
 Konwicką	Konwicka	subst:sg:acc:f	nazwisko	
@@ -9874,100 +9777,53 @@ Korsykańczyków	Korsykańczyk	subst:pl:acc:m1	pospolita
 Korsykańczyków	Korsykańczyk	subst:pl:gen:m1	pospolita	
 Korsykańczyku	Korsykańczyk	subst:sg:loc:m1	pospolita	
 Korsykańczyku	Korsykańczyk	subst:sg:voc:m1	pospolita	
-Korwinach	Korwin	subst:pl:loc:m1	człon_nazwiska_(herb)	
-Korwinach	Korwin	subst:pl:loc:m1	nazwisko	
-Korwina	Korwin	subst:sg:acc:m1	człon_nazwiska_(herb)	
-Korwina	Korwin	subst:sg:acc:m1	nazwisko	
-Korwina	Korwin	subst:sg:gen:m1	człon_nazwiska_(herb)	
-Korwina	Korwin	subst:sg:gen:m1	nazwisko	
-Korwinami	Korwin	subst:pl:inst:m1	człon_nazwiska_(herb)	
-Korwinami	Korwin	subst:pl:inst:m1	nazwisko	
-Korwinem	Korwin	subst:sg:inst:m1	człon_nazwiska_(herb)	
-Korwinem	Korwin	subst:sg:inst:m1	nazwisko	
-Korwinie	Korwin	subst:sg:loc:m1	człon_nazwiska_(herb)	
-Korwinie	Korwin	subst:sg:loc:m1	nazwisko	
-Korwinie	Korwin	subst:sg:voc:m1	człon_nazwiska_(herb)	
-Korwinie	Korwin	subst:sg:voc:m1	nazwisko	
-Korwin	Korwin	depr:pl:nom:m2	człon_nazwiska_(herb)	
-Korwin	Korwin	depr:pl:nom:m2	nazwisko	
-Korwin	Korwin	depr:pl:voc:m2	człon_nazwiska_(herb)	
-Korwin	Korwin	depr:pl:voc:m2	nazwisko	
-Korwin	Korwin	subst:pl:acc:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:pl:acc:m1	nazwisko	
-Korwin	Korwin	subst:pl:dat:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:pl:dat:m1	nazwisko	
-Korwin	Korwin	subst:pl:gen:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:pl:gen:m1	nazwisko	
-Korwin	Korwin	subst:pl:inst:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:pl:inst:m1	nazwisko	
-Korwin	Korwin	subst:pl:loc:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:pl:loc:m1	nazwisko	
-Korwin	Korwin	subst:pl:nom:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:pl:nom:m1	nazwisko	
-Korwin	Korwin	subst:pl:voc:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:pl:voc:m1	nazwisko	
-Korwin	Korwin	subst:sg:acc:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:sg:acc:m1	nazwisko	
-Korwin	Korwin	subst:sg:dat:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:sg:dat:m1	nazwisko	
-Korwin	Korwin	subst:sg:gen:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:sg:gen:m1	nazwisko	
-Korwin	Korwin	subst:sg:inst:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:sg:inst:m1	nazwisko	
-Korwin	Korwin	subst:sg:loc:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:sg:loc:m1	nazwisko	
-Korwin	Korwin	subst:sg:nom:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:sg:nom:m1	nazwisko	
-Korwin	Korwin	subst:sg:voc:m1	człon_nazwiska_(herb)	
-Korwin	Korwin	subst:sg:voc:m1	nazwisko	
-Korwinom	Korwin	subst:pl:dat:m1	człon_nazwiska_(herb)	
-Korwinom	Korwin	subst:pl:dat:m1	nazwisko	
-Korwinowie	Korwin	subst:pl:nom:m1	człon_nazwiska_(herb)	
-Korwinowie	Korwin	subst:pl:nom:m1	nazwisko	
-Korwinowie	Korwin	subst:pl:voc:m1	człon_nazwiska_(herb)	
-Korwinowie	Korwin	subst:pl:voc:m1	nazwisko	
-Korwinowi	Korwin	subst:sg:dat:m1	człon_nazwiska_(herb)	
-Korwinowi	Korwin	subst:sg:dat:m1	nazwisko	
-Korwinów	Korwin	subst:pl:acc:m1	człon_nazwiska_(herb)	
-Korwinów	Korwin	subst:pl:acc:m1	nazwisko	
-Korwinów	Korwin	subst:pl:gen:m1	człon_nazwiska_(herb)	
-Korwinów	Korwin	subst:pl:gen:m1	nazwisko	
-Korwiny	Korwin	depr:pl:nom:m2	człon_nazwiska_(herb)	
-Korwiny	Korwin	depr:pl:nom:m2	nazwisko	
-Korwiny	Korwin	depr:pl:voc:m2	człon_nazwiska_(herb)	
-Korwiny	Korwin	depr:pl:voc:m2	nazwisko	
-Korybucie	Korybut	subst:sg:loc:m1	człon_nazwiska_(herb)	
-Korybucie	Korybut	subst:sg:loc:m1	nazwisko	
-Korybucie	Korybut	subst:sg:voc:m1	człon_nazwiska_(herb)	
-Korybucie	Korybut	subst:sg:voc:m1	nazwisko	
-Korybutach	Korybut	subst:pl:loc:m1	człon_nazwiska_(herb)	
-Korybutach	Korybut	subst:pl:loc:m1	nazwisko	
-Korybuta	Korybut	subst:sg:acc:m1	człon_nazwiska_(herb)	
-Korybuta	Korybut	subst:sg:acc:m1	nazwisko	
-Korybuta	Korybut	subst:sg:gen:m1	człon_nazwiska_(herb)	
-Korybuta	Korybut	subst:sg:gen:m1	nazwisko	
-Korybutami	Korybut	subst:pl:inst:m1	człon_nazwiska_(herb)	
-Korybutami	Korybut	subst:pl:inst:m1	nazwisko	
-Korybutem	Korybut	subst:sg:inst:m1	człon_nazwiska_(herb)	
-Korybutem	Korybut	subst:sg:inst:m1	nazwisko	
-Korybut	Korybut	subst:sg:nom:m1	człon_nazwiska_(herb)	
-Korybut	Korybut	subst:sg:nom:m1	nazwisko	
-Korybutom	Korybut	subst:pl:dat:m1	człon_nazwiska_(herb)	
-Korybutom	Korybut	subst:pl:dat:m1	nazwisko	
-Korybutowie	Korybut	subst:pl:nom:m1	człon_nazwiska_(herb)	
-Korybutowie	Korybut	subst:pl:nom:m1	nazwisko	
-Korybutowie	Korybut	subst:pl:voc:m1	człon_nazwiska_(herb)	
-Korybutowie	Korybut	subst:pl:voc:m1	nazwisko	
-Korybutowi	Korybut	subst:sg:dat:m1	człon_nazwiska_(herb)	
-Korybutowi	Korybut	subst:sg:dat:m1	nazwisko	
-Korybutów	Korybut	subst:pl:acc:m1	człon_nazwiska_(herb)	
-Korybutów	Korybut	subst:pl:acc:m1	nazwisko	
-Korybutów	Korybut	subst:pl:gen:m1	człon_nazwiska_(herb)	
-Korybutów	Korybut	subst:pl:gen:m1	nazwisko	
-Korybuty	Korybut	depr:pl:nom:m2	człon_nazwiska_(herb)	
-Korybuty	Korybut	depr:pl:nom:m2	nazwisko	
-Korybuty	Korybut	depr:pl:voc:m2	człon_nazwiska_(herb)	
-Korybuty	Korybut	depr:pl:voc:m2	nazwisko	
+Korwinach	Korwin	subst:pl:loc:m1	nazwisko|człon nazwiska (herb)	
+Korwina	Korwin	subst:sg:acc:m1	nazwisko|człon nazwiska (herb)	
+Korwina	Korwin	subst:sg:gen:m1	nazwisko|człon nazwiska (herb)	
+Korwinami	Korwin	subst:pl:inst:m1	nazwisko|człon nazwiska (herb)	
+Korwinem	Korwin	subst:sg:inst:m1	nazwisko|człon nazwiska (herb)	
+Korwinie	Korwin	subst:sg:loc:m1	nazwisko|człon nazwiska (herb)	
+Korwinie	Korwin	subst:sg:voc:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	depr:pl:nom:m2	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	depr:pl:voc:m2	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:acc:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:dat:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:gen:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:inst:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:loc:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:nom:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:pl:voc:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:acc:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:dat:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:gen:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:inst:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:loc:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:nom:m1	nazwisko|człon nazwiska (herb)	
+Korwin	Korwin	subst:sg:voc:m1	nazwisko|człon nazwiska (herb)	
+Korwinom	Korwin	subst:pl:dat:m1	nazwisko|człon nazwiska (herb)	
+Korwinowie	Korwin	subst:pl:nom:m1	nazwisko|człon nazwiska (herb)	
+Korwinowie	Korwin	subst:pl:voc:m1	nazwisko|człon nazwiska (herb)	
+Korwinowi	Korwin	subst:sg:dat:m1	nazwisko|człon nazwiska (herb)	
+Korwinów	Korwin	subst:pl:acc:m1	nazwisko|człon nazwiska (herb)	
+Korwinów	Korwin	subst:pl:gen:m1	nazwisko|człon nazwiska (herb)	
+Korwiny	Korwin	depr:pl:nom:m2	nazwisko|człon nazwiska (herb)	
+Korwiny	Korwin	depr:pl:voc:m2	nazwisko|człon nazwiska (herb)	
+Korybucie	Korybut	subst:sg:loc:m1	nazwisko|człon nazwiska (herb)	
+Korybucie	Korybut	subst:sg:voc:m1	nazwisko|człon nazwiska (herb)	
+Korybutach	Korybut	subst:pl:loc:m1	nazwisko|człon nazwiska (herb)	
+Korybuta	Korybut	subst:sg:acc:m1	nazwisko|człon nazwiska (herb)	
+Korybuta	Korybut	subst:sg:gen:m1	nazwisko|człon nazwiska (herb)	
+Korybutami	Korybut	subst:pl:inst:m1	nazwisko|człon nazwiska (herb)	
+Korybutem	Korybut	subst:sg:inst:m1	nazwisko|człon nazwiska (herb)	
+Korybut	Korybut	subst:sg:nom:m1	nazwisko|człon nazwiska (herb)	
+Korybutom	Korybut	subst:pl:dat:m1	nazwisko|człon nazwiska (herb)	
+Korybutowie	Korybut	subst:pl:nom:m1	nazwisko|człon nazwiska (herb)	
+Korybutowie	Korybut	subst:pl:voc:m1	nazwisko|człon nazwiska (herb)	
+Korybutowi	Korybut	subst:sg:dat:m1	nazwisko|człon nazwiska (herb)	
+Korybutów	Korybut	subst:pl:acc:m1	nazwisko|człon nazwiska (herb)	
+Korybutów	Korybut	subst:pl:gen:m1	nazwisko|człon nazwiska (herb)	
+Korybuty	Korybut	depr:pl:nom:m2	nazwisko|człon nazwiska (herb)	
+Korybuty	Korybut	depr:pl:voc:m2	nazwisko|człon nazwiska (herb)	
 Koryncie	Korynt	subst:sg:loc:m3	geograficzna	
 Koryncie	Korynt	subst:sg:voc:m3	geograficzna	
 Koryntach	Korynt	subst:pl:loc:m3	geograficzna	

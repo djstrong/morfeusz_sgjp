@@ -785,34 +785,20 @@ Magdaleny	Magdalena	subst:pl:acc:f	imię
 Magdaleny	Magdalena	subst:pl:nom:f	imię	
 Magdaleny	Magdalena	subst:pl:voc:f	imię	
 Magdaleny	Magdalena	subst:sg:gen:f	imię	
-Magdalence	Magdalenka	subst:sg:dat:f	geograficzna	
-Magdalence	Magdalenka	subst:sg:dat:f	imię	
-Magdalence	Magdalenka	subst:sg:loc:f	geograficzna	
-Magdalence	Magdalenka	subst:sg:loc:f	imię	
-Magdalenek	Magdalenka	subst:pl:gen:f	geograficzna	
-Magdalenek	Magdalenka	subst:pl:gen:f	imię	
-Magdalenkach	Magdalenka	subst:pl:loc:f	geograficzna	
-Magdalenkach	Magdalenka	subst:pl:loc:f	imię	
-Magdalenka	Magdalenka	subst:sg:nom:f	geograficzna	
-Magdalenka	Magdalenka	subst:sg:nom:f	imię	
-Magdalenkami	Magdalenka	subst:pl:inst:f	geograficzna	
-Magdalenkami	Magdalenka	subst:pl:inst:f	imię	
-Magdalenką	Magdalenka	subst:sg:inst:f	geograficzna	
-Magdalenką	Magdalenka	subst:sg:inst:f	imię	
-Magdalenkę	Magdalenka	subst:sg:acc:f	geograficzna	
-Magdalenkę	Magdalenka	subst:sg:acc:f	imię	
-Magdalenki	Magdalenka	subst:pl:acc:f	geograficzna	
-Magdalenki	Magdalenka	subst:pl:acc:f	imię	
-Magdalenki	Magdalenka	subst:pl:nom:f	geograficzna	
-Magdalenki	Magdalenka	subst:pl:nom:f	imię	
-Magdalenki	Magdalenka	subst:pl:voc:f	geograficzna	
-Magdalenki	Magdalenka	subst:pl:voc:f	imię	
-Magdalenki	Magdalenka	subst:sg:gen:f	geograficzna	
-Magdalenki	Magdalenka	subst:sg:gen:f	imię	
-Magdalenko	Magdalenka	subst:sg:voc:f	geograficzna	
-Magdalenko	Magdalenka	subst:sg:voc:f	imię	
-Magdalenkom	Magdalenka	subst:pl:dat:f	geograficzna	
-Magdalenkom	Magdalenka	subst:pl:dat:f	imię	
+Magdalence	Magdalenka	subst:sg:dat:f	imię|geograficzna	
+Magdalence	Magdalenka	subst:sg:loc:f	imię|geograficzna	
+Magdalenek	Magdalenka	subst:pl:gen:f	imię|geograficzna	
+Magdalenkach	Magdalenka	subst:pl:loc:f	imię|geograficzna	
+Magdalenka	Magdalenka	subst:sg:nom:f	imię|geograficzna	
+Magdalenkami	Magdalenka	subst:pl:inst:f	imię|geograficzna	
+Magdalenką	Magdalenka	subst:sg:inst:f	imię|geograficzna	
+Magdalenkę	Magdalenka	subst:sg:acc:f	imię|geograficzna	
+Magdalenki	Magdalenka	subst:pl:acc:f	imię|geograficzna	
+Magdalenki	Magdalenka	subst:pl:nom:f	imię|geograficzna	
+Magdalenki	Magdalenka	subst:pl:voc:f	imię|geograficzna	
+Magdalenki	Magdalenka	subst:sg:gen:f	imię|geograficzna	
+Magdalenko	Magdalenka	subst:sg:voc:f	imię|geograficzna	
+Magdalenkom	Magdalenka	subst:pl:dat:f	imię|geograficzna	
 Magdeburgach	Magdeburg	subst:pl:loc:m3	geograficzna	
 Magdeburga	Magdeburg	subst:sg:gen:m3	geograficzna	
 Magdeburgami	Magdeburg	subst:pl:inst:m3	geograficzna	
@@ -1754,38 +1740,22 @@ Malanowy	Malanów	subst:pl:nom:m3	geograficzna
 Malanowy	Malanów	subst:pl:voc:m3	geograficzna	
 Malanów	Malanów	subst:sg:acc:m3	geograficzna	
 Malanów	Malanów	subst:sg:nom:m3	geograficzna	
-Malapartach	Malaparte	subst:pl:loc:m1	nazwisko	
-Malapartach	Malaparte	subst:pl:loc:m1	pseudonim	
-Malapartami	Malaparte	subst:pl:inst:m1	nazwisko	
-Malapartami	Malaparte	subst:pl:inst:m1	pseudonim	
-Malapartego	Malaparte	subst:sg:acc:m1	nazwisko	
-Malapartego	Malaparte	subst:sg:acc:m1	pseudonim	
-Malapartego	Malaparte	subst:sg:gen:m1	nazwisko	
-Malapartego	Malaparte	subst:sg:gen:m1	pseudonim	
-Malaparte	Malaparte	depr:pl:nom:m2	nazwisko	
-Malaparte	Malaparte	depr:pl:nom:m2	pseudonim	
-Malaparte	Malaparte	depr:pl:voc:m2	nazwisko	
-Malaparte	Malaparte	depr:pl:voc:m2	pseudonim	
-Malaparte	Malaparte	subst:sg:nom:m1	nazwisko	
-Malaparte	Malaparte	subst:sg:nom:m1	pseudonim	
-Malaparte	Malaparte	subst:sg:voc:m1	nazwisko	
-Malaparte	Malaparte	subst:sg:voc:m1	pseudonim	
-Malapartem	Malaparte	subst:sg:inst:m1	nazwisko	
-Malapartem	Malaparte	subst:sg:inst:m1	pseudonim	
-Malapartem	Malaparte	subst:sg:loc:m1	nazwisko	
-Malapartem	Malaparte	subst:sg:loc:m1	pseudonim	
-Malapartemu	Malaparte	subst:sg:dat:m1	nazwisko	
-Malapartemu	Malaparte	subst:sg:dat:m1	pseudonim	
-Malapartom	Malaparte	subst:pl:dat:m1	nazwisko	
-Malapartom	Malaparte	subst:pl:dat:m1	pseudonim	
-Malapartowie	Malaparte	subst:pl:nom:m1	nazwisko	
-Malapartowie	Malaparte	subst:pl:nom:m1	pseudonim	
-Malapartowie	Malaparte	subst:pl:voc:m1	nazwisko	
-Malapartowie	Malaparte	subst:pl:voc:m1	pseudonim	
-Malapartów	Malaparte	subst:pl:acc:m1	nazwisko	
-Malapartów	Malaparte	subst:pl:acc:m1	pseudonim	
-Malapartów	Malaparte	subst:pl:gen:m1	nazwisko	
-Malapartów	Malaparte	subst:pl:gen:m1	pseudonim	
+Malapartach	Malaparte	subst:pl:loc:m1	nazwisko|pseudonim	
+Malapartami	Malaparte	subst:pl:inst:m1	nazwisko|pseudonim	
+Malapartego	Malaparte	subst:sg:acc:m1	nazwisko|pseudonim	
+Malapartego	Malaparte	subst:sg:gen:m1	nazwisko|pseudonim	
+Malaparte	Malaparte	depr:pl:nom:m2	nazwisko|pseudonim	
+Malaparte	Malaparte	depr:pl:voc:m2	nazwisko|pseudonim	
+Malaparte	Malaparte	subst:sg:nom:m1	nazwisko|pseudonim	
+Malaparte	Malaparte	subst:sg:voc:m1	nazwisko|pseudonim	
+Malapartem	Malaparte	subst:sg:inst:m1	nazwisko|pseudonim	
+Malapartem	Malaparte	subst:sg:loc:m1	nazwisko|pseudonim	
+Malapartemu	Malaparte	subst:sg:dat:m1	nazwisko|pseudonim	
+Malapartom	Malaparte	subst:pl:dat:m1	nazwisko|pseudonim	
+Malapartowie	Malaparte	subst:pl:nom:m1	nazwisko|pseudonim	
+Malapartowie	Malaparte	subst:pl:voc:m1	nazwisko|pseudonim	
+Malapartów	Malaparte	subst:pl:acc:m1	nazwisko|pseudonim	
+Malapartów	Malaparte	subst:pl:gen:m1	nazwisko|pseudonim	
 Malawi	Malawi	subst:pl:acc:n2	geograficzna	
 Malawi	Malawi	subst:pl:dat:n2	geograficzna	
 Malawi	Malawi	subst:pl:gen:n2	geograficzna	
@@ -2053,38 +2023,22 @@ Malinowskie	Malinowska	subst:pl:nom:f	nazwisko
 Malinowskie	Malinowska	subst:pl:voc:f	nazwisko	
 Malinowskimi	Malinowska	subst:pl:inst:f	nazwisko	
 Malinowskim	Malinowska	subst:pl:dat:f	nazwisko	
-Malinowscy	Malinowski:s1	subst:pl:nom:m1	nazwisko	
-Malinowscy	Malinowski:s1	subst:pl:voc:m1	nazwisko	
-Malinowskich	Malinowski:s1	subst:pl:acc:m1	nazwisko	
-Malinowskich	Malinowski:s1	subst:pl:gen:m1	nazwisko	
-Malinowskich	Malinowski:s1	subst:pl:loc:m1	nazwisko	
-Malinowskiego	Malinowski:s1	subst:sg:acc:m1	nazwisko	
-Malinowskiego	Malinowski:s1	subst:sg:gen:m1	nazwisko	
-Malinowskie	Malinowski:s1	depr:pl:nom:m2	nazwisko	
-Malinowskie	Malinowski:s1	depr:pl:voc:m2	nazwisko	
-Malinowskiemu	Malinowski:s1	subst:sg:dat:m1	nazwisko	
-Malinowski	Malinowski:s1	subst:sg:nom:m1	nazwisko	
-Malinowski	Malinowski:s1	subst:sg:voc:m1	nazwisko	
-Malinowskimi	Malinowski:s1	subst:pl:inst:m1	nazwisko	
-Malinowskim	Malinowski:s1	subst:pl:dat:m1	nazwisko	
-Malinowskim	Malinowski:s1	subst:sg:inst:m1	nazwisko	
-Malinowskim	Malinowski:s1	subst:sg:loc:m1	nazwisko	
-Malinowscy	Malinowski:s2	subst:pl:nom:m1	nazwisko	
-Malinowscy	Malinowski:s2	subst:pl:voc:m1	nazwisko	
-Malinowskich	Malinowski:s2	subst:pl:acc:m1	nazwisko	
-Malinowskich	Malinowski:s2	subst:pl:gen:m1	nazwisko	
-Malinowskich	Malinowski:s2	subst:pl:loc:m1	nazwisko	
-Malinowskiego	Malinowski:s2	subst:sg:acc:m1	nazwisko	
-Malinowskiego	Malinowski:s2	subst:sg:gen:m1	nazwisko	
-Malinowskie	Malinowski:s2	depr:pl:nom:m2	nazwisko	
-Malinowskie	Malinowski:s2	depr:pl:voc:m2	nazwisko	
-Malinowskiemu	Malinowski:s2	subst:sg:dat:m1	nazwisko	
-Malinowski	Malinowski:s2	subst:sg:nom:m1	nazwisko	
-Malinowski	Malinowski:s2	subst:sg:voc:m1	nazwisko	
-Malinowskimi	Malinowski:s2	subst:pl:inst:m1	nazwisko	
-Malinowskim	Malinowski:s2	subst:pl:dat:m1	nazwisko	
-Malinowskim	Malinowski:s2	subst:sg:inst:m1	nazwisko	
-Malinowskim	Malinowski:s2	subst:sg:loc:m1	nazwisko	
+Malinowscy	Malinowski	subst:pl:nom:m1	nazwisko	
+Malinowscy	Malinowski	subst:pl:voc:m1	nazwisko	
+Malinowskich	Malinowski	subst:pl:acc:m1	nazwisko	
+Malinowskich	Malinowski	subst:pl:gen:m1	nazwisko	
+Malinowskich	Malinowski	subst:pl:loc:m1	nazwisko	
+Malinowskiego	Malinowski	subst:sg:acc:m1	nazwisko	
+Malinowskiego	Malinowski	subst:sg:gen:m1	nazwisko	
+Malinowskie	Malinowski	depr:pl:nom:m2	nazwisko	
+Malinowskie	Malinowski	depr:pl:voc:m2	nazwisko	
+Malinowskiemu	Malinowski	subst:sg:dat:m1	nazwisko	
+Malinowski	Malinowski	subst:sg:nom:m1	nazwisko	
+Malinowski	Malinowski	subst:sg:voc:m1	nazwisko	
+Malinowskimi	Malinowski	subst:pl:inst:m1	nazwisko	
+Malinowskim	Malinowski	subst:pl:dat:m1	nazwisko	
+Malinowskim	Malinowski	subst:sg:inst:m1	nazwisko	
+Malinowskim	Malinowski	subst:sg:loc:m1	nazwisko	
 Malińska	Malińska	subst:sg:nom:f	nazwisko	
 Malińska	Malińska	subst:sg:voc:f	nazwisko	
 Malińską	Malińska	subst:sg:acc:f	nazwisko	
@@ -3715,38 +3669,22 @@ Mareczków	Mareczek	subst:pl:acc:m1	imię
 Mareczków	Mareczek	subst:pl:gen:m1	imię	
 Mareczku	Mareczek	subst:sg:loc:m1	imię	
 Mareczku	Mareczek	subst:sg:voc:m1	imię	
-Marek	Marek	subst:sg:nom:m1	imię	
-Marek	Marek	subst:sg:nom:m1	nazwisko	
-Markach	Marek	subst:pl:loc:m1	imię	
-Markach	Marek	subst:pl:loc:m1	nazwisko	
-Marka	Marek	subst:sg:acc:m1	imię	
-Marka	Marek	subst:sg:acc:m1	nazwisko	
-Marka	Marek	subst:sg:gen:m1	imię	
-Marka	Marek	subst:sg:gen:m1	nazwisko	
-Markami	Marek	subst:pl:inst:m1	imię	
-Markami	Marek	subst:pl:inst:m1	nazwisko	
-Markiem	Marek	subst:sg:inst:m1	imię	
-Markiem	Marek	subst:sg:inst:m1	nazwisko	
-Marki	Marek	depr:pl:nom:m2	imię	
-Marki	Marek	depr:pl:nom:m2	nazwisko	
-Marki	Marek	depr:pl:voc:m2	imię	
-Marki	Marek	depr:pl:voc:m2	nazwisko	
-Markom	Marek	subst:pl:dat:m1	imię	
-Markom	Marek	subst:pl:dat:m1	nazwisko	
-Markowie	Marek	subst:pl:nom:m1	imię	
-Markowie	Marek	subst:pl:nom:m1	nazwisko	
-Markowie	Marek	subst:pl:voc:m1	imię	
-Markowie	Marek	subst:pl:voc:m1	nazwisko	
-Markowi	Marek	subst:sg:dat:m1	imię	
-Markowi	Marek	subst:sg:dat:m1	nazwisko	
-Marków	Marek	subst:pl:acc:m1	imię	
-Marków	Marek	subst:pl:acc:m1	nazwisko	
-Marków	Marek	subst:pl:gen:m1	imię	
-Marków	Marek	subst:pl:gen:m1	nazwisko	
-Marku	Marek	subst:sg:loc:m1	imię	
-Marku	Marek	subst:sg:loc:m1	nazwisko	
-Marku	Marek	subst:sg:voc:m1	imię	
-Marku	Marek	subst:sg:voc:m1	nazwisko	
+Marek	Marek	subst:sg:nom:m1	imię|nazwisko	
+Markach	Marek	subst:pl:loc:m1	imię|nazwisko	
+Marka	Marek	subst:sg:acc:m1	imię|nazwisko	
+Marka	Marek	subst:sg:gen:m1	imię|nazwisko	
+Markami	Marek	subst:pl:inst:m1	imię|nazwisko	
+Markiem	Marek	subst:sg:inst:m1	imię|nazwisko	
+Marki	Marek	depr:pl:nom:m2	imię|nazwisko	
+Marki	Marek	depr:pl:voc:m2	imię|nazwisko	
+Markom	Marek	subst:pl:dat:m1	imię|nazwisko	
+Markowie	Marek	subst:pl:nom:m1	imię|nazwisko	
+Markowie	Marek	subst:pl:voc:m1	imię|nazwisko	
+Markowi	Marek	subst:sg:dat:m1	imię|nazwisko	
+Marków	Marek	subst:pl:acc:m1	imię|nazwisko	
+Marków	Marek	subst:pl:gen:m1	imię|nazwisko	
+Marku	Marek	subst:sg:loc:m1	imię|nazwisko	
+Marku	Marek	subst:sg:voc:m1	imię|nazwisko	
 Margaret	Margaret	subst:pl:acc:f	imię	
 Margaret	Margaret	subst:pl:dat:f	imię	
 Margaret	Margaret	subst:pl:gen:f	imię	
@@ -6241,24 +6179,24 @@ Mediolanu	Mediolan	subst:sg:gen:m3	geograficzna
 Mediolany	Mediolan	subst:pl:acc:m3	geograficzna	
 Mediolany	Mediolan	subst:pl:nom:m3	geograficzna	
 Mediolany	Mediolan	subst:pl:voc:m3	geograficzna	
-Medyceuszach	Medyceusz	subst:pl:loc:m1	członek_rodu	
-Medyceusza	Medyceusz	subst:sg:acc:m1	członek_rodu	
-Medyceusza	Medyceusz	subst:sg:gen:m1	członek_rodu	
-Medyceuszami	Medyceusz	subst:pl:inst:m1	członek_rodu	
-Medyceusze	Medyceusz	depr:pl:nom:m2	członek_rodu	
-Medyceusze	Medyceusz	depr:pl:voc:m2	członek_rodu	
-Medyceusze	Medyceusz	subst:pl:nom:m1	członek_rodu	
-Medyceusze	Medyceusz	subst:pl:voc:m1	członek_rodu	
-Medyceuszem	Medyceusz	subst:sg:inst:m1	członek_rodu	
-Medyceusz	Medyceusz	subst:sg:nom:m1	członek_rodu	
-Medyceuszom	Medyceusz	subst:pl:dat:m1	członek_rodu	
-Medyceuszowi	Medyceusz	subst:sg:dat:m1	członek_rodu	
-Medyceuszów	Medyceusz	subst:pl:acc:m1	członek_rodu	
-Medyceuszów	Medyceusz	subst:pl:gen:m1	członek_rodu	
-Medyceuszu	Medyceusz	subst:sg:loc:m1	członek_rodu	
-Medyceuszu	Medyceusz	subst:sg:voc:m1	członek_rodu	
-Medyceuszy	Medyceusz	subst:pl:acc:m1	członek_rodu	
-Medyceuszy	Medyceusz	subst:pl:gen:m1	członek_rodu	
+Medyceuszach	Medyceusz	subst:pl:loc:m1	członek rodu	
+Medyceusza	Medyceusz	subst:sg:acc:m1	członek rodu	
+Medyceusza	Medyceusz	subst:sg:gen:m1	członek rodu	
+Medyceuszami	Medyceusz	subst:pl:inst:m1	członek rodu	
+Medyceusze	Medyceusz	depr:pl:nom:m2	członek rodu	
+Medyceusze	Medyceusz	depr:pl:voc:m2	członek rodu	
+Medyceusze	Medyceusz	subst:pl:nom:m1	członek rodu	
+Medyceusze	Medyceusz	subst:pl:voc:m1	członek rodu	
+Medyceuszem	Medyceusz	subst:sg:inst:m1	członek rodu	
+Medyceusz	Medyceusz	subst:sg:nom:m1	członek rodu	
+Medyceuszom	Medyceusz	subst:pl:dat:m1	członek rodu	
+Medyceuszowi	Medyceusz	subst:sg:dat:m1	członek rodu	
+Medyceuszów	Medyceusz	subst:pl:acc:m1	członek rodu	
+Medyceuszów	Medyceusz	subst:pl:gen:m1	członek rodu	
+Medyceuszu	Medyceusz	subst:sg:loc:m1	członek rodu	
+Medyceuszu	Medyceusz	subst:sg:voc:m1	członek rodu	
+Medyceuszy	Medyceusz	subst:pl:acc:m1	członek rodu	
+Medyceuszy	Medyceusz	subst:pl:gen:m1	członek rodu	
 Medyce	Medyka	subst:sg:dat:f	geograficzna	
 Medyce	Medyka	subst:sg:loc:f	geograficzna	
 Medykach	Medyka	subst:pl:loc:f	geograficzna	
@@ -6712,38 +6650,22 @@ Menassów	Menassa	subst:pl:gen:m1	imię
 Menassy	Menassa	depr:pl:nom:m2	imię	
 Menassy	Menassa	depr:pl:voc:m2	imię	
 Menassy	Menassa	subst:sg:gen:m1	imię	
-Mendel	Mendel	subst:sg:nom:m1	imię	
-Mendel	Mendel	subst:sg:nom:m1	nazwisko	
-Mendlach	Mendel	subst:pl:loc:m1	imię	
-Mendlach	Mendel	subst:pl:loc:m1	nazwisko	
-Mendla	Mendel	subst:sg:acc:m1	imię	
-Mendla	Mendel	subst:sg:acc:m1	nazwisko	
-Mendla	Mendel	subst:sg:gen:m1	imię	
-Mendla	Mendel	subst:sg:gen:m1	nazwisko	
-Mendlami	Mendel	subst:pl:inst:m1	imię	
-Mendlami	Mendel	subst:pl:inst:m1	nazwisko	
-Mendle	Mendel	depr:pl:nom:m2	imię	
-Mendle	Mendel	depr:pl:nom:m2	nazwisko	
-Mendle	Mendel	depr:pl:voc:m2	imię	
-Mendle	Mendel	depr:pl:voc:m2	nazwisko	
-Mendlem	Mendel	subst:sg:inst:m1	imię	
-Mendlem	Mendel	subst:sg:inst:m1	nazwisko	
-Mendlom	Mendel	subst:pl:dat:m1	imię	
-Mendlom	Mendel	subst:pl:dat:m1	nazwisko	
-Mendlowie	Mendel	subst:pl:nom:m1	imię	
-Mendlowie	Mendel	subst:pl:nom:m1	nazwisko	
-Mendlowie	Mendel	subst:pl:voc:m1	imię	
-Mendlowie	Mendel	subst:pl:voc:m1	nazwisko	
-Mendlowi	Mendel	subst:sg:dat:m1	imię	
-Mendlowi	Mendel	subst:sg:dat:m1	nazwisko	
-Mendlów	Mendel	subst:pl:acc:m1	imię	
-Mendlów	Mendel	subst:pl:acc:m1	nazwisko	
-Mendlów	Mendel	subst:pl:gen:m1	imię	
-Mendlów	Mendel	subst:pl:gen:m1	nazwisko	
-Mendlu	Mendel	subst:sg:loc:m1	imię	
-Mendlu	Mendel	subst:sg:loc:m1	nazwisko	
-Mendlu	Mendel	subst:sg:voc:m1	imię	
-Mendlu	Mendel	subst:sg:voc:m1	nazwisko	
+Mendel	Mendel	subst:sg:nom:m1	imię|nazwisko	
+Mendlach	Mendel	subst:pl:loc:m1	imię|nazwisko	
+Mendla	Mendel	subst:sg:acc:m1	imię|nazwisko	
+Mendla	Mendel	subst:sg:gen:m1	imię|nazwisko	
+Mendlami	Mendel	subst:pl:inst:m1	imię|nazwisko	
+Mendle	Mendel	depr:pl:nom:m2	imię|nazwisko	
+Mendle	Mendel	depr:pl:voc:m2	imię|nazwisko	
+Mendlem	Mendel	subst:sg:inst:m1	imię|nazwisko	
+Mendlom	Mendel	subst:pl:dat:m1	imię|nazwisko	
+Mendlowie	Mendel	subst:pl:nom:m1	imię|nazwisko	
+Mendlowie	Mendel	subst:pl:voc:m1	imię|nazwisko	
+Mendlowi	Mendel	subst:sg:dat:m1	imię|nazwisko	
+Mendlów	Mendel	subst:pl:acc:m1	imię|nazwisko	
+Mendlów	Mendel	subst:pl:gen:m1	imię|nazwisko	
+Mendlu	Mendel	subst:sg:loc:m1	imię|nazwisko	
+Mendlu	Mendel	subst:sg:voc:m1	imię|nazwisko	
 Mendelejewach	Mendelejew	subst:pl:loc:m1	nazwisko	
 Mendelejewa	Mendelejew	subst:sg:acc:m1	nazwisko	
 Mendelejewa	Mendelejew	subst:sg:gen:m1	nazwisko	
@@ -7000,6 +6922,38 @@ Mesenii	Mesenia	subst:sg:loc:f	geograficzna
 Mesenij	Mesenia	subst:pl:gen:f	geograficzna	arch.|char.
 Mesenio	Mesenia	subst:sg:voc:f	geograficzna	
 Meseniom	Mesenia	subst:pl:dat:f	geograficzna	
+Mesjaszach	Mesjasz	subst:pl:loc:m1	pospolita	
+Mesjaszach	Mesjasz	subst:pl:loc:m1	pospolita	rzad.
+Mesjasza	Mesjasz	subst:sg:acc:m1	pospolita	
+Mesjasza	Mesjasz	subst:sg:acc:m1	pospolita	rzad.
+Mesjasza	Mesjasz	subst:sg:gen:m1	pospolita	
+Mesjasza	Mesjasz	subst:sg:gen:m1	pospolita	rzad.
+Mesjaszami	Mesjasz	subst:pl:inst:m1	pospolita	
+Mesjaszami	Mesjasz	subst:pl:inst:m1	pospolita	rzad.
+Mesjasze	Mesjasz	depr:pl:nom:m2	pospolita	
+Mesjasze	Mesjasz	depr:pl:nom:m2	pospolita	rzad.
+Mesjasze	Mesjasz	depr:pl:voc:m2	pospolita	
+Mesjasze	Mesjasz	depr:pl:voc:m2	pospolita	rzad.
+Mesjasze	Mesjasz	subst:pl:nom:m1	pospolita	
+Mesjasze	Mesjasz	subst:pl:nom:m1	pospolita	rzad.
+Mesjasze	Mesjasz	subst:pl:voc:m1	pospolita	
+Mesjasze	Mesjasz	subst:pl:voc:m1	pospolita	rzad.
+Mesjaszem	Mesjasz	subst:sg:inst:m1	pospolita	
+Mesjaszem	Mesjasz	subst:sg:inst:m1	pospolita	rzad.
+Mesjasz	Mesjasz	subst:sg:nom:m1	pospolita	
+Mesjasz	Mesjasz	subst:sg:nom:m1	pospolita	rzad.
+Mesjaszom	Mesjasz	subst:pl:dat:m1	pospolita	
+Mesjaszom	Mesjasz	subst:pl:dat:m1	pospolita	rzad.
+Mesjaszowi	Mesjasz	subst:sg:dat:m1	pospolita	
+Mesjaszowi	Mesjasz	subst:sg:dat:m1	pospolita	rzad.
+Mesjaszów	Mesjasz	subst:pl:acc:m1	pospolita	rzad.
+Mesjaszów	Mesjasz	subst:pl:gen:m1	pospolita	rzad.
+Mesjaszu	Mesjasz	subst:sg:loc:m1	pospolita	
+Mesjaszu	Mesjasz	subst:sg:loc:m1	pospolita	rzad.
+Mesjaszu	Mesjasz	subst:sg:voc:m1	pospolita	
+Mesjaszu	Mesjasz	subst:sg:voc:m1	pospolita	rzad.
+Mesjaszy	Mesjasz	subst:pl:acc:m1	pospolita	
+Mesjaszy	Mesjasz	subst:pl:gen:m1	pospolita	
 Messiaenach	Messiaen	subst:pl:loc:m1	nazwisko	
 Messiaena	Messiaen	subst:sg:acc:m1	nazwisko	
 Messiaena	Messiaen	subst:sg:gen:m1	nazwisko	
@@ -9425,42 +9379,24 @@ Miłosny	Miłosna	subst:pl:voc:f	geograficzna
 Miłosny	Miłosna	subst:sg:gen:f	geograficzna	
 Miłośnie	Miłosna	subst:sg:dat:f	geograficzna	
 Miłośnie	Miłosna	subst:sg:loc:f	geograficzna	
-Miłoszach	Miłosz	subst:pl:loc:m1	imię	
-Miłoszach	Miłosz	subst:pl:loc:m1	nazwisko	
-Miłosza	Miłosz	subst:sg:acc:m1	imię	
-Miłosza	Miłosz	subst:sg:acc:m1	nazwisko	
-Miłosza	Miłosz	subst:sg:gen:m1	imię	
-Miłosza	Miłosz	subst:sg:gen:m1	nazwisko	
-Miłoszami	Miłosz	subst:pl:inst:m1	imię	
-Miłoszami	Miłosz	subst:pl:inst:m1	nazwisko	
-Miłosze	Miłosz	depr:pl:nom:m2	imię	
-Miłosze	Miłosz	depr:pl:nom:m2	nazwisko	
-Miłosze	Miłosz	depr:pl:voc:m2	imię	
-Miłosze	Miłosz	depr:pl:voc:m2	nazwisko	
-Miłosze	Miłosz	subst:pl:nom:m1	imię	
-Miłosze	Miłosz	subst:pl:nom:m1	nazwisko	
-Miłosze	Miłosz	subst:pl:voc:m1	imię	
-Miłosze	Miłosz	subst:pl:voc:m1	nazwisko	
-Miłoszem	Miłosz	subst:sg:inst:m1	imię	
-Miłoszem	Miłosz	subst:sg:inst:m1	nazwisko	
-Miłosz	Miłosz	subst:sg:nom:m1	imię	
-Miłosz	Miłosz	subst:sg:nom:m1	nazwisko	
-Miłoszom	Miłosz	subst:pl:dat:m1	imię	
-Miłoszom	Miłosz	subst:pl:dat:m1	nazwisko	
-Miłoszowie	Miłosz	subst:pl:nom:m1	imię	
-Miłoszowie	Miłosz	subst:pl:nom:m1	nazwisko	
-Miłoszowie	Miłosz	subst:pl:voc:m1	imię	
-Miłoszowie	Miłosz	subst:pl:voc:m1	nazwisko	
-Miłoszowi	Miłosz	subst:sg:dat:m1	imię	
-Miłoszowi	Miłosz	subst:sg:dat:m1	nazwisko	
-Miłoszów	Miłosz	subst:pl:acc:m1	imię	
-Miłoszów	Miłosz	subst:pl:acc:m1	nazwisko	
-Miłoszów	Miłosz	subst:pl:gen:m1	imię	
-Miłoszów	Miłosz	subst:pl:gen:m1	nazwisko	
-Miłoszu	Miłosz	subst:sg:loc:m1	imię	
-Miłoszu	Miłosz	subst:sg:loc:m1	nazwisko	
-Miłoszu	Miłosz	subst:sg:voc:m1	imię	
-Miłoszu	Miłosz	subst:sg:voc:m1	nazwisko	
+Miłoszach	Miłosz	subst:pl:loc:m1	imię|nazwisko	
+Miłosza	Miłosz	subst:sg:acc:m1	imię|nazwisko	
+Miłosza	Miłosz	subst:sg:gen:m1	imię|nazwisko	
+Miłoszami	Miłosz	subst:pl:inst:m1	imię|nazwisko	
+Miłosze	Miłosz	depr:pl:nom:m2	imię|nazwisko	
+Miłosze	Miłosz	depr:pl:voc:m2	imię|nazwisko	
+Miłosze	Miłosz	subst:pl:nom:m1	imię|nazwisko	
+Miłosze	Miłosz	subst:pl:voc:m1	imię|nazwisko	
+Miłoszem	Miłosz	subst:sg:inst:m1	imię|nazwisko	
+Miłosz	Miłosz	subst:sg:nom:m1	imię|nazwisko	
+Miłoszom	Miłosz	subst:pl:dat:m1	imię|nazwisko	
+Miłoszowie	Miłosz	subst:pl:nom:m1	imię|nazwisko	
+Miłoszowie	Miłosz	subst:pl:voc:m1	imię|nazwisko	
+Miłoszowi	Miłosz	subst:sg:dat:m1	imię|nazwisko	
+Miłoszów	Miłosz	subst:pl:acc:m1	imię|nazwisko	
+Miłoszów	Miłosz	subst:pl:gen:m1	imię|nazwisko	
+Miłoszu	Miłosz	subst:sg:loc:m1	imię|nazwisko	
+Miłoszu	Miłosz	subst:sg:voc:m1	imię|nazwisko	
 Miłoszewska	Miłoszewska	subst:sg:nom:f	nazwisko	
 Miłoszewska	Miłoszewska	subst:sg:voc:f	nazwisko	
 Miłoszewską	Miłoszewska	subst:sg:acc:f	nazwisko	
@@ -10944,20 +10880,20 @@ Moczydłowskim	Moczydłowski	subst:sg:inst:m1	nazwisko
 Moczydłowskim	Moczydłowski	subst:sg:loc:m1	nazwisko	
 Moczydłowski	Moczydłowski	subst:sg:nom:m1	nazwisko	
 Moczydłowski	Moczydłowski	subst:sg:voc:m1	nazwisko	
-Modenach	Modena	subst:pl:loc:f	krój_pisma	
-Modenami	Modena	subst:pl:inst:f	krój_pisma	
-Modena	Modena	subst:sg:nom:f	krój_pisma	
-Modeną	Modena	subst:sg:inst:f	krój_pisma	
-Modenę	Modena	subst:sg:acc:f	krój_pisma	
-Modenie	Modena	subst:sg:dat:f	krój_pisma	
-Modenie	Modena	subst:sg:loc:f	krój_pisma	
-Moden	Modena	subst:pl:gen:f	krój_pisma	
-Modenom	Modena	subst:pl:dat:f	krój_pisma	
-Modeno	Modena	subst:sg:voc:f	krój_pisma	
-Modeny	Modena	subst:pl:acc:f	krój_pisma	
-Modeny	Modena	subst:pl:nom:f	krój_pisma	
-Modeny	Modena	subst:pl:voc:f	krój_pisma	
-Modeny	Modena	subst:sg:gen:f	krój_pisma	
+Modenach	Modena	subst:pl:loc:f	krój pisma	
+Modenami	Modena	subst:pl:inst:f	krój pisma	
+Modena	Modena	subst:sg:nom:f	krój pisma	
+Modeną	Modena	subst:sg:inst:f	krój pisma	
+Modenę	Modena	subst:sg:acc:f	krój pisma	
+Modenie	Modena	subst:sg:dat:f	krój pisma	
+Modenie	Modena	subst:sg:loc:f	krój pisma	
+Moden	Modena	subst:pl:gen:f	krój pisma	
+Modenom	Modena	subst:pl:dat:f	krój pisma	
+Modeno	Modena	subst:sg:voc:f	krój pisma	
+Modeny	Modena	subst:pl:acc:f	krój pisma	
+Modeny	Modena	subst:pl:nom:f	krój pisma	
+Modeny	Modena	subst:pl:voc:f	krój pisma	
+Modeny	Modena	subst:sg:gen:f	krój pisma	
 Modestach	Modest	subst:pl:loc:m1	imię	
 Modestami	Modest	subst:pl:inst:m1	imię	
 Modesta	Modest	subst:sg:acc:m1	imię	
@@ -12124,38 +12060,22 @@ MOP-u	MOP	subst:sg:gen:m3	organizacja
 MOP-y	MOP	subst:pl:acc:m3	organizacja	
 MOP-y	MOP	subst:pl:nom:m3	organizacja	
 MOP-y	MOP	subst:pl:voc:m3	organizacja	
-Moraviach	Moravia	subst:pl:loc:m1	nazwisko	
-Moraviach	Moravia	subst:pl:loc:m1	pseudonim	
-Moraviami	Moravia	subst:pl:inst:m1	nazwisko	
-Moraviami	Moravia	subst:pl:inst:m1	pseudonim	
-Moravia	Moravia	subst:sg:nom:m1	nazwisko	
-Moravia	Moravia	subst:sg:nom:m1	pseudonim	
-Moravią	Moravia	subst:sg:inst:m1	nazwisko	
-Moravią	Moravia	subst:sg:inst:m1	pseudonim	
-Moravie	Moravia	depr:pl:nom:m2	nazwisko	
-Moravie	Moravia	depr:pl:nom:m2	pseudonim	
-Moravie	Moravia	depr:pl:voc:m2	nazwisko	
-Moravie	Moravia	depr:pl:voc:m2	pseudonim	
-Moravię	Moravia	subst:sg:acc:m1	nazwisko	
-Moravię	Moravia	subst:sg:acc:m1	pseudonim	
-Moravii	Moravia	subst:sg:dat:m1	nazwisko	
-Moravii	Moravia	subst:sg:dat:m1	pseudonim	
-Moravii	Moravia	subst:sg:gen:m1	nazwisko	
-Moravii	Moravia	subst:sg:gen:m1	pseudonim	
-Moravii	Moravia	subst:sg:loc:m1	nazwisko	
-Moravii	Moravia	subst:sg:loc:m1	pseudonim	
-Moraviom	Moravia	subst:pl:dat:m1	nazwisko	
-Moraviom	Moravia	subst:pl:dat:m1	pseudonim	
-Moravio	Moravia	subst:sg:voc:m1	nazwisko	
-Moravio	Moravia	subst:sg:voc:m1	pseudonim	
-Moraviowie	Moravia	subst:pl:nom:m1	nazwisko	
-Moraviowie	Moravia	subst:pl:nom:m1	pseudonim	
-Moraviowie	Moravia	subst:pl:voc:m1	nazwisko	
-Moraviowie	Moravia	subst:pl:voc:m1	pseudonim	
-Moraviów	Moravia	subst:pl:acc:m1	nazwisko	
-Moraviów	Moravia	subst:pl:acc:m1	pseudonim	
-Moraviów	Moravia	subst:pl:gen:m1	nazwisko	
-Moraviów	Moravia	subst:pl:gen:m1	pseudonim	
+Moraviach	Moravia	subst:pl:loc:m1	nazwisko|pseudonim	
+Moraviami	Moravia	subst:pl:inst:m1	nazwisko|pseudonim	
+Moravia	Moravia	subst:sg:nom:m1	nazwisko|pseudonim	
+Moravią	Moravia	subst:sg:inst:m1	nazwisko|pseudonim	
+Moravie	Moravia	depr:pl:nom:m2	nazwisko|pseudonim	
+Moravie	Moravia	depr:pl:voc:m2	nazwisko|pseudonim	
+Moravię	Moravia	subst:sg:acc:m1	nazwisko|pseudonim	
+Moravii	Moravia	subst:sg:dat:m1	nazwisko|pseudonim	
+Moravii	Moravia	subst:sg:gen:m1	nazwisko|pseudonim	
+Moravii	Moravia	subst:sg:loc:m1	nazwisko|pseudonim	
+Moraviom	Moravia	subst:pl:dat:m1	nazwisko|pseudonim	
+Moravio	Moravia	subst:sg:voc:m1	nazwisko|pseudonim	
+Moraviowie	Moravia	subst:pl:nom:m1	nazwisko|pseudonim	
+Moraviowie	Moravia	subst:pl:voc:m1	nazwisko|pseudonim	
+Moraviów	Moravia	subst:pl:acc:m1	nazwisko|pseudonim	
+Moraviów	Moravia	subst:pl:gen:m1	nazwisko|pseudonim	
 Morawicach	Morawica	subst:pl:loc:f	geograficzna	
 Morawicami	Morawica	subst:pl:inst:f	geograficzna	
 Morawica	Morawica	subst:sg:nom:f	geograficzna	

@@ -1020,52 +1020,36 @@ Pandory	Pandora	subst:pl:voc:f	imię	mit.
 Pandory	Pandora	subst:sg:gen:f	imię	mit.
 Pandorze	Pandora	subst:sg:dat:f	imię	mit.
 Pandorze	Pandora	subst:sg:loc:f	imię	mit.
-Panek	Panek	subst:sg:nom:m1	imię	
-Panek	Panek	subst:sg:nom:m1	nazwisko	
-Pankach	Panek	subst:pl:loc:m1	imię	
-Pankach	Panek	subst:pl:loc:m1	nazwisko	
-Pankami	Panek	subst:pl:inst:m1	imię	
-Pankami	Panek	subst:pl:inst:m1	nazwisko	
-Panka	Panek	subst:sg:acc:m1	imię	
-Panka	Panek	subst:sg:acc:m1	nazwisko	
-Panka	Panek	subst:sg:gen:m1	imię	
-Panka	Panek	subst:sg:gen:m1	nazwisko	
-Pankiem	Panek	subst:sg:inst:m1	imię	
-Pankiem	Panek	subst:sg:inst:m1	nazwisko	
-Panki	Panek	depr:pl:nom:m2	imię	
-Panki	Panek	depr:pl:nom:m2	nazwisko	
-Panki	Panek	depr:pl:voc:m2	imię	
-Panki	Panek	depr:pl:voc:m2	nazwisko	
-Pankom	Panek	subst:pl:dat:m1	imię	
-Pankom	Panek	subst:pl:dat:m1	nazwisko	
-Pankowie	Panek	subst:pl:nom:m1	imię	
-Pankowie	Panek	subst:pl:nom:m1	nazwisko	
-Pankowie	Panek	subst:pl:voc:m1	imię	
-Pankowie	Panek	subst:pl:voc:m1	nazwisko	
-Pankowi	Panek	subst:sg:dat:m1	imię	
-Pankowi	Panek	subst:sg:dat:m1	nazwisko	
-Panków	Panek	subst:pl:acc:m1	imię	
-Panków	Panek	subst:pl:acc:m1	nazwisko	
-Panków	Panek	subst:pl:gen:m1	imię	
-Panków	Panek	subst:pl:gen:m1	nazwisko	
-Panku	Panek	subst:sg:loc:m1	imię	
-Panku	Panek	subst:sg:loc:m1	nazwisko	
-Panku	Panek	subst:sg:voc:m1	imię	
-Panku	Panek	subst:sg:voc:m1	nazwisko	
-Paneuropach	Paneuropa	subst:pl:loc:f	krój_pisma	
-Paneuropami	Paneuropa	subst:pl:inst:f	krój_pisma	
-Paneuropa	Paneuropa	subst:sg:nom:f	krój_pisma	
-Paneuropą	Paneuropa	subst:sg:inst:f	krój_pisma	
-Paneuropę	Paneuropa	subst:sg:acc:f	krój_pisma	
-Paneuropie	Paneuropa	subst:sg:dat:f	krój_pisma	
-Paneuropie	Paneuropa	subst:sg:loc:f	krój_pisma	
-Paneuropom	Paneuropa	subst:pl:dat:f	krój_pisma	
-Paneuropo	Paneuropa	subst:sg:voc:f	krój_pisma	
-Paneurop	Paneuropa	subst:pl:gen:f	krój_pisma	
-Paneuropy	Paneuropa	subst:pl:acc:f	krój_pisma	
-Paneuropy	Paneuropa	subst:pl:nom:f	krój_pisma	
-Paneuropy	Paneuropa	subst:pl:voc:f	krój_pisma	
-Paneuropy	Paneuropa	subst:sg:gen:f	krój_pisma	
+Panek	Panek	subst:sg:nom:m1	imię|nazwisko	
+Pankach	Panek	subst:pl:loc:m1	imię|nazwisko	
+Pankami	Panek	subst:pl:inst:m1	imię|nazwisko	
+Panka	Panek	subst:sg:acc:m1	imię|nazwisko	
+Panka	Panek	subst:sg:gen:m1	imię|nazwisko	
+Pankiem	Panek	subst:sg:inst:m1	imię|nazwisko	
+Panki	Panek	depr:pl:nom:m2	imię|nazwisko	
+Panki	Panek	depr:pl:voc:m2	imię|nazwisko	
+Pankom	Panek	subst:pl:dat:m1	imię|nazwisko	
+Pankowie	Panek	subst:pl:nom:m1	imię|nazwisko	
+Pankowie	Panek	subst:pl:voc:m1	imię|nazwisko	
+Pankowi	Panek	subst:sg:dat:m1	imię|nazwisko	
+Panków	Panek	subst:pl:acc:m1	imię|nazwisko	
+Panków	Panek	subst:pl:gen:m1	imię|nazwisko	
+Panku	Panek	subst:sg:loc:m1	imię|nazwisko	
+Panku	Panek	subst:sg:voc:m1	imię|nazwisko	
+Paneuropach	Paneuropa	subst:pl:loc:f	krój pisma	
+Paneuropami	Paneuropa	subst:pl:inst:f	krój pisma	
+Paneuropa	Paneuropa	subst:sg:nom:f	krój pisma	
+Paneuropą	Paneuropa	subst:sg:inst:f	krój pisma	
+Paneuropę	Paneuropa	subst:sg:acc:f	krój pisma	
+Paneuropie	Paneuropa	subst:sg:dat:f	krój pisma	
+Paneuropie	Paneuropa	subst:sg:loc:f	krój pisma	
+Paneuropom	Paneuropa	subst:pl:dat:f	krój pisma	
+Paneuropo	Paneuropa	subst:sg:voc:f	krój pisma	
+Paneurop	Paneuropa	subst:pl:gen:f	krój pisma	
+Paneuropy	Paneuropa	subst:pl:acc:f	krój pisma	
+Paneuropy	Paneuropa	subst:pl:nom:f	krój pisma	
+Paneuropy	Paneuropa	subst:pl:voc:f	krój pisma	
+Paneuropy	Paneuropa	subst:sg:gen:f	krój pisma	
 Pankiewiczach	Pankiewicz	subst:pl:loc:m1	nazwisko	
 Pankiewiczami	Pankiewicz	subst:pl:inst:m1	nazwisko	
 Pankiewicza	Pankiewicz	subst:sg:acc:m1	nazwisko	
@@ -2641,38 +2625,22 @@ Pawlickim	Pawlicki	subst:sg:inst:m1	nazwisko
 Pawlickim	Pawlicki	subst:sg:loc:m1	nazwisko	
 Pawlicki	Pawlicki	subst:sg:nom:m1	nazwisko	
 Pawlicki	Pawlicki	subst:sg:voc:m1	nazwisko	
-Pawlikach	Pawlik	subst:pl:loc:m1	imię	
-Pawlikach	Pawlik	subst:pl:loc:m1	nazwisko	
-Pawlikami	Pawlik	subst:pl:inst:m1	imię	
-Pawlikami	Pawlik	subst:pl:inst:m1	nazwisko	
-Pawlika	Pawlik	subst:sg:acc:m1	imię	
-Pawlika	Pawlik	subst:sg:acc:m1	nazwisko	
-Pawlika	Pawlik	subst:sg:gen:m1	imię	
-Pawlika	Pawlik	subst:sg:gen:m1	nazwisko	
-Pawlikiem	Pawlik	subst:sg:inst:m1	imię	
-Pawlikiem	Pawlik	subst:sg:inst:m1	nazwisko	
-Pawliki	Pawlik	depr:pl:nom:m2	imię	
-Pawliki	Pawlik	depr:pl:nom:m2	nazwisko	
-Pawliki	Pawlik	depr:pl:voc:m2	imię	
-Pawliki	Pawlik	depr:pl:voc:m2	nazwisko	
-Pawlikom	Pawlik	subst:pl:dat:m1	imię	
-Pawlikom	Pawlik	subst:pl:dat:m1	nazwisko	
-Pawlikowie	Pawlik	subst:pl:nom:m1	imię	
-Pawlikowie	Pawlik	subst:pl:nom:m1	nazwisko	
-Pawlikowie	Pawlik	subst:pl:voc:m1	imię	
-Pawlikowie	Pawlik	subst:pl:voc:m1	nazwisko	
-Pawlikowi	Pawlik	subst:sg:dat:m1	imię	
-Pawlikowi	Pawlik	subst:sg:dat:m1	nazwisko	
-Pawlików	Pawlik	subst:pl:acc:m1	imię	
-Pawlików	Pawlik	subst:pl:acc:m1	nazwisko	
-Pawlików	Pawlik	subst:pl:gen:m1	imię	
-Pawlików	Pawlik	subst:pl:gen:m1	nazwisko	
-Pawlik	Pawlik	subst:sg:nom:m1	imię	
-Pawlik	Pawlik	subst:sg:nom:m1	nazwisko	
-Pawliku	Pawlik	subst:sg:loc:m1	imię	
-Pawliku	Pawlik	subst:sg:loc:m1	nazwisko	
-Pawliku	Pawlik	subst:sg:voc:m1	imię	
-Pawliku	Pawlik	subst:sg:voc:m1	nazwisko	
+Pawlikach	Pawlik	subst:pl:loc:m1	imię|nazwisko	
+Pawlikami	Pawlik	subst:pl:inst:m1	imię|nazwisko	
+Pawlika	Pawlik	subst:sg:acc:m1	imię|nazwisko	
+Pawlika	Pawlik	subst:sg:gen:m1	imię|nazwisko	
+Pawlikiem	Pawlik	subst:sg:inst:m1	imię|nazwisko	
+Pawliki	Pawlik	depr:pl:nom:m2	imię|nazwisko	
+Pawliki	Pawlik	depr:pl:voc:m2	imię|nazwisko	
+Pawlikom	Pawlik	subst:pl:dat:m1	imię|nazwisko	
+Pawlikowie	Pawlik	subst:pl:nom:m1	imię|nazwisko	
+Pawlikowie	Pawlik	subst:pl:voc:m1	imię|nazwisko	
+Pawlikowi	Pawlik	subst:sg:dat:m1	imię|nazwisko	
+Pawlików	Pawlik	subst:pl:acc:m1	imię|nazwisko	
+Pawlików	Pawlik	subst:pl:gen:m1	imię|nazwisko	
+Pawlik	Pawlik	subst:sg:nom:m1	imię|nazwisko	
+Pawliku	Pawlik	subst:sg:loc:m1	imię|nazwisko	
+Pawliku	Pawlik	subst:sg:voc:m1	imię|nazwisko	
 Pawlikowska	Pawlikowska	subst:sg:nom:f	nazwisko	
 Pawlikowska	Pawlikowska	subst:sg:voc:f	nazwisko	
 Pawlikowską	Pawlikowska	subst:sg:acc:f	nazwisko	
@@ -2687,38 +2655,22 @@ Pawlikowskie	Pawlikowska	subst:pl:nom:f	nazwisko
 Pawlikowskie	Pawlikowska	subst:pl:voc:f	nazwisko	
 Pawlikowskimi	Pawlikowska	subst:pl:inst:f	nazwisko	
 Pawlikowskim	Pawlikowska	subst:pl:dat:f	nazwisko	
-Pawlikowscy	Pawlikowski:s1	subst:pl:nom:m1	nazwisko	
-Pawlikowscy	Pawlikowski:s1	subst:pl:voc:m1	nazwisko	
-Pawlikowskich	Pawlikowski:s1	subst:pl:acc:m1	nazwisko	
-Pawlikowskich	Pawlikowski:s1	subst:pl:gen:m1	nazwisko	
-Pawlikowskich	Pawlikowski:s1	subst:pl:loc:m1	nazwisko	
-Pawlikowskiego	Pawlikowski:s1	subst:sg:acc:m1	nazwisko	
-Pawlikowskiego	Pawlikowski:s1	subst:sg:gen:m1	nazwisko	
-Pawlikowskiemu	Pawlikowski:s1	subst:sg:dat:m1	nazwisko	
-Pawlikowskie	Pawlikowski:s1	depr:pl:nom:m2	nazwisko	
-Pawlikowskie	Pawlikowski:s1	depr:pl:voc:m2	nazwisko	
-Pawlikowskimi	Pawlikowski:s1	subst:pl:inst:m1	nazwisko	
-Pawlikowskim	Pawlikowski:s1	subst:pl:dat:m1	nazwisko	
-Pawlikowskim	Pawlikowski:s1	subst:sg:inst:m1	nazwisko	
-Pawlikowskim	Pawlikowski:s1	subst:sg:loc:m1	nazwisko	
-Pawlikowski	Pawlikowski:s1	subst:sg:nom:m1	nazwisko	
-Pawlikowski	Pawlikowski:s1	subst:sg:voc:m1	nazwisko	
-Pawlikowscy	Pawlikowski:s2	subst:pl:nom:m1	nazwisko	
-Pawlikowscy	Pawlikowski:s2	subst:pl:voc:m1	nazwisko	
-Pawlikowskich	Pawlikowski:s2	subst:pl:acc:m1	nazwisko	
-Pawlikowskich	Pawlikowski:s2	subst:pl:gen:m1	nazwisko	
-Pawlikowskich	Pawlikowski:s2	subst:pl:loc:m1	nazwisko	
-Pawlikowskiego	Pawlikowski:s2	subst:sg:acc:m1	nazwisko	
-Pawlikowskiego	Pawlikowski:s2	subst:sg:gen:m1	nazwisko	
-Pawlikowskiemu	Pawlikowski:s2	subst:sg:dat:m1	nazwisko	
-Pawlikowskie	Pawlikowski:s2	depr:pl:nom:m2	nazwisko	
-Pawlikowskie	Pawlikowski:s2	depr:pl:voc:m2	nazwisko	
-Pawlikowskimi	Pawlikowski:s2	subst:pl:inst:m1	nazwisko	
-Pawlikowskim	Pawlikowski:s2	subst:pl:dat:m1	nazwisko	
-Pawlikowskim	Pawlikowski:s2	subst:sg:inst:m1	nazwisko	
-Pawlikowskim	Pawlikowski:s2	subst:sg:loc:m1	nazwisko	
-Pawlikowski	Pawlikowski:s2	subst:sg:nom:m1	nazwisko	
-Pawlikowski	Pawlikowski:s2	subst:sg:voc:m1	nazwisko	
+Pawlikowscy	Pawlikowski	subst:pl:nom:m1	nazwisko	
+Pawlikowscy	Pawlikowski	subst:pl:voc:m1	nazwisko	
+Pawlikowskich	Pawlikowski	subst:pl:acc:m1	nazwisko	
+Pawlikowskich	Pawlikowski	subst:pl:gen:m1	nazwisko	
+Pawlikowskich	Pawlikowski	subst:pl:loc:m1	nazwisko	
+Pawlikowskiego	Pawlikowski	subst:sg:acc:m1	nazwisko	
+Pawlikowskiego	Pawlikowski	subst:sg:gen:m1	nazwisko	
+Pawlikowskiemu	Pawlikowski	subst:sg:dat:m1	nazwisko	
+Pawlikowskie	Pawlikowski	depr:pl:nom:m2	nazwisko	
+Pawlikowskie	Pawlikowski	depr:pl:voc:m2	nazwisko	
+Pawlikowskimi	Pawlikowski	subst:pl:inst:m1	nazwisko	
+Pawlikowskim	Pawlikowski	subst:pl:dat:m1	nazwisko	
+Pawlikowskim	Pawlikowski	subst:sg:inst:m1	nazwisko	
+Pawlikowskim	Pawlikowski	subst:sg:loc:m1	nazwisko	
+Pawlikowski	Pawlikowski	subst:sg:nom:m1	nazwisko	
+Pawlikowski	Pawlikowski	subst:sg:voc:m1	nazwisko	
 Pawliszczach	Pawliszcze	subst:pl:loc:m1	nazwisko	
 Pawliszczami	Pawliszcze	subst:pl:inst:m1	nazwisko	
 Pawliszczego	Pawliszcze	subst:sg:acc:m1	nazwisko	
@@ -4946,22 +4898,22 @@ Piaseczno	Piaseczno	subst:sg:nom:n2	geograficzna
 Piaseczno	Piaseczno	subst:sg:voc:n2	geograficzna	
 Piaseczn	Piaseczno	subst:pl:gen:n2	geograficzna	
 Piasecznu	Piaseczno	subst:sg:dat:n2	geograficzna	
-Piastach	Piast	subst:pl:loc:m1	członek_rodu	
-Piastami	Piast	subst:pl:inst:m1	członek_rodu	
-Piasta	Piast	subst:sg:acc:m1	członek_rodu	
-Piasta	Piast	subst:sg:gen:m1	członek_rodu	
-Piastem	Piast	subst:sg:inst:m1	członek_rodu	
-Piastom	Piast	subst:pl:dat:m1	członek_rodu	
-Piastowie	Piast	subst:pl:nom:m1	członek_rodu	
-Piastowie	Piast	subst:pl:voc:m1	członek_rodu	
-Piastowi	Piast	subst:sg:dat:m1	członek_rodu	
-Piastów	Piast	subst:pl:acc:m1	członek_rodu	
-Piastów	Piast	subst:pl:gen:m1	członek_rodu	
-Piast	Piast	subst:sg:nom:m1	członek_rodu	
-Piasty	Piast	depr:pl:nom:m2	członek_rodu	
-Piasty	Piast	depr:pl:voc:m2	członek_rodu	
-Piaście	Piast	subst:sg:loc:m1	członek_rodu	
-Piaście	Piast	subst:sg:voc:m1	członek_rodu	
+Piastach	Piast	subst:pl:loc:m1	członek rodu	
+Piastami	Piast	subst:pl:inst:m1	członek rodu	
+Piasta	Piast	subst:sg:acc:m1	członek rodu	
+Piasta	Piast	subst:sg:gen:m1	członek rodu	
+Piastem	Piast	subst:sg:inst:m1	członek rodu	
+Piastom	Piast	subst:pl:dat:m1	członek rodu	
+Piastowie	Piast	subst:pl:nom:m1	członek rodu	
+Piastowie	Piast	subst:pl:voc:m1	członek rodu	
+Piastowi	Piast	subst:sg:dat:m1	członek rodu	
+Piastów	Piast	subst:pl:acc:m1	członek rodu	
+Piastów	Piast	subst:pl:gen:m1	członek rodu	
+Piast	Piast	subst:sg:nom:m1	członek rodu	
+Piasty	Piast	depr:pl:nom:m2	członek rodu	
+Piasty	Piast	depr:pl:voc:m2	członek rodu	
+Piaście	Piast	subst:sg:loc:m1	członek rodu	
+Piaście	Piast	subst:sg:voc:m1	członek rodu	
 Piastowach	Piastów	subst:pl:loc:m3	geograficzna	
 Piastowami	Piastów	subst:pl:inst:m3	geograficzna	
 Piastowa	Piastów	subst:sg:gen:m3	geograficzna	
@@ -7595,22 +7547,22 @@ Pobiedziskom	Pobiedziska	subst:pl:dat:p2	geograficzna
 Pobiedziskom	Pobiedziska	subst:pl:dat:p3	geograficzna	
 Pobiedzisk	Pobiedziska	subst:pl:gen:p2	geograficzna	
 Pobiedzisk	Pobiedziska	subst:pl:gen:p3	geograficzna	
-Pobóg	Pobóg	depr:pl:nom:m2	człon_nazwiska_(herb)	
-Pobóg	Pobóg	depr:pl:voc:m2	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:pl:acc:m1	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:pl:dat:m1	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:pl:gen:m1	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:pl:inst:m1	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:pl:loc:m1	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:pl:nom:m1	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:pl:voc:m1	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:sg:acc:m1	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:sg:dat:m1	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:sg:gen:m1	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:sg:inst:m1	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:sg:loc:m1	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:sg:nom:m1	człon_nazwiska_(herb)	
-Pobóg	Pobóg	subst:sg:voc:m1	człon_nazwiska_(herb)	
+Pobóg	Pobóg	depr:pl:nom:m2	człon nazwiska (herb)	
+Pobóg	Pobóg	depr:pl:voc:m2	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:pl:acc:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:pl:dat:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:pl:gen:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:pl:inst:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:pl:loc:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:pl:nom:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:pl:voc:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:sg:acc:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:sg:dat:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:sg:gen:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:sg:inst:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:sg:loc:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:sg:nom:m1	człon nazwiska (herb)	
+Pobóg	Pobóg	subst:sg:voc:m1	człon nazwiska (herb)	
 Poczdamach	Poczdam	subst:pl:loc:m3	geograficzna	
 Poczdamami	Poczdam	subst:pl:inst:m3	geograficzna	
 Poczdamem	Poczdam	subst:sg:inst:m3	geograficzna	
@@ -7642,34 +7594,20 @@ Poczobutt	Poczobutt	subst:sg:nom:m1	nazwisko
 Poczobutty	Poczobutt	depr:pl:nom:m2	nazwisko	
 Poczobutty	Poczobutt	depr:pl:voc:m2	nazwisko	
 PP	Poczta_Polska	brev:npun		
-Podbeskidziach	Podbeskidzie	subst:pl:loc:n2	geograficzna	
-Podbeskidziach	Podbeskidzie	subst:pl:loc:n2	organizacja	
-Podbeskidziami	Podbeskidzie	subst:pl:inst:n2	geograficzna	
-Podbeskidziami	Podbeskidzie	subst:pl:inst:n2	organizacja	
-Podbeskidzia	Podbeskidzie	subst:pl:acc:n2	geograficzna	
-Podbeskidzia	Podbeskidzie	subst:pl:acc:n2	organizacja	
-Podbeskidzia	Podbeskidzie	subst:pl:nom:n2	geograficzna	
-Podbeskidzia	Podbeskidzie	subst:pl:nom:n2	organizacja	
-Podbeskidzia	Podbeskidzie	subst:pl:voc:n2	geograficzna	
-Podbeskidzia	Podbeskidzie	subst:pl:voc:n2	organizacja	
-Podbeskidzia	Podbeskidzie	subst:sg:gen:n2	geograficzna	
-Podbeskidzia	Podbeskidzie	subst:sg:gen:n2	organizacja	
-Podbeskidziem	Podbeskidzie	subst:sg:inst:n2	geograficzna	
-Podbeskidziem	Podbeskidzie	subst:sg:inst:n2	organizacja	
-Podbeskidzie	Podbeskidzie	subst:sg:acc:n2	geograficzna	
-Podbeskidzie	Podbeskidzie	subst:sg:acc:n2	organizacja	
-Podbeskidzie	Podbeskidzie	subst:sg:nom:n2	geograficzna	
-Podbeskidzie	Podbeskidzie	subst:sg:nom:n2	organizacja	
-Podbeskidzie	Podbeskidzie	subst:sg:voc:n2	geograficzna	
-Podbeskidzie	Podbeskidzie	subst:sg:voc:n2	organizacja	
-Podbeskidziom	Podbeskidzie	subst:pl:dat:n2	geograficzna	
-Podbeskidziom	Podbeskidzie	subst:pl:dat:n2	organizacja	
-Podbeskidzi	Podbeskidzie	subst:pl:gen:n2	geograficzna	
-Podbeskidzi	Podbeskidzie	subst:pl:gen:n2	organizacja	
-Podbeskidziu	Podbeskidzie	subst:sg:dat:n2	geograficzna	
-Podbeskidziu	Podbeskidzie	subst:sg:dat:n2	organizacja	
-Podbeskidziu	Podbeskidzie	subst:sg:loc:n2	geograficzna	
-Podbeskidziu	Podbeskidzie	subst:sg:loc:n2	organizacja	
+Podbeskidziach	Podbeskidzie	subst:pl:loc:n2	geograficzna|organizacja	
+Podbeskidziami	Podbeskidzie	subst:pl:inst:n2	geograficzna|organizacja	
+Podbeskidzia	Podbeskidzie	subst:pl:acc:n2	geograficzna|organizacja	
+Podbeskidzia	Podbeskidzie	subst:pl:nom:n2	geograficzna|organizacja	
+Podbeskidzia	Podbeskidzie	subst:pl:voc:n2	geograficzna|organizacja	
+Podbeskidzia	Podbeskidzie	subst:sg:gen:n2	geograficzna|organizacja	
+Podbeskidziem	Podbeskidzie	subst:sg:inst:n2	geograficzna|organizacja	
+Podbeskidzie	Podbeskidzie	subst:sg:acc:n2	geograficzna|organizacja	
+Podbeskidzie	Podbeskidzie	subst:sg:nom:n2	geograficzna|organizacja	
+Podbeskidzie	Podbeskidzie	subst:sg:voc:n2	geograficzna|organizacja	
+Podbeskidziom	Podbeskidzie	subst:pl:dat:n2	geograficzna|organizacja	
+Podbeskidzi	Podbeskidzie	subst:pl:gen:n2	geograficzna|organizacja	
+Podbeskidziu	Podbeskidzie	subst:sg:dat:n2	geograficzna|organizacja	
+Podbeskidziu	Podbeskidzie	subst:sg:loc:n2	geograficzna|organizacja	
 Podbipięcie	Podbipięta	subst:sg:dat:m1	przydomek	
 Podbipięcie	Podbipięta	subst:sg:loc:m1	przydomek	
 Podbipięci	Podbipięta	subst:pl:nom:m1	przydomek	
@@ -9403,34 +9341,20 @@ Porosły	Porosło	depr:pl:voc:m2	nazwisko
 Porosły	Porosło	subst:sg:gen:m1	nazwisko	
 Porośle	Porosło	subst:sg:dat:m1	nazwisko	
 Porośle	Porosło	subst:sg:loc:m1	nazwisko	
-Porcie	Porta	subst:sg:dat:f	budowla	hist.
-Porcie	Porta	subst:sg:dat:f	geograficzna	hist.
-Porcie	Porta	subst:sg:loc:f	budowla	hist.
-Porcie	Porta	subst:sg:loc:f	geograficzna	hist.
-Portach	Porta	subst:pl:loc:f	budowla	hist.
-Portach	Porta	subst:pl:loc:f	geograficzna	hist.
-Portami	Porta	subst:pl:inst:f	budowla	hist.
-Portami	Porta	subst:pl:inst:f	geograficzna	hist.
-Porta	Porta	subst:sg:nom:f	budowla	hist.
-Porta	Porta	subst:sg:nom:f	geograficzna	hist.
-Portą	Porta	subst:sg:inst:f	budowla	hist.
-Portą	Porta	subst:sg:inst:f	geograficzna	hist.
-Portę	Porta	subst:sg:acc:f	budowla	hist.
-Portę	Porta	subst:sg:acc:f	geograficzna	hist.
-Portom	Porta	subst:pl:dat:f	budowla	hist.
-Portom	Porta	subst:pl:dat:f	geograficzna	hist.
-Porto	Porta	subst:sg:voc:f	budowla	hist.
-Porto	Porta	subst:sg:voc:f	geograficzna	hist.
-Port	Porta	subst:pl:gen:f	budowla	hist.
-Port	Porta	subst:pl:gen:f	geograficzna	hist.
-Porty	Porta	subst:pl:acc:f	budowla	hist.
-Porty	Porta	subst:pl:acc:f	geograficzna	hist.
-Porty	Porta	subst:pl:nom:f	budowla	hist.
-Porty	Porta	subst:pl:nom:f	geograficzna	hist.
-Porty	Porta	subst:pl:voc:f	budowla	hist.
-Porty	Porta	subst:pl:voc:f	geograficzna	hist.
-Porty	Porta	subst:sg:gen:f	budowla	hist.
-Porty	Porta	subst:sg:gen:f	geograficzna	hist.
+Porcie	Porta	subst:sg:dat:f	geograficzna|budowla	hist.
+Porcie	Porta	subst:sg:loc:f	geograficzna|budowla	hist.
+Portach	Porta	subst:pl:loc:f	geograficzna|budowla	hist.
+Portami	Porta	subst:pl:inst:f	geograficzna|budowla	hist.
+Porta	Porta	subst:sg:nom:f	geograficzna|budowla	hist.
+Portą	Porta	subst:sg:inst:f	geograficzna|budowla	hist.
+Portę	Porta	subst:sg:acc:f	geograficzna|budowla	hist.
+Portom	Porta	subst:pl:dat:f	geograficzna|budowla	hist.
+Porto	Porta	subst:sg:voc:f	geograficzna|budowla	hist.
+Port	Porta	subst:pl:gen:f	geograficzna|budowla	hist.
+Porty	Porta	subst:pl:acc:f	geograficzna|budowla	hist.
+Porty	Porta	subst:pl:nom:f	geograficzna|budowla	hist.
+Porty	Porta	subst:pl:voc:f	geograficzna|budowla	hist.
+Porty	Porta	subst:sg:gen:f	geograficzna|budowla	hist.
 Portlandach	Portland	subst:pl:loc:m3	geograficzna	
 Portlandami	Portland	subst:pl:inst:m3	geograficzna	
 Portlandem	Portland	subst:sg:inst:m3	geograficzna	
@@ -10513,38 +10437,22 @@ Prosperze	Prosper	subst:sg:loc:m1	imię
 Prosperze	Prosper	subst:sg:voc:m1	imię	
 Prosperzy	Prosper	subst:pl:nom:m1	imię	
 Prosperzy	Prosper	subst:pl:voc:m1	imię	
-Prosperach	Prospero	subst:pl:loc:m1	astr.	
-Prosperach	Prospero	subst:pl:loc:m1	imię	
-Prosperami	Prospero	subst:pl:inst:m1	astr.	
-Prosperami	Prospero	subst:pl:inst:m1	imię	
-Prospera	Prospero	depr:pl:nom:m2	astr.	
-Prospera	Prospero	depr:pl:nom:m2	imię	
-Prospera	Prospero	depr:pl:voc:m2	astr.	
-Prospera	Prospero	depr:pl:voc:m2	imię	
-Prospera	Prospero	subst:sg:acc:m1	astr.	
-Prospera	Prospero	subst:sg:acc:m1	imię	
-Prospera	Prospero	subst:sg:gen:m1	astr.	
-Prospera	Prospero	subst:sg:gen:m1	imię	
-Prosperem	Prospero	subst:sg:inst:m1	astr.	
-Prosperem	Prospero	subst:sg:inst:m1	imię	
-Prosperom	Prospero	subst:pl:dat:m1	astr.	
-Prosperom	Prospero	subst:pl:dat:m1	imię	
-Prospero	Prospero	subst:sg:nom:m1	astr.	
-Prospero	Prospero	subst:sg:nom:m1	imię	
-Prospero	Prospero	subst:sg:voc:m1	astr.	
-Prospero	Prospero	subst:sg:voc:m1	imię	
-Prosperowie	Prospero	subst:pl:nom:m1	astr.	
-Prosperowie	Prospero	subst:pl:nom:m1	imię	
-Prosperowie	Prospero	subst:pl:voc:m1	astr.	
-Prosperowie	Prospero	subst:pl:voc:m1	imię	
-Prosperowi	Prospero	subst:sg:dat:m1	astr.	
-Prosperowi	Prospero	subst:sg:dat:m1	imię	
-Prosperów	Prospero	subst:pl:acc:m1	astr.	
-Prosperów	Prospero	subst:pl:acc:m1	imię	
-Prosperów	Prospero	subst:pl:gen:m1	astr.	
-Prosperów	Prospero	subst:pl:gen:m1	imię	
-Prosperze	Prospero	subst:sg:loc:m1	astr.	
-Prosperze	Prospero	subst:sg:loc:m1	imię	
+Prosperach	Prospero	subst:pl:loc:m1	imię|astr.	
+Prosperami	Prospero	subst:pl:inst:m1	imię|astr.	
+Prospera	Prospero	depr:pl:nom:m2	imię|astr.	
+Prospera	Prospero	depr:pl:voc:m2	imię|astr.	
+Prospera	Prospero	subst:sg:acc:m1	imię|astr.	
+Prospera	Prospero	subst:sg:gen:m1	imię|astr.	
+Prosperem	Prospero	subst:sg:inst:m1	imię|astr.	
+Prosperom	Prospero	subst:pl:dat:m1	imię|astr.	
+Prospero	Prospero	subst:sg:nom:m1	imię|astr.	
+Prospero	Prospero	subst:sg:voc:m1	imię|astr.	
+Prosperowie	Prospero	subst:pl:nom:m1	imię|astr.	
+Prosperowie	Prospero	subst:pl:voc:m1	imię|astr.	
+Prosperowi	Prospero	subst:sg:dat:m1	imię|astr.	
+Prosperów	Prospero	subst:pl:acc:m1	imię|astr.	
+Prosperów	Prospero	subst:pl:gen:m1	imię|astr.	
+Prosperze	Prospero	subst:sg:loc:m1	imię|astr.	
 Proszowicach	Proszowice	subst:pl:loc:p2	geograficzna	rzad.
 Proszowicach	Proszowice	subst:pl:loc:p3	geograficzna	
 Proszowicami	Proszowice	subst:pl:inst:p2	geograficzna	rzad.
@@ -10705,6 +10613,23 @@ Prowansji	Prowansja	subst:sg:loc:f	geograficzna
 Prowansjom	Prowansja	subst:pl:dat:f	geograficzna	
 Prowansjo	Prowansja	subst:sg:voc:f	geograficzna	
 Prowansyj	Prowansja	subst:pl:gen:f	geograficzna	arch.|char.
+PR-owcach	PR-owiec	subst:pl:loc:m1	pospolita	
+PR-owcami	PR-owiec	subst:pl:inst:m1	pospolita	
+PR-owca	PR-owiec	subst:sg:acc:m1	pospolita	
+PR-owca	PR-owiec	subst:sg:gen:m1	pospolita	
+PR-owcem	PR-owiec	subst:sg:inst:m1	pospolita	
+PR-owce	PR-owiec	depr:pl:nom:m2	pospolita	
+PR-owce	PR-owiec	depr:pl:voc:m2	pospolita	
+PR-owcom	PR-owiec	subst:pl:dat:m1	pospolita	
+PR-owcowi	PR-owiec	subst:sg:dat:m1	pospolita	
+PR-owców	PR-owiec	subst:pl:acc:m1	pospolita	
+PR-owców	PR-owiec	subst:pl:gen:m1	pospolita	
+PR-owcu	PR-owiec	subst:sg:loc:m1	pospolita	
+PR-owcu	PR-owiec	subst:sg:voc:m1	pospolita	
+PR-owcy	PR-owiec	subst:pl:nom:m1	pospolita	
+PR-owcy	PR-owiec	subst:pl:voc:m1	pospolita	
+PR-owcze	PR-owiec	subst:sg:voc:m1	pospolita	
+PR-owiec	PR-owiec	subst:sg:nom:m1	pospolita	
 Prozerpinach	Prozerpina	subst:pl:loc:f	imię	mit.
 Prozerpinami	Prozerpina	subst:pl:inst:f	imię	mit.
 Prozerpina	Prozerpina	subst:sg:nom:f	imię	mit.
@@ -11414,24 +11339,24 @@ Przemyśl	Przemyśl	subst:sg:acc:m3	geograficzna
 Przemyśl	Przemyśl	subst:sg:nom:m3	geograficzna	
 Przemyślu	Przemyśl	subst:sg:loc:m3	geograficzna	
 Przemyślu	Przemyśl	subst:sg:voc:m3	geograficzna	
-Przemyślidach	Przemyślida	subst:pl:loc:m1	członek_rodu	
-Przemyślidami	Przemyślida	subst:pl:inst:m1	członek_rodu	
-Przemyślida	Przemyślida	subst:sg:nom:m1	członek_rodu	
-Przemyślidą	Przemyślida	subst:sg:inst:m1	członek_rodu	
-Przemyślidę	Przemyślida	subst:sg:acc:m1	członek_rodu	
-Przemyślidom	Przemyślida	subst:pl:dat:m1	członek_rodu	
-Przemyślido	Przemyślida	subst:sg:voc:m1	członek_rodu	
-Przemyślidowie	Przemyślida	subst:pl:nom:m1	członek_rodu	
-Przemyślidowie	Przemyślida	subst:pl:voc:m1	członek_rodu	
-Przemyślidów	Przemyślida	subst:pl:acc:m1	członek_rodu	
-Przemyślidów	Przemyślida	subst:pl:gen:m1	członek_rodu	
-Przemyślidy	Przemyślida	depr:pl:nom:m2	członek_rodu	
-Przemyślidy	Przemyślida	depr:pl:voc:m2	członek_rodu	
-Przemyślidy	Przemyślida	subst:sg:gen:m1	członek_rodu	
-Przemyślidzie	Przemyślida	subst:sg:dat:m1	członek_rodu	
-Przemyślidzie	Przemyślida	subst:sg:loc:m1	członek_rodu	
-Przemyślidzi	Przemyślida	subst:pl:nom:m1	członek_rodu	
-Przemyślidzi	Przemyślida	subst:pl:voc:m1	członek_rodu	
+Przemyślidach	Przemyślida	subst:pl:loc:m1	członek rodu	
+Przemyślidami	Przemyślida	subst:pl:inst:m1	członek rodu	
+Przemyślida	Przemyślida	subst:sg:nom:m1	członek rodu	
+Przemyślidą	Przemyślida	subst:sg:inst:m1	członek rodu	
+Przemyślidę	Przemyślida	subst:sg:acc:m1	członek rodu	
+Przemyślidom	Przemyślida	subst:pl:dat:m1	członek rodu	
+Przemyślido	Przemyślida	subst:sg:voc:m1	członek rodu	
+Przemyślidowie	Przemyślida	subst:pl:nom:m1	członek rodu	
+Przemyślidowie	Przemyślida	subst:pl:voc:m1	członek rodu	
+Przemyślidów	Przemyślida	subst:pl:acc:m1	członek rodu	
+Przemyślidów	Przemyślida	subst:pl:gen:m1	członek rodu	
+Przemyślidy	Przemyślida	depr:pl:nom:m2	członek rodu	
+Przemyślidy	Przemyślida	depr:pl:voc:m2	członek rodu	
+Przemyślidy	Przemyślida	subst:sg:gen:m1	członek rodu	
+Przemyślidzie	Przemyślida	subst:sg:dat:m1	członek rodu	
+Przemyślidzie	Przemyślida	subst:sg:loc:m1	członek rodu	
+Przemyślidzi	Przemyślida	subst:pl:nom:m1	członek rodu	
+Przemyślidzi	Przemyślida	subst:pl:voc:m1	członek rodu	
 Przerwach	Przerwa	subst:pl:loc:m1	nazwisko	
 Przerwami	Przerwa	subst:pl:inst:m1	nazwisko	
 Przerwa	Przerwa	subst:sg:nom:m1	nazwisko	

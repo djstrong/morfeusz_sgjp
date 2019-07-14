@@ -548,6 +548,22 @@
 łachanym	łachać	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 łachań	łachać	ger:pl:gen:n2:imperf:aff		
 łachasz	łachać	fin:sg:sec:imperf		
+łachadojdach	łachadojda	subst:pl:loc:m1	pospolita	
+łachadojda	łachadojda	subst:sg:nom:m1	pospolita	
+łachadojdami	łachadojda	subst:pl:inst:m1	pospolita	
+łachadojdą	łachadojda	subst:sg:inst:m1	pospolita	
+łachadojdę	łachadojda	subst:sg:acc:m1	pospolita	
+łachadojdo	łachadojda	subst:sg:voc:m1	pospolita	
+łachadojdom	łachadojda	subst:pl:dat:m1	pospolita	
+łachadojdowie	łachadojda	subst:pl:nom:m1	pospolita	
+łachadojdowie	łachadojda	subst:pl:voc:m1	pospolita	
+łachadojdów	łachadojda	subst:pl:acc:m1	pospolita	
+łachadojdów	łachadojda	subst:pl:gen:m1	pospolita	
+łachadojdy	łachadojda	depr:pl:nom:m2	pospolita	
+łachadojdy	łachadojda	depr:pl:voc:m2	pospolita	
+łachadojdy	łachadojda	subst:sg:gen:m1	pospolita	
+łachadojdzie	łachadojda	subst:sg:dat:m1	pospolita	
+łachadojdzie	łachadojda	subst:sg:loc:m1	pospolita	
 łachciach	łacheć	subst:pl:loc:m3	pospolita	
 łachcia	łacheć	subst:sg:gen:m3	pospolita	
 łachciami	łacheć	subst:pl:inst:m3	pospolita	
@@ -4892,6 +4908,22 @@
 łamigłówkowym	łamigłówkowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 łamigłówkowym	łamigłówkowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 łamigłówkowym	łamigłówkowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+łamignacie	łamignat	subst:sg:loc:m1	pospolita	
+łamignacie	łamignat	subst:sg:voc:m1	pospolita	
+łamignatach	łamignat	subst:pl:loc:m1	pospolita	
+łamignata	łamignat	subst:sg:acc:m1	pospolita	
+łamignata	łamignat	subst:sg:gen:m1	pospolita	
+łamignatami	łamignat	subst:pl:inst:m1	pospolita	
+łamignatem	łamignat	subst:sg:inst:m1	pospolita	
+łamignat	łamignat	subst:sg:nom:m1	pospolita	
+łamignatom	łamignat	subst:pl:dat:m1	pospolita	
+łamignatowie	łamignat	subst:pl:nom:m1	pospolita	
+łamignatowie	łamignat	subst:pl:voc:m1	pospolita	
+łamignatowi	łamignat	subst:sg:dat:m1	pospolita	
+łamignatów	łamignat	subst:pl:acc:m1	pospolita	
+łamignatów	łamignat	subst:pl:gen:m1	pospolita	
+łamignaty	łamignat	depr:pl:nom:m2	pospolita	
+łamignaty	łamignat	depr:pl:voc:m2	pospolita	
 łamikostach	łamikost	subst:pl:loc:m3	pospolita	
 łamikostami	łamikost	subst:pl:inst:m3	pospolita	
 łamikostem	łamikost	subst:sg:inst:m3	pospolita	
@@ -9049,6 +9081,20 @@
 ławnikowskościom	ławnikowskość	subst:pl:dat:f		
 ławnikowskość	ławnikowskość	subst:sg:acc:f		
 ławnikowskość	ławnikowskość	subst:sg:nom:f		
+ławostole	ławostół	subst:sg:loc:m3	pospolita	
+ławostole	ławostół	subst:sg:voc:m3	pospolita	
+ławostołach	ławostół	subst:pl:loc:m3	pospolita	
+ławostołami	ławostół	subst:pl:inst:m3	pospolita	
+ławostołem	ławostół	subst:sg:inst:m3	pospolita	
+ławostołom	ławostół	subst:pl:dat:m3	pospolita	
+ławostołowi	ławostół	subst:sg:dat:m3	pospolita	
+ławostołów	ławostół	subst:pl:gen:m3	pospolita	
+ławostołu	ławostół	subst:sg:gen:m3	pospolita	
+ławostoły	ławostół	subst:pl:acc:m3	pospolita	
+ławostoły	ławostół	subst:pl:nom:m3	pospolita	
+ławostoły	ławostół	subst:pl:voc:m3	pospolita	
+ławostół	ławostół	subst:sg:acc:m3	pospolita	
+ławostół	ławostół	subst:sg:nom:m3	pospolita	
 ławowościach	ławowość	subst:pl:loc:f		
 ławowościami	ławowość	subst:pl:inst:f		
 ławowością	ławowość	subst:sg:inst:f		
@@ -25727,6 +25773,55 @@
 łyżworolki	łyżworolka	subst:sg:gen:f	pospolita	
 łyżworolko	łyżworolka	subst:sg:voc:f	pospolita	
 łyżworolkom	łyżworolka	subst:pl:dat:f	pospolita	
+łyżworolkarzach	łyżworolkarz	subst:pl:loc:m1	pospolita	
+łyżworolkarzach	łyżworolkarz	subst:pl:loc:m1	pospolita	rzad.
+łyżworolkarza	łyżworolkarz	subst:sg:acc:m1	pospolita	
+łyżworolkarza	łyżworolkarz	subst:sg:acc:m1	pospolita	rzad.
+łyżworolkarza	łyżworolkarz	subst:sg:gen:m1	pospolita	
+łyżworolkarza	łyżworolkarz	subst:sg:gen:m1	pospolita	rzad.
+łyżworolkarzami	łyżworolkarz	subst:pl:inst:m1	pospolita	
+łyżworolkarzami	łyżworolkarz	subst:pl:inst:m1	pospolita	rzad.
+łyżworolkarze	łyżworolkarz	depr:pl:nom:m2	pospolita	
+łyżworolkarze	łyżworolkarz	depr:pl:nom:m2	pospolita	rzad.
+łyżworolkarze	łyżworolkarz	depr:pl:voc:m2	pospolita	
+łyżworolkarze	łyżworolkarz	depr:pl:voc:m2	pospolita	rzad.
+łyżworolkarze	łyżworolkarz	subst:pl:nom:m1	pospolita	
+łyżworolkarze	łyżworolkarz	subst:pl:nom:m1	pospolita	rzad.
+łyżworolkarze	łyżworolkarz	subst:pl:voc:m1	pospolita	
+łyżworolkarze	łyżworolkarz	subst:pl:voc:m1	pospolita	rzad.
+łyżworolkarzem	łyżworolkarz	subst:sg:inst:m1	pospolita	
+łyżworolkarzem	łyżworolkarz	subst:sg:inst:m1	pospolita	rzad.
+łyżworolkarz	łyżworolkarz	subst:sg:nom:m1	pospolita	
+łyżworolkarz	łyżworolkarz	subst:sg:nom:m1	pospolita	rzad.
+łyżworolkarzom	łyżworolkarz	subst:pl:dat:m1	pospolita	
+łyżworolkarzom	łyżworolkarz	subst:pl:dat:m1	pospolita	rzad.
+łyżworolkarzowi	łyżworolkarz	subst:sg:dat:m1	pospolita	
+łyżworolkarzowi	łyżworolkarz	subst:sg:dat:m1	pospolita	rzad.
+łyżworolkarzów	łyżworolkarz	subst:pl:acc:m1	pospolita	rzad.
+łyżworolkarzów	łyżworolkarz	subst:pl:gen:m1	pospolita	rzad.
+łyżworolkarzu	łyżworolkarz	subst:sg:loc:m1	pospolita	
+łyżworolkarzu	łyżworolkarz	subst:sg:loc:m1	pospolita	rzad.
+łyżworolkarzu	łyżworolkarz	subst:sg:voc:m1	pospolita	
+łyżworolkarzu	łyżworolkarz	subst:sg:voc:m1	pospolita	rzad.
+łyżworolkarzy	łyżworolkarz	subst:pl:acc:m1	pospolita	
+łyżworolkarzy	łyżworolkarz	subst:pl:gen:m1	pospolita	
+łyżworolkowcach	łyżworolkowiec	subst:pl:loc:m1	pospolita	
+łyżworolkowca	łyżworolkowiec	subst:sg:acc:m1	pospolita	
+łyżworolkowca	łyżworolkowiec	subst:sg:gen:m1	pospolita	
+łyżworolkowcami	łyżworolkowiec	subst:pl:inst:m1	pospolita	
+łyżworolkowce	łyżworolkowiec	depr:pl:nom:m2	pospolita	
+łyżworolkowce	łyżworolkowiec	depr:pl:voc:m2	pospolita	
+łyżworolkowcem	łyżworolkowiec	subst:sg:inst:m1	pospolita	
+łyżworolkowcom	łyżworolkowiec	subst:pl:dat:m1	pospolita	
+łyżworolkowcowi	łyżworolkowiec	subst:sg:dat:m1	pospolita	
+łyżworolkowców	łyżworolkowiec	subst:pl:acc:m1	pospolita	
+łyżworolkowców	łyżworolkowiec	subst:pl:gen:m1	pospolita	
+łyżworolkowcu	łyżworolkowiec	subst:sg:loc:m1	pospolita	
+łyżworolkowcu	łyżworolkowiec	subst:sg:voc:m1	pospolita	
+łyżworolkowcy	łyżworolkowiec	subst:pl:nom:m1	pospolita	
+łyżworolkowcy	łyżworolkowiec	subst:pl:voc:m1	pospolita	
+łyżworolkowcze	łyżworolkowiec	subst:sg:voc:m1	pospolita	
+łyżworolkowiec	łyżworolkowiec	subst:sg:nom:m1	pospolita	
 łyżwować	łyżwować	inf:imperf		rzad.
 łyżwowaliby	łyżwować	cond:pl:m1.p1:ter:imperf		rzad.
 łyżwowalibyście	łyżwować	cond:pl:m1.p1:sec:imperf		rzad.
@@ -26075,3 +26170,31 @@
 łzowym	łzowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 łzowym	łzowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 łzowym	łzowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+łżedziennikach	łżedziennik	subst:pl:loc:m3	pospolita	
+łżedziennika	łżedziennik	subst:sg:gen:m3	pospolita	
+łżedziennikami	łżedziennik	subst:pl:inst:m3	pospolita	
+łżedziennikiem	łżedziennik	subst:sg:inst:m3	pospolita	
+łżedzienniki	łżedziennik	subst:pl:acc:m3	pospolita	
+łżedzienniki	łżedziennik	subst:pl:nom:m3	pospolita	
+łżedzienniki	łżedziennik	subst:pl:voc:m3	pospolita	
+łżedziennik	łżedziennik	subst:sg:acc:m3	pospolita	
+łżedziennik	łżedziennik	subst:sg:nom:m3	pospolita	
+łżedziennikom	łżedziennik	subst:pl:dat:m3	pospolita	
+łżedziennikowi	łżedziennik	subst:sg:dat:m3	pospolita	
+łżedzienników	łżedziennik	subst:pl:gen:m3	pospolita	
+łżedzienniku	łżedziennik	subst:sg:loc:m3	pospolita	
+łżedzienniku	łżedziennik	subst:sg:voc:m3	pospolita	
+łżeelicie	łżeelita	subst:sg:dat:f	pospolita	
+łżeelicie	łżeelita	subst:sg:loc:f	pospolita	
+łżeelitach	łżeelita	subst:pl:loc:f	pospolita	
+łżeelita	łżeelita	subst:sg:nom:f	pospolita	
+łżeelitami	łżeelita	subst:pl:inst:f	pospolita	
+łżeelitą	łżeelita	subst:sg:inst:f	pospolita	
+łżeelitę	łżeelita	subst:sg:acc:f	pospolita	
+łżeelit	łżeelita	subst:pl:gen:f	pospolita	
+łżeelito	łżeelita	subst:sg:voc:f	pospolita	
+łżeelitom	łżeelita	subst:pl:dat:f	pospolita	
+łżeelity	łżeelita	subst:pl:acc:f	pospolita	
+łżeelity	łżeelita	subst:pl:nom:f	pospolita	
+łżeelity	łżeelita	subst:pl:voc:f	pospolita	
+łżeelity	łżeelita	subst:sg:gen:f	pospolita	

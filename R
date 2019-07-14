@@ -2845,20 +2845,20 @@ Reuters	Reuters	subst:sg:nom:m2	firma
 Reutersy	Reuters	subst:pl:acc:m2	firma	
 Reutersy	Reuters	subst:pl:nom:m2	firma	
 Reutersy	Reuters	subst:pl:voc:m2	firma	
-Reksach	Rex	subst:pl:loc:m3	krój_pisma	poligr.
-Reksami	Rex	subst:pl:inst:m3	krój_pisma	poligr.
-Reksem	Rex	subst:sg:inst:m3	krój_pisma	poligr.
-Reksie	Rex	subst:sg:loc:m3	krój_pisma	poligr.
-Reksie	Rex	subst:sg:voc:m3	krój_pisma	poligr.
-Reksom	Rex	subst:pl:dat:m3	krój_pisma	poligr.
-Reksowi	Rex	subst:sg:dat:m3	krój_pisma	poligr.
-Reksów	Rex	subst:pl:gen:m3	krój_pisma	poligr.
-Reksu	Rex	subst:sg:gen:m3	krój_pisma	poligr.
-Reksy	Rex	subst:pl:acc:m3	krój_pisma	poligr.
-Reksy	Rex	subst:pl:nom:m3	krój_pisma	poligr.
-Reksy	Rex	subst:pl:voc:m3	krój_pisma	poligr.
-Rex	Rex	subst:sg:acc:m3	krój_pisma	poligr.
-Rex	Rex	subst:sg:nom:m3	krój_pisma	poligr.
+Reksach	Rex	subst:pl:loc:m3	krój pisma	poligr.
+Reksami	Rex	subst:pl:inst:m3	krój pisma	poligr.
+Reksem	Rex	subst:sg:inst:m3	krój pisma	poligr.
+Reksie	Rex	subst:sg:loc:m3	krój pisma	poligr.
+Reksie	Rex	subst:sg:voc:m3	krój pisma	poligr.
+Reksom	Rex	subst:pl:dat:m3	krój pisma	poligr.
+Reksowi	Rex	subst:sg:dat:m3	krój pisma	poligr.
+Reksów	Rex	subst:pl:gen:m3	krój pisma	poligr.
+Reksu	Rex	subst:sg:gen:m3	krój pisma	poligr.
+Reksy	Rex	subst:pl:acc:m3	krój pisma	poligr.
+Reksy	Rex	subst:pl:nom:m3	krój pisma	poligr.
+Reksy	Rex	subst:pl:voc:m3	krój pisma	poligr.
+Rex	Rex	subst:sg:acc:m3	krój pisma	poligr.
+Rex	Rex	subst:sg:nom:m3	krój pisma	poligr.
 Reykjavikach	Reykjavik	subst:pl:loc:m3	geograficzna	
 Reykjavikami	Reykjavik	subst:pl:inst:m3	geograficzna	
 Reykjavikiem	Reykjavik	subst:sg:inst:m3	geograficzna	
@@ -3571,38 +3571,22 @@ Robin	Robin	subst:sg:nom:m1	imię
 Robin	Robin	subst:sg:voc:m1	imię	
 Robiny	Robin	depr:pl:nom:m2	imię	
 Robiny	Robin	depr:pl:voc:m2	imię	
-Robinsonach	Robinson	subst:pl:loc:m1	imię	
-Robinsonach	Robinson	subst:pl:loc:m1	nazwisko	
-Robinsonami	Robinson	subst:pl:inst:m1	imię	
-Robinsonami	Robinson	subst:pl:inst:m1	nazwisko	
-Robinsona	Robinson	subst:sg:acc:m1	imię	
-Robinsona	Robinson	subst:sg:acc:m1	nazwisko	
-Robinsona	Robinson	subst:sg:gen:m1	imię	
-Robinsona	Robinson	subst:sg:gen:m1	nazwisko	
-Robinsonem	Robinson	subst:sg:inst:m1	imię	
-Robinsonem	Robinson	subst:sg:inst:m1	nazwisko	
-Robinsonie	Robinson	subst:sg:loc:m1	imię	
-Robinsonie	Robinson	subst:sg:loc:m1	nazwisko	
-Robinsonie	Robinson	subst:sg:voc:m1	imię	
-Robinsonie	Robinson	subst:sg:voc:m1	nazwisko	
-Robinsonom	Robinson	subst:pl:dat:m1	imię	
-Robinsonom	Robinson	subst:pl:dat:m1	nazwisko	
-Robinsonowie	Robinson	subst:pl:nom:m1	imię	
-Robinsonowie	Robinson	subst:pl:nom:m1	nazwisko	
-Robinsonowie	Robinson	subst:pl:voc:m1	imię	
-Robinsonowie	Robinson	subst:pl:voc:m1	nazwisko	
-Robinsonowi	Robinson	subst:sg:dat:m1	imię	
-Robinsonowi	Robinson	subst:sg:dat:m1	nazwisko	
-Robinsonów	Robinson	subst:pl:acc:m1	imię	
-Robinsonów	Robinson	subst:pl:acc:m1	nazwisko	
-Robinsonów	Robinson	subst:pl:gen:m1	imię	
-Robinsonów	Robinson	subst:pl:gen:m1	nazwisko	
-Robinson	Robinson	subst:sg:nom:m1	imię	
-Robinson	Robinson	subst:sg:nom:m1	nazwisko	
-Robinsony	Robinson	depr:pl:nom:m2	imię	
-Robinsony	Robinson	depr:pl:nom:m2	nazwisko	
-Robinsony	Robinson	depr:pl:voc:m2	imię	
-Robinsony	Robinson	depr:pl:voc:m2	nazwisko	
+Robinsonach	Robinson	subst:pl:loc:m1	imię|nazwisko	
+Robinsonami	Robinson	subst:pl:inst:m1	imię|nazwisko	
+Robinsona	Robinson	subst:sg:acc:m1	imię|nazwisko	
+Robinsona	Robinson	subst:sg:gen:m1	imię|nazwisko	
+Robinsonem	Robinson	subst:sg:inst:m1	imię|nazwisko	
+Robinsonie	Robinson	subst:sg:loc:m1	imię|nazwisko	
+Robinsonie	Robinson	subst:sg:voc:m1	imię|nazwisko	
+Robinsonom	Robinson	subst:pl:dat:m1	imię|nazwisko	
+Robinsonowie	Robinson	subst:pl:nom:m1	imię|nazwisko	
+Robinsonowie	Robinson	subst:pl:voc:m1	imię|nazwisko	
+Robinsonowi	Robinson	subst:sg:dat:m1	imię|nazwisko	
+Robinsonów	Robinson	subst:pl:acc:m1	imię|nazwisko	
+Robinsonów	Robinson	subst:pl:gen:m1	imię|nazwisko	
+Robinson	Robinson	subst:sg:nom:m1	imię|nazwisko	
+Robinsony	Robinson	depr:pl:nom:m2	imię|nazwisko	
+Robinsony	Robinson	depr:pl:voc:m2	imię|nazwisko	
 Robusiach	Robuś	subst:pl:loc:m1	imię	
 Robusiami	Robuś	subst:pl:inst:m1	imię	
 Robusia	Robuś	subst:sg:acc:m1	imię	

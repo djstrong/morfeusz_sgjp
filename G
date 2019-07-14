@@ -26,42 +26,24 @@ Gabi	Gabi	subst:sg:inst:f	imię
 Gabi	Gabi	subst:sg:loc:f	imię	
 Gabi	Gabi	subst:sg:nom:f	imię	
 Gabi	Gabi	subst:sg:voc:f	imię	
-Gabinach	Gabin	subst:pl:loc:m1	imię	
-Gabinach	Gabin	subst:pl:loc:m1	nazwisko	
-Gabina	Gabin	subst:sg:acc:m1	imię	
-Gabina	Gabin	subst:sg:acc:m1	nazwisko	
-Gabina	Gabin	subst:sg:gen:m1	imię	
-Gabina	Gabin	subst:sg:gen:m1	nazwisko	
-Gabinami	Gabin	subst:pl:inst:m1	imię	
-Gabinami	Gabin	subst:pl:inst:m1	nazwisko	
-Gabinem	Gabin	subst:sg:inst:m1	imię	
-Gabinem	Gabin	subst:sg:inst:m1	nazwisko	
-Gabin	Gabin	subst:sg:nom:m1	imię	
-Gabin	Gabin	subst:sg:nom:m1	nazwisko	
-Gabinie	Gabin	subst:sg:loc:m1	imię	
-Gabinie	Gabin	subst:sg:loc:m1	nazwisko	
-Gabinie	Gabin	subst:sg:voc:m1	imię	
-Gabinie	Gabin	subst:sg:voc:m1	nazwisko	
-Gabini	Gabin	subst:pl:nom:m1	imię	
-Gabini	Gabin	subst:pl:nom:m1	nazwisko	
-Gabini	Gabin	subst:pl:voc:m1	imię	
-Gabini	Gabin	subst:pl:voc:m1	nazwisko	
-Gabinom	Gabin	subst:pl:dat:m1	imię	
-Gabinom	Gabin	subst:pl:dat:m1	nazwisko	
-Gabinowie	Gabin	subst:pl:nom:m1	imię	
-Gabinowie	Gabin	subst:pl:nom:m1	nazwisko	
-Gabinowie	Gabin	subst:pl:voc:m1	imię	
-Gabinowie	Gabin	subst:pl:voc:m1	nazwisko	
-Gabinowi	Gabin	subst:sg:dat:m1	imię	
-Gabinowi	Gabin	subst:sg:dat:m1	nazwisko	
-Gabinów	Gabin	subst:pl:acc:m1	imię	
-Gabinów	Gabin	subst:pl:acc:m1	nazwisko	
-Gabinów	Gabin	subst:pl:gen:m1	imię	
-Gabinów	Gabin	subst:pl:gen:m1	nazwisko	
-Gabiny	Gabin	depr:pl:nom:m2	imię	
-Gabiny	Gabin	depr:pl:nom:m2	nazwisko	
-Gabiny	Gabin	depr:pl:voc:m2	imię	
-Gabiny	Gabin	depr:pl:voc:m2	nazwisko	
+Gabinach	Gabin	subst:pl:loc:m1	imię|nazwisko	
+Gabina	Gabin	subst:sg:acc:m1	imię|nazwisko	
+Gabina	Gabin	subst:sg:gen:m1	imię|nazwisko	
+Gabinami	Gabin	subst:pl:inst:m1	imię|nazwisko	
+Gabinem	Gabin	subst:sg:inst:m1	imię|nazwisko	
+Gabin	Gabin	subst:sg:nom:m1	imię|nazwisko	
+Gabinie	Gabin	subst:sg:loc:m1	imię|nazwisko	
+Gabinie	Gabin	subst:sg:voc:m1	imię|nazwisko	
+Gabini	Gabin	subst:pl:nom:m1	imię|nazwisko	
+Gabini	Gabin	subst:pl:voc:m1	imię|nazwisko	
+Gabinom	Gabin	subst:pl:dat:m1	imię|nazwisko	
+Gabinowie	Gabin	subst:pl:nom:m1	imię|nazwisko	
+Gabinowie	Gabin	subst:pl:voc:m1	imię|nazwisko	
+Gabinowi	Gabin	subst:sg:dat:m1	imię|nazwisko	
+Gabinów	Gabin	subst:pl:acc:m1	imię|nazwisko	
+Gabinów	Gabin	subst:pl:gen:m1	imię|nazwisko	
+Gabiny	Gabin	depr:pl:nom:m2	imię|nazwisko	
+Gabiny	Gabin	depr:pl:voc:m2	imię|nazwisko	
 Gable’ach	Gable	subst:pl:loc:m1	nazwisko	
 Gable’a	Gable	subst:sg:acc:m1	nazwisko	
 Gable’a	Gable	subst:sg:gen:m1	nazwisko	
@@ -220,38 +202,22 @@ Gabryśki	Gabryśka	subst:pl:voc:f	imię
 Gabryśki	Gabryśka	subst:sg:gen:f	imię	
 Gabryśko	Gabryśka	subst:sg:voc:f	imię	
 Gabryśkom	Gabryśka	subst:pl:dat:f	imię	
-Gadach	Gad	subst:pl:loc:m1	imię	bibl.
-Gadach	Gad	subst:pl:loc:m1	nazwisko	bibl.
-Gada	Gad	subst:sg:acc:m1	imię	bibl.
-Gada	Gad	subst:sg:acc:m1	nazwisko	bibl.
-Gada	Gad	subst:sg:gen:m1	imię	bibl.
-Gada	Gad	subst:sg:gen:m1	nazwisko	bibl.
-Gadami	Gad	subst:pl:inst:m1	imię	bibl.
-Gadami	Gad	subst:pl:inst:m1	nazwisko	bibl.
-Gadem	Gad	subst:sg:inst:m1	imię	bibl.
-Gadem	Gad	subst:sg:inst:m1	nazwisko	bibl.
-Gad	Gad	subst:sg:nom:m1	imię	bibl.
-Gad	Gad	subst:sg:nom:m1	nazwisko	bibl.
-Gadom	Gad	subst:pl:dat:m1	imię	bibl.
-Gadom	Gad	subst:pl:dat:m1	nazwisko	bibl.
-Gadowie	Gad	subst:pl:nom:m1	imię	bibl.
-Gadowie	Gad	subst:pl:nom:m1	nazwisko	bibl.
-Gadowie	Gad	subst:pl:voc:m1	imię	bibl.
-Gadowie	Gad	subst:pl:voc:m1	nazwisko	bibl.
-Gadowi	Gad	subst:sg:dat:m1	imię	bibl.
-Gadowi	Gad	subst:sg:dat:m1	nazwisko	bibl.
-Gadów	Gad	subst:pl:acc:m1	imię	bibl.
-Gadów	Gad	subst:pl:acc:m1	nazwisko	bibl.
-Gadów	Gad	subst:pl:gen:m1	imię	bibl.
-Gadów	Gad	subst:pl:gen:m1	nazwisko	bibl.
-Gadu	Gad	subst:sg:loc:m1	imię	bibl.
-Gadu	Gad	subst:sg:loc:m1	nazwisko	bibl.
-Gadu	Gad	subst:sg:voc:m1	imię	bibl.
-Gadu	Gad	subst:sg:voc:m1	nazwisko	bibl.
-Gady	Gad	depr:pl:nom:m2	imię	bibl.
-Gady	Gad	depr:pl:nom:m2	nazwisko	bibl.
-Gady	Gad	depr:pl:voc:m2	imię	bibl.
-Gady	Gad	depr:pl:voc:m2	nazwisko	bibl.
+Gadach	Gad	subst:pl:loc:m1	imię|nazwisko	bibl.
+Gada	Gad	subst:sg:acc:m1	imię|nazwisko	bibl.
+Gada	Gad	subst:sg:gen:m1	imię|nazwisko	bibl.
+Gadami	Gad	subst:pl:inst:m1	imię|nazwisko	bibl.
+Gadem	Gad	subst:sg:inst:m1	imię|nazwisko	bibl.
+Gad	Gad	subst:sg:nom:m1	imię|nazwisko	bibl.
+Gadom	Gad	subst:pl:dat:m1	imię|nazwisko	bibl.
+Gadowie	Gad	subst:pl:nom:m1	imię|nazwisko	bibl.
+Gadowie	Gad	subst:pl:voc:m1	imię|nazwisko	bibl.
+Gadowi	Gad	subst:sg:dat:m1	imię|nazwisko	bibl.
+Gadów	Gad	subst:pl:acc:m1	imię|nazwisko	bibl.
+Gadów	Gad	subst:pl:gen:m1	imię|nazwisko	bibl.
+Gadu	Gad	subst:sg:loc:m1	imię|nazwisko	bibl.
+Gadu	Gad	subst:sg:voc:m1	imię|nazwisko	bibl.
+Gady	Gad	depr:pl:nom:m2	imię|nazwisko	bibl.
+Gady	Gad	depr:pl:voc:m2	imię|nazwisko	bibl.
 Gadomska	Gadomska	subst:sg:nom:f	nazwisko	
 Gadomska	Gadomska	subst:sg:voc:f	nazwisko	
 Gadomską	Gadomska	subst:sg:acc:f	nazwisko	
@@ -989,20 +955,20 @@ Gary	Gara	depr:pl:voc:m2	nazwisko
 Gary	Gara	subst:sg:gen:m1	nazwisko	
 Garze	Gara	subst:sg:dat:m1	nazwisko	
 Garze	Gara	subst:sg:loc:m1	nazwisko	
-Garamondach	Garamond	subst:pl:loc:m3	krój_pisma	
-Garamondami	Garamond	subst:pl:inst:m3	krój_pisma	
-Garamondem	Garamond	subst:sg:inst:m3	krój_pisma	
-Garamond	Garamond	subst:sg:acc:m3	krój_pisma	
-Garamond	Garamond	subst:sg:nom:m3	krój_pisma	
-Garamondom	Garamond	subst:pl:dat:m3	krój_pisma	
-Garamondowi	Garamond	subst:sg:dat:m3	krój_pisma	
-Garamondów	Garamond	subst:pl:gen:m3	krój_pisma	
-Garamondu	Garamond	subst:sg:gen:m3	krój_pisma	
-Garamondy	Garamond	subst:pl:acc:m3	krój_pisma	
-Garamondy	Garamond	subst:pl:nom:m3	krój_pisma	
-Garamondy	Garamond	subst:pl:voc:m3	krój_pisma	
-Garamondzie	Garamond	subst:sg:loc:m3	krój_pisma	
-Garamondzie	Garamond	subst:sg:voc:m3	krój_pisma	
+Garamondach	Garamond	subst:pl:loc:m3	krój pisma	
+Garamondami	Garamond	subst:pl:inst:m3	krój pisma	
+Garamondem	Garamond	subst:sg:inst:m3	krój pisma	
+Garamond	Garamond	subst:sg:acc:m3	krój pisma	
+Garamond	Garamond	subst:sg:nom:m3	krój pisma	
+Garamondom	Garamond	subst:pl:dat:m3	krój pisma	
+Garamondowi	Garamond	subst:sg:dat:m3	krój pisma	
+Garamondów	Garamond	subst:pl:gen:m3	krój pisma	
+Garamondu	Garamond	subst:sg:gen:m3	krój pisma	
+Garamondy	Garamond	subst:pl:acc:m3	krój pisma	
+Garamondy	Garamond	subst:pl:nom:m3	krój pisma	
+Garamondy	Garamond	subst:pl:voc:m3	krój pisma	
+Garamondzie	Garamond	subst:sg:loc:m3	krój pisma	
+Garamondzie	Garamond	subst:sg:voc:m3	krój pisma	
 Garbatce	Garbatka	subst:sg:dat:f	geograficzna	
 Garbatce	Garbatka	subst:sg:loc:f	geograficzna	
 Garbatek	Garbatka	subst:pl:gen:f	geograficzna	
@@ -1046,38 +1012,22 @@ Garbowy	Garbów	subst:pl:nom:m3	geograficzna
 Garbowy	Garbów	subst:pl:voc:m3	geograficzna	
 Garbów	Garbów	subst:sg:acc:m3	geograficzna	
 Garbów	Garbów	subst:sg:nom:m3	geograficzna	
-Garciach	Garcia	subst:pl:loc:m1	imię	
-Garciach	Garcia	subst:pl:loc:m1	nazwisko	
-Garcia	Garcia	subst:sg:nom:m1	imię	
-Garcia	Garcia	subst:sg:nom:m1	nazwisko	
-Garciami	Garcia	subst:pl:inst:m1	imię	
-Garciami	Garcia	subst:pl:inst:m1	nazwisko	
-Garcią	Garcia	subst:sg:inst:m1	imię	
-Garcią	Garcia	subst:sg:inst:m1	nazwisko	
-Garcie	Garcia	depr:pl:nom:m2	imię	
-Garcie	Garcia	depr:pl:nom:m2	nazwisko	
-Garcie	Garcia	depr:pl:voc:m2	imię	
-Garcie	Garcia	depr:pl:voc:m2	nazwisko	
-Garcię	Garcia	subst:sg:acc:m1	imię	
-Garcię	Garcia	subst:sg:acc:m1	nazwisko	
-Garcii	Garcia	subst:sg:dat:m1	imię	
-Garcii	Garcia	subst:sg:dat:m1	nazwisko	
-Garcii	Garcia	subst:sg:gen:m1	imię	
-Garcii	Garcia	subst:sg:gen:m1	nazwisko	
-Garcii	Garcia	subst:sg:loc:m1	imię	
-Garcii	Garcia	subst:sg:loc:m1	nazwisko	
-Garcio	Garcia	subst:sg:voc:m1	imię	
-Garcio	Garcia	subst:sg:voc:m1	nazwisko	
-Garciom	Garcia	subst:pl:dat:m1	imię	
-Garciom	Garcia	subst:pl:dat:m1	nazwisko	
-Garciowie	Garcia	subst:pl:nom:m1	imię	
-Garciowie	Garcia	subst:pl:nom:m1	nazwisko	
-Garciowie	Garcia	subst:pl:voc:m1	imię	
-Garciowie	Garcia	subst:pl:voc:m1	nazwisko	
-Garciów	Garcia	subst:pl:acc:m1	imię	
-Garciów	Garcia	subst:pl:acc:m1	nazwisko	
-Garciów	Garcia	subst:pl:gen:m1	imię	
-Garciów	Garcia	subst:pl:gen:m1	nazwisko	
+Garciach	Garcia	subst:pl:loc:m1	imię|nazwisko	
+Garcia	Garcia	subst:sg:nom:m1	imię|nazwisko	
+Garciami	Garcia	subst:pl:inst:m1	imię|nazwisko	
+Garcią	Garcia	subst:sg:inst:m1	imię|nazwisko	
+Garcie	Garcia	depr:pl:nom:m2	imię|nazwisko	
+Garcie	Garcia	depr:pl:voc:m2	imię|nazwisko	
+Garcię	Garcia	subst:sg:acc:m1	imię|nazwisko	
+Garcii	Garcia	subst:sg:dat:m1	imię|nazwisko	
+Garcii	Garcia	subst:sg:gen:m1	imię|nazwisko	
+Garcii	Garcia	subst:sg:loc:m1	imię|nazwisko	
+Garcio	Garcia	subst:sg:voc:m1	imię|nazwisko	
+Garciom	Garcia	subst:pl:dat:m1	imię|nazwisko	
+Garciowie	Garcia	subst:pl:nom:m1	imię|nazwisko	
+Garciowie	Garcia	subst:pl:voc:m1	imię|nazwisko	
+Garciów	Garcia	subst:pl:acc:m1	imię|nazwisko	
+Garciów	Garcia	subst:pl:gen:m1	imię|nazwisko	
 Garczyńscy	Garczyński	subst:pl:nom:m1	nazwisko	
 Garczyńscy	Garczyński	subst:pl:voc:m1	nazwisko	
 Garczyńskich	Garczyński	subst:pl:acc:m1	nazwisko	
@@ -1189,34 +1139,34 @@ Garłuchu	Garłuch	subst:sg:voc:m3	geograficzna	rzad.
 Garłuchy	Garłuch	subst:pl:acc:m3	geograficzna	rzad.
 Garłuchy	Garłuch	subst:pl:nom:m3	geograficzna	rzad.
 Garłuchy	Garłuch	subst:pl:voc:m3	geograficzna	rzad.
-Garmondach	Garmond	subst:pl:loc:m3	krój_pisma	
-Garmondami	Garmond	subst:pl:inst:m3	krój_pisma	
-Garmondem	Garmond	subst:sg:inst:m3	krój_pisma	
-Garmond	Garmond	subst:sg:acc:m3	krój_pisma	
-Garmond	Garmond	subst:sg:nom:m3	krój_pisma	
-Garmondom	Garmond	subst:pl:dat:m3	krój_pisma	
-Garmondowi	Garmond	subst:sg:dat:m3	krój_pisma	
-Garmondów	Garmond	subst:pl:gen:m3	krój_pisma	
-Garmondu	Garmond	subst:sg:gen:m3	krój_pisma	
-Garmondy	Garmond	subst:pl:acc:m3	krój_pisma	
-Garmondy	Garmond	subst:pl:nom:m3	krój_pisma	
-Garmondy	Garmond	subst:pl:voc:m3	krój_pisma	
-Garmondzie	Garmond	subst:sg:loc:m3	krój_pisma	
-Garmondzie	Garmond	subst:sg:voc:m3	krój_pisma	
-Garmoncie	Garmont	subst:sg:loc:m3	krój_pisma	
-Garmoncie	Garmont	subst:sg:voc:m3	krój_pisma	
-Garmontach	Garmont	subst:pl:loc:m3	krój_pisma	
-Garmontami	Garmont	subst:pl:inst:m3	krój_pisma	
-Garmontem	Garmont	subst:sg:inst:m3	krój_pisma	
-Garmont	Garmont	subst:sg:acc:m3	krój_pisma	
-Garmont	Garmont	subst:sg:nom:m3	krój_pisma	
-Garmontom	Garmont	subst:pl:dat:m3	krój_pisma	
-Garmontowi	Garmont	subst:sg:dat:m3	krój_pisma	
-Garmontów	Garmont	subst:pl:gen:m3	krój_pisma	
-Garmontu	Garmont	subst:sg:gen:m3	krój_pisma	
-Garmonty	Garmont	subst:pl:acc:m3	krój_pisma	
-Garmonty	Garmont	subst:pl:nom:m3	krój_pisma	
-Garmonty	Garmont	subst:pl:voc:m3	krój_pisma	
+Garmondach	Garmond	subst:pl:loc:m3	krój pisma	
+Garmondami	Garmond	subst:pl:inst:m3	krój pisma	
+Garmondem	Garmond	subst:sg:inst:m3	krój pisma	
+Garmond	Garmond	subst:sg:acc:m3	krój pisma	
+Garmond	Garmond	subst:sg:nom:m3	krój pisma	
+Garmondom	Garmond	subst:pl:dat:m3	krój pisma	
+Garmondowi	Garmond	subst:sg:dat:m3	krój pisma	
+Garmondów	Garmond	subst:pl:gen:m3	krój pisma	
+Garmondu	Garmond	subst:sg:gen:m3	krój pisma	
+Garmondy	Garmond	subst:pl:acc:m3	krój pisma	
+Garmondy	Garmond	subst:pl:nom:m3	krój pisma	
+Garmondy	Garmond	subst:pl:voc:m3	krój pisma	
+Garmondzie	Garmond	subst:sg:loc:m3	krój pisma	
+Garmondzie	Garmond	subst:sg:voc:m3	krój pisma	
+Garmoncie	Garmont	subst:sg:loc:m3	krój pisma	
+Garmoncie	Garmont	subst:sg:voc:m3	krój pisma	
+Garmontach	Garmont	subst:pl:loc:m3	krój pisma	
+Garmontami	Garmont	subst:pl:inst:m3	krój pisma	
+Garmontem	Garmont	subst:sg:inst:m3	krój pisma	
+Garmont	Garmont	subst:sg:acc:m3	krój pisma	
+Garmont	Garmont	subst:sg:nom:m3	krój pisma	
+Garmontom	Garmont	subst:pl:dat:m3	krój pisma	
+Garmontowi	Garmont	subst:sg:dat:m3	krój pisma	
+Garmontów	Garmont	subst:pl:gen:m3	krój pisma	
+Garmontu	Garmont	subst:sg:gen:m3	krój pisma	
+Garmonty	Garmont	subst:pl:acc:m3	krój pisma	
+Garmonty	Garmont	subst:pl:nom:m3	krój pisma	
+Garmonty	Garmont	subst:pl:voc:m3	krój pisma	
 Garrosach	Garros	subst:pl:loc:m1	nazwisko	
 Garrosa	Garros	subst:sg:acc:m1	nazwisko	
 Garrosa	Garros	subst:sg:gen:m1	nazwisko	
@@ -2075,38 +2025,22 @@ Georges’ów	Georges	subst:pl:acc:m1	imię
 Georges’ów	Georges	subst:pl:gen:m1	imię	
 Georges’u	Georges	subst:sg:loc:m1	imię	
 Georges’u	Georges	subst:sg:voc:m1	imię	
-George’ach	George:s1	subst:pl:loc:m1	imię	
-George’ach	George:s1	subst:pl:loc:m1	nazwisko	
-George’a	George:s1	subst:sg:acc:m1	imię	
-George’a	George:s1	subst:sg:acc:m1	nazwisko	
-George’a	George:s1	subst:sg:gen:m1	imię	
-George’a	George:s1	subst:sg:gen:m1	nazwisko	
-George’ami	George:s1	subst:pl:inst:m1	imię	
-George’ami	George:s1	subst:pl:inst:m1	nazwisko	
-George’e	George:s1	depr:pl:nom:m2	imię	
-George’e	George:s1	depr:pl:nom:m2	nazwisko	
-George’e	George:s1	depr:pl:voc:m2	imię	
-George’e	George:s1	depr:pl:voc:m2	nazwisko	
-George’em	George:s1	subst:sg:inst:m1	imię	
-George’em	George:s1	subst:sg:inst:m1	nazwisko	
-George	George:s1	subst:sg:nom:m1	imię	
-George	George:s1	subst:sg:nom:m1	nazwisko	
-George’om	George:s1	subst:pl:dat:m1	imię	
-George’om	George:s1	subst:pl:dat:m1	nazwisko	
-George’owie	George:s1	subst:pl:nom:m1	imię	
-George’owie	George:s1	subst:pl:nom:m1	nazwisko	
-George’owie	George:s1	subst:pl:voc:m1	imię	
-George’owie	George:s1	subst:pl:voc:m1	nazwisko	
-George’owi	George:s1	subst:sg:dat:m1	imię	
-George’owi	George:s1	subst:sg:dat:m1	nazwisko	
-George’ów	George:s1	subst:pl:acc:m1	imię	
-George’ów	George:s1	subst:pl:acc:m1	nazwisko	
-George’ów	George:s1	subst:pl:gen:m1	imię	
-George’ów	George:s1	subst:pl:gen:m1	nazwisko	
-George’u	George:s1	subst:sg:loc:m1	imię	
-George’u	George:s1	subst:sg:loc:m1	nazwisko	
-George’u	George:s1	subst:sg:voc:m1	imię	
-George’u	George:s1	subst:sg:voc:m1	nazwisko	
+George’ach	George:s1	subst:pl:loc:m1	imię|nazwisko	
+George’a	George:s1	subst:sg:acc:m1	imię|nazwisko	
+George’a	George:s1	subst:sg:gen:m1	imię|nazwisko	
+George’ami	George:s1	subst:pl:inst:m1	imię|nazwisko	
+George’e	George:s1	depr:pl:nom:m2	imię|nazwisko	
+George’e	George:s1	depr:pl:voc:m2	imię|nazwisko	
+George’em	George:s1	subst:sg:inst:m1	imię|nazwisko	
+George	George:s1	subst:sg:nom:m1	imię|nazwisko	
+George’om	George:s1	subst:pl:dat:m1	imię|nazwisko	
+George’owie	George:s1	subst:pl:nom:m1	imię|nazwisko	
+George’owie	George:s1	subst:pl:voc:m1	imię|nazwisko	
+George’owi	George:s1	subst:sg:dat:m1	imię|nazwisko	
+George’ów	George:s1	subst:pl:acc:m1	imię|nazwisko	
+George’ów	George:s1	subst:pl:gen:m1	imię|nazwisko	
+George’u	George:s1	subst:sg:loc:m1	imię|nazwisko	
+George’u	George:s1	subst:sg:voc:m1	imię|nazwisko	
 George	George:s2	subst:pl:acc:f	pseudonim	człon_n._wł.
 George	George:s2	subst:pl:dat:f	pseudonim	człon_n._wł.
 George	George:s2	subst:pl:gen:f	pseudonim	człon_n._wł.
@@ -2374,42 +2308,24 @@ Gershwinów	Gershwin	subst:pl:acc:m1	nazwisko
 Gershwinów	Gershwin	subst:pl:gen:m1	nazwisko	
 Gershwiny	Gershwin	depr:pl:nom:m2	nazwisko	
 Gershwiny	Gershwin	depr:pl:voc:m2	nazwisko	
-Gersonach	Gerson	subst:pl:loc:m1	imię	
-Gersonach	Gerson	subst:pl:loc:m1	nazwisko	
-Gersona	Gerson	subst:sg:acc:m1	imię	
-Gersona	Gerson	subst:sg:acc:m1	nazwisko	
-Gersona	Gerson	subst:sg:gen:m1	imię	
-Gersona	Gerson	subst:sg:gen:m1	nazwisko	
-Gersonami	Gerson	subst:pl:inst:m1	imię	
-Gersonami	Gerson	subst:pl:inst:m1	nazwisko	
-Gersonem	Gerson	subst:sg:inst:m1	imię	
-Gersonem	Gerson	subst:sg:inst:m1	nazwisko	
-Gerson	Gerson	subst:sg:nom:m1	imię	
-Gerson	Gerson	subst:sg:nom:m1	nazwisko	
-Gersonie	Gerson	subst:sg:loc:m1	imię	
-Gersonie	Gerson	subst:sg:loc:m1	nazwisko	
-Gersonie	Gerson	subst:sg:voc:m1	imię	
-Gersonie	Gerson	subst:sg:voc:m1	nazwisko	
-Gersoni	Gerson	subst:pl:nom:m1	imię	
-Gersoni	Gerson	subst:pl:nom:m1	nazwisko	
-Gersoni	Gerson	subst:pl:voc:m1	imię	
-Gersoni	Gerson	subst:pl:voc:m1	nazwisko	
-Gersonom	Gerson	subst:pl:dat:m1	imię	
-Gersonom	Gerson	subst:pl:dat:m1	nazwisko	
-Gersonowie	Gerson	subst:pl:nom:m1	imię	
-Gersonowie	Gerson	subst:pl:nom:m1	nazwisko	
-Gersonowie	Gerson	subst:pl:voc:m1	imię	
-Gersonowie	Gerson	subst:pl:voc:m1	nazwisko	
-Gersonowi	Gerson	subst:sg:dat:m1	imię	
-Gersonowi	Gerson	subst:sg:dat:m1	nazwisko	
-Gersonów	Gerson	subst:pl:acc:m1	imię	
-Gersonów	Gerson	subst:pl:acc:m1	nazwisko	
-Gersonów	Gerson	subst:pl:gen:m1	imię	
-Gersonów	Gerson	subst:pl:gen:m1	nazwisko	
-Gersony	Gerson	depr:pl:nom:m2	imię	
-Gersony	Gerson	depr:pl:nom:m2	nazwisko	
-Gersony	Gerson	depr:pl:voc:m2	imię	
-Gersony	Gerson	depr:pl:voc:m2	nazwisko	
+Gersonach	Gerson	subst:pl:loc:m1	imię|nazwisko	
+Gersona	Gerson	subst:sg:acc:m1	imię|nazwisko	
+Gersona	Gerson	subst:sg:gen:m1	imię|nazwisko	
+Gersonami	Gerson	subst:pl:inst:m1	imię|nazwisko	
+Gersonem	Gerson	subst:sg:inst:m1	imię|nazwisko	
+Gerson	Gerson	subst:sg:nom:m1	imię|nazwisko	
+Gersonie	Gerson	subst:sg:loc:m1	imię|nazwisko	
+Gersonie	Gerson	subst:sg:voc:m1	imię|nazwisko	
+Gersoni	Gerson	subst:pl:nom:m1	imię|nazwisko	
+Gersoni	Gerson	subst:pl:voc:m1	imię|nazwisko	
+Gersonom	Gerson	subst:pl:dat:m1	imię|nazwisko	
+Gersonowie	Gerson	subst:pl:nom:m1	imię|nazwisko	
+Gersonowie	Gerson	subst:pl:voc:m1	imię|nazwisko	
+Gersonowi	Gerson	subst:sg:dat:m1	imię|nazwisko	
+Gersonów	Gerson	subst:pl:acc:m1	imię|nazwisko	
+Gersonów	Gerson	subst:pl:gen:m1	imię|nazwisko	
+Gersony	Gerson	depr:pl:nom:m2	imię|nazwisko	
+Gersony	Gerson	depr:pl:voc:m2	imię|nazwisko	
 Gercie	Gerta	subst:sg:dat:f	imię	
 Gercie	Gerta	subst:sg:loc:f	imię	
 Gertach	Gerta	subst:pl:loc:f	imię	
@@ -4830,48 +4746,27 @@ Gontarskim	Gontarski	subst:pl:dat:m1	nazwisko
 Gontarskim	Gontarski	subst:sg:inst:m1	nazwisko	
 Gontarskim	Gontarski	subst:sg:loc:m1	nazwisko	
 Gontarskimi	Gontarski	subst:pl:inst:m1	nazwisko	
-Googlach	Google	subst:pl:loc:p3	człon_nazwy_firmy	[gugle];_pot.
-Googlach	Google	subst:pl:loc:p3	marka	[gugle];_pot.
-Googlami	Google	subst:pl:inst:p3	człon_nazwy_firmy	[gugle];_pot.
-Googlami	Google	subst:pl:inst:p3	marka	[gugle];_pot.
-Google’ach	Google	subst:pl:loc:m3	człon_nazwy_firmy	[gugl]
-Google’ach	Google	subst:pl:loc:m3	marka	[gugl]
-Google’a	Google	subst:sg:gen:m3	człon_nazwy_firmy	[gugl]
-Google’a	Google	subst:sg:gen:m3	marka	[gugl]
-Google’ami	Google	subst:pl:inst:m3	człon_nazwy_firmy	[gugl]
-Google’ami	Google	subst:pl:inst:m3	marka	[gugl]
-Google’e	Google	subst:pl:acc:m3	człon_nazwy_firmy	[gugl]
-Google’e	Google	subst:pl:acc:m3	marka	[gugl]
-Google’e	Google	subst:pl:nom:m3	człon_nazwy_firmy	[gugl]
-Google’e	Google	subst:pl:nom:m3	marka	[gugl]
-Google’e	Google	subst:pl:voc:m3	człon_nazwy_firmy	[gugl]
-Google’e	Google	subst:pl:voc:m3	marka	[gugl]
-Google’em	Google	subst:sg:inst:m3	człon_nazwy_firmy	[gugl]
-Google’em	Google	subst:sg:inst:m3	marka	[gugl]
-Google	Google	subst:pl:acc:p3	człon_nazwy_firmy	[gugle];_pot.
-Google	Google	subst:pl:acc:p3	marka	[gugle];_pot.
-Google	Google	subst:pl:nom:p3	człon_nazwy_firmy	[gugle];_pot.
-Google	Google	subst:pl:nom:p3	marka	[gugle];_pot.
-Google	Google	subst:pl:voc:p3	człon_nazwy_firmy	[gugle];_pot.
-Google	Google	subst:pl:voc:p3	marka	[gugle];_pot.
-Google	Google	subst:sg:acc:m3	człon_nazwy_firmy	[gugl]
-Google	Google	subst:sg:acc:m3	marka	[gugl]
-Google	Google	subst:sg:nom:m3	człon_nazwy_firmy	[gugl]
-Google	Google	subst:sg:nom:m3	marka	[gugl]
-Google’i	Google	subst:pl:gen:m3	człon_nazwy_firmy	[gugl]
-Google’i	Google	subst:pl:gen:m3	marka	[gugl]
-Google’om	Google	subst:pl:dat:m3	człon_nazwy_firmy	[gugl]
-Google’om	Google	subst:pl:dat:m3	marka	[gugl]
-Google’owi	Google	subst:sg:dat:m3	człon_nazwy_firmy	[gugl]
-Google’owi	Google	subst:sg:dat:m3	marka	[gugl]
-Google’u	Google	subst:sg:loc:m3	człon_nazwy_firmy	[gugl]
-Google’u	Google	subst:sg:loc:m3	marka	[gugl]
-Google’u	Google	subst:sg:voc:m3	człon_nazwy_firmy	[gugl]
-Google’u	Google	subst:sg:voc:m3	marka	[gugl]
-Googli	Google	subst:pl:gen:p3	człon_nazwy_firmy	[gugle];_pot.
-Googli	Google	subst:pl:gen:p3	marka	[gugle];_pot.
-Googlom	Google	subst:pl:dat:p3	człon_nazwy_firmy	[gugle];_pot.
-Googlom	Google	subst:pl:dat:p3	marka	[gugle];_pot.
+Googlach	Google	subst:pl:loc:p3	marka|człon nazwy firmy	pot.
+Googlami	Google	subst:pl:inst:p3	marka|człon nazwy firmy	pot.
+Google’ach	Google	subst:pl:loc:m3	marka|człon nazwy firmy	
+Google’a	Google	subst:sg:gen:m3	marka|człon nazwy firmy	
+Google’ami	Google	subst:pl:inst:m3	marka|człon nazwy firmy	
+Google’e	Google	subst:pl:acc:m3	marka|człon nazwy firmy	
+Google’e	Google	subst:pl:nom:m3	marka|człon nazwy firmy	
+Google’e	Google	subst:pl:voc:m3	marka|człon nazwy firmy	
+Google’em	Google	subst:sg:inst:m3	marka|człon nazwy firmy	
+Google	Google	subst:pl:acc:p3	marka|człon nazwy firmy	pot.
+Google	Google	subst:pl:nom:p3	marka|człon nazwy firmy	pot.
+Google	Google	subst:pl:voc:p3	marka|człon nazwy firmy	pot.
+Google	Google	subst:sg:acc:m3	marka|człon nazwy firmy	
+Google	Google	subst:sg:nom:m3	marka|człon nazwy firmy	
+Google’i	Google	subst:pl:gen:m3	marka|człon nazwy firmy	
+Google’om	Google	subst:pl:dat:m3	marka|człon nazwy firmy	
+Google’owi	Google	subst:sg:dat:m3	marka|człon nazwy firmy	
+Google’u	Google	subst:sg:loc:m3	marka|człon nazwy firmy	
+Google’u	Google	subst:sg:voc:m3	marka|człon nazwy firmy	
+Googli	Google	subst:pl:gen:p3	marka|człon nazwy firmy	pot.
+Googlom	Google	subst:pl:dat:p3	marka|człon nazwy firmy	pot.
 Goplanach	Goplanin	subst:pl:loc:m1	pospolita	
 Goplanami	Goplanin	subst:pl:inst:m1	pospolita	
 Goplan	Goplanin	subst:pl:acc:m1	pospolita	

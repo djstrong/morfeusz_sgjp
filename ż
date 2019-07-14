@@ -9302,6 +9302,20 @@
 żelki	żelka	subst:sg:gen:f	pospolita	
 żelkom	żelka	subst:pl:dat:f	pospolita	
 żelko	żelka	subst:sg:voc:f	pospolita	
+żelkocie	żelkot	subst:sg:loc:m3	pospolita	
+żelkocie	żelkot	subst:sg:voc:m3	pospolita	
+żelkotach	żelkot	subst:pl:loc:m3	pospolita	
+żelkotami	żelkot	subst:pl:inst:m3	pospolita	
+żelkotem	żelkot	subst:sg:inst:m3	pospolita	
+żelkotom	żelkot	subst:pl:dat:m3	pospolita	
+żelkotowi	żelkot	subst:sg:dat:m3	pospolita	
+żelkotów	żelkot	subst:pl:gen:m3	pospolita	
+żelkotu	żelkot	subst:sg:gen:m3	pospolita	
+żelkoty	żelkot	subst:pl:acc:m3	pospolita	
+żelkoty	żelkot	subst:pl:nom:m3	pospolita	
+żelkoty	żelkot	subst:pl:voc:m3	pospolita	
+żelkot	żelkot	subst:sg:acc:m3	pospolita	
+żelkot	żelkot	subst:sg:nom:m3	pospolita	
 żelopisach	żelopis	subst:pl:loc:m3	pospolita	
 żelopisami	żelopis	subst:pl:inst:m3	pospolita	
 żelopisem	żelopis	subst:sg:inst:m3	pospolita	
@@ -19373,22 +19387,36 @@
 żurnalu	żurnal	subst:sg:voc:m3	pospolita	
 żurnal	żurnal	subst:sg:acc:m3	pospolita	
 żurnal	żurnal	subst:sg:nom:m3	pospolita	
-żurnalistach	żurnalista	subst:pl:loc:m1	pospolita	przest.
-żurnalistami	żurnalista	subst:pl:inst:m1	pospolita	przest.
-żurnalista	żurnalista	subst:sg:nom:m1	pospolita	przest.
-żurnalistą	żurnalista	subst:sg:inst:m1	pospolita	przest.
-żurnalistę	żurnalista	subst:sg:acc:m1	pospolita	przest.
-żurnalistom	żurnalista	subst:pl:dat:m1	pospolita	przest.
-żurnalisto	żurnalista	subst:sg:voc:m1	pospolita	przest.
-żurnalistów	żurnalista	subst:pl:acc:m1	pospolita	przest.
-żurnalistów	żurnalista	subst:pl:gen:m1	pospolita	przest.
-żurnalisty	żurnalista	depr:pl:nom:m2	pospolita	przest.
-żurnalisty	żurnalista	depr:pl:voc:m2	pospolita	przest.
-żurnalisty	żurnalista	subst:sg:gen:m1	pospolita	przest.
-żurnaliście	żurnalista	subst:sg:dat:m1	pospolita	przest.
-żurnaliście	żurnalista	subst:sg:loc:m1	pospolita	przest.
-żurnaliści	żurnalista	subst:pl:nom:m1	pospolita	przest.
-żurnaliści	żurnalista	subst:pl:voc:m1	pospolita	przest.
+żurnalistach	żurnalista	subst:pl:loc:m1	pospolita	książk.
+żurnalistami	żurnalista	subst:pl:inst:m1	pospolita	książk.
+żurnalista	żurnalista	subst:sg:nom:m1	pospolita	książk.
+żurnalistą	żurnalista	subst:sg:inst:m1	pospolita	książk.
+żurnalistę	żurnalista	subst:sg:acc:m1	pospolita	książk.
+żurnalistom	żurnalista	subst:pl:dat:m1	pospolita	książk.
+żurnalisto	żurnalista	subst:sg:voc:m1	pospolita	książk.
+żurnalistów	żurnalista	subst:pl:acc:m1	pospolita	książk.
+żurnalistów	żurnalista	subst:pl:gen:m1	pospolita	książk.
+żurnalisty	żurnalista	depr:pl:nom:m2	pospolita	książk.
+żurnalisty	żurnalista	depr:pl:voc:m2	pospolita	książk.
+żurnalisty	żurnalista	subst:sg:gen:m1	pospolita	książk.
+żurnaliście	żurnalista	subst:sg:dat:m1	pospolita	książk.
+żurnaliście	żurnalista	subst:sg:loc:m1	pospolita	książk.
+żurnaliści	żurnalista	subst:pl:nom:m1	pospolita	książk.
+żurnaliści	żurnalista	subst:pl:voc:m1	pospolita	książk.
+żurnalistce	żurnalistka	subst:sg:dat:f	pospolita	książk.
+żurnalistce	żurnalistka	subst:sg:loc:f	pospolita	książk.
+żurnalistek	żurnalistka	subst:pl:gen:f	pospolita	książk.
+żurnalistkach	żurnalistka	subst:pl:loc:f	pospolita	książk.
+żurnalistkami	żurnalistka	subst:pl:inst:f	pospolita	książk.
+żurnalistka	żurnalistka	subst:sg:nom:f	pospolita	książk.
+żurnalistką	żurnalistka	subst:sg:inst:f	pospolita	książk.
+żurnalistkę	żurnalistka	subst:sg:acc:f	pospolita	książk.
+żurnalistki	żurnalistka	subst:pl:acc:f	pospolita	książk.
+żurnalistki	żurnalistka	subst:pl:nom:f	pospolita	książk.
+żurnalistki	żurnalistka	subst:pl:voc:f	pospolita	książk.
+żurnalistki	żurnalistka	subst:sg:gen:f	pospolita	książk.
+żurnalistkom	żurnalistka	subst:pl:dat:f	pospolita	książk.
+żurnalistko	żurnalistka	subst:sg:voc:f	pospolita	książk.
 żurnalistycznościach	żurnalistyczność	subst:pl:loc:f		
 żurnalistycznościami	żurnalistyczność	subst:pl:inst:f		
 żurnalistycznością	żurnalistyczność	subst:sg:inst:f		
@@ -21615,6 +21643,21 @@
 żydokomuny	żydokomuna	subst:pl:voc:f	pospolita	pogard.|pot.
 żydokomuny	żydokomuna	subst:sg:gen:f	pospolita	pogard.|pot.
 żydokomun	żydokomuna	subst:pl:gen:f	pospolita	pogard.|pot.
+żydomasoneriach	żydomasoneria	subst:pl:loc:f	pospolita	
+żydomasoneriami	żydomasoneria	subst:pl:inst:f	pospolita	
+żydomasoneria	żydomasoneria	subst:sg:nom:f	pospolita	
+żydomasonerią	żydomasoneria	subst:sg:inst:f	pospolita	
+żydomasonerie	żydomasoneria	subst:pl:acc:f	pospolita	
+żydomasonerie	żydomasoneria	subst:pl:nom:f	pospolita	
+żydomasonerie	żydomasoneria	subst:pl:voc:f	pospolita	
+żydomasonerię	żydomasoneria	subst:sg:acc:f	pospolita	
+żydomasonerii	żydomasoneria	subst:pl:gen:f	pospolita	hom.
+żydomasonerii	żydomasoneria	subst:sg:dat:f	pospolita	
+żydomasonerii	żydomasoneria	subst:sg:gen:f	pospolita	
+żydomasonerii	żydomasoneria	subst:sg:loc:f	pospolita	
+żydomasoneriom	żydomasoneria	subst:pl:dat:f	pospolita	
+żydomasonerio	żydomasoneria	subst:sg:voc:f	pospolita	
+żydomasoneryj	żydomasoneria	subst:pl:gen:f	pospolita	arch.|char.
 żydostwach	żydostwo	subst:pl:loc:n2	pospolita	
 żydostwami	żydostwo	subst:pl:inst:n2	pospolita	
 żydostwa	żydostwo	subst:pl:acc:n2	pospolita	
@@ -22036,6 +22079,20 @@
 żylasty	żylasty	adj:sg:acc:m3:pos		
 żylasty	żylasty	adj:sg:nom.voc:m1.m2.m3:pos		
 żylaści	żylasty	adj:pl:nom.voc:m1.p1:pos		
+żylecie	żyleta	subst:sg:dat:f	pospolita	
+żylecie	żyleta	subst:sg:loc:f	pospolita	
+żyletach	żyleta	subst:pl:loc:f	pospolita	
+żyletami	żyleta	subst:pl:inst:f	pospolita	
+żyleta	żyleta	subst:sg:nom:f	pospolita	
+żyletą	żyleta	subst:sg:inst:f	pospolita	
+żyletę	żyleta	subst:sg:acc:f	pospolita	
+żyletom	żyleta	subst:pl:dat:f	pospolita	
+żyleto	żyleta	subst:sg:voc:f	pospolita	
+żylety	żyleta	subst:pl:acc:f	pospolita	
+żylety	żyleta	subst:pl:nom:f	pospolita	
+żylety	żyleta	subst:pl:voc:f	pospolita	
+żylety	żyleta	subst:sg:gen:f	pospolita	
+żylet	żyleta	subst:pl:gen:f	pospolita	
 żyletce	żyletka	subst:sg:dat:f	pospolita	
 żyletce	żyletka	subst:sg:loc:f	pospolita	
 żyletek	żyletka	subst:pl:gen:f	pospolita	

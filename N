@@ -537,34 +537,20 @@ Namysłowy	Namysłów	subst:pl:nom:m3	geograficzna
 Namysłowy	Namysłów	subst:pl:voc:m3	geograficzna	
 Namysłów	Namysłów	subst:sg:acc:m3	geograficzna	
 Namysłów	Namysłów	subst:sg:nom:m3	geograficzna	
-Nancy	Nancy	subst:pl:acc:f	geograficzna	
-Nancy	Nancy	subst:pl:acc:f	imię	
-Nancy	Nancy	subst:pl:dat:f	geograficzna	
-Nancy	Nancy	subst:pl:dat:f	imię	
-Nancy	Nancy	subst:pl:gen:f	geograficzna	
-Nancy	Nancy	subst:pl:gen:f	imię	
-Nancy	Nancy	subst:pl:inst:f	geograficzna	
-Nancy	Nancy	subst:pl:inst:f	imię	
-Nancy	Nancy	subst:pl:loc:f	geograficzna	
-Nancy	Nancy	subst:pl:loc:f	imię	
-Nancy	Nancy	subst:pl:nom:f	geograficzna	
-Nancy	Nancy	subst:pl:nom:f	imię	
-Nancy	Nancy	subst:pl:voc:f	geograficzna	
-Nancy	Nancy	subst:pl:voc:f	imię	
-Nancy	Nancy	subst:sg:acc:f	geograficzna	
-Nancy	Nancy	subst:sg:acc:f	imię	
-Nancy	Nancy	subst:sg:dat:f	geograficzna	
-Nancy	Nancy	subst:sg:dat:f	imię	
-Nancy	Nancy	subst:sg:gen:f	geograficzna	
-Nancy	Nancy	subst:sg:gen:f	imię	
-Nancy	Nancy	subst:sg:inst:f	geograficzna	
-Nancy	Nancy	subst:sg:inst:f	imię	
-Nancy	Nancy	subst:sg:loc:f	geograficzna	
-Nancy	Nancy	subst:sg:loc:f	imię	
-Nancy	Nancy	subst:sg:nom:f	geograficzna	
-Nancy	Nancy	subst:sg:nom:f	imię	
-Nancy	Nancy	subst:sg:voc:f	geograficzna	
-Nancy	Nancy	subst:sg:voc:f	imię	
+Nancy	Nancy	subst:pl:acc:f	imię|geograficzna	
+Nancy	Nancy	subst:pl:dat:f	imię|geograficzna	
+Nancy	Nancy	subst:pl:gen:f	imię|geograficzna	
+Nancy	Nancy	subst:pl:inst:f	imię|geograficzna	
+Nancy	Nancy	subst:pl:loc:f	imię|geograficzna	
+Nancy	Nancy	subst:pl:nom:f	imię|geograficzna	
+Nancy	Nancy	subst:pl:voc:f	imię|geograficzna	
+Nancy	Nancy	subst:sg:acc:f	imię|geograficzna	
+Nancy	Nancy	subst:sg:dat:f	imię|geograficzna	
+Nancy	Nancy	subst:sg:gen:f	imię|geograficzna	
+Nancy	Nancy	subst:sg:inst:f	imię|geograficzna	
+Nancy	Nancy	subst:sg:loc:f	imię|geograficzna	
+Nancy	Nancy	subst:sg:nom:f	imię|geograficzna	
+Nancy	Nancy	subst:sg:voc:f	imię|geograficzna	
 Nansenach	Nansen	subst:pl:loc:m1	nazwisko	
 Nansenami	Nansen	subst:pl:inst:m1	nazwisko	
 Nansena	Nansen	subst:sg:acc:m1	nazwisko	
@@ -1642,38 +1628,22 @@ Nelly	Nelly	subst:sg:inst:f	imię
 Nelly	Nelly	subst:sg:loc:f	imię	
 Nelly	Nelly	subst:sg:nom:f	imię	
 Nelly	Nelly	subst:sg:voc:f	imię	
-Nelsonach	Nelson	subst:pl:loc:m1	imię	
-Nelsonach	Nelson	subst:pl:loc:m1	nazwisko	
-Nelsonami	Nelson	subst:pl:inst:m1	imię	
-Nelsonami	Nelson	subst:pl:inst:m1	nazwisko	
-Nelsona	Nelson	subst:sg:acc:m1	imię	
-Nelsona	Nelson	subst:sg:acc:m1	nazwisko	
-Nelsona	Nelson	subst:sg:gen:m1	imię	
-Nelsona	Nelson	subst:sg:gen:m1	nazwisko	
-Nelsonem	Nelson	subst:sg:inst:m1	imię	
-Nelsonem	Nelson	subst:sg:inst:m1	nazwisko	
-Nelsonie	Nelson	subst:sg:loc:m1	imię	
-Nelsonie	Nelson	subst:sg:loc:m1	nazwisko	
-Nelsonie	Nelson	subst:sg:voc:m1	imię	
-Nelsonie	Nelson	subst:sg:voc:m1	nazwisko	
-Nelson	Nelson	subst:sg:nom:m1	imię	
-Nelson	Nelson	subst:sg:nom:m1	nazwisko	
-Nelsonom	Nelson	subst:pl:dat:m1	imię	
-Nelsonom	Nelson	subst:pl:dat:m1	nazwisko	
-Nelsonowie	Nelson	subst:pl:nom:m1	imię	
-Nelsonowie	Nelson	subst:pl:nom:m1	nazwisko	
-Nelsonowie	Nelson	subst:pl:voc:m1	imię	
-Nelsonowie	Nelson	subst:pl:voc:m1	nazwisko	
-Nelsonowi	Nelson	subst:sg:dat:m1	imię	
-Nelsonowi	Nelson	subst:sg:dat:m1	nazwisko	
-Nelsonów	Nelson	subst:pl:acc:m1	imię	
-Nelsonów	Nelson	subst:pl:acc:m1	nazwisko	
-Nelsonów	Nelson	subst:pl:gen:m1	imię	
-Nelsonów	Nelson	subst:pl:gen:m1	nazwisko	
-Nelsony	Nelson	depr:pl:nom:m2	imię	
-Nelsony	Nelson	depr:pl:nom:m2	nazwisko	
-Nelsony	Nelson	depr:pl:voc:m2	imię	
-Nelsony	Nelson	depr:pl:voc:m2	nazwisko	
+Nelsonach	Nelson	subst:pl:loc:m1	imię|nazwisko	
+Nelsonami	Nelson	subst:pl:inst:m1	imię|nazwisko	
+Nelsona	Nelson	subst:sg:acc:m1	imię|nazwisko	
+Nelsona	Nelson	subst:sg:gen:m1	imię|nazwisko	
+Nelsonem	Nelson	subst:sg:inst:m1	imię|nazwisko	
+Nelsonie	Nelson	subst:sg:loc:m1	imię|nazwisko	
+Nelsonie	Nelson	subst:sg:voc:m1	imię|nazwisko	
+Nelson	Nelson	subst:sg:nom:m1	imię|nazwisko	
+Nelsonom	Nelson	subst:pl:dat:m1	imię|nazwisko	
+Nelsonowie	Nelson	subst:pl:nom:m1	imię|nazwisko	
+Nelsonowie	Nelson	subst:pl:voc:m1	imię|nazwisko	
+Nelsonowi	Nelson	subst:sg:dat:m1	imię|nazwisko	
+Nelsonów	Nelson	subst:pl:acc:m1	imię|nazwisko	
+Nelsonów	Nelson	subst:pl:gen:m1	imię|nazwisko	
+Nelsony	Nelson	depr:pl:nom:m2	imię|nazwisko	
+Nelsony	Nelson	depr:pl:voc:m2	imię|nazwisko	
 Nemcova	Nemcova	subst:sg:nom:f	nazwisko	
 Nemcova	Nemcova	subst:sg:voc:f	nazwisko	
 Nemcovą	Nemcova	subst:sg:acc:f	nazwisko	
@@ -3302,53 +3272,37 @@ Nilów	Nil:s1	subst:pl:gen:m3	geograficzna
 Nilu	Nil:s1	subst:sg:gen:m3	geograficzna	
 Nilu	Nil:s1	subst:sg:loc:m3	geograficzna	
 Nilu	Nil:s1	subst:sg:voc:m3	geograficzna	
-Nilach	Nil:s2	subst:pl:loc:m3	krój_pisma	przest.
-Nilami	Nil:s2	subst:pl:inst:m3	krój_pisma	przest.
-Nilem	Nil:s2	subst:sg:inst:m3	krój_pisma	przest.
-Nile	Nil:s2	subst:pl:acc:m3	krój_pisma	przest.
-Nile	Nil:s2	subst:pl:nom:m3	krój_pisma	przest.
-Nile	Nil:s2	subst:pl:voc:m3	krój_pisma	przest.
-Nili	Nil:s2	subst:pl:gen:m3	krój_pisma	przest.
-Nil	Nil:s2	subst:sg:acc:m3	krój_pisma	przest.
-Nil	Nil:s2	subst:sg:nom:m3	krój_pisma	przest.
-Nilom	Nil:s2	subst:pl:dat:m3	krój_pisma	przest.
-Nilowi	Nil:s2	subst:sg:dat:m3	krój_pisma	przest.
-Nilów	Nil:s2	subst:pl:gen:m3	krój_pisma	przest.
-Nilu	Nil:s2	subst:sg:gen:m3	krój_pisma	przest.
-Nilu	Nil:s2	subst:sg:loc:m3	krój_pisma	przest.
-Nilu	Nil:s2	subst:sg:voc:m3	krój_pisma	przest.
-Nilach	Nil:s3	subst:pl:loc:m1	imię	
-Nilach	Nil:s3	subst:pl:loc:m1	nazwisko	
-Nilami	Nil:s3	subst:pl:inst:m1	imię	
-Nilami	Nil:s3	subst:pl:inst:m1	nazwisko	
-Nila	Nil:s3	subst:sg:acc:m1	imię	
-Nila	Nil:s3	subst:sg:acc:m1	nazwisko	
-Nila	Nil:s3	subst:sg:gen:m1	imię	
-Nila	Nil:s3	subst:sg:gen:m1	nazwisko	
-Nilem	Nil:s3	subst:sg:inst:m1	imię	
-Nilem	Nil:s3	subst:sg:inst:m1	nazwisko	
-Nile	Nil:s3	depr:pl:nom:m2	imię	
-Nile	Nil:s3	depr:pl:nom:m2	nazwisko	
-Nile	Nil:s3	depr:pl:voc:m2	imię	
-Nile	Nil:s3	depr:pl:voc:m2	nazwisko	
-Nil	Nil:s3	subst:sg:nom:m1	imię	
-Nil	Nil:s3	subst:sg:nom:m1	nazwisko	
-Nilom	Nil:s3	subst:pl:dat:m1	imię	
-Nilom	Nil:s3	subst:pl:dat:m1	nazwisko	
-Nilowie	Nil:s3	subst:pl:nom:m1	imię	
-Nilowie	Nil:s3	subst:pl:nom:m1	nazwisko	
-Nilowie	Nil:s3	subst:pl:voc:m1	imię	
-Nilowie	Nil:s3	subst:pl:voc:m1	nazwisko	
-Nilowi	Nil:s3	subst:sg:dat:m1	imię	
-Nilowi	Nil:s3	subst:sg:dat:m1	nazwisko	
-Nilów	Nil:s3	subst:pl:acc:m1	imię	
-Nilów	Nil:s3	subst:pl:acc:m1	nazwisko	
-Nilów	Nil:s3	subst:pl:gen:m1	imię	
-Nilów	Nil:s3	subst:pl:gen:m1	nazwisko	
-Nilu	Nil:s3	subst:sg:loc:m1	imię	
-Nilu	Nil:s3	subst:sg:loc:m1	nazwisko	
-Nilu	Nil:s3	subst:sg:voc:m1	imię	
-Nilu	Nil:s3	subst:sg:voc:m1	nazwisko	
+Nilach	Nil:s2	subst:pl:loc:m3	krój pisma	przest.
+Nilami	Nil:s2	subst:pl:inst:m3	krój pisma	przest.
+Nilem	Nil:s2	subst:sg:inst:m3	krój pisma	przest.
+Nile	Nil:s2	subst:pl:acc:m3	krój pisma	przest.
+Nile	Nil:s2	subst:pl:nom:m3	krój pisma	przest.
+Nile	Nil:s2	subst:pl:voc:m3	krój pisma	przest.
+Nili	Nil:s2	subst:pl:gen:m3	krój pisma	przest.
+Nil	Nil:s2	subst:sg:acc:m3	krój pisma	przest.
+Nil	Nil:s2	subst:sg:nom:m3	krój pisma	przest.
+Nilom	Nil:s2	subst:pl:dat:m3	krój pisma	przest.
+Nilowi	Nil:s2	subst:sg:dat:m3	krój pisma	przest.
+Nilów	Nil:s2	subst:pl:gen:m3	krój pisma	przest.
+Nilu	Nil:s2	subst:sg:gen:m3	krój pisma	przest.
+Nilu	Nil:s2	subst:sg:loc:m3	krój pisma	przest.
+Nilu	Nil:s2	subst:sg:voc:m3	krój pisma	przest.
+Nilach	Nil:s3	subst:pl:loc:m1	imię|nazwisko	
+Nilami	Nil:s3	subst:pl:inst:m1	imię|nazwisko	
+Nila	Nil:s3	subst:sg:acc:m1	imię|nazwisko	
+Nila	Nil:s3	subst:sg:gen:m1	imię|nazwisko	
+Nilem	Nil:s3	subst:sg:inst:m1	imię|nazwisko	
+Nile	Nil:s3	depr:pl:nom:m2	imię|nazwisko	
+Nile	Nil:s3	depr:pl:voc:m2	imię|nazwisko	
+Nil	Nil:s3	subst:sg:nom:m1	imię|nazwisko	
+Nilom	Nil:s3	subst:pl:dat:m1	imię|nazwisko	
+Nilowie	Nil:s3	subst:pl:nom:m1	imię|nazwisko	
+Nilowie	Nil:s3	subst:pl:voc:m1	imię|nazwisko	
+Nilowi	Nil:s3	subst:sg:dat:m1	imię|nazwisko	
+Nilów	Nil:s3	subst:pl:acc:m1	imię|nazwisko	
+Nilów	Nil:s3	subst:pl:gen:m1	imię|nazwisko	
+Nilu	Nil:s3	subst:sg:loc:m1	imię|nazwisko	
+Nilu	Nil:s3	subst:sg:voc:m1	imię|nazwisko	
 Nimfach	Nimfa	subst:pl:loc:f	imię	
 Nimfami	Nimfa	subst:pl:inst:f	imię	
 Nimfa	Nimfa	subst:sg:nom:f	imię	

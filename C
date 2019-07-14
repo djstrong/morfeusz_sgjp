@@ -1,34 +1,34 @@
 Copyright © 2007–2015 Zygmunt Saloni, Włodzimierz Gruszczyński, Marcin
 CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
 CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-C	C	subst:pl:acc:m3	język_programowania	komp.
-C	C	subst:pl:acc:n2	język_programowania	komp.
-C	C	subst:pl:dat:m3	język_programowania	komp.
-C	C	subst:pl:dat:n2	język_programowania	komp.
-C	C	subst:pl:gen:m3	język_programowania	komp.
-C	C	subst:pl:gen:n2	język_programowania	komp.
-C	C	subst:pl:inst:m3	język_programowania	komp.
-C	C	subst:pl:inst:n2	język_programowania	komp.
-C	C	subst:pl:loc:m3	język_programowania	komp.
-C	C	subst:pl:loc:n2	język_programowania	komp.
-C	C	subst:pl:nom:m3	język_programowania	komp.
-C	C	subst:pl:nom:n2	język_programowania	komp.
-C	C	subst:pl:voc:m3	język_programowania	komp.
-C	C	subst:pl:voc:n2	język_programowania	komp.
-C	C	subst:sg:acc:m3	język_programowania	komp.
-C	C	subst:sg:acc:n2	język_programowania	komp.
-C	C	subst:sg:dat:m3	język_programowania	komp.
-C	C	subst:sg:dat:n2	język_programowania	komp.
-C	C	subst:sg:gen:m3	język_programowania	komp.
-C	C	subst:sg:gen:n2	język_programowania	komp.
-C	C	subst:sg:inst:m3	język_programowania	komp.
-C	C	subst:sg:inst:n2	język_programowania	komp.
-C	C	subst:sg:loc:m3	język_programowania	komp.
-C	C	subst:sg:loc:n2	język_programowania	komp.
-C	C	subst:sg:nom:m3	język_programowania	komp.
-C	C	subst:sg:nom:n2	język_programowania	komp.
-C	C	subst:sg:voc:m3	język_programowania	komp.
-C	C	subst:sg:voc:n2	język_programowania	komp.
+C	C	subst:pl:acc:m3	język programowania	komp.
+C	C	subst:pl:acc:n2	język programowania	komp.
+C	C	subst:pl:dat:m3	język programowania	komp.
+C	C	subst:pl:dat:n2	język programowania	komp.
+C	C	subst:pl:gen:m3	język programowania	komp.
+C	C	subst:pl:gen:n2	język programowania	komp.
+C	C	subst:pl:inst:m3	język programowania	komp.
+C	C	subst:pl:inst:n2	język programowania	komp.
+C	C	subst:pl:loc:m3	język programowania	komp.
+C	C	subst:pl:loc:n2	język programowania	komp.
+C	C	subst:pl:nom:m3	język programowania	komp.
+C	C	subst:pl:nom:n2	język programowania	komp.
+C	C	subst:pl:voc:m3	język programowania	komp.
+C	C	subst:pl:voc:n2	język programowania	komp.
+C	C	subst:sg:acc:m3	język programowania	komp.
+C	C	subst:sg:acc:n2	język programowania	komp.
+C	C	subst:sg:dat:m3	język programowania	komp.
+C	C	subst:sg:dat:n2	język programowania	komp.
+C	C	subst:sg:gen:m3	język programowania	komp.
+C	C	subst:sg:gen:n2	język programowania	komp.
+C	C	subst:sg:inst:m3	język programowania	komp.
+C	C	subst:sg:inst:n2	język programowania	komp.
+C	C	subst:sg:loc:m3	język programowania	komp.
+C	C	subst:sg:loc:n2	język programowania	komp.
+C	C	subst:sg:nom:m3	język programowania	komp.
+C	C	subst:sg:nom:n2	język programowania	komp.
+C	C	subst:sg:voc:m3	język programowania	komp.
+C	C	subst:sg:voc:n2	język programowania	komp.
 Cackowska	Cackowska	subst:sg:nom:f	nazwisko	
 Cackowska	Cackowska	subst:sg:voc:f	nazwisko	
 Cackowską	Cackowska	subst:sg:acc:f	nazwisko	
@@ -368,20 +368,20 @@ Canberry	Canberra	subst:pl:voc:f	geograficzna
 Canberry	Canberra	subst:sg:gen:f	geograficzna	
 Canberze	Canberra	subst:sg:dat:f	geograficzna	
 Canberze	Canberra	subst:sg:loc:f	geograficzna	
-Candida	Candida	subst:sg:nom:f	krój_pisma	poligr.
-Candidach	Candida	subst:pl:loc:f	krój_pisma	poligr.
-Candidami	Candida	subst:pl:inst:f	krój_pisma	poligr.
-Candidą	Candida	subst:sg:inst:f	krój_pisma	poligr.
-Candid	Candida	subst:pl:gen:f	krój_pisma	poligr.
-Candidę	Candida	subst:sg:acc:f	krój_pisma	poligr.
-Candido	Candida	subst:sg:voc:f	krój_pisma	poligr.
-Candidom	Candida	subst:pl:dat:f	krój_pisma	poligr.
-Candidy	Candida	subst:pl:acc:f	krój_pisma	poligr.
-Candidy	Candida	subst:pl:nom:f	krój_pisma	poligr.
-Candidy	Candida	subst:pl:voc:f	krój_pisma	poligr.
-Candidy	Candida	subst:sg:gen:f	krój_pisma	poligr.
-Candidzie	Candida	subst:sg:dat:f	krój_pisma	poligr.
-Candidzie	Candida	subst:sg:loc:f	krój_pisma	poligr.
+Candida	Candida	subst:sg:nom:f	krój pisma	poligr.
+Candidach	Candida	subst:pl:loc:f	krój pisma	poligr.
+Candidami	Candida	subst:pl:inst:f	krój pisma	poligr.
+Candidą	Candida	subst:sg:inst:f	krój pisma	poligr.
+Candid	Candida	subst:pl:gen:f	krój pisma	poligr.
+Candidę	Candida	subst:sg:acc:f	krój pisma	poligr.
+Candido	Candida	subst:sg:voc:f	krój pisma	poligr.
+Candidom	Candida	subst:pl:dat:f	krój pisma	poligr.
+Candidy	Candida	subst:pl:acc:f	krój pisma	poligr.
+Candidy	Candida	subst:pl:nom:f	krój pisma	poligr.
+Candidy	Candida	subst:pl:voc:f	krój pisma	poligr.
+Candidy	Candida	subst:sg:gen:f	krój pisma	poligr.
+Candidzie	Candida	subst:sg:dat:f	krój pisma	poligr.
+Candidzie	Candida	subst:sg:loc:f	krój pisma	poligr.
 Cannes	Cannes	subst:pl:acc:n2	geograficzna	
 Cannes	Cannes	subst:pl:dat:n2	geograficzna	
 Cannes	Cannes	subst:pl:gen:n2	geograficzna	
@@ -2102,42 +2102,24 @@ Charkowy	Charków	subst:pl:nom:m3	geograficzna
 Charkowy	Charków	subst:pl:voc:m3	geograficzna	
 Charków	Charków	subst:sg:acc:m3	geograficzna	
 Charków	Charków	subst:sg:nom:m3	geograficzna	
-Charlesa	Charles:s1	subst:sg:acc:m1	imię	
-Charlesa	Charles:s1	subst:sg:acc:m1	pseudonim	
-Charlesa	Charles:s1	subst:sg:gen:m1	imię	
-Charlesa	Charles:s1	subst:sg:gen:m1	pseudonim	
-Charlesach	Charles:s1	subst:pl:loc:m1	imię	
-Charlesach	Charles:s1	subst:pl:loc:m1	pseudonim	
-Charlesami	Charles:s1	subst:pl:inst:m1	imię	
-Charlesami	Charles:s1	subst:pl:inst:m1	pseudonim	
-Charles	Charles:s1	subst:sg:nom:m1	imię	
-Charles	Charles:s1	subst:sg:nom:m1	pseudonim	
-Charlesem	Charles:s1	subst:sg:inst:m1	imię	
-Charlesem	Charles:s1	subst:sg:inst:m1	pseudonim	
-Charlesi	Charles:s1	subst:pl:nom:m1	imię	
-Charlesi	Charles:s1	subst:pl:nom:m1	pseudonim	
-Charlesi	Charles:s1	subst:pl:voc:m1	imię	
-Charlesi	Charles:s1	subst:pl:voc:m1	pseudonim	
-Charlesie	Charles:s1	subst:sg:loc:m1	imię	
-Charlesie	Charles:s1	subst:sg:loc:m1	pseudonim	
-Charlesie	Charles:s1	subst:sg:voc:m1	imię	
-Charlesie	Charles:s1	subst:sg:voc:m1	pseudonim	
-Charlesom	Charles:s1	subst:pl:dat:m1	imię	
-Charlesom	Charles:s1	subst:pl:dat:m1	pseudonim	
-Charlesowi	Charles:s1	subst:sg:dat:m1	imię	
-Charlesowi	Charles:s1	subst:sg:dat:m1	pseudonim	
-Charlesowie	Charles:s1	subst:pl:nom:m1	imię	
-Charlesowie	Charles:s1	subst:pl:nom:m1	pseudonim	
-Charlesowie	Charles:s1	subst:pl:voc:m1	imię	
-Charlesowie	Charles:s1	subst:pl:voc:m1	pseudonim	
-Charlesów	Charles:s1	subst:pl:acc:m1	imię	
-Charlesów	Charles:s1	subst:pl:acc:m1	pseudonim	
-Charlesów	Charles:s1	subst:pl:gen:m1	imię	
-Charlesów	Charles:s1	subst:pl:gen:m1	pseudonim	
-Charlesy	Charles:s1	depr:pl:nom:m2	imię	
-Charlesy	Charles:s1	depr:pl:nom:m2	pseudonim	
-Charlesy	Charles:s1	depr:pl:voc:m2	imię	
-Charlesy	Charles:s1	depr:pl:voc:m2	pseudonim	
+Charlesa	Charles:s1	subst:sg:acc:m1	imię|pseudonim	
+Charlesa	Charles:s1	subst:sg:gen:m1	imię|pseudonim	
+Charlesach	Charles:s1	subst:pl:loc:m1	imię|pseudonim	
+Charlesami	Charles:s1	subst:pl:inst:m1	imię|pseudonim	
+Charles	Charles:s1	subst:sg:nom:m1	imię|pseudonim	
+Charlesem	Charles:s1	subst:sg:inst:m1	imię|pseudonim	
+Charlesi	Charles:s1	subst:pl:nom:m1	imię|pseudonim	
+Charlesi	Charles:s1	subst:pl:voc:m1	imię|pseudonim	
+Charlesie	Charles:s1	subst:sg:loc:m1	imię|pseudonim	
+Charlesie	Charles:s1	subst:sg:voc:m1	imię|pseudonim	
+Charlesom	Charles:s1	subst:pl:dat:m1	imię|pseudonim	
+Charlesowi	Charles:s1	subst:sg:dat:m1	imię|pseudonim	
+Charlesowie	Charles:s1	subst:pl:nom:m1	imię|pseudonim	
+Charlesowie	Charles:s1	subst:pl:voc:m1	imię|pseudonim	
+Charlesów	Charles:s1	subst:pl:acc:m1	imię|pseudonim	
+Charlesów	Charles:s1	subst:pl:gen:m1	imię|pseudonim	
+Charlesy	Charles:s1	depr:pl:nom:m2	imię|pseudonim	
+Charlesy	Charles:s1	depr:pl:voc:m2	imię|pseudonim	
 Charles’a	Charles:s2	subst:sg:acc:m1	imię	
 Charles’a	Charles:s2	subst:sg:gen:m1	imię	
 Charles’ach	Charles:s2	subst:pl:loc:m1	imię	
@@ -5061,22 +5043,22 @@ CO	CO	subst:sg:inst:n2	pospolita
 CO	CO	subst:sg:loc:n2	pospolita	
 CO	CO	subst:sg:nom:n2	pospolita	
 CO	CO	subst:sg:voc:n2	pospolita	
-Cobolach	Cobol	subst:pl:loc:m3	język_programowania	komp.
-Cobola	Cobol	subst:sg:gen:m3	język_programowania	komp.
-Cobolami	Cobol	subst:pl:inst:m3	język_programowania	komp.
-Cobol	Cobol	subst:sg:acc:m3	język_programowania	komp.
-Cobol	Cobol	subst:sg:nom:m3	język_programowania	komp.
-Cobole	Cobol	subst:pl:acc:m3	język_programowania	komp.
-Cobole	Cobol	subst:pl:nom:m3	język_programowania	komp.
-Cobole	Cobol	subst:pl:voc:m3	język_programowania	komp.
-Cobolem	Cobol	subst:sg:inst:m3	język_programowania	komp.
-Coboli	Cobol	subst:pl:gen:m3	język_programowania	komp.
-Cobolom	Cobol	subst:pl:dat:m3	język_programowania	komp.
-Cobolowi	Cobol	subst:sg:dat:m3	język_programowania	komp.
-Cobolów	Cobol	subst:pl:gen:m3	język_programowania	komp.
-Cobolu	Cobol	subst:sg:gen:m3	język_programowania	komp.
-Cobolu	Cobol	subst:sg:loc:m3	język_programowania	komp.
-Cobolu	Cobol	subst:sg:voc:m3	język_programowania	komp.
+Cobolach	Cobol	subst:pl:loc:m3	język programowania	komp.
+Cobola	Cobol	subst:sg:gen:m3	język programowania	komp.
+Cobolami	Cobol	subst:pl:inst:m3	język programowania	komp.
+Cobol	Cobol	subst:sg:acc:m3	język programowania	komp.
+Cobol	Cobol	subst:sg:nom:m3	język programowania	komp.
+Cobole	Cobol	subst:pl:acc:m3	język programowania	komp.
+Cobole	Cobol	subst:pl:nom:m3	język programowania	komp.
+Cobole	Cobol	subst:pl:voc:m3	język programowania	komp.
+Cobolem	Cobol	subst:sg:inst:m3	język programowania	komp.
+Coboli	Cobol	subst:pl:gen:m3	język programowania	komp.
+Cobolom	Cobol	subst:pl:dat:m3	język programowania	komp.
+Cobolowi	Cobol	subst:sg:dat:m3	język programowania	komp.
+Cobolów	Cobol	subst:pl:gen:m3	język programowania	komp.
+Cobolu	Cobol	subst:sg:gen:m3	język programowania	komp.
+Cobolu	Cobol	subst:sg:loc:m3	język programowania	komp.
+Cobolu	Cobol	subst:sg:voc:m3	język programowania	komp.
 COCOM-ach	COCOM	subst:pl:loc:m3	organizacja	
 COCOM-ami	COCOM	subst:pl:inst:m3	organizacja	
 COCOM	COCOM	subst:sg:acc:m3	organizacja	

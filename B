@@ -2027,42 +2027,24 @@ Bartłomiejów	Bartłomiej	subst:pl:acc:m1	imię
 Bartłomiejów	Bartłomiej	subst:pl:gen:m1	imię	
 Bartłomieju	Bartłomiej	subst:sg:loc:m1	imię	
 Bartłomieju	Bartłomiej	subst:sg:voc:m1	imię	
-Bartodzieja	Bartodziej	subst:sg:acc:m1	imię	
-Bartodzieja	Bartodziej	subst:sg:acc:m1	nazwisko	
-Bartodzieja	Bartodziej	subst:sg:gen:m1	imię	
-Bartodzieja	Bartodziej	subst:sg:gen:m1	nazwisko	
-Bartodziejach	Bartodziej	subst:pl:loc:m1	imię	
-Bartodziejach	Bartodziej	subst:pl:loc:m1	nazwisko	
-Bartodziejami	Bartodziej	subst:pl:inst:m1	imię	
-Bartodziejami	Bartodziej	subst:pl:inst:m1	nazwisko	
-Bartodziej	Bartodziej	subst:sg:nom:m1	imię	
-Bartodziej	Bartodziej	subst:sg:nom:m1	nazwisko	
-Bartodzieje	Bartodziej	depr:pl:nom:m2	imię	
-Bartodzieje	Bartodziej	depr:pl:nom:m2	nazwisko	
-Bartodzieje	Bartodziej	depr:pl:voc:m2	imię	
-Bartodzieje	Bartodziej	depr:pl:voc:m2	nazwisko	
-Bartodzieje	Bartodziej	subst:pl:nom:m1	imię	
-Bartodzieje	Bartodziej	subst:pl:nom:m1	nazwisko	
-Bartodzieje	Bartodziej	subst:pl:voc:m1	imię	
-Bartodzieje	Bartodziej	subst:pl:voc:m1	nazwisko	
-Bartodziejem	Bartodziej	subst:sg:inst:m1	imię	
-Bartodziejem	Bartodziej	subst:sg:inst:m1	nazwisko	
-Bartodziejom	Bartodziej	subst:pl:dat:m1	imię	
-Bartodziejom	Bartodziej	subst:pl:dat:m1	nazwisko	
-Bartodziejowi	Bartodziej	subst:sg:dat:m1	imię	
-Bartodziejowi	Bartodziej	subst:sg:dat:m1	nazwisko	
-Bartodziejowie	Bartodziej	subst:pl:nom:m1	imię	
-Bartodziejowie	Bartodziej	subst:pl:nom:m1	nazwisko	
-Bartodziejowie	Bartodziej	subst:pl:voc:m1	imię	
-Bartodziejowie	Bartodziej	subst:pl:voc:m1	nazwisko	
-Bartodziejów	Bartodziej	subst:pl:acc:m1	imię	
-Bartodziejów	Bartodziej	subst:pl:acc:m1	nazwisko	
-Bartodziejów	Bartodziej	subst:pl:gen:m1	imię	
-Bartodziejów	Bartodziej	subst:pl:gen:m1	nazwisko	
-Bartodzieju	Bartodziej	subst:sg:loc:m1	imię	
-Bartodzieju	Bartodziej	subst:sg:loc:m1	nazwisko	
-Bartodzieju	Bartodziej	subst:sg:voc:m1	imię	
-Bartodzieju	Bartodziej	subst:sg:voc:m1	nazwisko	
+Bartodzieja	Bartodziej	subst:sg:acc:m1	imię|nazwisko	
+Bartodzieja	Bartodziej	subst:sg:gen:m1	imię|nazwisko	
+Bartodziejach	Bartodziej	subst:pl:loc:m1	imię|nazwisko	
+Bartodziejami	Bartodziej	subst:pl:inst:m1	imię|nazwisko	
+Bartodziej	Bartodziej	subst:sg:nom:m1	imię|nazwisko	
+Bartodzieje	Bartodziej	depr:pl:nom:m2	imię|nazwisko	
+Bartodzieje	Bartodziej	depr:pl:voc:m2	imię|nazwisko	
+Bartodzieje	Bartodziej	subst:pl:nom:m1	imię|nazwisko	
+Bartodzieje	Bartodziej	subst:pl:voc:m1	imię|nazwisko	
+Bartodziejem	Bartodziej	subst:sg:inst:m1	imię|nazwisko	
+Bartodziejom	Bartodziej	subst:pl:dat:m1	imię|nazwisko	
+Bartodziejowi	Bartodziej	subst:sg:dat:m1	imię|nazwisko	
+Bartodziejowie	Bartodziej	subst:pl:nom:m1	imię|nazwisko	
+Bartodziejowie	Bartodziej	subst:pl:voc:m1	imię|nazwisko	
+Bartodziejów	Bartodziej	subst:pl:acc:m1	imię|nazwisko	
+Bartodziejów	Bartodziej	subst:pl:gen:m1	imię|nazwisko	
+Bartodzieju	Bartodziej	subst:sg:loc:m1	imię|nazwisko	
+Bartodzieju	Bartodziej	subst:sg:voc:m1	imię|nazwisko	
 Bartoka	Bartok	subst:sg:acc:m1	nazwisko	
 Bartoka	Bartok	subst:sg:gen:m1	nazwisko	
 Bartokach	Bartok	subst:pl:loc:m1	nazwisko	
@@ -2233,38 +2215,22 @@ Bartusiów	Bartuś	subst:pl:gen:m1	imię
 Bartusiu	Bartuś	subst:sg:loc:m1	imię	
 Bartusiu	Bartuś	subst:sg:voc:m1	imię	
 Bartuś	Bartuś	subst:sg:nom:m1	imię	
-Barucha	Baruch	subst:sg:acc:m1	imię	
-Barucha	Baruch	subst:sg:acc:m1	nazwisko	
-Barucha	Baruch	subst:sg:gen:m1	imię	
-Barucha	Baruch	subst:sg:gen:m1	nazwisko	
-Baruchach	Baruch	subst:pl:loc:m1	imię	
-Baruchach	Baruch	subst:pl:loc:m1	nazwisko	
-Baruchami	Baruch	subst:pl:inst:m1	imię	
-Baruchami	Baruch	subst:pl:inst:m1	nazwisko	
-Baruch	Baruch	subst:sg:nom:m1	imię	
-Baruch	Baruch	subst:sg:nom:m1	nazwisko	
-Baruchem	Baruch	subst:sg:inst:m1	imię	
-Baruchem	Baruch	subst:sg:inst:m1	nazwisko	
-Baruchom	Baruch	subst:pl:dat:m1	imię	
-Baruchom	Baruch	subst:pl:dat:m1	nazwisko	
-Baruchowi	Baruch	subst:sg:dat:m1	imię	
-Baruchowi	Baruch	subst:sg:dat:m1	nazwisko	
-Baruchowie	Baruch	subst:pl:nom:m1	imię	
-Baruchowie	Baruch	subst:pl:nom:m1	nazwisko	
-Baruchowie	Baruch	subst:pl:voc:m1	imię	
-Baruchowie	Baruch	subst:pl:voc:m1	nazwisko	
-Baruchów	Baruch	subst:pl:acc:m1	imię	
-Baruchów	Baruch	subst:pl:acc:m1	nazwisko	
-Baruchów	Baruch	subst:pl:gen:m1	imię	
-Baruchów	Baruch	subst:pl:gen:m1	nazwisko	
-Baruchu	Baruch	subst:sg:loc:m1	imię	
-Baruchu	Baruch	subst:sg:loc:m1	nazwisko	
-Baruchu	Baruch	subst:sg:voc:m1	imię	
-Baruchu	Baruch	subst:sg:voc:m1	nazwisko	
-Baruchy	Baruch	depr:pl:nom:m2	imię	
-Baruchy	Baruch	depr:pl:nom:m2	nazwisko	
-Baruchy	Baruch	depr:pl:voc:m2	imię	
-Baruchy	Baruch	depr:pl:voc:m2	nazwisko	
+Barucha	Baruch	subst:sg:acc:m1	imię|nazwisko	
+Barucha	Baruch	subst:sg:gen:m1	imię|nazwisko	
+Baruchach	Baruch	subst:pl:loc:m1	imię|nazwisko	
+Baruchami	Baruch	subst:pl:inst:m1	imię|nazwisko	
+Baruch	Baruch	subst:sg:nom:m1	imię|nazwisko	
+Baruchem	Baruch	subst:sg:inst:m1	imię|nazwisko	
+Baruchom	Baruch	subst:pl:dat:m1	imię|nazwisko	
+Baruchowi	Baruch	subst:sg:dat:m1	imię|nazwisko	
+Baruchowie	Baruch	subst:pl:nom:m1	imię|nazwisko	
+Baruchowie	Baruch	subst:pl:voc:m1	imię|nazwisko	
+Baruchów	Baruch	subst:pl:acc:m1	imię|nazwisko	
+Baruchów	Baruch	subst:pl:gen:m1	imię|nazwisko	
+Baruchu	Baruch	subst:sg:loc:m1	imię|nazwisko	
+Baruchu	Baruch	subst:sg:voc:m1	imię|nazwisko	
+Baruchy	Baruch	depr:pl:nom:m2	imię|nazwisko	
+Baruchy	Baruch	depr:pl:voc:m2	imię|nazwisko	
 Barwicach	Barwice	subst:pl:loc:p2	geograficzna	rzad.
 Barwicach	Barwice	subst:pl:loc:p3	geograficzna	
 Barwicami	Barwice	subst:pl:inst:p2	geograficzna	rzad.
@@ -2354,21 +2320,21 @@ Basię	Basia	subst:sg:acc:f	imię
 Basiom	Basia	subst:pl:dat:f	imię	
 Basiu	Basia	subst:sg:voc:f	imię	
 Baś	Basia	subst:pl:gen:f	imię	char.
-Basica	Basic	subst:sg:gen:m3	język_programowania	komp.
-Basicach	Basic	subst:pl:loc:m3	język_programowania	komp.
-Basicami	Basic	subst:pl:inst:m3	język_programowania	komp.
-Basic	Basic	subst:sg:acc:m3	język_programowania	komp.
-Basic	Basic	subst:sg:nom:m3	język_programowania	komp.
-Basicom	Basic	subst:pl:dat:m3	język_programowania	komp.
-Basicowi	Basic	subst:sg:dat:m3	język_programowania	komp.
-Basiców	Basic	subst:pl:gen:m3	język_programowania	komp.
-Basicu	Basic	subst:sg:gen:m3	język_programowania	komp.
-Basicu	Basic	subst:sg:loc:m3	język_programowania	komp.
-Basicu	Basic	subst:sg:voc:m3	język_programowania	komp.
-Basiki	Basic	subst:pl:acc:m3	język_programowania	komp.
-Basiki	Basic	subst:pl:nom:m3	język_programowania	komp.
-Basiki	Basic	subst:pl:voc:m3	język_programowania	komp.
-Basikiem	Basic	subst:sg:inst:m3	język_programowania	komp.
+Basica	Basic	subst:sg:gen:m3	język programowania	komp.
+Basicach	Basic	subst:pl:loc:m3	język programowania	komp.
+Basicami	Basic	subst:pl:inst:m3	język programowania	komp.
+Basic	Basic	subst:sg:acc:m3	język programowania	komp.
+Basic	Basic	subst:sg:nom:m3	język programowania	komp.
+Basicom	Basic	subst:pl:dat:m3	język programowania	komp.
+Basicowi	Basic	subst:sg:dat:m3	język programowania	komp.
+Basiców	Basic	subst:pl:gen:m3	język programowania	komp.
+Basicu	Basic	subst:sg:gen:m3	język programowania	komp.
+Basicu	Basic	subst:sg:loc:m3	język programowania	komp.
+Basicu	Basic	subst:sg:voc:m3	język programowania	komp.
+Basiki	Basic	subst:pl:acc:m3	język programowania	komp.
+Basiki	Basic	subst:pl:nom:m3	język programowania	komp.
+Basiki	Basic	subst:pl:voc:m3	język programowania	komp.
+Basikiem	Basic	subst:sg:inst:m3	język programowania	komp.
 Basińska	Basińska	subst:sg:nom:f	nazwisko	
 Basińska	Basińska	subst:sg:voc:f	nazwisko	
 Basińską	Basińska	subst:sg:acc:f	nazwisko	
@@ -5962,38 +5928,22 @@ Biernackim	Biernacki	subst:pl:dat:m1	nazwisko
 Biernackim	Biernacki	subst:sg:inst:m1	nazwisko	
 Biernackim	Biernacki	subst:sg:loc:m1	nazwisko	
 Biernackimi	Biernacki	subst:pl:inst:m1	nazwisko	
-Biernacie	Biernat	subst:sg:loc:m1	imię	
-Biernacie	Biernat	subst:sg:loc:m1	nazwisko	
-Biernacie	Biernat	subst:sg:voc:m1	imię	
-Biernacie	Biernat	subst:sg:voc:m1	nazwisko	
-Biernata	Biernat	subst:sg:acc:m1	imię	
-Biernata	Biernat	subst:sg:acc:m1	nazwisko	
-Biernata	Biernat	subst:sg:gen:m1	imię	
-Biernata	Biernat	subst:sg:gen:m1	nazwisko	
-Biernatach	Biernat	subst:pl:loc:m1	imię	
-Biernatach	Biernat	subst:pl:loc:m1	nazwisko	
-Biernatami	Biernat	subst:pl:inst:m1	imię	
-Biernatami	Biernat	subst:pl:inst:m1	nazwisko	
-Biernat	Biernat	subst:sg:nom:m1	imię	
-Biernat	Biernat	subst:sg:nom:m1	nazwisko	
-Biernatem	Biernat	subst:sg:inst:m1	imię	
-Biernatem	Biernat	subst:sg:inst:m1	nazwisko	
-Biernatom	Biernat	subst:pl:dat:m1	imię	
-Biernatom	Biernat	subst:pl:dat:m1	nazwisko	
-Biernatowi	Biernat	subst:sg:dat:m1	imię	
-Biernatowi	Biernat	subst:sg:dat:m1	nazwisko	
-Biernatowie	Biernat	subst:pl:nom:m1	imię	
-Biernatowie	Biernat	subst:pl:nom:m1	nazwisko	
-Biernatowie	Biernat	subst:pl:voc:m1	imię	
-Biernatowie	Biernat	subst:pl:voc:m1	nazwisko	
-Biernatów	Biernat	subst:pl:acc:m1	imię	
-Biernatów	Biernat	subst:pl:acc:m1	nazwisko	
-Biernatów	Biernat	subst:pl:gen:m1	imię	
-Biernatów	Biernat	subst:pl:gen:m1	nazwisko	
-Biernaty	Biernat	depr:pl:nom:m2	imię	
-Biernaty	Biernat	depr:pl:nom:m2	nazwisko	
-Biernaty	Biernat	depr:pl:voc:m2	imię	
-Biernaty	Biernat	depr:pl:voc:m2	nazwisko	
+Biernacie	Biernat	subst:sg:loc:m1	imię|nazwisko	
+Biernacie	Biernat	subst:sg:voc:m1	imię|nazwisko	
+Biernata	Biernat	subst:sg:acc:m1	imię|nazwisko	
+Biernata	Biernat	subst:sg:gen:m1	imię|nazwisko	
+Biernatach	Biernat	subst:pl:loc:m1	imię|nazwisko	
+Biernatami	Biernat	subst:pl:inst:m1	imię|nazwisko	
+Biernat	Biernat	subst:sg:nom:m1	imię|nazwisko	
+Biernatem	Biernat	subst:sg:inst:m1	imię|nazwisko	
+Biernatom	Biernat	subst:pl:dat:m1	imię|nazwisko	
+Biernatowi	Biernat	subst:sg:dat:m1	imię|nazwisko	
+Biernatowie	Biernat	subst:pl:nom:m1	imię|nazwisko	
+Biernatowie	Biernat	subst:pl:voc:m1	imię|nazwisko	
+Biernatów	Biernat	subst:pl:acc:m1	imię|nazwisko	
+Biernatów	Biernat	subst:pl:gen:m1	imię|nazwisko	
+Biernaty	Biernat	depr:pl:nom:m2	imię|nazwisko	
+Biernaty	Biernat	depr:pl:voc:m2	imię|nazwisko	
 B	biernik	brev:pun		jęz.
 Bierucie	Bierut	subst:sg:loc:m1	nazwisko	
 Bierucie	Bierut	subst:sg:voc:m1	nazwisko	
@@ -6876,62 +6826,34 @@ Błyszczu	Błyszcz	subst:sg:loc:m3	geograficzna	rzad.
 Błyszczu	Błyszcz	subst:sg:voc:m3	geograficzna	
 Błyszczu	Błyszcz	subst:sg:voc:m3	geograficzna	rzad.
 Błyszczy	Błyszcz	subst:pl:gen:m3	geograficzna	
-BMW	BMW	subst:pl:acc:m3	firma	
-BMW	BMW	subst:pl:acc:m3	marka	
-BMW	BMW	subst:pl:acc:n2	firma	
-BMW	BMW	subst:pl:acc:n2	marka	
-BMW	BMW	subst:pl:dat:m3	firma	
-BMW	BMW	subst:pl:dat:m3	marka	
-BMW	BMW	subst:pl:dat:n2	firma	
-BMW	BMW	subst:pl:dat:n2	marka	
-BMW	BMW	subst:pl:gen:m3	firma	
-BMW	BMW	subst:pl:gen:m3	marka	
-BMW	BMW	subst:pl:gen:n2	firma	
-BMW	BMW	subst:pl:gen:n2	marka	
-BMW	BMW	subst:pl:inst:m3	firma	
-BMW	BMW	subst:pl:inst:m3	marka	
-BMW	BMW	subst:pl:inst:n2	firma	
-BMW	BMW	subst:pl:inst:n2	marka	
-BMW	BMW	subst:pl:loc:m3	firma	
-BMW	BMW	subst:pl:loc:m3	marka	
-BMW	BMW	subst:pl:loc:n2	firma	
-BMW	BMW	subst:pl:loc:n2	marka	
-BMW	BMW	subst:pl:nom:m3	firma	
-BMW	BMW	subst:pl:nom:m3	marka	
-BMW	BMW	subst:pl:nom:n2	firma	
-BMW	BMW	subst:pl:nom:n2	marka	
-BMW	BMW	subst:pl:voc:m3	firma	
-BMW	BMW	subst:pl:voc:m3	marka	
-BMW	BMW	subst:pl:voc:n2	firma	
-BMW	BMW	subst:pl:voc:n2	marka	
-BMW	BMW	subst:sg:acc:m3	firma	
-BMW	BMW	subst:sg:acc:m3	marka	
-BMW	BMW	subst:sg:acc:n2	firma	
-BMW	BMW	subst:sg:acc:n2	marka	
-BMW	BMW	subst:sg:dat:m3	firma	
-BMW	BMW	subst:sg:dat:m3	marka	
-BMW	BMW	subst:sg:dat:n2	firma	
-BMW	BMW	subst:sg:dat:n2	marka	
-BMW	BMW	subst:sg:gen:m3	firma	
-BMW	BMW	subst:sg:gen:m3	marka	
-BMW	BMW	subst:sg:gen:n2	firma	
-BMW	BMW	subst:sg:gen:n2	marka	
-BMW	BMW	subst:sg:inst:m3	firma	
-BMW	BMW	subst:sg:inst:m3	marka	
-BMW	BMW	subst:sg:inst:n2	firma	
-BMW	BMW	subst:sg:inst:n2	marka	
-BMW	BMW	subst:sg:loc:m3	firma	
-BMW	BMW	subst:sg:loc:m3	marka	
-BMW	BMW	subst:sg:loc:n2	firma	
-BMW	BMW	subst:sg:loc:n2	marka	
-BMW	BMW	subst:sg:nom:m3	firma	
-BMW	BMW	subst:sg:nom:m3	marka	
-BMW	BMW	subst:sg:nom:n2	firma	
-BMW	BMW	subst:sg:nom:n2	marka	
-BMW	BMW	subst:sg:voc:m3	firma	
-BMW	BMW	subst:sg:voc:m3	marka	
-BMW	BMW	subst:sg:voc:n2	firma	
-BMW	BMW	subst:sg:voc:n2	marka	
+BMW	BMW	subst:pl:acc:m3	firma|marka	
+BMW	BMW	subst:pl:acc:n2	firma|marka	
+BMW	BMW	subst:pl:dat:m3	firma|marka	
+BMW	BMW	subst:pl:dat:n2	firma|marka	
+BMW	BMW	subst:pl:gen:m3	firma|marka	
+BMW	BMW	subst:pl:gen:n2	firma|marka	
+BMW	BMW	subst:pl:inst:m3	firma|marka	
+BMW	BMW	subst:pl:inst:n2	firma|marka	
+BMW	BMW	subst:pl:loc:m3	firma|marka	
+BMW	BMW	subst:pl:loc:n2	firma|marka	
+BMW	BMW	subst:pl:nom:m3	firma|marka	
+BMW	BMW	subst:pl:nom:n2	firma|marka	
+BMW	BMW	subst:pl:voc:m3	firma|marka	
+BMW	BMW	subst:pl:voc:n2	firma|marka	
+BMW	BMW	subst:sg:acc:m3	firma|marka	
+BMW	BMW	subst:sg:acc:n2	firma|marka	
+BMW	BMW	subst:sg:dat:m3	firma|marka	
+BMW	BMW	subst:sg:dat:n2	firma|marka	
+BMW	BMW	subst:sg:gen:m3	firma|marka	
+BMW	BMW	subst:sg:gen:n2	firma|marka	
+BMW	BMW	subst:sg:inst:m3	firma|marka	
+BMW	BMW	subst:sg:inst:n2	firma|marka	
+BMW	BMW	subst:sg:loc:m3	firma|marka	
+BMW	BMW	subst:sg:loc:n2	firma|marka	
+BMW	BMW	subst:sg:nom:m3	firma|marka	
+BMW	BMW	subst:sg:nom:n2	firma|marka	
+BMW	BMW	subst:sg:voc:m3	firma|marka	
+BMW	BMW	subst:sg:voc:n2	firma|marka	
 BN-ach	BN	subst:pl:loc:m3	instytucja	
 BN-ami	BN	subst:pl:inst:m3	instytucja	
 BN	BN	subst:sg:acc:m3	instytucja	
@@ -7296,20 +7218,20 @@ Boćki	Boćki	subst:pl:voc:p2	geograficzna	rzad.
 Boćki	Boćki	subst:pl:voc:p3	geograficzna	
 Boćkom	Boćki	subst:pl:dat:p2	geograficzna	rzad.
 Boćkom	Boćki	subst:pl:dat:p3	geograficzna	
-Bodoni	Bodoni	subst:sg:acc:m3	krój_pisma	
-Bodoni	Bodoni	subst:sg:nom:m3	krój_pisma	
-Bodoni	Bodoni	subst:sg:voc:m3	krój_pisma	
-Bodonich	Bodoni	subst:pl:gen:m3	krój_pisma	
-Bodonich	Bodoni	subst:pl:loc:m3	krój_pisma	
-Bodonie	Bodoni	subst:pl:acc:m3	krój_pisma	
-Bodonie	Bodoni	subst:pl:nom:m3	krój_pisma	
-Bodonie	Bodoni	subst:pl:voc:m3	krój_pisma	
-Bodoniego	Bodoni	subst:sg:gen:m3	krój_pisma	
-Bodoniemu	Bodoni	subst:sg:dat:m3	krój_pisma	
-Bodonim	Bodoni	subst:pl:dat:m3	krój_pisma	
-Bodonim	Bodoni	subst:sg:inst:m3	krój_pisma	
-Bodonim	Bodoni	subst:sg:loc:m3	krój_pisma	
-Bodonimi	Bodoni	subst:pl:inst:m3	krój_pisma	
+Bodoni	Bodoni	subst:sg:acc:m3	krój pisma	
+Bodoni	Bodoni	subst:sg:nom:m3	krój pisma	
+Bodoni	Bodoni	subst:sg:voc:m3	krój pisma	
+Bodonich	Bodoni	subst:pl:gen:m3	krój pisma	
+Bodonich	Bodoni	subst:pl:loc:m3	krój pisma	
+Bodonie	Bodoni	subst:pl:acc:m3	krój pisma	
+Bodonie	Bodoni	subst:pl:nom:m3	krój pisma	
+Bodonie	Bodoni	subst:pl:voc:m3	krój pisma	
+Bodoniego	Bodoni	subst:sg:gen:m3	krój pisma	
+Bodoniemu	Bodoni	subst:sg:dat:m3	krój pisma	
+Bodonim	Bodoni	subst:pl:dat:m3	krój pisma	
+Bodonim	Bodoni	subst:sg:inst:m3	krój pisma	
+Bodonim	Bodoni	subst:sg:loc:m3	krój pisma	
+Bodonimi	Bodoni	subst:pl:inst:m3	krój pisma	
 Bodzanowa	Bodzanów	subst:sg:gen:m3	geograficzna	
 Bodzanowach	Bodzanów	subst:pl:loc:m3	geograficzna	
 Bodzanowami	Bodzanów	subst:pl:inst:m3	geograficzna	
@@ -7846,42 +7768,24 @@ Bogusławskim	Bogusławski	subst:pl:dat:m1	nazwisko
 Bogusławskim	Bogusławski	subst:sg:inst:m1	nazwisko	
 Bogusławskim	Bogusławski	subst:sg:loc:m1	nazwisko	
 Bogusławskimi	Bogusławski	subst:pl:inst:m1	nazwisko	
-Bogusza	Bogusz	subst:sg:acc:m1	imię	
-Bogusza	Bogusz	subst:sg:acc:m1	nazwisko	
-Bogusza	Bogusz	subst:sg:gen:m1	imię	
-Bogusza	Bogusz	subst:sg:gen:m1	nazwisko	
-Boguszach	Bogusz	subst:pl:loc:m1	imię	
-Boguszach	Bogusz	subst:pl:loc:m1	nazwisko	
-Boguszami	Bogusz	subst:pl:inst:m1	imię	
-Boguszami	Bogusz	subst:pl:inst:m1	nazwisko	
-Bogusz	Bogusz	subst:sg:nom:m1	imię	
-Bogusz	Bogusz	subst:sg:nom:m1	nazwisko	
-Bogusze	Bogusz	depr:pl:nom:m2	imię	
-Bogusze	Bogusz	depr:pl:nom:m2	nazwisko	
-Bogusze	Bogusz	depr:pl:voc:m2	imię	
-Bogusze	Bogusz	depr:pl:voc:m2	nazwisko	
-Bogusze	Bogusz	subst:pl:nom:m1	imię	
-Bogusze	Bogusz	subst:pl:nom:m1	nazwisko	
-Bogusze	Bogusz	subst:pl:voc:m1	imię	
-Bogusze	Bogusz	subst:pl:voc:m1	nazwisko	
-Boguszem	Bogusz	subst:sg:inst:m1	imię	
-Boguszem	Bogusz	subst:sg:inst:m1	nazwisko	
-Boguszom	Bogusz	subst:pl:dat:m1	imię	
-Boguszom	Bogusz	subst:pl:dat:m1	nazwisko	
-Boguszowi	Bogusz	subst:sg:dat:m1	imię	
-Boguszowi	Bogusz	subst:sg:dat:m1	nazwisko	
-Boguszowie	Bogusz	subst:pl:nom:m1	imię	
-Boguszowie	Bogusz	subst:pl:nom:m1	nazwisko	
-Boguszowie	Bogusz	subst:pl:voc:m1	imię	
-Boguszowie	Bogusz	subst:pl:voc:m1	nazwisko	
-Boguszów	Bogusz	subst:pl:acc:m1	imię	
-Boguszów	Bogusz	subst:pl:acc:m1	nazwisko	
-Boguszów	Bogusz	subst:pl:gen:m1	imię	
-Boguszów	Bogusz	subst:pl:gen:m1	nazwisko	
-Boguszu	Bogusz	subst:sg:loc:m1	imię	
-Boguszu	Bogusz	subst:sg:loc:m1	nazwisko	
-Boguszu	Bogusz	subst:sg:voc:m1	imię	
-Boguszu	Bogusz	subst:sg:voc:m1	nazwisko	
+Bogusza	Bogusz	subst:sg:acc:m1	imię|nazwisko	
+Bogusza	Bogusz	subst:sg:gen:m1	imię|nazwisko	
+Boguszach	Bogusz	subst:pl:loc:m1	imię|nazwisko	
+Boguszami	Bogusz	subst:pl:inst:m1	imię|nazwisko	
+Bogusz	Bogusz	subst:sg:nom:m1	imię|nazwisko	
+Bogusze	Bogusz	depr:pl:nom:m2	imię|nazwisko	
+Bogusze	Bogusz	depr:pl:voc:m2	imię|nazwisko	
+Bogusze	Bogusz	subst:pl:nom:m1	imię|nazwisko	
+Bogusze	Bogusz	subst:pl:voc:m1	imię|nazwisko	
+Boguszem	Bogusz	subst:sg:inst:m1	imię|nazwisko	
+Boguszom	Bogusz	subst:pl:dat:m1	imię|nazwisko	
+Boguszowi	Bogusz	subst:sg:dat:m1	imię|nazwisko	
+Boguszowie	Bogusz	subst:pl:nom:m1	imię|nazwisko	
+Boguszowie	Bogusz	subst:pl:voc:m1	imię|nazwisko	
+Boguszów	Bogusz	subst:pl:acc:m1	imię|nazwisko	
+Boguszów	Bogusz	subst:pl:gen:m1	imię|nazwisko	
+Boguszu	Bogusz	subst:sg:loc:m1	imię|nazwisko	
+Boguszu	Bogusz	subst:sg:voc:m1	imię|nazwisko	
 Boguszewska	Boguszewska	subst:sg:nom:f	nazwisko	
 Boguszewska	Boguszewska	subst:sg:voc:f	nazwisko	
 Boguszewską	Boguszewska	subst:sg:acc:f	nazwisko	
@@ -8088,42 +7992,24 @@ Bohomolców	Bohomolec	subst:pl:gen:m1	nazwisko
 Bohomolcu	Bohomolec	subst:sg:loc:m1	nazwisko	
 Bohomolcu	Bohomolec	subst:sg:voc:m1	nazwisko	
 Bohomolec	Bohomolec	subst:sg:nom:m1	nazwisko	
-Bohusza	Bohusz	subst:sg:acc:m1	imię	
-Bohusza	Bohusz	subst:sg:acc:m1	nazwisko	
-Bohusza	Bohusz	subst:sg:gen:m1	imię	
-Bohusza	Bohusz	subst:sg:gen:m1	nazwisko	
-Bohuszach	Bohusz	subst:pl:loc:m1	imię	
-Bohuszach	Bohusz	subst:pl:loc:m1	nazwisko	
-Bohuszami	Bohusz	subst:pl:inst:m1	imię	
-Bohuszami	Bohusz	subst:pl:inst:m1	nazwisko	
-Bohusz	Bohusz	subst:sg:nom:m1	imię	
-Bohusz	Bohusz	subst:sg:nom:m1	nazwisko	
-Bohusze	Bohusz	depr:pl:nom:m2	imię	
-Bohusze	Bohusz	depr:pl:nom:m2	nazwisko	
-Bohusze	Bohusz	depr:pl:voc:m2	imię	
-Bohusze	Bohusz	depr:pl:voc:m2	nazwisko	
-Bohusze	Bohusz	subst:pl:nom:m1	imię	
-Bohusze	Bohusz	subst:pl:nom:m1	nazwisko	
-Bohusze	Bohusz	subst:pl:voc:m1	imię	
-Bohusze	Bohusz	subst:pl:voc:m1	nazwisko	
-Bohuszem	Bohusz	subst:sg:inst:m1	imię	
-Bohuszem	Bohusz	subst:sg:inst:m1	nazwisko	
-Bohuszom	Bohusz	subst:pl:dat:m1	imię	
-Bohuszom	Bohusz	subst:pl:dat:m1	nazwisko	
-Bohuszowi	Bohusz	subst:sg:dat:m1	imię	
-Bohuszowi	Bohusz	subst:sg:dat:m1	nazwisko	
-Bohuszowie	Bohusz	subst:pl:nom:m1	imię	
-Bohuszowie	Bohusz	subst:pl:nom:m1	nazwisko	
-Bohuszowie	Bohusz	subst:pl:voc:m1	imię	
-Bohuszowie	Bohusz	subst:pl:voc:m1	nazwisko	
-Bohuszów	Bohusz	subst:pl:acc:m1	imię	
-Bohuszów	Bohusz	subst:pl:acc:m1	nazwisko	
-Bohuszów	Bohusz	subst:pl:gen:m1	imię	
-Bohuszów	Bohusz	subst:pl:gen:m1	nazwisko	
-Bohuszu	Bohusz	subst:sg:loc:m1	imię	
-Bohuszu	Bohusz	subst:sg:loc:m1	nazwisko	
-Bohuszu	Bohusz	subst:sg:voc:m1	imię	
-Bohuszu	Bohusz	subst:sg:voc:m1	nazwisko	
+Bohusza	Bohusz	subst:sg:acc:m1	imię|nazwisko	
+Bohusza	Bohusz	subst:sg:gen:m1	imię|nazwisko	
+Bohuszach	Bohusz	subst:pl:loc:m1	imię|nazwisko	
+Bohuszami	Bohusz	subst:pl:inst:m1	imię|nazwisko	
+Bohusz	Bohusz	subst:sg:nom:m1	imię|nazwisko	
+Bohusze	Bohusz	depr:pl:nom:m2	imię|nazwisko	
+Bohusze	Bohusz	depr:pl:voc:m2	imię|nazwisko	
+Bohusze	Bohusz	subst:pl:nom:m1	imię|nazwisko	
+Bohusze	Bohusz	subst:pl:voc:m1	imię|nazwisko	
+Bohuszem	Bohusz	subst:sg:inst:m1	imię|nazwisko	
+Bohuszom	Bohusz	subst:pl:dat:m1	imię|nazwisko	
+Bohuszowi	Bohusz	subst:sg:dat:m1	imię|nazwisko	
+Bohuszowie	Bohusz	subst:pl:nom:m1	imię|nazwisko	
+Bohuszowie	Bohusz	subst:pl:voc:m1	imię|nazwisko	
+Bohuszów	Bohusz	subst:pl:acc:m1	imię|nazwisko	
+Bohuszów	Bohusz	subst:pl:gen:m1	imię|nazwisko	
+Bohuszu	Bohusz	subst:sg:loc:m1	imię|nazwisko	
+Bohuszu	Bohusz	subst:sg:voc:m1	imię|nazwisko	
 Boileau	Boileau	depr:pl:nom:m2	nazwisko	
 Boileau	Boileau	depr:pl:voc:m2	nazwisko	
 Boileau	Boileau	subst:pl:acc:m1	nazwisko	
@@ -9388,22 +9274,22 @@ Botswany	Botswana	subst:pl:acc:f	geograficzna
 Botswany	Botswana	subst:pl:nom:f	geograficzna	
 Botswany	Botswana	subst:pl:voc:f	geograficzna	
 Botswany	Botswana	subst:sg:gen:f	geograficzna	
-Bourbona	Bourbon	subst:sg:acc:m1	członek_rodu	
-Bourbona	Bourbon	subst:sg:gen:m1	członek_rodu	
-Bourbonach	Bourbon	subst:pl:loc:m1	członek_rodu	
-Bourbonami	Bourbon	subst:pl:inst:m1	członek_rodu	
-Bourbon	Bourbon	subst:sg:nom:m1	członek_rodu	
-Bourbonem	Bourbon	subst:sg:inst:m1	członek_rodu	
-Bourbonie	Bourbon	subst:sg:loc:m1	członek_rodu	
-Bourbonie	Bourbon	subst:sg:voc:m1	członek_rodu	
-Bourbonom	Bourbon	subst:pl:dat:m1	członek_rodu	
-Bourbonowi	Bourbon	subst:sg:dat:m1	członek_rodu	
-Bourbonowie	Bourbon	subst:pl:nom:m1	członek_rodu	
-Bourbonowie	Bourbon	subst:pl:voc:m1	członek_rodu	
-Bourbonów	Bourbon	subst:pl:acc:m1	członek_rodu	
-Bourbonów	Bourbon	subst:pl:gen:m1	członek_rodu	
-Bourbony	Bourbon	depr:pl:nom:m2	członek_rodu	
-Bourbony	Bourbon	depr:pl:voc:m2	członek_rodu	
+Bourbona	Bourbon	subst:sg:acc:m1	członek rodu	
+Bourbona	Bourbon	subst:sg:gen:m1	członek rodu	
+Bourbonach	Bourbon	subst:pl:loc:m1	członek rodu	
+Bourbonami	Bourbon	subst:pl:inst:m1	członek rodu	
+Bourbon	Bourbon	subst:sg:nom:m1	członek rodu	
+Bourbonem	Bourbon	subst:sg:inst:m1	członek rodu	
+Bourbonie	Bourbon	subst:sg:loc:m1	członek rodu	
+Bourbonie	Bourbon	subst:sg:voc:m1	członek rodu	
+Bourbonom	Bourbon	subst:pl:dat:m1	członek rodu	
+Bourbonowi	Bourbon	subst:sg:dat:m1	członek rodu	
+Bourbonowie	Bourbon	subst:pl:nom:m1	członek rodu	
+Bourbonowie	Bourbon	subst:pl:voc:m1	członek rodu	
+Bourbonów	Bourbon	subst:pl:acc:m1	członek rodu	
+Bourbonów	Bourbon	subst:pl:gen:m1	członek rodu	
+Bourbony	Bourbon	depr:pl:nom:m2	członek rodu	
+Bourbony	Bourbon	depr:pl:voc:m2	członek rodu	
 Bourdelle’a	Bourdelle	subst:sg:acc:m1	nazwisko	
 Bourdelle’a	Bourdelle	subst:sg:gen:m1	nazwisko	
 Bourdelle’ach	Bourdelle	subst:pl:loc:m1	nazwisko	
@@ -12829,22 +12715,22 @@ Burakowskim	Burakowski	subst:pl:dat:m1	nazwisko
 Burakowskim	Burakowski	subst:sg:inst:m1	nazwisko	
 Burakowskim	Burakowski	subst:sg:loc:m1	nazwisko	
 Burakowskimi	Burakowski	subst:pl:inst:m1	nazwisko	
-Burbona	Burbon	subst:sg:acc:m1	członek_rodu	
-Burbona	Burbon	subst:sg:gen:m1	członek_rodu	
-Burbonach	Burbon	subst:pl:loc:m1	członek_rodu	
-Burbonami	Burbon	subst:pl:inst:m1	członek_rodu	
-Burbon	Burbon	subst:sg:nom:m1	członek_rodu	
-Burbonem	Burbon	subst:sg:inst:m1	członek_rodu	
-Burbonie	Burbon	subst:sg:loc:m1	członek_rodu	
-Burbonie	Burbon	subst:sg:voc:m1	członek_rodu	
-Burbonom	Burbon	subst:pl:dat:m1	członek_rodu	
-Burbonowi	Burbon	subst:sg:dat:m1	członek_rodu	
-Burbonowie	Burbon	subst:pl:nom:m1	członek_rodu	
-Burbonowie	Burbon	subst:pl:voc:m1	członek_rodu	
-Burbonów	Burbon	subst:pl:acc:m1	członek_rodu	
-Burbonów	Burbon	subst:pl:gen:m1	członek_rodu	
-Burbony	Burbon	depr:pl:nom:m2	członek_rodu	
-Burbony	Burbon	depr:pl:voc:m2	członek_rodu	
+Burbona	Burbon	subst:sg:acc:m1	członek rodu	
+Burbona	Burbon	subst:sg:gen:m1	członek rodu	
+Burbonach	Burbon	subst:pl:loc:m1	członek rodu	
+Burbonami	Burbon	subst:pl:inst:m1	członek rodu	
+Burbon	Burbon	subst:sg:nom:m1	członek rodu	
+Burbonem	Burbon	subst:sg:inst:m1	członek rodu	
+Burbonie	Burbon	subst:sg:loc:m1	członek rodu	
+Burbonie	Burbon	subst:sg:voc:m1	członek rodu	
+Burbonom	Burbon	subst:pl:dat:m1	członek rodu	
+Burbonowi	Burbon	subst:sg:dat:m1	członek rodu	
+Burbonowie	Burbon	subst:pl:nom:m1	członek rodu	
+Burbonowie	Burbon	subst:pl:voc:m1	członek rodu	
+Burbonów	Burbon	subst:pl:acc:m1	członek rodu	
+Burbonów	Burbon	subst:pl:gen:m1	członek rodu	
+Burbony	Burbon	depr:pl:nom:m2	członek rodu	
+Burbony	Burbon	depr:pl:voc:m2	członek rodu	
 Burcharda	Burchard	subst:sg:acc:m1	imię	
 Burcharda	Burchard	subst:sg:gen:m1	imię	
 Burchardach	Burchard	subst:pl:loc:m1	imię	

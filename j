@@ -2634,6 +2634,21 @@ jajca	jajca	subst:pl:voc:p3	pospolita	daw.
 jajcami	jajca	subst:pl:inst:p3	pospolita	daw.
 jajcom	jajca	subst:pl:dat:p3	pospolita	daw.
 jajec	jajca	subst:pl:gen:p3	pospolita	daw.
+jajcarniach	jajcarnia	subst:pl:loc:f	pospolita	
+jajcarnia	jajcarnia	subst:sg:nom:f	pospolita	
+jajcarniami	jajcarnia	subst:pl:inst:f	pospolita	
+jajcarnią	jajcarnia	subst:sg:inst:f	pospolita	
+jajcarnie	jajcarnia	subst:pl:acc:f	pospolita	
+jajcarnie	jajcarnia	subst:pl:nom:f	pospolita	
+jajcarnie	jajcarnia	subst:pl:voc:f	pospolita	
+jajcarnię	jajcarnia	subst:sg:acc:f	pospolita	
+jajcarni	jajcarnia	subst:pl:gen:f	pospolita	hom.
+jajcarni	jajcarnia	subst:sg:dat:f	pospolita	
+jajcarni	jajcarnia	subst:sg:gen:f	pospolita	
+jajcarni	jajcarnia	subst:sg:loc:f	pospolita	
+jajcarnio	jajcarnia	subst:sg:voc:f	pospolita	
+jajcarniom	jajcarnia	subst:pl:dat:f	pospolita	
+jajcarń	jajcarnia	subst:pl:gen:f	pospolita	char.
 jajcarscy	jajcarski	adj:pl:nom.voc:m1.p1:pos		pot.
 jajcarska	jajcarski	adj:sg:nom.voc:f:pos		pot.
 jajcarską	jajcarski	adj:sg:acc:f:pos		pot.
@@ -5769,6 +5784,20 @@ jankeskości	jankeskość	subst:sg:voc:f
 jankeskościom	jankeskość	subst:pl:dat:f		
 jankeskość	jankeskość	subst:sg:acc:f		
 jankeskość	jankeskość	subst:sg:nom:f		
+janosikowego	janosikowe	subst:sg:gen:n2	pospolita	
+janosikowe	janosikowe	subst:pl:acc:n2	pospolita	
+janosikowe	janosikowe	subst:pl:nom:n2	pospolita	
+janosikowe	janosikowe	subst:pl:voc:n2	pospolita	
+janosikowe	janosikowe	subst:sg:acc:n2	pospolita	
+janosikowe	janosikowe	subst:sg:nom:n2	pospolita	
+janosikowe	janosikowe	subst:sg:voc:n2	pospolita	
+janosikowemu	janosikowe	subst:sg:dat:n2	pospolita	
+janosikowych	janosikowe	subst:pl:gen:n2	pospolita	
+janosikowych	janosikowe	subst:pl:loc:n2	pospolita	
+janosikowymi	janosikowe	subst:pl:inst:n2	pospolita	
+janosikowym	janosikowe	subst:pl:dat:n2	pospolita	
+janosikowym	janosikowe	subst:sg:inst:n2	pospolita	
+janosikowym	janosikowe	subst:sg:loc:n2	pospolita	
 janosikowo	janosikowo	adv:pos		
 janosikowa	janosikowy	adj:sg:nom.voc:f:pos		
 janosikową	janosikowy	adj:sg:acc:f:pos		
@@ -6172,6 +6201,20 @@ japiszonów	japiszon	subst:pl:acc:m1	pospolita	pot.
 japiszonów	japiszon	subst:pl:gen:m1	pospolita	pot.
 japiszony	japiszon	depr:pl:nom:m2	pospolita	pot.
 japiszony	japiszon	depr:pl:voc:m2	pospolita	pot.
+japiszonce	japiszonka	subst:sg:dat:f	pospolita	
+japiszonce	japiszonka	subst:sg:loc:f	pospolita	
+japiszonek	japiszonka	subst:pl:gen:f	pospolita	
+japiszonkach	japiszonka	subst:pl:loc:f	pospolita	
+japiszonka	japiszonka	subst:sg:nom:f	pospolita	
+japiszonkami	japiszonka	subst:pl:inst:f	pospolita	
+japiszonką	japiszonka	subst:sg:inst:f	pospolita	
+japiszonkę	japiszonka	subst:sg:acc:f	pospolita	
+japiszonki	japiszonka	subst:pl:acc:f	pospolita	
+japiszonki	japiszonka	subst:pl:nom:f	pospolita	
+japiszonki	japiszonka	subst:pl:voc:f	pospolita	
+japiszonki	japiszonka	subst:sg:gen:f	pospolita	
+japiszonko	japiszonka	subst:sg:voc:f	pospolita	
+japiszonkom	japiszonka	subst:pl:dat:f	pospolita	
 japokach	japok	subst:pl:loc:m2	pospolita	
 japoka	japok	subst:sg:acc:m2	pospolita	
 japoka	japok	subst:sg:gen:m2	pospolita	
@@ -14069,6 +14112,20 @@ jazzowymi	jazzowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jazzowym	jazzowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jazzowym	jazzowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jazzowym	jazzowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+jazzrockach	jazzrock	subst:pl:loc:m2	pospolita	
+jazzrocka	jazzrock	subst:sg:acc:m2	pospolita	
+jazzrocka	jazzrock	subst:sg:gen:m2	pospolita	
+jazzrockami	jazzrock	subst:pl:inst:m2	pospolita	
+jazzrockiem	jazzrock	subst:sg:inst:m2	pospolita	
+jazzrocki	jazzrock	subst:pl:acc:m2	pospolita	
+jazzrocki	jazzrock	subst:pl:nom:m2	pospolita	
+jazzrocki	jazzrock	subst:pl:voc:m2	pospolita	
+jazzrock	jazzrock	subst:sg:nom:m2	pospolita	
+jazzrockom	jazzrock	subst:pl:dat:m2	pospolita	
+jazzrockowi	jazzrock	subst:sg:dat:m2	pospolita	
+jazzrocków	jazzrock	subst:pl:gen:m2	pospolita	
+jazzrocku	jazzrock	subst:sg:loc:m2	pospolita	
+jazzrocku	jazzrock	subst:sg:voc:m2	pospolita	
 jazz-rockach	jazz-rock	subst:pl:loc:m2	pospolita	pot.
 jazz-rockach	jazz-rock	subst:pl:loc:m3	pospolita	
 jazz-rocka	jazz-rock	subst:sg:acc:m2	pospolita	pot.
@@ -14173,6 +14230,30 @@ jazz-rockowymi	jazz-rockowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jazz-rockowym	jazz-rockowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jazz-rockowym	jazz-rockowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jazz-rockowym	jazz-rockowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+jazzy	jazzy	adja		pot.
+jazzy	jazzy	adj:pl:acc:m1.p1:pos		pot.
+jazzy	jazzy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		pot.
+jazzy	jazzy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+jazzy	jazzy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+jazzy	jazzy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+jazzy	jazzy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+jazzy	jazzy	adj:pl:nom.voc:m1.p1:pos		pot.
+jazzy	jazzy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		pot.
+jazzy	jazzy	adj:sg:acc:f:pos		pot.
+jazzy	jazzy	adj:sg:acc:m1.m2:pos		pot.
+jazzy	jazzy	adj:sg:acc:m3:pos		pot.
+jazzy	jazzy	adj:sg:acc:n1.n2:pos		pot.
+jazzy	jazzy	adj:sg:dat:f:pos		pot.
+jazzy	jazzy	adj:sg:dat:m1.m2.m3.n1.n2:pos		pot.
+jazzy	jazzy	adj:sg:gen:f:pos		pot.
+jazzy	jazzy	adj:sg:gen:m1.m2.m3.n1.n2:pos		pot.
+jazzy	jazzy	adj:sg:inst:f:pos		pot.
+jazzy	jazzy	adj:sg:inst:m1.m2.m3.n1.n2:pos		pot.
+jazzy	jazzy	adj:sg:loc:f:pos		pot.
+jazzy	jazzy	adj:sg:loc:m1.m2.m3.n1.n2:pos		pot.
+jazzy	jazzy	adj:sg:nom.voc:f:pos		pot.
+jazzy	jazzy	adj:sg:nom.voc:m1.m2.m3:pos		pot.
+jazzy	jazzy	adj:sg:nom.voc:n1.n2:pos		pot.
 jaziach	jaź	subst:pl:loc:m2	pospolita	
 jazia	jaź	subst:sg:acc:m2	pospolita	
 jazia	jaź	subst:sg:gen:m2	pospolita	
@@ -15604,6 +15685,20 @@ jedenastoklasiście	jedenastoklasista	subst:sg:dat:m1	pospolita
 jedenastoklasiście	jedenastoklasista	subst:sg:loc:m1	pospolita	
 jedenastoklasiści	jedenastoklasista	subst:pl:nom:m1	pospolita	
 jedenastoklasiści	jedenastoklasista	subst:pl:voc:m1	pospolita	
+jedenastoklasistce	jedenastoklasistka	subst:sg:dat:f	pospolita	
+jedenastoklasistce	jedenastoklasistka	subst:sg:loc:f	pospolita	
+jedenastoklasistek	jedenastoklasistka	subst:pl:gen:f	pospolita	
+jedenastoklasistkach	jedenastoklasistka	subst:pl:loc:f	pospolita	
+jedenastoklasistka	jedenastoklasistka	subst:sg:nom:f	pospolita	
+jedenastoklasistkami	jedenastoklasistka	subst:pl:inst:f	pospolita	
+jedenastoklasistką	jedenastoklasistka	subst:sg:inst:f	pospolita	
+jedenastoklasistkę	jedenastoklasistka	subst:sg:acc:f	pospolita	
+jedenastoklasistki	jedenastoklasistka	subst:pl:acc:f	pospolita	
+jedenastoklasistki	jedenastoklasistka	subst:pl:nom:f	pospolita	
+jedenastoklasistki	jedenastoklasistka	subst:pl:voc:f	pospolita	
+jedenastoklasistki	jedenastoklasistka	subst:sg:gen:f	pospolita	
+jedenastoklasistko	jedenastoklasistka	subst:sg:voc:f	pospolita	
+jedenastoklasistkom	jedenastoklasistka	subst:pl:dat:f	pospolita	
 jedenastokrotnie	jedenastokrotnie	adv:pos		
 jedenastokrotnościach	jedenastokrotność	subst:pl:loc:f		
 jedenastokrotnościami	jedenastokrotność	subst:pl:inst:f		
@@ -17087,6 +17182,20 @@ jednobrzmiennymi	jednobrzmienny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
 jednobrzmiennym	jednobrzmienny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
 jednobrzmiennym	jednobrzmienny	adj:sg:inst:m1.m2.m3.n1.n2:pos		daw.
 jednobrzmiennym	jednobrzmienny	adj:sg:loc:m1.m2.m3.n1.n2:pos		daw.
+jednocentówce	jednocentówka	subst:sg:dat:f	pospolita	
+jednocentówce	jednocentówka	subst:sg:loc:f	pospolita	
+jednocentówek	jednocentówka	subst:pl:gen:f	pospolita	
+jednocentówkach	jednocentówka	subst:pl:loc:f	pospolita	
+jednocentówka	jednocentówka	subst:sg:nom:f	pospolita	
+jednocentówkami	jednocentówka	subst:pl:inst:f	pospolita	
+jednocentówką	jednocentówka	subst:sg:inst:f	pospolita	
+jednocentówkę	jednocentówka	subst:sg:acc:f	pospolita	
+jednocentówki	jednocentówka	subst:pl:acc:f	pospolita	
+jednocentówki	jednocentówka	subst:pl:nom:f	pospolita	
+jednocentówki	jednocentówka	subst:pl:voc:f	pospolita	
+jednocentówki	jednocentówka	subst:sg:gen:f	pospolita	
+jednocentówko	jednocentówka	subst:sg:voc:f	pospolita	
+jednocentówkom	jednocentówka	subst:pl:dat:f	pospolita	
 jednochodziec	jednochodziec	subst:sg:nom:m2	pospolita	
 jednochodźcach	jednochodziec	subst:pl:loc:m2	pospolita	
 jednochodźca	jednochodziec	subst:sg:acc:m2	pospolita	
@@ -17980,6 +18089,20 @@ jednogatunkowymi	jednogatunkowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jednogatunkowym	jednogatunkowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jednogatunkowym	jednogatunkowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jednogatunkowym	jednogatunkowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+jednogłosach	jednogłos	subst:pl:loc:m3	pospolita	
+jednogłosami	jednogłos	subst:pl:inst:m3	pospolita	
+jednogłosem	jednogłos	subst:sg:inst:m3	pospolita	
+jednogłosie	jednogłos	subst:sg:loc:m3	pospolita	
+jednogłosie	jednogłos	subst:sg:voc:m3	pospolita	
+jednogłos	jednogłos	subst:sg:acc:m3	pospolita	
+jednogłos	jednogłos	subst:sg:nom:m3	pospolita	
+jednogłosom	jednogłos	subst:pl:dat:m3	pospolita	
+jednogłosowi	jednogłos	subst:sg:dat:m3	pospolita	
+jednogłosów	jednogłos	subst:pl:gen:m3	pospolita	
+jednogłosu	jednogłos	subst:sg:gen:m3	pospolita	
+jednogłosy	jednogłos	subst:pl:acc:m3	pospolita	
+jednogłosy	jednogłos	subst:pl:nom:m3	pospolita	
+jednogłosy	jednogłos	subst:pl:voc:m3	pospolita	
 jednogłosce	jednogłoska	subst:sg:dat:f	pospolita	daw.
 jednogłosce	jednogłoska	subst:sg:loc:f	pospolita	daw.
 jednogłosek	jednogłoska	subst:pl:gen:f	pospolita	daw.
@@ -27187,6 +27310,20 @@ jełopów	jełopa:s3	subst:pl:gen:m1	pospolita	pogard.
 jełopy	jełopa:s3	depr:pl:nom:m2	pospolita	pogard.
 jełopy	jełopa:s3	depr:pl:voc:m2	pospolita	pogard.
 jełopy	jełopa:s3	subst:sg:gen:m1	pospolita	pogard.
+jełopce	jełopka	subst:sg:dat:f	pospolita	pogard.
+jełopce	jełopka	subst:sg:loc:f	pospolita	pogard.
+jełopek	jełopka	subst:pl:gen:f	pospolita	pogard.
+jełopkach	jełopka	subst:pl:loc:f	pospolita	pogard.
+jełopka	jełopka	subst:sg:nom:f	pospolita	pogard.
+jełopkami	jełopka	subst:pl:inst:f	pospolita	pogard.
+jełopką	jełopka	subst:sg:inst:f	pospolita	pogard.
+jełopkę	jełopka	subst:sg:acc:f	pospolita	pogard.
+jełopki	jełopka	subst:pl:acc:f	pospolita	pogard.
+jełopki	jełopka	subst:pl:nom:f	pospolita	pogard.
+jełopki	jełopka	subst:pl:voc:f	pospolita	pogard.
+jełopki	jełopka	subst:sg:gen:f	pospolita	pogard.
+jełopko	jełopka	subst:sg:voc:f	pospolita	pogard.
+jełopkom	jełopka	subst:pl:dat:f	pospolita	pogard.
 jemeńscy	jemeński	adj:pl:nom.voc:m1.p1:pos		
 jemeńska	jemeński	adj:sg:nom.voc:f:pos		
 jemeńską	jemeński	adj:sg:acc:f:pos		
@@ -29166,6 +29303,20 @@ jeśpanu	jeśpan	subst:sg:dat:m1	pospolita	daw.
 jeśpanu	jeśpan	subst:sg:loc:m1	pospolita	daw.
 jeśpany	jeśpan	depr:pl:nom:m2	pospolita	daw.
 jeśpany	jeśpan	depr:pl:voc:m2	pospolita	daw.
+jetlagach	jetlag	subst:pl:loc:m2	pospolita	
+jetlaga	jetlag	subst:sg:acc:m2	pospolita	
+jetlaga	jetlag	subst:sg:gen:m2	pospolita	
+jetlagami	jetlag	subst:pl:inst:m2	pospolita	
+jetlagiem	jetlag	subst:sg:inst:m2	pospolita	
+jetlagi	jetlag	subst:pl:acc:m2	pospolita	
+jetlagi	jetlag	subst:pl:nom:m2	pospolita	
+jetlagi	jetlag	subst:pl:voc:m2	pospolita	
+jetlag	jetlag	subst:sg:nom:m2	pospolita	
+jetlagom	jetlag	subst:pl:dat:m2	pospolita	
+jetlagowi	jetlag	subst:sg:dat:m2	pospolita	
+jetlagów	jetlag	subst:pl:gen:m2	pospolita	
+jetlagu	jetlag	subst:sg:loc:m2	pospolita	
+jetlagu	jetlag	subst:sg:voc:m2	pospolita	
 jezdniach	jezdnia	subst:pl:loc:f	pospolita	
 jezdnia	jezdnia	subst:sg:nom:f	pospolita	
 jezdniami	jezdnia	subst:pl:inst:f	pospolita	
@@ -32141,6 +32292,22 @@ jidyszowymi	jidyszowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jidyszowym	jidyszowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jidyszowym	jidyszowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jidyszowym	jidyszowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+jidyszystach	jidyszysta	subst:pl:loc:m1	pospolita	
+jidyszysta	jidyszysta	subst:sg:nom:m1	pospolita	
+jidyszystami	jidyszysta	subst:pl:inst:m1	pospolita	
+jidyszystą	jidyszysta	subst:sg:inst:m1	pospolita	
+jidyszystę	jidyszysta	subst:sg:acc:m1	pospolita	
+jidyszysto	jidyszysta	subst:sg:voc:m1	pospolita	
+jidyszystom	jidyszysta	subst:pl:dat:m1	pospolita	
+jidyszystów	jidyszysta	subst:pl:acc:m1	pospolita	
+jidyszystów	jidyszysta	subst:pl:gen:m1	pospolita	
+jidyszysty	jidyszysta	depr:pl:nom:m2	pospolita	
+jidyszysty	jidyszysta	depr:pl:voc:m2	pospolita	
+jidyszysty	jidyszysta	subst:sg:gen:m1	pospolita	
+jidyszyście	jidyszysta	subst:sg:dat:m1	pospolita	
+jidyszyście	jidyszysta	subst:sg:loc:m1	pospolita	
+jidyszyści	jidyszysta	subst:pl:nom:m1	pospolita	
+jidyszyści	jidyszysta	subst:pl:voc:m1	pospolita	
 jidyszyzmach	jidyszyzm	subst:pl:loc:m3	pospolita	
 jidyszyzmami	jidyszyzm	subst:pl:inst:m3	pospolita	
 jidyszyzmem	jidyszyzm	subst:sg:inst:m3	pospolita	
@@ -35524,6 +35691,20 @@ judaistycznymi	judaistyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 judaistycznym	judaistyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 judaistycznym	judaistyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 judaistycznym	judaistyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+judaistyce	judaistyka	subst:sg:dat:f	pospolita	
+judaistyce	judaistyka	subst:sg:loc:f	pospolita	
+judaistykach	judaistyka	subst:pl:loc:f	pospolita	
+judaistyka	judaistyka	subst:sg:nom:f	pospolita	
+judaistykami	judaistyka	subst:pl:inst:f	pospolita	
+judaistyką	judaistyka	subst:sg:inst:f	pospolita	
+judaistykę	judaistyka	subst:sg:acc:f	pospolita	
+judaistyki	judaistyka	subst:pl:acc:f	pospolita	
+judaistyki	judaistyka	subst:pl:nom:f	pospolita	
+judaistyki	judaistyka	subst:pl:voc:f	pospolita	
+judaistyki	judaistyka	subst:sg:gen:f	pospolita	
+judaistyk	judaistyka	subst:pl:gen:f	pospolita	
+judaistyko	judaistyka	subst:sg:voc:f	pospolita	
+judaistykom	judaistyka	subst:pl:dat:f	pospolita	
 judaizacjach	judaizacja	subst:pl:loc:f	pospolita	
 judaizacja	judaizacja	subst:sg:nom:f	pospolita	
 judaizacjami	judaizacja	subst:pl:inst:f	pospolita	
@@ -35982,6 +36163,20 @@ judo	judo	subst:sg:inst:n2	pospolita
 judo	judo	subst:sg:loc:n2	pospolita	
 judo	judo	subst:sg:nom:n2	pospolita	
 judo	judo	subst:sg:voc:n2	pospolita	
+judoczce	judoczka	subst:sg:dat:f	pospolita	
+judoczce	judoczka	subst:sg:loc:f	pospolita	
+judoczek	judoczka	subst:pl:gen:f	pospolita	
+judoczkach	judoczka	subst:pl:loc:f	pospolita	
+judoczka	judoczka	subst:sg:nom:f	pospolita	
+judoczkami	judoczka	subst:pl:inst:f	pospolita	
+judoczką	judoczka	subst:sg:inst:f	pospolita	
+judoczkę	judoczka	subst:sg:acc:f	pospolita	
+judoczki	judoczka	subst:pl:acc:f	pospolita	
+judoczki	judoczka	subst:pl:nom:f	pospolita	
+judoczki	judoczka	subst:pl:voc:f	pospolita	
+judoczki	judoczka	subst:sg:gen:f	pospolita	
+judoczko	judoczka	subst:sg:voc:f	pospolita	
+judoczkom	judoczka	subst:pl:dat:f	pospolita	
 judofilach	judofil	subst:pl:loc:m1	pospolita	
 judofilach	judofil	subst:pl:loc:m1	pospolita	rzad.
 judofila	judofil	subst:sg:acc:m1	pospolita	
@@ -36068,6 +36263,21 @@ judofilstwo	judofilstwo	subst:sg:nom:n2	pospolita
 judofilstwo	judofilstwo	subst:sg:voc:n2	pospolita	
 judofilstwom	judofilstwo	subst:pl:dat:n2	pospolita	
 judofilstwu	judofilstwo	subst:sg:dat:n2	pospolita	
+judofobiach	judofobia	subst:pl:loc:f	pospolita	
+judofobia	judofobia	subst:sg:nom:f	pospolita	
+judofobiami	judofobia	subst:pl:inst:f	pospolita	
+judofobią	judofobia	subst:sg:inst:f	pospolita	
+judofobie	judofobia	subst:pl:acc:f	pospolita	
+judofobie	judofobia	subst:pl:nom:f	pospolita	
+judofobie	judofobia	subst:pl:voc:f	pospolita	
+judofobię	judofobia	subst:sg:acc:f	pospolita	
+judofobii	judofobia	subst:pl:gen:f	pospolita	hom.
+judofobii	judofobia	subst:sg:dat:f	pospolita	
+judofobii	judofobia	subst:sg:gen:f	pospolita	
+judofobii	judofobia	subst:sg:loc:f	pospolita	
+judofobij	judofobia	subst:pl:gen:f	pospolita	arch.|char.
+judofobio	judofobia	subst:sg:voc:f	pospolita	
+judofobiom	judofobia	subst:pl:dat:f	pospolita	
 judocy	judok	subst:pl:nom:m1	pospolita	sport.
 judocy	judok	subst:pl:voc:m1	pospolita	sport.
 judokach	judok	subst:pl:loc:m1	pospolita	sport.
@@ -39284,8 +39494,8 @@ juszyłyście	juszyć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
 juszyłyśmy	juszyć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
 juszymy	juszyć	fin:pl:pri:imperf		daw.
 juszysz	juszyć	fin:sg:sec:imperf		daw.
-juści	juści	qub		gwar.
-juściż	juściż	qub		przest.
+juści	juści	interj		gwar.
+juściż	juściż	interj		przest.
 jucie	jut	subst:sg:loc:m3	pospolita	
 jucie	jut	subst:sg:voc:m3	pospolita	
 jutach	jut	subst:pl:loc:m3	pospolita	
@@ -39672,6 +39882,30 @@ juwenalia	juwenalia	subst:pl:voc:p3	pospolita
 juwenaliami	juwenalia	subst:pl:inst:p3	pospolita	
 juwenaliom	juwenalia	subst:pl:dat:p3	pospolita	
 juwenaliów	juwenalia	subst:pl:gen:p3	pospolita	
+juwenaliowa	juwenaliowy	adj:sg:nom.voc:f:pos		
+juwenaliową	juwenaliowy	adj:sg:acc:f:pos		
+juwenaliową	juwenaliowy	adj:sg:inst:f:pos		
+juwenaliowego	juwenaliowy	adj:sg:acc:m1.m2:pos		
+juwenaliowego	juwenaliowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+juwenaliowej	juwenaliowy	adj:sg:dat:f:pos		
+juwenaliowej	juwenaliowy	adj:sg:gen:f:pos		
+juwenaliowej	juwenaliowy	adj:sg:loc:f:pos		
+juwenaliowe	juwenaliowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+juwenaliowe	juwenaliowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+juwenaliowe	juwenaliowy	adj:sg:acc:n1.n2:pos		
+juwenaliowe	juwenaliowy	adj:sg:nom.voc:n1.n2:pos		
+juwenaliowemu	juwenaliowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+juwenaliowi	juwenaliowy	adj:pl:nom.voc:m1.p1:pos		
+juwenaliowo	juwenaliowy	adja		
+juwenaliowych	juwenaliowy	adj:pl:acc:m1.p1:pos		
+juwenaliowych	juwenaliowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+juwenaliowych	juwenaliowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+juwenaliowy	juwenaliowy	adj:sg:acc:m3:pos		
+juwenaliowy	juwenaliowy	adj:sg:nom.voc:m1.m2.m3:pos		
+juwenaliowymi	juwenaliowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+juwenaliowym	juwenaliowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+juwenaliowym	juwenaliowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+juwenaliowym	juwenaliowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 juwenalnościach	juwenalność	subst:pl:loc:f		
 juwenalnościami	juwenalność	subst:pl:inst:f		
 juwenalnością	juwenalność	subst:sg:inst:f		

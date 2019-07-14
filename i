@@ -10347,6 +10347,22 @@ immobilizujesz	immobilizować	fin:sg:sec:imperf
 immobilizuję	immobilizować	fin:sg:pri:imperf		
 immobilizuj	immobilizować	impt:sg:sec:imperf		
 immobilizujmy	immobilizować	impt:pl:pri:imperf		
+immoralistach	immoralista	subst:pl:loc:m1	pospolita	
+immoralista	immoralista	subst:sg:nom:m1	pospolita	
+immoralistami	immoralista	subst:pl:inst:m1	pospolita	
+immoralistą	immoralista	subst:sg:inst:m1	pospolita	
+immoralistę	immoralista	subst:sg:acc:m1	pospolita	
+immoralisto	immoralista	subst:sg:voc:m1	pospolita	
+immoralistom	immoralista	subst:pl:dat:m1	pospolita	
+immoralistów	immoralista	subst:pl:acc:m1	pospolita	
+immoralistów	immoralista	subst:pl:gen:m1	pospolita	
+immoralisty	immoralista	depr:pl:nom:m2	pospolita	
+immoralisty	immoralista	depr:pl:voc:m2	pospolita	
+immoralisty	immoralista	subst:sg:gen:m1	pospolita	
+immoraliście	immoralista	subst:sg:dat:m1	pospolita	
+immoraliście	immoralista	subst:sg:loc:m1	pospolita	
+immoraliści	immoralista	subst:pl:nom:m1	pospolita	
+immoraliści	immoralista	subst:pl:voc:m1	pospolita	
 immoralizmach	immoralizm	subst:pl:loc:m3	pospolita	
 immoralizmami	immoralizm	subst:pl:inst:m3	pospolita	
 immoralizmem	immoralizm	subst:sg:inst:m3	pospolita	
@@ -12102,6 +12118,20 @@ implantologii	implantologia	subst:sg:loc:f	pospolita
 implantologij	implantologia	subst:pl:gen:f	pospolita	arch.|char.
 implantologio	implantologia	subst:sg:voc:f	pospolita	
 implantologiom	implantologia	subst:pl:dat:f	pospolita	
+implantoprotetyce	implantoprotetyka	subst:sg:dat:f	pospolita	
+implantoprotetyce	implantoprotetyka	subst:sg:loc:f	pospolita	
+implantoprotetykach	implantoprotetyka	subst:pl:loc:f	pospolita	
+implantoprotetyka	implantoprotetyka	subst:sg:nom:f	pospolita	
+implantoprotetykami	implantoprotetyka	subst:pl:inst:f	pospolita	
+implantoprotetyką	implantoprotetyka	subst:sg:inst:f	pospolita	
+implantoprotetykę	implantoprotetyka	subst:sg:acc:f	pospolita	
+implantoprotetyki	implantoprotetyka	subst:pl:acc:f	pospolita	
+implantoprotetyki	implantoprotetyka	subst:pl:nom:f	pospolita	
+implantoprotetyki	implantoprotetyka	subst:pl:voc:f	pospolita	
+implantoprotetyki	implantoprotetyka	subst:sg:gen:f	pospolita	
+implantoprotetyk	implantoprotetyka	subst:pl:gen:f	pospolita	
+implantoprotetyko	implantoprotetyka	subst:sg:voc:f	pospolita	
+implantoprotetykom	implantoprotetyka	subst:pl:dat:f	pospolita	
 implantować	implantować	inf:imperf		
 implantowaliby	implantować	cond:pl:m1.p1:ter:imperf		
 implantowalibyście	implantować	cond:pl:m1.p1:sec:imperf		
@@ -13096,6 +13126,20 @@ impostury	impostura	subst:pl:voc:f	pospolita	przest.
 impostury	impostura	subst:sg:gen:f	pospolita	przest.
 imposturze	impostura	subst:sg:dat:f	pospolita	przest.
 imposturze	impostura	subst:sg:loc:f	pospolita	przest.
+imposybilizmach	imposybilizm	subst:pl:loc:m3	pospolita	
+imposybilizmami	imposybilizm	subst:pl:inst:m3	pospolita	
+imposybilizmem	imposybilizm	subst:sg:inst:m3	pospolita	
+imposybilizmie	imposybilizm	subst:sg:loc:m3	pospolita	
+imposybilizmie	imposybilizm	subst:sg:voc:m3	pospolita	
+imposybilizm	imposybilizm	subst:sg:acc:m3	pospolita	
+imposybilizm	imposybilizm	subst:sg:nom:m3	pospolita	
+imposybilizmom	imposybilizm	subst:pl:dat:m3	pospolita	
+imposybilizmowi	imposybilizm	subst:sg:dat:m3	pospolita	
+imposybilizmów	imposybilizm	subst:pl:gen:m3	pospolita	
+imposybilizmu	imposybilizm	subst:sg:gen:m3	pospolita	
+imposybilizmy	imposybilizm	subst:pl:acc:m3	pospolita	
+imposybilizmy	imposybilizm	subst:pl:nom:m3	pospolita	
+imposybilizmy	imposybilizm	subst:pl:voc:m3	pospolita	
 impotencjach	impotencja	subst:pl:loc:f	pospolita	
 impotencja	impotencja	subst:sg:nom:f	pospolita	
 impotencjami	impotencja	subst:pl:inst:f	pospolita	
@@ -13220,6 +13264,20 @@ impozycji	impozycja	subst:sg:loc:f	pospolita	przest.
 impozycjo	impozycja	subst:sg:voc:f	pospolita	przest.
 impozycjom	impozycja	subst:pl:dat:f	pospolita	przest.
 impozycyj	impozycja	subst:pl:gen:f	pospolita	arch.|char.|przest.
+imprach	impra	subst:pl:loc:f	pospolita	
+impra	impra	subst:sg:nom:f	pospolita	
+imprami	impra	subst:pl:inst:f	pospolita	
+imprą	impra	subst:sg:inst:f	pospolita	
+imprę	impra	subst:sg:acc:f	pospolita	
+impr	impra	subst:pl:gen:f	pospolita	
+impro	impra	subst:sg:voc:f	pospolita	
+improm	impra	subst:pl:dat:f	pospolita	
+impry	impra	subst:pl:acc:f	pospolita	
+impry	impra	subst:pl:nom:f	pospolita	
+impry	impra	subst:pl:voc:f	pospolita	
+impry	impra	subst:sg:gen:f	pospolita	
+imprze	impra	subst:sg:dat:f	pospolita	
+imprze	impra	subst:sg:loc:f	pospolita	
 impregnacjach	impregnacja	subst:pl:loc:f	pospolita	
 impregnacja	impregnacja	subst:sg:nom:f	pospolita	
 impregnacjami	impregnacja	subst:pl:inst:f	pospolita	
@@ -16075,6 +16133,30 @@ indianistki	indianistka	subst:pl:voc:f	pospolita
 indianistki	indianistka	subst:sg:gen:f	pospolita	
 indianistko	indianistka	subst:sg:voc:f	pospolita	
 indianistkom	indianistka	subst:pl:dat:f	pospolita	
+indianistyczna	indianistyczny	adj:sg:nom.voc:f:pos		
+indianistyczną	indianistyczny	adj:sg:acc:f:pos		
+indianistyczną	indianistyczny	adj:sg:inst:f:pos		
+indianistycznego	indianistyczny	adj:sg:acc:m1.m2:pos		
+indianistycznego	indianistyczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+indianistyczne	indianistyczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+indianistyczne	indianistyczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+indianistyczne	indianistyczny	adj:sg:acc:n1.n2:pos		
+indianistyczne	indianistyczny	adj:sg:nom.voc:n1.n2:pos		
+indianistycznej	indianistyczny	adj:sg:dat:f:pos		
+indianistycznej	indianistyczny	adj:sg:gen:f:pos		
+indianistycznej	indianistyczny	adj:sg:loc:f:pos		
+indianistycznemu	indianistyczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+indianistyczni	indianistyczny	adj:pl:nom.voc:m1.p1:pos		
+indianistyczno	indianistyczny	adja		
+indianistycznych	indianistyczny	adj:pl:acc:m1.p1:pos		
+indianistycznych	indianistyczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+indianistycznych	indianistyczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+indianistyczny	indianistyczny	adj:sg:acc:m3:pos		
+indianistyczny	indianistyczny	adj:sg:nom.voc:m1.m2.m3:pos		
+indianistycznymi	indianistyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+indianistycznym	indianistyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+indianistycznym	indianistyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+indianistycznym	indianistyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 indianistyce	indianistyka	subst:sg:dat:f	pospolita	
 indianistyce	indianistyka	subst:sg:loc:f	pospolita	
 indianistykach	indianistyka	subst:pl:loc:f	pospolita	
@@ -16669,6 +16751,30 @@ indologii	indologia	subst:sg:loc:f	pospolita
 indologij	indologia	subst:pl:gen:f	pospolita	arch.|char.
 indologio	indologia	subst:sg:voc:f	pospolita	
 indologiom	indologia	subst:pl:dat:f	pospolita	
+indologiczna	indologiczny	adj:sg:nom.voc:f:pos		
+indologiczną	indologiczny	adj:sg:acc:f:pos		
+indologiczną	indologiczny	adj:sg:inst:f:pos		
+indologicznego	indologiczny	adj:sg:acc:m1.m2:pos		
+indologicznego	indologiczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+indologiczne	indologiczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+indologiczne	indologiczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+indologiczne	indologiczny	adj:sg:acc:n1.n2:pos		
+indologiczne	indologiczny	adj:sg:nom.voc:n1.n2:pos		
+indologicznej	indologiczny	adj:sg:dat:f:pos		
+indologicznej	indologiczny	adj:sg:gen:f:pos		
+indologicznej	indologiczny	adj:sg:loc:f:pos		
+indologicznemu	indologiczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+indologiczni	indologiczny	adj:pl:nom.voc:m1.p1:pos		
+indologiczno	indologiczny	adja		
+indologicznych	indologiczny	adj:pl:acc:m1.p1:pos		
+indologicznych	indologiczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+indologicznych	indologiczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+indologiczny	indologiczny	adj:sg:acc:m3:pos		
+indologiczny	indologiczny	adj:sg:nom.voc:m1.m2.m3:pos		
+indologicznymi	indologiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+indologicznym	indologiczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+indologicznym	indologiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+indologicznym	indologiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 indonezyjscy	indonezyjski	adj:pl:nom.voc:m1.p1:pos		
 indonezyjska	indonezyjski	adj:sg:nom.voc:f:pos		
 indonezyjską	indonezyjski	adj:sg:acc:f:pos		
@@ -17212,6 +17318,21 @@ industrii	industria	subst:sg:loc:f	pospolita	przest.
 industrio	industria	subst:sg:voc:f	pospolita	przest.
 industriom	industria	subst:pl:dat:f	pospolita	przest.
 industryj	industria	subst:pl:gen:f	pospolita	arch.|char.|przest.
+industrialach	industrial	subst:pl:loc:m3	pospolita	
+industrialami	industrial	subst:pl:inst:m3	pospolita	
+industriale	industrial	subst:pl:acc:m3	pospolita	
+industriale	industrial	subst:pl:nom:m3	pospolita	
+industriale	industrial	subst:pl:voc:m3	pospolita	
+industrialem	industrial	subst:sg:inst:m3	pospolita	
+industriali	industrial	subst:pl:gen:m3	pospolita	
+industrial	industrial	subst:sg:acc:m3	pospolita	
+industrial	industrial	subst:sg:nom:m3	pospolita	
+industrialom	industrial	subst:pl:dat:m3	pospolita	
+industrialowi	industrial	subst:sg:dat:m3	pospolita	
+industrialów	industrial	subst:pl:gen:m3	pospolita	
+industrialu	industrial	subst:sg:gen:m3	pospolita	
+industrialu	industrial	subst:sg:loc:m3	pospolita	
+industrialu	industrial	subst:sg:voc:m3	pospolita	
 industrialistycznościach	industrialistyczność	subst:pl:loc:f		
 industrialistycznościami	industrialistyczność	subst:pl:inst:f		
 industrialistycznością	industrialistyczność	subst:sg:inst:f		
@@ -21328,6 +21449,21 @@ inhalatorium	inhalatorium	subst:sg:inst:n2	pospolita
 inhalatorium	inhalatorium	subst:sg:loc:n2	pospolita	
 inhalatorium	inhalatorium	subst:sg:nom:n2	pospolita	
 inhalatorium	inhalatorium	subst:sg:voc:n2	pospolita	
+inhalatorniach	inhalatornia	subst:pl:loc:f	pospolita	
+inhalatornia	inhalatornia	subst:sg:nom:f	pospolita	
+inhalatorniami	inhalatornia	subst:pl:inst:f	pospolita	
+inhalatornią	inhalatornia	subst:sg:inst:f	pospolita	
+inhalatornie	inhalatornia	subst:pl:acc:f	pospolita	
+inhalatornie	inhalatornia	subst:pl:nom:f	pospolita	
+inhalatornie	inhalatornia	subst:pl:voc:f	pospolita	
+inhalatornię	inhalatornia	subst:sg:acc:f	pospolita	
+inhalatorni	inhalatornia	subst:pl:gen:f	pospolita	hom.
+inhalatorni	inhalatornia	subst:sg:dat:f	pospolita	
+inhalatorni	inhalatornia	subst:sg:gen:f	pospolita	
+inhalatorni	inhalatornia	subst:sg:loc:f	pospolita	
+inhalatornio	inhalatornia	subst:sg:voc:f	pospolita	
+inhalatorniom	inhalatornia	subst:pl:dat:f	pospolita	
+inhalatorń	inhalatornia	subst:pl:gen:f	pospolita	char.
 inhalować	inhalować	inf:imperf		
 inhalowaliby	inhalować	cond:pl:m1.p1:ter:imperf		
 inhalowalibyście	inhalować	cond:pl:m1.p1:sec:imperf		
@@ -26500,22 +26636,6 @@ instalacyjnymi	instalacyjny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 instalacyjnym	instalacyjny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 instalacyjnym	instalacyjny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 instalacyjnym	instalacyjny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-instalatorach	instalator	subst:pl:loc:m1	pospolita	
-instalatora	instalator	subst:sg:acc:m1	pospolita	
-instalatora	instalator	subst:sg:gen:m1	pospolita	
-instalatorami	instalator	subst:pl:inst:m1	pospolita	
-instalatorem	instalator	subst:sg:inst:m1	pospolita	
-instalator	instalator	subst:sg:nom:m1	pospolita	
-instalatorom	instalator	subst:pl:dat:m1	pospolita	
-instalatorowi	instalator	subst:sg:dat:m1	pospolita	
-instalatorów	instalator	subst:pl:acc:m1	pospolita	
-instalatorów	instalator	subst:pl:gen:m1	pospolita	
-instalatory	instalator	depr:pl:nom:m2	pospolita	
-instalatory	instalator	depr:pl:voc:m2	pospolita	
-instalatorze	instalator	subst:sg:loc:m1	pospolita	
-instalatorze	instalator	subst:sg:voc:m1	pospolita	
-instalatorzy	instalator	subst:pl:nom:m1	pospolita	
-instalatorzy	instalator	subst:pl:voc:m1	pospolita	
 instalatorce	instalatorka	subst:sg:dat:f	pospolita	
 instalatorce	instalatorka	subst:sg:loc:f	pospolita	
 instalatorek	instalatorka	subst:pl:gen:f	pospolita	
@@ -26530,6 +26650,36 @@ instalatorki	instalatorka	subst:pl:voc:f	pospolita
 instalatorki	instalatorka	subst:sg:gen:f	pospolita	
 instalatorko	instalatorka	subst:sg:voc:f	pospolita	
 instalatorkom	instalatorka	subst:pl:dat:f	pospolita	
+instalatorach	instalator:s1	subst:pl:loc:m1	pospolita	
+instalatora	instalator:s1	subst:sg:acc:m1	pospolita	
+instalatora	instalator:s1	subst:sg:gen:m1	pospolita	
+instalatorami	instalator:s1	subst:pl:inst:m1	pospolita	
+instalatorem	instalator:s1	subst:sg:inst:m1	pospolita	
+instalator	instalator:s1	subst:sg:nom:m1	pospolita	
+instalatorom	instalator:s1	subst:pl:dat:m1	pospolita	
+instalatorowi	instalator:s1	subst:sg:dat:m1	pospolita	
+instalatorów	instalator:s1	subst:pl:acc:m1	pospolita	
+instalatorów	instalator:s1	subst:pl:gen:m1	pospolita	
+instalatory	instalator:s1	depr:pl:nom:m2	pospolita	
+instalatory	instalator:s1	depr:pl:voc:m2	pospolita	
+instalatorze	instalator:s1	subst:sg:loc:m1	pospolita	
+instalatorze	instalator:s1	subst:sg:voc:m1	pospolita	
+instalatorzy	instalator:s1	subst:pl:nom:m1	pospolita	
+instalatorzy	instalator:s1	subst:pl:voc:m1	pospolita	
+instalatorach	instalator:s2	subst:pl:loc:m3	pospolita	
+instalatora	instalator:s2	subst:sg:gen:m3	pospolita	
+instalatorami	instalator:s2	subst:pl:inst:m3	pospolita	
+instalatorem	instalator:s2	subst:sg:inst:m3	pospolita	
+instalator	instalator:s2	subst:sg:acc:m3	pospolita	
+instalator	instalator:s2	subst:sg:nom:m3	pospolita	
+instalatorom	instalator:s2	subst:pl:dat:m3	pospolita	
+instalatorowi	instalator:s2	subst:sg:dat:m3	pospolita	
+instalatorów	instalator:s2	subst:pl:gen:m3	pospolita	
+instalatory	instalator:s2	subst:pl:acc:m3	pospolita	
+instalatory	instalator:s2	subst:pl:nom:m3	pospolita	
+instalatory	instalator:s2	subst:pl:voc:m3	pospolita	
+instalatorze	instalator:s2	subst:sg:loc:m3	pospolita	
+instalatorze	instalator:s2	subst:sg:voc:m3	pospolita	
 instalatorscy	instalatorski	adj:pl:nom.voc:m1.p1:pos		
 instalatorska	instalatorski	adj:sg:nom.voc:f:pos		
 instalatorską	instalatorski	adj:sg:acc:f:pos		
@@ -31020,6 +31170,20 @@ intercesji	intercesja	subst:sg:loc:f	pospolita
 intercesjo	intercesja	subst:sg:voc:f	pospolita	
 intercesjom	intercesja	subst:pl:dat:f	pospolita	
 intercesyj	intercesja	subst:pl:gen:f	pospolita	arch.|char.
+intercity	intercity	subst:pl:acc:n2	pospolita	
+intercity	intercity	subst:pl:dat:n2	pospolita	
+intercity	intercity	subst:pl:gen:n2	pospolita	
+intercity	intercity	subst:pl:inst:n2	pospolita	
+intercity	intercity	subst:pl:loc:n2	pospolita	
+intercity	intercity	subst:pl:nom:n2	pospolita	
+intercity	intercity	subst:pl:voc:n2	pospolita	
+intercity	intercity	subst:sg:acc:n2	pospolita	
+intercity	intercity	subst:sg:dat:n2	pospolita	
+intercity	intercity	subst:sg:gen:n2	pospolita	
+intercity	intercity	subst:sg:inst:n2	pospolita	
+intercity	intercity	subst:sg:loc:n2	pospolita	
+intercity	intercity	subst:sg:nom:n2	pospolita	
+intercity	intercity	subst:sg:voc:n2	pospolita	
 intercyzach	intercyza	subst:pl:loc:f	pospolita	
 intercyza	intercyza	subst:sg:nom:f	pospolita	
 intercyzami	intercyza	subst:pl:inst:f	pospolita	
@@ -33283,6 +33447,21 @@ internetowymi	internetowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 internetowym	internetowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 internetowym	internetowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 internetowym	internetowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+internetyzacjach	internetyzacja	subst:pl:loc:f	pospolita	
+internetyzacja	internetyzacja	subst:sg:nom:f	pospolita	
+internetyzacjami	internetyzacja	subst:pl:inst:f	pospolita	
+internetyzacją	internetyzacja	subst:sg:inst:f	pospolita	
+internetyzacje	internetyzacja	subst:pl:acc:f	pospolita	
+internetyzacje	internetyzacja	subst:pl:nom:f	pospolita	
+internetyzacje	internetyzacja	subst:pl:voc:f	pospolita	
+internetyzację	internetyzacja	subst:sg:acc:f	pospolita	
+internetyzacji	internetyzacja	subst:pl:gen:f	pospolita	hom.
+internetyzacji	internetyzacja	subst:sg:dat:f	pospolita	
+internetyzacji	internetyzacja	subst:sg:gen:f	pospolita	
+internetyzacji	internetyzacja	subst:sg:loc:f	pospolita	
+internetyzacjo	internetyzacja	subst:sg:voc:f	pospolita	
+internetyzacjom	internetyzacja	subst:pl:dat:f	pospolita	
+internetyzacyj	internetyzacja	subst:pl:gen:f	pospolita	arch.|char.
 internistach	internista	subst:pl:loc:m1	pospolita	
 internista	internista	subst:sg:nom:m1	pospolita	
 internistami	internista	subst:pl:inst:m1	pospolita	
@@ -34293,6 +34472,22 @@ interseksów	interseks	subst:pl:gen:m2	pospolita
 interseksy	interseks	subst:pl:acc:m2	pospolita	
 interseksy	interseks	subst:pl:nom:m2	pospolita	
 interseksy	interseks	subst:pl:voc:m2	pospolita	
+interseksualistach	interseksualista	subst:pl:loc:m1	pospolita	
+interseksualista	interseksualista	subst:sg:nom:m1	pospolita	
+interseksualistami	interseksualista	subst:pl:inst:m1	pospolita	
+interseksualistą	interseksualista	subst:sg:inst:m1	pospolita	
+interseksualistę	interseksualista	subst:sg:acc:m1	pospolita	
+interseksualisto	interseksualista	subst:sg:voc:m1	pospolita	
+interseksualistom	interseksualista	subst:pl:dat:m1	pospolita	
+interseksualistów	interseksualista	subst:pl:acc:m1	pospolita	
+interseksualistów	interseksualista	subst:pl:gen:m1	pospolita	
+interseksualisty	interseksualista	depr:pl:nom:m2	pospolita	
+interseksualisty	interseksualista	depr:pl:voc:m2	pospolita	
+interseksualisty	interseksualista	subst:sg:gen:m1	pospolita	
+interseksualiście	interseksualista	subst:sg:dat:m1	pospolita	
+interseksualiście	interseksualista	subst:sg:loc:m1	pospolita	
+interseksualiści	interseksualista	subst:pl:nom:m1	pospolita	
+interseksualiści	interseksualista	subst:pl:voc:m1	pospolita	
 interseksualizmach	interseksualizm	subst:pl:loc:m3	pospolita	
 interseksualizmami	interseksualizm	subst:pl:inst:m3	pospolita	
 interseksualizmem	interseksualizm	subst:sg:inst:m3	pospolita	
@@ -34626,6 +34821,22 @@ interwencji	interwencja	subst:sg:loc:f	pospolita
 interwencjo	interwencja	subst:sg:voc:f	pospolita	
 interwencjom	interwencja	subst:pl:dat:f	pospolita	
 interwencyj	interwencja	subst:pl:gen:f	pospolita	arch.|char.
+interwencjonistach	interwencjonista	subst:pl:loc:m1	pospolita	
+interwencjonista	interwencjonista	subst:sg:nom:m1	pospolita	
+interwencjonistami	interwencjonista	subst:pl:inst:m1	pospolita	
+interwencjonistą	interwencjonista	subst:sg:inst:m1	pospolita	
+interwencjonistę	interwencjonista	subst:sg:acc:m1	pospolita	
+interwencjonisto	interwencjonista	subst:sg:voc:m1	pospolita	
+interwencjonistom	interwencjonista	subst:pl:dat:m1	pospolita	
+interwencjonistów	interwencjonista	subst:pl:acc:m1	pospolita	
+interwencjonistów	interwencjonista	subst:pl:gen:m1	pospolita	
+interwencjonisty	interwencjonista	depr:pl:nom:m2	pospolita	
+interwencjonisty	interwencjonista	depr:pl:voc:m2	pospolita	
+interwencjonisty	interwencjonista	subst:sg:gen:m1	pospolita	
+interwencjoniście	interwencjonista	subst:sg:dat:m1	pospolita	
+interwencjoniście	interwencjonista	subst:sg:loc:m1	pospolita	
+interwencjoniści	interwencjonista	subst:pl:nom:m1	pospolita	
+interwencjoniści	interwencjonista	subst:pl:voc:m1	pospolita	
 interwencjonistycznościach	interwencjonistyczność	subst:pl:loc:f		
 interwencjonistycznościami	interwencjonistyczność	subst:pl:inst:f		
 interwencjonistycznością	interwencjonistyczność	subst:sg:inst:f		
@@ -39354,6 +39565,51 @@ ińskości	ińskość	subst:sg:voc:f
 ińskościom	ińskość	subst:pl:dat:f		
 ińskość	ińskość	subst:sg:acc:f		
 ińskość	ińskość	subst:sg:nom:f		
+ipadach	ipad	subst:pl:loc:m2	pospolita	
+ipadach	ipad	subst:pl:loc:m3	pospolita	
+ipada	ipad	subst:sg:acc:m2	pospolita	
+ipada	ipad	subst:sg:gen:m2	pospolita	
+ipada	ipad	subst:sg:gen:m3	pospolita	
+ipadami	ipad	subst:pl:inst:m2	pospolita	
+ipadami	ipad	subst:pl:inst:m3	pospolita	
+ipadem	ipad	subst:sg:inst:m2	pospolita	
+ipadem	ipad	subst:sg:inst:m3	pospolita	
+ipad	ipad	subst:sg:acc:m3	pospolita	
+ipad	ipad	subst:sg:nom:m2	pospolita	
+ipad	ipad	subst:sg:nom:m3	pospolita	
+ipadom	ipad	subst:pl:dat:m2	pospolita	
+ipadom	ipad	subst:pl:dat:m3	pospolita	
+ipadowi	ipad	subst:sg:dat:m2	pospolita	
+ipadowi	ipad	subst:sg:dat:m3	pospolita	
+ipadów	ipad	subst:pl:gen:m2	pospolita	
+ipadów	ipad	subst:pl:gen:m3	pospolita	
+ipady	ipad	subst:pl:acc:m2	pospolita	
+ipady	ipad	subst:pl:acc:m3	pospolita	
+ipady	ipad	subst:pl:nom:m2	pospolita	
+ipady	ipad	subst:pl:nom:m3	pospolita	
+ipady	ipad	subst:pl:voc:m2	pospolita	
+ipady	ipad	subst:pl:voc:m3	pospolita	
+ipadzie	ipad	subst:sg:loc:m2	pospolita	
+ipadzie	ipad	subst:sg:loc:m3	pospolita	
+ipadzie	ipad	subst:sg:voc:m2	pospolita	
+ipadzie	ipad	subst:sg:voc:m3	pospolita	
+ipeenowcach	ipeenowiec	subst:pl:loc:m1	pospolita	
+ipeenowca	ipeenowiec	subst:sg:acc:m1	pospolita	
+ipeenowca	ipeenowiec	subst:sg:gen:m1	pospolita	
+ipeenowcami	ipeenowiec	subst:pl:inst:m1	pospolita	
+ipeenowce	ipeenowiec	depr:pl:nom:m2	pospolita	
+ipeenowce	ipeenowiec	depr:pl:voc:m2	pospolita	
+ipeenowcem	ipeenowiec	subst:sg:inst:m1	pospolita	
+ipeenowcom	ipeenowiec	subst:pl:dat:m1	pospolita	
+ipeenowcowi	ipeenowiec	subst:sg:dat:m1	pospolita	
+ipeenowców	ipeenowiec	subst:pl:acc:m1	pospolita	
+ipeenowców	ipeenowiec	subst:pl:gen:m1	pospolita	
+ipeenowcu	ipeenowiec	subst:sg:loc:m1	pospolita	
+ipeenowcu	ipeenowiec	subst:sg:voc:m1	pospolita	
+ipeenowcy	ipeenowiec	subst:pl:nom:m1	pospolita	
+ipeenowcy	ipeenowiec	subst:pl:voc:m1	pospolita	
+ipeenowcze	ipeenowiec	subst:sg:voc:m1	pospolita	
+ipeenowiec	ipeenowiec	subst:sg:nom:m1	pospolita	
 ipeenowscy	ipeenowski	adj:pl:nom.voc:m1.p1:pos		
 ipeenowska	ipeenowski	adj:sg:nom.voc:f:pos		
 ipeenowską	ipeenowski	adj:sg:acc:f:pos		
@@ -39460,6 +39716,62 @@ iperytowymi	iperytowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 iperytowym	iperytowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 iperytowym	iperytowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 iperytowym	iperytowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+iphone’ach	iphone	subst:pl:loc:m2	pospolita	
+iphone’ach	iphone	subst:pl:loc:m3	pospolita	
+iphone’a	iphone	subst:sg:acc:m2	pospolita	
+iphone’a	iphone	subst:sg:gen:m2	pospolita	
+iphone’a	iphone	subst:sg:gen:m3	pospolita	
+iphone’ami	iphone	subst:pl:inst:m2	pospolita	
+iphone’ami	iphone	subst:pl:inst:m3	pospolita	
+iphone’em	iphone	subst:sg:inst:m2	pospolita	
+iphone’em	iphone	subst:sg:inst:m3	pospolita	
+iphone	iphone	subst:sg:acc:m3	pospolita	
+iphone	iphone	subst:sg:nom:m2	pospolita	
+iphone	iphone	subst:sg:nom:m3	pospolita	
+iphone’om	iphone	subst:pl:dat:m2	pospolita	
+iphone’om	iphone	subst:pl:dat:m3	pospolita	
+iphone’owi	iphone	subst:sg:dat:m2	pospolita	
+iphone’owi	iphone	subst:sg:dat:m3	pospolita	
+iphone’ów	iphone	subst:pl:gen:m2	pospolita	
+iphone’ów	iphone	subst:pl:gen:m3	pospolita	
+iphone’y	iphone	subst:pl:acc:m2	pospolita	
+iphone’y	iphone	subst:pl:acc:m3	pospolita	
+iphone’y	iphone	subst:pl:nom:m2	pospolita	
+iphone’y	iphone	subst:pl:nom:m3	pospolita	
+iphone’y	iphone	subst:pl:voc:m2	pospolita	
+iphone’y	iphone	subst:pl:voc:m3	pospolita	
+iphonie	iphone	subst:sg:loc:m2	pospolita	
+iphonie	iphone	subst:sg:loc:m3	pospolita	
+iphonie	iphone	subst:sg:voc:m2	pospolita	
+iphonie	iphone	subst:sg:voc:m3	pospolita	
+ipodach	ipod	subst:pl:loc:m2	pospolita	
+ipodach	ipod	subst:pl:loc:m3	pospolita	
+ipoda	ipod	subst:sg:acc:m2	pospolita	
+ipoda	ipod	subst:sg:gen:m2	pospolita	
+ipoda	ipod	subst:sg:gen:m3	pospolita	
+ipodami	ipod	subst:pl:inst:m2	pospolita	
+ipodami	ipod	subst:pl:inst:m3	pospolita	
+ipodem	ipod	subst:sg:inst:m2	pospolita	
+ipodem	ipod	subst:sg:inst:m3	pospolita	
+ipod	ipod	subst:sg:acc:m3	pospolita	
+ipod	ipod	subst:sg:nom:m2	pospolita	
+ipod	ipod	subst:sg:nom:m3	pospolita	
+ipodom	ipod	subst:pl:dat:m2	pospolita	
+ipodom	ipod	subst:pl:dat:m3	pospolita	
+ipodowi	ipod	subst:sg:dat:m2	pospolita	
+ipodowi	ipod	subst:sg:dat:m3	pospolita	
+ipodów	ipod	subst:pl:gen:m2	pospolita	
+ipodów	ipod	subst:pl:gen:m3	pospolita	
+ipody	ipod	subst:pl:acc:m2	pospolita	
+ipody	ipod	subst:pl:acc:m3	pospolita	
+ipody	ipod	subst:pl:nom:m2	pospolita	
+ipody	ipod	subst:pl:nom:m3	pospolita	
+ipody	ipod	subst:pl:voc:m2	pospolita	
+ipody	ipod	subst:pl:voc:m3	pospolita	
+ipodzie	ipod	subst:sg:loc:m2	pospolita	
+ipodzie	ipod	subst:sg:loc:m3	pospolita	
+ipodzie	ipod	subst:sg:voc:m2	pospolita	
+ipodzie	ipod	subst:sg:voc:m3	pospolita	
 ipomeach	ipomea	subst:pl:loc:f	pospolita	
 ipomea	ipomea	subst:sg:nom:f	pospolita	
 ipomeami	ipomea	subst:pl:inst:f	pospolita	
@@ -40641,6 +40953,20 @@ irydektomii	irydektomia	subst:sg:loc:f	pospolita
 irydektomij	irydektomia	subst:pl:gen:f	pospolita	arch.|char.
 irydektomio	irydektomia	subst:sg:voc:f	pospolita	
 irydektomiom	irydektomia	subst:pl:dat:f	pospolita	
+irydodiagnostyce	irydodiagnostyka	subst:sg:dat:f	pospolita	
+irydodiagnostyce	irydodiagnostyka	subst:sg:loc:f	pospolita	
+irydodiagnostykach	irydodiagnostyka	subst:pl:loc:f	pospolita	
+irydodiagnostyka	irydodiagnostyka	subst:sg:nom:f	pospolita	
+irydodiagnostykami	irydodiagnostyka	subst:pl:inst:f	pospolita	
+irydodiagnostyką	irydodiagnostyka	subst:sg:inst:f	pospolita	
+irydodiagnostykę	irydodiagnostyka	subst:sg:acc:f	pospolita	
+irydodiagnostyki	irydodiagnostyka	subst:pl:acc:f	pospolita	
+irydodiagnostyki	irydodiagnostyka	subst:pl:nom:f	pospolita	
+irydodiagnostyki	irydodiagnostyka	subst:pl:voc:f	pospolita	
+irydodiagnostyki	irydodiagnostyka	subst:sg:gen:f	pospolita	
+irydodiagnostyk	irydodiagnostyka	subst:pl:gen:f	pospolita	
+irydodiagnostyko	irydodiagnostyka	subst:sg:voc:f	pospolita	
+irydodiagnostykom	irydodiagnostyka	subst:pl:dat:f	pospolita	
 irydolodzy	irydolog	subst:pl:nom:m1	pospolita	
 irydolodzy	irydolog	subst:pl:voc:m1	pospolita	
 irydologach	irydolog	subst:pl:loc:m1	pospolita	
@@ -42189,6 +42515,20 @@ islamiście	islamista	subst:sg:dat:m1	pospolita
 islamiście	islamista	subst:sg:loc:m1	pospolita	
 islamiści	islamista	subst:pl:nom:m1	pospolita	
 islamiści	islamista	subst:pl:voc:m1	pospolita	
+islamistce	islamistka	subst:sg:dat:f	pospolita	
+islamistce	islamistka	subst:sg:loc:f	pospolita	
+islamistek	islamistka	subst:pl:gen:f	pospolita	
+islamistkach	islamistka	subst:pl:loc:f	pospolita	
+islamistka	islamistka	subst:sg:nom:f	pospolita	
+islamistkami	islamistka	subst:pl:inst:f	pospolita	
+islamistką	islamistka	subst:sg:inst:f	pospolita	
+islamistkę	islamistka	subst:sg:acc:f	pospolita	
+islamistki	islamistka	subst:pl:acc:f	pospolita	
+islamistki	islamistka	subst:pl:nom:f	pospolita	
+islamistki	islamistka	subst:pl:voc:f	pospolita	
+islamistki	islamistka	subst:sg:gen:f	pospolita	
+islamistko	islamistka	subst:sg:voc:f	pospolita	
+islamistkom	islamistka	subst:pl:dat:f	pospolita	
 islamistycznie	islamistycznie	adv:pos		
 islamistycznościach	islamistyczność	subst:pl:loc:f		
 islamistycznościami	islamistyczność	subst:pl:inst:f		
@@ -43440,6 +43780,21 @@ italianistyki	italianistyka	subst:sg:gen:f	pospolita
 italianistyk	italianistyka	subst:pl:gen:f	pospolita	
 italianistyko	italianistyka	subst:sg:voc:f	pospolita	
 italianistykom	italianistyka	subst:pl:dat:f	pospolita	
+italianizacjach	italianizacja	subst:pl:loc:f	pospolita	
+italianizacja	italianizacja	subst:sg:nom:f	pospolita	
+italianizacjami	italianizacja	subst:pl:inst:f	pospolita	
+italianizacją	italianizacja	subst:sg:inst:f	pospolita	
+italianizacje	italianizacja	subst:pl:acc:f	pospolita	
+italianizacje	italianizacja	subst:pl:nom:f	pospolita	
+italianizacje	italianizacja	subst:pl:voc:f	pospolita	
+italianizację	italianizacja	subst:sg:acc:f	pospolita	
+italianizacji	italianizacja	subst:pl:gen:f	pospolita	hom.
+italianizacji	italianizacja	subst:sg:dat:f	pospolita	
+italianizacji	italianizacja	subst:sg:gen:f	pospolita	
+italianizacji	italianizacja	subst:sg:loc:f	pospolita	
+italianizacjo	italianizacja	subst:sg:voc:f	pospolita	
+italianizacjom	italianizacja	subst:pl:dat:f	pospolita	
+italianizacyj	italianizacja	subst:pl:gen:f	pospolita	arch.|char.
 italianizmach	italianizm	subst:pl:loc:m3	pospolita	
 italianizmami	italianizm	subst:pl:inst:m3	pospolita	
 italianizmem	italianizm	subst:sg:inst:m3	pospolita	
@@ -46460,6 +46815,20 @@ izotonicznymi	izotoniczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 izotonicznym	izotoniczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 izotonicznym	izotoniczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 izotonicznym	izotoniczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+izotonikach	izotonik	subst:pl:loc:m3	pospolita	
+izotonika	izotonik	subst:sg:gen:m3	pospolita	
+izotonikami	izotonik	subst:pl:inst:m3	pospolita	
+izotonikiem	izotonik	subst:sg:inst:m3	pospolita	
+izotoniki	izotonik	subst:pl:acc:m3	pospolita	
+izotoniki	izotonik	subst:pl:nom:m3	pospolita	
+izotoniki	izotonik	subst:pl:voc:m3	pospolita	
+izotonik	izotonik	subst:sg:acc:m3	pospolita	
+izotonik	izotonik	subst:sg:nom:m3	pospolita	
+izotonikom	izotonik	subst:pl:dat:m3	pospolita	
+izotonikowi	izotonik	subst:sg:dat:m3	pospolita	
+izotoników	izotonik	subst:pl:gen:m3	pospolita	
+izotoniku	izotonik	subst:sg:loc:m3	pospolita	
+izotoniku	izotonik	subst:sg:voc:m3	pospolita	
 izotonizmach	izotonizm	subst:pl:loc:m3	pospolita	
 izotonizmami	izotonizm	subst:pl:inst:m3	pospolita	
 izotonizmem	izotonizm	subst:sg:inst:m3	pospolita	

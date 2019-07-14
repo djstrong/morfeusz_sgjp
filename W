@@ -727,24 +727,24 @@ Walewskim	Walewski	subst:sg:inst:m1	nazwisko
 Walewskim	Walewski	subst:sg:loc:m1	nazwisko	
 Walewski	Walewski	subst:sg:nom:m1	nazwisko	
 Walewski	Walewski	subst:sg:voc:m1	nazwisko	
-Walezjuszach	Walezjusz	subst:pl:loc:m1	członek_rodu	
-Walezjuszami	Walezjusz	subst:pl:inst:m1	członek_rodu	
-Walezjusza	Walezjusz	subst:sg:acc:m1	członek_rodu	
-Walezjusza	Walezjusz	subst:sg:gen:m1	członek_rodu	
-Walezjuszem	Walezjusz	subst:sg:inst:m1	członek_rodu	
-Walezjusze	Walezjusz	depr:pl:nom:m2	członek_rodu	
-Walezjusze	Walezjusz	depr:pl:voc:m2	członek_rodu	
-Walezjusze	Walezjusz	subst:pl:nom:m1	członek_rodu	
-Walezjusze	Walezjusz	subst:pl:voc:m1	członek_rodu	
-Walezjuszom	Walezjusz	subst:pl:dat:m1	członek_rodu	
-Walezjuszowie	Walezjusz	subst:pl:nom:m1	członek_rodu	
-Walezjuszowie	Walezjusz	subst:pl:voc:m1	członek_rodu	
-Walezjuszowi	Walezjusz	subst:sg:dat:m1	członek_rodu	
-Walezjuszów	Walezjusz	subst:pl:acc:m1	członek_rodu	
-Walezjuszów	Walezjusz	subst:pl:gen:m1	członek_rodu	
-Walezjuszu	Walezjusz	subst:sg:loc:m1	członek_rodu	
-Walezjuszu	Walezjusz	subst:sg:voc:m1	członek_rodu	
-Walezjusz	Walezjusz	subst:sg:nom:m1	członek_rodu	
+Walezjuszach	Walezjusz	subst:pl:loc:m1	członek rodu	
+Walezjuszami	Walezjusz	subst:pl:inst:m1	członek rodu	
+Walezjusza	Walezjusz	subst:sg:acc:m1	członek rodu	
+Walezjusza	Walezjusz	subst:sg:gen:m1	członek rodu	
+Walezjuszem	Walezjusz	subst:sg:inst:m1	członek rodu	
+Walezjusze	Walezjusz	depr:pl:nom:m2	członek rodu	
+Walezjusze	Walezjusz	depr:pl:voc:m2	członek rodu	
+Walezjusze	Walezjusz	subst:pl:nom:m1	członek rodu	
+Walezjusze	Walezjusz	subst:pl:voc:m1	członek rodu	
+Walezjuszom	Walezjusz	subst:pl:dat:m1	członek rodu	
+Walezjuszowie	Walezjusz	subst:pl:nom:m1	członek rodu	
+Walezjuszowie	Walezjusz	subst:pl:voc:m1	członek rodu	
+Walezjuszowi	Walezjusz	subst:sg:dat:m1	członek rodu	
+Walezjuszów	Walezjusz	subst:pl:acc:m1	członek rodu	
+Walezjuszów	Walezjusz	subst:pl:gen:m1	członek rodu	
+Walezjuszu	Walezjusz	subst:sg:loc:m1	członek rodu	
+Walezjuszu	Walezjusz	subst:sg:voc:m1	członek rodu	
+Walezjusz	Walezjusz	subst:sg:nom:m1	członek rodu	
 Walezego	Walezy	subst:sg:acc:m1	nazwisko	
 Walezego	Walezy	subst:sg:gen:m1	nazwisko	
 Walezemu	Walezy	subst:sg:dat:m1	nazwisko	
@@ -976,38 +976,22 @@ Walpurgii	Walpurgia	subst:sg:loc:f	święto
 Walpurgij	Walpurgia	subst:pl:gen:f	święto	arch.|char.
 Walpurgiom	Walpurgia	subst:pl:dat:f	święto	
 Walpurgio	Walpurgia	subst:sg:voc:f	święto	
-Walterach	Walter	subst:pl:loc:m1	imię	
-Walterach	Walter	subst:pl:loc:m1	nazwisko	
-Walterami	Walter	subst:pl:inst:m1	imię	
-Walterami	Walter	subst:pl:inst:m1	nazwisko	
-Waltera	Walter	subst:sg:acc:m1	imię	
-Waltera	Walter	subst:sg:acc:m1	nazwisko	
-Waltera	Walter	subst:sg:gen:m1	imię	
-Waltera	Walter	subst:sg:gen:m1	nazwisko	
-Walterem	Walter	subst:sg:inst:m1	imię	
-Walterem	Walter	subst:sg:inst:m1	nazwisko	
-Walterom	Walter	subst:pl:dat:m1	imię	
-Walterom	Walter	subst:pl:dat:m1	nazwisko	
-Walterowie	Walter	subst:pl:nom:m1	imię	
-Walterowie	Walter	subst:pl:nom:m1	nazwisko	
-Walterowie	Walter	subst:pl:voc:m1	imię	
-Walterowie	Walter	subst:pl:voc:m1	nazwisko	
-Walterowi	Walter	subst:sg:dat:m1	imię	
-Walterowi	Walter	subst:sg:dat:m1	nazwisko	
-Walterów	Walter	subst:pl:acc:m1	imię	
-Walterów	Walter	subst:pl:acc:m1	nazwisko	
-Walterów	Walter	subst:pl:gen:m1	imię	
-Walterów	Walter	subst:pl:gen:m1	nazwisko	
-Walter	Walter	subst:sg:nom:m1	imię	
-Walter	Walter	subst:sg:nom:m1	nazwisko	
-Waltery	Walter	depr:pl:nom:m2	imię	
-Waltery	Walter	depr:pl:nom:m2	nazwisko	
-Waltery	Walter	depr:pl:voc:m2	imię	
-Waltery	Walter	depr:pl:voc:m2	nazwisko	
-Walterze	Walter	subst:sg:loc:m1	imię	
-Walterze	Walter	subst:sg:loc:m1	nazwisko	
-Walterze	Walter	subst:sg:voc:m1	imię	
-Walterze	Walter	subst:sg:voc:m1	nazwisko	
+Walterach	Walter	subst:pl:loc:m1	imię|nazwisko	
+Walterami	Walter	subst:pl:inst:m1	imię|nazwisko	
+Waltera	Walter	subst:sg:acc:m1	imię|nazwisko	
+Waltera	Walter	subst:sg:gen:m1	imię|nazwisko	
+Walterem	Walter	subst:sg:inst:m1	imię|nazwisko	
+Walterom	Walter	subst:pl:dat:m1	imię|nazwisko	
+Walterowie	Walter	subst:pl:nom:m1	imię|nazwisko	
+Walterowie	Walter	subst:pl:voc:m1	imię|nazwisko	
+Walterowi	Walter	subst:sg:dat:m1	imię|nazwisko	
+Walterów	Walter	subst:pl:acc:m1	imię|nazwisko	
+Walterów	Walter	subst:pl:gen:m1	imię|nazwisko	
+Walter	Walter	subst:sg:nom:m1	imię|nazwisko	
+Waltery	Walter	depr:pl:nom:m2	imię|nazwisko	
+Waltery	Walter	depr:pl:voc:m2	imię|nazwisko	
+Walterze	Walter	subst:sg:loc:m1	imię|nazwisko	
+Walterze	Walter	subst:sg:voc:m1	imię|nazwisko	
 Waltzach	Waltz	subst:pl:loc:m1	nazwisko	
 Waltzami	Waltz	subst:pl:inst:m1	nazwisko	
 Waltza	Waltz	subst:sg:acc:m1	nazwisko	
@@ -3040,38 +3024,22 @@ Werki	Werka	subst:pl:voc:f	imię
 Werki	Werka	subst:sg:gen:f	imię	
 Werkom	Werka	subst:pl:dat:f	imię	
 Werko	Werka	subst:sg:voc:f	imię	
-Wernerach	Werner	subst:pl:loc:m1	imię	
-Wernerach	Werner	subst:pl:loc:m1	nazwisko	
-Wernerami	Werner	subst:pl:inst:m1	imię	
-Wernerami	Werner	subst:pl:inst:m1	nazwisko	
-Wernera	Werner	subst:sg:acc:m1	imię	
-Wernera	Werner	subst:sg:acc:m1	nazwisko	
-Wernera	Werner	subst:sg:gen:m1	imię	
-Wernera	Werner	subst:sg:gen:m1	nazwisko	
-Wernerem	Werner	subst:sg:inst:m1	imię	
-Wernerem	Werner	subst:sg:inst:m1	nazwisko	
-Wernerom	Werner	subst:pl:dat:m1	imię	
-Wernerom	Werner	subst:pl:dat:m1	nazwisko	
-Wernerowie	Werner	subst:pl:nom:m1	imię	
-Wernerowie	Werner	subst:pl:nom:m1	nazwisko	
-Wernerowie	Werner	subst:pl:voc:m1	imię	
-Wernerowie	Werner	subst:pl:voc:m1	nazwisko	
-Wernerowi	Werner	subst:sg:dat:m1	imię	
-Wernerowi	Werner	subst:sg:dat:m1	nazwisko	
-Wernerów	Werner	subst:pl:acc:m1	imię	
-Wernerów	Werner	subst:pl:acc:m1	nazwisko	
-Wernerów	Werner	subst:pl:gen:m1	imię	
-Wernerów	Werner	subst:pl:gen:m1	nazwisko	
-Werner	Werner	subst:sg:nom:m1	imię	
-Werner	Werner	subst:sg:nom:m1	nazwisko	
-Wernery	Werner	depr:pl:nom:m2	imię	
-Wernery	Werner	depr:pl:nom:m2	nazwisko	
-Wernery	Werner	depr:pl:voc:m2	imię	
-Wernery	Werner	depr:pl:voc:m2	nazwisko	
-Wernerze	Werner	subst:sg:loc:m1	imię	
-Wernerze	Werner	subst:sg:loc:m1	nazwisko	
-Wernerze	Werner	subst:sg:voc:m1	imię	
-Wernerze	Werner	subst:sg:voc:m1	nazwisko	
+Wernerach	Werner	subst:pl:loc:m1	imię|nazwisko	
+Wernerami	Werner	subst:pl:inst:m1	imię|nazwisko	
+Wernera	Werner	subst:sg:acc:m1	imię|nazwisko	
+Wernera	Werner	subst:sg:gen:m1	imię|nazwisko	
+Wernerem	Werner	subst:sg:inst:m1	imię|nazwisko	
+Wernerom	Werner	subst:pl:dat:m1	imię|nazwisko	
+Wernerowie	Werner	subst:pl:nom:m1	imię|nazwisko	
+Wernerowie	Werner	subst:pl:voc:m1	imię|nazwisko	
+Wernerowi	Werner	subst:sg:dat:m1	imię|nazwisko	
+Wernerów	Werner	subst:pl:acc:m1	imię|nazwisko	
+Wernerów	Werner	subst:pl:gen:m1	imię|nazwisko	
+Werner	Werner	subst:sg:nom:m1	imię|nazwisko	
+Wernery	Werner	depr:pl:nom:m2	imię|nazwisko	
+Wernery	Werner	depr:pl:voc:m2	imię|nazwisko	
+Wernerze	Werner	subst:sg:loc:m1	imię|nazwisko	
+Wernerze	Werner	subst:sg:voc:m1	imię|nazwisko	
 Wernyhorach	Wernyhora	subst:pl:loc:m1	nazwisko	
 Wernyhorami	Wernyhora	subst:pl:inst:m1	nazwisko	
 Wernyhora	Wernyhora	subst:sg:nom:m1	nazwisko	
@@ -3320,38 +3288,22 @@ Węglowi	Węgiel:s1	subst:sg:dat:m2	imię
 Węglów	Węgiel:s1	subst:pl:gen:m2	imię	
 Węglu	Węgiel:s1	subst:sg:loc:m2	imię	
 Węglu	Węgiel:s1	subst:sg:voc:m2	imię	
-Węgiel	Węgiel:s2	subst:sg:nom:m1	nazwisko	
-Węgiel	Węgiel:s2	subst:sg:nom:m1	pseudonim	
-Węglach	Węgiel:s2	subst:pl:loc:m1	nazwisko	
-Węglach	Węgiel:s2	subst:pl:loc:m1	pseudonim	
-Węglami	Węgiel:s2	subst:pl:inst:m1	nazwisko	
-Węglami	Węgiel:s2	subst:pl:inst:m1	pseudonim	
-Węgla	Węgiel:s2	subst:sg:acc:m1	nazwisko	
-Węgla	Węgiel:s2	subst:sg:acc:m1	pseudonim	
-Węgla	Węgiel:s2	subst:sg:gen:m1	nazwisko	
-Węgla	Węgiel:s2	subst:sg:gen:m1	pseudonim	
-Węglem	Węgiel:s2	subst:sg:inst:m1	nazwisko	
-Węglem	Węgiel:s2	subst:sg:inst:m1	pseudonim	
-Węgle	Węgiel:s2	depr:pl:nom:m2	nazwisko	
-Węgle	Węgiel:s2	depr:pl:nom:m2	pseudonim	
-Węgle	Węgiel:s2	depr:pl:voc:m2	nazwisko	
-Węgle	Węgiel:s2	depr:pl:voc:m2	pseudonim	
-Węglom	Węgiel:s2	subst:pl:dat:m1	nazwisko	
-Węglom	Węgiel:s2	subst:pl:dat:m1	pseudonim	
-Węglowie	Węgiel:s2	subst:pl:nom:m1	nazwisko	
-Węglowie	Węgiel:s2	subst:pl:nom:m1	pseudonim	
-Węglowie	Węgiel:s2	subst:pl:voc:m1	nazwisko	
-Węglowie	Węgiel:s2	subst:pl:voc:m1	pseudonim	
-Węglowi	Węgiel:s2	subst:sg:dat:m1	nazwisko	
-Węglowi	Węgiel:s2	subst:sg:dat:m1	pseudonim	
-Węglów	Węgiel:s2	subst:pl:acc:m1	nazwisko	
-Węglów	Węgiel:s2	subst:pl:acc:m1	pseudonim	
-Węglów	Węgiel:s2	subst:pl:gen:m1	nazwisko	
-Węglów	Węgiel:s2	subst:pl:gen:m1	pseudonim	
-Węglu	Węgiel:s2	subst:sg:loc:m1	nazwisko	
-Węglu	Węgiel:s2	subst:sg:loc:m1	pseudonim	
-Węglu	Węgiel:s2	subst:sg:voc:m1	nazwisko	
-Węglu	Węgiel:s2	subst:sg:voc:m1	pseudonim	
+Węgiel	Węgiel:s2	subst:sg:nom:m1	nazwisko|pseudonim	
+Węglach	Węgiel:s2	subst:pl:loc:m1	nazwisko|pseudonim	
+Węglami	Węgiel:s2	subst:pl:inst:m1	nazwisko|pseudonim	
+Węgla	Węgiel:s2	subst:sg:acc:m1	nazwisko|pseudonim	
+Węgla	Węgiel:s2	subst:sg:gen:m1	nazwisko|pseudonim	
+Węglem	Węgiel:s2	subst:sg:inst:m1	nazwisko|pseudonim	
+Węgle	Węgiel:s2	depr:pl:nom:m2	nazwisko|pseudonim	
+Węgle	Węgiel:s2	depr:pl:voc:m2	nazwisko|pseudonim	
+Węglom	Węgiel:s2	subst:pl:dat:m1	nazwisko|pseudonim	
+Węglowie	Węgiel:s2	subst:pl:nom:m1	nazwisko|pseudonim	
+Węglowie	Węgiel:s2	subst:pl:voc:m1	nazwisko|pseudonim	
+Węglowi	Węgiel:s2	subst:sg:dat:m1	nazwisko|pseudonim	
+Węglów	Węgiel:s2	subst:pl:acc:m1	nazwisko|pseudonim	
+Węglów	Węgiel:s2	subst:pl:gen:m1	nazwisko|pseudonim	
+Węglu	Węgiel:s2	subst:sg:loc:m1	nazwisko|pseudonim	
+Węglu	Węgiel:s2	subst:sg:voc:m1	nazwisko|pseudonim	
 Węgier	Węgier	subst:sg:nom:m1	pospolita	
 Węgrach	Węgier	subst:pl:loc:m1	pospolita	
 Węgrami	Węgier	subst:pl:inst:m1	pospolita	
@@ -4257,68 +4209,37 @@ Wiercińskim	Wierciński	subst:sg:inst:m1	nazwisko
 Wiercińskim	Wierciński	subst:sg:loc:m1	nazwisko	
 Wierciński	Wierciński	subst:sg:nom:m1	nazwisko	
 Wierciński	Wierciński	subst:sg:voc:m1	nazwisko	
-Wieruszach	Wierusz	subst:pl:loc:m1	człon_nazwiska_(herb)	
-Wieruszach	Wierusz	subst:pl:loc:m1	nazwisko	
-Wieruszami	Wierusz	subst:pl:inst:m1	człon_nazwiska_(herb)	
-Wieruszami	Wierusz	subst:pl:inst:m1	nazwisko	
-Wierusza	Wierusz	subst:sg:acc:m1	człon_nazwiska_(herb)	
-Wierusza	Wierusz	subst:sg:acc:m1	nazwisko	
-Wierusza	Wierusz	subst:sg:gen:m1	człon_nazwiska_(herb)	
-Wierusza	Wierusz	subst:sg:gen:m1	nazwisko	
-Wieruszem	Wierusz	subst:sg:inst:m1	człon_nazwiska_(herb)	
-Wieruszem	Wierusz	subst:sg:inst:m1	nazwisko	
-Wierusze	Wierusz	depr:pl:nom:m2	człon_nazwiska_(herb)	
-Wierusze	Wierusz	depr:pl:nom:m2	nazwisko	
-Wierusze	Wierusz	depr:pl:voc:m2	człon_nazwiska_(herb)	
-Wierusze	Wierusz	depr:pl:voc:m2	nazwisko	
-Wieruszom	Wierusz	subst:pl:dat:m1	człon_nazwiska_(herb)	
-Wieruszom	Wierusz	subst:pl:dat:m1	nazwisko	
-Wieruszowie	Wierusz	subst:pl:nom:m1	człon_nazwiska_(herb)	
-Wieruszowie	Wierusz	subst:pl:nom:m1	nazwisko	
-Wieruszowie	Wierusz	subst:pl:voc:m1	człon_nazwiska_(herb)	
-Wieruszowie	Wierusz	subst:pl:voc:m1	nazwisko	
-Wieruszowi	Wierusz	subst:sg:dat:m1	człon_nazwiska_(herb)	
-Wieruszowi	Wierusz	subst:sg:dat:m1	nazwisko	
-Wieruszów	Wierusz	subst:pl:acc:m1	człon_nazwiska_(herb)	
-Wieruszów	Wierusz	subst:pl:acc:m1	nazwisko	
-Wieruszów	Wierusz	subst:pl:gen:m1	człon_nazwiska_(herb)	
-Wieruszów	Wierusz	subst:pl:gen:m1	nazwisko	
-Wieruszu	Wierusz	subst:sg:loc:m1	człon_nazwiska_(herb)	
-Wieruszu	Wierusz	subst:sg:loc:m1	nazwisko	
-Wieruszu	Wierusz	subst:sg:voc:m1	człon_nazwiska_(herb)	
-Wieruszu	Wierusz	subst:sg:voc:m1	nazwisko	
-Wierusz	Wierusz	depr:pl:nom:m2	człon_nazwiska_(herb)	
-Wierusz	Wierusz	depr:pl:nom:m2	nazwisko	
-Wierusz	Wierusz	depr:pl:voc:m2	człon_nazwiska_(herb)	
-Wierusz	Wierusz	depr:pl:voc:m2	nazwisko	
-Wierusz	Wierusz	subst:pl:acc:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:pl:acc:m1	nazwisko	
-Wierusz	Wierusz	subst:pl:dat:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:pl:dat:m1	nazwisko	
-Wierusz	Wierusz	subst:pl:gen:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:pl:gen:m1	nazwisko	
-Wierusz	Wierusz	subst:pl:inst:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:pl:inst:m1	nazwisko	
-Wierusz	Wierusz	subst:pl:loc:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:pl:loc:m1	nazwisko	
-Wierusz	Wierusz	subst:pl:nom:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:pl:nom:m1	nazwisko	
-Wierusz	Wierusz	subst:pl:voc:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:pl:voc:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:acc:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:sg:acc:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:dat:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:sg:dat:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:gen:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:sg:gen:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:inst:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:sg:inst:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:loc:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:sg:loc:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:nom:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:sg:nom:m1	nazwisko	
-Wierusz	Wierusz	subst:sg:voc:m1	człon_nazwiska_(herb)	
-Wierusz	Wierusz	subst:sg:voc:m1	nazwisko	
+Wieruszach	Wierusz	subst:pl:loc:m1	nazwisko|człon nazwiska (herb)	
+Wieruszami	Wierusz	subst:pl:inst:m1	nazwisko|człon nazwiska (herb)	
+Wierusza	Wierusz	subst:sg:acc:m1	nazwisko|człon nazwiska (herb)	
+Wierusza	Wierusz	subst:sg:gen:m1	nazwisko|człon nazwiska (herb)	
+Wieruszem	Wierusz	subst:sg:inst:m1	nazwisko|człon nazwiska (herb)	
+Wierusze	Wierusz	depr:pl:nom:m2	nazwisko|człon nazwiska (herb)	
+Wierusze	Wierusz	depr:pl:voc:m2	nazwisko|człon nazwiska (herb)	
+Wieruszom	Wierusz	subst:pl:dat:m1	nazwisko|człon nazwiska (herb)	
+Wieruszowie	Wierusz	subst:pl:nom:m1	nazwisko|człon nazwiska (herb)	
+Wieruszowie	Wierusz	subst:pl:voc:m1	nazwisko|człon nazwiska (herb)	
+Wieruszowi	Wierusz	subst:sg:dat:m1	nazwisko|człon nazwiska (herb)	
+Wieruszów	Wierusz	subst:pl:acc:m1	nazwisko|człon nazwiska (herb)	
+Wieruszów	Wierusz	subst:pl:gen:m1	nazwisko|człon nazwiska (herb)	
+Wieruszu	Wierusz	subst:sg:loc:m1	nazwisko|człon nazwiska (herb)	
+Wieruszu	Wierusz	subst:sg:voc:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	depr:pl:nom:m2	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	depr:pl:voc:m2	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:acc:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:dat:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:gen:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:inst:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:loc:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:nom:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:pl:voc:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:acc:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:dat:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:gen:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:inst:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:loc:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:nom:m1	nazwisko|człon nazwiska (herb)	
+Wierusz	Wierusz	subst:sg:voc:m1	nazwisko|człon nazwiska (herb)	
 Wieruszowach	Wieruszów	subst:pl:loc:m3	geograficzna	
 Wieruszowami	Wieruszów	subst:pl:inst:m3	geograficzna	
 Wieruszowa	Wieruszów	subst:sg:gen:m3	geograficzna	
@@ -6065,36 +5986,21 @@ Wirgiliuszów	Wirgiliusz	subst:pl:gen:m1	imię
 Wirgiliuszu	Wirgiliusz	subst:sg:loc:m1	imię	
 Wirgiliuszu	Wirgiliusz	subst:sg:voc:m1	imię	
 Wirgiliusz	Wirgiliusz	subst:sg:nom:m1	imię	
-Wirginiach	Wirginia	subst:pl:loc:f	geograficzna	
-Wirginiach	Wirginia	subst:pl:loc:f	imię	
-Wirginiami	Wirginia	subst:pl:inst:f	geograficzna	
-Wirginiami	Wirginia	subst:pl:inst:f	imię	
-Wirginia	Wirginia	subst:sg:nom:f	geograficzna	
-Wirginia	Wirginia	subst:sg:nom:f	imię	
-Wirginią	Wirginia	subst:sg:inst:f	geograficzna	
-Wirginią	Wirginia	subst:sg:inst:f	imię	
-Wirginie	Wirginia	subst:pl:acc:f	geograficzna	
-Wirginie	Wirginia	subst:pl:acc:f	imię	
-Wirginie	Wirginia	subst:pl:nom:f	geograficzna	
-Wirginie	Wirginia	subst:pl:nom:f	imię	
-Wirginie	Wirginia	subst:pl:voc:f	geograficzna	
-Wirginie	Wirginia	subst:pl:voc:f	imię	
-Wirginię	Wirginia	subst:sg:acc:f	geograficzna	
-Wirginię	Wirginia	subst:sg:acc:f	imię	
-Wirginii	Wirginia	subst:pl:gen:f	geograficzna	hom.
-Wirginii	Wirginia	subst:pl:gen:f	imię	hom.
-Wirginii	Wirginia	subst:sg:dat:f	geograficzna	
-Wirginii	Wirginia	subst:sg:dat:f	imię	
-Wirginii	Wirginia	subst:sg:gen:f	geograficzna	
-Wirginii	Wirginia	subst:sg:gen:f	imię	
-Wirginii	Wirginia	subst:sg:loc:f	geograficzna	
-Wirginii	Wirginia	subst:sg:loc:f	imię	
-Wirginij	Wirginia	subst:pl:gen:f	geograficzna	arch.|char.
-Wirginij	Wirginia	subst:pl:gen:f	imię	arch.|char.
-Wirginiom	Wirginia	subst:pl:dat:f	geograficzna	
-Wirginiom	Wirginia	subst:pl:dat:f	imię	
-Wirginio	Wirginia	subst:sg:voc:f	geograficzna	
-Wirginio	Wirginia	subst:sg:voc:f	imię	
+Wirginiach	Wirginia	subst:pl:loc:f	imię|geograficzna	
+Wirginiami	Wirginia	subst:pl:inst:f	imię|geograficzna	
+Wirginia	Wirginia	subst:sg:nom:f	imię|geograficzna	
+Wirginią	Wirginia	subst:sg:inst:f	imię|geograficzna	
+Wirginie	Wirginia	subst:pl:acc:f	imię|geograficzna	
+Wirginie	Wirginia	subst:pl:nom:f	imię|geograficzna	
+Wirginie	Wirginia	subst:pl:voc:f	imię|geograficzna	
+Wirginię	Wirginia	subst:sg:acc:f	imię|geograficzna	
+Wirginii	Wirginia	subst:pl:gen:f	imię|geograficzna	hom.
+Wirginii	Wirginia	subst:sg:dat:f	imię|geograficzna	
+Wirginii	Wirginia	subst:sg:gen:f	imię|geograficzna	
+Wirginii	Wirginia	subst:sg:loc:f	imię|geograficzna	
+Wirginij	Wirginia	subst:pl:gen:f	imię|geograficzna	arch.|char.
+Wirginiom	Wirginia	subst:pl:dat:f	imię|geograficzna	
+Wirginio	Wirginia	subst:sg:voc:f	imię|geograficzna	
 Wirginiuszach	Wirginiusz	subst:pl:loc:m1	imię	
 Wirginiuszami	Wirginiusz	subst:pl:inst:m1	imię	
 Wirginiusza	Wirginiusz	subst:sg:acc:m1	imię	
@@ -7322,38 +7228,22 @@ Włodeczków	Włodeczek	subst:pl:acc:m1	imię
 Włodeczków	Włodeczek	subst:pl:gen:m1	imię	
 Włodeczku	Włodeczek	subst:sg:loc:m1	imię	
 Włodeczku	Włodeczek	subst:sg:voc:m1	imię	
-Włodek	Włodek	subst:sg:nom:m1	imię	
-Włodek	Włodek	subst:sg:nom:m1	nazwisko	
-Włodkach	Włodek	subst:pl:loc:m1	imię	
-Włodkach	Włodek	subst:pl:loc:m1	nazwisko	
-Włodkami	Włodek	subst:pl:inst:m1	imię	
-Włodkami	Włodek	subst:pl:inst:m1	nazwisko	
-Włodka	Włodek	subst:sg:acc:m1	imię	
-Włodka	Włodek	subst:sg:acc:m1	nazwisko	
-Włodka	Włodek	subst:sg:gen:m1	imię	
-Włodka	Włodek	subst:sg:gen:m1	nazwisko	
-Włodkiem	Włodek	subst:sg:inst:m1	imię	
-Włodkiem	Włodek	subst:sg:inst:m1	nazwisko	
-Włodki	Włodek	depr:pl:nom:m2	imię	
-Włodki	Włodek	depr:pl:nom:m2	nazwisko	
-Włodki	Włodek	depr:pl:voc:m2	imię	
-Włodki	Włodek	depr:pl:voc:m2	nazwisko	
-Włodkom	Włodek	subst:pl:dat:m1	imię	
-Włodkom	Włodek	subst:pl:dat:m1	nazwisko	
-Włodkowie	Włodek	subst:pl:nom:m1	imię	
-Włodkowie	Włodek	subst:pl:nom:m1	nazwisko	
-Włodkowie	Włodek	subst:pl:voc:m1	imię	
-Włodkowie	Włodek	subst:pl:voc:m1	nazwisko	
-Włodkowi	Włodek	subst:sg:dat:m1	imię	
-Włodkowi	Włodek	subst:sg:dat:m1	nazwisko	
-Włodków	Włodek	subst:pl:acc:m1	imię	
-Włodków	Włodek	subst:pl:acc:m1	nazwisko	
-Włodków	Włodek	subst:pl:gen:m1	imię	
-Włodków	Włodek	subst:pl:gen:m1	nazwisko	
-Włodku	Włodek	subst:sg:loc:m1	imię	
-Włodku	Włodek	subst:sg:loc:m1	nazwisko	
-Włodku	Włodek	subst:sg:voc:m1	imię	
-Włodku	Włodek	subst:sg:voc:m1	nazwisko	
+Włodek	Włodek	subst:sg:nom:m1	imię|nazwisko	
+Włodkach	Włodek	subst:pl:loc:m1	imię|nazwisko	
+Włodkami	Włodek	subst:pl:inst:m1	imię|nazwisko	
+Włodka	Włodek	subst:sg:acc:m1	imię|nazwisko	
+Włodka	Włodek	subst:sg:gen:m1	imię|nazwisko	
+Włodkiem	Włodek	subst:sg:inst:m1	imię|nazwisko	
+Włodki	Włodek	depr:pl:nom:m2	imię|nazwisko	
+Włodki	Włodek	depr:pl:voc:m2	imię|nazwisko	
+Włodkom	Włodek	subst:pl:dat:m1	imię|nazwisko	
+Włodkowie	Włodek	subst:pl:nom:m1	imię|nazwisko	
+Włodkowie	Włodek	subst:pl:voc:m1	imię|nazwisko	
+Włodkowi	Włodek	subst:sg:dat:m1	imię|nazwisko	
+Włodków	Włodek	subst:pl:acc:m1	imię|nazwisko	
+Włodków	Włodek	subst:pl:gen:m1	imię|nazwisko	
+Włodku	Włodek	subst:sg:loc:m1	imię|nazwisko	
+Włodku	Włodek	subst:sg:voc:m1	imię|nazwisko	
 Włodkowicach	Włodkowic	subst:pl:loc:m1	nazwisko	
 Włodkowicami	Włodkowic	subst:pl:inst:m1	nazwisko	
 Włodkowica	Włodkowic	subst:sg:acc:m1	nazwisko	
@@ -8471,42 +8361,24 @@ Wolbromiu	Wolbrom	subst:sg:voc:m3	geograficzna
 Wolbromi	Wolbrom	subst:pl:gen:m3	geograficzna	
 Wolbrom	Wolbrom	subst:sg:acc:m3	geograficzna	
 Wolbrom	Wolbrom	subst:sg:nom:m3	geograficzna	
-Wolfach	Wolf	subst:pl:loc:m1	imię	
-Wolfach	Wolf	subst:pl:loc:m1	nazwisko	
-Wolfami	Wolf	subst:pl:inst:m1	imię	
-Wolfami	Wolf	subst:pl:inst:m1	nazwisko	
-Wolfa	Wolf	subst:sg:acc:m1	imię	
-Wolfa	Wolf	subst:sg:acc:m1	nazwisko	
-Wolfa	Wolf	subst:sg:gen:m1	imię	
-Wolfa	Wolf	subst:sg:gen:m1	nazwisko	
-Wolfem	Wolf	subst:sg:inst:m1	imię	
-Wolfem	Wolf	subst:sg:inst:m1	nazwisko	
-Wolfie	Wolf	subst:sg:loc:m1	imię	
-Wolfie	Wolf	subst:sg:loc:m1	nazwisko	
-Wolfie	Wolf	subst:sg:voc:m1	imię	
-Wolfie	Wolf	subst:sg:voc:m1	nazwisko	
-Wolfi	Wolf	subst:pl:nom:m1	imię	
-Wolfi	Wolf	subst:pl:nom:m1	nazwisko	
-Wolfi	Wolf	subst:pl:voc:m1	imię	
-Wolfi	Wolf	subst:pl:voc:m1	nazwisko	
-Wolfom	Wolf	subst:pl:dat:m1	imię	
-Wolfom	Wolf	subst:pl:dat:m1	nazwisko	
-Wolfowie	Wolf	subst:pl:nom:m1	imię	
-Wolfowie	Wolf	subst:pl:nom:m1	nazwisko	
-Wolfowie	Wolf	subst:pl:voc:m1	imię	
-Wolfowie	Wolf	subst:pl:voc:m1	nazwisko	
-Wolfowi	Wolf	subst:sg:dat:m1	imię	
-Wolfowi	Wolf	subst:sg:dat:m1	nazwisko	
-Wolfów	Wolf	subst:pl:acc:m1	imię	
-Wolfów	Wolf	subst:pl:acc:m1	nazwisko	
-Wolfów	Wolf	subst:pl:gen:m1	imię	
-Wolfów	Wolf	subst:pl:gen:m1	nazwisko	
-Wolf	Wolf	subst:sg:nom:m1	imię	
-Wolf	Wolf	subst:sg:nom:m1	nazwisko	
-Wolfy	Wolf	depr:pl:nom:m2	imię	
-Wolfy	Wolf	depr:pl:nom:m2	nazwisko	
-Wolfy	Wolf	depr:pl:voc:m2	imię	
-Wolfy	Wolf	depr:pl:voc:m2	nazwisko	
+Wolfach	Wolf	subst:pl:loc:m1	imię|nazwisko	
+Wolfami	Wolf	subst:pl:inst:m1	imię|nazwisko	
+Wolfa	Wolf	subst:sg:acc:m1	imię|nazwisko	
+Wolfa	Wolf	subst:sg:gen:m1	imię|nazwisko	
+Wolfem	Wolf	subst:sg:inst:m1	imię|nazwisko	
+Wolfie	Wolf	subst:sg:loc:m1	imię|nazwisko	
+Wolfie	Wolf	subst:sg:voc:m1	imię|nazwisko	
+Wolfi	Wolf	subst:pl:nom:m1	imię|nazwisko	
+Wolfi	Wolf	subst:pl:voc:m1	imię|nazwisko	
+Wolfom	Wolf	subst:pl:dat:m1	imię|nazwisko	
+Wolfowie	Wolf	subst:pl:nom:m1	imię|nazwisko	
+Wolfowie	Wolf	subst:pl:voc:m1	imię|nazwisko	
+Wolfowi	Wolf	subst:sg:dat:m1	imię|nazwisko	
+Wolfów	Wolf	subst:pl:acc:m1	imię|nazwisko	
+Wolfów	Wolf	subst:pl:gen:m1	imię|nazwisko	
+Wolf	Wolf	subst:sg:nom:m1	imię|nazwisko	
+Wolfy	Wolf	depr:pl:nom:m2	imię|nazwisko	
+Wolfy	Wolf	depr:pl:voc:m2	imię|nazwisko	
 Wolfgangach	Wolfgang	subst:pl:loc:m1	imię	
 Wolfgangami	Wolfgang	subst:pl:inst:m1	imię	
 Wolfganga	Wolfgang	subst:sg:acc:m1	imię	

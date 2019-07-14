@@ -2570,6 +2570,20 @@ hakerskości	hakerskość	subst:sg:voc:f
 hakerskościom	hakerskość	subst:pl:dat:f		
 hakerskość	hakerskość	subst:sg:acc:f		
 hakerskość	hakerskość	subst:sg:nom:f		
+hakerstwach	hakerstwo	subst:pl:loc:n2	pospolita	
+hakerstwa	hakerstwo	subst:pl:acc:n2	pospolita	
+hakerstwa	hakerstwo	subst:pl:nom:n2	pospolita	
+hakerstwa	hakerstwo	subst:pl:voc:n2	pospolita	
+hakerstwa	hakerstwo	subst:sg:gen:n2	pospolita	
+hakerstwami	hakerstwo	subst:pl:inst:n2	pospolita	
+hakerstwem	hakerstwo	subst:sg:inst:n2	pospolita	
+hakerstw	hakerstwo	subst:pl:gen:n2	pospolita	
+hakerstwie	hakerstwo	subst:sg:loc:n2	pospolita	
+hakerstwo	hakerstwo	subst:sg:acc:n2	pospolita	
+hakerstwo	hakerstwo	subst:sg:nom:n2	pospolita	
+hakerstwo	hakerstwo	subst:sg:voc:n2	pospolita	
+hakerstwom	hakerstwo	subst:pl:dat:n2	pospolita	
+hakerstwu	hakerstwo	subst:sg:dat:n2	pospolita	
 hakować	hakować	inf:imperf		przest.
 hakowaliby	hakować	cond:pl:m1.p1:ter:imperf		przest.
 hakowalibyście	hakować	cond:pl:m1.p1:sec:imperf		przest.
@@ -3046,7 +3060,7 @@ haldy	halda	subst:pl:voc:f	pospolita	daw.
 haldy	halda	subst:sg:gen:f	pospolita	daw.
 haldzie	halda	subst:sg:dat:f	pospolita	daw.
 haldzie	halda	subst:sg:loc:f	pospolita	daw.
-hale	hale	qub		gwar.
+hale	hale	interj		gwar.
 halebardach	halebarda	subst:pl:loc:f	pospolita	daw.
 halebarda	halebarda	subst:sg:nom:f	pospolita	daw.
 halebardami	halebarda	subst:pl:inst:f	pospolita	daw.
@@ -5437,6 +5451,23 @@ hamanów	haman	subst:pl:gen:m2	pospolita
 hamany	haman	subst:pl:acc:m2	pospolita	
 hamany	haman	subst:pl:nom:m2	pospolita	
 hamany	haman	subst:pl:voc:m2	pospolita	
+hamasowcach	hamasowiec	subst:pl:loc:m1	pospolita	
+hamasowca	hamasowiec	subst:sg:acc:m1	pospolita	
+hamasowca	hamasowiec	subst:sg:gen:m1	pospolita	
+hamasowcami	hamasowiec	subst:pl:inst:m1	pospolita	
+hamasowce	hamasowiec	depr:pl:nom:m2	pospolita	
+hamasowce	hamasowiec	depr:pl:voc:m2	pospolita	
+hamasowcem	hamasowiec	subst:sg:inst:m1	pospolita	
+hamasowcom	hamasowiec	subst:pl:dat:m1	pospolita	
+hamasowcowi	hamasowiec	subst:sg:dat:m1	pospolita	
+hamasowców	hamasowiec	subst:pl:acc:m1	pospolita	
+hamasowców	hamasowiec	subst:pl:gen:m1	pospolita	
+hamasowcu	hamasowiec	subst:sg:loc:m1	pospolita	
+hamasowcu	hamasowiec	subst:sg:voc:m1	pospolita	
+hamasowcy	hamasowiec	subst:pl:nom:m1	pospolita	
+hamasowcy	hamasowiec	subst:pl:voc:m1	pospolita	
+hamasowcze	hamasowiec	subst:sg:voc:m1	pospolita	
+hamasowiec	hamasowiec	subst:sg:nom:m1	pospolita	
 hamburczycy	hamburczyk	subst:pl:nom:m1	pospolita	
 hamburczycy	hamburczyk	subst:pl:voc:m1	pospolita	
 hamburczykach	hamburczyk	subst:pl:loc:m1	pospolita	
@@ -5481,6 +5512,20 @@ hamburgerze	hamburger	subst:sg:loc:m2	pospolita
 hamburgerze	hamburger	subst:sg:loc:m3	pospolita	
 hamburgerze	hamburger	subst:sg:voc:m2	pospolita	
 hamburgerze	hamburger	subst:sg:voc:m3	pospolita	
+hamburgerowniach	hamburgerownia	subst:pl:loc:f	pospolita	
+hamburgerownia	hamburgerownia	subst:sg:nom:f	pospolita	
+hamburgerowniami	hamburgerownia	subst:pl:inst:f	pospolita	
+hamburgerownią	hamburgerownia	subst:sg:inst:f	pospolita	
+hamburgerownie	hamburgerownia	subst:pl:acc:f	pospolita	
+hamburgerownie	hamburgerownia	subst:pl:nom:f	pospolita	
+hamburgerownie	hamburgerownia	subst:pl:voc:f	pospolita	
+hamburgerownię	hamburgerownia	subst:sg:acc:f	pospolita	
+hamburgerowni	hamburgerownia	subst:pl:gen:f	pospolita	
+hamburgerowni	hamburgerownia	subst:sg:dat:f	pospolita	
+hamburgerowni	hamburgerownia	subst:sg:gen:f	pospolita	
+hamburgerowni	hamburgerownia	subst:sg:loc:f	pospolita	
+hamburgerownio	hamburgerownia	subst:sg:voc:f	pospolita	
+hamburgerowniom	hamburgerownia	subst:pl:dat:f	pospolita	
 hamburgerowościach	hamburgerowość	subst:pl:loc:f		
 hamburgerowościami	hamburgerowość	subst:pl:inst:f		
 hamburgerowością	hamburgerowość	subst:sg:inst:f		
@@ -5519,6 +5564,21 @@ hamburgerowym	hamburgerowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 hamburgerowym	hamburgerowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 hamburgerowym	hamburgerowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 hamburgerowymi	hamburgerowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hamburgeryzacjach	hamburgeryzacja	subst:pl:loc:f	pospolita	
+hamburgeryzacja	hamburgeryzacja	subst:sg:nom:f	pospolita	
+hamburgeryzacjami	hamburgeryzacja	subst:pl:inst:f	pospolita	
+hamburgeryzacją	hamburgeryzacja	subst:sg:inst:f	pospolita	
+hamburgeryzacje	hamburgeryzacja	subst:pl:acc:f	pospolita	
+hamburgeryzacje	hamburgeryzacja	subst:pl:nom:f	pospolita	
+hamburgeryzacje	hamburgeryzacja	subst:pl:voc:f	pospolita	
+hamburgeryzację	hamburgeryzacja	subst:sg:acc:f	pospolita	
+hamburgeryzacji	hamburgeryzacja	subst:pl:gen:f	pospolita	hom.
+hamburgeryzacji	hamburgeryzacja	subst:sg:dat:f	pospolita	
+hamburgeryzacji	hamburgeryzacja	subst:sg:gen:f	pospolita	
+hamburgeryzacji	hamburgeryzacja	subst:sg:loc:f	pospolita	
+hamburgeryzacjo	hamburgeryzacja	subst:sg:voc:f	pospolita	
+hamburgeryzacjom	hamburgeryzacja	subst:pl:dat:f	pospolita	
+hamburgeryzacyj	hamburgeryzacja	subst:pl:gen:f	pospolita	arch.|char.
 hamburce	hamburka	subst:sg:dat:f	pospolita	
 hamburce	hamburka	subst:sg:loc:f	pospolita	
 hamburek	hamburka	subst:pl:gen:f	pospolita	
@@ -6661,23 +6721,51 @@ handlujesz	handlować	fin:sg:sec:imperf
 handluję	handlować	fin:sg:pri:imperf		
 handluj	handlować	impt:sg:sec:imperf		
 handlujmy	handlować	impt:pl:pri:imperf		
-handlowcach	handlowiec	subst:pl:loc:m1	pospolita	
-handlowca	handlowiec	subst:sg:acc:m1	pospolita	
-handlowca	handlowiec	subst:sg:gen:m1	pospolita	
-handlowcami	handlowiec	subst:pl:inst:m1	pospolita	
-handlowce	handlowiec	depr:pl:nom:m2	pospolita	
-handlowce	handlowiec	depr:pl:voc:m2	pospolita	
-handlowcem	handlowiec	subst:sg:inst:m1	pospolita	
-handlowcom	handlowiec	subst:pl:dat:m1	pospolita	
-handlowcowi	handlowiec	subst:sg:dat:m1	pospolita	
-handlowców	handlowiec	subst:pl:acc:m1	pospolita	
-handlowców	handlowiec	subst:pl:gen:m1	pospolita	
-handlowcu	handlowiec	subst:sg:loc:m1	pospolita	
-handlowcu	handlowiec	subst:sg:voc:m1	pospolita	
-handlowcy	handlowiec	subst:pl:nom:m1	pospolita	
-handlowcy	handlowiec	subst:pl:voc:m1	pospolita	
-handlowcze	handlowiec	subst:sg:voc:m1	pospolita	
-handlowiec	handlowiec	subst:sg:nom:m1	pospolita	
+handlowcach	handlowiec:s1	subst:pl:loc:m1	pospolita	
+handlowca	handlowiec:s1	subst:sg:acc:m1	pospolita	
+handlowca	handlowiec:s1	subst:sg:gen:m1	pospolita	
+handlowcami	handlowiec:s1	subst:pl:inst:m1	pospolita	
+handlowce	handlowiec:s1	depr:pl:nom:m2	pospolita	
+handlowce	handlowiec:s1	depr:pl:voc:m2	pospolita	
+handlowcem	handlowiec:s1	subst:sg:inst:m1	pospolita	
+handlowcom	handlowiec:s1	subst:pl:dat:m1	pospolita	
+handlowcowi	handlowiec:s1	subst:sg:dat:m1	pospolita	
+handlowców	handlowiec:s1	subst:pl:acc:m1	pospolita	
+handlowców	handlowiec:s1	subst:pl:gen:m1	pospolita	
+handlowcu	handlowiec:s1	subst:sg:loc:m1	pospolita	
+handlowcu	handlowiec:s1	subst:sg:voc:m1	pospolita	
+handlowcy	handlowiec:s1	subst:pl:nom:m1	pospolita	
+handlowcy	handlowiec:s1	subst:pl:voc:m1	pospolita	
+handlowcze	handlowiec:s1	subst:sg:voc:m1	pospolita	
+handlowiec	handlowiec:s1	subst:sg:nom:m1	pospolita	
+handlowcach	handlowiec:s2	subst:pl:loc:m2	pospolita	pot.
+handlowcach	handlowiec:s2	subst:pl:loc:m3	pospolita	
+handlowca	handlowiec:s2	subst:sg:acc:m2	pospolita	pot.
+handlowca	handlowiec:s2	subst:sg:gen:m2	pospolita	pot.
+handlowca	handlowiec:s2	subst:sg:gen:m3	pospolita	
+handlowcami	handlowiec:s2	subst:pl:inst:m2	pospolita	pot.
+handlowcami	handlowiec:s2	subst:pl:inst:m3	pospolita	
+handlowce	handlowiec:s2	subst:pl:acc:m2	pospolita	pot.
+handlowce	handlowiec:s2	subst:pl:acc:m3	pospolita	
+handlowce	handlowiec:s2	subst:pl:nom:m2	pospolita	pot.
+handlowce	handlowiec:s2	subst:pl:nom:m3	pospolita	
+handlowce	handlowiec:s2	subst:pl:voc:m2	pospolita	pot.
+handlowce	handlowiec:s2	subst:pl:voc:m3	pospolita	
+handlowcem	handlowiec:s2	subst:sg:inst:m2	pospolita	pot.
+handlowcem	handlowiec:s2	subst:sg:inst:m3	pospolita	
+handlowcom	handlowiec:s2	subst:pl:dat:m2	pospolita	pot.
+handlowcom	handlowiec:s2	subst:pl:dat:m3	pospolita	
+handlowcowi	handlowiec:s2	subst:sg:dat:m2	pospolita	pot.
+handlowcowi	handlowiec:s2	subst:sg:dat:m3	pospolita	
+handlowców	handlowiec:s2	subst:pl:gen:m2	pospolita	pot.
+handlowców	handlowiec:s2	subst:pl:gen:m3	pospolita	
+handlowcu	handlowiec:s2	subst:sg:loc:m2	pospolita	pot.
+handlowcu	handlowiec:s2	subst:sg:loc:m3	pospolita	
+handlowcu	handlowiec:s2	subst:sg:voc:m2	pospolita	pot.
+handlowcu	handlowiec:s2	subst:sg:voc:m3	pospolita	
+handlowiec	handlowiec:s2	subst:sg:acc:m3	pospolita	
+handlowiec	handlowiec:s2	subst:sg:nom:m2	pospolita	pot.
+handlowiec	handlowiec:s2	subst:sg:nom:m3	pospolita	
 handlownościach	handlowność	subst:pl:loc:f		daw.
 handlownościami	handlowność	subst:pl:inst:f		daw.
 handlownością	handlowność	subst:sg:inst:f		daw.
@@ -7691,6 +7779,22 @@ haplologii	haplologia	subst:sg:loc:f	pospolita
 haplologij	haplologia	subst:pl:gen:f	pospolita	arch.|char.
 haplologio	haplologia	subst:sg:voc:f	pospolita	
 haplologiom	haplologia	subst:pl:dat:f	pospolita	
+happenerach	happener	subst:pl:loc:m1	pospolita	
+happenera	happener	subst:sg:acc:m1	pospolita	
+happenera	happener	subst:sg:gen:m1	pospolita	
+happenerami	happener	subst:pl:inst:m1	pospolita	
+happenerem	happener	subst:sg:inst:m1	pospolita	
+happener	happener	subst:sg:nom:m1	pospolita	
+happenerom	happener	subst:pl:dat:m1	pospolita	
+happenerowi	happener	subst:sg:dat:m1	pospolita	
+happenerów	happener	subst:pl:acc:m1	pospolita	
+happenerów	happener	subst:pl:gen:m1	pospolita	
+happenery	happener	depr:pl:nom:m2	pospolita	
+happenery	happener	depr:pl:voc:m2	pospolita	
+happenerze	happener	subst:sg:loc:m1	pospolita	
+happenerze	happener	subst:sg:voc:m1	pospolita	
+happenerzy	happener	subst:pl:nom:m1	pospolita	
+happenerzy	happener	subst:pl:voc:m1	pospolita	
 happenerscy	happenerski	adj:pl:nom.voc:m1.p1:pos		
 happenerska	happenerski	adj:sg:nom.voc:f:pos		
 happenerską	happenerski	adj:sg:acc:f:pos		
@@ -9296,6 +9400,23 @@ hardrocku	hardrock	subst:sg:loc:m2	pospolita	pot.
 hardrocku	hardrock	subst:sg:loc:m3	pospolita	
 hardrocku	hardrock	subst:sg:voc:m2	pospolita	pot.
 hardrocku	hardrock	subst:sg:voc:m3	pospolita	
+hardrockowcach	hardrockowiec	subst:pl:loc:m1	pospolita	
+hardrockowca	hardrockowiec	subst:sg:acc:m1	pospolita	
+hardrockowca	hardrockowiec	subst:sg:gen:m1	pospolita	
+hardrockowcami	hardrockowiec	subst:pl:inst:m1	pospolita	
+hardrockowce	hardrockowiec	depr:pl:nom:m2	pospolita	
+hardrockowce	hardrockowiec	depr:pl:voc:m2	pospolita	
+hardrockowcem	hardrockowiec	subst:sg:inst:m1	pospolita	
+hardrockowcom	hardrockowiec	subst:pl:dat:m1	pospolita	
+hardrockowcowi	hardrockowiec	subst:sg:dat:m1	pospolita	
+hardrockowców	hardrockowiec	subst:pl:acc:m1	pospolita	
+hardrockowców	hardrockowiec	subst:pl:gen:m1	pospolita	
+hardrockowcu	hardrockowiec	subst:sg:loc:m1	pospolita	
+hardrockowcu	hardrockowiec	subst:sg:voc:m1	pospolita	
+hardrockowcy	hardrockowiec	subst:pl:nom:m1	pospolita	
+hardrockowcy	hardrockowiec	subst:pl:voc:m1	pospolita	
+hardrockowcze	hardrockowiec	subst:sg:voc:m1	pospolita	
+hardrockowiec	hardrockowiec	subst:sg:nom:m1	pospolita	
 hardrockowo	hardrockowo	adv:pos		
 hardrockowościach	hardrockowość	subst:pl:loc:f		
 hardrockowościami	hardrockowość	subst:pl:inst:f		
@@ -10019,6 +10140,23 @@ harlaczu	harlacz	subst:sg:loc:m3	pospolita	daw.|rzad.
 harlaczu	harlacz	subst:sg:voc:m3	pospolita	daw.
 harlaczu	harlacz	subst:sg:voc:m3	pospolita	daw.|rzad.
 harlaczy	harlacz	subst:pl:gen:m3	pospolita	daw.
+harlejowcach	harlejowiec	subst:pl:loc:m1	pospolita	
+harlejowca	harlejowiec	subst:sg:acc:m1	pospolita	
+harlejowca	harlejowiec	subst:sg:gen:m1	pospolita	
+harlejowcami	harlejowiec	subst:pl:inst:m1	pospolita	
+harlejowce	harlejowiec	depr:pl:nom:m2	pospolita	
+harlejowce	harlejowiec	depr:pl:voc:m2	pospolita	
+harlejowcem	harlejowiec	subst:sg:inst:m1	pospolita	
+harlejowcom	harlejowiec	subst:pl:dat:m1	pospolita	
+harlejowcowi	harlejowiec	subst:sg:dat:m1	pospolita	
+harlejowców	harlejowiec	subst:pl:acc:m1	pospolita	
+harlejowców	harlejowiec	subst:pl:gen:m1	pospolita	
+harlejowcu	harlejowiec	subst:sg:loc:m1	pospolita	
+harlejowcu	harlejowiec	subst:sg:voc:m1	pospolita	
+harlejowcy	harlejowiec	subst:pl:nom:m1	pospolita	
+harlejowcy	harlejowiec	subst:pl:voc:m1	pospolita	
+harlejowcze	harlejowiec	subst:sg:voc:m1	pospolita	
+harlejowiec	harlejowiec	subst:sg:nom:m1	pospolita	
 harlekinach	harlekin	subst:pl:loc:m2	pospolita	pot.
 harlekina	harlekin	subst:sg:acc:m2	pospolita	pot.
 harlekina	harlekin	subst:sg:gen:m2	pospolita	pot.
@@ -10033,6 +10171,20 @@ harlekinów	harlekin	subst:pl:gen:m2	pospolita	pot.
 harlekiny	harlekin	subst:pl:acc:m2	pospolita	pot.
 harlekiny	harlekin	subst:pl:nom:m2	pospolita	pot.
 harlekiny	harlekin	subst:pl:voc:m2	pospolita	pot.
+harlequinach	harlequin	subst:pl:loc:m3	pospolita	
+harlequina	harlequin	subst:sg:gen:m3	pospolita	
+harlequinami	harlequin	subst:pl:inst:m3	pospolita	
+harlequinem	harlequin	subst:sg:inst:m3	pospolita	
+harlequin	harlequin	subst:sg:acc:m3	pospolita	
+harlequin	harlequin	subst:sg:nom:m3	pospolita	
+harlequinie	harlequin	subst:sg:loc:m3	pospolita	
+harlequinie	harlequin	subst:sg:voc:m3	pospolita	
+harlequinom	harlequin	subst:pl:dat:m3	pospolita	
+harlequinowi	harlequin	subst:sg:dat:m3	pospolita	
+harlequinów	harlequin	subst:pl:gen:m3	pospolita	
+harlequiny	harlequin	subst:pl:acc:m3	pospolita	
+harlequiny	harlequin	subst:pl:nom:m3	pospolita	
+harlequiny	harlequin	subst:pl:voc:m3	pospolita	
 harleyach	harley	subst:pl:loc:m2	pospolita	
 harleya	harley	subst:sg:acc:m2	pospolita	
 harleya	harley	subst:sg:gen:m2	pospolita	
@@ -10047,6 +10199,23 @@ harleyowi	harley	subst:sg:dat:m2	pospolita
 harleyów	harley	subst:pl:gen:m2	pospolita	
 harleyu	harley	subst:sg:loc:m2	pospolita	
 harleyu	harley	subst:sg:voc:m2	pospolita	
+harleyowcach	harleyowiec	subst:pl:loc:m1	pospolita	
+harleyowca	harleyowiec	subst:sg:acc:m1	pospolita	
+harleyowca	harleyowiec	subst:sg:gen:m1	pospolita	
+harleyowcami	harleyowiec	subst:pl:inst:m1	pospolita	
+harleyowce	harleyowiec	depr:pl:nom:m2	pospolita	
+harleyowce	harleyowiec	depr:pl:voc:m2	pospolita	
+harleyowcem	harleyowiec	subst:sg:inst:m1	pospolita	
+harleyowcom	harleyowiec	subst:pl:dat:m1	pospolita	
+harleyowcowi	harleyowiec	subst:sg:dat:m1	pospolita	
+harleyowców	harleyowiec	subst:pl:acc:m1	pospolita	
+harleyowców	harleyowiec	subst:pl:gen:m1	pospolita	
+harleyowcu	harleyowiec	subst:sg:loc:m1	pospolita	
+harleyowcu	harleyowiec	subst:sg:voc:m1	pospolita	
+harleyowcy	harleyowiec	subst:pl:nom:m1	pospolita	
+harleyowcy	harleyowiec	subst:pl:voc:m1	pospolita	
+harleyowcze	harleyowiec	subst:sg:voc:m1	pospolita	
+harleyowiec	harleyowiec	subst:sg:nom:m1	pospolita	
 harmacie	harmata	subst:sg:dat:f	pospolita	daw.
 harmacie	harmata	subst:sg:loc:f	pospolita	daw.
 harmatach	harmata	subst:pl:loc:f	pospolita	daw.
@@ -13135,6 +13304,23 @@ heavymetalowi	heavymetal	subst:sg:dat:m3	pospolita
 heavymetalu	heavymetal	subst:sg:gen:m3	pospolita	
 heavymetalu	heavymetal	subst:sg:loc:m3	pospolita	
 heavymetalu	heavymetal	subst:sg:voc:m3	pospolita	
+heavymetalowcach	heavymetalowiec	subst:pl:loc:m1	pospolita	
+heavymetalowca	heavymetalowiec	subst:sg:acc:m1	pospolita	
+heavymetalowca	heavymetalowiec	subst:sg:gen:m1	pospolita	
+heavymetalowcami	heavymetalowiec	subst:pl:inst:m1	pospolita	
+heavymetalowce	heavymetalowiec	depr:pl:nom:m2	pospolita	
+heavymetalowce	heavymetalowiec	depr:pl:voc:m2	pospolita	
+heavymetalowcem	heavymetalowiec	subst:sg:inst:m1	pospolita	
+heavymetalowcom	heavymetalowiec	subst:pl:dat:m1	pospolita	
+heavymetalowcowi	heavymetalowiec	subst:sg:dat:m1	pospolita	
+heavymetalowców	heavymetalowiec	subst:pl:acc:m1	pospolita	
+heavymetalowców	heavymetalowiec	subst:pl:gen:m1	pospolita	
+heavymetalowcu	heavymetalowiec	subst:sg:loc:m1	pospolita	
+heavymetalowcu	heavymetalowiec	subst:sg:voc:m1	pospolita	
+heavymetalowcy	heavymetalowiec	subst:pl:nom:m1	pospolita	
+heavymetalowcy	heavymetalowiec	subst:pl:voc:m1	pospolita	
+heavymetalowcze	heavymetalowiec	subst:sg:voc:m1	pospolita	
+heavymetalowiec	heavymetalowiec	subst:sg:nom:m1	pospolita	
 heavymetalowościach	heavymetalowość	subst:pl:loc:f		
 heavymetalowościami	heavymetalowość	subst:pl:inst:f		
 heavymetalowością	heavymetalowość	subst:sg:inst:f		
@@ -15722,6 +15908,30 @@ heliakalnym	heliakalny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 heliakalnym	heliakalny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 heliakalnym	heliakalny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 heliakalnymi	heliakalny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+helikalna	helikalny	adj:sg:nom.voc:f:pos		
+helikalną	helikalny	adj:sg:acc:f:pos		
+helikalną	helikalny	adj:sg:inst:f:pos		
+helikalnego	helikalny	adj:sg:acc:m1.m2:pos		
+helikalnego	helikalny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+helikalne	helikalny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+helikalne	helikalny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+helikalne	helikalny	adj:sg:acc:n1.n2:pos		
+helikalne	helikalny	adj:sg:nom.voc:n1.n2:pos		
+helikalnej	helikalny	adj:sg:dat:f:pos		
+helikalnej	helikalny	adj:sg:gen:f:pos		
+helikalnej	helikalny	adj:sg:loc:f:pos		
+helikalnemu	helikalny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+helikalni	helikalny	adj:pl:nom.voc:m1.p1:pos		
+helikalno	helikalny	adja		
+helikalnych	helikalny	adj:pl:acc:m1.p1:pos		
+helikalnych	helikalny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+helikalnych	helikalny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+helikalny	helikalny	adj:sg:acc:m3:pos		
+helikalny	helikalny	adj:sg:nom.voc:m1.m2.m3:pos		
+helikalnym	helikalny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+helikalnym	helikalny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+helikalnym	helikalny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+helikalnymi	helikalny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 helikoidach	helikoida	subst:pl:loc:f	pospolita	
 helikoida	helikoida	subst:sg:nom:f	pospolita	
 helikoidami	helikoida	subst:pl:inst:f	pospolita	
@@ -16354,6 +16564,20 @@ helionu	helion	subst:sg:gen:m3	pospolita
 heliony	helion	subst:pl:acc:m3	pospolita	
 heliony	helion	subst:pl:nom:m3	pospolita	
 heliony	helion	subst:pl:voc:m3	pospolita	
+heliosferach	heliosfera	subst:pl:loc:f	pospolita	
+heliosfera	heliosfera	subst:sg:nom:f	pospolita	
+heliosferami	heliosfera	subst:pl:inst:f	pospolita	
+heliosferą	heliosfera	subst:sg:inst:f	pospolita	
+heliosferę	heliosfera	subst:sg:acc:f	pospolita	
+heliosfer	heliosfera	subst:pl:gen:f	pospolita	
+heliosfero	heliosfera	subst:sg:voc:f	pospolita	
+heliosferom	heliosfera	subst:pl:dat:f	pospolita	
+heliosfery	heliosfera	subst:pl:acc:f	pospolita	
+heliosfery	heliosfera	subst:pl:nom:f	pospolita	
+heliosfery	heliosfera	subst:pl:voc:f	pospolita	
+heliosfery	heliosfera	subst:sg:gen:f	pospolita	
+heliosferze	heliosfera	subst:sg:dat:f	pospolita	
+heliosferze	heliosfera	subst:sg:loc:f	pospolita	
 helioskopach	helioskop	subst:pl:loc:m3	pospolita	
 helioskopami	helioskop	subst:pl:inst:m3	pospolita	
 helioskopem	helioskop	subst:sg:inst:m3	pospolita	
@@ -19201,6 +19425,20 @@ heptozy	heptoza	subst:pl:acc:f	pospolita
 heptozy	heptoza	subst:pl:nom:f	pospolita	
 heptozy	heptoza	subst:pl:voc:f	pospolita	
 heptozy	heptoza	subst:sg:gen:f	pospolita	
+herach	hera	subst:pl:loc:f	pospolita	
+hera	hera	subst:sg:nom:f	pospolita	
+herami	hera	subst:pl:inst:f	pospolita	
+herą	hera	subst:sg:inst:f	pospolita	
+herę	hera	subst:sg:acc:f	pospolita	
+her	hera	subst:pl:gen:f	pospolita	
+hero	hera	subst:sg:voc:f	pospolita	
+herom	hera	subst:pl:dat:f	pospolita	
+hery	hera	subst:pl:acc:f	pospolita	
+hery	hera	subst:pl:nom:f	pospolita	
+hery	hera	subst:pl:voc:f	pospolita	
+hery	hera	subst:sg:gen:f	pospolita	
+herze	hera	subst:sg:dat:f	pospolita	
+herze	hera	subst:sg:loc:f	pospolita	
 heraklejscy	heraklejski	adj:pl:nom.voc:m1.p1:pos		
 heraklejska	heraklejski	adj:sg:nom.voc:f:pos		
 heraklejską	heraklejski	adj:sg:acc:f:pos		
@@ -19724,34 +19962,50 @@ herbatniczku	herbatniczek	subst:sg:loc:m2	pospolita
 herbatniczku	herbatniczek	subst:sg:loc:m3	pospolita	
 herbatniczku	herbatniczek	subst:sg:voc:m2	pospolita	
 herbatniczku	herbatniczek	subst:sg:voc:m3	pospolita	
-herbatnikach	herbatnik	subst:pl:loc:m2	pospolita	
-herbatnikach	herbatnik	subst:pl:loc:m3	pospolita	
-herbatnika	herbatnik	subst:sg:acc:m2	pospolita	
-herbatnika	herbatnik	subst:sg:gen:m2	pospolita	
-herbatnika	herbatnik	subst:sg:gen:m3	pospolita	
-herbatnikami	herbatnik	subst:pl:inst:m2	pospolita	
-herbatnikami	herbatnik	subst:pl:inst:m3	pospolita	
-herbatnik	herbatnik	subst:sg:acc:m3	pospolita	
-herbatnik	herbatnik	subst:sg:nom:m2	pospolita	
-herbatnik	herbatnik	subst:sg:nom:m3	pospolita	
-herbatnikiem	herbatnik	subst:sg:inst:m2	pospolita	
-herbatnikiem	herbatnik	subst:sg:inst:m3	pospolita	
-herbatniki	herbatnik	subst:pl:acc:m2	pospolita	
-herbatniki	herbatnik	subst:pl:acc:m3	pospolita	
-herbatniki	herbatnik	subst:pl:nom:m2	pospolita	
-herbatniki	herbatnik	subst:pl:nom:m3	pospolita	
-herbatniki	herbatnik	subst:pl:voc:m2	pospolita	
-herbatniki	herbatnik	subst:pl:voc:m3	pospolita	
-herbatnikom	herbatnik	subst:pl:dat:m2	pospolita	
-herbatnikom	herbatnik	subst:pl:dat:m3	pospolita	
-herbatnikowi	herbatnik	subst:sg:dat:m2	pospolita	
-herbatnikowi	herbatnik	subst:sg:dat:m3	pospolita	
-herbatników	herbatnik	subst:pl:gen:m2	pospolita	
-herbatników	herbatnik	subst:pl:gen:m3	pospolita	
-herbatniku	herbatnik	subst:sg:loc:m2	pospolita	
-herbatniku	herbatnik	subst:sg:loc:m3	pospolita	
-herbatniku	herbatnik	subst:sg:voc:m2	pospolita	
-herbatniku	herbatnik	subst:sg:voc:m3	pospolita	
+herbatnikach	herbatnik:s1	subst:pl:loc:m2	pospolita	
+herbatnikach	herbatnik:s1	subst:pl:loc:m3	pospolita	
+herbatnika	herbatnik:s1	subst:sg:acc:m2	pospolita	
+herbatnika	herbatnik:s1	subst:sg:gen:m2	pospolita	
+herbatnika	herbatnik:s1	subst:sg:gen:m3	pospolita	
+herbatnikami	herbatnik:s1	subst:pl:inst:m2	pospolita	
+herbatnikami	herbatnik:s1	subst:pl:inst:m3	pospolita	
+herbatnik	herbatnik:s1	subst:sg:acc:m3	pospolita	
+herbatnik	herbatnik:s1	subst:sg:nom:m2	pospolita	
+herbatnik	herbatnik:s1	subst:sg:nom:m3	pospolita	
+herbatnikiem	herbatnik:s1	subst:sg:inst:m2	pospolita	
+herbatnikiem	herbatnik:s1	subst:sg:inst:m3	pospolita	
+herbatniki	herbatnik:s1	subst:pl:acc:m2	pospolita	
+herbatniki	herbatnik:s1	subst:pl:acc:m3	pospolita	
+herbatniki	herbatnik:s1	subst:pl:nom:m2	pospolita	
+herbatniki	herbatnik:s1	subst:pl:nom:m3	pospolita	
+herbatniki	herbatnik:s1	subst:pl:voc:m2	pospolita	
+herbatniki	herbatnik:s1	subst:pl:voc:m3	pospolita	
+herbatnikom	herbatnik:s1	subst:pl:dat:m2	pospolita	
+herbatnikom	herbatnik:s1	subst:pl:dat:m3	pospolita	
+herbatnikowi	herbatnik:s1	subst:sg:dat:m2	pospolita	
+herbatnikowi	herbatnik:s1	subst:sg:dat:m3	pospolita	
+herbatników	herbatnik:s1	subst:pl:gen:m2	pospolita	
+herbatników	herbatnik:s1	subst:pl:gen:m3	pospolita	
+herbatniku	herbatnik:s1	subst:sg:loc:m2	pospolita	
+herbatniku	herbatnik:s1	subst:sg:loc:m3	pospolita	
+herbatniku	herbatnik:s1	subst:sg:voc:m2	pospolita	
+herbatniku	herbatnik:s1	subst:sg:voc:m3	pospolita	
+herbatnicy	herbatnik:s2	subst:pl:nom:m1	pospolita	
+herbatnicy	herbatnik:s2	subst:pl:voc:m1	pospolita	
+herbatnikach	herbatnik:s2	subst:pl:loc:m1	pospolita	
+herbatnika	herbatnik:s2	subst:sg:acc:m1	pospolita	
+herbatnika	herbatnik:s2	subst:sg:gen:m1	pospolita	
+herbatnikami	herbatnik:s2	subst:pl:inst:m1	pospolita	
+herbatnik	herbatnik:s2	subst:sg:nom:m1	pospolita	
+herbatnikiem	herbatnik:s2	subst:sg:inst:m1	pospolita	
+herbatniki	herbatnik:s2	depr:pl:nom:m2	pospolita	
+herbatniki	herbatnik:s2	depr:pl:voc:m2	pospolita	
+herbatnikom	herbatnik:s2	subst:pl:dat:m1	pospolita	
+herbatnikowi	herbatnik:s2	subst:sg:dat:m1	pospolita	
+herbatników	herbatnik:s2	subst:pl:acc:m1	pospolita	
+herbatników	herbatnik:s2	subst:pl:gen:m1	pospolita	
+herbatniku	herbatnik:s2	subst:sg:loc:m1	pospolita	
+herbatniku	herbatnik:s2	subst:sg:voc:m1	pospolita	
 herbatniościach	herbatniość	subst:pl:loc:f		przest.
 herbatniościami	herbatniość	subst:pl:inst:f		przest.
 herbatniością	herbatniość	subst:sg:inst:f		przest.
@@ -20638,6 +20892,14 @@ herezjarchy	herezjarcha	depr:pl:voc:m2	pospolita
 herezjarchy	herezjarcha	subst:sg:gen:m1	pospolita	
 herezjarsze	herezjarcha	subst:sg:dat:m1	pospolita	
 herezjarsze	herezjarcha	subst:sg:loc:m1	pospolita	
+herezjach	herezje	subst:pl:loc:p3	pospolita	
+herezjami	herezje	subst:pl:inst:p3	pospolita	
+herezje	herezje	subst:pl:acc:p3	pospolita	
+herezje	herezje	subst:pl:nom:p3	pospolita	
+herezje	herezje	subst:pl:voc:p3	pospolita	
+herezji	herezje	subst:pl:gen:p3	pospolita	hom.
+herezjom	herezje	subst:pl:dat:p3	pospolita	
+herezyj	herezje	subst:pl:gen:p3	pospolita	arch.|char.
 herkulesowościach	herkulesowość	subst:pl:loc:f		
 herkulesowościami	herkulesowość	subst:pl:inst:f		
 herkulesowością	herkulesowość	subst:sg:inst:f		
@@ -25247,6 +25509,23 @@ hi-fi	hi-fi	subst:sg:inst:n2	pospolita
 hi-fi	hi-fi	subst:sg:loc:n2	pospolita	
 hi-fi	hi-fi	subst:sg:nom:n2	pospolita	
 hi-fi	hi-fi	subst:sg:voc:n2	pospolita	
+hifowcach	hifowiec	subst:pl:loc:m1	pospolita	
+hifowca	hifowiec	subst:sg:acc:m1	pospolita	
+hifowca	hifowiec	subst:sg:gen:m1	pospolita	
+hifowcami	hifowiec	subst:pl:inst:m1	pospolita	
+hifowce	hifowiec	depr:pl:nom:m2	pospolita	
+hifowce	hifowiec	depr:pl:voc:m2	pospolita	
+hifowcem	hifowiec	subst:sg:inst:m1	pospolita	
+hifowcom	hifowiec	subst:pl:dat:m1	pospolita	
+hifowcowi	hifowiec	subst:sg:dat:m1	pospolita	
+hifowców	hifowiec	subst:pl:acc:m1	pospolita	
+hifowców	hifowiec	subst:pl:gen:m1	pospolita	
+hifowcu	hifowiec	subst:sg:loc:m1	pospolita	
+hifowcu	hifowiec	subst:sg:voc:m1	pospolita	
+hifowcy	hifowiec	subst:pl:nom:m1	pospolita	
+hifowcy	hifowiec	subst:pl:voc:m1	pospolita	
+hifowcze	hifowiec	subst:sg:voc:m1	pospolita	
+hifowiec	hifowiec	subst:sg:nom:m1	pospolita	
 high-life’ach	high-life	subst:pl:loc:m3	pospolita	
 high-life’ami	high-life	subst:pl:inst:m3	pospolita	
 high-life’em	high-life	subst:sg:inst:m3	pospolita	
@@ -26552,6 +26831,20 @@ hipeastrum	hipeastrum	subst:sg:inst:n2	pospolita
 hipeastrum	hipeastrum	subst:sg:loc:n2	pospolita	
 hipeastrum	hipeastrum	subst:sg:nom:n2	pospolita	
 hipeastrum	hipeastrum	subst:sg:voc:n2	pospolita	
+hiperaktywnościach	hiperaktywność	subst:pl:loc:f	pospolita	
+hiperaktywnościami	hiperaktywność	subst:pl:inst:f	pospolita	
+hiperaktywnością	hiperaktywność	subst:sg:inst:f	pospolita	
+hiperaktywności	hiperaktywność	subst:pl:acc:f	pospolita	
+hiperaktywności	hiperaktywność	subst:pl:gen:f	pospolita	
+hiperaktywności	hiperaktywność	subst:pl:nom:f	pospolita	
+hiperaktywności	hiperaktywność	subst:pl:voc:f	pospolita	
+hiperaktywności	hiperaktywność	subst:sg:dat:f	pospolita	
+hiperaktywności	hiperaktywność	subst:sg:gen:f	pospolita	
+hiperaktywności	hiperaktywność	subst:sg:loc:f	pospolita	
+hiperaktywności	hiperaktywność	subst:sg:voc:f	pospolita	
+hiperaktywnościom	hiperaktywność	subst:pl:dat:f	pospolita	
+hiperaktywność	hiperaktywność	subst:sg:acc:f	pospolita	
+hiperaktywność	hiperaktywność	subst:sg:nom:f	pospolita	
 hiperanalizach	hiperanaliza	subst:pl:loc:f	pospolita	
 hiperanaliza	hiperanaliza	subst:sg:nom:f	pospolita	
 hiperanalizami	hiperanaliza	subst:pl:inst:f	pospolita	
@@ -27386,6 +27679,21 @@ hipermarketowym	hipermarketowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 hipermarketowym	hipermarketowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 hipermarketowym	hipermarketowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 hipermarketowymi	hipermarketowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hipermarketyzacjach	hipermarketyzacja	subst:pl:loc:f	pospolita	
+hipermarketyzacja	hipermarketyzacja	subst:sg:nom:f	pospolita	
+hipermarketyzacjami	hipermarketyzacja	subst:pl:inst:f	pospolita	
+hipermarketyzacją	hipermarketyzacja	subst:sg:inst:f	pospolita	
+hipermarketyzacje	hipermarketyzacja	subst:pl:acc:f	pospolita	
+hipermarketyzacje	hipermarketyzacja	subst:pl:nom:f	pospolita	
+hipermarketyzacje	hipermarketyzacja	subst:pl:voc:f	pospolita	
+hipermarketyzację	hipermarketyzacja	subst:sg:acc:f	pospolita	
+hipermarketyzacji	hipermarketyzacja	subst:pl:gen:f	pospolita	hom.
+hipermarketyzacji	hipermarketyzacja	subst:sg:dat:f	pospolita	
+hipermarketyzacji	hipermarketyzacja	subst:sg:gen:f	pospolita	
+hipermarketyzacji	hipermarketyzacja	subst:sg:loc:f	pospolita	
+hipermarketyzacjo	hipermarketyzacja	subst:sg:voc:f	pospolita	
+hipermarketyzacjom	hipermarketyzacja	subst:pl:dat:f	pospolita	
+hipermarketyzacyj	hipermarketyzacja	subst:pl:gen:f	pospolita	arch.|char.
 hipermediach	hipermedia	subst:pl:loc:p3	pospolita	komp.
 hipermedia	hipermedia	subst:pl:acc:p3	pospolita	komp.
 hipermedia	hipermedia	subst:pl:nom:p3	pospolita	komp.
@@ -30314,6 +30622,36 @@ hipotensyjnym	hipotensyjny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 hipotensyjnym	hipotensyjny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 hipotensyjnym	hipotensyjny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 hipotensyjnymi	hipotensyjny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hipoterapetce	hipoterapetka	subst:sg:dat:f	pospolita	
+hipoterapetce	hipoterapetka	subst:sg:loc:f	pospolita	
+hipoterapetek	hipoterapetka	subst:pl:gen:f	pospolita	
+hipoterapetkach	hipoterapetka	subst:pl:loc:f	pospolita	
+hipoterapetka	hipoterapetka	subst:sg:nom:f	pospolita	
+hipoterapetkami	hipoterapetka	subst:pl:inst:f	pospolita	
+hipoterapetką	hipoterapetka	subst:sg:inst:f	pospolita	
+hipoterapetkę	hipoterapetka	subst:sg:acc:f	pospolita	
+hipoterapetki	hipoterapetka	subst:pl:acc:f	pospolita	
+hipoterapetki	hipoterapetka	subst:pl:nom:f	pospolita	
+hipoterapetki	hipoterapetka	subst:pl:voc:f	pospolita	
+hipoterapetki	hipoterapetka	subst:sg:gen:f	pospolita	
+hipoterapetko	hipoterapetka	subst:sg:voc:f	pospolita	
+hipoterapetkom	hipoterapetka	subst:pl:dat:f	pospolita	
+hipoterapeucie	hipoterapeuta	subst:sg:dat:m1	pospolita	
+hipoterapeucie	hipoterapeuta	subst:sg:loc:m1	pospolita	
+hipoterapeuci	hipoterapeuta	subst:pl:nom:m1	pospolita	
+hipoterapeuci	hipoterapeuta	subst:pl:voc:m1	pospolita	
+hipoterapeutach	hipoterapeuta	subst:pl:loc:m1	pospolita	
+hipoterapeuta	hipoterapeuta	subst:sg:nom:m1	pospolita	
+hipoterapeutami	hipoterapeuta	subst:pl:inst:m1	pospolita	
+hipoterapeutą	hipoterapeuta	subst:sg:inst:m1	pospolita	
+hipoterapeutę	hipoterapeuta	subst:sg:acc:m1	pospolita	
+hipoterapeuto	hipoterapeuta	subst:sg:voc:m1	pospolita	
+hipoterapeutom	hipoterapeuta	subst:pl:dat:m1	pospolita	
+hipoterapeutów	hipoterapeuta	subst:pl:acc:m1	pospolita	
+hipoterapeutów	hipoterapeuta	subst:pl:gen:m1	pospolita	
+hipoterapeuty	hipoterapeuta	depr:pl:nom:m2	pospolita	
+hipoterapeuty	hipoterapeuta	depr:pl:voc:m2	pospolita	
+hipoterapeuty	hipoterapeuta	subst:sg:gen:m1	pospolita	
 hipoterapiach	hipoterapia	subst:pl:loc:f	pospolita	
 hipoterapia	hipoterapia	subst:sg:nom:f	pospolita	
 hipoterapiami	hipoterapia	subst:pl:inst:f	pospolita	
@@ -30599,6 +30937,36 @@ hippicznym	hippiczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 hippicznym	hippiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 hippicznym	hippiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 hippicznymi	hippiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+hippiech	hippie	subst:pl:acc:m1	pospolita	
+hippiech	hippie	subst:pl:gen:m1	pospolita	
+hippiech	hippie	subst:pl:loc:m1	pospolita	
+hippiego	hippie	subst:sg:acc:m1	pospolita	
+hippiego	hippie	subst:sg:gen:m1	pospolita	
+hippie	hippie	depr:pl:nom:m2	pospolita	
+hippie	hippie	depr:pl:voc:m2	pospolita	
+hippie	hippie	subst:pl:acc:m1	pospolita	
+hippie	hippie	subst:pl:dat:m1	pospolita	
+hippie	hippie	subst:pl:gen:m1	pospolita	
+hippie	hippie	subst:pl:inst:m1	pospolita	
+hippie	hippie	subst:pl:loc:m1	pospolita	
+hippie	hippie	subst:pl:nom:m1	pospolita	
+hippie	hippie	subst:pl:voc:m1	pospolita	
+hippie	hippie	subst:sg:acc:m1	pospolita	
+hippie	hippie	subst:sg:dat:m1	pospolita	
+hippie	hippie	subst:sg:gen:m1	pospolita	
+hippie	hippie	subst:sg:inst:m1	pospolita	
+hippie	hippie	subst:sg:loc:m1	pospolita	
+hippie	hippie	subst:sg:nom:m1	pospolita	
+hippie	hippie	subst:sg:voc:m1	pospolita	
+hippiem	hippie	subst:pl:dat:m1	pospolita	
+hippiem	hippie	subst:sg:inst:m1	pospolita	
+hippiem	hippie	subst:sg:loc:m1	pospolita	
+hippiemi	hippie	subst:pl:inst:m1	pospolita	
+hippiemu	hippie	subst:sg:dat:m1	pospolita	
+hippies	hippie	depr:pl:nom:m2	pospolita	
+hippies	hippie	depr:pl:voc:m2	pospolita	
+hippies	hippie	subst:pl:nom:m1	pospolita	
+hippies	hippie	subst:pl:voc:m1	pospolita	
 hippiesowscy	hippiesowski	adj:pl:nom.voc:m1.p1:pos		
 hippiesowska	hippiesowski	adj:sg:nom.voc:f:pos		
 hippiesowską	hippiesowski	adj:sg:acc:f:pos		
@@ -44426,6 +44794,39 @@ huncwotów	huncwot	subst:pl:acc:m1	pospolita	żart.|książk.
 huncwotów	huncwot	subst:pl:gen:m1	pospolita	żart.|książk.
 huncwoty	huncwot	depr:pl:nom:m2	pospolita	żart.|książk.
 huncwoty	huncwot	depr:pl:voc:m2	pospolita	żart.|książk.
+hungarolodzy	hungarolog	subst:pl:nom:m1	pospolita	
+hungarolodzy	hungarolog	subst:pl:voc:m1	pospolita	
+hungarologach	hungarolog	subst:pl:loc:m1	pospolita	
+hungarologa	hungarolog	subst:sg:acc:m1	pospolita	
+hungarologa	hungarolog	subst:sg:gen:m1	pospolita	
+hungarologami	hungarolog	subst:pl:inst:m1	pospolita	
+hungarolog	hungarolog	subst:sg:nom:m1	pospolita	
+hungarologiem	hungarolog	subst:sg:inst:m1	pospolita	
+hungarologi	hungarolog	depr:pl:nom:m2	pospolita	
+hungarologi	hungarolog	depr:pl:voc:m2	pospolita	
+hungarologom	hungarolog	subst:pl:dat:m1	pospolita	
+hungarologowie	hungarolog	subst:pl:nom:m1	pospolita	
+hungarologowie	hungarolog	subst:pl:voc:m1	pospolita	
+hungarologowi	hungarolog	subst:sg:dat:m1	pospolita	
+hungarologów	hungarolog	subst:pl:acc:m1	pospolita	
+hungarologów	hungarolog	subst:pl:gen:m1	pospolita	
+hungarologu	hungarolog	subst:sg:loc:m1	pospolita	
+hungarologu	hungarolog	subst:sg:voc:m1	pospolita	
+hungarologiach	hungarologia	subst:pl:loc:f	pospolita	
+hungarologia	hungarologia	subst:sg:nom:f	pospolita	
+hungarologiami	hungarologia	subst:pl:inst:f	pospolita	
+hungarologią	hungarologia	subst:sg:inst:f	pospolita	
+hungarologie	hungarologia	subst:pl:acc:f	pospolita	
+hungarologie	hungarologia	subst:pl:nom:f	pospolita	
+hungarologie	hungarologia	subst:pl:voc:f	pospolita	
+hungarologię	hungarologia	subst:sg:acc:f	pospolita	
+hungarologii	hungarologia	subst:pl:gen:f	pospolita	hom.
+hungarologii	hungarologia	subst:sg:dat:f	pospolita	
+hungarologii	hungarologia	subst:sg:gen:f	pospolita	
+hungarologii	hungarologia	subst:sg:loc:f	pospolita	
+hungarologij	hungarologia	subst:pl:gen:f	pospolita	arch.|char.
+hungarologio	hungarologia	subst:sg:voc:f	pospolita	
+hungarologiom	hungarologia	subst:pl:dat:f	pospolita	
 hungarystach	hungarysta	subst:pl:loc:m1	pospolita	
 hungarysta	hungarysta	subst:sg:nom:m1	pospolita	
 hungarystami	hungarysta	subst:pl:inst:m1	pospolita	
@@ -45194,6 +45595,22 @@ hurońskościom	hurońskość	subst:pl:dat:f
 hurońskość	hurońskość	subst:sg:acc:f		
 hurońskość	hurońskość	subst:sg:nom:f		
 hurra	hurra	interj		
+hurraoptymistach	hurraoptymista	subst:pl:loc:m1	pospolita	
+hurraoptymista	hurraoptymista	subst:sg:nom:m1	pospolita	
+hurraoptymistami	hurraoptymista	subst:pl:inst:m1	pospolita	
+hurraoptymistą	hurraoptymista	subst:sg:inst:m1	pospolita	
+hurraoptymistę	hurraoptymista	subst:sg:acc:m1	pospolita	
+hurraoptymisto	hurraoptymista	subst:sg:voc:m1	pospolita	
+hurraoptymistom	hurraoptymista	subst:pl:dat:m1	pospolita	
+hurraoptymistów	hurraoptymista	subst:pl:acc:m1	pospolita	
+hurraoptymistów	hurraoptymista	subst:pl:gen:m1	pospolita	
+hurraoptymisty	hurraoptymista	depr:pl:nom:m2	pospolita	
+hurraoptymisty	hurraoptymista	depr:pl:voc:m2	pospolita	
+hurraoptymisty	hurraoptymista	subst:sg:gen:m1	pospolita	
+hurraoptymiście	hurraoptymista	subst:sg:dat:m1	pospolita	
+hurraoptymiście	hurraoptymista	subst:sg:loc:m1	pospolita	
+hurraoptymiści	hurraoptymista	subst:pl:nom:m1	pospolita	
+hurraoptymiści	hurraoptymista	subst:pl:voc:m1	pospolita	
 hurraoptymistycznościach	hurraoptymistyczność	subst:pl:loc:f		
 hurraoptymistycznościami	hurraoptymistyczność	subst:pl:inst:f		
 hurraoptymistycznością	hurraoptymistyczność	subst:sg:inst:f		
@@ -48456,6 +48873,21 @@ hydroizohipsy	hydroizohipsa	subst:pl:acc:f	pospolita
 hydroizohipsy	hydroizohipsa	subst:pl:nom:f	pospolita	
 hydroizohipsy	hydroizohipsa	subst:pl:voc:f	pospolita	
 hydroizohipsy	hydroizohipsa	subst:sg:gen:f	pospolita	
+hydroizolacjach	hydroizolacja	subst:pl:loc:f	pospolita	
+hydroizolacja	hydroizolacja	subst:sg:nom:f	pospolita	
+hydroizolacjami	hydroizolacja	subst:pl:inst:f	pospolita	
+hydroizolacją	hydroizolacja	subst:sg:inst:f	pospolita	
+hydroizolacje	hydroizolacja	subst:pl:acc:f	pospolita	
+hydroizolacje	hydroizolacja	subst:pl:nom:f	pospolita	
+hydroizolacje	hydroizolacja	subst:pl:voc:f	pospolita	
+hydroizolację	hydroizolacja	subst:sg:acc:f	pospolita	
+hydroizolacji	hydroizolacja	subst:pl:gen:f	pospolita	hom.
+hydroizolacji	hydroizolacja	subst:sg:dat:f	pospolita	
+hydroizolacji	hydroizolacja	subst:sg:gen:f	pospolita	
+hydroizolacji	hydroizolacja	subst:sg:loc:f	pospolita	
+hydroizolacjo	hydroizolacja	subst:sg:voc:f	pospolita	
+hydroizolacjom	hydroizolacja	subst:pl:dat:f	pospolita	
+hydroizolacyj	hydroizolacja	subst:pl:gen:f	pospolita	arch.|char.
 hydrokinetycznościach	hydrokinetyczność	subst:pl:loc:f		
 hydrokinetycznościami	hydrokinetyczność	subst:pl:inst:f		
 hydrokinetycznością	hydrokinetyczność	subst:sg:inst:f		

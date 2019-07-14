@@ -54,6 +54,20 @@ laby	laba	subst:pl:acc:f	pospolita	pot.
 laby	laba	subst:pl:nom:f	pospolita	pot.
 laby	laba	subst:pl:voc:f	pospolita	pot.
 laby	laba	subst:sg:gen:f	pospolita	pot.
+labadziarach	labadziara	subst:pl:loc:f	pospolita	pogard.|pot.
+labadziara	labadziara	subst:sg:nom:f	pospolita	pogard.|pot.
+labadziarami	labadziara	subst:pl:inst:f	pospolita	pogard.|pot.
+labadziarą	labadziara	subst:sg:inst:f	pospolita	pogard.|pot.
+labadziarę	labadziara	subst:sg:acc:f	pospolita	pogard.|pot.
+labadziar	labadziara	subst:pl:gen:f	pospolita	pogard.|pot.
+labadziaro	labadziara	subst:sg:voc:f	pospolita	pogard.|pot.
+labadziarom	labadziara	subst:pl:dat:f	pospolita	pogard.|pot.
+labadziary	labadziara	subst:pl:acc:f	pospolita	pogard.|pot.
+labadziary	labadziara	subst:pl:nom:f	pospolita	pogard.|pot.
+labadziary	labadziara	subst:pl:voc:f	pospolita	pogard.|pot.
+labadziary	labadziara	subst:sg:gen:f	pospolita	pogard.|pot.
+labadziarze	labadziara	subst:sg:dat:f	pospolita	pogard.|pot.
+labadziarze	labadziara	subst:sg:loc:f	pospolita	pogard.|pot.
 labarach	labarum	subst:pl:loc:n2	pospolita	
 labara	labarum	subst:pl:acc:n2	pospolita	
 labara	labarum	subst:pl:nom:n2	pospolita	
@@ -780,6 +794,20 @@ laboratoryjnymi	laboratoryjny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 laboratoryjnym	laboratoryjny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 laboratoryjnym	laboratoryjny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 laboratoryjnym	laboratoryjny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+laborce	laborka	subst:sg:dat:f	pospolita	pot.|środ.
+laborce	laborka	subst:sg:loc:f	pospolita	pot.|środ.
+laborek	laborka	subst:pl:gen:f	pospolita	pot.|środ.
+laborkach	laborka	subst:pl:loc:f	pospolita	pot.|środ.
+laborka	laborka	subst:sg:nom:f	pospolita	pot.|środ.
+laborkami	laborka	subst:pl:inst:f	pospolita	pot.|środ.
+laborką	laborka	subst:sg:inst:f	pospolita	pot.|środ.
+laborkę	laborka	subst:sg:acc:f	pospolita	pot.|środ.
+laborki	laborka	subst:pl:acc:f	pospolita	pot.|środ.
+laborki	laborka	subst:pl:nom:f	pospolita	pot.|środ.
+laborki	laborka	subst:pl:voc:f	pospolita	pot.|środ.
+laborki	laborka	subst:sg:gen:f	pospolita	pot.|środ.
+laborko	laborka	subst:sg:voc:f	pospolita	pot.|środ.
+laborkom	laborka	subst:pl:dat:f	pospolita	pot.|środ.
 labourzystach	labourzysta	subst:pl:loc:m1	pospolita	
 labourzysta	labourzysta	subst:sg:nom:m1	pospolita	
 labourzystami	labourzysta	subst:pl:inst:m1	pospolita	
@@ -3422,6 +3450,20 @@ laktodensymetry	laktodensymetr	subst:pl:nom:m3	pospolita
 laktodensymetry	laktodensymetr	subst:pl:voc:m3	pospolita	
 laktodensymetrze	laktodensymetr	subst:sg:loc:m3	pospolita	
 laktodensymetrze	laktodensymetr	subst:sg:voc:m3	pospolita	
+laktoferynach	laktoferyna	subst:pl:loc:f	pospolita	chem.
+laktoferyna	laktoferyna	subst:sg:nom:f	pospolita	chem.
+laktoferynami	laktoferyna	subst:pl:inst:f	pospolita	chem.
+laktoferyną	laktoferyna	subst:sg:inst:f	pospolita	chem.
+laktoferynę	laktoferyna	subst:sg:acc:f	pospolita	chem.
+laktoferynie	laktoferyna	subst:sg:dat:f	pospolita	chem.
+laktoferynie	laktoferyna	subst:sg:loc:f	pospolita	chem.
+laktoferyn	laktoferyna	subst:pl:gen:f	pospolita	chem.
+laktoferyno	laktoferyna	subst:sg:voc:f	pospolita	chem.
+laktoferynom	laktoferyna	subst:pl:dat:f	pospolita	chem.
+laktoferyny	laktoferyna	subst:pl:acc:f	pospolita	chem.
+laktoferyny	laktoferyna	subst:pl:nom:f	pospolita	chem.
+laktoferyny	laktoferyna	subst:pl:voc:f	pospolita	chem.
+laktoferyny	laktoferyna	subst:sg:gen:f	pospolita	chem.
 laktoflawinach	laktoflawina	subst:pl:loc:f	pospolita	
 laktoflawina	laktoflawina	subst:sg:nom:f	pospolita	
 laktoflawinami	laktoflawina	subst:pl:inst:f	pospolita	
@@ -3496,6 +3538,34 @@ laktoowowegetarianinki	laktoowowegetarianinka	subst:pl:voc:f	pospolita
 laktoowowegetarianinki	laktoowowegetarianinka	subst:sg:gen:f	pospolita	
 laktoowowegetarianinko	laktoowowegetarianinka	subst:sg:voc:f	pospolita	
 laktoowowegetarianinkom	laktoowowegetarianinka	subst:pl:dat:f	pospolita	
+laktoowowegetarianizmach	laktoowowegetarianizm	subst:pl:loc:m3	pospolita	
+laktoowowegetarianizmami	laktoowowegetarianizm	subst:pl:inst:m3	pospolita	
+laktoowowegetarianizmem	laktoowowegetarianizm	subst:sg:inst:m3	pospolita	
+laktoowowegetarianizmie	laktoowowegetarianizm	subst:sg:loc:m3	pospolita	
+laktoowowegetarianizmie	laktoowowegetarianizm	subst:sg:voc:m3	pospolita	
+laktoowowegetarianizm	laktoowowegetarianizm	subst:sg:acc:m3	pospolita	
+laktoowowegetarianizm	laktoowowegetarianizm	subst:sg:nom:m3	pospolita	
+laktoowowegetarianizmom	laktoowowegetarianizm	subst:pl:dat:m3	pospolita	
+laktoowowegetarianizmowi	laktoowowegetarianizm	subst:sg:dat:m3	pospolita	
+laktoowowegetarianizmów	laktoowowegetarianizm	subst:pl:gen:m3	pospolita	
+laktoowowegetarianizmu	laktoowowegetarianizm	subst:sg:gen:m3	pospolita	
+laktoowowegetarianizmy	laktoowowegetarianizm	subst:pl:acc:m3	pospolita	
+laktoowowegetarianizmy	laktoowowegetarianizm	subst:pl:nom:m3	pospolita	
+laktoowowegetarianizmy	laktoowowegetarianizm	subst:pl:voc:m3	pospolita	
+laktoowowegetariance	laktoowowegetarianka	subst:sg:dat:f	pospolita	
+laktoowowegetariance	laktoowowegetarianka	subst:sg:loc:f	pospolita	
+laktoowowegetarianek	laktoowowegetarianka	subst:pl:gen:f	pospolita	
+laktoowowegetariankach	laktoowowegetarianka	subst:pl:loc:f	pospolita	
+laktoowowegetarianka	laktoowowegetarianka	subst:sg:nom:f	pospolita	
+laktoowowegetariankami	laktoowowegetarianka	subst:pl:inst:f	pospolita	
+laktoowowegetarianką	laktoowowegetarianka	subst:sg:inst:f	pospolita	
+laktoowowegetariankę	laktoowowegetarianka	subst:sg:acc:f	pospolita	
+laktoowowegetarianki	laktoowowegetarianka	subst:pl:acc:f	pospolita	
+laktoowowegetarianki	laktoowowegetarianka	subst:pl:nom:f	pospolita	
+laktoowowegetarianki	laktoowowegetarianka	subst:pl:voc:f	pospolita	
+laktoowowegetarianki	laktoowowegetarianka	subst:sg:gen:f	pospolita	
+laktoowowegetarianko	laktoowowegetarianka	subst:sg:voc:f	pospolita	
+laktoowowegetariankom	laktoowowegetarianka	subst:pl:dat:f	pospolita	
 laktoskopach	laktoskop	subst:pl:loc:m3	pospolita	
 laktoskopami	laktoskop	subst:pl:inst:m3	pospolita	
 laktoskopem	laktoskop	subst:sg:inst:m3	pospolita	
@@ -3542,6 +3612,34 @@ laktowegetarianinki	laktowegetarianinka	subst:pl:voc:f	pospolita
 laktowegetarianinki	laktowegetarianinka	subst:sg:gen:f	pospolita	
 laktowegetarianinko	laktowegetarianinka	subst:sg:voc:f	pospolita	
 laktowegetarianinkom	laktowegetarianinka	subst:pl:dat:f	pospolita	
+laktowegetarianizmach	laktowegetarianizm	subst:pl:loc:m3	pospolita	
+laktowegetarianizmami	laktowegetarianizm	subst:pl:inst:m3	pospolita	
+laktowegetarianizmem	laktowegetarianizm	subst:sg:inst:m3	pospolita	
+laktowegetarianizmie	laktowegetarianizm	subst:sg:loc:m3	pospolita	
+laktowegetarianizmie	laktowegetarianizm	subst:sg:voc:m3	pospolita	
+laktowegetarianizm	laktowegetarianizm	subst:sg:acc:m3	pospolita	
+laktowegetarianizm	laktowegetarianizm	subst:sg:nom:m3	pospolita	
+laktowegetarianizmom	laktowegetarianizm	subst:pl:dat:m3	pospolita	
+laktowegetarianizmowi	laktowegetarianizm	subst:sg:dat:m3	pospolita	
+laktowegetarianizmów	laktowegetarianizm	subst:pl:gen:m3	pospolita	
+laktowegetarianizmu	laktowegetarianizm	subst:sg:gen:m3	pospolita	
+laktowegetarianizmy	laktowegetarianizm	subst:pl:acc:m3	pospolita	
+laktowegetarianizmy	laktowegetarianizm	subst:pl:nom:m3	pospolita	
+laktowegetarianizmy	laktowegetarianizm	subst:pl:voc:m3	pospolita	
+laktowegetariance	laktowegetarianka	subst:sg:dat:f	pospolita	
+laktowegetariance	laktowegetarianka	subst:sg:loc:f	pospolita	
+laktowegetarianek	laktowegetarianka	subst:pl:gen:f	pospolita	
+laktowegetariankach	laktowegetarianka	subst:pl:loc:f	pospolita	
+laktowegetarianka	laktowegetarianka	subst:sg:nom:f	pospolita	
+laktowegetariankami	laktowegetarianka	subst:pl:inst:f	pospolita	
+laktowegetarianką	laktowegetarianka	subst:sg:inst:f	pospolita	
+laktowegetariankę	laktowegetarianka	subst:sg:acc:f	pospolita	
+laktowegetarianki	laktowegetarianka	subst:pl:acc:f	pospolita	
+laktowegetarianki	laktowegetarianka	subst:pl:nom:f	pospolita	
+laktowegetarianki	laktowegetarianka	subst:pl:voc:f	pospolita	
+laktowegetarianki	laktowegetarianka	subst:sg:gen:f	pospolita	
+laktowegetarianko	laktowegetarianka	subst:sg:voc:f	pospolita	
+laktowegetariankom	laktowegetarianka	subst:pl:dat:f	pospolita	
 laktozach	laktoza	subst:pl:loc:f	pospolita	
 laktoza	laktoza	subst:sg:nom:f	pospolita	
 laktozami	laktoza	subst:pl:inst:f	pospolita	
@@ -4024,6 +4122,22 @@ lamaickości	lamaickość	subst:sg:voc:f
 lamaickościom	lamaickość	subst:pl:dat:f		
 lamaickość	lamaickość	subst:sg:acc:f		
 lamaickość	lamaickość	subst:sg:nom:f		
+lamaistach	lamaista	subst:pl:loc:m1	pospolita	
+lamaista	lamaista	subst:sg:nom:m1	pospolita	
+lamaistami	lamaista	subst:pl:inst:m1	pospolita	
+lamaistą	lamaista	subst:sg:inst:m1	pospolita	
+lamaistę	lamaista	subst:sg:acc:m1	pospolita	
+lamaisto	lamaista	subst:sg:voc:m1	pospolita	
+lamaistom	lamaista	subst:pl:dat:m1	pospolita	
+lamaistów	lamaista	subst:pl:acc:m1	pospolita	
+lamaistów	lamaista	subst:pl:gen:m1	pospolita	
+lamaisty	lamaista	depr:pl:nom:m2	pospolita	
+lamaisty	lamaista	depr:pl:voc:m2	pospolita	
+lamaisty	lamaista	subst:sg:gen:m1	pospolita	
+lamaiście	lamaista	subst:sg:dat:m1	pospolita	
+lamaiście	lamaista	subst:sg:loc:m1	pospolita	
+lamaiści	lamaista	subst:pl:nom:m1	pospolita	
+lamaiści	lamaista	subst:pl:voc:m1	pospolita	
 lamaistycznościach	lamaistyczność	subst:pl:loc:f		
 lamaistycznościami	lamaistyczność	subst:pl:inst:f		
 lamaistycznością	lamaistyczność	subst:sg:inst:f		
@@ -7004,6 +7118,82 @@ lansadom	lansady	subst:pl:dat:p3	pospolita
 lansady	lansady	subst:pl:acc:p3	pospolita	
 lansady	lansady	subst:pl:nom:p3	pospolita	
 lansady	lansady	subst:pl:voc:p3	pospolita	
+lanserach	lanser	subst:pl:loc:m1	pospolita	pot.
+lansera	lanser	subst:sg:acc:m1	pospolita	pot.
+lansera	lanser	subst:sg:gen:m1	pospolita	pot.
+lanserami	lanser	subst:pl:inst:m1	pospolita	pot.
+lanserem	lanser	subst:sg:inst:m1	pospolita	pot.
+lanser	lanser	subst:sg:nom:m1	pospolita	pot.
+lanserom	lanser	subst:pl:dat:m1	pospolita	pot.
+lanserowi	lanser	subst:sg:dat:m1	pospolita	pot.
+lanserów	lanser	subst:pl:acc:m1	pospolita	pot.
+lanserów	lanser	subst:pl:gen:m1	pospolita	pot.
+lansery	lanser	depr:pl:nom:m2	pospolita	pot.
+lansery	lanser	depr:pl:voc:m2	pospolita	pot.
+lanserze	lanser	subst:sg:loc:m1	pospolita	pot.
+lanserze	lanser	subst:sg:voc:m1	pospolita	pot.
+lanserzy	lanser	subst:pl:nom:m1	pospolita	pot.
+lanserzy	lanser	subst:pl:voc:m1	pospolita	pot.
+lanserce	lanserka	subst:sg:dat:f	pospolita	pot.
+lanserce	lanserka	subst:sg:loc:f	pospolita	pot.
+lanserek	lanserka	subst:pl:gen:f	pospolita	pot.
+lanserkach	lanserka	subst:pl:loc:f	pospolita	pot.
+lanserka	lanserka	subst:sg:nom:f	pospolita	pot.
+lanserkami	lanserka	subst:pl:inst:f	pospolita	pot.
+lanserką	lanserka	subst:sg:inst:f	pospolita	pot.
+lanserkę	lanserka	subst:sg:acc:f	pospolita	pot.
+lanserki	lanserka	subst:pl:acc:f	pospolita	pot.
+lanserki	lanserka	subst:pl:nom:f	pospolita	pot.
+lanserki	lanserka	subst:pl:voc:f	pospolita	pot.
+lanserki	lanserka	subst:sg:gen:f	pospolita	pot.
+lanserko	lanserka	subst:sg:voc:f	pospolita	pot.
+lanserkom	lanserka	subst:pl:dat:f	pospolita	pot.
+lanserstwach	lanserstwo	subst:pl:loc:n2	pospolita	pot.
+lanserstwa	lanserstwo	subst:pl:acc:n2	pospolita	pot.
+lanserstwa	lanserstwo	subst:pl:nom:n2	pospolita	pot.
+lanserstwa	lanserstwo	subst:pl:voc:n2	pospolita	pot.
+lanserstwa	lanserstwo	subst:sg:gen:n2	pospolita	pot.
+lanserstwami	lanserstwo	subst:pl:inst:n2	pospolita	pot.
+lanserstwem	lanserstwo	subst:sg:inst:n2	pospolita	pot.
+lanserstwie	lanserstwo	subst:sg:loc:n2	pospolita	pot.
+lanserstw	lanserstwo	subst:pl:gen:n2	pospolita	pot.
+lanserstwo	lanserstwo	subst:sg:acc:n2	pospolita	pot.
+lanserstwo	lanserstwo	subst:sg:nom:n2	pospolita	pot.
+lanserstwo	lanserstwo	subst:sg:voc:n2	pospolita	pot.
+lanserstwom	lanserstwo	subst:pl:dat:n2	pospolita	pot.
+lanserstwu	lanserstwo	subst:sg:dat:n2	pospolita	pot.
+lansiarzach	lansiarz	subst:pl:loc:m1	pospolita	pot.
+lansiarzach	lansiarz	subst:pl:loc:m1	pospolita	rzad.|pot.
+lansiarza	lansiarz	subst:sg:acc:m1	pospolita	pot.
+lansiarza	lansiarz	subst:sg:acc:m1	pospolita	rzad.|pot.
+lansiarza	lansiarz	subst:sg:gen:m1	pospolita	pot.
+lansiarza	lansiarz	subst:sg:gen:m1	pospolita	rzad.|pot.
+lansiarzami	lansiarz	subst:pl:inst:m1	pospolita	pot.
+lansiarzami	lansiarz	subst:pl:inst:m1	pospolita	rzad.|pot.
+lansiarze	lansiarz	depr:pl:nom:m2	pospolita	pot.
+lansiarze	lansiarz	depr:pl:nom:m2	pospolita	rzad.|pot.
+lansiarze	lansiarz	depr:pl:voc:m2	pospolita	pot.
+lansiarze	lansiarz	depr:pl:voc:m2	pospolita	rzad.|pot.
+lansiarze	lansiarz	subst:pl:nom:m1	pospolita	pot.
+lansiarze	lansiarz	subst:pl:nom:m1	pospolita	rzad.|pot.
+lansiarze	lansiarz	subst:pl:voc:m1	pospolita	pot.
+lansiarze	lansiarz	subst:pl:voc:m1	pospolita	rzad.|pot.
+lansiarzem	lansiarz	subst:sg:inst:m1	pospolita	pot.
+lansiarzem	lansiarz	subst:sg:inst:m1	pospolita	rzad.|pot.
+lansiarz	lansiarz	subst:sg:nom:m1	pospolita	pot.
+lansiarz	lansiarz	subst:sg:nom:m1	pospolita	rzad.|pot.
+lansiarzom	lansiarz	subst:pl:dat:m1	pospolita	pot.
+lansiarzom	lansiarz	subst:pl:dat:m1	pospolita	rzad.|pot.
+lansiarzowi	lansiarz	subst:sg:dat:m1	pospolita	pot.
+lansiarzowi	lansiarz	subst:sg:dat:m1	pospolita	rzad.|pot.
+lansiarzów	lansiarz	subst:pl:acc:m1	pospolita	rzad.|pot.
+lansiarzów	lansiarz	subst:pl:gen:m1	pospolita	rzad.|pot.
+lansiarzu	lansiarz	subst:sg:loc:m1	pospolita	pot.
+lansiarzu	lansiarz	subst:sg:loc:m1	pospolita	rzad.|pot.
+lansiarzu	lansiarz	subst:sg:voc:m1	pospolita	pot.
+lansiarzu	lansiarz	subst:sg:voc:m1	pospolita	rzad.|pot.
+lansiarzy	lansiarz	subst:pl:acc:m1	pospolita	pot.
+lansiarzy	lansiarz	subst:pl:gen:m1	pospolita	pot.
 lansjerach	lansjer:s1	subst:pl:loc:m1	pospolita	
 lansjera	lansjer:s1	subst:sg:acc:m1	pospolita	
 lansjera	lansjer:s1	subst:sg:gen:m1	pospolita	
@@ -7232,6 +7422,20 @@ lanuszki	lanuszka	subst:pl:voc:f	pospolita	bot.
 lanuszki	lanuszka	subst:sg:gen:f	pospolita	bot.
 lanuszko	lanuszka	subst:sg:voc:f	pospolita	bot.
 lanuszkom	lanuszka	subst:pl:dat:f	pospolita	bot.
+lańskach	lańsko	subst:pl:loc:n2	pospolita	pot.
+lańska	lańsko	subst:pl:acc:n2	pospolita	pot.
+lańska	lańsko	subst:pl:nom:n2	pospolita	pot.
+lańska	lańsko	subst:pl:voc:n2	pospolita	pot.
+lańska	lańsko	subst:sg:gen:n2	pospolita	pot.
+lańskami	lańsko	subst:pl:inst:n2	pospolita	pot.
+lańskiem	lańsko	subst:sg:inst:n2	pospolita	pot.
+lańsk	lańsko	subst:pl:gen:n2	pospolita	pot.
+lańsko	lańsko	subst:sg:acc:n2	pospolita	pot.
+lańsko	lańsko	subst:sg:nom:n2	pospolita	pot.
+lańsko	lańsko	subst:sg:voc:n2	pospolita	pot.
+lańskom	lańsko	subst:pl:dat:n2	pospolita	pot.
+lańsku	lańsko	subst:sg:dat:n2	pospolita	pot.
+lańsku	lańsko	subst:sg:loc:n2	pospolita	pot.
 laodycejscy	laodycejski	adj:pl:nom.voc:m1.p1:pos		
 laodycejska	laodycejski	adj:sg:nom.voc:f:pos		
 laodycejską	laodycejski	adj:sg:acc:f:pos		
@@ -8180,6 +8384,21 @@ larwki	larwka	subst:pl:voc:f	pospolita
 larwki	larwka	subst:sg:gen:f	pospolita	
 larwko	larwka	subst:sg:voc:f	pospolita	
 larwkom	larwka	subst:pl:dat:f	pospolita	
+larwoterapiach	larwoterapia	subst:pl:loc:f	pospolita	
+larwoterapia	larwoterapia	subst:sg:nom:f	pospolita	
+larwoterapiami	larwoterapia	subst:pl:inst:f	pospolita	
+larwoterapią	larwoterapia	subst:sg:inst:f	pospolita	
+larwoterapie	larwoterapia	subst:pl:acc:f	pospolita	
+larwoterapie	larwoterapia	subst:pl:nom:f	pospolita	
+larwoterapie	larwoterapia	subst:pl:voc:f	pospolita	
+larwoterapię	larwoterapia	subst:sg:acc:f	pospolita	
+larwoterapii	larwoterapia	subst:pl:gen:f	pospolita	hom.
+larwoterapii	larwoterapia	subst:sg:dat:f	pospolita	
+larwoterapii	larwoterapia	subst:sg:gen:f	pospolita	
+larwoterapii	larwoterapia	subst:sg:loc:f	pospolita	
+larwoterapij	larwoterapia	subst:pl:gen:f	pospolita	arch.|char.
+larwoterapio	larwoterapia	subst:sg:voc:f	pospolita	
+larwoterapiom	larwoterapia	subst:pl:dat:f	pospolita	
 larach	lary	subst:pl:loc:p3	pospolita	
 larami	lary	subst:pl:inst:p3	pospolita	
 larom	lary	subst:pl:dat:p3	pospolita	
@@ -8687,6 +8906,20 @@ laserowymi	laserowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 laserowym	laserowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 laserowym	laserowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 laserowym	laserowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+laserówce	laserówka	subst:sg:dat:f	pospolita	pot.
+laserówce	laserówka	subst:sg:loc:f	pospolita	pot.
+laserówek	laserówka	subst:pl:gen:f	pospolita	pot.
+laserówkach	laserówka	subst:pl:loc:f	pospolita	pot.
+laserówka	laserówka	subst:sg:nom:f	pospolita	pot.
+laserówkami	laserówka	subst:pl:inst:f	pospolita	pot.
+laserówką	laserówka	subst:sg:inst:f	pospolita	pot.
+laserówkę	laserówka	subst:sg:acc:f	pospolita	pot.
+laserówki	laserówka	subst:pl:acc:f	pospolita	pot.
+laserówki	laserówka	subst:pl:nom:f	pospolita	pot.
+laserówki	laserówka	subst:pl:voc:f	pospolita	pot.
+laserówki	laserówka	subst:sg:gen:f	pospolita	pot.
+laserówko	laserówka	subst:sg:voc:f	pospolita	pot.
+laserówkom	laserówka	subst:pl:dat:f	pospolita	pot.
 laserunek	laserunek	subst:sg:acc:m3	pospolita	
 laserunek	laserunek	subst:sg:nom:m3	pospolita	
 laserunkach	laserunek	subst:pl:loc:m3	pospolita	
@@ -11416,6 +11649,20 @@ latynistki	latynistka	subst:pl:voc:f	pospolita
 latynistki	latynistka	subst:sg:gen:f	pospolita	
 latynistko	latynistka	subst:sg:voc:f	pospolita	
 latynistkom	latynistka	subst:pl:dat:f	pospolita	
+latynistyce	latynistyka	subst:sg:dat:f	pospolita	
+latynistyce	latynistyka	subst:sg:loc:f	pospolita	
+latynistykach	latynistyka	subst:pl:loc:f	pospolita	
+latynistyka	latynistyka	subst:sg:nom:f	pospolita	
+latynistykami	latynistyka	subst:pl:inst:f	pospolita	
+latynistyką	latynistyka	subst:sg:inst:f	pospolita	
+latynistykę	latynistyka	subst:sg:acc:f	pospolita	
+latynistyki	latynistyka	subst:pl:acc:f	pospolita	
+latynistyki	latynistyka	subst:pl:nom:f	pospolita	
+latynistyki	latynistyka	subst:pl:voc:f	pospolita	
+latynistyki	latynistyka	subst:sg:gen:f	pospolita	
+latynistyk	latynistyka	subst:pl:gen:f	pospolita	
+latynistyko	latynistyka	subst:sg:voc:f	pospolita	
+latynistykom	latynistyka	subst:pl:dat:f	pospolita	
 latynizacjach	latynizacja	subst:pl:loc:f	pospolita	
 latynizacja	latynizacja	subst:sg:nom:f	pospolita	
 latynizacjami	latynizacja	subst:pl:inst:f	pospolita	
@@ -11549,6 +11796,21 @@ latynizujesz	latynizować	fin:sg:sec:imperf
 latynizuję	latynizować	fin:sg:pri:imperf		
 latynizuj	latynizować	impt:sg:sec:imperf		
 latynizujmy	latynizować	impt:pl:pri:imperf		
+latynoamerykanizacjach	latynoamerykanizacja	subst:pl:loc:f	pospolita	
+latynoamerykanizacja	latynoamerykanizacja	subst:sg:nom:f	pospolita	
+latynoamerykanizacjami	latynoamerykanizacja	subst:pl:inst:f	pospolita	
+latynoamerykanizacją	latynoamerykanizacja	subst:sg:inst:f	pospolita	
+latynoamerykanizacje	latynoamerykanizacja	subst:pl:acc:f	pospolita	
+latynoamerykanizacje	latynoamerykanizacja	subst:pl:nom:f	pospolita	
+latynoamerykanizacje	latynoamerykanizacja	subst:pl:voc:f	pospolita	
+latynoamerykanizację	latynoamerykanizacja	subst:sg:acc:f	pospolita	
+latynoamerykanizacji	latynoamerykanizacja	subst:pl:gen:f	pospolita	hom.
+latynoamerykanizacji	latynoamerykanizacja	subst:sg:dat:f	pospolita	
+latynoamerykanizacji	latynoamerykanizacja	subst:sg:gen:f	pospolita	
+latynoamerykanizacji	latynoamerykanizacja	subst:sg:loc:f	pospolita	
+latynoamerykanizacjo	latynoamerykanizacja	subst:sg:voc:f	pospolita	
+latynoamerykanizacjom	latynoamerykanizacja	subst:pl:dat:f	pospolita	
+latynoamerykanizacyj	latynoamerykanizacja	subst:pl:gen:f	pospolita	arch.|char.
 latynoamerykańscy	latynoamerykański	adj:pl:nom.voc:m1.p1:pos		
 latynoamerykańska	latynoamerykański	adj:sg:nom.voc:f:pos		
 latynoamerykańską	latynoamerykański	adj:sg:acc:f:pos		
@@ -12229,6 +12491,38 @@ lawy	lawa	subst:pl:acc:f	pospolita
 lawy	lawa	subst:pl:nom:f	pospolita	
 lawy	lawa	subst:pl:voc:f	pospolita	
 lawy	lawa	subst:sg:gen:f	pospolita	
+laweciarzach	laweciarz	subst:pl:loc:m1	pospolita	pot.
+laweciarzach	laweciarz	subst:pl:loc:m1	pospolita	rzad.|pot.
+laweciarza	laweciarz	subst:sg:acc:m1	pospolita	pot.
+laweciarza	laweciarz	subst:sg:acc:m1	pospolita	rzad.|pot.
+laweciarza	laweciarz	subst:sg:gen:m1	pospolita	pot.
+laweciarza	laweciarz	subst:sg:gen:m1	pospolita	rzad.|pot.
+laweciarzami	laweciarz	subst:pl:inst:m1	pospolita	pot.
+laweciarzami	laweciarz	subst:pl:inst:m1	pospolita	rzad.|pot.
+laweciarze	laweciarz	depr:pl:nom:m2	pospolita	pot.
+laweciarze	laweciarz	depr:pl:nom:m2	pospolita	rzad.|pot.
+laweciarze	laweciarz	depr:pl:voc:m2	pospolita	pot.
+laweciarze	laweciarz	depr:pl:voc:m2	pospolita	rzad.|pot.
+laweciarze	laweciarz	subst:pl:nom:m1	pospolita	pot.
+laweciarze	laweciarz	subst:pl:nom:m1	pospolita	rzad.|pot.
+laweciarze	laweciarz	subst:pl:voc:m1	pospolita	pot.
+laweciarze	laweciarz	subst:pl:voc:m1	pospolita	rzad.|pot.
+laweciarzem	laweciarz	subst:sg:inst:m1	pospolita	pot.
+laweciarzem	laweciarz	subst:sg:inst:m1	pospolita	rzad.|pot.
+laweciarz	laweciarz	subst:sg:nom:m1	pospolita	pot.
+laweciarz	laweciarz	subst:sg:nom:m1	pospolita	rzad.|pot.
+laweciarzom	laweciarz	subst:pl:dat:m1	pospolita	pot.
+laweciarzom	laweciarz	subst:pl:dat:m1	pospolita	rzad.|pot.
+laweciarzowi	laweciarz	subst:sg:dat:m1	pospolita	pot.
+laweciarzowi	laweciarz	subst:sg:dat:m1	pospolita	rzad.|pot.
+laweciarzów	laweciarz	subst:pl:acc:m1	pospolita	rzad.|pot.
+laweciarzów	laweciarz	subst:pl:gen:m1	pospolita	rzad.|pot.
+laweciarzu	laweciarz	subst:sg:loc:m1	pospolita	pot.
+laweciarzu	laweciarz	subst:sg:loc:m1	pospolita	rzad.|pot.
+laweciarzu	laweciarz	subst:sg:voc:m1	pospolita	pot.
+laweciarzu	laweciarz	subst:sg:voc:m1	pospolita	rzad.|pot.
+laweciarzy	laweciarz	subst:pl:acc:m1	pospolita	pot.
+laweciarzy	laweciarz	subst:pl:gen:m1	pospolita	pot.
 lawendach	lawenda	subst:pl:loc:f	pospolita	bot.
 lawenda	lawenda	subst:sg:nom:f	pospolita	bot.
 lawendami	lawenda	subst:pl:inst:f	pospolita	bot.
@@ -15340,6 +15634,22 @@ legalizacyjnymi	legalizacyjny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 legalizacyjnym	legalizacyjny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 legalizacyjnym	legalizacyjny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 legalizacyjnym	legalizacyjny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+legalizatorach	legalizator	subst:pl:loc:m1	pospolita	
+legalizatora	legalizator	subst:sg:acc:m1	pospolita	
+legalizatora	legalizator	subst:sg:gen:m1	pospolita	
+legalizatorami	legalizator	subst:pl:inst:m1	pospolita	
+legalizatorem	legalizator	subst:sg:inst:m1	pospolita	
+legalizator	legalizator	subst:sg:nom:m1	pospolita	
+legalizatorom	legalizator	subst:pl:dat:m1	pospolita	
+legalizatorowi	legalizator	subst:sg:dat:m1	pospolita	
+legalizatorów	legalizator	subst:pl:acc:m1	pospolita	
+legalizatorów	legalizator	subst:pl:gen:m1	pospolita	
+legalizatory	legalizator	depr:pl:nom:m2	pospolita	
+legalizatory	legalizator	depr:pl:voc:m2	pospolita	
+legalizatorze	legalizator	subst:sg:loc:m1	pospolita	
+legalizatorze	legalizator	subst:sg:voc:m1	pospolita	
+legalizatorzy	legalizator	subst:pl:nom:m1	pospolita	
+legalizatorzy	legalizator	subst:pl:voc:m1	pospolita	
 legalizmach	legalizm	subst:pl:loc:m3	pospolita	
 legalizmami	legalizm	subst:pl:inst:m3	pospolita	
 legalizmem	legalizm	subst:sg:inst:m3	pospolita	
@@ -21420,6 +21730,20 @@ leninowskości	leninowskość	subst:sg:voc:f
 leninowskościom	leninowskość	subst:pl:dat:f		
 leninowskość	leninowskość	subst:sg:acc:f		
 leninowskość	leninowskość	subst:sg:nom:f		
+leninówce	leninówka	subst:sg:dat:f	pospolita	
+leninówce	leninówka	subst:sg:loc:f	pospolita	
+leninówek	leninówka	subst:pl:gen:f	pospolita	
+leninówkach	leninówka	subst:pl:loc:f	pospolita	
+leninówka	leninówka	subst:sg:nom:f	pospolita	
+leninówkami	leninówka	subst:pl:inst:f	pospolita	
+leninówką	leninówka	subst:sg:inst:f	pospolita	
+leninówkę	leninówka	subst:sg:acc:f	pospolita	
+leninówki	leninówka	subst:pl:acc:f	pospolita	
+leninówki	leninówka	subst:pl:nom:f	pospolita	
+leninówki	leninówka	subst:pl:voc:f	pospolita	
+leninówki	leninówka	subst:sg:gen:f	pospolita	
+leninówko	leninówka	subst:sg:voc:f	pospolita	
+leninówkom	leninówka	subst:pl:dat:f	pospolita	
 leniowatościach	leniowatość	subst:pl:loc:f		
 leniowatościami	leniowatość	subst:pl:inst:f		
 leniowatością	leniowatość	subst:sg:inst:f		
@@ -23111,6 +23435,20 @@ leprozorium	leprozorium	subst:sg:inst:n2	pospolita
 leprozorium	leprozorium	subst:sg:loc:n2	pospolita	
 leprozorium	leprozorium	subst:sg:nom:n2	pospolita	
 leprozorium	leprozorium	subst:sg:voc:n2	pospolita	
+lepsza	lepsza	subst:sg:nom:f	pospolita	pogard.
+lepsza	lepsza	subst:sg:voc:f	pospolita	pogard.
+lepszą	lepsza	subst:sg:acc:f	pospolita	pogard.
+lepszą	lepsza	subst:sg:inst:f	pospolita	pogard.
+lepszej	lepsza	subst:sg:dat:f	pospolita	pogard.
+lepszej	lepsza	subst:sg:gen:f	pospolita	pogard.
+lepszej	lepsza	subst:sg:loc:f	pospolita	pogard.
+lepsze	lepsza	subst:pl:acc:f	pospolita	pogard.
+lepsze	lepsza	subst:pl:nom:f	pospolita	pogard.
+lepsze	lepsza	subst:pl:voc:f	pospolita	pogard.
+lepszych	lepsza	subst:pl:gen:f	pospolita	pogard.
+lepszych	lepsza	subst:pl:loc:f	pospolita	pogard.
+lepszymi	lepsza	subst:pl:inst:f	pospolita	pogard.
+lepszym	lepsza	subst:pl:dat:f	pospolita	pogard.
 lepszego	lepsze	subst:sg:gen:n2	pospolita	
 lepsze	lepsze	subst:pl:acc:n2	pospolita	
 lepsze	lepsze	subst:pl:nom:n2	pospolita	
@@ -23388,6 +23726,50 @@ lesbijskości	lesbijskość	subst:sg:voc:f
 lesbijskościom	lesbijskość	subst:pl:dat:f		
 lesbijskość	lesbijskość	subst:sg:acc:f		
 lesbijskość	lesbijskość	subst:sg:nom:f		
+lesbijstwach	lesbijstwo	subst:pl:loc:n2	pospolita	
+lesbijstwa	lesbijstwo	subst:pl:acc:n2	pospolita	
+lesbijstwa	lesbijstwo	subst:pl:nom:n2	pospolita	
+lesbijstwa	lesbijstwo	subst:pl:voc:n2	pospolita	
+lesbijstwa	lesbijstwo	subst:sg:gen:n2	pospolita	
+lesbijstwami	lesbijstwo	subst:pl:inst:n2	pospolita	
+lesbijstwem	lesbijstwo	subst:sg:inst:n2	pospolita	
+lesbijstwie	lesbijstwo	subst:sg:loc:n2	pospolita	
+lesbijstw	lesbijstwo	subst:pl:gen:n2	pospolita	
+lesbijstwo	lesbijstwo	subst:sg:acc:n2	pospolita	
+lesbijstwo	lesbijstwo	subst:sg:nom:n2	pospolita	
+lesbijstwo	lesbijstwo	subst:sg:voc:n2	pospolita	
+lesbijstwom	lesbijstwo	subst:pl:dat:n2	pospolita	
+lesbijstwu	lesbijstwo	subst:sg:dat:n2	pospolita	
+lesbizmach	lesbizm	subst:pl:loc:m3	pospolita	
+lesbizmami	lesbizm	subst:pl:inst:m3	pospolita	
+lesbizmem	lesbizm	subst:sg:inst:m3	pospolita	
+lesbizmie	lesbizm	subst:sg:loc:m3	pospolita	
+lesbizmie	lesbizm	subst:sg:voc:m3	pospolita	
+lesbizm	lesbizm	subst:sg:acc:m3	pospolita	
+lesbizm	lesbizm	subst:sg:nom:m3	pospolita	
+lesbizmom	lesbizm	subst:pl:dat:m3	pospolita	
+lesbizmowi	lesbizm	subst:sg:dat:m3	pospolita	
+lesbizmów	lesbizm	subst:pl:gen:m3	pospolita	
+lesbizmu	lesbizm	subst:sg:gen:m3	pospolita	
+lesbizmy	lesbizm	subst:pl:acc:m3	pospolita	
+lesbizmy	lesbizm	subst:pl:nom:m3	pospolita	
+lesbizmy	lesbizm	subst:pl:voc:m3	pospolita	
+leseferystach	leseferysta	subst:pl:loc:m1	pospolita	
+leseferysta	leseferysta	subst:sg:nom:m1	pospolita	
+leseferystami	leseferysta	subst:pl:inst:m1	pospolita	
+leseferystą	leseferysta	subst:sg:inst:m1	pospolita	
+leseferystę	leseferysta	subst:sg:acc:m1	pospolita	
+leseferysto	leseferysta	subst:sg:voc:m1	pospolita	
+leseferystom	leseferysta	subst:pl:dat:m1	pospolita	
+leseferystów	leseferysta	subst:pl:acc:m1	pospolita	
+leseferystów	leseferysta	subst:pl:gen:m1	pospolita	
+leseferysty	leseferysta	depr:pl:nom:m2	pospolita	
+leseferysty	leseferysta	depr:pl:voc:m2	pospolita	
+leseferysty	leseferysta	subst:sg:gen:m1	pospolita	
+leseferyście	leseferysta	subst:sg:dat:m1	pospolita	
+leseferyście	leseferysta	subst:sg:loc:m1	pospolita	
+leseferyści	leseferysta	subst:pl:nom:m1	pospolita	
+leseferyści	leseferysta	subst:pl:voc:m1	pospolita	
 leseferyzmach	leseferyzm	subst:pl:loc:m3	pospolita	
 leseferyzmami	leseferyzm	subst:pl:inst:m3	pospolita	
 leseferyzmem	leseferyzm	subst:sg:inst:m3	pospolita	
@@ -24069,6 +24451,20 @@ leszowymi	leszowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 leszowym	leszowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 leszowym	leszowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 leszowym	leszowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+leśmianizmach	leśmianizm	subst:pl:loc:m3	pospolita	
+leśmianizmami	leśmianizm	subst:pl:inst:m3	pospolita	
+leśmianizmem	leśmianizm	subst:sg:inst:m3	pospolita	
+leśmianizmie	leśmianizm	subst:sg:loc:m3	pospolita	
+leśmianizmie	leśmianizm	subst:sg:voc:m3	pospolita	
+leśmianizm	leśmianizm	subst:sg:acc:m3	pospolita	
+leśmianizm	leśmianizm	subst:sg:nom:m3	pospolita	
+leśmianizmom	leśmianizm	subst:pl:dat:m3	pospolita	
+leśmianizmowi	leśmianizm	subst:sg:dat:m3	pospolita	
+leśmianizmów	leśmianizm	subst:pl:gen:m3	pospolita	
+leśmianizmu	leśmianizm	subst:sg:gen:m3	pospolita	
+leśmianizmy	leśmianizm	subst:pl:acc:m3	pospolita	
+leśmianizmy	leśmianizm	subst:pl:nom:m3	pospolita	
+leśmianizmy	leśmianizm	subst:pl:voc:m3	pospolita	
 leśna	leśna	subst:sg:nom:f	pospolita	przest.
 leśna	leśna	subst:sg:voc:f	pospolita	przest.
 leśną	leśna	subst:sg:acc:f	pospolita	przest.
@@ -26658,6 +27054,22 @@ lewulozy	lewuloza	subst:pl:acc:f	pospolita
 lewulozy	lewuloza	subst:pl:nom:f	pospolita	
 lewulozy	lewuloza	subst:pl:voc:f	pospolita	
 lewulozy	lewuloza	subst:sg:gen:f	pospolita	
+lewusach	lewus	subst:pl:loc:m1	pospolita	pot.
+lewusa	lewus	subst:sg:acc:m1	pospolita	pot.
+lewusa	lewus	subst:sg:gen:m1	pospolita	pot.
+lewusami	lewus	subst:pl:inst:m1	pospolita	pot.
+lewusem	lewus	subst:sg:inst:m1	pospolita	pot.
+lewusie	lewus	subst:sg:loc:m1	pospolita	pot.
+lewusie	lewus	subst:sg:voc:m1	pospolita	pot.
+lewusi	lewus	subst:pl:nom:m1	pospolita	pot.
+lewusi	lewus	subst:pl:voc:m1	pospolita	pot.
+lewus	lewus	subst:sg:nom:m1	pospolita	pot.
+lewusom	lewus	subst:pl:dat:m1	pospolita	pot.
+lewusowi	lewus	subst:sg:dat:m1	pospolita	pot.
+lewusów	lewus	subst:pl:acc:m1	pospolita	pot.
+lewusów	lewus	subst:pl:gen:m1	pospolita	pot.
+lewusy	lewus	depr:pl:nom:m2	pospolita	pot.
+lewusy	lewus	depr:pl:voc:m2	pospolita	pot.
 lewa	lewy:a	adj:sg:nom.voc:f:pos		
 lewą	lewy:a	adj:sg:acc:f:pos		
 lewą	lewy:a	adj:sg:inst:f:pos		
@@ -27707,6 +28119,7 @@ lęgnące	lęgnąć	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff
 lęgnące	lęgnąć	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
 lęgnącemu	lęgnąć	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
 lęgnąc	lęgnąć	pcon:imperf		
+lęgnąc	lęgnąć	pcon:imperf		rzad.
 lęgnących	lęgnąć	pact:pl:acc:m1.p1:imperf:aff		
 lęgnących	lęgnąć	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 lęgnący	lęgnąć	pact:pl:nom.voc:m1.p1:imperf:aff		
@@ -27716,12 +28129,54 @@ lęgnącymi	lęgnąć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff
 lęgnącym	lęgnąć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 lęgnącym	lęgnąć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
 lęgnąć	lęgnąć	inf:imperf		
+lęgnąć	lęgnąć	inf:imperf		rzad.
 lęgną	lęgnąć	fin:pl:ter:imperf		
+lęgną	lęgnąć	fin:pl:ter:imperf		rzad.
+lęgnąłby	lęgnąć	cond:sg:m1.m2.m3:ter:imperf		rzad.
+lęgnąłbym	lęgnąć	cond:sg:m1.m2.m3:pri:imperf		rzad.
+lęgnąłbyś	lęgnąć	cond:sg:m1.m2.m3:sec:imperf		rzad.
+lęgnąłem	lęgnąć	praet:sg:m1.m2.m3:pri:imperf		rzad.
+lęgnąłeś	lęgnąć	praet:sg:m1.m2.m3:sec:imperf		rzad.
+lęgnął	lęgnąć	praet:sg:m1.m2.m3:imperf		rzad.
+lęgnął	lęgnąć	praet:sg:m1.m2.m3:ter:imperf		rzad.
 lęgnę	lęgnąć	fin:sg:pri:imperf		
+lęgnę	lęgnąć	fin:sg:pri:imperf		rzad.
+lęgnęliby	lęgnąć	cond:pl:m1.p1:ter:imperf		rzad.
+lęgnęlibyście	lęgnąć	cond:pl:m1.p1:sec:imperf		rzad.
+lęgnęlibyśmy	lęgnąć	cond:pl:m1.p1:pri:imperf		rzad.
+lęgnęli	lęgnąć	praet:pl:m1.p1:imperf		rzad.
+lęgnęli	lęgnąć	praet:pl:m1.p1:ter:imperf		rzad.
+lęgnęliście	lęgnąć	praet:pl:m1.p1:sec:imperf		rzad.
+lęgnęliśmy	lęgnąć	praet:pl:m1.p1:pri:imperf		rzad.
+lęgnęłaby	lęgnąć	cond:sg:f:ter:imperf		rzad.
+lęgnęłabym	lęgnąć	cond:sg:f:pri:imperf		rzad.
+lęgnęłabyś	lęgnąć	cond:sg:f:sec:imperf		rzad.
+lęgnęła	lęgnąć	praet:sg:f:imperf		rzad.
+lęgnęła	lęgnąć	praet:sg:f:ter:imperf		rzad.
+lęgnęłam	lęgnąć	praet:sg:f:pri:imperf		rzad.
+lęgnęłaś	lęgnąć	praet:sg:f:sec:imperf		rzad.
+lęgnęłoby	lęgnąć	cond:sg:n1.n2:ter:imperf		rzad.
+lęgnęłobym	lęgnąć	cond:sg:n1.n2:pri:imperf		rzad.
+lęgnęłobyś	lęgnąć	cond:sg:n1.n2:sec:imperf		rzad.
+lęgnęło	lęgnąć	praet:sg:n1.n2:imperf		rzad.
+lęgnęło	lęgnąć	praet:sg:n1.n2:ter:imperf		rzad.
+lęgnęłom	lęgnąć	praet:sg:n1.n2:pri:imperf		rzad.
+lęgnęłoś	lęgnąć	praet:sg:n1.n2:sec:imperf		rzad.
+lęgnęłyby	lęgnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+lęgnęłybyście	lęgnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+lęgnęłybyśmy	lęgnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+lęgnęły	lęgnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
+lęgnęły	lęgnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+lęgnęłyście	lęgnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+lęgnęłyśmy	lęgnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
 lęgniecie	lęgnąć	fin:pl:sec:imperf		
+lęgniecie	lęgnąć	fin:pl:sec:imperf		rzad.
 lęgnie	lęgnąć	fin:sg:ter:imperf		
+lęgnie	lęgnąć	fin:sg:ter:imperf		rzad.
 lęgniemy	lęgnąć	fin:pl:pri:imperf		
+lęgniemy	lęgnąć	fin:pl:pri:imperf		rzad.
 lęgniesz	lęgnąć	fin:sg:sec:imperf		
+lęgniesz	lęgnąć	fin:sg:sec:imperf		rzad.
 lęgnięciach	lęgnąć	ger:pl:loc:n2:imperf:aff		
 lęgnięcia	lęgnąć	ger:pl:nom.acc:n2:imperf:aff		
 lęgnięcia	lęgnąć	ger:sg:gen:n2:imperf:aff		
@@ -27732,9 +28187,13 @@ lęgnięciom	lęgnąć	ger:pl:dat:n2:imperf:aff
 lęgnięciu	lęgnąć	ger:sg:dat.loc:n2:imperf:aff		
 lęgnięć	lęgnąć	ger:pl:gen:n2:imperf:aff		
 lęgnięto	lęgnąć	imps:imperf		
+lęgnięto	lęgnąć	imps:imperf		rzad.
 lęgnijcie	lęgnąć	impt:pl:sec:imperf		
+lęgnijcie	lęgnąć	impt:pl:sec:imperf		rzad.
 lęgnij	lęgnąć	impt:sg:sec:imperf		
+lęgnij	lęgnąć	impt:sg:sec:imperf		rzad.
 lęgnijmy	lęgnąć	impt:pl:pri:imperf		
+lęgnijmy	lęgnąć	impt:pl:pri:imperf		rzad.
 lęgniach	lęgnia	subst:pl:loc:f	pospolita	
 lęgnia	lęgnia	subst:sg:nom:f	pospolita	
 lęgniami	lęgnia	subst:pl:inst:f	pospolita	
@@ -28387,6 +28846,21 @@ libacyjnymi	libacyjny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 libacyjnym	libacyjny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 libacyjnym	libacyjny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 libacyjnym	libacyjny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+libanizacjach	libanizacja	subst:pl:loc:f	pospolita	
+libanizacja	libanizacja	subst:sg:nom:f	pospolita	
+libanizacjami	libanizacja	subst:pl:inst:f	pospolita	
+libanizacją	libanizacja	subst:sg:inst:f	pospolita	
+libanizacje	libanizacja	subst:pl:acc:f	pospolita	
+libanizacje	libanizacja	subst:pl:nom:f	pospolita	
+libanizacje	libanizacja	subst:pl:voc:f	pospolita	
+libanizację	libanizacja	subst:sg:acc:f	pospolita	
+libanizacji	libanizacja	subst:pl:gen:f	pospolita	hom.
+libanizacji	libanizacja	subst:sg:dat:f	pospolita	
+libanizacji	libanizacja	subst:sg:gen:f	pospolita	
+libanizacji	libanizacja	subst:sg:loc:f	pospolita	
+libanizacjo	libanizacja	subst:sg:voc:f	pospolita	
+libanizacjom	libanizacja	subst:pl:dat:f	pospolita	
+libanizacyj	libanizacja	subst:pl:gen:f	pospolita	arch.|char.
 libańscy	libański	adj:pl:nom.voc:m1.p1:pos		
 libańska	libański	adj:sg:nom.voc:f:pos		
 libańską	libański	adj:sg:acc:f:pos		
@@ -28929,6 +29403,24 @@ libertacji	libertacja	subst:sg:loc:f	pospolita
 libertacjo	libertacja	subst:sg:voc:f	pospolita	
 libertacjom	libertacja	subst:pl:dat:f	pospolita	
 libertacyj	libertacja	subst:pl:gen:f	pospolita	arch.|char.
+libertarianach	libertarianin	subst:pl:loc:m1	pospolita	
+libertarianami	libertarianin	subst:pl:inst:m1	pospolita	
+libertarianie	libertarianin	subst:pl:nom:m1	pospolita	
+libertarianie	libertarianin	subst:pl:voc:m1	pospolita	
+libertarianina	libertarianin	subst:sg:acc:m1	pospolita	
+libertarianina	libertarianin	subst:sg:gen:m1	pospolita	
+libertarianinem	libertarianin	subst:sg:inst:m1	pospolita	
+libertarianinie	libertarianin	subst:sg:loc:m1	pospolita	
+libertarianinie	libertarianin	subst:sg:voc:m1	pospolita	
+libertarianin	libertarianin	subst:sg:nom:m1	pospolita	
+libertarianinowi	libertarianin	subst:sg:dat:m1	pospolita	
+libertarian	libertarianin	subst:pl:acc:m1	pospolita	
+libertarian	libertarianin	subst:pl:gen:m1	pospolita	
+libertarianom	libertarianin	subst:pl:dat:m1	pospolita	
+libertarianów	libertarianin	subst:pl:acc:m1	pospolita	
+libertarianów	libertarianin	subst:pl:gen:m1	pospolita	
+libertariany	libertarianin	depr:pl:nom:m2	pospolita	
+libertariany	libertarianin	depr:pl:voc:m2	pospolita	
 libertarianizmach	libertarianizm	subst:pl:loc:m3	pospolita	
 libertarianizmami	libertarianizm	subst:pl:inst:m3	pospolita	
 libertarianizmem	libertarianizm	subst:sg:inst:m3	pospolita	
@@ -33171,6 +33663,21 @@ lignozy	lignoza	subst:pl:acc:f	pospolita
 lignozy	lignoza	subst:pl:nom:f	pospolita	
 lignozy	lignoza	subst:pl:voc:f	pospolita	
 lignozy	lignoza	subst:sg:gen:f	pospolita	
+ligomaniach	ligomania	subst:pl:loc:f	pospolita	
+ligomania	ligomania	subst:sg:nom:f	pospolita	
+ligomaniami	ligomania	subst:pl:inst:f	pospolita	
+ligomanią	ligomania	subst:sg:inst:f	pospolita	
+ligomanie	ligomania	subst:pl:acc:f	pospolita	
+ligomanie	ligomania	subst:pl:nom:f	pospolita	
+ligomanie	ligomania	subst:pl:voc:f	pospolita	
+ligomanię	ligomania	subst:sg:acc:f	pospolita	
+ligomanii	ligomania	subst:pl:gen:f	pospolita	hom.
+ligomanii	ligomania	subst:sg:dat:f	pospolita	
+ligomanii	ligomania	subst:sg:gen:f	pospolita	
+ligomanii	ligomania	subst:sg:loc:f	pospolita	
+ligomanij	ligomania	subst:pl:gen:f	pospolita	arch.|char.
+ligomanio	ligomania	subst:sg:voc:f	pospolita	
+ligomaniom	ligomania	subst:pl:dat:f	pospolita	
 ligowcach	ligowiec	subst:pl:loc:m1	pospolita	
 ligowca	ligowiec	subst:sg:acc:m1	pospolita	
 ligowca	ligowiec	subst:sg:gen:m1	pospolita	
@@ -33858,6 +34365,20 @@ likwidatorskości	likwidatorskość	subst:sg:voc:f
 likwidatorskościom	likwidatorskość	subst:pl:dat:f		
 likwidatorskość	likwidatorskość	subst:sg:acc:f		
 likwidatorskość	likwidatorskość	subst:sg:nom:f		
+likwidatorstwach	likwidatorstwo	subst:pl:loc:n2	pospolita	
+likwidatorstwa	likwidatorstwo	subst:pl:acc:n2	pospolita	
+likwidatorstwa	likwidatorstwo	subst:pl:nom:n2	pospolita	
+likwidatorstwa	likwidatorstwo	subst:pl:voc:n2	pospolita	
+likwidatorstwa	likwidatorstwo	subst:sg:gen:n2	pospolita	
+likwidatorstwami	likwidatorstwo	subst:pl:inst:n2	pospolita	
+likwidatorstwem	likwidatorstwo	subst:sg:inst:n2	pospolita	
+likwidatorstwie	likwidatorstwo	subst:sg:loc:n2	pospolita	
+likwidatorstw	likwidatorstwo	subst:pl:gen:n2	pospolita	
+likwidatorstwo	likwidatorstwo	subst:sg:acc:n2	pospolita	
+likwidatorstwo	likwidatorstwo	subst:sg:nom:n2	pospolita	
+likwidatorstwo	likwidatorstwo	subst:sg:voc:n2	pospolita	
+likwidatorstwom	likwidatorstwo	subst:pl:dat:n2	pospolita	
+likwidatorstwu	likwidatorstwo	subst:sg:dat:n2	pospolita	
 likwidaturach	likwidatura	subst:pl:loc:f	pospolita	
 likwidatura	likwidatura	subst:sg:nom:f	pospolita	
 likwidaturami	likwidatura	subst:pl:inst:f	pospolita	
@@ -35759,6 +36280,20 @@ limonii	limonia	subst:sg:loc:f	pospolita	daw.
 limonij	limonia	subst:pl:gen:f	pospolita	arch.|char.|daw.
 limonio	limonia	subst:sg:voc:f	pospolita	daw.
 limoniom	limonia	subst:pl:dat:f	pospolita	daw.
+limoniadach	limoniada	subst:pl:loc:f	pospolita	przest.
+limoniada	limoniada	subst:sg:nom:f	pospolita	przest.
+limoniadami	limoniada	subst:pl:inst:f	pospolita	przest.
+limoniadą	limoniada	subst:sg:inst:f	pospolita	przest.
+limoniadę	limoniada	subst:sg:acc:f	pospolita	przest.
+limoniad	limoniada	subst:pl:gen:f	pospolita	przest.
+limoniado	limoniada	subst:sg:voc:f	pospolita	przest.
+limoniadom	limoniada	subst:pl:dat:f	pospolita	przest.
+limoniady	limoniada	subst:pl:acc:f	pospolita	przest.
+limoniady	limoniada	subst:pl:nom:f	pospolita	przest.
+limoniady	limoniada	subst:pl:voc:f	pospolita	przest.
+limoniady	limoniada	subst:sg:gen:f	pospolita	przest.
+limoniadzie	limoniada	subst:sg:dat:f	pospolita	przest.
+limoniadzie	limoniada	subst:sg:loc:f	pospolita	przest.
 limoniowościach	limoniowość	subst:pl:loc:f		daw.
 limoniowościami	limoniowość	subst:pl:inst:f		daw.
 limoniowością	limoniowość	subst:sg:inst:f		daw.
@@ -43949,6 +44484,21 @@ litwaków	litwak	subst:pl:acc:m1	pospolita
 litwaków	litwak	subst:pl:gen:m1	pospolita	
 litwaku	litwak	subst:sg:loc:m1	pospolita	
 litwaku	litwak	subst:sg:voc:m1	pospolita	
+litwinizacjach	litwinizacja	subst:pl:loc:f	pospolita	
+litwinizacja	litwinizacja	subst:sg:nom:f	pospolita	
+litwinizacjami	litwinizacja	subst:pl:inst:f	pospolita	
+litwinizacją	litwinizacja	subst:sg:inst:f	pospolita	
+litwinizacje	litwinizacja	subst:pl:acc:f	pospolita	
+litwinizacje	litwinizacja	subst:pl:nom:f	pospolita	
+litwinizacje	litwinizacja	subst:pl:voc:f	pospolita	
+litwinizację	litwinizacja	subst:sg:acc:f	pospolita	
+litwinizacji	litwinizacja	subst:pl:gen:f	pospolita	hom.
+litwinizacji	litwinizacja	subst:sg:dat:f	pospolita	
+litwinizacji	litwinizacja	subst:sg:gen:f	pospolita	
+litwinizacji	litwinizacja	subst:sg:loc:f	pospolita	
+litwinizacjo	litwinizacja	subst:sg:voc:f	pospolita	
+litwinizacjom	litwinizacja	subst:pl:dat:f	pospolita	
+litwinizacyj	litwinizacja	subst:pl:gen:f	pospolita	arch.|char.
 litwinizować	litwinizować	inf:imperf		
 litwinizowaliby	litwinizować	cond:pl:m1.p1:ter:imperf		
 litwinizowalibyście	litwinizować	cond:pl:m1.p1:sec:imperf		
@@ -46243,6 +46793,20 @@ lobby	lobby	subst:sg:inst:n2	pospolita
 lobby	lobby	subst:sg:loc:n2	pospolita	
 lobby	lobby	subst:sg:nom:n2	pospolita	
 lobby	lobby	subst:sg:voc:n2	pospolita	
+lobbyingach	lobbying	subst:pl:loc:m3	pospolita	
+lobbyingami	lobbying	subst:pl:inst:m3	pospolita	
+lobbyingiem	lobbying	subst:sg:inst:m3	pospolita	
+lobbyingi	lobbying	subst:pl:acc:m3	pospolita	
+lobbyingi	lobbying	subst:pl:nom:m3	pospolita	
+lobbyingi	lobbying	subst:pl:voc:m3	pospolita	
+lobbying	lobbying	subst:sg:acc:m3	pospolita	
+lobbying	lobbying	subst:sg:nom:m3	pospolita	
+lobbyingom	lobbying	subst:pl:dat:m3	pospolita	
+lobbyingowi	lobbying	subst:sg:dat:m3	pospolita	
+lobbyingów	lobbying	subst:pl:gen:m3	pospolita	
+lobbyingu	lobbying	subst:sg:gen:m3	pospolita	
+lobbyingu	lobbying	subst:sg:loc:m3	pospolita	
+lobbyingu	lobbying	subst:sg:voc:m3	pospolita	
 lobbystach	lobbysta	subst:pl:loc:m1	pospolita	
 lobbysta	lobbysta	subst:sg:nom:m1	pospolita	
 lobbystami	lobbysta	subst:pl:inst:m1	pospolita	
@@ -46916,6 +47480,20 @@ lodołamaczu	lodołamacz	subst:sg:loc:m3	pospolita
 lodołamaczu	lodołamacz	subst:sg:voc:m2	pospolita	pot.
 lodołamaczu	lodołamacz	subst:sg:voc:m3	pospolita	
 lodołamaczy	lodołamacz	subst:pl:gen:m3	pospolita	
+lodołamaniach	lodołamanie	subst:pl:loc:n2	pospolita	
+lodołamania	lodołamanie	subst:pl:acc:n2	pospolita	
+lodołamania	lodołamanie	subst:pl:nom:n2	pospolita	
+lodołamania	lodołamanie	subst:pl:voc:n2	pospolita	
+lodołamania	lodołamanie	subst:sg:gen:n2	pospolita	
+lodołamaniami	lodołamanie	subst:pl:inst:n2	pospolita	
+lodołamanie	lodołamanie	subst:sg:acc:n2	pospolita	
+lodołamanie	lodołamanie	subst:sg:nom:n2	pospolita	
+lodołamanie	lodołamanie	subst:sg:voc:n2	pospolita	
+lodołamaniem	lodołamanie	subst:sg:inst:n2	pospolita	
+lodołamaniom	lodołamanie	subst:pl:dat:n2	pospolita	
+lodołamaniu	lodołamanie	subst:sg:dat:n2	pospolita	
+lodołamaniu	lodołamanie	subst:sg:loc:n2	pospolita	
+lodołamań	lodołamanie	subst:pl:gen:n2	pospolita	
 lodospadach	lodospad	subst:pl:loc:m3	pospolita	
 lodospadami	lodospad	subst:pl:inst:m3	pospolita	
 lodospadem	lodospad	subst:sg:inst:m3	pospolita	
@@ -47503,6 +48081,20 @@ lodów	lody	subst:pl:gen:p3	pospolita
 lody	lody	subst:pl:acc:p3	pospolita	
 lody	lody	subst:pl:nom:p3	pospolita	
 lody	lody	subst:pl:voc:p3	pospolita	
+lodziarach	lodziara	subst:pl:loc:f	pospolita	pogard.
+lodziara	lodziara	subst:sg:nom:f	pospolita	pogard.
+lodziarami	lodziara	subst:pl:inst:f	pospolita	pogard.
+lodziarą	lodziara	subst:sg:inst:f	pospolita	pogard.
+lodziarę	lodziara	subst:sg:acc:f	pospolita	pogard.
+lodziar	lodziara	subst:pl:gen:f	pospolita	pogard.
+lodziaro	lodziara	subst:sg:voc:f	pospolita	pogard.
+lodziarom	lodziara	subst:pl:dat:f	pospolita	pogard.
+lodziary	lodziara	subst:pl:acc:f	pospolita	pogard.
+lodziary	lodziara	subst:pl:nom:f	pospolita	pogard.
+lodziary	lodziara	subst:pl:voc:f	pospolita	pogard.
+lodziary	lodziara	subst:sg:gen:f	pospolita	pogard.
+lodziarze	lodziara	subst:sg:dat:f	pospolita	pogard.
+lodziarze	lodziara	subst:sg:loc:f	pospolita	pogard.
 lodziarce	lodziarka	subst:sg:dat:f	pospolita	
 lodziarce	lodziarka	subst:sg:loc:f	pospolita	
 lodziarek	lodziarka	subst:pl:gen:f	pospolita	
@@ -50524,6 +51116,22 @@ lombardowymi	lombardowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 lombardowym	lombardowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 lombardowym	lombardowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 lombardowym	lombardowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+lombardzistach	lombardzista	subst:pl:loc:m1	pospolita	
+lombardzista	lombardzista	subst:sg:nom:m1	pospolita	
+lombardzistami	lombardzista	subst:pl:inst:m1	pospolita	
+lombardzistą	lombardzista	subst:sg:inst:m1	pospolita	
+lombardzistę	lombardzista	subst:sg:acc:m1	pospolita	
+lombardzisto	lombardzista	subst:sg:voc:m1	pospolita	
+lombardzistom	lombardzista	subst:pl:dat:m1	pospolita	
+lombardzistów	lombardzista	subst:pl:acc:m1	pospolita	
+lombardzistów	lombardzista	subst:pl:gen:m1	pospolita	
+lombardzisty	lombardzista	depr:pl:nom:m2	pospolita	
+lombardzisty	lombardzista	depr:pl:voc:m2	pospolita	
+lombardzisty	lombardzista	subst:sg:gen:m1	pospolita	
+lombardziście	lombardzista	subst:sg:dat:m1	pospolita	
+lombardziście	lombardzista	subst:sg:loc:m1	pospolita	
+lombardziści	lombardzista	subst:pl:nom:m1	pospolita	
+lombardziści	lombardzista	subst:pl:voc:m1	pospolita	
 lombardzcy	lombardzki	adj:pl:nom.voc:m1.p1:pos		
 lombardzka	lombardzki	adj:sg:nom.voc:f:pos		
 lombardzką	lombardzki	adj:sg:acc:f:pos		
@@ -55171,6 +55779,20 @@ lubryki	lubryka	subst:sg:gen:f	pospolita	gwar.
 lubryk	lubryka	subst:pl:gen:f	pospolita	gwar.
 lubryko	lubryka	subst:sg:voc:f	pospolita	gwar.
 lubrykom	lubryka	subst:pl:dat:f	pospolita	gwar.
+lubrykancie	lubrykant	subst:sg:loc:m3	pospolita	
+lubrykancie	lubrykant	subst:sg:voc:m3	pospolita	
+lubrykantach	lubrykant	subst:pl:loc:m3	pospolita	
+lubrykantami	lubrykant	subst:pl:inst:m3	pospolita	
+lubrykantem	lubrykant	subst:sg:inst:m3	pospolita	
+lubrykant	lubrykant	subst:sg:acc:m3	pospolita	
+lubrykant	lubrykant	subst:sg:nom:m3	pospolita	
+lubrykantom	lubrykant	subst:pl:dat:m3	pospolita	
+lubrykantowi	lubrykant	subst:sg:dat:m3	pospolita	
+lubrykantów	lubrykant	subst:pl:gen:m3	pospolita	
+lubrykantu	lubrykant	subst:sg:gen:m3	pospolita	
+lubrykanty	lubrykant	subst:pl:acc:m3	pospolita	
+lubrykanty	lubrykant	subst:pl:nom:m3	pospolita	
+lubrykanty	lubrykant	subst:pl:voc:m3	pospolita	
 lubrzańscy	lubrzański	adj:pl:nom.voc:m1.p1:pos		
 lubrzańska	lubrzański	adj:sg:nom.voc:f:pos		
 lubrzańską	lubrzański	adj:sg:acc:f:pos		
@@ -56224,6 +56846,36 @@ ludowisko	ludowisko	subst:sg:voc:n2	pospolita	indyw.
 ludowiskom	ludowisko	subst:pl:dat:n2	pospolita	indyw.
 ludowisku	ludowisko	subst:sg:dat:n2	pospolita	indyw.
 ludowisku	ludowisko	subst:sg:loc:n2	pospolita	indyw.
+ludowiznach	ludowizna	subst:pl:loc:f	pospolita	
+ludowizna	ludowizna	subst:sg:nom:f	pospolita	
+ludowiznami	ludowizna	subst:pl:inst:f	pospolita	
+ludowizną	ludowizna	subst:sg:inst:f	pospolita	
+ludowiznę	ludowizna	subst:sg:acc:f	pospolita	
+ludowizn	ludowizna	subst:pl:gen:f	pospolita	
+ludowizno	ludowizna	subst:sg:voc:f	pospolita	
+ludowiznom	ludowizna	subst:pl:dat:f	pospolita	
+ludowizny	ludowizna	subst:pl:acc:f	pospolita	
+ludowizny	ludowizna	subst:pl:nom:f	pospolita	
+ludowizny	ludowizna	subst:pl:voc:f	pospolita	
+ludowizny	ludowizna	subst:sg:gen:f	pospolita	
+ludowiźnie	ludowizna	subst:sg:dat:f	pospolita	
+ludowiźnie	ludowizna	subst:sg:loc:f	pospolita	
+ludowładcach	ludowładca	subst:pl:loc:m1	pospolita	
+ludowładca	ludowładca	subst:sg:nom:m1	pospolita	
+ludowładcami	ludowładca	subst:pl:inst:m1	pospolita	
+ludowładcą	ludowładca	subst:sg:inst:m1	pospolita	
+ludowładce	ludowładca	depr:pl:nom:m2	pospolita	
+ludowładce	ludowładca	depr:pl:voc:m2	pospolita	
+ludowładcę	ludowładca	subst:sg:acc:m1	pospolita	
+ludowładco	ludowładca	subst:sg:voc:m1	pospolita	
+ludowładcom	ludowładca	subst:pl:dat:m1	pospolita	
+ludowładców	ludowładca	subst:pl:acc:m1	pospolita	
+ludowładców	ludowładca	subst:pl:gen:m1	pospolita	
+ludowładcy	ludowładca	subst:pl:nom:m1	pospolita	
+ludowładcy	ludowładca	subst:pl:voc:m1	pospolita	
+ludowładcy	ludowładca	subst:sg:dat:m1	pospolita	
+ludowładcy	ludowładca	subst:sg:gen:m1	pospolita	
+ludowładcy	ludowładca	subst:sg:loc:m1	pospolita	
 ludowładczo	ludowładczo	adv:pos		rzad.
 ludowładczościach	ludowładczość	subst:pl:loc:f		
 ludowładczościami	ludowładczość	subst:pl:inst:f		
@@ -58676,6 +59328,20 @@ lumpów	lump	subst:pl:acc:m1	pospolita
 lumpów	lump	subst:pl:gen:m1	pospolita	
 lumpy	lump	depr:pl:nom:m2	pospolita	
 lumpy	lump	depr:pl:voc:m2	pospolita	
+lumpeksach	lumpeks	subst:pl:loc:m3	pospolita	
+lumpeksami	lumpeks	subst:pl:inst:m3	pospolita	
+lumpeksem	lumpeks	subst:sg:inst:m3	pospolita	
+lumpeksie	lumpeks	subst:sg:loc:m3	pospolita	
+lumpeksie	lumpeks	subst:sg:voc:m3	pospolita	
+lumpeks	lumpeks	subst:sg:acc:m3	pospolita	
+lumpeks	lumpeks	subst:sg:nom:m3	pospolita	
+lumpeksom	lumpeks	subst:pl:dat:m3	pospolita	
+lumpeksowi	lumpeks	subst:sg:dat:m3	pospolita	
+lumpeksów	lumpeks	subst:pl:gen:m3	pospolita	
+lumpeksu	lumpeks	subst:sg:gen:m3	pospolita	
+lumpeksy	lumpeks	subst:pl:acc:m3	pospolita	
+lumpeksy	lumpeks	subst:pl:nom:m3	pospolita	
+lumpeksy	lumpeks	subst:pl:voc:m3	pospolita	
 lumpeksowościach	lumpeksowość	subst:pl:loc:f		
 lumpeksowościami	lumpeksowość	subst:pl:inst:f		
 lumpeksowością	lumpeksowość	subst:sg:inst:f		
@@ -58714,6 +59380,21 @@ lumpeksowymi	lumpeksowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 lumpeksowym	lumpeksowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 lumpeksowym	lumpeksowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 lumpeksowym	lumpeksowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+lumpeninteligencjach	lumpeninteligencja	subst:pl:loc:f	pospolita	
+lumpeninteligencja	lumpeninteligencja	subst:sg:nom:f	pospolita	
+lumpeninteligencjami	lumpeninteligencja	subst:pl:inst:f	pospolita	
+lumpeninteligencją	lumpeninteligencja	subst:sg:inst:f	pospolita	
+lumpeninteligencje	lumpeninteligencja	subst:pl:acc:f	pospolita	
+lumpeninteligencje	lumpeninteligencja	subst:pl:nom:f	pospolita	
+lumpeninteligencje	lumpeninteligencja	subst:pl:voc:f	pospolita	
+lumpeninteligencję	lumpeninteligencja	subst:sg:acc:f	pospolita	
+lumpeninteligencji	lumpeninteligencja	subst:pl:gen:f	pospolita	hom.
+lumpeninteligencji	lumpeninteligencja	subst:sg:dat:f	pospolita	
+lumpeninteligencji	lumpeninteligencja	subst:sg:gen:f	pospolita	
+lumpeninteligencji	lumpeninteligencja	subst:sg:loc:f	pospolita	
+lumpeninteligencjo	lumpeninteligencja	subst:sg:voc:f	pospolita	
+lumpeninteligencjom	lumpeninteligencja	subst:pl:dat:f	pospolita	
+lumpeninteligencyj	lumpeninteligencja	subst:pl:gen:f	pospolita	arch.|char.
 lumpenproletariaccy	lumpenproletariacki	adj:pl:nom.voc:m1.p1:pos		
 lumpenproletariacka	lumpenproletariacki	adj:sg:nom.voc:f:pos		
 lumpenproletariacką	lumpenproletariacki	adj:sg:acc:f:pos		
@@ -62010,6 +62691,20 @@ luzackości	luzackość	subst:sg:voc:f
 luzackościom	luzackość	subst:pl:dat:f		
 luzackość	luzackość	subst:sg:acc:f		
 luzackość	luzackość	subst:sg:nom:f		
+luzactwach	luzactwo	subst:pl:loc:n2	pospolita	
+luzactwa	luzactwo	subst:pl:acc:n2	pospolita	
+luzactwa	luzactwo	subst:pl:nom:n2	pospolita	
+luzactwa	luzactwo	subst:pl:voc:n2	pospolita	
+luzactwa	luzactwo	subst:sg:gen:n2	pospolita	
+luzactwami	luzactwo	subst:pl:inst:n2	pospolita	
+luzactwem	luzactwo	subst:sg:inst:n2	pospolita	
+luzactwie	luzactwo	subst:sg:loc:n2	pospolita	
+luzactw	luzactwo	subst:pl:gen:n2	pospolita	
+luzactwo	luzactwo	subst:sg:acc:n2	pospolita	
+luzactwo	luzactwo	subst:sg:nom:n2	pospolita	
+luzactwo	luzactwo	subst:sg:voc:n2	pospolita	
+luzactwom	luzactwo	subst:pl:dat:n2	pospolita	
+luzactwu	luzactwo	subst:sg:dat:n2	pospolita	
 luzaczce	luzaczka	subst:sg:dat:f	pospolita	pot.
 luzaczce	luzaczka	subst:sg:loc:f	pospolita	pot.
 luzaczek	luzaczka	subst:pl:gen:f	pospolita	pot.

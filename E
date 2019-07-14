@@ -3560,34 +3560,34 @@ Exbudy	Exbud	subst:pl:nom:m3	firma
 Exbudy	Exbud	subst:pl:voc:m3	firma	
 Exbudzie	Exbud	subst:sg:loc:m3	firma	
 Exbudzie	Exbud	subst:sg:voc:m3	firma	
-Excelsiorach	Excelsior	subst:pl:loc:m3	krój_pisma	
-Excelsiorami	Excelsior	subst:pl:inst:m3	krój_pisma	
-Excelsiorem	Excelsior	subst:sg:inst:m3	krój_pisma	
-Excelsior	Excelsior	subst:sg:acc:m3	krój_pisma	
-Excelsior	Excelsior	subst:sg:nom:m3	krój_pisma	
-Excelsiorom	Excelsior	subst:pl:dat:m3	krój_pisma	
-Excelsiorowi	Excelsior	subst:sg:dat:m3	krój_pisma	
-Excelsiorów	Excelsior	subst:pl:gen:m3	krój_pisma	
-Excelsioru	Excelsior	subst:sg:gen:m3	krój_pisma	
-Excelsiory	Excelsior	subst:pl:acc:m3	krój_pisma	
-Excelsiory	Excelsior	subst:pl:nom:m3	krój_pisma	
-Excelsiory	Excelsior	subst:pl:voc:m3	krój_pisma	
-Excelsiorze	Excelsior	subst:sg:loc:m3	krój_pisma	
-Excelsiorze	Excelsior	subst:sg:voc:m3	krój_pisma	
-Expressach	Express	subst:pl:loc:m3	środek_lokomocji	
-Expressami	Express	subst:pl:inst:m3	środek_lokomocji	
-Expressem	Express	subst:sg:inst:m3	środek_lokomocji	
-Express	Express	subst:sg:acc:m3	środek_lokomocji	
-Express	Express	subst:sg:nom:m3	środek_lokomocji	
-Expressie	Express	subst:sg:loc:m3	środek_lokomocji	
-Expressie	Express	subst:sg:voc:m3	środek_lokomocji	
-Expressom	Express	subst:pl:dat:m3	środek_lokomocji	
-Expressowi	Express	subst:sg:dat:m3	środek_lokomocji	
-Expressów	Express	subst:pl:gen:m3	środek_lokomocji	
-Expressu	Express	subst:sg:gen:m3	środek_lokomocji	
-Expressy	Express	subst:pl:acc:m3	środek_lokomocji	
-Expressy	Express	subst:pl:nom:m3	środek_lokomocji	
-Expressy	Express	subst:pl:voc:m3	środek_lokomocji	
+Excelsiorach	Excelsior	subst:pl:loc:m3	krój pisma	
+Excelsiorami	Excelsior	subst:pl:inst:m3	krój pisma	
+Excelsiorem	Excelsior	subst:sg:inst:m3	krój pisma	
+Excelsior	Excelsior	subst:sg:acc:m3	krój pisma	
+Excelsior	Excelsior	subst:sg:nom:m3	krój pisma	
+Excelsiorom	Excelsior	subst:pl:dat:m3	krój pisma	
+Excelsiorowi	Excelsior	subst:sg:dat:m3	krój pisma	
+Excelsiorów	Excelsior	subst:pl:gen:m3	krój pisma	
+Excelsioru	Excelsior	subst:sg:gen:m3	krój pisma	
+Excelsiory	Excelsior	subst:pl:acc:m3	krój pisma	
+Excelsiory	Excelsior	subst:pl:nom:m3	krój pisma	
+Excelsiory	Excelsior	subst:pl:voc:m3	krój pisma	
+Excelsiorze	Excelsior	subst:sg:loc:m3	krój pisma	
+Excelsiorze	Excelsior	subst:sg:voc:m3	krój pisma	
+Expressach	Express	subst:pl:loc:m3	środek lokomocji	
+Expressami	Express	subst:pl:inst:m3	środek lokomocji	
+Expressem	Express	subst:sg:inst:m3	środek lokomocji	
+Express	Express	subst:sg:acc:m3	środek lokomocji	
+Express	Express	subst:sg:nom:m3	środek lokomocji	
+Expressie	Express	subst:sg:loc:m3	środek lokomocji	
+Expressie	Express	subst:sg:voc:m3	środek lokomocji	
+Expressom	Express	subst:pl:dat:m3	środek lokomocji	
+Expressowi	Express	subst:sg:dat:m3	środek lokomocji	
+Expressów	Express	subst:pl:gen:m3	środek lokomocji	
+Expressu	Express	subst:sg:gen:m3	środek lokomocji	
+Expressy	Express	subst:pl:acc:m3	środek lokomocji	
+Expressy	Express	subst:pl:nom:m3	środek lokomocji	
+Expressy	Express	subst:pl:voc:m3	środek lokomocji	
 Exupérych	Exupéry	subst:pl:acc:m1	nazwisko	
 Exupérych	Exupéry	subst:pl:gen:m1	nazwisko	
 Exupérych	Exupéry	subst:pl:loc:m1	nazwisko	

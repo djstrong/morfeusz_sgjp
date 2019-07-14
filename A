@@ -3355,20 +3355,20 @@ Algierki	Algierka	subst:pl:voc:f	pospolita
 Algierki	Algierka	subst:sg:gen:f	pospolita	
 Algierko	Algierka	subst:sg:voc:f	pospolita	
 Algierkom	Algierka	subst:pl:dat:f	pospolita	
-Algolach	Algol	subst:pl:loc:m3	język_programowania	komp.
-Algol	Algol	subst:sg:acc:m3	język_programowania	komp.
-Algol	Algol	subst:sg:nom:m3	język_programowania	komp.
-Algolami	Algol	subst:pl:inst:m3	język_programowania	komp.
-Algole	Algol	subst:pl:acc:m3	język_programowania	komp.
-Algole	Algol	subst:pl:nom:m3	język_programowania	komp.
-Algole	Algol	subst:pl:voc:m3	język_programowania	komp.
-Algolem	Algol	subst:sg:inst:m3	język_programowania	komp.
-Algoli	Algol	subst:pl:gen:m3	język_programowania	komp.
-Algolom	Algol	subst:pl:dat:m3	język_programowania	komp.
-Algolowi	Algol	subst:sg:dat:m3	język_programowania	komp.
-Algolu	Algol	subst:sg:gen:m3	język_programowania	komp.
-Algolu	Algol	subst:sg:loc:m3	język_programowania	komp.
-Algolu	Algol	subst:sg:voc:m3	język_programowania	komp.
+Algolach	Algol	subst:pl:loc:m3	język programowania	komp.
+Algol	Algol	subst:sg:acc:m3	język programowania	komp.
+Algol	Algol	subst:sg:nom:m3	język programowania	komp.
+Algolami	Algol	subst:pl:inst:m3	język programowania	komp.
+Algole	Algol	subst:pl:acc:m3	język programowania	komp.
+Algole	Algol	subst:pl:nom:m3	język programowania	komp.
+Algole	Algol	subst:pl:voc:m3	język programowania	komp.
+Algolem	Algol	subst:sg:inst:m3	język programowania	komp.
+Algoli	Algol	subst:pl:gen:m3	język programowania	komp.
+Algolom	Algol	subst:pl:dat:m3	język programowania	komp.
+Algolowi	Algol	subst:sg:dat:m3	język programowania	komp.
+Algolu	Algol	subst:sg:gen:m3	język programowania	komp.
+Algolu	Algol	subst:sg:loc:m3	język programowania	komp.
+Algolu	Algol	subst:sg:voc:m3	język programowania	komp.
 Ale	Ali	depr:pl:nom:m2	imię	
 Ale	Ali	depr:pl:voc:m2	imię	
 Alego	Ali	subst:sg:acc:m1	imię	
@@ -4616,36 +4616,21 @@ Anatolków	Anatolek	subst:pl:acc:m1	imię
 Anatolków	Anatolek	subst:pl:gen:m1	imię	
 Anatolku	Anatolek	subst:sg:loc:m1	imię	
 Anatolku	Anatolek	subst:sg:voc:m1	imię	
-Anatolia	Anatolia	subst:sg:nom:f	geograficzna	
-Anatolia	Anatolia	subst:sg:nom:f	imię	
-Anatoliach	Anatolia	subst:pl:loc:f	geograficzna	
-Anatoliach	Anatolia	subst:pl:loc:f	imię	
-Anatoliami	Anatolia	subst:pl:inst:f	geograficzna	
-Anatoliami	Anatolia	subst:pl:inst:f	imię	
-Anatolią	Anatolia	subst:sg:inst:f	geograficzna	
-Anatolią	Anatolia	subst:sg:inst:f	imię	
-Anatolie	Anatolia	subst:pl:acc:f	geograficzna	
-Anatolie	Anatolia	subst:pl:acc:f	imię	
-Anatolie	Anatolia	subst:pl:nom:f	geograficzna	
-Anatolie	Anatolia	subst:pl:nom:f	imię	
-Anatolie	Anatolia	subst:pl:voc:f	geograficzna	
-Anatolie	Anatolia	subst:pl:voc:f	imię	
-Anatolię	Anatolia	subst:sg:acc:f	geograficzna	
-Anatolię	Anatolia	subst:sg:acc:f	imię	
-Anatolii	Anatolia	subst:pl:gen:f	geograficzna	hom.
-Anatolii	Anatolia	subst:pl:gen:f	imię	hom.
-Anatolii	Anatolia	subst:sg:dat:f	geograficzna	
-Anatolii	Anatolia	subst:sg:dat:f	imię	
-Anatolii	Anatolia	subst:sg:gen:f	geograficzna	
-Anatolii	Anatolia	subst:sg:gen:f	imię	
-Anatolii	Anatolia	subst:sg:loc:f	geograficzna	
-Anatolii	Anatolia	subst:sg:loc:f	imię	
-Anatolij	Anatolia	subst:pl:gen:f	geograficzna	arch.|char.
-Anatolij	Anatolia	subst:pl:gen:f	imię	arch.|char.
-Anatolio	Anatolia	subst:sg:voc:f	geograficzna	
-Anatolio	Anatolia	subst:sg:voc:f	imię	
-Anatoliom	Anatolia	subst:pl:dat:f	geograficzna	
-Anatoliom	Anatolia	subst:pl:dat:f	imię	
+Anatolia	Anatolia	subst:sg:nom:f	imię|geograficzna	
+Anatoliach	Anatolia	subst:pl:loc:f	imię|geograficzna	
+Anatoliami	Anatolia	subst:pl:inst:f	imię|geograficzna	
+Anatolią	Anatolia	subst:sg:inst:f	imię|geograficzna	
+Anatolie	Anatolia	subst:pl:acc:f	imię|geograficzna	
+Anatolie	Anatolia	subst:pl:nom:f	imię|geograficzna	
+Anatolie	Anatolia	subst:pl:voc:f	imię|geograficzna	
+Anatolię	Anatolia	subst:sg:acc:f	imię|geograficzna	
+Anatolii	Anatolia	subst:pl:gen:f	imię|geograficzna	hom.
+Anatolii	Anatolia	subst:sg:dat:f	imię|geograficzna	
+Anatolii	Anatolia	subst:sg:gen:f	imię|geograficzna	
+Anatolii	Anatolia	subst:sg:loc:f	imię|geograficzna	
+Anatolij	Anatolia	subst:pl:gen:f	imię|geograficzna	arch.|char.
+Anatolio	Anatolia	subst:sg:voc:f	imię|geograficzna	
+Anatoliom	Anatolia	subst:pl:dat:f	imię|geograficzna	
 Anda	Anda	subst:sg:nom:f	imię	
 Andach	Anda	subst:pl:loc:f	imię	
 Andami	Anda	subst:pl:inst:f	imię	
@@ -4675,22 +4660,22 @@ Andaluzji	Andaluzja	subst:sg:loc:f	geograficzna
 Andaluzjo	Andaluzja	subst:sg:voc:f	geograficzna	
 Andaluzjom	Andaluzja	subst:pl:dat:f	geograficzna	
 Andaluzyj	Andaluzja	subst:pl:gen:f	geograficzna	arch.|char.
-Andegawena	Andegawen	subst:sg:acc:m1	członek_rodu	
-Andegawena	Andegawen	subst:sg:gen:m1	członek_rodu	
-Andegawenach	Andegawen	subst:pl:loc:m1	członek_rodu	
-Andegawenami	Andegawen	subst:pl:inst:m1	członek_rodu	
-Andegawen	Andegawen	subst:sg:nom:m1	członek_rodu	
-Andegawenem	Andegawen	subst:sg:inst:m1	członek_rodu	
-Andegaweni	Andegawen	subst:pl:nom:m1	członek_rodu	
-Andegaweni	Andegawen	subst:pl:voc:m1	członek_rodu	
-Andegawenie	Andegawen	subst:sg:loc:m1	członek_rodu	
-Andegawenie	Andegawen	subst:sg:voc:m1	członek_rodu	
-Andegawenom	Andegawen	subst:pl:dat:m1	członek_rodu	
-Andegawenowi	Andegawen	subst:sg:dat:m1	członek_rodu	
-Andegawenów	Andegawen	subst:pl:acc:m1	członek_rodu	
-Andegawenów	Andegawen	subst:pl:gen:m1	członek_rodu	
-Andegaweny	Andegawen	depr:pl:nom:m2	członek_rodu	
-Andegaweny	Andegawen	depr:pl:voc:m2	członek_rodu	
+Andegawena	Andegawen	subst:sg:acc:m1	członek rodu	
+Andegawena	Andegawen	subst:sg:gen:m1	członek rodu	
+Andegawenach	Andegawen	subst:pl:loc:m1	członek rodu	
+Andegawenami	Andegawen	subst:pl:inst:m1	członek rodu	
+Andegawen	Andegawen	subst:sg:nom:m1	członek rodu	
+Andegawenem	Andegawen	subst:sg:inst:m1	członek rodu	
+Andegaweni	Andegawen	subst:pl:nom:m1	członek rodu	
+Andegaweni	Andegawen	subst:pl:voc:m1	członek rodu	
+Andegawenie	Andegawen	subst:sg:loc:m1	członek rodu	
+Andegawenie	Andegawen	subst:sg:voc:m1	członek rodu	
+Andegawenom	Andegawen	subst:pl:dat:m1	członek rodu	
+Andegawenowi	Andegawen	subst:sg:dat:m1	członek rodu	
+Andegawenów	Andegawen	subst:pl:acc:m1	członek rodu	
+Andegawenów	Andegawen	subst:pl:gen:m1	członek rodu	
+Andegaweny	Andegawen	depr:pl:nom:m2	członek rodu	
+Andegaweny	Andegawen	depr:pl:voc:m2	członek rodu	
 Andegawenia	Andegawenia	subst:sg:nom:f	geograficzna	
 Andegaweniach	Andegawenia	subst:pl:loc:f	geograficzna	
 Andegaweniami	Andegawenia	subst:pl:inst:f	geograficzna	
@@ -4866,34 +4851,20 @@ Andromachy	Andromacha	subst:pl:voc:f	imię	mit.
 Andromachy	Andromacha	subst:sg:gen:f	imię	mit.
 Andromasze	Andromacha	subst:sg:dat:f	imię	mit.
 Andromasze	Andromacha	subst:sg:loc:f	imię	mit.
-Andromeda	Andromeda	subst:sg:nom:f	astr.	mit.
-Andromeda	Andromeda	subst:sg:nom:f	imię	mit.
-Andromedach	Andromeda	subst:pl:loc:f	astr.	mit.
-Andromedach	Andromeda	subst:pl:loc:f	imię	mit.
-Andromedami	Andromeda	subst:pl:inst:f	astr.	mit.
-Andromedami	Andromeda	subst:pl:inst:f	imię	mit.
-Andromed	Andromeda	subst:pl:gen:f	astr.	mit.
-Andromed	Andromeda	subst:pl:gen:f	imię	mit.
-Andromedą	Andromeda	subst:sg:inst:f	astr.	mit.
-Andromedą	Andromeda	subst:sg:inst:f	imię	mit.
-Andromedę	Andromeda	subst:sg:acc:f	astr.	mit.
-Andromedę	Andromeda	subst:sg:acc:f	imię	mit.
-Andromedo	Andromeda	subst:sg:voc:f	astr.	mit.
-Andromedo	Andromeda	subst:sg:voc:f	imię	mit.
-Andromedom	Andromeda	subst:pl:dat:f	astr.	mit.
-Andromedom	Andromeda	subst:pl:dat:f	imię	mit.
-Andromedy	Andromeda	subst:pl:acc:f	astr.	mit.
-Andromedy	Andromeda	subst:pl:acc:f	imię	mit.
-Andromedy	Andromeda	subst:pl:nom:f	astr.	mit.
-Andromedy	Andromeda	subst:pl:nom:f	imię	mit.
-Andromedy	Andromeda	subst:pl:voc:f	astr.	mit.
-Andromedy	Andromeda	subst:pl:voc:f	imię	mit.
-Andromedy	Andromeda	subst:sg:gen:f	astr.	mit.
-Andromedy	Andromeda	subst:sg:gen:f	imię	mit.
-Andromedzie	Andromeda	subst:sg:dat:f	astr.	mit.
-Andromedzie	Andromeda	subst:sg:dat:f	imię	mit.
-Andromedzie	Andromeda	subst:sg:loc:f	astr.	mit.
-Andromedzie	Andromeda	subst:sg:loc:f	imię	mit.
+Andromeda	Andromeda	subst:sg:nom:f	imię|astr.	mit.
+Andromedach	Andromeda	subst:pl:loc:f	imię|astr.	mit.
+Andromedami	Andromeda	subst:pl:inst:f	imię|astr.	mit.
+Andromed	Andromeda	subst:pl:gen:f	imię|astr.	mit.
+Andromedą	Andromeda	subst:sg:inst:f	imię|astr.	mit.
+Andromedę	Andromeda	subst:sg:acc:f	imię|astr.	mit.
+Andromedo	Andromeda	subst:sg:voc:f	imię|astr.	mit.
+Andromedom	Andromeda	subst:pl:dat:f	imię|astr.	mit.
+Andromedy	Andromeda	subst:pl:acc:f	imię|astr.	mit.
+Andromedy	Andromeda	subst:pl:nom:f	imię|astr.	mit.
+Andromedy	Andromeda	subst:pl:voc:f	imię|astr.	mit.
+Andromedy	Andromeda	subst:sg:gen:f	imię|astr.	mit.
+Andromedzie	Andromeda	subst:sg:dat:f	imię|astr.	mit.
+Andromedzie	Andromeda	subst:sg:loc:f	imię|astr.	mit.
 Andrychowa	Andrychów	subst:sg:gen:m3	geograficzna	
 Andrychowach	Andrychów	subst:pl:loc:m3	geograficzna	
 Andrychowami	Andrychów	subst:pl:inst:m3	geograficzna	
@@ -6964,38 +6935,22 @@ Ariostów	Ariosto	subst:pl:gen:m1	nazwisko
 Ariosty	Ariosto	depr:pl:nom:m2	nazwisko	
 Ariosty	Ariosto	depr:pl:voc:m2	nazwisko	
 Arioście	Ariosto	subst:sg:loc:m1	nazwisko	
-Aristide’a	Aristide	subst:sg:acc:m1	imię	
-Aristide’a	Aristide	subst:sg:acc:m1	nazwisko	
-Aristide’a	Aristide	subst:sg:gen:m1	imię	
-Aristide’a	Aristide	subst:sg:gen:m1	nazwisko	
-Aristide’ach	Aristide	subst:pl:loc:m1	imię	
-Aristide’ach	Aristide	subst:pl:loc:m1	nazwisko	
-Aristide’ami	Aristide	subst:pl:inst:m1	imię	
-Aristide’ami	Aristide	subst:pl:inst:m1	nazwisko	
-Aristide	Aristide	subst:sg:nom:m1	imię	
-Aristide	Aristide	subst:sg:nom:m1	nazwisko	
-Aristide’em	Aristide	subst:sg:inst:m1	imię	
-Aristide’em	Aristide	subst:sg:inst:m1	nazwisko	
-Aristide’om	Aristide	subst:pl:dat:m1	imię	
-Aristide’om	Aristide	subst:pl:dat:m1	nazwisko	
-Aristide’owi	Aristide	subst:sg:dat:m1	imię	
-Aristide’owi	Aristide	subst:sg:dat:m1	nazwisko	
-Aristide’owie	Aristide	subst:pl:nom:m1	imię	
-Aristide’owie	Aristide	subst:pl:nom:m1	nazwisko	
-Aristide’owie	Aristide	subst:pl:voc:m1	imię	
-Aristide’owie	Aristide	subst:pl:voc:m1	nazwisko	
-Aristide’ów	Aristide	subst:pl:acc:m1	imię	
-Aristide’ów	Aristide	subst:pl:acc:m1	nazwisko	
-Aristide’ów	Aristide	subst:pl:gen:m1	imię	
-Aristide’ów	Aristide	subst:pl:gen:m1	nazwisko	
-Aristide’y	Aristide	depr:pl:nom:m2	imię	
-Aristide’y	Aristide	depr:pl:nom:m2	nazwisko	
-Aristide’y	Aristide	depr:pl:voc:m2	imię	
-Aristide’y	Aristide	depr:pl:voc:m2	nazwisko	
-Aristidzie	Aristide	subst:sg:loc:m1	imię	
-Aristidzie	Aristide	subst:sg:loc:m1	nazwisko	
-Aristidzie	Aristide	subst:sg:voc:m1	imię	
-Aristidzie	Aristide	subst:sg:voc:m1	nazwisko	
+Aristide’a	Aristide	subst:sg:acc:m1	imię|nazwisko	
+Aristide’a	Aristide	subst:sg:gen:m1	imię|nazwisko	
+Aristide’ach	Aristide	subst:pl:loc:m1	imię|nazwisko	
+Aristide’ami	Aristide	subst:pl:inst:m1	imię|nazwisko	
+Aristide	Aristide	subst:sg:nom:m1	imię|nazwisko	
+Aristide’em	Aristide	subst:sg:inst:m1	imię|nazwisko	
+Aristide’om	Aristide	subst:pl:dat:m1	imię|nazwisko	
+Aristide’owi	Aristide	subst:sg:dat:m1	imię|nazwisko	
+Aristide’owie	Aristide	subst:pl:nom:m1	imię|nazwisko	
+Aristide’owie	Aristide	subst:pl:voc:m1	imię|nazwisko	
+Aristide’ów	Aristide	subst:pl:acc:m1	imię|nazwisko	
+Aristide’ów	Aristide	subst:pl:gen:m1	imię|nazwisko	
+Aristide’y	Aristide	depr:pl:nom:m2	imię|nazwisko	
+Aristide’y	Aristide	depr:pl:voc:m2	imię|nazwisko	
+Aristidzie	Aristide	subst:sg:loc:m1	imię|nazwisko	
+Aristidzie	Aristide	subst:sg:voc:m1	imię|nazwisko	
 Arizona	Arizona	subst:sg:nom:f	geograficzna	
 Arizonach	Arizona	subst:pl:loc:f	geograficzna	
 Arizonami	Arizona	subst:pl:inst:f	geograficzna	
@@ -8197,20 +8152,20 @@ Atlantiki	Atlantic	subst:pl:acc:m3	własna
 Atlantiki	Atlantic	subst:pl:nom:m3	własna	
 Atlantiki	Atlantic	subst:pl:voc:m3	własna	
 Atlantikiem	Atlantic	subst:sg:inst:m3	własna	
-Atlantisa	Atlantis	subst:sg:gen:m3	środek_lokomocji	
-Atlantisach	Atlantis	subst:pl:loc:m3	środek_lokomocji	
-Atlantisami	Atlantis	subst:pl:inst:m3	środek_lokomocji	
-Atlantis	Atlantis	subst:sg:acc:m3	środek_lokomocji	
-Atlantis	Atlantis	subst:sg:nom:m3	środek_lokomocji	
-Atlantisem	Atlantis	subst:sg:inst:m3	środek_lokomocji	
-Atlantisie	Atlantis	subst:sg:loc:m3	środek_lokomocji	
-Atlantisie	Atlantis	subst:sg:voc:m3	środek_lokomocji	
-Atlantisom	Atlantis	subst:pl:dat:m3	środek_lokomocji	
-Atlantisowi	Atlantis	subst:sg:dat:m3	środek_lokomocji	
-Atlantisów	Atlantis	subst:pl:gen:m3	środek_lokomocji	
-Atlantisy	Atlantis	subst:pl:acc:m3	środek_lokomocji	
-Atlantisy	Atlantis	subst:pl:nom:m3	środek_lokomocji	
-Atlantisy	Atlantis	subst:pl:voc:m3	środek_lokomocji	
+Atlantisa	Atlantis	subst:sg:gen:m3	środek lokomocji	
+Atlantisach	Atlantis	subst:pl:loc:m3	środek lokomocji	
+Atlantisami	Atlantis	subst:pl:inst:m3	środek lokomocji	
+Atlantis	Atlantis	subst:sg:acc:m3	środek lokomocji	
+Atlantis	Atlantis	subst:sg:nom:m3	środek lokomocji	
+Atlantisem	Atlantis	subst:sg:inst:m3	środek lokomocji	
+Atlantisie	Atlantis	subst:sg:loc:m3	środek lokomocji	
+Atlantisie	Atlantis	subst:sg:voc:m3	środek lokomocji	
+Atlantisom	Atlantis	subst:pl:dat:m3	środek lokomocji	
+Atlantisowi	Atlantis	subst:sg:dat:m3	środek lokomocji	
+Atlantisów	Atlantis	subst:pl:gen:m3	środek lokomocji	
+Atlantisy	Atlantis	subst:pl:acc:m3	środek lokomocji	
+Atlantisy	Atlantis	subst:pl:nom:m3	środek lokomocji	
+Atlantisy	Atlantis	subst:pl:voc:m3	środek lokomocji	
 Atlantyda	Atlantyda	subst:sg:nom:f	geograficzna	mit.
 Atlantydach	Atlantyda	subst:pl:loc:f	geograficzna	mit.
 Atlantydami	Atlantyda	subst:pl:inst:f	geograficzna	mit.
