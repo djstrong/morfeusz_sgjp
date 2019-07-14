@@ -463,14 +463,14 @@ video	video:a	adj:sg:loc:m1.m2.m3.n1.n2:pos
 video	video:a	adj:sg:nom.voc:f:pos		
 video	video:a	adj:sg:nom.voc:m1.m2.m3:pos		
 video	video:a	adj:sg:nom.voc:n1.n2:pos		
-videach	video:s	subst:pl:loc:n2	pospolita	
-videami	video:s	subst:pl:inst:n2	pospolita	
-videa	video:s	subst:pl:acc:n2	pospolita	
-videa	video:s	subst:pl:nom:n2	pospolita	
-videa	video:s	subst:pl:voc:n2	pospolita	
-videa	video:s	subst:sg:gen:n2	pospolita	
-videem	video:s	subst:sg:inst:n2	pospolita	
-videom	video:s	subst:pl:dat:n2	pospolita	
+videach	video:s	subst:pl:loc:n2	pospolita	rzad.
+videami	video:s	subst:pl:inst:n2	pospolita	rzad.
+videa	video:s	subst:pl:acc:n2	pospolita	rzad.
+videa	video:s	subst:pl:nom:n2	pospolita	rzad.
+videa	video:s	subst:pl:voc:n2	pospolita	rzad.
+videa	video:s	subst:sg:gen:n2	pospolita	rzad.
+videem	video:s	subst:sg:inst:n2	pospolita	rzad.
+videom	video:s	subst:pl:dat:n2	pospolita	rzad.
 video	video:s	subst:pl:acc:n2	pospolita	
 video	video:s	subst:pl:dat:n2	pospolita	
 video	video:s	subst:pl:gen:n2	pospolita	
@@ -479,14 +479,17 @@ video	video:s	subst:pl:loc:n2	pospolita
 video	video:s	subst:pl:nom:n2	pospolita	
 video	video:s	subst:pl:voc:n2	pospolita	
 video	video:s	subst:sg:acc:n2	pospolita	
+video	video:s	subst:sg:acc:n2	pospolita	rzad.
 video	video:s	subst:sg:dat:n2	pospolita	
 video	video:s	subst:sg:gen:n2	pospolita	
 video	video:s	subst:sg:inst:n2	pospolita	
 video	video:s	subst:sg:loc:n2	pospolita	
 video	video:s	subst:sg:nom:n2	pospolita	
+video	video:s	subst:sg:nom:n2	pospolita	rzad.
 video	video:s	subst:sg:voc:n2	pospolita	
-videów	video:s	subst:pl:gen:n2	pospolita	
-videu	video:s	subst:sg:dat:n2	pospolita	
+video	video:s	subst:sg:voc:n2	pospolita	rzad.
+videów	video:s	subst:pl:gen:n2	pospolita	rzad.
+videu	video:s	subst:sg:dat:n2	pospolita	rzad.
 videu	video:s	subst:sg:loc:n2	pospolita	rzad.
 vihuelach	vihuela	subst:pl:loc:f	pospolita	muz.
 vihuelami	vihuela	subst:pl:inst:f	pospolita	muz.

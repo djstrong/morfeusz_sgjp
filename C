@@ -2619,6 +2619,20 @@ Chilijczyków	Chilijczyk	subst:pl:acc:m1	pospolita
 Chilijczyków	Chilijczyk	subst:pl:gen:m1	pospolita	
 Chilijczyku	Chilijczyk	subst:sg:loc:m1	pospolita	
 Chilijczyku	Chilijczyk	subst:sg:voc:m1	pospolita	
+Chilijce	Chilijka	subst:sg:dat:f	pospolita	
+Chilijce	Chilijka	subst:sg:loc:f	pospolita	
+Chilijek	Chilijka	subst:pl:gen:f	pospolita	
+Chilijkach	Chilijka	subst:pl:loc:f	pospolita	
+Chilijka	Chilijka	subst:sg:nom:f	pospolita	
+Chilijkami	Chilijka	subst:pl:inst:f	pospolita	
+Chilijką	Chilijka	subst:sg:inst:f	pospolita	
+Chilijkę	Chilijka	subst:sg:acc:f	pospolita	
+Chilijki	Chilijka	subst:pl:acc:f	pospolita	
+Chilijki	Chilijka	subst:pl:nom:f	pospolita	
+Chilijki	Chilijka	subst:pl:voc:f	pospolita	
+Chilijki	Chilijka	subst:sg:gen:f	pospolita	
+Chilijko	Chilijka	subst:sg:voc:f	pospolita	
+Chilijkom	Chilijka	subst:pl:dat:f	pospolita	
 Chince	Chinka	subst:sg:dat:f	pospolita	
 Chince	Chinka	subst:sg:loc:f	pospolita	
 Chinek	Chinka	subst:pl:gen:f	pospolita	
@@ -7177,6 +7191,20 @@ Czechosłowacji	Czechosłowacja	subst:sg:loc:f	geograficzna	hist.
 Czechosłowacjo	Czechosłowacja	subst:sg:voc:f	geograficzna	hist.
 Czechosłowacjom	Czechosłowacja	subst:pl:dat:f	geograficzna	hist.
 Czechosłowacyj	Czechosłowacja	subst:pl:gen:f	geograficzna	arch.|char.|hist.
+Czechosłowaczce	Czechosłowaczka	subst:sg:dat:f	pospolita	etn.
+Czechosłowaczce	Czechosłowaczka	subst:sg:loc:f	pospolita	etn.
+Czechosłowaczek	Czechosłowaczka	subst:pl:gen:f	pospolita	etn.
+Czechosłowaczkach	Czechosłowaczka	subst:pl:loc:f	pospolita	etn.
+Czechosłowaczka	Czechosłowaczka	subst:sg:nom:f	pospolita	etn.
+Czechosłowaczkami	Czechosłowaczka	subst:pl:inst:f	pospolita	etn.
+Czechosłowaczką	Czechosłowaczka	subst:sg:inst:f	pospolita	etn.
+Czechosłowaczkę	Czechosłowaczka	subst:sg:acc:f	pospolita	etn.
+Czechosłowaczki	Czechosłowaczka	subst:pl:acc:f	pospolita	etn.
+Czechosłowaczki	Czechosłowaczka	subst:pl:nom:f	pospolita	etn.
+Czechosłowaczki	Czechosłowaczka	subst:pl:voc:f	pospolita	etn.
+Czechosłowaczki	Czechosłowaczka	subst:sg:gen:f	pospolita	etn.
+Czechosłowaczko	Czechosłowaczka	subst:sg:voc:f	pospolita	etn.
+Czechosłowaczkom	Czechosłowaczka	subst:pl:dat:f	pospolita	etn.
 Czechosłowacy	Czechosłowak	subst:pl:nom:m1	pospolita	
 Czechosłowacy	Czechosłowak	subst:pl:voc:m1	pospolita	
 Czechosłowakach	Czechosłowak	subst:pl:loc:m1	pospolita	

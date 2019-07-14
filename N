@@ -1,4 +1,3 @@
-Na	Księga_Nahuma	brev:npun		
 Nah	Księga_Nahuma	brev:npun		
 Ne	Księga_Nehemiasza	brev:npun		
 Neh	Księga_Nehemiasza	brev:npun		

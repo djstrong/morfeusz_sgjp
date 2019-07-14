@@ -4873,24 +4873,24 @@ Trypolitanii	Trypolitania	subst:sg:loc:f	geograficzna
 Trypolitanij	Trypolitania	subst:pl:gen:f	geograficzna	arch.|char.
 Trypolitaniom	Trypolitania	subst:pl:dat:f	geograficzna	
 Trypolitanio	Trypolitania	subst:sg:voc:f	geograficzna	
-Trytonach	Tryton	subst:pl:loc:m1	astr.	
-Trytonami	Tryton	subst:pl:inst:m1	astr.	
-Trytona	Tryton	subst:sg:acc:m1	astr.	
-Trytona	Tryton	subst:sg:gen:m1	astr.	
-Trytonem	Tryton	subst:sg:inst:m1	astr.	
-Trytonie	Tryton	subst:sg:loc:m1	astr.	
-Trytonie	Tryton	subst:sg:voc:m1	astr.	
-Trytoni	Tryton	subst:pl:nom:m1	astr.	
-Trytoni	Tryton	subst:pl:voc:m1	astr.	
-Trytonom	Tryton	subst:pl:dat:m1	astr.	
-Trytonowie	Tryton	subst:pl:nom:m1	astr.	
-Trytonowie	Tryton	subst:pl:voc:m1	astr.	
-Trytonowi	Tryton	subst:sg:dat:m1	astr.	
-Trytonów	Tryton	subst:pl:acc:m1	astr.	
-Trytonów	Tryton	subst:pl:gen:m1	astr.	
-Tryton	Tryton	subst:sg:nom:m1	astr.	
-Trytony	Tryton	depr:pl:nom:m2	astr.	
-Trytony	Tryton	depr:pl:voc:m2	astr.	
+Trytonach	Tryton	subst:pl:loc:m1	własna	mit.
+Trytonami	Tryton	subst:pl:inst:m1	własna	mit.
+Trytona	Tryton	subst:sg:acc:m1	własna	mit.
+Trytona	Tryton	subst:sg:gen:m1	własna	mit.
+Trytonem	Tryton	subst:sg:inst:m1	własna	mit.
+Trytonie	Tryton	subst:sg:loc:m1	własna	mit.
+Trytonie	Tryton	subst:sg:voc:m1	własna	mit.
+Trytoni	Tryton	subst:pl:nom:m1	własna	mit.
+Trytoni	Tryton	subst:pl:voc:m1	własna	mit.
+Trytonom	Tryton	subst:pl:dat:m1	własna	mit.
+Trytonowie	Tryton	subst:pl:nom:m1	własna	mit.
+Trytonowie	Tryton	subst:pl:voc:m1	własna	mit.
+Trytonowi	Tryton	subst:sg:dat:m1	własna	mit.
+Trytonów	Tryton	subst:pl:acc:m1	własna	mit.
+Trytonów	Tryton	subst:pl:gen:m1	własna	mit.
+Tryton	Tryton	subst:sg:nom:m1	własna	mit.
+Trytony	Tryton	depr:pl:nom:m2	własna	mit.
+Trytony	Tryton	depr:pl:voc:m2	własna	mit.
 Trzaskowska	Trzaskowska	subst:sg:nom:f	nazwisko	
 Trzaskowska	Trzaskowska	subst:sg:voc:f	nazwisko	
 Trzaskowską	Trzaskowska	subst:sg:acc:f	nazwisko	

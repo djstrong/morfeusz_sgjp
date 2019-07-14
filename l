@@ -59317,8 +59317,9 @@ luperkaliami	luperkalie	subst:pl:inst:p3	pospolita
 luperkalie	luperkalie	subst:pl:acc:p3	pospolita	
 luperkalie	luperkalie	subst:pl:nom:p3	pospolita	
 luperkalie	luperkalie	subst:pl:voc:p3	pospolita	
+luperkalii	luperkalie	subst:pl:gen:p3	pospolita	hom.
+luperkalij	luperkalie	subst:pl:gen:p3	pospolita	arch.|char.
 luperkaliom	luperkalie	subst:pl:dat:p3	pospolita	
-luperkaliów	luperkalie	subst:pl:gen:p3	pospolita	
 lupinozach	lupinoza	subst:pl:loc:f	pospolita	
 lupinoza	lupinoza	subst:sg:nom:f	pospolita	
 lupinozami	lupinoza	subst:pl:inst:f	pospolita	

@@ -1,3 +1,17 @@
+ćakrach	ćakra	subst:pl:loc:f	pospolita	
+ćakra	ćakra	subst:sg:nom:f	pospolita	
+ćakrami	ćakra	subst:pl:inst:f	pospolita	
+ćakrą	ćakra	subst:sg:inst:f	pospolita	
+ćakr	ćakra	subst:pl:gen:f	pospolita	
+ćakrę	ćakra	subst:sg:acc:f	pospolita	
+ćakro	ćakra	subst:sg:voc:f	pospolita	
+ćakrom	ćakra	subst:pl:dat:f	pospolita	
+ćakry	ćakra	subst:pl:acc:f	pospolita	
+ćakry	ćakra	subst:pl:nom:f	pospolita	
+ćakry	ćakra	subst:pl:voc:f	pospolita	
+ćakry	ćakra	subst:sg:gen:f	pospolita	
+ćakrze	ćakra	subst:sg:dat:f	pospolita	
+ćakrze	ćakra	subst:sg:loc:f	pospolita	
 ćkacie	ćkać	fin:pl:sec:imperf		
 ćkać	ćkać	inf:imperf		
 ćka	ćkać	fin:sg:ter:imperf		
@@ -488,6 +502,24 @@
 ćmym	ćmy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ćmym	ćmy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ćmymi	ćmy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+ćpaczach	ćpacz	subst:pl:loc:m1	pospolita	pot.
+ćpacza	ćpacz	subst:sg:acc:m1	pospolita	pot.
+ćpacza	ćpacz	subst:sg:gen:m1	pospolita	pot.
+ćpaczami	ćpacz	subst:pl:inst:m1	pospolita	pot.
+ćpacz	ćpacz	subst:sg:nom:m1	pospolita	pot.
+ćpacze	ćpacz	depr:pl:nom:m2	pospolita	pot.
+ćpacze	ćpacz	depr:pl:voc:m2	pospolita	pot.
+ćpacze	ćpacz	subst:pl:nom:m1	pospolita	pot.
+ćpacze	ćpacz	subst:pl:voc:m1	pospolita	pot.
+ćpaczem	ćpacz	subst:sg:inst:m1	pospolita	pot.
+ćpaczom	ćpacz	subst:pl:dat:m1	pospolita	pot.
+ćpaczowi	ćpacz	subst:sg:dat:m1	pospolita	pot.
+ćpaczów	ćpacz	subst:pl:acc:m1	pospolita	pot.
+ćpaczów	ćpacz	subst:pl:gen:m1	pospolita	pot.
+ćpaczu	ćpacz	subst:sg:loc:m1	pospolita	pot.
+ćpaczu	ćpacz	subst:sg:voc:m1	pospolita	pot.
+ćpaczy	ćpacz	subst:pl:acc:m1	pospolita	pot.
+ćpaczy	ćpacz	subst:pl:gen:m1	pospolita	pot.
 ćpacie	ćpać	fin:pl:sec:imperf		
 ćpać	ćpać	inf:imperf		
 ćpa	ćpać	fin:sg:ter:imperf		
@@ -1609,6 +1641,20 @@
 ćwierćbeczków	ćwierćbeczek	subst:pl:gen:m3	pospolita	daw.
 ćwierćbeczku	ćwierćbeczek	subst:sg:loc:m3	pospolita	daw.
 ćwierćbeczku	ćwierćbeczek	subst:sg:voc:m3	pospolita	daw.
+ćwierćdolarówce	ćwierćdolarówka	subst:sg:dat:f	pospolita	
+ćwierćdolarówce	ćwierćdolarówka	subst:sg:loc:f	pospolita	
+ćwierćdolarówek	ćwierćdolarówka	subst:pl:gen:f	pospolita	
+ćwierćdolarówkach	ćwierćdolarówka	subst:pl:loc:f	pospolita	
+ćwierćdolarówka	ćwierćdolarówka	subst:sg:nom:f	pospolita	
+ćwierćdolarówkami	ćwierćdolarówka	subst:pl:inst:f	pospolita	
+ćwierćdolarówką	ćwierćdolarówka	subst:sg:inst:f	pospolita	
+ćwierćdolarówkę	ćwierćdolarówka	subst:sg:acc:f	pospolita	
+ćwierćdolarówki	ćwierćdolarówka	subst:pl:acc:f	pospolita	
+ćwierćdolarówki	ćwierćdolarówka	subst:pl:nom:f	pospolita	
+ćwierćdolarówki	ćwierćdolarówka	subst:pl:voc:f	pospolita	
+ćwierćdolarówki	ćwierćdolarówka	subst:sg:gen:f	pospolita	
+ćwierćdolarówko	ćwierćdolarówka	subst:sg:voc:f	pospolita	
+ćwierćdolarówkom	ćwierćdolarówka	subst:pl:dat:f	pospolita	
 ćwierćfinalistach	ćwierćfinalista	subst:pl:loc:m1	pospolita	
 ćwierćfinalista	ćwierćfinalista	subst:sg:nom:m1	pospolita	
 ćwierćfinalistami	ćwierćfinalista	subst:pl:inst:m1	pospolita	

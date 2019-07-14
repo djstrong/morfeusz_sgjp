@@ -15079,13 +15079,56 @@
 żółknący	żółknąć	pact:sg:acc:m3:imperf:aff		
 żółknący	żółknąć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 żółknąc	żółknąć	pcon:imperf		
+żółknąc	żółknąć	pcon:imperf		rzad.
 żółknąć	żółknąć	inf:imperf		
+żółknąć	żółknąć	inf:imperf		rzad.
+żółknąłbym	żółknąć	cond:sg:m1.m2.m3:pri:imperf		rzad.
+żółknąłbyś	żółknąć	cond:sg:m1.m2.m3:sec:imperf		rzad.
+żółknąłby	żółknąć	cond:sg:m1.m2.m3:ter:imperf		rzad.
+żółknąłem	żółknąć	praet:sg:m1.m2.m3:pri:imperf		rzad.
+żółknąłeś	żółknąć	praet:sg:m1.m2.m3:sec:imperf		rzad.
+żółknął	żółknąć	praet:sg:m1.m2.m3:imperf		rzad.
+żółknął	żółknąć	praet:sg:m1.m2.m3:ter:imperf		rzad.
 żółkną	żółknąć	fin:pl:ter:imperf		
+żółkną	żółknąć	fin:pl:ter:imperf		rzad.
+żółknęlibyście	żółknąć	cond:pl:m1.p1:sec:imperf		rzad.
+żółknęlibyśmy	żółknąć	cond:pl:m1.p1:pri:imperf		rzad.
+żółknęliby	żółknąć	cond:pl:m1.p1:ter:imperf		rzad.
+żółknęliście	żółknąć	praet:pl:m1.p1:sec:imperf		rzad.
+żółknęliśmy	żółknąć	praet:pl:m1.p1:pri:imperf		rzad.
+żółknęli	żółknąć	praet:pl:m1.p1:imperf		rzad.
+żółknęli	żółknąć	praet:pl:m1.p1:ter:imperf		rzad.
+żółknęłabym	żółknąć	cond:sg:f:pri:imperf		rzad.
+żółknęłabyś	żółknąć	cond:sg:f:sec:imperf		rzad.
+żółknęłaby	żółknąć	cond:sg:f:ter:imperf		rzad.
+żółknęłam	żółknąć	praet:sg:f:pri:imperf		rzad.
+żółknęłaś	żółknąć	praet:sg:f:sec:imperf		rzad.
+żółknęła	żółknąć	praet:sg:f:imperf		rzad.
+żółknęła	żółknąć	praet:sg:f:ter:imperf		rzad.
+żółknęłobym	żółknąć	cond:sg:n1.n2:pri:imperf		rzad.
+żółknęłobyś	żółknąć	cond:sg:n1.n2:sec:imperf		rzad.
+żółknęłoby	żółknąć	cond:sg:n1.n2:ter:imperf		rzad.
+żółknęłom	żółknąć	praet:sg:n1.n2:pri:imperf		rzad.
+żółknęłoś	żółknąć	praet:sg:n1.n2:sec:imperf		rzad.
+żółknęło	żółknąć	praet:sg:n1.n2:imperf		rzad.
+żółknęło	żółknąć	praet:sg:n1.n2:ter:imperf		rzad.
+żółknęłybyście	żółknąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+żółknęłybyśmy	żółknąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+żółknęłyby	żółknąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+żółknęłyście	żółknąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+żółknęłyśmy	żółknąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+żółknęły	żółknąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
+żółknęły	żółknąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
 żółknę	żółknąć	fin:sg:pri:imperf		
+żółknę	żółknąć	fin:sg:pri:imperf		rzad.
 żółkniecie	żółknąć	fin:pl:sec:imperf		
+żółkniecie	żółknąć	fin:pl:sec:imperf		rzad.
 żółkniemy	żółknąć	fin:pl:pri:imperf		
+żółkniemy	żółknąć	fin:pl:pri:imperf		rzad.
 żółkniesz	żółknąć	fin:sg:sec:imperf		
+żółkniesz	żółknąć	fin:sg:sec:imperf		rzad.
 żółknie	żółknąć	fin:sg:ter:imperf		
+żółknie	żółknąć	fin:sg:ter:imperf		rzad.
 żółknięciami	żółknąć	ger:pl:inst:n2:imperf:aff		
 żółknięcia	żółknąć	ger:pl:nom.acc:n2:imperf:aff		
 żółknięcia	żółknąć	ger:sg:gen:n2:imperf:aff		
@@ -15095,9 +15138,13 @@
 żółknięciu	żółknąć	ger:sg:dat.loc:n2:imperf:aff		
 żółknięć	żółknąć	ger:pl:gen:n2:imperf:aff		
 żółknięto	żółknąć	imps:imperf		
+żółknięto	żółknąć	imps:imperf		rzad.
 żółknijcie	żółknąć	impt:pl:sec:imperf		
+żółknijcie	żółknąć	impt:pl:sec:imperf		rzad.
 żółknijmy	żółknąć	impt:pl:pri:imperf		
+żółknijmy	żółknąć	impt:pl:pri:imperf		rzad.
 żółknij	żółknąć	impt:sg:sec:imperf		
+żółknij	żółknąć	impt:sg:sec:imperf		rzad.
 żółkniałabym	żółknieć	cond:sg:f:pri:imperf		
 żółkniałabyś	żółknieć	cond:sg:f:sec:imperf		
 żółkniałaby	żółknieć	cond:sg:f:ter:imperf		

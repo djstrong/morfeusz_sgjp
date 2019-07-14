@@ -21676,20 +21676,7 @@
 łupnijcie	łupnąć	impt:pl:sec:perf		
 łupnij	łupnąć	impt:sg:sec:perf		
 łupnijmy	łupnąć	impt:pl:pri:perf		
-łupniach	łupnia	subst:pl:loc:f	pospolita	daw.
-łupnia	łupnia	subst:sg:nom:f	pospolita	daw.
-łupniami	łupnia	subst:pl:inst:f	pospolita	daw.
-łupnią	łupnia	subst:sg:inst:f	pospolita	daw.
-łupnie	łupnia	subst:pl:acc:f	pospolita	daw.
-łupnie	łupnia	subst:pl:nom:f	pospolita	daw.
-łupnie	łupnia	subst:pl:voc:f	pospolita	daw.
-łupnię	łupnia	subst:sg:acc:f	pospolita	daw.
-łupni	łupnia	subst:pl:gen:f	pospolita	daw.
-łupni	łupnia	subst:sg:dat:f	pospolita	daw.
-łupni	łupnia	subst:sg:gen:f	pospolita	daw.
-łupni	łupnia	subst:sg:loc:f	pospolita	daw.
-łupnio	łupnia	subst:sg:voc:f	pospolita	daw.
-łupniom	łupnia	subst:pl:dat:f	pospolita	daw.
+łupnia	łupnia:b	burk		
 łupniakach	łupniak	subst:pl:loc:m3	pospolita	
 łupniaka	łupniak	subst:sg:gen:m3	pospolita	
 łupniakami	łupniak	subst:pl:inst:m3	pospolita	
@@ -21704,6 +21691,20 @@
 łupniaków	łupniak	subst:pl:gen:m3	pospolita	
 łupniaku	łupniak	subst:sg:loc:m3	pospolita	
 łupniaku	łupniak	subst:sg:voc:m3	pospolita	
+łupniach	łupnia:s	subst:pl:loc:f	pospolita	daw.
+łupnia	łupnia:s	subst:sg:nom:f	pospolita	daw.
+łupniami	łupnia:s	subst:pl:inst:f	pospolita	daw.
+łupnią	łupnia:s	subst:sg:inst:f	pospolita	daw.
+łupnie	łupnia:s	subst:pl:acc:f	pospolita	daw.
+łupnie	łupnia:s	subst:pl:nom:f	pospolita	daw.
+łupnie	łupnia:s	subst:pl:voc:f	pospolita	daw.
+łupnię	łupnia:s	subst:sg:acc:f	pospolita	daw.
+łupni	łupnia:s	subst:pl:gen:f	pospolita	daw.
+łupni	łupnia:s	subst:sg:dat:f	pospolita	daw.
+łupni	łupnia:s	subst:sg:gen:f	pospolita	daw.
+łupni	łupnia:s	subst:sg:loc:f	pospolita	daw.
+łupnio	łupnia:s	subst:sg:voc:f	pospolita	daw.
+łupniom	łupnia:s	subst:pl:dat:f	pospolita	daw.
 łupnościach	łupność	subst:pl:loc:f		
 łupnościami	łupność	subst:pl:inst:f		
 łupnością	łupność	subst:sg:inst:f		

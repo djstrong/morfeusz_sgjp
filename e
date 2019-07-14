@@ -5571,6 +5571,20 @@ egzorcyście	egzorcysta	subst:sg:dat:m1	pospolita	rel.
 egzorcyście	egzorcysta	subst:sg:loc:m1	pospolita	rel.
 egzorcyści	egzorcysta	subst:pl:nom:m1	pospolita	rel.
 egzorcyści	egzorcysta	subst:pl:voc:m1	pospolita	rel.
+egzorcystce	egzorcystka	subst:sg:dat:f	pospolita	
+egzorcystce	egzorcystka	subst:sg:loc:f	pospolita	
+egzorcystek	egzorcystka	subst:pl:gen:f	pospolita	
+egzorcystkach	egzorcystka	subst:pl:loc:f	pospolita	
+egzorcystka	egzorcystka	subst:sg:nom:f	pospolita	
+egzorcystkami	egzorcystka	subst:pl:inst:f	pospolita	
+egzorcystką	egzorcystka	subst:sg:inst:f	pospolita	
+egzorcystkę	egzorcystka	subst:sg:acc:f	pospolita	
+egzorcystki	egzorcystka	subst:pl:acc:f	pospolita	
+egzorcystki	egzorcystka	subst:pl:nom:f	pospolita	
+egzorcystki	egzorcystka	subst:pl:voc:f	pospolita	
+egzorcystki	egzorcystka	subst:sg:gen:f	pospolita	
+egzorcystko	egzorcystka	subst:sg:voc:f	pospolita	
+egzorcystkom	egzorcystka	subst:pl:dat:f	pospolita	
 egzorcyzmach	egzorcyzm	subst:pl:loc:m3	pospolita	rel.
 egzorcyzmami	egzorcyzm	subst:pl:inst:m3	pospolita	rel.
 egzorcyzm	egzorcyzm	subst:sg:acc:m3	pospolita	rel.
@@ -7596,6 +7610,20 @@ ekologizmu	ekologizm	subst:sg:gen:m3	pospolita
 ekologizmy	ekologizm	subst:pl:acc:m3	pospolita	
 ekologizmy	ekologizm	subst:pl:nom:m3	pospolita	
 ekologizmy	ekologizm	subst:pl:voc:m3	pospolita	
+ekolożce	ekolożka	subst:sg:dat:f	pospolita	
+ekolożce	ekolożka	subst:sg:loc:f	pospolita	
+ekolożek	ekolożka	subst:pl:gen:f	pospolita	
+ekolożkach	ekolożka	subst:pl:loc:f	pospolita	
+ekolożka	ekolożka	subst:sg:nom:f	pospolita	
+ekolożkami	ekolożka	subst:pl:inst:f	pospolita	
+ekolożką	ekolożka	subst:sg:inst:f	pospolita	
+ekolożkę	ekolożka	subst:sg:acc:f	pospolita	
+ekolożki	ekolożka	subst:pl:acc:f	pospolita	
+ekolożki	ekolożka	subst:pl:nom:f	pospolita	
+ekolożki	ekolożka	subst:pl:voc:f	pospolita	
+ekolożki	ekolożka	subst:sg:gen:f	pospolita	
+ekolożko	ekolożka	subst:sg:voc:f	pospolita	
+ekolożkom	ekolożka	subst:pl:dat:f	pospolita	
 ekonomach	ekonom	subst:pl:loc:m1	pospolita	
 ekonoma	ekonom	subst:sg:acc:m1	pospolita	
 ekonoma	ekonom	subst:sg:gen:m1	pospolita	
@@ -8256,6 +8284,21 @@ ekosystemowym	ekosystemowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 ekosystemowym	ekosystemowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ekosystemowym	ekosystemowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ekosystemowymi	ekosystemowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+ekotażach	ekotaż	subst:pl:loc:m3	pospolita	
+ekotażami	ekotaż	subst:pl:inst:m3	pospolita	
+ekotaże	ekotaż	subst:pl:acc:m3	pospolita	
+ekotaże	ekotaż	subst:pl:nom:m3	pospolita	
+ekotaże	ekotaż	subst:pl:voc:m3	pospolita	
+ekotaż	ekotaż	subst:sg:acc:m3	pospolita	
+ekotaż	ekotaż	subst:sg:nom:m3	pospolita	
+ekotażem	ekotaż	subst:sg:inst:m3	pospolita	
+ekotażom	ekotaż	subst:pl:dat:m3	pospolita	
+ekotażowi	ekotaż	subst:sg:dat:m3	pospolita	
+ekotażów	ekotaż	subst:pl:gen:m3	pospolita	
+ekotażu	ekotaż	subst:sg:gen:m3	pospolita	
+ekotażu	ekotaż	subst:sg:loc:m3	pospolita	
+ekotażu	ekotaż	subst:sg:voc:m3	pospolita	
+ekotaży	ekotaż	subst:pl:gen:m3	pospolita	
 ekotonach	ekoton	subst:pl:loc:m3	pospolita	
 ekotonami	ekoton	subst:pl:inst:m3	pospolita	
 ekoton	ekoton	subst:sg:acc:m3	pospolita	
@@ -10838,6 +10881,22 @@ ekspansywnym	ekspansywny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 ekspansywnym	ekspansywny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ekspansywnym	ekspansywny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ekspansywnymi	ekspansywny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+ekspacie	ekspata	subst:sg:dat:m1	pospolita	
+ekspacie	ekspata	subst:sg:loc:m1	pospolita	
+ekspaci	ekspata	subst:pl:nom:m1	pospolita	
+ekspaci	ekspata	subst:pl:voc:m1	pospolita	
+ekspatach	ekspata	subst:pl:loc:m1	pospolita	
+ekspata	ekspata	subst:sg:nom:m1	pospolita	
+ekspatami	ekspata	subst:pl:inst:m1	pospolita	
+ekspatą	ekspata	subst:sg:inst:m1	pospolita	
+ekspatę	ekspata	subst:sg:acc:m1	pospolita	
+ekspato	ekspata	subst:sg:voc:m1	pospolita	
+ekspatom	ekspata	subst:pl:dat:m1	pospolita	
+ekspatów	ekspata	subst:pl:acc:m1	pospolita	
+ekspatów	ekspata	subst:pl:gen:m1	pospolita	
+ekspaty	ekspata	depr:pl:nom:m2	pospolita	
+ekspaty	ekspata	depr:pl:voc:m2	pospolita	
+ekspaty	ekspata	subst:sg:gen:m1	pospolita	
 ekspatriacjach	ekspatriacja	subst:pl:loc:f	pospolita	
 ekspatriacja	ekspatriacja	subst:sg:nom:f	pospolita	
 ekspatriacjami	ekspatriacja	subst:pl:inst:f	pospolita	
@@ -12106,6 +12165,45 @@ eksplikacji	eksplikacja	subst:sg:loc:f	pospolita	przest.
 eksplikacjo	eksplikacja	subst:sg:voc:f	pospolita	przest.
 eksplikacjom	eksplikacja	subst:pl:dat:f	pospolita	przest.
 eksplikacyj	eksplikacja	subst:pl:gen:f	pospolita	arch.|char.|przest.
+eksplikacyjnie	eksplikacyjnie	adv:pos		
+eksplikacyjnościach	eksplikacyjność	subst:pl:loc:f		
+eksplikacyjnościami	eksplikacyjność	subst:pl:inst:f		
+eksplikacyjnością	eksplikacyjność	subst:sg:inst:f		
+eksplikacyjności	eksplikacyjność	subst:pl:acc:f		
+eksplikacyjności	eksplikacyjność	subst:pl:gen:f		
+eksplikacyjności	eksplikacyjność	subst:pl:nom:f		
+eksplikacyjności	eksplikacyjność	subst:pl:voc:f		
+eksplikacyjności	eksplikacyjność	subst:sg:dat:f		
+eksplikacyjności	eksplikacyjność	subst:sg:gen:f		
+eksplikacyjności	eksplikacyjność	subst:sg:loc:f		
+eksplikacyjności	eksplikacyjność	subst:sg:voc:f		
+eksplikacyjnościom	eksplikacyjność	subst:pl:dat:f		
+eksplikacyjność	eksplikacyjność	subst:sg:acc:f		
+eksplikacyjność	eksplikacyjność	subst:sg:nom:f		
+eksplikacyjna	eksplikacyjny	adj:sg:nom.voc:f:pos		
+eksplikacyjną	eksplikacyjny	adj:sg:acc:f:pos		
+eksplikacyjną	eksplikacyjny	adj:sg:inst:f:pos		
+eksplikacyjne	eksplikacyjny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+eksplikacyjne	eksplikacyjny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+eksplikacyjne	eksplikacyjny	adj:sg:acc:n1.n2:pos		
+eksplikacyjne	eksplikacyjny	adj:sg:nom.voc:n1.n2:pos		
+eksplikacyjnego	eksplikacyjny	adj:sg:acc:m1.m2:pos		
+eksplikacyjnego	eksplikacyjny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+eksplikacyjnej	eksplikacyjny	adj:sg:dat:f:pos		
+eksplikacyjnej	eksplikacyjny	adj:sg:gen:f:pos		
+eksplikacyjnej	eksplikacyjny	adj:sg:loc:f:pos		
+eksplikacyjnemu	eksplikacyjny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+eksplikacyjni	eksplikacyjny	adj:pl:nom.voc:m1.p1:pos		
+eksplikacyjno	eksplikacyjny	adja		
+eksplikacyjnych	eksplikacyjny	adj:pl:acc:m1.p1:pos		
+eksplikacyjnych	eksplikacyjny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+eksplikacyjnych	eksplikacyjny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+eksplikacyjny	eksplikacyjny	adj:sg:acc:m3:pos		
+eksplikacyjny	eksplikacyjny	adj:sg:nom.voc:m1.m2.m3:pos		
+eksplikacyjnym	eksplikacyjny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+eksplikacyjnym	eksplikacyjny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+eksplikacyjnym	eksplikacyjny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+eksplikacyjnymi	eksplikacyjny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 eksplikatywnościach	eksplikatywność	subst:pl:loc:f		
 eksplikatywnościami	eksplikatywność	subst:pl:inst:f		
 eksplikatywnością	eksplikatywność	subst:sg:inst:f		
@@ -14501,6 +14599,22 @@ eksterminacyjnym	eksterminacyjny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 eksterminacyjnym	eksterminacyjny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 eksterminacyjnym	eksterminacyjny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 eksterminacyjnymi	eksterminacyjny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+eksterminatorach	eksterminator	subst:pl:loc:m1	pospolita	
+eksterminatora	eksterminator	subst:sg:acc:m1	pospolita	
+eksterminatora	eksterminator	subst:sg:gen:m1	pospolita	
+eksterminatorami	eksterminator	subst:pl:inst:m1	pospolita	
+eksterminator	eksterminator	subst:sg:nom:m1	pospolita	
+eksterminatorem	eksterminator	subst:sg:inst:m1	pospolita	
+eksterminatorom	eksterminator	subst:pl:dat:m1	pospolita	
+eksterminatorowi	eksterminator	subst:sg:dat:m1	pospolita	
+eksterminatorów	eksterminator	subst:pl:acc:m1	pospolita	
+eksterminatorów	eksterminator	subst:pl:gen:m1	pospolita	
+eksterminatory	eksterminator	depr:pl:nom:m2	pospolita	
+eksterminatory	eksterminator	depr:pl:voc:m2	pospolita	
+eksterminatorze	eksterminator	subst:sg:loc:m1	pospolita	
+eksterminatorze	eksterminator	subst:sg:voc:m1	pospolita	
+eksterminatorzy	eksterminator	subst:pl:nom:m1	pospolita	
+eksterminatorzy	eksterminator	subst:pl:voc:m1	pospolita	
 eksterminować	eksterminować	inf:imperf.perf		
 eksterminowaliby	eksterminować	cond:pl:m1.p1:ter:imperf.perf		
 eksterminowalibyście	eksterminować	cond:pl:m1.p1:sec:imperf.perf		
@@ -15657,6 +15771,7 @@ ekstrawertyczki	ekstrawertyczka	subst:pl:voc:f	pospolita
 ekstrawertyczki	ekstrawertyczka	subst:sg:gen:f	pospolita	
 ekstrawertyczko	ekstrawertyczka	subst:sg:voc:f	pospolita	
 ekstrawertyczkom	ekstrawertyczka	subst:pl:dat:f	pospolita	
+ekstrawertycznie	ekstrawertycznie	adv:pos		
 ekstrawertycznościach	ekstrawertyczność	subst:pl:loc:f		
 ekstrawertycznościami	ekstrawertyczność	subst:pl:inst:f		
 ekstrawertycznością	ekstrawertyczność	subst:sg:inst:f		
@@ -15749,6 +15864,20 @@ ekstrawertywnym	ekstrawertywny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 ekstrawertywnym	ekstrawertywny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 ekstrawertywnym	ekstrawertywny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 ekstrawertywnymi	ekstrawertywny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+ekstrawertyzmach	ekstrawertyzm	subst:pl:loc:m3	pospolita	
+ekstrawertyzmami	ekstrawertyzm	subst:pl:inst:m3	pospolita	
+ekstrawertyzm	ekstrawertyzm	subst:sg:acc:m3	pospolita	
+ekstrawertyzm	ekstrawertyzm	subst:sg:nom:m3	pospolita	
+ekstrawertyzmem	ekstrawertyzm	subst:sg:inst:m3	pospolita	
+ekstrawertyzmie	ekstrawertyzm	subst:sg:loc:m3	pospolita	
+ekstrawertyzmie	ekstrawertyzm	subst:sg:voc:m3	pospolita	
+ekstrawertyzmom	ekstrawertyzm	subst:pl:dat:m3	pospolita	
+ekstrawertyzmowi	ekstrawertyzm	subst:sg:dat:m3	pospolita	
+ekstrawertyzmów	ekstrawertyzm	subst:pl:gen:m3	pospolita	
+ekstrawertyzmu	ekstrawertyzm	subst:sg:gen:m3	pospolita	
+ekstrawertyzmy	ekstrawertyzm	subst:pl:acc:m3	pospolita	
+ekstrawertyzmy	ekstrawertyzm	subst:pl:nom:m3	pospolita	
+ekstrawertyzmy	ekstrawertyzm	subst:pl:voc:m3	pospolita	
 ekstremach	ekstrem	subst:pl:loc:m3	pospolita	
 ekstremami	ekstrem	subst:pl:inst:m3	pospolita	
 ekstrem	ekstrem	subst:sg:acc:m3	pospolita	
@@ -17049,6 +17178,21 @@ ekwiwalentory	ekwiwalentor	subst:pl:nom:m3	pospolita
 ekwiwalentory	ekwiwalentor	subst:pl:voc:m3	pospolita	
 ekwiwalentorze	ekwiwalentor	subst:sg:loc:m3	pospolita	
 ekwiwalentorze	ekwiwalentor	subst:sg:voc:m3	pospolita	
+ekwiwalentyzacjach	ekwiwalentyzacja	subst:pl:loc:f	pospolita	
+ekwiwalentyzacja	ekwiwalentyzacja	subst:sg:nom:f	pospolita	
+ekwiwalentyzacjami	ekwiwalentyzacja	subst:pl:inst:f	pospolita	
+ekwiwalentyzacją	ekwiwalentyzacja	subst:sg:inst:f	pospolita	
+ekwiwalentyzacje	ekwiwalentyzacja	subst:pl:acc:f	pospolita	
+ekwiwalentyzacje	ekwiwalentyzacja	subst:pl:nom:f	pospolita	
+ekwiwalentyzacje	ekwiwalentyzacja	subst:pl:voc:f	pospolita	
+ekwiwalentyzację	ekwiwalentyzacja	subst:sg:acc:f	pospolita	
+ekwiwalentyzacji	ekwiwalentyzacja	subst:pl:gen:f	pospolita	hom.
+ekwiwalentyzacji	ekwiwalentyzacja	subst:sg:dat:f	pospolita	
+ekwiwalentyzacji	ekwiwalentyzacja	subst:sg:gen:f	pospolita	
+ekwiwalentyzacji	ekwiwalentyzacja	subst:sg:loc:f	pospolita	
+ekwiwalentyzacjo	ekwiwalentyzacja	subst:sg:voc:f	pospolita	
+ekwiwalentyzacjom	ekwiwalentyzacja	subst:pl:dat:f	pospolita	
+ekwiwalentyzacyj	ekwiwalentyzacja	subst:pl:gen:f	pospolita	arch.|char.
 ekwiwokach	ekwiwok	subst:pl:loc:m3	pospolita	przest.
 ekwiwokami	ekwiwok	subst:pl:inst:m3	pospolita	przest.
 ekwiwok	ekwiwok	subst:sg:acc:m3	pospolita	przest.
@@ -17924,6 +18068,44 @@ elearze	elear	subst:sg:loc:m1	pospolita
 elearze	elear	subst:sg:voc:m1	pospolita	
 elearzy	elear	subst:pl:nom:m1	pospolita	
 elearzy	elear	subst:pl:voc:m1	pospolita	
+e-learningach	e-learning	subst:pl:loc:m3	pospolita	
+e-learningami	e-learning	subst:pl:inst:m3	pospolita	
+e-learning	e-learning	subst:sg:acc:m3	pospolita	
+e-learning	e-learning	subst:sg:nom:m3	pospolita	
+e-learningi	e-learning	subst:pl:acc:m3	pospolita	
+e-learningi	e-learning	subst:pl:nom:m3	pospolita	
+e-learningi	e-learning	subst:pl:voc:m3	pospolita	
+e-learningiem	e-learning	subst:sg:inst:m3	pospolita	
+e-learningom	e-learning	subst:pl:dat:m3	pospolita	
+e-learningowi	e-learning	subst:sg:dat:m3	pospolita	
+e-learningów	e-learning	subst:pl:gen:m3	pospolita	
+e-learningu	e-learning	subst:sg:gen:m3	pospolita	
+e-learningu	e-learning	subst:sg:loc:m3	pospolita	
+e-learningu	e-learning	subst:sg:voc:m3	pospolita	
+e-learningowa	e-learningowy	adj:sg:nom.voc:f:pos		
+e-learningową	e-learningowy	adj:sg:acc:f:pos		
+e-learningową	e-learningowy	adj:sg:inst:f:pos		
+e-learningowe	e-learningowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+e-learningowe	e-learningowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+e-learningowe	e-learningowy	adj:sg:acc:n1.n2:pos		
+e-learningowe	e-learningowy	adj:sg:nom.voc:n1.n2:pos		
+e-learningowego	e-learningowy	adj:sg:acc:m1.m2:pos		
+e-learningowego	e-learningowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+e-learningowej	e-learningowy	adj:sg:dat:f:pos		
+e-learningowej	e-learningowy	adj:sg:gen:f:pos		
+e-learningowej	e-learningowy	adj:sg:loc:f:pos		
+e-learningowemu	e-learningowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+e-learningowi	e-learningowy	adj:pl:nom.voc:m1.p1:pos		
+e-learningowo	e-learningowy	adja		
+e-learningowych	e-learningowy	adj:pl:acc:m1.p1:pos		
+e-learningowych	e-learningowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+e-learningowych	e-learningowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+e-learningowy	e-learningowy	adj:sg:acc:m3:pos		
+e-learningowy	e-learningowy	adj:sg:nom.voc:m1.m2.m3:pos		
+e-learningowym	e-learningowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+e-learningowym	e-learningowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+e-learningowym	e-learningowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+e-learningowymi	e-learningowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 eleacie	eleata	subst:sg:dat:m1	pospolita	
 eleacie	eleata	subst:sg:loc:m1	pospolita	
 eleaci	eleata	subst:pl:nom:m1	pospolita	
@@ -18763,6 +18945,22 @@ elektrochemicznym	elektrochemiczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 elektrochemicznym	elektrochemiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 elektrochemicznym	elektrochemiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 elektrochemicznymi	elektrochemiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+elektrochemicy	elektrochemik	subst:pl:nom:m1	pospolita	
+elektrochemicy	elektrochemik	subst:pl:voc:m1	pospolita	
+elektrochemikach	elektrochemik	subst:pl:loc:m1	pospolita	
+elektrochemika	elektrochemik	subst:sg:acc:m1	pospolita	
+elektrochemika	elektrochemik	subst:sg:gen:m1	pospolita	
+elektrochemikami	elektrochemik	subst:pl:inst:m1	pospolita	
+elektrochemik	elektrochemik	subst:sg:nom:m1	pospolita	
+elektrochemiki	elektrochemik	depr:pl:nom:m2	pospolita	
+elektrochemiki	elektrochemik	depr:pl:voc:m2	pospolita	
+elektrochemikiem	elektrochemik	subst:sg:inst:m1	pospolita	
+elektrochemikom	elektrochemik	subst:pl:dat:m1	pospolita	
+elektrochemikowi	elektrochemik	subst:sg:dat:m1	pospolita	
+elektrochemików	elektrochemik	subst:pl:acc:m1	pospolita	
+elektrochemików	elektrochemik	subst:pl:gen:m1	pospolita	
+elektrochemiku	elektrochemik	subst:sg:loc:m1	pospolita	
+elektrochemiku	elektrochemik	subst:sg:voc:m1	pospolita	
 elektrochirurgiach	elektrochirurgia	subst:pl:loc:f	pospolita	
 elektrochirurgia	elektrochirurgia	subst:sg:nom:f	pospolita	
 elektrochirurgiami	elektrochirurgia	subst:pl:inst:f	pospolita	
@@ -19547,6 +19745,22 @@ elektroindukcji	elektroindukcja	subst:sg:loc:f	pospolita
 elektroindukcjo	elektroindukcja	subst:sg:voc:f	pospolita	
 elektroindukcjom	elektroindukcja	subst:pl:dat:f	pospolita	
 elektroindukcyj	elektroindukcja	subst:pl:gen:f	pospolita	arch.|char.
+elektroinstalatorach	elektroinstalator	subst:pl:loc:m1	pospolita	
+elektroinstalatora	elektroinstalator	subst:sg:acc:m1	pospolita	
+elektroinstalatora	elektroinstalator	subst:sg:gen:m1	pospolita	
+elektroinstalatorami	elektroinstalator	subst:pl:inst:m1	pospolita	
+elektroinstalator	elektroinstalator	subst:sg:nom:m1	pospolita	
+elektroinstalatorem	elektroinstalator	subst:sg:inst:m1	pospolita	
+elektroinstalatorom	elektroinstalator	subst:pl:dat:m1	pospolita	
+elektroinstalatorowi	elektroinstalator	subst:sg:dat:m1	pospolita	
+elektroinstalatorów	elektroinstalator	subst:pl:acc:m1	pospolita	
+elektroinstalatorów	elektroinstalator	subst:pl:gen:m1	pospolita	
+elektroinstalatory	elektroinstalator	depr:pl:nom:m2	pospolita	
+elektroinstalatory	elektroinstalator	depr:pl:voc:m2	pospolita	
+elektroinstalatorze	elektroinstalator	subst:sg:loc:m1	pospolita	
+elektroinstalatorze	elektroinstalator	subst:sg:voc:m1	pospolita	
+elektroinstalatorzy	elektroinstalator	subst:pl:nom:m1	pospolita	
+elektroinstalatorzy	elektroinstalator	subst:pl:voc:m1	pospolita	
 elektroiskrowościach	elektroiskrowość	subst:pl:loc:f		
 elektroiskrowościami	elektroiskrowość	subst:pl:inst:f		
 elektroiskrowością	elektroiskrowość	subst:sg:inst:f		
@@ -20373,6 +20587,45 @@ elektrometalurgii	elektrometalurgia	subst:sg:loc:f	pospolita
 elektrometalurgij	elektrometalurgia	subst:pl:gen:f	pospolita	arch.|char.
 elektrometalurgio	elektrometalurgia	subst:sg:voc:f	pospolita	
 elektrometalurgiom	elektrometalurgia	subst:pl:dat:f	pospolita	
+elektrometalurgicznie	elektrometalurgicznie	adv:pos		
+elektrometalurgicznościach	elektrometalurgiczność	subst:pl:loc:f		
+elektrometalurgicznościami	elektrometalurgiczność	subst:pl:inst:f		
+elektrometalurgicznością	elektrometalurgiczność	subst:sg:inst:f		
+elektrometalurgiczności	elektrometalurgiczność	subst:pl:acc:f		
+elektrometalurgiczności	elektrometalurgiczność	subst:pl:gen:f		
+elektrometalurgiczności	elektrometalurgiczność	subst:pl:nom:f		
+elektrometalurgiczności	elektrometalurgiczność	subst:pl:voc:f		
+elektrometalurgiczności	elektrometalurgiczność	subst:sg:dat:f		
+elektrometalurgiczności	elektrometalurgiczność	subst:sg:gen:f		
+elektrometalurgiczności	elektrometalurgiczność	subst:sg:loc:f		
+elektrometalurgiczności	elektrometalurgiczność	subst:sg:voc:f		
+elektrometalurgicznościom	elektrometalurgiczność	subst:pl:dat:f		
+elektrometalurgiczność	elektrometalurgiczność	subst:sg:acc:f		
+elektrometalurgiczność	elektrometalurgiczność	subst:sg:nom:f		
+elektrometalurgiczna	elektrometalurgiczny	adj:sg:nom.voc:f:pos		
+elektrometalurgiczną	elektrometalurgiczny	adj:sg:acc:f:pos		
+elektrometalurgiczną	elektrometalurgiczny	adj:sg:inst:f:pos		
+elektrometalurgiczne	elektrometalurgiczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+elektrometalurgiczne	elektrometalurgiczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+elektrometalurgiczne	elektrometalurgiczny	adj:sg:acc:n1.n2:pos		
+elektrometalurgiczne	elektrometalurgiczny	adj:sg:nom.voc:n1.n2:pos		
+elektrometalurgicznego	elektrometalurgiczny	adj:sg:acc:m1.m2:pos		
+elektrometalurgicznego	elektrometalurgiczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+elektrometalurgicznej	elektrometalurgiczny	adj:sg:dat:f:pos		
+elektrometalurgicznej	elektrometalurgiczny	adj:sg:gen:f:pos		
+elektrometalurgicznej	elektrometalurgiczny	adj:sg:loc:f:pos		
+elektrometalurgicznemu	elektrometalurgiczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+elektrometalurgiczni	elektrometalurgiczny	adj:pl:nom.voc:m1.p1:pos		
+elektrometalurgiczno	elektrometalurgiczny	adja		
+elektrometalurgicznych	elektrometalurgiczny	adj:pl:acc:m1.p1:pos		
+elektrometalurgicznych	elektrometalurgiczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+elektrometalurgicznych	elektrometalurgiczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+elektrometalurgiczny	elektrometalurgiczny	adj:sg:acc:m3:pos		
+elektrometalurgiczny	elektrometalurgiczny	adj:sg:nom.voc:m1.m2.m3:pos		
+elektrometalurgicznym	elektrometalurgiczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+elektrometalurgicznym	elektrometalurgiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+elektrometalurgicznym	elektrometalurgiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+elektrometalurgicznymi	elektrometalurgiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 elektrometeorach	elektrometeor	subst:pl:loc:m3	pospolita	
 elektrometeorami	elektrometeor	subst:pl:inst:m3	pospolita	
 elektrometeor	elektrometeor	subst:sg:acc:m3	pospolita	
@@ -21239,6 +21492,20 @@ elektrostymulacji	elektrostymulacja	subst:sg:loc:f	pospolita
 elektrostymulacjo	elektrostymulacja	subst:sg:voc:f	pospolita	
 elektrostymulacjom	elektrostymulacja	subst:pl:dat:f	pospolita	
 elektrostymulacyj	elektrostymulacja	subst:pl:gen:f	pospolita	arch.|char.
+elektrostymulatorach	elektrostymulator	subst:pl:loc:m3	pospolita	
+elektrostymulatora	elektrostymulator	subst:sg:gen:m3	pospolita	
+elektrostymulatorami	elektrostymulator	subst:pl:inst:m3	pospolita	
+elektrostymulator	elektrostymulator	subst:sg:acc:m3	pospolita	
+elektrostymulator	elektrostymulator	subst:sg:nom:m3	pospolita	
+elektrostymulatorem	elektrostymulator	subst:sg:inst:m3	pospolita	
+elektrostymulatorom	elektrostymulator	subst:pl:dat:m3	pospolita	
+elektrostymulatorowi	elektrostymulator	subst:sg:dat:m3	pospolita	
+elektrostymulatorów	elektrostymulator	subst:pl:gen:m3	pospolita	
+elektrostymulatory	elektrostymulator	subst:pl:acc:m3	pospolita	
+elektrostymulatory	elektrostymulator	subst:pl:nom:m3	pospolita	
+elektrostymulatory	elektrostymulator	subst:pl:voc:m3	pospolita	
+elektrostymulatorze	elektrostymulator	subst:sg:loc:m3	pospolita	
+elektrostymulatorze	elektrostymulator	subst:sg:voc:m3	pospolita	
 elektrotaksjach	elektrotaksja	subst:pl:loc:f	pospolita	
 elektrotaksja	elektrotaksja	subst:sg:nom:f	pospolita	
 elektrotaksjami	elektrotaksja	subst:pl:inst:f	pospolita	
@@ -23357,6 +23624,21 @@ elitarystycznym	elitarystyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 elitarystycznym	elitarystyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 elitarystycznym	elitarystyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 elitarystycznymi	elitarystyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+elitaryzacjach	elitaryzacja	subst:pl:loc:f	pospolita	
+elitaryzacja	elitaryzacja	subst:sg:nom:f	pospolita	
+elitaryzacjami	elitaryzacja	subst:pl:inst:f	pospolita	
+elitaryzacją	elitaryzacja	subst:sg:inst:f	pospolita	
+elitaryzacje	elitaryzacja	subst:pl:acc:f	pospolita	
+elitaryzacje	elitaryzacja	subst:pl:nom:f	pospolita	
+elitaryzacje	elitaryzacja	subst:pl:voc:f	pospolita	
+elitaryzację	elitaryzacja	subst:sg:acc:f	pospolita	
+elitaryzacji	elitaryzacja	subst:pl:gen:f	pospolita	hom.
+elitaryzacji	elitaryzacja	subst:sg:dat:f	pospolita	
+elitaryzacji	elitaryzacja	subst:sg:gen:f	pospolita	
+elitaryzacji	elitaryzacja	subst:sg:loc:f	pospolita	
+elitaryzacjo	elitaryzacja	subst:sg:voc:f	pospolita	
+elitaryzacjom	elitaryzacja	subst:pl:dat:f	pospolita	
+elitaryzacyj	elitaryzacja	subst:pl:gen:f	pospolita	arch.|char.
 elitaryzmach	elitaryzm	subst:pl:loc:m3	pospolita	
 elitaryzmami	elitaryzm	subst:pl:inst:m3	pospolita	
 elitaryzm	elitaryzm	subst:sg:acc:m3	pospolita	
@@ -23440,6 +23722,20 @@ elizji	elizja	subst:sg:loc:f	pospolita
 elizjo	elizja	subst:sg:voc:f	pospolita	
 elizjom	elizja	subst:pl:dat:f	pospolita	
 elizyj	elizja	subst:pl:gen:f	pospolita	arch.|char.
+elce	elka	subst:sg:dat:f	pospolita	pot.
+elce	elka	subst:sg:loc:f	pospolita	pot.
+elek	elka	subst:pl:gen:f	pospolita	pot.
+elkach	elka	subst:pl:loc:f	pospolita	pot.
+elka	elka	subst:sg:nom:f	pospolita	pot.
+elkami	elka	subst:pl:inst:f	pospolita	pot.
+elką	elka	subst:sg:inst:f	pospolita	pot.
+elkę	elka	subst:sg:acc:f	pospolita	pot.
+elki	elka	subst:pl:acc:f	pospolita	pot.
+elki	elka	subst:pl:nom:f	pospolita	pot.
+elki	elka	subst:pl:voc:f	pospolita	pot.
+elki	elka	subst:sg:gen:f	pospolita	pot.
+elko	elka	subst:sg:voc:f	pospolita	pot.
+elkom	elka	subst:pl:dat:f	pospolita	pot.
 elkach	elki	subst:pl:loc:p3	pospolita	
 elkami	elki	subst:pl:inst:p3	pospolita	
 elki	elki	subst:pl:acc:p3	pospolita	
@@ -26386,6 +26682,20 @@ emitery	emiter	subst:pl:nom:m3	pospolita
 emitery	emiter	subst:pl:voc:m3	pospolita	
 emiterze	emiter	subst:sg:loc:m3	pospolita	
 emiterze	emiter	subst:sg:voc:m3	pospolita	
+emitorach	emitor	subst:pl:loc:m3	pospolita	
+emitora	emitor	subst:sg:gen:m3	pospolita	
+emitorami	emitor	subst:pl:inst:m3	pospolita	
+emitorem	emitor	subst:sg:inst:m3	pospolita	
+emitor	emitor	subst:sg:acc:m3	pospolita	
+emitor	emitor	subst:sg:nom:m3	pospolita	
+emitorom	emitor	subst:pl:dat:m3	pospolita	
+emitorowi	emitor	subst:sg:dat:m3	pospolita	
+emitorów	emitor	subst:pl:gen:m3	pospolita	
+emitory	emitor	subst:pl:acc:m3	pospolita	
+emitory	emitor	subst:pl:nom:m3	pospolita	
+emitory	emitor	subst:pl:voc:m3	pospolita	
+emitorze	emitor	subst:sg:loc:m3	pospolita	
+emitorze	emitor	subst:sg:voc:m3	pospolita	
 emitować	emitować	inf:imperf.perf		
 emitowaliby	emitować	cond:pl:m1.p1:ter:imperf.perf		
 emitowalibyście	emitować	cond:pl:m1.p1:sec:imperf.perf		
@@ -26488,6 +26798,43 @@ emitronu	emitron	subst:sg:gen:m3	pospolita
 emitrony	emitron	subst:pl:acc:m3	pospolita	
 emitrony	emitron	subst:pl:nom:m3	pospolita	
 emitrony	emitron	subst:pl:voc:m3	pospolita	
+emce	emka	subst:sg:dat:f	pospolita	pot.
+emce	emka	subst:sg:loc:f	pospolita	pot.
+emek	emka	subst:pl:gen:f	pospolita	pot.
+emkach	emka	subst:pl:loc:f	pospolita	pot.
+emka	emka	subst:sg:nom:f	pospolita	pot.
+emkami	emka	subst:pl:inst:f	pospolita	pot.
+emką	emka	subst:sg:inst:f	pospolita	pot.
+emkę	emka	subst:sg:acc:f	pospolita	pot.
+emki	emka	subst:pl:acc:f	pospolita	pot.
+emki	emka	subst:pl:nom:f	pospolita	pot.
+emki	emka	subst:pl:voc:f	pospolita	pot.
+emki	emka	subst:sg:gen:f	pospolita	pot.
+emko	emka	subst:sg:voc:f	pospolita	pot.
+emkom	emka	subst:pl:dat:f	pospolita	pot.
+emo	emo:a	adj:pl:acc:m1.p1:pos		środ.
+emo	emo:a	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		środ.
+emo	emo:a	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		środ.
+emo	emo:a	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		środ.
+emo	emo:a	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		środ.
+emo	emo:a	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		środ.
+emo	emo:a	adj:pl:nom.voc:m1.p1:pos		środ.
+emo	emo:a	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		środ.
+emo	emo:a	adj:sg:acc:f:pos		środ.
+emo	emo:a	adj:sg:acc:m1.m2:pos		środ.
+emo	emo:a	adj:sg:acc:m3:pos		środ.
+emo	emo:a	adj:sg:acc:n1.n2:pos		środ.
+emo	emo:a	adj:sg:dat:f:pos		środ.
+emo	emo:a	adj:sg:dat:m1.m2.m3.n1.n2:pos		środ.
+emo	emo:a	adj:sg:gen:f:pos		środ.
+emo	emo:a	adj:sg:gen:m1.m2.m3.n1.n2:pos		środ.
+emo	emo:a	adj:sg:inst:f:pos		środ.
+emo	emo:a	adj:sg:inst:m1.m2.m3.n1.n2:pos		środ.
+emo	emo:a	adj:sg:loc:f:pos		środ.
+emo	emo:a	adj:sg:loc:m1.m2.m3.n1.n2:pos		środ.
+emo	emo:a	adj:sg:nom.voc:f:pos		środ.
+emo	emo:a	adj:sg:nom.voc:m1.m2.m3:pos		środ.
+emo	emo:a	adj:sg:nom.voc:n1.n2:pos		środ.
 emocjach	emocja	subst:pl:loc:f	pospolita	
 emocja	emocja	subst:sg:nom:f	pospolita	
 emocjami	emocja	subst:pl:inst:f	pospolita	
@@ -26557,6 +26904,21 @@ emocjonalistycznym	emocjonalistyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 emocjonalistycznym	emocjonalistyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 emocjonalistycznym	emocjonalistyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 emocjonalistycznymi	emocjonalistyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+emocjonalizacjach	emocjonalizacja	subst:pl:loc:f	pospolita	
+emocjonalizacja	emocjonalizacja	subst:sg:nom:f	pospolita	
+emocjonalizacjami	emocjonalizacja	subst:pl:inst:f	pospolita	
+emocjonalizacją	emocjonalizacja	subst:sg:inst:f	pospolita	
+emocjonalizacje	emocjonalizacja	subst:pl:acc:f	pospolita	
+emocjonalizacje	emocjonalizacja	subst:pl:nom:f	pospolita	
+emocjonalizacje	emocjonalizacja	subst:pl:voc:f	pospolita	
+emocjonalizację	emocjonalizacja	subst:sg:acc:f	pospolita	
+emocjonalizacji	emocjonalizacja	subst:pl:gen:f	pospolita	hom.
+emocjonalizacji	emocjonalizacja	subst:sg:dat:f	pospolita	
+emocjonalizacji	emocjonalizacja	subst:sg:gen:f	pospolita	
+emocjonalizacji	emocjonalizacja	subst:sg:loc:f	pospolita	
+emocjonalizacjo	emocjonalizacja	subst:sg:voc:f	pospolita	
+emocjonalizacjom	emocjonalizacja	subst:pl:dat:f	pospolita	
+emocjonalizacyj	emocjonalizacja	subst:pl:gen:f	pospolita	arch.|char.
 emocjonalizmach	emocjonalizm	subst:pl:loc:m3	pospolita	
 emocjonalizmami	emocjonalizm	subst:pl:inst:m3	pospolita	
 emocjonalizmem	emocjonalizm	subst:sg:inst:m3	pospolita	
@@ -26775,6 +27137,20 @@ emocyjnym	emocyjny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 emocyjnym	emocyjny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 emocyjnym	emocyjny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 emocyjnymi	emocyjny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+emoliencie	emolient	subst:sg:loc:m3	pospolita	
+emoliencie	emolient	subst:sg:voc:m3	pospolita	
+emolientach	emolient	subst:pl:loc:m3	pospolita	
+emolientami	emolient	subst:pl:inst:m3	pospolita	
+emolientem	emolient	subst:sg:inst:m3	pospolita	
+emolient	emolient	subst:sg:acc:m3	pospolita	
+emolient	emolient	subst:sg:nom:m3	pospolita	
+emolientom	emolient	subst:pl:dat:m3	pospolita	
+emolientowi	emolient	subst:sg:dat:m3	pospolita	
+emolientów	emolient	subst:pl:gen:m3	pospolita	
+emolientu	emolient	subst:sg:gen:m3	pospolita	
+emolienty	emolient	subst:pl:acc:m3	pospolita	
+emolienty	emolient	subst:pl:nom:m3	pospolita	
+emolienty	emolient	subst:pl:voc:m3	pospolita	
 emorejscy	emorejski	adj:pl:nom.voc:m1.p1:pos		
 emorejska	emorejski	adj:sg:nom.voc:f:pos		
 emorejską	emorejski	adj:sg:acc:f:pos		
@@ -26815,6 +27191,20 @@ emorejskości	emorejskość	subst:sg:voc:f
 emorejskościom	emorejskość	subst:pl:dat:f		
 emorejskość	emorejskość	subst:sg:acc:f		
 emorejskość	emorejskość	subst:sg:nom:f		
+emo	emo:s	subst:pl:acc:n2	pospolita	środ.
+emo	emo:s	subst:pl:dat:n2	pospolita	środ.
+emo	emo:s	subst:pl:gen:n2	pospolita	środ.
+emo	emo:s	subst:pl:inst:n2	pospolita	środ.
+emo	emo:s	subst:pl:loc:n2	pospolita	środ.
+emo	emo:s	subst:pl:nom:n2	pospolita	środ.
+emo	emo:s	subst:pl:voc:n2	pospolita	środ.
+emo	emo:s	subst:sg:acc:n2	pospolita	środ.
+emo	emo:s	subst:sg:dat:n2	pospolita	środ.
+emo	emo:s	subst:sg:gen:n2	pospolita	środ.
+emo	emo:s	subst:sg:inst:n2	pospolita	środ.
+emo	emo:s	subst:sg:loc:n2	pospolita	środ.
+emo	emo:s	subst:sg:nom:n2	pospolita	środ.
+emo	emo:s	subst:sg:voc:n2	pospolita	środ.
 emotikonach	emotikon	subst:pl:loc:m3	pospolita	
 emotikonami	emotikon	subst:pl:inst:m3	pospolita	
 emotikonem	emotikon	subst:sg:inst:m3	pospolita	
@@ -26936,6 +27326,20 @@ empatycznym	empatyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 empatycznym	empatyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 empatycznym	empatyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 empatycznymi	empatyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+empetrójce	empetrójka	subst:sg:dat:f	pospolita	
+empetrójce	empetrójka	subst:sg:loc:f	pospolita	
+empetrójek	empetrójka	subst:pl:gen:f	pospolita	
+empetrójkach	empetrójka	subst:pl:loc:f	pospolita	
+empetrójka	empetrójka	subst:sg:nom:f	pospolita	
+empetrójkami	empetrójka	subst:pl:inst:f	pospolita	
+empetrójką	empetrójka	subst:sg:inst:f	pospolita	
+empetrójkę	empetrójka	subst:sg:acc:f	pospolita	
+empetrójki	empetrójka	subst:pl:acc:f	pospolita	
+empetrójki	empetrójka	subst:pl:nom:f	pospolita	
+empetrójki	empetrójka	subst:pl:voc:f	pospolita	
+empetrójki	empetrójka	subst:sg:gen:f	pospolita	
+empetrójko	empetrójka	subst:sg:voc:f	pospolita	
+empetrójkom	empetrójka	subst:pl:dat:f	pospolita	
 empi	empi	subst:pl:acc:n2	pospolita	przest.|wojsk.
 empi	empi	subst:pl:dat:n2	pospolita	przest.|wojsk.
 empi	empi	subst:pl:gen:n2	pospolita	przest.|wojsk.
@@ -29704,6 +30108,45 @@ energotwórczym	energotwórczy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 energotwórczym	energotwórczy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 energotwórczym	energotwórczy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 energotwórczymi	energotwórczy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+energożernie	energożernie	adv:pos		
+energożernościach	energożerność	subst:pl:loc:f		
+energożernościami	energożerność	subst:pl:inst:f		
+energożernością	energożerność	subst:sg:inst:f		
+energożerności	energożerność	subst:pl:acc:f		
+energożerności	energożerność	subst:pl:gen:f		
+energożerności	energożerność	subst:pl:nom:f		
+energożerności	energożerność	subst:pl:voc:f		
+energożerności	energożerność	subst:sg:dat:f		
+energożerności	energożerność	subst:sg:gen:f		
+energożerności	energożerność	subst:sg:loc:f		
+energożerności	energożerność	subst:sg:voc:f		
+energożernościom	energożerność	subst:pl:dat:f		
+energożerność	energożerność	subst:sg:acc:f		
+energożerność	energożerność	subst:sg:nom:f		
+energożerna	energożerny	adj:sg:nom.voc:f:pos		
+energożerną	energożerny	adj:sg:acc:f:pos		
+energożerną	energożerny	adj:sg:inst:f:pos		
+energożerne	energożerny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+energożerne	energożerny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+energożerne	energożerny	adj:sg:acc:n1.n2:pos		
+energożerne	energożerny	adj:sg:nom.voc:n1.n2:pos		
+energożernego	energożerny	adj:sg:acc:m1.m2:pos		
+energożernego	energożerny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+energożernej	energożerny	adj:sg:dat:f:pos		
+energożernej	energożerny	adj:sg:gen:f:pos		
+energożernej	energożerny	adj:sg:loc:f:pos		
+energożernemu	energożerny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+energożerni	energożerny	adj:pl:nom.voc:m1.p1:pos		
+energożerno	energożerny	adja		
+energożernych	energożerny	adj:pl:acc:m1.p1:pos		
+energożernych	energożerny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+energożernych	energożerny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+energożerny	energożerny	adj:sg:acc:m3:pos		
+energożerny	energożerny	adj:sg:nom.voc:m1.m2.m3:pos		
+energożernym	energożerny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+energożernym	energożerny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+energożernym	energożerny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+energożernymi	energożerny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 enerwować	enerwować	inf:imperf		daw.
 enerwowaliby	enerwować	cond:pl:m1.p1:ter:imperf		daw.
 enerwowalibyście	enerwować	cond:pl:m1.p1:sec:imperf		daw.
@@ -30200,6 +30643,24 @@ enolowi	enol	subst:sg:dat:m3	pospolita
 enolu	enol	subst:sg:gen:m3	pospolita	
 enolu	enol	subst:sg:loc:m3	pospolita	
 enolu	enol	subst:sg:voc:m3	pospolita	
+enolodzy	enolog	subst:pl:nom:m1	pospolita	
+enolodzy	enolog	subst:pl:voc:m1	pospolita	
+enologach	enolog	subst:pl:loc:m1	pospolita	
+enologa	enolog	subst:sg:acc:m1	pospolita	
+enologa	enolog	subst:sg:gen:m1	pospolita	
+enologami	enolog	subst:pl:inst:m1	pospolita	
+enolog	enolog	subst:sg:nom:m1	pospolita	
+enologiem	enolog	subst:sg:inst:m1	pospolita	
+enologi	enolog	depr:pl:nom:m2	pospolita	
+enologi	enolog	depr:pl:voc:m2	pospolita	
+enologom	enolog	subst:pl:dat:m1	pospolita	
+enologowie	enolog	subst:pl:nom:m1	pospolita	
+enologowie	enolog	subst:pl:voc:m1	pospolita	
+enologowi	enolog	subst:sg:dat:m1	pospolita	
+enologów	enolog	subst:pl:acc:m1	pospolita	
+enologów	enolog	subst:pl:gen:m1	pospolita	
+enologu	enolog	subst:sg:loc:m1	pospolita	
+enologu	enolog	subst:sg:voc:m1	pospolita	
 enologiach	enologia	subst:pl:loc:f	pospolita	
 enologia	enologia	subst:sg:nom:f	pospolita	
 enologiami	enologia	subst:pl:inst:f	pospolita	
@@ -30215,6 +30676,45 @@ enologii	enologia	subst:sg:loc:f	pospolita
 enologij	enologia	subst:pl:gen:f	pospolita	arch.|char.
 enologio	enologia	subst:sg:voc:f	pospolita	
 enologiom	enologia	subst:pl:dat:f	pospolita	
+enologicznie	enologicznie	adv:pos		
+enologicznościach	enologiczność	subst:pl:loc:f		
+enologicznościami	enologiczność	subst:pl:inst:f		
+enologicznością	enologiczność	subst:sg:inst:f		
+enologiczności	enologiczność	subst:pl:acc:f		
+enologiczności	enologiczność	subst:pl:gen:f		
+enologiczności	enologiczność	subst:pl:nom:f		
+enologiczności	enologiczność	subst:pl:voc:f		
+enologiczności	enologiczność	subst:sg:dat:f		
+enologiczności	enologiczność	subst:sg:gen:f		
+enologiczności	enologiczność	subst:sg:loc:f		
+enologiczności	enologiczność	subst:sg:voc:f		
+enologicznościom	enologiczność	subst:pl:dat:f		
+enologiczność	enologiczność	subst:sg:acc:f		
+enologiczność	enologiczność	subst:sg:nom:f		
+enologiczna	enologiczny	adj:sg:nom.voc:f:pos		
+enologiczną	enologiczny	adj:sg:acc:f:pos		
+enologiczną	enologiczny	adj:sg:inst:f:pos		
+enologiczne	enologiczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+enologiczne	enologiczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+enologiczne	enologiczny	adj:sg:acc:n1.n2:pos		
+enologiczne	enologiczny	adj:sg:nom.voc:n1.n2:pos		
+enologicznego	enologiczny	adj:sg:acc:m1.m2:pos		
+enologicznego	enologiczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+enologicznej	enologiczny	adj:sg:dat:f:pos		
+enologicznej	enologiczny	adj:sg:gen:f:pos		
+enologicznej	enologiczny	adj:sg:loc:f:pos		
+enologicznemu	enologiczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+enologiczni	enologiczny	adj:pl:nom.voc:m1.p1:pos		
+enologiczno	enologiczny	adja		
+enologicznych	enologiczny	adj:pl:acc:m1.p1:pos		
+enologicznych	enologiczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+enologicznych	enologiczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+enologiczny	enologiczny	adj:sg:acc:m3:pos		
+enologiczny	enologiczny	adj:sg:nom.voc:m1.m2.m3:pos		
+enologicznym	enologiczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+enologicznym	enologiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+enologicznym	enologiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+enologicznymi	enologiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 enometrach	enometr	subst:pl:loc:m3	pospolita	
 enometrami	enometr	subst:pl:inst:m3	pospolita	
 enometrem	enometr	subst:sg:inst:m3	pospolita	
@@ -34970,6 +35470,24 @@ epizootii	epizootia	subst:sg:loc:f	pospolita
 epizootio	epizootia	subst:sg:voc:f	pospolita	
 epizootiom	epizootia	subst:pl:dat:f	pospolita	
 epizootyj	epizootia	subst:pl:gen:f	pospolita	arch.|char.
+epizootiolodzy	epizootiolog	subst:pl:nom:m1	pospolita	
+epizootiolodzy	epizootiolog	subst:pl:voc:m1	pospolita	
+epizootiologach	epizootiolog	subst:pl:loc:m1	pospolita	
+epizootiologa	epizootiolog	subst:sg:acc:m1	pospolita	
+epizootiologa	epizootiolog	subst:sg:gen:m1	pospolita	
+epizootiologami	epizootiolog	subst:pl:inst:m1	pospolita	
+epizootiolog	epizootiolog	subst:sg:nom:m1	pospolita	
+epizootiologiem	epizootiolog	subst:sg:inst:m1	pospolita	
+epizootiologi	epizootiolog	depr:pl:nom:m2	pospolita	
+epizootiologi	epizootiolog	depr:pl:voc:m2	pospolita	
+epizootiologom	epizootiolog	subst:pl:dat:m1	pospolita	
+epizootiologowie	epizootiolog	subst:pl:nom:m1	pospolita	
+epizootiologowie	epizootiolog	subst:pl:voc:m1	pospolita	
+epizootiologowi	epizootiolog	subst:sg:dat:m1	pospolita	
+epizootiologów	epizootiolog	subst:pl:acc:m1	pospolita	
+epizootiologów	epizootiolog	subst:pl:gen:m1	pospolita	
+epizootiologu	epizootiolog	subst:sg:loc:m1	pospolita	
+epizootiologu	epizootiolog	subst:sg:voc:m1	pospolita	
 epizootiologiach	epizootiologia	subst:pl:loc:f	pospolita	
 epizootiologia	epizootiologia	subst:sg:nom:f	pospolita	
 epizootiologiami	epizootiologia	subst:pl:inst:f	pospolita	
@@ -35110,6 +35628,20 @@ epizuj	epizować	impt:sg:sec:imperf
 epizujesz	epizować	fin:sg:sec:imperf		
 epizuję	epizować	fin:sg:pri:imperf		
 epizujmy	epizować	impt:pl:pri:imperf		
+epce	epka	subst:sg:dat:f	pospolita	
+epce	epka	subst:sg:loc:f	pospolita	
+epek	epka	subst:pl:gen:f	pospolita	
+epkach	epka	subst:pl:loc:f	pospolita	
+epka	epka	subst:sg:nom:f	pospolita	
+epkami	epka	subst:pl:inst:f	pospolita	
+epką	epka	subst:sg:inst:f	pospolita	
+epkę	epka	subst:sg:acc:f	pospolita	
+epki	epka	subst:pl:acc:f	pospolita	
+epki	epka	subst:pl:nom:f	pospolita	
+epki	epka	subst:pl:voc:f	pospolita	
+epki	epka	subst:sg:gen:f	pospolita	
+epko	epka	subst:sg:voc:f	pospolita	
+epkom	epka	subst:pl:dat:f	pospolita	
 epochach	epocha	subst:pl:loc:f	pospolita	daw.
 epocha	epocha	subst:sg:nom:f	pospolita	daw.
 epochami	epocha	subst:pl:inst:f	pospolita	daw.
@@ -37895,6 +38427,24 @@ esbeków	esbek	subst:pl:acc:m1	pospolita	pot.
 esbeków	esbek	subst:pl:gen:m1	pospolita	pot.
 esbeku	esbek	subst:sg:loc:m1	pospolita	pot.
 esbeku	esbek	subst:sg:voc:m1	pospolita	pot.
+eschatolodzy	eschatolog	subst:pl:nom:m1	pospolita	
+eschatolodzy	eschatolog	subst:pl:voc:m1	pospolita	
+eschatologach	eschatolog	subst:pl:loc:m1	pospolita	
+eschatologa	eschatolog	subst:sg:acc:m1	pospolita	
+eschatologa	eschatolog	subst:sg:gen:m1	pospolita	
+eschatologami	eschatolog	subst:pl:inst:m1	pospolita	
+eschatolog	eschatolog	subst:sg:nom:m1	pospolita	
+eschatologiem	eschatolog	subst:sg:inst:m1	pospolita	
+eschatologi	eschatolog	depr:pl:nom:m2	pospolita	
+eschatologi	eschatolog	depr:pl:voc:m2	pospolita	
+eschatologom	eschatolog	subst:pl:dat:m1	pospolita	
+eschatologowie	eschatolog	subst:pl:nom:m1	pospolita	
+eschatologowie	eschatolog	subst:pl:voc:m1	pospolita	
+eschatologowi	eschatolog	subst:sg:dat:m1	pospolita	
+eschatologów	eschatolog	subst:pl:acc:m1	pospolita	
+eschatologów	eschatolog	subst:pl:gen:m1	pospolita	
+eschatologu	eschatolog	subst:sg:loc:m1	pospolita	
+eschatologu	eschatolog	subst:sg:voc:m1	pospolita	
 eschatologiach	eschatologia	subst:pl:loc:f	pospolita	
 eschatologia	eschatologia	subst:sg:nom:f	pospolita	
 eschatologiami	eschatologia	subst:pl:inst:f	pospolita	
@@ -38144,6 +38694,21 @@ eseistyki	eseistyka	subst:pl:voc:f	pospolita
 eseistyki	eseistyka	subst:sg:gen:f	pospolita	
 eseistyko	eseistyka	subst:sg:voc:f	pospolita	
 eseistykom	eseistyka	subst:pl:dat:f	pospolita	
+eseizacjach	eseizacja	subst:pl:loc:f	pospolita	
+eseizacja	eseizacja	subst:sg:nom:f	pospolita	
+eseizacjami	eseizacja	subst:pl:inst:f	pospolita	
+eseizacją	eseizacja	subst:sg:inst:f	pospolita	
+eseizacje	eseizacja	subst:pl:acc:f	pospolita	
+eseizacje	eseizacja	subst:pl:nom:f	pospolita	
+eseizacje	eseizacja	subst:pl:voc:f	pospolita	
+eseizację	eseizacja	subst:sg:acc:f	pospolita	
+eseizacji	eseizacja	subst:pl:gen:f	pospolita	hom.
+eseizacji	eseizacja	subst:sg:dat:f	pospolita	
+eseizacji	eseizacja	subst:sg:gen:f	pospolita	
+eseizacji	eseizacja	subst:sg:loc:f	pospolita	
+eseizacjo	eseizacja	subst:sg:voc:f	pospolita	
+eseizacjom	eseizacja	subst:pl:dat:f	pospolita	
+eseizacyj	eseizacja	subst:pl:gen:f	pospolita	arch.|char.
 eseizować	eseizować	inf:imperf		rzad.
 eseizowaliby	eseizować	cond:pl:m1.p1:ter:imperf		rzad.
 eseizowalibyście	eseizować	cond:pl:m1.p1:sec:imperf		rzad.
@@ -38476,6 +39041,59 @@ esencji	esencja	subst:sg:loc:f	pospolita
 esencjo	esencja	subst:sg:voc:f	pospolita	
 esencjom	esencja	subst:pl:dat:f	pospolita	
 esencyj	esencja	subst:pl:gen:f	pospolita	arch.|char.
+esencjalizmach	esencjalizm	subst:pl:loc:m3	pospolita	
+esencjalizmami	esencjalizm	subst:pl:inst:m3	pospolita	
+esencjalizmem	esencjalizm	subst:sg:inst:m3	pospolita	
+esencjalizm	esencjalizm	subst:sg:acc:m3	pospolita	
+esencjalizm	esencjalizm	subst:sg:nom:m3	pospolita	
+esencjalizmie	esencjalizm	subst:sg:loc:m3	pospolita	
+esencjalizmie	esencjalizm	subst:sg:voc:m3	pospolita	
+esencjalizmom	esencjalizm	subst:pl:dat:m3	pospolita	
+esencjalizmowi	esencjalizm	subst:sg:dat:m3	pospolita	
+esencjalizmów	esencjalizm	subst:pl:gen:m3	pospolita	
+esencjalizmu	esencjalizm	subst:sg:gen:m3	pospolita	
+esencjalizmy	esencjalizm	subst:pl:acc:m3	pospolita	
+esencjalizmy	esencjalizm	subst:pl:nom:m3	pospolita	
+esencjalizmy	esencjalizm	subst:pl:voc:m3	pospolita	
+esencjalnie	esencjalnie	adv:pos		
+esencjalnościach	esencjalność	subst:pl:loc:f		
+esencjalnościami	esencjalność	subst:pl:inst:f		
+esencjalnością	esencjalność	subst:sg:inst:f		
+esencjalności	esencjalność	subst:pl:acc:f		
+esencjalności	esencjalność	subst:pl:gen:f		
+esencjalności	esencjalność	subst:pl:nom:f		
+esencjalności	esencjalność	subst:pl:voc:f		
+esencjalności	esencjalność	subst:sg:dat:f		
+esencjalności	esencjalność	subst:sg:gen:f		
+esencjalności	esencjalność	subst:sg:loc:f		
+esencjalności	esencjalność	subst:sg:voc:f		
+esencjalnościom	esencjalność	subst:pl:dat:f		
+esencjalność	esencjalność	subst:sg:acc:f		
+esencjalność	esencjalność	subst:sg:nom:f		
+esencjalna	esencjalny	adj:sg:nom.voc:f:pos		
+esencjalną	esencjalny	adj:sg:acc:f:pos		
+esencjalną	esencjalny	adj:sg:inst:f:pos		
+esencjalne	esencjalny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+esencjalne	esencjalny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+esencjalne	esencjalny	adj:sg:acc:n1.n2:pos		
+esencjalne	esencjalny	adj:sg:nom.voc:n1.n2:pos		
+esencjalnego	esencjalny	adj:sg:acc:m1.m2:pos		
+esencjalnego	esencjalny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+esencjalnej	esencjalny	adj:sg:dat:f:pos		
+esencjalnej	esencjalny	adj:sg:gen:f:pos		
+esencjalnej	esencjalny	adj:sg:loc:f:pos		
+esencjalnemu	esencjalny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+esencjalni	esencjalny	adj:pl:nom.voc:m1.p1:pos		
+esencjalno	esencjalny	adja		
+esencjalnych	esencjalny	adj:pl:acc:m1.p1:pos		
+esencjalnych	esencjalny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+esencjalnych	esencjalny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+esencjalny	esencjalny	adj:sg:acc:m3:pos		
+esencjalny	esencjalny	adj:sg:nom.voc:m1.m2.m3:pos		
+esencjalnym	esencjalny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+esencjalnym	esencjalny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+esencjalnym	esencjalny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+esencjalnymi	esencjalny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 esencjonalnie	esencjonalnie	adv:pos		
 esencjonalnościach	esencjonalność	subst:pl:loc:f		
 esencjonalnościami	esencjonalność	subst:pl:inst:f		
@@ -38757,6 +39375,20 @@ esików	esik	subst:pl:gen:m3	pospolita
 esiku	esik	subst:sg:gen:m3	pospolita	
 esiku	esik	subst:sg:loc:m3	pospolita	
 esiku	esik	subst:sg:voc:m3	pospolita	
+esce	eska	subst:sg:dat:f	pospolita	
+esce	eska	subst:sg:loc:f	pospolita	
+esek	eska	subst:pl:gen:f	pospolita	
+eskach	eska	subst:pl:loc:f	pospolita	
+eska	eska	subst:sg:nom:f	pospolita	
+eskami	eska	subst:pl:inst:f	pospolita	
+eską	eska	subst:sg:inst:f	pospolita	
+eskę	eska	subst:sg:acc:f	pospolita	
+eski	eska	subst:pl:acc:f	pospolita	
+eski	eska	subst:pl:nom:f	pospolita	
+eski	eska	subst:pl:voc:f	pospolita	
+eski	eska	subst:sg:gen:f	pospolita	
+esko	eska	subst:sg:voc:f	pospolita	
+eskom	eska	subst:pl:dat:f	pospolita	
 eskadrach	eskadra	subst:pl:loc:f	pospolita	
 eskadra	eskadra	subst:sg:nom:f	pospolita	
 eskadrami	eskadra	subst:pl:inst:f	pospolita	
@@ -38892,6 +39524,20 @@ eskalatory	eskalator	subst:pl:nom:m3	pospolita
 eskalatory	eskalator	subst:pl:voc:m3	pospolita	
 eskalatorze	eskalator	subst:sg:loc:m3	pospolita	
 eskalatorze	eskalator	subst:sg:voc:m3	pospolita	
+eskalopach	eskalop	subst:pl:loc:m3	pospolita	
+eskalopami	eskalop	subst:pl:inst:m3	pospolita	
+eskalopem	eskalop	subst:sg:inst:m3	pospolita	
+eskalop	eskalop	subst:sg:acc:m3	pospolita	
+eskalop	eskalop	subst:sg:nom:m3	pospolita	
+eskalopie	eskalop	subst:sg:loc:m3	pospolita	
+eskalopie	eskalop	subst:sg:voc:m3	pospolita	
+eskalopom	eskalop	subst:pl:dat:m3	pospolita	
+eskalopowi	eskalop	subst:sg:dat:m3	pospolita	
+eskalopów	eskalop	subst:pl:gen:m3	pospolita	
+eskalopu	eskalop	subst:sg:gen:m3	pospolita	
+eskalopy	eskalop	subst:pl:acc:m3	pospolita	
+eskalopy	eskalop	subst:pl:nom:m3	pospolita	
+eskalopy	eskalop	subst:pl:voc:m3	pospolita	
 eskalopek	eskalopek	subst:sg:acc:m3	pospolita	
 eskalopek	eskalopek	subst:sg:nom:m3	pospolita	
 eskalopkach	eskalopek	subst:pl:loc:m3	pospolita	
@@ -41731,6 +42377,20 @@ etapowym	etapowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 etapowym	etapowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 etapowym	etapowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 etapowymi	etapowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+etapówce	etapówka	subst:sg:dat:f	pospolita	
+etapówce	etapówka	subst:sg:loc:f	pospolita	
+etapówek	etapówka	subst:pl:gen:f	pospolita	
+etapówkach	etapówka	subst:pl:loc:f	pospolita	
+etapówka	etapówka	subst:sg:nom:f	pospolita	
+etapówkami	etapówka	subst:pl:inst:f	pospolita	
+etapówką	etapówka	subst:sg:inst:f	pospolita	
+etapówkę	etapówka	subst:sg:acc:f	pospolita	
+etapówki	etapówka	subst:pl:acc:f	pospolita	
+etapówki	etapówka	subst:pl:nom:f	pospolita	
+etapówki	etapówka	subst:pl:voc:f	pospolita	
+etapówki	etapówka	subst:sg:gen:f	pospolita	
+etapówko	etapówka	subst:sg:voc:f	pospolita	
+etapówkom	etapówka	subst:pl:dat:f	pospolita	
 etacie	etat	subst:sg:loc:m3	pospolita	
 etacie	etat	subst:sg:voc:m3	pospolita	
 etatach	etat	subst:pl:loc:m3	pospolita	
@@ -41745,6 +42405,23 @@ etatu	etat	subst:sg:gen:m3	pospolita
 etaty	etat	subst:pl:acc:m3	pospolita	
 etaty	etat	subst:pl:nom:m3	pospolita	
 etaty	etat	subst:pl:voc:m3	pospolita	
+etatowcach	etatowiec	subst:pl:loc:m1	pospolita	pot.
+etatowca	etatowiec	subst:sg:acc:m1	pospolita	pot.
+etatowca	etatowiec	subst:sg:gen:m1	pospolita	pot.
+etatowcami	etatowiec	subst:pl:inst:m1	pospolita	pot.
+etatowce	etatowiec	depr:pl:nom:m2	pospolita	pot.
+etatowce	etatowiec	depr:pl:voc:m2	pospolita	pot.
+etatowcem	etatowiec	subst:sg:inst:m1	pospolita	pot.
+etatowcom	etatowiec	subst:pl:dat:m1	pospolita	pot.
+etatowcowi	etatowiec	subst:sg:dat:m1	pospolita	pot.
+etatowców	etatowiec	subst:pl:acc:m1	pospolita	pot.
+etatowców	etatowiec	subst:pl:gen:m1	pospolita	pot.
+etatowcu	etatowiec	subst:sg:loc:m1	pospolita	pot.
+etatowcu	etatowiec	subst:sg:voc:m1	pospolita	pot.
+etatowcy	etatowiec	subst:pl:nom:m1	pospolita	pot.
+etatowcy	etatowiec	subst:pl:voc:m1	pospolita	pot.
+etatowcze	etatowiec	subst:sg:voc:m1	pospolita	pot.
+etatowiec	etatowiec	subst:sg:nom:m1	pospolita	pot.
 etatowo	etatowo	adv:pos		
 etatowościach	etatowość	subst:pl:loc:f		
 etatowościami	etatowość	subst:pl:inst:f		
@@ -41968,6 +42645,20 @@ etażerki	etażerka	subst:pl:voc:f	pospolita
 etażerki	etażerka	subst:sg:gen:f	pospolita	
 etażerko	etażerka	subst:sg:voc:f	pospolita	
 etażerkom	etażerka	subst:pl:dat:f	pospolita	
+etażowa	etażowa	subst:sg:nom:f	pospolita	
+etażowa	etażowa	subst:sg:voc:f	pospolita	
+etażową	etażowa	subst:sg:acc:f	pospolita	
+etażową	etażowa	subst:sg:inst:f	pospolita	
+etażowe	etażowa	subst:pl:acc:f	pospolita	
+etażowe	etażowa	subst:pl:nom:f	pospolita	
+etażowe	etażowa	subst:pl:voc:f	pospolita	
+etażowej	etażowa	subst:sg:dat:f	pospolita	
+etażowej	etażowa	subst:sg:gen:f	pospolita	
+etażowej	etażowa	subst:sg:loc:f	pospolita	
+etażowych	etażowa	subst:pl:gen:f	pospolita	
+etażowych	etażowa	subst:pl:loc:f	pospolita	
+etażowym	etażowa	subst:pl:dat:f	pospolita	
+etażowymi	etażowa	subst:pl:inst:f	pospolita	
 etażowościach	etażowość	subst:pl:loc:f		
 etażowościami	etażowość	subst:pl:inst:f		
 etażowością	etażowość	subst:sg:inst:f		
@@ -42355,6 +43046,24 @@ etiolizacji	etiolizacja	subst:sg:loc:f	pospolita
 etiolizacjo	etiolizacja	subst:sg:voc:f	pospolita	
 etiolizacjom	etiolizacja	subst:pl:dat:f	pospolita	
 etiolizacyj	etiolizacja	subst:pl:gen:f	pospolita	arch.|char.
+etiolodzy	etiolog	subst:pl:nom:m1	pospolita	
+etiolodzy	etiolog	subst:pl:voc:m1	pospolita	
+etiologach	etiolog	subst:pl:loc:m1	pospolita	
+etiologa	etiolog	subst:sg:acc:m1	pospolita	
+etiologa	etiolog	subst:sg:gen:m1	pospolita	
+etiologami	etiolog	subst:pl:inst:m1	pospolita	
+etiolog	etiolog	subst:sg:nom:m1	pospolita	
+etiologiem	etiolog	subst:sg:inst:m1	pospolita	
+etiologi	etiolog	depr:pl:nom:m2	pospolita	
+etiologi	etiolog	depr:pl:voc:m2	pospolita	
+etiologom	etiolog	subst:pl:dat:m1	pospolita	
+etiologowie	etiolog	subst:pl:nom:m1	pospolita	
+etiologowie	etiolog	subst:pl:voc:m1	pospolita	
+etiologowi	etiolog	subst:sg:dat:m1	pospolita	
+etiologów	etiolog	subst:pl:acc:m1	pospolita	
+etiologów	etiolog	subst:pl:gen:m1	pospolita	
+etiologu	etiolog	subst:sg:loc:m1	pospolita	
+etiologu	etiolog	subst:sg:voc:m1	pospolita	
 etiologiach	etiologia	subst:pl:loc:f	pospolita	
 etiologia	etiologia	subst:sg:nom:f	pospolita	
 etiologiami	etiologia	subst:pl:inst:f	pospolita	
@@ -42615,6 +43324,7 @@ etnicznym	etniczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 etnicznym	etniczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 etnicznym	etniczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 etnicznymi	etniczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+etnocentrycznie	etnocentrycznie	adv:pos		
 etnocentrycznościach	etnocentryczność	subst:pl:loc:f		
 etnocentrycznościami	etnocentryczność	subst:pl:inst:f		
 etnocentrycznością	etnocentryczność	subst:sg:inst:f		
@@ -42880,6 +43590,24 @@ etnometodologii	etnometodologia	subst:sg:loc:f	pospolita
 etnometodologij	etnometodologia	subst:pl:gen:f	pospolita	arch.|char.
 etnometodologio	etnometodologia	subst:sg:voc:f	pospolita	
 etnometodologiom	etnometodologia	subst:pl:dat:f	pospolita	
+etnomuzykolodzy	etnomuzykolog	subst:pl:nom:m1	pospolita	
+etnomuzykolodzy	etnomuzykolog	subst:pl:voc:m1	pospolita	
+etnomuzykologach	etnomuzykolog	subst:pl:loc:m1	pospolita	
+etnomuzykologa	etnomuzykolog	subst:sg:acc:m1	pospolita	
+etnomuzykologa	etnomuzykolog	subst:sg:gen:m1	pospolita	
+etnomuzykologami	etnomuzykolog	subst:pl:inst:m1	pospolita	
+etnomuzykolog	etnomuzykolog	subst:sg:nom:m1	pospolita	
+etnomuzykologiem	etnomuzykolog	subst:sg:inst:m1	pospolita	
+etnomuzykologi	etnomuzykolog	depr:pl:nom:m2	pospolita	
+etnomuzykologi	etnomuzykolog	depr:pl:voc:m2	pospolita	
+etnomuzykologom	etnomuzykolog	subst:pl:dat:m1	pospolita	
+etnomuzykologowie	etnomuzykolog	subst:pl:nom:m1	pospolita	
+etnomuzykologowie	etnomuzykolog	subst:pl:voc:m1	pospolita	
+etnomuzykologowi	etnomuzykolog	subst:sg:dat:m1	pospolita	
+etnomuzykologów	etnomuzykolog	subst:pl:acc:m1	pospolita	
+etnomuzykologów	etnomuzykolog	subst:pl:gen:m1	pospolita	
+etnomuzykologu	etnomuzykolog	subst:sg:loc:m1	pospolita	
+etnomuzykologu	etnomuzykolog	subst:sg:voc:m1	pospolita	
 etnomuzykologiach	etnomuzykologia	subst:pl:loc:f	pospolita	
 etnomuzykologia	etnomuzykologia	subst:sg:nom:f	pospolita	
 etnomuzykologiami	etnomuzykologia	subst:pl:inst:f	pospolita	
@@ -43536,6 +44264,45 @@ etykietujesz	etykietować	fin:sg:sec:imperf
 etykietuj	etykietować	impt:sg:sec:imperf		
 etykietuję	etykietować	fin:sg:pri:imperf		
 etykietujmy	etykietować	impt:pl:pri:imperf		
+etykietowo	etykietowo	adv:pos		
+etykietowościach	etykietowość	subst:pl:loc:f		
+etykietowościami	etykietowość	subst:pl:inst:f		
+etykietowością	etykietowość	subst:sg:inst:f		
+etykietowości	etykietowość	subst:pl:acc:f		
+etykietowości	etykietowość	subst:pl:gen:f		
+etykietowości	etykietowość	subst:pl:nom:f		
+etykietowości	etykietowość	subst:pl:voc:f		
+etykietowości	etykietowość	subst:sg:dat:f		
+etykietowości	etykietowość	subst:sg:gen:f		
+etykietowości	etykietowość	subst:sg:loc:f		
+etykietowości	etykietowość	subst:sg:voc:f		
+etykietowościom	etykietowość	subst:pl:dat:f		
+etykietowość	etykietowość	subst:sg:acc:f		
+etykietowość	etykietowość	subst:sg:nom:f		
+etykietowa	etykietowy	adj:sg:nom.voc:f:pos		
+etykietową	etykietowy	adj:sg:acc:f:pos		
+etykietową	etykietowy	adj:sg:inst:f:pos		
+etykietowe	etykietowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+etykietowe	etykietowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+etykietowe	etykietowy	adj:sg:acc:n1.n2:pos		
+etykietowe	etykietowy	adj:sg:nom.voc:n1.n2:pos		
+etykietowego	etykietowy	adj:sg:acc:m1.m2:pos		
+etykietowego	etykietowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+etykietowej	etykietowy	adj:sg:dat:f:pos		
+etykietowej	etykietowy	adj:sg:gen:f:pos		
+etykietowej	etykietowy	adj:sg:loc:f:pos		
+etykietowemu	etykietowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+etykietowi	etykietowy	adj:pl:nom.voc:m1.p1:pos		
+etykietowo	etykietowy	adja		
+etykietowych	etykietowy	adj:pl:acc:m1.p1:pos		
+etykietowych	etykietowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+etykietowych	etykietowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+etykietowy	etykietowy	adj:sg:acc:m3:pos		
+etykietowy	etykietowy	adj:sg:nom.voc:m1.m2.m3:pos		
+etykietowym	etykietowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+etykietowym	etykietowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+etykietowym	etykietowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+etykietowymi	etykietowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 etylach	etyl	subst:pl:loc:m3	pospolita	
 etylami	etyl	subst:pl:inst:m3	pospolita	
 etyle	etyl	subst:pl:acc:m3	pospolita	
@@ -45484,6 +46251,21 @@ eurokomunizmu	eurokomunizm	subst:sg:gen:m3	pospolita
 eurokomunizmy	eurokomunizm	subst:pl:acc:m3	pospolita	
 eurokomunizmy	eurokomunizm	subst:pl:nom:m3	pospolita	
 eurokomunizmy	eurokomunizm	subst:pl:voc:m3	pospolita	
+eurokracjach	eurokracja	subst:pl:loc:f	pospolita	
+eurokracja	eurokracja	subst:sg:nom:f	pospolita	
+eurokracjami	eurokracja	subst:pl:inst:f	pospolita	
+eurokracją	eurokracja	subst:sg:inst:f	pospolita	
+eurokracje	eurokracja	subst:pl:acc:f	pospolita	
+eurokracje	eurokracja	subst:pl:nom:f	pospolita	
+eurokracje	eurokracja	subst:pl:voc:f	pospolita	
+eurokrację	eurokracja	subst:sg:acc:f	pospolita	
+eurokracji	eurokracja	subst:pl:gen:f	pospolita	hom.
+eurokracji	eurokracja	subst:sg:dat:f	pospolita	
+eurokracji	eurokracja	subst:sg:gen:f	pospolita	
+eurokracji	eurokracja	subst:sg:loc:f	pospolita	
+eurokracjo	eurokracja	subst:sg:voc:f	pospolita	
+eurokracjom	eurokracja	subst:pl:dat:f	pospolita	
+eurokracyj	eurokracja	subst:pl:gen:f	pospolita	arch.|char.
 eurokracie	eurokrata	subst:sg:dat:m1	pospolita	
 eurokracie	eurokrata	subst:sg:loc:m1	pospolita	
 eurokraci	eurokrata	subst:pl:nom:m1	pospolita	
@@ -45538,6 +46320,20 @@ eurokrytycznym	eurokrytyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 eurokrytycznym	eurokrytyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 eurokrytycznym	eurokrytyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 eurokrytycznymi	eurokrytyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+eurolandach	euroland	subst:pl:loc:m3	pospolita	
+eurolandami	euroland	subst:pl:inst:m3	pospolita	
+eurolandem	euroland	subst:sg:inst:m3	pospolita	
+euroland	euroland	subst:sg:acc:m3	pospolita	
+euroland	euroland	subst:sg:nom:m3	pospolita	
+eurolandom	euroland	subst:pl:dat:m3	pospolita	
+eurolandowi	euroland	subst:sg:dat:m3	pospolita	
+eurolandów	euroland	subst:pl:gen:m3	pospolita	
+eurolandu	euroland	subst:sg:gen:m3	pospolita	
+eurolandy	euroland	subst:pl:acc:m3	pospolita	
+eurolandy	euroland	subst:pl:nom:m3	pospolita	
+eurolandy	euroland	subst:pl:voc:m3	pospolita	
+eurolandzie	euroland	subst:sg:loc:m3	pospolita	
+eurolandzie	euroland	subst:sg:voc:m3	pospolita	
 eurolidze	euroliga	subst:sg:dat:f	pospolita	
 eurolidze	euroliga	subst:sg:loc:f	pospolita	
 euroligach	euroliga	subst:pl:loc:f	pospolita	
@@ -45711,6 +46507,75 @@ europeidzie	europeida	subst:sg:dat:m1	pospolita
 europeidzie	europeida	subst:sg:loc:m1	pospolita	
 europeidzi	europeida	subst:pl:nom:m1	pospolita	
 europeidzi	europeida	subst:pl:voc:m1	pospolita	
+europeistach	europeista	subst:pl:loc:m1	pospolita	
+europeista	europeista	subst:sg:nom:m1	pospolita	
+europeistami	europeista	subst:pl:inst:m1	pospolita	
+europeistą	europeista	subst:sg:inst:m1	pospolita	
+europeistę	europeista	subst:sg:acc:m1	pospolita	
+europeisto	europeista	subst:sg:voc:m1	pospolita	
+europeistom	europeista	subst:pl:dat:m1	pospolita	
+europeistów	europeista	subst:pl:acc:m1	pospolita	
+europeistów	europeista	subst:pl:gen:m1	pospolita	
+europeisty	europeista	depr:pl:nom:m2	pospolita	
+europeisty	europeista	depr:pl:voc:m2	pospolita	
+europeisty	europeista	subst:sg:gen:m1	pospolita	
+europeiście	europeista	subst:sg:dat:m1	pospolita	
+europeiście	europeista	subst:sg:loc:m1	pospolita	
+europeiści	europeista	subst:pl:nom:m1	pospolita	
+europeiści	europeista	subst:pl:voc:m1	pospolita	
+europeistycznie	europeistycznie	adv:pos		
+europeistycznościach	europeistyczność	subst:pl:loc:f		
+europeistycznościami	europeistyczność	subst:pl:inst:f		
+europeistycznością	europeistyczność	subst:sg:inst:f		
+europeistyczności	europeistyczność	subst:pl:acc:f		
+europeistyczności	europeistyczność	subst:pl:gen:f		
+europeistyczności	europeistyczność	subst:pl:nom:f		
+europeistyczności	europeistyczność	subst:pl:voc:f		
+europeistyczności	europeistyczność	subst:sg:dat:f		
+europeistyczności	europeistyczność	subst:sg:gen:f		
+europeistyczności	europeistyczność	subst:sg:loc:f		
+europeistyczności	europeistyczność	subst:sg:voc:f		
+europeistycznościom	europeistyczność	subst:pl:dat:f		
+europeistyczność	europeistyczność	subst:sg:acc:f		
+europeistyczność	europeistyczność	subst:sg:nom:f		
+europeistyczna	europeistyczny	adj:sg:nom.voc:f:pos		
+europeistyczną	europeistyczny	adj:sg:acc:f:pos		
+europeistyczną	europeistyczny	adj:sg:inst:f:pos		
+europeistyczne	europeistyczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+europeistyczne	europeistyczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+europeistyczne	europeistyczny	adj:sg:acc:n1.n2:pos		
+europeistyczne	europeistyczny	adj:sg:nom.voc:n1.n2:pos		
+europeistycznego	europeistyczny	adj:sg:acc:m1.m2:pos		
+europeistycznego	europeistyczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+europeistycznej	europeistyczny	adj:sg:dat:f:pos		
+europeistycznej	europeistyczny	adj:sg:gen:f:pos		
+europeistycznej	europeistyczny	adj:sg:loc:f:pos		
+europeistycznemu	europeistyczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+europeistyczni	europeistyczny	adj:pl:nom.voc:m1.p1:pos		
+europeistyczno	europeistyczny	adja		
+europeistycznych	europeistyczny	adj:pl:acc:m1.p1:pos		
+europeistycznych	europeistyczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+europeistycznych	europeistyczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+europeistyczny	europeistyczny	adj:sg:acc:m3:pos		
+europeistyczny	europeistyczny	adj:sg:nom.voc:m1.m2.m3:pos		
+europeistycznym	europeistyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+europeistycznym	europeistyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+europeistycznym	europeistyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+europeistycznymi	europeistyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+europeistyce	europeistyka	subst:sg:dat:f	pospolita	
+europeistyce	europeistyka	subst:sg:loc:f	pospolita	
+europeistykach	europeistyka	subst:pl:loc:f	pospolita	
+europeistyka	europeistyka	subst:sg:nom:f	pospolita	
+europeistykami	europeistyka	subst:pl:inst:f	pospolita	
+europeistyką	europeistyka	subst:sg:inst:f	pospolita	
+europeistyk	europeistyka	subst:pl:gen:f	pospolita	
+europeistykę	europeistyka	subst:sg:acc:f	pospolita	
+europeistyki	europeistyka	subst:pl:acc:f	pospolita	
+europeistyki	europeistyka	subst:pl:nom:f	pospolita	
+europeistyki	europeistyka	subst:pl:voc:f	pospolita	
+europeistyki	europeistyka	subst:sg:gen:f	pospolita	
+europeistyko	europeistyka	subst:sg:voc:f	pospolita	
+europeistykom	europeistyka	subst:pl:dat:f	pospolita	
 europeizacjach	europeizacja	subst:pl:loc:f	pospolita	
 europeizacja	europeizacja	subst:sg:nom:f	pospolita	
 europeizacjami	europeizacja	subst:pl:inst:f	pospolita	
@@ -46814,6 +47679,44 @@ eutropowym	eutropowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 eutropowym	eutropowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 eutropowym	eutropowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 eutropowymi	eutropowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+evencie	event	subst:sg:loc:m3	pospolita	
+evencie	event	subst:sg:voc:m3	pospolita	
+eventach	event	subst:pl:loc:m3	pospolita	
+eventami	event	subst:pl:inst:m3	pospolita	
+eventem	event	subst:sg:inst:m3	pospolita	
+event	event	subst:sg:acc:m3	pospolita	
+event	event	subst:sg:nom:m3	pospolita	
+eventom	event	subst:pl:dat:m3	pospolita	
+eventowi	event	subst:sg:dat:m3	pospolita	
+eventów	event	subst:pl:gen:m3	pospolita	
+eventu	event	subst:sg:gen:m3	pospolita	
+eventy	event	subst:pl:acc:m3	pospolita	
+eventy	event	subst:pl:nom:m3	pospolita	
+eventy	event	subst:pl:voc:m3	pospolita	
+eventowa	eventowy	adj:sg:nom.voc:f:pos		
+eventową	eventowy	adj:sg:acc:f:pos		
+eventową	eventowy	adj:sg:inst:f:pos		
+eventowe	eventowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+eventowe	eventowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+eventowe	eventowy	adj:sg:acc:n1.n2:pos		
+eventowe	eventowy	adj:sg:nom.voc:n1.n2:pos		
+eventowego	eventowy	adj:sg:acc:m1.m2:pos		
+eventowego	eventowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+eventowej	eventowy	adj:sg:dat:f:pos		
+eventowej	eventowy	adj:sg:gen:f:pos		
+eventowej	eventowy	adj:sg:loc:f:pos		
+eventowemu	eventowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+eventowi	eventowy	adj:pl:nom.voc:m1.p1:pos		
+eventowo	eventowy	adja		
+eventowych	eventowy	adj:pl:acc:m1.p1:pos		
+eventowych	eventowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+eventowych	eventowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+eventowy	eventowy	adj:sg:acc:m3:pos		
+eventowy	eventowy	adj:sg:nom.voc:m1.m2.m3:pos		
+eventowym	eventowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+eventowym	eventowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+eventowym	eventowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+eventowymi	eventowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 evergreenach	evergreen	subst:pl:loc:m3	pospolita	
 evergreenami	evergreen	subst:pl:inst:m3	pospolita	
 evergreenem	evergreen	subst:sg:inst:m3	pospolita	
@@ -49018,6 +49921,20 @@ extra	extra:a	adj:sg:nom.voc:f:pos
 extra	extra:a	adj:sg:nom.voc:m1.m2.m3:pos		
 extra	extra:a	adj:sg:nom.voc:n1.n2:pos		
 extra	extra:d	adv:pos		
+extranecie	extranet	subst:sg:loc:m3	pospolita	komp.
+extranecie	extranet	subst:sg:voc:m3	pospolita	komp.
+extranetach	extranet	subst:pl:loc:m3	pospolita	komp.
+extranetami	extranet	subst:pl:inst:m3	pospolita	komp.
+extranetem	extranet	subst:sg:inst:m3	pospolita	komp.
+extranet	extranet	subst:sg:acc:m3	pospolita	komp.
+extranet	extranet	subst:sg:nom:m3	pospolita	komp.
+extranetom	extranet	subst:pl:dat:m3	pospolita	komp.
+extranetowi	extranet	subst:sg:dat:m3	pospolita	komp.
+extranetów	extranet	subst:pl:gen:m3	pospolita	komp.
+extranetu	extranet	subst:sg:gen:m3	pospolita	komp.
+extranety	extranet	subst:pl:acc:m3	pospolita	komp.
+extranety	extranet	subst:pl:nom:m3	pospolita	komp.
+extranety	extranet	subst:pl:voc:m3	pospolita	komp.
 eyelinerach	eyeliner	subst:pl:loc:m3	pospolita	
 eyelinera	eyeliner	subst:sg:gen:m3	pospolita	
 eyelinerami	eyeliner	subst:pl:inst:m3	pospolita	

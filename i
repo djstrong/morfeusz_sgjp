@@ -405,7 +405,8 @@ ichmościowie	ichmościowie	subst:pl:nom:p1	pospolita	daw.
 ichmościowie	ichmościowie	subst:pl:voc:p1	pospolita	daw.
 ichmościów	ichmościowie	subst:pl:acc:p1	pospolita	daw.
 ichmościów	ichmościowie	subst:pl:gen:p1	pospolita	daw.
-ichmość	ichmość	subst:pl:nom:p1	pospolita	daw.
+ichmość	ichmość:b	burk		
+ichmość	ichmość:s	subst:pl:nom:p1	pospolita	daw.
 ichneumonach	ichneumon	subst:pl:loc:m2	pospolita	
 ichneumona	ichneumon	subst:sg:acc:m2	pospolita	
 ichneumona	ichneumon	subst:sg:gen:m2	pospolita	
@@ -537,6 +538,8 @@ ichtiofagiem	ichtiofag	subst:sg:inst:m1	pospolita
 ichtiofagi	ichtiofag	depr:pl:nom:m2	pospolita	
 ichtiofagi	ichtiofag	depr:pl:voc:m2	pospolita	
 ichtiofagom	ichtiofag	subst:pl:dat:m1	pospolita	
+ichtiofagowie	ichtiofag	subst:pl:nom:m1	pospolita	
+ichtiofagowie	ichtiofag	subst:pl:voc:m1	pospolita	
 ichtiofagowi	ichtiofag	subst:sg:dat:m1	pospolita	
 ichtiofagów	ichtiofag	subst:pl:acc:m1	pospolita	
 ichtiofagów	ichtiofag	subst:pl:gen:m1	pospolita	

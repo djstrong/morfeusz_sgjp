@@ -1201,12 +1201,55 @@
 ścichłyście	ścichnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
 ścichłyśmy	ścichnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
 ścichnąć	ścichnąć	inf:perf		
+ścichnąć	ścichnąć	inf:perf		rzad.
+ścichnąłbym	ścichnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+ścichnąłby	ścichnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+ścichnąłbyś	ścichnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+ścichnąłem	ścichnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+ścichnąłeś	ścichnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+ścichnął	ścichnąć	praet:sg:m1.m2.m3:perf		rzad.
+ścichnął	ścichnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
 ścichną	ścichnąć	fin:pl:ter:perf		
+ścichną	ścichnąć	fin:pl:ter:perf		rzad.
+ścichnąwszy	ścichnąć	pant:perf		rzad.
+ścichnęliby	ścichnąć	cond:pl:m1.p1:ter:perf		rzad.
+ścichnęlibyście	ścichnąć	cond:pl:m1.p1:sec:perf		rzad.
+ścichnęlibyśmy	ścichnąć	cond:pl:m1.p1:pri:perf		rzad.
+ścichnęli	ścichnąć	praet:pl:m1.p1:perf		rzad.
+ścichnęli	ścichnąć	praet:pl:m1.p1:ter:perf		rzad.
+ścichnęliście	ścichnąć	praet:pl:m1.p1:sec:perf		rzad.
+ścichnęliśmy	ścichnąć	praet:pl:m1.p1:pri:perf		rzad.
+ścichnęłabym	ścichnąć	cond:sg:f:pri:perf		rzad.
+ścichnęłaby	ścichnąć	cond:sg:f:ter:perf		rzad.
+ścichnęłabyś	ścichnąć	cond:sg:f:sec:perf		rzad.
+ścichnęłam	ścichnąć	praet:sg:f:pri:perf		rzad.
+ścichnęła	ścichnąć	praet:sg:f:perf		rzad.
+ścichnęła	ścichnąć	praet:sg:f:ter:perf		rzad.
+ścichnęłaś	ścichnąć	praet:sg:f:sec:perf		rzad.
+ścichnęłobym	ścichnąć	cond:sg:n1.n2:pri:perf		rzad.
+ścichnęłoby	ścichnąć	cond:sg:n1.n2:ter:perf		rzad.
+ścichnęłobyś	ścichnąć	cond:sg:n1.n2:sec:perf		rzad.
+ścichnęłom	ścichnąć	praet:sg:n1.n2:pri:perf		rzad.
+ścichnęło	ścichnąć	praet:sg:n1.n2:perf		rzad.
+ścichnęło	ścichnąć	praet:sg:n1.n2:ter:perf		rzad.
+ścichnęłoś	ścichnąć	praet:sg:n1.n2:sec:perf		rzad.
+ścichnęłyby	ścichnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+ścichnęłybyście	ścichnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+ścichnęłybyśmy	ścichnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+ścichnęły	ścichnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+ścichnęły	ścichnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+ścichnęłyście	ścichnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+ścichnęłyśmy	ścichnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
 ścichnę	ścichnąć	fin:sg:pri:perf		
+ścichnę	ścichnąć	fin:sg:pri:perf		rzad.
 ścichniecie	ścichnąć	fin:pl:sec:perf		
+ścichniecie	ścichnąć	fin:pl:sec:perf		rzad.
 ścichniemy	ścichnąć	fin:pl:pri:perf		
+ścichniemy	ścichnąć	fin:pl:pri:perf		rzad.
 ścichniesz	ścichnąć	fin:sg:sec:perf		
+ścichniesz	ścichnąć	fin:sg:sec:perf		rzad.
 ścichnie	ścichnąć	fin:sg:ter:perf		
+ścichnie	ścichnąć	fin:sg:ter:perf		rzad.
 ścichnięciami	ścichnąć	ger:pl:inst:n2:perf:aff		
 ścichnięcia	ścichnąć	ger:pl:nom.acc:n2:perf:aff		
 ścichnięcia	ścichnąć	ger:sg:gen:n2:perf:aff		
@@ -1216,9 +1259,13 @@
 ścichnięciu	ścichnąć	ger:sg:dat.loc:n2:perf:aff		
 ścichnięć	ścichnąć	ger:pl:gen:n2:perf:aff		
 ścichnięto	ścichnąć	imps:perf		
+ścichnięto	ścichnąć	imps:perf		rzad.
 ścichnijcie	ścichnąć	impt:pl:sec:perf		
+ścichnijcie	ścichnąć	impt:pl:sec:perf		rzad.
 ścichnijmy	ścichnąć	impt:pl:pri:perf		
+ścichnijmy	ścichnąć	impt:pl:pri:perf		rzad.
 ścichnij	ścichnąć	impt:sg:sec:perf		
+ścichnij	ścichnąć	impt:sg:sec:perf		rzad.
 ściec	ściec	inf:perf		
 ściec	ściec	inf:perf		rzad.
 ścieczcie	ściec	impt:pl:sec:perf		rzad.
@@ -7921,6 +7968,7 @@
 ślepnące	ślepnąć	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
 ślepnące	ślepnąć	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
 ślepnąc	ślepnąć	pcon:imperf		
+ślepnąc	ślepnąć	pcon:imperf		rzad.
 ślepnących	ślepnąć	pact:pl:acc:m1.p1:imperf:aff		
 ślepnących	ślepnąć	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
 ślepnącymi	ślepnąć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
@@ -7930,12 +7978,54 @@
 ślepnący	ślepnąć	pact:sg:acc:m3:imperf:aff		
 ślepnący	ślepnąć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
 ślepnąć	ślepnąć	inf:imperf		
+ślepnąć	ślepnąć	inf:imperf		rzad.
+ślepnąłbym	ślepnąć	cond:sg:m1.m2.m3:pri:imperf		rzad.
+ślepnąłby	ślepnąć	cond:sg:m1.m2.m3:ter:imperf		rzad.
+ślepnąłbyś	ślepnąć	cond:sg:m1.m2.m3:sec:imperf		rzad.
+ślepnąłem	ślepnąć	praet:sg:m1.m2.m3:pri:imperf		rzad.
+ślepnąłeś	ślepnąć	praet:sg:m1.m2.m3:sec:imperf		rzad.
+ślepnął	ślepnąć	praet:sg:m1.m2.m3:imperf		rzad.
+ślepnął	ślepnąć	praet:sg:m1.m2.m3:ter:imperf		rzad.
 ślepną	ślepnąć	fin:pl:ter:imperf		
+ślepną	ślepnąć	fin:pl:ter:imperf		rzad.
+ślepnęlibyście	ślepnąć	cond:pl:m1.p1:sec:imperf		rzad.
+ślepnęliby	ślepnąć	cond:pl:m1.p1:ter:imperf		rzad.
+ślepnęlibyśmy	ślepnąć	cond:pl:m1.p1:pri:imperf		rzad.
+ślepnęliście	ślepnąć	praet:pl:m1.p1:sec:imperf		rzad.
+ślepnęli	ślepnąć	praet:pl:m1.p1:imperf		rzad.
+ślepnęli	ślepnąć	praet:pl:m1.p1:ter:imperf		rzad.
+ślepnęliśmy	ślepnąć	praet:pl:m1.p1:pri:imperf		rzad.
+ślepnęłabym	ślepnąć	cond:sg:f:pri:imperf		rzad.
+ślepnęłaby	ślepnąć	cond:sg:f:ter:imperf		rzad.
+ślepnęłabyś	ślepnąć	cond:sg:f:sec:imperf		rzad.
+ślepnęłam	ślepnąć	praet:sg:f:pri:imperf		rzad.
+ślepnęła	ślepnąć	praet:sg:f:imperf		rzad.
+ślepnęła	ślepnąć	praet:sg:f:ter:imperf		rzad.
+ślepnęłaś	ślepnąć	praet:sg:f:sec:imperf		rzad.
+ślepnęłobym	ślepnąć	cond:sg:n1.n2:pri:imperf		rzad.
+ślepnęłoby	ślepnąć	cond:sg:n1.n2:ter:imperf		rzad.
+ślepnęłobyś	ślepnąć	cond:sg:n1.n2:sec:imperf		rzad.
+ślepnęłom	ślepnąć	praet:sg:n1.n2:pri:imperf		rzad.
+ślepnęło	ślepnąć	praet:sg:n1.n2:imperf		rzad.
+ślepnęło	ślepnąć	praet:sg:n1.n2:ter:imperf		rzad.
+ślepnęłoś	ślepnąć	praet:sg:n1.n2:sec:imperf		rzad.
+ślepnęłybyście	ślepnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+ślepnęłyby	ślepnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+ślepnęłybyśmy	ślepnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+ślepnęłyście	ślepnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+ślepnęły	ślepnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
+ślepnęły	ślepnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+ślepnęłyśmy	ślepnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
 ślepnę	ślepnąć	fin:sg:pri:imperf		
+ślepnę	ślepnąć	fin:sg:pri:imperf		rzad.
 ślepniecie	ślepnąć	fin:pl:sec:imperf		
+ślepniecie	ślepnąć	fin:pl:sec:imperf		rzad.
 ślepniemy	ślepnąć	fin:pl:pri:imperf		
+ślepniemy	ślepnąć	fin:pl:pri:imperf		rzad.
 ślepniesz	ślepnąć	fin:sg:sec:imperf		
+ślepniesz	ślepnąć	fin:sg:sec:imperf		rzad.
 ślepnie	ślepnąć	fin:sg:ter:imperf		
+ślepnie	ślepnąć	fin:sg:ter:imperf		rzad.
 ślepnięciami	ślepnąć	ger:pl:inst:n2:imperf:aff		
 ślepnięcia	ślepnąć	ger:pl:nom.acc:n2:imperf:aff		
 ślepnięcia	ślepnąć	ger:sg:gen:n2:imperf:aff		
@@ -7945,9 +8035,13 @@
 ślepnięciu	ślepnąć	ger:sg:dat.loc:n2:imperf:aff		
 ślepnięć	ślepnąć	ger:pl:gen:n2:imperf:aff		
 ślepnięto	ślepnąć	imps:imperf		
+ślepnięto	ślepnąć	imps:imperf		rzad.
 ślepnijcie	ślepnąć	impt:pl:sec:imperf		
+ślepnijcie	ślepnąć	impt:pl:sec:imperf		rzad.
 ślepnijmy	ślepnąć	impt:pl:pri:imperf		
+ślepnijmy	ślepnąć	impt:pl:pri:imperf		rzad.
 ślepnij	ślepnąć	impt:sg:sec:imperf		
+ślepnij	ślepnąć	impt:sg:sec:imperf		rzad.
 ślepo	ślepo	adv:pos		
 ślepoocy	ślepooki	adj:pl:nom.voc:m1.p1:pos		
 ślepooka	ślepooki	adj:sg:nom.voc:f:pos		
@@ -16504,8 +16598,6 @@
 śpiochu	śpioch	subst:sg:voc:m1	pospolita	
 śpiochy	śpioch	depr:pl:nom:m2	pospolita	
 śpiochy	śpioch	depr:pl:voc:m2	pospolita	
-śpiosi	śpioch	subst:pl:nom:m1	pospolita	
-śpiosi	śpioch	subst:pl:voc:m1	pospolita	
 śpiochach	śpiocha	subst:pl:loc:f	pospolita	
 śpiochami	śpiocha	subst:pl:inst:f	pospolita	
 śpiocha	śpiocha	subst:sg:nom:f	pospolita	
