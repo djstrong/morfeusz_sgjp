@@ -1,7 +1,7 @@
-Ml	Księga_Malachiasza	brev:npun
-Mal	Księga_Malachiasza	brev:npun
-Mdr	Księga_Mądrości	brev:npun
-Mi	Księga_Micheasza	brev:npun
+Ml	Księga_Malachiasza	brev:npun		
+Mal	Księga_Malachiasza	brev:npun		
+Mdr	Księga_Mądrości	brev:npun		
+Mi	Księga_Micheasza	brev:npun		
 Maastrichcie	Maastricht	subst:sg:loc:m3	geograficzna	
 Maastrichcie	Maastricht	subst:sg:voc:m3	geograficzna	
 Maastrichtach	Maastricht	subst:pl:loc:m3	geograficzna	
@@ -601,7 +601,7 @@ Madalińskimi	Madaliński	subst:pl:inst:m1	nazwisko
 Madalińskim	Madaliński	subst:pl:dat:m1	nazwisko	
 Madalińskim	Madaliński	subst:sg:inst:m1	nazwisko	
 Madalińskim	Madaliński	subst:sg:loc:m1	nazwisko	
-M-me	Madame	brev:npun
+M-me	Madame	brev:npun		
 Madejach	Madej	subst:pl:loc:m1	nazwisko	
 Madeja	Madej	subst:sg:acc:m1	nazwisko	
 Madeja	Madej	subst:sg:gen:m1	nazwisko	
@@ -5281,7 +5281,7 @@ Matisse’y	Matisse	depr:pl:nom:m2	nazwisko
 Matisse’y	Matisse	depr:pl:voc:m2	nazwisko	
 Matissie	Matisse	subst:sg:loc:m1	nazwisko	
 Matissie	Matisse	subst:sg:voc:m1	nazwisko	
-MB	Matka_Boska	brev:npun
+MB	Matka_Boska	brev:npun		rel.
 Matkowska	Matkowska	subst:sg:nom:f	nazwisko	
 Matkowska	Matkowska	subst:sg:voc:f	nazwisko	
 Matkowską	Matkowska	subst:sg:acc:f	nazwisko	
@@ -6321,8 +6321,8 @@ Mefistofelesów	Mefistofeles	subst:pl:acc:m1	imię
 Mefistofelesów	Mefistofeles	subst:pl:gen:m1	imię	
 Mefistofelesy	Mefistofeles	depr:pl:nom:m2	imię	
 Mefistofelesy	Mefistofeles	depr:pl:voc:m2	imię	
-MB	megabajt	brev:npun
-MHz	Megahertz	brev:npun
+MB	megabajt	brev:npun		komp.
+MHz	Megahertz	brev:npun		
 Mehofferach	Mehoffer	subst:pl:loc:m1	nazwisko	
 Mehoffera	Mehoffer	subst:sg:acc:m1	nazwisko	
 Mehoffera	Mehoffer	subst:sg:gen:m1	nazwisko	
@@ -7313,7 +7313,7 @@ Miami	Miami	subst:sg:inst:n2	geograficzna
 Miami	Miami	subst:sg:loc:n2	geograficzna	
 Miami	Miami	subst:sg:nom:n2	geograficzna	
 Miami	Miami	subst:sg:voc:n2	geograficzna	
-M	mianownik	brev:pun
+M	mianownik	brev:pun		jęz.
 Miastkowach	Miastkowo	subst:pl:loc:n2	geograficzna	
 Miastkowa	Miastkowo	subst:pl:acc:n2	geograficzna	
 Miastkowa	Miastkowo	subst:pl:nom:n2	geograficzna	
@@ -8130,8 +8130,8 @@ Miedzińskimi	Miedziński	subst:pl:inst:m1	nazwisko
 Miedzińskim	Miedziński	subst:pl:dat:m1	nazwisko	
 Miedzińskim	Miedziński	subst:sg:inst:m1	nazwisko	
 Miedzińskim	Miedziński	subst:sg:loc:m1	nazwisko	
-Msc	miejscownik	brev:pun
-Ms	miejscownik	brev:pun
+Msc	miejscownik	brev:pun		jęz.
+Ms	miejscownik	brev:pun		jęz.
 Mielcarek	Mielcarek	subst:sg:nom:m1	nazwisko	
 Mielcarkach	Mielcarek	subst:pl:loc:m1	nazwisko	
 Mielcarka	Mielcarek	subst:sg:acc:m1	nazwisko	
@@ -10236,8 +10236,8 @@ Misteków	Mistek	subst:pl:acc:m1	pospolita
 Misteków	Mistek	subst:pl:gen:m1	pospolita	
 Misteku	Mistek	subst:sg:loc:m1	pospolita	
 Misteku	Mistek	subst:sg:voc:m1	pospolita	
-Mr	Mister	brev:npun
-Mrs	Mistress	brev:npun
+Mr	Mister	brev:npun		
+Mrs	Mistress	brev:npun		
 Miszach	Misza	subst:pl:loc:m1	imię	
 Miszami	Misza	subst:pl:inst:m1	imię	
 Misza	Misza	subst:sg:nom:m1	imię	

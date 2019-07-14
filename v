@@ -367,9 +367,9 @@ verso	verso	subst:sg:inst:n2	pospolita
 verso	verso	subst:sg:loc:n2	pospolita	
 verso	verso	subst:sg:nom:n2	pospolita	
 verso	verso	subst:sg:voc:n2	pospolita	
-v	versus	brev:pun
-vs	versus	brev:npun
-v	verte	brev:pun
+v	versus	brev:pun		
+vs	versus	brev:npun		
+v	verte	brev:pun		
 verticalach	vertical	subst:pl:loc:m3	pospolita	
 verticalami	vertical	subst:pl:inst:m3	pospolita	
 verticalem	vertical	subst:sg:inst:m3	pospolita	
@@ -923,7 +923,7 @@ volumen	volumen	subst:sg:nom:m3	pospolita
 volumeny	volumen	subst:pl:acc:m3	pospolita	
 volumeny	volumen	subst:pl:nom:m3	pospolita	
 volumeny	volumen	subst:pl:voc:m3	pospolita	
-vol	volumen	brev:pun
+vol	volumen	brev:pun		
 volvach	volvo:s1	subst:pl:loc:n2	pospolita	
 volvami	volvo:s1	subst:pl:inst:n2	pospolita	
 volva	volvo:s1	subst:pl:acc:n2	pospolita	

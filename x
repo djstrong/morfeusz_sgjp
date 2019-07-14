@@ -1,5 +1,5 @@
-x	ksiądz	brev:pun
-x	książę	brev:pun
+x	ksiądz	brev:pun		
+x	książę	brev:pun		
 xantiach	xantia	subst:pl:loc:f	pospolita	mot.
 xantiami	xantia	subst:pl:inst:f	pospolita	mot.
 xantia	xantia	subst:sg:nom:f	pospolita	mot.

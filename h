@@ -1,4 +1,4 @@
-h.c	(doktorat)_honoris_causa	brev:pun
+h.c	(doktorat)_honoris_causa	brev:pun		
 habanerach	habanera	subst:pl:loc:f	pospolita	chor.
 habanera	habanera	subst:sg:nom:f	pospolita	chor.
 habanerami	habanera	subst:pl:inst:f	pospolita	chor.
@@ -8883,7 +8883,7 @@ harcmistrzów	harcmistrz	subst:pl:acc:m1	pospolita
 harcmistrzów	harcmistrz	subst:pl:gen:m1	pospolita	
 harcmistrzu	harcmistrz	subst:sg:loc:m1	pospolita	
 harcmistrzu	harcmistrz	subst:sg:voc:m1	pospolita	
-hm	harcmistrz	brev:pun
+hm	harcmistrz	brev:pun		
 harcmistrzyniach	harcmistrzyni	subst:pl:loc:f	pospolita	
 harcmistrzyniami	harcmistrzyni	subst:pl:inst:f	pospolita	
 harcmistrzynią	harcmistrzyni	subst:sg:inst:f	pospolita	
@@ -8898,7 +8898,7 @@ harcmistrzyni	harcmistrzyni	subst:sg:nom:f	pospolita
 harcmistrzyni	harcmistrzyni	subst:sg:voc:f	pospolita	
 harcmistrzyniom	harcmistrzyni	subst:pl:dat:f	pospolita	
 harcmistrzyń	harcmistrzyni	subst:pl:gen:f	pospolita	
-hm	harcmistrzyni	brev:pun
+hm	harcmistrzyni	brev:pun		
 harcopach	harcop	subst:pl:loc:m3	pospolita	daw.
 harcopami	harcop	subst:pl:inst:m3	pospolita	daw.
 harcopem	harcop	subst:sg:inst:m3	pospolita	daw.
@@ -15168,7 +15168,7 @@ hektary	hektar	subst:pl:nom:m3	pospolita
 hektary	hektar	subst:pl:voc:m3	pospolita	
 hektarze	hektar	subst:sg:loc:m3	pospolita	
 hektarze	hektar	subst:sg:voc:m3	pospolita	
-ha	hektar	brev:npun
+ha	hektar	brev:npun		
 hektarowościach	hektarowość	subst:pl:loc:f		
 hektarowościami	hektarowość	subst:pl:inst:f		
 hektarowością	hektarowość	subst:sg:inst:f		
@@ -15391,7 +15391,7 @@ hektolitry	hektolitr	subst:pl:nom:m3	pospolita
 hektolitry	hektolitr	subst:pl:voc:m3	pospolita	
 hektolitrze	hektolitr	subst:sg:loc:m3	pospolita	
 hektolitrze	hektolitr	subst:sg:voc:m3	pospolita	
-hl	hektolitr	brev:npun
+hl	hektolitr	brev:npun		
 hektolitrowościach	hektolitrowość	subst:pl:loc:f		
 hektolitrowościami	hektolitrowość	subst:pl:inst:f		
 hektolitrowością	hektolitrowość	subst:sg:inst:f		
@@ -38080,22 +38080,22 @@ honujesz	honować	fin:sg:sec:imperf		techn.
 honuję	honować	fin:sg:pri:imperf		techn.
 honuj	honować	impt:sg:sec:imperf		techn.
 honujmy	honować	impt:pl:pri:imperf		techn.
-honwedach	honwed	subst:pl:loc:m1	pospolita	
-honweda	honwed	subst:sg:acc:m1	pospolita	
-honweda	honwed	subst:sg:gen:m1	pospolita	
-honwedami	honwed	subst:pl:inst:m1	pospolita	
-honwedem	honwed	subst:sg:inst:m1	pospolita	
-honwed	honwed	subst:sg:nom:m1	pospolita	
-honwedom	honwed	subst:pl:dat:m1	pospolita	
-honwedowi	honwed	subst:sg:dat:m1	pospolita	
-honwedów	honwed	subst:pl:acc:m1	pospolita	
-honwedów	honwed	subst:pl:gen:m1	pospolita	
-honwedy	honwed	depr:pl:nom:m2	pospolita	
-honwedy	honwed	depr:pl:voc:m2	pospolita	
-honwedzie	honwed	subst:sg:loc:m1	pospolita	
-honwedzie	honwed	subst:sg:voc:m1	pospolita	
-honwedzi	honwed	subst:pl:nom:m1	pospolita	
-honwedzi	honwed	subst:pl:voc:m1	pospolita	
+honwedach	honwed	subst:pl:loc:m1	pospolita	daw.
+honweda	honwed	subst:sg:acc:m1	pospolita	daw.
+honweda	honwed	subst:sg:gen:m1	pospolita	daw.
+honwedami	honwed	subst:pl:inst:m1	pospolita	daw.
+honwedem	honwed	subst:sg:inst:m1	pospolita	daw.
+honwed	honwed	subst:sg:nom:m1	pospolita	daw.
+honwedom	honwed	subst:pl:dat:m1	pospolita	daw.
+honwedowi	honwed	subst:sg:dat:m1	pospolita	daw.
+honwedów	honwed	subst:pl:acc:m1	pospolita	daw.
+honwedów	honwed	subst:pl:gen:m1	pospolita	daw.
+honwedy	honwed	depr:pl:nom:m2	pospolita	daw.
+honwedy	honwed	depr:pl:voc:m2	pospolita	daw.
+honwedzie	honwed	subst:sg:loc:m1	pospolita	daw.
+honwedzie	honwed	subst:sg:voc:m1	pospolita	daw.
+honwedzi	honwed	subst:pl:nom:m1	pospolita	daw.
+honwedzi	honwed	subst:pl:voc:m1	pospolita	daw.
 hopach	hopa	subst:pl:loc:f	pospolita	
 hopa	hopa	subst:sg:nom:f	pospolita	
 hopami	hopa	subst:pl:inst:f	pospolita	

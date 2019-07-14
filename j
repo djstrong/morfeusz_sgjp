@@ -4396,7 +4396,7 @@ jakuzzi	jakuzzi	subst:sg:inst:n2	pospolita
 jakuzzi	jakuzzi	subst:sg:loc:n2	pospolita	
 jakuzzi	jakuzzi	subst:sg:nom:n2	pospolita	
 jakuzzi	jakuzzi	subst:sg:voc:n2	pospolita	
-jw	jak_wyżej	brev:pun
+jw	jak_wyżej	brev:pun		
 jakże	jakże	adv		
 jakżeby	jakżeby	adv		
 jakżeż	jakżeż	qub		
@@ -37456,8 +37456,8 @@ juniorze	junior	subst:sg:loc:m1	pospolita
 juniorze	junior	subst:sg:voc:m1	pospolita	
 juniorzy	junior	subst:pl:nom:m1	pospolita	
 juniorzy	junior	subst:pl:voc:m1	pospolita	
-jr	junior	brev:pun
-jun	junior	brev:pun
+jr	junior	brev:pun		
+jun	junior	brev:pun		
 juniorek	juniorek	subst:sg:acc:m3	pospolita	
 juniorek	juniorek	subst:sg:nom:m2	pospolita	
 juniorek	juniorek	subst:sg:nom:m3	pospolita	

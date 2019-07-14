@@ -19098,7 +19098,7 @@ femicznym	femiczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 femicznym	femiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 femicznym	femiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 femicznymi	femiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
-f	femininum	brev:pun
+f	femininum	brev:pun		jęz.
 feministach	feminista	subst:pl:loc:m1	pospolita	
 feminista	feminista	subst:sg:nom:m1	pospolita	
 feministami	feminista	subst:pl:inst:m1	pospolita	

@@ -683,7 +683,7 @@ Vladimiry	Vladimir	depr:pl:nom:m2	imię
 Vladimiry	Vladimir	depr:pl:voc:m2	imię	
 Vladimirze	Vladimir	subst:sg:loc:m1	imię	
 Vladimirze	Vladimir	subst:sg:voc:m1	imię	
-V	vocativus	brev:pun
+V	vocativus	brev:pun		jęz.
 Vogel	Vogel	subst:sg:nom:m1	nazwisko	
 Voglach	Vogel	subst:pl:loc:m1	nazwisko	
 Voglami	Vogel	subst:pl:inst:m1	nazwisko	

@@ -2393,7 +2393,7 @@ Herthy	Hertha	subst:pl:acc:f	imię
 Herthy	Hertha	subst:pl:nom:f	imię	
 Herthy	Hertha	subst:pl:voc:f	imię	
 Herthy	Hertha	subst:sg:gen:f	imię	
-Hz	hertz	brev:npun
+Hz	hertz	brev:npun		fiz.
 Hertzach	Hertz	subst:pl:loc:m1	nazwisko	
 Hertza	Hertz	subst:sg:acc:m1	nazwisko	
 Hertza	Hertz	subst:sg:gen:m1	nazwisko	
@@ -4511,8 +4511,8 @@ Hymenów	Hymen	subst:pl:acc:m1	imię	mit.
 Hymenów	Hymen	subst:pl:gen:m1	imię	mit.
 Hymeny	Hymen	depr:pl:nom:m2	imię	mit.
 Hymeny	Hymen	depr:pl:voc:m2	imię	mit.
-Ha	Księga_Habakuka	brev:npun
-Hab	Księga_Habakuka	brev:npun
-Hi	Księga_Hioba	brev:npun
-Hbr	List_do_Hebrajczyków	brev:npun
-Hebr	List_do_Hebrajczyków	brev:pun
+Ha	Księga_Habakuka	brev:npun		
+Hab	Księga_Habakuka	brev:npun		
+Hi	Księga_Hioba	brev:npun		
+Hbr	List_do_Hebrajczyków	brev:npun		
+Hebr	List_do_Hebrajczyków	brev:pun		

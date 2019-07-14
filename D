@@ -1035,7 +1035,7 @@ DAT-u	DAT	subst:sg:gen:m3	pospolita
 DAT-y	DAT	subst:pl:acc:m3	pospolita	
 DAT-y	DAT	subst:pl:nom:m3	pospolita	
 DAT-y	DAT	subst:pl:voc:m3	pospolita	
-D	dativus	brev:pun
+D	dativus	brev:pun		jęz.
 Dauhach	Dauha	subst:pl:loc:f	geograficzna	
 Dauha	Dauha	subst:sg:nom:f	geograficzna	
 Dauhami	Dauha	subst:pl:inst:f	geograficzna	
@@ -2176,7 +2176,7 @@ Detroit	Detroit	subst:sg:inst:n2	geograficzna
 Detroit	Detroit	subst:sg:loc:n2	geograficzna	
 Detroit	Detroit	subst:sg:nom:n2	geograficzna	
 Detroit	Detroit	subst:sg:voc:n2	geograficzna	
-DEM	Deutsche_Mark	brev:npun
+DEM	Deutsche_Mark	brev:npun		
 Dewajtisach	Dewajtis	subst:pl:loc:m3	imię	
 Dewajtisa	Dewajtis	subst:sg:gen:m3	imię	
 Dewajtisami	Dewajtis	subst:pl:inst:m3	imię	
@@ -4475,7 +4475,7 @@ Donizettim	Donizetti	subst:sg:loc:m1	nazwisko
 Donizettimi	Donizetti	subst:pl:inst:m1	nazwisko	
 Donizettiowie	Donizetti	subst:pl:nom:m1	nazwisko	
 Donizettiowie	Donizetti	subst:pl:voc:m1	nazwisko	
-D	dopełniacz	brev:pun
+D	dopełniacz	brev:pun		jęz.
 Dopiewach	Dopiewo	subst:pl:loc:n2	geograficzna	
 Dopiewa	Dopiewo	subst:pl:acc:n2	geograficzna	
 Dopiewa	Dopiewo	subst:pl:nom:n2	geograficzna	
@@ -6629,8 +6629,8 @@ Dziedziców	Dziedzic	subst:pl:acc:m1	nazwisko
 Dziedziców	Dziedzic	subst:pl:gen:m1	nazwisko	
 Dziedzicu	Dziedzic	subst:sg:loc:m1	nazwisko	
 Dziedzicu	Dziedzic	subst:sg:voc:m1	nazwisko	
-Dz	Dzieje_(Apostolskie)	brev:npun
-Dz.U	Dziennik_Ustaw	brev:pun
+Dz	Dzieje_(Apostolskie)	brev:npun		
+Dz.U	Dziennik_Ustaw	brev:pun		
 Dziersławach	Dziersław	subst:pl:loc:m1	imię	
 Dziersława	Dziersław	subst:sg:acc:m1	imię	
 Dziersława	Dziersław	subst:sg:gen:m1	imię	
@@ -7197,4 +7197,4 @@ Dżyngis-chanów	Dżyngis-chan	subst:pl:acc:m1	tytuł
 Dżyngis-chanów	Dżyngis-chan	subst:pl:gen:m1	tytuł	
 Dżyngis-chany	Dżyngis-chan	depr:pl:nom:m2	tytuł	
 Dżyngis-chany	Dżyngis-chan	depr:pl:voc:m2	tytuł	
-Dn	Księga_Daniela	brev:npun
+Dn	Księga_Daniela	brev:npun		

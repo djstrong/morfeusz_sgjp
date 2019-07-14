@@ -1,7 +1,7 @@
 LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
-Lm	Księga_Lamentacje	brev:npun
-Lam	Księga_Lamentacje	brev:npun
-Lb	Księga_Liczb	brev:npun
+Lm	Księga_Lamentacje	brev:npun		
+Lam	Księga_Lamentacje	brev:npun		
+Lb	Księga_Liczb	brev:npun		
 La	La	burk		
 Labradorach	Labrador	subst:pl:loc:m3	geograficzna	
 Labradorami	Labrador	subst:pl:inst:m3	geograficzna	
@@ -3409,7 +3409,7 @@ Limanowskiem	Limanowskie	subst:sg:loc:n2	geograficzna
 Limanowskiemu	Limanowskie	subst:sg:dat:n2	geograficzna	
 Limanowskimi	Limanowskie	subst:pl:inst:n2	geograficzna	
 Limanowskim	Limanowskie	subst:pl:dat:n2	geograficzna	
-Ltd	limited	brev:pun
+Ltd	limited	brev:pun		
 Limpopo	Limpopo	subst:pl:acc:f	geograficzna	
 Limpopo	Limpopo	subst:pl:acc:n2	geograficzna	
 Limpopo	Limpopo	subst:pl:dat:f	geograficzna	
@@ -4170,7 +4170,7 @@ Loary	Loara	subst:pl:voc:f	geograficzna
 Loary	Loara	subst:sg:gen:f	geograficzna	
 Loarze	Loara	subst:sg:dat:f	geograficzna	
 Loarze	Loara	subst:sg:loc:f	geograficzna	
-L	locativus	brev:pun
+L	locativus	brev:pun		jęz.
 Loccich	Locci	subst:pl:acc:m1	nazwisko	
 Loccich	Locci	subst:pl:gen:m1	nazwisko	
 Loccich	Locci	subst:pl:loc:m1	nazwisko	

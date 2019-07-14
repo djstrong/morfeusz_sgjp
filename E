@@ -3101,7 +3101,7 @@ Eureki	Eureka	subst:pl:voc:f	geograficzna
 Eureki	Eureka	subst:sg:gen:f	geograficzna	
 Eureko	Eureka	subst:sg:voc:f	geograficzna	
 Eurekom	Eureka	subst:pl:dat:f	geograficzna	
-EUR	euro	brev:npun
+EUR	euro	brev:npun		
 Europach	Europa	subst:pl:loc:f	geograficzna	
 Europa	Europa	subst:sg:nom:f	geograficzna	
 Europami	Europa	subst:pl:inst:f	geograficzna	
@@ -3692,8 +3692,8 @@ Ezopów	Ezop	subst:pl:acc:m1	imię
 Ezopów	Ezop	subst:pl:gen:m1	imię	
 Ezopy	Ezop	depr:pl:nom:m2	imię	
 Ezopy	Ezop	depr:pl:voc:m2	imię	
-Est	Księga_Estery	brev:npun
-Ezd	Księga_Ezdrasza	brev:npun
-Ez	Księga_Ezechiela	brev:npun
-Eze	Księga_Ezechiela	brev:npun
-Ef	List_do_Efezjan	brev:npun
+Est	Księga_Estery	brev:npun		
+Ezd	Księga_Ezdrasza	brev:npun		
+Ez	Księga_Ezechiela	brev:npun		
+Eze	Księga_Ezechiela	brev:npun		
+Ef	List_do_Efezjan	brev:npun		

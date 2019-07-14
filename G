@@ -1637,7 +1637,7 @@ Gayów	Gay	subst:pl:acc:m1	nazwisko
 Gayów	Gay	subst:pl:gen:m1	nazwisko	
 Gayu	Gay	subst:sg:loc:m1	nazwisko	
 Gayu	Gay	subst:sg:voc:m1	nazwisko	
-GW	Gazeta_Wyborcza	brev:npun
+GW	Gazeta_Wyborcza	brev:npun		
 Gąsienicach	Gąsienica	subst:pl:loc:m1	nazwisko	
 Gąsienica	Gąsienica	subst:sg:nom:m1	nazwisko	
 Gąsienicami	Gąsienica	subst:pl:inst:m1	nazwisko	
@@ -1937,7 +1937,7 @@ Genesis	Genesis	subst:sg:inst:f	tytuł
 Genesis	Genesis	subst:sg:loc:f	tytuł	
 Genesis	Genesis	subst:sg:nom:f	tytuł	
 Genesis	Genesis	subst:sg:voc:f	tytuł	
-Gen	Genesis	brev:pun
+Gen	Genesis	brev:pun		
 Genecie	Genet	subst:sg:loc:m1	nazwisko	
 Genecie	Genet	subst:sg:voc:m1	nazwisko	
 Genetach	Genet	subst:pl:loc:m1	nazwisko	
@@ -1954,7 +1954,7 @@ Genetów	Genet	subst:pl:acc:m1	nazwisko
 Genetów	Genet	subst:pl:gen:m1	nazwisko	
 Genety	Genet	depr:pl:nom:m2	nazwisko	
 Genety	Genet	depr:pl:voc:m2	nazwisko	
-G	genetivus	brev:pun
+G	genetivus	brev:pun		jęz.
 Genewach	Genewa	subst:pl:loc:f	geograficzna	
 Genewa	Genewa	subst:sg:nom:f	geograficzna	
 Genewami	Genewa	subst:pl:inst:f	geograficzna	
@@ -2893,7 +2893,7 @@ Gieysztory	Gieysztor	depr:pl:nom:m2	nazwisko
 Gieysztory	Gieysztor	depr:pl:voc:m2	nazwisko	
 Gieysztorze	Gieysztor	subst:sg:loc:m1	nazwisko	
 Gieysztorze	Gieysztor	subst:sg:voc:m1	nazwisko	
-GB	gigabajt	brev:npun
+GB	gigabajt	brev:npun		komp.
 Gilach	Gil	subst:pl:loc:m1	nazwisko	
 Gila	Gil	subst:sg:acc:m1	nazwisko	
 Gila	Gil	subst:sg:gen:m1	nazwisko	
@@ -8452,5 +8452,5 @@ Gwinei	Gwinea	subst:sg:gen:f	geograficzna
 Gwinei	Gwinea	subst:sg:loc:f	geograficzna	
 Gwineo	Gwinea	subst:sg:voc:f	geograficzna	
 Gwineom	Gwinea	subst:pl:dat:f	geograficzna	
-Ga	List_do_Galatów	brev:npun
-Gal	List_do_Galatów	brev:npun
+Ga	List_do_Galatów	brev:npun		
+Gal	List_do_Galatów	brev:npun		

@@ -160,8 +160,8 @@ iberystyki	iberystyka	subst:pl:voc:f	pospolita
 iberystyki	iberystyka	subst:sg:gen:f	pospolita	
 iberystyko	iberystyka	subst:sg:voc:f	pospolita	
 iberystykom	iberystyka	subst:pl:dat:f	pospolita	
-ib	ibidem	brev:pun
-ibid	ibidem	brev:pun
+ib	ibidem	brev:pun		
+ibid	ibidem	brev:pun		
 ibisach	ibis	subst:pl:loc:m2	pospolita	
 ibisa	ibis	subst:sg:acc:m2	pospolita	
 ibisa	ibis	subst:sg:gen:m2	pospolita	
@@ -8994,7 +8994,7 @@ imielińskości	imielińskość	subst:sg:voc:f
 imielińskościom	imielińskość	subst:pl:dat:f		
 imielińskość	imielińskość	subst:sg:acc:f		
 imielińskość	imielińskość	subst:sg:nom:f		
-im	imienia	brev:pun
+im	imienia	brev:pun		
 imieniach	imienie	subst:pl:loc:n2	pospolita	daw.
 imienia	imienie	subst:pl:acc:n2	pospolita	daw.
 imienia	imienie	subst:pl:nom:n2	pospolita	daw.
@@ -14517,7 +14517,7 @@ in	in	subst:sg:inst:n2	pospolita
 in	in	subst:sg:loc:n2	pospolita	
 in	in	subst:sg:nom:n2	pospolita	
 in	in	subst:sg:voc:n2	pospolita	
-in	inaczej	brev:pun
+in	inaczej	brev:pun		
 inaczej	inaczej:d	adv		
 inaczej	inaczej:j	conj		
 inacząca	inaczyć	pact:sg:nom.voc:f:imperf:aff		
@@ -16285,7 +16285,7 @@ indoeuropejskim	indoeuropejski	adj:sg:inst:m1.m2.m3.n1.n2:pos
 indoeuropejskim	indoeuropejski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 indoeuropejsko	indoeuropejski	adja		
 indoeuropejsku	indoeuropejski	adjp		
-ie	indoeuropejski	brev:pun
+ie	indoeuropejski	brev:pun		
 indoeuropejsko	indoeuropejsko	adv:pos		
 indoeuropejskościach	indoeuropejskość	subst:pl:loc:f		
 indoeuropejskościami	indoeuropejskość	subst:pl:inst:f		
@@ -24689,7 +24689,7 @@ innsbruckości	innsbruckość	subst:sg:voc:f
 innsbruckościom	innsbruckość	subst:pl:dat:f		
 innsbruckość	innsbruckość	subst:sg:acc:f		
 innsbruckość	innsbruckość	subst:sg:nom:f		
-in	inny	brev:pun
+in	inny	brev:pun		
 inna	inny:a	adj:sg:nom.voc:f:pos		
 inną	inny:a	adj:sg:acc:f:pos		
 inną	inny:a	adj:sg:inst:f:pos		
@@ -43224,7 +43224,7 @@ itacyzmu	itacyzm	subst:sg:gen:m3	pospolita
 itacyzmy	itacyzm	subst:pl:acc:m3	pospolita	
 itacyzmy	itacyzm	subst:pl:nom:m3	pospolita	
 itacyzmy	itacyzm	subst:pl:voc:m3	pospolita	
-itd	i_tak_dalej	brev:pun
+itd	i_tak_dalej	brev:pun		
 italianistach	italianista	subst:pl:loc:m1	pospolita	
 italianista	italianista	subst:sg:nom:m1	pospolita	
 italianistami	italianista	subst:pl:inst:m1	pospolita	
@@ -43929,7 +43929,7 @@ itry	itr	subst:pl:nom:m3	pospolita
 itry	itr	subst:pl:voc:m3	pospolita	
 itrze	itr	subst:sg:loc:m3	pospolita	
 itrze	itr	subst:sg:voc:m3	pospolita	
-itp	i_tym_podobne	brev:pun
+itp	i_tym_podobne	brev:pun		
 iwach	iwa	subst:pl:loc:f	pospolita	
 iwa	iwa	subst:sg:nom:f	pospolita	
 iwami	iwa	subst:pl:inst:f	pospolita	

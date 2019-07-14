@@ -1463,7 +1463,7 @@ Cellinim	Cellini	subst:sg:loc:m1	nazwisko
 Cellinimi	Cellini	subst:pl:inst:m1	nazwisko	
 Celliniowie	Cellini	subst:pl:nom:m1	nazwisko	
 Celliniowie	Cellini	subst:pl:voc:m1	nazwisko	
-C	celownik	brev:pun
+C	celownik	brev:pun		jęz.
 Celsjusza	Celsjusz	subst:sg:acc:m1	nazwisko	
 Celsjusza	Celsjusz	subst:sg:gen:m1	nazwisko	
 Celsjuszach	Celsjusz	subst:pl:loc:m1	nazwisko	
@@ -4722,7 +4722,7 @@ Cieślińskim	Cieśliński	subst:pl:dat:m1	nazwisko
 Cieślińskim	Cieśliński	subst:sg:inst:m1	nazwisko	
 Cieślińskim	Cieśliński	subst:sg:loc:m1	nazwisko	
 Cieślińskimi	Cieśliński	subst:pl:inst:m1	nazwisko	
-C	cieśnina	brev:pun
+C	cieśnina	brev:pun		geogr.
 Ciężkowicach	Ciężkowice	subst:pl:loc:p2	geograficzna	rzad.
 Ciężkowicach	Ciężkowice	subst:pl:loc:p3	geograficzna	
 Ciężkowicami	Ciężkowice	subst:pl:inst:p2	geograficzna	rzad.
@@ -5226,7 +5226,7 @@ Columbii	Columbia	subst:sg:loc:f	geograficzna
 Columbij	Columbia	subst:pl:gen:f	geograficzna	arch.|char.
 Columbio	Columbia	subst:sg:voc:f	geograficzna	
 Columbiom	Columbia	subst:pl:dat:f	geograficzna	
-Co	company	brev:pun
+Co	company	brev:pun		
 Compaq	Compaq	subst:pl:acc:m3	firma	
 Compaq	Compaq	subst:pl:dat:m3	firma	
 Compaq	Compaq	subst:pl:gen:m3	firma	
@@ -5417,7 +5417,7 @@ Corotów	Corot	subst:pl:acc:m1	nazwisko
 Corotów	Corot	subst:pl:gen:m1	nazwisko	
 Coroty	Corot	depr:pl:nom:m2	nazwisko	
 Coroty	Corot	depr:pl:voc:m2	nazwisko	
-Corp	corporation	brev:pun
+Corp	corporation	brev:pun		
 Correggiach	Correggio	subst:pl:loc:m1	nazwisko	
 Correggia	Correggio	subst:sg:acc:m1	nazwisko	
 Correggia	Correggio	subst:sg:gen:m1	nazwisko	

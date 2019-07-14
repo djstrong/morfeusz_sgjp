@@ -1,6 +1,6 @@
 THIS SOFTWARE IS PROVIDED BY COPYRIGHT HOLDERS “AS IS” AND ANY EXPRESS
 THE POSSIBILITY OF SUCH DAMAGE.
-Tt	List_do_Tytusa	brev:npun
+Tt	List_do_Tytusa	brev:npun		
 TAB-ach	TAB	subst:pl:loc:m3	pospolita	
 TAB-ami	TAB	subst:pl:inst:m3	pospolita	
 TAB-em	TAB	subst:sg:inst:m3	pospolita	
@@ -2282,6 +2282,24 @@ Tetydy	Tetyda	subst:pl:voc:f	imię	mit.
 Tetydy	Tetyda	subst:sg:gen:f	imię	mit.
 Tetydzie	Tetyda	subst:sg:dat:f	imię	mit.
 Tetydzie	Tetyda	subst:sg:loc:f	imię	mit.
+Teutonach	Teuton	subst:pl:loc:m1	pospolita	
+Teutonami	Teuton	subst:pl:inst:m1	pospolita	
+Teutona	Teuton	subst:sg:acc:m1	pospolita	
+Teutona	Teuton	subst:sg:gen:m1	pospolita	
+Teutonem	Teuton	subst:sg:inst:m1	pospolita	
+Teutonie	Teuton	subst:sg:loc:m1	pospolita	
+Teutonie	Teuton	subst:sg:voc:m1	pospolita	
+Teutoni	Teuton	subst:pl:nom:m1	pospolita	
+Teutoni	Teuton	subst:pl:voc:m1	pospolita	
+Teutonom	Teuton	subst:pl:dat:m1	pospolita	
+Teutonowie	Teuton	subst:pl:nom:m1	pospolita	
+Teutonowie	Teuton	subst:pl:voc:m1	pospolita	
+Teutonowi	Teuton	subst:sg:dat:m1	pospolita	
+Teutonów	Teuton	subst:pl:acc:m1	pospolita	
+Teutonów	Teuton	subst:pl:gen:m1	pospolita	
+Teuton	Teuton	subst:sg:nom:m1	pospolita	
+Teutony	Teuton	depr:pl:nom:m2	pospolita	
+Teutony	Teuton	depr:pl:voc:m2	pospolita	
 Tezcatlipocach	Tezcatlipoca	subst:pl:loc:m1	imię	mit.
 Tezcatlipocami	Tezcatlipoca	subst:pl:inst:m1	imię	mit.
 Tezcatlipoca	Tezcatlipoca	subst:sg:nom:m1	imię	mit.

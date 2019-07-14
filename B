@@ -670,7 +670,7 @@ Bajramu	Bajram	subst:sg:gen:m3	święto
 Bajramy	Bajram	subst:pl:acc:m3	święto	
 Bajramy	Bajram	subst:pl:nom:m3	święto	
 Bajramy	Bajram	subst:pl:voc:m3	święto	
-B	bajt	brev:npun
+B	bajt	brev:npun		komp.
 Bakałarzewa	Bakałarzewo	subst:pl:acc:n2	geograficzna	
 Bakałarzewa	Bakałarzewo	subst:pl:nom:n2	geograficzna	
 Bakałarzewa	Bakałarzewo	subst:pl:voc:n2	geograficzna	
@@ -5978,7 +5978,7 @@ Biernaty	Biernat	depr:pl:nom:m2	imię
 Biernaty	Biernat	depr:pl:nom:m2	nazwisko	
 Biernaty	Biernat	depr:pl:voc:m2	imię	
 Biernaty	Biernat	depr:pl:voc:m2	nazwisko	
-B	biernik	brev:pun
+B	biernik	brev:pun		jęz.
 Bierucie	Bierut	subst:sg:loc:m1	nazwisko	
 Bierucie	Bierut	subst:sg:voc:m1	nazwisko	
 Bieruta	Bierut	subst:sg:acc:m1	nazwisko	
@@ -13506,4 +13506,4 @@ Bzury	Bzura	subst:pl:voc:f	geograficzna
 Bzury	Bzura	subst:sg:gen:f	geograficzna	
 Bzurze	Bzura	subst:sg:dat:f	geograficzna	
 Bzurze	Bzura	subst:sg:loc:f	geograficzna	
-Ba	Księga_Barucha	brev:npun
+Ba	Księga_Barucha	brev:npun		

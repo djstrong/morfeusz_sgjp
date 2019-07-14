@@ -9903,7 +9903,7 @@ laszymi	laszy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
 laszym	laszy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		daw.
 laszym	laszy	adj:sg:inst:m1.m2.m3.n1.n2:pos		daw.
 laszym	laszy	adj:sg:loc:m1.m2.m3.n1.n2:pos		daw.
-l	lata	brev:pun
+l	lata	brev:pun		
 lataczach	latacz:s1	subst:pl:loc:m2	pospolita	
 lataczach	latacz:s1	subst:pl:loc:m2	pospolita	rzad.
 latacza	latacz:s1	subst:sg:acc:m2	pospolita	
@@ -31255,8 +31255,8 @@ liczby	liczba	subst:pl:acc:f	pospolita
 liczby	liczba	subst:pl:nom:f	pospolita	
 liczby	liczba	subst:pl:voc:f	pospolita	
 liczby	liczba	subst:sg:gen:f	pospolita	
-lm	liczba_mnoga	brev:pun
-lp	liczba_pojedyncza	brev:pun
+lm	liczba_mnoga	brev:pun		jęz.
+lp	liczba_pojedyncza	brev:pun		jęz.
 liczbonach	liczbon	subst:pl:loc:m3	pospolita	przest.
 liczbonami	liczbon	subst:pl:inst:m3	pospolita	przest.
 liczbonem	liczbon	subst:sg:inst:m3	pospolita	przest.
@@ -43288,7 +43288,7 @@ litry	litr	subst:pl:nom:m3	pospolita
 litry	litr	subst:pl:voc:m3	pospolita	
 litrze	litr	subst:sg:loc:m3	pospolita	
 litrze	litr	subst:sg:voc:m3	pospolita	
-l	litr	brev:npun
+l	litr	brev:npun		
 liter	litra	subst:pl:gen:f	pospolita	gwar.
 litrach	litra	subst:pl:loc:f	pospolita	gwar.
 litra	litra	subst:sg:nom:f	pospolita	gwar.
@@ -62589,10 +62589,3 @@ lata	rok:s1	subst:pl:voc:m3	pospolita
 latom	rok:s1	subst:pl:dat:m3	pospolita	
 lat	rok:s1	subst:pl:gen:m3	pospolita	
 laty	rok:s1	subst:pl:inst:m3	pospolita	przest.
-libyście	zeschnąć	cond:pl:m1.p1:sec:perf		
-libyśmy	zeschnąć	cond:pl:m1.p1:pri:perf		
-liby	zeschnąć	cond:pl:m1.p1:ter:perf		
-liście	zeschnąć	praet:pl:m1.p1:sec:perf		
-liśmy	zeschnąć	praet:pl:m1.p1:pri:perf		
-li	zeschnąć	praet:pl:m1.p1:perf		
-li	zeschnąć	praet:pl:m1.p1:ter:perf		
