@@ -8401,77 +8401,124 @@ jarzmowymi	jarzmowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos
 jarzmowym	jarzmowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 jarzmowym	jarzmowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
 jarzmowym	jarzmowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
-jarząca	jarzyć	pact:sg:nom.voc:f:imperf:aff		
-jarzącą	jarzyć	pact:sg:acc.inst:f:imperf:aff		
-jarzącego	jarzyć	pact:sg:acc:m1.m2:imperf:aff		
-jarzącego	jarzyć	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
-jarzące	jarzyć	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
-jarzące	jarzyć	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
-jarzącej	jarzyć	pact:sg:gen.dat.loc:f:imperf:aff		
-jarzącemu	jarzyć	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
-jarząc	jarzyć	pcon:imperf		
-jarzących	jarzyć	pact:pl:acc:m1.p1:imperf:aff		
-jarzących	jarzyć	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jarzący	jarzyć	pact:pl:nom.voc:m1.p1:imperf:aff		
-jarzący	jarzyć	pact:sg:acc:m3:imperf:aff		
-jarzący	jarzyć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
-jarzącymi	jarzyć	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jarzącym	jarzyć	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
-jarzącym	jarzyć	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
-jarzą	jarzyć	fin:pl:ter:imperf		
-jarzcie	jarzyć	impt:pl:sec:imperf		
-jarzenia	jarzyć	ger:pl:nom.acc:n2:imperf:aff		
-jarzenia	jarzyć	ger:sg:gen:n2:imperf:aff		
-jarzeniami	jarzyć	ger:pl:inst:n2:imperf:aff		
-jarzenie	jarzyć	ger:sg:nom.acc:n2:imperf:aff		
-jarzeniem	jarzyć	ger:sg:inst:n2:imperf:aff		
-jarzeniom	jarzyć	ger:pl:dat.loc:n2:imperf:aff		
-jarzeniu	jarzyć	ger:sg:dat.loc:n2:imperf:aff		
-jarzeń	jarzyć	ger:pl:gen:n2:imperf:aff		
-jarzę	jarzyć	fin:sg:pri:imperf		
-jarz	jarzyć	impt:sg:sec:imperf		
-jarzmy	jarzyć	impt:pl:pri:imperf		
-jarzono	jarzyć	imps:imperf		
-jarzycie	jarzyć	fin:pl:sec:imperf		
-jarzyć	jarzyć	inf:imperf		
-jarzy	jarzyć	fin:sg:ter:imperf		
-jarzyliby	jarzyć	cond:pl:m1.p1:ter:imperf		
-jarzylibyście	jarzyć	cond:pl:m1.p1:sec:imperf		
-jarzylibyśmy	jarzyć	cond:pl:m1.p1:pri:imperf		
-jarzyli	jarzyć	praet:pl:m1.p1:imperf		
-jarzyli	jarzyć	praet:pl:m1.p1:ter:imperf		
-jarzyliście	jarzyć	praet:pl:m1.p1:sec:imperf		
-jarzyliśmy	jarzyć	praet:pl:m1.p1:pri:imperf		
-jarzyłaby	jarzyć	cond:sg:f:ter:imperf		
-jarzyłabym	jarzyć	cond:sg:f:pri:imperf		
-jarzyłabyś	jarzyć	cond:sg:f:sec:imperf		
-jarzyła	jarzyć	praet:sg:f:imperf		
-jarzyła	jarzyć	praet:sg:f:ter:imperf		
-jarzyłam	jarzyć	praet:sg:f:pri:imperf		
-jarzyłaś	jarzyć	praet:sg:f:sec:imperf		
-jarzyłby	jarzyć	cond:sg:m1.m2.m3:ter:imperf		
-jarzyłbym	jarzyć	cond:sg:m1.m2.m3:pri:imperf		
-jarzyłbyś	jarzyć	cond:sg:m1.m2.m3:sec:imperf		
-jarzyłem	jarzyć	praet:sg:m1.m2.m3:pri:imperf		
-jarzyłeś	jarzyć	praet:sg:m1.m2.m3:sec:imperf		
-jarzył	jarzyć	praet:sg:m1.m2.m3:imperf		
-jarzył	jarzyć	praet:sg:m1.m2.m3:ter:imperf		
-jarzyłoby	jarzyć	cond:sg:n1.n2:ter:imperf		
-jarzyłobym	jarzyć	cond:sg:n1.n2:pri:imperf		
-jarzyłobyś	jarzyć	cond:sg:n1.n2:sec:imperf		
-jarzyło	jarzyć	praet:sg:n1.n2:imperf		
-jarzyło	jarzyć	praet:sg:n1.n2:ter:imperf		
-jarzyłom	jarzyć	praet:sg:n1.n2:pri:imperf		
-jarzyłoś	jarzyć	praet:sg:n1.n2:sec:imperf		
-jarzyłyby	jarzyć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
-jarzyłybyście	jarzyć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
-jarzyłybyśmy	jarzyć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-jarzyły	jarzyć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
-jarzyły	jarzyć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
-jarzyłyście	jarzyć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
-jarzyłyśmy	jarzyć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
-jarzymy	jarzyć	fin:pl:pri:imperf		
-jarzysz	jarzyć	fin:sg:sec:imperf		
+jarząca	jarzyć:v1	pact:sg:nom.voc:f:imperf:aff		
+jarzącą	jarzyć:v1	pact:sg:acc.inst:f:imperf:aff		
+jarzącego	jarzyć:v1	pact:sg:acc:m1.m2:imperf:aff		
+jarzącego	jarzyć:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+jarzące	jarzyć:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+jarzące	jarzyć:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+jarzącej	jarzyć:v1	pact:sg:gen.dat.loc:f:imperf:aff		
+jarzącemu	jarzyć:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+jarząc	jarzyć:v1	pcon:imperf		
+jarzących	jarzyć:v1	pact:pl:acc:m1.p1:imperf:aff		
+jarzących	jarzyć:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jarzący	jarzyć:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
+jarzący	jarzyć:v1	pact:sg:acc:m3:imperf:aff		
+jarzący	jarzyć:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+jarzącymi	jarzyć:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jarzącym	jarzyć:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+jarzącym	jarzyć:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+jarzą	jarzyć:v1	fin:pl:ter:imperf		
+jarzcie	jarzyć:v1	impt:pl:sec:imperf		
+jarzenia	jarzyć:v1	ger:pl:nom.acc:n2:imperf:aff		
+jarzenia	jarzyć:v1	ger:sg:gen:n2:imperf:aff		
+jarzeniami	jarzyć:v1	ger:pl:inst:n2:imperf:aff		
+jarzenie	jarzyć:v1	ger:sg:nom.acc:n2:imperf:aff		
+jarzeniem	jarzyć:v1	ger:sg:inst:n2:imperf:aff		
+jarzeniom	jarzyć:v1	ger:pl:dat.loc:n2:imperf:aff		
+jarzeniu	jarzyć:v1	ger:sg:dat.loc:n2:imperf:aff		
+jarzeń	jarzyć:v1	ger:pl:gen:n2:imperf:aff		
+jarzę	jarzyć:v1	fin:sg:pri:imperf		
+jarz	jarzyć:v1	impt:sg:sec:imperf		
+jarzmy	jarzyć:v1	impt:pl:pri:imperf		
+jarzono	jarzyć:v1	imps:imperf		
+jarzycie	jarzyć:v1	fin:pl:sec:imperf		
+jarzyć	jarzyć:v1	inf:imperf		
+jarzy	jarzyć:v1	fin:sg:ter:imperf		
+jarzyliby	jarzyć:v1	cond:pl:m1.p1:ter:imperf		
+jarzylibyście	jarzyć:v1	cond:pl:m1.p1:sec:imperf		
+jarzylibyśmy	jarzyć:v1	cond:pl:m1.p1:pri:imperf		
+jarzyli	jarzyć:v1	praet:pl:m1.p1:imperf		
+jarzyli	jarzyć:v1	praet:pl:m1.p1:ter:imperf		
+jarzyliście	jarzyć:v1	praet:pl:m1.p1:sec:imperf		
+jarzyliśmy	jarzyć:v1	praet:pl:m1.p1:pri:imperf		
+jarzyłaby	jarzyć:v1	cond:sg:f:ter:imperf		
+jarzyłabym	jarzyć:v1	cond:sg:f:pri:imperf		
+jarzyłabyś	jarzyć:v1	cond:sg:f:sec:imperf		
+jarzyła	jarzyć:v1	praet:sg:f:imperf		
+jarzyła	jarzyć:v1	praet:sg:f:ter:imperf		
+jarzyłam	jarzyć:v1	praet:sg:f:pri:imperf		
+jarzyłaś	jarzyć:v1	praet:sg:f:sec:imperf		
+jarzyłby	jarzyć:v1	cond:sg:m1.m2.m3:ter:imperf		
+jarzyłbym	jarzyć:v1	cond:sg:m1.m2.m3:pri:imperf		
+jarzyłbyś	jarzyć:v1	cond:sg:m1.m2.m3:sec:imperf		
+jarzyłem	jarzyć:v1	praet:sg:m1.m2.m3:pri:imperf		
+jarzyłeś	jarzyć:v1	praet:sg:m1.m2.m3:sec:imperf		
+jarzył	jarzyć:v1	praet:sg:m1.m2.m3:imperf		
+jarzył	jarzyć:v1	praet:sg:m1.m2.m3:ter:imperf		
+jarzyłoby	jarzyć:v1	cond:sg:n1.n2:ter:imperf		
+jarzyłobym	jarzyć:v1	cond:sg:n1.n2:pri:imperf		
+jarzyłobyś	jarzyć:v1	cond:sg:n1.n2:sec:imperf		
+jarzyło	jarzyć:v1	praet:sg:n1.n2:imperf		
+jarzyło	jarzyć:v1	praet:sg:n1.n2:ter:imperf		
+jarzyłom	jarzyć:v1	praet:sg:n1.n2:pri:imperf		
+jarzyłoś	jarzyć:v1	praet:sg:n1.n2:sec:imperf		
+jarzyłyby	jarzyć:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+jarzyłybyście	jarzyć:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+jarzyłybyśmy	jarzyć:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+jarzyły	jarzyć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+jarzyły	jarzyć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+jarzyłyście	jarzyć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+jarzyłyśmy	jarzyć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+jarzymy	jarzyć:v1	fin:pl:pri:imperf		
+jarzysz	jarzyć:v1	fin:sg:sec:imperf		
+jarząc	jarzyć:v2	pcon:imperf		pot.
+jarzą	jarzyć:v2	fin:pl:ter:imperf		pot.
+jarzcie	jarzyć:v2	impt:pl:sec:imperf		pot.
+jarzę	jarzyć:v2	fin:sg:pri:imperf		pot.
+jarz	jarzyć:v2	impt:sg:sec:imperf		pot.
+jarzmy	jarzyć:v2	impt:pl:pri:imperf		pot.
+jarzono	jarzyć:v2	imps:imperf		pot.
+jarzycie	jarzyć:v2	fin:pl:sec:imperf		pot.
+jarzyć	jarzyć:v2	inf:imperf		pot.
+jarzy	jarzyć:v2	fin:sg:ter:imperf		pot.
+jarzyliby	jarzyć:v2	cond:pl:m1.p1:ter:imperf		pot.
+jarzylibyście	jarzyć:v2	cond:pl:m1.p1:sec:imperf		pot.
+jarzylibyśmy	jarzyć:v2	cond:pl:m1.p1:pri:imperf		pot.
+jarzyli	jarzyć:v2	praet:pl:m1.p1:imperf		pot.
+jarzyli	jarzyć:v2	praet:pl:m1.p1:ter:imperf		pot.
+jarzyliście	jarzyć:v2	praet:pl:m1.p1:sec:imperf		pot.
+jarzyliśmy	jarzyć:v2	praet:pl:m1.p1:pri:imperf		pot.
+jarzyłaby	jarzyć:v2	cond:sg:f:ter:imperf		pot.
+jarzyłabym	jarzyć:v2	cond:sg:f:pri:imperf		pot.
+jarzyłabyś	jarzyć:v2	cond:sg:f:sec:imperf		pot.
+jarzyła	jarzyć:v2	praet:sg:f:imperf		pot.
+jarzyła	jarzyć:v2	praet:sg:f:ter:imperf		pot.
+jarzyłam	jarzyć:v2	praet:sg:f:pri:imperf		pot.
+jarzyłaś	jarzyć:v2	praet:sg:f:sec:imperf		pot.
+jarzyłby	jarzyć:v2	cond:sg:m1.m2.m3:ter:imperf		pot.
+jarzyłbym	jarzyć:v2	cond:sg:m1.m2.m3:pri:imperf		pot.
+jarzyłbyś	jarzyć:v2	cond:sg:m1.m2.m3:sec:imperf		pot.
+jarzyłem	jarzyć:v2	praet:sg:m1.m2.m3:pri:imperf		pot.
+jarzyłeś	jarzyć:v2	praet:sg:m1.m2.m3:sec:imperf		pot.
+jarzył	jarzyć:v2	praet:sg:m1.m2.m3:imperf		pot.
+jarzył	jarzyć:v2	praet:sg:m1.m2.m3:ter:imperf		pot.
+jarzyłoby	jarzyć:v2	cond:sg:n1.n2:ter:imperf		pot.
+jarzyłobym	jarzyć:v2	cond:sg:n1.n2:pri:imperf		pot.
+jarzyłobyś	jarzyć:v2	cond:sg:n1.n2:sec:imperf		pot.
+jarzyło	jarzyć:v2	praet:sg:n1.n2:imperf		pot.
+jarzyło	jarzyć:v2	praet:sg:n1.n2:ter:imperf		pot.
+jarzyłom	jarzyć:v2	praet:sg:n1.n2:pri:imperf		pot.
+jarzyłoś	jarzyć:v2	praet:sg:n1.n2:sec:imperf		pot.
+jarzyłyby	jarzyć:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		pot.
+jarzyłybyście	jarzyć:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		pot.
+jarzyłybyśmy	jarzyć:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		pot.
+jarzyły	jarzyć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		pot.
+jarzyły	jarzyć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		pot.
+jarzyłyście	jarzyć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		pot.
+jarzyłyśmy	jarzyć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		pot.
+jarzymy	jarzyć:v2	fin:pl:pri:imperf		pot.
+jarzysz	jarzyć:v2	fin:sg:sec:imperf		pot.
 jarzynach	jarzyna	subst:pl:loc:f	pospolita	
 jarzyna	jarzyna	subst:sg:nom:f	pospolita	
 jarzynami	jarzyna	subst:pl:inst:f	pospolita	

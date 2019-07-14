@@ -406,13 +406,29 @@ nieabsorbujących	absorbować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:n
 nieabsorbującym	absorbować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
 nieabsorbującym	absorbować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
 nieabsorbującymi	absorbować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+nieabstrahowana	abstrahować	ppas:sg:nom.voc:f:imperf:neg		rzad.
+nieabstrahowaną	abstrahować	ppas:sg:acc.inst:f:imperf:neg		rzad.
+nieabstrahowane	abstrahować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		rzad.
+nieabstrahowane	abstrahować	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		rzad.
+nieabstrahowanego	abstrahować	ppas:sg:acc:m1.m2:imperf:neg		rzad.
+nieabstrahowanego	abstrahować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		rzad.
+nieabstrahowanej	abstrahować	ppas:sg:gen.dat.loc:f:imperf:neg		rzad.
+nieabstrahowanemu	abstrahować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		rzad.
 nieabstrahowania	abstrahować	ger:pl:nom.acc:n2:imperf:neg		
 nieabstrahowania	abstrahować	ger:sg:gen:n2:imperf:neg		
+nieabstrahowani	abstrahować	ppas:pl:nom.voc:m1.p1:imperf:neg		rzad.
 nieabstrahowaniami	abstrahować	ger:pl:inst:n2:imperf:neg		
 nieabstrahowanie	abstrahować	ger:sg:nom.acc:n2:imperf:neg		
 nieabstrahowaniem	abstrahować	ger:sg:inst:n2:imperf:neg		
 nieabstrahowaniom	abstrahować	ger:pl:dat.loc:n2:imperf:neg		
 nieabstrahowaniu	abstrahować	ger:sg:dat.loc:n2:imperf:neg		
+nieabstrahowany	abstrahować	ppas:sg:acc:m3:imperf:neg		rzad.
+nieabstrahowany	abstrahować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		rzad.
+nieabstrahowanych	abstrahować	ppas:pl:acc:m1.p1:imperf:neg		rzad.
+nieabstrahowanych	abstrahować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		rzad.
+nieabstrahowanym	abstrahować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		rzad.
+nieabstrahowanym	abstrahować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		rzad.
+nieabstrahowanymi	abstrahować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		rzad.
 nieabstrahowań	abstrahować	ger:pl:gen:n2:imperf:neg		
 nieabstrahująca	abstrahować	pact:sg:nom.voc:f:imperf:neg		
 nieabstrahującą	abstrahować	pact:sg:acc.inst:f:imperf:neg		
@@ -6526,13 +6542,29 @@ nieasymilujących	asymilować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:n
 nieasymilującym	asymilować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
 nieasymilującym	asymilować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
 nieasymilującymi	asymilować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+nieasystowana	asystować	ppas:sg:nom.voc:f:imperf:neg		
+nieasystowaną	asystować	ppas:sg:acc.inst:f:imperf:neg		
+nieasystowane	asystować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+nieasystowane	asystować	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		
+nieasystowanego	asystować	ppas:sg:acc:m1.m2:imperf:neg		
+nieasystowanego	asystować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+nieasystowanej	asystować	ppas:sg:gen.dat.loc:f:imperf:neg		
+nieasystowanemu	asystować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
 nieasystowania	asystować	ger:pl:nom.acc:n2:imperf:neg		
 nieasystowania	asystować	ger:sg:gen:n2:imperf:neg		
 nieasystowaniami	asystować	ger:pl:inst:n2:imperf:neg		
+nieasystowani	asystować	ppas:pl:nom.voc:m1.p1:imperf:neg		
 nieasystowanie	asystować	ger:sg:nom.acc:n2:imperf:neg		
 nieasystowaniem	asystować	ger:sg:inst:n2:imperf:neg		
 nieasystowaniom	asystować	ger:pl:dat.loc:n2:imperf:neg		
 nieasystowaniu	asystować	ger:sg:dat.loc:n2:imperf:neg		
+nieasystowany	asystować	ppas:sg:acc:m3:imperf:neg		
+nieasystowany	asystować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+nieasystowanych	asystować	ppas:pl:acc:m1.p1:imperf:neg		
+nieasystowanych	asystować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+nieasystowanym	asystować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+nieasystowanym	asystować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+nieasystowanymi	asystować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
 nieasystowań	asystować	ger:pl:gen:n2:imperf:neg		
 nieasystująca	asystować	pact:sg:nom.voc:f:imperf:neg		
 nieasystującą	asystować	pact:sg:acc.inst:f:imperf:neg		
