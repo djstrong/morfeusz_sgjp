@@ -1,3 +1,4 @@
+J	Ewangelia_świętego_Jana	brev:npun		
 Jaabesach	Jaabes	subst:pl:loc:m1	imię	
 Jaabesa	Jaabes	subst:sg:acc:m1	imię	
 Jaabesa	Jaabes	subst:sg:gen:m1	imię	

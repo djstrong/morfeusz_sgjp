@@ -18110,6 +18110,72 @@ feeryzujesz	feeryzować	fin:sg:sec:imperf
 feeryzuję	feeryzować	fin:sg:pri:imperf		
 feeryzuj	feeryzować	impt:sg:sec:imperf		
 feeryzujmy	feeryzować	impt:pl:pri:imperf		
+fejkach	fejk	subst:pl:loc:m2	nazwa pospolita	pot.
+fejkach	fejk	subst:pl:loc:m3	nazwa pospolita	pot.
+fejka	fejk	subst:sg:acc:m2	nazwa pospolita	pot.
+fejka	fejk	subst:sg:gen:m2	nazwa pospolita	pot.
+fejka	fejk	subst:sg:gen:m3	nazwa pospolita	pot.
+fejkami	fejk	subst:pl:inst:m2	nazwa pospolita	pot.
+fejkami	fejk	subst:pl:inst:m3	nazwa pospolita	pot.
+fejk	fejk	subst:sg:acc:m3	nazwa pospolita	pot.
+fejk	fejk	subst:sg:nom:m2	nazwa pospolita	pot.
+fejk	fejk	subst:sg:nom:m3	nazwa pospolita	pot.
+fejkiem	fejk	subst:sg:inst:m2	nazwa pospolita	pot.
+fejkiem	fejk	subst:sg:inst:m3	nazwa pospolita	pot.
+fejki	fejk	subst:pl:acc:m2	nazwa pospolita	pot.
+fejki	fejk	subst:pl:acc:m3	nazwa pospolita	pot.
+fejki	fejk	subst:pl:nom:m2	nazwa pospolita	pot.
+fejki	fejk	subst:pl:nom:m3	nazwa pospolita	pot.
+fejki	fejk	subst:pl:voc:m2	nazwa pospolita	pot.
+fejki	fejk	subst:pl:voc:m3	nazwa pospolita	pot.
+fejkom	fejk	subst:pl:dat:m2	nazwa pospolita	pot.
+fejkom	fejk	subst:pl:dat:m3	nazwa pospolita	pot.
+fejkowi	fejk	subst:sg:dat:m2	nazwa pospolita	pot.
+fejkowi	fejk	subst:sg:dat:m3	nazwa pospolita	pot.
+fejków	fejk	subst:pl:gen:m2	nazwa pospolita	pot.
+fejków	fejk	subst:pl:gen:m3	nazwa pospolita	pot.
+fejku	fejk	subst:sg:loc:m2	nazwa pospolita	pot.
+fejku	fejk	subst:sg:loc:m3	nazwa pospolita	pot.
+fejku	fejk	subst:sg:voc:m2	nazwa pospolita	pot.
+fejku	fejk	subst:sg:voc:m3	nazwa pospolita	pot.
+fejkowościach	fejkowość	subst:pl:loc:f	nazwa pospolita	
+fejkowościami	fejkowość	subst:pl:inst:f	nazwa pospolita	
+fejkowością	fejkowość	subst:sg:inst:f	nazwa pospolita	
+fejkowości	fejkowość	subst:pl:acc:f	nazwa pospolita	
+fejkowości	fejkowość	subst:pl:gen:f	nazwa pospolita	
+fejkowości	fejkowość	subst:pl:nom:f	nazwa pospolita	
+fejkowości	fejkowość	subst:pl:voc:f	nazwa pospolita	
+fejkowości	fejkowość	subst:sg:dat:f	nazwa pospolita	
+fejkowości	fejkowość	subst:sg:gen:f	nazwa pospolita	
+fejkowości	fejkowość	subst:sg:loc:f	nazwa pospolita	
+fejkowości	fejkowość	subst:sg:voc:f	nazwa pospolita	
+fejkowościom	fejkowość	subst:pl:dat:f	nazwa pospolita	
+fejkowość	fejkowość	subst:sg:acc:f	nazwa pospolita	
+fejkowość	fejkowość	subst:sg:nom:f	nazwa pospolita	
+fejkowa	fejkowy	adj:sg:nom.voc:f:pos		
+fejkową	fejkowy	adj:sg:acc:f:pos		
+fejkową	fejkowy	adj:sg:inst:f:pos		
+fejkowe	fejkowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+fejkowe	fejkowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+fejkowe	fejkowy	adj:sg:acc:n1.n2:pos		
+fejkowe	fejkowy	adj:sg:nom.voc:n1.n2:pos		
+fejkowego	fejkowy	adj:sg:acc:m1.m2:pos		
+fejkowego	fejkowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+fejkowej	fejkowy	adj:sg:dat:f:pos		
+fejkowej	fejkowy	adj:sg:gen:f:pos		
+fejkowej	fejkowy	adj:sg:loc:f:pos		
+fejkowemu	fejkowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+fejkowi	fejkowy	adj:pl:nom.voc:m1.p1:pos		
+fejkowo	fejkowy	adja		
+fejkowych	fejkowy	adj:pl:acc:m1.p1:pos		
+fejkowych	fejkowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+fejkowych	fejkowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+fejkowy	fejkowy	adj:sg:acc:m3:pos		
+fejkowy	fejkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+fejkowym	fejkowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+fejkowym	fejkowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+fejkowym	fejkowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+fejkowymi	fejkowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 fejletonach	fejleton	subst:pl:loc:m3	nazwa pospolita	przest.
 fejletonami	fejleton	subst:pl:inst:m3	nazwa pospolita	przest.
 fejletonem	fejleton	subst:sg:inst:m3	nazwa pospolita	przest.
