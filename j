@@ -33835,6 +33835,66 @@ judeochrześcijańskości	judeochrześcijańskość	subst:sg:voc:f	nazwa_pospoli
 judeochrześcijańskościom	judeochrześcijańskość	subst:pl:dat:f	nazwa_pospolita	
 judeochrześcijańskość	judeochrześcijańskość	subst:sg:acc:f	nazwa_pospolita	
 judeochrześcijańskość	judeochrześcijańskość	subst:sg:nom:f	nazwa_pospolita	
+judeofobach	judeofob	subst:pl:loc:m1	nazwa_pospolita	
+judeofoba	judeofob	subst:sg:gen.acc:m1	nazwa_pospolita	
+judeofobami	judeofob	subst:pl:inst:m1	nazwa_pospolita	
+judeofobem	judeofob	subst:sg:inst:m1	nazwa_pospolita	
+judeofobie	judeofob	subst:sg:loc:m1	nazwa_pospolita	
+judeofobie	judeofob	subst:sg:voc:m1	nazwa_pospolita	
+judeofobi	judeofob	subst:pl:nom.voc:m1	nazwa_pospolita	
+judeofob	judeofob	subst:sg:nom:m1	nazwa_pospolita	
+judeofobom	judeofob	subst:pl:dat:m1	nazwa_pospolita	
+judeofobowie	judeofob	subst:pl:nom.voc:m1	nazwa_pospolita	
+judeofobowi	judeofob	subst:sg:dat:m1	nazwa_pospolita	
+judeofobów	judeofob	subst:pl:gen.acc:m1	nazwa_pospolita	
+judeofoby	judeofob	depr:pl:nom.acc.voc:m2	nazwa_pospolita	
+judeofobiach	judeofobia	subst:pl:loc:f	nazwa_pospolita	
+judeofobia	judeofobia	subst:sg:nom:f	nazwa_pospolita	
+judeofobiami	judeofobia	subst:pl:inst:f	nazwa_pospolita	
+judeofobią	judeofobia	subst:sg:inst:f	nazwa_pospolita	
+judeofobie	judeofobia	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+judeofobię	judeofobia	subst:sg:acc:f	nazwa_pospolita	
+judeofobii	judeofobia	subst:pl:gen:f	nazwa_pospolita	hom.
+judeofobii	judeofobia	subst:sg:dat.loc:f	nazwa_pospolita	
+judeofobii	judeofobia	subst:sg:gen:f	nazwa_pospolita	
+judeofobij	judeofobia	subst:pl:gen:f	nazwa_pospolita	arch.|char.
+judeofobio	judeofobia	subst:sg:voc:f	nazwa_pospolita	
+judeofobiom	judeofobia	subst:pl:dat:f	nazwa_pospolita	
+judeofobicznościach	judeofobiczność	subst:pl:loc:f		
+judeofobicznościami	judeofobiczność	subst:pl:inst:f		
+judeofobicznością	judeofobiczność	subst:sg:inst:f		
+judeofobiczności	judeofobiczność	subst:pl:gen:f		
+judeofobiczności	judeofobiczność	subst:pl:nom.acc.voc:f		
+judeofobiczności	judeofobiczność	subst:sg:dat.loc:f		
+judeofobiczności	judeofobiczność	subst:sg:gen:f		
+judeofobiczności	judeofobiczność	subst:sg:voc:f		
+judeofobicznościom	judeofobiczność	subst:pl:dat:f		
+judeofobiczność	judeofobiczność	subst:sg:acc:f		
+judeofobiczność	judeofobiczność	subst:sg:nom:f		
+judeofobiczna	judeofobiczny	adj:sg:nom.voc:f:pos		
+judeofobiczną	judeofobiczny	adj:sg:acc:f:pos		
+judeofobiczną	judeofobiczny	adj:sg:inst:f:pos		
+judeofobicznego	judeofobiczny	adj:sg:acc:m1.m2:pos		
+judeofobicznego	judeofobiczny	adj:sg:gen:m1.m2.m3.n:pos		
+judeofobicznej	judeofobiczny	adj:sg:dat:f:pos		
+judeofobicznej	judeofobiczny	adj:sg:gen:f:pos		
+judeofobicznej	judeofobiczny	adj:sg:loc:f:pos		
+judeofobiczne	judeofobiczny	adj:pl:acc:m2.m3.f.n:pos		
+judeofobiczne	judeofobiczny	adj:pl:nom.voc:m2.m3.f.n:pos		
+judeofobiczne	judeofobiczny	adj:sg:acc:n:pos		
+judeofobiczne	judeofobiczny	adj:sg:nom.voc:n:pos		
+judeofobicznemu	judeofobiczny	adj:sg:dat:m1.m2.m3.n:pos		
+judeofobiczni	judeofobiczny	adj:pl:nom.voc:m1:pos		
+judeofobiczno	judeofobiczny	adja		
+judeofobicznych	judeofobiczny	adj:pl:acc:m1:pos		
+judeofobicznych	judeofobiczny	adj:pl:gen:m1.m2.m3.f.n:pos		
+judeofobicznych	judeofobiczny	adj:pl:loc:m1.m2.m3.f.n:pos		
+judeofobiczny	judeofobiczny	adj:sg:acc:m3:pos		
+judeofobiczny	judeofobiczny	adj:sg:nom.voc:m1.m2.m3:pos		
+judeofobicznymi	judeofobiczny	adj:pl:inst:m1.m2.m3.f.n:pos		
+judeofobicznym	judeofobiczny	adj:pl:dat:m1.m2.m3.f.n:pos		
+judeofobicznym	judeofobiczny	adj:sg:inst:m1.m2.m3.n:pos		
+judeofobicznym	judeofobiczny	adj:sg:loc:m1.m2.m3.n:pos		
 judeoromańscy	judeoromański	adj:pl:nom.voc:m1:pos		
 judeoromańska	judeoromański	adj:sg:nom.voc:f:pos		
 judeoromańską	judeoromański	adj:sg:acc:f:pos		

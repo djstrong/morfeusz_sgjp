@@ -1884,6 +1884,7 @@ Ujwarym	Ujwary:s1	subst:sg:loc:m1	nazwisko
 Ujwary	Ujwary:s1	subst:sg:nom:m1	nazwisko	
 Ujwary	Ujwary:s1	subst:sg:voc:m1	nazwisko	
 Ujwary	Ujwary:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+UK	UK	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa_geograficzna	
 UKF-ach	UKF	subst:pl:loc:m3	nazwa_pospolita	
 UKF-ami	UKF	subst:pl:inst:m3	nazwa_pospolita	
 UKF-em	UKF	subst:sg:inst:m3	nazwa_pospolita	
