@@ -24699,42 +24699,42 @@ emulgujemy	emulgować	fin:pl:pri:imperf
 emulgujesz	emulgować	fin:sg:sec:imperf		
 emulguję	emulgować	fin:sg:pri:imperf		
 emulgujmy	emulgować	impt:pl:pri:imperf		
-emulować	emulować	inf:imperf		daw.
-emulowaliby	emulować	cond:pl:m1:ter:imperf		daw.
-emulowalibyście	emulować	cond:pl:m1:sec:imperf		daw.
-emulowalibyśmy	emulować	cond:pl:m1:pri:imperf		daw.
-emulowali	emulować	praet:pl:m1:imperf		daw.
-emulowali	emulować	praet:pl:m1:ter:imperf		daw.
-emulowaliście	emulować	praet:pl:m1:sec:imperf		daw.
-emulowaliśmy	emulować	praet:pl:m1:pri:imperf		daw.
-emulowałaby	emulować	cond:sg:f:ter:imperf		daw.
-emulowałabym	emulować	cond:sg:f:pri:imperf		daw.
-emulowałabyś	emulować	cond:sg:f:sec:imperf		daw.
-emulowała	emulować	praet:sg:f:imperf		daw.
-emulowała	emulować	praet:sg:f:ter:imperf		daw.
-emulowałam	emulować	praet:sg:f:pri:imperf		daw.
-emulowałaś	emulować	praet:sg:f:sec:imperf		daw.
-emulowałby	emulować	cond:sg:m1.m2.m3:ter:imperf		daw.
-emulowałbym	emulować	cond:sg:m1.m2.m3:pri:imperf		daw.
-emulowałbyś	emulować	cond:sg:m1.m2.m3:sec:imperf		daw.
-emulowałem	emulować	praet:sg:m1.m2.m3:pri:imperf		daw.
-emulował	emulować	praet:sg:m1.m2.m3:imperf		daw.
-emulował	emulować	praet:sg:m1.m2.m3:ter:imperf		daw.
-emulowałeś	emulować	praet:sg:m1.m2.m3:sec:imperf		daw.
-emulowałoby	emulować	cond:sg:n:ter:imperf		daw.
-emulowałobym	emulować	cond:sg:n:pri:imperf		daw.
-emulowałobyś	emulować	cond:sg:n:sec:imperf		daw.
-emulowało	emulować	praet:sg:n:imperf		daw.
-emulowało	emulować	praet:sg:n:ter:imperf		daw.
-emulowałom	emulować	praet:sg:n:pri:imperf		daw.
-emulowałoś	emulować	praet:sg:n:sec:imperf		daw.
-emulowałyby	emulować	cond:pl:m2.m3.f.n:ter:imperf		daw.
-emulowałybyście	emulować	cond:pl:m2.m3.f.n:sec:imperf		daw.
-emulowałybyśmy	emulować	cond:pl:m2.m3.f.n:pri:imperf		daw.
-emulowały	emulować	praet:pl:m2.m3.f.n:imperf		daw.
-emulowały	emulować	praet:pl:m2.m3.f.n:ter:imperf		daw.
-emulowałyście	emulować	praet:pl:m2.m3.f.n:sec:imperf		daw.
-emulowałyśmy	emulować	praet:pl:m2.m3.f.n:pri:imperf		daw.
+emulować	emulować	inf:imperf		daw._dziś_środ.
+emulowaliby	emulować	cond:pl:m1:ter:imperf		daw._dziś_środ.
+emulowalibyście	emulować	cond:pl:m1:sec:imperf		daw._dziś_środ.
+emulowalibyśmy	emulować	cond:pl:m1:pri:imperf		daw._dziś_środ.
+emulowali	emulować	praet:pl:m1:imperf		daw._dziś_środ.
+emulowali	emulować	praet:pl:m1:ter:imperf		daw._dziś_środ.
+emulowaliście	emulować	praet:pl:m1:sec:imperf		daw._dziś_środ.
+emulowaliśmy	emulować	praet:pl:m1:pri:imperf		daw._dziś_środ.
+emulowałaby	emulować	cond:sg:f:ter:imperf		daw._dziś_środ.
+emulowałabym	emulować	cond:sg:f:pri:imperf		daw._dziś_środ.
+emulowałabyś	emulować	cond:sg:f:sec:imperf		daw._dziś_środ.
+emulowała	emulować	praet:sg:f:imperf		daw._dziś_środ.
+emulowała	emulować	praet:sg:f:ter:imperf		daw._dziś_środ.
+emulowałam	emulować	praet:sg:f:pri:imperf		daw._dziś_środ.
+emulowałaś	emulować	praet:sg:f:sec:imperf		daw._dziś_środ.
+emulowałby	emulować	cond:sg:m1.m2.m3:ter:imperf		daw._dziś_środ.
+emulowałbym	emulować	cond:sg:m1.m2.m3:pri:imperf		daw._dziś_środ.
+emulowałbyś	emulować	cond:sg:m1.m2.m3:sec:imperf		daw._dziś_środ.
+emulowałem	emulować	praet:sg:m1.m2.m3:pri:imperf		daw._dziś_środ.
+emulował	emulować	praet:sg:m1.m2.m3:imperf		daw._dziś_środ.
+emulował	emulować	praet:sg:m1.m2.m3:ter:imperf		daw._dziś_środ.
+emulowałeś	emulować	praet:sg:m1.m2.m3:sec:imperf		daw._dziś_środ.
+emulowałoby	emulować	cond:sg:n:ter:imperf		daw._dziś_środ.
+emulowałobym	emulować	cond:sg:n:pri:imperf		daw._dziś_środ.
+emulowałobyś	emulować	cond:sg:n:sec:imperf		daw._dziś_środ.
+emulowało	emulować	praet:sg:n:imperf		daw._dziś_środ.
+emulowało	emulować	praet:sg:n:ter:imperf		daw._dziś_środ.
+emulowałom	emulować	praet:sg:n:pri:imperf		daw._dziś_środ.
+emulowałoś	emulować	praet:sg:n:sec:imperf		daw._dziś_środ.
+emulowałyby	emulować	cond:pl:m2.m3.f.n:ter:imperf		daw._dziś_środ.
+emulowałybyście	emulować	cond:pl:m2.m3.f.n:sec:imperf		daw._dziś_środ.
+emulowałybyśmy	emulować	cond:pl:m2.m3.f.n:pri:imperf		daw._dziś_środ.
+emulowały	emulować	praet:pl:m2.m3.f.n:imperf		daw._dziś_środ.
+emulowały	emulować	praet:pl:m2.m3.f.n:ter:imperf		daw._dziś_środ.
+emulowałyście	emulować	praet:pl:m2.m3.f.n:sec:imperf		daw._dziś_środ.
+emulowałyśmy	emulować	praet:pl:m2.m3.f.n:pri:imperf		daw._dziś_środ.
 emulowana	emulować	ppas:sg:nom.voc:f:imperf:aff		
 emulowaną	emulować	ppas:sg:acc.inst:f:imperf:aff		
 emulowane	emulować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
@@ -24752,7 +24752,7 @@ emulowaniem	emulować	ger:sg:inst:n:imperf:aff
 emulowani	emulować	ppas:pl:nom.voc:m1:imperf:aff		
 emulowaniom	emulować	ger:pl:dat:n:imperf:aff		
 emulowaniu	emulować	ger:sg:dat.loc:n:imperf:aff		
-emulowano	emulować	imps:imperf		daw.
+emulowano	emulować	imps:imperf		daw._dziś_środ.
 emulowanych	emulować	ppas:pl:acc:m1:imperf:aff		
 emulowanych	emulować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
 emulowany	emulować	ppas:sg:acc:m3:imperf:aff		
@@ -24769,7 +24769,7 @@ emulującego	emulować	pact:sg:acc:m1.m2:imperf:aff
 emulującego	emulować	pact:sg:gen:m1.m2.m3.n:imperf:aff		
 emulującej	emulować	pact:sg:gen.dat.loc:f:imperf:aff		
 emulującemu	emulować	pact:sg:dat:m1.m2.m3.n:imperf:aff		
-emulując	emulować	pcon:imperf		daw.
+emulując	emulować	pcon:imperf		daw._dziś_środ.
 emulująco	emulować	pacta		
 emulujących	emulować	pact:pl:acc:m1:imperf:aff		
 emulujących	emulować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
@@ -24779,15 +24779,15 @@ emulujący	emulować	pact:sg:nom.voc:m1.m2.m3:imperf:aff
 emulującym	emulować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
 emulującym	emulować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
 emulującymi	emulować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
-emulują	emulować	fin:pl:ter:imperf		daw.
-emulujcie	emulować	impt:pl:sec:imperf		daw.
-emulujecie	emulować	fin:pl:sec:imperf		daw.
-emuluje	emulować	fin:sg:ter:imperf		daw.
-emuluj	emulować	impt:sg:sec:imperf		daw.
-emulujemy	emulować	fin:pl:pri:imperf		daw.
-emulujesz	emulować	fin:sg:sec:imperf		daw.
-emuluję	emulować	fin:sg:pri:imperf		daw.
-emulujmy	emulować	impt:pl:pri:imperf		daw.
+emulują	emulować	fin:pl:ter:imperf		daw._dziś_środ.
+emulujcie	emulować	impt:pl:sec:imperf		daw._dziś_środ.
+emulujecie	emulować	fin:pl:sec:imperf		daw._dziś_środ.
+emuluje	emulować	fin:sg:ter:imperf		daw._dziś_środ.
+emuluj	emulować	impt:sg:sec:imperf		daw._dziś_środ.
+emulujemy	emulować	fin:pl:pri:imperf		daw._dziś_środ.
+emulujesz	emulować	fin:sg:sec:imperf		daw._dziś_środ.
+emuluję	emulować	fin:sg:pri:imperf		daw._dziś_środ.
+emulujmy	emulować	impt:pl:pri:imperf		daw._dziś_środ.
 emulsjach	emulsja	subst:pl:loc:f	nazwa pospolita	
 emulsja	emulsja	subst:sg:nom:f	nazwa pospolita	
 emulsjami	emulsja	subst:pl:inst:f	nazwa pospolita	

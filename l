@@ -20929,31 +20929,15 @@ leserowały	leserować	praet:pl:m2.m3.f.n:imperf		pot.
 leserowały	leserować	praet:pl:m2.m3.f.n:ter:imperf		pot.
 leserowałyście	leserować	praet:pl:m2.m3.f.n:sec:imperf		pot.
 leserowałyśmy	leserować	praet:pl:m2.m3.f.n:pri:imperf		pot.
-leserowana	leserować	ppas:sg:nom.voc:f:imperf:aff		pot.
-leserowaną	leserować	ppas:sg:acc.inst:f:imperf:aff		pot.
-leserowanego	leserować	ppas:sg:acc:m1.m2:imperf:aff		pot.
-leserowanego	leserować	ppas:sg:gen:m1.m2.m3.n:imperf:aff		pot.
-leserowanej	leserować	ppas:sg:gen.dat.loc:f:imperf:aff		pot.
-leserowane	leserować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		pot.
-leserowane	leserować	ppas:sg:nom.acc.voc:n:imperf:aff		pot.
-leserowanemu	leserować	ppas:sg:dat:m1.m2.m3.n:imperf:aff		pot.
 leserowaniach	leserować	ger:pl:loc:n:imperf:aff		pot.
 leserowania	leserować	ger:pl:nom.acc:n:imperf:aff		pot.
 leserowania	leserować	ger:sg:gen:n:imperf:aff		pot.
 leserowaniami	leserować	ger:pl:inst:n:imperf:aff		pot.
 leserowanie	leserować	ger:sg:nom.acc:n:imperf:aff		pot.
 leserowaniem	leserować	ger:sg:inst:n:imperf:aff		pot.
-leserowani	leserować	ppas:pl:nom.voc:m1:imperf:aff		pot.
 leserowaniom	leserować	ger:pl:dat:n:imperf:aff		pot.
 leserowaniu	leserować	ger:sg:dat.loc:n:imperf:aff		pot.
 leserowano	leserować	imps:imperf		pot.
-leserowanych	leserować	ppas:pl:acc:m1:imperf:aff		pot.
-leserowanych	leserować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		pot.
-leserowany	leserować	ppas:sg:acc:m3:imperf:aff		pot.
-leserowany	leserować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		pot.
-leserowanymi	leserować	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		pot.
-leserowanym	leserować	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		pot.
-leserowanym	leserować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		pot.
 leserowań	leserować	ger:pl:gen:n:imperf:aff		pot.
 leserująca	leserować	pact:sg:nom.voc:f:imperf:aff		pot.
 leserującą	leserować	pact:sg:acc.inst:f:imperf:aff		pot.
@@ -29157,8 +29141,50 @@ liftingowały	liftingować	praet:pl:m2.m3.f.n:imperf
 liftingowały	liftingować	praet:pl:m2.m3.f.n:ter:imperf		
 liftingowałyście	liftingować	praet:pl:m2.m3.f.n:sec:imperf		
 liftingowałyśmy	liftingować	praet:pl:m2.m3.f.n:pri:imperf		
+liftingowana	liftingować	ppas:sg:nom.voc:f:imperf:aff		
+liftingowaną	liftingować	ppas:sg:acc.inst:f:imperf:aff		
+liftingowanego	liftingować	ppas:sg:acc:m1.m2:imperf:aff		
+liftingowanego	liftingować	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+liftingowanej	liftingować	ppas:sg:gen.dat.loc:f:imperf:aff		
+liftingowane	liftingować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+liftingowane	liftingować	ppas:sg:nom.acc.voc:n:imperf:aff		
+liftingowanemu	liftingować	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+liftingowaniach	liftingować	ger:pl:loc:n:imperf:aff		
+liftingowania	liftingować	ger:pl:nom.acc:n:imperf:aff		
+liftingowania	liftingować	ger:sg:gen:n:imperf:aff		
+liftingowaniami	liftingować	ger:pl:inst:n:imperf:aff		
+liftingowanie	liftingować	ger:sg:nom.acc:n:imperf:aff		
+liftingowaniem	liftingować	ger:sg:inst:n:imperf:aff		
+liftingowani	liftingować	ppas:pl:nom.voc:m1:imperf:aff		
+liftingowaniom	liftingować	ger:pl:dat:n:imperf:aff		
+liftingowaniu	liftingować	ger:sg:dat.loc:n:imperf:aff		
 liftingowano	liftingować	imps:imperf		
+liftingowanych	liftingować	ppas:pl:acc:m1:imperf:aff		
+liftingowanych	liftingować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+liftingowany	liftingować	ppas:sg:acc:m3:imperf:aff		
+liftingowany	liftingować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+liftingowanymi	liftingować	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+liftingowanym	liftingować	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+liftingowanym	liftingować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+liftingowań	liftingować	ger:pl:gen:n:imperf:aff		
+liftingująca	liftingować	pact:sg:nom.voc:f:imperf:aff		
+liftingującą	liftingować	pact:sg:acc.inst:f:imperf:aff		
+liftingującego	liftingować	pact:sg:acc:m1.m2:imperf:aff		
+liftingującego	liftingować	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+liftingującej	liftingować	pact:sg:gen.dat.loc:f:imperf:aff		
+liftingujące	liftingować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+liftingujące	liftingować	pact:sg:nom.acc.voc:n:imperf:aff		
+liftingującemu	liftingować	pact:sg:dat:m1.m2.m3.n:imperf:aff		
 liftingując	liftingować	pcon:imperf		
+liftingująco	liftingować	pacta		
+liftingujących	liftingować	pact:pl:acc:m1:imperf:aff		
+liftingujących	liftingować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+liftingujący	liftingować	pact:pl:nom.voc:m1:imperf:aff		
+liftingujący	liftingować	pact:sg:acc:m3:imperf:aff		
+liftingujący	liftingować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+liftingującymi	liftingować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+liftingującym	liftingować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+liftingującym	liftingować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
 liftingują	liftingować	fin:pl:ter:imperf		
 liftingujcie	liftingować	impt:pl:sec:imperf		
 liftingujecie	liftingować	fin:pl:sec:imperf		

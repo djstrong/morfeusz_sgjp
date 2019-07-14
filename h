@@ -29074,15 +29074,31 @@ historyzowały	historyzować	praet:pl:m2.m3.f.n:imperf
 historyzowały	historyzować	praet:pl:m2.m3.f.n:ter:imperf		
 historyzowałyście	historyzować	praet:pl:m2.m3.f.n:sec:imperf		
 historyzowałyśmy	historyzować	praet:pl:m2.m3.f.n:pri:imperf		
+historyzowana	historyzować	ppas:sg:nom.voc:f:imperf:aff		
+historyzowaną	historyzować	ppas:sg:acc.inst:f:imperf:aff		
+historyzowanego	historyzować	ppas:sg:acc:m1.m2:imperf:aff		
+historyzowanego	historyzować	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+historyzowane	historyzować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+historyzowane	historyzować	ppas:sg:nom.acc.voc:n:imperf:aff		
+historyzowanej	historyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
+historyzowanemu	historyzować	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
 historyzowaniach	historyzować	ger:pl:loc:n:imperf:aff		
 historyzowania	historyzować	ger:pl:nom.acc:n:imperf:aff		
 historyzowania	historyzować	ger:sg:gen:n:imperf:aff		
 historyzowaniami	historyzować	ger:pl:inst:n:imperf:aff		
 historyzowanie	historyzować	ger:sg:nom.acc:n:imperf:aff		
 historyzowaniem	historyzować	ger:sg:inst:n:imperf:aff		
+historyzowani	historyzować	ppas:pl:nom.voc:m1:imperf:aff		
 historyzowaniom	historyzować	ger:pl:dat:n:imperf:aff		
 historyzowaniu	historyzować	ger:sg:dat.loc:n:imperf:aff		
 historyzowano	historyzować	imps:imperf		
+historyzowanych	historyzować	ppas:pl:acc:m1:imperf:aff		
+historyzowanych	historyzować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+historyzowany	historyzować	ppas:sg:acc:m3:imperf:aff		
+historyzowany	historyzować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+historyzowanym	historyzować	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+historyzowanym	historyzować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+historyzowanymi	historyzować	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
 historyzowań	historyzować	ger:pl:gen:n:imperf:aff		
 historyzująca	historyzować	pact:sg:nom.voc:f:imperf:aff		
 historyzującą	historyzować	pact:sg:acc.inst:f:imperf:aff		
@@ -35410,17 +35426,17 @@ horrendum	horrendum	subst:sg:gen:n:ncol	nazwa pospolita
 horrendum	horrendum	subst:sg:inst:n:ncol	nazwa pospolita	
 horrendum	horrendum	subst:sg:loc:n:ncol	nazwa pospolita	
 horrendum	horrendum	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
-horrorach	horror	subst:pl:loc:m3	nazwa pospolita	daw.
-horrorami	horror	subst:pl:inst:m3	nazwa pospolita	daw.
-horrorem	horror	subst:sg:inst:m3	nazwa pospolita	daw.
-horror	horror	subst:sg:nom.acc:m3	nazwa pospolita	daw.
-horrorom	horror	subst:pl:dat:m3	nazwa pospolita	daw.
-horrorowi	horror	subst:sg:dat:m3	nazwa pospolita	daw.
-horrorów	horror	subst:pl:gen:m3	nazwa pospolita	daw.
-horroru	horror	subst:sg:gen:m3	nazwa pospolita	daw.
-horrory	horror	subst:pl:nom.acc.voc:m3	nazwa pospolita	daw.
-horrorze	horror	subst:sg:loc:m3	nazwa pospolita	daw.
-horrorze	horror	subst:sg:voc:m3	nazwa pospolita	daw.
+horrorach	horror	subst:pl:loc:m3	nazwa pospolita	
+horrorami	horror	subst:pl:inst:m3	nazwa pospolita	
+horrorem	horror	subst:sg:inst:m3	nazwa pospolita	
+horror	horror	subst:sg:nom.acc:m3	nazwa pospolita	
+horrorom	horror	subst:pl:dat:m3	nazwa pospolita	
+horrorowi	horror	subst:sg:dat:m3	nazwa pospolita	
+horrorów	horror	subst:pl:gen:m3	nazwa pospolita	
+horroru	horror	subst:sg:gen:m3	nazwa pospolita	
+horrory	horror	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+horrorze	horror	subst:sg:loc:m3	nazwa pospolita	
+horrorze	horror	subst:sg:voc:m3	nazwa pospolita	
 horrorowo	horrorowo	adv:pos		
 horrorowa	horrorowy	adj:sg:nom.voc:f:pos		
 horrorową	horrorowy	adj:sg:acc:f:pos		

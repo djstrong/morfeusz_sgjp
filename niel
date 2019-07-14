@@ -1971,30 +1971,14 @@ nielepujący	lepować	pact:sg:nom.voc:m1.m2.m3:imperf:neg
 nielepującymi	lepować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
 nielepującym	lepować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
 nielepującym	lepować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
-nieleserowana	leserować	ppas:sg:nom.voc:f:imperf:neg		pot.
-nieleserowaną	leserować	ppas:sg:acc.inst:f:imperf:neg		pot.
-nieleserowanego	leserować	ppas:sg:acc:m1.m2:imperf:neg		pot.
-nieleserowanego	leserować	ppas:sg:gen:m1.m2.m3.n:imperf:neg		pot.
-nieleserowanej	leserować	ppas:sg:gen.dat.loc:f:imperf:neg		pot.
-nieleserowane	leserować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		pot.
-nieleserowane	leserować	ppas:sg:nom.acc.voc:n:imperf:neg		pot.
-nieleserowanemu	leserować	ppas:sg:dat:m1.m2.m3.n:imperf:neg		pot.
 nieleserowaniach	leserować	ger:pl:loc:n:imperf:neg		pot.
 nieleserowania	leserować	ger:pl:nom.acc:n:imperf:neg		pot.
 nieleserowania	leserować	ger:sg:gen:n:imperf:neg		pot.
 nieleserowaniami	leserować	ger:pl:inst:n:imperf:neg		pot.
 nieleserowanie	leserować	ger:sg:nom.acc:n:imperf:neg		pot.
 nieleserowaniem	leserować	ger:sg:inst:n:imperf:neg		pot.
-nieleserowani	leserować	ppas:pl:nom.voc:m1:imperf:neg		pot.
 nieleserowaniom	leserować	ger:pl:dat:n:imperf:neg		pot.
 nieleserowaniu	leserować	ger:sg:dat.loc:n:imperf:neg		pot.
-nieleserowanych	leserować	ppas:pl:acc:m1:imperf:neg		pot.
-nieleserowanych	leserować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
-nieleserowany	leserować	ppas:sg:acc:m3:imperf:neg		pot.
-nieleserowany	leserować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
-nieleserowanymi	leserować	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		pot.
-nieleserowanym	leserować	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		pot.
-nieleserowanym	leserować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		pot.
 nieleserowań	leserować	ger:pl:gen:n:imperf:neg		pot.
 nieleserująca	leserować	pact:sg:nom.voc:f:imperf:neg		pot.
 nieleserującą	leserować	pact:sg:acc.inst:f:imperf:neg		pot.
@@ -2936,6 +2920,47 @@ nieliderujący	liderować	pact:sg:nom.voc:m1.m2.m3:imperf:neg
 nieliderującymi	liderować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
 nieliderującym	liderować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
 nieliderującym	liderować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+nieliftingowana	liftingować	ppas:sg:nom.voc:f:imperf:neg		
+nieliftingowaną	liftingować	ppas:sg:acc.inst:f:imperf:neg		
+nieliftingowanego	liftingować	ppas:sg:acc:m1.m2:imperf:neg		
+nieliftingowanego	liftingować	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+nieliftingowanej	liftingować	ppas:sg:gen.dat.loc:f:imperf:neg		
+nieliftingowane	liftingować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+nieliftingowane	liftingować	ppas:sg:nom.acc.voc:n:imperf:neg		
+nieliftingowanemu	liftingować	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+nieliftingowaniach	liftingować	ger:pl:loc:n:imperf:neg		
+nieliftingowania	liftingować	ger:pl:nom.acc:n:imperf:neg		
+nieliftingowania	liftingować	ger:sg:gen:n:imperf:neg		
+nieliftingowaniami	liftingować	ger:pl:inst:n:imperf:neg		
+nieliftingowanie	liftingować	ger:sg:nom.acc:n:imperf:neg		
+nieliftingowaniem	liftingować	ger:sg:inst:n:imperf:neg		
+nieliftingowani	liftingować	ppas:pl:nom.voc:m1:imperf:neg		
+nieliftingowaniom	liftingować	ger:pl:dat:n:imperf:neg		
+nieliftingowaniu	liftingować	ger:sg:dat.loc:n:imperf:neg		
+nieliftingowanych	liftingować	ppas:pl:acc:m1:imperf:neg		
+nieliftingowanych	liftingować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+nieliftingowany	liftingować	ppas:sg:acc:m3:imperf:neg		
+nieliftingowany	liftingować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+nieliftingowanymi	liftingować	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+nieliftingowanym	liftingować	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+nieliftingowanym	liftingować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+nieliftingowań	liftingować	ger:pl:gen:n:imperf:neg		
+nieliftingująca	liftingować	pact:sg:nom.voc:f:imperf:neg		
+nieliftingującą	liftingować	pact:sg:acc.inst:f:imperf:neg		
+nieliftingującego	liftingować	pact:sg:acc:m1.m2:imperf:neg		
+nieliftingującego	liftingować	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+nieliftingującej	liftingować	pact:sg:gen.dat.loc:f:imperf:neg		
+nieliftingujące	liftingować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+nieliftingujące	liftingować	pact:sg:nom.acc.voc:n:imperf:neg		
+nieliftingującemu	liftingować	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+nieliftingujących	liftingować	pact:pl:acc:m1:imperf:neg		
+nieliftingujących	liftingować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+nieliftingujący	liftingować	pact:pl:nom.voc:m1:imperf:neg		
+nieliftingujący	liftingować	pact:sg:acc:m3:imperf:neg		
+nieliftingujący	liftingować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+nieliftingującymi	liftingować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+nieliftingującym	liftingować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+nieliftingującym	liftingować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
 nieliftowana	liftować	ppas:sg:nom.voc:f:imperf:neg		
 nieliftowaną	liftować	ppas:sg:acc.inst:f:imperf:neg		
 nieliftowanego	liftować	ppas:sg:acc:m1.m2:imperf:neg		
