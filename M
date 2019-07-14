@@ -20484,6 +20484,17 @@ Margosiaków	Margosiak:s1	subst:pl:gen.acc:m1	nazwisko
 Margosiaku	Margosiak:s1	subst:sg:loc:m1	nazwisko	
 Margosiaku	Margosiak:s1	subst:sg:voc:m1	nazwisko	
 Margosiak	Margosiak:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Margrabowa	Margrabowa	subst:sg:nom:f	nazwa_geograficzna	
+Margrabowa	Margrabowa	subst:sg:voc:f	nazwa_geograficzna	
+Margrabową	Margrabowa	subst:sg:acc:f	nazwa_geograficzna	
+Margrabową	Margrabowa	subst:sg:inst:f	nazwa_geograficzna	
+Margrabowej	Margrabowa	subst:sg:dat.loc:f	nazwa_geograficzna	
+Margrabowej	Margrabowa	subst:sg:gen:f	nazwa_geograficzna	
+Margrabowe	Margrabowa	subst:pl:nom.acc.voc:f	nazwa_geograficzna	
+Margrabowych	Margrabowa	subst:pl:gen:f	nazwa_geograficzna	
+Margrabowych	Margrabowa	subst:pl:loc:f	nazwa_geograficzna	
+Margrabowymi	Margrabowa	subst:pl:inst:f	nazwa_geograficzna	
+Margrabowym	Margrabowa	subst:pl:dat:f	nazwa_geograficzna	
 Margrafach	Margraf:s1	subst:pl:loc:m1	nazwisko	
 Margrafa	Margraf:s1	subst:sg:gen.acc:m1	nazwisko	
 Margrafami	Margraf:s1	subst:pl:inst:m1	nazwisko	
