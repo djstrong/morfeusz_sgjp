@@ -22,18 +22,18 @@ Valérym	Valéry	subst:sg:loc:m1	nazwisko
 Valéry	Valéry	subst:pl:nom.voc:m1	nazwisko	
 Valéry	Valéry	subst:sg:nom:m1	nazwisko	
 Valéry	Valéry	subst:sg:voc:m1	nazwisko	
-Vancouverach	Vancouver:s1	subst:pl:loc:m3	nazwa geograficzna	
-Vancouverami	Vancouver:s1	subst:pl:inst:m3	nazwa geograficzna	
-Vancouverem	Vancouver:s1	subst:sg:inst:m3	nazwa geograficzna	
-Vancouverom	Vancouver:s1	subst:pl:dat:m3	nazwa geograficzna	
-Vancouverowi	Vancouver:s1	subst:sg:dat:m3	nazwa geograficzna	
-Vancouverów	Vancouver:s1	subst:pl:gen:m3	nazwa geograficzna	
-Vancouveru	Vancouver:s1	subst:sg:gen:m3	nazwa geograficzna	
-Vancouver	Vancouver:s1	subst:sg:nom.acc:m3	nazwa geograficzna	
-Vancouver	Vancouver:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
-Vancouvery	Vancouver:s1	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
-Vancouverze	Vancouver:s1	subst:sg:loc:m3	nazwa geograficzna	
-Vancouverze	Vancouver:s1	subst:sg:voc:m3	nazwa geograficzna	
+Vancouverach	Vancouver:s1	subst:pl:loc:m3	nazwa_geograficzna	
+Vancouverami	Vancouver:s1	subst:pl:inst:m3	nazwa_geograficzna	
+Vancouverem	Vancouver:s1	subst:sg:inst:m3	nazwa_geograficzna	
+Vancouverom	Vancouver:s1	subst:pl:dat:m3	nazwa_geograficzna	
+Vancouverowi	Vancouver:s1	subst:sg:dat:m3	nazwa_geograficzna	
+Vancouverów	Vancouver:s1	subst:pl:gen:m3	nazwa_geograficzna	
+Vancouveru	Vancouver:s1	subst:sg:gen:m3	nazwa_geograficzna	
+Vancouver	Vancouver:s1	subst:sg:nom.acc:m3	nazwa_geograficzna	
+Vancouver	Vancouver:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa_geograficzna	
+Vancouvery	Vancouver:s1	subst:pl:nom.acc.voc:m3	nazwa_geograficzna	
+Vancouverze	Vancouver:s1	subst:sg:loc:m3	nazwa_geograficzna	
+Vancouverze	Vancouver:s1	subst:sg:voc:m3	nazwa_geograficzna	
 Vancouverach	Vancouver:s2	subst:pl:loc:m1	nazwisko	
 Vancouverami	Vancouver:s2	subst:pl:inst:m1	nazwisko	
 Vancouvera	Vancouver:s2	subst:sg:gen.acc:m1	nazwisko	
@@ -61,20 +61,20 @@ Vargasy	Vargas:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Vargas	Vargas:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Vasco	Vasco	depr:pl:nom.acc.voc:m2	nazwisko	
 Vasco	Vasco	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko	
-Vacie	VAT	subst:sg:loc:m3	nazwa pospolita	
-VA-cie	VAT	subst:sg:loc:m3	nazwa pospolita	
-Vacie	VAT	subst:sg:voc:m3	nazwa pospolita	
-VA-cie	VAT	subst:sg:voc:m3	nazwa pospolita	
-VAT-ach	VAT	subst:pl:loc:m3	nazwa pospolita	
-VAT-ami	VAT	subst:pl:inst:m3	nazwa pospolita	
-VAT-em	VAT	subst:sg:inst:m3	nazwa pospolita	
-VAT-om	VAT	subst:pl:dat:m3	nazwa pospolita	
-VAT-owi	VAT	subst:sg:dat:m3	nazwa pospolita	
-VAT-ów	VAT	subst:pl:gen:m3	nazwa pospolita	
-VAT-u	VAT	subst:sg:gen:m3	nazwa pospolita	
-VAT	VAT	subst:sg:nom.acc:m3	nazwa pospolita	
-VAT	VAT	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
-VAT-y	VAT	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+Vacie	VAT	subst:sg:loc:m3	nazwa_pospolita	
+VA-cie	VAT	subst:sg:loc:m3	nazwa_pospolita	
+Vacie	VAT	subst:sg:voc:m3	nazwa_pospolita	
+VA-cie	VAT	subst:sg:voc:m3	nazwa_pospolita	
+VAT-ach	VAT	subst:pl:loc:m3	nazwa_pospolita	
+VAT-ami	VAT	subst:pl:inst:m3	nazwa_pospolita	
+VAT-em	VAT	subst:sg:inst:m3	nazwa_pospolita	
+VAT-om	VAT	subst:pl:dat:m3	nazwa_pospolita	
+VAT-owi	VAT	subst:sg:dat:m3	nazwa_pospolita	
+VAT-ów	VAT	subst:pl:gen:m3	nazwa_pospolita	
+VAT-u	VAT	subst:sg:gen:m3	nazwa_pospolita	
+VAT	VAT	subst:sg:nom.acc:m3	nazwa_pospolita	
+VAT	VAT	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa_pospolita	
+VAT-y	VAT	subst:pl:nom.acc.voc:m3	nazwa_pospolita	
 VAT-owscy	VAT-owski	adj:pl:nom.voc:m1:pos		
 VAT-owska	VAT-owski	adj:sg:nom.voc:f:pos		
 VAT-owską	VAT-owski	adj:sg:acc:f:pos		
@@ -101,40 +101,40 @@ VAT-owski	VAT-owski	adj:sg:nom.voc:m1.m2.m3:pos
 VAT-owsko	VAT-owski	adja		
 VAT-owsku	VAT-owski	adjp:dat		
 VAT-owsko	VAT-owsko	adv:pos		
-VAT-owskościach	VAT-owskość	subst:pl:loc:f	nazwa pospolita	
-VAT-owskościami	VAT-owskość	subst:pl:inst:f	nazwa pospolita	
-VAT-owskością	VAT-owskość	subst:sg:inst:f	nazwa pospolita	
-VAT-owskościom	VAT-owskość	subst:pl:dat:f	nazwa pospolita	
-VAT-owskości	VAT-owskość	subst:pl:gen:f	nazwa pospolita	
-VAT-owskości	VAT-owskość	subst:pl:nom.acc.voc:f	nazwa pospolita	
-VAT-owskości	VAT-owskość	subst:sg:dat.loc:f	nazwa pospolita	
-VAT-owskości	VAT-owskość	subst:sg:gen:f	nazwa pospolita	
-VAT-owskości	VAT-owskość	subst:sg:voc:f	nazwa pospolita	
-VAT-owskość	VAT-owskość	subst:sg:acc:f	nazwa pospolita	
-VAT-owskość	VAT-owskość	subst:sg:nom:f	nazwa pospolita	
-VCR-ach	VCR	subst:pl:loc:m3	nazwa pospolita	
-VCR-ami	VCR	subst:pl:inst:m3	nazwa pospolita	
-VCR-em	VCR	subst:sg:inst:m3	nazwa pospolita	
-VCR-om	VCR	subst:pl:dat:m3	nazwa pospolita	
-VCR-owi	VCR	subst:sg:dat:m3	nazwa pospolita	
-VCR-ów	VCR	subst:pl:gen:m3	nazwa pospolita	
-VCR-u	VCR	subst:sg:gen:m3	nazwa pospolita	
-VCR	VCR	subst:sg:nom.acc:m3	nazwa pospolita	
-VCR-y	VCR	subst:pl:nom.acc.voc:m3	nazwa pospolita	
-VCR-ze	VCR	subst:sg:loc:m3	nazwa pospolita	
-VCR-ze	VCR	subst:sg:voc:m3	nazwa pospolita	
-Vedze	Vega	subst:sg:dat.loc:m1	człon nazwiska	
-Vegach	Vega	subst:pl:loc:m1	człon nazwiska	
-Vegami	Vega	subst:pl:inst:m1	człon nazwiska	
-Vega	Vega	subst:sg:nom:m1	człon nazwiska	
-Vegą	Vega	subst:sg:inst:m1	człon nazwiska	
-Vegę	Vega	subst:sg:acc:m1	człon nazwiska	
-Vegi	Vega	depr:pl:nom.acc.voc:m2	człon nazwiska	
-Vegi	Vega	subst:sg:gen:m1	człon nazwiska	
-Vegom	Vega	subst:pl:dat:m1	człon nazwiska	
-Vego	Vega	subst:sg:voc:m1	człon nazwiska	
-Vegowie	Vega	subst:pl:nom.voc:m1	człon nazwiska	
-Vegów	Vega	subst:pl:gen.acc:m1	człon nazwiska	
+VAT-owskościach	VAT-owskość	subst:pl:loc:f	nazwa_pospolita	
+VAT-owskościami	VAT-owskość	subst:pl:inst:f	nazwa_pospolita	
+VAT-owskością	VAT-owskość	subst:sg:inst:f	nazwa_pospolita	
+VAT-owskościom	VAT-owskość	subst:pl:dat:f	nazwa_pospolita	
+VAT-owskości	VAT-owskość	subst:pl:gen:f	nazwa_pospolita	
+VAT-owskości	VAT-owskość	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+VAT-owskości	VAT-owskość	subst:sg:dat.loc:f	nazwa_pospolita	
+VAT-owskości	VAT-owskość	subst:sg:gen:f	nazwa_pospolita	
+VAT-owskości	VAT-owskość	subst:sg:voc:f	nazwa_pospolita	
+VAT-owskość	VAT-owskość	subst:sg:acc:f	nazwa_pospolita	
+VAT-owskość	VAT-owskość	subst:sg:nom:f	nazwa_pospolita	
+VCR-ach	VCR	subst:pl:loc:m3	nazwa_pospolita	
+VCR-ami	VCR	subst:pl:inst:m3	nazwa_pospolita	
+VCR-em	VCR	subst:sg:inst:m3	nazwa_pospolita	
+VCR-om	VCR	subst:pl:dat:m3	nazwa_pospolita	
+VCR-owi	VCR	subst:sg:dat:m3	nazwa_pospolita	
+VCR-ów	VCR	subst:pl:gen:m3	nazwa_pospolita	
+VCR-u	VCR	subst:sg:gen:m3	nazwa_pospolita	
+VCR	VCR	subst:sg:nom.acc:m3	nazwa_pospolita	
+VCR-y	VCR	subst:pl:nom.acc.voc:m3	nazwa_pospolita	
+VCR-ze	VCR	subst:sg:loc:m3	nazwa_pospolita	
+VCR-ze	VCR	subst:sg:voc:m3	nazwa_pospolita	
+Vedze	Vega	subst:sg:dat.loc:m1	człon_nazwiska	
+Vegach	Vega	subst:pl:loc:m1	człon_nazwiska	
+Vegami	Vega	subst:pl:inst:m1	człon_nazwiska	
+Vega	Vega	subst:sg:nom:m1	człon_nazwiska	
+Vegą	Vega	subst:sg:inst:m1	człon_nazwiska	
+Vegę	Vega	subst:sg:acc:m1	człon_nazwiska	
+Vegi	Vega	depr:pl:nom.acc.voc:m2	człon_nazwiska	
+Vegi	Vega	subst:sg:gen:m1	człon_nazwiska	
+Vegom	Vega	subst:pl:dat:m1	człon_nazwiska	
+Vego	Vega	subst:sg:voc:m1	człon_nazwiska	
+Vegowie	Vega	subst:pl:nom.voc:m1	człon_nazwiska	
+Vegów	Vega	subst:pl:gen.acc:m1	człon_nazwiska	
 Vegas	Vegas	frag		
 Velazquezach	Velazquez	subst:pl:loc:m1	nazwisko	
 Velazquezami	Velazquez	subst:pl:inst:m1	nazwisko	
@@ -187,7 +187,7 @@ Verdi	Verdi:s1	subst:pl:nom.voc:m1	nazwisko
 Verdi	Verdi:s1	subst:sg:nom:m1	nazwisko	
 Verdi	Verdi:s1	subst:sg:voc:m1	nazwisko	
 Verdi	Verdi:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Verdun	Verdun	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
+Verdun	Verdun	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa_geograficzna	
 Verlaine’ach	Verlaine	subst:pl:loc:m1	nazwisko	
 Verlaine’ami	Verlaine	subst:pl:inst:m1	nazwisko	
 Verlaine’a	Verlaine	subst:sg:gen.acc:m1	nazwisko	
@@ -212,17 +212,17 @@ Vermeer	Vermeer	subst:sg:nom:m1	nazwisko
 Vermeery	Vermeer	depr:pl:nom.acc.voc:m2	nazwisko	
 Vermeerze	Vermeer	subst:sg:loc:m1	nazwisko	
 Vermeerze	Vermeer	subst:sg:voc:m1	nazwisko	
-Vermoncie	Vermont:s1	subst:sg:loc:m3	nazwa geograficzna	
-Vermoncie	Vermont:s1	subst:sg:voc:m3	nazwa geograficzna	
-Vermontach	Vermont:s1	subst:pl:loc:m3	nazwa geograficzna	
-Vermontami	Vermont:s1	subst:pl:inst:m3	nazwa geograficzna	
-Vermontem	Vermont:s1	subst:sg:inst:m3	nazwa geograficzna	
-Vermontom	Vermont:s1	subst:pl:dat:m3	nazwa geograficzna	
-Vermontowi	Vermont:s1	subst:sg:dat:m3	nazwa geograficzna	
-Vermontów	Vermont:s1	subst:pl:gen:m3	nazwa geograficzna	
-Vermontu	Vermont:s1	subst:sg:gen:m3	nazwa geograficzna	
-Vermont	Vermont:s1	subst:sg:nom.acc:m3	nazwa geograficzna	
-Vermonty	Vermont:s1	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Vermoncie	Vermont:s1	subst:sg:loc:m3	nazwa_geograficzna	
+Vermoncie	Vermont:s1	subst:sg:voc:m3	nazwa_geograficzna	
+Vermontach	Vermont:s1	subst:pl:loc:m3	nazwa_geograficzna	
+Vermontami	Vermont:s1	subst:pl:inst:m3	nazwa_geograficzna	
+Vermontem	Vermont:s1	subst:sg:inst:m3	nazwa_geograficzna	
+Vermontom	Vermont:s1	subst:pl:dat:m3	nazwa_geograficzna	
+Vermontowi	Vermont:s1	subst:sg:dat:m3	nazwa_geograficzna	
+Vermontów	Vermont:s1	subst:pl:gen:m3	nazwa_geograficzna	
+Vermontu	Vermont:s1	subst:sg:gen:m3	nazwa_geograficzna	
+Vermont	Vermont:s1	subst:sg:nom.acc:m3	nazwa_geograficzna	
+Vermonty	Vermont:s1	subst:pl:nom.acc.voc:m3	nazwa_geograficzna	
 Vermoncie	Vermont:s2	subst:sg:loc:m1	nazwisko	
 Vermoncie	Vermont:s2	subst:sg:voc:m1	nazwisko	
 Vermontach	Vermont:s2	subst:pl:loc:m1	nazwisko	
@@ -300,31 +300,31 @@ Vetulani	Vetulani:s1	subst:pl:nom.voc:m1	nazwisko
 Vetulani	Vetulani:s1	subst:sg:nom:m1	nazwisko	
 Vetulani	Vetulani:s1	subst:sg:voc:m1	nazwisko	
 Vetulani	Vetulani:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-VGA	VGA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa pospolita	
-VHF-ach	VHF	subst:pl:loc:m3	nazwa pospolita	
-VHF-ami	VHF	subst:pl:inst:m3	nazwa pospolita	
-VHF-em	VHF	subst:sg:inst:m3	nazwa pospolita	
-VHF-ie	VHF	subst:sg:loc:m3	nazwa pospolita	
-VHF-ie	VHF	subst:sg:voc:m3	nazwa pospolita	
-VHF-om	VHF	subst:pl:dat:m3	nazwa pospolita	
-VHF-owi	VHF	subst:sg:dat:m3	nazwa pospolita	
-VHF-ów	VHF	subst:pl:gen:m3	nazwa pospolita	
-VHF-u	VHF	subst:sg:gen:m3	nazwa pospolita	
-VHF	VHF	subst:sg:nom.acc:m3	nazwa pospolita	
-VHF	VHF	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
-VHF-y	VHF	subst:pl:nom.acc.voc:m3	nazwa pospolita	
-VHS-ach	VHS	subst:pl:loc:m3	nazwa pospolita	
-VHS-ami	VHS	subst:pl:inst:m3	nazwa pospolita	
-VHS-em	VHS	subst:sg:inst:m3	nazwa pospolita	
-VHS-ie	VHS	subst:sg:loc:m3	nazwa pospolita	
-VHS-ie	VHS	subst:sg:voc:m3	nazwa pospolita	
-VHS-om	VHS	subst:pl:dat:m3	nazwa pospolita	
-VHS-owi	VHS	subst:sg:dat:m3	nazwa pospolita	
-VHS-ów	VHS	subst:pl:gen:m3	nazwa pospolita	
-VHS-u	VHS	subst:sg:gen:m3	nazwa pospolita	
-VHS	VHS	subst:sg:nom.acc:m3	nazwa pospolita	
-VHS	VHS	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
-VHS-y	VHS	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+VGA	VGA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa_pospolita	
+VHF-ach	VHF	subst:pl:loc:m3	nazwa_pospolita	
+VHF-ami	VHF	subst:pl:inst:m3	nazwa_pospolita	
+VHF-em	VHF	subst:sg:inst:m3	nazwa_pospolita	
+VHF-ie	VHF	subst:sg:loc:m3	nazwa_pospolita	
+VHF-ie	VHF	subst:sg:voc:m3	nazwa_pospolita	
+VHF-om	VHF	subst:pl:dat:m3	nazwa_pospolita	
+VHF-owi	VHF	subst:sg:dat:m3	nazwa_pospolita	
+VHF-ów	VHF	subst:pl:gen:m3	nazwa_pospolita	
+VHF-u	VHF	subst:sg:gen:m3	nazwa_pospolita	
+VHF	VHF	subst:sg:nom.acc:m3	nazwa_pospolita	
+VHF	VHF	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa_pospolita	
+VHF-y	VHF	subst:pl:nom.acc.voc:m3	nazwa_pospolita	
+VHS-ach	VHS	subst:pl:loc:m3	nazwa_pospolita	
+VHS-ami	VHS	subst:pl:inst:m3	nazwa_pospolita	
+VHS-em	VHS	subst:sg:inst:m3	nazwa_pospolita	
+VHS-ie	VHS	subst:sg:loc:m3	nazwa_pospolita	
+VHS-ie	VHS	subst:sg:voc:m3	nazwa_pospolita	
+VHS-om	VHS	subst:pl:dat:m3	nazwa_pospolita	
+VHS-owi	VHS	subst:sg:dat:m3	nazwa_pospolita	
+VHS-ów	VHS	subst:pl:gen:m3	nazwa_pospolita	
+VHS-u	VHS	subst:sg:gen:m3	nazwa_pospolita	
+VHS	VHS	subst:sg:nom.acc:m3	nazwa_pospolita	
+VHS	VHS	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa_pospolita	
+VHS-y	VHS	subst:pl:nom.acc.voc:m3	nazwa_pospolita	
 Vicach	Vico	subst:pl:loc:m1	nazwisko	
 Vicami	Vico	subst:pl:inst:m1	nazwisko	
 Vica	Vico	subst:sg:gen.acc:m1	nazwisko	
@@ -351,8 +351,8 @@ Victorii	Victoria	subst:sg:gen:f	imię
 Victoriom	Victoria	subst:pl:dat:f	imię	
 Victorio	Victoria	subst:sg:voc:f	imię	
 Victoryj	Victoria	subst:pl:gen:f	imię	arch.|char.
-Vinci	Vinci	depr:pl:nom.acc.voc:m2	człon nazwiska	
-Vinci	Vinci	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	człon nazwiska	
+Vinci	Vinci	depr:pl:nom.acc.voc:m2	człon_nazwiska	
+Vinci	Vinci	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	człon_nazwiska	
 Violach	Viola:s1	subst:pl:loc:m1	nazwisko	
 Violami	Viola:s1	subst:pl:inst:m1	nazwisko	
 Viola	Viola:s1	subst:sg:nom:m1	nazwisko	
@@ -399,30 +399,30 @@ Violetto	Violetta	subst:sg:voc:f	imię
 Violett	Violetta	subst:pl:gen:f	imię	
 Violetty	Violetta	subst:pl:nom.acc.voc:f	imię	
 Violetty	Violetta	subst:sg:gen:f	imię	
-VIP-ach	VIP	subst:pl:loc:m1	nazwa pospolita	
-VIP-ami	VIP	subst:pl:inst:m1	nazwa pospolita	
-VIP-a	VIP	subst:sg:gen.acc:m1	nazwa pospolita	
-VIP-em	VIP	subst:sg:inst:m1	nazwa pospolita	
-VIP-ie	VIP	subst:sg:loc:m1	nazwa pospolita	
-VIP-ie	VIP	subst:sg:voc:m1	nazwa pospolita	
-VIP-om	VIP	subst:pl:dat:m1	nazwa pospolita	
-VIP-owie	VIP	subst:pl:nom.voc:m1	nazwa pospolita	
-VIP-owi	VIP	subst:sg:dat:m1	nazwa pospolita	
-VIP-ów	VIP	subst:pl:gen.acc:m1	nazwa pospolita	
-VIP	VIP	subst:sg:nom:m1	nazwa pospolita	
-VIP-y	VIP	depr:pl:nom.acc.voc:m2	nazwa pospolita	
-Virginiach	Virginia	subst:pl:loc:f	nazwa geograficzna	
-Virginiami	Virginia	subst:pl:inst:f	nazwa geograficzna	
-Virginia	Virginia	subst:sg:nom:f	nazwa geograficzna	
-Virginią	Virginia	subst:sg:inst:f	nazwa geograficzna	
-Virginie	Virginia	subst:pl:nom.acc.voc:f	nazwa geograficzna	
-Virginię	Virginia	subst:sg:acc:f	nazwa geograficzna	
-Virginii	Virginia	subst:pl:gen:f	nazwa geograficzna	hom.
-Virginii	Virginia	subst:sg:dat.loc:f	nazwa geograficzna	
-Virginii	Virginia	subst:sg:gen:f	nazwa geograficzna	
-Virginij	Virginia	subst:pl:gen:f	nazwa geograficzna	arch.|char.
-Virginiom	Virginia	subst:pl:dat:f	nazwa geograficzna	
-Virginio	Virginia	subst:sg:voc:f	nazwa geograficzna	
+VIP-ach	VIP	subst:pl:loc:m1	nazwa_pospolita	
+VIP-ami	VIP	subst:pl:inst:m1	nazwa_pospolita	
+VIP-a	VIP	subst:sg:gen.acc:m1	nazwa_pospolita	
+VIP-em	VIP	subst:sg:inst:m1	nazwa_pospolita	
+VIP-ie	VIP	subst:sg:loc:m1	nazwa_pospolita	
+VIP-ie	VIP	subst:sg:voc:m1	nazwa_pospolita	
+VIP-om	VIP	subst:pl:dat:m1	nazwa_pospolita	
+VIP-owie	VIP	subst:pl:nom.voc:m1	nazwa_pospolita	
+VIP-owi	VIP	subst:sg:dat:m1	nazwa_pospolita	
+VIP-ów	VIP	subst:pl:gen.acc:m1	nazwa_pospolita	
+VIP	VIP	subst:sg:nom:m1	nazwa_pospolita	
+VIP-y	VIP	depr:pl:nom.acc.voc:m2	nazwa_pospolita	
+Virginiach	Virginia	subst:pl:loc:f	nazwa_geograficzna	
+Virginiami	Virginia	subst:pl:inst:f	nazwa_geograficzna	
+Virginia	Virginia	subst:sg:nom:f	nazwa_geograficzna	
+Virginią	Virginia	subst:sg:inst:f	nazwa_geograficzna	
+Virginie	Virginia	subst:pl:nom.acc.voc:f	nazwa_geograficzna	
+Virginię	Virginia	subst:sg:acc:f	nazwa_geograficzna	
+Virginii	Virginia	subst:pl:gen:f	nazwa_geograficzna	hom.
+Virginii	Virginia	subst:sg:dat.loc:f	nazwa_geograficzna	
+Virginii	Virginia	subst:sg:gen:f	nazwa_geograficzna	
+Virginij	Virginia	subst:pl:gen:f	nazwa_geograficzna	arch.|char.
+Virginiom	Virginia	subst:pl:dat:f	nazwa_geograficzna	
+Virginio	Virginia	subst:sg:voc:f	nazwa_geograficzna	
 Viscontich	Visconti	subst:pl:gen.acc:m1	nazwisko	
 Viscontich	Visconti	subst:pl:loc:m1	nazwisko	
 Viscontiego	Visconti	subst:sg:gen.acc:m1	nazwisko	
@@ -552,17 +552,17 @@ Vossów	Voss:s1	subst:pl:gen.acc:m1	nazwisko
 Voss	Voss:s1	subst:sg:nom:m1	nazwisko	
 Vossy	Voss:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Voss	Voss:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-V-pociskach	V-pocisk	subst:pl:loc:m3	nazwa pospolita	
-V-pociskami	V-pocisk	subst:pl:inst:m3	nazwa pospolita	
-V-pociskiem	V-pocisk	subst:sg:inst:m3	nazwa pospolita	
-V-pociski	V-pocisk	subst:pl:nom.acc.voc:m3	nazwa pospolita	
-V-pociskom	V-pocisk	subst:pl:dat:m3	nazwa pospolita	
-V-pociskowi	V-pocisk	subst:sg:dat:m3	nazwa pospolita	
-V-pocisków	V-pocisk	subst:pl:gen:m3	nazwa pospolita	
-V-pocisku	V-pocisk	subst:sg:gen:m3	nazwa pospolita	
-V-pocisku	V-pocisk	subst:sg:loc:m3	nazwa pospolita	
-V-pocisku	V-pocisk	subst:sg:voc:m3	nazwa pospolita	
-V-pocisk	V-pocisk	subst:sg:nom.acc:m3	nazwa pospolita	
+V-pociskach	V-pocisk	subst:pl:loc:m3	nazwa_pospolita	
+V-pociskami	V-pocisk	subst:pl:inst:m3	nazwa_pospolita	
+V-pociskiem	V-pocisk	subst:sg:inst:m3	nazwa_pospolita	
+V-pociski	V-pocisk	subst:pl:nom.acc.voc:m3	nazwa_pospolita	
+V-pociskom	V-pocisk	subst:pl:dat:m3	nazwa_pospolita	
+V-pociskowi	V-pocisk	subst:sg:dat:m3	nazwa_pospolita	
+V-pocisków	V-pocisk	subst:pl:gen:m3	nazwa_pospolita	
+V-pocisku	V-pocisk	subst:sg:gen:m3	nazwa_pospolita	
+V-pocisku	V-pocisk	subst:sg:loc:m3	nazwa_pospolita	
+V-pocisku	V-pocisk	subst:sg:voc:m3	nazwa_pospolita	
+V-pocisk	V-pocisk	subst:sg:nom.acc:m3	nazwa_pospolita	
 Vranitzcy	Vranitzky	subst:pl:nom.voc:m1	nazwisko	
 Vranitzkich	Vranitzky	subst:pl:gen.acc:m1	nazwisko	
 Vranitzkich	Vranitzky	subst:pl:loc:m1	nazwisko	
@@ -575,5 +575,5 @@ Vranitzkim	Vranitzky	subst:sg:inst:m1	nazwisko
 Vranitzkim	Vranitzky	subst:sg:loc:m1	nazwisko	
 Vranitzky	Vranitzky	subst:sg:nom:m1	nazwisko	
 Vranitzky	Vranitzky	subst:sg:voc:m1	nazwisko	
-VW	VW	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	marka|nazwa firmy	
-VW	VW	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	marka|nazwa firmy	
+VW	VW	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	marka|nazwa_firmy	
+VW	VW	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	marka|nazwa_firmy	

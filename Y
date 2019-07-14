@@ -21,19 +21,19 @@ Yeatsowi	Yeats	subst:sg:dat:m1	nazwisko
 Yeatsów	Yeats	subst:pl:gen.acc:m1	nazwisko	
 Yeats	Yeats	subst:sg:nom:m1	nazwisko	
 Yeatsy	Yeats	depr:pl:nom.acc.voc:m2	nazwisko	
-YMCA	YMCA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa organizacji	
-YMCA	YMCA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji	
-Yorkach	York	subst:pl:loc:m3	nazwa geograficzna	
-Yorkami	York	subst:pl:inst:m3	nazwa geograficzna	
-Yorkiem	York	subst:sg:inst:m3	nazwa geograficzna	
-Yorki	York	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
-Yorkom	York	subst:pl:dat:m3	nazwa geograficzna	
-Yorkowi	York	subst:sg:dat:m3	nazwa geograficzna	
-Yorków	York	subst:pl:gen:m3	nazwa geograficzna	
-Yorku	York	subst:sg:gen:m3	nazwa geograficzna	
-Yorku	York	subst:sg:loc:m3	nazwa geograficzna	
-Yorku	York	subst:sg:voc:m3	nazwa geograficzna	
-York	York	subst:sg:nom.acc:m3	nazwa geograficzna	
+YMCA	YMCA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa_organizacji	
+YMCA	YMCA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa_organizacji	
+Yorkach	York	subst:pl:loc:m3	nazwa_geograficzna	
+Yorkami	York	subst:pl:inst:m3	nazwa_geograficzna	
+Yorkiem	York	subst:sg:inst:m3	nazwa_geograficzna	
+Yorki	York	subst:pl:nom.acc.voc:m3	nazwa_geograficzna	
+Yorkom	York	subst:pl:dat:m3	nazwa_geograficzna	
+Yorkowi	York	subst:sg:dat:m3	nazwa_geograficzna	
+Yorków	York	subst:pl:gen:m3	nazwa_geograficzna	
+Yorku	York	subst:sg:gen:m3	nazwa_geograficzna	
+Yorku	York	subst:sg:loc:m3	nazwa_geograficzna	
+Yorku	York	subst:sg:voc:m3	nazwa_geograficzna	
+York	York	subst:sg:nom.acc:m3	nazwa_geograficzna	
 Youngach	Young:s1	subst:pl:loc:m1	nazwisko	
 Youngami	Young:s1	subst:pl:inst:m1	nazwisko	
 Younga	Young:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -47,6 +47,6 @@ Youngu	Young:s1	subst:sg:loc:m1	nazwisko
 Youngu	Young:s1	subst:sg:voc:m1	nazwisko	
 Young	Young:s1	subst:sg:nom:m1	nazwisko	
 Young	Young:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Ystad	Ystad	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
-YWCA	YWCA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa organizacji	
-YWCA	YWCA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji	
+Ystad	Ystad	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa_geograficzna	
+YWCA	YWCA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa_organizacji	
+YWCA	YWCA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa_organizacji	

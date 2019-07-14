@@ -26,28 +26,28 @@ Xeni	Xenia	subst:pl:gen:f	imię	hom.|rzad.
 Xeni	Xenia	subst:sg:dat.loc:f	imię	
 Xeni	Xenia	subst:sg:gen:f	imię	
 Xeń	Xenia	subst:pl:gen:f	imię	char.
-XML-ach	XML	subst:pl:loc:m2	nazwa pospolita	komp.
-XML-ach	XML	subst:pl:loc:m3	nazwa pospolita	komp.
-XML-ami	XML	subst:pl:inst:m2	nazwa pospolita	komp.
-XML-ami	XML	subst:pl:inst:m3	nazwa pospolita	komp.
-XML-a	XML	subst:sg:gen.acc:m2	nazwa pospolita	komp.
-XML-em	XML	subst:sg:inst:m2	nazwa pospolita	komp.
-XML-em	XML	subst:sg:inst:m3	nazwa pospolita	komp.
-XML-e	XML	subst:pl:nom.acc.voc:m2	nazwa pospolita	komp.
-XML-e	XML	subst:pl:nom.acc.voc:m3	nazwa pospolita	komp.
-XML-i	XML	subst:pl:gen:m3	nazwa pospolita	komp.
-XML-om	XML	subst:pl:dat:m2	nazwa pospolita	komp.
-XML-om	XML	subst:pl:dat:m3	nazwa pospolita	komp.
-XML-owi	XML	subst:sg:dat:m2	nazwa pospolita	komp.
-XML-owi	XML	subst:sg:dat:m3	nazwa pospolita	komp.
-XML-ów	XML	subst:pl:gen:m2	nazwa pospolita	komp.
-XML-u	XML	subst:sg:gen:m3	nazwa pospolita	komp.
-XML-u	XML	subst:sg:loc:m2	nazwa pospolita	komp.
-XML-u	XML	subst:sg:loc:m3	nazwa pospolita	komp.
-XML-u	XML	subst:sg:voc:m2	nazwa pospolita	komp.
-XML-u	XML	subst:sg:voc:m3	nazwa pospolita	komp.
-XML	XML	subst:sg:nom.acc:m3	nazwa pospolita	komp.
-XML	XML	subst:sg:nom:m2	nazwa pospolita	komp.
+XML-ach	XML	subst:pl:loc:m2	nazwa_pospolita	komp.
+XML-ach	XML	subst:pl:loc:m3	nazwa_pospolita	komp.
+XML-ami	XML	subst:pl:inst:m2	nazwa_pospolita	komp.
+XML-ami	XML	subst:pl:inst:m3	nazwa_pospolita	komp.
+XML-a	XML	subst:sg:gen.acc:m2	nazwa_pospolita	komp.
+XML-em	XML	subst:sg:inst:m2	nazwa_pospolita	komp.
+XML-em	XML	subst:sg:inst:m3	nazwa_pospolita	komp.
+XML-e	XML	subst:pl:nom.acc.voc:m2	nazwa_pospolita	komp.
+XML-e	XML	subst:pl:nom.acc.voc:m3	nazwa_pospolita	komp.
+XML-i	XML	subst:pl:gen:m3	nazwa_pospolita	komp.
+XML-om	XML	subst:pl:dat:m2	nazwa_pospolita	komp.
+XML-om	XML	subst:pl:dat:m3	nazwa_pospolita	komp.
+XML-owi	XML	subst:sg:dat:m2	nazwa_pospolita	komp.
+XML-owi	XML	subst:sg:dat:m3	nazwa_pospolita	komp.
+XML-ów	XML	subst:pl:gen:m2	nazwa_pospolita	komp.
+XML-u	XML	subst:sg:gen:m3	nazwa_pospolita	komp.
+XML-u	XML	subst:sg:loc:m2	nazwa_pospolita	komp.
+XML-u	XML	subst:sg:loc:m3	nazwa_pospolita	komp.
+XML-u	XML	subst:sg:voc:m2	nazwa_pospolita	komp.
+XML-u	XML	subst:sg:voc:m3	nazwa_pospolita	komp.
+XML	XML	subst:sg:nom.acc:m3	nazwa_pospolita	komp.
+XML	XML	subst:sg:nom:m2	nazwa_pospolita	komp.
 Xymenach	Xymena	subst:pl:loc:f	imię	
 Xymenami	Xymena	subst:pl:inst:f	imię	
 Xymena	Xymena	subst:sg:nom:f	imię	

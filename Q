@@ -1,5 +1,5 @@
-Q	Q	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
-QAL	QAL	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa firmy	
+Q	Q	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa_pospolita	
+QAL	QAL	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa_firmy	
 Quasimodach	Quasimodo	subst:pl:loc:m1	nazwisko	
 Quasimodami	Quasimodo	subst:pl:inst:m1	nazwisko	
 Quasimoda	Quasimodo	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -14,17 +14,17 @@ Quasimodowie	Quasimodo	subst:pl:nom.voc:m1	nazwisko
 Quasimodowi	Quasimodo	subst:sg:dat:m1	nazwisko	
 Quasimodów	Quasimodo	subst:pl:gen.acc:m1	nazwisko	
 Quasimodzie	Quasimodo	subst:sg:loc:m1	nazwisko	
-Quebecach	Quebec	subst:pl:loc:m3	nazwa geograficzna	
-Quebecami	Quebec	subst:pl:inst:m3	nazwa geograficzna	
-Quebecom	Quebec	subst:pl:dat:m3	nazwa geograficzna	
-Quebecowi	Quebec	subst:sg:dat:m3	nazwa geograficzna	
-Quebeców	Quebec	subst:pl:gen:m3	nazwa geograficzna	
-Quebec	Quebec	subst:sg:nom.acc:m3	nazwa geograficzna	
-Quebecu	Quebec	subst:sg:gen:m3	nazwa geograficzna	
-Quebecu	Quebec	subst:sg:loc:m3	nazwa geograficzna	
-Quebecu	Quebec	subst:sg:voc:m3	nazwa geograficzna	
-Quebekiem	Quebec	subst:sg:inst:m3	nazwa geograficzna	
-Quebeki	Quebec	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+Quebecach	Quebec	subst:pl:loc:m3	nazwa_geograficzna	
+Quebecami	Quebec	subst:pl:inst:m3	nazwa_geograficzna	
+Quebecom	Quebec	subst:pl:dat:m3	nazwa_geograficzna	
+Quebecowi	Quebec	subst:sg:dat:m3	nazwa_geograficzna	
+Quebeców	Quebec	subst:pl:gen:m3	nazwa_geograficzna	
+Quebec	Quebec	subst:sg:nom.acc:m3	nazwa_geograficzna	
+Quebecu	Quebec	subst:sg:gen:m3	nazwa_geograficzna	
+Quebecu	Quebec	subst:sg:loc:m3	nazwa_geograficzna	
+Quebecu	Quebec	subst:sg:voc:m3	nazwa_geograficzna	
+Quebekiem	Quebec	subst:sg:inst:m3	nazwa_geograficzna	
+Quebeki	Quebec	subst:pl:nom.acc.voc:m3	nazwa_geograficzna	
 Quinnach	Quinn:s1	subst:pl:loc:m1	nazwisko	
 Quinnami	Quinn:s1	subst:pl:inst:m1	nazwisko	
 Quinna	Quinn:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -50,4 +50,4 @@ Quislingów	Quisling	subst:pl:gen.acc:m1	nazwisko
 Quisling	Quisling	subst:sg:nom:m1	nazwisko	
 Quislingu	Quisling	subst:sg:loc:m1	nazwisko	
 Quislingu	Quisling	subst:sg:voc:m1	nazwisko	
-Quito	Quito	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
+Quito	Quito	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa_geograficzna	
