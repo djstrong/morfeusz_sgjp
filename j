@@ -10311,6 +10311,18 @@ jastrunowi	jastrun	subst:sg:dat:m3	nazwa pospolita	bot.
 jastrunów	jastrun	subst:pl:gen:m3	nazwa pospolita	bot.
 jastrunu	jastrun	subst:sg:gen:m3	nazwa pospolita	bot.
 jastruny	jastrun	subst:pl:nom.acc.voc:m3	nazwa pospolita	bot.
+jastruniach	jastruń	subst:pl:loc:m3	nazwa pospolita	
+jastrunia	jastruń	subst:sg:gen:m3	nazwa pospolita	
+jastruniami	jastruń	subst:pl:inst:m3	nazwa pospolita	
+jastrunie	jastruń	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+jastruniem	jastruń	subst:sg:inst:m3	nazwa pospolita	
+jastruni	jastruń	subst:pl:gen:m3	nazwa pospolita	
+jastruniom	jastruń	subst:pl:dat:m3	nazwa pospolita	
+jastruniowi	jastruń	subst:sg:dat:m3	nazwa pospolita	
+jastruniów	jastruń	subst:pl:gen:m3	nazwa pospolita	
+jastruniu	jastruń	subst:sg:loc:m3	nazwa pospolita	
+jastruniu	jastruń	subst:sg:voc:m3	nazwa pospolita	
+jastruń	jastruń	subst:sg:nom.acc:m3	nazwa pospolita	
 jastrychach	jastrych	subst:pl:loc:m3	nazwa pospolita	
 jastrychami	jastrych	subst:pl:inst:m3	nazwa pospolita	
 jastrychem	jastrych	subst:sg:inst:m3	nazwa pospolita	
@@ -24180,6 +24192,17 @@ jeleśniańskości	jeleśniańskość	subst:sg:voc:f	nazwa pospolita
 jeleśniańskościom	jeleśniańskość	subst:pl:dat:f	nazwa pospolita	
 jeleśniańskość	jeleśniańskość	subst:sg:acc:f	nazwa pospolita	
 jeleśniańskość	jeleśniańskość	subst:sg:nom:f	nazwa pospolita	
+jeliciarniach	jeliciarnia	subst:pl:loc:f	nazwa pospolita	spoż.
+jeliciarnia	jeliciarnia	subst:sg:nom:f	nazwa pospolita	spoż.
+jeliciarniami	jeliciarnia	subst:pl:inst:f	nazwa pospolita	spoż.
+jeliciarnią	jeliciarnia	subst:sg:inst:f	nazwa pospolita	spoż.
+jeliciarnie	jeliciarnia	subst:pl:nom.acc.voc:f	nazwa pospolita	spoż.
+jeliciarnię	jeliciarnia	subst:sg:acc:f	nazwa pospolita	spoż.
+jeliciarni	jeliciarnia	subst:pl:gen:f	nazwa pospolita	spoż.
+jeliciarni	jeliciarnia	subst:sg:dat.loc:f	nazwa pospolita	spoż.
+jeliciarni	jeliciarnia	subst:sg:gen:f	nazwa pospolita	spoż.
+jeliciarnio	jeliciarnia	subst:sg:voc:f	nazwa pospolita	spoż.
+jeliciarniom	jeliciarnia	subst:pl:dat:f	nazwa pospolita	spoż.
 jeliciarscy	jeliciarski	adj:pl:nom.voc:m1:pos		
 jeliciarska	jeliciarski	adj:sg:nom.voc:f:pos		
 jeliciarską	jeliciarski	adj:sg:acc:f:pos		

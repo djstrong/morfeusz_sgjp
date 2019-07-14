@@ -6546,6 +6546,17 @@ lansiarzu	lansiarz	subst:sg:loc:m1	nazwa pospolita	rzad.|pot.
 lansiarzu	lansiarz	subst:sg:voc:m1	nazwa pospolita	pot.
 lansiarzu	lansiarz	subst:sg:voc:m1	nazwa pospolita	rzad.|pot.
 lansiarzy	lansiarz	subst:pl:gen.acc:m1	nazwa pospolita	pot.
+lansikach	lansik	subst:pl:loc:m3	nazwa pospolita	pot.
+lansikami	lansik	subst:pl:inst:m3	nazwa pospolita	pot.
+lansikiem	lansik	subst:sg:inst:m3	nazwa pospolita	pot.
+lansiki	lansik	subst:pl:nom.acc.voc:m3	nazwa pospolita	pot.
+lansik	lansik	subst:sg:nom.acc:m3	nazwa pospolita	pot.
+lansikom	lansik	subst:pl:dat:m3	nazwa pospolita	pot.
+lansikowi	lansik	subst:sg:dat:m3	nazwa pospolita	pot.
+lansików	lansik	subst:pl:gen:m3	nazwa pospolita	pot.
+lansiku	lansik	subst:sg:gen:m3	nazwa pospolita	pot.
+lansiku	lansik	subst:sg:loc:m3	nazwa pospolita	pot.
+lansiku	lansik	subst:sg:voc:m3	nazwa pospolita	pot.
 lansjerach	lansjer:s1	subst:pl:loc:m1	nazwa pospolita	
 lansjera	lansjer:s1	subst:sg:gen.acc:m1	nazwa pospolita	
 lansjerami	lansjer:s1	subst:pl:inst:m1	nazwa pospolita	
@@ -12888,17 +12899,6 @@ lechistki	lechistka	subst:pl:nom.acc.voc:f	nazwa pospolita
 lechistki	lechistka	subst:sg:gen:f	nazwa pospolita	
 lechistko	lechistka	subst:sg:voc:f	nazwa pospolita	
 lechistkom	lechistka	subst:pl:dat:f	nazwa pospolita	
-leciach	+lecie	subst:pl:loc:n:ncol	nazwa pospolita	
-lecia	+lecie	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
-lecia	+lecie	subst:sg:gen:n:ncol	nazwa pospolita	
-leciami	+lecie	subst:pl:inst:n:ncol	nazwa pospolita	
-lecie	+lecie	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
-leciem	+lecie	subst:sg:inst:n:ncol	nazwa pospolita	
-leci	+lecie	subst:pl:gen:n:ncol	nazwa pospolita	
-leciom	+lecie	subst:pl:dat:n:ncol	nazwa pospolita	
-leciu	+lecie	subst:sg:dat:n:ncol	nazwa pospolita	
-leciu	+lecie	subst:sg:loc:n:ncol	nazwa pospolita	
-leć	+lecie	subst:pl:gen:n:ncol	nazwa pospolita	
 lecąca	lecieć	pact:sg:nom.voc:f:imperf:aff		
 lecącą	lecieć	pact:sg:acc.inst:f:imperf:aff		
 lecącego	lecieć	pact:sg:acc:m1.m2:imperf:aff		
