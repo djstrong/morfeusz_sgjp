@@ -9131,6 +9131,17 @@ immobilizujesz	immobilizować	fin:sg:sec:imperf
 immobilizuję	immobilizować	fin:sg:pri:imperf		
 immobilizuj	immobilizować	impt:sg:sec:imperf		
 immobilizujmy	immobilizować	impt:pl:pri:imperf		
+immobilnościach	immobilność	subst:pl:loc:f	nazwa pospolita	
+immobilnościami	immobilność	subst:pl:inst:f	nazwa pospolita	
+immobilnością	immobilność	subst:sg:inst:f	nazwa pospolita	
+immobilności	immobilność	subst:pl:gen:f	nazwa pospolita	
+immobilności	immobilność	subst:pl:nom.acc.voc:f	nazwa pospolita	
+immobilności	immobilność	subst:sg:dat.loc:f	nazwa pospolita	
+immobilności	immobilność	subst:sg:gen:f	nazwa pospolita	
+immobilności	immobilność	subst:sg:voc:f	nazwa pospolita	
+immobilnościom	immobilność	subst:pl:dat:f	nazwa pospolita	
+immobilność	immobilność	subst:sg:acc:f	nazwa pospolita	
+immobilność	immobilność	subst:sg:nom:f	nazwa pospolita	
 immobilna	immobilny	adj:sg:nom.voc:f:pos		
 immobilną	immobilny	adj:sg:acc:f:pos		
 immobilną	immobilny	adj:sg:inst:f:pos		

@@ -26191,6 +26191,17 @@ filorosyjskim	filorosyjski	adj:sg:loc:m1.m2.m3.n:pos
 filorosyjskimi	filorosyjski	adj:pl:inst:m1.m2.m3.f.n:pos		
 filorosyjsko	filorosyjski	adja		
 filorosyjsku	filorosyjski	adjp		
+filorosyjskościach	filorosyjskość	subst:pl:loc:f	nazwa pospolita	
+filorosyjskościami	filorosyjskość	subst:pl:inst:f	nazwa pospolita	
+filorosyjskością	filorosyjskość	subst:sg:inst:f	nazwa pospolita	
+filorosyjskości	filorosyjskość	subst:pl:gen:f	nazwa pospolita	
+filorosyjskości	filorosyjskość	subst:pl:nom.acc.voc:f	nazwa pospolita	
+filorosyjskości	filorosyjskość	subst:sg:dat.loc:f	nazwa pospolita	
+filorosyjskości	filorosyjskość	subst:sg:gen:f	nazwa pospolita	
+filorosyjskości	filorosyjskość	subst:sg:voc:f	nazwa pospolita	
+filorosyjskościom	filorosyjskość	subst:pl:dat:f	nazwa pospolita	
+filorosyjskość	filorosyjskość	subst:sg:acc:f	nazwa pospolita	
+filorosyjskość	filorosyjskość	subst:sg:nom:f	nazwa pospolita	
 filosemiccy	filosemicki	adj:pl:nom.voc:m1:pos		
 filosemicka	filosemicki	adj:sg:nom.voc:f:pos		
 filosemicką	filosemicki	adj:sg:acc:f:pos		
@@ -51224,15 +51235,31 @@ fraternizowały	fraternizować	praet:pl:m2.m3.f.n:imperf
 fraternizowały	fraternizować	praet:pl:m2.m3.f.n:ter:imperf		
 fraternizowałyście	fraternizować	praet:pl:m2.m3.f.n:sec:imperf		
 fraternizowałyśmy	fraternizować	praet:pl:m2.m3.f.n:pri:imperf		
+fraternizowana	fraternizować	ppas:sg:nom.voc:f:imperf:aff		
+fraternizowaną	fraternizować	ppas:sg:acc.inst:f:imperf:aff		
+fraternizowane	fraternizować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+fraternizowane	fraternizować	ppas:sg:nom.acc.voc:n:imperf:aff		
+fraternizowanego	fraternizować	ppas:sg:acc:m1.m2:imperf:aff		
+fraternizowanego	fraternizować	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+fraternizowanej	fraternizować	ppas:sg:gen.dat.loc:f:imperf:aff		
+fraternizowanemu	fraternizować	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
 fraternizowaniach	fraternizować	ger:pl:loc:n:imperf:aff		
 fraternizowania	fraternizować	ger:pl:nom.acc:n:imperf:aff		
 fraternizowania	fraternizować	ger:sg:gen:n:imperf:aff		
 fraternizowaniami	fraternizować	ger:pl:inst:n:imperf:aff		
 fraternizowanie	fraternizować	ger:sg:nom.acc:n:imperf:aff		
 fraternizowaniem	fraternizować	ger:sg:inst:n:imperf:aff		
+fraternizowani	fraternizować	ppas:pl:nom.voc:m1:imperf:aff		
 fraternizowaniom	fraternizować	ger:pl:dat:n:imperf:aff		
 fraternizowaniu	fraternizować	ger:sg:dat.loc:n:imperf:aff		
 fraternizowano	fraternizować	imps:imperf		
+fraternizowanych	fraternizować	ppas:pl:acc:m1:imperf:aff		
+fraternizowanych	fraternizować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+fraternizowany	fraternizować	ppas:sg:acc:m3:imperf:aff		
+fraternizowany	fraternizować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+fraternizowanym	fraternizować	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+fraternizowanym	fraternizować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+fraternizowanymi	fraternizować	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
 fraternizowań	fraternizować	ger:pl:gen:n:imperf:aff		
 fraternizująca	fraternizować	pact:sg:nom.voc:f:imperf:aff		
 fraternizującą	fraternizować	pact:sg:acc.inst:f:imperf:aff		
