@@ -283,6 +283,23 @@ Oceanii	Oceania	subst:sg:loc:f	nazwa geograficzna
 Oceanij	Oceania	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Oceaniom	Oceania	subst:pl:dat:f	nazwa geograficzna	
 Oceanio	Oceania	subst:sg:voc:f	nazwa geograficzna	
+Occie	Ocet	subst:sg:loc:m1	nazwisko	
+Occie	Ocet	subst:sg:voc:m1	nazwisko	
+Ocet	Ocet	subst:sg:nom:m1	nazwisko	
+Octach	Ocet	subst:pl:loc:m1	nazwisko	
+Octami	Ocet	subst:pl:inst:m1	nazwisko	
+Octa	Ocet	subst:sg:acc:m1	nazwisko	
+Octa	Ocet	subst:sg:gen:m1	nazwisko	
+Octem	Ocet	subst:sg:inst:m1	nazwisko	
+Octom	Ocet	subst:pl:dat:m1	nazwisko	
+Octowie	Ocet	subst:pl:nom:m1	nazwisko	
+Octowie	Ocet	subst:pl:voc:m1	nazwisko	
+Octowi	Ocet	subst:sg:dat:m1	nazwisko	
+Octów	Ocet	subst:pl:acc:m1	nazwisko	
+Octów	Ocet	subst:pl:gen:m1	nazwisko	
+Octy	Ocet	depr:pl:acc:m2	nazwisko	
+Octy	Ocet	depr:pl:nom:m2	nazwisko	
+Octy	Ocet	depr:pl:voc:m2	nazwisko	
 Ochabach	Ochab	subst:pl:loc:m1	nazwisko	
 Ochabami	Ochab	subst:pl:inst:m1	nazwisko	
 Ochaba	Ochab	subst:sg:acc:m1	nazwisko	
@@ -3667,6 +3684,23 @@ Oscary	Oscar:s2	subst:pl:nom:m2	nazwa własna
 Oscary	Oscar:s2	subst:pl:voc:m2	nazwa własna	
 Oscarze	Oscar:s2	subst:sg:loc:m2	nazwa własna	
 Oscarze	Oscar:s2	subst:sg:voc:m2	nazwa własna	
+Oset	Oset	subst:sg:nom:m1	nazwisko	
+Ostach	Oset	subst:pl:loc:m1	nazwisko	
+Ostami	Oset	subst:pl:inst:m1	nazwisko	
+Osta	Oset	subst:sg:acc:m1	nazwisko	
+Osta	Oset	subst:sg:gen:m1	nazwisko	
+Ostem	Oset	subst:sg:inst:m1	nazwisko	
+Ostom	Oset	subst:pl:dat:m1	nazwisko	
+Ostowie	Oset	subst:pl:nom:m1	nazwisko	
+Ostowie	Oset	subst:pl:voc:m1	nazwisko	
+Ostowi	Oset	subst:sg:dat:m1	nazwisko	
+Ostów	Oset	subst:pl:acc:m1	nazwisko	
+Ostów	Oset	subst:pl:gen:m1	nazwisko	
+Osty	Oset	depr:pl:acc:m2	nazwisko	
+Osty	Oset	depr:pl:nom:m2	nazwisko	
+Osty	Oset	depr:pl:voc:m2	nazwisko	
+Oście	Oset	subst:sg:loc:m1	nazwisko	
+Oście	Oset	subst:sg:voc:m1	nazwisko	
 Osetiach	Osetia	subst:pl:loc:f	nazwa geograficzna	
 Osetiami	Osetia	subst:pl:inst:f	nazwa geograficzna	
 Osetia	Osetia	subst:sg:nom:f	nazwa geograficzna	
