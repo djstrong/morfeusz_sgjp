@@ -48632,18 +48632,18 @@ Polanico	Polanica	subst:sg:voc:f	nazwa geograficzna
 Polanic	Polanica	subst:pl:gen:f	nazwa geograficzna	
 Polanicy	Polanica	subst:sg:dat.loc:f	nazwa geograficzna	
 Polanicy	Polanica	subst:sg:gen:f	nazwa geograficzna	
-Polanach	Polanin:s1	subst:pl:loc:m1	nazwa pospolita	
-Polanami	Polanin:s1	subst:pl:inst:m1	nazwa pospolita	
-Polanie	Polanin:s1	subst:pl:nom.voc:m1	nazwa pospolita	
-Polanina	Polanin:s1	subst:sg:gen.acc:m1	nazwa pospolita	
-Polaninem	Polanin:s1	subst:sg:inst:m1	nazwa pospolita	
-Polaninie	Polanin:s1	subst:sg:loc:m1	nazwa pospolita	
-Polaninie	Polanin:s1	subst:sg:voc:m1	nazwa pospolita	
-Polaninowi	Polanin:s1	subst:sg:dat:m1	nazwa pospolita	
-Polanin	Polanin:s1	subst:sg:nom:m1	nazwa pospolita	
-Polanom	Polanin:s1	subst:pl:dat:m1	nazwa pospolita	
-Polan	Polanin:s1	subst:pl:gen.acc:m1	nazwa pospolita	
-Polany	Polanin:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Polanach	Polanin:s1	subst:pl:loc:m1	nazwa pospolita	etn.
+Polanami	Polanin:s1	subst:pl:inst:m1	nazwa pospolita	etn.
+Polanie	Polanin:s1	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Polanina	Polanin:s1	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Polaninem	Polanin:s1	subst:sg:inst:m1	nazwa pospolita	etn.
+Polaninie	Polanin:s1	subst:sg:loc:m1	nazwa pospolita	etn.
+Polaninie	Polanin:s1	subst:sg:voc:m1	nazwa pospolita	etn.
+Polaninowi	Polanin:s1	subst:sg:dat:m1	nazwa pospolita	etn.
+Polanin	Polanin:s1	subst:sg:nom:m1	nazwa pospolita	etn.
+Polanom	Polanin:s1	subst:pl:dat:m1	nazwa pospolita	etn.
+Polan	Polanin:s1	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Polany	Polanin:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
 Polaninach	Polanin:s2	subst:pl:loc:m1	nazwisko	
 Polaninami	Polanin:s2	subst:pl:inst:m1	nazwisko	
 Polanina	Polanin:s2	subst:sg:gen.acc:m1	nazwisko	
@@ -51913,18 +51913,18 @@ Pomorskim	Pomorski	subst:sg:inst:m1	nazwisko
 Pomorskim	Pomorski	subst:sg:loc:m1	nazwisko	
 Pomorski	Pomorski	subst:sg:nom:m1	nazwisko	
 Pomorski	Pomorski	subst:sg:voc:m1	nazwisko	
-Pomorzanach	Pomorzanin	subst:pl:loc:m1	nazwa pospolita	
-Pomorzanami	Pomorzanin	subst:pl:inst:m1	nazwa pospolita	
-Pomorzanie	Pomorzanin	subst:pl:nom.voc:m1	nazwa pospolita	
-Pomorzanina	Pomorzanin	subst:sg:gen.acc:m1	nazwa pospolita	
-Pomorzaninem	Pomorzanin	subst:sg:inst:m1	nazwa pospolita	
-Pomorzaninie	Pomorzanin	subst:sg:loc:m1	nazwa pospolita	
-Pomorzaninie	Pomorzanin	subst:sg:voc:m1	nazwa pospolita	
-Pomorzaninowi	Pomorzanin	subst:sg:dat:m1	nazwa pospolita	
-Pomorzanin	Pomorzanin	subst:sg:nom:m1	nazwa pospolita	
-Pomorzanom	Pomorzanin	subst:pl:dat:m1	nazwa pospolita	
-Pomorzan	Pomorzanin	subst:pl:gen.acc:m1	nazwa pospolita	
-Pomorzany	Pomorzanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Pomorzanach	Pomorzanin	subst:pl:loc:m1	nazwa pospolita	etn.
+Pomorzanami	Pomorzanin	subst:pl:inst:m1	nazwa pospolita	etn.
+Pomorzanie	Pomorzanin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Pomorzanina	Pomorzanin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Pomorzaninem	Pomorzanin	subst:sg:inst:m1	nazwa pospolita	etn.
+Pomorzaninie	Pomorzanin	subst:sg:loc:m1	nazwa pospolita	etn.
+Pomorzaninie	Pomorzanin	subst:sg:voc:m1	nazwa pospolita	etn.
+Pomorzaninowi	Pomorzanin	subst:sg:dat:m1	nazwa pospolita	etn.
+Pomorzanin	Pomorzanin	subst:sg:nom:m1	nazwa pospolita	etn.
+Pomorzanom	Pomorzanin	subst:pl:dat:m1	nazwa pospolita	etn.
+Pomorzan	Pomorzanin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Pomorzany	Pomorzanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
 Pomorzach	Pomorze	subst:pl:loc:n:ncol	nazwa geograficzna	
 Pomorzami	Pomorze	subst:pl:inst:n:ncol	nazwa geograficzna	
 Pomorza	Pomorze	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	

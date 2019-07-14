@@ -23548,18 +23548,18 @@ Wielkiewiczu	Wielkiewicz:s1	subst:sg:loc:m1	nazwisko
 Wielkiewiczu	Wielkiewicz:s1	subst:sg:voc:m1	nazwisko	
 Wielkiewicz	Wielkiewicz:s1	subst:sg:nom:m1	nazwisko	
 Wielkiewicz	Wielkiewicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Wielkopolanach	Wielkopolanin	subst:pl:loc:m1	nazwa pospolita	
-Wielkopolanami	Wielkopolanin	subst:pl:inst:m1	nazwa pospolita	
-Wielkopolanie	Wielkopolanin	subst:pl:nom.voc:m1	nazwa pospolita	
-Wielkopolanina	Wielkopolanin	subst:sg:gen.acc:m1	nazwa pospolita	
-Wielkopolaninem	Wielkopolanin	subst:sg:inst:m1	nazwa pospolita	
-Wielkopolaninie	Wielkopolanin	subst:sg:loc:m1	nazwa pospolita	
-Wielkopolaninie	Wielkopolanin	subst:sg:voc:m1	nazwa pospolita	
-Wielkopolaninowi	Wielkopolanin	subst:sg:dat:m1	nazwa pospolita	
-Wielkopolanin	Wielkopolanin	subst:sg:nom:m1	nazwa pospolita	
-Wielkopolanom	Wielkopolanin	subst:pl:dat:m1	nazwa pospolita	
-Wielkopolan	Wielkopolanin	subst:pl:gen.acc:m1	nazwa pospolita	
-Wielkopolany	Wielkopolanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Wielkopolanach	Wielkopolanin	subst:pl:loc:m1	nazwa pospolita	etn.
+Wielkopolanami	Wielkopolanin	subst:pl:inst:m1	nazwa pospolita	etn.
+Wielkopolanie	Wielkopolanin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Wielkopolanina	Wielkopolanin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Wielkopolaninem	Wielkopolanin	subst:sg:inst:m1	nazwa pospolita	etn.
+Wielkopolaninie	Wielkopolanin	subst:sg:loc:m1	nazwa pospolita	etn.
+Wielkopolaninie	Wielkopolanin	subst:sg:voc:m1	nazwa pospolita	etn.
+Wielkopolaninowi	Wielkopolanin	subst:sg:dat:m1	nazwa pospolita	etn.
+Wielkopolanin	Wielkopolanin	subst:sg:nom:m1	nazwa pospolita	etn.
+Wielkopolanom	Wielkopolanin	subst:pl:dat:m1	nazwa pospolita	etn.
+Wielkopolan	Wielkopolanin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Wielkopolany	Wielkopolanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
 Wielkopolanach	Wielkopolan:s1	subst:pl:loc:m1	nazwisko	
 Wielkopolanami	Wielkopolan:s1	subst:pl:inst:m1	nazwisko	
 Wielkopolana	Wielkopolan:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -40639,18 +40639,18 @@ Wolimiry	Wolimir	depr:pl:nom.acc.voc:m2	imię
 Wolimirze	Wolimir	subst:sg:loc:m1	imię	
 Wolimirze	Wolimir	subst:sg:voc:m1	imię	
 Wolimirzy	Wolimir	subst:pl:nom.voc:m1	imię	
-Wolinianach	Wolinianin	subst:pl:loc:m1	nazwa pospolita	
-Wolinianami	Wolinianin	subst:pl:inst:m1	nazwa pospolita	
-Wolinianie	Wolinianin	subst:pl:nom.voc:m1	nazwa pospolita	
-Wolinianina	Wolinianin	subst:sg:gen.acc:m1	nazwa pospolita	
-Wolinianinem	Wolinianin	subst:sg:inst:m1	nazwa pospolita	
-Wolinianinie	Wolinianin	subst:sg:loc:m1	nazwa pospolita	
-Wolinianinie	Wolinianin	subst:sg:voc:m1	nazwa pospolita	
-Wolinianinowi	Wolinianin	subst:sg:dat:m1	nazwa pospolita	
-Wolinianin	Wolinianin	subst:sg:nom:m1	nazwa pospolita	
-Wolinianom	Wolinianin	subst:pl:dat:m1	nazwa pospolita	
-Wolinian	Wolinianin	subst:pl:gen.acc:m1	nazwa pospolita	
-Woliniany	Wolinianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Wolinianach	Wolinianin	subst:pl:loc:m1	nazwa pospolita	etn.
+Wolinianami	Wolinianin	subst:pl:inst:m1	nazwa pospolita	etn.
+Wolinianie	Wolinianin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Wolinianina	Wolinianin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Wolinianinem	Wolinianin	subst:sg:inst:m1	nazwa pospolita	etn.
+Wolinianinie	Wolinianin	subst:sg:loc:m1	nazwa pospolita	etn.
+Wolinianinie	Wolinianin	subst:sg:voc:m1	nazwa pospolita	etn.
+Wolinianinowi	Wolinianin	subst:sg:dat:m1	nazwa pospolita	etn.
+Wolinianin	Wolinianin	subst:sg:nom:m1	nazwa pospolita	etn.
+Wolinianom	Wolinianin	subst:pl:dat:m1	nazwa pospolita	etn.
+Wolinian	Wolinianin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Woliniany	Wolinianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
 Wolinach	Wolin:s1	subst:pl:loc:m3	nazwa geograficzna	
 Wolinami	Wolin:s1	subst:pl:inst:m3	nazwa geograficzna	
 Wolina	Wolin:s1	subst:sg:gen:m3	nazwa geograficzna	

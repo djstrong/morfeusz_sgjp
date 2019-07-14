@@ -20681,18 +20681,18 @@ Trzebomysł	Trzebomysł	subst:sg:nom:m1	imię
 Trzebomysły	Trzebomysł	depr:pl:nom.acc.voc:m2	imię	
 Trzebomyśle	Trzebomysł	subst:sg:loc:m1	imię	
 Trzebomyśle	Trzebomysł	subst:sg:voc:m1	imię	
-Trzebowianach	Trzebowianin	subst:pl:loc:m1	nazwa pospolita	
-Trzebowianami	Trzebowianin	subst:pl:inst:m1	nazwa pospolita	
-Trzebowianie	Trzebowianin	subst:pl:nom.voc:m1	nazwa pospolita	
-Trzebowianina	Trzebowianin	subst:sg:gen.acc:m1	nazwa pospolita	
-Trzebowianinem	Trzebowianin	subst:sg:inst:m1	nazwa pospolita	
-Trzebowianinie	Trzebowianin	subst:sg:loc:m1	nazwa pospolita	
-Trzebowianinie	Trzebowianin	subst:sg:voc:m1	nazwa pospolita	
-Trzebowianinowi	Trzebowianin	subst:sg:dat:m1	nazwa pospolita	
-Trzebowianin	Trzebowianin	subst:sg:nom:m1	nazwa pospolita	
-Trzebowianom	Trzebowianin	subst:pl:dat:m1	nazwa pospolita	
-Trzebowian	Trzebowianin	subst:pl:gen.acc:m1	nazwa pospolita	
-Trzebowiany	Trzebowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Trzebowianach	Trzebowianin	subst:pl:loc:m1	nazwa pospolita	etn.
+Trzebowianami	Trzebowianin	subst:pl:inst:m1	nazwa pospolita	etn.
+Trzebowianie	Trzebowianin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Trzebowianina	Trzebowianin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Trzebowianinem	Trzebowianin	subst:sg:inst:m1	nazwa pospolita	etn.
+Trzebowianinie	Trzebowianin	subst:sg:loc:m1	nazwa pospolita	etn.
+Trzebowianinie	Trzebowianin	subst:sg:voc:m1	nazwa pospolita	etn.
+Trzebowianinowi	Trzebowianin	subst:sg:dat:m1	nazwa pospolita	etn.
+Trzebowianin	Trzebowianin	subst:sg:nom:m1	nazwa pospolita	etn.
+Trzebowianom	Trzebowianin	subst:pl:dat:m1	nazwa pospolita	etn.
+Trzebowian	Trzebowianin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Trzebowiany	Trzebowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
 Trzebowicie	Trzebowit	subst:sg:loc:m1	imię	
 Trzebowicie	Trzebowit	subst:sg:voc:m1	imię	
 Trzebowici	Trzebowit	subst:pl:nom.voc:m1	imię	

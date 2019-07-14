@@ -12363,18 +12363,18 @@ Małoniu	Małoń:s1	subst:sg:loc:m1	nazwisko
 Małoniu	Małoń:s1	subst:sg:voc:m1	nazwisko	
 Małoń	Małoń:s1	subst:sg:nom:m1	nazwisko	
 Małoń	Małoń:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Małopolanach	Małopolanin	subst:pl:loc:m1	nazwa pospolita	
-Małopolanami	Małopolanin	subst:pl:inst:m1	nazwa pospolita	
-Małopolanie	Małopolanin	subst:pl:nom.voc:m1	nazwa pospolita	
-Małopolanina	Małopolanin	subst:sg:gen.acc:m1	nazwa pospolita	
-Małopolaninem	Małopolanin	subst:sg:inst:m1	nazwa pospolita	
-Małopolaninie	Małopolanin	subst:sg:loc:m1	nazwa pospolita	
-Małopolaninie	Małopolanin	subst:sg:voc:m1	nazwa pospolita	
-Małopolanin	Małopolanin	subst:sg:nom:m1	nazwa pospolita	
-Małopolaninowi	Małopolanin	subst:sg:dat:m1	nazwa pospolita	
-Małopolan	Małopolanin	subst:pl:gen.acc:m1	nazwa pospolita	
-Małopolanom	Małopolanin	subst:pl:dat:m1	nazwa pospolita	
-Małopolany	Małopolanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Małopolanach	Małopolanin	subst:pl:loc:m1	nazwa pospolita	etn.
+Małopolanami	Małopolanin	subst:pl:inst:m1	nazwa pospolita	etn.
+Małopolanie	Małopolanin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Małopolanina	Małopolanin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Małopolaninem	Małopolanin	subst:sg:inst:m1	nazwa pospolita	etn.
+Małopolaninie	Małopolanin	subst:sg:loc:m1	nazwa pospolita	etn.
+Małopolaninie	Małopolanin	subst:sg:voc:m1	nazwa pospolita	etn.
+Małopolanin	Małopolanin	subst:sg:nom:m1	nazwa pospolita	etn.
+Małopolaninowi	Małopolanin	subst:sg:dat:m1	nazwa pospolita	etn.
+Małopolan	Małopolanin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Małopolanom	Małopolanin	subst:pl:dat:m1	nazwa pospolita	etn.
+Małopolany	Małopolanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
 Małopolsce	Małopolska:s1	subst:sg:dat.loc:f	nazwa geograficzna	
 Małopolskach	Małopolska:s1	subst:pl:loc:f	nazwa geograficzna	
 Małopolska	Małopolska:s1	subst:sg:nom:f	nazwa geograficzna	
@@ -27178,18 +27178,18 @@ Mazowieckimi	Mazowiecki	subst:pl:inst:m1	nazwisko
 Mazowieckim	Mazowiecki	subst:pl:dat:m1	nazwisko	
 Mazowieckim	Mazowiecki	subst:sg:inst:m1	nazwisko	
 Mazowieckim	Mazowiecki	subst:sg:loc:m1	nazwisko	
-Mazowszanach	Mazowszanin	subst:pl:loc:m1	nazwa pospolita	
-Mazowszanami	Mazowszanin	subst:pl:inst:m1	nazwa pospolita	
-Mazowszanie	Mazowszanin	subst:pl:nom.voc:m1	nazwa pospolita	
-Mazowszanina	Mazowszanin	subst:sg:gen.acc:m1	nazwa pospolita	
-Mazowszaninem	Mazowszanin	subst:sg:inst:m1	nazwa pospolita	
-Mazowszaninie	Mazowszanin	subst:sg:loc:m1	nazwa pospolita	
-Mazowszaninie	Mazowszanin	subst:sg:voc:m1	nazwa pospolita	
-Mazowszanin	Mazowszanin	subst:sg:nom:m1	nazwa pospolita	
-Mazowszaninowi	Mazowszanin	subst:sg:dat:m1	nazwa pospolita	
-Mazowszan	Mazowszanin	subst:pl:gen.acc:m1	nazwa pospolita	
-Mazowszanom	Mazowszanin	subst:pl:dat:m1	nazwa pospolita	
-Mazowszany	Mazowszanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+Mazowszanach	Mazowszanin	subst:pl:loc:m1	nazwa pospolita	etn.
+Mazowszanami	Mazowszanin	subst:pl:inst:m1	nazwa pospolita	etn.
+Mazowszanie	Mazowszanin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+Mazowszanina	Mazowszanin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+Mazowszaninem	Mazowszanin	subst:sg:inst:m1	nazwa pospolita	etn.
+Mazowszaninie	Mazowszanin	subst:sg:loc:m1	nazwa pospolita	etn.
+Mazowszaninie	Mazowszanin	subst:sg:voc:m1	nazwa pospolita	etn.
+Mazowszanin	Mazowszanin	subst:sg:nom:m1	nazwa pospolita	etn.
+Mazowszaninowi	Mazowszanin	subst:sg:dat:m1	nazwa pospolita	etn.
+Mazowszan	Mazowszanin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+Mazowszanom	Mazowszanin	subst:pl:dat:m1	nazwa pospolita	etn.
+Mazowszany	Mazowszanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
 Mazowszach	Mazowsze	subst:pl:loc:n:ncol	nazwa geograficzna	
 Mazowsza	Mazowsze	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
 Mazowsza	Mazowsze	subst:sg:gen:n:ncol	nazwa geograficzna	
