@@ -7677,6 +7677,20 @@ Kochańskimi	Kochański	subst:pl:inst:m1	nazwisko
 Kochańskim	Kochański	subst:pl:dat:m1	nazwisko	
 Kochańskim	Kochański	subst:sg:inst:m1	nazwisko	
 Kochańskim	Kochański	subst:sg:loc:m1	nazwisko	
+Kochinchinach	Kochinchina	subst:pl:loc:f	nazwa geograficzna	
+Kochinchina	Kochinchina	subst:sg:nom:f	nazwa geograficzna	
+Kochinchinami	Kochinchina	subst:pl:inst:f	nazwa geograficzna	
+Kochinchiną	Kochinchina	subst:sg:inst:f	nazwa geograficzna	
+Kochinchinę	Kochinchina	subst:sg:acc:f	nazwa geograficzna	
+Kochinchinie	Kochinchina	subst:sg:dat:f	nazwa geograficzna	
+Kochinchinie	Kochinchina	subst:sg:loc:f	nazwa geograficzna	
+Kochinchin	Kochinchina	subst:pl:gen:f	nazwa geograficzna	
+Kochinchino	Kochinchina	subst:sg:voc:f	nazwa geograficzna	
+Kochinchinom	Kochinchina	subst:pl:dat:f	nazwa geograficzna	
+Kochinchiny	Kochinchina	subst:pl:acc:f	nazwa geograficzna	
+Kochinchiny	Kochinchina	subst:pl:nom:f	nazwa geograficzna	
+Kochinchiny	Kochinchina	subst:pl:voc:f	nazwa geograficzna	
+Kochinchiny	Kochinchina	subst:sg:gen:f	nazwa geograficzna	
 Kociszewska	Kociszewska	subst:sg:nom:f	nazwisko	
 Kociszewska	Kociszewska	subst:sg:voc:f	nazwisko	
 Kociszewską	Kociszewska	subst:sg:acc:f	nazwisko	
