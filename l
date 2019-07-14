@@ -1,12 +1,21 @@
 ludziach	człowiek	subst:pl:loc:m1	pospolita	
+ludziach	człowiek	subst:pl:loc:m1	pospolita	daw.
 ludzi	człowiek	subst:pl:acc:m1	pospolita	
+ludzi	człowiek	subst:pl:acc:m1	pospolita	daw.
 ludzi	człowiek	subst:pl:gen:m1	pospolita	
+ludzi	człowiek	subst:pl:gen:m1	pospolita	daw.
 ludzie	człowiek	depr:pl:nom:m2	pospolita	
+ludzie	człowiek	depr:pl:nom:m2	pospolita	daw.
 ludzie	człowiek	depr:pl:voc:m2	pospolita	
+ludzie	człowiek	depr:pl:voc:m2	pospolita	daw.
 ludzie	człowiek	subst:pl:nom:m1	pospolita	
+ludzie	człowiek	subst:pl:nom:m1	pospolita	daw.
 ludzie	człowiek	subst:pl:voc:m1	pospolita	
+ludzie	człowiek	subst:pl:voc:m1	pospolita	daw.
 ludziom	człowiek	subst:pl:dat:m1	pospolita	
+ludziom	człowiek	subst:pl:dat:m1	pospolita	daw.
 ludźmi	człowiek	subst:pl:inst:m1	pospolita	
+ludźmi	człowiek	subst:pl:inst:m1	pospolita	daw.
 lepsi	dobry:a	adj:pl:nom.voc:m1.p1:com		
 lepsza	dobry:a	adj:sg:nom.voc:f:com		
 lepszą	dobry:a	adj:sg:acc:f:com		
@@ -24803,6 +24812,8 @@ letniakowi	letniak:s1	subst:sg:dat:m3	pospolita
 letniaków	letniak:s1	subst:pl:gen:m3	pospolita	
 letniaku	letniak:s1	subst:sg:loc:m3	pospolita	
 letniaku	letniak:s1	subst:sg:voc:m3	pospolita	
+letniacy	letniak:s2	subst:pl:nom:m1	pospolita	
+letniacy	letniak:s2	subst:pl:voc:m1	pospolita	
 letniakach	letniak:s2	subst:pl:loc:m1	pospolita	
 letniaka	letniak:s2	subst:sg:acc:m1	pospolita	
 letniaka	letniak:s2	subst:sg:gen:m1	pospolita	
@@ -24812,8 +24823,6 @@ letniaki	letniak:s2	depr:pl:nom:m2	pospolita
 letniaki	letniak:s2	depr:pl:voc:m2	pospolita	
 letniak	letniak:s2	subst:sg:nom:m1	pospolita	
 letniakom	letniak:s2	subst:pl:dat:m1	pospolita	
-letniakowie	letniak:s2	subst:pl:nom:m1	pospolita	
-letniakowie	letniak:s2	subst:pl:voc:m1	pospolita	
 letniakowi	letniak:s2	subst:sg:dat:m1	pospolita	
 letniaków	letniak:s2	subst:pl:acc:m1	pospolita	
 letniaków	letniak:s2	subst:pl:gen:m1	pospolita	
@@ -62580,3 +62589,10 @@ lata	rok:s1	subst:pl:voc:m3	pospolita
 latom	rok:s1	subst:pl:dat:m3	pospolita	
 lat	rok:s1	subst:pl:gen:m3	pospolita	
 laty	rok:s1	subst:pl:inst:m3	pospolita	przest.
+libyście	zeschnąć	cond:pl:m1.p1:sec:perf		
+libyśmy	zeschnąć	cond:pl:m1.p1:pri:perf		
+liby	zeschnąć	cond:pl:m1.p1:ter:perf		
+liście	zeschnąć	praet:pl:m1.p1:sec:perf		
+liśmy	zeschnąć	praet:pl:m1.p1:pri:perf		
+li	zeschnąć	praet:pl:m1.p1:perf		
+li	zeschnąć	praet:pl:m1.p1:ter:perf		

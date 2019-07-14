@@ -5606,7 +5606,7 @@ ilomakolwiek	ilekolwiek:n1	num:pl:inst:m1.m2.m3.f.n1.n2.p1.p2:congr		rzad.
 ilukolwiek	ilekolwiek:n1	num:pl:acc:m1:rec		
 ilukolwiek	ilekolwiek:n1	num:pl:gen.dat.inst.loc:m1.m2.m3.f.n1.n2.p1.p2:congr		
 ilukolwiek	ilekolwiek:n1	num:pl:nom.voc:m1:rec		
-ilekolwiek	ilekolwiek:n2	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		rzad.
+ilekolwiek	ilekolwiek:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
 ilekroć	ilekroć	adv		przest.
 ilekrotnie	ilekrotnie	adv:pos		daw.
 ilekrotnościach	ilekrotność	subst:pl:loc:f		daw.
@@ -5654,13 +5654,13 @@ ilu	ile:n1	num:comp
 ilu	ile:n1	num:pl:acc:m1:rec		
 ilu	ile:n1	num:pl:gen.dat.inst.loc:m1.m2.m3.f.n1.n2.p1.p2:congr		
 ilu	ile:n1	num:pl:nom.voc:m1:rec		
-ile	ile:n2	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		rzad.
+ile	ile:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
 ileś	ileś:n1	num:pl:nom.acc.voc:m2.m3.f.n1.n2.p1.p2:rec		
 ilomaś	ileś:n1	num:pl:inst:m1.m2.m3.f.n1.n2.p1.p2:congr		rzad.
 iluś	ileś:n1	num:pl:acc:m1:rec		
 iluś	ileś:n1	num:pl:gen.dat.inst.loc:m1.m2.m3.f.n1.n2.p1.p2:congr		
 iluś	ileś:n1	num:pl:nom.voc:m1:rec		
-ileś	ileś:n2	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		rzad.
+ileś	ileś:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
 ileusach	ileus	subst:pl:loc:m3	pospolita	
 ileusa	ileus	subst:sg:gen:m3	pospolita	
 ileusami	ileus	subst:pl:inst:m3	pospolita	
@@ -5680,7 +5680,7 @@ ilomaż	ileż:n1	num:pl:inst:m1.m2.m3.f.n1.n2.p1.p2:congr		rzad.
 iluż	ileż:n1	num:pl:acc:m1:rec		
 iluż	ileż:n1	num:pl:gen.dat.inst.loc:m1.m2.m3.f.n1.n2.p1.p2:congr		
 iluż	ileż:n1	num:pl:nom.voc:m1:rec		
-ileż	ileż:n2	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		rzad.
+ileż	ileż:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
 iliryjscy	iliryjski	adj:pl:nom.voc:m1.p1:pos		
 iliryjska	iliryjski	adj:sg:nom.voc:f:pos		
 iliryjską	iliryjski	adj:sg:acc:f:pos		

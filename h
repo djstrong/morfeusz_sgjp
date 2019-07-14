@@ -7274,9 +7274,9 @@ hanysem	hanys	subst:sg:inst:m1	pospolita
 hanys	hanys	subst:sg:nom:m1	pospolita	
 hanysie	hanys	subst:sg:loc:m1	pospolita	
 hanysie	hanys	subst:sg:voc:m1	pospolita	
+hanysi	hanys	subst:pl:nom:m1	pospolita	
+hanysi	hanys	subst:pl:voc:m1	pospolita	
 hanysom	hanys	subst:pl:dat:m1	pospolita	
-hanysowie	hanys	subst:pl:nom:m1	pospolita	
-hanysowie	hanys	subst:pl:voc:m1	pospolita	
 hanysowi	hanys	subst:sg:dat:m1	pospolita	
 hanysów	hanys	subst:pl:acc:m1	pospolita	
 hanysów	hanys	subst:pl:gen:m1	pospolita	
@@ -46690,6 +46690,20 @@ hycnięto	hycnąć	imps:perf
 hycnijcie	hycnąć	impt:pl:sec:perf		
 hycnij	hycnąć	impt:sg:sec:perf		
 hycnijmy	hycnąć	impt:pl:pri:perf		
+hyciek	hyćka	subst:pl:gen:f	pospolita	
+hyćce	hyćka	subst:sg:dat:f	pospolita	
+hyćce	hyćka	subst:sg:loc:f	pospolita	
+hyćkach	hyćka	subst:pl:loc:f	pospolita	
+hyćka	hyćka	subst:sg:nom:f	pospolita	
+hyćkami	hyćka	subst:pl:inst:f	pospolita	
+hyćką	hyćka	subst:sg:inst:f	pospolita	
+hyćkę	hyćka	subst:sg:acc:f	pospolita	
+hyćki	hyćka	subst:pl:acc:f	pospolita	
+hyćki	hyćka	subst:pl:nom:f	pospolita	
+hyćki	hyćka	subst:pl:voc:f	pospolita	
+hyćki	hyćka	subst:sg:gen:f	pospolita	
+hyćko	hyćka	subst:sg:voc:f	pospolita	
+hyćkom	hyćka	subst:pl:dat:f	pospolita	
 hydatodach	hydatoda	subst:pl:loc:f	pospolita	
 hydatoda	hydatoda	subst:sg:nom:f	pospolita	
 hydatodami	hydatoda	subst:pl:inst:f	pospolita	

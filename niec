@@ -39485,7 +39485,7 @@ niecominutowym	niecominutowy	adj:sg:inst:m1.m2.m3.n1.n2:pos
 niecominutowym	niecominutowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 niecominutowy	niecominutowy	adj:sg:acc:m3:pos		
 niecominutowy	niecominutowy	adj:sg:nom.voc:m1.m2.m3:pos		
-nieco	nieco:n	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+nieco	nieco:n	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		
 nieconiedzielnościach	nieconiedzielność	subst:pl:loc:f		
 nieconiedzielnościami	nieconiedzielność	subst:pl:inst:f		
 nieconiedzielnością	nieconiedzielność	subst:sg:inst:f		
@@ -57579,3 +57579,4 @@ nieczyżewskości	nieczyżewskość	subst:sg:voc:f
 nieczyżewskościom	nieczyżewskość	subst:pl:dat:f		
 nieczyżewskość	nieczyżewskość	subst:sg:acc:f		
 nieczyżewskość	nieczyżewskość	subst:sg:nom:f		
+niecie	zeschnąć	fin:pl:sec:perf		

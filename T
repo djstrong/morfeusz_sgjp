@@ -719,6 +719,22 @@ Tanny	Tanna	subst:pl:acc:f	imię
 Tanny	Tanna	subst:pl:nom:f	imię	
 Tanny	Tanna	subst:pl:voc:f	imię	
 Tanny	Tanna	subst:sg:gen:f	imię	
+Tantalach	Tantal	subst:pl:loc:m1	imię	mit.
+Tantalami	Tantal	subst:pl:inst:m1	imię	mit.
+Tantala	Tantal	subst:sg:acc:m1	imię	mit.
+Tantala	Tantal	subst:sg:gen:m1	imię	mit.
+Tantalem	Tantal	subst:sg:inst:m1	imię	mit.
+Tantale	Tantal	depr:pl:nom:m2	imię	mit.
+Tantale	Tantal	depr:pl:voc:m2	imię	mit.
+Tantale	Tantal	subst:pl:nom:m1	imię	mit.
+Tantale	Tantal	subst:pl:voc:m1	imię	mit.
+Tantali	Tantal	subst:pl:acc:m1	imię	mit.
+Tantali	Tantal	subst:pl:gen:m1	imię	mit.
+Tantalom	Tantal	subst:pl:dat:m1	imię	mit.
+Tantalowi	Tantal	subst:sg:dat:m1	imię	mit.
+Tantal	Tantal	subst:sg:nom:m1	imię	mit.
+Tantalu	Tantal	subst:sg:loc:m1	imię	mit.
+Tantalu	Tantal	subst:sg:voc:m1	imię	mit.
 Tanzaniach	Tanzania	subst:pl:loc:f	geograficzna	
 Tanzaniami	Tanzania	subst:pl:inst:f	geograficzna	
 Tanzania	Tanzania	subst:sg:nom:f	geograficzna	
@@ -1747,8 +1763,6 @@ Teodosiu	Teodosia	subst:sg:voc:f	imię
 Teodoś	Teodosia	subst:pl:gen:f	imię	char.
 Teodocie	Teodot	subst:sg:loc:m1	imię	
 Teodocie	Teodot	subst:sg:voc:m1	imię	
-Teodoci	Teodot	subst:pl:nom:m1	imię	
-Teodoci	Teodot	subst:pl:voc:m1	imię	
 Teodotach	Teodot	subst:pl:loc:m1	imię	
 Teodotami	Teodot	subst:pl:inst:m1	imię	
 Teodota	Teodot	subst:sg:acc:m1	imię	
@@ -2826,6 +2840,20 @@ Tłuchowów	Tłuchowo	subst:pl:gen:n2	geograficzna
 Tłuchow	Tłuchowo	subst:pl:gen:n2	geograficzna	
 Tłuchowu	Tłuchowo	subst:sg:dat:n2	geograficzna	
 Tłuchów	Tłuchowo	subst:pl:gen:n2	geograficzna	
+Tłuszczach	Tłuszcz	subst:pl:loc:m3	geograficzna	
+Tłuszczami	Tłuszcz	subst:pl:inst:m3	geograficzna	
+Tłuszcza	Tłuszcz	subst:sg:gen:m3	geograficzna	
+Tłuszczem	Tłuszcz	subst:sg:inst:m3	geograficzna	
+Tłuszcze	Tłuszcz	subst:pl:acc:m3	geograficzna	
+Tłuszcze	Tłuszcz	subst:pl:nom:m3	geograficzna	
+Tłuszcze	Tłuszcz	subst:pl:voc:m3	geograficzna	
+Tłuszczom	Tłuszcz	subst:pl:dat:m3	geograficzna	
+Tłuszczowi	Tłuszcz	subst:sg:dat:m3	geograficzna	
+Tłuszczów	Tłuszcz	subst:pl:gen:m3	geograficzna	
+Tłuszcz	Tłuszcz	subst:sg:acc:m3	geograficzna	
+Tłuszcz	Tłuszcz	subst:sg:nom:m3	geograficzna	
+Tłuszczu	Tłuszcz	subst:sg:loc:m3	geograficzna	
+Tłuszczu	Tłuszcz	subst:sg:voc:m3	geograficzna	
 TNT	TNT	subst:pl:acc:n2	firma	
 TNT	TNT	subst:pl:dat:n2	firma	
 TNT	TNT	subst:pl:gen:n2	firma	

@@ -13594,22 +13594,22 @@
 żołny	żołna	subst:pl:voc:f	pospolita	
 żołny	żołna	subst:sg:gen:f	pospolita	
 żołn	żołna	subst:pl:gen:f	pospolita	
-żołnierace	żołnieraka	subst:sg:dat:m1	pospolita	daw.
-żołnierace	żołnieraka	subst:sg:loc:m1	pospolita	daw.
-żołnieracy	żołnieraka	subst:pl:nom:m1	pospolita	daw.
-żołnieracy	żołnieraka	subst:pl:voc:m1	pospolita	daw.
-żołnierakach	żołnieraka	subst:pl:loc:m1	pospolita	daw.
-żołnierakami	żołnieraka	subst:pl:inst:m1	pospolita	daw.
-żołnieraka	żołnieraka	subst:sg:nom:m1	pospolita	daw.
-żołnieraką	żołnieraka	subst:sg:inst:m1	pospolita	daw.
-żołnierakę	żołnieraka	subst:sg:acc:m1	pospolita	daw.
-żołnieraki	żołnieraka	depr:pl:nom:m2	pospolita	daw.
-żołnieraki	żołnieraka	depr:pl:voc:m2	pospolita	daw.
-żołnieraki	żołnieraka	subst:sg:gen:m1	pospolita	daw.
-żołnierakom	żołnieraka	subst:pl:dat:m1	pospolita	daw.
-żołnierako	żołnieraka	subst:sg:voc:m1	pospolita	daw.
-żołnieraków	żołnieraka	subst:pl:acc:m1	pospolita	daw.
-żołnieraków	żołnieraka	subst:pl:gen:m1	pospolita	daw.
+żołnierace	żołnieraka	subst:sg:dat:m1	pospolita	daw.|rzad.
+żołnierace	żołnieraka	subst:sg:loc:m1	pospolita	daw.|rzad.
+żołnieracy	żołnieraka	subst:pl:nom:m1	pospolita	daw.|rzad.
+żołnieracy	żołnieraka	subst:pl:voc:m1	pospolita	daw.|rzad.
+żołnierakach	żołnieraka	subst:pl:loc:m1	pospolita	daw.|rzad.
+żołnierakami	żołnieraka	subst:pl:inst:m1	pospolita	daw.|rzad.
+żołnieraka	żołnieraka	subst:sg:nom:m1	pospolita	daw.|rzad.
+żołnieraką	żołnieraka	subst:sg:inst:m1	pospolita	daw.|rzad.
+żołnierakę	żołnieraka	subst:sg:acc:m1	pospolita	daw.|rzad.
+żołnieraki	żołnieraka	depr:pl:nom:m2	pospolita	daw.|rzad.
+żołnieraki	żołnieraka	depr:pl:voc:m2	pospolita	daw.|rzad.
+żołnieraki	żołnieraka	subst:sg:gen:m1	pospolita	daw.|rzad.
+żołnierakom	żołnieraka	subst:pl:dat:m1	pospolita	daw.|rzad.
+żołnierako	żołnieraka	subst:sg:voc:m1	pospolita	daw.|rzad.
+żołnieraków	żołnieraka	subst:pl:acc:m1	pospolita	daw.|rzad.
+żołnieraków	żołnieraka	subst:pl:gen:m1	pospolita	daw.|rzad.
 żołnierce	żołnierka	subst:sg:dat:f	pospolita	
 żołnierce	żołnierka	subst:sg:loc:f	pospolita	
 żołnierek	żołnierka	subst:pl:gen:f	pospolita	
@@ -18376,21 +18376,23 @@
 żuławskości	żuławskość	subst:sg:voc:f		
 żuławskość	żuławskość	subst:sg:acc:f		
 żuławskość	żuławskość	subst:sg:nom:f		
-żumpach	żump	subst:pl:loc:m1	pospolita	daw.
-żumpami	żump	subst:pl:inst:m1	pospolita	daw.
-żumpa	żump	subst:sg:acc:m1	pospolita	daw.
-żumpa	żump	subst:sg:gen:m1	pospolita	daw.
-żumpem	żump	subst:sg:inst:m1	pospolita	daw.
-żumpie	żump	subst:sg:loc:m1	pospolita	daw.
-żumpie	żump	subst:sg:voc:m1	pospolita	daw.
-żumpi	żump	subst:pl:nom:m1	pospolita	daw.
-żumpi	żump	subst:pl:voc:m1	pospolita	daw.
-żumpom	żump	subst:pl:dat:m1	pospolita	daw.
-żumpowi	żump	subst:sg:dat:m1	pospolita	daw.
-żumpów	żump	subst:pl:acc:m1	pospolita	daw.
-żumpów	żump	subst:pl:gen:m1	pospolita	daw.
-żumpy	żump	depr:pl:nom:m2	pospolita	daw.
-żumpy	żump	depr:pl:voc:m2	pospolita	daw.
+żumpiach	żump	subst:pl:loc:m1	pospolita	daw.
+żumpiami	żump	subst:pl:inst:m1	pospolita	daw.
+żumpia	żump	subst:sg:acc:m1	pospolita	daw.
+żumpia	żump	subst:sg:gen:m1	pospolita	daw.
+żumpiem	żump	subst:sg:inst:m1	pospolita	daw.
+żumpie	żump	depr:pl:nom:m2	pospolita	daw.
+żumpie	żump	depr:pl:voc:m2	pospolita	daw.
+żumpie	żump	subst:pl:nom:m1	pospolita	daw.
+żumpie	żump	subst:pl:voc:m1	pospolita	daw.
+żumpiom	żump	subst:pl:dat:m1	pospolita	daw.
+żumpiowi	żump	subst:sg:dat:m1	pospolita	daw.
+żumpiów	żump	subst:pl:acc:m1	pospolita	daw.
+żumpiów	żump	subst:pl:gen:m1	pospolita	daw.
+żumpiu	żump	subst:sg:loc:m1	pospolita	daw.
+żumpiu	żump	subst:sg:voc:m1	pospolita	daw.
+żumpi	żump	subst:pl:acc:m1	pospolita	daw.
+żumpi	żump	subst:pl:gen:m1	pospolita	daw.
 żump	żump	subst:sg:nom:m1	pospolita	daw.
 żumpiarzach	żumpiarz	subst:pl:loc:m1	pospolita	
 żumpiarzach	żumpiarz	subst:pl:loc:m1	pospolita	rzad.
@@ -20268,22 +20270,22 @@
 żwirkowatym	żwirkowaty	adj:sg:loc:m1.m2.m3.n1.n2:pos		
 żwirkowaty	żwirkowaty	adj:sg:acc:m3:pos		
 żwirkowaty	żwirkowaty	adj:sg:nom.voc:m1.m2.m3:pos		
-żwirnicy	żwirnik	subst:pl:nom:m1	pospolita	
-żwirnicy	żwirnik	subst:pl:voc:m1	pospolita	
-żwirnikach	żwirnik	subst:pl:loc:m1	pospolita	
-żwirnikami	żwirnik	subst:pl:inst:m1	pospolita	
-żwirnika	żwirnik	subst:sg:acc:m1	pospolita	
-żwirnika	żwirnik	subst:sg:gen:m1	pospolita	
-żwirnikiem	żwirnik	subst:sg:inst:m1	pospolita	
-żwirniki	żwirnik	depr:pl:nom:m2	pospolita	
-żwirniki	żwirnik	depr:pl:voc:m2	pospolita	
-żwirnikom	żwirnik	subst:pl:dat:m1	pospolita	
-żwirnikowi	żwirnik	subst:sg:dat:m1	pospolita	
-żwirników	żwirnik	subst:pl:acc:m1	pospolita	
-żwirników	żwirnik	subst:pl:gen:m1	pospolita	
-żwirniku	żwirnik	subst:sg:loc:m1	pospolita	
-żwirniku	żwirnik	subst:sg:voc:m1	pospolita	
-żwirnik	żwirnik	subst:sg:nom:m1	pospolita	
+żwirnicy	żwirnik	subst:pl:nom:m1	pospolita	rzad.
+żwirnicy	żwirnik	subst:pl:voc:m1	pospolita	rzad.
+żwirnikach	żwirnik	subst:pl:loc:m1	pospolita	rzad.
+żwirnikami	żwirnik	subst:pl:inst:m1	pospolita	rzad.
+żwirnika	żwirnik	subst:sg:acc:m1	pospolita	rzad.
+żwirnika	żwirnik	subst:sg:gen:m1	pospolita	rzad.
+żwirnikiem	żwirnik	subst:sg:inst:m1	pospolita	rzad.
+żwirniki	żwirnik	depr:pl:nom:m2	pospolita	rzad.
+żwirniki	żwirnik	depr:pl:voc:m2	pospolita	rzad.
+żwirnikom	żwirnik	subst:pl:dat:m1	pospolita	rzad.
+żwirnikowi	żwirnik	subst:sg:dat:m1	pospolita	rzad.
+żwirników	żwirnik	subst:pl:acc:m1	pospolita	rzad.
+żwirników	żwirnik	subst:pl:gen:m1	pospolita	rzad.
+żwirniku	żwirnik	subst:sg:loc:m1	pospolita	rzad.
+żwirniku	żwirnik	subst:sg:voc:m1	pospolita	rzad.
+żwirnik	żwirnik	subst:sg:nom:m1	pospolita	rzad.
 żwirobetonach	żwirobeton	subst:pl:loc:m3	pospolita	
 żwirobetonami	żwirobeton	subst:pl:inst:m3	pospolita	
 żwirobetonem	żwirobeton	subst:sg:inst:m3	pospolita	

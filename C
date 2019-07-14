@@ -1,4 +1,4 @@
-Copyright © 2007–2014 Zygmunt Saloni, Włodzimierz Gruszczyński, Marcin
+Copyright © 2007–2015 Zygmunt Saloni, Włodzimierz Gruszczyński, Marcin
 CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
 CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 C	C	subst:pl:acc:m3	język_programowania	komp.
@@ -895,7 +895,7 @@ CB-radia	CB-radio	subst:pl:voc:n2	pospolita
 CB-radia	CB-radio	subst:sg:gen:n2	pospolita	
 CB-radiach	CB-radio	subst:pl:loc:n2	pospolita	
 CB-radiami	CB-radio	subst:pl:inst:n2	pospolita	
-CB-radiiem	CB-radio	subst:sg:inst:n2	pospolita	
+CB-radiem	CB-radio	subst:sg:inst:n2	pospolita	
 CB-radio	CB-radio	subst:pl:acc:n2	pospolita	
 CB-radio	CB-radio	subst:pl:dat:n2	pospolita	
 CB-radio	CB-radio	subst:pl:gen:n2	pospolita	

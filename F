@@ -3633,6 +3633,10 @@ Frycach	Fryc	subst:pl:loc:m1	imię
 Fryca	Fryc	subst:sg:acc:m1	imię	
 Fryca	Fryc	subst:sg:gen:m1	imię	
 Frycami	Fryc	subst:pl:inst:m1	imię	
+Fryce	Fryc	depr:pl:nom:m2	imię	
+Fryce	Fryc	depr:pl:voc:m2	imię	
+Fryce	Fryc	subst:pl:nom:m1	imię	
+Fryce	Fryc	subst:pl:voc:m1	imię	
 Frycem	Fryc	subst:sg:inst:m1	imię	
 Fryc	Fryc	subst:sg:nom:m1	imię	
 Frycom	Fryc	subst:pl:dat:m1	imię	
@@ -3643,8 +3647,6 @@ Fryców	Fryc	subst:pl:acc:m1	imię
 Fryców	Fryc	subst:pl:gen:m1	imię	
 Frycu	Fryc	subst:sg:loc:m1	imię	
 Frycu	Fryc	subst:sg:voc:m1	imię	
-Frycy	Fryc	depr:pl:nom:m2	imię	
-Frycy	Fryc	depr:pl:voc:m2	imię	
 Frycek	Frycek	subst:sg:nom:m1	imię	
 Fryckach	Frycek	subst:pl:loc:m1	imię	
 Frycka	Frycek	subst:sg:acc:m1	imię	

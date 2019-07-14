@@ -702,20 +702,20 @@ vis-à-vis	vis-à-vis:s	subst:sg:inst:n2	pospolita
 vis-à-vis	vis-à-vis:s	subst:sg:loc:n2	pospolita	
 vis-à-vis	vis-à-vis:s	subst:sg:nom:n2	pospolita	
 vis-à-vis	vis-à-vis:s	subst:sg:voc:n2	pospolita	
-vivace	vivace	subst:pl:acc:n2	pospolita	
-vivace	vivace	subst:pl:dat:n2	pospolita	
-vivace	vivace	subst:pl:gen:n2	pospolita	
-vivace	vivace	subst:pl:inst:n2	pospolita	
-vivace	vivace	subst:pl:loc:n2	pospolita	
-vivace	vivace	subst:pl:nom:n2	pospolita	
-vivace	vivace	subst:pl:voc:n2	pospolita	
-vivace	vivace	subst:sg:acc:n2	pospolita	
-vivace	vivace	subst:sg:dat:n2	pospolita	
-vivace	vivace	subst:sg:gen:n2	pospolita	
-vivace	vivace	subst:sg:inst:n2	pospolita	
-vivace	vivace	subst:sg:loc:n2	pospolita	
-vivace	vivace	subst:sg:nom:n2	pospolita	
-vivace	vivace	subst:sg:voc:n2	pospolita	
+vivace	vivace	subst:pl:acc:n2	pospolita	muz.
+vivace	vivace	subst:pl:dat:n2	pospolita	muz.
+vivace	vivace	subst:pl:gen:n2	pospolita	muz.
+vivace	vivace	subst:pl:inst:n2	pospolita	muz.
+vivace	vivace	subst:pl:loc:n2	pospolita	muz.
+vivace	vivace	subst:pl:nom:n2	pospolita	muz.
+vivace	vivace	subst:pl:voc:n2	pospolita	muz.
+vivace	vivace	subst:sg:acc:n2	pospolita	muz.
+vivace	vivace	subst:sg:dat:n2	pospolita	muz.
+vivace	vivace	subst:sg:gen:n2	pospolita	muz.
+vivace	vivace	subst:sg:inst:n2	pospolita	muz.
+vivace	vivace	subst:sg:loc:n2	pospolita	muz.
+vivace	vivace	subst:sg:nom:n2	pospolita	muz.
+vivace	vivace	subst:sg:voc:n2	pospolita	muz.
 vivancie	vivant	subst:sg:loc:m1	pospolita	
 vivancie	vivant	subst:sg:voc:m1	pospolita	
 vivanci	vivant	subst:pl:nom:m1	pospolita	

@@ -1829,22 +1829,22 @@ edytujmy	edytować	impt:pl:pri:imperf
 ee	ee	qub		
 e-e	e-e	interj		
 eee	eee	interj		
-efebach	efeb	subst:pl:loc:m1	pospolita	
-efeba	efeb	subst:sg:acc:m1	pospolita	
-efeba	efeb	subst:sg:gen:m1	pospolita	
-efebami	efeb	subst:pl:inst:m1	pospolita	
-efeb	efeb	subst:sg:nom:m1	pospolita	
-efebem	efeb	subst:sg:inst:m1	pospolita	
-efebie	efeb	subst:sg:loc:m1	pospolita	
-efebie	efeb	subst:sg:voc:m1	pospolita	
-efebom	efeb	subst:pl:dat:m1	pospolita	
-efebowie	efeb	subst:pl:nom:m1	pospolita	
-efebowie	efeb	subst:pl:voc:m1	pospolita	
-efebowi	efeb	subst:sg:dat:m1	pospolita	
-efebów	efeb	subst:pl:acc:m1	pospolita	
-efebów	efeb	subst:pl:gen:m1	pospolita	
-efeby	efeb	depr:pl:nom:m2	pospolita	
-efeby	efeb	depr:pl:voc:m2	pospolita	
+efebach	efeb	subst:pl:loc:m1	pospolita	hist.
+efeba	efeb	subst:sg:acc:m1	pospolita	hist.
+efeba	efeb	subst:sg:gen:m1	pospolita	hist.
+efebami	efeb	subst:pl:inst:m1	pospolita	hist.
+efeb	efeb	subst:sg:nom:m1	pospolita	hist.
+efebem	efeb	subst:sg:inst:m1	pospolita	hist.
+efebie	efeb	subst:sg:loc:m1	pospolita	hist.
+efebie	efeb	subst:sg:voc:m1	pospolita	hist.
+efebom	efeb	subst:pl:dat:m1	pospolita	hist.
+efebowie	efeb	subst:pl:nom:m1	pospolita	hist.
+efebowie	efeb	subst:pl:voc:m1	pospolita	hist.
+efebowi	efeb	subst:sg:dat:m1	pospolita	hist.
+efebów	efeb	subst:pl:acc:m1	pospolita	hist.
+efebów	efeb	subst:pl:gen:m1	pospolita	hist.
+efeby	efeb	depr:pl:nom:m2	pospolita	hist.
+efeby	efeb	depr:pl:voc:m2	pospolita	hist.
 efebiach	efebia	subst:pl:loc:f	pospolita	
 efebia	efebia	subst:sg:nom:f	pospolita	
 efebiami	efebia	subst:pl:inst:f	pospolita	
@@ -4575,6 +4575,30 @@ egzekwujemy	egzekwować	fin:pl:pri:imperf
 egzekwujesz	egzekwować	fin:sg:sec:imperf		
 egzekwuję	egzekwować	fin:sg:pri:imperf		
 egzekwujmy	egzekwować	impt:pl:pri:imperf		
+egzekwowalna	egzekwowalny	adj:sg:nom.voc:f:pos		
+egzekwowalną	egzekwowalny	adj:sg:acc:f:pos		
+egzekwowalną	egzekwowalny	adj:sg:inst:f:pos		
+egzekwowalne	egzekwowalny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+egzekwowalne	egzekwowalny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+egzekwowalne	egzekwowalny	adj:sg:acc:n1.n2:pos		
+egzekwowalne	egzekwowalny	adj:sg:nom.voc:n1.n2:pos		
+egzekwowalnego	egzekwowalny	adj:sg:acc:m1.m2:pos		
+egzekwowalnego	egzekwowalny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+egzekwowalnej	egzekwowalny	adj:sg:dat:f:pos		
+egzekwowalnej	egzekwowalny	adj:sg:gen:f:pos		
+egzekwowalnej	egzekwowalny	adj:sg:loc:f:pos		
+egzekwowalnemu	egzekwowalny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+egzekwowalni	egzekwowalny	adj:pl:nom.voc:m1.p1:pos		
+egzekwowalno	egzekwowalny	adja		
+egzekwowalnych	egzekwowalny	adj:pl:acc:m1.p1:pos		
+egzekwowalnych	egzekwowalny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+egzekwowalnych	egzekwowalny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+egzekwowalny	egzekwowalny	adj:sg:acc:m3:pos		
+egzekwowalny	egzekwowalny	adj:sg:nom.voc:m1.m2.m3:pos		
+egzekwowalnym	egzekwowalny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+egzekwowalnym	egzekwowalny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+egzekwowalnym	egzekwowalny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+egzekwowalnymi	egzekwowalny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
 egzemach	egzema	subst:pl:loc:f	pospolita	med.
 egzema	egzema	subst:sg:nom:f	pospolita	med.
 egzemami	egzema	subst:pl:inst:f	pospolita	med.

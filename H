@@ -2059,22 +2059,24 @@ Herberty	Herbert	depr:pl:nom:m2	imię
 Herberty	Herbert	depr:pl:nom:m2	nazwisko	
 Herberty	Herbert	depr:pl:voc:m2	imię	
 Herberty	Herbert	depr:pl:voc:m2	nazwisko	
-Hercach	Herc	subst:pl:loc:m1	imię	
-Herca	Herc	subst:sg:acc:m1	imię	
-Herca	Herc	subst:sg:gen:m1	imię	
-Hercami	Herc	subst:pl:inst:m1	imię	
-Hercem	Herc	subst:sg:inst:m1	imię	
-Herc	Herc	subst:sg:nom:m1	imię	
-Hercom	Herc	subst:pl:dat:m1	imię	
-Hercowie	Herc	subst:pl:nom:m1	imię	
-Hercowie	Herc	subst:pl:voc:m1	imię	
-Hercowi	Herc	subst:sg:dat:m1	imię	
-Herców	Herc	subst:pl:acc:m1	imię	
-Herców	Herc	subst:pl:gen:m1	imię	
-Hercu	Herc	subst:sg:loc:m1	imię	
-Hercu	Herc	subst:sg:voc:m1	imię	
-Hercy	Herc	depr:pl:nom:m2	imię	
-Hercy	Herc	depr:pl:voc:m2	imię	
+Hercach	Herc	subst:pl:loc:m1	nazwisko	
+Herca	Herc	subst:sg:acc:m1	nazwisko	
+Herca	Herc	subst:sg:gen:m1	nazwisko	
+Hercami	Herc	subst:pl:inst:m1	nazwisko	
+Herce	Herc	depr:pl:nom:m2	nazwisko	
+Herce	Herc	depr:pl:voc:m2	nazwisko	
+Herce	Herc	subst:pl:nom:m1	nazwisko	
+Herce	Herc	subst:pl:voc:m1	nazwisko	
+Hercem	Herc	subst:sg:inst:m1	nazwisko	
+Herc	Herc	subst:sg:nom:m1	nazwisko	
+Hercom	Herc	subst:pl:dat:m1	nazwisko	
+Hercowie	Herc	subst:pl:nom:m1	nazwisko	
+Hercowie	Herc	subst:pl:voc:m1	nazwisko	
+Hercowi	Herc	subst:sg:dat:m1	nazwisko	
+Herców	Herc	subst:pl:acc:m1	nazwisko	
+Herców	Herc	subst:pl:gen:m1	nazwisko	
+Hercu	Herc	subst:sg:loc:m1	nazwisko	
+Hercu	Herc	subst:sg:voc:m1	nazwisko	
 Hercegowinach	Hercegowina	subst:pl:loc:f	geograficzna	
 Hercegowina	Hercegowina	subst:sg:nom:f	geograficzna	
 Hercegowinami	Hercegowina	subst:pl:inst:f	geograficzna	
@@ -3399,8 +3401,6 @@ Holmesem	Holmes	subst:sg:inst:m1	nazwisko	lit.
 Holmes	Holmes	subst:sg:nom:m1	nazwisko	lit.
 Holmesie	Holmes	subst:sg:loc:m1	nazwisko	lit.
 Holmesie	Holmes	subst:sg:voc:m1	nazwisko	lit.
-Holmesi	Holmes	subst:pl:nom:m1	nazwisko	lit.
-Holmesi	Holmes	subst:pl:voc:m1	nazwisko	lit.
 Holmesom	Holmes	subst:pl:dat:m1	nazwisko	lit.
 Holmesowie	Holmes	subst:pl:nom:m1	nazwisko	lit.
 Holmesowie	Holmes	subst:pl:voc:m1	nazwisko	lit.
