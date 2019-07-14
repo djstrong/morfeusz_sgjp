@@ -721,17 +721,17 @@ Eichhornowi	Eichhorn:s1	subst:sg:dat:m1	nazwisko
 Eichhornów	Eichhorn:s1	subst:pl:gen.acc:m1	nazwisko	
 Eichhorny	Eichhorn:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Eichhorn	Eichhorn:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Eichlerówien	Eichlerówna	subst:pl:gen:f	nazwisko	
-Eichlerównach	Eichlerówna	subst:pl:loc:f	nazwisko	
-Eichlerówna	Eichlerówna	subst:sg:nom:f	nazwisko	
-Eichlerównami	Eichlerówna	subst:pl:inst:f	nazwisko	
-Eichlerówną	Eichlerówna	subst:sg:inst:f	nazwisko	
-Eichlerównę	Eichlerówna	subst:sg:acc:f	nazwisko	
-Eichlerównie	Eichlerówna	subst:sg:dat.loc:f	nazwisko	
-Eichlerówno	Eichlerówna	subst:sg:voc:f	nazwisko	
-Eichlerównom	Eichlerówna	subst:pl:dat:f	nazwisko	
-Eichlerówny	Eichlerówna	subst:pl:nom.acc.voc:f	nazwisko	
-Eichlerówny	Eichlerówna	subst:sg:gen:f	nazwisko	
+Eichlerówien	Eichlerówna	subst:pl:gen:f	nazwisko (odojcowskie)	
+Eichlerównach	Eichlerówna	subst:pl:loc:f	nazwisko (odojcowskie)	
+Eichlerówna	Eichlerówna	subst:sg:nom:f	nazwisko (odojcowskie)	
+Eichlerównami	Eichlerówna	subst:pl:inst:f	nazwisko (odojcowskie)	
+Eichlerówną	Eichlerówna	subst:sg:inst:f	nazwisko (odojcowskie)	
+Eichlerównę	Eichlerówna	subst:sg:acc:f	nazwisko (odojcowskie)	
+Eichlerównie	Eichlerówna	subst:sg:dat.loc:f	nazwisko (odojcowskie)	
+Eichlerówno	Eichlerówna	subst:sg:voc:f	nazwisko (odojcowskie)	
+Eichlerównom	Eichlerówna	subst:pl:dat:f	nazwisko (odojcowskie)	
+Eichlerówny	Eichlerówna	subst:pl:nom.acc.voc:f	nazwisko (odojcowskie)	
+Eichlerówny	Eichlerówna	subst:sg:gen:f	nazwisko (odojcowskie)	
 Eichlerach	Eichler:s1	subst:pl:loc:m1	nazwisko	
 Eichlera	Eichler:s1	subst:sg:gen.acc:m1	nazwisko	
 Eichlerami	Eichler:s1	subst:pl:inst:m1	nazwisko	
@@ -745,18 +745,19 @@ Eichlery	Eichler:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Eichlerze	Eichler:s1	subst:sg:loc:m1	nazwisko	
 Eichlerze	Eichler:s1	subst:sg:voc:m1	nazwisko	
 Eichler	Eichler:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Eichmannach	Eichmann	subst:pl:loc:m1	nazwisko	
-Eichmanna	Eichmann	subst:sg:gen.acc:m1	nazwisko	
-Eichmannami	Eichmann	subst:pl:inst:m1	nazwisko	
-Eichmann	Eichmann	subst:sg:nom:m1	nazwisko	
-Eichmannem	Eichmann	subst:sg:inst:m1	nazwisko	
-Eichmannie	Eichmann	subst:sg:loc:m1	nazwisko	
-Eichmannie	Eichmann	subst:sg:voc:m1	nazwisko	
-Eichmannom	Eichmann	subst:pl:dat:m1	nazwisko	
-Eichmannowie	Eichmann	subst:pl:nom.voc:m1	nazwisko	
-Eichmannowi	Eichmann	subst:sg:dat:m1	nazwisko	
-Eichmannów	Eichmann	subst:pl:gen.acc:m1	nazwisko	
-Eichmanny	Eichmann	depr:pl:nom.acc.voc:m2	nazwisko	
+Eichmannach	Eichmann:s1	subst:pl:loc:m1	nazwisko	
+Eichmanna	Eichmann:s1	subst:sg:gen.acc:m1	nazwisko	
+Eichmannami	Eichmann:s1	subst:pl:inst:m1	nazwisko	
+Eichmann	Eichmann:s1	subst:sg:nom:m1	nazwisko	
+Eichmannem	Eichmann:s1	subst:sg:inst:m1	nazwisko	
+Eichmannie	Eichmann:s1	subst:sg:loc:m1	nazwisko	
+Eichmannie	Eichmann:s1	subst:sg:voc:m1	nazwisko	
+Eichmannom	Eichmann:s1	subst:pl:dat:m1	nazwisko	
+Eichmannowie	Eichmann:s1	subst:pl:nom.voc:m1	nazwisko	
+Eichmannowi	Eichmann:s1	subst:sg:dat:m1	nazwisko	
+Eichmannów	Eichmann:s1	subst:pl:gen.acc:m1	nazwisko	
+Eichmanny	Eichmann:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Eichmann	Eichmann:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Eichnerach	Eichner:s1	subst:pl:loc:m1	nazwisko	
 Eichnera	Eichner:s1	subst:sg:gen.acc:m1	nazwisko	
 Eichnerami	Eichner:s1	subst:pl:inst:m1	nazwisko	
@@ -2518,19 +2519,6 @@ Engelhardtowi	Engelhardt:s1	subst:sg:dat:m1	nazwisko
 Engelhardtów	Engelhardt:s1	subst:pl:gen.acc:m1	nazwisko	
 Engelhardty	Engelhardt:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Engelhardt	Engelhardt:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Engelsach	Engels	subst:pl:loc:m1	nazwisko	
-Engelsa	Engels	subst:sg:gen.acc:m1	nazwisko	
-Engelsami	Engels	subst:pl:inst:m1	nazwisko	
-Engelsem	Engels	subst:sg:inst:m1	nazwisko	
-Engels	Engels	subst:sg:nom:m1	nazwisko	
-Engelsie	Engels	subst:sg:loc:m1	nazwisko	
-Engelsie	Engels	subst:sg:voc:m1	nazwisko	
-Engelsi	Engels	subst:pl:nom.voc:m1	nazwisko	
-Engelsom	Engels	subst:pl:dat:m1	nazwisko	
-Engelsowie	Engels	subst:pl:nom.voc:m1	nazwisko	
-Engelsowi	Engels	subst:sg:dat:m1	nazwisko	
-Engelsów	Engels	subst:pl:gen.acc:m1	nazwisko	
-Engelsy	Engels	depr:pl:nom.acc.voc:m2	nazwisko	
 Engelach	Engel:s1	subst:pl:loc:m1	nazwisko	
 Engela	Engel:s1	subst:sg:gen.acc:m1	nazwisko	
 Engelami	Engel:s1	subst:pl:inst:m1	nazwisko	
@@ -2555,6 +2543,20 @@ Englów	Engel:s1	subst:pl:gen.acc:m1	nazwisko
 Englu	Engel:s1	subst:sg:loc:m1	nazwisko	
 Englu	Engel:s1	subst:sg:voc:m1	nazwisko	
 Engel	Engel:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Engelsach	Engels:s1	subst:pl:loc:m1	nazwisko	
+Engelsa	Engels:s1	subst:sg:gen.acc:m1	nazwisko	
+Engelsami	Engels:s1	subst:pl:inst:m1	nazwisko	
+Engelsem	Engels:s1	subst:sg:inst:m1	nazwisko	
+Engels	Engels:s1	subst:sg:nom:m1	nazwisko	
+Engelsie	Engels:s1	subst:sg:loc:m1	nazwisko	
+Engelsie	Engels:s1	subst:sg:voc:m1	nazwisko	
+Engelsi	Engels:s1	subst:pl:nom.voc:m1	nazwisko	
+Engelsom	Engels:s1	subst:pl:dat:m1	nazwisko	
+Engelsowie	Engels:s1	subst:pl:nom.voc:m1	nazwisko	
+Engelsowi	Engels:s1	subst:sg:dat:m1	nazwisko	
+Engelsów	Engels:s1	subst:pl:gen.acc:m1	nazwisko	
+Engelsy	Engels:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Engels	Engels:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Engielach	Engiel:s1	subst:pl:loc:m1	nazwisko	
 Engiela	Engiel:s1	subst:sg:gen.acc:m1	nazwisko	
 Engielami	Engiel:s1	subst:pl:inst:m1	nazwisko	
@@ -3600,18 +3602,19 @@ Estończykowi	Estończyk	subst:sg:dat:m1	nazwa pospolita
 Estończyków	Estończyk	subst:pl:gen.acc:m1	nazwa pospolita	
 Estończyku	Estończyk	subst:sg:loc:m1	nazwa pospolita	
 Estończyku	Estończyk	subst:sg:voc:m1	nazwa pospolita	
-Estreicherach	Estreicher	subst:pl:loc:m1	nazwisko	
-Estreichera	Estreicher	subst:sg:gen.acc:m1	nazwisko	
-Estreicherami	Estreicher	subst:pl:inst:m1	nazwisko	
-Estreicherem	Estreicher	subst:sg:inst:m1	nazwisko	
-Estreicher	Estreicher	subst:sg:nom:m1	nazwisko	
-Estreicherom	Estreicher	subst:pl:dat:m1	nazwisko	
-Estreicherowie	Estreicher	subst:pl:nom.voc:m1	nazwisko	
-Estreicherowi	Estreicher	subst:sg:dat:m1	nazwisko	
-Estreicherów	Estreicher	subst:pl:gen.acc:m1	nazwisko	
-Estreichery	Estreicher	depr:pl:nom.acc.voc:m2	nazwisko	
-Estreicherze	Estreicher	subst:sg:loc:m1	nazwisko	
-Estreicherze	Estreicher	subst:sg:voc:m1	nazwisko	
+Estreicherach	Estreicher:s1	subst:pl:loc:m1	nazwisko	
+Estreichera	Estreicher:s1	subst:sg:gen.acc:m1	nazwisko	
+Estreicherami	Estreicher:s1	subst:pl:inst:m1	nazwisko	
+Estreicherem	Estreicher:s1	subst:sg:inst:m1	nazwisko	
+Estreicher	Estreicher:s1	subst:sg:nom:m1	nazwisko	
+Estreicherom	Estreicher:s1	subst:pl:dat:m1	nazwisko	
+Estreicherowie	Estreicher:s1	subst:pl:nom.voc:m1	nazwisko	
+Estreicherowi	Estreicher:s1	subst:sg:dat:m1	nazwisko	
+Estreicherów	Estreicher:s1	subst:pl:gen.acc:m1	nazwisko	
+Estreichery	Estreicher:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Estreicherze	Estreicher:s1	subst:sg:loc:m1	nazwisko	
+Estreicherze	Estreicher:s1	subst:sg:voc:m1	nazwisko	
+Estreicher	Estreicher:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Eszerach	Eszer:s1	subst:pl:loc:m1	nazwisko	
 Eszera	Eszer:s1	subst:sg:gen.acc:m1	nazwisko	
 Eszerami	Eszer:s1	subst:pl:inst:m1	nazwisko	

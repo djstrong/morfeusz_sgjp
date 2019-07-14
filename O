@@ -1852,18 +1852,6 @@ Oceanii	Oceania	subst:sg:gen:f	nazwa geograficzna
 Oceanij	Oceania	subst:pl:gen:f	nazwa geograficzna	arch.|char.
 Oceaniom	Oceania	subst:pl:dat:f	nazwa geograficzna	
 Oceanio	Oceania	subst:sg:voc:f	nazwa geograficzna	
-Occie	Ocet	subst:sg:loc:m1	nazwisko	
-Occie	Ocet	subst:sg:voc:m1	nazwisko	
-Ocet	Ocet	subst:sg:nom:m1	nazwisko	
-Octach	Ocet	subst:pl:loc:m1	nazwisko	
-Octami	Ocet	subst:pl:inst:m1	nazwisko	
-Octa	Ocet	subst:sg:gen.acc:m1	nazwisko	
-Octem	Ocet	subst:sg:inst:m1	nazwisko	
-Octom	Ocet	subst:pl:dat:m1	nazwisko	
-Octowie	Ocet	subst:pl:nom.voc:m1	nazwisko	
-Octowi	Ocet	subst:sg:dat:m1	nazwisko	
-Octów	Ocet	subst:pl:gen.acc:m1	nazwisko	
-Octy	Ocet	depr:pl:nom.acc.voc:m2	nazwisko	
 Ocetek	Ocetek:s1	subst:sg:nom:m1	nazwisko	
 Ocetkach	Ocetek:s1	subst:pl:loc:m1	nazwisko	
 Ocetkami	Ocetek:s1	subst:pl:inst:m1	nazwisko	
@@ -1891,6 +1879,19 @@ Ocetkiewiczów	Ocetkiewicz:s1	subst:pl:gen.acc:m1	nazwisko
 Ocetkiewiczu	Ocetkiewicz:s1	subst:sg:loc:m1	nazwisko	
 Ocetkiewiczu	Ocetkiewicz:s1	subst:sg:voc:m1	nazwisko	
 Ocetkiewicz	Ocetkiewicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Occie	Ocet:s1	subst:sg:loc:m1	nazwisko	
+Occie	Ocet:s1	subst:sg:voc:m1	nazwisko	
+Ocet	Ocet:s1	subst:sg:nom:m1	nazwisko	
+Octach	Ocet:s1	subst:pl:loc:m1	nazwisko	
+Octami	Ocet:s1	subst:pl:inst:m1	nazwisko	
+Octa	Ocet:s1	subst:sg:gen.acc:m1	nazwisko	
+Octem	Ocet:s1	subst:sg:inst:m1	nazwisko	
+Octom	Ocet:s1	subst:pl:dat:m1	nazwisko	
+Octowie	Ocet:s1	subst:pl:nom.voc:m1	nazwisko	
+Octowi	Ocet:s1	subst:sg:dat:m1	nazwisko	
+Octów	Ocet:s1	subst:pl:gen.acc:m1	nazwisko	
+Octy	Ocet:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Ocet	Ocet:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Ochabach	Ochab:s1	subst:pl:loc:m1	nazwisko	
 Ochabami	Ochab:s1	subst:pl:inst:m1	nazwisko	
 Ochaba	Ochab:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -5291,18 +5292,19 @@ Ohlów	Ohl:s1	subst:pl:gen.acc:m1	nazwisko
 Ohlu	Ohl:s1	subst:sg:loc:m1	nazwisko	
 Ohlu	Ohl:s1	subst:sg:voc:m1	nazwisko	
 Ohl	Ohl:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Ohmach	Ohm	subst:pl:loc:m1	nazwisko	
-Ohmami	Ohm	subst:pl:inst:m1	nazwisko	
-Ohma	Ohm	subst:sg:gen.acc:m1	nazwisko	
-Ohmem	Ohm	subst:sg:inst:m1	nazwisko	
-Ohmie	Ohm	subst:sg:loc:m1	nazwisko	
-Ohmie	Ohm	subst:sg:voc:m1	nazwisko	
-Ohm	Ohm	subst:sg:nom:m1	nazwisko	
-Ohmom	Ohm	subst:pl:dat:m1	nazwisko	
-Ohmowie	Ohm	subst:pl:nom.voc:m1	nazwisko	
-Ohmowi	Ohm	subst:sg:dat:m1	nazwisko	
-Ohmów	Ohm	subst:pl:gen.acc:m1	nazwisko	
-Ohmy	Ohm	depr:pl:nom.acc.voc:m2	nazwisko	
+Ohmach	Ohm:s1	subst:pl:loc:m1	nazwisko	
+Ohmami	Ohm:s1	subst:pl:inst:m1	nazwisko	
+Ohma	Ohm:s1	subst:sg:gen.acc:m1	nazwisko	
+Ohmem	Ohm:s1	subst:sg:inst:m1	nazwisko	
+Ohmie	Ohm:s1	subst:sg:loc:m1	nazwisko	
+Ohmie	Ohm:s1	subst:sg:voc:m1	nazwisko	
+Ohm	Ohm:s1	subst:sg:nom:m1	nazwisko	
+Ohmom	Ohm:s1	subst:pl:dat:m1	nazwisko	
+Ohmowie	Ohm:s1	subst:pl:nom.voc:m1	nazwisko	
+Ohmowi	Ohm:s1	subst:sg:dat:m1	nazwisko	
+Ohmów	Ohm:s1	subst:pl:gen.acc:m1	nazwisko	
+Ohmy	Ohm:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Ohm	Ohm:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 OHP	OHP	subst:pl:nom.gen.dat.acc.inst.loc.voc:n:pt	nazwa organizacji	
 OHP	OHP	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji	
 Oicie	OIT	subst:sg:loc:m3	nazwa instytucji	
@@ -5946,18 +5948,19 @@ Okołowskim	Okołowski	subst:sg:inst:m1	nazwisko
 Okołowskim	Okołowski	subst:sg:loc:m1	nazwisko	
 Okołowski	Okołowski	subst:sg:nom:m1	nazwisko	
 Okołowski	Okołowski	subst:sg:voc:m1	nazwisko	
-Okołowach	Okołów	subst:pl:loc:m1	nazwisko	
-Okołowami	Okołów	subst:pl:inst:m1	nazwisko	
-Okołowa	Okołów	subst:sg:gen.acc:m1	nazwisko	
-Okołowem	Okołów	subst:sg:inst:m1	nazwisko	
-Okołowie	Okołów	subst:sg:loc:m1	nazwisko	
-Okołowie	Okołów	subst:sg:voc:m1	nazwisko	
-Okołowom	Okołów	subst:pl:dat:m1	nazwisko	
-Okołowowie	Okołów	subst:pl:nom.voc:m1	nazwisko	
-Okołowowi	Okołów	subst:sg:dat:m1	nazwisko	
-Okołowów	Okołów	subst:pl:gen.acc:m1	nazwisko	
-Okołowy	Okołów	depr:pl:nom.acc.voc:m2	nazwisko	
-Okołów	Okołów	subst:sg:nom:m1	nazwisko	
+Okołowach	Okołów:s1	subst:pl:loc:m1	nazwisko	
+Okołowami	Okołów:s1	subst:pl:inst:m1	nazwisko	
+Okołowa	Okołów:s1	subst:sg:gen.acc:m1	nazwisko	
+Okołowem	Okołów:s1	subst:sg:inst:m1	nazwisko	
+Okołowie	Okołów:s1	subst:sg:loc:m1	nazwisko	
+Okołowie	Okołów:s1	subst:sg:voc:m1	nazwisko	
+Okołowom	Okołów:s1	subst:pl:dat:m1	nazwisko	
+Okołowowie	Okołów:s1	subst:pl:nom.voc:m1	nazwisko	
+Okołowowi	Okołów:s1	subst:sg:dat:m1	nazwisko	
+Okołowów	Okołów:s1	subst:pl:gen.acc:m1	nazwisko	
+Okołowy	Okołów:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Okołów	Okołów:s1	subst:sg:nom:m1	nazwisko	
+Okołów	Okołów:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Okomska	Okomska	subst:sg:nom:f	nazwisko	
 Okomska	Okomska	subst:sg:voc:f	nazwisko	
 Okomską	Okomska	subst:sg:acc:f	nazwisko	
@@ -6936,6 +6939,17 @@ Okulewiczów	Okulewicz:s2	subst:pl:gen.acc:m1	nazwisko
 Okulewiczu	Okulewicz:s2	subst:sg:loc:m1	nazwisko	
 Okulewiczu	Okulewicz:s2	subst:sg:voc:m1	nazwisko	
 Okulewicz	Okulewicz:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Okulicka	Okulicka	subst:sg:nom:f	nazwisko	
+Okulicka	Okulicka	subst:sg:voc:f	nazwisko	
+Okulicką	Okulicka	subst:sg:acc:f	nazwisko	
+Okulicką	Okulicka	subst:sg:inst:f	nazwisko	
+Okulickich	Okulicka	subst:pl:gen:f	nazwisko	
+Okulickich	Okulicka	subst:pl:loc:f	nazwisko	
+Okulickiej	Okulicka	subst:sg:dat.loc:f	nazwisko	
+Okulickiej	Okulicka	subst:sg:gen:f	nazwisko	
+Okulickie	Okulicka	subst:pl:nom.acc.voc:f	nazwisko	
+Okulickimi	Okulicka	subst:pl:inst:f	nazwisko	
+Okulickim	Okulicka	subst:pl:dat:f	nazwisko	
 Okuliccy	Okulicki	subst:pl:nom.voc:m1	nazwisko	
 Okulickich	Okulicki	subst:pl:gen.acc:m1	nazwisko	
 Okulickich	Okulicki	subst:pl:loc:m1	nazwisko	
@@ -14277,17 +14291,17 @@ Ord	Orda:s2	subst:pl:gen:f	nazwisko
 Ordy	Orda:s2	subst:pl:nom.acc.voc:f	nazwisko	
 Ordy	Orda:s2	subst:sg:gen:f	nazwisko	
 Ordzie	Orda:s2	subst:sg:dat.loc:f	nazwisko	
-Ordonówien	Ordonówna	subst:pl:gen:f	nazwisko	
-Ordonównach	Ordonówna	subst:pl:loc:f	nazwisko	
-Ordonównami	Ordonówna	subst:pl:inst:f	nazwisko	
-Ordonówna	Ordonówna	subst:sg:nom:f	nazwisko	
-Ordonówną	Ordonówna	subst:sg:inst:f	nazwisko	
-Ordonównę	Ordonówna	subst:sg:acc:f	nazwisko	
-Ordonównie	Ordonówna	subst:sg:dat.loc:f	nazwisko	
-Ordonównom	Ordonówna	subst:pl:dat:f	nazwisko	
-Ordonówno	Ordonówna	subst:sg:voc:f	nazwisko	
-Ordonówny	Ordonówna	subst:pl:nom.acc.voc:f	nazwisko	
-Ordonówny	Ordonówna	subst:sg:gen:f	nazwisko	
+Ordonówien	Ordonówna	subst:pl:gen:f	nazwisko (odojcowskie)	
+Ordonównach	Ordonówna	subst:pl:loc:f	nazwisko (odojcowskie)	
+Ordonównami	Ordonówna	subst:pl:inst:f	nazwisko (odojcowskie)	
+Ordonówna	Ordonówna	subst:sg:nom:f	nazwisko (odojcowskie)	
+Ordonówną	Ordonówna	subst:sg:inst:f	nazwisko (odojcowskie)	
+Ordonównę	Ordonówna	subst:sg:acc:f	nazwisko (odojcowskie)	
+Ordonównie	Ordonówna	subst:sg:dat.loc:f	nazwisko (odojcowskie)	
+Ordonównom	Ordonówna	subst:pl:dat:f	nazwisko (odojcowskie)	
+Ordonówno	Ordonówna	subst:sg:voc:f	nazwisko (odojcowskie)	
+Ordonówny	Ordonówna	subst:pl:nom.acc.voc:f	nazwisko (odojcowskie)	
+Ordonówny	Ordonówna	subst:sg:gen:f	nazwisko (odojcowskie)	
 Ordonach	Ordon:s2	subst:pl:loc:m1	nazwisko	
 Ordonami	Ordon:s2	subst:pl:inst:m1	nazwisko	
 Ordona	Ordon:s2	subst:sg:gen.acc:m1	nazwisko	
@@ -14796,18 +14810,19 @@ Orion	Orion:s2	subst:sg:nom:m2	nazwa własna astronomiczna
 Orionowi	Orion:s2	subst:sg:dat:m2	nazwa własna astronomiczna	
 Orionów	Orion:s2	subst:pl:gen:m2	nazwa własna astronomiczna	
 Oriony	Orion:s2	subst:pl:nom.acc.voc:m2	nazwa własna astronomiczna	
-Orkanach	Orkan	subst:pl:loc:m1	nazwisko	
-Orkanami	Orkan	subst:pl:inst:m1	nazwisko	
-Orkana	Orkan	subst:sg:gen.acc:m1	nazwisko	
-Orkanem	Orkan	subst:sg:inst:m1	nazwisko	
-Orkanie	Orkan	subst:sg:loc:m1	nazwisko	
-Orkanie	Orkan	subst:sg:voc:m1	nazwisko	
-Orkanom	Orkan	subst:pl:dat:m1	nazwisko	
-Orkan	Orkan	subst:sg:nom:m1	nazwisko	
-Orkanowie	Orkan	subst:pl:nom.voc:m1	nazwisko	
-Orkanowi	Orkan	subst:sg:dat:m1	nazwisko	
-Orkanów	Orkan	subst:pl:gen.acc:m1	nazwisko	
-Orkany	Orkan	depr:pl:nom.acc.voc:m2	nazwisko	
+Orkanach	Orkan:s1	subst:pl:loc:m1	nazwisko	
+Orkanami	Orkan:s1	subst:pl:inst:m1	nazwisko	
+Orkana	Orkan:s1	subst:sg:gen.acc:m1	nazwisko	
+Orkanem	Orkan:s1	subst:sg:inst:m1	nazwisko	
+Orkanie	Orkan:s1	subst:sg:loc:m1	nazwisko	
+Orkanie	Orkan:s1	subst:sg:voc:m1	nazwisko	
+Orkanom	Orkan:s1	subst:pl:dat:m1	nazwisko	
+Orkan	Orkan:s1	subst:sg:nom:m1	nazwisko	
+Orkanowie	Orkan:s1	subst:pl:nom.voc:m1	nazwisko	
+Orkanowi	Orkan:s1	subst:sg:dat:m1	nazwisko	
+Orkanów	Orkan:s1	subst:pl:gen.acc:m1	nazwisko	
+Orkany	Orkan:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Orkan	Orkan:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Orkiszewska	Orkiszewska	subst:sg:nom:f	nazwisko	
 Orkiszewska	Orkiszewska	subst:sg:voc:f	nazwisko	
 Orkiszewską	Orkiszewska	subst:sg:acc:f	nazwisko	
@@ -15734,18 +15749,19 @@ Orszo	Orsza	subst:sg:voc:f	nazwa geograficzna
 Orsz	Orsza	subst:pl:gen:f	nazwa geograficzna	
 Orszy	Orsza	subst:sg:dat.loc:f	nazwa geograficzna	
 Orszy	Orsza	subst:sg:gen:f	nazwa geograficzna	
-Orszaghach	Orszagh	subst:pl:loc:m1	nazwisko	
-Orszaghami	Orszagh	subst:pl:inst:m1	nazwisko	
-Orszagha	Orszagh	subst:sg:gen.acc:m1	nazwisko	
-Orszaghiem	Orszagh	subst:sg:inst:m1	nazwisko	
-Orszaghi	Orszagh	depr:pl:nom.acc.voc:m2	nazwisko	
-Orszaghom	Orszagh	subst:pl:dat:m1	nazwisko	
-Orszagh	Orszagh	subst:sg:nom:m1	nazwisko	
-Orszaghowie	Orszagh	subst:pl:nom.voc:m1	nazwisko	
-Orszaghowi	Orszagh	subst:sg:dat:m1	nazwisko	
-Orszaghów	Orszagh	subst:pl:gen.acc:m1	nazwisko	
-Orszaghu	Orszagh	subst:sg:loc:m1	nazwisko	
-Orszaghu	Orszagh	subst:sg:voc:m1	nazwisko	
+Orszaghach	Orszagh:s1	subst:pl:loc:m1	nazwisko	
+Orszaghami	Orszagh:s1	subst:pl:inst:m1	nazwisko	
+Orszagha	Orszagh:s1	subst:sg:gen.acc:m1	nazwisko	
+Orszaghiem	Orszagh:s1	subst:sg:inst:m1	nazwisko	
+Orszaghi	Orszagh:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Orszaghom	Orszagh:s1	subst:pl:dat:m1	nazwisko	
+Orszagh	Orszagh:s1	subst:sg:nom:m1	nazwisko	
+Orszaghowie	Orszagh:s1	subst:pl:nom.voc:m1	nazwisko	
+Orszaghowi	Orszagh:s1	subst:sg:dat:m1	nazwisko	
+Orszaghów	Orszagh:s1	subst:pl:gen.acc:m1	nazwisko	
+Orszaghu	Orszagh:s1	subst:sg:loc:m1	nazwisko	
+Orszaghu	Orszagh:s1	subst:sg:voc:m1	nazwisko	
+Orszagh	Orszagh:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Orszakach	Orszak:s1	subst:pl:loc:m1	nazwisko	
 Orszakami	Orszak:s1	subst:pl:inst:m1	nazwisko	
 Orszaka	Orszak:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -16358,17 +16374,17 @@ Orzeszko	Orzeszko:s1	subst:sg:voc:m1	nazwisko
 Orzeszkowie	Orzeszko:s1	subst:pl:nom.voc:m1	nazwisko	
 Orzeszków	Orzeszko:s1	subst:pl:gen.acc:m1	nazwisko	
 Orzeszko	Orzeszko:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Orzeszkowa	Orzeszkowa	subst:sg:nom:f	nazwisko	
-Orzeszkowa	Orzeszkowa	subst:sg:voc:f	nazwisko	
-Orzeszkową	Orzeszkowa	subst:sg:acc:f	nazwisko	
-Orzeszkową	Orzeszkowa	subst:sg:inst:f	nazwisko	
-Orzeszkowej	Orzeszkowa	subst:sg:dat.loc:f	nazwisko	
-Orzeszkowej	Orzeszkowa	subst:sg:gen:f	nazwisko	
-Orzeszkowe	Orzeszkowa	subst:pl:nom.acc.voc:f	nazwisko	
-Orzeszkowych	Orzeszkowa	subst:pl:gen:f	nazwisko	
-Orzeszkowych	Orzeszkowa	subst:pl:loc:f	nazwisko	
-Orzeszkowymi	Orzeszkowa	subst:pl:inst:f	nazwisko	
-Orzeszkowym	Orzeszkowa	subst:pl:dat:f	nazwisko	
+Orzeszkowa	Orzeszkowa	subst:sg:nom:f	nazwisko (odmężowskie)	
+Orzeszkowa	Orzeszkowa	subst:sg:voc:f	nazwisko (odmężowskie)	
+Orzeszkową	Orzeszkowa	subst:sg:acc:f	nazwisko (odmężowskie)	
+Orzeszkową	Orzeszkowa	subst:sg:inst:f	nazwisko (odmężowskie)	
+Orzeszkowej	Orzeszkowa	subst:sg:dat.loc:f	nazwisko (odmężowskie)	
+Orzeszkowej	Orzeszkowa	subst:sg:gen:f	nazwisko (odmężowskie)	
+Orzeszkowe	Orzeszkowa	subst:pl:nom.acc.voc:f	nazwisko (odmężowskie)	
+Orzeszkowych	Orzeszkowa	subst:pl:gen:f	nazwisko (odmężowskie)	
+Orzeszkowych	Orzeszkowa	subst:pl:loc:f	nazwisko (odmężowskie)	
+Orzeszkowymi	Orzeszkowa	subst:pl:inst:f	nazwisko (odmężowskie)	
+Orzeszkowym	Orzeszkowa	subst:pl:dat:f	nazwisko (odmężowskie)	
 Orzeszynach	Orzeszyna:s1	subst:pl:loc:m1	nazwisko	
 Orzeszynami	Orzeszyna:s1	subst:pl:inst:m1	nazwisko	
 Orzeszyna	Orzeszyna:s1	subst:sg:nom:m1	nazwisko	
@@ -19009,29 +19025,40 @@ Ostend	Ostenda:s3	subst:pl:gen:f	nazwisko
 Ostendy	Ostenda:s3	subst:pl:nom.acc.voc:f	nazwisko	
 Ostendy	Ostenda:s3	subst:sg:gen:f	nazwisko	
 Ostendzie	Ostenda:s3	subst:sg:dat.loc:f	nazwisko	
-Osterwach	Osterwa	subst:pl:loc:m1	nazwisko	
-Osterwami	Osterwa	subst:pl:inst:m1	nazwisko	
-Osterwa	Osterwa	subst:sg:nom:m1	nazwisko	
-Osterwą	Osterwa	subst:sg:inst:m1	nazwisko	
-Osterwę	Osterwa	subst:sg:acc:m1	nazwisko	
-Osterwie	Osterwa	subst:sg:dat.loc:m1	nazwisko	
-Osterwom	Osterwa	subst:pl:dat:m1	nazwisko	
-Osterwo	Osterwa	subst:sg:voc:m1	nazwisko	
-Osterwowie	Osterwa	subst:pl:nom.voc:m1	nazwisko	
-Osterwów	Osterwa	subst:pl:gen.acc:m1	nazwisko	
-Osterwy	Osterwa	depr:pl:nom.acc.voc:m2	nazwisko	
-Osterwy	Osterwa	subst:sg:gen:m1	nazwisko	
-Osterwinach	Osterwina	subst:pl:loc:f	nazwisko	
-Osterwinami	Osterwina	subst:pl:inst:f	nazwisko	
-Osterwina	Osterwina	subst:sg:nom:f	nazwisko	
-Osterwiną	Osterwina	subst:sg:inst:f	nazwisko	
-Osterwinę	Osterwina	subst:sg:acc:f	nazwisko	
-Osterwinie	Osterwina	subst:sg:dat.loc:f	nazwisko	
-Osterwinom	Osterwina	subst:pl:dat:f	nazwisko	
-Osterwino	Osterwina	subst:sg:voc:f	nazwisko	
-Osterwin	Osterwina	subst:pl:gen:f	nazwisko	
-Osterwiny	Osterwina	subst:pl:nom.acc.voc:f	nazwisko	
-Osterwiny	Osterwina	subst:sg:gen:f	nazwisko	
+Osterwach	Osterwa:s1	subst:pl:loc:m1	nazwisko	
+Osterwami	Osterwa:s1	subst:pl:inst:m1	nazwisko	
+Osterwa	Osterwa:s1	subst:sg:nom:m1	nazwisko	
+Osterwą	Osterwa:s1	subst:sg:inst:m1	nazwisko	
+Osterwę	Osterwa:s1	subst:sg:acc:m1	nazwisko	
+Osterwie	Osterwa:s1	subst:sg:dat.loc:m1	nazwisko	
+Osterwom	Osterwa:s1	subst:pl:dat:m1	nazwisko	
+Osterwo	Osterwa:s1	subst:sg:voc:m1	nazwisko	
+Osterwowie	Osterwa:s1	subst:pl:nom.voc:m1	nazwisko	
+Osterwów	Osterwa:s1	subst:pl:gen.acc:m1	nazwisko	
+Osterwy	Osterwa:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Osterwy	Osterwa:s1	subst:sg:gen:m1	nazwisko	
+Osterwach	Osterwa:s2	subst:pl:loc:f	nazwisko	
+Osterwami	Osterwa:s2	subst:pl:inst:f	nazwisko	
+Osterwa	Osterwa:s2	subst:sg:nom:f	nazwisko	
+Osterwą	Osterwa:s2	subst:sg:inst:f	nazwisko	
+Osterwę	Osterwa:s2	subst:sg:acc:f	nazwisko	
+Osterwie	Osterwa:s2	subst:sg:dat.loc:f	nazwisko	
+Osterwom	Osterwa:s2	subst:pl:dat:f	nazwisko	
+Osterwo	Osterwa:s2	subst:sg:voc:f	nazwisko	
+Osterw	Osterwa:s2	subst:pl:gen:f	nazwisko	
+Osterwy	Osterwa:s2	subst:pl:nom.acc.voc:f	nazwisko	
+Osterwy	Osterwa:s2	subst:sg:gen:f	nazwisko	
+Osterwinach	Osterwina	subst:pl:loc:f	nazwisko (odmężowskie)	
+Osterwinami	Osterwina	subst:pl:inst:f	nazwisko (odmężowskie)	
+Osterwina	Osterwina	subst:sg:nom:f	nazwisko (odmężowskie)	
+Osterwiną	Osterwina	subst:sg:inst:f	nazwisko (odmężowskie)	
+Osterwinę	Osterwina	subst:sg:acc:f	nazwisko (odmężowskie)	
+Osterwinie	Osterwina	subst:sg:dat.loc:f	nazwisko (odmężowskie)	
+Osterwinom	Osterwina	subst:pl:dat:f	nazwisko (odmężowskie)	
+Osterwino	Osterwina	subst:sg:voc:f	nazwisko (odmężowskie)	
+Osterwin	Osterwina	subst:pl:gen:f	nazwisko (odmężowskie)	
+Osterwiny	Osterwina	subst:pl:nom.acc.voc:f	nazwisko (odmężowskie)	
+Osterwiny	Osterwina	subst:sg:gen:f	nazwisko (odmężowskie)	
 Ostiach	Ostia	subst:pl:loc:f	nazwa geograficzna	
 Ostiami	Ostia	subst:pl:inst:f	nazwa geograficzna	
 Ostia	Ostia	subst:sg:nom:f	nazwa geograficzna	
@@ -21685,18 +21712,19 @@ Owedyków	Owedyk:s1	subst:pl:gen.acc:m1	nazwisko
 Owedyku	Owedyk:s1	subst:sg:loc:m1	nazwisko	
 Owedyku	Owedyk:s1	subst:sg:voc:m1	nazwisko	
 Owedyk	Owedyk:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Owenach	Owen	subst:pl:loc:m1	nazwisko	
-Owenami	Owen	subst:pl:inst:m1	nazwisko	
-Owena	Owen	subst:sg:gen.acc:m1	nazwisko	
-Owenem	Owen	subst:sg:inst:m1	nazwisko	
-Owenie	Owen	subst:sg:loc:m1	nazwisko	
-Owenie	Owen	subst:sg:voc:m1	nazwisko	
-Owenom	Owen	subst:pl:dat:m1	nazwisko	
-Owen	Owen	subst:sg:nom:m1	nazwisko	
-Owenowie	Owen	subst:pl:nom.voc:m1	nazwisko	
-Owenowi	Owen	subst:sg:dat:m1	nazwisko	
-Owenów	Owen	subst:pl:gen.acc:m1	nazwisko	
-Oweny	Owen	depr:pl:nom.acc.voc:m2	nazwisko	
+Owenach	Owen:s1	subst:pl:loc:m1	nazwisko	
+Owenami	Owen:s1	subst:pl:inst:m1	nazwisko	
+Owena	Owen:s1	subst:sg:gen.acc:m1	nazwisko	
+Owenem	Owen:s1	subst:sg:inst:m1	nazwisko	
+Owenie	Owen:s1	subst:sg:loc:m1	nazwisko	
+Owenie	Owen:s1	subst:sg:voc:m1	nazwisko	
+Owenom	Owen:s1	subst:pl:dat:m1	nazwisko	
+Owen	Owen:s1	subst:sg:nom:m1	nazwisko	
+Owenowie	Owen:s1	subst:pl:nom.voc:m1	nazwisko	
+Owenowi	Owen:s1	subst:sg:dat:m1	nazwisko	
+Owenów	Owen:s1	subst:pl:gen.acc:m1	nazwisko	
+Oweny	Owen:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Owen	Owen:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Owerczukach	Owerczuk:s1	subst:pl:loc:m1	nazwisko	
 Owerczukami	Owerczuk:s1	subst:pl:inst:m1	nazwisko	
 Owerczuka	Owerczuk:s1	subst:sg:gen.acc:m1	nazwisko	

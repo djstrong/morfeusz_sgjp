@@ -3309,17 +3309,17 @@ Zajasów	Zajas:s1	subst:pl:gen.acc:m1	nazwisko
 Zajasy	Zajas:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Zajas	Zajas:s1	subst:sg:nom:m1	nazwisko	
 Zajas	Zajas:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Zającowa	Zającowa	subst:sg:nom:f	nazwisko	
-Zającowa	Zającowa	subst:sg:voc:f	nazwisko	
-Zającową	Zającowa	subst:sg:acc:f	nazwisko	
-Zającową	Zającowa	subst:sg:inst:f	nazwisko	
-Zającowej	Zającowa	subst:sg:dat.loc:f	nazwisko	
-Zającowej	Zającowa	subst:sg:gen:f	nazwisko	
-Zającowe	Zającowa	subst:pl:nom.acc.voc:f	nazwisko	
-Zającowych	Zającowa	subst:pl:gen:f	nazwisko	
-Zającowych	Zającowa	subst:pl:loc:f	nazwisko	
-Zającowymi	Zającowa	subst:pl:inst:f	nazwisko	
-Zającowym	Zającowa	subst:pl:dat:f	nazwisko	
+Zającowa	Zającowa	subst:sg:nom:f	nazwisko (odmężowskie)	
+Zającowa	Zającowa	subst:sg:voc:f	nazwisko (odmężowskie)	
+Zającową	Zającowa	subst:sg:acc:f	nazwisko (odmężowskie)	
+Zającową	Zającowa	subst:sg:inst:f	nazwisko (odmężowskie)	
+Zającowej	Zającowa	subst:sg:dat.loc:f	nazwisko (odmężowskie)	
+Zającowej	Zającowa	subst:sg:gen:f	nazwisko (odmężowskie)	
+Zającowe	Zającowa	subst:pl:nom.acc.voc:f	nazwisko (odmężowskie)	
+Zającowych	Zającowa	subst:pl:gen:f	nazwisko (odmężowskie)	
+Zającowych	Zającowa	subst:pl:loc:f	nazwisko (odmężowskie)	
+Zającowymi	Zającowa	subst:pl:inst:f	nazwisko (odmężowskie)	
+Zającowym	Zającowa	subst:pl:dat:f	nazwisko (odmężowskie)	
 Zającach	Zając:s1	subst:pl:loc:m1	nazwisko	
 Zającami	Zając:s1	subst:pl:inst:m1	nazwisko	
 Zająca	Zając:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -7502,17 +7502,17 @@ Zarębczanów	Zarębczan:s1	subst:pl:gen.acc:m1	nazwisko
 Zarębczany	Zarębczan:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Zarębczan	Zarębczan:s1	subst:sg:nom:m1	nazwisko	
 Zarębczan	Zarębczan:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Zarębinach	Zarębina	subst:pl:loc:f	nazwisko	
-Zarębinami	Zarębina	subst:pl:inst:f	nazwisko	
-Zarębina	Zarębina	subst:sg:nom:f	nazwisko	
-Zarębiną	Zarębina	subst:sg:inst:f	nazwisko	
-Zarębinę	Zarębina	subst:sg:acc:f	nazwisko	
-Zarębinie	Zarębina	subst:sg:dat.loc:f	nazwisko	
-Zarębinom	Zarębina	subst:pl:dat:f	nazwisko	
-Zarębino	Zarębina	subst:sg:voc:f	nazwisko	
-Zarębiny	Zarębina	subst:pl:nom.acc.voc:f	nazwisko	
-Zarębiny	Zarębina	subst:sg:gen:f	nazwisko	
-Zarębin	Zarębina	subst:pl:gen:f	nazwisko	
+Zarębinach	Zarębina	subst:pl:loc:f	nazwisko (odmężowskie)	
+Zarębinami	Zarębina	subst:pl:inst:f	nazwisko (odmężowskie)	
+Zarębina	Zarębina	subst:sg:nom:f	nazwisko (odmężowskie)	
+Zarębiną	Zarębina	subst:sg:inst:f	nazwisko (odmężowskie)	
+Zarębinę	Zarębina	subst:sg:acc:f	nazwisko (odmężowskie)	
+Zarębinie	Zarębina	subst:sg:dat.loc:f	nazwisko (odmężowskie)	
+Zarębinom	Zarębina	subst:pl:dat:f	nazwisko (odmężowskie)	
+Zarębino	Zarębina	subst:sg:voc:f	nazwisko (odmężowskie)	
+Zarębiny	Zarębina	subst:pl:nom.acc.voc:f	nazwisko (odmężowskie)	
+Zarębiny	Zarębina	subst:sg:gen:f	nazwisko (odmężowskie)	
+Zarębin	Zarębina	subst:pl:gen:f	nazwisko (odmężowskie)	
 Zarębińska	Zarębińska	subst:sg:nom:f	nazwisko	
 Zarębińska	Zarębińska	subst:sg:voc:f	nazwisko	
 Zarębińską	Zarębińska	subst:sg:acc:f	nazwisko	
@@ -14152,19 +14152,20 @@ Zegadłów	Zegadło:s1	subst:pl:gen.acc:m1	nazwisko
 Zegadły	Zegadło:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Zegadły	Zegadło:s1	subst:sg:gen:m1	nazwisko	
 Zegadło	Zegadło:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Zegadłowiczach	Zegadłowicz	subst:pl:loc:m1	nazwisko	
-Zegadłowiczami	Zegadłowicz	subst:pl:inst:m1	nazwisko	
-Zegadłowicza	Zegadłowicz	subst:sg:gen.acc:m1	nazwisko	
-Zegadłowiczem	Zegadłowicz	subst:sg:inst:m1	nazwisko	
-Zegadłowicze	Zegadłowicz	depr:pl:nom.acc.voc:m2	nazwisko	
-Zegadłowicze	Zegadłowicz	subst:pl:nom.voc:m1	nazwisko	
-Zegadłowiczom	Zegadłowicz	subst:pl:dat:m1	nazwisko	
-Zegadłowiczowie	Zegadłowicz	subst:pl:nom.voc:m1	nazwisko	
-Zegadłowiczowi	Zegadłowicz	subst:sg:dat:m1	nazwisko	
-Zegadłowiczów	Zegadłowicz	subst:pl:gen.acc:m1	nazwisko	
-Zegadłowiczu	Zegadłowicz	subst:sg:loc:m1	nazwisko	
-Zegadłowiczu	Zegadłowicz	subst:sg:voc:m1	nazwisko	
-Zegadłowicz	Zegadłowicz	subst:sg:nom:m1	nazwisko	
+Zegadłowiczach	Zegadłowicz:s1	subst:pl:loc:m1	nazwisko	
+Zegadłowiczami	Zegadłowicz:s1	subst:pl:inst:m1	nazwisko	
+Zegadłowicza	Zegadłowicz:s1	subst:sg:gen.acc:m1	nazwisko	
+Zegadłowiczem	Zegadłowicz:s1	subst:sg:inst:m1	nazwisko	
+Zegadłowicze	Zegadłowicz:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Zegadłowicze	Zegadłowicz:s1	subst:pl:nom.voc:m1	nazwisko	
+Zegadłowiczom	Zegadłowicz:s1	subst:pl:dat:m1	nazwisko	
+Zegadłowiczowie	Zegadłowicz:s1	subst:pl:nom.voc:m1	nazwisko	
+Zegadłowiczowi	Zegadłowicz:s1	subst:sg:dat:m1	nazwisko	
+Zegadłowiczów	Zegadłowicz:s1	subst:pl:gen.acc:m1	nazwisko	
+Zegadłowiczu	Zegadłowicz:s1	subst:sg:loc:m1	nazwisko	
+Zegadłowiczu	Zegadłowicz:s1	subst:sg:voc:m1	nazwisko	
+Zegadłowicz	Zegadłowicz:s1	subst:sg:nom:m1	nazwisko	
+Zegadłowicz	Zegadłowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Zeganach	Zegan:s1	subst:pl:loc:m1	nazwisko	
 Zeganami	Zegan:s1	subst:pl:inst:m1	nazwisko	
 Zegana	Zegan:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -16274,17 +16275,17 @@ Zgódki	Zgódka:s2	subst:pl:nom.acc.voc:f	nazwisko
 Zgódki	Zgódka:s2	subst:sg:gen:f	nazwisko	
 Zgódkom	Zgódka:s2	subst:pl:dat:f	nazwisko	
 Zgódko	Zgódka:s2	subst:sg:voc:f	nazwisko	
-Zgółkowa	Zgółkowa	subst:sg:nom:f	nazwisko	
-Zgółkowa	Zgółkowa	subst:sg:voc:f	nazwisko	
-Zgółkową	Zgółkowa	subst:sg:acc:f	nazwisko	
-Zgółkową	Zgółkowa	subst:sg:inst:f	nazwisko	
-Zgółkowej	Zgółkowa	subst:sg:dat.loc:f	nazwisko	
-Zgółkowej	Zgółkowa	subst:sg:gen:f	nazwisko	
-Zgółkowe	Zgółkowa	subst:pl:nom.acc.voc:f	nazwisko	
-Zgółkowych	Zgółkowa	subst:pl:gen:f	nazwisko	
-Zgółkowych	Zgółkowa	subst:pl:loc:f	nazwisko	
-Zgółkowymi	Zgółkowa	subst:pl:inst:f	nazwisko	
-Zgółkowym	Zgółkowa	subst:pl:dat:f	nazwisko	
+Zgółkowa	Zgółkowa	subst:sg:nom:f	nazwisko (odmężowskie)	
+Zgółkowa	Zgółkowa	subst:sg:voc:f	nazwisko (odmężowskie)	
+Zgółkową	Zgółkowa	subst:sg:acc:f	nazwisko (odmężowskie)	
+Zgółkową	Zgółkowa	subst:sg:inst:f	nazwisko (odmężowskie)	
+Zgółkowej	Zgółkowa	subst:sg:dat.loc:f	nazwisko (odmężowskie)	
+Zgółkowej	Zgółkowa	subst:sg:gen:f	nazwisko (odmężowskie)	
+Zgółkowe	Zgółkowa	subst:pl:nom.acc.voc:f	nazwisko (odmężowskie)	
+Zgółkowych	Zgółkowa	subst:pl:gen:f	nazwisko (odmężowskie)	
+Zgółkowych	Zgółkowa	subst:pl:loc:f	nazwisko (odmężowskie)	
+Zgółkowymi	Zgółkowa	subst:pl:inst:f	nazwisko (odmężowskie)	
+Zgółkowym	Zgółkowa	subst:pl:dat:f	nazwisko (odmężowskie)	
 Zgórecka	Zgórecka	subst:sg:nom:f	nazwisko	
 Zgórecka	Zgórecka	subst:sg:voc:f	nazwisko	
 Zgórecką	Zgórecka	subst:sg:acc:f	nazwisko	
@@ -20390,18 +20391,19 @@ Zinko	Zinko:s1	subst:sg:nom:m1	nazwisko
 Zinko	Zinko:s1	subst:sg:voc:m1	nazwisko	
 Zinków	Zinko:s1	subst:pl:gen.acc:m1	nazwisko	
 Zinko	Zinko:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Zinkowach	Zinkow	subst:pl:loc:m1	nazwisko	
-Zinkowami	Zinkow	subst:pl:inst:m1	nazwisko	
-Zinkowa	Zinkow	subst:sg:gen.acc:m1	nazwisko	
-Zinkowem	Zinkow	subst:sg:inst:m1	nazwisko	
-Zinkowie	Zinkow	subst:sg:loc:m1	nazwisko	
-Zinkowie	Zinkow	subst:sg:voc:m1	nazwisko	
-Zinkowom	Zinkow	subst:pl:dat:m1	nazwisko	
-Zinkowowie	Zinkow	subst:pl:nom.voc:m1	nazwisko	
-Zinkowowi	Zinkow	subst:sg:dat:m1	nazwisko	
-Zinkowów	Zinkow	subst:pl:gen.acc:m1	nazwisko	
-Zinkowy	Zinkow	depr:pl:nom.acc.voc:m2	nazwisko	
-Zinkow	Zinkow	subst:sg:nom:m1	nazwisko	
+Zinkowach	Zinkow:s1	subst:pl:loc:m1	nazwisko	
+Zinkowami	Zinkow:s1	subst:pl:inst:m1	nazwisko	
+Zinkowa	Zinkow:s1	subst:sg:gen.acc:m1	nazwisko	
+Zinkowem	Zinkow:s1	subst:sg:inst:m1	nazwisko	
+Zinkowie	Zinkow:s1	subst:sg:loc:m1	nazwisko	
+Zinkowie	Zinkow:s1	subst:sg:voc:m1	nazwisko	
+Zinkowom	Zinkow:s1	subst:pl:dat:m1	nazwisko	
+Zinkowowie	Zinkow:s1	subst:pl:nom.voc:m1	nazwisko	
+Zinkowowi	Zinkow:s1	subst:sg:dat:m1	nazwisko	
+Zinkowów	Zinkow:s1	subst:pl:gen.acc:m1	nazwisko	
+Zinkowy	Zinkow:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Zinkow	Zinkow:s1	subst:sg:nom:m1	nazwisko	
+Zinkow	Zinkow:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Zinkowska	Zinkowska	subst:sg:nom:f	nazwisko	
 Zinkowska	Zinkowska	subst:sg:voc:f	nazwisko	
 Zinkowską	Zinkowska	subst:sg:acc:f	nazwisko	

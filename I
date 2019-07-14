@@ -1735,17 +1735,31 @@ Iłendowi	Iłendo:s1	subst:sg:dat:m1	nazwisko
 Iłendów	Iłendo:s1	subst:pl:gen.acc:m1	nazwisko	
 Iłendzie	Iłendo:s1	subst:sg:loc:m1	nazwisko	
 Iłendo	Iłendo:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Iłłakowiczówien	Iłłakowiczówna	subst:pl:gen:f	nazwisko	
-Iłłakowiczównach	Iłłakowiczówna	subst:pl:loc:f	nazwisko	
-Iłłakowiczówna	Iłłakowiczówna	subst:sg:nom:f	nazwisko	
-Iłłakowiczównami	Iłłakowiczówna	subst:pl:inst:f	nazwisko	
-Iłłakowiczówną	Iłłakowiczówna	subst:sg:inst:f	nazwisko	
-Iłłakowiczównę	Iłłakowiczówna	subst:sg:acc:f	nazwisko	
-Iłłakowiczównie	Iłłakowiczówna	subst:sg:dat.loc:f	nazwisko	
-Iłłakowiczówno	Iłłakowiczówna	subst:sg:voc:f	nazwisko	
-Iłłakowiczównom	Iłłakowiczówna	subst:pl:dat:f	nazwisko	
-Iłłakowiczówny	Iłłakowiczówna	subst:pl:nom.acc.voc:f	nazwisko	
-Iłłakowiczówny	Iłłakowiczówna	subst:sg:gen:f	nazwisko	
+Iłłakowiczówien	Iłłakowiczówna	subst:pl:gen:f	nazwisko (odojcowskie)	
+Iłłakowiczównach	Iłłakowiczówna	subst:pl:loc:f	nazwisko (odojcowskie)	
+Iłłakowiczówna	Iłłakowiczówna	subst:sg:nom:f	nazwisko (odojcowskie)	
+Iłłakowiczównami	Iłłakowiczówna	subst:pl:inst:f	nazwisko (odojcowskie)	
+Iłłakowiczówną	Iłłakowiczówna	subst:sg:inst:f	nazwisko (odojcowskie)	
+Iłłakowiczównę	Iłłakowiczówna	subst:sg:acc:f	nazwisko (odojcowskie)	
+Iłłakowiczównie	Iłłakowiczówna	subst:sg:dat.loc:f	nazwisko (odojcowskie)	
+Iłłakowiczówno	Iłłakowiczówna	subst:sg:voc:f	nazwisko (odojcowskie)	
+Iłłakowiczównom	Iłłakowiczówna	subst:pl:dat:f	nazwisko (odojcowskie)	
+Iłłakowiczówny	Iłłakowiczówna	subst:pl:nom.acc.voc:f	nazwisko (odojcowskie)	
+Iłłakowiczówny	Iłłakowiczówna	subst:sg:gen:f	nazwisko (odojcowskie)	
+Iłłakowicz	Iłłakowicz:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Iłłakowiczach	Iłłakowicz:s4	subst:pl:loc:m1	nazwisko	
+Iłłakowicza	Iłłakowicz:s4	subst:sg:gen.acc:m1	nazwisko	
+Iłłakowiczami	Iłłakowicz:s4	subst:pl:inst:m1	nazwisko	
+Iłłakowicze	Iłłakowicz:s4	depr:pl:nom.acc.voc:m2	nazwisko	
+Iłłakowicze	Iłłakowicz:s4	subst:pl:nom.voc:m1	nazwisko	
+Iłłakowiczem	Iłłakowicz:s4	subst:sg:inst:m1	nazwisko	
+Iłłakowicz	Iłłakowicz:s4	subst:sg:nom:m1	nazwisko	
+Iłłakowiczom	Iłłakowicz:s4	subst:pl:dat:m1	nazwisko	
+Iłłakowiczowie	Iłłakowicz:s4	subst:pl:nom.voc:m1	nazwisko	
+Iłłakowiczowi	Iłłakowicz:s4	subst:sg:dat:m1	nazwisko	
+Iłłakowiczów	Iłłakowicz:s4	subst:pl:gen.acc:m1	nazwisko	
+Iłłakowiczu	Iłłakowicz:s4	subst:sg:loc:m1	nazwisko	
+Iłłakowiczu	Iłłakowicz:s4	subst:sg:voc:m1	nazwisko	
 Iłowiecka	Iłowiecka	subst:sg:nom:f	nazwisko	
 Iłowiecka	Iłowiecka	subst:sg:voc:f	nazwisko	
 Iłowiecką	Iłowiecka	subst:sg:acc:f	nazwisko	
@@ -2574,18 +2588,19 @@ Ingi	Inga	subst:sg:gen:f	imię
 Ing	Inga	subst:pl:gen:f	imię	
 Ingo	Inga	subst:sg:voc:f	imię	
 Ingom	Inga	subst:pl:dat:f	imię	
-Ingardenach	Ingarden	subst:pl:loc:m1	nazwisko	
-Ingardena	Ingarden	subst:sg:gen.acc:m1	nazwisko	
-Ingardenami	Ingarden	subst:pl:inst:m1	nazwisko	
-Ingardenem	Ingarden	subst:sg:inst:m1	nazwisko	
-Ingardenie	Ingarden	subst:sg:loc:m1	nazwisko	
-Ingardenie	Ingarden	subst:sg:voc:m1	nazwisko	
-Ingarden	Ingarden	subst:sg:nom:m1	nazwisko	
-Ingardenom	Ingarden	subst:pl:dat:m1	nazwisko	
-Ingardenowie	Ingarden	subst:pl:nom.voc:m1	nazwisko	
-Ingardenowi	Ingarden	subst:sg:dat:m1	nazwisko	
-Ingardenów	Ingarden	subst:pl:gen.acc:m1	nazwisko	
-Ingardeny	Ingarden	depr:pl:nom.acc.voc:m2	nazwisko	
+Ingardenach	Ingarden:s1	subst:pl:loc:m1	nazwisko	
+Ingardena	Ingarden:s1	subst:sg:gen.acc:m1	nazwisko	
+Ingardenami	Ingarden:s1	subst:pl:inst:m1	nazwisko	
+Ingardenem	Ingarden:s1	subst:sg:inst:m1	nazwisko	
+Ingardenie	Ingarden:s1	subst:sg:loc:m1	nazwisko	
+Ingardenie	Ingarden:s1	subst:sg:voc:m1	nazwisko	
+Ingarden	Ingarden:s1	subst:sg:nom:m1	nazwisko	
+Ingardenom	Ingarden:s1	subst:pl:dat:m1	nazwisko	
+Ingardenowie	Ingarden:s1	subst:pl:nom.voc:m1	nazwisko	
+Ingardenowi	Ingarden:s1	subst:sg:dat:m1	nazwisko	
+Ingardenów	Ingarden:s1	subst:pl:gen.acc:m1	nazwisko	
+Ingardeny	Ingarden:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Ingarden	Ingarden:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Ingebordze	Ingeborga	subst:sg:dat.loc:f	imię	
 Ingeborgach	Ingeborga	subst:pl:loc:f	imię	
 Ingeborga	Ingeborga	subst:sg:nom:f	imię	

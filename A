@@ -1987,19 +1987,20 @@ Adrychu	Adrych:s1	subst:sg:loc:m1	nazwisko
 Adrychu	Adrych:s1	subst:sg:voc:m1	nazwisko	
 Adrychy	Adrych:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Adrych	Adrych:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Adwentowicza	Adwentowicz	subst:sg:gen.acc:m1	nazwisko	
-Adwentowiczach	Adwentowicz	subst:pl:loc:m1	nazwisko	
-Adwentowicz	Adwentowicz	subst:sg:nom:m1	nazwisko	
-Adwentowiczami	Adwentowicz	subst:pl:inst:m1	nazwisko	
-Adwentowicze	Adwentowicz	depr:pl:nom.acc.voc:m2	nazwisko	
-Adwentowicze	Adwentowicz	subst:pl:nom.voc:m1	nazwisko	
-Adwentowiczem	Adwentowicz	subst:sg:inst:m1	nazwisko	
-Adwentowiczom	Adwentowicz	subst:pl:dat:m1	nazwisko	
-Adwentowiczowi	Adwentowicz	subst:sg:dat:m1	nazwisko	
-Adwentowiczowie	Adwentowicz	subst:pl:nom.voc:m1	nazwisko	
-Adwentowiczów	Adwentowicz	subst:pl:gen.acc:m1	nazwisko	
-Adwentowiczu	Adwentowicz	subst:sg:loc:m1	nazwisko	
-Adwentowiczu	Adwentowicz	subst:sg:voc:m1	nazwisko	
+Adwentowicza	Adwentowicz:s1	subst:sg:gen.acc:m1	nazwisko	
+Adwentowiczach	Adwentowicz:s1	subst:pl:loc:m1	nazwisko	
+Adwentowicz	Adwentowicz:s1	subst:sg:nom:m1	nazwisko	
+Adwentowiczami	Adwentowicz:s1	subst:pl:inst:m1	nazwisko	
+Adwentowicze	Adwentowicz:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Adwentowicze	Adwentowicz:s1	subst:pl:nom.voc:m1	nazwisko	
+Adwentowiczem	Adwentowicz:s1	subst:sg:inst:m1	nazwisko	
+Adwentowiczom	Adwentowicz:s1	subst:pl:dat:m1	nazwisko	
+Adwentowiczowi	Adwentowicz:s1	subst:sg:dat:m1	nazwisko	
+Adwentowiczowie	Adwentowicz:s1	subst:pl:nom.voc:m1	nazwisko	
+Adwentowiczów	Adwentowicz:s1	subst:pl:gen.acc:m1	nazwisko	
+Adwentowiczu	Adwentowicz:s1	subst:sg:loc:m1	nazwisko	
+Adwentowiczu	Adwentowicz:s1	subst:sg:voc:m1	nazwisko	
+Adwentowicz	Adwentowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Adwencie	Adwent:s1	subst:sg:loc:m1	nazwisko	
 Adwencie	Adwent:s1	subst:sg:voc:m1	nazwisko	
 Adwenta	Adwent:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -2060,18 +2061,19 @@ AF-owi	AF	subst:sg:dat:m3	nazwa organizacji|nazwa firmy
 AF-ów	AF	subst:pl:gen:m3	nazwa organizacji|nazwa firmy	
 AF-u	AF	subst:sg:gen:m3	nazwa organizacji|nazwa firmy	
 AF-y	AF	subst:pl:nom.acc.voc:m3	nazwa organizacji|nazwa firmy	
-Afanasjewa	Afanasjew	subst:sg:gen.acc:m1	nazwisko	
-Afanasjewach	Afanasjew	subst:pl:loc:m1	nazwisko	
-Afanasjew	Afanasjew	subst:sg:nom:m1	nazwisko	
-Afanasjewami	Afanasjew	subst:pl:inst:m1	nazwisko	
-Afanasjewem	Afanasjew	subst:sg:inst:m1	nazwisko	
-Afanasjewie	Afanasjew	subst:sg:loc:m1	nazwisko	
-Afanasjewie	Afanasjew	subst:sg:voc:m1	nazwisko	
-Afanasjewom	Afanasjew	subst:pl:dat:m1	nazwisko	
-Afanasjewowi	Afanasjew	subst:sg:dat:m1	nazwisko	
-Afanasjewowie	Afanasjew	subst:pl:nom.voc:m1	nazwisko	
-Afanasjewów	Afanasjew	subst:pl:gen.acc:m1	nazwisko	
-Afanasjewy	Afanasjew	depr:pl:nom.acc.voc:m2	nazwisko	
+Afanasjewa	Afanasjew:s1	subst:sg:gen.acc:m1	nazwisko	
+Afanasjewach	Afanasjew:s1	subst:pl:loc:m1	nazwisko	
+Afanasjew	Afanasjew:s1	subst:sg:nom:m1	nazwisko	
+Afanasjewami	Afanasjew:s1	subst:pl:inst:m1	nazwisko	
+Afanasjewem	Afanasjew:s1	subst:sg:inst:m1	nazwisko	
+Afanasjewie	Afanasjew:s1	subst:sg:loc:m1	nazwisko	
+Afanasjewie	Afanasjew:s1	subst:sg:voc:m1	nazwisko	
+Afanasjewom	Afanasjew:s1	subst:pl:dat:m1	nazwisko	
+Afanasjewowi	Afanasjew:s1	subst:sg:dat:m1	nazwisko	
+Afanasjewowie	Afanasjew:s1	subst:pl:nom.voc:m1	nazwisko	
+Afanasjewów	Afanasjew:s1	subst:pl:gen.acc:m1	nazwisko	
+Afanasjewy	Afanasjew:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Afanasjew	Afanasjew:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Afanaze	Afanazy	depr:pl:nom.acc.voc:m2	imię	
 Afanazego	Afanazy	subst:sg:gen.acc:m1	imię	
 Afanazemu	Afanazy	subst:sg:dat:m1	imię	
@@ -3102,19 +3104,20 @@ Aksamitowie	Aksamit:s1	subst:pl:nom.voc:m1	nazwisko
 Aksamitów	Aksamit:s1	subst:pl:gen.acc:m1	nazwisko	
 Aksamity	Aksamit:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Aksamit	Aksamit:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Aksentowicza	Aksentowicz	subst:sg:gen.acc:m1	nazwisko	
-Aksentowiczach	Aksentowicz	subst:pl:loc:m1	nazwisko	
-Aksentowicz	Aksentowicz	subst:sg:nom:m1	nazwisko	
-Aksentowiczami	Aksentowicz	subst:pl:inst:m1	nazwisko	
-Aksentowicze	Aksentowicz	depr:pl:nom.acc.voc:m2	nazwisko	
-Aksentowicze	Aksentowicz	subst:pl:nom.voc:m1	nazwisko	
-Aksentowiczem	Aksentowicz	subst:sg:inst:m1	nazwisko	
-Aksentowiczom	Aksentowicz	subst:pl:dat:m1	nazwisko	
-Aksentowiczowi	Aksentowicz	subst:sg:dat:m1	nazwisko	
-Aksentowiczowie	Aksentowicz	subst:pl:nom.voc:m1	nazwisko	
-Aksentowiczów	Aksentowicz	subst:pl:gen.acc:m1	nazwisko	
-Aksentowiczu	Aksentowicz	subst:sg:loc:m1	nazwisko	
-Aksentowiczu	Aksentowicz	subst:sg:voc:m1	nazwisko	
+Aksentowicza	Aksentowicz:s1	subst:sg:gen.acc:m1	nazwisko	
+Aksentowiczach	Aksentowicz:s1	subst:pl:loc:m1	nazwisko	
+Aksentowicz	Aksentowicz:s1	subst:sg:nom:m1	nazwisko	
+Aksentowiczami	Aksentowicz:s1	subst:pl:inst:m1	nazwisko	
+Aksentowicze	Aksentowicz:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Aksentowicze	Aksentowicz:s1	subst:pl:nom.voc:m1	nazwisko	
+Aksentowiczem	Aksentowicz:s1	subst:sg:inst:m1	nazwisko	
+Aksentowiczom	Aksentowicz:s1	subst:pl:dat:m1	nazwisko	
+Aksentowiczowi	Aksentowicz:s1	subst:sg:dat:m1	nazwisko	
+Aksentowiczowie	Aksentowicz:s1	subst:pl:nom.voc:m1	nazwisko	
+Aksentowiczów	Aksentowicz:s1	subst:pl:gen.acc:m1	nazwisko	
+Aksentowiczu	Aksentowicz:s1	subst:sg:loc:m1	nazwisko	
+Aksentowiczu	Aksentowicz:s1	subst:sg:voc:m1	nazwisko	
+Aksentowicz	Aksentowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Aksmana	Aksman:s1	subst:sg:gen.acc:m1	nazwisko	
 Aksmanach	Aksman:s1	subst:pl:loc:m1	nazwisko	
 Aksman	Aksman:s1	subst:sg:nom:m1	nazwisko	
@@ -4804,18 +4807,6 @@ Allanowi	Allan	subst:sg:dat:m1	imię
 Allanowie	Allan	subst:pl:nom.voc:m1	imię	
 Allanów	Allan	subst:pl:gen.acc:m1	imię	
 Allany	Allan	depr:pl:nom.acc.voc:m2	imię	
-Allena	Allen	subst:sg:gen.acc:m1	nazwisko	
-Allenach	Allen	subst:pl:loc:m1	nazwisko	
-Allen	Allen	subst:sg:nom:m1	nazwisko	
-Allenami	Allen	subst:pl:inst:m1	nazwisko	
-Allenem	Allen	subst:sg:inst:m1	nazwisko	
-Allenie	Allen	subst:sg:loc:m1	nazwisko	
-Allenie	Allen	subst:sg:voc:m1	nazwisko	
-Allenom	Allen	subst:pl:dat:m1	nazwisko	
-Allenowi	Allen	subst:sg:dat:m1	nazwisko	
-Allenowie	Allen	subst:pl:nom.voc:m1	nazwisko	
-Allenów	Allen	subst:pl:gen.acc:m1	nazwisko	
-Alleny	Allen	depr:pl:nom.acc.voc:m2	nazwisko	
 Allendach	Allende	subst:pl:loc:m1	nazwisko	
 Allendami	Allende	subst:pl:inst:m1	nazwisko	
 Allende	Allende	depr:pl:nom.acc.voc:m2	nazwisko	
@@ -4829,6 +4820,19 @@ Allendemu	Allende	subst:sg:dat:m1	nazwisko
 Allendom	Allende	subst:pl:dat:m1	nazwisko	
 Allendowie	Allende	subst:pl:nom.voc:m1	nazwisko	
 Allendów	Allende	subst:pl:gen.acc:m1	nazwisko	
+Allena	Allen:s1	subst:sg:gen.acc:m1	nazwisko	
+Allenach	Allen:s1	subst:pl:loc:m1	nazwisko	
+Allen	Allen:s1	subst:sg:nom:m1	nazwisko	
+Allenami	Allen:s1	subst:pl:inst:m1	nazwisko	
+Allenem	Allen:s1	subst:sg:inst:m1	nazwisko	
+Allenie	Allen:s1	subst:sg:loc:m1	nazwisko	
+Allenie	Allen:s1	subst:sg:voc:m1	nazwisko	
+Allenom	Allen:s1	subst:pl:dat:m1	nazwisko	
+Allenowi	Allen:s1	subst:sg:dat:m1	nazwisko	
+Allenowie	Allen:s1	subst:pl:nom.voc:m1	nazwisko	
+Allenów	Allen:s1	subst:pl:gen.acc:m1	nazwisko	
+Alleny	Allen:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Allen	Allen:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Almanzora	Almanzor	subst:sg:gen.acc:m1	imię	
 Almanzorach	Almanzor	subst:pl:loc:m1	imię	
 Almanzor	Almanzor	subst:sg:nom:m1	imię	
@@ -7596,18 +7600,19 @@ Andrychu	Andrych:s1	subst:sg:loc:m1	nazwisko
 Andrychu	Andrych:s1	subst:sg:voc:m1	nazwisko	
 Andrychy	Andrych:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Andrych	Andrych:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Andrycza	Andrycz	subst:sg:gen.acc:m1	nazwisko	
-Andryczach	Andrycz	subst:pl:loc:m1	nazwisko	
-Andryczami	Andrycz	subst:pl:inst:m1	nazwisko	
-Andrycz	Andrycz	subst:sg:nom:m1	nazwisko	
-Andrycze	Andrycz	depr:pl:nom.acc.voc:m2	nazwisko	
-Andryczem	Andrycz	subst:sg:inst:m1	nazwisko	
-Andryczom	Andrycz	subst:pl:dat:m1	nazwisko	
-Andryczowi	Andrycz	subst:sg:dat:m1	nazwisko	
-Andryczowie	Andrycz	subst:pl:nom.voc:m1	nazwisko	
-Andryczów	Andrycz	subst:pl:gen.acc:m1	nazwisko	
-Andryczu	Andrycz	subst:sg:loc:m1	nazwisko	
-Andryczu	Andrycz	subst:sg:voc:m1	nazwisko	
+Andrycza	Andrycz:s1	subst:sg:gen.acc:m1	nazwisko	
+Andryczach	Andrycz:s1	subst:pl:loc:m1	nazwisko	
+Andryczami	Andrycz:s1	subst:pl:inst:m1	nazwisko	
+Andrycz	Andrycz:s1	subst:sg:nom:m1	nazwisko	
+Andrycze	Andrycz:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Andryczem	Andrycz:s1	subst:sg:inst:m1	nazwisko	
+Andryczom	Andrycz:s1	subst:pl:dat:m1	nazwisko	
+Andryczowi	Andrycz:s1	subst:sg:dat:m1	nazwisko	
+Andryczowie	Andrycz:s1	subst:pl:nom.voc:m1	nazwisko	
+Andryczów	Andrycz:s1	subst:pl:gen.acc:m1	nazwisko	
+Andryczu	Andrycz:s1	subst:sg:loc:m1	nazwisko	
+Andryczu	Andrycz:s1	subst:sg:voc:m1	nazwisko	
+Andrycz	Andrycz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Andryce	Andryka:s1	subst:sg:dat.loc:m1	nazwisko	
 Andryka	Andryka:s1	subst:sg:nom:m1	nazwisko	
 Andrykach	Andryka:s1	subst:pl:loc:m1	nazwisko	
@@ -9031,30 +9036,31 @@ Ankutowiczów	Ankutowicz:s1	subst:pl:gen.acc:m1	nazwisko
 Ankutowiczu	Ankutowicz:s1	subst:sg:loc:m1	nazwisko	
 Ankutowiczu	Ankutowicz:s1	subst:sg:voc:m1	nazwisko	
 Ankutowicz	Ankutowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Ankwicza	Ankwicz	subst:sg:gen.acc:m1	nazwisko	
-Ankwiczach	Ankwicz	subst:pl:loc:m1	nazwisko	
-Ankwiczami	Ankwicz	subst:pl:inst:m1	nazwisko	
-Ankwicz	Ankwicz	subst:sg:nom:m1	nazwisko	
-Ankwicze	Ankwicz	depr:pl:nom.acc.voc:m2	nazwisko	
-Ankwicze	Ankwicz	subst:pl:nom.voc:m1	nazwisko	
-Ankwiczem	Ankwicz	subst:sg:inst:m1	nazwisko	
-Ankwiczom	Ankwicz	subst:pl:dat:m1	nazwisko	
-Ankwiczowi	Ankwicz	subst:sg:dat:m1	nazwisko	
-Ankwiczowie	Ankwicz	subst:pl:nom.voc:m1	nazwisko	
-Ankwiczów	Ankwicz	subst:pl:gen.acc:m1	nazwisko	
-Ankwiczu	Ankwicz	subst:sg:loc:m1	nazwisko	
-Ankwiczu	Ankwicz	subst:sg:voc:m1	nazwisko	
-Ankwiczówien	Ankwiczówna	subst:pl:gen:f	nazwisko	
-Ankwiczówna	Ankwiczówna	subst:sg:nom:f	nazwisko	
-Ankwiczównach	Ankwiczówna	subst:pl:loc:f	nazwisko	
-Ankwiczównami	Ankwiczówna	subst:pl:inst:f	nazwisko	
-Ankwiczówną	Ankwiczówna	subst:sg:inst:f	nazwisko	
-Ankwiczównę	Ankwiczówna	subst:sg:acc:f	nazwisko	
-Ankwiczównie	Ankwiczówna	subst:sg:dat.loc:f	nazwisko	
-Ankwiczówno	Ankwiczówna	subst:sg:voc:f	nazwisko	
-Ankwiczównom	Ankwiczówna	subst:pl:dat:f	nazwisko	
-Ankwiczówny	Ankwiczówna	subst:pl:nom.acc.voc:f	nazwisko	
-Ankwiczówny	Ankwiczówna	subst:sg:gen:f	nazwisko	
+Ankwiczówien	Ankwiczówna	subst:pl:gen:f	nazwisko (odojcowskie)	
+Ankwiczówna	Ankwiczówna	subst:sg:nom:f	nazwisko (odojcowskie)	
+Ankwiczównach	Ankwiczówna	subst:pl:loc:f	nazwisko (odojcowskie)	
+Ankwiczównami	Ankwiczówna	subst:pl:inst:f	nazwisko (odojcowskie)	
+Ankwiczówną	Ankwiczówna	subst:sg:inst:f	nazwisko (odojcowskie)	
+Ankwiczównę	Ankwiczówna	subst:sg:acc:f	nazwisko (odojcowskie)	
+Ankwiczównie	Ankwiczówna	subst:sg:dat.loc:f	nazwisko (odojcowskie)	
+Ankwiczówno	Ankwiczówna	subst:sg:voc:f	nazwisko (odojcowskie)	
+Ankwiczównom	Ankwiczówna	subst:pl:dat:f	nazwisko (odojcowskie)	
+Ankwiczówny	Ankwiczówna	subst:pl:nom.acc.voc:f	nazwisko (odojcowskie)	
+Ankwiczówny	Ankwiczówna	subst:sg:gen:f	nazwisko (odojcowskie)	
+Ankwicza	Ankwicz:s1	subst:sg:gen.acc:m1	nazwisko	
+Ankwiczach	Ankwicz:s1	subst:pl:loc:m1	nazwisko	
+Ankwiczami	Ankwicz:s1	subst:pl:inst:m1	nazwisko	
+Ankwicz	Ankwicz:s1	subst:sg:nom:m1	nazwisko	
+Ankwicze	Ankwicz:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Ankwicze	Ankwicz:s1	subst:pl:nom.voc:m1	nazwisko	
+Ankwiczem	Ankwicz:s1	subst:sg:inst:m1	nazwisko	
+Ankwiczom	Ankwicz:s1	subst:pl:dat:m1	nazwisko	
+Ankwiczowi	Ankwicz:s1	subst:sg:dat:m1	nazwisko	
+Ankwiczowie	Ankwicz:s1	subst:pl:nom.voc:m1	nazwisko	
+Ankwiczów	Ankwicz:s1	subst:pl:gen.acc:m1	nazwisko	
+Ankwiczu	Ankwicz:s1	subst:sg:loc:m1	nazwisko	
+Ankwiczu	Ankwicz:s1	subst:sg:voc:m1	nazwisko	
+Ankwicz	Ankwicz:s4	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Anna	Anna	subst:sg:nom:f	imię	
 Annach	Anna	subst:pl:loc:f	imię	
 Annami	Anna	subst:pl:inst:f	imię	
@@ -11602,29 +11608,30 @@ Arciuchu	Arciuch:s1	subst:sg:loc:m1	nazwisko
 Arciuchu	Arciuch:s1	subst:sg:voc:m1	nazwisko	
 Arciuchy	Arciuch:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Arciuch	Arciuch:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Arccie	Arct	subst:sg:loc:m1	nazwisko	
-Arccie	Arct	subst:sg:voc:m1	nazwisko	
-Arcta	Arct	subst:sg:gen.acc:m1	nazwisko	
-Arctach	Arct	subst:pl:loc:m1	nazwisko	
-Arctami	Arct	subst:pl:inst:m1	nazwisko	
-Arct	Arct	subst:sg:nom:m1	nazwisko	
-Arctem	Arct	subst:sg:inst:m1	nazwisko	
-Arctom	Arct	subst:pl:dat:m1	nazwisko	
-Arctowi	Arct	subst:sg:dat:m1	nazwisko	
-Arctowie	Arct	subst:pl:nom.voc:m1	nazwisko	
-Arctów	Arct	subst:pl:gen.acc:m1	nazwisko	
-Arcty	Arct	depr:pl:nom.acc.voc:m2	nazwisko	
-Arctowa	Arctowa	subst:sg:nom:f	nazwisko	
-Arctowa	Arctowa	subst:sg:voc:f	nazwisko	
-Arctową	Arctowa	subst:sg:acc:f	nazwisko	
-Arctową	Arctowa	subst:sg:inst:f	nazwisko	
-Arctowe	Arctowa	subst:pl:nom.acc.voc:f	nazwisko	
-Arctowej	Arctowa	subst:sg:dat.loc:f	nazwisko	
-Arctowej	Arctowa	subst:sg:gen:f	nazwisko	
-Arctowych	Arctowa	subst:pl:gen:f	nazwisko	
-Arctowych	Arctowa	subst:pl:loc:f	nazwisko	
-Arctowym	Arctowa	subst:pl:dat:f	nazwisko	
-Arctowymi	Arctowa	subst:pl:inst:f	nazwisko	
+Arctowa	Arctowa	subst:sg:nom:f	nazwisko (odmężowskie)	
+Arctowa	Arctowa	subst:sg:voc:f	nazwisko (odmężowskie)	
+Arctową	Arctowa	subst:sg:acc:f	nazwisko (odmężowskie)	
+Arctową	Arctowa	subst:sg:inst:f	nazwisko (odmężowskie)	
+Arctowe	Arctowa	subst:pl:nom.acc.voc:f	nazwisko (odmężowskie)	
+Arctowej	Arctowa	subst:sg:dat.loc:f	nazwisko (odmężowskie)	
+Arctowej	Arctowa	subst:sg:gen:f	nazwisko (odmężowskie)	
+Arctowych	Arctowa	subst:pl:gen:f	nazwisko (odmężowskie)	
+Arctowych	Arctowa	subst:pl:loc:f	nazwisko (odmężowskie)	
+Arctowym	Arctowa	subst:pl:dat:f	nazwisko (odmężowskie)	
+Arctowymi	Arctowa	subst:pl:inst:f	nazwisko (odmężowskie)	
+Arccie	Arct:s1	subst:sg:loc:m1	nazwisko	
+Arccie	Arct:s1	subst:sg:voc:m1	nazwisko	
+Arcta	Arct:s1	subst:sg:gen.acc:m1	nazwisko	
+Arctach	Arct:s1	subst:pl:loc:m1	nazwisko	
+Arctami	Arct:s1	subst:pl:inst:m1	nazwisko	
+Arct	Arct:s1	subst:sg:nom:m1	nazwisko	
+Arctem	Arct:s1	subst:sg:inst:m1	nazwisko	
+Arctom	Arct:s1	subst:pl:dat:m1	nazwisko	
+Arctowi	Arct:s1	subst:sg:dat:m1	nazwisko	
+Arctowie	Arct:s1	subst:pl:nom.voc:m1	nazwisko	
+Arctów	Arct:s1	subst:pl:gen.acc:m1	nazwisko	
+Arcty	Arct:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Arct	Arct:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Arczewska	Arczewska	subst:sg:nom:f	nazwisko	
 Arczewska	Arczewska	subst:sg:voc:f	nazwisko	
 Arczewską	Arczewska	subst:sg:acc:f	nazwisko	
@@ -12452,18 +12459,19 @@ Armknechtowie	Armknecht:s1	subst:pl:nom.voc:m1	nazwisko
 Armknechtów	Armknecht:s1	subst:pl:gen.acc:m1	nazwisko	
 Armknechty	Armknecht:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Armknecht	Armknecht:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Armstronga	Armstrong	subst:sg:gen.acc:m1	nazwisko	
-Armstrongach	Armstrong	subst:pl:loc:m1	nazwisko	
-Armstrongami	Armstrong	subst:pl:inst:m1	nazwisko	
-Armstrong	Armstrong	subst:sg:nom:m1	nazwisko	
-Armstrongi	Armstrong	depr:pl:nom.acc.voc:m2	nazwisko	
-Armstrongiem	Armstrong	subst:sg:inst:m1	nazwisko	
-Armstrongom	Armstrong	subst:pl:dat:m1	nazwisko	
-Armstrongowi	Armstrong	subst:sg:dat:m1	nazwisko	
-Armstrongowie	Armstrong	subst:pl:nom.voc:m1	nazwisko	
-Armstrongów	Armstrong	subst:pl:gen.acc:m1	nazwisko	
-Armstrongu	Armstrong	subst:sg:loc:m1	nazwisko	
-Armstrongu	Armstrong	subst:sg:voc:m1	nazwisko	
+Armstronga	Armstrong:s1	subst:sg:gen.acc:m1	nazwisko	
+Armstrongach	Armstrong:s1	subst:pl:loc:m1	nazwisko	
+Armstrongami	Armstrong:s1	subst:pl:inst:m1	nazwisko	
+Armstrong	Armstrong:s1	subst:sg:nom:m1	nazwisko	
+Armstrongi	Armstrong:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Armstrongiem	Armstrong:s1	subst:sg:inst:m1	nazwisko	
+Armstrongom	Armstrong:s1	subst:pl:dat:m1	nazwisko	
+Armstrongowi	Armstrong:s1	subst:sg:dat:m1	nazwisko	
+Armstrongowie	Armstrong:s1	subst:pl:nom.voc:m1	nazwisko	
+Armstrongów	Armstrong:s1	subst:pl:gen.acc:m1	nazwisko	
+Armstrongu	Armstrong:s1	subst:sg:loc:m1	nazwisko	
+Armstrongu	Armstrong:s1	subst:sg:voc:m1	nazwisko	
+Armstrong	Armstrong:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Armule	Armuła:s1	subst:sg:dat.loc:m1	nazwisko	
 Armuła	Armuła:s1	subst:sg:nom:m1	nazwisko	
 Armułach	Armuła:s1	subst:pl:loc:m1	nazwisko	
@@ -13138,18 +13146,19 @@ Asmodeuszowie	Asmodeusz	subst:pl:nom.voc:m1	imię
 Asmodeuszów	Asmodeusz	subst:pl:gen.acc:m1	imię	
 Asmodeuszu	Asmodeusz	subst:sg:loc:m1	imię	
 Asmodeuszu	Asmodeusz	subst:sg:voc:m1	imię	
-Asnyka	Asnyk	subst:sg:gen.acc:m1	nazwisko	
-Asnykach	Asnyk	subst:pl:loc:m1	nazwisko	
-Asnykami	Asnyk	subst:pl:inst:m1	nazwisko	
-Asnyk	Asnyk	subst:sg:nom:m1	nazwisko	
-Asnyki	Asnyk	depr:pl:nom.acc.voc:m2	nazwisko	
-Asnykiem	Asnyk	subst:sg:inst:m1	nazwisko	
-Asnykom	Asnyk	subst:pl:dat:m1	nazwisko	
-Asnykowi	Asnyk	subst:sg:dat:m1	nazwisko	
-Asnykowie	Asnyk	subst:pl:nom.voc:m1	nazwisko	
-Asnyków	Asnyk	subst:pl:gen.acc:m1	nazwisko	
-Asnyku	Asnyk	subst:sg:loc:m1	nazwisko	
-Asnyku	Asnyk	subst:sg:voc:m1	nazwisko	
+Asnyka	Asnyk:s1	subst:sg:gen.acc:m1	nazwisko	
+Asnykach	Asnyk:s1	subst:pl:loc:m1	nazwisko	
+Asnykami	Asnyk:s1	subst:pl:inst:m1	nazwisko	
+Asnyk	Asnyk:s1	subst:sg:nom:m1	nazwisko	
+Asnyki	Asnyk:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Asnykiem	Asnyk:s1	subst:sg:inst:m1	nazwisko	
+Asnykom	Asnyk:s1	subst:pl:dat:m1	nazwisko	
+Asnykowi	Asnyk:s1	subst:sg:dat:m1	nazwisko	
+Asnykowie	Asnyk:s1	subst:pl:nom.voc:m1	nazwisko	
+Asnyków	Asnyk:s1	subst:pl:gen.acc:m1	nazwisko	
+Asnyku	Asnyk:s1	subst:sg:loc:m1	nazwisko	
+Asnyku	Asnyk:s1	subst:sg:voc:m1	nazwisko	
+Asnyk	Asnyk:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 ASP	ASP	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa instytucji	
 ASR-ach	ASR	subst:pl:loc:m3	nazwa pospolita	techn.
 ASR-ami	ASR	subst:pl:inst:m3	nazwa pospolita	techn.
@@ -14282,18 +14291,19 @@ Auschwitzów	Auschwitz	subst:pl:gen:m3	nazwa geograficzna	hist.
 Auschwitzu	Auschwitz	subst:sg:gen:m3	nazwa geograficzna	hist.
 Auschwitzu	Auschwitz	subst:sg:loc:m3	nazwa geograficzna	hist.
 Auschwitzu	Auschwitz	subst:sg:voc:m3	nazwa geograficzna	hist.
-Austena	Austen	subst:sg:gen.acc:m1	nazwisko	
-Austenach	Austen	subst:pl:loc:m1	nazwisko	
-Austenami	Austen	subst:pl:inst:m1	nazwisko	
-Austen	Austen	subst:sg:nom:m1	nazwisko	
-Austenem	Austen	subst:sg:inst:m1	nazwisko	
-Austenie	Austen	subst:sg:loc:m1	nazwisko	
-Austenie	Austen	subst:sg:voc:m1	nazwisko	
-Austenom	Austen	subst:pl:dat:m1	nazwisko	
-Austenowi	Austen	subst:sg:dat:m1	nazwisko	
-Austenowie	Austen	subst:pl:nom.voc:m1	nazwisko	
-Austenów	Austen	subst:pl:gen.acc:m1	nazwisko	
-Austeny	Austen	depr:pl:nom.acc.voc:m2	nazwisko	
+Austena	Austen:s1	subst:sg:gen.acc:m1	nazwisko	
+Austenach	Austen:s1	subst:pl:loc:m1	nazwisko	
+Austenami	Austen:s1	subst:pl:inst:m1	nazwisko	
+Austen	Austen:s1	subst:sg:nom:m1	nazwisko	
+Austenem	Austen:s1	subst:sg:inst:m1	nazwisko	
+Austenie	Austen:s1	subst:sg:loc:m1	nazwisko	
+Austenie	Austen:s1	subst:sg:voc:m1	nazwisko	
+Austenom	Austen:s1	subst:pl:dat:m1	nazwisko	
+Austenowi	Austen:s1	subst:sg:dat:m1	nazwisko	
+Austenowie	Austen:s1	subst:pl:nom.voc:m1	nazwisko	
+Austenów	Austen:s1	subst:pl:gen.acc:m1	nazwisko	
+Austeny	Austen:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Austen	Austen:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Austerlitz	Austerlitz	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	hist.
 Austina	Austin	subst:sg:gen.acc:m1	nazwisko	
 Austinach	Austin	subst:pl:loc:m1	nazwisko	
@@ -14447,18 +14457,19 @@ Avrahamowi	Avraham	subst:sg:dat:m1	imię
 Avrahamowie	Avraham	subst:pl:nom.voc:m1	imię	
 Avrahamów	Avraham	subst:pl:gen.acc:m1	imię	
 Avrahamy	Avraham	depr:pl:nom.acc.voc:m2	imię	
-Awdiejewa	Awdiejew	subst:sg:gen.acc:m1	nazwisko	
-Awdiejewach	Awdiejew	subst:pl:loc:m1	nazwisko	
-Awdiejewami	Awdiejew	subst:pl:inst:m1	nazwisko	
-Awdiejew	Awdiejew	subst:sg:nom:m1	nazwisko	
-Awdiejewem	Awdiejew	subst:sg:inst:m1	nazwisko	
-Awdiejewie	Awdiejew	subst:sg:loc:m1	nazwisko	
-Awdiejewie	Awdiejew	subst:sg:voc:m1	nazwisko	
-Awdiejewom	Awdiejew	subst:pl:dat:m1	nazwisko	
-Awdiejewowi	Awdiejew	subst:sg:dat:m1	nazwisko	
-Awdiejewowie	Awdiejew	subst:pl:nom.voc:m1	nazwisko	
-Awdiejewów	Awdiejew	subst:pl:gen.acc:m1	nazwisko	
-Awdiejewy	Awdiejew	depr:pl:nom.acc.voc:m2	nazwisko	
+Awdiejewa	Awdiejew:s1	subst:sg:gen.acc:m1	nazwisko	
+Awdiejewach	Awdiejew:s1	subst:pl:loc:m1	nazwisko	
+Awdiejewami	Awdiejew:s1	subst:pl:inst:m1	nazwisko	
+Awdiejew	Awdiejew:s1	subst:sg:nom:m1	nazwisko	
+Awdiejewem	Awdiejew:s1	subst:sg:inst:m1	nazwisko	
+Awdiejewie	Awdiejew:s1	subst:sg:loc:m1	nazwisko	
+Awdiejewie	Awdiejew:s1	subst:sg:voc:m1	nazwisko	
+Awdiejewom	Awdiejew:s1	subst:pl:dat:m1	nazwisko	
+Awdiejewowi	Awdiejew:s1	subst:sg:dat:m1	nazwisko	
+Awdiejewowie	Awdiejew:s1	subst:pl:nom.voc:m1	nazwisko	
+Awdiejewów	Awdiejew:s1	subst:pl:gen.acc:m1	nazwisko	
+Awdiejewy	Awdiejew:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Awdiejew	Awdiejew:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Awdzieja	Awdziej:s1	subst:sg:gen.acc:m1	nazwisko	
 Awdziejach	Awdziej:s1	subst:pl:loc:m1	nazwisko	
 Awdziejami	Awdziej:s1	subst:pl:inst:m1	nazwisko	

@@ -431,19 +431,20 @@ Rabiniak	Rabiniak:s2	subst:sg:nom:m1	nazwisko
 Rabiniaku	Rabiniak:s2	subst:sg:loc:m1	nazwisko	
 Rabiniaku	Rabiniak:s2	subst:sg:voc:m1	nazwisko	
 Rabiniak	Rabiniak:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Rabinowiczach	Rabinowicz	subst:pl:loc:m1	nazwisko	
-Rabinowiczami	Rabinowicz	subst:pl:inst:m1	nazwisko	
-Rabinowicza	Rabinowicz	subst:sg:gen.acc:m1	nazwisko	
-Rabinowiczem	Rabinowicz	subst:sg:inst:m1	nazwisko	
-Rabinowicze	Rabinowicz	depr:pl:nom.acc.voc:m2	nazwisko	
-Rabinowicze	Rabinowicz	subst:pl:nom.voc:m1	nazwisko	
-Rabinowiczom	Rabinowicz	subst:pl:dat:m1	nazwisko	
-Rabinowiczowie	Rabinowicz	subst:pl:nom.voc:m1	nazwisko	
-Rabinowiczowi	Rabinowicz	subst:sg:dat:m1	nazwisko	
-Rabinowiczów	Rabinowicz	subst:pl:gen.acc:m1	nazwisko	
-Rabinowicz	Rabinowicz	subst:sg:nom:m1	nazwisko	
-Rabinowiczu	Rabinowicz	subst:sg:loc:m1	nazwisko	
-Rabinowiczu	Rabinowicz	subst:sg:voc:m1	nazwisko	
+Rabinowiczach	Rabinowicz:s1	subst:pl:loc:m1	nazwisko	
+Rabinowiczami	Rabinowicz:s1	subst:pl:inst:m1	nazwisko	
+Rabinowicza	Rabinowicz:s1	subst:sg:gen.acc:m1	nazwisko	
+Rabinowiczem	Rabinowicz:s1	subst:sg:inst:m1	nazwisko	
+Rabinowicze	Rabinowicz:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Rabinowicze	Rabinowicz:s1	subst:pl:nom.voc:m1	nazwisko	
+Rabinowiczom	Rabinowicz:s1	subst:pl:dat:m1	nazwisko	
+Rabinowiczowie	Rabinowicz:s1	subst:pl:nom.voc:m1	nazwisko	
+Rabinowiczowi	Rabinowicz:s1	subst:sg:dat:m1	nazwisko	
+Rabinowiczów	Rabinowicz:s1	subst:pl:gen.acc:m1	nazwisko	
+Rabinowicz	Rabinowicz:s1	subst:sg:nom:m1	nazwisko	
+Rabinowiczu	Rabinowicz:s1	subst:sg:loc:m1	nazwisko	
+Rabinowiczu	Rabinowicz:s1	subst:sg:voc:m1	nazwisko	
+Rabinowicz	Rabinowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Rabińska	Rabińska	subst:sg:nom:f	nazwisko	
 Rabińska	Rabińska	subst:sg:voc:f	nazwisko	
 Rabińską	Rabińska	subst:sg:acc:f	nazwisko	
@@ -3927,17 +3928,17 @@ Radziwiłłowicz	Radziwiłłowicz:s2	subst:sg:nom:m1	nazwisko
 Radziwiłłowiczu	Radziwiłłowicz:s2	subst:sg:loc:m1	nazwisko	
 Radziwiłłowiczu	Radziwiłłowicz:s2	subst:sg:voc:m1	nazwisko	
 Radziwiłłowicz	Radziwiłłowicz:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Radziwiłłówien	Radziwiłłówna	subst:pl:gen:f	nazwisko	
-Radziwiłłównach	Radziwiłłówna	subst:pl:loc:f	nazwisko	
-Radziwiłłównami	Radziwiłłówna	subst:pl:inst:f	nazwisko	
-Radziwiłłówna	Radziwiłłówna	subst:sg:nom:f	nazwisko	
-Radziwiłłówną	Radziwiłłówna	subst:sg:inst:f	nazwisko	
-Radziwiłłównę	Radziwiłłówna	subst:sg:acc:f	nazwisko	
-Radziwiłłównie	Radziwiłłówna	subst:sg:dat.loc:f	nazwisko	
-Radziwiłłównom	Radziwiłłówna	subst:pl:dat:f	nazwisko	
-Radziwiłłówno	Radziwiłłówna	subst:sg:voc:f	nazwisko	
-Radziwiłłówny	Radziwiłłówna	subst:pl:nom.acc.voc:f	nazwisko	
-Radziwiłłówny	Radziwiłłówna	subst:sg:gen:f	nazwisko	
+Radziwiłłówien	Radziwiłłówna	subst:pl:gen:f	nazwisko (odojcowskie)	
+Radziwiłłównach	Radziwiłłówna	subst:pl:loc:f	nazwisko (odojcowskie)	
+Radziwiłłównami	Radziwiłłówna	subst:pl:inst:f	nazwisko (odojcowskie)	
+Radziwiłłówna	Radziwiłłówna	subst:sg:nom:f	nazwisko (odojcowskie)	
+Radziwiłłówną	Radziwiłłówna	subst:sg:inst:f	nazwisko (odojcowskie)	
+Radziwiłłównę	Radziwiłłówna	subst:sg:acc:f	nazwisko (odojcowskie)	
+Radziwiłłównie	Radziwiłłówna	subst:sg:dat.loc:f	nazwisko (odojcowskie)	
+Radziwiłłównom	Radziwiłłówna	subst:pl:dat:f	nazwisko (odojcowskie)	
+Radziwiłłówno	Radziwiłłówna	subst:sg:voc:f	nazwisko (odojcowskie)	
+Radziwiłłówny	Radziwiłłówna	subst:pl:nom.acc.voc:f	nazwisko (odojcowskie)	
+Radziwiłłówny	Radziwiłłówna	subst:sg:gen:f	nazwisko (odojcowskie)	
 Radziwille	Radziwiłł:s1	subst:sg:loc:m1	nazwisko	
 Radziwille	Radziwiłł:s1	subst:sg:voc:m1	nazwisko	
 Radziwiłłach	Radziwiłł:s1	subst:pl:loc:m1	nazwisko	
@@ -11101,18 +11102,19 @@ Rejsów	Rejs:s1	subst:pl:gen.acc:m1	nazwisko
 Rejs	Rejs:s1	subst:sg:nom:m1	nazwisko	
 Rejsy	Rejs:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Rejs	Rejs:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Rejtanach	Rejtan	subst:pl:loc:m1	nazwisko	
-Rejtanami	Rejtan	subst:pl:inst:m1	nazwisko	
-Rejtana	Rejtan	subst:sg:gen.acc:m1	nazwisko	
-Rejtanem	Rejtan	subst:sg:inst:m1	nazwisko	
-Rejtanie	Rejtan	subst:sg:loc:m1	nazwisko	
-Rejtanie	Rejtan	subst:sg:voc:m1	nazwisko	
-Rejtanom	Rejtan	subst:pl:dat:m1	nazwisko	
-Rejtanowie	Rejtan	subst:pl:nom.voc:m1	nazwisko	
-Rejtanowi	Rejtan	subst:sg:dat:m1	nazwisko	
-Rejtanów	Rejtan	subst:pl:gen.acc:m1	nazwisko	
-Rejtan	Rejtan	subst:sg:nom:m1	nazwisko	
-Rejtany	Rejtan	depr:pl:nom.acc.voc:m2	nazwisko	
+Rejtanach	Rejtan:s1	subst:pl:loc:m1	nazwisko	
+Rejtanami	Rejtan:s1	subst:pl:inst:m1	nazwisko	
+Rejtana	Rejtan:s1	subst:sg:gen.acc:m1	nazwisko	
+Rejtanem	Rejtan:s1	subst:sg:inst:m1	nazwisko	
+Rejtanie	Rejtan:s1	subst:sg:loc:m1	nazwisko	
+Rejtanie	Rejtan:s1	subst:sg:voc:m1	nazwisko	
+Rejtanom	Rejtan:s1	subst:pl:dat:m1	nazwisko	
+Rejtanowie	Rejtan:s1	subst:pl:nom.voc:m1	nazwisko	
+Rejtanowi	Rejtan:s1	subst:sg:dat:m1	nazwisko	
+Rejtanów	Rejtan:s1	subst:pl:gen.acc:m1	nazwisko	
+Rejtan	Rejtan:s1	subst:sg:nom:m1	nazwisko	
+Rejtany	Rejtan:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Rejtan	Rejtan:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Rejterach	Rejter:s1	subst:pl:loc:m1	nazwisko	
 Rejterami	Rejter:s1	subst:pl:inst:m1	nazwisko	
 Rejtera	Rejter:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -14066,30 +14068,32 @@ Reykjavik	Reykjavik	subst:sg:nom.acc:m3	nazwa geograficzna
 Reykjaviku	Reykjavik	subst:sg:gen:m3	nazwa geograficzna	
 Reykjaviku	Reykjavik	subst:sg:loc:m3	nazwa geograficzna	
 Reykjaviku	Reykjavik	subst:sg:voc:m3	nazwa geograficzna	
-Reymoncie	Reymont	subst:sg:loc:m1	nazwisko	
-Reymoncie	Reymont	subst:sg:voc:m1	nazwisko	
-Reymontach	Reymont	subst:pl:loc:m1	nazwisko	
-Reymontami	Reymont	subst:pl:inst:m1	nazwisko	
-Reymonta	Reymont	subst:sg:gen.acc:m1	nazwisko	
-Reymontem	Reymont	subst:sg:inst:m1	nazwisko	
-Reymontom	Reymont	subst:pl:dat:m1	nazwisko	
-Reymontowie	Reymont	subst:pl:nom.voc:m1	nazwisko	
-Reymontowi	Reymont	subst:sg:dat:m1	nazwisko	
-Reymontów	Reymont	subst:pl:gen.acc:m1	nazwisko	
-Reymont	Reymont	subst:sg:nom:m1	nazwisko	
-Reymonty	Reymont	depr:pl:nom.acc.voc:m2	nazwisko	
-Reynoldsach	Reynolds	subst:pl:loc:m1	nazwisko	
-Reynoldsami	Reynolds	subst:pl:inst:m1	nazwisko	
-Reynoldsa	Reynolds	subst:sg:gen.acc:m1	nazwisko	
-Reynoldsem	Reynolds	subst:sg:inst:m1	nazwisko	
-Reynoldsie	Reynolds	subst:sg:loc:m1	nazwisko	
-Reynoldsie	Reynolds	subst:sg:voc:m1	nazwisko	
-Reynoldsom	Reynolds	subst:pl:dat:m1	nazwisko	
-Reynoldsowie	Reynolds	subst:pl:nom.voc:m1	nazwisko	
-Reynoldsowi	Reynolds	subst:sg:dat:m1	nazwisko	
-Reynoldsów	Reynolds	subst:pl:gen.acc:m1	nazwisko	
-Reynolds	Reynolds	subst:sg:nom:m1	nazwisko	
-Reynoldsy	Reynolds	depr:pl:nom.acc.voc:m2	nazwisko	
+Reymoncie	Reymont:s1	subst:sg:loc:m1	nazwisko	
+Reymoncie	Reymont:s1	subst:sg:voc:m1	nazwisko	
+Reymontach	Reymont:s1	subst:pl:loc:m1	nazwisko	
+Reymontami	Reymont:s1	subst:pl:inst:m1	nazwisko	
+Reymonta	Reymont:s1	subst:sg:gen.acc:m1	nazwisko	
+Reymontem	Reymont:s1	subst:sg:inst:m1	nazwisko	
+Reymontom	Reymont:s1	subst:pl:dat:m1	nazwisko	
+Reymontowie	Reymont:s1	subst:pl:nom.voc:m1	nazwisko	
+Reymontowi	Reymont:s1	subst:sg:dat:m1	nazwisko	
+Reymontów	Reymont:s1	subst:pl:gen.acc:m1	nazwisko	
+Reymont	Reymont:s1	subst:sg:nom:m1	nazwisko	
+Reymonty	Reymont:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Reymont	Reymont:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Reynoldsach	Reynolds:s1	subst:pl:loc:m1	nazwisko	
+Reynoldsami	Reynolds:s1	subst:pl:inst:m1	nazwisko	
+Reynoldsa	Reynolds:s1	subst:sg:gen.acc:m1	nazwisko	
+Reynoldsem	Reynolds:s1	subst:sg:inst:m1	nazwisko	
+Reynoldsie	Reynolds:s1	subst:sg:loc:m1	nazwisko	
+Reynoldsie	Reynolds:s1	subst:sg:voc:m1	nazwisko	
+Reynoldsom	Reynolds:s1	subst:pl:dat:m1	nazwisko	
+Reynoldsowie	Reynolds:s1	subst:pl:nom.voc:m1	nazwisko	
+Reynoldsowi	Reynolds:s1	subst:sg:dat:m1	nazwisko	
+Reynoldsów	Reynolds:s1	subst:pl:gen.acc:m1	nazwisko	
+Reynolds	Reynolds:s1	subst:sg:nom:m1	nazwisko	
+Reynoldsy	Reynolds:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Reynolds	Reynolds:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Rezlerach	Rezler:s1	subst:pl:loc:m1	nazwisko	
 Rezlerami	Rezler:s1	subst:pl:inst:m1	nazwisko	
 Rezlera	Rezler:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -15115,18 +15119,19 @@ Rijnowi	Rijn	subst:sg:dat:m1	nazwisko
 Rijnów	Rijn	subst:pl:gen.acc:m1	nazwisko	
 Rijn	Rijn	subst:sg:nom:m1	nazwisko	
 Rijny	Rijn	depr:pl:nom.acc.voc:m2	nazwisko	
-Rilkach	Rilke	subst:pl:loc:m1	nazwisko	
-Rilkami	Rilke	subst:pl:inst:m1	nazwisko	
-Rilkego	Rilke	subst:sg:gen.acc:m1	nazwisko	
-Rilkem	Rilke	subst:sg:inst:m1	nazwisko	
-Rilkem	Rilke	subst:sg:loc:m1	nazwisko	
-Rilkemu	Rilke	subst:sg:dat:m1	nazwisko	
-Rilke	Rilke	depr:pl:nom.acc.voc:m2	nazwisko	
-Rilke	Rilke	subst:sg:nom:m1	nazwisko	
-Rilke	Rilke	subst:sg:voc:m1	nazwisko	
-Rilkom	Rilke	subst:pl:dat:m1	nazwisko	
-Rilkowie	Rilke	subst:pl:nom.voc:m1	nazwisko	
-Rilków	Rilke	subst:pl:gen.acc:m1	nazwisko	
+Rilkach	Rilke:s1	subst:pl:loc:m1	nazwisko	
+Rilkami	Rilke:s1	subst:pl:inst:m1	nazwisko	
+Rilkego	Rilke:s1	subst:sg:gen.acc:m1	nazwisko	
+Rilkem	Rilke:s1	subst:sg:inst:m1	nazwisko	
+Rilkem	Rilke:s1	subst:sg:loc:m1	nazwisko	
+Rilkemu	Rilke:s1	subst:sg:dat:m1	nazwisko	
+Rilke	Rilke:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Rilke	Rilke:s1	subst:sg:nom:m1	nazwisko	
+Rilke	Rilke:s1	subst:sg:voc:m1	nazwisko	
+Rilkom	Rilke:s1	subst:pl:dat:m1	nazwisko	
+Rilkowie	Rilke:s1	subst:pl:nom.voc:m1	nazwisko	
+Rilków	Rilke:s1	subst:pl:gen.acc:m1	nazwisko	
+Rilke	Rilke:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Rimbaudach	Rimbaud	subst:pl:loc:m1	nazwisko	
 Rimbaudami	Rimbaud	subst:pl:inst:m1	nazwisko	
 Rimbauda	Rimbaud	subst:sg:gen.acc:m1	nazwisko	
@@ -15355,18 +15360,19 @@ Rittery	Ritter:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Ritterze	Ritter:s1	subst:sg:loc:m1	nazwisko	
 Ritterze	Ritter:s1	subst:sg:voc:m1	nazwisko	
 Ritter	Ritter:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Rittnerach	Rittner	subst:pl:loc:m1	nazwisko	
-Rittnerami	Rittner	subst:pl:inst:m1	nazwisko	
-Rittnera	Rittner	subst:sg:gen.acc:m1	nazwisko	
-Rittnerem	Rittner	subst:sg:inst:m1	nazwisko	
-Rittnerom	Rittner	subst:pl:dat:m1	nazwisko	
-Rittnerowie	Rittner	subst:pl:nom.voc:m1	nazwisko	
-Rittnerowi	Rittner	subst:sg:dat:m1	nazwisko	
-Rittnerów	Rittner	subst:pl:gen.acc:m1	nazwisko	
-Rittner	Rittner	subst:sg:nom:m1	nazwisko	
-Rittnery	Rittner	depr:pl:nom.acc.voc:m2	nazwisko	
-Rittnerze	Rittner	subst:sg:loc:m1	nazwisko	
-Rittnerze	Rittner	subst:sg:voc:m1	nazwisko	
+Rittnerach	Rittner:s1	subst:pl:loc:m1	nazwisko	
+Rittnerami	Rittner:s1	subst:pl:inst:m1	nazwisko	
+Rittnera	Rittner:s1	subst:sg:gen.acc:m1	nazwisko	
+Rittnerem	Rittner:s1	subst:sg:inst:m1	nazwisko	
+Rittnerom	Rittner:s1	subst:pl:dat:m1	nazwisko	
+Rittnerowie	Rittner:s1	subst:pl:nom.voc:m1	nazwisko	
+Rittnerowi	Rittner:s1	subst:sg:dat:m1	nazwisko	
+Rittnerów	Rittner:s1	subst:pl:gen.acc:m1	nazwisko	
+Rittner	Rittner:s1	subst:sg:nom:m1	nazwisko	
+Rittnery	Rittner:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Rittnerze	Rittner:s1	subst:sg:loc:m1	nazwisko	
+Rittnerze	Rittner:s1	subst:sg:voc:m1	nazwisko	
+Rittner	Rittner:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Riwierach	Riwiera	subst:pl:loc:f	nazwa geograficzna	
 Riwierami	Riwiera	subst:pl:inst:f	nazwa geograficzna	
 Riwiera	Riwiera	subst:sg:nom:f	nazwa geograficzna	
@@ -15726,18 +15732,6 @@ Roberto	Roberto	subst:sg:voc:m1	imię
 Robertowie	Roberto	subst:pl:nom.voc:m1	imię	
 Robertowi	Roberto	subst:sg:dat:m1	imię	
 Robertów	Roberto	subst:pl:gen.acc:m1	imię	
-Robertsach	Roberts	subst:pl:loc:m1	nazwisko	
-Robertsami	Roberts	subst:pl:inst:m1	nazwisko	
-Robertsa	Roberts	subst:sg:gen.acc:m1	nazwisko	
-Robertsem	Roberts	subst:sg:inst:m1	nazwisko	
-Robertsie	Roberts	subst:sg:loc:m1	nazwisko	
-Robertsie	Roberts	subst:sg:voc:m1	nazwisko	
-Robertsom	Roberts	subst:pl:dat:m1	nazwisko	
-Robertsowie	Roberts	subst:pl:nom.voc:m1	nazwisko	
-Robertsowi	Roberts	subst:sg:dat:m1	nazwisko	
-Robertsów	Roberts	subst:pl:gen.acc:m1	nazwisko	
-Roberts	Roberts	subst:sg:nom:m1	nazwisko	
-Robertsy	Roberts	depr:pl:nom.acc.voc:m2	nazwisko	
 Robercie	Robert:s1	subst:sg:loc:m1	imię	
 Robercie	Robert:s1	subst:sg:voc:m1	imię	
 Robertach	Robert:s1	subst:pl:loc:m1	imię	
@@ -15763,6 +15757,19 @@ Robertów	Robert:s2	subst:pl:gen.acc:m1	nazwisko
 Robert	Robert:s2	subst:sg:nom:m1	nazwisko	
 Roberty	Robert:s2	depr:pl:nom.acc.voc:m2	nazwisko	
 Robert	Robert:s3	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Robertsach	Roberts:s1	subst:pl:loc:m1	nazwisko	
+Robertsami	Roberts:s1	subst:pl:inst:m1	nazwisko	
+Robertsa	Roberts:s1	subst:sg:gen.acc:m1	nazwisko	
+Robertsem	Roberts:s1	subst:sg:inst:m1	nazwisko	
+Robertsie	Roberts:s1	subst:sg:loc:m1	nazwisko	
+Robertsie	Roberts:s1	subst:sg:voc:m1	nazwisko	
+Robertsom	Roberts:s1	subst:pl:dat:m1	nazwisko	
+Robertsowie	Roberts:s1	subst:pl:nom.voc:m1	nazwisko	
+Robertsowi	Roberts:s1	subst:sg:dat:m1	nazwisko	
+Robertsów	Roberts:s1	subst:pl:gen.acc:m1	nazwisko	
+Roberts	Roberts:s1	subst:sg:nom:m1	nazwisko	
+Robertsy	Roberts:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Roberts	Roberts:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Robespierre’ach	Robespierre	subst:pl:loc:m1	nazwisko	
 Robespierre’ami	Robespierre	subst:pl:inst:m1	nazwisko	
 Robespierre’a	Robespierre	subst:sg:gen.acc:m1	nazwisko	
@@ -15789,18 +15796,19 @@ Robin	Robin	depr:pl:nom.acc.voc:m2	imię
 Robin	Robin	subst:sg:nom:m1	imię	
 Robin	Robin	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	imię	
 Robiny	Robin	depr:pl:nom.acc.voc:m2	imię	
-Robinsonach	Robinson	subst:pl:loc:m1	imię|nazwisko	
-Robinsonami	Robinson	subst:pl:inst:m1	imię|nazwisko	
-Robinsona	Robinson	subst:sg:gen.acc:m1	imię|nazwisko	
-Robinsonem	Robinson	subst:sg:inst:m1	imię|nazwisko	
-Robinsonie	Robinson	subst:sg:loc:m1	imię|nazwisko	
-Robinsonie	Robinson	subst:sg:voc:m1	imię|nazwisko	
-Robinsonom	Robinson	subst:pl:dat:m1	imię|nazwisko	
-Robinsonowie	Robinson	subst:pl:nom.voc:m1	imię|nazwisko	
-Robinsonowi	Robinson	subst:sg:dat:m1	imię|nazwisko	
-Robinsonów	Robinson	subst:pl:gen.acc:m1	imię|nazwisko	
-Robinson	Robinson	subst:sg:nom:m1	imię|nazwisko	
-Robinsony	Robinson	depr:pl:nom.acc.voc:m2	imię|nazwisko	
+Robinsonach	Robinson:s1	subst:pl:loc:m1	imię|nazwisko	
+Robinsonami	Robinson:s1	subst:pl:inst:m1	imię|nazwisko	
+Robinsona	Robinson:s1	subst:sg:gen.acc:m1	imię|nazwisko	
+Robinsonem	Robinson:s1	subst:sg:inst:m1	imię|nazwisko	
+Robinsonie	Robinson:s1	subst:sg:loc:m1	imię|nazwisko	
+Robinsonie	Robinson:s1	subst:sg:voc:m1	imię|nazwisko	
+Robinsonom	Robinson:s1	subst:pl:dat:m1	imię|nazwisko	
+Robinsonowie	Robinson:s1	subst:pl:nom.voc:m1	imię|nazwisko	
+Robinsonowi	Robinson:s1	subst:sg:dat:m1	imię|nazwisko	
+Robinsonów	Robinson:s1	subst:pl:gen.acc:m1	imię|nazwisko	
+Robinson	Robinson:s1	subst:sg:nom:m1	imię|nazwisko	
+Robinsony	Robinson:s1	depr:pl:nom.acc.voc:m2	imię|nazwisko	
+Robinson	Robinson:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Robińska	Robińska	subst:sg:nom:f	nazwisko	
 Robińska	Robińska	subst:sg:voc:f	nazwisko	
 Robińską	Robińska	subst:sg:acc:f	nazwisko	
@@ -16796,17 +16804,17 @@ Rodziak	Rodziak:s1	subst:sg:nom:m1	nazwisko
 Rodziaku	Rodziak:s1	subst:sg:loc:m1	nazwisko	
 Rodziaku	Rodziak:s1	subst:sg:voc:m1	nazwisko	
 Rodziak	Rodziak:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Rodziewiczówien	Rodziewiczówna	subst:pl:gen:f	nazwisko	
-Rodziewiczównach	Rodziewiczówna	subst:pl:loc:f	nazwisko	
-Rodziewiczównami	Rodziewiczówna	subst:pl:inst:f	nazwisko	
-Rodziewiczówna	Rodziewiczówna	subst:sg:nom:f	nazwisko	
-Rodziewiczówną	Rodziewiczówna	subst:sg:inst:f	nazwisko	
-Rodziewiczównę	Rodziewiczówna	subst:sg:acc:f	nazwisko	
-Rodziewiczównie	Rodziewiczówna	subst:sg:dat.loc:f	nazwisko	
-Rodziewiczównom	Rodziewiczówna	subst:pl:dat:f	nazwisko	
-Rodziewiczówno	Rodziewiczówna	subst:sg:voc:f	nazwisko	
-Rodziewiczówny	Rodziewiczówna	subst:pl:nom.acc.voc:f	nazwisko	
-Rodziewiczówny	Rodziewiczówna	subst:sg:gen:f	nazwisko	
+Rodziewiczówien	Rodziewiczówna	subst:pl:gen:f	nazwisko (odojcowskie)	
+Rodziewiczównach	Rodziewiczówna	subst:pl:loc:f	nazwisko (odojcowskie)	
+Rodziewiczównami	Rodziewiczówna	subst:pl:inst:f	nazwisko (odojcowskie)	
+Rodziewiczówna	Rodziewiczówna	subst:sg:nom:f	nazwisko (odojcowskie)	
+Rodziewiczówną	Rodziewiczówna	subst:sg:inst:f	nazwisko (odojcowskie)	
+Rodziewiczównę	Rodziewiczówna	subst:sg:acc:f	nazwisko (odojcowskie)	
+Rodziewiczównie	Rodziewiczówna	subst:sg:dat.loc:f	nazwisko (odojcowskie)	
+Rodziewiczównom	Rodziewiczówna	subst:pl:dat:f	nazwisko (odojcowskie)	
+Rodziewiczówno	Rodziewiczówna	subst:sg:voc:f	nazwisko (odojcowskie)	
+Rodziewiczówny	Rodziewiczówna	subst:pl:nom.acc.voc:f	nazwisko (odojcowskie)	
+Rodziewiczówny	Rodziewiczówna	subst:sg:gen:f	nazwisko (odojcowskie)	
 Rodziewiczach	Rodziewicz:s2	subst:pl:loc:m1	nazwisko	
 Rodziewiczami	Rodziewicz:s2	subst:pl:inst:m1	nazwisko	
 Rodziewicza	Rodziewicz:s2	subst:sg:gen.acc:m1	nazwisko	
@@ -20823,18 +20831,6 @@ Rosenau	Rosenau:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko
 Rosenau	Rosenau:s1	subst:sg:voc:m1	nazwisko	
 Rosenauy	Rosenau:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Rosenau	Rosenau:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Rosenbergach	Rosenberg	subst:pl:loc:m1	nazwisko	
-Rosenbergami	Rosenberg	subst:pl:inst:m1	nazwisko	
-Rosenberga	Rosenberg	subst:sg:gen.acc:m1	nazwisko	
-Rosenbergiem	Rosenberg	subst:sg:inst:m1	nazwisko	
-Rosenbergi	Rosenberg	depr:pl:nom.acc.voc:m2	nazwisko	
-Rosenbergom	Rosenberg	subst:pl:dat:m1	nazwisko	
-Rosenbergowie	Rosenberg	subst:pl:nom.voc:m1	nazwisko	
-Rosenbergowi	Rosenberg	subst:sg:dat:m1	nazwisko	
-Rosenbergów	Rosenberg	subst:pl:gen.acc:m1	nazwisko	
-Rosenberg	Rosenberg	subst:sg:nom:m1	nazwisko	
-Rosenbergu	Rosenberg	subst:sg:loc:m1	nazwisko	
-Rosenbergu	Rosenberg	subst:sg:voc:m1	nazwisko	
 Rosenbergerach	Rosenberger:s1	subst:pl:loc:m1	nazwisko	
 Rosenbergerami	Rosenberger:s1	subst:pl:inst:m1	nazwisko	
 Rosenbergera	Rosenberger:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -20848,6 +20844,19 @@ Rosenbergery	Rosenberger:s1	depr:pl:nom.acc.voc:m2	nazwisko
 Rosenbergerze	Rosenberger:s1	subst:sg:loc:m1	nazwisko	
 Rosenbergerze	Rosenberger:s1	subst:sg:voc:m1	nazwisko	
 Rosenberger	Rosenberger:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Rosenbergach	Rosenberg:s1	subst:pl:loc:m1	nazwisko	
+Rosenbergami	Rosenberg:s1	subst:pl:inst:m1	nazwisko	
+Rosenberga	Rosenberg:s1	subst:sg:gen.acc:m1	nazwisko	
+Rosenbergiem	Rosenberg:s1	subst:sg:inst:m1	nazwisko	
+Rosenbergi	Rosenberg:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Rosenbergom	Rosenberg:s1	subst:pl:dat:m1	nazwisko	
+Rosenbergowie	Rosenberg:s1	subst:pl:nom.voc:m1	nazwisko	
+Rosenbergowi	Rosenberg:s1	subst:sg:dat:m1	nazwisko	
+Rosenbergów	Rosenberg:s1	subst:pl:gen.acc:m1	nazwisko	
+Rosenberg	Rosenberg:s1	subst:sg:nom:m1	nazwisko	
+Rosenbergu	Rosenberg:s1	subst:sg:loc:m1	nazwisko	
+Rosenbergu	Rosenberg:s1	subst:sg:voc:m1	nazwisko	
+Rosenberg	Rosenberg:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Rosenkiewiczach	Rosenkiewicz:s2	subst:pl:loc:m1	nazwisko	
 Rosenkiewiczami	Rosenkiewicz:s2	subst:pl:inst:m1	nazwisko	
 Rosenkiewicza	Rosenkiewicz:s2	subst:sg:gen.acc:m1	nazwisko	
@@ -22744,8 +22753,9 @@ Rougetowi	Rouget	subst:sg:dat:m1	nazwisko
 Rougetów	Rouget	subst:pl:gen.acc:m1	nazwisko	
 Rouget	Rouget	subst:sg:nom:m1	nazwisko	
 Rougety	Rouget	depr:pl:nom.acc.voc:m2	nazwisko	
-Rousseau	Rousseau	depr:pl:nom.acc.voc:m2	nazwisko	
-Rousseau	Rousseau	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko	
+Rousseau	Rousseau:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Rousseau	Rousseau:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m1	nazwisko	
+Rousseau	Rousseau:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Rowecka	Rowecka	subst:sg:nom:f	nazwisko	
 Rowecka	Rowecka	subst:sg:voc:f	nazwisko	
 Rowecką	Rowecka	subst:sg:acc:f	nazwisko	
@@ -24666,18 +24676,19 @@ Rółkowskim	Rółkowski	subst:sg:inst:m1	nazwisko
 Rółkowskim	Rółkowski	subst:sg:loc:m1	nazwisko	
 Rółkowski	Rółkowski	subst:sg:nom:m1	nazwisko	
 Rółkowski	Rółkowski	subst:sg:voc:m1	nazwisko	
-Rómmel	Rómmel	subst:sg:nom:m1	nazwisko	
-Rómmlach	Rómmel	subst:pl:loc:m1	nazwisko	
-Rómmlami	Rómmel	subst:pl:inst:m1	nazwisko	
-Rómmla	Rómmel	subst:sg:gen.acc:m1	nazwisko	
-Rómmlem	Rómmel	subst:sg:inst:m1	nazwisko	
-Rómmle	Rómmel	depr:pl:nom.acc.voc:m2	nazwisko	
-Rómmlom	Rómmel	subst:pl:dat:m1	nazwisko	
-Rómmlowie	Rómmel	subst:pl:nom.voc:m1	nazwisko	
-Rómmlowi	Rómmel	subst:sg:dat:m1	nazwisko	
-Rómmlów	Rómmel	subst:pl:gen.acc:m1	nazwisko	
-Rómmlu	Rómmel	subst:sg:loc:m1	nazwisko	
-Rómmlu	Rómmel	subst:sg:voc:m1	nazwisko	
+Rómmel	Rómmel:s1	subst:sg:nom:m1	nazwisko	
+Rómmlach	Rómmel:s1	subst:pl:loc:m1	nazwisko	
+Rómmlami	Rómmel:s1	subst:pl:inst:m1	nazwisko	
+Rómmla	Rómmel:s1	subst:sg:gen.acc:m1	nazwisko	
+Rómmlem	Rómmel:s1	subst:sg:inst:m1	nazwisko	
+Rómmle	Rómmel:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Rómmlom	Rómmel:s1	subst:pl:dat:m1	nazwisko	
+Rómmlowie	Rómmel:s1	subst:pl:nom.voc:m1	nazwisko	
+Rómmlowi	Rómmel:s1	subst:sg:dat:m1	nazwisko	
+Rómmlów	Rómmel:s1	subst:pl:gen.acc:m1	nazwisko	
+Rómmlu	Rómmel:s1	subst:sg:loc:m1	nazwisko	
+Rómmlu	Rómmel:s1	subst:sg:voc:m1	nazwisko	
+Rómmel	Rómmel:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Rószczce	Rószczka:s1	subst:sg:dat.loc:m1	nazwisko	
 Rószczkach	Rószczka:s1	subst:pl:loc:m1	nazwisko	
 Rószczkami	Rószczka:s1	subst:pl:inst:m1	nazwisko	
@@ -25713,18 +25724,19 @@ Rubinów	Rubin:s1	subst:pl:gen.acc:m1	nazwisko
 Rubin	Rubin:s1	subst:sg:nom:m1	nazwisko	
 Rubiny	Rubin:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Rubin	Rubin:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Rubinsteinach	Rubinstein	subst:pl:loc:m1	nazwisko	
-Rubinsteinami	Rubinstein	subst:pl:inst:m1	nazwisko	
-Rubinsteina	Rubinstein	subst:sg:gen.acc:m1	nazwisko	
-Rubinsteinem	Rubinstein	subst:sg:inst:m1	nazwisko	
-Rubinsteinie	Rubinstein	subst:sg:loc:m1	nazwisko	
-Rubinsteinie	Rubinstein	subst:sg:voc:m1	nazwisko	
-Rubinsteinom	Rubinstein	subst:pl:dat:m1	nazwisko	
-Rubinsteinowie	Rubinstein	subst:pl:nom.voc:m1	nazwisko	
-Rubinsteinowi	Rubinstein	subst:sg:dat:m1	nazwisko	
-Rubinsteinów	Rubinstein	subst:pl:gen.acc:m1	nazwisko	
-Rubinstein	Rubinstein	subst:sg:nom:m1	nazwisko	
-Rubinsteiny	Rubinstein	depr:pl:nom.acc.voc:m2	nazwisko	
+Rubinsteinach	Rubinstein:s1	subst:pl:loc:m1	nazwisko	
+Rubinsteinami	Rubinstein:s1	subst:pl:inst:m1	nazwisko	
+Rubinsteina	Rubinstein:s1	subst:sg:gen.acc:m1	nazwisko	
+Rubinsteinem	Rubinstein:s1	subst:sg:inst:m1	nazwisko	
+Rubinsteinie	Rubinstein:s1	subst:sg:loc:m1	nazwisko	
+Rubinsteinie	Rubinstein:s1	subst:sg:voc:m1	nazwisko	
+Rubinsteinom	Rubinstein:s1	subst:pl:dat:m1	nazwisko	
+Rubinsteinowie	Rubinstein:s1	subst:pl:nom.voc:m1	nazwisko	
+Rubinsteinowi	Rubinstein:s1	subst:sg:dat:m1	nazwisko	
+Rubinsteinów	Rubinstein:s1	subst:pl:gen.acc:m1	nazwisko	
+Rubinstein	Rubinstein:s1	subst:sg:nom:m1	nazwisko	
+Rubinsteiny	Rubinstein:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Rubinstein	Rubinstein:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Rubińska	Rubińska	subst:sg:nom:f	nazwisko	
 Rubińska	Rubińska	subst:sg:voc:f	nazwisko	
 Rubińską	Rubińska	subst:sg:acc:f	nazwisko	
@@ -27458,6 +27470,17 @@ Rumińskim	Rumiński	subst:sg:inst:m1	nazwisko
 Rumińskim	Rumiński	subst:sg:loc:m1	nazwisko	
 Rumiński	Rumiński	subst:sg:nom:m1	nazwisko	
 Rumiński	Rumiński	subst:sg:voc:m1	nazwisko	
+Rumkowska	Rumkowska	subst:sg:nom:f	nazwisko	
+Rumkowska	Rumkowska	subst:sg:voc:f	nazwisko	
+Rumkowską	Rumkowska	subst:sg:acc:f	nazwisko	
+Rumkowską	Rumkowska	subst:sg:inst:f	nazwisko	
+Rumkowskich	Rumkowska	subst:pl:gen:f	nazwisko	
+Rumkowskich	Rumkowska	subst:pl:loc:f	nazwisko	
+Rumkowskiej	Rumkowska	subst:sg:dat.loc:f	nazwisko	
+Rumkowskiej	Rumkowska	subst:sg:gen:f	nazwisko	
+Rumkowskie	Rumkowska	subst:pl:nom.acc.voc:f	nazwisko	
+Rumkowskimi	Rumkowska	subst:pl:inst:f	nazwisko	
+Rumkowskim	Rumkowska	subst:pl:dat:f	nazwisko	
 Rumkowscy	Rumkowski	subst:pl:nom.voc:m1	nazwisko	
 Rumkowskich	Rumkowski	subst:pl:gen.acc:m1	nazwisko	
 Rumkowskich	Rumkowski	subst:pl:loc:m1	nazwisko	
@@ -28658,31 +28681,33 @@ Russków	Russek:s1	subst:pl:gen.acc:m1	nazwisko
 Russku	Russek:s1	subst:sg:loc:m1	nazwisko	
 Russku	Russek:s1	subst:sg:voc:m1	nazwisko	
 Russek	Russek:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Russellach	Russell	subst:pl:loc:m1	nazwisko	
-Russellami	Russell	subst:pl:inst:m1	nazwisko	
-Russella	Russell	subst:sg:gen.acc:m1	nazwisko	
-Russellem	Russell	subst:sg:inst:m1	nazwisko	
-Russelle	Russell	depr:pl:nom.acc.voc:m2	nazwisko	
-Russelle	Russell	subst:pl:nom.voc:m1	nazwisko	
-Russellom	Russell	subst:pl:dat:m1	nazwisko	
-Russellowie	Russell	subst:pl:nom.voc:m1	nazwisko	
-Russellowi	Russell	subst:sg:dat:m1	nazwisko	
-Russellów	Russell	subst:pl:gen.acc:m1	nazwisko	
-Russell	Russell	subst:sg:nom:m1	nazwisko	
-Russellu	Russell	subst:sg:loc:m1	nazwisko	
-Russellu	Russell	subst:sg:voc:m1	nazwisko	
-Russach	Russo	subst:pl:loc:m1	nazwisko	
-Russami	Russo	subst:pl:inst:m1	nazwisko	
-Russa	Russo	subst:sg:gen.acc:m1	nazwisko	
-Russem	Russo	subst:sg:inst:m1	nazwisko	
-Russie	Russo	subst:sg:loc:m1	nazwisko	
-Russom	Russo	subst:pl:dat:m1	nazwisko	
-Russo	Russo	subst:sg:nom:m1	nazwisko	
-Russo	Russo	subst:sg:voc:m1	nazwisko	
-Russowie	Russo	subst:pl:nom.voc:m1	nazwisko	
-Russowi	Russo	subst:sg:dat:m1	nazwisko	
-Russów	Russo	subst:pl:gen.acc:m1	nazwisko	
-Russy	Russo	depr:pl:nom.acc.voc:m2	nazwisko	
+Russellach	Russell:s1	subst:pl:loc:m1	nazwisko	
+Russellami	Russell:s1	subst:pl:inst:m1	nazwisko	
+Russella	Russell:s1	subst:sg:gen.acc:m1	nazwisko	
+Russellem	Russell:s1	subst:sg:inst:m1	nazwisko	
+Russelle	Russell:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Russelle	Russell:s1	subst:pl:nom.voc:m1	nazwisko	
+Russellom	Russell:s1	subst:pl:dat:m1	nazwisko	
+Russellowie	Russell:s1	subst:pl:nom.voc:m1	nazwisko	
+Russellowi	Russell:s1	subst:sg:dat:m1	nazwisko	
+Russellów	Russell:s1	subst:pl:gen.acc:m1	nazwisko	
+Russell	Russell:s1	subst:sg:nom:m1	nazwisko	
+Russellu	Russell:s1	subst:sg:loc:m1	nazwisko	
+Russellu	Russell:s1	subst:sg:voc:m1	nazwisko	
+Russell	Russell:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Russach	Russo:s1	subst:pl:loc:m1	nazwisko	
+Russami	Russo:s1	subst:pl:inst:m1	nazwisko	
+Russa	Russo:s1	subst:sg:gen.acc:m1	nazwisko	
+Russem	Russo:s1	subst:sg:inst:m1	nazwisko	
+Russie	Russo:s1	subst:sg:loc:m1	nazwisko	
+Russom	Russo:s1	subst:pl:dat:m1	nazwisko	
+Russo	Russo:s1	subst:sg:nom:m1	nazwisko	
+Russo	Russo:s1	subst:sg:voc:m1	nazwisko	
+Russowie	Russo:s1	subst:pl:nom.voc:m1	nazwisko	
+Russowi	Russo:s1	subst:sg:dat:m1	nazwisko	
+Russów	Russo:s1	subst:pl:gen.acc:m1	nazwisko	
+Russy	Russo:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Russo	Russo:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Russach	Russ:s1	subst:pl:loc:m1	nazwisko	
 Russami	Russ:s1	subst:pl:inst:m1	nazwisko	
 Russa	Russ:s1	subst:sg:gen.acc:m1	nazwisko	
@@ -33422,17 +33447,17 @@ Rysiowi	Rysio	subst:sg:dat:m1	imię
 Rysiów	Rysio	subst:pl:gen.acc:m1	imię	
 Rysiu	Rysio	subst:sg:loc:m1	imię	
 Rysiu	Rysio	subst:sg:voc:m1	imię	
-Rysiówien	Rysiówna	subst:pl:gen:f	nazwisko	
-Rysiównach	Rysiówna	subst:pl:loc:f	nazwisko	
-Rysiównami	Rysiówna	subst:pl:inst:f	nazwisko	
-Rysiówna	Rysiówna	subst:sg:nom:f	nazwisko	
-Rysiówną	Rysiówna	subst:sg:inst:f	nazwisko	
-Rysiównę	Rysiówna	subst:sg:acc:f	nazwisko	
-Rysiównie	Rysiówna	subst:sg:dat.loc:f	nazwisko	
-Rysiównom	Rysiówna	subst:pl:dat:f	nazwisko	
-Rysiówno	Rysiówna	subst:sg:voc:f	nazwisko	
-Rysiówny	Rysiówna	subst:pl:nom.acc.voc:f	nazwisko	
-Rysiówny	Rysiówna	subst:sg:gen:f	nazwisko	
+Rysiówien	Rysiówna	subst:pl:gen:f	nazwisko (odojcowskie)	
+Rysiównach	Rysiówna	subst:pl:loc:f	nazwisko (odojcowskie)	
+Rysiównami	Rysiówna	subst:pl:inst:f	nazwisko (odojcowskie)	
+Rysiówna	Rysiówna	subst:sg:nom:f	nazwisko (odojcowskie)	
+Rysiówną	Rysiówna	subst:sg:inst:f	nazwisko (odojcowskie)	
+Rysiównę	Rysiówna	subst:sg:acc:f	nazwisko (odojcowskie)	
+Rysiównie	Rysiówna	subst:sg:dat.loc:f	nazwisko (odojcowskie)	
+Rysiównom	Rysiówna	subst:pl:dat:f	nazwisko (odojcowskie)	
+Rysiówno	Rysiówna	subst:sg:voc:f	nazwisko (odojcowskie)	
+Rysiówny	Rysiówna	subst:pl:nom.acc.voc:f	nazwisko (odojcowskie)	
+Rysiówny	Rysiówna	subst:sg:gen:f	nazwisko (odojcowskie)	
 Rysce	Ryska:s1	subst:sg:dat.loc:m1	nazwisko	
 Ryskach	Ryska:s1	subst:pl:loc:m1	nazwisko	
 Ryskami	Ryska:s1	subst:pl:inst:m1	nazwisko	

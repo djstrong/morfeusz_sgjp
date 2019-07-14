@@ -34,18 +34,19 @@ Yorku	York	subst:sg:gen:m3	nazwa geograficzna
 Yorku	York	subst:sg:loc:m3	nazwa geograficzna	
 Yorku	York	subst:sg:voc:m3	nazwa geograficzna	
 York	York	subst:sg:nom.acc:m3	nazwa geograficzna	
-Youngach	Young	subst:pl:loc:m1	nazwisko	
-Youngami	Young	subst:pl:inst:m1	nazwisko	
-Younga	Young	subst:sg:gen.acc:m1	nazwisko	
-Youngiem	Young	subst:sg:inst:m1	nazwisko	
-Youngi	Young	depr:pl:nom.acc.voc:m2	nazwisko	
-Youngom	Young	subst:pl:dat:m1	nazwisko	
-Youngowie	Young	subst:pl:nom.voc:m1	nazwisko	
-Youngowi	Young	subst:sg:dat:m1	nazwisko	
-Youngów	Young	subst:pl:gen.acc:m1	nazwisko	
-Youngu	Young	subst:sg:loc:m1	nazwisko	
-Youngu	Young	subst:sg:voc:m1	nazwisko	
-Young	Young	subst:sg:nom:m1	nazwisko	
+Youngach	Young:s1	subst:pl:loc:m1	nazwisko	
+Youngami	Young:s1	subst:pl:inst:m1	nazwisko	
+Younga	Young:s1	subst:sg:gen.acc:m1	nazwisko	
+Youngiem	Young:s1	subst:sg:inst:m1	nazwisko	
+Youngi	Young:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+Youngom	Young:s1	subst:pl:dat:m1	nazwisko	
+Youngowie	Young:s1	subst:pl:nom.voc:m1	nazwisko	
+Youngowi	Young:s1	subst:sg:dat:m1	nazwisko	
+Youngów	Young:s1	subst:pl:gen.acc:m1	nazwisko	
+Youngu	Young:s1	subst:sg:loc:m1	nazwisko	
+Youngu	Young:s1	subst:sg:voc:m1	nazwisko	
+Young	Young:s1	subst:sg:nom:m1	nazwisko	
+Young	Young:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
 Ystad	Ystad	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa geograficzna	
 YWCA	YWCA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwa organizacji	
 YWCA	YWCA	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa organizacji	

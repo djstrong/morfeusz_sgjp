@@ -246,17 +246,31 @@
 Ćwieluchu	Ćwieluch:s1	subst:sg:voc:m1	nazwisko	
 Ćwieluchy	Ćwieluch:s1	depr:pl:nom.acc.voc:m2	nazwisko	
 Ćwieluch	Ćwieluch:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
-Ćwierczakiewiczowa	Ćwierczakiewiczowa	subst:sg:nom:f	nazwisko	
-Ćwierczakiewiczowa	Ćwierczakiewiczowa	subst:sg:voc:f	nazwisko	
-Ćwierczakiewiczową	Ćwierczakiewiczowa	subst:sg:acc:f	nazwisko	
-Ćwierczakiewiczową	Ćwierczakiewiczowa	subst:sg:inst:f	nazwisko	
-Ćwierczakiewiczowe	Ćwierczakiewiczowa	subst:pl:nom.acc.voc:f	nazwisko	
-Ćwierczakiewiczowej	Ćwierczakiewiczowa	subst:sg:dat.loc:f	nazwisko	
-Ćwierczakiewiczowej	Ćwierczakiewiczowa	subst:sg:gen:f	nazwisko	
-Ćwierczakiewiczowych	Ćwierczakiewiczowa	subst:pl:gen:f	nazwisko	
-Ćwierczakiewiczowych	Ćwierczakiewiczowa	subst:pl:loc:f	nazwisko	
-Ćwierczakiewiczowym	Ćwierczakiewiczowa	subst:pl:dat:f	nazwisko	
-Ćwierczakiewiczowymi	Ćwierczakiewiczowa	subst:pl:inst:f	nazwisko	
+Ćwierczakiewiczowa	Ćwierczakiewiczowa	subst:sg:nom:f	nazwisko (odmężowskie)	
+Ćwierczakiewiczowa	Ćwierczakiewiczowa	subst:sg:voc:f	nazwisko (odmężowskie)	
+Ćwierczakiewiczową	Ćwierczakiewiczowa	subst:sg:acc:f	nazwisko (odmężowskie)	
+Ćwierczakiewiczową	Ćwierczakiewiczowa	subst:sg:inst:f	nazwisko (odmężowskie)	
+Ćwierczakiewiczowe	Ćwierczakiewiczowa	subst:pl:nom.acc.voc:f	nazwisko (odmężowskie)	
+Ćwierczakiewiczowej	Ćwierczakiewiczowa	subst:sg:dat.loc:f	nazwisko (odmężowskie)	
+Ćwierczakiewiczowej	Ćwierczakiewiczowa	subst:sg:gen:f	nazwisko (odmężowskie)	
+Ćwierczakiewiczowych	Ćwierczakiewiczowa	subst:pl:gen:f	nazwisko (odmężowskie)	
+Ćwierczakiewiczowych	Ćwierczakiewiczowa	subst:pl:loc:f	nazwisko (odmężowskie)	
+Ćwierczakiewiczowym	Ćwierczakiewiczowa	subst:pl:dat:f	nazwisko (odmężowskie)	
+Ćwierczakiewiczowymi	Ćwierczakiewiczowa	subst:pl:inst:f	nazwisko (odmężowskie)	
+Ćwierczakiewicz	Ćwierczakiewicz:s1	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+Ćwierczakiewiczach	Ćwierczakiewicz:s3	subst:pl:loc:m1	nazwisko	
+Ćwierczakiewicza	Ćwierczakiewicz:s3	subst:sg:gen.acc:m1	nazwisko	
+Ćwierczakiewiczami	Ćwierczakiewicz:s3	subst:pl:inst:m1	nazwisko	
+Ćwierczakiewicz	Ćwierczakiewicz:s3	subst:sg:nom:m1	nazwisko	
+Ćwierczakiewicze	Ćwierczakiewicz:s3	depr:pl:nom.acc.voc:m2	nazwisko	
+Ćwierczakiewicze	Ćwierczakiewicz:s3	subst:pl:nom.voc:m1	nazwisko	
+Ćwierczakiewiczem	Ćwierczakiewicz:s3	subst:sg:inst:m1	nazwisko	
+Ćwierczakiewiczom	Ćwierczakiewicz:s3	subst:pl:dat:m1	nazwisko	
+Ćwierczakiewiczowi	Ćwierczakiewicz:s3	subst:sg:dat:m1	nazwisko	
+Ćwierczakiewiczowie	Ćwierczakiewicz:s3	subst:pl:nom.voc:m1	nazwisko	
+Ćwierczakiewiczów	Ćwierczakiewicz:s3	subst:pl:gen.acc:m1	nazwisko	
+Ćwierczakiewiczu	Ćwierczakiewicz:s3	subst:sg:loc:m1	nazwisko	
+Ćwierczakiewiczu	Ćwierczakiewicz:s3	subst:sg:voc:m1	nazwisko	
 Ćwiertce	Ćwiertka:s1	subst:sg:dat.loc:m1	nazwisko	
 Ćwiertkach	Ćwiertka:s1	subst:pl:loc:m1	nazwisko	
 Ćwiertka	Ćwiertka:s1	subst:sg:nom:m1	nazwisko	
